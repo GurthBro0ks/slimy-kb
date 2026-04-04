@@ -59,13 +59,23 @@ Image and non-markdown intake also records folder/path/hash/timestamp in generat
 1. Write notes in `Inbox/notes/` or `Projects/`.
 2. Drop longer references in `Inbox/articles/`.
 3. Drop screenshots in `Inbox/images/`.
-4. Run `wiki vault-ingest`.
-5. Check status and report quickly:
+4. Run `wiki sync`.
+5. Run `wiki vault-sync`.
+6. Run `wiki vault-ingest`.
+7. Check status and report quickly:
    - `wiki status`
    - `wiki open-report latest`
-6. Run `wiki compile-candidates` to identify uncompiled raw notes.
-7. Generate next-step prompt shortcuts when needed:
+8. Run `wiki compile-candidates` to identify uncompiled raw notes.
+   - Candidate detection is strict and based on wiki article `> Sources:` lines.
+9. Generate next-step prompt shortcuts when needed:
    - `wiki prompt-query "question"`
    - `wiki prompt-compile`
-8. Continue normal KB compile flow from `raw/` to `wiki/`.
-9. Run `wiki vault-sync` whenever you want the latest compiled wiki in Obsidian.
+10. Continue normal KB compile flow from `raw/` to `wiki/`.
+11. Run `wiki vault-sync` whenever you want the latest compiled wiki in Obsidian.
+
+## Operator Panel Notes In Vault
+- `Home`: `/home/slimy/obsidian/slimyai-vault/Home.md`
+- `Operator Console`: `/home/slimy/obsidian/slimyai-vault/Projects/Operator Console.md`
+- Shell command wiring:
+  - `/home/slimy/obsidian/slimyai-vault/Plugin Setup/Shell Commands - Operator Commands.md`
+  - `/home/slimy/obsidian/slimyai-vault/Plugin Setup/Shell Commands - Suggested Additions.md`
