@@ -13,8 +13,10 @@
 - Multi-host topology governance
 - Cross-NUC communication matrix
 - Harness runtime topology
+- Knowledge base build pipeline
 - Mailbox pull-ingest transport
 - Supervisor ownership mapping
 - Memory capture and curation
 - Regression-proof verification
 - Tunnel grant dependency
+- SlimyAI login/session flow

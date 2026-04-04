@@ -27,3 +27,4 @@ SlimyAI operations rely on three ledgers that must remain current every session.
 - [Session Closeout Pattern](../patterns/session-closeout-pattern.md)
 - [NUC Topology and Services](../architecture/nuc-topology-and-services.md)
 - [Harness Runtime Topology](../architecture/harness-runtime-topology.md)
+- [Knowledge Base Build Pipeline](../architecture/knowledge-base-build-pipeline.md)

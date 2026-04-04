@@ -51,5 +51,6 @@ This article maps where SlimyAI harness components live, who owns them at runtim
 - [Agent Session Contract](../concepts/agent-session-contract.md)
 - [Source of Truth Ledgers](../concepts/source-of-truth-ledgers.md)
 - [Session Closeout Pattern](../patterns/session-closeout-pattern.md)
+- [Knowledge Base Build Pipeline](knowledge-base-build-pipeline.md)
 - [Cross-NUC Communication Matrix](cross-nuc-communication-matrix.md)
 - [NUC Topology and Services](nuc-topology-and-services.md)

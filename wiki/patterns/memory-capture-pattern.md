@@ -25,3 +25,4 @@ This pattern separates short-term logs from durable knowledge.
 ## See Also
 - [Source of Truth Ledgers](../concepts/source-of-truth-ledgers.md)
 - [Session Closeout Pattern](session-closeout-pattern.md)
+- [Knowledge Base Build Pipeline](../architecture/knowledge-base-build-pipeline.md)

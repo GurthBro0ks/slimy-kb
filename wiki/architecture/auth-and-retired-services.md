@@ -23,6 +23,7 @@ The active auth model is email/password via `lib/slimy-auth` and MySQL-backed se
 If a retired component appears broken, that is expected. Do not restart or rebuild it unless explicitly directed.
 
 ## See Also
+- [SlimyAI Login and Session Flow](slimyai-login-and-session-flow.md)
 - [NUC Topology and Services](nuc-topology-and-services.md)
 - [Cross-NUC Communication Matrix](cross-nuc-communication-matrix.md)
 - [Agent Session Contract](../concepts/agent-session-contract.md)

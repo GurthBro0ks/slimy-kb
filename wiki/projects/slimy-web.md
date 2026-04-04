@@ -21,3 +21,4 @@ Slimy Web is the Next.js front-end with role-aware routing, API proxies, and doc
 ## See Also
 - [Slimy Monorepo](slimy-monorepo.md)
 - [Auth and Retired Services](../architecture/auth-and-retired-services.md)
+- [SlimyAI Login and Session Flow](../architecture/slimyai-login-and-session-flow.md)

@@ -23,5 +23,6 @@ The Slimy monorepo hosts web, bot, and supporting packages with shared CI and in
 
 ## See Also
 - [Slimy Web](slimy-web.md)
+- [SlimyAI Login and Session Flow](../architecture/slimyai-login-and-session-flow.md)
 - [NUC Topology and Services](../architecture/nuc-topology-and-services.md)
 - [Truth Gate](../concepts/truth-gate.md)
