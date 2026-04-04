@@ -204,12 +204,17 @@ collect_wiki_article_files() {
 collect_compile_candidates() {
     local -A referenced=()
     local wiki_file ref raw_rel
+    local -a source_lines=()
 
     while IFS= read -r wiki_file; do
+        mapfile -t source_lines < <(grep -hE '^> Sources:' "$wiki_file" || true)
+        if [[ ${#source_lines[@]} -eq 0 ]]; then
+            continue
+        fi
         while IFS= read -r ref; do
             [[ -n "$ref" ]] || continue
             referenced["$ref"]=1
-        done < <(grep -hoE 'raw/[A-Za-z0-9._/-]+\.md' "$wiki_file" || true)
+        done < <(printf '%s\n' "${source_lines[@]}" | grep -hoE 'raw/[A-Za-z0-9._/-]+\.md' || true)
     done < <(collect_wiki_article_files)
 
     while IFS= read -r raw_rel; do
