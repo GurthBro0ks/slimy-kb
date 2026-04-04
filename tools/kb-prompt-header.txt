@@ -1,0 +1,2 @@
+# Add to the top of any KB prompt (K, L, M, N, O):
+bash /home/slimy/kb/tools/kb-sync.sh pull

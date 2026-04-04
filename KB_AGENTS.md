@@ -37,3 +37,27 @@ After ANY wiki change:
 - _index.md must list every article with a one-line summary
 - _concepts.md must list every concept
 - _stale.md should flag articles older than 30 days without updates
+
+## Cross-NUC Coordination
+
+The KB is a shared git repo (GurthBro0ks/slimy-kb) cloned on both NUC1 and NUC2.
+
+### Before ANY KB read operation (query, search, compile, lint):
+Run: bash /home/slimy/kb/tools/kb-sync.sh pull
+
+### After ANY KB write operation (compile, ingest, file-back, gap-fill):
+Run: bash /home/slimy/kb/tools/kb-sync.sh push
+
+### Filing learnings from either NUC:
+Use kb-write.sh for atomic file+sync:
+  echo "content" | bash /home/slimy/kb/tools/kb-write.sh raw/agent-learnings/YYYY-MM-DD-slug.md
+
+### Conflict resolution:
+Git rebase is used. If rebase fails (rare with .md files), the sync tool
+warns but does not block. Resolve manually or re-run sync after the other
+NUC finishes its current session.
+
+### Naming convention for NUC-sourced content:
+Raw files from agent sessions should include the hostname:
+  YYYY-MM-DD-nuc1-slug.md or YYYY-MM-DD-nuc2-slug.md
+This is for provenance only — wiki articles are NOT split by NUC.
