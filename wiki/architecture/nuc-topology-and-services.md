@@ -22,5 +22,7 @@ SlimyAI is split across NUC1 and NUC2 with clear service boundaries.
 
 ## See Also
 - [Auth and Retired Services](auth-and-retired-services.md)
+- [Cross-NUC Communication Matrix](cross-nuc-communication-matrix.md)
+- [Harness Runtime Topology](harness-runtime-topology.md)
 - [Source of Truth Ledgers](../concepts/source-of-truth-ledgers.md)
 - [Q1 2026 Operational Fixes](../troubleshooting/q1-2026-operational-fixes.md)

@@ -24,4 +24,5 @@ If a retired component appears broken, that is expected. Do not restart or rebui
 
 ## See Also
 - [NUC Topology and Services](nuc-topology-and-services.md)
+- [Cross-NUC Communication Matrix](cross-nuc-communication-matrix.md)
 - [Agent Session Contract](../concepts/agent-session-contract.md)

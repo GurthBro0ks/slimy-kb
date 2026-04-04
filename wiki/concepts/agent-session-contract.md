@@ -26,3 +26,4 @@ The shared contract prevents cross-repo drift and keeps work auditable across mu
 - [Truth Gate](truth-gate.md)
 - [Session Closeout Pattern](../patterns/session-closeout-pattern.md)
 - [Auth and Retired Services](../architecture/auth-and-retired-services.md)
+- [Harness Runtime Topology](../architecture/harness-runtime-topology.md)

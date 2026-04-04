@@ -51,3 +51,4 @@ Prevention:
 - [Truth Gate](../concepts/truth-gate.md)
 - [Session Closeout Pattern](../patterns/session-closeout-pattern.md)
 - [NUC Topology and Services](../architecture/nuc-topology-and-services.md)
+- [Cross-NUC Communication Matrix](../architecture/cross-nuc-communication-matrix.md)

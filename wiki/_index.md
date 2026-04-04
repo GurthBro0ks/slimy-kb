@@ -27,4 +27,6 @@
 
 ### Architecture
 - [Auth and Retired Services](architecture/auth-and-retired-services.md) - Current auth stack and intentionally dead services.
+- [Cross-NUC Communication Matrix](architecture/cross-nuc-communication-matrix.md) - Channel-by-channel map of NUC1/NUC2 transport, auth, ownership, and failures.
+- [Harness Runtime Topology](architecture/harness-runtime-topology.md) - Placement and supervisor ownership of harness, mailbox, and runtime control components.
 - [NUC Topology and Services](architecture/nuc-topology-and-services.md) - NUC1/NUC2 service placement and operational boundaries.
