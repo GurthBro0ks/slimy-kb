@@ -1,0 +1,2 @@
+# Add to the bottom of any KB prompt, before the final git commit:
+bash /home/slimy/kb/tools/kb-sync.sh push

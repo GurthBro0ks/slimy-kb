@@ -1,6 +1,6 @@
 # Agents Plugin Ecosystem
 > Category: projects
-> Sources: raw/articles/seed-agents-backup-full-readme.md
+> Sources: raw/articles/seed-agents-backup-full-readme.md, raw/articles/nuc1-seed-actionbook-readme.md
 > Created: 2026-04-04
 > Updated: 2026-04-04
 > Status: draft
@@ -16,6 +16,11 @@ This project packages focused plugins, specialized agents, skills, and workflow 
 - Install only required capabilities for a task.
 - Reduce token use by avoiding broad always-on context.
 - Compose multiple narrow plugins for complex workflows.
+
+## Browser Action Layer
+- Actionbook is used as a browser action engine pattern for agents that need reliable website operation.
+- The model is manual-first (site action manuals + DOM mappings) instead of heuristic scraping, reducing selector drift and token-heavy HTML parsing.
+- In this ecosystem view, browser actions are treated like any other scoped plugin capability: explicitly loaded when needed, omitted otherwise.
 
 ## See Also
 - [Mission Control](mission-control.md)

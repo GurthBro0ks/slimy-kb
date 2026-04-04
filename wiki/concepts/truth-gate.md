@@ -1,6 +1,6 @@
 # Truth Gate
 > Category: concepts
-> Sources: raw/decisions/seed-app-agents.md, raw/decisions/seed-slimy-monorepo-agents.md, raw/decisions/seed-pm_updown_bot_bundle-agents.md, raw/agent-learnings/seed-progress-history.md
+> Sources: raw/decisions/seed-app-agents.md, raw/decisions/seed-slimy-monorepo-agents.md, raw/decisions/seed-pm_updown_bot_bundle-agents.md, raw/agent-learnings/seed-progress-history.md, raw/decisions/nuc1-seed-proofs-agents.md
 > Created: 2026-04-04
 > Updated: 2026-04-04
 > Status: draft
@@ -22,6 +22,11 @@ A truth gate is the required verification set that proves a change is actually d
 - Reporting pass from local assumptions without command evidence.
 - Skipping regression checks after targeted fixes.
 - Treating warnings as pass when contract requires zero errors.
+
+## Fail-Closed Variant
+- Some repos define a strict fail-closed truth gate where success cannot be claimed unless one explicit command exits cleanly (for example `./scripts/run_tests.sh`).
+- This variant usually pairs with forbidden zones and no-auto-commit rules to prevent accidental drift while debugging.
+- Operationally, it is a tighter specialization of the same core concept: evidence first, claims second.
 
 ## See Also
 - [Agent Session Contract](agent-session-contract.md)
