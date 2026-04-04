@@ -23,6 +23,10 @@ Examples:
   wiki sync
   wiki vault-sync
   wiki vault-ingest
+
+Notes:
+  vault-ingest writes a run report to:
+  /home/slimy/kb/output/obsidian-ingest-report-YYYYMMDD-HHMMSS.md
 USAGE
 }
 

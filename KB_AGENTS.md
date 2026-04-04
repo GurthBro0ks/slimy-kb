@@ -76,7 +76,7 @@ Commands:
 - `wiki open architecture/some-article.md` — opens by direct path
 - `wiki sync` — pulls latest KB state
 - `wiki vault-sync` — mirror canonical wiki into Obsidian vault `Wiki/`
-- `wiki vault-ingest` — ingest writable Obsidian vault content into `raw/`
+- `wiki vault-ingest` — ingest writable Obsidian vault content into `raw/` and write an ingest report in `output/`
 - `wiki help` — prints command usage
 
 Result cache:

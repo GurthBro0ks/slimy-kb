@@ -28,6 +28,7 @@ The vault `Wiki/` folder is a mirrored copy and should be treated as browse-only
 - Ingest Obsidian content into KB raw:
   - `bash /home/slimy/kb/tools/kb-obsidian-ingest.sh`
   - or `wiki vault-ingest`
+  - Writes ingest report: `/home/slimy/kb/output/obsidian-ingest-report-YYYYMMDD-HHMMSS.md`
 
 ## Ingest Mapping
 - `Inbox/articles/*` -> `kb/raw/articles/`
@@ -43,10 +44,22 @@ The ingest script keeps a checksum manifest at:
 
 If a source file has not changed, ingest skips re-import.
 
+## Ingest Provenance
+Markdown ingest preserves source note metadata and adds ingest provenance fields:
+- `kb_ingest_source`
+- `kb_ingest_folder`
+- `kb_ingest_relpath`
+- `kb_ingest_timestamp`
+- `kb_ingest_hash`
+- `kb_ingest_type`
+
+Image and non-markdown intake also records folder/path/hash/timestamp in generated wrapper notes.
+
 ## Daily Use (Simple)
 1. Write notes in `Inbox/notes/` or `Projects/`.
 2. Drop longer references in `Inbox/articles/`.
 3. Drop screenshots in `Inbox/images/`.
 4. Run `wiki vault-ingest`.
-5. Continue normal KB compile flow from `raw/` to `wiki/`.
-6. Run `wiki vault-sync` whenever you want the latest compiled wiki in Obsidian.
+5. Check the latest ingest report in `output/` for counts and warnings.
+6. Continue normal KB compile flow from `raw/` to `wiki/`.
+7. Run `wiki vault-sync` whenever you want the latest compiled wiki in Obsidian.
