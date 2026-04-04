@@ -75,6 +75,8 @@ Commands:
 - `wiki open 1` — opens a numbered result from the last search set
 - `wiki open architecture/some-article.md` — opens by direct path
 - `wiki sync` — pulls latest KB state
+- `wiki vault-sync` — mirror canonical wiki into Obsidian vault `Wiki/`
+- `wiki vault-ingest` — ingest writable Obsidian vault content into `raw/`
 - `wiki help` — prints command usage
 
 Result cache:

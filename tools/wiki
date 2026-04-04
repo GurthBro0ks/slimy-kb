@@ -11,6 +11,8 @@ Usage:
   wiki search [--raw|--all] "terms"
   wiki open <number|path>
   wiki sync
+  wiki vault-sync
+  wiki vault-ingest
   wiki help
 
 Examples:
@@ -19,6 +21,8 @@ Examples:
   wiki open 1
   wiki open architecture/knowledge-base-build-pipeline.md
   wiki sync
+  wiki vault-sync
+  wiki vault-ingest
 USAGE
 }
 
@@ -282,6 +286,14 @@ run_sync() {
     bash "$KB_ROOT/tools/kb-sync.sh" pull
 }
 
+run_vault_sync() {
+    bash "$KB_ROOT/tools/kb-obsidian-sync.sh"
+}
+
+run_vault_ingest() {
+    bash "$KB_ROOT/tools/kb-obsidian-ingest.sh"
+}
+
 main() {
     local cmd="${1:-help}"
     case "$cmd" in
@@ -296,6 +308,14 @@ main() {
         sync)
             shift
             run_sync "$@"
+            ;;
+        vault-sync)
+            shift
+            run_vault_sync "$@"
+            ;;
+        vault-ingest)
+            shift
+            run_vault_ingest "$@"
             ;;
         help|-h|--help)
             usage
