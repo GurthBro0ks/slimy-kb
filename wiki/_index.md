@@ -5,6 +5,7 @@
 ## Categories
 ### Concepts
 - [Agent Session Contract](concepts/agent-session-contract.md) - Shared multi-repo operating contract for startup, execution, and closeout.
+- [Local Inference](concepts/local-inference.md) - On-host model serving pattern and operational constraints for NUC-local LLM runtime.
 - [Source of Truth Ledgers](concepts/source-of-truth-ledgers.md) - Canonical records that track execution history, feature status, and server health.
 - [Truth Gate](concepts/truth-gate.md) - Verification model defining when work is actually complete.
 
@@ -12,6 +13,7 @@
 - [Agents Plugin Ecosystem](projects/agents-plugin-ecosystem.md) - Plugin/agent/skill orchestration system for focused capability loading.
 - [Clawd Workspace Governance](projects/clawd-workspace-governance.md) - Memory and session governance model for Clawd workspace operations.
 - [Mission Control](projects/mission-control.md) - Task, comms, and automation coordination surface.
+- [Ned Autonomous](projects/ned-autonomous.md) - NUC1 autonomous orchestration runtime for heartbeat loops, routing, and federation.
 - [PM UpDown Bot Bundle](projects/pm-updown-bot-bundle.md) - Trading-bot bundle structure, guardrails, and truth-gate workflow.
 - [Slimy Chat](projects/slimy-chat.md) - Revolt-based invite-only chat stack and auth flow.
 - [Slimy Discord Bot](projects/slimy-discord-bot.md) - AI-enabled Discord bot architecture, conventions, and verification commands.

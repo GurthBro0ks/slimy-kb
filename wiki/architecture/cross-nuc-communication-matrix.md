@@ -1,6 +1,6 @@
 # Cross-NUC Communication Matrix
 > Category: architecture
-> Sources: raw/decisions/seed-agents-rules.md, raw/decisions/seed-server-state.md, raw/agent-learnings/seed-progress-history.md, /home/slimy/server-state.md, /etc/hosts, /home/slimy/.ssh/config, /home/slimy/.config/systemd/user/slimy-mysql-tunnel.service, /home/slimy/.config/systemd/user/slimy-web.service, /home/slimy/.config/systemd/user/mission-control.service, /home/slimy/nuc-comms/README.md, /home/slimy/nuc-comms/bin/nuc1_daily_report_run.sh, /home/slimy/nuc-comms/bin/nuc2_mailbox_ingest.sh, /home/slimy/nuc-comms/bin/mailbox-ssh-guard.sh, /opt/slimy/slimy-monorepo/apps/web/.env, /opt/slimy/slimy-monorepo/apps/web/.env.local
+> Sources: raw/decisions/seed-agents-rules.md, raw/decisions/seed-server-state.md, raw/agent-learnings/seed-progress-history.md, raw/decisions/nuc1-running-services.md, raw/research/nuc1-ollama-models.md, /home/slimy/server-state.md, /etc/hosts, /home/slimy/.ssh/config, /home/slimy/.config/systemd/user/slimy-mysql-tunnel.service, /home/slimy/.config/systemd/user/slimy-web.service, /home/slimy/.config/systemd/user/mission-control.service, /home/slimy/nuc-comms/README.md, /home/slimy/nuc-comms/bin/nuc1_daily_report_run.sh, /home/slimy/nuc-comms/bin/nuc2_mailbox_ingest.sh, /home/slimy/nuc-comms/bin/mailbox-ssh-guard.sh, /opt/slimy/slimy-monorepo/apps/web/.env, /opt/slimy/slimy-monorepo/apps/web/.env.local
 > Created: 2026-04-04
 > Updated: 2026-04-04
 > Status: draft
@@ -15,6 +15,7 @@ This matrix documents the known communication paths between NUC1 and NUC2, with 
 | Bot API path (`BOT_API_URL`) | HTTP over Tailscale | NUC2 -> NUC1 (`100.106.127.22:8510`) | Tailscale device identity + app-level API controls | App owner for bot/web integration | `ECONNREFUSED`/timeout when bot endpoint is unreachable |
 | Edge reverse-proxy hop for Mission Control | HTTP reverse proxy behind TLS edge | NUC1 edge -> NUC2 `mission-control:3838` | TLS at edge, app auth/cookies in Mission Control | NUC1 edge routing + NUC2 `mission-control.service` | Proxy 502/blank page when backend or route wiring drifts |
 | Operator shell/ops channel | SSH (`work-nuc1`, `nuc1-lan`) | NUC2 operator -> NUC1 | SSH key auth | Human operators + host SSH policy | Port mismatch/refused (for example `4421` vs LAN `22`) |
+| NUC1 local-inference access (optional) | Ollama HTTP (`127.0.0.1:11434`) exposed cross-host via SSH port-forward when needed | NUC2 -> NUC1 (on-demand) | SSH key auth for tunnel + local bind policy on NUC1 | Operators/agent maintainers | No route without tunnel; connection refused if forwarding absent; model-not-found on mismatched runtime |
 | Repo sync channel | Git over SSH to GitHub (`git@github.com`) | NUC1 and NUC2 <-> GitHub | GitHub SSH key auth | Per-repo maintainers | Non-fast-forward/divergent branch states; stale local main |
 | NUC mailbox transport (daily report) | Git mailbox + SHA/schema verification | NUC1 push -> NUC2 bare mailbox repo -> NUC2 ingest copy | Restricted mailbox key + `mailbox-ssh-guard.sh` + JSON schema + SHA256 | NUC1 report producer + NUC2 ingest timer/service | `missing report.json`, `missing report.sha256`, `schema validation failed`, `sha mismatch` |
 
@@ -23,6 +24,7 @@ This matrix documents the known communication paths between NUC1 and NUC2, with 
 - `/etc/hosts` includes LAN and Tailscale naming anchors (`slimy-db`, `nuc1-ts`, `nuc2-ts`).
 - `slimy-mysql-tunnel.service` is active and runs `ssh -N -L 3307:localhost:3306 nuc1-lan`.
 - `apps/web/.env` points club MySQL traffic to `127.0.0.1:3307`.
+- NUC1 runtime inspection shows Ollama bound to loopback (`127.0.0.1:11434`) and OpenClaw gateway ports bound to loopback (`127.0.0.1:18789-18792`), confirming explicit non-public exposure defaults.
 - Live probe through that path returns access denied for `slimy@172.18.0.1`, matching the known NUC1 grant issue.
 
 ## Governance Principles

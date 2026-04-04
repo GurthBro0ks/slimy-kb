@@ -1,6 +1,6 @@
 # NUC Topology and Services
 > Category: architecture
-> Sources: raw/decisions/seed-server-state.md, raw/decisions/seed-agents-rules.md
+> Sources: raw/decisions/seed-server-state.md, raw/decisions/seed-agents-rules.md, raw/decisions/nuc1-running-services.md, raw/research/nuc1-ollama-models.md
 > Created: 2026-04-04
 > Updated: 2026-04-04
 > Status: draft
@@ -11,6 +11,16 @@ SlimyAI is split across NUC1 and NUC2 with clear service boundaries.
 - NUC1 runs core infra dependencies (MySQL, Caddy, chat service, agent loop).
 - NUC2 runs primary web workloads (Next.js web app, mission-control, legacy PostgreSQL).
 - Bot process management uses PM2 where applicable; web supervision is systemd user service on NUC2.
+
+## NUC1 Runtime Snapshot (Observed 2026-04-04)
+- PM2 services: `agent-loop`, `slimy-bot-v2`.
+- Docker containers include MySQL (`slimy-mysql`), chat stack services, MongoDB (`database`), and LiveKit/media components.
+- Key listening ports include `3306` (MySQL), `8080` (chat edge), `27017` (MongoDB), `11434` (Ollama loopback), and `18789-18792` (OpenClaw gateway loopback).
+
+## Local Inference Placement
+- NUC1 has local Ollama models installed and available through loopback `127.0.0.1:11434`.
+- Current model inventory includes lightweight and mid-size options (`qwen2.5:0.5b`, `qwen2.5:3b`, `llama3.2:1b`) plus additional large/provider-tagged models.
+- Inference model policy and usage guidance are tracked in [Local Inference](../concepts/local-inference.md).
 
 ## Repository Layout
 - Canonical monorepo path: `/opt/slimy/slimy-monorepo`.
@@ -24,5 +34,6 @@ SlimyAI is split across NUC1 and NUC2 with clear service boundaries.
 - [Auth and Retired Services](auth-and-retired-services.md)
 - [Cross-NUC Communication Matrix](cross-nuc-communication-matrix.md)
 - [Harness Runtime Topology](harness-runtime-topology.md)
+- [Local Inference](../concepts/local-inference.md)
 - [Source of Truth Ledgers](../concepts/source-of-truth-ledgers.md)
 - [Q1 2026 Operational Fixes](../troubleshooting/q1-2026-operational-fixes.md)

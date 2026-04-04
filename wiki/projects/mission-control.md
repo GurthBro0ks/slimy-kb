@@ -19,5 +19,6 @@ Mission Control is a coordination surface for tasks, agents, comms, calendar, me
 
 ## See Also
 - [Agents Plugin Ecosystem](agents-plugin-ecosystem.md)
+- [Ned Autonomous](ned-autonomous.md)
 - [Truth Gate](../concepts/truth-gate.md)
 - [Cross-NUC Communication Matrix](../architecture/cross-nuc-communication-matrix.md)

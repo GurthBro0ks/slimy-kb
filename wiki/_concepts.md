@@ -2,6 +2,7 @@
 > Quick-lookup flat list of all concepts. Auto-maintained.
 
 - Agent session contract
+- Local inference
 - Source of truth ledgers
 - Truth gate
 - Startup sequence discipline
@@ -18,3 +19,4 @@
 - Memory capture and curation
 - Regression-proof verification
 - Tunnel grant dependency
+- Fail-closed truth gate profile
