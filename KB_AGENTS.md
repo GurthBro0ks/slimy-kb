@@ -61,3 +61,21 @@ NUC finishes its current session.
 Raw files from agent sessions should include the hostname:
   YYYY-MM-DD-nuc1-slug.md or YYYY-MM-DD-nuc2-slug.md
 This is for provenance only — wiki articles are NOT split by NUC.
+
+## Wiki CLI (Terminal)
+
+A lightweight operator CLI is available at:
+- `/home/slimy/kb/tools/wiki`
+- `wiki` (wrapper in `~/.local/bin/wiki`)
+
+Commands:
+- `wiki search "terms"` — pulls latest KB first, then searches wiki article path/title first and content second
+- `wiki search --raw "terms"` — searches only `raw/`
+- `wiki search --all "terms"` — searches `wiki/`, `raw/`, and `output/`
+- `wiki open 1` — opens a numbered result from the last search set
+- `wiki open architecture/some-article.md` — opens by direct path
+- `wiki sync` — pulls latest KB state
+- `wiki help` — prints command usage
+
+Result cache:
+- Last search results are saved to `/tmp/wiki-last-results-$USER.tsv` for `wiki open <number>`.

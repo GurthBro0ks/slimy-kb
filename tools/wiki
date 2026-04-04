@@ -1,0 +1,311 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+KB_ROOT="/home/slimy/kb"
+KB_WIKI="$KB_ROOT/wiki"
+LAST_RESULTS="/tmp/wiki-last-results-${USER}.tsv"
+
+usage() {
+    cat << 'USAGE'
+Usage:
+  wiki search [--raw|--all] "terms"
+  wiki open <number|path>
+  wiki sync
+  wiki help
+
+Examples:
+  wiki search "trading bot crons"
+  wiki search --raw "ssh tunnel"
+  wiki open 1
+  wiki open architecture/knowledge-base-build-pipeline.md
+  wiki sync
+USAGE
+}
+
+trim() {
+    sed -E 's/^[[:space:]]+//; s/[[:space:]]+$//'
+}
+
+github_blob_base() {
+    local remote repo branch
+    remote=$(git -C "$KB_ROOT" remote get-url origin 2>/dev/null || true)
+    if [[ -z "$remote" ]]; then
+        return 0
+    fi
+
+    repo=""
+    if [[ "$remote" =~ ^git@github\.com:(.+)\.git$ ]]; then
+        repo="${BASH_REMATCH[1]}"
+    elif [[ "$remote" =~ ^https://github\.com/(.+)\.git$ ]]; then
+        repo="${BASH_REMATCH[1]}"
+    elif [[ "$remote" =~ ^https://github\.com/(.+)$ ]]; then
+        repo="${BASH_REMATCH[1]}"
+    fi
+
+    if [[ -z "$repo" ]]; then
+        return 0
+    fi
+
+    branch=$(git -C "$KB_ROOT" rev-parse --abbrev-ref HEAD 2>/dev/null || true)
+    if [[ -z "$branch" || "$branch" == "HEAD" ]]; then
+        branch="main"
+    fi
+
+    printf 'https://github.com/%s/blob/%s' "$repo" "$branch"
+}
+
+extract_title() {
+    local file="$1"
+    local header
+    header=$(grep -m1 '^# ' "$file" 2>/dev/null || true)
+    if [[ -n "$header" ]]; then
+        printf '%s\n' "${header#\# }"
+        return
+    fi
+    basename "$file"
+}
+
+extract_category() {
+    local file="$1"
+    local rel="$2"
+    local line fallback
+
+    line=$(grep -m1 '^> Category:' "$file" 2>/dev/null | sed -E 's/^> Category:[[:space:]]*//' | trim || true)
+    if [[ -n "$line" ]]; then
+        printf '%s\n' "$line"
+        return
+    fi
+
+    if [[ "$rel" == wiki/*/* ]]; then
+        fallback=$(printf '%s\n' "$rel" | cut -d'/' -f2)
+        printf '%s\n' "$fallback"
+        return
+    fi
+
+    if [[ "$rel" == raw/*/* ]]; then
+        fallback=$(printf '%s\n' "$rel" | cut -d'/' -f2)
+        printf 'raw:%s\n' "$fallback"
+        return
+    fi
+
+    if [[ "$rel" == output/* ]]; then
+        printf 'output\n'
+        return
+    fi
+
+    printf 'unknown\n'
+}
+
+collect_files() {
+    local scope="$1"
+    case "$scope" in
+        wiki)
+            find "$KB_WIKI" -type f -name '*.md' ! -name '_*.md' | sort
+            ;;
+        raw)
+            find "$KB_ROOT/raw" -type f -name '*.md' | sort
+            ;;
+        all)
+            {
+                find "$KB_WIKI" -type f -name '*.md'
+                find "$KB_ROOT/raw" -type f -name '*.md'
+                find "$KB_ROOT/output" -type f -name '*.md'
+            } | sort -u
+            ;;
+        *)
+            return 1
+            ;;
+    esac
+}
+
+run_search() {
+    local scope="wiki"
+    while [[ $# -gt 0 ]]; do
+        case "$1" in
+            --raw)
+                scope="raw"
+                shift
+                ;;
+            --all)
+                scope="all"
+                shift
+                ;;
+            --help|-h)
+                usage
+                exit 0
+                ;;
+            --)
+                shift
+                break
+                ;;
+            -*)
+                echo "Unknown option: $1"
+                exit 1
+                ;;
+            *)
+                break
+                ;;
+        esac
+    done
+
+    if [[ $# -lt 1 ]]; then
+        echo "Usage: wiki search [--raw|--all] \"terms\""
+        exit 1
+    fi
+
+    local query="$*"
+    local blob_base
+
+    bash "$KB_ROOT/tools/kb-sync.sh" pull
+
+    mapfile -t files < <(collect_files "$scope")
+    if [[ ${#files[@]} -eq 0 ]]; then
+        echo "No files found for scope '$scope'."
+        : > "$LAST_RESULTS"
+        exit 0
+    fi
+
+    declare -A seen=()
+    local results=()
+
+    add_result() {
+        local rel="$1"
+        local title="$2"
+        local category="$3"
+        if [[ -n "${seen[$rel]:-}" ]]; then
+            return
+        fi
+        seen["$rel"]=1
+        results+=("$rel"$'\t'"$title"$'\t'"$category")
+    }
+
+    local file rel title category
+
+    for file in "${files[@]}"; do
+        [[ -f "$file" ]] || continue
+        rel="${file#$KB_ROOT/}"
+        title=$(extract_title "$file")
+        category=$(extract_category "$file" "$rel")
+        if printf '%s\n%s\n' "$rel" "$title" | grep -Fqi -- "$query"; then
+            add_result "$rel" "$title" "$category"
+        fi
+    done
+
+    for file in "${files[@]}"; do
+        [[ -f "$file" ]] || continue
+        rel="${file#$KB_ROOT/}"
+        if [[ -n "${seen[$rel]:-}" ]]; then
+            continue
+        fi
+        if grep -Fqi -- "$query" "$file" 2>/dev/null; then
+            title=$(extract_title "$file")
+            category=$(extract_category "$file" "$rel")
+            add_result "$rel" "$title" "$category"
+        fi
+    done
+
+    blob_base=$(github_blob_base || true)
+
+    printf '=== Wiki Search ===\n'
+    printf 'Query: %s\n' "$query"
+    printf 'Scope: %s\n\n' "$scope"
+
+    : > "$LAST_RESULTS"
+
+    if [[ ${#results[@]} -eq 0 ]]; then
+        echo "No matches found."
+        echo "Try: wiki search --all \"$query\""
+        exit 0
+    fi
+
+    local i=0 line
+    for line in "${results[@]}"; do
+        i=$((i + 1))
+        IFS=$'\t' read -r rel title category <<< "$line"
+        printf '[%d] %s | %s | %s\n' "$i" "$title" "$category" "$rel"
+        if [[ -n "$blob_base" ]]; then
+            printf '    %s/%s\n' "$blob_base" "$rel"
+        fi
+        printf '%s\n' "$line" >> "$LAST_RESULTS"
+    done
+
+    printf '\n%s result(s). Last set saved to %s\n' "${#results[@]}" "$LAST_RESULTS"
+}
+
+run_open() {
+    if [[ $# -lt 1 ]]; then
+        echo "Usage: wiki open <number|path>"
+        exit 1
+    fi
+
+    local target="$1"
+    local rel line
+
+    if [[ "$target" =~ ^[0-9]+$ ]]; then
+        if [[ ! -f "$LAST_RESULTS" ]]; then
+            echo "No saved results found. Run: wiki search \"terms\""
+            exit 1
+        fi
+        line=$(sed -n "${target}p" "$LAST_RESULTS")
+        if [[ -z "$line" ]]; then
+            echo "Result $target not found in $LAST_RESULTS"
+            exit 1
+        fi
+        rel=$(printf '%s\n' "$line" | cut -f1)
+        target="$KB_ROOT/$rel"
+    elif [[ "$target" = /* ]]; then
+        :
+    elif [[ -f "$KB_ROOT/$target" ]]; then
+        target="$KB_ROOT/$target"
+    elif [[ -f "$KB_WIKI/$target" ]]; then
+        target="$KB_WIKI/$target"
+    else
+        echo "File not found: $target"
+        exit 1
+    fi
+
+    if [[ ! -f "$target" ]]; then
+        echo "File not found: $target"
+        exit 1
+    fi
+
+    if command -v bat >/dev/null 2>&1; then
+        bat --style=plain --paging=always "$target"
+    elif command -v batcat >/dev/null 2>&1; then
+        batcat --style=plain --paging=always "$target"
+    else
+        "${PAGER:-less}" "$target"
+    fi
+}
+
+run_sync() {
+    bash "$KB_ROOT/tools/kb-sync.sh" pull
+}
+
+main() {
+    local cmd="${1:-help}"
+    case "$cmd" in
+        search)
+            shift
+            run_search "$@"
+            ;;
+        open)
+            shift
+            run_open "$@"
+            ;;
+        sync)
+            shift
+            run_sync "$@"
+            ;;
+        help|-h|--help)
+            usage
+            ;;
+        *)
+            echo "Unknown command: $cmd"
+            usage
+            exit 1
+            ;;
+    esac
+}
+
+main "$@"
