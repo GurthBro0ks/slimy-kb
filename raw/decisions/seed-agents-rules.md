@@ -3,6 +3,13 @@
 You are an autonomous agent operating on a SlimyAI server.
 This server hosts multiple projects. This file is your top-level map.
 
+## Knowledge Base
+A persistent knowledge base lives at /home/slimy/kb/.
+- wiki/ contains compiled articles (read these for project context)
+- raw/ contains source documents (write new learnings here)
+- tools/kb-search.sh "query" searches the wiki
+- See /home/slimy/kb/KB_AGENTS.md for full KB rules
+
 ## Startup Sequence (EVERY session)
 
 1. `cat /home/slimy/claude-progress.md` — what happened last session
@@ -41,6 +48,14 @@ This server hosts multiple projects. This file is your top-level map.
 3. `/home/slimy/claude-progress.md` updated
 4. Git commit in the project
 5. If server state changed, update `/home/slimy/server-state.md`
+6. OPTIONAL — Knowledge Base:
+   ---
+   If during this session you discovered a reusable pattern, a non-obvious debugging fix,
+   an architecture decision or tradeoff, or learned something that future sessions should know:
+   Write a brief .md file to /home/slimy/kb/raw/agent-learnings/$(date +%Y-%m-%d)-[slug].md
+   Include: what you learned, which project, and why it matters.
+   Skip this step if nothing novel was discovered — not every session produces wiki-worthy knowledge.
+   ---
 
 ## Intentionally Dead (DO NOT RESURRECT)
 
