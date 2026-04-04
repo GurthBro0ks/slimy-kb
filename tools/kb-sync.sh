@@ -10,22 +10,27 @@ cd "$KB_ROOT"
 
 ACTION="${1:-sync}"
 HOST=$(hostname -s)
+CURRENT_BRANCH="$(git rev-parse --abbrev-ref HEAD 2>/dev/null || echo main)"
+if [ "$CURRENT_BRANCH" = "HEAD" ]; then
+    CURRENT_BRANCH="main"
+fi
+TARGET_BRANCH="${KB_SYNC_BRANCH:-$CURRENT_BRANCH}"
 
 case "$ACTION" in
     pull)
-        echo "[kb-sync] Pulling latest..."
-        git pull --rebase --autostash origin main 2>&1 || {
+        echo "[kb-sync] Pulling latest from origin/$TARGET_BRANCH..."
+        git pull --rebase --autostash origin "$TARGET_BRANCH" 2>&1 || {
             echo "[kb-sync] WARNING: pull failed, working with local state"
         }
         ;;
     push)
-        echo "[kb-sync] Pushing changes..."
+        echo "[kb-sync] Pushing changes to origin/$TARGET_BRANCH..."
         git add -A
         CHANGES=$(git diff --cached --stat)
         if [ -n "$CHANGES" ]; then
             git commit -m "kb: auto-sync from $HOST $(date +%Y-%m-%d-%H%M)" 2>/dev/null || true
         fi
-        git push origin main 2>&1 || {
+        git push origin "HEAD:$TARGET_BRANCH" 2>&1 || {
             echo "[kb-sync] WARNING: push failed, changes are committed locally"
             echo "[kb-sync] Run 'cd /home/slimy/kb && git push' to retry"
         }
