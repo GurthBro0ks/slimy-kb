@@ -3,13 +3,25 @@ set -euo pipefail
 
 KB_ROOT="/home/slimy/kb"
 KB_WIKI="$KB_ROOT/wiki"
+KB_RAW="$KB_ROOT/raw"
+KB_OUTPUT="$KB_ROOT/output"
+VAULT_ROOT="/home/slimy/obsidian/slimyai-vault"
 LAST_RESULTS="/tmp/wiki-last-results-${USER}.tsv"
+LAST_COMPILE_CANDIDATES="/tmp/wiki-last-compile-candidates-${USER}.tsv"
+PROMPT_DIR="$KB_OUTPUT/prompts"
+PROMPT_HEADER_FILE="$KB_ROOT/tools/kb-prompt-header.txt"
+PROMPT_FOOTER_FILE="$KB_ROOT/tools/kb-prompt-footer.txt"
 
 usage() {
     cat << 'USAGE'
 Usage:
   wiki search [--raw|--all] "terms"
   wiki open <number|path>
+  wiki status
+  wiki compile-candidates
+  wiki open-report latest
+  wiki prompt-query "question"
+  wiki prompt-compile
   wiki sync
   wiki vault-sync
   wiki vault-ingest
@@ -20,6 +32,11 @@ Examples:
   wiki search --raw "ssh tunnel"
   wiki open 1
   wiki open architecture/knowledge-base-build-pipeline.md
+  wiki status
+  wiki compile-candidates
+  wiki open-report latest
+  wiki prompt-query "how does the ingest flow work?"
+  wiki prompt-compile
   wiki sync
   wiki vault-sync
   wiki vault-ingest
@@ -32,6 +49,56 @@ USAGE
 
 trim() {
     sed -E 's/^[[:space:]]+//; s/[[:space:]]+$//'
+}
+
+open_with_pager() {
+    local target="$1"
+    if command -v bat >/dev/null 2>&1; then
+        bat --style=plain --paging=always "$target"
+    elif command -v batcat >/dev/null 2>&1; then
+        batcat --style=plain --paging=always "$target"
+    else
+        "${PAGER:-less}" "$target"
+    fi
+}
+
+latest_match_in_dir() {
+    local dir="$1"
+    local glob="$2"
+    local -a matches=()
+    shopt -s nullglob
+    matches=("$dir"/$glob)
+    shopt -u nullglob
+    if [[ ${#matches[@]} -eq 0 ]]; then
+        return 1
+    fi
+    ls -1t "${matches[@]}" 2>/dev/null | head -n 1
+}
+
+latest_output_markdown() {
+    find "$KB_OUTPUT" -type f -name '*.md' ! -path "$PROMPT_DIR/*" -printf '%T@ %p\n' 2>/dev/null \
+        | sort -rn \
+        | awk 'NR==1 {sub(/^[^ ]+ /,""); print; exit}'
+}
+
+latest_report_path() {
+    local candidate=""
+    candidate=$(latest_match_in_dir "$KB_OUTPUT" 'obsidian-ingest-report-*.md' || true)
+    if [[ -n "$candidate" ]]; then
+        printf '%s\n' "$candidate"
+        return 0
+    fi
+    candidate=$(latest_match_in_dir "$KB_OUTPUT" 'query-*.md' || true)
+    if [[ -n "$candidate" ]]; then
+        printf '%s\n' "$candidate"
+        return 0
+    fi
+    candidate=$(latest_output_markdown || true)
+    if [[ -n "$candidate" ]]; then
+        printf '%s\n' "$candidate"
+        return 0
+    fi
+    return 1
 }
 
 github_blob_base() {
@@ -124,6 +191,56 @@ collect_files() {
             return 1
             ;;
     esac
+}
+
+collect_raw_markdown_relpaths() {
+    find "$KB_RAW" -type f -name '*.md' -printf '%P\n' | sort | sed -E 's#^#raw/#'
+}
+
+collect_wiki_article_files() {
+    find "$KB_WIKI" -type f -name '*.md' ! -name '_*.md' | sort
+}
+
+collect_compile_candidates() {
+    local -A referenced=()
+    local wiki_file ref raw_rel
+
+    while IFS= read -r wiki_file; do
+        while IFS= read -r ref; do
+            [[ -n "$ref" ]] || continue
+            referenced["$ref"]=1
+        done < <(grep -hoE 'raw/[A-Za-z0-9._/-]+\.md' "$wiki_file" || true)
+    done < <(collect_wiki_article_files)
+
+    while IFS= read -r raw_rel; do
+        [[ -n "$raw_rel" ]] || continue
+        if [[ -z "${referenced[$raw_rel]:-}" ]]; then
+            printf '%s\n' "$raw_rel"
+        fi
+    done < <(collect_raw_markdown_relpaths)
+}
+
+write_compile_candidates_cache() {
+    : > "$LAST_COMPILE_CANDIDATES"
+    while IFS= read -r rel; do
+        [[ -n "$rel" ]] || continue
+        printf '%s\n' "$rel" >> "$LAST_COMPILE_CANDIDATES"
+    done
+}
+
+latest_compile_signal() {
+    local by_compile latest
+    by_compile=$(git -C "$KB_ROOT" log --grep='compile' -i -n 1 --date=iso-strict --pretty='format:%h | %ad | %s' 2>/dev/null || true)
+    if [[ -n "$by_compile" ]]; then
+        printf '%s\n' "$by_compile"
+        return
+    fi
+    latest=$(git -C "$KB_ROOT" log -n 1 --date=iso-strict --pretty='format:%h | %ad | %s' 2>/dev/null || true)
+    if [[ -n "$latest" ]]; then
+        printf '%s\n' "$latest"
+    else
+        printf '%s\n' "n/a"
+    fi
 }
 
 run_search() {
@@ -277,13 +394,177 @@ run_open() {
         exit 1
     fi
 
-    if command -v bat >/dev/null 2>&1; then
-        bat --style=plain --paging=always "$target"
-    elif command -v batcat >/dev/null 2>&1; then
-        batcat --style=plain --paging=always "$target"
-    else
-        "${PAGER:-less}" "$target"
+    open_with_pager "$target"
+}
+
+run_status() {
+    local latest_ingest latest_query latest_compile
+    local raw_count wiki_count output_count candidate_count
+
+    latest_ingest=$(latest_match_in_dir "$KB_OUTPUT" 'obsidian-ingest-report-*.md' || true)
+    latest_query=$(latest_match_in_dir "$KB_OUTPUT" 'query-*.md' || true)
+    latest_compile=$(latest_compile_signal)
+
+    raw_count=$(find "$KB_RAW" -type f -name '*.md' | wc -l | tr -d ' ')
+    wiki_count=$(find "$KB_WIKI" -type f -name '*.md' ! -name '_*.md' | wc -l | tr -d ' ')
+    output_count=$(find "$KB_OUTPUT" -type f -name '*.md' ! -path "$PROMPT_DIR/*" | wc -l | tr -d ' ')
+    candidate_count=$(collect_compile_candidates | wc -l | tr -d ' ')
+
+    echo "=== Wiki Status ==="
+    echo "KB Root: $KB_ROOT"
+    echo "Vault:   $VAULT_ROOT"
+    echo "Latest Ingest Report: ${latest_ingest:-none}"
+    echo "Latest Query Output:  ${latest_query:-none}"
+    echo "Latest Compile Signal: $latest_compile"
+    echo "Raw Markdown Count: $raw_count"
+    echo "Wiki Markdown Count (excluding _*.md): $wiki_count"
+    echo "Output Markdown Count: $output_count"
+    echo "Likely Uncompiled Raw Files: $candidate_count"
+    echo "Next: wiki compile-candidates | wiki open-report latest | wiki prompt-compile"
+}
+
+run_compile_candidates() {
+    local -a candidates=()
+    mapfile -t candidates < <(collect_compile_candidates)
+    write_compile_candidates_cache < <(printf '%s\n' "${candidates[@]}")
+
+    echo "=== Compile Candidates ==="
+    if [[ ${#candidates[@]} -eq 0 ]]; then
+        echo "No unreferenced raw markdown files found."
+        echo "Cache: $LAST_COMPILE_CANDIDATES (empty)"
+        return
     fi
+
+    local i=0 rel
+    for rel in "${candidates[@]}"; do
+        i=$((i + 1))
+        printf '[%d] %s\n' "$i" "$rel"
+    done
+    echo
+    echo "${#candidates[@]} candidate(s). Cache: $LAST_COMPILE_CANDIDATES"
+}
+
+run_open_report() {
+    if [[ $# -lt 1 || "$1" != "latest" ]]; then
+        echo "Usage: wiki open-report latest"
+        exit 1
+    fi
+
+    local report
+    report=$(latest_report_path || true)
+    if [[ -z "$report" ]]; then
+        echo "No report markdown found under $KB_OUTPUT."
+        exit 1
+    fi
+    open_with_pager "$report"
+}
+
+prompt_header_content() {
+    if [[ -f "$PROMPT_HEADER_FILE" ]]; then
+        sed -E '/^[[:space:]]*#/d; /^[[:space:]]*$/d' "$PROMPT_HEADER_FILE"
+    else
+        echo "bash /home/slimy/kb/tools/kb-sync.sh pull"
+    fi
+}
+
+prompt_footer_content() {
+    if [[ -f "$PROMPT_FOOTER_FILE" ]]; then
+        sed -E '/^[[:space:]]*#/d; /^[[:space:]]*$/d' "$PROMPT_FOOTER_FILE"
+    else
+        echo "bash /home/slimy/kb/tools/kb-sync.sh push"
+    fi
+}
+
+run_prompt_query() {
+    if [[ $# -lt 1 ]]; then
+        echo "Usage: wiki prompt-query \"question\""
+        exit 1
+    fi
+
+    local question="$*"
+    local ts out_file
+    ts=$(date -u +%Y%m%d-%H%M%S)
+    mkdir -p "$PROMPT_DIR"
+    out_file="$PROMPT_DIR/query-prompt-$ts.md"
+
+    cat > "$out_file" <<EOF
+$(prompt_header_content)
+
+cat /home/slimy/AGENTS.md
+cat /home/slimy/claude-progress.md
+source /home/slimy/init.sh
+cat /home/slimy/kb/KB_AGENTS.md
+
+TASK: KB Query
+
+Question:
+$question
+
+Deliverable:
+- Write answer to /home/slimy/kb/output/query-$ts.md
+- Use wiki-first evidence with file citations
+- Include confidence and explicit Wiki Gaps if coverage is incomplete
+
+Constraints:
+- Do not modify canonical wiki unless explicitly asked
+- Keep output concise, actionable, and source-backed
+
+$(prompt_footer_content)
+EOF
+
+    cat "$out_file"
+}
+
+run_prompt_compile() {
+    local ts out_file
+    local -a candidates=()
+    mapfile -t candidates < <(collect_compile_candidates)
+    ts=$(date -u +%Y%m%d-%H%M%S)
+    mkdir -p "$PROMPT_DIR"
+    out_file="$PROMPT_DIR/compile-prompt-$ts.md"
+
+    {
+        prompt_header_content
+        cat <<EOF
+
+cat /home/slimy/AGENTS.md
+cat /home/slimy/claude-progress.md
+source /home/slimy/init.sh
+cat /home/slimy/kb/KB_AGENTS.md
+
+TASK: KB Compile
+
+Goal:
+- Compile raw knowledge into canonical wiki updates following KB_AGENTS rules.
+
+Priority Raw Inputs:
+EOF
+        if [[ ${#candidates[@]} -eq 0 ]]; then
+            echo "- No explicit compile candidates detected."
+            echo "- Review /home/slimy/kb/raw for freshness and update relevant existing wiki pages."
+        else
+            local rel
+            for rel in "${candidates[@]}"; do
+                echo "- /home/slimy/kb/$rel"
+            done
+        fi
+        cat <<EOF
+
+Required updates:
+- Update or create wiki articles as needed
+- Update /home/slimy/kb/wiki/_index.md
+- Update /home/slimy/kb/wiki/_concepts.md if concepts changed
+- Preserve source attribution in each article
+
+Validation:
+- Confirm compile candidates are fully handled or explicitly deferred with reason
+
+$(prompt_footer_content)
+EOF
+    } > "$out_file"
+
+    write_compile_candidates_cache < <(printf '%s\n' "${candidates[@]}")
+    cat "$out_file"
 }
 
 run_sync() {
@@ -308,6 +589,26 @@ main() {
         open)
             shift
             run_open "$@"
+            ;;
+        status)
+            shift
+            run_status "$@"
+            ;;
+        compile-candidates)
+            shift
+            run_compile_candidates "$@"
+            ;;
+        open-report)
+            shift
+            run_open_report "$@"
+            ;;
+        prompt-query)
+            shift
+            run_prompt_query "$@"
+            ;;
+        prompt-compile)
+            shift
+            run_prompt_compile "$@"
             ;;
         sync)
             shift

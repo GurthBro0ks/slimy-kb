@@ -35,8 +35,15 @@ Use this to configure the operator vault for clean KB intake.
 3. Confirm a new raw file appears in `/home/slimy/kb/raw/research`.
 4. Confirm ingest report appears in `/home/slimy/kb/output/`.
 5. Run `Slimy: Vault Sync` and verify `Wiki/` refreshes.
+6. In terminal, run `wiki status` and `wiki open-report latest` to confirm operator visibility.
 
 ## Guardrails
 - Do not edit `Wiki/` as canonical source.
 - Do not run a second KB inside Obsidian.
 - Treat clipped notes as intake material.
+
+## Operator Shortcuts After Capture
+- `wiki status` — current counts and latest report pointers
+- `wiki compile-candidates` — raw markdown likely not yet compiled into wiki sources
+- `wiki prompt-query "question"` — generate a query prompt file in `output/prompts/`
+- `wiki prompt-compile` — generate a compile prompt file in `output/prompts/`

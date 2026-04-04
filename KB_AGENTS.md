@@ -74,6 +74,11 @@ Commands:
 - `wiki search --all "terms"` — searches `wiki/`, `raw/`, and `output/`
 - `wiki open 1` — opens a numbered result from the last search set
 - `wiki open architecture/some-article.md` — opens by direct path
+- `wiki status` — compact KB/vault/report counts and next-step hints
+- `wiki compile-candidates` — lists raw markdown not referenced by wiki `Sources` links
+- `wiki open-report latest` — opens newest ingest/query/output report markdown
+- `wiki prompt-query "question"` — writes and prints a harness-ready KB Query prompt to `output/prompts/`
+- `wiki prompt-compile` — writes and prints a harness-ready KB Compile prompt, including compile candidates when present
 - `wiki sync` — pulls latest KB state
 - `wiki vault-sync` — mirror canonical wiki into Obsidian vault `Wiki/`
 - `wiki vault-ingest` — ingest writable Obsidian vault content into `raw/` and write an ingest report in `output/`
@@ -81,3 +86,4 @@ Commands:
 
 Result cache:
 - Last search results are saved to `/tmp/wiki-last-results-$USER.tsv` for `wiki open <number>`.
+- Last compile candidate set is saved to `/tmp/wiki-last-compile-candidates-$USER.tsv`.

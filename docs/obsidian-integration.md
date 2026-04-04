@@ -60,6 +60,12 @@ Image and non-markdown intake also records folder/path/hash/timestamp in generat
 2. Drop longer references in `Inbox/articles/`.
 3. Drop screenshots in `Inbox/images/`.
 4. Run `wiki vault-ingest`.
-5. Check the latest ingest report in `output/` for counts and warnings.
-6. Continue normal KB compile flow from `raw/` to `wiki/`.
-7. Run `wiki vault-sync` whenever you want the latest compiled wiki in Obsidian.
+5. Check status and report quickly:
+   - `wiki status`
+   - `wiki open-report latest`
+6. Run `wiki compile-candidates` to identify uncompiled raw notes.
+7. Generate next-step prompt shortcuts when needed:
+   - `wiki prompt-query "question"`
+   - `wiki prompt-compile`
+8. Continue normal KB compile flow from `raw/` to `wiki/`.
+9. Run `wiki vault-sync` whenever you want the latest compiled wiki in Obsidian.
