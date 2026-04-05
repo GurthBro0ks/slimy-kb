@@ -10,18 +10,18 @@ type: changelog
 
 ## Repos Updated
 - `/home/slimy/clawd` → `ef76f42` (main) — chore: daily memory update 2026-04-05
-- `/home/slimy/mission-control` → `5f69f23` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
-- `/home/slimy/.openclaw/workspace` → `bacac0d` (master) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
-- `/home/slimy/.openclaw/memory/git-notes-ledger` → `ca50697` (master) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
-- `/home/slimy/nuc-comms/mailbox_ingest` → `c3d3ea0` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
-- `/home/slimy/.claude/agents-backup-full` → `1bc6ceb` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
-- `/home/slimy/.mcp_agent_mail_git_mailbox_repo` → `bf6659c` (master) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
-- `/home/slimy/pm_updown_bot_bundle` → `142f65b` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
-- `/home/slimy/.codex/.tmp/plugins` → `b50dc5f` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
-- `/opt/slimy/slimy-monorepo` → `5bc10bb` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
-- `/opt/slimy/app` → `d38ad07` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
-- `/opt/slimy/chat-app` → `43f739c` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
-- `/opt/slimy/web/slimyai-web` → `4265174` (fix/runtime-envs-check-2025-11-11-nuc2-snapshot) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+- `/home/slimy/mission-control` → `95fa215` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+- `/home/slimy/.openclaw/workspace` → `2d60a01` (master) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+- `/home/slimy/.openclaw/memory/git-notes-ledger` → `46f6d8a` (master) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+- `/home/slimy/nuc-comms/mailbox_ingest` → `5110ea9` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+- `/home/slimy/.claude/agents-backup-full` → `59173f5` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+- `/home/slimy/.mcp_agent_mail_git_mailbox_repo` → `889791d` (master) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+- `/home/slimy/pm_updown_bot_bundle` → `e9361f5` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+- `/home/slimy/.codex/.tmp/plugins` → `44fd698` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+- `/opt/slimy/slimy-monorepo` → `a041b7c` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+- `/opt/slimy/app` → `5168d1b` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+- `/opt/slimy/chat-app` → `547a62d` (main) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+- `/opt/slimy/web/slimyai-web` → `f40f16e` (fix/runtime-envs-check-2025-11-11-nuc2-snapshot) — docs: auto-sync project docs from slimy-nuc2 2026-04-05
 
 ## Agent Summary
 —
