@@ -10,6 +10,9 @@ set -euo pipefail
 # Disable interactive pager — wrapper-triggered runs have no TTY
 export GIT_PAGER=cat
 export PAGER=cat
+# Fail-fast: prevent any interactive Git credential prompts (HTTPS remotes)
+export GIT_TERMINAL_PROMPT=0
+export GCM_INTERACTIVE=never
 
 # Guard against recursion
 if [[ "${SLIMY_AUTOFINISH_ACTIVE:-0}" == "1" ]]; then
