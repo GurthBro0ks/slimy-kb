@@ -177,11 +177,24 @@ if [[ "$DRY_RUN" != "--dry-run" ]]; then
             changes=$(git --no-pager -C "$repo" status --porcelain 2>/dev/null || true)
             if [[ -n "$changes" ]]; then
                 echo "[slimy-agent-finish] Committing changes in $repo..."
+# Detect HTTPS GitHub remotes and skip push with warning (avoids interactive credential prompts)
+is_https_github_remote() {
+    local repo="$1"
+    local remote_url
+    remote_url=$(git -C "$repo" remote get-url origin 2>/dev/null || true)
+    [[ "$remote_url" == https://github.com/* ]]
+}
+...
                 if (
                     cd "$repo"
                     git --no-pager add -A
                     git --no-pager commit -m "docs: auto-sync project docs from ${HOST} ${TODAY}" 2>/dev/null && \
-                    git --no-pager push origin "$(git --no-pager rev-parse --abbrev-ref HEAD)" 2>/dev/null
+                    if is_https_github_remote "$repo"; then
+                        echo "[slimy-agent-finish] WARNING: HTTPS GitHub remote detected in $repo — skipping push (convert to SSH to enable)"
+                        false
+                    else
+                        git --no-pager push origin "$(git --no-pager rev-parse --abbrev-ref HEAD)" 2>/dev/null
+                    fi
                 ); then
                     echo "[slimy-agent-finish] Pushed $repo"
                 else
