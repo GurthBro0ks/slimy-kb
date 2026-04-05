@@ -18,6 +18,7 @@ Usage:
   wiki search [--raw|--all] "terms"
   wiki open <number|path>
   wiki status
+  wiki daily
   wiki compile-candidates
   wiki open-report latest
   wiki prompt-query "question"
@@ -33,6 +34,7 @@ Examples:
   wiki open 1
   wiki open architecture/knowledge-base-build-pipeline.md
   wiki status
+  wiki daily
   wiki compile-candidates
   wiki open-report latest
   wiki prompt-query "how does the ingest flow work?"
@@ -428,6 +430,88 @@ run_status() {
     echo "Next: wiki compile-candidates | wiki open-report latest | wiki prompt-compile"
 }
 
+stale_article_count() {
+    local stale_file="$KB_WIKI/_stale.md"
+    local count
+
+    if [[ ! -f "$stale_file" ]]; then
+        echo "0"
+        return
+    fi
+
+    if grep -qi 'no wiki articles are stale' "$stale_file"; then
+        echo "0"
+        return
+    fi
+
+    count=$(grep -Eo '\[[^][]+\]\([^)]*\)' "$stale_file" | wc -l | tr -d ' ')
+    if [[ "$count" -gt 0 ]]; then
+        echo "$count"
+        return
+    fi
+
+    count=$(grep -E '^- ' "$stale_file" | wc -l | tr -d ' ')
+    echo "$count"
+}
+
+last_compile_date() {
+    local ts
+    ts=$(git -C "$KB_ROOT" log -n 1 --date=iso-strict --pretty='format:%ad' -- wiki 2>/dev/null || true)
+    if [[ -n "$ts" ]]; then
+        echo "$ts"
+    else
+        echo "n/a"
+    fi
+}
+
+last_sync_date() {
+    local ts
+    ts=$(git -C "$KB_ROOT" log --grep='sync' -i -n 1 --date=iso-strict --pretty='format:%ad' 2>/dev/null || true)
+    if [[ -n "$ts" ]]; then
+        echo "$ts"
+        return
+    fi
+    ts=$(git -C "$KB_ROOT" log -n 1 --date=iso-strict --pretty='format:%ad' 2>/dev/null || true)
+    if [[ -n "$ts" ]]; then
+        echo "$ts"
+    else
+        echo "n/a"
+    fi
+}
+
+run_daily() {
+    local conflict_count inbox_pending uncompiled_count stale_count
+    local last_compile last_sync suggestion
+
+    conflict_count=$(find "$KB_ROOT" "$VAULT_ROOT" -type f -iname '*conflict*' 2>/dev/null | wc -l | tr -d ' ')
+    inbox_pending=$(find "$VAULT_ROOT/Inbox" -type f 2>/dev/null | wc -l | tr -d ' ')
+    uncompiled_count=$(collect_compile_candidates | wc -l | tr -d ' ')
+    stale_count=$(stale_article_count)
+    last_compile=$(last_compile_date)
+    last_sync=$(last_sync_date)
+
+    if [[ "$conflict_count" -gt 0 ]]; then
+        suggestion="Resolve conflict files first, then rerun daily."
+    elif [[ "$inbox_pending" -gt 0 ]]; then
+        suggestion="Run wiki vault-ingest to process Inbox items."
+    elif [[ "$uncompiled_count" -gt 0 ]]; then
+        suggestion="Run wiki prompt-compile and process uncompiled raw files."
+    elif [[ "$stale_count" -gt 0 ]]; then
+        suggestion="Refresh stale wiki articles, starting with highest-value pages."
+    else
+        suggestion="No pending KB maintenance; capture new notes or run wiki prompt-query."
+    fi
+
+    echo "=== Wiki Daily ==="
+    echo "Conflict Count: $conflict_count"
+    echo "Inbox Pending Count: $inbox_pending"
+    echo "Uncompiled Raw Count: $uncompiled_count"
+    echo "Stale Article Count: $stale_count"
+    echo "Last Compile Date: $last_compile"
+    echo "Last Sync Date: $last_sync"
+    echo "Suggested Next Action: $suggestion"
+}
+
 run_compile_candidates() {
     local -a candidates=()
     mapfile -t candidates < <(collect_compile_candidates)
@@ -598,6 +682,10 @@ main() {
         status)
             shift
             run_status "$@"
+            ;;
+        daily)
+            shift
+            run_daily "$@"
             ;;
         compile-candidates)
             shift
