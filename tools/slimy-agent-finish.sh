@@ -167,6 +167,14 @@ else
     echo "[slimy-agent-finish] DRY-RUN: would write changelog to $RAW_CHANGELOG"
 fi
 
+# Detect HTTPS GitHub remotes and skip push with warning (avoids interactive credential prompts)
+is_https_github_remote() {
+    local repo="$1"
+    local remote_url
+    remote_url=$(git -C "$repo" remote get-url origin 2>/dev/null || true)
+    [[ "$remote_url" == https://github.com/* ]]
+}
+
 # Commit and push changed project repos (non-kb), track failures for ALERTS
 ALERT_MSG=""
 if [[ "$DRY_RUN" != "--dry-run" ]]; then
@@ -177,14 +185,6 @@ if [[ "$DRY_RUN" != "--dry-run" ]]; then
             changes=$(git --no-pager -C "$repo" status --porcelain 2>/dev/null || true)
             if [[ -n "$changes" ]]; then
                 echo "[slimy-agent-finish] Committing changes in $repo..."
-# Detect HTTPS GitHub remotes and skip push with warning (avoids interactive credential prompts)
-is_https_github_remote() {
-    local repo="$1"
-    local remote_url
-    remote_url=$(git -C "$repo" remote get-url origin 2>/dev/null || true)
-    [[ "$remote_url" == https://github.com/* ]]
-}
-...
                 if (
                     cd "$repo"
                     git --no-pager add -A
