@@ -87,7 +87,7 @@ fi
 
 # Detect status
 if [[ "$IS_GIT" == true ]]; then
-    DIRTY=$(git -C "$REPO_PATH" status --porcelain | grep -vE '^\?\? ' | wc -l | tr -d ' ')
+    DIRTY=$(git -C "$REPO_PATH" status --porcelain | grep -vE '^\?\? ' | wc -l | tr -d ' ' || true)
     if [[ "$DIRTY" -gt 0 ]]; then
         STATUS="ACTIVE_DIRTY"
     else
