@@ -57,6 +57,30 @@ Git rebase is used. If rebase fails (rare with .md files), the sync tool
 warns but does not block. Resolve manually or re-run sync after the other
 NUC finishes its current session.
 
+### Detecting conflict files:
+Run `wiki lint` or `wiki conflicts` to scan the KB and vault for `*conflict*` files.
+Conflict files are also flagged in `wiki daily` output.
+
+## Conflict Resolution
+
+When a conflict file is detected (e.g. `file (2026-04-05 10-30-22).md` from Obsidian
+Sync, or a git-originated conflict marker file):
+
+1. **Read both versions** — open the original file and the conflict file side-by-side.
+2. **Classify the conflict:**
+   - **Complementary changes** — edits to different sections or paragraphs.
+     Merge both sets of changes into the original file.
+   - **Contradicting changes** — both versions modified the same line differently.
+     Keep the **NUC2 version**, then add a note at the top of the file:
+     `> Conflict resolved: NUC2 version kept. NUC1 change noted: <one-line summary of loss.>`
+3. **Delete the conflict file** after resolving into the original.
+4. **Commit** with the message: `kb: resolve conflict - <filename>`
+5. **Push** with `bash /home/slimy/kb/tools/kb-sync.sh push`
+
+Note: Obsidian Sync conflict filenames embed the remote device's timestamp in
+parens `(YYYY-MM-DD HH-mm-ss)`. This identifies the other NUC but does not
+determine which version is "correct" — use the guidance above.
+
 ### Naming convention for NUC-sourced content:
 Raw files from agent sessions should include the hostname:
   YYYY-MM-DD-nuc1-slug.md or YYYY-MM-DD-nuc2-slug.md

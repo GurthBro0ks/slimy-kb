@@ -25,6 +25,7 @@ Usage:
   wiki prompt-compile
   wiki sync
   wiki conflicts
+  wiki lint [report-path]
   wiki vault-sync
   wiki vault-ingest
   wiki help
@@ -42,6 +43,8 @@ Examples:
   wiki prompt-compile
   wiki sync
   wiki conflicts
+  wiki lint
+  wiki lint /path/to/report.md
   wiki vault-sync
   wiki vault-ingest
 
@@ -658,6 +661,11 @@ EOF
     cat "$out_file"
 }
 
+run_lint() {
+    local report_path="${1:-}"
+    bash "$KB_ROOT/tools/kb-lint.sh" "$report_path"
+}
+
 run_conflicts() {
     local -a search_dirs=("$KB_ROOT")
     if [[ -d "$VAULT_ROOT" ]]; then
@@ -747,6 +755,10 @@ main() {
         conflicts)
             shift
             run_conflicts "$@"
+            ;;
+        lint)
+            shift
+            run_lint "$@"
             ;;
         vault-sync)
             shift
