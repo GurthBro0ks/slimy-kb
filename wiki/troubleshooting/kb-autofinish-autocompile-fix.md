@@ -58,11 +58,27 @@ kb: auto-sync from slimy-nuc2 2026-04-05-1508 — child compile, 3 wiki files up
 
 Both commits visible on GitHub (main branch).
 
-## Remaining Manual Intervention
+## Deferred Compile Candidates
 
-- **`kb-sync.sh push` pull-first behavior:** Project repos (slimy-app, chat-app) still use `kb-project-doc-sync.sh` which may have credential issues — needs SSH key setup.
-- **ALERTS webhook for credential failures:** When `kb-project-doc-sync.sh` push fails, posts to ALERTS webhook. Human operator needs to set up SSH keys.
-- **Compile prompt quality:** Large KBs with complex compile tasks may need more sophisticated prompt engineering.
+The following compile candidates have been reviewed and deferred (no wiki-worthy content):
+
+**Empty agent session summaries** — Auto-generated finish-hook summaries with no actual summary, notable changes, or next steps:
+- `raw/agent-learnings/2026-04-05-nuc1-test.md`
+- `raw/agent-learnings/2026-04-05-slimy-nuc1-claude-summary.md`
+- `raw/agent-learnings/2026-04-05-slimy-nuc1-codex-summary.md`
+- `raw/agent-learnings/2026-04-05-slimy-nuc1-wrapper-final-test-claude.md`
+- `raw/agent-learnings/2026-04-05-slimy-nuc1-wrapper-final-test-codex.md`
+- `raw/agent-learnings/2026-04-05-slimy-nuc1-wrapper-test-claude.md`
+- `raw/agent-learnings/2026-04-05-slimy-nuc2-claude-summary.md`
+- `raw/agent-learnings/2026-04-05-slimy-nuc2-codex-summary.md`
+- `raw/agent-learnings/2026-04-05-slimy-nuc2-wrapper-final-test-claude.md`
+- `raw/agent-learnings/2026-04-05-slimy-nuc2-wrapper-final-test-codex.md`
+
+**Obsidian test notes** — Human test artifacts with no operational content:
+- `raw/research/obsidian-inbox-notes-test-note-for-commands.md`
+- `raw/research/obsidian-inbox-notes-test-not-for-commands.md`
+
+These will be re-evaluated if substantive content is added to the source files.
 
 ## See Also
 - [Knowledge Base Build Pipeline](../architecture/knowledge-base-build-pipeline.md)

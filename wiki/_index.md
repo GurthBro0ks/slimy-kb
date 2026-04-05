@@ -36,6 +36,7 @@
 
 ### Troubleshooting
 - [KB Autofinish Autocompile Fix](troubleshooting/kb-autofinish-autocompile-fix.md) - Fix for KB write-through where finish hook left raw files uncommitted and auto-compile only wrote prompt files without running.
+- [NUC1 Wrapper Recursion Fix](troubleshooting/nuc1-wrapper-recursion-fix.md) - Fix for NUC1 wrapper recursion guard interference that caused finish-hook behavior drift and child-compile protection failures.
 - [Q1 2026 Operational Fixes](troubleshooting/q1-2026-operational-fixes.md) - Reusable failure signatures and proven fixes from recent operations.
 
 ### Architecture
