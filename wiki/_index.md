@@ -18,6 +18,8 @@
 - [Mission Control](projects/mission-control.md) - Task, comms, and automation coordination surface (NUC2 port 3838).
 - [Ned-Autonomous](projects/ned-autonomous.md) - PM2 agent-loop orchestrator on NUC1 (id=0).
 - [Obsidian Headless Sync](projects/obsidian-headless-sync.md) - Sole PM2 process on NUC2; vault synchronization.
+- [Obsidian Vault Automation](projects/obsidian-vault-automation.md) - Server-side vault automation scripts: daily calendar sync, operator todo, AI recommendations, idea ingest, changelog rollup.
+- [NUC1 Project Anomalies](projects/nuc1-project-anomalies.md) - NUC1 project discovery anomalies: mailbox_outbox naming, duplicate monorepo clone, legacy kalshi bot, unclear workspace paths.
 - [OpenCLAW Agents](projects/openclaw-agents.md) - OpenCLAW workspace subagents (executor/researcher) on NUC1.
 - [Operator Console](projects/operator-console.md) - NUC2 KB operations decision tree — conflicts, inbox, compile, capture/query in order.
 - [PM UpDown Bot Bundle](projects/pm-updown-bot-bundle.md) - Trading-bot bundle structure, guardrails, and truth-gate workflow (NUC1 primary, NUC2 dormant).
@@ -33,6 +35,7 @@
 - [Session Closeout Pattern](patterns/session-closeout-pattern.md) - Required end-of-session sequence and quality checks.
 
 ### Troubleshooting
+- [KB Autofinish Autocompile Fix](troubleshooting/kb-autofinish-autocompile-fix.md) - Fix for KB write-through where finish hook left raw files uncommitted and auto-compile only wrote prompt files without running.
 - [Q1 2026 Operational Fixes](troubleshooting/q1-2026-operational-fixes.md) - Reusable failure signatures and proven fixes from recent operations.
 
 ### Architecture
