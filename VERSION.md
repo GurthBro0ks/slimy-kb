@@ -1,13 +1,13 @@
 # Version Snapshot — kb
 
-> Generated: 2026-04-05T13:05:40Z | Host: slimy-nuc2
+> Generated: 2026-04-05T21:46:29Z | Host: slimy-nuc1
 
 ## Git State
 - **Branch:** `main`
-- **HEAD:** `c4b1f9b`
-- **Last commit:** `2026-04-05` — `kb: nuc2 project backfill + compile 2026-04-05`
+- **HEAD:** `af61698`
+- **Last commit:** `2026-04-05` — `kb: child-compile 20260405-214032`
 - **Remote:** `git@github.com:GurthBro0ks/slimy-kb.git`
-- **Dirty:** YES (2 uncommitted)
+- **Dirty:** NO
 
 ## Runtime
 - **Runtime info:** N/A
@@ -17,7 +17,7 @@
 
 ## Last Verified
 - **Date:** 2026-04-05
-- **Verification:** `git -C /home/slimy/kb log -1 --oneline`
+- **Verification:** `git --no-pager -C /home/slimy/kb log -1 --oneline`
 
 ## Host Notes
 - Managed by kb-project-doc-sync.sh automation
