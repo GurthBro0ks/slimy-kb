@@ -103,7 +103,8 @@ if [[ "$DRY_RUN" != "--dry-run" && "$FORCE" != "--skip-child" ]]; then
         echo "Validation:"
         echo "- Confirm compile candidates are fully handled or explicitly deferred with reason"
         echo ""
-        echo "bash /home/slimy/kb/tools/kb-sync.sh push"
+        echo "# Direct push without pull-first (avoids rebase conflicts in child compile)"
+        echo "cd /home/slimy/kb && git add -A && git diff --cached --stat && git commit -m \"kb: child-compile $(date +%Y%m%d-%H%M%S)\" && git push origin main"
     } > "$COMPILE_PROMPT_FILE"
 
     echo "[kb-compile-if-needed] Compile prompt written to: $COMPILE_PROMPT_FILE"
@@ -124,23 +125,8 @@ if [[ "$DRY_RUN" != "--dry-run" && "$FORCE" != "--skip-child" ]]; then
     if [[ "$COMPILE_EXIT" -eq 0 ]] && [[ -n "$COMPILE_OUTPUT" ]]; then
         echo "[kb-compile-if-needed] Child compile SUCCEEDED (exit $COMPILE_EXIT)"
         echo "[kb-compile-if-needed] Compile output preview: ${COMPILE_OUTPUT:0:200}"
-
-        # Commit and push any new KB changes from child compile
-        KB_CHANGES=$(cd "$KB_ROOT" && git add -A && git diff --cached --stat 2>&1 || true)
-        if [[ -n "$KB_CHANGES" && "$KB_CHANGES" != " no changes added" ]]; then
-            if git -C "$KB_ROOT" commit -m "kb: child-compile auto $(date +%Y%m%d-%H%M%S)" 2>&1; then
-                echo "[kb-compile-if-needed] Child compile changes committed"
-                KB_PUSHED=$(cd "$KB_ROOT" && git push origin main 2>&1 || true)
-                if [[ "$KB_PUSHED" == *"error"* ]] || [[ "$KB_PUSHED" == *"fatal"* ]]; then
-                    echo "[kb-compile-if-needed] WARNING: KB push after child compile failed: $KB_PUSHED"
-                    ALERT_MSG="${ALERT_MSG}child-compile push failed; "
-                else
-                    echo "[kb-compile-if-needed] Child compile changes pushed"
-                fi
-            fi
-        else
-            echo "[kb-compile-if-needed] No new KB changes from child compile to commit"
-        fi
+        # Note: child already committed and pushed via its kb-sync.sh equivalent
+        echo "[kb-compile-if-needed] Child handled KB commit/push (check git log for child-compile commits)"
     else
         echo "[kb-compile-if-needed] Child compile FAILED (exit $COMPILE_EXIT)"
         echo "[kb-compile-if-needed] Failure output: ${COMPILE_OUTPUT:0:300}"
