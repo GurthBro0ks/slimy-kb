@@ -194,9 +194,26 @@ fi
 # Commit and push KB changes
 if [[ "$DRY_RUN" != "--dry-run" ]]; then
     echo "[slimy-agent-finish] Committing KB changes..."
-    if ! bash "$KB_TOOLS/kb-sync.sh" push 2>&1; then
-        echo "[slimy-agent-finish] WARNING: KB push failed — changes are committed locally"
-        ALERT_MSG="${ALERT_MSG}KB push failed; "
+    # Ensure new untracked files are staged and committed without a pull-first (avoid rebase issues)
+    KB_CHANGES=$(cd "$KB_ROOT" && git add -A && git diff --cached --stat 2>&1 || true)
+    if [[ -n "$KB_CHANGES" && "$KB_CHANGES" != " no changes added" ]]; then
+        if git -C "$KB_ROOT" commit -m "kb: autofile $AGENT $(date +%Y%m%d-%H%M%S)" 2>&1; then
+            echo "[slimy-agent-finish] KB committed successfully"
+        else
+            echo "[slimy-agent-finish] WARNING: KB commit failed"
+            ALERT_MSG="${ALERT_MSG}KB commit failed; "
+        fi
+        KB_PUSHED=$(cd "$KB_ROOT" && git push origin main 2>&1 || true)
+        if [[ "$KB_PUSHED" == *"warning"* ]] || [[ "$KB_PUSHED" == *"error"* ]] || [[ "$KB_PUSHED" == *"fatal"* ]]; then
+            echo "[slimy-agent-finish] WARNING: KB push had issues: $KB_PUSHED"
+            ALERT_MSG="${ALERT_MSG}KB push had issues; "
+        elif [[ -n "$KB_PUSHED" ]]; then
+            echo "[slimy-agent-finish] KB pushed: ${KB_PUSHED:0:100}"
+        else
+            echo "[slimy-agent-finish] KB push succeeded"
+        fi
+    else
+        echo "[slimy-agent-finish] No KB changes to commit — skipping"
     fi
 else
     echo "[slimy-agent-finish] DRY-RUN: would commit and push KB changes"

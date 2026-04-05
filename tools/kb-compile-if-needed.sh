@@ -9,6 +9,18 @@ FORCE="${2:-}"
 HOST=$(hostname -s)
 TODAY=$(date +%Y-%m-%d)
 KB_ROOT="/home/slimy/kb"
+KB_TOOLS="$KB_ROOT/tools"
+
+# Guard: if already in a child compile, exit to avoid recursion
+if [[ "${SLIMY_KB_CHILD_COMPILE:-0}" == "1" ]]; then
+    echo "[kb-compile-if-needed] SLIMY_KB_CHILD_COMPILE=1 — already in child compile, exiting to prevent recursion"
+    exit 0
+fi
+
+# Source webhook config if present (category: ALERTS for failures)
+if [[ -f ~/.config/slimy/webhooks.env ]]; then
+    source ~/.config/slimy/webhooks.env
+fi
 
 # Collect compile candidates (same logic as wiki CLI)
 collect_compile_candidates() {
@@ -54,15 +66,128 @@ if [[ "$FORCE" != "--force" && "$DRY_RUN" == "--dry-run" ]]; then
     exit 0
 fi
 
-if [[ "$FORCE" == "--force" ]]; then
-    echo "[kb-compile-if-needed] FORCE flag set — triggering compile"
-elif [[ "$DRY_RUN" == "--dry-run" ]]; then
-    echo "[kb-compile-if-needed] DRY-RUN: would trigger compile for $count file(s)"
+# --- AUTO-COMPILE: launch child Claude run ---
+# SLIMY_KB_CHILD_COMPILE=1 signals child wrapper to skip its finish hook (recursion guard)
+# SLIMY_AUTOFINISH_ACTIVE=1 is already exported by slimy-agent-finish.sh parent and inherited
+if [[ "$DRY_RUN" != "--dry-run" && "$FORCE" != "--skip-child" ]]; then
+    echo "[kb-compile-if-needed] Launching child Claude compile run..."
+
+    # Build compile prompt
+    COMPILE_PROMPT_FILE="$KB_ROOT/output/prompts/auto-compile-prompt-$(date -u +%Y%m%d-%H%M%S).md"
+    mkdir -p "$KB_ROOT/output/prompts"
+
+    {
+        echo "bash /home/slimy/kb/tools/kb-sync.sh pull"
+        echo ""
+        echo "cat /home/slimy/AGENTS.md"
+        echo "cat /home/slimy/claude-progress.md"
+        echo "source /home/slimy/init.sh"
+        echo "cat /home/slimy/kb/KB_AGENTS.md"
+        echo ""
+        echo "TASK: KB Compile"
+        echo ""
+        echo "Goal:"
+        echo "- Compile raw knowledge into canonical wiki updates following KB_AGENTS rules."
+        echo ""
+        echo "Priority Raw Inputs:"
+        for c in "${candidates[@]}"; do
+            echo "- /home/slimy/kb/$c"
+        done
+        echo ""
+        echo "Required updates:"
+        echo "- Update or create wiki articles as needed"
+        echo "- Update /home/slimy/kb/wiki/_index.md"
+        echo "- Update /home/slimy/kb/wiki/_concepts.md if concepts changed"
+        echo "- Preserve source attribution in each article"
+        echo ""
+        echo "Validation:"
+        echo "- Confirm compile candidates are fully handled or explicitly deferred with reason"
+        echo ""
+        echo "bash /home/slimy/kb/tools/kb-sync.sh push"
+    } > "$COMPILE_PROMPT_FILE"
+
+    echo "[kb-compile-if-needed] Compile prompt written to: $COMPILE_PROMPT_FILE"
+
+    # Pipe prompt to claude -p (non-interactive, skips trust dialog)
+    # SLIMY_AUTOFINISH_ACTIVE=1 is inherited by child — its wrapper will exit early (recursion guard)
+    # SLIMY_KB_CHILD_COMPILE=1 tells kb-compile-if-needed.sh (if re-invoked) to skip
+    COMPILE_OUTPUT=$(
+        SLIMY_KB_CHILD_COMPILE=1 \
+        claude -p -- \
+            --output-format text \
+            --dangerously-skip-permissions \
+            --system-prompt "You are a KB compile agent. Run the provided task exactly. Use Bash, Read, Write, Edit tools freely. After completing wiki updates, exit cleanly." \
+            < "$COMPILE_PROMPT_FILE" 2>&1 || true
+    )
+    COMPILE_EXIT=$?
+
+    if [[ "$COMPILE_EXIT" -eq 0 ]] && [[ -n "$COMPILE_OUTPUT" ]]; then
+        echo "[kb-compile-if-needed] Child compile SUCCEEDED (exit $COMPILE_EXIT)"
+        echo "[kb-compile-if-needed] Compile output preview: ${COMPILE_OUTPUT:0:200}"
+
+        # Commit and push any new KB changes from child compile
+        KB_CHANGES=$(cd "$KB_ROOT" && git add -A && git diff --cached --stat 2>&1 || true)
+        if [[ -n "$KB_CHANGES" && "$KB_CHANGES" != " no changes added" ]]; then
+            if git -C "$KB_ROOT" commit -m "kb: child-compile auto $(date +%Y%m%d-%H%M%S)" 2>&1; then
+                echo "[kb-compile-if-needed] Child compile changes committed"
+                KB_PUSHED=$(cd "$KB_ROOT" && git push origin main 2>&1 || true)
+                if [[ "$KB_PUSHED" == *"error"* ]] || [[ "$KB_PUSHED" == *"fatal"* ]]; then
+                    echo "[kb-compile-if-needed] WARNING: KB push after child compile failed: $KB_PUSHED"
+                    ALERT_MSG="${ALERT_MSG}child-compile push failed; "
+                else
+                    echo "[kb-compile-if-needed] Child compile changes pushed"
+                fi
+            fi
+        else
+            echo "[kb-compile-if-needed] No new KB changes from child compile to commit"
+        fi
+    else
+        echo "[kb-compile-if-needed] Child compile FAILED (exit $COMPILE_EXIT)"
+        echo "[kb-compile-if-needed] Failure output: ${COMPILE_OUTPUT:0:300}"
+
+        # Write failure note
+        FAILURE_NOTE="$KB_ROOT/output/compile-failure-$(date -u +%Y%m%d-%H%M%S).md"
+        cat > "$FAILURE_NOTE" << EOF
+# Compile Failure — $TODAY $HOST
+
+> Exit code: $COMPILE_EXIT
+> Timestamp: $(date -u +%Y%m%d-%H%M%S)
+
+## Candidates That Were Not Compiled
+$(for c in "${candidates[@]}"; do echo "- $c"; done)
+
+## Child Compile Output (last 500 chars)
+\`\`\`
+${COMPILE_OUTPUT:0:500}
+\`\`\`
+
+## Next Steps
+- Run \`wiki prompt-compile\` manually
+- Review the failure output above
+- Check API key and network connectivity
+EOF
+        echo "[kb-compile-if-needed] Wrote failure note: $FAILURE_NOTE"
+
+        # Alert via ALERTS webhook
+        if [[ -n "${DISCORD_WEBHOOK_ALERTS:-}" ]]; then
+            msg="[ALERT $HOST] kb-compile-if-needed child compile failed (exit $COMPILE_EXIT). Candidates: ${candidates[*]:-none}. See $FAILURE_NOTE"
+            curl -s -X POST "$DISCORD_WEBHOOK_ALERTS" \
+                -H "Content-Type: application/json" \
+                -d "{\"content\": \"$msg\"}" >/dev/null 2>&1 \
+                && echo "[kb-compile-if-needed] Posted ALERTS webhook" \
+                || echo "[kb-compile-if-needed] ALERTS webhook post failed (non-critical)"
+        fi
+    fi
+
+    # Clean up prompt file
+    rm -f "$COMPILE_PROMPT_FILE"
+    echo "[kb-compile-if-needed] Auto-compile phase complete."
     exit 0
 fi
 
+# Fallback: --dry-run or --skip-child — just write the prompt file
 echo "[kb-compile-if-needed] Triggering KB compile prompt..."
-bash "$KB_ROOT/tools/wiki" prompt-compile >/dev/null 2>&1
+bash "$KB_ROOT/tools/wiki" prompt-compile >/dev/null 2>&1 || true
 latest_prompt=$(ls -t "$KB_ROOT/output/prompts/compile-prompt-"*.md 2>/dev/null | head -1 || true)
 
 if [[ -n "$latest_prompt" ]]; then
