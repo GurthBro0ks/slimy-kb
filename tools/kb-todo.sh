@@ -12,6 +12,12 @@ KB_ROOT="/home/slimy/kb"
 OUT_FILE="$KB_ROOT/output/todo-$TIMESTAMP.md"
 VAULT_DAILY="/home/slimy/obsidian/slimyai-vault/Daily/${TODAY}.md"
 
+# Source webhook config if present (category: DAILY)
+if [[ -f ~/.config/slimy/webhooks.env ]]; then
+    source ~/.config/slimy/webhooks.env
+fi
+DISCORD_WEBHOOK="${DISCORD_WEBHOOK_DAILY:-}"
+
 mkdir -p "$KB_ROOT/output"
 
 # Gather state
@@ -154,6 +160,22 @@ if [[ -f "$VAULT_DAILY" ]]; then
         mv "${VAULT_DAILY}.tmp" "${VAULT_DAILY}"
         echo "[kb-todo] Updated vault daily: $VAULT_DAILY"
     fi
+fi
+
+# Optional Discord webhook (category: DAILY)
+if [[ -n "${DISCORD_WEBHOOK:-}" ]]; then
+    if [[ "$DRY_RUN" != "--dry-run" ]]; then
+        msg="Todo $TODAY on $HOST — conflicts: ${conflict_count}, compile: ${uncompiled_count}, stale: ${stale_count}"
+        curl -s -X POST "$DISCORD_WEBHOOK" \
+            -H "Content-Type: application/json" \
+            -d "{\"content\": \"$msg\"}" >/dev/null 2>&1 \
+            && echo "[kb-todo] Posted Discord webhook" \
+            || echo "[kb-todo] Discord webhook post failed (non-critical)"
+    else
+        echo "[kb-todo] DRY-RUN: would post Discord webhook"
+    fi
+else
+    echo "[kb-todo] DISCORD_WEBHOOK_DAILY not configured — skipping Discord post"
 fi
 
 echo "[kb-todo] Done. Output: $OUT_FILE"

@@ -14,6 +14,12 @@ RAW_VERSIONS="$KB_ROOT/raw/versions"
 OUT_FILE="$OUTPUT_DIR/versions-$TIMESTAMP.md"
 RAW_OUT="$RAW_VERSIONS/${TODAY}-${HOST}-version-scan.md"
 
+# Source webhook config if present (category: CHANGELOG)
+if [[ -f ~/.config/slimy/webhooks.env ]]; then
+    source ~/.config/slimy/webhooks.env
+fi
+DISCORD_WEBHOOK="${DISCORD_WEBHOOK_CHANGELOG:-}"
+
 mkdir -p "$OUTPUT_DIR" "$RAW_VERSIONS"
 
 # Known project paths
@@ -99,3 +105,19 @@ if [[ "$DRY_RUN" != "--dry-run" ]]; then
 fi
 
 echo "[kb-version-scan] Done. Output: $OUT_FILE"
+
+# Optional Discord webhook (category: CHANGELOG)
+if [[ -n "${DISCORD_WEBHOOK:-}" ]]; then
+    if [[ "$DRY_RUN" != "--dry-run" ]]; then
+        msg="Version scan $TODAY on $HOST"
+        curl -s -X POST "$DISCORD_WEBHOOK" \
+            -H "Content-Type: application/json" \
+            -d "{\"content\": \"$msg\"}" >/dev/null 2>&1 \
+            && echo "[kb-version-scan] Posted Discord webhook" \
+            || echo "[kb-version-scan] Discord webhook post failed (non-critical)"
+    else
+        echo "[kb-version-scan] DRY-RUN: would post Discord webhook"
+    fi
+else
+    echo "[kb-version-scan] DISCORD_WEBHOOK_CHANGELOG not configured — skipping Discord post"
+fi

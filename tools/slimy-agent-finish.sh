@@ -26,6 +26,11 @@ TIMESTAMP=$(date -u +%Y%m%d-%H%M%S)
 KB_ROOT="/home/slimy/kb"
 KB_TOOLS="$KB_ROOT/tools"
 
+# Source webhook config if present
+if [[ -f ~/.config/slimy/webhooks.env ]]; then
+    source ~/.config/slimy/webhooks.env
+fi
+
 while [[ $# -gt 0 ]]; do
     case "$1" in
         --agent)
@@ -158,7 +163,8 @@ else
     echo "[slimy-agent-finish] DRY-RUN: would write changelog to $RAW_CHANGELOG"
 fi
 
-# Commit and push changed project repos (non-kb)
+# Commit and push changed project repos (non-kb), track failures for ALERTS
+ALERT_MSG=""
 if [[ "$DRY_RUN" != "--dry-run" ]]; then
     for repo in "${REPOS[@]:-}"; do
         [[ -d "$repo" ]] || continue
@@ -167,13 +173,17 @@ if [[ "$DRY_RUN" != "--dry-run" ]]; then
             changes=$(git -C "$repo" status --porcelain 2>/dev/null || true)
             if [[ -n "$changes" ]]; then
                 echo "[slimy-agent-finish] Committing changes in $repo..."
-                (
+                if (
                     cd "$repo"
                     git add -A
                     git commit -m "docs: auto-sync project docs from ${HOST} ${TODAY}" 2>/dev/null && \
-                    git push origin "$(git rev-parse --abbrev-ref HEAD)" 2>/dev/null || \
+                    git push origin "$(git rev-parse --abbrev-ref HEAD)" 2>/dev/null
+                ); then
+                    echo "[slimy-agent-finish] Pushed $repo"
+                else
                     echo "[slimy-agent-finish] WARNING: could not push $repo (may need credentials)"
-                ) || echo "[slimy-agent-finish] WARNING: commit failed for $repo"
+                    ALERT_MSG="${ALERT_MSG}push failed: $repo; "
+                fi
             else
                 echo "[slimy-agent-finish] No changes to commit in $repo"
             fi
@@ -184,19 +194,39 @@ fi
 # Commit and push KB changes
 if [[ "$DRY_RUN" != "--dry-run" ]]; then
     echo "[slimy-agent-finish] Committing KB changes..."
-    bash "$KB_TOOLS/kb-sync.sh" push 2>&1 || echo "[slimy-agent-finish] WARNING: KB push failed — changes are committed locally"
+    if ! bash "$KB_TOOLS/kb-sync.sh" push 2>&1; then
+        echo "[slimy-agent-finish] WARNING: KB push failed — changes are committed locally"
+        ALERT_MSG="${ALERT_MSG}KB push failed; "
+    fi
 else
     echo "[slimy-agent-finish] DRY-RUN: would commit and push KB changes"
 fi
 
-# Run compile if not skipped
+# Run compile if not skipped, track failures for ALERTS
 if [[ -z "$SKIP_COMPILE" && "$DRY_RUN" != "--dry-run" ]]; then
     echo "[slimy-agent-finish] Running compile check..."
-    bash "$KB_TOOLS/kb-compile-if-needed.sh" 2>&1 || echo "[slimy-agent-finish] WARNING: compile-if-needed returned non-zero"
+    if ! bash "$KB_TOOLS/kb-compile-if-needed.sh" 2>&1; then
+        echo "[slimy-agent-finish] WARNING: compile-if-needed returned non-zero"
+        ALERT_MSG="${ALERT_MSG}compile-if-needed failed; "
+    fi
 elif [[ "$DRY_RUN" == "--dry-run" ]]; then
     echo "[slimy-agent-finish] DRY-RUN: skipping compile"
 else
     echo "[slimy-agent-finish] SKIP_COMPILE set — skipping compile"
+fi
+
+# Post ALERTS webhook if any failures were recorded (category: ALERTS)
+if [[ -n "${ALERT_MSG:-}" && -n "${DISCORD_WEBHOOK_ALERTS:-}" ]]; then
+    if [[ "$DRY_RUN" != "--dry-run" ]]; then
+        msg="[ALERT $HOST] slimy-agent-finish failures: ${ALERT_MSG}agent=${AGENT}"
+        curl -s -X POST "${DISCORD_WEBHOOK_ALERTS}" \
+            -H "Content-Type: application/json" \
+            -d "{\"content\": \"$msg\"}" >/dev/null 2>&1 \
+            && echo "[slimy-agent-finish] Posted ALERTS webhook" \
+            || echo "[slimy-agent-finish] ALERTS webhook post failed (non-critical)"
+    else
+        echo "[slimy-agent-finish] DRY-RUN: would post ALERTS webhook: ${ALERT_MSG}"
+    fi
 fi
 
 echo "[slimy-agent-finish] Finish automation complete."

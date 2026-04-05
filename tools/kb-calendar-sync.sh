@@ -10,7 +10,12 @@ TODAY=$(date +%Y-%m-%d)
 KB_ROOT="/home/slimy/kb"
 VAULT_DAILY="/home/slimy/obsidian/slimyai-vault/Daily"
 OUT_FILE="$VAULT_DAILY/${TODAY}.md"
-DISCORD_WEBHOOK="${DISCORD_WEBHOOK_URL:-}"
+
+# Source webhook config if present (category: DAILY)
+if [[ -f ~/.config/slimy/webhooks.env ]]; then
+    source ~/.config/slimy/webhooks.env
+fi
+DISCORD_WEBHOOK="${DISCORD_WEBHOOK_DAILY:-}"
 
 mkdir -p "$VAULT_DAILY"
 
@@ -99,5 +104,5 @@ if [[ -n "$DISCORD_WEBHOOK" ]]; then
             -d "{\"content\": \"$msg\"}" >/dev/null 2>&1 && echo "[kb-calendar-sync] Posted Discord webhook" || echo "[kb-calendar-sync] Discord webhook post failed (non-critical)"
     fi
 else
-    echo "[kb-calendar-sync] DISCORD_WEBHOOK_URL not configured — skipping Discord post"
+    echo "[kb-calendar-sync] DISCORD_WEBHOOK_DAILY not configured — skipping Discord post"
 fi
