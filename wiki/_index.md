@@ -1,6 +1,6 @@
 # SlimyAI Knowledge Base - Master Index
 > Auto-maintained by LLM agents. Do not edit manually.
-> Last compiled: 2026-04-04
+> Last compiled: 2026-04-05
 
 ## Categories
 ### Concepts
@@ -10,8 +10,10 @@
 
 ### Projects
 - [Agents Plugin Ecosystem](projects/agents-plugin-ecosystem.md) - Plugin/agent/skill orchestration system for focused capability loading.
+- [Capture Dashboard](projects/capture-dashboard.md) - Operator intake surface with folder map, quick actions, and ingest-compile-sync checklist.
 - [Clawd Workspace Governance](projects/clawd-workspace-governance.md) - Memory and session governance model for Clawd workspace operations.
 - [Mission Control](projects/mission-control.md) - Task, comms, and automation coordination surface.
+- [Operator Console](projects/operator-console.md) - NUC2 KB operations decision tree — conflicts, inbox, compile, capture/query in order.
 - [PM UpDown Bot Bundle](projects/pm-updown-bot-bundle.md) - Trading-bot bundle structure, guardrails, and truth-gate workflow.
 - [Slimy Chat](projects/slimy-chat.md) - Revolt-based invite-only chat stack and auth flow.
 - [Slimy Discord Bot](projects/slimy-discord-bot.md) - AI-enabled Discord bot architecture, conventions, and verification commands.

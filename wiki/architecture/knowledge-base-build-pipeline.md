@@ -1,8 +1,8 @@
 # Knowledge Base Build Pipeline
 > Category: architecture
-> Sources: /home/slimy/kb/KB_AGENTS.md, /home/slimy/kb/tools/kb-sync.sh, /home/slimy/kb/tools/kb-search.sh, /home/slimy/kb/tools/kb-write.sh, /home/slimy/kb/wiki/_index.md, /home/slimy/kb/wiki/_concepts.md, /home/slimy/kb/output/query-20260404-134246.md, /home/slimy/kb/wiki/architecture/harness-runtime-topology.md, /home/slimy/kb/wiki/patterns/memory-capture-pattern.md
+> Sources: /home/slimy/kb/KB_AGENTS.md, /home/slimy/kb/tools/kb-sync.sh, /home/slimy/kb/tools/kb-search.sh, /home/slimy/kb/tools/kb-write.sh, /home/slimy/kb/wiki/_index.md, /home/slimy/kb/wiki/_concepts.md, /home/slimy/kb/output/query-20260404-134246.md, /home/slimy/kb/wiki/architecture/harness-runtime-topology.md, /home/slimy/kb/wiki/patterns/memory-capture-pattern.md, /home/slimy/kb/raw/research/obsidian-projects-kb-workflow.md
 > Created: 2026-04-04
-> Updated: 2026-04-04
+> Updated: 2026-04-05
 > Status: draft
 
 This article defines the end-to-end workflow for how SlimyAI knowledge is captured, compiled, queried, and synchronized across NUC1/NUC2.
