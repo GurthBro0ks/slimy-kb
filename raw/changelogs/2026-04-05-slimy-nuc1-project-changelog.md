@@ -9,7 +9,27 @@ type: changelog
 > Agent: claude | Host: slimy-nuc1
 
 ## Repos Updated
+- `/home/slimy/src/plugins/Slimefun4` → `d12ae8580` (HEAD) — api/Open up range field (#4231)
+- `/home/slimy/src/plugins/PrivateStorage` → `5832db2` (master) — Merge pull request #19 from variananora/rc-27-update
+- `/home/slimy/src/plugins/DynaTech` → `c6f32ec` (main) — :arrow_up: chore(slimefun): Move to latest slimefun commit to appease build gods
+- `/home/slimy/mission-control` → `7af55e8` (main) — docs: scaffold project docs via kb-project-doc-sync.sh
+- `/home/slimy/ned-autonomous` → `8025ec7` (main) — docs: scaffold project docs via kb-project-doc-sync.sh
+- `/home/slimy/stoat-source` → `6bd045e` (main) — chore: modify .github/workflows/release-webhook.yml
+- `/home/slimy/nuc-comms/mailbox_outbox` → `6f5227e` (main) — chore: update mailbox outbox report (2026-04-05)
+- `/home/slimy/slimy-chat` → `9362b87` (main) — docs: scaffold project docs via kb-project-doc-sync.sh
+- `/home/slimy/clawd` → `5afc97b` (master) — docs: scaffold project docs via kb-project-doc-sync.sh
+- `/home/slimy/ned-clawd/actionbook` → `f99f4e0` (main) — chore: checkpoint dirty files from NUC1 sync
+- `/home/slimy/ned-clawd` → `3c1a720` (master) — chore: add *.db-shm to gitignore
+- `/home/slimy/.qoder-server/slimy-monorepo` → `4e893be` (main) — docs: record dream image generation fix session
+- `/home/slimy/.openclaw/workspace-executor` → `0900f25` (master) — chore: add .gitignore
+- `/home/slimy/.openclaw/workspace-researcher` → `012906a` (master) — chore: add .gitignore and remove AGENTS.md.bak
+- `/home/slimy/.codex/.tmp/plugins` → `f78e3ad` (main) — [codex] readd microsoft plugins (#125)
+- `/opt/slimy/slimy-monorepo` → `9ddc6af` (main) — docs: scaffold project docs via kb-project-doc-sync.sh 2026-04-05
+- `/opt/slimy/app` → `33f4a61` (main) — fix: remove node_modules from git tracking
+- `/opt/slimy/research/kalshi-ai-trading-bot` → `fd65404` (main) — fix: daily AI limit not resetting properly (#27)
+- `/opt/slimy/pm_updown_bot_bundle/proofs` → `beea75a` (main) — feat: full-live /bin/bash.01 orders ready
 - `/opt/slimy/pm_updown_bot_bundle` → `0a92d84` (feat/ibkr-forecast-integration) — fix: add get_ai_stock_sentiment stub and defensive import
+- `/opt/slimy/apify-market-scanner` → `dd8beb5` (master) — feat: Initial Apify Actor for prediction market scanning
 
 ## Agent Summary
 —
