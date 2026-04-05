@@ -98,7 +98,7 @@ if [[ -n "$DISCORD_WEBHOOK" ]]; then
     if [[ "$DRY_RUN" == "--dry-run" ]]; then
         echo "[DRY-RUN] Would post Discord webhook"
     else
-        local msg="Daily $TODAY on $HOST — compile: ${uncompiled_count}, conflicts: ${conflict_count}, stale: ${stale_count}"
+        msg="Daily $TODAY on $HOST — compile: ${uncompiled_count}, conflicts: ${conflict_count}, stale: ${stale_count}"
         curl -s -X POST "$DISCORD_WEBHOOK" \
             -H "Content-Type: application/json" \
             -d "{\"content\": \"$msg\"}" >/dev/null 2>&1 && echo "[kb-calendar-sync] Posted Discord webhook" || echo "[kb-calendar-sync] Discord webhook post failed (non-critical)"
