@@ -1,6 +1,6 @@
 # Slimy KB
 > Category: projects
-> Sources: raw/decisions/2026-04-05-project-slimy-kb-nuc2-state.md, raw/research/2026-04-05-obsidian-calendar-automation-options.md
+> Sources: raw/decisions/2026-04-05-project-slimy-kb-nuc2-state.md, raw/research/2026-04-05-obsidian-calendar-automation-options.md, raw/research/obsidian-projects-kb-workflow.md, raw/research/2026-04-05-slimy-nuc2-webhook-codex-yolo-normalization.md, raw/changelogs/2026-04-05-slimy-nuc1-project-changelog.md, raw/changelogs/2026-04-05-slimy-nuc2-project-changelog.md
 > Created: 2026-04-05
 > Updated: 2026-04-05
 > Status: draft
