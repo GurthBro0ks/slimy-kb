@@ -1,8 +1,8 @@
 # Harness Runtime Topology
 > Category: architecture
-> Sources: raw/decisions/seed-agents-rules.md, raw/decisions/seed-server-state.md, raw/agent-learnings/seed-progress-history.md, /home/slimy/AGENTS.md, /home/slimy/init.sh, /home/slimy/server-state.md, /home/slimy/feature_list.json, /home/slimy/claude-progress.md, /home/slimy/.config/systemd/user/slimy-web.service, /home/slimy/.config/systemd/user/mission-control.service, /home/slimy/.config/systemd/user/slimy-mysql-tunnel.service, /home/slimy/.config/systemd/user/nuc-mailbox-ingest.service, /home/slimy/.config/systemd/user/nuc-mailbox-ingest.timer, /home/slimy/nuc-comms/README.md, /home/slimy/nuc-comms/bin/nuc1_daily_report_run.sh, /home/slimy/nuc-comms/bin/nuc2_mailbox_ingest.sh
+> Sources: raw/decisions/seed-agents-rules.md, raw/decisions/seed-server-state.md, raw/agent-learnings/seed-progress-history.md, /home/slimy/AGENTS.md, /home/slimy/init.sh, /home/slimy/server-state.md, /home/slimy/feature_list.json, /home/slimy/claude-progress.md, /home/slimy/.config/systemd/user/slimy-web.service, /home/slimy/.config/systemd/user/mission-control.service, /home/slimy/.config/systemd/user/slimy-mysql-tunnel.service, /home/slimy/.config/systemd/user/nuc-mailbox-ingest.service, /home/slimy/.config/systemd/user/nuc-mailbox-ingest.timer, /home/slimy/nuc-comms/README.md, /home/slimy/nuc-comms/bin/nuc1_daily_report_run.sh, /home/slimy/nuc-comms/bin/nuc2_mailbox_ingest.sh, raw/decisions/2026-04-05-project-ned-autonomous-nuc1-state.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc1-state.md
 > Created: 2026-04-04
-> Updated: 2026-04-04
+> Updated: 2026-04-05
 > Status: draft
 
 This article maps where SlimyAI harness components live, who owns them at runtime, and how host-local vs shared controls interact.
@@ -21,9 +21,10 @@ This article maps where SlimyAI harness components live, who owns them at runtim
 - Shared across hosts: Git remotes (GitHub) and mailbox report flow (`mailbox.git` push/pull + schema/SHA checks).
 
 ## Agent-Loop Placement
-- Contract source places `agent-loop` on NUC1 as an active service boundary.
-- NUC2 runtime probes on 2026-04-04 show no local `agent-loop` unit/process ownership.
-- Operational rule: treat `agent-loop` as remote infrastructure from NUC2; do not infer local ownership because PM2 exists.
+- `agent-loop` is on NUC1 (confirmed by NUC1 discovery 2026-04-05) as PM2 id=0.
+- ned-autonomous (PM2 id=0, agent-loop) and slimy-bot-v2 (PM2 id=10) are both NUC1 PM2 processes.
+- NUC2 runtime probes on 2026-04-04 show no local `agent-loop` unit/process — correct, it runs on NUC1.
+- Operational rule: treat `agent-loop` as remote infrastructure from NUC2; do not infer local ownership because PM2 exists on NUC2 as well.
 
 ## Mailbox Transport Topology
 1. NUC1 generates daily `report.json` and `report.sha256`, validates schema, and pushes to mailbox remote (`/home/slimy/nuc-comms/mailbox.git`) using a dedicated mailbox SSH key.
@@ -31,7 +32,9 @@ This article maps where SlimyAI harness components live, who owns them at runtim
 3. Ingest script clones mailbox, verifies schema and SHA, then atomically updates `/home/slimy/nuc-comms/mailbox_ingest/report.json`.
 4. Restricted SSH guard (`mailbox-ssh-guard.sh`) limits mailbox key usage to `git-receive-pack`/`git-upload-pack` for the allowed bare repo.
 
-## Supervisor Ownership (Observed on NUC2, 2026-04-04)
+## Supervisor Ownership (Observed 2026-04-04/05)
+
+### NUC2 Services
 | Service/Component | Expected Host | Active Supervisor | State |
 |---|---|---|---|
 | `slimy-web` | NUC2 | `systemd --user` (`slimy-web.service`) | Active |
@@ -39,7 +42,16 @@ This article maps where SlimyAI harness components live, who owns them at runtim
 | MySQL tunnel (`3307 -> nuc1:3306`) | NUC2 | `systemd --user` (`slimy-mysql-tunnel.service`) | Active |
 | Mailbox ingest | NUC2 | `systemd --user` timer + oneshot service | Timer enabled; service runs on schedule |
 | PM2 daemon | NUC2 | PM2 god daemon present | No managed app processes currently listed |
-| `agent-loop` | NUC1 | NUC1-owned runtime boundary (per AGENTS/server-state) | Not locally observed on NUC2 |
+
+### NUC1 Services (per NUC1 discovery 2026-04-05)
+| Service/Component | Active Supervisor | State | Notes |
+|---|---|---|---|
+| `agent-loop` | PM2 (id=0) | online | ned-autonomous; 17.4mb |
+| `slimy-bot-v2` | PM2 (id=10) | online | slimy-monorepo; port 3000 |
+| `mission-control` | systemd (`mission-control.service`) | active | Port 3838 |
+| `pm2-slimy` | systemd (`pm2-slimy.service`) | active | PM2 daemon itself |
+| `tailscaled` | systemd | active | VPN |
+| `slimy-chat` | Docker Compose | Up 2-5 weeks | 16 containers |
 
 ## Known Harness Failure Modes
 - Supervisor drift: service ownership confusion between PM2 and systemd causes restart loops and false recovery attempts.

@@ -1,8 +1,8 @@
 # Slimy Monorepo
 > Category: projects
-> Sources: raw/articles/seed-slimy-monorepo-readme.md, raw/decisions/seed-slimy-monorepo-agents.md
+> Sources: raw/articles/seed-slimy-monorepo-readme.md, raw/decisions/seed-slimy-monorepo-agents.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc1-state.md
 > Created: 2026-04-04
-> Updated: 2026-04-04
+> Updated: 2026-04-05
 > Status: draft
 
 The Slimy monorepo hosts web, bot, and supporting packages with shared CI and infrastructure documentation.
@@ -20,6 +20,13 @@ The Slimy monorepo hosts web, bot, and supporting packages with shared CI and in
 ## Constraints
 - Respect project AGENTS startup sequence and truth gate.
 - Do not re-clone over symlinked canonical path.
+
+## NUC1 Runtime State (2026-04-05)
+- **Canonical path:** `/opt/slimy/slimy-monorepo`; `/home/slimy/slimy-monorepo` is a symlink to it
+- **PM2:** `slimy-bot-v2` online at port 3000/tcp (PM2 id 10, 110.7mb)
+- **Branch:** main; last commit `cad0803` 2026-04-05 — "Merge branch 'feature/merge-chat-app'"
+- **Dirty:** YES — uncommitted `apps/bot/data_store.json`, `apps/web/app/trader/`, `apps/web/components/trader/`
+- **Successor to:** slimyai_setup (old JS Discord bot); cutover completed 2026-04-03
 
 ## See Also
 - [Slimy Web](slimy-web.md)

@@ -10,9 +10,13 @@
 
 ### Projects
 - [Agents Plugin Ecosystem](projects/agents-plugin-ecosystem.md) - Plugin/agent/skill orchestration system for focused capability loading.
+- [Apify Market Scanner](projects/apify-market-scanner.md) - Apify-based market data scraping tool; runtime status UNKNOWN.
 - [Capture Dashboard](projects/capture-dashboard.md) - Operator intake surface with folder map, quick actions, and ingest-compile-sync checklist.
 - [Clawd Workspace Governance](projects/clawd-workspace-governance.md) - Memory and session governance model for Clawd workspace operations.
+- [Mailbox NUC Comms](projects/mailbox-nuc-comms.md) - Git-based inter-NUC mailbox transport (NUC1 push side).
 - [Mission Control](projects/mission-control.md) - Task, comms, and automation coordination surface.
+- [Ned-Autonomous](projects/ned-autonomous.md) - PM2 agent-loop orchestrator on NUC1 (id=0).
+- [OpenCLAW Agents](projects/openclaw-agents.md) - OpenCLAW workspace subagents (executor/researcher) on NUC1.
 - [Operator Console](projects/operator-console.md) - NUC2 KB operations decision tree — conflicts, inbox, compile, capture/query in order.
 - [PM UpDown Bot Bundle](projects/pm-updown-bot-bundle.md) - Trading-bot bundle structure, guardrails, and truth-gate workflow.
 - [Slimy Chat](projects/slimy-chat.md) - Revolt-based invite-only chat stack and auth flow.

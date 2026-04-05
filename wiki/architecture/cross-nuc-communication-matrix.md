@@ -1,8 +1,8 @@
 # Cross-NUC Communication Matrix
 > Category: architecture
-> Sources: raw/decisions/seed-agents-rules.md, raw/decisions/seed-server-state.md, raw/agent-learnings/seed-progress-history.md, /home/slimy/server-state.md, /etc/hosts, /home/slimy/.ssh/config, /home/slimy/.config/systemd/user/slimy-mysql-tunnel.service, /home/slimy/.config/systemd/user/slimy-web.service, /home/slimy/.config/systemd/user/mission-control.service, /home/slimy/nuc-comms/README.md, /home/slimy/nuc-comms/bin/nuc1_daily_report_run.sh, /home/slimy/nuc-comms/bin/nuc2_mailbox_ingest.sh, /home/slimy/nuc-comms/bin/mailbox-ssh-guard.sh, /opt/slimy/slimy-monorepo/apps/web/.env, /opt/slimy/slimy-monorepo/apps/web/.env.local
+> Sources: raw/decisions/seed-agents-rules.md, raw/decisions/seed-server-state.md, raw/agent-learnings/seed-progress-history.md, /home/slimy/server-state.md, /etc/hosts, /home/slimy/.ssh/config, /home/slimy/.config/systemd/user/slimy-mysql-tunnel.service, /home/slimy/.config/systemd/user/slimy-web.service, /home/slimy/.config/systemd/user/mission-control.service, /home/slimy/nuc-comms/README.md, /home/slimy/nuc-comms/bin/nuc1_daily_report_run.sh, /home/slimy/nuc-comms/bin/nuc2_mailbox_ingest.sh, /home/slimy/nuc-comms/bin/mailbox-ssh-guard.sh, /opt/slimy/slimy-monorepo/apps/web/.env, /opt/slimy/slimy-monorepo/apps/web/.env.local, raw/decisions/2026-04-05-project-mailbox-nuc-comms-nuc1-state.md, raw/research/2026-04-05-nuc1-project-anomalies.md
 > Created: 2026-04-04
-> Updated: 2026-04-04
+> Updated: 2026-04-05
 > Status: draft
 
 This matrix documents the known communication paths between NUC1 and NUC2, with ownership and failure signatures.
@@ -17,6 +17,8 @@ This matrix documents the known communication paths between NUC1 and NUC2, with 
 | Operator shell/ops channel | SSH (`work-nuc1`, `nuc1-lan`) | NUC2 operator -> NUC1 | SSH key auth | Human operators + host SSH policy | Port mismatch/refused (for example `4421` vs LAN `22`) |
 | Repo sync channel | Git over SSH to GitHub (`git@github.com`) | NUC1 and NUC2 <-> GitHub | GitHub SSH key auth | Per-repo maintainers | Non-fast-forward/divergent branch states; stale local main |
 | NUC mailbox transport (daily report) | Git mailbox + SHA/schema verification | NUC1 push -> NUC2 bare mailbox repo -> NUC2 ingest copy | Restricted mailbox key + `mailbox-ssh-guard.sh` + JSON schema + SHA256 | NUC1 report producer + NUC2 ingest timer/service | `missing report.json`, `missing report.sha256`, `schema validation failed`, `sha mismatch` |
+
+> **Note (2026-04-05):** On NUC1 the local mailbox repo is named `mailbox_outbox` (at `/home/slimy/nuc-comms/mailbox_outbox`), not `mailbox_ingest` as the project map suggests. NUC1 is the push side; NUC2 holds the bare `mailbox.git` and runs the ingest service. The project map should reflect `mailbox_outbox` for NUC1. See [Mailbox NUC Comms](../projects/mailbox-nuc-comms.md).
 
 ## Runtime Anchors (Observed 2026-04-04)
 - Tailscale sees both nodes online (`slimy-nuc1` at `100.106.127.22`, `slimy-nuc2` at `100.105.119.62`).
