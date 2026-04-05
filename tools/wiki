@@ -24,6 +24,7 @@ Usage:
   wiki prompt-query "question"
   wiki prompt-compile
   wiki sync
+  wiki conflicts
   wiki vault-sync
   wiki vault-ingest
   wiki help
@@ -40,6 +41,7 @@ Examples:
   wiki prompt-query "how does the ingest flow work?"
   wiki prompt-compile
   wiki sync
+  wiki conflicts
   wiki vault-sync
   wiki vault-ingest
 
@@ -656,6 +658,41 @@ EOF
     cat "$out_file"
 }
 
+run_conflicts() {
+    local -a search_dirs=("$KB_ROOT")
+    if [[ -d "$VAULT_ROOT" ]]; then
+        search_dirs+=("$VAULT_ROOT")
+    fi
+
+    local -a conflicts=()
+    while IFS= read -r file; do
+        [[ -n "$file" ]] || continue
+        conflicts+=("$file")
+    done < <(find "${search_dirs[@]}" -type f -iname '*conflict*' 2>/dev/null | sort)
+
+    echo "=== KB Conflicts ==="
+    if [[ ${#conflicts[@]} -eq 0 ]]; then
+        echo "No conflict files found."
+        return
+    fi
+
+    local file
+    for file in "${conflicts[@]}"; do
+        local zone rel_path mod_date
+        if [[ "$file" == "$KB_ROOT"* ]]; then
+            zone="KB"
+            rel_path="${file#$KB_ROOT/}"
+        else
+            zone="Vault"
+            rel_path="${file#$VAULT_ROOT/}"
+        fi
+        mod_date=$(date -r "$file" +%Y-%m-%d 2>/dev/null || echo "unknown")
+        printf '%s | %-5s | %s\n' "$mod_date" "$zone" "$rel_path"
+    done
+    echo
+    echo "${#conflicts[@]} conflict file(s) found."
+}
+
 run_sync() {
     bash "$KB_ROOT/tools/kb-sync.sh" pull
 }
@@ -706,6 +743,10 @@ main() {
         sync)
             shift
             run_sync "$@"
+            ;;
+        conflicts)
+            shift
+            run_conflicts "$@"
             ;;
         vault-sync)
             shift
