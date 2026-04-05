@@ -1,7 +1,8 @@
 # Slimy KB
 > Category: projects
-> Sources: raw/decisions/2026-04-05-project-slimy-kb-nuc2-state.md
+> Sources: raw/decisions/2026-04-05-project-slimy-kb-nuc2-state.md, raw/research/2026-04-05-obsidian-calendar-automation-options.md
 > Created: 2026-04-05
+> Updated: 2026-04-05
 > Status: draft
 
 Slimy KB is the SlimyAI knowledge base — a git-based, cross-NUC synced wiki with a raw-to-compiled build pipeline and CLI tooling.
@@ -28,8 +29,23 @@ kb/
   - `wiki prompt-compile` — generates sync-aware prompt for KB compile
   - `wiki daily` — daily status: conflicts, inbox, uncompiled raw, stale articles, last sync
   - `wiki conflicts` — lists conflicted files across KB and vault
+  - `wiki todo` — operator checklist for today
+  - `wiki recommend` — AI-generated recommendations for KB improvements
+  - `wiki versions` — version scan across all known projects
+  - `wiki changelog` — recent changes rollup (1d/7d)
+  - `wiki ideas-ingest` — ingest vault Ideas/ into KB raw
+  - `wiki calendar-sync` — create/update today's vault Daily/ note
 - `tools/kb-sync.sh` — cross-NUC KB sync (push/pull/resolve subcommands)
 - `tools/kb-search.sh` — full-text wiki search
+- `tools/slimy-agent-finish.sh` — end-of-run automation for Claude/Codex agents
+- `tools/kb-project-doc-sync.sh` — scaffold README/CHANGELOG/VERSION for project repos
+- `tools/kb-version-scan.sh` — scan version state across all known projects
+- `tools/kb-changelog-rollup.sh` — roll up recent commits by project
+- `tools/kb-idea-ingest.sh` — ingest vault Ideas/ into KB raw/
+- `tools/kb-calendar-sync.sh` — sync daily note to vault Daily/
+- `tools/kb-recommend.sh` — generate recommendation output and vault notes
+- `tools/kb-todo.sh` — generate operator todo checklist
+- `tools/kb-compile-if-needed.sh` — check for uncompiled raw and trigger compile
 
 ## Runtime State (NUC2)
 - **Sync cron:** `*/30 * * * * cd /home/slimy/kb && bash tools/kb-sync.sh pull`

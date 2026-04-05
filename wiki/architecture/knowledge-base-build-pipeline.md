@@ -1,6 +1,6 @@
 # Knowledge Base Build Pipeline
 > Category: architecture
-> Sources: /home/slimy/kb/KB_AGENTS.md, /home/slimy/kb/tools/kb-sync.sh, /home/slimy/kb/tools/kb-search.sh, /home/slimy/kb/tools/kb-write.sh, /home/slimy/kb/wiki/_index.md, /home/slimy/kb/wiki/_concepts.md, /home/slimy/kb/output/query-20260404-134246.md, /home/slimy/kb/wiki/architecture/harness-runtime-topology.md, /home/slimy/kb/wiki/patterns/memory-capture-pattern.md, /home/slimy/kb/raw/research/obsidian-projects-kb-workflow.md
+> Sources: /home/slimy/kb/KB_AGENTS.md, /home/slimy/kb/tools/kb-sync.sh, /home/slimy/kb/tools/kb-search.sh, /home/slimy/kb/tools/kb-write.sh, /home/slimy/kb/wiki/_index.md, /home/slimy/kb/wiki/_concepts.md, /home/slimy/kb/output/query-20260404-134246.md, /home/slimy/kb/wiki/architecture/harness-runtime-topology.md, /home/slimy/kb/wiki/patterns/memory-capture-pattern.md, /home/slimy/kb/raw/research/obsidian-projects-kb-workflow.md, /home/slimy/kb/raw/research/2026-04-05-obsidian-calendar-automation-options.md
 > Created: 2026-04-04
 > Updated: 2026-04-05
 > Status: draft
@@ -16,8 +16,13 @@ The KB uses three storage layers:
 Raw folder purposes:
 - `raw/articles/`: repo docs, readmes, and longer source narratives.
 - `raw/agent-learnings/`: per-session learnings and non-obvious fixes.
+- `raw/changelogs/`: per-session or per-project changelog snapshots.
+- `raw/versions/`: per-session version scan snapshots.
 - `raw/research/`: focused research notes and external references.
 - `raw/decisions/`: operating decisions, rules, and architecture constraints.
+- `raw/ideas/`: ingested human idea notes from Obsidian vault Ideas/.
+- `raw/photos/`: photo metadata placeholders from Obsidian vault Ideas/Photos/.
+- `raw/recommendations/`: AI-generated recommendation notes (daily/weekly/new-projects/refactors).
 
 ## Compile and Update Rules (raw -> wiki)
 Per `KB_AGENTS.md`, compile is rule-driven:
@@ -92,6 +97,15 @@ Automatic (scripted helpers only):
 - Full-text wiki search (`kb-search.sh`).
 - Pull/push wrapper and optional auto-commit (`kb-sync.sh`).
 - Atomic single-file ingest (`kb-write.sh`).
+- End-of-run automation for Claude/Codex agents (`slimy-agent-finish.sh`).
+- Project doc scaffolding: README/CHANGELOG/VERSION sync (`kb-project-doc-sync.sh`).
+- Version scan across all known projects (`kb-version-scan.sh`).
+- Changelog rollup for last 1d/7d (`kb-changelog-rollup.sh`).
+- Idea ingestion from vault Ideas/ folder (`kb-idea-ingest.sh`).
+- Daily note sync to vault Daily/ (`kb-calendar-sync.sh`).
+- Operator recommendation generation (`kb-recommend.sh`).
+- Daily operator todo checklist (`kb-todo.sh`).
+- Compile-needed checker (`kb-compile-if-needed.sh`).
 
 ## See Also
 - [Harness Runtime Topology](harness-runtime-topology.md)

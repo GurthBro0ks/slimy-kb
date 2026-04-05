@@ -28,6 +28,12 @@ Usage:
   wiki lint [report-path]
   wiki vault-sync
   wiki vault-ingest
+  wiki todo [--dry-run]
+  wiki recommend [--dry-run]
+  wiki versions [--dry-run]
+  wiki changelog [--dry-run]
+  wiki ideas-ingest [--dry-run]
+  wiki calendar-sync [--dry-run]
   wiki help
 
 Examples:
@@ -47,6 +53,12 @@ Examples:
   wiki lint /path/to/report.md
   wiki vault-sync
   wiki vault-ingest
+  wiki todo
+  wiki recommend
+  wiki versions
+  wiki changelog
+  wiki ideas-ingest
+  wiki calendar-sync
 
 Notes:
   vault-ingest writes a run report to:
@@ -713,6 +725,30 @@ run_vault_ingest() {
     bash "$KB_ROOT/tools/kb-obsidian-ingest.sh"
 }
 
+run_todo() {
+    bash "$KB_ROOT/tools/kb-todo.sh" "$@"
+}
+
+run_recommend() {
+    bash "$KB_ROOT/tools/kb-recommend.sh" "$@"
+}
+
+run_versions() {
+    bash "$KB_ROOT/tools/kb-version-scan.sh" "$@"
+}
+
+run_changelog() {
+    bash "$KB_ROOT/tools/kb-changelog-rollup.sh" "$@"
+}
+
+run_ideas_ingest() {
+    bash "$KB_ROOT/tools/kb-idea-ingest.sh" "$@"
+}
+
+run_calendar_sync() {
+    bash "$KB_ROOT/tools/kb-calendar-sync.sh" "$@"
+}
+
 main() {
     local cmd="${1:-help}"
     case "$cmd" in
@@ -767,6 +803,30 @@ main() {
         vault-ingest)
             shift
             run_vault_ingest "$@"
+            ;;
+        todo)
+            shift
+            run_todo "$@"
+            ;;
+        recommend)
+            shift
+            run_recommend "$@"
+            ;;
+        versions)
+            shift
+            run_versions "$@"
+            ;;
+        changelog)
+            shift
+            run_changelog "$@"
+            ;;
+        ideas-ingest)
+            shift
+            run_ideas_ingest "$@"
+            ;;
+        calendar-sync)
+            shift
+            run_calendar_sync "$@"
             ;;
         help|-h|--help)
             usage
