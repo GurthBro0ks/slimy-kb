@@ -12,16 +12,20 @@
 - [Agents Plugin Ecosystem](projects/agents-plugin-ecosystem.md) - Plugin/agent/skill orchestration system for focused capability loading.
 - [Apify Market Scanner](projects/apify-market-scanner.md) - Apify-based market data scraping tool; runtime status UNKNOWN.
 - [Capture Dashboard](projects/capture-dashboard.md) - Operator intake surface with folder map, quick actions, and ingest-compile-sync checklist.
+- [Chriss Agent](projects/chriss-agent.md) - Webhook bridge service on NUC2 port 3850; running since Mar14.
 - [Clawd Workspace Governance](projects/clawd-workspace-governance.md) - Memory and session governance model for Clawd workspace operations.
-- [Mailbox NUC Comms](projects/mailbox-nuc-comms.md) - Git-based inter-NUC mailbox transport (NUC1 push side).
-- [Mission Control](projects/mission-control.md) - Task, comms, and automation coordination surface.
+- [Mailbox NUC Comms](projects/mailbox-nuc-comms.md) - Git-based inter-NUC mailbox transport (NUC1 push / NUC2 ingest).
+- [Mission Control](projects/mission-control.md) - Task, comms, and automation coordination surface (NUC2 port 3838).
 - [Ned-Autonomous](projects/ned-autonomous.md) - PM2 agent-loop orchestrator on NUC1 (id=0).
+- [Obsidian Headless Sync](projects/obsidian-headless-sync.md) - Sole PM2 process on NUC2; vault synchronization.
 - [OpenCLAW Agents](projects/openclaw-agents.md) - OpenCLAW workspace subagents (executor/researcher) on NUC1.
 - [Operator Console](projects/operator-console.md) - NUC2 KB operations decision tree — conflicts, inbox, compile, capture/query in order.
-- [PM UpDown Bot Bundle](projects/pm-updown-bot-bundle.md) - Trading-bot bundle structure, guardrails, and truth-gate workflow.
+- [PM UpDown Bot Bundle](projects/pm-updown-bot-bundle.md) - Trading-bot bundle structure, guardrails, and truth-gate workflow (NUC1 primary, NUC2 dormant).
+- [Slimyai Setup](projects/slimyai-setup.md) - Old JS Discord bot; superseded by slimy-bot-v2 in monorepo; not running.
 - [Slimy Chat](projects/slimy-chat.md) - Revolt-based invite-only chat stack and auth flow.
 - [Slimy Discord Bot](projects/slimy-discord-bot.md) - AI-enabled Discord bot architecture, conventions, and verification commands.
-- [Slimy Monorepo](projects/slimy-monorepo.md) - Core multi-app repo structure, workflow, and constraints.
+- [Slimy KB](projects/slimy-kb.md) - SlimyAI knowledge base — git-based wiki with raw-to-compiled pipeline and CLI tools.
+- [Slimy Monorepo](projects/slimy-monorepo.md) - Core multi-app repo structure, workflow, and constraints (NUC2: web on port 3000).
 - [Slimy Web](projects/slimy-web.md) - Next.js web app capabilities, env wiring, and runtime expectations.
 
 ### Patterns

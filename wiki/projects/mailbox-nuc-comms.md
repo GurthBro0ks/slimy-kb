@@ -1,7 +1,8 @@
 # Mailbox NUC Comms
 > Category: projects
-> Sources: raw/decisions/2026-04-05-project-mailbox-nuc-comms-nuc1-state.md, raw/research/2026-04-05-nuc1-project-anomalies.md
+> Sources: raw/decisions/2026-04-05-project-mailbox-nuc-comms-nuc1-state.md, raw/decisions/2026-04-05-project-mailbox-nuc-comms-nuc2-state.md, raw/research/2026-04-05-nuc1-project-anomalies.md
 > Created: 2026-04-05
+> Updated: 2026-04-05
 > Status: draft
 
 Mailbox NUC Comms is the git-based inter-NUC communication transport used to push machine reports from NUC1 to NUC2 for ingest.
@@ -37,9 +38,19 @@ NUC1 (mailbox_outbox) --git push over SSH--> NUC2 (mailbox.git)
 - SHA256 checksum verification
 - Source: See [Cross-NUC Communication Matrix](../architecture/cross-nuc-communication-matrix.md)
 
-## Relationship to Other Articles
-- Covered in [Cross-NUC Communication Matrix](../architecture/cross-nuc-communication-matrix.md) (Channel: NUC mailbox transport)
-- Related to [Harness Runtime Topology](../architecture/harness-runtime-topology.md) (Mailbox Transport Topology section)
+## NUC2 Side — Receive / Ingest
+
+**Path:** `/home/slimy/nuc-comms/mailbox_ingest`
+**Remote:** `/home/slimy/nuc-comms/mailbox.git` (local bare repo)
+**Branch:** main; last commit `f1e690f8` 2026-01-30
+**Dirty:** YES — untracked `report.json`
+
+**Supervisor:** `systemd --user` (`nuc-mailbox-ingest.service` → ACTIVATING)
+- Timer: `nuc-mailbox-ingest.timer` triggers ingest every ~10 minutes after boot
+- Script: `/home/slimy/nuc-comms/bin/nuc2_mailbox_ingest.sh`
+- Flow: bare repo clone → SHA verify → schema validate → atomically update `mailbox_ingest/report.json`
+
+**State:** ACTIVE on NUC2 (ingest side running/activating)
 
 ## See Also
 - [Cross-NUC Communication Matrix](../architecture/cross-nuc-communication-matrix.md)

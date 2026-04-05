@@ -1,6 +1,6 @@
 # Harness Runtime Topology
 > Category: architecture
-> Sources: raw/decisions/seed-agents-rules.md, raw/decisions/seed-server-state.md, raw/agent-learnings/seed-progress-history.md, /home/slimy/AGENTS.md, /home/slimy/init.sh, /home/slimy/server-state.md, /home/slimy/feature_list.json, /home/slimy/claude-progress.md, /home/slimy/.config/systemd/user/slimy-web.service, /home/slimy/.config/systemd/user/mission-control.service, /home/slimy/.config/systemd/user/slimy-mysql-tunnel.service, /home/slimy/.config/systemd/user/nuc-mailbox-ingest.service, /home/slimy/.config/systemd/user/nuc-mailbox-ingest.timer, /home/slimy/nuc-comms/README.md, /home/slimy/nuc-comms/bin/nuc1_daily_report_run.sh, /home/slimy/nuc-comms/bin/nuc2_mailbox_ingest.sh, raw/decisions/2026-04-05-project-ned-autonomous-nuc1-state.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc1-state.md
+> Sources: raw/decisions/seed-agents-rules.md, raw/decisions/seed-server-state.md, raw/agent-learnings/seed-progress-history.md, /home/slimy/AGENTS.md, /home/slimy/init.sh, /home/slimy/server-state.md, /home/slimy/feature_list.json, /home/slimy/claude-progress.md, /home/slimy/.config/systemd/user/slimy-web.service, /home/slimy/.config/systemd/user/mission-control.service, /home/slimy/.config/systemd/user/slimy-mysql-tunnel.service, /home/slimy/.config/systemd/user/nuc-mailbox-ingest.service, /home/slimy/.config/systemd/user/nuc-mailbox-ingest.timer, /home/slimy/nuc-comms/README.md, /home/slimy/nuc-comms/bin/nuc1_daily_report_run.sh, /home/slimy/nuc-comms/bin/nuc2_mailbox_ingest.sh, raw/decisions/2026-04-05-project-ned-autonomous-nuc1-state.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc1-state.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc2-state.md, raw/decisions/2026-04-05-project-mission-control-nuc2-state.md, raw/decisions/2026-04-05-project-mailbox-nuc-comms-nuc2-state.md, raw/decisions/2026-04-05-project-chriss-agent-nuc2-state.md, raw/decisions/2026-04-05-project-obsidian-headless-sync-nuc2-state.md
 > Created: 2026-04-04
 > Updated: 2026-04-05
 > Status: draft
@@ -40,8 +40,12 @@ This article maps where SlimyAI harness components live, who owns them at runtim
 | `slimy-web` | NUC2 | `systemd --user` (`slimy-web.service`) | Active |
 | `mission-control` | NUC2 | `systemd --user` (`mission-control.service`) | Active |
 | MySQL tunnel (`3307 -> nuc1:3306`) | NUC2 | `systemd --user` (`slimy-mysql-tunnel.service`) | Active |
-| Mailbox ingest | NUC2 | `systemd --user` timer + oneshot service | Timer enabled; service runs on schedule |
-| PM2 daemon | NUC2 | PM2 god daemon present | No managed app processes currently listed |
+| Mailbox ingest | NUC2 | `systemd --user` timer + oneshot service | Timer enabled; service activating |
+| `chriss-agent` (webhook-bridge.py) | NUC2 | systemd (inferred `chriss-bridge.service`) | Active — port 3850 |
+| `obsidian-headless-sync` | NUC2 | PM2 (id 0) | Online — sole PM2 process; startup disabled |
+| openclaw-gateway | NUC2 | `systemd --user` (`openclaw-gateway.service`) | Active |
+| slimy-web-health | NUC2 | `systemd --user` | Failed — healthcheck script missing |
+| slimy-report | NUC2 | `systemd --user` | Failed |
 
 ### NUC1 Services (per NUC1 discovery 2026-04-05)
 | Service/Component | Active Supervisor | State | Notes |
@@ -66,3 +70,5 @@ This article maps where SlimyAI harness components live, who owns them at runtim
 - [Knowledge Base Build Pipeline](knowledge-base-build-pipeline.md)
 - [Cross-NUC Communication Matrix](cross-nuc-communication-matrix.md)
 - [NUC Topology and Services](nuc-topology-and-services.md)
+- [Chriss Agent](../projects/chriss-agent.md)
+- [Obsidian Headless Sync](../projects/obsidian-headless-sync.md)

@@ -1,6 +1,6 @@
 # NUC Topology and Services
 > Category: architecture
-> Sources: raw/decisions/seed-server-state.md, raw/decisions/seed-agents-rules.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc1-state.md, raw/decisions/2026-04-05-project-pm-updown-bot-bundle-nuc1-state.md, raw/decisions/2026-04-05-project-openclaw-agents-nuc1-state.md, raw/decisions/2026-04-05-project-mailbox-nuc-comms-nuc1-state.md
+> Sources: raw/decisions/seed-server-state.md, raw/decisions/seed-agents-rules.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc1-state.md, raw/decisions/2026-04-05-project-pm-updown-bot-bundle-nuc1-state.md, raw/decisions/2026-04-05-project-openclaw-agents-nuc1-state.md, raw/decisions/2026-04-05-project-mailbox-nuc-comms-nuc1-state.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc2-state.md, raw/decisions/2026-04-05-project-mission-control-nuc2-state.md, raw/decisions/2026-04-05-project-slimyai-setup-nuc2-state.md, raw/decisions/2026-04-05-project-pm-updown-bot-bundle-nuc2-state.md, raw/decisions/2026-04-05-project-mailbox-nuc-comms-nuc2-state.md, raw/decisions/2026-04-05-project-chriss-agent-nuc2-state.md, raw/decisions/2026-04-05-project-obsidian-headless-sync-nuc2-state.md, raw/research/2026-04-05-nuc2-project-state-matrix.md, raw/research/2026-04-05-nuc2-project-anomalies.md
 > Created: 2026-04-04
 > Updated: 2026-04-05
 > Status: draft
@@ -15,6 +15,22 @@ SlimyAI is split across NUC1 and NUC2 with clear service boundaries.
 ## Repository Layout
 - Canonical monorepo path: `/opt/slimy/slimy-monorepo`.
 - `/home/slimy/slimy-monorepo` is a symlink and should not be replaced with a fresh clone.
+
+## NUC2 Runtime Evidence (2026-04-05)
+| Component | Manager | State | Port/Notes |
+|---|---|---|---|
+| slimy-web (monorepo) | systemd --user | active, running | Port 3000 (next-server v16.0.7, pid 3143002) |
+| mission-control | systemd --user | active, running | Port 3838 (next-server v16.1.6, pid 2311610) |
+| slimy-mysql-tunnel | systemd --user | active, running | SSH tunnel: localhost:3307 → NUC1:3306 |
+| nuc-mailbox-ingest | systemd --user (timer + oneshot) | activating | Mailbox pull from mailbox.git |
+| openclaw-gateway | systemd --user | active, running | Ports 18790/18792/18793 |
+| slimy-web-health | systemd --user | FAILED | Healthcheck script missing |
+| slimy-report | systemd --user | FAILED | — |
+| obsidian-headless-sync | PM2 (id 0) | online | Only PM2 process; vault sync |
+| chriss-agent | systemd (inferred) | running | Port 3850 (python webhook-bridge.py) |
+| pm_updown_bot_bundle | cron (rsync only) | dormant | NUC1 is primary; NUC2 rsync consumer |
+| slimyai_setup (/opt/slimy/app) | systemd | FAILED | Not running; superseded by monorepo bot |
+| KB | cron | active | `*/30 * * * *` kb-sync.sh pull |
 
 ## NUC1 Runtime Evidence (2026-04-05)
 | Component | Manager | State | Port/Notes |
@@ -41,3 +57,7 @@ SlimyAI is split across NUC1 and NUC2 with clear service boundaries.
 - [Harness Runtime Topology](harness-runtime-topology.md)
 - [Source of Truth Ledgers](../concepts/source-of-truth-ledgers.md)
 - [Q1 2026 Operational Fixes](../troubleshooting/q1-2026-operational-fixes.md)
+- [Slimy KB](../projects/slimy-kb.md)
+- [Chriss Agent](../projects/chriss-agent.md)
+- [Obsidian Headless Sync](../projects/obsidian-headless-sync.md)
+- [Slimyai Setup](../projects/slimyai-setup.md)

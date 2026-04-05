@@ -1,6 +1,6 @@
 # PM UpDown Bot Bundle
 > Category: projects
-> Sources: raw/decisions/seed-pm_updown_bot_bundle-agents.md, raw/decisions/2026-04-05-project-pm-updown-bot-bundle-nuc1-state.md
+> Sources: raw/decisions/seed-pm_updown_bot_bundle-agents.md, raw/decisions/2026-04-05-project-pm-updown-bot-bundle-nuc1-state.md, raw/decisions/2026-04-05-project-pm-updown-bot-bundle-nuc2-state.md
 > Created: 2026-04-04
 > Updated: 2026-04-05
 > Status: draft
@@ -31,6 +31,17 @@ This bundle hosts trading bot strategy code, venue connectors, and operations sc
   - Daily noon: `runner.py --mode micro-live` (timeout 60s)
 - **ML pipeline:** data collection, label resolution, shadow resolution
 - **Supersedes:** `research/kalshi-ai-trading-bot` (LEGACY_CANDIDATE)
+
+## NUC2 Runtime State (2026-04-05)
+- **Path:** `/home/slimy/pm_updown_bot_bundle`
+- **Remote:** `git@github.com:GurthBro0ks/pm_updown_bot_bundle.git`, branch `main`
+- **Last commit:** `a49674bc` 2026-03-21 (15 days ago)
+- **Dirty:** YES — untracked `claude-progress.md`
+- **Role on NUC2:** DORMANT — NUC1 is primary; NUC2 is rsync data consumer only
+- **NUC2 cron (rsync consumer):**
+  - `*/15 * * * *` rsync paper_trading/*.db from NUC1 → `/opt/slimy/trading-data-mirror/paper_trading/`
+  - `*/15 * * * *` rsync bootstrap_validation_*.json proofs from NUC1 → mirror target
+- **Classification:** DORMANT on NUC2 | Confidence: HIGH
 
 ## See Also
 - [Agent Session Contract](../concepts/agent-session-contract.md)
