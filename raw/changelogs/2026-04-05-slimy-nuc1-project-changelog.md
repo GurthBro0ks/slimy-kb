@@ -6,11 +6,11 @@ type: changelog
 
 # Changelog — 2026-04-05 slimy-nuc1
 
-> Agent: test-nuc1-ssh-validation | Host: slimy-nuc1
+> Agent: test-https-guard | Host: slimy-nuc1
 
 ## Repos Updated
-- `/home/slimy/clawd` → `532d8cb` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-05
-- `/home/slimy/kb` → `af61698` (main) — kb: child-compile 20260405-214032
+- `/home/slimy/src/plugins/Slimefun4` → `93c4bde97` (HEAD) — docs: auto-sync project docs from slimy-nuc1 2026-04-05
+- `/home/slimy/.openclaw/workspace-executor` → `51dec26` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-05
 
 ## Agent Summary
 —
