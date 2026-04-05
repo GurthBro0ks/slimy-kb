@@ -7,6 +7,10 @@
 #   slimy-agent-finish.sh --agent claude|codex|unknown [--repo /path/to/repo] [--summary "text"] [--dry-run] [--skip-compile]
 set -euo pipefail
 
+# Disable interactive pager — wrapper-triggered runs have no TTY
+export GIT_PAGER=cat
+export PAGER=cat
+
 # Guard against recursion
 if [[ "${SLIMY_AUTOFINISH_ACTIVE:-0}" == "1" ]]; then
     echo "[slimy-agent-finish] RECURSION GUARD: SLIMY_AUTOFINISH_ACTIVE=1 — exiting to prevent loop"
@@ -71,7 +75,7 @@ if [[ ${#REPOS[@]} -eq 0 ]]; then
             if [[ -z "${SEEN[$repo]:-}" ]]; then
                 SEEN["$repo"]=1
                 # Check if it has commits in last 24h
-                if git -C "$repo" log --since="24 hours ago" -q 2>/dev/null; then
+                if git --no-pager -C "$repo" log --since="24 hours ago" -q 2>/dev/null; then
                     REPOS+=("$repo")
                 fi
             fi
@@ -142,10 +146,10 @@ type: changelog
 
 ## Repos Updated
 $(for repo in "${REPOS[@]:-}"; do
-    if git -C "$repo" rev-parse --git-dir >/dev/null 2>&1; then
-        branch=$(git -C "$repo" rev-parse --abbrev-ref HEAD 2>/dev/null || echo "—")
-        commit=$(git -C "$repo" rev-parse --short HEAD 2>/dev/null || echo "—")
-        msg=$(git -C "$repo" log -1 --format="%s" 2>/dev/null || echo "—")
+    if git --no-pager -C "$repo" rev-parse --git-dir >/dev/null 2>&1; then
+        branch=$(git --no-pager -C "$repo" rev-parse --abbrev-ref HEAD 2>/dev/null || echo "—")
+        commit=$(git --no-pager -C "$repo" rev-parse --short HEAD 2>/dev/null || echo "—")
+        msg=$(git --no-pager -C "$repo" log -1 --format="%s" 2>/dev/null || echo "—")
         echo "- \`$repo\` → \`$commit\` ($branch) — $msg"
     else
         echo "- $repo (non-git)"
@@ -169,15 +173,15 @@ if [[ "$DRY_RUN" != "--dry-run" ]]; then
     for repo in "${REPOS[@]:-}"; do
         [[ -d "$repo" ]] || continue
         [[ "$repo" == "$KB_ROOT" ]] && continue
-        if git -C "$repo" rev-parse --git-dir >/dev/null 2>&1; then
-            changes=$(git -C "$repo" status --porcelain 2>/dev/null || true)
+        if git --no-pager -C "$repo" rev-parse --git-dir >/dev/null 2>&1; then
+            changes=$(git --no-pager -C "$repo" status --porcelain 2>/dev/null || true)
             if [[ -n "$changes" ]]; then
                 echo "[slimy-agent-finish] Committing changes in $repo..."
                 if (
                     cd "$repo"
-                    git add -A
-                    git commit -m "docs: auto-sync project docs from ${HOST} ${TODAY}" 2>/dev/null && \
-                    git push origin "$(git rev-parse --abbrev-ref HEAD)" 2>/dev/null
+                    git --no-pager add -A
+                    git --no-pager commit -m "docs: auto-sync project docs from ${HOST} ${TODAY}" 2>/dev/null && \
+                    git --no-pager push origin "$(git --no-pager rev-parse --abbrev-ref HEAD)" 2>/dev/null
                 ); then
                     echo "[slimy-agent-finish] Pushed $repo"
                 else
@@ -196,9 +200,9 @@ fi
 if [[ "$DRY_RUN" != "--dry-run" ]]; then
     echo "[slimy-agent-finish] Committing KB changes..."
     # Check for any non-zero uncommitted changes (ignores child-cleaned temp files)
-    KB_DIFF=$(cd "$KB_ROOT" && git add -A && git diff --cached --stat 2>&1 || true)
+    KB_DIFF=$(cd "$KB_ROOT" && git --no-pager add -A && git --no-pager diff --cached --stat 2>&1 || true)
     if [[ -n "$KB_DIFF" && "$KB_DIFF" != " no changes added" ]]; then
-        if git -C "$KB_ROOT" commit -m "kb: autofile $AGENT $(date +%Y%m%d-%H%M%S)" 2>&1; then
+        if git --no-pager -C "$KB_ROOT" commit -m "kb: autofile $AGENT $(date +%Y%m%d-%H%M%S)" 2>&1; then
             echo "[slimy-agent-finish] KB committed: ${KB_DIFF:0:80}"
         else
             echo "[slimy-agent-finish] WARNING: KB commit failed"
@@ -208,7 +212,7 @@ if [[ "$DRY_RUN" != "--dry-run" ]]; then
         echo "[slimy-agent-finish] No pre-child KB changes to commit"
     fi
     # Push any remaining local commits (child compile will have pushed its own)
-    KB_PUSHED=$(cd "$KB_ROOT" && git push origin main 2>&1 || true)
+    KB_PUSHED=$(cd "$KB_ROOT" && git --no-pager push origin main 2>&1 || true)
     if [[ "$KB_PUSHED" == *"error"* ]] || [[ "$KB_PUSHED" == *"fatal"* ]]; then
         echo "[slimy-agent-finish] WARNING: KB push had issues: ${KB_PUSHED:0:100}"
         ALERT_MSG="${ALERT_MSG}KB push had issues; "

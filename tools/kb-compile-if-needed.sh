@@ -4,6 +4,10 @@
 # Usage: kb-compile-if-needed.sh [--dry-run] [--force]
 set -euo pipefail
 
+# Disable interactive pager — wrapper-triggered runs have no TTY
+export GIT_PAGER=cat
+export PAGER=cat
+
 DRY_RUN="${1:-}"
 FORCE="${2:-}"
 HOST=$(hostname -s)
@@ -104,7 +108,7 @@ if [[ "$DRY_RUN" != "--dry-run" && "$FORCE" != "--skip-child" ]]; then
         echo "- Confirm compile candidates are fully handled or explicitly deferred with reason"
         echo ""
         echo "# Direct push without pull-first (avoids rebase conflicts in child compile)"
-        echo "cd /home/slimy/kb && git add -A && git diff --cached --stat && git commit -m \"kb: child-compile $(date +%Y%m%d-%H%M%S)\" && git push origin main"
+        echo "cd /home/slimy/kb && git --no-pager add -A && git --no-pager diff --cached --stat && git --no-pager commit -m \"kb: child-compile $(date +%Y%m%d-%H%M%S)\" && git --no-pager push origin main"
     } > "$COMPILE_PROMPT_FILE"
 
     echo "[kb-compile-if-needed] Compile prompt written to: $COMPILE_PROMPT_FILE"
@@ -112,7 +116,9 @@ if [[ "$DRY_RUN" != "--dry-run" && "$FORCE" != "--skip-child" ]]; then
     # Pipe prompt to claude -p (non-interactive, skips trust dialog)
     # SLIMY_AUTOFINISH_ACTIVE=1 is inherited by child — its wrapper will exit early (recursion guard)
     # SLIMY_KB_CHILD_COMPILE=1 tells kb-compile-if-needed.sh (if re-invoked) to skip
+    # GIT_PAGER=cat ensures child git commands never open interactive pager
     COMPILE_OUTPUT=$(
+        export GIT_PAGER=cat PAGER=cat
         SLIMY_KB_CHILD_COMPILE=1 \
         claude -p -- \
             --output-format text \

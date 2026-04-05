@@ -4,6 +4,10 @@
 # Usage: kb-project-doc-sync.sh <repo-path> [--dry-run]
 set -euo pipefail
 
+# Disable interactive pager — wrapper-triggered runs have no TTY
+export GIT_PAGER=cat
+export PAGER=cat
+
 REPO_PATH="${1:-}"
 DRY_RUN="${2:-}"
 
@@ -18,13 +22,13 @@ if [[ ! -d "$REPO_PATH" ]]; then
 fi
 
 # Detect git state
-if git -C "$REPO_PATH" rev-parse --git-dir >/dev/null 2>&1; then
+if git --no-pager -C "$REPO_PATH" rev-parse --git-dir >/dev/null 2>&1; then
     IS_GIT=true
-    BRANCH=$(git -C "$REPO_PATH" rev-parse --abbrev-ref HEAD 2>/dev/null || echo "unknown")
-    COMMIT_HASH=$(git -C "$REPO_PATH" rev-parse --short HEAD 2>/dev/null || echo "unknown")
-    LAST_COMMIT_MSG=$(git -C "$REPO_PATH" log -1 --pretty=%s 2>/dev/null || echo "none")
-    LAST_COMMIT_DATE=$(git -C "$REPO_PATH" log -1 --format=%ci 2>/dev/null | cut -d' ' -f1 || echo "unknown")
-    REMOTE=$(git -C "$REPO_PATH" remote get-url origin 2>/dev/null || echo "none")
+    BRANCH=$(git --no-pager -C "$REPO_PATH" rev-parse --abbrev-ref HEAD 2>/dev/null || echo "unknown")
+    COMMIT_HASH=$(git --no-pager -C "$REPO_PATH" rev-parse --short HEAD 2>/dev/null || echo "unknown")
+    LAST_COMMIT_MSG=$(git --no-pager -C "$REPO_PATH" log -1 --pretty=%s 2>/dev/null || echo "none")
+    LAST_COMMIT_DATE=$(git --no-pager -C "$REPO_PATH" log -1 --format=%ci 2>/dev/null | cut -d' ' -f1 || echo "unknown")
+    REMOTE=$(git --no-pager -C "$REPO_PATH" remote get-url origin 2>/dev/null || echo "none")
 else
     IS_GIT=false
     BRANCH="none"
@@ -87,7 +91,7 @@ fi
 
 # Detect status
 if [[ "$IS_GIT" == true ]]; then
-    DIRTY=$(git -C "$REPO_PATH" status --porcelain | grep -vE '^\?\? ' | wc -l | tr -d ' ' || true)
+    DIRTY=$(git --no-pager -C "$REPO_PATH" status --porcelain | grep -vE '^\?\? ' | wc -l | tr -d ' ' || true)
     if [[ "$DIRTY" -gt 0 ]]; then
         STATUS="ACTIVE_DIRTY"
     else
@@ -128,7 +132,7 @@ ${SERVICES_TABLE}
 ## How to Verify
 \`\`\`bash
 # Basic health check
-$([[ "$IS_GIT" == true ]] && echo "git -C $REPO_PATH log -1 --oneline" || echo "# Not a git repo")
+$([[ "$IS_GIT" == true ]] && echo "git --no-pager -C $REPO_PATH log -1 --oneline" || echo "# Not a git repo")
 \`\`\`
 
 ## Dependencies
@@ -221,7 +225,7 @@ else
 
 ## Last Verified
 - **Date:** $TODAY
-- **Verification:** \`git -C $REPO_PATH log -1 --oneline\`
+- **Verification:** \`git --no-pager -C $REPO_PATH log -1 --oneline\`
 
 ## Host Notes
 - Managed by kb-project-doc-sync.sh automation
