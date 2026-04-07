@@ -1,9 +1,9 @@
 # NUC1 Wrapper Recursion Fix
 > Category: troubleshooting
-> Sources: raw/research/2026-04-05-slimy-nuc1-wrapper-recursion-fix.md
+> Sources: raw/research/2026-04-05-slimy-nuc1-wrapper-recursion-fix.md, raw/agent-learnings/2026-04-05-slimy-nuc1-wrapper-test-claude.md
 > Created: 2026-04-05
-> Updated: 2026-04-05
-> Status: draft
+> Updated: 2026-04-07
+> Status: reviewed
 
 Fix for NUC1 wrapper recursion guard interference that caused finish-hook behavior drift and child-compile protection failures.
 
@@ -57,6 +57,31 @@ NUC1 now matches intended NUC2 behavior:
 - Normal user exits trigger finish automation
 - Child compile runs are protected from recursive finish execution
 - Codex wrapper still enforces `--yolo`
+
+## NUC1 Wrapper Dry-Run Validation
+
+After installing the wrappers (`~/.local/bin/claude`, `~/.local/bin/codex`), the following dry-run test was performed to verify correct behavior before first real session:
+
+**Test command:**
+```bash
+slimy-agent-finish.sh --agent claude --dry-run
+```
+
+**Dry-run output:**
+```
+[slimy-agent-finish] Starting finish automation...
+[slimy-agent-finish] Agent: claude | Host: slimy-nuc1 | Dry-run: --dry-run
+[slimy-agent-finish] Repos: none specified (will detect)
+[slimy-agent-finish] Detected recently changed repos under /home/slimy and /opt/slimy...
+```
+Detected commits from: mission-control, clawd, slimy-monorepo
+
+**Verification status:**
+- Dry-run: **PASS** — finish hook executes correctly with proper guards
+- Actual runtime test: pending — first real Claude session via wrapper on NUC1
+- NUC2 equivalent test: **PASS** — verified 2026-04-05, commits visible on GitHub (`9d14808`, `cbcd5e3`)
+
+**Wrapper installation:** Both wrappers installed 2026-04-05 during `kb-phase3-nuc1-adopt`. The Claude wrapper calls the real binary at `/home/slimy/.npm-global/bin/claude` and preserves exit codes with `set +e`.
 
 ## See Also
 - [KB Autofinish Autocompile Fix](kb-autofinish-autocompile-fix.md) — NUC2-side autofinish and compile write-through fix

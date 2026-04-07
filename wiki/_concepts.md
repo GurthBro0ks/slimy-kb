@@ -21,3 +21,6 @@
 - Regression-proof verification
 - Tunnel grant dependency
 - SlimyAI login/session flow
+- Non-interactive git environment
+- HTTPS GitHub remote guard
+- Repo remote SSH normalization

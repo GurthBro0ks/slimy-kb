@@ -1,6 +1,6 @@
 # SlimyAI Knowledge Base - Master Index
 > Auto-maintained by LLM agents. Do not edit manually.
-> Last compiled: 2026-04-05
+> Last compiled: 2026-04-07
 
 ## Categories
 ### Concepts
@@ -35,8 +35,10 @@
 - [Session Closeout Pattern](patterns/session-closeout-pattern.md) - Required end-of-session sequence and quality checks.
 
 ### Troubleshooting
-- [KB Autofinish Autocompile Fix](troubleshooting/kb-autofinish-autocompile-fix.md) - Fix for KB write-through where finish hook left raw files uncommitted and auto-compile only wrote prompt files without running.
+- [KB Autofinish Autocompile Fix](troubleshooting/kb-autofinish-autocompile-fix.md) - Fix for KB write-through where finish hook left raw files uncommitted, auto-compile only wrote prompt files, and git pager blocked wrapper-triggered automation.
+- [NUC1 Repo Remote SSH Normalization](troubleshooting/nuc1-repo-remote-ssh-normalization.md) - Normalized GitHub remotes to SSH on NUC1; all GurthBro0ks repos use SSH, third-party repos guarded, KB write-through completes regardless.
 - [NUC1 Wrapper Recursion Fix](troubleshooting/nuc1-wrapper-recursion-fix.md) - Fix for NUC1 wrapper recursion guard interference that caused finish-hook behavior drift and child-compile protection failures.
+- [NUC2 Repo Remote SSH Normalization](troubleshooting/nuc2-repo-remote-ssh-normalization.md) - Normalized GitHub remotes to SSH on NUC2; `agents-backup-full` converted from HTTPS, HTTPS repos guarded by `is_https_github_remote()`.
 - [Q1 2026 Operational Fixes](troubleshooting/q1-2026-operational-fixes.md) - Reusable failure signatures and proven fixes from recent operations.
 
 ### Architecture
