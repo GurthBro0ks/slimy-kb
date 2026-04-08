@@ -182,6 +182,8 @@ The following compile candidates have been reviewed and deferred (no wiki-worthy
 - `raw/agent-learnings/2026-04-05-slimy-nuc2-test-validation-summary.md`
 - `raw/agent-learnings/2026-04-05-slimy-nuc2-wrapper-final-test-claude.md`
 - `raw/agent-learnings/2026-04-05-slimy-nuc2-wrapper-final-test-codex.md`
+- `raw/agent-learnings/2026-04-08-slimy-nuc1-claude-summary.md` — no summary, no repos, no changes
+- `raw/agent-learnings/2026-04-08-slimy-nuc1-codex-summary.md` — no summary, no repos, no changes
 
 **Thin/placeholder files** — No operational content:
 - `raw/agent-learnings/2026-04-05-nuc2-wrapper-final-test-codex-repair.md` — wrapper test metadata only
