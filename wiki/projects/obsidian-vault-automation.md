@@ -2,8 +2,8 @@
 > Category: projects
 > Sources: raw/research/2026-04-05-obsidian-calendar-automation-options.md, raw/research/obsidian-projects-kb-workflow.md
 > Created: 2026-04-05
-> Updated: 2026-04-05
-> Status: draft
+> Updated: 2026-04-08
+> Status: reviewed
 
 Server-side automation scripts that maintain the Obsidian vault on NUC2, including daily notes, operator checklists, AI recommendations, and idea ingestion.
 
