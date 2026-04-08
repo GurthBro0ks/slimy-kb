@@ -6,7 +6,7 @@ type: agent-learning
 
 # claude Agent Session — 2026-04-08 slimy-nuc1
 
-> Agent: claude | Host: slimy-nuc1 | Timestamp: 20260408-113329
+> Agent: claude | Host: slimy-nuc1 | Timestamp: 20260408-165849
 
 ## Session Summary
 No summary provided.
@@ -28,7 +28,6 @@ No summary provided.
 - /home/slimy/.openclaw/workspace-researcher
 - /home/slimy/.codex/.tmp/plugins
 - /opt/slimy/slimy-monorepo
-- /opt/slimy/app
 - /opt/slimy/research/kalshi-ai-trading-bot
 - /opt/slimy/pm_updown_bot_bundle/proofs
 - /opt/slimy/pm_updown_bot_bundle
