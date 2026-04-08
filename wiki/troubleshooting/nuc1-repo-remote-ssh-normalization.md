@@ -2,7 +2,7 @@
 > Category: troubleshooting
 > Sources: raw/research/2026-04-05-slimy-nuc1-repo-remote-ssh-normalization.md
 > Created: 2026-04-07
-> Updated: 2026-04-07
+> Updated: 2026-04-08
 > Status: reviewed
 
 Normalized GitHub remotes to SSH on NUC1 to match the autofinish non-interactive policy already in place on NUC2. All GurthBro0ks-owned repos now use SSH; third-party and local-only repos are excluded with appropriate guards.

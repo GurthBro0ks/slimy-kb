@@ -1,6 +1,6 @@
 # SlimyAI Knowledge Base - Master Index
 > Auto-maintained by LLM agents. Do not edit manually.
-> Last compiled: 2026-04-07
+> Last compiled: 2026-04-08
 
 ## Categories
 ### Concepts
@@ -13,6 +13,7 @@
 - [Apify Market Scanner](projects/apify-market-scanner.md) - Apify-based market data scraping tool; runtime status UNKNOWN.
 - [Capture Dashboard](projects/capture-dashboard.md) - Operator intake surface with folder map, quick actions, and ingest-compile-sync checklist.
 - [Chriss Agent](projects/chriss-agent.md) - Webhook bridge service on NUC2 port 3850; running since Mar14.
+- [Clawd Agent Rules](projects/clawd-agent-rules.md) - SlimyAI workspace agent operating rules: session startup, memory tiers, safety, heartbeats, meta-learning loops.
 - [Clawd Workspace Governance](projects/clawd-workspace-governance.md) - Memory and session governance model for Clawd workspace operations.
 - [Mailbox NUC Comms](projects/mailbox-nuc-comms.md) - Git-based inter-NUC mailbox transport (NUC1 push / NUC2 ingest).
 - [Mission Control](projects/mission-control.md) - Task, comms, and automation coordination surface (NUC2 port 3838).
@@ -29,6 +30,7 @@
 - [Slimy KB](projects/slimy-kb.md) - SlimyAI knowledge base — git-based wiki with raw-to-compiled pipeline and CLI tools.
 - [Slimy Monorepo](projects/slimy-monorepo.md) - Core multi-app repo structure, workflow, and constraints (NUC2: web on port 3000).
 - [Slimy Web](projects/slimy-web.md) - Next.js web app capabilities, env wiring, and runtime expectations.
+- [Workspace Agent Rules](projects/workspace-agent-rules.md) - OpenCLAW workspace agent operating rules: session startup, SLB-required actions, heartbeat vs cron, meta-learning loops.
 
 ### Patterns
 - [Memory Capture Pattern](patterns/memory-capture-pattern.md) - Daily log plus curated-memory method for durable learning.
@@ -46,5 +48,6 @@
 - [Cross-NUC Communication Matrix](architecture/cross-nuc-communication-matrix.md) - Channel-by-channel map of NUC1/NUC2 transport, auth, ownership, and failures.
 - [Harness Runtime Topology](architecture/harness-runtime-topology.md) - Placement and supervisor ownership of harness, mailbox, and runtime control components.
 - [Knowledge Base Build Pipeline](architecture/knowledge-base-build-pipeline.md) - Canonical raw-to-wiki, query/file-back, index maintenance, and cross-NUC sync lifecycle.
+- [NUC2 Server State](architecture/nuc2-server-state.md) - Canonical server state for slimy-nuc2: machine, repos, PM2, MySQL.
 - [NUC Topology and Services](architecture/nuc-topology-and-services.md) - NUC1/NUC2 service placement and operational boundaries.
 - [SlimyAI Login and Session Flow](architecture/slimyai-login-and-session-flow.md) - Canonical credential login, session lifecycle, invite gating, and recovery/lockout behavior.
