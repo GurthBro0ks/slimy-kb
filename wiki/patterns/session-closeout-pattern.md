@@ -61,12 +61,9 @@ New friction between instructions gets logged, not silently overridden. Surface 
 - Confirm unresolved blockers are explicitly recorded.
 - Confirm no unrelated services were modified.
 
-CONFLICT TEST NUC2 $(date)
-
 ## See Also
 - [Agent Session Contract](../concepts/agent-session-contract.md)
 - [Source of Truth Ledgers](../concepts/source-of-truth-ledgers.md)
 - [Truth Gate](../concepts/truth-gate.md)
 - [Clawd Agent Rules](../projects/clawd-agent-rules.md)
 - [Workspace Agent Rules](../projects/workspace-agent-rules.md)
-CONFLICT TEST NUC1
