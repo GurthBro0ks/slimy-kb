@@ -69,3 +69,4 @@ CONFLICT TEST NUC2 $(date)
 - [Truth Gate](../concepts/truth-gate.md)
 - [Clawd Agent Rules](../projects/clawd-agent-rules.md)
 - [Workspace Agent Rules](../projects/workspace-agent-rules.md)
+CONFLICT TEST NUC1
