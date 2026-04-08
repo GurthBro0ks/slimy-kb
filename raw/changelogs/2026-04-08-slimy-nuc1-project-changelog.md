@@ -6,29 +6,29 @@ type: changelog
 
 # Changelog — 2026-04-08 slimy-nuc1
 
-> Agent: claude | Host: slimy-nuc1
+> Agent: codex | Host: slimy-nuc1
 
 ## Repos Updated
-- `/home/slimy/src/plugins/Slimefun4` → `a56d330bd` (HEAD) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/home/slimy/src/plugins/PrivateStorage` → `f32c13a` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/home/slimy/src/plugins/DynaTech` → `9c35147` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/home/slimy/mission-control` → `855a883` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/src/plugins/Slimefun4` → `eeba6088d` (HEAD) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/src/plugins/PrivateStorage` → `3832b29` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/src/plugins/DynaTech` → `6977fa2` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/mission-control` → `5f00456` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
 - `/home/slimy/ned-autonomous` → `fb5ff79` (main) — chore: auto-sync 2026-04-07
-- `/home/slimy/stoat-source` → `749d970` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/home/slimy/nuc-comms/mailbox_outbox` → `a1204be` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/home/slimy/slimy-chat` → `a4b5d50` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/home/slimy/clawd` → `8cb199c` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/home/slimy/ned-clawd/actionbook` → `4c58733` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/home/slimy/ned-clawd` → `8ceb42d` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/home/slimy/.qoder-server/slimy-monorepo` → `097b188` (HEAD) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/home/slimy/.openclaw/workspace-executor` → `58b4b10` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/home/slimy/.openclaw/workspace-researcher` → `3ab0cef` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/home/slimy/.codex/.tmp/plugins` → `8d9d4ea` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/opt/slimy/slimy-monorepo` → `861ab85` (main) — feat(bot): retire /farm commands, clean Google Sheets footer remnants
-- `/opt/slimy/research/kalshi-ai-trading-bot` → `d756613` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/opt/slimy/pm_updown_bot_bundle/proofs` → `253f43e` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/opt/slimy/pm_updown_bot_bundle` → `a225456` (feat/ibkr-forecast-integration) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
-- `/opt/slimy/apify-market-scanner` → `b3e32fc` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/stoat-source` → `ddcd627` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/nuc-comms/mailbox_outbox` → `6a886bc` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/slimy-chat` → `9a6eda9` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/clawd` → `7af329c` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/ned-clawd/actionbook` → `be5d237` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/ned-clawd` → `6ff91cf` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/.qoder-server/slimy-monorepo` → `f3a097b` (HEAD) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/.openclaw/workspace-executor` → `c149331` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/.openclaw/workspace-researcher` → `6cd7124` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/home/slimy/.codex/.tmp/plugins` → `aa4c306` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/opt/slimy/slimy-monorepo` → `a1e1577` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/opt/slimy/research/kalshi-ai-trading-bot` → `d319546` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/opt/slimy/pm_updown_bot_bundle/proofs` → `da46fdd` (main) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/opt/slimy/pm_updown_bot_bundle` → `61d3f97` (feat/ibkr-forecast-integration) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
+- `/opt/slimy/apify-market-scanner` → `941774b` (master) — docs: auto-sync project docs from slimy-nuc1 2026-04-08
 
 ## Agent Summary
 —
