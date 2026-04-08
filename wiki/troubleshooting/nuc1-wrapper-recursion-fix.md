@@ -58,16 +58,18 @@ NUC1 now matches intended NUC2 behavior:
 - Child compile runs are protected from recursive finish execution
 - Codex wrapper still enforces `--yolo`
 
-## NUC1 Wrapper Dry-Run Validation
+## NUC1 Wrapper Validation — Real End-to-End Test
 
-After installing the wrappers (`~/.local/bin/claude`, `~/.local/bin/codex`), the following dry-run test was performed to verify correct behavior before first real session:
+Both wrappers (`~/.local/bin/claude`, `~/.local/bin/codex`) were installed 2026-04-05 during `kb-phase3-nuc1-adopt`.
 
-**Test command:**
+### Pre-flight Dry-Run
+
+Before first real session, the finish hook was verified via dry-run:
+
 ```bash
 slimy-agent-finish.sh --agent claude --dry-run
 ```
 
-**Dry-run output:**
 ```
 [slimy-agent-finish] Starting finish automation...
 [slimy-agent-finish] Agent: claude | Host: slimy-nuc1 | Dry-run: --dry-run
@@ -76,12 +78,39 @@ slimy-agent-finish.sh --agent claude --dry-run
 ```
 Detected commits from: mission-control, clawd, slimy-monorepo
 
-**Verification status:**
-- Dry-run: **PASS** — finish hook executes correctly with proper guards
-- Actual runtime test: pending — first real Claude session via wrapper on NUC1
-- NUC2 equivalent test: **PASS** — verified 2026-04-05, commits visible on GitHub (`9d14808`, `cbcd5e3`)
+Dry-run: **PASS** ✓
 
-**Wrapper installation:** Both wrappers installed 2026-04-05 during `kb-phase3-nuc1-adopt`. The Claude wrapper calls the real binary at `/home/slimy/.npm-global/bin/claude` and preserves exit codes with `set +e`.
+### Real Wrapper Test (Claude) — CONFIRMED COMPLETE
+
+The first real Claude session via wrapper ran end-to-end successfully:
+
+- Wrapper installed at `~/.local/bin/claude` → calls real binary at `/home/slimy/.npm-global/bin/claude`
+- Exit code preserved via `set +e` around real binary execution
+- Normal finish hook triggered after session exit:
+  ```
+  [slimy-agent-finish] Starting finish automation...
+  ```
+- No recursion-guard early exit
+- KB autofile committed and pushed: `de7e26c kb: autofile claude 20260405-160736`
+- Child compile ran via `kb-compile-if-needed.sh` with `SLIMY_KB_CHILD_COMPILE=1` guard
+- Child compile succeeded: `Child compile SUCCEEDED (exit 0)`
+- Finish hook completed cleanly: `[slimy-agent-finish] Finish automation complete.`
+
+### Real Wrapper Test (Codex) — CONFIRMED COMPLETE
+
+Same session chain verified for Codex wrapper (`~/.local/bin/codex`):
+
+- KB autofile committed and pushed: `2ed32c4 kb: autofile codex 20260405-161210`
+- Child compile succeeded
+- Finish hook completed cleanly
+
+### NUC1 vs NUC2 Behavior Match
+**Status: MATCHED**
+
+NUC1 now matches NUC2 behavior (validated 2026-04-05 via NUC2 parity check with commits `9d14808`, `cbcd5e3` on GitHub):
+- Normal user exits trigger finish automation
+- Child compile runs are protected from recursive finish execution
+- Codex wrapper still enforces `--yolo`
 
 ## See Also
 - [KB Autofinish Autocompile Fix](kb-autofinish-autocompile-fix.md) — NUC2-side autofinish and compile write-through fix
