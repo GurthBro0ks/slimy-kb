@@ -6,7 +6,7 @@ type: agent-learning
 
 # claude Agent Session — 2026-04-09 slimy-nuc1
 
-> Agent: claude | Host: slimy-nuc1 | Timestamp: 20260409-112502
+> Agent: claude | Host: slimy-nuc1 | Timestamp: 20260409-141341
 
 ## Session Summary
 No summary provided.
@@ -16,6 +16,7 @@ No summary provided.
 - /home/slimy/src/plugins/PrivateStorage
 - /home/slimy/src/plugins/DynaTech
 - /home/slimy/mission-control
+- /home/slimy/slimy-harness
 - /home/slimy/ned-autonomous
 - /home/slimy/stoat-source
 - /home/slimy/nuc-comms/mailbox_outbox
