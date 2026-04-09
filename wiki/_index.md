@@ -1,6 +1,6 @@
 # SlimyAI Knowledge Base - Master Index
 > Auto-maintained by LLM agents. Do not edit manually.
-> Last compiled: 2026-04-09 (child-compile 20260409-143310 — compiled slimyai-setup.md NUC2 state update (reviewed); all other candidates deferred as previously documented)
+> Last compiled: 2026-04-09 (child-compile 20260409-155552 — all batch files already compiled: seed-clawd-agents→clawd-agent-rules, seed-workspace-agents→workspace-agent-rules, kb-autofinish-autocompile-fix, nuc1/nuc2-wrapper-recursion-fix, nuc1/nuc2-repo-remote-ssh-norm, nuc2-server-state; status: reviewed)
 
 ## Categories
 ### Concepts
