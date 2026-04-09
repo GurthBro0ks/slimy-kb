@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# wiki_manager_stage1.sh — Stage 1.85 wiki manager runner
+# wiki_manager_stage1.sh — Stage 1.86 wiki manager runner
 # Pulls, digests, generates todo queue, logs, commits.
 set -uo pipefail
 

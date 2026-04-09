@@ -25,3 +25,8 @@
 - HTTPS GitHub remote guard
 - Repo remote SSH normalization
 - Child compile
+- Candidate promotion
+- Freshness-weighted promotion
+- Cooling down
+- Evidence window
+- Machine-managed wiki pages

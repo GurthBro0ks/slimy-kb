@@ -95,7 +95,9 @@ It executes `wiki_manager_stage1.sh` which:
 12. Appends a wiki-manager entry to `wiki/log.md`
 13. Commits and pushes if KB changed
 
-**Stage 1.86 does NOT dispatch harness jobs.** Todo queue entries are advisory only.
+**Stage 1.86 does NOT dispatch harness jobs.** Todo queue entries are advisory only. See [wiki-manager-operator-runbook.md](wiki/wiki-manager-operator-runbook.md) for the full operator guide.
+
+**NUC1 digest publisher:** On NUC1, `nuc1-kb-digest.timer` publishes repo state digests into NUC2's `raw/inbox-nuc1/` every 12h (fail-soft on NUC2 side).
 
 ### Stable State Pages
 
@@ -191,7 +193,7 @@ Task identity is stable based on: `source_host + project + kind + normalized_tit
 - `repo_drift` — repo state issues (dirty, diverged from remote)
 - `doc_drift` — docs/runtime mismatch
 - `investigate` — items needing manual review
-- `harness_candidate` — future dispatch candidates (not dispatched in Stage 1.8)
+- `harness_candidate` — future dispatch candidates (not dispatched in Stage 1.86)
 
 ### Severity Heuristics
 
@@ -202,7 +204,7 @@ Task identity is stable based on: `source_host + project + kind + normalized_tit
 
 ### NUC1 Intake (Actively Consumed)
 
-NUC1 digests land in `raw/inbox-nuc1/`. Stage 1.8 parses both formats:
+NUC1 digests land in `raw/inbox-nuc1/`. Stage 1.86 parses both formats:
 - Markdown with `> Type: digest|report|note|inventory` header
 - JSON with `repos[]` array (per-repo: name, dirty, ahead_behind, etc.)
 

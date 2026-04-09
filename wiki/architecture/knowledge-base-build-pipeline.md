@@ -2,7 +2,7 @@
 > Category: architecture
 > Sources: /home/slimy/kb/KB_AGENTS.md, /home/slimy/kb/tools/kb-sync.sh, /home/slimy/kb/tools/kb-search.sh, /home/slimy/kb/tools/kb-write.sh, /home/slimy/kb/wiki/_index.md, /home/slimy/kb/wiki/_concepts.md, /home/slimy/kb/output/query-20260404-134246.md, /home/slimy/kb/wiki/architecture/harness-runtime-topology.md, /home/slimy/kb/wiki/patterns/memory-capture-pattern.md, /home/slimy/kb/raw/research/obsidian-projects-kb-workflow.md, /home/slimy/kb/raw/research/2026-04-05-obsidian-calendar-automation-options.md
 > Created: 2026-04-04
-> Updated: 2026-04-08
+> Updated: 2026-04-09
 > Status: draft
 
 This article defines the end-to-end workflow for how SlimyAI knowledge is captured, compiled, queried, and synchronized across NUC1/NUC2.
@@ -45,7 +45,7 @@ After any wiki change:
 - `_concepts.md` must list concepts without duplicates.
 - `_stale.md` should track pages older than 30 days with no update.
 
-Current state is manually maintained; there is no automatic compiler or stale-rotation daemon.
+**Automated maintenance:** `kb-maintenance.timer` (every 12h) runs lint and logs to `wiki/log.md`. `wiki-manager-stage1.timer` (every 12h) maintains stable state pages, candidate promotion, and project health indexes. Both are systemd user timers on NUC2.
 
 ## Query and File-Back Loop
 Read loop:
@@ -89,9 +89,10 @@ Observed failure signature in current environment:
 Manual:
 - Categorizing raw files.
 - Writing/updating wiki articles.
-- Rebuilding `_index.md`, `_concepts.md`, `_stale.md`.
+- Rebuilding `_index.md`, `_concepts.md`, `_stale.md` (auto-updated on compile but humans can refresh).
 - Deciding what query outputs should be promoted back into wiki.
 - Resolving merge/rebase issues when sync warnings occur.
+- Dispatching harness jobs (advisory only from wiki-manager; humans invoke harness).
 
 Automatic (scripted helpers only):
 - Full-text wiki search (`kb-search.sh`).
@@ -106,9 +107,13 @@ Automatic (scripted helpers only):
 - Operator recommendation generation (`kb-recommend.sh`).
 - Daily operator todo checklist (`kb-todo.sh`).
 - Compile-needed checker (`kb-compile-if-needed.sh`).
+- KB maintenance (`kb-maintenance.timer` + `kb-maintenance.sh`, every 12h): lint, log.
+- Wiki manager stage 1.86 (`wiki-manager-stage1.timer` + `wiki_manager_stage1.sh`, every 12h): digest collection, todo queue, candidate promotion, stable wiki pages.
 
 ## See Also
 - [Harness Runtime Topology](harness-runtime-topology.md)
 - [Cross-NUC Communication Matrix](cross-nuc-communication-matrix.md)
 - [Memory Capture Pattern](../patterns/memory-capture-pattern.md)
 - [Source of Truth Ledgers](../concepts/source-of-truth-ledgers.md)
+- [Wiki Manager Operator Runbook](../wiki-manager-operator-runbook.md)
+- [_candidate-promotion-rules.md](../wiki/_candidate-promotion-rules.md)
