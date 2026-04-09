@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # kb-lint.sh — Knowledge Base lint checker
 # Scans KB and vault for structural issues and generates a lint report.
+# Also generates _orphans.md and _weak-links.md in the wiki root.
 set -euo pipefail
 
 KB_ROOT="/home/slimy/kb"
@@ -29,9 +30,6 @@ conflict_age_days() {
 }
 
 conflict_device() {
-    # Obsidian conflict files embed the remote device hostname/timestamp in parens.
-    # e.g.  "filename (2026-04-05 10-30-22).md"  — timestamp from remote device
-    # e.g.  "filename conflict abc123.md"         — git-style conflict marker
     local file="$1"
     local base
     base=$(basename "$file")
@@ -95,6 +93,179 @@ run_conflicts_check() {
     } >> "$REPORT_PATH"
 }
 
+# ── LINK ANALYSIS ─────────────────────────────────────────────────────────────
+
+# Build a map: TARGET_FILE → list of SOURCE_FILES that link to it
+build_link_map() {
+    local wiki_dir="$1"
+    # Associative array: target_rel_path → count of inbound links
+    # We use awk to parse markdown links: [text](path) where path ends in .md
+    #
+    # Strategy: for each wiki .md file, extract all [text](target.md) links
+    # and record that target as being linked-to by this source file.
+
+    # Get all wiki markdown files (non-index)
+    local -a wiki_files
+    mapfile -t wiki_files < <(find "$wiki_dir" -type f -name '*.md' ! -name '_*.md' 2>/dev/null)
+
+    local src_file target rel_target
+    for src_file in "${wiki_files[@]}"; do
+        # Extract all .md links from this file
+        grep -ohE '\[([^]]+)\]\(([^)]+\.md)\)' "$src_file" 2>/dev/null | while read -r match; do
+            # Parse [text](path.md)
+            target=$(echo "$match" | sed -E 's/\[([^]]+)\]\(([^)]+)\)/\2/')
+            # Make target relative to wiki root
+            if [[ "$target" == /* ]]; then
+                rel_target="${target#$wiki_dir/}"
+            elif [[ "$target" != /* ]]; then
+                # relative link — resolve from src_file's directory
+                rel_target=$(realpath --relative-to="$wiki_dir" "$(dirname "$src_file")/$target" 2>/dev/null || echo "$target")
+            fi
+            # Normalize: remove leading ./
+            rel_target=${rel_target#./}
+            # Store in temp file for processing
+            [[ -n "$rel_target" ]] && echo "$rel_target"
+        done
+    done | sort | uniq -c | sort -rn
+}
+
+# Find orphaned pages (no inbound links from other non-index wiki pages)
+run_link_analysis() {
+    local orphans_file="$KB_WIKI/_orphans.md"
+    local weaklinks_file="$KB_WIKI/_weak-links.md"
+
+    echo "[kb-lint] Running link analysis..."
+
+    # Get all non-index wiki pages
+    local all_pages_str
+    all_pages_str=$(find "$KB_WIKI" -type f -name '*.md' ! -name '_*.md' 2>/dev/null | sort)
+    local -a all_pages=()
+    while IFS= read -r p; do [[ -n "$p" ]] && all_pages+=("$p"); done <<< "$all_pages_str"
+
+    # Associative array for inbound link counts
+    local -A inbound_count
+    local page rel_path
+
+    # Initialize all pages with 0 inbound links
+    for page in "${all_pages[@]}"; do
+        rel_path=${page#$KB_WIKI/}
+        inbound_count[$rel_path]=0
+    done
+
+    # For each page, find all .md links it contains (outbound) and increment target's inbound count
+    # Use temp file to avoid subshell array capture issue
+    local link_temp
+    link_temp=$(mktemp)
+    > "$link_temp"
+    for page in "${all_pages[@]}"; do
+        local src_dir
+        src_dir=$(dirname "$page")
+
+        # Extract all markdown links to other .md files (suppress errors for missing files)
+        # Use .+? non-greedy to avoid backtracking that corrupts links with many ] chars
+        local match target resolved
+        while IFS= read -r match; do
+            target=$(echo "$match" | sed -E 's/\[.+?\]\(([^)]+)\)/\1/')
+
+            # Resolve relative links
+            if [[ "$target" == /* ]]; then
+                # Absolute path within wiki
+                target="${target#$KB_WIKI}"
+                target=${target#/}
+            else
+                # Relative link
+                resolved=$(realpath --relative-to="$KB_WIKI" "$src_dir/$target" 2>/dev/null || echo "$target")
+                target=${resolved#./}
+            fi
+
+            [[ -n "$target" ]] && echo "$target" >> "$link_temp"
+        done < <(grep -ohE '\[.+?\]\([^)]+\.md\)' "$page" 2>/dev/null || true)
+    done
+
+    # Now process the collected links to update inbound counts
+    while IFS= read -r target; do
+        [[ -n "${inbound_count[$target]:-}" ]] && inbound_count[$target]=$((inbound_count[$target] + 1))
+    done < "$link_temp"
+
+    rm -f "$link_temp"
+
+    # Categorize pages
+    local -a orphan_pages=()
+    local -a weak_pages=()
+    local -a normal_pages=()
+
+    for page in "${all_pages[@]}"; do
+        rel_path=${page#$KB_WIKI/}
+        local count
+        count=${inbound_count[$rel_path]:-0}
+        if [[ "$count" -eq 0 ]]; then
+            orphan_pages+=("$rel_path")
+        elif [[ "$count" -le 1 ]]; then
+            weak_pages+=("$rel_path (${count} inbound link)")
+        else
+            normal_pages+=("$rel_path")
+        fi
+    done
+
+    # Write _orphans.md
+    {
+        echo "# Orphaned Pages"
+        echo ""
+        echo "> Pages with zero inbound links from other non-index wiki pages."
+        echo "> Generated: $RUN_TS by kb-lint.sh"
+        echo ""
+        echo "**Total orphans: ${#orphan_pages[@]}**"
+        echo ""
+        if [[ ${#orphan_pages[@]} -eq 0 ]]; then
+            echo "- No orphaned pages found."
+        else
+            echo "## Likely Parent Pages"
+            echo ""
+            for orphan in "${orphan_pages[@]}"; do
+                echo "- \`$orphan\`"
+            done
+        fi
+        echo ""
+        echo "## All Orphaned Pages"
+        if [[ ${#orphan_pages[@]} -eq 0 ]]; then
+            echo "- (none)"
+        else
+            for orphan in "${orphan_pages[@]}"; do
+                echo "- \`$orphan\`"
+            done
+        fi
+    } > "$orphans_file"
+
+    # Write _weak-links.md
+    {
+        echo "# Low-Connectivity Pages"
+        echo ""
+        echo "> Pages with only 1 inbound link (weak connectivity). These may need more cross-linking."
+        echo "> Generated: $RUN_TS by kb-lint.sh"
+        echo ""
+        echo "**Total weak links: ${#weak_pages[@]}**"
+        echo ""
+        if [[ ${#weak_pages[@]} -eq 0 ]]; then
+            echo "- No weak links found."
+        else
+            for wp in "${weak_pages[@]}"; do
+                echo "- \`$wp\`"
+            done
+        fi
+        echo ""
+        echo "## Connectivity Summary"
+        echo ""
+        echo "| Connectivity | Count |"
+        echo "|--------------|-------|"
+        echo "| 0 inbound (orphan) | ${#orphan_pages[@]} |"
+        echo "| 1 inbound (weak) | ${#weak_pages[@]} |"
+        echo "| 2+ inbound (normal) | ${#normal_pages[@]} |"
+    } > "$weaklinks_file"
+
+    echo "[kb-lint] Link analysis complete: ${#orphan_pages[@]} orphans, ${#weak_pages[@]} weak links"
+    echo "[kb-lint] Wrote $orphans_file and $weaklinks_file"
+}
+
 # ── REPORT header ─────────────────────────────────────────────────────────────
 
 mkdir -p "$(dirname "$REPORT_PATH")"
@@ -110,5 +281,6 @@ mkdir -p "$(dirname "$REPORT_PATH")"
 } > "$REPORT_PATH"
 
 run_conflicts_check
+run_link_analysis
 
 echo "[kb-lint] Report written to $REPORT_PATH"
