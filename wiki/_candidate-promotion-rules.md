@@ -1,14 +1,16 @@
 # Harness Candidate Promotion Rules
 
 > Category: concepts
-> Updated: 2026-04-09T19:37:03Z
+> Updated: 2026-04-09T20:15:27Z
 > Status: active
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Overview
 
-Stage 1.85 introduces stricter promotion criteria to end over-promotion. Tasks must now demonstrate **both persistence AND quality signals** before becoming a harness candidate. Tasks can also move downward (demotion) as well as upward.
+Stage 1.86 adds **freshness-weighted promotion** to Stage 1.85's stricter criteria.
+Recent evidence matters more than lifetime occurrence count.
+Tasks can also enter `cooling_down` when recent evidence weakens.
 
 ## Promotion Statuses
 
@@ -17,8 +19,18 @@ Stage 1.85 introduces stricter promotion criteria to end over-promotion. Tasks m
 | `not_candidate` | Default — tracked but does not yet qualify |
 | `emerging` | Has some signals but not all criteria met |
 | `candidate` | Meets all criteria — ready for harness dispatch consideration |
-| `cooling_down` | Was candidate but evidence has weakened |
+| `cooling_down` | Was candidate/emerging but recent evidence has weakened |
 | `resolved` | No longer present in current queue |
+
+## Freshness Bands
+
+| Band | Meaning | Evidence Age |
+|------|---------|--------------|
+| `fresh` | Evidence seen or file modified < 24h ago | < 24h |
+| `aging` | Evidence 1-3 days old | 24h–72h |
+| `stale` | Evidence older than 3 days | >= 72h |
+
+Evidence age is measured by file modification time of the primary evidence path.
 
 ## State Transitions
 
@@ -28,60 +40,56 @@ not_candidate → emerging → candidate → cooling_down → resolved
      └─────────────┴───────────┴────────────┘  (demotion paths)
 ```
 
-A task can be demoted if its evidence degrades (e.g., occurrence_count drops below threshold,
-evidence path becomes stale, severity drops).
-
-## Bounded Promotion Criteria (Stage 1.85 — Stricter)
+## Freshness-Weighted Promotion Criteria (Stage 1.86)
 
 A task is promoted to `candidate` when **ALL** of the following are true:
 
-### 1. Hard Persistence Floor
-- `occurrence_count >= 5` (with cross-NUC bonus of +2 applied: so 3 base occurrences + 2 cross-NUC bonus = 5)
-- OR `occurrence_count >= 5` without bonus for local NUC2 tasks
-- Tasks at exactly 3-4 occurrences (or 3+2=5 with bonus) land in `emerging`
+### 1. Recent Occurrence Score
+- Must have `recent_occurrence_count >= 3` within the last 5 runs
+- Lifetime `occurrence_count` is tracked for audit only — it does NOT force candidate status
 
-### 2. Evidence Quality
-- Task must have at least one `evidence_path` pointing to a **real existing file or directory**
-- Evidence paths are verified at promotion time
+### 2. Evidence Quality + Recency
+- Task must have at least one **real existing** `evidence_path`
+- Evidence file must have been modified within `72h` (not stale)
+- OR task must have `freshness_band = "fresh"` or `"aging"` AND evidence is real
 
 ### 3. Severity Floor
 - Severity must be `medium` or `high`
-- Tasks with `low` severity can only reach `emerging` at best
 
 ### 4. No Hard Dispatch Blocker
 - `dispatch_blocker` must be empty OR only `"advisory_only"`
-- Any other blocker (e.g., `needs_review`, `cross_nuc_coordination`) prevents promotion
 
 ### 5. Kind Allowlist
 - Only `repo_drift`, `wiki_gap`, `doc_drift` are eligible
-- `investigate` and `harness_candidate` kinds are permanently excluded
 
-## Promotion Reasons
+## Emerging
 
-- `cross_nuc_conflict` — cross-NUC evidence, persistent (>=5 eff. occurrences)
-- `persistent_drift` — repo drift with high severity, >=5 occurrences
-- `repeated_gap` — wiki gap persisting >=5 times with medium+ severity
+`emerging` when:
+- `recent_occurrence_count >= 2` AND < `3`
+- Evidence is real and freshness_band is `fresh` or `aging`
+- Severity is `medium` or `high`
 
-## Demotion Signals
+OR:
+- Has real evidence, but `freshness_band = "stale"` with some recency signal
 
-A task is demoted when:
-- `occurrence_count` drops (if previously candidate but now resolved)
-- Evidence path becomes stale or unavailable
-- Severity drops below `medium`
-- A hard dispatch blocker is added
+## Cooling Down
 
-## Dispatch Blockers
+`cooling_down` when:
+- Was previously `candidate` or `emerging`
+- But `freshness_band = "stale"` OR evidence no longer exists
+- Recent evidence has weakened even if lifetime count is high
 
-| Blocker | Blocks promotion? | Auto-clear? |
-|--------|------------------|-------------|
-| _(empty)_ | No | N/A |
-| `advisory_only` | No (stage gate only) | Yes — cleared in Stage 2 |
-| `needs_review` | Yes | No — manual clear |
-| `cross_nuc_coordination` | Yes | No — manual clear |
+## Not Candidate
 
-## Stage 1.85 Boundary
+`not_candidate` when:
+- No real evidence path
+- Evidence is stale AND no recent occurrences
+- Kind is excluded
+- Hard dispatch blocker present
 
-Stage 1.85 does NOT dispatch harness jobs. Candidate status is advisory only, dispatch blocked by `advisory_only`.
+## Stage 1.86 Boundary
+
+Stage 1.86 does NOT dispatch harness jobs. Candidate status is advisory only.
 
 <!-- END MACHINE MANAGED -->
 

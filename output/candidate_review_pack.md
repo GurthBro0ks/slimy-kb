@@ -1,7 +1,7 @@
-# Candidate Review Pack — 2026-04-09T19:37:03Z
+# Candidate Review Pack — 2026-04-09T20:15:27Z
 
-> Stage: 1.85
-> Generated: 2026-04-09T19:37:03Z
+> Stage: 1.86
+> Generated: 2026-04-09T20:15:27Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
@@ -10,13 +10,19 @@
 
 - **Candidates:** 12
 - **Emerging:** 0
+- **Cooling down:** 0
 - **Not candidate:** 0
 - **Total in queue:** 12
 
+## Freshness Bands
+- **fresh** (< 24h): 11
+- **aging** (24-72h): 1
+- **stale** (> 72h): 0
+
 ## Candidates — Ready for Harness Dispatch Review
 
-These tasks meet all Stage 1.85 promotion criteria. They are the most
-urgent but still require human confirmation before actual dispatch.
+These tasks meet all Stage 1.86 promotion criteria:
+recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 ### [todo-2026-04-09-001] NUC1 repo has uncommitted changes: kb
 
@@ -24,14 +30,12 @@ urgent but still require human confirmation before actual dispatch.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (repo_drift) |
-| Persistence | 18x |
-| Promotion reason | cross_nuc_conflict |
+| Persistence | 3x recent / 21x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
-| Suggested prompt mode | manual |
 | Dispatch blocker | advisory_only |
-| Actionability | review_required |
+| Actionability | actionable |
 | Source | nuc1 (cross_nuc) |
-| Notes | Dirty repo detected via NUC1 digest. |
 
 **Why it matters:** Repo 'kb' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
 
@@ -43,15 +47,13 @@ urgent but still require human confirmation before actual dispatch.
 |-------|-------|
 | Project | ned-autonomous |
 | Severity | HIGH (repo_drift) |
-| Persistence | 18x |
-| Promotion reason | cross_nuc_conflict |
+| Persistence | 3x recent / 21x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
-| Suggested prompt mode | manual |
 | Dispatch blocker | advisory_only |
-| Actionability | review_required |
+| Actionability | actionable |
 | Source | nuc1 (cross_nuc) |
 | Related wiki page | ned-autonomous.md |
-| Notes | Dirty repo detected via NUC1 digest. |
 
 **Why it matters:** Repo 'ned-autonomous' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
 
@@ -63,14 +65,12 @@ urgent but still require human confirmation before actual dispatch.
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 18x |
-| Promotion reason | cross_nuc_conflict |
+| Persistence | 3x recent / 21x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
-| Suggested prompt mode | manual |
 | Dispatch blocker | advisory_only |
-| Actionability | review_required |
+| Actionability | actionable |
 | Source | nuc1 (cross_nuc) |
-| Notes | Diverged repo detected via NUC1 digest. |
 
 **Why it matters:** Repo 'Slimefun4' on NUC1 is both ahead and behind remote — unmerged commits present.
 
@@ -82,15 +82,13 @@ urgent but still require human confirmation before actual dispatch.
 |-------|-------|
 | Project | clawd |
 | Severity | HIGH (repo_drift) |
-| Persistence | 18x |
-| Promotion reason | cross_nuc_conflict |
+| Persistence | 3x recent / 21x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
-| Suggested prompt mode | manual |
 | Dispatch blocker | advisory_only |
-| Actionability | review_required |
+| Actionability | actionable |
 | Source | nuc1 (cross_nuc) |
 | Related wiki page | clawd-agent-rules.md |
-| Notes | Diverged repo detected via NUC1 digest. |
 
 **Why it matters:** Repo 'clawd' on NUC1 is both ahead and behind remote — unmerged commits present.
 
@@ -102,15 +100,13 @@ urgent but still require human confirmation before actual dispatch.
 |-------|-------|
 | Project | slimy-monorepo |
 | Severity | HIGH (repo_drift) |
-| Persistence | 18x |
-| Promotion reason | cross_nuc_conflict |
+| Persistence | 3x recent / 21x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
-| Suggested prompt mode | manual |
 | Dispatch blocker | advisory_only |
-| Actionability | review_required |
+| Actionability | actionable |
 | Source | nuc1 (cross_nuc) |
 | Related wiki page | slimy-monorepo.md |
-| Notes | Diverged repo detected via NUC1 digest. |
 
 **Why it matters:** Repo 'slimy-monorepo' on NUC1 is both ahead and behind remote — unmerged commits present.
 
@@ -122,12 +118,11 @@ urgent but still require human confirmation before actual dispatch.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 18x |
-| Promotion reason | repeated_gap |
+| Persistence | 3x recent / 21x lifetime |
+| Freshness | fresh |
 | Evidence | wiki/_orphans.md |
-| Suggested prompt mode | plan-build-qa |
 | Dispatch blocker | advisory_only |
-| Actionability | review_required |
+| Actionability | actionable |
 | Source | slimy-nuc2 (nuc2) |
 
 **Why it matters:** Orphaned pages have 0 inbound links and are effectively hidden from navigation.
@@ -140,12 +135,11 @@ urgent but still require human confirmation before actual dispatch.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 18x |
-| Promotion reason | repeated_gap |
+| Persistence | 3x recent / 21x lifetime |
+| Freshness | aging |
 | Evidence | wiki/architecture/nuc2-server-state.md |
-| Suggested prompt mode | manual |
 | Dispatch blocker | advisory_only |
-| Actionability | review_required |
+| Actionability | actionable |
 | Source | slimy-nuc2 (nuc2) |
 
 **Why it matters:** Page 'architecture/nuc2-server-state.md' has no inbound links.
@@ -158,12 +152,11 @@ urgent but still require human confirmation before actual dispatch.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 18x |
-| Promotion reason | repeated_gap |
+| Persistence | 3x recent / 21x lifetime |
+| Freshness | fresh |
 | Evidence | wiki/log.md |
-| Suggested prompt mode | manual |
 | Dispatch blocker | advisory_only |
-| Actionability | review_required |
+| Actionability | actionable |
 | Source | slimy-nuc2 (nuc2) |
 
 **Why it matters:** Page 'log.md' has no inbound links.
@@ -176,12 +169,11 @@ urgent but still require human confirmation before actual dispatch.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 18x |
-| Promotion reason | repeated_gap |
+| Persistence | 3x recent / 21x lifetime |
+| Freshness | fresh |
 | Evidence | wiki/projects/actionbook.md |
-| Suggested prompt mode | manual |
 | Dispatch blocker | advisory_only |
-| Actionability | review_required |
+| Actionability | actionable |
 | Source | slimy-nuc2 (nuc2) |
 
 **Why it matters:** Page 'projects/actionbook.md' has no inbound links.
@@ -194,12 +186,11 @@ urgent but still require human confirmation before actual dispatch.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 18x |
-| Promotion reason | repeated_gap |
+| Persistence | 3x recent / 21x lifetime |
+| Freshness | fresh |
 | Evidence | wiki/projects/agents-backup-full.md |
-| Suggested prompt mode | manual |
 | Dispatch blocker | advisory_only |
-| Actionability | review_required |
+| Actionability | actionable |
 | Source | slimy-nuc2 (nuc2) |
 
 **Why it matters:** Page 'projects/agents-backup-full.md' has no inbound links.
@@ -212,12 +203,11 @@ urgent but still require human confirmation before actual dispatch.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 18x |
-| Promotion reason | repeated_gap |
+| Persistence | 3x recent / 21x lifetime |
+| Freshness | fresh |
 | Evidence | wiki/projects/apify-market-scanner.md |
-| Suggested prompt mode | manual |
 | Dispatch blocker | advisory_only |
-| Actionability | review_required |
+| Actionability | actionable |
 | Source | slimy-nuc2 (nuc2) |
 
 **Why it matters:** Page 'projects/apify-market-scanner.md' has no inbound links.
@@ -230,18 +220,16 @@ urgent but still require human confirmation before actual dispatch.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (repo_drift) |
-| Persistence | 18x |
-| Promotion reason | cross_nuc_conflict |
+| Persistence | 3x recent / 21x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
-| Suggested prompt mode | manual |
 | Dispatch blocker | advisory_only |
-| Actionability | review_required |
+| Actionability | actionable |
 | Source | nuc1 (cross_nuc) |
-| Notes | Cross-NUC KB drift signal — NUC1 has uncommitted work in shared KB. |
 
 **Why it matters:** The kb repo on NUC1 is dirty — there are uncommitted changes that may need to be merged.
 
 **Recommended action:** Coordinate with NUC1 to push or transfer the uncommitted KB changes, then reconcile.
 
 ---
-_Stage 1.85 — advisory only. Candidate status is recorded but dispatch is blocked by `advisory_only`._
+_Stage 1.86 — advisory only. Candidate status is advisory only, dispatch blocked by `advisory_only`._

@@ -1,23 +1,22 @@
 #!/usr/bin/env python3
 """
-wiki_manager_stage1.py — Stage 1.85 todo queue generator + stable wiki pages.
+wiki_manager_stage1.py — Stage 1.86 todo queue generator + stable wiki pages.
 
-Stage 1.85 changes (from 1.8):
-- Refined candidate promotion: stricter criteria to end over-promotion
-- Demotion/maturity rules: tasks can move not_candidate → emerging → candidate → cooling_down → resolved
-- Promotion tracking fields: promotion_first_seen, promotion_last_seen,
-  promotion_occurrence_count, last_promotion_status_change
-- Candidate review pack: output/candidate_review_pack.md (human-oriented compact digest)
-- Noise control: no rewrite if no material change, bounded history, stable outputs
-- Stage 1.85 is still advisory only: does NOT dispatch harness jobs.
+Stage 1.86 changes (from 1.85):
+- Freshness-weighted promotion: recent evidence counts more than lifetime count
+- Rolling window fields: run_timestamps, recent_occurrence_count (last 5 runs)
+- Freshness bands: fresh / aging / stale
+- cooling_down status for items with stale/weak recent evidence
+- Candidate requires recency AND persistence — lifetime count alone is not enough
+- History stores per-run timestamps (run_timestamps array)
+- Stage 1.86 is still advisory only: does NOT dispatch harness jobs.
 """
 import json
 import sys
 import os
 import argparse
 import re
-import hashlib
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import Optional
 
@@ -41,18 +40,24 @@ CANDIDATE_REVIEW_PACK = OUTPUT_DIR / "candidate_review_pack.md"
 HISTORY_RETENTION_RUNS = 10
 HISTORY_RETENTION_DAYS = 30
 
-# ── Promotion thresholds (Stage 1.85 — much stricter) ───────────────────────
-# A task needs BOTH persistence AND quality signals to become candidate.
-PROMOTION_MIN_OCCURRENCES = 3       # base persistence threshold
-PROMOTION_CROSS_NUC_BONUS = 2       # cross-NUC bonus added to effective count
-# Strong candidate requires: occurrence_count >= 5 (or 3+2 cross-NUC bonus = 5)
-STRICT_CANDIDATE_MIN = 5            # hard floor for candidate (with cross-NUC bonus applied)
-# Emerging: 2-4 occurrences with evidence
-EMERGING_MIN = 2
-EMERGING_MAX = 4
-# Must have severity >= medium (not low) to be candidate
-# Must have a specific evidence path referencing a real file
-# dispatch_blocker must not be a hard blocker
+# ── Stage 1.86 Freshness Constants ─────────────────────────────────────────
+# Rolling window: last N runs count as "recent"
+RECENT_WINDOW_RUNS = 5
+# Hours to consider evidence "fresh" (no penalty)
+FRESH_HOURS = 24
+# Hours after which evidence starts aging
+AGING_HOURS = 72
+# Items not seen in this many hours are "stale"
+STALE_HOURS = 168   # 7 days
+# Candidate: needs at least this many RECENT occurrences (within window)
+CANDIDATE_RECENT_MIN = 3
+# Emerging: needs at least this many recent occurrences
+EMERGING_RECENT_MIN = 2
+# Lifetime occurrences needed for cross-NUC bonus to apply
+CROSS_NUC_BONUS_IF_LIFETIME_AT_LEAST = 3
+PROMOTION_CROSS_NUC_BONUS = 2
+# Must have severity >= medium for candidate
+# Must have a real evidence path
 
 ALLOWED_PROMOTION_KINDS = {"repo_drift", "wiki_gap", "doc_drift"}
 BLOCKED_PROMOTION_KINDS = {"investigate", "harness_candidate"}
@@ -154,16 +159,12 @@ def evidence_path_is_real(path: str) -> bool:
     """Check if an evidence path actually exists in the KB."""
     if not path:
         return False
-    # Resolve path against the KB base directory
-    # Paths may be: raw/inbox-nuc1/, wiki/_orphans.md, /home/slimy/kb/raw/...
-    # Strip /home/slimy/kb/ prefix if present, then re-join
     rel_path = path
     for prefix in ("/home/slimy/kb/", "/home/slimy/kb"):
         if rel_path.startswith(prefix):
             rel_path = rel_path[len(prefix):]
             break
-    full_path = Path(f"/home/slimy/kb/{rel_path}")
-    return full_path.exists()
+    return Path(f"/home/slimy/kb/{rel_path}").exists()
 
 
 def has_real_evidence(task: dict) -> bool:
@@ -172,6 +173,48 @@ def has_real_evidence(task: dict) -> bool:
         if evidence_path_is_real(ep):
             return True
     return False
+
+
+def evidence_age_hours(task: dict) -> float:
+    """
+    How many hours old is the best evidence path?
+    We check the file modification time of the evidence path.
+    Returns inf if no evidence path exists.
+    """
+    now = datetime.now(timezone.utc)
+    for ep in task.get("evidence_paths", []):
+        # Strip KB root or relative prefix and resolve
+        rel = ep
+        for root_prefix in ("/home/slimy/kb/", "/home/slimy/kb"):
+            if rel.startswith(root_prefix):
+                rel = rel[len(root_prefix):]
+                break
+        # rel is now a relative path like "raw/inbox-nuc1" or "wiki/_orphans.md"
+        full = Path(f"/home/slimy/kb/{rel}")
+        # Ensure we check the directory/file without trailing slash artifacts
+        if full.exists():
+            mtime = datetime.fromtimestamp(full.stat().st_mtime, tz=timezone.utc)
+            return (now - mtime).total_seconds() / 3600
+    return float('inf')
+
+
+def compute_freshness_band(task: dict, now_ts: str) -> str:
+    """
+    Compute freshness band based on evidence age.
+    - fresh: evidence < FRESH_HOURS old
+    - aging: evidence >= FRESH_HOURS but < AGING_HOURS
+    - stale: evidence >= AGING_HOURS
+    """
+    age_h = evidence_age_hours(task)
+    if age_h == float('inf'):
+        # No real evidence — treat as stale
+        return "stale"
+    if age_h < FRESH_HOURS:
+        return "fresh"
+    elif age_h < AGING_HOURS:
+        return "aging"
+    else:
+        return "stale"
 
 
 # ── Project-page matching ─────────────────────────────────────────────────────
@@ -187,24 +230,6 @@ def find_project_page(repo_name: str) -> Optional[Path]:
         if page_normalized == normalized or page_normalized.startswith(normalized) or normalized.startswith(page_normalized):
             return page_path
     return None
-
-
-def get_project_page_name(repo_name: str) -> str:
-    return repo_name.replace("-", " ").replace("_", " ").title()
-
-
-def get_machine_managed_block(content: str) -> tuple[str, str]:
-    begin_marker = "<!-- BEGIN MACHINE MANAGED"
-    end_marker = "<!-- END MACHINE MANAGED -->"
-    begin_idx = content.find(begin_marker)
-    end_idx = content.find(end_marker)
-    if begin_idx == -1 or end_idx == -1:
-        return "", content
-    block_content = content[begin_idx + len(begin_marker):end_idx]
-    before = content[:begin_idx]
-    after = content[end_idx + len(end_marker):]
-    rest = before + after
-    return block_content.strip(), rest
 
 
 def update_project_page(page_path: Path, repo_name: str, status_block: str, todos: list[dict]) -> bool:
@@ -264,7 +289,8 @@ def build_project_status_block(repo_name: str, nuc1_json: dict, todos: list[dict
             kind = t.get("kind", "?")
             occ = t.get("occurrence_count", 1)
             prom = t.get("promotion_status", "?")
-            lines.append(f"- **[{sev}/{prom}]** {t['title']} ({kind}, {occ}x)")
+            fresh = t.get("freshness_band", "?")
+            lines.append(f"- **[{sev}/{prom}]** {t['title']} ({kind}, {occ}x, {fresh})")
     else:
         lines.append(f"**Open issues:** none in current queue")
     if project_todos and project_todos[0].get("evidence_paths"):
@@ -378,9 +404,9 @@ def build_project_health_index(nuc1_json: dict, todos: list[dict], updated_pages
     return "\n".join(lines)
 
 
-# ── Promotion rules content ───────────────────────────────────────────────────
+# ── Promotion rules content (Stage 1.86) ─────────────────────────────────────
 
-CANDIDATE_RULES_CONTENT_185 = """# Harness Candidate Promotion Rules
+CANDIDATE_RULES_CONTENT_186 = """# Harness Candidate Promotion Rules
 
 > Category: concepts
 > Updated: _TS_PLACEHOLDER_
@@ -390,7 +416,9 @@ CANDIDATE_RULES_CONTENT_185 = """# Harness Candidate Promotion Rules
 
 ## Overview
 
-Stage 1.85 introduces stricter promotion criteria to end over-promotion. Tasks must now demonstrate **both persistence AND quality signals** before becoming a harness candidate. Tasks can also move downward (demotion) as well as upward.
+Stage 1.86 adds **freshness-weighted promotion** to Stage 1.85's stricter criteria.
+Recent evidence matters more than lifetime occurrence count.
+Tasks can also enter `cooling_down` when recent evidence weakens.
 
 ## Promotion Statuses
 
@@ -399,8 +427,18 @@ Stage 1.85 introduces stricter promotion criteria to end over-promotion. Tasks m
 | `not_candidate` | Default — tracked but does not yet qualify |
 | `emerging` | Has some signals but not all criteria met |
 | `candidate` | Meets all criteria — ready for harness dispatch consideration |
-| `cooling_down` | Was candidate but evidence has weakened |
+| `cooling_down` | Was candidate/emerging but recent evidence has weakened |
 | `resolved` | No longer present in current queue |
+
+## Freshness Bands
+
+| Band | Meaning | Evidence Age |
+|------|---------|--------------|
+| `fresh` | Evidence seen or file modified < 24h ago | < {FRESH_HOURS}h |
+| `aging` | Evidence 1-3 days old | {FRESH_HOURS}h–{AGING_HOURS}h |
+| `stale` | Evidence older than 3 days | >= {AGING_HOURS}h |
+
+Evidence age is measured by file modification time of the primary evidence path.
 
 ## State Transitions
 
@@ -410,67 +448,69 @@ not_candidate → emerging → candidate → cooling_down → resolved
      └─────────────┴───────────┴────────────┘  (demotion paths)
 ```
 
-A task can be demoted if its evidence degrades (e.g., occurrence_count drops below threshold,
-evidence path becomes stale, severity drops).
-
-## Bounded Promotion Criteria (Stage 1.85 — Stricter)
+## Freshness-Weighted Promotion Criteria (Stage 1.86)
 
 A task is promoted to `candidate` when **ALL** of the following are true:
 
-### 1. Hard Persistence Floor
-- `occurrence_count >= 5` (with cross-NUC bonus of +2 applied: so 3 base occurrences + 2 cross-NUC bonus = 5)
-- OR `occurrence_count >= 5` without bonus for local NUC2 tasks
-- Tasks at exactly 3-4 occurrences (or 3+2=5 with bonus) land in `emerging`
+### 1. Recent Occurrence Score
+- Must have `recent_occurrence_count >= {CANDIDATE_RECENT_MIN}` within the last {RECENT_WINDOW_RUNS} runs
+- Lifetime `occurrence_count` is tracked for audit only — it does NOT force candidate status
 
-### 2. Evidence Quality
-- Task must have at least one `evidence_path` pointing to a **real existing file or directory**
-- Evidence paths are verified at promotion time
+### 2. Evidence Quality + Recency
+- Task must have at least one **real existing** `evidence_path`
+- Evidence file must have been modified within `{AGING_HOURS}h` (not stale)
+- OR task must have `freshness_band = "fresh"` or `"aging"` AND evidence is real
 
 ### 3. Severity Floor
 - Severity must be `medium` or `high`
-- Tasks with `low` severity can only reach `emerging` at best
 
 ### 4. No Hard Dispatch Blocker
 - `dispatch_blocker` must be empty OR only `"advisory_only"`
-- Any other blocker (e.g., `needs_review`, `cross_nuc_coordination`) prevents promotion
 
 ### 5. Kind Allowlist
 - Only `repo_drift`, `wiki_gap`, `doc_drift` are eligible
-- `investigate` and `harness_candidate` kinds are permanently excluded
 
-## Promotion Reasons
+## Emerging
 
-- `cross_nuc_conflict` — cross-NUC evidence, persistent (>=5 eff. occurrences)
-- `persistent_drift` — repo drift with high severity, >=5 occurrences
-- `repeated_gap` — wiki gap persisting >=5 times with medium+ severity
+`emerging` when:
+- `recent_occurrence_count >= {EMERGING_RECENT_MIN}` AND < `{CANDIDATE_RECENT_MIN}`
+- Evidence is real and freshness_band is `fresh` or `aging`
+- Severity is `medium` or `high`
 
-## Demotion Signals
+OR:
+- Has real evidence, but `freshness_band = "stale"` with some recency signal
 
-A task is demoted when:
-- `occurrence_count` drops (if previously candidate but now resolved)
-- Evidence path becomes stale or unavailable
-- Severity drops below `medium`
-- A hard dispatch blocker is added
+## Cooling Down
 
-## Dispatch Blockers
+`cooling_down` when:
+- Was previously `candidate` or `emerging`
+- But `freshness_band = "stale"` OR evidence no longer exists
+- Recent evidence has weakened even if lifetime count is high
 
-| Blocker | Blocks promotion? | Auto-clear? |
-|--------|------------------|-------------|
-| _(empty)_ | No | N/A |
-| `advisory_only` | No (stage gate only) | Yes — cleared in Stage 2 |
-| `needs_review` | Yes | No — manual clear |
-| `cross_nuc_coordination` | Yes | No — manual clear |
+## Not Candidate
 
-## Stage 1.85 Boundary
+`not_candidate` when:
+- No real evidence path
+- Evidence is stale AND no recent occurrences
+- Kind is excluded
+- Hard dispatch blocker present
 
-Stage 1.85 does NOT dispatch harness jobs. Candidate status is advisory only, dispatch blocked by `advisory_only`.
+## Stage 1.86 Boundary
+
+Stage 1.86 does NOT dispatch harness jobs. Candidate status is advisory only.
 
 <!-- END MACHINE MANAGED -->
 
 ## Human Notes
 
 <!-- Add notes here -->
-"""
+""".format(
+    FRESH_HOURS=FRESH_HOURS,
+    AGING_HOURS=AGING_HOURS,
+    CANDIDATE_RECENT_MIN=CANDIDATE_RECENT_MIN,
+    EMERGING_RECENT_MIN=EMERGING_RECENT_MIN,
+    RECENT_WINDOW_RUNS=RECENT_WINDOW_RUNS
+)
 
 
 # ── History management ───────────────────────────────────────────────────────
@@ -501,8 +541,9 @@ def task_key(task: dict) -> str:
 def prune_history(history: dict) -> dict:
     now = datetime.now(timezone.utc)
     cutoff = datetime.strptime(TIMESTAMP[:10], "%Y-%m-%d").replace(tzinfo=timezone.utc)
-    from datetime import timedelta
     cutoff_30d = cutoff - timedelta(days=HISTORY_RETENTION_DAYS)
+    from datetime import timedelta as td
+    cutoff_30d = cutoff - td(days=HISTORY_RETENTION_DAYS)
     kept = []
     for entry in history.get("tasks", []):
         last_seen = entry.get("last_seen", "")
@@ -520,10 +561,16 @@ def prune_history(history: dict) -> dict:
 
 
 def update_history(new_tasks: list[dict]) -> tuple[dict, dict]:
+    """
+    Update history with new run timestamps.
+    For each task: append current run timestamp to run_timestamps array,
+    trim to last RECENT_WINDOW_RUNS entries, compute recent_occurrence_count.
+    """
     history = load_history()
     history = prune_history(history)
     state_map = {}
     now = TIMESTAMP
+
     existing = {e["task_key"]: e for e in history["tasks"]}
 
     for task in new_tasks:
@@ -531,13 +578,20 @@ def update_history(new_tasks: list[dict]) -> tuple[dict, dict]:
         task["task_key"] = key
         if key in existing:
             entry = existing[key]
+            # Append current run to run_timestamps, keep last N
+            rts = entry.get("run_timestamps", [])
+            rts.append(now)
+            rts = rts[-RECENT_WINDOW_RUNS:]
+            entry["run_timestamps"] = rts
             entry["last_seen"] = now
             entry["occurrence_count"] = entry.get("occurrence_count", 1) + 1
             entry["state"] = "persisting"
             task["first_seen"] = entry.get("first_seen", now)
             task["occurrence_count"] = entry["occurrence_count"]
             task["state"] = "persisting"
-            # Carry forward promotion tracking
+            task["run_timestamps"] = rts
+            task["recent_occurrence_count"] = len(rts)
+            # Promotion tracking
             task["promotion_first_seen"] = entry.get("promotion_first_seen", now)
             task["promotion_last_seen"] = entry.get("promotion_last_seen", now)
             task["promotion_occurrence_count"] = entry.get("promotion_occurrence_count", 0) + 1
@@ -551,6 +605,7 @@ def update_history(new_tasks: list[dict]) -> tuple[dict, dict]:
                 "last_seen": now,
                 "occurrence_count": 1,
                 "state": "new",
+                "run_timestamps": [now],
                 "promotion_first_seen": None,
                 "promotion_last_seen": None,
                 "promotion_occurrence_count": 0,
@@ -561,6 +616,8 @@ def update_history(new_tasks: list[dict]) -> tuple[dict, dict]:
             task["first_seen"] = now
             task["occurrence_count"] = 1
             task["state"] = "new"
+            task["run_timestamps"] = [now]
+            task["recent_occurrence_count"] = 1
             task["promotion_first_seen"] = None
             task["promotion_last_seen"] = None
             task["promotion_occurrence_count"] = 0
@@ -577,7 +634,7 @@ def update_history(new_tasks: list[dict]) -> tuple[dict, dict]:
     return history, state_map
 
 
-# ── Severity heuristics ───────────────────────────────────────────────────────
+# ── Severity heuristics ─────────────────────────────────────────────────────────
 
 def compute_severity(task: dict, nuc1_evidence: dict, occurrence_count: int = 1) -> str:
     kind = task.get("kind", "")
@@ -600,16 +657,19 @@ def compute_severity(task: dict, nuc1_evidence: dict, occurrence_count: int = 1)
     return ["low", "medium", "high"][min(severity, 2)]
 
 
-# ── Promotion (Stage 1.85 — strict) ──────────────────────────────────────────
+# ── Promotion (Stage 1.86 — freshness-weighted) ────────────────────────────────
 
-def compute_promotion_185(task: dict, history_entry: dict) -> tuple[str, str, bool]:
+def compute_promotion_186(task: dict, history_entry: dict) -> tuple[str, str, bool]:
     """
-    Stage 1.85 promotion logic.
+    Stage 1.86 freshness-weighted promotion logic.
     Returns (promotion_status, promotion_reason, demoted_this_run).
-    demoted_this_run is True if the task was previously candidate/emerging
-    but is now not_candidate/emerging due to evidence weakening.
+    Demoted if prior was candidate/emerging but now lower.
+    Key insight: lifetime count is audit-only. Recent evidence drives promotion.
     """
     kind = task.get("kind", "")
+    # Use history run_timestamps for recent count
+    run_ts = task.get("run_timestamps", [])
+    recent_occ = len(run_ts) if run_ts else task.get("recent_occurrence_count", 1)
     occurrence_count = task.get("occurrence_count", 1)
     source_scope = task.get("source_scope", "")
     severity = task.get("severity", "low")
@@ -617,10 +677,11 @@ def compute_promotion_185(task: dict, history_entry: dict) -> tuple[str, str, bo
     dispatch_blocker = task.get("dispatch_blocker", "")
     prior_status = task.get("prior_promotion_status", "not_candidate")
 
-    # Check evidence path exists
     real_evidence = has_real_evidence(task)
+    freshness_band = compute_freshness_band(task, TIMESTAMP)
+    evidence_age_h = evidence_age_hours(task)
 
-    # Kind check
+    # ── Kind check ──
     if kind in BLOCKED_PROMOTION_KINDS:
         reason = "kind_excluded"
         new_status = "not_candidate"
@@ -633,53 +694,70 @@ def compute_promotion_185(task: dict, history_entry: dict) -> tuple[str, str, bo
         demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
         return new_status, reason, demoted
 
-    # Evidence check — needs real evidence
+    # ── Evidence check ──
     if not evidence_paths or not real_evidence:
         reason = "no_evidence" if not evidence_paths else "stale_evidence"
         new_status = "not_candidate"
         demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
         return new_status, reason, demoted
 
-    # Hard dispatch blocker check
+    # ── Stale evidence + no recent run → cooling_down ──
+    if freshness_band == "stale":
+        if prior_status in ("candidate", "emerging"):
+            reason = "evidence_stale_cooling"
+            new_status = "cooling_down"
+            demoted = True
+            return new_status, reason, demoted
+        else:
+            reason = "evidence_stale"
+            new_status = "not_candidate"
+            demoted = False
+            return new_status, reason, demoted
+
+    # ── Hard dispatch blocker check ──
     if dispatch_blocker and dispatch_blocker not in ("advisory_only", ""):
         reason = f"dispatch_blocker:{dispatch_blocker}"
         new_status = "not_candidate"
         demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
         return new_status, reason, demoted
 
-    # Compute effective occurrences (with cross-NUC bonus)
-    effective_occ = occurrence_count
-    if source_scope == "cross_nuc":
-        effective_occ += PROMOTION_CROSS_NUC_BONUS
-
-    # ── Candidate check ──
-    # Must have severity >= medium AND (occurrence >= STRICT_CANDIDATE_MIN OR effective >= STRICT_CANDIDATE_MIN)
-    # STRICT_CANDIDATE_MIN = 5 means: local tasks need 5x persistence;
-    # cross-NUC tasks need 3 base + 2 bonus = 5 effective
-    if severity in ("medium", "high") and effective_occ >= STRICT_CANDIDATE_MIN:
-        reason = "cross_nuc_conflict" if source_scope == "cross_nuc" else ("persistent_drift" if kind == "repo_drift" else "repeated_gap")
+    # ── CANDIDATE check ──
+    # Requirements:
+    #   - recent_occurrence_count >= CANDIDATE_RECENT_MIN (3 within last 5 runs)
+    #   - severity >= medium
+    #   - freshness_band != stale (fresh or aging)
+    #   - evidence is real
+    if (recent_occ >= CANDIDATE_RECENT_MIN and
+            severity in ("medium", "high") and
+            freshness_band != "stale"):
+        if source_scope == "cross_nuc":
+            reason = "cross_nuc_conflict"
+        elif kind == "repo_drift":
+            reason = "persistent_drift"
+        else:
+            reason = "repeated_gap"
         new_status = "candidate"
         demoted = False
         return new_status, reason, demoted
 
-    # ── Emerging check ──
-    # Has evidence + real evidence + some persistence (2-4 base occurrences)
-    # OR severity is low but occurrence >= EMERGING_MIN
-    if real_evidence and occurrence_count >= EMERGING_MIN and occurrence_count <= EMERGING_MAX:
+    # ── EMERGING check ──
+    # Has real evidence + freshness + some recency signal
+    if real_evidence and freshness_band != "stale" and recent_occ >= EMERGING_RECENT_MIN:
         reason = "insufficient_persistence"
         new_status = "emerging"
         demoted = False
         return new_status, reason, demoted
 
-    # ── Low persistence / weak evidence → not_candidate ──
-    if occurrence_count < EMERGING_MIN:
-        reason = "insufficient_persistence"
-        new_status = "not_candidate"
-        demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
+    # ── COOLING_DOWN check ──
+    # Was candidate/emerging, evidence is aging, but not fresh
+    if prior_status in ("candidate", "emerging") and freshness_band == "aging":
+        reason = "evidence_aging"
+        new_status = "cooling_down"
+        demoted = True
         return new_status, reason, demoted
 
-    # Fallback
-    reason = "does_not_meet_criteria"
+    # ── NOT_CANDIDATE fallback ──
+    reason = "insufficient_recency"
     new_status = "not_candidate"
     demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
     return new_status, reason, demoted
@@ -763,10 +841,6 @@ def build_todos(orphans, weak_links, nuc1_json, nuc1_md, backend, model) -> tupl
                     source_host="nuc1",
                     source_scope="cross_nuc"
                 )
-
-        active = nuc1_md_parsed.get("active_services", [])
-        if active and "openclaw-gateway.service" in str(active):
-            services = [s for s in active if "slimy" in s.lower() or "openclaw" in s.lower()]
 
     # Orphans
     if orphans:
@@ -853,7 +927,7 @@ def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
     lines = []
     lines.append(f"# Todo Queue — {TIMESTAMP}")
     lines.append("")
-    lines.append(f"**Generated by:** wiki_manager_stage1.py (Stage 1.85)")
+    lines.append(f"**Generated by:** wiki_manager_stage1.py (Stage 1.86)")
     lines.append(f"**Backend:** {backend}")
     lines.append(f"**Host:** {HOST}")
     lines.append(f"**NUC1 evidence consumed:** {'YES' if nuc1_used else 'NO'}")
@@ -865,11 +939,13 @@ def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
     by_kind = {}
     by_state = {"new": [], "persisting": [], "resolved": []}
     by_promotion = {"candidate": [], "emerging": [], "not_candidate": [], "cooling_down": []}
+    by_freshness = {"fresh": [], "aging": [], "stale": []}
     for t in todos:
         by_severity.setdefault(t["severity"], []).append(t)
         by_kind.setdefault(t["kind"], []).append(t)
         by_state.setdefault(t.get("state", "new"), []).append(t)
         by_promotion.setdefault(t.get("promotion_status", "not_candidate"), []).append(t)
+        by_freshness.setdefault(t.get("freshness_band", "unknown"), []).append(t)
 
     lines.append("## Summary")
     lines.append("")
@@ -880,7 +956,8 @@ def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
         new_c = sum(1 for s in state_map.values() if s == "new")
         pers_c = sum(1 for s in state_map.values() if s == "persisting")
         lines.append(f"- NEW: {new_c} | PERSISTING: {pers_c}")
-    lines.append(f"- by promotion: candidate={len(by_promotion.get('candidate',[]))} emerging={len(by_promotion.get('emerging',[]))} not_candidate={len(by_promotion.get('not_candidate',[]))} cooling_down={len(by_promotion.get('cooling_down',[]))}")
+    lines.append(f"- by promotion: candidate={len(by_promotion.get('candidate',[]))} emerging={len(by_promotion.get('emerging',[]))} cooling_down={len(by_promotion.get('cooling_down',[]))} not_candidate={len(by_promotion.get('not_candidate',[]))}")
+    lines.append(f"- by freshness: fresh={len(by_freshness.get('fresh',[]))} aging={len(by_freshness.get('aging',[]))} stale={len(by_freshness.get('stale',[]))}")
     lines.append("")
 
     for state_label, sort_severity in [("NEW", ["high", "medium", "low"]), ("PERSISTING", ["high", "medium", "low"])]:
@@ -901,13 +978,14 @@ def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
                 lines.append(f"- **Kind:** {t['kind']}")
                 lines.append(f"- **Severity:** {t['severity']}")
                 lines.append(f"- **Promotion:** {t.get('promotion_status', 'unknown')} — {t.get('promotion_reason', '')}")
+                lines.append(f"- **Freshness:** {t.get('freshness_band', 'unknown')} (recency: {t.get('recent_occurrence_count', '?')}x)")
                 lines.append(f"- **Reason:** {t['reason']}")
                 lines.append(f"- **Recommended Action:** {t['recommended_action']}")
                 lines.append(f"- **Prompt Mode:** {t['suggested_prompt_mode']}")
                 lines.append(f"- **Safe to Dispatch:** {t['safe_to_dispatch']}")
                 lines.append(f"- **Source:** {t['source_host']} ({t.get('source_scope', 'unknown')})")
                 if t.get("occurrence_count", 1) > 1:
-                    lines.append(f"- **Occurrences:** {t['occurrence_count']}x")
+                    lines.append(f"- **Occurrences:** {t['occurrence_count']}x (lifetime) / {t.get('recent_occurrence_count', '?')}x (recent)")
                 if t.get("evidence_paths"):
                     lines.append(f"- **Evidence:** {', '.join(t['evidence_paths'])}")
                 if t.get("dispatch_blocker"):
@@ -918,7 +996,7 @@ def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
 
     lines.append("---")
     lines.append("")
-    lines.append("*Stage 1.85 — advisory only. No harness jobs dispatched.*")
+    lines.append("*Stage 1.86 — advisory only. No harness jobs dispatched.*")
     return "\n".join(lines)
 
 
@@ -974,7 +1052,9 @@ def build_nuc1_state_content(nuc1_json: dict, nuc1_md: dict, todos: list[dict]) 
     nuc1_tasks = [t for t in todos if t.get("source_scope") == "cross_nuc" and t.get("source_host") in ("nuc1", "nuc1")]
     if nuc1_tasks:
         for t in nuc1_tasks:
-            lines.append(f"- **[{t['severity'].upper()}]** {t['title']} — {t['kind']}")
+            prom = t.get("promotion_status", "")
+            fresh = t.get("freshness_band", "")
+            lines.append(f"- **[{t['severity'].upper()}/{prom}]** {t['title']} — {t['kind']} ({fresh})")
     else:
         lines.append("- _No open NUC1 issues in current queue_")
     lines.append("")
@@ -1040,7 +1120,9 @@ def build_nuc2_state_content(nuc2_state_md: str, todos: list[dict]) -> str:
     wiki_gaps = [t for t in nuc2_tasks if t.get("kind") == "wiki_gap"]
     if wiki_gaps:
         for t in wiki_gaps:
-            lines.append(f"- **[{t['severity'].upper()}]** {t['title']} — {t['kind']}")
+            prom = t.get("promotion_status", "")
+            fresh = t.get("freshness_band", "")
+            lines.append(f"- **[{t['severity'].upper()}/{prom}]** {t['title']} — {t['kind']} ({fresh})")
     else:
         lines.append("- _No open NUC2 issues in current queue_")
     lines.append("")
@@ -1112,23 +1194,23 @@ def build_repo_health_content(nuc1_json: dict, nuc2_state_md: str) -> str:
 
 
 def write_harness_candidates(todos: list[dict]) -> bool:
-    """Write output/harness_candidates.md — compact machine-readable candidate list."""
+    """Write output/harness_candidates.md."""
     candidate_tasks = [t for t in todos if t.get("promotion_status") == "candidate"]
     emerging_tasks = [t for t in todos if t.get("promotion_status") == "emerging"]
+    cooling_tasks = [t for t in todos if t.get("promotion_status") == "cooling_down"]
 
     lines = []
     lines.append(f"# Harness Candidates — {TIMESTAMP}")
     lines.append("")
-    lines.append(f"_Auto-generated by wiki-manager-stage1. Not dispatched._")
+    lines.append(f"_Auto-generated by wiki-manager-stage1 (1.86). Not dispatched._")
     lines.append("")
     lines.append(f"**Total candidates:** {len(candidate_tasks)}")
     lines.append(f"**Total emerging:** {len(emerging_tasks)}")
+    lines.append(f"**Total cooling_down:** {len(cooling_tasks)}")
     lines.append("")
-    lines.append("## Promotion Rules")
+    lines.append(f"See [_candidate-promotion-rules.md](../wiki/_candidate-promotion-rules.md) for Stage 1.86 criteria.")
     lines.append("")
-    lines.append(f"See [_candidate-promotion-rules.md](../wiki/_candidate-promotion-rules.md) for Stage 1.85 criteria.")
-    lines.append("")
-    lines.append("## Candidates (meet all promotion criteria)")
+    lines.append("## Candidates (meet all 1.86 criteria)")
     lines.append("")
 
     if not candidate_tasks:
@@ -1141,7 +1223,8 @@ def write_harness_candidates(todos: list[dict]) -> bool:
             lines.append(f"- **Severity:** {t['severity']} ({t.get('kind', '?')})")
             lines.append(f"- **Why it matters:** {t.get('reason', 'N/A')}")
             lines.append(f"- **Promotion reason:** {t.get('promotion_reason', 'N/A')}")
-            lines.append(f"- **Persistence:** {t.get('occurrence_count', 1)}x")
+            lines.append(f"- **Persistence:** {t.get('occurrence_count', 1)}x lifetime / {t.get('recent_occurrence_count', '?')}x recent")
+            lines.append(f"- **Freshness:** {t.get('freshness_band', '?')} (evidence age: {t.get('evidence_age_h', '?')}h)")
             lines.append(f"- **Evidence:** {', '.join(t.get('evidence_paths', []) or ['N/A'])}")
             lines.append(f"- **Suggested prompt mode:** {t.get('suggested_prompt_mode', 'auto')}")
             lines.append(f"- **Dispatch blocker:** {t.get('dispatch_blocker') or 'none'}")
@@ -1154,40 +1237,53 @@ def write_harness_candidates(todos: list[dict]) -> bool:
             lines.append("")
 
     if emerging_tasks:
-        lines.append("## Emerging (some signals, not yet candidate)")
+        lines.append("## Emerging (not yet candidate — needs more recency or evidence)")
         lines.append("")
         for t in emerging_tasks:
             lines.append(f"### [{t['id']}] {t['title']}")
             lines.append("")
-            lines.append(f"- **Project:** {t.get('project', 'unknown')}")
-            lines.append(f"- **Severity:** {t['severity']} ({t.get('kind', '?')})")
+            lines.append(f"- **Project:** {t.get('project', 'unknown')} | **Severity:** {t['severity']}")
+            lines.append(f"- **Persistence:** {t.get('recent_occurrence_count', '?')}x recent / {t.get('occurrence_count', '?')}x lifetime")
+            lines.append(f"- **Freshness:** {t.get('freshness_band', '?')}")
             lines.append(f"- **Why it matters:** {t.get('reason', 'N/A')}")
-            lines.append(f"- **Promotion status:** {t.get('promotion_status')} — {t.get('promotion_reason', 'N/A')}")
-            lines.append(f"- **Persistence:** {t.get('occurrence_count', 1)}x")
-            lines.append(f"- **Evidence:** {', '.join(t.get('evidence_paths', []) or ['N/A'])}")
+            lines.append(f"- **What would promote:** more recent evidence or fresher evidence files")
+            lines.append("")
+
+    if cooling_tasks:
+        lines.append("## Cooling Down (was candidate/emerging — evidence weakened)")
+        lines.append("")
+        for t in cooling_tasks:
+            lines.append(f"### [{t['id']}] {t['title']}")
+            lines.append("")
+            lines.append(f"- **Project:** {t.get('project', 'unknown')} | **Severity:** {t['severity']}")
+            lines.append(f"- **Persistence:** {t.get('recent_occurrence_count', '?')}x recent / {t.get('occurrence_count', '?')}x lifetime")
+            lines.append(f"- **Freshness:** {t.get('freshness_band', '?')} (demoted)")
+            lines.append(f"- **Why it matters:** {t.get('reason', 'N/A')}")
+            lines.append(f"- **What would restore:** newer evidence or fresher source files")
             lines.append("")
 
     lines.append("---")
-    lines.append("_Stage 1.85 does not dispatch harness jobs. Candidate status is advisory only, dispatch blocked by `advisory_only`._")
+    lines.append("_Stage 1.86 does not dispatch. Candidate status is advisory only, dispatch blocked by `advisory_only`._")
 
     HARNESS_CANDIDATES_MD.parent.mkdir(parents=True, exist_ok=True)
     HARNESS_CANDIDATES_MD.write_text("\n".join(lines))
-    return bool(candidate_tasks) or bool(emerging_tasks)
+    return bool(candidate_tasks) or bool(emerging_tasks) or bool(cooling_tasks)
 
 
 def write_candidate_review_pack(todos: list[dict]) -> None:
     """
     Write output/candidate_review_pack.md — human-oriented compact review digest.
-    Focuses on true candidates with actionable information for future harness handoff.
+    Stage 1.86 version with freshness bands, cooling_down, and bucket grouping.
     """
     candidate_tasks = [t for t in todos if t.get("promotion_status") == "candidate"]
     emerging_tasks = [t for t in todos if t.get("promotion_status") == "emerging"]
+    cooling_tasks = [t for t in todos if t.get("promotion_status") == "cooling_down"]
     not_cand_tasks = [t for t in todos if t.get("promotion_status") == "not_candidate"]
 
     lines = []
     lines.append(f"# Candidate Review Pack — {TIMESTAMP}")
     lines.append("")
-    lines.append("> Stage: 1.85")
+    lines.append("> Stage: 1.86")
     lines.append(f"> Generated: {TIMESTAMP}")
     lines.append("> Purpose: Human review digest for future harness dispatch")
     lines.append("")
@@ -1197,30 +1293,37 @@ def write_candidate_review_pack(todos: list[dict]) -> None:
     lines.append("")
     lines.append(f"- **Candidates:** {len(candidate_tasks)}")
     lines.append(f"- **Emerging:** {len(emerging_tasks)}")
+    lines.append(f"- **Cooling down:** {len(cooling_tasks)}")
     lines.append(f"- **Not candidate:** {len(not_cand_tasks)}")
     lines.append(f"- **Total in queue:** {len(todos)}")
+    lines.append("")
+    lines.append("## Freshness Bands")
+    fresh = sum(1 for t in todos if t.get("freshness_band") == "fresh")
+    aging = sum(1 for t in todos if t.get("freshness_band") == "aging")
+    stale = sum(1 for t in todos if t.get("freshness_band") == "stale")
+    lines.append(f"- **fresh** (< 24h): {fresh}")
+    lines.append(f"- **aging** (24-72h): {aging}")
+    lines.append(f"- **stale** (> 72h): {stale}")
     lines.append("")
 
     # ── True Candidates ──
     if candidate_tasks:
         lines.append("## Candidates — Ready for Harness Dispatch Review")
         lines.append("")
-        lines.append("These tasks meet all Stage 1.85 promotion criteria. They are the most")
-        lines.append("urgent but still require human confirmation before actual dispatch.")
+        lines.append("These tasks meet all Stage 1.86 promotion criteria:")
+        lines.append("recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.")
         lines.append("")
         for t in candidate_tasks:
             proj = t.get("project", "")
             page = find_project_page(proj) if proj else None
             sev = t.get("severity", "?").upper()
             kind = t.get("kind", "?")
-            occ = t.get("occurrence_count", 1)
-            source = t.get("source_host", "?")
-            source_scope = t.get("source_scope", "?")
-            blocker = t.get("dispatch_blocker") or "none"
-            prom_reason = t.get("promotion_reason", "?")
+            recent = t.get("recent_occurrence_count", "?")
+            lifetime = t.get("occurrence_count", "?")
+            fresh = t.get("freshness_band", "?")
             evidence = t.get("evidence_paths", [])
-            suggested_mode = t.get("suggested_prompt_mode", "manual")
-            actionability = "actionable" if blocker == "advisory_only" and sev in ("high", "medium") else "review_required"
+            blocker = t.get("dispatch_blocker") or "none"
+            actionability = "actionable" if blocker == "advisory_only" and sev in ("HIGH", "MEDIUM") else "review_required"
 
             lines.append(f"### [{t['id']}] {t['title']}")
             lines.append("")
@@ -1228,17 +1331,14 @@ def write_candidate_review_pack(todos: list[dict]) -> None:
             lines.append(f"|-------|-------|")
             lines.append(f"| Project | {proj} |")
             lines.append(f"| Severity | {sev} ({kind}) |")
-            lines.append(f"| Persistence | {occ}x |")
-            lines.append(f"| Promotion reason | {prom_reason} |")
+            lines.append(f"| Persistence | {recent}x recent / {lifetime}x lifetime |")
+            lines.append(f"| Freshness | {fresh} |")
             lines.append(f"| Evidence | {', '.join(evidence) if evidence else 'none'} |")
-            lines.append(f"| Suggested prompt mode | {suggested_mode} |")
             lines.append(f"| Dispatch blocker | {blocker} |")
             lines.append(f"| Actionability | {actionability} |")
-            lines.append(f"| Source | {source} ({source_scope}) |")
+            lines.append(f"| Source | {t.get('source_host', '?')} ({t.get('source_scope', '?')}) |")
             if page:
                 lines.append(f"| Related wiki page | {page.name} |")
-            if t.get("notes"):
-                lines.append(f"| Notes | {t['notes']} |")
             lines.append("")
             lines.append(f"**Why it matters:** {t.get('reason', 'N/A')}")
             lines.append("")
@@ -1249,44 +1349,56 @@ def write_candidate_review_pack(todos: list[dict]) -> None:
         lines.append("")
         lines.append("_No tasks currently qualify as candidates._")
         lines.append("")
-        lines.append("This does not mean the KB is broken — it means the current evidence")
-        lines.append("did not meet the stricter Stage 1.85 criteria (>= 5 occurrences,")
-        lines.append("medium+ severity, real evidence path, cross-NUC or high persistence).")
+        lines.append("This may be correct — Stage 1.86 requires recent evidence (3+ in 5 runs),")
+        lines.append("fresh/aging evidence files, and medium+ severity.")
         lines.append("")
 
     # ── Emerging ──
     if emerging_tasks:
         lines.append("## Emerging — Close but Not Ready")
         lines.append("")
-        lines.append("These tasks have signals but don't yet meet the hard candidate floor.")
-        lines.append("They need more persistence or evidence quality before promotion.")
-        lines.append("")
         for t in emerging_tasks:
             proj = t.get("project", "")
             sev = t.get("severity", "?").upper()
-            occ = t.get("occurrence_count", 1)
+            recent = t.get("recent_occurrence_count", "?")
+            fresh = t.get("freshness_band", "?")
             lines.append(f"### [{t['id']}] {t['title']}")
             lines.append("")
-            lines.append(f"- **Project:** {proj} | **Severity:** {sev} | **Persistence:** {occ}x")
+            lines.append(f"- **Project:** {proj} | **Severity:** {sev} | **Freshness:** {fresh}")
+            lines.append(f"- **Persistence:** {recent}x recent / {t.get('occurrence_count', '?')}x lifetime")
+            lines.append(f"- **What would promote:** more recent runs OR fresher evidence files")
             lines.append(f"- **Why it matters:** {t.get('reason', 'N/A')}")
-            lines.append(f"- **What would promote:** more evidence of persistence, or severity increase")
             lines.append("")
+
+    # ── Cooling Down ──
+    if cooling_tasks:
+        lines.append(f"## Cooling Down ({len(cooling_tasks)} tasks)")
+        lines.append("")
+        lines.append("These tasks were previously candidate/emerging but recent evidence has weakened.")
+        lines.append("They are tracked but require fresh evidence before they can be restored to candidate.")
+        lines.append("")
+        for t in cooling_tasks:
+            sev = t.get("severity", "?").upper()
+            fresh = t.get("freshness_band", "?")
+            lines.append(f"- **[{t['id']}]** {t['title']} — {sev} ({fresh}) — {t.get('promotion_reason', '')}")
+        lines.append("")
 
     # ── Not Candidate ──
     if not_cand_tasks:
         lines.append(f"## Not Candidate ({len(not_cand_tasks)} tasks)")
         lines.append("")
-        lines.append("These tasks are tracked but do not yet qualify for any promotion tier.")
-        lines.append("Mostly: insufficient persistence (< 2 occurrences), low severity, or kind not allowed.")
+        lines.append("These tasks are tracked but lack sufficient recent evidence, have stale evidence,")
+        lines.append("or are excluded kinds. Lifetime history is preserved for audit.")
         lines.append("")
         for t in not_cand_tasks[:8]:
-            lines.append(f"- **[{t['id']}]** {t['title']} — {t.get('promotion_reason', '?')} ({t.get('severity', '?')})")
+            fresh = t.get("freshness_band", "?")
+            lines.append(f"- **[{t['id']}]** {t['title']} — {t.get('promotion_reason', '?')} ({fresh})")
         if len(not_cand_tasks) > 8:
             lines.append(f"- _...and {len(not_cand_tasks) - 8} more_")
         lines.append("")
 
     lines.append("---")
-    lines.append("_Stage 1.85 — advisory only. Candidate status is recorded but dispatch is blocked by `advisory_only`._")
+    lines.append("_Stage 1.86 — advisory only. Candidate status is advisory only, dispatch blocked by `advisory_only`._")
 
     CANDIDATE_REVIEW_PACK.parent.mkdir(parents=True, exist_ok=True)
     CANDIDATE_REVIEW_PACK.write_text("\n".join(lines))
@@ -1294,21 +1406,25 @@ def write_candidate_review_pack(todos: list[dict]) -> None:
 
 def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map,
                          nuc2_state_md_for_status="", updated_project_pages: list[str] = None,
-                         demotion_count: int = 0, promotion_counts: dict = None):
+                         demotion_count: int = 0, promotion_counts: dict = None,
+                         freshness_counts: dict = None):
     by_kind = {}
     by_state = {"new": 0, "persisting": 0, "resolved": 0}
     by_promotion = {"candidate": 0, "emerging": 0, "not_candidate": 0, "cooling_down": 0}
+    by_freshness = {"fresh": 0, "aging": 0, "stale": 0}
     harness_candidates = []
     for t in todos:
         by_kind.setdefault(t["kind"], []).append(t)
         by_state[t.get("state", "new")] = by_state.get(t.get("state", "new"), 0) + 1
         prom = t.get("promotion_status", "not_candidate")
         by_promotion[prom] = by_promotion.get(prom, 0) + 1
+        by_freshness[t.get("freshness_band", "unknown")] = by_freshness.get(t.get("freshness_band", "unknown"), 0) + 1
         if prom in ("candidate", "emerging"):
             harness_candidates.append(t)
 
     updated_project_pages = updated_project_pages or []
-    promotion_counts = promotion_counts or {"candidate": 0, "emerging": 0, "not_candidate": 0}
+    promotion_counts = promotion_counts or {}
+    freshness_counts = freshness_counts or {}
     demotion_count = demotion_count or 0
 
     lines = []
@@ -1318,7 +1434,7 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map,
     lines.append(f"> Updated: {TIMESTAMP}")
     lines.append("")
     lines.append(f"**Last run:** {TIMESTAMP}")
-    lines.append(f"**Stage:** 1.85")
+    lines.append(f"**Stage:** 1.86")
     lines.append(f"**Backend:** {backend}")
     lines.append(f"**NUC1 evidence:** {'consumed' if nuc1_used else 'none'}")
     if nuc1_info.get("nuc1_host"):
@@ -1335,9 +1451,16 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map,
     lines.append("")
     lines.append(f"- **candidate:** {by_promotion.get('candidate', 0)}")
     lines.append(f"- **emerging:** {by_promotion.get('emerging', 0)}")
+    lines.append(f"- **cooling_down:** {by_promotion.get('cooling_down', 0)}")
     lines.append(f"- **not_candidate:** {by_promotion.get('not_candidate', 0)}")
     if demotion_count > 0:
         lines.append(f"- **demoted this run:** {demotion_count}")
+    lines.append("")
+    lines.append("## Freshness Bands")
+    lines.append("")
+    lines.append(f"- **fresh** (< 24h): {by_freshness.get('fresh', 0)}")
+    lines.append(f"- **aging** (24-72h): {by_freshness.get('aging', 0)}")
+    lines.append(f"- **stale** (> 72h): {by_freshness.get('stale', 0)}")
     lines.append("")
     lines.append("## By Kind")
     lines.append("")
@@ -1365,7 +1488,8 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map,
         lines.append("")
         for t in harness_candidates:
             prom = t.get("promotion_status", "")
-            lines.append(f"- **[{t['id']}]** {t['title']} (severity: {t['severity']}, promotion: {prom})")
+            fresh = t.get("freshness_band", "")
+            lines.append(f"- **[{t['id']}]** {t['title']} (severity: {t['severity']}, promotion: {prom}, {fresh})")
         lines.append("")
     lines.append("## Task List")
     lines.append("")
@@ -1374,7 +1498,8 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map,
         prom = t.get("promotion_status", "")
         prom_str = f" [{prom}]" if prom else ""
         demoted = " ⚠️" if t.get("demoted_this_run") else ""
-        lines.append(f"{state_icon} [{t['id']}] {t['title']} ({t['severity']}, {t['kind']}){prom_str}{demoted} — {t.get('source_host', '?')}")
+        fresh = t.get("freshness_band", "")
+        lines.append(f"{state_icon} [{t['id']}] {t['title']} ({t['severity']}, {t['kind']}){prom_str} ({fresh}){demoted} — {t.get('source_host', '?')}")
     lines.append("")
     lines.append("---")
     lines.append("*Managed by wiki-manager-stage1.timer (every 12h). Do not edit directly.*")
@@ -1385,8 +1510,8 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map,
 
 
 def write_candidate_rules() -> bool:
-    """Write candidate promotion rules page."""
-    content = CANDIDATE_RULES_CONTENT_185.replace("_TS_PLACEHOLDER_", TIMESTAMP)
+    """Write candidate promotion rules page (Stage 1.86)."""
+    content = CANDIDATE_RULES_CONTENT_186.replace("_TS_PLACEHOLDER_", TIMESTAMP)
     CANDIDATE_RULES_PAGE.parent.mkdir(parents=True, exist_ok=True)
     existing = CANDIDATE_RULES_PAGE.read_text() if CANDIDATE_RULES_PAGE.exists() else ""
     if existing == content:
@@ -1395,10 +1520,10 @@ def write_candidate_rules() -> bool:
     return True
 
 
-# ── Main ───────────────────────────────────────────────────────────────────────
+# ── Main ─────────────────────────────────────────────────────────────────────────
 
 def main():
-    parser = argparse.ArgumentParser(description="Wiki Manager Stage 1.85 — todo queue + refined candidate promotion + review packs")
+    parser = argparse.ArgumentParser(description="Wiki Manager Stage 1.86 — freshness-weighted promotion + cooling_down")
     parser.add_argument("--orphans", default="")
     parser.add_argument("--weak-links", default="")
     parser.add_argument("--nuc1-json", default="")
@@ -1416,7 +1541,6 @@ def main():
     history, state_map = update_history(todos)
 
     demotion_count = 0
-    # Apply severity and promotion corrections
     for t in todos:
         key = t.get("task_key", task_key(t))
         entry = next((e for e in history["tasks"] if e["task_key"] == key), None)
@@ -1425,15 +1549,20 @@ def main():
         t["severity"] = new_sev
         t["occurrence_count"] = occ
 
-        # Stage 1.85 promotion — strict
-        prom_status, prom_reason, demoted = compute_promotion_185(t, entry or {})
+        # Freshness band
+        t["freshness_band"] = compute_freshness_band(t, TIMESTAMP)
+        age_h = evidence_age_hours(t)
+        t["evidence_age_h"] = round(age_h, 1) if age_h != float('inf') else -1
+
+        # Stage 1.86 promotion
+        prom_status, prom_reason, demoted = compute_promotion_186(t, entry or {})
         t["promotion_status"] = prom_status
         t["promotion_reason"] = prom_reason
         t["demoted_this_run"] = demoted
         if demoted:
             demotion_count += 1
 
-        # Update promotion tracking timestamps in history
+        # Update promotion tracking in history entry
         if entry:
             if prom_status != entry.get("last_known_promotion_status"):
                 entry["last_promotion_status_change"] = TIMESTAMP
@@ -1444,7 +1573,6 @@ def main():
                 entry["promotion_last_seen"] = TIMESTAMP
                 entry["promotion_occurrence_count"] = entry.get("promotion_occurrence_count", 0) + 1
 
-        # Set dispatch blocker for candidates if not already set
         if prom_status == "candidate" and not t.get("dispatch_blocker"):
             t["dispatch_blocker"] = "advisory_only"
 
@@ -1453,21 +1581,17 @@ def main():
 
     nuc1_used = bool(nuc1_info.get("repos") or nuc1_info.get("dirty_repos"))
 
-    # Write stable wiki pages
     nuc1_written = write_stable_page(NUC1_STATE_PAGE, build_nuc1_state_content(nuc1_info, {}, todos))
     nuc2_written = write_stable_page(NUC2_STATE_PAGE, build_nuc2_state_content(args.nuc2_md, todos))
     repo_written = write_stable_page(REPO_HEALTH_PAGE, build_repo_health_content(nuc1_info, args.nuc2_md))
 
-    # Project health index
     nuc1_repos = nuc1_info.get("repos", [])
     project_health_written = False
     if nuc1_used and nuc1_repos:
         project_health_written = write_stable_page(PROJECT_HEALTH_INDEX, build_project_health_index(nuc1_info, todos, []))
 
-    # Candidate promotion rules
     candidate_rules_written = write_candidate_rules()
 
-    # Project page filing
     updated_project_pages = []
     all_repos_data = nuc1_info.get("repo_details", [])
     if nuc1_used:
@@ -1485,30 +1609,34 @@ def main():
         health_content = build_project_health_index(nuc1_info, todos, updated_project_pages)
         write_stable_page(PROJECT_HEALTH_INDEX, health_content)
 
-    # Write harness candidates + candidate review pack
     harness_written = write_harness_candidates(todos)
     write_candidate_review_pack(todos)
 
-    # Compute promotion counts
     promotion_counts = {
         "candidate": sum(1 for t in todos if t.get("promotion_status") == "candidate"),
         "emerging": sum(1 for t in todos if t.get("promotion_status") == "emerging"),
+        "cooling_down": sum(1 for t in todos if t.get("promotion_status") == "cooling_down"),
         "not_candidate": sum(1 for t in todos if t.get("promotion_status") == "not_candidate"),
     }
+    freshness_counts = {
+        "fresh": sum(1 for t in todos if t.get("freshness_band") == "fresh"),
+        "aging": sum(1 for t in todos if t.get("freshness_band") == "aging"),
+        "stale": sum(1 for t in todos if t.get("freshness_band") == "stale"),
+    }
 
-    # Write JSON output
     output = {
         "generated_at": TIMESTAMP,
         "source_host": HOST,
         "backend": args.backend,
         "model": args.model if args.backend == "ollama" else None,
-        "stage": "1.85",
+        "stage": "1.86",
         "task_count": len(todos),
         "nuc1_evidence_used": nuc1_used,
         "nuc1_host": nuc1_info.get("nuc1_host", "unknown"),
         "orphan_count": len(orphans),
         "weak_link_count": len(weak_links),
         "promotion_counts": promotion_counts,
+        "freshness_counts": freshness_counts,
         "demotion_count": demotion_count,
         "stable_pages_written": {
             "nuc1_current_state": nuc1_written,
@@ -1532,7 +1660,8 @@ def main():
                         nuc2_state_md_for_status=args.nuc2_md,
                         updated_project_pages=updated_project_pages,
                         demotion_count=demotion_count,
-                        promotion_counts=promotion_counts)
+                        promotion_counts=promotion_counts,
+                        freshness_counts=freshness_counts)
 
     print(f"todo_queue.json: {TODO_JSON} ({len(todos)} tasks)")
     print(f"todo_queue.md: {TODO_MD}")
@@ -1540,7 +1669,8 @@ def main():
     print(f"nuc1_evidence_used: {nuc1_used}")
     print(f"Stable pages: nuc1={nuc1_written} nuc2={nuc2_written} repo={repo_written} health={project_health_written} rules={candidate_rules_written}")
     print(f"Project pages updated: {updated_project_pages}")
-    print(f"Promotion: candidate={promotion_counts['candidate']} emerging={promotion_counts['emerging']} not_candidate={promotion_counts['not_candidate']}")
+    print(f"Promotion: candidate={promotion_counts['candidate']} emerging={promotion_counts['emerging']} cooling_down={promotion_counts['cooling_down']} not_candidate={promotion_counts['not_candidate']}")
+    print(f"Freshness: fresh={freshness_counts['fresh']} aging={freshness_counts['aging']} stale={freshness_counts['stale']}")
     print(f"Demotions this run: {demotion_count}")
     print(f"Harness candidates: {'YES' if harness_written else 'none'}")
     print(f"Candidate review pack: {CANDIDATE_REVIEW_PACK}")

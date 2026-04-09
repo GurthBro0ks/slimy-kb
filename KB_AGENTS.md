@@ -76,7 +76,7 @@ It executes `kb-maintenance.sh` which:
 To manually trigger: `systemctl --user start kb-maintenance.service`
 To check status: `systemctl --user list-timers --all | grep kb-maintenance`
 
-## Wiki Manager Stage 1.85 (NUC2)
+## Wiki Manager Stage 1.86 (NUC2)
 
 A systemd user timer `wiki-manager-stage1.timer` runs every 12 hours on NUC2.
 It executes `wiki_manager_stage1.sh` which:
@@ -95,7 +95,7 @@ It executes `wiki_manager_stage1.sh` which:
 12. Appends a wiki-manager entry to `wiki/log.md`
 13. Commits and pushes if KB changed
 
-**Stage 1.85 does NOT dispatch harness jobs.** Todo queue entries are advisory only.
+**Stage 1.86 does NOT dispatch harness jobs.** Todo queue entries are advisory only.
 
 ### Stable State Pages
 
@@ -122,37 +122,59 @@ When digest evidence matches an existing `wiki/projects/*.md` page, the manager 
 
 Matching is done by repo name against existing project page filenames.
 
-### Harness Candidate Promotion
+### Harness Candidate Promotion (Stage 1.86 — Freshness-Weighted)
 
-Tasks can have a `promotion_status`: `not_candidate` | `emerging` | `candidate`.
+Tasks can have a `promotion_status`: `not_candidate` | `emerging` | `candidate` | `cooling_down`.
 Promotion is deterministic and bounded by explicit rules in `wiki/_candidate-promotion-rules.md`.
 
-**Stage 1.85 Stricter Criteria:**
+**Stage 1.86 Key Innovation: Freshness-Weighted Promotion**
 
-To become `candidate`, a task must meet ALL of:
-- `occurrence_count >= 5` effective (with cross-NUC bonus of +2 applied: so 3 base + 2 bonus = 5 for cross-NUC tasks; local tasks need 5x base)
+Lifetime `occurrence_count` is preserved for audit only — it does NOT force candidate status.
+Recent evidence is weighted more than historical repetition.
+
+**Recent Evidence Window:**
+- `run_timestamps` array stores the last 5 run timestamps for each task
+- `recent_occurrence_count` = number of runs in the last 5 runs (not lifetime count)
+- Lifetime `occurrence_count` continues to grow but is only for audit/display
+
+**Freshness Bands:**
+
+| Band | Evidence age | Effect |
+|------|--------------|--------|
+| `fresh` | < 24 hours | No penalty |
+| `aging` | 24–72 hours | Soft penalty; candidate requires recent_occ >= 5 |
+| `stale` | > 72 hours | Strong penalty; forces cooling_down if was candidate |
+
+Evidence age is measured by file modification time of the primary evidence path.
+
+**Candidate Criteria (Stage 1.86):**
+- `recent_occurrence_count >= 3` (within last 5 runs)
+- `freshness_band` = `fresh` or `aging` (evidence < 72h old)
 - Severity `medium` or `high`
-- Evidence path verified as a real existing file/directory
-- `dispatch_blocker` is empty or only `advisory_only`
+- Real evidence path exists
+- No hard dispatch blocker
 - Kind is `repo_drift`, `wiki_gap`, or `doc_drift`
 
-Tasks with `occurrence_count` of 2-4 (and real evidence) land in `emerging`.
-Tasks with insufficient persistence, low severity, no real evidence, or blocked kinds are `not_candidate`.
+**Emerging:**
+- `recent_occurrence_count >= 2` with real fresh/aging evidence, but below candidate threshold
+
+**Cooling Down:**
+- Was candidate/emerging but evidence is now `stale` (> 72h old)
+- OR evidence file no longer exists
+
+**Not Candidate:**
+- No real evidence, stale evidence with no recency, excluded kind, or hard dispatcher blocker
 
 **State Transitions:**
-Tasks can move downward (demotion) as well as upward:
-- `not_candidate` → `emerging` → `candidate`
-- `candidate` → `cooling_down` → `resolved` (if evidence weakens)
-
-**Promotion Tracking Fields:**
-Each task tracks: `promotion_first_seen`, `promotion_last_seen`, `promotion_occurrence_count`, `last_promotion_status_change`, `demoted_this_run`.
+- `not_candidate` → `emerging` → `candidate` → `cooling_down` → `resolved`
+- Tasks can move downward (demotion) as well as upward
 
 Candidate tasks are surfaced in:
-- `output/harness_candidates.md` — machine-readable candidate list
-- `output/candidate_review_pack.md` — human-oriented compact review digest for future harness handoff
-- `wiki/_manager-status.md` — listed under "Harness Candidates" section with promotion status
+- `output/harness_candidates.md` — with fresh/aging/stale buckets
+- `output/candidate_review_pack.md` — human review digest with cooling_down section
+- `wiki/_manager-status.md` — counts by promotion status and freshness band
 
-**Stage 1.85 does not dispatch.** Candidate status is recorded but dispatch is blocked by `advisory_only`. Stage 2 will handle actual dispatch.
+**Stage 1.86 does not dispatch.** Candidate status is recorded but dispatch is blocked by `advisory_only`. Stage 2 will handle actual dispatch.
 
 ### Task State Tracking
 

@@ -1,7 +1,7 @@
 # NUC1 Current State
 
 > Category: architecture
-> Updated: 2026-04-09T19:37:03Z
+> Updated: 2026-04-09T20:15:27Z
 > Sources: raw/inbox-nuc1/
 > Status: active
 
@@ -20,12 +20,12 @@
 - _(none detected in this digest)_
 
 ## Open Issues (from todo queue)
-- **[HIGH]** NUC1 repo has uncommitted changes: kb — repo_drift
-- **[HIGH]** NUC1 repo has uncommitted changes: ned-autonomous — repo_drift
-- **[HIGH]** NUC1 repo diverged from remote: Slimefun4 — repo_drift
-- **[HIGH]** NUC1 repo diverged from remote: clawd — repo_drift
-- **[HIGH]** NUC1 repo diverged from remote: slimy-monorepo — repo_drift
-- **[HIGH]** NUC1 KB has uncommitted changes — repo_drift
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: kb — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-autonomous — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: Slimefun4 — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: clawd — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 KB has uncommitted changes — repo_drift (fresh)
 
 <!-- END MACHINE MANAGED -->
 
