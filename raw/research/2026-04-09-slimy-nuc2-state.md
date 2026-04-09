@@ -1,6 +1,6 @@
 # NUC2 State Digest
 
-**Timestamp:** 2026-04-09T17:13:51Z
+**Timestamp:** 2026-04-09T17:45:01Z
 **Host:** slimy-nuc2
 
 ## Systemd User Services
@@ -9,16 +9,16 @@
 
 ## Systemd User Timers
 
-Fri 2026-04-10 02:32:57 UTC   9h Thu 2026-04-09 14:32:57 UTC 2h 40min ago kb-maintenance.timer           kb-maintenance.service
-Fri 2026-04-10 03:09:42 UTC   9h Thu 2026-04-09 15:09:42 UTC  2h 4min ago wiki-manager-stage1.timer      wiki-manager-stage1.service
+Fri 2026-04-10 02:32:57 UTC       8h Thu 2026-04-09 14:32:57 UTC 3h 12min ago kb-maintenance.timer           kb-maintenance.service
+Fri 2026-04-10 03:09:42 UTC       9h Thu 2026-04-09 15:09:42 UTC 2h 35min ago wiki-manager-stage1.timer      wiki-manager-stage1.service
 
 ## KB Maintenance Timer
 
-Fri 2026-04-10 02:32:57 UTC   9h Thu 2026-04-09 14:32:57 UTC 2h 40min ago kb-maintenance.timer           kb-maintenance.service
+Fri 2026-04-10 02:32:57 UTC       8h Thu 2026-04-09 14:32:57 UTC 3h 12min ago kb-maintenance.timer           kb-maintenance.service
 
 ## Active PM2 Processes
 
-│ 0  │ obsidian-headless-sync    │ default     │ N/A     │ fork    │ 169392   │ 31h    │ 0    │ online    │ 0%       │ 83.2mb   │ slimy    │ disabled │
+│ 0  │ obsidian-headless-sync    │ default     │ N/A     │ fork    │ 169392   │ 32h    │ 0    │ online    │ 0%       │ 83.2mb   │ slimy    │ disabled │
 
 ## Network Listening Ports (KB-relevant)
 
@@ -41,18 +41,26 @@ LISTEN 0      511                          [::1]:18790         [::]:*    users:(
 
 ## Disk Usage (KB-relevant paths)
 
-7.9M	/home/slimy/kb
+8.1M	/home/slimy/kb
 36G	/home/slimy
 - /home/slimy: (unable to measure)
 
 ## Uptime
 
- 17:13:54 up 3 days, 18:06,  2 users,  load average: 0.80, 0.37, 0.24
+ 17:45:04 up 3 days, 18:38,  2 users,  load average: 1.10, 0.77, 0.46
 
 ## KB Git Status
 
+ M output/todo_history.json
+ M output/todo_queue.json
+ M output/todo_queue.md
  M raw/research/2026-04-09-slimy-nuc2-state.md
  M tools/wiki_manager_stage1.py
+ M wiki/_manager-status.md
+ M wiki/architecture/nuc1-current-state.md
+ M wiki/architecture/nuc2-current-state.md
+ M wiki/projects/clawd-agent-rules.md
+ M wiki/projects/ned-autonomous.md
 - ahead: 0
 - behind: 0
 
@@ -68,4 +76,4 @@ LISTEN 0      511                          [::1]:18790         [::]:*    users:(
 ## Vault Sync Status
 
 │ status            │ online                                                            │
-│ uptime            │ 31h                                                               │
+│ uptime            │ 32h                                                               │

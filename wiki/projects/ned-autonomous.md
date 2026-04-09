@@ -34,6 +34,25 @@ ned-clawd (cron) → register-agents.sh → registers workspace agents with gate
 - ned-clawd scripts (cron-driven) handle agent registration, heartbeat, watchdog, and lifecycle
 - Both are required for full autonomous operation
 
+<!-- BEGIN MACHINE MANAGED — Do not edit manually -->
+
+**Last updated:** 2026-04-09T17:45:04Z
+**NUC1 status:** DIRTY, synced
+**NUC1 commit:** `fb5ff79` — chore: auto-sync 2026-04-07
+**Branch:** main
+
+### Open Issues
+- **[HIGH]** NUC1 repo has uncommitted changes: ned-autonomous (repo_drift, 15x)
+
+### Evidence
+- `raw/inbox-nuc1/`
+
+### Related Pages
+- [Repo Health Overview](./_project-health-index.md)
+- [NUC1 Current State](../architecture/nuc1-current-state.md)
+
+<!-- END MACHINE MANAGED -->
+
 ## See Also
 - [Clawd Workspace Governance](clawd-workspace-governance.md)
 - [OpenCLAW Agents](openclaw-agents.md)

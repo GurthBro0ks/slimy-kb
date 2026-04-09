@@ -77,6 +77,25 @@ systemctl --user status slimy-web.service
 - `NEXT_PUBLIC_TRADER_ADAPTER` — "mock" (default) or "http"
 - `NEXT_PUBLIC_TRADER_API_BASE` — API base URL when using http adapter
 
+<!-- BEGIN MACHINE MANAGED — Do not edit manually -->
+
+**Last updated:** 2026-04-09T17:45:04Z
+**NUC1 status:** clean, DIVERGED
+**NUC1 commit:** `f645f60` — docs: auto-sync project docs from slimy-nuc1 2026-04-09
+**Branch:** detached
+
+### Open Issues
+- **[HIGH]** NUC1 repo diverged from remote: slimy-monorepo (repo_drift, 15x)
+
+### Evidence
+- `raw/inbox-nuc1/`
+
+### Related Pages
+- [Repo Health Overview](./_project-health-index.md)
+- [NUC1 Current State](../architecture/nuc1-current-state.md)
+
+<!-- END MACHINE MANAGED -->
+
 ## See Also
 - [Slimy Web](slimy-web.md)
 - [SlimyAI Login and Session Flow](../architecture/slimyai-login-and-session-flow.md)

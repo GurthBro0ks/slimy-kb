@@ -1,17 +1,17 @@
 # NUC2 Current State
 
 > Category: architecture
-> Updated: 2026-04-09T17:13:55Z
+> Updated: 2026-04-09T17:45:04Z
 > Status: active
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc2
-- **Last updated:** 2026-04-09T17:13:55Z
+- **Last updated:** 2026-04-09T17:45:04Z
 
 ## Active Services
-- │ 0  │ obsidian-headless-sync    │ default     │ N/A     │ fork    │ 169392   │ 31h    │ 0    │ online    │ 0%       │ 83.2mb   │ slimy    │ disabled │
+- │ 0  │ obsidian-headless-sync    │ default     │ N/A     │ fork    │ 169392   │ 32h    │ 0    │ online    │ 0%       │ 83.2mb   │ slimy    │ disabled │
 
 ## Network Ports
 - `LISTEN 0      511                        0.0.0.0:3838       0.0.0.0:*    users:(("next-server (v1",pid=1731,fd=21))`

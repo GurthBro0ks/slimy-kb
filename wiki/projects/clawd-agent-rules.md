@@ -70,6 +70,25 @@ Lesson: [what to update]
 ## Proof Gate
 All task results MUST pass through the proof gate before being written to results or reported.
 
+<!-- BEGIN MACHINE MANAGED — Do not edit manually -->
+
+**Last updated:** 2026-04-09T17:45:04Z
+**NUC1 status:** clean, DIVERGED
+**NUC1 commit:** `f6b8e43` — docs: auto-sync project docs from slimy-nuc1 2026-04-09
+**Branch:** master
+
+### Open Issues
+- **[HIGH]** NUC1 repo diverged from remote: clawd (repo_drift, 15x)
+
+### Evidence
+- `raw/inbox-nuc1/`
+
+### Related Pages
+- [Repo Health Overview](./_project-health-index.md)
+- [NUC1 Current State](../architecture/nuc1-current-state.md)
+
+<!-- END MACHINE MANAGED -->
+
 ## See Also
 - [Session Closeout Pattern](../patterns/session-closeout-pattern.md)
 - [Agent Session Contract](../concepts/agent-session-contract.md)
