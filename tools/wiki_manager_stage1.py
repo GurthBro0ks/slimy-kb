@@ -1,21 +1,22 @@
 #!/usr/bin/env python3
 """
-wiki_manager_stage1.py — Stage 1.8 todo queue generator + stable wiki pages.
+wiki_manager_stage1.py — Stage 1.85 todo queue generator + stable wiki pages.
 
-Stage 1.8 adds:
-- Project-page filing: updates matching wiki/projects/*.md pages with machine-managed status blocks
-- Project health index: wiki/projects/_project-health-index.md
-- Harness candidate promotion rules: wiki/_candidate-promotion-rules.md
-- Enhanced harness_candidates.md with richer per-candidate fields
-- Promotion fields in todo queue (promotion_status, promotion_reason, dispatch_blocker)
-- Noise control: bounded growth, deterministic machine-managed sections
-- Stage 1.8 is still advisory only: does NOT dispatch harness jobs.
+Stage 1.85 changes (from 1.8):
+- Refined candidate promotion: stricter criteria to end over-promotion
+- Demotion/maturity rules: tasks can move not_candidate → emerging → candidate → cooling_down → resolved
+- Promotion tracking fields: promotion_first_seen, promotion_last_seen,
+  promotion_occurrence_count, last_promotion_status_change
+- Candidate review pack: output/candidate_review_pack.md (human-oriented compact digest)
+- Noise control: no rewrite if no material change, bounded history, stable outputs
+- Stage 1.85 is still advisory only: does NOT dispatch harness jobs.
 """
 import json
 import sys
 import os
 import argparse
 import re
+import hashlib
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
@@ -34,17 +35,30 @@ WIKI_ARCH_DIR = Path("/home/slimy/kb/wiki/architecture")
 CANDIDATE_RULES_PAGE = Path("/home/slimy/kb/wiki/_candidate-promotion-rules.md")
 PROJECT_HEALTH_INDEX = WIKI_PROJ_DIR / "_project-health-index.md"
 HARNESS_CANDIDATES_MD = OUTPUT_DIR / "harness_candidates.md"
+CANDIDATE_REVIEW_PACK = OUTPUT_DIR / "candidate_review_pack.md"
 
 # History retention
 HISTORY_RETENTION_RUNS = 10
 HISTORY_RETENTION_DAYS = 30
 
-# Promotion thresholds
-PROMOTION_MIN_OCCURRENCES = 3      # task must persist N times before becoming candidate
-PROMOTION_CROSS_NUC_BONUS = 2     # cross-NUC evidence counts as extra occurrences
+# ── Promotion thresholds (Stage 1.85 — much stricter) ───────────────────────
+# A task needs BOTH persistence AND quality signals to become candidate.
+PROMOTION_MIN_OCCURRENCES = 3       # base persistence threshold
+PROMOTION_CROSS_NUC_BONUS = 2       # cross-NUC bonus added to effective count
+# Strong candidate requires: occurrence_count >= 5 (or 3+2 cross-NUC bonus = 5)
+STRICT_CANDIDATE_MIN = 5            # hard floor for candidate (with cross-NUC bonus applied)
+# Emerging: 2-4 occurrences with evidence
+EMERGING_MIN = 2
+EMERGING_MAX = 4
+# Must have severity >= medium (not low) to be candidate
+# Must have a specific evidence path referencing a real file
+# dispatch_blocker must not be a hard blocker
+
+ALLOWED_PROMOTION_KINDS = {"repo_drift", "wiki_gap", "doc_drift"}
+BLOCKED_PROMOTION_KINDS = {"investigate", "harness_candidate"}
 
 
-# ── Parsing helpers ──────────────────────────────────────────────────────────
+# ── Parsing helpers ───────────────────────────────────────────────────────────
 
 def parse_orphans(content: str) -> list[str]:
     if not content:
@@ -134,16 +148,37 @@ def parse_nuc1_markdown(content: str) -> dict:
     return result
 
 
+# ── Evidence verification ────────────────────────────────────────────────────
+
+def evidence_path_is_real(path: str) -> bool:
+    """Check if an evidence path actually exists in the KB."""
+    if not path:
+        return False
+    # Resolve path against the KB base directory
+    # Paths may be: raw/inbox-nuc1/, wiki/_orphans.md, /home/slimy/kb/raw/...
+    # Strip /home/slimy/kb/ prefix if present, then re-join
+    rel_path = path
+    for prefix in ("/home/slimy/kb/", "/home/slimy/kb"):
+        if rel_path.startswith(prefix):
+            rel_path = rel_path[len(prefix):]
+            break
+    full_path = Path(f"/home/slimy/kb/{rel_path}")
+    return full_path.exists()
+
+
+def has_real_evidence(task: dict) -> bool:
+    """Task has at least one evidence path that points to a real file/dir."""
+    for ep in task.get("evidence_paths", []):
+        if evidence_path_is_real(ep):
+            return True
+    return False
+
+
 # ── Project-page matching ─────────────────────────────────────────────────────
 
 def find_project_page(repo_name: str) -> Optional[Path]:
-    """
-    Find a wiki/projects/*.md page that corresponds to the given repo name.
-    Matches by normalized name (lowercase, hyphens/underscores normalized).
-    """
     if not repo_name or not WIKI_PROJ_DIR.exists():
         return None
-
     normalized = re.sub(r"[-_]", "", repo_name.lower())
     for page_path in WIKI_PROJ_DIR.glob("*.md"):
         if page_path.name.startswith("_"):
@@ -155,75 +190,50 @@ def find_project_page(repo_name: str) -> Optional[Path]:
 
 
 def get_project_page_name(repo_name: str) -> str:
-    """Get the display name for a repo."""
     return repo_name.replace("-", " ").replace("_", " ").title()
 
 
 def get_machine_managed_block(content: str) -> tuple[str, str]:
-    """
-    Extract the existing machine-managed block content and the rest.
-    Returns (machine_block_content, rest_of_file).
-    If no block found, returns ('', full_content).
-    """
     begin_marker = "<!-- BEGIN MACHINE MANAGED"
     end_marker = "<!-- END MACHINE MANAGED -->"
-
     begin_idx = content.find(begin_marker)
     end_idx = content.find(end_marker)
-
     if begin_idx == -1 or end_idx == -1:
         return "", content
-
     block_content = content[begin_idx + len(begin_marker):end_idx]
     before = content[:begin_idx]
     after = content[end_idx + len(end_marker):]
     rest = before + after
-
     return block_content.strip(), rest
 
 
 def update_project_page(page_path: Path, repo_name: str, status_block: str, todos: list[dict]) -> bool:
-    """
-    Update a project page with a machine-managed status block.
-    Preserves human-written content outside the MACHINE MANAGED markers.
-    Returns True if page was modified, False if skipped (no material change).
-    """
     if not page_path.exists():
         return False
-
     existing = page_path.read_text()
-
     begin_marker = f"<!-- BEGIN MACHINE MANAGED — Do not edit manually -->"
     end_marker = "<!-- END MACHINE MANAGED -->"
-
-    # Check if block already exists and matches
     existing_block_match = re.search(
         r'<!-- BEGIN MACHINE MANAGED — Do not edit manually -->.*?<!-- END MACHINE MANAGED -->',
         existing, re.DOTALL
     )
     new_block = f"{begin_marker}\n\n{status_block}\n\n{end_marker}"
-
     if existing_block_match:
         if existing_block_match.group(0) == new_block:
-            return False  # no change
+            return False
         new_content = existing[:existing_block_match.start()] + new_block + existing[existing_block_match.end():]
     else:
-        # Append before any "## See Also" or at end
         see_also_match = re.search(r'\n## See Also', existing)
         if see_also_match:
             new_content = existing[:see_also_match.start()] + "\n" + new_block + "\n" + existing[see_also_match.start():]
         else:
             new_content = existing.rstrip() + "\n\n" + new_block + "\n"
-
     page_path.write_text(new_content)
     return True
 
 
 def build_project_status_block(repo_name: str, nuc1_json: dict, todos: list[dict], all_repos) -> str:
-    """Build the machine-managed status block for a project page."""
     lines = []
-
-    # Find repo data — repos can be list of strings or list of dicts
     repo_data = None
     for r in all_repos:
         if isinstance(r, dict) and r.get("name") == repo_name:
@@ -232,15 +242,10 @@ def build_project_status_block(repo_name: str, nuc1_json: dict, todos: list[dict
         elif isinstance(r, str) and r == repo_name:
             repo_data = {"name": r}
             break
-
-    # Current timestamp
     lines.append(f"**Last updated:** {TIMESTAMP}")
-
-    # Repo health from NUC1 digest
     dirty = repo_name in nuc1_json.get("dirty_repos", [])
     diverged = repo_name in nuc1_json.get("diverged_repos", [])
     nuc1_repos = nuc1_json.get("repos", [])
-
     if repo_data:
         lines.append(f"**NUC1 status:** {'DIRTY' if dirty else 'clean'}, {'DIVERGED' if diverged else 'synced'}")
         commit = (repo_data.get("commit_hash") or "unknown")[:7]
@@ -250,8 +255,6 @@ def build_project_status_block(repo_name: str, nuc1_json: dict, todos: list[dict
         lines.append(f"**Branch:** {branch}")
     elif nuc1_repos and not repo_data:
         lines.append(f"**NUC1 status:** in digest but no detail available")
-
-    # Find relevant todos for this project
     project_todos = [t for t in todos if t.get("project", "").lower() == repo_name.lower()]
     if project_todos:
         lines.append("")
@@ -260,30 +263,25 @@ def build_project_status_block(repo_name: str, nuc1_json: dict, todos: list[dict
             sev = t.get("severity", "?").upper()
             kind = t.get("kind", "?")
             occ = t.get("occurrence_count", 1)
-            lines.append(f"- **[{sev}]** {t['title']} ({kind}, {occ}x)")
+            prom = t.get("promotion_status", "?")
+            lines.append(f"- **[{sev}/{prom}]** {t['title']} ({kind}, {occ}x)")
     else:
         lines.append(f"**Open issues:** none in current queue")
-
-    # Evidence paths
     if project_todos and project_todos[0].get("evidence_paths"):
         lines.append("")
         lines.append("### Evidence")
         for ep in project_todos[0].get("evidence_paths", []):
             lines.append(f"- `{ep}`")
-
-    # Related pages
     lines.append("")
     lines.append("### Related Pages")
     lines.append(f"- [Repo Health Overview](./_project-health-index.md)")
     lines.append(f"- [NUC1 Current State](../architecture/nuc1-current-state.md)")
-
     return "\n".join(lines)
 
 
 # ── Project health index ──────────────────────────────────────────────────────
 
 def build_project_health_index(nuc1_json: dict, todos: list[dict], updated_pages: list[str]) -> str:
-    """Build the _project-health-index.md content."""
     lines = []
     lines.append("# Project Health Index")
     lines.append("")
@@ -293,9 +291,6 @@ def build_project_health_index(nuc1_json: dict, todos: list[dict], updated_pages
     lines.append("")
     lines.append("<!-- BEGIN MACHINE MANAGED — Do not edit manually -->")
     lines.append("")
-
-    # Which repos appear in NUC1 digest
-    # repos can be list of strings (from parse_nuc1_json) or list of dicts (from raw JSON)
     raw_repos = nuc1_json.get("repos", [])
     nuc1_repo_names = []
     for r in raw_repos:
@@ -303,15 +298,11 @@ def build_project_health_index(nuc1_json: dict, todos: list[dict], updated_pages
             nuc1_repo_names.append(r.get("name", ""))
         elif isinstance(r, str):
             nuc1_repo_names.append(r)
-
-    # Which project pages exist
     existing_pages = {}
     if WIKI_PROJ_DIR.exists():
         for p in WIKI_PROJ_DIR.glob("*.md"):
             if not p.name.startswith("_"):
                 existing_pages[p.stem.lower()] = p.name
-
-    # Categorize repos
     covered_repos = []
     uncovered_repos = []
     for name in nuc1_repo_names:
@@ -320,14 +311,11 @@ def build_project_health_index(nuc1_json: dict, todos: list[dict], updated_pages
             covered_repos.append((name, page.name))
         else:
             uncovered_repos.append(name)
-
-    # Counts
     dirty = nuc1_json.get("dirty_repos", [])
     diverged = nuc1_json.get("diverged_repos", [])
     dirty_count = len(dirty)
     diverged_count = len(diverged)
     clean_count = len(nuc1_repo_names) - dirty_count - diverged_count
-
     lines.append("## Summary")
     lines.append("")
     lines.append(f"- NUC1 repos tracked: {len(nuc1_repo_names)}")
@@ -337,16 +325,12 @@ def build_project_health_index(nuc1_json: dict, todos: list[dict], updated_pages
     lines.append(f"- Diverged (ahead + behind): {diverged_count}")
     lines.append(f"- Clean: {clean_count}")
     lines.append("")
-
-    # Pages updated this run
     if updated_pages:
         lines.append("## Pages Updated This Run")
         lines.append("")
         for pg in updated_pages:
             lines.append(f"- {pg}")
         lines.append("")
-
-    # Repos with project pages
     if covered_repos:
         lines.append("## Covered Repos (have project pages)")
         lines.append("")
@@ -359,8 +343,6 @@ def build_project_health_index(nuc1_json: dict, todos: list[dict], updated_pages
             status_str = ", ".join(status_parts) if status_parts else "clean"
             lines.append(f"- **{name}** → `{page_name}` — {status_str}")
         lines.append("")
-
-    # Repos without project pages
     if uncovered_repos:
         lines.append("## Uncovered Repos (no matching project page)")
         lines.append("")
@@ -373,8 +355,6 @@ def build_project_health_index(nuc1_json: dict, todos: list[dict], updated_pages
             status_str = ", ".join(status_parts) if status_parts else "clean"
             lines.append(f"- **{name}** — {status_str}")
         lines.append("")
-
-    # Repo health table
     if nuc1_repo_names:
         lines.append("## NUC1 Repo Health Table")
         lines.append("")
@@ -385,7 +365,6 @@ def build_project_health_index(nuc1_json: dict, todos: list[dict], updated_pages
             is_diverged = "⚠️ DIVERGED" if name in diverged else "—"
             lines.append(f"| {name} | {is_dirty} | {is_diverged} |")
         lines.append("")
-
     lines.append("<!-- END MACHINE MANAGED -->")
     lines.append("")
     lines.append("## Human Notes")
@@ -396,13 +375,12 @@ def build_project_health_index(nuc1_json: dict, todos: list[dict], updated_pages
     lines.append("- [Repo Health Overview](./repo-health-overview.md)")
     lines.append("- [NUC1 Current State](../architecture/nuc1-current-state.md)")
     lines.append("- [NUC2 Current State](../architecture/nuc2-current-state.md)")
-
     return "\n".join(lines)
 
 
-# ── Candidate promotion rules ─────────────────────────────────────────────────
+# ── Promotion rules content ───────────────────────────────────────────────────
 
-PROMOTION_RULES_CONTENT = """# Harness Candidate Promotion Rules
+CANDIDATE_RULES_CONTENT_185 = """# Harness Candidate Promotion Rules
 
 > Category: concepts
 > Updated: _TS_PLACEHOLDER_
@@ -412,81 +390,99 @@ PROMOTION_RULES_CONTENT = """# Harness Candidate Promotion Rules
 
 ## Overview
 
-A task becomes a **harness candidate** when it meets explicit, bounded criteria. This page defines those criteria so promotion is deterministic and auditable.
+Stage 1.85 introduces stricter promotion criteria to end over-promotion. Tasks must now demonstrate **both persistence AND quality signals** before becoming a harness candidate. Tasks can also move downward (demotion) as well as upward.
 
 ## Promotion Statuses
 
 | Status | Meaning |
 |--------|---------|
-| `not_candidate` | Default — task is tracked but does not yet qualify |
-| `emerging` | Task has some signals but does not yet meet all criteria |
-| `candidate` | Task meets all promotion criteria — ready for harness dispatch consideration |
+| `not_candidate` | Default — tracked but does not yet qualify |
+| `emerging` | Has some signals but not all criteria met |
+| `candidate` | Meets all criteria — ready for harness dispatch consideration |
+| `cooling_down` | Was candidate but evidence has weakened |
+| `resolved` | No longer present in current queue |
 
-## Bounded Promotion Criteria
+## State Transitions
+
+```
+not_candidate → emerging → candidate → cooling_down → resolved
+     ↑            ↑           ↑            ↓
+     └─────────────┴───────────┴────────────┘  (demotion paths)
+```
+
+A task can be demoted if its evidence degrades (e.g., occurrence_count drops below threshold,
+evidence path becomes stale, severity drops).
+
+## Bounded Promotion Criteria (Stage 1.85 — Stricter)
 
 A task is promoted to `candidate` when **ALL** of the following are true:
 
-### 1. Persistence Threshold
-- Task must have `occurrence_count >= {min_occ}` in the todo history
-- Cross-NUC evidence adds a bonus of +{cnc_bonus} to the effective occurrence count for this check
+### 1. Hard Persistence Floor
+- `occurrence_count >= 5` (with cross-NUC bonus of +2 applied: so 3 base occurrences + 2 cross-NUC bonus = 5)
+- OR `occurrence_count >= 5` without bonus for local NUC2 tasks
+- Tasks at exactly 3-4 occurrences (or 3+2=5 with bonus) land in `emerging`
 
 ### 2. Evidence Quality
-- Task must have at least one `evidence_path` in the todo record
-- Evidence must reference a real file or directory in `raw/` or `wiki/`
+- Task must have at least one `evidence_path` pointing to a **real existing file or directory**
+- Evidence paths are verified at promotion time
 
 ### 3. Severity Floor
-- Task severity must be `medium` or `high` (not `low`)
-- OR task must be `persisting` with `occurrence_count >= {min_occ} * 2`
+- Severity must be `medium` or `high`
+- Tasks with `low` severity can only reach `emerging` at best
 
-### 4. No Active Dispatch Blocker
+### 4. No Hard Dispatch Blocker
 - `dispatch_blocker` must be empty OR only `"advisory_only"`
-- advisory_only is a system-level blocker indicating Stage 1.x does not dispatch — this does not prevent candidate status
+- Any other blocker (e.g., `needs_review`, `cross_nuc_coordination`) prevents promotion
 
 ### 5. Kind Allowlist
-- Only these kinds are eligible for promotion: `repo_drift`, `wiki_gap`, `doc_drift`
-- `investigate` and `harness_candidate` kinds are excluded from promotion
+- Only `repo_drift`, `wiki_gap`, `doc_drift` are eligible
+- `investigate` and `harness_candidate` kinds are permanently excluded
 
 ## Promotion Reasons
 
-When a task is promoted, `promotion_reason` is set to one of:
+- `cross_nuc_conflict` — cross-NUC evidence, persistent (>=5 eff. occurrences)
+- `persistent_drift` — repo drift with high severity, >=5 occurrences
+- `repeated_gap` — wiki gap persisting >=5 times with medium+ severity
 
-- `persistent_drift` — task is repo/wiki drift that has persisted >= {min_occ} times
-- `cross_nuc_conflict` — cross-NUC KB or repo conflict with >= 2 occurrences
-- `repeated_gap` — wiki gap persisting >= {min_occ} * 2 times
+## Demotion Signals
+
+A task is demoted when:
+- `occurrence_count` drops (if previously candidate but now resolved)
+- Evidence path becomes stale or unavailable
+- Severity drops below `medium`
+- A hard dispatch blocker is added
 
 ## Dispatch Blockers
 
-Even candidate tasks may have dispatch blockers:
+| Blocker | Blocks promotion? | Auto-clear? |
+|--------|------------------|-------------|
+| _(empty)_ | No | N/A |
+| `advisory_only` | No (stage gate only) | Yes — cleared in Stage 2 |
+| `needs_review` | Yes | No — manual clear |
+| `cross_nuc_coordination` | Yes | No — manual clear |
 
-| Blocker | Meaning | Auto-clear? |
-|---------|---------|-------------|
-| _(empty)_ | No blocker — go ahead if severity warrants | N/A |
-| `advisory_only` | Stage 1.x does not dispatch | Yes — cleared in Stage 2 |
-| `needs_review` | Human review required before dispatch | No — manual clear |
-| `cross_nuc_coordination` | Needs coordination with other NUC | No — manual clear |
+## Stage 1.85 Boundary
 
-## Stage 1.8 Boundary
-
-Stage 1.8 does NOT dispatch harness jobs. Candidate status is recorded but dispatch is blocked by `advisory_only`. Stage 2 will handle actual dispatch.
+Stage 1.85 does NOT dispatch harness jobs. Candidate status is advisory only, dispatch blocked by `advisory_only`.
 
 <!-- END MACHINE MANAGED -->
 
 ## Human Notes
 
 <!-- Add notes here -->
-""".format(min_occ=PROMOTION_MIN_OCCURRENCES, cnc_bonus=PROMOTION_CROSS_NUC_BONUS)
+"""
 
 
 # ── History management ───────────────────────────────────────────────────────
 
 def load_history() -> dict:
     if not TODO_HISTORY.exists():
-        return {"version": 1, "updated_at": "", "tasks": []}
+        return {"version": 2, "updated_at": "", "tasks": []}
     try:
         with open(TODO_HISTORY) as f:
             return json.load(f)
     except (json.JSONDecodeError, IOError):
-        return {"version": 1, "updated_at": "", "tasks": []}
+        return {"version": 2, "updated_at": "", "tasks": []}
 
 
 def task_key(task: dict) -> str:
@@ -507,7 +503,6 @@ def prune_history(history: dict) -> dict:
     cutoff = datetime.strptime(TIMESTAMP[:10], "%Y-%m-%d").replace(tzinfo=timezone.utc)
     from datetime import timedelta
     cutoff_30d = cutoff - timedelta(days=HISTORY_RETENTION_DAYS)
-
     kept = []
     for entry in history.get("tasks", []):
         last_seen = entry.get("last_seen", "")
@@ -529,7 +524,6 @@ def update_history(new_tasks: list[dict]) -> tuple[dict, dict]:
     history = prune_history(history)
     state_map = {}
     now = TIMESTAMP
-
     existing = {e["task_key"]: e for e in history["tasks"]}
 
     for task in new_tasks:
@@ -543,18 +537,35 @@ def update_history(new_tasks: list[dict]) -> tuple[dict, dict]:
             task["first_seen"] = entry.get("first_seen", now)
             task["occurrence_count"] = entry["occurrence_count"]
             task["state"] = "persisting"
+            # Carry forward promotion tracking
+            task["promotion_first_seen"] = entry.get("promotion_first_seen", now)
+            task["promotion_last_seen"] = entry.get("promotion_last_seen", now)
+            task["promotion_occurrence_count"] = entry.get("promotion_occurrence_count", 0) + 1
+            task["last_promotion_status_change"] = entry.get("last_promotion_status_change", now)
+            task["prior_promotion_status"] = entry.get("last_known_promotion_status", "not_candidate")
             state_map[key] = "persisting"
         else:
-            history["tasks"].append({
+            hist_entry = {
                 "task_key": key,
                 "first_seen": now,
                 "last_seen": now,
                 "occurrence_count": 1,
-                "state": "new"
-            })
+                "state": "new",
+                "promotion_first_seen": None,
+                "promotion_last_seen": None,
+                "promotion_occurrence_count": 0,
+                "last_promotion_status_change": now,
+                "last_known_promotion_status": "not_candidate",
+            }
+            history["tasks"].append(hist_entry)
             task["first_seen"] = now
             task["occurrence_count"] = 1
             task["state"] = "new"
+            task["promotion_first_seen"] = None
+            task["promotion_last_seen"] = None
+            task["promotion_occurrence_count"] = 0
+            task["last_promotion_status_change"] = now
+            task["prior_promotion_status"] = "not_candidate"
             state_map[key] = "new"
 
     new_keys = {task_key(t) for t in new_tasks}
@@ -566,7 +577,7 @@ def update_history(new_tasks: list[dict]) -> tuple[dict, dict]:
     return history, state_map
 
 
-# ── Severity heuristics ──────────────────────────────────────────────────────
+# ── Severity heuristics ───────────────────────────────────────────────────────
 
 def compute_severity(task: dict, nuc1_evidence: dict, occurrence_count: int = 1) -> str:
     kind = task.get("kind", "")
@@ -589,16 +600,14 @@ def compute_severity(task: dict, nuc1_evidence: dict, occurrence_count: int = 1)
     return ["low", "medium", "high"][min(severity, 2)]
 
 
-# ── Promotion ────────────────────────────────────────────────────────────────
+# ── Promotion (Stage 1.85 — strict) ──────────────────────────────────────────
 
-ALLOWED_PROMOTION_KINDS = {"repo_drift", "wiki_gap", "doc_drift"}
-BLOCKED_PROMOTION_KINDS = {"investigate", "harness_candidate"}
-
-
-def compute_promotion(task: dict, history_entry: dict) -> tuple[str, str]:
+def compute_promotion_185(task: dict, history_entry: dict) -> tuple[str, str, bool]:
     """
-    Determine promotion status for a task.
-    Returns (promotion_status, promotion_reason).
+    Stage 1.85 promotion logic.
+    Returns (promotion_status, promotion_reason, demoted_this_run).
+    demoted_this_run is True if the task was previously candidate/emerging
+    but is now not_candidate/emerging due to evidence weakening.
     """
     kind = task.get("kind", "")
     occurrence_count = task.get("occurrence_count", 1)
@@ -606,42 +615,74 @@ def compute_promotion(task: dict, history_entry: dict) -> tuple[str, str]:
     severity = task.get("severity", "low")
     evidence_paths = task.get("evidence_paths", [])
     dispatch_blocker = task.get("dispatch_blocker", "")
+    prior_status = task.get("prior_promotion_status", "not_candidate")
+
+    # Check evidence path exists
+    real_evidence = has_real_evidence(task)
 
     # Kind check
     if kind in BLOCKED_PROMOTION_KINDS:
-        return "not_candidate", "kind_excluded"
+        reason = "kind_excluded"
+        new_status = "not_candidate"
+        demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
+        return new_status, reason, demoted
+
     if kind not in ALLOWED_PROMOTION_KINDS:
-        return "not_candidate", "kind_not_allowed"
+        reason = "kind_not_allowed"
+        new_status = "not_candidate"
+        demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
+        return new_status, reason, demoted
 
-    # Evidence check
-    if not evidence_paths:
-        return "not_candidate", "no_evidence"
+    # Evidence check — needs real evidence
+    if not evidence_paths or not real_evidence:
+        reason = "no_evidence" if not evidence_paths else "stale_evidence"
+        new_status = "not_candidate"
+        demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
+        return new_status, reason, demoted
 
-    # Dispatch blocker check (only advisory_only is acceptable)
+    # Hard dispatch blocker check
     if dispatch_blocker and dispatch_blocker not in ("advisory_only", ""):
-        return "not_candidate", f"dispatch_blocker:{dispatch_blocker}"
+        reason = f"dispatch_blocker:{dispatch_blocker}"
+        new_status = "not_candidate"
+        demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
+        return new_status, reason, demoted
 
-    # Cross-NUC bonus
+    # Compute effective occurrences (with cross-NUC bonus)
     effective_occ = occurrence_count
     if source_scope == "cross_nuc":
         effective_occ += PROMOTION_CROSS_NUC_BONUS
 
-    # Persistence threshold check
-    if effective_occ >= PROMOTION_MIN_OCCURRENCES:
-        # Severity floor
-        if severity in ("medium", "high"):
-            reason = "persistent_drift" if kind == "repo_drift" else "repeated_gap"
-            if source_scope == "cross_nuc":
-                reason = "cross_nuc_conflict"
-            return "candidate", reason
-        elif occurrence_count >= PROMOTION_MIN_OCCURRENCES * 2:
-            return "candidate", "persistent_drift"
+    # ── Candidate check ──
+    # Must have severity >= medium AND (occurrence >= STRICT_CANDIDATE_MIN OR effective >= STRICT_CANDIDATE_MIN)
+    # STRICT_CANDIDATE_MIN = 5 means: local tasks need 5x persistence;
+    # cross-NUC tasks need 3 base + 2 bonus = 5 effective
+    if severity in ("medium", "high") and effective_occ >= STRICT_CANDIDATE_MIN:
+        reason = "cross_nuc_conflict" if source_scope == "cross_nuc" else ("persistent_drift" if kind == "repo_drift" else "repeated_gap")
+        new_status = "candidate"
+        demoted = False
+        return new_status, reason, demoted
 
-    # Emerging: has evidence and some persistence but not enough for candidate
-    if evidence_paths and occurrence_count >= 2:
-        return "emerging", "insufficient_persistence"
+    # ── Emerging check ──
+    # Has evidence + real evidence + some persistence (2-4 base occurrences)
+    # OR severity is low but occurrence >= EMERGING_MIN
+    if real_evidence and occurrence_count >= EMERGING_MIN and occurrence_count <= EMERGING_MAX:
+        reason = "insufficient_persistence"
+        new_status = "emerging"
+        demoted = False
+        return new_status, reason, demoted
 
-    return "not_candidate", "does_not_meet_criteria"
+    # ── Low persistence / weak evidence → not_candidate ──
+    if occurrence_count < EMERGING_MIN:
+        reason = "insufficient_persistence"
+        new_status = "not_candidate"
+        demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
+        return new_status, reason, demoted
+
+    # Fallback
+    reason = "does_not_meet_criteria"
+    new_status = "not_candidate"
+    demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
+    return new_status, reason, demoted
 
 
 # ── Build todos ─────────────────────────────────────────────────────────────
@@ -670,9 +711,9 @@ def build_todos(orphans, weak_links, nuc1_json, nuc1_md, backend, model) -> tupl
             "notes": notes,
             "source_scope": source_scope,
             "dispatch_blocker": "" if safe else "advisory_only",
-            # Promotion fields — filled in after history merge
             "promotion_status": "not_candidate",
             "promotion_reason": "",
+            "demoted_this_run": False,
         })
         task_id += 1
 
@@ -685,7 +726,6 @@ def build_todos(orphans, weak_links, nuc1_json, nuc1_md, backend, model) -> tupl
 
     nuc1_used = bool(nuc1.get("repos") or nuc1_md_parsed.get("active_services"))
 
-    # NUC1-based tasks
     if nuc1_used:
         dirty = nuc1.get("dirty_repos", [])
         if dirty:
@@ -782,7 +822,6 @@ def build_todos(orphans, weak_links, nuc1_json, nuc1_md, backend, model) -> tupl
             source_scope="cross_nuc"
         )
 
-    # Stub fallback
     if not todos:
         todos.append({
             "id": f"todo-{DATE}-001",
@@ -802,18 +841,19 @@ def build_todos(orphans, weak_links, nuc1_json, nuc1_md, backend, model) -> tupl
             "dispatch_blocker": "advisory_only",
             "promotion_status": "not_candidate",
             "promotion_reason": "investigate_kind_excluded",
+            "demoted_this_run": False,
         })
 
     return todos, nuc1
 
 
-# ── Markdown generation ────────────────────────────────────────────────────
+# ── Markdown generation ──────────────────────────────────────────────────────
 
 def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
     lines = []
     lines.append(f"# Todo Queue — {TIMESTAMP}")
     lines.append("")
-    lines.append(f"**Generated by:** wiki_manager_stage1.py (Stage 1.8)")
+    lines.append(f"**Generated by:** wiki_manager_stage1.py (Stage 1.85)")
     lines.append(f"**Backend:** {backend}")
     lines.append(f"**Host:** {HOST}")
     lines.append(f"**NUC1 evidence consumed:** {'YES' if nuc1_used else 'NO'}")
@@ -824,7 +864,7 @@ def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
     by_severity = {}
     by_kind = {}
     by_state = {"new": [], "persisting": [], "resolved": []}
-    by_promotion = {"candidate": [], "emerging": [], "not_candidate": []}
+    by_promotion = {"candidate": [], "emerging": [], "not_candidate": [], "cooling_down": []}
     for t in todos:
         by_severity.setdefault(t["severity"], []).append(t)
         by_kind.setdefault(t["kind"], []).append(t)
@@ -840,7 +880,7 @@ def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
         new_c = sum(1 for s in state_map.values() if s == "new")
         pers_c = sum(1 for s in state_map.values() if s == "persisting")
         lines.append(f"- NEW: {new_c} | PERSISTING: {pers_c}")
-    lines.append(f"- by promotion: candidate={len(by_promotion['candidate'])} emerging={len(by_promotion['emerging'])} not_candidate={len(by_promotion['not_candidate'])}")
+    lines.append(f"- by promotion: candidate={len(by_promotion.get('candidate',[]))} emerging={len(by_promotion.get('emerging',[]))} not_candidate={len(by_promotion.get('not_candidate',[]))} cooling_down={len(by_promotion.get('cooling_down',[]))}")
     lines.append("")
 
     for state_label, sort_severity in [("NEW", ["high", "medium", "low"]), ("PERSISTING", ["high", "medium", "low"])]:
@@ -878,12 +918,11 @@ def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
 
     lines.append("---")
     lines.append("")
-    lines.append("*Stage 1.8 — advisory only. No harness jobs dispatched.*")
-
+    lines.append("*Stage 1.85 — advisory only. No harness jobs dispatched.*")
     return "\n".join(lines)
 
 
-# ── Stable page writers ─────────────────────────────────────────────────────
+# ── Stable page writers ──────────────────────────────────────────────────────
 
 NUC1_STATE_PAGE = WIKI_ARCH_DIR / "nuc1-current-state.md"
 NUC2_STATE_PAGE = WIKI_ARCH_DIR / "nuc2-current-state.md"
@@ -1073,31 +1112,27 @@ def build_repo_health_content(nuc1_json: dict, nuc2_state_md: str) -> str:
 
 
 def write_harness_candidates(todos: list[dict]) -> bool:
-    """Write output/harness_candidates.md for tasks with candidate or emerging promotion status."""
-    candidates = [t for t in todos if t.get("promotion_status") in ("candidate", "emerging")]
+    """Write output/harness_candidates.md — compact machine-readable candidate list."""
+    candidate_tasks = [t for t in todos if t.get("promotion_status") == "candidate"]
+    emerging_tasks = [t for t in todos if t.get("promotion_status") == "emerging"]
 
     lines = []
     lines.append(f"# Harness Candidates — {TIMESTAMP}")
     lines.append("")
     lines.append(f"_Auto-generated by wiki-manager-stage1. Not dispatched._")
     lines.append("")
-    lines.append(f"**Total candidates:** {len([t for t in todos if t.get('promotion_status') == 'candidate'])}")
-    lines.append(f"**Total emerging:** {len([t for t in todos if t.get('promotion_status') == 'emerging'])}")
+    lines.append(f"**Total candidates:** {len(candidate_tasks)}")
+    lines.append(f"**Total emerging:** {len(emerging_tasks)}")
     lines.append("")
     lines.append("## Promotion Rules")
     lines.append("")
-    lines.append(f"See [_candidate-promotion-rules.md](../wiki/_candidate-promotion-rules.md) for criteria.")
+    lines.append(f"See [_candidate-promotion-rules.md](../wiki/_candidate-promotion-rules.md) for Stage 1.85 criteria.")
     lines.append("")
     lines.append("## Candidates (meet all promotion criteria)")
     lines.append("")
 
-    candidate_tasks = [t for t in candidates if t.get("promotion_status") == "candidate"]
-    emerging_tasks = [t for t in candidates if t.get("promotion_status") == "emerging"]
-
-    if not candidate_tasks and not emerging_tasks:
+    if not candidate_tasks:
         lines.append("_No tasks currently meet harness candidate criteria._")
-        lines.append("")
-        lines.append("Tasks that are `not_candidate` either lack persistence, evidence, or are of a kind that cannot be promoted.")
     else:
         for t in candidate_tasks:
             lines.append(f"### [{t['id']}] {t['title']}")
@@ -1111,7 +1146,6 @@ def write_harness_candidates(todos: list[dict]) -> bool:
             lines.append(f"- **Suggested prompt mode:** {t.get('suggested_prompt_mode', 'auto')}")
             lines.append(f"- **Dispatch blocker:** {t.get('dispatch_blocker') or 'none'}")
             lines.append(f"- **Source:** {t.get('source_host', '?')} ({t.get('source_scope', 'unknown')})")
-            # Related wiki pages
             proj = t.get("project", "")
             if proj:
                 page = find_project_page(proj)
@@ -1119,32 +1153,151 @@ def write_harness_candidates(todos: list[dict]) -> bool:
                     lines.append(f"- **Related wiki page:** {page.name}")
             lines.append("")
 
-        if emerging_tasks:
-            lines.append("## Emerging (some signals, not yet promoted)")
+    if emerging_tasks:
+        lines.append("## Emerging (some signals, not yet candidate)")
+        lines.append("")
+        for t in emerging_tasks:
+            lines.append(f"### [{t['id']}] {t['title']}")
             lines.append("")
-            for t in emerging_tasks:
-                lines.append(f"### [{t['id']}] {t['title']}")
-                lines.append("")
-                lines.append(f"- **Project:** {t.get('project', 'unknown')}")
-                lines.append(f"- **Severity:** {t['severity']} ({t.get('kind', '?')})")
-                lines.append(f"- **Why it matters:** {t.get('reason', 'N/A')}")
-                lines.append(f"- **Promotion status:** {t.get('promotion_status')} — {t.get('promotion_reason', 'N/A')}")
-                lines.append(f"- **Persistence:** {t.get('occurrence_count', 1)}x")
-                lines.append(f"- **Evidence:** {', '.join(t.get('evidence_paths', []) or ['N/A'])}")
-                lines.append("")
+            lines.append(f"- **Project:** {t.get('project', 'unknown')}")
+            lines.append(f"- **Severity:** {t['severity']} ({t.get('kind', '?')})")
+            lines.append(f"- **Why it matters:** {t.get('reason', 'N/A')}")
+            lines.append(f"- **Promotion status:** {t.get('promotion_status')} — {t.get('promotion_reason', 'N/A')}")
+            lines.append(f"- **Persistence:** {t.get('occurrence_count', 1)}x")
+            lines.append(f"- **Evidence:** {', '.join(t.get('evidence_paths', []) or ['N/A'])}")
+            lines.append("")
 
     lines.append("---")
-    lines.append("_Stage 1.8 does not dispatch harness jobs. Candidate status is recorded but dispatch is blocked by `advisory_only`._")
+    lines.append("_Stage 1.85 does not dispatch harness jobs. Candidate status is advisory only, dispatch blocked by `advisory_only`._")
 
     HARNESS_CANDIDATES_MD.parent.mkdir(parents=True, exist_ok=True)
     HARNESS_CANDIDATES_MD.write_text("\n".join(lines))
-    return bool(candidates)
+    return bool(candidate_tasks) or bool(emerging_tasks)
 
 
-def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map, nuc2_state_md_for_status="", updated_project_pages: list[str] = None):
+def write_candidate_review_pack(todos: list[dict]) -> None:
+    """
+    Write output/candidate_review_pack.md — human-oriented compact review digest.
+    Focuses on true candidates with actionable information for future harness handoff.
+    """
+    candidate_tasks = [t for t in todos if t.get("promotion_status") == "candidate"]
+    emerging_tasks = [t for t in todos if t.get("promotion_status") == "emerging"]
+    not_cand_tasks = [t for t in todos if t.get("promotion_status") == "not_candidate"]
+
+    lines = []
+    lines.append(f"# Candidate Review Pack — {TIMESTAMP}")
+    lines.append("")
+    lines.append("> Stage: 1.85")
+    lines.append(f"> Generated: {TIMESTAMP}")
+    lines.append("> Purpose: Human review digest for future harness dispatch")
+    lines.append("")
+    lines.append("**This file does NOT dispatch. It is a review aid.**")
+    lines.append("")
+    lines.append("## Summary")
+    lines.append("")
+    lines.append(f"- **Candidates:** {len(candidate_tasks)}")
+    lines.append(f"- **Emerging:** {len(emerging_tasks)}")
+    lines.append(f"- **Not candidate:** {len(not_cand_tasks)}")
+    lines.append(f"- **Total in queue:** {len(todos)}")
+    lines.append("")
+
+    # ── True Candidates ──
+    if candidate_tasks:
+        lines.append("## Candidates — Ready for Harness Dispatch Review")
+        lines.append("")
+        lines.append("These tasks meet all Stage 1.85 promotion criteria. They are the most")
+        lines.append("urgent but still require human confirmation before actual dispatch.")
+        lines.append("")
+        for t in candidate_tasks:
+            proj = t.get("project", "")
+            page = find_project_page(proj) if proj else None
+            sev = t.get("severity", "?").upper()
+            kind = t.get("kind", "?")
+            occ = t.get("occurrence_count", 1)
+            source = t.get("source_host", "?")
+            source_scope = t.get("source_scope", "?")
+            blocker = t.get("dispatch_blocker") or "none"
+            prom_reason = t.get("promotion_reason", "?")
+            evidence = t.get("evidence_paths", [])
+            suggested_mode = t.get("suggested_prompt_mode", "manual")
+            actionability = "actionable" if blocker == "advisory_only" and sev in ("high", "medium") else "review_required"
+
+            lines.append(f"### [{t['id']}] {t['title']}")
+            lines.append("")
+            lines.append(f"| Field | Value |")
+            lines.append(f"|-------|-------|")
+            lines.append(f"| Project | {proj} |")
+            lines.append(f"| Severity | {sev} ({kind}) |")
+            lines.append(f"| Persistence | {occ}x |")
+            lines.append(f"| Promotion reason | {prom_reason} |")
+            lines.append(f"| Evidence | {', '.join(evidence) if evidence else 'none'} |")
+            lines.append(f"| Suggested prompt mode | {suggested_mode} |")
+            lines.append(f"| Dispatch blocker | {blocker} |")
+            lines.append(f"| Actionability | {actionability} |")
+            lines.append(f"| Source | {source} ({source_scope}) |")
+            if page:
+                lines.append(f"| Related wiki page | {page.name} |")
+            if t.get("notes"):
+                lines.append(f"| Notes | {t['notes']} |")
+            lines.append("")
+            lines.append(f"**Why it matters:** {t.get('reason', 'N/A')}")
+            lines.append("")
+            lines.append(f"**Recommended action:** {t.get('recommended_action', 'N/A')}")
+            lines.append("")
+    else:
+        lines.append("## Candidates — Ready for Harness Dispatch Review")
+        lines.append("")
+        lines.append("_No tasks currently qualify as candidates._")
+        lines.append("")
+        lines.append("This does not mean the KB is broken — it means the current evidence")
+        lines.append("did not meet the stricter Stage 1.85 criteria (>= 5 occurrences,")
+        lines.append("medium+ severity, real evidence path, cross-NUC or high persistence).")
+        lines.append("")
+
+    # ── Emerging ──
+    if emerging_tasks:
+        lines.append("## Emerging — Close but Not Ready")
+        lines.append("")
+        lines.append("These tasks have signals but don't yet meet the hard candidate floor.")
+        lines.append("They need more persistence or evidence quality before promotion.")
+        lines.append("")
+        for t in emerging_tasks:
+            proj = t.get("project", "")
+            sev = t.get("severity", "?").upper()
+            occ = t.get("occurrence_count", 1)
+            lines.append(f"### [{t['id']}] {t['title']}")
+            lines.append("")
+            lines.append(f"- **Project:** {proj} | **Severity:** {sev} | **Persistence:** {occ}x")
+            lines.append(f"- **Why it matters:** {t.get('reason', 'N/A')}")
+            lines.append(f"- **What would promote:** more evidence of persistence, or severity increase")
+            lines.append("")
+
+    # ── Not Candidate ──
+    if not_cand_tasks:
+        lines.append(f"## Not Candidate ({len(not_cand_tasks)} tasks)")
+        lines.append("")
+        lines.append("These tasks are tracked but do not yet qualify for any promotion tier.")
+        lines.append("Mostly: insufficient persistence (< 2 occurrences), low severity, or kind not allowed.")
+        lines.append("")
+        for t in not_cand_tasks[:8]:
+            lines.append(f"- **[{t['id']}]** {t['title']} — {t.get('promotion_reason', '?')} ({t.get('severity', '?')})")
+        if len(not_cand_tasks) > 8:
+            lines.append(f"- _...and {len(not_cand_tasks) - 8} more_")
+        lines.append("")
+
+    lines.append("---")
+    lines.append("_Stage 1.85 — advisory only. Candidate status is recorded but dispatch is blocked by `advisory_only`._")
+
+    CANDIDATE_REVIEW_PACK.parent.mkdir(parents=True, exist_ok=True)
+    CANDIDATE_REVIEW_PACK.write_text("\n".join(lines))
+
+
+def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map,
+                         nuc2_state_md_for_status="", updated_project_pages: list[str] = None,
+                         demotion_count: int = 0, promotion_counts: dict = None):
     by_kind = {}
     by_state = {"new": 0, "persisting": 0, "resolved": 0}
-    by_promotion = {"candidate": 0, "emerging": 0, "not_candidate": 0}
+    by_promotion = {"candidate": 0, "emerging": 0, "not_candidate": 0, "cooling_down": 0}
     harness_candidates = []
     for t in todos:
         by_kind.setdefault(t["kind"], []).append(t)
@@ -1155,6 +1308,8 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map, nuc2_s
             harness_candidates.append(t)
 
     updated_project_pages = updated_project_pages or []
+    promotion_counts = promotion_counts or {"candidate": 0, "emerging": 0, "not_candidate": 0}
+    demotion_count = demotion_count or 0
 
     lines = []
     lines.append(f"# Wiki Manager Status")
@@ -1163,7 +1318,7 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map, nuc2_s
     lines.append(f"> Updated: {TIMESTAMP}")
     lines.append("")
     lines.append(f"**Last run:** {TIMESTAMP}")
-    lines.append(f"**Stage:** 1.8")
+    lines.append(f"**Stage:** 1.85")
     lines.append(f"**Backend:** {backend}")
     lines.append(f"**NUC1 evidence:** {'consumed' if nuc1_used else 'none'}")
     if nuc1_info.get("nuc1_host"):
@@ -1181,6 +1336,8 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map, nuc2_s
     lines.append(f"- **candidate:** {by_promotion.get('candidate', 0)}")
     lines.append(f"- **emerging:** {by_promotion.get('emerging', 0)}")
     lines.append(f"- **not_candidate:** {by_promotion.get('not_candidate', 0)}")
+    if demotion_count > 0:
+        lines.append(f"- **demoted this run:** {demotion_count}")
     lines.append("")
     lines.append("## By Kind")
     lines.append("")
@@ -1207,7 +1364,8 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map, nuc2_s
         lines.append("## Harness Candidates")
         lines.append("")
         for t in harness_candidates:
-            lines.append(f"- **[{t['id']}]** {t['title']} (severity: {t['severity']}, promotion: {t.get('promotion_status')})")
+            prom = t.get("promotion_status", "")
+            lines.append(f"- **[{t['id']}]** {t['title']} (severity: {t['severity']}, promotion: {prom})")
         lines.append("")
     lines.append("## Task List")
     lines.append("")
@@ -1215,7 +1373,8 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map, nuc2_s
         state_icon = {"new": "✨", "persisting": "🔄", "resolved": "✅"}.get(t.get("state", "new"), "•")
         prom = t.get("promotion_status", "")
         prom_str = f" [{prom}]" if prom else ""
-        lines.append(f"{state_icon} [{t['id']}] {t['title']} ({t['severity']}, {t['kind']}){prom_str} — {t.get('source_host', '?')}")
+        demoted = " ⚠️" if t.get("demoted_this_run") else ""
+        lines.append(f"{state_icon} [{t['id']}] {t['title']} ({t['severity']}, {t['kind']}){prom_str}{demoted} — {t.get('source_host', '?')}")
     lines.append("")
     lines.append("---")
     lines.append("*Managed by wiki-manager-stage1.timer (every 12h). Do not edit directly.*")
@@ -1226,8 +1385,8 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map, nuc2_s
 
 
 def write_candidate_rules() -> bool:
-    """Write candidate promotion rules page. Always updates (text includes TIMESTAMP)."""
-    content = PROMOTION_RULES_CONTENT.replace("_TS_PLACEHOLDER_", TIMESTAMP)
+    """Write candidate promotion rules page."""
+    content = CANDIDATE_RULES_CONTENT_185.replace("_TS_PLACEHOLDER_", TIMESTAMP)
     CANDIDATE_RULES_PAGE.parent.mkdir(parents=True, exist_ok=True)
     existing = CANDIDATE_RULES_PAGE.read_text() if CANDIDATE_RULES_PAGE.exists() else ""
     if existing == content:
@@ -1236,10 +1395,10 @@ def write_candidate_rules() -> bool:
     return True
 
 
-# ── Main ────────────────────────────────────────────────────────────────────
+# ── Main ───────────────────────────────────────────────────────────────────────
 
 def main():
-    parser = argparse.ArgumentParser(description="Wiki Manager Stage 1.8 — todo queue + stable wiki pages + project health")
+    parser = argparse.ArgumentParser(description="Wiki Manager Stage 1.85 — todo queue + refined candidate promotion + review packs")
     parser.add_argument("--orphans", default="")
     parser.add_argument("--weak-links", default="")
     parser.add_argument("--nuc1-json", default="")
@@ -1256,6 +1415,7 @@ def main():
 
     history, state_map = update_history(todos)
 
+    demotion_count = 0
     # Apply severity and promotion corrections
     for t in todos:
         key = t.get("task_key", task_key(t))
@@ -1265,10 +1425,24 @@ def main():
         t["severity"] = new_sev
         t["occurrence_count"] = occ
 
-        # Compute promotion
-        prom_status, prom_reason = compute_promotion(t, entry or {})
+        # Stage 1.85 promotion — strict
+        prom_status, prom_reason, demoted = compute_promotion_185(t, entry or {})
         t["promotion_status"] = prom_status
         t["promotion_reason"] = prom_reason
+        t["demoted_this_run"] = demoted
+        if demoted:
+            demotion_count += 1
+
+        # Update promotion tracking timestamps in history
+        if entry:
+            if prom_status != entry.get("last_known_promotion_status"):
+                entry["last_promotion_status_change"] = TIMESTAMP
+            entry["last_known_promotion_status"] = prom_status
+            if prom_status != "not_candidate":
+                if not entry.get("promotion_first_seen"):
+                    entry["promotion_first_seen"] = TIMESTAMP
+                entry["promotion_last_seen"] = TIMESTAMP
+                entry["promotion_occurrence_count"] = entry.get("promotion_occurrence_count", 0) + 1
 
         # Set dispatch blocker for candidates if not already set
         if prom_status == "candidate" and not t.get("dispatch_blocker"):
@@ -1293,7 +1467,7 @@ def main():
     # Candidate promotion rules
     candidate_rules_written = write_candidate_rules()
 
-    # Project page filing — update project pages that have matching evidence
+    # Project page filing
     updated_project_pages = []
     all_repos_data = nuc1_info.get("repo_details", [])
     if nuc1_used:
@@ -1307,33 +1481,35 @@ def main():
                 if update_project_page(page, proj, status_block, todos):
                     updated_project_pages.append(page.name)
 
-    # Build project health index with updated pages list
     if nuc1_used and nuc1_repos:
         health_content = build_project_health_index(nuc1_info, todos, updated_project_pages)
         write_stable_page(PROJECT_HEALTH_INDEX, health_content)
 
-    # Write harness candidates
+    # Write harness candidates + candidate review pack
     harness_written = write_harness_candidates(todos)
+    write_candidate_review_pack(todos)
+
+    # Compute promotion counts
+    promotion_counts = {
+        "candidate": sum(1 for t in todos if t.get("promotion_status") == "candidate"),
+        "emerging": sum(1 for t in todos if t.get("promotion_status") == "emerging"),
+        "not_candidate": sum(1 for t in todos if t.get("promotion_status") == "not_candidate"),
+    }
 
     # Write JSON output
-    candidate_count = sum(1 for t in todos if t.get("promotion_status") == "candidate")
-    emerging_count = sum(1 for t in todos if t.get("promotion_status") == "emerging")
     output = {
         "generated_at": TIMESTAMP,
         "source_host": HOST,
         "backend": args.backend,
         "model": args.model if args.backend == "ollama" else None,
-        "stage": "1.8",
+        "stage": "1.85",
         "task_count": len(todos),
         "nuc1_evidence_used": nuc1_used,
         "nuc1_host": nuc1_info.get("nuc1_host", "unknown"),
         "orphan_count": len(orphans),
         "weak_link_count": len(weak_links),
-        "promotion_counts": {
-            "candidate": candidate_count,
-            "emerging": emerging_count,
-            "not_candidate": len(todos) - candidate_count - emerging_count
-        },
+        "promotion_counts": promotion_counts,
+        "demotion_count": demotion_count,
         "stable_pages_written": {
             "nuc1_current_state": nuc1_written,
             "nuc2_current_state": nuc2_written,
@@ -1352,7 +1528,11 @@ def main():
     with open(TODO_MD, "w") as f:
         f.write(md)
 
-    write_manager_status(todos, args.backend, nuc1_used, nuc1_info, state_map, nuc2_state_md_for_status=args.nuc2_md, updated_project_pages=updated_project_pages)
+    write_manager_status(todos, args.backend, nuc1_used, nuc1_info, state_map,
+                        nuc2_state_md_for_status=args.nuc2_md,
+                        updated_project_pages=updated_project_pages,
+                        demotion_count=demotion_count,
+                        promotion_counts=promotion_counts)
 
     print(f"todo_queue.json: {TODO_JSON} ({len(todos)} tasks)")
     print(f"todo_queue.md: {TODO_MD}")
@@ -1360,8 +1540,10 @@ def main():
     print(f"nuc1_evidence_used: {nuc1_used}")
     print(f"Stable pages: nuc1={nuc1_written} nuc2={nuc2_written} repo={repo_written} health={project_health_written} rules={candidate_rules_written}")
     print(f"Project pages updated: {updated_project_pages}")
-    print(f"Promotion: candidate={candidate_count} emerging={emerging_count}")
+    print(f"Promotion: candidate={promotion_counts['candidate']} emerging={promotion_counts['emerging']} not_candidate={promotion_counts['not_candidate']}")
+    print(f"Demotions this run: {demotion_count}")
     print(f"Harness candidates: {'YES' if harness_written else 'none'}")
+    print(f"Candidate review pack: {CANDIDATE_REVIEW_PACK}")
     print(f"Backend: {args.backend}")
 
 

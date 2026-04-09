@@ -1,10 +1,10 @@
 # Wiki Manager Status
 
 > Category: concepts
-> Updated: 2026-04-09T17:47:15Z
+> Updated: 2026-04-09T19:37:03Z
 
-**Last run:** 2026-04-09T17:47:15Z
-**Stage:** 1.8
+**Last run:** 2026-04-09T19:37:03Z
+**Stage:** 1.85
 **Backend:** stub
 **NUC1 evidence:** consumed
 **NUC1 host:** slimy-nuc1
@@ -30,7 +30,7 @@
 ## Stable Pages Updated
 
 - [nuc1-current-state.md](architecture/nuc1-current-state.md): YES
-- [nuc2-current-state.md](architecture/nuc2-current-state.md): YES
+- [nuc2-current-state.md](architecture/nuc2-current-state.md): SKIPPED (no NUC2 digest)
 - [repo-health-overview.md](projects/repo-health-overview.md): YES
 - [_project-health-index.md](projects/_project-health-index.md): YES
 - [_candidate-promotion-rules.md](../wiki/_candidate-promotion-rules.md): YES (always updated)

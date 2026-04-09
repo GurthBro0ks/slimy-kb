@@ -76,7 +76,7 @@ It executes `kb-maintenance.sh` which:
 To manually trigger: `systemctl --user start kb-maintenance.service`
 To check status: `systemctl --user list-timers --all | grep kb-maintenance`
 
-## Wiki Manager Stage 1.8 (NUC2)
+## Wiki Manager Stage 1.85 (NUC2)
 
 A systemd user timer `wiki-manager-stage1.timer` runs every 12 hours on NUC2.
 It executes `wiki_manager_stage1.sh` which:
@@ -95,7 +95,7 @@ It executes `wiki_manager_stage1.sh` which:
 12. Appends a wiki-manager entry to `wiki/log.md`
 13. Commits and pushes if KB changed
 
-**Stage 1.8 does NOT dispatch harness jobs.** Todo queue entries are advisory only.
+**Stage 1.85 does NOT dispatch harness jobs.** Todo queue entries are advisory only.
 
 ### Stable State Pages
 
@@ -127,18 +127,32 @@ Matching is done by repo name against existing project page filenames.
 Tasks can have a `promotion_status`: `not_candidate` | `emerging` | `candidate`.
 Promotion is deterministic and bounded by explicit rules in `wiki/_candidate-promotion-rules.md`.
 
-Key criteria:
-- `occurrence_count >= 3` (with cross-NUC bonus of +2)
-- At least one evidence_path
-- Medium or higher severity
-- Kind allowlist: `repo_drift`, `wiki_gap`, `doc_drift`
-- No blocking dispatch blockers (except `advisory_only`)
+**Stage 1.85 Stricter Criteria:**
+
+To become `candidate`, a task must meet ALL of:
+- `occurrence_count >= 5` effective (with cross-NUC bonus of +2 applied: so 3 base + 2 bonus = 5 for cross-NUC tasks; local tasks need 5x base)
+- Severity `medium` or `high`
+- Evidence path verified as a real existing file/directory
+- `dispatch_blocker` is empty or only `advisory_only`
+- Kind is `repo_drift`, `wiki_gap`, or `doc_drift`
+
+Tasks with `occurrence_count` of 2-4 (and real evidence) land in `emerging`.
+Tasks with insufficient persistence, low severity, no real evidence, or blocked kinds are `not_candidate`.
+
+**State Transitions:**
+Tasks can move downward (demotion) as well as upward:
+- `not_candidate` → `emerging` → `candidate`
+- `candidate` → `cooling_down` → `resolved` (if evidence weakens)
+
+**Promotion Tracking Fields:**
+Each task tracks: `promotion_first_seen`, `promotion_last_seen`, `promotion_occurrence_count`, `last_promotion_status_change`, `demoted_this_run`.
 
 Candidate tasks are surfaced in:
-- `output/harness_candidates.md` — richer format with title, project, why it matters, evidence, persistence history, suggested prompt mode, dispatch blocker, related wiki pages
+- `output/harness_candidates.md` — machine-readable candidate list
+- `output/candidate_review_pack.md` — human-oriented compact review digest for future harness handoff
 - `wiki/_manager-status.md` — listed under "Harness Candidates" section with promotion status
 
-**Stage 1.8 does not dispatch.** Candidate status is recorded but dispatch is blocked by `advisory_only`. Stage 2 will handle actual dispatch.
+**Stage 1.85 does not dispatch.** Candidate status is recorded but dispatch is blocked by `advisory_only`. Stage 2 will handle actual dispatch.
 
 ### Task State Tracking
 

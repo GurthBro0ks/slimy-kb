@@ -1,69 +1,87 @@
 # Harness Candidate Promotion Rules
 
 > Category: concepts
-> Updated: 2026-04-09T17:47:15Z
+> Updated: 2026-04-09T19:37:03Z
 > Status: active
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Overview
 
-A task becomes a **harness candidate** when it meets explicit, bounded criteria. This page defines those criteria so promotion is deterministic and auditable.
+Stage 1.85 introduces stricter promotion criteria to end over-promotion. Tasks must now demonstrate **both persistence AND quality signals** before becoming a harness candidate. Tasks can also move downward (demotion) as well as upward.
 
 ## Promotion Statuses
 
 | Status | Meaning |
 |--------|---------|
-| `not_candidate` | Default — task is tracked but does not yet qualify |
-| `emerging` | Task has some signals but does not yet meet all criteria |
-| `candidate` | Task meets all promotion criteria — ready for harness dispatch consideration |
+| `not_candidate` | Default — tracked but does not yet qualify |
+| `emerging` | Has some signals but not all criteria met |
+| `candidate` | Meets all criteria — ready for harness dispatch consideration |
+| `cooling_down` | Was candidate but evidence has weakened |
+| `resolved` | No longer present in current queue |
 
-## Bounded Promotion Criteria
+## State Transitions
+
+```
+not_candidate → emerging → candidate → cooling_down → resolved
+     ↑            ↑           ↑            ↓
+     └─────────────┴───────────┴────────────┘  (demotion paths)
+```
+
+A task can be demoted if its evidence degrades (e.g., occurrence_count drops below threshold,
+evidence path becomes stale, severity drops).
+
+## Bounded Promotion Criteria (Stage 1.85 — Stricter)
 
 A task is promoted to `candidate` when **ALL** of the following are true:
 
-### 1. Persistence Threshold
-- Task must have `occurrence_count >= 3` in the todo history
-- Cross-NUC evidence adds a bonus of +2 to the effective occurrence count for this check
+### 1. Hard Persistence Floor
+- `occurrence_count >= 5` (with cross-NUC bonus of +2 applied: so 3 base occurrences + 2 cross-NUC bonus = 5)
+- OR `occurrence_count >= 5` without bonus for local NUC2 tasks
+- Tasks at exactly 3-4 occurrences (or 3+2=5 with bonus) land in `emerging`
 
 ### 2. Evidence Quality
-- Task must have at least one `evidence_path` in the todo record
-- Evidence must reference a real file or directory in `raw/` or `wiki/`
+- Task must have at least one `evidence_path` pointing to a **real existing file or directory**
+- Evidence paths are verified at promotion time
 
 ### 3. Severity Floor
-- Task severity must be `medium` or `high` (not `low`)
-- OR task must be `persisting` with `occurrence_count >= 3 * 2`
+- Severity must be `medium` or `high`
+- Tasks with `low` severity can only reach `emerging` at best
 
-### 4. No Active Dispatch Blocker
+### 4. No Hard Dispatch Blocker
 - `dispatch_blocker` must be empty OR only `"advisory_only"`
-- advisory_only is a system-level blocker indicating Stage 1.x does not dispatch — this does not prevent candidate status
+- Any other blocker (e.g., `needs_review`, `cross_nuc_coordination`) prevents promotion
 
 ### 5. Kind Allowlist
-- Only these kinds are eligible for promotion: `repo_drift`, `wiki_gap`, `doc_drift`
-- `investigate` and `harness_candidate` kinds are excluded from promotion
+- Only `repo_drift`, `wiki_gap`, `doc_drift` are eligible
+- `investigate` and `harness_candidate` kinds are permanently excluded
 
 ## Promotion Reasons
 
-When a task is promoted, `promotion_reason` is set to one of:
+- `cross_nuc_conflict` — cross-NUC evidence, persistent (>=5 eff. occurrences)
+- `persistent_drift` — repo drift with high severity, >=5 occurrences
+- `repeated_gap` — wiki gap persisting >=5 times with medium+ severity
 
-- `persistent_drift` — task is repo/wiki drift that has persisted >= 3 times
-- `cross_nuc_conflict` — cross-NUC KB or repo conflict with >= 2 occurrences
-- `repeated_gap` — wiki gap persisting >= 3 * 2 times
+## Demotion Signals
+
+A task is demoted when:
+- `occurrence_count` drops (if previously candidate but now resolved)
+- Evidence path becomes stale or unavailable
+- Severity drops below `medium`
+- A hard dispatch blocker is added
 
 ## Dispatch Blockers
 
-Even candidate tasks may have dispatch blockers:
+| Blocker | Blocks promotion? | Auto-clear? |
+|--------|------------------|-------------|
+| _(empty)_ | No | N/A |
+| `advisory_only` | No (stage gate only) | Yes — cleared in Stage 2 |
+| `needs_review` | Yes | No — manual clear |
+| `cross_nuc_coordination` | Yes | No — manual clear |
 
-| Blocker | Meaning | Auto-clear? |
-|---------|---------|-------------|
-| _(empty)_ | No blocker — go ahead if severity warrants | N/A |
-| `advisory_only` | Stage 1.x does not dispatch | Yes — cleared in Stage 2 |
-| `needs_review` | Human review required before dispatch | No — manual clear |
-| `cross_nuc_coordination` | Needs coordination with other NUC | No — manual clear |
+## Stage 1.85 Boundary
 
-## Stage 1.8 Boundary
-
-Stage 1.8 does NOT dispatch harness jobs. Candidate status is recorded but dispatch is blocked by `advisory_only`. Stage 2 will handle actual dispatch.
+Stage 1.85 does NOT dispatch harness jobs. Candidate status is advisory only, dispatch blocked by `advisory_only`.
 
 <!-- END MACHINE MANAGED -->
 

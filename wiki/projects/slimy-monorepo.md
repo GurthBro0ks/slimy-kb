@@ -79,13 +79,13 @@ systemctl --user status slimy-web.service
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-04-09T17:47:15Z
+**Last updated:** 2026-04-09T19:37:03Z
 **NUC1 status:** clean, DIVERGED
 **NUC1 commit:** `f645f60` — docs: auto-sync project docs from slimy-nuc1 2026-04-09
 **Branch:** detached
 
 ### Open Issues
-- **[HIGH]** NUC1 repo diverged from remote: slimy-monorepo (repo_drift, 16x)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo (repo_drift, 18x)
 
 ### Evidence
 - `raw/inbox-nuc1/`

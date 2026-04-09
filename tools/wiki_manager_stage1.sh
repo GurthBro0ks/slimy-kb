@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# wiki_manager_stage1.sh — Stage 1.5 wiki manager runner
+# wiki_manager_stage1.sh — Stage 1.85 wiki manager runner
 # Pulls, digests, generates todo queue, logs, commits.
 set -uo pipefail
 
@@ -13,7 +13,7 @@ EXIT_CODE=0
 mkdir -p "$PROOF_DIR"
 
 log_step() {
-    echo "[wiki-manager-s1.8] $(date +%H:%M:%S) — $1"
+    echo "[wiki-manager-s1.85] $(date +%H:%M:%S) — $1"
 }
 
 # ── STEP 1: Sync pull ──────────────────────────────────────────────────────────
@@ -94,8 +94,8 @@ TASK_COUNT=0
 if [[ -f "$TODO_JSON" ]]; then
     TASK_COUNT=$(python3 -c "import json; print(len(json.load(open('$TODO_JSON'))['tasks']))" 2>/dev/null || echo 0)
 fi
-NOTE="stage1.8 run: todos=$TASK_COUNT nuc1_items=$NUC1_ITEM_COUNT nuc1_evidence=$NUC1_EVIDENCE_USED"
-bash "$KB_TOOLS/kb-log-append.sh" "wiki_manager" "stage1.8 todo queue generation" "$NOTE" >> "$PROOF_DIR/step5-log.log" 2>&1 || EXIT_CODE=1
+NOTE="stage1.85 run: todos=$TASK_COUNT nuc1_items=$NUC1_ITEM_COUNT nuc1_evidence=$NUC1_EVIDENCE_USED"
+bash "$KB_TOOLS/kb-log-append.sh" "wiki_manager" "stage1.85 todo queue generation" "$NOTE" >> "$PROOF_DIR/step5-log.log" 2>&1 || EXIT_CODE=1
 
 # ── STEP 6: Git commit (only if kb changed) ──────────────────────────────────
 log_step "Checking git status..."
@@ -106,7 +106,7 @@ CHANGES=""
 CHANGES=$(git --no-pager diff --cached --stat 2>/dev/null) || true
 if [[ -n "$CHANGES" ]]; then
     log_step "Committing..."
-    git --no-pager commit -m "kb: wiki-manager stage1.8 $(date +%Y-%m-%d-%H%M) from $HOST" >> "$PROOF_DIR/step6-commit.log" 2>&1 || {
+    git --no-pager commit -m "kb: wiki-manager stage1.85 $(date +%Y-%m-%d-%H%M) from $HOST" >> "$PROOF_DIR/step6-commit.log" 2>&1 || {
         echo "WARNING: commit failed" >> "$PROOF_DIR/step6-commit.log"
         EXIT_CODE=1
     }
@@ -152,7 +152,7 @@ nuc1_dirty = json.loads(nuc1_dirty_raw) if nuc1_dirty_raw else []
 nuc1_diverged = json.loads(nuc1_diverged_raw) if nuc1_diverged_raw else []
 
 lines = []
-lines.append("# Wiki Manager Stage 1.8 Proof Bundle")
+lines.append("# Wiki Manager Stage 1.85 Proof Bundle")
 lines.append("")
 lines.append(f"- **Run TS:** {run_ts}")
 lines.append(f"- **Host:** {host}")
@@ -242,8 +242,14 @@ if todo_json_exists:
     lines.append(f"- candidate: {prom_counts.get('candidate', 0)}")
     lines.append(f"- emerging: {prom_counts.get('emerging', 0)}")
     lines.append(f"- not_candidate: {prom_counts.get('not_candidate', 0)}")
+    demotion_count = d.get('demotion_count', 0)
+    lines.append(f"- demoted_this_run: {demotion_count}")
 else:
     lines.append("- (no todo_queue.json)")
+lines.append("")
+lines.append("### Candidate Review Pack")
+review_pack = os.path.join(os.path.dirname(todo_json), 'candidate_review_pack.md')
+lines.append(f"- candidate_review_pack.md: {'CREATED' if os.path.exists(review_pack) else 'none'}")
 lines.append("")
 lines.append("### Project Pages Updated")
 if todo_json_exists:
@@ -340,7 +346,7 @@ python3 -c "$PROOF_SCRIPT" \
     "$CHANGES" \
     >> "$PROOF_DIR/step8-proof.log" 2>&1 || true
 
-log_step "Stage 1.8 complete. Proof at $PROOF_DIR"
+log_step "Stage 1.85 complete. Proof at $PROOF_DIR"
 echo "EXIT_CODE=$EXIT_CODE"
 echo "PROOF_DIR=$PROOF_DIR"
 echo "TODO_JSON=${TODO_JSON:-none}"
