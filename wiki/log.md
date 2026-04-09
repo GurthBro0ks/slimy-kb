@@ -110,3 +110,17 @@
 - notes: stage1.5 run: todos=12 nuc1_items=3 nuc1_evidence=YES
 
 
+## [2026-04-09 16:27] wiki_manager | stage1.5 todo queue generation
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_manager-status.md  - raw/inbox-nuc1/2026-04-09-nuc1-repos.json
+  - raw/inbox-nuc1/2026-04-09-nuc1-repos.md
+  - raw/inbox-nuc1/2026-04-09-nuc1-state.md
+  - raw/research/2026-04-09-slimy-nuc2-kb-health.md
+  - raw/research/2026-04-09-slimy-nuc2-state.md
+- summary: stage1.5 todo queue generation
+- commit: 8c49f36
+- notes: stage1.5 run: todos=12 nuc1_items=3 nuc1_evidence=YES
+
+

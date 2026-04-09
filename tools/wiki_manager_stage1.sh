@@ -243,14 +243,19 @@ PYEOF
 NUC1_DIRTY_RAW="[]"
 NUC1_DIVERGED_RAW="[]"
 if [[ -n "$NUC1_JSON_CONTENT" ]]; then
+    # Write JSON to temp file to avoid quoting issues
+    NUC1_JSON_TMP="$PROOF_DIR/nuc1_inbox.json"
+    echo "$NUC1_JSON_CONTENT" > "$NUC1_JSON_TMP"
     NUC1_DIRTY_RAW=$(python3 -c "
 import json,sys
-data=json.loads('$NUC1_JSON_CONTENT')
+with open('$NUC1_JSON_TMP') as f:
+    data=json.load(f)
 print(json.dumps([r['name'] for r in data.get('repos',[]) if r.get('dirty')]))
 " 2>/dev/null || echo "[]")
     NUC1_DIVERGED_RAW=$(python3 -c "
 import json,sys
-data=json.loads('$NUC1_JSON_CONTENT')
+with open('$NUC1_JSON_TMP') as f:
+    data=json.load(f)
 diverged=[]
 for r in data.get('repos',[]):
     ab=r.get('ahead_behind') or {}

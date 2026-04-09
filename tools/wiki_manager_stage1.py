@@ -251,30 +251,39 @@ def compute_severity(task: dict, nuc1_evidence: dict, occurrence_count: int = 1)
     """
     Compute severity: low / medium / high.
 
-    Signals that increase severity:
-    - occurrence_count > 1: repeated across runs (+1)
-    - task kind is repo_drift: likely important (+1)
-    - cross-NUC signal: both NUCs reporting related issue (+1)
-    - NUC1 dirty repo related to task (+1)
-    - Both orphan AND weak-link evidence combined (+1)
+    Severity scoring (bounded, interpretable):
+    - Base: medium for wiki_gap/doc_drift, low for investigate/harness_candidate
+    - +1 if persisting across runs (occurrence_count > 1)
+    - +1 if cross-NUC signal (source_scope == "cross_nuc")
+    - +1 if it's the shared KB repo with uncommitted changes (specific cross-NUC risk)
+    - Cap at "high"
 
-    Base: medium for wiki_gap/doc_drift, low for investigate.
+    This produces meaningful triage: fresh wiki gaps=medium, persisting=high;
+    diverged repos=medium, dirty shared KB=high.
     """
     kind = task.get("kind", "")
-    severity = 2  # medium as baseline (index: 0=low, 1=medium, 2=high)
+    source_scope = task.get("source_scope", "")
+    project = task.get("project", "")
+    title_lower = task.get("title", "").lower()
 
+    # Base by kind
+    if kind in ("wiki_gap", "doc_drift"):
+        severity = 2  # medium
+    elif kind == "repo_drift":
+        severity = 1  # low-to-medium for repo issues initially
+    else:
+        severity = 1  # low for investigate/harness_candidate
+
+    # +1 for persisting issues
     if occurrence_count > 1:
         severity += 1
 
-    if kind == "repo_drift":
+    # +1 for cross-NUC signals
+    if source_scope == "cross_nuc":
         severity += 1
 
-    if nuc1_evidence.get("nuc1_host") != "unknown":
-        severity += 1
-
-    # Dirty repos on NUC1 that overlap with this task's project
-    project = task.get("project", "")
-    if project != "kb" and nuc1_evidence.get("dirty_repos"):
+    # +1 for the shared KB having uncommitted changes (high-value cross-NUC signal)
+    if "kb" in title_lower and "uncommitted" in title_lower:
         severity += 1
 
     return ["low", "medium", "high"][min(severity, 2)]
