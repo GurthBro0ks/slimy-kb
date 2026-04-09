@@ -579,15 +579,10 @@ def build_nuc1_state_content(nuc1_json: dict, nuc1_md: dict, todos: list[dict]) 
     lines.append("## Repository Status")
     dirty = nuc1_json.get("dirty_repos", [])
     diverged = nuc1_json.get("diverged_repos", [])
-    all_repos = nuc1_json.get("repos", [])
+    all_repos = nuc1_json.get("repos", [])  # list of repo name strings
     lines.append(f"- **Total repos tracked:** {len(all_repos)}")
     lines.append(f"- **Dirty (uncommitted changes):** {', '.join(dirty) if dirty else '_none_'}")
-
-    # Diverged: ahead AND behind
-    diverged_list = [r for r in all_repos if (r.get("ahead_behind") or {}).get("ahead", 0) > 0
-                    and (r.get("ahead_behind") or {}).get("behind", 0) > 0]
-    diverged_names = [r["name"] for r in diverged_list]
-    lines.append(f"- **Diverged (ahead + behind remote):** {', '.join(diverged_names) if diverged_names else '_none_'}")
+    lines.append(f"- **Diverged (ahead + behind remote):** {', '.join(diverged) if diverged else '_none_'}")
 
     lines.append("")
     lines.append("## Active Services (from digest)")
@@ -704,14 +699,13 @@ def build_repo_health_content(nuc1_json: dict, nuc2_state_md: str) -> str:
     lines.append("## Cross-NUC Repo Summary")
     lines.append("")
     lines.append("### NUC1 Repos")
-    nuc1_repos = nuc1_json.get("repos", [])
+    nuc1_repos = nuc1_json.get("repos", [])  # list of repo name strings
     dirty = nuc1_json.get("dirty_repos", [])
     diverged = nuc1_json.get("diverged_repos", [])
     if nuc1_repos:
         lines.append(f"| Repo | Dirty | Diverged |")
         lines.append("|------|--------|----------|")
-        for r in nuc1_repos[:20]:
-            name = r.get("name", "?")
+        for name in nuc1_repos[:20]:
             is_dirty = "⚠️ YES" if name in dirty else "—"
             is_diverged = "⚠️ YES" if name in diverged else "—"
             lines.append(f"| {name} | {is_dirty} | {is_diverged} |")

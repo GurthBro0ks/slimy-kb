@@ -1,9 +1,9 @@
 # Wiki Manager Status
 
 > Category: concepts
-> Updated: 2026-04-09T16:28:13Z
+> Updated: 2026-04-09T17:13:55Z
 
-**Last run:** 2026-04-09T16:28:13Z
+**Last run:** 2026-04-09T17:13:55Z
 **Backend:** stub
 **NUC1 evidence:** consumed
 **NUC1 host:** slimy-nuc1
@@ -19,6 +19,12 @@
 
 - **repo_drift:** 6
 - **wiki_gap:** 6
+
+## Stable Pages Updated
+
+- [nuc1-current-state.md](architecture/nuc1-current-state.md): YES
+- [nuc2-current-state.md](architecture/nuc2-current-state.md): YES
+- [repo-health-overview.md](projects/repo-health-overview.md): YES
 
 ## Task List
 

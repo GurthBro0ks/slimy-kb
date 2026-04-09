@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T16:28:13Z",
+  "generated_at": "2026-04-09T17:13:55Z",
   "source_host": "slimy-nuc2",
   "backend": "stub",
   "model": null,
@@ -8,10 +8,16 @@
   "nuc1_host": "slimy-nuc1",
   "orphan_count": 28,
   "weak_link_count": 0,
+  "stable_pages_written": {
+    "nuc1_current_state": true,
+    "nuc2_current_state": true,
+    "repo_health_overview": true
+  },
+  "harness_candidates_written": false,
   "tasks": [
     {
       "id": "todo-2026-04-09-001",
-      "created_at": "2026-04-09T16:28:13Z",
+      "created_at": "2026-04-09T17:13:55Z",
       "source_host": "nuc1",
       "project": "kb",
       "title": "NUC1 repo has uncommitted changes: kb",
@@ -29,12 +35,12 @@
       "dispatch_blocker": "",
       "task_key": "nuc1|kb|repo_drift|nuc1 repo has uncommitted changes: kb",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 9,
+      "occurrence_count": 11,
       "state": "persisting"
     },
     {
       "id": "todo-2026-04-09-002",
-      "created_at": "2026-04-09T16:28:13Z",
+      "created_at": "2026-04-09T17:13:55Z",
       "source_host": "nuc1",
       "project": "ned-autonomous",
       "title": "NUC1 repo has uncommitted changes: ned-autonomous",
@@ -52,12 +58,12 @@
       "dispatch_blocker": "",
       "task_key": "nuc1|ned-autonomous|repo_drift|nuc1 repo has uncommitted changes: ned-autonomous",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 9,
+      "occurrence_count": 11,
       "state": "persisting"
     },
     {
       "id": "todo-2026-04-09-003",
-      "created_at": "2026-04-09T16:28:13Z",
+      "created_at": "2026-04-09T17:13:55Z",
       "source_host": "nuc1",
       "project": "Slimefun4",
       "title": "NUC1 repo diverged from remote: Slimefun4",
@@ -75,12 +81,12 @@
       "dispatch_blocker": "",
       "task_key": "nuc1|Slimefun4|repo_drift|nuc1 repo diverged from remote: slimefun4",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 9,
+      "occurrence_count": 11,
       "state": "persisting"
     },
     {
       "id": "todo-2026-04-09-004",
-      "created_at": "2026-04-09T16:28:13Z",
+      "created_at": "2026-04-09T17:13:55Z",
       "source_host": "nuc1",
       "project": "clawd",
       "title": "NUC1 repo diverged from remote: clawd",
@@ -98,12 +104,12 @@
       "dispatch_blocker": "",
       "task_key": "nuc1|clawd|repo_drift|nuc1 repo diverged from remote: clawd",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 9,
+      "occurrence_count": 11,
       "state": "persisting"
     },
     {
       "id": "todo-2026-04-09-005",
-      "created_at": "2026-04-09T16:28:13Z",
+      "created_at": "2026-04-09T17:13:55Z",
       "source_host": "nuc1",
       "project": "slimy-monorepo",
       "title": "NUC1 repo diverged from remote: slimy-monorepo",
@@ -121,12 +127,12 @@
       "dispatch_blocker": "",
       "task_key": "nuc1|slimy-monorepo|repo_drift|nuc1 repo diverged from remote: slimy-monorepo",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 9,
+      "occurrence_count": 11,
       "state": "persisting"
     },
     {
       "id": "todo-2026-04-09-006",
-      "created_at": "2026-04-09T16:28:13Z",
+      "created_at": "2026-04-09T17:13:55Z",
       "source_host": "slimy-nuc2",
       "project": "kb",
       "title": "Resolve 28 orphaned wiki pages",
@@ -144,12 +150,12 @@
       "dispatch_blocker": "",
       "task_key": "slimy-nuc2|kb|wiki_gap|resolve 28 orphaned wiki pages",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 9,
+      "occurrence_count": 11,
       "state": "persisting"
     },
     {
       "id": "todo-2026-04-09-007",
-      "created_at": "2026-04-09T16:28:13Z",
+      "created_at": "2026-04-09T17:13:55Z",
       "source_host": "slimy-nuc2",
       "project": "kb",
       "title": "Review orphaned page: architecture/nuc2-server-state.md",
@@ -167,12 +173,12 @@
       "dispatch_blocker": "",
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: architecture/nuc2-server-state.md",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 9,
+      "occurrence_count": 11,
       "state": "persisting"
     },
     {
       "id": "todo-2026-04-09-008",
-      "created_at": "2026-04-09T16:28:13Z",
+      "created_at": "2026-04-09T17:13:55Z",
       "source_host": "slimy-nuc2",
       "project": "kb",
       "title": "Review orphaned page: log.md",
@@ -190,12 +196,12 @@
       "dispatch_blocker": "",
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: log.md",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 9,
+      "occurrence_count": 11,
       "state": "persisting"
     },
     {
       "id": "todo-2026-04-09-009",
-      "created_at": "2026-04-09T16:28:13Z",
+      "created_at": "2026-04-09T17:13:55Z",
       "source_host": "slimy-nuc2",
       "project": "kb",
       "title": "Review orphaned page: projects/actionbook.md",
@@ -213,12 +219,12 @@
       "dispatch_blocker": "",
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: projects/actionbook.md",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 9,
+      "occurrence_count": 11,
       "state": "persisting"
     },
     {
       "id": "todo-2026-04-09-010",
-      "created_at": "2026-04-09T16:28:13Z",
+      "created_at": "2026-04-09T17:13:55Z",
       "source_host": "slimy-nuc2",
       "project": "kb",
       "title": "Review orphaned page: projects/agents-backup-full.md",
@@ -236,12 +242,12 @@
       "dispatch_blocker": "",
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: projects/agents-backup-full.md",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 9,
+      "occurrence_count": 11,
       "state": "persisting"
     },
     {
       "id": "todo-2026-04-09-011",
-      "created_at": "2026-04-09T16:28:13Z",
+      "created_at": "2026-04-09T17:13:55Z",
       "source_host": "slimy-nuc2",
       "project": "kb",
       "title": "Review orphaned page: projects/apify-market-scanner.md",
@@ -259,12 +265,12 @@
       "dispatch_blocker": "",
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: projects/apify-market-scanner.md",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 9,
+      "occurrence_count": 11,
       "state": "persisting"
     },
     {
       "id": "todo-2026-04-09-012",
-      "created_at": "2026-04-09T16:28:13Z",
+      "created_at": "2026-04-09T17:13:55Z",
       "source_host": "nuc1",
       "project": "kb",
       "title": "NUC1 KB has uncommitted changes",
@@ -282,7 +288,7 @@
       "dispatch_blocker": "",
       "task_key": "nuc1|kb|repo_drift|nuc1 kb has uncommitted changes",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 9,
+      "occurrence_count": 11,
       "state": "persisting"
     }
   ]
