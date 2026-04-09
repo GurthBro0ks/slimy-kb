@@ -1,6 +1,6 @@
 # Slimy Monorepo
 > Category: projects
-> Sources: raw/articles/seed-slimy-monorepo-readme.md, raw/decisions/seed-slimy-monorepo-agents.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc1-state.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc2-state.md, raw/decisions/2026-04-07-bot-monorepo-migration-complete.md, raw/changelogs/2026-04-08-slimy-nuc1-project-changelog.md, raw/research/2026-04-09-nuc2-project-inventory.md
+> Sources: raw/articles/seed-slimy-monorepo-readme.md, raw/decisions/seed-slimy-monorepo-agents.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc1-state.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc2-state.md, raw/decisions/2026-04-07-bot-monorepo-migration-complete.md, raw/changelogs/2026-04-08-slimy-nuc1-project-changelog.md, raw/research/2026-04-09-nuc2-project-inventory.md, raw/agent-learnings/2026-04-09-nuc2-slimy-monorepo-update.md
 > Created: 2026-04-04
 > Updated: 2026-04-09
 > Status: draft
@@ -42,13 +42,40 @@ The Slimy monorepo hosts web, bot, and supporting packages with shared CI and in
   - `fa3788b` — docs: auto-sync project docs from slimy-nuc2 2026-04-08
 - **Supervisor:** `systemd --user` (`slimy-web.service`)
 - **State:** ACTIVE, running
-- **Port:** **3000** — Next.js production server
+- **Port:** **3000** — Next.js standalone, pid 215978
 - **Key subdirs:** `apps/web` (Next.js), `apps/bot` (slimy-bot-v2 TypeScript), `packages/`, `lib/`
 - **AGENTS.md:** YES — monorepo agent rules, `pnpm lint`/`pnpm test:all` truth gate
-- **Truth gate:** `pnpm --filter web lint && pnpm --filter web build`
 - **Dependencies:** MySQL (NUC1 via tunnel port 3307), Prisma, Next.js, Tailwind
-- **Notable features:** owner panel, snail club/stats, crypto trading tab, trader dashboard, /snail routes
 - **Classification:** ACTIVE | Confidence: HIGH
+
+### NUC2 Services
+| Service | Type | Port | Status |
+|---------|------|------|--------|
+| slimy-web | systemd (`slimy-web.service`) | 3000 | active |
+| slimy-mysql-tunnel | systemd | 3307 | active |
+| postgres | systemd | 5432 | active |
+
+### Truth Gate (NUC2)
+```bash
+pnpm --filter web lint && pnpm --filter web build
+curl -s -o /dev/null -w "%{http_code}" http://localhost:3000/snail/club
+systemctl --user status slimy-web.service
+```
+
+### Dead Ports (do not use)
+- Port **3080** (admin-api) — DEAD since 2026-03-19, do not start
+- Port **3081** (admin-ui) — DEAD since 2026-03-19, do not start
+- `/api/* → 3080` rewrite — removed, Next.js API routes handle all
+
+### Key Routes
+- `/owner/crypto` — crypto dashboard
+- `/snail/club` — club power rankings
+- `/snail/stats` — club movers (gainers/losers)
+- `/trader/*` — trader dashboard with mock/http adapter
+
+### Trader Adapter Env Vars
+- `NEXT_PUBLIC_TRADER_ADAPTER` — "mock" (default) or "http"
+- `NEXT_PUBLIC_TRADER_API_BASE` — API base URL when using http adapter
 
 ## See Also
 - [Slimy Web](slimy-web.md)

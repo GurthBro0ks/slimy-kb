@@ -1,6 +1,6 @@
 # SlimyAI Knowledge Base - Master Index
 > Auto-maintained by LLM agents. Do not edit manually.
-> Last compiled: 2026-04-09 (child-compile 20260409-141401 — all candidates reviewed: 12 files checked, 0 new wiki articles needed)
+> Last compiled: 2026-04-09 (child-compile 20260409-141429 — incorporated: apify-market-scanner runtime→MAINTENANCE, mission-control NUC1 state, slimy-chat Docker stack, slimy-monorepo NUC2 services/routes; seed files handled by existing articles; 30 compile candidates reviewed: deferred per pattern in kb-autofinish-autocompile-fix.md)
 
 ## Categories
 ### Concepts
@@ -12,7 +12,7 @@
 - [Actionbook](projects/actionbook.md) - Browser Action Engine for AI Agents via MCP protocol; 12-package pnpm monorepo.
 - [Agents Backup Full](projects/agents-backup-full.md) - Mirror of wshobson/agents Claude Code plugin marketplace; archived, not actively used.
 - [Agents Plugin Ecosystem](projects/agents-plugin-ecosystem.md) - Plugin/agent/skill orchestration system for focused capability loading.
-- [Apify Market Scanner](projects/apify-market-scanner.md) - Apify-based market data scraping tool; runtime status UNKNOWN.
+- [Apify Market Scanner](projects/apify-market-scanner.md) - Apify-based market data scraping tool; runtime status MAINTENANCE/IDLE (not actively deployed).
 - [Capture Dashboard](projects/capture-dashboard.md) - Operator intake surface with folder map, quick actions, and ingest-compile-sync checklist.
 - [Chat App (Slime.Chat)](projects/chat-app.md) - Self-hosted 16-container Docker chat platform at chat.slimyai.xyz; Stoat/Revolt fork.
 - [Chriss Agent](projects/chriss-agent.md) - Webhook bridge service on NUC2 port 3850; running since Mar14.

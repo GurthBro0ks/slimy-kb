@@ -1,6 +1,6 @@
 # Mission Control
 > Category: projects
-> Sources: raw/articles/seed-mission-control-readme.md, raw/decisions/2026-04-05-project-mission-control-nuc2-state.md, raw/research/2026-04-09-nuc2-project-inventory.md, raw/agent-learnings/2026-04-09-nuc2-mission-control-update.md
+> Sources: raw/articles/seed-mission-control-readme.md, raw/decisions/2026-04-05-project-mission-control-nuc2-state.md, raw/research/2026-04-09-nuc2-project-inventory.md, raw/agent-learnings/2026-04-09-nuc2-mission-control-update.md, raw/agent-learnings/2026-04-09-nuc1-mission-control-update.md
 > Created: 2026-04-04
 > Updated: 2026-04-09
 > Status: draft
@@ -41,6 +41,17 @@ Mission Control is a coordination surface for tasks, agents, comms, calendar, me
 - **API:** `/api/health`, `/api/tasks`, `/api/agents`, `/api/calendar`, `/api/comms`, `/api/memory`
 - **Truth gate:** `curl http://localhost:3838/api/health`
 - **Classification:** ACTIVE | Confidence: HIGH
+
+## NUC1 Runtime State (2026-04-09)
+- **Path:** `/home/slimy/mission-control`
+- **Remote:** `git@github.com:GurthBro0ks/mission-control.git`, branch `main`
+- **Last 3 commits:** `12fc26f`, `0f9c025`, `9d8e028` (all "docs: auto-sync")
+- **Dirty:** YES (1 uncommitted)
+- **Supervisor:** systemd system service (`mission-control.service`)
+- **State:** ACTIVE, running
+- **Port:** **3838** — `next-server` pid 4017813, listening on `0.0.0.0:3838`
+- **Classification:** ACTIVE | Confidence: HIGH
+- **Note:** Same service runs on NUC2 port 3838 (separate deployment). Caddy on NUC1 routes traffic to mission-control at its domain routes.
 
 ## See Also
 - [Agents Plugin Ecosystem](agents-plugin-ecosystem.md)

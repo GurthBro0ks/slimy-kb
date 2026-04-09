@@ -1,7 +1,8 @@
 # Apify Market Scanner
 > Category: projects
-> Sources: raw/decisions/2026-04-05-project-apify-market-scanner-nuc1-state.md
+> Sources: raw/decisions/2026-04-05-project-apify-market-scanner-nuc1-state.md, raw/agent-learnings/2026-04-09-nuc1-apify-market-scanner-update.md
 > Created: 2026-04-05
+> Updated: 2026-04-09
 > Status: draft
 
 Apify Market Scanner is an Apify-based market data scraping tool for the trading pipeline.
@@ -9,23 +10,24 @@ Apify Market Scanner is an Apify-based market data scraping tool for the trading
 ## Identification
 - **GitHub:** GurthBro0ks/apify-market-scanner
 - **Local path:** `/opt/slimy/apify-market-scanner`
-- **Branch:** master; last commit `dd8beb5` 2026-02-27
-- **Dirty:** NO
+- **Remote:** `git@github.com:GurthBro0ks/apify-market-scanner.git`
+- **Branch:** master; last commit `51a84b0` ("docs: auto-sync")
+- **Dirty:** YES (1 uncommitted)
 
-## Runtime Status — UNKNOWN
+## Runtime Status — MAINTENANCE/IDLE
 
-No direct runtime evidence found on NUC1:
-- No cron entries reference it
+No active service on NUC1 (confirmed 2026-04-09):
 - No PM2 process
 - No systemd service
 - No Docker container
+- No cron entries referencing this repo directly
 
-**Possible integration:** May be invoked by pm_updown_bot_bundle data collection (`ml/data_collector` every 2h), but this has not been confirmed by grep.
+**Integration point:** May be invoked by `pm_updown_bot_bundle` data collection (`ml/data_collector` every 2h), but unconfirmed.
 
 ## Classification
-- **UNKNOWN** — LOW confidence as active component
+- **MAINTENANCE/IDLE** — Not actively deployed as a service
 - Last commit predates active pm_updown_bot_bundle development
-- Recommend: grep pm_updown_bot_bundle for apify references to confirm or deny
+- Runtime evidence: absent; integration unconfirmed
 
 ## See Also
 - [PM UpDown Bot Bundle](pm-updown-bot-bundle.md)
