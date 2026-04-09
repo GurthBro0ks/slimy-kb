@@ -1,6 +1,6 @@
 # SlimyAI Knowledge Base - Master Index
 > Auto-maintained by LLM agents. Do not edit manually.
-> Last compiled: 2026-04-09
+> Last compiled: 2026-04-09 (child-compile 20260409-141401 — all candidates reviewed: 12 files checked, 0 new wiki articles needed)
 
 ## Categories
 ### Concepts
