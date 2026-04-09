@@ -76,7 +76,7 @@ It executes `kb-maintenance.sh` which:
 To manually trigger: `systemctl --user start kb-maintenance.service`
 To check status: `systemctl --user list-timers --all | grep kb-maintenance`
 
-## Wiki Manager Stage 1.75 (NUC2)
+## Wiki Manager Stage 1.8 (NUC2)
 
 A systemd user timer `wiki-manager-stage1.timer` runs every 12 hours on NUC2.
 It executes `wiki_manager_stage1.sh` which:
@@ -90,30 +90,55 @@ It executes `wiki_manager_stage1.sh` which:
 7. Tracks task history in `output/todo_history.json` (bounded retention: 10 runs / 30 days)
 8. Produces `wiki/_manager-status.md` for quick reference
 9. Writes stable wiki state pages from digest evidence
-10. Appends a wiki-manager entry to `wiki/log.md`
-11. Commits and pushes if KB changed
+10. Updates project-specific wiki pages with machine-managed status blocks
+11. Creates project health index and candidate promotion rules
+12. Appends a wiki-manager entry to `wiki/log.md`
+13. Commits and pushes if KB changed
 
-**Stage 1.75 does NOT dispatch harness jobs.** Todo queue entries are advisory only.
+**Stage 1.8 does NOT dispatch harness jobs.** Todo queue entries are advisory only.
 
 ### Stable State Pages
 
-The manager maintains three durable wiki pages from digest evidence:
+The manager maintains durable wiki pages from digest evidence:
 
 - `wiki/architecture/nuc1-current-state.md` — NUC1 host/repo/service state from NUC1 digest
 - `wiki/architecture/nuc2-current-state.md` — NUC2 host/service/port state from NUC2 digest
 - `wiki/projects/repo-health-overview.md` — Cross-NUC repo status table (dirty/diverged)
+- `wiki/projects/_project-health-index.md` — Project health summary (which repos have pages, coverage gaps)
+- `wiki/_candidate-promotion-rules.md` — Explicit promotion criteria for harness candidates
 
 These pages use `<!-- BEGIN MACHINE MANAGED -->` / `<!-- END MACHINE MANAGED -->` markers.
 Content inside markers is overwritten on each run. Human Notes sections are preserved.
 Pages are only rewritten if content has materially changed (noise control).
 
-### Harness Candidates
+### Project Page Filing
 
-Tasks classified as `harness_candidate` are surfaced in:
-- `output/harness_candidates.md` — operator handoff draft with why it matters, evidence, suggested prompt mode, dispatch blocker
-- `wiki/_manager-status.md` — listed under "Harness Candidates" section
+When digest evidence matches an existing `wiki/projects/*.md` page, the manager updates it with a compact machine-managed status block containing:
+- Last updated timestamp
+- NUC1 status (dirty/diverged) and commit info
+- Open issues relevant to that project
+- Evidence paths
+- Links to related pages
 
-No harness jobs are dispatched in Stage 1.75. Stage 2 will handle actual dispatch.
+Matching is done by repo name against existing project page filenames.
+
+### Harness Candidate Promotion
+
+Tasks can have a `promotion_status`: `not_candidate` | `emerging` | `candidate`.
+Promotion is deterministic and bounded by explicit rules in `wiki/_candidate-promotion-rules.md`.
+
+Key criteria:
+- `occurrence_count >= 3` (with cross-NUC bonus of +2)
+- At least one evidence_path
+- Medium or higher severity
+- Kind allowlist: `repo_drift`, `wiki_gap`, `doc_drift`
+- No blocking dispatch blockers (except `advisory_only`)
+
+Candidate tasks are surfaced in:
+- `output/harness_candidates.md` — richer format with title, project, why it matters, evidence, persistence history, suggested prompt mode, dispatch blocker, related wiki pages
+- `wiki/_manager-status.md` — listed under "Harness Candidates" section with promotion status
+
+**Stage 1.8 does not dispatch.** Candidate status is recorded but dispatch is blocked by `advisory_only`. Stage 2 will handle actual dispatch.
 
 ### Task State Tracking
 
@@ -128,8 +153,9 @@ Task identity is stable based on: `source_host + project + kind + normalized_tit
 
 - `wiki_gap` — KB structural issues (orphans, weak links)
 - `repo_drift` — repo state issues (dirty, diverged from remote)
+- `doc_drift` — docs/runtime mismatch
 - `investigate` — items needing manual review
-- `harness_candidate` — future dispatch candidates (not dispatched in Stage 1.75)
+- `harness_candidate` — future dispatch candidates (not dispatched in Stage 1.8)
 
 ### Severity Heuristics
 
@@ -140,7 +166,7 @@ Task identity is stable based on: `source_host + project + kind + normalized_tit
 
 ### NUC1 Intake (Actively Consumed)
 
-NUC1 digests land in `raw/inbox-nuc1/`. Stage 1.75 parses both formats:
+NUC1 digests land in `raw/inbox-nuc1/`. Stage 1.8 parses both formats:
 - Markdown with `> Type: digest|report|note|inventory` header
 - JSON with `repos[]` array (per-repo: name, dirty, ahead_behind, etc.)
 

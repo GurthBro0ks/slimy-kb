@@ -72,13 +72,13 @@ All task results MUST pass through the proof gate before being written to result
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-04-09T17:45:04Z
+**Last updated:** 2026-04-09T17:47:15Z
 **NUC1 status:** clean, DIVERGED
 **NUC1 commit:** `f6b8e43` — docs: auto-sync project docs from slimy-nuc1 2026-04-09
 **Branch:** master
 
 ### Open Issues
-- **[HIGH]** NUC1 repo diverged from remote: clawd (repo_drift, 15x)
+- **[HIGH]** NUC1 repo diverged from remote: clawd (repo_drift, 16x)
 
 ### Evidence
 - `raw/inbox-nuc1/`

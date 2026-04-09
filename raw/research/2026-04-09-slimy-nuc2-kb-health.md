@@ -1,6 +1,6 @@
 # KB Health Snapshot
 
-**Timestamp:** 2026-04-09T17:45:04Z
+**Timestamp:** 2026-04-09T17:47:14Z
 **Host:** slimy-nuc2
 
 ## File Counts
@@ -29,15 +29,15 @@
 
 ## Log Recent Entries (last 5)
 
-- [2026-04-09 16:25] wiki_manager | stage1.5 todo queue generation
 - [2026-04-09 16:27] wiki_manager | stage1.5 todo queue generation
 - [2026-04-09 16:28] wiki_manager | stage1.5 todo queue generation
 - [2026-04-09 17:10] wiki_manager | stage1.5 todo queue generation
 - [2026-04-09 17:13] wiki_manager | stage1.5 todo queue generation
+- [2026-04-09 17:45] wiki_manager | stage1.5 todo queue generation
 
 ## Recent Output Files (48h)
 
-- harness_candidates.md (2026-04-09 17:44)
+- harness_candidates.md (2026-04-09 17:45)
 - pm-runtime-truth-update-2026-04-09.md (2026-04-09 14:32)
 - prompts/auto-compile-prompt-20260408-092539.md (2026-04-08 13:34)
 - prompts/auto-compile-prompt-20260409-144106.md (2026-04-09 14:41)
@@ -45,7 +45,7 @@
 - todo-20260405-230302.md (2026-04-08 13:34)
 - todo-20260405-230539.md (2026-04-08 13:34)
 - todo-20260408-135944.md (2026-04-08 21:32)
-- todo_queue.md (2026-04-09 17:44)
+- todo_queue.md (2026-04-09 17:45)
 
 ## Compile Candidates
 

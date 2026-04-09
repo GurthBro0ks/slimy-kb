@@ -166,3 +166,22 @@
 - notes: stage1.5 run: todos=12 nuc1_items=3 nuc1_evidence=YES
 
 
+## [2026-04-09 17:47] wiki_manager | stage1.8 todo queue generation
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_candidate-promotion-rules.md
+  - wiki/_manager-status.md
+  - wiki/architecture/nuc1-current-state.md
+  - wiki/architecture/nuc2-current-state.md
+  - wiki/projects/_project-health-index.md
+  - wiki/projects/clawd-agent-rules.md
+  - wiki/projects/ned-autonomous.md
+  - wiki/projects/repo-health-overview.md
+  - wiki/projects/slimy-monorepo.md  - raw/research/2026-04-09-slimy-nuc2-kb-health.md
+  - raw/research/2026-04-09-slimy-nuc2-state.md
+- summary: stage1.8 todo queue generation
+- commit: 8e678af
+- notes: stage1.8 run: todos=12 nuc1_items=3 nuc1_evidence=YES
+
+

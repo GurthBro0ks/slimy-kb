@@ -94,8 +94,8 @@ TASK_COUNT=0
 if [[ -f "$TODO_JSON" ]]; then
     TASK_COUNT=$(python3 -c "import json; print(len(json.load(open('$TODO_JSON'))['tasks']))" 2>/dev/null || echo 0)
 fi
-NOTE="stage1.5 run: todos=$TASK_COUNT nuc1_items=$NUC1_ITEM_COUNT nuc1_evidence=$NUC1_EVIDENCE_USED"
-bash "$KB_TOOLS/kb-log-append.sh" "wiki_manager" "stage1.5 todo queue generation" "$NOTE" >> "$PROOF_DIR/step5-log.log" 2>&1 || EXIT_CODE=1
+NOTE="stage1.8 run: todos=$TASK_COUNT nuc1_items=$NUC1_ITEM_COUNT nuc1_evidence=$NUC1_EVIDENCE_USED"
+bash "$KB_TOOLS/kb-log-append.sh" "wiki_manager" "stage1.8 todo queue generation" "$NOTE" >> "$PROOF_DIR/step5-log.log" 2>&1 || EXIT_CODE=1
 
 # ── STEP 6: Git commit (only if kb changed) ──────────────────────────────────
 log_step "Checking git status..."
@@ -106,7 +106,7 @@ CHANGES=""
 CHANGES=$(git --no-pager diff --cached --stat 2>/dev/null) || true
 if [[ -n "$CHANGES" ]]; then
     log_step "Committing..."
-    git --no-pager commit -m "kb: wiki-manager stage1.5 $(date +%Y-%m-%d-%H%M) from $HOST" >> "$PROOF_DIR/step6-commit.log" 2>&1 || {
+    git --no-pager commit -m "kb: wiki-manager stage1.8 $(date +%Y-%m-%d-%H%M) from $HOST" >> "$PROOF_DIR/step6-commit.log" 2>&1 || {
         echo "WARNING: commit failed" >> "$PROOF_DIR/step6-commit.log"
         EXIT_CODE=1
     }
@@ -152,7 +152,7 @@ nuc1_dirty = json.loads(nuc1_dirty_raw) if nuc1_dirty_raw else []
 nuc1_diverged = json.loads(nuc1_diverged_raw) if nuc1_diverged_raw else []
 
 lines = []
-lines.append("# Wiki Manager Stage 1.75 Proof Bundle")
+lines.append("# Wiki Manager Stage 1.8 Proof Bundle")
 lines.append("")
 lines.append(f"- **Run TS:** {run_ts}")
 lines.append(f"- **Host:** {host}")
@@ -179,6 +179,10 @@ harness_candidates_page = os.path.join(kb_root, 'output', 'harness_candidates.md
 lines.append(f"- nuc1-current-state.md: {'CREATED/UPDATED' if os.path.exists(nuc1_page) else 'SKIPPED'}")
 lines.append(f"- nuc2-current-state.md: {'CREATED/UPDATED' if os.path.exists(nuc2_page) else 'SKIPPED'}")
 lines.append(f"- repo-health-overview.md: {'CREATED/UPDATED' if os.path.exists(repo_page) else 'SKIPPED'}")
+project_health_page = os.path.join(kb_root, 'wiki', 'projects', '_project-health-index.md')
+candidate_rules_page = os.path.join(kb_root, 'wiki', '_candidate-promotion-rules.md')
+lines.append(f"- _project-health-index.md: {'CREATED/UPDATED' if os.path.exists(project_health_page) else 'SKIPPED'}")
+lines.append(f"- _candidate-promotion-rules.md: {'CREATED/UPDATED' if os.path.exists(candidate_rules_page) else 'SKIPPED'}")
 lines.append(f"- harness_candidates.md: {'CREATED' if os.path.exists(harness_candidates_page) else 'none (no candidates)'}")
 lines.append("")
 lines.append("## Todo Queue")
@@ -210,6 +214,10 @@ if todo_json_exists:
     lines.append(f"- total tasks: {len(d.get('tasks', []))}")
     lines.append(f"- nuc1_evidence_used: {d.get('nuc1_evidence_used', False)}")
     lines.append(f"- nuc1_host: {d.get('nuc1_host', 'unknown')}")
+    prom_counts = d.get('promotion_counts', {})
+    lines.append(f"- promotion: candidate={prom_counts.get('candidate', 0)} emerging={prom_counts.get('emerging', 0)} not_candidate={prom_counts.get('not_candidate', 0)}")
+    proj_pages = d.get('project_pages_updated', [])
+    lines.append(f"- project_pages_updated: {json.dumps(proj_pages)}")
 
 lines.append("")
 lines.append("## History")
@@ -224,6 +232,33 @@ else:
     lines.append("- history_task_count: 0")
 
 lines.append("")
+lines.append("## Stage 1.8 Features")
+lines.append("")
+lines.append("### Promotion Counts")
+if todo_json_exists:
+    with open(todo_json) as f:
+        d = json.load(f)
+    prom_counts = d.get('promotion_counts', {})
+    lines.append(f"- candidate: {prom_counts.get('candidate', 0)}")
+    lines.append(f"- emerging: {prom_counts.get('emerging', 0)}")
+    lines.append(f"- not_candidate: {prom_counts.get('not_candidate', 0)}")
+else:
+    lines.append("- (no todo_queue.json)")
+lines.append("")
+lines.append("### Project Pages Updated")
+if todo_json_exists:
+    with open(todo_json) as f:
+        d = json.load(f)
+    proj_pages = d.get('project_pages_updated', [])
+    if proj_pages:
+        for pg in proj_pages:
+            lines.append(f"- {pg}")
+    else:
+        lines.append("- none")
+else:
+    lines.append("- (no todo_queue.json)")
+lines.append("")
+
 lines.append("## Git")
 lines.append("")
 lines.append(f"- did_commit: {did_commit}")
@@ -305,7 +340,7 @@ python3 -c "$PROOF_SCRIPT" \
     "$CHANGES" \
     >> "$PROOF_DIR/step8-proof.log" 2>&1 || true
 
-log_step "Stage 1.75 complete. Proof at $PROOF_DIR"
+log_step "Stage 1.8 complete. Proof at $PROOF_DIR"
 echo "EXIT_CODE=$EXIT_CODE"
 echo "PROOF_DIR=$PROOF_DIR"
 echo "TODO_JSON=${TODO_JSON:-none}"
