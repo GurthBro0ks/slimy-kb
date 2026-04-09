@@ -498,6 +498,7 @@ last_sync_date() {
 
 run_daily() {
     local conflict_count inbox_pending uncompiled_count stale_count
+    local orphan_count weaklink_count
     local last_compile last_sync suggestion
 
     conflict_count=$(find "$KB_ROOT" "$VAULT_ROOT" -type f -iname '*conflict*' 2>/dev/null | wc -l | tr -d ' ')
@@ -507,6 +508,19 @@ run_daily() {
     last_compile=$(last_compile_date)
     last_sync=$(last_sync_date)
 
+    # Read link analysis counts from _orphans.md and _weak-links.md
+    orphan_count=0
+    weaklink_count=0
+    if [[ -f "$KB_WIKI/_orphans.md" ]]; then
+        # Only count entries in "All Orphaned Pages" section (after that header)
+        orphan_count=$(sed -n '/^## All Orphaned Pages$/,/^##/p' "$KB_WIKI/_orphans.md" 2>/dev/null | grep -E "^\- \`" | wc -l | tr -d ' ')
+        [[ -z "$orphan_count" ]] && orphan_count=0
+    fi
+    if [[ -f "$KB_WIKI/_weak-links.md" ]]; then
+        weaklink_count=$(grep -E "^\- \`" "$KB_WIKI/_weak-links.md" 2>/dev/null | wc -l | tr -d ' ')
+        [[ -z "$weaklink_count" ]] && weaklink_count=0
+    fi
+
     if [[ "$conflict_count" -gt 0 ]]; then
         suggestion="Resolve conflict files first, then rerun daily."
     elif [[ "$inbox_pending" -gt 0 ]]; then
@@ -515,6 +529,8 @@ run_daily() {
         suggestion="Run wiki prompt-compile and process uncompiled raw files."
     elif [[ "$stale_count" -gt 0 ]]; then
         suggestion="Refresh stale wiki articles, starting with highest-value pages."
+    elif [[ "$orphan_count" -gt 0 ]]; then
+        suggestion="Run wiki lint to review orphaned pages (_orphans.md)."
     else
         suggestion="No pending KB maintenance; capture new notes or run wiki prompt-query."
     fi
@@ -524,6 +540,8 @@ run_daily() {
     echo "Inbox Pending Count: $inbox_pending"
     echo "Uncompiled Raw Count: $uncompiled_count"
     echo "Stale Article Count: $stale_count"
+    echo "Orphaned Pages: $orphan_count"
+    echo "Weak Links: $weaklink_count"
     echo "Last Compile Date: $last_compile"
     echo "Last Sync Date: $last_sync"
     echo "Suggested Next Action: $suggestion"
