@@ -1,8 +1,8 @@
 # PM UpDown Bot Bundle
 > Category: projects
-> Sources: raw/decisions/seed-pm_updown_bot_bundle-agents.md, raw/decisions/2026-04-05-project-pm-updown-bot-bundle-nuc1-state.md, raw/decisions/2026-04-05-project-pm-updown-bot-bundle-nuc2-state.md
+> Sources: raw/decisions/seed-pm_updown_bot_bundle-agents.md, raw/decisions/2026-04-05-project-pm-updown-bot-bundle-nuc1-state.md, raw/decisions/2026-04-05-project-pm-updown-bot-bundle-nuc2-state.md, raw/decisions/2026-04-09-project-proofs.md
 > Created: 2026-04-04
-> Updated: 2026-04-05
+> Updated: 2026-04-09
 > Status: draft
 
 This bundle hosts trading bot strategy code, venue connectors, and operations scripts.
@@ -42,6 +42,18 @@ This bundle hosts trading bot strategy code, venue connectors, and operations sc
   - `*/15 * * * *` rsync paper_trading/*.db from NUC1 → `/opt/slimy/trading-data-mirror/paper_trading/`
   - `*/15 * * * *` rsync bootstrap_validation_*.json proofs from NUC1 → mirror target
 - **Classification:** DORMANT on NUC2 | Confidence: HIGH
+
+## Proofs Subdirectory
+- **Path:** `/opt/slimy/pm_updown_bot_bundle/proofs`
+- **GitHub remote:** same as parent (`git@github.com:GurthBro0ks/pm_updown_bot_bundle.git`)
+- **Branch:** main
+- **Type:** tool (proof-gated workflows subdirectory)
+- **Status:** ACTIVE_DIRTY
+- **Priority:** low
+- **Purpose:** Proof storage for trading bot bundle. Proof-gated workflows require validated proofs before execution.
+- **Truth gate:** `git -C /opt/slimy/pm_updown_bot_bundle/proofs log -1 --oneline`
+- **Risks:** no independent remote; subdirectory of pm_updown_bot_bundle
+- **NUC2 rsync mirror:** `*/15 * * * *` rsync `bootstrap_validation_*.json` proofs from NUC1 → mirror target
 
 ## See Also
 - [Agent Session Contract](../concepts/agent-session-contract.md)
