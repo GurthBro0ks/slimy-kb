@@ -1,6 +1,6 @@
 # SlimyAI Knowledge Base - Master Index
 > Auto-maintained by LLM agents. Do not edit manually.
-> Last compiled: 2026-04-09 (child-compile 20260409-141429 — incorporated: apify-market-scanner runtime→MAINTENANCE, mission-control NUC1 state, slimy-chat Docker stack, slimy-monorepo NUC2 services/routes; seed files handled by existing articles; 30 compile candidates reviewed: deferred per pattern in kb-autofinish-autocompile-fix.md)
+> Last compiled: 2026-04-09 (child-compile 20260409-143310 — compiled slimyai-setup.md NUC2 state update (reviewed); all other candidates deferred as previously documented)
 
 ## Categories
 ### Concepts

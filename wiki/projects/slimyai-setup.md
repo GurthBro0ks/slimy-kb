@@ -1,9 +1,9 @@
 # Slimyai Setup
 > Category: projects
-> Sources: raw/decisions/2026-04-05-project-slimyai-setup-nuc1-state.md, raw/decisions/2026-04-05-project-slimyai-setup-nuc2-state.md, raw/decisions/2026-04-07-bot-monorepo-migration-complete.md, raw/agent-learnings/2026-04-09-nuc1-discord-bot-runtime-truth.md
+> Sources: raw/decisions/2026-04-05-project-slimyai-setup-nuc1-state.md, raw/decisions/2026-04-05-project-slimyai-setup-nuc2-state.md, raw/decisions/2026-04-07-bot-monorepo-migration-complete.md, raw/agent-learnings/2026-04-09-nuc1-discord-bot-runtime-truth.md, raw/agent-learnings/2026-04-09-nuc2-slimyai-setup-update.md
 > Created: 2026-04-05
 > Updated: 2026-04-09
-> Status: stale
+> Status: reviewed
 
 Slimyai Setup is the **deprecated JS Discord bot** (GurthBro0ks/slimyai_setup). It has been superseded by `slimy-bot-v2` in the slimy-monorepo and is **not running on any NUC**.
 
@@ -20,10 +20,16 @@ Slimyai Setup is the **deprecated JS Discord bot** (GurthBro0ks/slimyai_setup). 
 - **PM2:** No entry for old bot
 - **Supervisor:** None — fully retired
 
-## NUC2 State (Historical — 2026-04-05 scan)
-- slimy-web-health.service was FAILED at scan time (referenced missing `/opt/slimy/ops/healthcheck.sh`)
-- `/opt/slimy/app` path present but **not running** — bot had already been migrated
-- Classification noted as PRESENT_NOT_RUNNING at time of scan
+## NUC2 State (Current — 2026-04-09)
+- **Path:** `/opt/slimy/app` (Discord bot super-snail)
+- **Branch:** main; HEAD `c1fbf1b` 2026-04-05
+- **Supervisor:** PM2 (ecosystem.config.js) or direct node
+- **Classification:** ACTIVE | Confidence: HIGH
+- **Key scripts:** `scripts/ingest-club-screenshots.js` for club screenshot OCR ingest
+- **Services:** slimy-mysql-tunnel.service (port 3307) for SSH tunnel to NUC1 MySQL
+- **Primary commands:** `/club analyze`, `/club stats`, `/club-admin`
+- **MySQL:** via SSH tunnel (port 3307 to NUC1)
+- **Google Sheets:** API integration for club member tracking
 
 ## Supersession
 - **Successor:** `slimy-bot-v2` in slimy-monorepo (`/opt/slimy/slimy-monorepo/apps/bot/`)
