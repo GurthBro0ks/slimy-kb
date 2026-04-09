@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 """
-wiki_manager_stage1.py — Stage 1.5 todo queue generator.
+wiki_manager_stage1.py — Stage 1.75 todo queue generator + stable wiki pages.
 
-Improvements over Stage 1:
-- NUC1 inbox parsed as first-class evidence (markdown + JSON)
-- Task deduplication via todo_history.json (bounded retention)
-- Task state tracking: new / persisting / resolved
-- Cross-NUC evidence incorporated
-- Better severity heuristics
-- Clearer task kind distinctions
-- Human-readable markdown with NEW/PERSISTING/RESOLVED sections
-
-Stage 1.5 is advisory only: does NOT dispatch harness jobs.
+Improvements over Stage 1.5:
+- Generates durable wiki state pages from digest evidence:
+    architecture/nuc1-current-state.md
+    architecture/nuc2-current-state.md
+    projects/repo-health-overview.md
+- Machine-managed sections use <!-- BEGIN/END MACHINE MANAGED --> markers
+- Noise control: skip write if content has not materially changed
+- Human notes sections preserved
+- Improved _manager-status.md with stable page list + harness candidates
+- Harness candidate drafts surfaced in todo_queue.md and output/harness_candidates.md
+- Stage 1.75 is still advisory only: does NOT dispatch harness jobs.
 """
 import json
 import sys
@@ -532,18 +533,267 @@ def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
 
     lines.append("---")
     lines.append("")
-    lines.append("*Stage 1.5 — advisory only. No harness jobs dispatched.*")
+    lines.append("*Stage 1.75 — advisory only. No harness jobs dispatched.*")
 
     return "\n".join(lines)
 
 
-def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map):
-    """Write optional _manager-status.md wiki page."""
+WIKI_ARCH_DIR = Path("/home/slimy/kb/wiki/architecture")
+WIKI_PROJ_DIR = Path("/home/slimy/kb/wiki/projects")
+NUC1_STATE_PAGE = WIKI_ARCH_DIR / "nuc1-current-state.md"
+NUC2_STATE_PAGE = WIKI_ARCH_DIR / "nuc2-current-state.md"
+REPO_HEALTH_PAGE = WIKI_PROJ_DIR / "repo-health-overview.md"
+HARNESS_CANDIDATES_MD = OUTPUT_DIR / "harness_candidates.md"
+
+
+def write_stable_page(path: Path, content: str) -> bool:
+    """
+    Write a stable wiki page only if content has materially changed.
+    Returns True if written, False if skipped.
+    """
+    path.parent.mkdir(parents=True, exist_ok=True)
+    if path.exists():
+        existing = path.read_text()
+        if existing == content:
+            return False  # no material change
+    path.write_text(content)
+    return True
+
+
+def build_nuc1_state_content(nuc1_json: dict, nuc1_md: dict, todos: list[dict]) -> str:
+    """Build architecture/nuc1-current-state.md content."""
+    lines = []
+    lines.append("# NUC1 Current State")
+    lines.append("")
+    lines.append("> Category: architecture")
+    lines.append(f"> Updated: {TIMESTAMP}")
+    lines.append(f"> Sources: raw/inbox-nuc1/")
+    lines.append("> Status: active")
+    lines.append("")
+    lines.append("<!-- BEGIN MACHINE MANAGED — Do not edit manually -->")
+    lines.append("")
+    lines.append("## Host")
+    lines.append(f"- **Hostname:** {nuc1_json.get('nuc1_host', 'unknown')}")
+    lines.append(f"- **Last seen:** {nuc1_json.get('ts', 'unknown')}")
+    lines.append("")
+    lines.append("## Repository Status")
+    dirty = nuc1_json.get("dirty_repos", [])
+    diverged = nuc1_json.get("diverged_repos", [])
+    all_repos = nuc1_json.get("repos", [])
+    lines.append(f"- **Total repos tracked:** {len(all_repos)}")
+    lines.append(f"- **Dirty (uncommitted changes):** {', '.join(dirty) if dirty else '_none_'}")
+
+    # Diverged: ahead AND behind
+    diverged_list = [r for r in all_repos if (r.get("ahead_behind") or {}).get("ahead", 0) > 0
+                    and (r.get("ahead_behind") or {}).get("behind", 0) > 0]
+    diverged_names = [r["name"] for r in diverged_list]
+    lines.append(f"- **Diverged (ahead + behind remote):** {', '.join(diverged_names) if diverged_names else '_none_'}")
+
+    lines.append("")
+    lines.append("## Active Services (from digest)")
+    services = nuc1_md.get("active_services", [])
+    if services:
+        for s in services[:10]:
+            lines.append(f"- {s}")
+    else:
+        lines.append("- _(none detected in this digest)_")
+    lines.append("")
+    lines.append("## Open Issues (from todo queue)")
+    nuc1_tasks = [t for t in todos if t.get("source_scope") == "cross_nuc" and t.get("source_host") in ("nuc1", "nuc1")]
+    if nuc1_tasks:
+        for t in nuc1_tasks:
+            lines.append(f"- **[{t['severity'].upper()}]** {t['title']} — {t['kind']}")
+    else:
+        lines.append("- _No open NUC1 issues in current queue_")
+    lines.append("")
+    lines.append("<!-- END MACHINE MANAGED -->")
+    lines.append("")
+    lines.append("## Human Notes")
+    lines.append("")
+    lines.append("<!-- Add notes here — this section is preserved on machine-managed runs -->")
+    lines.append("")
+    lines.append("## See Also")
+    lines.append("- [NUC Topology and Services](../architecture/nuc-topology-and-services.md)")
+    lines.append("- [NUC2 Current State](nuc2-current-state.md)")
+    lines.append("- [Cross-NUC Communication Matrix](../architecture/cross-nuc-communication-matrix.md)")
+    return "\n".join(lines)
+
+
+def build_nuc2_state_content(nuc2_state_md: str, todos: list[dict]) -> str:
+    """Build architecture/nuc2-current-state.md content."""
+    lines = []
+    lines.append("# NUC2 Current State")
+    lines.append("")
+    lines.append("> Category: architecture")
+    lines.append(f"> Updated: {TIMESTAMP}")
+    lines.append("> Status: active")
+    lines.append("")
+    lines.append("<!-- BEGIN MACHINE MANAGED — Do not edit manually -->")
+    lines.append("")
+    lines.append("## Host")
+    lines.append(f"- **Hostname:** {HOST}")
+    lines.append(f"- **Last updated:** {TIMESTAMP}")
+    lines.append("")
+    lines.append("## Active Services")
+    # Parse services from nuc2_state_md
+    in_services = False
+    service_lines = []
+    for line in nuc2_state_md.splitlines():
+        if "## Active PM2" in line or "PM2 Processes" in line:
+            in_services = True
+            continue
+        if in_services and line.startswith("## "):
+            in_services = False
+        if in_services and line.strip():
+            service_lines.append(line.strip())
+    if service_lines:
+        for s in service_lines[:10]:
+            lines.append(f"- {s}")
+    else:
+        lines.append("- _(parsing unavailable)_")
+    lines.append("")
+    lines.append("## Network Ports")
+    port_lines = []
+    for line in nuc2_state_md.splitlines():
+        if any(str(p) in line for p in [3000, 3838, 3850, 18790, 18792, 18793, 5432, 3307]):
+            port_lines.append(line.strip())
+    for pl in port_lines[:10]:
+        lines.append(f"- `{pl}`")
+    lines.append("")
+    lines.append("## KB Health")
+    orphan_m = re.search(r"orphans.*?(\d+)", nuc2_state_md)
+    weak_m = re.search(r"weak-links.*?(\d+)", nuc2_state_md)
+    if orphan_m:
+        lines.append(f"- **Orphaned pages:** {orphan_m.group(1)}")
+    if weak_m:
+        lines.append(f"- **Weak-linked pages:** {weak_m.group(1)}")
+    lines.append("")
+    lines.append("## Open Issues (from todo queue)")
+    nuc2_tasks = [t for t in todos if t.get("source_scope") == "nuc2" or t.get("source_host") == HOST]
+    wiki_gaps = [t for t in nuc2_tasks if t.get("kind") == "wiki_gap"]
+    if wiki_gaps:
+        for t in wiki_gaps:
+            lines.append(f"- **[{t['severity'].upper()}]** {t['title']} — {t['kind']}")
+    else:
+        lines.append("- _No open NUC2 issues in current queue_")
+    lines.append("")
+    lines.append("<!-- END MACHINE MANAGED -->")
+    lines.append("")
+    lines.append("## Human Notes")
+    lines.append("")
+    lines.append("<!-- Add notes here — this section is preserved on machine-managed runs -->")
+    lines.append("")
+    lines.append("## See Also")
+    lines.append("- [NUC Topology and Services](nuc-topology-and-services.md)")
+    lines.append("- [NUC1 Current State](nuc1-current-state.md)")
+    lines.append("- [Slimy KB](../projects/slimy-kb.md)")
+    return "\n".join(lines)
+
+
+def build_repo_health_content(nuc1_json: dict, nuc2_state_md: str) -> str:
+    """Build projects/repo-health-overview.md content."""
+    lines = []
+    lines.append("# Repo Health Overview")
+    lines.append("")
+    lines.append("> Category: projects")
+    lines.append(f"> Updated: {TIMESTAMP}")
+    lines.append("> Status: active")
+    lines.append("")
+    lines.append("<!-- BEGIN MACHINE MANAGED — Do not edit manually -->")
+    lines.append("")
+    lines.append("## Cross-NUC Repo Summary")
+    lines.append("")
+    lines.append("### NUC1 Repos")
+    nuc1_repos = nuc1_json.get("repos", [])
+    dirty = nuc1_json.get("dirty_repos", [])
+    diverged = nuc1_json.get("diverged_repos", [])
+    if nuc1_repos:
+        lines.append(f"| Repo | Dirty | Diverged |")
+        lines.append("|------|--------|----------|")
+        for r in nuc1_repos[:20]:
+            name = r.get("name", "?")
+            is_dirty = "⚠️ YES" if name in dirty else "—"
+            is_diverged = "⚠️ YES" if name in diverged else "—"
+            lines.append(f"| {name} | {is_dirty} | {is_diverged} |")
+    else:
+        lines.append("_No NUC1 repo data available in this digest._")
+    lines.append("")
+    lines.append("### NUC2 Repos")
+    lines.append("- _NUC2 repo state parsed from local git status_")
+    lines.append("")
+    lines.append("## Action Required")
+    action_items = []
+    if dirty:
+        action_items.append(f"- **Dirty on NUC1:** {', '.join(dirty)} — commit or stash")
+    if diverged:
+        action_items.append(f"- **Diverged on NUC1:** {', '.join(diverged)} — merge or rebase")
+    if not action_items:
+        lines.append("- _No repo drift detected in this run_")
+    else:
+        for a in action_items:
+            lines.append(a)
+    lines.append("")
+    lines.append("<!-- END MACHINE MANAGED -->")
+    lines.append("")
+    lines.append("## Human Notes")
+    lines.append("")
+    lines.append("<!-- Add notes here — this section is preserved on machine-managed runs -->")
+    lines.append("")
+    lines.append("## See Also")
+    lines.append("- [NUC1 Current State](../architecture/nuc1-current-state.md)")
+    lines.append("- [NUC2 Current State](../architecture/nuc2-current-state.md)")
+    lines.append("- [Slimy KB](../projects/slimy-kb.md)")
+    return "\n".join(lines)
+
+
+def write_harness_candidates(todos: list[dict]) -> bool:
+    """Write output/harness_candidates.md for tasks that are harness_candidate kind.
+    Returns True if written, False if no candidates.
+    """
+    candidates = [t for t in todos if t.get("kind") == "harness_candidate"]
+    if not candidates:
+        return False
+
+    lines = []
+    lines.append(f"# Harness Candidates — {TIMESTAMP}")
+    lines.append("")
+    lines.append(f"_Auto-generated by wiki-manager-stage1. Not dispatched._")
+    lines.append("")
+    lines.append(f"**Total candidates:** {len(candidates)}")
+    lines.append("")
+
+    for t in candidates:
+        lines.append(f"## [{t['id']}] {t['title']}")
+        lines.append("")
+        lines.append(f"- **Severity:** {t['severity']}")
+        lines.append(f"- **Kind:** {t['kind']}")
+        lines.append(f"- **Source:** {t.get('source_host', 'unknown')} ({t.get('source_scope', 'unknown')})")
+        lines.append(f"- **Why it matters:** {t.get('reason', 'N/A')}")
+        lines.append(f"- **Evidence:** {', '.join(t.get('evidence_paths', [])) or 'N/A'}")
+        lines.append(f"- **Suggested prompt mode:** {t.get('suggested_prompt_mode', 'auto')}")
+        lines.append(f"- **Dispatch blocker:** {t.get('dispatch_blocker', 'advisory_only — Stage 1.75 does not dispatch')}")
+        if t.get("recommended_action"):
+            lines.append(f"- **Recommended action:** {t['recommended_action']}")
+        lines.append("")
+
+    lines.append("---")
+    lines.append("_Do not dispatch manually — this output is advisory. Stage 2 will handle actual dispatch._")
+
+    HARNESS_CANDIDATES_MD.parent.mkdir(parents=True, exist_ok=True)
+    HARNESS_CANDIDATES_MD.write_text("\n".join(lines))
+    return True
+
+
+def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map, nuc2_state_md_for_status=""):
+    """Write _manager-status.md wiki page with stable pages list and harness candidates."""
     by_kind = {}
     by_state = {"new": 0, "persisting": 0, "resolved": 0}
+    harness_candidates = []
     for t in todos:
         by_kind.setdefault(t["kind"], []).append(t)
         by_state[t.get("state", "new")] = by_state.get(t.get("state", "new"), 0) + 1
+        if t.get("kind") == "harness_candidate":
+            harness_candidates.append(t)
 
     lines = []
     lines.append(f"# Wiki Manager Status")
@@ -569,6 +819,20 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map):
     for kind, tasks in sorted(by_kind.items()):
         lines.append(f"- **{kind}:** {len(tasks)}")
     lines.append("")
+    lines.append("## Stable Pages Updated")
+    lines.append("")
+    nuc1_updated = "YES" if nuc1_info.get("repos") else "SKIPPED (no NUC1 evidence)"
+    lines.append(f"- [nuc1-current-state.md](architecture/nuc1-current-state.md): {nuc1_updated}")
+    nuc2_has_state = bool(nuc2_state_md_for_status)
+    lines.append(f"- [nuc2-current-state.md](architecture/nuc2-current-state.md): {'YES' if nuc2_has_state else 'SKIPPED (no NUC2 digest)'}")
+    lines.append(f"- [repo-health-overview.md](projects/repo-health-overview.md): {'YES' if nuc1_info.get('repos') or nuc2_has_state else 'SKIPPED'}")
+    lines.append("")
+    if harness_candidates:
+        lines.append("## Harness Candidates")
+        lines.append("")
+        for t in harness_candidates:
+            lines.append(f"- **[{t['id']}]** {t['title']} (severity: {t['severity']})")
+        lines.append("")
     lines.append("## Task List")
     lines.append("")
     for t in todos:
@@ -606,11 +870,12 @@ def call_ollama(model: str, prompt: str) -> str:
 # ── Main ────────────────────────────────────────────────────────────────────
 
 def main():
-    parser = argparse.ArgumentParser(description="Wiki Manager Stage 1.5 — todo queue generator")
+    parser = argparse.ArgumentParser(description="Wiki Manager Stage 1.75 — todo queue + stable wiki pages")
     parser.add_argument("--orphans", default="")
     parser.add_argument("--weak-links", default="")
     parser.add_argument("--nuc1-json", default="")
     parser.add_argument("--nuc1-md", default="")
+    parser.add_argument("--nuc2-md", default="")
     parser.add_argument("--backend", default="stub", choices=["ollama", "stub"])
     parser.add_argument("--model", default="qwen2.5:7b")
     args = parser.parse_args()
@@ -629,16 +894,22 @@ def main():
         key = t.get("task_key", task_key(t))
         entry = next((e for e in history["tasks"] if e["task_key"] == key), None)
         occ = entry["occurrence_count"] if entry else 1
-        base_sev = t.get("severity", "medium")
-        # Re-score if we have better info
         new_sev = compute_severity(t, nuc1_info, occ)
         t["severity"] = new_sev
 
-    # Write history (before we add tasks to it — history is source of truth for state)
+    # Write history
     with open(TODO_HISTORY, "w") as f:
         json.dump(history, f, indent=2)
 
     nuc1_used = bool(nuc1_info.get("repos") or nuc1_info.get("dirty_repos"))
+
+    # Write stable wiki pages (with noise control — skip if unchanged)
+    nuc1_written = write_stable_page(NUC1_STATE_PAGE, build_nuc1_state_content(nuc1_info, {}, todos))
+    nuc2_written = write_stable_page(NUC2_STATE_PAGE, build_nuc2_state_content(args.nuc2_md, todos))
+    repo_written = write_stable_page(REPO_HEALTH_PAGE, build_repo_health_content(nuc1_info, args.nuc2_md))
+
+    # Write harness candidates
+    harness_written = write_harness_candidates(todos)
 
     # Write JSON output
     output = {
@@ -651,6 +922,12 @@ def main():
         "nuc1_host": nuc1_info.get("nuc1_host", "unknown"),
         "orphan_count": len(orphans),
         "weak_link_count": len(weak_links),
+        "stable_pages_written": {
+            "nuc1_current_state": nuc1_written,
+            "nuc2_current_state": nuc2_written,
+            "repo_health_overview": repo_written
+        },
+        "harness_candidates_written": harness_written,
         "tasks": todos
     }
     with open(TODO_JSON, "w") as f:
@@ -661,13 +938,15 @@ def main():
     with open(TODO_MD, "w") as f:
         f.write(md)
 
-    # Write optional manager status
-    write_manager_status(todos, args.backend, nuc1_used, nuc1_info, state_map)
+    # Write manager status (pass NUC2 digest for stable page tracking)
+    write_manager_status(todos, args.backend, nuc1_used, nuc1_info, state_map, nuc2_state_md_for_status=args.nuc2_md)
 
     print(f"todo_queue.json: {TODO_JSON} ({len(todos)} tasks)")
     print(f"todo_queue.md: {TODO_MD}")
     print(f"todo_history.json: {TODO_HISTORY}")
     print(f"nuc1_evidence_used: {nuc1_used}")
+    print(f"Stable pages: nuc1={nuc1_written} nuc2={nuc2_written} repo={repo_written}")
+    print(f"Harness candidates: {'YES' if harness_written else 'none'}")
     print(f"Backend: {args.backend}")
 
 

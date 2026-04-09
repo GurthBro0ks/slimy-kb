@@ -1,6 +1,6 @@
 # KB Health Snapshot
 
-**Timestamp:** 2026-04-09T16:28:13Z
+**Timestamp:** 2026-04-09T17:10:08Z
 **Host:** slimy-nuc2
 
 ## File Counts
@@ -29,11 +29,11 @@
 
 ## Log Recent Entries (last 5)
 
-- [2026-04-09 15:11] wiki_manager | stage1 todo queue generation
 - [2026-04-09 15:15] wiki_manager | stage1 todo queue generation
 - [2026-04-09 15:58] compile | slimy-nuc1
 - [2026-04-09 16:25] wiki_manager | stage1.5 todo queue generation
 - [2026-04-09 16:27] wiki_manager | stage1.5 todo queue generation
+- [2026-04-09 16:28] wiki_manager | stage1.5 todo queue generation
 
 ## Recent Output Files (48h)
 
@@ -44,7 +44,7 @@
 - todo-20260405-230302.md (2026-04-08 13:34)
 - todo-20260405-230539.md (2026-04-08 13:34)
 - todo-20260408-135944.md (2026-04-08 21:32)
-- todo_queue.md (2026-04-09 16:27)
+- todo_queue.md (2026-04-09 16:28)
 
 ## Compile Candidates
 

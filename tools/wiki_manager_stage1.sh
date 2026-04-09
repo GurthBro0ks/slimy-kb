@@ -40,6 +40,12 @@ WEAK_LINKS_CONTENT=$(cat "$KB_ROOT/wiki/_weak-links.md" 2>/dev/null || echo "")
 # Recent digests from NUC2 (last 48h)
 RECENT_NUC2_DIGESTS=$(find "$KB_ROOT/raw/research" -name "*nuc2*" -name "*.md" -mtime -2 2>/dev/null | sort)
 
+# Capture NUC2 state markdown (latest digest)
+NUC2_MD_CONTENT=""
+if [[ -n "$RECENT_NUC2_DIGESTS" ]]; then
+    NUC2_MD_CONTENT=$(cat "$(echo "$RECENT_NUC2_DIGESTS" | tail -1)" 2>/dev/null || echo "")
+fi
+
 # ── NUC1 inbox — parse separately by type ────────────────────────────────────
 NUC1_INBOX="$KB_ROOT/raw/inbox-nuc1"
 NUC1_ITEM_COUNT=0
@@ -71,6 +77,7 @@ python3 "$KB_TOOLS/wiki_manager_stage1.py" \
     --weak-links "$WEAK_LINKS_CONTENT" \
     --nuc1-json "$NUC1_JSON_CONTENT" \
     --nuc1-md "$NUC1_MD_CONTENT" \
+    --nuc2-md "$NUC2_MD_CONTENT" \
     --backend "${KB_MANAGER_BACKEND:-stub}" \
     --model "${KB_MANAGER_MODEL:-qwen2.5:7b}" \
     >> "$PROOF_DIR/step4-todo.log" 2>&1 || {
@@ -145,7 +152,7 @@ nuc1_dirty = json.loads(nuc1_dirty_raw) if nuc1_dirty_raw else []
 nuc1_diverged = json.loads(nuc1_diverged_raw) if nuc1_diverged_raw else []
 
 lines = []
-lines.append("# Wiki Manager Stage 1.5 Proof Bundle")
+lines.append("# Wiki Manager Stage 1.75 Proof Bundle")
 lines.append("")
 lines.append(f"- **Run TS:** {run_ts}")
 lines.append(f"- **Host:** {host}")
@@ -161,6 +168,18 @@ lines.append(f"- NUC1 item count: {nuc1_count}")
 lines.append(f"- NUC1 evidence consumed: {nuc1_evidence}")
 lines.append(f"- NUC1 dirty repos: {json.dumps(nuc1_dirty)}")
 lines.append(f"- NUC1 diverged repos: {json.dumps(nuc1_diverged)}")
+lines.append("")
+lines.append("## Stable Pages")
+lines.append("")
+kb_root = os.path.dirname(os.path.dirname(proof_dir))
+nuc1_page = os.path.join(kb_root, 'wiki', 'architecture', 'nuc1-current-state.md')
+nuc2_page = os.path.join(kb_root, 'wiki', 'architecture', 'nuc2-current-state.md')
+repo_page = os.path.join(kb_root, 'wiki', 'projects', 'repo-health-overview.md')
+harness_candidates_page = os.path.join(kb_root, 'output', 'harness_candidates.md')
+lines.append(f"- nuc1-current-state.md: {'CREATED/UPDATED' if os.path.exists(nuc1_page) else 'SKIPPED'}")
+lines.append(f"- nuc2-current-state.md: {'CREATED/UPDATED' if os.path.exists(nuc2_page) else 'SKIPPED'}")
+lines.append(f"- repo-health-overview.md: {'CREATED/UPDATED' if os.path.exists(repo_page) else 'SKIPPED'}")
+lines.append(f"- harness_candidates.md: {'CREATED' if os.path.exists(harness_candidates_page) else 'none (no candidates)'}")
 lines.append("")
 lines.append("## Todo Queue")
 lines.append("")
@@ -286,7 +305,7 @@ python3 -c "$PROOF_SCRIPT" \
     "$CHANGES" \
     >> "$PROOF_DIR/step8-proof.log" 2>&1 || true
 
-log_step "Stage 1.5 complete. Proof at $PROOF_DIR"
+log_step "Stage 1.75 complete. Proof at $PROOF_DIR"
 echo "EXIT_CODE=$EXIT_CODE"
 echo "PROOF_DIR=$PROOF_DIR"
 echo "TODO_JSON=${TODO_JSON:-none}"
@@ -294,3 +313,7 @@ echo "TODO_MD=${TODO_MD:-none}"
 echo "TODO_HISTORY=${TODO_HISTORY:-none}"
 echo "NUC1_EVIDENCE_USED=$NUC1_EVIDENCE_USED"
 echo "BACKEND=${KB_MANAGER_BACKEND:-stub}"
+echo "MANAGER_STATUS_PAGE=$KB_ROOT/wiki/_manager-status.md"
+echo "NUC1_STATE_PAGE=$KB_ROOT/wiki/architecture/nuc1-current-state.md"
+echo "NUC2_STATE_PAGE=$KB_ROOT/wiki/architecture/nuc2-current-state.md"
+echo "REPO_HEALTH_PAGE=$KB_ROOT/wiki/projects/repo-health-overview.md"

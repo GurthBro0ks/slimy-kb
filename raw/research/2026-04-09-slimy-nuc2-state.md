@@ -1,6 +1,6 @@
 # NUC2 State Digest
 
-**Timestamp:** 2026-04-09T16:28:09Z
+**Timestamp:** 2026-04-09T17:10:05Z
 **Host:** slimy-nuc2
 
 ## Systemd User Services
@@ -9,12 +9,12 @@
 
 ## Systemd User Timers
 
-Fri 2026-04-10 02:32:57 UTC      10h Thu 2026-04-09 14:32:57 UTC 1h 55min ago kb-maintenance.timer           kb-maintenance.service
-Fri 2026-04-10 03:09:42 UTC      10h Thu 2026-04-09 15:09:42 UTC 1h 18min ago wiki-manager-stage1.timer      wiki-manager-stage1.service
+Fri 2026-04-10 02:32:57 UTC      9h Thu 2026-04-09 14:32:57 UTC 2h 37min ago kb-maintenance.timer           kb-maintenance.service
+Fri 2026-04-10 03:09:42 UTC      9h Thu 2026-04-09 15:09:42 UTC  2h 0min ago wiki-manager-stage1.timer      wiki-manager-stage1.service
 
 ## KB Maintenance Timer
 
-Fri 2026-04-10 02:32:57 UTC      10h Thu 2026-04-09 14:32:57 UTC 1h 55min ago kb-maintenance.timer           kb-maintenance.service
+Fri 2026-04-10 02:32:57 UTC      9h Thu 2026-04-09 14:32:57 UTC 2h 37min ago kb-maintenance.timer           kb-maintenance.service
 
 ## Active PM2 Processes
 
@@ -41,18 +41,19 @@ LISTEN 0      511                          [::1]:18790         [::]:*    users:(
 
 ## Disk Usage (KB-relevant paths)
 
-7.8M	/home/slimy/kb
+7.9M	/home/slimy/kb
 36G	/home/slimy
 - /home/slimy: (unable to measure)
 
 ## Uptime
 
- 16:28:13 up 3 days, 17:21,  2 users,  load average: 0.45, 0.45, 0.30
+ 17:10:08 up 3 days, 18:03,  2 users,  load average: 0.21, 0.19, 0.18
 
 ## KB Git Status
 
  M raw/research/2026-04-09-slimy-nuc2-state.md
  M tools/wiki_manager_stage1.py
+ M tools/wiki_manager_stage1.sh
 - ahead: 0
 - behind: 0
 
