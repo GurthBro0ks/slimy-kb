@@ -66,3 +66,14 @@
 - notes: stage1 run: todos=0), nuc1_inbox_items=0
 
 
+## [2026-04-09 15:11] wiki_manager | stage1 todo queue generation
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_nuc-intake.md  - raw/research/2026-04-09-slimy-nuc2-kb-health.md
+  - raw/research/2026-04-09-slimy-nuc2-state.md
+- summary: stage1 todo queue generation
+- commit: d797fb6
+- notes: stage1 run: todos=6), nuc1_inbox_items=0
+
+

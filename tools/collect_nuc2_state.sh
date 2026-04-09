@@ -26,7 +26,7 @@ OUTPUT_FILE="${OUTPUT_DIR}/${TIMESTAMP%%T*}-${HOST}-state.md"
   echo ""
   echo "## KB Maintenance Timer Status"
   echo ""
-  local kb_maint=$(systemctl --user list-timers --all --no-pager 2>/dev/null | grep kb-maintenance || true)
+  kb_maint=$(systemctl --user list-timers --all --no-pager 2>/dev/null | grep kb-maintenance || true)
   if [[ -n "$kb_maint" ]]; then
     echo "$kb_maint" | awk '{print "- " $0}'
   else
@@ -61,19 +61,19 @@ OUTPUT_FILE="${OUTPUT_DIR}/${TIMESTAMP%%T*}-${HOST}-state.md"
   echo ""
   cd /home/slimy/kb
   git -C /home/slimy/kb status --short 2>/dev/null | head -10 | awk '{print "- " $0}' || echo "- (not a git repo)"
-  local git_ahead=$(git -C /home/slimy/kb log --oneline origin/main..HEAD 2>/dev/null | wc -l | tr -d ' ')
-  local git_behind=$(git -C /home/slimy/kb log --oneline HEAD..origin/main 2>/dev/null | wc -l | tr -d ' ')
+  git_ahead=$(git -C /home/slimy/kb log --oneline origin/main..HEAD 2>/dev/null | wc -l | tr -d ' ')
+  git_behind=$(git -C /home/slimy/kb log --oneline HEAD..origin/main 2>/dev/null | wc -l | tr -d ' ')
   echo "- ahead: $git_ahead"
   echo "- behind: $git_behind"
   echo ""
   echo "## KB Health Snapshot"
   echo ""
   if [[ -f /home/slimy/kb/wiki/_orphans.md ]]; then
-    local orphan_count=$(grep -E "^\- \`" /home/slimy/kb/wiki/_orphans.md 2>/dev/null | wc -l | tr -d ' ')
+    orphan_count=$(grep -E "^\- \`" /home/slimy/kb/wiki/_orphans.md 2>/dev/null | wc -l | tr -d ' ')
     echo "- orphans (total): $orphan_count"
   fi
   if [[ -f /home/slimy/kb/wiki/_weak-links.md ]]; then
-    local weak_count=$(grep -E "^\- \`" /home/slimy/kb/wiki/_weak-links.md 2>/dev/null | wc -l | tr -d ' ')
+    weak_count=$(grep -E "^\- \`" /home/slimy/kb/wiki/_weak-links.md 2>/dev/null | wc -l | tr -d ' ')
     echo "- weak-links (total): $weak_count"
   fi
   echo ""
@@ -84,7 +84,7 @@ OUTPUT_FILE="${OUTPUT_DIR}/${TIMESTAMP%%T*}-${HOST}-state.md"
   echo "## Vault Sync Status"
   echo ""
   if command -v pm2 &>/dev/null; then
-    local vault_status=$(pm2 describe obsidian-headless-sync 2>/dev/null | grep -E 'status|uptime' | head -3 | awk '{print "- " $0}' || echo "- obsidian-headless-sync: not tracked")
+    vault_status=$(pm2 describe obsidian-headless-sync 2>/dev/null | grep -E 'status|uptime' | head -3 | awk '{print "- " $0}' || echo "- obsidian-headless-sync: not tracked")
     echo "$vault_status"
   fi
 } > "$OUTPUT_FILE"

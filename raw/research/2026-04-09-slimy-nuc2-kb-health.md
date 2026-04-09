@@ -1,14 +1,14 @@
 # KB Health Snapshot
 
-**Timestamp:** 2026-04-09T15:09:43Z
+**Timestamp:** 2026-04-09T15:11:20Z
 **Host:** slimy-nuc2
 
 ## File Counts
 
 - wiki/*.md (articles): 1
 - wiki/_*.md (meta): 7
-- raw/**/*.md: 103
-- output/*.md: 65
+- raw/**/*.md: 104
+- output/*.md: 66
 
 ## Index Files
 
@@ -33,6 +33,7 @@
 - [2026-04-09 14:42] maintenance | 12h maintenance run
 - [2026-04-09 14:58] maintenance | 12h maintenance run
 - [2026-04-09 14:59] maintenance | test verification
+- [2026-04-09 15:09] wiki_manager | stage1 todo queue generation
 
 ## Recent Output Files (48h)
 
@@ -45,6 +46,7 @@
 - todo-20260405-230539.md (2026-04-08 13:34)
 - todo-20260405-230852.md (2026-04-07 16:09)
 - todo-20260408-135944.md (2026-04-08 21:32)
+- todo_queue.md (2026-04-09 15:11)
 
 ## Compile Candidates
 
@@ -57,3 +59,12 @@
 
 ## NUC1 Inbox
 
+- inbox-nuc1 files: 0
+
+## Tools Present
+
+- kb-lint.sh: YES
+- kb-log-append.sh: YES
+- kb-sync.sh: YES
+- kb-maintenance.sh: YES
+- wiki: YES

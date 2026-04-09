@@ -17,7 +17,7 @@ from pathlib import Path
 
 TIMESTAMP = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 DATE = TIMESTAMP[:10]
-HOST = os.uname().1
+HOST = os.uname()[1]
 OUTPUT_DIR = Path("/home/slimy/kb/output")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 TODO_JSON = OUTPUT_DIR / "todo_queue.json"

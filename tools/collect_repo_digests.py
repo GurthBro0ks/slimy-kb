@@ -9,7 +9,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-HOST = os.uname().1
+HOST = os.uname()[1]
 TIMESTAMP = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 DATE = TIMESTAMP[:10]
 OUTPUT_DIR = Path("/home/slimy/kb/raw/research")

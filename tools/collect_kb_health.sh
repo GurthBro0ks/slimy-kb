@@ -73,9 +73,9 @@ OUTPUT="$KB_ROOT/output"
   echo ""
   echo "## NUC1 Inbox"
   echo ""
-  local inbox_nuc1="$KB_ROOT/raw/inbox-nuc1"
+  inbox_nuc1="$KB_ROOT/raw/inbox-nuc1"
   if [[ -d "$inbox_nuc1" ]]; then
-    local count=$(find "$inbox_nuc1" -type f 2>/dev/null | wc -l | tr -d ' ')
+    count=$(find "$inbox_nuc1" -type f 2>/dev/null | wc -l | tr -d ' ')
     echo "- inbox-nuc1 files: $count"
     find "$inbox_nuc1" -type f -mtime -1 2>/dev/null | sed 's/^/  - /' | head -10
   else
