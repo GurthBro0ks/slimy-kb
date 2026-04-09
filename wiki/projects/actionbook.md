@@ -2,6 +2,7 @@
 > Category: projects
 > Sources: raw/decisions/2026-04-09-project-actionbook.md, raw/research/2026-04-09-nuc1-project-inventory.md
 > Created: 2026-04-09
+> Updated: 2026-04-09
 > Status: draft
 
 Browser Action Engine for AI Agents — provides website action manuals and DOM selectors via MCP protocol so AI agents can operate websites precisely without parsing HTML each time.

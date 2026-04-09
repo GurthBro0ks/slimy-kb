@@ -2,21 +2,23 @@
 > Category: projects
 > Sources: raw/decisions/seed-clawd-agents.md, raw/decisions/seed-workspace-agents.md, raw/decisions/2026-04-05-project-ned-clawd-nuc1-state.md
 > Created: 2026-04-04
-> Updated: 2026-04-05
-> Status: draft
+> Updated: 2026-04-09
+> Status: reviewed
 
-The Clawd/workspace agent docs define memory governance and session discipline for local autonomous workflows.
+## Project Metadata
+- **Host:** NUC1
+- **Repo path:** `/home/slimy/clawd`
+- **GitHub remote:** git@github.com:GurthBro0ks/clawd.git
+- **Branch:** master
+- **Type:** workspace/tool
+- **Status:** active
+- **Priority:** high
+- **Truth gate:** `git -C /home/slimy/clawd log -1 --oneline`
 
-## Governance Model
-- Every-session checklists are explicit and repeatable.
-- Memory is split between daily logs and curated long-term memory.
-- Security posture forbids loading private long-term memory in shared contexts.
+## Purpose
+AI agent workspace for SlimyAI with session management, memory protocols (daily notes, long-term MEMORY.md), heartbeat scheduling, and group chat safety rules. Standard SlimyAI runtime environment.
 
-## Practical Outcome
-- Agents maintain continuity across resets.
-- Lessons become persistent operations guidance instead of one-off chat context.
-
-## Governance Rules
+## Runtime State — Ned-Clawd (2026-04-05)
 
 ### SLB-Required Actions (Two-Person Rule)
 The following actions require explicit SLB peer approval before execution. If SLB is unavailable for 5 minutes, HOLD and notify Jason via Telegram with the exact command and rationale:

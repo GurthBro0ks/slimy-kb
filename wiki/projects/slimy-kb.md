@@ -2,10 +2,14 @@
 > Category: projects
 > Sources: raw/decisions/2026-04-05-project-slimy-kb-nuc2-state.md, raw/research/2026-04-05-obsidian-calendar-automation-options.md, raw/research/obsidian-projects-kb-workflow.md, raw/research/2026-04-05-slimy-nuc2-webhook-codex-yolo-normalization.md, raw/changelogs/2026-04-05-slimy-nuc1-project-changelog.md, raw/changelogs/2026-04-05-slimy-nuc2-project-changelog.md
 > Created: 2026-04-05
-> Updated: 2026-04-05
+> Updated: 2026-04-09
 > Status: draft
 
 Slimy KB is the SlimyAI knowledge base — a git-based, cross-NUC synced wiki with a raw-to-compiled build pipeline and CLI tooling.
+
+## Project Metadata
+- **Truth gate:** `bash /home/slimy/kb/tools/kb-sync.sh pull` (verify sync succeeds before any KB read; verify sync succeeds after any KB write)
+- **Risks:** Conflict files from Obsidian Sync or cross-NUC git operations
 
 ## Overview
 - **GitHub:** GurthBro0ks/slimy-kb
