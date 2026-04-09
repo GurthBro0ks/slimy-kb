@@ -2,7 +2,7 @@
 > Category: troubleshooting
 > Sources: raw/research/2026-04-05-slimy-nuc2-autofinish-autocompile-fix.md, raw/research/2026-04-05-slimy-nuc2-autofinish-parity-check.md, raw/agent-learnings/2026-04-05-nuc2-no-pager-finish-hook-fix.md, raw/research/2026-04-05-slimy-nuc2-no-pager-finish-hook-fix.md, raw/research/2026-04-05-slimy-nuc1-wrapper-recursion-fix.md
 > Created: 2026-04-05
-> Updated: 2026-04-08
+> Updated: 2026-04-09
 > Status: reviewed
 
 Fix for the KB write-through automation where `slimy-agent-finish.sh` left raw files uncommitted and `kb-compile-if-needed.sh` only wrote prompt files without triggering actual wiki compilation.
@@ -201,6 +201,9 @@ The following compile candidates have been reviewed and deferred (no wiki-worthy
 **2026-04-08 session summaries** — Empty auto-generated summaries with no actual summary, notable changes, or next steps (same pattern as earlier empty summaries):
 - `raw/agent-learnings/2026-04-08-slimy-nuc1-claude-summary.md`
 - `raw/agent-learnings/2026-04-08-slimy-nuc2-codex-summary.md`
+
+**2026-04-09 session summaries** — Same pattern: empty auto-generated finish-hook summaries with no operational content:
+- `raw/agent-learnings/2026-04-09-slimy-nuc1-claude-summary.md`
 
 **2026-04-08 changelog** — Thin changelog with no substantive changes:
 - `raw/changelogs/2026-04-08-slimy-nuc2-project-changelog.md` — Agent Summary section is empty ("—"); repos touched are all auto-sync doc commits with no notable changes.
