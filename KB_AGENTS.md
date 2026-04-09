@@ -76,6 +76,50 @@ It executes `kb-maintenance.sh` which:
 To manually trigger: `systemctl --user start kb-maintenance.service`
 To check status: `systemctl --user list-timers --all | grep kb-maintenance`
 
+## Wiki Manager Stage 1 (NUC2)
+
+A systemd user timer `wiki-manager-stage1.timer` runs every 12 hours on NUC2.
+It executes `wiki_manager_stage1.sh` which:
+
+1. Syncs the KB (pull)
+2. Runs digest collectors (NUC2 state, repo digests, KB health)
+3. Reads wiki meta: `_index.md`, `_concepts.md`, `log.md`, `_page-types.md`, `_orphans.md`, `_weak-links.md`
+4. Reads recent `raw/research/` digests and any `raw/inbox-nuc1/` items
+5. Generates `output/todo_queue.json` and `output/todo_queue.md`
+6. Appends a wiki-manager entry to `wiki/log.md`
+7. Commits and pushes if KB changed
+
+Todo queue entries are **advisory only**. Stage 1 does NOT dispatch harness jobs.
+
+To manually trigger: `systemctl --user start wiki-manager-stage1.service`
+To check status: `systemctl --user list-timers --all | grep wiki-manager`
+
+### Digest-Driven Maintenance
+
+The KB uses compact digest files (not raw repo dumps) to stay current:
+
+- `raw/research/YYYY-MM-DD-nuc2-state.md` — NUC2 host state, systemd services, PM2, ports, git status
+- `raw/research/YYYY-MM-DD-nuc2-repo-digests.md` — per-repo branch, commit, dirty state, remote
+- `raw/research/YYYY-MM-DD-nuc2-kb-health.md` — KB file counts, orphan/weak-link counts, log entries, tools present
+
+### NUC1 Intake Path
+
+NUC1 digests land in `raw/inbox-nuc1/`. Supported formats:
+- Markdown with `> Type: digest|report|note|inventory` header
+- JSON with `title`, `source`, `date`, `host`, `type`, `summary` fields
+
+Missing NUC1 inbox is **fail-soft** — the manager proceeds without error.
+
+See `wiki/_nuc-intake.md` for full documentation.
+
+### Model Backend
+
+Wiki manager supports two backends (configured via `KB_MANAGER_BACKEND` env var):
+- `stub` (default) — rule-based todo generation, always available
+- `ollama` — uses local Ollama with `KB_MANAGER_MODEL` (e.g. `qwen2.5:7b`)
+
+Both backends produce bounded, deterministic outputs. No external hosted model required.
+
 ## Cross-NUC Coordination
 
 The KB is a shared git repo (GurthBro0ks/slimy-kb) cloned on both NUC1 and NUC2.
