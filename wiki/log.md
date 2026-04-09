@@ -100,3 +100,13 @@
 - notes: wiki/
 
 
+## [2026-04-09 16:25] wiki_manager | stage1.5 todo queue generation
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - (none)
+- summary: stage1.5 todo queue generation
+- commit: 516680e
+- notes: stage1.5 run: todos=12 nuc1_items=3 nuc1_evidence=YES
+
+

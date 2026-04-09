@@ -1,6 +1,6 @@
 # NUC2 State Digest
 
-**Timestamp:** 2026-04-09T15:15:25Z
+**Timestamp:** 2026-04-09T16:25:36Z
 **Host:** slimy-nuc2
 
 ## Systemd User Services
@@ -9,16 +9,16 @@
 
 ## Systemd User Timers
 
-Fri 2026-04-10 02:32:57 UTC  11h Thu 2026-04-09 14:32:57 UTC 42min ago kb-maintenance.timer           kb-maintenance.service
-Fri 2026-04-10 03:09:42 UTC  11h Thu 2026-04-09 15:09:42 UTC  5min ago wiki-manager-stage1.timer      wiki-manager-stage1.service
+Fri 2026-04-10 02:32:57 UTC      10h Thu 2026-04-09 14:32:57 UTC 1h 52min ago kb-maintenance.timer           kb-maintenance.service
+Fri 2026-04-10 03:09:42 UTC      10h Thu 2026-04-09 15:09:42 UTC 1h 15min ago wiki-manager-stage1.timer      wiki-manager-stage1.service
 
 ## KB Maintenance Timer
 
-Fri 2026-04-10 02:32:57 UTC  11h Thu 2026-04-09 14:32:57 UTC 42min ago kb-maintenance.timer           kb-maintenance.service
+Fri 2026-04-10 02:32:57 UTC      10h Thu 2026-04-09 14:32:57 UTC 1h 52min ago kb-maintenance.timer           kb-maintenance.service
 
 ## Active PM2 Processes
 
-│ 0  │ obsidian-headless-sync    │ default     │ N/A     │ fork    │ 169392   │ 30h    │ 0    │ online    │ 0%       │ 83.2mb   │ slimy    │ disabled │
+│ 0  │ obsidian-headless-sync    │ default     │ N/A     │ fork    │ 169392   │ 31h    │ 0    │ online    │ 0%       │ 83.2mb   │ slimy    │ disabled │
 
 ## Network Listening Ports (KB-relevant)
 
@@ -41,20 +41,25 @@ LISTEN 0      511                          [::1]:18790         [::]:*    users:(
 
 ## Disk Usage (KB-relevant paths)
 
-7.4M	/home/slimy/kb
+7.6M	/home/slimy/kb
 36G	/home/slimy
 - /home/slimy: (unable to measure)
 
 ## Uptime
 
- 15:15:28 up 3 days, 16:08,  2 users,  load average: 0.89, 0.52, 0.42
+ 16:25:39 up 3 days, 17:18,  2 users,  load average: 0.42, 0.47, 0.29
 
 ## KB Git Status
 
+ M output/todo_queue.json
+ M output/todo_queue.md
  M raw/research/2026-04-09-slimy-nuc2-kb-health.md
  M raw/research/2026-04-09-slimy-nuc2-state.md
- M tools/collect_kb_health.sh
- M tools/collect_nuc2_state.sh
+ M tools/wiki_manager_stage1.py
+ M tools/wiki_manager_stage1.sh
+?? output/todo_history.json
+?? raw/inbox-nuc1/
+?? wiki/_manager-status.md
 - ahead: 0
 - behind: 0
 
@@ -65,9 +70,9 @@ LISTEN 0      511                          [::1]:18790         [::]:*    users:(
 
 ## KB Raw Files (recent, 48h)
 
-- 43 raw/*.md files modified in last 48h
+- 38 raw/*.md files modified in last 48h
 
 ## Vault Sync Status
 
 │ status            │ online                                                            │
-│ uptime            │ 30h                                                               │
+│ uptime            │ 31h                                                               │
