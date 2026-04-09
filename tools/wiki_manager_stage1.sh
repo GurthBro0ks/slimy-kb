@@ -13,7 +13,7 @@ EXIT_CODE=0
 mkdir -p "$PROOF_DIR"
 
 log_step() {
-    echo "[wiki-manager-s1.5] $(date +%H:%M:%S) — $1"
+    echo "[wiki-manager-s1.8] $(date +%H:%M:%S) — $1"
 }
 
 # ── STEP 1: Sync pull ──────────────────────────────────────────────────────────
