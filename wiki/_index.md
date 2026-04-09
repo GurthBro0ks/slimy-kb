@@ -37,6 +37,7 @@
 - [Slimy Chat](projects/slimy-chat.md) - Revolt-based invite-only chat stack and auth flow.
 - [Slimy Discord Bot](projects/slimy-discord-bot.md) - AI-enabled Discord bot architecture, conventions, and verification commands.
 - [Slimy KB](projects/slimy-kb.md) - SlimyAI knowledge base — git-based wiki with raw-to-compiled pipeline and CLI tools.
+- [Repo Health Overview](projects/repo-health-overview.md) - Cross-NUC repo status: dirty and diverged repos from digest evidence.
 - [Slimy Monorepo](projects/slimy-monorepo.md) - Core multi-app repo structure, workflow, and constraints (NUC2: web on port 3000).
 - [Slimy Web](projects/slimy-web.md) - Next.js web app capabilities, env wiring, and runtime expectations.
 - [Stoat Source](projects/stoat-source.md) - Rust backend for Revolt/Stoat chat platform; powers slimy-chat Docker stack.
@@ -61,5 +62,7 @@
 - [Harness Runtime Topology](architecture/harness-runtime-topology.md) - Placement and supervisor ownership of harness, mailbox, and runtime control components.
 - [Knowledge Base Build Pipeline](architecture/knowledge-base-build-pipeline.md) - Canonical raw-to-wiki, query/file-back, index maintenance, and cross-NUC sync lifecycle.
 - [NUC2 Server State](architecture/nuc2-server-state.md) - Canonical server state for slimy-nuc2: machine, repos, PM2, MySQL.
+- [NUC1 Current State](architecture/nuc1-current-state.md) - Live NUC1 host/repo/service state from cross-NUC digest.
+- [NUC2 Current State](architecture/nuc2-current-state.md) - Live NUC2 host/service/port state from local digest.
 - [NUC Topology and Services](architecture/nuc-topology-and-services.md) - NUC1/NUC2 service placement and operational boundaries.
 - [SlimyAI Login and Session Flow](architecture/slimyai-login-and-session-flow.md) - Canonical credential login, session lifecycle, invite gating, and recovery/lockout behavior.
