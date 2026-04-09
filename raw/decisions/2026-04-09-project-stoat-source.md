@@ -1,0 +1,14 @@
+# Stoat Source
+- Host: nuc1
+- Repo path: /home/slimy/stoat-source
+- GitHub remote: git@github.com:stoatchat/stoatchat.git
+- Branch: main (ahead of remote by 13 commits)
+- Type: infrastructure
+- Status: active
+- Priority: critical
+- Purpose: Rust-based backend services for the Revolt/Stoat chat platform. Contains crates: core/config, core/database, core/files, core/models, core/permissions, delta (REST API), bonfire (WebSocket), and services (january proxy, gifbox, autumn file server, crond). Powers the slimy-chat Docker stack.
+- Dependencies: Rust, MongoDB, MySQL, RabbitMQ, MinIO, Redis
+- Services: Docker containers in slimy-chat stack (16 containers including stoat services)
+- Truth gate: `cargo build --manifest-path /home/slimy/stoat-source/Cargo.toml` (verify Rust compiles)
+- Risks: upstream (stoatchat) moves independently; local branch is 13 commits ahead
+- Current work: powers slimy-chat self-hosted chat at chat.slimyai.xyz

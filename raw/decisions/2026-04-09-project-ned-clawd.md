@@ -1,0 +1,15 @@
+# Ned-Clawd
+- Host: nuc1
+- Repo path: /home/slimy/ned-clawd
+- GitHub remote: git@github.com:GurthBro0ks/ned-clawd.git
+- Branch: master
+- Type: tool
+- Status: active
+- Priority: high
+- Purpose: AI agent workspace similar to clawd with session management, memory protocols, heartbeats, and group chat safety. Contains scripts/mc-notify.sh for Mission Control integration.
+- Dependencies: Standard SlimyAI runtime environment
+- Services: none (workspace-only)
+- Truth gate: `git -C /home/slimy/ned-clawd log -1 --oneline`
+- Risks: none identified
+- Current work: standard SlimyAI agent workspace
+- Notes: Has its own AGENTS.md with session rules (reads SOUL.md, USER.md, memory/). Port 3081 confirmed DEAD per 2026-03-23 session.

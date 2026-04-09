@@ -1,0 +1,15 @@
+# Knowledge Base (KB)
+- Host: nuc1
+- Repo path: /home/slimy/kb
+- GitHub remote: git@github.com:GurthBro0ks/slimy-kb.git
+- Branch: main
+- Type: infrastructure
+- Status: active
+- Priority: critical
+- Purpose: Shared SlimyAI knowledge base synced between NUC1 and NUC2. Contains wiki/ (compiled articles), raw/ (source documents), output/ (query results), and tools/ (wiki CLI, sync scripts).
+- Dependencies: Standard SlimyAI runtime environment, git
+- Services: none
+- Truth gate: `bash /home/slimy/kb/tools/kb-sync.sh pull` (verify sync succeeds)
+- Risks: conflict files from Obsidian Sync or cross-NUC git operations
+- Current work: kb-compile sessions, child compilation of agent learnings
+- Notes: Owned by agents (KB_AGENTS.md rules). wiki/ is agent-owned; raw/ is human+agent writable. Sync before read, sync after write.

@@ -1,0 +1,14 @@
+# Proofs (pm_updown_bot_bundle subdirectory)
+- Host: nuc1
+- Repo path: /opt/slimy/pm_updown_bot_bundle/proofs
+- GitHub remote: git@github.com:GurthBro0ks/pm_updown_bot_bundle.git (same as parent)
+- Branch: main
+- Type: tool
+- Status: active
+- Priority: low
+- Purpose: Proof-gated workflows subdirectory of pm_updown_bot_bundle. Active SlimyAI project subdirectory; status ACTIVE_DIRTY.
+- Dependencies: Standard SlimyAI runtime environment
+- Services: none
+- Truth gate: `git -C /opt/slimy/pm_updown_bot_bundle/proofs log -1 --oneline`
+- Risks: no independent remote; subdirectory of pm_updown_bot_bundle
+- Current work: proof storage for trading bot bundle

@@ -1,0 +1,14 @@
+# Workspace Executor
+- Host: nuc1
+- Repo path: /home/slimy/.openclaw/workspace-executor
+- GitHub remote: none (local-only)
+- Branch: master
+- Type: tool
+- Status: active
+- Priority: high
+- Purpose: OpenClaw workspace executor — AI agent workspace with session management, memory protocols (daily notes, long-term MEMORY.md), heartbeat scheduling, and group chat safety. Part of the .openclaw agent framework.
+- Dependencies: OpenClaw framework
+- Services: none (workspace)
+- Truth gate: `git -C /home/slimy/.openclaw/workspace-executor log -1 --oneline`
+- Risks: no remote (local-only)
+- Current work: standard OpenClaw workspace

@@ -1,0 +1,14 @@
+# Actionbook
+- Host: nuc1
+- Repo path: /home/slimy/ned-clawd/actionbook
+- GitHub remote: https://github.com/actionbook/actionbook
+- Branch: main
+- Type: library
+- Status: active
+- Priority: medium
+- Purpose: Browser Action Engine for AI Agents — provides website action manuals and DOM selectors via MCP protocol so AI agents can operate websites precisely without parsing HTML each time. Monorepo with JS SDK, MCP server, CLI, and AI SDK tools. 12 packages under pnpm workspace.
+- Dependencies: Node.js >= 18, pnpm >= 10, PostgreSQL (for services/db and services/api-service)
+- Services: none (library/tool project)
+- Truth gate: `cd /home/slimy/ned-clawd/actionbook && pnpm test` (jest tests in .test.ts files)
+- Risks: no .env committed (.env.example per package only)
+- Current work: active development (ahead of remote by 13 commits)

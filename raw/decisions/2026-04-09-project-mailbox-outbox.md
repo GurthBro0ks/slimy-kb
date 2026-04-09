@@ -1,0 +1,14 @@
+# Mailbox Outbox
+- Host: nuc1
+- Repo path: /home/slimy/nuc-comms/mailbox_outbox
+- GitHub remote: ssh://slimy@192.168.68.65:4422/home/slimy/nuc-comms/mailbox.git (local network)
+- Branch: main
+- Type: infrastructure
+- Status: active
+- Priority: high
+- Purpose: NUC communication module — message outbox for inter-NUC communication via SSH/git-based sync. Part of nuc-comms directory for messaging between NUC1 and NUC2 nodes.
+- Dependencies: Standard SlimyAI runtime environment, SSH access to NUC2
+- Services: none
+- Truth gate: `git -C /home/slimy/nuc-comms/mailbox_outbox log -1 --oneline`
+- Risks: local-only SSH remote (not on GitHub)
+- Current work: active, ahead of remote by 7 commits (synced via local SSH)

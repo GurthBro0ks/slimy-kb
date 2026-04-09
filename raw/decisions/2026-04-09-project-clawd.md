@@ -1,0 +1,14 @@
+# Clawd
+- Host: nuc1
+- Repo path: /home/slimy/clawd
+- GitHub remote: git@github.com:GurthBro0ks/clawd.git
+- Branch: master
+- Type: tool
+- Status: active
+- Priority: high
+- Purpose: AI agent workspace for SlimyAI with session management, memory protocols (daily notes, long-term MEMORY.md), heartbeat scheduling, and group chat safety rules. Standard SlimyAI runtime environment.
+- Dependencies: Standard SlimyAI runtime environment
+- Services: none (workspace-only, no daemon)
+- Truth gate: `git -C /home/slimy/clawd log -1 --oneline`
+- Risks: none identified
+- Current work: standard SlimyAI agent workspace, auto-synced to GitHub

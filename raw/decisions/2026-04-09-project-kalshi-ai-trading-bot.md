@@ -1,0 +1,14 @@
+# Kalshi AI Trading Bot
+- Host: nuc1
+- Repo path: /opt/slimy/research/kalshi-ai-trading-bot
+- GitHub remote: https://github.com/ryanfrigo/kalshi-ai-trading-bot.git
+- Branch: main (ahead of remote by 12 commits)
+- Type: application
+- Status: active
+- Priority: medium
+- Purpose: Autonomous trading bot for Kalshi prediction markets powered by a five-model AI ensemble. Five LLMs debate every trade; system only enters when they agree. Ships with discipline systems (category scoring, portfolio enforcement, risk guardrails).
+- Dependencies: Python 3.12+, Kalshi API, CoinGecko, Finnhub
+- Services: none (research/experimental)
+- Truth gate: `cd /opt/slimy/research/kalshi-ai-trading-bot && python -c "import toml; print(toml.load(open('pyproject.toml'))['project']['name'])"` (verify pyproject.toml valid)
+- Risks: external GitHub repo (ryanfrigo), not GurthBro0ks; experimental/research status
+- Current work: research project, active development
