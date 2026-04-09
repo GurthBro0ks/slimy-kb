@@ -252,38 +252,42 @@ def compute_severity(task: dict, nuc1_evidence: dict, occurrence_count: int = 1)
     Compute severity: low / medium / high.
 
     Severity scoring (bounded, interpretable):
-    - Base: medium for wiki_gap/doc_drift, low for investigate/harness_candidate
-    - +1 if persisting across runs (occurrence_count > 1)
-    - +1 if cross-NUC signal (source_scope == "cross_nuc")
-    - +1 if it's the shared KB repo with uncommitted changes (specific cross-NUC risk)
+    - Base by kind:
+        - wiki_gap: medium (2)
+        - repo_drift: medium (2)
+        - investigate/harness_candidate: low (1)
+    - +1 if persisting (occurrence_count > 1)
     - Cap at "high"
 
-    This produces meaningful triage: fresh wiki gaps=medium, persisting=high;
-    diverged repos=medium, dirty shared KB=high.
+    Special cases:
+    - Only cross-NUC KB conflict (kb uncommitted changes) goes to HIGH
+    - All others stay within their base tier unless persisting
+
+    This produces meaningful triage:
+    - Fresh wiki_gap = medium
+    - Persisting wiki_gap = high
+    - Fresh repo_drift = medium
+    - Persisting repo_drift = high
+    - Cross-NUC KB conflict = high (always)
     """
     kind = task.get("kind", "")
     source_scope = task.get("source_scope", "")
-    project = task.get("project", "")
     title_lower = task.get("title", "").lower()
 
-    # Base by kind
+    # Base by kind: 0=low, 1=medium, 2=high
     if kind in ("wiki_gap", "doc_drift"):
-        severity = 2  # medium
+        severity = 1  # medium
     elif kind == "repo_drift":
-        severity = 1  # low-to-medium for repo issues initially
+        severity = 1  # medium
     else:
-        severity = 1  # low for investigate/harness_candidate
+        severity = 0  # low for investigate/harness_candidate
 
-    # +1 for persisting issues
+    # Special case: cross-NUC KB conflict is always HIGH
+    if source_scope == "cross_nuc" and "kb" in title_lower and "uncommitted" in title_lower:
+        return "high"
+
+    # +1 for persisting issues (stays within tier unless already at high)
     if occurrence_count > 1:
-        severity += 1
-
-    # +1 for cross-NUC signals
-    if source_scope == "cross_nuc":
-        severity += 1
-
-    # +1 for the shared KB having uncommitted changes (high-value cross-NUC signal)
-    if "kb" in title_lower and "uncommitted" in title_lower:
         severity += 1
 
     return ["low", "medium", "high"][min(severity, 2)]
