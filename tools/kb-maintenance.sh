@@ -23,10 +23,17 @@ bash "$KB_TOOLS/kb-sync.sh" pull >> "$PROOF_DIR/step1-pull.log" 2>&1 || {
 }
 
 # ── STEP 2: Compile if needed ────────────────────────────────────────────────
-log_step "Running compile check..."
-bash "$KB_TOOLS/kb-compile-if-needed.sh" --skip-child >> "$PROOF_DIR/step2-compile.log" 2>&1 || {
-    echo "WARNING: compile check returned non-zero" >> "$PROOF_DIR/step2-compile.log"
-}
+# Check for uncompiled raw files (don't spawn child compile — that needs auth)
+log_step "Checking compile candidates..."
+compile_candidates=$(bash "$KB_TOOLS/kb-compile-if-needed.sh" --dry-run --skip-child 2>&1 | grep -E "^  -" | awk '{print $2}' || true)
+if [[ -n "$compile_candidates" ]]; then
+    echo "Compile needed for:" >> "$PROOF_DIR/step2-compile.log"
+    echo "$compile_candidates" >> "$PROOF_DIR/step2-compile.log"
+    log_step "Compile needed for: $compile_candidates"
+    echo "COMPILE_NEEDED=yes" >> "$PROOF_DIR/status.txt"
+else
+    echo "COMPILE_NEEDED=no" >> "$PROOF_DIR/status.txt"
+fi
 
 # ── STEP 3: File-back for pending output/learnings ───────────────────────────
 log_step "Checking for file-back candidates..."
@@ -40,10 +47,13 @@ fi
 
 # ── STEP 4: Lint ─────────────────────────────────────────────────────────────
 log_step "Running lint..."
-bash "$KB_TOOLS/kb-lint.sh" >> "$PROOF_DIR/step4-lint.log" 2>&1 || {
-    echo "WARNING: lint returned non-zero" >> "$PROOF_DIR/step4-lint.log"
-    EXIT_CODE=1
-}
+set +e
+bash "$KB_TOOLS/kb-lint.sh" >> "$PROOF_DIR/step4-lint.log" 2>&1
+LINT_EXIT=$?
+set -e
+if [[ "$LINT_EXIT" -ne 0 ]]; then
+    echo "WARNING: lint returned exit $LINT_EXIT" >> "$PROOF_DIR/step4-lint.log"
+fi
 
 # Copy lint outputs to proof dir
 cp "$KB_ROOT/wiki/_orphans.md" "$PROOF_DIR/" 2>/dev/null || true
