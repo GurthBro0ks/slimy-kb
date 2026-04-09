@@ -1,0 +1,29 @@
+# Mailbox Outbox
+> Category: projects
+> Sources: raw/decisions/2026-04-09-project-mailbox-outbox.md, raw/research/2026-04-09-nuc1-project-inventory.md
+> Created: 2026-04-09
+> Status: draft
+
+NUC communication module — message outbox for inter-NUC communication via SSH/git-based sync. NUC1 push side of the mailbox transport.
+
+## Runtime State (NUC1)
+- **Path:** `/home/slimy/nuc-comms/mailbox_outbox`
+- **Remote:** `ssh://slimy@192.168.68.65:4422/home/slimy/nuc-comms/mailbox.git` (local network, NUC2)
+- **Branch:** main
+- **Status:** ACTIVE
+- **Truth gate:** `git -C /home/slimy/nuc-comms/mailbox_outbox log -1 --oneline`
+- **Cron:** `0 4 * * * /home/slimy/sync-repos.sh` — pushes reports to NUC2 mailbox.git
+- **Risks:** local-only SSH remote (not on GitHub); depends on NUC1→NUC2 SSH reachability
+
+## Cross-NUC Flow
+```
+NUC1 (mailbox_outbox) --git push over SSH--> NUC2 (mailbox.git)
+                                                      |
+                                                      v
+                                              NUC2 nuc-mailbox-ingest.timer
+```
+
+## See Also
+- [Mailbox NUC Comms](mailbox-nuc-comms.md)
+- [Mailbox Ingest (NUC Comms)](mailbox-ingest.md)
+- [Cross-NUC Communication Matrix](../architecture/cross-nuc-communication-matrix.md)

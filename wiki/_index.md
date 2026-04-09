@@ -9,15 +9,24 @@
 - [Truth Gate](concepts/truth-gate.md) - Verification model defining when work is actually complete.
 
 ### Projects
+- [Actionbook](projects/actionbook.md) - Browser Action Engine for AI Agents via MCP protocol; 12-package pnpm monorepo.
+- [Agents Backup Full](projects/agents-backup-full.md) - Mirror of wshobson/agents Claude Code plugin marketplace; archived, not actively used.
 - [Agents Plugin Ecosystem](projects/agents-plugin-ecosystem.md) - Plugin/agent/skill orchestration system for focused capability loading.
 - [Apify Market Scanner](projects/apify-market-scanner.md) - Apify-based market data scraping tool; runtime status UNKNOWN.
 - [Capture Dashboard](projects/capture-dashboard.md) - Operator intake surface with folder map, quick actions, and ingest-compile-sync checklist.
+- [Chat App (Slime.Chat)](projects/chat-app.md) - Self-hosted 16-container Docker chat platform at chat.slimyai.xyz; Stoat/Revolt fork.
 - [Chriss Agent](projects/chriss-agent.md) - Webhook bridge service on NUC2 port 3850; running since Mar14.
+- [Clawd](projects/clawd.md) - OpenClaw workspace daemon for SlimyAI with session/memory governance; NUC1.
 - [Clawd Agent Rules](projects/clawd-agent-rules.md) - SlimyAI workspace agent operating rules: session startup, memory tiers, safety, heartbeats, meta-learning loops.
 - [Clawd Workspace Governance](projects/clawd-workspace-governance.md) - Memory and session governance model for Clawd workspace operations.
+- [Kalshi AI Trading Bot](projects/kalshi-ai-trading-bot.md) - Five-LLM ensemble trading bot for Kalshi prediction markets; experimental, NUC1.
+- [Mailbox Ingest (NUC Comms)](projects/mailbox-ingest.md) - NUC2 ingest side of git-based inter-NUC mailbox transport.
 - [Mailbox NUC Comms](projects/mailbox-nuc-comms.md) - Git-based inter-NUC mailbox transport (NUC1 push / NUC2 ingest).
+- [Mailbox Outbox](projects/mailbox-outbox.md) - NUC1 push side of inter-NUC mailbox via SSH/git sync to NUC2.
+- [MCP Agent Mailbox](projects/mcp-agent-mailbox.md) - MCP agent git mailbox for inter-agent communication; local-only, NUC2.
 - [Mission Control](projects/mission-control.md) - Task, comms, and automation coordination surface (NUC2 port 3838).
 - [Ned-Autonomous](projects/ned-autonomous.md) - PM2 agent-loop orchestrator on NUC1 (id=0).
+- [Ned-Clawd](projects/ned-clawd.md) - AI agent workspace with Mission Control integration scripts; NUC1.
 - [Obsidian Headless Sync](projects/obsidian-headless-sync.md) - Sole PM2 process on NUC2; vault synchronization.
 - [Obsidian Vault Automation](projects/obsidian-vault-automation.md) - Server-side vault automation scripts: daily calendar sync, operator todo, AI recommendations, idea ingest, changelog rollup.
 - [NUC1 Project Anomalies](projects/nuc1-project-anomalies.md) - NUC1 project discovery anomalies: mailbox_outbox naming, duplicate monorepo clone, legacy kalshi bot, unclear workspace paths.
@@ -30,7 +39,10 @@
 - [Slimy KB](projects/slimy-kb.md) - SlimyAI knowledge base — git-based wiki with raw-to-compiled pipeline and CLI tools.
 - [Slimy Monorepo](projects/slimy-monorepo.md) - Core multi-app repo structure, workflow, and constraints (NUC2: web on port 3000).
 - [Slimy Web](projects/slimy-web.md) - Next.js web app capabilities, env wiring, and runtime expectations.
+- [Stoat Source](projects/stoat-source.md) - Rust backend for Revolt/Stoat chat platform; powers slimy-chat Docker stack.
 - [Workspace Agent Rules](projects/workspace-agent-rules.md) - OpenCLAW workspace agent operating rules: session startup, SLB-required actions, heartbeat vs cron, meta-learning loops.
+- [Workspace Executor](projects/workspace-executor.md) - OpenClaw workspace executor subagent; registered with gateway on NUC1.
+- [Workspace Researcher](projects/workspace-researcher.md) - OpenClaw workspace researcher subagent; registered with gateway on NUC1.
 
 ### Patterns
 - [Memory Capture Pattern](patterns/memory-capture-pattern.md) - Daily log plus curated-memory method for durable learning.

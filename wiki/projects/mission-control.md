@@ -1,8 +1,8 @@
 # Mission Control
 > Category: projects
-> Sources: raw/articles/seed-mission-control-readme.md, raw/decisions/2026-04-05-project-mission-control-nuc2-state.md
+> Sources: raw/articles/seed-mission-control-readme.md, raw/decisions/2026-04-05-project-mission-control-nuc2-state.md, raw/research/2026-04-09-nuc2-project-inventory.md, raw/agent-learnings/2026-04-09-nuc2-mission-control-update.md
 > Created: 2026-04-04
-> Updated: 2026-04-05
+> Updated: 2026-04-09
 > Status: draft
 
 Mission Control is a coordination surface for tasks, agents, comms, calendar, memory, and webhook-triggered workflows.
@@ -26,6 +26,21 @@ Mission Control is a coordination surface for tasks, agents, comms, calendar, me
 ## Startup
 - Quick-start uses local package install and dev server launch.
 - Health endpoint is the first operational probe.
+
+## NUC2 Runtime State (2026-04-09)
+- **Path:** `/home/slimy/mission-control`
+- **Remote:** `git@github.com:GurthBro0ks/mission-control.git`, branch `main`
+- **Last 3 commits:**
+  - `8d33bd3` — docs: auto-sync project docs from slimy-nuc2 2026-04-08
+  - `573d7a3` — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+  - `6cb0e02` — docs: auto-sync project docs from slimy-nuc2 2026-04-05
+- **AGENTS.md:** NO
+- **Supervisor:** `systemd --user` (`mission-control.service`)
+- **State:** ACTIVE, running
+- **Port:** **3838** — `next-server (v16.1.6)` pid 2311610, listening on 0.0.0.0:3838
+- **API:** `/api/health`, `/api/tasks`, `/api/agents`, `/api/calendar`, `/api/comms`, `/api/memory`
+- **Truth gate:** `curl http://localhost:3838/api/health`
+- **Classification:** ACTIVE | Confidence: HIGH
 
 ## See Also
 - [Agents Plugin Ecosystem](agents-plugin-ecosystem.md)

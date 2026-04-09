@@ -1,8 +1,8 @@
 # Slimy Monorepo
 > Category: projects
-> Sources: raw/articles/seed-slimy-monorepo-readme.md, raw/decisions/seed-slimy-monorepo-agents.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc1-state.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc2-state.md, raw/decisions/2026-04-07-bot-monorepo-migration-complete.md, raw/changelogs/2026-04-08-slimy-nuc1-project-changelog.md
+> Sources: raw/articles/seed-slimy-monorepo-readme.md, raw/decisions/seed-slimy-monorepo-agents.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc1-state.md, raw/decisions/2026-04-05-project-slimy-monorepo-nuc2-state.md, raw/decisions/2026-04-07-bot-monorepo-migration-complete.md, raw/changelogs/2026-04-08-slimy-nuc1-project-changelog.md, raw/research/2026-04-09-nuc2-project-inventory.md
 > Created: 2026-04-04
-> Updated: 2026-04-08
+> Updated: 2026-04-09
 > Status: draft
 
 The Slimy monorepo hosts web, bot, and supporting packages with shared CI and infrastructure documentation.
@@ -32,6 +32,23 @@ The Slimy monorepo hosts web, bot, and supporting packages with shared CI and in
 - **Recent notable commits:**
   - `155bba7` — fix: default AI_PREMIUM_PROVIDER from grok_420 to grok_fast (pm_updown_bot_bundle on `feat/ibkr-forecast-integration`)
 - **Successor to:** slimyai_setup (old JS Discord bot); cutover completed 2026-04-03
+
+## NUC2 Runtime State (2026-04-09)
+- **Canonical path:** `/opt/slimy/slimy-monorepo` (symlink: `/home/slimy/slimy-monorepo`)
+- **Remote:** `git@github.com:GurthBro0ks/slimy-monorepo.git`, branch `main`
+- **Last 3 commits:**
+  - `a910a9a` — fix: /snail/club sort order — highest power now shows rank 1 at top
+  - `2fcf024` — feat: /snail/stats QA fixes — debug dock visibility, refresh feedback, empty movers
+  - `fa3788b` — docs: auto-sync project docs from slimy-nuc2 2026-04-08
+- **Supervisor:** `systemd --user` (`slimy-web.service`)
+- **State:** ACTIVE, running
+- **Port:** **3000** — Next.js production server
+- **Key subdirs:** `apps/web` (Next.js), `apps/bot` (slimy-bot-v2 TypeScript), `packages/`, `lib/`
+- **AGENTS.md:** YES — monorepo agent rules, `pnpm lint`/`pnpm test:all` truth gate
+- **Truth gate:** `pnpm --filter web lint && pnpm --filter web build`
+- **Dependencies:** MySQL (NUC1 via tunnel port 3307), Prisma, Next.js, Tailwind
+- **Notable features:** owner panel, snail club/stats, crypto trading tab, trader dashboard, /snail routes
+- **Classification:** ACTIVE | Confidence: HIGH
 
 ## See Also
 - [Slimy Web](slimy-web.md)
