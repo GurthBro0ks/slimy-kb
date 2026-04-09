@@ -76,7 +76,7 @@ It executes `kb-maintenance.sh` which:
 To manually trigger: `systemctl --user start kb-maintenance.service`
 To check status: `systemctl --user list-timers --all | grep kb-maintenance`
 
-## Wiki Manager Stage 1 (NUC2)
+## Wiki Manager Stage 1.5 (NUC2)
 
 A systemd user timer `wiki-manager-stage1.timer` runs every 12 hours on NUC2.
 It executes `wiki_manager_stage1.sh` which:
@@ -85,28 +85,48 @@ It executes `wiki_manager_stage1.sh` which:
 2. Runs digest collectors (NUC2 state, repo digests, KB health)
 3. Reads wiki meta: `_index.md`, `_concepts.md`, `log.md`, `_page-types.md`, `_orphans.md`, `_weak-links.md`
 4. Reads recent `raw/research/` digests and any `raw/inbox-nuc1/` items
-5. Generates `output/todo_queue.json` and `output/todo_queue.md`
-6. Appends a wiki-manager entry to `wiki/log.md`
-7. Commits and pushes if KB changed
+5. Parses NUC1 intake (markdown + JSON digests) as **first-class evidence**
+6. Generates `output/todo_queue.json` and `output/todo_queue.md`
+7. Tracks task history in `output/todo_history.json` (bounded retention: 10 runs / 30 days)
+8. Produces `wiki/_manager-status.md` for quick reference
+9. Appends a wiki-manager entry to `wiki/log.md`
+10. Commits and pushes if KB changed
 
-Todo queue entries are **advisory only**. Stage 1 does NOT dispatch harness jobs.
+**Stage 1.5 does NOT dispatch harness jobs.** Todo queue entries are advisory only.
 
-To manually trigger: `systemctl --user start wiki-manager-stage1.service`
-To check status: `systemctl --user list-timers --all | grep wiki-manager`
+### Task State Tracking
 
-### Digest-Driven Maintenance
+Tasks are classified as:
+- **NEW** — first observed in this run
+- **PERSISTING** — seen in previous runs, still present
+- **RESOLVED** — was in history but not observed this run
 
-The KB uses compact digest files (not raw repo dumps) to stay current:
+Task identity is stable based on: `source_host + project + kind + normalized_title`
 
-- `raw/research/YYYY-MM-DD-nuc2-state.md` — NUC2 host state, systemd services, PM2, ports, git status
-- `raw/research/YYYY-MM-DD-nuc2-repo-digests.md` — per-repo branch, commit, dirty state, remote
-- `raw/research/YYYY-MM-DD-nuc2-kb-health.md` — KB file counts, orphan/weak-link counts, log entries, tools present
+### Task Kinds
 
-### NUC1 Intake Path
+- `wiki_gap` — KB structural issues (orphans, weak links)
+- `repo_drift` — repo state issues (dirty, diverged from remote)
+- `investigate` — items needing manual review
+- `harness_candidate` — future dispatch candidates (not dispatched in Stage 1.5)
 
-NUC1 digests land in `raw/inbox-nuc1/`. Supported formats:
+### Severity Heuristics
+
+- Base by kind: wiki_gap/doc_drift = medium, investigate = low
+- +1 if persisting across runs (occurrence_count > 1)
+- Cross-NUC shared KB uncommitted changes = high (always)
+- Cap at "high"
+
+### NUC1 Intake (Actively Consumed)
+
+NUC1 digests land in `raw/inbox-nuc1/`. Stage 1.5 parses both formats:
 - Markdown with `> Type: digest|report|note|inventory` header
-- JSON with `title`, `source`, `date`, `host`, `type`, `summary` fields
+- JSON with `repos[]` array (per-repo: name, dirty, ahead_behind, etc.)
+
+Evidence extracted:
+- Dirty repos (uncommitted changes on NUC1)
+- Diverged repos (ahead AND behind remote)
+- Active services on NUC1
 
 Missing NUC1 inbox is **fail-soft** — the manager proceeds without error.
 
