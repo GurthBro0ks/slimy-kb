@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # collect_kb_health.sh — KB health snapshot
 # Output: /home/slimy/kb/raw/research/YYYY-MM-DD-nuc2-kb-health.md
-set -euo pipefail
+set -uo pipefail
 
 HOST=$(hostname -s)
 TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)
@@ -41,31 +41,33 @@ OUTPUT="$KB_ROOT/output"
   echo ""
   if [[ -f "$WIKI/_orphans.md" ]]; then
     echo "### Orphans (0 inbound links)"
-    grep -E "^\- \`" "$WIKI/_orphans.md" 2>/dev/null | wc -l | awk '{print "- count: " $0}'
+    orphan_count=$(grep -E "^\- \`" "$WIKI/_orphans.md" 2>/dev/null | wc -l | tr -d ' ')
+    echo "- count: ${orphan_count:-0}"
   fi
   if [[ -f "$WIKI/_weak-links.md" ]]; then
     echo "### Weak Links (<=1 inbound link)"
-    grep -E "^\- \`" "$WIKI/_weak-links.md" 2>/dev/null | wc -l | awk '{print "- count: " $0}'
+    weak_count=$(grep -E "^\- \`" "$WIKI/_weak-links.md" 2>/dev/null | wc -l | tr -d ' ')
+    echo "- count: ${weak_count:-0}"
   fi
   echo ""
   echo "## Log Recent Entries (last 5)"
   echo ""
   if [[ -f "$WIKI/log.md" ]]; then
-    grep "^## \[" "$WIKI/log.md" | tail -5 | sed 's/^## /- /'
+    grep "^## \[" "$WIKI/log.md" 2>/dev/null | tail -5 | sed 's/^## /- /'
   else
     echo "- no log found"
   fi
   echo ""
   echo "## Recent Output Files (48h)"
   echo ""
-  find "$OUTPUT" -name '*.md' ! -name 'lint-report*' -mtime -2 2>/dev/null | sort | while read -r f; do
-    echo "- ${f#$OUTPUT/} ($(date -r "$f" +%Y-%m-%d\ %H:%M))"
+  find "$OUTPUT" -name '*.md' ! -name 'lint-report*' -mtime -2 2>/dev/null | sort | head -10 | while read -r f; do
+    echo "- ${f#$OUTPUT/} ($(date -r "$f" +%Y-%m-%d\ %H:%M 2>/dev/null || echo "?"))"
   done
   echo ""
   echo "## Compile Candidates"
   echo ""
   if [[ -f /tmp/wiki-last-compile-candidates-$USER.tsv ]]; then
-    wc -l < /tmp/wiki-last-compile-candidates-$USER.tsv | awk '{print "- pending candidates: " $0}'
+    wc -l < /tmp/wiki-last-compile-candidates-$USER.tsv 2>/dev/null | awk '{print "- pending candidates: " $0}'
     cat /tmp/wiki-last-compile-candidates-$USER.tsv 2>/dev/null | head -5 | sed 's/^/  /'
   else
     echo "- no compile candidates file"
@@ -76,8 +78,8 @@ OUTPUT="$KB_ROOT/output"
   inbox_nuc1="$KB_ROOT/raw/inbox-nuc1"
   if [[ -d "$inbox_nuc1" ]]; then
     count=$(find "$inbox_nuc1" -type f 2>/dev/null | wc -l | tr -d ' ')
-    echo "- inbox-nuc1 files: $count"
-    find "$inbox_nuc1" -type f -mtime -1 2>/dev/null | sed 's/^/  - /' | head -10
+    echo "- inbox-nuc1 files: ${count:-0}"
+    find "$inbox_nuc1" -type f -mtime -1 2>/dev/null | head -10 | sed 's/^/  - /'
   else
     echo "- inbox-nuc1/: not present"
   fi
