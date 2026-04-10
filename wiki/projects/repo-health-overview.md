@@ -1,7 +1,7 @@
 # Repo Health Overview
 
 > Category: projects
-> Updated: 2026-04-10T03:10:12Z
+> Updated: 2026-04-10T07:41:25Z
 > Status: active
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -9,30 +9,13 @@
 ## Cross-NUC Repo Summary
 
 ### NUC1 Repos
-| Repo | Dirty | Diverged |
-|------|--------|----------|
-| DynaTech | — | — |
-| PrivateStorage | — | — |
-| Slimefun4 | — | — |
-| clawd | — | — |
-| kb | ⚠️ YES | — |
-| mailbox_outbox | — | — |
-| mission-control | — | — |
-| ned-autonomous | — | — |
-| ned-clawd | — | — |
-| plugins | — | — |
-| slimy-chat | — | — |
-| slimy-harness | — | — |
-| slimy-monorepo | — | — |
-| stoat-source | — | — |
-| workspace-executor | — | — |
-| workspace-researcher | — | — |
+_No NUC1 repo data available in this digest._
 
 ### NUC2 Repos
 - _NUC2 repo state parsed from local git status_
 
 ## Action Required
-- **Dirty on NUC1:** kb — commit or stash
+- _No repo drift detected in this run_
 
 <!-- END MACHINE MANAGED -->
 
