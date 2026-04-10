@@ -278,3 +278,14 @@
 - notes: stage1.86 run: todos=6 nuc1_items=6 nuc1_evidence=YES
 
 
+## [2026-04-10 18:44] compile | slimy-nuc1
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - raw/agent-learnings/2026-04-10-slimy-nuc1-claude-summary.md
+  - raw/changelogs/2026-04-10-slimy-nuc1-project-changelog.md
+- summary: slimy-nuc1
+- commit: c671bdb
+- notes: /home/slimy/kb
+
+
