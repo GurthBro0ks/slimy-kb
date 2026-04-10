@@ -2,8 +2,9 @@
 > Category: troubleshooting
 > Sources: raw/research/2026-04-05-slimy-nuc2-autofinish-autocompile-fix.md, raw/research/2026-04-05-slimy-nuc2-autofinish-parity-check.md, raw/agent-learnings/2026-04-05-nuc2-no-pager-finish-hook-fix.md, raw/research/2026-04-05-slimy-nuc2-no-pager-finish-hook-fix.md, raw/research/2026-04-05-slimy-nuc1-wrapper-recursion-fix.md
 > Created: 2026-04-05
-> Updated: 2026-04-09
+> Updated: 2026-04-10
 > Status: reviewed
+> Note: All 14 priority raw files verified already compiled. No new content added. Date refreshed to 2026-04-10 to mark this compile review pass.
 
 Fix for the KB write-through automation where `slimy-agent-finish.sh` left raw files uncommitted and `kb-compile-if-needed.sh` only wrote prompt files without triggering actual wiki compilation.
 

@@ -2,7 +2,8 @@
 > Category: architecture
 > Sources: raw/decisions/seed-server-state.md
 > Created: 2026-04-08
-> Updated: 2026-04-08
+> Updated: 2026-04-10
+> Note: seed-server-state.md last updated 2026-03-31. Content is current — no structural changes since last compile. Updated date only.
 > Status: reviewed
 
 Canonical server state snapshot for slimy-nuc2. See also [NUC Topology and Services](nuc-topology-and-services.md) for cross-NUC service placement.
