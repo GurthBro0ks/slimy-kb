@@ -1,14 +1,14 @@
 # KB Health Snapshot
 
-**Timestamp:** 2026-04-10T03:10:11Z
+**Timestamp:** 2026-04-10T15:11:12Z
 **Host:** slimy-nuc2
 
 ## File Counts
 
 - wiki/*.md (articles): 2
 - wiki/_*.md (meta): 9
-- raw/**/*.md: 108
-- output/*.md: 70
+- raw/**/*.md: 118
+- output/*.md: 69
 
 ## Index Files
 
@@ -29,24 +29,21 @@
 
 ## Log Recent Entries (last 5)
 
-- [2026-04-09 17:10] wiki_manager | stage1.5 todo queue generation
-- [2026-04-09 17:13] wiki_manager | stage1.5 todo queue generation
-- [2026-04-09 17:45] wiki_manager | stage1.5 todo queue generation
-- [2026-04-09 17:47] wiki_manager | stage1.8 todo queue generation
-- [2026-04-10 02:33] maintenance | 12h maintenance run
+- [2026-04-10 06:35] compile | child-compile 20260410-063045 — compiled kb-autofinish-autocompile-fix, nuc1/nuc2-repo-remote-ssh-normalization, nuc1-wrapper-recursion-fix; updated nuc1-current-state.md (kb only, no div), repo-health-overview.md from inbox digest; lint: 30 orphans, 8 weak-links
+- [2026-04-10 06:57] compile | 2026-04-10T065756Z
+- [2026-04-10 07:41] wiki_manager | stage1.86 todo queue generation
+- [2026-04-10 07:43] wiki_manager | stage1.86 todo queue generation
+- [2026-04-10 14:34] maintenance | 12h maintenance run
 
 ## Recent Output Files (48h)
 
-- candidate_review_pack.md (2026-04-09 20:15)
-- harness_candidates.md (2026-04-09 20:15)
+- candidate_review_pack.md (2026-04-10 14:34)
+- harness_candidates.md (2026-04-10 14:34)
 - pm-runtime-truth-update-2026-04-09.md (2026-04-09 14:32)
-- prompts/auto-compile-prompt-20260408-092539.md (2026-04-08 13:34)
 - prompts/auto-compile-prompt-20260409-144106.md (2026-04-09 14:41)
-- prompts/auto-compile-prompt-20260409-205609.md (2026-04-09 21:53)
 - proof_stage18_20260409T175000Z/REPORT.md (2026-04-09 17:48)
-- todo-20260405-230302.md (2026-04-08 13:34)
-- todo-20260405-230539.md (2026-04-08 13:34)
 - todo-20260408-135944.md (2026-04-08 21:32)
+- todo_queue.md (2026-04-10 14:34)
 
 ## Compile Candidates
 
@@ -59,8 +56,11 @@
 
 ## NUC1 Inbox
 
-- inbox-nuc1 files: 3
+- inbox-nuc1 files: 6
   - /home/slimy/kb/raw/inbox-nuc1/2026-04-09-nuc1-state.md
+  - /home/slimy/kb/raw/inbox-nuc1/2026-04-10-nuc1-repos.md
+  - /home/slimy/kb/raw/inbox-nuc1/2026-04-10-nuc1-state.md
+  - /home/slimy/kb/raw/inbox-nuc1/2026-04-10-nuc1-repos.json
   - /home/slimy/kb/raw/inbox-nuc1/2026-04-09-nuc1-repos.json
   - /home/slimy/kb/raw/inbox-nuc1/2026-04-09-nuc1-repos.md
 

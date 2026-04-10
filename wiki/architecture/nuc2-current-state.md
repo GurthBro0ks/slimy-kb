@@ -1,14 +1,14 @@
 # NUC2 Current State
 
 > Category: architecture
-> Updated: 2026-04-10T07:43:31Z
+> Updated: 2026-04-10T15:11:12Z
 > Status: active
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
-- **Hostname:** slimy-nuc1
-- **Last updated:** 2026-04-10T07:43:31Z
+- **Hostname:** slimy-nuc2
+- **Last updated:** 2026-04-10T15:11:12Z
 
 ## Active Services
 - - pm2: not available
@@ -31,11 +31,11 @@
 
 ## Open Issues (from todo queue)
 - **[HIGH/emerging]** Resolve 30 orphaned wiki pages — wiki_gap (fresh)
-- **[HIGH/emerging]** Review orphaned page: architecture/nuc2-server-state.md — wiki_gap (aging)
-- **[HIGH/emerging]** Review orphaned page: log.md — wiki_gap (fresh)
-- **[HIGH/emerging]** Review orphaned page: projects/actionbook.md — wiki_gap (fresh)
-- **[HIGH/emerging]** Review orphaned page: projects/agents-backup-full.md — wiki_gap (fresh)
-- **[HIGH/emerging]** Review orphaned page: projects/apify-market-scanner.md — wiki_gap (fresh)
+- **[HIGH/candidate]** Review orphaned page: architecture/nuc2-server-state.md — wiki_gap (aging)
+- **[HIGH/candidate]** Review orphaned page: log.md — wiki_gap (fresh)
+- **[HIGH/candidate]** Review orphaned page: projects/actionbook.md — wiki_gap (aging)
+- **[HIGH/candidate]** Review orphaned page: projects/agents-backup-full.md — wiki_gap (aging)
+- **[HIGH/candidate]** Review orphaned page: projects/apify-market-scanner.md — wiki_gap (aging)
 
 <!-- END MACHINE MANAGED -->
 
