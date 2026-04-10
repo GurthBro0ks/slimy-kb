@@ -41,4 +41,4 @@ Validation:
 - Confirm compile candidates are fully handled or explicitly deferred with reason
 
 # Direct push without pull-first (avoids rebase conflicts in child compile)
-cd /home/slimy/kb && git --no-pager add -A && git --no-pager diff --cached --stat && git --no-pager commit -m "kb: child-compile 20260410-211031" && git --no-pager push origin main
+cd /home/slimy/kb && git --no-pager add -A && git --no-pager diff --cached --stat && git --no-pager commit -m "kb: child-compile 20260410-211340" && git --no-pager push origin main
