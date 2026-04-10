@@ -311,3 +311,13 @@
 - notes: Priority batch: seed-clawd-agents, seed-workspace-agents, seed-progress-history, seed-agents-rules, seed-server-state, plus 9 research/agent-learnings — all articles verified current vs sources; deferred list from prior compile confirmed stable; status: reviewed
 
 
+## [2026-04-10 20:25] compile | slimy-nuc1
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: slimy-nuc1
+- commit: 50a04c0
+- notes: 
+
+
