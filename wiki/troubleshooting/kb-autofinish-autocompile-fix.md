@@ -212,7 +212,7 @@ The following compile candidates have been reviewed and deferred (no wiki-worthy
 **2026-04-08 changelog** — Thin changelog with no substantive changes:
 - `raw/changelogs/2026-04-08-slimy-nuc2-project-changelog.md` — Agent Summary section is empty ("—"); repos touched are all auto-sync doc commits with no notable changes.
 
-**seed-progress-history.md** — Large (24k+ token) full AGENTS.md content. The operational rules (meta-learning loops, regressions, SLB-required actions, proof gate) are already compiled into [Clawd Agent Rules](../../projects/clawd-agent-rules.md) and [Workspace Agent Rules](../../projects/workspace-agent-rules.md). No new wiki article warranted. Deferred — will re-evaluate if substantive regressions or predictions are added.
+**seed-progress-history.md** — Large (88KB, 1880 lines) NUC2 session progress log. Contains chronological agent session summaries (e.g., Bot OpenAI 401 Fix, Ollama CPU benchmarks). Operational rules (meta-learning loops, regressions, SLB-required actions, proof gate) already compiled into [Clawd Agent Rules](../../projects/clawd-agent-rules.md) and [Workspace Agent Rules](../../projects/workspace-agent-rules.md). Not an AGENTS.md. No standalone wiki article warranted. Deferred — re-evaluate if substantive operational content is added.
 
 These will be re-evaluated if substantive content is added to the source files.
 
