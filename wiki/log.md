@@ -321,3 +321,19 @@
 - notes: 
 
 
+
+## [2026-04-10 21:17] compile | kb compile 20260410-211702
+- actor: claude
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/_index.md
+- summary: Re-verified all 14 priority batch files — all already sourced into existing wiki articles (autofinish/wrapper/SSH files in troubleshooting; seed AGENTS.md in agent-rules; seed-progress-history deferred as session log; seed-server-state superseded). No new wiki content required. Status: clean.
+- commit: 38c9a53 (already present)
+- notes: |
+    Compile candidates verified fully handled:
+    - 4x autofinish/wrapper/SSH research files → KB autofinish + NUC1/NUC2 SSH normalization articles
+    - 4x agent-learning files → KB autofinish + NUC1 wrapper recursion articles
+    - seed-clawd-agents.md → clawd-agent-rules.md
+    - seed-workspace-agents.md → workspace-agent-rules.md
+    - seed-server-state.md → superseded by nuc2-server-state.md (2026-04-05)
+    - seed-progress-history.md → deferred (88KB session log, not AGENTS.md; operational rules already in agent-rules)
