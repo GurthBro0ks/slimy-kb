@@ -301,3 +301,13 @@
     (MAINTENANCE/IDLE compiled 2026-04-09), slimy-monorepo.md (NUC2 services/routes/trader-adapter
     compiled 2026-04-09). All 2026-04-09 agent-learnings confirmed sourced in wiki. Empty
     2026-04-10 summaries and changelog deferred. Seed files deferred (already sourced).
+## [2026-04-10 19:53] compile | slimy-nuc1
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: slimy-nuc1
+- commit: 68c2b08
+- notes: Priority batch: seed-clawd-agents, seed-workspace-agents, seed-progress-history, seed-agents-rules, seed-server-state, plus 9 research/agent-learnings — all articles verified current vs sources; deferred list from prior compile confirmed stable; status: reviewed
+
+

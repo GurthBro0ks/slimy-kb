@@ -4,7 +4,12 @@
 # Prevents recursion via SLIMY_AUTOFINISH_ACTIVE=1 env var.
 #
 # Usage:
-#   slimy-agent-finish.sh --agent claude|codex|unknown [--repo /path/to/repo] [--summary "text"] [--dry-run] [--skip-compile]
+#   slimy-agent-finish.sh --agent claude|codex|unknown [--repo /path/to/repo] [--summary "text"] [--dry-run] [--skip-compile] [--quiet]
+#
+# Flags:
+#   --repo PATH   : limit to specific repo(s); skips auto-detection scan
+#   --quiet       : suppress Discord ALERT posting (for SUCCESS path)
+#   --skip-compile: skip kb-compile-if-needed
 set -euo pipefail
 
 # Disable interactive pager — wrapper-triggered runs have no TTY
@@ -25,6 +30,7 @@ export SLIMY_AUTOFINISH_ACTIVE=1
 AGENT="unknown"
 DRY_RUN=""
 SKIP_COMPILE=""
+QUIET=""
 declare -a REPOS=()
 SUMMARY=""
 HOST=$(hostname -s)
@@ -50,6 +56,8 @@ while [[ $# -gt 0 ]]; do
             DRY_RUN="--dry-run"; shift ;;
         --skip-compile)
             SKIP_COMPILE="1"; shift ;;
+        --quiet)
+            QUIET="1"; shift ;;
         --)
             shift; break ;;
         -*)
@@ -60,10 +68,10 @@ while [[ $# -gt 0 ]]; do
 done
 
 echo "[slimy-agent-finish] Starting finish automation..."
-echo "[slimy-agent-finish] Agent: $AGENT | Host: $HOST | Dry-run: $DRY_RUN | Skip-compile: $SKIP_COMPILE"
+echo "[slimy-agent-finish] Agent: $AGENT | Host: $HOST | Dry-run: $DRY_RUN | Skip-compile: $SKIP_COMPILE | Quiet: $QUIET"
 echo "[slimy-agent-finish] Repos: ${REPOS[*]:-none specified (will detect)}"
 
-# Detect recently changed git repos if none specified
+# Detect recently changed git repos only if none specified (bounded vs. full-scan mode)
 if [[ ${#REPOS[@]} -eq 0 ]]; then
     echo "[slimy-agent-finish] No repos specified — detecting recently changed repos under /home/slimy and /opt/slimy..."
     declare -A SEEN=()
@@ -255,7 +263,8 @@ else
 fi
 
 # Post ALERTS webhook if any failures were recorded (category: ALERTS)
-if [[ -n "${ALERT_MSG:-}" && -n "${DISCORD_WEBHOOK_ALERTS:-}" ]]; then
+# Skip posting if --quiet flag is set (SUCCESS path)
+if [[ -n "${ALERT_MSG:-}" && -n "${DISCORD_WEBHOOK_ALERTS:-}" && -z "$QUIET" ]]; then
     if [[ "$DRY_RUN" != "--dry-run" ]]; then
         msg="[ALERT $HOST] slimy-agent-finish failures: ${ALERT_MSG}agent=${AGENT}"
         curl -s -X POST "${DISCORD_WEBHOOK_ALERTS}" \
