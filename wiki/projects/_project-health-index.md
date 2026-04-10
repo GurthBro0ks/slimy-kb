@@ -29,6 +29,7 @@
 - **ned-autonomous** → `ned-autonomous.md` — DIRTY
 - **ned-clawd** → `ned-clawd.md` — clean
 - **slimy-chat** → `slimy-chat.md` — clean
+- **slimy-harness** → (no project page yet — KB file-back pass skips new page creation)
 - **slimy-monorepo** → `slimy-monorepo.md` — DIVERGED
 - **stoat-source** → `stoat-source.md` — clean
 - **workspace-executor** → `workspace-executor.md` — clean

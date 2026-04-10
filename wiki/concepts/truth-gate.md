@@ -7,7 +7,19 @@
 
 A truth gate is the required verification set that proves a change is actually done.
 
-## Typical Gate Components
+## Harness Truth Gate
+
+For the slimy-harness repo itself, the truth gate is:
+
+```bash
+bash /home/slimy/slimy-harness/scripts/validate-harness.sh
+```
+
+Current criteria (as of 2026-04-10): **53 passed | 0 warnings | 0 failures**
+
+The validation checks: shell syntax on all scripts, dry-run zero-write, docs vs installer consistency, required files present, AGENTS.md host-neutrality, per-repo harness completeness, ambiguous repo fail-closed, init.sh ↔ server-install.sh skip policy sync, real paths in server-state template, and sync hygiene vs origin/main (Check 9).
+
+## Practical Pattern
 - Lint and build success for touched repos.
 - Tests or smoke checks relevant to changed behavior.
 - Runtime checks for user-facing endpoints or services.

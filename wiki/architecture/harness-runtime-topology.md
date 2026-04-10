@@ -62,6 +62,34 @@ This article maps where SlimyAI harness components live, who owns them at runtim
 - Ledger drift: stale `server-state.md` or missing closeout updates cause bad restart decisions.
 - Cross-NUC dependency drift: tunnel up but DB grant missing still blocks reads (`slimy@172.18.0.1` access denied).
 - Mailbox integrity breaks: missing payload artifacts or checksum/schema failures halt ingest.
+- Session finish divergence: stop hook scripts on different NUCs or branches run different finish automation (sync hygiene guardrail detects this — see Check 9 in validate-harness.sh).
+
+## Sync Hygiene Guardrail
+
+`slimy-harness/scripts/check-sync-state.sh` runs as Check 9 in `validate-harness.sh`. It detects when the harness has diverged from `origin/main` and warns, preventing stale finish-hook logic from running.
+
+Divergence categories detected:
+- **Ahead only:** local commits not pushed — may indicate untracked finish hook changes
+- **Behind only:** origin has commits not locally merged — finish hook logic may be out of date
+- **Diverged:** both sides have commits — highest risk of stale/buggy finish behavior running
+
+Also covers: untracked files (may contain ad-hoc finish hook edits) and detached HEAD state (no canonical branch for comparison).
+
+## Session Finish Behavior (Stop Hook)
+
+The harness Stop hook (`slimy-session-finish.sh`) dispatches based on how the session ended:
+
+| Exit Type | Cause | Action | Discord ALERT |
+|-----------|-------|--------|---------------|
+| **INTERRUPTED** | Ctrl+C / SIGINT | Skip all finish automation, exit quietly | NO |
+| **SUCCESS** (exit 0) | Normal completion | Bounded quiet finish: kb-compile, sync active repo only | NO |
+| **ERROR** (exit ≠0) | Non-zero exit | Bounded finish with alerts: sync active repo, post ALERT on failure | YES (bounded) |
+
+**Bounded scope** means only the active repo is touched — no multi-repo scan of `/home/slimy` or `/opt/slimy`. The `--repo` flag on `slimy-agent-finish.sh` activates bounded mode (skips auto-detection scan). The `--quiet` flag suppresses ALERT posting.
+
+Recursion guard: `SLIMY_AUTOFINISH_ACTIVE=1` prevents nested finish runs.
+
+**DO NOT "fix" this behavior** — it was intentionally designed to stop Discord ALERT spam and multi-repo push sweeps on interrupt. See `/home/slimy/slimy-harness/proofs/stop-hook-fix-001/FLOW_DIAGRAM.md` for the full dispatch logic.
 
 ## See Also
 - [Agent Session Contract](../concepts/agent-session-contract.md)

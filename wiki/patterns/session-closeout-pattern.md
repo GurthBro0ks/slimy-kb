@@ -61,6 +61,18 @@ New friction between instructions gets logged, not silently overridden. Surface 
 - Confirm unresolved blockers are explicitly recorded.
 - Confirm no unrelated services were modified.
 
+## Session Finish Behavior
+
+The harness Stop hook (`slimy-session-finish.sh`) runs automatically at session end. It dispatches based on exit type:
+
+- **INTERRUPTED** (Ctrl+C / SIGINT): skip all finish automation, exit 0 — no Discord ALERT, no repo sync
+- **SUCCESS** (exit 0): bounded quiet finish — kb-compile, sync active repo only, no Discord ALERT
+- **ERROR** (exit ≠0): bounded finish with alerts — sync active repo, post bounded Discord ALERT on failure
+
+Bounded scope = active repo only. `--quiet` on `slimy-agent-finish.sh` suppresses ALERT; `--repo /path` activates bounded mode (no multi-repo scan).
+
+See [Harness Runtime Topology](../architecture/harness-runtime-topology.md) for the full dispatch matrix.
+
 ## See Also
 - [Agent Session Contract](../concepts/agent-session-contract.md)
 - [Source of Truth Ledgers](../concepts/source-of-truth-ledgers.md)
