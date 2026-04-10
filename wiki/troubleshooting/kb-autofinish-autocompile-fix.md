@@ -4,7 +4,7 @@
 > Created: 2026-04-05
 > Updated: 2026-04-10
 > Status: reviewed
-> Note: All 14 priority raw files verified already compiled. No new content added. Date refreshed to 2026-04-10 to mark this compile review pass.
+> Note: Re-verified all 14 priority batch files (compile 20260410-211031): seed AGENTS.md → agent-rules articles; seed-progress-history.md (88KB session log) deferred — operational rules already compiled; seed-server-state.md superseded; NUC1/NUC2 autofinish/wrapper/SSH files already sourced. No new wiki content required.
 
 Fix for the KB write-through automation where `slimy-agent-finish.sh` left raw files uncommitted and `kb-compile-if-needed.sh` only wrote prompt files without triggering actual wiki compilation.
 
