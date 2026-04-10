@@ -185,3 +185,14 @@
 - notes: stage1.8 run: todos=12 nuc1_items=3 nuc1_evidence=YES
 
 
+## [2026-04-10 02:33] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/architecture/knowledge-base-build-pipeline.md
+  - wiki/wiki-manager-operator-runbook.md  - (none)
+- summary: 12h maintenance run
+- commit: e51ecf1
+- notes: auto-maintenance from kb-maintenance.sh 2026-04-10T02:33:06Z
+
+
