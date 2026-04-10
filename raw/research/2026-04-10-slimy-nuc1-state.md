@@ -1,6 +1,6 @@
 # NUC2 State Digest
 
-**Timestamp:** 2026-04-10T07:41:20Z
+**Timestamp:** 2026-04-10T07:43:27Z
 **Host:** slimy-nuc1
 
 ## Systemd User Services
@@ -31,18 +31,18 @@ LISTEN 0      511                              *:3838             *:*    users:(
 
 ## Disk Usage (KB-relevant paths)
 
-6.8M	/home/slimy/kb
+6.9M	/home/slimy/kb
 43G	/home/slimy
 - /home/slimy: (unable to measure)
 
 ## Uptime
 
- 07:41:25 up 4 days,  8:39,  7 users,  load average: 0.87, 0.80, 0.65
+ 07:43:31 up 4 days,  8:41,  7 users,  load average: 0.91, 0.81, 0.67
 
 ## KB Git Status
 
- D output/prompts/auto-compile-prompt-20260410-063045.md
-?? raw/research/2026-04-10-slimy-nuc1-state.md
+ M raw/research/2026-04-10-slimy-nuc1-state.md
+ M tools/wiki_manager_stage1.sh
 - ahead: 0
 - behind: 0
 
@@ -53,7 +53,7 @@ LISTEN 0      511                              *:3838             *:*    users:(
 
 ## KB Raw Files (recent, 48h)
 
-- 49 raw/*.md files modified in last 48h
+- 50 raw/*.md files modified in last 48h
 
 ## Vault Sync Status
 

@@ -1,13 +1,13 @@
 # KB Health Snapshot
 
-**Timestamp:** 2026-04-10T07:41:25Z
+**Timestamp:** 2026-04-10T07:43:31Z
 **Host:** slimy-nuc1
 
 ## File Counts
 
 - wiki/*.md (articles): 2
 - wiki/_*.md (meta): 9
-- raw/**/*.md: 116
+- raw/**/*.md: 117
 - output/*.md: 70
 
 ## Index Files
@@ -29,16 +29,16 @@
 
 ## Log Recent Entries (last 5)
 
-- [2026-04-09 17:47] wiki_manager | stage1.8 todo queue generation
 - [2026-04-10 02:33] maintenance | 12h maintenance run
 - [2026-04-10 03:10] wiki_manager | stage1.86 todo queue generation
 - [2026-04-10 06:35] compile | child-compile 20260410-063045 — compiled kb-autofinish-autocompile-fix, nuc1/nuc2-repo-remote-ssh-normalization, nuc1-wrapper-recursion-fix; updated nuc1-current-state.md (kb only, no div), repo-health-overview.md from inbox digest; lint: 30 orphans, 8 weak-links
 - [2026-04-10 06:57] compile | 2026-04-10T065756Z
+- [2026-04-10 07:41] wiki_manager | stage1.86 todo queue generation
 
 ## Recent Output Files (48h)
 
-- candidate_review_pack.md (2026-04-10 06:30)
-- harness_candidates.md (2026-04-10 06:30)
+- candidate_review_pack.md (2026-04-10 07:41)
+- harness_candidates.md (2026-04-10 07:41)
 - pm-runtime-truth-update-2026-04-09.md (2026-04-09 13:43)
 - prompts/auto-compile-prompt-20260405-231302.md (2026-04-08 09:14)
 - prompts/auto-compile-prompt-20260408-092539.md (2026-04-08 09:25)

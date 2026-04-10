@@ -1,9 +1,9 @@
 # Wiki Manager Status
 
 > Category: concepts
-> Updated: 2026-04-10T07:41:25Z
+> Updated: 2026-04-10T07:43:31Z
 
-**Last run:** 2026-04-10T07:41:25Z
+**Last run:** 2026-04-10T07:43:31Z
 **Stage:** 1.86
 **Backend:** stub
 **NUC1 evidence:** none
@@ -12,16 +12,16 @@
 ## Queue Summary
 
 - Total tasks: 6
-- NEW: 6
-- PERSISTING: 0
+- NEW: 0
+- PERSISTING: 6
 - RESOLVED (this run): 0
 
 ## Promotion Counts
 
 - **candidate:** 0
-- **emerging:** 0
+- **emerging:** 6
 - **cooling_down:** 0
-- **not_candidate:** 6
+- **not_candidate:** 0
 
 ## Freshness Bands
 
@@ -41,14 +41,23 @@
 - [_project-health-index.md](projects/_project-health-index.md): SKIPPED
 - [_candidate-promotion-rules.md](../wiki/_candidate-promotion-rules.md): YES (always updated)
 
+## Harness Candidates
+
+- **[todo-2026-04-10-001]** Resolve 30 orphaned wiki pages (severity: high, promotion: emerging, fresh)
+- **[todo-2026-04-10-002]** Review orphaned page: architecture/nuc2-server-state.md (severity: high, promotion: emerging, aging)
+- **[todo-2026-04-10-003]** Review orphaned page: log.md (severity: high, promotion: emerging, fresh)
+- **[todo-2026-04-10-004]** Review orphaned page: projects/actionbook.md (severity: high, promotion: emerging, fresh)
+- **[todo-2026-04-10-005]** Review orphaned page: projects/agents-backup-full.md (severity: high, promotion: emerging, fresh)
+- **[todo-2026-04-10-006]** Review orphaned page: projects/apify-market-scanner.md (severity: high, promotion: emerging, fresh)
+
 ## Task List
 
-✨ [todo-2026-04-10-001] Resolve 30 orphaned wiki pages (medium, wiki_gap) [not_candidate] (fresh) — slimy-nuc1
-✨ [todo-2026-04-10-002] Review orphaned page: architecture/nuc2-server-state.md (medium, wiki_gap) [not_candidate] (aging) — slimy-nuc1
-✨ [todo-2026-04-10-003] Review orphaned page: log.md (medium, wiki_gap) [not_candidate] (fresh) — slimy-nuc1
-✨ [todo-2026-04-10-004] Review orphaned page: projects/actionbook.md (medium, wiki_gap) [not_candidate] (fresh) — slimy-nuc1
-✨ [todo-2026-04-10-005] Review orphaned page: projects/agents-backup-full.md (medium, wiki_gap) [not_candidate] (fresh) — slimy-nuc1
-✨ [todo-2026-04-10-006] Review orphaned page: projects/apify-market-scanner.md (medium, wiki_gap) [not_candidate] (fresh) — slimy-nuc1
+🔄 [todo-2026-04-10-001] Resolve 30 orphaned wiki pages (high, wiki_gap) [emerging] (fresh) — slimy-nuc1
+🔄 [todo-2026-04-10-002] Review orphaned page: architecture/nuc2-server-state.md (high, wiki_gap) [emerging] (aging) — slimy-nuc1
+🔄 [todo-2026-04-10-003] Review orphaned page: log.md (high, wiki_gap) [emerging] (fresh) — slimy-nuc1
+🔄 [todo-2026-04-10-004] Review orphaned page: projects/actionbook.md (high, wiki_gap) [emerging] (fresh) — slimy-nuc1
+🔄 [todo-2026-04-10-005] Review orphaned page: projects/agents-backup-full.md (high, wiki_gap) [emerging] (fresh) — slimy-nuc1
+🔄 [todo-2026-04-10-006] Review orphaned page: projects/apify-market-scanner.md (high, wiki_gap) [emerging] (fresh) — slimy-nuc1
 
 ---
 *Managed by wiki-manager-stage1.timer (every 12h). Do not edit directly.*

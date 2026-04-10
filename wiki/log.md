@@ -237,3 +237,18 @@
 - notes: stage1.86 run: todos=6 nuc1_items=6 nuc1_evidence=YES
 
 
+## [2026-04-10 07:43] wiki_manager | stage1.86 todo queue generation
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/_candidate-promotion-rules.md
+  - wiki/_manager-status.md
+  - wiki/architecture/nuc1-current-state.md
+  - wiki/architecture/nuc2-current-state.md
+  - wiki/projects/repo-health-overview.md  - raw/research/2026-04-10-slimy-nuc1-kb-health.md
+  - raw/research/2026-04-10-slimy-nuc1-state.md
+- summary: stage1.86 todo queue generation
+- commit: df4b62e
+- notes: stage1.86 run: todos=6 nuc1_items=6 nuc1_evidence=YES
+
+

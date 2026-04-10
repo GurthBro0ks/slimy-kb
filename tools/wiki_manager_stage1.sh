@@ -25,7 +25,7 @@ bash "$KB_TOOLS/kb-sync.sh" pull >> "$PROOF_DIR/step1-pull.log" 2>&1 || {
 # ── STEP 2: Run collectors ────────────────────────────────────────────────────
 log_step "Running collectors..."
 bash "$KB_TOOLS/collect_nuc2_state.sh" >> "$PROOF_DIR/step2-nuc2-state.log" 2>&1 || EXIT_CODE=1
-bash "$KB_TOOLS/collect_repo_digests.py" >> "$PROOF_DIR/step2-repo-digests.log" 2>&1 || EXIT_CODE=1
+"$KB_TOOLS/collect_repo_digests.py" >> "$PROOF_DIR/step2-repo-digests.log" 2>&1 || EXIT_CODE=1
 bash "$KB_TOOLS/collect_kb_health.sh" >> "$PROOF_DIR/step2-kb-health.log" 2>&1 || EXIT_CODE=1
 
 # ── STEP 3: Read wiki meta + NUC1 inbox ────────────────────────────────────────

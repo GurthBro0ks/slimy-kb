@@ -1,7 +1,7 @@
 # NUC1 Current State
 
 > Category: architecture
-> Updated: 2026-04-10T07:41:25Z
+> Updated: 2026-04-10T07:43:31Z
 > Sources: raw/inbox-nuc1/
 > Status: active
 
