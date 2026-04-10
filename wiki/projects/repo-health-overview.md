@@ -11,29 +11,28 @@
 ### NUC1 Repos
 | Repo | Dirty | Diverged |
 |------|--------|----------|
-| Slimefun4 | — | ⚠️ YES |
-| PrivateStorage | — | — |
 | DynaTech | — | — |
-| mission-control | — | — |
-| slimy-harness | — | — |
+| PrivateStorage | — | — |
+| Slimefun4 | — | — |
+| clawd | — | — |
 | kb | ⚠️ YES | — |
-| ned-autonomous | ⚠️ YES | — |
-| stoat-source | — | — |
 | mailbox_outbox | — | — |
-| slimy-chat | — | — |
-| clawd | — | ⚠️ YES |
+| mission-control | — | — |
+| ned-autonomous | — | — |
 | ned-clawd | — | — |
-| slimy-monorepo | — | ⚠️ YES |
+| plugins | — | — |
+| slimy-chat | — | — |
+| slimy-harness | — | — |
+| slimy-monorepo | — | — |
+| stoat-source | — | — |
 | workspace-executor | — | — |
 | workspace-researcher | — | — |
-| plugins | — | — |
 
 ### NUC2 Repos
 - _NUC2 repo state parsed from local git status_
 
 ## Action Required
-- **Dirty on NUC1:** kb, ned-autonomous — commit or stash
-- **Diverged on NUC1:** Slimefun4, clawd, slimy-monorepo — merge or rebase
+- **Dirty on NUC1:** kb — commit or stash
 
 <!-- END MACHINE MANAGED -->
 

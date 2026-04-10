@@ -12,20 +12,16 @@
 - **Last seen:** 20260409T160301Z
 
 ## Repository Status
-- **Total repos tracked:** 16
-- **Dirty (uncommitted changes):** kb, ned-autonomous
-- **Diverged (ahead + behind remote):** Slimefun4, clawd, slimy-monorepo
+- **Total repos tracked:** 21
+- **Dirty (uncommitted changes):** kb
+- **Diverged (ahead + behind remote):** (none in latest digest)
 
 ## Active Services (from digest)
-- _(none detected in this digest)_
+- Docker containers: slimy-mysql, slimy-chat_caddy_1, slimy-chat_web_1, slimy-chat_smtp_1, slimy-chat_voice-ingress_1, slimy-chat_api_1, slimy-chat_pushd_1, slimy-chat_autumn_1, slimy-chat_events_1, slimy-chat_crond_1, slimy-chat_minio_1, slimy-chat_rabbit_1, slimy-chat_livekit_1, slimy-chat_database_1, slimy-chat_january_1, slimy-chat_gifbox_1, slimy-chat_redis_1 (all Up ~3 days)
+- Listening ports: 8080 (slimy-chat), 7881, 33261, 18789, 18791, 18792, 11434 (ollama), 8510, 8443, 22, 3306, 443
 
 ## Open Issues (from todo queue)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: kb — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-autonomous — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo diverged from remote: Slimefun4 — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo diverged from remote: clawd — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 KB has uncommitted changes — repo_drift (fresh)
+- **[MEDIUM/candidate]** NUC1 repo has uncommitted changes: kb — repo_drift (fresh)
 
 <!-- END MACHINE MANAGED -->
 

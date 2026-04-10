@@ -1,6 +1,6 @@
 # SlimyAI Knowledge Base - Master Index
 > Auto-maintained by LLM agents. Do not edit manually.
-> Last compiled: 2026-04-09 (child-compile 20260409-205609 — all priority batch files already compiled: seed-clawd-agents→clawd-agent-rules, seed-workspace-agents→workspace-agent-rules, kb-autofinish-autocompile-fix (includes no-pager fix), nuc1-wrapper-recursion-fix, nuc1/nuc2-repo-remote-ssh-norm, nuc2-server-state; deferred: seed-progress-history.md (already covered by agent rules articles); lint: 15 orphans, 7 weak-links; status: reviewed)
+> Last compiled: 2026-04-10 (child-compile 20260410-063045 — compiled: kb-autofinish-autocompile-fix (includes no-pager fix), nuc1/nuc2-repo-remote-ssh-normalization, nuc1-wrapper-recursion-fix; handled inbox-nuc1/2026-04-09-nuc1-state.md (NUC1 digest); updated nuc2-current-state.md, repo-health-overview.md from digest evidence; lint: 30 orphans, 8 weak-links; status: reviewed)
 
 ## Categories
 ### Concepts

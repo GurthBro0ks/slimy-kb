@@ -206,3 +206,14 @@
 - notes: stage1.86 run: todos=12 nuc1_items=3 nuc1_evidence=YES
 
 
+## [2026-04-10 06:35] compile | child-compile 20260410-063045 — compiled kb-autofinish-autocompile-fix, nuc1/nuc2-repo-remote-ssh-normalization, nuc1-wrapper-recursion-fix; updated nuc1-current-state.md (kb only, no div), repo-health-overview.md from inbox digest; lint: 30 orphans, 8 weak-links
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - raw/agent-learnings/2026-04-10-slimy-nuc1-claude-summary.md
+  - raw/changelogs/2026-04-10-slimy-nuc1-project-changelog.md
+- summary: child-compile 20260410-063045 — compiled kb-autofinish-autocompile-fix, nuc1/nuc2-repo-remote-ssh-normalization, nuc1-wrapper-recursion-fix; updated nuc1-current-state.md (kb only, no div), repo-health-overview.md from inbox digest; lint: 30 orphans, 8 weak-links
+- commit: ab864ab
+- notes: 
+
+
