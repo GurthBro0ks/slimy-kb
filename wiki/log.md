@@ -289,3 +289,15 @@
 - notes: /home/slimy/kb
 
 
+
+- actor: claude (slimy-nuc1)
+  host: slimy-nuc1
+  event: compile
+  timestamp: "2026-04-10T19:21:59Z"
+  commit: 8e3905b
+  summary: child-compile 20260410-192159 — all compile candidates verified current from prior compiles; _index timestamp updated
+  notes: >-
+    Verified: mission-control.md (NUC1+NUC2 runtime, both compiled 2026-04-09), apify-market-scanner.md
+    (MAINTENANCE/IDLE compiled 2026-04-09), slimy-monorepo.md (NUC2 services/routes/trader-adapter
+    compiled 2026-04-09). All 2026-04-09 agent-learnings confirmed sourced in wiki. Empty
+    2026-04-10 summaries and changelog deferred. Seed files deferred (already sourced).

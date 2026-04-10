@@ -1,6 +1,6 @@
 # SlimyAI Knowledge Base - Master Index
 > Auto-maintained by LLM agents. Do not edit manually.
-> Last compiled: 2026-04-10 (child-compile 20260410-184203 — all priority batch files already compiled in prior runs; verified kb-autofinish-autocompile-fix (includes no-pager fix) Sources completeness, added missing raw/agent-learnings/2026-04-05-nuc2-no-pager-finish-hook-fix.md to no-pager article; confirmed nuc1-wrapper-recursion-fix already covers all 3 sources; seed-progress-history.md deferred (already sourced in existing articles); deferred: seed-clawd-agents.md, seed-workspace-agents.md, seed-agents-rules.md, seed-server-state.md, and all 2026-04-05 research files (all already compiled); status: reviewed)
+> Last compiled: 2026-04-10 (child-compile 20260410-192159 — verified all priority batch files current from 1842 compile; confirmed mission-control.md (NUC1+NUC2 runtime states) and apify-market-scanner.md (MAINTENANCE/IDLE) already compiled from 2026-04-09 agent-learnings; verified slimy-monorepo.md already covers NUC2 services/truth-gate/routes/trader-adapter from 2026-04-09 update; confirmed 2026-04-10 session summaries (empty) and changelog (auto-sync only) are deferred; same deferred list as prior compile; status: reviewed)
 
 ## Categories
 ### Concepts
