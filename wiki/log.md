@@ -444,3 +444,19 @@
 - notes: stage1.86 run: todos=6 nuc1_items=6 nuc1_evidence=YES
 
 
+## [2026-04-11 21:24] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_candidate-promotion-rules.md
+  - wiki/_manager-status.md
+  - wiki/architecture/nuc1-current-state.md
+  - wiki/architecture/nuc2-current-state.md
+  - wiki/projects/repo-health-overview.md  - raw/research/2026-04-11-slimy-nuc2-kb-health.md
+  - raw/research/2026-04-11-slimy-nuc2-repo-digests.md
+  - raw/research/2026-04-11-slimy-nuc2-state.md
+- summary: 12h maintenance run
+- commit: d5ab0c6
+- notes: auto-maintenance from kb-maintenance.sh 2026-04-11T21:24:40Z
+
+
