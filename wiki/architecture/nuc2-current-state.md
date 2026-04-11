@@ -1,14 +1,14 @@
 # NUC2 Current State
 
 > Category: architecture
-> Updated: 2026-04-10T15:11:12Z
+> Updated: 2026-04-11T03:12:12Z
 > Status: active
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc2
-- **Last updated:** 2026-04-10T15:11:12Z
+- **Last updated:** 2026-04-11T03:12:12Z
 
 ## Active Services
 - - pm2: not available
@@ -30,8 +30,8 @@
 - **Weak-linked pages:** 8
 
 ## Open Issues (from todo queue)
-- **[HIGH/emerging]** Resolve 30 orphaned wiki pages — wiki_gap (fresh)
-- **[HIGH/candidate]** Review orphaned page: architecture/nuc2-server-state.md — wiki_gap (aging)
+- **[HIGH/candidate]** Resolve 30 orphaned wiki pages — wiki_gap (fresh)
+- **[HIGH/candidate]** Review orphaned page: architecture/nuc2-server-state.md — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: log.md — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: projects/actionbook.md — wiki_gap (aging)
 - **[HIGH/candidate]** Review orphaned page: projects/agents-backup-full.md — wiki_gap (aging)
