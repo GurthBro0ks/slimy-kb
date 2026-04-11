@@ -410,3 +410,14 @@
     - NUC1/NUC2 wrapper/pager files → already sourced into troubleshooting articles
     - NUC2 autofinish/parity files → already sourced into kb-autofinish-autocompile-fix.md
     No new wiki content required.
+## [2026-04-11 01:55] compile | NUC1
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/troubleshooting/kb-autofinish-autocompile-fix.md
+  - wiki/troubleshooting/nuc1-wrapper-recursion-fix.md  - (none)
+- summary: NUC1
+- commit: 6b684ba
+- notes: child-compile 20260411-015424
+
+
