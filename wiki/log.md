@@ -368,3 +368,22 @@
     No new wiki content required.
 
 
+
+## [2026-04-11 01:20] compile | child-compile 20260411-012025
+- actor: claude (slimy-nuc1)
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/_index.md (last-compiled timestamp refreshed)
+- summary: child-compile 20260411-012025 — re-verified all priority batch files; no new wiki content required; status: reviewed
+- commit: (pending push)
+- notes: >-
+    Priority batch compile candidates verified fully handled:
+    - seed-clawd-agents.md → clawd-agent-rules.md (sourced)
+    - seed-workspace-agents.md → workspace-agent-rules.md (sourced)
+    - seed-progress-history.md → deferred (operational content in agent-rules articles)
+    - seed-agents-rules.md → sourced into nuc1-wrapper-recursion-fix.md
+    - seed-server-state.md → superseded by nuc2-server-state.md (2026-04-05)
+    - NUC1/NUC2 SSH-normalization files → already sourced into troubleshooting articles
+    - NUC1/NUC2 wrapper/pager files → already sourced into troubleshooting articles
+    - NUC2 autofinish/parity files → already sourced into kb-autofinish-autocompile-fix.md
+    No new wiki content required this pass.
