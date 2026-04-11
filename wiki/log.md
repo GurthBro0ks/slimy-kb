@@ -473,3 +473,18 @@
 - notes: stage1.86 run: todos=6 nuc1_items=9 nuc1_evidence=YES
 
 
+## [2026-04-11 22:28] autofile | codex | NUC1
+> Conflict resolved: NUC2 03:12 wiki_manager entry kept (fuller detail). NUC1 03:12 compile entry dropped as duplicate. NUC1 autofile entry appended manually post-rebase.
+- actor: slimy-agent-finish
+- host: slimy-nuc1
+- affected_paths:
+  - raw/changelogs/2026-04-11-slimy-nuc1-codex-summary.md
+  - raw/agent-learnings/2026-04-11-slimy-nuc1-claude-summary.md
+  - raw/agent-learnings/2026-04-11-slimy-nuc1-codex-summary.md
+  - wiki/troubleshooting/kb-autofinish-autocompile-fix.md
+  - wiki/troubleshooting/nuc1-wrapper-recursion-fix.md
+- summary: kb: autofile codex 20260411-222803
+- commit: fe0ec9e
+- notes: compile verified all priority batch files already sourced; no new wiki content required
+
+
