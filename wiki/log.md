@@ -387,3 +387,26 @@
     - NUC1/NUC2 wrapper/pager files → already sourced into troubleshooting articles
     - NUC2 autofinish/parity files → already sourced into kb-autofinish-autocompile-fix.md
     No new wiki content required this pass.
+
+## [2026-04-11 01:39] compile | child-compile 20260411-013954
+- actor: claude (slimy-nuc1)
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/troubleshooting/kb-autofinish-autocompile-fix.md (note refreshed, Updated date unchanged)
+  - wiki/troubleshooting/nuc1-wrapper-recursion-fix.md (note refreshed, Updated date unchanged)
+  - wiki/_index.md (last-compiled timestamp refreshed to 20260411-013954)
+- summary: child-compile 20260411-013954 — all priority batch files already sourced or deferred; re-verified no new wiki content required; status: reviewed
+- commit: (pending push)
+- notes: >-
+    Compile candidates verified fully handled:
+    - 4x autofinish/wrapper/SSH research files → KB autofinish + NUC1/NUC2 SSH normalization articles
+    - 4x agent-learning files → KB autofinish + NUC1 wrapper recursion articles
+    - seed-clawd-agents.md → clawd-agent-rules.md (sourced)
+    - seed-workspace-agents.md → workspace-agent-rules.md (sourced)
+    - seed-progress-history.md → deferred (operational content in agent-rules)
+    - seed-agents-rules.md → sourced into nuc1-wrapper-recursion-fix.md
+    - seed-server-state.md → superseded by nuc2-server-state.md (2026-04-05)
+    - NUC1/NUC2 SSH-normalization files → already sourced into troubleshooting articles
+    - NUC1/NUC2 wrapper/pager files → already sourced into troubleshooting articles
+    - NUC2 autofinish/parity files → already sourced into kb-autofinish-autocompile-fix.md
+    No new wiki content required.

@@ -4,7 +4,7 @@
 > Created: 2026-04-05
 > Updated: 2026-04-11
 > Status: reviewed
-> Note: Re-verified 2026-04-11 (compile 20260411-004537): all priority batch files already sourced or deferred. seed-clawd-agents.md/seed-workspace-agents.md → clawd-agent-rules/workspace-agent-rules (sourced); seed-progress-history.md deferred (operational content in agent-rules); NUC1/NUC2 SSH/wrapper/recursion/pager files already sourced into troubleshooting articles. No new wiki content required.
+> Note: Re-verified 2026-04-11 (compile 20260411-013954): all priority batch files already sourced or deferred. seed-clawd-agents.md/seed-workspace-agents.md → clawd-agent-rules/workspace-agent-rules (sourced); seed-progress-history.md deferred (operational content in agent-rules); seed-agents-rules.md sourced into nuc1-wrapper-recursion-fix.md; seed-server-state.md superseded by nuc2-server-state.md (2026-04-05); NUC1/NUC2 SSH/wrapper/recursion/pager files already sourced into troubleshooting articles. No new wiki content required. Status: reviewed.
 
 Fix for the KB write-through automation where `slimy-agent-finish.sh` left raw files uncommitted and `kb-compile-if-needed.sh` only wrote prompt files without triggering actual wiki compilation.
 
