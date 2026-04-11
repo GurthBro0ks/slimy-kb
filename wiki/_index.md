@@ -1,6 +1,6 @@
 # SlimyAI Knowledge Base - Master Index
 > Auto-maintained by LLM agents. Do not edit manually.
-> Last compiled: 2026-04-10 (child-compile 20260410-211340 — re-verified all 14 priority batch files: seed AGENTS.md files already sourced into agent-rules articles (clawd/workspace); seed-progress-history.md (88KB log) deferred — operational content already in agent-rules, not a standalone article; seed-server-state.md (2026-03-31) superseded by nuc2-server-state.md (2026-04-05); NUC1/NUC2 autofinish/wrapper-recursion/SSH-normalization files already sourced into troubleshooting articles; no new concepts or wiki changes required; status: reviewed)
+> Last compiled: 2026-04-11 (child-compile 20260411-002448 — re-verified all priority batch files: seed-clawd-agents.md/seed-workspace-agents.md already sourced into clawd-agent-rules/workspace-agent-rules; seed-progress-history.md deferred (operational content in agent-rules); NUC1/NUC2 SSH/wrapper/recursion/pager files already sourced into troubleshooting articles; no new wiki content required; status: reviewed)
 
 ## Categories
 ### Concepts

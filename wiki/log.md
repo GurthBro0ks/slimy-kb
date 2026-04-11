@@ -337,3 +337,13 @@
     - seed-workspace-agents.md → workspace-agent-rules.md
     - seed-server-state.md → superseded by nuc2-server-state.md (2026-04-05)
     - seed-progress-history.md → deferred (88KB session log, not AGENTS.md; operational rules already in agent-rules)
+## [2026-04-11 00:27] compile | 2026-04-11 00:24
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: 2026-04-11 00:24
+- commit: 910dd19
+- notes: slimy-nuc1
+
+

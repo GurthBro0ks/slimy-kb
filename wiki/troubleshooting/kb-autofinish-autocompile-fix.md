@@ -2,9 +2,9 @@
 > Category: troubleshooting
 > Sources: raw/research/2026-04-05-slimy-nuc2-autofinish-autocompile-fix.md, raw/research/2026-04-05-slimy-nuc2-autofinish-parity-check.md, raw/agent-learnings/2026-04-05-nuc2-no-pager-finish-hook-fix.md, raw/research/2026-04-05-slimy-nuc2-no-pager-finish-hook-fix.md, raw/research/2026-04-05-slimy-nuc1-wrapper-recursion-fix.md
 > Created: 2026-04-05
-> Updated: 2026-04-10
+> Updated: 2026-04-11
 > Status: reviewed
-> Note: Re-verified all 14 priority batch files (compile 20260410-211340): seed AGENTS.md → agent-rules articles; seed-progress-history.md (88KB session log) deferred — operational rules already compiled; seed-server-state.md superseded; NUC1/NUC2 autofinish/wrapper/SSH files already sourced. No new wiki content required.
+> Note: Re-verified 2026-04-11 (compile 20260411-002448): all priority batch files already sourced or deferred. seed-clawd-agents.md/seed-workspace-agents.md → clawd-agent-rules/workspace-agent-rules (sourced); seed-progress-history.md deferred (operational content in agent-rules); NUC1/NUC2 SSH/wrapper/recursion/pager files already sourced into troubleshooting articles. No new wiki content required.
 
 Fix for the KB write-through automation where `slimy-agent-finish.sh` left raw files uncommitted and `kb-compile-if-needed.sh` only wrote prompt files without triggering actual wiki compilation.
 
