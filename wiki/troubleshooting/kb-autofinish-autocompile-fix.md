@@ -4,7 +4,7 @@
 > Created: 2026-04-05
 > Updated: 2026-04-11
 > Status: reviewed
-> Note: Re-verified 2026-04-11 (compile 20260411-015424): all priority batch files already sourced or deferred. No new wiki content required. Status: reviewed.
+> Note: Re-verified 2026-04-11 (compile 20260411-230740): all priority batch files already sourced or deferred. No new wiki content required. Status: reviewed.
 
 Fix for the KB write-through automation where `slimy-agent-finish.sh` left raw files uncommitted and `kb-compile-if-needed.sh` only wrote prompt files without triggering actual wiki compilation.
 

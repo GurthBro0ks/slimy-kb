@@ -3,7 +3,7 @@
 > Sources: raw/research/2026-04-05-slimy-nuc1-wrapper-recursion-fix.md, raw/agent-learnings/2026-04-05-slimy-nuc1-wrapper-test-claude.md, raw/decisions/seed-agents-rules.md
 > Created: 2026-04-05
 > Updated: 2026-04-11
-> Note: Re-verified 2026-04-11 (compile 20260411-015424): all sourced raw files current, no new content. Status: reviewed.
+> Note: Re-verified 2026-04-11 (compile 20260411-230740): all sourced raw files current, no new content. Status: reviewed.
 
 Fix for NUC1 wrapper recursion guard interference that caused finish-hook behavior drift and child-compile protection failures.
 
