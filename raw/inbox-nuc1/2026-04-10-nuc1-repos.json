@@ -1,5 +1,5 @@
 {
-  "ts": "20260410T040312Z",
+  "ts": "20260410T160313Z",
   "hostname": "unknown",
   "count": 16,
   "repos": [
@@ -9,14 +9,14 @@
       "relative_path": "src/plugins/Slimefun4",
       "ok": true,
       "branch": null,
-      "commit_hash": "34ce72de1690",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
+      "commit_hash": "3c8e0d5dcefc",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-10",
       "dirty": false,
       "remote": "github.com/Slimefun/Slimefun4",
       "ahead_behind": {
         "base": "origin/master",
         "ahead": 23,
-        "behind": 19
+        "behind": 20
       },
       "kb_bridge_present": false,
       "kb_harness_present": false,
@@ -28,14 +28,14 @@
       "relative_path": "src/plugins/PrivateStorage",
       "ok": true,
       "branch": "master",
-      "commit_hash": "2cad4d90a17e",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
+      "commit_hash": "99dab5ae36ab",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-10",
       "dirty": false,
       "remote": "github.com:Slimefun-Addon-Community/PrivateStorage",
       "ahead_behind": {
         "base": "origin/master",
         "ahead": 0,
-        "behind": 19
+        "behind": 20
       },
       "kb_bridge_present": false,
       "kb_harness_present": false,
@@ -47,14 +47,14 @@
       "relative_path": "src/plugins/DynaTech",
       "ok": true,
       "branch": "main",
-      "commit_hash": "1faafde86649",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
+      "commit_hash": "0c9544bc92a8",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-10",
       "dirty": false,
       "remote": "github.com/stoatchat/stoatchat",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 19
+        "behind": 20
       },
       "kb_bridge_present": false,
       "kb_harness_present": false,
@@ -66,8 +66,8 @@
       "relative_path": "mission-control",
       "ok": true,
       "branch": "main",
-      "commit_hash": "1ab06554c85b",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
+      "commit_hash": "23e4283f46ee",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-10",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/mission-control",
       "ahead_behind": {
@@ -85,8 +85,8 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "6b8da7de901b",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
+      "commit_hash": "d31eb5c38462",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-10",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
@@ -104,9 +104,9 @@
       "relative_path": "kb",
       "ok": true,
       "branch": "main",
-      "commit_hash": "79d4923c4162",
-      "commit_subject": "kb: child-compile 20260409-205609",
-      "dirty": true,
+      "commit_hash": "2d48fb31f554",
+      "commit_subject": "kb: wiki-manager stage1.86 2026-04-10-0743 from slimy-nuc1",
+      "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-kb",
       "ahead_behind": {
         "base": "origin/main",
@@ -115,7 +115,7 @@
       },
       "kb_bridge_present": false,
       "kb_harness_present": false,
-      "dirty_count": 1
+      "dirty_count": 0
     },
     {
       "name": "ned-autonomous",
@@ -142,14 +142,14 @@
       "relative_path": "stoat-source",
       "ok": true,
       "branch": "main",
-      "commit_hash": "74a8f9b5e52e",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
+      "commit_hash": "f24070971ea8",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-10",
       "dirty": false,
       "remote": "github.com:stoatchat/stoatchat",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 19
+        "behind": 20
       },
       "kb_bridge_present": false,
       "kb_harness_present": false,
@@ -161,14 +161,14 @@
       "relative_path": "nuc-comms/mailbox_outbox",
       "ok": true,
       "branch": "main",
-      "commit_hash": "4dd09272bd1c",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
-      "dirty": false,
+      "commit_hash": "e950768ab00f",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-10",
+      "dirty": true,
       "remote": null,
       "ahead_behind": null,
       "kb_bridge_present": false,
       "kb_harness_present": false,
-      "dirty_count": 0
+      "dirty_count": 2
     },
     {
       "name": "slimy-chat",
@@ -176,8 +176,8 @@
       "relative_path": "slimy-chat",
       "ok": true,
       "branch": "main",
-      "commit_hash": "6f03876d9a7b",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
+      "commit_hash": "8e30838bf6bb",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-10",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slime.chat",
       "ahead_behind": {
@@ -195,14 +195,14 @@
       "relative_path": "clawd",
       "ok": true,
       "branch": "master",
-      "commit_hash": "72c321778826",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
+      "commit_hash": "8bd0240fcab3",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-10",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/clawd",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 13,
-        "behind": 21
+        "behind": 22
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -214,8 +214,8 @@
       "relative_path": "ned-clawd",
       "ok": true,
       "branch": "master",
-      "commit_hash": "5ce6f63941f6",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
+      "commit_hash": "fe2dfeee5011",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-10",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/ned-clawd",
       "ahead_behind": {
@@ -232,15 +232,15 @@
       "path": "/home/slimy/.qoder-server/slimy-monorepo",
       "relative_path": ".qoder-server/slimy-monorepo",
       "ok": true,
-      "branch": null,
-      "commit_hash": "070071c7636d",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
+      "branch": "main",
+      "commit_hash": "4b0fd3de05cc",
+      "commit_subject": "test(bot): 10-screenshot Sim Power baseline + lint fix + 10-attachment limit",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-monorepo",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 38,
-        "behind": 15
+        "ahead": 0,
+        "behind": 0
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -252,8 +252,8 @@
       "relative_path": ".openclaw/workspace-executor",
       "ok": true,
       "branch": "master",
-      "commit_hash": "623a922be9be",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
+      "commit_hash": "f3c7a33e2565",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-10",
       "dirty": false,
       "remote": null,
       "ahead_behind": null,
@@ -267,8 +267,8 @@
       "relative_path": ".openclaw/workspace-researcher",
       "ok": true,
       "branch": "master",
-      "commit_hash": "ccd495448e6b",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
+      "commit_hash": "4e1caa62d45f",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-10",
       "dirty": false,
       "remote": null,
       "ahead_behind": null,
@@ -282,14 +282,14 @@
       "relative_path": ".codex/.tmp/plugins",
       "ok": true,
       "branch": "main",
-      "commit_hash": "5a849bb50495",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-09",
+      "commit_hash": "4e6033a8e0bd",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-10",
       "dirty": false,
       "remote": "github.com/openai/plugins",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 2
+        "behind": 3
       },
       "kb_bridge_present": false,
       "kb_harness_present": false,

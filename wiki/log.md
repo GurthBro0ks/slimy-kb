@@ -421,3 +421,14 @@
 - notes: child-compile 20260411-015424
 
 
+## [2026-04-11 02:35] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/troubleshooting/kb-autofinish-autocompile-fix.md
+  - wiki/troubleshooting/nuc1-wrapper-recursion-fix.md  - (none)
+- summary: 12h maintenance run
+- commit: c2de47f
+- notes: auto-maintenance from kb-maintenance.sh 2026-04-11T02:35:06Z
+
+
