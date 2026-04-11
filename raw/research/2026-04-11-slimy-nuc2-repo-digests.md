@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-04-11T03:12:12Z
+# NUC2 Repo Digests — 2026-04-11T21:25:14Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-04-11T03:12:12Z
+**Timestamp:** 2026-04-11T21:25:14Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -11,8 +11,8 @@
 - **Path:** `/home/slimy/clawd`
 - **Git:** True
 - **Branch:** main
-- **Commit:** e5603ab
-- **Subject:** daily: Capture Apr 9-10 session notes
+- **Commit:** c2ad40d
+- **Subject:** chore: Daily log for Apr 11, 2026
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/clawd.git
 
@@ -28,9 +28,9 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 178eac8
-- **Subject:** kb: maintenance run 2026-04-11-0235 from slimy-nuc2
-- **Dirty:** False
+- **Commit:** 93914ae
+- **Subject:** kb: maintenance run 2026-04-11-2124 from slimy-nuc2
+- **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
 ## mailbox

@@ -1,7 +1,7 @@
-# Candidate Review Pack — 2026-04-11T03:12:12Z
+# Candidate Review Pack — 2026-04-11T21:25:15Z
 
 > Stage: 1.86
-> Generated: 2026-04-11T03:12:12Z
+> Generated: 2026-04-11T21:25:15Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
@@ -30,7 +30,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 3x recent / 3x lifetime |
+| Persistence | 4x recent / 4x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/_orphans.md |
 | Dispatch blocker | advisory_only |
@@ -47,7 +47,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 24x lifetime |
+| Persistence | 5x recent / 25x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/architecture/nuc2-server-state.md |
 | Dispatch blocker | advisory_only |
@@ -64,7 +64,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 24x lifetime |
+| Persistence | 5x recent / 25x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/log.md |
 | Dispatch blocker | advisory_only |
@@ -81,7 +81,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 24x lifetime |
+| Persistence | 5x recent / 25x lifetime |
 | Freshness | aging |
 | Evidence | wiki/projects/actionbook.md |
 | Dispatch blocker | advisory_only |
@@ -98,7 +98,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 24x lifetime |
+| Persistence | 5x recent / 25x lifetime |
 | Freshness | aging |
 | Evidence | wiki/projects/agents-backup-full.md |
 | Dispatch blocker | advisory_only |
@@ -115,7 +115,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 24x lifetime |
+| Persistence | 5x recent / 25x lifetime |
 | Freshness | aging |
 | Evidence | wiki/projects/apify-market-scanner.md |
 | Dispatch blocker | advisory_only |

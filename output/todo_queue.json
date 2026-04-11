@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T03:12:12Z",
+  "generated_at": "2026-04-11T21:25:15Z",
   "source_host": "slimy-nuc2",
   "backend": "stub",
   "model": null,
@@ -33,7 +33,7 @@
   "tasks": [
     {
       "id": "todo-2026-04-11-001",
-      "created_at": "2026-04-11T03:12:12Z",
+      "created_at": "2026-04-11T21:25:15Z",
       "source_host": "slimy-nuc2",
       "project": "kb",
       "title": "Resolve 30 orphaned wiki pages",
@@ -54,25 +54,26 @@
       "demoted_this_run": false,
       "task_key": "slimy-nuc2|kb|wiki_gap|resolve 30 orphaned wiki pages",
       "first_seen": "2026-04-10T03:10:12Z",
-      "occurrence_count": 3,
+      "occurrence_count": 4,
       "state": "persisting",
       "run_timestamps": [
         "2026-04-10T03:10:12Z",
         "2026-04-10T15:11:12Z",
-        "2026-04-11T03:12:12Z"
+        "2026-04-11T03:12:12Z",
+        "2026-04-11T21:25:15Z"
       ],
-      "recent_occurrence_count": 3,
+      "recent_occurrence_count": 4,
       "promotion_first_seen": "2026-04-10T15:11:12Z",
-      "promotion_last_seen": "2026-04-10T15:11:12Z",
-      "promotion_occurrence_count": 2,
-      "last_promotion_status_change": "2026-04-10T15:11:12Z",
-      "prior_promotion_status": "emerging",
+      "promotion_last_seen": "2026-04-11T03:12:12Z",
+      "promotion_occurrence_count": 3,
+      "last_promotion_status_change": "2026-04-11T03:12:12Z",
+      "prior_promotion_status": "candidate",
       "freshness_band": "fresh",
-      "evidence_age_h": 0.6
+      "evidence_age_h": 0.0
     },
     {
       "id": "todo-2026-04-11-002",
-      "created_at": "2026-04-11T03:12:12Z",
+      "created_at": "2026-04-11T21:25:15Z",
       "source_host": "slimy-nuc2",
       "project": "kb",
       "title": "Review orphaned page: architecture/nuc2-server-state.md",
@@ -93,27 +94,27 @@
       "demoted_this_run": false,
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: architecture/nuc2-server-state.md",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 24,
+      "occurrence_count": 25,
       "state": "persisting",
       "run_timestamps": [
-        "2026-04-09T20:13:38Z",
         "2026-04-09T20:15:27Z",
         "2026-04-10T03:10:12Z",
         "2026-04-10T15:11:12Z",
-        "2026-04-11T03:12:12Z"
+        "2026-04-11T03:12:12Z",
+        "2026-04-11T21:25:15Z"
       ],
       "recent_occurrence_count": 5,
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-04-10T15:11:12Z",
-      "promotion_occurrence_count": 6,
+      "promotion_last_seen": "2026-04-11T03:12:12Z",
+      "promotion_occurrence_count": 7,
       "last_promotion_status_change": "2026-04-09T20:15:27Z",
       "prior_promotion_status": "candidate",
       "freshness_band": "fresh",
-      "evidence_age_h": 0.6
+      "evidence_age_h": 18.8
     },
     {
       "id": "todo-2026-04-11-003",
-      "created_at": "2026-04-11T03:12:12Z",
+      "created_at": "2026-04-11T21:25:15Z",
       "source_host": "slimy-nuc2",
       "project": "kb",
       "title": "Review orphaned page: log.md",
@@ -134,27 +135,27 @@
       "demoted_this_run": false,
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: log.md",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 24,
+      "occurrence_count": 25,
       "state": "persisting",
       "run_timestamps": [
-        "2026-04-09T20:13:38Z",
         "2026-04-09T20:15:27Z",
         "2026-04-10T03:10:12Z",
         "2026-04-10T15:11:12Z",
-        "2026-04-11T03:12:12Z"
+        "2026-04-11T03:12:12Z",
+        "2026-04-11T21:25:15Z"
       ],
       "recent_occurrence_count": 5,
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-04-10T15:11:12Z",
-      "promotion_occurrence_count": 6,
+      "promotion_last_seen": "2026-04-11T03:12:12Z",
+      "promotion_occurrence_count": 7,
       "last_promotion_status_change": "2026-04-09T20:15:27Z",
       "prior_promotion_status": "candidate",
       "freshness_band": "fresh",
-      "evidence_age_h": 0.6
+      "evidence_age_h": 0.0
     },
     {
       "id": "todo-2026-04-11-004",
-      "created_at": "2026-04-11T03:12:12Z",
+      "created_at": "2026-04-11T21:25:15Z",
       "source_host": "slimy-nuc2",
       "project": "kb",
       "title": "Review orphaned page: projects/actionbook.md",
@@ -175,27 +176,27 @@
       "demoted_this_run": false,
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: projects/actionbook.md",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 24,
+      "occurrence_count": 25,
       "state": "persisting",
       "run_timestamps": [
-        "2026-04-09T20:13:38Z",
         "2026-04-09T20:15:27Z",
         "2026-04-10T03:10:12Z",
         "2026-04-10T15:11:12Z",
-        "2026-04-11T03:12:12Z"
+        "2026-04-11T03:12:12Z",
+        "2026-04-11T21:25:15Z"
       ],
       "recent_occurrence_count": 5,
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-04-10T15:11:12Z",
-      "promotion_occurrence_count": 6,
+      "promotion_last_seen": "2026-04-11T03:12:12Z",
+      "promotion_occurrence_count": 7,
       "last_promotion_status_change": "2026-04-09T20:15:27Z",
       "prior_promotion_status": "candidate",
       "freshness_band": "aging",
-      "evidence_age_h": 36.7
+      "evidence_age_h": 54.9
     },
     {
       "id": "todo-2026-04-11-005",
-      "created_at": "2026-04-11T03:12:12Z",
+      "created_at": "2026-04-11T21:25:15Z",
       "source_host": "slimy-nuc2",
       "project": "kb",
       "title": "Review orphaned page: projects/agents-backup-full.md",
@@ -216,27 +217,27 @@
       "demoted_this_run": false,
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: projects/agents-backup-full.md",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 24,
+      "occurrence_count": 25,
       "state": "persisting",
       "run_timestamps": [
-        "2026-04-09T20:13:38Z",
         "2026-04-09T20:15:27Z",
         "2026-04-10T03:10:12Z",
         "2026-04-10T15:11:12Z",
-        "2026-04-11T03:12:12Z"
+        "2026-04-11T03:12:12Z",
+        "2026-04-11T21:25:15Z"
       ],
       "recent_occurrence_count": 5,
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-04-10T15:11:12Z",
-      "promotion_occurrence_count": 6,
+      "promotion_last_seen": "2026-04-11T03:12:12Z",
+      "promotion_occurrence_count": 7,
       "last_promotion_status_change": "2026-04-09T20:15:27Z",
       "prior_promotion_status": "candidate",
       "freshness_band": "aging",
-      "evidence_age_h": 39.4
+      "evidence_age_h": 57.6
     },
     {
       "id": "todo-2026-04-11-006",
-      "created_at": "2026-04-11T03:12:12Z",
+      "created_at": "2026-04-11T21:25:15Z",
       "source_host": "slimy-nuc2",
       "project": "kb",
       "title": "Review orphaned page: projects/apify-market-scanner.md",
@@ -257,23 +258,23 @@
       "demoted_this_run": false,
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: projects/apify-market-scanner.md",
       "first_seen": "2026-04-09T16:20:32Z",
-      "occurrence_count": 24,
+      "occurrence_count": 25,
       "state": "persisting",
       "run_timestamps": [
-        "2026-04-09T20:13:38Z",
         "2026-04-09T20:15:27Z",
         "2026-04-10T03:10:12Z",
         "2026-04-10T15:11:12Z",
-        "2026-04-11T03:12:12Z"
+        "2026-04-11T03:12:12Z",
+        "2026-04-11T21:25:15Z"
       ],
       "recent_occurrence_count": 5,
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-04-10T15:11:12Z",
-      "promotion_occurrence_count": 6,
+      "promotion_last_seen": "2026-04-11T03:12:12Z",
+      "promotion_occurrence_count": 7,
       "last_promotion_status_change": "2026-04-09T20:15:27Z",
       "prior_promotion_status": "candidate",
       "freshness_band": "aging",
-      "evidence_age_h": 36.7
+      "evidence_age_h": 54.9
     }
   ]
 }
