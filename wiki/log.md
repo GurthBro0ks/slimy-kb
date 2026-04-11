@@ -347,3 +347,24 @@
 - notes: slimy-nuc1
 
 
+## [2026-04-11 04:47] compile | child-compile 20260411-004537
+- actor: claude (slimy-nuc1)
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/troubleshooting/kb-autofinish-autocompile-fix.md (Updated date refreshed)
+  - wiki/troubleshooting/nuc1-wrapper-recursion-fix.md (Updated date refreshed)
+  - wiki/_index.md (last-compiled timestamp refreshed)
+  - wiki/log.md (append compile event)
+- summary: child-compile 20260411-004537 — all priority batch files already sourced or deferred; refreshed review timestamps on kb-autofinish-autocompile-fix and nuc1-wrapper-recursion-fix; status: reviewed
+- commit: (pending push)
+- notes: >-
+    Compile candidates verified fully handled:
+    - 4x autofinish/wrapper/SSH research files → KB autofinish + NUC1/NUC2 SSH normalization articles
+    - 4x agent-learning files → KB autofinish + NUC1 wrapper recursion articles
+    - seed-clawd-agents.md → clawd-agent-rules.md
+    - seed-workspace-agents.md → workspace-agent-rules.md
+    - seed-server-state.md → superseded by nuc2-server-state.md (2026-04-05)
+    - seed-progress-history.md → deferred (88KB session log, not AGENTS.md; operational rules already in agent-rules)
+    No new wiki content required.
+
+
