@@ -548,3 +548,26 @@
 - notes: /home/slimy/kb
 
 
+
+
+## [2026-04-14 18:12] compile | child-compile 20260414-181150
+- actor: claude-code (child-compile)
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_index.md (timestamp updated)
+- summary: Re-verified all 19 priority batch files — all already sourced or explicitly deferred. No new wiki content required.
+  - seed-clawd-agents.md → clawd-agent-rules.md, clawd-workspace-governance.md (sourced)
+  - seed-workspace-agents.md → workspace-agent-rules.md, openclaw-agents.md (sourced)
+  - seed-agents-rules.md → nuc1-wrapper-recursion-fix.md, auth-and-retired-services.md (sourced)
+  - seed-progress-history.md → deferred (88KB session log; operational rules in agent-rules articles)
+  - seed-server-state.md → nuc2-server-state.md, nuc-topology-and-services.md (sourced)
+  - 2026-04-05-slimy-nuc2-repo-remote-ssh-normalization.md → nuc2-repo-remote-ssh-normalization.md (sourced)
+  - 2026-04-05-slimy-nuc1-wrapper-recursion-fix.md → nuc1-wrapper-recursion-fix.md (sourced)
+  - 2026-04-05-slimy-nuc1-wrapper-test-claude.md → nuc1-wrapper-recursion-fix.md (sourced)
+  - 2026-04-05-slimy-nuc1-repo-remote-ssh-normalization.md → nuc1-repo-remote-ssh-normalization.md (sourced)
+  - 2026-04-05-slimy-nuc2-autofinish-autocompile-fix.md → kb-autofinish-autocompile-fix.md (sourced)
+  - 2026-04-05-slimy-nuc2-autofinish-parity-check.md → kb-autofinish-autocompile-fix.md (sourced)
+  - 2026-04-05-nuc2-no-pager-finish-hook-fix.md → kb-autofinish-autocompile-fix.md (sourced)
+  - 2026-04-05-slimy-nuc2-no-pager-finish-hook-fix.md → kb-autofinish-autocompile-fix.md (sourced)
+- commit: child-compile-20260414-181150
+- notes: Index timestamp updated; log entry appended. All compile candidates fully handled or explicitly deferred with reason.
