@@ -528,3 +528,13 @@
 - notes: all priority compile candidates already sourced; no new wiki content required; added auto-compile-prompt-*.md to .gitignore
 
 
+## [2026-04-14 04:10] compile | kb: child-compile 20260414-041007
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/_index.md (updated last-compiled timestamp)
+- summary: kb: child-compile 20260414-041007
+- commit: pending
+- notes: all priority batch files unchanged since 032049 compile; all already sourced or deferred; no new wiki content required; cleaned orphaned output/prompts/auto-compile-prompt-20260414-025234.md
+
+
