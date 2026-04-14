@@ -1,2 +1,4 @@
 output/scratch-*
+output/prompts/auto-compile-prompt-*.md
+output/compile-failure-*.md
 *.tmp
