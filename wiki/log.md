@@ -534,7 +534,7 @@
 - affected_paths:
   - wiki/_index.md (updated last-compiled timestamp)
 - summary: kb: child-compile 20260414-041007
-- commit: pending
+- commit: 9b69a62
 - notes: all priority batch files unchanged since 032049 compile; all already sourced or deferred; no new wiki content required; cleaned orphaned output/prompts/auto-compile-prompt-20260414-025234.md
 
 
