@@ -1,7 +1,7 @@
 # Project Health Index
 
 > Category: projects
-> Updated: 2026-04-10T03:10:12Z
+> Updated: 2026-04-15T17:25:51Z
 > Status: active
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -11,57 +11,61 @@
 - NUC1 repos tracked: 16
 - With project page: 10
 - Without project page: 6
-- Dirty (uncommitted): 2
+- Dirty (uncommitted): 11
 - Diverged (ahead + behind): 3
-- Clean: 11
+- Clean: 2
 
 ## Pages Updated This Run
 
+- mission-control.md
 - ned-autonomous.md
+- stoat-source.md
+- mailbox-outbox.md
+- slimy-chat.md
 - clawd-agent-rules.md
+- ned-clawd.md
 - slimy-monorepo.md
 
 ## Covered Repos (have project pages)
 
-- **clawd** → `clawd-agent-rules.md` — DIVERGED
-- **mailbox_outbox** → `mailbox-outbox.md` — clean
-- **mission-control** → `mission-control.md` — clean
+- **clawd** → `clawd-agent-rules.md` — DIRTY, DIVERGED
+- **mailbox_outbox** → `mailbox-outbox.md` — DIRTY
+- **mission-control** → `mission-control.md` — DIRTY
 - **ned-autonomous** → `ned-autonomous.md` — DIRTY
-- **ned-clawd** → `ned-clawd.md` — clean
-- **slimy-chat** → `slimy-chat.md` — clean
-- **slimy-harness** → (no project page yet — KB file-back pass skips new page creation)
+- **ned-clawd** → `ned-clawd.md` — DIRTY
+- **slimy-chat** → `slimy-chat.md` — DIRTY
 - **slimy-monorepo** → `slimy-monorepo.md` — DIVERGED
-- **stoat-source** → `stoat-source.md` — clean
+- **stoat-source** → `stoat-source.md` — DIRTY
 - **workspace-executor** → `workspace-executor.md` — clean
 - **workspace-researcher** → `workspace-researcher.md` — clean
 
 ## Uncovered Repos (no matching project page)
 
-- **DynaTech** — clean
-- **PrivateStorage** — clean
-- **Slimefun4** — DIVERGED
-- **kb** — DIRTY
+- **DynaTech** — DIRTY
+- **PrivateStorage** — DIRTY
+- **Slimefun4** — DIRTY, DIVERGED
+- **kb** — clean
 - **plugins** — clean
-- **slimy-harness** — clean
+- **slimy-harness** — DIRTY
 
 ## NUC1 Repo Health Table
 
 | Repo | Status | Diverged |
 |------|--------|----------|
-| DynaTech | — | — |
-| PrivateStorage | — | — |
-| Slimefun4 | — | ⚠️ DIVERGED |
-| clawd | — | ⚠️ DIVERGED |
-| kb | ⚠️ DIRTY | — |
-| mailbox_outbox | — | — |
-| mission-control | — | — |
+| DynaTech | ⚠️ DIRTY | — |
+| PrivateStorage | ⚠️ DIRTY | — |
+| Slimefun4 | ⚠️ DIRTY | ⚠️ DIVERGED |
+| clawd | ⚠️ DIRTY | ⚠️ DIVERGED |
+| kb | — | — |
+| mailbox_outbox | ⚠️ DIRTY | — |
+| mission-control | ⚠️ DIRTY | — |
 | ned-autonomous | ⚠️ DIRTY | — |
-| ned-clawd | — | — |
+| ned-clawd | ⚠️ DIRTY | — |
 | plugins | — | — |
-| slimy-chat | — | — |
-| slimy-harness | — | — |
+| slimy-chat | ⚠️ DIRTY | — |
+| slimy-harness | ⚠️ DIRTY | — |
 | slimy-monorepo | — | ⚠️ DIVERGED |
-| stoat-source | — | — |
+| stoat-source | ⚠️ DIRTY | — |
 | workspace-executor | — | — |
 | workspace-researcher | — | — |
 

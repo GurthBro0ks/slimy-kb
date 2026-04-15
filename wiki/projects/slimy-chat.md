@@ -31,6 +31,25 @@ Slimy Chat is a Revolt-based self-hosted chat platform at chat.slimyai.xyz. Invi
 ## Powered By
 - [Stoat Source](stoat-source.md) — Rust backend for Revolt/Stoat platform (`/home/slimy/stoat-source`)
 
+<!-- BEGIN MACHINE MANAGED — Do not edit manually -->
+
+**Last updated:** 2026-04-15T17:25:51Z
+**NUC1 status:** DIRTY, synced
+**NUC1 commit:** `482c773` — docs: auto-sync project docs from slimy-nuc1 2026-04-11
+**Branch:** main
+
+### Open Issues
+- **[MEDIUM/not_candidate]** NUC1 repo has uncommitted changes: slimy-chat (repo_drift, 1x, fresh)
+
+### Evidence
+- `raw/inbox-nuc1/`
+
+### Related Pages
+- [Repo Health Overview](./_project-health-index.md)
+- [NUC1 Current State](../architecture/nuc1-current-state.md)
+
+<!-- END MACHINE MANAGED -->
+
 ## See Also
 - [NUC Topology and Services](../architecture/nuc-topology-and-services.md)
 - [Auth and Retired Services](../architecture/auth-and-retired-services.md)

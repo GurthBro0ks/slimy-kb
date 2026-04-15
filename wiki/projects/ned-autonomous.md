@@ -36,13 +36,13 @@ ned-clawd (cron) → register-agents.sh → registers workspace agents with gate
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-04-10T03:10:12Z
+**Last updated:** 2026-04-15T17:25:51Z
 **NUC1 status:** DIRTY, synced
 **NUC1 commit:** `fb5ff79` — chore: auto-sync 2026-04-07
 **Branch:** main
 
 ### Open Issues
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-autonomous (repo_drift, 22x, fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-autonomous (repo_drift, 23x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`

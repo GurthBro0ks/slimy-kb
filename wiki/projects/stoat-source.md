@@ -36,6 +36,25 @@ Docker containers in slimy-chat stack (16 containers including stoat services).
 ## Risks
 - Upstream (stoatchat) moves independently — local branch is 13 commits ahead
 
+<!-- BEGIN MACHINE MANAGED — Do not edit manually -->
+
+**Last updated:** 2026-04-15T17:25:51Z
+**NUC1 status:** DIRTY, synced
+**NUC1 commit:** `020a4a0` — docs: auto-sync project docs from slimy-nuc1 2026-04-11
+**Branch:** main
+
+### Open Issues
+- **[MEDIUM/not_candidate]** NUC1 repo has uncommitted changes: stoat-source (repo_drift, 1x, fresh)
+
+### Evidence
+- `raw/inbox-nuc1/`
+
+### Related Pages
+- [Repo Health Overview](./_project-health-index.md)
+- [NUC1 Current State](../architecture/nuc1-current-state.md)
+
+<!-- END MACHINE MANAGED -->
+
 ## See Also
 - [Slimy Chat](slimy-chat.md)
 - [Chat App (Slime.Chat)](chat-app.md)

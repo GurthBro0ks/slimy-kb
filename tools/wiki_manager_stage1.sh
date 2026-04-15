@@ -56,14 +56,16 @@ NUC1_EVIDENCE_USED="NO"
 if [[ -d "$NUC1_INBOX" ]]; then
     NUC1_ITEM_COUNT=$(find "$NUC1_INBOX" -type f 2>/dev/null | wc -l | tr -d ' ')
     if [[ $NUC1_ITEM_COUNT -gt 0 ]]; then
-        # Collect JSON files
-        NUC1_JSON_CONTENT=$(find "$NUC1_INBOX" -name "*.json" -exec cat {} + 2>/dev/null || true)
-        # Collect Markdown files
-        NUC1_MD_CONTENT=$(find "$NUC1_INBOX" -name "*.md" -exec cat {} + 2>/dev/null || true)
+        # Use only the LATEST JSON file (not concatenated — json.loads fails on multiple objects)
+        NUC1_JSON_FILE=$(ls -t "$NUC1_INBOX"/*.json 2>/dev/null | head -1)
+        [[ -n "$NUC1_JSON_FILE" ]] && NUC1_JSON_CONTENT=$(cat "$NUC1_JSON_FILE" 2>/dev/null || true)
+        # Use only the LATEST state MD file (supersedes earlier digests)
+        NUC1_MD_FILE=$(ls -t "$NUC1_INBOX"/*-state.md 2>/dev/null | head -1)
+        [[ -n "$NUC1_MD_FILE" ]] && NUC1_MD_CONTENT=$(cat "$NUC1_MD_FILE" 2>/dev/null || true)
         if [[ -n "$NUC1_JSON_CONTENT" || -n "$NUC1_MD_CONTENT" ]]; then
             NUC1_EVIDENCE_USED="YES"
         fi
-        log_step "NUC1 inbox: $NUC1_ITEM_COUNT items — evidence used: $NUC1_EVIDENCE_USED"
+        log_step "NUC1 inbox: $NUC1_ITEM_COUNT items — evidence used: $NUC1_EVIDENCE_USED (json=${NUC1_JSON_FILE:-none}, md=${NUC1_MD_FILE:-none})"
     fi
 fi
 

@@ -11,6 +11,7 @@ Stage 1.86 changes (from 1.85):
 - History stores per-run timestamps (run_timestamps array)
 - Stage 1.86 is still advisory only: does NOT dispatch harness jobs.
 """
+
 import json
 import sys
 import os
@@ -48,7 +49,7 @@ FRESH_HOURS = 24
 # Hours after which evidence starts aging
 AGING_HOURS = 72
 # Items not seen in this many hours are "stale"
-STALE_HOURS = 168   # 7 days
+STALE_HOURS = 168  # 7 days
 # Candidate: needs at least this many RECENT occurrences (within window)
 CANDIDATE_RECENT_MIN = 3
 # Emerging: needs at least this many recent occurrences
@@ -64,6 +65,7 @@ BLOCKED_PROMOTION_KINDS = {"investigate", "harness_candidate"}
 
 
 # ── Parsing helpers ───────────────────────────────────────────────────────────
+
 
 def parse_orphans(content: str) -> list[str]:
     if not content:
@@ -89,8 +91,13 @@ def parse_weak_links(content: str) -> list[str]:
 
 def parse_nuc1_json(content: str) -> dict:
     result = {
-        "repos": [], "repo_details": [], "dirty_repos": [], "diverged_repos": [],
-        "kb_present": False, "nuc1_host": "unknown", "ts": ""
+        "repos": [],
+        "repo_details": [],
+        "dirty_repos": [],
+        "diverged_repos": [],
+        "kb_present": False,
+        "nuc1_host": "unknown",
+        "ts": "",
     }
     if not content:
         return result
@@ -116,8 +123,11 @@ def parse_nuc1_json(content: str) -> dict:
 
 def parse_nuc1_markdown(content: str) -> dict:
     result = {
-        "nuc1_host": "unknown", "ts": "",
-        "dirty_services": [], "active_services": [], "listening_ports": []
+        "nuc1_host": "unknown",
+        "ts": "",
+        "dirty_services": [],
+        "active_services": [],
+        "listening_ports": [],
     }
     if not content:
         return result
@@ -155,6 +165,7 @@ def parse_nuc1_markdown(content: str) -> dict:
 
 # ── Evidence verification ────────────────────────────────────────────────────
 
+
 def evidence_path_is_real(path: str) -> bool:
     """Check if an evidence path actually exists in the KB."""
     if not path:
@@ -162,7 +173,7 @@ def evidence_path_is_real(path: str) -> bool:
     rel_path = path
     for prefix in ("/home/slimy/kb/", "/home/slimy/kb"):
         if rel_path.startswith(prefix):
-            rel_path = rel_path[len(prefix):]
+            rel_path = rel_path[len(prefix) :]
             break
     return Path(f"/home/slimy/kb/{rel_path}").exists()
 
@@ -187,7 +198,7 @@ def evidence_age_hours(task: dict) -> float:
         rel = ep
         for root_prefix in ("/home/slimy/kb/", "/home/slimy/kb"):
             if rel.startswith(root_prefix):
-                rel = rel[len(root_prefix):]
+                rel = rel[len(root_prefix) :]
                 break
         # rel is now a relative path like "raw/inbox-nuc1" or "wiki/_orphans.md"
         full = Path(f"/home/slimy/kb/{rel}")
@@ -195,7 +206,7 @@ def evidence_age_hours(task: dict) -> float:
         if full.exists():
             mtime = datetime.fromtimestamp(full.stat().st_mtime, tz=timezone.utc)
             return (now - mtime).total_seconds() / 3600
-    return float('inf')
+    return float("inf")
 
 
 def compute_freshness_band(task: dict, now_ts: str) -> str:
@@ -206,7 +217,7 @@ def compute_freshness_band(task: dict, now_ts: str) -> str:
     - stale: evidence >= AGING_HOURS
     """
     age_h = evidence_age_hours(task)
-    if age_h == float('inf'):
+    if age_h == float("inf"):
         # No real evidence — treat as stale
         return "stale"
     if age_h < FRESH_HOURS:
@@ -219,6 +230,7 @@ def compute_freshness_band(task: dict, now_ts: str) -> str:
 
 # ── Project-page matching ─────────────────────────────────────────────────────
 
+
 def find_project_page(repo_name: str) -> Optional[Path]:
     if not repo_name or not WIKI_PROJ_DIR.exists():
         return None
@@ -227,37 +239,56 @@ def find_project_page(repo_name: str) -> Optional[Path]:
         if page_path.name.startswith("_"):
             continue
         page_normalized = re.sub(r"[-_]", "", page_path.stem.lower())
-        if page_normalized == normalized or page_normalized.startswith(normalized) or normalized.startswith(page_normalized):
+        if (
+            page_normalized == normalized
+            or page_normalized.startswith(normalized)
+            or normalized.startswith(page_normalized)
+        ):
             return page_path
     return None
 
 
-def update_project_page(page_path: Path, repo_name: str, status_block: str, todos: list[dict]) -> bool:
+def update_project_page(
+    page_path: Path, repo_name: str, status_block: str, todos: list[dict]
+) -> bool:
     if not page_path.exists():
         return False
     existing = page_path.read_text()
     begin_marker = f"<!-- BEGIN MACHINE MANAGED — Do not edit manually -->"
     end_marker = "<!-- END MACHINE MANAGED -->"
     existing_block_match = re.search(
-        r'<!-- BEGIN MACHINE MANAGED — Do not edit manually -->.*?<!-- END MACHINE MANAGED -->',
-        existing, re.DOTALL
+        r"<!-- BEGIN MACHINE MANAGED — Do not edit manually -->.*?<!-- END MACHINE MANAGED -->",
+        existing,
+        re.DOTALL,
     )
     new_block = f"{begin_marker}\n\n{status_block}\n\n{end_marker}"
     if existing_block_match:
         if existing_block_match.group(0) == new_block:
             return False
-        new_content = existing[:existing_block_match.start()] + new_block + existing[existing_block_match.end():]
+        new_content = (
+            existing[: existing_block_match.start()]
+            + new_block
+            + existing[existing_block_match.end() :]
+        )
     else:
-        see_also_match = re.search(r'\n## See Also', existing)
+        see_also_match = re.search(r"\n## See Also", existing)
         if see_also_match:
-            new_content = existing[:see_also_match.start()] + "\n" + new_block + "\n" + existing[see_also_match.start():]
+            new_content = (
+                existing[: see_also_match.start()]
+                + "\n"
+                + new_block
+                + "\n"
+                + existing[see_also_match.start() :]
+            )
         else:
             new_content = existing.rstrip() + "\n\n" + new_block + "\n"
     page_path.write_text(new_content)
     return True
 
 
-def build_project_status_block(repo_name: str, nuc1_json: dict, todos: list[dict], all_repos) -> str:
+def build_project_status_block(
+    repo_name: str, nuc1_json: dict, todos: list[dict], all_repos
+) -> str:
     lines = []
     repo_data = None
     for r in all_repos:
@@ -272,7 +303,9 @@ def build_project_status_block(repo_name: str, nuc1_json: dict, todos: list[dict
     diverged = repo_name in nuc1_json.get("diverged_repos", [])
     nuc1_repos = nuc1_json.get("repos", [])
     if repo_data:
-        lines.append(f"**NUC1 status:** {'DIRTY' if dirty else 'clean'}, {'DIVERGED' if diverged else 'synced'}")
+        lines.append(
+            f"**NUC1 status:** {'DIRTY' if dirty else 'clean'}, {'DIVERGED' if diverged else 'synced'}"
+        )
         commit = (repo_data.get("commit_hash") or "unknown")[:7]
         subject = repo_data.get("commit_subject", "")
         branch = repo_data.get("branch") or "detached"
@@ -280,7 +313,9 @@ def build_project_status_block(repo_name: str, nuc1_json: dict, todos: list[dict
         lines.append(f"**Branch:** {branch}")
     elif nuc1_repos and not repo_data:
         lines.append(f"**NUC1 status:** in digest but no detail available")
-    project_todos = [t for t in todos if t.get("project", "").lower() == repo_name.lower()]
+    project_todos = [
+        t for t in todos if t.get("project", "").lower() == repo_name.lower()
+    ]
     if project_todos:
         lines.append("")
         lines.append("### Open Issues")
@@ -307,7 +342,10 @@ def build_project_status_block(repo_name: str, nuc1_json: dict, todos: list[dict
 
 # ── Project health index ──────────────────────────────────────────────────────
 
-def build_project_health_index(nuc1_json: dict, todos: list[dict], updated_pages: list[str]) -> str:
+
+def build_project_health_index(
+    nuc1_json: dict, todos: list[dict], updated_pages: list[str]
+) -> str:
     lines = []
     lines.append("# Project Health Index")
     lines.append("")
@@ -395,7 +433,9 @@ def build_project_health_index(nuc1_json: dict, todos: list[dict], updated_pages
     lines.append("")
     lines.append("## Human Notes")
     lines.append("")
-    lines.append("<!-- Add notes here — this section is preserved on machine-managed runs -->")
+    lines.append(
+        "<!-- Add notes here — this section is preserved on machine-managed runs -->"
+    )
     lines.append("")
     lines.append("## See Also")
     lines.append("- [Repo Health Overview](./repo-health-overview.md)")
@@ -509,11 +549,12 @@ Stage 1.86 does NOT dispatch harness jobs. Candidate status is advisory only.
     AGING_HOURS=AGING_HOURS,
     CANDIDATE_RECENT_MIN=CANDIDATE_RECENT_MIN,
     EMERGING_RECENT_MIN=EMERGING_RECENT_MIN,
-    RECENT_WINDOW_RUNS=RECENT_WINDOW_RUNS
+    RECENT_WINDOW_RUNS=RECENT_WINDOW_RUNS,
 )
 
 
 # ── History management ───────────────────────────────────────────────────────
+
 
 def load_history() -> dict:
     if not TODO_HISTORY.exists():
@@ -543,6 +584,7 @@ def prune_history(history: dict) -> dict:
     cutoff = datetime.strptime(TIMESTAMP[:10], "%Y-%m-%d").replace(tzinfo=timezone.utc)
     cutoff_30d = cutoff - timedelta(days=HISTORY_RETENTION_DAYS)
     from datetime import timedelta as td
+
     cutoff_30d = cutoff - td(days=HISTORY_RETENTION_DAYS)
     kept = []
     for entry in history.get("tasks", []):
@@ -594,9 +636,15 @@ def update_history(new_tasks: list[dict]) -> tuple[dict, dict]:
             # Promotion tracking
             task["promotion_first_seen"] = entry.get("promotion_first_seen", now)
             task["promotion_last_seen"] = entry.get("promotion_last_seen", now)
-            task["promotion_occurrence_count"] = entry.get("promotion_occurrence_count", 0) + 1
-            task["last_promotion_status_change"] = entry.get("last_promotion_status_change", now)
-            task["prior_promotion_status"] = entry.get("last_known_promotion_status", "not_candidate")
+            task["promotion_occurrence_count"] = (
+                entry.get("promotion_occurrence_count", 0) + 1
+            )
+            task["last_promotion_status_change"] = entry.get(
+                "last_promotion_status_change", now
+            )
+            task["prior_promotion_status"] = entry.get(
+                "last_known_promotion_status", "not_candidate"
+            )
             state_map[key] = "persisting"
         else:
             hist_entry = {
@@ -636,6 +684,7 @@ def update_history(new_tasks: list[dict]) -> tuple[dict, dict]:
 
 # ── Severity heuristics ─────────────────────────────────────────────────────────
 
+
 def compute_severity(task: dict, nuc1_evidence: dict, occurrence_count: int = 1) -> str:
     kind = task.get("kind", "")
     source_scope = task.get("source_scope", "")
@@ -648,7 +697,11 @@ def compute_severity(task: dict, nuc1_evidence: dict, occurrence_count: int = 1)
     else:
         severity = 0
 
-    if source_scope == "cross_nuc" and "kb" in title_lower and "uncommitted" in title_lower:
+    if (
+        source_scope == "cross_nuc"
+        and "kb" in title_lower
+        and "uncommitted" in title_lower
+    ):
         return "high"
 
     if occurrence_count > 1:
@@ -658,6 +711,7 @@ def compute_severity(task: dict, nuc1_evidence: dict, occurrence_count: int = 1)
 
 
 # ── Promotion (Stage 1.86 — freshness-weighted) ────────────────────────────────
+
 
 def compute_promotion_186(task: dict, history_entry: dict) -> tuple[str, str, bool]:
     """
@@ -685,20 +739,26 @@ def compute_promotion_186(task: dict, history_entry: dict) -> tuple[str, str, bo
     if kind in BLOCKED_PROMOTION_KINDS:
         reason = "kind_excluded"
         new_status = "not_candidate"
-        demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
+        demoted = (
+            prior_status in ("candidate", "emerging") and new_status != prior_status
+        )
         return new_status, reason, demoted
 
     if kind not in ALLOWED_PROMOTION_KINDS:
         reason = "kind_not_allowed"
         new_status = "not_candidate"
-        demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
+        demoted = (
+            prior_status in ("candidate", "emerging") and new_status != prior_status
+        )
         return new_status, reason, demoted
 
     # ── Evidence check ──
     if not evidence_paths or not real_evidence:
         reason = "no_evidence" if not evidence_paths else "stale_evidence"
         new_status = "not_candidate"
-        demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
+        demoted = (
+            prior_status in ("candidate", "emerging") and new_status != prior_status
+        )
         return new_status, reason, demoted
 
     # ── Stale evidence + no recent run → cooling_down ──
@@ -718,7 +778,9 @@ def compute_promotion_186(task: dict, history_entry: dict) -> tuple[str, str, bo
     if dispatch_blocker and dispatch_blocker not in ("advisory_only", ""):
         reason = f"dispatch_blocker:{dispatch_blocker}"
         new_status = "not_candidate"
-        demoted = prior_status in ("candidate", "emerging") and new_status != prior_status
+        demoted = (
+            prior_status in ("candidate", "emerging") and new_status != prior_status
+        )
         return new_status, reason, demoted
 
     # ── CANDIDATE check ──
@@ -727,9 +789,11 @@ def compute_promotion_186(task: dict, history_entry: dict) -> tuple[str, str, bo
     #   - severity >= medium
     #   - freshness_band != stale (fresh or aging)
     #   - evidence is real
-    if (recent_occ >= CANDIDATE_RECENT_MIN and
-            severity in ("medium", "high") and
-            freshness_band != "stale"):
+    if (
+        recent_occ >= CANDIDATE_RECENT_MIN
+        and severity in ("medium", "high")
+        and freshness_band != "stale"
+    ):
         if source_scope == "cross_nuc":
             reason = "cross_nuc_conflict"
         elif kind == "repo_drift":
@@ -742,7 +806,11 @@ def compute_promotion_186(task: dict, history_entry: dict) -> tuple[str, str, bo
 
     # ── EMERGING check ──
     # Has real evidence + freshness + some recency signal
-    if real_evidence and freshness_band != "stale" and recent_occ >= EMERGING_RECENT_MIN:
+    if (
+        real_evidence
+        and freshness_band != "stale"
+        and recent_occ >= EMERGING_RECENT_MIN
+    ):
         reason = "insufficient_persistence"
         new_status = "emerging"
         demoted = False
@@ -765,34 +833,50 @@ def compute_promotion_186(task: dict, history_entry: dict) -> tuple[str, str, bo
 
 # ── Build todos ─────────────────────────────────────────────────────────────
 
-def build_todos(orphans, weak_links, nuc1_json, nuc1_md, backend, model) -> tuple[list[dict], dict]:
+
+def build_todos(
+    orphans, weak_links, nuc1_json, nuc1_md, backend, model
+) -> tuple[list[dict], dict]:
     todos = []
     task_id = 1
 
-    def add(kind, severity, title, reason, recommended_action,
-            suggested_prompt_mode="manual", safe=True, project="kb",
-            evidence_paths=None, notes="", source_host=HOST, source_scope="nuc2"):
+    def add(
+        kind,
+        severity,
+        title,
+        reason,
+        recommended_action,
+        suggested_prompt_mode="manual",
+        safe=True,
+        project="kb",
+        evidence_paths=None,
+        notes="",
+        source_host=HOST,
+        source_scope="nuc2",
+    ):
         nonlocal task_id
-        todos.append({
-            "id": f"todo-{DATE}-{task_id:03d}",
-            "created_at": TIMESTAMP,
-            "source_host": source_host,
-            "project": project,
-            "title": title,
-            "kind": kind,
-            "severity": severity,
-            "reason": reason,
-            "recommended_action": recommended_action,
-            "suggested_prompt_mode": suggested_prompt_mode,
-            "safe_to_dispatch": safe,
-            "evidence_paths": evidence_paths or [],
-            "notes": notes,
-            "source_scope": source_scope,
-            "dispatch_blocker": "" if safe else "advisory_only",
-            "promotion_status": "not_candidate",
-            "promotion_reason": "",
-            "demoted_this_run": False,
-        })
+        todos.append(
+            {
+                "id": f"todo-{DATE}-{task_id:03d}",
+                "created_at": TIMESTAMP,
+                "source_host": source_host,
+                "project": project,
+                "title": title,
+                "kind": kind,
+                "severity": severity,
+                "reason": reason,
+                "recommended_action": recommended_action,
+                "suggested_prompt_mode": suggested_prompt_mode,
+                "safe_to_dispatch": safe,
+                "evidence_paths": evidence_paths or [],
+                "notes": notes,
+                "source_scope": source_scope,
+                "dispatch_blocker": "" if safe else "advisory_only",
+                "promotion_status": "not_candidate",
+                "promotion_reason": "",
+                "demoted_this_run": False,
+            }
+        )
         task_id += 1
 
     nuc1 = parse_nuc1_json(nuc1_json)
@@ -821,7 +905,7 @@ def build_todos(orphans, weak_links, nuc1_json, nuc1_md, backend, model) -> tupl
                     evidence_paths=[f"raw/inbox-nuc1/"],
                     notes=f"Dirty repo detected via NUC1 digest.",
                     source_host="nuc1",
-                    source_scope="cross_nuc"
+                    source_scope="cross_nuc",
                 )
 
         diverged = nuc1.get("diverged_repos", [])
@@ -839,7 +923,7 @@ def build_todos(orphans, weak_links, nuc1_json, nuc1_md, backend, model) -> tupl
                     evidence_paths=[f"raw/inbox-nuc1/"],
                     notes=f"Diverged repo detected via NUC1 digest.",
                     source_host="nuc1",
-                    source_scope="cross_nuc"
+                    source_scope="cross_nuc",
                 )
 
     # Orphans
@@ -852,7 +936,7 @@ def build_todos(orphans, weak_links, nuc1_json, nuc1_md, backend, model) -> tupl
             recommended_action="Review each orphan: add links from related pages, merge into existing articles, or delete if redundant.",
             suggested_prompt_mode="plan-build-qa",
             safe=True,
-            evidence_paths=[f"wiki/_orphans.md"]
+            evidence_paths=[f"wiki/_orphans.md"],
         )
         for orphan in orphans[:5]:
             add(
@@ -863,7 +947,7 @@ def build_todos(orphans, weak_links, nuc1_json, nuc1_md, backend, model) -> tupl
                 recommended_action=f"Check if {orphan} should be linked from related articles or removed.",
                 suggested_prompt_mode="manual",
                 safe=True,
-                evidence_paths=[f"wiki/{orphan}"]
+                evidence_paths=[f"wiki/{orphan}"],
             )
 
     # Weak links
@@ -876,7 +960,7 @@ def build_todos(orphans, weak_links, nuc1_json, nuc1_md, backend, model) -> tupl
             recommended_action="Find additional contexts where these pages should be referenced.",
             suggested_prompt_mode="manual",
             safe=True,
-            evidence_paths=[f"wiki/_weak-links.md"]
+            evidence_paths=[f"wiki/_weak-links.md"],
         )
 
     # Cross-NUC KB dirty
@@ -893,35 +977,38 @@ def build_todos(orphans, weak_links, nuc1_json, nuc1_md, backend, model) -> tupl
             evidence_paths=[f"raw/inbox-nuc1/"],
             notes="Cross-NUC KB drift signal — NUC1 has uncommitted work in shared KB.",
             source_host="nuc1",
-            source_scope="cross_nuc"
+            source_scope="cross_nuc",
         )
 
     if not todos:
-        todos.append({
-            "id": f"todo-{DATE}-001",
-            "created_at": TIMESTAMP,
-            "source_host": HOST,
-            "project": "kb",
-            "title": "KB state nominal",
-            "kind": "investigate",
-            "severity": "low",
-            "reason": "No obvious gaps detected in this run.",
-            "recommended_action": "No immediate action — continue normal KB maintenance.",
-            "suggested_prompt_mode": "manual",
-            "safe_to_dispatch": False,
-            "evidence_paths": [],
-            "notes": f"NUC1 intake consumed: {nuc1_used}",
-            "source_scope": "nuc2",
-            "dispatch_blocker": "advisory_only",
-            "promotion_status": "not_candidate",
-            "promotion_reason": "investigate_kind_excluded",
-            "demoted_this_run": False,
-        })
+        todos.append(
+            {
+                "id": f"todo-{DATE}-001",
+                "created_at": TIMESTAMP,
+                "source_host": HOST,
+                "project": "kb",
+                "title": "KB state nominal",
+                "kind": "investigate",
+                "severity": "low",
+                "reason": "No obvious gaps detected in this run.",
+                "recommended_action": "No immediate action — continue normal KB maintenance.",
+                "suggested_prompt_mode": "manual",
+                "safe_to_dispatch": False,
+                "evidence_paths": [],
+                "notes": f"NUC1 intake consumed: {nuc1_used}",
+                "source_scope": "nuc2",
+                "dispatch_blocker": "advisory_only",
+                "promotion_status": "not_candidate",
+                "promotion_reason": "investigate_kind_excluded",
+                "demoted_this_run": False,
+            }
+        )
 
-    return todos, nuc1
+    return todos, nuc1, nuc1_md_parsed
 
 
 # ── Markdown generation ──────────────────────────────────────────────────────
+
 
 def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
     lines = []
@@ -932,19 +1019,28 @@ def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
     lines.append(f"**Host:** {HOST}")
     lines.append(f"**NUC1 evidence consumed:** {'YES' if nuc1_used else 'NO'}")
     if nuc1_info.get("nuc1_host"):
-        lines.append(f"**NUC1 host:** {nuc1_info['nuc1_host']} ({nuc1_info.get('ts', 'no ts')})")
+        lines.append(
+            f"**NUC1 host:** {nuc1_info['nuc1_host']} ({nuc1_info.get('ts', 'no ts')})"
+        )
     lines.append("")
 
     by_severity = {}
     by_kind = {}
     by_state = {"new": [], "persisting": [], "resolved": []}
-    by_promotion = {"candidate": [], "emerging": [], "not_candidate": [], "cooling_down": []}
+    by_promotion = {
+        "candidate": [],
+        "emerging": [],
+        "not_candidate": [],
+        "cooling_down": [],
+    }
     by_freshness = {"fresh": [], "aging": [], "stale": []}
     for t in todos:
         by_severity.setdefault(t["severity"], []).append(t)
         by_kind.setdefault(t["kind"], []).append(t)
         by_state.setdefault(t.get("state", "new"), []).append(t)
-        by_promotion.setdefault(t.get("promotion_status", "not_candidate"), []).append(t)
+        by_promotion.setdefault(t.get("promotion_status", "not_candidate"), []).append(
+            t
+        )
         by_freshness.setdefault(t.get("freshness_band", "unknown"), []).append(t)
 
     lines.append("## Summary")
@@ -956,11 +1052,18 @@ def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
         new_c = sum(1 for s in state_map.values() if s == "new")
         pers_c = sum(1 for s in state_map.values() if s == "persisting")
         lines.append(f"- NEW: {new_c} | PERSISTING: {pers_c}")
-    lines.append(f"- by promotion: candidate={len(by_promotion.get('candidate',[]))} emerging={len(by_promotion.get('emerging',[]))} cooling_down={len(by_promotion.get('cooling_down',[]))} not_candidate={len(by_promotion.get('not_candidate',[]))}")
-    lines.append(f"- by freshness: fresh={len(by_freshness.get('fresh',[]))} aging={len(by_freshness.get('aging',[]))} stale={len(by_freshness.get('stale',[]))}")
+    lines.append(
+        f"- by promotion: candidate={len(by_promotion.get('candidate', []))} emerging={len(by_promotion.get('emerging', []))} cooling_down={len(by_promotion.get('cooling_down', []))} not_candidate={len(by_promotion.get('not_candidate', []))}"
+    )
+    lines.append(
+        f"- by freshness: fresh={len(by_freshness.get('fresh', []))} aging={len(by_freshness.get('aging', []))} stale={len(by_freshness.get('stale', []))}"
+    )
     lines.append("")
 
-    for state_label, sort_severity in [("NEW", ["high", "medium", "low"]), ("PERSISTING", ["high", "medium", "low"])]:
+    for state_label, sort_severity in [
+        ("NEW", ["high", "medium", "low"]),
+        ("PERSISTING", ["high", "medium", "low"]),
+    ]:
         state_tasks = by_state.get(state_label.lower(), [])
         if not state_tasks:
             continue
@@ -977,15 +1080,23 @@ def generate_markdown(todos, backend, nuc1_used, nuc1_info, state_map) -> str:
                 lines.append("")
                 lines.append(f"- **Kind:** {t['kind']}")
                 lines.append(f"- **Severity:** {t['severity']}")
-                lines.append(f"- **Promotion:** {t.get('promotion_status', 'unknown')} — {t.get('promotion_reason', '')}")
-                lines.append(f"- **Freshness:** {t.get('freshness_band', 'unknown')} (recency: {t.get('recent_occurrence_count', '?')}x)")
+                lines.append(
+                    f"- **Promotion:** {t.get('promotion_status', 'unknown')} — {t.get('promotion_reason', '')}"
+                )
+                lines.append(
+                    f"- **Freshness:** {t.get('freshness_band', 'unknown')} (recency: {t.get('recent_occurrence_count', '?')}x)"
+                )
                 lines.append(f"- **Reason:** {t['reason']}")
                 lines.append(f"- **Recommended Action:** {t['recommended_action']}")
                 lines.append(f"- **Prompt Mode:** {t['suggested_prompt_mode']}")
                 lines.append(f"- **Safe to Dispatch:** {t['safe_to_dispatch']}")
-                lines.append(f"- **Source:** {t['source_host']} ({t.get('source_scope', 'unknown')})")
+                lines.append(
+                    f"- **Source:** {t['source_host']} ({t.get('source_scope', 'unknown')})"
+                )
                 if t.get("occurrence_count", 1) > 1:
-                    lines.append(f"- **Occurrences:** {t['occurrence_count']}x (lifetime) / {t.get('recent_occurrence_count', '?')}x (recent)")
+                    lines.append(
+                        f"- **Occurrences:** {t['occurrence_count']}x (lifetime) / {t.get('recent_occurrence_count', '?')}x (recent)"
+                    )
                 if t.get("evidence_paths"):
                     lines.append(f"- **Evidence:** {', '.join(t['evidence_paths'])}")
                 if t.get("dispatch_blocker"):
@@ -1037,8 +1148,12 @@ def build_nuc1_state_content(nuc1_json: dict, nuc1_md: dict, todos: list[dict]) 
     diverged = nuc1_json.get("diverged_repos", [])
     all_repos = nuc1_json.get("repos", [])
     lines.append(f"- **Total repos tracked:** {len(all_repos)}")
-    lines.append(f"- **Dirty (uncommitted changes):** {', '.join(dirty) if dirty else '_none_'}")
-    lines.append(f"- **Diverged (ahead + behind remote):** {', '.join(diverged) if diverged else '_none_'}")
+    lines.append(
+        f"- **Dirty (uncommitted changes):** {', '.join(dirty) if dirty else '_none_'}"
+    )
+    lines.append(
+        f"- **Diverged (ahead + behind remote):** {', '.join(diverged) if diverged else '_none_'}"
+    )
     lines.append("")
     lines.append("## Active Services (from digest)")
     services = nuc1_md.get("active_services", [])
@@ -1049,12 +1164,19 @@ def build_nuc1_state_content(nuc1_json: dict, nuc1_md: dict, todos: list[dict]) 
         lines.append("- _(none detected in this digest)_")
     lines.append("")
     lines.append("## Open Issues (from todo queue)")
-    nuc1_tasks = [t for t in todos if t.get("source_scope") == "cross_nuc" and t.get("source_host") in ("nuc1", "nuc1")]
+    nuc1_tasks = [
+        t
+        for t in todos
+        if t.get("source_scope") == "cross_nuc"
+        and t.get("source_host") in ("nuc1", "nuc1")
+    ]
     if nuc1_tasks:
         for t in nuc1_tasks:
             prom = t.get("promotion_status", "")
             fresh = t.get("freshness_band", "")
-            lines.append(f"- **[{t['severity'].upper()}/{prom}]** {t['title']} — {t['kind']} ({fresh})")
+            lines.append(
+                f"- **[{t['severity'].upper()}/{prom}]** {t['title']} — {t['kind']} ({fresh})"
+            )
     else:
         lines.append("- _No open NUC1 issues in current queue_")
     lines.append("")
@@ -1062,12 +1184,18 @@ def build_nuc1_state_content(nuc1_json: dict, nuc1_md: dict, todos: list[dict]) 
     lines.append("")
     lines.append("## Human Notes")
     lines.append("")
-    lines.append("<!-- Add notes here — this section is preserved on machine-managed runs -->")
+    lines.append(
+        "<!-- Add notes here — this section is preserved on machine-managed runs -->"
+    )
     lines.append("")
     lines.append("## See Also")
-    lines.append("- [NUC Topology and Services](../architecture/nuc-topology-and-services.md)")
+    lines.append(
+        "- [NUC Topology and Services](../architecture/nuc-topology-and-services.md)"
+    )
     lines.append("- [NUC2 Current State](nuc2-current-state.md)")
-    lines.append("- [Cross-NUC Communication Matrix](../architecture/cross-nuc-communication-matrix.md)")
+    lines.append(
+        "- [Cross-NUC Communication Matrix](../architecture/cross-nuc-communication-matrix.md)"
+    )
     return "\n".join(lines)
 
 
@@ -1104,7 +1232,9 @@ def build_nuc2_state_content(nuc2_state_md: str, todos: list[dict]) -> str:
     lines.append("")
     lines.append("## Network Ports")
     for line in nuc2_state_md.splitlines():
-        if any(str(p) in line for p in [3000, 3838, 3850, 18790, 18792, 18793, 5432, 3307]):
+        if any(
+            str(p) in line for p in [3000, 3838, 3850, 18790, 18792, 18793, 5432, 3307]
+        ):
             lines.append(f"- `{line.strip()}`")
     lines.append("")
     lines.append("## KB Health")
@@ -1116,13 +1246,19 @@ def build_nuc2_state_content(nuc2_state_md: str, todos: list[dict]) -> str:
         lines.append(f"- **Weak-linked pages:** {weak_m.group(1)}")
     lines.append("")
     lines.append("## Open Issues (from todo queue)")
-    nuc2_tasks = [t for t in todos if t.get("source_scope") == "nuc2" or t.get("source_host") == HOST]
+    nuc2_tasks = [
+        t
+        for t in todos
+        if t.get("source_scope") == "nuc2" or t.get("source_host") == HOST
+    ]
     wiki_gaps = [t for t in nuc2_tasks if t.get("kind") == "wiki_gap"]
     if wiki_gaps:
         for t in wiki_gaps:
             prom = t.get("promotion_status", "")
             fresh = t.get("freshness_band", "")
-            lines.append(f"- **[{t['severity'].upper()}/{prom}]** {t['title']} — {t['kind']} ({fresh})")
+            lines.append(
+                f"- **[{t['severity'].upper()}/{prom}]** {t['title']} — {t['kind']} ({fresh})"
+            )
     else:
         lines.append("- _No open NUC2 issues in current queue_")
     lines.append("")
@@ -1130,7 +1266,9 @@ def build_nuc2_state_content(nuc2_state_md: str, todos: list[dict]) -> str:
     lines.append("")
     lines.append("## Human Notes")
     lines.append("")
-    lines.append("<!-- Add notes here — this section is preserved on machine-managed runs -->")
+    lines.append(
+        "<!-- Add notes here — this section is preserved on machine-managed runs -->"
+    )
     lines.append("")
     lines.append("## See Also")
     lines.append("- [NUC Topology and Services](nuc-topology-and-services.md)")
@@ -1171,9 +1309,13 @@ def build_repo_health_content(nuc1_json: dict, nuc2_state_md: str) -> str:
     lines.append("## Action Required")
     action_items = []
     if dirty:
-        action_items.append(f"- **Dirty on NUC1:** {', '.join(dirty)} — commit or stash")
+        action_items.append(
+            f"- **Dirty on NUC1:** {', '.join(dirty)} — commit or stash"
+        )
     if diverged:
-        action_items.append(f"- **Diverged on NUC1:** {', '.join(diverged)} — merge or rebase")
+        action_items.append(
+            f"- **Diverged on NUC1:** {', '.join(diverged)} — merge or rebase"
+        )
     if not action_items:
         lines.append("- _No repo drift detected in this run_")
     else:
@@ -1184,7 +1326,9 @@ def build_repo_health_content(nuc1_json: dict, nuc2_state_md: str) -> str:
     lines.append("")
     lines.append("## Human Notes")
     lines.append("")
-    lines.append("<!-- Add notes here — this section is preserved on machine-managed runs -->")
+    lines.append(
+        "<!-- Add notes here — this section is preserved on machine-managed runs -->"
+    )
     lines.append("")
     lines.append("## See Also")
     lines.append("- [NUC1 Current State](../architecture/nuc1-current-state.md)")
@@ -1208,7 +1352,9 @@ def write_harness_candidates(todos: list[dict]) -> bool:
     lines.append(f"**Total emerging:** {len(emerging_tasks)}")
     lines.append(f"**Total cooling_down:** {len(cooling_tasks)}")
     lines.append("")
-    lines.append(f"See [_candidate-promotion-rules.md](../wiki/_candidate-promotion-rules.md) for Stage 1.86 criteria.")
+    lines.append(
+        f"See [_candidate-promotion-rules.md](../wiki/_candidate-promotion-rules.md) for Stage 1.86 criteria."
+    )
     lines.append("")
     lines.append("## Candidates (meet all 1.86 criteria)")
     lines.append("")
@@ -1223,12 +1369,24 @@ def write_harness_candidates(todos: list[dict]) -> bool:
             lines.append(f"- **Severity:** {t['severity']} ({t.get('kind', '?')})")
             lines.append(f"- **Why it matters:** {t.get('reason', 'N/A')}")
             lines.append(f"- **Promotion reason:** {t.get('promotion_reason', 'N/A')}")
-            lines.append(f"- **Persistence:** {t.get('occurrence_count', 1)}x lifetime / {t.get('recent_occurrence_count', '?')}x recent")
-            lines.append(f"- **Freshness:** {t.get('freshness_band', '?')} (evidence age: {t.get('evidence_age_h', '?')}h)")
-            lines.append(f"- **Evidence:** {', '.join(t.get('evidence_paths', []) or ['N/A'])}")
-            lines.append(f"- **Suggested prompt mode:** {t.get('suggested_prompt_mode', 'auto')}")
-            lines.append(f"- **Dispatch blocker:** {t.get('dispatch_blocker') or 'none'}")
-            lines.append(f"- **Source:** {t.get('source_host', '?')} ({t.get('source_scope', 'unknown')})")
+            lines.append(
+                f"- **Persistence:** {t.get('occurrence_count', 1)}x lifetime / {t.get('recent_occurrence_count', '?')}x recent"
+            )
+            lines.append(
+                f"- **Freshness:** {t.get('freshness_band', '?')} (evidence age: {t.get('evidence_age_h', '?')}h)"
+            )
+            lines.append(
+                f"- **Evidence:** {', '.join(t.get('evidence_paths', []) or ['N/A'])}"
+            )
+            lines.append(
+                f"- **Suggested prompt mode:** {t.get('suggested_prompt_mode', 'auto')}"
+            )
+            lines.append(
+                f"- **Dispatch blocker:** {t.get('dispatch_blocker') or 'none'}"
+            )
+            lines.append(
+                f"- **Source:** {t.get('source_host', '?')} ({t.get('source_scope', 'unknown')})"
+            )
             proj = t.get("project", "")
             if proj:
                 page = find_project_page(proj)
@@ -1242,11 +1400,17 @@ def write_harness_candidates(todos: list[dict]) -> bool:
         for t in emerging_tasks:
             lines.append(f"### [{t['id']}] {t['title']}")
             lines.append("")
-            lines.append(f"- **Project:** {t.get('project', 'unknown')} | **Severity:** {t['severity']}")
-            lines.append(f"- **Persistence:** {t.get('recent_occurrence_count', '?')}x recent / {t.get('occurrence_count', '?')}x lifetime")
+            lines.append(
+                f"- **Project:** {t.get('project', 'unknown')} | **Severity:** {t['severity']}"
+            )
+            lines.append(
+                f"- **Persistence:** {t.get('recent_occurrence_count', '?')}x recent / {t.get('occurrence_count', '?')}x lifetime"
+            )
             lines.append(f"- **Freshness:** {t.get('freshness_band', '?')}")
             lines.append(f"- **Why it matters:** {t.get('reason', 'N/A')}")
-            lines.append(f"- **What would promote:** more recent evidence or fresher evidence files")
+            lines.append(
+                f"- **What would promote:** more recent evidence or fresher evidence files"
+            )
             lines.append("")
 
     if cooling_tasks:
@@ -1255,15 +1419,23 @@ def write_harness_candidates(todos: list[dict]) -> bool:
         for t in cooling_tasks:
             lines.append(f"### [{t['id']}] {t['title']}")
             lines.append("")
-            lines.append(f"- **Project:** {t.get('project', 'unknown')} | **Severity:** {t['severity']}")
-            lines.append(f"- **Persistence:** {t.get('recent_occurrence_count', '?')}x recent / {t.get('occurrence_count', '?')}x lifetime")
+            lines.append(
+                f"- **Project:** {t.get('project', 'unknown')} | **Severity:** {t['severity']}"
+            )
+            lines.append(
+                f"- **Persistence:** {t.get('recent_occurrence_count', '?')}x recent / {t.get('occurrence_count', '?')}x lifetime"
+            )
             lines.append(f"- **Freshness:** {t.get('freshness_band', '?')} (demoted)")
             lines.append(f"- **Why it matters:** {t.get('reason', 'N/A')}")
-            lines.append(f"- **What would restore:** newer evidence or fresher source files")
+            lines.append(
+                f"- **What would restore:** newer evidence or fresher source files"
+            )
             lines.append("")
 
     lines.append("---")
-    lines.append("_Stage 1.86 does not dispatch. Candidate status is advisory only, dispatch blocked by `advisory_only`._")
+    lines.append(
+        "_Stage 1.86 does not dispatch. Candidate status is advisory only, dispatch blocked by `advisory_only`._"
+    )
 
     HARNESS_CANDIDATES_MD.parent.mkdir(parents=True, exist_ok=True)
     HARNESS_CANDIDATES_MD.write_text("\n".join(lines))
@@ -1311,7 +1483,9 @@ def write_candidate_review_pack(todos: list[dict]) -> None:
         lines.append("## Candidates — Ready for Harness Dispatch Review")
         lines.append("")
         lines.append("These tasks meet all Stage 1.86 promotion criteria:")
-        lines.append("recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.")
+        lines.append(
+            "recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity."
+        )
         lines.append("")
         for t in candidate_tasks:
             proj = t.get("project", "")
@@ -1323,7 +1497,11 @@ def write_candidate_review_pack(todos: list[dict]) -> None:
             fresh = t.get("freshness_band", "?")
             evidence = t.get("evidence_paths", [])
             blocker = t.get("dispatch_blocker") or "none"
-            actionability = "actionable" if blocker == "advisory_only" and sev in ("HIGH", "MEDIUM") else "review_required"
+            actionability = (
+                "actionable"
+                if blocker == "advisory_only" and sev in ("HIGH", "MEDIUM")
+                else "review_required"
+            )
 
             lines.append(f"### [{t['id']}] {t['title']}")
             lines.append("")
@@ -1333,23 +1511,31 @@ def write_candidate_review_pack(todos: list[dict]) -> None:
             lines.append(f"| Severity | {sev} ({kind}) |")
             lines.append(f"| Persistence | {recent}x recent / {lifetime}x lifetime |")
             lines.append(f"| Freshness | {fresh} |")
-            lines.append(f"| Evidence | {', '.join(evidence) if evidence else 'none'} |")
+            lines.append(
+                f"| Evidence | {', '.join(evidence) if evidence else 'none'} |"
+            )
             lines.append(f"| Dispatch blocker | {blocker} |")
             lines.append(f"| Actionability | {actionability} |")
-            lines.append(f"| Source | {t.get('source_host', '?')} ({t.get('source_scope', '?')}) |")
+            lines.append(
+                f"| Source | {t.get('source_host', '?')} ({t.get('source_scope', '?')}) |"
+            )
             if page:
                 lines.append(f"| Related wiki page | {page.name} |")
             lines.append("")
             lines.append(f"**Why it matters:** {t.get('reason', 'N/A')}")
             lines.append("")
-            lines.append(f"**Recommended action:** {t.get('recommended_action', 'N/A')}")
+            lines.append(
+                f"**Recommended action:** {t.get('recommended_action', 'N/A')}"
+            )
             lines.append("")
     else:
         lines.append("## Candidates — Ready for Harness Dispatch Review")
         lines.append("")
         lines.append("_No tasks currently qualify as candidates._")
         lines.append("")
-        lines.append("This may be correct — Stage 1.86 requires recent evidence (3+ in 5 runs),")
+        lines.append(
+            "This may be correct — Stage 1.86 requires recent evidence (3+ in 5 runs),"
+        )
         lines.append("fresh/aging evidence files, and medium+ severity.")
         lines.append("")
 
@@ -1364,9 +1550,15 @@ def write_candidate_review_pack(todos: list[dict]) -> None:
             fresh = t.get("freshness_band", "?")
             lines.append(f"### [{t['id']}] {t['title']}")
             lines.append("")
-            lines.append(f"- **Project:** {proj} | **Severity:** {sev} | **Freshness:** {fresh}")
-            lines.append(f"- **Persistence:** {recent}x recent / {t.get('occurrence_count', '?')}x lifetime")
-            lines.append(f"- **What would promote:** more recent runs OR fresher evidence files")
+            lines.append(
+                f"- **Project:** {proj} | **Severity:** {sev} | **Freshness:** {fresh}"
+            )
+            lines.append(
+                f"- **Persistence:** {recent}x recent / {t.get('occurrence_count', '?')}x lifetime"
+            )
+            lines.append(
+                f"- **What would promote:** more recent runs OR fresher evidence files"
+            )
             lines.append(f"- **Why it matters:** {t.get('reason', 'N/A')}")
             lines.append("")
 
@@ -1374,43 +1566,68 @@ def write_candidate_review_pack(todos: list[dict]) -> None:
     if cooling_tasks:
         lines.append(f"## Cooling Down ({len(cooling_tasks)} tasks)")
         lines.append("")
-        lines.append("These tasks were previously candidate/emerging but recent evidence has weakened.")
-        lines.append("They are tracked but require fresh evidence before they can be restored to candidate.")
+        lines.append(
+            "These tasks were previously candidate/emerging but recent evidence has weakened."
+        )
+        lines.append(
+            "They are tracked but require fresh evidence before they can be restored to candidate."
+        )
         lines.append("")
         for t in cooling_tasks:
             sev = t.get("severity", "?").upper()
             fresh = t.get("freshness_band", "?")
-            lines.append(f"- **[{t['id']}]** {t['title']} — {sev} ({fresh}) — {t.get('promotion_reason', '')}")
+            lines.append(
+                f"- **[{t['id']}]** {t['title']} — {sev} ({fresh}) — {t.get('promotion_reason', '')}"
+            )
         lines.append("")
 
     # ── Not Candidate ──
     if not_cand_tasks:
         lines.append(f"## Not Candidate ({len(not_cand_tasks)} tasks)")
         lines.append("")
-        lines.append("These tasks are tracked but lack sufficient recent evidence, have stale evidence,")
+        lines.append(
+            "These tasks are tracked but lack sufficient recent evidence, have stale evidence,"
+        )
         lines.append("or are excluded kinds. Lifetime history is preserved for audit.")
         lines.append("")
         for t in not_cand_tasks[:8]:
             fresh = t.get("freshness_band", "?")
-            lines.append(f"- **[{t['id']}]** {t['title']} — {t.get('promotion_reason', '?')} ({fresh})")
+            lines.append(
+                f"- **[{t['id']}]** {t['title']} — {t.get('promotion_reason', '?')} ({fresh})"
+            )
         if len(not_cand_tasks) > 8:
             lines.append(f"- _...and {len(not_cand_tasks) - 8} more_")
         lines.append("")
 
     lines.append("---")
-    lines.append("_Stage 1.86 — advisory only. Candidate status is advisory only, dispatch blocked by `advisory_only`._")
+    lines.append(
+        "_Stage 1.86 — advisory only. Candidate status is advisory only, dispatch blocked by `advisory_only`._"
+    )
 
     CANDIDATE_REVIEW_PACK.parent.mkdir(parents=True, exist_ok=True)
     CANDIDATE_REVIEW_PACK.write_text("\n".join(lines))
 
 
-def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map,
-                         nuc2_state_md_for_status="", updated_project_pages: list[str] = None,
-                         demotion_count: int = 0, promotion_counts: dict = None,
-                         freshness_counts: dict = None):
+def write_manager_status(
+    todos,
+    backend,
+    nuc1_used,
+    nuc1_info,
+    state_map,
+    nuc2_state_md_for_status="",
+    updated_project_pages: list[str] = None,
+    demotion_count: int = 0,
+    promotion_counts: dict = None,
+    freshness_counts: dict = None,
+):
     by_kind = {}
     by_state = {"new": 0, "persisting": 0, "resolved": 0}
-    by_promotion = {"candidate": 0, "emerging": 0, "not_candidate": 0, "cooling_down": 0}
+    by_promotion = {
+        "candidate": 0,
+        "emerging": 0,
+        "not_candidate": 0,
+        "cooling_down": 0,
+    }
     by_freshness = {"fresh": 0, "aging": 0, "stale": 0}
     harness_candidates = []
     for t in todos:
@@ -1418,7 +1635,9 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map,
         by_state[t.get("state", "new")] = by_state.get(t.get("state", "new"), 0) + 1
         prom = t.get("promotion_status", "not_candidate")
         by_promotion[prom] = by_promotion.get(prom, 0) + 1
-        by_freshness[t.get("freshness_band", "unknown")] = by_freshness.get(t.get("freshness_band", "unknown"), 0) + 1
+        by_freshness[t.get("freshness_band", "unknown")] = (
+            by_freshness.get(t.get("freshness_band", "unknown"), 0) + 1
+        )
         if prom in ("candidate", "emerging"):
             harness_candidates.append(t)
 
@@ -1470,12 +1689,22 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map,
     lines.append("## Stable Pages Updated")
     lines.append("")
     nuc1_updated = "YES" if nuc1_info.get("repos") else "SKIPPED (no NUC1 evidence)"
-    lines.append(f"- [nuc1-current-state.md](architecture/nuc1-current-state.md): {nuc1_updated}")
+    lines.append(
+        f"- [nuc1-current-state.md](architecture/nuc1-current-state.md): {nuc1_updated}"
+    )
     nuc2_has_state = bool(nuc2_state_md_for_status)
-    lines.append(f"- [nuc2-current-state.md](architecture/nuc2-current-state.md): {'YES' if nuc2_has_state else 'SKIPPED (no NUC2 digest)'}")
-    lines.append(f"- [repo-health-overview.md](projects/repo-health-overview.md): {'YES' if nuc1_info.get('repos') or nuc2_has_state else 'SKIPPED'}")
-    lines.append(f"- [_project-health-index.md](projects/_project-health-index.md): {'YES' if nuc1_info.get('repos') else 'SKIPPED'}")
-    lines.append(f"- [_candidate-promotion-rules.md](../wiki/_candidate-promotion-rules.md): YES (always updated)")
+    lines.append(
+        f"- [nuc2-current-state.md](architecture/nuc2-current-state.md): {'YES' if nuc2_has_state else 'SKIPPED (no NUC2 digest)'}"
+    )
+    lines.append(
+        f"- [repo-health-overview.md](projects/repo-health-overview.md): {'YES' if nuc1_info.get('repos') or nuc2_has_state else 'SKIPPED'}"
+    )
+    lines.append(
+        f"- [_project-health-index.md](projects/_project-health-index.md): {'YES' if nuc1_info.get('repos') else 'SKIPPED'}"
+    )
+    lines.append(
+        f"- [_candidate-promotion-rules.md](../wiki/_candidate-promotion-rules.md): YES (always updated)"
+    )
     lines.append("")
     if updated_project_pages:
         lines.append("## Project Pages Updated This Run")
@@ -1489,20 +1718,28 @@ def write_manager_status(todos, backend, nuc1_used, nuc1_info, state_map,
         for t in harness_candidates:
             prom = t.get("promotion_status", "")
             fresh = t.get("freshness_band", "")
-            lines.append(f"- **[{t['id']}]** {t['title']} (severity: {t['severity']}, promotion: {prom}, {fresh})")
+            lines.append(
+                f"- **[{t['id']}]** {t['title']} (severity: {t['severity']}, promotion: {prom}, {fresh})"
+            )
         lines.append("")
     lines.append("## Task List")
     lines.append("")
     for t in todos:
-        state_icon = {"new": "✨", "persisting": "🔄", "resolved": "✅"}.get(t.get("state", "new"), "•")
+        state_icon = {"new": "✨", "persisting": "🔄", "resolved": "✅"}.get(
+            t.get("state", "new"), "•"
+        )
         prom = t.get("promotion_status", "")
         prom_str = f" [{prom}]" if prom else ""
         demoted = " ⚠️" if t.get("demoted_this_run") else ""
         fresh = t.get("freshness_band", "")
-        lines.append(f"{state_icon} [{t['id']}] {t['title']} ({t['severity']}, {t['kind']}){prom_str} ({fresh}){demoted} — {t.get('source_host', '?')}")
+        lines.append(
+            f"{state_icon} [{t['id']}] {t['title']} ({t['severity']}, {t['kind']}){prom_str} ({fresh}){demoted} — {t.get('source_host', '?')}"
+        )
     lines.append("")
     lines.append("---")
-    lines.append("*Managed by wiki-manager-stage1.timer (every 12h). Do not edit directly.*")
+    lines.append(
+        "*Managed by wiki-manager-stage1.timer (every 12h). Do not edit directly.*"
+    )
 
     MANAGER_STATUS.parent.mkdir(parents=True, exist_ok=True)
     with open(MANAGER_STATUS, "w") as f:
@@ -1522,8 +1759,11 @@ def write_candidate_rules() -> bool:
 
 # ── Main ─────────────────────────────────────────────────────────────────────────
 
+
 def main():
-    parser = argparse.ArgumentParser(description="Wiki Manager Stage 1.86 — freshness-weighted promotion + cooling_down")
+    parser = argparse.ArgumentParser(
+        description="Wiki Manager Stage 1.86 — freshness-weighted promotion + cooling_down"
+    )
     parser.add_argument("--orphans", default="")
     parser.add_argument("--weak-links", default="")
     parser.add_argument("--nuc1-json", default="")
@@ -1536,7 +1776,9 @@ def main():
     orphans = parse_orphans(args.orphans)
     weak_links = parse_weak_links(args.weak_links)
 
-    todos, nuc1_info = build_todos(orphans, weak_links, args.nuc1_json, args.nuc1_md, args.backend, args.model)
+    todos, nuc1_info, nuc1_md_parsed = build_todos(
+        orphans, weak_links, args.nuc1_json, args.nuc1_md, args.backend, args.model
+    )
 
     history, state_map = update_history(todos)
 
@@ -1552,7 +1794,7 @@ def main():
         # Freshness band
         t["freshness_band"] = compute_freshness_band(t, TIMESTAMP)
         age_h = evidence_age_hours(t)
-        t["evidence_age_h"] = round(age_h, 1) if age_h != float('inf') else -1
+        t["evidence_age_h"] = round(age_h, 1) if age_h != float("inf") else -1
 
         # Stage 1.86 promotion
         prom_status, prom_reason, demoted = compute_promotion_186(t, entry or {})
@@ -1571,7 +1813,9 @@ def main():
                 if not entry.get("promotion_first_seen"):
                     entry["promotion_first_seen"] = TIMESTAMP
                 entry["promotion_last_seen"] = TIMESTAMP
-                entry["promotion_occurrence_count"] = entry.get("promotion_occurrence_count", 0) + 1
+                entry["promotion_occurrence_count"] = (
+                    entry.get("promotion_occurrence_count", 0) + 1
+                )
 
         if prom_status == "candidate" and not t.get("dispatch_blocker"):
             t["dispatch_blocker"] = "advisory_only"
@@ -1581,14 +1825,22 @@ def main():
 
     nuc1_used = bool(nuc1_info.get("repos") or nuc1_info.get("dirty_repos"))
 
-    nuc1_written = write_stable_page(NUC1_STATE_PAGE, build_nuc1_state_content(nuc1_info, {}, todos))
-    nuc2_written = write_stable_page(NUC2_STATE_PAGE, build_nuc2_state_content(args.nuc2_md, todos))
-    repo_written = write_stable_page(REPO_HEALTH_PAGE, build_repo_health_content(nuc1_info, args.nuc2_md))
+    nuc1_written = write_stable_page(
+        NUC1_STATE_PAGE, build_nuc1_state_content(nuc1_info, nuc1_md_parsed, todos)
+    )
+    nuc2_written = write_stable_page(
+        NUC2_STATE_PAGE, build_nuc2_state_content(args.nuc2_md, todos)
+    )
+    repo_written = write_stable_page(
+        REPO_HEALTH_PAGE, build_repo_health_content(nuc1_info, args.nuc2_md)
+    )
 
     nuc1_repos = nuc1_info.get("repos", [])
     project_health_written = False
     if nuc1_used and nuc1_repos:
-        project_health_written = write_stable_page(PROJECT_HEALTH_INDEX, build_project_health_index(nuc1_info, todos, []))
+        project_health_written = write_stable_page(
+            PROJECT_HEALTH_INDEX, build_project_health_index(nuc1_info, todos, [])
+        )
 
     candidate_rules_written = write_candidate_rules()
 
@@ -1601,12 +1853,16 @@ def main():
                 continue
             page = find_project_page(proj)
             if page:
-                status_block = build_project_status_block(proj, nuc1_info, todos, all_repos_data)
+                status_block = build_project_status_block(
+                    proj, nuc1_info, todos, all_repos_data
+                )
                 if update_project_page(page, proj, status_block, todos):
                     updated_project_pages.append(page.name)
 
     if nuc1_used and nuc1_repos:
-        health_content = build_project_health_index(nuc1_info, todos, updated_project_pages)
+        health_content = build_project_health_index(
+            nuc1_info, todos, updated_project_pages
+        )
         write_stable_page(PROJECT_HEALTH_INDEX, health_content)
 
     harness_written = write_harness_candidates(todos)
@@ -1615,8 +1871,12 @@ def main():
     promotion_counts = {
         "candidate": sum(1 for t in todos if t.get("promotion_status") == "candidate"),
         "emerging": sum(1 for t in todos if t.get("promotion_status") == "emerging"),
-        "cooling_down": sum(1 for t in todos if t.get("promotion_status") == "cooling_down"),
-        "not_candidate": sum(1 for t in todos if t.get("promotion_status") == "not_candidate"),
+        "cooling_down": sum(
+            1 for t in todos if t.get("promotion_status") == "cooling_down"
+        ),
+        "not_candidate": sum(
+            1 for t in todos if t.get("promotion_status") == "not_candidate"
+        ),
     }
     freshness_counts = {
         "fresh": sum(1 for t in todos if t.get("freshness_band") == "fresh"),
@@ -1643,11 +1903,11 @@ def main():
             "nuc2_current_state": nuc2_written,
             "repo_health_overview": repo_written,
             "project_health_index": project_health_written,
-            "candidate_promotion_rules": candidate_rules_written
+            "candidate_promotion_rules": candidate_rules_written,
         },
         "project_pages_updated": updated_project_pages,
         "harness_candidates_written": harness_written,
-        "tasks": todos
+        "tasks": todos,
     }
     with open(TODO_JSON, "w") as f:
         json.dump(output, f, indent=2)
@@ -1656,21 +1916,33 @@ def main():
     with open(TODO_MD, "w") as f:
         f.write(md)
 
-    write_manager_status(todos, args.backend, nuc1_used, nuc1_info, state_map,
-                        nuc2_state_md_for_status=args.nuc2_md,
-                        updated_project_pages=updated_project_pages,
-                        demotion_count=demotion_count,
-                        promotion_counts=promotion_counts,
-                        freshness_counts=freshness_counts)
+    write_manager_status(
+        todos,
+        args.backend,
+        nuc1_used,
+        nuc1_info,
+        state_map,
+        nuc2_state_md_for_status=args.nuc2_md,
+        updated_project_pages=updated_project_pages,
+        demotion_count=demotion_count,
+        promotion_counts=promotion_counts,
+        freshness_counts=freshness_counts,
+    )
 
     print(f"todo_queue.json: {TODO_JSON} ({len(todos)} tasks)")
     print(f"todo_queue.md: {TODO_MD}")
     print(f"todo_history.json: {TODO_HISTORY}")
     print(f"nuc1_evidence_used: {nuc1_used}")
-    print(f"Stable pages: nuc1={nuc1_written} nuc2={nuc2_written} repo={repo_written} health={project_health_written} rules={candidate_rules_written}")
+    print(
+        f"Stable pages: nuc1={nuc1_written} nuc2={nuc2_written} repo={repo_written} health={project_health_written} rules={candidate_rules_written}"
+    )
     print(f"Project pages updated: {updated_project_pages}")
-    print(f"Promotion: candidate={promotion_counts['candidate']} emerging={promotion_counts['emerging']} cooling_down={promotion_counts['cooling_down']} not_candidate={promotion_counts['not_candidate']}")
-    print(f"Freshness: fresh={freshness_counts['fresh']} aging={freshness_counts['aging']} stale={freshness_counts['stale']}")
+    print(
+        f"Promotion: candidate={promotion_counts['candidate']} emerging={promotion_counts['emerging']} cooling_down={promotion_counts['cooling_down']} not_candidate={promotion_counts['not_candidate']}"
+    )
+    print(
+        f"Freshness: fresh={freshness_counts['fresh']} aging={freshness_counts['aging']} stale={freshness_counts['stale']}"
+    )
     print(f"Demotions this run: {demotion_count}")
     print(f"Harness candidates: {'YES' if harness_written else 'none'}")
     print(f"Candidate review pack: {CANDIDATE_REVIEW_PACK}")

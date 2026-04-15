@@ -23,6 +23,25 @@ NUC1 (mailbox_outbox) --git push over SSH--> NUC2 (mailbox.git)
                                               NUC2 nuc-mailbox-ingest.timer
 ```
 
+<!-- BEGIN MACHINE MANAGED — Do not edit manually -->
+
+**Last updated:** 2026-04-15T17:25:51Z
+**NUC1 status:** DIRTY, synced
+**NUC1 commit:** `668ae78` — docs: auto-sync project docs from slimy-nuc1 2026-04-11
+**Branch:** main
+
+### Open Issues
+- **[MEDIUM/not_candidate]** NUC1 repo has uncommitted changes: mailbox_outbox (repo_drift, 1x, fresh)
+
+### Evidence
+- `raw/inbox-nuc1/`
+
+### Related Pages
+- [Repo Health Overview](./_project-health-index.md)
+- [NUC1 Current State](../architecture/nuc1-current-state.md)
+
+<!-- END MACHINE MANAGED -->
+
 ## See Also
 - [Mailbox NUC Comms](mailbox-nuc-comms.md)
 - [Mailbox Ingest (NUC Comms)](mailbox-ingest.md)

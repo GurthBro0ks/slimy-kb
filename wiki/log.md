@@ -581,3 +581,18 @@
 - notes: /home/slimy/kb
 
 
+## [2026-04-15 17:25] wiki_manager | stage1.86 todo queue generation
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - raw/inbox-nuc1/2026-04-13-nuc1-repos.json
+  - raw/inbox-nuc1/2026-04-13-nuc1-repos.md
+  - raw/inbox-nuc1/2026-04-13-nuc1-state.md
+  - raw/inbox-nuc1/2026-04-15-nuc1-repos.json
+  - raw/inbox-nuc1/2026-04-15-nuc1-repos.md
+  - raw/inbox-nuc1/2026-04-15-nuc1-state.md
+- summary: stage1.86 todo queue generation
+- commit: 53ad47f
+- notes: stage1.86 run: todos=20 nuc1_items=15 nuc1_evidence=YES
+
+

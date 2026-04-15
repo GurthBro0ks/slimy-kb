@@ -53,6 +53,25 @@ Mission Control is a coordination surface for tasks, agents, comms, calendar, me
 - **Classification:** ACTIVE | Confidence: HIGH
 - **Note:** Same service runs on NUC2 port 3838 (separate deployment). Caddy on NUC1 routes traffic to mission-control at its domain routes.
 
+<!-- BEGIN MACHINE MANAGED — Do not edit manually -->
+
+**Last updated:** 2026-04-15T17:25:51Z
+**NUC1 status:** DIRTY, synced
+**NUC1 commit:** `b106eb1` — chore: install agent harness from slimy-harness
+**Branch:** main
+
+### Open Issues
+- **[MEDIUM/not_candidate]** NUC1 repo has uncommitted changes: mission-control (repo_drift, 1x, fresh)
+
+### Evidence
+- `raw/inbox-nuc1/`
+
+### Related Pages
+- [Repo Health Overview](./_project-health-index.md)
+- [NUC1 Current State](../architecture/nuc1-current-state.md)
+
+<!-- END MACHINE MANAGED -->
+
 ## See Also
 - [Agents Plugin Ecosystem](agents-plugin-ecosystem.md)
 - [Truth Gate](../concepts/truth-gate.md)

@@ -1,7 +1,7 @@
 # Harness Candidate Promotion Rules
 
 > Category: concepts
-> Updated: 2026-04-11T21:25:15Z
+> Updated: 2026-04-15T17:25:51Z
 > Status: active
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
