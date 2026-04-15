@@ -596,3 +596,28 @@
 - notes: stage1.86 run: todos=20 nuc1_items=15 nuc1_evidence=YES
 
 
+## [2026-04-15 17:34] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_candidate-promotion-rules.md
+  - wiki/_manager-status.md
+  - wiki/architecture/nuc1-current-state.md
+  - wiki/architecture/nuc2-current-state.md
+  - wiki/projects/_project-health-index.md
+  - wiki/projects/clawd-agent-rules.md
+  - wiki/projects/mailbox-outbox.md
+  - wiki/projects/mission-control.md
+  - wiki/projects/ned-autonomous.md
+  - wiki/projects/ned-clawd.md
+  - wiki/projects/repo-health-overview.md
+  - wiki/projects/slimy-chat.md
+  - wiki/projects/slimy-monorepo.md
+  - wiki/projects/stoat-source.md  - raw/research/2026-04-15-slimy-nuc2-kb-health.md
+  - raw/research/2026-04-15-slimy-nuc2-repo-digests.md
+  - raw/research/2026-04-15-slimy-nuc2-state.md
+- summary: 12h maintenance run
+- commit: e2ca64b
+- notes: auto-maintenance from kb-maintenance.sh 2026-04-15T17:34:53Z
+
+

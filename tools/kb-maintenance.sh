@@ -31,18 +31,20 @@ if [[ -n "$compile_candidates" ]]; then
     echo "$compile_candidates" >> "$PROOF_DIR/step2-compile.log"
     log_step "Compile needed for: $compile_candidates"
     echo "COMPILE_NEEDED=yes" >> "$PROOF_DIR/status.txt"
+    COMPILE_NEEDED=yes
 else
     echo "COMPILE_NEEDED=no" >> "$PROOF_DIR/status.txt"
+    COMPILE_NEEDED=no
 fi
 
-# ── STEP 3: File-back for pending output/learnings ───────────────────────────
-log_step "Checking for file-back candidates..."
-if [[ -d "$KB_ROOT/output" ]]; then
-    # Create a lightweight file-back prompt if there are recent output files
-    recent_output=$(find "$KB_ROOT/output" -type f -name '*.md' -mtime -1 2>/dev/null | grep -v lint-report | grep -v compile-failure || true)
-    if [[ -n "$recent_output" ]]; then
-        log_step "File-back candidates found — run wiki prompt-file-back manually"
-    fi
+# ── STEP 3: File-back status ──────────────────────────────────────────────────
+# Compile candidates from Step 2 are the real file-back signal (uncompiled raw files).
+# The wiki manager writes to output/ every 12h — checking output/ for recent files
+# would always fire and tell operators to run a non-existent command. Removed.
+if [[ "${COMPILE_NEEDED:-no}" == "yes" ]]; then
+    log_step "File-back: compile candidates pending (see Step 2)"
+else
+    log_step "File-back: no uncompiled raw files"
 fi
 
 # ── STEP 4: Lint ─────────────────────────────────────────────────────────────
@@ -99,7 +101,7 @@ bash "$KB_TOOLS/kb-sync.sh" push >> "$PROOF_DIR/step8-push.log" 2>&1 || {
     echo ""
     echo "1. pull — sync pull from origin"
     echo "2. compile — kb-compile-if-needed.sh (skip-child mode)"
-    echo "3. file-back — checked for pending output/learnings"
+    echo "3. file-back — compile candidate status (see Step 2 for details)"
     echo "4. lint — kb-lint.sh (with orphans + weak-links)"
     echo "5. log — appended maintenance entry to wiki/log.md"
     echo "6. commit — git commit if changes existed"
