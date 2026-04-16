@@ -33,13 +33,13 @@ Slimy Chat is a Revolt-based self-hosted chat platform at chat.slimyai.xyz. Invi
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-04-16T00:22:09Z
+**Last updated:** 2026-04-16T12:23:09Z
 **NUC1 status:** DIRTY, synced
 **NUC1 commit:** `482c773` — docs: auto-sync project docs from slimy-nuc1 2026-04-11
 **Branch:** main
 
 ### Open Issues
-- **[HIGH/emerging]** NUC1 repo has uncommitted changes: slimy-chat (repo_drift, 2x, fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: slimy-chat (repo_drift, 3x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`

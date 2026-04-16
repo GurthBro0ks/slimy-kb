@@ -1,15 +1,15 @@
-# Candidate Review Pack — 2026-04-16T00:22:09Z
+# Candidate Review Pack — 2026-04-16T12:23:09Z
 
 > Stage: 1.86
-> Generated: 2026-04-16T00:22:09Z
+> Generated: 2026-04-16T12:23:09Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
 
 ## Summary
 
-- **Candidates:** 6
-- **Emerging:** 10
+- **Candidates:** 16
+- **Emerging:** 0
 - **Cooling down:** 0
 - **Not candidate:** 4
 - **Total in queue:** 20
@@ -24,13 +24,99 @@
 These tasks meet all Stage 1.86 promotion criteria:
 recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
+### [todo-2026-04-16-001] NUC1 repo has uncommitted changes: Slimefun4
+
+| Field | Value |
+|-------|-------|
+| Project | Slimefun4 |
+| Severity | HIGH (repo_drift) |
+| Persistence | 3x recent / 3x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+
+**Why it matters:** Repo 'Slimefun4' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review Slimefun4 on NUC1, commit or stash uncommitted work, push if appropriate.
+
+### [todo-2026-04-16-002] NUC1 repo has uncommitted changes: PrivateStorage
+
+| Field | Value |
+|-------|-------|
+| Project | PrivateStorage |
+| Severity | HIGH (repo_drift) |
+| Persistence | 3x recent / 3x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+
+**Why it matters:** Repo 'PrivateStorage' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review PrivateStorage on NUC1, commit or stash uncommitted work, push if appropriate.
+
+### [todo-2026-04-16-003] NUC1 repo has uncommitted changes: DynaTech
+
+| Field | Value |
+|-------|-------|
+| Project | DynaTech |
+| Severity | HIGH (repo_drift) |
+| Persistence | 3x recent / 3x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+
+**Why it matters:** Repo 'DynaTech' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review DynaTech on NUC1, commit or stash uncommitted work, push if appropriate.
+
+### [todo-2026-04-16-004] NUC1 repo has uncommitted changes: mission-control
+
+| Field | Value |
+|-------|-------|
+| Project | mission-control |
+| Severity | HIGH (repo_drift) |
+| Persistence | 3x recent / 3x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+| Related wiki page | mission-control.md |
+
+**Why it matters:** Repo 'mission-control' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review mission-control on NUC1, commit or stash uncommitted work, push if appropriate.
+
+### [todo-2026-04-16-005] NUC1 repo has uncommitted changes: slimy-harness
+
+| Field | Value |
+|-------|-------|
+| Project | slimy-harness |
+| Severity | HIGH (repo_drift) |
+| Persistence | 3x recent / 3x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+
+**Why it matters:** Repo 'slimy-harness' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review slimy-harness on NUC1, commit or stash uncommitted work, push if appropriate.
+
 ### [todo-2026-04-16-006] NUC1 repo has uncommitted changes: ned-autonomous
 
 | Field | Value |
 |-------|-------|
 | Project | ned-autonomous |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 24x lifetime |
+| Persistence | 5x recent / 25x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -42,13 +128,103 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review ned-autonomous on NUC1, commit or stash uncommitted work, push if appropriate.
 
+### [todo-2026-04-16-007] NUC1 repo has uncommitted changes: stoat-source
+
+| Field | Value |
+|-------|-------|
+| Project | stoat-source |
+| Severity | HIGH (repo_drift) |
+| Persistence | 3x recent / 3x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+| Related wiki page | stoat-source.md |
+
+**Why it matters:** Repo 'stoat-source' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review stoat-source on NUC1, commit or stash uncommitted work, push if appropriate.
+
+### [todo-2026-04-16-008] NUC1 repo has uncommitted changes: mailbox_outbox
+
+| Field | Value |
+|-------|-------|
+| Project | mailbox_outbox |
+| Severity | HIGH (repo_drift) |
+| Persistence | 3x recent / 3x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+| Related wiki page | mailbox-outbox.md |
+
+**Why it matters:** Repo 'mailbox_outbox' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review mailbox_outbox on NUC1, commit or stash uncommitted work, push if appropriate.
+
+### [todo-2026-04-16-009] NUC1 repo has uncommitted changes: slimy-chat
+
+| Field | Value |
+|-------|-------|
+| Project | slimy-chat |
+| Severity | HIGH (repo_drift) |
+| Persistence | 3x recent / 3x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+| Related wiki page | slimy-chat.md |
+
+**Why it matters:** Repo 'slimy-chat' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review slimy-chat on NUC1, commit or stash uncommitted work, push if appropriate.
+
+### [todo-2026-04-16-010] NUC1 repo has uncommitted changes: clawd
+
+| Field | Value |
+|-------|-------|
+| Project | clawd |
+| Severity | HIGH (repo_drift) |
+| Persistence | 3x recent / 3x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+| Related wiki page | clawd-agent-rules.md |
+
+**Why it matters:** Repo 'clawd' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review clawd on NUC1, commit or stash uncommitted work, push if appropriate.
+
+### [todo-2026-04-16-011] NUC1 repo has uncommitted changes: ned-clawd
+
+| Field | Value |
+|-------|-------|
+| Project | ned-clawd |
+| Severity | HIGH (repo_drift) |
+| Persistence | 3x recent / 3x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+| Related wiki page | ned-clawd.md |
+
+**Why it matters:** Repo 'ned-clawd' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review ned-clawd on NUC1, commit or stash uncommitted work, push if appropriate.
+
 ### [todo-2026-04-16-012] NUC1 repo diverged from remote: Slimefun4
 
 | Field | Value |
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 24x lifetime |
+| Persistence | 5x recent / 25x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -65,7 +241,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | clawd |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 24x lifetime |
+| Persistence | 5x recent / 25x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -83,7 +259,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | slimy-monorepo |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 24x lifetime |
+| Persistence | 5x recent / 25x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -101,7 +277,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 6x lifetime |
+| Persistence | 5x recent / 7x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/_orphans.md |
 | Dispatch blocker | advisory_only |
@@ -118,7 +294,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 27x lifetime |
+| Persistence | 5x recent / 28x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/log.md |
 | Dispatch blocker | advisory_only |
@@ -128,78 +304,6 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 **Why it matters:** Page 'log.md' has no inbound links.
 
 **Recommended action:** Check if log.md should be linked from related articles or removed.
-
-## Emerging — Close but Not Ready
-
-### [todo-2026-04-16-001] NUC1 repo has uncommitted changes: Slimefun4
-
-- **Project:** Slimefun4 | **Severity:** HIGH | **Freshness:** fresh
-- **Persistence:** 2x recent / 2x lifetime
-- **What would promote:** more recent runs OR fresher evidence files
-- **Why it matters:** Repo 'Slimefun4' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
-
-### [todo-2026-04-16-002] NUC1 repo has uncommitted changes: PrivateStorage
-
-- **Project:** PrivateStorage | **Severity:** HIGH | **Freshness:** fresh
-- **Persistence:** 2x recent / 2x lifetime
-- **What would promote:** more recent runs OR fresher evidence files
-- **Why it matters:** Repo 'PrivateStorage' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
-
-### [todo-2026-04-16-003] NUC1 repo has uncommitted changes: DynaTech
-
-- **Project:** DynaTech | **Severity:** HIGH | **Freshness:** fresh
-- **Persistence:** 2x recent / 2x lifetime
-- **What would promote:** more recent runs OR fresher evidence files
-- **Why it matters:** Repo 'DynaTech' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
-
-### [todo-2026-04-16-004] NUC1 repo has uncommitted changes: mission-control
-
-- **Project:** mission-control | **Severity:** HIGH | **Freshness:** fresh
-- **Persistence:** 2x recent / 2x lifetime
-- **What would promote:** more recent runs OR fresher evidence files
-- **Why it matters:** Repo 'mission-control' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
-
-### [todo-2026-04-16-005] NUC1 repo has uncommitted changes: slimy-harness
-
-- **Project:** slimy-harness | **Severity:** HIGH | **Freshness:** fresh
-- **Persistence:** 2x recent / 2x lifetime
-- **What would promote:** more recent runs OR fresher evidence files
-- **Why it matters:** Repo 'slimy-harness' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
-
-### [todo-2026-04-16-007] NUC1 repo has uncommitted changes: stoat-source
-
-- **Project:** stoat-source | **Severity:** HIGH | **Freshness:** fresh
-- **Persistence:** 2x recent / 2x lifetime
-- **What would promote:** more recent runs OR fresher evidence files
-- **Why it matters:** Repo 'stoat-source' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
-
-### [todo-2026-04-16-008] NUC1 repo has uncommitted changes: mailbox_outbox
-
-- **Project:** mailbox_outbox | **Severity:** HIGH | **Freshness:** fresh
-- **Persistence:** 2x recent / 2x lifetime
-- **What would promote:** more recent runs OR fresher evidence files
-- **Why it matters:** Repo 'mailbox_outbox' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
-
-### [todo-2026-04-16-009] NUC1 repo has uncommitted changes: slimy-chat
-
-- **Project:** slimy-chat | **Severity:** HIGH | **Freshness:** fresh
-- **Persistence:** 2x recent / 2x lifetime
-- **What would promote:** more recent runs OR fresher evidence files
-- **Why it matters:** Repo 'slimy-chat' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
-
-### [todo-2026-04-16-010] NUC1 repo has uncommitted changes: clawd
-
-- **Project:** clawd | **Severity:** HIGH | **Freshness:** fresh
-- **Persistence:** 2x recent / 2x lifetime
-- **What would promote:** more recent runs OR fresher evidence files
-- **Why it matters:** Repo 'clawd' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
-
-### [todo-2026-04-16-011] NUC1 repo has uncommitted changes: ned-clawd
-
-- **Project:** ned-clawd | **Severity:** HIGH | **Freshness:** fresh
-- **Persistence:** 2x recent / 2x lifetime
-- **What would promote:** more recent runs OR fresher evidence files
-- **Why it matters:** Repo 'ned-clawd' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
 
 ## Not Candidate (4 tasks)
 

@@ -55,13 +55,13 @@ Mission Control is a coordination surface for tasks, agents, comms, calendar, me
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-04-16T00:22:09Z
+**Last updated:** 2026-04-16T12:23:09Z
 **NUC1 status:** DIRTY, synced
 **NUC1 commit:** `b106eb1` — chore: install agent harness from slimy-harness
 **Branch:** main
 
 ### Open Issues
-- **[HIGH/emerging]** NUC1 repo has uncommitted changes: mission-control (repo_drift, 2x, fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mission-control (repo_drift, 3x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`

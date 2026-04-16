@@ -651,3 +651,16 @@
 - notes: auto-maintenance from kb-maintenance.sh 2026-04-16T12:23:03Z
 
 
+## [2026-04-16 12:23] wiki_manager | stage1.86 todo queue generation
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - raw/inbox-nuc1/2026-04-16-nuc1-repos.json
+  - raw/inbox-nuc1/2026-04-16-nuc1-repos.md
+  - raw/inbox-nuc1/2026-04-16-nuc1-state.md
+  - raw/research/2026-04-16-slimy-nuc2-state.md
+- summary: stage1.86 todo queue generation
+- commit: e689fae
+- notes: stage1.86 run: todos=20 nuc1_items=18 nuc1_evidence=YES
+
+

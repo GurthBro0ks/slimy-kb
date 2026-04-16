@@ -22,13 +22,13 @@ AI agent workspace similar to clawd with session management, memory protocols, h
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-04-16T00:22:09Z
+**Last updated:** 2026-04-16T12:23:09Z
 **NUC1 status:** DIRTY, synced
 **NUC1 commit:** `d6bada4` — docs: auto-sync project docs from slimy-nuc1 2026-04-11
 **Branch:** master
 
 ### Open Issues
-- **[HIGH/emerging]** NUC1 repo has uncommitted changes: ned-clawd (repo_drift, 2x, fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-clawd (repo_drift, 3x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`

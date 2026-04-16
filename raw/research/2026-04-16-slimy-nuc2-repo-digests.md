@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-04-16T00:22:09Z
+# NUC2 Repo Digests — 2026-04-16T12:23:09Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-04-16T00:22:09Z
+**Timestamp:** 2026-04-16T12:23:09Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -11,8 +11,8 @@
 - **Path:** `/home/slimy/clawd`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 23a4871
-- **Subject:** docs: compound nightly review - 14+ days silence, NUC1 still down
+- **Commit:** 6b7ac94
+- **Subject:** docs: compound nightly review 2026-04-16
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/clawd.git
 
@@ -28,8 +28,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** acb1da7
-- **Subject:** kb: maintenance run 2026-04-16-0022 from slimy-nuc2
+- **Commit:** e689fae
+- **Subject:** kb: maintenance run 2026-04-16-1223 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -59,8 +59,8 @@
 - **Path:** `/home/slimy/mission-control`
 - **Git:** True
 - **Branch:** main
-- **Commit:** e92a2dd
-- **Subject:** docs: auto-sync project docs from slimy-nuc2 2026-04-10
+- **Commit:** 957ae5e
+- **Subject:** chore: add per-repo harness templates + fix next.config for standalone build
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/mission-control.git
 - **Name:** mission-control
