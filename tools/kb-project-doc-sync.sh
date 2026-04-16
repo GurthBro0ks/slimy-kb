@@ -84,6 +84,21 @@ HOST=$(hostname -s)
 TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)
 TODAY=$(date +%Y-%m-%d)
 
+# Phase 4: daily dedupe — if HEAD is already today's auto-sync commit, check for
+# new changes. If the working tree has no dirty doc files, skip entirely.
+# If there ARE dirty doc files (something new happened), allow re-sync.
+AUTO_SYNC_PATTERN="docs: auto-sync project docs from ${HOST} ${TODAY}"
+HEAD_SUBJECT=$(git --no-pager -C "$REPO_PATH" log -1 --format="%s" 2>/dev/null || true)
+if [[ "$HEAD_SUBJECT" == "$AUTO_SYNC_PATTERN" ]]; then
+    DOC_DIRTY_COUNT=$(git --no-pager -C "$REPO_PATH" status --porcelain -- README.md CHANGELOG.md VERSION.md 2>/dev/null | wc -l | tr -d ' ' || true)
+    if [[ "$DOC_DIRTY_COUNT" -eq 0 ]]; then
+        echo "[kb-project-doc-sync] SKIP: $REPO_PATH already auto-synced today (daily dedupe)"
+        exit 0
+    else
+        echo "[kb-project-doc-sync] NOTE: $REPO_PATH has today's auto-sync but $DOC_DIRTY_COUNT new doc change(s) — re-syncing"
+    fi
+fi
+
 # Derive project slug from directory name
 PROJECT_SLUG=$(basename "$REPO_PATH" | tr '.' '-')
 PROJECT_NAME=$(basename "$REPO_PATH" | tr '-' '_' | tr '[:lower:]' '[:upper:]')

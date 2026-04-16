@@ -215,6 +215,16 @@ is_https_github_remote() {
     [[ "$remote_url" == https://github.com/* ]]
 }
 
+# Phase 4: check if repo already has an auto-sync commit from today.
+# Matches commit subject: "docs: auto-sync project docs from <host> YYYY-MM-DD"
+has_auto_sync_today() {
+    local repo="$1"
+    local pattern="docs: auto-sync project docs from ${HOST} ${TODAY}"
+    local head_subject
+    head_subject=$(git --no-pager -C "$repo" log -1 --format="%s" 2>/dev/null || true)
+    [[ "$head_subject" == "$pattern" ]]
+}
+
 # Commit and push changed project repos (non-kb), track failures for ALERTS
 ALERT_MSG=""
 if [[ "$DRY_RUN" != "--dry-run" && ${#REPOS[@]} -gt 0 ]]; then
@@ -246,6 +256,11 @@ if [[ "$DRY_RUN" != "--dry-run" && ${#REPOS[@]} -gt 0 ]]; then
                 done < <(git --no-pager -C "$repo" status --porcelain 2>/dev/null)
                 if [[ "$NON_DOC_DIRTY" -eq 1 ]]; then
                     echo "[slimy-agent-finish] SKIP commit: $repo has non-doc dirty files (would pollute)"
+                    continue
+                fi
+                # Phase 4: daily dedupe — skip if HEAD is already today's auto-sync commit
+                if has_auto_sync_today "$repo"; then
+                    echo "[slimy-agent-finish] SKIP commit: $repo already auto-synced today (dedupe)"
                     continue
                 fi
                 echo "[slimy-agent-finish] Committing changes in $repo..."
