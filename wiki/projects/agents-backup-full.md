@@ -9,7 +9,11 @@
 > Version: r4 / 56f8615
 KB METADATA -->
 
-Full mirror of wshobson/agents — Claude Code plugin marketplace backup. Not actively used on NUC2.
+Full mirror of wshobson/agents — the Claude Code plugin marketplace. Archived and not actively used on NUC2.
+
+## Why It Matters
+
+This is a safety net backup of the Claude Code plugin ecosystem (112 specialized agents, 146 skills, 72 plugins, 16 multi-agent orchestrators). While not actively used in day-to-day operations, it represents a library of pre-built agent capabilities that could be referenced or adapted for SlimyAI agent development.
 
 ## Runtime State (NUC2)
 - **Path:** `/home/slimy/.claude/agents-backup-full`
@@ -25,8 +29,19 @@ Full mirror of wshobson/agents — Claude Code plugin marketplace backup. Not ac
 - **Services:** none
 - **Risks:** none (read-only backup)
 
-## Note
-`/home/slimy/.claude/agents` symlink does not exist — only `agents-backup-full` exists at this path.
+## Current Role in the System
+- Passive backup — receives auto-sync docs commits but nothing else
+- No services, no daemons, no integration with active infrastructure
+- Could be used as reference material for building SlimyAI agents
+
+## Important Note
+`/home/slimy/.claude/agents` symlink does not exist — only `agents-backup-full` exists at this path. Do not expect a symlink.
+
+## Operational Notes
+- Safe to ignore during routine operations
+- No maintenance required beyond the auto-sync docs that land via cron
+- If disk space is needed, this is a low-risk candidate for removal (content exists on GitHub)
 
 ## See Also
-- [Agents Plugin Ecosystem](agents-plugin-ecosystem.md)
+- [Agents Plugin Ecosystem](agents-plugin-ecosystem.md) — plugin/agent/skill orchestration system
+- [NUC2 Server State](../architecture/nuc2-server-state.md)

@@ -10,7 +10,11 @@
 > Version: r5 / 56f8615
 KB METADATA -->
 
-Server-side automation scripts that maintain the Obsidian vault on NUC2, including daily notes, operator checklists, AI recommendations, and idea ingestion.
+Server-side automation scripts that maintain the Obsidian vault on NUC2. These scripts are the glue between human capture and the canonical KB — they generate daily notes, operator checklists, AI recommendations, and handle idea ingestion.
+
+## Why It Matters
+
+This is the bridge between the human-facing Obsidian vault and the machine-maintained knowledge base. Without these scripts, the vault would be a static file collection. With them, it becomes a living system: daily notes auto-populate with project health, recommendations surface what needs attention, and ideas flow from capture into the KB compilation pipeline.
 
 ## Vault Structure
 
@@ -83,12 +87,24 @@ Scans version information across all known repos. Generates `output/version-scan
 | `wiki vault-sync` | `kb-obsidian-sync.sh` | KB wiki → vault Wiki/ | Mirrors canonical wiki into vault (read-only for humans) |
 | `wiki vault-ingest` | `kb-obsidian-ingest.sh` | vault → KB raw | Ingests user content from vault Inbox into KB raw |
 
+## Host / Location
+- **NUC2** — all scripts run on NUC2
+- **Script location:** `/home/slimy/kb/tools/`
+- **Vault location:** `/home/slimy/obsidian/slimyai-vault`
+- **KB location:** `/home/slimy/kb`
+
+## Current Role in the System
+- Powers the daily note automation (populated by kb-daily-note.timer at 06:00 UTC)
+- Feeds the KB compilation pipeline via idea ingestion
+- Generates recommendations for the operator
+- Runs the vault mirror sync (wiki → vault Wiki/ directory)
+
 ## Canonical Rule
 - Canonical compiled wiki: `/home/slimy/kb/wiki`
 - Obsidian `Wiki/` is a browse-only mirror
 - Never treat mirrored `Wiki/` files as editable source of truth
 
-## Operator Flow (Capture -> Sync)
+## Operator Flow (Capture → Sync)
 1. Capture in `Inbox/articles`, `Inbox/images`, `Inbox/notes`, or `Projects`
 2. Run ingest (`Slimy: Vault Ingest` or `wiki vault-ingest`)
 3. Review the latest ingest/output report (`wiki open-report latest`)
@@ -128,3 +144,4 @@ bash /home/slimy/kb/tools/kb-idea-ingest.sh
 - [Operator Console](operator-console.md) — KB operations decision tree
 - [Knowledge Base Build Pipeline](../architecture/knowledge-base-build-pipeline.md) — end-to-end intake lifecycle
 - [Obsidian Headless Sync](obsidian-headless-sync.md) — PM2 vault sync process
+- [Wiki Manager Operator Runbook](../wiki-manager-operator-runbook.md) — automated wiki-manager pipeline

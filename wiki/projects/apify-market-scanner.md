@@ -10,11 +10,15 @@
 > Version: r5 / 56f8615
 KB METADATA -->
 
-Apify Market Scanner is an Apify-based market data scraping tool for the trading pipeline.
+Apify-based market data scraping tool for the trading pipeline. Currently in MAINTENANCE/IDLE status — not actively deployed or running.
+
+## Why It Matters
+
+This tool was built to feed market data into the trading pipeline (pm_updown_bot_bundle). Its current dormancy means the trading pipeline may be missing a data source. If the trading bot resumes active trading, this scanner may need to be reactivated or replaced.
 
 ## Identification
 - **GitHub:** GurthBro0ks/apify-market-scanner
-- **Local path:** `/opt/slimy/apify-market-scanner`
+- **Local path:** `/opt/slimy/apify-market-scanner` (NUC1)
 - **Remote:** `git@github.com:GurthBro0ks/apify-market-scanner.git`
 - **Branch:** master; last commit `51a84b0` ("docs: auto-sync")
 - **Dirty:** YES (1 uncommitted)
@@ -27,12 +31,27 @@ No active service on NUC1 (confirmed 2026-04-09):
 - No Docker container
 - No cron entries referencing this repo directly
 
-**Integration point:** May be invoked by `pm_updown_bot_bundle` data collection (`ml/data_collector` every 2h), but unconfirmed.
+## Current Role in the System
+- **Dormant.** Last commits are auto-sync docs only.
+- May have been a data source for `pm_updown_bot_bundle` data collection (`ml/data_collector` runs every 2h on NUC1), but this integration is unconfirmed.
+- No services to monitor, no health checks needed.
 
-## Classification
-- **MAINTENANCE/IDLE** — Not actively deployed as a service
-- Last commit predates active pm_updown_bot_bundle development
-- Runtime evidence: absent; integration unconfirmed
+## Known Status
+- 1 uncommitted change in working tree
+- No active development
+- Repo receives auto-sync docs commits passively
+
+## Relationships / Dependencies
+- **Downstream of:** Apify platform (external)
+- **Upstream of:** Possibly pm_updown_bot_bundle (unconfirmed)
+- **Related:** [PM UpDown Bot Bundle](pm-updown-bot-bundle.md)
+
+## Operational Notes
+- If trading pipeline resumes, check whether Apify actors need reactivation
+- The dirty working tree should be investigated if this project is reactivated
+- Consider archiving or removing if trading pipeline moves to different data sources
 
 ## See Also
 - [PM UpDown Bot Bundle](pm-updown-bot-bundle.md)
+- [Kalshi AI Trading Bot](kalshi-ai-trading-bot.md) — other trading project
+- [NUC1 Current State](../architecture/nuc1-current-state.md)
