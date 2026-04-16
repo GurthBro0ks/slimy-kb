@@ -4,8 +4,8 @@
 > Host: slimy-nuc2
 
 <!-- KB METADATA
-> Last edited: 2026-04-16 13:10 UTC (git)
-> Version: r53 / 191d682
+> Last edited: 2026-04-16 19:36 UTC (git)
+> Version: r54 / 98f6e61
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap

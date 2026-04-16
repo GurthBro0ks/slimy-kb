@@ -6,8 +6,8 @@
 > Status: reviewed
 
 <!-- KB METADATA
-> Last edited: 2026-04-08 21:32 UTC (git)
-> Version: r2 / 9e902c0
+> Last edited: 2026-04-16 19:36 UTC (git)
+> Version: r3 / 98f6e61
 KB METADATA -->
 
 Server-side automation scripts that maintain the Obsidian vault on NUC2, including daily notes, operator checklists, AI recommendations, and idea ingestion.

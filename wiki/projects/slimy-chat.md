@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-04-16 12:23 UTC (git)
-> Version: r5 / 1984533
+> Last edited: 2026-04-16 19:36 UTC (git)
+> Version: r6 / 98f6e61
 KB METADATA -->
 
 Slimy Chat is a Revolt-based self-hosted chat platform at chat.slimyai.xyz. Invite-only registration with email verification.
