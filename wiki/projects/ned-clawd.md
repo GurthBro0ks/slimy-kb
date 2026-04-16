@@ -6,7 +6,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-04-16 19:36 UTC (git)
-> Version: r5 / 98f6e61
+> Version: r6 / bc27293
 KB METADATA -->
 
 AI agent workspace similar to clawd with session management, memory protocols, heartbeats, and group chat safety. Contains scripts/mc-notify.sh for Mission Control integration.
