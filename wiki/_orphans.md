@@ -4,8 +4,8 @@
 > Generated: 2026-04-16T12:23:04Z by kb-lint.sh
 
 <!-- KB METADATA
-> Last edited: 2026-04-16 19:36 UTC (git)
-> Version: r16 / bc27293
+> Last edited: 2026-04-16 19:37 UTC (git)
+> Version: r17 / 56f8615
 KB METADATA -->
 
 **Total orphans: 15**
