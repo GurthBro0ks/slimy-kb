@@ -3,6 +3,11 @@
 > Pages with only 1 inbound link (weak connectivity). These may need more cross-linking.
 > Generated: 2026-04-16T12:23:04Z by kb-lint.sh
 
+<!-- KB METADATA
+> Last edited: 2026-04-16 12:23 UTC (git)
+> Version: r14 / e689fae
+KB METADATA -->
+
 **Total weak links: 8**
 
 - `projects/chat-app.md (1 inbound link)`

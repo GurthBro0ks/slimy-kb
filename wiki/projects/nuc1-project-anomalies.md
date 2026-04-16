@@ -5,6 +5,11 @@
 > Updated: 2026-04-05
 > Status: draft
 
+<!-- KB METADATA
+> Last edited: 2026-04-05 16:50 UTC (git)
+> Version: r1 / 8fa2ecc
+KB METADATA -->
+
 Anomalies and discrepancies found during NUC1 project discovery (2026-04-05).
 
 ## Anomaly 1: mailbox_ingest NOT FOUND — mailbox_outbox exists instead

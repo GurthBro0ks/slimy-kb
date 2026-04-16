@@ -1948,6 +1948,23 @@ def main():
     print(f"Candidate review pack: {CANDIDATE_REVIEW_PACK}")
     print(f"Backend: {args.backend}")
 
+    # Refresh git-backed metadata on all wiki pages
+    import subprocess as _sp
+
+    try:
+        _result = _sp.run(
+            ["python3", str(Path("/home/slimy/kb/tools/kb-apply-metadata.py"))],
+            capture_output=True,
+            text=True,
+            timeout=60,
+        )
+        if _result.returncode == 0:
+            print(f"Metadata refresh: {_result.stdout.strip()}")
+        else:
+            print(f"Metadata refresh warning: {_result.stderr.strip()[:200]}")
+    except Exception as _e:
+        print(f"Metadata refresh skipped: {_e}")
+
 
 if __name__ == "__main__":
     main()

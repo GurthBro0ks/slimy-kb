@@ -3,6 +3,11 @@
 > Category: concepts
 > Updated: 2026-04-16T12:23:09Z
 
+<!-- KB METADATA
+> Last edited: 2026-04-16 12:23 UTC (git)
+> Version: r17 / 1984533
+KB METADATA -->
+
 **Last run:** 2026-04-16T12:23:09Z
 **Stage:** 1.86
 **Backend:** stub

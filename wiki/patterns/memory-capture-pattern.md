@@ -5,6 +5,11 @@
 > Updated: 2026-04-04
 > Status: draft
 
+<!-- KB METADATA
+> Last edited: 2026-04-05 16:10 UTC (git)
+> Version: r3 / 352dcae
+KB METADATA -->
+
 This pattern separates short-term logs from durable knowledge.
 
 ## Pattern

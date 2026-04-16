@@ -1,6 +1,11 @@
 # Concept Registry
 > Quick-lookup flat list of all concepts. Auto-maintained.
 
+<!-- KB METADATA
+> Last edited: 2026-04-16 13:10 UTC (git)
+> Version: r9 / 191d682
+KB METADATA -->
+
 - Agent session contract
 - Source of truth ledgers
 - Truth gate

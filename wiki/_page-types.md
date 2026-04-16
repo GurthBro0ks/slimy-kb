@@ -3,6 +3,11 @@
 > This doc describes the 9 standard wiki page types, their required sections, filename patterns, and backlink/ Sources handling.
 > Legacy pages using `> Category:` frontmatter remain valid. New and updated pages should use YAML frontmatter with `page_type`.
 
+<!-- KB METADATA
+> Last edited: 2026-04-09 14:32 UTC (git)
+> Version: r1 / 36f7eed
+KB METADATA -->
+
 ## The 9 Page Types
 
 ### 1. entity

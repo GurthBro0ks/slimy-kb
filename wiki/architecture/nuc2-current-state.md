@@ -4,6 +4,11 @@
 > Updated: 2026-04-16T12:23:09Z
 > Status: active
 
+<!-- KB METADATA
+> Last edited: 2026-04-16 12:23 UTC (git)
+> Version: r14 / 1984533
+KB METADATA -->
+
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host

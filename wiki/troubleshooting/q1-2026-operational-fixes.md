@@ -5,6 +5,11 @@
 > Updated: 2026-04-04
 > Status: draft
 
+<!-- KB METADATA
+> Last edited: 2026-04-04 13:52 UTC (git)
+> Version: r2 / 8b174cb
+KB METADATA -->
+
 This article captures recurring failures and proven fixes from recent execution history.
 
 ## Database target mismatch in web env

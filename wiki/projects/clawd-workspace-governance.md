@@ -5,6 +5,11 @@
 > Updated: 2026-04-09
 > Status: reviewed
 
+<!-- KB METADATA
+> Last edited: 2026-04-09 11:53 UTC (git)
+> Version: r4 / 758e457
+KB METADATA -->
+
 ## Project Metadata
 - **Host:** NUC1
 - **Repo path:** `/home/slimy/clawd`

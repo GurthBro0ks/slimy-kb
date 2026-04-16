@@ -4,6 +4,11 @@
 > Created: 2026-04-09
 > Status: draft
 
+<!-- KB METADATA
+> Last edited: 2026-04-09 11:50 UTC (git)
+> Version: r1 / 35d93e8
+KB METADATA -->
+
 Full mirror of wshobson/agents — Claude Code plugin marketplace backup. Not actively used on NUC2.
 
 ## Runtime State (NUC2)

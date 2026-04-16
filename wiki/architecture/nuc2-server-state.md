@@ -6,6 +6,11 @@
 > Note: seed-server-state.md last updated 2026-03-31. Content is current — no structural changes since last compile. Updated date only.
 > Status: reviewed
 
+<!-- KB METADATA
+> Last edited: 2026-04-10 20:12 UTC (git)
+> Version: r2 / 727abb4
+KB METADATA -->
+
 Canonical server state snapshot for slimy-nuc2. See also [NUC Topology and Services](nuc-topology-and-services.md) for cross-NUC service placement.
 
 ## Machine

@@ -34,6 +34,7 @@ Usage:
   wiki changelog [--dry-run]
   wiki ideas-ingest [--dry-run]
   wiki calendar-sync [--dry-run]
+  wiki metadata [--dry-run] [--page <path>]
   wiki help
 
 Examples:
@@ -59,6 +60,8 @@ Examples:
   wiki changelog
   wiki ideas-ingest
   wiki calendar-sync
+  wiki metadata
+  wiki metadata --page wiki/projects/slimy-kb.md
 
 Notes:
   vault-ingest writes a run report to:
@@ -767,6 +770,10 @@ run_calendar_sync() {
     bash "$KB_ROOT/tools/kb-calendar-sync.sh" "$@"
 }
 
+run_metadata() {
+    python3 "$KB_ROOT/tools/kb-apply-metadata.py" "$@"
+}
+
 main() {
     local cmd="${1:-help}"
     case "$cmd" in
@@ -845,6 +852,10 @@ main() {
         calendar-sync)
             shift
             run_calendar_sync "$@"
+            ;;
+        metadata)
+            shift
+            run_metadata "$@"
             ;;
         help|-h|--help)
             usage

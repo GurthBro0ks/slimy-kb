@@ -4,6 +4,11 @@
 > Status: active
 > Updated: 2026-04-09
 
+<!-- KB METADATA
+> Last edited: 2026-04-09 15:09 UTC (git)
+> Version: r1 / d797fb6
+KB METADATA -->
+
 ## Purpose
 
 `raw/inbox-nuc1/` is the drop-off point for NUC1-sourced digests, reports, and notes that NUC2's wiki manager processes. This keeps inter-NUC intelligence flowing through the KB without building a separate transport system.

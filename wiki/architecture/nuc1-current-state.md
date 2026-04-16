@@ -5,6 +5,11 @@
 > Sources: raw/inbox-nuc1/
 > Status: active
 
+<!-- KB METADATA
+> Last edited: 2026-04-16 12:23 UTC (git)
+> Version: r15 / 1984533
+KB METADATA -->
+
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host

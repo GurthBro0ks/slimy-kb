@@ -65,6 +65,12 @@ cp "$KB_ROOT/wiki/_weak-links.md" "$PROOF_DIR/" 2>/dev/null || true
 log_step "Appending maintenance log entry..."
 bash "$KB_TOOLS/kb-log-append.sh" maintenance "12h maintenance run" "auto-maintenance from kb-maintenance.sh $RUN_TS" >> "$PROOF_DIR/step5-log.log" 2>&1
 
+# ── STEP 5b: Refresh git-backed metadata ──────────────────────────────────────
+log_step "Refreshing page metadata..."
+python3 "$KB_TOOLS/kb-apply-metadata.py" >> "$PROOF_DIR/step5b-metadata.log" 2>&1 || {
+    echo "WARNING: metadata refresh failed" >> "$PROOF_DIR/step5b-metadata.log"
+}
+
 # ── STEP 6: Git add ──────────────────────────────────────────────────────────
 log_step "Checking git status..."
 cd "$KB_ROOT"
@@ -110,6 +116,7 @@ bash "$KB_TOOLS/kb-obsidian-sync.sh" >> "$PROOF_DIR/step9-vault-sync.log" 2>&1 |
     echo "3. file-back — compile candidate status (see Step 2 for details)"
     echo "4. lint — kb-lint.sh (with orphans + weak-links)"
     echo "5. log — appended maintenance entry to wiki/log.md"
+    echo "5b. metadata — kb-apply-metadata.py (git-backed last-edited/version)"
     echo "6. commit — git commit if changes existed"
     echo "7. push — sync push to origin"
     echo "8. vault-mirror — kb-obsidian-sync.sh (wiki → vault)"

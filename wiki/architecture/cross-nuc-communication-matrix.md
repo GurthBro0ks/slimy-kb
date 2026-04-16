@@ -5,6 +5,11 @@
 > Updated: 2026-04-05
 > Status: draft
 
+<!-- KB METADATA
+> Last edited: 2026-04-05 12:13 UTC (git)
+> Version: r2 / 84c2ec3
+KB METADATA -->
+
 This matrix documents the known communication paths between NUC1 and NUC2, with ownership and failure signatures.
 
 ## Channel Matrix

@@ -3,6 +3,11 @@
 > Append-only event log. Do not edit or delete prior entries.
 > Host: slimy-nuc2
 
+<!-- KB METADATA
+> Last edited: 2026-04-16 13:10 UTC (git)
+> Version: r53 / 191d682
+KB METADATA -->
+
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
 - actor: kb-maintenance
 - host: slimy-nuc2

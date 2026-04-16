@@ -5,6 +5,11 @@
 > Updated: 2026-04-08
 > Status: reviewed
 
+<!-- KB METADATA
+> Last edited: 2026-04-16 12:23 UTC (git)
+> Version: r9 / 1984533
+KB METADATA -->
+
 SlimyAI workspace agent operating rules, compiled from the canonical `AGENTS.md` found in the Clawd workspace directory.
 
 ## Session Startup
