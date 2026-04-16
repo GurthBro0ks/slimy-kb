@@ -10,12 +10,15 @@ This runbook describes the wiki-manager system on NUC2 — what runs automatical
 
 ## What Runs Automatically
 
-Three systemd user timers run on NUC2:
+Six systemd user timers run on NUC2:
 
 | Timer | Interval | What it does |
 |-------|----------|--------------|
-| `kb-maintenance.timer` | Every 12h | Pull KB, run lint, log to `wiki/log.md` |
+| `kb-maintenance.timer` | Every 12h | Pull KB, run lint, sync wiki→vault, log to `wiki/log.md` |
 | `wiki-manager-stage1.timer` | Every 12h | Full Stage 1.86 pipeline (see below) |
+| `kb-daily-note.timer` | Daily 06:00 UTC | Populates `vault/Daily/TODAY.md` via calendar-sync |
+| `obsidian-sync.timer` | Every 5 min | One-shot Obsidian cloud sync (bidirectional) |
+| `nuc1-remote-gate.timer` | Every 12h | NUC1 remote health gate |
 | `nuc1-kb-digest.timer` | (NUC1 side) | Publishes digest into NUC2 inbox-nuc1 |
 
 **Wiki manager is the primary automated operator tool.** It does NOT dispatch harness jobs — it produces advisory queues for human review.
@@ -166,7 +169,9 @@ The wiki-manager Stage 1.86 is an **advisory system only.** The following are de
 - **Cross-NUC git reconciliation** — dirty/drifted repos require human judgment to merge.
 - **Project page content changes** — machine-managed blocks are updated, but human content outside the markers is preserved.
 - **KB content compilation** — raw → wiki compilation is not automated; it requires an agent to run `wiki compile`.
-- **Obsidian vault sync** — runs on a separate timer (`obsidian-headless-sync`).
+- **Obsidian vault sync** — now automated via `obsidian-sync.timer` (every 5 min, one-shot).
+- **Daily note population** — now automated via `kb-daily-note.timer` (daily 06:00 UTC).
+- **Wiki → vault mirror** — now automated as a step in `kb-maintenance.sh`.
 
 ---
 

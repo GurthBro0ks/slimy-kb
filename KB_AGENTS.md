@@ -71,10 +71,31 @@ It executes `kb-maintenance.sh` which:
 3. Runs lint (generates `_orphans.md` and `_weak-links.md`)
 4. Appends a maintenance log entry to `wiki/log.md`
 5. Commits and pushes if changes exist
-6. Writes a proof bundle to `/tmp/proof_kb_maintenance_YYYYMMDDTHHMMSSZ/`
+6. Syncs wiki to Obsidian vault via `kb-obsidian-sync.sh` (read-only mirror)
+7. Writes a proof bundle to `/tmp/proof_kb_maintenance_YYYYMMDDTHHMMSSZ/`
 
 To manually trigger: `systemctl --user start kb-maintenance.service`
 To check status: `systemctl --user list-timers --all | grep kb-maintenance`
+
+## Daily Note Automation (NUC2)
+A systemd user timer `kb-daily-note.timer` fires at 06:00 UTC daily.
+It executes `kb-calendar-sync.sh` which populates `obsidian/slimyai-vault/Daily/TODAY.md`.
+
+**Authority rule:** The server-side calendar-sync is the authoritative writer for Daily/TODAY.md.
+If a blank desktop-created daily note exists (from Obsidian Sync), calendar-sync overwrites it.
+This runs before the morning operator workflow so the daily note is always populated.
+
+To manually trigger: `systemctl --user start kb-daily-note.service`
+
+## Obsidian Sync (NUC2)
+Obsidian Sync runs via systemd timer `obsidian-sync.timer` (every 5 minutes, one-shot).
+It executes `ob sync --path /home/slimy/obsidian/slimyai-vault` for bidirectional vault sync.
+
+This replaced the previous PM2 continuous mode which had lock contention issues ("Another sync instance already running").
+One-shot mode eliminates lock contention by ensuring each sync run completes before the next starts.
+
+To manually trigger: `systemctl --user start obsidian-sync.service`
+To check status: `systemctl --user list-timers --all | grep obsidian-sync`
 
 ## Wiki Manager Stage 1.86 (NUC2)
 

@@ -89,7 +89,13 @@ bash "$KB_TOOLS/kb-sync.sh" push >> "$PROOF_DIR/step8-push.log" 2>&1 || {
     EXIT_CODE=1
 }
 
-# ── STEP 9: Proof bundle ─────────────────────────────────────────────────────
+# ── STEP 9: Vault mirror ─────────────────────────────────────────────────────
+log_step "Syncing wiki to Obsidian vault..."
+bash "$KB_TOOLS/kb-obsidian-sync.sh" >> "$PROOF_DIR/step9-vault-sync.log" 2>&1 || {
+    echo "WARNING: vault sync failed" >> "$PROOF_DIR/step9-vault-sync.log"
+}
+
+# ── STEP 10: Proof bundle ────────────────────────────────────────────────────
 {
     echo "# KB Maintenance Proof Bundle"
     echo ""
@@ -106,6 +112,7 @@ bash "$KB_TOOLS/kb-sync.sh" push >> "$PROOF_DIR/step8-push.log" 2>&1 || {
     echo "5. log — appended maintenance entry to wiki/log.md"
     echo "6. commit — git commit if changes existed"
     echo "7. push — sync push to origin"
+    echo "8. vault-mirror — kb-obsidian-sync.sh (wiki → vault)"
     echo ""
     echo "## Generated Files"
     echo ""
