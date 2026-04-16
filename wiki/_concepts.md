@@ -30,3 +30,4 @@
 - Cooling down
 - Evidence window
 - Machine-managed wiki pages
+- Doc-sync hygiene (allowlist, conditional write, push-or-revert, session-scoped, daily dedupe)

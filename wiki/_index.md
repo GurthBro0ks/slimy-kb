@@ -59,7 +59,7 @@
 ### Architecture
 - [Auth and Retired Services](architecture/auth-and-retired-services.md) - Current auth stack and intentionally dead services.
 - [Cross-NUC Communication Matrix](architecture/cross-nuc-communication-matrix.md) - Channel-by-channel map of NUC1/NUC2 transport, auth, ownership, and failures.
-- [Harness Runtime Topology](architecture/harness-runtime-topology.md) - Placement and supervisor ownership of harness, mailbox, and runtime control components.
+- [Harness Runtime Topology](architecture/harness-runtime-topology.md) - Placement and supervisor ownership of harness, mailbox, runtime control, and doc-sync hygiene.
 - [Knowledge Base Build Pipeline](architecture/knowledge-base-build-pipeline.md) - Canonical raw-to-wiki, query/file-back, index maintenance, and cross-NUC sync lifecycle.
 - [Wiki Manager Operator Runbook](wiki-manager-operator-runbook.md) - Operator guide for wiki-manager Stage 1.86: timers, outputs, candidate promotion, troubleshooting.
 - [NUC2 Server State](architecture/nuc2-server-state.md) - Canonical server state for slimy-nuc2: machine, repos, PM2, MySQL.

@@ -2,7 +2,7 @@
 > Category: patterns
 > Sources: raw/decisions/seed-agents-rules.md, raw/decisions/seed-clawd-agents.md, raw/decisions/seed-workspace-agents.md, raw/agent-learnings/seed-progress-history.md
 > Created: 2026-04-04
-> Updated: 2026-04-08
+> Updated: 2026-04-16
 > Status: reviewed
 
 This pattern standardizes how a SlimyAI agent session is opened and closed.
@@ -71,7 +71,18 @@ The harness Stop hook (`slimy-session-finish.sh`) runs automatically at session 
 
 Bounded scope = active repo only. `--quiet` on `slimy-agent-finish.sh` suppresses ALERT; `--repo /path` activates bounded mode (no multi-repo scan).
 
-See [Harness Runtime Topology](../architecture/harness-runtime-topology.md) for the full dispatch matrix.
+### Doc-Sync Hygiene (Phases 1–4, Complete 2026-04-16)
+
+The session finish doc-sync subsystem now has four guardrail layers preventing noisy multi-repo auto-sync:
+
+1. **Allowlist** (`kb/config/doc-sync-allowlist.txt`): only listed repos are eligible for doc-sync. 6 repos currently allowed.
+2. **Skip guards**: dirty trees with non-doc changes, repos with no remote, and already-synced-today repos are all skipped.
+3. **Session-scoped default**: `slimy-agent-finish.sh` without `--repo` or `--scan-all` touches zero repos. Broad sweep requires explicit `--scan-all`.
+4. **Daily dedupe**: if HEAD is already today's auto-sync commit and no doc files are dirty, skip entirely.
+
+Result: the broad/noisy multi-repo doc-sync behavior that previously caused mission-control divergence (15/4) is no longer the default.
+
+See [Harness Runtime Topology](../architecture/harness-runtime-topology.md) for the full dispatch matrix and detailed phase documentation.
 
 ## See Also
 - [Agent Session Contract](../concepts/agent-session-contract.md)

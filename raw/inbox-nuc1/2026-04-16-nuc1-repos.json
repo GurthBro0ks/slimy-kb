@@ -1,5 +1,5 @@
 {
-  "ts": "20260416T003301Z",
+  "ts": "20260416T123401Z",
   "hostname": "unknown",
   "count": 16,
   "repos": [
@@ -85,9 +85,9 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "63393f44066b",
-      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
-      "dirty": true,
+      "commit_hash": "ab5eba7e838e",
+      "commit_subject": "docs(harness): doc-sync hygiene Phase 4 \u2014 daily dedupe docs + proof bundle",
+      "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
@@ -96,7 +96,7 @@
       },
       "kb_bridge_present": false,
       "kb_harness_present": false,
-      "dirty_count": 1
+      "dirty_count": 0
     },
     {
       "name": "kb",
@@ -104,8 +104,8 @@
       "relative_path": "kb",
       "ok": true,
       "branch": "main",
-      "commit_hash": "9bcdfaba9d99",
-      "commit_subject": "kb: child-compile 20260414-191820",
+      "commit_hash": "f15a5ebbf5d6",
+      "commit_subject": "feat(doc-sync): daily dedupe \u2014 skip same-day duplicate auto-sync commits (Phase 4)",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-kb",
       "ahead_behind": {
@@ -239,7 +239,7 @@
       "remote": "github.com:GurthBro0ks/slimy-monorepo",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 4,
+        "ahead": 6,
         "behind": 5
       },
       "kb_bridge_present": false,

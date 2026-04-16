@@ -664,3 +664,15 @@
 - notes: stage1.86 run: todos=20 nuc1_items=18 nuc1_evidence=YES
 
 
+
+## [2026-04-16 13:30 UTC] FILE_BACK | Harness Doc-Sync Hygiene Completion (Phases 1-4)
+- **Actor:** wiki-manager file-back (agent session)
+- **Host:** slimy-nuc2
+- **Affected paths:**
+  - wiki/architecture/harness-runtime-topology.md — added Doc-Sync Hygiene section, updated failure modes
+  - wiki/patterns/session-closeout-pattern.md — added doc-sync hygiene subsection under Session Finish Behavior
+  - wiki/concepts/truth-gate.md — added Doc-Sync Verification section
+  - wiki/_concepts.md — added doc-sync hygiene concept
+  - wiki/_index.md — updated harness-runtime-topology description
+- **Summary:** Filed back completed harness doc-sync hygiene work (Phases 1-4: allowlist, conditional VERSION.md, push-or-revert, session-scoped default, daily dedupe). Broad/noisy multi-repo doc-sync is no longer the default.
+- **Commit:** pending
