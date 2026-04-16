@@ -1,0 +1,14 @@
+# doc-sync-allowlist.txt
+# Repos explicitly allowed for kb-project-doc-sync.sh automation.
+# One repo path per line. Comments (#) and blank lines are ignored.
+# Everything NOT listed here will be skipped by doc-sync.
+#
+# Managed by: slimy-harness Phase 1 doc-sync hygiene
+# Last updated: 2026-04-16
+
+/home/slimy/slimy-harness
+/home/slimy/mission-control
+/home/slimy/kb
+/home/slimy/slimy-monorepo
+/home/slimy/clawd
+/home/slimy/ned-autonomous

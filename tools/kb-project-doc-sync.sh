@@ -21,8 +21,50 @@ if [[ ! -d "$REPO_PATH" ]]; then
     exit 1
 fi
 
-# Detect git state
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+ALLOWLIST_FILE="${DOC_SYNC_ALLOWLIST:-$SCRIPT_DIR/../config/doc-sync-allowlist.txt}"
+
+is_allowlisted() {
+    local path="$1"
+    [[ ! -f "$ALLOWLIST_FILE" ]] && return 0
+    while IFS= read -r line; do
+        line="${line%%#*}"
+        line="${line%"${line##*[![:space:]]}"}"
+        line="${line#"${line%%[![:space:]]*}"}"
+        [[ -z "$line" ]] && continue
+        [[ "$path" == "$line" ]] && return 0
+    done < "$ALLOWLIST_FILE"
+    return 1
+}
+
+if ! is_allowlisted "$REPO_PATH"; then
+    echo "[kb-project-doc-sync] SKIP: $REPO_PATH not in allowlist ($ALLOWLIST_FILE)"
+    exit 0
+fi
+
 if git --no-pager -C "$REPO_PATH" rev-parse --git-dir >/dev/null 2>&1; then
+    REMOTE_URL=$(git --no-pager -C "$REPO_PATH" remote get-url origin 2>/dev/null || true)
+    if [[ -z "$REMOTE_URL" ]]; then
+        echo "[kb-project-doc-sync] SKIP: $REPO_PATH has no remote origin (local-only)"
+        exit 0
+    fi
+
+    DOC_SYNC_MANAGED_FILES=("README.md" "CHANGELOG.md" "VERSION.md")
+    NON_DOC_DIRTY=0
+    while IFS= read -r line; do
+        [[ -z "$line" ]] && continue
+        fname="${line:3}"
+        is_doc=0
+        for doc_file in "${DOC_SYNC_MANAGED_FILES[@]}"; do
+            [[ "$fname" == "$doc_file" ]] && is_doc=1 && break
+        done
+        [[ "$is_doc" -eq 0 ]] && NON_DOC_DIRTY=1 && break
+    done < <(git --no-pager -C "$REPO_PATH" status --porcelain 2>/dev/null)
+
+    if [[ "$NON_DOC_DIRTY" -eq 1 ]]; then
+        echo "[kb-project-doc-sync] SKIP: $REPO_PATH has non-doc dirty files (would pollute commit)"
+        exit 0
+    fi
     IS_GIT=true
     BRANCH=$(git --no-pager -C "$REPO_PATH" rev-parse --abbrev-ref HEAD 2>/dev/null || echo "unknown")
     COMMIT_HASH=$(git --no-pager -C "$REPO_PATH" rev-parse --short HEAD 2>/dev/null || echo "unknown")

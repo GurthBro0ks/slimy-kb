@@ -38,6 +38,20 @@ TODAY=$(date +%Y-%m-%d)
 TIMESTAMP=$(date -u +%Y%m%d-%H%M%S)
 KB_ROOT="/home/slimy/kb"
 KB_TOOLS="$KB_ROOT/tools"
+ALLOWLIST_FILE="${DOC_SYNC_ALLOWLIST:-$KB_ROOT/config/doc-sync-allowlist.txt}"
+
+is_allowlisted() {
+    local path="$1"
+    [[ ! -f "$ALLOWLIST_FILE" ]] && return 0
+    while IFS= read -r line; do
+        line="${line%%#*}"
+        line="${line%"${line##*[![:space:]]}"}"
+        line="${line#"${line%%[![:space:]]*}"}"
+        [[ -z "$line" ]] && continue
+        [[ "$path" == "$line" ]] && return 0
+    done < "$ALLOWLIST_FILE"
+    return 1
+}
 
 # Source webhook config if present
 if [[ -f ~/.config/slimy/webhooks.env ]]; then
@@ -85,6 +99,9 @@ if [[ ${#REPOS[@]} -eq 0 ]]; then
             # Avoid duplicates
             if [[ -z "${SEEN[$repo]:-}" ]]; then
                 SEEN["$repo"]=1
+                if ! is_allowlisted "$repo"; then
+                    continue
+                fi
                 # Check if it has commits in last 24h
                 if git --no-pager -C "$repo" log --since="24 hours ago" -q 2>/dev/null; then
                     REPOS+=("$repo")
@@ -192,9 +209,33 @@ if [[ "$DRY_RUN" != "--dry-run" ]]; then
     for repo in "${REPOS[@]:-}"; do
         [[ -d "$repo" ]] || continue
         [[ "$repo" == "$KB_ROOT" ]] && continue
+        if ! is_allowlisted "$repo"; then
+            echo "[slimy-agent-finish] SKIP commit: $repo not in allowlist"
+            continue
+        fi
         if git --no-pager -C "$repo" rev-parse --git-dir >/dev/null 2>&1; then
+            REMOTE_URL=$(git --no-pager -C "$repo" remote get-url origin 2>/dev/null || true)
+            if [[ -z "$REMOTE_URL" ]]; then
+                echo "[slimy-agent-finish] SKIP commit: $repo has no remote (local-only)"
+                continue
+            fi
             changes=$(git --no-pager -C "$repo" status --porcelain 2>/dev/null || true)
             if [[ -n "$changes" ]]; then
+                DOC_SYNC_MANAGED_FILES=("README.md" "CHANGELOG.md" "VERSION.md")
+                NON_DOC_DIRTY=0
+                while IFS= read -r line; do
+                    [[ -z "$line" ]] && continue
+                    fname="${line:3}"
+                    is_doc=0
+                    for doc_file in "${DOC_SYNC_MANAGED_FILES[@]}"; do
+                        [[ "$fname" == "$doc_file" ]] && is_doc=1 && break
+                    done
+                    [[ "$is_doc" -eq 0 ]] && NON_DOC_DIRTY=1 && break
+                done < <(git --no-pager -C "$repo" status --porcelain 2>/dev/null)
+                if [[ "$NON_DOC_DIRTY" -eq 1 ]]; then
+                    echo "[slimy-agent-finish] SKIP commit: $repo has non-doc dirty files (would pollute)"
+                    continue
+                fi
                 echo "[slimy-agent-finish] Committing changes in $repo..."
                 if (
                     cd "$repo"
