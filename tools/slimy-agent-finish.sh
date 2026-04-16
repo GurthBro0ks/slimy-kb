@@ -237,21 +237,22 @@ if [[ "$DRY_RUN" != "--dry-run" ]]; then
                     continue
                 fi
                 echo "[slimy-agent-finish] Committing changes in $repo..."
-                if (
-                    cd "$repo"
-                    git --no-pager add -A
-                    git --no-pager commit -m "docs: auto-sync project docs from ${HOST} ${TODAY}" 2>/dev/null && \
+                PRE_COMMIT_HASH=$(git --no-pager -C "$repo" rev-parse HEAD 2>/dev/null || true)
+                AUTO_SYNC_COMMIT_MSG="docs: auto-sync project docs from ${HOST} ${TODAY}"
+                if git --no-pager -C "$repo" add -A && git --no-pager -C "$repo" commit -m "$AUTO_SYNC_COMMIT_MSG" 2>/dev/null; then
                     if is_https_github_remote "$repo"; then
-                        echo "[slimy-agent-finish] WARNING: HTTPS GitHub remote detected in $repo — skipping push (convert to SSH to enable)"
-                        false
+                        echo "[slimy-agent-finish] WARNING: HTTPS GitHub remote in $repo — reverting auto-sync commit (no push possible)"
+                        git --no-pager -C "$repo" reset --soft "$PRE_COMMIT_HASH" 2>/dev/null
+                        ALERT_MSG="${ALERT_MSG}push skipped (HTTPS): $repo; "
+                    elif git --no-pager -C "$repo" push origin "$(git --no-pager -C "$repo" rev-parse --abbrev-ref HEAD)" 2>/dev/null; then
+                        echo "[slimy-agent-finish] Pushed $repo"
                     else
-                        git --no-pager push origin "$(git --no-pager rev-parse --abbrev-ref HEAD)" 2>/dev/null
+                        echo "[slimy-agent-finish] WARNING: push failed for $repo — reverting auto-sync commit"
+                        git --no-pager -C "$repo" reset --soft "$PRE_COMMIT_HASH" 2>/dev/null
+                        ALERT_MSG="${ALERT_MSG}push failed, reverted: $repo; "
                     fi
-                ); then
-                    echo "[slimy-agent-finish] Pushed $repo"
                 else
-                    echo "[slimy-agent-finish] WARNING: could not push $repo (may need credentials)"
-                    ALERT_MSG="${ALERT_MSG}push failed: $repo; "
+                    echo "[slimy-agent-finish] No changes to commit in $repo (commit returned no-op)"
                 fi
             else
                 echo "[slimy-agent-finish] No changes to commit in $repo"

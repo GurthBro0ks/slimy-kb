@@ -244,10 +244,7 @@ fi
 # VERSION.md
 #########################################
 VERSION="$REPO_PATH/VERSION.md"
-if [[ "$DRY_RUN" == "--dry-run" ]]; then
-    echo "[DRY-RUN] Would create/update VERSION.md at $VERSION"
-else
-    cat > "$VERSION" << EOF
+NEW_VERSION_CONTENT=$(cat << EOF
 # Version Snapshot — $PROJECT_SLUG
 
 > Generated: $TIMESTAMP | Host: $HOST
@@ -272,7 +269,23 @@ else
 ## Host Notes
 - Managed by kb-project-doc-sync.sh automation
 EOF
-    echo "[kb-project-doc-sync] Updated VERSION.md for $REPO_PATH"
+)
+
+if [[ "$DRY_RUN" == "--dry-run" ]]; then
+    echo "[DRY-RUN] Would create/update VERSION.md at $VERSION"
+else
+    NEW_HASH=$(echo "$NEW_VERSION_CONTENT" | grep -v '^> Generated:' | md5sum | cut -d' ' -f1)
+    if [[ -f "$VERSION" ]]; then
+        OLD_HASH=$(cat "$VERSION" | grep -v '^> Generated:' | md5sum | cut -d' ' -f1)
+    else
+        OLD_HASH=""
+    fi
+    if [[ "$NEW_HASH" == "$OLD_HASH" ]]; then
+        echo "[kb-project-doc-sync] VERSION.md unchanged — skipped (no content difference)"
+    else
+        echo "$NEW_VERSION_CONTENT" > "$VERSION"
+        echo "[kb-project-doc-sync] Updated VERSION.md for $REPO_PATH"
+    fi
 fi
 
 echo "[kb-project-doc-sync] Done for $REPO_PATH"
