@@ -4,12 +4,16 @@
 # Prevents recursion via SLIMY_AUTOFINISH_ACTIVE=1 env var.
 #
 # Usage:
-#   slimy-agent-finish.sh --agent claude|codex|unknown [--repo /path/to/repo] [--summary "text"] [--dry-run] [--skip-compile] [--quiet]
+#   slimy-agent-finish.sh --agent claude|codex|unknown [--repo /path/to/repo] [--scan-all] [--summary "text"] [--dry-run] [--skip-compile] [--quiet]
 #
 # Flags:
 #   --repo PATH   : limit to specific repo(s); skips auto-detection scan
+#   --scan-all    : explicitly enable broad multi-repo detection (default: no scan)
 #   --quiet       : suppress Discord ALERT posting (for SUCCESS path)
 #   --skip-compile: skip kb-compile-if-needed
+#
+# Session-scoped default (Phase 3): if no --repo and no --scan-all, no repos are
+# touched. Broad multi-repo scanning requires explicit --scan-all.
 set -euo pipefail
 
 # Disable interactive pager — wrapper-triggered runs have no TTY
@@ -31,6 +35,7 @@ AGENT="unknown"
 DRY_RUN=""
 SKIP_COMPILE=""
 QUIET=""
+SCAN_ALL=""
 declare -a REPOS=()
 SUMMARY=""
 HOST=$(hostname -s)
@@ -72,6 +77,8 @@ while [[ $# -gt 0 ]]; do
             SKIP_COMPILE="1"; shift ;;
         --quiet)
             QUIET="1"; shift ;;
+        --scan-all)
+            SCAN_ALL="1"; shift ;;
         --)
             shift; break ;;
         -*)
@@ -82,27 +89,28 @@ while [[ $# -gt 0 ]]; do
 done
 
 echo "[slimy-agent-finish] Starting finish automation..."
-echo "[slimy-agent-finish] Agent: $AGENT | Host: $HOST | Dry-run: $DRY_RUN | Skip-compile: $SKIP_COMPILE | Quiet: $QUIET"
-echo "[slimy-agent-finish] Repos: ${REPOS[*]:-none specified (will detect)}"
+echo "[slimy-agent-finish] Agent: $AGENT | Host: $HOST | Dry-run: $DRY_RUN | Skip-compile: $SKIP_COMPILE | Quiet: $QUIET | Scan-all: ${SCAN_ALL:-no}"
+echo "[slimy-agent-finish] Repos: ${REPOS[*]:-none specified}"
 
-# Detect recently changed git repos only if none specified (bounded vs. full-scan mode)
-if [[ ${#REPOS[@]} -eq 0 ]]; then
-    echo "[slimy-agent-finish] No repos specified — detecting recently changed repos under /home/slimy and /opt/slimy..."
+# Session-scoped default (Phase 3): no broad detection unless --scan-all is explicit.
+# If --repo was provided, REPOS is already populated and we skip detection.
+# If neither --repo nor --scan-all, we do nothing (session-scoped = active repo only,
+# and the session wrapper passes --repo for the active repo).
+if [[ ${#REPOS[@]} -eq 0 && "$SCAN_ALL" != "1" ]]; then
+    echo "[slimy-agent-finish] No repos specified and --scan-all not set — session-scoped default: skipping broad detection"
+elif [[ ${#REPOS[@]} -eq 0 ]]; then
+    echo "[slimy-agent-finish] --scan-all enabled — detecting recently changed repos under /home/slimy and /opt/slimy..."
     declare -A SEEN=()
-    # Look for git repos with commits in the last 24 hours
     for dir in /home/slimy /opt/slimy; do
         [[ -d "$dir" ]] || continue
         while IFS= read -r gitdir; do
             repo="${gitdir%/.git}"
-            # Skip KB itself to avoid circular reference
             [[ "$repo" == "$KB_ROOT" ]] && continue
-            # Avoid duplicates
             if [[ -z "${SEEN[$repo]:-}" ]]; then
                 SEEN["$repo"]=1
                 if ! is_allowlisted "$repo"; then
                     continue
                 fi
-                # Check if it has commits in last 24h
                 if git --no-pager -C "$repo" log --since="24 hours ago" -q 2>/dev/null; then
                     REPOS+=("$repo")
                 fi
@@ -112,15 +120,19 @@ if [[ ${#REPOS[@]} -eq 0 ]]; then
     echo "[slimy-agent-finish] Detected ${#REPOS[@]} recently-changed repo(s): ${REPOS[*]:-none}"
 fi
 
-# Run kb-project-doc-sync for each repo
-for repo in "${REPOS[@]}"; do
-    if [[ -d "$repo" ]]; then
-        echo "[slimy-agent-finish] Syncing project docs: $repo"
-        bash "$KB_TOOLS/kb-project-doc-sync.sh" "$repo" "$DRY_RUN"
-    else
-        echo "[slimy-agent-finish] WARNING: repo not found: $repo"
-    fi
-done
+# Run kb-project-doc-sync for each repo (no-op if REPOS is empty)
+if [[ ${#REPOS[@]} -gt 0 ]]; then
+    for repo in "${REPOS[@]}"; do
+        if [[ -d "$repo" ]]; then
+            echo "[slimy-agent-finish] Syncing project docs: $repo"
+            bash "$KB_TOOLS/kb-project-doc-sync.sh" "$repo" "$DRY_RUN"
+        else
+            echo "[slimy-agent-finish] WARNING: repo not found: $repo"
+        fi
+    done
+else
+    echo "[slimy-agent-finish] No repos to sync"
+fi
 
 # Write agent learnings KB raw note
 RAW_LEARNINGS="$KB_ROOT/raw/agent-learnings/${TODAY}-${HOST}-${AGENT}-summary.md"
@@ -141,7 +153,7 @@ type: agent-learning
 ${SUMMARY:-No summary provided.}
 
 ## Repos Touched
-$(for repo in "${REPOS[@]:-}"; do echo "- $repo"; done)
+$(if [[ ${#REPOS[@]} -gt 0 ]]; then for repo in "${REPOS[@]}"; do echo "- $repo"; done; else echo "- (none)"; fi)
 
 ## Notable Changes
 ${SUMMARY:-—}
@@ -173,7 +185,7 @@ type: changelog
 > Agent: ${AGENT} | Host: ${HOST}
 
 ## Repos Updated
-$(for repo in "${REPOS[@]:-}"; do
+$(if [[ ${#REPOS[@]} -gt 0 ]]; then for repo in "${REPOS[@]}"; do
     if git --no-pager -C "$repo" rev-parse --git-dir >/dev/null 2>&1; then
         branch=$(git --no-pager -C "$repo" rev-parse --abbrev-ref HEAD 2>/dev/null || echo "—")
         commit=$(git --no-pager -C "$repo" rev-parse --short HEAD 2>/dev/null || echo "—")
@@ -182,7 +194,7 @@ $(for repo in "${REPOS[@]:-}"; do
     else
         echo "- $repo (non-git)"
     fi
-done)
+done; else echo "- (none)"; fi)
 
 ## Agent Summary
 ${SUMMARY:-—}
@@ -205,8 +217,8 @@ is_https_github_remote() {
 
 # Commit and push changed project repos (non-kb), track failures for ALERTS
 ALERT_MSG=""
-if [[ "$DRY_RUN" != "--dry-run" ]]; then
-    for repo in "${REPOS[@]:-}"; do
+if [[ "$DRY_RUN" != "--dry-run" && ${#REPOS[@]} -gt 0 ]]; then
+    for repo in "${REPOS[@]}"; do
         [[ -d "$repo" ]] || continue
         [[ "$repo" == "$KB_ROOT" ]] && continue
         if ! is_allowlisted "$repo"; then

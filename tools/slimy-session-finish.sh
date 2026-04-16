@@ -8,6 +8,7 @@
 #   - ERROR (exit !=0): bounded finish — kb-compile, cleanup, bounded ALERT
 #
 # Bounded means: only the actively-worked repo is touched, not a full repo scan.
+# Broad multi-repo scanning requires --scan-all on slimy-agent-finish.sh (Phase 3).
 #
 # Usage (from Stop hook):
 #   bash /home/slimy/kb/tools/slimy-session-finish.sh [--active-repo /path/to/repo]
@@ -64,10 +65,12 @@ handle_exit() {
 
 run_quiet_finish() {
     # Bounded cleanup: only compile if needed (no alerts)
-    # Only sync the active repo if specified
+    # Only sync the active repo if specified (session-scoped, Phase 3)
     if [[ -n "$ACTIVE_REPO" && -d "$ACTIVE_REPO" ]]; then
         echo "[slimy-session-finish] Syncing active repo: $ACTIVE_REPO"
         bash /home/slimy/kb/tools/kb-project-doc-sync.sh "$ACTIVE_REPO" "$DRY_RUN" || true
+    else
+        echo "[slimy-session-finish] No active repo specified — skipping doc sync (session-scoped)"
     fi
 
     # Run compile silently, don't let failures bubble up to Discord
@@ -88,6 +91,8 @@ run_bounded_finish() {
 
     if [[ -n "$ACTIVE_REPO" && -d "$ACTIVE_REPO" ]]; then
         finish_args+=(--repo "$ACTIVE_REPO")
+    else
+        echo "[slimy-session-finish] No active repo — agent-finish will not broad-scan (session-scoped, Phase 3)"
     fi
 
     if [[ "$DRY_RUN" == "--dry-run" ]]; then
