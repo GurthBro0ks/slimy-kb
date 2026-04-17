@@ -5,7 +5,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-04-16 19:37 UTC (git)
-> Version: r56 / 56f8615
+> Version: r57 / b744522
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -681,3 +681,22 @@ KB METADATA -->
   - wiki/_index.md — updated harness-runtime-topology description
 - **Summary:** Filed back completed harness doc-sync hygiene work (Phases 1-4: allowlist, conditional VERSION.md, push-or-revert, session-scoped default, daily dedupe). Broad/noisy multi-repo doc-sync is no longer the default.
 - **Commit:** pending
+## [2026-04-17 00:23] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/projects/actionbook.md
+  - wiki/projects/agents-backup-full.md
+  - wiki/projects/apify-market-scanner.md
+  - wiki/projects/kalshi-ai-trading-bot.md
+  - wiki/projects/mcp-agent-mailbox.md
+  - wiki/projects/ned-clawd.md
+  - wiki/projects/obsidian-vault-automation.md
+  - wiki/projects/stoat-source.md
+  - wiki/projects/workspace-executor.md
+  - wiki/projects/workspace-researcher.md  - (none)
+- summary: 12h maintenance run
+- commit: 217f421
+- notes: auto-maintenance from kb-maintenance.sh 2026-04-17T00:23:03Z
+
+

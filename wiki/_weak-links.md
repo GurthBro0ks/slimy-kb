@@ -1,28 +1,29 @@
 # Low-Connectivity Pages
 
 > Pages with only 1 inbound link (weak connectivity). These may need more cross-linking.
-> Generated: 2026-04-16T12:23:04Z by kb-lint.sh
+> Generated: 2026-04-17T00:23:04Z by kb-lint.sh
 
 <!-- KB METADATA
 > Last edited: 2026-04-16 19:37 UTC (git)
-> Version: r17 / 56f8615
+> Version: r18 / b744522
 KB METADATA -->
 
-**Total weak links: 8**
+**Total weak links: 9**
 
+- `architecture/nuc2-server-state.md (1 inbound link)`
+- `projects/actionbook.md (1 inbound link)`
+- `projects/apify-market-scanner.md (1 inbound link)`
 - `projects/chat-app.md (1 inbound link)`
 - `projects/clawd.md (1 inbound link)`
-- `projects/mailbox-ingest.md (1 inbound link)`
-- `projects/mission-control.md (1 inbound link)`
+- `projects/kalshi-ai-trading-bot.md (1 inbound link)`
 - `projects/slimy-discord-bot.md (1 inbound link)`
 - `troubleshooting/nuc1-repo-remote-ssh-normalization.md (1 inbound link)`
 - `troubleshooting/nuc2-repo-remote-ssh-normalization.md (1 inbound link)`
-- `wiki-manager-operator-runbook.md (1 inbound link)`
 
 ## Connectivity Summary
 
 | Connectivity | Count |
 |--------------|-------|
-| 0 inbound (orphan) | 15 |
-| 1 inbound (weak) | 8 |
-| 2+ inbound (normal) | 33 |
+| 0 inbound (orphan) | 8 |
+| 1 inbound (weak) | 9 |
+| 2+ inbound (normal) | 39 |
