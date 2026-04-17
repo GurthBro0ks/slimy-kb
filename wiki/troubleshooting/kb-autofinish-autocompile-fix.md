@@ -7,8 +7,8 @@
 > Note: Re-verified 2026-04-11 (compile 20260411-230740): all priority batch files already sourced or deferred. No new wiki content required. Status: reviewed.
 
 <!-- KB METADATA
-> Last edited: 2026-04-16 19:37 UTC (git)
-> Version: r22 / b744522
+> Last edited: 2026-04-17 00:23 UTC (git)
+> Version: r23 / 3f6aea2
 KB METADATA -->
 
 Fix for the KB write-through automation where `slimy-agent-finish.sh` left raw files uncommitted and `kb-compile-if-needed.sh` only wrote prompt files without triggering actual wiki compilation.

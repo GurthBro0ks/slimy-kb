@@ -1,19 +1,19 @@
 # NUC2 Current State
 
 > Category: architecture
-> Updated: 2026-04-16T12:23:09Z
+> Updated: 2026-04-17T00:23:10Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-04-16 19:37 UTC (git)
-> Version: r18 / b744522
+> Last edited: 2026-04-17 00:23 UTC (git)
+> Version: r19 / 3f6aea2
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc2
-- **Last updated:** 2026-04-16T12:23:09Z
+- **Last updated:** 2026-04-17T00:23:10Z
 
 ## Active Services
 - - pm2: not available
@@ -31,16 +31,16 @@ KB METADATA -->
 - `LISTEN 0      511                          [::1]:18790         [::]:*`
 
 ## KB Health
-- **Orphaned pages:** 30
-- **Weak-linked pages:** 8
+- **Orphaned pages:** 16
+- **Weak-linked pages:** 9
 
 ## Open Issues (from todo queue)
-- **[HIGH/candidate]** Resolve 30 orphaned wiki pages — wiki_gap (fresh)
-- **[HIGH/not_candidate]** Review orphaned page: architecture/nuc2-server-state.md — wiki_gap (stale)
+- **[MEDIUM/not_candidate]** Resolve 16 orphaned wiki pages — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: log.md — wiki_gap (fresh)
-- **[HIGH/not_candidate]** Review orphaned page: projects/actionbook.md — wiki_gap (stale)
-- **[HIGH/not_candidate]** Review orphaned page: projects/agents-backup-full.md — wiki_gap (stale)
-- **[HIGH/not_candidate]** Review orphaned page: projects/apify-market-scanner.md — wiki_gap (stale)
+- **[HIGH/candidate]** Review orphaned page: projects/agents-backup-full.md — wiki_gap (fresh)
+- **[MEDIUM/not_candidate]** Review orphaned page: projects/mailbox-outbox.md — wiki_gap (fresh)
+- **[MEDIUM/not_candidate]** Review orphaned page: projects/mcp-agent-mailbox.md — wiki_gap (fresh)
+- **[MEDIUM/not_candidate]** Review orphaned page: projects/nuc1-project-anomalies.md — wiki_gap (fresh)
 
 <!-- END MACHINE MANAGED -->
 

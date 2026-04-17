@@ -1,24 +1,24 @@
 # NUC1 Current State
 
 > Category: architecture
-> Updated: 2026-04-16T12:23:09Z
+> Updated: 2026-04-17T00:23:10Z
 > Sources: raw/inbox-nuc1/
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-04-16 19:37 UTC (git)
-> Version: r19 / b744522
+> Last edited: 2026-04-17 00:23 UTC (git)
+> Version: r20 / 3f6aea2
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc1
-- **Last seen:** 20260416T003301Z
+- **Last seen:** 20260416T123401Z
 
 ## Repository Status
 - **Total repos tracked:** 16
-- **Dirty (uncommitted changes):** Slimefun4, PrivateStorage, DynaTech, mission-control, slimy-harness, ned-autonomous, stoat-source, mailbox_outbox, slimy-chat, clawd, ned-clawd
+- **Dirty (uncommitted changes):** Slimefun4, PrivateStorage, DynaTech, mission-control, ned-autonomous, stoat-source, mailbox_outbox, slimy-chat, clawd, ned-clawd
 - **Diverged (ahead + behind remote):** Slimefun4, clawd, slimy-monorepo
 
 ## Active Services (from digest)
@@ -29,7 +29,6 @@ KB METADATA -->
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: PrivateStorage — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: DynaTech — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: mission-control — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: slimy-harness — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-autonomous — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: stoat-source — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: mailbox_outbox — repo_drift (fresh)
