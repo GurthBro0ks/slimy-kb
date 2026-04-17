@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-04-17T00:23:10Z
+# NUC2 Repo Digests — 2026-04-17T12:24:09Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-04-17T00:23:10Z
+**Timestamp:** 2026-04-17T12:24:09Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -11,8 +11,8 @@
 - **Path:** `/home/slimy/clawd`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 6b7ac94
-- **Subject:** docs: compound nightly review 2026-04-16
+- **Commit:** e611117
+- **Subject:** chore: compound nightly review 2026-04-17
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/clawd.git
 
@@ -28,8 +28,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 3f6aea2
-- **Subject:** kb: maintenance run 2026-04-17-0023 from slimy-nuc2
+- **Commit:** 0fb4601
+- **Subject:** kb: maintenance run 2026-04-17-1224 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -84,8 +84,8 @@
 - **Path:** `/home/slimy/slimy-monorepo`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 1dc02c6
-- **Subject:** qa(bot): Chunk 4 gate — PASS 96.3%, set passes:true for bot-chunk4-secondary-commands-001
+- **Commit:** 03b70fd
+- **Subject:** qa(bot): Chunk 5 gate — PASS 96.3%, set passes:true for bot-chunk5-utilities-helpers-001
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/slimy-monorepo.git
 - **Name:** slimy-monorepo

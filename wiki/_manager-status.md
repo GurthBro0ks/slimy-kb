@@ -1,14 +1,14 @@
 # Wiki Manager Status
 
 > Category: concepts
-> Updated: 2026-04-17T00:23:10Z
+> Updated: 2026-04-17T12:24:09Z
 
 <!-- KB METADATA
-> Last edited: 2026-04-17 00:23 UTC (git)
-> Version: r23 / f081b71
+> Last edited: 2026-04-17 12:24 UTC (git)
+> Version: r24 / 0fb4601
 KB METADATA -->
 
-**Last run:** 2026-04-17T00:23:10Z
+**Last run:** 2026-04-17T12:24:09Z
 **Stage:** 1.86
 **Backend:** stub
 **NUC1 evidence:** consumed
@@ -17,16 +17,16 @@ KB METADATA -->
 ## Queue Summary
 
 - Total tasks: 19
-- NEW: 4
-- PERSISTING: 15
+- NEW: 0
+- PERSISTING: 19
 - RESOLVED (this run): 0
 
 ## Promotion Counts
 
 - **candidate:** 15
-- **emerging:** 0
+- **emerging:** 4
 - **cooling_down:** 0
-- **not_candidate:** 4
+- **not_candidate:** 0
 
 ## Freshness Bands
 
@@ -73,8 +73,12 @@ KB METADATA -->
 - **[todo-2026-04-17-011]** NUC1 repo diverged from remote: Slimefun4 (severity: high, promotion: candidate, fresh)
 - **[todo-2026-04-17-012]** NUC1 repo diverged from remote: clawd (severity: high, promotion: candidate, fresh)
 - **[todo-2026-04-17-013]** NUC1 repo diverged from remote: slimy-monorepo (severity: high, promotion: candidate, fresh)
+- **[todo-2026-04-17-014]** Resolve 16 orphaned wiki pages (severity: high, promotion: emerging, fresh)
 - **[todo-2026-04-17-015]** Review orphaned page: log.md (severity: high, promotion: candidate, fresh)
 - **[todo-2026-04-17-016]** Review orphaned page: projects/agents-backup-full.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-04-17-017]** Review orphaned page: projects/mailbox-outbox.md (severity: high, promotion: emerging, fresh)
+- **[todo-2026-04-17-018]** Review orphaned page: projects/mcp-agent-mailbox.md (severity: high, promotion: emerging, fresh)
+- **[todo-2026-04-17-019]** Review orphaned page: projects/nuc1-project-anomalies.md (severity: high, promotion: emerging, fresh)
 
 ## Task List
 
@@ -91,12 +95,12 @@ KB METADATA -->
 🔄 [todo-2026-04-17-011] NUC1 repo diverged from remote: Slimefun4 (high, repo_drift) [candidate] (fresh) — nuc1
 🔄 [todo-2026-04-17-012] NUC1 repo diverged from remote: clawd (high, repo_drift) [candidate] (fresh) — nuc1
 🔄 [todo-2026-04-17-013] NUC1 repo diverged from remote: slimy-monorepo (high, repo_drift) [candidate] (fresh) — nuc1
-✨ [todo-2026-04-17-014] Resolve 16 orphaned wiki pages (medium, wiki_gap) [not_candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-04-17-014] Resolve 16 orphaned wiki pages (high, wiki_gap) [emerging] (fresh) — slimy-nuc2
 🔄 [todo-2026-04-17-015] Review orphaned page: log.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
 🔄 [todo-2026-04-17-016] Review orphaned page: projects/agents-backup-full.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-✨ [todo-2026-04-17-017] Review orphaned page: projects/mailbox-outbox.md (medium, wiki_gap) [not_candidate] (fresh) — slimy-nuc2
-✨ [todo-2026-04-17-018] Review orphaned page: projects/mcp-agent-mailbox.md (medium, wiki_gap) [not_candidate] (fresh) — slimy-nuc2
-✨ [todo-2026-04-17-019] Review orphaned page: projects/nuc1-project-anomalies.md (medium, wiki_gap) [not_candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-04-17-017] Review orphaned page: projects/mailbox-outbox.md (high, wiki_gap) [emerging] (fresh) — slimy-nuc2
+🔄 [todo-2026-04-17-018] Review orphaned page: projects/mcp-agent-mailbox.md (high, wiki_gap) [emerging] (fresh) — slimy-nuc2
+🔄 [todo-2026-04-17-019] Review orphaned page: projects/nuc1-project-anomalies.md (high, wiki_gap) [emerging] (fresh) — slimy-nuc2
 
 ---
 *Managed by wiki-manager-stage1.timer (every 12h). Do not edit directly.*

@@ -1,7 +1,7 @@
-# Candidate Review Pack — 2026-04-17T00:23:10Z
+# Candidate Review Pack — 2026-04-17T12:24:09Z
 
 > Stage: 1.86
-> Generated: 2026-04-17T00:23:10Z
+> Generated: 2026-04-17T12:24:09Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
@@ -9,9 +9,9 @@
 ## Summary
 
 - **Candidates:** 15
-- **Emerging:** 0
+- **Emerging:** 4
 - **Cooling down:** 0
-- **Not candidate:** 4
+- **Not candidate:** 0
 - **Total in queue:** 19
 
 ## Freshness Bands
@@ -30,7 +30,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 4x recent / 4x lifetime |
+| Persistence | 5x recent / 5x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -47,7 +47,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | PrivateStorage |
 | Severity | HIGH (repo_drift) |
-| Persistence | 4x recent / 4x lifetime |
+| Persistence | 5x recent / 5x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -64,7 +64,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | DynaTech |
 | Severity | HIGH (repo_drift) |
-| Persistence | 4x recent / 4x lifetime |
+| Persistence | 5x recent / 5x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -81,7 +81,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | mission-control |
 | Severity | HIGH (repo_drift) |
-| Persistence | 4x recent / 4x lifetime |
+| Persistence | 5x recent / 5x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -99,7 +99,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | ned-autonomous |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 26x lifetime |
+| Persistence | 5x recent / 27x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -117,7 +117,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | stoat-source |
 | Severity | HIGH (repo_drift) |
-| Persistence | 4x recent / 4x lifetime |
+| Persistence | 5x recent / 5x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -135,7 +135,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | mailbox_outbox |
 | Severity | HIGH (repo_drift) |
-| Persistence | 4x recent / 4x lifetime |
+| Persistence | 5x recent / 5x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -153,7 +153,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | slimy-chat |
 | Severity | HIGH (repo_drift) |
-| Persistence | 4x recent / 4x lifetime |
+| Persistence | 5x recent / 5x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -171,7 +171,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | clawd |
 | Severity | HIGH (repo_drift) |
-| Persistence | 4x recent / 4x lifetime |
+| Persistence | 5x recent / 5x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -189,7 +189,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | ned-clawd |
 | Severity | HIGH (repo_drift) |
-| Persistence | 4x recent / 4x lifetime |
+| Persistence | 5x recent / 5x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -207,7 +207,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 26x lifetime |
+| Persistence | 5x recent / 27x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -224,7 +224,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | clawd |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 26x lifetime |
+| Persistence | 5x recent / 27x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -242,7 +242,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | slimy-monorepo |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 26x lifetime |
+| Persistence | 5x recent / 27x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -260,7 +260,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 29x lifetime |
+| Persistence | 5x recent / 30x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/log.md |
 | Dispatch blocker | advisory_only |
@@ -277,7 +277,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 29x lifetime |
+| Persistence | 5x recent / 30x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/projects/agents-backup-full.md |
 | Dispatch blocker | advisory_only |
@@ -288,15 +288,35 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if projects/agents-backup-full.md should be linked from related articles or removed.
 
-## Not Candidate (4 tasks)
+## Emerging — Close but Not Ready
 
-These tasks are tracked but lack sufficient recent evidence, have stale evidence,
-or are excluded kinds. Lifetime history is preserved for audit.
+### [todo-2026-04-17-014] Resolve 16 orphaned wiki pages
 
-- **[todo-2026-04-17-014]** Resolve 16 orphaned wiki pages — insufficient_recency (fresh)
-- **[todo-2026-04-17-017]** Review orphaned page: projects/mailbox-outbox.md — insufficient_recency (fresh)
-- **[todo-2026-04-17-018]** Review orphaned page: projects/mcp-agent-mailbox.md — insufficient_recency (fresh)
-- **[todo-2026-04-17-019]** Review orphaned page: projects/nuc1-project-anomalies.md — insufficient_recency (fresh)
+- **Project:** kb | **Severity:** HIGH | **Freshness:** fresh
+- **Persistence:** 2x recent / 2x lifetime
+- **What would promote:** more recent runs OR fresher evidence files
+- **Why it matters:** Orphaned pages have 0 inbound links and are effectively hidden from navigation.
+
+### [todo-2026-04-17-017] Review orphaned page: projects/mailbox-outbox.md
+
+- **Project:** kb | **Severity:** HIGH | **Freshness:** fresh
+- **Persistence:** 2x recent / 2x lifetime
+- **What would promote:** more recent runs OR fresher evidence files
+- **Why it matters:** Page 'projects/mailbox-outbox.md' has no inbound links.
+
+### [todo-2026-04-17-018] Review orphaned page: projects/mcp-agent-mailbox.md
+
+- **Project:** kb | **Severity:** HIGH | **Freshness:** fresh
+- **Persistence:** 2x recent / 2x lifetime
+- **What would promote:** more recent runs OR fresher evidence files
+- **Why it matters:** Page 'projects/mcp-agent-mailbox.md' has no inbound links.
+
+### [todo-2026-04-17-019] Review orphaned page: projects/nuc1-project-anomalies.md
+
+- **Project:** kb | **Severity:** HIGH | **Freshness:** fresh
+- **Persistence:** 2x recent / 2x lifetime
+- **What would promote:** more recent runs OR fresher evidence files
+- **Why it matters:** Page 'projects/nuc1-project-anomalies.md' has no inbound links.
 
 ---
 _Stage 1.86 — advisory only. Candidate status is advisory only, dispatch blocked by `advisory_only`._

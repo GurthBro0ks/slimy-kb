@@ -1,19 +1,19 @@
 # NUC2 Current State
 
 > Category: architecture
-> Updated: 2026-04-17T00:23:10Z
+> Updated: 2026-04-17T12:24:09Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-04-17 00:23 UTC (git)
-> Version: r20 / f081b71
+> Last edited: 2026-04-17 12:24 UTC (git)
+> Version: r21 / 0fb4601
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc2
-- **Last updated:** 2026-04-17T00:23:10Z
+- **Last updated:** 2026-04-17T12:24:09Z
 
 ## Active Services
 - - pm2: not available
@@ -35,12 +35,12 @@ KB METADATA -->
 - **Weak-linked pages:** 9
 
 ## Open Issues (from todo queue)
-- **[MEDIUM/not_candidate]** Resolve 16 orphaned wiki pages — wiki_gap (fresh)
+- **[HIGH/emerging]** Resolve 16 orphaned wiki pages — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: log.md — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: projects/agents-backup-full.md — wiki_gap (fresh)
-- **[MEDIUM/not_candidate]** Review orphaned page: projects/mailbox-outbox.md — wiki_gap (fresh)
-- **[MEDIUM/not_candidate]** Review orphaned page: projects/mcp-agent-mailbox.md — wiki_gap (fresh)
-- **[MEDIUM/not_candidate]** Review orphaned page: projects/nuc1-project-anomalies.md — wiki_gap (fresh)
+- **[HIGH/emerging]** Review orphaned page: projects/mailbox-outbox.md — wiki_gap (fresh)
+- **[HIGH/emerging]** Review orphaned page: projects/mcp-agent-mailbox.md — wiki_gap (fresh)
+- **[HIGH/emerging]** Review orphaned page: projects/nuc1-project-anomalies.md — wiki_gap (fresh)
 
 <!-- END MACHINE MANAGED -->
 
