@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-04-18T00:24:09Z
+# NUC2 Repo Digests — 2026-04-18T12:25:09Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-04-18T00:24:09Z
+**Timestamp:** 2026-04-18T12:25:09Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -11,8 +11,8 @@
 - **Path:** `/home/slimy/clawd`
 - **Git:** True
 - **Branch:** main
-- **Commit:** e611117
-- **Subject:** chore: compound nightly review 2026-04-17
+- **Commit:** d69e9a2
+- **Subject:** chore: daily log update - Apr 18 2026
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/clawd.git
 
@@ -28,8 +28,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 757d387
-- **Subject:** kb: maintenance run 2026-04-18-0024 from slimy-nuc2
+- **Commit:** 02d608b
+- **Subject:** kb: maintenance run 2026-04-18-1225 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -84,9 +84,9 @@
 - **Path:** `/home/slimy/slimy-monorepo`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 048b23a
-- **Subject:** fix(web): abbreviate power numbers on /snail/club for mobile
-- **Dirty:** False
+- **Commit:** db712e4
+- **Subject:** feat: snail codes scanner page + api stubs + nav link
+- **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-monorepo.git
 - **Name:** slimy-monorepo
 - **Version:** ?
