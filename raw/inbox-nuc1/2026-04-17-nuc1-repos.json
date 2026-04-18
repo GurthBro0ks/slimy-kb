@@ -1,5 +1,5 @@
 {
-  "ts": "20260417T003501Z",
+  "ts": "20260417T123601Z",
   "hostname": "unknown",
   "count": 16,
   "repos": [
@@ -239,7 +239,7 @@
       "remote": "github.com:GurthBro0ks/slimy-monorepo",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 6,
+        "ahead": 19,
         "behind": 5
       },
       "kb_bridge_present": false,

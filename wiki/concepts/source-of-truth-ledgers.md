@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-04-17 12:24 UTC (git)
-> Version: r10 / 0fb4601
+> Version: r11 / 0f1f90b
 KB METADATA -->
 
 SlimyAI operations rely on three ledgers that must remain current every session.
