@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-04-20T00:26:09Z
+# NUC2 Repo Digests — 2026-04-20T12:27:09Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-04-20T00:26:09Z
+**Timestamp:** 2026-04-20T12:27:09Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -11,8 +11,8 @@
 - **Path:** `/home/slimy/clawd`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 3092a56
-- **Subject:** compound: daily review - Apr 19 2026
+- **Commit:** 861c323
+- **Subject:** compound: daily review - Apr 20 2026
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/clawd.git
 
@@ -28,8 +28,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 42830a3
-- **Subject:** kb: maintenance run 2026-04-20-0026 from slimy-nuc2
+- **Commit:** 8e6c086
+- **Subject:** kb: maintenance run 2026-04-20-1227 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
