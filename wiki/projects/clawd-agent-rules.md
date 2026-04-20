@@ -6,8 +6,8 @@
 > Status: reviewed
 
 <!-- KB METADATA
-> Last edited: 2026-04-19 12:26 UTC (git)
-> Version: r25 / 2e697fe
+> Last edited: 2026-04-20 00:26 UTC (git)
+> Version: r26 / 42830a3
 KB METADATA -->
 
 SlimyAI workspace agent operating rules, compiled from the canonical `AGENTS.md` found in the Clawd workspace directory.
@@ -77,14 +77,14 @@ All task results MUST pass through the proof gate before being written to result
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-04-19T12:26:09Z
+**Last updated:** 2026-04-20T00:26:10Z
 **NUC1 status:** DIRTY, DIVERGED
 **NUC1 commit:** `a41fce0` — docs: auto-sync project docs from slimy-nuc1 2026-04-11
 **Branch:** master
 
 ### Open Issues
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: clawd (repo_drift, 9x, fresh)
-- **[HIGH/candidate]** NUC1 repo diverged from remote: clawd (repo_drift, 31x, fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: clawd (repo_drift, 10x, fresh)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: clawd (repo_drift, 32x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`
