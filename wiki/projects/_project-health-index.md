@@ -6,7 +6,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-04-20 00:26 UTC (git)
-> Version: r26 / 42830a3
+> Version: r27 / c7808b6
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
