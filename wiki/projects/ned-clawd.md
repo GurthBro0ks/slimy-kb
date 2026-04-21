@@ -6,7 +6,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-04-21 00:27 UTC (git)
-> Version: r26 / 566450c
+> Version: r27 / d55ac46
 KB METADATA -->
 
 AI agent workspace with session management, memory protocols, heartbeats, and group chat safety. Acts as the host workspace for the Actionbook subdirectory and provides Mission Control integration scripts. NUC1.
