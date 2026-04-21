@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-04-20 12:27 UTC (git)
-> Version: r21 / 8e6c086
+> Version: r22 / 51be377
 KB METADATA -->
 
 This matrix documents the known communication paths between NUC1 and NUC2, with ownership and failure signatures.
