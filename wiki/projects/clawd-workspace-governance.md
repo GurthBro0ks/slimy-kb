@@ -6,8 +6,8 @@
 > Status: reviewed
 
 <!-- KB METADATA
-> Last edited: 2026-04-21 00:27 UTC (git)
-> Version: r26 / d55ac46
+> Last edited: 2026-04-21 12:28 UTC (git)
+> Version: r27 / c6ba87a
 KB METADATA -->
 
 ## Project Metadata

@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-04-21 00:27 UTC (git)
-> Version: r25 / d55ac46
+> Last edited: 2026-04-21 12:28 UTC (git)
+> Version: r26 / c6ba87a
 KB METADATA -->
 
 SlimyAI operations rely on three ledgers that must remain current every session.
