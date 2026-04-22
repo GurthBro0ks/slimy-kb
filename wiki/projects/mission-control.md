@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-04-22 00:28 UTC (git)
-> Version: r34 / 83a6a85
+> Last edited: 2026-04-22 12:29 UTC (git)
+> Version: r35 / 54b7274
 KB METADATA -->
 
 Mission Control is a coordination surface for tasks, agents, comms, calendar, memory, and webhook-triggered workflows.
@@ -60,13 +60,13 @@ Mission Control is a coordination surface for tasks, agents, comms, calendar, me
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-04-22T00:28:09Z
+**Last updated:** 2026-04-22T12:29:09Z
 **NUC1 status:** DIRTY, synced
 **NUC1 commit:** `b106eb1` — chore: install agent harness from slimy-harness
 **Branch:** main
 
 ### Open Issues
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mission-control (repo_drift, 14x, fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mission-control (repo_drift, 15x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`
