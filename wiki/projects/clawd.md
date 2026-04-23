@@ -6,7 +6,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-04-22 12:29 UTC (git)
-> Version: r28 / 54b7274
+> Version: r29 / a285643
 KB METADATA -->
 
 AI agent workspace for SlimyAI with session management, memory protocols, heartbeat scheduling, and group chat safety. Standard SlimyAI runtime environment.
