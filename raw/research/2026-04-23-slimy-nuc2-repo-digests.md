@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-04-23T00:30:09Z
+# NUC2 Repo Digests — 2026-04-23T12:30:09Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-04-23T00:30:09Z
+**Timestamp:** 2026-04-23T12:30:09Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -11,8 +11,8 @@
 - **Path:** `/home/slimy/clawd`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 10c21b7
-- **Subject:** chore: daily notes update - Apr 22, 2026
+- **Commit:** efb0ffc
+- **Subject:** chore: compound-nightly-review Apr 23 - update memory
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/clawd.git
 
@@ -28,8 +28,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 19467b1
-- **Subject:** kb: maintenance run 2026-04-23-0030 from slimy-nuc2
+- **Commit:** f998985
+- **Subject:** kb: maintenance run 2026-04-23-1230 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -84,8 +84,8 @@
 - **Path:** `/home/slimy/slimy-monorepo`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 263a469
-- **Subject:** feat: add screenshot upload with GPT-4o Vision OCR for club data import
+- **Commit:** a559ab9
+- **Subject:** feat: import history log, remove IMPORT DATA button, enhanced success screens
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/slimy-monorepo.git
 - **Name:** slimy-monorepo
