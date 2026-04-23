@@ -1,0 +1,299 @@
+{
+  "ts": "20260423T004301Z",
+  "hostname": "unknown",
+  "count": 16,
+  "repos": [
+    {
+      "name": "Slimefun4",
+      "path": "/home/slimy/src/plugins/Slimefun4",
+      "relative_path": "src/plugins/Slimefun4",
+      "ok": true,
+      "branch": null,
+      "commit_hash": "aa0814a7ed71",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
+      "dirty": true,
+      "remote": "github.com/Slimefun/Slimefun4",
+      "ahead_behind": {
+        "base": "origin/master",
+        "ahead": 23,
+        "behind": 27
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 1
+    },
+    {
+      "name": "PrivateStorage",
+      "path": "/home/slimy/src/plugins/PrivateStorage",
+      "relative_path": "src/plugins/PrivateStorage",
+      "ok": true,
+      "branch": "master",
+      "commit_hash": "05929da4a72f",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
+      "dirty": true,
+      "remote": "github.com:Slimefun-Addon-Community/PrivateStorage",
+      "ahead_behind": {
+        "base": "origin/master",
+        "ahead": 0,
+        "behind": 27
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 1
+    },
+    {
+      "name": "DynaTech",
+      "path": "/home/slimy/src/plugins/DynaTech",
+      "relative_path": "src/plugins/DynaTech",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "b8aab74b73a0",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
+      "dirty": true,
+      "remote": "github.com/stoatchat/stoatchat",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 27
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 1
+    },
+    {
+      "name": "mission-control",
+      "path": "/home/slimy/mission-control",
+      "relative_path": "mission-control",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "b106eb1d747b",
+      "commit_subject": "chore: install agent harness from slimy-harness",
+      "dirty": true,
+      "remote": "github.com:GurthBro0ks/mission-control",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 0
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": true,
+      "dirty_count": 1
+    },
+    {
+      "name": "slimy-harness",
+      "path": "/home/slimy/slimy-harness",
+      "relative_path": "slimy-harness",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "ab5eba7e838e",
+      "commit_subject": "docs(harness): doc-sync hygiene Phase 4 \u2014 daily dedupe docs + proof bundle",
+      "dirty": false,
+      "remote": "github.com:GurthBro0ks/slimy-harness",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 0
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    },
+    {
+      "name": "kb",
+      "path": "/home/slimy/kb",
+      "relative_path": "kb",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "f15a5ebbf5d6",
+      "commit_subject": "feat(doc-sync): daily dedupe \u2014 skip same-day duplicate auto-sync commits (Phase 4)",
+      "dirty": false,
+      "remote": "github.com:GurthBro0ks/slimy-kb",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 0
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    },
+    {
+      "name": "ned-autonomous",
+      "path": "/home/slimy/ned-autonomous",
+      "relative_path": "ned-autonomous",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "fb5ff79c2613",
+      "commit_subject": "chore: auto-sync 2026-04-07",
+      "dirty": true,
+      "remote": "github.com:GurthBro0ks/ned-autonomous",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 0
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 2
+    },
+    {
+      "name": "stoat-source",
+      "path": "/home/slimy/stoat-source",
+      "relative_path": "stoat-source",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "020a4a093ccd",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
+      "dirty": true,
+      "remote": "github.com:stoatchat/stoatchat",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 27
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 1
+    },
+    {
+      "name": "mailbox_outbox",
+      "path": "/home/slimy/nuc-comms/mailbox_outbox",
+      "relative_path": "nuc-comms/mailbox_outbox",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "668ae78ae1cc",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
+      "dirty": true,
+      "remote": null,
+      "ahead_behind": null,
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 3
+    },
+    {
+      "name": "slimy-chat",
+      "path": "/home/slimy/slimy-chat",
+      "relative_path": "slimy-chat",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "482c773f0ec7",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
+      "dirty": true,
+      "remote": "github.com:GurthBro0ks/slime.chat",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 0
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 1
+    },
+    {
+      "name": "clawd",
+      "path": "/home/slimy/clawd",
+      "relative_path": "clawd",
+      "ok": true,
+      "branch": "master",
+      "commit_hash": "a41fce050103",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
+      "dirty": true,
+      "remote": "github.com:GurthBro0ks/clawd",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 13,
+        "behind": 29
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": true,
+      "dirty_count": 1
+    },
+    {
+      "name": "ned-clawd",
+      "path": "/home/slimy/ned-clawd",
+      "relative_path": "ned-clawd",
+      "ok": true,
+      "branch": "master",
+      "commit_hash": "d6bada45edcf",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
+      "dirty": true,
+      "remote": "github.com:GurthBro0ks/ned-clawd",
+      "ahead_behind": {
+        "base": "origin/master",
+        "ahead": 0,
+        "behind": 0
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": true,
+      "dirty_count": 1
+    },
+    {
+      "name": "slimy-monorepo",
+      "path": "/home/slimy/.qoder-server/slimy-monorepo",
+      "relative_path": ".qoder-server/slimy-monorepo",
+      "ok": true,
+      "branch": null,
+      "commit_hash": "a004f101a91d",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
+      "dirty": false,
+      "remote": "github.com:GurthBro0ks/slimy-monorepo",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 48,
+        "behind": 5
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": true,
+      "dirty_count": 0
+    },
+    {
+      "name": "workspace-executor",
+      "path": "/home/slimy/.openclaw/workspace-executor",
+      "relative_path": ".openclaw/workspace-executor",
+      "ok": true,
+      "branch": "master",
+      "commit_hash": "da04300087c0",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
+      "dirty": false,
+      "remote": null,
+      "ahead_behind": null,
+      "kb_bridge_present": false,
+      "kb_harness_present": true,
+      "dirty_count": 0
+    },
+    {
+      "name": "workspace-researcher",
+      "path": "/home/slimy/.openclaw/workspace-researcher",
+      "relative_path": ".openclaw/workspace-researcher",
+      "ok": true,
+      "branch": "master",
+      "commit_hash": "35b18de6acb5",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
+      "dirty": false,
+      "remote": null,
+      "ahead_behind": null,
+      "kb_bridge_present": false,
+      "kb_harness_present": true,
+      "dirty_count": 0
+    },
+    {
+      "name": "plugins",
+      "path": "/home/slimy/.codex/.tmp/plugins",
+      "relative_path": ".codex/.tmp/plugins",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "ff172ac4fcc2",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
+      "dirty": false,
+      "remote": "github.com/openai/plugins",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 10
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    }
+  ]
+}

@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-04-23 00:30 UTC (git)
-> Version: r31 / 19467b1
+> Version: r32 / 4192a25
 KB METADATA -->
 
 This article captures recurring failures and proven fixes from recent execution history.
