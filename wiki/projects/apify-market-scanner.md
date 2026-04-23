@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-04-22 12:29 UTC (git)
-> Version: r31 / a285643
+> Last edited: 2026-04-23 00:30 UTC (git)
+> Version: r32 / 19467b1
 KB METADATA -->
 
 Apify-based market data scraping tool for the trading pipeline. Currently in MAINTENANCE/IDLE status — not actively deployed or running.
