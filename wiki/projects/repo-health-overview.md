@@ -1,12 +1,12 @@
 # Repo Health Overview
 
 > Category: projects
-> Updated: 2026-04-24T00:31:18Z
+> Updated: 2026-04-24T12:32:09Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-04-24 00:31 UTC (git)
-> Version: r49 / 03d777e
+> Last edited: 2026-04-24 12:32 UTC (git)
+> Version: r50 / 7cf9103
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -21,12 +21,12 @@ KB METADATA -->
 | DynaTech | ⚠️ YES | — |
 | mission-control | ⚠️ YES | — |
 | slimy-harness | — | — |
-| kb | — | — |
+| kb | ⚠️ YES | — |
 | ned-autonomous | ⚠️ YES | — |
 | stoat-source | ⚠️ YES | — |
 | mailbox_outbox | ⚠️ YES | — |
 | slimy-chat | ⚠️ YES | — |
-| clawd | ⚠️ YES | ⚠️ YES |
+| clawd | ⚠️ YES | — |
 | ned-clawd | ⚠️ YES | — |
 | slimy-monorepo | — | ⚠️ YES |
 | workspace-executor | — | — |
@@ -37,8 +37,8 @@ KB METADATA -->
 - _NUC2 repo state parsed from local git status_
 
 ## Action Required
-- **Dirty on NUC1:** Slimefun4, PrivateStorage, DynaTech, mission-control, ned-autonomous, stoat-source, mailbox_outbox, slimy-chat, clawd, ned-clawd — commit or stash
-- **Diverged on NUC1:** Slimefun4, clawd, slimy-monorepo — merge or rebase
+- **Dirty on NUC1:** Slimefun4, PrivateStorage, DynaTech, mission-control, kb, ned-autonomous, stoat-source, mailbox_outbox, slimy-chat, clawd, ned-clawd — commit or stash
+- **Diverged on NUC1:** Slimefun4, slimy-monorepo — merge or rebase
 
 <!-- END MACHINE MANAGED -->
 

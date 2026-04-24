@@ -1,12 +1,12 @@
 # Project Health Index
 
 > Category: projects
-> Updated: 2026-04-24T00:31:18Z
+> Updated: 2026-04-24T12:32:09Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-04-24 00:31 UTC (git)
-> Version: r43 / 03d777e
+> Last edited: 2026-04-24 12:32 UTC (git)
+> Version: r44 / 7cf9103
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -16,8 +16,8 @@ KB METADATA -->
 - NUC1 repos tracked: 16
 - With project page: 10
 - Without project page: 6
-- Dirty (uncommitted): 10
-- Diverged (ahead + behind): 3
+- Dirty (uncommitted): 11
+- Diverged (ahead + behind): 2
 - Clean: 3
 
 ## Pages Updated This Run
@@ -33,7 +33,7 @@ KB METADATA -->
 
 ## Covered Repos (have project pages)
 
-- **clawd** → `clawd-agent-rules.md` — DIRTY, DIVERGED
+- **clawd** → `clawd-agent-rules.md` — DIRTY
 - **mailbox_outbox** → `mailbox-outbox.md` — DIRTY
 - **mission-control** → `mission-control.md` — DIRTY
 - **ned-autonomous** → `ned-autonomous.md` — DIRTY
@@ -49,7 +49,7 @@ KB METADATA -->
 - **DynaTech** — DIRTY
 - **PrivateStorage** — DIRTY
 - **Slimefun4** — DIRTY, DIVERGED
-- **kb** — clean
+- **kb** — DIRTY
 - **plugins** — clean
 - **slimy-harness** — clean
 
@@ -60,8 +60,8 @@ KB METADATA -->
 | DynaTech | ⚠️ DIRTY | — |
 | PrivateStorage | ⚠️ DIRTY | — |
 | Slimefun4 | ⚠️ DIRTY | ⚠️ DIVERGED |
-| clawd | ⚠️ DIRTY | ⚠️ DIVERGED |
-| kb | — | — |
+| clawd | ⚠️ DIRTY | — |
+| kb | ⚠️ DIRTY | — |
 | mailbox_outbox | ⚠️ DIRTY | — |
 | mission-control | ⚠️ DIRTY | — |
 | ned-autonomous | ⚠️ DIRTY | — |
