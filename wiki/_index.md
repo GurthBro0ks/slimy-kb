@@ -169,3 +169,4 @@ Problems encountered and resolved — reusable fix signatures:
 - [NUC1 Repo Remote SSH Normalization](troubleshooting/nuc1-repo-remote-ssh-normalization.md) — Normalized GitHub remotes to SSH on NUC1; all GurthBro0ks repos use SSH, third-party repos guarded.
 - [NUC1 Wrapper Recursion Fix](troubleshooting/nuc1-wrapper-recursion-fix.md) — Fix for NUC1 wrapper recursion guard interference causing finish-hook behavior drift and child-compile protection failures.
 - [NUC2 Repo Remote SSH Normalization](troubleshooting/nuc2-repo-remote-ssh-normalization.md) — Normalized GitHub remotes to SSH on NUC2; `agents-backup-full` converted from HTTPS.
+- [Nginx Certbot ACME Fix](troubleshooting/nginx-certbot-acme-fix.md) — Fix for ACME challenge proxied to Next.js `/login` redirect; switched certbot to webroot authenticator.
