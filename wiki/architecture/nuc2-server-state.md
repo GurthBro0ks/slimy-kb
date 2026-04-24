@@ -2,8 +2,8 @@
 > Category: architecture
 > Sources: raw/decisions/seed-server-state.md
 > Created: 2026-04-08
-> Updated: 2026-04-10
-> Note: seed-server-state.md last updated 2026-03-31. Content is current — no structural changes since last compile. Updated date only.
+> Updated: 2026-04-24
+> Note: Re-verified 2026-04-24 (compile 20260424-174222): seed-server-state.md last updated 2026-03-31. Content current. No structural changes since last compile. Status: reviewed.
 > Status: reviewed
 
 <!-- KB METADATA

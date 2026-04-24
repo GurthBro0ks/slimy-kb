@@ -2,9 +2,9 @@
 > Category: troubleshooting
 > Sources: raw/research/2026-04-05-slimy-nuc2-autofinish-autocompile-fix.md, raw/research/2026-04-05-slimy-nuc2-autofinish-parity-check.md, raw/agent-learnings/2026-04-05-nuc2-no-pager-finish-hook-fix.md, raw/research/2026-04-05-slimy-nuc2-no-pager-finish-hook-fix.md, raw/research/2026-04-05-slimy-nuc1-wrapper-recursion-fix.md
 > Created: 2026-04-05
-> Updated: 2026-04-11
+> Updated: 2026-04-24
 > Status: reviewed
-> Note: Re-verified 2026-04-11 (compile 20260411-230740): all priority batch files already sourced or deferred. No new wiki content required. Status: reviewed.
+> Note: Re-verified 2026-04-24 (compile 20260424-174222): all priority batch files already sourced or deferred. seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → same source as clawd+workspace rules; seed-progress-history.md → deferred (no new content); seed-server-state.md → nuc2-server-state.md; all 2026-04-05 research/agent-learnings already sourced into troubleshooting articles (kb-autofinish-autocompile-fix, nuc2-repo-remote-ssh-normalization, nuc1-wrapper-recursion-fix, nginx-certbot-acme-fix); 2026-04-22 certbot-acme-fix duplicate of existing article — deferred. No new wiki content required. Status: reviewed.
 
 <!-- KB METADATA
 > Last edited: 2026-04-24 12:32 UTC (git)
