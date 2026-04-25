@@ -1,24 +1,24 @@
 # NUC1 Current State
 
 > Category: architecture
-> Updated: 2026-04-25T00:33:10Z
+> Updated: 2026-04-25T12:34:09Z
 > Sources: raw/inbox-nuc1/
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-04-25 00:33 UTC (git)
-> Version: r53 / f9c7f6a
+> Last edited: 2026-04-25 12:34 UTC (git)
+> Version: r54 / 9c811d4
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc1
-- **Last seen:** 20260424T124501Z
+- **Last seen:** 20260425T004601Z
 
 ## Repository Status
 - **Total repos tracked:** 16
-- **Dirty (uncommitted changes):** Slimefun4, PrivateStorage, DynaTech, mission-control, kb, ned-autonomous, stoat-source, mailbox_outbox, slimy-chat, clawd, ned-clawd
+- **Dirty (uncommitted changes):** Slimefun4, PrivateStorage, DynaTech, mission-control, ned-autonomous, stoat-source, mailbox_outbox, slimy-chat, clawd, ned-clawd
 - **Diverged (ahead + behind remote):** Slimefun4, slimy-monorepo
 
 ## Active Services (from digest)
@@ -29,7 +29,6 @@ KB METADATA -->
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: PrivateStorage — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: DynaTech — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: mission-control — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: kb — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-autonomous — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: stoat-source — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: mailbox_outbox — repo_drift (fresh)
@@ -38,7 +37,6 @@ KB METADATA -->
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-clawd — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo diverged from remote: Slimefun4 — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 KB has uncommitted changes — repo_drift (fresh)
 
 <!-- END MACHINE MANAGED -->
 

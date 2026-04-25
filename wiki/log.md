@@ -4,8 +4,8 @@
 > Host: slimy-nuc2
 
 <!-- KB METADATA
-> Last edited: 2026-04-25 00:33 UTC (git)
-> Version: r91 / f9c7f6a
+> Last edited: 2026-04-25 12:34 UTC (git)
+> Version: r92 / 9c811d4
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -3036,5 +3036,79 @@ KB METADATA -->
 - summary: 12h maintenance run
 - commit: f9c7f6a
 - notes: auto-maintenance from kb-maintenance.sh 2026-04-25T12:34:03Z
+
+
+## [2026-04-25 12:34] wiki_manager | stage1.86 todo queue generation
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_candidate-promotion-rules.md
+  - wiki/_manager-status.md
+  - wiki/_nuc-intake.md
+  - wiki/_page-types.md
+  - wiki/_stale.md
+  - wiki/architecture/auth-and-retired-services.md
+  - wiki/architecture/cross-nuc-communication-matrix.md
+  - wiki/architecture/harness-runtime-topology.md
+  - wiki/architecture/knowledge-base-build-pipeline.md
+  - wiki/architecture/nuc-topology-and-services.md
+  - wiki/architecture/nuc1-current-state.md
+  - wiki/architecture/nuc2-current-state.md
+  - wiki/architecture/nuc2-server-state.md
+  - wiki/architecture/slimyai-login-and-session-flow.md
+  - wiki/concepts/agent-session-contract.md
+  - wiki/concepts/source-of-truth-ledgers.md
+  - wiki/concepts/truth-gate.md
+  - wiki/patterns/memory-capture-pattern.md
+  - wiki/patterns/session-closeout-pattern.md
+  - wiki/projects/_project-health-index.md
+  - wiki/projects/actionbook.md
+  - wiki/projects/agents-backup-full.md
+  - wiki/projects/agents-plugin-ecosystem.md
+  - wiki/projects/apify-market-scanner.md
+  - wiki/projects/capture-dashboard.md
+  - wiki/projects/chat-app.md
+  - wiki/projects/chriss-agent.md
+  - wiki/projects/clawd-agent-rules.md
+  - wiki/projects/clawd-workspace-governance.md
+  - wiki/projects/clawd.md
+  - wiki/projects/kalshi-ai-trading-bot.md
+  - wiki/projects/mailbox-ingest.md
+  - wiki/projects/mailbox-nuc-comms.md
+  - wiki/projects/mailbox-outbox.md
+  - wiki/projects/mcp-agent-mailbox.md
+  - wiki/projects/mission-control.md
+  - wiki/projects/ned-autonomous.md
+  - wiki/projects/ned-clawd.md
+  - wiki/projects/nuc1-project-anomalies.md
+  - wiki/projects/obsidian-headless-sync.md
+  - wiki/projects/obsidian-vault-automation.md
+  - wiki/projects/openclaw-agents.md
+  - wiki/projects/operator-console.md
+  - wiki/projects/pm-updown-bot-bundle.md
+  - wiki/projects/repo-health-overview.md
+  - wiki/projects/slimy-chat.md
+  - wiki/projects/slimy-discord-bot.md
+  - wiki/projects/slimy-kb.md
+  - wiki/projects/slimy-monorepo.md
+  - wiki/projects/slimy-web.md
+  - wiki/projects/slimyai-setup.md
+  - wiki/projects/stoat-source.md
+  - wiki/projects/workspace-agent-rules.md
+  - wiki/projects/workspace-executor.md
+  - wiki/projects/workspace-researcher.md
+  - wiki/troubleshooting/kb-autofinish-autocompile-fix.md
+  - wiki/troubleshooting/nginx-certbot-acme-fix.md
+  - wiki/troubleshooting/nuc1-repo-remote-ssh-normalization.md
+  - wiki/troubleshooting/nuc1-wrapper-recursion-fix.md
+  - wiki/troubleshooting/nuc2-repo-remote-ssh-normalization.md
+  - wiki/troubleshooting/q1-2026-operational-fixes.md
+  - wiki/wiki-manager-operator-runbook.md  - raw/inbox-nuc1/2026-04-25-nuc1-repos.json
+  - raw/inbox-nuc1/2026-04-25-nuc1-repos.md
+  - raw/inbox-nuc1/2026-04-25-nuc1-state.md
+  - raw/research/2026-04-25-slimy-nuc2-state.md
+- summary: stage1.86 todo queue generation
+- commit: 9c811d4
+- notes: stage1.86 run: todos=18 nuc1_items=45 nuc1_evidence=YES
 
 

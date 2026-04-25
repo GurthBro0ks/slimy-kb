@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-04-25 00:33 UTC (git)
-> Version: r46 / f9c7f6a
+> Last edited: 2026-04-25 12:34 UTC (git)
+> Version: r47 / 9c811d4
 KB METADATA -->
 
 Mission Control is a coordination surface for tasks, agents, comms, calendar, memory, and webhook-triggered workflows.
@@ -60,13 +60,13 @@ Mission Control is a coordination surface for tasks, agents, comms, calendar, me
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-04-25T00:33:10Z
+**Last updated:** 2026-04-25T12:34:09Z
 **NUC1 status:** DIRTY, synced
-**NUC1 commit:** `957ae5e` — chore: add per-repo harness templates + fix next.config for standalone build
+**NUC1 commit:** `847d7f5` — feat: add blocker aggregation foundation API
 **Branch:** main
 
 ### Open Issues
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mission-control (repo_drift, 20x, fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mission-control (repo_drift, 21x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`
