@@ -1,5 +1,5 @@
 {
-  "ts": "20260424T004402Z",
+  "ts": "20260424T124501Z",
   "hostname": "unknown",
   "count": 16,
   "repos": [
@@ -66,8 +66,8 @@
       "relative_path": "mission-control",
       "ok": true,
       "branch": "main",
-      "commit_hash": "b106eb1d747b",
-      "commit_subject": "chore: install agent harness from slimy-harness",
+      "commit_hash": "957ae5e18a40",
+      "commit_subject": "chore: add per-repo harness templates + fix next.config for standalone build",
       "dirty": true,
       "remote": "github.com:GurthBro0ks/mission-control",
       "ahead_behind": {
@@ -85,8 +85,8 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "be93f88a1f08",
-      "commit_subject": "feat(sequencer): live dispatch via opencode run + tmux, replaces broken slimy-run dispatch",
+      "commit_hash": "a070d7ed3cbf",
+      "commit_subject": "fix(sequencer): eliminate JSON-into-Python interpolation antipattern, block stale ned-autonomous repo",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
@@ -239,7 +239,7 @@
       "remote": "github.com:GurthBro0ks/slimy-monorepo",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 58,
+        "ahead": 69,
         "behind": 5
       },
       "kb_bridge_present": false,

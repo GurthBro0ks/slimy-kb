@@ -1,14 +1,14 @@
 # Orphaned Pages
 
 > Pages with zero inbound links from other non-index wiki pages.
-> Generated: 2026-04-24T12:32:04Z by kb-lint.sh
+> Generated: 2026-04-25T00:33:04Z by kb-lint.sh
 
 <!-- KB METADATA
 > Last edited: 2026-04-24 12:32 UTC (git)
-> Version: r49 / 7cf9103
+> Version: r50 / 11541da
 KB METADATA -->
 
-**Total orphans: 8**
+**Total orphans: 9**
 
 ## Likely Parent Pages
 
@@ -19,6 +19,7 @@ KB METADATA -->
 - `projects/nuc1-project-anomalies.md`
 - `projects/obsidian-vault-automation.md`
 - `projects/repo-health-overview.md`
+- `troubleshooting/nginx-certbot-acme-fix.md`
 - `troubleshooting/nuc1-wrapper-recursion-fix.md`
 
 ## All Orphaned Pages
@@ -29,4 +30,5 @@ KB METADATA -->
 - `projects/nuc1-project-anomalies.md`
 - `projects/obsidian-vault-automation.md`
 - `projects/repo-health-overview.md`
+- `troubleshooting/nginx-certbot-acme-fix.md`
 - `troubleshooting/nuc1-wrapper-recursion-fix.md`

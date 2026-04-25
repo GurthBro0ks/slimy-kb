@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-04-24 12:32 UTC (git)
-> Version: r37 / 7cf9103
+> Version: r38 / 11541da
 KB METADATA -->
 
 OpenCLAW workspace agents are the execution and research subagents managed by the OpenCLAW gateway on NUC1.

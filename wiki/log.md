@@ -5,7 +5,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-04-24 12:32 UTC (git)
-> Version: r88 / 7cf9103
+> Version: r89 / 11541da
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -2878,5 +2878,16 @@ KB METADATA -->
 - summary: stage1.86 todo queue generation
 - commit: 7cf9103
 - notes: stage1.86 run: todos=20 nuc1_items=42 nuc1_evidence=YES
+
+
+## [2026-04-25 00:33] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/architecture/nuc2-server-state.md
+  - wiki/troubleshooting/kb-autofinish-autocompile-fix.md  - (none)
+- summary: 12h maintenance run
+- commit: 131f503
+- notes: auto-maintenance from kb-maintenance.sh 2026-04-25T00:33:03Z
 
 
