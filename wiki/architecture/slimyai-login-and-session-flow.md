@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-04-26 00:35 UTC (git)
-> Version: r43 / 35740c1
+> Last edited: 2026-04-26 12:36 UTC (git)
+> Version: r44 / cdcc954
 KB METADATA -->
 
 This article documents the active SlimyAI web login/session architecture and explicitly separates canonical behavior from legacy or unclear paths.
