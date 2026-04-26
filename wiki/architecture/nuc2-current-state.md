@@ -1,19 +1,19 @@
 # NUC2 Current State
 
 > Category: architecture
-> Updated: 2026-04-25T12:34:09Z
+> Updated: 2026-04-26T00:35:10Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-04-25 12:34 UTC (git)
-> Version: r54 / b38a35a
+> Last edited: 2026-04-26 00:35 UTC (git)
+> Version: r55 / cc157bd
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc2
-- **Last updated:** 2026-04-25T12:34:09Z
+- **Last updated:** 2026-04-26T00:35:10Z
 
 ## Active Services
 - - pm2: not available
@@ -35,7 +35,7 @@ KB METADATA -->
 - **Weak-linked pages:** 9
 
 ## Open Issues (from todo queue)
-- **[HIGH/emerging]** Resolve 18 orphaned wiki pages — wiki_gap (fresh)
+- **[HIGH/candidate]** Resolve 18 orphaned wiki pages — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: log.md — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: projects/agents-backup-full.md — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: projects/mailbox-outbox.md — wiki_gap (fresh)
