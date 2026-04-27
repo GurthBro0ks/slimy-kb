@@ -5,8 +5,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-04-26 12:36 UTC (git)
-> Version: r46 / 85c0860
+> Last edited: 2026-04-27 00:36 UTC (git)
+> Version: r47 / 934c004
 KB METADATA -->
 
 OpenClaw workspace executor — the execution-focused subagent in the OpenCLAW agent hierarchy. Handles task execution, session management, memory protocols, heartbeat scheduling, and group chat safety. Part of the .openclaw agent framework.
