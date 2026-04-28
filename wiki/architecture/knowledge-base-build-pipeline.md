@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-04-28 00:38 UTC (git)
-> Version: r54 / 5bb9a1d
+> Version: r55 / 5e969cc
 KB METADATA -->
 
 This article defines the end-to-end workflow for how SlimyAI knowledge is captured, compiled, queried, and synchronized across NUC1/NUC2.
