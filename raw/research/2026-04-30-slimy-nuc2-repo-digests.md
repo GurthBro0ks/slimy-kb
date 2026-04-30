@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-04-30T00:42:09Z
+# NUC2 Repo Digests — 2026-04-30T12:43:33Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-04-30T00:42:09Z
+**Timestamp:** 2026-04-30T12:43:33Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -28,8 +28,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 6e51fd7
-- **Subject:** kb: maintenance run 2026-04-30-0042 from slimy-nuc2
+- **Commit:** 61746b3
+- **Subject:** kb: maintenance run 2026-04-30-1243 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -84,8 +84,8 @@
 - **Path:** `/home/slimy/slimy-monorepo`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 55d14ea
-- **Subject:** web-phase4: add 404 page, standardize placeholders, nav audit — web audit complete
+- **Commit:** 6c813bb
+- **Subject:** fix(web): preserve metrics for one-type screenshot batches
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/slimy-monorepo.git
 - **Name:** slimy-monorepo
