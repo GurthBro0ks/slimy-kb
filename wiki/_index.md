@@ -3,8 +3,8 @@
 > Last compiled: 2026-04-14 (child-compile 20260414-181150 — re-verified all priority batch files: seed-clawd-agents.md/seed-workspace-agents.md/seed-agents-rules.md/seed-progress-history.md/seed-server-state.md already sourced or deferred (unchanged); all 2026-04-05 research/agent-learning files (NUC1/NUC2 SSH normalization, autofinish/autocompile-fix, no-pager fix, wrapper recursion fix, wrapper test) already sourced into troubleshooting articles; no new wiki content required; status: reviewed)
 
 <!-- KB METADATA
-> Last edited: 2026-05-01 00:44 UTC (git)
-> Version: r105 / e7321c6
+> Last edited: 2026-05-01 12:45 UTC (git)
+> Version: r106 / 32957d8
 KB METADATA -->
 
 ---
