@@ -4,8 +4,8 @@
 > Generated: 2026-05-01T00:44:04Z by kb-lint.sh
 
 <!-- KB METADATA
-> Last edited: 2026-04-30 12:43 UTC (git)
-> Version: r74 / ca71345
+> Last edited: 2026-05-01 00:44 UTC (git)
+> Version: r75 / afc333b
 KB METADATA -->
 
 **Total weak links: 9**
