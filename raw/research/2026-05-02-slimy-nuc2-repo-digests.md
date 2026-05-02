@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-05-02T00:46:09Z
+# NUC2 Repo Digests — 2026-05-02T12:47:09Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-05-02T00:46:09Z
+**Timestamp:** 2026-05-02T12:47:09Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -28,8 +28,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 13a1e14
-- **Subject:** kb: maintenance run 2026-05-02-0046 from slimy-nuc2
+- **Commit:** b7a4835
+- **Subject:** kb: maintenance run 2026-05-02-1247 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -84,8 +84,8 @@
 - **Path:** `/home/slimy/slimy-monorepo`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 072782a
-- **Subject:** fix(web): block fuzzy screenshot name duplicates
+- **Commit:** afe2d55
+- **Subject:** Merge branch 'main' of github.com:GurthBro0ks/slimy-monorepo
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/slimy-monorepo.git
 - **Name:** slimy-monorepo
