@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-05-01 12:45 UTC (git)
-> Version: r66 / 32957d8
+> Version: r67 / 0c0c42c
 KB METADATA -->
 
 Apify-based market data scraping tool for the trading pipeline. Currently in MAINTENANCE/IDLE status — not actively deployed or running.
