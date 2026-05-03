@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-05-02 12:47 UTC (git)
-> Version: r69 / b7a4835
+> Version: r70 / cd597fc
 KB METADATA -->
 
 This concept defines the non-negotiable working contract used across SlimyAI repos.
