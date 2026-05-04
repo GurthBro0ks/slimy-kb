@@ -6,8 +6,8 @@
 > Status: reviewed
 
 <!-- KB METADATA
-> Last edited: 2026-05-03 12:49 UTC (git)
-> Version: r81 / 37a4a08
+> Last edited: 2026-05-04 00:50 UTC (git)
+> Version: r82 / bea4c38
 KB METADATA -->
 
 SlimyAI workspace agent operating rules, compiled from the canonical `AGENTS.md` found in the Clawd workspace directory.
@@ -77,13 +77,13 @@ All task results MUST pass through the proof gate before being written to result
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-05-03T12:49:09Z
+**Last updated:** 2026-05-04T00:50:09Z
 **NUC1 status:** DIRTY, synced
 **NUC1 commit:** `9692845` — fix(clawd): make executor scripts workspace-portable
 **Branch:** main
 
 ### Open Issues
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: clawd (repo_drift, 37x, fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: clawd (repo_drift, 38x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`

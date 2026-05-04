@@ -5,8 +5,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-05-03 12:49 UTC (git)
-> Version: r77 / 37a4a08
+> Last edited: 2026-05-04 00:50 UTC (git)
+> Version: r78 / bea4c38
 KB METADATA -->
 
 AI agent workspace with session management, memory protocols, heartbeats, and group chat safety. Acts as the host workspace for the Actionbook subdirectory and provides Mission Control integration scripts. NUC1.
@@ -49,13 +49,13 @@ Ned-Clawd is the primary agent workspace on NUC1. It is not just a passive works
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-05-03T12:49:09Z
+**Last updated:** 2026-05-04T00:50:09Z
 **NUC1 status:** DIRTY, synced
 **NUC1 commit:** `d6bada4` — docs: auto-sync project docs from slimy-nuc1 2026-04-11
 **Branch:** master
 
 ### Open Issues
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-clawd (repo_drift, 37x, fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-clawd (repo_drift, 38x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`
