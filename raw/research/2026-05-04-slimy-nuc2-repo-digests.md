@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-05-04T00:50:09Z
+# NUC2 Repo Digests — 2026-05-04T12:50:09Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-05-04T00:50:09Z
+**Timestamp:** 2026-05-04T12:50:09Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -11,8 +11,8 @@
 - **Path:** `/home/slimy/clawd`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 5c6cfc9
-- **Subject:** chore: compound nightly review May 3 - 30+ days silence, NUC1 down 27+ days
+- **Commit:** a6346f7
+- **Subject:** chore(memory): compound-nightly-review May 4 - 31+ days silence
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/clawd.git
 
@@ -28,8 +28,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** bea4c38
-- **Subject:** kb: maintenance run 2026-05-04-0050 from slimy-nuc2
+- **Commit:** 8a529e2
+- **Subject:** kb: maintenance run 2026-05-04-1250 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
