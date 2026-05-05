@@ -5,8 +5,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-05-05 00:50 UTC (git)
-> Version: r83 / e8418b6
+> Last edited: 2026-05-05 12:51 UTC (git)
+> Version: r84 / b0b592c
 KB METADATA -->
 
 Rust-based backend services for the Revolt/Stoat chat platform. Powers the slimy-chat Docker stack — the 16-container self-hosted chat system at chat.slimyai.xyz on NUC1.
@@ -78,13 +78,13 @@ Plus supporting services: MongoDB, Redis (KeyDB), RabbitMQ, MinIO, Caddy, Postfi
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-05-05T00:50:12Z
+**Last updated:** 2026-05-05T12:51:09Z
 **NUC1 status:** DIRTY, synced
 **NUC1 commit:** `020a4a0` — docs: auto-sync project docs from slimy-nuc1 2026-04-11
 **Branch:** main
 
 ### Open Issues
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: stoat-source (repo_drift, 40x, fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: stoat-source (repo_drift, 41x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`

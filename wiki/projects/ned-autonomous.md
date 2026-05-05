@@ -5,8 +5,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-05-05 00:50 UTC (git)
-> Version: r87 / e8418b6
+> Last edited: 2026-05-05 12:51 UTC (git)
+> Version: r88 / b0b592c
 KB METADATA -->
 
 Ned-Autonomous is the PM2-managed core autonomous orchestrator on NUC1, running the `agent-loop` process.
@@ -41,13 +41,13 @@ ned-clawd (cron) → register-agents.sh → registers workspace agents with gate
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-05-05T00:50:12Z
+**Last updated:** 2026-05-05T12:51:09Z
 **NUC1 status:** DIRTY, synced
 **NUC1 commit:** `fb5ff79` — chore: auto-sync 2026-04-07
 **Branch:** main
 
 ### Open Issues
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-autonomous (repo_drift, 62x, fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-autonomous (repo_drift, 63x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`
