@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-05-04 12:50 UTC (git)
-> Version: r81 / 5aa1d13
+> Last edited: 2026-05-05 00:50 UTC (git)
+> Version: r82 / bca0577
 KB METADATA -->
 
 Slimy Chat is a Revolt-based self-hosted chat platform at chat.slimyai.xyz. Invite-only registration with email verification.
@@ -38,13 +38,13 @@ Slimy Chat is a Revolt-based self-hosted chat platform at chat.slimyai.xyz. Invi
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-05-04T12:50:10Z
+**Last updated:** 2026-05-05T00:50:12Z
 **NUC1 status:** DIRTY, synced
 **NUC1 commit:** `482c773` — docs: auto-sync project docs from slimy-nuc1 2026-04-11
 **Branch:** main
 
 ### Open Issues
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: slimy-chat (repo_drift, 39x, fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: slimy-chat (repo_drift, 40x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`
