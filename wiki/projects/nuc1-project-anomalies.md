@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-05-04 12:50 UTC (git)
-> Version: r76 / 8a529e2
+> Version: r77 / 5aa1d13
 KB METADATA -->
 
 Anomalies and discrepancies found during NUC1 project discovery (2026-04-05).
