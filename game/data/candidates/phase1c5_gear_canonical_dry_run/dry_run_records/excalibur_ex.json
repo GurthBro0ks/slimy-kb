@@ -1,0 +1,32 @@
+{
+  "base_stats": {
+    "atk": 300,
+    "def": 60,
+    "hp": 600,
+    "rush": 60
+  },
+  "canonical_promotion": false,
+  "effect": "ATK +240",
+  "file_no": 10,
+  "icon_filename": null,
+  "id": "excalibur_ex",
+  "name": "Excalibur EX",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "{{retext|Excalibur EX|orange",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Instrument",
+    "subsection": "Red",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "red"
+}

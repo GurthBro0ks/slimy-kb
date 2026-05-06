@@ -1,0 +1,32 @@
+{
+  "base_stats": {
+    "atk": 20,
+    "def": 20,
+    "hp": 600,
+    "rush": 60
+  },
+  "canonical_promotion": false,
+  "effect": "In any Realm, 2x Time Chest Drops +4%",
+  "file_no": 901,
+  "icon_filename": null,
+  "id": "teslla",
+  "name": "Teslla",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "{{retext|Lottery Bead Purple|purple",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Realm",
+    "subsection": "Purple",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "orange"
+}

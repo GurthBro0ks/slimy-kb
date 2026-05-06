@@ -1,0 +1,32 @@
+{
+  "base_stats": {
+    "atk": 80,
+    "def": 80,
+    "hp": 800,
+    "rush": 80
+  },
+  "canonical_promotion": false,
+  "effect": null,
+  "file_no": 665,
+  "icon_filename": null,
+  "id": "demon_god_crystal",
+  "name": "Demon God Crystal",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "Currently only available from final Lucky Clover Round",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Material",
+    "subsection": "Orange",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "orange"
+}

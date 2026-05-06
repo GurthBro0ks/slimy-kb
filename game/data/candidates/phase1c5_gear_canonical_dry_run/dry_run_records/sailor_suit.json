@@ -1,0 +1,32 @@
+{
+  "base_stats": {
+    "atk": 10,
+    "def": 10,
+    "hp": 100,
+    "rush": 10
+  },
+  "canonical_promotion": false,
+  "effect": "Per 10% HP lost, Snail ATK +30<br>Per 10% HP lost, Snail DEF +30",
+  "file_no": 15,
+  "icon_filename": null,
+  "id": "sailor_suit",
+  "name": "Sailor Suit",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "Defeat [[Incense#Special Incense Events",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Armor",
+    "subsection": "Green",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "orange"
+}

@@ -1,0 +1,32 @@
+{
+  "base_stats": {
+    "atk": 10,
+    "def": 10,
+    "hp": 100,
+    "rush": 50
+  },
+  "canonical_promotion": false,
+  "effect": "Travel SPD +1.6%",
+  "file_no": 907,
+  "icon_filename": null,
+  "id": "iron_track",
+  "name": "Iron Track",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "Divine Order Chest (0.8% chance)",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Realm",
+    "subsection": "Blue",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "orange"
+}

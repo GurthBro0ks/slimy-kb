@@ -1,0 +1,32 @@
+{
+  "base_stats": {
+    "atk": 40,
+    "def": 40,
+    "hp": 400,
+    "rush": 200
+  },
+  "canonical_promotion": false,
+  "effect": "When you enter a new area, gain +80 INTEL",
+  "file_no": 911,
+  "icon_filename": null,
+  "id": "gear_ring",
+  "name": "Gear Ring",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "Divine Order Chest (0.2% chance)",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Realm",
+    "subsection": "Orange",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "orange"
+}

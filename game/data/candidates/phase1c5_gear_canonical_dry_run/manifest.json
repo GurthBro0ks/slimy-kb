@@ -1,0 +1,31 @@
+{
+  "canonical_promotion": false,
+  "dry_run_blocked_records": 0,
+  "dry_run_ready_records": 313,
+  "duplicate_ids": {},
+  "error_counts": {},
+  "generated_at": "2026-05-06T16:53:31.859074+00:00",
+  "input_all_candidates": 313,
+  "input_ready_candidates": 313,
+  "input_source_facts": 313,
+  "outputs": [
+    "gear_canonical_dry_run_records.json",
+    "gear_canonical_dry_run_validation_rows.json",
+    "gear_canonical_dry_run_validation_rows.csv",
+    "gear_canonical_dry_run_blocked.json",
+    "dry_run_by_tier/",
+    "dry_run_records/",
+    "manual_promotion_packet.md",
+    "manifest.json"
+  ],
+  "phase": "1C.5",
+  "schema_proposal": "game/data/schemas/proposals/gear.schema.v2.proposal.json",
+  "tier_counts": {
+    "blue": 33,
+    "gray": 25,
+    "green": 36,
+    "orange": 91,
+    "purple": 48,
+    "red": 80
+  }
+}

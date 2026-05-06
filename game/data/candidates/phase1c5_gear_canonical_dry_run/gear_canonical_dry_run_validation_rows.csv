@@ -1,0 +1,314 @@
+id,name,tier_color,slot,hp,atk,def,rush,effect_present,origin_present,source_url,errors,dry_run_status
+ice_skates,Ice Skates,gray,,0,20,0,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+crowbar,Crowbar,gray,,0,20,0,0,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+royal_underwear,Royal Underwear,gray,,0,0,20,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+light_yamato_armor,Light Yamato Armor,gray,,0,0,20,0,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+iron_helmet,Iron Helmet,gray,,0,0,20,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+podao,Podao,gray,,0,20,0,0,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+tactical_boots,Tactical Boots,gray,,0,0,0,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+smoothbore,Smoothbore,gray,,0,20,0,0,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+gentleman_s_staff,Gentleman's Staff,gray,,0,0,20,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+top_hat,Top Hat,gray,,0,20,0,0,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+linen_robe,Linen Robe,gray,,0,20,0,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+khopesh,Khopesh,gray,,0,20,0,0,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+bronze_helmet,Bronze Helmet,gray,,0,0,20,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+javelin,Javelin,gray,,0,20,0,0,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+sikh_turban,Sikh Turban,gray,,0,0,20,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+twin_tip_dagger,Twin Tip Dagger,gray,,0,20,0,0,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+broken_second_hand,Broken Second Hand,gray,,0,20,0,0,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+broken_minute_hand,Broken Minute Hand,gray,,0,0,20,0,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+broken_hour_hand,Broken Hour Hand,gray,,0,0,0,20,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+parsian_pike,Parsian Pike,gray,,0,0,0,20,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+parsian_kite_shield,Parsian Kite Shield,gray,,0,0,20,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+motorbike_helmet,Motorbike Helmet,green,,300,0,10,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+switchblade,Switchblade,green,,0,30,0,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+ninjutsu_armband,Ninjutsu Armband,green,,0,30,0,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+golden_yamato_armor,Golden Yamato Armor,green,,300,0,10,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+heart_protection_mirror,Heart-Protection Mirror,green,,300,0,10,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+wu_scimitar,Wu Scimitar,green,,0,30,0,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+tactical_vest,Tactical Vest,green,,300,0,10,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+colt_revolver,Colt Revolver,green,,0,30,0,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+royal_guard_bearskin_hat,Royal Guard Bearskin Hat,green,,300,0,10,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+lee_enfield_rifle,Lee Enfield Rifle,green,,0,30,0,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+leather_shield,Leather Shield,green,,300,0,10,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+poisoned_dagger,Poisoned Dagger,green,,0,30,0,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+heavy_infantry_helmet,Heavy Infantry Helmet,green,,300,0,10,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+legion_javelins,Legion Javelins,green,,0,30,0,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+mughal_soldier_helmet,Mughal Soldier Helmet,green,,300,0,10,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+pata,Pata,green,,0,30,0,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+time_hand,Time Hand,green,,0,30,0,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+time_cog,Time Cog,green,,300,0,10,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+bichaq,Bichaq,green,,0,30,0,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+pesh_kabz,Pesh-Kabz,green,,300,0,10,0,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+bulletproof_vest,Bulletproof Vest,blue,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+assault_rifle_model_98,Assault Rifle Model 98,blue,,100,30,10,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+servant_spirit_pendant,Servant Spirit Pendant,blue,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+crimson_haori_jacket,Crimson Haori Jacket,blue,,300,10,30,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+rainbow_tassel,Rainbow Tassel,blue,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+ancient_blade,Ancient Blade,blue,,100,300,10,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+pasgt_helmet,PASGT Helmet,blue,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+springfield_rifle,Springfield Rifle,blue,,100,30,10,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+tuxedo,Tuxedo,blue,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+sword_cane,Sword Cane,blue,,100,30,10,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+tactical_helmet,Tactical Helmet,blue,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+duckbill_axe,Duckbill Axe,blue,,100,30,10,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+spartan_shield,Spartan Shield,blue,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+macedonian_spear,Macedonian Spear,blue,,100,30,10,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+mahatma_s_robe,Mahatma's Robe,blue,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+kukri,Kukri,blue,,100,30,10,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+time_wheel,Time Wheel,blue,,100,30,10,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+time_blade,Time Blade,blue,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+war_scythes,War Scythes,blue,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+shamshir,Shamshir,blue,,300,10,30,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+pirate,Pirate,orange,,300,10,30,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+iron_track,Iron Track,orange,,100,10,10,50,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+diver,Diver,orange,,300,10,10,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+gas_mask,Gas Mask,purple,,400,40,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+golden_assault_rifle,Golden Assault Rifle,purple,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+genji_shield,Genji Shield,purple,,400,40,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+genji_helmet,Genji Helmet,purple,,600,20,60,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+genji_gloves,Genji Gloves,purple,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+blade_muramasa,Blade Muramasa,purple,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+royal_banner,Royal Banner,purple,,600,20,60,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+silver_lion,Silver Lion,purple,,400,40,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+7_star_blade,7-Star Blade,purple,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+mechanical_exoskeleton,Mechanical Exoskeleton,purple,,400,40,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+powered_glove,Powered Glove,purple,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+holographic_tactical_glasses,Holographic Tactical Glasses,purple,,600,20,60,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+long_range_scope,Long Range Scope,purple,,600,20,60,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+m4_carbine,M4 Carbine,purple,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+britland_crown,Britland Crown,purple,,400,40,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+shotgun_umbrella,Shotgun Umbrella,purple,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+priestly_robe,Priestly Robe,purple,,400,40,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+golden_bronze_dagger,Golden Bronze Dagger,purple,,600,20,60,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+pharaoh_s_scepter,Pharaoh's Scepter,purple,,600,20,60,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+arabic_dagger,Arabic Dagger,purple,,600,20,60,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+guardian_s_longsword,Guardian's Longsword,purple,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+caeser_s_laurel,Caeser's Laurel,purple,,600,20,60,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+justinian_s_robe,Justinian's Robe,purple,,600,20,60,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+heraclius_silver_staff,Heraclius' Silver Staff,purple,,600,20,60,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+achilles_shield,Achilles' Shield,purple,,600,20,60,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+hector_s_spear,Hector's Spear,purple,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+antelope_horn_shield,Antelope Horn Shield,purple,,400,40,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+mughal_scimitar,Mughal Scimitar,purple,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+spacetime_echo,Spacetime Echo,purple,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+time_flute,Time Flute,purple,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+feline_shield,Feline Shield,purple,,400,40,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+sun_mirror_armor,Sun Mirror Armor,purple,,600,20,60,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+parsian_composite_bow,Parsian Composite Bow,purple,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+assassin_s_gauntlet,Assassin's Gauntlet,purple,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+royal_wootz_blade,Royal Wootz Blade,purple,,600,20,60,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+teslla,Teslla,orange,,600,20,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+virgo_tech,Virgo Tech,orange,,800,80,80,80,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+jung_geun_s_gun,Jung-geun's Gun,orange,,400,120,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+genji_armor,Genji Armor,orange,,800,80,80,80,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+blade_murasame,Blade Murasame,orange,,400,120,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+conqueror_spear,Conqueror Spear,orange,,800,80,80,80,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+couple_swords,Couple Swords,orange,,400,120,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+indv_power_armor,Indv. Power Armor,orange,,800,80,80,80,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+indv_high_explosive_rifle,Indv. High-explosive Rifle,orange,,400,120,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+windsor_s_cape,Windsor's cape,orange,,800,80,80,80,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+lion_s_crown,Lion's Crown,orange,,400,120,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+horse_helmet,Horse Helmet,orange,,800,80,80,80,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+damascus_knife,Damascus Knife,orange,,400,120,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+eternal_empire_staff,Eternal Empire Staff,orange,,800,80,80,80,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+stardust_arrow,Stardust Arrow,orange,,400,120,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+indra_s_crown,Indra's Crown,orange,,800,80,80,80,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+ashoka_s_sword,Ashoka's Sword,orange,,400,120,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+eternal_return,Eternal Return,orange,,400,120,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+millennium_ring,Millennium Ring,orange,,800,80,80,80,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+arrow_of_arash,Arrow of Arash,orange,,800,80,80,80,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+jade_saber,Jade Saber,orange,,400,120,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+curator_s_helmet,Curator's Helmet,orange,,1200,40,120,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+gear_ring,Gear Ring,orange,,400,40,40,200,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+warmonger_s_gun,Warmonger's Gun,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+sword_futsuno,Sword Futsuno,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+sky_piercer,Sky Piercer,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+bullet_storm,Bullet Storm,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+crown_of_eternal_daylight,Crown of Eternal Daylight,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+lion_king_s_sword,Lion King's Sword,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+athena_s_spear,Athena's Spear,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+rama_greataxe,Rama Greataxe,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+spacetime_exile,Spacetime Exile,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+mithraic_bow_and_spear,Mithraic Bow & Spear,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+the_great_scientist,The Great Scientist,red,,1800,60,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+overlord_s_hook,Overlord's Hook,red,,1800,60,180,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+the_great_collector,The Great Collector,red,,1800,60,180,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+tremendous_support,Tremendous Support,red,,600,60,60,300,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+deepsea_helmet,Deepsea Helmet,red,,1800,60,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+the_great_engineer,The Great Engineer,red,,600,60,60,300,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+time_wanderer,Time Wanderer,red,,1000,200,200,200,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+lotus_platform,Lotus Platform,green,,150,5,5,15,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+leather_chest_armor,Leather Chest Armor,orange,,50,15,5,15,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+undead_staff,Undead Staff,orange,,300,30,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+the_buried,The Buried,orange,,300,30,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+demon_scythe,Demon Scythe,orange,,100,30,30,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+lotus_platform_iii,Lotus Platform III,blue,,300,10,10,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+prayer_staff,Prayer Staff,orange,,300,10,10,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+mind_control_dagger,Mind Control Dagger,orange,,100,30,10,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+gauss_c14,Gauss C14,orange,,100,10,30,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+mark_ii,Mark II,orange,,100,10,30,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+dragon_fang_dagger,Dragon Fang Dagger,orange,,100,30,10,30,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+lotus_platform_vi,Lotus Platform VI,purple,,600,20,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+crimson_dragon_claw,Crimson Dragon Claw,orange,,200,60,20,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+azazel_s_curse,Azazel's Curse,orange,,400,120,120,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+lotus_platform_ix,Lotus Platform IX,orange,,1200,40,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+broken_dragon_horn,Broken Dragon Horn,orange,,400,120,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+broken_caladbolg,Broken Caladbolg,orange,,400,120,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+fire_of_rage,Fire of Rage,orange,,400,120,40,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+soul_walking,Soul Walking,red,,1800,180,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+serket_staff,Serket Staff,red,,1800,180,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+azazel_s_pact,Azazel's Pact,red,,600,180,180,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+soul_reaper,Soul Reaper,red,,600,180,180,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+lotus_platform_xii,Lotus Platform XII,red,,1800,60,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+seraph_s_light,Seraph's Light,red,,1800,60,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+centaur_armor,Centaur Armor,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+subspace_blade,Subspace Blade,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+mark_iv,Mark IV,red,,600,60,180,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+gauss_m72,Gauss M72,red,,600,60,180,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+claw_of_destruction,Claw of Destruction,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+fang_of_tiamat,Fang of Tiamat,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+dragon_horn,Dragon Horn,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+caladbolg,Caladbolg,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+exploding_rage,Exploding Rage,red,,600,180,60,180,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+excaladbolg,Excaladbolg,red,,1000,300,100,300,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+strength_sword,Strength Sword,orange,,50,25,5,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+hannibel_s_scalpel,Hannibel's Scalpel,green,,50,25,5,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+jack_s_gloves,Jack's Gloves,green,,50,25,5,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+broken_sagesinker,Broken Sagesinker,green,,50,25,5,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+broken_sageender,Broken Sageender,green,,50,25,5,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+broken_sagemurderer,Broken Sagemurderer,green,,50,25,5,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+broken_sagekiller,Broken Sagekiller,blue,,50,25,5,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+shattered_windfire_wheel,Shattered Windfire Wheel,green,,50,25,5,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+shattered_sky_ribbon,Shattered Sky Ribbon,green,,50,25,5,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+shattered_fire_spear,Shattered Fire Spear,green,,50,25,5,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+shattered_palm_leaf_fan,Shattered Palm-Leaf Fan,green,,50,25,5,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+dwarf_mask,Dwarf Mask,orange,,50,5,25,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+lizard_belt,Lizard Belt,orange,,250,5,5,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+slippers,Slippers,orange,,50,5,5,25,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+elegant_gloves,Elegant Gloves,orange,,50,25,5,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+fresnal_lens,Fresnal Lens,green,,100,10,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+crystal_lens,Crystal Lens,green,,100,10,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+sakabato_blade,Sakabato Blade,orange,,100,50,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+walnut_wand,Walnut Wand,orange,,100,50,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+nun_chuck,Nun-chuck,orange,,100,50,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+pulse_rifle,Pulse Rifle,orange,,100,50,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+freddy_s_claw,Freddy's Claw,blue,,100,50,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+jason_s_mask,Jason's Mask,blue,,100,50,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+broken_godsmiter,Broken Godsmiter,blue,,100,50,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+broken_palm_leaf_fan,Broken Palm-Leaf Fan,blue,,100,50,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+broken_fiend_mirror,Broken Fiend Mirror,blue,,100,50,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+multifunction_goggles,Multifunction Goggles,blue,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+infrared_lens,Infrared Lens,blue,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+spring_longsword,Spring Longsword,orange,,200,10,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+hammer_of_frenzy,Hammer of Frenzy,orange,,200,20,20,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+texan_chainsaw,Texan Chainsaw,purple,,200,10,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+cayako_s_charm,Cayako's Charm,purple,,200,10,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+dim_godsmiter,Dim Godsmiter,purple,,200,100,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+dim_ironcutter,Dim Ironcutter,purple,,200,100,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+dim_trident,Dim Trident,purple,,200,100,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+dim_rope_of_truth,Dim Rope of Truth,purple,,200,100,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+scout_goggles,Scout Goggles,purple,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+holographic_lens,Holographic Lens,purple,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+leviathan_gloves,Leviathan Gloves,orange,,200,100,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+imitation_vision,Imitation Vision,orange,,200,100,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+peacock_quill,Peacock Quill,orange,,200,100,20,100,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+excalibur,Excalibur,orange,,400,200,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+anti_strength_saber,Anti-Strength Saber,orange,,400,200,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+butcher_s_hook,Butcher's Hook,orange,,400,200,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+trident,Trident,orange,,400,200,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+battle_detector,Battle Detector,orange,,800,80,80,80,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+electric_hammer,Electric Hammer,orange,,400,40,40,200,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+fossil,Fossil,orange,,400,200,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+drazgul_fang,Drazgul Fang,orange,,400,200,40,200,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+maze_key,Maze Key,orange,,400,200,200,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+b_tadpole_sword,B-Tadpole Sword,orange,,400,200,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+strength_master_s_sword,Strength Master's Sword,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+true_sakabato,True Sakabato,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+oldman_wand,Oldman Wand,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+norris_chuck,Norris-chuck,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+excalibur_ex,Excalibur EX,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+dark_strength,Dark Strength,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+district_9,District 9,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+big_bounce,Big Bounce,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+power_spinach,Power Spinach,red,,600,60,60,300,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+blair_s_curse,Blair's Curse,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+poseidon_s_trident,Poseidon's Trident,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+ancestral_legacy,Ancestral Legacy,red,,600,60,300,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+gilded_belt,Gilded Belt,red,,3000,60,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+empress_slippers,Empress' Slippers,red,,600,60,60,300,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+empress_gloves,Empress Gloves,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+know_it_all_device,Know-It-All Device,red,,1200,120,120,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+hydra_s_gloves,Hydra's Gloves,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+million_volts,Million Volts,red,,600,60,60,300,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+cretaceous_weapon,Cretaceous Weapon,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+golden_drazgul_fang,Golden Drazgul Fang,red,,600,300,60,300,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+virtual_vision,Virtual Vision,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+septreasure_peacock_quill,Septreasure Peacock Quill,red,,600,300,60,300,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+incredible_key,Incredible Key,red,,600,300,300,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+w_tadpole_sword,W-Tadpole Sword,red,,600,300,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+sailor_suit,Sailor Suit,orange,,100,10,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+rock,Rock,orange,,50,5,25,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+lifebuoy,Lifebuoy,orange,,150,5,15,5,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+stage_hat,Stage Hat,orange,,100,10,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+static_belt,Static Belt,orange,,50,5,5,25,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+elven_cape,Elven Cape,orange,,200,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+death_shroud,Death Shroud,orange,,500,10,10,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+strong_round_shield,Strong Round Shield,orange,,100,10,50,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+workout_top,Workout Top,orange,,300,10,30,10,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+saint_s_earring,Saint's Earring,orange,,400,40,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+crown_of_power,Crown of Power,orange,,400,40,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+ring_of_stupor,Ring of Stupor,orange,,200,20,20,100,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+magician,Magician,orange,,400,40,40,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+thorn,Thorn,orange,,1000,20,20,20,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+wisdom_cloak,Wisdom Cloak,orange,,800,80,80,80,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+power_armor,Power Armor,orange,,800,80,80,80,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+alloy_shield,Alloy Shield,orange,,400,40,20,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+chief,Chief,orange,,400,40,200,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+gold_outfit,Gold Outfit,orange,,1200,40,120,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+time_amulet,Time Amulet,orange,,1200,40,120,40,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+ogma_s_cloak,Ogma's Cloak,red,,1200,120,120,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+selene_amulet,Selene Amulet,red,,1200,120,120,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+antimatter_armor,Antimatter Armor,red,,1200,120,120,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+michael_s_earrings,Michael's Earrings,red,,1200,120,120,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+caesar_s_crown,Caesar's Crown,red,,1200,120,120,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+ring_of_paralysis,Ring of Paralysis,red,,600,60,60,300,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+dracula_cape,Dracula Cape,red,,3000,60,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+grandpire_s_robe,Grandpire's Robe,red,,1200,120,120,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+bedrock,Bedrock,red,,600,60,300,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+poseidon_s_blessing,Poseidon's Blessing,red,,1800,60,180,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+fortress,Fortress,red,,600,60,300,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+traveler_outfit,Traveler Outfit,red,,1800,60,180,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+the_great_magician,The Great Magician,red,,1200,120,120,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+antimatter_shield,Antimatter Shield,red,,600,60,300,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+heart_of_nature,Heart of Nature,red,,3000,60,60,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+super_warrior,Super Warrior,red,,600,60,300,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+the_great_entertainer,The Great Entertainer,red,,1200,120,120,120,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+thunder_belt,Thunder Belt,red,,600,60,60,300,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+agamemnon_outfit,Agamemnon Outfit,red,,3000,100,300,100,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+eye_of_akamoddo_amulet,Eye of Akamoddo Amulet,red,,1800,60,180,60,True,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+flower_crown,Flower Crown,gray,,100,0,10,0,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+wooden_ring,Wooden Ring,gray,,100,0,10,0,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+iron_ring,Iron Ring,gray,,0,10,0,10,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+beast_fang,Beast Fang,gray,,0,10,0,10,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+sorcerer_ring,Sorcerer Ring,green,,150,5,15,15,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+warrior_ring,Warrior Ring,green,,50,15,5,15,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+white_pearl,White Pearl,green,,150,5,15,5,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+black_pearl,Black Pearl,green,,50,15,5,15,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+wizard_ring,Wizard Ring,blue,,300,10,30,10,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+crusader_ring,Crusader Ring,blue,,100,30,10,30,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+ruby_brooch,Ruby Brooch,blue,,100,30,10,30,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+sapphire_brooch,Sapphire Brooch,blue,,300,10,30,10,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+seething_bracelet,Seething Bracelet,purple,,200,60,20,60,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+icy_bracelet,Icy Bracelet,purple,,600,20,60,20,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+heaven_amulet,Heaven Amulet,purple,,600,20,60,20,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+abyss_amulet,Abyss Amulet,purple,,200,60,20,60,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+heaven_wings,Heaven Wings,orange,,1200,40,120,40,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+abyss_wings,Abyss Wings,orange,,400,120,40,120,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+crystal_of_will,Crystal of Will,orange,,800,80,80,80,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+demon_god_crystal,Demon God Crystal,orange,,800,80,80,80,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+eye_of_horus,Eye of Horus,orange,,800,80,80,80,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+blasphemy_eye,Blasphemy Eye,orange,,800,80,80,80,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+amulet_of_will,Amulet of Will,red,,1200,120,120,120,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+demon_god_amulet,Demon God Amulet,red,,1200,120,120,120,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review
+amulet_of_will_1,Amulet of Will +1,red,,2000,200,200,200,False,True,https://supersnail.wiki.gg/wiki/Gear,,dry_run_ready_needs_manual_review

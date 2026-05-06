@@ -1,0 +1,32 @@
+{
+  "base_stats": {
+    "atk": 60,
+    "def": 180,
+    "hp": 1800,
+    "rush": 60
+  },
+  "canonical_promotion": false,
+  "effect": "Enemies in exploration drop +24 W-tads<br>(Only when you are really lucky!)<br>Tadpoles Gained: 110,000",
+  "file_no": 906,
+  "icon_filename": null,
+  "id": "the_great_collector",
+  "name": "The Great Collector",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "{{retext|Curator's Helm|orange",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Realm",
+    "subsection": "Red",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "red"
+}

@@ -1,0 +1,32 @@
+{
+  "base_stats": {
+    "atk": 15,
+    "def": 5,
+    "hp": 50,
+    "rush": 15
+  },
+  "canonical_promotion": false,
+  "effect": null,
+  "file_no": 8,
+  "icon_filename": null,
+  "id": "black_pearl",
+  "name": "Black Pearl",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "• [[Fissure",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Material",
+    "subsection": "Green",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "green"
+}

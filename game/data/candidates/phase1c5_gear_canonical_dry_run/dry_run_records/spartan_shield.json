@@ -1,0 +1,32 @@
+{
+  "base_stats": {
+    "atk": 20,
+    "def": 20,
+    "hp": 200,
+    "rush": 20
+  },
+  "canonical_promotion": false,
+  "effect": "In [[Hellas]], INTEL gained +2%<br>",
+  "file_no": 708,
+  "icon_filename": null,
+  "id": "spartan_shield",
+  "name": "Spartan Shield",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "In [[Hellas]], DMG +2%<br>Every Costume Stat +2%",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Realm",
+    "subsection": "Blue",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "blue"
+}

@@ -1,0 +1,1538 @@
+[
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Koryeo]], DMG +4%<br>In [[Koryeo]], INTEL gained +4%",
+    "file_no": 103,
+    "icon_filename": null,
+    "id": "gas_mask",
+    "name": "Gas Mask",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Obtained from Home Chest",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Koryeo]], DMG +4%<br>In [[Koryeo]], INTEL gained +4%",
+    "file_no": 104,
+    "icon_filename": null,
+    "id": "golden_assault_rifle",
+    "name": "Golden Assault Rifle",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "{{retext|Bulletproof Vest|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Yamato]], Snail ATK +48<br>In [[Yamato]], Snail DEF +48",
+    "file_no": 203,
+    "icon_filename": null,
+    "id": "genji_shield",
+    "name": "Genji Shield",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Yamato]] INTEL \"Genji III\"",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Yamato]], Snail DEF +48",
+    "file_no": 204,
+    "icon_filename": null,
+    "id": "genji_helmet",
+    "name": "Genji Helmet",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Yamato]] INTEL \"Genji I\"",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Yamato]], Snail ATK +48",
+    "file_no": 205,
+    "icon_filename": null,
+    "id": "genji_gloves",
+    "name": "Genji Gloves",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Yamato]] INTEL \"Genji II\"",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Yamato]], DMG +4%<br>In [[Yamato]], INTEL gained +4%",
+    "file_no": 206,
+    "icon_filename": null,
+    "id": "blade_muramasa",
+    "name": "Blade Muramasa",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Exchange {{retext|Koban|purple",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Yamato]], DMG +4%<br>In [[Yamato]], INTEL gained +4%",
+    "file_no": 207,
+    "icon_filename": null,
+    "id": "royal_banner",
+    "name": "Royal Banner",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "{{retext|Crimson Haori Jacket|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Cathay]], DMG +4%<br>In [[Cathay]], INTEL gained +4%",
+    "file_no": 303,
+    "icon_filename": null,
+    "id": "silver_lion",
+    "name": "Silver Lion",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Exchange {{retext|Mahjong|purple",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Cathay]], DMG +4%<br>In [[Cathay]], INTEL gained +4%",
+    "file_no": 304,
+    "icon_filename": null,
+    "id": "7_star_blade",
+    "name": "7-Star Blade",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "{{retext|Ancient Blade|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Murika]], Snail ATK +48<br>In [[Murika]], Snail DEF +48",
+    "file_no": 403,
+    "icon_filename": null,
+    "id": "mechanical_exoskeleton",
+    "name": "Mechanical Exoskeleton",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Murika]] INTEL",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Murika]], Snail DEF +48",
+    "file_no": 404,
+    "icon_filename": null,
+    "id": "powered_glove",
+    "name": "Powered Glove",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Murika]] INTEL",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Murika]], Snail ATK +48",
+    "file_no": 405,
+    "icon_filename": null,
+    "id": "holographic_tactical_glasses",
+    "name": "Holographic Tactical Glasses",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Murika]] INTEL",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Murika]], DMG +4%<br>In [[Murika]], INTEL gained +4%",
+    "file_no": 406,
+    "icon_filename": null,
+    "id": "long_range_scope",
+    "name": "Long Range Scope",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Exchange {{retext|Bullet|purple",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Murika]], DMG +4%<br>In [[Murika]], INTEL gained +4%",
+    "file_no": 407,
+    "icon_filename": null,
+    "id": "m4_carbine",
+    "name": "M4 Carbine",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "{{retext|Springfield Rifle|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Britland]], DMG +4%<br>In [[Britland]], INTEL gained +4%<br>In [[Britland]], fleet cannon DMG +4%",
+    "file_no": 503,
+    "icon_filename": null,
+    "id": "britland_crown",
+    "name": "Britland Crown",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Exchange {{retext|Anchor|purple",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Britland]], DMG +4%<br>In [[Britland]], INTEL gained +4%<br>In [[Britland]], fleet cannon DMG +4%",
+    "file_no": 504,
+    "icon_filename": null,
+    "id": "shotgun_umbrella",
+    "name": "Shotgun Umbrella",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "{{retext|Sword Cane|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Kemet]], DMG +4%<br>In [[Kemet]], INTEL gained +4%",
+    "file_no": 603,
+    "icon_filename": null,
+    "id": "priestly_robe",
+    "name": "Priestly Robe",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Exchange {{retext|Ankh|purple",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Kemet]], Snail ATK +60<br>Snail DEF +60",
+    "file_no": 604,
+    "icon_filename": null,
+    "id": "golden_bronze_dagger",
+    "name": "Golden Bronze Dagger",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Kemet]] INTEL",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Kemet]], Snail DEF +60",
+    "file_no": 605,
+    "icon_filename": null,
+    "id": "pharaoh_s_scepter",
+    "name": "Pharaoh's Scepter",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Kemet]] INTEL",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Kemet]], Snail ATK +60",
+    "file_no": 606,
+    "icon_filename": null,
+    "id": "arabic_dagger",
+    "name": "Arabic Dagger",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Kemet]] INTEL",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Kemet]], DMG +4%<br>In [[Kemet]], INTEL gained +4%",
+    "file_no": 607,
+    "icon_filename": null,
+    "id": "guardian_s_longsword",
+    "name": "Guardian's Longsword",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "{{retext|Ax|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Hellas]], Snail ATK +60<br>In [[Hellas]], Snail DEF +60",
+    "file_no": 703,
+    "icon_filename": null,
+    "id": "caeser_s_laurel",
+    "name": "Caeser's Laurel",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Hellas]] INTEL",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Hellas]], Snail DEF +60",
+    "file_no": 704,
+    "icon_filename": null,
+    "id": "justinian_s_robe",
+    "name": "Justinian's Robe",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Hellas]] INTEL",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Hellas]], Snail ATK +60",
+    "file_no": 705,
+    "icon_filename": null,
+    "id": "heraclius_silver_staff",
+    "name": "Heraclius' Silver Staff",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Hellas]] INTEL",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Hellas]], INTEL gained +4%<br>In [[Hellas]], DMG +4%<br>Every Costume Stat +4%",
+    "file_no": 706,
+    "icon_filename": null,
+    "id": "achilles_shield",
+    "name": "Achilles' Shield",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Exchange {{retext|Feather|purple",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Hellas]], INTEL gained +4%<br>In [[Hellas]], DMG +4%<br>Every Costume Stat +4%",
+    "file_no": 707,
+    "icon_filename": null,
+    "id": "hector_s_spear",
+    "name": "Hector's Spear",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "{{retext|Macedonian Spear|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Bharata]], DMG +4%<br>In [[Bharata]], INTEL gained +4%",
+    "file_no": 803,
+    "icon_filename": null,
+    "id": "antelope_horn_shield",
+    "name": "Antelope Horn Shield",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Exchange {{retext|Rosary|purple",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Bharata]], DMG +4%<br>In [[Bharata]], INTEL gained +4%",
+    "file_no": 804,
+    "icon_filename": null,
+    "id": "mughal_scimitar",
+    "name": "Mughal Scimitar",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "{{retext|Kukri|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In the [[Time Rift",
+    "file_no": 1007,
+    "icon_filename": null,
+    "id": "spacetime_echo",
+    "name": "Spacetime Echo",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Rift]], DMG +4%<br>In the [[Time Rift",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In the [[Time Rift",
+    "file_no": 1008,
+    "icon_filename": null,
+    "id": "time_flute",
+    "name": "Time Flute",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Rift]], Snail ATK +60<br>In the [[Time Rift",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Parsia]], ATK +60<br>In [[Parsia]], DEF +60",
+    "file_no": 723,
+    "icon_filename": null,
+    "id": "feline_shield",
+    "name": "Feline Shield",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Parsia]] INTEL",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Parsia]], DEF +60",
+    "file_no": 724,
+    "icon_filename": null,
+    "id": "sun_mirror_armor",
+    "name": "Sun Mirror Armor",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Parsia]] INTEL",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Parsia]], ATK +60",
+    "file_no": 725,
+    "icon_filename": null,
+    "id": "parsian_composite_bow",
+    "name": "Parsian Composite Bow",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Reward of [[Parsia]] INTEL",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Parsia]], DMG +4%<br>In [[Parsia]], INTEL +4%",
+    "file_no": 726,
+    "icon_filename": null,
+    "id": "assassin_s_gauntlet",
+    "name": "Assassin's Gauntlet",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Exchange {{retext|Parsian Carpet|purple",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In [[Parsia]], DMG +4%<br>In [[Parsia]], INTEL +4%",
+    "file_no": 727,
+    "icon_filename": null,
+    "id": "royal_wootz_blade",
+    "name": "Royal Wootz Blade",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "{{RewardIconWithText|Shamshir|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Realm",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": "In Angel Form, Regen 640 HP each round",
+    "file_no": 304,
+    "icon_filename": null,
+    "id": "lotus_platform_vi",
+    "name": "Lotus Platform VI",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "{{retext|Lotus Platform III|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Form",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In Snail Arena, DMG +6%<br>In Snail Arena, Round 1 DMG +4%",
+    "file_no": 23,
+    "icon_filename": null,
+    "id": "texan_chainsaw",
+    "name": "Texan Chainsaw",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "{{retext|Freddy's Claw|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Instrument",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "In Snail Arena, DMG +6%<br>In Snail Arena, Round 1 DMG +4%",
+    "file_no": 24,
+    "icon_filename": null,
+    "id": "cayako_s_charm",
+    "name": "Cayako's Charm",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Divine Dragon Wish<br>[[Altar#Discount_Dragon",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Instrument",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 100,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "Crit DMG +4%<br>Lifesteal Effect +20%",
+    "file_no": 39,
+    "icon_filename": null,
+    "id": "dim_godsmiter",
+    "name": "Dim Godsmiter",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "{{retext|Broken Sagekiller|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Instrument",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 100,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "Crit DMG +4%<br>Lifesteal Effect +20%",
+    "file_no": 40,
+    "icon_filename": null,
+    "id": "dim_ironcutter",
+    "name": "Dim Ironcutter",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Fully defeat [[Mailbox#Ratman",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Instrument",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 100,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "Crit DMG +4%<br>Lifesteal Effect +20%",
+    "file_no": 41,
+    "icon_filename": null,
+    "id": "dim_trident",
+    "name": "Dim Trident",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Fully defeat [[Mailbox#Ratman",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Instrument",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 100,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "Crit DMG +4%<br>Lifesteal Effect +20%",
+    "file_no": 42,
+    "icon_filename": null,
+    "id": "dim_rope_of_truth",
+    "name": "Dim Rope of Truth",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "Fully defeat [[Mailbox#Ratman",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Instrument",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "RUSH DMG +120",
+    "file_no": 57,
+    "icon_filename": null,
+    "id": "scout_goggles",
+    "name": "Scout Goggles",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "{{retext|Multifunction Goggles|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Instrument",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": "RUSH DMG +120",
+    "file_no": 58,
+    "icon_filename": null,
+    "id": "holographic_lens",
+    "name": "Holographic Lens",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "[[Vending Machine]] Purchase",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Instrument",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": null,
+    "file_no": 13,
+    "icon_filename": null,
+    "id": "seething_bracelet",
+    "name": "Seething Bracelet",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "• {{retext|Wizard Ring|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Material",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": null,
+    "file_no": 14,
+    "icon_filename": null,
+    "id": "icy_bracelet",
+    "name": "Icy Bracelet",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "• {{retext|Wizard Ring|blue",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Material",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "effect": null,
+    "file_no": 222,
+    "icon_filename": null,
+    "id": "heaven_amulet",
+    "name": "Heaven Amulet",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "• [[Fissure",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Material",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "effect": null,
+    "file_no": 333,
+    "icon_filename": null,
+    "id": "abyss_amulet",
+    "name": "Abyss Amulet",
+    "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+    "origin": "• [[Fissure",
+    "slot": null,
+    "source": {
+      "file": "game/sources/wiki_gg/Gear.wiki",
+      "section": "Material",
+      "subsection": "Purple",
+      "type": "wiki_gg",
+      "url": "https://supersnail.wiki.gg/wiki/Gear"
+    },
+    "spreadsheet_links": [],
+    "tags": [
+      "candidate",
+      "dry_run:phase1c5",
+      "phase:1c4",
+      "source:wiki_gg"
+    ],
+    "tier_color": "purple"
+  }
+]

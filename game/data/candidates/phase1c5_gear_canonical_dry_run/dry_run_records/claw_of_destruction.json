@@ -1,0 +1,32 @@
+{
+  "base_stats": {
+    "atk": 180,
+    "def": 60,
+    "hp": 600,
+    "rush": 180
+  },
+  "canonical_promotion": false,
+  "effect": "In Dragon: Fire DMG +720",
+  "file_no": 600,
+  "icon_filename": null,
+  "id": "claw_of_destruction",
+  "name": "Claw of Destruction",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "{{retext|Crimson Dragon Claw|orange",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Form",
+    "subsection": "Red",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "red"
+}

@@ -1,0 +1,32 @@
+{
+  "base_stats": {
+    "atk": 180,
+    "def": 60,
+    "hp": 1800,
+    "rush": 60
+  },
+  "canonical_promotion": false,
+  "effect": "In Zombie Form: Zombie Cells +12%<br>Evolution Chests +12% in exploration",
+  "file_no": 100,
+  "icon_filename": null,
+  "id": "serket_staff",
+  "name": "Serket Staff",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "{{retext|Undead Staff|orange",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Form",
+    "subsection": "Red",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "red"
+}

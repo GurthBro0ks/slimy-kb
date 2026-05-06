@@ -1,0 +1,32 @@
+{
+  "base_stats": {
+    "atk": 25,
+    "def": 5,
+    "hp": 50,
+    "rush": 5
+  },
+  "canonical_promotion": false,
+  "effect": "Crit DMG +2%",
+  "file_no": 28,
+  "icon_filename": null,
+  "id": "broken_sageender",
+  "name": "Broken Sageender",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "Fully defeat [[Mailbox#Ratman",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Instrument",
+    "subsection": "Green",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "green"
+}
