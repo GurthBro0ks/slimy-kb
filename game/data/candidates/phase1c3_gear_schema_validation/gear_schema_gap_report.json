@@ -1,0 +1,42 @@
+{
+  "blocked_count": 239,
+  "candidate_count": 313,
+  "candidate_input": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+  "canonical_promotion": false,
+  "error_counts": {
+    "missing_or_uninferred:slot": 239,
+    "missing_required:slot": 239
+  },
+  "generated_at": "2026-05-06T16:30:00.531176+00:00",
+  "rarity_counts": {
+    "None": 226,
+    "epic": 27,
+    "legendary": 18,
+    "rare": 21,
+    "uncommon": 21
+  },
+  "readiness_counts": {
+    "blocked_missing_required": 239,
+    "schema_shape_ready_needs_manual_review": 74
+  },
+  "recommended_next_actions": [
+    "Review whether gear.schema.json should add gear_color or tier_color as a first-class field.",
+    "Review whether slot should be optional/nullable or inferred from separate source data.",
+    "Manually inspect schema_shape_ready_needs_manual_review records before promotion.",
+    "Keep blocked records as candidates until schema gap is resolved."
+  ],
+  "schema_file": "game/data/schemas/gear.schema.json",
+  "schema_observations": [
+    "Current gear.schema.json appears to require slot, but Gear.wiki aggregate rows do not always expose a direct slot.",
+    "Current rarity enum is semantic, while Gear.wiki uses color/tier values. A formal color-to-rarity mapping needs PM approval before canonical promotion.",
+    "Gear.wiki provides HP, ATK, DEF, and RUSH cleanly for most candidates.",
+    "Effects and origin fields are raw text and need downstream normalization."
+  ],
+  "schema_ready_needs_manual_review": 74,
+  "slot_counts": {
+    "None": 239,
+    "accessory": 10,
+    "armor": 47,
+    "weapon": 17
+  }
+}

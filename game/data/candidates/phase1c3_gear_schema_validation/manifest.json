@@ -1,0 +1,28 @@
+{
+  "blocked_count": 239,
+  "canonical_promotion": false,
+  "error_counts": {
+    "missing_or_uninferred:slot": 239,
+    "missing_required:slot": 239
+  },
+  "generated_at": "2026-05-06T16:30:00.531176+00:00",
+  "input_candidates": 313,
+  "input_source_facts": 313,
+  "input_stat_rows": 1252,
+  "outputs": [
+    "gear_schema_ready_candidates.json",
+    "gear_schema_adapted_all_candidates.json",
+    "gear_schema_validation_rows.json",
+    "gear_schema_validation_rows.csv",
+    "gear_schema_blocked_candidates.json",
+    "gear_schema_gap_report.json",
+    "manual_promotion_readiness_packet.md",
+    "manifest.json"
+  ],
+  "phase": "1C.3",
+  "readiness_counts": {
+    "blocked_missing_required": 239,
+    "schema_shape_ready_needs_manual_review": 74
+  },
+  "schema_ready_needs_manual_review": 74
+}

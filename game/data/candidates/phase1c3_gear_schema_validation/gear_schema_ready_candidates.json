@@ -1,0 +1,3407 @@
+[
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "green",
+      "effect_raw": "In [[Cathay]], INTEL gained +2%",
+      "file_no": 308,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Wu Scimitar",
+        "308",
+        "0",
+        "30",
+        "0",
+        "10",
+        "In [[Cathay]], INTEL gained +2%",
+        "Iron Helmet + Podao",
+        "green"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 30,
+      "def": 0,
+      "hp": 0,
+      "rush": 10
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "wu_scimitar",
+    "name": "Wu Scimitar",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "uncommon",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Iron Helmet + Podao",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "green",
+      "effect_raw": "In [[Britland]], INTEL gained +2%",
+      "file_no": 508,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Lee Enfield Rifle",
+        "508",
+        "0",
+        "30",
+        "0",
+        "10",
+        "In [[Britland]], INTEL gained +2%",
+        "Gentleman's Staff + Top Hat",
+        "green"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 30,
+      "def": 0,
+      "hp": 0,
+      "rush": 10
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "lee_enfield_rifle",
+    "name": "Lee Enfield Rifle",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "uncommon",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "Gentleman's Staff + Top Hat",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "green",
+      "effect_raw": "In [[Hellas]], INTEL gained +2%<br>Every Costume Stat +1%",
+      "file_no": 711,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Legion Javelins",
+        "711",
+        "0",
+        "30",
+        "0",
+        "10",
+        "In [[Hellas]], INTEL gained +2%<br>Every Costume Stat +1%",
+        "Javelin + Bronze Helmet",
+        "green"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 30,
+      "def": 0,
+      "hp": 0,
+      "rush": 10
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "legion_javelins",
+    "name": "Legion Javelins",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "uncommon",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Javelin + Bronze Helmet",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Parsia]], INTEL +2%",
+      "file_no": 731,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Pesh-Kabz",
+        "731",
+        "300",
+        "0",
+        "10",
+        "0",
+        "In [[Parsia]], INTEL +2%",
+        "{{RewardIconWithText|Parsian Kite Shield",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 0,
+      "def": 10,
+      "hp": 300,
+      "rush": 0
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "pesh_kabz",
+    "name": "Pesh-Kabz",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{RewardIconWithText|Parsian Kite Shield",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Koryeo]], DMG +2%<br>In [[Koryeo]], INTEL gained +2%",
+      "file_no": 106,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Assault Rifle Model 98",
+        "106",
+        "100",
+        "30",
+        "10",
+        "30",
+        "In [[Koryeo]], DMG +2%<br>In [[Koryeo]], INTEL gained +2%",
+        "{{retext|Motorbike Helmet|green",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 30,
+      "def": 10,
+      "hp": 100,
+      "rush": 30
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "assault_rifle_model_98",
+    "name": "Assault Rifle Model 98",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Motorbike Helmet|green",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Yamato]], DMG +2%<br>In [[Yamato]], INTEL gained +2%",
+      "file_no": 209,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Crimson Haori Jacket",
+        "209",
+        "300",
+        "10",
+        "30",
+        "10",
+        "In [[Yamato]], DMG +2%<br>In [[Yamato]], INTEL gained +2%",
+        "{{retext|Golden Yamato Armor|green",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 10,
+      "def": 30,
+      "hp": 300,
+      "rush": 10
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "crimson_haori_jacket",
+    "name": "Crimson Haori Jacket",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Golden Yamato Armor|green",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Cathay]], DMG +4%<br>In [[Cathay]], INTEL gained +4%",
+      "file_no": 304,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "7-Star Blade",
+        "304",
+        "200",
+        "60",
+        "20",
+        "60",
+        "In [[Cathay]], DMG +4%<br>In [[Cathay]], INTEL gained +4%",
+        "{{retext|Ancient Blade|blue",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "7_star_blade",
+    "name": "7-Star Blade",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|Ancient Blade|blue",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Murika]], DMG +4%<br>In [[Murika]], INTEL gained +4%",
+      "file_no": 407,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "M4 Carbine",
+        "407",
+        "200",
+        "60",
+        "20",
+        "60",
+        "In [[Murika]], DMG +4%<br>In [[Murika]], INTEL gained +4%",
+        "{{retext|Springfield Rifle|blue",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "m4_carbine",
+    "name": "M4 Carbine",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "accessory",
+    "source": "{{retext|Springfield Rifle|blue",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Britland]], DMG +4%<br>In [[Britland]], INTEL gained +4%<br>In [[Britland]], fleet cannon DMG +4%",
+      "file_no": 504,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Shotgun Umbrella",
+        "504",
+        "200",
+        "60",
+        "20",
+        "60",
+        "In [[Britland]], DMG +4%<br>In [[Britland]], INTEL gained +4%<br>In [[Britland]], fleet cannon DMG +4%",
+        "{{retext|Sword Cane|blue",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "shotgun_umbrella",
+    "name": "Shotgun Umbrella",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|Sword Cane|blue",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Yamato]], DMG +8%<br>In [[Yamato]], INTEL gained +8%",
+      "file_no": 202,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Blade Murasame",
+        "202",
+        "400",
+        "120",
+        "40",
+        "120",
+        "In [[Yamato]], DMG +8%<br>In [[Yamato]], INTEL gained +8%",
+        "{{retext|Blade Muramasa|purple",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "blade_murasame",
+    "name": "Blade Murasame",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|Blade Muramasa|purple",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Cathay]], DMG +8%<br>In [[Cathay]], INTEL gained +8%",
+      "file_no": 302,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Couple Swords",
+        "302",
+        "400",
+        "120",
+        "40",
+        "120",
+        "In [[Cathay]], DMG +8%<br>In [[Cathay]], INTEL gained +8%",
+        "{{retext|7-Star-Blade|purple",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "couple_swords",
+    "name": "Couple Swords",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|7-Star-Blade|purple",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Britland]], DMG +8%<br>In [[Britland]], INTEL gained +8%<br>In [[Britland]], fleet cannon DMG +8%",
+      "file_no": 502,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Lion's Crown",
+        "502",
+        "400",
+        "120",
+        "40",
+        "120",
+        "In [[Britland]], DMG +8%<br>In [[Britland]], INTEL gained +8%<br>In [[Britland]], fleet cannon DMG +8%",
+        "{{retext|Shotgun Umbrella|purple",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "lion_s_crown",
+    "name": "Lion's Crown",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|Shotgun Umbrella|purple",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Kemet]], DMG +8%<br>In [[Kemet]], INTEL gained +8%",
+      "file_no": 602,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Damascus Knife",
+        "602",
+        "400",
+        "120",
+        "40",
+        "120",
+        "In [[Kemet]], DMG +8%<br>In [[Kemet]], INTEL gained +8%",
+        "{{retext|Guardian's Longsword|purple",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "damascus_knife",
+    "name": "Damascus Knife",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|Guardian's Longsword|purple",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Parsia]], DMG +8%<br>In [[Parsia]], INTEL +8%",
+      "file_no": 722,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Jade Saber",
+        "722",
+        "400",
+        "120",
+        "40",
+        "120",
+        "In [[Parsia]], DMG +8%<br>In [[Parsia]], INTEL +8%",
+        "{{RewardIconWithText|Royal Wootz Blade|purple",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "jade_saber",
+    "name": "Jade Saber",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{RewardIconWithText|Royal Wootz Blade|purple",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Yamato]], Snail ATK +120<br>In [[Yamato]], Snail RUSH +120<br>In [[Yamato]], DMG +12%<br>In [[Yamato]], INTEL gained +12%",
+      "file_no": 200,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Sword Futsuno",
+        "200",
+        "600",
+        "180",
+        "60",
+        "180",
+        "In [[Yamato]], Snail ATK +120<br>In [[Yamato]], Snail RUSH +120<br>In [[Yamato]], DMG +12%<br>In [[Yamato]], INTEL gained +12%",
+        "{{retext|Blade Murasame|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "sword_futsuno",
+    "name": "Sword Futsuno",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|Blade Murasame|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Murika]], Snail ATK +120<br>In [[Murika]], Snail RUSH +120<br>In [[Murika]], DMG +12%<br>In [[Murika]], INTEL gained +12%",
+      "file_no": 400,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Bullet Storm",
+        "400",
+        "600",
+        "180",
+        "60",
+        "180",
+        "In [[Murika]], Snail ATK +120<br>In [[Murika]], Snail RUSH +120<br>In [[Murika]], DMG +12%<br>In [[Murika]], INTEL gained +12%",
+        "{{retext|Indv. Power Armor|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "bullet_storm",
+    "name": "Bullet Storm",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Indv. Power Armor|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In [[Bharata]], Snail ATK +150<br>In [[Bharata]], Snail RUSH +150<br>In [[Bharata]], Snail DMG +12%<br>In [[Bharata]], INTEL gained +12%",
+      "file_no": 600,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Rama Greataxe",
+        "600",
+        "600",
+        "180",
+        "60",
+        "180",
+        "In [[Bharata]], Snail ATK +150<br>In [[Bharata]], Snail RUSH +150<br>In [[Bharata]], Snail DMG +12%<br>In [[Bharata]], INTEL gained +12%",
+        "{{retext|Ashoka's Sword|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "rama_greataxe",
+    "name": "Rama Greataxe",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|Ashoka's Sword|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "When exploring, 2x Time Chests Drops +12%",
+      "file_no": 902,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "The Great Scientist",
+        "902",
+        "1800",
+        "60",
+        "60",
+        "180",
+        "When exploring, 2x Time Chests Drops +12%",
+        "{{retext|Teslla|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 1800,
+      "rush": 180
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "the_great_scientist",
+    "name": "The Great Scientist",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "accessory",
+    "source": "{{retext|Teslla|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Upon traveling through an area: Gain 120 Intel",
+      "file_no": 912,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "The Great Engineer",
+        "912",
+        "600",
+        "60",
+        "60",
+        "300",
+        "Upon traveling through an area: Gain 120 Intel",
+        "{{retext|Gear Ring|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 600,
+      "rush": 300
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "the_great_engineer",
+    "name": "The Great Engineer",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "accessory",
+    "source": "{{retext|Gear Ring|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In Zombie Form: Zombie Cells +12%<br>Evolution Chests +12% in exploration",
+      "file_no": 100,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Serket Staff",
+        "100",
+        "1,800",
+        "180",
+        "60",
+        "60",
+        "In Zombie Form: Zombie Cells +12%<br>Evolution Chests +12% in exploration",
+        "{{retext|Undead Staff|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 1800,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "serket_staff",
+    "name": "Serket Staff",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|Undead Staff|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In Angel Form: Angel Cells +12%<br>Fungus Chests +12% in exploration",
+      "file_no": 300,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Seraph's Light",
+        "300",
+        "1,800",
+        "60",
+        "60",
+        "180",
+        "In Angel Form: Angel Cells +12%<br>Fungus Chests +12% in exploration",
+        "{{retext|Prayer Staff|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 1800,
+      "rush": 180
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "seraph_s_light",
+    "name": "Seraph's Light",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|Prayer Staff|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In Mutant Form, Crit DMG +24%",
+      "file_no": 401,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Centaur Armor",
+        "401",
+        "600",
+        "180",
+        "60",
+        "180",
+        "In Mutant Form, Crit DMG +24%",
+        "{{retext|Leather Chest Armor|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "centaur_armor",
+    "name": "Centaur Armor",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Leather Chest Armor|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "In any Realm, DMG +18%<br>In any Realm, DMG +12% in Round 1",
+      "file_no": 2,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Strength Master's Sword",
+        "2",
+        "600",
+        "300",
+        "60",
+        "60",
+        "In any Realm, DMG +18%<br>In any Realm, DMG +12% in Round 1",
+        "{{retext|Strength Sword|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "strength_master_s_sword",
+    "name": "Strength Master's Sword",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|Strength Sword|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Againt Daily Hitmen,DMG +18%<br>1st round DMG +12%",
+      "file_no": 4,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "True Sakabato",
+        "4",
+        "600",
+        "300",
+        "60",
+        "60",
+        "Againt Daily Hitmen,DMG +18%<br>1st round DMG +12%",
+        "{{retext|Sakabato Blade|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "true_sakabato",
+    "name": "True Sakabato",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|Sakabato Blade|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Fire, Water, Earth, Wind DMG +240",
+      "file_no": 6,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Oldman Wand",
+        "6",
+        "600",
+        "300",
+        "60",
+        "60",
+        "Fire, Water, Earth, Wind DMG +240",
+        "{{retext|Walnut Wand|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "oldman_wand",
+    "name": "Oldman Wand",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|Walnut Wand|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Crit Rate +12%<br>Crit DMG +12%",
+      "file_no": 16,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Big Bounce",
+        "16",
+        "600",
+        "300",
+        "60",
+        "60",
+        "Crit Rate +12%<br>Crit DMG +12%",
+        "{{retext|Spring Longsword|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "big_bounce",
+    "name": "Big Bounce",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|Spring Longsword|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "For Round 1, CRIT DMG +12%<br>When exploring, DMG +18% in Round 1",
+      "file_no": 72,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Septreasure Peacock Quill",
+        "72",
+        "600",
+        "300",
+        "60",
+        "300",
+        "For Round 1, CRIT DMG +12%<br>When exploring, DMG +18% in Round 1",
+        "{{retext|Peacock Quill|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 300
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "septreasure_peacock_quill",
+    "name": "Septreasure Peacock Quill",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "accessory",
+    "source": "{{retext|Peacock Quill|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "HIT +12<br>Ignore All RES +36",
+      "file_no": 76,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "W-Tadpole Sword",
+        "76",
+        "600",
+        "300",
+        "60",
+        "60",
+        "HIT +12<br>Ignore All RES +36",
+        "{{retext|B-Tadpole Sword|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "w_tadpole_sword",
+    "name": "W-Tadpole Sword",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "weapon",
+    "source": "{{retext|B-Tadpole Sword|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "grandpire]]",
+      "effect_raw": "Per 10% HP lost, Snail ATK +30<br>Per 10% HP lost, Snail DEF +30",
+      "file_no": 15,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Sailor Suit",
+        "15",
+        "100",
+        "10",
+        "10",
+        "10",
+        "Per 10% HP lost, Snail ATK +30<br>Per 10% HP lost, Snail DEF +30",
+        "Defeat [[Incense#Special Incense Events",
+        "Grandpire]]",
+        "green"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 10,
+      "def": 10,
+      "hp": 100,
+      "rush": 10
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "sailor_suit",
+    "name": "Sailor Suit",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Defeat [[Incense#Special Incense Events",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "green",
+      "effect_raw": "Earth RES +30",
+      "file_no": 17,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Rock",
+        "17",
+        "50",
+        "5",
+        "25",
+        "5",
+        "Earth RES +30",
+        "Lottery 0.75%",
+        "green"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 5,
+      "def": 25,
+      "hp": 50,
+      "rush": 5
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "rock",
+    "name": "Rock",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "uncommon",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Lottery 0.75%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "green",
+      "effect_raw": "Water RES +30",
+      "file_no": 19,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Lifebuoy",
+        "19",
+        "150",
+        "5",
+        "15",
+        "5",
+        "Water RES +30",
+        "Lottery 0.75%",
+        "green"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 5,
+      "def": 15,
+      "hp": 150,
+      "rush": 5
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "lifebuoy",
+    "name": "Lifebuoy",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "uncommon",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Lottery 0.75%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "green",
+      "effect_raw": "FTH +5, ART +5, CIV +5, TECH +5, FAME +5",
+      "file_no": 33,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Stage Hat",
+        "33",
+        "100",
+        "10",
+        "10",
+        "10",
+        "FTH +5, ART +5, CIV +5, TECH +5, FAME +5",
+        "Divine Order chest 1.6%",
+        "green"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 10,
+      "def": 10,
+      "hp": 100,
+      "rush": 10
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "stage_hat",
+    "name": "Stage Hat",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "uncommon",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Divine Order chest 1.6%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "green",
+      "effect_raw": "Wind RES +30",
+      "file_no": 35,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Static Belt",
+        "35",
+        "50",
+        "5",
+        "5",
+        "25",
+        "Wind RES +30",
+        "Divine Neutral 1.6%",
+        "green"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 5,
+      "def": 5,
+      "hp": 50,
+      "rush": 25
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "static_belt",
+    "name": "Static Belt",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "uncommon",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Divine Neutral 1.6%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "blue",
+      "effect_raw": "Snail ART +40",
+      "file_no": 3,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Elven Cape",
+        "3",
+        "200",
+        "20",
+        "20",
+        "20",
+        "Snail ART +40",
+        "Divine Order 0.8%",
+        "blue"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "elven_cape",
+    "name": "Elven Cape",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "rare",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Divine Order 0.8%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "blue",
+      "effect_raw": "Lifesteal Rate +2%<br>Lifesteal Effect +10%",
+      "file_no": 13,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Death Shroud",
+        "13",
+        "500",
+        "10",
+        "10",
+        "10",
+        "Lifesteal Rate +2%<br>Lifesteal Effect +10%",
+        "Dracula victory reward",
+        "blue"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 10,
+      "def": 10,
+      "hp": 500,
+      "rush": 10
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "death_shroud",
+    "name": "Death Shroud",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "rare",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Dracula victory reward",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "blue",
+      "effect_raw": "DMG REDUC +1.6%",
+      "file_no": 21,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Strong Round Shield",
+        "21",
+        "100",
+        "10",
+        "50",
+        "10",
+        "DMG REDUC +1.6%",
+        "Divine Neutral 0.8%",
+        "blue"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 10,
+      "def": 50,
+      "hp": 100,
+      "rush": 10
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "strong_round_shield",
+    "name": "Strong Round Shield",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "rare",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Divine Neutral 0.8%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "blue",
+      "effect_raw": "Dodge Rate +2%",
+      "file_no": 23,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Workout Top",
+        "23",
+        "300",
+        "10",
+        "30",
+        "10",
+        "Dodge Rate +2%",
+        "Lottery 0.71%",
+        "blue"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 10,
+      "def": 30,
+      "hp": 300,
+      "rush": 10
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "workout_top",
+    "name": "Workout Top",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "rare",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Lottery 0.71%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "purple",
+      "effect_raw": "FTH +80",
+      "file_no": 7,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Saint's Earring",
+        "7",
+        "400",
+        "40",
+        "40",
+        "40",
+        "FTH +80",
+        "Divine Order 0.4%",
+        "purple"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "saint_s_earring",
+    "name": "Saint's Earring",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "epic",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Divine Order 0.4%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "purple",
+      "effect_raw": "FTH +80",
+      "file_no": 9,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Crown of Power",
+        "9",
+        "400",
+        "40",
+        "40",
+        "40",
+        "FTH +80",
+        "Divine Chaos 0.4%",
+        "purple"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "crown_of_power",
+    "name": "Crown of Power",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "epic",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Divine Chaos 0.4%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "purple",
+      "effect_raw": "Chance to Paralysis enemy +2.4%",
+      "file_no": 11,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Ring of Stupor",
+        "11",
+        "200",
+        "20",
+        "20",
+        "100",
+        "Chance to Paralysis enemy +2.4%",
+        "Hitman 15 victory reward",
+        "purple"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 100
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "ring_of_stupor",
+    "name": "Ring of Stupor",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "epic",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Hitman 15 victory reward",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "purple",
+      "effect_raw": "All RES +24",
+      "file_no": 25,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Magician",
+        "25",
+        "400",
+        "40",
+        "40",
+        "40",
+        "All RES +24",
+        "Divine Neutral 0.4%",
+        "purple"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "magician",
+    "name": "Magician",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "epic",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Divine Neutral 0.4%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "purple",
+      "effect_raw": "Fire RES +120",
+      "file_no": 29,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Thorn",
+        "29",
+        "1,000",
+        "20",
+        "20",
+        "20",
+        "Fire RES +120",
+        "Divine Order Chest 0.4%",
+        "purple"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 1000,
+      "rush": 20
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "thorn",
+    "name": "Thorn",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "epic",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Divine Order Chest 0.4%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "orange",
+      "effect_raw": "Snail CIV +160",
+      "file_no": 1,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Wisdom Cloak",
+        "1",
+        "800",
+        "80",
+        "80",
+        "80",
+        "Snail CIV +160",
+        "Divine Neutral 0.2%",
+        "orange"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "wisdom_cloak",
+    "name": "Wisdom Cloak",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "legendary",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Divine Neutral 0.2%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "orange",
+      "effect_raw": "TECH +160",
+      "file_no": 5,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Power Armor",
+        "5",
+        "800",
+        "80",
+        "80",
+        "80",
+        "TECH +160",
+        "Divine Chaos 0.2%",
+        "orange"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "power_armor",
+    "name": "Power Armor",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "legendary",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Divine Chaos 0.2%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "orange",
+      "effect_raw": "Each round: DEF +64",
+      "file_no": 27,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Alloy Shield",
+        "27",
+        "400",
+        "40",
+        "20",
+        "40",
+        "Each round: DEF +64",
+        "Divine Neutral 0.2%",
+        "orange"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 40,
+      "def": 20,
+      "hp": 400,
+      "rush": 40
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "alloy_shield",
+    "name": "Alloy Shield",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "legendary",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Divine Neutral 0.2%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "orange",
+      "effect_raw": "Crit DMG reduction +8%",
+      "file_no": 31,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Chief",
+        "31",
+        "400",
+        "40",
+        "200",
+        "40",
+        "Crit DMG reduction +8%",
+        "Divine Order Chest 0.2%",
+        "orange"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 40,
+      "def": 200,
+      "hp": 400,
+      "rush": 40
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "chief",
+    "name": "Chief",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "legendary",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Divine Order Chest 0.2%",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "orange",
+      "effect_raw": "ELMT DMG REDUC +4.8%",
+      "file_no": 37,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Gold Outfit",
+        "37",
+        "1,200",
+        "40",
+        "120",
+        "40",
+        "ELMT DMG REDUC +4.8%",
+        "Defeat Agamemnon Mask Civilization Mirage",
+        "orange"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 40,
+      "def": 120,
+      "hp": 1200,
+      "rush": 40
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "gold_outfit",
+    "name": "Gold Outfit",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "legendary",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Defeat Agamemnon Mask Civilization Mirage",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "orange",
+      "effect_raw": "HP Regen +640 each round",
+      "file_no": 39,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Time Amulet",
+        "39",
+        "1,200",
+        "40",
+        "120",
+        "40",
+        "HP Regen +640 each round",
+        "Defeat Eye of Akamoddo Civilization Mirage",
+        "orange"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 40,
+      "def": 120,
+      "hp": 1200,
+      "rush": 40
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "time_amulet",
+    "name": "Time Amulet",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "legendary",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "Defeat Eye of Akamoddo Civilization Mirage",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Snail CIV +240",
+      "file_no": 2,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Ogma's Cloak",
+        "2",
+        "1,200",
+        "120",
+        "120",
+        "120",
+        "Snail CIV +240",
+        "{{retext|Wisdom Cloak|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 120,
+      "def": 120,
+      "hp": 1200,
+      "rush": 120
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "ogma_s_cloak",
+    "name": "Ogma's Cloak",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Wisdom Cloak|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Snail ART +240",
+      "file_no": 4,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Selene Amulet",
+        "4",
+        "1,200",
+        "120",
+        "120",
+        "120",
+        "Snail ART +240",
+        "{{retext|Elven Cape|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 120,
+      "def": 120,
+      "hp": 1200,
+      "rush": 120
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "selene_amulet",
+    "name": "Selene Amulet",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Elven Cape|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Snail TECH +240",
+      "file_no": 6,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Antimatter Armor",
+        "6",
+        "1,200",
+        "120",
+        "120",
+        "120",
+        "Snail TECH +240",
+        "{{retext|Power Armor|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 120,
+      "def": 120,
+      "hp": 1200,
+      "rush": 120
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "antimatter_armor",
+    "name": "Antimatter Armor",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Power Armor|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Snail FTH +240",
+      "file_no": 8,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Michael's Earrings",
+        "8",
+        "1,200",
+        "120",
+        "120",
+        "120",
+        "Snail FTH +240",
+        "{{retext|Saint's Earring|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 120,
+      "def": 120,
+      "hp": 1200,
+      "rush": 120
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "michael_s_earrings",
+    "name": "Michael's Earrings",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Saint's Earring|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Snail TECH +240",
+      "file_no": 10,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Caesar's Crown",
+        "10",
+        "1,200",
+        "120",
+        "120",
+        "120",
+        "Snail TECH +240",
+        "{{retext|Crown of Power|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 120,
+      "def": 120,
+      "hp": 1200,
+      "rush": 120
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "caesar_s_crown",
+    "name": "Caesar's Crown",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Crown of Power|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Chance to Paralysis enemy +7.2%",
+      "file_no": 12,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Ring of Paralysis",
+        "12",
+        "600",
+        "60",
+        "60",
+        "300",
+        "Chance to Paralysis enemy +7.2%",
+        "{{retext|Ring of Stupor|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 600,
+      "rush": 300
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "ring_of_paralysis",
+    "name": "Ring of Paralysis",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Ring of Stupor|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Lifesteal Rate +12%<br>Lifesteal Effect +60%",
+      "file_no": 14,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Dracula Cape",
+        "14",
+        "3,000",
+        "60",
+        "60",
+        "60",
+        "Lifesteal Rate +12%<br>Lifesteal Effect +60%",
+        "{{retext|Death Shroud|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 3000,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "dracula_cape",
+    "name": "Dracula Cape",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Death Shroud|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Per 10% HP lost, Snail ATK +360<br>Per 10% HP lost, Snail DEF +360",
+      "file_no": 16,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Grandpire's Robe",
+        "16",
+        "1,200",
+        "120",
+        "120",
+        "120",
+        "Per 10% HP lost, Snail ATK +360<br>Per 10% HP lost, Snail DEF +360",
+        "{{retext|Sailor Suit|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 120,
+      "def": 120,
+      "hp": 1200,
+      "rush": 120
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "grandpire_s_robe",
+    "name": "Grandpire's Robe",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Sailor Suit|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Earth RES +360",
+      "file_no": 18,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Bedrock",
+        "18",
+        "600",
+        "60",
+        "300",
+        "60",
+        "Earth RES +360",
+        "{{retext|Rock|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 300,
+      "hp": 600,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "bedrock",
+    "name": "Bedrock",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Rock|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Water RES +360",
+      "file_no": 20,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Poseidon's Blessing",
+        "20",
+        "1,800",
+        "60",
+        "180",
+        "60",
+        "Water RES +360",
+        "{{retext|Lifebuoy|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 180,
+      "hp": 1800,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "poseidon_s_blessing",
+    "name": "Poseidon's Blessing",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Lifebuoy|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "DMG Reduction +9.6%",
+      "file_no": 22,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Fortress",
+        "22",
+        "600",
+        "60",
+        "300",
+        "60",
+        "DMG Reduction +9.6%",
+        "{{retext|Strong Round Shield|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 300,
+      "hp": 600,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "fortress",
+    "name": "Fortress",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Strong Round Shield|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Dodge Rate +12%",
+      "file_no": 24,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Traveler Outfit",
+        "24",
+        "1,800",
+        "60",
+        "180",
+        "60",
+        "Dodge Rate +12%",
+        "{{retext|Workout Top|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 180,
+      "hp": 1800,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "traveler_outfit",
+    "name": "Traveler Outfit",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Workout Top|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "ALL RES +72",
+      "file_no": 26,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "The Great Magician",
+        "26",
+        "1,200",
+        "120",
+        "120",
+        "120",
+        "ALL RES +72",
+        "{{retext|Magician|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 120,
+      "def": 120,
+      "hp": 1200,
+      "rush": 120
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "the_great_magician",
+    "name": "The Great Magician",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Magician|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "DEF +96 per round",
+      "file_no": 28,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Antimatter Shield",
+        "28",
+        "600",
+        "60",
+        "300",
+        "60",
+        "DEF +96 per round",
+        "{{retext|Alloy Shield|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 300,
+      "hp": 600,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "antimatter_shield",
+    "name": "Antimatter Shield",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Alloy Shield|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Fire RES +360",
+      "file_no": 30,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Heart of Nature",
+        "30",
+        "3,000",
+        "60",
+        "60",
+        "60",
+        "Fire RES +360",
+        "{{retext|Thorn|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 3000,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "heart_of_nature",
+    "name": "Heart of Nature",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Thorn|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "CRIT DMG REDUC +12%",
+      "file_no": 32,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Super Warrior",
+        "32",
+        "600",
+        "60",
+        "300",
+        "60",
+        "CRIT DMG REDUC +12%",
+        "{{retext|Chief|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 300,
+      "hp": 600,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "super_warrior",
+    "name": "Super Warrior",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Chief|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "FTH +60<br>ART +60<br>CIV +60<br>TECH +60<br>FAME +60",
+      "file_no": 34,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "The Great Entertainer",
+        "34",
+        "1,200",
+        "120",
+        "120",
+        "120",
+        "FTH +60<br>ART +60<br>CIV +60<br>TECH +60<br>FAME +60",
+        "{{retext|Stage Hat|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 120,
+      "def": 120,
+      "hp": 1200,
+      "rush": 120
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "the_great_entertainer",
+    "name": "The Great Entertainer",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Stage Hat|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Wind RES +360",
+      "file_no": 36,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Thunder Belt",
+        "36",
+        "600",
+        "60",
+        "60",
+        "300",
+        "Wind RES +360",
+        "{{retext|Static Belt|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 600,
+      "rush": 300
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "thunder_belt",
+    "name": "Thunder Belt",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Static Belt|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "ELMT DMG REDUC +7.2%",
+      "file_no": 38,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Agamemnon Outfit",
+        "38",
+        "3,000",
+        "100",
+        "300",
+        "100",
+        "ELMT DMG REDUC +7.2%",
+        "{{retext|Gold Outfit|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 100,
+      "def": 300,
+      "hp": 3000,
+      "rush": 100
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "agamemnon_outfit",
+    "name": "Agamemnon Outfit",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Gold Outfit|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": "Restore 960 HP each round",
+      "file_no": 40,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Eye of Akamoddo Amulet",
+        "40",
+        "1,800",
+        "60",
+        "180",
+        "60",
+        "Restore 960 HP each round",
+        "{{retext|Time Amulet|orange",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 180,
+      "hp": 1800,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "eye_of_akamoddo_amulet",
+    "name": "Eye of Akamoddo Amulet",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "armor",
+    "source": "{{retext|Time Amulet|orange",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "green",
+      "effect_raw": null,
+      "file_no": 5,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Sorcerer Ring",
+        "5",
+        "150",
+        "5",
+        "15",
+        "15",
+        "",
+        "• Flower Crown + Wooden Ring<br>• Lottery Machine (0.67% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests(0.9% chance)",
+        "green"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 5,
+      "def": 15,
+      "hp": 150,
+      "rush": 15
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "sorcerer_ring",
+    "name": "Sorcerer Ring",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "uncommon",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "accessory",
+    "source": "• Flower Crown + Wooden Ring<br>• Lottery Machine (0.67% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests(0.9% chance)",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "green",
+      "effect_raw": null,
+      "file_no": 6,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Warrior Ring",
+        "6",
+        "50",
+        "15",
+        "5",
+        "15",
+        "",
+        "• Iron Ring + Beast Fang<br>• Lottery Machine (0.67% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests (0.9% chance)",
+        "green"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 15,
+      "def": 5,
+      "hp": 50,
+      "rush": 15
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "warrior_ring",
+    "name": "Warrior Ring",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "uncommon",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "accessory",
+    "source": "• Iron Ring + Beast Fang<br>• Lottery Machine (0.67% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests (0.9% chance)",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": null,
+      "file_no": 13,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Seething Bracelet",
+        "13",
+        "200",
+        "60",
+        "20",
+        "60",
+        "",
+        "• {{retext|Wizard Ring|blue",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "seething_bracelet",
+    "name": "Seething Bracelet",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "accessory",
+    "source": "• {{retext|Wizard Ring|blue",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": null,
+      "file_no": 14,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Icy Bracelet",
+        "14",
+        "600",
+        "20",
+        "60",
+        "20",
+        "",
+        "• {{retext|Wizard Ring|blue",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "icy_bracelet",
+    "name": "Icy Bracelet",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "accessory",
+    "source": "• {{retext|Wizard Ring|blue",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": "orange",
+      "effect_raw": null,
+      "file_no": 666,
+      "rarity_inference": "color_map",
+      "raw_cells": [
+        "Crystal of Will",
+        "666",
+        "800",
+        "80",
+        "80",
+        "80",
+        "",
+        "• Reward of some [[Fissure]] incidents<br>• Reward of offering Gaia's Tainted Organs at the [[Altar]]",
+        "orange"
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "crystal_of_will",
+    "name": "Crystal of Will",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": "legendary",
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "accessory",
+    "source": "• Reward of some [[Fissure]] incidents<br>• Reward of offering Gaia's Tainted Organs at the [[Altar]]",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  },
+  {
+    "_candidate_meta": {
+      "canonical_promotion": false,
+      "color_candidate": null,
+      "effect_raw": null,
+      "file_no": 999,
+      "rarity_inference": "missing",
+      "raw_cells": [
+        "Amulet of Will +1",
+        "999",
+        "2,000",
+        "200",
+        "200",
+        "200",
+        "",
+        "{{retext|Amulet of Will|red",
+        ""
+      ],
+      "slot_inference": "heuristic",
+      "source_confidence": 0.85,
+      "source_entity_file": "game/data/candidates/phase1c2_gear_entities_from_wiki/gear_entities_from_wiki.candidates.json",
+      "source_url": "https://supersnail.wiki.gg/wiki/Gear",
+      "spreadsheet_links": []
+    },
+    "base_stats": {
+      "atk": 200,
+      "def": 200,
+      "hp": 2000,
+      "rush": 200
+    },
+    "enhancement_cap": null,
+    "icon_ref": null,
+    "id": "amulet_of_will_1",
+    "name": "Amulet of Will +1",
+    "notes": "Candidate generated from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "rarity": null,
+    "set_bonus": null,
+    "set_name": null,
+    "slot": "accessory",
+    "source": "{{retext|Amulet of Will|red",
+    "tags": [
+      "source:wiki_gg",
+      "phase:1c3",
+      "candidate_only"
+    ]
+  }
+]

@@ -1,0 +1,314 @@
+id,name,readiness,errors,slot_candidate,rarity_candidate,hp,atk,def,rush,source_confidence,color_candidate,source
+ice_skates,Ice Skates,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,20,0,0,0.85,gray,Exchange Kimchi Jar x5 in [[Koryeo]]
+crowbar,Crowbar,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,20,0,0,0.85,gray,Exchange Kimchi Jar x6 in [[Koryeo]]
+royal_underwear,Royal Underwear,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,0,20,0,0.85,gray,Exchange Koban x6 in [[Yamato]]
+light_yamato_armor,Light Yamato Armor,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,0,20,0,0.85,gray,Exchange Koban x5 in [[Yamato]]
+iron_helmet,Iron Helmet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,0,20,0,0.85,gray,Exchange Mahjong x6 in [[Cathay]]
+podao,Podao,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,20,0,0,0.85,gray,Exchange Mahjong x5 in [[Cathay]]
+tactical_boots,Tactical Boots,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,0,0,20,0.85,gray,Exchange Bullet x6 in [[Murika]]
+smoothbore,Smoothbore,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,20,0,0,0.85,gray,Exchange Bullet x5 in [[Murika]]
+gentleman_s_staff,Gentleman's Staff,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,0,20,0,0.85,gray,Exchange Anchor x6 in [[Britland]]
+top_hat,Top Hat,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,20,0,0,0.85,gray,Exchange Anchor x5 in [[Britland]]
+linen_robe,Linen Robe,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,20,0,0,0.85,gray,Exchange Ankh x6 in [[Kemet]]
+khopesh,Khopesh,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,20,0,0,0.85,gray,Exchange Ankh x5 in [[Kemet]]
+bronze_helmet,Bronze Helmet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,0,20,0,0.85,gray,Exchange Feather x6 in [[Hellas]]
+javelin,Javelin,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,20,0,0,0.85,gray,Exchange Feather x5 in [[Hellas]]
+sikh_turban,Sikh Turban,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,0,20,0,0.85,gray,Exchange Rosary x6 in [[Bharata]]
+twin_tip_dagger,Twin Tip Dagger,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,20,0,0,0.85,gray,Exchange Feather x5 in [[Hellas]]
+broken_second_hand,Broken Second Hand,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,20,0,0,0.85,,Exchange {{RewardIconWithText|Time Frag Card Gray
+broken_minute_hand,Broken Minute Hand,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,0,20,0,0.85,,Exchange {{RewardIconWithText|Time Frag Card Gray
+broken_hour_hand,Broken Hour Hand,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,0,0,20,0.85,,Exchange {{RewardIconWithText|Time Frag Card Gray
+parsian_pike,Parsian Pike,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,0,0,20,0.85,gray,Exchange x5 in [[Parsia]]
+parsian_kite_shield,Parsian Kite Shield,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,0,20,0,0.85,gray,Exchange x6 in [[Parsia]]
+motorbike_helmet,Motorbike Helmet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,300,0,10,0,0.85,,Exchange {{retext|Kimchi Jar|green
+switchblade,Switchblade,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,uncommon,0,30,0,10,0.85,green,Ice Skates + Crowbar
+ninjutsu_armband,Ninjutsu Armband,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,30,0,10,0.85,,Exchange {{retext|Koban|green
+golden_yamato_armor,Golden Yamato Armor,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,uncommon,300,0,10,0,0.85,green,Light Yamato Armo + Royal Underwear
+heart_protection_mirror,Heart-Protection Mirror,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,300,0,10,0,0.85,,Exchange {{retext|Mahjong|green
+wu_scimitar,Wu Scimitar,schema_shape_ready_needs_manual_review,,armor,uncommon,0,30,0,10,0.85,green,Iron Helmet + Podao
+tactical_vest,Tactical Vest,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,300,0,10,0,0.85,,Exchange {{retext|Bullet|green
+colt_revolver,Colt Revolver,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,uncommon,0,30,0,10,0.85,green,Tactical Boots + Smoothbore
+royal_guard_bearskin_hat,Royal Guard Bearskin Hat,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,300,0,10,0,0.85,,Exchange {{retext|Anchor|green
+lee_enfield_rifle,Lee Enfield Rifle,schema_shape_ready_needs_manual_review,,weapon,uncommon,0,30,0,10,0.85,green,Gentleman's Staff + Top Hat
+leather_shield,Leather Shield,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,300,0,10,0,0.85,,Exchange {{retext|Ankh|green
+poisoned_dagger,Poisoned Dagger,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,uncommon,0,30,0,10,0.85,green,Khopesh + Linen Robe
+heavy_infantry_helmet,Heavy Infantry Helmet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,300,0,10,0,0.85,,Exchange {{retext|Feather|green
+legion_javelins,Legion Javelins,schema_shape_ready_needs_manual_review,,armor,uncommon,0,30,0,10,0.85,green,Javelin + Bronze Helmet
+mughal_soldier_helmet,Mughal Soldier Helmet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,300,0,10,0,0.85,,Exchange {{retext|Rosary|green
+pata,Pata,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,uncommon,0,30,0,10,0.85,green,Twin Tip Dagger + Sikh Turban
+time_hand,Time Hand,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,30,0,10,0.85,{{rewardiconwithtext|broken second hand,"Rift]], INTEL gained +2%"
+time_cog,Time Cog,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,300,0,10,0,0.85,exchange {{rewardiconwithtext|time frag card green|green,"Rift]], DMG +2%"
+bichaq,Bichaq,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,30,0,10,0.85,,Exchange {{Retext|Parsian Carpet|green
+pesh_kabz,Pesh-Kabz,schema_shape_ready_needs_manual_review,,armor,,300,0,10,0,0.85,,{{RewardIconWithText|Parsian Kite Shield
+bulletproof_vest,Bulletproof Vest,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,20,20,20,0.85,,Exchange {{retext|Kimchi Jar|blue
+assault_rifle_model_98,Assault Rifle Model 98,schema_shape_ready_needs_manual_review,,armor,,100,30,10,30,0.85,,{{retext|Motorbike Helmet|green
+servant_spirit_pendant,Servant Spirit Pendant,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,20,20,20,0.85,,Exchange {{retext|Koban|blue
+crimson_haori_jacket,Crimson Haori Jacket,schema_shape_ready_needs_manual_review,,armor,,300,10,30,10,0.85,,{{retext|Golden Yamato Armor|green
+rainbow_tassel,Rainbow Tassel,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,20,20,20,0.85,,Exchange {{retext|Mahjong|blue
+ancient_blade,Ancient Blade,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,300,10,30,0.85,,{{retext|Wu Scimitar|green
+pasgt_helmet,PASGT Helmet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,20,20,20,0.85,,Exchange {{retext|Bullet|blue
+springfield_rifle,Springfield Rifle,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,30,10,30,0.85,,{{retext|Colt Revolver|green
+tuxedo,Tuxedo,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,20,20,20,0.85,,Exchange {{retext|Anchor|blue
+sword_cane,Sword Cane,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,30,10,30,0.85,,{{retext|Lee Enfield Rifle|green
+tactical_helmet,Tactical Helmet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,20,20,20,0.85,,Exchange {{retext|Ankh|blue
+duckbill_axe,Duckbill Axe,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,30,10,30,0.85,,{{retext|Poisoned Dagger|green
+spartan_shield,Spartan Shield,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,200,20,20,20,0.85,blue,"In [[Hellas]], DMG +2%<br>Every Costume Stat +2%"
+macedonian_spear,Macedonian Spear,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,100,30,10,30,0.85,blue,"In [[Hellas]], DMG +2%<br>Every Costume Stat +2%"
+mahatma_s_robe,Mahatma's Robe,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,20,20,20,0.85,,Exchange {{retext|Rosary|blue
+kukri,Kukri,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,30,10,30,0.85,,{{retext|Pata|green
+time_wheel,Time Wheel,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,30,10,30,0.85,"rift]], intel gained +2%","Rift]], DMG +2%<br>In the [[Time Rift"
+time_blade,Time Blade,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,20,20,20,0.85,"rift]], intel gained +2%","Rift]], DMG +2%<br>In the [[Time Rift"
+war_scythes,War Scythes,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,20,20,20,0.85,,Exchange {{Retext|Parsian Carpet|blue
+shamshir,Shamshir,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,300,10,30,10,0.85,,{{RewardIconWithText|Pesh-Kabz|green
+pirate,Pirate,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,300,10,30,10,0.85,blue,Divine Chaos Chest (0.8% chance)
+iron_track,Iron Track,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,100,10,10,50,0.85,blue,Divine Order Chest (0.8% chance)
+diver,Diver,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,300,10,10,30,0.85,blue,Divine Neutral Chest (0.8% chance)
+gas_mask,Gas Mask,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,400,40,40,40,0.85,purple,Obtained from Home Chest
+golden_assault_rifle,Golden Assault Rifle,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,60,20,60,0.85,,{{retext|Bulletproof Vest|blue
+genji_shield,Genji Shield,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,400,40,40,40,0.85,purple,"Reward of [[Yamato]] INTEL ""Genji III"""
+genji_helmet,Genji Helmet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,600,20,60,20,0.85,purple,"Reward of [[Yamato]] INTEL ""Genji I"""
+genji_gloves,Genji Gloves,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,200,60,20,60,0.85,purple,"Reward of [[Yamato]] INTEL ""Genji II"""
+blade_muramasa,Blade Muramasa,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,60,20,60,0.85,,Exchange {{retext|Koban|purple
+royal_banner,Royal Banner,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,20,60,20,0.85,,{{retext|Crimson Haori Jacket|blue
+silver_lion,Silver Lion,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,40,40,40,0.85,,Exchange {{retext|Mahjong|purple
+7_star_blade,7-Star Blade,schema_shape_ready_needs_manual_review,,weapon,,200,60,20,60,0.85,,{{retext|Ancient Blade|blue
+mechanical_exoskeleton,Mechanical Exoskeleton,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,400,40,40,40,0.85,purple,Reward of [[Murika]] INTEL
+powered_glove,Powered Glove,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,200,60,20,60,0.85,purple,Reward of [[Murika]] INTEL
+holographic_tactical_glasses,Holographic Tactical Glasses,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,600,20,60,20,0.85,purple,Reward of [[Murika]] INTEL
+long_range_scope,Long Range Scope,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,20,60,20,0.85,,Exchange {{retext|Bullet|purple
+m4_carbine,M4 Carbine,schema_shape_ready_needs_manual_review,,accessory,,200,60,20,60,0.85,,{{retext|Springfield Rifle|blue
+britland_crown,Britland Crown,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,40,40,40,0.85,,Exchange {{retext|Anchor|purple
+shotgun_umbrella,Shotgun Umbrella,schema_shape_ready_needs_manual_review,,weapon,,200,60,20,60,0.85,,{{retext|Sword Cane|blue
+priestly_robe,Priestly Robe,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,40,40,40,0.85,,Exchange {{retext|Ankh|purple
+golden_bronze_dagger,Golden Bronze Dagger,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,600,20,60,20,0.85,purple,Reward of [[Kemet]] INTEL
+pharaoh_s_scepter,Pharaoh's Scepter,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,600,20,60,20,0.85,purple,Reward of [[Kemet]] INTEL
+arabic_dagger,Arabic Dagger,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,600,20,60,20,0.85,purple,Reward of [[Kemet]] INTEL
+guardian_s_longsword,Guardian's Longsword,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,60,20,60,0.85,,{{retext|Ax|blue
+caeser_s_laurel,Caeser's Laurel,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,600,20,60,20,0.85,purple,Reward of [[Hellas]] INTEL
+justinian_s_robe,Justinian's Robe,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,600,20,60,20,0.85,purple,Reward of [[Hellas]] INTEL
+heraclius_silver_staff,Heraclius' Silver Staff,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,600,20,60,20,0.85,purple,Reward of [[Hellas]] INTEL
+achilles_shield,Achilles' Shield,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,20,60,20,0.85,,Exchange {{retext|Feather|purple
+hector_s_spear,Hector's Spear,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,60,20,60,0.85,,{{retext|Macedonian Spear|blue
+antelope_horn_shield,Antelope Horn Shield,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,40,40,40,0.85,,Exchange {{retext|Rosary|purple
+mughal_scimitar,Mughal Scimitar,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,60,20,60,0.85,,{{retext|Kukri|blue
+spacetime_echo,Spacetime Echo,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,60,20,60,0.85,"rift]], intel gained +4%","Rift]], DMG +4%<br>In the [[Time Rift"
+time_flute,Time Flute,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,20,20,20,0.85,"rift]], snail rush +60","Rift]], Snail ATK +60<br>In the [[Time Rift"
+feline_shield,Feline Shield,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,400,40,40,40,0.85,purple,Reward of [[Parsia]] INTEL
+sun_mirror_armor,Sun Mirror Armor,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,600,20,60,20,0.85,purple,Reward of [[Parsia]] INTEL
+parsian_composite_bow,Parsian Composite Bow,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,200,60,20,60,0.85,purple,Reward of [[Parsia]] INTEL
+assassin_s_gauntlet,Assassin's Gauntlet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,60,20,60,0.85,,Exchange {{retext|Parsian Carpet|purple
+royal_wootz_blade,Royal Wootz Blade,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,20,60,20,0.85,,{{RewardIconWithText|Shamshir|blue
+teslla,Teslla,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,20,20,60,0.85,,{{retext|Lottery Bead Purple|purple
+virgo_tech,Virgo Tech,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,800,80,80,80,0.85,koryeon commissioner]],Reward for defeating [[Mailbox#Koryeon Commissioner
+jung_geun_s_gun,Jung-geun's Gun,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,120,40,120,0.85,,{{retext|Gas Mask|purple
+genji_armor,Genji Armor,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,800,80,80,80,0.85,,{{retext|Genji Gloves|purple
+blade_murasame,Blade Murasame,schema_shape_ready_needs_manual_review,,weapon,,400,120,40,120,0.85,,{{retext|Blade Muramasa|purple
+conqueror_spear,Conqueror Spear,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,800,80,80,80,0.85,loyal retainers]],Reward for defeating [[Mailbox#Loyal Retainers
+couple_swords,Couple Swords,schema_shape_ready_needs_manual_review,,weapon,,400,120,40,120,0.85,,{{retext|7-Star-Blade|purple
+indv_power_armor,Indv. Power Armor,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,800,80,80,80,0.85,,{{retext|Holograhic Tactical Glasses|purple
+indv_high_explosive_rifle,Indv. High-explosive Rifle,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,120,40,120,0.85,,{{retext|M4 Carbine|purple
+windsor_s_cape,Windsor's cape,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,800,80,80,80,0.85,,Exchange {{retext|Anchor|orange
+lion_s_crown,Lion's Crown,schema_shape_ready_needs_manual_review,,weapon,,400,120,40,120,0.85,,{{retext|Shotgun Umbrella|purple
+horse_helmet,Horse Helmet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,800,80,80,80,0.85,,{{retext|Arabic Dagger|purple
+damascus_knife,Damascus Knife,schema_shape_ready_needs_manual_review,,weapon,,400,120,40,120,0.85,,{{retext|Guardian's Longsword|purple
+eternal_empire_staff,Eternal Empire Staff,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,800,80,80,80,0.85,,{{retext|Caeser's Laurel|purple
+stardust_arrow,Stardust Arrow,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,120,40,120,0.85,,{{retext|Hector's Spear|purple
+indra_s_crown,Indra's Crown,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,800,80,80,80,0.85,,Exchange {{retext|Rosary|orange
+ashoka_s_sword,Ashoka's Sword,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,120,40,120,0.85,,{{retext|Mughal Scimitar|purple
+eternal_return,Eternal Return,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,120,40,120,0.85,"rift]], intel gained +8%","Rift]], DMG +8%<br>In the [[Time Rift"
+millennium_ring,Millennium Ring,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,800,80,80,80,0.85,"rift]], snail rush +120","Rift]], Snail ATK +120<br>In the [[Time Rift"
+arrow_of_arash,Arrow of Arash,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,800,80,80,80,0.85,,{{RewardIconWithText|Parsian Composite Bow|purple
+jade_saber,Jade Saber,schema_shape_ready_needs_manual_review,,weapon,,400,120,40,120,0.85,,{{RewardIconWithText|Royal Wootz Blade|purple
+curator_s_helmet,Curator's Helmet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,1200,40,120,40,0.85,museum shop]],50k Museum Medals in [[Museum
+gear_ring,Gear Ring,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,legendary,400,40,40,200,0.85,orange,Divine Order Chest (0.2% chance)
+warmonger_s_gun,Warmonger's Gun,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,60,180,0.85,,{{retext|Virgo Tech|orange
+sword_futsuno,Sword Futsuno,schema_shape_ready_needs_manual_review,,weapon,,600,180,60,180,0.85,,{{retext|Blade Murasame|orange
+sky_piercer,Sky Piercer,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,60,180,0.85,,{{retext|Conqueror Spear|orange
+bullet_storm,Bullet Storm,schema_shape_ready_needs_manual_review,,armor,,600,180,60,180,0.85,,{{retext|Indv. Power Armor|orange
+crown_of_eternal_daylight,Crown of Eternal Daylight,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,60,180,0.85,,{{retext|Lion's Crown|orange
+lion_king_s_sword,Lion King's Sword,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,60,180,0.85,,{{retext|Damascus Knife|orange
+athena_s_spear,Athena's Spear,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,60,180,0.85,,{{retext|Stardust Arrow|orange
+rama_greataxe,Rama Greataxe,schema_shape_ready_needs_manual_review,,weapon,,600,180,60,180,0.85,,{{retext|Ashoka's Sword|orange
+spacetime_exile,Spacetime Exile,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,60,180,0.85,"rift]], snail rush +150<br>in the [[time rift","Rift]], Snail ATK +150<br>In the [[Time Rift"
+mithraic_bow_and_spear,Mithraic Bow & Spear,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,60,180,0.85,,{{retext|Jade Spear|orange
+the_great_scientist,The Great Scientist,schema_shape_ready_needs_manual_review,,accessory,,1800,60,60,180,0.85,,{{retext|Teslla|orange
+overlord_s_hook,Overlord's Hook,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,1800,60,180,60,0.85,,{{retext|Pirate|orange
+the_great_collector,The Great Collector,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,1800,60,180,60,0.85,,{{retext|Curator's Helm|orange
+tremendous_support,Tremendous Support,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,60,60,300,0.85,,{{retext|Iron Track|orange
+deepsea_helmet,Deepsea Helmet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,1800,60,60,180,0.85,,{{retext|Diver|orange
+the_great_engineer,The Great Engineer,schema_shape_ready_needs_manual_review,,accessory,,600,60,60,300,0.85,,{{retext|Gear Ring|orange
+time_wanderer,Time Wanderer,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,1000,200,200,200,0.85,,{{RewardIconWithText|Spacetime Exile|red
+lotus_platform,Lotus Platform,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,150,5,5,15,0.85,ratman]],Defeat [[Mailbox#Ratman
+leather_chest_armor,Leather Chest Armor,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,uncommon,50,15,5,15,0.85,green,Divine Chaos (1.6%)
+undead_staff,Undead Staff,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,300,30,10,10,0.85,blue,Tier 3 Zombie Research
+the_buried,The Buried,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,300,30,10,10,0.85,blue,Divine Chaos(0.8%)
+demon_scythe,Demon Scythe,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,100,30,30,10,0.85,blue,Tier 3 Demon Research
+lotus_platform_iii,Lotus Platform III,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,300,10,10,30,0.85,,{{retext|Lotus Platform|green
+prayer_staff,Prayer Staff,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,300,10,10,30,0.85,blue,Tier 3 Angel Research
+mind_control_dagger,Mind Control Dagger,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,100,30,10,30,0.85,blue,Tier 3 Mutant Research
+gauss_c14,Gauss C14,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,100,10,30,30,0.85,blue,Tier 3 Mecha Research
+mark_ii,Mark II,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,100,10,30,30,0.85,blue,Lottery (0.71%)
+dragon_fang_dagger,Dragon Fang Dagger,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,100,30,10,30,0.85,blue,Tier 3 Dragon Research Reward
+lotus_platform_vi,Lotus Platform VI,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,20,20,60,0.85,,{{retext|Lotus Platform III|blue
+crimson_dragon_claw,Crimson Dragon Claw,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,60,20,60,0.85,15th dragon descent]].,Reward upon [[Altar#Divine_Dragon
+azazel_s_curse,Azazel's Curse,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,legendary,400,120,120,40,0.85,orange,Lottery (1.56%)
+lotus_platform_ix,Lotus Platform IX,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,1200,40,40,120,0.85,,{{retext|Lotus Platform VI|purple
+broken_dragon_horn,Broken Dragon Horn,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,120,40,120,0.85,demonic dragon]],Defeat [[Altar Fights#Demon Lords
+broken_caladbolg,Broken Caladbolg,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,120,40,120,0.85,demonic dad of excalibra]],Defeat [[Altar Fights#Demon Lords
+fire_of_rage,Fire of Rage,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,120,40,120,0.85,ba'al]],Defeat [[Altar Fights#Demon Lords
+soul_walking,Soul Walking,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,1800,180,60,60,0.85,,{{retext|The Buried|orange
+serket_staff,Serket Staff,schema_shape_ready_needs_manual_review,,weapon,,1800,180,60,60,0.85,,{{retext|Undead Staff|orange
+azazel_s_pact,Azazel's Pact,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,180,60,0.85,,{{retext|Azazel's Curse|orange
+soul_reaper,Soul Reaper,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,180,60,0.85,,{{retext|Demon Scythe|orange
+lotus_platform_xii,Lotus Platform XII,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,1800,60,60,180,0.85,,{{retext|Lotus Platform IX|orange
+seraph_s_light,Seraph's Light,schema_shape_ready_needs_manual_review,,weapon,,1800,60,60,180,0.85,,{{retext|Prayer Staff|orange
+centaur_armor,Centaur Armor,schema_shape_ready_needs_manual_review,,armor,,600,180,60,180,0.85,,{{retext|Leather Chest Armor|orange
+subspace_blade,Subspace Blade,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,60,180,0.85,,{{retext|Mind Control Dagger|orange
+mark_iv,Mark IV,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,60,180,180,0.85,,{{retext|Mark II|orange
+gauss_m72,Gauss M72,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,60,180,180,0.85,,{{retext|Gauss C14|orange
+claw_of_destruction,Claw of Destruction,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,60,180,0.85,,{{retext|Crimson Dragon Claw|orange
+fang_of_tiamat,Fang of Tiamat,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,60,180,0.85,,{{retext|Dragon Fang Dagger|orange
+dragon_horn,Dragon Horn,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,60,180,0.85,,{{retext|Dragon Horn|orange
+caladbolg,Caladbolg,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,60,180,0.85,,{{retext|Broken Caladbolg|orange
+exploding_rage,Exploding Rage,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,180,60,180,0.85,,{{retext|Fire of Rage|orange
+excaladbolg,Excaladbolg,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,1000,300,100,300,0.85,,{{retext|Exploding Rage|red
+strength_sword,Strength Sword,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,50,25,5,5,0.85,hitman no.1]],Intercept [[Hitmen
+hannibel_s_scalpel,Hannibel's Scalpel,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,50,25,5,5,0.85,relics and gear]],Dragon Wish Reward<br>[[Altar#Discount_Dragon
+jack_s_gloves,Jack's Gloves,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,50,25,5,5,0.85,relics and gear]],Dragon Wish Reward<br>[[Altar#Discount_Dragon
+broken_sagesinker,Broken Sagesinker,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,50,25,5,5,0.85,ratman]],Fully defeat [[Mailbox#Ratman
+broken_sageender,Broken Sageender,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,50,25,5,5,0.85,ratman]],Fully defeat [[Mailbox#Ratman
+broken_sagemurderer,Broken Sagemurderer,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,50,25,5,5,0.85,ratman]],Fully defeat [[Mailbox#Ratman
+broken_sagekiller,Broken Sagekiller,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,50,25,5,5,0.85,ratman]],Fully defeat [[Mailbox#Ratman
+shattered_windfire_wheel,Shattered Windfire Wheel,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,50,25,5,5,0.85,ratman]],Fully defeat [[Mailbox#Ratman
+shattered_sky_ribbon,Shattered Sky Ribbon,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,50,25,5,5,0.85,ratman]],Fully defeat [[Mailbox#Ratman
+shattered_fire_spear,Shattered Fire Spear,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,50,25,5,5,0.85,ratman]],Fully defeat [[Mailbox#Ratman
+shattered_palm_leaf_fan,Shattered Palm-Leaf Fan,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,50,25,5,5,0.85,ratman]],Fully defeat [[Mailbox#Ratman
+dwarf_mask,Dwarf Mask,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,uncommon,50,5,25,5,0.85,green,Lottery (0.75%)
+lizard_belt,Lizard Belt,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,uncommon,250,5,5,5,0.85,green,Divine Chaos (1.6%)
+slippers,Slippers,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,uncommon,50,5,5,25,0.85,green,Divine Neutral (1.6%)
+elegant_gloves,Elegant Gloves,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,uncommon,50,25,5,5,0.85,green,Divine Order (1.6%)
+fresnal_lens,Fresnal Lens,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,uncommon,100,10,10,10,0.85,green,[[Vending Machine]] Purchase
+crystal_lens,Crystal Lens,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,uncommon,100,10,10,10,0.85,green,[[Vending Machine]] Purchase
+sakabato_blade,Sakabato Blade,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,50,10,10,0.85,hitman no.5]],Intercept [[Hitmen
+walnut_wand,Walnut Wand,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,100,50,10,10,0.85,blue,Old Wizard victory reward
+nun_chuck,Nun-chuck,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,100,50,10,10,0.85,blue,Defeat Sewer Turtle #4
+pulse_rifle,Pulse Rifle,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,100,50,10,10,0.85,blue,defeating UFO(40 incense shots)
+freddy_s_claw,Freddy's Claw,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,50,10,10,0.85,,{{retext|Jack's glove|green
+jason_s_mask,Jason's Mask,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,50,10,10,0.85,relics and gear]],Dragon Wish Reward<br>[[Altar#Discount_Dragon
+broken_godsmiter,Broken Godsmiter,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,50,10,10,0.85,ratman]],Defeat [[Mailbox#Ratman
+broken_palm_leaf_fan,Broken Palm-Leaf Fan,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,50,10,10,0.85,,{{retext|Shattered Palm-Leaf Fan|green
+broken_fiend_mirror,Broken Fiend Mirror,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,50,10,10,0.85,ratman]],Defeat [[Mailbox#Ratman
+multifunction_goggles,Multifunction Goggles,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,20,20,20,0.85,,{{retext|Crystal Lens|green
+infrared_lens,Infrared Lens,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,rare,200,20,20,20,0.85,blue,[[Vending Machine]]
+spring_longsword,Spring Longsword,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,200,10,20,20,0.85,purple,Lottery (0.52%)
+hammer_of_frenzy,Hammer of Frenzy,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,200,20,20,10,0.85,purple,Divine Neutral (0.4%)
+texan_chainsaw,Texan Chainsaw,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,10,20,20,0.85,,{{retext|Freddy's Claw|blue
+cayako_s_charm,Cayako's Charm,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,10,20,20,0.85,relics and gear]],Divine Dragon Wish<br>[[Altar#Discount_Dragon
+dim_godsmiter,Dim Godsmiter,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,100,20,20,0.85,,{{retext|Broken Sagekiller|blue
+dim_ironcutter,Dim Ironcutter,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,100,20,20,0.85,ratman]],Fully defeat [[Mailbox#Ratman
+dim_trident,Dim Trident,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,100,20,20,0.85,ratman]],Fully defeat [[Mailbox#Ratman
+dim_rope_of_truth,Dim Rope of Truth,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,100,20,20,0.85,ratman]],Fully defeat [[Mailbox#Ratman
+scout_goggles,Scout Goggles,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,20,20,20,0.85,,{{retext|Multifunction Goggles|blue
+holographic_lens,Holographic Lens,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,200,20,20,20,0.85,purple,[[Vending Machine]] Purchase
+leviathan_gloves,Leviathan Gloves,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,200,100,20,20,0.85,purple,Divine Chaos (0.4%)
+imitation_vision,Imitation Vision,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,200,100,20,20,0.85,purple,Gene Training Value Pack II ($14.99)
+peacock_quill,Peacock Quill,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,epic,200,100,20,100,0.85,purple,Reward of unlocking Peackock Throne
+excalibur,Excalibur,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,200,40,40,0.85,unique events]],Reward of defeating Excalibra<br>[[Altar#Discount_Dragon
+anti_strength_saber,Anti-Strength Saber,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,legendary,400,200,40,40,0.85,orange,Reward of defeating Death Satellite
+butcher_s_hook,Butcher's Hook,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,200,40,40,0.85,,{{retext|Texan Chainsaw|purple
+trident,Trident,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,200,40,40,0.85,,{{retext|Dim Godsmiter|purple
+battle_detector,Battle Detector,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,800,80,80,80,0.85,,{{retext|Scout Goggles|purple
+electric_hammer,Electric Hammer,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,legendary,400,40,40,200,0.85,orange,Lottery 1.56%
+fossil,Fossil,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,legendary,400,200,40,40,0.85,orange,Divine Chaos 0.2%
+drazgul_fang,Drazgul Fang,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,legendary,400,200,40,200,0.85,orange,Gear Value Pack III(100$!!!)
+maze_key,Maze Key,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,legendary,400,200,200,40,0.85,orange,Supreme Relic #8
+b_tadpole_sword,B-Tadpole Sword,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,legendary,400,200,40,40,0.85,orange,Home Value Pack lv50 pond
+strength_master_s_sword,Strength Master's Sword,schema_shape_ready_needs_manual_review,,weapon,,600,300,60,60,0.85,,{{retext|Strength Sword|orange
+true_sakabato,True Sakabato,schema_shape_ready_needs_manual_review,,weapon,,600,300,60,60,0.85,,{{retext|Sakabato Blade|orange
+oldman_wand,Oldman Wand,schema_shape_ready_needs_manual_review,,weapon,,600,300,60,60,0.85,,{{retext|Walnut Wand|orange
+norris_chuck,Norris-chuck,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,300,60,60,0.85,,{{retext|Nun-chuck|orange
+excalibur_ex,Excalibur EX,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,300,60,60,0.85,,{{retext|Excalibur EX|orange
+dark_strength,Dark Strength,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,300,60,60,0.85,,{{retext|Anti-Strength Saber|orange
+district_9,District 9,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,300,60,60,0.85,,{{retext|Pulse Rifle|orange
+big_bounce,Big Bounce,schema_shape_ready_needs_manual_review,,weapon,,600,300,60,60,0.85,,{{retext|Spring Longsword|orange
+power_spinach,Power Spinach,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,60,60,300,0.85,,{{retext|Hammer of Frenzy|orange
+blair_s_curse,Blair's Curse,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,300,60,60,0.85,,{{retext|Butcher's Hook|orange
+poseidon_s_trident,Poseidon's Trident,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,300,60,60,0.85,,{{retext|Trident|orange
+ancestral_legacy,Ancestral Legacy,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,60,300,60,0.85,,{{retext|Dwarf Mask|orange
+gilded_belt,Gilded Belt,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,3000,60,60,60,0.85,,{{retext|Lizard Belt|orange
+empress_slippers,Empress' Slippers,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,60,60,300,0.85,,{{retext|Slippers|orange
+empress_gloves,Empress Gloves,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,300,60,60,0.85,,{{retext|Elegant Gloves|orange
+know_it_all_device,Know-It-All Device,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,1200,120,120,120,0.85,,{{retext|Battle Detector|orange
+hydra_s_gloves,Hydra's Gloves,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,300,60,60,0.85,,{{retext|Leviathan Gloves|orange
+million_volts,Million Volts,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,60,60,300,0.85,,{{retext|Electric Hammer|orange
+cretaceous_weapon,Cretaceous Weapon,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,300,60,60,0.85,,{{retext|Fossil|orange
+golden_drazgul_fang,Golden Drazgul Fang,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,300,60,300,0.85,,{{retext|Drazgul Fang|orange
+virtual_vision,Virtual Vision,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,300,60,60,0.85,,{{retext|Imitation Vision|orange
+septreasure_peacock_quill,Septreasure Peacock Quill,schema_shape_ready_needs_manual_review,,accessory,,600,300,60,300,0.85,,{{retext|Peacock Quill|orange
+incredible_key,Incredible Key,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,300,300,60,0.85,,{{retext|Maze Key|orange
+w_tadpole_sword,W-Tadpole Sword,schema_shape_ready_needs_manual_review,,weapon,,600,300,60,60,0.85,,{{retext|B-Tadpole Sword|orange
+sailor_suit,Sailor Suit,schema_shape_ready_needs_manual_review,,armor,,100,10,10,10,0.85,grandpire]],Defeat [[Incense#Special Incense Events
+rock,Rock,schema_shape_ready_needs_manual_review,,armor,uncommon,50,5,25,5,0.85,green,Lottery 0.75%
+lifebuoy,Lifebuoy,schema_shape_ready_needs_manual_review,,armor,uncommon,150,5,15,5,0.85,green,Lottery 0.75%
+stage_hat,Stage Hat,schema_shape_ready_needs_manual_review,,armor,uncommon,100,10,10,10,0.85,green,Divine Order chest 1.6%
+static_belt,Static Belt,schema_shape_ready_needs_manual_review,,armor,uncommon,50,5,5,25,0.85,green,Divine Neutral 1.6%
+elven_cape,Elven Cape,schema_shape_ready_needs_manual_review,,armor,rare,200,20,20,20,0.85,blue,Divine Order 0.8%
+death_shroud,Death Shroud,schema_shape_ready_needs_manual_review,,armor,rare,500,10,10,10,0.85,blue,Dracula victory reward
+strong_round_shield,Strong Round Shield,schema_shape_ready_needs_manual_review,,armor,rare,100,10,50,10,0.85,blue,Divine Neutral 0.8%
+workout_top,Workout Top,schema_shape_ready_needs_manual_review,,armor,rare,300,10,30,10,0.85,blue,Lottery 0.71%
+saint_s_earring,Saint's Earring,schema_shape_ready_needs_manual_review,,armor,epic,400,40,40,40,0.85,purple,Divine Order 0.4%
+crown_of_power,Crown of Power,schema_shape_ready_needs_manual_review,,armor,epic,400,40,40,40,0.85,purple,Divine Chaos 0.4%
+ring_of_stupor,Ring of Stupor,schema_shape_ready_needs_manual_review,,armor,epic,200,20,20,100,0.85,purple,Hitman 15 victory reward
+magician,Magician,schema_shape_ready_needs_manual_review,,armor,epic,400,40,40,40,0.85,purple,Divine Neutral 0.4%
+thorn,Thorn,schema_shape_ready_needs_manual_review,,armor,epic,1000,20,20,20,0.85,purple,Divine Order Chest 0.4%
+wisdom_cloak,Wisdom Cloak,schema_shape_ready_needs_manual_review,,armor,legendary,800,80,80,80,0.85,orange,Divine Neutral 0.2%
+power_armor,Power Armor,schema_shape_ready_needs_manual_review,,armor,legendary,800,80,80,80,0.85,orange,Divine Chaos 0.2%
+alloy_shield,Alloy Shield,schema_shape_ready_needs_manual_review,,armor,legendary,400,40,20,40,0.85,orange,Divine Neutral 0.2%
+chief,Chief,schema_shape_ready_needs_manual_review,,armor,legendary,400,40,200,40,0.85,orange,Divine Order Chest 0.2%
+gold_outfit,Gold Outfit,schema_shape_ready_needs_manual_review,,armor,legendary,1200,40,120,40,0.85,orange,Defeat Agamemnon Mask Civilization Mirage
+time_amulet,Time Amulet,schema_shape_ready_needs_manual_review,,armor,legendary,1200,40,120,40,0.85,orange,Defeat Eye of Akamoddo Civilization Mirage
+ogma_s_cloak,Ogma's Cloak,schema_shape_ready_needs_manual_review,,armor,,1200,120,120,120,0.85,,{{retext|Wisdom Cloak|orange
+selene_amulet,Selene Amulet,schema_shape_ready_needs_manual_review,,armor,,1200,120,120,120,0.85,,{{retext|Elven Cape|orange
+antimatter_armor,Antimatter Armor,schema_shape_ready_needs_manual_review,,armor,,1200,120,120,120,0.85,,{{retext|Power Armor|orange
+michael_s_earrings,Michael's Earrings,schema_shape_ready_needs_manual_review,,armor,,1200,120,120,120,0.85,,{{retext|Saint's Earring|orange
+caesar_s_crown,Caesar's Crown,schema_shape_ready_needs_manual_review,,armor,,1200,120,120,120,0.85,,{{retext|Crown of Power|orange
+ring_of_paralysis,Ring of Paralysis,schema_shape_ready_needs_manual_review,,armor,,600,60,60,300,0.85,,{{retext|Ring of Stupor|orange
+dracula_cape,Dracula Cape,schema_shape_ready_needs_manual_review,,armor,,3000,60,60,60,0.85,,{{retext|Death Shroud|orange
+grandpire_s_robe,Grandpire's Robe,schema_shape_ready_needs_manual_review,,armor,,1200,120,120,120,0.85,,{{retext|Sailor Suit|orange
+bedrock,Bedrock,schema_shape_ready_needs_manual_review,,armor,,600,60,300,60,0.85,,{{retext|Rock|orange
+poseidon_s_blessing,Poseidon's Blessing,schema_shape_ready_needs_manual_review,,armor,,1800,60,180,60,0.85,,{{retext|Lifebuoy|orange
+fortress,Fortress,schema_shape_ready_needs_manual_review,,armor,,600,60,300,60,0.85,,{{retext|Strong Round Shield|orange
+traveler_outfit,Traveler Outfit,schema_shape_ready_needs_manual_review,,armor,,1800,60,180,60,0.85,,{{retext|Workout Top|orange
+the_great_magician,The Great Magician,schema_shape_ready_needs_manual_review,,armor,,1200,120,120,120,0.85,,{{retext|Magician|orange
+antimatter_shield,Antimatter Shield,schema_shape_ready_needs_manual_review,,armor,,600,60,300,60,0.85,,{{retext|Alloy Shield|orange
+heart_of_nature,Heart of Nature,schema_shape_ready_needs_manual_review,,armor,,3000,60,60,60,0.85,,{{retext|Thorn|orange
+super_warrior,Super Warrior,schema_shape_ready_needs_manual_review,,armor,,600,60,300,60,0.85,,{{retext|Chief|orange
+the_great_entertainer,The Great Entertainer,schema_shape_ready_needs_manual_review,,armor,,1200,120,120,120,0.85,,{{retext|Stage Hat|orange
+thunder_belt,Thunder Belt,schema_shape_ready_needs_manual_review,,armor,,600,60,60,300,0.85,,{{retext|Static Belt|orange
+agamemnon_outfit,Agamemnon Outfit,schema_shape_ready_needs_manual_review,,armor,,3000,100,300,100,0.85,,{{retext|Gold Outfit|orange
+eye_of_akamoddo_amulet,Eye of Akamoddo Amulet,schema_shape_ready_needs_manual_review,,armor,,1800,60,180,60,0.85,,{{retext|Time Amulet|orange
+flower_crown,Flower Crown,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,0,10,0,0.85,fissure shop]]<br>• lottery machine (1.12% chance)<br>• gear chest (13% chance),• [[Fissure
+wooden_ring,Wooden Ring,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,0,10,0,0.85,fissure shop]]<br>• lottery machine (1.12% chance)<br>• gear chest (13% chance),• [[Fissure
+iron_ring,Iron Ring,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,10,0,10,0.85,fissure shop]]<br>• lottery machine (1.12% chance)<br>• gear chest (13% chance),• [[Fissure
+beast_fang,Beast Fang,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,0,10,0,10,0.85,fissure shop]]<br>• lottery machine (1.12% chance)<br>• gear chest (13% chance),• [[Fissure
+sorcerer_ring,Sorcerer Ring,schema_shape_ready_needs_manual_review,,accessory,uncommon,150,5,15,15,0.85,green,• Flower Crown + Wooden Ring<br>• Lottery Machine (0.67% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests(0.9% chance)
+warrior_ring,Warrior Ring,schema_shape_ready_needs_manual_review,,accessory,uncommon,50,15,5,15,0.85,green,• Iron Ring + Beast Fang<br>• Lottery Machine (0.67% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests (0.9% chance)
+white_pearl,White Pearl,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,150,5,15,5,0.85,fissure shop]]<br>• lottery machine (0.75% chance)<br>• gear chest (12% chance)<br>• divine chests (13.5% chance),• [[Fissure
+black_pearl,Black Pearl,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,50,15,5,15,0.85,fissure shop]]<br>• lottery machine (0.75% chance)<br>• gear chest (12% chance)<br>• divine chests (13.5% chance),• [[Fissure
+wizard_ring,Wizard Ring,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,300,10,30,10,0.85,,• {{retext|White Pearl|green
+crusader_ring,Crusader Ring,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,30,10,30,0.85,,• {{retext|Black Pearl|green
+ruby_brooch,Ruby Brooch,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,100,30,10,30,0.85,fissure shop]]<br>• lottery machine (0.71% chance)<br>• gear chest (5.6% chance)<br>• divine chests (6.3% chance),• [[Fissure
+sapphire_brooch,Sapphire Brooch,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,300,10,30,10,0.85,fissure shop]]<br>• lottery machine (0.71% chance)<br>• gear chest (5.6% chance)<br>• divine chests (6.3% chance),• [[Fissure
+seething_bracelet,Seething Bracelet,schema_shape_ready_needs_manual_review,,accessory,,200,60,20,60,0.85,,• {{retext|Wizard Ring|blue
+icy_bracelet,Icy Bracelet,schema_shape_ready_needs_manual_review,,accessory,,600,20,60,20,0.85,,• {{retext|Wizard Ring|blue
+heaven_amulet,Heaven Amulet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,600,20,60,20,0.85,fissure shop]]<br>• lottery machine (0.52% chance)<br>• gear chest (2.4% chance)<br>• divine chests (2.7% chance),• [[Fissure
+abyss_amulet,Abyss Amulet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,200,60,20,60,0.85,fissure shop]]<br>• lottery machine (0.52% chance)<br>• gear chest (2.4% chance)<br>• divine chests (2.7% chance),• [[Fissure
+heaven_wings,Heaven Wings,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,1200,40,120,40,0.85,,•{{retext|Seething Bracelet|purple
+abyss_wings,Abyss Wings,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,400,120,40,120,0.85,,• {{retext|Seething Bracelet|purple
+crystal_of_will,Crystal of Will,schema_shape_ready_needs_manual_review,,accessory,legendary,800,80,80,80,0.85,orange,• Reward of some [[Fissure]] incidents<br>• Reward of offering Gaia's Tainted Organs at the [[Altar]]
+demon_god_crystal,Demon God Crystal,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,legendary,800,80,80,80,0.85,orange,Currently only available from final Lucky Clover Round
+eye_of_horus,Eye of Horus,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,legendary,800,80,80,80,0.85,orange,• Lottery Machine (1.56% chance)<br>• Gear Chest (1.6% chance)<br>• Divine Chests (1.8% chance)
+blasphemy_eye,Blasphemy Eye,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,legendary,800,80,80,80,0.85,orange,"Random Events, Sunday Stars 59.99$, and other misc Gear Bags"
+amulet_of_will,Amulet of Will,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,1200,120,120,120,0.85,,{{retext|Crystal of Will|orange
+demon_god_amulet,Demon God Amulet,blocked_missing_required,missing_required:slot; missing_or_uninferred:slot,,,1200,120,120,120,0.85,,{{retext|Demon God Crystal|orange
+amulet_of_will_1,Amulet of Will +1,schema_shape_ready_needs_manual_review,,accessory,,2000,200,200,200,0.85,,{{retext|Amulet of Will|red

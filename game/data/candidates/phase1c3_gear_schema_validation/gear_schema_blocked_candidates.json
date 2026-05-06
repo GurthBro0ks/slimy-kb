@@ -1,0 +1,5260 @@
+[
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 0,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": "In [[Koryeo]], INTEL gained +1%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "ice_skates",
+    "name": "Ice Skates",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Kimchi Jar x5 in [[Koryeo]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 0,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "crowbar",
+    "name": "Crowbar",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Kimchi Jar x6 in [[Koryeo]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 20,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": "In [[Yamato]], INTEL gained +1%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "royal_underwear",
+    "name": "Royal Underwear",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Koban x6 in [[Yamato]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 20,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "light_yamato_armor",
+    "name": "Light Yamato Armor",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Koban x5 in [[Yamato]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 20,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": "In [[Cathay]], INTEL gained +1%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "iron_helmet",
+    "name": "Iron Helmet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Mahjong x6 in [[Cathay]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 0,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "podao",
+    "name": "Podao",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Mahjong x5 in [[Cathay]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 0,
+      "hp": 0,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": "In [[Murika]], INTEL gained +1%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "tactical_boots",
+    "name": "Tactical Boots",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Bullet x6 in [[Murika]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 0,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "smoothbore",
+    "name": "Smoothbore",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Bullet x5 in [[Murika]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 20,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": "In [[Britland]], INTEL gained +1%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "gentleman_s_staff",
+    "name": "Gentleman's Staff",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Anchor x6 in [[Britland]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 0,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "top_hat",
+    "name": "Top Hat",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Anchor x5 in [[Britland]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 0,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": "in [[Kemet]], INTEL gained +1%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "linen_robe",
+    "name": "Linen Robe",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Ankh x6 in [[Kemet]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 0,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "khopesh",
+    "name": "Khopesh",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Ankh x5 in [[Kemet]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 20,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": "in [[Hellas]], INTEL gained +1%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "bronze_helmet",
+    "name": "Bronze Helmet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Feather x6 in [[Hellas]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 0,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "javelin",
+    "name": "Javelin",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Feather x5 in [[Hellas]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 20,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": "in [[Bharata]], INTEL gained +1%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "sikh_turban",
+    "name": "Sikh Turban",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Rosary x6 in [[Bharata]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 0,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "twin_tip_dagger",
+    "name": "Twin Tip Dagger",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange Feather x5 in [[Hellas]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 0,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "broken_second_hand",
+    "name": "Broken Second Hand",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{RewardIconWithText|Time Frag Card Gray",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 20,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "broken_minute_hand",
+    "name": "Broken Minute Hand",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{RewardIconWithText|Time Frag Card Gray",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 0,
+      "hp": 0,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "broken_hour_hand",
+    "name": "Broken Hour Hand",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{RewardIconWithText|Time Frag Card Gray",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 0,
+      "hp": 0,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "parsian_pike",
+    "name": "Parsian Pike",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange x5 in [[Parsia]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 20,
+      "hp": 0,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "gray",
+    "effect_raw": "Parsian Exploration, INTEL +1%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "parsian_kite_shield",
+    "name": "Parsian Kite Shield",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange x6 in [[Parsia]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 10,
+      "hp": 300,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Koryeo]], DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "motorbike_helmet",
+    "name": "Motorbike Helmet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Kimchi Jar|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 0,
+      "hp": 0,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "green",
+    "effect_raw": "In [[Koryeo]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "switchblade",
+    "name": "Switchblade",
+    "rarity_candidate": "uncommon",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Ice Skates + Crowbar",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 0,
+      "hp": 0,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Yamato]], DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "ninjutsu_armband",
+    "name": "Ninjutsu Armband",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Koban|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 10,
+      "hp": 300,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "green",
+    "effect_raw": "In [[Yamato]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "golden_yamato_armor",
+    "name": "Golden Yamato Armor",
+    "rarity_candidate": "uncommon",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Light Yamato Armo + Royal Underwear",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 10,
+      "hp": 300,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Cathay]], DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "heart_protection_mirror",
+    "name": "Heart-Protection Mirror",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Mahjong|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 10,
+      "hp": 300,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Murika]], DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "tactical_vest",
+    "name": "Tactical Vest",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Bullet|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 0,
+      "hp": 0,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "green",
+    "effect_raw": "In [[Murika]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "colt_revolver",
+    "name": "Colt Revolver",
+    "rarity_candidate": "uncommon",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Tactical Boots + Smoothbore",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 10,
+      "hp": 300,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Britland]], DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "royal_guard_bearskin_hat",
+    "name": "Royal Guard Bearskin Hat",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Anchor|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 10,
+      "hp": 300,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Kemet]], DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "leather_shield",
+    "name": "Leather Shield",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Ankh|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 0,
+      "hp": 0,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "green",
+    "effect_raw": "In [[Kemet]], INTEL Gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "poisoned_dagger",
+    "name": "Poisoned Dagger",
+    "rarity_candidate": "uncommon",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Khopesh + Linen Robe",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 10,
+      "hp": 300,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Hellas]], INTEL gained +2%<br>Every Costume Stat +1%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "heavy_infantry_helmet",
+    "name": "Heavy Infantry Helmet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Feather|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 10,
+      "hp": 300,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Bharata]], DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "mughal_soldier_helmet",
+    "name": "Mughal Soldier Helmet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Rosary|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 0,
+      "hp": 0,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "green",
+    "effect_raw": "In [[Bharata]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "pata",
+    "name": "Pata",
+    "rarity_candidate": "uncommon",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Twin Tip Dagger + Sikh Turban",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 0,
+      "hp": 0,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "{{rewardiconwithtext|broken second hand",
+    "effect_raw": "In the [[Time Rift",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "time_hand",
+    "name": "Time Hand",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Rift]], INTEL gained +2%",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 10,
+      "hp": 300,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "exchange {{rewardiconwithtext|time frag card green|green",
+    "effect_raw": "In the [[Time Rift",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "time_cog",
+    "name": "Time Cog",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Rift]], DMG +2%",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 0,
+      "hp": 0,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Parsia]], DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "bichaq",
+    "name": "Bichaq",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{Retext|Parsian Carpet|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Koryeo]], DMG +2%<br>In [[Koryeo]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "bulletproof_vest",
+    "name": "Bulletproof Vest",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Kimchi Jar|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Yamato]], DMG +2%<br>In [[Yamato]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "servant_spirit_pendant",
+    "name": "Servant Spirit Pendant",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Koban|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Cathay]], DMG +2%<br>In [[Cathay]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "rainbow_tassel",
+    "name": "Rainbow Tassel",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Mahjong|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 10,
+      "hp": 100,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Cathay]], DMG +2%<br>In [[Cathay]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "ancient_blade",
+    "name": "Ancient Blade",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Wu Scimitar|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Murika]], DMG +2%<br>In [[Murika]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "pasgt_helmet",
+    "name": "PASGT Helmet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Bullet|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 10,
+      "hp": 100,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Murika]], DMG +2%<br>In [[Murika]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "springfield_rifle",
+    "name": "Springfield Rifle",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Colt Revolver|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Britland]], DMG +2%<br>In [[Britland]], INTEL gained +2%<br>In [[Britland]], fleet cannon DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "tuxedo",
+    "name": "Tuxedo",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Anchor|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 10,
+      "hp": 100,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "in [[Britland]]In [[Britland]], DMG +2%<br>In [[Britland]], INTEL gained +2%<br>In [[Britland]], fleet cannon DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "sword_cane",
+    "name": "Sword Cane",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Lee Enfield Rifle|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Kemet]], DMG +2%<br>In [[Kemet]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "tactical_helmet",
+    "name": "Tactical Helmet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Ankh|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 10,
+      "hp": 100,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Kemet]], DMG +2%<br>In [[Kemet]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "duckbill_axe",
+    "name": "Duckbill Axe",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Poisoned Dagger|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "In [[Hellas]], INTEL gained +2%<br>",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "spartan_shield",
+    "name": "Spartan Shield",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "In [[Hellas]], DMG +2%<br>Every Costume Stat +2%",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 10,
+      "hp": 100,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "In [[Hellas]], INTEL gained +2%<br>",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "macedonian_spear",
+    "name": "Macedonian Spear",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "In [[Hellas]], DMG +2%<br>Every Costume Stat +2%",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Bharata]], DMG +2%<br>In [[Bharata]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "mahatma_s_robe",
+    "name": "Mahatma's Robe",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Rosary|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 10,
+      "hp": 100,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Bharata]], DMG +2%<br>In [[Bharata]], INTEL gained +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "kukri",
+    "name": "Kukri",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Pata|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 10,
+      "hp": 100,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": "rift]], intel gained +2%",
+    "effect_raw": "In the [[Time Rift",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "time_wheel",
+    "name": "Time Wheel",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Rift]], DMG +2%<br>In the [[Time Rift",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "rift]], intel gained +2%",
+    "effect_raw": "In the [[Time Rift",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "time_blade",
+    "name": "Time Blade",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Rift]], DMG +2%<br>In the [[Time Rift",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Parsia]], DMG +2%<br>In [[Parsia]], INTEL +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "war_scythes",
+    "name": "War Scythes",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{Retext|Parsian Carpet|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 30,
+      "hp": 300,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Parsia]], DMG +2%<br>In [[Parsia]], INTEL +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "shamshir",
+    "name": "Shamshir",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{RewardIconWithText|Pesh-Kabz|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 30,
+      "hp": 300,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "Enemies in Explorations drop +20 B-tads<br>Tadpoles Gained:2,600,000",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "pirate",
+    "name": "Pirate",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Divine Chaos Chest (0.8% chance)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 10,
+      "hp": 100,
+      "rush": 50
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "Travel SPD +1.6%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "iron_track",
+    "name": "Iron Track",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Divine Order Chest (0.8% chance)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 10,
+      "hp": 300,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "In any Realm, 2x Demon God Cell Drops +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "diver",
+    "name": "Diver",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Divine Neutral Chest (0.8% chance)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Koryeo]], DMG +4%<br>In [[Koryeo]], INTEL gained +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "gas_mask",
+    "name": "Gas Mask",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Obtained from Home Chest",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Koryeo]], DMG +4%<br>In [[Koryeo]], INTEL gained +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "golden_assault_rifle",
+    "name": "Golden Assault Rifle",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Bulletproof Vest|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Yamato]], Snail ATK +48<br>In [[Yamato]], Snail DEF +48",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "genji_shield",
+    "name": "Genji Shield",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Yamato]] INTEL \"Genji III\"",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Yamato]], Snail DEF +48",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "genji_helmet",
+    "name": "Genji Helmet",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Yamato]] INTEL \"Genji I\"",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Yamato]], Snail ATK +48",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "genji_gloves",
+    "name": "Genji Gloves",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Yamato]] INTEL \"Genji II\"",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Yamato]], DMG +4%<br>In [[Yamato]], INTEL gained +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "blade_muramasa",
+    "name": "Blade Muramasa",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Koban|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Yamato]], DMG +4%<br>In [[Yamato]], INTEL gained +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "royal_banner",
+    "name": "Royal Banner",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Crimson Haori Jacket|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Cathay]], DMG +4%<br>In [[Cathay]], INTEL gained +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "silver_lion",
+    "name": "Silver Lion",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Mahjong|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Murika]], Snail ATK +48<br>In [[Murika]], Snail DEF +48",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "mechanical_exoskeleton",
+    "name": "Mechanical Exoskeleton",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Murika]] INTEL",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Murika]], Snail DEF +48",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "powered_glove",
+    "name": "Powered Glove",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Murika]] INTEL",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Murika]], Snail ATK +48",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "holographic_tactical_glasses",
+    "name": "Holographic Tactical Glasses",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Murika]] INTEL",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Murika]], DMG +4%<br>In [[Murika]], INTEL gained +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "long_range_scope",
+    "name": "Long Range Scope",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Bullet|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Britland]], DMG +4%<br>In [[Britland]], INTEL gained +4%<br>In [[Britland]], fleet cannon DMG +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "britland_crown",
+    "name": "Britland Crown",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Anchor|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Kemet]], DMG +4%<br>In [[Kemet]], INTEL gained +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "priestly_robe",
+    "name": "Priestly Robe",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Ankh|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Kemet]], Snail ATK +60<br>Snail DEF +60",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "golden_bronze_dagger",
+    "name": "Golden Bronze Dagger",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Kemet]] INTEL",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Kemet]], Snail DEF +60",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "pharaoh_s_scepter",
+    "name": "Pharaoh's Scepter",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Kemet]] INTEL",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Kemet]], Snail ATK +60",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "arabic_dagger",
+    "name": "Arabic Dagger",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Kemet]] INTEL",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Kemet]], DMG +4%<br>In [[Kemet]], INTEL gained +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "guardian_s_longsword",
+    "name": "Guardian's Longsword",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Ax|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Hellas]], Snail ATK +60<br>In [[Hellas]], Snail DEF +60",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "caeser_s_laurel",
+    "name": "Caeser's Laurel",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Hellas]] INTEL",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Hellas]], Snail DEF +60",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "justinian_s_robe",
+    "name": "Justinian's Robe",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Hellas]] INTEL",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Hellas]], Snail ATK +60",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "heraclius_silver_staff",
+    "name": "Heraclius' Silver Staff",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Hellas]] INTEL",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Hellas]], INTEL gained +4%<br>In [[Hellas]], DMG +4%<br>Every Costume Stat +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "achilles_shield",
+    "name": "Achilles' Shield",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Feather|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Hellas]], INTEL gained +4%<br>In [[Hellas]], DMG +4%<br>Every Costume Stat +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "hector_s_spear",
+    "name": "Hector's Spear",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Macedonian Spear|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Bharata]], DMG +4%<br>In [[Bharata]], INTEL gained +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "antelope_horn_shield",
+    "name": "Antelope Horn Shield",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Rosary|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Bharata]], DMG +4%<br>In [[Bharata]], INTEL gained +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "mughal_scimitar",
+    "name": "Mughal Scimitar",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Kukri|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": "rift]], intel gained +4%",
+    "effect_raw": "In the [[Time Rift",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "spacetime_echo",
+    "name": "Spacetime Echo",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Rift]], DMG +4%<br>In the [[Time Rift",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "rift]], snail rush +60",
+    "effect_raw": "In the [[Time Rift",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "time_flute",
+    "name": "Time Flute",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Rift]], Snail ATK +60<br>In the [[Time Rift",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Parsia]], ATK +60<br>In [[Parsia]], DEF +60",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "feline_shield",
+    "name": "Feline Shield",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Parsia]] INTEL",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Parsia]], DEF +60",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "sun_mirror_armor",
+    "name": "Sun Mirror Armor",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Parsia]] INTEL",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In [[Parsia]], ATK +60",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "parsian_composite_bow",
+    "name": "Parsian Composite Bow",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of [[Parsia]] INTEL",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Parsia]], DMG +4%<br>In [[Parsia]], INTEL +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "assassin_s_gauntlet",
+    "name": "Assassin's Gauntlet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Parsian Carpet|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Parsia]], DMG +4%<br>In [[Parsia]], INTEL +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "royal_wootz_blade",
+    "name": "Royal Wootz Blade",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{RewardIconWithText|Shamshir|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In any Realm, 2x Time Chest Drops +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "teslla",
+    "name": "Teslla",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Lottery Bead Purple|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": "koryeon commissioner]]",
+    "effect_raw": "In [[Koryeo]], Snail ATK +96<br>In [[Koryeo]], Snail RUSH +96",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "virgo_tech",
+    "name": "Virgo Tech",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward for defeating [[Mailbox#Koryeon Commissioner",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Koryeo]], DMG +8%<br>In [[Koryeo]], INTEL gained +8%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "jung_geun_s_gun",
+    "name": "Jung-geun's Gun",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Gas Mask|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Yamato]], Snail ATK +96<br>In [[Yamato]], Snail DEF +96",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "genji_armor",
+    "name": "Genji Armor",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Genji Gloves|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": "loyal retainers]]",
+    "effect_raw": "In [[Cathay]], Snail ATK +96<br>In [[Cathay]], Snail RUSH +96",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "conqueror_spear",
+    "name": "Conqueror Spear",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward for defeating [[Mailbox#Loyal Retainers",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Murika]], Snail ATK +96<br>In [[Murika]], Snail DEF +96",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "indv_power_armor",
+    "name": "Indv. Power Armor",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Holograhic Tactical Glasses|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Murika]], DMG +8%<br>In [[Murika]], INTEL gained +8%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "indv_high_explosive_rifle",
+    "name": "Indv. High-explosive Rifle",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|M4 Carbine|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Britland]], Snail ATK +96<br>In [[Britland]], Snail RUSH +96",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "windsor_s_cape",
+    "name": "Windsor's cape",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Anchor|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Kemet]], Snail ATK +120<br>Snail RUSH +120",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "horse_helmet",
+    "name": "Horse Helmet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Arabic Dagger|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Hellas]], Snail ATK +120<br>Snail DEF +120",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "eternal_empire_staff",
+    "name": "Eternal Empire Staff",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Caeser's Laurel|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Hellas]], INTEL gained +8%<br>In [[Hellas]], DMG +8%<br>Every Costume Stat +8%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "stardust_arrow",
+    "name": "Stardust Arrow",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Hector's Spear|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Bharata]], Snail ATK +120<br>Snail DEF +120",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "indra_s_crown",
+    "name": "Indra's Crown",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Exchange {{retext|Rosary|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Bharata]], INTEL gained +8%<br>In [[Bharata]], DMG +8%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "ashoka_s_sword",
+    "name": "Ashoka's Sword",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Mughal Scimitar|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "canonical_promotion": false,
+    "color_candidate": "rift]], intel gained +8%",
+    "effect_raw": "In the [[Time Rift",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "eternal_return",
+    "name": "Eternal Return",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Rift]], DMG +8%<br>In the [[Time Rift",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": "rift]], snail rush +120",
+    "effect_raw": "In the [[Time Rift",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "millennium_ring",
+    "name": "Millennium Ring",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Rift]], Snail ATK +120<br>In the [[Time Rift",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Parsia]], ATK +120<br>In [[Parsia]], DEF +120",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "arrow_of_arash",
+    "name": "Arrow of Arash",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{RewardIconWithText|Parsian Composite Bow|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 120,
+      "hp": 1200,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": "museum shop]]",
+    "effect_raw": "Enemies in explorations drop +16 W-tads<br>(Only when you are really lucky!)<br>Tadpoles Gained: 100,000",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "curator_s_helmet",
+    "name": "Curator's Helmet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "50k Museum Medals in [[Museum",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 200
+    },
+    "canonical_promotion": false,
+    "color_candidate": "orange",
+    "effect_raw": "When you enter a new area, gain +80 INTEL",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "gear_ring",
+    "name": "Gear Ring",
+    "rarity_candidate": "legendary",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Divine Order Chest (0.2% chance)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Koryeo]], Snail ATK +120<br>In [[Koryeo]], Snail RUSH +120<br>In [[Koryeo]], Snail DMG +12%<br>In [[Koryeo]], INTEL gained +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "warmonger_s_gun",
+    "name": "Warmonger's Gun",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Virgo Tech|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Cathay]], Snail ATK +120<br>In [[Cathay]], Snail RUSH +120<br>In [[Cathay]], DMG +12%<br>In [[Cathay]], INTEL gained +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "sky_piercer",
+    "name": "Sky Piercer",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Conqueror Spear|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Britland]], Snail ATK +150<br>In [[Britland]], Snail RUSH +150<br>In [[Britland]], DMG +12%<br>In [[Britland]], INTEL gained +12%<br>In [[Britland]], fleet cannon DMG +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "crown_of_eternal_daylight",
+    "name": "Crown of Eternal Daylight",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Lion's Crown|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Kemet]], Snail ATK +150<br>In [[Kemet]], Snail RUSH +150<br>In [[Kemet]], Snail DMG +12%<br>In [[Kemet]], INTEL gained +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "lion_king_s_sword",
+    "name": "Lion King's Sword",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Damascus Knife|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Hellas]], Snail ATK +120<br>In [[Hellas]], Snail DEF +120<br>In [[Hellas]], DMG +12%<br>In [[Hellas]], INTEL gained +12%<br>Every Costume Stat +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "athena_s_spear",
+    "name": "Athena's Spear",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Stardust Arrow|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": "rift]], snail rush +150<br>in the [[time rift",
+    "effect_raw": "In the [[Time Rift",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "spacetime_exile",
+    "name": "Spacetime Exile",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Rift]], Snail ATK +150<br>In the [[Time Rift",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In [[Parsia]], ATK +150<br>In [[Parsia]], RUSH +150<br>In [[Parsia]], DMG +12%<br>in [[Parsia]], INTEL +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "mithraic_bow_and_spear",
+    "name": "Mithraic Bow & Spear",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Jade Spear|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 180,
+      "hp": 1800,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Enemies in exploration drop +120 B-tads<br>Tadpoles Gained: 3,200,000",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "overlord_s_hook",
+    "name": "Overlord's Hook",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Pirate|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 180,
+      "hp": 1800,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Enemies in exploration drop +24 W-tads<br>(Only when you are really lucky!)<br>Tadpoles Gained: 110,000",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "the_great_collector",
+    "name": "The Great Collector",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Curator's Helm|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 600,
+      "rush": 300
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Travel SPD +9.6%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "tremendous_support",
+    "name": "Tremendous Support",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Iron Track|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 1800,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In any Realm, 2x Demon God Cell Drops +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "deepsea_helmet",
+    "name": "Deepsea Helmet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Diver|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 200,
+      "def": 200,
+      "hp": 1000,
+      "rush": 200
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In explorations, Snail HP +2000<br>In explorations, Snail ATK +200<br>In explorations, Snail DEF +200<br>In explorations, Snail RUSH +200<br>In explorations, INTEL gained +20%<br>In explorations, DMG +20%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "time_wanderer",
+    "name": "Time Wanderer",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{RewardIconWithText|Spacetime Exile|red",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 5,
+      "def": 5,
+      "hp": 150,
+      "rush": 15
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "In Angel Form, Regen 160 HP each round",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "lotus_platform",
+    "name": "Lotus Platform",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 15,
+      "def": 5,
+      "hp": 50,
+      "rush": 15
+    },
+    "canonical_promotion": false,
+    "color_candidate": "green",
+    "effect_raw": "In Mutant: Crit DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "leather_chest_armor",
+    "name": "Leather Chest Armor",
+    "rarity_candidate": "uncommon",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Divine Chaos (1.6%)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 10,
+      "hp": 300,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "In Zombie Form: Zombie Cells +2%<br>Evolution Chests +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "undead_staff",
+    "name": "Undead Staff",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Tier 3 Zombie Research",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 10,
+      "hp": 300,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "In Zombie: Ingore DEF +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "the_buried",
+    "name": "The Buried",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Divine Chaos(0.8%)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 30,
+      "hp": 100,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "In Demon Form: Demon Cells +2%<br>Soul Chests +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "demon_scythe",
+    "name": "Demon Scythe",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Tier 3 Demon Research",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 10,
+      "hp": 300,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Angel Form, Regen 320 HP each round",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "lotus_platform_iii",
+    "name": "Lotus Platform III",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Lotus Platform|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 10,
+      "hp": 300,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "In Angel Form: Angel Cells +2%<br>Fungus Chests +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "prayer_staff",
+    "name": "Prayer Staff",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Tier 3 Angel Research",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 10,
+      "hp": 100,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "In Mutant form: Mutant Cells +2%<br>Time Chests +2% in exploration",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "mind_control_dagger",
+    "name": "Mind Control Dagger",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Tier 3 Mutant Research",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 30,
+      "hp": 100,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "In Mecha Form: Mecha Cells +2%<br>Tool Chests +2% in explorations",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "gauss_c14",
+    "name": "Gauss C14",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Tier 3 Mecha Research",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 30,
+      "hp": 100,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "In Mecha: DMG Reduction +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "mark_ii",
+    "name": "Mark II",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Lottery (0.71%)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 10,
+      "hp": 100,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "In Dragon Form: Gain +2% Cells<br>Gain 2% Dragon Chests in explorations",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "dragon_fang_dagger",
+    "name": "Dragon Fang Dagger",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Tier 3 Dragon Research Reward",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Angel Form, Regen 640 HP each round",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "lotus_platform_vi",
+    "name": "Lotus Platform VI",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Lotus Platform III|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": "15th dragon descent]].",
+    "effect_raw": "In Dragon: Fire DMG +240",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "crimson_dragon_claw",
+    "name": "Crimson Dragon Claw",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward upon [[Altar#Divine_Dragon",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 120,
+      "def": 120,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": "orange",
+    "effect_raw": "In Demon: Crit Rate +8%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "azazel_s_curse",
+    "name": "Azazel's Curse",
+    "rarity_candidate": "legendary",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Lottery (1.56%)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 1200,
+      "rush": 120
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Angel Form, Regen 1,280 HP each round",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "lotus_platform_ix",
+    "name": "Lotus Platform IX",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Lotus Platform VI|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "canonical_promotion": false,
+    "color_candidate": "demonic dragon]]",
+    "effect_raw": "In Dragon Form, Ignore Fire RES +120<br>In Dragon Form, Ignore Earth RES +120",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "broken_dragon_horn",
+    "name": "Broken Dragon Horn",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Defeat [[Altar Fights#Demon Lords",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "canonical_promotion": false,
+    "color_candidate": "demonic dad of excalibra]]",
+    "effect_raw": "In Dragon Form, Ignore Water RES +120<br>In Dragon Form, Ignore Wind RES +120",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "broken_caladbolg",
+    "name": "Broken Caladbolg",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Defeat [[Altar Fights#Demon Lords",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ba'al]]",
+    "effect_raw": "In Dragon Form, Ignore DEF +8%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "fire_of_rage",
+    "name": "Fire of Rage",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Defeat [[Altar Fights#Demon Lords",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 1800,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Zombie Form, Ignore DEF +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "soul_walking",
+    "name": "Soul Walking",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|The Buried|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 180,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Demon: Crit Rate +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "azazel_s_pact",
+    "name": "Azazel's Pact",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Azazel's Curse|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 180,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Demon: Demon Cells +12%<br>Soul Chests +12% in exploration",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "soul_reaper",
+    "name": "Soul Reaper",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Demon Scythe|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 1800,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Angel Form, Regen 1,920 HP each round",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "lotus_platform_xii",
+    "name": "Lotus Platform XII",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Lotus Platform IX|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Mutant form: Mutant Cells +12%<br>Time Chests +12% in exploration",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "subspace_blade",
+    "name": "Subspace Blade",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Mind Control Dagger|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 180,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Mecha: DMG Reduction +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "mark_iv",
+    "name": "Mark IV",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Mark II|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 180,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Mecha Form: Mecha Cells +12%<br>Tool Chests +12% in explorations",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "gauss_m72",
+    "name": "Gauss M72",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Gauss C14|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Dragon: Fire DMG +720",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "claw_of_destruction",
+    "name": "Claw of Destruction",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Crimson Dragon Claw|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Dragon Form: Gain +12% Cells<br>Gain 12% Dragon Chests in explorations",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "fang_of_tiamat",
+    "name": "Fang of Tiamat",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Dragon Fang Dagger|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Dragon Form, Ignore Fire RES +180<br>In Dragon Form, Ignore Earth RES +180",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "dragon_horn",
+    "name": "Dragon Horn",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Dragon Horn|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Dragon Form, Ignore Water RES +180<br>In Dragon Form, Ignore Wind RES +180",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "caladbolg",
+    "name": "Caladbolg",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Broken Caladbolg|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 180,
+      "def": 60,
+      "hp": 600,
+      "rush": 180
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Dragon form, Ignore DEF +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "exploding_rage",
+    "name": "Exploding Rage",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Fire of Rage|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 100,
+      "hp": 1000,
+      "rush": 300
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Dragon Form, Ignore DEF +12%<br>In Dragon Form, Ignore Fire RES +180<br>In Dragon Form, Ignore Water RES +180<br>In Dragon Form, Ignore Earth RES +180<br>In Dragon Form, Ignore Wind RES +180",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "excaladbolg",
+    "name": "Excaladbolg",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Exploding Rage|red",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 25,
+      "def": 5,
+      "hp": 50,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "hitman no.1]]",
+    "effect_raw": "In any Realm, DMG +1.5%<br>In any Realm, DMG +1% in Round 1",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "strength_sword",
+    "name": "Strength Sword",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Intercept [[Hitmen",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 25,
+      "def": 5,
+      "hp": 50,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "relics and gear]]",
+    "effect_raw": "In Snail Fight: DMG +1.5%, 1st round DMG +1%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "hannibel_s_scalpel",
+    "name": "Hannibel's Scalpel",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Dragon Wish Reward<br>[[Altar#Discount_Dragon",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 25,
+      "def": 5,
+      "hp": 50,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "relics and gear]]",
+    "effect_raw": "In Snail Fight: DMG +1.5%, 1st round DMG +1%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "jack_s_gloves",
+    "name": "Jack's Gloves",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Dragon Wish Reward<br>[[Altar#Discount_Dragon",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 25,
+      "def": 5,
+      "hp": 50,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "Crit DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "broken_sagesinker",
+    "name": "Broken Sagesinker",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Fully defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 25,
+      "def": 5,
+      "hp": 50,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "Crit DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "broken_sageender",
+    "name": "Broken Sageender",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Fully defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 25,
+      "def": 5,
+      "hp": 50,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "Crit DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "broken_sagemurderer",
+    "name": "Broken Sagemurderer",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Fully defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 25,
+      "def": 5,
+      "hp": 50,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "Crit DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "broken_sagekiller",
+    "name": "Broken Sagekiller",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Fully defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 25,
+      "def": 5,
+      "hp": 50,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "Lifesteal Effect +10%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "shattered_windfire_wheel",
+    "name": "Shattered Windfire Wheel",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Fully defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 25,
+      "def": 5,
+      "hp": 50,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "Lifesteal Effect +10%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "shattered_sky_ribbon",
+    "name": "Shattered Sky Ribbon",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Fully defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 25,
+      "def": 5,
+      "hp": 50,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "Lifesteal Effect +10%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "shattered_fire_spear",
+    "name": "Shattered Fire Spear",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Fully defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 25,
+      "def": 5,
+      "hp": 50,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "Lifesteal Effect +10%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "shattered_palm_leaf_fan",
+    "name": "Shattered Palm-Leaf Fan",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Fully defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 5,
+      "def": 25,
+      "hp": 50,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "green",
+    "effect_raw": "If you spot a weakness, Snail DEF +30",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "dwarf_mask",
+    "name": "Dwarf Mask",
+    "rarity_candidate": "uncommon",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Lottery (0.75%)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 5,
+      "def": 5,
+      "hp": 250,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "green",
+    "effect_raw": "If you spot a weakness, Snail HP +300",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "lizard_belt",
+    "name": "Lizard Belt",
+    "rarity_candidate": "uncommon",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Divine Chaos (1.6%)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 5,
+      "def": 5,
+      "hp": 50,
+      "rush": 25
+    },
+    "canonical_promotion": false,
+    "color_candidate": "green",
+    "effect_raw": "If you spot a weakness, Snail RUSH +30",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "slippers",
+    "name": "Slippers",
+    "rarity_candidate": "uncommon",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Divine Neutral (1.6%)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 25,
+      "def": 5,
+      "hp": 50,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "green",
+    "effect_raw": "If you spot a weakness, Snail ATK +30",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "elegant_gloves",
+    "name": "Elegant Gloves",
+    "rarity_candidate": "uncommon",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Divine Order (1.6%)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 10,
+      "hp": 100,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "green",
+    "effect_raw": "RUSH DMG +60",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "fresnal_lens",
+    "name": "Fresnal Lens",
+    "rarity_candidate": "uncommon",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "[[Vending Machine]] Purchase",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 10,
+      "hp": 100,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "green",
+    "effect_raw": "RUSH DMG +60",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "crystal_lens",
+    "name": "Crystal Lens",
+    "rarity_candidate": "uncommon",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "[[Vending Machine]] Purchase",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 50,
+      "def": 10,
+      "hp": 100,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "hitman no.5]]",
+    "effect_raw": "In Hitman Challenge: DMG +3%, 1st round DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "sakabato_blade",
+    "name": "Sakabato Blade",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Intercept [[Hitmen",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 50,
+      "def": 10,
+      "hp": 100,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "Fire, Water, Earth, Wind DMG +30",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "walnut_wand",
+    "name": "Walnut Wand",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Old Wizard victory reward",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 50,
+      "def": 10,
+      "hp": 100,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "Ignore enemy DEF +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "nun_chuck",
+    "name": "Nun-chuck",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Defeat Sewer Turtle #4",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 50,
+      "def": 10,
+      "hp": 100,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "Fire DMG +60<br>Ignore Fire RES +30",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "pulse_rifle",
+    "name": "Pulse Rifle",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "defeating UFO(40 incense shots)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 50,
+      "def": 10,
+      "hp": 100,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Snail Arena, DMG +3%. In Snail Arena, Round 1 DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "freddy_s_claw",
+    "name": "Freddy's Claw",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Jack's glove|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 50,
+      "def": 10,
+      "hp": 100,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "relics and gear]]",
+    "effect_raw": "In Snail Arena, DMG +3%. In Snail Arena, Round 1 DMG +2%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "jason_s_mask",
+    "name": "Jason's Mask",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Dragon Wish Reward<br>[[Altar#Discount_Dragon",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 50,
+      "def": 10,
+      "hp": 100,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "Crit DMG +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "broken_godsmiter",
+    "name": "Broken Godsmiter",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 50,
+      "def": 10,
+      "hp": 100,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Lifesteal Effect +20%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "broken_palm_leaf_fan",
+    "name": "Broken Palm-Leaf Fan",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Shattered Palm-Leaf Fan|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 50,
+      "def": 10,
+      "hp": 100,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "Lifesteal Effect +20%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "broken_fiend_mirror",
+    "name": "Broken Fiend Mirror",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "RUSH DMG +120",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "multifunction_goggles",
+    "name": "Multifunction Goggles",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Crystal Lens|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "blue",
+    "effect_raw": "RUSH DMG +120",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "infrared_lens",
+    "name": "Infrared Lens",
+    "rarity_candidate": "rare",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "[[Vending Machine]]",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "Crit Rate +4%<br>Crit DMG +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "spring_longsword",
+    "name": "Spring Longsword",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Lottery (0.52%)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "Each round, Snail RUSH +16<br>Snail ATK +16",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "hammer_of_frenzy",
+    "name": "Hammer of Frenzy",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Divine Neutral (0.4%)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Snail Arena, DMG +6%<br>In Snail Arena, Round 1 DMG +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "texan_chainsaw",
+    "name": "Texan Chainsaw",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Freddy's Claw|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "relics and gear]]",
+    "effect_raw": "In Snail Arena, DMG +6%<br>In Snail Arena, Round 1 DMG +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "cayako_s_charm",
+    "name": "Cayako's Charm",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Divine Dragon Wish<br>[[Altar#Discount_Dragon",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 100,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Crit DMG +4%<br>Lifesteal Effect +20%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "dim_godsmiter",
+    "name": "Dim Godsmiter",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Broken Sagekiller|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 100,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "Crit DMG +4%<br>Lifesteal Effect +20%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "dim_ironcutter",
+    "name": "Dim Ironcutter",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Fully defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 100,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "Crit DMG +4%<br>Lifesteal Effect +20%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "dim_trident",
+    "name": "Dim Trident",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Fully defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 100,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "ratman]]",
+    "effect_raw": "Crit DMG +4%<br>Lifesteal Effect +20%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "dim_rope_of_truth",
+    "name": "Dim Rope of Truth",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Fully defeat [[Mailbox#Ratman",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "RUSH DMG +120",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "scout_goggles",
+    "name": "Scout Goggles",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Multifunction Goggles|blue",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "RUSH DMG +120",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "holographic_lens",
+    "name": "Holographic Lens",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "[[Vending Machine]] Purchase",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 100,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "Water DMG +120<br>Ignore Enemy Water RES +60",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "leviathan_gloves",
+    "name": "Leviathan Gloves",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Divine Chaos (0.4%)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 100,
+      "def": 20,
+      "hp": 200,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "In Gene Simulations, DMG +6%<br>Round 1 DMG +4%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "imitation_vision",
+    "name": "Imitation Vision",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Gene Training Value Pack II ($14.99)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 100,
+      "def": 20,
+      "hp": 200,
+      "rush": 100
+    },
+    "canonical_promotion": false,
+    "color_candidate": "purple",
+    "effect_raw": "For Round 1, CRIT DMG +4%<br>In any Realm DMG +6% in Round 1",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "peacock_quill",
+    "name": "Peacock Quill",
+    "rarity_candidate": "epic",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of unlocking Peackock Throne",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 200,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": "unique events]]",
+    "effect_raw": "ATK +160",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "excalibur",
+    "name": "Excalibur",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of defeating Excalibra<br>[[Altar#Discount_Dragon",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 200,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": "orange",
+    "effect_raw": "In Domain Duels (1v1), DMG +12%.<br>In Domain Duels (1v1), DMG +8% for Round 1",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "anti_strength_saber",
+    "name": "Anti-Strength Saber",
+    "rarity_candidate": "legendary",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Reward of defeating Death Satellite",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 200,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Snail Arena, DMG +12%<br>In Snail Arena, Round 1 DMG +8%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "butcher_s_hook",
+    "name": "Butcher's Hook",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Texan Chainsaw|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 200,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Crit DMG +8%<br>Lifesteal Effect +40%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "trident",
+    "name": "Trident",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Dim Godsmiter|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "RUSH DMG +480",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "battle_detector",
+    "name": "Battle Detector",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Scout Goggles|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 40,
+      "hp": 400,
+      "rush": 200
+    },
+    "canonical_promotion": false,
+    "color_candidate": "orange",
+    "effect_raw": "Wind DMG +240<br>Ignore Enemey Wind RES +120",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "electric_hammer",
+    "name": "Electric Hammer",
+    "rarity_candidate": "legendary",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Lottery 1.56%",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 200,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": "orange",
+    "effect_raw": "Earth DMG +240<br>Ignore Enemy Earth RES +120",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "fossil",
+    "name": "Fossil",
+    "rarity_candidate": "legendary",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Divine Chaos 0.2%",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 200,
+      "def": 40,
+      "hp": 400,
+      "rush": 200
+    },
+    "canonical_promotion": false,
+    "color_candidate": "orange",
+    "effect_raw": "Poison DMG +240<br>Crit Rate +8%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "drazgul_fang",
+    "name": "Drazgul Fang",
+    "rarity_candidate": "legendary",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Gear Value Pack III(100$!!!)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 200,
+      "def": 200,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": "orange",
+    "effect_raw": "All Element DMG +48<br>All RES +24",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "maze_key",
+    "name": "Maze Key",
+    "rarity_candidate": "legendary",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Supreme Relic #8",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 200,
+      "def": 40,
+      "hp": 400,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": "orange",
+    "effect_raw": "HIT +8%<br>Ignore All RES +24",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "b_tadpole_sword",
+    "name": "B-Tadpole Sword",
+    "rarity_candidate": "legendary",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Home Value Pack lv50 pond",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Ignore enemy DEF +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "norris_chuck",
+    "name": "Norris-chuck",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Nun-chuck|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "ATK +240",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "excalibur_ex",
+    "name": "Excalibur EX",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Excalibur EX|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Domain Duels (1v1), DMG +18%<br>In Domain Duels (1v1), DMG +12% for Round 1",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "dark_strength",
+    "name": "Dark Strength",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Anti-Strength Saber|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Fire DMG +360<br>Ignore Fire RES +180",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "district_9",
+    "name": "District 9",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Pulse Rifle|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 600,
+      "rush": 300
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Each round, Snail RUSH +48<br>Snail ATK +48",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "power_spinach",
+    "name": "Power Spinach",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Hammer of Frenzy|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Snail Arena, DMG +18%<br>In Snail Arena, Round 1 DMG +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "blair_s_curse",
+    "name": "Blair's Curse",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Butcher's Hook|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Crit DMG +12%<br>Lifesteal Effect +60%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "poseidon_s_trident",
+    "name": "Poseidon's Trident",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Trident|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 300,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "If you spot a weakness, Snail DEF +360",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "ancestral_legacy",
+    "name": "Ancestral Legacy",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Dwarf Mask|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 3000,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "If you spot a weakness, Snail HP +3600",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "gilded_belt",
+    "name": "Gilded Belt",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Lizard Belt|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 600,
+      "rush": 300
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "If you spot a weakness, Snail RUSH +360",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "empress_slippers",
+    "name": "Empress' Slippers",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Slippers|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "If you spot a weakness, Snail ATK +360",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "empress_gloves",
+    "name": "Empress Gloves",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Elegant Gloves|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 120,
+      "def": 120,
+      "hp": 1200,
+      "rush": 120
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Extra RUSH DMG +720",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "know_it_all_device",
+    "name": "Know-It-All Device",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Battle Detector|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Water DMG +360<br>Ignore Water RES +180",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "hydra_s_gloves",
+    "name": "Hydra's Gloves",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Leviathan Gloves|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 60,
+      "hp": 600,
+      "rush": 300
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Wind DMG +360<br>Ignore Enemy Wind RES +180",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "million_volts",
+    "name": "Million Volts",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Electric Hammer|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Earth DMG +360<br>Ignore Earth RES +180",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "cretaceous_weapon",
+    "name": "Cretaceous Weapon",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Fossil|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 300
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "Poison DMG +360<br>Crit Rate +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "golden_drazgul_fang",
+    "name": "Golden Drazgul Fang",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Drazgul Fang|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 60,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "In Gene Simulations, DMG +18%<br>In Gene Simulations, Round 1 DMG +12%",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "virtual_vision",
+    "name": "Virtual Vision",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Imitation Vision|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 300,
+      "def": 300,
+      "hp": 600,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": "All Element DMG +72<br>All RES +36",
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "incredible_key",
+    "name": "Incredible Key",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Maze Key|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 10,
+      "hp": 100,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "fissure shop]]<br>• lottery machine (1.12% chance)<br>• gear chest (13% chance)",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "flower_crown",
+    "name": "Flower Crown",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• [[Fissure",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 0,
+      "def": 10,
+      "hp": 100,
+      "rush": 0
+    },
+    "canonical_promotion": false,
+    "color_candidate": "fissure shop]]<br>• lottery machine (1.12% chance)<br>• gear chest (13% chance)",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "wooden_ring",
+    "name": "Wooden Ring",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• [[Fissure",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 0,
+      "hp": 0,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "fissure shop]]<br>• lottery machine (1.12% chance)<br>• gear chest (13% chance)",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "iron_ring",
+    "name": "Iron Ring",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• [[Fissure",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 0,
+      "hp": 0,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "fissure shop]]<br>• lottery machine (1.12% chance)<br>• gear chest (13% chance)",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "beast_fang",
+    "name": "Beast Fang",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• [[Fissure",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 5,
+      "def": 15,
+      "hp": 150,
+      "rush": 5
+    },
+    "canonical_promotion": false,
+    "color_candidate": "fissure shop]]<br>• lottery machine (0.75% chance)<br>• gear chest (12% chance)<br>• divine chests (13.5% chance)",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "white_pearl",
+    "name": "White Pearl",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• [[Fissure",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 15,
+      "def": 5,
+      "hp": 50,
+      "rush": 15
+    },
+    "canonical_promotion": false,
+    "color_candidate": "fissure shop]]<br>• lottery machine (0.75% chance)<br>• gear chest (12% chance)<br>• divine chests (13.5% chance)",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "black_pearl",
+    "name": "Black Pearl",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• [[Fissure",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 30,
+      "hp": 300,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "wizard_ring",
+    "name": "Wizard Ring",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• {{retext|White Pearl|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 10,
+      "hp": 100,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "crusader_ring",
+    "name": "Crusader Ring",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• {{retext|Black Pearl|green",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 30,
+      "def": 10,
+      "hp": 100,
+      "rush": 30
+    },
+    "canonical_promotion": false,
+    "color_candidate": "fissure shop]]<br>• lottery machine (0.71% chance)<br>• gear chest (5.6% chance)<br>• divine chests (6.3% chance)",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "ruby_brooch",
+    "name": "Ruby Brooch",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• [[Fissure",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 10,
+      "def": 30,
+      "hp": 300,
+      "rush": 10
+    },
+    "canonical_promotion": false,
+    "color_candidate": "fissure shop]]<br>• lottery machine (0.71% chance)<br>• gear chest (5.6% chance)<br>• divine chests (6.3% chance)",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "sapphire_brooch",
+    "name": "Sapphire Brooch",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• [[Fissure",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 20,
+      "def": 60,
+      "hp": 600,
+      "rush": 20
+    },
+    "canonical_promotion": false,
+    "color_candidate": "fissure shop]]<br>• lottery machine (0.52% chance)<br>• gear chest (2.4% chance)<br>• divine chests (2.7% chance)",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "heaven_amulet",
+    "name": "Heaven Amulet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• [[Fissure",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 60,
+      "def": 20,
+      "hp": 200,
+      "rush": 60
+    },
+    "canonical_promotion": false,
+    "color_candidate": "fissure shop]]<br>• lottery machine (0.52% chance)<br>• gear chest (2.4% chance)<br>• divine chests (2.7% chance)",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "abyss_amulet",
+    "name": "Abyss Amulet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• [[Fissure",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 40,
+      "def": 120,
+      "hp": 1200,
+      "rush": 40
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "heaven_wings",
+    "name": "Heaven Wings",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "•{{retext|Seething Bracelet|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 120,
+      "def": 40,
+      "hp": 400,
+      "rush": 120
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "abyss_wings",
+    "name": "Abyss Wings",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• {{retext|Seething Bracelet|purple",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": "orange",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "demon_god_crystal",
+    "name": "Demon God Crystal",
+    "rarity_candidate": "legendary",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Currently only available from final Lucky Clover Round",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": "orange",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "eye_of_horus",
+    "name": "Eye of Horus",
+    "rarity_candidate": "legendary",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "• Lottery Machine (1.56% chance)<br>• Gear Chest (1.6% chance)<br>• Divine Chests (1.8% chance)",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 80,
+      "def": 80,
+      "hp": 800,
+      "rush": 80
+    },
+    "canonical_promotion": false,
+    "color_candidate": "orange",
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "blasphemy_eye",
+    "name": "Blasphemy Eye",
+    "rarity_candidate": "legendary",
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "Random Events, Sunday Stars 59.99$, and other misc Gear Bags",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 120,
+      "def": 120,
+      "hp": 1200,
+      "rush": 120
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "amulet_of_will",
+    "name": "Amulet of Will",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Crystal of Will|orange",
+    "source_confidence": 0.85
+  },
+  {
+    "base_stats": {
+      "atk": 120,
+      "def": 120,
+      "hp": 1200,
+      "rush": 120
+    },
+    "canonical_promotion": false,
+    "color_candidate": null,
+    "effect_raw": null,
+    "errors": [
+      "missing_required:slot",
+      "missing_or_uninferred:slot"
+    ],
+    "id": "demon_god_amulet",
+    "name": "Demon God Amulet",
+    "rarity_candidate": null,
+    "readiness": "blocked_missing_required",
+    "slot_candidate": null,
+    "source": "{{retext|Demon God Crystal|orange",
+    "source_confidence": 0.85
+  }
+]
