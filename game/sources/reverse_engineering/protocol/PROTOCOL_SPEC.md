@@ -1,0 +1,971 @@
+# Super Snail Protocol Specification
+
+Extracted from list.luac (961 protocol messages)
+
+## login Namespace
+
+- `login@msg relogin`
+- `login@msg#login:notify;ok`
+- `login@msg,me|updated`
+- `login@msg-start{game`
+- `login@msg;login`
+
+## misc Namespace
+
+- `misc@msg account+func;record(result`
+- `misc@msg active.slot`
+- `misc@msg active{rocket:robot`
+- `misc@msg activity%grid_map*action`
+- `misc@msg activity-lottery=special+event`
+- `misc@msg ads-bonus`
+- `misc@msg apostle tower:action`
+- `misc@msg arena{challenge{fail`
+- `misc@msg assassin%action{done`
+- `misc@msg assassin}level}up`
+- `misc@msg auction=ret`
+- `misc@msg batch;iap}bonus`
+- `misc@msg bbs praise`
+- `misc@msg bbs_recommend`
+- `misc@msg bonus+pool*limit`
+- `misc@msg branch(country action`
+- `misc@msg bulk+buy*dynamic goods`
+- `misc@msg car,build`
+- `misc@msg car,build:unlock`
+- `misc@msg car}piece)compose`
+- `misc@msg celebration}action`
+- `misc@msg charge:gift*action`
+- `misc@msg chat:msg-limited`
+- `misc@msg chef=action`
+- `misc@msg chess)combat.action`
+- `misc@msg click#group_newspaper`
+- `misc@msg coin:active`
+- `misc@msg collection skill+reset`
+- `misc@msg collection;learn=skill`
+- `misc@msg combat+action(end`
+- `misc@msg common*shop,buy`
+- `misc@msg common}shop=batch*buy`
+- `misc@msg compete for speed_action`
+- `misc@msg delete+equipment`
+- `misc@msg delete;event`
+- `misc@msg dog{equip+success`
+- `misc@msg dress combat=end=result`
+- `misc@msg dung+ball,action`
+- `misc@msg eight)diagram=unlock`
+- `misc@msg eliminating.combat scenario`
+- `misc@msg empire building#army_resource`
+- `misc@msg empire{fix}pos`
+- `misc@msg empire}enter_map`
+- `misc@msg equip exchange`
+- `misc@msg equipment.drop`
+- `misc@msg exchange%group war|money`
+- `misc@msg friendly:match|challenge`
+- `misc@msg game:top(data`
+- `misc@msg gene=variation(action`
+- `misc@msg get*first kill boss,redpack list`
+- `misc@msg get,star map}count`
+- `misc@msg ghost|ship,change resource`
+- `misc@msg god:break off`
+- `misc@msg god;second%bonus`
+- `misc@msg goddess:learn{skill`
+- `misc@msg group#war;door}log`
+- `misc@msg group(join;reject`
+- `misc@msg group*boss combat`
+- `misc@msg group,war siege:action`
+- `misc@msg group-join`
+- `misc@msg group-war;cmd=action`
+- `misc@msg group:mail=send(result`
+- `misc@msg group_war%fetch*all.bonus`
+- `misc@msg group{gift#fetch;bonus`
+- `misc@msg group|clear}request`
+- `misc@msg handbook`
+- `misc@msg home+manual`
+- `misc@msg home=skin;data`
+- `misc@msg item`
+- `misc@msg item convert}bonus`
+- `misc@msg lottery container-key egg`
+- `misc@msg lottery)eucal:min=history`
+- `misc@msg maat#skill+up`
+- `misc@msg meme_bonus`
+- `misc@msg misc:task|bonus=result`
+- `misc@msg mistress list`
+- `misc@msg museum collect#token`
+- `misc@msg national|holiday(action`
+- `misc@msg new+god space+action`
+- `misc@msg new;arena}action`
+- `misc@msg newbie{task add=log`
+- `misc@msg newer(task-bonus`
+- `misc@msg notify buff)data`
+- `misc@msg notify#mail,delete`
+- `misc@msg notify}group=war-events`
+- `misc@msg npc`
+- `misc@msg one*handbook`
+- `misc@msg opening-bonus`
+- `misc@msg organ_divide`
+- `misc@msg partner`
+- `misc@msg partner light up`
+- `misc@msg partners`
+- `misc@msg persia(special-action`
+- `misc@msg pet skin:action`
+- `misc@msg pet totem%action`
+- `misc@msg pet#patrol:point,bonus`
+- `misc@msg pet)lottery eucal|top`
+- `misc@msg pet)lottery=eucal,min)history`
+- `misc@msg pet)week(lottery:eucal}top`
+- `misc@msg pet,explore}event`
+- `misc@msg pet|patrol`
+- `misc@msg pick.up:egg`
+- `misc@msg portraits`
+- `misc@msg praise query`
+- `misc@msg puzzle-draw(action`
+- `misc@msg pyramid.active`
+- `misc@msg race action`
+- `misc@msg rainbow|shop-action`
+- `misc@msg receive{all(boss bonus`
+- `misc@msg refresh+pick(data`
+- `misc@msg research:end`
+- `misc@msg return}exchange,bonus`
+- `misc@msg rocket|repair`
+- `misc@msg sacrifice}devil%unseal`
+- `misc@msg secret mission.complete`
+- `misc@msg shell;level%up`
+- `misc@msg shuangdan2022 jp action`
+- `misc@msg shuangdan2022(action`
+- `misc@msg son%equip`
+- `misc@msg son)build`
+- `misc@msg son)tower:rocket.soar`
+- `misc@msg son:tower;speed(up#cd`
+- `misc@msg son_skin#compose`
+- `misc@msg spirit{vinia=action`
+- `misc@msg status}condition`
+- `misc@msg sutra#exchange+item`
+- `misc@msg task%complete`
+- `misc@msg top|cover`
+- `misc@msg top|rank`
+- `misc@msg tour.god)eggs+bonus`
+- `misc@msg tour=event`
+- `misc@msg tourist skill+level{up`
+- `misc@msg tower;enchase`
+- `misc@msg treasure%lottery}bonus`
+- `misc@msg treasure%trove+combat{bonus%clue`
+- `misc@msg treasure_map,action`
+- `misc@msg treasure{box#bonus`
+- `misc@msg treasure{trove|ask{combat`
+- `misc@msg treasure|box*unequip`
+- `misc@msg unlock)lvbu}riding`
+- `misc@msg usa,hero*active`
+- `misc@msg user.brief`
+- `misc@msg user=brief{extra;data`
+- `misc@msg ver*up=bonus`
+- `misc@msg week lottery)eucal+me`
+- `misc@msg week;task%action`
+- `misc@msg wish_eucal)min(top`
+- `misc@msg#activity+role|reset`
+- `misc@msg#activity|turnplate2{action`
+- `misc@msg#bbs top;list`
+- `misc@msg#boss=combat(result`
+- `misc@msg#buddhist{equipment`
+- `misc@msg#car build unlock#finish`
+- `misc@msg#client*resource}replace`
+- `misc@msg#combat_start`
+- `misc@msg#compass enchase`
+- `misc@msg#dress*action(result`
+- `misc@msg#empire:building.occupy`
+- `misc@msg#fetch{history=task)bonus`
+- `misc@msg#game.monitor;result`
+- `misc@msg#geocentric towers`
+- `misc@msg#get%any target info`
+- `misc@msg#group appoint`
+- `misc@msg#group create`
+- `misc@msg#group(impeach`
+- `misc@msg#group(war.member_rank`
+- `misc@msg#group.kickout`
+- `misc@msg#mistress+queue`
+- `misc@msg#mistress{appear`
+- `misc@msg#newbie|skip)finished`
+- `misc@msg#nickname{result`
+- `misc@msg#notify%tour speed%change`
+- `misc@msg#partner(six+up`
+- `misc@msg#pet`
+- `misc@msg#race graph+item=open`
+- `misc@msg#race;instance combat`
+- `misc@msg#rocket#st.level_up`
+- `misc@msg#round)lottery_action`
+- `misc@msg#select}tour.destination`
+- `misc@msg#signature`
+- `misc@msg#simple|activitys`
+- `misc@msg#special_visitor`
+- `misc@msg#spirit:lottery*action`
+- `misc@msg#spirit=tower(action`
+- `misc@msg#tour.event(speed=up`
+- `misc@msg%activity)speed;race#action`
+- `misc@msg%anti{addiction_warn`
+- `misc@msg%arena%query;rank.score`
+- `misc@msg%body|organ`
+- `misc@msg%bonus#alert`
+- `misc@msg%ceremony)task_step-action`
+- `misc@msg%chess}combat#scenario`
+- `misc@msg%chomper}action result`
+- `misc@msg%combat{end`
+- `misc@msg%common%shop*refresh`
+- `misc@msg%deficit`
+- `misc@msg%equipment|bonus`
+- `misc@msg%gold digger)action`
+- `misc@msg%group managers`
+- `misc@msg%group search`
+- `misc@msg%group;join(req#by(user`
+- `misc@msg%group=task_fetch+bonus`
+- `misc@msg%home(pet pig#submit,wish:items`
+- `misc@msg%learn,skill`
+- `misc@msg%levelup|group:war=money`
+- `misc@msg%mail#task:ret`
+- `misc@msg%museum_active`
+- `misc@msg%newbie*task step`
+- `misc@msg%newer quick=action`
+- `misc@msg%object.updated`
+- `misc@msg%pilgrimage#event end`
+- `misc@msg%quietly call`
+- `misc@msg%recharge#cashback{action`
+- `misc@msg%resource.pick%all`
+- `misc@msg%rob.defense`
+- `misc@msg%round+draw%action`
+- `misc@msg%round|layer%draw,action`
+- `misc@msg%share bonus`
+- `misc@msg%shrine flee`
+- `misc@msg%shrine.sander`
+- `misc@msg%snail`
+- `misc@msg%son#tower,bonus`
+- `misc@msg%son:clone`
+- `misc@msg%son:tower.core=lottery`
+- `misc@msg%space*beacon;event choose`
+- `misc@msg%spirit;action`
+- `misc@msg%statue resource.pick`
+- `misc@msg%tec,speed;up`
+- `misc@msg%time sand|exchange`
+- `misc@msg%time:machine#refit;action`
+- `misc@msg%tour-bonus`
+- `misc@msg%tour:next:event`
+- `misc@msg%tour_fetch-treasure`
+- `misc@msg%treasure{trove select.item`
+- `misc@msg%user:back_action`
+- `misc@msg%visitor`
+- `misc@msg%week collection compose`
+- `misc@msg%week{task,rank`
+- `misc@msg%wish eucal:min_history`
+- `misc@msg%wish eucal|me`
+- `misc@msg(activity=game room=action`
+- `misc@msg(ads}activity%fetch+bonus`
+- `misc@msg(air)tube.disappear`
+- `misc@msg(athena#action result`
+- `misc@msg(batch%fetch*special+bonus`
+- `misc@msg(bbs=add`
+- `misc@msg(blind{box#history`
+- `misc@msg(body)system_steps`
+- `misc@msg(bonus*treasure-trove-effect`
+- `misc@msg(buy-nickname{count`
+- `misc@msg(car#compose`
+- `misc@msg(change.switch`
+- `misc@msg(chatroom)single%message`
+- `misc@msg(chatroom|revoke_list`
+- `misc@msg(dialog:ok`
+- `misc@msg(divide_group:war,alloy`
+- `misc@msg(factory|unlock`
+- `misc@msg(fellow`
+- `misc@msg(follower}skill)level;up`
+- `misc@msg(gd,stock,action`
+- `misc@msg(group-dissolve`
+- `misc@msg(group.message-query_top`
+- `misc@msg(group.war.group_myrank`
+- `misc@msg(group{war}medal action`
+- `misc@msg(killer:visit=batch`
+- `misc@msg(lottery start`
+- `misc@msg(lottery+eucal}min)top`
+- `misc@msg(menu|item`
+- `misc@msg(museum:propagate;clue`
+- `misc@msg(newbie:next+chapter`
+- `misc@msg(newbie;guide=action`
+- `misc@msg(pet*lottery{bonus`
+- `misc@msg(quest.bonus`
+- `misc@msg(recurring=sign.action`
+- `misc@msg(redpack)bonus=count`
+- `misc@msg(resource+unlock`
+- `misc@msg(resource,refresh`
+- `misc@msg(rocket make}data`
+- `misc@msg(select;race`
+- `misc@msg(shop)info`
+- `misc@msg(skin=gift,action`
+- `misc@msg(son%clone)terminate`
+- `misc@msg(son.tower{video`
+- `misc@msg(son{equip{compose`
+- `misc@msg(stock+investment;action`
+- `misc@msg(title+bonus`
+- `misc@msg(tour,god#intelligence|bonus`
+- `misc@msg(tour=resume`
+- `misc@msg(try:get=coupon`
+- `misc@msg(war*buff*enchase`
+- `misc@msg(war{buff,enchase-preset`
+- `misc@msg(wish{eucal=top`
+- `misc@msg)activity)role`
+- `misc@msg)anniversary2.action`
+- `misc@msg)arena.enchase`
+- `misc@msg)attrib bonus`
+- `misc@msg)bbs%total`
+- `misc@msg)bbs.unopen`
+- `misc@msg)bbs:best*list`
+- `misc@msg)bind%invite:code`
+- `misc@msg)buy%dynamic-goods`
+- `misc@msg)ceremony|devil`
+- `misc@msg)coin.submit`
+- `misc@msg)collection cultivation`
+- `misc@msg)combat.bonus`
+- `misc@msg)day(gift(batch`
+- `misc@msg)exchange group_war:buff`
+- `misc@msg)exhibition{action`
+- `misc@msg)get.group)war+boss#top,data`
+- `misc@msg)get|group-war data`
+- `misc@msg)group,mails`
+- `misc@msg)group,war#data`
+- `misc@msg)group{get request`
+- `misc@msg)home|pet=pig unlock`
+- `misc@msg)lottery pyramid{action`
+- `misc@msg)lottery(eucal)history`
+- `misc@msg)mid*autumn2022 action`
+- `misc@msg)notify=status}updated`
+- `misc@msg)puzzle`
+- `misc@msg)refresh=system.gift`
+- `misc@msg)research;breakthrough`
+- `misc@msg)room activity+create%room`
+- `misc@msg)room:activity.start`
+- `misc@msg)round#combat.end`
+- `misc@msg)scenario{updated`
+- `misc@msg)shang,story-action`
+- `misc@msg)shuangdan2023|action`
+- `misc@msg)simple activity:action`
+- `misc@msg)son(speed up.result`
+- `misc@msg)son+convert`
+- `misc@msg)special(killer`
+- `misc@msg)special|killers`
+- `misc@msg)switch.collection(skill`
+- `misc@msg)switch:combat;preset`
+- `misc@msg)task|refresh+day`
+- `misc@msg)time%travel`
+- `misc@msg)tiny{world{action`
+- `misc@msg)tour}feature level}up`
+- `misc@msg)tribe manual{unlock`
+- `misc@msg)update csv`
+- `misc@msg)uproar)heaven:action`
+- `misc@msg)vehicle`
+- `misc@msg)week|wish)eucal me`
+- `misc@msg*account}brief%data`
+- `misc@msg*active,body`
+- `misc@msg*activity,turnplate1{action`
+- `misc@msg*activity|weapon_action`
+- `misc@msg*activity}cross server}cache`
+- `misc@msg*all athena`
+- `misc@msg*anniversary;support_list`
+- `misc@msg*assassins`
+- `misc@msg*auction-data`
+- `misc@msg*bbs.reply`
+- `misc@msg*blind*box}card=bonus`
+- `misc@msg*body.variation`
+- `misc@msg*change(portrait`
+- `misc@msg*delete|system|mail`
+- `misc@msg*game*install`
+- `misc@msg*gd=charge:action`
+- `misc@msg*gene-divide`
+- `misc@msg*geocentric.tower`
+- `misc@msg*group%war%mine,recall`
+- `misc@msg*group(war%grid+ret`
+- `misc@msg*group+redpack}action`
+- `misc@msg*item-change`
+- `misc@msg*little red card#action`
+- `misc@msg*lottery;combine*draw=action`
+- `misc@msg*move{to`
+- `misc@msg*museum}collect%extra_token`
+- `misc@msg*nebula`
+- `misc@msg*nebula-amplifier)enchase`
+- `misc@msg*new.si`
+- `misc@msg*organ-compose`
+- `misc@msg*praise add`
+- `misc@msg*refresh=newbie`
+- `misc@msg*round+combat}begin`
+- `misc@msg*sacrifice+speed(up`
+- `misc@msg*shuangdan2023_ice;bonus`
+- `misc@msg*son,cure action`
+- `misc@msg*special1 build(tower`
+- `misc@msg*sr:bonus`
+- `misc@msg*task#bonus`
+- `misc@msg*tour}combat`
+- `misc@msg*treasure*trove`
+- `misc@msg*treasure,trove+state`
+- `misc@msg*warship{action:done`
+- `misc@msg+activate}race,graph`
+- `misc@msg+activity+equipment`
+- `misc@msg+ads;activity)fetch}box bonus`
+- `misc@msg+all=dress`
+- `misc@msg+arena=challenge bonus`
+- `misc@msg+arena_week_bonus`
+- `misc@msg+buy-gem by,bill`
+- `misc@msg+car modify`
+- `misc@msg+chatroom switch`
+- `misc@msg+debug:query,attrib`
+- `misc@msg+fetch.redpack+list`
+- `misc@msg+gene#evolution%action`
+- `misc@msg+get_vip{inherit)list`
+- `misc@msg+group(brief`
+- `misc@msg+group(message)add`
+- `misc@msg+group-war*monster(combat`
+- `misc@msg+group=war*clone,son`
+- `misc@msg+group_war,person-bonus`
+- `misc@msg+hero:sacrifice`
+- `misc@msg+home(skin:select`
+- `misc@msg+item(group+box(bonus`
+- `misc@msg+lottery eucal:top`
+- `misc@msg+museum.propagate start`
+- `misc@msg+ninja skill_up`
+- `misc@msg+open(treasure.box`
+- `misc@msg+pet-lottery start`
+- `misc@msg+pre#athena`
+- `misc@msg+pyramid#unlock`
+- `misc@msg+pyramid*totem;apply`
+- `misc@msg+research-speed%up`
+- `misc@msg+round combat opening)attack`
+- `misc@msg+sacrifice.stop`
+- `misc@msg+scenario|combat`
+- `misc@msg+shrine:sky(book-action`
+- `misc@msg+simple=exchange`
+- `misc@msg+son}add_cure`
+- `misc@msg+soul)servant=action`
+- `misc@msg+space astrolabe=action`
+- `misc@msg+special*killer)letter`
+- `misc@msg+special:tower#convert)bonus`
+- `misc@msg+speed#up_result`
+- `misc@msg+take*user+back}bonus`
+- `misc@msg+tetris=puzzle(action`
+- `misc@msg+tour+event;reset`
+- `misc@msg+tour{move`
+- `misc@msg+tower{bonus`
+- `misc@msg+week task%exchange`
+- `misc@msg,activity)redpack}action`
+- `misc@msg,ads skip*complete`
+- `misc@msg,ads(activity-open`
+- `misc@msg,anniversary}event}end`
+- `misc@msg,arena top`
+- `misc@msg,assassin`
+- `misc@msg,basic*tower+action`
+- `misc@msg,blacklist+action}result`
+- `misc@msg,buy{week#task=good`
+- `misc@msg,cs+long)top;action`
+- `misc@msg,evil lottery#start`
+- `misc@msg,fetch+mail+properties`
+- `misc@msg,fetch-tour events trigger`
+- `misc@msg,galaxy(visit:end`
+- `misc@msg,game;cheater-result`
+- `misc@msg,get week:gift)info`
+- `misc@msg,get)offline|info`
+- `misc@msg,ground(seam*end=event`
+- `misc@msg,group_recruit.action`
+- `misc@msg,little)red+action`
+- `misc@msg,lottery{eucal}me`
+- `misc@msg,mushroom#harvest`
+- `misc@msg,new%god*town*action`
+- `misc@msg,ninja,boss;unlock`
+- `misc@msg,pet skill_item`
+- `misc@msg,pet-action`
+- `misc@msg,portrait(book action`
+- `misc@msg,pyramid(combat)end`
+- `misc@msg,reset=partner`
+- `misc@msg,rocket#st+unlock`
+- `misc@msg,rocket}forge`
+- `misc@msg,room=activity}find`
+- `misc@msg,shrine}event`
+- `misc@msg,snails`
+- `misc@msg,son,drop`
+- `misc@msg,son-level)up`
+- `misc@msg,son.add+clone`
+- `misc@msg,special|killer*finish`
+- `misc@msg,spirit(round=lottery{action`
+- `misc@msg,super|lucky box;action`
+- `misc@msg,task|quick:execute`
+- `misc@msg,tour{food:change`
+- `misc@msg,type_apply|bonus`
+- `misc@msg,update.dungeon:data`
+- `misc@msg,visitors`
+- `misc@msg-activity branch=level*action`
+- `misc@msg-activity iap_appear`
+- `misc@msg-bbs newest`
+- `misc@msg-bbs}add reply`
+- `misc@msg-bonus+list`
+- `misc@msg-boss*frist-kill`
+- `misc@msg-businessman`
+- `misc@msg-ceremony|task-action`
+- `misc@msg-check word`
+- `misc@msg-collections2`
+- `misc@msg-cook+money%deficit`
+- `misc@msg-eight_diagram`
+- `misc@msg-galaxy level}up)galaxy%core`
+- `misc@msg-get cross(server*list`
+- `misc@msg-god=bonus`
+- `misc@msg-ground seam}event`
+- `misc@msg-ground}seam`
+- `misc@msg-group*recommend`
+- `misc@msg-group;message:set_top`
+- `misc@msg-group;war*opened:map`
+- `misc@msg-group_try to{depose`
+- `misc@msg-hero,formation`
+- `misc@msg-history_combat)result`
+- `misc@msg-irobot.bonus`
+- `misc@msg-lottery(bonus`
+- `misc@msg-mistress-item ret`
+- `misc@msg-ninja:active`
+- `misc@msg-notify_mark;view`
+- `misc@msg-partner|visit`
+- `misc@msg-piece#compose`
+- `misc@msg-pre*dress`
+- `misc@msg-pyramid-combat,action`
+- `misc@msg-pyramid{combat)action}end`
+- `misc@msg-recharge.ok`
+- `misc@msg-redpack query`
+- `misc@msg-repeat_bonus+transform`
+- `misc@msg-rfjc.learn skill`
+- `misc@msg-rocket#robot`
+- `misc@msg-room(activity}update`
+- `misc@msg-room,activity#list`
+- `misc@msg-set%personality-label`
+- `misc@msg-special;visitors`
+- `misc@msg-specialty-settle`
+- `misc@msg-speed*up{end`
+- `misc@msg-tier*boss;action`
+- `misc@msg-tour:fetch%double`
+- `misc@msg-treasure)trove.clue`
+- `misc@msg-unlock_combat preset`
+- `misc@msg-usa:hero*rest`
+- `misc@msg-week{lottery,eucal+top`
+- `misc@msg.activity,pray{bonus=action`
+- `misc@msg.activity;monopoly}action`
+- `misc@msg.anniversary4+action`
+- `misc@msg.body unlock`
+- `misc@msg.change:bubble`
+- `misc@msg.collection`
+- `misc@msg.collection_action`
+- `misc@msg.collection|compose`
+- `misc@msg.crown_combat*action`
+- `misc@msg.do*iap}bonus`
+- `misc@msg.dungeon)grid;action,result`
+- `misc@msg.eight}diagram=action`
+- `misc@msg.equip;forge`
+- `misc@msg.equipment`
+- `misc@msg.game*top-list`
+- `misc@msg.garden+pick`
+- `misc@msg.ground|seam*mining`
+- `misc@msg.group depose%leader}end`
+- `misc@msg.group log get}info`
+- `misc@msg.group message|query`
+- `misc@msg.group-join election`
+- `misc@msg.group:rank`
+- `misc@msg.group|war|group%rank`
+- `misc@msg.gw#monster%serial,combat`
+- `misc@msg.happy|valley_dice`
+- `misc@msg.home`
+- `misc@msg.learn*area skill(ret`
+- `misc@msg.lottery{ex,start`
+- `misc@msg.lotus)lantern%action`
+- `misc@msg.magic+circle%action`
+- `misc@msg.mistress_info`
+- `misc@msg.multi,apply`
+- `misc@msg.museum-enchase`
+- `misc@msg.open:chest action`
+- `misc@msg.partner sex:changed`
+- `misc@msg.peter.pray:bonus`
+- `misc@msg.pic:compose`
+- `misc@msg.quest.speed-up`
+- `misc@msg.rebuild(god#action`
+- `misc@msg.redpack bonus+list`
+- `misc@msg.research)quick,level up`
+- `misc@msg.research}start`
+- `misc@msg.resource|level*up`
+- `misc@msg.rocket)upgrade unlock`
+- `misc@msg.round_combat)sync`
+- `misc@msg.sacrifice devil.refresh`
+- `misc@msg.sacrifice speed_up.all`
+- `misc@msg.son clone queue;unlock bonus`
+- `misc@msg.son;equip=up`
+- `misc@msg.special visitor|letter`
+- `misc@msg.special*tower.quick(combat`
+- `misc@msg.specialty;exchange`
+- `misc@msg.spring-festival2022-action`
+- `misc@msg.stone)sword`
+- `misc@msg.tour#events_convert`
+- `misc@msg.tour,feature_unlock`
+- `misc@msg.tour.data`
+- `misc@msg.tour{feature(reset`
+- `misc@msg.tower}buff}bonus`
+- `misc@msg.treasure)trove-result`
+- `misc@msg.trigger,user)back gift`
+- `misc@msg.update:dungeon{layer data`
+- `misc@msg.usa adjutant)active`
+- `misc@msg.usa}heros`
+- `misc@msg.vip=day)bonus:action`
+- `misc@msg.week,wish+eucal:top`
+- `misc@msg.week.task myrank`
+- `misc@msg:activity%fish_action`
+- `misc@msg:activity%vote%action`
+- `misc@msg:activity)question`
+- `misc@msg:activity.condition task_action`
+- `misc@msg:activity:score)combat,action`
+- `misc@msg:activity;turnplate)draw`
+- `misc@msg:activity}action`
+- `misc@msg:aerospace:action`
+- `misc@msg:all.vehicle`
+- `misc@msg:arena#sweep`
+- `misc@msg:arena|shop buy`
+- `misc@msg:bbs,best`
+- `misc@msg:businessmans`
+- `misc@msg:car{build}speed)up`
+- `misc@msg:chatroom;leave`
+- `misc@msg:chatroom}history`
+- `misc@msg:chat{font`
+- `misc@msg:combat}action`
+- `misc@msg:country+postcard_bonus`
+- `misc@msg:dragon|boat%dice`
+- `misc@msg:enter{group war`
+- `misc@msg:equipments`
+- `misc@msg:evil*lottery_eggs`
+- `misc@msg:galaxy hidden|event`
+- `misc@msg:ground}seam%bonus`
+- `misc@msg:group war_record`
+- `misc@msg:group(query`
+- `misc@msg:group)set#condition`
+- `misc@msg:group*modify`
+- `misc@msg:group*war*boss egg=action`
+- `misc@msg:hero{level up`
+- `misc@msg:infinite-space-combat`
+- `misc@msg:lantern*party{action`
+- `misc@msg:lottery*select%bonus`
+- `misc@msg:museum(unlock`
+- `misc@msg:notify-server%status`
+- `misc@msg:object)deleted`
+- `misc@msg:partner}letter`
+- `misc@msg:random;select*one(user`
+- `misc@msg:rate{bonus:item*apply`
+- `misc@msg:sacrifice)queue*updated`
+- `misc@msg:settings*manager`
+- `misc@msg:shang+artifact-add`
+- `misc@msg:shop.unlock`
+- `misc@msg:son-action`
+- `misc@msg:son_skin level}up`
+- `misc@msg:sons`
+- `misc@msg:speed|up.start`
+- `misc@msg:spirit|official-action`
+- `misc@msg:task consecrate:bonus`
+- `misc@msg:test%delay`
+- `misc@msg:tour stop`
+- `misc@msg:tour+god-event.select`
+- `misc@msg:tour}event#convert`
+- `misc@msg:tour}extra,bonus`
+- `misc@msg;activity simple%record action`
+- `misc@msg;activity#defense:war action`
+- `misc@msg;activity,role|action`
+- `misc@msg;add|mistress:favor`
+- `misc@msg;ads|activity.submit{item`
+- `misc@msg;apply`
+- `misc@msg;apply:dish`
+- `misc@msg;arena{challenge*log`
+- `misc@msg;beacon#plan)action`
+- `misc@msg;body(system_step`
+- `misc@msg;boss:clean}action`
+- `misc@msg;car,drop`
+- `misc@msg;cell:smelter{action`
+- `misc@msg;change arc.ball`
+- `misc@msg;chatroom=messages`
+- `misc@msg;check back=user`
+- `misc@msg;collections`
+- `misc@msg;dungeon:event`
+- `misc@msg;empire#building+resource`
+- `misc@msg;evolution ceremony#end`
+- `misc@msg;galaxy explore`
+- `misc@msg;gem)resource}exchange=ret`
+- `misc@msg;get=moving_count`
+- `misc@msg;ghost=ship-skill#up`
+- `misc@msg;globe+unlock`
+- `misc@msg;god bonus*result`
+- `misc@msg;ground%seam)mining)fetch`
+- `misc@msg;item*attrib(mushroom|bonus`
+- `misc@msg;item|attrib=stamen_bonus`
+- `misc@msg;lantern pray=action`
+- `misc@msg;mid{autumn2023=action`
+- `misc@msg;museum,quick enchase`
+- `misc@msg;open+treasure#hunt}action`
+- `misc@msg;opt bonus`
+- `misc@msg;organ_action`
+- `misc@msg;pick up)simple-egg`
+- `misc@msg;piece-transform`
+- `misc@msg;pyramid{combat.bonus`
+- `misc@msg;quest level{up`
+- `misc@msg;quiting`
+- `misc@msg;report informer`
+- `misc@msg;room(activity#setting`
+- `misc@msg;sacrifice devil.unlock`
+- `misc@msg;say`
+- `misc@msg;score,combat`
+- `misc@msg;shuangdan2023*ice strike`
+- `misc@msg;son`
+- `misc@msg;son-skin%reset`
+- `misc@msg;son;tower free draw`
+- `misc@msg;son}tower=example;action`
+- `misc@msg;space)beacon,event;end`
+- `misc@msg;special visitor#finish`
+- `misc@msg;special_tower speed,up_cd`
+- `misc@msg;specialty(exchange}quick`
+- `misc@msg;spirit{combat#action`
+- `misc@msg;task(multi{execute`
+- `misc@msg;tec*level%up`
+- `misc@msg;tour|god%exchange-bonus`
+- `misc@msg;usa camp`
+- `misc@msg;usa_hero{level-up.bonus`
+- `misc@msg;user%blacklist`
+- `misc@msg;warship;update`
+- `misc@msg;week%task lottery`
+- `misc@msg;zlib|msg`
+- `misc@msg=buddhist`
+- `misc@msg=buddhist*skill level+up`
+- `misc@msg=change,redpack_bubble`
+- `misc@msg=chatroom}list`
+- `misc@msg=clone_wars-action`
+- `misc@msg=coin,storage}action`
+- `misc@msg=collection(awake`
+- `misc@msg=debug+update*lua`
+- `misc@msg=dress:lottery*bonus`
+- `misc@msg=dress|combat_result`
+- `misc@msg=dungeon-grid*data`
+- `misc@msg=empire*active`
+- `misc@msg=fetch#group{war}task(bonus`
+- `misc@msg=free*vip,action`
+- `misc@msg=gd)modify;time`
+- `misc@msg=geocentric,world action`
+- `misc@msg=get:cross%server#top`
+- `misc@msg=group#myrank`
+- `misc@msg=group,members`
+- `misc@msg=group}war|door-action`
+- `misc@msg=hero`
+- `misc@msg=items`
+- `misc@msg=item|apply_ani;effect`
+- `misc@msg=lucky draw`
+- `misc@msg=lvbu_learn|skill`
+- `misc@msg=museum,tour action`
+- `misc@msg=newbie,task%complete`
+- `misc@msg=newbie_exception`
+- `misc@msg=ninja upgrade`
+- `misc@msg=partner.task=update`
+- `misc@msg=pet:explore)buff`
+- `misc@msg=pet=lottery}eucal,history`
+- `misc@msg=ping`
+- `misc@msg=pyramid-combat start`
+- `misc@msg=redpack#me`
+- `misc@msg=redpack)fetch`
+- `misc@msg=reset|race#graph`
+- `misc@msg=rocket;robot pick:bonus`
+- `misc@msg=roles`
+- `misc@msg=server;time`
+- `misc@msg=shrine action`
+- `misc@msg=son(cure{cancel`
+- `misc@msg=son.tower|army`
+- `misc@msg=son:army(queue`
+- `misc@msg=son:cure{delete`
+- `misc@msg=special tower.active`
+- `misc@msg=speed(up ok`
+- `misc@msg=spirit)official-order|action`
+- `misc@msg=start{persia+special}combat`
+- `misc@msg=stele_action`
+- `misc@msg=tourists`
+- `misc@msg=tower;speed}up cd`
+- `misc@msg=user#back;guide{action`
+- `misc@msg=verify{nickname#result`
+- `misc@msg=veteran train`
+- `misc@msg=wish|eucal-min(me`
+- `misc@msg_active son.tower-anomaly`
+- `misc@msg_activity_roles`
+- `misc@msg_alert`
+- `misc@msg_body.evolve-fetch)item`
+- `misc@msg_buy{snail%shop*goods`
+- `misc@msg_common=event{end`
+- `misc@msg_cook*resonance;action`
+- `misc@msg_dog}shit`
+- `misc@msg_doll_match*action`
+- `misc@msg_dormitory%skin|action`
+- `misc@msg_equip_divide`
+- `misc@msg_evolution_ceremony_start`
+- `misc@msg_fetch game=test;bonus`
+- `misc@msg_follower`
+- `misc@msg_game:spirit,action`
+- `misc@msg_group;join#accept`
+- `misc@msg_group=war)member task`
+- `misc@msg_group=war*get%mine.bonus`
+- `misc@msg_happy_valley%egg`
+- `misc@msg_hero_active`
+- `misc@msg_heros`
+- `misc@msg_hidden}killer action`
+- `misc@msg_iron ball}level up`
+- `misc@msg_item:apply)func`
+- `misc@msg_last,week{exchange done`
+- `misc@msg_lottery(container key+bonus`
+- `misc@msg_lottery=draw`
+- `misc@msg_map{unlock`
+- `misc@msg_pet_wild{explore{action`
+- `misc@msg_poster|bonus`
+- `misc@msg_push`
+- `misc@msg_redpack_bubble`
+- `misc@msg_rocket_make`
+- `misc@msg_sacrifice:queue_bonus`
+- `misc@msg_shell:extract`
+- `misc@msg_shrine-click(bonus`
+- `misc@msg_simple,record`
+- `misc@msg_snail)computer,login`
+- `misc@msg_son=cure`
+- `misc@msg_special_tower`
+- `misc@msg_sutra.horse skill up`
+- `misc@msg_task-add)log`
+- `misc@msg_task.consecrate cost`
+- `misc@msg_task:execute`
+- `misc@msg_usa hero`
+- `misc@msg_visitor+select item`
+- `misc@msg{activity|nonlinear combat{action`
+- `misc@msg{boss.quick combat`
+- `misc@msg{bubble`
+- `misc@msg{building enchase`
+- `misc@msg{cast(dice`
+- `misc@msg{collection-letter{bonus`
+- `misc@msg{combat=full-win`
+- `misc@msg{common=talk`
+- `misc@msg{energy%cube.lottery`
+- `misc@msg{fetch%special_history%bonus`
+- `misc@msg{fetch|group(war-buff`
+- `misc@msg{free_draw{action`
+- `misc@msg{gd action`
+- `misc@msg{generate random array`
+- `misc@msg{get dist+list`
+- `misc@msg{ghost,ship,upgrade`
+- `misc@msg{godhood action`
+- `misc@msg{group war(special5,action`
+- `misc@msg{group%war special4 action`
+- `misc@msg{group)leave`
+- `misc@msg{group)war,special2}action`
+- `misc@msg{group+message|delete`
+- `misc@msg{group|contribute`
+- `misc@msg{home_pet_pig}submit,unlock items`
+- `misc@msg{iap.check=buy`
+- `misc@msg{item:treasure;bonus`
+- `misc@msg{lottery ex+bonus`
+- `misc@msg{lucky-snail`
+- `misc@msg{menu{open`
+- `misc@msg{month)boss%unlock`
+- `misc@msg{moon explore#action`
+- `misc@msg{notify_mail*bonus`
+- `misc@msg{organ#level up`
+- `misc@msg{partner bonus`
+- `misc@msg{partner%collection`
+- `misc@msg{partner=appearance)action`
+- `misc@msg{personality)label}progress`
+- `misc@msg{quest)refresh`
+- `misc@msg{refresh{supply`
+- `misc@msg{resource#pick`
+- `misc@msg{score{check`
+- `misc@msg{son tower#log`
+- `misc@msg{son#army`
+- `misc@msg{son,tower%race:calc%level{up`
+- `misc@msg{spirit-order;action`
+- `misc@msg{spirit;achievement action`
+- `misc@msg{task_refresh=week`
+- `misc@msg{team_charge action`
+- `misc@msg{tour+move|end`
+- `misc@msg{tourist`
+- `misc@msg{tower:action`
+- `misc@msg{visitor{end`
+- `misc@msg{warships`
+- `misc@msg{week task|currency:compose`
+- `misc@msg|arena(top three`
+- `misc@msg|arena-refresh)target`
+- `misc@msg|arena:top=query`
+- `misc@msg|clear event`
+- `misc@msg|collect bless}action`
+- `misc@msg|collection#cultivation=action`
+- `misc@msg|cross.channel#stat`
+- `misc@msg|draw}gift`
+- `misc@msg|equipment;god}action`
+- `misc@msg|evil{lottery bonus`
+- `misc@msg|fellows`
+- `misc@msg|fellow}reset`
+- `misc@msg|generic ceremony action`
+- `misc@msg|group war;boss`
+- `misc@msg|group=action`
+- `misc@msg|hero.level.up#bonus`
+- `misc@msg|new+compensate`
+- `misc@msg|new-car`
+- `misc@msg|notify.card=bonus`
+- `misc@msg|partner%collection;bonus`
+- `misc@msg|pets`
+- `misc@msg|pet}item`
+- `misc@msg|portrait(status`
+- `misc@msg|quest`
+- `misc@msg|request;move#user`
+- `misc@msg|rocket,divide`
+- `misc@msg|room activity(join`
+- `misc@msg|son}cure queue#unlock bonus`
+- `misc@msg|top(list`
+- `misc@msg|tour start`
+- `misc@msg|tour+god cell update`
+- `misc@msg|tour.god,arms%level*up`
+- `misc@msg|treasure%action`
+- `misc@msg|wish_eucal=history`
+- `misc@msg|word`
+- `misc@msg}activity.cultivate;action`
+- `misc@msg}activity:task+stat:bonus`
+- `misc@msg}activity{linear_level*action`
+- `misc@msg}buff{data=updated`
+- `misc@msg}businessman buy`
+- `misc@msg}change)chat:font`
+- `misc@msg}chomper;tower_infinite#action`
+- `misc@msg}clean plan+action`
+- `misc@msg}collection)level#up`
+- `misc@msg}cook{action`
+- `misc@msg}cost=effective lottery`
+- `misc@msg}cultural*relic action`
+- `misc@msg}exchange+multi`
+- `misc@msg}followers`
+- `misc@msg}food tour+action`
+- `misc@msg}func+record updated`
+- `misc@msg}gem)pick up`
+- `misc@msg}group*join#req`
+- `misc@msg}group*war(special1}action`
+- `misc@msg}group,level=up`
+- `misc@msg}group-war action`
+- `misc@msg}group=war=special2 formation`
+- `misc@msg}gw{guide{action`
+- `misc@msg}item bonus`
+- `misc@msg}lottery eucal,min|me`
+- `misc@msg}mistress disappear`
+- `misc@msg}new:god;arena:action`
+- `misc@msg}new:personality|labels`
+- `misc@msg}npc%small=talk`
+- `misc@msg}pet|lottery{eucal(min top`
+- `misc@msg}portrait,decoration`
+- `misc@msg}portrait-action done`
+- `misc@msg}pyramid,skill(level up`
+- `misc@msg}research-level%up`
+- `misc@msg}rob stat`
+- `misc@msg}rocket)robot quick:pick`
+- `misc@msg}round combat{attack`
+- `misc@msg}series*activity%bonus`
+- `misc@msg}shell-reset`
+- `misc@msg}son)active`
+- `misc@msg}son.skin active`
+- `misc@msg}son{gene=active`
+- `misc@msg}system mails`
+- `misc@msg}task refresh;log`
+- `misc@msg}tour end`
+- `misc@msg}tribe{affair action`
+- `misc@msg}turnplate bonus`
+- `misc@msg}universe|upgrade skill`
+- `misc@msg}usa-hero*level;up`
+- `misc@msg}user=mails`
+- `misc@msg}vehicle|action`
+

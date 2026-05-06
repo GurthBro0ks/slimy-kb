@@ -1,0 +1,968 @@
+# Protocol Specification V2
+
+## login (5 messages)
+- msg_login
+- msg_login_notify_ok
+- msg_me_updated
+- msg_relogin
+- msg_start_game
+
+## misc (957 messages)
+- MSG_GROUP_WAR_MINE_RECORD
+- msg active_rocket_robot
+- msg activity_lottery_special_event
+- msg apostle tower_action
+- msg arena_challenge_fail
+- msg bulk_buy_dynamic_goods
+- msg car_build
+- msg car_build_unlock
+- msg click_group_newspaper
+- msg collection skill_reset
+- msg combat_action_end
+- msg dog_equip_success
+- msg eight_diagram_unlock
+- msg eliminating.combat_scenario
+- msg equip exchange
+- msg friendly_match_challenge
+- msg group_join
+- msg group_join_reject
+- msg group_war_fetch_all.bonus
+- msg group_war_siege_action
+- msg home_skin_data
+- msg item convert_bonus
+- msg maat_skill_up
+- msg misc_task_bonus_result
+- msg new_arena_action
+- msg new_god_space_action
+- msg newbie_task_add_log
+- msg notify_group_war_events
+- msg notify_mail_delete
+- msg one_handbook
+- msg partner
+- msg partner_light_up
+- msg pet_skin_action
+- msg pet_totem_action
+- msg praise_query
+- msg puzzle_draw_action
+- msg pyramid.active
+- msg receive_all_boss_bonus
+- msg research_end
+- msg secret_mission.complete
+- msg shuangdan2022_jp_action
+- msg son_skin_compose
+- msg task_complete
+- msg top_cover
+- msg tourist_skill_level_up
+- msg tower_enchase
+- msg treasure_box_unequip
+- msg treasure_lottery_bonus
+- msg unlock_lvbu_riding
+- msg usa_hero_active
+- msg user.brief
+- msg week_lottery_eucal_me
+- msg.activity_monopoly_action
+- msg.activity_pray_bonus_action
+- msg.anniversary4_action
+- msg.body_unlock
+- msg.change_bubble
+- msg.collection
+- msg.collection_action
+- msg.collection_compose
+- msg.crown_combat_action
+- msg.do_iap_bonus
+- msg.dungeon_grid_action_result
+- msg.eight_diagram_action
+- msg.equip_forge
+- msg.equipment
+- msg.game_top_list
+- msg.garden_pick
+- msg.ground_seam_mining
+- msg.group depose_leader_end
+- msg.group log get_info
+- msg.group_join_election
+- msg.group_message_query
+- msg.group_rank
+- msg.group_war_group_rank
+- msg.gw_monster_serial_combat
+- msg.happy_valley_dice
+- msg.home
+- msg.learn_area_skill_ret
+- msg.lottery_ex_start
+- msg.lotus_lantern_action
+- msg.magic_circle_action
+- msg.mistress_info
+- msg.multi_apply
+- msg.museum_enchase
+- msg.open_chest_action
+- msg.partner_sex_changed
+- msg.peter.pray_bonus
+- msg.pic_compose
+- msg.quest.speed_up
+- msg.rebuild_god_action
+- msg.redpack_bonus_list
+- msg.research_quick_level up
+- msg.research_start
+- msg.resource_level_up
+- msg.rocket_upgrade_unlock
+- msg.round_combat_sync
+- msg.sacrifice speed_up.all
+- msg.sacrifice_devil.refresh
+- msg.son_clone_queue_unlock_bonus
+- msg.son_equip_up
+- msg.special visitor_letter
+- msg.special_tower.quick_combat
+- msg.specialty_exchange
+- msg.spring_festival2022_action
+- msg.stone_sword
+- msg.tour.data
+- msg.tour_events_convert
+- msg.tour_feature_reset
+- msg.tour_feature_unlock
+- msg.tower_buff_bonus
+- msg.treasure_trove_result
+- msg.trigger_user_back_gift
+- msg.update_dungeon_layer_data
+- msg.usa_adjutant_active
+- msg.usa_heros
+- msg.vip_day_bonus_action
+- msg.week.task_myrank
+- msg.week_wish_eucal_top
+- msg_account_brief_data
+- msg_account_func_record_result
+- msg_activate_race_graph
+- msg_active son.tower_anomaly
+- msg_active.slot
+- msg_active_body
+- msg_activity branch_level_action
+- msg_activity.condition task_action
+- msg_activity.cultivate_action
+- msg_activity_action
+- msg_activity_cross_server_cache
+- msg_activity_defense_war action
+- msg_activity_equipment
+- msg_activity_fish_action
+- msg_activity_game room_action
+- msg_activity_grid_map_action
+- msg_activity_iap_appear
+- msg_activity_linear_level_action
+- msg_activity_nonlinear_combat_action
+- msg_activity_question
+- msg_activity_redpack_action
+- msg_activity_role
+- msg_activity_role_action
+- msg_activity_role_reset
+- msg_activity_roles
+- msg_activity_score_combat_action
+- msg_activity_simple_record_action
+- msg_activity_speed_race_action
+- msg_activity_task_stat_bonus
+- msg_activity_turnplate1_action
+- msg_activity_turnplate2_action
+- msg_activity_turnplate_draw
+- msg_activity_vote_action
+- msg_activity_weapon_action
+- msg_add_mistress_favor
+- msg_ads_activity.submit_item
+- msg_ads_activity_fetch_bonus
+- msg_ads_activity_fetch_box_bonus
+- msg_ads_activity_open
+- msg_ads_bonus
+- msg_ads_skip_complete
+- msg_aerospace_action
+- msg_air_tube.disappear
+- msg_alert
+- msg_all.vehicle
+- msg_all_athena
+- msg_all_dress
+- msg_anniversary2.action
+- msg_anniversary_event_end
+- msg_anniversary_support_list
+- msg_anti_addiction_warn
+- msg_apply
+- msg_apply_dish
+- msg_arena top
+- msg_arena.enchase
+- msg_arena_challenge_bonus
+- msg_arena_challenge_log
+- msg_arena_query_rank.score
+- msg_arena_refresh_target
+- msg_arena_shop_buy
+- msg_arena_sweep
+- msg_arena_top_query
+- msg_arena_top_three
+- msg_arena_week_bonus
+- msg_assassin
+- msg_assassin_action_done
+- msg_assassin_level_up
+- msg_assassins
+- msg_athena_action_result
+- msg_attrib_bonus
+- msg_auction_data
+- msg_auction_ret
+- msg_basic_tower_action
+- msg_batch_fetch_special_bonus
+- msg_batch_iap_bonus
+- msg_bbs.reply
+- msg_bbs.unopen
+- msg_bbs_add
+- msg_bbs_add_reply
+- msg_bbs_best
+- msg_bbs_best_list
+- msg_bbs_newest
+- msg_bbs_praise
+- msg_bbs_recommend
+- msg_bbs_top_list
+- msg_bbs_total
+- msg_beacon_plan_action
+- msg_bind_invite_code
+- msg_blacklist_action_result
+- msg_blind_box_card_bonus
+- msg_blind_box_history
+- msg_body.evolve_fetch_item
+- msg_body.variation
+- msg_body_organ
+- msg_body_system_step
+- msg_body_system_steps
+- msg_bonus_alert
+- msg_bonus_list
+- msg_bonus_pool_limit
+- msg_bonus_treasure_trove_effect
+- msg_boss.quick combat
+- msg_boss_clean_action
+- msg_boss_combat_result
+- msg_boss_frist_kill
+- msg_branch_country_action
+- msg_bubble
+- msg_buddhist
+- msg_buddhist_equipment
+- msg_buddhist_skill_level_up
+- msg_buff_data_updated
+- msg_building enchase
+- msg_businessman
+- msg_businessman buy
+- msg_businessmans
+- msg_buy_dynamic_goods
+- msg_buy_gem_by_bill
+- msg_buy_nickname_count
+- msg_buy_snail_shop_goods
+- msg_buy_week_task_good
+- msg_car modify
+- msg_car_build_speed_up
+- msg_car_build_unlock_finish
+- msg_car_compose
+- msg_car_drop
+- msg_car_piece_compose
+- msg_cast_dice
+- msg_celebration_action
+- msg_cell_smelter_action
+- msg_ceremony_devil
+- msg_ceremony_task_action
+- msg_ceremony_task_step_action
+- msg_change.switch
+- msg_change_arc.ball
+- msg_change_chat_font
+- msg_change_portrait
+- msg_change_redpack_bubble
+- msg_charge_gift_action
+- msg_chat_font
+- msg_chat_msg_limited
+- msg_chatroom_history
+- msg_chatroom_leave
+- msg_chatroom_list
+- msg_chatroom_messages
+- msg_chatroom_revoke_list
+- msg_chatroom_single_message
+- msg_chatroom_switch
+- msg_check_back_user
+- msg_check_word
+- msg_chef_action
+- msg_chess_combat.action
+- msg_chess_combat_scenario
+- msg_chomper_action_result
+- msg_chomper_tower_infinite_action
+- msg_clean plan_action
+- msg_clear event
+- msg_client_resource_replace
+- msg_clone_wars_action
+- msg_coin.submit
+- msg_coin_active
+- msg_coin_storage_action
+- msg_collect_bless_action
+- msg_collection cultivation
+- msg_collection_awake
+- msg_collection_cultivation_action
+- msg_collection_learn_skill
+- msg_collection_letter_bonus
+- msg_collection_level_up
+- msg_collections
+- msg_collections2
+- msg_combat.bonus
+- msg_combat_action
+- msg_combat_end
+- msg_combat_full_win
+- msg_combat_start
+- msg_common_event_end
+- msg_common_shop_batch_buy
+- msg_common_shop_buy
+- msg_common_shop_refresh
+- msg_common_talk
+- msg_compass enchase
+- msg_compete_for_speed_action
+- msg_cook_action
+- msg_cook_money_deficit
+- msg_cook_resonance_action
+- msg_cost_effective lottery
+- msg_country_postcard_bonus
+- msg_cross.channel_stat
+- msg_cs_long_top_action
+- msg_cultural_relic action
+- msg_day_gift_batch
+- msg_debug_query_attrib
+- msg_debug_update_lua
+- msg_deficit
+- msg_delete_equipment
+- msg_delete_event
+- msg_delete_system_mail
+- msg_dialog_ok
+- msg_divide_group_war_alloy
+- msg_dog_shit
+- msg_doll_match_action
+- msg_dormitory_skin_action
+- msg_dragon_boat_dice
+- msg_draw_gift
+- msg_dress_action_result
+- msg_dress_combat_end_result
+- msg_dress_combat_result
+- msg_dress_lottery_bonus
+- msg_dung_ball_action
+- msg_dungeon_event
+- msg_dungeon_grid_data
+- msg_eight_diagram
+- msg_empire_active
+- msg_empire_building.occupy
+- msg_empire_building_army_resource
+- msg_empire_building_resource
+- msg_empire_enter_map
+- msg_empire_fix_pos
+- msg_energy_cube.lottery
+- msg_enter_group_war
+- msg_equip_divide
+- msg_equipment.drop
+- msg_equipment_bonus
+- msg_equipment_god_action
+- msg_equipments
+- msg_evil_lottery bonus
+- msg_evil_lottery_eggs
+- msg_evil_lottery_start
+- msg_evolution_ceremony_end
+- msg_evolution_ceremony_start
+- msg_exchange_group_war_buff
+- msg_exchange_group_war_money
+- msg_exchange_multi
+- msg_exhibition_action
+- msg_factory_unlock
+- msg_fellow
+- msg_fellow_reset
+- msg_fellows
+- msg_fetch.redpack_list
+- msg_fetch_game_test_bonus
+- msg_fetch_group_war_buff
+- msg_fetch_group_war_task_bonus
+- msg_fetch_history_task_bonus
+- msg_fetch_mail_properties
+- msg_fetch_special_history_bonus
+- msg_fetch_tour events_trigger
+- msg_follower
+- msg_follower_skill_level_up
+- msg_followers
+- msg_food_tour_action
+- msg_free_draw_action
+- msg_free_vip_action
+- msg_func_record_updated
+- msg_galaxy level_up_galaxy_core
+- msg_galaxy_explore
+- msg_galaxy_hidden_event
+- msg_galaxy_visit_end
+- msg_game.monitor_result
+- msg_game_cheater_result
+- msg_game_install
+- msg_game_spirit_action
+- msg_game_top_data
+- msg_gd action
+- msg_gd_charge_action
+- msg_gd_modify_time
+- msg_gd_stock_action
+- msg_gem_pick_up
+- msg_gem_resource_exchange_ret
+- msg_gene_divide
+- msg_gene_evolution_action
+- msg_gene_variation_action
+- msg_generate_random array
+- msg_generic_ceremony_action
+- msg_geocentric.tower
+- msg_geocentric_towers
+- msg_geocentric_world_action
+- msg_get dist_list
+- msg_get.group_war_boss_top_data
+- msg_get_any_target_info
+- msg_get_cross_server_list
+- msg_get_cross_server_top
+- msg_get_first kill_boss_redpack list
+- msg_get_group_war data
+- msg_get_moving_count
+- msg_get_offline_info
+- msg_get_star_map_count
+- msg_get_vip_inherit_list
+- msg_get_week_gift_info
+- msg_ghost_ship_change resource
+- msg_ghost_ship_skill_up
+- msg_ghost_ship_upgrade
+- msg_globe_unlock
+- msg_god bonus_result
+- msg_god_bonus
+- msg_god_break_off
+- msg_god_second_bonus
+- msg_goddess_learn_skill
+- msg_godhood_action
+- msg_gold_digger_action
+- msg_ground_seam
+- msg_ground_seam_bonus
+- msg_ground_seam_end_event
+- msg_ground_seam_event
+- msg_ground_seam_mining_fetch
+- msg_group appoint
+- msg_group.kickout
+- msg_group.message_query_top
+- msg_group.war.group_myrank
+- msg_group_action
+- msg_group_boss_combat
+- msg_group_brief
+- msg_group_clear_request
+- msg_group_contribute
+- msg_group_create
+- msg_group_dissolve
+- msg_group_get_request
+- msg_group_gift_fetch_bonus
+- msg_group_impeach
+- msg_group_join_accept
+- msg_group_join_req
+- msg_group_join_req_by_user
+- msg_group_leave
+- msg_group_level_up
+- msg_group_mail_send_result
+- msg_group_mails
+- msg_group_managers
+- msg_group_members
+- msg_group_message_add
+- msg_group_message_delete
+- msg_group_message_set_top
+- msg_group_modify
+- msg_group_myrank
+- msg_group_query
+- msg_group_recommend
+- msg_group_recruit.action
+- msg_group_redpack_action
+- msg_group_search
+- msg_group_set_condition
+- msg_group_task_fetch_bonus
+- msg_group_try to_depose
+- msg_group_war action
+- msg_group_war.member_rank
+- msg_group_war_boss
+- msg_group_war_boss_egg_action
+- msg_group_war_clone_son
+- msg_group_war_cmd_action
+- msg_group_war_data
+- msg_group_war_door_action
+- msg_group_war_door_log
+- msg_group_war_get_mine.bonus
+- msg_group_war_grid_ret
+- msg_group_war_medal_action
+- msg_group_war_member_task
+- msg_group_war_mine_recall
+- msg_group_war_monster_combat
+- msg_group_war_opened_map
+- msg_group_war_person_bonus
+- msg_group_war_record
+- msg_group_war_special1_action
+- msg_group_war_special2_action
+- msg_group_war_special2_formation
+- msg_group_war_special4_action
+- msg_group_war_special5_action
+- msg_gw_guide_action
+- msg_handbook
+- msg_happy_valley_egg
+- msg_hero
+- msg_hero.level.up_bonus
+- msg_hero_active
+- msg_hero_formation
+- msg_hero_level_up
+- msg_hero_sacrifice
+- msg_heros
+- msg_hidden_killer action
+- msg_history_combat_result
+- msg_home_manual
+- msg_home_pet_pig_submit_unlock items
+- msg_home_pet_pig_submit_wish_items
+- msg_home_pet_pig_unlock
+- msg_home_skin_select
+- msg_iap.check_buy
+- msg_infinite_space_combat
+- msg_irobot.bonus
+- msg_iron ball_level_up
+- msg_item
+- msg_item_apply_ani_effect
+- msg_item_apply_func
+- msg_item_attrib_mushroom_bonus
+- msg_item_attrib_stamen_bonus
+- msg_item_bonus
+- msg_item_change
+- msg_item_group_box_bonus
+- msg_item_treasure_bonus
+- msg_items
+- msg_killer_visit_batch
+- msg_lantern_party_action
+- msg_lantern_pray_action
+- msg_last_week_exchange_done
+- msg_learn_skill
+- msg_levelup_group_war_money
+- msg_little red_card_action
+- msg_little_red_action
+- msg_lottery container_key egg
+- msg_lottery eucal_min_me
+- msg_lottery pyramid_action
+- msg_lottery_bonus
+- msg_lottery_combine_draw_action
+- msg_lottery_container key_bonus
+- msg_lottery_draw
+- msg_lottery_eucal_history
+- msg_lottery_eucal_me
+- msg_lottery_eucal_min_history
+- msg_lottery_eucal_min_top
+- msg_lottery_eucal_top
+- msg_lottery_ex_bonus
+- msg_lottery_select_bonus
+- msg_lottery_start
+- msg_lucky_draw
+- msg_lucky_snail
+- msg_lvbu_learn_skill
+- msg_mail_task_ret
+- msg_map_unlock
+- msg_meme_bonus
+- msg_menu_item
+- msg_menu_open
+- msg_mid_autumn2022 action
+- msg_mid_autumn2023_action
+- msg_mistress list
+- msg_mistress_appear
+- msg_mistress_disappear
+- msg_mistress_item ret
+- msg_mistress_queue
+- msg_month_boss_unlock
+- msg_moon_explore_action
+- msg_move_to
+- msg_museum.propagate start
+- msg_museum_active
+- msg_museum_collect_extra_token
+- msg_museum_collect_token
+- msg_museum_propagate_clue
+- msg_museum_quick enchase
+- msg_museum_tour action
+- msg_museum_unlock
+- msg_mushroom_harvest
+- msg_national_holiday_action
+- msg_nebula
+- msg_nebula_amplifier_enchase
+- msg_new.si
+- msg_new_car
+- msg_new_compensate
+- msg_new_god_arena_action
+- msg_new_god_town_action
+- msg_new_personality_labels
+- msg_newbie_exception
+- msg_newbie_guide_action
+- msg_newbie_next_chapter
+- msg_newbie_skip_finished
+- msg_newbie_task_complete
+- msg_newbie_task_step
+- msg_newer_quick_action
+- msg_newer_task_bonus
+- msg_nickname_result
+- msg_ninja upgrade
+- msg_ninja_active
+- msg_ninja_boss_unlock
+- msg_ninja_skill_up
+- msg_notify.card_bonus
+- msg_notify_buff_data
+- msg_notify_mail_bonus
+- msg_notify_mark_view
+- msg_notify_server_status
+- msg_notify_status_updated
+- msg_notify_tour speed_change
+- msg_npc
+- msg_npc_small_talk
+- msg_object.updated
+- msg_object_deleted
+- msg_open_treasure.box
+- msg_open_treasure_hunt_action
+- msg_opening_bonus
+- msg_opt_bonus
+- msg_organ_action
+- msg_organ_compose
+- msg_organ_divide
+- msg_organ_level_up
+- msg_partner bonus
+- msg_partner.task_update
+- msg_partner_appearance_action
+- msg_partner_collection
+- msg_partner_collection_bonus
+- msg_partner_letter
+- msg_partner_six_up
+- msg_partner_visit
+- msg_partners
+- msg_persia_special_action
+- msg_personality_label_progress
+- msg_pet
+- msg_pet_action
+- msg_pet_explore_buff
+- msg_pet_explore_event
+- msg_pet_item
+- msg_pet_lottery start
+- msg_pet_lottery_bonus
+- msg_pet_lottery_eucal_history
+- msg_pet_lottery_eucal_min top
+- msg_pet_lottery_eucal_min_history
+- msg_pet_lottery_eucal_top
+- msg_pet_patrol
+- msg_pet_patrol_point_bonus
+- msg_pet_skill_item
+- msg_pet_week_lottery_eucal_top
+- msg_pet_wild_explore_action
+- msg_pets
+- msg_pick up_simple_egg
+- msg_pick.up_egg
+- msg_piece_compose
+- msg_piece_transform
+- msg_pilgrimage_event end
+- msg_ping
+- msg_portrait_action_done
+- msg_portrait_book action
+- msg_portrait_decoration
+- msg_portrait_status
+- msg_portraits
+- msg_poster_bonus
+- msg_praise_add
+- msg_pre_athena
+- msg_pre_dress
+- msg_push
+- msg_puzzle
+- msg_pyramid_combat.bonus
+- msg_pyramid_combat_action
+- msg_pyramid_combat_action_end
+- msg_pyramid_combat_end
+- msg_pyramid_combat_start
+- msg_pyramid_skill_level up
+- msg_pyramid_totem_apply
+- msg_pyramid_unlock
+- msg_quest
+- msg_quest level_up
+- msg_quest.bonus
+- msg_quest_refresh
+- msg_quietly_call
+- msg_quiting
+- msg_race graph_item_open
+- msg_race_action
+- msg_race_instance combat
+- msg_rainbow_shop_action
+- msg_random_select_one_user
+- msg_rate_bonus_item_apply
+- msg_recharge.ok
+- msg_recharge_cashback_action
+- msg_recurring_sign.action
+- msg_redpack_bonus_count
+- msg_redpack_bubble
+- msg_redpack_fetch
+- msg_redpack_me
+- msg_redpack_query
+- msg_refresh_newbie
+- msg_refresh_pick_data
+- msg_refresh_supply
+- msg_refresh_system.gift
+- msg_repeat_bonus_transform
+- msg_report informer
+- msg_request_move_user
+- msg_research_breakthrough
+- msg_research_level_up
+- msg_research_speed_up
+- msg_reset_partner
+- msg_reset_race_graph
+- msg_resource.pick_all
+- msg_resource_pick
+- msg_resource_refresh
+- msg_resource_unlock
+- msg_return_exchange_bonus
+- msg_rfjc.learn_skill
+- msg_rob.defense
+- msg_rob_stat
+- msg_rocket_divide
+- msg_rocket_forge
+- msg_rocket_make
+- msg_rocket_make_data
+- msg_rocket_repair
+- msg_rocket_robot
+- msg_rocket_robot pick_bonus
+- msg_rocket_robot quick_pick
+- msg_rocket_st.level_up
+- msg_rocket_st_unlock
+- msg_roles
+- msg_room activity_create_room
+- msg_room_activity.start
+- msg_room_activity_find
+- msg_room_activity_join
+- msg_room_activity_list
+- msg_room_activity_setting
+- msg_room_activity_update
+- msg_round combat_opening_attack
+- msg_round_combat.end
+- msg_round_combat_attack
+- msg_round_combat_begin
+- msg_round_draw_action
+- msg_round_layer_draw_action
+- msg_round_lottery_action
+- msg_sacrifice devil.unlock
+- msg_sacrifice.stop
+- msg_sacrifice_devil_unseal
+- msg_sacrifice_queue_bonus
+- msg_sacrifice_queue_updated
+- msg_sacrifice_speed_up
+- msg_say
+- msg_scenario_combat
+- msg_scenario_updated
+- msg_score_check
+- msg_score_combat
+- msg_select_race
+- msg_select_tour.destination
+- msg_series_activity_bonus
+- msg_server_time
+- msg_set_personality_label
+- msg_settings_manager
+- msg_shang_artifact_add
+- msg_shang_story_action
+- msg_share bonus
+- msg_shell_extract
+- msg_shell_level_up
+- msg_shell_reset
+- msg_shop.unlock
+- msg_shop_info
+- msg_shrine.sander
+- msg_shrine_action
+- msg_shrine_click_bonus
+- msg_shrine_event
+- msg_shrine_flee
+- msg_shrine_sky_book_action
+- msg_shuangdan2022_action
+- msg_shuangdan2023_action
+- msg_shuangdan2023_ice_bonus
+- msg_shuangdan2023_ice_strike
+- msg_signature
+- msg_simple_activity_action
+- msg_simple_activitys
+- msg_simple_exchange
+- msg_simple_record
+- msg_skin_gift_action
+- msg_snail
+- msg_snail_computer_login
+- msg_snails
+- msg_son
+- msg_son.add_clone
+- msg_son.skin active
+- msg_son.tower_army
+- msg_son.tower_video
+- msg_son_action
+- msg_son_active
+- msg_son_add_cure
+- msg_son_army
+- msg_son_army_queue
+- msg_son_build
+- msg_son_clone
+- msg_son_clone_terminate
+- msg_son_convert
+- msg_son_cure
+- msg_son_cure queue_unlock bonus
+- msg_son_cure_action
+- msg_son_cure_cancel
+- msg_son_cure_delete
+- msg_son_drop
+- msg_son_equip
+- msg_son_equip_compose
+- msg_son_gene_active
+- msg_son_level_up
+- msg_son_skin level_up
+- msg_son_skin_reset
+- msg_son_speed up.result
+- msg_son_tower.core_lottery
+- msg_son_tower_bonus
+- msg_son_tower_example_action
+- msg_son_tower_free_draw
+- msg_son_tower_log
+- msg_son_tower_race_calc_level_up
+- msg_son_tower_rocket.soar
+- msg_son_tower_speed_up_cd
+- msg_sons
+- msg_soul_servant_action
+- msg_space_astrolabe_action
+- msg_space_beacon_event_choose
+- msg_space_beacon_event_end
+- msg_special tower.active
+- msg_special1_build_tower
+- msg_special_killer
+- msg_special_killer_finish
+- msg_special_killer_letter
+- msg_special_killers
+- msg_special_tower
+- msg_special_tower speed_up_cd
+- msg_special_tower_convert_bonus
+- msg_special_visitor
+- msg_special_visitor_finish
+- msg_special_visitors
+- msg_specialty_exchange_quick
+- msg_specialty_settle
+- msg_speed_up.start
+- msg_speed_up_end
+- msg_speed_up_ok
+- msg_speed_up_result
+- msg_spirit_achievement_action
+- msg_spirit_action
+- msg_spirit_combat_action
+- msg_spirit_lottery_action
+- msg_spirit_official_action
+- msg_spirit_official_order_action
+- msg_spirit_order_action
+- msg_spirit_round_lottery_action
+- msg_spirit_tower_action
+- msg_spirit_vinia_action
+- msg_sr_bonus
+- msg_start_persia_special_combat
+- msg_statue_resource.pick
+- msg_status_condition
+- msg_stele_action
+- msg_stock_investment_action
+- msg_super_lucky_box_action
+- msg_sutra.horse_skill up
+- msg_sutra_exchange_item
+- msg_switch.collection_skill
+- msg_switch_combat_preset
+- msg_system_mails
+- msg_take_user_back_bonus
+- msg_task consecrate_bonus
+- msg_task refresh_log
+- msg_task.consecrate_cost
+- msg_task_add_log
+- msg_task_bonus
+- msg_task_execute
+- msg_task_multi_execute
+- msg_task_quick_execute
+- msg_task_refresh_day
+- msg_task_refresh_week
+- msg_team_charge action
+- msg_tec_level_up
+- msg_tec_speed_up
+- msg_test_delay
+- msg_tetris_puzzle_action
+- msg_tier_boss_action
+- msg_time_machine_refit_action
+- msg_time_sand_exchange
+- msg_time_travel
+- msg_tiny_world_action
+- msg_title_bonus
+- msg_top_list
+- msg_top_rank
+- msg_tour end
+- msg_tour start
+- msg_tour.event_speed_up
+- msg_tour.god_arms_level_up
+- msg_tour.god_eggs_bonus
+- msg_tour_bonus
+- msg_tour_combat
+- msg_tour_event
+- msg_tour_event_convert
+- msg_tour_event_reset
+- msg_tour_extra_bonus
+- msg_tour_feature level_up
+- msg_tour_fetch_double
+- msg_tour_fetch_treasure
+- msg_tour_food_change
+- msg_tour_god cell_update
+- msg_tour_god_event.select
+- msg_tour_god_exchange_bonus
+- msg_tour_god_intelligence_bonus
+- msg_tour_move
+- msg_tour_move_end
+- msg_tour_next_event
+- msg_tour_resume
+- msg_tour_stop
+- msg_tourist
+- msg_tourists
+- msg_tower_action
+- msg_tower_bonus
+- msg_tower_speed_up_cd
+- msg_treasure_action
+- msg_treasure_box_bonus
+- msg_treasure_map_action
+- msg_treasure_trove
+- msg_treasure_trove select.item
+- msg_treasure_trove.clue
+- msg_treasure_trove_ask_combat
+- msg_treasure_trove_combat_bonus_clue
+- msg_treasure_trove_state
+- msg_tribe_affair action
+- msg_tribe_manual_unlock
+- msg_try_get_coupon
+- msg_turnplate bonus
+- msg_type_apply_bonus
+- msg_universe_upgrade_skill
+- msg_unlock_combat_preset
+- msg_update.dungeon_data
+- msg_update_csv
+- msg_uproar_heaven_action
+- msg_usa camp
+- msg_usa_hero
+- msg_usa_hero_level_up
+- msg_usa_hero_level_up.bonus
+- msg_usa_hero_rest
+- msg_user_back_action
+- msg_user_back_guide_action
+- msg_user_blacklist
+- msg_user_brief_extra_data
+- msg_user_mails
+- msg_vehicle
+- msg_vehicle_action
+- msg_ver_up_bonus
+- msg_verify_nickname_result
+- msg_veteran train
+- msg_visitor
+- msg_visitor_end
+- msg_visitor_select_item
+- msg_visitors
+- msg_war_buff_enchase
+- msg_war_buff_enchase_preset
+- msg_warship_action_done
+- msg_warship_update
+- msg_warships
+- msg_week collection compose
+- msg_week task_currency_compose
+- msg_week task_exchange
+- msg_week_lottery_eucal_top
+- msg_week_task lottery
+- msg_week_task_action
+- msg_week_task_rank
+- msg_week_wish_eucal me
+- msg_wish_eucal_history
+- msg_wish_eucal_me
+- msg_wish_eucal_min_history
+- msg_wish_eucal_min_me
+- msg_wish_eucal_min_top
+- msg_wish_eucal_top
+- msg_word
+- msg_zlib_msg
+

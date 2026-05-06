@@ -1,0 +1,64 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> 
+var libc = Process.findModuleByName('libc.so');
+var fopen = new NativeFunction(libc.findExportByName('fopen'), 'pointer', ['pointer', 'pointer']);
+var fgets = new NativeFunction(libc.findExportByName('fgets'), 'pointer', ['pointer', 'int', 'pointer']);
+var fclose = new NativeFunction(libc.findExportByName('fclose'), 'int', ['pointer']);
+var path = Memory.allocUtf8String('/proc/self/maps');
+var mode = Memory.allocUtf8String('r');
+var fp = fopen(path, mode);
+var buffer = Memory.alloc(2048);
+var base = null;
+while (true) {
+  var line = fgets(buffer, 2048, fp);
+  if (line.isNull()) break;
+  var str = buffer.readUtf8String();
+  if (str.indexOf('libcocos2dlua.so') !== -1) {
+    var parts = str.trim().split(/\s+/);
+    if (parts.length > 0) {
+      var addrRange = parts[0].split('-');
+      if (addrRange.length >= 2) {
+        base = ptr('0x' + addrRange[0]);
+        break;
+      }
+    }
+  }
+}
+fclose(fp);
+
+if (base) {
+  var ssl_read = base.add(0xca1020);
+  console.log('Hooking SSL_read @', ssl_read);
+  Interceptor.attach(ssl_read, {
+    onEnter: function(args) {
+      this.buf = args[1];
+      this.len = args[2].toInt32();
+    },
+    onLeave: function(retval) {
+      var ret = retval.toInt32();
+      if (ret > 0) {
+        console.log('SSL_read returned', ret, 'bytes');
+        var data = Memory.readByteArray(this.buf, Math.min(ret, 64));
+        console.log(hexdump(data, { offset: 0, length: Math.min(ret, 64), header: true }));
+      }
+    }
+  });
+} else {
+  console.log('Base not found');
+}
+
+Hooking SSL_read @ 0x78d130b0c020
+{}
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!

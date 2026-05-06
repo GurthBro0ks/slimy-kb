@@ -1,0 +1,180 @@
+/home/mint/.local/lib/python3.12/site-packages/OpenSSL/crypto.py:1231: CryptographyDeprecationWarning: Parsed a serial number which wasn't positive (i.e., it was negative or zero), which is disallowed by RFC 5280. Loading this certificate will cause an exception in a future release of cryptography.
+  return load_der_x509_certificate(der)
+[01:33:32.563] HTTP(S) proxy listening at *:8080.
+[01:34:07.689][127.0.0.1:56964] client connect
+[01:34:07.839][127.0.0.1:56964] server connect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:34:07.942][127.0.0.1:56964] Client TLS handshake failed. The client does not trust the proxy's certificate for jpush-hw-game.qcplay.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[01:34:07.943][127.0.0.1:56964] client disconnect
+[01:34:07.944][127.0.0.1:56964] server disconnect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:34:07.946][127.0.0.1:56972] client connect
+[01:34:08.023][127.0.0.1:56972] server connect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:34:08.088][127.0.0.1:56972] Client TLS handshake failed. The client does not trust the proxy's certificate for jpush-hw-game.qcplay.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[01:34:08.089][127.0.0.1:56978] client connect
+[01:34:08.091][127.0.0.1:56972] client disconnect
+[01:34:08.093][127.0.0.1:56972] server disconnect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:34:08.146][127.0.0.1:56978] server connect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:34:08.213][127.0.0.1:56978] Client TLS handshake failed. The client does not trust the proxy's certificate for jpush-hw-game.qcplay.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[01:34:08.214][127.0.0.1:56978] client disconnect
+[01:34:08.214][127.0.0.1:56978] server disconnect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:34:50.942][127.0.0.1:56076] client connect
+[01:34:51.207][127.0.0.1:56076] server connect qcplay.aihelp.net:443 (169.53.40.82:443)
+[01:34:51.330][127.0.0.1:56076] Client TLS handshake failed. The client does not trust the proxy's certificate for qcplay.aihelp.net (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[01:34:51.331][127.0.0.1:56076] client disconnect
+[01:34:51.333][127.0.0.1:56076] server disconnect qcplay.aihelp.net:443 (169.53.40.82:443)
+[01:35:06.900][127.0.0.1:46626] client connect
+[01:35:06.950][127.0.0.1:46626] server connect qcplay.aihelp.net:443 (169.61.195.139:443)
+[01:35:07.024][127.0.0.1:46626] Client TLS handshake failed. The client does not trust the proxy's certificate for qcplay.aihelp.net (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[01:35:07.024][127.0.0.1:46626] client disconnect
+[01:35:07.025][127.0.0.1:46626] server disconnect qcplay.aihelp.net:443 (169.61.195.139:443)
+[01:35:07.740][127.0.0.1:46636] client connect
+[01:35:07.800][127.0.0.1:46636] server connect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:35:07.866][127.0.0.1:46636] Client TLS handshake failed. The client does not trust the proxy's certificate for jpush-hw-game.qcplay.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[01:35:07.867][127.0.0.1:46636] client disconnect
+[01:35:07.867][127.0.0.1:46636] server disconnect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:35:07.871][127.0.0.1:46650] client connect
+[01:35:07.926][127.0.0.1:46650] server connect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:35:07.993][127.0.0.1:46650] Client TLS handshake failed. The client does not trust the proxy's certificate for jpush-hw-game.qcplay.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[01:35:07.995][127.0.0.1:46652] client connect
+[01:35:07.995][127.0.0.1:46650] client disconnect
+[01:35:07.996][127.0.0.1:46650] server disconnect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:35:08.052][127.0.0.1:46652] server connect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:35:08.126][127.0.0.1:46652] Client TLS handshake failed. The client does not trust the proxy's certificate for jpush-hw-game.qcplay.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[01:35:08.126][127.0.0.1:46652] client disconnect
+[01:35:08.127][127.0.0.1:46652] server disconnect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:35:08.939][127.0.0.1:46662] client connect
+[01:35:09.394][127.0.0.1:46662] server connect log.game.qcplay.com:80 (203.107.33.139:80)
+[01:35:09.394][127.0.0.1:46662] Streaming request to log.game.qcplay.com.
+[01:35:11.045][127.0.0.1:46662] Streaming response from log.game.qcplay.com.
+127.0.0.1:46662: POST http://log.game.qcplay.com/sync
+              << 200 OK (content missing)
+[01:35:41.239][127.0.0.1:46662] Streaming request to log.game.qcplay.com.
+[01:35:41.652][127.0.0.1:46662] Streaming response from log.game.qcplay.com.
+127.0.0.1:46662: POST http://log.game.qcplay.com/sync
+              << 200 OK (content missing)
+[01:36:07.801][127.0.0.1:47596] client connect
+[01:36:07.856][127.0.0.1:47596] server connect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:36:07.938][127.0.0.1:47596] Client TLS handshake failed. The client does not trust the proxy's certificate for jpush-hw-game.qcplay.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[01:36:07.940][127.0.0.1:47596] client disconnect
+[01:36:07.940][127.0.0.1:47596] server disconnect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:36:07.941][127.0.0.1:47604] client connect
+[01:36:08.015][127.0.0.1:47604] server connect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:36:08.097][127.0.0.1:47604] Client TLS handshake failed. The client does not trust the proxy's certificate for jpush-hw-game.qcplay.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[01:36:08.098][127.0.0.1:47604] client disconnect
+[01:36:08.098][127.0.0.1:47604] server disconnect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:36:08.099][127.0.0.1:47606] client connect
+[01:36:08.170][127.0.0.1:47606] server connect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:36:08.247][127.0.0.1:47606] Client TLS handshake failed. The client does not trust the proxy's certificate for jpush-hw-game.qcplay.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[01:36:08.247][127.0.0.1:47606] client disconnect
+[01:36:08.248][127.0.0.1:47606] server disconnect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:37:08.190][127.0.0.1:57882] client connect
+[01:37:08.278][127.0.0.1:57882] server connect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:37:08.364][127.0.0.1:57882] Streaming request to jpush-hw-game.qcplay.com.
+127.0.0.1:57882: POST https://jpush-hw-game.qcplay.com/v3/report
+              << 200 OK 0b
+[01:37:12.014][127.0.0.1:46662] Streaming request to log.game.qcplay.com.
+[01:37:12.885][127.0.0.1:46662] Streaming response from log.game.qcplay.com.
+127.0.0.1:46662: POST http://log.game.qcplay.com/sync
+              << 200 OK (content missing)
+[01:39:12.867][127.0.0.1:46662] server disconnect log.game.qcplay.com:80 (203.107.33.139:80)
+[01:39:13.780][127.0.0.1:46662] server connect log.game.qcplay.com:80 (203.107.33.139:80)
+[01:39:13.780][127.0.0.1:46662] Streaming request to log.game.qcplay.com.
+[01:39:14.023][127.0.0.1:46662] Streaming response from log.game.qcplay.com.
+127.0.0.1:46662: POST http://log.game.qcplay.com/sync
+              << 200 OK (content missing)
+[01:39:50.942][127.0.0.1:54598] client connect
+[01:39:51.381][127.0.0.1:54598] server connect qcplay.aihelp.net:443 (169.55.254.202:443)
+[01:39:51.652][127.0.0.1:54598] Streaming response from qcplay.aihelp.net.
+127.0.0.1:54598: GET https://qcplay.aihelp.net/elva/api/v3.0/message/fetch?a… HTTP/2.0
+     << HTTP/2.0 200 OK (content missing)
+[01:40:06.974][127.0.0.1:52890] client connect
+[01:40:07.025][127.0.0.1:52890] server connect qcplay.aihelp.net:443 (169.53.40.82:443)
+[01:40:07.236][127.0.0.1:52890] Streaming response from qcplay.aihelp.net.
+127.0.0.1:52890: GET https://qcplay.aihelp.net/elva/api/v3.0/message/fetch?a… HTTP/2.0
+     << HTTP/2.0 200 OK (content missing)
+[01:40:44.408][127.0.0.1:46662] Streaming request to log.game.qcplay.com.
+[01:40:44.648][127.0.0.1:46662] Streaming response from log.game.qcplay.com.
+127.0.0.1:46662: POST http://log.game.qcplay.com/sync
+              << 200 OK (content missing)
+[01:42:08.979][127.0.0.1:57882] client disconnect
+[01:42:08.979][127.0.0.1:57882] server disconnect jpush-hw-game.qcplay.com:443 (34.144.248.23:443)
+[01:42:44.666][127.0.0.1:46662] server disconnect log.game.qcplay.com:80 (203.107.33.139:80)
+[01:42:46.644][127.0.0.1:46662] server connect log.game.qcplay.com:80 (203.107.33.139:80)
+[01:42:46.645][127.0.0.1:46662] Streaming request to log.game.qcplay.com.
+[01:42:46.862][127.0.0.1:46662] Streaming response from log.game.qcplay.com.
+127.0.0.1:46662: POST http://log.game.qcplay.com/sync
+              << 200 OK (content missing)
+[01:43:21.019][127.0.0.1:46298] client connect
+[01:43:21.020][127.0.0.1:46308] client connect
+[01:43:21.631][127.0.0.1:46308] server connect connectivitycheck.gstatic.com:80 (142.251.41.131:80)
+[01:43:21.631][127.0.0.1:46298] server connect www.google.com:443 (142.251.155.119:443)
+127.0.0.1:46308: GET http://connectivitycheck.gstatic.com/generate_204
+              << 204 No Content 0b
+[01:43:21.782][127.0.0.1:46308] server disconnect connectivitycheck.gstatic.com:80 (142.251.41.131:80)
+[01:43:21.782][127.0.0.1:46308] client disconnect
+[01:43:22.298][127.0.0.1:46298] Client TLS handshake failed. The client does not trust the proxy's certificate for www.google.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[01:43:22.299][127.0.0.1:46298] client disconnect
+[01:43:22.299][127.0.0.1:46298] server disconnect www.google.com:443 (142.251.155.119:443)
+[01:43:22.300][127.0.0.1:46322] client connect
+[01:43:22.826][127.0.0.1:46322] server connect www.google.com:80 (142.251.152.119:80)
+127.0.0.1:46322: GET http://www.google.com/gen_204
+              << 204 No Content 0b
+[01:43:23.069][127.0.0.1:46322] server disconnect www.google.com:80 (142.251.152.119:80)
+[01:43:23.072][127.0.0.1:46322] client disconnect
+[01:44:46.942][127.0.0.1:46662] server disconnect log.game.qcplay.com:80 (203.107.33.139:80)
+[01:44:47.977][127.0.0.1:46662] server connect log.game.qcplay.com:80 (203.107.33.139:80)
+[01:44:47.978][127.0.0.1:46662] Streaming request to log.game.qcplay.com.
+[01:44:48.421][127.0.0.1:46662] Streaming response from log.game.qcplay.com.
+127.0.0.1:46662: POST http://log.game.qcplay.com/sync
+              << 200 OK (content missing)
+[01:44:51.693][127.0.0.1:54598] client disconnect
+[01:44:51.694][127.0.0.1:54598] server disconnect qcplay.aihelp.net:443 (169.55.254.202:443)
+[01:45:07.276][127.0.0.1:52890] client disconnect
+[01:45:07.276][127.0.0.1:52890] server disconnect qcplay.aihelp.net:443 (169.53.40.82:443)
+[01:46:48.158][127.0.0.1:46662] server disconnect log.game.qcplay.com:80 (203.107.33.139:80)
+[01:46:51.067][127.0.0.1:46662] server connect log.game.qcplay.com:80 (203.107.33.139:80)
+[01:46:51.067][127.0.0.1:46662] Streaming request to log.game.qcplay.com.
+[01:46:55.467][127.0.0.1:46662] Streaming response from log.game.qcplay.com.
+127.0.0.1:46662: POST http://log.game.qcplay.com/sync
+              << 200 OK (content missing)
+[01:48:55.357][127.0.0.1:46662] server disconnect log.game.qcplay.com:80 (203.107.33.139:80)
+[01:48:56.585][127.0.0.1:46662] server connect log.game.qcplay.com:80 (203.107.33.139:80)
+[01:48:56.586][127.0.0.1:46662] Streaming request to log.game.qcplay.com.
+[01:48:58.207][127.0.0.1:46662] Streaming response from log.game.qcplay.com.
+127.0.0.1:46662: POST http://log.game.qcplay.com/sync
+              << 200 OK (content missing)
+[01:50:58.305][127.0.0.1:46662] server disconnect log.game.qcplay.com:80 (203.107.33.139:80)
+[01:53:23.508][127.0.0.1:50996] client connect
+[01:53:23.508][127.0.0.1:50998] client connect
+[01:53:24.037][127.0.0.1:50998] server connect connectivitycheck.gstatic.com:80 (142.250.189.131:80)
+[01:53:24.049][127.0.0.1:50996] server connect www.google.com:443 (142.251.154.119:443)
+127.0.0.1:50998: GET http://connectivitycheck.gstatic.com/generate_204
+              << 204 No Content 0b
+[01:53:24.273][127.0.0.1:50998] server disconnect connectivitycheck.gstatic.com:80 (142.250.189.131:80)
+[01:53:24.274][127.0.0.1:50998] client disconnect
+[01:53:24.565][127.0.0.1:50996] Client TLS handshake failed. The client does not trust the proxy's certificate for www.google.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[01:53:24.566][127.0.0.1:50996] client disconnect
+[01:53:24.566][127.0.0.1:50996] server disconnect www.google.com:443 (142.251.154.119:443)
+[01:53:24.567][127.0.0.1:51010] client connect
+[01:53:25.104][127.0.0.1:51010] server connect www.google.com:80 (142.251.152.119:80)
+127.0.0.1:51010: GET http://www.google.com/gen_204
+              << 204 No Content 0b
+[01:53:25.359][127.0.0.1:51010] server disconnect www.google.com:80 (142.251.152.119:80)
+[01:53:25.360][127.0.0.1:51010] client disconnect
+[01:53:58.151][127.0.0.1:46662] client disconnect
+[02:03:25.841][127.0.0.1:60504] client connect
+[02:03:25.880][127.0.0.1:60512] client connect
+[02:03:26.344][127.0.0.1:60504] server connect connectivitycheck.gstatic.com:80 (142.250.177.67:80)
+[02:03:26.344][127.0.0.1:60512] server connect www.google.com:443 (142.251.155.119:443)
+127.0.0.1:60504: GET http://connectivitycheck.gstatic.com/generate_204
+              << 204 No Content 0b
+[02:03:26.574][127.0.0.1:60504] server disconnect connectivitycheck.gstatic.com:80 (142.250.177.67:80)
+[02:03:26.574][127.0.0.1:60504] client disconnect
+[02:03:26.885][127.0.0.1:60512] Client TLS handshake failed. The client does not trust the proxy's certificate for www.google.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[02:03:26.886][127.0.0.1:60522] client connect
+[02:03:26.887][127.0.0.1:60512] client disconnect
+[02:03:26.891][127.0.0.1:60512] server disconnect www.google.com:443 (142.251.155.119:443)
+[02:03:26.921][127.0.0.1:60522] server connect www.google.com:80 (142.251.153.119:80)
+127.0.0.1:60522: GET http://www.google.com/gen_204
+              << 204 No Content 0b
+[02:03:26.979][127.0.0.1:60522] server disconnect www.google.com:80 (142.251.153.119:80)
+[02:03:26.980][127.0.0.1:60522] client disconnect

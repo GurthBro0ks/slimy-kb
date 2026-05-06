@@ -1,0 +1,26 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[+] libc.so found @ 0x7f8aed697000
+[*] Phase 3 raw recv()/send() hook starting...
+[*] Target port: 50504 (0xC548)
+[*] Logging first 128 bytes of each packet only
+[+] Hooking connect @ 0x7f8aed6f82b0
+[+] Hooking recv @ 0x7f8aed706060
+[+] Hooking recvfrom @ 0x7f8aed750070
+[+] Hooking read @ 0x7f8aed74f1f0
+[+] Hooking send @ 0x7f8aed7069b0
+[+] Hooking sendto @ 0x7f8aed6f82e0
+[+] Hooking write @ 0x7f8aed74f210
+[+] All hooks applied. Waiting for game server connection...
+[+] Navigate the game to trigger protocol traffic.
+[Android Emulator 5554::PID::8296 ]-> 

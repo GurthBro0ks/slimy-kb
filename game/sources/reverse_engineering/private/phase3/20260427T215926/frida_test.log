@@ -1,0 +1,18 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> console.log(typeof Module.findExportByName); console.log(Module.findExportByName('libcocos2dlua.so', 'SSL_CTX_set_verify'));
+undefined
+TypeError: not a function
+    at <eval> (<input>:1)
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!

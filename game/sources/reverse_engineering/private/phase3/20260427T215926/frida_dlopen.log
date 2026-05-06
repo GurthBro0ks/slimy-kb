@@ -1,0 +1,22 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> 
+var dlopen = Module.findExportByName(null, 'dlopen');
+console.log('dlopen found:', dlopen);
+var android_dlopen_ext = Module.findExportByName(null, 'android_dlopen_ext');
+console.log('android_dlopen_ext found:', android_dlopen_ext);
+
+TypeError: not a function
+    at <eval> (<input>:2)
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!

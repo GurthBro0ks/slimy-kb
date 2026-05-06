@@ -1,0 +1,440 @@
+{
+  "Dance Calculator": [
+    {
+      "from_cell": "K12",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C41",
+      "formula": "=IF(L10 >= 10, 'Drifter Priority'!D41, 'Drifter Priority'!C41)"
+    },
+    {
+      "from_cell": "K12",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D41",
+      "formula": "=IF(L10 >= 10, 'Drifter Priority'!D41, 'Drifter Priority'!C41)"
+    },
+    {
+      "from_cell": "K13",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D42",
+      "formula": "=IF(L11 >= 10, 'Drifter Priority'!D42, 'Drifter Priority'!C42)"
+    },
+    {
+      "from_cell": "K13",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C42",
+      "formula": "=IF(L11 >= 10, 'Drifter Priority'!D42, 'Drifter Priority'!C42)"
+    },
+    {
+      "from_cell": "K14",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C43",
+      "formula": "=IF(L12 >= 10, 'Drifter Priority'!D43, 'Drifter Priority'!C43)"
+    },
+    {
+      "from_cell": "K14",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D43",
+      "formula": "=IF(L12 >= 10, 'Drifter Priority'!D43, 'Drifter Priority'!C43)"
+    },
+    {
+      "from_cell": "K15",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C123",
+      "formula": "=IF(L13 >= 10, 'Drifter Priority'!D123, 'Drifter Priority'!C123)"
+    },
+    {
+      "from_cell": "K15",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D123",
+      "formula": "=IF(L13 >= 10, 'Drifter Priority'!D123, 'Drifter Priority'!C123)"
+    },
+    {
+      "from_cell": "K16",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C285",
+      "formula": "=IF(L14 >= 10, 'Drifter Priority'!D285, 'Drifter Priority'!C285)"
+    },
+    {
+      "from_cell": "K16",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D285",
+      "formula": "=IF(L14 >= 10, 'Drifter Priority'!D285, 'Drifter Priority'!C285)"
+    },
+    {
+      "from_cell": "K17",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D286",
+      "formula": "=IF(L15 >= 10, 'Drifter Priority'!D286, 'Drifter Priority'!C286)"
+    },
+    {
+      "from_cell": "K17",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C286",
+      "formula": "=IF(L15 >= 10, 'Drifter Priority'!D286, 'Drifter Priority'!C286)"
+    },
+    {
+      "from_cell": "K18",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D108",
+      "formula": "=IF(L16 >= 10, 'Drifter Priority'!D108, 'Drifter Priority'!C108)"
+    },
+    {
+      "from_cell": "K18",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C108",
+      "formula": "=IF(L16 >= 10, 'Drifter Priority'!D108, 'Drifter Priority'!C108)"
+    },
+    {
+      "from_cell": "K19",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C28",
+      "formula": "=IF(L17 >= 10, 'Drifter Priority'!D28, 'Drifter Priority'!C28)"
+    },
+    {
+      "from_cell": "K19",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D28",
+      "formula": "=IF(L17 >= 10, 'Drifter Priority'!D28, 'Drifter Priority'!C28)"
+    },
+    {
+      "from_cell": "K20",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C267",
+      "formula": "=IF(L18 >= 10, 'Drifter Priority'!D267, 'Drifter Priority'!C267)"
+    },
+    {
+      "from_cell": "K20",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D267",
+      "formula": "=IF(L18 >= 10, 'Drifter Priority'!D267, 'Drifter Priority'!C267)"
+    },
+    {
+      "from_cell": "K21",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C122",
+      "formula": "=IF(L19 >= 10, 'Drifter Priority'!D122, 'Drifter Priority'!C122)"
+    },
+    {
+      "from_cell": "K21",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D122",
+      "formula": "=IF(L19 >= 10, 'Drifter Priority'!D122, 'Drifter Priority'!C122)"
+    }
+  ],
+  "Band Calculator": [
+    {
+      "from_cell": "G9",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D237",
+      "formula": "=IF(H7 >= 10, 'Drifter Priority'!D237, 'Drifter Priority'!C237)"
+    },
+    {
+      "from_cell": "G9",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C237",
+      "formula": "=IF(H7 >= 10, 'Drifter Priority'!D237, 'Drifter Priority'!C237)"
+    },
+    {
+      "from_cell": "B10",
+      "to_sheet": "Rift Anecdotes",
+      "to_range": "B174:G195",
+      "formula": "=VLOOKUP(B9,'Rift Anecdotes'!B174:G195,5,FALSE)"
+    },
+    {
+      "from_cell": "G10",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D236",
+      "formula": "=IF(H8 >= 10, 'Drifter Priority'!D236, 'Drifter Priority'!C236)"
+    },
+    {
+      "from_cell": "G10",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C236",
+      "formula": "=IF(H8 >= 10, 'Drifter Priority'!D236, 'Drifter Priority'!C236)"
+    },
+    {
+      "from_cell": "B11",
+      "to_sheet": "Rift Anecdotes",
+      "to_range": "B174:G195",
+      "formula": "=VLOOKUP(B9,'Rift Anecdotes'!B174:G195,6,FALSE)"
+    },
+    {
+      "from_cell": "G11",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C107",
+      "formula": "=IF(H9 >= 10, 'Drifter Priority'!D107, 'Drifter Priority'!C107)"
+    },
+    {
+      "from_cell": "G11",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D107",
+      "formula": "=IF(H9 >= 10, 'Drifter Priority'!D107, 'Drifter Priority'!C107)"
+    },
+    {
+      "from_cell": "G12",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D105",
+      "formula": "=IF(H10 >= 10, 'Drifter Priority'!D105, 'Drifter Priority'!C105)"
+    },
+    {
+      "from_cell": "G12",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C105",
+      "formula": "=IF(H10 >= 10, 'Drifter Priority'!D105, 'Drifter Priority'!C105)"
+    },
+    {
+      "from_cell": "G13",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D283",
+      "formula": "=IF(H11 >= 10, 'Drifter Priority'!D283, 'Drifter Priority'!C283)"
+    },
+    {
+      "from_cell": "G13",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C283",
+      "formula": "=IF(H11 >= 10, 'Drifter Priority'!D283, 'Drifter Priority'!C283)"
+    },
+    {
+      "from_cell": "G14",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C266",
+      "formula": "=IF(H12 >= 10, 'Drifter Priority'!D266, 'Drifter Priority'!C266)"
+    },
+    {
+      "from_cell": "G14",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D266",
+      "formula": "=IF(H12 >= 10, 'Drifter Priority'!D266, 'Drifter Priority'!C266)"
+    },
+    {
+      "from_cell": "G15",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C268",
+      "formula": "=IF(H13 >= 10, 'Drifter Priority'!D268, 'Drifter Priority'!C268)"
+    },
+    {
+      "from_cell": "G15",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D268",
+      "formula": "=IF(H13 >= 10, 'Drifter Priority'!D268, 'Drifter Priority'!C268)"
+    },
+    {
+      "from_cell": "G16",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C106",
+      "formula": "=IF(H14 >= 10, 'Drifter Priority'!D106, 'Drifter Priority'!C106)"
+    },
+    {
+      "from_cell": "G16",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D106",
+      "formula": "=IF(H14 >= 10, 'Drifter Priority'!D106, 'Drifter Priority'!C106)"
+    },
+    {
+      "from_cell": "G17",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D284",
+      "formula": "=IF(H15 >= 10, 'Drifter Priority'!D284, 'Drifter Priority'!C284)"
+    },
+    {
+      "from_cell": "G17",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C284",
+      "formula": "=IF(H15 >= 10, 'Drifter Priority'!D284, 'Drifter Priority'!C284)"
+    },
+    {
+      "from_cell": "G18",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D125",
+      "formula": "=IF(H16 >= 10, 'Drifter Priority'!D125, 'Drifter Priority'!C125)"
+    },
+    {
+      "from_cell": "G18",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C125",
+      "formula": "=IF(H16 >= 10, 'Drifter Priority'!D125, 'Drifter Priority'!C125)"
+    },
+    {
+      "from_cell": "G19",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D282",
+      "formula": "=IF(H17 >= 10, 'Drifter Priority'!D282, 'Drifter Priority'!C282)"
+    },
+    {
+      "from_cell": "G19",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C282",
+      "formula": "=IF(H17 >= 10, 'Drifter Priority'!D282, 'Drifter Priority'!C282)"
+    },
+    {
+      "from_cell": "G20",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C124",
+      "formula": "=IF(H18 >= 10, 'Drifter Priority'!D124, 'Drifter Priority'!C124)"
+    },
+    {
+      "from_cell": "G20",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D124",
+      "formula": "=IF(H18 >= 10, 'Drifter Priority'!D124, 'Drifter Priority'!C124)"
+    }
+  ],
+  "Sailing Calculator": [
+    {
+      "from_cell": "G11",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C299",
+      "formula": "=IF(H9 >= 10, 'Drifter Priority'!D299, 'Drifter Priority'!C299)"
+    },
+    {
+      "from_cell": "G11",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D299",
+      "formula": "=IF(H9 >= 10, 'Drifter Priority'!D299, 'Drifter Priority'!C299)"
+    },
+    {
+      "from_cell": "G12",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C298",
+      "formula": "=IF(H10 >= 10, 'Drifter Priority'!D298, 'Drifter Priority'!C298)"
+    },
+    {
+      "from_cell": "G12",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D298",
+      "formula": "=IF(H10 >= 10, 'Drifter Priority'!D298, 'Drifter Priority'!C298)"
+    },
+    {
+      "from_cell": "G13",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D300",
+      "formula": "=IF(H11 >= 10, 'Drifter Priority'!D300, 'Drifter Priority'!C300)"
+    },
+    {
+      "from_cell": "G13",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C300",
+      "formula": "=IF(H11 >= 10, 'Drifter Priority'!D300, 'Drifter Priority'!C300)"
+    },
+    {
+      "from_cell": "G14",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D314",
+      "formula": "=IF(H12 >= 10, 'Drifter Priority'!D314, 'Drifter Priority'!C314)"
+    },
+    {
+      "from_cell": "G14",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C314",
+      "formula": "=IF(H12 >= 10, 'Drifter Priority'!D314, 'Drifter Priority'!C314)"
+    },
+    {
+      "from_cell": "G15",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C315",
+      "formula": "=IF(H13 >= 10, 'Drifter Priority'!D315, 'Drifter Priority'!C315)"
+    },
+    {
+      "from_cell": "G15",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D315",
+      "formula": "=IF(H13 >= 10, 'Drifter Priority'!D315, 'Drifter Priority'!C315)"
+    },
+    {
+      "from_cell": "G16",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D316",
+      "formula": "=IF(H14 >= 10, 'Drifter Priority'!D316, 'Drifter Priority'!C316)"
+    },
+    {
+      "from_cell": "G16",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C316",
+      "formula": "=IF(H14 >= 10, 'Drifter Priority'!D316, 'Drifter Priority'!C316)"
+    },
+    {
+      "from_cell": "G17",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D330",
+      "formula": "=IF(H15 >= 10, 'Drifter Priority'!D330, 'Drifter Priority'!C330)"
+    },
+    {
+      "from_cell": "G17",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C330",
+      "formula": "=IF(H15 >= 10, 'Drifter Priority'!D330, 'Drifter Priority'!C330)"
+    },
+    {
+      "from_cell": "G18",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D331",
+      "formula": "=IF(H16 >= 10, 'Drifter Priority'!D331, 'Drifter Priority'!C331)"
+    },
+    {
+      "from_cell": "G18",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C331",
+      "formula": "=IF(H16 >= 10, 'Drifter Priority'!D331, 'Drifter Priority'!C331)"
+    },
+    {
+      "from_cell": "G19",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D332",
+      "formula": "=IF(H17 >= 10, 'Drifter Priority'!D332, 'Drifter Priority'!C332)"
+    },
+    {
+      "from_cell": "G19",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C332",
+      "formula": "=IF(H17 >= 10, 'Drifter Priority'!D332, 'Drifter Priority'!C332)"
+    },
+    {
+      "from_cell": "G20",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C188",
+      "formula": "=IF(H18 >= 10, 'Drifter Priority'!D188, 'Drifter Priority'!C188)"
+    },
+    {
+      "from_cell": "G20",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D188",
+      "formula": "=IF(H18 >= 10, 'Drifter Priority'!D188, 'Drifter Priority'!C188)"
+    },
+    {
+      "from_cell": "G21",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D189",
+      "formula": "=IF(H19 >= 10, 'Drifter Priority'!D189, 'Drifter Priority'!C189)"
+    },
+    {
+      "from_cell": "G21",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C189",
+      "formula": "=IF(H19 >= 10, 'Drifter Priority'!D189, 'Drifter Priority'!C189)"
+    },
+    {
+      "from_cell": "G22",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C77",
+      "formula": "=IF(H20 >= 10, 'Drifter Priority'!D77, 'Drifter Priority'!C77)"
+    },
+    {
+      "from_cell": "G22",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D77",
+      "formula": "=IF(H20 >= 10, 'Drifter Priority'!D77, 'Drifter Priority'!C77)"
+    },
+    {
+      "from_cell": "G23",
+      "to_sheet": "Drifter Priority",
+      "to_range": "D76",
+      "formula": "=IF(H21 >= 10, 'Drifter Priority'!D76, 'Drifter Priority'!C76)"
+    },
+    {
+      "from_cell": "G23",
+      "to_sheet": "Drifter Priority",
+      "to_range": "C76",
+      "formula": "=IF(H21 >= 10, 'Drifter Priority'!D76, 'Drifter Priority'!C76)"
+    }
+  ]
+}

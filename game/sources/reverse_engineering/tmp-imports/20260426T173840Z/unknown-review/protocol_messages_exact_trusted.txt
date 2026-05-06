@@ -1,0 +1,48 @@
+login@msgrelogin
+misc@msgactive.slot
+misc@msg_activity_roles
+misc@msg_alert
+misc@msgbbspraise
+misc@msgbbs_recommend
+misc@msg.bodyunlock
+misc@msg.collection
+misc@msg.collection_action
+misc@msgcompeteforspeed_action
+misc@msg eliminating.combatscenario
+misc@msg_equip_divide
+misc@msg equip exchange
+misc@msg.equipment
+misc@msgequipment.drop
+misc@msg_evolution_ceremony_start
+misc@msg_follower
+misc@msghandbook
+misc@msg_hero_active
+misc@msg_heros
+misc@msg.home
+misc@msgitem
+misc@msgmeme_bonus
+misc@msg.mistress_info
+misc@msgmistress list
+misc@msgnpc
+misc@msgorgan_divide
+misc@msg partner
+misc@msg partnerlightup
+misc@msgpartners
+misc@msgportraits
+misc@msg praisequery
+misc@msg_push
+misc@msg pyramid.active
+misc@msgraceaction
+misc@msg_redpack_bubble
+misc@msg_rocket_make
+misc@msg.sacrificedevil.refresh
+misc@msg.sacrifice speed_up.all
+misc@msg secretmission.complete
+misc@msg shuangdan2022jpaction
+misc@msg_special_tower
+misc@msg_sutra.horseskill up
+misc@msg_task.consecratecost
+misc@msg.tour.data
+misc@msg_usahero
+misc@msg user.brief
+misc@msg.week.taskmyrank

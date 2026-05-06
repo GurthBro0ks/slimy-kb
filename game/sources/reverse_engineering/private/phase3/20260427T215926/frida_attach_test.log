@@ -1,0 +1,26 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> 
+var targetAddr = ptr('0x78d1370df494');
+console.log('Attaching to:', targetAddr);
+Interceptor.attach(targetAddr, {
+  onEnter: function(args) {
+    console.log('SSL_CTX_set_verify called!');
+  }
+});
+console.log('Attached successfully');
+
+Attaching to: 0x78d1370df494
+Attached successfully
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!

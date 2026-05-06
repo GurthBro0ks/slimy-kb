@@ -1,0 +1,72 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> 
+var mods = Process.enumerateModules();
+console.log('Total modules:', mods.length);
+for (var i = 0; i < Math.min(mods.length, 50); i++) {
+  console.log(mods[i].name);
+}
+
+Total modules: 331
+app_process64
+linker64
+libandroid_runtime.so
+libbinder.so
+libcutils.so
+libhidlbase.so
+liblog.so
+libnativeloader.so
+libsigchain.so
+libutils.so
+libwilhelm.so
+libc++.so
+libc.so
+libm.so
+libdl.so
+libbase.so
+libharfbuzz_ng.so
+libminikin.so
+libz.so
+android.media.audio.common.types-V2-cpp.so
+audioclient-types-aidl-cpp.so
+audioflinger-aidl-cpp.so
+audiopolicy-types-aidl-cpp.so
+spatializer-aidl-cpp.so
+av-types-aidl-cpp.so
+android.hardware.camera.device@3.2.so
+libandroid_net.so
+libbattery.so
+libnetdutils.so
+libmemtrack.so
+libandroidfw.so
+libappfuse.so
+libcrypto.so
+libdebuggerd_client.so
+libbinder_ndk.so
+libui.so
+libgraphicsenv.so
+libgui.so
+libhwui.so
+libmediandk.so
+libpermission.so
+libPlatformProperties.so
+libsensor.so
+libinput.so
+libicu.so
+libcamera_client.so
+libcamera_metadata.so
+libprocinfo.so
+libsqlite.so
+libEGL.so
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!

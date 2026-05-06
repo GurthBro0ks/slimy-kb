@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-04-28T18:41:39.095346",
+  "packets": {
+    "rx": 0,
+    "tx": 0
+  },
+  "frame_sizes": [],
+  "message_types": [],
+  "has_4d5a_frames": false,
+  "readable_strings_found": false,
+  "compression_detected": false,
+  "encryption_likely": false,
+  "duration_seconds": 0
+}

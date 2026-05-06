@@ -1,0 +1,3679 @@
+{
+  "total_families": 184,
+  "families": [
+    {
+      "pattern": "=[CELL]-[CELL]",
+      "count": 704,
+      "sheets": [
+        "Band Calculator",
+        "DNA Costs",
+        "Dragon DNA Costs",
+        "Hitmen",
+        "Minion Base Stats",
+        "Offering Speed",
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Offering Speed",
+          "cell": "B48",
+          "formula": "=B46-B47"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "B5",
+          "formula": "=B6-B$28"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "C5",
+          "formula": "=C6-C$28"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+[CELL]",
+      "count": 628,
+      "sheets": [
+        "Cells Gained",
+        "Compass",
+        "Dragon DNA Costs",
+        "Drifter Stats",
+        "Minion Base Stats",
+        "Museum",
+        "Rocket Cabin Effects"
+      ],
+      "examples": [
+        {
+          "sheet": "Cells Gained",
+          "cell": "B117",
+          "formula": "=$B$57+D108"
+        },
+        {
+          "sheet": "Cells Gained",
+          "cell": "C117",
+          "formula": "=$C$57+F108"
+        },
+        {
+          "sheet": "Cells Gained",
+          "cell": "D117",
+          "formula": "=$D$57+H108"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]",
+      "count": 596,
+      "sheets": [
+        "Band Calculator",
+        "Compass",
+        "Dance Calculator",
+        "Dragon DNA Costs",
+        "Minion Base Stats",
+        "Minion Boosts",
+        "Museum",
+        "Rocket Cabin Effects",
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E32",
+          "formula": "=K13"
+        },
+        {
+          "sheet": "Museum",
+          "cell": "H32",
+          "formula": "=H13"
+        },
+        {
+          "sheet": "Museum",
+          "cell": "E33",
+          "formula": "=J16"
+        }
+      ]
+    },
+    {
+      "pattern": "=sum([CELL]:[CELL])",
+      "count": 350,
+      "sheets": [
+        "Cells Gained",
+        "Compass",
+        "Cost Reductions",
+        "DNA Costs",
+        "Dragon DNA Costs",
+        "Fungus Farm",
+        "Gene Research",
+        "Leadership",
+        "Lottery",
+        "Minion Boosts",
+        "Quantum Amp",
+        "Quarry",
+        "Rocket Cabin Effects",
+        "Sailing Calculator",
+        "Tadpole Pond",
+        "Time Machine"
+      ],
+      "examples": [
+        {
+          "sheet": "Gene Research",
+          "cell": "D6",
+          "formula": "=sum(D3:E5)"
+        },
+        {
+          "sheet": "Gene Research",
+          "cell": "F6",
+          "formula": "=sum(F3:G5)"
+        },
+        {
+          "sheet": "Gene Research",
+          "cell": "H6",
+          "formula": "=sum(H3:I5)"
+        }
+      ]
+    },
+    {
+      "pattern": "=([CELL]+[CELL])/[CELL]",
+      "count": 262,
+      "sheets": [
+        "Minion Boosts"
+      ],
+      "examples": [
+        {
+          "sheet": "Minion Boosts",
+          "cell": "I3",
+          "formula": "=(D3+E3)/H3"
+        },
+        {
+          "sheet": "Minion Boosts",
+          "cell": "I4",
+          "formula": "=(D4+E4)/H4"
+        },
+        {
+          "sheet": "Minion Boosts",
+          "cell": "I5",
+          "formula": "=(D5+E5)/H5"
+        }
+      ]
+    },
+    {
+      "pattern": "=SUM(OFFSET([CELL],1,0,[CELL]))",
+      "count": 240,
+      "sheets": [
+        "Protomon"
+      ],
+      "examples": [
+        {
+          "sheet": "Protomon",
+          "cell": "K71",
+          "formula": "=SUM(OFFSET($J$70,1,0,I71))"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "K72",
+          "formula": "=SUM(OFFSET($J$70,1,0,I72))"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "K73",
+          "formula": "=SUM(OFFSET($J$70,1,0,I73))"
+        }
+      ]
+    },
+    {
+      "pattern": "=SUM([CELL]:[CELL])",
+      "count": 233,
+      "sheets": [
+        "DNA Costs",
+        "Dragon DNA Costs",
+        "Gene Research",
+        "Leadership",
+        "Lumber Camp",
+        "Museum",
+        "Offering Speed",
+        "Tadpole Pond",
+        "Time Machine",
+        "Travel Speed"
+      ],
+      "examples": [
+        {
+          "sheet": "Offering Speed",
+          "cell": "D9",
+          "formula": "=SUM(D2:E8)"
+        },
+        {
+          "sheet": "Offering Speed",
+          "cell": "D37",
+          "formula": "=SUM(D24:E36)"
+        },
+        {
+          "sheet": "Travel Speed",
+          "cell": "D10",
+          "formula": "=SUM(D3:F9)"
+        }
+      ]
+    },
+    {
+      "pattern": "=60*([CELL]+1) + 20*MAX([CELL]-60, 0)",
+      "count": 181,
+      "sheets": [
+        "Protomon"
+      ],
+      "examples": [
+        {
+          "sheet": "Protomon",
+          "cell": "J130",
+          "formula": "=60*(I129+1) + 20*MAX(I130-60, 0)"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "J131",
+          "formula": "=60*(I130+1) + 20*MAX(I131-60, 0)"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "J132",
+          "formula": "=60*(I131+1) + 20*MAX(I132-60, 0)"
+        }
+      ]
+    },
+    {
+      "pattern": "=([CELL]-[CELL]*120)/[CELL]",
+      "count": 168,
+      "sheets": [
+        "Drifter Stats"
+      ],
+      "examples": [
+        {
+          "sheet": "Drifter Stats",
+          "cell": "B4",
+          "formula": "=(AG3-AH3*120)/$AF3"
+        },
+        {
+          "sheet": "Drifter Stats",
+          "cell": "D4",
+          "formula": "=(AI3-AJ3*120)/$AF3"
+        },
+        {
+          "sheet": "Drifter Stats",
+          "cell": "F4",
+          "formula": "=(AK3-AL3*120)/$AF3"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+[CELL]+[CELL]",
+      "count": 98,
+      "sheets": [
+        "Cells Gained",
+        "DNA Costs",
+        "Dragon DNA Costs",
+        "Drifter Stats",
+        "Fungus Farm",
+        "Gene Research",
+        "Lumber Camp",
+        "Quarry",
+        "Tadpole Pond",
+        "Time Machine"
+      ],
+      "examples": [
+        {
+          "sheet": "Gene Research",
+          "cell": "B291",
+          "formula": "=B56+D73+D102"
+        },
+        {
+          "sheet": "Gene Research",
+          "cell": "C291",
+          "formula": "=B56+D113+D138"
+        },
+        {
+          "sheet": "Gene Research",
+          "cell": "D291",
+          "formula": "=B56+D150+D178"
+        }
+      ]
+    },
+    {
+      "pattern": "=([CELL]-[CELL])/4",
+      "count": 80,
+      "sheets": [
+        "Minion Base Stats"
+      ],
+      "examples": [
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "B4",
+          "formula": "=(B13-B11)/4"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "C4",
+          "formula": "=(C13-C11)/4"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "D4",
+          "formula": "=(D13-D11)/4"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*28",
+      "count": 65,
+      "sheets": [
+        "Relic Albums"
+      ],
+      "examples": [
+        {
+          "sheet": "Relic Albums",
+          "cell": "C2",
+          "formula": "=A2*28"
+        },
+        {
+          "sheet": "Relic Albums",
+          "cell": "C3",
+          "formula": "=A3*28"
+        },
+        {
+          "sheet": "Relic Albums",
+          "cell": "C4",
+          "formula": "=A4*28"
+        }
+      ]
+    },
+    {
+      "pattern": "=60*([CELL]+1)",
+      "count": 58,
+      "sheets": [
+        "Protomon"
+      ],
+      "examples": [
+        {
+          "sheet": "Protomon",
+          "cell": "J72",
+          "formula": "=60*(I71+1)"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "J73",
+          "formula": "=60*(I72+1)"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "J74",
+          "formula": "=60*(I73+1)"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]",
+      "count": 47,
+      "sheets": [
+        "DNA Costs",
+        "Dragon DNA Costs",
+        "Drifter Stats",
+        "Fungus Farm",
+        "Lumber Camp",
+        "Quarry",
+        "Tadpole Pond",
+        "Time Machine"
+      ],
+      "examples": [
+        {
+          "sheet": "Tadpole Pond",
+          "cell": "B88",
+          "formula": "=F16+F19+F58+F84+F30+F24+F39+F36"
+        },
+        {
+          "sheet": "Fungus Farm",
+          "cell": "B83",
+          "formula": "=D16+D27+D52+D80+D21+D33+D24+D30"
+        },
+        {
+          "sheet": "Time Machine",
+          "cell": "B104",
+          "formula": "=H18+H67+H99+H21+H24+H30+H39+H45"
+        }
+      ]
+    },
+    {
+      "pattern": "=([CELL]+[CELL])*IF([CELL]>0, 1, 0)",
+      "count": 38,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "B49",
+          "formula": "=(F48+$B$23)*IF(F48>0, 1, 0)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "E49",
+          "formula": "=(E48+$B$28)*IF(B49>0, 1, 0)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "B50",
+          "formula": "=(F49+$B$23)*IF(F49>0, 1, 0)"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL] >= 10, 'Drifter Priority'![CELL], 'Drifter Priority'![CELL])",
+      "count": 35,
+      "sheets": [
+        "Band Calculator",
+        "Dance Calculator",
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "K12",
+          "formula": "=IF(L10 >= 10, 'Drifter Priority'!D41, 'Drifter Priority'!C41)"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "K13",
+          "formula": "=IF(L11 >= 10, 'Drifter Priority'!D42, 'Drifter Priority'!C42)"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "K14",
+          "formula": "=IF(L12 >= 10, 'Drifter Priority'!D43, 'Drifter Priority'!C43)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],12,FALSE)",
+      "count": 30,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "L32",
+          "formula": "=VLOOKUP($C32,$A$3:$R$25,12,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "L33",
+          "formula": "=VLOOKUP($C33,$A$3:$R$25,12,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "L34",
+          "formula": "=VLOOKUP($C34,$A$3:$R$25,12,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],13,FALSE)",
+      "count": 30,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "M32",
+          "formula": "=VLOOKUP($C32,$A$3:$R$25,13,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "M33",
+          "formula": "=VLOOKUP($C33,$A$3:$R$25,13,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "M34",
+          "formula": "=VLOOKUP($C34,$A$3:$R$25,13,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],14,FALSE)",
+      "count": 30,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "N32",
+          "formula": "=VLOOKUP($C32,$A$3:$R$25,14,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "N33",
+          "formula": "=VLOOKUP($C33,$A$3:$R$25,14,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "N34",
+          "formula": "=VLOOKUP($C34,$A$3:$R$25,14,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],15,FALSE)",
+      "count": 30,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "O32",
+          "formula": "=VLOOKUP($C32,$A$3:$R$25,15,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "O33",
+          "formula": "=VLOOKUP($C33,$A$3:$R$25,15,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "O34",
+          "formula": "=VLOOKUP($C34,$A$3:$R$25,15,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],16,FALSE)",
+      "count": 30,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "P32",
+          "formula": "=VLOOKUP($C32,$A$3:$R$25,16,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "P33",
+          "formula": "=VLOOKUP($C33,$A$3:$R$25,16,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "P34",
+          "formula": "=VLOOKUP($C34,$A$3:$R$25,16,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],17,FALSE)",
+      "count": 30,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "Q32",
+          "formula": "=VLOOKUP($C32,$A$3:$R$25,17,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "Q33",
+          "formula": "=VLOOKUP($C33,$A$3:$R$25,17,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "Q34",
+          "formula": "=VLOOKUP($C34,$A$3:$R$25,17,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]/10+[CELL]+[CELL]+[CELL]",
+      "count": 30,
+      "sheets": [
+        "Minion Base Stats"
+      ],
+      "examples": [
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "M18",
+          "formula": "=I18/10+J18+K18+L18"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "M19",
+          "formula": "=I19/10+J19+K19+L19"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "M20",
+          "formula": "=I20/10+J20+K20+L20"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*8",
+      "count": 28,
+      "sheets": [
+        "Relic Albums"
+      ],
+      "examples": [
+        {
+          "sheet": "Relic Albums",
+          "cell": "C168",
+          "formula": "=A168*8"
+        },
+        {
+          "sheet": "Relic Albums",
+          "cell": "C169",
+          "formula": "=A169*8"
+        },
+        {
+          "sheet": "Relic Albums",
+          "cell": "C170",
+          "formula": "=A170*8"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],4,FALSE)+VLOOKUP([CELL],[CELL]:[CELL],18,FALSE)",
+      "count": 23,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "G32",
+          "formula": "=VLOOKUP($C32,$A$3:$R$25,4,FALSE)+VLOOKUP($C32,$A$3:$R$25,18,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "G33",
+          "formula": "=VLOOKUP($C33,$A$3:$R$25,4,FALSE)+VLOOKUP($C33,$A$3:$R$25,18,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "G34",
+          "formula": "=VLOOKUP($C34,$A$3:$R$25,4,FALSE)+VLOOKUP($C34,$A$3:$R$25,18,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],9,FALSE)",
+      "count": 22,
+      "sheets": [
+        "Compass",
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "I33",
+          "formula": "=VLOOKUP($C33,$A$3:$R$25,9,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "I34",
+          "formula": "=VLOOKUP($C34,$A$3:$R$25,9,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "I36",
+          "formula": "=VLOOKUP($C36,$A$3:$R$25,9,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],8,FALSE)",
+      "count": 22,
+      "sheets": [
+        "Compass",
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "H34",
+          "formula": "=VLOOKUP($C34,$A$3:$R$25,8,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "H35",
+          "formula": "=VLOOKUP($C35,$A$3:$R$25,8,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "H36",
+          "formula": "=VLOOKUP($C36,$A$3:$R$25,8,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+3*[CELL]",
+      "count": 20,
+      "sheets": [
+        "Minion Base Stats"
+      ],
+      "examples": [
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "B269",
+          "formula": "=B268+3*B260"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "C269",
+          "formula": "=C268+3*C260"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "D269",
+          "formula": "=D268+3*D260"
+        }
+      ]
+    },
+    {
+      "pattern": "=([CELL]-[CELL])/2",
+      "count": 20,
+      "sheets": [
+        "Minion Base Stats"
+      ],
+      "examples": [
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "B324",
+          "formula": "=(B332-B331)/2"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "C324",
+          "formula": "=(C332-C331)/2"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "D324",
+          "formula": "=(D332-D331)/2"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*IF(COUNTIF([CELL]:[CELL], [CELL])>0, 1, 0)",
+      "count": 20,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "D2",
+          "formula": "=$I$22*IF(COUNTIF($A$11:$A$14, $F$22)>0, 1, 0)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "E2",
+          "formula": "=$I$14*IF(COUNTIF($A$11:$A$14, $F$14)>0, 1, 0)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "G2",
+          "formula": "=$I$13*IF(COUNTIF($A$11:$A$14, $F$13)>0, 1, 0)"
+        }
+      ]
+    },
+    {
+      "pattern": "=([CELL]*[CELL]*(1.5+[CELL])+[CELL]*(1-[CELL]))*IF([CELL]>0, 1, 0)",
+      "count": 20,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "D48",
+          "formula": "=(C48*$B$25*(1.5+$B$26)+C48*(1-$B$25))*IF(B48>0, 1, 0)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "D49",
+          "formula": "=(C49*$B$25*(1.5+$B$26)+C49*(1-$B$25))*IF(B49>0, 1, 0)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "D50",
+          "formula": "=(C50*$B$25*(1.5+$B$26)+C50*(1-$B$25))*IF(B50>0, 1, 0)"
+        }
+      ]
+    },
+    {
+      "pattern": "=MAX(([CELL]-[CELL]*(1-[CELL])), 0)",
+      "count": 20,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "F48",
+          "formula": "=MAX((B48-E48*(1-$B$22)), 0)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "F49",
+          "formula": "=MAX((B49-E49*(1-$B$22)), 0)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "F50",
+          "formula": "=MAX((B50-E50*(1-$B$22)), 0)"
+        }
+      ]
+    },
+    {
+      "pattern": "=([CELL]+([CELL]-1)*[CELL]+FLOOR((1-[CELL]/[CELL])*10,1)*[CELL])*IF([CELL]>0, 1, 0)",
+      "count": 19,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "C49",
+          "formula": "=($B$18+(A49-1)*$B$24+FLOOR((1-B49/$B$19)*10,1)*$B$27)*IF(B49>0, 1, 0)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "C50",
+          "formula": "=($B$18+(A50-1)*$B$24+FLOOR((1-B50/$B$19)*10,1)*$B$27)*IF(B50>0, 1, 0)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "C51",
+          "formula": "=($B$18+(A51-1)*$B$24+FLOOR((1-B51/$B$19)*10,1)*$B$27)*IF(B51>0, 1, 0)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],10,FALSE)",
+      "count": 18,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "J33",
+          "formula": "=VLOOKUP($C33,$A$3:$R$25,10,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "J35",
+          "formula": "=VLOOKUP($C35,$A$3:$R$25,10,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "J36",
+          "formula": "=VLOOKUP($C36,$A$3:$R$25,10,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],11,FALSE)",
+      "count": 18,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "K33",
+          "formula": "=VLOOKUP($C33,$A$3:$R$25,11,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "K34",
+          "formula": "=VLOOKUP($C34,$A$3:$R$25,11,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "K35",
+          "formula": "=VLOOKUP($C35,$A$3:$R$25,11,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]/2",
+      "count": 16,
+      "sheets": [
+        "Minion Base Stats"
+      ],
+      "examples": [
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "B260",
+          "formula": "=B261/2"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "C260",
+          "formula": "=C261/2"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "D260",
+          "formula": "=D261/2"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]/24",
+      "count": 14,
+      "sheets": [
+        "DNA Costs",
+        "Dragon DNA Costs",
+        "Offering Speed"
+      ],
+      "examples": [
+        {
+          "sheet": "Offering Speed",
+          "cell": "B49",
+          "formula": "=B48/24"
+        },
+        {
+          "sheet": "Offering Speed",
+          "cell": "C49",
+          "formula": "=C48/24"
+        },
+        {
+          "sheet": "DNA Costs",
+          "cell": "C98",
+          "formula": "=B98/24"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*(280/2)",
+      "count": 14,
+      "sheets": [
+        "Relic Albums"
+      ],
+      "examples": [
+        {
+          "sheet": "Relic Albums",
+          "cell": "C80",
+          "formula": "=A80*(280/2)"
+        },
+        {
+          "sheet": "Relic Albums",
+          "cell": "C81",
+          "formula": "=A81*(280/2)"
+        },
+        {
+          "sheet": "Relic Albums",
+          "cell": "C82",
+          "formula": "=A82*(280/2)"
+        }
+      ]
+    },
+    {
+      "pattern": "=CEILING([CELL]*280/3,1)",
+      "count": 14,
+      "sheets": [
+        "Relic Albums"
+      ],
+      "examples": [
+        {
+          "sheet": "Relic Albums",
+          "cell": "C112",
+          "formula": "=CEILING(A112*280/3,1)"
+        },
+        {
+          "sheet": "Relic Albums",
+          "cell": "C113",
+          "formula": "=CEILING(A113*280/3,1)"
+        },
+        {
+          "sheet": "Relic Albums",
+          "cell": "C114",
+          "formula": "=CEILING(A114*280/3,1)"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+[CELL]+[CELL]+[CELL]",
+      "count": 13,
+      "sheets": [
+        "Cells Gained",
+        "Dragon DNA Costs",
+        "Gene Research",
+        "Lottery"
+      ],
+      "examples": [
+        {
+          "sheet": "Gene Research",
+          "cell": "B294",
+          "formula": "=B59+J73+J76+J102"
+        },
+        {
+          "sheet": "Gene Research",
+          "cell": "D294",
+          "formula": "=B59+J150+J153+J178"
+        },
+        {
+          "sheet": "Gene Research",
+          "cell": "E294",
+          "formula": "=B59+J190+J193+J217"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*FLOOR(10*([CELL]*(1+SUM([CELL]:[CELL]))*3)*(1+[CELL]),1)/10",
+      "count": 12,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "K2",
+          "formula": "=B2*FLOOR(10*(C2*(1+SUM(D2:G2))*3)*(1+I2),1)/10"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "L2",
+          "formula": "=B2*FLOOR(10*(C2*(1+SUM(D2:H2))*3)*(1+I2),1)/10"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "K3",
+          "formula": "=B3*FLOOR(10*(C3*(1+SUM(D3:G3))*3)*(1+I3),1)/10"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]/(1+[CELL]/100)",
+      "count": 11,
+      "sheets": [
+        "Offering Speed",
+        "Travel Speed"
+      ],
+      "examples": [
+        {
+          "sheet": "Offering Speed",
+          "cell": "C43",
+          "formula": "=$B43/(1+$B$40/100)"
+        },
+        {
+          "sheet": "Offering Speed",
+          "cell": "C44",
+          "formula": "=$B44/(1+$B$40/100)"
+        },
+        {
+          "sheet": "Offering Speed",
+          "cell": "C46",
+          "formula": "=$B46/(1+$B$40/100)"
+        }
+      ]
+    },
+    {
+      "pattern": "=7*3*7*[CELL]",
+      "count": 11,
+      "sheets": [
+        "Relic Albums"
+      ],
+      "examples": [
+        {
+          "sheet": "Relic Albums",
+          "cell": "C151",
+          "formula": "=7*3*7*A151"
+        },
+        {
+          "sheet": "Relic Albums",
+          "cell": "C152",
+          "formula": "=7*3*7*A152"
+        },
+        {
+          "sheet": "Relic Albums",
+          "cell": "C153",
+          "formula": "=7*3*7*A153"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+[CELL]+[CELL]+[CELL]+[CELL]",
+      "count": 10,
+      "sheets": [
+        "Gene Research",
+        "Lottery",
+        "Quantum Amp",
+        "Travel Speed"
+      ],
+      "examples": [
+        {
+          "sheet": "Travel Speed",
+          "cell": "B64",
+          "formula": "=D10+D13+D38+D61+D16"
+        },
+        {
+          "sheet": "Gene Research",
+          "cell": "B57",
+          "formula": "=F6+F14+F35+F54+F26"
+        },
+        {
+          "sheet": "Quantum Amp",
+          "cell": "D40",
+          "formula": "=D30+D32+D34+D36+D38"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*(1+[CELL]/100)",
+      "count": 10,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "V33",
+          "formula": "=$Z$66*(1+I37/100)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "V34",
+          "formula": "=$Z$67*(1+J37/100)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "V71",
+          "formula": "=$Z$66*(1+I75/100)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],3,FALSE)",
+      "count": 10,
+      "sheets": [
+        "Compass",
+        "Partner Research Costs",
+        "Protomon"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "F233",
+          "formula": "=VLOOKUP($B233,$A$208:$G$226,3,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "F234",
+          "formula": "=VLOOKUP($B234,$A$208:$G$226,3,FALSE)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "F235",
+          "formula": "=VLOOKUP($B235,$A$208:$G$226,3,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=50*[CELL]",
+      "count": 10,
+      "sheets": [
+        "Dance Calculator",
+        "Minion Base Stats"
+      ],
+      "examples": [
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "M5",
+          "formula": "=50*I5"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "M6",
+          "formula": "=50*I6"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "M7",
+          "formula": "=50*I7"
+        }
+      ]
+    },
+    {
+      "pattern": "=52.5*[CELL]",
+      "count": 9,
+      "sheets": [
+        "Minion Base Stats"
+      ],
+      "examples": [
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "N5",
+          "formula": "=52.5*J5"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "N6",
+          "formula": "=52.5*J6"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "N7",
+          "formula": "=52.5*J7"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],2,FALSE)",
+      "count": 9,
+      "sheets": [
+        "Partner Research Costs",
+        "Protomon"
+      ],
+      "examples": [
+        {
+          "sheet": "Partner Research Costs",
+          "cell": "B7",
+          "formula": "=VLOOKUP($B$3,$A$23:$H$51,2,FALSE)"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "A10",
+          "formula": "=VLOOKUP($B6,$B$45:$F$176,2,FALSE)"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "D10",
+          "formula": "=VLOOKUP(B10,$I$46:$Q$49,2,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*280",
+      "count": 8,
+      "sheets": [
+        "Relic Albums"
+      ],
+      "examples": [
+        {
+          "sheet": "Relic Albums",
+          "cell": "C99",
+          "formula": "=A99*280"
+        },
+        {
+          "sheet": "Relic Albums",
+          "cell": "C100",
+          "formula": "=A100*280"
+        },
+        {
+          "sheet": "Relic Albums",
+          "cell": "C101",
+          "formula": "=A101*280"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]",
+      "count": 6,
+      "sheets": [
+        "Fungus Farm",
+        "Gene Research",
+        "Offering Speed",
+        "Quantum Amp",
+        "Tadpole Pond"
+      ],
+      "examples": [
+        {
+          "sheet": "Offering Speed",
+          "cell": "B40",
+          "formula": "=D9+D12+D37+D21+D15+D18"
+        },
+        {
+          "sheet": "Gene Research",
+          "cell": "B58",
+          "formula": "=H6+H14+H19+H35+H54+H26"
+        },
+        {
+          "sheet": "Tadpole Pond",
+          "cell": "B89",
+          "formula": "=H16+H58+H84+H19+H30+H39"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+SUM([CELL]:[CELL])",
+      "count": 6,
+      "sheets": [
+        "Travel Speed"
+      ],
+      "examples": [
+        {
+          "sheet": "Travel Speed",
+          "cell": "B72",
+          "formula": "=$B$64+SUM(D70:D71)"
+        },
+        {
+          "sheet": "Travel Speed",
+          "cell": "B78",
+          "formula": "=$B$64+SUM(D76:D77)"
+        },
+        {
+          "sheet": "Travel Speed",
+          "cell": "B85",
+          "formula": "=$B$64+SUM(D82:D84)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],8,FALSE)+VLOOKUP([CELL],[CELL]:[CELL],2)",
+      "count": 6,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "H32",
+          "formula": "=VLOOKUP($C32,$A$3:$R$25,8,FALSE)+VLOOKUP($G32,$Y$2:$AA$50,2)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "H70",
+          "formula": "=VLOOKUP($C70,$A$43:$R$63,8,FALSE)+VLOOKUP($G70,$Y$2:$AA$50,2)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "H107",
+          "formula": "=VLOOKUP($C107,$A$80:$R$100,8,FALSE)+VLOOKUP(G107,$Y$2:$AA$50,2)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],9,FALSE)+VLOOKUP([CELL],[CELL]:[CELL],2)",
+      "count": 6,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "I32",
+          "formula": "=VLOOKUP($C32,$A$3:$R$25,9,FALSE)+VLOOKUP($G32,$Y$2:$AA$50,2)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "I70",
+          "formula": "=VLOOKUP($C70,$A$43:$R$63,9,FALSE)+VLOOKUP($G70,$Y$2:$AA$50,2)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "I107",
+          "formula": "=VLOOKUP($C107,$A$80:$R$100,9,FALSE)+VLOOKUP(G107,$Y$2:$AA$50,2)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],10,FALSE)+VLOOKUP([CELL],[CELL]:[CELL],2)",
+      "count": 6,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "J32",
+          "formula": "=VLOOKUP($C32,$A$3:$R$25,10,FALSE)+VLOOKUP($G32,$Y$2:$AA$50,2)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "J70",
+          "formula": "=VLOOKUP($C70,$A$43:$R$63,10,FALSE)+VLOOKUP($G70,$Y$2:$AA$50,2)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "J107",
+          "formula": "=VLOOKUP($C107,$A$80:$R$100,10,FALSE)+VLOOKUP(G107,$Y$2:$AA$50,2)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],11,FALSE)+VLOOKUP([CELL],[CELL]:[CELL],2)",
+      "count": 6,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "K32",
+          "formula": "=VLOOKUP($C32,$A$3:$R$25,11,FALSE)+VLOOKUP($G32,$Y$2:$AA$50,2)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "K70",
+          "formula": "=VLOOKUP($C70,$A$43:$R$63,11,FALSE)+VLOOKUP($G70,$Y$2:$AA$50,2)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "K107",
+          "formula": "=VLOOKUP($C107,$A$80:$R$100,11,FALSE)+VLOOKUP(G107,$Y$2:$AA$50,2)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],8,FALSE)+VLOOKUP([CELL],[CELL]:[CELL],3)",
+      "count": 6,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "H33",
+          "formula": "=VLOOKUP($C33,$A$3:$R$25,8,FALSE)+VLOOKUP($G33,$Y$2:$AA$50,3)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "H71",
+          "formula": "=VLOOKUP($C71,$A$43:$R$63,8,FALSE)+VLOOKUP($G71,$Y$2:$AA$50,3)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "H108",
+          "formula": "=VLOOKUP($C108,$A$80:$R$100,8,FALSE)+VLOOKUP($G108,$Y$2:$AA$50,3)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],10,FALSE)+VLOOKUP([CELL],[CELL]:[CELL],3)",
+      "count": 6,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "J34",
+          "formula": "=VLOOKUP($C34,$A$3:$R$25,10,FALSE)+VLOOKUP(G34,$Y$2:$AA$50,3)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "J72",
+          "formula": "=VLOOKUP($C72,$A$43:$R$63,10,FALSE)+VLOOKUP(G72,$Y$2:$AA$50,3)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "J109",
+          "formula": "=VLOOKUP($C109,$A$80:$R$100,10,FALSE)+VLOOKUP(G109,$Y$2:$AA$50,3)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],9,FALSE)+VLOOKUP([CELL],[CELL]:[CELL],3)",
+      "count": 6,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "I35",
+          "formula": "=VLOOKUP($C35,$A$3:$R$25,9,FALSE)+VLOOKUP(G35,$Y$2:$AA$50,3)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "I73",
+          "formula": "=VLOOKUP($C73,$A$43:$R$63,9,FALSE)+VLOOKUP(G73,$Y$2:$AA$50,3)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "I110",
+          "formula": "=VLOOKUP($C110,$A$80:$R$100,9,FALSE)+VLOOKUP(G110,$Y$2:$AA$50,3)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],11,FALSE)+VLOOKUP([CELL],[CELL]:[CELL],3)",
+      "count": 6,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "K36",
+          "formula": "=VLOOKUP($C36,$A$3:$R$25,11,FALSE)+VLOOKUP(G36,$Y$2:$AA$50,3)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "K74",
+          "formula": "=VLOOKUP($C74,$A$43:$R$63,11,FALSE)+VLOOKUP(G74,$Y$2:$AA$50,3)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "K111",
+          "formula": "=VLOOKUP($C111,$A$80:$R$100,11,FALSE)+VLOOKUP(G111,$Y$2:$AA$50,3)"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL]<=[CELL],0,SUM(OFFSET([CELL],[CELL]+1,0,[CELL]-[CELL]))*IF([CELL]=[CELL],0.5,1))",
+      "count": 6,
+      "sheets": [
+        "Partner Research Costs"
+      ],
+      "examples": [
+        {
+          "sheet": "Partner Research Costs",
+          "cell": "B9",
+          "formula": "=IF(B8<=B7,0,SUM(OFFSET($B$75,B7+1,0,B8-B7))*IF(B6=$B$4,0.5,1))"
+        },
+        {
+          "sheet": "Partner Research Costs",
+          "cell": "C9",
+          "formula": "=IF(C8<=C7,0,SUM(OFFSET($B$75,C7+1,0,C8-C7))*IF(C6=$B$4,0.5,1))"
+        },
+        {
+          "sheet": "Partner Research Costs",
+          "cell": "D9",
+          "formula": "=IF(D8<=D7,0,SUM(OFFSET($B$75,D7+1,0,D8-D7))*IF(D6=$B$4,0.5,1))"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],'Drifter Stats'![CELL]:[CELL],12,FALSE)",
+      "count": 6,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "C2",
+          "formula": "=VLOOKUP(A2,'Drifter Stats'!$A$4:$Q$24,12,FALSE)"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "C3",
+          "formula": "=VLOOKUP(A3,'Drifter Stats'!$A$4:$Q$24,12,FALSE)"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "C4",
+          "formula": "=VLOOKUP(A4,'Drifter Stats'!$A$4:$Q$24,12,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=0.04*[CELL]",
+      "count": 6,
+      "sheets": [
+        "Band Calculator",
+        "Dance Calculator",
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "M12",
+          "formula": "=0.04*L12"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "I12",
+          "formula": "=0.04*H12"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "I13",
+          "formula": "=0.04*H13"
+        }
+      ]
+    },
+    {
+      "pattern": "=0.03*[CELL]",
+      "count": 6,
+      "sheets": [
+        "Band Calculator",
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "M14",
+          "formula": "=0.03*L14"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "M15",
+          "formula": "=0.03*L15"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "M16",
+          "formula": "=0.03*L16"
+        }
+      ]
+    },
+    {
+      "pattern": "=(([CELL]-[CELL])*([CELL]+[CELL]/100)*(([CELL]/100)*[CELL] + (1-[CELL]/100)*1)) + LOG([CELL],5)*[CELL]*([CELL]+[CELL]/100)",
+      "count": 5,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "W33",
+          "formula": "=((V33-$Z$73)*(V35+P37/100)*((V36/100)*V37 + (1-V36/100)*1)) + LOG(V33,5)*Q37*(V35+P37/100)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "W71",
+          "formula": "=((V71-$Z$73)*(V73+P75/100)*((V74/100)*V75 + (1-V74/100)*1)) + LOG(V71,5)*Q75*(V73+P75/100)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "W108",
+          "formula": "=((V108-$Z$73)*(V110+P112/100)*((V111/100)*V112 + (1-V111/100)*1)) + LOG(V108,5)*Q112*(V110+P112/100)"
+        }
+      ]
+    },
+    {
+      "pattern": "=([CELL]-[CELL])*([CELL]+[CELL]/100)*(([CELL]/100)*[CELL] + (1-[CELL]/100)*1) + LOG([CELL],5)*[CELL]*([CELL]+[CELL]/100)",
+      "count": 5,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "W34",
+          "formula": "=(V34-$Z$73)*(V35+P37/100)*((V36/100)*V37 + (1-V36/100)*1) + LOG(V34,5)*Q37*(V35+P37/100)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "W72",
+          "formula": "=(V72-$Z$73)*(V73+P75/100)*((V74/100)*V75 + (1-V74/100)*1) + LOG(V72,5)*Q75*(V73+P75/100)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "W109",
+          "formula": "=(V109-$Z$73)*(V110+P112/100)*((V111/100)*V112 + (1-V111/100)*1) + LOG(V109,5)*Q112*(V110+P112/100)"
+        }
+      ]
+    },
+    {
+      "pattern": "=(1+([CELL]+[CELL])/100)",
+      "count": 5,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "V35",
+          "formula": "=(1+($Z$68+N37)/100)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "V73",
+          "formula": "=(1+($Z$68+N75)/100)"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "V110",
+          "formula": "=(1+($Z$68+N112)/100)"
+        }
+      ]
+    },
+    {
+      "pattern": "=1.5+([CELL]+[CELL])/100",
+      "count": 5,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "V37",
+          "formula": "=1.5+($Z$70+M37)/100"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "V75",
+          "formula": "=1.5+($Z$70+M75)/100"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "V112",
+          "formula": "=1.5+($Z$70+M112)/100"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL]=[CELL], VLOOKUP([CELL],[CELL]:[CELL], 4,FALSE) + VLOOKUP([CELL],[CELL]:[CELL], 18,FALSE), VLOOKUP([CELL],[CELL]:[CELL], 19,FALSE))",
+      "count": 5,
+      "sheets": [
+        "Compass"
+      ],
+      "examples": [
+        {
+          "sheet": "Compass",
+          "cell": "G233",
+          "formula": "=IF(D233=F233, VLOOKUP($B233,$A$208:$S$226, 4,FALSE) + VLOOKUP($B233,$A$208:$S$226, 18,FALSE), VLOOKUP($B233,$A$208:$S$226, 19,FALSE))"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "G234",
+          "formula": "=IF(D234=F234, VLOOKUP($B234,$A$208:$S$226, 4,FALSE) + VLOOKUP($B234,$A$208:$S$226, 18,FALSE), VLOOKUP($B234,$A$208:$S$226, 19,FALSE))"
+        },
+        {
+          "sheet": "Compass",
+          "cell": "G235",
+          "formula": "=IF(D235=F235, VLOOKUP($B235,$A$208:$S$226, 4,FALSE) + VLOOKUP($B235,$A$208:$S$226, 18,FALSE), VLOOKUP($B235,$A$208:$S$226, 19,FALSE))"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],5,FALSE)",
+      "count": 5,
+      "sheets": [
+        "Partner Research Costs",
+        "Protomon"
+      ],
+      "examples": [
+        {
+          "sheet": "Partner Research Costs",
+          "cell": "E7",
+          "formula": "=VLOOKUP($B$3,$A$23:$H$51,5,FALSE)"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "C10",
+          "formula": "=VLOOKUP($B6,$B$45:$F$176,5,FALSE)"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "C16",
+          "formula": "=VLOOKUP($B12,$B$45:$F$176,5,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=FLOOR(10*([CELL]*(1+SUM([CELL]:[CELL]))*3)*(1+[CELL]),1)/10",
+      "count": 5,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "J2",
+          "formula": "=FLOOR(10*(C2*(1+SUM(D2:H2))*3)*(1+I2),1)/10"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "J4",
+          "formula": "=FLOOR(10*(C4*(1+SUM(D4:H4))*3)*(1+I4),1)/10"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "J5",
+          "formula": "=FLOOR(10*(C5*(1+SUM(D5:H5))*3)*(1+I5),1)/10"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF(AND([CELL] = \"Athena\", [CELL] = \"Male\"), 0, (FLOOR([CELL]*(IF([CELL]=\"Amakusa\", 1-[CELL], 1)) - 3*(IF([CELL]=\"Dracula\",[CELL], 0)),1)))",
+      "count": 5,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "F12",
+          "formula": "=IF(AND(D12 = \"Athena\", C12 = \"Male\"), 0, (FLOOR(B12*(IF(D12=\"Amakusa\", 1-$M$19, 1)) - 3*(IF(D12=\"Dracula\",$M$18, 0)),1)))"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "F13",
+          "formula": "=IF(AND(D13 = \"Athena\", C13 = \"Male\"), 0, (FLOOR(B13*(IF(D13=\"Amakusa\", 1-$M$19, 1)) - 3*(IF(D13=\"Dracula\",$M$18, 0)),1)))"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "F14",
+          "formula": "=IF(AND(D14 = \"Athena\", C14 = \"Male\"), 0, (FLOOR(B14*(IF(D14=\"Amakusa\", 1-$M$19, 1)) - 3*(IF(D14=\"Dracula\",$M$18, 0)),1)))"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL] > [CELL], 1, 0)",
+      "count": 5,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "G12",
+          "formula": "=IF(E12 > F12, 1, 0)"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "G13",
+          "formula": "=IF(E13 > F13, 1, 0)"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "G14",
+          "formula": "=IF(E14 > F14, 1, 0)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],'Drifter Stats'![CELL]:[CELL],2,FALSE)",
+      "count": 5,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "C2",
+          "formula": "=VLOOKUP(A2,'Drifter Stats'!$A$4:$Q$24,2,FALSE)"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "C3",
+          "formula": "=VLOOKUP(A3,'Drifter Stats'!$A$4:$Q$24,2,FALSE)"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "C4",
+          "formula": "=VLOOKUP(A4,'Drifter Stats'!$A$4:$Q$24,2,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=ROUND(10*[CELL]*(SUM([CELL]:[CELL])+1)*(SUM(1+[CELL])),0)/10",
+      "count": 5,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "N2",
+          "formula": "=ROUND(10*C2*(SUM(D2:L2)+1)*(SUM(1+M2)),0)/10"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "N3",
+          "formula": "=ROUND(10*C3*(SUM(D3:L3)+1)*(SUM(1+M3)),0)/10"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "N4",
+          "formula": "=ROUND(10*C4*(SUM(D4:L4)+1)*(SUM(1+M4)),0)/10"
+        }
+      ]
+    },
+    {
+      "pattern": "=FLOOR([CELL]*[CELL],1)",
+      "count": 5,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "O2",
+          "formula": "=FLOOR(B2*N2,1)"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "O3",
+          "formula": "=FLOOR(B3*N3,1)"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "O4",
+          "formula": "=FLOOR(B4*N4,1)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],'Drifter Stats'![CELL]:[CELL],4,FALSE)",
+      "count": 5,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "C2",
+          "formula": "=VLOOKUP(A2,'Drifter Stats'!$A$4:$Q$24,4,FALSE)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "C3",
+          "formula": "=VLOOKUP(A3,'Drifter Stats'!$A$4:$Q$24,4,FALSE)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "C4",
+          "formula": "=VLOOKUP(A4,'Drifter Stats'!$A$4:$Q$24,4,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*[CELL]*(1+[CELL])+[CELL]+[CELL]",
+      "count": 5,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "H2",
+          "formula": "=B2*C2*(1+D2)+E2+F2"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "H3",
+          "formula": "=B3*C3*(1+D3)+E3+F3"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "H4",
+          "formula": "=B4*C4*(1+D4)+E4+F4"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*[CELL]*(1+[CELL])*10+[CELL]",
+      "count": 5,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I2",
+          "formula": "=B2*C2*(1+D2)*10+G2"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I3",
+          "formula": "=B3*C3*(1+D3)*10+G3"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I4",
+          "formula": "=B4*C4*(1+D4)*10+G4"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]",
+      "count": 4,
+      "sheets": [
+        "Gene Research",
+        "Lumber Camp",
+        "Quarry",
+        "Time Machine"
+      ],
+      "examples": [
+        {
+          "sheet": "Gene Research",
+          "cell": "B56",
+          "formula": "=D6+D9+D14+D19+D35+D54+D29+D32+D26"
+        },
+        {
+          "sheet": "Time Machine",
+          "cell": "B103",
+          "formula": "=F18+F21+F67+F99+F24+F30+F39+F45+F42"
+        },
+        {
+          "sheet": "Lumber Camp",
+          "cell": "B83",
+          "formula": "=F13+F16+F27+F30+F55+F79+F36+F19+F33"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*2",
+      "count": 4,
+      "sheets": [
+        "Minion Base Stats"
+      ],
+      "examples": [
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "B309",
+          "formula": "=B308*2"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "C309",
+          "formula": "=C308*2"
+        },
+        {
+          "sheet": "Minion Base Stats",
+          "cell": "D309",
+          "formula": "=D308*2"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],'Rift Anecdotes'![CELL]:[CELL],5,FALSE)",
+      "count": 4,
+      "sheets": [
+        "Band Calculator",
+        "Dance Calculator",
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "B14",
+          "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$B$6:$H$27,5,FALSE)"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "C15",
+          "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$X$6:$AC$27,5,FALSE)"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "B10",
+          "formula": "=VLOOKUP(B9,'Rift Anecdotes'!B174:G195,5,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=0.05*[CELL]",
+      "count": 4,
+      "sheets": [
+        "Band Calculator",
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "M17",
+          "formula": "=0.05*L17"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "I16",
+          "formula": "=0.05*H16"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "I17",
+          "formula": "=0.05*H17"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],[CELL]+2,FALSE)",
+      "count": 4,
+      "sheets": [
+        "Protomon"
+      ],
+      "examples": [
+        {
+          "sheet": "Protomon",
+          "cell": "E10",
+          "formula": "=VLOOKUP(B10,$I$46:$Q$49,B7+2,FALSE)"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "E16",
+          "formula": "=VLOOKUP(B16,$I$46:$Q$49,B13+2,FALSE)"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "E29",
+          "formula": "=VLOOKUP(B29,$I$53:$Q$57,B26+2,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+[CELL]*[CELL]",
+      "count": 4,
+      "sheets": [
+        "Protomon"
+      ],
+      "examples": [
+        {
+          "sheet": "Protomon",
+          "cell": "F10",
+          "formula": "=E10+D10*B8"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "F16",
+          "formula": "=E16+D16*B14"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "F29",
+          "formula": "=E29+D29*B27"
+        }
+      ]
+    },
+    {
+      "pattern": "=FLOOR([CELL]*(1+IF([CELL]=[CELL],VLOOKUP([CELL],[CELL]:[CELL],2,FALSE)/100,0)),1)",
+      "count": 4,
+      "sheets": [
+        "Protomon"
+      ],
+      "examples": [
+        {
+          "sheet": "Protomon",
+          "cell": "G10",
+          "formula": "=FLOOR(F10*(1+IF(A10=$B$3,VLOOKUP(C10,$I$61:$J$65,2,FALSE)/100,0)),1)"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "G16",
+          "formula": "=FLOOR(F16*(1+IF(A16=$B$3,VLOOKUP(C16,$I$61:$J$65,2,FALSE)/100,0)),1)"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "G29",
+          "formula": "=FLOOR(F29*(1+IF(A29=$B$22,VLOOKUP(C29,$I$61:$J$65,2,FALSE)/100,0)),1)"
+        }
+      ]
+    },
+    {
+      "pattern": "=0",
+      "count": 3,
+      "sheets": [
+        "Dragon DNA Costs",
+        "Gene Research"
+      ],
+      "examples": [
+        {
+          "sheet": "Gene Research",
+          "cell": "G292",
+          "formula": "=0"
+        },
+        {
+          "sheet": "Dragon DNA Costs",
+          "cell": "C103",
+          "formula": "=0"
+        },
+        {
+          "sheet": "Dragon DNA Costs",
+          "cell": "K104",
+          "formula": "=0"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]",
+      "count": 3,
+      "sheets": [
+        "Lumber Camp",
+        "Quarry",
+        "Tadpole Pond"
+      ],
+      "examples": [
+        {
+          "sheet": "Tadpole Pond",
+          "cell": "B87",
+          "formula": "=D16+D19+D58+D84+D30+D24+D39+D27+D36+D33"
+        },
+        {
+          "sheet": "Lumber Camp",
+          "cell": "B82",
+          "formula": "=D13+D16+D27+D30+D55+D79+D36+D19+D33+D22"
+        },
+        {
+          "sheet": "Quarry",
+          "cell": "B90",
+          "formula": "=D14+D17+D20+D28+D31+D37+D60+D87+D34+D23"
+        }
+      ]
+    },
+    {
+      "pattern": "=0.02*[CELL]",
+      "count": 3,
+      "sheets": [
+        "Band Calculator",
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "M13",
+          "formula": "=0.02*L13"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "I9",
+          "formula": "=0.02*H9"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "I11",
+          "formula": "=0.02*H11"
+        }
+      ]
+    },
+    {
+      "pattern": "=FLOOR(VLOOKUP([CELL],[CELL]:[CELL],IF([CELL]=\"Male\",11,12),false) + IF([CELL]=\"Dracula\", [CELL]*3, 0) + 3*[CELL]*SUM([CELL]:[CELL]),1)",
+      "count": 3,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "E14",
+          "formula": "=FLOOR(VLOOKUP(D14,$A$2:$L$7,IF(C14=\"Male\",11,12),false) + IF(D14=\"Dracula\", $M$18*3, 0) + 3*$M$21*SUM(G12:G13),1)"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "E15",
+          "formula": "=FLOOR(VLOOKUP(D15,$A$2:$L$7,IF(C15=\"Male\",11,12),false) + IF(D15=\"Dracula\", $M$18*3, 0) + 3*$M$21*SUM(G12:G14),1)"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "E16",
+          "formula": "=FLOOR(VLOOKUP(D16,$A$2:$L$7,IF(C16=\"Male\",11,12),false) + IF(D16=\"Dracula\", $M$18*3, 0) + 3*$M$21*SUM(G12:G15),1)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],'Rift Anecdotes'![CELL]:[CELL],6,FALSE)",
+      "count": 3,
+      "sheets": [
+        "Band Calculator",
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "B15",
+          "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$B$6:$H$27,6,FALSE)"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "C16",
+          "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$X$6:$AC$27,6,FALSE)"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "B11",
+          "formula": "=VLOOKUP(B9,'Rift Anecdotes'!B174:G195,6,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=0.01*[CELL]",
+      "count": 3,
+      "sheets": [
+        "Dance Calculator",
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "M19",
+          "formula": "=0.01*L19"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I11",
+          "formula": "=0.01*H11"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I22",
+          "formula": "=0.01*H22"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*IF([CELL] = [CELL], 1, 0)",
+      "count": 3,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "J2",
+          "formula": "=$I$16*IF($B$10 = J1, 1, 0)"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "K3",
+          "formula": "=$I$17*IF($B$10 = K1, 1, 0)"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "L5",
+          "formula": "=$I$18*IF($B$10 = L1, 1, 0)"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL]<20, 1, 0)*((FLOOR([CELL]*[CELL],1))*0.05*SUM(1, [CELL]))",
+      "count": 3,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "J16",
+          "formula": "=IF(H16<20, 1, 0)*((FLOOR(B2*C2,1))*0.05*SUM(1, I9))"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "J17",
+          "formula": "=IF(H17<20, 1, 0)*((FLOOR(B3*C3,1))*0.05*SUM(1, I9))"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "J18",
+          "formula": "=IF(H18<20, 1, 0)*((FLOOR(B5*C5,1))*0.05*SUM(1, I9))"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]",
+      "count": 2,
+      "sheets": [
+        "Fungus Farm",
+        "Gene Research"
+      ],
+      "examples": [
+        {
+          "sheet": "Gene Research",
+          "cell": "B59",
+          "formula": "=J6+J14+J19+J35+J54+J32+J26"
+        },
+        {
+          "sheet": "Fungus Farm",
+          "cell": "B84",
+          "formula": "=F16+F27+F52+F80+F21+F33+F30"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],'Rift Anecdotes'![CELL]:[CELL],3,FALSE)",
+      "count": 2,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "B12",
+          "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$B$6:$H$27,3,FALSE)"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "C13",
+          "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$X$6:$AC$27,3,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],'Rift Anecdotes'![CELL]:[CELL],4,FALSE)",
+      "count": 2,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "B13",
+          "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$B$6:$H$27,4,FALSE)"
+        },
+        {
+          "sheet": "Dance Calculator",
+          "cell": "C14",
+          "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$X$6:$AC$27,4,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL]<20, 1, 0)*((FLOOR([CELL]*[CELL],1))*0.04*SUM(1, [CELL]))",
+      "count": 2,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "J12",
+          "formula": "=IF(H12<20, 1, 0)*((FLOOR(B2*C2,1))*0.04*SUM(1, I9))"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "J14",
+          "formula": "=IF(H14<20, 1, 0)*((FLOOR(B6*C6,1))*0.04*SUM(1, I9))"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL]>[CELL], \"Win\", \"Lose\")",
+      "count": 2,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "B15",
+          "formula": "=IF(B13>B11, \"Win\", \"Lose\")"
+        },
+        {
+          "sheet": "Band Calculator",
+          "cell": "B19",
+          "formula": "=IF(B17>B11, \"Win\", \"Lose\")"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]/[CELL]",
+      "count": 2,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "Y3",
+          "formula": "=X3/W3"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "Y4",
+          "formula": "=X4/W4"
+        }
+      ]
+    },
+    {
+      "pattern": "=150*[CELL]",
+      "count": 2,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I12",
+          "formula": "=150*H12"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I14",
+          "formula": "=150*H14"
+        }
+      ]
+    },
+    {
+      "pattern": "=0.25*[CELL]",
+      "count": 2,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I19",
+          "formula": "=0.25*H19"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I23",
+          "formula": "=0.25*H23"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*IF(COUNTIF([CELL]:[CELL], [CELL])>0, 1, 0)+IF([CELL]=[CELL], 0.05, 0)",
+      "count": 2,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "B22",
+          "formula": "=I11*IF(COUNTIF($A$11:$A$14, $F$11)>0, 1, 0)+IF($B$17=A22, 0.05, 0)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "B25",
+          "formula": "=I18*IF(COUNTIF($A$11:$A$14, $F$18)>0, 1, 0)+IF($B$17=A25, 0.05, 0)"
+        }
+      ]
+    },
+    {
+      "pattern": "=AVERAGE([CELL]:[CELL])",
+      "count": 2,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "S46",
+          "formula": "=AVERAGE(S7:S45)"
+        },
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "T46",
+          "formula": "=AVERAGE(T7:T45)"
+        }
+      ]
+    },
+    {
+      "pattern": "=MIN(VLOOKUP([CELL],[CELL]:[CELL],2,TRUE), VLOOKUP([CELL],[CELL]:[CELL],2,TRUE))",
+      "count": 2,
+      "sheets": [
+        "Protomon"
+      ],
+      "examples": [
+        {
+          "sheet": "Protomon",
+          "cell": "B8",
+          "formula": "=MIN(VLOOKUP(B7,$N$61:$P$67,2,TRUE), VLOOKUP($B$4,$K$71:$L$310,2,TRUE))"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "B14",
+          "formula": "=MIN(VLOOKUP(B13,$N$61:$P$67,2,TRUE), VLOOKUP($B$4,$K$71:$L$310,2,TRUE))"
+        }
+      ]
+    },
+    {
+      "pattern": "=MIN(VLOOKUP([CELL],[CELL]:[CELL],3,TRUE), VLOOKUP([CELL],[CELL]:[CELL],2,TRUE))",
+      "count": 2,
+      "sheets": [
+        "Protomon"
+      ],
+      "examples": [
+        {
+          "sheet": "Protomon",
+          "cell": "B27",
+          "formula": "=MIN(VLOOKUP(B26,$N$61:$P$67,3,TRUE), VLOOKUP($B$23,$K$71:$L$310,2,TRUE))"
+        },
+        {
+          "sheet": "Protomon",
+          "cell": "B33",
+          "formula": "=MIN(VLOOKUP(B32,$N$61:$P$67,3,TRUE), VLOOKUP($B$23,$K$71:$L$310,2,TRUE))"
+        }
+      ]
+    },
+    {
+      "pattern": "=48*4 + 8*4",
+      "count": 1,
+      "sheets": [
+        "Offering Speed"
+      ],
+      "examples": [
+        {
+          "sheet": "Offering Speed",
+          "cell": "B47",
+          "formula": "=48*4 + 8*4"
+        }
+      ]
+    },
+    {
+      "pattern": "=MAX(SUM([CELL]:[CELL]), SUM([CELL]:[CELL]), SUM([CELL]:[CELL]), SUM([CELL]:[CELL]), SUM([CELL]:[CELL]), SUM([CELL]:[CELL]))",
+      "count": 1,
+      "sheets": [
+        "Travel Speed"
+      ],
+      "examples": [
+        {
+          "sheet": "Travel Speed",
+          "cell": "D38",
+          "formula": "=MAX(SUM(D20:E21), SUM(D23:E25), SUM(D27:E28), SUM(D30:E31), SUM(D33:E34), SUM(D36:E37))"
+        }
+      ]
+    },
+    {
+      "pattern": "=48+99+63+66+56",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E14",
+          "formula": "=48+99+63+66+56"
+        }
+      ]
+    },
+    {
+      "pattern": "=106+62+49+69+76",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E66",
+          "formula": "=106+62+49+69+76"
+        }
+      ]
+    },
+    {
+      "pattern": "=104+57+52+68+66",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E67",
+          "formula": "=104+57+52+68+66"
+        }
+      ]
+    },
+    {
+      "pattern": "=52+103+67+70+55",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E71",
+          "formula": "=52+103+67+70+55"
+        }
+      ]
+    },
+    {
+      "pattern": "=63+74+106+50+69",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E77",
+          "formula": "=63+74+106+50+69"
+        }
+      ]
+    },
+    {
+      "pattern": "=61+64+103+55+64",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E78",
+          "formula": "=61+64+103+55+64"
+        }
+      ]
+    },
+    {
+      "pattern": "=64+66+60+104+53",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E85",
+          "formula": "=64+66+60+104+53"
+        }
+      ]
+    },
+    {
+      "pattern": "=63+56+62+54+97",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E96",
+          "formula": "=63+56+62+54+97"
+        }
+      ]
+    },
+    {
+      "pattern": "=54+102+66+67+58",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E140",
+          "formula": "=54+102+66+67+58"
+        }
+      ]
+    },
+    {
+      "pattern": "=63+54+75+63+107",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E160",
+          "formula": "=63+54+75+63+107"
+        }
+      ]
+    },
+    {
+      "pattern": "=52+106+69+74+61",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E211",
+          "formula": "=52+106+69+74+61"
+        }
+      ]
+    },
+    {
+      "pattern": "=49+109+65+77+62",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E276",
+          "formula": "=49+109+65+77+62"
+        }
+      ]
+    },
+    {
+      "pattern": "=49+101+64+69+64",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E281",
+          "formula": "=49+101+64+69+64"
+        }
+      ]
+    },
+    {
+      "pattern": "=55+70+101+56+65",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E287",
+          "formula": "=55+70+101+56+65"
+        }
+      ]
+    },
+    {
+      "pattern": "=56+69+100+49+58",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E288",
+          "formula": "=56+69+100+49+58"
+        }
+      ]
+    },
+    {
+      "pattern": "=59+75+109+52+67",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E348",
+          "formula": "=59+75+109+52+67"
+        }
+      ]
+    },
+    {
+      "pattern": "=58+66+110+77+51",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E350",
+          "formula": "=58+66+110+77+51"
+        }
+      ]
+    },
+    {
+      "pattern": "=61+64+102+51+69",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E352",
+          "formula": "=61+64+102+51+69"
+        }
+      ]
+    },
+    {
+      "pattern": "=69+60+58+107+68",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E358",
+          "formula": "=69+60+58+107+68"
+        }
+      ]
+    },
+    {
+      "pattern": "=69+66+64+55+108",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E362",
+          "formula": "=69+66+64+55+108"
+        }
+      ]
+    },
+    {
+      "pattern": "=56+103+55+68+65",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E401",
+          "formula": "=56+103+55+68+65"
+        }
+      ]
+    },
+    {
+      "pattern": "=57+67+97+49+62",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E412",
+          "formula": "=57+67+97+49+62"
+        }
+      ]
+    },
+    {
+      "pattern": "=76+60+70+107+49",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E419",
+          "formula": "=76+60+70+107+49"
+        }
+      ]
+    },
+    {
+      "pattern": "=68+60+68+108+58",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E420",
+          "formula": "=68+60+68+108+58"
+        }
+      ]
+    },
+    {
+      "pattern": "=71+109+65+61+56",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E459",
+          "formula": "=71+109+65+61+56"
+        }
+      ]
+    },
+    {
+      "pattern": "=48+96+65+64+59",
+      "count": 1,
+      "sheets": [
+        "Museum"
+      ],
+      "examples": [
+        {
+          "sheet": "Museum",
+          "cell": "E461",
+          "formula": "=48+96+65+64+59"
+        }
+      ]
+    },
+    {
+      "pattern": "=SUM([CELL])",
+      "count": 1,
+      "sheets": [
+        "Leadership"
+      ],
+      "examples": [
+        {
+          "sheet": "Leadership",
+          "cell": "D3",
+          "formula": "=SUM(D2)"
+        }
+      ]
+    },
+    {
+      "pattern": "=SUM([CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1))",
+      "count": 1,
+      "sheets": [
+        "Leadership"
+      ],
+      "examples": [
+        {
+          "sheet": "Leadership",
+          "cell": "D223",
+          "formula": "=SUM(D209*(E209+1),D210*(E210+1),D211*(E211+1),D212*(E212+1),D213*(E213+1),D214*(E214+1),D215*(E215+1),D216*(E216+1),D217*(E217+1),D218*(E218+1),D219*(E219+1),D220*(E220+1),D221*(E221+1),D222*(E222+1))"
+        }
+      ]
+    },
+    {
+      "pattern": "=SUM([CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1),[CELL]*([CELL]+1))",
+      "count": 1,
+      "sheets": [
+        "Leadership"
+      ],
+      "examples": [
+        {
+          "sheet": "Leadership",
+          "cell": "D244",
+          "formula": "=SUM(D233*(E233+1),D234*(E234+1),D235*(E235+1),D236*(E236+1),D237*(E237+1),D238*(E238+1))"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]",
+      "count": 1,
+      "sheets": [
+        "Leadership"
+      ],
+      "examples": [
+        {
+          "sheet": "Leadership",
+          "cell": "B461",
+          "formula": "=D3+D76+D79+D150+D172+D183+D205+D223+D229+D244+D253+D458"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]+[CELL]",
+      "count": 1,
+      "sheets": [
+        "Time Machine"
+      ],
+      "examples": [
+        {
+          "sheet": "Time Machine",
+          "cell": "B102",
+          "formula": "=D18+D21+D67+D99+D30+D39+D24+D45+D33+D42+D27"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],8, FALSE)",
+      "count": 1,
+      "sheets": [
+        "Partner Research Costs"
+      ],
+      "examples": [
+        {
+          "sheet": "Partner Research Costs",
+          "cell": "B4",
+          "formula": "=VLOOKUP($B$3,$A$23:$H$51,8, FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],4,FALSE)",
+      "count": 1,
+      "sheets": [
+        "Partner Research Costs"
+      ],
+      "examples": [
+        {
+          "sheet": "Partner Research Costs",
+          "cell": "D7",
+          "formula": "=VLOOKUP($B$3,$A$23:$H$51,4,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],6,FALSE)",
+      "count": 1,
+      "sheets": [
+        "Partner Research Costs"
+      ],
+      "examples": [
+        {
+          "sheet": "Partner Research Costs",
+          "cell": "F7",
+          "formula": "=VLOOKUP($B$3,$A$23:$H$51,6,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],[CELL]:[CELL],7,FALSE)",
+      "count": 1,
+      "sheets": [
+        "Partner Research Costs"
+      ],
+      "examples": [
+        {
+          "sheet": "Partner Research Costs",
+          "cell": "G7",
+          "formula": "=VLOOKUP($B$3,$A$23:$H$51,7,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP(SUM([CELL]:[CELL])+IF([CELL],10,0),[CELL]:[CELL],2, TRUE)",
+      "count": 1,
+      "sheets": [
+        "Partner Research Costs"
+      ],
+      "examples": [
+        {
+          "sheet": "Partner Research Costs",
+          "cell": "B12",
+          "formula": "=VLOOKUP(SUM(B8:G8)+IF(B11,10,0),D76:E105,2, TRUE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=40509*3",
+      "count": 1,
+      "sheets": [
+        "Rift Anecdotes"
+      ],
+      "examples": [
+        {
+          "sheet": "Rift Anecdotes",
+          "cell": "D25",
+          "formula": "=40509*3"
+        }
+      ]
+    },
+    {
+      "pattern": "=53663*3",
+      "count": 1,
+      "sheets": [
+        "Rift Anecdotes"
+      ],
+      "examples": [
+        {
+          "sheet": "Rift Anecdotes",
+          "cell": "E25",
+          "formula": "=53663*3"
+        }
+      ]
+    },
+    {
+      "pattern": "=23230*3",
+      "count": 1,
+      "sheets": [
+        "Rift Anecdotes"
+      ],
+      "examples": [
+        {
+          "sheet": "Rift Anecdotes",
+          "cell": "F25",
+          "formula": "=23230*3"
+        }
+      ]
+    },
+    {
+      "pattern": "=36238*3",
+      "count": 1,
+      "sheets": [
+        "Rift Anecdotes"
+      ],
+      "examples": [
+        {
+          "sheet": "Rift Anecdotes",
+          "cell": "G25",
+          "formula": "=36238*3"
+        }
+      ]
+    },
+    {
+      "pattern": "=29269*3",
+      "count": 1,
+      "sheets": [
+        "Rift Anecdotes"
+      ],
+      "examples": [
+        {
+          "sheet": "Rift Anecdotes",
+          "cell": "H25",
+          "formula": "=29269*3"
+        }
+      ]
+    },
+    {
+      "pattern": "=64388*3",
+      "count": 1,
+      "sheets": [
+        "Rift Anecdotes"
+      ],
+      "examples": [
+        {
+          "sheet": "Rift Anecdotes",
+          "cell": "D27",
+          "formula": "=64388*3"
+        }
+      ]
+    },
+    {
+      "pattern": "=66319*3",
+      "count": 1,
+      "sheets": [
+        "Rift Anecdotes"
+      ],
+      "examples": [
+        {
+          "sheet": "Rift Anecdotes",
+          "cell": "E27",
+          "formula": "=66319*3"
+        }
+      ]
+    },
+    {
+      "pattern": "=68308*3",
+      "count": 1,
+      "sheets": [
+        "Rift Anecdotes"
+      ],
+      "examples": [
+        {
+          "sheet": "Rift Anecdotes",
+          "cell": "F27",
+          "formula": "=68308*3"
+        }
+      ]
+    },
+    {
+      "pattern": "=26683*3",
+      "count": 1,
+      "sheets": [
+        "Rift Anecdotes"
+      ],
+      "examples": [
+        {
+          "sheet": "Rift Anecdotes",
+          "cell": "G27",
+          "formula": "=26683*3"
+        }
+      ]
+    },
+    {
+      "pattern": "=40024*3",
+      "count": 1,
+      "sheets": [
+        "Rift Anecdotes"
+      ],
+      "examples": [
+        {
+          "sheet": "Rift Anecdotes",
+          "cell": "H27",
+          "formula": "=40024*3"
+        }
+      ]
+    },
+    {
+      "pattern": "=13800+11940+12080",
+      "count": 1,
+      "sheets": [
+        "Rift Anecdotes"
+      ],
+      "examples": [
+        {
+          "sheet": "Rift Anecdotes",
+          "cell": "E132",
+          "formula": "=13800+11940+12080"
+        }
+      ]
+    },
+    {
+      "pattern": "=([CELL]*(1+SUM([CELL]:[CELL]))*3)*(1+[CELL])",
+      "count": 1,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "J3",
+          "formula": "=(C3*(1+SUM(D3:H3))*3)*(1+I3)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],'Rift Anecdotes'![CELL]:[CELL],2,FALSE)",
+      "count": 1,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "C12",
+          "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$X$6:$AC$27,2,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=FLOOR(VLOOKUP([CELL],[CELL]:[CELL],IF([CELL]=\"Male\",11,12),false)*(1+ IF([CELL]=\"Commissioner\", [CELL], 0)) + IF([CELL]=\"Dracula\", [CELL]*3, 0),1)",
+      "count": 1,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "E12",
+          "formula": "=FLOOR(VLOOKUP(D12,$A$2:$L$7,IF(C12=\"Male\",11,12),false)*(1+ IF(D12=\"Commissioner\", $M$20, 0)) + IF(D12=\"Dracula\", $M$18*3, 0),1)"
+        }
+      ]
+    },
+    {
+      "pattern": "=FLOOR(VLOOKUP([CELL],[CELL]:[CELL],IF([CELL]=\"Male\",11,12),false) + IF([CELL]=\"Dracula\", [CELL]*3, 0) + 3*[CELL]*SUM([CELL]),1)",
+      "count": 1,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "E13",
+          "formula": "=FLOOR(VLOOKUP(D13,$A$2:$L$7,IF(C13=\"Male\",11,12),false) + IF(D13=\"Dracula\", $M$18*3, 0) + 3*$M$21*SUM(G12),1)"
+        }
+      ]
+    },
+    {
+      "pattern": "=VLOOKUP([CELL],'Rift Anecdotes'![CELL]:[CELL],7,FALSE)",
+      "count": 1,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "B16",
+          "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$B$6:$H$27,7,FALSE)"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF(SUM([CELL]:[CELL]) > 2, \"Win\", \"Lose\")",
+      "count": 1,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "B19",
+          "formula": "=IF(SUM(G12:G16) > 2, \"Win\", \"Lose\")"
+        }
+      ]
+    },
+    {
+      "pattern": "=30*[CELL]",
+      "count": 1,
+      "sheets": [
+        "Dance Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Dance Calculator",
+          "cell": "M21",
+          "formula": "=30*L21"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL]<20, 1, 0)*(SUM([CELL]:[CELL])/(1+[CELL])*0.02)",
+      "count": 1,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "J9",
+          "formula": "=IF(H9<20, 1, 0)*(SUM(O2:O6)/(1+I9)*0.02)"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL]<20, 1, 0)*((FLOOR([CELL]*[CELL],1)+FLOOR([CELL]*[CELL],1)+FLOOR([CELL]*[CELL],1))*0.03*SUM(1, [CELL]))",
+      "count": 1,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "J10",
+          "formula": "=IF(H10<20, 1, 0)*((FLOOR(B4*C4,1)+FLOOR(B5*C5,1)+FLOOR(B6*C6,1))*0.03*SUM(1, I9))"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL]<20, 1, 0)*((FLOOR([CELL]*[CELL],1)+FLOOR([CELL]*[CELL],1)+FLOOR([CELL]*[CELL],1)+FLOOR([CELL]*[CELL],1)+FLOOR([CELL]*[CELL],1))*0.02*SUM(1, [CELL]))",
+      "count": 1,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "J11",
+          "formula": "=IF(H11<20, 1, 0)*((FLOOR(B2*C2,1)+FLOOR(B3*C3,1)+FLOOR(B4*C4,1)+FLOOR(B5*C5,1)+FLOOR(B6*C6,1))*0.02*SUM(1, I9))"
+        }
+      ]
+    },
+    {
+      "pattern": "=SUM([CELL]:[CELL])+[CELL]+[CELL]",
+      "count": 1,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "B13",
+          "formula": "=SUM(O2:O6)+I19+I20"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL]<20, 1, 0)*((FLOOR([CELL]*[CELL],1)+FLOOR([CELL]*[CELL],1))*0.04*SUM(1, [CELL]))",
+      "count": 1,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "J13",
+          "formula": "=IF(H13<20, 1, 0)*((FLOOR(B2*C2,1)+FLOOR(B3*C3,1))*0.04*SUM(1, I9))"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL]<20, 1, 0)*(FLOOR([CELL]*[CELL],1)+FLOOR([CELL]*[CELL],1)+FLOOR([CELL]*[CELL],1))*0.03*SUM(1, [CELL])",
+      "count": 1,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "J15",
+          "formula": "=IF(H15<20, 1, 0)*(FLOOR(B4*C4,1)+FLOOR(B5*C5,1)+FLOOR(B6*C6,1))*0.03*SUM(1, I9)"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]+15000",
+      "count": 1,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "B17",
+          "formula": "=B13+15000"
+        }
+      ]
+    },
+    {
+      "pattern": "=500*[CELL]",
+      "count": 1,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "I19",
+          "formula": "=500*H19"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL]>=0,1,0)*IF([CELL]<20,1,0)*500",
+      "count": 1,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "J19",
+          "formula": "=IF(H19>=0,1,0)*IF(H19<20,1,0)*500"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL]>10,1,0)*([CELL]-10)*1000",
+      "count": 1,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "I20",
+          "formula": "=IF(H20>10,1,0)*(H20-10)*1000"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF([CELL]>=10,1,0)*IF([CELL]<20,1,0)*1000",
+      "count": 1,
+      "sheets": [
+        "Band Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Band Calculator",
+          "cell": "J20",
+          "formula": "=IF(H20>=10,1,0)*IF(H20<20,1,0)*1000"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*IF(COUNTIF([CELL]:[CELL], [CELL])>0, 1, 0)*IF(COUNTIF([CELL]:[CELL], [CELL])>0, 1, 0)",
+      "count": 1,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "F4",
+          "formula": "=I17*IF(COUNTIF($A$11:$A$14, $F$17)>0, 1, 0)*IF(COUNTIF($A$11:$A$14, $F$14)>0, 1, 0)"
+        }
+      ]
+    },
+    {
+      "pattern": "=1500*[CELL]",
+      "count": 1,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I13",
+          "formula": "=1500*H13"
+        }
+      ]
+    },
+    {
+      "pattern": "=100*[CELL]",
+      "count": 1,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I15",
+          "formula": "=100*H15"
+        }
+      ]
+    },
+    {
+      "pattern": "=70*[CELL]",
+      "count": 1,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I16",
+          "formula": "=70*H16"
+        }
+      ]
+    },
+    {
+      "pattern": "=300*[CELL]",
+      "count": 1,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I17",
+          "formula": "=300*H17"
+        }
+      ]
+    },
+    {
+      "pattern": "=-50*[CELL]",
+      "count": 1,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "I20",
+          "formula": "=-50*H20"
+        }
+      ]
+    },
+    {
+      "pattern": "=IF(VLOOKUP([CELL],'Rift Anecdotes'![CELL]:[CELL],6,FALSE) > 0,VLOOKUP([CELL],'Rift Anecdotes'![CELL]:[CELL],6,FALSE), FLOOR([CELL]*0.52,1))",
+      "count": 1,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "B21",
+          "formula": "=IF(VLOOKUP($B$16,'Rift Anecdotes'!$B$63:$G$85,6,FALSE) > 0,VLOOKUP($B$16,'Rift Anecdotes'!$B$63:$G$85,6,FALSE), FLOOR(B20*0.52,1))"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*(1.5+[CELL])",
+      "count": 1,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "B29",
+          "formula": "=B18*(1.5+B26)"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*[CELL]*(1.5+[CELL])+[CELL]*(1-[CELL])",
+      "count": 1,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "B30",
+          "formula": "=B18*B25*(1.5+B26)+B18*(1-B25)"
+        }
+      ]
+    },
+    {
+      "pattern": "=[CELL]*[CELL]*IF(COUNTIF([CELL]:[CELL], [CELL])>0, 1, 0) + [CELL]*[CELL]*IF(COUNTIF([CELL]:[CELL], [CELL])>0, 1, 0)",
+      "count": 1,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "B31",
+          "formula": "=B18*I19*IF(COUNTIF($A$11:$A$14, $F$19)>0, 1, 0) + B18*I23*IF(COUNTIF($A$11:$A$14, $F$23)>0, 1, 0)"
+        }
+      ]
+    },
+    {
+      "pattern": "=([CELL]/[CELL])-1",
+      "count": 1,
+      "sheets": [
+        "Sailing Calculator"
+      ],
+      "examples": [
+        {
+          "sheet": "Sailing Calculator",
+          "cell": "B38",
+          "formula": "=(B35/C35)-1"
+        }
+      ]
+    }
+  ]
+}

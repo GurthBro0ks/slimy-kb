@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-04-28T18:55:28.418699",
+  "packets": {
+    "rx": 4,
+    "tx": 1
+  },
+  "frame_sizes": [
+    5764,
+    1500,
+    1785,
+    1682,
+    1418
+  ],
+  "message_types": [],
+  "has_4d5a_frames": false,
+  "readable_strings_found": true,
+  "compression_detected": true,
+  "encryption_likely": false,
+  "duration_seconds": 0.299,
+  "frame_size_stats": {
+    "count": 5,
+    "min": 1418,
+    "max": 5764,
+    "avg": 2429.8
+  }
+}

@@ -1,0 +1,11 @@
+--- expected/msg_arena_top_query.luac
++++ candidate/msg_arena_top_query.luac
+@@ -1,5 +1,7 @@
+--- msg_arena_top_query
+--- Create by weism
+-return function(lpc)
+-    EventMgr.fire_event(ARENATOP_QUERY, lpc)
+-end
++#+%msg+arena+top query_+{=Create,by)weism+_);={return+function{lpc)%*.
++({()|
++{+ EventMgr;fire+event:ARENA+dOP bUERH++lpc-+=end-

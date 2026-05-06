@@ -1,0 +1,100 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Spawning `com.qcplay.snail.android.na`...
+Spawned `com.qcplay.snail.android.na`. Resuming main thread!
+[Android Emulator 5554::com.qcplay.snail.android.na ]-> [*] Starting universal SSL unpinning...
+[*] Bypassing TrustManager...
+[+] TrustManager bypassed
+[*] Bypassing OkHttp CertificatePinner...
+[-] OkHttp bypass failed: check(): specified argument types do not match any of:
+	.overload('java.lang.String', 'java.util.List')
+	.overload('java.lang.String', '[Ljava.security.cert.Certificate;')
+[*] Bypassing SSLContext...
+[+] SSLContext bypassed
+[*] Bypassing Conscrypt...
+[+] Conscrypt bypassed
+[*] Bypassing WebView SSL...
+[+] WebView SSL bypassed
+[*] Bypassing HostnameVerifier...
+[+] HostnameVerifier bypassed
+[*] Bypassing NetworkSecurityConfig...
+[-] NetworkSecurityConfig bypass failed: isCleartextTrafficPermitted(): specified argument types do not match any of:
+	.overload()
+[*] Bypassing Unity networking...
+[+] Unity networking bypass attempted
+[*] All SSL pinning bypasses applied
+[*] Waiting for network requests...
+[*] Native BoringSSL unpin starting...
+[*] Hooking BoringSSL certificate verification...
+TypeError: not a function
+    at hookBoringSSLVerify (/home/mint/projects/slimy_snail/scripts/frida_native_ssl_unpin.js:26)
+    at main (/home/mint/projects/slimy_snail/scripts/frida_native_ssl_unpin.js:133)
+    at <anonymous> (/home/mint/projects/slimy_snail/scripts/frida_native_ssl_unpin.js:142)
+    at <anonymous> (/frida/bridges/java.js:1)
+    at _performPendingVmOps (/frida/bridges/java.js:8)
+    at <anonymous> (/frida/bridges/java.js:8)
+    at apply (native)
+    at <anonymous> (/frida/bridges/java.js:8)
+    at <anonymous> (/frida/bridges/java.js:8)
+[*] SSLContext.getInstance() hooked: Default
+[*] SSLContext.getInstance() hooked: TLS
+[*] SSLContext.init() hooked
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] SSLContext.getInstance() hooked: TLS
+[*] SSLContext.getInstance() hooked: TLS
+[*] SSLContext.init() hooked
+[*] SSLContext.init() hooked
+[*] SSLContext.getInstance() hooked: TLS
+[*] SSLContext.init() hooked
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] SSLContext.getInstance() hooked: TLS
+[*] SSLContext.init() hooked
+[*] SSLContext.getInstance() hooked: TLS
+[*] SSLContext.init() hooked
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] SSLContext.getInstance() hooked: TLS
+[*] SSLContext.init() hooked
+[*] SSLContext.getInstance() hooked: TLS
+[*] SSLContext.init() hooked
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+[*] Conscrypt TrustManagerImpl.checkTrustedRecursive() bypassed
+
+Thank you for using Frida!

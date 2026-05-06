@@ -1,0 +1,470 @@
+{
+  "schema": "supersnail-lite-harness-v1",
+  "updated": "2026-04-28T18:55",
+  "features": [
+    {
+      "id": "harness-folder-safety-001",
+      "title": "Install lite harness and protect raw artifacts from GitHub autosync",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Harness installed, QA passed, proof directory generated."
+    },
+    {
+      "id": "tmp-import-organize-001",
+      "title": "Import and organize Super Snail files from /tmp into workspace",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "90 files imported, classified, and quarantined. QA passed. Proof: .harness/proofs/proof_20260426T173927Z"
+    },
+    {
+      "id": "evidence-inventory-001",
+      "title": "Generate proof-backed inventory of originals, derived outputs, and suspect scripts",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Created reports/evidence-inventory-report.md and reports/source-of-truth-map.md. Raw originals remain ignored/private; decoded/protocol outputs are labeled hypothesis until re-derived."
+    },
+    {
+      "id": "decode-reset-001",
+      "title": "Re-run decoding only from read-only original evidence and record hashes",
+      "priority": "high",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Safe reports from PASS_CLEAN_ORIGINALS_READY proof run were reviewed and imported. The original /tmp proof directory was not present during this update; trusted originals remain external/private and are not in Git."
+    },
+    {
+      "id": "phase2b-cipher-audit-001",
+      "title": "Add read-only Phase 2B cipher audit scaffold",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added decision record, Phase 2B plan, safe audit runner, and synthetic tests. Restored read-only originals to /tmp/proof_snail_protocol_reset_20260426T195515Z_restored and ran audit proof /tmp/proof_snail_phase2b_cipher_audit_20260426T195523Z."
+    },
+    {
+      "id": "phase2b-cipher-solve-001",
+      "title": "Derive remaining cipher mappings from read-only originals",
+      "priority": "high",
+      "risk": "high",
+      "status": "in_progress",
+      "passes": false,
+      "blocked_by": [],
+      "notes": "Phase 2G corrected the Phase 2F overclaim: current decryptor is a partial analyst view. It recovers identifiers/manager calls but punctuation/operators are not exact. Next step is a conflict-reporting punctuation solver."
+    },
+    {
+      "id": "phase2c-filetree-protocol-match-001",
+      "title": "Normalize protocol names against live device handler filenames",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Matched 954/962 protocol candidates to live handler filenames by alphanumeric skeleton with 0 ambiguous matches. 713 exact-length matches provide printable-symbol-to-underscore evidence; 8 candidates remain unmatched."
+    },
+    {
+      "id": "phase2d-target-handler-inventory-001",
+      "title": "Build focused rank/group/arena handler inventory",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Triaged 8 unmatched candidates without promotion. Pulled and hashed 119 target handlers into external proof /tmp/proof_snail_phase2d_target_inventory_20260426T210527Z with zero pull errors."
+    },
+    {
+      "id": "phase2e-rank-group-field-flow-001",
+      "title": "Analyze high-value rank/group/arena handler field flow",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Analyzed 10 high-value handlers from external Phase 2D proof. Extracted manager-call and lpc-field candidates for RankM, TopM, TaskM, GroupWarM, ME.user, and EventMgr paths."
+    },
+    {
+      "id": "protocol-report-sanitized-001",
+      "title": "Produce sanitized protocol report with exact/normalized distinction",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Created docs/protocol/phase2c_filetree_protocol_report.md with exact-vs-normalized caveats, input hashes, 954/962 filetree matches, unmatched candidates, and rank/group/arena targets."
+    },
+    {
+      "id": "rank-group-data-flow-map-001",
+      "title": "Create rank/group/arena data-flow map linking protocol to handler hash, manager calls, and analytics",
+      "priority": "high",
+      "risk": "low",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Created docs/protocol/rank_group_arena_data_flow_map.md based on Phase 2D and 2E reports."
+    },
+    {
+      "id": "phase2g-manager-trace-001",
+      "title": "Reacquire manager scripts and trace rank/group/arena payload flow from read-only originals",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Restarted the game, pulled RankM/TopM/TaskM/GroupM/GroupWarM/EventM and target handlers into /tmp/proof_snail_phase2g_manager_trace_20260427T132529Z, confirmed current decryptor is partial, and documented RankM opaque list storage plus group_war_member_rank enrichment flow."
+    },
+    {
+      "id": "phase2h-punctuation-audit-001",
+      "title": "Audit punctuation/operator cipher candidates with conflict reporting",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added src/decode/phase2h_punctuation_audit.py and proof /tmp/proof_snail_phase2h_punctuation_audit_20260427T151537Z. Found 0 alphanumeric conflicts but 3 punctuation conflicts, so no punctuation mapping was promoted."
+    },
+    {
+      "id": "phase2i-skeleton-transform-audit-001",
+      "title": "Align handler bodies by alphanumeric skeleton and audit raw gap transforms",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added src/decode/phase2i_skeleton_transform_audit.py and proof /tmp/proof_snail_phase2i_skeleton_transform_20260427T152041Z. Found all 4 anchors, recorded 59 raw gap rows, and confirmed punctuation/control gaps need context/run-level modeling."
+    },
+    {
+      "id": "phase2j-gap-context-model-001",
+      "title": "Group raw gap transforms by local alphanumeric context",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added src/decode/phase2j_gap_context_model.py and proof /tmp/proof_snail_phase2j_gap_context_model_20260427T152345Z. All 59 exact contexts are single-candidate, but none repeat yet, so no transform was promoted."
+    },
+    {
+      "id": "phase2k-simple-anchor-inventory-001",
+      "title": "Inventory small handler candidates for future grammar anchors",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Pulled 838 <=500 byte cmd/misc handlers to external proof /tmp/proof_snail_phase2k_simple_anchor_inventory_20260427T152519Z and generated sanitized inventory proof /tmp/proof_snail_phase2k_simple_anchor_inventory_20260427T152713Z. 830 handlers contain the return/function/lpc skeleton."
+    },
+    {
+      "id": "phase2l-standard-phrase-gap-audit-001",
+      "title": "Audit repeated standard phrase gaps across small handlers",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added src/decode/phase2l_standard_phrase_gap_audit.py and proof /tmp/proof_snail_phase2l_standard_phrase_gap_20260427T154941Z. Found 1544 phrase occurrences, 87 repeated conflict-free contexts, and 0 context conflicts; raw punctuation is polymorphic by grammar context."
+    },
+    {
+      "id": "phase2m-phrase-coverage-001",
+      "title": "Render redacted phrase-template coverage views for small handlers",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added src/decode/phase2m_phrase_coverage.py and proof /tmp/proof_snail_phase2m_phrase_coverage_20260427T155228Z. Generated redacted views for 838 handlers; 6 handlers reached >=50% phrase coverage with current templates."
+    },
+    {
+      "id": "phase2n-template-expansion-001",
+      "title": "Expand phrase/member-access templates from small handler skeletons",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Expanded the shared Phase 2L/2M template set with stable API/member-access anchors only. Proofs /tmp/proof_snail_phase2l_standard_phrase_gap_20260427T155912Z and /tmp/proof_snail_phase2m_phrase_coverage_20260427T155912Z increased >=50% handler coverage from 6 to 22 with 0 context conflicts."
+    },
+    {
+      "id": "phase2o-template-overlay-decoder-001",
+      "title": "Render redacted phrase overlays with local gap conflict ledgers",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added src/decode/phase2o_template_overlay_decoder.py and proof /tmp/proof_snail_phase2o_template_overlay_20260427T160243Z. Rendered 1771 non-overlapping phrase overlays across 838 handlers with 3338 known gap rows, 0 unknown gap rows, and 0 conflict gap rows."
+    },
+    {
+      "id": "phase2p-unresolved-span-inventory-001",
+      "title": "Rank repeated unresolved spans from redacted overlays",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added src/decode/phase2p_unresolved_span_inventory.py and proof /tmp/proof_snail_phase2p_unresolved_span_inventory_20260427T160515Z. Ranked 2000 unresolved span rows into 1867 unique hashes and 36 repeated unresolved spans; sensitive span text remained external only."
+    },
+    {
+      "id": "phase2q-external-template-trial-001",
+      "title": "Trial repeated unresolved spans as external-only templates",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added src/decode/phase2q_external_template_trial.py and proof /tmp/proof_snail_phase2q_external_template_trial_20260427T160811Z. Tested 12 external candidate templates and increased handlers with >=50% phrase coverage from 22 to 45 without committing candidate text."
+    },
+    {
+      "id": "phase2r-candidate-classifier-001",
+      "title": "Classify external template candidates for safe promotion",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added src/decode/phase2r_candidate_classifier.py and proof /tmp/proof_snail_phase2r_candidate_classifier_20260427T195222Z. Classified 12 external candidates into 8 candidate-promotable API/grammar fragments and 4 domain/event constants kept external."
+    },
+    {
+      "id": "phase2s-promotable-template-trial-001",
+      "title": "Trial only promotable external template candidates",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added src/decode/phase2s_promotable_template_trial.py and proof /tmp/proof_snail_phase2s_promotable_template_trial_20260427T195500Z. Tested 8 promotable external templates and improved >=50% handler coverage from 22 to 36 while excluding 4 domain/event constants."
+    },
+    {
+      "id": "phase2t-conflict-overlay-001",
+      "title": "Render conflict-aware overlays with base and promotable external templates",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added src/decode/phase2t_conflict_overlay.py and proof /tmp/proof_snail_phase2t_conflict_overlay_20260427T195741Z. Selected 1945 non-overlapping overlays, including 174 promotable external occurrences, with 3 skipped overlaps and 0 unknown/conflict gap rows."
+    },
+    {
+      "id": "phase2u-promotable-stats-001",
+      "title": "Rank selected promotable external templates with sanitized metadata",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added src/decode/phase2u_promotable_stats.py and proof /tmp/proof_snail_phase2u_promotable_stats_20260427T195959Z. Ranked 8 promotable templates using sanitized metadata only; top 2 API/member fragments had 83 selected overlays combined and zero skipped overlaps."
+    },
+    {
+      "id": "phase2v-api-template-promotion-001",
+      "title": "Promote top API/member templates into committed base phrase table",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Promoted only dormutil_close_communicating and close_communicating_dorm into the base phrase table. Proofs /tmp/proof_snail_phase2l_standard_phrase_gap_20260427T200142Z, /tmp/proof_snail_phase2m_phrase_coverage_20260427T200142Z, and /tmp/proof_snail_phase2o_template_overlay_20260427T200147Z improved >=50% base coverage from 22 to 32 with 0 context conflicts."
+    },
+    {
+      "id": "phase2w-grammar-fragment-audit-001",
+      "title": "Audit external grammar fragments for promotion risk",
+      "priority": "high",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added src/decode/phase2w_grammar_fragment_audit.py and proof /tmp/proof_snail_phase2w_grammar_fragment_audit_20260427T200422Z. Audited 5 grammar candidates, marking 2 trial_ok and 3 hold while keeping fragment text external."
+    },
+    {
+      "id": "phase3-wire-capture-prep-001",
+      "title": "Prepare safe wire-capture workflow for auth and transport discovery",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [],
+      "notes": "Added scripts/phase3_capture_prep_check.sh, docs/capture/phase3_wire_capture_runbook.md, docs/capture/phase3_capture_report_template.md, and reports/phase3-wire-capture-prep-20260427.md. Prep proof /tmp/proof_snail_phase3_capture_prep_20260427T205158Z passed with emulator-5554, app PID 7211, ignored private capture dirs, and raw_capture_started=false. Do not commit raw captures, secrets, auth headers, cookies, device IDs, or account identifiers."
+    },
+    {
+      "id": "phase3-capture-toolchain-readiness-001",
+      "title": "Inventory local mitmproxy, Frida, and tcpdump readiness without live capture",
+      "priority": "critical",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [
+        "phase3-wire-capture-prep-001"
+      ],
+      "notes": "Created reports/phase3-capture-toolchain-readiness-20260427.md. Host mitmproxy/mitmdump 12.2.2, Frida 17.9.1, host tcpdump, and device tcpdump are present. frida-ps -U sees Super Snail PID 7211. tshark is missing but not blocking. No live capture or hooks were started."
+    },
+    {
+      "id": "phase3-capture-report-sanitizer-001",
+      "title": "Add sanitizer guard for Phase 3 capture reports",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [
+        "phase3-wire-capture-prep-001"
+      ],
+      "notes": "Added scripts/validate_capture_report.py and tests/test_validate_capture_report.py, updated Phase 3 capture docs to require validation, and wired qa_gate.sh to scan capture docs/reports for real-looking tokens, cookies, auth headers, raw HTTP markers, and secret fields before autosync."
+    },
+    {
+      "id": "phase3-passive-startup-capture-001",
+      "title": "Run first controlled passive startup capture and sanitized metadata report",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [
+        "phase3-wire-capture-prep-001",
+        "phase3-capture-report-sanitizer-001"
+      ],
+      "notes": "Captured private ignored PCAP captures/private/phase3/20260427T213957Z/passive_startup_20260427T213957Z.pcap using device tcpdump during app force-stop/start. Raw PCAP SHA256 3a9b12fc42949aa22f8319dc537bbe65485585b5b3121386175f4618ed63bc94, size 363264 bytes, 3245 packets, 0 drops. Committed only sanitized metadata report reports/phase3-passive-startup-capture-20260427T213957Z.md. Candidate ports include TCP/443, TCP/80, UDP/443, UDP/53, and low-volume TCP/3000; no Phase 2 protocol correlation yet."
+    },
+    {
+      "id": "phase3-socket-attribution-001",
+      "title": "Attribute candidate startup sockets to Android processes",
+      "priority": "critical",
+      "risk": "medium",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [
+        "phase3-passive-startup-capture-001"
+      ],
+      "notes": "Created reports/phase3-socket-attribution-20260427T2144Z.md. Android ss output attributed TCP/3000 to com.qcplay.snail.android.na:jpushremote PID 14559, not the main game process PID 14133. Main process sockets observed were TCP/443 and TCP/80. TCP/3000 is now treated as likely auxiliary push/remote traffic unless later evidence proves protocol use."
+    },
+    {
+      "id": "phase3-proxy-readiness-001",
+      "title": "Test proxy setup, CA cert install, and TLS pinning detection",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [
+        "phase3-wire-capture-prep-001",
+        "phase3-capture-toolchain-readiness-001"
+      ],
+      "notes": "Set emulator proxy to 10.0.2.2:8080, started mitmdump with stream_large_bodies=1, attempted CA cert install (system CA blocked by bootloader lock, user CA copied). Game HTTP telemetry to log.game.qcplay.com:80 visible. HTTPS traffic shows TLS handshake failures (certificate unknown) for all domains. Game PID 15163 confirmed using proxy. Proxy setting removed after test. Raw flows in captures/private/phase3/20260427T180051/. Sanitized report reports/phase3-proxy-readiness-20260427T220000Z.md committed."
+    },
+    {
+      "id": "phase3-frida-ssl-unpin-001",
+      "title": "Deploy Frida and bypass Java-layer SSL certificate pinning",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [
+        "phase3-wire-capture-prep-001",
+        "phase3-capture-toolchain-readiness-001",
+        "phase3-proxy-readiness-001"
+      ],
+      "notes": "Deployed frida-server 17.9.1-android-x86_64 to emulator. Applied universal Java-layer SSL unpinning script (scripts/frida_ssl_unpin.js) targeting TrustManager, Conscrypt TrustManagerImpl, SSLContext, HostnameVerifier, and WebView SSL. Successfully intercepted HTTPS traffic: graph.facebook.com (Facebook SDK), qcplay.aihelp.net (AI Help), x2eayo.launches.appsflyersdk.com (AppsFlyer), and cloudfront.net CDN. Conscrypt TrustManagerImpl checkTrustedRecursive() bypass confirmed working. No game-specific API endpoints observed during startup-only capture. Raw flows in captures/private/phase3/20260427T195500/. Sanitized report reports/phase3-frida-unpin-20260427T220000Z.md committed."
+    },
+    {
+      "id": "phase3-interactive-session-001",
+      "title": "Interactive game session capture with user menu navigation",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [
+        "phase3-wire-capture-prep-001",
+        "phase3-proxy-readiness-001",
+        "phase3-frida-ssl-unpin-001"
+      ],
+      "notes": "~40 minute interactive session with tutorial completion and rankings/club/arena menu browsing. Captured 3,094 client connections. Identified game API endpoint POST 47.252.33.99:8081/game_post (2 calls). Mapped config infrastructure (.dis files, relay configs, CDN). 58 telemetry sync calls to log.game.qcplay.com. Critical finding: JPush (jpush-hw-game.qcplay.com:443) made 2,750 failed TLS connections using native TLS not bypassed by Java-layer unpinning. No Phase 2C protocol names observed in URLs. Raw flows in captures/private/phase3/20260428T002048/. Sanitized report reports/phase3-interactive-session-20260428T010000Z.md committed."
+    },
+    {
+      "id": "phase3-native-boringssl-hook-001",
+      "title": "Native BoringSSL hooking and application-layer intercept for JPush",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [
+        "phase3-proxy-readiness-001",
+        "phase3-frida-ssl-unpin-001",
+        "phase3-interactive-session-001"
+      ],
+      "notes": "Analyzed libcocos2dlua.so BoringSSL symbols (SSL_CTX_set_verify, SSL_set_verify, SSL_do_handshake, SSL_read, SSL_write all exported). Frida 17.9.1 cannot enumerate the library as a module; workaround uses /proc/self/maps parsing. Native hooks applied successfully. JPush traffic not visible in short test session (timing-related). Application-layer fallback via SSL_read/SSL_write and VerifyAgent hooks prepared. Report: reports/phase3-native-boringssl-hooking-20260427T230000Z.md."
+    },
+    {
+      "id": "phase3-extended-jpush-capture-001",
+      "title": "Extended JPush capture session with attach-mode Frida and system SSL hooks",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [
+        "phase3-interactive-session-001",
+        "phase3-native-boringssl-hook-001"
+      ],
+      "notes": "35-minute interactive session with both game and JPush processes hooked. Critical finding: JPush runs in separate process (:jpushremote). One JPush HTTPS POST /v3/report captured. Native SSL hooks applied but 0 hits (connections pre-established). Persistent TCP/3000 and TCP/50504 connections identified as likely custom protocol. Report: reports/phase3-extended-jpush-capture-20260428T053039Z.md. Raw captures in captures/private/phase3/20260428T053039/ (gitignored)."
+    },
+    {
+      "id": "phase3-application-layer-hook-001",
+      "title": "Application-layer protocol message hook in libcocos2dlua.so",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [
+        "phase3-interactive-session-001",
+        "phase3-native-boringssl-hook-001"
+      ],
+      "notes": "Discovered and hooked CommMgr::OnPacketArrived, OnDataRecved, socket_receive_data, VerifyAgent::recvMsg, and AddMsgDefine in libcocos2dlua.so. lua_pcall hook blocked by Frida 17.9.1 bug. User-driven interactive session attempted (2026-04-28T161430Z); no protocol traffic captured. Possible causes: cached menu data, UI element miss, or JPush remote process handling traffic. Report: reports/phase3-application-layer-hook-20260428.md + reports/phase3-hook-session-20260428T161430Z.md. Runners: scripts/run_phase3_hook.py (attach) and scripts/run_phase3_hook_spawn.py (spawn-gate, ANR issues on emulator)."
+    },
+    {
+      "id": "phase3-live-traffic-capture-001",
+      "title": "Capture live custom protocol traffic via device tcpdump",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [
+        "phase3-application-layer-hook-001"
+      ],
+      "notes": "Captured raw TCP packets to 47.252.2.69:50504 during user navigation. Confirmed active custom binary protocol exists but bypasses CommMgr application-layer hooks. Identified 8-byte 4d5a magic header and packet framing structure. Both main and JPush processes share the socket inode. Report: reports/phase3-live-traffic-capture-20260428.md. Raw capture: /tmp/game_capture.pcap (external, not committed)."
+    },
+    {
+      "id": "phase3-recv-send-hook-001",
+      "title": "Raw recv()/send() hook on main process for custom binary protocol",
+      "priority": "critical",
+      "risk": "high",
+      "status": "done",
+      "passes": true,
+      "blocked_by": [
+        "phase3-live-traffic-capture-001"
+      ],
+      "notes": "Built scripts/frida_recv_hook.js and scripts/run_recv_hook.py. Hooks applied successfully to libc.so (recv/send/read/write/connect/close) and libssl.so (SSL_read/SSL_write) on main process PID 8296. 5 Facebook SDK HTTPS packets captured. Custom binary protocol on 50504 was not active during capture window — connection is dynamic. Need active gameplay to trigger. Report: reports/phase3-recv-hook-analysis-20260428T1855Z.md."
+    },
+    {
+      "id": "phase4-api-client-scaffold-001",
+      "title": "Build rank-data API client scaffold after transport and auth are proven",
+      "priority": "high",
+      "risk": "high",
+      "status": "blocked",
+      "passes": false,
+      "blocked_by": [
+        "phase3-wire-capture-prep-001",
+        "phase3-proxy-readiness-001",
+        "phase3-frida-ssl-unpin-001",
+        "phase3-interactive-session-001",
+        "phase3-native-boringssl-hook-001",
+        "phase3-extended-jpush-capture-001",
+        "phase3-application-layer-hook-001",
+        "phase3-live-traffic-capture-001",
+        "phase3-recv-send-hook-001"
+      ],
+      "notes": "Blocked. Raw recv() hooks working but 50504 connection is dynamic — not active during capture. Need to: (1) capture during active gameplay with tcpdump to confirm connection timing, (2) hook JPush remote process if it handles 50504, or (3) use spawn-gating to catch connection establishment. Phase 2C protocol names and Phase 2G field-flow maps are ready inputs."
+    }
+  ]
+}

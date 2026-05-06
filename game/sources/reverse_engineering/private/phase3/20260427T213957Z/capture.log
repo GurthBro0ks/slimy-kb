@@ -1,0 +1,6 @@
+utc=20260427T213957Z
+remote_pcap=/data/local/tmp/snail_phase3_20260427T213957Z.pcap
+local_pcap=captures/private/phase3/20260427T213957Z/passive_startup_20260427T213957Z.pcap
+mode=passive_startup_metadata
+Starting: Intent { cmp=com.qcplay.snail.android.na/org.cocos2dx.lua.AppActivity }
+/data/local/tmp/snail_phase3_20260427T213957Z.pcap: 1 file pulled, 0 skipped. 11.0 MB/s (363264 bytes in 0.032s)

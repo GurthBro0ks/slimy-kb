@@ -1,0 +1,17 @@
+-rw-rw-r-- 1 mint mint 29723 Apr 26 12:07 /tmp/PROTOCOL_SPEC.md
+-rw-rw-r-- 1 mint mint 22966 Apr 26 12:52 /tmp/PROTOCOL_SPEC_v2.md
+-rw-rw-r-- 1 mint mint 25750 Apr 26 12:07 /tmp/all_protocol_messages.txt
+-rw-rw-r-- 1 mint mint 25781 Apr 26 12:52 /tmp/all_protocol_messages_v2.txt
+-rw-rw-r-- 1 mint mint  1079 Apr 26 12:52 /tmp/cipher_solve_log.txt
+-rw-r--r-- 1 mint mint  1515 Apr 26 11:54 /tmp/decode_handlers.py
+-rw-r--r-- 1 mint mint   864 Apr 26 11:53 /tmp/decrypt_all.py
+-rw-r--r-- 1 mint mint  4870 Apr 26 12:52 /tmp/final_solve.py
+-rw-r--r-- 1 mint mint 32554 Apr 26 12:52 /tmp/list.luac
+-rw-rw-r-- 1 mint mint 32525 Apr 26 12:07 /tmp/list_clean_decoded.lua
+-rw-rw-r-- 1 mint mint 32551 Apr 26 12:52 /tmp/list_clean_decoded_v2.lua
+-rw-r--r-- 1 mint mint   114 Apr 26 12:52 /tmp/msg_arena_top_query.luac
+-rw-r--r-- 1 mint mint   123 Apr 26 12:52 /tmp/msg_group_rank.luac
+-rw-r--r-- 1 mint mint   770 Apr 26 12:51 /tmp/plan.py
+-rw-r--r-- 1 mint mint  2592 Apr 26 12:50 /tmp/solve_and_rewrite.py
+-rw-r--r-- 1 mint mint   530 Apr 26 12:07 /tmp/substitution_table.txt
+-rw-rw-r-- 1 mint mint  1080 Apr 26 12:52 /tmp/substitution_table_v2.txt

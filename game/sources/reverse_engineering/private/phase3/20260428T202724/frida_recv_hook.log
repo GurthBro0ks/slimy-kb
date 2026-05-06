@@ -1,0 +1,63 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[+] libc.so found @ 0x7f8aed697000
+[*] Phase 3 raw recv()/send() hook starting...
+[*] Target port: 50504 (0xC548)
+[*] Logging first 128 bytes of each packet only
+[+] Hooking connect @ 0x7f8aed6f82b0
+[+] Hooking recv @ 0x7f8aed706060
+[+] Hooking recvfrom @ 0x7f8aed750070
+[+] Hooking read @ 0x7f8aed74f1f0
+[+] Hooking send @ 0x7f8aed7069b0
+[+] Hooking sendto @ 0x7f8aed6f82e0
+[+] Hooking write @ 0x7f8aed74f210
+[+] libssl.so found @ 0x7f8828540000
+[+] Hooking SSL_read @ 0x7f8828588ad0
+[+] Hooking SSL_write @ 0x7f8828588f10
+[*] Scanning existing TCP connections...
+[-] Could not open /proc/self/net/tcp
+[+] All hooks applied. Waiting for game server connection...
+[+] Navigate the game to trigger protocol traffic.
+[Android Emulator 5554::PID::8296 ]-> [CLIENT->SERVER] #1 ts=2026-04-28T20:29:04.183Z fd=-1 len=5764
+  HEX: 504f5354202f61646e775f73796e6332 20485454502f312e310d0a436f6e7465 6e742d547970653a206170706c696361 74696f6e2f782d7777772d666f726d2d 75726c656e636f6465643b6368617273 65743d5554462d380d0a416363657074 2d436861727365743a205554462d380d 0a582d46422d506f6f6c2d526f757469
+  ASC: POST /adnw_sync2 HTTP/1.1..Content-Type: application/x-www-form-urlencoded;charset=UTF-8..Accept-Charset: UTF-8..X-FB-Pool-Routi
+  STRINGS: 4 found
+    [0] POST /adnw_sync2 HTTP/1.1
+    [27] Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+    [90] Accept-Charset: UTF-8
+    [113] X-FB-Pool-Routi
+[SERVER->CLIENT] #1 ts=2026-04-28T20:29:04.409Z fd=-1 len=1500
+  HEX: 485454502f312e3120323030204f4b0d 0a566172793a204163636570742d456e 636f64696e670d0a436f6e74656e742d 456e636f64696e673a20677a69700d0a 436f6e74656e742d547970653a207465 78742f6a6176617363726970743b2063 6861727365743d7574662d380d0a7265 706f7274696e672d656e64706f696e74
+  ASC: HTTP/1.1 200 OK..Vary: Accept-Encoding..Content-Encoding: gzip..Content-Type: text/javascript; charset=utf-8..reporting-endpoint
+  STRINGS: 5 found
+    [0] HTTP/1.1 200 OK
+    [17] Vary: Accept-Encoding
+    [40] Content-Encoding: gzip
+    [64] Content-Type: text/javascript; charset=utf-8
+    [110] reporting-endpoint
+[SERVER->CLIENT] #2 ts=2026-04-28T20:29:04.411Z fd=-1 len=1785
+  HEX: 627362782e636f6d2077733a2f2f6c6f 63616c686f73743a2a20626c6f623a20 2a2e63646e696e7374616772616d2e63 6f6d202773656c662720616e64726f69 642d776562766965772d766964656f2d 706f737465723a20687474703a2f2f6c 6f63616c686f73743a33313033207773 733a2f2f676174657761792e66616365
+  ASC: bsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' android-webview-video-poster: http://localhost:3103 wss://gateway.face
+  STRINGS: 1 found
+    [0] bsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' android-webview-video-poster: http://localhost:3103 wss://gateway.face
+[SERVER->CLIENT] #3 ts=2026-04-28T20:29:04.413Z fd=-1 len=1682
+  HEX: 7065726d697373696f6e732d706f6c69 63793a20616363656c65726f6d657465 723d28292c206174747269627574696f 6e2d7265706f7274696e673d2873656c 66292c206175746f706c61793d28292c 20626c7565746f6f74683d28292c2062 726f7773696e672d746f706963733d28 73656c66292c2063616d6572613d2873
+  ASC: permissions-policy: accelerometer=(), attribution-reporting=(self), autoplay=(), bluetooth=(), browsing-topics=(self), camera=(s
+  STRINGS: 1 found
+    [0] permissions-policy: accelerometer=(), attribution-reporting=(self), autoplay=(), bluetooth=(), browsing-topics=(self), camera=(s
+[SERVER->CLIENT] #4 ts=2026-04-28T20:29:04.418Z fd=-1 len=1413
+  HEX: 1f8b08000000000000038c56db721b37 0cfd950e9f1deb6ec93b93e938b5a3c4 cdcdade5388e3a1c2c895db1e2920c2f 929d8cffbd835dc996642be9831eb404 40e0e01c103f98c7e0ac09c8b21f2c57 52a2e7d1ced170650acb325624add901 2b1062f2c88535852ad7dfef0f589e8c d418f6b8ff601222d48791e36df41058
+  ASC: ...........V.r.7.......n.;..8.......8.:.,.]..../......]..d+.....@....?........,WR.....pe..2V$...+.b...5.*....X.......`."....m..X
+
+[Android Emulator 5554::PID::8296 ]-> 
+[Android Emulator 5554::PID::8296 ]-> 

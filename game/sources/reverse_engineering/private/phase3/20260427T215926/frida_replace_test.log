@@ -1,0 +1,30 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> 
+var base = ptr('0x78d13643d000');
+var addr = base.add(0xca0ac0);
+console.log('Trying to replace:', addr);
+try {
+  Interceptor.replace(addr, new NativeCallback(function(ssl) {
+    console.log('SSL_get_peer_certificate replaced');
+    return ptr(0x1);
+  }, 'pointer', ['pointer']));
+  console.log('Replace succeeded');
+} catch (e) {
+  console.log('Replace failed:', e.message);
+}
+
+Trying to replace: 0x78d1370ddac0
+Replace failed: unable to intercept function at 0x78d1370ddac0; please file a bug
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!

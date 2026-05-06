@@ -1,0 +1,95 @@
+[18:06:41.819] HTTP(S) proxy listening at *:8080.
+[18:08:41.248][127.0.0.1:47146] client connect
+[18:08:41.518][127.0.0.1:47146] server connect graph.facebook.com:443 (157.240.254.12:443)
+[18:08:42.026][127.0.0.1:47146] Client TLS handshake failed. The client does not trust the proxy's certificate for graph.facebook.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[18:08:42.027][127.0.0.1:47146] client disconnect
+[18:08:42.027][127.0.0.1:47146] server disconnect graph.facebook.com:443 (157.240.254.12:443)
+[18:09:00.496][127.0.0.1:48550] client connect
+[18:09:00.555][127.0.0.1:48550] server connect clientservices.googleapis.com:443 (142.251.211.14:443)
+[18:09:01.058][127.0.0.1:48550] Client TLS handshake failed. The client does not trust the proxy's certificate for clientservices.googleapis.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[18:09:01.059][127.0.0.1:48550] client disconnect
+[18:09:01.059][127.0.0.1:48550] server disconnect clientservices.googleapis.com:443 (142.251.211.14:443)
+[18:09:01.201][127.0.0.1:48558] client connect
+[18:09:01.460][127.0.0.1:48574] client connect
+[18:09:01.529][127.0.0.1:48584] client connect
+[18:09:01.530][127.0.0.1:48598] client connect
+[18:09:01.651][127.0.0.1:48574] server connect edgedl.me.gvt1.com:80 (34.104.35.123:80)
+[18:09:01.658][127.0.0.1:48584] server connect o-sdk.mediation.unity3d.com:443 (143.204.204.80:443)
+[18:09:01.680][127.0.0.1:48574] Streaming response from edgedl.me.gvt1.com.
+127.0.0.1:48574: GET http://edgedl.me.gvt1.com/edgedl/release2/chrome_compon…
+              << 200 OK (content missing)
+[18:09:02.179][127.0.0.1:48600] client connect
+[18:09:02.181][127.0.0.1:48584] Client TLS handshake failed. The client does not trust the proxy's certificate for o-sdk.mediation.unity3d.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[18:09:02.182][127.0.0.1:48584] client disconnect
+[18:09:02.182][127.0.0.1:48584] server disconnect o-sdk.mediation.unity3d.com:443 (143.204.204.80:443)
+[18:09:02.206][127.0.0.1:48600] server connect update.googleapis.com:443 (142.251.34.238:443)
+[18:09:02.249][127.0.0.1:48600] Client TLS handshake failed. The client does not trust the proxy's certificate for update.googleapis.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[18:09:02.250][127.0.0.1:48600] client disconnect
+[18:09:02.251][127.0.0.1:48600] server disconnect update.googleapis.com:443 (142.251.34.238:443)
+[18:09:02.251][127.0.0.1:48616] client connect
+[18:09:02.336][127.0.0.1:48598] server connect log.game.qcplay.com:80 (203.107.33.139:80)
+[18:09:02.337][127.0.0.1:48598] Streaming request to log.game.qcplay.com.
+[18:09:02.506][127.0.0.1:48626] client connect
+[18:09:02.555][127.0.0.1:48598] Streaming response from log.game.qcplay.com.
+127.0.0.1:48598: POST http://log.game.qcplay.com/sync
+              << 200 OK (content missing)
+[18:09:02.585][127.0.0.1:48626] server connect update.googleapis.com:80 (142.251.34.238:80)
+[18:09:02.585][127.0.0.1:48626] Streaming request to update.googleapis.com.
+[18:09:02.626][127.0.0.1:48626] Streaming response from update.googleapis.com.
+127.0.0.1:48626: POST http://update.googleapis.com/service/update2/json
+              << 200 OK (content missing)
+/home/mint/.local/lib/python3.12/site-packages/OpenSSL/crypto.py:1231: CryptographyDeprecationWarning: Parsed a serial number which wasn't positive (i.e., it was negative or zero), which is disallowed by RFC 5280. Loading this certificate will cause an exception in a future release of cryptography.
+  return load_der_x509_certificate(der)
+[18:10:09.879][127.0.0.1:48598] client disconnect
+[18:10:09.879][127.0.0.1:48598] server disconnect log.game.qcplay.com:80 (203.107.33.139:80)
+[18:10:18.372][127.0.0.1:50682] client connect
+[18:10:18.372][127.0.0.1:50686] client connect
+[18:10:18.373][127.0.0.1:50698] client connect
+[18:10:18.516][127.0.0.1:50682] server connect graph.facebook.com:443 (157.240.254.12:443)
+[18:10:18.516][127.0.0.1:50686] server connect graph.facebook.com:443 (157.240.254.12:443)
+[18:10:18.517][127.0.0.1:50698] server connect graph.facebook.com:443 (157.240.254.12:443)
+[18:10:18.794][127.0.0.1:50714] client connect
+[18:10:18.889][127.0.0.1:50724] client connect
+[18:10:18.947][127.0.0.1:50734] client connect
+[18:10:19.042][127.0.0.1:50724] server connect graph.facebook.com:443 (157.240.254.12:443)
+[18:10:19.072][127.0.0.1:50734] server connect x2eayo.launches.appsflyersdk.com:443 (13.249.141.81:443)
+[18:10:19.073][127.0.0.1:50682] Client TLS handshake failed. The client does not trust the proxy's certificate for graph.facebook.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[18:10:19.077][127.0.0.1:50698] Client TLS handshake failed. The client does not trust the proxy's certificate for graph.facebook.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[18:10:19.077][127.0.0.1:50686] Client TLS handshake failed. The client does not trust the proxy's certificate for graph.facebook.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[18:10:19.078][127.0.0.1:50682] client disconnect
+[18:10:19.080][127.0.0.1:50698] client disconnect
+[18:10:19.081][127.0.0.1:50686] client disconnect
+[18:10:19.081][127.0.0.1:50682] server disconnect graph.facebook.com:443 (157.240.254.12:443)
+[18:10:19.081][127.0.0.1:50698] server disconnect graph.facebook.com:443 (157.240.254.12:443)
+[18:10:19.082][127.0.0.1:50686] server disconnect graph.facebook.com:443 (157.240.254.12:443)
+[18:10:19.103][127.0.0.1:50714] server connect qcplay.aihelp.net:443 (169.55.254.202:443)
+[18:10:19.126][127.0.0.1:50724] Client TLS handshake failed. The client does not trust the proxy's certificate for graph.facebook.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[18:10:19.127][127.0.0.1:50724] client disconnect
+[18:10:19.127][127.0.0.1:50724] server disconnect graph.facebook.com:443 (157.240.254.12:443)
+[18:10:19.139][127.0.0.1:50734] Client TLS handshake failed. The client does not trust the proxy's certificate for x2eayo.launches.appsflyersdk.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[18:10:19.140][127.0.0.1:50734] client disconnect
+[18:10:19.141][127.0.0.1:50734] server disconnect x2eayo.launches.appsflyersdk.com:443 (13.249.141.81:443)
+[18:10:19.196][127.0.0.1:50714] Client TLS handshake failed. The client does not trust the proxy's certificate for qcplay.aihelp.net (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[18:10:19.196][127.0.0.1:50714] client disconnect
+[18:10:19.197][127.0.0.1:50714] server disconnect qcplay.aihelp.net:443 (169.55.254.202:443)
+[18:10:19.420][127.0.0.1:50744] client connect
+[18:10:19.421][127.0.0.1:50756] client connect
+[18:10:19.667][127.0.0.1:50744] server connect qcplay.aihelp.net:443 (169.61.195.139:443)
+[18:10:19.668][127.0.0.1:50756] server connect qcplay.aihelp.net:443 (169.55.254.202:443)
+[18:10:20.176][127.0.0.1:50756] Client TLS handshake failed. The client does not trust the proxy's certificate for qcplay.aihelp.net (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[18:10:20.177][127.0.0.1:50756] client disconnect
+[18:10:20.177][127.0.0.1:50756] server disconnect qcplay.aihelp.net:443 (169.55.254.202:443)
+[18:10:20.181][127.0.0.1:50744] Client TLS handshake failed. The client does not trust the proxy's certificate for qcplay.aihelp.net (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[18:10:20.182][127.0.0.1:50744] client disconnect
+[18:10:20.182][127.0.0.1:50744] server disconnect qcplay.aihelp.net:443 (169.61.195.139:443)
+[18:10:21.824][127.0.0.1:50766] client connect
+[18:10:22.387][127.0.0.1:50766] server connect sdk-sg.qcplay.com:443 (170.33.96.31:443)
+[18:10:22.566][127.0.0.1:50766] Client TLS handshake failed. The client does not trust the proxy's certificate for sdk-sg.qcplay.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[18:10:22.567][127.0.0.1:50766] client disconnect
+[18:10:22.567][127.0.0.1:50766] server disconnect sdk-sg.qcplay.com:443 (170.33.96.31:443)
+[18:11:30.574][127.0.0.1:48558] client disconnect
+[18:11:30.575][127.0.0.1:48574] client disconnect
+[18:11:30.575][127.0.0.1:48616] client disconnect
+[18:11:30.576][127.0.0.1:48626] client disconnect
+[18:11:30.576][127.0.0.1:48574] server disconnect edgedl.me.gvt1.com:80 (34.104.35.123:80)
+[18:11:30.576][127.0.0.1:48626] server disconnect update.googleapis.com:80 (142.251.34.238:80)

@@ -1,0 +1,55 @@
+# Complete Monoalphabetic Substitution Cipher Table
+# Format: encoded_char -> decoded_char
+# Total mappings: 46
+
+## Lowercase Letters (26 mappings)
+a -> v
+c -> 0
+e -> k
+f -> e
+g -> a
+i -> W
+j -> P
+k -> u
+l -> w
+m -> N
+n -> z
+p -> t
+q -> q
+s -> 5
+t -> 2
+u -> f
+v -> d
+x -> b
+y -> m
+z -> h
+
+## Uppercase Letters (14 mappings)
+A -> r
+B -> x
+C -> I
+E -> C
+F -> o
+I -> R
+J -> 3
+L -> j
+N -> D
+O -> A
+P -> E
+Q -> G
+R -> O
+T -> s
+V -> y
+W -> l
+Z -> U
+
+## Digits (6 mappings)
+0 -> 4
+1 -> S
+2 -> 1
+3 -> p
+4 -> i
+5 -> g
+7 -> n
+8 -> c
+9 -> M

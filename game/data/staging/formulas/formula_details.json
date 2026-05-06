@@ -1,0 +1,2076 @@
+{
+  "single_cell_sum": [
+    {
+      "sheet": "Leadership",
+      "cell": "D3",
+      "formula": "=SUM(D2)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "E13",
+      "formula": "=FLOOR(VLOOKUP(D13,$A$2:$L$7,IF(C13=\"Male\",11,12),false) + IF(D13=\"Dracula\", $M$18*3, 0) + 3*$M$21*SUM(G12),1)"
+    }
+  ],
+  "vlookup_no_iferror": [
+    {
+      "sheet": "Compass",
+      "cell": "G32",
+      "formula": "=VLOOKUP($C32,$A$3:$R$25,4,FALSE)+VLOOKUP($C32,$A$3:$R$25,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H32",
+      "formula": "=VLOOKUP($C32,$A$3:$R$25,8,FALSE)+VLOOKUP($G32,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I32",
+      "formula": "=VLOOKUP($C32,$A$3:$R$25,9,FALSE)+VLOOKUP($G32,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J32",
+      "formula": "=VLOOKUP($C32,$A$3:$R$25,10,FALSE)+VLOOKUP($G32,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K32",
+      "formula": "=VLOOKUP($C32,$A$3:$R$25,11,FALSE)+VLOOKUP($G32,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L32",
+      "formula": "=VLOOKUP($C32,$A$3:$R$25,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M32",
+      "formula": "=VLOOKUP($C32,$A$3:$R$25,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N32",
+      "formula": "=VLOOKUP($C32,$A$3:$R$25,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O32",
+      "formula": "=VLOOKUP($C32,$A$3:$R$25,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P32",
+      "formula": "=VLOOKUP($C32,$A$3:$R$25,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q32",
+      "formula": "=VLOOKUP($C32,$A$3:$R$25,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G33",
+      "formula": "=VLOOKUP($C33,$A$3:$R$25,4,FALSE)+VLOOKUP($C33,$A$3:$R$25,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H33",
+      "formula": "=VLOOKUP($C33,$A$3:$R$25,8,FALSE)+VLOOKUP($G33,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I33",
+      "formula": "=VLOOKUP($C33,$A$3:$R$25,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J33",
+      "formula": "=VLOOKUP($C33,$A$3:$R$25,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K33",
+      "formula": "=VLOOKUP($C33,$A$3:$R$25,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L33",
+      "formula": "=VLOOKUP($C33,$A$3:$R$25,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M33",
+      "formula": "=VLOOKUP($C33,$A$3:$R$25,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N33",
+      "formula": "=VLOOKUP($C33,$A$3:$R$25,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O33",
+      "formula": "=VLOOKUP($C33,$A$3:$R$25,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P33",
+      "formula": "=VLOOKUP($C33,$A$3:$R$25,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q33",
+      "formula": "=VLOOKUP($C33,$A$3:$R$25,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G34",
+      "formula": "=VLOOKUP($C34,$A$3:$R$25,4,FALSE)+VLOOKUP($C34,$A$3:$R$25,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H34",
+      "formula": "=VLOOKUP($C34,$A$3:$R$25,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I34",
+      "formula": "=VLOOKUP($C34,$A$3:$R$25,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J34",
+      "formula": "=VLOOKUP($C34,$A$3:$R$25,10,FALSE)+VLOOKUP(G34,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K34",
+      "formula": "=VLOOKUP($C34,$A$3:$R$25,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L34",
+      "formula": "=VLOOKUP($C34,$A$3:$R$25,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M34",
+      "formula": "=VLOOKUP($C34,$A$3:$R$25,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N34",
+      "formula": "=VLOOKUP($C34,$A$3:$R$25,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O34",
+      "formula": "=VLOOKUP($C34,$A$3:$R$25,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P34",
+      "formula": "=VLOOKUP($C34,$A$3:$R$25,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q34",
+      "formula": "=VLOOKUP($C34,$A$3:$R$25,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G35",
+      "formula": "=VLOOKUP($C35,$A$3:$R$25,4,FALSE)+VLOOKUP($C35,$A$3:$R$25,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H35",
+      "formula": "=VLOOKUP($C35,$A$3:$R$25,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I35",
+      "formula": "=VLOOKUP($C35,$A$3:$R$25,9,FALSE)+VLOOKUP(G35,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J35",
+      "formula": "=VLOOKUP($C35,$A$3:$R$25,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K35",
+      "formula": "=VLOOKUP($C35,$A$3:$R$25,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L35",
+      "formula": "=VLOOKUP($C35,$A$3:$R$25,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M35",
+      "formula": "=VLOOKUP($C35,$A$3:$R$25,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N35",
+      "formula": "=VLOOKUP($C35,$A$3:$R$25,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O35",
+      "formula": "=VLOOKUP($C35,$A$3:$R$25,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P35",
+      "formula": "=VLOOKUP($C35,$A$3:$R$25,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q35",
+      "formula": "=VLOOKUP($C35,$A$3:$R$25,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G36",
+      "formula": "=VLOOKUP($C36,$A$3:$R$25,4,FALSE)+VLOOKUP($C36,$A$3:$R$25,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H36",
+      "formula": "=VLOOKUP($C36,$A$3:$R$25,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I36",
+      "formula": "=VLOOKUP($C36,$A$3:$R$25,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J36",
+      "formula": "=VLOOKUP($C36,$A$3:$R$25,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K36",
+      "formula": "=VLOOKUP($C36,$A$3:$R$25,11,FALSE)+VLOOKUP(G36,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L36",
+      "formula": "=VLOOKUP($C36,$A$3:$R$25,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M36",
+      "formula": "=VLOOKUP($C36,$A$3:$R$25,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N36",
+      "formula": "=VLOOKUP($C36,$A$3:$R$25,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O36",
+      "formula": "=VLOOKUP($C36,$A$3:$R$25,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P36",
+      "formula": "=VLOOKUP($C36,$A$3:$R$25,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q36",
+      "formula": "=VLOOKUP($C36,$A$3:$R$25,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G70",
+      "formula": "=VLOOKUP($C70,$A$43:$R$63,4,FALSE)+VLOOKUP($C70,$A$43:$R$63,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H70",
+      "formula": "=VLOOKUP($C70,$A$43:$R$63,8,FALSE)+VLOOKUP($G70,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I70",
+      "formula": "=VLOOKUP($C70,$A$43:$R$63,9,FALSE)+VLOOKUP($G70,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J70",
+      "formula": "=VLOOKUP($C70,$A$43:$R$63,10,FALSE)+VLOOKUP($G70,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K70",
+      "formula": "=VLOOKUP($C70,$A$43:$R$63,11,FALSE)+VLOOKUP($G70,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L70",
+      "formula": "=VLOOKUP($C70,$A$43:$R$63,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M70",
+      "formula": "=VLOOKUP($C70,$A$43:$R$63,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N70",
+      "formula": "=VLOOKUP($C70,$A$43:$R$63,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O70",
+      "formula": "=VLOOKUP($C70,$A$43:$R$63,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P70",
+      "formula": "=VLOOKUP($C70,$A$43:$R$63,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q70",
+      "formula": "=VLOOKUP($C70,$A$43:$R$63,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G71",
+      "formula": "=VLOOKUP($C71,$A$43:$R$63,4,FALSE)+VLOOKUP($C71,$A$43:$R$63,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H71",
+      "formula": "=VLOOKUP($C71,$A$43:$R$63,8,FALSE)+VLOOKUP($G71,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I71",
+      "formula": "=VLOOKUP($C71,$A$43:$R$63,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J71",
+      "formula": "=VLOOKUP($C71,$A$43:$R$63,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K71",
+      "formula": "=VLOOKUP($C71,$A$43:$R$63,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L71",
+      "formula": "=VLOOKUP($C71,$A$43:$R$63,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M71",
+      "formula": "=VLOOKUP($C71,$A$43:$R$63,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N71",
+      "formula": "=VLOOKUP($C71,$A$43:$R$63,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O71",
+      "formula": "=VLOOKUP($C71,$A$43:$R$63,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P71",
+      "formula": "=VLOOKUP($C71,$A$43:$R$63,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q71",
+      "formula": "=VLOOKUP($C71,$A$43:$R$63,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G72",
+      "formula": "=VLOOKUP($C72,$A$43:$R$63,4,FALSE)+VLOOKUP($C72,$A$43:$R$63,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H72",
+      "formula": "=VLOOKUP($C72,$A$43:$R$63,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I72",
+      "formula": "=VLOOKUP($C72,$A$43:$R$63,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J72",
+      "formula": "=VLOOKUP($C72,$A$43:$R$63,10,FALSE)+VLOOKUP(G72,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K72",
+      "formula": "=VLOOKUP($C72,$A$43:$R$63,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L72",
+      "formula": "=VLOOKUP($C72,$A$43:$R$63,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M72",
+      "formula": "=VLOOKUP($C72,$A$43:$R$63,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N72",
+      "formula": "=VLOOKUP($C72,$A$43:$R$63,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O72",
+      "formula": "=VLOOKUP($C72,$A$43:$R$63,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P72",
+      "formula": "=VLOOKUP($C72,$A$43:$R$63,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q72",
+      "formula": "=VLOOKUP($C72,$A$43:$R$63,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G73",
+      "formula": "=VLOOKUP($C73,$A$43:$R$63,4,FALSE)+VLOOKUP($C73,$A$43:$R$63,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H73",
+      "formula": "=VLOOKUP($C73,$A$43:$R$63,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I73",
+      "formula": "=VLOOKUP($C73,$A$43:$R$63,9,FALSE)+VLOOKUP(G73,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J73",
+      "formula": "=VLOOKUP($C73,$A$43:$R$63,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K73",
+      "formula": "=VLOOKUP($C73,$A$43:$R$63,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L73",
+      "formula": "=VLOOKUP($C73,$A$43:$R$63,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M73",
+      "formula": "=VLOOKUP($C73,$A$43:$R$63,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N73",
+      "formula": "=VLOOKUP($C73,$A$43:$R$63,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O73",
+      "formula": "=VLOOKUP($C73,$A$43:$R$63,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P73",
+      "formula": "=VLOOKUP($C73,$A$43:$R$63,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q73",
+      "formula": "=VLOOKUP($C73,$A$43:$R$63,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G74",
+      "formula": "=VLOOKUP($C74,$A$43:$R$63,4,FALSE)+VLOOKUP($C74,$A$43:$R$63,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H74",
+      "formula": "=VLOOKUP($C74,$A$43:$R$63,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I74",
+      "formula": "=VLOOKUP($C74,$A$43:$R$63,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J74",
+      "formula": "=VLOOKUP($C74,$A$43:$R$63,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K74",
+      "formula": "=VLOOKUP($C74,$A$43:$R$63,11,FALSE)+VLOOKUP(G74,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L74",
+      "formula": "=VLOOKUP($C74,$A$43:$R$63,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M74",
+      "formula": "=VLOOKUP($C74,$A$43:$R$63,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N74",
+      "formula": "=VLOOKUP($C74,$A$43:$R$63,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O74",
+      "formula": "=VLOOKUP($C74,$A$43:$R$63,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P74",
+      "formula": "=VLOOKUP($C74,$A$43:$R$63,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q74",
+      "formula": "=VLOOKUP($C74,$A$43:$R$63,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G107",
+      "formula": "=VLOOKUP($C107,$A$80:$R$100,4,FALSE)+VLOOKUP($C107,$A$80:$R$100,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H107",
+      "formula": "=VLOOKUP($C107,$A$80:$R$100,8,FALSE)+VLOOKUP(G107,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I107",
+      "formula": "=VLOOKUP($C107,$A$80:$R$100,9,FALSE)+VLOOKUP(G107,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J107",
+      "formula": "=VLOOKUP($C107,$A$80:$R$100,10,FALSE)+VLOOKUP(G107,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K107",
+      "formula": "=VLOOKUP($C107,$A$80:$R$100,11,FALSE)+VLOOKUP(G107,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L107",
+      "formula": "=VLOOKUP($C107,$A$80:$R$100,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M107",
+      "formula": "=VLOOKUP($C107,$A$80:$R$100,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N107",
+      "formula": "=VLOOKUP($C107,$A$80:$R$100,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O107",
+      "formula": "=VLOOKUP($C107,$A$80:$R$100,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P107",
+      "formula": "=VLOOKUP($C107,$A$80:$R$100,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q107",
+      "formula": "=VLOOKUP($C107,$A$80:$R$100,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G108",
+      "formula": "=VLOOKUP($C108,$A$80:$R$100,4,FALSE)+VLOOKUP($C108,$A$80:$R$100,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H108",
+      "formula": "=VLOOKUP($C108,$A$80:$R$100,8,FALSE)+VLOOKUP($G108,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I108",
+      "formula": "=VLOOKUP($C108,$A$80:$R$100,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J108",
+      "formula": "=VLOOKUP($C108,$A$80:$R$100,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K108",
+      "formula": "=VLOOKUP($C108,$A$80:$R$100,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L108",
+      "formula": "=VLOOKUP($C108,$A$80:$R$100,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M108",
+      "formula": "=VLOOKUP($C108,$A$80:$R$100,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N108",
+      "formula": "=VLOOKUP($C108,$A$80:$R$100,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O108",
+      "formula": "=VLOOKUP($C108,$A$80:$R$100,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P108",
+      "formula": "=VLOOKUP($C108,$A$80:$R$100,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q108",
+      "formula": "=VLOOKUP($C108,$A$80:$R$100,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H109",
+      "formula": "=VLOOKUP($C109,$A$80:$R$100,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I109",
+      "formula": "=VLOOKUP($C109,$A$80:$R$100,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J109",
+      "formula": "=VLOOKUP($C109,$A$80:$R$100,10,FALSE)+VLOOKUP(G109,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K109",
+      "formula": "=VLOOKUP($C109,$A$80:$R$100,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L109",
+      "formula": "=VLOOKUP($C109,$A$80:$R$100,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M109",
+      "formula": "=VLOOKUP($C109,$A$80:$R$100,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N109",
+      "formula": "=VLOOKUP($C109,$A$80:$R$100,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O109",
+      "formula": "=VLOOKUP($C109,$A$80:$R$100,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P109",
+      "formula": "=VLOOKUP($C109,$A$80:$R$100,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q109",
+      "formula": "=VLOOKUP($C109,$A$80:$R$100,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G110",
+      "formula": "=VLOOKUP($C110,$A$80:$R$100,4,FALSE)+VLOOKUP($C110,$A$80:$R$100,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H110",
+      "formula": "=VLOOKUP($C110,$A$80:$R$100,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I110",
+      "formula": "=VLOOKUP($C110,$A$80:$R$100,9,FALSE)+VLOOKUP(G110,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J110",
+      "formula": "=VLOOKUP($C110,$A$80:$R$100,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K110",
+      "formula": "=VLOOKUP($C110,$A$80:$R$100,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L110",
+      "formula": "=VLOOKUP($C110,$A$80:$R$100,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M110",
+      "formula": "=VLOOKUP($C110,$A$80:$R$100,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N110",
+      "formula": "=VLOOKUP($C110,$A$80:$R$100,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O110",
+      "formula": "=VLOOKUP($C110,$A$80:$R$100,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P110",
+      "formula": "=VLOOKUP($C110,$A$80:$R$100,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q110",
+      "formula": "=VLOOKUP($C110,$A$80:$R$100,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G111",
+      "formula": "=VLOOKUP($C111,$A$80:$R$100,4,FALSE)+VLOOKUP($C111,$A$80:$R$100,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H111",
+      "formula": "=VLOOKUP($C111,$A$80:$R$100,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I111",
+      "formula": "=VLOOKUP($C111,$A$80:$R$100,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J111",
+      "formula": "=VLOOKUP($C111,$A$80:$R$100,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K111",
+      "formula": "=VLOOKUP($C111,$A$80:$R$100,11,FALSE)+VLOOKUP(G111,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L111",
+      "formula": "=VLOOKUP($C111,$A$80:$R$100,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M111",
+      "formula": "=VLOOKUP($C111,$A$80:$R$100,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N111",
+      "formula": "=VLOOKUP($C111,$A$80:$R$100,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O111",
+      "formula": "=VLOOKUP($C111,$A$80:$R$100,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P111",
+      "formula": "=VLOOKUP($C111,$A$80:$R$100,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q111",
+      "formula": "=VLOOKUP($C111,$A$80:$R$100,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G159",
+      "formula": "=VLOOKUP($C159,$A$121:$R$152,4,FALSE)+VLOOKUP($C159,$A$121:$R$152,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H159",
+      "formula": "=VLOOKUP($C159,$A$121:$R$152,8,FALSE)+VLOOKUP($G159,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I159",
+      "formula": "=VLOOKUP($C159,$A$121:$R$152,9,FALSE)+VLOOKUP($G159,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J159",
+      "formula": "=VLOOKUP($C159,$A$121:$R$152,10,FALSE)+VLOOKUP($G159,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K159",
+      "formula": "=VLOOKUP($C159,$A$121:$R$152,11,FALSE)+VLOOKUP($G159,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L159",
+      "formula": "=VLOOKUP($C159,$A$121:$R$152,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M159",
+      "formula": "=VLOOKUP($C159,$A$121:$R$152,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N159",
+      "formula": "=VLOOKUP($C159,$A$121:$R$152,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O159",
+      "formula": "=VLOOKUP($C159,$A$121:$R$152,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P159",
+      "formula": "=VLOOKUP($C159,$A$121:$R$152,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q159",
+      "formula": "=VLOOKUP($C159,$A$121:$R$152,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G160",
+      "formula": "=VLOOKUP($C160,$A$121:$R$152,4,FALSE)+VLOOKUP($C160,$A$121:$R$152,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H160",
+      "formula": "=VLOOKUP($C160,$A$121:$R$152,8,FALSE)+VLOOKUP($G160,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I160",
+      "formula": "=VLOOKUP($C160,$A$121:$R$152,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J160",
+      "formula": "=VLOOKUP($C160,$A$121:$R$152,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K160",
+      "formula": "=VLOOKUP($C160,$A$121:$R$152,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L160",
+      "formula": "=VLOOKUP($C160,$A$121:$R$152,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M160",
+      "formula": "=VLOOKUP($C160,$A$121:$R$152,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N160",
+      "formula": "=VLOOKUP($C160,$A$121:$R$152,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O160",
+      "formula": "=VLOOKUP($C160,$A$121:$R$152,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P160",
+      "formula": "=VLOOKUP($C160,$A$121:$R$152,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q160",
+      "formula": "=VLOOKUP($C160,$A$121:$R$152,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G161",
+      "formula": "=VLOOKUP($C161,$A$121:$R$152,4,FALSE)+VLOOKUP($C161,$A$121:$R$152,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H161",
+      "formula": "=VLOOKUP($C161,$A$121:$R$152,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I161",
+      "formula": "=VLOOKUP($C161,$A$121:$R$152,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J161",
+      "formula": "=VLOOKUP($C161,$A$121:$R$152,10,FALSE)+VLOOKUP(G161,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K161",
+      "formula": "=VLOOKUP($C161,$A$121:$R$152,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L161",
+      "formula": "=VLOOKUP($C161,$A$121:$R$152,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M161",
+      "formula": "=VLOOKUP($C161,$A$121:$R$152,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N161",
+      "formula": "=VLOOKUP($C161,$A$121:$R$152,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O161",
+      "formula": "=VLOOKUP($C161,$A$121:$R$152,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P161",
+      "formula": "=VLOOKUP($C161,$A$121:$R$152,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q161",
+      "formula": "=VLOOKUP($C161,$A$121:$R$152,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G162",
+      "formula": "=VLOOKUP($C162,$A$121:$R$152,4,FALSE)+VLOOKUP($C162,$A$121:$R$152,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H162",
+      "formula": "=VLOOKUP($C162,$A$121:$R$152,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I162",
+      "formula": "=VLOOKUP($C162,$A$121:$R$152,9,FALSE)+VLOOKUP(G162,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J162",
+      "formula": "=VLOOKUP($C162,$A$121:$R$152,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K162",
+      "formula": "=VLOOKUP($C162,$A$121:$R$152,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L162",
+      "formula": "=VLOOKUP($C162,$A$121:$R$152,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M162",
+      "formula": "=VLOOKUP($C162,$A$121:$R$152,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N162",
+      "formula": "=VLOOKUP($C162,$A$121:$R$152,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O162",
+      "formula": "=VLOOKUP($C162,$A$121:$R$152,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P162",
+      "formula": "=VLOOKUP($C162,$A$121:$R$152,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q162",
+      "formula": "=VLOOKUP($C162,$A$121:$R$152,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G163",
+      "formula": "=VLOOKUP($C163,$A$121:$R$152,4,FALSE)+VLOOKUP($C163,$A$121:$R$152,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H163",
+      "formula": "=VLOOKUP($C163,$A$121:$R$152,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I163",
+      "formula": "=VLOOKUP($C163,$A$121:$R$152,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J163",
+      "formula": "=VLOOKUP($C163,$A$121:$R$152,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K163",
+      "formula": "=VLOOKUP($C163,$A$121:$R$152,11,FALSE)+VLOOKUP(G163,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L163",
+      "formula": "=VLOOKUP($C163,$A$121:$R$152,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M163",
+      "formula": "=VLOOKUP($C163,$A$121:$R$152,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N163",
+      "formula": "=VLOOKUP($C163,$A$121:$R$152,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O163",
+      "formula": "=VLOOKUP($C163,$A$121:$R$152,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P163",
+      "formula": "=VLOOKUP($C163,$A$121:$R$152,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q163",
+      "formula": "=VLOOKUP($C163,$A$121:$R$152,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G197",
+      "formula": "=VLOOKUP($C197,$A$170:$R$190,4,FALSE)+VLOOKUP($C197,$A$170:$R$190,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H197",
+      "formula": "=VLOOKUP($C197,$A$170:$R$190,8,FALSE)+VLOOKUP($G197,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I197",
+      "formula": "=VLOOKUP($C197,$A$170:$R$190,9,FALSE)+VLOOKUP($G197,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J197",
+      "formula": "=VLOOKUP($C197,$A$170:$R$190,10,FALSE)+VLOOKUP($G197,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K197",
+      "formula": "=VLOOKUP($C197,$A$170:$R$190,11,FALSE)+VLOOKUP($G197,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L197",
+      "formula": "=VLOOKUP($C197,$A$170:$R$190,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M197",
+      "formula": "=VLOOKUP($C197,$A$170:$R$190,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N197",
+      "formula": "=VLOOKUP($C197,$A$170:$R$190,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O197",
+      "formula": "=VLOOKUP($C197,$A$170:$R$190,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P197",
+      "formula": "=VLOOKUP($C197,$A$170:$R$190,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q197",
+      "formula": "=VLOOKUP($C197,$A$170:$R$190,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G198",
+      "formula": "=VLOOKUP($C198,$A$170:$R$190,4,FALSE)+VLOOKUP($C198,$A$170:$R$190,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H198",
+      "formula": "=VLOOKUP($C198,$A$170:$R$190,8,FALSE)+VLOOKUP($G198,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I198",
+      "formula": "=VLOOKUP($C198,$A$170:$R$190,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J198",
+      "formula": "=VLOOKUP($C198,$A$170:$R$190,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K198",
+      "formula": "=VLOOKUP($C198,$A$170:$R$190,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L198",
+      "formula": "=VLOOKUP($C198,$A$170:$R$190,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M198",
+      "formula": "=VLOOKUP($C198,$A$170:$R$190,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N198",
+      "formula": "=VLOOKUP($C198,$A$170:$R$190,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O198",
+      "formula": "=VLOOKUP($C198,$A$170:$R$190,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P198",
+      "formula": "=VLOOKUP($C198,$A$170:$R$190,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q198",
+      "formula": "=VLOOKUP($C198,$A$170:$R$190,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G199",
+      "formula": "=VLOOKUP($C199,$A$170:$R$190,4,FALSE)+VLOOKUP($C199,$A$170:$R$190,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H199",
+      "formula": "=VLOOKUP($C199,$A$170:$R$190,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I199",
+      "formula": "=VLOOKUP($C199,$A$170:$R$190,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J199",
+      "formula": "=VLOOKUP($C199,$A$170:$R$190,10,FALSE)+VLOOKUP(G199,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K199",
+      "formula": "=VLOOKUP($C199,$A$170:$R$190,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L199",
+      "formula": "=VLOOKUP($C199,$A$170:$R$190,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M199",
+      "formula": "=VLOOKUP($C199,$A$170:$R$190,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N199",
+      "formula": "=VLOOKUP($C199,$A$170:$R$190,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O199",
+      "formula": "=VLOOKUP($C199,$A$170:$R$190,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P199",
+      "formula": "=VLOOKUP($C199,$A$170:$R$190,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q199",
+      "formula": "=VLOOKUP($C199,$A$170:$R$190,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G200",
+      "formula": "=VLOOKUP($C200,$A$170:$R$190,4,FALSE)+VLOOKUP($C200,$A$170:$R$190,18,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H200",
+      "formula": "=VLOOKUP($C200,$A$170:$R$190,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I200",
+      "formula": "=VLOOKUP($C200,$A$170:$R$190,9,FALSE)+VLOOKUP(G200,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J200",
+      "formula": "=VLOOKUP($C200,$A$170:$R$190,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K200",
+      "formula": "=VLOOKUP($C200,$A$170:$R$190,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L200",
+      "formula": "=VLOOKUP($C200,$A$170:$R$190,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M200",
+      "formula": "=VLOOKUP($C200,$A$170:$R$190,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N200",
+      "formula": "=VLOOKUP($C200,$A$170:$R$190,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O200",
+      "formula": "=VLOOKUP($C200,$A$170:$R$190,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P200",
+      "formula": "=VLOOKUP($C200,$A$170:$R$190,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q200",
+      "formula": "=VLOOKUP($C200,$A$170:$R$190,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H201",
+      "formula": "=VLOOKUP($C201,$A$170:$R$190,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I201",
+      "formula": "=VLOOKUP($C201,$A$170:$R$190,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J201",
+      "formula": "=VLOOKUP($C201,$A$170:$R$190,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K201",
+      "formula": "=VLOOKUP($C201,$A$170:$R$190,11,FALSE)+VLOOKUP(G201,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L201",
+      "formula": "=VLOOKUP($C201,$A$170:$R$190,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M201",
+      "formula": "=VLOOKUP($C201,$A$170:$R$190,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N201",
+      "formula": "=VLOOKUP($C201,$A$170:$R$190,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O201",
+      "formula": "=VLOOKUP($C201,$A$170:$R$190,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P201",
+      "formula": "=VLOOKUP($C201,$A$170:$R$190,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q201",
+      "formula": "=VLOOKUP($C201,$A$170:$R$190,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "F233",
+      "formula": "=VLOOKUP($B233,$A$208:$G$226,3,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G233",
+      "formula": "=IF(D233=F233, VLOOKUP($B233,$A$208:$S$226, 4,FALSE) + VLOOKUP($B233,$A$208:$S$226, 18,FALSE), VLOOKUP($B233,$A$208:$S$226, 19,FALSE))"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H233",
+      "formula": "=VLOOKUP($B233,$A$208:$Q$226,8,FALSE)+VLOOKUP($G233,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I233",
+      "formula": "=VLOOKUP($B233,$A$208:$Q$226,9,FALSE)+VLOOKUP($G233,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J233",
+      "formula": "=VLOOKUP($B233,$A$208:$Q$226,10,FALSE)+VLOOKUP($G233,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K233",
+      "formula": "=VLOOKUP($B233,$A$208:$Q$226,11,FALSE)+VLOOKUP($G233,$Y$2:$AA$50,2)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L233",
+      "formula": "=VLOOKUP($B233,$A$208:$Q$226,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M233",
+      "formula": "=VLOOKUP($B233,$A$208:$Q$226,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N233",
+      "formula": "=VLOOKUP($B233,$A$208:$Q$226,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O233",
+      "formula": "=VLOOKUP($B233,$A$208:$Q$226,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P233",
+      "formula": "=VLOOKUP($B233,$A$208:$Q$226,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q233",
+      "formula": "=VLOOKUP($B233,$A$208:$Q$226,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "F234",
+      "formula": "=VLOOKUP($B234,$A$208:$G$226,3,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G234",
+      "formula": "=IF(D234=F234, VLOOKUP($B234,$A$208:$S$226, 4,FALSE) + VLOOKUP($B234,$A$208:$S$226, 18,FALSE), VLOOKUP($B234,$A$208:$S$226, 19,FALSE))"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H234",
+      "formula": "=VLOOKUP($B234,$A$208:$Q$226,8,FALSE)+VLOOKUP($G234,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I234",
+      "formula": "=VLOOKUP($B234,$A$208:$Q$226,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J234",
+      "formula": "=VLOOKUP($B234,$A$208:$Q$226,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K234",
+      "formula": "=VLOOKUP($B234,$A$208:$Q$226,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L234",
+      "formula": "=VLOOKUP($B234,$A$208:$Q$226,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M234",
+      "formula": "=VLOOKUP($B234,$A$208:$Q$226,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N234",
+      "formula": "=VLOOKUP($B234,$A$208:$Q$226,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O234",
+      "formula": "=VLOOKUP($B234,$A$208:$Q$226,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P234",
+      "formula": "=VLOOKUP($B234,$A$208:$Q$226,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q234",
+      "formula": "=VLOOKUP($B234,$A$208:$Q$226,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "F235",
+      "formula": "=VLOOKUP($B235,$A$208:$G$226,3,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G235",
+      "formula": "=IF(D235=F235, VLOOKUP($B235,$A$208:$S$226, 4,FALSE) + VLOOKUP($B235,$A$208:$S$226, 18,FALSE), VLOOKUP($B235,$A$208:$S$226, 19,FALSE))"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H235",
+      "formula": "=VLOOKUP($B235,$A$208:$Q$226,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I235",
+      "formula": "=VLOOKUP($B235,$A$208:$Q$226,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J235",
+      "formula": "=VLOOKUP($B235,$A$208:$Q$226,10,FALSE)+VLOOKUP($G235,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K235",
+      "formula": "=VLOOKUP($B235,$A$208:$Q$226,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L235",
+      "formula": "=VLOOKUP($B235,$A$208:$Q$226,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M235",
+      "formula": "=VLOOKUP($B235,$A$208:$Q$226,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N235",
+      "formula": "=VLOOKUP($B235,$A$208:$Q$226,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O235",
+      "formula": "=VLOOKUP($B235,$A$208:$Q$226,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P235",
+      "formula": "=VLOOKUP($B235,$A$208:$Q$226,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q235",
+      "formula": "=VLOOKUP($B235,$A$208:$Q$226,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "F236",
+      "formula": "=VLOOKUP($B236,$A$208:$G$226,3,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G236",
+      "formula": "=IF(D236=F236, VLOOKUP($B236,$A$208:$S$226, 4,FALSE) + VLOOKUP($B236,$A$208:$S$226, 18,FALSE), VLOOKUP($B236,$A$208:$S$226, 19,FALSE))"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H236",
+      "formula": "=VLOOKUP($B236,$A$208:$Q$226,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I236",
+      "formula": "=VLOOKUP($B236,$A$208:$Q$226,9,FALSE)+VLOOKUP($G236,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J236",
+      "formula": "=VLOOKUP($B236,$A$208:$Q$226,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K236",
+      "formula": "=VLOOKUP($B236,$A$208:$Q$226,11,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L236",
+      "formula": "=VLOOKUP($B236,$A$208:$Q$226,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M236",
+      "formula": "=VLOOKUP($B236,$A$208:$Q$226,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N236",
+      "formula": "=VLOOKUP($B236,$A$208:$Q$226,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O236",
+      "formula": "=VLOOKUP($B236,$A$208:$Q$226,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P236",
+      "formula": "=VLOOKUP($B236,$A$208:$Q$226,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q236",
+      "formula": "=VLOOKUP($B236,$A$208:$Q$226,17,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "F237",
+      "formula": "=VLOOKUP($B237,$A$208:$G$226,3,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "G237",
+      "formula": "=IF(D237=F237, VLOOKUP($B237,$A$208:$S$226, 4,FALSE) + VLOOKUP($B237,$A$208:$S$226, 18,FALSE), VLOOKUP($B237,$A$208:$S$226, 19,FALSE))"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "H237",
+      "formula": "=VLOOKUP($B237,$A$208:$Q$226,8,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "I237",
+      "formula": "=VLOOKUP($B237,$A$208:$Q$226,9,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "J237",
+      "formula": "=VLOOKUP($B237,$A$208:$Q$226,10,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "K237",
+      "formula": "=VLOOKUP($B237,$A$208:$Q$226,11,FALSE)+VLOOKUP($G237,$Y$2:$AA$50,3)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "L237",
+      "formula": "=VLOOKUP($B237,$A$208:$Q$226,12,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "M237",
+      "formula": "=VLOOKUP($B237,$A$208:$Q$226,13,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "N237",
+      "formula": "=VLOOKUP($B237,$A$208:$Q$226,14,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "O237",
+      "formula": "=VLOOKUP($B237,$A$208:$Q$226,15,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "P237",
+      "formula": "=VLOOKUP($B237,$A$208:$Q$226,16,FALSE)"
+    },
+    {
+      "sheet": "Compass",
+      "cell": "Q237",
+      "formula": "=VLOOKUP($B237,$A$208:$Q$226,17,FALSE)"
+    },
+    {
+      "sheet": "Partner Research Costs",
+      "cell": "B4",
+      "formula": "=VLOOKUP($B$3,$A$23:$H$51,8, FALSE)"
+    },
+    {
+      "sheet": "Partner Research Costs",
+      "cell": "B7",
+      "formula": "=VLOOKUP($B$3,$A$23:$H$51,2,FALSE)"
+    },
+    {
+      "sheet": "Partner Research Costs",
+      "cell": "C7",
+      "formula": "=VLOOKUP($B$3,$A$23:$H$51,3,FALSE)"
+    },
+    {
+      "sheet": "Partner Research Costs",
+      "cell": "D7",
+      "formula": "=VLOOKUP($B$3,$A$23:$H$51,4,FALSE)"
+    },
+    {
+      "sheet": "Partner Research Costs",
+      "cell": "E7",
+      "formula": "=VLOOKUP($B$3,$A$23:$H$51,5,FALSE)"
+    },
+    {
+      "sheet": "Partner Research Costs",
+      "cell": "F7",
+      "formula": "=VLOOKUP($B$3,$A$23:$H$51,6,FALSE)"
+    },
+    {
+      "sheet": "Partner Research Costs",
+      "cell": "G7",
+      "formula": "=VLOOKUP($B$3,$A$23:$H$51,7,FALSE)"
+    },
+    {
+      "sheet": "Partner Research Costs",
+      "cell": "B12",
+      "formula": "=VLOOKUP(SUM(B8:G8)+IF(B11,10,0),D76:E105,2, TRUE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "C2",
+      "formula": "=VLOOKUP(A2,'Drifter Stats'!$A$4:$Q$24,12,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "C3",
+      "formula": "=VLOOKUP(A3,'Drifter Stats'!$A$4:$Q$24,12,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "C4",
+      "formula": "=VLOOKUP(A4,'Drifter Stats'!$A$4:$Q$24,12,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "C5",
+      "formula": "=VLOOKUP(A5,'Drifter Stats'!$A$4:$Q$24,12,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "C6",
+      "formula": "=VLOOKUP(A6,'Drifter Stats'!$A$4:$Q$24,12,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "C7",
+      "formula": "=VLOOKUP(A7,'Drifter Stats'!$A$4:$Q$24,12,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "B12",
+      "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$B$6:$H$27,3,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "C12",
+      "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$X$6:$AC$27,2,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "E12",
+      "formula": "=FLOOR(VLOOKUP(D12,$A$2:$L$7,IF(C12=\"Male\",11,12),false)*(1+ IF(D12=\"Commissioner\", $M$20, 0)) + IF(D12=\"Dracula\", $M$18*3, 0),1)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "B13",
+      "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$B$6:$H$27,4,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "C13",
+      "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$X$6:$AC$27,3,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "E13",
+      "formula": "=FLOOR(VLOOKUP(D13,$A$2:$L$7,IF(C13=\"Male\",11,12),false) + IF(D13=\"Dracula\", $M$18*3, 0) + 3*$M$21*SUM(G12),1)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "B14",
+      "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$B$6:$H$27,5,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "C14",
+      "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$X$6:$AC$27,4,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "E14",
+      "formula": "=FLOOR(VLOOKUP(D14,$A$2:$L$7,IF(C14=\"Male\",11,12),false) + IF(D14=\"Dracula\", $M$18*3, 0) + 3*$M$21*SUM(G12:G13),1)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "B15",
+      "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$B$6:$H$27,6,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "C15",
+      "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$X$6:$AC$27,5,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "E15",
+      "formula": "=FLOOR(VLOOKUP(D15,$A$2:$L$7,IF(C15=\"Male\",11,12),false) + IF(D15=\"Dracula\", $M$18*3, 0) + 3*$M$21*SUM(G12:G14),1)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "B16",
+      "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$B$6:$H$27,7,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "C16",
+      "formula": "=VLOOKUP($B$18,'Rift Anecdotes'!$X$6:$AC$27,6,FALSE)"
+    },
+    {
+      "sheet": "Dance Calculator",
+      "cell": "E16",
+      "formula": "=FLOOR(VLOOKUP(D16,$A$2:$L$7,IF(C16=\"Male\",11,12),false) + IF(D16=\"Dracula\", $M$18*3, 0) + 3*$M$21*SUM(G12:G15),1)"
+    },
+    {
+      "sheet": "Band Calculator",
+      "cell": "C2",
+      "formula": "=VLOOKUP(A2,'Drifter Stats'!$A$4:$Q$24,2,FALSE)"
+    },
+    {
+      "sheet": "Band Calculator",
+      "cell": "C3",
+      "formula": "=VLOOKUP(A3,'Drifter Stats'!$A$4:$Q$24,2,FALSE)"
+    },
+    {
+      "sheet": "Band Calculator",
+      "cell": "C4",
+      "formula": "=VLOOKUP(A4,'Drifter Stats'!$A$4:$Q$24,2,FALSE)"
+    },
+    {
+      "sheet": "Band Calculator",
+      "cell": "C5",
+      "formula": "=VLOOKUP(A5,'Drifter Stats'!$A$4:$Q$24,2,FALSE)"
+    },
+    {
+      "sheet": "Band Calculator",
+      "cell": "C6",
+      "formula": "=VLOOKUP(A6,'Drifter Stats'!$A$4:$Q$24,2,FALSE)"
+    },
+    {
+      "sheet": "Band Calculator",
+      "cell": "B10",
+      "formula": "=VLOOKUP(B9,'Rift Anecdotes'!B174:G195,5,FALSE)"
+    },
+    {
+      "sheet": "Band Calculator",
+      "cell": "B11",
+      "formula": "=VLOOKUP(B9,'Rift Anecdotes'!B174:G195,6,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "C2",
+      "formula": "=VLOOKUP(A2,'Drifter Stats'!$A$4:$Q$24,4,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "C3",
+      "formula": "=VLOOKUP(A3,'Drifter Stats'!$A$4:$Q$24,4,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "C4",
+      "formula": "=VLOOKUP(A4,'Drifter Stats'!$A$4:$Q$24,4,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "C5",
+      "formula": "=VLOOKUP(A5,'Drifter Stats'!$A$4:$Q$24,4,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "C6",
+      "formula": "=VLOOKUP(A6,'Drifter Stats'!$A$4:$Q$24,4,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "B11",
+      "formula": "=VLOOKUP(A11,$A$1:$I$6,8,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "C11",
+      "formula": "=VLOOKUP(A11,$A$1:$I$6,9,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "B12",
+      "formula": "=VLOOKUP(A12,$A$1:$I$6,8,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "C12",
+      "formula": "=VLOOKUP(A12,$A$1:$I$6,9,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "B13",
+      "formula": "=VLOOKUP(A13,$A$1:$I$6,8,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "C13",
+      "formula": "=VLOOKUP(A13,$A$1:$I$6,9,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "B14",
+      "formula": "=VLOOKUP(A14,$A$1:$I$6,8,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "C14",
+      "formula": "=VLOOKUP(A14,$A$1:$I$6,9,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "B20",
+      "formula": "=VLOOKUP($B$16,'Rift Anecdotes'!$B$63:$G$85,5,FALSE)"
+    },
+    {
+      "sheet": "Sailing Calculator",
+      "cell": "B21",
+      "formula": "=IF(VLOOKUP($B$16,'Rift Anecdotes'!$B$63:$G$85,6,FALSE) > 0,VLOOKUP($B$16,'Rift Anecdotes'!$B$63:$G$85,6,FALSE), FLOOR(B20*0.52,1))"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "B8",
+      "formula": "=MIN(VLOOKUP(B7,$N$61:$P$67,2,TRUE), VLOOKUP($B$4,$K$71:$L$310,2,TRUE))"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "A10",
+      "formula": "=VLOOKUP($B6,$B$45:$F$176,2,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "B10",
+      "formula": "=VLOOKUP($B6,$B$45:$F$176,3,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "C10",
+      "formula": "=VLOOKUP($B6,$B$45:$F$176,5,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "D10",
+      "formula": "=VLOOKUP(B10,$I$46:$Q$49,2,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "E10",
+      "formula": "=VLOOKUP(B10,$I$46:$Q$49,B7+2,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "G10",
+      "formula": "=FLOOR(F10*(1+IF(A10=$B$3,VLOOKUP(C10,$I$61:$J$65,2,FALSE)/100,0)),1)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "B14",
+      "formula": "=MIN(VLOOKUP(B13,$N$61:$P$67,2,TRUE), VLOOKUP($B$4,$K$71:$L$310,2,TRUE))"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "A16",
+      "formula": "=VLOOKUP($B12,$B$45:$F$176,2,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "B16",
+      "formula": "=VLOOKUP($B12,$B$45:$F$176,3,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "C16",
+      "formula": "=VLOOKUP($B12,$B$45:$F$176,5,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "D16",
+      "formula": "=VLOOKUP(B16,$I$46:$Q$49,2,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "E16",
+      "formula": "=VLOOKUP(B16,$I$46:$Q$49,B13+2,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "G16",
+      "formula": "=FLOOR(F16*(1+IF(A16=$B$3,VLOOKUP(C16,$I$61:$J$65,2,FALSE)/100,0)),1)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "B27",
+      "formula": "=MIN(VLOOKUP(B26,$N$61:$P$67,3,TRUE), VLOOKUP($B$23,$K$71:$L$310,2,TRUE))"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "A29",
+      "formula": "=VLOOKUP($B25,$B$45:$F$176,2,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "B29",
+      "formula": "=VLOOKUP($B25,$B$45:$F$176,3,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "C29",
+      "formula": "=VLOOKUP($B25,$B$45:$F$176,5,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "D29",
+      "formula": "=VLOOKUP(B29,$I$53:$Q$57,2,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "E29",
+      "formula": "=VLOOKUP(B29,$I$53:$Q$57,B26+2,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "G29",
+      "formula": "=FLOOR(F29*(1+IF(A29=$B$22,VLOOKUP(C29,$I$61:$J$65,2,FALSE)/100,0)),1)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "B33",
+      "formula": "=MIN(VLOOKUP(B32,$N$61:$P$67,3,TRUE), VLOOKUP($B$23,$K$71:$L$310,2,TRUE))"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "A35",
+      "formula": "=VLOOKUP($B31,$B$45:$F$176,2,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "B35",
+      "formula": "=VLOOKUP($B31,$B$45:$F$176,3,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "C35",
+      "formula": "=VLOOKUP($B31,$B$45:$F$176,5,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "D35",
+      "formula": "=VLOOKUP(B35,$I$53:$Q$57,2,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "E35",
+      "formula": "=VLOOKUP(B35,$I$53:$Q$57,B32+2,FALSE)"
+    },
+    {
+      "sheet": "Protomon",
+      "cell": "G35",
+      "formula": "=FLOOR(F35*(1+IF(A35=$B$22,VLOOKUP(C35,$I$61:$J$65,2,FALSE)/100,0)),1)"
+    }
+  ]
+}

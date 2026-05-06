@@ -1,0 +1,23 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> 
+var mods = Process.enumerateModules();
+var cocos = mods.filter(function(m) { return m.name.indexOf('cocos') !== -1 || m.name.indexOf('lua') !== -1; });
+console.log('Cocos/Lua modules:', cocos.map(function(m) { return m.name + ' @ ' + m.base; }));
+var jpush = mods.filter(function(m) { return m.name.indexOf('jp') !== -1 || m.name.indexOf('push') !== -1; });
+console.log('Push modules:', jpush.map(function(m) { return m.name; }));
+
+Cocos/Lua modules: 
+Push modules: libjpeg.so,libjpegencoder.so,libjpegdecoder.so
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!

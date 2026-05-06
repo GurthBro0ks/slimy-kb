@@ -1,0 +1,1 @@
+/data/data/com.qcplay.snail.android.na/files/update_res/src/game/cmd/misc/msg_group_rank.luac: 1 file pulled, 0 skipped. 0.0 MB/s (173 bytes in 0.007s)

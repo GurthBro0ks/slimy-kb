@@ -1,0 +1,60 @@
+# Substitution Table Candidate
+
+Status: carried forward from /tmp/substitution_table.txt only; not a complete proof-derived table.
+Total mappings: 46
+
+a (0x61) -> v (0x76) | evidence_source=/tmp/substitution_table.txt:6
+c (0x63) -> 0 (0x30) | evidence_source=/tmp/substitution_table.txt:7
+e (0x65) -> k (0x6B) | evidence_source=/tmp/substitution_table.txt:8
+f (0x66) -> e (0x65) | evidence_source=/tmp/substitution_table.txt:9
+g (0x67) -> a (0x61) | evidence_source=/tmp/substitution_table.txt:10
+i (0x69) -> W (0x57) | evidence_source=/tmp/substitution_table.txt:11
+j (0x6A) -> P (0x50) | evidence_source=/tmp/substitution_table.txt:12
+k (0x6B) -> u (0x75) | evidence_source=/tmp/substitution_table.txt:13
+l (0x6C) -> w (0x77) | evidence_source=/tmp/substitution_table.txt:14
+m (0x6D) -> N (0x4E) | evidence_source=/tmp/substitution_table.txt:15
+n (0x6E) -> z (0x7A) | evidence_source=/tmp/substitution_table.txt:16
+p (0x70) -> t (0x74) | evidence_source=/tmp/substitution_table.txt:17
+q (0x71) -> q (0x71) | evidence_source=/tmp/substitution_table.txt:18
+s (0x73) -> 5 (0x35) | evidence_source=/tmp/substitution_table.txt:19
+t (0x74) -> 2 (0x32) | evidence_source=/tmp/substitution_table.txt:20
+u (0x75) -> f (0x66) | evidence_source=/tmp/substitution_table.txt:21
+v (0x76) -> d (0x64) | evidence_source=/tmp/substitution_table.txt:22
+x (0x78) -> b (0x62) | evidence_source=/tmp/substitution_table.txt:23
+y (0x79) -> m (0x6D) | evidence_source=/tmp/substitution_table.txt:24
+z (0x7A) -> h (0x68) | evidence_source=/tmp/substitution_table.txt:25
+A (0x41) -> r (0x72) | evidence_source=/tmp/substitution_table.txt:28
+B (0x42) -> x (0x78) | evidence_source=/tmp/substitution_table.txt:29
+C (0x43) -> I (0x49) | evidence_source=/tmp/substitution_table.txt:30
+E (0x45) -> C (0x43) | evidence_source=/tmp/substitution_table.txt:31
+F (0x46) -> o (0x6F) | evidence_source=/tmp/substitution_table.txt:32
+I (0x49) -> R (0x52) | evidence_source=/tmp/substitution_table.txt:33
+J (0x4A) -> 3 (0x33) | evidence_source=/tmp/substitution_table.txt:34
+L (0x4C) -> j (0x6A) | evidence_source=/tmp/substitution_table.txt:35
+N (0x4E) -> D (0x44) | evidence_source=/tmp/substitution_table.txt:36
+O (0x4F) -> A (0x41) | evidence_source=/tmp/substitution_table.txt:37
+P (0x50) -> E (0x45) | evidence_source=/tmp/substitution_table.txt:38
+Q (0x51) -> G (0x47) | evidence_source=/tmp/substitution_table.txt:39
+R (0x52) -> O (0x4F) | evidence_source=/tmp/substitution_table.txt:40
+T (0x54) -> s (0x73) | evidence_source=/tmp/substitution_table.txt:41
+V (0x56) -> y (0x79) | evidence_source=/tmp/substitution_table.txt:42
+W (0x57) -> l (0x6C) | evidence_source=/tmp/substitution_table.txt:43
+Z (0x5A) -> U (0x55) | evidence_source=/tmp/substitution_table.txt:44
+0 (0x30) -> 4 (0x34) | evidence_source=/tmp/substitution_table.txt:47
+1 (0x31) -> S (0x53) | evidence_source=/tmp/substitution_table.txt:48
+2 (0x32) -> 1 (0x31) | evidence_source=/tmp/substitution_table.txt:49
+3 (0x33) -> p (0x70) | evidence_source=/tmp/substitution_table.txt:50
+4 (0x34) -> i (0x69) | evidence_source=/tmp/substitution_table.txt:51
+5 (0x35) -> g (0x67) | evidence_source=/tmp/substitution_table.txt:52
+7 (0x37) -> n (0x6E) | evidence_source=/tmp/substitution_table.txt:53
+8 (0x38) -> c (0x63) | evidence_source=/tmp/substitution_table.txt:54
+9 (0x39) -> M (0x4D) | evidence_source=/tmp/substitution_table.txt:55
+
+## Observed Unmapped ASCII Alphanumeric Bytes
+
+- 6 (0x36)
+- H (0x48)
+- S (0x53)
+- b (0x62)
+- d (0x64)
+- r (0x72)

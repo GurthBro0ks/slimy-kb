@@ -1,0 +1,12 @@
+--- expected/msg_group_rank.luac
++++ candidate/msg_group_rank.luac
+@@ -1,5 +1,5 @@
+--- msg_group_rank
+--- Create by chenx 2023-06
+-return function(lpc)
+-    RankM.setRankInfo(RANKID_GROUP, nil, lpc.list)
+-end
++#+%msg+group+rank}c
++-;
++Create-by,chenx+*2023)0r;06;{+=|+return(function lpc|_(=*)RankM_setRankInfo#RANS
++ID*GROUP=(nil(_lpc:list;-(end-

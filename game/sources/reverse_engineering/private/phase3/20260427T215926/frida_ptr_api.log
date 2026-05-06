@@ -1,0 +1,30 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> 
+var buf = Memory.alloc(32);
+buf.writeUtf8String('hello world');
+console.log('typeof buf.readUtf8String:', typeof buf.readUtf8String);
+if (typeof buf.readUtf8String === 'function') {
+  console.log('readUtf8String:', buf.readUtf8String());
+}
+console.log('typeof buf.readCString:', typeof buf.readCString);
+if (typeof buf.readCString === 'function') {
+  console.log('readCString:', buf.readCString());
+}
+
+typeof buf.readUtf8String: function
+readUtf8String: hello world
+typeof buf.readCString: function
+readCString: hello world
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!

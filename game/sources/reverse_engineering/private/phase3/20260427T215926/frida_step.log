@@ -1,0 +1,36 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> 
+var libc = Process.findModuleByName('libc.so');
+var fopen = new NativeFunction(libc.findExportByName('fopen'), 'pointer', ['pointer', 'pointer']);
+var fgets = new NativeFunction(libc.findExportByName('fgets'), 'pointer', ['pointer', 'int', 'pointer']);
+var fclose = new NativeFunction(libc.findExportByName('fclose'), 'int', ['pointer']);
+var path = Memory.allocUtf8String('/proc/self/maps');
+var mode = Memory.allocUtf8String('r');
+var fp = fopen(path, mode);
+console.log('fp:', fp);
+var buffer = Memory.alloc(2048);
+console.log('buffer:', buffer);
+var line = fgets(buffer, 2048, fp);
+console.log('line:', line);
+var str = Memory.readUtf8String(buffer);
+console.log('first line:', str.substring(0, 80));
+fclose(fp);
+
+fp: 0x78d23f83a9b8
+buffer: 0x78d1a09b8000
+line: 0x78d1a09b8000
+TypeError: not a function
+    at <eval> (<input>:14)
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!

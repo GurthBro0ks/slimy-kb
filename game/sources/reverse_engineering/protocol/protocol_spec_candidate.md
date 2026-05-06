@@ -1,0 +1,975 @@
+# Protocol Spec Candidate
+
+No protocol names were normalized. Strings are shown exactly as decoded after stripping non-printable/noise bytes and applying the carried-forward substitution table.
+
+Total quoted strings: 962
+Exact/trusted-character strings: 48
+Unresolved/invalid-symbol strings: 914
+
+## Exact/Trusted-Character Strings
+
+- login@msgrelogin
+- misc@msgactive.slot
+- misc@msg_activity_roles
+- misc@msg_alert
+- misc@msgbbspraise
+- misc@msgbbs_recommend
+- misc@msg.bodyunlock
+- misc@msg.collection
+- misc@msg.collection_action
+- misc@msgcompeteforspeed_action
+- misc@msg eliminating.combatscenario
+- misc@msg_equip_divide
+- misc@msg equip exchange
+- misc@msg.equipment
+- misc@msgequipment.drop
+- misc@msg_evolution_ceremony_start
+- misc@msg_follower
+- misc@msghandbook
+- misc@msg_hero_active
+- misc@msg_heros
+- misc@msg.home
+- misc@msgitem
+- misc@msgmeme_bonus
+- misc@msg.mistress_info
+- misc@msgmistress list
+- misc@msgnpc
+- misc@msgorgan_divide
+- misc@msg partner
+- misc@msg partnerlightup
+- misc@msgpartners
+- misc@msgportraits
+- misc@msg praisequery
+- misc@msg_push
+- misc@msg pyramid.active
+- misc@msgraceaction
+- misc@msg_redpack_bubble
+- misc@msg_rocket_make
+- misc@msg.sacrificedevil.refresh
+- misc@msg.sacrifice speed_up.all
+- misc@msg secretmission.complete
+- misc@msg shuangdan2022jpaction
+- misc@msg_special_tower
+- misc@msg_sutra.horseskill up
+- misc@msg_task.consecratecost
+- misc@msg.tour.data
+- misc@msg_usahero
+- misc@msg user.brief
+- misc@msg.week.taskmyrank
+
+## Unresolved Strings
+
+- login@msg;login
+- login@msg#login:notify;ok
+- login@msg,me|updated
+- login@msg-start{game
+- misc@MSG{GROUP,WAR|MINE(RECORD
+- misc@msg*account}brief%data
+- misc@msgaccount+func;record(result
+- misc@msg+activate}race,graph
+- misc@msg*active,body
+- misc@msg active{rocket:robot
+- misc@msg_active son.tower-anomaly
+- misc@msg:activity}action
+- misc@msg-activity branch=level*action
+- misc@msg:activity.condition task_action
+- misc@msg*activity}crossserver}cache
+- misc@msg}activity.cultivate;action
+- misc@msg;activity#defense:war action
+- misc@msg+activity+equipment
+- misc@msg:activity%fish_action
+- misc@msg(activity=game room=action
+- misc@msgactivity%grid_map*action
+- misc@msg-activityiap_appear
+- misc@msg}activity{linear_level*action
+- misc@msg activity-lottery=special+event
+- misc@msg.activity;monopoly}action
+- misc@msg{activity|nonlinearcombat{action
+- misc@msg.activity,pray{bonus=action
+- misc@msg:activity)question
+- misc@msg,activity)redpack}action
+- misc@msg)activity)role
+- misc@msg;activity,role|action
+- misc@msg#activity+role|reset
+- misc@msg:activity:score)combat,action
+- misc@msg;activitysimple%recordaction
+- misc@msg%activity)speed;race#action
+- misc@msg}activity:task+stat:bonus
+- misc@msg#activity|turnplate2{action
+- misc@msg*activity,turnplate1{action
+- misc@msg:activity;turnplate)draw
+- misc@msg:activity%vote%action
+- misc@msg*activity|weapon_action
+- misc@msg;add|mistress:favor
+- misc@msg(ads}activity%fetch+bonus
+- misc@msg+ads;activity)fetch}boxbonus
+- misc@msg,ads(activity-open
+- misc@msg;ads|activity.submit{item
+- misc@msgads-bonus
+- misc@msg,adsskip*complete
+- misc@msg:aerospace:action
+- misc@msg(air)tube.disappear
+- misc@msg*allathena
+- misc@msg+all=dress
+- misc@msg:all.vehicle
+- misc@msg)anniversary2.action
+- misc@msg.anniversary4+action
+- misc@msg,anniversary}event}end
+- misc@msg*anniversary;support_list
+- misc@msg%anti{addiction_warn
+- misc@msg apostle tower:action
+- misc@msg;apply
+- misc@msg;apply:dish
+- misc@msg+arena=challengebonus
+- misc@msg arena{challenge{fail
+- misc@msg;arena{challenge*log
+- misc@msg)arena.enchase
+- misc@msg%arena%query;rank.score
+- misc@msg|arena-refresh)target
+- misc@msg:arena|shopbuy
+- misc@msg:arena#sweep
+- misc@msg,arena top
+- misc@msg|arena:top=query
+- misc@msg|arena(topthree
+- misc@msg+arena_week_bonus
+- misc@msg,assassin
+- misc@msgassassin%action{done
+- misc@msgassassin}level}up
+- misc@msg*assassins
+- misc@msg(athena#actionresult
+- misc@msg)attribbonus
+- misc@msg*auction-data
+- misc@msgauction=ret
+- misc@msg,basic*tower+action
+- misc@msg(batch%fetch*special+bonus
+- misc@msgbatch;iap}bonus
+- misc@msg(bbs=add
+- misc@msg-bbs}addreply
+- misc@msg:bbs,best
+- misc@msg)bbs:best*list
+- misc@msg-bbsnewest
+- misc@msg*bbs.reply
+- misc@msg#bbstop;list
+- misc@msg)bbs%total
+- misc@msg)bbs.unopen
+- misc@msg;beacon#plan)action
+- misc@msg)bind%invite:code
+- misc@msg,blacklist+action}result
+- misc@msg*blind*box}card=bonus
+- misc@msg(blind{box#history
+- misc@msg_body.evolve-fetch)item
+- misc@msg%body|organ
+- misc@msg;body(system_step
+- misc@msg(body)system_steps
+- misc@msg*body.variation
+- misc@msg%bonus#alert
+- misc@msg-bonus+list
+- misc@msgbonus+pool*limit
+- misc@msg(bonus*treasure-trove-effect
+- misc@msg;boss:clean}action
+- misc@msg#boss=combat(result
+- misc@msg-boss*frist-kill
+- misc@msg{boss.quick combat
+- misc@msgbranch(countryaction
+- misc@msg{bubble
+- misc@msg=buddhist
+- misc@msg#buddhist{equipment
+- misc@msg=buddhist*skilllevel+up
+- misc@msg}buff{data=updated
+- misc@msg{building enchase
+- misc@msg bulk+buy*dynamicgoods
+- misc@msg-businessman
+- misc@msg}businessman buy
+- misc@msg:businessmans
+- misc@msg)buy%dynamic-goods
+- misc@msg+buy-gemby,bill
+- misc@msg(buy-nickname{count
+- misc@msg_buy{snail%shop*goods
+- misc@msg,buy{week#task=good
+- misc@msg car,build
+- misc@msg:car{build}speed)up
+- misc@msg car,build:unlock
+- misc@msg#carbuildunlock#finish
+- misc@msg(car#compose
+- misc@msg;car,drop
+- misc@msg+car modify
+- misc@msgcar}piece)compose
+- misc@msg{cast(dice
+- misc@msgcelebration}action
+- misc@msg;cell:smelter{action
+- misc@msg)ceremony|devil
+- misc@msg-ceremony|task-action
+- misc@msg%ceremony)task_step-action
+- misc@msg;changearc.ball
+- misc@msg.change:bubble
+- misc@msg}change)chat:font
+- misc@msg*change(portrait
+- misc@msg=change,redpack_bubble
+- misc@msg(change.switch
+- misc@msgcharge:gift*action
+- misc@msg:chat{font
+- misc@msgchat:msg-limited
+- misc@msg:chatroom}history
+- misc@msg:chatroom;leave
+- misc@msg=chatroom}list
+- misc@msg;chatroom=messages
+- misc@msg(chatroom|revoke_list
+- misc@msg(chatroom)single%message
+- misc@msg+chatroomswitch
+- misc@msg;checkback=user
+- misc@msg-checkword
+- misc@msgchef=action
+- misc@msgchess)combat.action
+- misc@msg%chess}combat#scenario
+- misc@msg%chomper}actionresult
+- misc@msg}chomper;tower_infinite#action
+- misc@msg}clean plan+action
+- misc@msg|clear event
+- misc@msg click#group_newspaper
+- misc@msg#client*resource}replace
+- misc@msg=clone_wars-action
+- misc@msgcoin:active
+- misc@msg=coin,storage}action
+- misc@msg)coin.submit
+- misc@msg|collectbless}action
+- misc@msg=collection(awake
+- misc@msg.collection|compose
+- misc@msg)collection cultivation
+- misc@msg|collection#cultivation=action
+- misc@msgcollection;learn=skill
+- misc@msg{collection-letter{bonus
+- misc@msg}collection)level#up
+- misc@msg collection skill+reset
+- misc@msg;collections
+- misc@msg-collections2
+- misc@msg:combat}action
+- misc@msg combat+action(end
+- misc@msg)combat.bonus
+- misc@msg%combat{end
+- misc@msg{combat=full-win
+- misc@msg#combat_start
+- misc@msg_common=event{end
+- misc@msgcommon}shop=batch*buy
+- misc@msgcommon*shop,buy
+- misc@msg%common%shop*refresh
+- misc@msg{common=talk
+- misc@msg#compass enchase
+- misc@msg}cook{action
+- misc@msg-cook+money%deficit
+- misc@msg_cook*resonance;action
+- misc@msg}cost=effective lottery
+- misc@msg:country+postcard_bonus
+- misc@msg|cross.channel#stat
+- misc@msg.crown_combat*action
+- misc@msg,cs+long)top;action
+- misc@msg}cultural*relic action
+- misc@msg)day(gift(batch
+- misc@msg+debug:query,attrib
+- misc@msg=debug+update*lua
+- misc@msg%deficit
+- misc@msgdelete+equipment
+- misc@msgdelete;event
+- misc@msg*delete|system|mail
+- misc@msg(dialog:ok
+- misc@msg(divide_group:war,alloy
+- misc@msg.do*iap}bonus
+- misc@msg dog{equip+success
+- misc@msg_dog}shit
+- misc@msg_doll_match*action
+- misc@msg_dormitory%skin|action
+- misc@msg:dragon|boat%dice
+- misc@msg|draw}gift
+- misc@msg#dress*action(result
+- misc@msgdresscombat=end=result
+- misc@msg=dress|combat_result
+- misc@msg=dress:lottery*bonus
+- misc@msgdung+ball,action
+- misc@msg;dungeon:event
+- misc@msg.dungeon)grid;action,result
+- misc@msg=dungeon-grid*data
+- misc@msg-eight_diagram
+- misc@msg.eight}diagram=action
+- misc@msg eight)diagram=unlock
+- misc@msg=empire*active
+- misc@msgempirebuilding#army_resource
+- misc@msg#empire:building.occupy
+- misc@msg;empire#building+resource
+- misc@msgempire}enter_map
+- misc@msgempire{fix}pos
+- misc@msg{energy%cube.lottery
+- misc@msg:enter{groupwar
+- misc@msg.equip;forge
+- misc@msg%equipment|bonus
+- misc@msg|equipment;god}action
+- misc@msg:equipments
+- misc@msg|evil{lottery bonus
+- misc@msg:evil*lottery_eggs
+- misc@msg,evillottery#start
+- misc@msg;evolutionceremony#end
+- misc@msg)exchangegroup_war:buff
+- misc@msgexchange%groupwar|money
+- misc@msg}exchange+multi
+- misc@msg)exhibition{action
+- misc@msg(factory|unlock
+- misc@msg(fellow
+- misc@msg|fellow}reset
+- misc@msg|fellows
+- misc@msg_fetchgame=test;bonus
+- misc@msg{fetch|group(war-buff
+- misc@msg=fetch#group{war}task(bonus
+- misc@msg#fetch{history=task)bonus
+- misc@msg,fetch+mail+properties
+- misc@msg+fetch.redpack+list
+- misc@msg{fetch%special_history%bonus
+- misc@msg,fetch-tour eventstrigger
+- misc@msg(follower}skill)level;up
+- misc@msg}followers
+- misc@msg}foodtour+action
+- misc@msg{free_draw{action
+- misc@msg=free*vip,action
+- misc@msg friendly:match|challenge
+- misc@msg}func+recordupdated
+- misc@msg;galaxyexplore
+- misc@msg:galaxyhidden|event
+- misc@msg-galaxy level}up)galaxy%core
+- misc@msg,galaxy(visit:end
+- misc@msg,game;cheater-result
+- misc@msg*game*install
+- misc@msg#game.monitor;result
+- misc@msg_game:spirit,action
+- misc@msggame:top(data
+- misc@msg.game*top-list
+- misc@msg.garden+pick
+- misc@msg{gd action
+- misc@msg*gd=charge:action
+- misc@msg=gd)modify;time
+- misc@msg(gd,stock,action
+- misc@msg}gem)pickup
+- misc@msg;gem)resource}exchange=ret
+- misc@msg*gene-divide
+- misc@msg+gene#evolution%action
+- misc@msggene=variation(action
+- misc@msg{generaterandom array
+- misc@msg|genericceremonyaction
+- misc@msg*geocentric.tower
+- misc@msg#geocentrictowers
+- misc@msg=geocentric,worldaction
+- misc@msg#get%anytargetinfo
+- misc@msg-getcross(server*list
+- misc@msg=get:cross%server#top
+- misc@msg{get dist+list
+- misc@msgget*first killboss,redpack list
+- misc@msg)get.group)war+boss#top,data
+- misc@msg)get|group-war data
+- misc@msg;get=moving_count
+- misc@msg,get)offline|info
+- misc@msgget,starmap}count
+- misc@msg+get_vip{inherit)list
+- misc@msg,getweek:gift)info
+- misc@msgghost|ship,change resource
+- misc@msg;ghost=ship-skill#up
+- misc@msg{ghost,ship,upgrade
+- misc@msg;globe+unlock
+- misc@msg-god=bonus
+- misc@msg;god bonus*result
+- misc@msggod:breakoff
+- misc@msggod;second%bonus
+- misc@msggoddess:learn{skill
+- misc@msg{godhoodaction
+- misc@msg%golddigger)action
+- misc@msg-ground}seam
+- misc@msg:ground}seam%bonus
+- misc@msg,ground(seam*end=event
+- misc@msg-groundseam}event
+- misc@msg.ground|seam*mining
+- misc@msg;ground%seam)mining)fetch
+- misc@msg|group=action
+- misc@msg#group appoint
+- misc@msggroup*bosscombat
+- misc@msg+group(brief
+- misc@msggroup|clear}request
+- misc@msg{group|contribute
+- misc@msg#groupcreate
+- misc@msg.group depose%leader}end
+- misc@msg(group-dissolve
+- misc@msg)group{getrequest
+- misc@msggroup{gift#fetch;bonus
+- misc@msg#group(impeach
+- misc@msg group-join
+- misc@msg_group;join#accept
+- misc@msg.group-joinelection
+- misc@msg group(join;reject
+- misc@msg}group*join#req
+- misc@msg%group;join(req#by(user
+- misc@msg#group.kickout
+- misc@msg{group)leave
+- misc@msg}group,level=up
+- misc@msg.group log get}info
+- misc@msggroup:mail=send(result
+- misc@msg)group,mails
+- misc@msg%groupmanagers
+- misc@msg=group,members
+- misc@msg+group(message)add
+- misc@msg{group+message|delete
+- misc@msg.groupmessage|query
+- misc@msg(group.message-query_top
+- misc@msg-group;message:set_top
+- misc@msg:group*modify
+- misc@msg=group#myrank
+- misc@msg:group(query
+- misc@msg.group:rank
+- misc@msg-group*recommend
+- misc@msg,group_recruit.action
+- misc@msg*group+redpack}action
+- misc@msg%groupsearch
+- misc@msg:group)set#condition
+- misc@msg%group=task_fetch+bonus
+- misc@msg-group_try to{depose
+- misc@msg}group-war action
+- misc@msg|groupwar;boss
+- misc@msg:group*war*bossegg=action
+- misc@msg+group=war*clone,son
+- misc@msggroup-war;cmd=action
+- misc@msg)group,war#data
+- misc@msg=group}war|door-action
+- misc@msggroup#war;door}log
+- misc@msg group_war%fetch*all.bonus
+- misc@msg_group=war*get%mine.bonus
+- misc@msg*group(war%grid+ret
+- misc@msg(group.war.group_myrank
+- misc@msg.group|war|group%rank
+- misc@msg(group{war}medalaction
+- misc@msg#group(war.member_rank
+- misc@msg_group=war)membertask
+- misc@msg*group%war%mine,recall
+- misc@msg+group-war*monster(combat
+- misc@msg-group;war*opened:map
+- misc@msg+group_war,person-bonus
+- misc@msg:groupwar_record
+- misc@msg group,warsiege:action
+- misc@msg{group)war,special2}action
+- misc@msg}group=war=special2formation
+- misc@msg}group*war(special1}action
+- misc@msg{groupwar(special5,action
+- misc@msg{group%warspecial4action
+- misc@msg}gw{guide{action
+- misc@msg.gw#monster%serial,combat
+- misc@msg.happy|valley_dice
+- misc@msg_happy_valley%egg
+- misc@msg=hero
+- misc@msg-hero,formation
+- misc@msg:hero{levelup
+- misc@msg|hero.level.up#bonus
+- misc@msg+hero:sacrifice
+- misc@msg_hidden}killer action
+- misc@msg-history_combat)result
+- misc@msghome+manual
+- misc@msg{home_pet_pig}submit,unlock items
+- misc@msg%home(petpig#submit,wish:items
+- misc@msg)home|pet=pigunlock
+- misc@msg home=skin;data
+- misc@msg+home(skin:select
+- misc@msg{iap.check=buy
+- misc@msg:infinite-space-combat
+- misc@msg-irobot.bonus
+- misc@msg_iron ball}levelup
+- misc@msg=item|apply_ani;effect
+- misc@msg_item:apply)func
+- misc@msg;item*attrib(mushroom|bonus
+- misc@msg;item|attrib=stamen_bonus
+- misc@msg}itembonus
+- misc@msg*item-change
+- misc@msg item convert}bonus
+- misc@msg+item(group+box(bonus
+- misc@msg{item:treasure;bonus
+- misc@msg=items
+- misc@msg(killer:visit=batch
+- misc@msg:lantern*party{action
+- misc@msg;lanternpray=action
+- misc@msg_last,week{exchangedone
+- misc@msg.learn*areaskill(ret
+- misc@msg%learn,skill
+- misc@msg%levelup|group:war=money
+- misc@msg,little)red+action
+- misc@msg*little redcard#action
+- misc@msg-lottery(bonus
+- misc@msg*lottery;combine*draw=action
+- misc@msg_lottery(container key+bonus
+- misc@msglottery container-key egg
+- misc@msg_lottery=draw
+- misc@msg)lottery(eucal)history
+- misc@msg,lottery{eucal}me
+- misc@msglottery)eucal:min=history
+- misc@msg}lottery eucal,min|me
+- misc@msg(lottery+eucal}min)top
+- misc@msg+lotteryeucal:top
+- misc@msg{lotteryex+bonus
+- misc@msg.lottery{ex,start
+- misc@msg)lottery pyramid{action
+- misc@msg:lottery*select%bonus
+- misc@msg(lotterystart
+- misc@msg.lotus)lantern%action
+- misc@msg=luckydraw
+- misc@msg{lucky-snail
+- misc@msg=lvbu_learn|skill
+- misc@msg maat#skill+up
+- misc@msg.magic+circle%action
+- misc@msg%mail#task:ret
+- misc@msg_map{unlock
+- misc@msg(menu|item
+- misc@msg{menu{open
+- misc@msg;mid{autumn2023=action
+- misc@msg)mid*autumn2022 action
+- misc@msg misc:task|bonus=result
+- misc@msg#mistress{appear
+- misc@msg}mistressdisappear
+- misc@msg-mistress-item ret
+- misc@msg#mistress+queue
+- misc@msg{month)boss%unlock
+- misc@msg{moonexplore#action
+- misc@msg*move{to
+- misc@msg.multi,apply
+- misc@msg%museum_active
+- misc@msg*museum}collect%extra_token
+- misc@msgmuseumcollect#token
+- misc@msg.museum-enchase
+- misc@msg(museum:propagate;clue
+- misc@msg+museum.propagate start
+- misc@msg;museum,quick enchase
+- misc@msg=museum,tour action
+- misc@msg:museum(unlock
+- misc@msg,mushroom#harvest
+- misc@msgnational|holiday(action
+- misc@msg*nebula
+- misc@msg*nebula-amplifier)enchase
+- misc@msg new;arena}action
+- misc@msg|new-car
+- misc@msg|new+compensate
+- misc@msg}new:god;arena:action
+- misc@msg new+godspace+action
+- misc@msg,new%god*town*action
+- misc@msg}new:personality|labels
+- misc@msg*new.si
+- misc@msg=newbie_exception
+- misc@msg(newbie;guide=action
+- misc@msg(newbie:next+chapter
+- misc@msg#newbie|skip)finished
+- misc@msg newbie{taskadd=log
+- misc@msg=newbie,task%complete
+- misc@msg%newbie*taskstep
+- misc@msg%newerquick=action
+- misc@msgnewer(task-bonus
+- misc@msg#nickname{result
+- misc@msg-ninja:active
+- misc@msg,ninja,boss;unlock
+- misc@msg+ninjaskill_up
+- misc@msg=ninja upgrade
+- misc@msgnotifybuff)data
+- misc@msg|notify.card=bonus
+- misc@msg notify}group=war-events
+- misc@msg{notify_mail*bonus
+- misc@msg notify#mail,delete
+- misc@msg-notify_mark;view
+- misc@msg:notify-server%status
+- misc@msg)notify=status}updated
+- misc@msg#notify%tour speed%change
+- misc@msg}npc%small=talk
+- misc@msg:object)deleted
+- misc@msg%object.updated
+- misc@msg one*handbook
+- misc@msg.open:chestaction
+- misc@msg+open(treasure.box
+- misc@msg;open+treasure#hunt}action
+- misc@msgopening-bonus
+- misc@msg;optbonus
+- misc@msg;organ_action
+- misc@msg*organ-compose
+- misc@msg{organ#levelup
+- misc@msg{partner=appearance)action
+- misc@msg{partner bonus
+- misc@msg{partner%collection
+- misc@msg|partner%collection;bonus
+- misc@msg:partner}letter
+- misc@msg.partnersex:changed
+- misc@msg#partner(six+up
+- misc@msg=partner.task=update
+- misc@msg-partner|visit
+- misc@msgpersia(special-action
+- misc@msg{personality)label}progress
+- misc@msg#pet
+- misc@msg,pet-action
+- misc@msg=pet:explore)buff
+- misc@msgpet,explore}event
+- misc@msg|pet}item
+- misc@msg(pet*lottery{bonus
+- misc@msg=pet=lottery}eucal,history
+- misc@msgpet)lottery=eucal,min)history
+- misc@msg}pet|lottery{eucal(min top
+- misc@msgpet)lotteryeucal|top
+- misc@msg+pet-lottery start
+- misc@msgpet|patrol
+- misc@msgpet#patrol:point,bonus
+- misc@msg,petskill_item
+- misc@msg petskin:action
+- misc@msg pettotem%action
+- misc@msgpet)week(lottery:eucal}top
+- misc@msg_pet_wild{explore{action
+- misc@msg.peter.pray:bonus
+- misc@msg|pets
+- misc@msg.pic:compose
+- misc@msgpick.up:egg
+- misc@msg;pick up)simple-egg
+- misc@msg-piece#compose
+- misc@msg;piece-transform
+- misc@msg%pilgrimage#event end
+- misc@msg=ping
+- misc@msg}portrait-actiondone
+- misc@msg,portrait(book action
+- misc@msg}portrait,decoration
+- misc@msg|portrait(status
+- misc@msg_poster|bonus
+- misc@msg*praiseadd
+- misc@msg+pre#athena
+- misc@msg-pre*dress
+- misc@msg)puzzle
+- misc@msg puzzle-draw(action
+- misc@msg-pyramid-combat,action
+- misc@msg-pyramid{combat)action}end
+- misc@msg;pyramid{combat.bonus
+- misc@msg,pyramid(combat)end
+- misc@msg=pyramid-combatstart
+- misc@msg}pyramid,skill(level up
+- misc@msg+pyramid*totem;apply
+- misc@msg+pyramid#unlock
+- misc@msg|quest
+- misc@msg(quest.bonus
+- misc@msg;quest level{up
+- misc@msg{quest)refresh
+- misc@msg.quest.speed-up
+- misc@msg%quietlycall
+- misc@msg;quiting
+- misc@msg#race graph+item=open
+- misc@msg#race;instance combat
+- misc@msgrainbow|shop-action
+- misc@msg:random;select*one(user
+- misc@msg:rate{bonus:item*apply
+- misc@msg.rebuild(god#action
+- misc@msg receive{all(bossbonus
+- misc@msg%recharge#cashback{action
+- misc@msg-recharge.ok
+- misc@msg(recurring=sign.action
+- misc@msg(redpack)bonus=count
+- misc@msg.redpackbonus+list
+- misc@msg=redpack)fetch
+- misc@msg=redpack#me
+- misc@msg-redpackquery
+- misc@msg*refresh=newbie
+- misc@msgrefresh+pick(data
+- misc@msg{refresh{supply
+- misc@msg)refresh=system.gift
+- misc@msg-repeat_bonus+transform
+- misc@msg;report informer
+- misc@msg|request;move#user
+- misc@msg)research;breakthrough
+- misc@msg research:end
+- misc@msg}research-level%up
+- misc@msg.research)quick,level up
+- misc@msg+research-speed%up
+- misc@msg.research}start
+- misc@msg,reset=partner
+- misc@msg=reset|race#graph
+- misc@msg.resource|level*up
+- misc@msg{resource#pick
+- misc@msg%resource.pick%all
+- misc@msg(resource,refresh
+- misc@msg(resource+unlock
+- misc@msgreturn}exchange,bonus
+- misc@msg-rfjc.learnskill
+- misc@msg%rob.defense
+- misc@msg}robstat
+- misc@msg|rocket,divide
+- misc@msg,rocket}forge
+- misc@msg(rocketmake}data
+- misc@msgrocket|repair
+- misc@msg-rocket#robot
+- misc@msg=rocket;robot pick:bonus
+- misc@msg}rocket)robot quick:pick
+- misc@msg#rocket#st.level_up
+- misc@msg,rocket#st+unlock
+- misc@msg.rocket)upgradeunlock
+- misc@msg=roles
+- misc@msg)room activity+create%room
+- misc@msg,room=activity}find
+- misc@msg|roomactivity(join
+- misc@msg-room,activity#list
+- misc@msg;room(activity#setting
+- misc@msg)room:activity.start
+- misc@msg-room(activity}update
+- misc@msg}roundcombat{attack
+- misc@msg*round+combat}begin
+- misc@msg)round#combat.end
+- misc@msg+round combatopening)attack
+- misc@msg.round_combat)sync
+- misc@msg%round+draw%action
+- misc@msg%round|layer%draw,action
+- misc@msg#round)lottery_action
+- misc@msg;sacrifice devil.unlock
+- misc@msgsacrifice}devil%unseal
+- misc@msg_sacrifice:queue_bonus
+- misc@msg:sacrifice)queue*updated
+- misc@msg*sacrifice+speed(up
+- misc@msg+sacrifice.stop
+- misc@msg;say
+- misc@msg+scenario|combat
+- misc@msg)scenario{updated
+- misc@msg{score{check
+- misc@msg;score,combat
+- misc@msg(select;race
+- misc@msg#select}tour.destination
+- misc@msg}series*activity%bonus
+- misc@msg=server;time
+- misc@msg-set%personality-label
+- misc@msg:settings*manager
+- misc@msg:shang+artifact-add
+- misc@msg)shang,story-action
+- misc@msg%share bonus
+- misc@msg_shell:extract
+- misc@msgshell;level%up
+- misc@msg}shell-reset
+- misc@msg(shop)info
+- misc@msg:shop.unlock
+- misc@msg=shrineaction
+- misc@msg_shrine-click(bonus
+- misc@msg,shrine}event
+- misc@msg%shrineflee
+- misc@msg%shrine.sander
+- misc@msg+shrine:sky(book-action
+- misc@msg)shuangdan2023|action
+- misc@msg*shuangdan2023_ice;bonus
+- misc@msg;shuangdan2023*icestrike
+- misc@msgshuangdan2022(action
+- misc@msg#signature
+- misc@msg)simpleactivity:action
+- misc@msg#simple|activitys
+- misc@msg+simple=exchange
+- misc@msg_simple,record
+- misc@msg(skin=gift,action
+- misc@msg%snail
+- misc@msg_snail)computer,login
+- misc@msg,snails
+- misc@msg;son
+- misc@msg:son-action
+- misc@msg}son)active
+- misc@msg,son.add+clone
+- misc@msg+son}add_cure
+- misc@msg{son#army
+- misc@msg=son:army(queue
+- misc@msgson)build
+- misc@msg%son:clone
+- misc@msg.sonclonequeue;unlockbonus
+- misc@msg(son%clone)terminate
+- misc@msg)son+convert
+- misc@msg_son=cure
+- misc@msg*son,cureaction
+- misc@msg=son(cure{cancel
+- misc@msg=son:cure{delete
+- misc@msg|son}cure queue#unlock bonus
+- misc@msg,son,drop
+- misc@msgson%equip
+- misc@msg(son{equip{compose
+- misc@msg.son;equip=up
+- misc@msg}son{gene=active
+- misc@msg,son-level)up
+- misc@msg}son.skin active
+- misc@msg son_skin#compose
+- misc@msg:son_skin level}up
+- misc@msg;son-skin%reset
+- misc@msg)son(speed up.result
+- misc@msg=son.tower|army
+- misc@msg%son#tower,bonus
+- misc@msg%son:tower.core=lottery
+- misc@msg;son}tower=example;action
+- misc@msg;son;towerfreedraw
+- misc@msg{sontower#log
+- misc@msg{son,tower%race:calc%level{up
+- misc@msgson)tower:rocket.soar
+- misc@msgson:tower;speed(up#cd
+- misc@msg(son.tower{video
+- misc@msg:sons
+- misc@msg+soul)servant=action
+- misc@msg+spaceastrolabe=action
+- misc@msg%space*beacon;eventchoose
+- misc@msg;space)beacon,event;end
+- misc@msg*special1build(tower
+- misc@msg)special(killer
+- misc@msg,special|killer*finish
+- misc@msg+special*killer)letter
+- misc@msg)special|killers
+- misc@msg=special tower.active
+- misc@msg+special:tower#convert)bonus
+- misc@msg.special*tower.quick(combat
+- misc@msg;special_tower speed,up_cd
+- misc@msg#special_visitor
+- misc@msg;specialvisitor#finish
+- misc@msg.special visitor|letter
+- misc@msg-special;visitors
+- misc@msg.specialty;exchange
+- misc@msg;specialty(exchange}quick
+- misc@msg-specialty-settle
+- misc@msg-speed*up{end
+- misc@msg=speed(upok
+- misc@msg+speed#up_result
+- misc@msg:speed|up.start
+- misc@msg{spirit;achievementaction
+- misc@msg%spirit;action
+- misc@msg;spirit{combat#action
+- misc@msg#spirit:lottery*action
+- misc@msg:spirit|official-action
+- misc@msg=spirit)official-order|action
+- misc@msg{spirit-order;action
+- misc@msg,spirit(round=lottery{action
+- misc@msg#spirit=tower(action
+- misc@msgspirit{vinia=action
+- misc@msg.spring-festival2022-action
+- misc@msg*sr:bonus
+- misc@msg=start{persia+special}combat
+- misc@msg%statueresource.pick
+- misc@msgstatus}condition
+- misc@msg=stele_action
+- misc@msg(stock+investment;action
+- misc@msg.stone)sword
+- misc@msg,super|luckybox;action
+- misc@msgsutra#exchange+item
+- misc@msg)switch.collection(skill
+- misc@msg)switch:combat;preset
+- misc@msg}systemmails
+- misc@msg+take*user+back}bonus
+- misc@msg_task-add)log
+- misc@msg*task#bonus
+- misc@msg task%complete
+- misc@msg:task consecrate:bonus
+- misc@msg_task:execute
+- misc@msg;task(multi{execute
+- misc@msg,task|quick:execute
+- misc@msg)task|refresh+day
+- misc@msg}task refresh;log
+- misc@msg{task_refresh=week
+- misc@msg{team_charge action
+- misc@msg;tec*level%up
+- misc@msg%tec,speed;up
+- misc@msg:test%delay
+- misc@msg+tetris=puzzle(action
+- misc@msg-tier*boss;action
+- misc@msg%time:machine#refit;action
+- misc@msg%timesand|exchange
+- misc@msg)time%travel
+- misc@msg)tiny{world{action
+- misc@msg(title+bonus
+- misc@msg top|cover
+- misc@msg|top(list
+- misc@msgtop|rank
+- misc@msg%tour-bonus
+- misc@msg*tour}combat
+- misc@msg}tour end
+- misc@msgtour=event
+- misc@msg:tour}event#convert
+- misc@msg+tour+event;reset
+- misc@msg#tour.event(speed=up
+- misc@msg.tour#events_convert
+- misc@msg:tour}extra,bonus
+- misc@msg)tour}feature level}up
+- misc@msg.tour{feature(reset
+- misc@msg.tour,feature_unlock
+- misc@msg-tour:fetch%double
+- misc@msg%tour_fetch-treasure
+- misc@msg,tour{food:change
+- misc@msg|tour.god,arms%level*up
+- misc@msg|tour+god cellupdate
+- misc@msgtour.god)eggs+bonus
+- misc@msg:tour+god-event.select
+- misc@msg;tour|god%exchange-bonus
+- misc@msg(tour,god#intelligence|bonus
+- misc@msg+tour{move
+- misc@msg{tour+move|end
+- misc@msg%tour:next:event
+- misc@msg(tour=resume
+- misc@msg|tour start
+- misc@msg:tourstop
+- misc@msg{tourist
+- misc@msg touristskill+level{up
+- misc@msg=tourists
+- misc@msg{tower:action
+- misc@msg+tower{bonus
+- misc@msg.tower}buff}bonus
+- misc@msg tower;enchase
+- misc@msg=tower;speed}upcd
+- misc@msg|treasure%action
+- misc@msgtreasure{box#bonus
+- misc@msg treasure|box*unequip
+- misc@msg treasure%lottery}bonus
+- misc@msgtreasure_map,action
+- misc@msg*treasure*trove
+- misc@msgtreasure{trove|ask{combat
+- misc@msg-treasure)trove.clue
+- misc@msgtreasure%trove+combat{bonus%clue
+- misc@msg.treasure)trove-result
+- misc@msg%treasure{trove select.item
+- misc@msg*treasure,trove+state
+- misc@msg}tribe{affair action
+- misc@msg)tribemanual{unlock
+- misc@msg.trigger,user)backgift
+- misc@msg(try:get=coupon
+- misc@msg}turnplate bonus
+- misc@msg,type_apply|bonus
+- misc@msg}universe|upgradeskill
+- misc@msg-unlock_combatpreset
+- misc@msg unlock)lvbu}riding
+- misc@msg)updatecsv
+- misc@msg,update.dungeon:data
+- misc@msg.update:dungeon{layerdata
+- misc@msg)uproar)heaven:action
+- misc@msg.usaadjutant)active
+- misc@msg;usa camp
+- misc@msg usa,hero*active
+- misc@msg}usa-hero*level;up
+- misc@msg;usa_hero{level-up.bonus
+- misc@msg-usa:hero*rest
+- misc@msg.usa}heros
+- misc@msg%user:back_action
+- misc@msg=user#back;guide{action
+- misc@msg;user%blacklist
+- misc@msguser=brief{extra;data
+- misc@msg}user=mails
+- misc@msg)vehicle
+- misc@msg}vehicle|action
+- misc@msgver*up=bonus
+- misc@msg=verify{nickname#result
+- misc@msg=veteran train
+- misc@msg.vip=day)bonus:action
+- misc@msg%visitor
+- misc@msg{visitor{end
+- misc@msg_visitor+selectitem
+- misc@msg,visitors
+- misc@msg(war*buff*enchase
+- misc@msg(war{buff,enchase-preset
+- misc@msg*warship{action:done
+- misc@msg;warship;update
+- misc@msg{warships
+- misc@msg%week collection compose
+- misc@msg weeklottery)eucal+me
+- misc@msg-week{lottery,eucal+top
+- misc@msgweek;task%action
+- misc@msg{week task|currency:compose
+- misc@msg+week task%exchange
+- misc@msg;week%task lottery
+- misc@msg%week{task,rank
+- misc@msg)week|wish)eucal me
+- misc@msg.week,wish+eucal:top
+- misc@msg|wish_eucal=history
+- misc@msg%wisheucal|me
+- misc@msg%wisheucal:min_history
+- misc@msg=wish|eucal-min(me
+- misc@msgwish_eucal)min(top
+- misc@msg(wish{eucal=top
+- misc@msg|word
+- misc@msg;zlib|msg

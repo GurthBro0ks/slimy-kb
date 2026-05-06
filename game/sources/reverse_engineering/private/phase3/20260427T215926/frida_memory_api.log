@@ -1,0 +1,22 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> 
+console.log('Memory keys:', Object.getOwnPropertyNames(Memory).slice(0,30));
+console.log('typeof readUtf8String:', typeof Memory.readUtf8String);
+console.log('typeof readCString:', typeof Memory.readCString);
+
+Memory keys: _alloc,copy,protect,queryProtection,_patchCode,_checkCodePointer,allocAnsiString,allocUtf8String,allocUtf16String,_scan,scanSync,alloc,dup,patchCode,scan
+typeof readUtf8String: undefined
+typeof readCString: undefined
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!

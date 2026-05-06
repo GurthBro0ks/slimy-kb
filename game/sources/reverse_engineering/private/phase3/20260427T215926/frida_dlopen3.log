@@ -1,0 +1,25 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> 
+var mods = Process.enumerateModules();
+var linker = mods.filter(function(m) { return m.name === 'linker64' || m.name === 'linker'; })[0];
+console.log('Linker:', linker ? linker.name : 'not found');
+if (linker) {
+  var dlopen = linker.findExportByName('dlopen');
+  console.log('dlopen:', dlopen);
+}
+
+Linker: linker64
+dlopen: null
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!

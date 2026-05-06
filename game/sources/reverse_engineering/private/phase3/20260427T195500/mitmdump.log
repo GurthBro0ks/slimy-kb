@@ -1,0 +1,73 @@
+[19:50:50.380] HTTP(S) proxy listening at *:8080.
+[19:51:45.108][127.0.0.1:49060] client connect
+[19:51:45.116][127.0.0.1:49070] client connect
+[19:51:45.116][127.0.0.1:49080] client connect
+[19:51:45.386][127.0.0.1:49060] server connect graph.facebook.com:443 (157.240.254.12:443)
+[19:51:45.389][127.0.0.1:49080] server connect graph.facebook.com:443 (157.240.254.12:443)
+[19:51:45.399][127.0.0.1:49070] server connect graph.facebook.com:443 (157.240.254.12:443)
+[19:51:45.943][127.0.0.1:49090] client connect
+[19:51:46.042][127.0.0.1:49106] client connect
+[19:51:46.050][127.0.0.1:49090] server connect qcplay.aihelp.net:443 (169.61.195.139:443)
+[19:51:46.089][127.0.0.1:49060] Streaming response from graph.facebook.com.
+127.0.0.1:49060: GET https://graph.facebook.com/v16.0/app/mobile_sdk_gk?acce…
+              << 200 OK (content missing)
+[19:51:46.092][127.0.0.1:49080] Streaming response from graph.facebook.com.
+127.0.0.1:49080: GET https://graph.facebook.com/v16.0/app?access_token=46759…
+              << 200 OK (content missing)
+/home/mint/.local/lib/python3.12/site-packages/OpenSSL/crypto.py:1231: CryptographyDeprecationWarning: Parsed a serial number which wasn't positive (i.e., it was negative or zero), which is disallowed by RFC 5280. Loading this certificate will cause an exception in a future release of cryptography.
+  return load_der_x509_certificate(der)
+[19:51:46.096][127.0.0.1:49106] server connect graph.facebook.com:443 (157.240.254.12:443)
+[19:51:46.153][127.0.0.1:49070] Streaming response from graph.facebook.com.
+127.0.0.1:49070: GET https://graph.facebook.com/v16.0/app?access_token=46759…
+              << 200 OK (content missing)
+[19:51:46.196][127.0.0.1:49106] Streaming request to graph.facebook.com.
+[19:51:46.324][127.0.0.1:49090] Streaming response from qcplay.aihelp.net.
+127.0.0.1:49090: GET https://qcplay.aihelp.net/elva/api/v3.0/initget?domain=… HTTP/2.0
+     << HTTP/2.0 200 OK (content missing)
+[19:51:46.342][127.0.0.1:49060] Streaming response from graph.facebook.com.
+127.0.0.1:49060: GET https://graph.facebook.com/v16.0/app/mobile_sdk_gk?acce…
+              << 200 OK (content missing)
+[19:51:46.345][127.0.0.1:49080] Streaming response from graph.facebook.com.
+127.0.0.1:49080: GET https://graph.facebook.com/v16.0/app/model_asset?access…
+              << 200 OK (content missing)
+[19:51:46.735][127.0.0.1:49090] Streaming request to qcplay.aihelp.net.
+[19:51:46.750][127.0.0.1:49120] client connect
+[19:51:46.820][127.0.0.1:49106] Streaming response from graph.facebook.com.
+127.0.0.1:49106: POST https://graph.facebook.com/v16.0/467595308549623/activi…
+              << 200 OK (content missing)
+[19:51:46.880][127.0.0.1:49120] server connect x2eayo.launches.appsflyersdk.com:443 (13.249.141.81:443)
+[19:51:46.901][127.0.0.1:49090] Streaming response from qcplay.aihelp.net.
+127.0.0.1:49090: POST https://qcplay.aihelp.net/elva/api/sdktrack/exceptiontr… HTTP/2.0
+     << HTTP/2.0 200 OK (content missing)
+[19:51:46.955][127.0.0.1:49120] Streaming request to x2eayo.launches.appsflyersdk.com.
+[19:51:47.223][127.0.0.1:49120] Streaming response from x2eayo.launches.appsflyersdk.com.
+127.0.0.1:49120: POST https://x2eayo.launches.appsflyersdk.com/api/v6.17/andr…
+              << 200 OK (content missing)
+[19:51:47.230][127.0.0.1:49090] Streaming response from qcplay.aihelp.net.
+127.0.0.1:49090: GET https://qcplay.aihelp.net/elva/api/faqs1?appId=qcplay_p… HTTP/2.0
+     << HTTP/2.0 200 OK (content missing)
+[19:51:47.297][127.0.0.1:49090] Streaming response from qcplay.aihelp.net.
+127.0.0.1:49090: GET https://qcplay.aihelp.net/elva/api/v3.0/message/fetch?a… HTTP/2.0
+     << HTTP/2.0 200 OK (content missing)
+[19:51:48.942][127.0.0.1:49134] client connect
+[19:51:49.944][127.0.0.1:49134] server connect sdk-sg.qcplay.com:443 (170.33.96.31:443)
+[19:51:50.119][127.0.0.1:49134] Client TLS handshake failed. The client does not trust the proxy's certificate for sdk-sg.qcplay.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[19:51:50.120][127.0.0.1:49134] client disconnect
+[19:51:50.121][127.0.0.1:49134] server disconnect sdk-sg.qcplay.com:443 (170.33.96.31:443)
+[19:51:55.846][127.0.0.1:32862] client connect
+[19:51:56.159][127.0.0.1:32862] server connect app-measurement.com:443 (142.250.217.110:443)
+[19:51:56.666][127.0.0.1:32862] Client TLS handshake failed. The client does not trust the proxy's certificate for app-measurement.com (OpenSSL Error([('SSL routines', '', 'ssl/tls alert certificate unknown')]))
+[19:51:56.667][127.0.0.1:32862] client disconnect
+[19:51:56.667][127.0.0.1:32862] server disconnect app-measurement.com:443 (142.250.217.110:443)
+[19:52:56.041][127.0.0.1:49070] server disconnect graph.facebook.com:443 (157.240.254.12:443)
+[19:52:56.219][127.0.0.1:49106] server disconnect graph.facebook.com:443 (157.240.254.12:443)
+[19:52:56.318][127.0.0.1:49060] server disconnect graph.facebook.com:443 (157.240.254.12:443)
+[19:52:56.331][127.0.0.1:49080] server disconnect graph.facebook.com:443 (157.240.254.12:443)
+[19:55:47.218][127.0.0.1:49120] server disconnect x2eayo.launches.appsflyersdk.com:443 (13.249.141.81:443)
+[19:56:46.153][127.0.0.1:49070] client disconnect
+[19:56:46.349][127.0.0.1:49080] client disconnect
+[19:56:46.352][127.0.0.1:49060] client disconnect
+[19:56:46.820][127.0.0.1:49106] client disconnect
+[19:56:47.225][127.0.0.1:49120] client disconnect
+[19:56:47.295][127.0.0.1:49090] client disconnect
+[19:56:47.296][127.0.0.1:49090] server disconnect qcplay.aihelp.net:443 (169.61.195.139:443)

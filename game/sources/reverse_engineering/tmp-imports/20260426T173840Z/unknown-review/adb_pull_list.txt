@@ -1,0 +1,1 @@
+/data/data/com.qcplay.snail.android.na/files/update_res/src/game/cmd/list.luac: 1 file pulled, 0 skipped. 34.8 MB/s (32597 bytes in 0.001s)

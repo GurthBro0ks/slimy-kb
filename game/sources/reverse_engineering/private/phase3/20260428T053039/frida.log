@@ -1,0 +1,52 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[*] Starting universal SSL unpinning...
+[*] Bypassing TrustManager...
+[+] TrustManager bypassed
+[*] Bypassing OkHttp CertificatePinner...
+[-] OkHttp bypass failed: check(): specified argument types do not match any of:
+	.overload('java.lang.String', 'java.util.List')
+	.overload('java.lang.String', '[Ljava.security.cert.Certificate;')
+[*] Bypassing SSLContext...
+[+] SSLContext bypassed
+[*] Bypassing Conscrypt...
+[+] Conscrypt bypassed
+[*] Bypassing WebView SSL...
+[+] WebView SSL bypassed
+[*] Bypassing HostnameVerifier...
+[+] HostnameVerifier bypassed
+[*] Bypassing NetworkSecurityConfig...
+[-] NetworkSecurityConfig bypass failed: isCleartextTrafficPermitted(): specified argument types do not match any of:
+	.overload()
+[*] Bypassing Unity networking...
+[+] Unity networking bypass attempted
+[*] All SSL pinning bypasses applied
+[*] Waiting for network requests...
+[*] Native BoringSSL unpin starting...
+[*] Hooking BoringSSL certificate verification...
+[+] libcocos2dlua.so base @ 0x78d138897000
+[+] SSL_CTX_set_verify @ 0x78d139539494
+[+] SSL_set_verify @ 0x78d139537a4c
+[+] SSL_do_handshake @ 0x78d139537de8
+[+] BoringSSL hooks applied
+[+] Native SSL unpinning complete
+[*] JPush protocol intercept starting...
+[*] Hooking SSL_read/SSL_write for JPush protocol intercept...
+[+] libcocos2dlua.so base @ 0x78d138897000
+[+] SSL_read @ 0x78d139538020
+[+] SSL_write @ 0x78d13953836c
+[+] SSL hooks applied
+[+] Protocol intercept ready
+[Android Emulator 5554::PID::14238 ]-> Device lost
+
+Thank you for using Frida!

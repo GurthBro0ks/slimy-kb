@@ -1,0 +1,27 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[*] Phase 3 raw recv()/send() hook starting...
+[*] Target port: 50504 (0xC548)
+[*] Logging first 128 bytes of each packet only
+TypeError: not a function
+    at hookConnect (/home/mint/projects/slimy_snail/scripts/frida_recv_hook.js:152)
+    at main (/home/mint/projects/slimy_snail/scripts/frida_recv_hook.js:280)
+    at <anonymous> (/home/mint/projects/slimy_snail/scripts/frida_recv_hook.js:291)
+    at <anonymous> (/frida/bridges/java.js:1)
+    at _performPendingVmOps (/frida/bridges/java.js:8)
+    at <anonymous> (/frida/bridges/java.js:8)
+    at <anonymous> (/frida/bridges/java.js:1)
+    at _performPendingVmOpsWhenReady (/frida/bridges/java.js:8)
+    at perform (/frida/bridges/java.js:8)
+    at <eval> (/home/mint/projects/slimy_snail/scripts/frida_recv_hook.js:292)
+[Android Emulator 5554::PID::8296 ]-> 

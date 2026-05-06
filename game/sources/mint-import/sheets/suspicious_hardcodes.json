@@ -1,0 +1,8738 @@
+[
+  {
+    "sheet": "Offering Speed",
+    "cell": "D8",
+    "value": 1.2,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Offering Speed",
+    "cell": "B43",
+    "value": 8.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Offering Speed",
+    "cell": "B44",
+    "value": 240.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Offering Speed",
+    "cell": "B46",
+    "value": 1200.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Travel Speed",
+    "cell": "D9",
+    "value": 0.6,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Travel Speed",
+    "cell": "D37",
+    "value": 1.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Travel Speed",
+    "cell": "B65",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Gene Research",
+    "cell": "H5",
+    "value": 3.6,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Gene Research",
+    "cell": "J13",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Gene Research",
+    "cell": "D18",
+    "value": 6.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Gene Research",
+    "cell": "D25",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Gene Research",
+    "cell": "J25",
+    "value": 240.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Gene Research",
+    "cell": "H72",
+    "value": 1.8,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Gene Research",
+    "cell": "H112",
+    "value": 1.8,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Gene Research",
+    "cell": "J149",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Gene Research",
+    "cell": "H189",
+    "value": 1.8,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Gene Research",
+    "cell": "J227",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Gene Research",
+    "cell": "J263",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cells Gained",
+    "cell": "L13",
+    "value": 5.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cells Gained",
+    "cell": "D21",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cells Gained",
+    "cell": "F21",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cells Gained",
+    "cell": "H21",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cells Gained",
+    "cell": "J21",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cells Gained",
+    "cell": "L21",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cells Gained",
+    "cell": "L30",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cells Gained",
+    "cell": "D63",
+    "value": 12.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cells Gained",
+    "cell": "F72",
+    "value": 12.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cells Gained",
+    "cell": "H81",
+    "value": 12.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cells Gained",
+    "cell": "J90",
+    "value": 12.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cells Gained",
+    "cell": "L99",
+    "value": 12.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I4",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I6",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I12",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D13",
+    "value": 106.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E13",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I13",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D14",
+    "value": 99.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D15",
+    "value": 69.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I17",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I25",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I26",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E38",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E41",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E44",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D65",
+    "value": 107.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E65",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I65",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D66",
+    "value": 106.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "F66",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D67",
+    "value": 104.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D68",
+    "value": 48.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D70",
+    "value": 109.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E70",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D71",
+    "value": 103.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I71",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D72",
+    "value": 73.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I72",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D76",
+    "value": 47.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D77",
+    "value": 106.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "F77",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I77",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D78",
+    "value": 103.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D79",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E79",
+    "value": 332.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I81",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D84",
+    "value": 109.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E84",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "F84",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I84",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D85",
+    "value": 104.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D86",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E86",
+    "value": 332.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I90",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I91",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D95",
+    "value": 102.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E95",
+    "value": 347.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D96",
+    "value": 97.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D97",
+    "value": 75.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I132",
+    "value": 300.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I133",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I134",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I136",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D139",
+    "value": 108.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E139",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "F139",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D140",
+    "value": 102.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D141",
+    "value": 71.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I153",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I158",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D159",
+    "value": 46.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D160",
+    "value": 107.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I160",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D161",
+    "value": 106.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E161",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I161",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I195",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I196",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I207",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D210",
+    "value": 48.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D211",
+    "value": 106.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I211",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D212",
+    "value": 110.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E212",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I215",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I216",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I219",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I220",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I223",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I224",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I226",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I227",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I228",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I233",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I234",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I237",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I238",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I239",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I271",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D275",
+    "value": 46.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D276",
+    "value": 109.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "F276",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I276",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D277",
+    "value": 106.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E277",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I277",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D280",
+    "value": 105.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E280",
+    "value": 347.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D281",
+    "value": 101.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D282",
+    "value": 98.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E282",
+    "value": 332.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I285",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D286",
+    "value": 108.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E286",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D287",
+    "value": 101.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D288",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D289",
+    "value": 74.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I289",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I294",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I297",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I300",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I301",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I305",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I307",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "F319",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I337",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I338",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I339",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I346",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D347",
+    "value": 47.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D348",
+    "value": 109.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I348",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D349",
+    "value": 108.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E349",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I349",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D350",
+    "value": 110.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D351",
+    "value": 104.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E351",
+    "value": 347.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D352",
+    "value": 102.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D353",
+    "value": 98.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E353",
+    "value": 332.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I354",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D357",
+    "value": 109.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E357",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I357",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D358",
+    "value": 107.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I358",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D359",
+    "value": 69.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D361",
+    "value": 44.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D362",
+    "value": 108.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I362",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D363",
+    "value": 110.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E363",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I365",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "A372",
+    "value": 2.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "A373",
+    "value": 3.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "A374",
+    "value": 4.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "A375",
+    "value": 5.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E376",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E379",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I399",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D400",
+    "value": 108.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E400",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I400",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D401",
+    "value": 103.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I401",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D402",
+    "value": 108.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E402",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I408",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I409",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D411",
+    "value": 103.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E411",
+    "value": 347.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D412",
+    "value": 97.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D413",
+    "value": 73.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I413",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I414",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D418",
+    "value": 47.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D419",
+    "value": 107.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I419",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D420",
+    "value": 108.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "F420",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D421",
+    "value": 109.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E421",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I421",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I423",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I454",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I457",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D458",
+    "value": 44.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D459",
+    "value": 109.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "F459",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D460",
+    "value": 108.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E460",
+    "value": 362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D461",
+    "value": 96.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "D462",
+    "value": 71.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I470",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I471",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I477",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "I481",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Museum",
+    "cell": "E497",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rocket Cabin Effects",
+    "cell": "D38",
+    "value": 40.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rocket Cabin Effects",
+    "cell": "D44",
+    "value": 40.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rocket Cabin Effects",
+    "cell": "D72",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rocket Cabin Effects",
+    "cell": "D78",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rocket Cabin Effects",
+    "cell": "D129",
+    "value": 40.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rocket Cabin Effects",
+    "cell": "D135",
+    "value": 40.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rocket Cabin Effects",
+    "cell": "D163",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rocket Cabin Effects",
+    "cell": "D169",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rocket Cabin Effects",
+    "cell": "D201",
+    "value": 40.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rocket Cabin Effects",
+    "cell": "D227",
+    "value": 40.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rocket Cabin Effects",
+    "cell": "D255",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rocket Cabin Effects",
+    "cell": "D261",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H3",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H4",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H5",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H6",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H7",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H8",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H9",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H10",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H11",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H12",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H19",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H22",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H25",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H28",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H41",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H42",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H43",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H44",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H45",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H46",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H47",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H48",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H49",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H50",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H51",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H52",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H53",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H58",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H61",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H64",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H67",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H70",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H73",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H76",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H79",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H95",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H96",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H97",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H98",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H99",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H100",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H101",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H102",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H103",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H108",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H111",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H114",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H117",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H120",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H135",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H136",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H137",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H138",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H139",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H140",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H141",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H146",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H149",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H152",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H155",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H158",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H171",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H172",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H173",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H174",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H175",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H176",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H177",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H178",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H179",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H180",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H181",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H182",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H183",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H184",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H186",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H190",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H208",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H209",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H210",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H211",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H212",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H213",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H221",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H231",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H232",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H233",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H234",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H235",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H236",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H237",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H244",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H248",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H258",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H259",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H260",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H269",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H279",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H280",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H281",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H282",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H288",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H298",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H299",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H300",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H301",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H302",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H305",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H315",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H316",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H317",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H318",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H319",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H326",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H336",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H337",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H338",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H339",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H340",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H341",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H342",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H349",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H352",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H362",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H363",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H364",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H365",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H374",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H384",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H385",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H386",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H393",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H403",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H404",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H405",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H406",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H407",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H408",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H411",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H421",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H422",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H423",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H424",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H425",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H433",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H443",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H444",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H445",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H446",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H447",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H458",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H461",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H471",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H472",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H473",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H474",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H481",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H491",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H492",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H493",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H501",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H511",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H512",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H513",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H514",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H515",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H516",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H519",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H529",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H530",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H531",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H532",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H533",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H540",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H550",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H551",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H552",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H553",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H554",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H563",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H566",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H576",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H577",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H578",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H584",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H594",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H595",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H604",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H614",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H615",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H616",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H617",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H618",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H621",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H631",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H632",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H633",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H634",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H635",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H636",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H643",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H653",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H654",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H655",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H656",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H657",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H658",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H659",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H660",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H666",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H669",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H679",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H680",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H681",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H682",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H691",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H701",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H703",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H709",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H719",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H720",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H721",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H722",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H723",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H724",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H727",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H730",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H740",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H741",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H742",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H743",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H744",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H745",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H752",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H766",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H767",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H768",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H769",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H770",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H771",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H778",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H782",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H796",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H797",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H798",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H799",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H800",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H809",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H823",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H824",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H825",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H826",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H832",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H846",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H847",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H848",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H849",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H850",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H851",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H854",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H861",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Boosts",
+    "cell": "H864",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Leadership",
+    "cell": "D2",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Leadership",
+    "cell": "D75",
+    "value": 3.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Leadership",
+    "cell": "D149",
+    "value": 3.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Leadership",
+    "cell": "D171",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Leadership",
+    "cell": "D182",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Leadership",
+    "cell": "D204",
+    "value": 50.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Leadership",
+    "cell": "D222",
+    "value": 3.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Leadership",
+    "cell": "D228",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Leadership",
+    "cell": "D243",
+    "value": 5.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Leadership",
+    "cell": "D252",
+    "value": 12.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Tadpole Pond",
+    "cell": "F15",
+    "value": 6.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Tadpole Pond",
+    "cell": "D23",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Tadpole Pond",
+    "cell": "F23",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Tadpole Pond",
+    "cell": "F57",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Fungus Farm",
+    "cell": "D15",
+    "value": 6.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Fungus Farm",
+    "cell": "D20",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Fungus Farm",
+    "cell": "F20",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Fungus Farm",
+    "cell": "F51",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Time Machine",
+    "cell": "D17",
+    "value": 6.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Time Machine",
+    "cell": "D38",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Time Machine",
+    "cell": "F66",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Lumber Camp",
+    "cell": "F12",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Lumber Camp",
+    "cell": "D26",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Lumber Camp",
+    "cell": "F26",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Lumber Camp",
+    "cell": "F54",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Quarry",
+    "cell": "H13",
+    "value": 6.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Quarry",
+    "cell": "D27",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Quarry",
+    "cell": "F27",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Quarry",
+    "cell": "F59",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Quantum Amp",
+    "cell": "F15",
+    "value": 9.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Quantum Amp",
+    "cell": "D20",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Quantum Amp",
+    "cell": "F20",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Quantum Amp",
+    "cell": "D39",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Quantum Amp",
+    "cell": "F39",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Quantum Amp",
+    "cell": "J39",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Compass",
+    "cell": "G109",
+    "value": 57.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Compass",
+    "cell": "G201",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cost Reductions",
+    "cell": "D8",
+    "value": 7.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cost Reductions",
+    "cell": "H16",
+    "value": 7.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cost Reductions",
+    "cell": "D25",
+    "value": 5.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cost Reductions",
+    "cell": "F33",
+    "value": 8.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cost Reductions",
+    "cell": "D42",
+    "value": 5.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Cost Reductions",
+    "cell": "D48",
+    "value": 1.8,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Lottery",
+    "cell": "G45",
+    "value": 5.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B11",
+    "value": 1280.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C11",
+    "value": 112.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D11",
+    "value": 80.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E11",
+    "value": 80.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B23",
+    "value": 1320.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C23",
+    "value": 108.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D23",
+    "value": 80.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E23",
+    "value": 80.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B35",
+    "value": 1240.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C35",
+    "value": 116.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D35",
+    "value": 80.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E35",
+    "value": 80.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B47",
+    "value": 1320.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C47",
+    "value": 112.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D47",
+    "value": 84.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E47",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B53",
+    "value": 310.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C53",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D53",
+    "value": 18.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E53",
+    "value": 21.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B75",
+    "value": 800.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C75",
+    "value": 120.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D75",
+    "value": 88.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E75",
+    "value": 112.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B87",
+    "value": 800.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C87",
+    "value": 120.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D87",
+    "value": 84.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E87",
+    "value": 116.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B99",
+    "value": 880.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C99",
+    "value": 124.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D99",
+    "value": 84.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E99",
+    "value": 104.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B105",
+    "value": 230.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C105",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D105",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E105",
+    "value": 27.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B123",
+    "value": 840.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C123",
+    "value": 128.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D123",
+    "value": 76.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E123",
+    "value": 112.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B139",
+    "value": 1240.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C139",
+    "value": 80.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D139",
+    "value": 76.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E139",
+    "value": 120.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B151",
+    "value": 1240.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C151",
+    "value": 80.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D151",
+    "value": 68.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E151",
+    "value": 128.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B163",
+    "value": 1240.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C163",
+    "value": 80.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D163",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E163",
+    "value": 124.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B175",
+    "value": 1280.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C175",
+    "value": 76.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D175",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E175",
+    "value": 124.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B181",
+    "value": 290.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C181",
+    "value": 18.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D181",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E181",
+    "value": 33.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B203",
+    "value": 880.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C203",
+    "value": 120.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D203",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E203",
+    "value": 120.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B215",
+    "value": 960.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C215",
+    "value": 116.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D215",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E215",
+    "value": 116.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B227",
+    "value": 880.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C227",
+    "value": 116.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D227",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E227",
+    "value": 124.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B239",
+    "value": 840.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C239",
+    "value": 120.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D239",
+    "value": 76.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E239",
+    "value": 120.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B245",
+    "value": 190.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C245",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D245",
+    "value": 18.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E245",
+    "value": 33.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B261",
+    "value": 240.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C261",
+    "value": 23.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D261",
+    "value": 21.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E261",
+    "value": 32.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B268",
+    "value": 1080.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C268",
+    "value": 104.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D268",
+    "value": 95.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E268",
+    "value": 144.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B273",
+    "value": 250.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C273",
+    "value": 23.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D273",
+    "value": 21.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E273",
+    "value": 31.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B280",
+    "value": 1125.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C280",
+    "value": 104.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D280",
+    "value": 95.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E280",
+    "value": 140.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B285",
+    "value": 250.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C285",
+    "value": 22.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D285",
+    "value": 22.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E285",
+    "value": 31.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B292",
+    "value": 1125.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C292",
+    "value": 99.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D292",
+    "value": 99.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E292",
+    "value": 140.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B297",
+    "value": 260.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C297",
+    "value": 23.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D297",
+    "value": 21.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E297",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B304",
+    "value": 1170.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C304",
+    "value": 104.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D304",
+    "value": 95.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E304",
+    "value": 135.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B308",
+    "value": 125.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C308",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D308",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E308",
+    "value": 17.5,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B316",
+    "value": 1170.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C316",
+    "value": 104.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D316",
+    "value": 95.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E316",
+    "value": 135.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B331",
+    "value": 935.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C331",
+    "value": 140.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D331",
+    "value": 85.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E331",
+    "value": 128.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B343",
+    "value": 1275.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C343",
+    "value": 128.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D343",
+    "value": 85.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E343",
+    "value": 106.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B355",
+    "value": 1105.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C355",
+    "value": 132.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D355",
+    "value": 85.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E355",
+    "value": 119.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B367",
+    "value": 850.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C367",
+    "value": 149.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D367",
+    "value": 85.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E367",
+    "value": 128.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "B373",
+    "value": 250.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "C373",
+    "value": 45.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "D373",
+    "value": 21.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Minion Base Stats",
+    "cell": "E373",
+    "value": 40.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Partner Research Costs",
+    "cell": "B8",
+    "value": 93.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Partner Research Costs",
+    "cell": "C8",
+    "value": 93.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Partner Research Costs",
+    "cell": "D8",
+    "value": 95.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Partner Research Costs",
+    "cell": "E8",
+    "value": 93.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Partner Research Costs",
+    "cell": "F8",
+    "value": 93.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Partner Research Costs",
+    "cell": "G8",
+    "value": 93.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "B12",
+    "value": 33.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "C12",
+    "value": 13000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "D12",
+    "value": 32500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "F12",
+    "value": 440.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "I12",
+    "value": 84.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "J12",
+    "value": 32500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "K12",
+    "value": 162500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "M12",
+    "value": 660.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "P12",
+    "value": 11.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "Q12",
+    "value": 65000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "R12",
+    "value": 650000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "T12",
+    "value": 1100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "B26",
+    "value": 44.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "C26",
+    "value": 19500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "D26",
+    "value": 48750.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "F26",
+    "value": 495.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "I26",
+    "value": 105.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "J26",
+    "value": 39000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "K26",
+    "value": 195000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "M26",
+    "value": 770.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "P26",
+    "value": 22.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "Q26",
+    "value": 104000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "R26",
+    "value": 1040000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "T26",
+    "value": 1320.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "B40",
+    "value": 55.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "C40",
+    "value": 26000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "D40",
+    "value": 65000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "F40",
+    "value": 550.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "I40",
+    "value": 126.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "J40",
+    "value": 52000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "K40",
+    "value": 260000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "M40",
+    "value": 880.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "P40",
+    "value": 33.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "Q40",
+    "value": 156000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "R40",
+    "value": 1560000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "T40",
+    "value": 1540.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "B54",
+    "value": 33.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "C54",
+    "value": 13000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "D54",
+    "value": 32500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "F54",
+    "value": 440.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "I54",
+    "value": 84.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "J54",
+    "value": 32500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "K54",
+    "value": 162500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "M54",
+    "value": 660.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "P54",
+    "value": 11.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "Q54",
+    "value": 65000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "R54",
+    "value": 650000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "T54",
+    "value": 1100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "B68",
+    "value": 44.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "C68",
+    "value": 19500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "D68",
+    "value": 48750.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "F68",
+    "value": 495.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "I68",
+    "value": 105.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "J68",
+    "value": 39000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "K68",
+    "value": 195000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "M68",
+    "value": 770.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "P68",
+    "value": 22.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "Q68",
+    "value": 104000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "R68",
+    "value": 1040000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "T68",
+    "value": 1320.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "B82",
+    "value": 55.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "C82",
+    "value": 26000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "D82",
+    "value": 65000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "F82",
+    "value": 550.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "I82",
+    "value": 126.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "J82",
+    "value": 52000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "K82",
+    "value": 260000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "M82",
+    "value": 880.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "P82",
+    "value": 33.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "Q82",
+    "value": 156000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "R82",
+    "value": 1560000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "T82",
+    "value": 1540.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "B89",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "C89",
+    "value": 60000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "D89",
+    "value": 150000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "F89",
+    "value": 500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "I89",
+    "value": 360.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "J89",
+    "value": 250000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "K89",
+    "value": 600000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "M89",
+    "value": 2400.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "P91",
+    "value": 42.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "Q91",
+    "value": 200000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "R91",
+    "value": 2000000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "DNA Costs",
+    "cell": "T91",
+    "value": 10000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "B12",
+    "value": 33.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "C12",
+    "value": 26000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "D12",
+    "value": 17000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "E12",
+    "value": 32500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "G12",
+    "value": 440.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "J12",
+    "value": 84.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "K12",
+    "value": 55000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "L12",
+    "value": 37000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "M12",
+    "value": 162500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "O12",
+    "value": 660.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "R12",
+    "value": 11.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "S12",
+    "value": 140000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "T12",
+    "value": 97000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "U12",
+    "value": 650000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "W12",
+    "value": 1100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "B26",
+    "value": 44.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "C26",
+    "value": 35000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "D26",
+    "value": 17000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "E26",
+    "value": 48750.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "G26",
+    "value": 495.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "J26",
+    "value": 105.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "K26",
+    "value": 74000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "L26",
+    "value": 37000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "M26",
+    "value": 195000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "O26",
+    "value": 770.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "R26",
+    "value": 22.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "U26",
+    "value": 1040000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "W26",
+    "value": 1320.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "B40",
+    "value": 55.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "C40",
+    "value": 26000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "D40",
+    "value": 52000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "E40",
+    "value": 65000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "G40",
+    "value": 550.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "J40",
+    "value": 126.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "K40",
+    "value": 55000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "L40",
+    "value": 110000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "M40",
+    "value": 260000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "O40",
+    "value": 880.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "R40",
+    "value": 33.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "U40",
+    "value": 1560000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "W40",
+    "value": 1540.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "B54",
+    "value": 33.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "C54",
+    "value": 17000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "D54",
+    "value": 26000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "E54",
+    "value": 32500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "G54",
+    "value": 440.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "J54",
+    "value": 84.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "K54",
+    "value": 37000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "L54",
+    "value": 55000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "M54",
+    "value": 162500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "O54",
+    "value": 660.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "R54",
+    "value": 11.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "S54",
+    "value": 97000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "T54",
+    "value": 140000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "U54",
+    "value": 650000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "W54",
+    "value": 1100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "B68",
+    "value": 44.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "C68",
+    "value": 35000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "D68",
+    "value": 17000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "E68",
+    "value": 48750.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "G68",
+    "value": 495.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "J68",
+    "value": 105.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "K68",
+    "value": 74000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "L68",
+    "value": 37000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "M68",
+    "value": 195000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "O68",
+    "value": 770.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "R68",
+    "value": 22.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "U68",
+    "value": 1040000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "W68",
+    "value": 1320.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "B82",
+    "value": 55.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "C82",
+    "value": 26000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "D82",
+    "value": 52000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "E82",
+    "value": 65000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "G82",
+    "value": 550.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "J82",
+    "value": 126.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "K82",
+    "value": 55000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "L82",
+    "value": 110000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "M82",
+    "value": 260000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "O82",
+    "value": 880.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "R82",
+    "value": 33.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "U82",
+    "value": 1560000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "W82",
+    "value": 1540.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "B89",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "C89",
+    "value": 90000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "D89",
+    "value": 90000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "E89",
+    "value": 150000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "G89",
+    "value": 500.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "J89",
+    "value": 360.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "K89",
+    "value": 300000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "L89",
+    "value": 300000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "M89",
+    "value": 600000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "O89",
+    "value": 2400.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "R91",
+    "value": 42.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "U91",
+    "value": 2000000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dragon DNA Costs",
+    "cell": "W91",
+    "value": 10000.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "D24",
+    "value": 72798.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "E24",
+    "value": 146904.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "F24",
+    "value": 65367.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "G24",
+    "value": 101970.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "H24",
+    "value": 82362.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "D26",
+    "value": 70644.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "E26",
+    "value": 183711.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "F26",
+    "value": 177660.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "G26",
+    "value": 186543.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "H26",
+    "value": 191871.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "D131",
+    "value": 43977.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "E131",
+    "value": 37820.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "F131",
+    "value": 35.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "D132",
+    "value": 45652.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "F132",
+    "value": 35.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "D133",
+    "value": 48480.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "E133",
+    "value": 40800.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Rift Anecdotes",
+    "cell": "F133",
+    "value": 45.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "B2",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "B3",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "B4",
+    "value": 48.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "B5",
+    "value": 19.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "B6",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "B7",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "A12",
+    "value": 1.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "L12",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "A13",
+    "value": 2.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "L13",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "A14",
+    "value": 3.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "L14",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "A15",
+    "value": 4.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "L15",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "A16",
+    "value": 5.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "L16",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "L17",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "L18",
+    "value": 1.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "L19",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "L20",
+    "value": 1.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Dance Calculator",
+    "cell": "L21",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "B2",
+    "value": 53.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "B3",
+    "value": 39.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "B4",
+    "value": 41.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "B5",
+    "value": 19.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "B6",
+    "value": 41.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "H9",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "H10",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "H11",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "H12",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "H13",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "H14",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "H15",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "H16",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "H17",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "H18",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "H19",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Band Calculator",
+    "cell": "H20",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "B2",
+    "value": 35.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "B3",
+    "value": 53.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "W3",
+    "value": 58595.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "B4",
+    "value": 52.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "W4",
+    "value": 69249.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "B5",
+    "value": 49.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "B6",
+    "value": 42.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "H11",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "J11",
+    "value": 0.15233017483146316,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "H12",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "J12",
+    "value": 0.05964885964834887,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "H13",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "J13",
+    "value": 0.151039109851707,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "H14",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "J14",
+    "value": 0.11494275569769785,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "H15",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "J15",
+    "value": 0.07617283380561002,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "H16",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "J16",
+    "value": 0.07049214789468317,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "H17",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "J17",
+    "value": 0.057471377848848704,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "H18",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "J18",
+    "value": 0.23672238396819356,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "H19",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "J19",
+    "value": 0.10571543834238195,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "H20",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "J20",
+    "value": 0.07700427965257295,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "H21",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "J21",
+    "value": 0.1045,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "H22",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "J22",
+    "value": 0.1484976470579633,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "H23",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "J23",
+    "value": 0.12021418021219232,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "C34",
+    "value": 17.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "C35",
+    "value": 2765816.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A48",
+    "value": 1.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A49",
+    "value": 2.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A50",
+    "value": 3.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A51",
+    "value": 4.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A52",
+    "value": 5.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A53",
+    "value": 6.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A54",
+    "value": 7.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A55",
+    "value": 8.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A56",
+    "value": 9.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A57",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A58",
+    "value": 11.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A59",
+    "value": 12.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A60",
+    "value": 13.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A61",
+    "value": 14.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A62",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A63",
+    "value": 16.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A64",
+    "value": 17.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A65",
+    "value": 18.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A66",
+    "value": 19.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Sailing Calculator",
+    "cell": "A67",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "B7",
+    "value": 3.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "B13",
+    "value": 4.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "B26",
+    "value": 4.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "B32",
+    "value": 5.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I71",
+    "value": 1.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L71",
+    "value": 1.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I72",
+    "value": 2.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L72",
+    "value": 2.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I73",
+    "value": 3.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L73",
+    "value": 3.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I74",
+    "value": 4.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L74",
+    "value": 4.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I75",
+    "value": 5.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L75",
+    "value": 5.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I76",
+    "value": 6.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L76",
+    "value": 6.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I77",
+    "value": 7.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L77",
+    "value": 7.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I78",
+    "value": 8.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L78",
+    "value": 8.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I79",
+    "value": 9.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L79",
+    "value": 9.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I80",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L80",
+    "value": 10.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I81",
+    "value": 11.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L81",
+    "value": 11.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I82",
+    "value": 12.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L82",
+    "value": 12.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I83",
+    "value": 13.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L83",
+    "value": 13.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I84",
+    "value": 14.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L84",
+    "value": 14.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I85",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L85",
+    "value": 15.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I86",
+    "value": 16.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L86",
+    "value": 16.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I87",
+    "value": 17.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L87",
+    "value": 17.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I88",
+    "value": 18.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L88",
+    "value": 18.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I89",
+    "value": 19.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L89",
+    "value": 19.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I90",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L90",
+    "value": 20.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I91",
+    "value": 21.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L91",
+    "value": 21.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I92",
+    "value": 22.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L92",
+    "value": 22.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I93",
+    "value": 23.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L93",
+    "value": 23.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I94",
+    "value": 24.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L94",
+    "value": 24.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I95",
+    "value": 25.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L95",
+    "value": 25.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I96",
+    "value": 26.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L96",
+    "value": 26.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I97",
+    "value": 27.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L97",
+    "value": 27.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I98",
+    "value": 28.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L98",
+    "value": 28.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I99",
+    "value": 29.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L99",
+    "value": 29.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I100",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L100",
+    "value": 30.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I101",
+    "value": 31.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L101",
+    "value": 31.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I102",
+    "value": 32.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L102",
+    "value": 32.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I103",
+    "value": 33.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L103",
+    "value": 33.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I104",
+    "value": 34.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L104",
+    "value": 34.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I105",
+    "value": 35.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L105",
+    "value": 35.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I106",
+    "value": 36.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L106",
+    "value": 36.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I107",
+    "value": 37.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L107",
+    "value": 37.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I108",
+    "value": 38.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L108",
+    "value": 38.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I109",
+    "value": 39.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L109",
+    "value": 39.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I110",
+    "value": 40.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L110",
+    "value": 40.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I111",
+    "value": 41.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L111",
+    "value": 41.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I112",
+    "value": 42.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L112",
+    "value": 42.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I113",
+    "value": 43.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L113",
+    "value": 43.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I114",
+    "value": 44.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L114",
+    "value": 44.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I115",
+    "value": 45.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L115",
+    "value": 45.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I116",
+    "value": 46.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L116",
+    "value": 46.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I117",
+    "value": 47.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L117",
+    "value": 47.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I118",
+    "value": 48.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L118",
+    "value": 48.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I119",
+    "value": 49.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L119",
+    "value": 49.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I120",
+    "value": 50.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L120",
+    "value": 50.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I121",
+    "value": 51.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L121",
+    "value": 51.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I122",
+    "value": 52.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L122",
+    "value": 52.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I123",
+    "value": 53.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L123",
+    "value": 53.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I124",
+    "value": 54.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L124",
+    "value": 54.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I125",
+    "value": 55.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L125",
+    "value": 55.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I126",
+    "value": 56.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L126",
+    "value": 56.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I127",
+    "value": 57.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L127",
+    "value": 57.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I128",
+    "value": 58.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L128",
+    "value": 58.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I129",
+    "value": 59.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L129",
+    "value": 59.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I130",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L130",
+    "value": 60.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I131",
+    "value": 61.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L131",
+    "value": 61.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I132",
+    "value": 62.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L132",
+    "value": 62.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I133",
+    "value": 63.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L133",
+    "value": 63.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I134",
+    "value": 64.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L134",
+    "value": 64.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I135",
+    "value": 65.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L135",
+    "value": 65.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I136",
+    "value": 66.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L136",
+    "value": 66.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I137",
+    "value": 67.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L137",
+    "value": 67.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I138",
+    "value": 68.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L138",
+    "value": 68.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I139",
+    "value": 69.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L139",
+    "value": 69.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I140",
+    "value": 70.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L140",
+    "value": 70.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I141",
+    "value": 71.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L141",
+    "value": 71.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I142",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L142",
+    "value": 72.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I143",
+    "value": 73.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L143",
+    "value": 73.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I144",
+    "value": 74.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L144",
+    "value": 74.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I145",
+    "value": 75.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L145",
+    "value": 75.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I146",
+    "value": 76.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L146",
+    "value": 76.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I147",
+    "value": 77.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L147",
+    "value": 77.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I148",
+    "value": 78.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L148",
+    "value": 78.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I149",
+    "value": 79.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L149",
+    "value": 79.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I150",
+    "value": 80.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L150",
+    "value": 80.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I151",
+    "value": 81.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L151",
+    "value": 81.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I152",
+    "value": 82.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L152",
+    "value": 82.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I153",
+    "value": 83.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L153",
+    "value": 83.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I154",
+    "value": 84.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L154",
+    "value": 84.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I155",
+    "value": 85.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L155",
+    "value": 85.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I156",
+    "value": 86.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L156",
+    "value": 86.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I157",
+    "value": 87.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L157",
+    "value": 87.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I158",
+    "value": 88.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L158",
+    "value": 88.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I159",
+    "value": 89.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L159",
+    "value": 89.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I160",
+    "value": 90.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L160",
+    "value": 90.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I161",
+    "value": 91.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L161",
+    "value": 91.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I162",
+    "value": 92.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L162",
+    "value": 92.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I163",
+    "value": 93.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L163",
+    "value": 93.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I164",
+    "value": 94.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L164",
+    "value": 94.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I165",
+    "value": 95.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L165",
+    "value": 95.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I166",
+    "value": 96.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L166",
+    "value": 96.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I167",
+    "value": 97.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L167",
+    "value": 97.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I168",
+    "value": 98.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L168",
+    "value": 98.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I169",
+    "value": 99.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L169",
+    "value": 99.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I170",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L170",
+    "value": 100.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I171",
+    "value": 101.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L171",
+    "value": 101.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I172",
+    "value": 102.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L172",
+    "value": 102.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I173",
+    "value": 103.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L173",
+    "value": 103.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I174",
+    "value": 104.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L174",
+    "value": 104.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I175",
+    "value": 105.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L175",
+    "value": 105.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I176",
+    "value": 106.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L176",
+    "value": 106.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I177",
+    "value": 107.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L177",
+    "value": 107.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I178",
+    "value": 108.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L178",
+    "value": 108.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I179",
+    "value": 109.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L179",
+    "value": 109.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I180",
+    "value": 110.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L180",
+    "value": 110.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I181",
+    "value": 111.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L181",
+    "value": 111.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I182",
+    "value": 112.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L182",
+    "value": 112.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I183",
+    "value": 113.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L183",
+    "value": 113.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I184",
+    "value": 114.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L184",
+    "value": 114.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I185",
+    "value": 115.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L185",
+    "value": 115.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I186",
+    "value": 116.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L186",
+    "value": 116.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I187",
+    "value": 117.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L187",
+    "value": 117.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I188",
+    "value": 118.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L188",
+    "value": 118.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I189",
+    "value": 119.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L189",
+    "value": 119.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I190",
+    "value": 120.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L190",
+    "value": 120.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I191",
+    "value": 121.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L191",
+    "value": 121.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I192",
+    "value": 122.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L192",
+    "value": 122.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I193",
+    "value": 123.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L193",
+    "value": 123.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I194",
+    "value": 124.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L194",
+    "value": 124.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I195",
+    "value": 125.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L195",
+    "value": 125.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I196",
+    "value": 126.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L196",
+    "value": 126.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I197",
+    "value": 127.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L197",
+    "value": 127.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I198",
+    "value": 128.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L198",
+    "value": 128.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I199",
+    "value": 129.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L199",
+    "value": 129.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I200",
+    "value": 130.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L200",
+    "value": 130.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I201",
+    "value": 131.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L201",
+    "value": 131.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I202",
+    "value": 132.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L202",
+    "value": 132.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I203",
+    "value": 133.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L203",
+    "value": 133.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I204",
+    "value": 134.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L204",
+    "value": 134.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I205",
+    "value": 135.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L205",
+    "value": 135.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I206",
+    "value": 136.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L206",
+    "value": 136.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I207",
+    "value": 137.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L207",
+    "value": 137.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I208",
+    "value": 138.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L208",
+    "value": 138.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I209",
+    "value": 139.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L209",
+    "value": 139.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I210",
+    "value": 140.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L210",
+    "value": 140.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I211",
+    "value": 141.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L211",
+    "value": 141.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I212",
+    "value": 142.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L212",
+    "value": 142.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I213",
+    "value": 143.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L213",
+    "value": 143.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I214",
+    "value": 144.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L214",
+    "value": 144.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I215",
+    "value": 145.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L215",
+    "value": 145.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I216",
+    "value": 146.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L216",
+    "value": 146.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I217",
+    "value": 147.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L217",
+    "value": 147.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I218",
+    "value": 148.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L218",
+    "value": 148.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I219",
+    "value": 149.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L219",
+    "value": 149.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I220",
+    "value": 150.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L220",
+    "value": 150.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I221",
+    "value": 151.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L221",
+    "value": 151.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I222",
+    "value": 152.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L222",
+    "value": 152.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I223",
+    "value": 153.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L223",
+    "value": 153.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I224",
+    "value": 154.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L224",
+    "value": 154.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I225",
+    "value": 155.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L225",
+    "value": 155.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I226",
+    "value": 156.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L226",
+    "value": 156.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I227",
+    "value": 157.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L227",
+    "value": 157.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I228",
+    "value": 158.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L228",
+    "value": 158.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I229",
+    "value": 159.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L229",
+    "value": 159.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I230",
+    "value": 160.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L230",
+    "value": 160.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I231",
+    "value": 161.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L231",
+    "value": 161.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I232",
+    "value": 162.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L232",
+    "value": 162.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I233",
+    "value": 163.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L233",
+    "value": 163.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I234",
+    "value": 164.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L234",
+    "value": 164.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I235",
+    "value": 165.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L235",
+    "value": 165.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I236",
+    "value": 166.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L236",
+    "value": 166.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I237",
+    "value": 167.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L237",
+    "value": 167.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I238",
+    "value": 168.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L238",
+    "value": 168.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I239",
+    "value": 169.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L239",
+    "value": 169.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I240",
+    "value": 170.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L240",
+    "value": 170.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I241",
+    "value": 171.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L241",
+    "value": 171.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I242",
+    "value": 172.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L242",
+    "value": 172.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I243",
+    "value": 173.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L243",
+    "value": 173.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I244",
+    "value": 174.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L244",
+    "value": 174.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I245",
+    "value": 175.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L245",
+    "value": 175.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I246",
+    "value": 176.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L246",
+    "value": 176.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I247",
+    "value": 177.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L247",
+    "value": 177.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I248",
+    "value": 178.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L248",
+    "value": 178.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I249",
+    "value": 179.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L249",
+    "value": 179.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I250",
+    "value": 180.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L250",
+    "value": 180.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I251",
+    "value": 181.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L251",
+    "value": 181.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I252",
+    "value": 182.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L252",
+    "value": 182.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I253",
+    "value": 183.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L253",
+    "value": 183.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I254",
+    "value": 184.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L254",
+    "value": 184.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I255",
+    "value": 185.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L255",
+    "value": 185.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I256",
+    "value": 186.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L256",
+    "value": 186.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I257",
+    "value": 187.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L257",
+    "value": 187.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I258",
+    "value": 188.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L258",
+    "value": 188.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I259",
+    "value": 189.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L259",
+    "value": 189.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I260",
+    "value": 190.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L260",
+    "value": 190.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I261",
+    "value": 191.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L261",
+    "value": 191.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I262",
+    "value": 192.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L262",
+    "value": 192.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I263",
+    "value": 193.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L263",
+    "value": 193.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I264",
+    "value": 194.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L264",
+    "value": 194.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I265",
+    "value": 195.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L265",
+    "value": 195.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I266",
+    "value": 196.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L266",
+    "value": 196.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I267",
+    "value": 197.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L267",
+    "value": 197.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I268",
+    "value": 198.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L268",
+    "value": 198.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I269",
+    "value": 199.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L269",
+    "value": 199.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I270",
+    "value": 200.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L270",
+    "value": 200.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I271",
+    "value": 201.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L271",
+    "value": 201.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I272",
+    "value": 202.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L272",
+    "value": 202.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I273",
+    "value": 203.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L273",
+    "value": 203.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I274",
+    "value": 204.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L274",
+    "value": 204.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I275",
+    "value": 205.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L275",
+    "value": 205.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I276",
+    "value": 206.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L276",
+    "value": 206.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I277",
+    "value": 207.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L277",
+    "value": 207.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I278",
+    "value": 208.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L278",
+    "value": 208.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I279",
+    "value": 209.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L279",
+    "value": 209.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I280",
+    "value": 210.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L280",
+    "value": 210.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I281",
+    "value": 211.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L281",
+    "value": 211.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I282",
+    "value": 212.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L282",
+    "value": 212.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I283",
+    "value": 213.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L283",
+    "value": 213.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I284",
+    "value": 214.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L284",
+    "value": 214.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I285",
+    "value": 215.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L285",
+    "value": 215.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I286",
+    "value": 216.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L286",
+    "value": 216.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I287",
+    "value": 217.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L287",
+    "value": 217.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I288",
+    "value": 218.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L288",
+    "value": 218.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I289",
+    "value": 219.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L289",
+    "value": 219.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I290",
+    "value": 220.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L290",
+    "value": 220.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I291",
+    "value": 221.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L291",
+    "value": 221.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I292",
+    "value": 222.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L292",
+    "value": 222.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I293",
+    "value": 223.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L293",
+    "value": 223.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I294",
+    "value": 224.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L294",
+    "value": 224.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I295",
+    "value": 225.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L295",
+    "value": 225.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I296",
+    "value": 226.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L296",
+    "value": 226.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I297",
+    "value": 227.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L297",
+    "value": 227.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I298",
+    "value": 228.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L298",
+    "value": 228.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I299",
+    "value": 229.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L299",
+    "value": 229.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I300",
+    "value": 230.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L300",
+    "value": 230.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I301",
+    "value": 231.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L301",
+    "value": 231.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I302",
+    "value": 232.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L302",
+    "value": 232.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I303",
+    "value": 233.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L303",
+    "value": 233.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I304",
+    "value": 234.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L304",
+    "value": 234.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I305",
+    "value": 235.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L305",
+    "value": 235.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I306",
+    "value": 236.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L306",
+    "value": 236.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I307",
+    "value": 237.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L307",
+    "value": 237.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I308",
+    "value": 238.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L308",
+    "value": 238.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I309",
+    "value": 239.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L309",
+    "value": 239.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "I310",
+    "value": 240.0,
+    "context": "Hardcoded value near formula cells"
+  },
+  {
+    "sheet": "Protomon",
+    "cell": "L310",
+    "value": 240.0,
+    "context": "Hardcoded value near formula cells"
+  }
+]

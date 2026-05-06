@@ -1,0 +1,1 @@
+/data/data/com.qcplay.snail.android.na/files/update_res/src/game/cmd/misc/msg_arena_top_query.luac: 1 file pulled, 0 skipped. 0.2 MB/s (214 bytes in 0.001s)

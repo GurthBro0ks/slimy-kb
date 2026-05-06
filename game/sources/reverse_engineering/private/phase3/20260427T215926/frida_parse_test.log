@@ -1,0 +1,30 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> 
+var str = '  78d13643d000-78d13761d000 r--p 00000000 fe:28 229521                     /data/app/libcocos2dlua.so';
+var trimmed = str.trim();
+console.log('trimmed:', trimmed);
+var parts = trimmed.split(/\s+/);
+console.log('parts[0]:', parts[0]);
+var addrRange = parts[0].split('-');
+console.log('addrRange[0]:', addrRange[0]);
+console.log('ptr:', ptr(addrRange[0]));
+
+trimmed: 78d13643d000-78d13761d000 r--p 00000000 fe:28 229521                     /data/app/libcocos2dlua.so
+parts[0]: 78d13643d000-78d13761d000
+addrRange[0]: 78d13643d000
+Error: expected a pointer
+    at value (/frida/runtime/core.js:94)
+    at <eval> (<input>:9)
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!

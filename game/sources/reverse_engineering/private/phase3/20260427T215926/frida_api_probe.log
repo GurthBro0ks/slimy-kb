@@ -1,0 +1,26 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> 
+console.log('Module is:', typeof Module);
+console.log('Module.prototype:', typeof Module.prototype);
+console.log('Process is:', typeof Process);
+console.log('Process keys:', Object.getOwnPropertyNames(Process).slice(0,20));
+console.log('Module keys:', Object.getOwnPropertyNames(Module).slice(0,20));
+
+Module is: function
+Module.prototype: object
+Process is: object
+Process keys: arch,platform,pointerSize,mainModule,getCurrentDir,getHomeDir,getTmpDir,isDebuggerAttached,getCurrentThreadId,enumerateThreads,attachThreadObserver,_runOnThread,findModuleByName,findModuleByAddress,enumerateModules,attachModuleObserver,findRangeByAddress,_enumerateRanges,enumerateSystemRanges,enumerateMallocRanges
+Module keys: length,name,prototype,load,findGlobalExportByName,getGlobalExportByName
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!

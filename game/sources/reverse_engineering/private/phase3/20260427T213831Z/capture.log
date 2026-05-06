@@ -1,0 +1,5 @@
+utc=20260427T213831Z
+pcap=captures/private/phase3/20260427T213831Z/passive_foreground_20260427T213831Z.pcap
+starting tcpdump
+Starting: Intent { cmp=com.qcplay.snail.android.na/org.cocos2dx.lua.AppActivity }
+Warning: Activity not started, intent has been delivered to currently running top-most instance.

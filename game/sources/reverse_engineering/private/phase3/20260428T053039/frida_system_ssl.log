@@ -1,0 +1,27 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[*] System SSL unpin starting for JPush process...
+[*] Hooking system libssl.so certificate verification...
+[+] Found libssl.so @ 0x78d1916c6000
+[+] SSL_CTX_set_verify @ 0x78d19171a1b0
+[+] SSL_set_verify @ 0x78d19171a160
+[+] SSL_do_handshake @ 0x78d19170e6b0
+[+] System SSL hooks applied
+[*] Hooking SSL_read/SSL_write for JPush intercept...
+[+] SSL_read @ 0x78d19170ead0
+[+] SSL_write @ 0x78d19170ef10
+[+] SSL read/write hooks applied
+[+] System SSL unpinning complete
+[Android Emulator 5554::PID::14605 ]-> Device lost
+
+Thank you for using Frida!

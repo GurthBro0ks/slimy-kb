@@ -1,0 +1,61 @@
+     ____
+    / _  |   Frida 17.9.1 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+[Android Emulator 5554::Super Snail ]-> 
+var libc = Process.findModuleByName('libc.so');
+var fopen = new NativeFunction(libc.findExportByName('fopen'), 'pointer', ['pointer', 'pointer']);
+var fgets = new NativeFunction(libc.findExportByName('fgets'), 'pointer', ['pointer', 'int', 'pointer']);
+var fclose = new NativeFunction(libc.findExportByName('fclose'), 'int', ['pointer']);
+var path = Memory.allocUtf8String('/proc/self/maps');
+var mode = Memory.allocUtf8String('r');
+var fp = fopen(path, mode);
+var buffer = Memory.alloc(2048);
+var base = null;
+while (true) {
+  var line = fgets(buffer, 2048, fp);
+  if (line.isNull()) break;
+  var str = buffer.readUtf8String();
+  if (str.indexOf('libcocos2dlua.so') !== -1) {
+    var parts = str.trim().split(/\s+/);
+    if (parts.length > 0) {
+      var addrRange = parts[0].split('-');
+      if (addrRange.length >= 2) {
+        base = ptr('0x' + addrRange[0]);
+        break;
+      }
+    }
+  }
+}
+fclose(fp);
+
+if (base) {
+  var ssl_do_handshake = base.add(0xca0de8);
+  console.log('Hooking SSL_do_handshake @', ssl_do_handshake);
+  Interceptor.attach(ssl_do_handshake, {
+    onEnter: function(args) {
+      var ssl = args[0];
+      console.log('SSL_do_handshake called, ssl=' + ssl);
+      // Disable verification by writing to SSL struct offsets
+      // verify_mode @ offset 392, verify_callback @ offset 400
+      ssl.add(392).writeU32(0);  // SSL_VERIFY_NONE
+      ssl.add(400).writePointer(ptr(0));  // NULL callback
+      console.log('Verification disabled on SSL object');
+    }
+  });
+} else {
+  console.log('Base not found');
+}
+
+Hooking SSL_do_handshake @ 0x78d1317bade8
+{}
+[Android Emulator 5554::Super Snail ]-> 
+Thank you for using Frida!
