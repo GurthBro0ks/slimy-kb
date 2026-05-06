@@ -1,2 +1,7 @@
 output/scratch-*
 *.tmp
+
+# Local-only spreadsheet source bundles
+game/sources/spreadsheets/*.zip
+game/sources/spreadsheets/Copy of Gear Calculator.xlsx
+game/sources/spreadsheets/Copy of Gear Calculator - patched.xlsx
