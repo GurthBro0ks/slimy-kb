@@ -1,0 +1,186 @@
+[
+  {
+    "action": null,
+    "cell": "D142",
+    "cells": null,
+    "confidence": 0.9,
+    "formula": "=if(Gear!H142<2,0,Gear!H142-1)",
+    "id": "gear_armor_level_formula_d142",
+    "issue_type": "spreadsheet_formula_fix",
+    "raw_fix": {
+      "cell": "D142",
+      "formula": "=if(Gear!H142<2,0,Gear!H142-1)",
+      "id": "gear_armor_level_formula_d142",
+      "reason": "D142 was reading the wrong row. It must read its own level cell H142.",
+      "sheet": "Gear"
+    },
+    "reason": "D142 was reading the wrong row. It must read its own level cell H142.",
+    "review_status": "accepted_as_staging_correction",
+    "sheet": "Gear",
+    "source_workbook": "Copy of Gear Calculator.xlsx"
+  },
+  {
+    "action": null,
+    "cell": "D149",
+    "cells": null,
+    "confidence": 0.9,
+    "formula": "=if(Gear!H149<2,0,Gear!H149-1)",
+    "id": "gear_armor_level_formula_d149",
+    "issue_type": "spreadsheet_formula_fix",
+    "raw_fix": {
+      "cell": "D149",
+      "formula": "=if(Gear!H149<2,0,Gear!H149-1)",
+      "id": "gear_armor_level_formula_d149",
+      "reason": "D149 was reading the wrong row. It must read its own level cell H149.",
+      "sheet": "Gear"
+    },
+    "reason": "D149 was reading the wrong row. It must read its own level cell H149.",
+    "review_status": "accepted_as_staging_correction",
+    "sheet": "Gear",
+    "source_workbook": "Copy of Gear Calculator.xlsx"
+  },
+  {
+    "action": null,
+    "cell": "C21",
+    "cells": null,
+    "confidence": 0.9,
+    "formula": "=(1+B10+I9)*(CombatMath!H8)",
+    "id": "combat_first_turn_attack_damage_c21",
+    "issue_type": "spreadsheet_formula_fix",
+    "raw_fix": {
+      "cell": "C21",
+      "formula": "=(1+B10+I9)*(CombatMath!H8)",
+      "id": "combat_first_turn_attack_damage_c21",
+      "reason": "Round 1 damage buff in I9 was calculated but not included in first-turn attack damage.",
+      "sheet": "Combat"
+    },
+    "reason": "Round 1 damage buff in I9 was calculated but not included in first-turn attack damage.",
+    "review_status": "accepted_as_staging_correction",
+    "sheet": "Combat",
+    "source_workbook": "Copy of Gear Calculator.xlsx"
+  },
+  {
+    "action": null,
+    "cell": "E21",
+    "cells": null,
+    "confidence": 0.9,
+    "formula": "=(1+B10+I9)*CombatMath!B21",
+    "id": "combat_first_turn_attack_total_e21",
+    "issue_type": "spreadsheet_formula_fix",
+    "raw_fix": {
+      "cell": "E21",
+      "formula": "=(1+B10+I9)*CombatMath!B21",
+      "id": "combat_first_turn_attack_total_e21",
+      "reason": "Round 1 damage buff in I9 was calculated but not included in first-turn attack total.",
+      "sheet": "Combat"
+    },
+    "reason": "Round 1 damage buff in I9 was calculated but not included in first-turn attack total.",
+    "review_status": "accepted_as_staging_correction",
+    "sheet": "Combat",
+    "source_workbook": "Copy of Gear Calculator.xlsx"
+  },
+  {
+    "action": null,
+    "cell": "C22",
+    "cells": null,
+    "confidence": 0.9,
+    "formula": "=if(E16=TRUE,(1+B10+I9)*CombatMath!H9,0)",
+    "id": "combat_first_turn_rush_damage_c22",
+    "issue_type": "spreadsheet_formula_fix",
+    "raw_fix": {
+      "cell": "C22",
+      "formula": "=if(E16=TRUE,(1+B10+I9)*CombatMath!H9,0)",
+      "id": "combat_first_turn_rush_damage_c22",
+      "reason": "Round 1 damage buff in I9 was calculated but not included in first-turn rush damage.",
+      "sheet": "Combat"
+    },
+    "reason": "Round 1 damage buff in I9 was calculated but not included in first-turn rush damage.",
+    "review_status": "accepted_as_staging_correction",
+    "sheet": "Combat",
+    "source_workbook": "Copy of Gear Calculator.xlsx"
+  },
+  {
+    "action": null,
+    "cell": "E22",
+    "cells": null,
+    "confidence": 0.9,
+    "formula": "=if(E16=TRUE,(1+B10+I9)*CombatMath!B22,0)",
+    "id": "combat_first_turn_rush_total_e22",
+    "issue_type": "spreadsheet_formula_fix",
+    "raw_fix": {
+      "cell": "E22",
+      "formula": "=if(E16=TRUE,(1+B10+I9)*CombatMath!B22,0)",
+      "id": "combat_first_turn_rush_total_e22",
+      "reason": "Round 1 damage buff in I9 was calculated but not included in first-turn rush total.",
+      "sheet": "Combat"
+    },
+    "reason": "Round 1 damage buff in I9 was calculated but not included in first-turn rush total.",
+    "review_status": "accepted_as_staging_correction",
+    "sheet": "Combat",
+    "source_workbook": "Copy of Gear Calculator.xlsx"
+  },
+  {
+    "action": "clear_values",
+    "cell": null,
+    "cells": [
+      "I16",
+      "I17",
+      "I18",
+      "I19",
+      "I20",
+      "I21"
+    ],
+    "confidence": 0.9,
+    "formula": null,
+    "id": "combat_dead_inputs_i16_i21",
+    "issue_type": "spreadsheet_formula_fix",
+    "raw_fix": {
+      "action": "clear_values",
+      "cells": [
+        "I16",
+        "I17",
+        "I18",
+        "I19",
+        "I20",
+        "I21"
+      ],
+      "id": "combat_dead_inputs_i16_i21",
+      "labels": {
+        "H16": "Lifesteal Rate (unused)",
+        "H17": "Lifesteal EFF (unused)",
+        "H18": "Dodge (unused)",
+        "H19": "Hit (unused)",
+        "H20": "DMG Reduc (unused)",
+        "H21": "Crit DMG Reduc (unused)"
+      },
+      "reason": "These inputs were visible but not referenced by any formulas.",
+      "sheet": "Combat"
+    },
+    "reason": "These inputs were visible but not referenced by any formulas.",
+    "review_status": "accepted_as_staging_correction",
+    "sheet": "Combat",
+    "source_workbook": "Copy of Gear Calculator.xlsx"
+  },
+  {
+    "action": "make_copy_of_combat_use_copy_of_combatmath",
+    "cell": null,
+    "cells": null,
+    "confidence": 0.9,
+    "formula": null,
+    "id": "copy_of_combat_independence",
+    "issue_type": "spreadsheet_formula_fix",
+    "raw_fix": {
+      "action": "make_copy_of_combat_use_copy_of_combatmath",
+      "id": "copy_of_combat_independence",
+      "reason": "Copy of Combat was secretly feeding through CombatMath back to the original Combat sheet.",
+      "sheets": [
+        "Copy of Combat",
+        "Copy of CombatMath"
+      ]
+    },
+    "reason": "Copy of Combat was secretly feeding through CombatMath back to the original Combat sheet.",
+    "review_status": "accepted_as_staging_correction",
+    "sheet": null,
+    "source_workbook": "Copy of Gear Calculator.xlsx"
+  }
+]

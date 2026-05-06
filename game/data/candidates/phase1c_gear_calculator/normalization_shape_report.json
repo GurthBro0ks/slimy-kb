@@ -1,0 +1,3953 @@
+{
+  "cost_table_shape": [
+    {
+      "length": 9,
+      "path": "$",
+      "type": "list"
+    },
+    {
+      "key_count": 28,
+      "keys": [
+        "Abyss",
+        "Beast Fang",
+        "Black Pearl",
+        "Btad Amulet",
+        "Btad Gear",
+        "Btad Total",
+        "Crusader Ring",
+        "Crystal",
+        "Eye",
+        "Flower Crown",
+        "Glue Gear",
+        "Glue Total",
+        "Glue amulet",
+        "Heaven",
+        "Icy Bracelet",
+        "Iron Ring",
+        "Level",
+        "Reagent",
+        "Ruby Brooch",
+        "Sapphire Brooch",
+        "Seething Bracelet",
+        "Sorcerer Ring",
+        "Warrior Ring",
+        "White Pearl",
+        "WingA",
+        "WingH",
+        "Wizard Ring",
+        "Wooden Ring"
+      ],
+      "path": "[0]",
+      "type": "dict"
+    },
+    {
+      "path": "[0].Level",
+      "sample": 1,
+      "type": "int"
+    },
+    {
+      "path": "[0].Glue amulet",
+      "sample": 60,
+      "type": "int"
+    },
+    {
+      "path": "[0].Glue Gear",
+      "sample": 500,
+      "type": "int"
+    },
+    {
+      "path": "[0].Glue Total",
+      "sample": 560,
+      "type": "int"
+    },
+    {
+      "path": "[0].Btad Amulet",
+      "sample": 120000,
+      "type": "int"
+    },
+    {
+      "path": "[0].Btad Gear",
+      "sample": 160000,
+      "type": "int"
+    },
+    {
+      "path": "[0].Btad Total",
+      "sample": 280000,
+      "type": "int"
+    },
+    {
+      "path": "[0].Reagent",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "[0].Crystal",
+      "sample": 1,
+      "type": "int"
+    },
+    {
+      "path": "[0].Eye",
+      "sample": 1,
+      "type": "int"
+    },
+    {
+      "path": "[0].WingA",
+      "sample": 1,
+      "type": "int"
+    },
+    {
+      "path": "[0].WingH",
+      "sample": 1,
+      "type": "int"
+    },
+    {
+      "path": "[0].Abyss",
+      "sample": 1,
+      "type": "int"
+    },
+    {
+      "path": "[0].Heaven",
+      "sample": 1,
+      "type": "int"
+    },
+    {
+      "path": "[0].Seething Bracelet",
+      "sample": 2,
+      "type": "int"
+    },
+    {
+      "path": "[0].Icy Bracelet",
+      "sample": 2,
+      "type": "int"
+    },
+    {
+      "path": "[0].Ruby Brooch",
+      "sample": 2,
+      "type": "int"
+    },
+    {
+      "path": "[0].Sapphire Brooch",
+      "sample": 2,
+      "type": "int"
+    },
+    {
+      "path": "[0].Wizard Ring",
+      "sample": 4,
+      "type": "int"
+    },
+    {
+      "path": "[0].Crusader Ring",
+      "sample": 4,
+      "type": "int"
+    },
+    {
+      "path": "[0].White Pearl",
+      "sample": 4,
+      "type": "int"
+    },
+    {
+      "path": "[0].Black Pearl",
+      "sample": 4,
+      "type": "int"
+    },
+    {
+      "path": "[0].Sorcerer Ring",
+      "sample": 8,
+      "type": "int"
+    },
+    {
+      "path": "[0].Warrior Ring",
+      "sample": 8,
+      "type": "int"
+    },
+    {
+      "path": "[0].Flower Crown",
+      "sample": 8,
+      "type": "int"
+    },
+    {
+      "path": "[0].Wooden Ring",
+      "sample": 8,
+      "type": "int"
+    },
+    {
+      "path": "[0].Iron Ring",
+      "sample": 8,
+      "type": "int"
+    },
+    {
+      "path": "[0].Beast Fang",
+      "sample": 8,
+      "type": "int"
+    },
+    {
+      "key_count": 28,
+      "keys": [
+        "Abyss",
+        "Beast Fang",
+        "Black Pearl",
+        "Btad Amulet",
+        "Btad Gear",
+        "Btad Total",
+        "Crusader Ring",
+        "Crystal",
+        "Eye",
+        "Flower Crown",
+        "Glue Gear",
+        "Glue Total",
+        "Glue amulet",
+        "Heaven",
+        "Icy Bracelet",
+        "Iron Ring",
+        "Level",
+        "Reagent",
+        "Ruby Brooch",
+        "Sapphire Brooch",
+        "Seething Bracelet",
+        "Sorcerer Ring",
+        "Warrior Ring",
+        "White Pearl",
+        "WingA",
+        "WingH",
+        "Wizard Ring",
+        "Wooden Ring"
+      ],
+      "path": "[1]",
+      "type": "dict"
+    },
+    {
+      "path": "[1].Level",
+      "sample": 2,
+      "type": "int"
+    },
+    {
+      "path": "[1].Glue amulet",
+      "sample": 220,
+      "type": "int"
+    },
+    {
+      "path": "[1].Glue Gear",
+      "sample": 1250,
+      "type": "int"
+    },
+    {
+      "path": "[1].Glue Total",
+      "sample": 1470,
+      "type": "int"
+    },
+    {
+      "path": "[1].Btad Amulet",
+      "sample": 360000,
+      "type": "int"
+    },
+    {
+      "path": "[1].Btad Gear",
+      "sample": 410000,
+      "type": "int"
+    },
+    {
+      "path": "[1].Btad Total",
+      "sample": 770000,
+      "type": "int"
+    },
+    {
+      "path": "[1].Reagent",
+      "sample": 100,
+      "type": "int"
+    },
+    {
+      "path": "[1].Crystal",
+      "sample": 2,
+      "type": "int"
+    },
+    {
+      "path": "[1].Eye",
+      "sample": 3,
+      "type": "int"
+    },
+    {
+      "path": "[1].WingA",
+      "sample": 3,
+      "type": "int"
+    },
+    {
+      "path": "[1].WingH",
+      "sample": 3,
+      "type": "int"
+    },
+    {
+      "path": "[1].Abyss",
+      "sample": 3,
+      "type": "int"
+    },
+    {
+      "path": "[1].Heaven",
+      "sample": 3,
+      "type": "int"
+    },
+    {
+      "path": "[1].Seething Bracelet",
+      "sample": 6,
+      "type": "int"
+    },
+    {
+      "path": "[1].Icy Bracelet",
+      "sample": 6,
+      "type": "int"
+    },
+    {
+      "path": "[1].Ruby Brooch",
+      "sample": 6,
+      "type": "int"
+    },
+    {
+      "path": "[1].Sapphire Brooch",
+      "sample": 6,
+      "type": "int"
+    },
+    {
+      "path": "[1].Wizard Ring",
+      "sample": 12,
+      "type": "int"
+    },
+    {
+      "path": "[1].Crusader Ring",
+      "sample": 12,
+      "type": "int"
+    },
+    {
+      "path": "[1].White Pearl",
+      "sample": 12,
+      "type": "int"
+    },
+    {
+      "path": "[1].Black Pearl",
+      "sample": 12,
+      "type": "int"
+    },
+    {
+      "path": "[1].Sorcerer Ring",
+      "sample": 24,
+      "type": "int"
+    },
+    {
+      "path": "[1].Warrior Ring",
+      "sample": 24,
+      "type": "int"
+    },
+    {
+      "path": "[1].Flower Crown",
+      "sample": 24,
+      "type": "int"
+    },
+    {
+      "path": "[1].Wooden Ring",
+      "sample": 24,
+      "type": "int"
+    },
+    {
+      "path": "[1].Iron Ring",
+      "sample": 24,
+      "type": "int"
+    },
+    {
+      "path": "[1].Beast Fang",
+      "sample": 24,
+      "type": "int"
+    },
+    {
+      "key_count": 28,
+      "keys": [
+        "Abyss",
+        "Beast Fang",
+        "Black Pearl",
+        "Btad Amulet",
+        "Btad Gear",
+        "Btad Total",
+        "Crusader Ring",
+        "Crystal",
+        "Eye",
+        "Flower Crown",
+        "Glue Gear",
+        "Glue Total",
+        "Glue amulet",
+        "Heaven",
+        "Icy Bracelet",
+        "Iron Ring",
+        "Level",
+        "Reagent",
+        "Ruby Brooch",
+        "Sapphire Brooch",
+        "Seething Bracelet",
+        "Sorcerer Ring",
+        "Warrior Ring",
+        "White Pearl",
+        "WingA",
+        "WingH",
+        "Wizard Ring",
+        "Wooden Ring"
+      ],
+      "path": "[2]",
+      "type": "dict"
+    },
+    {
+      "path": "[2].Level",
+      "sample": 3,
+      "type": "int"
+    },
+    {
+      "path": "[2].Glue amulet",
+      "sample": 530,
+      "type": "int"
+    },
+    {
+      "path": "[2].Glue Gear",
+      "sample": 2300,
+      "type": "int"
+    },
+    {
+      "path": "[2].Glue Total",
+      "sample": 2830,
+      "type": "int"
+    },
+    {
+      "path": "[2].Btad Amulet",
+      "sample": 930000,
+      "type": "int"
+    },
+    {
+      "path": "[2].Btad Gear",
+      "sample": 770000,
+      "type": "int"
+    },
+    {
+      "path": "[2].Btad Total",
+      "sample": 1700000,
+      "type": "int"
+    },
+    {
+      "path": "[2].Reagent",
+      "sample": 400,
+      "type": "int"
+    },
+    {
+      "path": "[2].Crystal",
+      "sample": 3,
+      "type": "int"
+    },
+    {
+      "path": "[2].Eye",
+      "sample": 6,
+      "type": "int"
+    },
+    {
+      "path": "[2].WingA",
+      "sample": 6,
+      "type": "int"
+    },
+    {
+      "path": "[2].WingH",
+      "sample": 6,
+      "type": "int"
+    },
+    {
+      "path": "[2].Abyss",
+      "sample": 6,
+      "type": "int"
+    },
+    {
+      "path": "[2].Heaven",
+      "sample": 6,
+      "type": "int"
+    },
+    {
+      "path": "[2].Seething Bracelet",
+      "sample": 12,
+      "type": "int"
+    },
+    {
+      "path": "[2].Icy Bracelet",
+      "sample": 12,
+      "type": "int"
+    },
+    {
+      "path": "[2].Ruby Brooch",
+      "sample": 12,
+      "type": "int"
+    },
+    {
+      "path": "[2].Sapphire Brooch",
+      "sample": 12,
+      "type": "int"
+    },
+    {
+      "path": "[2].Wizard Ring",
+      "sample": 24,
+      "type": "int"
+    },
+    {
+      "path": "[2].Crusader Ring",
+      "sample": 24,
+      "type": "int"
+    },
+    {
+      "path": "[2].White Pearl",
+      "sample": 24,
+      "type": "int"
+    },
+    {
+      "path": "[2].Black Pearl",
+      "sample": 24,
+      "type": "int"
+    },
+    {
+      "path": "[2].Sorcerer Ring",
+      "sample": 48,
+      "type": "int"
+    },
+    {
+      "path": "[2].Warrior Ring",
+      "sample": 48,
+      "type": "int"
+    },
+    {
+      "path": "[2].Flower Crown",
+      "sample": 48,
+      "type": "int"
+    },
+    {
+      "path": "[2].Wooden Ring",
+      "sample": 48,
+      "type": "int"
+    },
+    {
+      "path": "[2].Iron Ring",
+      "sample": 48,
+      "type": "int"
+    },
+    {
+      "path": "[2].Beast Fang",
+      "sample": 48,
+      "type": "int"
+    },
+    {
+      "key_count": 28,
+      "keys": [
+        "Abyss",
+        "Beast Fang",
+        "Black Pearl",
+        "Btad Amulet",
+        "Btad Gear",
+        "Btad Total",
+        "Crusader Ring",
+        "Crystal",
+        "Eye",
+        "Flower Crown",
+        "Glue Gear",
+        "Glue Total",
+        "Glue amulet",
+        "Heaven",
+        "Icy Bracelet",
+        "Iron Ring",
+        "Level",
+        "Reagent",
+        "Ruby Brooch",
+        "Sapphire Brooch",
+        "Seething Bracelet",
+        "Sorcerer Ring",
+        "Warrior Ring",
+        "White Pearl",
+        "WingA",
+        "WingH",
+        "Wizard Ring",
+        "Wooden Ring"
+      ],
+      "path": "[3]",
+      "type": "dict"
+    },
+    {
+      "path": "[3].Level",
+      "sample": 4,
+      "type": "int"
+    },
+    {
+      "path": "[3].Glue amulet",
+      "sample": 1050,
+      "type": "int"
+    },
+    {
+      "path": "[3].Glue Gear",
+      "sample": 3700,
+      "type": "int"
+    },
+    {
+      "path": "[3].Glue Total",
+      "sample": 4750,
+      "type": "int"
+    },
+    {
+      "path": "[3].Btad Amulet",
+      "sample": 1820000,
+      "type": "int"
+    },
+    {
+      "path": "[3].Btad Gear",
+      "sample": 1260000,
+      "type": "int"
+    },
+    {
+      "path": "[3].Btad Total",
+      "sample": 3080000,
+      "type": "int"
+    },
+    {
+      "path": "[3].Reagent",
+      "sample": 1000,
+      "type": "int"
+    },
+    {
+      "path": "[3].Crystal",
+      "sample": 4,
+      "type": "int"
+    },
+    {
+      "path": "[3].Eye",
+      "sample": 10,
+      "type": "int"
+    },
+    {
+      "path": "[3].WingA",
+      "sample": 10,
+      "type": "int"
+    },
+    {
+      "path": "[3].WingH",
+      "sample": 10,
+      "type": "int"
+    },
+    {
+      "path": "[3].Abyss",
+      "sample": 10,
+      "type": "int"
+    },
+    {
+      "path": "[3].Heaven",
+      "sample": 10,
+      "type": "int"
+    },
+    {
+      "path": "[3].Seething Bracelet",
+      "sample": 20,
+      "type": "int"
+    },
+    {
+      "path": "[3].Icy Bracelet",
+      "sample": 20,
+      "type": "int"
+    },
+    {
+      "path": "[3].Ruby Brooch",
+      "sample": 20,
+      "type": "int"
+    },
+    {
+      "path": "[3].Sapphire Brooch",
+      "sample": 20,
+      "type": "int"
+    },
+    {
+      "path": "[3].Wizard Ring",
+      "sample": 40,
+      "type": "int"
+    },
+    {
+      "path": "[3].Crusader Ring",
+      "sample": 40,
+      "type": "int"
+    },
+    {
+      "path": "[3].White Pearl",
+      "sample": 40,
+      "type": "int"
+    },
+    {
+      "path": "[3].Black Pearl",
+      "sample": 40,
+      "type": "int"
+    },
+    {
+      "path": "[3].Sorcerer Ring",
+      "sample": 80,
+      "type": "int"
+    },
+    {
+      "path": "[3].Warrior Ring",
+      "sample": 80,
+      "type": "int"
+    },
+    {
+      "path": "[3].Flower Crown",
+      "sample": 80,
+      "type": "int"
+    },
+    {
+      "path": "[3].Wooden Ring",
+      "sample": 80,
+      "type": "int"
+    },
+    {
+      "path": "[3].Iron Ring",
+      "sample": 80,
+      "type": "int"
+    },
+    {
+      "path": "[3].Beast Fang",
+      "sample": 80,
+      "type": "int"
+    },
+    {
+      "key_count": 28,
+      "keys": [
+        "Abyss",
+        "Beast Fang",
+        "Black Pearl",
+        "Btad Amulet",
+        "Btad Gear",
+        "Btad Total",
+        "Crusader Ring",
+        "Crystal",
+        "Eye",
+        "Flower Crown",
+        "Glue Gear",
+        "Glue Total",
+        "Glue amulet",
+        "Heaven",
+        "Icy Bracelet",
+        "Iron Ring",
+        "Level",
+        "Reagent",
+        "Ruby Brooch",
+        "Sapphire Brooch",
+        "Seething Bracelet",
+        "Sorcerer Ring",
+        "Warrior Ring",
+        "White Pearl",
+        "WingA",
+        "WingH",
+        "Wizard Ring",
+        "Wooden Ring"
+      ],
+      "path": "[4]",
+      "type": "dict"
+    },
+    {
+      "path": "[4].Level",
+      "sample": 5,
+      "type": "int"
+    },
+    {
+      "path": "[4].Glue amulet",
+      "sample": 1850,
+      "type": "int"
+    },
+    {
+      "path": "[4].Glue Gear",
+      "sample": 5500,
+      "type": "int"
+    },
+    {
+      "path": "[4].Glue Total",
+      "sample": 7350,
+      "type": "int"
+    },
+    {
+      "path": "[4].Btad Amulet",
+      "sample": 3200000,
+      "type": "int"
+    },
+    {
+      "path": "[4].Btad Gear",
+      "sample": 1900000,
+      "type": "int"
+    },
+    {
+      "path": "[4].Btad Total",
+      "sample": 5100000,
+      "type": "int"
+    },
+    {
+      "path": "[4].Reagent",
+      "sample": 2000,
+      "type": "int"
+    },
+    {
+      "path": "[4].Crystal",
+      "sample": 5,
+      "type": "int"
+    },
+    {
+      "path": "[4].Eye",
+      "sample": 15,
+      "type": "int"
+    },
+    {
+      "path": "[4].WingA",
+      "sample": 15,
+      "type": "int"
+    },
+    {
+      "path": "[4].WingH",
+      "sample": 15,
+      "type": "int"
+    },
+    {
+      "path": "[4].Abyss",
+      "sample": 15,
+      "type": "int"
+    },
+    {
+      "path": "[4].Heaven",
+      "sample": 15,
+      "type": "int"
+    },
+    {
+      "path": "[4].Seething Bracelet",
+      "sample": 30,
+      "type": "int"
+    },
+    {
+      "path": "[4].Icy Bracelet",
+      "sample": 30,
+      "type": "int"
+    },
+    {
+      "path": "[4].Ruby Brooch",
+      "sample": 30,
+      "type": "int"
+    },
+    {
+      "path": "[4].Sapphire Brooch",
+      "sample": 30,
+      "type": "int"
+    },
+    {
+      "path": "[4].Wizard Ring",
+      "sample": 60,
+      "type": "int"
+    },
+    {
+      "path": "[4].Crusader Ring",
+      "sample": 60,
+      "type": "int"
+    },
+    {
+      "path": "[4].White Pearl",
+      "sample": 60,
+      "type": "int"
+    },
+    {
+      "path": "[4].Black Pearl",
+      "sample": 60,
+      "type": "int"
+    },
+    {
+      "path": "[4].Sorcerer Ring",
+      "sample": 120,
+      "type": "int"
+    },
+    {
+      "path": "[4].Warrior Ring",
+      "sample": 120,
+      "type": "int"
+    },
+    {
+      "path": "[4].Flower Crown",
+      "sample": 120,
+      "type": "int"
+    },
+    {
+      "path": "[4].Wooden Ring",
+      "sample": 120,
+      "type": "int"
+    },
+    {
+      "path": "[4].Iron Ring",
+      "sample": 120,
+      "type": "int"
+    },
+    {
+      "path": "[4].Beast Fang",
+      "sample": 120,
+      "type": "int"
+    }
+  ],
+  "formula_fixes_shape": [
+    {
+      "key_count": 5,
+      "keys": [
+        "canonical_promotion",
+        "fixes",
+        "notes",
+        "source_workbook",
+        "status"
+      ],
+      "path": "$",
+      "type": "dict"
+    },
+    {
+      "path": "source_workbook",
+      "sample": "Copy of Gear Calculator.xlsx",
+      "type": "str"
+    },
+    {
+      "path": "status",
+      "sample": "manual_formula_fixes_reviewed",
+      "type": "str"
+    },
+    {
+      "path": "canonical_promotion",
+      "sample": false,
+      "type": "bool"
+    },
+    {
+      "length": 3,
+      "path": "notes",
+      "type": "list"
+    },
+    {
+      "path": "notes[0]",
+      "sample": "These fixes correct the source spreadsheet logic before any canonical promotion.",
+      "type": "str"
+    },
+    {
+      "path": "notes[1]",
+      "sample": "Original extracted formula_map.csv is preserved as formula_map_original_unpatched.csv.",
+      "type": "str"
+    },
+    {
+      "path": "notes[2]",
+      "sample": "Patched workbook creation is optional and depends on whether the original workbook exists in game/sources/spreadsheets.",
+      "type": "str"
+    },
+    {
+      "length": 8,
+      "path": "fixes",
+      "type": "list"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "cell",
+        "formula",
+        "id",
+        "reason",
+        "sheet"
+      ],
+      "path": "fixes[0]",
+      "type": "dict"
+    },
+    {
+      "path": "fixes[0].id",
+      "sample": "gear_armor_level_formula_d142",
+      "type": "str"
+    },
+    {
+      "path": "fixes[0].sheet",
+      "sample": "Gear",
+      "type": "str"
+    },
+    {
+      "path": "fixes[0].cell",
+      "sample": "D142",
+      "type": "str"
+    },
+    {
+      "path": "fixes[0].formula",
+      "sample": "=if(Gear!H142<2,0,Gear!H142-1)",
+      "type": "str"
+    },
+    {
+      "path": "fixes[0].reason",
+      "sample": "D142 was reading the wrong row. It must read its own level cell H142.",
+      "type": "str"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "cell",
+        "formula",
+        "id",
+        "reason",
+        "sheet"
+      ],
+      "path": "fixes[1]",
+      "type": "dict"
+    },
+    {
+      "path": "fixes[1].id",
+      "sample": "gear_armor_level_formula_d149",
+      "type": "str"
+    },
+    {
+      "path": "fixes[1].sheet",
+      "sample": "Gear",
+      "type": "str"
+    },
+    {
+      "path": "fixes[1].cell",
+      "sample": "D149",
+      "type": "str"
+    },
+    {
+      "path": "fixes[1].formula",
+      "sample": "=if(Gear!H149<2,0,Gear!H149-1)",
+      "type": "str"
+    },
+    {
+      "path": "fixes[1].reason",
+      "sample": "D149 was reading the wrong row. It must read its own level cell H149.",
+      "type": "str"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "cell",
+        "formula",
+        "id",
+        "reason",
+        "sheet"
+      ],
+      "path": "fixes[2]",
+      "type": "dict"
+    },
+    {
+      "path": "fixes[2].id",
+      "sample": "combat_first_turn_attack_damage_c21",
+      "type": "str"
+    },
+    {
+      "path": "fixes[2].sheet",
+      "sample": "Combat",
+      "type": "str"
+    },
+    {
+      "path": "fixes[2].cell",
+      "sample": "C21",
+      "type": "str"
+    },
+    {
+      "path": "fixes[2].formula",
+      "sample": "=(1+B10+I9)*(CombatMath!H8)",
+      "type": "str"
+    },
+    {
+      "path": "fixes[2].reason",
+      "sample": "Round 1 damage buff in I9 was calculated but not included in first-turn attack damage.",
+      "type": "str"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "cell",
+        "formula",
+        "id",
+        "reason",
+        "sheet"
+      ],
+      "path": "fixes[3]",
+      "type": "dict"
+    },
+    {
+      "path": "fixes[3].id",
+      "sample": "combat_first_turn_attack_total_e21",
+      "type": "str"
+    },
+    {
+      "path": "fixes[3].sheet",
+      "sample": "Combat",
+      "type": "str"
+    },
+    {
+      "path": "fixes[3].cell",
+      "sample": "E21",
+      "type": "str"
+    },
+    {
+      "path": "fixes[3].formula",
+      "sample": "=(1+B10+I9)*CombatMath!B21",
+      "type": "str"
+    },
+    {
+      "path": "fixes[3].reason",
+      "sample": "Round 1 damage buff in I9 was calculated but not included in first-turn attack total.",
+      "type": "str"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "cell",
+        "formula",
+        "id",
+        "reason",
+        "sheet"
+      ],
+      "path": "fixes[4]",
+      "type": "dict"
+    },
+    {
+      "path": "fixes[4].id",
+      "sample": "combat_first_turn_rush_damage_c22",
+      "type": "str"
+    },
+    {
+      "path": "fixes[4].sheet",
+      "sample": "Combat",
+      "type": "str"
+    },
+    {
+      "path": "fixes[4].cell",
+      "sample": "C22",
+      "type": "str"
+    },
+    {
+      "path": "fixes[4].formula",
+      "sample": "=if(E16=TRUE,(1+B10+I9)*CombatMath!H9,0)",
+      "type": "str"
+    },
+    {
+      "path": "fixes[4].reason",
+      "sample": "Round 1 damage buff in I9 was calculated but not included in first-turn rush damage.",
+      "type": "str"
+    }
+  ],
+  "formula_row_count": 793,
+  "gear_items_shape": [
+    {
+      "length": 29,
+      "path": "$",
+      "type": "list"
+    },
+    {
+      "key_count": 12,
+      "keys": [
+        "effective_level_formula",
+        "effective_level_index",
+        "effects",
+        "equipped",
+        "equipped_cell",
+        "header_row",
+        "level",
+        "level_cell",
+        "name",
+        "raw_rows",
+        "section",
+        "stats"
+      ],
+      "path": "[0]",
+      "type": "dict"
+    },
+    {
+      "path": "[0].name",
+      "sample": "Time Wanderer",
+      "type": "str"
+    },
+    {
+      "path": "[0].section",
+      "sample": "Realm",
+      "type": "str"
+    },
+    {
+      "path": "[0].header_row",
+      "sample": 11,
+      "type": "int"
+    },
+    {
+      "path": "[0].equipped_cell",
+      "sample": "Gear!F11",
+      "type": "str"
+    },
+    {
+      "path": "[0].equipped",
+      "sample": false,
+      "type": "bool"
+    },
+    {
+      "path": "[0].level_cell",
+      "sample": "Gear!H11",
+      "type": "str"
+    },
+    {
+      "path": "[0].level",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "[0].effective_level_index",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].effective_level_formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 4,
+      "keys": [
+        "atk",
+        "def",
+        "hp",
+        "rush"
+      ],
+      "path": "[0].stats",
+      "type": "dict"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "base",
+        "computed",
+        "formula",
+        "per_effective_level",
+        "source_row"
+      ],
+      "path": "[0].stats.hp",
+      "type": "dict"
+    },
+    {
+      "path": "[0].stats.hp.computed",
+      "sample": 1000,
+      "type": "int"
+    },
+    {
+      "path": "[0].stats.hp.formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].stats.hp.base",
+      "sample": 1000,
+      "type": "int"
+    },
+    {
+      "path": "[0].stats.hp.per_effective_level",
+      "sample": "EXP ONLY",
+      "type": "str"
+    },
+    {
+      "path": "[0].stats.hp.source_row",
+      "sample": 12,
+      "type": "int"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "base",
+        "computed",
+        "formula",
+        "per_effective_level",
+        "source_row"
+      ],
+      "path": "[0].stats.atk",
+      "type": "dict"
+    },
+    {
+      "path": "[0].stats.atk.computed",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].stats.atk.formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].stats.atk.base",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].stats.atk.per_effective_level",
+      "sample": "HP",
+      "type": "str"
+    },
+    {
+      "path": "[0].stats.atk.source_row",
+      "sample": 13,
+      "type": "int"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "base",
+        "computed",
+        "formula",
+        "per_effective_level",
+        "source_row"
+      ],
+      "path": "[0].stats.def",
+      "type": "dict"
+    },
+    {
+      "path": "[0].stats.def.computed",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].stats.def.formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].stats.def.base",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].stats.def.per_effective_level",
+      "sample": "ATK",
+      "type": "str"
+    },
+    {
+      "path": "[0].stats.def.source_row",
+      "sample": 14,
+      "type": "int"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "base",
+        "computed",
+        "formula",
+        "per_effective_level",
+        "source_row"
+      ],
+      "path": "[0].stats.rush",
+      "type": "dict"
+    },
+    {
+      "path": "[0].stats.rush.computed",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].stats.rush.formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].stats.rush.base",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].stats.rush.per_effective_level",
+      "sample": "DEF",
+      "type": "str"
+    },
+    {
+      "path": "[0].stats.rush.source_row",
+      "sample": 15,
+      "type": "int"
+    },
+    {
+      "length": 0,
+      "path": "[0].effects",
+      "type": "list"
+    },
+    {
+      "length": 4,
+      "path": "[0].raw_rows",
+      "type": "list"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "gear_formulas",
+        "gear_values",
+        "gearmath_formulas",
+        "gearmath_values",
+        "row"
+      ],
+      "path": "[0].raw_rows[0]",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[0].row",
+      "sample": 12,
+      "type": "int"
+    },
+    {
+      "key_count": 11,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "path": "[0].raw_rows[0].gear_values",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[0].gear_values.A",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[0].gear_values.B",
+      "sample": "HP",
+      "type": "str"
+    },
+    {
+      "path": "[0].raw_rows[0].gear_values.C",
+      "sample": 1000,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[0].gear_values.D",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[0].gear_values.E",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[0].gear_values.F",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[0].gear_values.G",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[0].gear_values.H",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[0].gear_values.I",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[0].gear_values.J",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[0].gear_values.K",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 0,
+      "keys": [],
+      "path": "[0].raw_rows[0].gear_formulas",
+      "type": "dict"
+    },
+    {
+      "key_count": 8,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "path": "[0].raw_rows[0].gearmath_values",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[0].gearmath_values.A",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[0].gearmath_values.B",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[0].gearmath_values.C",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[0].gearmath_values.D",
+      "sample": 1000,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[0].gearmath_values.E",
+      "sample": "EXP ONLY",
+      "type": "str"
+    },
+    {
+      "path": "[0].raw_rows[0].gearmath_values.F",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[0].gearmath_values.G",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[0].gearmath_values.H",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 1,
+      "keys": [
+        "A"
+      ],
+      "path": "[0].raw_rows[0].gearmath_formulas",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[0].gearmath_formulas.A",
+      "sample": "if(Gear!F$11=True,D12,0)",
+      "type": "str"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "gear_formulas",
+        "gear_values",
+        "gearmath_formulas",
+        "gearmath_values",
+        "row"
+      ],
+      "path": "[0].raw_rows[1]",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[1].row",
+      "sample": 13,
+      "type": "int"
+    },
+    {
+      "key_count": 11,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "path": "[0].raw_rows[1].gear_values",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[1].gear_values.A",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[1].gear_values.B",
+      "sample": "ATK",
+      "type": "str"
+    },
+    {
+      "path": "[0].raw_rows[1].gear_values.C",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[1].gear_values.D",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[1].gear_values.E",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[1].gear_values.F",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[1].gear_values.G",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[1].gear_values.H",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[1].gear_values.I",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[1].gear_values.J",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[1].gear_values.K",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 0,
+      "keys": [],
+      "path": "[0].raw_rows[1].gear_formulas",
+      "type": "dict"
+    },
+    {
+      "key_count": 8,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "path": "[0].raw_rows[1].gearmath_values",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[1].gearmath_values.A",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[1].gearmath_values.B",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[1].gearmath_values.C",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[1].gearmath_values.D",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[1].gearmath_values.E",
+      "sample": "HP",
+      "type": "str"
+    },
+    {
+      "path": "[0].raw_rows[1].gearmath_values.F",
+      "sample": 2000,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[1].gearmath_values.G",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[1].gearmath_values.H",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 1,
+      "keys": [
+        "A"
+      ],
+      "path": "[0].raw_rows[1].gearmath_formulas",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[1].gearmath_formulas.A",
+      "sample": "if(Gear!F$11=True,D13,0)",
+      "type": "str"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "gear_formulas",
+        "gear_values",
+        "gearmath_formulas",
+        "gearmath_values",
+        "row"
+      ],
+      "path": "[0].raw_rows[2]",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[2].row",
+      "sample": 14,
+      "type": "int"
+    },
+    {
+      "key_count": 11,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "path": "[0].raw_rows[2].gear_values",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[2].gear_values.A",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[2].gear_values.B",
+      "sample": "DEF",
+      "type": "str"
+    },
+    {
+      "path": "[0].raw_rows[2].gear_values.C",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[2].gear_values.D",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[2].gear_values.E",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[2].gear_values.F",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[2].gear_values.G",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[2].gear_values.H",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[2].gear_values.I",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[2].gear_values.J",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[2].gear_values.K",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 0,
+      "keys": [],
+      "path": "[0].raw_rows[2].gear_formulas",
+      "type": "dict"
+    },
+    {
+      "key_count": 8,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "path": "[0].raw_rows[2].gearmath_values",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[2].gearmath_values.A",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[2].gearmath_values.B",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[2].gearmath_values.C",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[2].gearmath_values.D",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[2].gearmath_values.E",
+      "sample": "ATK",
+      "type": "str"
+    },
+    {
+      "path": "[0].raw_rows[2].gearmath_values.F",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[2].gearmath_values.G",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[2].gearmath_values.H",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 1,
+      "keys": [
+        "A"
+      ],
+      "path": "[0].raw_rows[2].gearmath_formulas",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[2].gearmath_formulas.A",
+      "sample": "if(Gear!F$11=True,D14,0)",
+      "type": "str"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "gear_formulas",
+        "gear_values",
+        "gearmath_formulas",
+        "gearmath_values",
+        "row"
+      ],
+      "path": "[0].raw_rows[3]",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[3].row",
+      "sample": 15,
+      "type": "int"
+    },
+    {
+      "key_count": 11,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "path": "[0].raw_rows[3].gear_values",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[3].gear_values.A",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[3].gear_values.B",
+      "sample": "RUSH",
+      "type": "str"
+    },
+    {
+      "path": "[0].raw_rows[3].gear_values.C",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[3].gear_values.D",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[3].gear_values.E",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[3].gear_values.F",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[3].gear_values.G",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[3].gear_values.H",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[3].gear_values.I",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[3].gear_values.J",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[3].gear_values.K",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 0,
+      "keys": [],
+      "path": "[0].raw_rows[3].gear_formulas",
+      "type": "dict"
+    },
+    {
+      "key_count": 8,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "path": "[0].raw_rows[3].gearmath_values",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[3].gearmath_values.A",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[3].gearmath_values.B",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[3].gearmath_values.C",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[3].gearmath_values.D",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[3].gearmath_values.E",
+      "sample": "DEF",
+      "type": "str"
+    },
+    {
+      "path": "[0].raw_rows[3].gearmath_values.F",
+      "sample": 200,
+      "type": "int"
+    },
+    {
+      "path": "[0].raw_rows[3].gearmath_values.G",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[0].raw_rows[3].gearmath_values.H",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 1,
+      "keys": [
+        "A"
+      ],
+      "path": "[0].raw_rows[3].gearmath_formulas",
+      "type": "dict"
+    },
+    {
+      "path": "[0].raw_rows[3].gearmath_formulas.A",
+      "sample": "if(Gear!F$11=True,D15,0)",
+      "type": "str"
+    },
+    {
+      "key_count": 12,
+      "keys": [
+        "effective_level_formula",
+        "effective_level_index",
+        "effects",
+        "equipped",
+        "equipped_cell",
+        "header_row",
+        "level",
+        "level_cell",
+        "name",
+        "raw_rows",
+        "section",
+        "stats"
+      ],
+      "path": "[1]",
+      "type": "dict"
+    },
+    {
+      "path": "[1].name",
+      "sample": "The Great Scientist",
+      "type": "str"
+    },
+    {
+      "path": "[1].section",
+      "sample": "Realm",
+      "type": "str"
+    },
+    {
+      "path": "[1].header_row",
+      "sample": 20,
+      "type": "int"
+    },
+    {
+      "path": "[1].equipped_cell",
+      "sample": "Gear!F20",
+      "type": "str"
+    },
+    {
+      "path": "[1].equipped",
+      "sample": false,
+      "type": "bool"
+    },
+    {
+      "path": "[1].level_cell",
+      "sample": "Gear!H20",
+      "type": "str"
+    },
+    {
+      "path": "[1].level",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "[1].effective_level_index",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "[1].effective_level_formula",
+      "sample": "if(Gear!H20<2,0,Gear!H20-1)",
+      "type": "str"
+    },
+    {
+      "key_count": 4,
+      "keys": [
+        "atk",
+        "def",
+        "hp",
+        "rush"
+      ],
+      "path": "[1].stats",
+      "type": "dict"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "base",
+        "computed",
+        "formula",
+        "per_effective_level",
+        "source_row"
+      ],
+      "path": "[1].stats.hp",
+      "type": "dict"
+    },
+    {
+      "path": "[1].stats.hp.computed",
+      "sample": 3000,
+      "type": "int"
+    },
+    {
+      "path": "[1].stats.hp.formula",
+      "sample": "GearMath!D21+(GearMath!E21*GearMath!$D$20)",
+      "type": "str"
+    },
+    {
+      "path": "[1].stats.hp.base",
+      "sample": 3000,
+      "type": "int"
+    },
+    {
+      "path": "[1].stats.hp.per_effective_level",
+      "sample": 600,
+      "type": "int"
+    },
+    {
+      "path": "[1].stats.hp.source_row",
+      "sample": 21,
+      "type": "int"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "base",
+        "computed",
+        "formula",
+        "per_effective_level",
+        "source_row"
+      ],
+      "path": "[1].stats.atk",
+      "type": "dict"
+    },
+    {
+      "path": "[1].stats.atk.computed",
+      "sample": 100,
+      "type": "int"
+    },
+    {
+      "path": "[1].stats.atk.formula",
+      "sample": "GearMath!D22+(GearMath!E22*GearMath!$D$20)",
+      "type": "str"
+    },
+    {
+      "path": "[1].stats.atk.base",
+      "sample": 100,
+      "type": "int"
+    },
+    {
+      "path": "[1].stats.atk.per_effective_level",
+      "sample": 20,
+      "type": "int"
+    },
+    {
+      "path": "[1].stats.atk.source_row",
+      "sample": 22,
+      "type": "int"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "base",
+        "computed",
+        "formula",
+        "per_effective_level",
+        "source_row"
+      ],
+      "path": "[1].stats.def",
+      "type": "dict"
+    },
+    {
+      "path": "[1].stats.def.computed",
+      "sample": 100,
+      "type": "int"
+    },
+    {
+      "path": "[1].stats.def.formula",
+      "sample": "GearMath!D23+(GearMath!E23*GearMath!$D$20)",
+      "type": "str"
+    },
+    {
+      "path": "[1].stats.def.base",
+      "sample": 100,
+      "type": "int"
+    },
+    {
+      "path": "[1].stats.def.per_effective_level",
+      "sample": 20,
+      "type": "int"
+    },
+    {
+      "path": "[1].stats.def.source_row",
+      "sample": 23,
+      "type": "int"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "base",
+        "computed",
+        "formula",
+        "per_effective_level",
+        "source_row"
+      ],
+      "path": "[1].stats.rush",
+      "type": "dict"
+    },
+    {
+      "path": "[1].stats.rush.computed",
+      "sample": 300,
+      "type": "int"
+    },
+    {
+      "path": "[1].stats.rush.formula",
+      "sample": "GearMath!D24+(GearMath!E24*GearMath!$D$20)",
+      "type": "str"
+    },
+    {
+      "path": "[1].stats.rush.base",
+      "sample": 300,
+      "type": "int"
+    },
+    {
+      "path": "[1].stats.rush.per_effective_level",
+      "sample": 60,
+      "type": "int"
+    },
+    {
+      "path": "[1].stats.rush.source_row",
+      "sample": 24,
+      "type": "int"
+    },
+    {
+      "length": 4,
+      "path": "[1].effects",
+      "type": "list"
+    },
+    {
+      "key_count": 7,
+      "keys": [
+        "base",
+        "computed",
+        "formula",
+        "name",
+        "per_effective_level",
+        "source",
+        "source_row"
+      ],
+      "path": "[1].effects[0]",
+      "type": "dict"
+    },
+    {
+      "path": "[1].effects[0].name",
+      "sample": "Time Chest",
+      "type": "str"
+    },
+    {
+      "path": "[1].effects[0].base",
+      "sample": 0.12,
+      "type": "float"
+    },
+    {
+      "path": "[1].effects[0].per_effective_level",
+      "sample": 0.02,
+      "type": "float"
+    },
+    {
+      "path": "[1].effects[0].computed",
+      "sample": 0.12,
+      "type": "float"
+    },
+    {
+      "path": "[1].effects[0].formula",
+      "sample": "GearMath!G21+(GearMath!D20*GearMath!H21)",
+      "type": "str"
+    },
+    {
+      "path": "[1].effects[0].source",
+      "sample": "GearMath F/G/H",
+      "type": "str"
+    },
+    {
+      "path": "[1].effects[0].source_row",
+      "sample": 21,
+      "type": "int"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "computed",
+        "formula",
+        "name",
+        "source",
+        "source_row"
+      ],
+      "path": "[1].effects[1]",
+      "type": "dict"
+    },
+    {
+      "path": "[1].effects[1].name",
+      "sample": "Time Chest",
+      "type": "str"
+    },
+    {
+      "path": "[1].effects[1].computed",
+      "sample": 0.12,
+      "type": "float"
+    },
+    {
+      "path": "[1].effects[1].formula",
+      "sample": "GearMath!G21+(GearMath!D20*GearMath!H21)",
+      "type": "str"
+    },
+    {
+      "path": "[1].effects[1].source",
+      "sample": "Gear D/E",
+      "type": "str"
+    },
+    {
+      "path": "[1].effects[1].source_row",
+      "sample": 21,
+      "type": "int"
+    },
+    {
+      "key_count": 7,
+      "keys": [
+        "base",
+        "computed",
+        "formula",
+        "name",
+        "per_effective_level",
+        "source",
+        "source_row"
+      ],
+      "path": "[1].effects[2]",
+      "type": "dict"
+    },
+    {
+      "path": "[1].effects[2].name",
+      "sample": "Cells",
+      "type": "str"
+    },
+    {
+      "path": "[1].effects[2].base",
+      "sample": 0.12,
+      "type": "float"
+    },
+    {
+      "path": "[1].effects[2].per_effective_level",
+      "sample": 0.02,
+      "type": "float"
+    },
+    {
+      "path": "[1].effects[2].computed",
+      "sample": 0.12,
+      "type": "float"
+    },
+    {
+      "path": "[1].effects[2].formula",
+      "sample": "GearMath!G22+(GearMath!D20*GearMath!H22)",
+      "type": "str"
+    },
+    {
+      "path": "[1].effects[2].source",
+      "sample": "GearMath F/G/H",
+      "type": "str"
+    },
+    {
+      "path": "[1].effects[2].source_row",
+      "sample": 22,
+      "type": "int"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "computed",
+        "formula",
+        "name",
+        "source",
+        "source_row"
+      ],
+      "path": "[1].effects[3]",
+      "type": "dict"
+    },
+    {
+      "path": "[1].effects[3].name",
+      "sample": "Cells",
+      "type": "str"
+    },
+    {
+      "path": "[1].effects[3].computed",
+      "sample": 0.12,
+      "type": "float"
+    },
+    {
+      "path": "[1].effects[3].formula",
+      "sample": "GearMath!G22+(GearMath!D20*GearMath!H22)",
+      "type": "str"
+    },
+    {
+      "path": "[1].effects[3].source",
+      "sample": "Gear D/E",
+      "type": "str"
+    },
+    {
+      "path": "[1].effects[3].source_row",
+      "sample": 22,
+      "type": "int"
+    },
+    {
+      "length": 4,
+      "path": "[1].raw_rows",
+      "type": "list"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "gear_formulas",
+        "gear_values",
+        "gearmath_formulas",
+        "gearmath_values",
+        "row"
+      ],
+      "path": "[1].raw_rows[0]",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[0].row",
+      "sample": 21,
+      "type": "int"
+    },
+    {
+      "key_count": 11,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "path": "[1].raw_rows[0].gear_values",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[0].gear_values.A",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[0].gear_values.B",
+      "sample": "HP",
+      "type": "str"
+    },
+    {
+      "path": "[1].raw_rows[0].gear_values.C",
+      "sample": 3000,
+      "type": "int"
+    },
+    {
+      "path": "[1].raw_rows[0].gear_values.D",
+      "sample": "Time Chest",
+      "type": "str"
+    },
+    {
+      "path": "[1].raw_rows[0].gear_values.E",
+      "sample": 0.12,
+      "type": "float"
+    },
+    {
+      "path": "[1].raw_rows[0].gear_values.F",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[0].gear_values.G",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[0].gear_values.H",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[0].gear_values.I",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[0].gear_values.J",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[0].gear_values.K",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 2,
+      "keys": [
+        "C",
+        "E"
+      ],
+      "path": "[1].raw_rows[0].gear_formulas",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[0].gear_formulas.C",
+      "sample": "GearMath!D21+(GearMath!E21*GearMath!$D$20)",
+      "type": "str"
+    },
+    {
+      "path": "[1].raw_rows[0].gear_formulas.E",
+      "sample": "GearMath!G21+(GearMath!D20*GearMath!H21)",
+      "type": "str"
+    },
+    {
+      "key_count": 8,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "path": "[1].raw_rows[0].gearmath_values",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[0].gearmath_values.A",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "[1].raw_rows[0].gearmath_values.B",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[0].gearmath_values.C",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[0].gearmath_values.D",
+      "sample": 3000,
+      "type": "int"
+    },
+    {
+      "path": "[1].raw_rows[0].gearmath_values.E",
+      "sample": 600,
+      "type": "int"
+    },
+    {
+      "path": "[1].raw_rows[0].gearmath_values.F",
+      "sample": "Time Chest",
+      "type": "str"
+    },
+    {
+      "path": "[1].raw_rows[0].gearmath_values.G",
+      "sample": 0.12,
+      "type": "float"
+    },
+    {
+      "path": "[1].raw_rows[0].gearmath_values.H",
+      "sample": 0.02,
+      "type": "float"
+    },
+    {
+      "key_count": 1,
+      "keys": [
+        "A"
+      ],
+      "path": "[1].raw_rows[0].gearmath_formulas",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[0].gearmath_formulas.A",
+      "sample": "if(Gear!F$20=True,Gear!C21,0)",
+      "type": "str"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "gear_formulas",
+        "gear_values",
+        "gearmath_formulas",
+        "gearmath_values",
+        "row"
+      ],
+      "path": "[1].raw_rows[1]",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[1].row",
+      "sample": 22,
+      "type": "int"
+    },
+    {
+      "key_count": 11,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "path": "[1].raw_rows[1].gear_values",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[1].gear_values.A",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[1].gear_values.B",
+      "sample": "ATK",
+      "type": "str"
+    },
+    {
+      "path": "[1].raw_rows[1].gear_values.C",
+      "sample": 100,
+      "type": "int"
+    },
+    {
+      "path": "[1].raw_rows[1].gear_values.D",
+      "sample": "Cells",
+      "type": "str"
+    },
+    {
+      "path": "[1].raw_rows[1].gear_values.E",
+      "sample": 0.12,
+      "type": "float"
+    },
+    {
+      "path": "[1].raw_rows[1].gear_values.F",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[1].gear_values.G",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[1].gear_values.H",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[1].gear_values.I",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[1].gear_values.J",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[1].gear_values.K",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 2,
+      "keys": [
+        "C",
+        "E"
+      ],
+      "path": "[1].raw_rows[1].gear_formulas",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[1].gear_formulas.C",
+      "sample": "GearMath!D22+(GearMath!E22*GearMath!$D$20)",
+      "type": "str"
+    },
+    {
+      "path": "[1].raw_rows[1].gear_formulas.E",
+      "sample": "GearMath!G22+(GearMath!D20*GearMath!H22)",
+      "type": "str"
+    },
+    {
+      "key_count": 8,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "path": "[1].raw_rows[1].gearmath_values",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[1].gearmath_values.A",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "[1].raw_rows[1].gearmath_values.B",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[1].gearmath_values.C",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[1].gearmath_values.D",
+      "sample": 100,
+      "type": "int"
+    },
+    {
+      "path": "[1].raw_rows[1].gearmath_values.E",
+      "sample": 20,
+      "type": "int"
+    },
+    {
+      "path": "[1].raw_rows[1].gearmath_values.F",
+      "sample": "Cells",
+      "type": "str"
+    },
+    {
+      "path": "[1].raw_rows[1].gearmath_values.G",
+      "sample": 0.12,
+      "type": "float"
+    },
+    {
+      "path": "[1].raw_rows[1].gearmath_values.H",
+      "sample": 0.02,
+      "type": "float"
+    },
+    {
+      "key_count": 1,
+      "keys": [
+        "A"
+      ],
+      "path": "[1].raw_rows[1].gearmath_formulas",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[1].gearmath_formulas.A",
+      "sample": "if(Gear!F$20=True,Gear!C22,0)",
+      "type": "str"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "gear_formulas",
+        "gear_values",
+        "gearmath_formulas",
+        "gearmath_values",
+        "row"
+      ],
+      "path": "[1].raw_rows[2]",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[2].row",
+      "sample": 23,
+      "type": "int"
+    },
+    {
+      "key_count": 11,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "path": "[1].raw_rows[2].gear_values",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[2].gear_values.A",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[2].gear_values.B",
+      "sample": "DEF",
+      "type": "str"
+    },
+    {
+      "path": "[1].raw_rows[2].gear_values.C",
+      "sample": 100,
+      "type": "int"
+    },
+    {
+      "path": "[1].raw_rows[2].gear_values.D",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[2].gear_values.E",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[2].gear_values.F",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[2].gear_values.G",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[2].gear_values.H",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[2].gear_values.I",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[2].gear_values.J",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[2].gear_values.K",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 1,
+      "keys": [
+        "C"
+      ],
+      "path": "[1].raw_rows[2].gear_formulas",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[2].gear_formulas.C",
+      "sample": "GearMath!D23+(GearMath!E23*GearMath!$D$20)",
+      "type": "str"
+    },
+    {
+      "key_count": 8,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "path": "[1].raw_rows[2].gearmath_values",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[2].gearmath_values.A",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "[1].raw_rows[2].gearmath_values.B",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[2].gearmath_values.C",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[2].gearmath_values.D",
+      "sample": 100,
+      "type": "int"
+    },
+    {
+      "path": "[1].raw_rows[2].gearmath_values.E",
+      "sample": 20,
+      "type": "int"
+    },
+    {
+      "path": "[1].raw_rows[2].gearmath_values.F",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[2].gearmath_values.G",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[2].gearmath_values.H",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 1,
+      "keys": [
+        "A"
+      ],
+      "path": "[1].raw_rows[2].gearmath_formulas",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[2].gearmath_formulas.A",
+      "sample": "if(Gear!F$20=True,Gear!C23,0)",
+      "type": "str"
+    },
+    {
+      "key_count": 5,
+      "keys": [
+        "gear_formulas",
+        "gear_values",
+        "gearmath_formulas",
+        "gearmath_values",
+        "row"
+      ],
+      "path": "[1].raw_rows[3]",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[3].row",
+      "sample": 24,
+      "type": "int"
+    },
+    {
+      "key_count": 11,
+      "keys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "path": "[1].raw_rows[3].gear_values",
+      "type": "dict"
+    },
+    {
+      "path": "[1].raw_rows[3].gear_values.A",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[3].gear_values.B",
+      "sample": "RUSH",
+      "type": "str"
+    },
+    {
+      "path": "[1].raw_rows[3].gear_values.C",
+      "sample": 300,
+      "type": "int"
+    },
+    {
+      "path": "[1].raw_rows[3].gear_values.D",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[3].gear_values.E",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[3].gear_values.F",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "path": "[1].raw_rows[3].gear_values.G",
+      "sample": null,
+      "type": "NoneType"
+    }
+  ],
+  "generated_at": "2026-05-06T15:38:24.374262+00:00",
+  "notes": [
+    "Candidate normalization is conservative.",
+    "Raw records are preserved on each gear candidate.",
+    "Canonical promotion is intentionally blocked until manual review."
+  ],
+  "raw_gear_record_count": 29,
+  "workbook_cells_shape": [
+    {
+      "key_count": 7,
+      "keys": [
+        "Combat",
+        "CombatMath",
+        "Copy of Combat",
+        "Cost",
+        "CostMath",
+        "Gear",
+        "GearMath"
+      ],
+      "path": "$",
+      "type": "dict"
+    },
+    {
+      "length": 597,
+      "path": "Gear",
+      "type": "list"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Gear[0]",
+      "type": "dict"
+    },
+    {
+      "path": "Gear[0].cell",
+      "sample": "B1",
+      "type": "str"
+    },
+    {
+      "path": "Gear[0].value",
+      "sample": "Snail Stats",
+      "type": "str"
+    },
+    {
+      "path": "Gear[0].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Gear[1]",
+      "type": "dict"
+    },
+    {
+      "path": "Gear[1].cell",
+      "sample": "B2",
+      "type": "str"
+    },
+    {
+      "path": "Gear[1].value",
+      "sample": "HP",
+      "type": "str"
+    },
+    {
+      "path": "Gear[1].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Gear[2]",
+      "type": "dict"
+    },
+    {
+      "path": "Gear[2].cell",
+      "sample": "C2",
+      "type": "str"
+    },
+    {
+      "path": "Gear[2].value",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "Gear[2].formula",
+      "sample": "GearMath!C2",
+      "type": "str"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Gear[3]",
+      "type": "dict"
+    },
+    {
+      "path": "Gear[3].cell",
+      "sample": "B3",
+      "type": "str"
+    },
+    {
+      "path": "Gear[3].value",
+      "sample": "ATK",
+      "type": "str"
+    },
+    {
+      "path": "Gear[3].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Gear[4]",
+      "type": "dict"
+    },
+    {
+      "path": "Gear[4].cell",
+      "sample": "C3",
+      "type": "str"
+    },
+    {
+      "path": "Gear[4].value",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "Gear[4].formula",
+      "sample": "GearMath!C3",
+      "type": "str"
+    },
+    {
+      "length": 520,
+      "path": "GearMath",
+      "type": "list"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "GearMath[0]",
+      "type": "dict"
+    },
+    {
+      "path": "GearMath[0].cell",
+      "sample": "B1",
+      "type": "str"
+    },
+    {
+      "path": "GearMath[0].value",
+      "sample": "Snail Stats",
+      "type": "str"
+    },
+    {
+      "path": "GearMath[0].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "GearMath[1]",
+      "type": "dict"
+    },
+    {
+      "path": "GearMath[1].cell",
+      "sample": "B2",
+      "type": "str"
+    },
+    {
+      "path": "GearMath[1].value",
+      "sample": "HP",
+      "type": "str"
+    },
+    {
+      "path": "GearMath[1].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "GearMath[2]",
+      "type": "dict"
+    },
+    {
+      "path": "GearMath[2].cell",
+      "sample": "C2",
+      "type": "str"
+    },
+    {
+      "path": "GearMath[2].value",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "GearMath[2].formula",
+      "sample": "SUM(A12,A21,A47,A33,A27,A53,A59,A65,A71,A77,A84,A90,A96,A103,A109,A115,A121,A128,A134,A143,A150,A156,A162,A168,A174,A180,A187,A193,A41)",
+      "type": "str"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "GearMath[3]",
+      "type": "dict"
+    },
+    {
+      "path": "GearMath[3].cell",
+      "sample": "B3",
+      "type": "str"
+    },
+    {
+      "path": "GearMath[3].value",
+      "sample": "ATK",
+      "type": "str"
+    },
+    {
+      "path": "GearMath[3].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "GearMath[4]",
+      "type": "dict"
+    },
+    {
+      "path": "GearMath[4].cell",
+      "sample": "C3",
+      "type": "str"
+    },
+    {
+      "path": "GearMath[4].value",
+      "sample": 0,
+      "type": "int"
+    },
+    {
+      "path": "GearMath[4].formula",
+      "sample": "SUM(A13,A22,A48,A42,A34,A28,A54,A60,A66,A72,A78,A85,A91,A97,A104,A110,A116,A122,A129,A135,A144,A151,A157,A163,A169,A175,A181,A188,A194)",
+      "type": "str"
+    },
+    {
+      "length": 104,
+      "path": "Combat",
+      "type": "list"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Combat[0]",
+      "type": "dict"
+    },
+    {
+      "path": "Combat[0].cell",
+      "sample": "A1",
+      "type": "str"
+    },
+    {
+      "path": "Combat[0].value",
+      "sample": "Snail Stats",
+      "type": "str"
+    },
+    {
+      "path": "Combat[0].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Combat[1]",
+      "type": "dict"
+    },
+    {
+      "path": "Combat[1].cell",
+      "sample": "D1",
+      "type": "str"
+    },
+    {
+      "path": "Combat[1].value",
+      "sample": "Elemental",
+      "type": "str"
+    },
+    {
+      "path": "Combat[1].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Combat[2]",
+      "type": "dict"
+    },
+    {
+      "path": "Combat[2].cell",
+      "sample": "A2",
+      "type": "str"
+    },
+    {
+      "path": "Combat[2].value",
+      "sample": "Snail HP",
+      "type": "str"
+    },
+    {
+      "path": "Combat[2].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Combat[3]",
+      "type": "dict"
+    },
+    {
+      "path": "Combat[3].cell",
+      "sample": "B2",
+      "type": "str"
+    },
+    {
+      "path": "Combat[3].value",
+      "sample": 2345143,
+      "type": "int"
+    },
+    {
+      "path": "Combat[3].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Combat[4]",
+      "type": "dict"
+    },
+    {
+      "path": "Combat[4].cell",
+      "sample": "D2",
+      "type": "str"
+    },
+    {
+      "path": "Combat[4].value",
+      "sample": "Fire",
+      "type": "str"
+    },
+    {
+      "path": "Combat[4].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "length": 105,
+      "path": "Copy of Combat",
+      "type": "list"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Copy of Combat[0]",
+      "type": "dict"
+    },
+    {
+      "path": "Copy of Combat[0].cell",
+      "sample": "A1",
+      "type": "str"
+    },
+    {
+      "path": "Copy of Combat[0].value",
+      "sample": "Snail Stats",
+      "type": "str"
+    },
+    {
+      "path": "Copy of Combat[0].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Copy of Combat[1]",
+      "type": "dict"
+    },
+    {
+      "path": "Copy of Combat[1].cell",
+      "sample": "D1",
+      "type": "str"
+    },
+    {
+      "path": "Copy of Combat[1].value",
+      "sample": "Elemental",
+      "type": "str"
+    },
+    {
+      "path": "Copy of Combat[1].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Copy of Combat[2]",
+      "type": "dict"
+    },
+    {
+      "path": "Copy of Combat[2].cell",
+      "sample": "A2",
+      "type": "str"
+    },
+    {
+      "path": "Copy of Combat[2].value",
+      "sample": "Snail HP",
+      "type": "str"
+    },
+    {
+      "path": "Copy of Combat[2].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Copy of Combat[3]",
+      "type": "dict"
+    },
+    {
+      "path": "Copy of Combat[3].cell",
+      "sample": "B2",
+      "type": "str"
+    },
+    {
+      "path": "Copy of Combat[3].value",
+      "sample": 2833527,
+      "type": "int"
+    },
+    {
+      "path": "Copy of Combat[3].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Copy of Combat[4]",
+      "type": "dict"
+    },
+    {
+      "path": "Copy of Combat[4].cell",
+      "sample": "D2",
+      "type": "str"
+    },
+    {
+      "path": "Copy of Combat[4].value",
+      "sample": "Fire",
+      "type": "str"
+    },
+    {
+      "path": "Copy of Combat[4].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "length": 96,
+      "path": "CombatMath",
+      "type": "list"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "CombatMath[0]",
+      "type": "dict"
+    },
+    {
+      "path": "CombatMath[0].cell",
+      "sample": "A1",
+      "type": "str"
+    },
+    {
+      "path": "CombatMath[0].value",
+      "sample": "Snail Stats",
+      "type": "str"
+    },
+    {
+      "path": "CombatMath[0].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "CombatMath[1]",
+      "type": "dict"
+    },
+    {
+      "path": "CombatMath[1].cell",
+      "sample": "A2",
+      "type": "str"
+    },
+    {
+      "path": "CombatMath[1].value",
+      "sample": "Snail HP",
+      "type": "str"
+    },
+    {
+      "path": "CombatMath[1].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "CombatMath[2]",
+      "type": "dict"
+    },
+    {
+      "path": "CombatMath[2].cell",
+      "sample": "B2",
+      "type": "str"
+    },
+    {
+      "path": "CombatMath[2].value",
+      "sample": 3046299,
+      "type": "int"
+    },
+    {
+      "path": "CombatMath[2].formula",
+      "sample": "Combat!I3+Combat!B2+J14",
+      "type": "str"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "CombatMath[3]",
+      "type": "dict"
+    },
+    {
+      "path": "CombatMath[3].cell",
+      "sample": "D2",
+      "type": "str"
+    },
+    {
+      "path": "CombatMath[3].value",
+      "sample": "Elemental",
+      "type": "str"
+    },
+    {
+      "path": "CombatMath[3].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "CombatMath[4]",
+      "type": "dict"
+    },
+    {
+      "path": "CombatMath[4].cell",
+      "sample": "H2",
+      "type": "str"
+    },
+    {
+      "path": "CombatMath[4].value",
+      "sample": "Attack",
+      "type": "str"
+    },
+    {
+      "path": "CombatMath[4].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "length": 60,
+      "path": "Cost",
+      "type": "list"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Cost[0]",
+      "type": "dict"
+    },
+    {
+      "path": "Cost[0].cell",
+      "sample": "B2",
+      "type": "str"
+    },
+    {
+      "path": "Cost[0].value",
+      "sample": "Example data for levels from +2 through to +7",
+      "type": "str"
+    },
+    {
+      "path": "Cost[0].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Cost[1]",
+      "type": "dict"
+    },
+    {
+      "path": "Cost[1].cell",
+      "sample": "F2",
+      "type": "str"
+    },
+    {
+      "path": "Cost[1].value",
+      "sample": "Current",
+      "type": "str"
+    },
+    {
+      "path": "Cost[1].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Cost[2]",
+      "type": "dict"
+    },
+    {
+      "path": "Cost[2].cell",
+      "sample": "G2",
+      "type": "str"
+    },
+    {
+      "path": "Cost[2].value",
+      "sample": 6,
+      "type": "int"
+    },
+    {
+      "path": "Cost[2].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Cost[3]",
+      "type": "dict"
+    },
+    {
+      "path": "Cost[3].cell",
+      "sample": "H2",
+      "type": "str"
+    },
+    {
+      "path": "Cost[3].value",
+      "sample": "Goal",
+      "type": "str"
+    },
+    {
+      "path": "Cost[3].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "Cost[4]",
+      "type": "dict"
+    },
+    {
+      "path": "Cost[4].cell",
+      "sample": "I2",
+      "type": "str"
+    },
+    {
+      "path": "Cost[4].value",
+      "sample": 9,
+      "type": "int"
+    },
+    {
+      "path": "Cost[4].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "length": 2223,
+      "path": "CostMath",
+      "type": "list"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "CostMath[0]",
+      "type": "dict"
+    },
+    {
+      "path": "CostMath[0].cell",
+      "sample": "A1",
+      "type": "str"
+    },
+    {
+      "path": "CostMath[0].value",
+      "sample": 1,
+      "type": "int"
+    },
+    {
+      "path": "CostMath[0].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "CostMath[1]",
+      "type": "dict"
+    },
+    {
+      "path": "CostMath[1].cell",
+      "sample": "B1",
+      "type": "str"
+    },
+    {
+      "path": "CostMath[1].value",
+      "sample": 2,
+      "type": "int"
+    },
+    {
+      "path": "CostMath[1].formula",
+      "sample": "A1+1",
+      "type": "str"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "CostMath[2]",
+      "type": "dict"
+    },
+    {
+      "path": "CostMath[2].cell",
+      "sample": "C1",
+      "type": "str"
+    },
+    {
+      "path": "CostMath[2].value",
+      "sample": 3,
+      "type": "int"
+    },
+    {
+      "path": "CostMath[2].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "CostMath[3]",
+      "type": "dict"
+    },
+    {
+      "path": "CostMath[3].cell",
+      "sample": "D1",
+      "type": "str"
+    },
+    {
+      "path": "CostMath[3].value",
+      "sample": 4,
+      "type": "int"
+    },
+    {
+      "path": "CostMath[3].formula",
+      "sample": null,
+      "type": "NoneType"
+    },
+    {
+      "key_count": 3,
+      "keys": [
+        "cell",
+        "formula",
+        "value"
+      ],
+      "path": "CostMath[4]",
+      "type": "dict"
+    },
+    {
+      "path": "CostMath[4].cell",
+      "sample": "E1",
+      "type": "str"
+    },
+    {
+      "path": "CostMath[4].value",
+      "sample": 5,
+      "type": "int"
+    },
+    {
+      "path": "CostMath[4].formula",
+      "sample": null,
+      "type": "NoneType"
+    }
+  ]
+}

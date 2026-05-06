@@ -1,0 +1,74 @@
+[
+  {
+    "claim": "D142 was reading the wrong row. It must read its own level cell H142.",
+    "confidence": 0.9,
+    "id": "source_fact_gear_armor_level_formula_d142",
+    "notes": "Formula fix supplied during spreadsheet reverse-engineering review.",
+    "related_entities": [],
+    "source_file": "game/data/staging/gear_calculator/formula_fixes_2026-05-06.json",
+    "source_type": "spreadsheet"
+  },
+  {
+    "claim": "D149 was reading the wrong row. It must read its own level cell H149.",
+    "confidence": 0.9,
+    "id": "source_fact_gear_armor_level_formula_d149",
+    "notes": "Formula fix supplied during spreadsheet reverse-engineering review.",
+    "related_entities": [],
+    "source_file": "game/data/staging/gear_calculator/formula_fixes_2026-05-06.json",
+    "source_type": "spreadsheet"
+  },
+  {
+    "claim": "Round 1 damage buff in I9 was calculated but not included in first-turn attack damage.",
+    "confidence": 0.9,
+    "id": "source_fact_combat_first_turn_attack_damage_c21",
+    "notes": "Formula fix supplied during spreadsheet reverse-engineering review.",
+    "related_entities": [],
+    "source_file": "game/data/staging/gear_calculator/formula_fixes_2026-05-06.json",
+    "source_type": "spreadsheet"
+  },
+  {
+    "claim": "Round 1 damage buff in I9 was calculated but not included in first-turn attack total.",
+    "confidence": 0.9,
+    "id": "source_fact_combat_first_turn_attack_total_e21",
+    "notes": "Formula fix supplied during spreadsheet reverse-engineering review.",
+    "related_entities": [],
+    "source_file": "game/data/staging/gear_calculator/formula_fixes_2026-05-06.json",
+    "source_type": "spreadsheet"
+  },
+  {
+    "claim": "Round 1 damage buff in I9 was calculated but not included in first-turn rush damage.",
+    "confidence": 0.9,
+    "id": "source_fact_combat_first_turn_rush_damage_c22",
+    "notes": "Formula fix supplied during spreadsheet reverse-engineering review.",
+    "related_entities": [],
+    "source_file": "game/data/staging/gear_calculator/formula_fixes_2026-05-06.json",
+    "source_type": "spreadsheet"
+  },
+  {
+    "claim": "Round 1 damage buff in I9 was calculated but not included in first-turn rush total.",
+    "confidence": 0.9,
+    "id": "source_fact_combat_first_turn_rush_total_e22",
+    "notes": "Formula fix supplied during spreadsheet reverse-engineering review.",
+    "related_entities": [],
+    "source_file": "game/data/staging/gear_calculator/formula_fixes_2026-05-06.json",
+    "source_type": "spreadsheet"
+  },
+  {
+    "claim": "These inputs were visible but not referenced by any formulas.",
+    "confidence": 0.9,
+    "id": "source_fact_combat_dead_inputs_i16_i21",
+    "notes": "Formula fix supplied during spreadsheet reverse-engineering review.",
+    "related_entities": [],
+    "source_file": "game/data/staging/gear_calculator/formula_fixes_2026-05-06.json",
+    "source_type": "spreadsheet"
+  },
+  {
+    "claim": "Copy of Combat was secretly feeding through CombatMath back to the original Combat sheet.",
+    "confidence": 0.9,
+    "id": "source_fact_copy_of_combat_independence",
+    "notes": "Formula fix supplied during spreadsheet reverse-engineering review.",
+    "related_entities": [],
+    "source_file": "game/data/staging/gear_calculator/formula_fixes_2026-05-06.json",
+    "source_type": "spreadsheet"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "canonical_promotion": false,
+  "generated_at": "2026-05-06T15:38:24.374262+00:00",
+  "input_files": [
+    "game/data/staging/gear_calculator/gear_items_extracted.json",
+    "game/data/staging/gear_calculator/cost_level_table.json",
+    "game/data/staging/gear_calculator/formula_map_original_unpatched.csv",
+    "game/data/staging/gear_calculator/workbook_nonempty_cells_original_unpatched.json",
+    "game/data/staging/gear_calculator/formula_fixes_2026-05-06.json"
+  ],
+  "outputs": {
+    "combat_formulas": 793,
+    "gear_cost_by_level": 243,
+    "gear_effect_scaling": 120,
+    "gear_items": 29,
+    "gear_stat_scaling": 192,
+    "known_formula_issues": 8,
+    "source_facts": 8
+  },
+  "phase": "1C",
+  "scope": "gear_calculator_candidate_normalization"
+}
