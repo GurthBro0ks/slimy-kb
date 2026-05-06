@@ -1,6 +1,6 @@
 # NUC2 State Digest
 
-**Timestamp:** 2026-05-06T00:52:04Z
+**Timestamp:** 2026-05-06T12:53:04Z
 **Host:** slimy-nuc2
 
 ## Systemd User Services
@@ -9,12 +9,12 @@
 
 ## Systemd User Timers
 
--                                  - Wed 2026-05-06 00:52:03 UTC 833ms ago kb-maintenance.timer           kb-maintenance.service
--                                  - Wed 2026-05-06 00:52:03 UTC 833ms ago wiki-manager-stage1.timer      wiki-manager-stage1.service
+-                                  - Wed 2026-05-06 12:53:03 UTC 955ms ago kb-maintenance.timer           kb-maintenance.service
+-                                  - Wed 2026-05-06 12:53:03 UTC 954ms ago wiki-manager-stage1.timer      wiki-manager-stage1.service
 
 ## KB Maintenance Timer
 
--                                  - Wed 2026-05-06 00:52:03 UTC 844ms ago kb-maintenance.timer           kb-maintenance.service
+-                                  - Wed 2026-05-06 12:53:03 UTC 970ms ago kb-maintenance.timer           kb-maintenance.service
 
 ## Active PM2 Processes
 
@@ -40,28 +40,4 @@ LISTEN 0      4096   [fd7a:115c:a1e0::5737:773e]:443           [::]:*
 
 ## Disk Usage (KB-relevant paths)
 
-18M	/home/slimy/kb
-36G	/home/slimy
-- /home/slimy: (unable to measure)
-
-## Uptime
-
- 00:52:09 up 23 days, 38 min,  3 users,  load average: 0.64, 1.01, 1.06
-
-## KB Git Status
-
- M raw/research/2026-05-06-slimy-nuc2-state.md
-- ahead: 0
-- behind: 0
-
-## KB Health Snapshot
-
-- orphans (total): 18
-- weak-links (total): 9
-
-## KB Raw Files (recent, 48h)
-
-- 11 raw/*.md files modified in last 48h
-
-## Vault Sync Status
-
+19M	/home/slimy/kb
