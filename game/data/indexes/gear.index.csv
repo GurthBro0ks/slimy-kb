@@ -1,0 +1,314 @@
+id,name,tier_color,slot,hp,atk,def,rush,data_file
+7_star_blade,7-Star Blade,purple,,200,60,20,60,game/data/canonical/gear/7_star_blade.json
+abyss_amulet,Abyss Amulet,purple,,200,60,20,60,game/data/canonical/gear/abyss_amulet.json
+abyss_wings,Abyss Wings,orange,,400,120,40,120,game/data/canonical/gear/abyss_wings.json
+achilles_shield,Achilles' Shield,purple,,600,20,60,20,game/data/canonical/gear/achilles_shield.json
+agamemnon_outfit,Agamemnon Outfit,red,,3000,100,300,100,game/data/canonical/gear/agamemnon_outfit.json
+alloy_shield,Alloy Shield,orange,,400,40,20,40,game/data/canonical/gear/alloy_shield.json
+amulet_of_will,Amulet of Will,red,,1200,120,120,120,game/data/canonical/gear/amulet_of_will.json
+amulet_of_will_1,Amulet of Will +1,red,,2000,200,200,200,game/data/canonical/gear/amulet_of_will_1.json
+ancestral_legacy,Ancestral Legacy,red,,600,60,300,60,game/data/canonical/gear/ancestral_legacy.json
+ancient_blade,Ancient Blade,blue,,100,300,10,30,game/data/canonical/gear/ancient_blade.json
+antelope_horn_shield,Antelope Horn Shield,purple,,400,40,40,40,game/data/canonical/gear/antelope_horn_shield.json
+anti_strength_saber,Anti-Strength Saber,orange,,400,200,40,40,game/data/canonical/gear/anti_strength_saber.json
+antimatter_armor,Antimatter Armor,red,,1200,120,120,120,game/data/canonical/gear/antimatter_armor.json
+antimatter_shield,Antimatter Shield,red,,600,60,300,60,game/data/canonical/gear/antimatter_shield.json
+arabic_dagger,Arabic Dagger,purple,,600,20,60,20,game/data/canonical/gear/arabic_dagger.json
+arrow_of_arash,Arrow of Arash,orange,,800,80,80,80,game/data/canonical/gear/arrow_of_arash.json
+ashoka_s_sword,Ashoka's Sword,orange,,400,120,40,120,game/data/canonical/gear/ashoka_s_sword.json
+assassin_s_gauntlet,Assassin's Gauntlet,purple,,200,60,20,60,game/data/canonical/gear/assassin_s_gauntlet.json
+assault_rifle_model_98,Assault Rifle Model 98,blue,,100,30,10,30,game/data/canonical/gear/assault_rifle_model_98.json
+athena_s_spear,Athena's Spear,red,,600,180,60,180,game/data/canonical/gear/athena_s_spear.json
+azazel_s_curse,Azazel's Curse,orange,,400,120,120,40,game/data/canonical/gear/azazel_s_curse.json
+azazel_s_pact,Azazel's Pact,red,,600,180,180,60,game/data/canonical/gear/azazel_s_pact.json
+b_tadpole_sword,B-Tadpole Sword,orange,,400,200,40,40,game/data/canonical/gear/b_tadpole_sword.json
+battle_detector,Battle Detector,orange,,800,80,80,80,game/data/canonical/gear/battle_detector.json
+beast_fang,Beast Fang,gray,,0,10,0,10,game/data/canonical/gear/beast_fang.json
+bedrock,Bedrock,red,,600,60,300,60,game/data/canonical/gear/bedrock.json
+bichaq,Bichaq,green,,0,30,0,10,game/data/canonical/gear/bichaq.json
+big_bounce,Big Bounce,red,,600,300,60,60,game/data/canonical/gear/big_bounce.json
+black_pearl,Black Pearl,green,,50,15,5,15,game/data/canonical/gear/black_pearl.json
+blade_muramasa,Blade Muramasa,purple,,200,60,20,60,game/data/canonical/gear/blade_muramasa.json
+blade_murasame,Blade Murasame,orange,,400,120,40,120,game/data/canonical/gear/blade_murasame.json
+blair_s_curse,Blair's Curse,red,,600,300,60,60,game/data/canonical/gear/blair_s_curse.json
+blasphemy_eye,Blasphemy Eye,orange,,800,80,80,80,game/data/canonical/gear/blasphemy_eye.json
+britland_crown,Britland Crown,purple,,400,40,40,40,game/data/canonical/gear/britland_crown.json
+broken_caladbolg,Broken Caladbolg,orange,,400,120,40,120,game/data/canonical/gear/broken_caladbolg.json
+broken_dragon_horn,Broken Dragon Horn,orange,,400,120,40,120,game/data/canonical/gear/broken_dragon_horn.json
+broken_fiend_mirror,Broken Fiend Mirror,blue,,100,50,10,10,game/data/canonical/gear/broken_fiend_mirror.json
+broken_godsmiter,Broken Godsmiter,blue,,100,50,10,10,game/data/canonical/gear/broken_godsmiter.json
+broken_hour_hand,Broken Hour Hand,gray,,0,0,0,20,game/data/canonical/gear/broken_hour_hand.json
+broken_minute_hand,Broken Minute Hand,gray,,0,0,20,0,game/data/canonical/gear/broken_minute_hand.json
+broken_palm_leaf_fan,Broken Palm-Leaf Fan,blue,,100,50,10,10,game/data/canonical/gear/broken_palm_leaf_fan.json
+broken_sageender,Broken Sageender,green,,50,25,5,5,game/data/canonical/gear/broken_sageender.json
+broken_sagekiller,Broken Sagekiller,blue,,50,25,5,5,game/data/canonical/gear/broken_sagekiller.json
+broken_sagemurderer,Broken Sagemurderer,green,,50,25,5,5,game/data/canonical/gear/broken_sagemurderer.json
+broken_sagesinker,Broken Sagesinker,green,,50,25,5,5,game/data/canonical/gear/broken_sagesinker.json
+broken_second_hand,Broken Second Hand,gray,,0,20,0,0,game/data/canonical/gear/broken_second_hand.json
+bronze_helmet,Bronze Helmet,gray,,0,0,20,0,game/data/canonical/gear/bronze_helmet.json
+bullet_storm,Bullet Storm,red,,600,180,60,180,game/data/canonical/gear/bullet_storm.json
+bulletproof_vest,Bulletproof Vest,blue,,200,20,20,20,game/data/canonical/gear/bulletproof_vest.json
+butcher_s_hook,Butcher's Hook,orange,,400,200,40,40,game/data/canonical/gear/butcher_s_hook.json
+caesar_s_crown,Caesar's Crown,red,,1200,120,120,120,game/data/canonical/gear/caesar_s_crown.json
+caeser_s_laurel,Caeser's Laurel,purple,,600,20,60,20,game/data/canonical/gear/caeser_s_laurel.json
+caladbolg,Caladbolg,red,,600,180,60,180,game/data/canonical/gear/caladbolg.json
+cayako_s_charm,Cayako's Charm,purple,,200,10,20,20,game/data/canonical/gear/cayako_s_charm.json
+centaur_armor,Centaur Armor,red,,600,180,60,180,game/data/canonical/gear/centaur_armor.json
+chief,Chief,orange,,400,40,200,40,game/data/canonical/gear/chief.json
+claw_of_destruction,Claw of Destruction,red,,600,180,60,180,game/data/canonical/gear/claw_of_destruction.json
+colt_revolver,Colt Revolver,green,,0,30,0,10,game/data/canonical/gear/colt_revolver.json
+conqueror_spear,Conqueror Spear,orange,,800,80,80,80,game/data/canonical/gear/conqueror_spear.json
+couple_swords,Couple Swords,orange,,400,120,40,120,game/data/canonical/gear/couple_swords.json
+cretaceous_weapon,Cretaceous Weapon,red,,600,300,60,60,game/data/canonical/gear/cretaceous_weapon.json
+crimson_dragon_claw,Crimson Dragon Claw,orange,,200,60,20,60,game/data/canonical/gear/crimson_dragon_claw.json
+crimson_haori_jacket,Crimson Haori Jacket,blue,,300,10,30,10,game/data/canonical/gear/crimson_haori_jacket.json
+crowbar,Crowbar,gray,,0,20,0,0,game/data/canonical/gear/crowbar.json
+crown_of_eternal_daylight,Crown of Eternal Daylight,red,,600,180,60,180,game/data/canonical/gear/crown_of_eternal_daylight.json
+crown_of_power,Crown of Power,orange,,400,40,40,40,game/data/canonical/gear/crown_of_power.json
+crusader_ring,Crusader Ring,blue,,100,30,10,30,game/data/canonical/gear/crusader_ring.json
+crystal_lens,Crystal Lens,green,,100,10,10,10,game/data/canonical/gear/crystal_lens.json
+crystal_of_will,Crystal of Will,orange,,800,80,80,80,game/data/canonical/gear/crystal_of_will.json
+curator_s_helmet,Curator's Helmet,orange,,1200,40,120,40,game/data/canonical/gear/curator_s_helmet.json
+damascus_knife,Damascus Knife,orange,,400,120,40,120,game/data/canonical/gear/damascus_knife.json
+dark_strength,Dark Strength,red,,600,300,60,60,game/data/canonical/gear/dark_strength.json
+death_shroud,Death Shroud,orange,,500,10,10,10,game/data/canonical/gear/death_shroud.json
+deepsea_helmet,Deepsea Helmet,red,,1800,60,60,180,game/data/canonical/gear/deepsea_helmet.json
+demon_god_amulet,Demon God Amulet,red,,1200,120,120,120,game/data/canonical/gear/demon_god_amulet.json
+demon_god_crystal,Demon God Crystal,orange,,800,80,80,80,game/data/canonical/gear/demon_god_crystal.json
+demon_scythe,Demon Scythe,orange,,100,30,30,10,game/data/canonical/gear/demon_scythe.json
+dim_godsmiter,Dim Godsmiter,purple,,200,100,20,20,game/data/canonical/gear/dim_godsmiter.json
+dim_ironcutter,Dim Ironcutter,purple,,200,100,20,20,game/data/canonical/gear/dim_ironcutter.json
+dim_rope_of_truth,Dim Rope of Truth,purple,,200,100,20,20,game/data/canonical/gear/dim_rope_of_truth.json
+dim_trident,Dim Trident,purple,,200,100,20,20,game/data/canonical/gear/dim_trident.json
+district_9,District 9,red,,600,300,60,60,game/data/canonical/gear/district_9.json
+diver,Diver,orange,,300,10,10,30,game/data/canonical/gear/diver.json
+dracula_cape,Dracula Cape,red,,3000,60,60,60,game/data/canonical/gear/dracula_cape.json
+dragon_fang_dagger,Dragon Fang Dagger,orange,,100,30,10,30,game/data/canonical/gear/dragon_fang_dagger.json
+dragon_horn,Dragon Horn,red,,600,180,60,180,game/data/canonical/gear/dragon_horn.json
+drazgul_fang,Drazgul Fang,orange,,400,200,40,200,game/data/canonical/gear/drazgul_fang.json
+duckbill_axe,Duckbill Axe,blue,,100,30,10,30,game/data/canonical/gear/duckbill_axe.json
+dwarf_mask,Dwarf Mask,orange,,50,5,25,5,game/data/canonical/gear/dwarf_mask.json
+electric_hammer,Electric Hammer,orange,,400,40,40,200,game/data/canonical/gear/electric_hammer.json
+elegant_gloves,Elegant Gloves,orange,,50,25,5,5,game/data/canonical/gear/elegant_gloves.json
+elven_cape,Elven Cape,orange,,200,20,20,20,game/data/canonical/gear/elven_cape.json
+empress_gloves,Empress Gloves,red,,600,300,60,60,game/data/canonical/gear/empress_gloves.json
+empress_slippers,Empress' Slippers,red,,600,60,60,300,game/data/canonical/gear/empress_slippers.json
+eternal_empire_staff,Eternal Empire Staff,orange,,800,80,80,80,game/data/canonical/gear/eternal_empire_staff.json
+eternal_return,Eternal Return,orange,,400,120,40,120,game/data/canonical/gear/eternal_return.json
+excaladbolg,Excaladbolg,red,,1000,300,100,300,game/data/canonical/gear/excaladbolg.json
+excalibur,Excalibur,orange,,400,200,40,40,game/data/canonical/gear/excalibur.json
+excalibur_ex,Excalibur EX,red,,600,300,60,60,game/data/canonical/gear/excalibur_ex.json
+exploding_rage,Exploding Rage,red,,600,180,60,180,game/data/canonical/gear/exploding_rage.json
+eye_of_akamoddo_amulet,Eye of Akamoddo Amulet,red,,1800,60,180,60,game/data/canonical/gear/eye_of_akamoddo_amulet.json
+eye_of_horus,Eye of Horus,orange,,800,80,80,80,game/data/canonical/gear/eye_of_horus.json
+fang_of_tiamat,Fang of Tiamat,red,,600,180,60,180,game/data/canonical/gear/fang_of_tiamat.json
+feline_shield,Feline Shield,purple,,400,40,40,40,game/data/canonical/gear/feline_shield.json
+fire_of_rage,Fire of Rage,orange,,400,120,40,120,game/data/canonical/gear/fire_of_rage.json
+flower_crown,Flower Crown,gray,,100,0,10,0,game/data/canonical/gear/flower_crown.json
+fortress,Fortress,red,,600,60,300,60,game/data/canonical/gear/fortress.json
+fossil,Fossil,orange,,400,200,40,40,game/data/canonical/gear/fossil.json
+freddy_s_claw,Freddy's Claw,blue,,100,50,10,10,game/data/canonical/gear/freddy_s_claw.json
+fresnal_lens,Fresnal Lens,green,,100,10,10,10,game/data/canonical/gear/fresnal_lens.json
+gas_mask,Gas Mask,purple,,400,40,40,40,game/data/canonical/gear/gas_mask.json
+gauss_c14,Gauss C14,orange,,100,10,30,30,game/data/canonical/gear/gauss_c14.json
+gauss_m72,Gauss M72,red,,600,60,180,180,game/data/canonical/gear/gauss_m72.json
+gear_ring,Gear Ring,orange,,400,40,40,200,game/data/canonical/gear/gear_ring.json
+genji_armor,Genji Armor,orange,,800,80,80,80,game/data/canonical/gear/genji_armor.json
+genji_gloves,Genji Gloves,purple,,200,60,20,60,game/data/canonical/gear/genji_gloves.json
+genji_helmet,Genji Helmet,purple,,600,20,60,20,game/data/canonical/gear/genji_helmet.json
+genji_shield,Genji Shield,purple,,400,40,40,40,game/data/canonical/gear/genji_shield.json
+gentleman_s_staff,Gentleman's Staff,gray,,0,0,20,0,game/data/canonical/gear/gentleman_s_staff.json
+gilded_belt,Gilded Belt,red,,3000,60,60,60,game/data/canonical/gear/gilded_belt.json
+gold_outfit,Gold Outfit,orange,,1200,40,120,40,game/data/canonical/gear/gold_outfit.json
+golden_assault_rifle,Golden Assault Rifle,purple,,200,60,20,60,game/data/canonical/gear/golden_assault_rifle.json
+golden_bronze_dagger,Golden Bronze Dagger,purple,,600,20,60,20,game/data/canonical/gear/golden_bronze_dagger.json
+golden_drazgul_fang,Golden Drazgul Fang,red,,600,300,60,300,game/data/canonical/gear/golden_drazgul_fang.json
+golden_yamato_armor,Golden Yamato Armor,green,,300,0,10,0,game/data/canonical/gear/golden_yamato_armor.json
+grandpire_s_robe,Grandpire's Robe,red,,1200,120,120,120,game/data/canonical/gear/grandpire_s_robe.json
+guardian_s_longsword,Guardian's Longsword,purple,,200,60,20,60,game/data/canonical/gear/guardian_s_longsword.json
+hammer_of_frenzy,Hammer of Frenzy,orange,,200,20,20,10,game/data/canonical/gear/hammer_of_frenzy.json
+hannibel_s_scalpel,Hannibel's Scalpel,green,,50,25,5,5,game/data/canonical/gear/hannibel_s_scalpel.json
+heart_of_nature,Heart of Nature,red,,3000,60,60,60,game/data/canonical/gear/heart_of_nature.json
+heart_protection_mirror,Heart-Protection Mirror,green,,300,0,10,0,game/data/canonical/gear/heart_protection_mirror.json
+heaven_amulet,Heaven Amulet,purple,,600,20,60,20,game/data/canonical/gear/heaven_amulet.json
+heaven_wings,Heaven Wings,orange,,1200,40,120,40,game/data/canonical/gear/heaven_wings.json
+heavy_infantry_helmet,Heavy Infantry Helmet,green,,300,0,10,0,game/data/canonical/gear/heavy_infantry_helmet.json
+hector_s_spear,Hector's Spear,purple,,200,60,20,60,game/data/canonical/gear/hector_s_spear.json
+heraclius_silver_staff,Heraclius' Silver Staff,purple,,600,20,60,20,game/data/canonical/gear/heraclius_silver_staff.json
+holographic_lens,Holographic Lens,purple,,200,20,20,20,game/data/canonical/gear/holographic_lens.json
+holographic_tactical_glasses,Holographic Tactical Glasses,purple,,600,20,60,20,game/data/canonical/gear/holographic_tactical_glasses.json
+horse_helmet,Horse Helmet,orange,,800,80,80,80,game/data/canonical/gear/horse_helmet.json
+hydra_s_gloves,Hydra's Gloves,red,,600,300,60,60,game/data/canonical/gear/hydra_s_gloves.json
+ice_skates,Ice Skates,gray,,0,20,0,0,game/data/canonical/gear/ice_skates.json
+icy_bracelet,Icy Bracelet,purple,,600,20,60,20,game/data/canonical/gear/icy_bracelet.json
+imitation_vision,Imitation Vision,orange,,200,100,20,20,game/data/canonical/gear/imitation_vision.json
+incredible_key,Incredible Key,red,,600,300,300,60,game/data/canonical/gear/incredible_key.json
+indra_s_crown,Indra's Crown,orange,,800,80,80,80,game/data/canonical/gear/indra_s_crown.json
+indv_high_explosive_rifle,Indv. High-explosive Rifle,orange,,400,120,40,120,game/data/canonical/gear/indv_high_explosive_rifle.json
+indv_power_armor,Indv. Power Armor,orange,,800,80,80,80,game/data/canonical/gear/indv_power_armor.json
+infrared_lens,Infrared Lens,blue,,200,20,20,20,game/data/canonical/gear/infrared_lens.json
+iron_helmet,Iron Helmet,gray,,0,0,20,0,game/data/canonical/gear/iron_helmet.json
+iron_ring,Iron Ring,gray,,0,10,0,10,game/data/canonical/gear/iron_ring.json
+iron_track,Iron Track,orange,,100,10,10,50,game/data/canonical/gear/iron_track.json
+jack_s_gloves,Jack's Gloves,green,,50,25,5,5,game/data/canonical/gear/jack_s_gloves.json
+jade_saber,Jade Saber,orange,,400,120,40,120,game/data/canonical/gear/jade_saber.json
+jason_s_mask,Jason's Mask,blue,,100,50,10,10,game/data/canonical/gear/jason_s_mask.json
+javelin,Javelin,gray,,0,20,0,0,game/data/canonical/gear/javelin.json
+jung_geun_s_gun,Jung-geun's Gun,orange,,400,120,40,120,game/data/canonical/gear/jung_geun_s_gun.json
+justinian_s_robe,Justinian's Robe,purple,,600,20,60,20,game/data/canonical/gear/justinian_s_robe.json
+khopesh,Khopesh,gray,,0,20,0,0,game/data/canonical/gear/khopesh.json
+know_it_all_device,Know-It-All Device,red,,1200,120,120,120,game/data/canonical/gear/know_it_all_device.json
+kukri,Kukri,blue,,100,30,10,30,game/data/canonical/gear/kukri.json
+leather_chest_armor,Leather Chest Armor,orange,,50,15,5,15,game/data/canonical/gear/leather_chest_armor.json
+leather_shield,Leather Shield,green,,300,0,10,0,game/data/canonical/gear/leather_shield.json
+lee_enfield_rifle,Lee Enfield Rifle,green,,0,30,0,10,game/data/canonical/gear/lee_enfield_rifle.json
+legion_javelins,Legion Javelins,green,,0,30,0,10,game/data/canonical/gear/legion_javelins.json
+leviathan_gloves,Leviathan Gloves,orange,,200,100,20,20,game/data/canonical/gear/leviathan_gloves.json
+lifebuoy,Lifebuoy,orange,,150,5,15,5,game/data/canonical/gear/lifebuoy.json
+light_yamato_armor,Light Yamato Armor,gray,,0,0,20,0,game/data/canonical/gear/light_yamato_armor.json
+linen_robe,Linen Robe,gray,,0,20,0,0,game/data/canonical/gear/linen_robe.json
+lion_king_s_sword,Lion King's Sword,red,,600,180,60,180,game/data/canonical/gear/lion_king_s_sword.json
+lion_s_crown,Lion's Crown,orange,,400,120,40,120,game/data/canonical/gear/lion_s_crown.json
+lizard_belt,Lizard Belt,orange,,250,5,5,5,game/data/canonical/gear/lizard_belt.json
+long_range_scope,Long Range Scope,purple,,600,20,60,20,game/data/canonical/gear/long_range_scope.json
+lotus_platform,Lotus Platform,green,,150,5,5,15,game/data/canonical/gear/lotus_platform.json
+lotus_platform_iii,Lotus Platform III,blue,,300,10,10,30,game/data/canonical/gear/lotus_platform_iii.json
+lotus_platform_ix,Lotus Platform IX,orange,,1200,40,40,120,game/data/canonical/gear/lotus_platform_ix.json
+lotus_platform_vi,Lotus Platform VI,purple,,600,20,20,60,game/data/canonical/gear/lotus_platform_vi.json
+lotus_platform_xii,Lotus Platform XII,red,,1800,60,60,180,game/data/canonical/gear/lotus_platform_xii.json
+m4_carbine,M4 Carbine,purple,,200,60,20,60,game/data/canonical/gear/m4_carbine.json
+macedonian_spear,Macedonian Spear,blue,,100,30,10,30,game/data/canonical/gear/macedonian_spear.json
+magician,Magician,orange,,400,40,40,40,game/data/canonical/gear/magician.json
+mahatma_s_robe,Mahatma's Robe,blue,,200,20,20,20,game/data/canonical/gear/mahatma_s_robe.json
+mark_ii,Mark II,orange,,100,10,30,30,game/data/canonical/gear/mark_ii.json
+mark_iv,Mark IV,red,,600,60,180,180,game/data/canonical/gear/mark_iv.json
+maze_key,Maze Key,orange,,400,200,200,40,game/data/canonical/gear/maze_key.json
+mechanical_exoskeleton,Mechanical Exoskeleton,purple,,400,40,40,40,game/data/canonical/gear/mechanical_exoskeleton.json
+michael_s_earrings,Michael's Earrings,red,,1200,120,120,120,game/data/canonical/gear/michael_s_earrings.json
+millennium_ring,Millennium Ring,orange,,800,80,80,80,game/data/canonical/gear/millennium_ring.json
+million_volts,Million Volts,red,,600,60,60,300,game/data/canonical/gear/million_volts.json
+mind_control_dagger,Mind Control Dagger,orange,,100,30,10,30,game/data/canonical/gear/mind_control_dagger.json
+mithraic_bow_and_spear,Mithraic Bow & Spear,red,,600,180,60,180,game/data/canonical/gear/mithraic_bow_and_spear.json
+motorbike_helmet,Motorbike Helmet,green,,300,0,10,0,game/data/canonical/gear/motorbike_helmet.json
+mughal_scimitar,Mughal Scimitar,purple,,200,60,20,60,game/data/canonical/gear/mughal_scimitar.json
+mughal_soldier_helmet,Mughal Soldier Helmet,green,,300,0,10,0,game/data/canonical/gear/mughal_soldier_helmet.json
+multifunction_goggles,Multifunction Goggles,blue,,200,20,20,20,game/data/canonical/gear/multifunction_goggles.json
+ninjutsu_armband,Ninjutsu Armband,green,,0,30,0,10,game/data/canonical/gear/ninjutsu_armband.json
+norris_chuck,Norris-chuck,red,,600,300,60,60,game/data/canonical/gear/norris_chuck.json
+nun_chuck,Nun-chuck,orange,,100,50,10,10,game/data/canonical/gear/nun_chuck.json
+ogma_s_cloak,Ogma's Cloak,red,,1200,120,120,120,game/data/canonical/gear/ogma_s_cloak.json
+oldman_wand,Oldman Wand,red,,600,300,60,60,game/data/canonical/gear/oldman_wand.json
+overlord_s_hook,Overlord's Hook,red,,1800,60,180,60,game/data/canonical/gear/overlord_s_hook.json
+parsian_composite_bow,Parsian Composite Bow,purple,,200,60,20,60,game/data/canonical/gear/parsian_composite_bow.json
+parsian_kite_shield,Parsian Kite Shield,gray,,0,0,20,0,game/data/canonical/gear/parsian_kite_shield.json
+parsian_pike,Parsian Pike,gray,,0,0,0,20,game/data/canonical/gear/parsian_pike.json
+pasgt_helmet,PASGT Helmet,blue,,200,20,20,20,game/data/canonical/gear/pasgt_helmet.json
+pata,Pata,green,,0,30,0,10,game/data/canonical/gear/pata.json
+peacock_quill,Peacock Quill,orange,,200,100,20,100,game/data/canonical/gear/peacock_quill.json
+pesh_kabz,Pesh-Kabz,green,,300,0,10,0,game/data/canonical/gear/pesh_kabz.json
+pharaoh_s_scepter,Pharaoh's Scepter,purple,,600,20,60,20,game/data/canonical/gear/pharaoh_s_scepter.json
+pirate,Pirate,orange,,300,10,30,10,game/data/canonical/gear/pirate.json
+podao,Podao,gray,,0,20,0,0,game/data/canonical/gear/podao.json
+poisoned_dagger,Poisoned Dagger,green,,0,30,0,10,game/data/canonical/gear/poisoned_dagger.json
+poseidon_s_blessing,Poseidon's Blessing,red,,1800,60,180,60,game/data/canonical/gear/poseidon_s_blessing.json
+poseidon_s_trident,Poseidon's Trident,red,,600,300,60,60,game/data/canonical/gear/poseidon_s_trident.json
+power_armor,Power Armor,orange,,800,80,80,80,game/data/canonical/gear/power_armor.json
+power_spinach,Power Spinach,red,,600,60,60,300,game/data/canonical/gear/power_spinach.json
+powered_glove,Powered Glove,purple,,200,60,20,60,game/data/canonical/gear/powered_glove.json
+prayer_staff,Prayer Staff,orange,,300,10,10,30,game/data/canonical/gear/prayer_staff.json
+priestly_robe,Priestly Robe,purple,,400,40,40,40,game/data/canonical/gear/priestly_robe.json
+pulse_rifle,Pulse Rifle,orange,,100,50,10,10,game/data/canonical/gear/pulse_rifle.json
+rainbow_tassel,Rainbow Tassel,blue,,200,20,20,20,game/data/canonical/gear/rainbow_tassel.json
+rama_greataxe,Rama Greataxe,red,,600,180,60,180,game/data/canonical/gear/rama_greataxe.json
+ring_of_paralysis,Ring of Paralysis,red,,600,60,60,300,game/data/canonical/gear/ring_of_paralysis.json
+ring_of_stupor,Ring of Stupor,orange,,200,20,20,100,game/data/canonical/gear/ring_of_stupor.json
+rock,Rock,orange,,50,5,25,5,game/data/canonical/gear/rock.json
+royal_banner,Royal Banner,purple,,600,20,60,20,game/data/canonical/gear/royal_banner.json
+royal_guard_bearskin_hat,Royal Guard Bearskin Hat,green,,300,0,10,0,game/data/canonical/gear/royal_guard_bearskin_hat.json
+royal_underwear,Royal Underwear,gray,,0,0,20,0,game/data/canonical/gear/royal_underwear.json
+royal_wootz_blade,Royal Wootz Blade,purple,,600,20,60,20,game/data/canonical/gear/royal_wootz_blade.json
+ruby_brooch,Ruby Brooch,blue,,100,30,10,30,game/data/canonical/gear/ruby_brooch.json
+sailor_suit,Sailor Suit,orange,,100,10,10,10,game/data/canonical/gear/sailor_suit.json
+saint_s_earring,Saint's Earring,orange,,400,40,40,40,game/data/canonical/gear/saint_s_earring.json
+sakabato_blade,Sakabato Blade,orange,,100,50,10,10,game/data/canonical/gear/sakabato_blade.json
+sapphire_brooch,Sapphire Brooch,blue,,300,10,30,10,game/data/canonical/gear/sapphire_brooch.json
+scout_goggles,Scout Goggles,purple,,200,20,20,20,game/data/canonical/gear/scout_goggles.json
+seething_bracelet,Seething Bracelet,purple,,200,60,20,60,game/data/canonical/gear/seething_bracelet.json
+selene_amulet,Selene Amulet,red,,1200,120,120,120,game/data/canonical/gear/selene_amulet.json
+septreasure_peacock_quill,Septreasure Peacock Quill,red,,600,300,60,300,game/data/canonical/gear/septreasure_peacock_quill.json
+seraph_s_light,Seraph's Light,red,,1800,60,60,180,game/data/canonical/gear/seraph_s_light.json
+serket_staff,Serket Staff,red,,1800,180,60,60,game/data/canonical/gear/serket_staff.json
+servant_spirit_pendant,Servant Spirit Pendant,blue,,200,20,20,20,game/data/canonical/gear/servant_spirit_pendant.json
+shamshir,Shamshir,blue,,300,10,30,10,game/data/canonical/gear/shamshir.json
+shattered_fire_spear,Shattered Fire Spear,green,,50,25,5,5,game/data/canonical/gear/shattered_fire_spear.json
+shattered_palm_leaf_fan,Shattered Palm-Leaf Fan,green,,50,25,5,5,game/data/canonical/gear/shattered_palm_leaf_fan.json
+shattered_sky_ribbon,Shattered Sky Ribbon,green,,50,25,5,5,game/data/canonical/gear/shattered_sky_ribbon.json
+shattered_windfire_wheel,Shattered Windfire Wheel,green,,50,25,5,5,game/data/canonical/gear/shattered_windfire_wheel.json
+shotgun_umbrella,Shotgun Umbrella,purple,,200,60,20,60,game/data/canonical/gear/shotgun_umbrella.json
+sikh_turban,Sikh Turban,gray,,0,0,20,0,game/data/canonical/gear/sikh_turban.json
+silver_lion,Silver Lion,purple,,400,40,40,40,game/data/canonical/gear/silver_lion.json
+sky_piercer,Sky Piercer,red,,600,180,60,180,game/data/canonical/gear/sky_piercer.json
+slippers,Slippers,orange,,50,5,5,25,game/data/canonical/gear/slippers.json
+smoothbore,Smoothbore,gray,,0,20,0,0,game/data/canonical/gear/smoothbore.json
+sorcerer_ring,Sorcerer Ring,green,,150,5,15,15,game/data/canonical/gear/sorcerer_ring.json
+soul_reaper,Soul Reaper,red,,600,180,180,60,game/data/canonical/gear/soul_reaper.json
+soul_walking,Soul Walking,red,,1800,180,60,60,game/data/canonical/gear/soul_walking.json
+spacetime_echo,Spacetime Echo,purple,,200,60,20,60,game/data/canonical/gear/spacetime_echo.json
+spacetime_exile,Spacetime Exile,red,,600,180,60,180,game/data/canonical/gear/spacetime_exile.json
+spartan_shield,Spartan Shield,blue,,200,20,20,20,game/data/canonical/gear/spartan_shield.json
+spring_longsword,Spring Longsword,orange,,200,10,20,20,game/data/canonical/gear/spring_longsword.json
+springfield_rifle,Springfield Rifle,blue,,100,30,10,30,game/data/canonical/gear/springfield_rifle.json
+stage_hat,Stage Hat,orange,,100,10,10,10,game/data/canonical/gear/stage_hat.json
+stardust_arrow,Stardust Arrow,orange,,400,120,40,120,game/data/canonical/gear/stardust_arrow.json
+static_belt,Static Belt,orange,,50,5,5,25,game/data/canonical/gear/static_belt.json
+strength_master_s_sword,Strength Master's Sword,red,,600,300,60,60,game/data/canonical/gear/strength_master_s_sword.json
+strength_sword,Strength Sword,orange,,50,25,5,5,game/data/canonical/gear/strength_sword.json
+strong_round_shield,Strong Round Shield,orange,,100,10,50,10,game/data/canonical/gear/strong_round_shield.json
+subspace_blade,Subspace Blade,red,,600,180,60,180,game/data/canonical/gear/subspace_blade.json
+sun_mirror_armor,Sun Mirror Armor,purple,,600,20,60,20,game/data/canonical/gear/sun_mirror_armor.json
+super_warrior,Super Warrior,red,,600,60,300,60,game/data/canonical/gear/super_warrior.json
+switchblade,Switchblade,green,,0,30,0,10,game/data/canonical/gear/switchblade.json
+sword_cane,Sword Cane,blue,,100,30,10,30,game/data/canonical/gear/sword_cane.json
+sword_futsuno,Sword Futsuno,red,,600,180,60,180,game/data/canonical/gear/sword_futsuno.json
+tactical_boots,Tactical Boots,gray,,0,0,0,20,game/data/canonical/gear/tactical_boots.json
+tactical_helmet,Tactical Helmet,blue,,200,20,20,20,game/data/canonical/gear/tactical_helmet.json
+tactical_vest,Tactical Vest,green,,300,0,10,0,game/data/canonical/gear/tactical_vest.json
+teslla,Teslla,orange,,600,20,20,60,game/data/canonical/gear/teslla.json
+texan_chainsaw,Texan Chainsaw,purple,,200,10,20,20,game/data/canonical/gear/texan_chainsaw.json
+the_buried,The Buried,orange,,300,30,10,10,game/data/canonical/gear/the_buried.json
+the_great_collector,The Great Collector,red,,1800,60,180,60,game/data/canonical/gear/the_great_collector.json
+the_great_engineer,The Great Engineer,red,,600,60,60,300,game/data/canonical/gear/the_great_engineer.json
+the_great_entertainer,The Great Entertainer,red,,1200,120,120,120,game/data/canonical/gear/the_great_entertainer.json
+the_great_magician,The Great Magician,red,,1200,120,120,120,game/data/canonical/gear/the_great_magician.json
+the_great_scientist,The Great Scientist,red,,1800,60,60,180,game/data/canonical/gear/the_great_scientist.json
+thorn,Thorn,orange,,1000,20,20,20,game/data/canonical/gear/thorn.json
+thunder_belt,Thunder Belt,red,,600,60,60,300,game/data/canonical/gear/thunder_belt.json
+time_amulet,Time Amulet,orange,,1200,40,120,40,game/data/canonical/gear/time_amulet.json
+time_blade,Time Blade,blue,,200,20,20,20,game/data/canonical/gear/time_blade.json
+time_cog,Time Cog,green,,300,0,10,0,game/data/canonical/gear/time_cog.json
+time_flute,Time Flute,purple,,200,20,20,20,game/data/canonical/gear/time_flute.json
+time_hand,Time Hand,green,,0,30,0,10,game/data/canonical/gear/time_hand.json
+time_wanderer,Time Wanderer,red,,1000,200,200,200,game/data/canonical/gear/time_wanderer.json
+time_wheel,Time Wheel,blue,,100,30,10,30,game/data/canonical/gear/time_wheel.json
+top_hat,Top Hat,gray,,0,20,0,0,game/data/canonical/gear/top_hat.json
+traveler_outfit,Traveler Outfit,red,,1800,60,180,60,game/data/canonical/gear/traveler_outfit.json
+tremendous_support,Tremendous Support,red,,600,60,60,300,game/data/canonical/gear/tremendous_support.json
+trident,Trident,orange,,400,200,40,40,game/data/canonical/gear/trident.json
+true_sakabato,True Sakabato,red,,600,300,60,60,game/data/canonical/gear/true_sakabato.json
+tuxedo,Tuxedo,blue,,200,20,20,20,game/data/canonical/gear/tuxedo.json
+twin_tip_dagger,Twin Tip Dagger,gray,,0,20,0,0,game/data/canonical/gear/twin_tip_dagger.json
+undead_staff,Undead Staff,orange,,300,30,10,10,game/data/canonical/gear/undead_staff.json
+virgo_tech,Virgo Tech,orange,,800,80,80,80,game/data/canonical/gear/virgo_tech.json
+virtual_vision,Virtual Vision,red,,600,300,60,60,game/data/canonical/gear/virtual_vision.json
+w_tadpole_sword,W-Tadpole Sword,red,,600,300,60,60,game/data/canonical/gear/w_tadpole_sword.json
+walnut_wand,Walnut Wand,orange,,100,50,10,10,game/data/canonical/gear/walnut_wand.json
+war_scythes,War Scythes,blue,,200,20,20,20,game/data/canonical/gear/war_scythes.json
+warmonger_s_gun,Warmonger's Gun,red,,600,180,60,180,game/data/canonical/gear/warmonger_s_gun.json
+warrior_ring,Warrior Ring,green,,50,15,5,15,game/data/canonical/gear/warrior_ring.json
+white_pearl,White Pearl,green,,150,5,15,5,game/data/canonical/gear/white_pearl.json
+windsor_s_cape,Windsor's cape,orange,,800,80,80,80,game/data/canonical/gear/windsor_s_cape.json
+wisdom_cloak,Wisdom Cloak,orange,,800,80,80,80,game/data/canonical/gear/wisdom_cloak.json
+wizard_ring,Wizard Ring,blue,,300,10,30,10,game/data/canonical/gear/wizard_ring.json
+wooden_ring,Wooden Ring,gray,,100,0,10,0,game/data/canonical/gear/wooden_ring.json
+workout_top,Workout Top,orange,,300,10,30,10,game/data/canonical/gear/workout_top.json
+wu_scimitar,Wu Scimitar,green,,0,30,0,10,game/data/canonical/gear/wu_scimitar.json

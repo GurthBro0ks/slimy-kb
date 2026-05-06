@@ -1,0 +1,6269 @@
+{
+  "entity_type": "gear",
+  "generated_at": "2026-05-06T17:03:19.862721+00:00",
+  "record_count": 313,
+  "records": [
+    {
+      "data_file": "game/data/canonical/gear/7_star_blade.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "7_star_blade",
+      "name": "7-Star Blade",
+      "search_keywords": [
+        "7-Star Blade",
+        "purple",
+        "{{retext|Ancient Blade|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/abyss_amulet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "abyss_amulet",
+      "name": "Abyss Amulet",
+      "search_keywords": [
+        "Abyss Amulet",
+        "purple",
+        "• [[Fissure"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/abyss_wings.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "abyss_wings",
+      "name": "Abyss Wings",
+      "search_keywords": [
+        "Abyss Wings",
+        "orange",
+        "• {{retext|Seething Bracelet|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/achilles_shield.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "achilles_shield",
+      "name": "Achilles' Shield",
+      "search_keywords": [
+        "Achilles' Shield",
+        "Exchange {{retext|Feather|purple",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/agamemnon_outfit.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "agamemnon_outfit",
+      "name": "Agamemnon Outfit",
+      "search_keywords": [
+        "Agamemnon Outfit",
+        "red",
+        "{{retext|Gold Outfit|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 100,
+        "def": 300,
+        "hp": 3000,
+        "rush": 100
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/alloy_shield.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "alloy_shield",
+      "name": "Alloy Shield",
+      "search_keywords": [
+        "Alloy Shield",
+        "Divine Neutral 0.2%",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 20,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/amulet_of_will.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "amulet_of_will",
+      "name": "Amulet of Will",
+      "search_keywords": [
+        "Amulet of Will",
+        "red",
+        "{{retext|Crystal of Will|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/amulet_of_will_1.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "amulet_of_will_1",
+      "name": "Amulet of Will +1",
+      "search_keywords": [
+        "Amulet of Will +1",
+        "red",
+        "{{retext|Amulet of Will|red"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 200,
+        "def": 200,
+        "hp": 2000,
+        "rush": 200
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/ancestral_legacy.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "ancestral_legacy",
+      "name": "Ancestral Legacy",
+      "search_keywords": [
+        "Ancestral Legacy",
+        "red",
+        "{{retext|Dwarf Mask|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 300,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/ancient_blade.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "ancient_blade",
+      "name": "Ancient Blade",
+      "search_keywords": [
+        "Ancient Blade",
+        "blue",
+        "{{retext|Wu Scimitar|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/antelope_horn_shield.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "antelope_horn_shield",
+      "name": "Antelope Horn Shield",
+      "search_keywords": [
+        "Antelope Horn Shield",
+        "Exchange {{retext|Rosary|purple",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/anti_strength_saber.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "anti_strength_saber",
+      "name": "Anti-Strength Saber",
+      "search_keywords": [
+        "Anti-Strength Saber",
+        "Reward of defeating Death Satellite",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/antimatter_armor.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "antimatter_armor",
+      "name": "Antimatter Armor",
+      "search_keywords": [
+        "Antimatter Armor",
+        "red",
+        "{{retext|Power Armor|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/antimatter_shield.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "antimatter_shield",
+      "name": "Antimatter Shield",
+      "search_keywords": [
+        "Antimatter Shield",
+        "red",
+        "{{retext|Alloy Shield|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 300,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/arabic_dagger.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "arabic_dagger",
+      "name": "Arabic Dagger",
+      "search_keywords": [
+        "Arabic Dagger",
+        "Reward of [[Kemet]] INTEL",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/arrow_of_arash.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "arrow_of_arash",
+      "name": "Arrow of Arash",
+      "search_keywords": [
+        "Arrow of Arash",
+        "orange",
+        "{{RewardIconWithText|Parsian Composite Bow|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/ashoka_s_sword.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "ashoka_s_sword",
+      "name": "Ashoka's Sword",
+      "search_keywords": [
+        "Ashoka's Sword",
+        "orange",
+        "{{retext|Mughal Scimitar|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/assassin_s_gauntlet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "assassin_s_gauntlet",
+      "name": "Assassin's Gauntlet",
+      "search_keywords": [
+        "Assassin's Gauntlet",
+        "Exchange {{retext|Parsian Carpet|purple",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/assault_rifle_model_98.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "assault_rifle_model_98",
+      "name": "Assault Rifle Model 98",
+      "search_keywords": [
+        "Assault Rifle Model 98",
+        "blue",
+        "{{retext|Motorbike Helmet|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/athena_s_spear.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "athena_s_spear",
+      "name": "Athena's Spear",
+      "search_keywords": [
+        "Athena's Spear",
+        "red",
+        "{{retext|Stardust Arrow|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/azazel_s_curse.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "azazel_s_curse",
+      "name": "Azazel's Curse",
+      "search_keywords": [
+        "Azazel's Curse",
+        "Lottery (1.56%)",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/azazel_s_pact.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "azazel_s_pact",
+      "name": "Azazel's Pact",
+      "search_keywords": [
+        "Azazel's Pact",
+        "red",
+        "{{retext|Azazel's Curse|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 180,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/b_tadpole_sword.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "b_tadpole_sword",
+      "name": "B-Tadpole Sword",
+      "search_keywords": [
+        "B-Tadpole Sword",
+        "Home Value Pack lv50 pond",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/battle_detector.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "battle_detector",
+      "name": "Battle Detector",
+      "search_keywords": [
+        "Battle Detector",
+        "orange",
+        "{{retext|Scout Goggles|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/beast_fang.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "beast_fang",
+      "name": "Beast Fang",
+      "search_keywords": [
+        "Beast Fang",
+        "gray",
+        "• [[Fissure"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/bedrock.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "bedrock",
+      "name": "Bedrock",
+      "search_keywords": [
+        "Bedrock",
+        "red",
+        "{{retext|Rock|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 300,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/bichaq.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "bichaq",
+      "name": "Bichaq",
+      "search_keywords": [
+        "Bichaq",
+        "Exchange {{Retext|Parsian Carpet|green",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/big_bounce.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "big_bounce",
+      "name": "Big Bounce",
+      "search_keywords": [
+        "Big Bounce",
+        "red",
+        "{{retext|Spring Longsword|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/black_pearl.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "black_pearl",
+      "name": "Black Pearl",
+      "search_keywords": [
+        "Black Pearl",
+        "green",
+        "• [[Fissure"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 15,
+        "def": 5,
+        "hp": 50,
+        "rush": 15
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/blade_muramasa.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "blade_muramasa",
+      "name": "Blade Muramasa",
+      "search_keywords": [
+        "Blade Muramasa",
+        "Exchange {{retext|Koban|purple",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/blade_murasame.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "blade_murasame",
+      "name": "Blade Murasame",
+      "search_keywords": [
+        "Blade Murasame",
+        "orange",
+        "{{retext|Blade Muramasa|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/blair_s_curse.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "blair_s_curse",
+      "name": "Blair's Curse",
+      "search_keywords": [
+        "Blair's Curse",
+        "red",
+        "{{retext|Butcher's Hook|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/blasphemy_eye.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "blasphemy_eye",
+      "name": "Blasphemy Eye",
+      "search_keywords": [
+        "Blasphemy Eye",
+        "Random Events, Sunday Stars 59.99$, and other misc Gear Bags",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/britland_crown.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "britland_crown",
+      "name": "Britland Crown",
+      "search_keywords": [
+        "Britland Crown",
+        "Exchange {{retext|Anchor|purple",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/broken_caladbolg.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "broken_caladbolg",
+      "name": "Broken Caladbolg",
+      "search_keywords": [
+        "Broken Caladbolg",
+        "Defeat [[Altar Fights#Demon Lords",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/broken_dragon_horn.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "broken_dragon_horn",
+      "name": "Broken Dragon Horn",
+      "search_keywords": [
+        "Broken Dragon Horn",
+        "Defeat [[Altar Fights#Demon Lords",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/broken_fiend_mirror.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "broken_fiend_mirror",
+      "name": "Broken Fiend Mirror",
+      "search_keywords": [
+        "Broken Fiend Mirror",
+        "Defeat [[Mailbox#Ratman",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/broken_godsmiter.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "broken_godsmiter",
+      "name": "Broken Godsmiter",
+      "search_keywords": [
+        "Broken Godsmiter",
+        "Defeat [[Mailbox#Ratman",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/broken_hour_hand.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "broken_hour_hand",
+      "name": "Broken Hour Hand",
+      "search_keywords": [
+        "Broken Hour Hand",
+        "Exchange {{RewardIconWithText|Time Frag Card Gray",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "rush": 20
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/broken_minute_hand.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "broken_minute_hand",
+      "name": "Broken Minute Hand",
+      "search_keywords": [
+        "Broken Minute Hand",
+        "Exchange {{RewardIconWithText|Time Frag Card Gray",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/broken_palm_leaf_fan.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "broken_palm_leaf_fan",
+      "name": "Broken Palm-Leaf Fan",
+      "search_keywords": [
+        "Broken Palm-Leaf Fan",
+        "blue",
+        "{{retext|Shattered Palm-Leaf Fan|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/broken_sageender.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "broken_sageender",
+      "name": "Broken Sageender",
+      "search_keywords": [
+        "Broken Sageender",
+        "Fully defeat [[Mailbox#Ratman",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/broken_sagekiller.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "broken_sagekiller",
+      "name": "Broken Sagekiller",
+      "search_keywords": [
+        "Broken Sagekiller",
+        "Fully defeat [[Mailbox#Ratman",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/broken_sagemurderer.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "broken_sagemurderer",
+      "name": "Broken Sagemurderer",
+      "search_keywords": [
+        "Broken Sagemurderer",
+        "Fully defeat [[Mailbox#Ratman",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/broken_sagesinker.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "broken_sagesinker",
+      "name": "Broken Sagesinker",
+      "search_keywords": [
+        "Broken Sagesinker",
+        "Fully defeat [[Mailbox#Ratman",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/broken_second_hand.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "broken_second_hand",
+      "name": "Broken Second Hand",
+      "search_keywords": [
+        "Broken Second Hand",
+        "Exchange {{RewardIconWithText|Time Frag Card Gray",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/bronze_helmet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "bronze_helmet",
+      "name": "Bronze Helmet",
+      "search_keywords": [
+        "Bronze Helmet",
+        "Exchange Feather x6 in [[Hellas]]",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/bullet_storm.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "bullet_storm",
+      "name": "Bullet Storm",
+      "search_keywords": [
+        "Bullet Storm",
+        "red",
+        "{{retext|Indv. Power Armor|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/bulletproof_vest.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "bulletproof_vest",
+      "name": "Bulletproof Vest",
+      "search_keywords": [
+        "Bulletproof Vest",
+        "Exchange {{retext|Kimchi Jar|blue",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/butcher_s_hook.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "butcher_s_hook",
+      "name": "Butcher's Hook",
+      "search_keywords": [
+        "Butcher's Hook",
+        "orange",
+        "{{retext|Texan Chainsaw|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/caesar_s_crown.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "caesar_s_crown",
+      "name": "Caesar's Crown",
+      "search_keywords": [
+        "Caesar's Crown",
+        "red",
+        "{{retext|Crown of Power|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/caeser_s_laurel.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "caeser_s_laurel",
+      "name": "Caeser's Laurel",
+      "search_keywords": [
+        "Caeser's Laurel",
+        "Reward of [[Hellas]] INTEL",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/caladbolg.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "caladbolg",
+      "name": "Caladbolg",
+      "search_keywords": [
+        "Caladbolg",
+        "red",
+        "{{retext|Broken Caladbolg|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/cayako_s_charm.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "cayako_s_charm",
+      "name": "Cayako's Charm",
+      "search_keywords": [
+        "Cayako's Charm",
+        "Divine Dragon Wish<br>[[Altar#Discount_Dragon",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/centaur_armor.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "centaur_armor",
+      "name": "Centaur Armor",
+      "search_keywords": [
+        "Centaur Armor",
+        "red",
+        "{{retext|Leather Chest Armor|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/chief.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "chief",
+      "name": "Chief",
+      "search_keywords": [
+        "Chief",
+        "Divine Order Chest 0.2%",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 200,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/claw_of_destruction.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "claw_of_destruction",
+      "name": "Claw of Destruction",
+      "search_keywords": [
+        "Claw of Destruction",
+        "red",
+        "{{retext|Crimson Dragon Claw|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/colt_revolver.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "colt_revolver",
+      "name": "Colt Revolver",
+      "search_keywords": [
+        "Colt Revolver",
+        "Tactical Boots + Smoothbore",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/conqueror_spear.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "conqueror_spear",
+      "name": "Conqueror Spear",
+      "search_keywords": [
+        "Conqueror Spear",
+        "Reward for defeating [[Mailbox#Loyal Retainers",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/couple_swords.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "couple_swords",
+      "name": "Couple Swords",
+      "search_keywords": [
+        "Couple Swords",
+        "orange",
+        "{{retext|7-Star-Blade|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/cretaceous_weapon.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "cretaceous_weapon",
+      "name": "Cretaceous Weapon",
+      "search_keywords": [
+        "Cretaceous Weapon",
+        "red",
+        "{{retext|Fossil|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/crimson_dragon_claw.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "crimson_dragon_claw",
+      "name": "Crimson Dragon Claw",
+      "search_keywords": [
+        "Crimson Dragon Claw",
+        "Reward upon [[Altar#Divine_Dragon",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/crimson_haori_jacket.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "crimson_haori_jacket",
+      "name": "Crimson Haori Jacket",
+      "search_keywords": [
+        "Crimson Haori Jacket",
+        "blue",
+        "{{retext|Golden Yamato Armor|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/crowbar.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "crowbar",
+      "name": "Crowbar",
+      "search_keywords": [
+        "Crowbar",
+        "Exchange Kimchi Jar x6 in [[Koryeo]]",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/crown_of_eternal_daylight.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "crown_of_eternal_daylight",
+      "name": "Crown of Eternal Daylight",
+      "search_keywords": [
+        "Crown of Eternal Daylight",
+        "red",
+        "{{retext|Lion's Crown|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/crown_of_power.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "crown_of_power",
+      "name": "Crown of Power",
+      "search_keywords": [
+        "Crown of Power",
+        "Divine Chaos 0.4%",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/crusader_ring.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "crusader_ring",
+      "name": "Crusader Ring",
+      "search_keywords": [
+        "Crusader Ring",
+        "blue",
+        "• {{retext|Black Pearl|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/crystal_lens.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "crystal_lens",
+      "name": "Crystal Lens",
+      "search_keywords": [
+        "Crystal Lens",
+        "[[Vending Machine]] Purchase",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/crystal_of_will.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "crystal_of_will",
+      "name": "Crystal of Will",
+      "search_keywords": [
+        "Crystal of Will",
+        "orange",
+        "• Reward of some [[Fissure]] incidents<br>• Reward of offering Gaia's Tainted Organs at the [[Altar]]"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/curator_s_helmet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "curator_s_helmet",
+      "name": "Curator's Helmet",
+      "search_keywords": [
+        "50k Museum Medals in [[Museum",
+        "Curator's Helmet",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 120,
+        "hp": 1200,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/damascus_knife.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "damascus_knife",
+      "name": "Damascus Knife",
+      "search_keywords": [
+        "Damascus Knife",
+        "orange",
+        "{{retext|Guardian's Longsword|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/dark_strength.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "dark_strength",
+      "name": "Dark Strength",
+      "search_keywords": [
+        "Dark Strength",
+        "red",
+        "{{retext|Anti-Strength Saber|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/death_shroud.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "death_shroud",
+      "name": "Death Shroud",
+      "search_keywords": [
+        "Death Shroud",
+        "Dracula victory reward",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 500,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/deepsea_helmet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "deepsea_helmet",
+      "name": "Deepsea Helmet",
+      "search_keywords": [
+        "Deepsea Helmet",
+        "red",
+        "{{retext|Diver|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 1800,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/demon_god_amulet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "demon_god_amulet",
+      "name": "Demon God Amulet",
+      "search_keywords": [
+        "Demon God Amulet",
+        "red",
+        "{{retext|Demon God Crystal|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/demon_god_crystal.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "demon_god_crystal",
+      "name": "Demon God Crystal",
+      "search_keywords": [
+        "Currently only available from final Lucky Clover Round",
+        "Demon God Crystal",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/demon_scythe.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "demon_scythe",
+      "name": "Demon Scythe",
+      "search_keywords": [
+        "Demon Scythe",
+        "Tier 3 Demon Research",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 30,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/dim_godsmiter.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "dim_godsmiter",
+      "name": "Dim Godsmiter",
+      "search_keywords": [
+        "Dim Godsmiter",
+        "purple",
+        "{{retext|Broken Sagekiller|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/dim_ironcutter.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "dim_ironcutter",
+      "name": "Dim Ironcutter",
+      "search_keywords": [
+        "Dim Ironcutter",
+        "Fully defeat [[Mailbox#Ratman",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/dim_rope_of_truth.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "dim_rope_of_truth",
+      "name": "Dim Rope of Truth",
+      "search_keywords": [
+        "Dim Rope of Truth",
+        "Fully defeat [[Mailbox#Ratman",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/dim_trident.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "dim_trident",
+      "name": "Dim Trident",
+      "search_keywords": [
+        "Dim Trident",
+        "Fully defeat [[Mailbox#Ratman",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/district_9.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "district_9",
+      "name": "District 9",
+      "search_keywords": [
+        "District 9",
+        "red",
+        "{{retext|Pulse Rifle|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/diver.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "diver",
+      "name": "Diver",
+      "search_keywords": [
+        "Diver",
+        "Divine Neutral Chest (0.8% chance)",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 300,
+        "rush": 30
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/dracula_cape.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "dracula_cape",
+      "name": "Dracula Cape",
+      "search_keywords": [
+        "Dracula Cape",
+        "red",
+        "{{retext|Death Shroud|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 3000,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/dragon_fang_dagger.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "dragon_fang_dagger",
+      "name": "Dragon Fang Dagger",
+      "search_keywords": [
+        "Dragon Fang Dagger",
+        "Tier 3 Dragon Research Reward",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/dragon_horn.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "dragon_horn",
+      "name": "Dragon Horn",
+      "search_keywords": [
+        "Dragon Horn",
+        "red",
+        "{{retext|Dragon Horn|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/drazgul_fang.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "drazgul_fang",
+      "name": "Drazgul Fang",
+      "search_keywords": [
+        "Drazgul Fang",
+        "Gear Value Pack III(100$!!!)",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 200
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/duckbill_axe.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "duckbill_axe",
+      "name": "Duckbill Axe",
+      "search_keywords": [
+        "Duckbill Axe",
+        "blue",
+        "{{retext|Poisoned Dagger|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/dwarf_mask.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "dwarf_mask",
+      "name": "Dwarf Mask",
+      "search_keywords": [
+        "Dwarf Mask",
+        "Lottery (0.75%)",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 5,
+        "def": 25,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/electric_hammer.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "electric_hammer",
+      "name": "Electric Hammer",
+      "search_keywords": [
+        "Electric Hammer",
+        "Lottery 1.56%",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 200
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/elegant_gloves.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "elegant_gloves",
+      "name": "Elegant Gloves",
+      "search_keywords": [
+        "Divine Order (1.6%)",
+        "Elegant Gloves",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/elven_cape.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "elven_cape",
+      "name": "Elven Cape",
+      "search_keywords": [
+        "Divine Order 0.8%",
+        "Elven Cape",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/empress_gloves.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "empress_gloves",
+      "name": "Empress Gloves",
+      "search_keywords": [
+        "Empress Gloves",
+        "red",
+        "{{retext|Elegant Gloves|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/empress_slippers.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "empress_slippers",
+      "name": "Empress' Slippers",
+      "search_keywords": [
+        "Empress' Slippers",
+        "red",
+        "{{retext|Slippers|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/eternal_empire_staff.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "eternal_empire_staff",
+      "name": "Eternal Empire Staff",
+      "search_keywords": [
+        "Eternal Empire Staff",
+        "orange",
+        "{{retext|Caeser's Laurel|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/eternal_return.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "eternal_return",
+      "name": "Eternal Return",
+      "search_keywords": [
+        "Eternal Return",
+        "Rift]], DMG +8%<br>In the [[Time Rift",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/excaladbolg.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "excaladbolg",
+      "name": "Excaladbolg",
+      "search_keywords": [
+        "Excaladbolg",
+        "red",
+        "{{retext|Exploding Rage|red"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 100,
+        "hp": 1000,
+        "rush": 300
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/excalibur.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "excalibur",
+      "name": "Excalibur",
+      "search_keywords": [
+        "Excalibur",
+        "Reward of defeating Excalibra<br>[[Altar#Discount_Dragon",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/excalibur_ex.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "excalibur_ex",
+      "name": "Excalibur EX",
+      "search_keywords": [
+        "Excalibur EX",
+        "red",
+        "{{retext|Excalibur EX|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/exploding_rage.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "exploding_rage",
+      "name": "Exploding Rage",
+      "search_keywords": [
+        "Exploding Rage",
+        "red",
+        "{{retext|Fire of Rage|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/eye_of_akamoddo_amulet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "eye_of_akamoddo_amulet",
+      "name": "Eye of Akamoddo Amulet",
+      "search_keywords": [
+        "Eye of Akamoddo Amulet",
+        "red",
+        "{{retext|Time Amulet|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/eye_of_horus.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "eye_of_horus",
+      "name": "Eye of Horus",
+      "search_keywords": [
+        "Eye of Horus",
+        "orange",
+        "• Lottery Machine (1.56% chance)<br>• Gear Chest (1.6% chance)<br>• Divine Chests (1.8% chance)"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/fang_of_tiamat.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "fang_of_tiamat",
+      "name": "Fang of Tiamat",
+      "search_keywords": [
+        "Fang of Tiamat",
+        "red",
+        "{{retext|Dragon Fang Dagger|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/feline_shield.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "feline_shield",
+      "name": "Feline Shield",
+      "search_keywords": [
+        "Feline Shield",
+        "Reward of [[Parsia]] INTEL",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/fire_of_rage.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "fire_of_rage",
+      "name": "Fire of Rage",
+      "search_keywords": [
+        "Defeat [[Altar Fights#Demon Lords",
+        "Fire of Rage",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/flower_crown.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "flower_crown",
+      "name": "Flower Crown",
+      "search_keywords": [
+        "Flower Crown",
+        "gray",
+        "• [[Fissure"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 100,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/fortress.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "fortress",
+      "name": "Fortress",
+      "search_keywords": [
+        "Fortress",
+        "red",
+        "{{retext|Strong Round Shield|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 300,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/fossil.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "fossil",
+      "name": "Fossil",
+      "search_keywords": [
+        "Divine Chaos 0.2%",
+        "Fossil",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/freddy_s_claw.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "freddy_s_claw",
+      "name": "Freddy's Claw",
+      "search_keywords": [
+        "Freddy's Claw",
+        "blue",
+        "{{retext|Jack's glove|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/fresnal_lens.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "fresnal_lens",
+      "name": "Fresnal Lens",
+      "search_keywords": [
+        "Fresnal Lens",
+        "[[Vending Machine]] Purchase",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/gas_mask.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "gas_mask",
+      "name": "Gas Mask",
+      "search_keywords": [
+        "Gas Mask",
+        "Obtained from Home Chest",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/gauss_c14.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "gauss_c14",
+      "name": "Gauss C14",
+      "search_keywords": [
+        "Gauss C14",
+        "Tier 3 Mecha Research",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/gauss_m72.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "gauss_m72",
+      "name": "Gauss M72",
+      "search_keywords": [
+        "Gauss M72",
+        "red",
+        "{{retext|Gauss C14|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/gear_ring.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "gear_ring",
+      "name": "Gear Ring",
+      "search_keywords": [
+        "Divine Order Chest (0.2% chance)",
+        "Gear Ring",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 200
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/genji_armor.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "genji_armor",
+      "name": "Genji Armor",
+      "search_keywords": [
+        "Genji Armor",
+        "orange",
+        "{{retext|Genji Gloves|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/genji_gloves.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "genji_gloves",
+      "name": "Genji Gloves",
+      "search_keywords": [
+        "Genji Gloves",
+        "Reward of [[Yamato]] INTEL \"Genji II\"",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/genji_helmet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "genji_helmet",
+      "name": "Genji Helmet",
+      "search_keywords": [
+        "Genji Helmet",
+        "Reward of [[Yamato]] INTEL \"Genji I\"",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/genji_shield.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "genji_shield",
+      "name": "Genji Shield",
+      "search_keywords": [
+        "Genji Shield",
+        "Reward of [[Yamato]] INTEL \"Genji III\"",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/gentleman_s_staff.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "gentleman_s_staff",
+      "name": "Gentleman's Staff",
+      "search_keywords": [
+        "Exchange Anchor x6 in [[Britland]]",
+        "Gentleman's Staff",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/gilded_belt.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "gilded_belt",
+      "name": "Gilded Belt",
+      "search_keywords": [
+        "Gilded Belt",
+        "red",
+        "{{retext|Lizard Belt|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 3000,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/gold_outfit.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "gold_outfit",
+      "name": "Gold Outfit",
+      "search_keywords": [
+        "Defeat Agamemnon Mask Civilization Mirage",
+        "Gold Outfit",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 120,
+        "hp": 1200,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/golden_assault_rifle.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "golden_assault_rifle",
+      "name": "Golden Assault Rifle",
+      "search_keywords": [
+        "Golden Assault Rifle",
+        "purple",
+        "{{retext|Bulletproof Vest|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/golden_bronze_dagger.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "golden_bronze_dagger",
+      "name": "Golden Bronze Dagger",
+      "search_keywords": [
+        "Golden Bronze Dagger",
+        "Reward of [[Kemet]] INTEL",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/golden_drazgul_fang.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "golden_drazgul_fang",
+      "name": "Golden Drazgul Fang",
+      "search_keywords": [
+        "Golden Drazgul Fang",
+        "red",
+        "{{retext|Drazgul Fang|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/golden_yamato_armor.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "golden_yamato_armor",
+      "name": "Golden Yamato Armor",
+      "search_keywords": [
+        "Golden Yamato Armor",
+        "Light Yamato Armo + Royal Underwear",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/grandpire_s_robe.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "grandpire_s_robe",
+      "name": "Grandpire's Robe",
+      "search_keywords": [
+        "Grandpire's Robe",
+        "red",
+        "{{retext|Sailor Suit|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/guardian_s_longsword.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "guardian_s_longsword",
+      "name": "Guardian's Longsword",
+      "search_keywords": [
+        "Guardian's Longsword",
+        "purple",
+        "{{retext|Ax|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/hammer_of_frenzy.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "hammer_of_frenzy",
+      "name": "Hammer of Frenzy",
+      "search_keywords": [
+        "Divine Neutral (0.4%)",
+        "Hammer of Frenzy",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/hannibel_s_scalpel.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "hannibel_s_scalpel",
+      "name": "Hannibel's Scalpel",
+      "search_keywords": [
+        "Dragon Wish Reward<br>[[Altar#Discount_Dragon",
+        "Hannibel's Scalpel",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/heart_of_nature.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "heart_of_nature",
+      "name": "Heart of Nature",
+      "search_keywords": [
+        "Heart of Nature",
+        "red",
+        "{{retext|Thorn|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 3000,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/heart_protection_mirror.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "heart_protection_mirror",
+      "name": "Heart-Protection Mirror",
+      "search_keywords": [
+        "Exchange {{retext|Mahjong|green",
+        "Heart-Protection Mirror",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/heaven_amulet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "heaven_amulet",
+      "name": "Heaven Amulet",
+      "search_keywords": [
+        "Heaven Amulet",
+        "purple",
+        "• [[Fissure"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/heaven_wings.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "heaven_wings",
+      "name": "Heaven Wings",
+      "search_keywords": [
+        "Heaven Wings",
+        "orange",
+        "•{{retext|Seething Bracelet|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 120,
+        "hp": 1200,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/heavy_infantry_helmet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "heavy_infantry_helmet",
+      "name": "Heavy Infantry Helmet",
+      "search_keywords": [
+        "Exchange {{retext|Feather|green",
+        "Heavy Infantry Helmet",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/hector_s_spear.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "hector_s_spear",
+      "name": "Hector's Spear",
+      "search_keywords": [
+        "Hector's Spear",
+        "purple",
+        "{{retext|Macedonian Spear|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/heraclius_silver_staff.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "heraclius_silver_staff",
+      "name": "Heraclius' Silver Staff",
+      "search_keywords": [
+        "Heraclius' Silver Staff",
+        "Reward of [[Hellas]] INTEL",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/holographic_lens.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "holographic_lens",
+      "name": "Holographic Lens",
+      "search_keywords": [
+        "Holographic Lens",
+        "[[Vending Machine]] Purchase",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/holographic_tactical_glasses.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "holographic_tactical_glasses",
+      "name": "Holographic Tactical Glasses",
+      "search_keywords": [
+        "Holographic Tactical Glasses",
+        "Reward of [[Murika]] INTEL",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/horse_helmet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "horse_helmet",
+      "name": "Horse Helmet",
+      "search_keywords": [
+        "Horse Helmet",
+        "orange",
+        "{{retext|Arabic Dagger|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/hydra_s_gloves.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "hydra_s_gloves",
+      "name": "Hydra's Gloves",
+      "search_keywords": [
+        "Hydra's Gloves",
+        "red",
+        "{{retext|Leviathan Gloves|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/ice_skates.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "ice_skates",
+      "name": "Ice Skates",
+      "search_keywords": [
+        "Exchange Kimchi Jar x5 in [[Koryeo]]",
+        "Ice Skates",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/icy_bracelet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "icy_bracelet",
+      "name": "Icy Bracelet",
+      "search_keywords": [
+        "Icy Bracelet",
+        "purple",
+        "• {{retext|Wizard Ring|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/imitation_vision.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "imitation_vision",
+      "name": "Imitation Vision",
+      "search_keywords": [
+        "Gene Training Value Pack II ($14.99)",
+        "Imitation Vision",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/incredible_key.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "incredible_key",
+      "name": "Incredible Key",
+      "search_keywords": [
+        "Incredible Key",
+        "red",
+        "{{retext|Maze Key|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 300,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/indra_s_crown.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "indra_s_crown",
+      "name": "Indra's Crown",
+      "search_keywords": [
+        "Exchange {{retext|Rosary|orange",
+        "Indra's Crown",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/indv_high_explosive_rifle.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "indv_high_explosive_rifle",
+      "name": "Indv. High-explosive Rifle",
+      "search_keywords": [
+        "Indv. High-explosive Rifle",
+        "orange",
+        "{{retext|M4 Carbine|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/indv_power_armor.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "indv_power_armor",
+      "name": "Indv. Power Armor",
+      "search_keywords": [
+        "Indv. Power Armor",
+        "orange",
+        "{{retext|Holograhic Tactical Glasses|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/infrared_lens.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "infrared_lens",
+      "name": "Infrared Lens",
+      "search_keywords": [
+        "Infrared Lens",
+        "[[Vending Machine]]",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/iron_helmet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "iron_helmet",
+      "name": "Iron Helmet",
+      "search_keywords": [
+        "Exchange Mahjong x6 in [[Cathay]]",
+        "Iron Helmet",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/iron_ring.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "iron_ring",
+      "name": "Iron Ring",
+      "search_keywords": [
+        "Iron Ring",
+        "gray",
+        "• [[Fissure"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/iron_track.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "iron_track",
+      "name": "Iron Track",
+      "search_keywords": [
+        "Divine Order Chest (0.8% chance)",
+        "Iron Track",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 100,
+        "rush": 50
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/jack_s_gloves.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "jack_s_gloves",
+      "name": "Jack's Gloves",
+      "search_keywords": [
+        "Dragon Wish Reward<br>[[Altar#Discount_Dragon",
+        "Jack's Gloves",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/jade_saber.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "jade_saber",
+      "name": "Jade Saber",
+      "search_keywords": [
+        "Jade Saber",
+        "orange",
+        "{{RewardIconWithText|Royal Wootz Blade|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/jason_s_mask.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "jason_s_mask",
+      "name": "Jason's Mask",
+      "search_keywords": [
+        "Dragon Wish Reward<br>[[Altar#Discount_Dragon",
+        "Jason's Mask",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/javelin.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "javelin",
+      "name": "Javelin",
+      "search_keywords": [
+        "Exchange Feather x5 in [[Hellas]]",
+        "Javelin",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/jung_geun_s_gun.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "jung_geun_s_gun",
+      "name": "Jung-geun's Gun",
+      "search_keywords": [
+        "Jung-geun's Gun",
+        "orange",
+        "{{retext|Gas Mask|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/justinian_s_robe.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "justinian_s_robe",
+      "name": "Justinian's Robe",
+      "search_keywords": [
+        "Justinian's Robe",
+        "Reward of [[Hellas]] INTEL",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/khopesh.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "khopesh",
+      "name": "Khopesh",
+      "search_keywords": [
+        "Exchange Ankh x5 in [[Kemet]]",
+        "Khopesh",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/know_it_all_device.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "know_it_all_device",
+      "name": "Know-It-All Device",
+      "search_keywords": [
+        "Know-It-All Device",
+        "red",
+        "{{retext|Battle Detector|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/kukri.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "kukri",
+      "name": "Kukri",
+      "search_keywords": [
+        "Kukri",
+        "blue",
+        "{{retext|Pata|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/leather_chest_armor.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "leather_chest_armor",
+      "name": "Leather Chest Armor",
+      "search_keywords": [
+        "Divine Chaos (1.6%)",
+        "Leather Chest Armor",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 15,
+        "def": 5,
+        "hp": 50,
+        "rush": 15
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/leather_shield.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "leather_shield",
+      "name": "Leather Shield",
+      "search_keywords": [
+        "Exchange {{retext|Ankh|green",
+        "Leather Shield",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/lee_enfield_rifle.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "lee_enfield_rifle",
+      "name": "Lee Enfield Rifle",
+      "search_keywords": [
+        "Gentleman's Staff + Top Hat",
+        "Lee Enfield Rifle",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/legion_javelins.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "legion_javelins",
+      "name": "Legion Javelins",
+      "search_keywords": [
+        "Javelin + Bronze Helmet",
+        "Legion Javelins",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/leviathan_gloves.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "leviathan_gloves",
+      "name": "Leviathan Gloves",
+      "search_keywords": [
+        "Divine Chaos (0.4%)",
+        "Leviathan Gloves",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/lifebuoy.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "lifebuoy",
+      "name": "Lifebuoy",
+      "search_keywords": [
+        "Lifebuoy",
+        "Lottery 0.75%",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 5,
+        "def": 15,
+        "hp": 150,
+        "rush": 5
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/light_yamato_armor.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "light_yamato_armor",
+      "name": "Light Yamato Armor",
+      "search_keywords": [
+        "Exchange Koban x5 in [[Yamato]]",
+        "Light Yamato Armor",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/linen_robe.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "linen_robe",
+      "name": "Linen Robe",
+      "search_keywords": [
+        "Exchange Ankh x6 in [[Kemet]]",
+        "Linen Robe",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/lion_king_s_sword.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "lion_king_s_sword",
+      "name": "Lion King's Sword",
+      "search_keywords": [
+        "Lion King's Sword",
+        "red",
+        "{{retext|Damascus Knife|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/lion_s_crown.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "lion_s_crown",
+      "name": "Lion's Crown",
+      "search_keywords": [
+        "Lion's Crown",
+        "orange",
+        "{{retext|Shotgun Umbrella|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/lizard_belt.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "lizard_belt",
+      "name": "Lizard Belt",
+      "search_keywords": [
+        "Divine Chaos (1.6%)",
+        "Lizard Belt",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 5,
+        "def": 5,
+        "hp": 250,
+        "rush": 5
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/long_range_scope.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "long_range_scope",
+      "name": "Long Range Scope",
+      "search_keywords": [
+        "Exchange {{retext|Bullet|purple",
+        "Long Range Scope",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/lotus_platform.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "lotus_platform",
+      "name": "Lotus Platform",
+      "search_keywords": [
+        "Defeat [[Mailbox#Ratman",
+        "Lotus Platform",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 5,
+        "def": 5,
+        "hp": 150,
+        "rush": 15
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/lotus_platform_iii.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "lotus_platform_iii",
+      "name": "Lotus Platform III",
+      "search_keywords": [
+        "Lotus Platform III",
+        "blue",
+        "{{retext|Lotus Platform|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 300,
+        "rush": 30
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/lotus_platform_ix.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "lotus_platform_ix",
+      "name": "Lotus Platform IX",
+      "search_keywords": [
+        "Lotus Platform IX",
+        "orange",
+        "{{retext|Lotus Platform VI|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/lotus_platform_vi.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "lotus_platform_vi",
+      "name": "Lotus Platform VI",
+      "search_keywords": [
+        "Lotus Platform VI",
+        "purple",
+        "{{retext|Lotus Platform III|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/lotus_platform_xii.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "lotus_platform_xii",
+      "name": "Lotus Platform XII",
+      "search_keywords": [
+        "Lotus Platform XII",
+        "red",
+        "{{retext|Lotus Platform IX|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 1800,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/m4_carbine.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "m4_carbine",
+      "name": "M4 Carbine",
+      "search_keywords": [
+        "M4 Carbine",
+        "purple",
+        "{{retext|Springfield Rifle|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/macedonian_spear.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "macedonian_spear",
+      "name": "Macedonian Spear",
+      "search_keywords": [
+        "In [[Hellas]], DMG +2%<br>Every Costume Stat +2%",
+        "Macedonian Spear",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/magician.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "magician",
+      "name": "Magician",
+      "search_keywords": [
+        "Divine Neutral 0.4%",
+        "Magician",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/mahatma_s_robe.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "mahatma_s_robe",
+      "name": "Mahatma's Robe",
+      "search_keywords": [
+        "Exchange {{retext|Rosary|blue",
+        "Mahatma's Robe",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/mark_ii.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "mark_ii",
+      "name": "Mark II",
+      "search_keywords": [
+        "Lottery (0.71%)",
+        "Mark II",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/mark_iv.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "mark_iv",
+      "name": "Mark IV",
+      "search_keywords": [
+        "Mark IV",
+        "red",
+        "{{retext|Mark II|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/maze_key.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "maze_key",
+      "name": "Maze Key",
+      "search_keywords": [
+        "Maze Key",
+        "Supreme Relic #8",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 200,
+        "def": 200,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/mechanical_exoskeleton.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "mechanical_exoskeleton",
+      "name": "Mechanical Exoskeleton",
+      "search_keywords": [
+        "Mechanical Exoskeleton",
+        "Reward of [[Murika]] INTEL",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/michael_s_earrings.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "michael_s_earrings",
+      "name": "Michael's Earrings",
+      "search_keywords": [
+        "Michael's Earrings",
+        "red",
+        "{{retext|Saint's Earring|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/millennium_ring.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "millennium_ring",
+      "name": "Millennium Ring",
+      "search_keywords": [
+        "Millennium Ring",
+        "Rift]], Snail ATK +120<br>In the [[Time Rift",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/million_volts.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "million_volts",
+      "name": "Million Volts",
+      "search_keywords": [
+        "Million Volts",
+        "red",
+        "{{retext|Electric Hammer|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/mind_control_dagger.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "mind_control_dagger",
+      "name": "Mind Control Dagger",
+      "search_keywords": [
+        "Mind Control Dagger",
+        "Tier 3 Mutant Research",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/mithraic_bow_and_spear.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "mithraic_bow_and_spear",
+      "name": "Mithraic Bow & Spear",
+      "search_keywords": [
+        "Mithraic Bow & Spear",
+        "red",
+        "{{retext|Jade Spear|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/motorbike_helmet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "motorbike_helmet",
+      "name": "Motorbike Helmet",
+      "search_keywords": [
+        "Exchange {{retext|Kimchi Jar|green",
+        "Motorbike Helmet",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/mughal_scimitar.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "mughal_scimitar",
+      "name": "Mughal Scimitar",
+      "search_keywords": [
+        "Mughal Scimitar",
+        "purple",
+        "{{retext|Kukri|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/mughal_soldier_helmet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "mughal_soldier_helmet",
+      "name": "Mughal Soldier Helmet",
+      "search_keywords": [
+        "Exchange {{retext|Rosary|green",
+        "Mughal Soldier Helmet",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/multifunction_goggles.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "multifunction_goggles",
+      "name": "Multifunction Goggles",
+      "search_keywords": [
+        "Multifunction Goggles",
+        "blue",
+        "{{retext|Crystal Lens|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/ninjutsu_armband.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "ninjutsu_armband",
+      "name": "Ninjutsu Armband",
+      "search_keywords": [
+        "Exchange {{retext|Koban|green",
+        "Ninjutsu Armband",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/norris_chuck.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "norris_chuck",
+      "name": "Norris-chuck",
+      "search_keywords": [
+        "Norris-chuck",
+        "red",
+        "{{retext|Nun-chuck|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/nun_chuck.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "nun_chuck",
+      "name": "Nun-chuck",
+      "search_keywords": [
+        "Defeat Sewer Turtle #4",
+        "Nun-chuck",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/ogma_s_cloak.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "ogma_s_cloak",
+      "name": "Ogma's Cloak",
+      "search_keywords": [
+        "Ogma's Cloak",
+        "red",
+        "{{retext|Wisdom Cloak|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/oldman_wand.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "oldman_wand",
+      "name": "Oldman Wand",
+      "search_keywords": [
+        "Oldman Wand",
+        "red",
+        "{{retext|Walnut Wand|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/overlord_s_hook.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "overlord_s_hook",
+      "name": "Overlord's Hook",
+      "search_keywords": [
+        "Overlord's Hook",
+        "red",
+        "{{retext|Pirate|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/parsian_composite_bow.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "parsian_composite_bow",
+      "name": "Parsian Composite Bow",
+      "search_keywords": [
+        "Parsian Composite Bow",
+        "Reward of [[Parsia]] INTEL",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/parsian_kite_shield.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "parsian_kite_shield",
+      "name": "Parsian Kite Shield",
+      "search_keywords": [
+        "Exchange x6 in [[Parsia]]",
+        "Parsian Kite Shield",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/parsian_pike.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "parsian_pike",
+      "name": "Parsian Pike",
+      "search_keywords": [
+        "Exchange x5 in [[Parsia]]",
+        "Parsian Pike",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "rush": 20
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/pasgt_helmet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "pasgt_helmet",
+      "name": "PASGT Helmet",
+      "search_keywords": [
+        "Exchange {{retext|Bullet|blue",
+        "PASGT Helmet",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/pata.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "pata",
+      "name": "Pata",
+      "search_keywords": [
+        "Pata",
+        "Twin Tip Dagger + Sikh Turban",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/peacock_quill.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "peacock_quill",
+      "name": "Peacock Quill",
+      "search_keywords": [
+        "Peacock Quill",
+        "Reward of unlocking Peackock Throne",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 100
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/pesh_kabz.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "pesh_kabz",
+      "name": "Pesh-Kabz",
+      "search_keywords": [
+        "Pesh-Kabz",
+        "green",
+        "{{RewardIconWithText|Parsian Kite Shield"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/pharaoh_s_scepter.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "pharaoh_s_scepter",
+      "name": "Pharaoh's Scepter",
+      "search_keywords": [
+        "Pharaoh's Scepter",
+        "Reward of [[Kemet]] INTEL",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/pirate.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "pirate",
+      "name": "Pirate",
+      "search_keywords": [
+        "Divine Chaos Chest (0.8% chance)",
+        "Pirate",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/podao.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "podao",
+      "name": "Podao",
+      "search_keywords": [
+        "Exchange Mahjong x5 in [[Cathay]]",
+        "Podao",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/poisoned_dagger.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "poisoned_dagger",
+      "name": "Poisoned Dagger",
+      "search_keywords": [
+        "Khopesh + Linen Robe",
+        "Poisoned Dagger",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/poseidon_s_blessing.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "poseidon_s_blessing",
+      "name": "Poseidon's Blessing",
+      "search_keywords": [
+        "Poseidon's Blessing",
+        "red",
+        "{{retext|Lifebuoy|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/poseidon_s_trident.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "poseidon_s_trident",
+      "name": "Poseidon's Trident",
+      "search_keywords": [
+        "Poseidon's Trident",
+        "red",
+        "{{retext|Trident|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/power_armor.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "power_armor",
+      "name": "Power Armor",
+      "search_keywords": [
+        "Divine Chaos 0.2%",
+        "Power Armor",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/power_spinach.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "power_spinach",
+      "name": "Power Spinach",
+      "search_keywords": [
+        "Power Spinach",
+        "red",
+        "{{retext|Hammer of Frenzy|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/powered_glove.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "powered_glove",
+      "name": "Powered Glove",
+      "search_keywords": [
+        "Powered Glove",
+        "Reward of [[Murika]] INTEL",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/prayer_staff.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "prayer_staff",
+      "name": "Prayer Staff",
+      "search_keywords": [
+        "Prayer Staff",
+        "Tier 3 Angel Research",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 300,
+        "rush": 30
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/priestly_robe.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "priestly_robe",
+      "name": "Priestly Robe",
+      "search_keywords": [
+        "Exchange {{retext|Ankh|purple",
+        "Priestly Robe",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/pulse_rifle.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "pulse_rifle",
+      "name": "Pulse Rifle",
+      "search_keywords": [
+        "Pulse Rifle",
+        "defeating UFO(40 incense shots)",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/rainbow_tassel.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "rainbow_tassel",
+      "name": "Rainbow Tassel",
+      "search_keywords": [
+        "Exchange {{retext|Mahjong|blue",
+        "Rainbow Tassel",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/rama_greataxe.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "rama_greataxe",
+      "name": "Rama Greataxe",
+      "search_keywords": [
+        "Rama Greataxe",
+        "red",
+        "{{retext|Ashoka's Sword|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/ring_of_paralysis.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "ring_of_paralysis",
+      "name": "Ring of Paralysis",
+      "search_keywords": [
+        "Ring of Paralysis",
+        "red",
+        "{{retext|Ring of Stupor|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/ring_of_stupor.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "ring_of_stupor",
+      "name": "Ring of Stupor",
+      "search_keywords": [
+        "Hitman 15 victory reward",
+        "Ring of Stupor",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 100
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/rock.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "rock",
+      "name": "Rock",
+      "search_keywords": [
+        "Lottery 0.75%",
+        "Rock",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 5,
+        "def": 25,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/royal_banner.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "royal_banner",
+      "name": "Royal Banner",
+      "search_keywords": [
+        "Royal Banner",
+        "purple",
+        "{{retext|Crimson Haori Jacket|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/royal_guard_bearskin_hat.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "royal_guard_bearskin_hat",
+      "name": "Royal Guard Bearskin Hat",
+      "search_keywords": [
+        "Exchange {{retext|Anchor|green",
+        "Royal Guard Bearskin Hat",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/royal_underwear.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "royal_underwear",
+      "name": "Royal Underwear",
+      "search_keywords": [
+        "Exchange Koban x6 in [[Yamato]]",
+        "Royal Underwear",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/royal_wootz_blade.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "royal_wootz_blade",
+      "name": "Royal Wootz Blade",
+      "search_keywords": [
+        "Royal Wootz Blade",
+        "purple",
+        "{{RewardIconWithText|Shamshir|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/ruby_brooch.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "ruby_brooch",
+      "name": "Ruby Brooch",
+      "search_keywords": [
+        "Ruby Brooch",
+        "blue",
+        "• [[Fissure"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/sailor_suit.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "sailor_suit",
+      "name": "Sailor Suit",
+      "search_keywords": [
+        "Defeat [[Incense#Special Incense Events",
+        "Sailor Suit",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/saint_s_earring.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "saint_s_earring",
+      "name": "Saint's Earring",
+      "search_keywords": [
+        "Divine Order 0.4%",
+        "Saint's Earring",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/sakabato_blade.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "sakabato_blade",
+      "name": "Sakabato Blade",
+      "search_keywords": [
+        "Intercept [[Hitmen",
+        "Sakabato Blade",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/sapphire_brooch.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "sapphire_brooch",
+      "name": "Sapphire Brooch",
+      "search_keywords": [
+        "Sapphire Brooch",
+        "blue",
+        "• [[Fissure"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/scout_goggles.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "scout_goggles",
+      "name": "Scout Goggles",
+      "search_keywords": [
+        "Scout Goggles",
+        "purple",
+        "{{retext|Multifunction Goggles|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/seething_bracelet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "seething_bracelet",
+      "name": "Seething Bracelet",
+      "search_keywords": [
+        "Seething Bracelet",
+        "purple",
+        "• {{retext|Wizard Ring|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/selene_amulet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "selene_amulet",
+      "name": "Selene Amulet",
+      "search_keywords": [
+        "Selene Amulet",
+        "red",
+        "{{retext|Elven Cape|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/septreasure_peacock_quill.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "septreasure_peacock_quill",
+      "name": "Septreasure Peacock Quill",
+      "search_keywords": [
+        "Septreasure Peacock Quill",
+        "red",
+        "{{retext|Peacock Quill|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/seraph_s_light.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "seraph_s_light",
+      "name": "Seraph's Light",
+      "search_keywords": [
+        "Seraph's Light",
+        "red",
+        "{{retext|Prayer Staff|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 1800,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/serket_staff.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "serket_staff",
+      "name": "Serket Staff",
+      "search_keywords": [
+        "Serket Staff",
+        "red",
+        "{{retext|Undead Staff|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/servant_spirit_pendant.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "servant_spirit_pendant",
+      "name": "Servant Spirit Pendant",
+      "search_keywords": [
+        "Exchange {{retext|Koban|blue",
+        "Servant Spirit Pendant",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/shamshir.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "shamshir",
+      "name": "Shamshir",
+      "search_keywords": [
+        "Shamshir",
+        "blue",
+        "{{RewardIconWithText|Pesh-Kabz|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/shattered_fire_spear.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "shattered_fire_spear",
+      "name": "Shattered Fire Spear",
+      "search_keywords": [
+        "Fully defeat [[Mailbox#Ratman",
+        "Shattered Fire Spear",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/shattered_palm_leaf_fan.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "shattered_palm_leaf_fan",
+      "name": "Shattered Palm-Leaf Fan",
+      "search_keywords": [
+        "Fully defeat [[Mailbox#Ratman",
+        "Shattered Palm-Leaf Fan",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/shattered_sky_ribbon.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "shattered_sky_ribbon",
+      "name": "Shattered Sky Ribbon",
+      "search_keywords": [
+        "Fully defeat [[Mailbox#Ratman",
+        "Shattered Sky Ribbon",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/shattered_windfire_wheel.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "shattered_windfire_wheel",
+      "name": "Shattered Windfire Wheel",
+      "search_keywords": [
+        "Fully defeat [[Mailbox#Ratman",
+        "Shattered Windfire Wheel",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/shotgun_umbrella.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "shotgun_umbrella",
+      "name": "Shotgun Umbrella",
+      "search_keywords": [
+        "Shotgun Umbrella",
+        "purple",
+        "{{retext|Sword Cane|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/sikh_turban.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "sikh_turban",
+      "name": "Sikh Turban",
+      "search_keywords": [
+        "Exchange Rosary x6 in [[Bharata]]",
+        "Sikh Turban",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/silver_lion.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "silver_lion",
+      "name": "Silver Lion",
+      "search_keywords": [
+        "Exchange {{retext|Mahjong|purple",
+        "Silver Lion",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/sky_piercer.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "sky_piercer",
+      "name": "Sky Piercer",
+      "search_keywords": [
+        "Sky Piercer",
+        "red",
+        "{{retext|Conqueror Spear|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/slippers.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "slippers",
+      "name": "Slippers",
+      "search_keywords": [
+        "Divine Neutral (1.6%)",
+        "Slippers",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 5,
+        "def": 5,
+        "hp": 50,
+        "rush": 25
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/smoothbore.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "smoothbore",
+      "name": "Smoothbore",
+      "search_keywords": [
+        "Exchange Bullet x5 in [[Murika]]",
+        "Smoothbore",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/sorcerer_ring.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "sorcerer_ring",
+      "name": "Sorcerer Ring",
+      "search_keywords": [
+        "Sorcerer Ring",
+        "green",
+        "• Flower Crown + Wooden Ring<br>• Lottery Machine (0.67% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests(0.9% chance)"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 5,
+        "def": 15,
+        "hp": 150,
+        "rush": 15
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/soul_reaper.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "soul_reaper",
+      "name": "Soul Reaper",
+      "search_keywords": [
+        "Soul Reaper",
+        "red",
+        "{{retext|Demon Scythe|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 180,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/soul_walking.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "soul_walking",
+      "name": "Soul Walking",
+      "search_keywords": [
+        "Soul Walking",
+        "red",
+        "{{retext|The Buried|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/spacetime_echo.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "spacetime_echo",
+      "name": "Spacetime Echo",
+      "search_keywords": [
+        "Rift]], DMG +4%<br>In the [[Time Rift",
+        "Spacetime Echo",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/spacetime_exile.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "spacetime_exile",
+      "name": "Spacetime Exile",
+      "search_keywords": [
+        "Rift]], Snail ATK +150<br>In the [[Time Rift",
+        "Spacetime Exile",
+        "red"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/spartan_shield.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "spartan_shield",
+      "name": "Spartan Shield",
+      "search_keywords": [
+        "In [[Hellas]], DMG +2%<br>Every Costume Stat +2%",
+        "Spartan Shield",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/spring_longsword.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "spring_longsword",
+      "name": "Spring Longsword",
+      "search_keywords": [
+        "Lottery (0.52%)",
+        "Spring Longsword",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/springfield_rifle.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "springfield_rifle",
+      "name": "Springfield Rifle",
+      "search_keywords": [
+        "Springfield Rifle",
+        "blue",
+        "{{retext|Colt Revolver|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/stage_hat.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "stage_hat",
+      "name": "Stage Hat",
+      "search_keywords": [
+        "Divine Order chest 1.6%",
+        "Stage Hat",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/stardust_arrow.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "stardust_arrow",
+      "name": "Stardust Arrow",
+      "search_keywords": [
+        "Stardust Arrow",
+        "orange",
+        "{{retext|Hector's Spear|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/static_belt.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "static_belt",
+      "name": "Static Belt",
+      "search_keywords": [
+        "Divine Neutral 1.6%",
+        "Static Belt",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 5,
+        "def": 5,
+        "hp": 50,
+        "rush": 25
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/strength_master_s_sword.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "strength_master_s_sword",
+      "name": "Strength Master's Sword",
+      "search_keywords": [
+        "Strength Master's Sword",
+        "red",
+        "{{retext|Strength Sword|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/strength_sword.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "strength_sword",
+      "name": "Strength Sword",
+      "search_keywords": [
+        "Intercept [[Hitmen",
+        "Strength Sword",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/strong_round_shield.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "strong_round_shield",
+      "name": "Strong Round Shield",
+      "search_keywords": [
+        "Divine Neutral 0.8%",
+        "Strong Round Shield",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 50,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/subspace_blade.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "subspace_blade",
+      "name": "Subspace Blade",
+      "search_keywords": [
+        "Subspace Blade",
+        "red",
+        "{{retext|Mind Control Dagger|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/sun_mirror_armor.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "sun_mirror_armor",
+      "name": "Sun Mirror Armor",
+      "search_keywords": [
+        "Reward of [[Parsia]] INTEL",
+        "Sun Mirror Armor",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/super_warrior.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "super_warrior",
+      "name": "Super Warrior",
+      "search_keywords": [
+        "Super Warrior",
+        "red",
+        "{{retext|Chief|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 300,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/switchblade.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "switchblade",
+      "name": "Switchblade",
+      "search_keywords": [
+        "Ice Skates + Crowbar",
+        "Switchblade",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/sword_cane.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "sword_cane",
+      "name": "Sword Cane",
+      "search_keywords": [
+        "Sword Cane",
+        "blue",
+        "{{retext|Lee Enfield Rifle|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/sword_futsuno.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "sword_futsuno",
+      "name": "Sword Futsuno",
+      "search_keywords": [
+        "Sword Futsuno",
+        "red",
+        "{{retext|Blade Murasame|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/tactical_boots.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "tactical_boots",
+      "name": "Tactical Boots",
+      "search_keywords": [
+        "Exchange Bullet x6 in [[Murika]]",
+        "Tactical Boots",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "rush": 20
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/tactical_helmet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "tactical_helmet",
+      "name": "Tactical Helmet",
+      "search_keywords": [
+        "Exchange {{retext|Ankh|blue",
+        "Tactical Helmet",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/tactical_vest.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "tactical_vest",
+      "name": "Tactical Vest",
+      "search_keywords": [
+        "Exchange {{retext|Bullet|green",
+        "Tactical Vest",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/teslla.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "teslla",
+      "name": "Teslla",
+      "search_keywords": [
+        "Teslla",
+        "orange",
+        "{{retext|Lottery Bead Purple|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/texan_chainsaw.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "texan_chainsaw",
+      "name": "Texan Chainsaw",
+      "search_keywords": [
+        "Texan Chainsaw",
+        "purple",
+        "{{retext|Freddy's Claw|blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/the_buried.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "the_buried",
+      "name": "The Buried",
+      "search_keywords": [
+        "Divine Chaos(0.8%)",
+        "The Buried",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/the_great_collector.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "the_great_collector",
+      "name": "The Great Collector",
+      "search_keywords": [
+        "The Great Collector",
+        "red",
+        "{{retext|Curator's Helm|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/the_great_engineer.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "the_great_engineer",
+      "name": "The Great Engineer",
+      "search_keywords": [
+        "The Great Engineer",
+        "red",
+        "{{retext|Gear Ring|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/the_great_entertainer.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "the_great_entertainer",
+      "name": "The Great Entertainer",
+      "search_keywords": [
+        "The Great Entertainer",
+        "red",
+        "{{retext|Stage Hat|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/the_great_magician.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "the_great_magician",
+      "name": "The Great Magician",
+      "search_keywords": [
+        "The Great Magician",
+        "red",
+        "{{retext|Magician|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/the_great_scientist.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "the_great_scientist",
+      "name": "The Great Scientist",
+      "search_keywords": [
+        "The Great Scientist",
+        "red",
+        "{{retext|Teslla|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 1800,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/thorn.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "thorn",
+      "name": "Thorn",
+      "search_keywords": [
+        "Divine Order Chest 0.4%",
+        "Thorn",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 1000,
+        "rush": 20
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/thunder_belt.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "thunder_belt",
+      "name": "Thunder Belt",
+      "search_keywords": [
+        "Thunder Belt",
+        "red",
+        "{{retext|Static Belt|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/time_amulet.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "time_amulet",
+      "name": "Time Amulet",
+      "search_keywords": [
+        "Defeat Eye of Akamoddo Civilization Mirage",
+        "Time Amulet",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 40,
+        "def": 120,
+        "hp": 1200,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/time_blade.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "time_blade",
+      "name": "Time Blade",
+      "search_keywords": [
+        "Rift]], DMG +2%<br>In the [[Time Rift",
+        "Time Blade",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/time_cog.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "time_cog",
+      "name": "Time Cog",
+      "search_keywords": [
+        "Rift]], DMG +2%",
+        "Time Cog",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/time_flute.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "time_flute",
+      "name": "Time Flute",
+      "search_keywords": [
+        "Rift]], Snail ATK +60<br>In the [[Time Rift",
+        "Time Flute",
+        "purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple"
+    },
+    {
+      "data_file": "game/data/canonical/gear/time_hand.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "time_hand",
+      "name": "Time Hand",
+      "search_keywords": [
+        "Rift]], INTEL gained +2%",
+        "Time Hand",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/time_wanderer.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "time_wanderer",
+      "name": "Time Wanderer",
+      "search_keywords": [
+        "Time Wanderer",
+        "red",
+        "{{RewardIconWithText|Spacetime Exile|red"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 200,
+        "def": 200,
+        "hp": 1000,
+        "rush": 200
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/time_wheel.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "time_wheel",
+      "name": "Time Wheel",
+      "search_keywords": [
+        "Rift]], DMG +2%<br>In the [[Time Rift",
+        "Time Wheel",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/top_hat.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "top_hat",
+      "name": "Top Hat",
+      "search_keywords": [
+        "Exchange Anchor x5 in [[Britland]]",
+        "Top Hat",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/traveler_outfit.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "traveler_outfit",
+      "name": "Traveler Outfit",
+      "search_keywords": [
+        "Traveler Outfit",
+        "red",
+        "{{retext|Workout Top|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/tremendous_support.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "tremendous_support",
+      "name": "Tremendous Support",
+      "search_keywords": [
+        "Tremendous Support",
+        "red",
+        "{{retext|Iron Track|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/trident.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "trident",
+      "name": "Trident",
+      "search_keywords": [
+        "Trident",
+        "orange",
+        "{{retext|Dim Godsmiter|purple"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/true_sakabato.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "true_sakabato",
+      "name": "True Sakabato",
+      "search_keywords": [
+        "True Sakabato",
+        "red",
+        "{{retext|Sakabato Blade|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/tuxedo.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "tuxedo",
+      "name": "Tuxedo",
+      "search_keywords": [
+        "Exchange {{retext|Anchor|blue",
+        "Tuxedo",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/twin_tip_dagger.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "twin_tip_dagger",
+      "name": "Twin Tip Dagger",
+      "search_keywords": [
+        "Exchange Feather x5 in [[Hellas]]",
+        "Twin Tip Dagger",
+        "gray"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/undead_staff.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "undead_staff",
+      "name": "Undead Staff",
+      "search_keywords": [
+        "Tier 3 Zombie Research",
+        "Undead Staff",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/virgo_tech.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "virgo_tech",
+      "name": "Virgo Tech",
+      "search_keywords": [
+        "Reward for defeating [[Mailbox#Koryeon Commissioner",
+        "Virgo Tech",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/virtual_vision.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "virtual_vision",
+      "name": "Virtual Vision",
+      "search_keywords": [
+        "Virtual Vision",
+        "red",
+        "{{retext|Imitation Vision|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/w_tadpole_sword.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "w_tadpole_sword",
+      "name": "W-Tadpole Sword",
+      "search_keywords": [
+        "W-Tadpole Sword",
+        "red",
+        "{{retext|B-Tadpole Sword|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/walnut_wand.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "walnut_wand",
+      "name": "Walnut Wand",
+      "search_keywords": [
+        "Old Wizard victory reward",
+        "Walnut Wand",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/war_scythes.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "war_scythes",
+      "name": "War Scythes",
+      "search_keywords": [
+        "Exchange {{Retext|Parsian Carpet|blue",
+        "War Scythes",
+        "blue"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/warmonger_s_gun.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "warmonger_s_gun",
+      "name": "Warmonger's Gun",
+      "search_keywords": [
+        "Warmonger's Gun",
+        "red",
+        "{{retext|Virgo Tech|orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red"
+    },
+    {
+      "data_file": "game/data/canonical/gear/warrior_ring.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "warrior_ring",
+      "name": "Warrior Ring",
+      "search_keywords": [
+        "Warrior Ring",
+        "green",
+        "• Iron Ring + Beast Fang<br>• Lottery Machine (0.67% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests (0.9% chance)"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 15,
+        "def": 5,
+        "hp": 50,
+        "rush": 15
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/white_pearl.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "white_pearl",
+      "name": "White Pearl",
+      "search_keywords": [
+        "White Pearl",
+        "green",
+        "• [[Fissure"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 5,
+        "def": 15,
+        "hp": 150,
+        "rush": 5
+      },
+      "tier_color": "green"
+    },
+    {
+      "data_file": "game/data/canonical/gear/windsor_s_cape.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "windsor_s_cape",
+      "name": "Windsor's cape",
+      "search_keywords": [
+        "Exchange {{retext|Anchor|orange",
+        "Windsor's cape",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/wisdom_cloak.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "wisdom_cloak",
+      "name": "Wisdom Cloak",
+      "search_keywords": [
+        "Divine Neutral 0.2%",
+        "Wisdom Cloak",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/wizard_ring.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "wizard_ring",
+      "name": "Wizard Ring",
+      "search_keywords": [
+        "Wizard Ring",
+        "blue",
+        "• {{retext|White Pearl|green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "blue"
+    },
+    {
+      "data_file": "game/data/canonical/gear/wooden_ring.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "wooden_ring",
+      "name": "Wooden Ring",
+      "search_keywords": [
+        "Wooden Ring",
+        "gray",
+        "• [[Fissure"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 100,
+        "rush": 0
+      },
+      "tier_color": "gray"
+    },
+    {
+      "data_file": "game/data/canonical/gear/workout_top.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "workout_top",
+      "name": "Workout Top",
+      "search_keywords": [
+        "Lottery 0.71%",
+        "Workout Top",
+        "orange"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "orange"
+    },
+    {
+      "data_file": "game/data/canonical/gear/wu_scimitar.json",
+      "entity_type": "gear",
+      "icon_filename": null,
+      "id": "wu_scimitar",
+      "name": "Wu Scimitar",
+      "search_keywords": [
+        "Iron Helmet + Podao",
+        "Wu Scimitar",
+        "green"
+      ],
+      "slot": null,
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green"
+    }
+  ],
+  "schema": "game/data/schemas/gear.schema.json",
+  "source": "phase1c6 canonical import from Gear.wiki dry run"
+}

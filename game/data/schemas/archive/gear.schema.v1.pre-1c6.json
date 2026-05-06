@@ -1,0 +1,64 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Gear",
+  "description": "A piece of equipment that can be worn by the snail (weapon, armor, or accessory)",
+  "type": "object",
+  "required": ["id", "name", "slot"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug, e.g. 'old_man_wand'"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name"
+    },
+    "slot": {
+      "type": "string",
+      "enum": ["weapon", "armor", "accessory"],
+      "description": "Equipment slot"
+    },
+    "rarity": {
+      "type": "string",
+      "enum": ["common", "uncommon", "rare", "epic", "legendary", "mythic"],
+      "description": "Gear rarity tier"
+    },
+    "base_stats": {
+      "type": "object",
+      "description": "Base stat bonuses provided by this gear",
+      "properties": {
+        "hp":  { "type": ["number", "null"] },
+        "atk": { "type": ["number", "null"] },
+        "def": { "type": ["number", "null"] },
+        "rush":{ "type": ["number", "null"] }
+      }
+    },
+    "set_name": {
+      "type": ["string", "null"],
+      "description": "Gear set membership"
+    },
+    "set_bonus": {
+      "type": ["string", "null"],
+      "description": "Description of set bonus when wearing multiple pieces"
+    },
+    "enhancement_cap": {
+      "type": "integer",
+      "description": "Maximum enhancement level"
+    },
+    "source": {
+      "type": "string",
+      "description": "How to obtain this gear"
+    },
+    "icon_ref": {
+      "type": ["string", "null"],
+      "description": "Reference to asset manifest entry"
+    },
+    "notes": {
+      "type": ["string", "null"]
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

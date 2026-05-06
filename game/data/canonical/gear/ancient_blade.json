@@ -1,0 +1,34 @@
+{
+  "base_stats": {
+    "atk": 300,
+    "def": 10,
+    "hp": 100,
+    "rush": 30
+  },
+  "canonical_promoted_at": "2026-05-06T17:03:19.862721+00:00",
+  "canonical_promotion": true,
+  "canonical_source_phase": "phase1c6",
+  "effect": "In [[Cathay]], DMG +2%<br>In [[Cathay]], INTEL gained +2%",
+  "file_no": 306,
+  "icon_filename": null,
+  "id": "ancient_blade",
+  "name": "Ancient Blade",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "{{retext|Wu Scimitar|green",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Realm",
+    "subsection": "Blue",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "blue"
+}

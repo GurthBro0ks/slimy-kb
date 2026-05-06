@@ -1,64 +1,176 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Gear",
-  "description": "A piece of equipment that can be worn by the snail (weapon, armor, or accessory)",
-  "type": "object",
-  "required": ["id", "name", "slot"],
+  "additionalProperties": false,
+  "description": "Proposed Super Snail gear schema based on Gear.wiki aggregate gearrow templates. Slot is optional because Gear.wiki does not classify gear by weapon/armor/accessory.",
   "properties": {
+    "base_stats": {
+      "additionalProperties": false,
+      "properties": {
+        "atk": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "def": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "hp": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "rush": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "hp",
+        "atk",
+        "def",
+        "rush"
+      ],
+      "type": "object"
+    },
+    "canonical_promotion": {
+      "type": "boolean"
+    },
+    "effect": {
+      "description": "Raw effect text from wiki.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "file_no": {
+      "description": "File number from wiki table when present.",
+      "type": [
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "icon_filename": {
+      "description": "Icon filename from wiki table when present.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
     "id": {
-      "type": "string",
-      "description": "Unique slug, e.g. 'old_man_wand'"
+      "description": "Unique slug for the gear item.",
+      "type": "string"
     },
     "name": {
-      "type": "string",
-      "description": "Display name"
-    },
-    "slot": {
-      "type": "string",
-      "enum": ["weapon", "armor", "accessory"],
-      "description": "Equipment slot"
-    },
-    "rarity": {
-      "type": "string",
-      "enum": ["common", "uncommon", "rare", "epic", "legendary", "mythic"],
-      "description": "Gear rarity tier"
-    },
-    "base_stats": {
-      "type": "object",
-      "description": "Base stat bonuses provided by this gear",
-      "properties": {
-        "hp":  { "type": ["number", "null"] },
-        "atk": { "type": ["number", "null"] },
-        "def": { "type": ["number", "null"] },
-        "rush":{ "type": ["number", "null"] }
-      }
-    },
-    "set_name": {
-      "type": ["string", "null"],
-      "description": "Gear set membership"
-    },
-    "set_bonus": {
-      "type": ["string", "null"],
-      "description": "Description of set bonus when wearing multiple pieces"
-    },
-    "enhancement_cap": {
-      "type": "integer",
-      "description": "Maximum enhancement level"
-    },
-    "source": {
-      "type": "string",
-      "description": "How to obtain this gear"
-    },
-    "icon_ref": {
-      "type": ["string", "null"],
-      "description": "Reference to asset manifest entry"
+      "description": "Display name from Gear.wiki.",
+      "type": "string"
     },
     "notes": {
-      "type": ["string", "null"]
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "origin": {
+      "description": "Raw origin/acquisition text from wiki.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "slot": {
+      "description": "Optional equip slot if confirmed from another source. Do not infer blindly.",
+      "enum": [
+        "weapon",
+        "armor",
+        "accessory",
+        null
+      ],
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source": {
+      "additionalProperties": true,
+      "properties": {
+        "file": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "section": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "subsection": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "type": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "type",
+        "url"
+      ],
+      "type": "object"
+    },
+    "spreadsheet_links": {
+      "items": {
+        "type": "object"
+      },
+      "type": "array"
     },
     "tags": {
-      "type": "array",
-      "items": { "type": "string" }
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "tier_color": {
+      "description": "Actual gear tier/color from the game/wiki.",
+      "enum": [
+        "white",
+        "gray",
+        "green",
+        "blue",
+        "purple",
+        "orange",
+        "red"
+      ],
+      "type": "string"
     }
-  }
+  },
+  "required": [
+    "id",
+    "name",
+    "tier_color",
+    "base_stats",
+    "source"
+  ],
+  "title": "Gear Entity Schema v2 Proposal",
+  "type": "object",
+  "x_pm_decisions_needed": [
+    "Approve tier_color as first-class field.",
+    "Approve slot as optional nullable field until another reliable source provides slot data.",
+    "Approve raw effect/origin preservation before downstream normalization.",
+    "Decide whether old rarity enum should be removed, retained as derived, or moved to a separate display mapping."
+  ]
 }

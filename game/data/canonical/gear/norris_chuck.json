@@ -1,0 +1,34 @@
+{
+  "base_stats": {
+    "atk": 300,
+    "def": 60,
+    "hp": 600,
+    "rush": 60
+  },
+  "canonical_promoted_at": "2026-05-06T17:03:19.862721+00:00",
+  "canonical_promotion": true,
+  "canonical_source_phase": "phase1c6",
+  "effect": "Ignore enemy DEF +12%",
+  "file_no": 8,
+  "icon_filename": null,
+  "id": "norris_chuck",
+  "name": "Norris-chuck",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "{{retext|Nun-chuck|orange",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Instrument",
+    "subsection": "Red",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "red"
+}

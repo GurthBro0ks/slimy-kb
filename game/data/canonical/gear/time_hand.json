@@ -1,0 +1,34 @@
+{
+  "base_stats": {
+    "atk": 30,
+    "def": 0,
+    "hp": 0,
+    "rush": 10
+  },
+  "canonical_promoted_at": "2026-05-06T17:03:19.862721+00:00",
+  "canonical_promotion": true,
+  "canonical_source_phase": "phase1c6",
+  "effect": "In the [[Time Rift",
+  "file_no": 1003,
+  "icon_filename": null,
+  "id": "time_hand",
+  "name": "Time Hand",
+  "notes": "Candidate generated from Gear.wiki gearrow template. Manual review required before canonical promotion.",
+  "origin": "Rift]], INTEL gained +2%",
+  "slot": null,
+  "source": {
+    "file": "game/sources/wiki_gg/Gear.wiki",
+    "section": "Realm",
+    "subsection": "Green",
+    "type": "wiki_gg",
+    "url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  "spreadsheet_links": [],
+  "tags": [
+    "candidate",
+    "dry_run:phase1c5",
+    "phase:1c4",
+    "source:wiki_gg"
+  ],
+  "tier_color": "green"
+}
