@@ -1,0 +1,48 @@
+= [[Domain Device]] =
+== Thrones ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Pawson Throne}}||[[Koryeon Domain]]
+{{IconExampleRowWithText|Bladden Throne}}||[[Yamato Domain]]
+{{IconExampleRowWithText|Jaden Throne}}||[[Cathay Domain]]
+{{IconExampleRowWithText|Racky Throne}}||[[Murikan Domain]]
+{{IconExampleRowWithText|Thundos Throne}}||[[Britland Domain]]
+{{IconExampleRowWithText|Nethrone Throne}}||[[Kemetic Domain]]
+{{IconExampleRowWithText|Minerva Throne}}||[[Hellenic Domain]]
+|}
+
+== Domain Weapons ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Cruise Missile}}||[[Koryeon Domain]]
+{{IconExampleRowWithText|Senbon Sakura}}||[[Yamato Domain]]
+{{IconExampleRowWithText|Calming Pearl}}||[[Cathay Domain]]
+{{IconExampleRowWithText|Funnel Cannon}}||[[Murikan Domain]]
+{{IconExampleRowWithText|Thundercloud Stone}}||[[Britland Domain]]
+{{IconExampleRowWithText|Ghost Coffin}}||[[Kemetic Domain]]
+{{IconExampleRowWithText|Holy Light Staff}}||[[Hellenic Domain]]
+|}
+
+== Domain Weapon Currency ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Missile Box}}||[[Koryeon Domain]]
+{{IconExampleRowWithText|Sword Box}}||[[Yamato Domain]]
+{{IconExampleRowWithText|Bead Box}}||[[Cathay Domain]]
+{{IconExampleRowWithText|Laser Prism Component}}||[[Murikan Domain]]
+{{IconExampleRowWithText|Lightning Rune}}||[[Britland Domain]]
+{{IconExampleRowWithText|}}||[[Kemetic Domain]]
+{{IconExampleRowWithText|Holy Wood Core}}||[[Hellenic Domain]]
+|}
+
+= [[Rocket]] =
+Icons to do with repairing the Rocket.
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Cockpit}}||Also Cockpit I, II, III
+{{IconExampleRowWithText|Bunker}}||Also Bunker I, II, III
+{{IconExampleRowWithText|Thruster}}||Also Thruster I, II, III, IV, V
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Energy Core (Rocket)}}||[[Yamato_Cards#Tier_3_(Blue)|Yamato Card]]
+{{IconExampleRowWithText|Immortal Engine}}||[[Cathay_Cards#Tier_3_(Blue)|Cathay Card]]
+|}
+
+[[Category:Icons]]
+[[Category:Rocket]]

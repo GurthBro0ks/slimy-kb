@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=671
+|relics=Ave Maria,Nilakantha Dharani
+|rank=purple
+|amount=2
+|category=self
+|description=Per 30 T7+ Mecha Minions in battle:Troop HARD Stats +12
+}}

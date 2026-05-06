@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=738
+|relics=Frankenstein,Laocoön
+|rank=orange
+|amount=2
+|category=self
+|description=Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +56;Frost Sanctum Rating Pts: 100000/100000
+}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=A Tale of Two Cities
+|class_id=22176
+|rank=AAA
+|affct=CIV
+|birthday=12-12
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Dec 12, 1859 AD, Dickson's A Tale of Two Cities was first published in Britain.<br>A Tale of Two Cities is a long historical novel written by Dickson, with the backdrop of the French Revolution. The book describes the nobles' exploitation, which stirred up hate in the hearts of the common people and led to the outbreak of the revolution. After that, the post-revolutionaries treated the aristocrats as brutally as they did. The novel's title refers to Paris and London, as British society at that time was very similar to the eve of the French Revolution. Dickson hoped that this comparison would wake up British society.
+|fame=53
+|art=49
+|fth=37
+|civ=71
+|tech=33
+|ss1=Mutant Minion HP +3%<br>Per 30 Mutant Minions in battle:<br>> Troop HARD Stats +6
+|ss2=Mutant Minion HP +4%<br>Per 30 Mutant Minions in battle:<br>> Troop HARD Stats +8
+|ss3=Mutant Minion HP +5%<br>Per 30 Mutant Minions in battle:<br>> Troop HARD Stats +10
+|ss4=Mutant Minion HP +7%<br>Per 30 Mutant Minions in battle:<br>> Troop HARD Stats +14
+|ss5=Mutant Minion HP +9%<br>Per 30 Mutant Minions in battle:<br>> Troop HARD Stats +18
+|ss7=Mutant Minion HP +9%<br>Per 30 Mutant Minions in battle:<br>> Troop HARD Stats +18<br>Per 30 Mutant Minions in battle:<br>> Troop HARD Stats +14 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, All Minion RUSH +3%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's CIV +10
+}}

@@ -1,0 +1,17 @@
+{{Shell
+|name=Witch's Pot
+|image=Witch's Pot.png
+|description= Marvelpus cauldron used by witches to brew potions. Whether you put in chili peppers or toad legs, you'll always get sweet, delicious candy out of it!
+|affct=FTH
+|hard=HP
+|source=[[Fantasy Tour]] Oct. 27 - Nov. 9 2023 
+|color=purple
+|earth=6
+|water=7
+|fire=6
+|wind=7
+|form=Dragon
+|element=Poison
+|realm=Rift
+|orangehard=ATK
+}}

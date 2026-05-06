@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=608
+|relics=Robin Hood,Captain Singleton
+|rank=blue
+|amount=2
+|category=self
+|description=Protomon Snail assist DMG + 400
+}}

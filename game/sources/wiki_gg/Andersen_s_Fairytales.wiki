@@ -1,0 +1,41 @@
+{{CargoRelic
+|name=Andersen's Fairytales
+|rank=AAA
+|affct=CIV
+|birthday=10-04
+|source=Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On Oct 4, 1872, Hans Christian Andersen finished this famous Denmark collection of fairytales.
+
+There are more than 160 stories in Andersen's Fairy Tales. This book reflected European society in the 19th century. It presented many classical stories, including The Ugly Duckling, The Little Match Girl, and The Little Mermaid. In his works, Andersen praised the kindness and purity of the laborers, and criticized the foolishness, greed, and cruelty of the nobles. His stories have a great impact on future generations. 
+
+[Famous Quotes]
+
+Innocence is like a soft pillow. Traveling is my source of energy. Life itself is the most wonderful fairy tale. Being born in a duck yard does not matter if only you are hatched from a swan's egg.
+
+|fame=47
+|art=33
+|fth=46
+|civ=72
+|tech=45
+|ss1=Per 10 Sign-Ins, Snail ATK +6<br>Per 10 Sign-Ins, Snail RUSH +6<br>Sign-Ins: 300/300
+|ss2=Per 10 Sign-Ins, Snail ATK +8<br>Per 10 Sign-Ins, Snail RUSH +8<br>Sign-Ins: 300/300
+|ss3=Per 10 Sign-Ins, Snail ATK +10<br>Per 10 Sign-Ins, Snail RUSH +10<br>Sign-Ins: 300/300
+|ss4=Per 10 Sign-Ins, Snail ATK +14<br>Per 10 Sign-Ins, Snail RUSH +14<br>Sign-Ins: 300/300
+|ss5=Per 10 Sign-Ins, Snail ATK +18<br>Per 10 Sign-Ins, Snail RUSH +18<br>Sign-Ins: 300/300
+|ss7=Per 10 Sign-Ins, Snail ATK +18<br>Per 10 Sign-Ins, Snail RUSH +18<br>Sign-Ins: 300/300<br> Snail ATK +70 (Awakened)
+|skill1=[[File:Fungusfarm skill II.png|50px]] Place in Fungus Farm: Fungus Output +15%
+|skill2=[[File:Fungusfarm skill II.png|50px]] Place in Fungus Farm: Max Cap +15%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:CIV Relics]]
+[[Category:Purple CIV Relics]]
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Demon Cell Drop Boost]]
+[[Category:Enhanced by Sign-Ins]]
+[[Category:Enhanced by Power]]

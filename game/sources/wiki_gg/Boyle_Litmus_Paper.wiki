@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Boyle Litmus Paper
+|class_id=22486
+|rank=Blue
+|affct=TECH
+|birthday=11-13
+|source=Lottery Machine No.3 (0.25%)
+|description=On Nov 13, 1668 AD, Robert Boyle invented the litmus paper used for acid-base indicators based on the phenomenon that violets change color when exposed to acids and bases.<br>In an experiment, accidentally, a drop of hydrochloric acid was dropped onto the violet petal in the laboratory by Robert Boyle, and he was surprised to find that the originally purple petals turned red. He then began to try to react with acids, bases, and plant extracts and finally used the extract of litmus lichen with more obvious reaction effects to make the litmus paper, an extremely practical chemical experimental tool.
+|fame=28
+|art=19
+|fth=33
+|civ=27
+|tech=47
+|ss1=Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +8<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss2=Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +16<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss3=Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss4=Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss7=Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Prairie Sanctum Rating Pts: 100000/100000<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Britland skill I.png|50px]]Place in Britland Museum: In Britland, 2x Green Reagent Drops +2.5%
+}}

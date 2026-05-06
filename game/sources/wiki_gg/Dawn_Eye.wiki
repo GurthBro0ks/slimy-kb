@@ -1,0 +1,35 @@
+{{Missing Info}}
+
+==Dawn Eye==
+
+{{Organ Tabber
+|Name=Dawn Eye
+|Rarity=red
+|ID Number=
+|Initial HP=
+|HP Increase=
+|Initial ATK=
+|ATK Increase=
+|Initial DEF=
+|DEF Increase=
+|Initial RUSH=
+|RUSH Increase=
+|Effect 1=
+|Initial Effect Value 1=
+|Effect Value Increase 1=
+|Effect 2=
+|Initial Effect Value 2=
+|Effect Value Increase 2=
+|Effect 3=
+|Initial Effect Value 3=
+|Effect Value Increase 3=
+|Effect 4=
+|Initial Effect Value 4=
+|Effect Value Increase 4=
+|}}
+
+==Source==
+Obtain [[Aquarius]] (Supreme Relic)
+
+[[Category:Organs]]
+[[Category:Red Organs]]

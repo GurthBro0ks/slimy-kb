@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Composition with Yellow, Blue, and Red
+|class_id=22813
+|rank=SSS
+|affct=ART
+|source=
+|description=This painting embodies the ideas of painter Mondrian, who advocated for a new plasticism or neoplasticism style of painting, believing that art should transcend naturalistic depiction and focus on abstract expression using forms such as lines and colors. In his paintings, through the combination of basic elements like straight lines, right angles, primary colors, and non-colors, he expresses an abstract spirit, pursuing an absolute realm of unity between man and the divine. This painting has propelled the development of abstract art and has had a significant impact on later fields such as architecture, design, and fashion, inspiring numerous artists and designers, becoming an important source of inspiration in modern design and fashion.
+|fame=54
+|art=108
+|fth=65
+|civ=73
+|tech=62
+|ss1=Per 60 Demon Minions in battle:<br>> Troop ATK +9<br>Per 60 Demon Minions in battle:<br>> Troop DEF +9<br>All Demon Minion Skins, HARD Stats +30%
+|ss2=Per 60 Demon Minions in battle:<br>> Troop ATK +18<br>Per 60 Demon Minions in battle:<br>> Troop DEF +18<br>All Demon Minion Skins, HARD Stats +40%
+|ss3=Per 60 Demon Minions in battle:<br>> Troop ATK +27<br>Per 60 Demon Minions in battle:<br>> Troop DEF +27<br>All Demon Minion Skins, HARD Stats +50%
+|ss4=Per 60 Demon Minions in battle:<br>> Troop ATK +45<br>Per 60 Demon Minions in battle:<br>> Troop DEF +45<br>All Demon Minion Skins, HARD Stats +70%
+|ss5=Per 60 Demon Minions in battle:<br>> Troop ATK +63<br>Per 60 Demon Minions in battle:<br>> Troop DEF +63<br>All Demon Minion Skins, HARD Stats +90%
+|ss6=Per 60 Demon Minions in battle:<br>> Troop ATK +90<br>Per 60 Demon Minions in battle:<br>> Troop DEF +90<br>All Demon Minion Skins, HARD Stats +120%
+|ss7=Per 60 Demon Minions in battle:<br>> Troop ATK +90<br>Per 60 Demon Minions in battle:<br>> Troop DEF +90<br>All Demon Minion Skins, HARD Stats +120%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +90 (Awakened)
+|skill1=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: This Relic's ART +15
+|skill2=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: B-tad Output +3000
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Snail ATK +600
+}}

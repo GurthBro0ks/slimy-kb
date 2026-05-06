@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Hoysala Dynasty Dancer Statue,Gitanjali
+|rank=orange
+|amount=2
+|category=self
+|description=Per Red Organ transplanted, Snail DEF +7; Red Organs transplanted: 60/60
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Spirit Phenomenology
+|class_id=22746
+|rank=SSS
+|affct=TECH
+|birthday=09-23
+|source=Lottery Machine No.3 (0.12%)
+|description=On Sept 23, 1807 AD, the book was first published.<br>Spirit Phenomenology is a philosophical work by the German philosopher Hegel. The book, from the perspective of objective idealism, describes the various stages of consciousness from spontaneous to self-consciousness, reason, ethical spirit, and absolute knowledge. Hegel also explained these stages as a miniature of the historical development of human consciousness. The book regards absolute spirit as the most basic concept of philosophy, and through dialectical thought, unifies logic and history in absolute spirit. This book is a manifesto of Hegel's philosophical views and methodology, summarizing the philosophical research achievements of philosophers before Hegel and proclaiming the outline of future philosophy.
+|fame=65
+|art=54
+|fth=74
+|civ=62
+|tech=107
+|ss1=All Tribal Protolith output +6%<br>Tribal Amber output +6%<br>Tribal Follower output +6%
+|ss2=All Tribal Protolith output +8%<br>Tribal Amber output +8%<br>Tribal Follower output +8%
+|ss3=All Tribal Protolith output +10%<br>Tribal Amber output +10%<br>Tribal Follower output +10%
+|ss4=All Tribal Protolith output +14%<br>Tribal Amber output +14%<br>Tribal Follower output +14%
+|ss5=All Tribal Protolith output +18%<br>Tribal Amber output +18%<br>Tribal Follower output +18%
+|ss6=All Tribal Protolith output +24%<br>Tribal Amber output +24%<br>Tribal Follower output +24%
+|ss7=All Tribal Protolith output +24%<br>Tribal Amber output +24%<br>Tribal Follower output +24%<br>Tribal Follower output +20% (Awakened)
+|skill1=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: This Relic's TECH +15
+|skill2=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: Lucky Egg hatching efficiency +30%
+|skill3=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: Green rewards from this egg turn Blue by 6%
+|mirage={{Mirage|name=Hegelian Philosophy|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Fichte|3rec=137.81M|3atk=397486|3defense=237790|3hp=51223876|3weak=48038
+|4name=Schelling|4rec=163.68M|4atk=455498|4defense=274180|4hp=76272429|4weak=52573
+|5name=Spinoza|5rec=200.10M|5atk=532629|5defense=325427|5hp=113434332|5weak=57659
+|6name=Hegel|6rec=263.04M|6atk=643720|6defense=399211|6hp=194590073|6weak=63337
+|Arec=378.49M|Aatk=801731|Adefense=503071|Ahp=332911502|Aweak=69367
+}}}}

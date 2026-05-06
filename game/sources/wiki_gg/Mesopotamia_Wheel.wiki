@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Mesopotamia Wheel
+|class_id=22525
+|rank=AAA
+|affct=FAME
+|birthday=08-23
+|source=
+|description=On Aug 23, 3500 BC, the earliest wheel appeared in the Mesopotamian region.<br>The Mesopotamian wheel is the earliest known wheel. The initial wheel was relatively rudimentary, made of wood and stone, and was a heavy, flat disk mainly used for making pottery. Later, the elite and wealthy began to use solid wood wheels for transporting goods, and learned to mount axles on carts, gradually expanding the use of wheels to other fields and greatly increasing production efficiency, representing a great revolution in human history.
+|fame=74
+|art=40
+|fth=30
+|civ=50
+|tech=49
+|ss1=Snail DEF +30<br>Quantum Amp production +1.8%
+|ss2=Snail DEF +40<br>Quantum Amp production +2.4%
+|ss3=Snail DEF +50<br>Quantum Amp production +3%
+|ss4=Snail DEF +70<br>Quantum Amp production +4.2%
+|ss5=Snail DEF +90<br>Quantum Amp production +5.4%
+|ss7=Snail DEF +90<br>Quantum Amp production +5.4%<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Zombie Cells gained +7.5%
+}}

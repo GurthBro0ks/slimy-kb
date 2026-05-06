@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=463
+|relics=Lamassu Statue,Dream Stele
+|rank=orange
+|amount=2
+|category=self
+|description=Per 100k Relic Points gained, Snail DEF +7;Relic Points: 5000000/5000000
+}}

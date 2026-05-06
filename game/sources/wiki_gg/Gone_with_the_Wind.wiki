@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Gone with the Wind
+|class_id=20512
+|rank=Blue
+|affct=CIV
+|birthday=05-21
+|source=
+|description=On May 21, 1935 AD, Margaret Mitchell wrote the greatest fiction book of the 20th century, Gone with the Wind.<br>Gone with the Wind was a long story with 63 chapters and 900,000 words. It tells the story of wealthy families declining after the Civil War and the good times that had gone with the wind. Through the romance between Scarlett and Rhett, the book reflected the society of Southern Americans at that time.
+[Classic Quotes]
+After all, tomorrow is another day. Frankly my dear, I don't give a whoop. Gone with the wind.
+|fame=28
+|art=19
+|fth=35
+|civ=44
+|tech=28
+|ss1=In explorations, Angel Cells gained +1%
+|ss2=In explorations, Angel Cells gained +2%
+|ss3=In explorations, Angel Cells gained +3%
+|ss4=In explorations, Angel Cells gained +5%
+|ss7=In explorations, Angel Cells gained +5%<br>In explorations, Angel Cells gained +5% (Awakened)
+|skill1=[[File:Murika skill I.png|50px]]Place in Murikan Museum: In Murika, CIV Checks -5
+}}

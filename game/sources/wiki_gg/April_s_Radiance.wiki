@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=April's Radiance
+|class_id=20955
+|rank=Green
+|affct=FAME
+|source=
+|description=The fourth law of natural cycles: When a myriad of flowers bloom, the colors and vitality of nature reach their peak. Let us seek inspiration in the sea of flowers and enjoy the warmth and vitality of spring!
+|fame=32
+|art=15
+|fth=18
+|civ=13
+|tech=12
+|ss1=Snail Leadership +2<br>Per 10 Lucky Star gained, Snail DEF +1<br>Lucky Star Gained: 2400/2400
+|ss2=Snail Leadership +4<br>Per 10 Lucky Star gained, Snail DEF +2<br>Lucky Star Gained: 2400/2400
+|ss3=Snail Leadership +6<br>Per 10 Lucky Star gained, Snail DEF +3<br>Lucky Star Gained: 2400/2400
+|ss4=Snail Leadership +6<br>Per 10 Lucky Star gained, Snail DEF +3<br>Lucky Star Gained: 2400/2400
+|ss7=Snail Leadership +6<br>Per 10 Lucky Star gained, Snail DEF +3<br>Lucky Star Gained: 2400/2400<br> (Awakened)
+}}

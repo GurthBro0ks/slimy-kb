@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Genetic Sampler
+|class_id=20364
+|rank=Green
+|affct=TECH
+|source=
+|description=This simple machine can extract gene segments with the most efficiency from a small number of Bionic Part samples. Therefore, it provides great help for the species characteristic analysis.
+|fame=12
+|art=18
+|fth=12
+|civ=15
+|tech=31
+|ss1=When buying a Random Sequence, get +1 by +0.4%<br>Per Species Map entry completed, Snail ATK +1<br>Species Map Entries: 60/60
+|ss2=When buying a Random Sequence, get +1 by +0.8%<br>Per Species Map entry completed, Snail ATK +2<br>Species Map Entries: 60/60
+|ss3=When buying a Random Sequence, get +1 by +1.2%<br>Per Species Map entry completed, Snail ATK +3<br>Species Map Entries: 60/60
+|ss4=When buying a Random Sequence, get +1 by +1.2%<br>Per Species Map entry completed, Snail ATK +3<br>Species Map Entries: 60/60
+|ss7=When buying a Random Sequence, get +1 by +1.2%<br>Per Species Map entry completed, Snail ATK +3<br>Species Map Entries: 60/60<br> (Awakened)
+}}

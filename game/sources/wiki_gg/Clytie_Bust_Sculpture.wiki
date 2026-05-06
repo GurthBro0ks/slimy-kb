@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Clytie Bust Sculpture
+|class_id=22042
+|rank=Blue
+|affct=ART
+|birthday=04-10
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Apr 10, 1767 AD, Townley purchased the Clytie Bust Sculpture during his tour of Italy.<br>This ancient Greek marble statue depicts the scene of the sea nymph Clytie emerging from the calyx. Clytie fell in love with Apollo, the sun god, but had no opportunity of meeting him. She could only gaze at Heaven Crane every day, and watched Apollo driving the sun chariot from morning to night. The gods took pity on her and turned her into a sunflower with magic, following the direction of the sun forever, symbolizing her unchanging love for him.
+|fame=19
+|art=48
+|fth=33
+|civ=30
+|tech=24
+|ss1=Per 200 Avatar Score, Snail ATK +1<br>Avatar Score: 10000/10000
+|ss2=Per 200 Avatar Score, Snail ATK +2<br>Avatar Score: 10000/10000
+|ss3=Per 200 Avatar Score, Snail ATK +3<br>Avatar Score: 10000/10000
+|ss4=Per 200 Avatar Score, Snail ATK +5<br>Avatar Score: 10000/10000
+|ss7=Per 200 Avatar Score, Snail ATK +5<br>Avatar Score: 10000/10000<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Tadpolepond skill I.png|50px]]Place in Tadpole Pond: This Relic's ART +5
+}}

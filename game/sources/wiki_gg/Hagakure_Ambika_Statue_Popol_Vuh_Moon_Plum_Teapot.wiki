@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=436
+|relics=Hagakure,Ambika Statue,Popol Vuh,Moon Plum Teapot
+|rank=purple
+|amount=4
+|category=self
+|description=Dragon Minion RUSH +8%
+}}

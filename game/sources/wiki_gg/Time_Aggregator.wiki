@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Time Aggregator
+|class_id=21377
+|rank=AAA
+|affct=TECH
+|source=
+|description=Also known as the Time Harness,This is a portable device for controlling the flow of time, initially designed to counteract the abnormal symptoms of time dissociation, allowing the user to exist stably in the current time stream. However, it can also control the flow of time, enabling the user to accelerate or decelerate time at will, providing high mobility and tactical flexibility in combat.
+|fame=48
+|art=33
+|fth=45
+|civ=43
+|tech=74
+|ss1=Snail ATK +10<br>Snail DEF +10
+|ss2=Snail ATK +20<br>Snail DEF +20
+|ss3=Snail ATK +30<br>Snail DEF +30
+|ss4=Snail ATK +50<br>Snail DEF +50
+|ss5=Snail ATK +70<br>Snail DEF +70
+|ss7=Snail ATK +70<br>Snail DEF +70<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Skill skill II.png|50px]]??? (Coming soon)
+|skill2=[[File:Skill skill II.png|50px]]??? (Coming soon)
+}}

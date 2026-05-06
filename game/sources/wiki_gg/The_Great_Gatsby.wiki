@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The Great Gatsby
+|class_id=21036
+|rank=SSS
+|affct=FAME
+|source=
+|description=F. Scott Fitzgerald's Jazz Age masterpiece follows enigmatic millionaire Jay Gatsby's obsessive pursuit of lost love Daisy through the eyes of outsider Nick Carraway. It exposes the moral decay beneath 1920s excess—where wealth inflates illusions, love corrodes into status games, and social mobility proves a mirage. This novel now stands as a global literary monument, translated into 42 languages with 30+ million copies sold, its cinematic allure inspiring countless adaptations.
+|fame=106
+|art=61
+|fth=64
+|civ=63
+|tech=68
+|ss1=Snail Leadership +6<br>All Angel Minion Skins, HARD Stats +30%<br>Per 100 times Ultimate Weapons forged, Snail Bedrock Power +3<br>Ultimate Weapons forged: 6000/6000 times
+|ss2=Snail Leadership +7<br>All Angel Minion Skins, HARD Stats +40%<br>Per 100 times Ultimate Weapons forged, Snail Bedrock Power +4<br>Ultimate Weapons forged: 6000/6000 times
+|ss3=Snail Leadership +8<br>All Angel Minion Skins, HARD Stats +50%<br>Per 100 times Ultimate Weapons forged, Snail Bedrock Power +5<br>Ultimate Weapons forged: 6000/6000 times
+|ss4=Snail Leadership +10<br>All Angel Minion Skins, HARD Stats +70%<br>Per 100 times Ultimate Weapons forged, Snail Bedrock Power +7<br>Ultimate Weapons forged: 6000/6000 times
+|ss5=Snail Leadership +12<br>All Angel Minion Skins, HARD Stats +90%<br>Per 100 times Ultimate Weapons forged, Snail Bedrock Power +9<br>Ultimate Weapons forged: 6000/6000 times
+|ss6=Snail Leadership +15<br>All Angel Minion Skins, HARD Stats +120%<br>Per 100 times Ultimate Weapons forged, Snail Bedrock Power +12<br>Ultimate Weapons forged: 6000/6000 times
+|ss7=Snail Leadership +15<br>All Angel Minion Skins, HARD Stats +120%<br>Per 100 times Ultimate Weapons forged, Snail Bedrock Power +12<br>Ultimate Weapons forged: 6000/6000 times<br>Snail Leadership +10 (Awakened)
+|skill1=[[File:Rockyhighland skill III.png|50px]]Placed in Rocky Highland:Rocky Highland, Relic FAME +15
+|skill2=[[File:Rockyhighland skill III.png|50px]]Placed in Rocky Highland:Rocky Highland, Zone SUP effect reduced by 30%
+|skill3=[[File:Rockyhighland skill III.png|50px]]Placed in Rocky Highland:Rocky Highland, Orange Stardust output speed+30%
+}}

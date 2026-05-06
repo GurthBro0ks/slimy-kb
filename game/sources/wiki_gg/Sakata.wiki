@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Sakata
+|rank=blue
+|cabin=2
+|id=48
+|gene1={race} ATK +20
+|gene2={race} FAME +20
+|gene3=Each round, {race} ATK +10
+|gene4=Per 10 Dragon Minions in battle:
+> Troop ATK +2
+|gene5=Each round, {race} ATK +20
+|}}

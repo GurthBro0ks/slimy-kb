@@ -1,0 +1,374 @@
+{{Missing Info|specifics=<br>'''Babyeater''' - Partner info and Rent info<br>'''Divine Child''' - Partner info and Rent info<br>'''Dragoness Hub''' - Partner info and Rent info}}
+
+__FORCETOC__
+
+==Partners==
+Partners are gained from a variety of places. Once encountered, they'll begin a friendship storyline that involves sending letters back and forth, advising them on the best path forward in their troubles (and occasionally fighting others for them), and sending and receiving gifts until their friendship level reaches 3 hearts. 
+
+Once a partner is at 3 hearts they will move into a room with their unique [[Nursery#Minions|minions]]. These [[Nursery#Minions|minions]] can be used during Chore Dispatch and can fight in the Divinity Domains in teams. Check out [[Nursery#Minions|minions]] and [[Domains]] for more info. Each partner has a Gene Specialization, which makes them more efficient at helping to research that specific gene. Their minion will have the same Gene Type which relates to various skills. For instance, some relics boost Troop stats based on how many of a certain minion type there are in troop formation. 
+
+Partners also have two skills, the second of which is the Commander skill. This skill is acquired in the [[Koryeo Domain]] via the {{RewardIconWithText|Soldier Manual}} and increases the amount of a certain minion type that can be cloned and increases Troop stats per 10 of their own minions in a troop formation. The first skill is unique to each partner and typically increases one of Snail AFFCT stat and a home resource or gene speedup. Each partner is listed below with their first skill and minion. Click each name to learn more about that partner.
+{| class="wikitable sortable"
+!Name
+!class="unsortable"|Image
+!class="unsortable"|Skill 1
+!class="unsortable"|Relic Rewards 
+!Minions<br>Minion Type
+|-
+|[[Kim Chi-yum]]
+|[[File:Kim Chi-yum.jpg|120px|alt=Kim Chi-yum]]
+|'''Cuisine of Kim Chi-yum'''<br>> Increases Snail TECH<br>> Increases Tadpole Pond B-tad Output
+|{{RewardIconWithText|B-Tad}}s
+|style="text-align:center" data-sort-value="Angel"|Koryeo Snail<br>{{RewardIcon|Angel Form Icon|50px}}
+|-
+|[[Big Guy Park]]<br>&<br>[[Big Guy Park|Big Gal Park]]
+|[[File:Big Guy Park.jpg|120px|alt=Big Guy Park]][[File:Big Gal Park.jpg|120px|alt=Big Gal Park]]
+|'''Prison Conditioning'''<br>> Increases Snail FAME<br>> Increases Snail AT
+|{{RewardIconWithText|Stone}}<br>{{RewardIconWithText|Wood}}
+|style="text-align:center" data-sort-value="Demon"|Ironball Thrower<br>{{RewardIcon|Demon Form Icon|50px}}
+|-
+|[[Chichikaka]]
+|[[File:Chichikaka.jpg|120px|alt=Chichikaka]]
+|'''Chichikaka's Mouth'''<br>> Increases Snail CIV<br>> Increases Snail ATK
+|{{RewardIconWithLink|Evolution Chest}}
+|style="text-align:center"|Chika<br>{{RewardIcon|Mutant Form Icon|50px}}
+|-
+|[[Prince Nerd's Soul]]
+|[[File:Prince Nerd's Soul.jpg|120px|alt=Prince Nerd's Soul]]
+|'''Prince's Curse'''<br>> Increases Snail FTH<br>> Increases Soul Offering SPD
+|{{RewardIconWithText|Offering Speedup}}
+|style="text-align:center" data-sort-value="Zombie"|Tomb Figure<br>{{RewardIcon|Zombie Form Icon|50px}}
+|-
+|[[Jiro Toyato]] 
+|[[File:Jiro Toyato and The Mechanic.jpg|120px|alt=Jiro Toyato and The Mechanic]]
+|'''Jiro's Gutter Run'''<br>> Increases Snail FTH<br>> Additional Free Gene Speedup (Mecha)
+|{{RewardIconWithText|Refine Speedup}}
+|style="text-align:center" data-sort-value="Mecha"|The Mechanic<br>{{RewardIcon|Mecha Form Icon|50px}}
+|-
+|[[Leeku]]
+|[[File:Leeku and her Stan.jpg|120px|alt=Leeku and her Stan]] 
+|'''Leeku's New Album'''<br>> Increases Snail ART<br>> Additional Free Gene Speedup (Angel) 
+|{{RewardIconWithText|W-Tad}}s
+|style="text-align:center" data-sort-value="Angel"|Stan<br>{{RewardIcon|Angel Form Icon|50px}}
+|-
+|[[Taoraemon]]
+|[[File:Taoraemon and a Cat Boy.jpg|120px|alt=Taoraemon and a Cat Boy]]
+|'''Taoraemon 5D Tech'''<br>> Increases Snail TECH<br>> Increases All Gene Research SPD
+|{{RewardIconWithText|Gene Speedup}}
+|style="text-align:center" data-sort-value="Angel"|Catcolyte<br>{{RewardIcon|Angel Form Icon|50px}} 
+|-
+|[[Ghost Zadako]]
+|[[File:Ghost Zadako.jpg|120px|alt=Ghost Zadako]]
+|'''Zadako's Curse of Death'''<br>> Increases Snail FAME<br>> Additional Free Gene Speedup (Zombie)
+|{{RewardIconWithLink|Novice Scroll|blue}}<br>{{RewardIconWithLink|Expert Scroll|purple}}<br>{{RewardIconWithLink|Master Scroll|orange}}
+|style="text-align:center" data-sort-value="Zombie"|Wraith<br>{{RewardIcon|Zombie Form Icon|50px}}
+|-
+|[[Red Doe]]
+|[[File:Red Doe.jpg|120px|alt=Red Doe]]
+|'''Red Doe's Cloudstep'''<br>> Increases Snail ART<br>> Additional Free Gene Speedup (Mutant)
+|{{RewardIconWithText|Travel Speedup}}
+|style="text-align:center" data-sort-value="Demon"|Nightmare Steed<br>{{RewardIcon|Demon Form Icon|50px}}
+|-
+|[[Lee Gi-na]]
+|[[File:Lee Gi-na.jpg|120px|alt=Lee Gi-na]]
+|'''Lee Gi-na's Love Song'''<br>> Increases Snail CIV<br>> Increases Time Machine Travel Speedup Output
+|{{RewardIconWithLink|Evolution Chest}}
+|style="text-align:center" data-sort-value="Mutant"|Minorino<br>{{RewardIcon|Mutant Form Icon|50px}}
+|-
+|[[Taoist Yu Ji]]
+|[[File:Taoist Yu Ji female.jpg|120px|alt=Taoist Yu Ji female]]
+|'''Taoist Yu Ji's Amulet'''<br>> Increases Snail FTH<br>> Increases Quarry Output
+|{{RewardIconWithLink|Novice Alchemy Case|blue}}<br>{{RewardIconWithLink|Expert Alchemy Case|purple}}<br>{{RewardIconWithLink|Master Alchemy Case|orange}}
+|style="text-align:center" data-sort-value="Dragon"|Drawn Dragon<br>{{RewardIcon|Dragon Form Icon|50px}}
+|-
+|[[Must-Not-Name]]
+|[[File:Must Not Name.png|120px|alt=Must Not Name]]
+|'''Nameless Black Magic'''<br>> Increases Snail FTH<br>> Additional Free Gene Speedup (Demon)
+|{{RewardIconWithText|Offering Speedup}}
+|style="text-align:center" data-sort-value="Dragon"|Frost Drake<br>{{RewardIcon|Dragon Form Icon|50px}}
+|-
+|[[Neandergal]]
+|[[File:Neandergal and Minion.jpg|120px|alt=Neandergal]]
+|'''Neandergal's Hunting Skill'''<br>> Increases Snail Fame<br>> Increases Snail RUSH
+|{{RewardIconWithLink|Gear Chest}}
+|style="text-align:center" data-sort-value="Demon"|Berserker<br>{{RewardIcon|Demon Form Icon|50px}}
+|-
+|[[Advisor Zhuge]]
+|[[File:Advisor Zhuge.jpg|120px|alt=Advisor Zhuge]]
+|'''Advisor Zhuge's Maze'''<br>> Increases Snail CIV<br>> Increases Lumber Camp Output
+|{{RewardIconWithLink|Lottery Ticket|orange}}
+|style="text-align:center" data-sort-value="Mecha"|Wood Golem<br>{{RewardIcon|Mecha Form Icon|50px}} 
+|-
+|[[Sewer Turtle]]
+|[[File:Sewer Turtle and an Undead Turtle.jpg|120px|alt=Sewer Turtle]]
+| '''Turtle Necromancy'''<br>> Increases Snail FTH<br>> Increases Zombie Minion Recovery SPD
+|{{RewardIconWithText|Offering Speedup}}
+|style="text-align:center" data-sort-value="Zombie"|Undead Turtle<br>{{RewardIcon|Zombie Form Icon|50px}}
+|-
+|[[Demon Chan-hee]]
+|[[File:Demon Chan-hee.jpg|120px|alt=Demon Chan-hee]]
+|'''Demon Chan-hee's Tentacles'''<br>> Increases Snail FAME<br>> Increases DMG in Gene Simulations
+|{{RewardIconWithLink|Organ Chest}}
+|style="text-align:center" data-sort-value="Mutant"|Demonic Tentacle<br>{{RewardIcon|Mutant Form Icon|50px}}
+|-
+|[[Snail Mech]]
+|[[File:Snail Mech.png|120px|alt=Snail Mech]]
+|'''Snail Mech's Processor'''<br>> Increases Snail TECH<br>> Reduce Wormhole Refinement Time
+|{{RewardIconWithText|Refine Speedup}}
+|style="text-align:center" data-sort-value="Mecha"|Snail Mech<br>{{RewardIcon|Mecha Form Icon|50px}}
+|-
+|[[Peter Jr.]]
+|[[File:Peter Jr.jpg|120px|alt=Peter Jr]]
+|'''Bald Dev'''<br>> Increases Snail TECH<br>> Increases Mecha Minion Recovery SPD
+|{{RewardIconWithText|Gene Speedup}}
+|style="text-align:center" data-sort-value="Mecha"|Keyboard Warrior<br>{{RewardIcon|Mecha Form Icon|50px}}
+|-
+|[[Sleuth Doom]]
+|[[File:Sleuth doom and minion.jpg|120px|alt=Sleuth Doom]]
+|'''Detective's Demon Pact'''<br>> Increases Snail ART<br>> Increases Demon Minion Recovery SPD
+|{{RewardIconWithText|B-Tad}}s
+|style="text-align:center" data-sort-value="Demon"|Imp<br>{{RewardIcon|Demon Form Icon|50px}}
+|-
+|[[Nito SSR]]
+|[[File:Nito.png|120px|alt=Nito SSR]]
+|'''Gatcha Mater'''<br>> Increases Snail FTH<br>> Lottery Blue Beads turn to Purple
+|{{RewardIconWithLink|Lottery Ticket|orange}}
+|style="text-align:center" data-sort-value="Zombie"|Mummy [R]<br>{{RewardIcon|Zombie Form Icon|50px}}
+|-
+|[[Mosasaur]]
+|[[File:Mosasaur.jpg|120px|alt=Mosasaur]]
+|'''Mosasaur's Giant Teeth'''<br>> Increases Snail CIV<br>> Increases Dragon Minion Recovery SPD
+|{{RewardIconWithLink|Evolution Chest}}
+|style="text-align:center" data-sort-value="Dragon"|Nanosaur<br>{{RewardIcon|Dragon Form Icon|50px}}
+|-
+|[[Female Daemons]]
+|[[File:Female Daemons.png|120px|alt=Female Daemons]]
+|'''Femm Fatale'''<br>> Increases Snail ART<br>> Increases Mutant Minion Recovery SPD
+|{{RewardIconWithText|Travel Speedup}}
+|style="text-align:center" data-sort-value="Mutant"|Little Monk<br>{{RewardIcon|Mutant Form Icon|50px}}
+|-
+|[[Athena]]
+|[[File:Athena.png|120px|alt=Athena]]
+|'''Athena's Closet'''<br>> Increases Snail FAME<br>> Additional Snail Leadership<br>> Angel Minion Recovery SPD
+|{{RewardIconWithText|Green Coating|green}}<br>{{RewardIconWithText|Blue Coating|blue}}<br>{{RewardIconWithText|Purple Coating|purple}}
+|style="text-align:center" data-sort-value="Angel"|Sanctum Warrior<br>{{RewardIcon|Angel Form Icon|50px}}
+|-
+|[[Slug Dragon Tutor]]
+|[[File:Slug Dragon Tutor.jpg|120px|alt=Slug Dragon Tutor]]
+|'''Tutor's Homework'''<br>> Increases Snail ART<br>> Additional Free Gene Speedup (Dragon)
+|{{RewardIconWithText|Gene Speedup}}
+|style="text-align:center" data-sort-value="Dragon"|Slug Dragonling<br>{{RewardIcon|Dragon Form Icon|50px}}
+|-
+|[[Babyeater]]
+|[[File:Babyeater.png|120px|alt=Babyeater]]
+|?
+|?
+|style="text-align:center" data-sort-value="Zombie"|Baby Bud<br>{{RewardIcon|Zombie Form Icon|50px}}
+|-
+|[[Washed-up Noble]]
+|[[File:Washed-up Noble.png|120px|alt=Washed-up Noble]]
+|'''Washed-up Noble's Ambition'''<br>> Increases Snail ART<br>> Special Tourist Like Bonus ([[Museum]])
+|{{RewardIconWithLink|Novice Scroll|blue}}<br>{{RewardIconWithLink|Expert Scroll|purple}}<br>{{RewardIconWithLink|Master Scroll|orange}}
+|style="text-align:center" data-sort-value="Demon"|Vampire<br>{{RewardIcon|Demon Form Icon|50px}}
+|-
+|[[Dragoness Hub]]
+|[[File:Dragoness Hub.png|120px|alt=Dragoness Hub]]
+|?
+|?
+|style="text-align:center" data-sort-value="Dragon"|Jaden Embryo<br>{{RewardIcon|Dragon Form Icon|50px}}
+|-
+|[[Divine Child]]
+|[[File:Divine Child.png|120px|alt=Divine Child]]
+|'''Divine Child's Devotion'''<br>> Increases Snail FTH<br>>All Sanctum Glorium Output
+|{{RewardIconWithText|Fluorite}}
+|style="text-align:center" data-sort-value="Angel"|Gaiastapo<br>{{RewardIcon|Angel Form Icon|50px}}
+|}
+
+==Rent List==
+A list of the known rents and what days of the week they're given by each partner. 
+{| class="wikitable"
+!Day
+!Partner
+!Normal Rent
+!Rare Rent
+!1-time Rent
+!Lv. 10 Rent
+|-
+| rowspan="3" |Monday
+|[[Kim Chi-yum]]
+|{{RewardIconWithLink|Koryeon Treasure Map, +10}}
+|{{RewardIconWithLink|Sleeping Gypsy|blue}} +10<br>{{RewardIconWithLink|Guernica|purple}} +20<br>{{RewardIconWithLink|Mona Lisa|orange}} +40
+|{{RewardIconWithLink|King Sejong's Portrait|green}}
+| -
+|-
+|[[Advisor Zhuge]]
+|{{RewardIconWithText|B-Tad, +5k}}
+|{{RewardIconWithLink|Dragon Orb, +1|orange}}<br>{{RewardIconWithLink|Golden Pickaxe, +1|orange}}<br>{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithLink|Wish Coin, +1|orange}}
+| -
+| -
+|-
+|[[Neandergal]]
+|Random Demon God Cell +500
+|{{RewardIconWithLink|Crimson Dragon Scale|purple}}<br>{{RewardIconWithLink|Crystalized Rib|purple}}
+|{{RewardIconWithLink|Astronaut Cap|green}}
+| -
+|-
+| rowspan="4" |Tuesday
+|[[Chichikaka]]
+|{{RewardIconWithLink|Green Organ Slime, +10}}
+|{{RewardIconWithLink|Salamander's Tail|blue}}
+| -
+|{{RewardIconGeneSegment|Meat Chef, +1 Fragment}}
+|-
+|[[Taoist Yu Ji]]
+|{{RewardIconWithLink|Taichi Fish, +10}}
+|{{RewardIconWithLink|Incense, +1|orange}}
+|{{RewardIconWithLink|Advance Elixir|green}}
+| -
+|-
+|[[Peter Jr.]]
+|{{RewardIconWithLink|Tetrabiblos|blue}} +5
+|{{RewardIconWithLink|Nocturnes|blue}} +5<br>{{RewardIconWithLink|Commercial Code|blue}} +5
+|{{RewardIconWithLink|Snail Quiz - Yamato|black|Minigames}}
+| -
+|-
+|[[Snail Mech]]
+|{{RewardIconWithLink|AR2-T1|green}}
+|{{RewardIconWithLink|AR2-T2|blue}}
+| -
+|{{RewardIconWithLink|AR2-T3|purple}}
+|-
+| rowspan="3" |Wednesday
+|[[Prince Nerd's Soul]]
+|{{RewardIconWithLink|Novice Scroll, +1|blue}}
+|{{RewardIconWithLink|Expert Scroll, +1|purple}}<br>{{RewardIconWithLink|Master Scroll, +1|orange}}
+| -
+| -
+|-
+|[[Athena]]
+|{{RewardIconWithLink|Dark Outfit|blue|Minion Skins}} +5 Fragments
+|{{RewardIconWithLink|Silver Outfit|blue|Minion Skins}} +5 Fragments
+| -
+|{{RewardIconWithLink|Golden Outfit (Minion)|orange|Minion Skins}} +5 Fragments
+|-
+|[[Big Guy Park|Big Gal Park]]
+|{{RewardIconWithText|Wonder Fungus Green|green}}<br>{{RewardIconWithText|Wonder Fungus Blue|blue}}
+|{{RewardIconWithLink|Big Guy Park's Chest Hair|blue}}<br>{{RewardIconWithLink|Toner, +300}}
+| -
+| -
+|-
+| rowspan="4" |Thursday
+|[[Jiro Toyato]]
+|{{RewardIconWithText|Refine Speedup, +10m}}
+|{{RewardIconWithLink|Faraday's Dynamo|blue}}
+|{{RewardIconWithLink|Engine 86|green}}
+| -
+|-
+|[[Sewer Turtle]]
+|{{RewardIconWithText|Offering Speedup, +10m}}
+|{{RewardIconWithLink|Incense, +1|orange}}
+| -
+| -
+|-
+|[[Ghost Zadako]]
+|A random medium soul
+|?
+| -
+| -
+|-
+|[[Slug Dragon Tutor]]
+|A random Research Manual +1
+|?
+| -
+| -
+|-
+| rowspan="3"|Friday
+|[[Leeku]]
+|{{RewardIconWithLink|Guanery's Violin|blue}}
+|{{RewardIconWithLink|Lennon's Guitar|purple}}
+|{{RewardIconWithLink|Leeku's Guitar|green}}
+|{{RewardIconWithLink|Sealed Beast Gene Segment, +1}}
+|-
+|[[Red Doe]]
+|{{RewardIconWithText|Wood, +500}}<br>{{RewardIconWithText|Stone, +500}}
+|{{RewardIconWithLink|Golden Wheat|orange}}
+| -
+| -
+|-
+|[[Sleuth Doom]]
+|A random small soul of Chaos
+|?
+|?
+|?
+|-
+|rowspan="3"|Saturday
+|[[Taoraemon]]
+|A random Speedup +10m
+|{{RewardIconWithLink|Atomic Clock|blue}} +10
+|{{RewardIconWithLink|Time Adjuster|green}}
+| -
+|-
+|[[Mosasaur]]
+|{{RewardIconWithLink|Green Organ Slime, +3}}
+|{{RewardIconWithLink|Prehistoric Fossil|purple}} +20
+| -
+| -
+|-
+|[[Demon Chan-hee]]
+|{{RewardIconWithLink|Evolution Chest, +5}}
+|{{RewardIconWithLink|Mutated Tentacle|purple}}
+| -
+| -
+|-
+| rowspan="4"|Sunday
+|[[Lee Gi-na]]
+|{{RewardIconWithLink|Bach Concerto|blue}}
+|{{RewardIconWithLink|Moonlight Sonata|purple}}<br>{{RewardIconWithLink|The Nutcracker|purple}}
+|{{RewardIconWithLink|Bloodhoph Letter|green}}
+| -
+|-
+|[[Nito SSR]]
+|{{RewardIconWithLink|Mummy SR|blue|Minions}} +5 Fragments
+|{{RewardIconWithLink|Mummy SSR|orange|Minions}} +5 Fragments
+| -
+| -
+|-
+|[[Must-Not-Name]]
+|{{RewardIconWithText|Blue Reagent, +10|blue}}
+|{{RewardIconWithText|Purple Reagent, +10|purple}}<br>{{RewardIconWithText|Orange Reagent, +10|orange}}<br>{{RewardIconWithLink|Golden Menorah|blue}}
+|{{RewardIconWithLink|Anathema Scroll|green}}<br>{{RewardIconWithLink|Bloodthirsty Scroll|green}}<br>{{RewardIconWithLink|Stone Skin Scroll|green}}<br>{{RewardIconWithLink|Rejuvenation Scroll|green}}
+| -
+|-
+|[[Female Daemons]]
+|{{RewardIconWithLink|Toner, +3}}
+|{{RewardIconWithLink|9-Tailed Fox|purple}} shell
+|{{RewardIconWithLink|Water of Mother River|green}}
+| - 
+|-
+| rowspan="4" style="background-color:var(--red-bg);"|Unknown Day
+|[[Babyeater]]
+|?
+|?
+|?
+|?
+|-
+|[[Divine Child]]
+|?
+|?
+|?
+|{{RewardIconGeneSegment|Hundred-Eyed}} +1 Fragment
+|-
+|[[Dragoness Hub]]
+|?
+|{{RewardIconWithText|Fake Plant|blue}} +5 Fragment
+|?
+|{{RewardIconGeneSegment|Subject Draco}} +1 Fragment
+|-
+|[[Washed-up Noble]]
+|?
+|?
+|{{RewardIconWithLink|Ambika Statue|purple}} +20 Fragment<br>{{RewardIconWithLink|Indus Seal|purple}} +20 Fragment<br>{{RewardIconWithLink|Mother and Daughter|purple}} +20 Fragment<br>{{RewardIconWithLink|Cintamani|purle}} +20 Fragment
+|?
+|}
+
+[[Category:Partners]]

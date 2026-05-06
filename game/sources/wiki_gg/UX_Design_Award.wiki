@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=UX Design Award
+|class_id=22781
+|rank=SSS
+|affct=FAME
+|source=
+|description=This award is held twice a year to recognize outstanding experience design that positively impacts quality of life. It emphasizes that the core of design is to improve people's lives, and designers should shape the entire user journey by combining market research, user insights, design, and technology. The award aims to recognize meaningful products that provide better solutions for real-world needs, driving positive change. The evaluation process is extremely rigorous, with a jury composed of internationally renowned design experts, ensuring the high standards and professionalism of the competition.
+|fame=109
+|art=59
+|fth=52
+|civ=69
+|tech=73
+|ss1=Snail HP +300<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +9<br>prop@54128_2<br>Minion Skins crafted: 60/60
+|ss2=Snail HP +400<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +18<br>prop@54128_2<br>Minion Skins crafted: 60/60
+|ss3=Snail HP +500<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +27<br>prop@54128_2<br>Minion Skins crafted: 60/60
+|ss4=Snail HP +700<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +45<br>prop@54128_2<br>Minion Skins crafted: 60/60
+|ss5=Snail HP +900<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +63<br>prop@54128_2<br>Minion Skins crafted: 60/60
+|ss6=Snail HP +1200<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +90<br>prop@54128_2<br>Minion Skins crafted: 60/60
+|ss7=Snail HP +1200<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +90<br>prop@54128_2<br>Minion Skins crafted: 60/60<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +90 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +3%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|mirage={{Mirage|name=dungeon@22781_1|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Amber Lundy|3rec=340.64M|3atk=827020|3defense=469022|3hp=184129162|3weak=65534
+|4name=Pia Betton|4rec=434.24M|4atk=980410|4defense=553226|4hp=296492231|4weak=71269
+|5name=Klaus Schroeder |5rec=567.32M|5atk=1216168|5defense=672955|5hp=512192497|5weak=78693
+|6name=Carl Stern|6rec=756.09M|6atk=1737418|6defense=860413|6hp=831993491|6weak=88254
+|Arec=1057.35M|Aatk=2659987|Adefense=1170912|Ahp=1540830435|Aweak=98877
+}}}}

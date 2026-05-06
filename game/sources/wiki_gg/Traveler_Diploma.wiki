@@ -1,0 +1,27 @@
+{{CargoRelic
+|name=Traveler Diploma
+|class_id=21941
+|rank=S
+|affct=FAME
+|source=
+|description=Earth's Will made a set of evaluations to find the best warriors among travelers to fight the Demon Gods. Whoever passes the evaluations will be entrusted with this diploma by Earth's Will itself and the chance to confront the Demon Gods.
+|fame=103
+|art=57
+|fth=65
+|civ=56
+|tech=51
+|ss1=Snail HP +100<br>In explorations, Demon God Cells collected +0.6%<br>Per 4k Power, Snail ATK +1<br>Power: 160000/160000
+|ss2=Snail HP +200<br>In explorations, Demon God Cells collected +1.2%<br>Per 4k Power, Snail ATK +2<br>Power: 160000/160000
+|ss3=Snail HP +300<br>In explorations, Demon God Cells collected +1.8%<br>Per 4k Power, Snail ATK +3<br>Power: 160000/160000
+|ss4=Snail HP +500<br>In explorations, Demon God Cells collected +3%<br>Per 4k Power, Snail ATK +5<br>Power: 160000/160000
+|ss5=Snail HP +700<br>In explorations, Demon God Cells collected +4.2%<br>Per 4k Power, Snail ATK +7<br>Power: 160000/160000
+|ss6=Snail HP +1000<br>In explorations, Demon God Cells collected +6%<br>Per 4k Power, Snail ATK +10<br>Power: 160000/160000
+|ss7=Snail HP +1000<br>In explorations, Demon God Cells collected +6%<br>Per 4k Power, Snail ATK +10<br>Power: 160000/160000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +600
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail ATK +600
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail ATK +600
+|mirage={{Mirage|name=Budding Star|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=Combat Skills Examiner|3rec=0.14M|3atk=1536|3defense=1077|3hp=9718|3weak=645
+|4name=Survival Skills Examiner|4rec=1.33M|4atk=2537|4defense=17020|4hp=217249|4weak=3660
+|Arec=4.02M|Aatk=3538|Adefense=32963|Ahp=459222|Aweak=8304
+}}}}

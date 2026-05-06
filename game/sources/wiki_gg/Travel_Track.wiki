@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Travel Track
+|class_id=20226
+|rank=Green
+|affct=FAITH
+|source=
+|description=Time traveling is essentially the hopping from one timeline to a parallel timeline. To avoid falling into time storms, one must designate a temporo-spatial beacon in the target timeline.
+|fame=14
+|art=19
+|fth=28
+|civ=16
+|tech=15
+|ss1=Per Super Memetic Chest opened:<br>> Snail ATK +6<br>Super Memetic Chests Opened: 20/20
+|ss2=Per Super Memetic Chest opened:<br>> Snail ATK +12<br>Super Memetic Chests Opened: 20/20
+|ss3=Per Super Memetic Chest opened:<br>> Snail ATK +18<br>Super Memetic Chests Opened: 20/20
+|ss4=Per Super Memetic Chest opened:<br>> Snail ATK +18<br>Super Memetic Chests Opened: 20/20
+|ss7=Per Super Memetic Chest opened:<br>> Snail ATK +18<br>Super Memetic Chests Opened: 20/20<br> (Awakened)
+}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Western Han Jute Paper
+|class_id=22583
+|rank=AAA
+|affct=CIV
+|birthday=05-02
+|source=Lottery Machine No.3 (0.06%)
+|description=On May 2, 1990 AD, people discovered jute paper with ink marks during the excavation of the Han Dynasty's Xuanquan site.<br>As early as the 1980s, people discovered jute paper at the beacon site of the Han Dynasty, but because there were no written characters on it, historians suspected that it was a miscellaneous item. The jute paper unearthed at Xuanquan in the Western Han Dynasty is currently the only paper with ink marks, and it is also the world's earliest paper with ink marks.
+|fame=51
+|art=45
+|fth=39
+|civ=75
+|tech=33
+|ss1=When you receive Green Spores from Catalysis:<br>> Gain +1 Spore Voucher by +6%<br>Dragon Minion DEF +3%
+|ss2=When you receive Green Spores from Catalysis:<br>> Gain +1 Spore Voucher by +8%<br>Dragon Minion DEF +4%
+|ss3=When you receive Green Spores from Catalysis:<br>> Gain +1 Spore Voucher by +10%<br>Dragon Minion DEF +5%
+|ss4=When you receive Green Spores from Catalysis:<br>> Gain +1 Spore Voucher by +14%<br>Dragon Minion DEF +7%
+|ss5=When you receive Green Spores from Catalysis:<br>> Gain +1 Spore Voucher by +18%<br>Dragon Minion DEF +9%
+|ss7=When you receive Green Spores from Catalysis:<br>> Gain +1 Spore Voucher by +18%<br>Dragon Minion DEF +9%<br>When you receive Green Spores from Catalysis:<br>> Gain +1 Spore Voucher by +14% (Awakened)
+|skill1=[[File:Prairiesanctum skill II.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Cap +15%
+|skill2=[[File:Prairiesanctum skill II.png|50px]]Place in Prairie Sanctum: This Relic's CIV +10
+}}

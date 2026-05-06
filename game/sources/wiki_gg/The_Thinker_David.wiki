@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Thinker,David
+|rank=orange
+|amount=2
+|category=dna
+|description=Angel Gene Research SPD +4.2%
+}}
+[[Category:DNA]]

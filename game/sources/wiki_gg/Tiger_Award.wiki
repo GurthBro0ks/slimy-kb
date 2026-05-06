@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Tiger Award
+|class_id=20525
+|rank=Green
+|affct=CIV
+|source=
+|description=The Tiger Award is the highest honor at the Rotterdam International Film Festival in the Netherlands which is the most important stage for budding directors worldwide. The festival promotes individualism, targets young filmmakers, and only accepts the debut or the second film of a director. The jury members oppose standardization and prioritize encouraging innovation, effectively avoiding compromise in their decisions and the mediocrity that such compromises could result in.
+|fame=14
+|art=14
+|fth=16
+|civ=32
+|tech=14
+|ss1=All Sanctum Glorium Output +2%
+|ss2=All Sanctum Glorium Output +4%
+|ss3=All Sanctum Glorium Output +6%
+|ss4=All Sanctum Glorium Output +6%
+|ss7=All Sanctum Glorium Output +6%<br> (Awakened)
+}}

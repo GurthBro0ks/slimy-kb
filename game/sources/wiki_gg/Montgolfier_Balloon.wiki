@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Montgolfier Balloon
+|class_id=22017
+|rank=Blue
+|affct=FAME
+|birthday=09-11
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Sept 11, 1783 AD, the Montgolfier Brothers from France were permitted to give an air balloon show to the king.<br>The Montgolfier Balloon is the first hot-air balloon on Earth. It's made of taffeta with a layer of a special fire-proof paint coat. To raise funds, the Montgolfier brothers once did an experiment in front of Louis XVI. They put a sheep, a duck, and a chicken in the air balloon. After an eight-minute flight, these animals landed safely. Thanks to the experiment, they managed to continue their research and realized the dream of taking men to the sky in an air balloon in the same year.
+|fame=47
+|art=26
+|fth=21
+|civ=28
+|tech=32
+|ss1=In the Demon God Rocket Cabin:<br>> Orbit Assimilator Base Effect +8%
+|ss2=In the Demon God Rocket Cabin:<br>> Orbit Assimilator Base Effect +16%
+|ss3=In the Demon God Rocket Cabin:<br>> Orbit Assimilator Base Effect +24%
+|ss4=In the Demon God Rocket Cabin:<br>> Orbit Assimilator Base Effect +40%
+|ss7=In the Demon God Rocket Cabin:<br>> Orbit Assimilator Base Effect +40%<br>In the Demon God Rocket Cabin:<br>> Orbit Assimilator Base Effect +40% (Awakened)
+|skill1=[[File:Biozilla skill I.png|50px]]Place in a Biozilla: In Species War, All Minion RUSH +1%
+}}

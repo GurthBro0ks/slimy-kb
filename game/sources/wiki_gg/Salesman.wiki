@@ -1,0 +1,120 @@
+[[File:Salesman.png|150px|left|alt=Salesman]]
+
+The Salesman is a [[Visitors|Visitor]] that shows up to offer a random commodity. Occasionally, if you've been purchasing items from him, he will offer a survey. Rating him 0-stars 3 times and winning the fight rewards one random item from his list of commodities, as well as {{RewardIconWithText|1h Soul Green|green}} (Soul of Salesman). Or he can show up from a positive review and give you {{RewardIconWithLink|Lottery Ticket, +5|orange}} (repeatable). Eventually he will show up again to offer new items.
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness
+|-
+|Salesman||6,188||4,644||32,267||AFFCT 14,700
+|}
+
+Relics can only be received from the Salesman once.
+
+{{Clear}}
+
+{| class="wikitable"
+!'''Type'''
+!'''Commodity'''
+!'''Contents'''
+!'''Price in<br>{{RewardIconWithText|B-Tad}}s'''
+
+|-
+| rowspan="1" |'''Agricultural Supplies'''
+|{{RewardIconWithText|Organic Feed}}
+|{{RewardIconWithText|Sunny Plant Food}}
+|60k
+
+|-
+| rowspan="2" |'''Cleaning Supplies'''
+|{{RewardIconWithText|Mr Tough Cleaner}}
+|{{RewardIconWithText|Blue Reagent, +20|blue}}
+|12k
+|-
+|{{RewardIconWithText|Super Power Glue}}
+|{{RewardIconWithText|Glue, +10}}
+|9k
+
+|-
+| rowspan="2" |'''Electronic Device'''
+|{{RewardIconWithText|Ayden Disc}}
+|{{RewardIconWithLink|Unknown Record, +1|orange}}
+|45k
+|-
+|{{RewardIconWithText|Gundan Drone}}
+|{{RewardIconWithLink|Drone, +3}}
+|45k
+
+|-
+| rowspan="3" |'''Good Stuff''' 
+|{{RewardIconWithText|Face Wash}}
+|{{RewardIconWithText|W-Tad, +100}}
+|6k 
+|-
+|{{RewardIconWithText|Hand Cream}}
+|{{RewardIconWithText|Orange Reagent, +5|orange}}
+|36k
+|-
+|{{RewardIconWithText|Snail Figure}}
+|{{RewardIconWithLink|Snail Figure|green}}
+|36k 
+
+|-
+| rowspan="3" |'''Living Supplies'''
+|{{RewardIconWithText|73 Disinfectant}}
+|{{RewardIconWithLink|Green Organ Slime, +200|green}}
+|45K
+|-
+|{{RewardIconWithText|Bonley Fast Drying Paint}}
+|{{RewardIconWithLink|Coating Bucket, +2|orange}}
+|45K
+|-
+|{{RewardIconWithText|Schrodinger's Gel}}
+|{{RewardIconWithText|Quantum Gel, +500}}
+|45K
+
+|-
+| rowspan="2" |'''Outdoor Goods''' 
+|{{RewardIconWithText|Electric Fishing Net}}
+|{{RewardIconWithLink|Electric Fishing Net|green}}
+|36k
+|-
+|{{RewardIconWithText|Golden Pickaxe}}
+|{{RewardIconWithLink|Golden Pickaxe|orange}}
+|18k
+
+
+|-
+| rowspan="4" |'''Toiletries'''
+|{{RewardIconWithText|Dispolo Body Wash}}
+|{{RewardIconWithText|Demon Cell, +1k}}
+|9k
+|-
+|{{RewardIconWithText|Johns Baby Powder}}
+|{{RewardIconWithText|Zombie Cell, +1k}}
+|9k
+|-
+|{{RewardIconWithText|Philosopher Soap}}
+|{{RewardIconWithLink|Philosopher Soap|green}}
+|36k
+|-
+|{{RewardIconWithText|Tyreal Shampoo}}
+|{{RewardIconWithText|Angel Cell, +1k}}
+|9k 
+
+|-
+| rowspan="3" |'''Toys'''
+|{{RewardIconWithText|Spaceship Model}}
+|{{RewardIconWithLink|Spaceship Model|green}}
+|36k
+|-
+|{{RewardIconWithText|Stone Toy Bricks}}
+|{{RewardIconWithText|Stone, +1k}}
+|9k
+|-
+|{{RewardIconWithText|Wood Toy Bricks}}
+|{{RewardIconWithText|Wood, +1k}}
+|9k
+|}
+
+[[Category:Visitors]]
+[[Category:Salesman Relics]]

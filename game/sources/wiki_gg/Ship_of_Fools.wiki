@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Ship of Fools
+|class_id=22871
+|rank=SSS
+|affct=CIV
+|source=
+|description=Ship of Fools, also known as the Eight Thousand Line Poem, is a narrative work in poetic form, consisting of over seven thousand lines and one hundred and twelve chapters. It tells the story of a ship full of fools sailing from one town to another. InThis poem, each character is distinct and behaves absurdly, with vivid and creative depictions reflecting the author's satire of contemporary social customs. In literature, Ship of Fools was the first to use metaphorical techniques, having an important influence on the development of satirical literature.
+|fame=79
+|art=73
+|fth=55
+|civ=106
+|tech=49
+|ss1=Snail DEF +30<br>Mutant Minion DEF +3%<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +72<br>CIV Relics Awakened: 100/100
+|ss2=Snail DEF +40<br>Mutant Minion DEF +4%<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +96<br>CIV Relics Awakened: 100/100
+|ss3=Snail DEF +50<br>Mutant Minion DEF +5%<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +120<br>CIV Relics Awakened: 100/100
+|ss4=Snail DEF +70<br>Mutant Minion DEF +7%<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +168<br>CIV Relics Awakened: 100/100
+|ss5=Snail DEF +90<br>Mutant Minion DEF +9%<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +216<br>CIV Relics Awakened: 100/100
+|ss6=Snail DEF +120<br>Mutant Minion DEF +12%<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +288<br>CIV Relics Awakened: 100/100
+|ss7=Snail DEF +120<br>Mutant Minion DEF +12%<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +288<br>CIV Relics Awakened: 100/100<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, B-tads gained +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15
+}}

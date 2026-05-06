@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Positronic Brain
+|class_id=21042
+|rank=SSS
+|affct=FAME
+|source=
+|description=Proposed by Asimov in his robot series, the positronic brain is a fictional neural network core for robots. Made of platinum-iridium alloy, it processes information and executes logic, simulating human thought and emotions while adhering to the Three Laws of Robotics. It raises profound questions about the boundaries between humans and machines.
+|fame=109
+|art=71
+|fth=64
+|civ=69
+|tech=49
+|ss1=Snail Leadership +3<br>All Rocket Cabin production +0.9%<br>Per robot owned, Snail ATK +3<br>Robots owned: 50/50
+|ss2=Snail Leadership +4<br>All Rocket Cabin production +1.2%<br>Per robot owned, Snail ATK +4<br>Robots owned: 50/50
+|ss3=Snail Leadership +5<br>All Rocket Cabin production +1.5%<br>Per robot owned, Snail ATK +5<br>Robots owned: 50/50
+|ss4=Snail Leadership +7<br>All Rocket Cabin production +2.1%<br>Per robot owned, Snail ATK +7<br>Robots owned: 50/50
+|ss5=Snail Leadership +9<br>All Rocket Cabin production +2.7%<br>Per robot owned, Snail ATK +9<br>Robots owned: 50/50
+|ss6=Snail Leadership +12<br>All Rocket Cabin production +3.6%<br>Per robot owned, Snail ATK +12<br>Robots owned: 50/50
+|ss7=Snail Leadership +12<br>All Rocket Cabin production +3.6%<br>Per robot owned, Snail ATK +12<br>Robots owned: 50/50<br>All Rocket Cabin production +3% (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's FAME +15
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, INTEL gained +15%
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x Orange Reagent Drops +15%
+|mirage={{Mirage|name=Brainstorming|reward={{RewardIconWithLink|Refine Speedup, +28800|orange}}
+|3name=Training Robot|3rec=5.27M|3atk=57454|3defense=38371|3hp=921575|3weak=12617
+|4name=Exterminator|4rec=9.58M|4atk=79602|4defense=53163|4hp=1584137|4weak=15810
+|5name=Governor Model-800|5rec=16.57M|5atk=106552|5defense=71162|5hp=2590123|5weak=18841
+|6name=CyberVendorian|6rec=34.51M|6atk=138417|6defense=92443|6hp=4207029|6weak=23205
+|Arec=52.20M|Aatk=175702|Adefense=117344|Ahp=6412875|Aweak=28746
+}}}}

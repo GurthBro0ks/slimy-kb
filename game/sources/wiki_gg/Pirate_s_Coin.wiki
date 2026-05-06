@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Pirate's Coin
+|class_id=20922
+|rank=Green
+|affct=FAME
+|source=
+|description=Legend has it that these coins were blessed by the god of the sea, and people discovered them in Captain Jack's cave. When the first outsider touches the coin, it loses its divinity and becomes an ordinary souvenir.
+|fame=31
+|art=16
+|fth=14
+|civ=14
+|tech=15
+|ss1=Upon traveling through a new area:<br>> Gain +2 INTEL<br>Per Realm conquered, Snail ATK +5<br>Realms Conquered: 8/8
+|ss2=Upon traveling through a new area:<br>> Gain +4 INTEL<br>Per Realm conquered, Snail ATK +10<br>Realms Conquered: 8/8
+|ss3=Upon traveling through a new area:<br>> Gain +6 INTEL<br>Per Realm conquered, Snail ATK +15<br>Realms Conquered: 8/8
+|ss4=Upon traveling through a new area:<br>> Gain +6 INTEL<br>Per Realm conquered, Snail ATK +15<br>Realms Conquered: 8/8
+|ss7=Upon traveling through a new area:<br>> Gain +6 INTEL<br>Per Realm conquered, Snail ATK +15<br>Realms Conquered: 8/8<br> (Awakened)
+}}

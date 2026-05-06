@@ -1,0 +1,33 @@
+{{Missing Info|specifics=<br>Source<br>Mirage<br>Categories}}
+
+{{CargoRelic
+|name=Act of Supremacy
+|class_id=22696
+|rank=SSS
+|affct=FTH
+|birthday=07-01
+|source=
+|description=On July 1, 1533, Henry VIII prohibited the Church of England from paying tribute to the Roman Church and began drafting the Act of Supremacy.<br>Under the backdrop of the 16th-century European religious reforms, Henry VIII, citing the Pope's disapproval of his divorce from Queen, began to break away from the Roman Catholic Church. After years of preparation, Henry VIII officially announced the independence of the Church of England from the Roman Church, issuing the Act of Supremacy, designating the King of England as the actual controller of the Church of England. This severed ties with the Roman Church, establishing the Anglican Church, and formally making England a Protestant nation.
+|fame=67
+|art=69
+|fth=106
+|civ=52
+|tech=68
+|ss1=Snail Leadership +3<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per Bionic Part extracted, Snail ATK +3<br>Bionic Part Extracted: 50/50
+|ss2=Snail Leadership +4<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per Bionic Part extracted, Snail ATK +4<br>Bionic Part Extracted: 50/50
+|ss3=Snail Leadership +5<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per Bionic Part extracted, Snail ATK +5<br>Bionic Part Extracted: 50/50
+|ss4=Snail Leadership +7<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per Bionic Part extracted, Snail ATK +7<br>Bionic Part Extracted: 50/50
+|ss5=Snail Leadership +9<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per Bionic Part extracted, Snail ATK +9<br>Bionic Part Extracted: 50/50
+|ss6=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per Bionic Part extracted, Snail ATK +12<br>Bionic Part Extracted: 50/50
+|ss7=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per Bionic Part extracted, Snail ATK +12<br>Bionic Part Extracted: 50/50<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: Medal Output +30
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail ATK +600
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's FTH +15
+|mirage={{Mirage|name=?|reward=?
+|3name=|3rec=|3atk=|3def=|3hp=|3weak=
+|4name=|4rec=|4atk=|4def=|4hp=|4weak=
+|5name=|5rec=|5atk=|5def=|5hp=|5weak=
+|6name=|6rec=|6atk=|6def=|6hp=|6weak=
+|Arec=|Aatk=|Adef=|Ahp=|Aweak=
+}}
+}}

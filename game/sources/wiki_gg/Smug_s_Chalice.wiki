@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Smug's Chalice
+|class_id=21932
+|rank=SS
+|affct=FAME
+|birthday=06-30
+|source=
+|description=On Jun 30, 4728 BC, Smug invited John to appreciate the gold cup it guarded.<br>Smug the dragon liked to regularly display his treasures, a custom that has lasted for thousands of years. Anthropologist John was honored to be invited to document the event. A particular golden cup left an indelible impression on him. Light reflected off the cup brightly, lighting up dazzling jewels, weapons, armor, as well as the scales of the giant dragons.
+[Info]
+Faith: Morgoth
+Birthplace: Brand
+Birth Date: First Age
+Death Date: Third Age, year 2941
+Length: 141 meters
+Achievement: 1st place on the Rich list
+|fame=104
+|art=54
+|fth=59
+|civ=62
+|tech=68
+|ss1=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +3<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +9<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +9
+|ss2=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +6<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +18<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +18
+|ss3=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +9<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +27<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +27
+|ss4=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +15<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +45<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +45
+|ss5=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +21<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +63<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +63
+|ss6=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +90<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +90
+|ss7=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +90<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +90<br>Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's FAME +15
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: This Relic's FAME +15
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Fire DMG +600
+|mirage={{Mirage|name=The Last Dragon|reward={{RewardIconWithLink|Dragon Chest, +200|orange}}
+|3name=Broahalfling|3rec=7.05M|3atk=69071|3defense=45012|3hp=1437278|3weak=12548
+|4name=Gundolf|4rec=14.96M|4atk=103453|4defense=67418|4hp=2929185|4weak=16943
+|5name=Smug|5rec=36.49M|5atk=146143|5defense=95238|5hp=5646945|5weak=19112
+|Arec=61.19M|Aatk=199463|Adefense=129986|Ahp=10019604|Aweak=22084
+}}}}

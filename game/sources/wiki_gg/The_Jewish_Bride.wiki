@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The Jewish Bride
+|class_id=21141
+|rank=SSS
+|affct=ART
+|source=
+|description=Rembrandt’s golden embrace - a marital vow painted in divine light. Art history’s most enigmatic love portrait.
+|fame=48
+|art=108
+|fth=71
+|civ=71
+|tech=64
+|ss1=Demon Minion HP +3%<br>Protomon Snail assist DMG + 240<br>Per Spatial Realm participation, Snail DEF +6<br>Spatial Realm Participation: 30/30
+|ss2=Demon Minion HP +4%<br>Protomon Snail assist DMG + 320<br>Per Spatial Realm participation, Snail DEF +8<br>Spatial Realm Participation: 30/30
+|ss3=Demon Minion HP +5%<br>Protomon Snail assist DMG + 400<br>Per Spatial Realm participation, Snail DEF +10<br>Spatial Realm Participation: 30/30
+|ss4=Demon Minion HP +7%<br>Protomon Snail assist DMG + 560<br>Per Spatial Realm participation, Snail DEF +14<br>Spatial Realm Participation: 30/30
+|ss5=Demon Minion HP +9%<br>Protomon Snail assist DMG + 720<br>Per Spatial Realm participation, Snail DEF +18<br>Spatial Realm Participation: 30/30
+|ss6=Demon Minion HP +12%<br>Protomon Snail assist DMG + 960<br>Per Spatial Realm participation, Snail DEF +24<br>Spatial Realm Participation: 30/30
+|ss7=Demon Minion HP +12%<br>Protomon Snail assist DMG + 960<br>Per Spatial Realm participation, Snail DEF +24<br>Spatial Realm Participation: 30/30<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's ART +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Angel Cells gained +15%
+}}

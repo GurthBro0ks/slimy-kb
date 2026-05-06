@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=DOI,Proclamation 95
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Ads watched, Snail HP +100<br>Ads Watched: 100/100
+}}
+[[Category:Self]]

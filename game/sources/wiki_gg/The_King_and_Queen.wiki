@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=The King and Queen
+|class_id=22537
+|rank=AAA
+|affct=ART
+|birthday=10-04
+|source=Lottery Machine No.3 (0.06%)
+|description=On Oct 4, 1952 AD, Henry Moore began creating this bronze statue.<br>The King and Queen is one of the representative works of the British sculptor Henry Moore. Its shape is very simple, with the heads of the king and queen presented in an abstract style, resembling masks, while the body is thin and elongated. The statue is placed in the wilderness of Scotland, and against the backdrop of the environment, it exhibits a unique sense of history and mystery, with profound meaning.
+|fame=31
+|art=74
+|fth=52
+|civ=51
+|tech=35
+|ss1=Per 10 Protolith Chests opened, Snail ATK +3<br>Per 10 Protolith Chests opened, Priest-Troop Assistance DMG +24<br>Opened Protolith Chests: 500/500
+|ss2=Per 10 Protolith Chests opened, Snail ATK +4<br>Per 10 Protolith Chests opened, Priest-Troop Assistance DMG +32<br>Opened Protolith Chests: 500/500
+|ss3=Per 10 Protolith Chests opened, Snail ATK +5<br>Per 10 Protolith Chests opened, Priest-Troop Assistance DMG +40<br>Opened Protolith Chests: 500/500
+|ss4=Per 10 Protolith Chests opened, Snail ATK +7<br>Per 10 Protolith Chests opened, Priest-Troop Assistance DMG +56<br>Opened Protolith Chests: 500/500
+|ss5=Per 10 Protolith Chests opened, Snail ATK +9<br>Per 10 Protolith Chests opened, Priest-Troop Assistance DMG +72<br>Opened Protolith Chests: 500/500
+|ss7=Per 10 Protolith Chests opened, Snail ATK +9<br>Per 10 Protolith Chests opened, Priest-Troop Assistance DMG +72<br>Opened Protolith Chests: 500/500<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Cap +15%
+|skill2=[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: This Relic's ART +10
+}}

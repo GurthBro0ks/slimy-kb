@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=The Blue Boy
+|class_id=22541
+|rank=AAA
+|affct=ART
+|birthday=08-16
+|source=Lottery Machine No.3 (0.06%)
+|description=On Aug 16, 1770 AD, Gainsborough completed this portrait painting.<br>The Blue Boy is a work by the English painter Gainsborough. The overall tone of the painting is blue, and the use of pale red and yellow colors helps to balance the coldness of the color palette, creating a wonderful contrast that is both novel and unique, challenging the traditional painting style of the time.
+|fame=37
+|art=72
+|fth=45
+|civ=49
+|tech=40
+|ss1=When you receive Blue Spores from Catalysis:<br>> Gain +1 Spore Voucher by +6%<br>Demon Minion ATK +3%
+|ss2=When you receive Blue Spores from Catalysis:<br>> Gain +1 Spore Voucher by +8%<br>Demon Minion ATK +4%
+|ss3=When you receive Blue Spores from Catalysis:<br>> Gain +1 Spore Voucher by +10%<br>Demon Minion ATK +5%
+|ss4=When you receive Blue Spores from Catalysis:<br>> Gain +1 Spore Voucher by +14%<br>Demon Minion ATK +7%
+|ss5=When you receive Blue Spores from Catalysis:<br>> Gain +1 Spore Voucher by +18%<br>Demon Minion ATK +9%
+|ss7=When you receive Blue Spores from Catalysis:<br>> Gain +1 Spore Voucher by +18%<br>Demon Minion ATK +9%<br>When you receive Blue Spores from Catalysis:<br>> Gain +1 Spore Voucher by +14% (Awakened)
+|skill1=[[File:Prairiesanctum skill II.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Cap +15%
+|skill2=[[File:Prairiesanctum skill II.png|50px]]Place in Prairie Sanctum: This Relic's ART +10
+}}

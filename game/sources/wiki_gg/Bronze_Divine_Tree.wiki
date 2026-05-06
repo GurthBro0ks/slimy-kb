@@ -1,0 +1,32 @@
+possibly got totally overhauled?
+{{CargoRelic
+|name=Bronze Divine Tree
+|available=0
+|rank=SSS
+|affct=FTH
+|birthday=07-14
+|source=Unknown
+|description=
+|fame=
+|art=
+|fth=
+|civ=
+|tech=
+|ss1=
+|ss2=
+|ss3=
+|ss4=
+|ss5=
+|ss6=
+|ss7=
+|skill1=
+|skill2=
+|skill3=
+|mirage={{Mirage|name=[Mirage Name]|reward=[Final Reward]
+|3name=|3rec=|3atk=|3def=|3hp=|3weak=
+|4name=|4rec=|4atk=|4def=|4hp=|4weak=
+|5name=|5rec=|5atk=|5def=|5hp=|5weak=
+|6name=|6rec=|6atk=|6def=|6hp=|6weak=
+|Arec=|Aatk=|Adef=|Ahp=|Aweak=
+}}
+}}

@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Noah's Ark
+|class_id=21913
+|rank=SSS
+|affct=FAME
+|birthday=01-12
+|source=
+|description=On Jan 12, 2369 BC, passengers of Noah's Ark were rescued after stopping on Mt. Ararat.<br>God cursed mankind with a great flood, but he notified Noah's family in advance. Noah's 8 family members lived on the ark along with many birds and beasts. There was one mating pair of unclean animals and seven mating pairs of clean animals. When the flood came, only the animals on Noah's Ark were spared. After the flood, Noah's Ark was stranded on Mount Ararat. God then no longer cursed the earth for the sake of man.
+[Noah's Ark Info]
+Length: ~133.5m
+Width: ~22.3m
+Height: ~13.4m
+Weight: ~28k tons
+Volume: 40k m3
+Storage Area: 8,900 m2
+
+|fame=109
+|art=61
+|fth=73
+|civ=49
+|tech=70
+|ss1=Angel Gene Research SPD +1.5%<br>Per partner you have, Snail ATK +9<br>Per partner you have, Snail DEF +9<br>Current Partners: 15/15
+|ss2=Angel Gene Research SPD +2%<br>Per partner you have, Snail ATK +12<br>Per partner you have, Snail DEF +12<br>Current Partners: 15/15
+|ss3=Angel Gene Research SPD +2.5%<br>Per partner you have, Snail ATK +15<br>Per partner you have, Snail DEF +15<br>Current Partners: 15/15
+|ss4=Angel Gene Research SPD +3.5%<br>Per partner you have, Snail ATK +21<br>Per partner you have, Snail DEF +21<br>Current Partners: 15/15
+|ss5=Angel Gene Research SPD +4.5%<br>Per partner you have, Snail ATK +27<br>Per partner you have, Snail DEF +27<br>Current Partners: 15/15
+|ss6=Angel Gene Research SPD +6%<br>Per partner you have, Snail ATK +36<br>Per partner you have, Snail DEF +36<br>Current Partners: 15/15
+|ss7=Angel Gene Research SPD +6%<br>Per partner you have, Snail ATK +36<br>Per partner you have, Snail DEF +36<br>Current Partners: 15/15<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail HP +6000
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail DEF +600
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: HP Regen +1200 HP
+|mirage={{Mirage|name=Ark Descendant|reward={{RewardIconWithLink|Ancient Wood, +3|orange}}
+|3name=Shem|3rec=2.56M|3atk=38059|3defense=25418|3hp=509007|3weak=8835
+|4name=Ham|4rec=5.09M|4atk=56335|4defense=37623|4hp=1007310|4weak=11841
+|5name=Japheth|5rec=9.44M|5atk=78976|5defense=52745|5hp=1816140|5weak=13534
+|6name=Noah|6rec=16.53M|6atk=106413|6defense=71068|6hp=3176162|6weak=17459
+|Arec=34.52M|Aatk=138451|Adefense=92465|Ahp=5154610|Aweak=18898
+}}}}

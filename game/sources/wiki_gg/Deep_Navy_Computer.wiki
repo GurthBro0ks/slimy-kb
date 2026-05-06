@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Deep Navy Computer
+|class_id=21813
+|rank=SSS
+|affct=TECH
+|birthday=01-21
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Jan 21, 1997 AD, the Deep Navy Computer defeated a human chess grandmaster, winning two games, drawing three, and losing one.<br>It took the technicians six years to develop the Deep Navy Computer. This supercomputer is equipped with 31 parallel processors and can process data for 50 billion chess moves in three minutes. Although it cannot learn from experience or improvise, it still won two games against a human grandmaster.
+|fame=70
+|art=55
+|fth=80
+|civ=48
+|tech=109
+|ss1=Snail RUSH +30<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +9<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +9
+|ss2=Snail RUSH +40<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +18<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +18
+|ss3=Snail RUSH +50<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +27<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +27
+|ss4=Snail RUSH +70<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +45<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +45
+|ss5=Snail RUSH +90<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +63<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +63
+|ss6=Snail RUSH +120<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +90<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +90
+|ss7=Snail RUSH +120<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +90<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +90<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +90 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, HIT +15%
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: This Relic's TECH +15
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail RUSH +600
+|mirage={{Mirage|name=Supercomputer|reward={{RewardIconWithLink|Gene Speedup, +28800|orange}}
+|3name=Super Mouse|3rec=66.34M|3atk=205706|3defense=137234|3hp=11125012|3weak=26768
+|4name=Super Keyboard|4rec=84.80M|4atk=244624|4defense=163199|4hp=15018676|4weak=31772
+|5name=Super Socket|5rec=105.34M|5atk=287956|5defense=192107|5hp=19936216|5weak=35436
+|6name=Super Processor|6rec=129.05M|6atk=337942|6defense=225455|6hp=26105033|6weak=39003
+|Arec=154.84M|Aatk=392342|Adefense=261747|Ahp=33546416|Aweak=43998
+}}}}

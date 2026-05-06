@@ -1,0 +1,31 @@
+{{Missing Info|specifics=<br>Source<br>Mirage Name<br>Categories}}
+
+{{CargoRelic
+|name=A' Design Award
+|class_id=22842
+|rank=SSS
+|affct=FTH
+|source=
+|description=This award is supported by the International Industrial Design Association and the Italian Industrial Design Association, recognized as an important award in the international design community. It aims to discover and recognize the most outstanding designs, technologies, and creativity worldwide, providing an international platform for showcasing winners, encouraging designers, institutions, and brands to create more high-quality products, projects, and services, promoting social development and fostering the prosperity of various industries.
+|fame=61
+|art=74
+|fth=109
+|civ=52
+|tech=66
+|ss1=Snail DEF +30<br>Angel Minion RUSH +3%<br>Per 3 Dorm Decors gained, Snail RUSH +3<br>Dorm Decor Gained: 150/150
+|ss2=Snail DEF +40<br>Angel Minion RUSH +4%<br>Per 3 Dorm Decors gained, Snail RUSH +4<br>Dorm Decor Gained: 150/150
+|ss3=Snail DEF +50<br>Angel Minion RUSH +5%<br>Per 3 Dorm Decors gained, Snail RUSH +5<br>Dorm Decor Gained: 150/150
+|ss4=Snail DEF +70<br>Angel Minion RUSH +7%<br>Per 3 Dorm Decors gained, Snail RUSH +7<br>Dorm Decor Gained: 150/150
+|ss5=Snail DEF +90<br>Angel Minion RUSH +9%<br>Per 3 Dorm Decors gained, Snail RUSH +9<br>Dorm Decor Gained: 150/150
+|ss6=Snail DEF +120<br>Angel Minion RUSH +12%<br>Per 3 Dorm Decors gained, Snail RUSH +12<br>Dorm Decor Gained: 150/150
+|ss7=Snail DEF +120<br>Angel Minion RUSH +12%<br>Per 3 Dorm Decors gained, Snail RUSH +12<br>Dorm Decor Gained: 150/150<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: Medal Output +30
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+|mirage={{Mirage|name=dungeon@22842_1|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Industrial Design Award|3rec=442.81M|3atk=994954|3defense=560943|3hp=309089930|3weak=71775
+|4name=Image Design Award|4rec=556.12M|4atk=1190399|4defense=662876|4hp=493499524|4weak=78091
+|5name=Architectural Design Award|5rec=738.77M|5atk=1688151|5defense=841843|5hp=798283190|5weak=87438
+|6name=Art and Engineering Award|6rec=1041.46M|6atk=2618358|6defense=1155577|6hp=1501756663|6weak=98371
+|Arec=1522.14M|Aatk=3956791|Adefense=1619449|Ahp=2547375167|Aweak=110950
+}}}}

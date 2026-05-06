@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Seated Voltaire
+|class_id=22252
+|rank=SSS
+|affct=ART
+|birthday=11-02
+|source=
+|description=On Nov 2, 1782 AD, Houdon sculpted this seated statue for the revered master Voltaire.<br>The Seated Voltaire is the master work of the French sculptor Houdon. Its head is slightly cocked to the side, the left hand actively grips the chair arm and the right foot is angled further back. A lower seat back and bulkier robe both lend greater monumentality to the sculpture, a graphic demonstration of the creative processes that transformed a casual genre sketch into an icon of the Enlightenment. Voltaire's best friend, Empress Catherine, bought it from Houdon and placed it in the Hermitage as a tribute to this great man.
+|fame=54
+|art=106
+|fth=69
+|civ=71
+|tech=62
+|ss1=Snail Leadership +3<br>Per 20 ART Wishes made, Snail DEF +3<br>Per 20 ART Wishes made, Snail RUSH +3<br>Wishes Made: 1000/1000
+|ss2=Snail Leadership +4<br>Per 20 ART Wishes made, Snail DEF +4<br>Per 20 ART Wishes made, Snail RUSH +4<br>Wishes Made: 1000/1000
+|ss3=Snail Leadership +5<br>Per 20 ART Wishes made, Snail DEF +5<br>Per 20 ART Wishes made, Snail RUSH +5<br>Wishes Made: 1000/1000
+|ss4=Snail Leadership +7<br>Per 20 ART Wishes made, Snail DEF +7<br>Per 20 ART Wishes made, Snail RUSH +7<br>Wishes Made: 1000/1000
+|ss5=Snail Leadership +9<br>Per 20 ART Wishes made, Snail DEF +9<br>Per 20 ART Wishes made, Snail RUSH +9<br>Wishes Made: 1000/1000
+|ss6=Snail Leadership +12<br>Per 20 ART Wishes made, Snail DEF +12<br>Per 20 ART Wishes made, Snail RUSH +12<br>Wishes Made: 1000/1000
+|ss7=Snail Leadership +12<br>Per 20 ART Wishes made, Snail DEF +12<br>Per 20 ART Wishes made, Snail RUSH +12<br>Wishes Made: 1000/1000<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion DEF +6%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop Wind DMG +30
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's ART +15
+|mirage={{Mirage|name=Enlightenment|reward={{RewardIconWithLink|Golden Eyelashes Sample, +3|orange}}
+|3name=Rousseau|3rec=17.93M|3atk=111181|3defense=74173|3hp=3573608|3weak=18103
+|4name=Montesquieu|4rec=31.80M|4atk=132853|4defense=88632|4hp=5008376|4weak=19119
+|5name=Diderot|5rec=43.03M|5atk=156543|5defense=104436|5hp=6809372|5weak=20502
+|6name=Hobbes|6rec=55.86M|6atk=183594|6defense=122483|6hp=9029852|6weak=22927
+|Arec=70.20M|Aatk=213846|Adefense=142665|Ahp=11814290|Aweak=28134
+}}}}

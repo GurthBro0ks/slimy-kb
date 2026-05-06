@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Murder On The Train
+|class_id=22068
+|rank=Blue
+|affct=CIV
+|birthday=01-01
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Jan 1, 1934 AD, Murder on the Train was first published.<br>Murder On The Train is a renowned detective fiction story. It involves a murder case on a train and follows a detective's investigation of twelve suspects using complex clues to find the true killer. The book introduced a new style to detective novels, significantly influencing later literary works of the same genre.
+|fame=32
+|art=27
+|fth=26
+|civ=48
+|tech=21
+|ss1=Per 10 Apostles dominated, Snail ATK +3<br>Apostles Dominated: 200/200
+|ss2=Per 10 Apostles dominated, Snail ATK +6<br>Apostles Dominated: 200/200
+|ss3=Per 10 Apostles dominated, Snail ATK +9<br>Apostles Dominated: 200/200
+|ss4=Per 10 Apostles dominated, Snail ATK +15<br>Apostles Dominated: 200/200
+|ss7=Per 10 Apostles dominated, Snail ATK +15<br>Apostles Dominated: 200/200<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +20
+}}

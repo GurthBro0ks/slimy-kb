@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Battleship Damaru Model
+|class_id=20397
+|rank=Green
+|affct=TECH
+|source=
+|description=The model of the battleship Daimaru features a high-strength alloy frame and precision injection-molded components. It perfectly replicates the complex bridge, powerful propulsion system, and formidable array of weapons. Users can activate the virtual tactical system within the model to experience what it's like to be in a real bridge command center.
+|fame=14
+|art=16
+|fth=20
+|civ=10
+|tech=30
+|ss1=Per +30F in Minion Sims Record, Snail ATK +1<br>Minion Sims record: 1500/1500F
+|ss2=Per +30F in Minion Sims Record, Snail ATK +2<br>Minion Sims record: 1500/1500F
+|ss3=Per +30F in Minion Sims Record, Snail ATK +3<br>Minion Sims record: 1500/1500F
+|ss4=Per +30F in Minion Sims Record, Snail ATK +3<br>Minion Sims record: 1500/1500F
+|ss7=Per +30F in Minion Sims Record, Snail ATK +3<br>Minion Sims record: 1500/1500F<br> (Awakened)
+}}

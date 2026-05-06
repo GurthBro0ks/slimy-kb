@@ -1,0 +1,21 @@
+{{Location|title=Time Rift|imagecaption=Map of the Time Rift|type=|image=File:TimeRiftFullMap.png}}
+
+==Time Rift==
+The godforsaken dimension has no rules nor faith. Nihility and chaos spread all the way to the end...
+
+The Time Rift is the 9th exploration zone, accessible after all [[Realms]] have been completed. It is an extremely large place, consisting of 40 areas to visit and conquer.
+{{realm table}}
+
+==INTEL==
+See [[Time Rift INTEL]] for INTEL tables.
+
+==Apostles ==
+See [[Time Rift Apostles]] for each Apostles' stats.
+
+==Card Conversions==
+See [[Time Rift Cards]] for a list of all limited cards in the Time Rift and what they can be redeemed for.
+
+==Time Beacon==
+See [[Time Beacon]] to see more about the Temporal Drifters.
+
+[[Category:Time Rift]]

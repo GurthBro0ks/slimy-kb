@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Surf Clam Cauldron
+|class_id=20743
+|rank=Green
+|affct=FAITH
+|source=
+|description=The cauldron, used by the Surf Clams for alchemical experiments, not only efficiently extracts and refines raw materials, but its thick and sturdy exterior can also contain various unforeseen accidents within. It is an alchemist's dream test partner!
+|fame=19
+|art=13
+|fth=29
+|civ=14
+|tech=15
+|ss1=prop@55054_2<br>prop@55059_2
+|ss2=prop@55054_2<br>prop@55059_2
+|ss3=prop@55054_2<br>prop@55059_2
+|ss4=prop@55054_2<br>prop@55059_2
+|ss7=prop@55054_2<br>prop@55059_2<br> (Awakened)
+}}

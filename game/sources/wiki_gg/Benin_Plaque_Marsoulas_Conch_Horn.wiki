@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=583
+|relics=Benin Plaque,Marsoulas Conch Horn
+|rank=blue
+|amount=2
+|category=self
+|description=Per 3 basic fusions, Snail RUSH +5;Basic Fusions: 150/150
+}}

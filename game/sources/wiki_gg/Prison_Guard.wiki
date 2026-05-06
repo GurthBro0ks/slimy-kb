@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Prison Guard
+|rank=blue
+|cabin=2
+|id=44
+|gene1={race} HP +200
+|gene2={race} CIV +20
+|gene3=Water DMG +10
+|gene4=Per 10 Mecha Minions in battle:
+> Troop HP +20
+|gene5=Water DMG +20
+|}}

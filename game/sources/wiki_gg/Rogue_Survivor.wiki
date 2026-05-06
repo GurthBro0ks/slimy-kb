@@ -1,0 +1,18 @@
+==Rogue Survivor==
+'''Aliases: Hitman No.9, Carlos'''
+
+The Rogue Survivor appears initially as [[Hitmen|Hitman No.9]], sent by the Demon Gods to defeat the snail.
+
+After defeating him, he annoys the snail by showing up in various places around [[Home Base]], and must be discovered 20 times before finally disappearing. Those places are: The Wish Pond and under the grate in the Gene Room. He can be scared away by interacting any items in the Wish Pond or sending a critter into the grate.
+
+After finding him 20 times, it is some time before he shows up again. 
+
+The next event of note is [[Hitmen|Hitman No.33]], who, through dialogue, is revealed to be the Rogue Survivor's boyfriend Veronica. Veronica has come to avenge her lost loves defeat. 
+
+After defeating Veronica, the Rogue Survivor will begin to pester the snail again to avenge Veronica's defeat. He'll show up in the same places as last time, but this time he wants a fight.
+
+{|class="wikitable"
+!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|83,734||71,230||1,645,274||AFFCT 122,380||Demon Chest +300
+|}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Red Dot Award
+|class_id=22126
+|rank=AAA
+|affct=FAME
+|birthday=12-06
+|source=*[[Decor Rating]] #1 (Fragments awarded at 10, 40, and 70 Decor Rating)
+|description=On Dec 6, 1995 AD, the prestigious European Design Association established the Red Dot Award.<br>The Red Dot Award is an international product design award and is a recognition of excellent innovative design. The selection process of the Red Dot Award nominees is extremely stringent and only products that have been in the market for less than two years are eligible. Standing out from similar products in the shortest time is a challenge for many designers. However, once a designer is accredited, their work will be highly promoted in their industry, so winning the Red Dot Award is a dream come true for every designer.
+|fame=75
+|art=40
+|fth=34
+|civ=45
+|tech=49
+|ss1=Home Decor Inc, Series C Decor Coin Dividend +4%<br>Zombie Gene Research B-tad Cost -1.8%
+|ss2=Home Decor Inc, Series C Decor Coin Dividend +5%<br>Zombie Gene Research B-tad Cost -2.4%
+|ss3=Home Decor Inc, Series C Decor Coin Dividend +6%<br>Zombie Gene Research B-tad Cost -3%
+|ss4=Home Decor Inc, Series C Decor Coin Dividend +8%<br>Zombie Gene Research B-tad Cost -4.2%
+|ss5=Home Decor Inc, Series C Decor Coin Dividend +10%<br>Zombie Gene Research B-tad Cost -5.4%
+|ss7=Home Decor Inc, Series C Decor Coin Dividend +10%<br>Zombie Gene Research B-tad Cost -5.4%<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +60
+}}

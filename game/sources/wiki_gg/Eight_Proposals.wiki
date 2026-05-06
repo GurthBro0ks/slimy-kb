@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Eight Proposals
+|class_id=22306
+|rank=SS
+|affct=CIV
+|birthday=06-09
+|source=Lottery Machine No.2 (0.21%), Wishing (0.79%)
+|description=On Jun 9, 1867 AD, Sakamoto Ryoma discussed the Eight Proposals with Goto Shojiro on board a Tosa ship.<br>The Eight Proposals were eight political reform plans proposed by Sakamoto Ryoma and Goto Shojiro during a meeting on a Tosa ship outside Nagasaki. Sakamoto Ryoma outlined the need for a democratically elected bicameral legislature, the writing of a constitution, the formation of a national army and navy, and the regulation of the exchange rates of gold and silver. Shojiro Goto negotiated with Yamauchi Toyoshige on Sakamoto Ryoma's proposals, which led to the voluntary resignation of the Shogun Tokugawa Yoshinobu.
+|fame=64
+|art=66
+|fth=60
+|civ=104
+|tech=53
+|ss1=Snail RUSH +20<br>In the Rebel Rocket Cabin:<br>> Prismatic Armor Base Effect +16%<br>In the Rebel Rocket Cabin:<br>> Auto-reload Device Base Effect +16%
+|ss2=Snail RUSH +30<br>In the Rebel Rocket Cabin:<br>> Prismatic Armor Base Effect +24%<br>In the Rebel Rocket Cabin:<br>> Auto-reload Device Base Effect +24%
+|ss3=Snail RUSH +40<br>In the Rebel Rocket Cabin:<br>> Prismatic Armor Base Effect +32%<br>In the Rebel Rocket Cabin:<br>> Auto-reload Device Base Effect +32%
+|ss4=Snail RUSH +60<br>In the Rebel Rocket Cabin:<br>> Prismatic Armor Base Effect +48%<br>In the Rebel Rocket Cabin:<br>> Auto-reload Device Base Effect +48%
+|ss5=Snail RUSH +80<br>In the Rebel Rocket Cabin:<br>> Prismatic Armor Base Effect +64%<br>In the Rebel Rocket Cabin:<br>> Auto-reload Device Base Effect +64%
+|ss6=Snail RUSH +110<br>In the Rebel Rocket Cabin:<br>> Prismatic Armor Base Effect +88%<br>In the Rebel Rocket Cabin:<br>> Auto-reload Device Base Effect +88%
+|ss7=Snail RUSH +110<br>In the Rebel Rocket Cabin:<br>> Prismatic Armor Base Effect +88%<br>In the Rebel Rocket Cabin:<br>> Auto-reload Device Base Effect +88%<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion HP +9%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, AFFCT Checks -150
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Snail ATK +600
+|mirage={{Mirage|name=Restoration of Power|reward={{RewardIconWithLink|Travel Speedup, +28800|orange}}
+|3name=Okada Izo|3rec=31.15M|3atk=131481|3defense=87716|3hp=4950163|3weak=19055
+|4name=Takasugi Shinsaku|4rec=46.64M|4atk=164165|4defense=109521|4hp=7481115|4weak=21075
+|5name=Ryoma|5rec=64.35M|5atk=201514|5defense=134438|5hp=10656514|5weak=25846
+|Arec=84.63M|Aatk=244281|Adefense=162970|Ahp=14995300|Aweak=31742
+}}}}

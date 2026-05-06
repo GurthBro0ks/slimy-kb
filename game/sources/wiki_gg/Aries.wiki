@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Aries
+|class_id=21531
+|rank=SSS
+|affct=CIV
+|source=
+|description=As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:
+"The emperor spends heavy money,
+to invite his favorite honey."
+|fame=63
+|art=50
+|fth=70
+|civ=110
+|tech=72
+|ss1=Snail HARD Stats +150<br>Snail All ELMT DMG +50<br>Vending Machine Lottery Ticket purchases +1<br>Vending Machine Reagent purchases +1
+|ss2=Snail HARD Stats +150<br>Snail All ELMT DMG +50<br>Vending Machine Lottery Ticket purchases +1<br>Vending Machine Reagent purchases +1
+|ss3=Snail HARD Stats +150<br>Snail All ELMT DMG +50<br>Vending Machine Lottery Ticket purchases +1<br>Vending Machine Reagent purchases +1
+|ss4=Snail HARD Stats +150<br>Snail All ELMT DMG +50<br>Vending Machine Lottery Ticket purchases +1<br>Vending Machine Reagent purchases +1
+|ss5=Snail HARD Stats +150<br>Snail All ELMT DMG +50<br>Vending Machine Lottery Ticket purchases +1<br>Vending Machine Reagent purchases +1
+|ss6=Snail HARD Stats +150<br>Snail All ELMT DMG +50<br>Vending Machine Lottery Ticket purchases +1<br>Vending Machine Reagent purchases +1
+|ss7=Snail HARD Stats +150<br>Snail All ELMT DMG +50<br>Vending Machine Lottery Ticket purchases +1<br>Vending Machine Reagent purchases +1<br>Vending Machine Reagent purchases +2 (Awakened)
+|skill1=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, Travel SPD +9%
+|skill2=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, B-tads gained +15%
+|skill3=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, Demon God Cells gained +30%
+|mirage={{Mirage|name=Aries Star|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Daimyo Toyotomi|3rec=1.04M|3atk=21922|3defense=14483|3hp=187347|3weak=?
+|4name=Descartes|4rec=2.20M|4atk=35161|4defense=23230|4hp=407492|4weak=?
+|5name=Chaplin|5rec=4.34M|5atk=52107|5defense=34426|5hp=782617|5weak=?
+|6name=Bismarck|6rec=8.05M|6atk=73259|6defense=48401|6hp=1448151|6weak=?
+|Arec=14.12M|Aatk=98977|Adefense=65393|Ahp=2402159|Aweak=?
+}}}}

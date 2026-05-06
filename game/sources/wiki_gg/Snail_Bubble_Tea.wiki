@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Snail Bubble Tea
+|class_id=21000
+|rank=Green
+|affct=FAME
+|source=
+|description=Each cup of Snail Bubble Tea comes at the cost of many snail lives. The carefully processed snails are slow-brewed to perfection, revealing a distinct spiral pattern and a delightfully chewy texture. Paired with a premium high-mountain oolong base and rich fresh milk, it’s the signature favorite of the Bird.
+|fame=55
+|art=5
+|fth=5
+|civ=5
+|tech=5
+|ss1=Per 5 Sign-Ins, Snail HP +10<br>Sign-Ins: 365/365
+|ss2=Per 5 Sign-Ins, Snail HP +15<br>Sign-Ins: 365/365
+|ss3=Per 5 Sign-Ins, Snail HP +20<br>Sign-Ins: 365/365
+|ss4=Per 5 Sign-Ins, Snail HP +20<br>Sign-Ins: 365/365
+|ss7=Per 5 Sign-Ins, Snail HP +20<br>Sign-Ins: 365/365<br> (Awakened)
+}}

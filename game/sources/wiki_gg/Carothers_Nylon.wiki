@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Carothers Nylon
+|class_id=22416
+|rank=Blue
+|affct=FAME
+|birthday=02-05
+|source=Lottery Machine No.3 (0.03%)
+|description=On Feb 5, 1928 AD, Carothers' team successfully synthesized nylon.<br>Carothers stumbled upon a white fiber with remarkable strength and elasticity while researching polymers in the residues from a previous experiment. He later led a team to produce it, resulting in the invention of nylon. This breakthrough material marked a major advance in the synthetic fiber industry and greatly impacted the textile industry.
+|fame=45
+|art=26
+|fth=20
+|civ=31
+|tech=32
+|ss1=Zombie Minion DEF +1%
+|ss2=Zombie Minion DEF +2%
+|ss3=Zombie Minion DEF +3%
+|ss4=Zombie Minion DEF +5%
+|ss7=Zombie Minion DEF +5%<br>Zombie Minion DEF +5% (Awakened)
+|skill1=[[File:Prairiesanctum skill I.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +5%
+}}

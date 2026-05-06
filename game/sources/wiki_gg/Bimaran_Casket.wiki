@@ -1,0 +1,45 @@
+{{CargoRelic
+|name=Bimaran Casket
+|class_id=22274
+|rank=S
+|affct=FTH
+|birthday=10-26
+|source=Lottery Machine No.2 (1.45%), Wishing (5.4%)
+|description=On Oct 26, 119 AD, the Bimaran Casket was crafted.<br>The Bimaran casket is a small gold reliquary for Buddhist relics. Its main body is made of gold, inlaid with precious gemstones such as garnets, and carved with two groups of figures separated by arches, with the Buddha standing in the center, Brahma and Sakra standing on either side, acting as left and right protectors. It is not only a beautifully crafted artifact but also one of the important records of the image of the early Buddha, which is of great significance for exploring the development of early Buddhism.
+|fame=56
+|art=69
+|fth=100
+|civ=49
+|tech=58
+|ss1=Snail HP +100<br>Refine +1 Green Demon God Material +1%<br>Per 3 Incense used, Snail HP +10<br>Incense Used: 150/150
+|ss2=Snail HP +200<br>Refine +1 Green Demon God Material +2%<br>Per 3 Incense used, Snail HP +20<br>Incense Used: 150/150
+|ss3=Snail HP +300<br>Refine +1 Green Demon God Material +3%<br>Per 3 Incense used, Snail HP +30<br>Incense Used: 150/150
+|ss4=Snail HP +500<br>Refine +1 Green Demon God Material +5%<br>Per 3 Incense used, Snail HP +50<br>Incense Used: 150/150
+|ss5=Snail HP +700<br>Refine +1 Green Demon God Material +7%<br>Per 3 Incense used, Snail HP +70<br>Incense Used: 150/150
+|ss6=Snail HP +1000<br>Refine +1 Green Demon God Material +10%<br>Per 3 Incense used, Snail HP +100<br>Incense Used: 150/150
+|ss7=Snail HP +1000<br>Refine +1 Green Demon God Material +10%<br>Per 3 Incense used, Snail HP +100<br>Incense Used: 150/150<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail DEF +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FTH +15
+|mirage={{Mirage|name=Casket Sculpture|reward={{RewardIconWithLink|Incense, +3|orange}}
+|3name=Indra Sculpture|3rec=8.99M|3atk=95240|3def=63539|3hp=2688257|3weak=19418
+|6name=Brahma Sculpture|6rec=16.4M|6atk=139696|6def=91378|6hp=5304124|6weak=24200
+|Arec=27.8M|Aatk=189699|Adef=126556|Ahp=9536107|Aweak=29545
+}}
+}}
+
+[[Category:HP Boost]]
+[[Category:Wormhole Boost]]
+[[Category:Incense Boost]]
+[[Category:Rift Museum Boost]]
+[[Category:Rift Exploration Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Biozilla Skill]]
+[[Category:FTH Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:DEF Boost]]
+[[Category:God of Whales Descent Boost]]
+[[Category:ATK Boost]]
+[[Category:Scroll Reagent Boost]]
+[[Category:Rewards Incense]]

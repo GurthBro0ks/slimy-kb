@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Gemini
+|class_id=21731
+|rank=SSS
+|affct=FAITH
+|source=
+|description=As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:
+Maidens toss coins in the river's hush,
+Yearning whispers from lovers in secret rush.
+|fame=55
+|art=70
+|fth=110
+|civ=61
+|tech=69
+|ss1=Snail HARD Stats +500<br>Snail All ELMT DMG +50<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +20%
+|ss2=Snail HARD Stats +500<br>Snail All ELMT DMG +50<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +20%
+|ss3=Snail HARD Stats +500<br>Snail All ELMT DMG +50<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +20%
+|ss4=Snail HARD Stats +500<br>Snail All ELMT DMG +50<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +20%
+|ss5=Snail HARD Stats +500<br>Snail All ELMT DMG +50<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +20%
+|ss6=Snail HARD Stats +500<br>Snail All ELMT DMG +50<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +20%
+|ss7=Snail HARD Stats +500<br>Snail All ELMT DMG +50<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +20%<br>Vending Machine B-tad purchases +2 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Travel SPD +9%
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Cells collected +30%
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, B-tads gained +15%
+|mirage={{Mirage|name=Gemini Star|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Dante|3rec=1.10M|3atk=22566|3defense=15048|3hp=197950|3weak=?
+|4name=Marilyn|4rec=2.33M|4atk=36059|4defense=24045|4hp=427386|4weak=?
+|5name=Victoria I|5rec=4.60M|5atk=53370|5defense=35589|5hp=824264|5weak=?
+|6name=Genghis Khan|6rec=8.53M|6atk=74892|6defense=49941|6hp=1467492|6weak=?
+|Arec=14.93M|Aatk=100981|Adefense=67337|Ahp=2445523|Aweak=?
+}}}}

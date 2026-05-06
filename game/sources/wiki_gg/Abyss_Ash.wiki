@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=There was a Snail hero named Ash that lived in the abyss, facing the darkness while fighting endless enemies. After Ash died, their student inherited this Snail Shell and named it a beautiful shell. After joining the travelers, it was renamed to Abyss Ash.
+|affct=ART
+|hard=RUSH
+|source=
+{{Memetic Catalyst
+|number=515
+|relic1=Zoroaster's Torch
+|relic2=Tesla Coil
+|relic3=Phoenix Feather
+|relic4=Prometheus Torch
+|relic5=Otto Engine
+}}
+|color=purple
+|earth=6
+|water=6
+|fire=7
+|wind=7
+|form=Demon
+|element=Earth
+|realm=Yamato
+|orangehard=HP
+}}

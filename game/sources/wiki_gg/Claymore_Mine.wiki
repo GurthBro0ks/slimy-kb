@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Claymore Mine
+|class_id=20302
+|rank=Green
+|affct=TECH
+|source=
+|description=This is a targeted anti-personnel mine with curved and convex angled shell for framework, plus simple yet precise sensors inside. It is triggered by tripwire or cable and will release fragments as well as steel bearings to deal great damage. Coupled with the steel balls inside it, it can cause great damage.
+|fame=14
+|art=20
+|fth=13
+|civ=14
+|tech=29
+|ss1=Per 30 Fissure Floors, Snail ATK +1<br>Fissure Floor: 1200/1200
+|ss2=Per 30 Fissure Floors, Snail ATK +2<br>Fissure Floor: 1200/1200
+|ss3=Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200
+|ss4=Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200
+|ss7=Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200<br> (Awakened)
+}}

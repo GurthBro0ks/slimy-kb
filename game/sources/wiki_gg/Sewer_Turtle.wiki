@@ -1,0 +1,354 @@
+== Sewer Turtle ♂ ==
+A turtle grew up in the sewers. He lives in grief after his teacher and brothers were murdered.
+
+=== Begin Friendship ===
+To obtain Sewer Turtle, kill the small turtle in the Gene Room with {{Relink|Incense|orange}} (11 hits) and pay the remaining Sewer Turtle with 100k B-tad. Hit the golden rat that appears with {{Relink|Incense|orange}} (3 hits) and defeat Sewer Turtle No. 1, 2, and 4. 
+
+{| class="wikitable"
+!Enemy
+!ATK
+!DEF
+!HP
+!Weakness
+!Rewards
+|-
+|Sewer Turtle No.1
+|521
+|257
+|3,016
+|ART 1,040
+|Soul of Sewer Turtle, Tortoise Jelly (Demon Cell +300, Angel Cell +400, Mutant Cell +350), {{Relink|Marseilles Statue|blue}}
+|-
+|Sewer Turtle No.2
+|2,707
+|1,021
+|6,408
+|ART 2,624
+|Soul of Sewer Turtle, Tortoise Jelly, <span style="color:#40da25;">Green Coating</span> +100
+|-
+|Sewer Turtle No.4
+|3,742
+|1,512
+|19,797
+|ART 3,822
+|Tortoise Jelly, {{Relink|The School of Athens|orange}}, {{Gearlink|Blue|Instrument|Nun-chuck}}
+|}
+
+===☆☆☆ > ★☆☆===
+After 15 letters back and forth, Sewer Turtle will arrive at Home Base and gift a Dragon Orb.
+
+=== ★☆☆ > ★★☆ ===
+After 9 letters back and forth, Sewer Turtle will arrive at Home Base and ask for 5 {{Relink|Incense|orange}}.
+
+=== ★★☆ > ★★★ ===
+After 1 more letter, Sewer Turtle will move in permanently with his minion, Undead Turtle.
+
+== Rent ==
+[[File:Sewer Turtle rent.png|frameless|left]]
+
+Sewer Turtle rent is collected on '''Thursday''' and found as a pile of loose paper on the floor to his right.
+
+ '''Normal Rent''': {{RewardIconWithText|Offering Speedup, +10m}}
+
+ '''Rare Rent''': {{RewardIconWithLink|Incense, +1|orange}}
+
+{{Clear}}
+
+== Relics ==
+Upgrading these will earn Offering Speedup!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|Offering Speedup +1h
+|-
+|★★
+|Offering Speedup +1h
+|-
+|★★★
+|Offering Speedup +1h
+|-
+|★★★★
+|Offering Speedup +2h
+|-
+|★★★★★
+|Offering Speedup +3h
+|-
+|★★★★★★
+|Offering Speedup +4h
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Big Fish Bone}}{{Relink|Big Fish Bone}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Guillotine}}{{Relink|Guillotine}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Chinchorro Mummy}}{{Relink|Chinchorro Mummy}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Hannibal's Cup}}{{Relink|Hannibal's Cup}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Soul Stone}}{{Relink|Soul Stone}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Mummy of Ramesses}}{{Relink|Mummy of Ramesses}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Golden Scarab}}{{Relink|Golden Scarab}}
+!style="background-color:var(--orange-bg);"|{{Reimg|The Black Book}}{{Relink|The Black Book}}
+|}
+
+== Turtle Necromancy ==
+The Calamity Army can revive the dead as cannon fodder with Necromancy.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||FTH +5||Zombie Minion Recovery SPD 0.3%
+|-
+|2||180||2k||FTH +10||Zombie Minion Recovery SPD +0.6%
+|-
+|3||190||4.5k||FTH +15||Zombie Minion Recovery SPD +0.9%
+|-
+|4||200||8k||FTH +20||Zombie Minion Recovery SPD +1.2%
+|-
+|5||210||12.5k||FTH +25||Zombie Minion Recovery SPD +1.5%
+|-
+|6||220||18k||FTH +30||Zombie Minion Recovery SPD +1.8%
+|-
+|7||230||24.5k||FTH +35||Zombie Minion Recovery SPD +2.1%
+|-
+|8||240||32k||FTH +40||Zombie Minion Recovery SPD +2.4%
+|-
+|9||250||40.5k||FTH +45||Zombie Minion Recovery SPD +2.7%
+|-
+|10||260||50k||FTH +50||Zombie Minion Recovery SPD +3%
+|-
+|11||270||60.5k||FTH +55||Zombie Minion Recovery SPD +3.3%
+|-
+|12||285||72k||FTH +60||Zombie Minion Recovery SPD +3.6%
+|-
+|13||300||84.5k||FTH +65||Zombie Minion Recovery SPD +3.9%
+|-
+|14||315||98k||FTH +70||Zombie Minion Recovery SPD +4.2%
+|-
+|15||330||112k||FTH +75||Zombie Minion Recovery SPD +4.5%
+|-
+|16||345||123k||FTH +80||Zombie Minion Recovery SPD +4.8%
+|-
+|17||360||144k||FTH +85||Zombie Minion Recovery SPD +5.1%
+|-
+|18||375||162k||FTH +90||Zombie Minion Recovery SPD +5.4%
+|-
+|19||390||180k||FTH +95||Zombie Minion Recovery SPD +5.7%
+|-
+|20||400||200k||FTH +100||Zombie Minion Recovery SPD +6%
+|-
+|21||420||220k||FTH +105||Zombie Minion Recovery SPD +6.3%
+|-
+|22||440||242k||FTH +110||Zombie Minion Recovery SPD +6.6%
+|-
+|23||460||264k||FTH +115||Zombie Minion Recovery SPD +6.9%
+|-
+|24||480||285k||FTH +120||Zombie Minion Recovery SPD +7.2%
+|-
+|25||500||309k||FTH +125||Zombie Minion Recovery SPD +7.5%
+|-
+|26||520||333k||FTH +130||Zombie Minion Recovery SPD +7.8%
+|-
+|27||540||357k||FTH +135||Zombie Minion Recovery SPD +8.1%
+|-
+|28||560||381k||FTH +140||Zombie Minion Recovery SPD +8.4%
+|-
+|29||580||405k||FTH +145||Zombie Minion Recovery SPD +8.7%
+|-
+|30||600||429k||FTH +150||Zombie Minion Recovery SPD +9%
+|}
+
+==Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Turtle Necromancy is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +10
+|-
+|2||4k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +20
+|-
+|3||6k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +30
+|-
+|4||8k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +40
+|-
+|5||10k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +50
+|-
+|6||12k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +60
+|-
+|7||14k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +70
+|-
+|8||16k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +80
+|-
+|9||18k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +90
+|-
+|10||20k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +100
+|-
+|11||22k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +110
+|-
+|12||24k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +120
+|-
+|13||26k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +130
+|-
+|14||28k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +140
+|-
+|15||30k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +150
+|-
+|16||32k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +160
+|-
+|17||34k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +170
+|-
+|18||36k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +180
+|-
+|19||38k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +190
+|-
+|20||40k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +200
+|-
+|21||42k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +210
+|-
+|22||44k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +220
+|-
+|23||46k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +230
+|-
+|24||48k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +240
+|-
+|25||50k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +250
+|-
+|26||55k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +260
+|-
+|27||60k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +270
+|-
+|28||65k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +280
+|-
+|29||70k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +290
+|-
+|30||75k||Zombie Minion MAX +1||Per 10 Undead Tortoises in battle, Troop DEF +300
+|}
+
+== Research Ability ==
+Below is a table of the research manual cost to upgrade each research gene. Sewer Turtle specializes in '''Zombie Gene''' and therefore the research manual cost for the Zombie is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+== Minion - Undead Turtle==
+These turtles were either killed by the shrine's laser or by snails in their previous lives. But now they've gathered under the command of their foe, which may be the miracle of love!
+
+=== Special Ability - Last Rites ===
+Per 10 Undead Tortoises in battle, Troop Wind DMG +1 (multiplied by minion level)
+
+=== Minion Relics ===
+Upgrading these relics will buff your Undead Tortoises!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Pinocchio}}<br>{{relink|Pinocchio}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Requiem}}<br>{{relink|Requiem}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Jade Burial Suit}}<br>{{relink|Jade Burial Suit}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Prehistoric Fossil}}<br>{{relink|Prehistoric Fossil}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Terracotta Warrior}}<br>{{relink|Terracotta Warrior}}
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Tutankhamun Mask}}<br>{{relink|Tutankhamun Mask}}
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Soul Stone}}<br>{{relink|Soul Stone}}
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|The Black Book}}<br>{{relink|The Black Book}}
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|-
+|}
+
+[[Category:Partners]]

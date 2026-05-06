@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=This Snail Shell came from a boxer who trained every day against a steel board until they bled and their skin came off. Not sure why, but the boxer spends half an hour passing gas after each training session.
+|affct=FAME
+|hard=HP
+|source=
+{{Memetic Catalyst
+|number=9034
+|relic1=Costa Rica Stone
+|relic2=Supersoldier Serum
+|relic3=Golden Finger
+|relic4=Ali's Belt
+|relic5=World Bowl
+}}
+|color=green
+|earth=1
+|water=0
+|fire=5
+|wind=0
+|form=Zombie
+|element=Wind
+|realm=Cathay
+|orangehard=HP
+}}

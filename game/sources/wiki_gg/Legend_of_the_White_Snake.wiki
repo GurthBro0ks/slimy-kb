@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Legend of the White Snake
+|class_id=22867
+|rank=SSS
+|affct=CIV
+|source=
+|description=The Legend of the White Snake originated in Zhenjiang during the early Tang dynasty, telling the legendary love story of the snake spirit Bai Suzhen and the scholar Xu Xian, including classic episodes such as borrowing an umbrella on a boat, stealing the lingzhi immortal herb, and flooding the Jinshan Temple. This legend combines romanticism with realism, featuring a compact structure, dramatic plot twists, and vivid character portrayals. It also reflects ancient Chinese folk customs, possessing social, historical, and cultural research value. After more than eight hundred years of evolution, it has become a treasured gem in Chinese classical literature.
+|fame=71
+|art=67
+|fth=62
+|civ=108
+|tech=54
+|ss1=Snail Leadership +3<br>All Orange Minion Skin ATK +30%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +30
+|ss2=Snail Leadership +4<br>All Orange Minion Skin ATK +40%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +40
+|ss3=Snail Leadership +5<br>All Orange Minion Skin ATK +50%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +50
+|ss4=Snail Leadership +7<br>All Orange Minion Skin ATK +70%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +70
+|ss5=Snail Leadership +9<br>All Orange Minion Skin ATK +90%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +90
+|ss6=Snail Leadership +12<br>All Orange Minion Skin ATK +120%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120
+|ss7=Snail Leadership +12<br>All Orange Minion Skin ATK +120%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Earthite output speed+30%
+|skill2=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Relic CIV +15
+|skill3=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Zone SUP effect reduced by 30%
+|mirage={{Mirage|name=dungeon@22867_1|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Gastroking|3rec=417.91M|3atk=952947|3defense=538543|3hp=263649838|3weak=70317
+|4name=dungeon_event@3896_1|4rec=525.86M|4atk=1138037|4defense=635658|4hp=430861237|4weak=76474
+|5name=Gastromancer|5rec=693.64M|5atk=1558191|5defense=793433|5hp=694884967|5weak=85259
+|6name=dungeon_event@3898_1|6rec=957.34M|6atk=2404396|6defense=1076253|6hp=1272290460|6weak=95785
+|Arec=1399.91M|Aatk=3602694|Adefense=1501495|Ahp=2224135621|Aweak=108700
+}}}}

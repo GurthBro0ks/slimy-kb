@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=British Naval Certificate
+|class_id=20581
+|rank=Green
+|affct=CIV
+|source=
+|description=The Demon God's apostles ravage, the British navy is powerful, Earth's will issues this naval certificate to commend travelers who made outstanding contributions in the sea battles, encouraging them to go all out to eliminate the apostles! -- Earth's Will (Seal)
+|fame=18
+|art=14
+|fth=15
+|civ=28
+|tech=15
+|ss1=Per Britland Apostle defeated, Snail HP +30<br>Per Britland Apostle defeated, Snail ATK +3<br>Britland Apostles defeated:10/10 
+|ss2=Per Britland Apostle defeated, Snail HP +60<br>Per Britland Apostle defeated, Snail ATK +6<br>Britland Apostles defeated:10/10 
+|ss3=Per Britland Apostle defeated, Snail HP +90<br>Per Britland Apostle defeated, Snail ATK +9<br>Britland Apostles defeated:10/10 
+|ss4=Per Britland Apostle defeated, Snail HP +90<br>Per Britland Apostle defeated, Snail ATK +9<br>Britland Apostles defeated:10/10 
+|ss7=Per Britland Apostle defeated, Snail HP +90<br>Per Britland Apostle defeated, Snail ATK +9<br>Britland Apostles defeated:10/10 <br> (Awakened)
+}}

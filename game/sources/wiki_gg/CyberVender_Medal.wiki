@@ -1,0 +1,15 @@
+{{CargoRelic
+|name=CyberVender Medal
+|rank=Green
+|affct=TECH
+|source=Defeat [[Mailbox#CyberVenderian|CyberVenderian]]
+|description=CyberVender is the home planet of all vending robots, where the Catbots and Dogbots are engaged in a war. For the sake of their own justice and interests, both factions want to dominate the planet. Hopefully, their strife won't affect the vending robot here!
+|fame=17
+|art=12
+|fth=16
+|civ=15
+|tech=30
+|ss1=Per Premium Cat Food bought, Snail HP +20<br>Premium Cat Food Bought: 20/20
+|ss2=Per Premium Cat Food bought, Snail HP +40<br>Premium Cat Food Bought: 20/20
+|ss3=Per Premium Cat Food bought, Snail HP +60<br>Premium Cat Food Bought: 20/20
+}}

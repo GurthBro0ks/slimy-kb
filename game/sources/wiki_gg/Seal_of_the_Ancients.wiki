@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Seal of the Ancients
+|class_id=22455
+|rank=Blue
+|affct=FAITH
+|birthday=01-01
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jan 1, 1932 AD, the Seal of the Old God was discovered.<br>The Seal of the Old God is an ancient deity's symbol that requires a specific activation ritual and a suitable vessel for stabilization. This seal instills disgust and fear in evil creatures, making it a highly prized talisman for many.
+|fame=24
+|art=31
+|fth=48
+|civ=22
+|tech=29
+|ss1=All Sanctum Glorium Output +0.4%
+|ss2=All Sanctum Glorium Output +0.8%
+|ss3=All Sanctum Glorium Output +1.2%
+|ss4=All Sanctum Glorium Output +2%
+|ss7=All Sanctum Glorium Output +2%<br>All Sanctum Glorium Output +2% (Awakened)
+|skill1=[[File:Frostsanctum skill I.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +5%
+}}

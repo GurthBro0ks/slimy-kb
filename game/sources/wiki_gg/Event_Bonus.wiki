@@ -1,0 +1,21 @@
+The Event Bonus is for sale every day in the [[Vending Machine]] for 1 {{RewardIconWithText|W-Tad}}. Depending on the [[Events|Weekly Event]] that is currently happening, this box will reward different items.
+
+[[Lottery Week]] - {{RewardIconWithLink|Lottery Bonus|orange}}
+* {{RewardIconWithText|W-Tad, +20}}
+* {{RewardIconWithLink|Lottery Ticket, +3|orange}}
+* {{RewardIconWithText|Carnival Balloon, +100}}
+
+
+[[Wishing Week]]
+* {{RewardIconWithText|W-Tad, +20}}
+*
+* {{RewardIconWithText|Mystery Ash, +100}}
+
+
+[[Offering Week]]
+* {{RewardIconWithText|W-Tad, +20}}
+*
+* {{RewardIconWithText|Spirit Crystal, +100}}
+
+
+[[Category:Reward Pack]]

@@ -1,0 +1,20 @@
+{{Missing Info|specifics=second realm, orange HARD}}
+
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=A favorite of all children, a reminder of one's wonderful childhood, the choice of lovers of sweets, but attracts ants very easily...
+|affct=FAME
+|hard=ATK
+|source=* [[Badge Shop]]
+* Unknown Memetic Catalyst
+|color=green
+|earth=1
+|water=1
+|fire=1
+|wind=3
+|form=Zombie
+|element=Wind
+|realm=
+|orangehard=
+}}

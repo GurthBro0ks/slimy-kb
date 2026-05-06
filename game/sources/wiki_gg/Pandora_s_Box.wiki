@@ -1,0 +1,42 @@
+{{CargoRelic
+|name=Pandora's Box
+|rank=SS
+|affct=FAME
+|birthday=06-08
+|source=Grandmaster Scrolls (1%), Lottery Machine (0.12%), Relic Forge (100 Relic RF), Soul Chest(1%), Wishing (0.11%)
+|description=On Jun 8, 1600 BC, Pandora's Box was opened and brought a calamity to the world. On this day, Zeus gave Pandora a sealed treasure box studded with precious gems. Besides, the gods also gave Pandora an insatiable curiosity. Unable to restrain herself, she opened the box and unleashed disease, disaster, and war into the world, which forever disrupted the peace of humanity.
+
+[The most famous Pandora's Box in history]
+
+In the 11th century, General Hong released 108 demons. In the 14th century, Mongolia launched biological warfare. In the late 20th century, Genome Editing Theory was invented.
+|fame=108
+|art=66
+|fth=61
+|civ=71
+|tech=56
+|ss1=Snail ATK +30<br>Per 3 kinds of souls offered, Snail DEF +3<br>Per 3 kinds of souls offered, Snail RUSH +3<br>Distinct Souls Offered: 300/300
+|ss2=Snail ATK +40<br>Per 3 kinds of souls offered, Snail DEF +4<br>Per 3 kinds of souls offered, Snail RUSH +4<br>Distinct Souls Offered: 300/300
+|ss3=Snail ATK +50<br>Per 3 kinds of souls offered, Snail DEF +5<br>Per 3 kinds of souls offered, Snail RUSH +5<br>Distinct Souls Offered: 300/300
+|ss4=Snail ATK +70<br>Per 3 kinds of souls offered, Snail DEF +7<br>Per 3 kinds of souls offered, Snail RUSH +7<br>Distinct Souls Offered: 300/300
+|ss5=Snail ATK +90<br>Per 3 kinds of souls offered, Snail DEF +9<br>Per 3 kinds of souls offered, Snail RUSH +9<br>Distinct Souls Offered: 300/300
+|ss6=Snail ATK +120<br>Per 3 kinds of souls offered, Snail DEF +12<br>Per 3 kinds of souls offered, Snail RUSH +12<br>Distinct Souls Offered: 300/300
+|ss7=Snail ATK +120<br>Per 3 kinds of souls offered, Snail DEF +12<br>Per 3 kinds of souls offered, Snail RUSH +12<br>Distinct Souls Offered: 300/300<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: Medal Output +30
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Blue Reagent Drops +15%
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Demon Cells gained +30%
+|mirage={{#invoke:snailDB|parseMirage|Pandora's Box}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:RUSH Boost]]
+[[Category:Distinct Souls Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Medal Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Demon Cell Drop Boost]]
+[[Category:Tadpole Pond Boost]]
+[[Category:Offering Speed Boost]]
+[[Category:Minorino Boost]]

@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Cockatrice Gut
+|type=Common
+|rank=purple
+|id=10942
+|idx=66
+|description=Harvested from a creature lurking where WiFi signals fear to tread. Legend says only Witchers with 5G hotspot spells can track them.
+|skill=
+|hp=1508
+|def=159
+|atk=180
+|rush=143
+|gene1=Gene Research Free Speedup +10m
+|gene2=Earth DMG +60
+|gene3=In explorations, Demon God Cells collected +4%
+|gene4=Gene Research Free Speedup +10m
+|gene7=Gene Research Free Speedup +30m (Awakened)
+|}}

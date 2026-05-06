@@ -1,0 +1,14 @@
+{{CargoClone
+|name=The Despot
+|rank=purple
+|cabin=2
+|id=84
+|gene1={race} HP +300
+|gene2={race} FTH +30
+|gene3=Per 30 Demon Minions in battle:
+> Troop HP +80
+|gene4=Refine +1 Green Rebel Material +1%
+|gene5=Per 30 Demon Minions in battle:
+> Troop HP +120
+|gene6=Refine +1 Green Rebel Material +1.5%
+|}}

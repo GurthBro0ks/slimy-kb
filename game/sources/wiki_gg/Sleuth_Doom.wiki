@@ -1,0 +1,360 @@
+== Sleuth Doom ♂ ==
+A detective from hell. Weak as he is, he is good at lying and controls some demon minions.
+
+===Begin Friendship ===
+To obtain Sleuth Doom, fully upgrade (level 30) [[Murika]] South hero, Sleuth Doom.
+
+===☆☆☆ > ★☆☆===
+After 7 letters back and forth, Sleuth Doom will show up at Home Base and gift 10k B-tads.
+
+===★☆☆ > ★★☆ ===
+After 8 letters back and forth, Muscle Ran will show up for a fight. After winning the battle and 3 more letters, Sleuth Doom will gift 20k B-tads.
+
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Muscle Ran
+|40,299
+|34,684
+|804,078
+|HIT +50, Paralysis RES +50%
+|ART 11,990
+|Toner +50 
+|}
+
+===★★☆ > ★★★===
+After 4 letters back and forth, Sleuth Doom will request 100k B-tads. After 3 more letters, Detective Di & Aide Fang will show up for a fight. Once they are defeated, 4 more letters will prompt Sleuth Doom to permanently move in with his minion, Imp.
+
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards 
+|-
+|Detective Di & Aide Fang
+|64,992
+|55,936
+|1,495,849
+|HIT +50, Paralysis RES +50% 
+|CIV 15,880
+|Wish Coin +3
+|}
+
+==Rent==
+[[File:Sleuth Doom rent.png|frameless|left]]
+
+Sleuth Doom rent is collected on '''Friday''' and found as a soul hovering in the room.
+
+ '''Normal Rent''': A random small soul of Chaos
+
+ '''Rare Rent''': ??
+
+ '''1-time Rent''': ??
+
+{|class="wikitable"
+|+Possible Souls obtained during weekly Rent
+|-
+!Soul
+!Offering Duration
+|-
+|<span style="color:var(--red-text)">Soul of Evil Mage</span>||2h
+|-
+|<span style="color:var(--red-text)">Soul of Headless Rider</span>||2h
+|}
+
+{{clear}}
+
+== Relics==
+Upgrading these will earn B-tads!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|5k B-tads
+|-
+|★★
+|5k B-tads
+|-
+|★★★
+|5k B-tads
+|-
+|★★★★
+|10k B-tads
+|-
+|★★★★★
+|20k B-tads
+|-
+|★★★★★★
+|40k B-tads
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Moai}}{{Relink|Moai}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Templar Emblem}}{{Relink|Templar Emblem}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Blood of Dracula}}{{Relink|Blood of Dracula}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Sorron's Eye}}{{Relink|Sorron's Eye}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Horn of Heimdall}}{{Relink|Horn of Heimdall}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Eye of Akamoddo}}{{Relink|Eye of Akamoddo}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Scale of Anubis}}{{Relink|Scale of Anubis}}
+!style="background-color:var(--orange-bg);"|{{Reimg|The Key of Solomon}}{{Relink|The Key of Solomon}}
+|}
+
+==Detective's Demon Pact==
+Looks like an official contract but it is filled with traps. Once signing it, you'll be enslaved for the rest of your life...
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||Snail ART +5||Demon Minion Recovery SPD +0.3%
+|-
+|2||180||2k||Snail ART +10||Demon Minion Recovery SPD +0.6%
+|-
+|3||190||4.5k||Snail ART +15||Demon Minion Recovery SPD +0.9% 
+|-
+|4||200||8k||Snail ART +20||Demon Minion Recovery SPD +1.2%
+|-
+|5||210||12.5k||Snail ART +25||Demon Minion Recovery SPD +1.5%
+|-
+|6||220||18k||Snail ART +30||Demon Minion Recovery SPD +1.8%
+|-
+|7||230||24.5k||Snail ART +35||Demon Minion Recovery SPD +2.1%
+|-
+|8||240||32k||Snail ART +40||Demon Minion Recovery SPD +2.4%
+|-
+|9||250||40.5k||Snail ART +45||Demon Minion Recovery SPD +2.7%
+|-
+|10||260||50k||Snail ART +50||Demon Minion Recovery SPD +3%
+|-
+|11||270||60.5k||Snail ART +55||Demon Minion Recovery SPD +3.3%
+|-
+|12||285||72k||Snail ART +60||Demon Minion Recovery SPD +3.6%
+|-
+|13||300||84.5k||Snail ART +65||Demon Minion Recovery SPD +3.9%
+|-
+|14||315||98k||Snail ART +70||Demon Minion Recovery SPD +4.2%
+|-
+|15||330||112k||Snail ART +75||Demon Minion Recovery SPD +4.5% 
+|-
+|16||345||123k||Snail ART +80||Demon Minion Recovery SPD +4.8%
+|-
+|17||360||144k||Snail ART +85||Demon Minion Recovery SPD +5.1%
+|-
+|18||375||162k||Snail ART +90||Demon Minion Recovery SPD +5.4%
+|-
+|19||390||180k||Snail ART +95||Demon Minion Recovery SPD +5.7%
+|-
+|20||400||200k||Snail ART +100||Demon Minion Recovery SPD +6%
+|-
+|21||420||220k||Snail ART +105||Demon Minion Recovery SPD +6.3%
+|-
+|22||440||242k||Snail ART +110||Demon Minion Recovery SPD +6.6%
+|-
+|23||460||264k||Snail ART +115||Demon Minion Recovery SPD +6.9%
+|-
+|24||480||285k||Snail ART +120||Demon Minion Recovery SPD +7.2%
+|-
+|25||500||309k||Snail ART +125||Demon Minion Recovery SPD +7.5%
+|-
+|26||520||333k||Snail ART +130||Demon Minion Recovery SPD +7.8%
+|-
+|27||540||357k||Snail ART +135||Demon Minion Recovery SPD +8.1%
+|-
+|28||560||381k||Snail ART +140||Demon Minion Recovery SPD +8.4%
+|-
+|29||580||405k||Snail ART +145||Demon Minion Recovery SPD +8.7% 
+|-
+|30||600||429k||Snail ART +150||Demon Minion Recovery SPD +9%
+|}
+
+==Commander ==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Detective's Demon Pact is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +10
+|-
+|2||4k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +20
+|-
+|3||6k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +30
+|-
+|4||8k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +40
+|-
+|5||10k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +50
+|-
+|6||12k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +60
+|-
+|7||14k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +70
+|-
+|8||16k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +80
+|-
+|9||18k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +90
+|-
+|10||20k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +100
+|-
+|11||22k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +110
+|-
+|12||24k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +120
+|-
+|13||26k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +130
+|-
+|14||28k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +140
+|-
+|15||30k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +150
+|-
+|16||32k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +160
+|-
+|17||34k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +170
+|-
+|18||36k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +180
+|-
+|19||38k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +190
+|-
+|20||40k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +200
+|-
+|21||42k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +210
+|-
+|22||44k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +220
+|-
+|23||46k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +230
+|-
+|24||48k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +240
+|-
+|25||50k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +250
+|-
+|26||55k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +260
+|-
+|27||60k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +270
+|-
+|28||65k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +280
+|-
+|29||70k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +290
+|-
+|30||75k||Demon Minion MAX +1||Per 10 Imps in battle, Troop RUSH +300
+|}
+
+== Research Ability ==
+Below is a table of the research manual cost to upgrade each research gene. Sleuth Doom specializes in '''Demon Gene''' and therefore the research manual cost for the Demon is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+== Minion - Imp==
+These untamed denizens of Hell never stop making pranks. Absolute strength is the only thing they will willingly obey!
+
+===Special Ability - Demonic Strength===
+Per 10 Imps in battle, Troop ATK +10 (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Imps!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Moai}}<br>{{relink|Moai}}
+|Imp HP +1%
+|Imp DEF +1%
+|Imp ATK +1% 
+|Imp RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Templar Emblem}}<br>{{relink|Templar Emblem}}
+|Imp HP +1%
+|Imp DEF +1%
+|Imp ATK +1%
+|Imp RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Blood of Dracula}}<br>{{relink|Blood of Dracula}}
+|Imp HP +2%
+|Imp DEF +2%
+|Imp ATK +2%
+|Imp RUSH +2%
+|Imp All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Sorron's Eye}}<br>{{relink|Sorron's Eye}}
+|Imp HP +2%
+|Imp DEF +2%
+|Imp ATK +2%
+|Imp RUSH +2%
+|Imp All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Horn of Heimdall}}<br>{{relink|Horn of Heimdall}}
+|Imp RUSH +4%
+|Imp RUSH +4% 
+|Imp RUSH +4%
+|Imp RUSH +4%
+|Imp RUSH +4%
+|Imp RUSH +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Eye of Akamoddo}}<br>{{relink|Eye of Akamoddo}}
+|Imp DEF +4%
+|Imp DEF +4%
+|Imp DEF +4%
+|Imp DEF +4%
+|Imp DEF +4%
+|Imp DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Scale of Anubis}}<br>{{relink|Scale of Anubis}}
+|Imp HP +4%
+|Imp HP +4%
+|Imp HP +4%
+|Imp HP +4%
+|Imp HP +4%
+|Imp HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|The Key of Solomon}}<br>{{relink|The Key of Solomon}}
+|Imp ATK +4%
+|Imp ATK +4%
+|Imp ATK +4%
+|Imp ATK +4%
+|Imp ATK +4%
+|Imp ATK +4%
+|}
+
+[[Category:Partners]]

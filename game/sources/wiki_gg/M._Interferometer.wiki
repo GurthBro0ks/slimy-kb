@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=M. Interferometer
+|class_id=22196
+|rank=AAA
+|affct=TECH
+|birthday=03-15
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Mar 15, 1881 AD, Michelson and Morley studied ether drift together, and they designed this precise interferometer.<br>Michelson Interferometer, the most common type of optical interferometers, was invented by American physicist Michelson. It was originally created to verify the existence of "ether," a fictitious substance in classical physics. The experimenters hoped that the Earth's movement speed relative to the ether could be obtained through the drift of the interference fringes produced, but after several repeated experiments, the interference fringes had not drifted. Since then, the ether theory has been disproven, greatly impacting classical physics and the world moves into a new era of relativity and quantum mechanics.
+|fame=43
+|art=39
+|fth=45
+|civ=41
+|tech=75
+|ss1=Per 7 Mecha Gene LVLs, Snail HP +60<br>Per 7 Mecha Gene LVLs, Snail ATK +6<br>Mecha Gene LVLs Researched: 210/210
+|ss2=Per 7 Mecha Gene LVLs, Snail HP +80<br>Per 7 Mecha Gene LVLs, Snail ATK +8<br>Mecha Gene LVLs Researched: 210/210
+|ss3=Per 7 Mecha Gene LVLs, Snail HP +100<br>Per 7 Mecha Gene LVLs, Snail ATK +10<br>Mecha Gene LVLs Researched: 210/210
+|ss4=Per 7 Mecha Gene LVLs, Snail HP +140<br>Per 7 Mecha Gene LVLs, Snail ATK +14<br>Mecha Gene LVLs Researched: 210/210
+|ss5=Per 7 Mecha Gene LVLs, Snail HP +180<br>Per 7 Mecha Gene LVLs, Snail ATK +18<br>Mecha Gene LVLs Researched: 210/210
+|ss7=Per 7 Mecha Gene LVLs, Snail HP +180<br>Per 7 Mecha Gene LVLs, Snail ATK +18<br>Mecha Gene LVLs Researched: 210/210<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, Troop Fire DMG +30
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's TECH +10
+}}

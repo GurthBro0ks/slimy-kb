@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Babylonian World Map,Griffin Bracelet
+|rank=orange
+|amount=2
+|category=self
+|description=Per 50 Kemet Soul Nail of Profanity Reforged, Snail DEF +7; Kemet Soul Nail of Profanity Reforged: 3,000/3,000
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]

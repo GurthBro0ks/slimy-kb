@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Shohuko Basketball
+|class_id=20067
+|rank=Green
+|affct=CIV
+|source= From [[Altar#Relics and Gear|Dragon Wish "I wanna play basketball!"]].
+|description=This basketball came from a high school famous for this sport. This school remained nameless until five players with very different origins and personalities suddenly gathered here. They worked together to make it all the way to the national tournament. They didn't win the championship, but after all, a flawed youth is the best.
+|fame=14
+|art=10
+|fth=18
+|civ=29
+|tech=19
+|ss1=If you're in a club, Snail DEF +20<br>If you're in a club, Snail RUSH +20
+|ss2=If you're in a club, Snail DEF +40<br>If you're in a club, Snail RUSH +40
+|ss3=If you're in a club, Snail DEF +60<br>If you're in a club, Snail RUSH +60
+|ss4=If you're in a club, Snail DEF +60<br>If you're in a club, Snail RUSH +60
+|ss7=If you're in a club, Snail DEF +60<br>If you're in a club, Snail RUSH +60<br> (Awakened)
+}}

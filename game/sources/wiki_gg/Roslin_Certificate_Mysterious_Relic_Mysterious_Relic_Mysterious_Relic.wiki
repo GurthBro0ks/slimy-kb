@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Roslin Certificate,Mysterious Relic,Mysterious Relic,Mysterious Relic
+|rank=orange
+|amount=4
+|category=home
+|description=Resolver: W-tads extracted +45
+}}
+[[Category:Home]]
+[[Category:Resolver Boost]]

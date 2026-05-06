@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The second prize of art in the Q collection. Art is in the occult! The designer was inspired by his experiences scaring children, and he left the company because he was receiving death threats every day.
+|affct=ART
+|hard=DEF
+|source=Divine Order Chest (0.1%)
+|color=orange
+|earth=9
+|water=9
+|fire=11
+|wind=13
+|form=Demon
+|element=Water
+|realm=Kemet
+|orangehard=RUSH
+}}

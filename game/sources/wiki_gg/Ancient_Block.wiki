@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Ancient Block
+|rank=Blue
+|affct=FTH
+|birthday=02-19
+|source=Lottery Machine (0.07%), Novice Scrolls (1%), Soul Chest (2%), Wishing (2.1%)
+|description=On Feb 19, 1001 BC, Pharaoh sealed himself and Zoke into this mysterious building block.
+
+Zoke launched a rebellion to help his son take the throne. The Pharaoh sacrificed himself and broke the millennium blocks to seal Zoke and his own soul within. The seal requires the King's name and memories to be unlocked. The Pharaoh lost his memory and his soul wandered in reality, while the Zoke could not be resurrected because his soul was sealed.
+|fame=19
+|art=28
+|fth=46
+|civ=33
+|tech=28
+|ss1=Per 40 wishes made, Snail DEF +4<br>Wishes Made: 400/400
+|ss2=Per 40 wishes made, Snail DEF +8<br>Wishes Made: 400/400
+|ss3=Per 40 wishes made, Snail DEF +12<br>Wishes Made: 400/400
+|ss4=Per 40 wishes made, Snail DEF +20<br>Wishes Made: 400/400
+|ss7=Per 40 wishes made, Snail DEF +20<br>Wishes Made: 400/400<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Bharata skill I.png|50px]]Place in Bharata Museum: In Bharata, Snail DEF +20
+}}
+
+[[Category:DEF Boost]]
+[[Category:Wishing Boost]]
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Zombie Gene Speedup Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Mummy Boost]]

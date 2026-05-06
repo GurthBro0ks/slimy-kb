@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Archimedean Spiral
+|class_id=22589
+|rank=A
+|affct=TECH
+|birthday=03-07
+|source=Lottery Machine No.3 (0.55%)
+|description=On Mar 7, 263, BC, Archimedes proposed his conjecture on the spiral in his own book.<br>The Archimedean Spiral is a path traced by a point that moves away from a fixed point at a constant speed while also rotating at a fixed angle. Legend has it that it was first discovered by Archimedes' teacher Conon, and after Conon's death, Archimedes continued to study it and discovered many important properties. Therefore, this type of spiral is named after Archimedes...
+|fame=43
+|art=31
+|fth=43
+|civ=35
+|tech=61
+|ss1=Gaia Cabin Output +1%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +40
+|ss2=Gaia Cabin Output +2%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +80
+|ss3=Gaia Cabin Output +3%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +120
+|ss4=Gaia Cabin Output +5%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +200
+|ss5=Gaia Cabin Output +7%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +280
+|ss7=Gaia Cabin Output +7%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +280<br>Per 30 T7+ Minions in battle:<br>> Troop HP +280 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Green Reagent Drops +3%
+|skill2=[[File:Hellas skill II.png|50px]]Place in Hellenic Museum: This Relic's TECH +10
+}}

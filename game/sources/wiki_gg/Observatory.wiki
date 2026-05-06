@@ -1,0 +1,44 @@
+{{CargoRelic
+|name=Observatory
+|rank=A
+|affct=TECH
+|birthday=12-27
+|source=Fragment Crafting (31.5%), Lottery Machine (0.66%), Wishing (2.9%), Fungus Chest (1.5%), Expert Scrolls (7.6%)
+|description=On Dec 27, AD 1092, the first instrument that can be used for astronomical observation, demonstration, and timekeeping was invented. 
+
+On this day, the astronomical clock tower was finally completed after 4 years of construction, headed by Su Song. This tower is 12m high and 7m wide with 3 levels. The armillary sphere on the top level is for observing the movement of the stars, the celestial globe on the second level allows the device to rotate, and clepsydra and clock devices are placed on the bottom level. Powered by water, the device rotates once every 40s and a small wooden figure will appear holding a time sign every 15 mins. This is similar to the modern astronomical clocks.
+
+[Parts of each level]
+
+Top level: Armillary sphere, six cardinal devices, three luminary set, four displacements device<br>Middle level: spherical six cardinal devices, spherical equatorial tooth, spherical Antarctic map, spherical northeast wind, time wheel<br>Bottom level: Water wheel, time machine wheel, water-powered wheel, etc.
+|fame=39
+|art=40
+|fth=30
+|civ=42
+|tech=62
+|ss1=Tadpole Pond upgrade Stone Cost -1%<br>Per 5 Tadpole Pond LVLs, Snail ATK +4<br>Tadpole Pond LVL: 50/50
+|ss2=Tadpole Pond upgrade Stone Cost -2%<br>Per 5 Tadpole Pond LVLs, Snail ATK +8<br>Tadpole Pond LVL: 50/50
+|ss3=Tadpole Pond upgrade Stone Cost -3%<br>Per 5 Tadpole Pond LVLs, Snail ATK +12<br>Tadpole Pond LVL: 50/50
+|ss4=Tadpole Pond upgrade Stone Cost -5%<br>Per 5 Tadpole Pond LVLs, Snail ATK +20<br>Tadpole Pond LVL: 50/50
+|ss5=Tadpole Pond upgrade Stone Cost -7%<br>Per 5 Tadpole Pond LVLs, Snail ATK +28<br>Tadpole Pond LVL: 50/50
+|ss7=Tadpole Pond upgrade Stone Cost -7%<br>Per 5 Tadpole Pond LVLs, Snail ATK +28<br>Tadpole Pond LVL: 50/50<br>Tadpole Pond upgrade Stone Cost -7% (Awakened)
+|skill1=[[File:Cathay skill II.png|50px]] Place in Cathay Museum: Tech Checks -10
+|skill2=[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: This Relic's TECH +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:TECH Relics]]
+[[Category:Purple TECH Relics]]
+[[Category:Tadpole Pond Upgrade Cost Reduction]]
+[[Category:Tadpole Pond Boost]]
+[[Category:ATK Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:AFFCT Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:TECH Boost]]
+[[Category:DEF Boost]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Relic Points]]
+[[Category:Enhanced by Tadpole Pond LVL]]
+[[Category:Enhanced by Power]]

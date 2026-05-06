@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Golden Revival Stele
+|class_id=22840
+|rank=SSS
+|affct=FAITH
+|source=
+|description=The Golden Revival Stele can grant life to objects. It is made of pure gold, inlaid with gemstones and precious metals, engraved with ancient runes and mysterious patterns. These symbols contain powerful vitality, capable of guiding souls. Only at specific moments will it emit a gentle glow, awakening those slumbering souls.
+|fame=61
+|art=77
+|fth=108
+|civ=47
+|tech=69
+|ss1=Common Contract Signing SPD +3%<br>Per Special Tourist unlocked, Snail ATK +9<br>Per Special Tourist unlocked, Snail DEF +9<br>Special Tourists unlocked: 20/20
+|ss2=Common Contract Signing SPD +4%<br>Per Special Tourist unlocked, Snail ATK +12<br>Per Special Tourist unlocked, Snail DEF +12<br>Special Tourists unlocked: 20/20
+|ss3=Common Contract Signing SPD +5%<br>Per Special Tourist unlocked, Snail ATK +15<br>Per Special Tourist unlocked, Snail DEF +15<br>Special Tourists unlocked: 20/20
+|ss4=Common Contract Signing SPD +7%<br>Per Special Tourist unlocked, Snail ATK +21<br>Per Special Tourist unlocked, Snail DEF +21<br>Special Tourists unlocked: 20/20
+|ss5=Common Contract Signing SPD +9%<br>Per Special Tourist unlocked, Snail ATK +27<br>Per Special Tourist unlocked, Snail DEF +27<br>Special Tourists unlocked: 20/20
+|ss6=Common Contract Signing SPD +12%<br>Per Special Tourist unlocked, Snail ATK +36<br>Per Special Tourist unlocked, Snail DEF +36<br>Special Tourists unlocked: 20/20
+|ss7=Common Contract Signing SPD +12%<br>Per Special Tourist unlocked, Snail ATK +36<br>Per Special Tourist unlocked, Snail DEF +36<br>Special Tourists unlocked: 20/20<br>Common Contract Signing SPD +10% (Awakened)
+|skill1=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: This Relic's FTH +15
+|skill2=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: Medal Output +30
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, DMG +30%
+|mirage={{Mirage|name=Might and magic|reward={{RewardIconWithLink|Temporary Contract, +10|orange}}
+|3name=Revived Person|3rec=7.36M|3atk=70395|3defense=46095|3hp=1278397|3weak=13999
+|4name=Revived Bird|4rec=12.68M|4atk=94312|4defense=61756|4hp=2130942|4weak=17504
+|5name=Revived Snail|5rec=25.92M|5atk=122725|5defense=80361|5hp=3373495|5weak=20165
+|6name=Revived Sorcerer|6rec=41.32M|6atk=155814|6defense=102028|6hp=5183328|6weak=25432
+|Arec=59.72M|Aatk=195348|Adefense=127915|Ahp=7720603|Aweak=30500
+}}}}

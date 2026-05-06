@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Walden
+|class_id=20087
+|rank=Green
+|affct=CIV
+|source=
+|description=This is a collection of essays written by the famous American writer Thoreau. The whole book is composed of eighteen essays, which detail what Thoreau heard and thought when he lived alone beside Walden Pond. The whole book is rich in content and vivid in language. The concept of advocating a simple life and adoring natural light in the book is widely welcomed by people.
+|fame=14
+|art=11
+|fth=18
+|civ=30
+|tech=17
+|ss1=Snail HP +100<br>When you share Top Books the 1st time each week, Lottery Tickets +1
+|ss2=Snail HP +150<br>When you share Top Books the 1st time each week, Lottery Tickets +1
+|ss3=Snail HP +200<br>When you share Top Books the 1st time each week, Lottery Tickets +1
+|ss4=Snail HP +200<br>When you share Top Books the 1st time each week, Lottery Tickets +1
+|ss7=Snail HP +200<br>When you share Top Books the 1st time each week, Lottery Tickets +1<br> (Awakened)
+}}

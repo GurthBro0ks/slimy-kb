@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Lu Ji's Calligraphy,The King in Yellow
+|rank=orange
+|amount=2
+|category=minion
+|description=Leadership +7
+}}
+[[Category:Minion]]
+[[Category:Leadership Boost]]

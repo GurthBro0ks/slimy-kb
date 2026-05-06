@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=The Sceptical Chymist
+|class_id=22516
+|rank=AAA
+|affct=FAME
+|birthday=10-17
+|source=Lottery Machine No.3 (0.06%)
+|description=On Oct 17, 1661 AD, The Sceptical Chymist was officially published.<br>After a long period of research, Boyle challenged traditional alchemy and Aristotle's theory of elements. Although he agreed with the ancient theory of atoms, he rejected the idea of the four elements and other theories through experiments, challenging traditional concepts. In addition, he defined the subject of chemistry, which had been mixed in various fields such as alchemy and medicine, and clarified the research purpose, playing a significant role in the development of the chemistry discipline in later generations.
+|fame=75
+|art=41
+|fth=38
+|civ=44
+|tech=45
+|ss1=Snail HP +300<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +24<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Snail HP +400<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +32<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Snail HP +500<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +40<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Snail HP +700<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +56<br>Consumed Recruit Tokens: 5000/5000
+|ss5=Snail HP +900<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +72<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Snail HP +900<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +72<br>Consumed Recruit Tokens: 5000/5000<br>Snail HP +700 (Awakened)
+|skill1=[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +15%
+|skill2=[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: This Relic's FAME +10
+}}

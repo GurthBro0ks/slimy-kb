@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=894
+|relics=Serenade for Strings in G Major,The Brothers Karamazov
+|rank=orange
+|amount=2
+|category=self
+|description=Per 100 catalysis, Snail RUSH +7;Catalysis: 5000/5000
+}}

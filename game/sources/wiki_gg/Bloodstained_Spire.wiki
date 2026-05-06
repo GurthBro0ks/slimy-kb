@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Bloodstained Spire
+|type=Bionic
+|rank=purple
+|id=10668
+|idx=25
+|description=The spiraled horn radiates danger, its polished surface glinting coldly to proclaim its razor edge. Faint bloodstains only deepen the chill...
+|skill=Trigger Blood Demon Scythe, dealing DMG equal to 150.4% of ATK, and increase next round's lifesteal rate by 13%!
+|hp=1412
+|def=128
+|atk=124
+|rush=238
+|gene1=In Demon Form, Fire DMG +120
+|gene2=In Demon Form, {race} ATK +40
+|gene3=In Demon Form, {race} RUSH +40
+|gene4=In Demon Form, CRIT +10%
+|gene7=In Demon Form, CRIT +10% (Awakened)
+|}}

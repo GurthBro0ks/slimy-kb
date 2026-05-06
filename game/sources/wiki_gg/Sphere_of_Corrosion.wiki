@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Sphere of Corrosion
+|class_id=20429
+|rank=Green
+|affct=FAME
+|source=
+|description=This crystal ball is full of acid so that you can launch acidic attacks with a spell. It can dissolve and significantly reduce the target's armor protection, all the while disfiguring the enemy for serious psychological damage!
+|fame=29
+|art=15
+|fth=16
+|civ=19
+|tech=11
+|ss1=Poison DMG +5
+|ss2=Poison DMG +10
+|ss3=Poison DMG +15
+|ss4=Poison DMG +15
+|ss7=Poison DMG +15<br> (Awakened)
+}}

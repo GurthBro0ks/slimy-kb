@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Baird's TV
+|class_id=22010
+|rank=Blue
+|affct=FAME
+|birthday=10-02
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Oct 2, 1925 AD, Baird invented the television technology that changed the whole world.<br>Inside his laboratory, Baird scanned a puppet with his homemade camera. He surprisingly found that the image of the puppet was projected onto the fluorescent screen in another room. So Baird ran out of the laboratory, hired a boy to sit in front of the camera, and did the same thing repeatedly. The boy named Taynton was lucky enough to be the first man on television. Baird, as the inventor of this new technology, brought a groundbreaking impact on human life.
+|fame=44
+|art=24
+|fth=21
+|civ=30
+|tech=35
+|ss1=Per 50 Gene Sim LVLs, Snail ATK +1<br>Gene Sim LVLs: 2500/2500
+|ss2=Per 50 Gene Sim LVLs, Snail ATK +2<br>Gene Sim LVLs: 2500/2500
+|ss3=Per 50 Gene Sim LVLs, Snail ATK +3<br>Gene Sim LVLs: 2500/2500
+|ss4=Per 50 Gene Sim LVLs, Snail ATK +5<br>Gene Sim LVLs: 2500/2500
+|ss7=Per 50 Gene Sim LVLs, Snail ATK +5<br>Gene Sim LVLs: 2500/2500<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Biozilla skill I.png|50px]]Place in a Biozilla: In Species War, All Minion ATK +1%
+}}

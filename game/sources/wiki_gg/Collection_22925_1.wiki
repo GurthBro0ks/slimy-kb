@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=collection@22925_1
+|class_id=22925
+|rank=SSS
+|affct=TECH
+|source=
+|description=collection@22925_2
+|fame=66
+|art=55
+|fth=68
+|civ=64
+|tech=109
+|ss1=Snail Leadership +6<br>Per 40 wishes made, Snail ATK +6<br>Per 40 wishes made, Snail DEF +6<br>Wishes Made: 2000/2000
+|ss2=Snail Leadership +7<br>Per 40 wishes made, Snail ATK +8<br>Per 40 wishes made, Snail DEF +8<br>Wishes Made: 2000/2000
+|ss3=Snail Leadership +8<br>Per 40 wishes made, Snail ATK +10<br>Per 40 wishes made, Snail DEF +10<br>Wishes Made: 2000/2000
+|ss4=Snail Leadership +10<br>Per 40 wishes made, Snail ATK +14<br>Per 40 wishes made, Snail DEF +14<br>Wishes Made: 2000/2000
+|ss5=Snail Leadership +12<br>Per 40 wishes made, Snail ATK +18<br>Per 40 wishes made, Snail DEF +18<br>Wishes Made: 2000/2000
+|ss6=Snail Leadership +15<br>Per 40 wishes made, Snail ATK +24<br>Per 40 wishes made, Snail DEF +24<br>Wishes Made: 2000/2000
+|ss7=Snail Leadership +15<br>Per 40 wishes made, Snail ATK +24<br>Per 40 wishes made, Snail DEF +24<br>Wishes Made: 2000/2000<br>Snail Leadership +10 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x INTEL Drops +15%
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x B-tad Drops +15%
+|skill3=[[File:Compass skill III.png|50px]]prop@3089_2
+|mirage={{Mirage|name=dungeon@22925_1|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=dungeon_event@4088_1|3rec=0.40M|3atk=10254|3defense=6996|3hp=40262|3weak=5167
+|4name=dungeon_event@4089_1|4rec=0.85M|4atk=18836|4defense=12670|4hp=129882|4weak=7449
+|5name=dungeon_event@4090_1|5rec=1.81M|5atk=30979|5defense=20702|5hp=348700|5weak=9670
+|6name=dungeon_event@4091_1|6rec=3.62M|6atk=46624|6defense=31097|6hp=715509|6weak=12668
+|Arec=6.82M|Aatk=66063|Adefense=44201|Ahp=1333166|Aweak=15589
+}}}}

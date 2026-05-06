@@ -1,0 +1,23 @@
+{{CargoOrgan
+|name=Mane of Chaos
+|type=Bionic
+|rank=red
+|id=10696
+|idx=54
+|description="Chaos and Oblivion walk the stars; when They descend upon a new world, it marks the end of days!"
+— Codex Draconis
+|skill=The doomsday descends, dealing DMG equal to 220% of ATK, and applies 1 stack of Annihilation to the enemy!
+|hp=2566
+|def=226
+|atk=189
+|rush=398
+|gene1=Per organ awakened, {race} HP +70
+Organs awakened: 40/40
+|gene2=Per Altar God Descent, {race} DEF +7
+Gods Descended: 30/30
+|gene3=Healing +12%
+|gene4=Chance to trigger Stonehide +4%
+|gene5=ELMT RES +4%
+|gene6=Snail Arena, enemy HP Regen -24%
+|gene7=Healing +12% (Awakened)
+|}}

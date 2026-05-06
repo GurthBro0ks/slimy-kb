@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Aeneid,Mysterious Relic,Celestial Throne
+|rank=orange
+|amount=3
+|category=self
+|description=Per 900 Species War Tech Pts, Snail ATK +8; Species Wars Tech Pts: 45,000/45,000
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Species War Tech Points]]

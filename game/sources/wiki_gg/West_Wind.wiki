@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=West Wind
+|class_id=20248
+|rank=Green
+|affct=FAITH
+|source=
+|description=This mahjong tile-shaped armor is a part of the outfit for West Wind, a senior cadre in Cathay. It features jade, platinum, and obsidian as main components. Crafted through unknown techniques, it is magnificent, durable, lightweight, and befitting of the revered status of West Wind.
+|fame=13
+|art=14
+|fth=31
+|civ=13
+|tech=19
+|ss1=Per 4 Gacha Gawd Packs claimed, Snail RUSH +2<br>Gacha Gawd Packs Claimed: 40/40
+|ss2=Per 4 Gacha Gawd Packs claimed, Snail RUSH +4<br>Gacha Gawd Packs Claimed: 40/40
+|ss3=Per 4 Gacha Gawd Packs claimed, Snail RUSH +6<br>Gacha Gawd Packs Claimed: 40/40
+|ss4=Per 4 Gacha Gawd Packs claimed, Snail RUSH +6<br>Gacha Gawd Packs Claimed: 40/40
+|ss7=Per 4 Gacha Gawd Packs claimed, Snail RUSH +6<br>Gacha Gawd Packs Claimed: 40/40<br> (Awakened)
+}}

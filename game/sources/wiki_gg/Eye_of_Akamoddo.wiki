@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Eye of Akamoddo
+|rank=SS
+|affct=FTH
+|birthday=03-03
+|source=FTH Master Scrolls (9.2%), Fragment Crafting (4.4%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), Time Chest (1%), Wishing (0.16%)
+|description=On Mar 3, 1964 AD, the Eye of Akamoddo, a magic item that can see the past and the future, appeared again after a million years. When this eye-shaped treasure first appeared, it was an instant sensation. The eye can be opened and emit magical rays. It can see past disguises and illusions, see images of past lives, and the trails of magical creatures. It comes from the ancient god Ishtar born millions of years ago. As he was the first to understand the mysteries of the universe, therefore it is also called the all-seeing eye.
+|fame=69
+|art=52
+|fth=103
+|civ=63
+|tech=60
+|ss1=Snail DEF +20<br>In Demon Form, Travel SPD +0.4%<br>In explorations, Demon Cells gained +2%
+|ss2=Snail DEF +30<br>In Demon Form, Travel SPD +0.6%<br>In explorations, Demon Cells gained +3%
+|ss3=Snail DEF +40<br>In Demon Form, Travel SPD +0.8%<br>In explorations, Demon Cells gained +4%
+|ss4=Snail DEF +60<br>In Demon Form, Travel SPD +1.2%<br>In explorations, Demon Cells gained +6%
+|ss5=Snail DEF +80<br>In Demon Form, Travel SPD +1.6%<br>In explorations, Demon Cells gained +8%
+|ss6=Snail DEF +110<br>In Demon Form, Travel SPD +2.2%<br>In explorations, Demon Cells gained +11%
+|ss7=Snail DEF +110<br>In Demon Form, Travel SPD +2.2%<br>In explorations, Demon Cells gained +11%<br>In explorations, Demon Cells gained +10% (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Snail DEF +600
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum, This Relic's FTH +15
+|skill3=[[File:Timemachine skill III.png|50px]]Place in Time Machine: This Relic's FTH +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}} 
+
+[[Category:DEF Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Demon Cell Drop Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:FTH Boost]]
+[[Category:Time Machine Skill]]
+[[Category:Demon Gene Speedup Boost]]
+[[Category:Realm Boost]]
+[[Category:Rewards Gear]]
+[[Category:Gaiastapo Boost]]

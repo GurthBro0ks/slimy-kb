@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Kellogg-Briand Pact
+|class_id=22522
+|rank=AAA
+|affct=FAME
+|birthday=09-05
+|source=
+|description=On Sept 5, 1928 AD, the Kellogg-Briand Pact was officially signed in Paris.<br>After the First World War, the idea of peace began to spread widely, and countries in Europe and America began to pursue pacifist diplomacy, ultimately giving rise to the Kellogg-Briand Pact. As the first universal international agreement to abandon war as a means of national policy, it was of great significance to international law and the history of war. Due to the vague definition of war and excessive reservations by countries regarding their right to self-defense, the treaty did not effectively prevent aggressive wars, but its existence became a legal basis for the trial of major war criminals after World War II.
+|fame=72
+|art=44
+|fth=33
+|civ=43
+|tech=51
+|ss1=Zombie Minion HP +3%<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +72<br>Mythic Protodex Stars: 100/100
+|ss2=Zombie Minion HP +4%<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +96<br>Mythic Protodex Stars: 100/100
+|ss3=Zombie Minion HP +5%<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +120<br>Mythic Protodex Stars: 100/100
+|ss4=Zombie Minion HP +7%<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +168<br>Mythic Protodex Stars: 100/100
+|ss5=Zombie Minion HP +9%<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +216<br>Mythic Protodex Stars: 100/100
+|ss7=Zombie Minion HP +9%<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +216<br>Mythic Protodex Stars: 100/100<br>Protomon Troop assist DMG + 560 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Green Reagent Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +1.5%
+}}

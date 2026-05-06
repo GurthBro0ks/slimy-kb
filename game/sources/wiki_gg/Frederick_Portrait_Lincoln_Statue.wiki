@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=515
+|relics=Frederick Portrait,Lincoln Statue
+|rank=orange
+|amount=2
+|category=self
+|description=Per 1.5k Museum Medals gained, Snail HP +70;Museum Medals Gained: 60000/60000
+}}

@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Twin-Tendril Tail
+|type=Bionic
+|rank=orange
+|id=10689
+|idx=47
+|description=Two filament tails weave and spiral with graceful motion. Winged at the tips, they dance like spirits of the sky, emanating an enchanting elegance filled with mystique.
+|skill=On combat start, summon Twin Vines to attack the enemy, dealing DMG equal to 102% of ATK!
+|hp=1490
+|def=205
+|atk=337
+|rush=154
+|gene1=In Gastric Pouch combat, CRIT +15%
+|gene2=Per 2 Gastric Pouch LVLs challenged, {race} ATK +5
+Gastric Pouch LVLs: 100/100
+|gene3=Earth DMG +90
+|gene4=Per 2 Gastric Pouch LVLs challenged, {race} RUSH +5
+Gastric Pouch LVLs: 100/100
+|gene5=Crit DMG +7.5%
+|gene7=Earth DMG +270 (Awakened)
+|}}

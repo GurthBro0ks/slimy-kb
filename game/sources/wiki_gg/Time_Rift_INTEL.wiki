@@ -1,0 +1,795 @@
+==INTEL==
+The INTEL Tree in the [[Time Rift]] contains many tiles that are extremely Intel-expensive to unlock, and can be upgraded many times over. Some of the later tiles in the tree can be upgraded up to 50 times!
+
+As you travel the Temporal Turbulence, you'll visit alternate Dimensions of the [[Realms]] you've already conquered. The Reward Grid in the Time Rift changes its squares depending on which of these Dimensions you're in. Because of this, 8 INTEL Tree tiles upgrade the Reward Grid for their respective Dimensions.
+
+'''Recommended Upgrade:''' Before upgrading individual dimensions, prioritize the center lane (1, 3, and 7). Next, upgrading tile 12 to at least level 3 will unlock Purple Card Conversions, and the [[Gear#Purple-0|Time Flute]]. Combined with gear from the previous [[Time Rift Cards]] tiers, you'll be able to use the [[Gear#Orange-0|Eternal Return]] for +8% DMG and +8% INTEL gained in the Rift.
+
+==Time Rift INTEL Tree - Page 1 - Time Rift==
+[[File:Time Rift INTEL Numbered.png|frameless|left]]
+{| class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Effect
+|-
+| rowspan="4" |1|| rowspan="4" |CrossDimensional Jump
+||20k||In the Rift, Travel SPD +4%
+|-
+||40k||In the Rift, Travel SPD +8%
+|-
+||60k||In the Rift, Travel SPD +12%
+|-
+||80k||In the Rift, Travel SPD +16%
+|-
+| rowspan="6" |2|| rowspan="6" |Koryeon Dimension
+||40k||Upgrade a white Apostle Camp to green
+|-
+||80k||Upgrade a white Hitman Training Camp to green
+|-
+||120k||Upgrade a white Apostle Camp to blue
+|-
+||160k||Upgrade a white Hitman Training Camp to blue
+|-
+||200k||Upgrade a white Apostle Camp to purple
+|-
+||200k||Upgrade a white Hitman Training Camp to purple
+|-
+| rowspan="4" |3|| rowspan="4" |Eye of History
+||40K||Unlock Special Cards (Time Rift)
+|-
+||80K||Card Conversion in the Rift gives +10% rewards
+|-
+||120k||Card Conversion in the Rift gives +15% rewards
+|-
+||160k||Card Conversion in the Rift gives +20% rewards
+|-
+| rowspan="6" |4|| rowspan="6" |Yamato Dimension
+||40k||Upgrade a white Kendo Dojo to green
+|-
+||80k||Upgrade a white Ninjitsu House to green
+|-
+||120k||Upgrade a white Kendo Dojo to blue
+|-
+||160k||Upgrade a white Ninjitsu House to blue
+|-
+||200k||Upgrade a white Kendo Dojo to purple
+|-
+||200k||Upgrade a white Ninjitsu House to purple
+|-
+| rowspan="6" |5|| rowspan="6" |Cathay Dimension
+||80k||Upgrade a white Drill Ground to green
+|-
+||160k||Upgrade a white Barracks to green
+|-
+||240k||Upgrade a white Drill Ground to blue
+|-
+||320k||Upgrade a white Barracks to blue
+|-
+||400k||Upgrade a white Drill Ground to purple
+|-
+||400k||Upgrade a white Barracks to purple
+|-
+| rowspan="6" |6|| rowspan="6" |Murika Dimension
+||80k||Upgrade a white Biochem Lab to green
+|-
+||160k||Upgrade a white Machinery Lab to green
+|-
+||240k||Upgrade a white Biochem Lab to blue
+|-
+||320k||Upgrade a white Machinery Lab to blue
+|-
+||400k||Upgrade a white Biochem Lab to purple
+|-
+||400k||Upgrade a white Machinery Lab to purple
+|-
+| rowspan="3" |7|| rowspan="3" |Trace of Time
+||80k||Upgrade White World Tree to Green
+|-
+||160k||Upgrade White World Tree to Blue
+|-
+||240k||Upgrade White World Tree to Purple
+|-
+| rowspan="6" |8|| rowspan="6" |Britland Dimension
+||80k||Upgrade a white Sea Trading Post to green
+|-
+||160k||Upgrade a white Navigator's Memorial to green
+|-
+||240k||Upgrade a white Sea Trading Post to blue
+|-
+||320k||Upgrade a white Navigator's Memorial to blue
+|-
+||400k||Upgrade a white Sea Trading Post to purple
+|-
+||400k||Upgrade a white Navigator's Memorial to purple
+|-
+| rowspan="6" |9|| rowspan="6" |Kemetic Dimension
+||80k||Upgrade a white Obsidian Factory to green
+|-
+||160k||Upgrade a white Energy Stone Factory to green
+|-
+||240k||Upgrade a white Obsidian Factory to blue
+|-
+||320k||Upgrade a white Energy Stone Factory to blue
+|-
+||400k||Upgrade a white Obsidian Factory to purple
+|-
+||400k||Upgrade a white Energy Stone Factory to purple
+|-
+| rowspan="6" |10|| rowspan="6" |Hellenic Dimension
+||120k||Upgrade a white White Thread Workshop to green
+|-
+||240k||Upgrade a white Demon Leather Workshop to green
+|-
+||360k||Upgrade a white White Thread Workshop to blue
+|-
+||480k||Upgrade a white Demon Leather Workshop to blue
+|-
+||600k||Upgrade a white White Thread Workshop to purple
+|-
+||600k||Upgrade a white Demon Leather Workshop to purple
+|-
+| rowspan="5" |11|| rowspan="5" |Dimensional Strike
+||120k||In the Rift, DMG +6%
+|-
+||240k||In the Rift, DMG +12%
+|-
+||360k||In the Rift, DMG +18%
+|-
+||480k||In the Rift, DMG +24%
+|-
+||600k||In the Rift, DMG +30%
+|-
+| rowspan="8" |12|| rowspan="8" |Freyr's Blessing
+||120k||Meal Box Cap +20k
+|-
+||240k||Meal Box Cap +40k
+|-
+||360k||Meal Box Cap +60k
+|-
+||480k||Meal Box Cap +80k
+|-
+||600k||Meal Box Cap +100k
+|-
+||600k||Meal Box Cap +120k
+|-
+||600k||Meal Box Cap +140k
+|-
+||600k||Meal Box Cap +160k
+|-
+| rowspan="3" |13|| rowspan="3" |Time Capsule
+||120k||Per victory, Time Capsule gained +1
+|-
+||240k||Per victory, Time Capsule gained +2
+|-
+||360k||Per victory, Time Capsule gained +3
+|-
+| rowspan="6" |14|| rowspan="6" |Bharata Dimension
+||120k||Upgrade a white Medicine Hall to green
+|-
+||240k||Upgrade a white Elixir Hall to green
+|-
+||360k||Upgrade a white Medicine Hall to blue
+|-
+||480k||Upgrade a white Elixir Hall to blue
+|-
+||600k||Upgrade a white Medicine Hall to purple
+|-
+||600k||Upgrade a white Elixir Hall to purple
+|-
+||15||Life Source|| || See Large Upgrades table below
+|-
+||16||Chaotic Power|| || See Large Upgrades table below
+|-
+| rowspan="8" |17|| rowspan="8" |Time Gift
+||160k||Gain extra rewards on Purple Grids by 12%:<br>In Koryeon Dimension, gain extra Fungus Chests
+|-
+||320k||In Yamato Dimension, gain extra Gear Chests
+|-
+||480k||In Cathay Dimension, gain extra Time Chests
+|-
+||640k||In Murikan Dimension, gain extra Evo Chests
+|-
+||800k||In Britland Dimension, gain extra Tool Chests
+|-
+||800k||In Kemetic Dimension, gain extra Divine Chaos Chests
+|-
+||800k||In Hellenic Dimension, gain extra Divine Neutral Chests
+|-
+||800k||In Bharata Dimension, gain extra Divine Order Chests
+|-
+||18||Infinite Defense|| || See Large Upgrades table below
+|-
+||19||Beyond Top Speed|| || See Large Upgrades table below
+|-
+|}
+
+=== Per Rift Apostle INTEL ===
+Four tiles in the Time Rift INTEL Tree can be upgraded to level 50 each. Because of this, maxing these Intel tiles will cost a total of 153,600,000 Intel!
+In the table below you'll find the effect of each of these Large Upgrades at their corresponding level, as well as the Intel cost of that level alone.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level!!Required INTEL!!Effect!!Life Source!!Chaotic Power!!Infinite Defense!!Beyond Top Speed
+|-
+||1||160k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +60||Snail ATK +6||Snail DEF +6||Snail RUSH +6
+|-
+||2||320k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +120||Snail ATK +12||Snail DEF +12||Snail RUSH +12
+|-
+||3||480k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +180||Snail ATK +18||Snail DEF +18||Snail RUSH +18
+|-
+||4||640k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +240||Snail ATK +24||Snail DEF +24||Snail RUSH +24
+|-
+||5||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +300||Snail ATK +30||Snail DEF +30||Snail RUSH +30
+|-
+||6||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +360||Snail ATK +36||Snail DEF +36||Snail RUSH +36
+|-
+||7||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +420||Snail ATK +42||Snail DEF +42||Snail RUSH +42
+|-
+||8||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +480||Snail ATK +48||Snail DEF +48||Snail RUSH +48
+|-
+||9||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +540||Snail ATK +54||Snail DEF +54||Snail RUSH +54
+|-
+||10||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +600||Snail ATK +60||Snail DEF +60||Snail RUSH +60
+|-
+||11||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +660||Snail ATK +66||Snail DEF +66||Snail RUSH +66
+|-
+||12||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +720||Snail ATK +72||Snail DEF +72||Snail RUSH +72
+|-
+||13||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +780||Snail ATK +78||Snail DEF +78||Snail RUSH +78
+|-
+||14||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +840||Snail ATK +84||Snail DEF +84||Snail RUSH +84
+|-
+||15||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +900||Snail ATK +90||Snail DEF +90||Snail RUSH +90
+|-
+||16||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +960||Snail ATK +96||Snail DEF +96||Snail RUSH +96
+|-
+||17||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1020||Snail ATK +102||Snail DEF +102||Snail RUSH +102
+|-
+||18||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1080||Snail ATK +108||Snail DEF +108||Snail RUSH +108
+|-
+||19||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1140||Snail ATK +114||Snail DEF +114||Snail RUSH +114
+|-
+||20||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1200||Snail ATK +120||Snail DEF +120||Snail RUSH +120
+|-
+||21||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1260||Snail ATK +126||Snail DEF +126||Snail RUSH +126
+|-
+||22||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1320||Snail ATK +132||Snail DEF +132||Snail RUSH +132
+|-
+||23||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1380||Snail ATK +138||Snail DEF +138||Snail RUSH +138
+|-
+||24||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1440||Snail ATK +144||Snail DEF +144||Snail RUSH +144
+|-
+||25||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1500||Snail ATK +150||Snail DEF +150||Snail RUSH +150
+|-
+||26||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1560||Snail ATK +156||Snail DEF +156||Snail RUSH +156
+|-
+||27||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1620||Snail ATK +162||Snail DEF +162||Snail RUSH +162
+|-
+||28||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1680||Snail ATK +168||Snail DEF +168||Snail RUSH +168
+|-
+||29||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1740||Snail ATK +174||Snail DEF +174||Snail RUSH +174
+|-
+||30||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1800||Snail ATK +180||Snail DEF +180||Snail RUSH +180
+|-
+||31||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1860||Snail ATK +186||Snail DEF +186||Snail RUSH +186
+|-
+||32||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1920||Snail ATK +192||Snail DEF +192||Snail RUSH +192
+|-
+||33||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +1980||Snail ATK +198||Snail DEF +198||Snail RUSH +198
+|-
+||34||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2040||Snail ATK +204||Snail DEF +204||Snail RUSH +204
+|-
+||35||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2100||Snail ATK +210||Snail DEF +210||Snail RUSH +210
+|-
+||36||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2160||Snail ATK +216||Snail DEF +216||Snail RUSH +216
+|-
+||37||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2220||Snail ATK +222||Snail DEF +222||Snail RUSH +222
+|-
+||38||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2280||Snail ATK +228||Snail DEF +228||Snail RUSH +228
+|-
+||39||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2340||Snail ATK +234||Snail DEF +234||Snail RUSH +234
+|-
+||40||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2400||Snail ATK +240||Snail DEF +240||Snail RUSH +240
+|-
+||41||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2460||Snail ATK +246||Snail DEF +246||Snail RUSH +246
+|-
+||42||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2520||Snail ATK +252||Snail DEF +252||Snail RUSH +252
+|-
+||43||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2580||Snail ATK +258||Snail DEF +258||Snail RUSH +258
+|-
+||44||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2640||Snail ATK +264||Snail DEF +264||Snail RUSH +264
+|-
+||45||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2700||Snail ATK +270||Snail DEF +270||Snail RUSH +270
+|-
+||46||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2760||Snail ATK +276||Snail DEF +276||Snail RUSH +276
+|-
+||47||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2820||Snail ATK +282||Snail DEF +282||Snail RUSH +282
+|-
+||48||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2880||Snail ATK +288||Snail DEF +288||Snail RUSH +288
+|-
+||49||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +2940||Snail ATK +294||Snail DEF +294||Snail RUSH +294
+|-
+||50||800k||Per Rift Apostle defeated...<br>Rift Apostles Defeated: 40/40||Snail HP +3000||Snail ATK +300||Snail DEF +300||Snail RUSH +300
+|-
+|}
+
+==Time Rift INTEL Tree - Page 2 - Immortal Spacetime==
+After unlocking 180 INTEL upgrades from Page 1, Page 2 will unlock.
+
+[[File:Time Rift INTEL Numbered2.png|frameless|left]]
+{| class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Required Page 1 Unlocks!!Effect
+|-
+| rowspan="5" |1|| rowspan="5" |Journey of Time Rift
+||20k||rowspan="5"|Time Rift total level 180||All Drifter MAX LVL +5
+|-
+||40k||All Drifter MAX LVL +10
+|-
+||60k||All Drifter MAX LVL +15
+|-
+||80k||All Drifter MAX LVL +20
+|-
+||100k||All Drifter MAX LVL +30
+|-
+| rowspan="5" |2|| rowspan="5" |Band Expertise
+||40k||rowspan="5"|Time Rift total level 200||All Drifter MAX Band Skill LVL +1
+|-
+||80k||All Drifter MAX Band Skill LVL +3
+|-
+||120k||All Drifter MAX Band Skill LVL +5
+|-
+||160k||All Drifter MAX Band Skill LVL +7
+|-
+||200k||All Drifter MAX Band Skill LVL +10
+|-
+| rowspan="5" |3|| rowspan="5" |Riding Expertise
+||40k||rowspan="5"|Time Rift total level 200||All Drifter MAX Riding Skill LVL +1
+|-
+||80k||All Drifter MAX Riding Skill LVL +3
+|-
+||120k||All Drifter MAX Riding Skill LVL +5
+|-
+||160k||All Drifter MAX Riding Skill LVL +7
+|-
+||200k||All Drifter MAX Riding Skill LVL +10
+|-
+| rowspan="5" |4|| rowspan="5" |Ninjitsu Expertise
+||40k||rowspan="5"|Time Rift total level 200||All Drifter MAX Ninjitsu Skill LVL +1
+|-
+||80k||All Drifter MAX Ninjitsu Skill LVL +3
+|-
+||120k||All Drifter MAX Ninjitsu Skill LVL +5
+|-
+||160k||All Drifter MAX Ninjitsu Skill LVL +7
+|-
+||200k||All Drifter MAX Ninjitsu Skill LVL +10
+|-
+| rowspan="5" |5|| rowspan="5" |Siege Expertise
+||80k||rowspan="5"|Time Rift total level 220||All Drifter MAX Siege Skill LVL +1
+|-
+||160k||All Drifter MAX Siege Skill LVL +3
+|-
+||240k||All Drifter MAX Siege Skill LVL +5
+|-
+||320k||All Drifter MAX Siege Skill LVL +7
+|-
+||400k||All Drifter MAX Siege Skill LVL +10
+|-
+| rowspan="5" |6|| rowspan="5" |Dance Expertise
+||80k||rowspan="5"|Time Rift total level 220||All Drifter MAX Dance Skill LVL +1
+|-
+||160k||All Drifter MAX Dance Skill LVL +3
+|-
+||240k||All Drifter MAX Dance Skill LVL +5
+|-
+||320k||All Drifter MAX Dance Skill LVL +7
+|-
+||400k||All Drifter MAX Dance Skill LVL +10
+|-
+| rowspan="5" |7|| rowspan="5" |Seafaring Expertise
+||80k||rowspan="5"|Time Rift total level 220||All Drifter MAX Seafaring Skill LVL +1
+|-
+||160k||All Drifter MAX Seafaring Skill LVL +3
+|-
+||240k||All Drifter MAX Seafaring Skill LVL +5
+|-
+||320k||All Drifter MAX Seafaring Skill LVL +7
+|-
+||400k||All Drifter MAX Seafaring Skill LVL +10
+|-
+| rowspan="5" |8|| rowspan="5" |Dharma Expertise
+||80k||rowspan="5"|Time Rift total level 220||All Drifter MAX Dharma Skill LVL +1
+|-
+||160k||All Drifter MAX Dharma Skill LVL +3
+|-
+||240k||All Drifter MAX Dharma Skill LVL +5
+|-
+||320k||All Drifter MAX Dharma Skill LVL +7
+|-
+||400k||All Drifter MAX Dharma Skill LVL +10
+|-
+| rowspan="5" |9|| rowspan="5" |Defense Expertise
+||80k||rowspan="5"|Time Rift total level 220||All Drifter MAX Defense Skill LVL +1
+|-
+||160k||All Drifter MAX Defense Skill LVL +3
+|-
+||240k||All Drifter MAX Defense Skill LVL +5
+|-
+||320k||All Drifter MAX Defense Skill LVL +7
+|-
+||400k||All Drifter MAX Defense Skill LVL +10
+|-
+||10||Origin of Art|| ||Time Rift total level 250||See "Origin of..." table below
+|-
+||11||Origin of Culture|| ||Time Rift total level 250||See "Origin of..." table below
+|-
+||12||Origin of Tech|| ||Time Rift total level 250||See "Origin of..." table below
+|-
+||13||Origin of Fame|| ||Time Rift total level 250||See "Origin of..." table below
+|-
+||14||Origin of Faith|| ||Time Rift total level 250||See "Origin of..." table below
+|-
+||15||Earth Affinity|| ||Time Rift total level 280||See "...Affinity" table below
+|-
+||16||Fire Affinity|| ||Time Rift total level 280||See "...Affinity" table below
+|-
+||17||Poison Affinity|| ||Time Rift total level 280||See "...Affinity" table below
+|-
+||18||Water Affinity|| ||Time Rift total level 280||See "...Affinity" table below
+|-
+||19||Wind Affinity|| ||Time Rift total level 280||See "...Affinity" table below
+|-
+|}
+
+=== Origin of INTEL ===
+5 "Origin of..." tiles in the Immortal Spacetime INTEL Tree can be upgraded to level 50 each.
+
+In the table below you'll find the effect of each of these "Origin of..." upgrades at their corresponding level, as well as the Intel cost of that level alone.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level!!Req INTEL!!Origin of Art!!Origin of Culture!!Origin of Tech!!Origin of Fame!!Origin of Faith
+|-
+||1||120k||ART +40||CIV +40||TECH +40||FAME +40||FTH +40
+|-
+||2||240k||ART +80||CIV +80||TECH +80||FAME +80||FTH +80
+|-
+||3||360k||ART +120||CIV +120||TECH +120||FAME +120||FTH +120
+|-
+||4||480k||ART +160||CIV +160||TECH +160||FAME +160||FTH +160
+|-
+||5||600k||ART +200||CIV +200||TECH +200||FAME +200||FTH +200
+|-
+||6||600k||ART +240||CIV +240||TECH +240||FAME +240||FTH +240
+|-
+||7||600k||ART +280||CIV +280||TECH +280||FAME +280||FTH +280
+|-
+||8||600k||ART +320||CIV +320||TECH +320||FAME +320||FTH +320
+|-
+||9||600k||ART +360||CIV +360||TECH +360||FAME +360||FTH +360
+|-
+||10||600k||ART +400||CIV +400||TECH +400||FAME +400||FTH +400
+|-
+||11||600k||ART +440||CIV +440||TECH +440||FAME +440||FTH +440
+|-
+||12||600k||ART +480||CIV +480||TECH +480||FAME +480||FTH +480
+|-
+||13||600k||ART +520||CIV +520||TECH +520||FAME +520||FTH +520
+|-
+||14||600k||ART +560||CIV +560||TECH +560||FAME +560||FTH +560
+|-
+||15||600k||ART +600||CIV +600||TECH +600||FAME +600||FTH +600
+|-
+||16||600k||ART +640||CIV +640||TECH +640||FAME +640||FTH +640
+|-
+||17||600k||ART +680||CIV +680||TECH +680||FAME +680||FTH +680
+|-
+||18||600k||ART +720||CIV +720||TECH +720||FAME +720||FTH +720
+|-
+||19||600k||ART +760||CIV +760||TECH +760||FAME +760||FTH +760
+|-
+||20||600k||ART +800||CIV +800||TECH +800||FAME +800||FTH +800
+|-
+||21||600k||ART +840||CIV +840||TECH +840||FAME +840||FTH +840
+|-
+||22||600k||ART +880||CIV +880||TECH +880||FAME +880||FTH +880
+|-
+||23||600k||ART +920||CIV +920||TECH +920||FAME +920||FTH +920
+|-
+||24||600k||ART +960||CIV +960||TECH +960||FAME +960||FTH +960
+|-
+||25||600k||ART +1,000||CIV +1,000||TECH +1,000||FAME +1,000||FTH +1,000
+|-
+||26||600k||ART +1,040||CIV +1,040||TECH +1,040||FAME +1,040||FTH +1,040
+|-
+||27||600k||ART +1,080||CIV +1,080||TECH +1,080||FAME +1,080||FTH +1,080
+|-
+||28||600k||ART +1,120||CIV +1,120||TECH +1,120||FAME +1,120||FTH +1,120
+|-
+||29||600k||ART +1,160||CIV +1,160||TECH +1,160||FAME +1,160||FTH +1,160
+|-
+||30||600k||ART +1,200||CIV +1,200||TECH +1,200||FAME +1,200||FTH +1,200
+|-
+||31||600k||ART +1,240||CIV +1,240||TECH +1,240||FAME +1,240||FTH +1,240
+|-
+||32||600k||ART +1,280||CIV +1,280||TECH +1,280||FAME +1,280||FTH +1,280
+|-
+||33||600k||ART +1,320||CIV +1,320||TECH +1,320||FAME +1,320||FTH +1,320
+|-
+||34||600k||ART +1,360||CIV +1,360||TECH +1,360||FAME +1,360||FTH +1,360
+|-
+||35||600k||ART +1,400||CIV +1,400||TECH +1,400||FAME +1,400||FTH +1,400
+|-
+||36||600k||ART +1,440||CIV +1,440||TECH +1,440||FAME +1,440||FTH +1,440
+|-
+||37||600k||ART +1,480||CIV +1,480||TECH +1,480||FAME +1,480||FTH +1,480
+|-
+||38||600k||ART +1,520||CIV +1,520||TECH +1,520||FAME +1,520||FTH +1,520
+|-
+||39||600k||ART +1,560||CIV +1,560||TECH +1,560||FAME +1,560||FTH +1,560
+|-
+||40||600k||ART +1,600||CIV +1,600||TECH +1,600||FAME +1,600||FTH +1,600
+|-
+||41||600k||ART +1,640||CIV +1,640||TECH +1,640||FAME +1,640||FTH +1,640
+|-
+||42||600k||ART +1,680||CIV +1,680||TECH +1,680||FAME +1,680||FTH +1,680
+|-
+||43||600k||ART +1,720||CIV +1,720||TECH +1,720||FAME +1,720||FTH +1,720
+|-
+||44||600k||ART +1,760||CIV +1,760||TECH +1,760||FAME +1,760||FTH +1,760
+|-
+||45||600k||ART +1,800||CIV +1,800||TECH +1,800||FAME +1,800||FTH +1,800
+|-
+||46||600k||ART +1,840||CIV +1,840||TECH +1,840||FAME +1,840||FTH +1,840
+|-
+||47||600k||ART +1,880||CIV +1,880||TECH +1,880||FAME +1,880||FTH +1,880
+|-
+||48||600k||ART +1,920||CIV +1,920||TECH +1,920||FAME +1,920||FTH +1,920
+|-
+||49||600k||ART +1,960||CIV +1,960||TECH +1,960||FAME +1,960||FTH +1,960
+|-
+||50||600k||ART +2,000||CIV +2,000||TECH +2,000||FAME +2,000||FTH +2,000
+|}
+
+=== Affinity INTEL ===
+5 "...Affinity" tiles in the Immortal Spacetime INTEL Tree can be upgraded to level 100 each.
+
+In the table below you'll find the effect of each of these "...Affinity" upgrades at their corresponding level, as well as the Intel cost of that level alone.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level!!Req INTEL!!Effect!!Earth Affinity!!Fire Affinity!!Poison Affinity!!Water Affinity!!Wind Affinity
+|-
+||1||160k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +2<br>Earth Res +2||Fire Dmg +2<br>Fire Res +2||Poison Dmg +2<br>Poison Res +2||Water Dmg +2<br>Water Res +2||Wind Dmg +2<br>Wind Res +2
+|-
+||2||320k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +4<br>Earth Res +4||Fire Dmg +4<br>Fire Res +4||Poison Dmg +4<br>Poison Res +4||Water Dmg +4<br>Water Res +4||Wind Dmg +4<br>Wind Res +4
+|-
+||3||480k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +6<br>Earth Res +6||Fire Dmg +6<br>Fire Res +6||Poison Dmg +6<br>Poison Res +6||Water Dmg +6<br>Water Res +6||Wind Dmg +6<br>Wind Res +6
+|-
+||4||640k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +8<br>Earth Res +8||Fire Dmg +8<br>Fire Res +8||Poison Dmg +8<br>Poison Res +8||Water Dmg +8<br>Water Res +8||Wind Dmg +8<br>Wind Res +8
+|-
+||5||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +10<br>Earth Res +10||Fire Dmg +10<br>Fire Res +10||Poison Dmg +10<br>Poison Res +10||Water Dmg +10<br>Water Res +10||Wind Dmg +10<br>Wind Res +10
+|-
+||6||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +12<br>Earth Res +12||Fire Dmg +12<br>Fire Res +12||Poison Dmg +12<br>Poison Res +12||Water Dmg +12<br>Water Res +12||Wind Dmg +12<br>Wind Res +12
+|-
+||7||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +14<br>Earth Res +14||Fire Dmg +14<br>Fire Res +14||Poison Dmg +14<br>Poison Res +14||Water Dmg +14<br>Water Res +14||Wind Dmg +14<br>Wind Res +14
+|-
+||8||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +16<br>Earth Res +16||Fire Dmg +16<br>Fire Res +16||Poison Dmg +16<br>Poison Res +16||Water Dmg +16<br>Water Res +16||Wind Dmg +16<br>Wind Res +16
+|-
+||9||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +18<br>Earth Res +18||Fire Dmg +18<br>Fire Res +18||Poison Dmg +18<br>Poison Res +18||Water Dmg +18<br>Water Res +18||Wind Dmg +18<br>Wind Res +18
+|-
+||10||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +20<br>Earth Res +20||Fire Dmg +20<br>Fire Res +20||Poison Dmg +20<br>Poison Res +20||Water Dmg +20<br>Water Res +20||Wind Dmg +20<br>Wind Res +20
+|-
+||11||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +22<br>Earth Res +22||Fire Dmg +22<br>Fire Res +22||Poison Dmg +22<br>Poison Res +22||Water Dmg +22<br>Water Res +22||Wind Dmg +22<br>Wind Res +22
+|-
+||12||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +24<br>Earth Res +24||Fire Dmg +24<br>Fire Res +24||Poison Dmg +24<br>Poison Res +24||Water Dmg +24<br>Water Res +24||Wind Dmg +24<br>Wind Res +24
+|-
+||13||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +26<br>Earth Res +26||Fire Dmg +26<br>Fire Res +26||Poison Dmg +26<br>Poison Res +26||Water Dmg +26<br>Water Res +26||Wind Dmg +26<br>Wind Res +26
+|-
+||14||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +28<br>Earth Res +28||Fire Dmg +28<br>Fire Res +28||Poison Dmg +28<br>Poison Res +28||Water Dmg +28<br>Water Res +28||Wind Dmg +28<br>Wind Res +28
+|-
+||15||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +30<br>Earth Res +30||Fire Dmg +30<br>Fire Res +30||Poison Dmg +30<br>Poison Res +30||Water Dmg +30<br>Water Res +30||Wind Dmg +30<br>Wind Res +30
+|-
+||16||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +32<br>Earth Res +32||Fire Dmg +32<br>Fire Res +32||Poison Dmg +32<br>Poison Res +32||Water Dmg +32<br>Water Res +32||Wind Dmg +32<br>Wind Res +32
+|-
+||17||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +34<br>Earth Res +34||Fire Dmg +34<br>Fire Res +34||Poison Dmg +34<br>Poison Res +34||Water Dmg +34<br>Water Res +34||Wind Dmg +34<br>Wind Res +34
+|-
+||18||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +36<br>Earth Res +36||Fire Dmg +36<br>Fire Res +36||Poison Dmg +36<br>Poison Res +36||Water Dmg +36<br>Water Res +36||Wind Dmg +36<br>Wind Res +36
+|-
+||19||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +38<br>Earth Res +38||Fire Dmg +38<br>Fire Res +38||Poison Dmg +38<br>Poison Res +38||Water Dmg +38<br>Water Res +38||Wind Dmg +38<br>Wind Res +38
+|-
+||20||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +40<br>Earth Res +40||Fire Dmg +40<br>Fire Res +40||Poison Dmg +30<br>Poison Res +40||Water Dmg +40<br>Water Res +40||Wind Dmg +40<br>Wind Res +40
+|-
+||21||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +42<br>Earth Res +42||Fire Dmg +42<br>Fire Res +42||Poison Dmg +42<br>Poison Res +42||Water Dmg +42<br>Water Res +42||Wind Dmg +42<br>Wind Res +42
+|-
+||22||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +44<br>Earth Res +44||Fire Dmg +44<br>Fire Res +44||Poison Dmg +44<br>Poison Res +44||Water Dmg +44<br>Water Res +44||Wind Dmg +44<br>Wind Res +44
+|-
+||23||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +46<br>Earth Res +46||Fire Dmg +46<br>Fire Res +46||Poison Dmg +46<br>Poison Res +46||Water Dmg +46<br>Water Res +46||Wind Dmg +46<br>Wind Res +46
+|-
+||24||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +48<br>Earth Res +48||Fire Dmg +48<br>Fire Res +48||Poison Dmg +48<br>Poison Res +48||Water Dmg +48<br>Water Res +48||Wind Dmg +48<br>Wind Res +48
+|-
+||25||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +50<br>Earth Res +50||Fire Dmg +50<br>Fire Res +50||Poison Dmg +50<br>Poison Res +50||Water Dmg +50<br>Water Res +50||Wind Dmg +50<br>Wind Res +50
+|-
+||26||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +52<br>Earth Res +52||Fire Dmg +52<br>Fire Res +52||Poison Dmg +52<br>Poison Res +52||Water Dmg +52<br>Water Res +52||Wind Dmg +52<br>Wind Res +52
+|-
+||27||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +54<br>Earth Res +54||Fire Dmg +54<br>Fire Res +54||Poison Dmg +54<br>Poison Res +54||Water Dmg +54<br>Water Res +54||Wind Dmg +54<br>Wind Res +54
+|-
+||28||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +56<br>Earth Res +56||Fire Dmg +56<br>Fire Res +56||Poison Dmg +56<br>Poison Res +56||Water Dmg +56<br>Water Res +56||Wind Dmg +56<br>Wind Res +56
+|-
+||29||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +58<br>Earth Res +58||Fire Dmg +58<br>Fire Res +58||Poison Dmg +58<br>Poison Res +58||Water Dmg +58<br>Water Res +58||Wind Dmg +58<br>Wind Res +58
+|-
+||30||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +60<br>Earth Res +60||Fire Dmg +60<br>Fire Res +60||Poison Dmg +60<br>Poison Res +60||Water Dmg +60<br>Water Res +60||Wind Dmg +60<br>Wind Res +60
+|-
+||31||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +62<br>Earth Res +62||Fire Dmg +62<br>Fire Res +62||Poison Dmg +62<br>Poison Res +62||Water Dmg +62<br>Water Res +62||Wind Dmg +62<br>Wind Res +62
+|-
+||32||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +64<br>Earth Res +64||Fire Dmg +64<br>Fire Res +64||Poison Dmg +64<br>Poison Res +64||Water Dmg +64<br>Water Res +64||Wind Dmg +64<br>Wind Res +64
+|-
+||33||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +66<br>Earth Res +66||Fire Dmg +66<br>Fire Res +66||Poison Dmg +66<br>Poison Res +66||Water Dmg +66<br>Water Res +66||Wind Dmg +66<br>Wind Res +66
+|-
+||34||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +68<br>Earth Res +68||Fire Dmg +68<br>Fire Res +68||Poison Dmg +68<br>Poison Res +68||Water Dmg +68<br>Water Res +68||Wind Dmg +68<br>Wind Res +68
+|-
+||35||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +70<br>Earth Res +70||Fire Dmg +70<br>Fire Res +70||Poison Dmg +70<br>Poison Res +70||Water Dmg +70<br>Water Res +70||Wind Dmg +70<br>Wind Res +70
+|-
+||36||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +72<br>Earth Res +72||Fire Dmg +72<br>Fire Res +72||Poison Dmg +72<br>Poison Res +72||Water Dmg +72<br>Water Res +72||Wind Dmg +72<br>Wind Res +72
+|-
+||37||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +74<br>Earth Res +74||Fire Dmg +74<br>Fire Res +74||Poison Dmg +74<br>Poison Res +74||Water Dmg +74<br>Water Res +74||Wind Dmg +74<br>Wind Res +74
+|-
+||38||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +76<br>Earth Res +76||Fire Dmg +76<br>Fire Res +76||Poison Dmg +76<br>Poison Res +76||Water Dmg +76<br>Water Res +76||Wind Dmg +76<br>Wind Res +76
+|-
+||39||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +78<br>Earth Res +78||Fire Dmg +78<br>Fire Res +78||Poison Dmg +78<br>Poison Res +78||Water Dmg +78<br>Water Res +78||Wind Dmg +78<br>Wind Res +78
+|-
+||40||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +80<br>Earth Res +80||Fire Dmg +80<br>Fire Res +80||Poison Dmg +80<br>Poison Res +80||Water Dmg +80<br>Water Res +80||Wind Dmg +80<br>Wind Res +80
+|-
+||41||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +82<br>Earth Res +82||Fire Dmg +82<br>Fire Res +82||Poison Dmg +82<br>Poison Res +82||Water Dmg +82<br>Water Res +82||Wind Dmg +82<br>Wind Res +82
+|-
+||42||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +84<br>Earth Res +84||Fire Dmg +84<br>Fire Res +84||Poison Dmg +84<br>Poison Res +84||Water Dmg +84<br>Water Res +84||Wind Dmg +84<br>Wind Res +84
+|-
+||43||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +86<br>Earth Res +86||Fire Dmg +86<br>Fire Res +86||Poison Dmg +86<br>Poison Res +86||Water Dmg +86<br>Water Res +86||Wind Dmg +86<br>Wind Res +86
+|-
+||44||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +88<br>Earth Res +88||Fire Dmg +88<br>Fire Res +88||Poison Dmg +28<br>Poison Res +88||Water Dmg +88<br>Water Res +88||Wind Dmg +88<br>Wind Res +88
+|-
+||45||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +90<br>Earth Res +90||Fire Dmg +90<br>Fire Res +90||Poison Dmg +90<br>Poison Res +90||Water Dmg +90<br>Water Res +90||Wind Dmg +90<br>Wind Res +90
+|-
+||46||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +92<br>Earth Res +92||Fire Dmg +92<br>Fire Res +92||Poison Dmg +92<br>Poison Res +92||Water Dmg +92<br>Water Res +92||Wind Dmg +92<br>Wind Res +92
+|-
+||47||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +94<br>Earth Res +94||Fire Dmg +94<br>Fire Res +94||Poison Dmg +94<br>Poison Res +94||Water Dmg +94<br>Water Res +94||Wind Dmg +94<br>Wind Res +94
+|-
+||48||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +96<br>Earth Res +96||Fire Dmg +96<br>Fire Res +96||Poison Dmg +96<br>Poison Res +96||Water Dmg +96<br>Water Res +96||Wind Dmg +96<br>Wind Res +96
+|-
+||49||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +98<br>Earth Res +98||Fire Dmg +98<br>Fire Res +98||Poison Dmg +98<br>Poison Res +98||Water Dmg +98<br>Water Res +98||Wind Dmg +98<br>Wind Res +98
+|-
+||50||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +100<br>Earth Res +100||Fire Dmg +100<br>Fire Res +100||Poison Dmg +100<br>Poison Res +100||Water Dmg +100<br>Water Res +100||Wind Dmg +100<br>Wind Res +100
+|-
+||51||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +102<br>Earth Res +102||Fire Dmg +102<br>Fire Res +102||Poison Dmg +102<br>Poison Res +102||Water Dmg +102<br>Water Res +102||Wind Dmg +102<br>Wind Res +102
+|-
+||52||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +104<br>Earth Res +104||Fire Dmg +104<br>Fire Res +104||Poison Dmg +104<br>Poison Res +104||Water Dmg +104<br>Water Res +104||Wind Dmg +104<br>Wind Res +104
+|-
+||53||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +106<br>Earth Res +106||Fire Dmg +106<br>Fire Res +106||Poison Dmg +106<br>Poison Res +106||Water Dmg +106<br>Water Res +106||Wind Dmg +106<br>Wind Res +106
+|-
+||54||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +108<br>Earth Res +108||Fire Dmg +108<br>Fire Res +108||Poison Dmg +108<br>Poison Res +108||Water Dmg +108<br>Water Res +108||Wind Dmg +108<br>Wind Res +108
+|-
+||55||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +110<br>Earth Res +110||Fire Dmg +110<br>Fire Res +110||Poison Dmg +110<br>Poison Res +110||Water Dmg +110<br>Water Res +110||Wind Dmg +110<br>Wind Res +110
+|-
+||56||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +112<br>Earth Res +112||Fire Dmg +112<br>Fire Res +112||Poison Dmg +112<br>Poison Res +112||Water Dmg +112<br>Water Res +112||Wind Dmg +112<br>Wind Res +112
+|-
+||57||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +114<br>Earth Res +114||Fire Dmg +114<br>Fire Res +114||Poison Dmg +114<br>Poison Res +114||Water Dmg +114<br>Water Res +114||Wind Dmg +114<br>Wind Res +114
+|-
+||58||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +116<br>Earth Res +116||Fire Dmg +116<br>Fire Res +116||Poison Dmg +116<br>Poison Res +116||Water Dmg +116<br>Water Res +116||Wind Dmg +116<br>Wind Res +116
+|-
+||59||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +118<br>Earth Res +118||Fire Dmg +118<br>Fire Res +118||Poison Dmg +118<br>Poison Res +118||Water Dmg +118<br>Water Res +118||Wind Dmg +118<br>Wind Res +118
+|-
+||60||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +120<br>Earth Res +120||Fire Dmg +120<br>Fire Res +120||Poison Dmg +120<br>Poison Res +120||Water Dmg +120<br>Water Res +120||Wind Dmg +120<br>Wind Res +120
+|-
+||61||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +122<br>Earth Res +122||Fire Dmg +122<br>Fire Res +122||Poison Dmg +122<br>Poison Res +122||Water Dmg +122<br>Water Res +122||Wind Dmg +122<br>Wind Res +122
+|-
+||62||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +124<br>Earth Res +124||Fire Dmg +124<br>Fire Res +124||Poison Dmg +124<br>Poison Res +124||Water Dmg +124<br>Water Res +124||Wind Dmg +124<br>Wind Res +124
+|-
+||63||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +126<br>Earth Res +126||Fire Dmg +126<br>Fire Res +126||Poison Dmg +126<br>Poison Res +126||Water Dmg +126<br>Water Res +126||Wind Dmg +126<br>Wind Res +126
+|-
+||64||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +128<br>Earth Res +128||Fire Dmg +128<br>Fire Res +128||Poison Dmg +128<br>Poison Res +128||Water Dmg +128<br>Water Res +128||Wind Dmg +128<br>Wind Res +128
+|-
+||65||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +130<br>Earth Res +130||Fire Dmg +130<br>Fire Res +130||Poison Dmg +130<br>Poison Res +130||Water Dmg +130<br>Water Res +130||Wind Dmg +130<br>Wind Res +130
+|-
+||66||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +132<br>Earth Res +132||Fire Dmg +132<br>Fire Res +132||Poison Dmg +132<br>Poison Res +132||Water Dmg +132<br>Water Res +132||Wind Dmg +132<br>Wind Res +132
+|-
+||67||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +134<br>Earth Res +134||Fire Dmg +134<br>Fire Res +134||Poison Dmg +134<br>Poison Res +134||Water Dmg +134<br>Water Res +134||Wind Dmg +134<br>Wind Res +134
+|-
+||68||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +136<br>Earth Res +136||Fire Dmg +136<br>Fire Res +136||Poison Dmg +136<br>Poison Res +136||Water Dmg +136<br>Water Res +136||Wind Dmg +136<br>Wind Res +136
+|-
+||69||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +138<br>Earth Res +138||Fire Dmg +138<br>Fire Res +138||Poison Dmg +138<br>Poison Res +138||Water Dmg +138<br>Water Res +138||Wind Dmg +138<br>Wind Res +138
+|-
+||70||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +140<br>Earth Res +140||Fire Dmg +140<br>Fire Res +140||Poison Dmg +140<br>Poison Res +140||Water Dmg +140<br>Water Res +140||Wind Dmg +140<br>Wind Res +140
+|-
+||71||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +142<br>Earth Res +142||Fire Dmg +142<br>Fire Res +142||Poison Dmg +142<br>Poison Res +142||Water Dmg +142<br>Water Res +142||Wind Dmg +142<br>Wind Res +142
+|-
+||72||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +144<br>Earth Res +144||Fire Dmg +144<br>Fire Res +144||Poison Dmg +144<br>Poison Res +144||Water Dmg +144<br>Water Res +144||Wind Dmg +144<br>Wind Res +144
+|-
+||73||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +146<br>Earth Res +146||Fire Dmg +146<br>Fire Res +146||Poison Dmg +146<br>Poison Res +146||Water Dmg +146<br>Water Res +146||Wind Dmg +146<br>Wind Res +146
+|-
+||74||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +148<br>Earth Res +148||Fire Dmg +148<br>Fire Res +148||Poison Dmg +148<br>Poison Res +148||Water Dmg +148<br>Water Res +148||Wind Dmg +148<br>Wind Res +148
+|-
+||75||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +150<br>Earth Res +150||Fire Dmg +150<br>Fire Res +150||Poison Dmg +150<br>Poison Res +150||Water Dmg +150<br>Water Res +150||Wind Dmg +150<br>Wind Res +150
+|-
+||76||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +152<br>Earth Res +152||Fire Dmg +152<br>Fire Res +152||Poison Dmg +152<br>Poison Res +152||Water Dmg +152<br>Water Res +152||Wind Dmg +152<br>Wind Res +152
+|-
+||77||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +154<br>Earth Res +154||Fire Dmg +154<br>Fire Res +154||Poison Dmg +154<br>Poison Res +154||Water Dmg +154<br>Water Res +154||Wind Dmg +154<br>Wind Res +154
+|-
+||78||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +156<br>Earth Res +156||Fire Dmg +156<br>Fire Res +156||Poison Dmg +156<br>Poison Res +156||Water Dmg +156<br>Water Res +156||Wind Dmg +156<br>Wind Res +156
+|-
+||79||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +158<br>Earth Res +158||Fire Dmg +518<br>Fire Res +158||Poison Dmg +158<br>Poison Res +158||Water Dmg +158<br>Water Res +158||Wind Dmg +158<br>Wind Res +158
+|-
+||80||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +160<br>Earth Res +160||Fire Dmg +160<br>Fire Res +160||Poison Dmg +160<br>Poison Res +160||Water Dmg +160<br>Water Res +160||Wind Dmg +160<br>Wind Res +160
+|-
+||81||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +162<br>Earth Res +162||Fire Dmg +162<br>Fire Res +162||Poison Dmg +162<br>Poison Res +162||Water Dmg +162<br>Water Res +162||Wind Dmg +162<br>Wind Res +162
+|-
+||82||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +164<br>Earth Res +164||Fire Dmg +164<br>Fire Res +164||Poison Dmg +164<br>Poison Res +164||Water Dmg +164<br>Water Res +164||Wind Dmg +164<br>Wind Res +164
+|-
+||83||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +166<br>Earth Res +166||Fire Dmg +166<br>Fire Res +166||Poison Dmg +166<br>Poison Res +166||Water Dmg +166<br>Water Res +166||Wind Dmg +166<br>Wind Res +166
+|-
+||84||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +168<br>Earth Res +168||Fire Dmg +168<br>Fire Res +168||Poison Dmg +168<br>Poison Res +168||Water Dmg +168<br>Water Res +168||Wind Dmg +168<br>Wind Res +168
+|-
+||85||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +170<br>Earth Res +170||Fire Dmg +170<br>Fire Res +170||Poison Dmg +170<br>Poison Res +170||Water Dmg +170<br>Water Res +170||Wind Dmg +170<br>Wind Res +170
+|-
+||86||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +172<br>Earth Res +172||Fire Dmg +172<br>Fire Res +172||Poison Dmg +172<br>Poison Res +172||Water Dmg +172<br>Water Res +172||Wind Dmg +172<br>Wind Res +172
+|-
+||87||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +174<br>Earth Res +174||Fire Dmg +174<br>Fire Res +174||Poison Dmg +174<br>Poison Res +174||Water Dmg +174<br>Water Res +174||Wind Dmg +174<br>Wind Res +174
+|-
+||88||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +176<br>Earth Res +176||Fire Dmg +176<br>Fire Res +176||Poison Dmg +176<br>Poison Res +176||Water Dmg +176<br>Water Res +176||Wind Dmg +176<br>Wind Res +176
+|-
+||89||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +178<br>Earth Res +178||Fire Dmg +178<br>Fire Res +178||Poison Dmg +178<br>Poison Res +178||Water Dmg +178<br>Water Res +178||Wind Dmg +178<br>Wind Res +178
+|-
+||90||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +180<br>Earth Res +180||Fire Dmg +180<br>Fire Res +180||Poison Dmg +180<br>Poison Res +180||Water Dmg +180<br>Water Res +180||Wind Dmg +180<br>Wind Res +180
+|-
+||91||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +182<br>Earth Res +182||Fire Dmg +182<br>Fire Res +182||Poison Dmg +182<br>Poison Res +182||Water Dmg +182<br>Water Res +182||Wind Dmg +182<br>Wind Res +182
+|-
+||92||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +184<br>Earth Res +184||Fire Dmg +184<br>Fire Res +184||Poison Dmg +184<br>Poison Res +184||Water Dmg +184<br>Water Res +184||Wind Dmg +184<br>Wind Res +184
+|-
+||93||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +186<br>Earth Res +186||Fire Dmg +186<br>Fire Res +186||Poison Dmg +186<br>Poison Res +186||Water Dmg +186<br>Water Res +186||Wind Dmg +186<br>Wind Res +186
+|-
+||94||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +188<br>Earth Res +188||Fire Dmg +188<br>Fire Res +188||Poison Dmg +188<br>Poison Res +188||Water Dmg +188<br>Water Res +188||Wind Dmg +188<br>Wind Res +188
+|-
+||95||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +190<br>Earth Res +190||Fire Dmg +190<br>Fire Res +190||Poison Dmg +190<br>Poison Res +190||Water Dmg +190<br>Water Res +190||Wind Dmg +190<br>Wind Res +190
+|-
+||96||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +192<br>Earth Res +192||Fire Dmg +192<br>Fire Res +192||Poison Dmg +192<br>Poison Res +192||Water Dmg +192<br>Water Res +192||Wind Dmg +192<br>Wind Res +192
+|-
+||97||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +194<br>Earth Res +194||Fire Dmg +194<br>Fire Res +194||Poison Dmg +194<br>Poison Res +194||Water Dmg +194<br>Water Res +194||Wind Dmg +194<br>Wind Res +194
+|-
+||98||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +196<br>Earth Res +196||Fire Dmg +196<br>Fire Res +196||Poison Dmg +196<br>Poison Res +196||Water Dmg +196<br>Water Res +196||Wind Dmg +196<br>Wind Res +196
+|-
+||99||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +198<br>Earth Res +198||Fire Dmg +198<br>Fire Res +198||Poison Dmg +198<br>Poison Res +198||Water Dmg +198<br>Water Res +198||Wind Dmg +198<br>Wind Res +198
+|-
+||100||800k||Per 5 Rift Apostles Dominated...<br>Rift Apostles Dominated: 50/50||Earth Dmg +200<br>Earth Res +200||Fire Dmg +200<br>Fire Res +200||Poison Dmg +200<br>Poison Res +200||Water Dmg +200<br>Water Res +200||Wind Dmg +200<br>Wind Res +200
+|}
+
+==Time Rift INTEL Tree - Page 3==
+After dominating 30 Time Rift Apostles, Page 3 will unlock. All nodes have no max level. Every 10 levels per Circle will switch to other Circle to level up. For example Outer Circle all nodes are at level 10 they can't be upgraded, instead four nodes of Inner Circle can be upgraded. Once the Inner Circle is fully upgraded (all 4 nodes at 10 Levels), it will switch back to Outer Circle. It keeps switching back and forth.
+
+In the Center, it uses 2 Time Protokaryon per level that are obtainable at Rift II, Rift III and Rift IV by defeating and dominating Time Apostles who are significally stronger than previous Rift Apostles.
+
+[[File:Time Rift INTEL Numbered3.png|frameless|left]]
+{| class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Cost!!Effect
+|-
+|1 ||Boulder Punishment||{{RewardIconWithText|Intel, 800k}}||Earth +3<br>In the Rift, Earth DMG +6
+|-
+|2||Source Force Infusion||{{RewardIconWithText|Intel, 800k}}||Snail HP +300<br>In the Rift, Snail HP +600
+|-
+|3||Ocean Punishment||{{RewardIconWithText|Intel, 800k}}||Water DMG +3<br>In the Rift, Water DMG +6
+|-
+|4||Source Force Bombing||{{RewardIconWithText|Intel, 800k}}||Snail ATK +30<br>In the Rift, Snail ATK +60
+|-
+|5||Red Lotus Punishment||{{RewardIconWithText|Intel, 800k}}||Fire DMG +3<br>In the Rift, Fire DMG +6
+|-
+|6||Source Force Barrier||{{RewardIconWithText|Intel, 800k}}||Snail DEF +300<br>In the Rift, Snail DEF +60
+|-
+|7||Gale Punishment||{{RewardIconWithText|Intel, 800k}}||Wind DMG +3<br>In the Rift, Wind DMG +6
+|-
+|8||Source Force Shock||{{RewardIconWithText|Intel, 800k}}||Snail RUSH +30<br>In the Rift, Snail RUSH +60
+|-
+|9||Dimensional Reconstruction||{{RewardIconWithText|Intel, 800k}}||Snail HP +600<br>Earth DMG +6
+|-
+|10||Dimensional Shuttle||{{RewardIconWithText|Intel, 800k}}||Snail RUSH +60<br>Wind DMG +6
+|-
+|11||Dimensional Perturbation||{{RewardIconWithText|Intel, 800k}}||Snail DEF +60<br> Water DMG +6
+|-
+|12||Dimensional Cut||{{RewardIconWithText|Intel, 800k}}||Snail ATK +60<br>Fire DMG +6
+|-
+|13||Eternal Curse||{{RewardIconWithText|Time Protokaryon, 2}}||4 ELMT DMG +0.1%<br>Snail HARD Stats +0.1%<br>In the Rift, DMG +1%<br>In the Rift, DMG in Round 1 +1%
+|-
+}
+[[Category:Time Rift]]

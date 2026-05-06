@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Sleeping Venus
+|class_id=22535
+|rank=AAA
+|affct=ART
+|birthday=04-18
+|source=Lottery Machine No.3 (0.06%)
+|description=On Apr 18, 1510 AD, Giorgione left this painting and passed away with his lover.<br>The Sleeping Venus, created by Italian painter Giorgione, with the background completed by the painter's disciple Titian. The goddess of beauty in this painting was inspired by a lady whom Giorgione fell in love with at first sight at a party. They quickly fell in love, and the painter used her as a model to begin the creation of this painting. Unfortunately, the woman fell victim to a plague and passed away with the devoted painter. Giorgione's masterpiece perfectly blends nature and the human body, displaying a unique beauty that had a profound impact on painting in later generations.
+|fame=31
+|art=73
+|fth=43
+|civ=52
+|tech=44
+|ss1=Minion Sim Chests drop 2x Sim Tokens by +1.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +12
+|ss2=Minion Sim Chests drop 2x Sim Tokens by +2%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +16
+|ss3=Minion Sim Chests drop 2x Sim Tokens by +2.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +20
+|ss4=Minion Sim Chests drop 2x Sim Tokens by +3.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28
+|ss5=Minion Sim Chests drop 2x Sim Tokens by +4.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +36
+|ss7=Minion Sim Chests drop 2x Sim Tokens by +4.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, Troop Fire DMG +15
+|skill2=[[File:Mantis skill II.png|50px]]Place in the Mantis Biozilla: In Species War, Troop CRIT +4.5%
+}}

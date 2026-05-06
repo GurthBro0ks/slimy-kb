@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=Tail of Cataclysm
+|type=Bionic
+|rank=red
+|id=10719
+|idx=77
+|description="The Federation's expeditionary force was erased in an instant—we didn’t even see It move! When crimson rain began to fall from the sky… it was already too late."
+— Demon King's Revelation
+|skill=On combat start, launch a spiral fighting spiritual cannon, dealing DMG equal to 120% of ATK, and reducing the enemy's ATK by 6% this round!
+|hp=1760
+|def=390
+|atk=250
+|rush=254
+|gene1=Snail Arena, Earth DMG +240
+|gene2=Snail Arena, Lifesteal Rate +40%
+|gene3=Per 30 Star Coins redeemed, {race} DEF +70
+Star Coin Redeems: 90/90
+|gene4=Each round, {race} DEF +80
+|gene5=Earth DMG +120
+|gene6=Snail Arena, dodge rate +12%
+|gene7=Snail Arena, dodge rate +12% (Awakened)
+|}}

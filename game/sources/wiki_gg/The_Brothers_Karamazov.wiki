@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The Brothers Karamazov
+|class_id=22878
+|rank=SSS
+|affct=CIV
+|source=
+|description=The Brothers Karamazov is the last novel by the famous writer Fyodor Dostoevsky, and one of his most mature and profound works. It continues to be widely read and studied, having a profound impact on the fields of literature and philosophy, and is considered a brilliant gem in the treasure trove of world literature.
+|fame=81
+|art=64
+|fth=60
+|civ=106
+|tech=51
+|ss1=Snail Leadership +3<br>All Mutant Minion Skins, HARD Stats +30%<br>Per 5 CIV Relics awakened, Snail ATK +9<br>CIV Relics Awakened: 100/100
+|ss2=Snail Leadership +4<br>All Mutant Minion Skins, HARD Stats +40%<br>Per 5 CIV Relics awakened, Snail ATK +12<br>CIV Relics Awakened: 100/100
+|ss3=Snail Leadership +5<br>All Mutant Minion Skins, HARD Stats +50%<br>Per 5 CIV Relics awakened, Snail ATK +15<br>CIV Relics Awakened: 100/100
+|ss4=Snail Leadership +7<br>All Mutant Minion Skins, HARD Stats +70%<br>Per 5 CIV Relics awakened, Snail ATK +21<br>CIV Relics Awakened: 100/100
+|ss5=Snail Leadership +9<br>All Mutant Minion Skins, HARD Stats +90%<br>Per 5 CIV Relics awakened, Snail ATK +27<br>CIV Relics Awakened: 100/100
+|ss6=Snail Leadership +12<br>All Mutant Minion Skins, HARD Stats +120%<br>Per 5 CIV Relics awakened, Snail ATK +36<br>CIV Relics Awakened: 100/100
+|ss7=Snail Leadership +12<br>All Mutant Minion Skins, HARD Stats +120%<br>Per 5 CIV Relics awakened, Snail ATK +36<br>CIV Relics Awakened: 100/100<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+}}

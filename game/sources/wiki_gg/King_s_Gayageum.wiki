@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=King's Gayageum
+|class_id=21632
+|rank=SSS
+|affct=ART
+|birthday=08-03
+|source=
+|description=On Aug 3, 500 AD, Koryea's first national musical instrument, Gayageum, was invented.<br>The King of Gaya acquired a music instrument called the zheng from Northern Wei. Based on the zheng, Gaya King, a music enthusiast, developed a 12-string instrument called the Gayageum, and created many pieces of Korean folk music that spread through generations. It's said that its melodious sound can take the listener back to the ancient beautiful Korea. The most well-known pieces to this day are Gayageum sanjo, the Moon, the Song of Birds.
+|fame=71
+|art=107
+|fth=63
+|civ=47
+|tech=74
+|ss1=Snail ATK +30<br>Per 60 Minions in battle:<br>> Troop ATK +9<br>Per 60 Minions in battle:<br>> Troop RUSH +9
+|ss2=Snail ATK +40<br>Per 60 Minions in battle:<br>> Troop ATK +18<br>Per 60 Minions in battle:<br>> Troop RUSH +18
+|ss3=Snail ATK +50<br>Per 60 Minions in battle:<br>> Troop ATK +27<br>Per 60 Minions in battle:<br>> Troop RUSH +27
+|ss4=Snail ATK +70<br>Per 60 Minions in battle:<br>> Troop ATK +45<br>Per 60 Minions in battle:<br>> Troop RUSH +45
+|ss5=Snail ATK +90<br>Per 60 Minions in battle:<br>> Troop ATK +63<br>Per 60 Minions in battle:<br>> Troop RUSH +63
+|ss6=Snail ATK +120<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per 60 Minions in battle:<br>> Troop RUSH +90
+|ss7=Snail ATK +120<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per 60 Minions in battle:<br>> Troop RUSH +90<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: This Relic's ART +15
+|skill2=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, Demon Cells gained +30%
+|skill3=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, Snail ATK +600
+|mirage={{Mirage|name=Koryeo's Voice|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Lady Flutist|3rec=4.72M|3atk=54473|3defense=36105|3hp=952896|3weak=11638
+|4name=Lady Drummer|4rec=8.17M|4atk=73596|4defense=48780|4hp=1640507|4weak=13026
+|5name=Lady Suona|5rec=13.52M|5atk=96416|5defense=63904|5hp=2623317|5weak=16152
+|6name=Lady Fifer|6rec=26.77M|6atk=123044|6defense=81554|6hp=4094797|6weak=18297
+|Arec=40.95M|Aatk=153144|Adefense=101504|Ahp=6267141|Aweak=19440
+}}}}

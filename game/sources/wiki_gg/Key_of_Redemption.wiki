@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Key of Redemption
+|class_id=20222
+|rank=Green
+|affct=FAITH
+|source=
+|description=This antique key holds an unimaginable power of faith, and if you listen closely, you can hear the prayers of believers, "Lord, please give us what we have dreamed of..."
+|fame=13
+|art=17
+|fth=31
+|civ=18
+|tech=13
+|ss1=Per Angel Form Tier, Snail HP +100<br>Angel Form Tiers: 9/9
+|ss2=Per Angel Form Tier, Snail HP +200<br>Angel Form Tiers: 9/9
+|ss3=Per Angel Form Tier, Snail HP +300<br>Angel Form Tiers: 9/9
+|ss4=Per Angel Form Tier, Snail HP +300<br>Angel Form Tiers: 9/9
+|ss7=Per Angel Form Tier, Snail HP +300<br>Angel Form Tiers: 9/9<br> (Awakened)
+}}

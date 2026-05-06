@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Genesis
+|rank=Blue
+|affct=FTH
+|birthday=03-20
+|source=Lottery Machine (0.07%), Wishing (2.1%), Club Chest (2%), Novice Scroll (1%)
+|description=On Mar 20, 1513 BC, this great story was written by Moses in the wilderness of Egypt.
+
+Moses recorded the grand and majestic scenes about how God created everything, how Adam and Eve lived in the Garden of Eden, how Noah built the ark by faith, the mysterious destruction of sinful cities of Sodom and Gomorrah, Abraham's receiving blessings, and other stories. 
+
+[Famous Quotes in Genesis]
+
+Resentment kills a fool, and envy slays the simple. Does a wild donkey bray when it has grass, or an ox bellow when it has fodder? The light of the wicked indeed goes out, and the flame of his fire does not shine. Yet man is born to trouble as surely as sparks fly upward.
+|fame=27
+|art=31
+|fth=47
+|civ=22
+|tech=27
+|ss1=Per Blue Museum Promo, Snail ATK +5<br>Blue Museum Promos: 3/3
+|ss2=Per Blue Museum Promo, Snail ATK +10<br>Blue Museum Promos: 3/3
+|ss3=Per Blue Museum Promo, Snail ATK +15<br>Blue Museum Promos: 3/3
+|ss4=Per Blue Museum Promo, Snail ATK +25<br>Blue Museum Promos: 3/3
+|ss7=Per Blue Museum Promo, Snail ATK +25<br>Blue Museum Promos: 3/3<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]] Place in Gene Sim Device: Snail ATK +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:FTH Relics]]
+[[Category:Blue FTH Relics]]
+[[Category:ATK Boost]]
+[[Category:Museum Promo Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:Enhanced by Museum Promos]]

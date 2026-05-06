@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Patriotic Family Medal
+|class_id=20405
+|rank=Green
+|affct=FAME
+|source=
+|description=What is the greatest crisis in modern society? Aging population and declining birthrate! A country full of elderlies faces stagnation, so, boosting the birth rate is a high priority! Let's have more kids running on the street!
+|fame=30
+|art=12
+|fth=20
+|civ=13
+|tech=15
+|ss1=Per 5 Minions Cloned, Snail DEF +2<br>Minions Cloned: 100/100
+|ss2=Per 5 Minions Cloned, Snail DEF +4<br>Minions Cloned: 100/100
+|ss3=Per 5 Minions Cloned, Snail DEF +6<br>Minions Cloned: 100/100
+|ss4=Per 5 Minions Cloned, Snail DEF +6<br>Minions Cloned: 100/100
+|ss7=Per 5 Minions Cloned, Snail DEF +6<br>Minions Cloned: 100/100<br> (Awakened)
+}}

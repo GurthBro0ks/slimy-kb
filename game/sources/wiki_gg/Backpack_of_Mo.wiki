@@ -1,0 +1,19 @@
+{{CargoRelic
+|name=Backpack of Mo
+|class_id=20131
+|rank=Green
+|affct=ART
+|source=Defeat [[Fissure#500-999-0|Strange Caveman in Fissure Level 685]]
+
+|description=This backpack once belonged to a dwarf barbarian, whose family had lived in the dank crypt for generations. The barbarian gathered fungi as his food and stored extra ones in the backpack to keep them fresh and tasty!
+|fame=14
+|art=31
+|fth=18
+|civ=16
+|tech=11
+|ss1=Per 500 FAME, Snail DEF +2<br>FAME: 15000/15000
+|ss2=Per 500 FAME, Snail DEF +4<br>FAME: 15000/15000
+|ss3=Per 500 FAME, Snail DEF +6<br>FAME: 15000/15000
+|ss4=Per 500 FAME, Snail DEF +6<br>FAME: 15000/15000
+|ss7=Per 500 FAME, Snail DEF +6<br>FAME: 15000/15000<br> (Awakened)
+}}

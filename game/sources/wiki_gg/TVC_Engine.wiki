@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=TVC Engine
+|class_id=22735
+|rank=S
+|affct=TECH
+|birthday=03-30
+|source=Lottery Machine No.3 (1.62%)
+|description=On Mar 30, 1988 AD, the world's first TVC Engine was developed.<br>It can deflect the nozzle in different directions to obtain thrust in all directions. With this feature, aircraft equipped with vector engines can obtain additional control moment and better control the attitude change of the aircraft, achieve stall maneuvering, short takeoff and landing capability, and comprehensively improve combat performance.
+|fame=60
+|art=46
+|fth=67
+|civ=59
+|tech=100
+|ss1=Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +3%<br>Per 3 Forest Protomon, Snail RUSH +2<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +16<br>Forest Protomon: 60/60
+|ss2=Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +6%<br>Per 3 Forest Protomon, Snail RUSH +4<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +32<br>Forest Protomon: 60/60
+|ss3=Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +9%<br>Per 3 Forest Protomon, Snail RUSH +6<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +48<br>Forest Protomon: 60/60
+|ss4=Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +15%<br>Per 3 Forest Protomon, Snail RUSH +10<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +80<br>Forest Protomon: 60/60
+|ss5=Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +21%<br>Per 3 Forest Protomon, Snail RUSH +14<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +112<br>Forest Protomon: 60/60
+|ss6=Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +30%<br>Per 3 Forest Protomon, Snail RUSH +20<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +160<br>Forest Protomon: 60/60
+|ss7=Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +30%<br>Per 3 Forest Protomon, Snail RUSH +20<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +160<br>Forest Protomon: 60/60<br>Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +30% (Awakened)
+|skill1=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Earth DMG +60
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +15%
+|skill3=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: This Relic's TECH +15
+|mirage={{Mirage|name=Space Engine|reward={{RewardIconWithLink|Travel Speedup, +28800|orange}}
+|3name=Piston Engine|3rec=115.20M|3atk=327216|3defense=205972|3hp=17745233|3weak=35906
+|4name=Turbofan Engine|4rec=156.95M|4atk=426419|4defense=264718|4hp=27024431|4weak=39531
+|Arec=225.01M|Aatk=591011|Adefense=360462|Ahp=51154658|Aweak=46936
+}}}}

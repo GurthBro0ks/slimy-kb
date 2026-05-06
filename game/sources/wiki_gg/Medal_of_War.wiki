@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Medal of War
+|class_id=20580
+|rank=Green
+|affct=CIV
+|source=
+|description=The Demon God's apostles ravage, Earth's will awards this honor medal to commend travelers who made outstanding contributions in Murika battles, encouraging them to go all out to eliminate the apostles! -- Earth's Will (Seal)
+|fame=16
+|art=14
+|fth=17
+|civ=30
+|tech=13
+|ss1=Per 2 Apostles Dominated, Snail DEF +1<br>Per 2 Apostles Dominated, Snail RUSH +1<br>Apostles Dominated: 50/50
+|ss2=Per 2 Apostles Dominated, Snail DEF +2<br>Per 2 Apostles Dominated, Snail RUSH +2<br>Apostles Dominated: 50/50
+|ss3=Per 2 Apostles Dominated, Snail DEF +3<br>Per 2 Apostles Dominated, Snail RUSH +3<br>Apostles Dominated: 50/50
+|ss4=Per 2 Apostles Dominated, Snail DEF +3<br>Per 2 Apostles Dominated, Snail RUSH +3<br>Apostles Dominated: 50/50
+|ss7=Per 2 Apostles Dominated, Snail DEF +3<br>Per 2 Apostles Dominated, Snail RUSH +3<br>Apostles Dominated: 50/50<br> (Awakened)
+}}

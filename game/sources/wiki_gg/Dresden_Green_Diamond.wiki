@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Dresden Green Diamond
+|class_id=22513
+|rank=AAA
+|affct=FAME
+|birthday=02-14
+|source=Lottery Machine No.3 (0.06%)
+|description=On Feb 14, 1743 AD, a collector purchased the Dresden Green Diamond.<br>The Dresden Green is currently the world's largest green diamond, weighing 40.7 carats. It was discovered near Golconda in southern India in the early 18th century. After being excavated, it changed hands several times and was finally collected in the Albertinium Museum.
+|fame=72
+|art=40
+|fth=33
+|civ=48
+|tech=50
+|ss1=Wormhole Shards from Wormhole Refiner +1.8%<br>Per Bionic Part extracted, Snail ATK +3<br>Bionic Part Extracted: 50/50
+|ss2=Wormhole Shards from Wormhole Refiner +2.4%<br>Per Bionic Part extracted, Snail ATK +4<br>Bionic Part Extracted: 50/50
+|ss3=Wormhole Shards from Wormhole Refiner +3%<br>Per Bionic Part extracted, Snail ATK +5<br>Bionic Part Extracted: 50/50
+|ss4=Wormhole Shards from Wormhole Refiner +4.2%<br>Per Bionic Part extracted, Snail ATK +7<br>Bionic Part Extracted: 50/50
+|ss5=Wormhole Shards from Wormhole Refiner +5.4%<br>Per Bionic Part extracted, Snail ATK +9<br>Bionic Part Extracted: 50/50
+|ss7=Wormhole Shards from Wormhole Refiner +5.4%<br>Per Bionic Part extracted, Snail ATK +9<br>Bionic Part Extracted: 50/50<br>Wormhole Shards from Wormhole Refiner +4.2% (Awakened)
+|skill1=[[File:Surfclam skill II.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Water DMG +30
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FAME +10
+}}

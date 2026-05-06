@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Ball Award
+|class_id=20069
+|rank=Green
+|affct=CIV
+|source=
+|description=The Golden Ball Award is a film and television award festival in Murika held in the form of a formal dinner. Organized by the Huullywood Foreign Press Association, the event is held annually and features a total of 24 awards, voted on by 96 journalists.
+|fame=17
+|art=15
+|fth=12
+|civ=31
+|tech=15
+|ss1=Lottery Purple Orbs turn to Orange by +0.5%
+|ss2=Lottery Purple Orbs turn to Orange by +1%
+|ss3=Lottery Purple Orbs turn to Orange by +1.5%
+|ss4=Lottery Purple Orbs turn to Orange by +1.5%
+|ss7=Lottery Purple Orbs turn to Orange by +1.5%<br> (Awakened)
+}}

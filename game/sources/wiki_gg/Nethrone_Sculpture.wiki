@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Nethrone Sculpture
+|class_id=20736
+|rank=Green
+|affct=FAITH
+|source=
+|description=Upon learning of Nethrone's demise, Earth's Will had a batch of statues crafted in the likeness of its head. One purpose was to commemorate the historic moment of triumph over a formidable foe, and the other was to gift these to the distinguished Travelers, allowing them to share in the Joy of victory!
+|fame=12
+|art=15
+|fth=29
+|civ=18
+|tech=16
+|ss1=Snail Leadership +1<br>Per Demon God Sculpture owned, Snail DEF +50<br>Demon God Sculptures Owned: 8/8
+|ss2=Snail Leadership +2<br>Per Demon God Sculpture owned, Snail DEF +100<br>Demon God Sculptures Owned: 8/8
+|ss3=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail DEF +150<br>Demon God Sculptures Owned: 8/8
+|ss4=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail DEF +150<br>Demon God Sculptures Owned: 8/8
+|ss7=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail DEF +150<br>Demon God Sculptures Owned: 8/8<br> (Awakened)
+}}

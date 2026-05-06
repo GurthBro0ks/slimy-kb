@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Hun Min Jong Um
+|class_id=20918
+|rank=Blue
+|affct=FAME
+|birthday=04-03
+|source=
+|description=On Apr 3, 1443 AD, Hun Min Jong Um samples were created to promote laws.<br>King Sejong created Hangul, a writing system for his people. Due to the suzerain language's complexity, King Sejong appointed scholars to compile Hun Min Jong Um, a guide for the Korean people to learn their own language.
+|fame=45
+|art=23
+|fth=33
+|civ=24
+|tech=29
+|ss1=Per Exploration completed, Snail DEF +6<br>Explorations completed: 20/20
+|ss2=Per Exploration completed, Snail DEF +8<br>Explorations completed: 20/20
+|ss3=Per Exploration completed, Snail DEF +10<br>Explorations completed: 20/20
+|ss4=Per Exploration completed, Snail DEF +14<br>Explorations completed: 20/20
+|ss7=Per Exploration completed, Snail DEF +14<br>Explorations completed: 20/20<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Koryeo skill I.png|50px]]Place in Koryeon Museum: In Koryeo, FAME Checks -5
+}}

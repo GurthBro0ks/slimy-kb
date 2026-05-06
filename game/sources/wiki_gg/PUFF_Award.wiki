@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=PUFF Award
+|class_id=20526
+|rank=Green
+|affct=CIV
+|source=
+|description=The PUFF Award is awarded at the Tallinn Black Nights International Film Festival, the largest and most prestigious international film festival in northeastern Europe. The festival comprises four competition sections, three affiliated film festivals, and a year-round online film market. During the festival, filmmakers can watch the most interesting and promising films from Europe, Russia, and the United States.
+|fame=13
+|art=15
+|fth=15
+|civ=31
+|tech=16
+|ss1=Per 10 Epic Protodex Stars, Snail ATK +4<br>Epic Protodex Stars: 200/200
+|ss2=Per 10 Epic Protodex Stars, Snail ATK +8<br>Epic Protodex Stars: 200/200
+|ss3=Per 10 Epic Protodex Stars, Snail ATK +12<br>Epic Protodex Stars: 200/200
+|ss4=Per 10 Epic Protodex Stars, Snail ATK +12<br>Epic Protodex Stars: 200/200
+|ss7=Per 10 Epic Protodex Stars, Snail ATK +12<br>Epic Protodex Stars: 200/200<br> (Awakened)
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=715
+|relics=Lives Magazine Vol.1,Primavera
+|rank=orange
+|amount=2
+|category=self
+|description=Per 100 catalysis, Snail ATK +7;Catalysis: 5000/5000
+}}

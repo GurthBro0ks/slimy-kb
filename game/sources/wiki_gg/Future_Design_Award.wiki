@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Future Design Award
+|class_id=22906
+|rank=SSS
+|affct=TECH
+|source=
+|description=The Future Design Award is an international design award aimed at recognizing designers and design works that demonstrate innovative thinking and forward-looking design concepts. The award particularly focuses on projects that can foresee and lead future design trends, encouraging designers to explore the potential of design in solving social problems and improving human life. In recent years, the award's international influence has been growing, establishing partnerships with several internationally renowned design awards, providing designers with broader opportunities for international exchange and collaboration, and injecting new vitality into the global design industry.
+|fame=69
+|art=50
+|fth=72
+|civ=64
+|tech=107
+|ss1=Snail Leadership +3<br>Per 60 Mecha Minions in battle:<br>> Troop HP +90<br>Per 5 TECH Relics awakened, Snail ATK +9<br>TECH Relics Awakened: 100/100
+|ss2=Snail Leadership +4<br>Per 60 Mecha Minions in battle:<br>> Troop HP +180<br>Per 5 TECH Relics awakened, Snail ATK +12<br>TECH Relics Awakened: 100/100
+|ss3=Snail Leadership +5<br>Per 60 Mecha Minions in battle:<br>> Troop HP +270<br>Per 5 TECH Relics awakened, Snail ATK +15<br>TECH Relics Awakened: 100/100
+|ss4=Snail Leadership +7<br>Per 60 Mecha Minions in battle:<br>> Troop HP +450<br>Per 5 TECH Relics awakened, Snail ATK +21<br>TECH Relics Awakened: 100/100
+|ss5=Snail Leadership +9<br>Per 60 Mecha Minions in battle:<br>> Troop HP +630<br>Per 5 TECH Relics awakened, Snail ATK +27<br>TECH Relics Awakened: 100/100
+|ss6=Snail Leadership +12<br>Per 60 Mecha Minions in battle:<br>> Troop HP +900<br>Per 5 TECH Relics awakened, Snail ATK +36<br>TECH Relics Awakened: 100/100
+|ss7=Snail Leadership +12<br>Per 60 Mecha Minions in battle:<br>> Troop HP +900<br>Per 5 TECH Relics awakened, Snail ATK +36<br>TECH Relics Awakened: 100/100<br>Per 60 Mecha Minions in battle:<br>> Troop HP +900 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Reagent Drops +15%
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Card Drops +15%
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x B-tad Drops +15%
+|mirage={{Mirage|name=dungeon@22906_1|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Smart Bathtub|3rec=422.80M|3atk=961126|3defense=542937|3hp=280125584|3weak=70613
+|4name=Sitting-out Area|4rec=531.64M|4atk=1147885|4defense=640852|4hp=453677891|4weak=76792
+|5name=Metal Sculpture|5rec=701.97M|5atk=1582632|5defense=802369|5hp=726507420|5weak=85707
+|6name=Deer-shaped Decoration|6rec=971.76M|6atk=2445032|6defense=1091727|6hp=1338892717|6weak=96286
+|Arec=1423.60M|Aatk=3669964|Adefense=1524355|Ahp=2332299532|Aweak=109150
+}}}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Turnip Lamp
+|class_id=20968
+|rank=Green
+|affct=FAME
+|source=
+|description=People used to carve turnips in Halloween. However, since pumpkins were easier to carve, turnips were gradually forgotten on this special occasion. This turnip is just sitting here. Lonely, it seems to be staring at you, as if warning you never to forget about the sacrifices of the turnips.
+|fame=31
+|art=14
+|fth=16
+|civ=15
+|tech=14
+|ss1=Snail DEF +10<br>Per 5 Fungus Farm LVLs, Snail HP +40<br>Fungus Farm LVL: 50/50
+|ss2=Snail DEF +20<br>Per 5 Fungus Farm LVLs, Snail HP +80<br>Fungus Farm LVL: 50/50
+|ss3=Snail DEF +30<br>Per 5 Fungus Farm LVLs, Snail HP +120<br>Fungus Farm LVL: 50/50
+|ss4=Snail DEF +30<br>Per 5 Fungus Farm LVLs, Snail HP +120<br>Fungus Farm LVL: 50/50
+|ss7=Snail DEF +30<br>Per 5 Fungus Farm LVLs, Snail HP +120<br>Fungus Farm LVL: 50/50<br> (Awakened)
+}}

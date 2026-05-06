@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Pride & Prejudice,Head of Bhairava,Mysterious Relic,Modern Times
+|rank=orange
+|amount=4
+|category=self
+|description=Per 20 CIV Wishes made, Snail ATK +9; Wishes Made: 1000/1000
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by CIV Wishes]]

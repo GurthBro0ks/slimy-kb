@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=346
+|relics=Kay's Flying Shuttle,Oersted's Compass
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Mecha Minions in battle: Troop ATK +5
+}}

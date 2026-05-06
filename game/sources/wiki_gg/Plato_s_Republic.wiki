@@ -1,0 +1,44 @@
+{{CargoRelic
+|name=Plato's Republic
+|rank=SS
+|affct=CIV
+|birthday=11-24
+|source=* Grandmaster Scrolls (1%), Lottery Machine (0.12%), Relic Forge (100 Relic RF), Wishing (0.1%)
+* Home Value Pack III ($14.99)
+|description=On Nov 24, 369 BC, Plato returned to Athens and completed the book of "Republic" at the Academy.
+
+This 10-volume book is written using dialogues with Socrates as the protagonist. It is a complication of Plato's philosophical thought as well as discussion on various subjects, including philosophy, politics, ethics, education, literature and art. Based on the theories of philosophy, an ideal system for a country has been established.
+
+[Book Review]
+
+All of Western philosophy is but a footnote to Plato. Burn the libraries, for their value is in the book. It's better to read books on Plato's utopia than Greek philosophy.
+|fame=63
+|art=45
+|fth=69
+|civ=103
+|tech=67
+|ss1=Lumber Camp Output +4%<br>Quarry Output +4%<br>Per 5 Quarry LVLs, Snail ATK +8<br>Quarry LVL: 50/50
+|ss2=Lumber Camp Output +6%<br>Quarry Output +6%<br>Per 5 Quarry LVLs, Snail ATK +12<br>Quarry LVL: 50/50
+|ss3=Lumber Camp Output +8%<br>Quarry Output +8%<br>Per 5 Quarry LVLs, Snail ATK +16<br>Quarry LVL: 50/50
+|ss4=Lumber Camp Output +12%<br>Quarry Output +12%<br>Per 5 Quarry LVLs, Snail ATK +24<br>Quarry LVL: 50/50
+|ss5=Lumber Camp Output +16%<br>Quarry Output +16%<br>Per 5 Quarry LVLs, Snail ATK +32<br>Quarry LVL: 50/50
+|ss6=Lumber Camp Output +22%<br>Quarry Output +22%<br>Per 5 Quarry LVLs, Snail ATK +44<br>Quarry LVL: 50/50
+|ss7=Lumber Camp Output +22%<br>Quarry Output +22%<br>Per 5 Quarry LVLs, Snail ATK +44<br>Quarry LVL: 50/50<br>Quarry Output +20% (Awakened)
+|skill1=[[File:Fungusfarm skill III.png|frameless|50x50px]]Place in Fungus Farm: This Relic's CIV +15
+|skill2=[[File:Fungusfarm skill III.png|frameless|50x50px]]Place in Fungus Farm: Grow Wonder Fungus by +30%
+|skill3=[[File:Quarry skill III.png|frameless|50x50px]] Place in Quarry: Quarry Max Cap +30%
+|mirage={{#invoke:snailDB|parseMirage|Plato's Republic}}
+}}
+
+[[Category:Lumber Camp Output Boost]]
+[[Category:Quarry Output Boost]]
+[[Category:ATK Boost]]
+[[Category:Quarry Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:CIV Boost]]
+[[Category:Wonder Fungus Output]]
+[[Category:Quarry Skill]]
+[[Category:Relic Boost]]
+[[Category:DEF Boost]]
+[[Category:God Descent Boost]]
+[[Category:HP Boost]]

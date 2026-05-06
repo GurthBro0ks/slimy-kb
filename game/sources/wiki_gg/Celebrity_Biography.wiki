@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Celebrity Biography
+|class_id=22618
+|rank=SSS
+|affct=FAME
+|birthday=11-04
+|source=Lottery Machine No.3 (0.12%)
+|description=On Nov 4, 1911 AD, Romain Rolland completed Celebrity Biography.<br>Celebrity Biography, a significant literary work by renowned French writer Romain Rolland, encompasses captivating biographies of Beethoven, Michelangelo, and Tolstoy. With his exceptional writing prowess, Rolland masterfully captures the grandeur of these three remarkable individuals, establishing them as inspirational figures for countless generations.
+|fame=107
+|art=56
+|fth=60
+|civ=69
+|tech=70
+|ss1=Dragon Minion HP +3%<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +3<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Desert Sanctum Rating Pts: 100000/100000
+|ss2=Dragon Minion HP +4%<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +4<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Desert Sanctum Rating Pts: 100000/100000
+|ss3=Dragon Minion HP +5%<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +5<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Desert Sanctum Rating Pts: 100000/100000
+|ss4=Dragon Minion HP +7%<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +7<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Desert Sanctum Rating Pts: 100000/100000
+|ss5=Dragon Minion HP +9%<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +9<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Desert Sanctum Rating Pts: 100000/100000
+|ss6=Dragon Minion HP +12%<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +12<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Desert Sanctum Rating Pts: 100000/100000
+|ss7=Dragon Minion HP +12%<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +12<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Desert Sanctum Rating Pts: 100000/100000<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +30%
+|skill2=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Cap +30%
+|skill3=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: This Relic's FAME +15
+|mirage={{Mirage|name=Pioneers|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Beethoven|3rec=104.16M|3atk=301756|3defense=190446|3hp=15756768|3weak=34923
+|4name=Tolstoy|4rec=135.75M|4atk=375246|4defense=234891|4hp=21925768|4weak=37948
+|5name=Michelangelo|5rec=189.87M|5atk=505375|5defense=311030|5hp=36122480|5weak=42405
+|6name=Romain Rolland|6rec=278.74M|6atk=688808|6defense=413332|6hp=70986016|6weak=51039
+|Arec=374.49M|Aatk=844861|Adefense=499479|Ahp=99811850|Aweak=54306
+}}}}

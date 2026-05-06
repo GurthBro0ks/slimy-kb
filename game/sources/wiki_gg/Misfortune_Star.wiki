@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Misfortune Star
+|class_id=20141
+|rank=Green
+|affct=ART
+|source=
+|description=The dark-blue diamond is extraordinarily beautiful and glorious, dazzling in a fierce glow! It carries, however, so many amazing but tragic stories. It always brings dramatic misfortune to its owner!
+|fame=15
+|art=29
+|fth=16
+|civ=15
+|tech=15
+|ss1=Per 5 Jinx Points, Snail ATK +3<br>Per 5 Jinx Points, Snail RUSH +3<br>Jinx Points: 50/50
+|ss2=Per 5 Jinx Points, Snail ATK +6<br>Per 5 Jinx Points, Snail RUSH +6<br>Jinx Points: 50/50
+|ss3=Per 5 Jinx Points, Snail ATK +9<br>Per 5 Jinx Points, Snail RUSH +9<br>Jinx Points: 50/50
+|ss4=Per 5 Jinx Points, Snail ATK +9<br>Per 5 Jinx Points, Snail RUSH +9<br>Jinx Points: 50/50
+|ss7=Per 5 Jinx Points, Snail ATK +9<br>Per 5 Jinx Points, Snail RUSH +9<br>Jinx Points: 50/50<br> (Awakened)
+}}

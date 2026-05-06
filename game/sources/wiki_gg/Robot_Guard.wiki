@@ -1,0 +1,34 @@
+==Tips for Victory==
+The Robot Guard scales with your stats
+*Dis-embed your Relics from your compass
+*Wait until you have 40-50K in power
+*Have patience and keep growing!
+
+''*Talk to him before fighting to get a Relic!''
+
+== [[Nuclear Fusion Battery]] ==
+"What are you doing here?"
+
+"What are you guarding?"
+
+"You've been here for?"
+
+"You run on batteries?"
+
+"Can I have a look?"
+
+== Rewards of Defeating Guard ==
+
+=== Guard ===
+
+* {{RewardIconWithLink|Bio-Nuke Battery, +30|blue}}
+* {{RewardIconWithLink|Despot Cells|black|Zombie Form}}
+
+=== Table ===
+
+* {{RewardIconWithLink|Annals of Joseon, +10 Fragments|blue}}
+* {{RewardIconWithLink|Unispark, +40 Fragments|orange}}
+* {{RewardIconWithLink|Alien Seed|orange}}
+* {{RewardIconWithLink|Head of Paramara, +5 Fragments|green}}
+
+[[Category:Home Base]]

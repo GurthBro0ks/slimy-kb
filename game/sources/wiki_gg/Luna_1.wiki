@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Luna 1
+|class_id=22490
+|rank=Blue
+|affct=TECH
+|birthday=02-13
+|source=Lottery Machine No.3 (0.06%)
+|description=On Feb 13, 1959 AD, Luna 1 was successfully launched at the Baikonur Cosmodrome in the Soviet Union.<br>Luna 1 was the first spacecraft successfully launched by humans, and the first to escape the Earth's gravitational field. It was launched into space by the Luna rocket, did not pass through the Earth-Moon parking orbit, and flew directly towards the moon, breaking the second cosmic speed. It flew over 5,000 kilometers above the lunar surface, measuring data such as the moon's magnetic field and cosmic rays during the flight, becoming the first probe to reach the vicinity of the moon. It then entered a heliocentric orbit and became an artificial planet.
+|fame=29
+|art=19
+|fth=34
+|civ=28
+|tech=44
+|ss1=Per Tribal Warfare participation, Snail RUSH +1<br>Tribal Warfare Participation: 50/50
+|ss2=Per Tribal Warfare participation, Snail RUSH +2<br>Tribal Warfare Participation: 50/50
+|ss3=Per Tribal Warfare participation, Snail RUSH +3<br>Tribal Warfare Participation: 50/50
+|ss4=Per Tribal Warfare participation, Snail RUSH +5<br>Tribal Warfare Participation: 50/50
+|ss7=Per Tribal Warfare participation, Snail RUSH +5<br>Tribal Warfare Participation: 50/50<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Dungbeetle skill I.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Earth DMG +10
+}}

@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Polonium
+|rank=AA
+|affct=TECH
+|birthday=08-22
+|source=Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishes (0.36%), Time Chests (1.5%), Expert Scrolls (0.95%)
+|description=On Aug 22, 1898, the Curies discovered Polonium while processing uranium ore and named it after Poland.
+
+Polonium is a silvery-white metal that can glow in the dark. It was discovered by the famous scientist Curies. In the experiment, asphalt and torbernite were placed on the metal sheet and the galvanometer showed that they had a strong reaction. After many comparative tests, they found this new element from the sediment, which is 400 times stronger than the rays of uranium. It is a significant radioactive isotope that can release radioactive alpha particles. It is mainly used as a neutron and a heat source for aviation equipment. 
+
+[Basic Info]
+
+Half-life: 128 days<br>Formula: Po
+|fame=42
+|art=43
+|fth=39
+|civ=34
+|tech=70
+|ss1=Per 5 Mutant Gene LVLs, Snail HP +40<br>Per 5 Mutant Gene LVLs, Snail DEF +4<br>Mutant Gene LVLs Researched: 150/150
+|ss2=Per 5 Mutant Gene LVLs, Snail HP +60<br>Per 5 Mutant Gene LVLs, Snail DEF +6<br>Mutant Gene LVLs Researched: 150/150
+|ss3=Per 5 Mutant Gene LVLs, Snail HP +80<br>Per 5 Mutant Gene LVLs, Snail DEF +8<br>Mutant Gene LVLs Researched: 150/150
+|ss4=Per 5 Mutant Gene LVLs, Snail HP +120<br>Per 5 Mutant Gene LVLs, Snail DEF +12<br>Mutant Gene LVLs Researched: 150/150
+|ss5=Per 5 Mutant Gene LVLs, Snail HP +160<br>Per 5 Mutant Gene LVLs, Snail DEF +16<br>Mutant Gene LVLs Researched: 150/150
+|ss7=Per 5 Mutant Gene LVLs, Snail HP +160<br>Per 5 Mutant Gene LVLs, Snail DEF +16<br>Mutant Gene LVLs Researched: 150/150<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Timemachine skill II.png|50px]] Place in Time Machine: Time Machine Max Cap +15%
+|skill2=[[File:Timemachine skill II.png|50px]] Place in Time Machine: This Relic's TECH +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:TECH Relics]]
+[[Category:Purple TECH Relics]]
+[[Category:HP Boost]]
+[[Category:DEF Boost]]
+[[Category:Mutant Gene Boost]]
+[[Category:Time Machine Skill]]
+[[Category:Time Machine Output Boost]]
+[[Category:TECH Boost]]
+[[Category:Gene Research Speedup Boost]]
+[[Category:Wood Golem Boost]]

@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Seed of the Soul
+|class_id=22809
+|rank=SSS
+|affct=ART
+|source=
+|description=The Seed of the Soul is a fragment of the World Stone, created by the archangel Michael to seal the demon king. However, an unnamed traveler accidentally broke the seal, releasing the imprisoned evil force. As the seal shattered, a powerful dark aura spread, and the demon king's power began to revive. But what the demon king did not expect was that an even stronger dark force enveloped them...
+|fame=58
+|art=107
+|fth=64
+|civ=70
+|tech=63
+|ss1=Snail Leadership +3<br>Demon Minion Recovery SPD +6%<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Snail Leadership +4<br>Demon Minion Recovery SPD +8%<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Snail Leadership +5<br>Demon Minion Recovery SPD +10%<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Snail Leadership +7<br>Demon Minion Recovery SPD +14%<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Snail Leadership +9<br>Demon Minion Recovery SPD +18%<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Snail Leadership +12<br>Demon Minion Recovery SPD +24%<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Snail Leadership +12<br>Demon Minion Recovery SPD +24%<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +30<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: This Relic's ART +15
+|skill2=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, 2x B-tad Drops +15%
+|skill3=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, Snail ATK +600
+}}

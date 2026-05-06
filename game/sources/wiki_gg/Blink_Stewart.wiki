@@ -1,0 +1,17 @@
+{{CargoClone
+|name=Blink Stewart
+|rank=orange
+|cabin=2
+|id=139
+|gene1={race} RUSH +50
+|gene2={race} TECH +50
+|gene3=Per 10% HP lost, {race} RUSH +60
+|gene4=Per 60 Mutant Minions in battle,
+Troop Wind DMG +6
+|gene5=When in Mutant Form:
+> Gain +1.5% Time Chests in explorations
+|gene6=Per 60 Mutant Minions in battle,
+Troop Wind DMG +10
+|gene7=When in Mutant Form:
+> Gain +2.5% Time Chests in explorations
+|}}

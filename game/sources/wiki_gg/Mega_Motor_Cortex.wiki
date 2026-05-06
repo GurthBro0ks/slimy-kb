@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Mega Motor Cortex
+|type=Common
+|rank=blue
+|id=10932
+|idx=32
+|description="Subject 15 has stabilized. Dopamine from the brain has increased twenty-fold. The subject took less than seven minutes to finish a marathon."
+—Superbrain Files
+|skill=
+|hp=1250
+|def=80
+|atk=92
+|rush=121
+|gene1=In explorations, Dodge +3%
+|gene2=During exploration, ignore enemy DEF +100
+|gene3=In explorations, {race} ATK +20
+|gene7=Snail Arena, ignore enemy DEF +1% (Awakened)
+|}}

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Horn of Heimdall,Prometheus Torch
+|rank=orange
+|amount=2
+|category=other
+|description=When offering, 2x Order Chest Drops +7%
+}}
+[[Category:Other]]

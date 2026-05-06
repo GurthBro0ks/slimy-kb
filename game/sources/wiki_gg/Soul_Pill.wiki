@@ -1,0 +1,27 @@
+{{Missing Info|specifics=form, element, realm, second HARD}}
+
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Due to its unique body composition, the Alchemy Doll was not destroyed after falling into the Alchemy Furnace, but left behind this marvelous elixir to accompany those who follow!
+|affct=CIV
+|hard=HP
+|source=
+{{Memetic Catalyst
+|number=Unknown
+|relic1=The Blood of Nessus
+|relic2=Arabian Bronze Hand
+|relic3=Royal Purple Heart
+|relic4=Mouth Of Truth
+|relic5=Flask of Life
+}}
+|color=green
+|earth=1
+|water=2
+|fire=2
+|wind=1
+|form=
+|element=
+|realm=
+|orangehard=
+}}

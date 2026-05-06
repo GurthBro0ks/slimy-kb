@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Pisces
+|class_id=21938
+|rank=SSS
+|affct=FAME
+|source=
+|description=As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:
+Nature's first green is gold,
+Her hardest hue to hold.
+|fame=110
+|art=48
+|fth=69
+|civ=70
+|tech=65
+|ss1=Mane of Fate skill DMG +20%<br>Horn of Fate skill DMG +20%<br>Reverse Scale of Fate organ skill, restore HP upon triggering +50%<br>Scale of Fate organ skill, additionally reduces enemy DEF by 30%
+|ss2=Mane of Fate skill DMG +20%<br>Horn of Fate skill DMG +20%<br>Reverse Scale of Fate organ skill, restore HP upon triggering +50%<br>Scale of Fate organ skill, additionally reduces enemy DEF by 30%
+|ss3=Mane of Fate skill DMG +20%<br>Horn of Fate skill DMG +20%<br>Reverse Scale of Fate organ skill, restore HP upon triggering +50%<br>Scale of Fate organ skill, additionally reduces enemy DEF by 30%
+|ss4=Mane of Fate skill DMG +20%<br>Horn of Fate skill DMG +20%<br>Reverse Scale of Fate organ skill, restore HP upon triggering +50%<br>Scale of Fate organ skill, additionally reduces enemy DEF by 30%
+|ss5=Mane of Fate skill DMG +20%<br>Horn of Fate skill DMG +20%<br>Reverse Scale of Fate organ skill, restore HP upon triggering +50%<br>Scale of Fate organ skill, additionally reduces enemy DEF by 30%
+|ss6=Mane of Fate skill DMG +20%<br>Horn of Fate skill DMG +20%<br>Reverse Scale of Fate organ skill, restore HP upon triggering +50%<br>Scale of Fate organ skill, additionally reduces enemy DEF by 30%
+|ss7=Mane of Fate skill DMG +20%<br>Horn of Fate skill DMG +20%<br>Reverse Scale of Fate organ skill, restore HP upon triggering +50%<br>Scale of Fate organ skill, additionally reduces enemy DEF by 30%<br>Snail Leadership +40 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Placed in Arena, grants effect: All ELMT DMG +30%
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, CRIT DMG +30%
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +900
+|mirage={{Mirage|name=Pisces Star|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Copernicus|3rec=10.72M|3atk=85213|3defense=56473|3hp=2122418|3weak=?
+|4name=Chopin|4rec=23.58M|4atk=116300|4defense=77076|4hp=3720655|4weak=?
+|5name=Hugo|5rec=40.97M|5atk=153220|5defense=101544|5hp=6280919|5weak=?
+|6name=Washington|6rec=61.86M|6atk=197552|6defense=130925|6hp=10156948|6weak=?
+|Arec=86.01M|Aatk=248823|Adefense=164904|Ahp=14520770|Aweak=?
+}}}}

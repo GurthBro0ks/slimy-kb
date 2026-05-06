@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Amaterasu Plume
+|type=Bionic
+|rank=purple
+|id=10672
+|idx=29
+|description=In the name of faith, it ignites an eternal flame. These tail feathers, woven of Amaterasu’s fire, shall rise reborn from ashes!
+|skill=On combat start, summon 4 fire feathers to attack the enemy, each feather dealing DMG equal to 15.7% of ATK!
+|hp=1646
+|def=126
+|atk=100
+|rush=241
+|gene1=In Angel Form, Fire RES +120
+|gene2=In Angel Form, {race} HP +600
+|gene3=In Angel Form, {race} RUSH +60
+|gene4=In Angel Form, HP Regen effect +12%
+|gene7=In Angel Form, HP Regen effect +12% (Awakened)
+|}}

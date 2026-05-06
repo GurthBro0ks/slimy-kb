@@ -1,0 +1,41 @@
+{{CargoRelic
+|name=The Song of Roland
+|rank=SS
+|affct=CIV
+|birthday=02-11
+|source=CIV Master Scroll (10.2%), Fragment Crafting (5.5%), Grandmaster Scroll (2.1%), Lottery Machine (0.24%), Master Scroll (1.9%), Wishing (0.2%)
+|description=On Feb 11, 1837 AD, The Song of Roland, the oldest epic The Song of Roland, was finalized.
+
+The more complete Oxford manuscript of the epic poem was handed over by Michel to the publisher. The poem has 290 verses and 4001 lines, and is written in colloquial Latin. The poem mainly talks about Charlemagne of France's attack on Spain. Ganelon the Nobel resented General Roland and conspired with the enemy to trick Roland and his army, who then died heroically in Anselva. Charlemagne avenged Roland by wiping out the enemies, conquering Spain, and executing Ganelon, the traitor.
+
+[Famous Lines]
+
+I'd be a traitor if I don't say a word. Roland shouldn't ruin my reputation and property. For this, I want his life and him defeated. There is no crime of treason.
+|fame=49
+|art=70
+|fth=72
+|civ=102
+|tech=54
+|ss1=Tadpole Pond Max Cap +4%<br>Per 3 CIV Relics gained, Snail HP +80<br>Per 3 CIV Relics gained, Snail DEF +8<br>CIV Relics: 60/60
+|ss2=Tadpole Pond Max Cap +6%<br>Per 3 CIV Relics gained, Snail HP +120<br>Per 3 CIV Relics gained, Snail DEF +12<br>CIV Relics: 60/60
+|ss3=Tadpole Pond Max Cap +8%<br>Per 3 CIV Relics gained, Snail HP +160<br>Per 3 CIV Relics gained, Snail DEF +16<br>CIV Relics: 60/60
+|ss4=Tadpole Pond Max Cap +12%<br>Per 3 CIV Relics gained, Snail HP +240<br>Per 3 CIV Relics gained, Snail DEF +24<br>CIV Relics: 60/60
+|ss5=Tadpole Pond Max Cap +16%<br>Per 3 CIV Relics gained, Snail HP +320<br>Per 3 CIV Relics gained, Snail DEF +32<br>CIV Relics: 60/60
+|ss6=Tadpole Pond Max Cap +22%<br>Per 3 CIV Relics gained, Snail HP +440<br>Per 3 CIV Relics gained, Snail DEF +44<br>CIV Relics: 60/60
+|ss7=Tadpole Pond Max Cap +22%<br>Per 3 CIV Relics gained, Snail HP +440<br>Per 3 CIV Relics gained, Snail DEF +44<br>CIV Relics: 60/60<BR>Tadpole Pond Max Cap +20% (Awakened)
+|skill1=[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: Fungus Output +30%
+|skill2=[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: Max Cap +30%
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's CIV +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Tadpole Pond Output Boost]]
+[[Category:HP Boost]]
+[[Category:DEF Boost]]
+[[Category:Relic Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:CIV Boost]]
+[[Category:Organ Boost]]
+[[Category:ATK Boost]]

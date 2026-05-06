@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Sherman Anti-Trust Act
+|class_id=22610
+|rank=S
+|affct=FAME
+|birthday=08-11
+|source=Lottery Machine No.3 (1.62%)
+|description=On Aug 11, 1890 AD, marks the official enactment of the Sherman Anti-Trust Act.<br>To prevent big capitalists from forming trust organizations and controlling businesses to monopolize the market, the US Congress enacted the Sherman Antitrust Act, which sanctions individuals or organizations that engage in commercial monopolies. As the first antitrust law, although its language is rather vague and many of its terms are not accurately defined, resulting in weak enforcement, it laid the foundation for subsequent antitrust laws.
+|fame=99
+|art=56
+|fth=49
+|civ=60
+|tech=68
+|ss1=In Minion Sims, Hamsters Data Calculation Effect +2%<br>Per 3 Swamp Protomon, Snail ATK +2<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +16<br>Swamp Protomon: 60/60
+|ss2=In Minion Sims, Hamsters Data Calculation Effect +4%<br>Per 3 Swamp Protomon, Snail ATK +4<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +32<br>Swamp Protomon: 60/60
+|ss3=In Minion Sims, Hamsters Data Calculation Effect +6%<br>Per 3 Swamp Protomon, Snail ATK +6<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +48<br>Swamp Protomon: 60/60
+|ss4=In Minion Sims, Hamsters Data Calculation Effect +10%<br>Per 3 Swamp Protomon, Snail ATK +10<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +80<br>Swamp Protomon: 60/60
+|ss5=In Minion Sims, Hamsters Data Calculation Effect +14%<br>Per 3 Swamp Protomon, Snail ATK +14<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +112<br>Swamp Protomon: 60/60
+|ss6=In Minion Sims, Hamsters Data Calculation Effect +20%<br>Per 3 Swamp Protomon, Snail ATK +20<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +160<br>Swamp Protomon: 60/60
+|ss7=In Minion Sims, Hamsters Data Calculation Effect +20%<br>Per 3 Swamp Protomon, Snail ATK +20<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +160<br>Swamp Protomon: 60/60<br>In Minion Sims, Hamsters Data Calculation Effect +20% (Awakened)
+|skill1=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Wood Output +30%
+|skill2=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: This Relic's FAME +15
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Blue Card Drops +15%
+|mirage={{Mirage|name=Antitrust Fighter|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=Clayton|3rec=89.31M|3atk=266740|3defense=169553|3hp=13184942|3weak=33653
+|4name=General S.|4rec=148.31M|4atk=405440|4defense=252553|4hp=24850358|4weak=38896
+|Arec=283.80M|Aatk=696711|Adefense=417887|Ahp=72767618|Aweak=51114
+}}}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=555
+|relics=Albucasis Medical Book,Mystic Mountain,SAGE,Potsdam Declaration
+|rank=orange
+|amount=4
+|category=self
+|description=Snail Leadership +9
+}}

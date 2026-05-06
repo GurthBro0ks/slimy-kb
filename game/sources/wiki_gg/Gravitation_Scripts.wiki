@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Gravitation Scripts
+|class_id=21921
+|rank=SSS
+|affct=FAME
+|birthday=05-19
+|source=
+|description=On May 19, 1654 AD, Newton wrote his greatest work in the physics field.<br>The law of Gravity describes the mutual attraction between two objects. There is a story about its discovery: Newton was resting on his mother's farm when an apple fell right on his head while he was also struck by inspiration. After continuous exploration, he finalized his theory. He theorized that gravity is everywhere and that every object attracts other objects. The magnitude of gravitational force is related to the object's mass and distance between objects.
+|fame=109
+|art=50
+|fth=74
+|civ=62
+|tech=67
+|ss1=Snail ATK +30<br>Per 5 Rocket Tech LVLs, Snail ATK +12<br>Per 5 Rocket Tech LVLs, Snail DEF +12<br>Rocket Tech Upgraded: 50/50
+|ss2=Snail ATK +40<br>Per 5 Rocket Tech LVLs, Snail ATK +16<br>Per 5 Rocket Tech LVLs, Snail DEF +16<br>Rocket Tech Upgraded: 50/50
+|ss3=Snail ATK +50<br>Per 5 Rocket Tech LVLs, Snail ATK +20<br>Per 5 Rocket Tech LVLs, Snail DEF +20<br>Rocket Tech Upgraded: 50/50
+|ss4=Snail ATK +70<br>Per 5 Rocket Tech LVLs, Snail ATK +28<br>Per 5 Rocket Tech LVLs, Snail DEF +28<br>Rocket Tech Upgraded: 50/50
+|ss5=Snail ATK +90<br>Per 5 Rocket Tech LVLs, Snail ATK +36<br>Per 5 Rocket Tech LVLs, Snail DEF +36<br>Rocket Tech Upgraded: 50/50
+|ss6=Snail ATK +120<br>Per 5 Rocket Tech LVLs, Snail ATK +48<br>Per 5 Rocket Tech LVLs, Snail DEF +48<br>Rocket Tech Upgraded: 50/50
+|ss7=Snail ATK +120<br>Per 5 Rocket Tech LVLs, Snail ATK +48<br>Per 5 Rocket Tech LVLs, Snail DEF +48<br>Rocket Tech Upgraded: 50/50<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, DMG +30%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|mirage={{Mirage|name=Falling Fruit Inspiration|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Apple|3rec=4.78M|3atk=54423|3defense=36347|3hp=947581|3weak=11649
+|4name=Watermelon|4rec=8.27M|4atk=73528|4defense=49106|4hp=1634063|4weak=13041
+|5name=Kiwi Fruit|5rec=13.69M|5atk=96324|5defense=64331|5hp=2614926|5weak=16183
+|6name=Durian|6rec=27.15M|6atk=122924|6defense=82096|6hp=4083814|6weak=18306
+|Arec=41.44M|Aatk=153023|Adefense=102198|Ahp=6245797|Aweak=19455
+}}}}

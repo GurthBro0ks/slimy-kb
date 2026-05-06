@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Golden Finger,Hammurabi Code,Matrix System,Eye of Akamoddo
+|rank=orange
+|amount=4
+|category=self
+|description=Per Realm conquered, Snail DEF +90<br>Realms Conquered: 8/8
+}}
+[[Category:Self]]

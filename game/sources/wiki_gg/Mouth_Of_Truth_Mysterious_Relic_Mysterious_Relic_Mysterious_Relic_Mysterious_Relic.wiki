@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Mouth Of Truth,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic
+|rank=purple
+|amount=5
+|category=home
+|description=Catalyzed Green Spores turn to Blue by +0.9%
+}}
+[[Category:Home]]
+[[Category:Spore Color Change]]

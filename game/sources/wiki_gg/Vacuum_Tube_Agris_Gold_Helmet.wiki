@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Vacuum Tube,Agris Gold Helmet
+|rank=orange
+|amount=2
+|category=self
+|description=Per 100 Constellation LVLs, Snail DEF +14; Constellation LVLs: 3,000/3,000
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]

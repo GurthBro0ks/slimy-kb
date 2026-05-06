@@ -1,0 +1,302 @@
+{{Missing Info|specifics=<br>Card icons}}
+
+<tabber>
+|-|Parsia=
+==Tier 1 (White)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#9c9c9c;" |[[File:ParsianCarpet.png|75x75px]]
+| rowspan="7" |Parsian Carpet
+|3x3||Enhancement Injection:<br>Snail HP +140<br>Snail DEF +14
+| rowspan="7" | B-Tads +60
+|-
+|2x1||Parsia INTEL +2000
+|-
+|3x1||8000 B-Tads
+|-
+|4x1||Novice Scroll x10
+|-
+|5x1||{{Gearlink|white|Exploration|Parsian Pike}}
+|-
+|6x1||{{Gearlink|white|Exploration|Parsian Kite Shield}}
+|-
+|7x1||Lottery Ticket x2
+|-
+| style="background-color:#9c9c9c;" | [[File:Turquoise.png|75x75px]]
+| Turquoise||2x1||Travel Speedup x2h||600 B-Tads
+|-
+| style="background-color:#9c9c9c;" | [[File:CamelBell.png|75x75px]]
+| Camel Bell||2x1||12k B-Tads||Parsia Intel +600
+|-
+| style="background-color:#9c9c9c;" | [[File:Saffron.png|75x75px]]
+| Saffron||3x1||Lottery Ticket x2||Parsian Tea +4
+|}
+
+==Tier 2 (Green)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#7de87f;" | [[File:ParsianCarpetGreen.png|75x75px]]
+| rowspan="7" | Parsian Carpet
+|3x3||Enhancement Injection:<br>Snail ATK +14<br>Snail RUSH +14
+| rowspan="7" | B-tads +180
+|-
+|2x1||Parsia INTEL +3500
+|-
+|3x1||15k B-tads
+|-
+|4x1||Novice Scroll x10
+|-
+|5x1||{{Gearlink|green|Exploration|Bichaq}}
+|-
+|6x1||Gear Chest x100
+|-
+|7x1||Lottery Ticket x2
+|-
+| style="background-color:#7de87f;" | [[File:ParsianSpice.png|75x75px]]
+|Parsian Spice||3x1||Glue x50|| Parsia INTEL +1000
+|-
+| style="background-color:#7de87f;" | [[File:ParsianMiniature.png|75x75px]]
+|Parsian Miniature||4x1||Evolution Chest x100|| B-Tads +1000
+|-
+| style="background-color:#7de87f;" | [[File:ParsianCat.png|75x75px]]
+|Parsian Cat||3x1||[[Tri-Lion Bronze Candlestick]] Frag x10|| Refine Speedup +15m
+|}
+
+==Tier 3 (Blue)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#7de8e6;" | [[File:ParsianCarpetBlue.png|75x75px]]
+| rowspan="7" | Parsian Carpet
+|3x3||Enhancement Injection:<br>Snail HP +160<br>Snail DEF +16
+| rowspan="7" | B-Tads +540
+|-
+|2x1||Parsia INTEL +6000
+|-
+|3x1||25k B-tads
+|-
+|4x1||Novice Scroll x20
+|-
+|5x1||{{Gearlink|blue|Exploration|War Spikes}}
+|-
+|6x1||Gear Chest x100
+|-
+|7x1||Lottery Ticket x3
+|-
+| style="background-color:#7de8e6;" | [[File:GateofAllNations.png|75x75px]]
+|Gate of All Nations||3x1||Wish Coin x1||Clone Speedup +20m
+|-
+| style="background-color:#7de8e6;" | [[File:FortyColumnsPalace.png|75x75px]]
+|Forty Columns Palace||3x1||400 W-Tads||Fungus Chest +6
+|}
+
+==Tier 4 (Purple)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#f3b5e1;" | [[File:ParsianCarpetPurple.png|75x75px]]
+| rowspan="7" | Parsian Carpet
+|3x3||Enhancement Injection:<br>Snail ATK +18<br>Snail DEF +18
+| rowspan="7" | B-Tads +1620
+|-
+|2x1||Parsia INTEL +8000
+|-
+|3x1||35k B-tads
+|-
+|4x1||Expert Scroll x20
+|-
+|5x1||{{Gearlink|purple|Exploration|Assassin's Gauntlet}}
+|-
+|6x1||Gear Chest x100
+|-
+|7x1||Lottery Ticket x3
+|-
+|style="background-color:#f3b5e1;" | [[File:BamCastle.png|75x75px]]
+|Bam Castle||3x1||Offering Speedup +4h||Parsia Treasure Map +3
+|-
+| style="background-color:#f3b5e1;" | [[File:ApadanaPalace.png|75x75px]]
+|Apadana Palace||3x1||Parsia Treasure Map x50||Purple Reagent +4
+|}
+
+==Tier 5 (Orange)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#ffb066;" | [[File:ParsianCarpetOrange.png|75x75px]]
+| rowspan="7" | Parsian Carpet
+|3x3||Enhancement Injection:<br>Snail HP +200<br>Snail DEF +20
+| rowspan="7" | B-Tads +4860 
+|-
+|2x1||Parsia INTEL +10k
+|-
+|3x1||50k B-tad
+|-
+|4x1||Master Scroll x40
+|-
+|5x1||Gear Chest x100
+|-
+|6x1||Engineering Parts x3
+|-
+|7x1||Lottery Ticket x3
+|-
+| rowspan="2" style="background-color:#ffb066;" | [[File:Ahura.png|75x75px]]
+| rowspan="2" | Ahura
+|3x1||Wish Coin x1
+| rowspan="2" | W-tad +60
+|}
+
+|-|Sky City=
+
+==Tier 1 (White)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#9c9c9c;" |[[File:HamsterLoans.png|75x75px]]
+| rowspan="7" |Hamster Loans
+|3x3||Enhancement Injection:<br>Snail HP +140<br>Snail DEF +14
+| rowspan="7" | B-Tads +60
+|-
+|2x1||Parsia INTEL +2000
+|-
+|3x1||8000 B-Tads
+|-
+|4x1||Novice Scroll x10
+|-
+|5x1||Mutantigen x2
+|-
+|6x1||Green Organ Slime x50
+|-
+|7x1||Lottery Ticket x2
+|-
+| style="background-color:#9c9c9c;" | [[File:ProphecyBird.png|75x75px]]
+| Prophecy Bird||2x1||Travel Speedup x2h||600 B-Tads
+|-
+| style="background-color:#9c9c9c;" | [[File:ThreeApples.png|75x75px]]
+| Three Apples||4x3||12k B-Tads||Parsia Intel +600
+|-
+| style="background-color:#9c9c9c;" | [[File:EbonyHorse.png|75x75px]]
+| Ebony Horse||3x1||Lottery Ticket x2||Parsian Tea +4
+|}
+
+==Tier 2 (Green)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#7de87f;" | [[File:HamsterLoansGreen.png|75x75px]]
+| rowspan="7" | Hamster Loans
+|3x3||Enhancement Injection:<br>Snail ATK +14<br>Snail RUSH +14
+| rowspan="7" | B-tads +180
+|-
+|2x1||Parsia INTEL +3500
+|-
+|3x1||15k B-tads
+|-
+|4x1||Novice Scroll x10
+|-
+|5x1||[[Organs|<span style="color:#40da25;">Paul II's Tentacle</span>]] x10
+|-
+|6x1||Gear Chest x100
+|-
+|7x1||Lottery Ticket x2
+|-
+| style="background-color:#7de87f;" | [[File:DevilsBottle.png|75x75px]]
+|Devil's Bottle||3x1||Glue x50|| Parsia INTEL +1000
+|-
+| style="background-color:#7de87f;" | [[File:MagicLamp.png|75x75px]]
+|Magic Lamp||4x1||Green Organ Slime x100|| B-Tads +1000
+|-
+| style="background-color:#7de87f;" | [[File:FourColorFish.png|75x75px]]
+|Four-Color Fish||3x1||[[Garden of Roses]] x10|| Refine Speedup +15m
+|}
+
+==Tier 3 (Blue)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#7de8e6;" | [[File:HamsterLoansBlue.png|75x75px]]
+| rowspan="7" | Hamster Loans
+|3x3||Enhancement Injection:<br>Snail HP +160<br>Snail DEF +16
+| rowspan="7" | B-Tads +540
+|-
+|2x1||Parsia INTEL +6000
+|-
+|3x1||25k B-tads
+|-
+|4x1||Novice Scroll x20
+|-
+|5x1||[[Organs|<span style="color:#22d3d0;">Lava Gallbladder</span>]] x10
+|-
+|6x1||Gear Chest x100
+|-
+|7x1||Lottery Ticket x3
+|-
+| style="background-color:#7de8e6;" | [[File:BrassCity.png|75x75px]]
+|Brass City||3x1||Wish Coin x1||Clone Speedup +20m
+|-
+| style="background-color:#7de8e6;" | [[File:CastleOfLovepile.png|75x75px]]
+|Castle of Lovepile||3x1||Blue Organ Slime x100||Fungus Chest +6
+|}
+
+==Tier 4 (Purple)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#f3b5e1;" | [[File:HamsterLoansPurple.png|75x75px]]
+| rowspan="7" | Hamster Loans
+|3x3||Enhancement Injection:<br>Snail ATK +18<br>Snail DEF +18
+| rowspan="7" | B-Tads +1620
+|-
+|2x1||Parsia INTEL +8000
+|-
+|3x1||35k B-tads
+|-
+|4x1||Expert Scroll x20
+|-
+|5x1||[[Organs|<span style="color:var(--purple-text)">Lucky Phalange</span>]] x20
+|-
+|6x1||Gear Chest x100
+|-
+|7x1||Lottery Ticket x3
+|-
+|style="background-color:#f3b5e1;" | [[File:InvisibleGarden.png|75x75px]]
+|Invisible Garden||3x1||Offering Speedup +4h||Parsia Treasure Map +3
+|-
+| style="background-color:#f3b5e1;" | [[File:DevilsPalace.png|75x75px]]
+|Devil's Palace||3x1||Parsia Treasure Map x50||Purple Reagent +4
+|}
+
+==Tier 5 (Orange)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:#ffb066;" | [[File:HamsterLoansOrange.png|75x75px]]
+| rowspan="8" | Hamster Loans
+|3x3||Enhancement Injection:<br>Snail HP +200<br>Snail DEF +20
+| rowspan="8" | B-Tads +4860 
+|-
+|2x1||Parsia INTEL +10k
+|-
+|3x1||50k B-tad
+|-
+|4x1||Master Scroll x40
+|-
+|5x1||[[Organs|<span style="color:var(--orange-text)">Strength Crystal</span>]] x40
+|-
+|6x1||Parsia Arcana Fragment x1
+|-
+|6x1||Engineering Parts x3
+|-
+|7x1||Lottery Ticket x3
+|-
+| rowspan="2" style="background-color:#ffb066;" | [[File:FortyThievesTreasure.png|75x75px]]
+| rowspan="2" | Forty Thieves' Treasure
+|3x1||Wish Coin x1
+| rowspan="2" | W-tad +60
+|}
+
+</tabber>
+
+[[Category:Parsia]]
+[[Category:Missing Info]]

@@ -1,0 +1,63 @@
+[[File:Lucky Slot Month Poster.png|200px|left|alt=Lucky Slot]]
+
+Lucky Slot comes once a month for three days and give the chance to earn {{RewardIconWithLink|Lucky Star}}s for prizes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==Reward List==
+* {{RewardIconWithLink|Sunday Star|green}} has one reward level of
+** 20 Lucky Stars +5 Fragments
+
+* {{RewardIconWithLink|The Augustus Statue|orange}} has four reward levels of
+** 50 Lucky Stars +40 Fragments
+** 80 Lucky Stars +40 Fragments
+** 120 Lucky Stars +80 Fragments
+** 160 Lucky Stars +120 Fragments
+
+* {{RewardIconWithLink|Monday Star|green}} has one reward level of
+** 200 Lucky Stars +5 Fragments
+
+* {{RewardIconWithLink|Alexander the Great|orange}} has four reward levels of 
+** 240 Lucky Stars +40 Fragments
+** 280 Lucky Stars +40 Fragments
+** 320 Lucky Stars +80 Fragments
+** 360 Lucky Stars +120 Fragments
+
+* {{RewardIconWithLink|Tuesday Star|green}} has one reward level of
+** 400 Lucky Stars +5 Fragments
+
+* {{RewardIconWithLink|Charlemagne Statue|orange}} has four reward levels of 
+** 440 Lucky Stars +40 Fragments
+** 480 Lucky Stars +40 Fragments
+** 520 Lucky Stars +80 Fragments
+** 560 Lucky Stars +120 Fragments
+
+* {{RewardIconWithLink|Wednesday Star|green}} has one reward level of
+** 600 Lucky Stars +5 Fragments
+
+* {{RewardIconWithLink|Frederick Portrait|orange}} has four reward levels of 
+** 660 Lucky Stars +40 Fragments
+** 720 Lucky Stars +40 Fragments
+** 780 Lucky Stars +80 Fragments
+** 840 Lucky Stars +120 Fragments
+
+* {{RewardIconWithLink|Thursday Star|green}} has one reward level of
+** 900 Lucky Stars +5 Fragments
+
+* {{RewardIconWithLink|Mysterious Relic|orange}} has four reward levels of 
+** ? Lucky Stars +40 Fragments
+** ? Lucky Stars +40 Fragments
+** ? Lucky Stars +80 Fragments
+** ? Lucky Stars +120 Fragments

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Popol Vuh
+|class_id=22161
+|rank=AAA
+|affct=FAITH
+|birthday=11-22
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Nov 22, 1544 AD, a Kichean completed the Popol Vuh, which records Kichean history for posterity.<br>Popol Vuh is a book from the ancient Kiche people that describes their history and mythology from the inception of the Kiche culture. As one of the foundational texts of the Kiche, it contains much knowledge that has been lost over the years due to invasions and is a key for researchers looking into the mysteries of the Kiche civilization.
+|fame=40
+|art=53
+|fth=73
+|civ=31
+|tech=46
+|ss1=Per 30 Angel Minions in battle:<br>> Troop DEF +12<br>Per 30 Angel Minions in battle:<br>> Troop RUSH +12
+|ss2=Per 30 Angel Minions in battle:<br>> Troop DEF +16<br>Per 30 Angel Minions in battle:<br>> Troop RUSH +16
+|ss3=Per 30 Angel Minions in battle:<br>> Troop DEF +20<br>Per 30 Angel Minions in battle:<br>> Troop RUSH +20
+|ss4=Per 30 Angel Minions in battle:<br>> Troop DEF +28<br>Per 30 Angel Minions in battle:<br>> Troop RUSH +28
+|ss5=Per 30 Angel Minions in battle:<br>> Troop DEF +36<br>Per 30 Angel Minions in battle:<br>> Troop RUSH +36
+|ss7=Per 30 Angel Minions in battle:<br>> Troop DEF +36<br>Per 30 Angel Minions in battle:<br>> Troop RUSH +36<br>Per 30 Angel Minions in battle:<br>> Troop RUSH +28 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, AFFCT Checks -100
+|skill2=[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop DMG toward heroes +3%
+}}

@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Supplied by Colt, an American weapon seller known for firing at ditches. They have failed to get most bids in reent years and had to produce Snail Shell instead to tide them over.
+|affct=TECH
+|hard=HP
+|source=Divine Order Chest (0.1%)
+|color=orange
+|earth=10
+|water=13
+|fire=9
+|wind=10
+|form=Mecha
+|element=Wind
+|realm=Britland
+|orangehard=RUSH
+}}

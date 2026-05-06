@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=657
+|relics=Wheatstone Bridge,Siemens DC Generator
+|rank=purple
+|amount=2
+|category=self
+|description=Per Godhood LVL, Snail ATK +36;Godhood LVL: 10/10
+}}

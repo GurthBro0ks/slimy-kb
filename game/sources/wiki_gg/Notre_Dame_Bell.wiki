@@ -1,0 +1,41 @@
+{{CargoRelic
+|name=Notre Dame Bell
+|rank=S
+|affct=CIV
+|birthday=09-02
+|source=Fragment Crafting (18.8%), Lottery Machine (0.81%), Relic Forge (90 Relic RF), Wishing (0.69%)
+|description=On Sep 2, 1482 AD, Quasimodo destroyed the bell of Notre-Dame.
+Quasimodo lost his job that day. Soon, the Notre-Dame de Paris allocated a huge sum of money and built 9 new bells. Unfortunately, these new clocks were made with poor workmanship and accuracy.  As the sound of bells was of different tones and misaligned, it is known as the worst sounding clock in history. Therefore, people understood why Hugo designed to have the deaf Quasimodo be the bell ringer.
+<br>[The new bells]<br>
+Mary, Marielle, Morris, Joseph, Steven, Marcel, Dennis, Ane, Gabriel
+|fame=53
+|art=52
+|fth=60
+|civ=100
+|tech=67
+|ss1=Snail RUSH +10<br>Time Machine Max Cap +2%<br>Per 5 Time Machine LVLs, Snail RUSH +4<br>Time Machine LVL: 50/50
+|ss2=Snail RUSH +20<br>Time Machine Max Cap +4%<br>Per 5 Time Machine LVLs, Snail RUSH +8<br>Time Machine LVL: 50/50
+|ss3=Snail RUSH +30<br>Time Machine Max Cap +6%<br>Per 5 Time Machine LVLs, Snail RUSH +12<br>Time Machine LVL: 50/50
+|ss4=Snail RUSH +50<br>Time Machine Max Cap +10%<br>Per 5 Time Machine LVLs, Snail RUSH +20<br>Time Machine LVL: 50/50
+|ss5=Snail RUSH +70<br>Time Machine Max Cap +14%<br>Per 5 Time Machine LVLs, Snail RUSH +28<br>Time Machine LVL: 50/50
+|ss6=Snail RUSH +100<br>Time Machine Max Cap +20%<br>Per 5 Time Machine LVLs, Snail RUSH +40<br>Time Machine LVL: 50/50
+|ss7=Snail RUSH +100<br>Time Machine Max Cap +20%<br>Per 5 Time Machine LVLs, Snail RUSH +40<br>Time Machine LVL: 50/50<br>Time Machine Max Cap +20% (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In any Realm, B-tads gained +15%
+|skill2=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Time Machine Max Cap +30%
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, this Relic's CIV +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:RUSH Boost]]
+[[Category:Time Machine Output Boost]]
+[[Category:Time Machine Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Time Machine Skill]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:CIV Boost]]
+[[Category:Lumber Camp Output Boost]]
+[[Category:Organ Boost]]
+[[Category:DEF Boost]]
+[[Category:Rewards Crystal of Will]]
+[[Category:Ironball Thrower Boost]]

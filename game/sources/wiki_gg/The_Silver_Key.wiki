@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Silver Key
+|class_id=22281
+|rank=SSS
+|affct=FAITH
+|birthday=09-22
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Sept 22, 1930 AD, Randolph Carter opened the door to the ultimate realm with the silver key.<br>The Key of Yog-Sothoth, also known as the Silver Key, is a clumsy, ancient, strangely crafted silver key carved with intricate hieroglyphs. With its power, Randolph Carter performed an ancient and mysterious ritual, opening the gate to Outerverse where he met an ancient being. With his courage and determination, he won its approval and help and stepped into the Ultimate Gate. The All-in-One and One-in-All received him and granted him ultimate wisdom. No one has seen Randolph Carter ever since, except an Indian who claimed to be Swami Chandraputra brought back this silver key for his men.
+|fame=62
+|art=69
+|fth=108
+|civ=55
+|tech=68
+|ss1=Snail Leadership +3<br>Demon Minion RUSH +3%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +24%
+|ss2=Snail Leadership +4<br>Demon Minion RUSH +4%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +32%
+|ss3=Snail Leadership +5<br>Demon Minion RUSH +5%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +40%
+|ss4=Snail Leadership +7<br>Demon Minion RUSH +7%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +56%
+|ss5=Snail Leadership +9<br>Demon Minion RUSH +9%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +72%
+|ss6=Snail Leadership +12<br>Demon Minion RUSH +12%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +96%
+|ss7=Snail Leadership +12<br>Demon Minion RUSH +12%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +96%<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Water RES +30
+|skill2=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion ATK +9%
+|skill3=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Water DMG +60
+|mirage={{Mirage|name=Ancient Gods' Whisper|reward={{RewardIconWithLink|Demon God Crystal, +1|orange}}
+|3name=The Bloated Woman|3rec=14.19M|3atk=98259|3defense=65552|3hp=2840471|3weak=17070
+|4name=He Who Walks Behind Rows|4rec=24.88M|4atk=118274|4defense=78905|4hp=4045056|4weak=18458
+|5name=Aforgomon|5rec=35.48M|5atk=140628|5defense=93818|5hp=5634069|5weak=19496
+|6name=Xada-Hgla|6rec=47.64M|6atk=166261|6defense=110919|6hp=7574522|6weak=21248
+|Arec=60.92M|Aatk=194273|Adefense=129607|Ahp=10002197|Aweak=24282
+}}}}

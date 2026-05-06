@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=747
+|relics=Hamlet,100 Years of Solitude,Tain Bó Cúailnge,An Actor Prepares
+|rank=orange
+|amount=4
+|category=self
+|description=Merge 1 Blue Stardust: Gain 1 more by 9%
+}}

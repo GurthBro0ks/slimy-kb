@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Fake Dragon Orb
+|class_id=20029
+|rank=Green
+|affct=FAITH
+|source=
+|description=The D. Dragon made this Dragon Orb for its regular customers. It has no summoning power and is more of a status symbol.
+|fame=18
+|art=15
+|fth=28
+|civ=11
+|tech=18
+|ss1=Per Divine Dragon Descent, Snail ATK +4<br>Divine Dragon Descents: 20/20
+|ss2=Per Divine Dragon Descent, Snail ATK +8<br>Divine Dragon Descents: 20/20
+|ss3=Per Divine Dragon Descent, Snail ATK +12<br>Divine Dragon Descents: 20/20
+|ss4=Per Divine Dragon Descent, Snail ATK +12<br>Divine Dragon Descents: 20/20
+|ss7=Per Divine Dragon Descent, Snail ATK +12<br>Divine Dragon Descents: 20/20<br> (Awakened)
+}}

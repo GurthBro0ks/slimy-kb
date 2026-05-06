@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Aquarius
+|class_id=21634
+|rank=SSS
+|affct=ART
+|source=
+|description=As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:
+Gold may shine, but not my way; I sip the stars and drift away.
+|fame=66
+|art=105
+|fth=49
+|civ=68
+|tech=59
+|ss1=In Dragon Form, Crit DMG +5%<br>Snail HARD Stats +1500<br>Snail All ELMT DMG +150<br>In Dragon Form, Dragon of Fate organ skill effect +5%
+|ss2=In Dragon Form, Crit DMG +5%<br>Snail HARD Stats +1500<br>Snail All ELMT DMG +150<br>In Dragon Form, Dragon of Fate organ skill effect +5%
+|ss3=In Dragon Form, Crit DMG +5%<br>Snail HARD Stats +1500<br>Snail All ELMT DMG +150<br>In Dragon Form, Dragon of Fate organ skill effect +5%
+|ss4=In Dragon Form, Crit DMG +5%<br>Snail HARD Stats +1500<br>Snail All ELMT DMG +150<br>In Dragon Form, Dragon of Fate organ skill effect +5%
+|ss5=In Dragon Form, Crit DMG +5%<br>Snail HARD Stats +1500<br>Snail All ELMT DMG +150<br>In Dragon Form, Dragon of Fate organ skill effect +5%
+|ss6=In Dragon Form, Crit DMG +5%<br>Snail HARD Stats +1500<br>Snail All ELMT DMG +150<br>In Dragon Form, Dragon of Fate organ skill effect +5%
+|ss7=In Dragon Form, Crit DMG +5%<br>Snail HARD Stats +1500<br>Snail All ELMT DMG +150<br>In Dragon Form, Dragon of Fate organ skill effect +5%<br>In Dragon Form, Crit DMG +5% (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, DMG REDUC +15%
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail DEF +900
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, CRIT DMG REDUC +15%
+|mirage={{Mirage|name=Aquarius Star|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=General MacArthur|3rec=10.18M|3atk=82859|3defense=54914|3hp=1996410|3weak=?
+|4name=Shogun Tokugawa|4rec=22.12M|4atk=113201|4defense=75023|4hp=3521046|4weak=?
+|5name=Darwin|5rec=39.16M|5atk=149363|5defense=98988|5hp=5946053|5weak=?
+|6name=Edison|6rec=59.62M|6atk=192795|6defense=127772|6hp=9639905|6weak=?
+|Arec=83.07M|Aatk=242592|Adefense=160774|Ahp=14106651|Aweak=?
+}}}}

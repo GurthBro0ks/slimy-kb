@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=98
+|relics=Fallen Lucifer,Sorron's Eye
+|rank=purple
+|amount=2
+|category=self
+|description=When offering, 2x Chaos Chest Drops +6%
+}}

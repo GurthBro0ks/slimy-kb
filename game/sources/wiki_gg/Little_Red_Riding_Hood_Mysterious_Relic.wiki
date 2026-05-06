@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Little Red Riding Hood,Mysterious Relic
+|rank=orange
+|amount=2
+|category=self
+|description=Per 8 Museum Promos, Snail ATK +7; Museum Promos: 400/400
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Museum Promos]]

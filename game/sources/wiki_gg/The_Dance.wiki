@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=The Dance
+|class_id=22527
+|rank=A
+|affct=ART
+|birthday=09-20
+|source=Lottery Machine No.3 (0.55%)
+|description=On Sept 20, 1909 AD, Matisse began to paint this work upon receiving a commission from a businessman.<br>This oil painting is one of the representative works of the famous Fauvist painter Matisse. With smooth lines and simple colors, the work depicts five women dancing crazily in a circle, perfectly expressing the vitality of life and displaying the painter's personal style with advanced artistic ideas that boldly break with tradition.
+|fame=30
+|art=62
+|fth=40
+|civ=43
+|tech=38
+|ss1=Domain Cabin Output +1%<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +4
+|ss2=Domain Cabin Output +2%<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +8
+|ss3=Domain Cabin Output +3%<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +12
+|ss4=Domain Cabin Output +5%<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +20
+|ss5=Domain Cabin Output +7%<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +28
+|ss7=Domain Cabin Output +7%<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +28<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +28 (Awakened)
+|skill1=[[File:Compass skill II.png|50px]]Place in Exploration Compass: This Relic's ART +10
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +3%
+}}

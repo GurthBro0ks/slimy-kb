@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=361
+|relics=Geiger Counter,Murders in Rue Morgue,Maitreya in Meditation,Murder On The Train
+|rank=blue
+|amount=4
+|category=self
+|description=Per 10 Dragon Minions in battle: Troop RUSH +7
+}}

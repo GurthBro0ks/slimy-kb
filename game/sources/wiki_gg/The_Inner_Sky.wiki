@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=The Inner Sky
+|class_id=20475
+|rank=Green
+|affct=FAME
+|source=
+|description=The Inner Sky is one of the modern horoscope classics written by an American astrologer Stephen. It includes contents like planets, constellations, zodiac signs, and the definitions of other basic horoscope elements, as well as the ways to use them. It is a good book for beginner astrologers.
+|fame=30
+|art=16
+|fth=14
+|civ=15
+|tech=15
+|ss1=Per 10 Divinations, Snail HP +20<br>Divinations: 400/400
+|ss2=Per 10 Divinations, Snail HP +40<br>Divinations: 400/400
+|ss3=Per 10 Divinations, Snail HP +60<br>Divinations: 400/400
+|ss4=Per 10 Divinations, Snail HP +60<br>Divinations: 400/400
+|ss7=Per 10 Divinations, Snail HP +60<br>Divinations: 400/400<br> (Awakened)
+}}

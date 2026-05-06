@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Tower of Babel
+|class_id=21239
+|rank=SSS
+|affct=FAITH
+|source=
+|description=The story comes from the Hebrew Book of Genesis, where humans attempted to build a tower reaching the heavens, challenging divine authority. In response, God confused their language, bringing the construction to a halt. This unfinished tower became a symbolic origin of human cultural and linguistic division. Its spiral structure was often depicted in medieval manuscripts, and during the Renaissance, it evolved into a moral allegory of human pride.
+|fame=54
+|art=79
+|fth=108
+|civ=54
+|tech=67
+|ss1=Snail Leadership +3<br>Per Spatial Realm participation, Snail DEF +6<br>Per Spatial Realm participation, Priest-Troop Assistance DMG +48<br>Spatial Realm Participation: 30/30
+|ss2=Snail Leadership +4<br>Per Spatial Realm participation, Snail DEF +8<br>Per Spatial Realm participation, Priest-Troop Assistance DMG +64<br>Spatial Realm Participation: 30/30
+|ss3=Snail Leadership +5<br>Per Spatial Realm participation, Snail DEF +10<br>Per Spatial Realm participation, Priest-Troop Assistance DMG +80<br>Spatial Realm Participation: 30/30
+|ss4=Snail Leadership +7<br>Per Spatial Realm participation, Snail DEF +14<br>Per Spatial Realm participation, Priest-Troop Assistance DMG +112<br>Spatial Realm Participation: 30/30
+|ss5=Snail Leadership +9<br>Per Spatial Realm participation, Snail DEF +18<br>Per Spatial Realm participation, Priest-Troop Assistance DMG +144<br>Spatial Realm Participation: 30/30
+|ss6=Snail Leadership +12<br>Per Spatial Realm participation, Snail DEF +24<br>Per Spatial Realm participation, Priest-Troop Assistance DMG +192<br>Spatial Realm Participation: 30/30
+|ss7=Snail Leadership +12<br>Per Spatial Realm participation, Snail DEF +24<br>Per Spatial Realm participation, Priest-Troop Assistance DMG +192<br>Spatial Realm Participation: 30/30<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +3%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+}}

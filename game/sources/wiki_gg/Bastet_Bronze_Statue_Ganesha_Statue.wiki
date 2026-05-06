@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=323
+|relics=Bastet Bronze Statue,Ganesha Statue
+|rank=blue
+|amount=2
+|category=self
+|description=Per 3 Incense used, Snail ATK +5;Incense Used: 150/150
+}}

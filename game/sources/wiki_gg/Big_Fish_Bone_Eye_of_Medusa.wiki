@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=3
+|relics=Big Fish Bone,Eye of Medusa
+|rank=blue
+|amount=2
+|category=self
+|description=Mecha Gene Research SPD +3%
+}}

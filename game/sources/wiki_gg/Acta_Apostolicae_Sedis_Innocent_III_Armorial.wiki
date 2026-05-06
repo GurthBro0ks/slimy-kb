@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=321
+|relics=Acta Apostolicae Sedis,Innocent III Armorial
+|rank=blue
+|amount=2
+|category=self
+|description=Free Gene Speedup (Angel) +30m
+}}

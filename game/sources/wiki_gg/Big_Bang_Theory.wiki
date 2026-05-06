@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Big Bang Theory
+|class_id=22754
+|rank=SSS
+|affct=TECH
+|birthday=01-20
+|source=
+|description=On Jan 20, 1927 AD, Belgian astronomer Georges Lemaitre first proposed the Big Bang Theory.<br>The Big Bang Theory is the most influential cosmological model, based on the universality of physical laws and the cosmological principle. According to the theory, the universe evolved from hot to cold, during which time the cosmic system was constantly expanding, the density of matter evolved from dense to rare, gradually forming the universe we see today. Today, people have confirmed through various observations that the universe is expanding at an accelerating rate. However, what happened in the first few minutes of the Big Bang is still a matter of speculation due to a serious lack of relevant observational conditions.
+|fame=69
+|art=52
+|fth=74
+|civ=61
+|tech=106
+|ss1=Mecha Minion HP +3%<br>All minion skins HP +10%<br>Per 10 HP Pistils Used, Snail HP +60<br>HP Pistils Used: 400/400
+|ss2=Mecha Minion HP +4%<br>All minion skins HP +20%<br>Per 10 HP Pistils Used, Snail HP +70<br>HP Pistils Used: 400/400
+|ss3=Mecha Minion HP +5%<br>All minion skins HP +30%<br>Per 10 HP Pistils Used, Snail HP +80<br>HP Pistils Used: 400/400
+|ss4=Mecha Minion HP +7%<br>All minion skins HP +50%<br>Per 10 HP Pistils Used, Snail HP +100<br>HP Pistils Used: 400/400
+|ss5=Mecha Minion HP +9%<br>All minion skins HP +70%<br>Per 10 HP Pistils Used, Snail HP +120<br>HP Pistils Used: 400/400
+|ss6=Mecha Minion HP +12%<br>All minion skins HP +100%<br>Per 10 HP Pistils Used, Snail HP +150<br>HP Pistils Used: 400/400
+|ss7=Mecha Minion HP +12%<br>All minion skins HP +100%<br>Per 10 HP Pistils Used, Snail HP +150<br>HP Pistils Used: 400/400<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP +9%
+|skill2=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: This Relic's TECH +15
+|skill3=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims Device:In Minion Simss, Troop HP Regen +9%
+|mirage={{Mirage|name=Theoretical Development|reward={{RewardIconWithLink|Nebula Chest, +200|orange}}
+|3name=Vysto|3rec=111.74M|3atk=340619|3defense=201113|3hp=32171172|3weak=42356
+|4name=Lemaitre|4rec=127.78M|4atk=375187|4defense=223669|4hp=42569642|4weak=46016
+|5name=Gamow|5rec=148.96M|5atk=422632|5defense=253475|5hp=59796293|5weak=50165
+|6name=Hubble|6rec=178.20M|6atk=486177|6defense=294610|6hp=90484706|6weak=54773
+|Arec=219.23M|Aatk=573000|Adefense=352336|Ahp=138621331|Aweak=59934
+}}}}

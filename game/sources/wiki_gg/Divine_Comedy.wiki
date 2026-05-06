@@ -1,0 +1,44 @@
+{{CargoRelic
+|name=Divine Comedy
+|rank=SSS
+|affct=CIV
+|birthday=09-01
+|source=* Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wishing (0.08%)
+* Lottery Value Pack III ($99.99)
+|description=On Sep 1, 1320 AD, Dante completed "Divine Comedy" which inspired The Renaissance. The "Divine Comedy" consists of 100 chapters, with 33 cantos in each of the 3 cantiche and 1 introduction. The poem tells of the story of Dante 20 years ago, who lost his way in a dark forest in the morning before Easter and me the Roman poet Virgil. Virgil guided Dante through the hell that punished the sinful souls, the purgatory that contained the souls of the repentance, and finally the nine celestial spheres of Heaven. The whole poem came to an abrupt end when he finally came before God.
+
+[Classic Quotes]
+
+Remember tonight, for it is the beginning of always.<br>
+Follow your own path and let people talk.<br>
+All hope abandon ye who enter here.
+|fame=58
+|art=66
+|fth=68
+|civ=106
+|tech=64
+|ss1=Snail ATK +30<br>Lottery Blue Beads turn to Purple by +0.6%<br>Per 10 Lotteries drawn, Snail ATK +6<br>Lotteries Drawn: 200/200
+|ss2=Snail ATK +40<br>Lottery Blue Beads turn to Purple by +0.8%<br>Per 10 Lotteries drawn, Snail ATK +8<br>Lotteries Drawn: 200/200
+|ss3=Snail ATK +50<br>Lottery Blue Beads turn to Purple by +1%<br>Per 10 Lotteries drawn, Snail ATK +10<br>Lotteries Drawn: 200/200
+|ss4=Snail ATK +70<br>Lottery Blue Beads turn to Purple by +1.4%<br>Per 10 Lotteries drawn, Snail ATK +14<br>Lotteries Drawn: 200/200
+|ss5=Snail ATK +90<br>Lottery Blue Beads turn to Purple by +1.8%<br>Per 10 Lotteries drawn, Snail ATK +18<br>Lotteries Drawn: 200/200
+|ss6=Snail ATK +120<br>Lottery Blue Beads turn to Purple by +2.4%<br>Per 10 Lotteries drawn, Snail ATK +24<br>Lotteries Drawn: 200/200
+|ss7=Snail ATK +120<br>Lottery Blue Beads turn to Purple by +2.4%<br>Per 10 Lotteries drawn, Snail ATK +24<br>Lotteries Drawn: 200/200<br>Lottery Green Beads turn to Blue by +1% (Awakened)
+|skill1=[[File:Koryeo skill III.png|frameless|50x50px]]Place in Koryeon Museum: Medal Output +30
+|skill2=[[File:Koryeo skill III.png|frameless|50x50px]]Place in Koryeon Museum: In Koryeo, Snail ATK +600
+|skill3=[[File:Koryeo skill III.png|frameless|50x50px]]Place in Koryeon Museum: In Koryeo, 2x B-tad Drops +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:Lottery Bead Color Change]]
+[[Category:Lottery Machine Boost]]
+[[Category:Koryeo Museum Boost]]
+[[Category:Koryeo Exploration Boost]]
+[[Category:Medal Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Minion HARD Boost]]
+[[Category:Rewards Lottery Ticket]]
+[[Category:Imp Boost]]
+[[Category:Slug Dragonling Boost]]

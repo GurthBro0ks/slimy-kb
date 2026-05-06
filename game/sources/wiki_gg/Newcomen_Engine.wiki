@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Newcomen Engine
+|class_id=22485
+|rank=Blue
+|affct=TECH
+|birthday=07-10
+|source=Lottery Machine No.3 (0.25%)
+|description=On Jul 10, 1705 AD, Newcomen developed a new type of machine for mine drainage.<br>To help his partner solve the problem of mine drainage, Newcomen modified the old steam pump, separating the cylinder from the boiler to increase thermal efficiency, and using a piston device to enhance the conversion of firepower into mechanical force. This new type of pneumatic steam engine was quickly promoted and, decades later, became a reference prototype for Watt's improved steam engine.
+|fame=26
+|art=24
+|fth=33
+|civ=25
+|tech=46
+|ss1=Species War Cabin, deployable robots +1
+|ss2=Species War Cabin, deployable robots +2
+|ss3=Species War Cabin, deployable robots +3
+|ss4=Species War Cabin, deployable robots +5
+|ss7=Species War Cabin, deployable robots +5<br>Species War Cabin, deployable robots +5 (Awakened)
+|skill1=[[File:Britland skill I.png|50px]]Place in Britland Museum: In Britland, 2x Purple Card Drops +2.5%
+}}

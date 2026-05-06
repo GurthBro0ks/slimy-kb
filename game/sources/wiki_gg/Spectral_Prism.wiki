@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Spectral Prism
+|class_id=20375
+|rank=Green
+|affct=TECH
+|source=
+|description=A creation from outer space with the appearance of an average prism. But in reality, it is made of high-energy material, and can stably observe and catch meson. Technically speaking, the civilization that made it is supposed to be highly advanced, but somehow, there's no trace of record at all.
+|fame=15
+|art=17
+|fth=16
+|civ=13
+|tech=29
+|ss1=Per Quantum Amp LVL, generate Mesons by +3%<br>Quantum Amp LVL: 20/20
+|ss2=Per Quantum Amp LVL, generate Mesons by +4%<br>Quantum Amp LVL: 20/20
+|ss3=Per Quantum Amp LVL, generate Mesons by +5%<br>Quantum Amp LVL: 20/20
+|ss4=Per Quantum Amp LVL, generate Mesons by +5%<br>Quantum Amp LVL: 20/20
+|ss7=Per Quantum Amp LVL, generate Mesons by +5%<br>Quantum Amp LVL: 20/20<br> (Awakened)
+}}

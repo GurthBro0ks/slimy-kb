@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Syrinx
+|class_id=20756
+|rank=Green
+|affct=FAITH
+|source=
+|description=Syrinx was a forest nymph, known for her chastity as a follower of the moon goddess Diana. The god Pan developed a passionate love for her and pursued her intensely, but Syrinx refused to accept and chose to flee. During one escape, she reached the river of her father, the river god Ladon, and asked him to help her escape Pan's entanglement. The river god turned her into reeds. When Pan arrived and found his beloved turned into reeds, he was heartbroken. To commemorate Syrinx, he took some reed stems and made a pan flute, naming it Syrinx, and was inseparable from the instrument thereafter. The mournful tune of the wind blowing through the reeds was like Syrinx's sigh.
+|fame=17
+|art=13
+|fth=30
+|civ=16
+|tech=14
+|ss1=Per red organ implanted, Snail Poison DMG +10
+|ss2=Per red organ implanted, Snail Poison DMG +10
+|ss3=Per red organ implanted, Snail Poison DMG +10
+|ss4=Per red organ implanted, Snail Poison DMG +10
+|ss7=Per red organ implanted, Snail Poison DMG +10<br> (Awakened)
+}}

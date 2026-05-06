@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Horsekeeper Signet
+|class_id=20484
+|rank=Green
+|affct=FAME
+|source=
+|description=The horsekeeper of the Heavenly Court was in charge of 100,000 celestial horses and the transportation for all the gods when they visit the mortal world. Though an important job, the horsekeeper was merely a low-level position. When the Monkey King was first recruited into the Heavenly Court, he was assigned to this position, which became one of the most embarrassing titles he had in his life!
+|fame=30
+|art=12
+|fth=18
+|civ=15
+|tech=15
+|ss1=Per 100 Badges gained, Snail ATK +3<br>Per 100 Badges gained, Snail DEF +3<br>Badges Gained: 2000/2000
+|ss2=Per 100 Badges gained, Snail ATK +4<br>Per 100 Badges gained, Snail DEF +4<br>Badges Gained: 2000/2000
+|ss3=Per 100 Badges gained, Snail ATK +5<br>Per 100 Badges gained, Snail DEF +5<br>Badges Gained: 2000/2000
+|ss4=Per 100 Badges gained, Snail ATK +5<br>Per 100 Badges gained, Snail DEF +5<br>Badges Gained: 2000/2000
+|ss7=Per 100 Badges gained, Snail ATK +5<br>Per 100 Badges gained, Snail DEF +5<br>Badges Gained: 2000/2000<br> (Awakened)
+}}

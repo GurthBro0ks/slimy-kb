@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=586
+|relics=Riding Car,Monier Concrete
+|rank=blue
+|amount=2
+|category=self
+|description=Per 100 Recruit Tokens consumed, Snail DEF +5;Consumed Recruit Tokens: 5000/5000
+}}

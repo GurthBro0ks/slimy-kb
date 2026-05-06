@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=387
+|relics=Diamond Peacock Brooch,Dragonfly-woman
+|rank=purple
+|amount=2
+|category=self
+|description=Per 6 Mirage Gems gained, Snail RUSH +6;Mirage Gems Gained: 420/420
+}}

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Head of Hammurabi
+|class_id=22617
+|rank=SSS
+|affct=FAME
+|birthday=12-01
+|source=
+|description=On Dec 1, 1982 BC, craftsmen carved the Head of Hammurabi.<br>This ancient Mesopotamian statue portrays a monarch of the time, possibly inspired by the renowned Babylonian king Hammurabi. The statue exhibits a realistic representation, featuring a royal cap and a serious and solemn expression. However, the artistic style suggests that it was likely crafted several hundred years prior to the Hammurabi era.
+|fame=109
+|art=59
+|fth=57
+|civ=69
+|tech=68
+|ss1=Snail Leadership +3<br>Refine 1 Arcanium: Gain 1 more by 1.2%<br>Per Targeted Fusion, Snail ATK +3<br>Targeted Fusions: 50/50
+|ss2=Snail Leadership +4<br>Refine 1 Arcanium: Gain 1 more by 1.6%<br>Per Targeted Fusion, Snail ATK +4<br>Targeted Fusions: 50/50
+|ss3=Snail Leadership +5<br>Refine 1 Arcanium: Gain 1 more by 2%<br>Per Targeted Fusion, Snail ATK +5<br>Targeted Fusions: 50/50
+|ss4=Snail Leadership +7<br>Refine 1 Arcanium: Gain 1 more by 2.8%<br>Per Targeted Fusion, Snail ATK +7<br>Targeted Fusions: 50/50
+|ss5=Snail Leadership +9<br>Refine 1 Arcanium: Gain 1 more by 3.6%<br>Per Targeted Fusion, Snail ATK +9<br>Targeted Fusions: 50/50
+|ss6=Snail Leadership +12<br>Refine 1 Arcanium: Gain 1 more by 4.8%<br>Per Targeted Fusion, Snail ATK +12<br>Targeted Fusions: 50/50
+|ss7=Snail Leadership +12<br>Refine 1 Arcanium: Gain 1 more by 4.8%<br>Per Targeted Fusion, Snail ATK +12<br>Targeted Fusions: 50/50<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +30%
+|skill2=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Cap +30%
+|skill3=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: This Relic's FAME +15
+|mirage={{Mirage|name=Babylonian King|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Ammiditana|3rec=111.36M|3atk=318760|3defense=200566|3hp=17143397|3weak=35549
+|4name=Abi-Eshuh|4rec=149.13M|4atk=407459|4defense=253715|4hp=25023359|4weak=38966
+|5name=Samsuiluna|5rec=213.09M|5atk=560706|5defense=343697|5hp=44805246|5weak=45090
+|6name=Hammurabi|6rec=317.93M|6atk=751508|6defense=448596|6hp=81864133|6weak=52263
+|Arec=431.82M|Aatk=942743|Adefense=551052|Ahp=129280774|Aweak=56900
+}}}}

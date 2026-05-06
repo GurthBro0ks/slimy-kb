@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Mars Rover
+|rank=AAA
+|affct=TECH
+|birthday=08-29
+|source=Evolution Chest (1.5%), Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)
+|description=On Aug 29, 2012, Mars Rover successfully landed on Mars.
+
+On this day, 14 minutes after the Mars Rover landed on Mars, Earth received its message. It is the world's first nuclear-powered Mars rover and its mission is to discover lifeforms on Mars. It has a two-year-long mission with 10 instruments to assess the Gale Crater. By using the drill at the end of the robotic arm, it can collect samples of bedrock on Mars. It analyzes the mineral and chemical composition to check the water content on Mars, and whether it is or was a suitable environment for living things.
+
+[Basic info of the rover]
+
+Power: Radioisotope thermal battery (Pu-238)<br>Arm: 2.1 m<br>Wheel diameter: 0.5 m<br>Charging: MMRTG<br>Emission mass: 3893 kg
+|fame=51
+|art=36
+|fth=42
+|civ=39
+|tech=75
+|ss1=Mutant Gene Research SPD +1.8%<br>Per 30 Mutant Minions in battle, Troop HP +40
+|ss2=Mutant Gene Research SPD +2.4%<br>Per 30 Mutant Minions in battle, Troop HP +80
+|ss3=Mutant Gene Research SPD +3%<br>Per 30 Mutant Minions in battle, Troop HP +120
+|ss4=Mutant Gene Research SPD +4.2%<br>Per 30 Mutant Minions in battle, Troop HP +200
+|ss5=Mutant Gene Research SPD +5.4%<br>Per 30 Mutant Minions in battle, Troop HP +280
+|ss7=Mutant Gene Research SPD +5.4%<br>Per 30 Mutant Minions in battle, Troop HP +280<br>Per 30 Mutant Minions in battle, Troop HP +280 (Awakened)
+|skill1=[[File:Yamato skill II.png|50px]] Place in Yamato Museum: In Yamato, Mutant Cells gained +15%
+|skill2=[[File:Yamato skill II.png|50px]] Place in Yamato Museum: In Yamato, 2x Purple Reagent Drops +7.5%
+}}
+
+[[Category:Mutant Gene Speedup Boost]]
+[[Category:Mutant Minion HP Boost]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:Mutant Cell Drop Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:RUSH Boost]]
+[[Category:Relic Boost]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Relic Points]]
+[[Category:Nightmare Steed Boost]]

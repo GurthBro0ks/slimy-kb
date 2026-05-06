@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=La Seine et le Louvre
+|class_id=22428
+|rank=Blue
+|affct=ART
+|birthday=10-09
+|source=Lottery Machine No.3 (0.06%)
+|description=On Oct 9, 1903 AD, Renoir completed his La Seine et le Louvre.<br>This painting is one of the representative works of the Impressionist master Pierre-Auguste Renoir in his later years. During this time, he was unable to go out to draw due to his own illness, so he took the view from the window of his residence as his subject matter and created beautiful urban scenery with the typical Impressionist broad brushstrokes. This painting is a model of his work, presenting a unique charm by depicting the warm atmosphere in the calmness and coldness.
+|fame=21
+|art=47
+|fth=29
+|civ=32
+|tech=25
+|ss1=Refine +1 White Demon God Material +1%
+|ss2=Refine +1 White Demon God Material +2%
+|ss3=Refine +1 White Demon God Material +3%
+|ss4=Refine +1 White Demon God Material +5%
+|ss7=Refine +1 White Demon God Material +5%<br>Refine +1 White Demon God Material +5% (Awakened)
+|skill1=[[File:Goldfish skill I.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Wind DMG +10
+}}

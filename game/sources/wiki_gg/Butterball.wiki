@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Butterball
+|class_id=22065
+|rank=Blue
+|affct=CIV
+|birthday=04-17
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Apr 17, 1880 AD, the king of short stories, Maupassant, published his famous work Butterball.<br>Butterball is a novella by French novelist Maupassant, and it's the very story that earned him a reputation. The book uses a brutal war as the background of the story and tells the tale of ten people from all walks of life in France at that time fleeing together in a carriage. During the journey, the prostitute Butterball shared her food with the hungry and thirsty passengers, sacrificing herself for the benefit of everyone, but she had a tragic end. The author contrasts her kindness and selflessness with the hideous faces of those so-called superior people, reflecting their despicable selfishness, arrogance, and hypocrisy.
+|fame=30
+|art=30
+|fth=25
+|civ=48
+|tech=21
+|ss1=Per 10 Mutant Minions in battle:<br>> Troop HP +10
+|ss2=Per 10 Mutant Minions in battle:<br>> Troop HP +20
+|ss3=Per 10 Mutant Minions in battle:<br>> Troop HP +30
+|ss4=Per 10 Mutant Minions in battle:<br>> Troop HP +50
+|ss7=Per 10 Mutant Minions in battle:<br>> Troop HP +50<br>Per 10 Mutant Minions in battle:<br>> Troop HP +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Mutant Cells gained +2.5%
+}}

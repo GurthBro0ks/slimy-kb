@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Swimming Reindeer,Von Neumann Arch.,The Birth of Venus,Riemann Hypothesis
+|rank=orange
+|amount=4
+|category=self
+|description=Per 2 ART Master Scrolls used, Snail RUSH +9, ART Master Scrolls Used: 100/100
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by ART Master Scrolls]]

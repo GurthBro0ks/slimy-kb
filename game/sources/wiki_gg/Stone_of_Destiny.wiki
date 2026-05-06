@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Stone of Destiny
+|class_id=22456
+|rank=Blue
+|affct=FAITH
+|birthday=07-23
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jul 23, 1296 AD, Edward I took the Stone of Destiny from Scotland.<br>In ancient Scotland, the Stone of Destiny was an essential prop for the coronation of the king. They would use this stone as the first throne and take their first step on the path to becoming a ruler. Therefore, it was regarded as a symbol of Scottish royalty. The Stone of Destiny had been kept in a monastery for centuries until it was taken by Edward I. After many years, it was finally returned to Scotland in the 20th century.
+|fame=23
+|art=36
+|fth=45
+|civ=22
+|tech=28
+|ss1=Angel Minion HP +1%
+|ss2=Angel Minion HP +2%
+|ss3=Angel Minion HP +3%
+|ss4=Angel Minion HP +5%
+|ss7=Angel Minion HP +5%<br>Angel Minion HP +5% (Awakened)
+|skill1=[[File:Swampsanctum skill I.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Output +5%
+}}

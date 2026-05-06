@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Valley Token
+|class_id=20943
+|rank=Green
+|affct=FAME
+|source=
+|description=This token bears ancient runes. Although the meaning behind these runes is not fully understood, the powerful energy emanating from them resonates with the fluctuations of the Maze, hinting at its significance.
+|fame=33
+|art=17
+|fth=12
+|civ=14
+|tech=14
+|ss1=Snail RUSH +20<br>In Kaleido Valley, unlock Protomon Ban
+|ss2=Snail RUSH +40<br>In Kaleido Valley, unlock Protomon Ban
+|ss3=Snail RUSH +60<br>In Kaleido Valley, unlock Protomon Ban
+|ss4=Snail RUSH +60<br>In Kaleido Valley, unlock Protomon Ban
+|ss7=Snail RUSH +60<br>In Kaleido Valley, unlock Protomon Ban<br> (Awakened)
+}}

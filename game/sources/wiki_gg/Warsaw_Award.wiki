@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Warsaw Award
+|class_id=20982
+|rank=Green
+|affct=FAME
+|source=
+|description=As the first Polish film festival accredited by FIAPF, the Warsaw International Film Festival ranks among the most important competitive international film events in Central and Eastern Europe.
+|fame=28
+|art=18
+|fth=13
+|civ=14
+|tech=17
+|ss1=Individual Form Avatar rating cap raised to SSS+<br>Per Form unlocked, Water DMG +4<br>Forms Unlocked: 6/6
+|ss2=Individual Form Avatar rating cap raised to SSS+<br>Per Form unlocked, Water DMG +8<br>Forms Unlocked: 6/6
+|ss3=Individual Form Avatar rating cap raised to SSS+<br>Per Form unlocked, Water DMG +12<br>Forms Unlocked: 6/6
+|ss4=Individual Form Avatar rating cap raised to SSS+<br>Per Form unlocked, Water DMG +12<br>Forms Unlocked: 6/6
+|ss7=Individual Form Avatar rating cap raised to SSS+<br>Per Form unlocked, Water DMG +12<br>Forms Unlocked: 6/6<br> (Awakened)
+}}

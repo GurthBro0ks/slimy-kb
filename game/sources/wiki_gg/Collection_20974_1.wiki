@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20974_1
+|class_id=20974
+|rank=Green
+|affct=FAME
+|source=
+|description=collection@20974_2
+|fame=33
+|art=12
+|fth=18
+|civ=14
+|tech=13
+|ss1=All ELMT DMG +7<br>Dragon Minion HARD Stats +0.4%
+|ss2=All ELMT DMG +14<br>Dragon Minion HARD Stats +0.8%
+|ss3=All ELMT DMG +21<br>Dragon Minion HARD Stats +1.2%
+|ss4=All ELMT DMG +21<br>Dragon Minion HARD Stats +1.2%
+|ss7=All ELMT DMG +21<br>Dragon Minion HARD Stats +1.2%<br> (Awakened)
+}}

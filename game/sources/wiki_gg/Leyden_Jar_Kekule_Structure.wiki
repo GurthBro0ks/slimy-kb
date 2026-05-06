@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=418
+|relics=Leyden Jar,Kekule Structure
+|rank=purple
+|amount=2
+|category=self
+|description=Snail DEF +60
+}}

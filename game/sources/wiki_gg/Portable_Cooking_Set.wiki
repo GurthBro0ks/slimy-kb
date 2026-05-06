@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Portable Cooking Set
+|class_id=20925
+|rank=Green
+|affct=FAME
+|source=
+|description=Roachiko designed this cooking set in order to eat delicious food anytime, anywhere. Despite the small size, the set comprises various cooking tools, including a kitchen knife, soup spoon, and rice cooker. It is not only sturdy and durable but also extremely lightweight, making it a favorite of Roachiko!
+|fame=28
+|art=16
+|fth=12
+|civ=16
+|tech=18
+|ss1=Per 5 new Dishes created, Snail HP +10<br>Per 5 new Dishes created, Snail RUSH +1<br>New Dishes Created: 300/300
+|ss2=Per 5 new Dishes created, Snail HP +20<br>Per 5 new Dishes created, Snail RUSH +2<br>New Dishes Created: 300/300
+|ss3=Per 5 new Dishes created, Snail HP +30<br>Per 5 new Dishes created, Snail RUSH +3<br>New Dishes Created: 300/300
+|ss4=Per 5 new Dishes created, Snail HP +30<br>Per 5 new Dishes created, Snail RUSH +3<br>New Dishes Created: 300/300
+|ss7=Per 5 new Dishes created, Snail HP +30<br>Per 5 new Dishes created, Snail RUSH +3<br>New Dishes Created: 300/300<br> (Awakened)
+}}

@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Fayum Portraits
+|class_id=22801
+|rank=SS
+|affct=ART
+|source=
+|description=Fayum Portraits are a type of funerary portrait created in the Fayum region of ancient Egypt, typically painted on wooden panels using tempera or encaustic techniques, with vibrant colors and well-preserved. These portraits blend the artistic styles of ancient Egypt, Greece, and Rome, depicting individuals in a realistic manner, showcasing their character and emotions. These portraits were often used in funerals, covering the face of mummies or burial shrouds, and are important remnants of classical world panel painting, having a profound influence on later painting styles.
+|fame=52
+|art=104
+|fth=60
+|civ=72
+|tech=59
+|ss1=Snail ATK +20<br>Per 5 Avatars activated, Snail ATK +4<br>Per 5 Avatars activated, Snail DEF +4<br>Avatars Activated: 100/100
+|ss2=Snail ATK +30<br>Per 5 Avatars activated, Snail ATK +6<br>Per 5 Avatars activated, Snail DEF +6<br>Avatars Activated: 100/100
+|ss3=Snail ATK +40<br>Per 5 Avatars activated, Snail ATK +8<br>Per 5 Avatars activated, Snail DEF +8<br>Avatars Activated: 100/100
+|ss4=Snail ATK +60<br>Per 5 Avatars activated, Snail ATK +12<br>Per 5 Avatars activated, Snail DEF +12<br>Avatars Activated: 100/100
+|ss5=Snail ATK +80<br>Per 5 Avatars activated, Snail ATK +16<br>Per 5 Avatars activated, Snail DEF +16<br>Avatars Activated: 100/100
+|ss6=Snail ATK +110<br>Per 5 Avatars activated, Snail ATK +22<br>Per 5 Avatars activated, Snail DEF +22<br>Avatars Activated: 100/100
+|ss7=Snail ATK +110<br>Per 5 Avatars activated, Snail ATK +22<br>Per 5 Avatars activated, Snail DEF +22<br>Avatars Activated: 100/100<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Placed in the Hellas Museum, grants effect: Hellas Exploration, Wind DMG +300
+|skill2=[[File:Kemet skill III.png|50px]]Placed in the Kemet Museum, grants effect: Kemet Exploration, Water DMG +300
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: B-tad output +3000
+|mirage={{Mirage|name=Rest in Peace|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Former Traveler Portrait|3rec=3.75M|3atk=48063|3defense=31695|3hp=680838|3weak=11232
+|4name=Idol Boy Portrait|4rec=8.46M|4atk=75372|4defense=49704|4hp=1440138|4weak=14897
+|5name=Chaebol Chief Portrait|5rec=17.48M|5atk=110984|5defense=73188|5hp=2788709|5weak=19100
+|Arec=41.61M|Aatk=155344|Adefense=102441|Ahp=5158950|Aweak=25527
+}}}}

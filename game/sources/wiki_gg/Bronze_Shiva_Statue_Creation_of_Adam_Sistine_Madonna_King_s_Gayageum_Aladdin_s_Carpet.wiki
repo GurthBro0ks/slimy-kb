@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=267
+|relics=Bronze Shiva Statue,Creation of Adam,Sistine Madonna,King's Gayageum,Aladdin's Carpet
+|rank=orange
+|amount=5
+|category=self
+|description=Per 3 Orange Relics gained, Snail ATK +40;Orange Relics: 60/60
+}}

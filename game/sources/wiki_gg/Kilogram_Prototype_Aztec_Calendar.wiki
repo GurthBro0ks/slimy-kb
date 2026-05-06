@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Kilogram Prototype,Aztec Calendar
+|rank=blue
+|amount=2
+|category=home
+|description=Tadpole Pond B-tad Output +10%
+}}
+[[Category:Home]]

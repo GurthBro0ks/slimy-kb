@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Crystal Conch Tail
+|type=Bionic
+|rank=red
+|id=10706
+|idx=64
+|description=This spiny crystal tail is shielded by a spiral shell that protects its weakest point. One strike from its reinforced hammer — and few opponents remain standing.
+|skill=On combat start, summon a Shell Storm to attack the enemy, dealing DMG equal to 120% of ATK!
+|hp=2250
+|def=233
+|atk=369
+|rush=243
+|gene1=For Round 1, DMG +10%
+|gene2=Each round, {race} ATK +80
+|gene3=DMG +5%
+|gene4=Earth DMG +120
+|gene5=Each round, {race} RUSH +80
+|gene6=Ignore DEF +2%
+|gene7=For Round 1, DMG +10% (Awakened)
+|}}

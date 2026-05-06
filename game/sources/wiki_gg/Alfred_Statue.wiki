@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Alfred Statue
+|class_id=22632
+|rank=SSS
+|affct=FAME
+|birthday=08-31
+|source=
+|description=On August 31, 1907, the statue of King Alfred the Great was completed in London, UK.<br>The statue of King Alfred the Great, riding a warhorse. He wears magnificent armor, holding a long spear and gazing into the distance. The  statue's overall details have been meticulously carved, from Alfred the Great's facial expression to the muscular lines of the warhorse.
+|fame=106
+|art=57
+|fth=52
+|civ=73
+|tech=74
+|ss1=All minion skins HP +10%<br>Per 5 Mythic Protodex Stars, Snail ATK +9<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +72<br>Mythic Protodex Stars: 100/100
+|ss2=All minion skins HP +20%<br>Per 5 Mythic Protodex Stars, Snail ATK +12<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +96<br>Mythic Protodex Stars: 100/100
+|ss3=All minion skins HP +30%<br>Per 5 Mythic Protodex Stars, Snail ATK +15<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +120<br>Mythic Protodex Stars: 100/100
+|ss4=All minion skins HP +50%<br>Per 5 Mythic Protodex Stars, Snail ATK +21<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +168<br>Mythic Protodex Stars: 100/100
+|ss5=All minion skins HP +70%<br>Per 5 Mythic Protodex Stars, Snail ATK +27<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +216<br>Mythic Protodex Stars: 100/100
+|ss6=All minion skins HP +100%<br>Per 5 Mythic Protodex Stars, Snail ATK +36<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +288<br>Mythic Protodex Stars: 100/100
+|ss7=All minion skins HP +100%<br>Per 5 Mythic Protodex Stars, Snail ATK +36<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +288<br>Mythic Protodex Stars: 100/100<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: This Relic's FAME +15
+|skill2=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Cap +30%
+|skill3=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +30%
+|mirage={{Mirage|name=Alfred's War|reward={{RewardIconWithLink|Badge, +20|orange}}
+|3name=Ethelred|3rec=109.86M|3atk=336506|3defense=198458|3hp=31211621|3weak=41905
+|4name=Alfred|4rec=125.51M|4atk=370341|4defense=220478|4hp=41175850|4weak=45544
+|5name=Guthrum|5rec=146.06M|5atk=416137|5defense=249391|5hp=57707381|5weak=49632
+|6name=Treaty of Wedmore|6rec=174.37M|6atk=478084|6defense=289216|6hp=85060932|6weak=54219
+|Arec=214.22M|Aatk=562380|Adefense=345285|Ahp=128370910|Aweak=59359
+}}}}

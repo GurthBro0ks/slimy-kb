@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Aulos Pipe
+|rank=Blue
+|affct=FTH
+|birthday=11-26
+|source=* Lottery Machine No. 2 (0.07%)
+* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})
+|description=On Nov 26, 1766 BC, the ancient Greeks used the Aulos pipe to worship the god of wine, praying for a good wine harvest in the coming year.<br>The Aulos Pipe is one of the most primitive musical instruments crafted in the ancient Greek era, and it is also a symbol of Dionysus. It is a double-pipe clarinet made of reed pipes or animal bones and an important instrument in the ceremony of Dionysus worship. Studies have shown that musicians would blow the double pipes simultaneously with each hand holding one pipe. However, the function of the double pipes remains an unsolved mystery.
+|fame=26
+|art=33
+|fth=47
+|civ=18
+|tech=30
+|ss1=Per 20 FTH Wishes made, Snail RUSH +1<br>> Wishes Made: 1000/1000
+|ss2=Per 20 FTH Wishes made, Snail RUSH +2<br>> Wishes Made: 1000/1000
+|ss3=Per 20 FTH Wishes made, Snail RUSH +3<br>> Wishes Made: 1000/1000
+|ss4=Per 20 FTH Wishes made, Snail RUSH +5<br>> Wishes Made: 1000/1000
+|ss7=Per 20 FTH Wishes made, Snail RUSH +5<br>> Wishes Made: 1000/1000<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]] Place in Rift Museum: In the Rift, food consumed -1%
+}}
+
+[[Category:Wishing Boost]]
+[[Category:RUSH Boost]]
+[[Category:Rift Museum Boost]]
+[[Category:Rift Exploration Boost]]
+[[Category:Food Consumed Reduction]]
+[[Category:Relic Boost]]
+[[Category:DEF Boost]]
+[[Category:Dragon Minion HP Boost]]
+[[Category:Indigent Nobleman Relics]]

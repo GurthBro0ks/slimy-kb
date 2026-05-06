@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Boy with Apple,Wilson Cloud Chamber,Book of Shadows,Valaroma
+|rank=purple
+|amount=2
+|category=Reagent Crafting Boost
+|description=Expert Scrolls drop +1 Purple Reagent by +8%
+}}
+[[Category:Scroll Reagent Boost]]

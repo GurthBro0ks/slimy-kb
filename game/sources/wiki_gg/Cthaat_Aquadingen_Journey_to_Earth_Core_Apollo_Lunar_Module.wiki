@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=578
+|relics=Cthaat Aquadingen,Journey to Earth Core,Apollo Lunar Module
+|rank=orange
+|amount=3
+|category=self
+|description=Per 5 Epic Protodex Stars, Snail ATK +16;Epic Protodex Stars: 100/100
+}}

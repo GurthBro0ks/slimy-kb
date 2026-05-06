@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Palermo Stone
+|class_id=22302
+|rank=S
+|affct=CIV
+|birthday=06-08
+|source=Lottery Machine No.2 (1.45%), Wishing (5.4%)
+|description=On Jun 8, 2875 BC, the Palermo Stone was located in an ancient temple.<br>The Palermo Stone is probably the oldest historical text that has survived from Ancient Egypt. It is inscribed with hieroglyphics on both sides, which record the history and culture of the first five dynasties of ancient Egypt, including a list of the kings of Egypt and significant events in each year of their reigns. The Palermo Stone is held in the Regional Archeological Museum Antonio Salinas in the city of Palermo, from which it derives its name. It's a key source for history in the Old Kingdom.
+|fame=64
+|art=65
+|fth=55
+|civ=96
+|tech=52
+|ss1=Snail ATK +10<br>Per 60 Mutant Minions in battle:<br>> Troop HP +90<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +9
+|ss2=Snail ATK +20<br>Per 60 Mutant Minions in battle:<br>> Troop HP +180<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +18
+|ss3=Snail ATK +30<br>Per 60 Mutant Minions in battle:<br>> Troop HP +270<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +27
+|ss4=Snail ATK +50<br>Per 60 Mutant Minions in battle:<br>> Troop HP +450<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +45
+|ss5=Snail ATK +70<br>Per 60 Mutant Minions in battle:<br>> Troop HP +630<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +63
+|ss6=Snail ATK +100<br>Per 60 Mutant Minions in battle:<br>> Troop HP +900<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +90
+|ss7=Snail ATK +100<br>Per 60 Mutant Minions in battle:<br>> Troop HP +900<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +90<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion HP +9%
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail DEF +120 each round
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Mutant Cells gained +15%
+|mirage={{Mirage|name=Chrono Carvings|reward={{RewardIconWithLink|Time Chest, +200|orange}}
+|3name=Sculptor|3rec=12.21M|3atk=90731|3defense=60530|3hp=2456617|3weak=15763
+|4name=Scribe|4rec=31.15M|4atk=131481|4defense=87716|4hp=4950163|4weak=19055
+|Arec=54.97M|Aatk=181719|Adefense=121232|Ahp=8921756|Aweak=22749
+}}}}

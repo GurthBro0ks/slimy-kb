@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Olympic Torch
+|class_id=22234
+|rank=SSS
+|affct=FAME
+|birthday=07-20
+|source=
+|description=On 20 July 1936, the first modern Olympic torch relay took place in Berlin Olympic Games.<br>Constantine's torch, the first torch used in the modern Olympic Games, is named after its user, Greek athlete Constantine. The flame of the torch was collected from the ancient Olympic temple in Olympia, and then passed through the hands of Constantine, first in the territory of Greek, and finally to Berlin. On the opening day, the flame lit the main cauldron, which became a highlight of the opening ceremony of the Berlin Olympics. Since then, the torch relay has become an Olympic tradition.
+|fame=108
+|art=61
+|fth=54
+|civ=67
+|tech=72
+|ss1=All Minion ATK +0.6%<br>Quantum Amp production +1.8%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +3
+|ss2=All Minion ATK +0.8%<br>Quantum Amp production +2.4%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +6
+|ss3=All Minion ATK +1%<br>Quantum Amp production +3%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +9
+|ss4=All Minion ATK +1.4%<br>Quantum Amp production +4.2%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +15
+|ss5=All Minion ATK +1.8%<br>Quantum Amp production +5.4%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +21
+|ss6=All Minion ATK +2.4%<br>Quantum Amp production +7.2%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30
+|ss7=All Minion ATK +2.4%<br>Quantum Amp production +7.2%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Quantum Amp production +6% (Awakened)
+|skill1=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: This Relic's FAME +15
+|skill2=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP +9%
+|skill3=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop DEF +9%
+|mirage={{Mirage|name=Torch Bearer|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Fritz|3rec=43.03M|3atk=156543|3defense=104436|3hp=6809372|3weak=20502
+|4name=Noma|4rec=55.86M|4atk=183594|4defense=122483|4hp=9029852|4weak=22927
+|5name=Sergey|5rec=70.20M|5atk=213846|5defense=142665|5hp=11814290|5weak=28134
+|6name=Antonio|6rec=85.61M|6atk=246339|6defense=164343|6hp=15148841|6weak=31923
+|Arec=102.69M|Aatk=282354|Adefense=188370|Ahp=19195885|Aweak=34954
+}}}}

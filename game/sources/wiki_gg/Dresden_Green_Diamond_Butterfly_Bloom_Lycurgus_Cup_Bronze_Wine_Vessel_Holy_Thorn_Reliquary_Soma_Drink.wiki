@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=709
+|relics=Dresden Green Diamond,Butterfly Bloom,Lycurgus Cup,Bronze Wine Vessel,Holy Thorn Reliquary,Soma Drink
+|rank=purple
+|amount=6
+|category=self
+|description=Snail Leadership +10
+}}

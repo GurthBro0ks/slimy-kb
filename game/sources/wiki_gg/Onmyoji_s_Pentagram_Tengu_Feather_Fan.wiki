@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=625
+|relics=Onmyoji's Pentagram,Tengu Feather Fan
+|rank=blue
+|amount=2
+|category=self
+|description=When you receive Blue Spores from Catalysis: Gain +1 Spore Voucher by +10%
+}}

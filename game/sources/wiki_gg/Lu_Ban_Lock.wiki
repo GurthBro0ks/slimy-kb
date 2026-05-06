@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Lu Ban Lock
+|class_id=22418
+|rank=Blue
+|affct=FAME
+|birthday=11-19
+|source=Lottery Machine No.3 (0.03%)
+|description=On Nov 19, 221 AD, Lu Ban Lock gradually began to become popular among the people.<br>Lu Ban Lock, also known as Kongming Lock or Bagua Lock, is a toy made based on ancient Chinese carpentry joints. The most common type consists of six wooden columns and has a special structure that is easy to disassemble and difficult to assemble. It is beneficial for relaxing the body and mind and developing the brain.
+|fame=45
+|art=28
+|fth=23
+|civ=27
+|tech=31
+|ss1=Dragon Minion HP +1%
+|ss2=Dragon Minion HP +2%
+|ss3=Dragon Minion HP +3%
+|ss4=Dragon Minion HP +5%
+|ss7=Dragon Minion HP +5%<br>Dragon Minion HP +5% (Awakened)
+|skill1=[[File:Cathay skill I.png|50px]]Place in Cathay Museum: In Cathay, Snail DEF +20
+}}

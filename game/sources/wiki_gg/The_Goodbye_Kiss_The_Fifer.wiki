@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Goodbye Kiss,The Fifer
+|rank=purple
+|amount=2
+|category=minion
+|description=Mutant Minion DEF +6%
+}}
+[[Category:Minion]]
+[[Category:Mutant Minion DEF Boost]]

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=266
+|relics=Along the River,Portrait of Peter I,Impression, Sunrise,Caesar Statue,Terracotta Warrior
+|rank=orange
+|amount=5
+|category=self
+|description=Per 10k Relic Points, Snail ATK +5;Relic Points: 600000/600000
+}}

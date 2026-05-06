@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Surgery Robot
+|class_id=22347
+|rank=SSS
+|affct=TECH
+|birthday=04-08
+|source=
+|description=On Apr 8, 1997 AD, the Da Vinci Surgery Robot was officially approved for clinical use.<br>The Da Vinci Surgery Robot is an advanced surgical system that allows surgeons to control its robotic arms and perform complicated but minimally invasive operations. The Da Vinci Surgery Robot makes it much easier and more precise for surgeons to treat patients and save lives than conventional surgery!
+|fame=70
+|art=49
+|fth=75
+|civ=60
+|tech=108
+|ss1=Minion Recovery SPD +1.5%<br>Per 50 Minions healed, Snail HP +30<br>Per 50 Minions healed, Snail DEF +3<br>Minions healed: 2000/2000
+|ss2=Minion Recovery SPD +2%<br>Per 50 Minions healed, Snail HP +40<br>Per 50 Minions healed, Snail DEF +4<br>Minions healed: 2000/2000
+|ss3=Minion Recovery SPD +2.5%<br>Per 50 Minions healed, Snail HP +50<br>Per 50 Minions healed, Snail DEF +5<br>Minions healed: 2000/2000
+|ss4=Minion Recovery SPD +3.5%<br>Per 50 Minions healed, Snail HP +70<br>Per 50 Minions healed, Snail DEF +7<br>Minions healed: 2000/2000
+|ss5=Minion Recovery SPD +4.5%<br>Per 50 Minions healed, Snail HP +90<br>Per 50 Minions healed, Snail DEF +9<br>Minions healed: 2000/2000
+|ss6=Minion Recovery SPD +6%<br>Per 50 Minions healed, Snail HP +120<br>Per 50 Minions healed, Snail DEF +12<br>Minions healed: 2000/2000
+|ss7=Minion Recovery SPD +6%<br>Per 50 Minions healed, Snail HP +120<br>Per 50 Minions healed, Snail DEF +12<br>Minions healed: 2000/2000<br>Minion Recovery SPD +5% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +600
+|mirage={{Mirage|name=Intelligent Treatment|reward={{RewardIconWithLink|AR2-T4 Capsule, +1|orange}}
+|3name=Da Vinci Robot I|3rec=35.48M|3atk=140628|3defense=93818|3hp=5634069|3weak=19496
+|4name=Da Vinci Robot II|4rec=47.64M|4atk=166261|4defense=110919|4hp=7574522|4weak=21248
+|5name=Da Vinci Robot III|5rec=60.92M|5atk=194273|5defense=129607|5hp=10002197|5weak=24282
+|6name=Da Vinci Robot IV|6rec=75.27M|6atk=224525|6defense=149789|6hp=12931913|6weak=29897
+|Arec=91.61M|Aatk=258985|Adefense=172779|Ahp=16548528|Aweak=32939
+}}}}

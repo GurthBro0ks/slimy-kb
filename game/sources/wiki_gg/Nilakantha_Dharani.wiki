@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Nilakantha Dharani
+|class_id=22555
+|rank=AAA
+|affct=FAITH
+|birthday=03-01
+|source=Lottery Machine No.3 (0.06%)
+|description=On Mar 1, 630 AD, the Great Compassion Mantra began to circulate among the people of the Tang Dynasty.<br>During the Tang Dynasty, the Buddhist monk Kumarajiva translated the Nilakantha Dharani into Chinese, which began to circulate among the people, and the famous Buddhist chant, the "Great Compassion Mantra," came from it. According to the sutra, this is a chant spoken by the Bodhisattva Avalokitesvara for the benefit of all sentient beings, capable of removing obstacles, fulfilling wishes, and even achieving liberation for the practitioner. As one of the most effective chants that people believe in, the Great Compassion Mantra has been widely circulated among Buddhists, allowing the Buddhist scripture to gain a more extensive audience.
+|fame=36
+|art=57
+|fth=74
+|civ=30
+|tech=46
+|ss1=Ancient Coin gained from Drill Rig +30<br>Per 5 Star+ Protomon, Snail HP +60<br>5 Star+ Protomon: 20/20
+|ss2=Ancient Coin gained from Drill Rig +40<br>Per 5 Star+ Protomon, Snail HP +80<br>5 Star+ Protomon: 20/20
+|ss3=Ancient Coin gained from Drill Rig +50<br>Per 5 Star+ Protomon, Snail HP +100<br>5 Star+ Protomon: 20/20
+|ss4=Ancient Coin gained from Drill Rig +70<br>Per 5 Star+ Protomon, Snail HP +140<br>5 Star+ Protomon: 20/20
+|ss5=Ancient Coin gained from Drill Rig +90<br>Per 5 Star+ Protomon, Snail HP +180<br>5 Star+ Protomon: 20/20
+|ss7=Ancient Coin gained from Drill Rig +90<br>Per 5 Star+ Protomon, Snail HP +180<br>5 Star+ Protomon: 20/20<br>Ancient Coin gained from Drill Rig +70 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, Troop Wind RES +10
+|skill2=[[File:Mantis skill II.png|50px]]Place in Mantis Biozilla: In Species War, All Minion ATK +4.5%
+}}

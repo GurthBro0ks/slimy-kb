@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Shahnameh
+|class_id=21518
+|rank=SSS
+|affct=CIV
+|birthday=02-17
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Feb 17, 1647 AD, this Persian chronicle was completed.<br>The Book of Kings includes the legend of Iran and four great dynasties. The rise and fall of 50 kingdoms spanning 4,500 years. The book records not only great wars but also love stories and even state-governing arts. The writing skills are seasoned and unique. The stories of the princes are exceptionally compelling. After the Abbasid dynasty conquered the region, the Bavand dynasty and its ruler Sharwin I were recorded in written form. As the world wagged on, the book finally started to take shape in the Safavid dynasty.
+|fame=64
+|art=68
+|fth=74
+|civ=108
+|tech=48
+|ss1=Snail HP +300<br>Per Tier VII Forms unlocked, Snail HP +150<br>Per Tier VII Forms unlocked, Snail ATK +15<br>Tier VII Forms Unlocked: 6/6
+|ss2=Snail HP +400<br>Per Tier VII Forms unlocked, Snail HP +200<br>Per Tier VII Forms unlocked, Snail ATK +20<br>Tier VII Forms Unlocked: 6/6
+|ss3=Snail HP +500<br>Per Tier VII Forms unlocked, Snail HP +250<br>Per Tier VII Forms unlocked, Snail ATK +25<br>Tier VII Forms Unlocked: 6/6
+|ss4=Snail HP +700<br>Per Tier VII Forms unlocked, Snail HP +350<br>Per Tier VII Forms unlocked, Snail ATK +35<br>Tier VII Forms Unlocked: 6/6
+|ss5=Snail HP +900<br>Per Tier VII Forms unlocked, Snail HP +450<br>Per Tier VII Forms unlocked, Snail ATK +45<br>Tier VII Forms Unlocked: 6/6
+|ss6=Snail HP +1200<br>Per Tier VII Forms unlocked, Snail HP +600<br>Per Tier VII Forms unlocked, Snail ATK +60<br>Tier VII Forms Unlocked: 6/6
+|ss7=Snail HP +1200<br>Per Tier VII Forms unlocked, Snail HP +600<br>Per Tier VII Forms unlocked, Snail ATK +60<br>Tier VII Forms Unlocked: 6/6<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, Snail HP +6000
+|skill2=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, DMG +30%
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, 2x INTEL Drops +15%
+|mirage={{Mirage|name=Four Persian Kings|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Cambyses II|3rec=75.54M|3atk=225097|3defense=150171|3hp=12973322|3weak=29971
+|4name=Darius I|4rec=98.80M|4atk=274151|4defense=182897|4hp=18263154|4weak=34282
+|5name=Khosrow I|5rec=126.44M|5atk=332454|5defense=221793|5hp=25234581|5weak=38605
+|6name=Abbas I|6rec=157.23M|6atk=397372|6defense=265103|6hp=34078028|6weak=44495
+|Arec=192.21M|Aatk=471139|Adefense=314316|Ahp=45167981|Aweak=50758
+}}}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Vermilion Pot
+|class_id=20923
+|rank=Green
+|affct=FAME
+|source=
+|description=Vermilion was originally a divine bird who guards the world. By chance, it encountered the Master Chef and tasted his personally made dishes. It felt that a great bird's life should be accompanied by delicious food, so it transformed into a pot, allowing it to taste the freshest dishes...
+|fame=30
+|art=15
+|fth=15
+|civ=15
+|tech=15
+|ss1=Snail DEF +20<br>At the Culinary Shop, Daily Supply Deal +1
+|ss2=Snail DEF +40<br>At the Culinary Shop, Daily Supply Deal +2
+|ss3=Snail DEF +60<br>At the Culinary Shop, Daily Supply Deal +3
+|ss4=Snail DEF +60<br>At the Culinary Shop, Daily Supply Deal +3
+|ss7=Snail DEF +60<br>At the Culinary Shop, Daily Supply Deal +3<br> (Awakened)
+}}

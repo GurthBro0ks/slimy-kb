@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Frost
+|rank=orange
+|cabin=2
+|id=132
+|gene1={race} ATK +50
+|gene2={race} CIV +50
+|gene3=Each round, {race} ATK +30
+|gene4=Per 60 Demon Minions in battle,
+Troop Water DMG +6
+|gene5=Troop Water DMG +0.9%
+|gene6=Per 60 Demon Minions in battle,
+Troop Water DMG +10
+|gene7=Troop Water DMG +1.5%
+|}}

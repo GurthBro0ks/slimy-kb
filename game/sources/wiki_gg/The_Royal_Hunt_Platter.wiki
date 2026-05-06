@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The Royal Hunt Platter
+|class_id=22834
+|rank=SS
+|affct=FAITH
+|source=
+|description=A Sasanian king gallops across this hammered silver plate, his golden lions frozen mid-roar. Fifteen centuries pass, yet the monarch's youth remains undimmed in gleaming metal.
+|fame=60
+|art=74
+|fth=101
+|civ=46
+|tech=66
+|ss1=Snail ATK +20<br>Per Realm conquered, Snail ATK +6<br>Per Realm conquered, Snail DEF +6<br>Realms Conquered: 9/9
+|ss2=Snail ATK +30<br>Per Realm conquered, Snail ATK +12<br>Per Realm conquered, Snail DEF +12<br>Realms Conquered: 9/9
+|ss3=Snail ATK +40<br>Per Realm conquered, Snail ATK +18<br>Per Realm conquered, Snail DEF +18<br>Realms Conquered: 9/9
+|ss4=Snail ATK +60<br>Per Realm conquered, Snail ATK +30<br>Per Realm conquered, Snail DEF +30<br>Realms Conquered: 9/9
+|ss5=Snail ATK +80<br>Per Realm conquered, Snail ATK +42<br>Per Realm conquered, Snail DEF +42<br>Realms Conquered: 9/9
+|ss6=Snail ATK +110<br>Per Realm conquered, Snail ATK +60<br>Per Realm conquered, Snail DEF +60<br>Realms Conquered: 9/9
+|ss7=Snail ATK +110<br>Per Realm conquered, Snail ATK +60<br>Per Realm conquered, Snail DEF +60<br>Realms Conquered: 9/9<br>Snail ATK +100 (Awakened)
+|skill1=[[File:skill@1123_1_1.png|50px]]prop@4084_2
+|skill2=[[File:skill@1125_1_1.png|50px]]prop@4052_2
+|skill3=[[File:skill@1124_1_1.png|50px]]prop@4054_2
+}}

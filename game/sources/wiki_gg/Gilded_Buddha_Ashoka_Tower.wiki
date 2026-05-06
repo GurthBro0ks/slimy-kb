@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Gilded Buddha,Ashoka Tower
+|rank=orange
+|amount=2
+|category=self
+|description=Per 3 kinds of souls offered, Snail DEF +7; Distinct Souls Offered: 300/300
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by Distinct Souls Offered]]

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=480
+|relics=Albucasis Medical Book,Hugo Award
+|rank=orange
+|amount=2
+|category=self
+|description=Per AR2-T4 owned, Snail DEF +7;AR2-T4s Owned: 50/50
+}}

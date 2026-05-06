@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Hetu Luoshu
+|class_id=22698
+|rank=SSS
+|affct=FAITH
+|birthday=06-08
+|source=
+|description=On June 8, 1153, Liu Mu, a divination specialist of the Song dynasty named the two graphs Hetu Luoshu.<br>The Mysterious Relic Hetu Luoshu is a combination of two graphs passed on from ancient times that contains recondite astrology information about the universe. Ancient people created this system based on astrology to recognize time, direction, and seasons. It gave birth to the Yin Yang divination which had a profound influence on philosophy and politics, and plays a significant role in traditional Chinese culture
+|fame=56
+|art=69
+|fth=107
+|civ=60
+|tech=67
+|ss1=Snail Leadership +3<br>All Minion HARD Stats +0.3%<br>Per 3 FTH Relics awakened, Snail ATK +6<br>FTH Relics Awakened: 105/105
+|ss2=Snail Leadership +4<br>All Minion HARD Stats +0.4%<br>Per 3 FTH Relics awakened, Snail ATK +7<br>FTH Relics Awakened: 105/105
+|ss3=Snail Leadership +5<br>All Minion HARD Stats +0.5%<br>Per 3 FTH Relics awakened, Snail ATK +8<br>FTH Relics Awakened: 105/105
+|ss4=Snail Leadership +7<br>All Minion HARD Stats +0.7%<br>Per 3 FTH Relics awakened, Snail ATK +10<br>FTH Relics Awakened: 105/105
+|ss5=Snail Leadership +9<br>All Minion HARD Stats +0.9%<br>Per 3 FTH Relics awakened, Snail ATK +12<br>FTH Relics Awakened: 105/105
+|ss6=Snail Leadership +12<br>All Minion HARD Stats +1.2%<br>Per 3 FTH Relics awakened, Snail ATK +15<br>FTH Relics Awakened: 105/105
+|ss7=Snail Leadership +12<br>All Minion HARD Stats +1.2%<br>Per 3 FTH Relics awakened, Snail ATK +15<br>FTH Relics Awakened: 105/105<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Fire DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+|mirage={{Mirage|name=Secrets of the Constellations|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Star of Genbu|3rec=99.87M|3atk=314568|3defense=184406|3hp=26434090|3weak=39668
+|4name=Star of Suzaku|4rec=112.29M|4atk=341802|4defense=201876|4hp=32451056|4weak=42487
+|5name=Star of Byakko|5rec=127.60M|5atk=374799|5defense=223414|5hp=42456697|5weak=45979
+|6name=Star of Seiryuu|6rec=147.51M|6atk=419383|6defense=251433|6hp=58744165|6weak=49899
+|Arec=174.42M|Aatk=478200|Adefense=289294|Ahp=87337736|Aweak=54228
+}}}}

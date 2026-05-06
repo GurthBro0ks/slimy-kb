@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Silmarils
+|class_id=22277
+|rank=SS
+|affct=FAITH
+|birthday=04-07
+|source=Lottery Machine No.2 (0.32%), Wishing (1.2%)
+|description=On Apr 7, 371 BC, Feanor exhausted his efforts to create three elven diamond rings.<br>Feanor, foreseeing impending doom, pondered ways to preserve the eternal light of the Twin Sacred Tree. With all of his knowledge and skill, he created three impenetrable elven diamond rings that shine with the light of the Sacred Trees. The rings, blessed by gods, are said to be able to burn any evil and have the power to reshape the world.
+|fame=55
+|art=70
+|fth=101
+|civ=56
+|tech=65
+|ss1=Snail DEF +20<br>In the Gaia Rocket Cabin:<br>> Space-Sensing Radar Base Effect +16%<br>Per 10 Orange Orbs drawn, Snail ATK +2<br>Orange Orbs Drawn: 500/500
+|ss2=Snail DEF +30<br>In the Gaia Rocket Cabin:<br>> Space-Sensing Radar Base Effect +24%<br>Per 10 Orange Orbs drawn, Snail ATK +3<br>Orange Orbs Drawn: 500/500
+|ss3=Snail DEF +40<br>In the Gaia Rocket Cabin:<br>> Space-Sensing Radar Base Effect +32%<br>Per 10 Orange Orbs drawn, Snail ATK +4<br>Orange Orbs Drawn: 500/500
+|ss4=Snail DEF +60<br>In the Gaia Rocket Cabin:<br>> Space-Sensing Radar Base Effect +48%<br>Per 10 Orange Orbs drawn, Snail ATK +6<br>Orange Orbs Drawn: 500/500
+|ss5=Snail DEF +80<br>In the Gaia Rocket Cabin:<br>> Space-Sensing Radar Base Effect +64%<br>Per 10 Orange Orbs drawn, Snail ATK +8<br>Orange Orbs Drawn: 500/500
+|ss6=Snail DEF +110<br>In the Gaia Rocket Cabin:<br>> Space-Sensing Radar Base Effect +88%<br>Per 10 Orange Orbs drawn, Snail ATK +11<br>Orange Orbs Drawn: 500/500
+|ss7=Snail DEF +110<br>In the Gaia Rocket Cabin:<br>> Space-Sensing Radar Base Effect +88%<br>Per 10 Orange Orbs drawn, Snail ATK +11<br>Orange Orbs Drawn: 500/500<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion ATK +9%
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Demon Cells gained +30%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FTH +15
+|mirage={{Mirage|name=Mid-earth Myth|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=Beren|3rec=23.52M|3atk=115393|3defense=76983|3hp=3830873|3weak=18322
+|4name=Mogoth|4rec=37.51M|4atk=144896|4defense=96666|4hp=5959775|4weak=19711
+|5name=Feanor|5rec=54.06M|5atk=179813|5defense=119961|5hp=8643199|5weak=22555
+|Arec=73.37M|Aatk=220523|Adefense=147120|Ahp=12436667|Aweak=29247
+}}}}

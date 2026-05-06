@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Hevelius Chart
+|class_id=22322
+|rank=SSS
+|affct=CIV
+|birthday=02-10
+|source=
+|description=On Feb 10, 1690 AD, the Hevelius Chart was officially released.<br>Hevelius, a Polish astronomer, created this chart. It is a classical star chart with high artistic value because the patterns were carefully drawn based on the constellation mythology. With vivid images and high accuracy comparable to some modern star charts, this chart is a masterpiece of classical star charts. It is worth noting that the chart's graphics are based on observations made outside the celestial sphere, as opposed to the results of terrestrial observations.
+|fame=73
+|art=67
+|fth=57
+|civ=106
+|tech=59
+|ss1=Snail DEF +30<br>Per Maxed Constellation, Snail DEF +18<br>Per Maxed Constellation, Snail RUSH +18<br>Constellations Maxed: 10/10
+|ss2=Snail DEF +40<br>Per Maxed Constellation, Snail DEF +24<br>Per Maxed Constellation, Snail RUSH +24<br>Constellations Maxed: 10/10
+|ss3=Snail DEF +50<br>Per Maxed Constellation, Snail DEF +30<br>Per Maxed Constellation, Snail RUSH +30<br>Constellations Maxed: 10/10
+|ss4=Snail DEF +70<br>Per Maxed Constellation, Snail DEF +42<br>Per Maxed Constellation, Snail RUSH +42<br>Constellations Maxed: 10/10
+|ss5=Snail DEF +90<br>Per Maxed Constellation, Snail DEF +54<br>Per Maxed Constellation, Snail RUSH +54<br>Constellations Maxed: 10/10
+|ss6=Snail DEF +120<br>Per Maxed Constellation, Snail DEF +72<br>Per Maxed Constellation, Snail RUSH +72<br>Constellations Maxed: 10/10
+|ss7=Snail DEF +120<br>Per Maxed Constellation, Snail DEF +72<br>Per Maxed Constellation, Snail RUSH +72<br>Constellations Maxed: 10/10<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Quantumamp  skill III.png|50px]]Place in Quantum Amp: This Relic's CIV +15
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +15%
+|skill3=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +30%
+|mirage={{Mirage|name=Ancient Star Chart|reward={{RewardIconWithLink|Nebula Chest, +200|orange}}
+|3name=Vulpecula Chart|3rec=47.91M|3atk=166833|3defense=111301|3hp=7600005|3weak=21295
+|4name=Leo Minor Chart|4rec=61.19M|4atk=194844|4defense=129988|4hp=10039072|4weak=24403
+|5name=UY Scuti Chart|5rec=75.54M|5atk=225097|5defense=150171|5hp=12973322|5weak=29971
+|6name=Sextans Chart|6rec=91.99M|6atk=259785|6defense=173313|6hp=16599936|6weak=32998
+|Arec=109.52M|Aatk=296760|Adefense=197980|Ahp=20962616|Aweak=36082
+}}}}

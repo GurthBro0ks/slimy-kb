@@ -1,0 +1,35 @@
+== Evil Pattern ==
+Statistics show that tattoos increase the boldness of those with tattoos and their unusual death rate.
+
+{{Organ Tabber
+|Name=Evil Pattern
+|Rarity=green
+|ID Number=7
+|Initial HP=10
+|HP Increase=0
+|Initial ATK=1
+|ATK Increase=0
+|Initial DEF=1
+|DEF Increase=0
+|Initial RUSH=0
+|RUSH Increase=0
+|Effect 1=When exploring, Cells collected +5%
+|Initial Effect Value 1=
+|Effect Value Increase 1=
+|Effect 2=
+|Initial Effect Value 2=
+|Effect Value Increase 2=
+|Effect 3=
+|Initial Effect Value 3=
+|Effect Value Increase 3=
+|Effect 4=
+|Initial Effect Value 4=
+|Effect Value Increase 4=
+|}}
+
+== Source ==
+Starting Evolution
+
+[[Category:Organs]]
+[[Category:Green Organs]]
+__NOTOC__

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Dream Control System
+|class_id=22209
+|rank=AAA
+|affct=TECH
+|birthday=05-09
+|source=[[Value_Packs#Gene_Value_Pack|Gene Value Packs]]
+|description=On May 9, 2010 AD, a group of dream thieves snuck into their target's dream through the dream control system.<br>The Dream Control System enables its users to actively sneak into other people's dreams and steal them. In the dream, the thieves gain superhuman strength, whether that means they can distort gravity or change the terrain. If they dream in a dream, you can also sneak into the deeper dream and dig into the dreamer's subconscious. The price is that if you die in the dream, you may get lost in the subconscious and never wake up.
+|fame=41
+|art=36
+|fth=47
+|civ=44
+|tech=75
+|ss1=Per 100 Gene Sim LVLs, Snail ATK +6<br>Per 100 Gene Sim LVLs, Snail RUSH +6<br>Gene Sim LVLs: 4000/4000
+|ss2=Per 100 Gene Sim LVLs, Snail ATK +7<br>Per 100 Gene Sim LVLs, Snail RUSH +7<br>Gene Sim LVLs: 4000/4000
+|ss3=Per 100 Gene Sim LVLs, Snail ATK +8<br>Per 100 Gene Sim LVLs, Snail RUSH +8<br>Gene Sim LVLs: 4000/4000
+|ss4=Per 100 Gene Sim LVLs, Snail ATK +10<br>Per 100 Gene Sim LVLs, Snail RUSH +10<br>Gene Sim LVLs: 4000/4000
+|ss5=Per 100 Gene Sim LVLs, Snail ATK +12<br>Per 100 Gene Sim LVLs, Snail RUSH +12<br>Gene Sim LVLs: 4000/4000
+|ss7=Per 100 Gene Sim LVLs, Snail ATK +12<br>Per 100 Gene Sim LVLs, Snail RUSH +12<br>Gene Sim LVLs: 4000/4000<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: This Relic's TECH +10
+|skill2=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: CRIT DMG +15%
+}}

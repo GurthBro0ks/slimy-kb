@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=289
+|relics=Capricorn,Aquarius
+|rank=orange
+|amount=2
+|category=self
+|description=Troop All ELMT DMG +4%
+}}

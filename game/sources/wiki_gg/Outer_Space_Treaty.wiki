@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Outer Space Treaty
+|class_id=22238
+|rank=SSS
+|affct=FAME
+|birthday=11-10
+|source=
+|description=On Nov 10, 1966 AD, the Outer Space Treaty was formally proposed.<br>The treaty was ratified by the United Nations General Assembly. Its content consists of a preamble and 17 articles with the goal of promoting the equitable and peaceful exploitation of outer space, as well as enhancing international cooperation to pursue mankind's common interests. As the first codified law constituting the legal regime of outer space, its establishment has guiding significance for countries' activities in outer space. More than a hundred countries have signed the treaty to date.
+|fame=107
+|art=60
+|fth=53
+|civ=68
+|tech=74
+|ss1=Quantum Amp production +1.8%<br>Per Constellation activated, Snail ATK +12<br>Per Constellation activated, Snail RUSH +12<br>Constellations Activated: 10/10
+|ss2=Quantum Amp production +2.4%<br>Per Constellation activated, Snail ATK +16<br>Per Constellation activated, Snail RUSH +16<br>Constellations Activated: 10/10
+|ss3=Quantum Amp production +3%<br>Per Constellation activated, Snail ATK +20<br>Per Constellation activated, Snail RUSH +20<br>Constellations Activated: 10/10
+|ss4=Quantum Amp production +4.2%<br>Per Constellation activated, Snail ATK +28<br>Per Constellation activated, Snail RUSH +28<br>Constellations Activated: 10/10
+|ss5=Quantum Amp production +5.4%<br>Per Constellation activated, Snail ATK +36<br>Per Constellation activated, Snail RUSH +36<br>Constellations Activated: 10/10
+|ss6=Quantum Amp production +7.2%<br>Per Constellation activated, Snail ATK +48<br>Per Constellation activated, Snail RUSH +48<br>Constellations Activated: 10/10
+|ss7=Quantum Amp production +7.2%<br>Per Constellation activated, Snail ATK +48<br>Per Constellation activated, Snail RUSH +48<br>Constellations Activated: 10/10<br>Quantum Amp production +6% (Awakened)
+|skill1=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: This Relic's FAME +15
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +15%
+|skill3=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +30%
+|mirage={{Mirage|name=Journey to Outer Space|reward={{RewardIconWithLink|Refine Speedup, +28800|orange}}
+|3name=Orbital Satellite|3rec=49.22M|3atk=169600|3defense=113147|3hp=7934538|3weak=21583
+|4name=Carrier Rocket|4rec=62.82M|4atk=198274|4defense=132276|4hp=10442659|4weak=25143
+|5name=Space Shuttle|5rec=77.48M|5atk=229190|5defense=152901|5hp=13503651|5weak=30423
+|6name=Space Station|6rec=93.95M|6atk=263924|6defense=176074|6hp=17206245|6weak=33369
+|Arec=111.80M|Aatk=301562|Adefense=201184|Ahp=21669396|Aweak=36422
+}}}}

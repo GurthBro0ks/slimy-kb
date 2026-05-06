@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=GPS Locator
+|class_id=20033
+|rank=Green
+|affct=TECH
+|source=
+|description=
+|fame=18
+|art=14
+|fth=18
+|civ=12
+|tech=28
+|ss1=Travel SPD +0.2%
+|ss2=Travel SPD +0.4%
+|ss3=Travel SPD +0.6%
+|ss4=Travel SPD +0.6%
+|ss7=Travel SPD +0.6%<br> (Awakened)
+}}

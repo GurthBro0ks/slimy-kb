@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Pine Trees Screen,Hope Diamond
+|rank=purple
+|amount=2
+|category=other
+|description=Upon traveling through an area: Gain +12 INTEL
+}}
+[[Category:Other]]

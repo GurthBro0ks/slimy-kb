@@ -1,0 +1,15 @@
+{{CargoClone
+|name=The Whole Circus
+|rank=orange
+|cabin=2
+|id=135
+|gene1={race} HP +500
+|gene2={race} FAME +50
+|gene3=Resolver: 4.5% chance +1 Cultivation Fluid
+|gene4=Per 60 Demon Minions in battle,
+Troop Water DMG +6
+|gene5=Domain Cabin, deployable robots +2
+|gene6=Per 60 Demon Minions in battle,
+Troop Water DMG +10
+|gene7=Domain Cabin, deployable robots +3
+|}}

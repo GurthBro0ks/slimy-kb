@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Taurus
+|class_id=21633
+|rank=SSS
+|affct=ART
+|source=
+|description=As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:
+Gold! Gold! Gold! Gold!
+Good or bad, a thousand fold!
+|fame=65
+|art=110
+|fth=76
+|civ=56
+|tech=56
+|ss1=All Minion ATK +10%<br>All Minion DEF +10%<br>In Museum Shop, available Wish Coins +1<br>In Museum Shop, Wish Coin Cost -10%
+|ss2=All Minion ATK +10%<br>All Minion DEF +10%<br>In Museum Shop, available Wish Coins +1<br>In Museum Shop, Wish Coin Cost -10%
+|ss3=All Minion ATK +10%<br>All Minion DEF +10%<br>In Museum Shop, available Wish Coins +1<br>In Museum Shop, Wish Coin Cost -10%
+|ss4=All Minion ATK +10%<br>All Minion DEF +10%<br>In Museum Shop, available Wish Coins +1<br>In Museum Shop, Wish Coin Cost -10%
+|ss5=All Minion ATK +10%<br>All Minion DEF +10%<br>In Museum Shop, available Wish Coins +1<br>In Museum Shop, Wish Coin Cost -10%
+|ss6=All Minion ATK +10%<br>All Minion DEF +10%<br>In Museum Shop, available Wish Coins +1<br>In Museum Shop, Wish Coin Cost -10%
+|ss7=All Minion ATK +10%<br>All Minion DEF +10%<br>In Museum Shop, available Wish Coins +1<br>In Museum Shop, Wish Coin Cost -10%<br>In Museum Shop, available Wish Coins +1 (Awakened)
+|skill1=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, B-tads gained +15%
+|skill2=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Cells collected +30%
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Travel SPD +9%
+|mirage={{Mirage|name=Taurus Star|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Kant|3rec=1.07M|3atk=22496|3defense=14815|3hp=191545|3weak=?
+|4name=Freud|4rec=2.27M|4atk=35997|4defense=23707|4hp=416541|4weak=?
+|5name=Tchaikovsky|5rec=4.49M|5atk=53303|5defense=35104|5hp=818106|5weak=?
+|6name=Cromwell|6rec=8.34M|6atk=74880|6defense=49314|6hp=1470898|6weak=?
+|Arec=14.60M|Aatk=101057|Adefense=66554|Ahp=2445444|Aweak=?
+}}}}

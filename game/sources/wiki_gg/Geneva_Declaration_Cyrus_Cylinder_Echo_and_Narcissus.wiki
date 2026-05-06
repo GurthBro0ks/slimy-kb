@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=540
+|relics=Geneva Declaration,Cyrus Cylinder,Echo and Narcissus
+|rank=orange
+|amount=3
+|category=self
+|description=Per 60 Minions in battle: Troop ELMT RES +4
+}}

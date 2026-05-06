@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Supposedly, Snail Shell is a favorite of Jack the Ripper, who would wear it when out looking for victims and even until when he was sent to the gallows.
+|affct=ART
+|hard=ATK
+|source=
+{{Memetic Catalyst
+|number=9910
+|relic1=Gloomy Sunday
+|relic2=Murder On The Train
+|relic3=Murders in Rue Morgue
+|relic4=Crime and Punishment
+|relic5=Boy with Apple
+}}
+|color=green
+|earth=2
+|water=1
+|fire=2
+|wind=1
+|form=Demon
+|element=Wind
+|realm=Rift
+|orangehard=RUSH
+}}

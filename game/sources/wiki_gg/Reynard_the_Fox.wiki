@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Reynard the Fox
+|class_id=22510
+|rank=AA
+|affct=FAME
+|birthday=02-28
+|source=Lottery Machine No.3 (0.12%)
+|description=On Feb 28, 1107 AD, the story of Reynard the Fox began to spread among the people.<br>Reynard the Fox is a fairy tale adapted and compiled by French writer Madame d'Aulnoy, whose content originates from a long narrative poem circulated in medieval France among folk tales. The story tells about Reynard the Fox interacting with the inhabitants of the animal kingdom, using his wit to pursue profit and avoid harm, manipulating the strong and the weak alike. Reynard's image not only embodies people's wisdom, but also reflects the struggle against feudal power, and also reveals the reality of arbitrary oppression of the lower classes at the time, making the work full of practical significance and an enduring literary masterpiece.
+|fame=67
+|art=39
+|fth=33
+|civ=40
+|tech=49
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop HP +80<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +8
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop HP +120<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +12
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop HP +160<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +16
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop HP +240<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +24
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop HP +320<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +32
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop HP +320<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +32<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Wind DMG +30
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FAME +10
+}}

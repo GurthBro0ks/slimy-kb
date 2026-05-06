@@ -1,0 +1,601 @@
+{{Missing Info|specifics=<br>'''Time Rift Postcard II:''' Everything}}
+
+==National Museum==
+Loan unused [[Relics]] to museums to earn medals.
+
+The Museum can be unlocked while playing through [[Koryeo]] and after defeating [[Hitmen|Hitman No. 3]]. You will be prompted to Modify Hitman No. 3 into {{RewardIconWithText|Deliverbot}} for 10k {{RewardIconWithText|B-Tad}} to place Relics in Museums.
+
+There is one museum for each of the [[Realms]] and each is available after that Realms' final apostle is defeated. After paying enough B-tads, you can add your [[Relics]] to the Museum to show them off and earn medals.  
+
+===How it Works===
+Each museum has a total of 16 stands: 1 main stand, 3 designated stands, and 12 normal stands. Each stand (other than the main stand) has one out of the 5 AFFCTs and is scored based on how high that particular AFFCT value is on the chosen relic. The main stand requires a Tier 3 or above orange relic (depends on the Museum) and the entire AFFCT score counts. The designated stands only take specific relics relating to that realm, listed below, and the normal stands will take any relic. 
+
+===Museum Rating===
+The better the score of your museum, the better the boosts! Replace [Realm] with whichever Museum has this rating. For instance, if your Koryeo Museum had 220 points, then the buff would be "In Koryeo, INTEL gained +5%."
+
+<tabber>
+|-|Realms=
+{| class="wikitable"
+!Rating
+!Req. Points
+!Buff
+|-
+| rowspan="4" |C
+|80 points
+|In [Realm], Snail ATK +20
+|-
+|150 points
+|In [Realm], Snail DEF +20
+|-
+|220 points
+|In [Realm], INTEL gained +5%
+|-
+|290 points
+|[Realm]  Museum B-tad Output +500
+|-
+| rowspan="6" |B
+|360 points
+|[Realm] Museum Medal Output +10
+|-
+|460 points
+|In [Realm], Snail RUSH +20
+|-
+|530 points
+|In [Realm], Snail HP +200
+|-
+|600 points
+|In [Realm], Cells collected +5%
+|-
+|640 points
+|In [Realm] Domain, Troop Casualty -30%
+|-
+|670 points
+|[Realm] Museum B-tad Output +1000
+|-
+| rowspan="5" |A
+|740 points
+|[Realm] Museum Medal Output +20
+|-
+|850 points
+|In [Realm], Snail ATK +50
+|-
+|930 points
+|In [Realm], Snail DEF +50
+|-
+|1010 points
+|In [Realm] Domain, Troop Casualty 30%
+|-
+|1090 points
+|[Realm] Museum B-tad Output +3000
+|-
+| rowspan="4" |S
+|1170 points
+|[Realm] Museum Medal Output +40
+|-
+|1300 points
+|In [Realm], Snail RUSH +50
+|-
+|1400 points
+|In [Realm], Snail HP +500
+|-
+|1650 points
+|[Realm] Museum B-tad Output +5000
+|-
+|S+
+|1800 points
+|[Realm] Museum Medal Output +80
+|}
+
+|-|Rift=
+{| class="wikitable"
+!Rating
+!Req. Points
+!Buff
+|-
+| rowspan="6" |C
+|120 points
+|In the Rift, Snail ATK +40
+|-
+|250 points
+|In the Rift, Snail DEF +40
+|-
+|380 points
+|In the Rift, Travel Speed +2%
+|-
+|520 points
+|In the Rift, DMG +5%
+|-
+|660 points
+|In the Rift, INTEL gained +5%
+|-
+|800 points
+|Rift  Museum B-tad Output +500
+|-
+| rowspan="8" |B
+|950 points
+|Rift Museum Medal Output +10
+|-
+|1100 points
+|In the Rift, Snail RUSH +40
+|-
+|1250 points
+|In the Rift, Snail HP +400
+|-
+|1400 points
+|In the Rift, Travel SPD +2%
+|-
+|1550 points
+|In the Rift, DMG +5%
+|-
+|1700 points
+|In the Rift, Cells collected +5%
+|-
+|1850 points
+|In the Rift, food consumed -5%
+|-
+|2000 points
+|Rift Museum B-tad Output +2000
+|-
+| rowspan="7" |A
+|2200 points
+|Rift Museum Medal Output +40
+|-
+|2400 points
+|In the Rift, Snail ATK +80
+|-
+|2600 points
+|In the Rift, Snail DEF +80
+|-
+|2800 points
+|In the Rift, Travel SPD +2%
+|-
+|3000 points
+|In the Rift, DMG +5%
+|-
+|3200 points
+|In the Rift, B-tads gained +5%
+|-
+|3400 points
+|Rift Museum B-tad Output +6000
+|-
+| rowspan="6" |S
+|3600 points
+|Rift Museum Medal Output +80
+|-
+|3800 points
+|In the Rift, Snail RUSH +80
+|-
+|4000 points
+|In the Rift, Snail HP +800
+|-
+|4300 points
+|In the Rift, Travel SPD +2%
+|-
+|4600 points
+|In the Rift, DMG +5%
+|-
+|5000 points
+|Rift Museum B-tad Output +10000
+|-
+|rowspan="5"|S+
+|5400 points
+|Rift Museum Medal Output +160
+|-
+|5800 points
+|In the Rift, Snail ATK +160
+|-
+|6200 points
+|In the Rift, Snail DEF +160
+|-
+|6600 points
+|In the Rift, DMG +5%
+|-
+|7000 points
+|Rift Museum B-tad Output +15000
+|-
+|rowspan="5"|SS
+|7500 points
+|Rift Museum Medal Output +160
+|-
+|8000 points
+|In the Rift, Snail RUSH +160
+|-
+|8500 points
+|In the Rift, Snail HP +1600
+|-
+|9000 points
+|In the Rift, DMG +5%
+|-
+|9500 points
+|Rift Museum B-tad Output +20000
+|}
+
+|-|Parsia=
+{| class="wikitable"
+!Rating
+!Req. Points
+!Buff
+|-
+| rowspan="4" |C
+|80 points
+|Parsian Exploration, Snail ATK +100
+|-
+|160 points
+|Parsian Exploration, Snail DEF +100
+|-
+|240 points
+|Parsian Exploration, INTEL gained +5%
+|-
+|320 points
+|Parsian  Museum B-tad Output +500
+|-
+| rowspan="6" |B
+|400 points
+|Parsian Exploration: 2% Chance to obtain Double Cards
+|-
+|480 points
+|Parsian Exploration, Snail RUSH +200
+|-
+|560 points
+|Parsian Exploration, Snail HP +2000
+|-
+|640 points
+|Parsian Exploration, Demon God Cells collected +5%
+|-
+|720 points
+|Parsian Exploration, DMG to Enemies -5%
+|-
+|800 points
+|Parsian Museum B-tad Output +1000
+|-
+| rowspan="5" |A
+|880 points
+|Parsian Exploration: 3% Chance to obtain Double Cards
+|-
+|960 points
+|Parsian Exploration, Snail ATK +500
+|-
+|1040 points
+|Parsian Exploration, Snail DEF +500
+|-
+|1120 points
+|Parsian Exploration, DMG to Enemies +5%
+|-
+|1200 points
+|Parsian Museum B-tad Output +3000
+|-
+| rowspan="4" |S
+|1320 points
+|Parsian Exploration: 5% Chance to obtain Double Cards
+|-
+|1450 points
+|Parsian Exploration, Snail RUSH +500
+|-
+|1590 points
+|Parsian Exploration, Snail HP +5000
+|-
+|1740 points
+|Parsian Museum B-tad Output +5000
+|-
+|S+
+|1900 points
+|In explorations, DMG +5%
+|}
+</tabber>
+
+==Museum Relics==
+<tabber>
+|-|Koryeo=
+===Main Stand===
+Tier 4 Orange Relic
+
+===Designated Stands===
+* {{ImageWithLink|King Dangun Statue|orange}}
+* {{ImageWithLink|Annals of Joseon|blue}}
+* {{ImageWithLink|Hun Min Jong Um|blue}}
+
+===Best Relics===
+* {{ImageWithLink|Divine Comedy|orange}} - Medal Output +30 (Lottery Machine #1)
+
+|-|Yamato=
+===Main Stand===
+Tier 5 Orange Relic
+
+===Designated Stands===
+* {{ImageWithLink|Great Wave|blue}}
+* {{ImageWithLink|The Tale of Genji|orange}}
+* {{ImageWithLink|Kani Jade|purple}}
+
+===Best Relics===
+* {{ImageWithLink|Medium Rune|orange}} - Medal Output +30 (Lottery Machine #2)
+
+===P2W Relics===
+* {{ImageWithLink|Aladdin's Carpet|orange}} - Medal Output +30, Medal Cost for Master Scrolls -300 (Daily Silver Pack)
+* {{ImageWithLink|Manga Manuscript|orange}} - Medal Output +30 (Daily Pack Relic)
+
+|-|Cathay=
+===Main Stand===
+Tier 6 Orange Relic
+
+===Designated Stands===
+* {{ImageWithLink|Jade Burial Suit|purple}}
+* {{ImageWithLink|Bronze Bird|blue}}
+* {{ImageWithLink|Imperial Jade|orange}}
+
+===Best Relics===
+* {{ImageWithLink|The Art of War|orange}} - Medal Output +30, Medal Cost for Grandmaster Scrolls -300 (Lottery Machine #1)
+* {{ImageWithLink|Houmuwu Ding|orange}} - Medal Cost for Master Scrolls -300, Medal Output +30 (Lottery Machine #1)
+* {{ImageWithLink|Five Oxen|orange}} - Medal Output +30 (Lottery Machine #2)
+* {{ImageWithLink|Xi Ping Stele Script|orange}} - Medal Output +30 (Wish Relic)
+* {{ImageWithLink|Red Star Design Award|orange}} - Medal Output +30 (Decor Bonus)
+
+===P2W Relics===
+* {{ImageWithLink|Charlemagne Statue|orange}} - Medal Output +30 (Lucky Star???)
+* {{ImageWithLink|Lost Histories|orange}} - Medal Output +30 (Apostle Purge Pack)
+* {{ImageWithLink|Space Elevator|orange}} - Medal Output +30 (Daily Pack)
+* {{ImageWithLink|Tail-burned Guqin|orange}} - Medal Output +30 (Member Reward)
+
+|-|Murika=
+===Main Stand===
+Tier 6 Orange Relic
+
+===Designated Stands===
+* {{ImageWithLink|Mayflower|orange}}
+* {{ImageWithLink|Gone with the Wind|blue}}
+* {{ImageWithLink|ENAC Prototype|purple}}
+
+===Best Relics===
+* {{ImageWithLink|Medal of Honor|orange}} - Medal Output +30 (Lottery Machine #1)
+* {{ImageWithLink|Pandora's Box|orange}} - Medal Output +30 (Lottery Machine #1)
+* {{ImageWithLink|Cybervenatrix Core|orange}} - Medal Output +30 (Lottery Machine #3)
+* {{ImageWithLink|MUSE Design Awards|orange}} - Medal Output +30 (Decor Bonus)
+* {{ImageWithLink|Nightawk|orange}} - Medal Output +30 (Lottery Machine #3)
+* {{ImageWithLink|Architecture MasterPrize|orange}} - Medal Output +30 (Decor Bonus)
+
+===P2W Relics===
+* {{ImageWithLink|Cluckavator|orange}} - 30 Medal Output (Fissure Pack)
+* {{ImageWithLink|Chemical Bond Theory|orange}} - Medal Output +30 (Silver Pack)
+
+===Non-recommended  Relics===
+* {{ImageWithLink|Don Quixote|orange}} - Medal Output +30 (Badge Shop)
+
+|-|Britland=
+===Main Stand===
+Tier 6 Orange Relic
+
+===Designated Stands===
+* {{ImageWithLink|Africa Star|orange}}
+* {{ImageWithLink|Churchill's Cigar|blue}}
+* {{ImageWithLink|Magna Carta|purple}}
+
+===Best Relics===
+* {{ImageWithLink|Faust|orange}} - Medal Output +30 (Lottery Machine #1)
+* {{ImageWithLink|Murder of Roger|orange}} - Medal Output +30 (Lottery Machine #3)
+
+===P2W Relics===
+* {{ImageWithLink|Book of the Dead|orange}} - Medal Output +30 (Member Reward)
+* {{ImageWithLink|Romeo and Juliet|orange}} - Medal Output +30 (Member Reward)
+* {{ImageWithLink|Salvator Mundi|orange}} - Medal Output +30 (Daily Pack Relic)
+* {{ImageWithLink|Wuthering Heights|orange}} - Medal Output +30 (Daily Pack)
+
+|-|Kemet=
+===Main Stand===
+Awakened Orange Relic
+
+===Designated Stands===
+* {{ImageWithLink|Dendera Tablet|blue}}
+* {{ImageWithLink|Cairo Declaration|orange}}
+* {{ImageWithLink|Phoenician Tablet|purple}}
+
+===Best Relics===
+* {{ImageWithLink|Meidum Geese|orange}} - Medal Output +30 (Lottery Machine #3)
+
+===P2W Relics===
+* {{ImageWithLink|Rainbow Feathered Robe|orange}} - Medal Output +30 (Daily Pack)
+* {{ImageWithLink|St. Louisa Goblet|orange}} - Medal Output +30 (Weekly Special Relic)
+* {{ImageWithLink|The Blue Danube|orange}} - Medal Output +30 (Daily Pack)
+
+|-|Hellas=
+===Main Stand===
+Awakened Orange Relic
+
+===Designated Stands===
+* {{ImageWithLink|Euclid's Elements|blue}}
+* {{ImageWithLink|The School of Athens|orange}}
+* {{ImageWithLink|Zoroaster's Torch|purple}}
+
+===Best Relics===
+* {{ImageWithLink|The Graces|orange}} - Medal Output +30 (Lottery Machine #3)
+* {{ImageWithLink|Erinyes' Shackles|orange}} - Medal Output +30 (Wish Relic)
+
+===P2W Relics===
+* {{ImageWithLink|Iliad & Odyssey|orange}} - Medal Output +30 (Daily Pack Relic)
+* {{ImageWithLink|Poetics-Aristotle|orange}} - Medal Output +30 (Daily Pack)
+
+|-|Bharata=
+===Main Stand===
+Awakened Orange Relic
+
+===Designated Stands===
+* {{ImageWithLink|3-Faced Statue|orange}}
+* {{ImageWithLink|Buddha Tooth Sarira|blue}}
+* {{ImageWithLink|Leaf Manuscript|purple}}
+
+===Best Relics===
+* {{ImageWithLink|Gandhara Statue|orange}} - Medal Output +30 (Museum Exhibition)
+* {{ImageWithLink|Maya Slate|orange}} - Medal Output +30 (Lottery Machine #1)
+
+===P2W Relics===
+* {{ImageWithLink|Bronze Shiva Statue|orange}} - Medal Output +30 (Daily Silver Pack)
+* {{ImageWithLink|Golden Revival Stele|orange}} - Medal Output +30 (Museum Exhibition Pack)
+
+===Coming soon Relics===
+* {{ImageWithLink|Babylonian Clay Tablet|orange}} - Medal Output +30 (Cooking Content)
+{|Culinary Shop Purchase}
+|-|Time Rift=
+===Main Stand===
+3 Awakened Orange Relic
+
+===Designated Stands===
+[None]
+
+===Best Relics===
+* {{ImageWithLink|Celestial Throne|orange}} - Medal Output +30 (Lottery Machine #2)
+* {{ImageWithLink|Phaistos Disc|orange}} - Medal Output +30 (Lottery Machine #2)
+|-|Parsia=
+===Main Stand===
+Awakened Orange Relic
+
+===Designated Stands===
+* {{ImageWithLink|Tri-Lion Bronze Candlestick|blue}}
+* {{ImageWithLink|Khosrow Meets Shirin|purple}}
+* {{ImageWithLink|The Royal Hunt Platter|orange}}
+
+===Best Relics===
+* {{ImageWithLink|Lion Oath Ring|orange}} - 30 Museum Output (Parsian Treasure Map/ Relic Forge)
+
+</tabber>
+
+==Museum Shop==
+Once your Relics are placed in museums, the curator will reward you with {{RewardIconWithText|Museum Medal}}s based on your museum ratings! You can then spend these in the Museum Shop. The Museum Shop resets every 72 hours and is on the same timer as the [[Arena#Arena_Shop|Arena Shop]], [[Club#Club_Shop|Club Shop]], and [[Fissure#Fissure_Shop|Fissure Shop]].
+
+{{ShopRowHeader|Museum Shop|Museum Medal}}
+!rowspan="32"|
+{{ShopRow|Top Books, <br>Must Be Purchased<br>To Gain Access to Postcards<br>and Weekly Book Sharing|green|200}}
+{{ShopRow|Novice Packs, <br>[[Museum#Novice_Pack|See Below]]|orange|5|Postcards, <br>[[Museum#Postcard|See Below]]|orange|5|Wish Coin, +1<br>Purchase 3 Times Per Reset|orange|135}}
+{{ShopRow|Travel Speedup, +30m<br>Purchase 3 Times Per Reset|blue|15|Travel Speedup, +1h<br>Purchase 3 Times Per Reset|purple|30|Travel Speedup, +2h<br>Purchase 3 Times Per Reset|orange|60}}
+{{ShopRow|Novice Alchemy Case, +1<br>Purchase 1 Times Per Reset|blue|200|Expert Alchemy Case, +1<br>Purchase 1 Times Per Reset|purple|400|Master Alchemy Case, +1<br>Purchase 1 Times Per Reset|orange|800}}
+{{ShopRow|Expert Scroll, +10<br>Purchase 2 Times Per Reset|purple|1250|Master Scroll, +10<br>Purchase 4 Times Per Reset|orange|2350|Grandmaster Scroll, +10<br>Purchase 4 Times Per Reset|orange|3700}}
+{{ShopRow|Curator's Collection, +1<br>Purchase 1 Time Per Reset|orange|1000|Koryeon Treasure Map, +10<br>Purchase 5 Times Per Reset|orange|100|Yamato Treasure Map, +10<br>Purchase 5 Times Per Reset|orange|100}}
+{{ShopRow|Cathay Treasure Map, +10<br>Purchase 5 Times Per Reset|orange|100|Murikan Treasure Map, +10<br>Purchase 5 Times Per Reset|orange|100|Britland Treasure Map, +10<br>Purchase 5 Times Per Reset|orange|100}}
+{{ShopRow|Kemetic Treasure Map, +10<br>Purchase 5 Times Per Reset|orange|100|Hellenic Treasure Map, +10<br>Purchase 5 Times Per Reset|orange|100|Bharata Treasure Map, +10<br>Purchase 5 Times Per Reset|orange|100}}
+{{ShopRow|Rift Treasure Map, +10<br>Purchase 5 Times Per Reset|orange|100|Parsia Treasure Map, +10<br>Purchase 5 Times Per Reset|orange|100}}
+{{ShopRow|Curator's Helmet|orange|50k|Crystal of Will, <br>Purchase 2 Times Total<br>Only available after<br>purchasing Curator's Helmet|orange|100k|Athena's Delight, <br>Only available after<br>purchasing both Crystal of Wills|orange|200k}}
+|}
+
+===Novice Pack===
+There's one Novice Pack for each of the first eight [[Realms]]. They can be purchased once you have begun an exploration within that Realm and all previous packs have been purchased. Each Novice Pack costs 5 {{RewardIconWithLink|Museum Medal}}. 
+
+Each pack rewards: 
+* {{RewardIconWithText|Travel Speedup, +2h}}
+* Treasure Map +30 for that Realm
+* {{RewardIconWithText|INTEL, +1.2k}} for that Realm
+
+
+Once you reach the [[Time Rift]], Time Keeper Packs become available that are based on the number of [[Time_Beacon#Time_Keepers|Time Keepers]] that are defeated. They remain 5 {{RewardIconWithLink|Museum Medal}} per pack.
+
+<tabber>
+|-|Time Keeper Pack I=
+Defeat 5 [[Time_Beacon#Time_Keepers|Time Keepers]]
+* {{RewardIconWithText|Time Worm, +400}}
+* {{RewardIconWithText|Travel Speedup, +6h}}
+* {{RewardIconWithLink|Rift Treasure Map, +100}}
+* {{RewardIconWithLink|Time Rift INTEL, +20k}}
+
+|-|Time Keeper Pack II=
+Defeat 15 [[Time_Beacon#Time_Keepers|Time Keepers]]
+
+Rewards:
+* {{RewardIconWithText|Time Worm, +600}}
+* {{RewardIconWithText|Travel Speedup, +6h}}
+* {{RewardIconWithLink|Rift Treasure Map, +100}}
+* {{RewardIconWithLink|Time Rift INTEL, +40k}}
+
+|-|Time Keeper Pack III=
+Defeat 20 [[Time_Beacon#Time_Keepers|Time Keepers]]
+
+Rewards:
+* {{RewardIconWithText|Time Worm, +800}}
+* {{RewardIconWithText|Travel Speedup, +8h}}
+* {{RewardIconWithLink|Rift Treasure Map, +150}}
+* {{RewardIconWithLink|Time Rift INTEL, +60k}}
+
+|-|Time Keeper Pack IV=
+Defeat 30 [[Time_Beacon#Time_Keepers|Time Keepers]]
+
+Rewards:
+* {{RewardIconWithText|Time Worm, +1k}}
+* {{RewardIconWithText|Travel Speedup, +8h}}
+* {{RewardIconWithLink|Rift Treasure Map, +150}}
+* {{RewardIconWithLink|Time Rift INTEL, +80k}}
+
+|-|Time Keeper Pack V=
+Defeat 40 [[Time_Beacon#Time_Keepers|Time Keepers]]
+
+Rewards:
+* {{RewardIconWithText|Time Worm, +1.2k}}
+* {{RewardIconWithText|Travel Speedup, +10h}}
+* {{RewardIconWithLink|Rift Treasure Map, +200}}
+* {{RewardIconWithLink|Time Rift INTEL, +100k}}
+</tabber>
+
+===Postcard===
+Once each Realm is at 100%, you can purchase its postcard in the form of a green relic. You'll also get {{RewardIconWithText|Travel Speedup, +2h}} and 100 Treasure Maps of that area. These Postcards are a must! 
+
+Once the {{RewardIconWithLink|Bharata Postcard|green}} is purchased, the [[Time Rift]] Souvenir Card I pack is available. This can be purchased after 20 [[Time Rift Apostles]] have been dominated and rewards:
+* {{RewardIconWithText|Travel Speedup, +10h}}
+* {{RewardIconWithLink|Rift Treasure Map, +500}}
+* {{RewardIconWithLink|Time Rift Postcard I|green}}
+
+After the purchase of [[Time Rift]] Souvenir Card I pack, the {{RewardIconWithLink|Time Rift Postcard II|green}} is available. This can be puchased after 40 [[Time Rift Apostles]] have been dominated and rewards:
+* {{RewardIconWithText|Travel Speedup, +10h}}
+* {{RewardIconWithLink|Rift Treasure Map, +500}}
+* {{RewardIconWithLink|Time Rift Postcard II|green}}
+
+After the purchase of [[Time Rift]] Souvenir Card II pack, the {{RewardIconWithLink|Time Rift Postcard III|green}} is available. This can be puchased after 60 [[Time Rift Apostles]] have been dominated and rewards:
+* {{RewardIconWithText|Travel Speedup, +10h}}
+* {{RewardIconWithLink|Rift Treasure Map, +500}}
+* {{RewardIconWithLink|Time Rift Postcard III|green}}
+
+After the purchase of [[Time Rift]] Souvenir Card III pack, the {{RewardIconWithLink|Time Rift Postcard IV|green}} is available. This can be puchased after 80 [[Time Rift Apostles]] have been dominated and rewards:
+* {{RewardIconWithText|Travel Speedup, +10h}}
+* {{RewardIconWithLink|Rift Treasure Map, +500}}
+* {{RewardIconWithLink|Time Rift Postcard IV|green}}
+
+{| class="wikitable" style="width:100%; text-align:center;"
+|-
+!style="background-color:var(--green-bg);" |{{ImageWithLinkAndBreak|Koryeon Postcard}}
+!style="background-color:var(--green-bg);" |{{ImageWithLinkAndBreak|Yamato Postcard}}
+!style="background-color:var(--green-bg);" |{{ImageWithLinkAndBreak|Cathay Postcard}}
+!style="background-color:var(--green-bg);" |{{ImageWithLinkAndBreak|Murikan Postcard}}
+|-
+!style="background-color:var(--green-bg);" |{{ImageWithLinkAndBreak|Britland Postcard}}
+!style="background-color:var(--green-bg);" |{{ImageWithLinkAndBreak|Kemetic Postcard}}
+!style="background-color:var(--green-bg);" |{{ImageWithLinkAndBreak|Hellenic Postcard}}
+!style="background-color:var(--green-bg);" |{{ImageWithLinkAndBreak|Bharata Postcard}}
+|-
+!style="background-color:var(--green-bg);" |{{ImageWithLinkAndBreak|Parsia Postcard}}
+|-
+!style="background-color:var(--green-bg);" |{{ImageWithLinkAndBreak|Time Rift Postcard I}}
+!style="background-color:var(--green-bg);" |{{ImageWithLinkAndBreak|Time Rift Postcard II}}
+!style="background-color:var(--green-bg);" |{{ImageWithLinkAndBreak|Time Rift Postcard III}}
+!style="background-color:var(--green-bg);" |{{ImageWithLinkAndBreak|Time Rift Postcard IV}}
+|}
+
+==Promotions==
+Increase the museum's yields through promotions! One promotion is available for each National Museum daily, which will increase visitors to boost the yields. Promotions can be obtained through explorations, [[Nursery#Chore_Dispatch|Chore Dispatch]], or purchased with W-Tads (when attempting to use a promotion you do not own).
+
+Each Museum can only have 1 promotion at a time, and each lasts for 24 hours, boosting medal and B-tad production of that museum.
+{| class="wikitable"
+!Image
+!Effect
+!{{RewardIconWithText|W-Tad}} Cost (without flyer)
+|-
+|{{RewardIconWithLink|Extras|green|Extras|50}}
+|{{RewardIconWithLink|Museum Medal|orange}} Output +6%<br>{{RewardIconWithText|B-Tad}} Output +6%
+|25
+|-
+|{{RewardIconWithLink|Starlet|blue|Starlet|50}}
+|{{RewardIconWithLink|Museum Medal|orange}} Output +14%<br>{{RewardIconWithText|B-Tad}} Output +14%
+|70
+|-
+|{{RewardIconWithLink|Star Flyer|purple|Star Flyer|50}}
+|{{RewardIconWithLink|Museum Medal|orange}} Output +22%<br>{{RewardIconWithText|B-Tad}} Output +22%
+|140
+|-
+|{{RewardIconWithLink|World Superstar|orange|World Superstar|50}}
+|{{RewardIconWithLink|Museum Medal|orange}} Output +30%<br>{{RewardIconWithText|B-Tad}} Output +30%
+|260
+|}
+
+[[Category:Museum]]

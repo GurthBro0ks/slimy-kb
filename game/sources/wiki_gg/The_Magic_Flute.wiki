@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Magic Flute
+|class_id=22650
+|rank=SSS
+|affct=ART
+|birthday=09-28
+|source=Lottery Machine No.3 (0.12%)
+|description=On Sept 28, 1780 AD, Mozart completed the opera The Magic Flute.<br>The Magic Flute is one of Mozart's most outstanding operas and his last. Despite his deteriorating physical condition, he devoted himself wholeheartedly to the creation of this masterpiece with the help of his supporters. The opera tells the story of the Egyptian prince Tamino's adventures, his ultimate victory over the Queen of the Night, and his marriage to Princess Pamina. The opera integrates the music and theatrical performance techniques of many countries and is both rigorous and lively, making it a masterpiece of opera.
+|fame=59
+|art=109
+|fth=65
+|civ=68
+|tech=61
+|ss1=Snail ATK +30<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +72<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +72<br>Epic Protodex Stars: 100/100
+|ss2=Snail ATK +40<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +96<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +96<br>Epic Protodex Stars: 100/100
+|ss3=Snail ATK +50<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +120<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +120<br>Epic Protodex Stars: 100/100
+|ss4=Snail ATK +70<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +168<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +168<br>Epic Protodex Stars: 100/100
+|ss5=Snail ATK +90<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +216<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +216<br>Epic Protodex Stars: 100/100
+|ss6=Snail ATK +120<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +288<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +288<br>Epic Protodex Stars: 100/100
+|ss7=Snail ATK +120<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +288<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +288<br>Epic Protodex Stars: 100/100<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: Exploration Egg hatching efficiency +30%
+|skill2=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: This Relic's ART +15
+|skill3=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: Green rewards from this egg turn Blue by 6%
+|mirage={{Mirage|name=Stories of the Magic Flute|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Queen of the Night|3rec=102.64M|3atk=298451|3defense=188300|3hp=15543386|3weak=34771
+|4name=Sarastro|4rec=117.80M|4atk=332849|4defense=209626|4hp=17614319|4weak=36225
+|5name=Pamina|5rec=135.66M|5atk=375032|5defense=234753|5hp=21903951|5weak=37939
+|6name=Prince Tamino|6rec=162.86M|6atk=440190|6defense=273025|6hp=28627316|6weak=39953
+|Arec=193.86M|Aatk=514940|Adefense=316646|Ahp=37574334|Aweak=42716
+}}}}

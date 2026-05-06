@@ -1,0 +1,12 @@
+{{CargoClone
+|name=John Tooth
+|rank=blue
+|cabin=2
+|id=24
+|gene1={race} RUSH +20
+|gene2={race} FTH +20
+|gene3=Refine +1 White Rebel Material +1%
+|gene4=Per 10 Mecha Minions in battle:
+> Troop RUSH +2
+|gene5=Refine +1 White Rebel Material +2%
+|}}

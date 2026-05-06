@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=312
+|relics=Earthly Delight Garden,The Blue Marble
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Angel Minions in battle: Troop DEF +5
+}}

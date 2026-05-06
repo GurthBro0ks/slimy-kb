@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=An accessory for the fireplace, distributed by the travelers. It is to remind Snail to protect their environment at all times. The PETA opposes handing out animal skulls, so now they hand out frozen mammoths.
+|affct=ART
+|hard=DEF
+|source=Divine Chaos Chest (0.2%)
+|color=purple
+|earth=8
+|water=6
+|fire=5
+|wind=7
+|form=Demon
+|element=Fire
+|realm=Bharata
+|orangehard=RUSH
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=663
+|relics=Field Propulsion,Bramah Hydraulic Press
+|rank=purple
+|amount=2
+|category=self
+|description=Per 10 Epic Protomon fused, Snail ATK +12;Epic Protomon Fused: 200/200
+}}

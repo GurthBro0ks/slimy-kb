@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=459
+|relics=Head of Sargon,Capitoline Wolf
+|rank=orange
+|amount=2
+|category=self
+|description=Per 2 ART Master Scrolls used, Snail RUSH +7;ART Master Scrolls Used: 100/100
+}}

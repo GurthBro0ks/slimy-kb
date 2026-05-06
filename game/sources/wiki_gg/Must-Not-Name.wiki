@@ -1,0 +1,320 @@
+==Must-Not-Name ♂==
+A shabby-looking wizard; Forbidden name, unpleasant looks, knows few spells, and bad SFX!
+
+===Begin Friendship===
+To obtain Must-Not-Name, completely defeat the {{RewardIconWithLink|Soul Stone|orange}} mirage.
+
+===☆☆☆ > ★★★===
+After 5 letters back and forth, Must-Not-Name will move in permanently with his minion, [[Minions|Frost Drake]].
+
+==Rent==
+[[File:Must-Not-Name rent.png|frameless|left]]
+
+Must-Not-Name rent is collected on '''Sunday''' and appears as a lit candelabra on the table.
+
+ '''Normal Rent''': {{RewardIconWithText|Blue Reagent, +10|blue}}
+
+ '''Rare Rent''': {{RewardIconWithText|Purple Reagent, +10|purple}}; {{RewardIconWithText|Orange Reagent, +10|orange}}; {{RewardIconWithLink|Golden Menorah|blue}}
+
+ '''1-time Rent''': {{RewardIconWithLink|Anathema Scroll|green}}; {{RewardIconWithLink|Bloodthirsty Scroll|green}}; {{RewardIconWithLink|Stone Skin Scroll|green}}
+
+{{clear}}
+
+==Relics==
+Upgrading these will earn Offering Speedup!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|Offering Speedup +1h
+|-
+|★★
+|Offering Speedup +1h
+|-
+|★★★
+|Offering Speedup +1h
+|-
+|★★★★
+|Offering Speedup +2h
+|-
+|★★★★★
+|Offering Speedup +3h
+|-
+|★★★★★★
+|Offering Speedup +4h
+|}<br>
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{ImageWithLink|Eye of Medusa}}
+!style="background-color:var(--blue-bg);"|{{ImageWithLink|Ranjyatai Incense}}
+!style="background-color:var(--purple-bg);"|{{ImageWithLink|Fallen Lucifer}}
+!style="background-color:var(--purple-bg);"|{{ImageWithLink|Sorron's Eye}}
+|-
+!style="background-color:var(--orange-bg);"|{{ImageWithLink|Mahakala Scroll}}
+!style="background-color:var(--orange-bg);"|{{ImageWithLink|Forbidden Fruit}}
+!style="background-color:var(--orange-bg);"|{{ImageWithLink|Blood of Cain}}
+!style="background-color:var(--orange-bg);"|{{ImageWithLink|Artificial Blackhole}}
+|}
+
+==Nameless Black Magic==
+Although nameless and average, this black magic is still good enough to scare someone...
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||FTH +5||Free Gene Speedup (Demon) +30s
+|-
+|2||180||2k||FTH +10||Free Gene Speedup (Demon) +1m
+|-
+|3||190||4.5k||FTH +15||Free Gene Speedup (Demon) +1m30s
+|-
+|4||200||8k||FTH +20||Free Gene Speedup (Demon) +2m
+|-
+|5||210||12.5k||FTH +25||Free Gene Speedup (Demon) +2m30s
+|-
+|6||220||18k||FTH +30||Free Gene Speedup (Demon) +3m
+|-
+|7||230||24.5k||FTH +35||Free Gene Speedup (Demon) +3m30s
+|-
+|8||240||32k||FTH +40||Free Gene Speedup (Demon) +4m
+|-
+|9||250||40.5k||FTH +45||Free Gene Speedup (Demon) +4m30s
+|-
+|10||260||50k||FTH +50||Free Gene Speedup (Demon) +5m
+|-
+|11||270||60.5k||FTH +55||Free Gene Speedup (Demon) +5m30s
+|-
+|12||285||72k||FTH +60||Free Gene Speedup (Demon) +6m
+|-
+|13||300||84.5k||FTH +65||Free Gene Speedup (Demon) +6m30s
+|-
+|14||315||98k||FTH +70||Free Gene Speedup (Demon) +7m
+|-
+|15||330||112k||FTH +75||Free Gene Speedup (Demon) +7m30s
+|-
+|16||345||123k||FTH +80||Free Gene Speedup (Demon) +8m
+|-
+|17||360||144k||FTH +85||Free Gene Speedup (Demon) +8m30s
+|-
+|18||375||162k||FTH +90||Free Gene Speedup (Demon) +9m
+|-
+|19||390||180k||FTH +95||Free Gene Speedup (Demon) +9m30s
+|-
+|20||400||200k||FTH +100||Free Gene Speedup (Demon) +10m
+|-
+|21||420||220k||FTH +105||Free Gene Speedup (Demon) +10m30s
+|-
+|22||440||242k||FTH +110||Free Gene Speedup (Demon) +11m
+|-
+|23||460||264k||FTH +115||Free Gene Speedup (Demon) +11m30s
+|-
+|24||480||285k||FTH +120||Free Gene Speedup (Demon) +12m
+|-
+|25||500||309k||FTH +125||Free Gene Speedup (Demon) +12m30s
+|-
+|26||520||333k||FTH +130||Free Gene Speedup (Demon) +13m
+|-
+|27||540||357k||FTH +135||Free Gene Speedup (Demon) +13m30s
+|-
+|28||560||381k||FTH +140||Free Gene Speedup (Demon) +14m
+|-
+|29||580||405k||FTH +145||Free Gene Speedup (Demon) +14m30s
+|-
+|30||600||429k||FTH +150||Free Gene Speedup (Demon) +15m
+|}
+
+==Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Nameless Black Magic is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +10
+|-
+|2||4k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +20
+|-
+|3||6k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +30
+|-
+|4||8k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +40
+|-
+|5||10k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +50
+|-
+|6||12k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +60
+|-
+|7||14k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +70
+|-
+|8||16k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +80
+|-
+|9||18k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +90
+|-
+|10||20k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +100
+|-
+|11||22k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +110
+|-
+|12||24k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +120
+|-
+|13||26k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +130
+|-
+|14||28k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +140
+|-
+|15||30k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +150
+|-
+|16||32k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +160
+|-
+|17||34k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +170
+|-
+|18||36k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +180
+|-
+|19||38k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +190
+|-
+|20||40k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +200
+|-
+|21||42k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +210
+|-
+|22||44k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +220
+|-
+|23||46k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +230
+|-
+|24||48k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +240
+|-
+|25||50k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +250
+|-
+|26||55k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +260
+|-
+|27||60k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +270
+|-
+|28||65k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +280
+|-
+|29||70k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +290
+|-
+|30||75k||Dragon Minion MAX +1||Per 10 Frost Drakes in battle, Troop ATK +300
+|}
+
+==Research Ability==
+Below is a table of the research manual cost to upgrade each research gene. Must-Not-Name specializes in '''Dragon Genes''' and therefore the research manual cost for the Dragon is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+==Minion - Frost Drake==
+Before a dragon of the Weset dies, it will fly to the cold north and bury itself in the snow for a chance to become a frost dragon after death!
+
+===Special Ability - Frozen Aura===
+Per 10 Frost Drakes in battle, Troop Water DMG +1 (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Frost Drakes!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{ImageWithLinkAndBreak|Traveler Manual}}
+|Frost Drake HP +1%
+|Frost Drake DEF +1%
+|Frost Drake ATK +1%
+|Frost Drake RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{ImageWithLinkAndBreak|Musketeer Mask}}
+|Frost Drake HP +1%
+|Frost Drake DEF +1%
+|Frost Drake ATK +1%
+|Frost Drake RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{ImageWithLinkAndBreak|Voynich Manuscript}}
+|Frost Drake HP +2%
+|Frost Drake DEF +2%
+|Frost Drake ATK +2%
+|Frost Drake RUSH +2%
+|Frost Drake All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{ImageWithLinkAndBreak|Peacock Suit}}
+|Frost Drake HP +2%
+|Frost Drake DEF +2%
+|Frost Drake ATK +2%
+|Frost Drake RUSH +2%
+|Frost Drake All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{ImageWithLinkAndBreak|Bronze Shiva Statue}}
+|Frost Drake HP +4%
+|Frost Drake HP +4%
+|Frost Drake HP +4%
+|Frost Drake HP +4%
+|Frost Drake HP +4%
+|Frost Drake HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{ImageWithLinkAndBreak|Creation of Adam}}
+|Frost Drake DEF +4%
+|Frost Drake DEF +4%
+|Frost Drake DEF +4%
+|Frost Drake DEF +4%
+|Frost Drake DEF +4%
+|Frost Drake DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{ImageWithLinkAndBreak|Relativity Scripts}}
+|Frost Drake ATK +4%
+|Frost Drake ATK +4%
+|Frost Drake ATK +4%
+|Frost Drake ATK +4%
+|Frost Drake ATK +4%
+|Frost Drake ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{ImageWithLinkAndBreak|Encyclopedia}}
+|Frost Drake RUSH +4%
+|Frost Drake RUSH +4%
+|Frost Drake RUSH +4%
+|Frost Drake RUSH +4%
+|Frost Drake RUSH +4%
+|Frost Drake RUSH +4%
+|-
+|}
+
+[[Category:Partners]]

@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Diffraction Device
+|class_id=22329
+|rank=S
+|affct=TECH
+|birthday=09-15
+|source=Lottery Machine No.2 (1.45%), Wishing (5.4%)
+|description=On Sept 15, 1927 AD, Davisson and Germer discovered electron diffraction using this device.<br>Davisson and Germer, two American physicists, used this device in their Davisson-Germer experiment. They discovered electron diffraction by observing electron beam scattering from the surface of a nickel crystal and noticing a discontinuity in the spatial distribution of the scattered beams. This finding demonstrated electron fluctuation and supported De Broglie's theory that electrons have wave-particle duality, which served as the experimental foundation for quantum mechanics.
+|fame=63
+|art=56
+|fth=62
+|civ=54
+|tech=97
+|ss1=Snail ATK +10<br>Per 60 Mecha Minions in battle:<br>> Troop HP +90<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +9
+|ss2=Snail ATK +20<br>Per 60 Mecha Minions in battle:<br>> Troop HP +180<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +18
+|ss3=Snail ATK +30<br>Per 60 Mecha Minions in battle:<br>> Troop HP +270<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +27
+|ss4=Snail ATK +50<br>Per 60 Mecha Minions in battle:<br>> Troop HP +450<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +45
+|ss5=Snail ATK +70<br>Per 60 Mecha Minions in battle:<br>> Troop HP +630<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +63
+|ss6=Snail ATK +100<br>Per 60 Mecha Minions in battle:<br>> Troop HP +900<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +90
+|ss7=Snail ATK +100<br>Per 60 Mecha Minions in battle:<br>> Troop HP +900<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +90<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion DEF +9%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +600
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Snail RUSH +600
+|mirage={{Mirage|name=Proof of Matter Waves|reward={{RewardIconWithLink|Refine Speedup, +28800|orange}}
+|3name=Germer|3rec=15.98M|3atk=104634|3defense=69805|3hp=3234321|3weak=17674
+|4name=Davisson|4rec=39.22M|4atk=148517|4defense=99081|4hp=6270961|4weak=19865
+|Arec=65.26M|Aatk=203419|Adefense=135709|Ahp=10970548|Aweak=26266
+}}}}

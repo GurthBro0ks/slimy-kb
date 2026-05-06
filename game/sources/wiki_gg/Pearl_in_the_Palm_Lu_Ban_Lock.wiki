@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=630
+|relics=Pearl in the Palm,Lu Ban Lock
+|rank=blue
+|amount=2
+|category=self
+|description=In Follower Recruitment, 2x Amber Drops +5%
+}}

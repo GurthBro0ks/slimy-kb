@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Stalwart Zhao Yun
+|rank=orange
+|cabin=2
+|id=166
+|gene1={race} HP +500
+|gene2={race} FTH +50
+|gene3=Water DMG +30
+|gene4=Per 60 Dragon Minions in battle,
+Troop Water DMG +6
+|gene5=Dragon Minion Skin HP +30%
+|gene6=Per 60 Dragon Minions in battle,
+Troop Water DMG +10
+|gene7=Dragon Minion Skin HP +50%
+|}}

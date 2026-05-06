@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=West Lake Fish Vinegar
+|class_id=20551
+|rank=Green
+|affct=CIV
+|source=
+|description=A renowned dish from Cathay, known for its stark contrast in flavor and appearance, has left countless tourists questioning their life choices. Amidst the layers of doubt, no one knows where to find the most authentic West Lake Vinegar Fish.
+|fame=19
+|art=16
+|fth=13
+|civ=30
+|tech=12
+|ss1=Snail HP +100<br>Per type of food collected, Snail DEF +1<br>Types of Food Collected: 60/60
+|ss2=Snail HP +200<br>Per type of food collected, Snail DEF +2<br>Types of Food Collected: 60/60
+|ss3=Snail HP +300<br>Per type of food collected, Snail DEF +3<br>Types of Food Collected: 60/60
+|ss4=Snail HP +300<br>Per type of food collected, Snail DEF +3<br>Types of Food Collected: 60/60
+|ss7=Snail HP +300<br>Per type of food collected, Snail DEF +3<br>Types of Food Collected: 60/60<br> (Awakened)
+}}

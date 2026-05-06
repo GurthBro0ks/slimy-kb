@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Prodigy Chong
+|rank=orange
+|cabin=2
+|id=169
+|gene1={race} RUSH +50
+|gene2={race} FTH +50
+|gene3=Wind DMG +30
+|gene4=Per 60 Mutant Minions in battle,
+Troop Wind DMG +6
+|gene5=Mutant Minion Recovery SPD +1.5%
+|gene6=Per 60 Mutant Minions in battle,
+Troop Wind DMG +10
+|gene7=Mutant Minion Recovery SPD +2.5%
+|}}

@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Murderous Bones
+|type=Bionic
+|rank=blue
+|id=10654
+|idx=11
+|description=A skeletal armor oozing dread. Listen closely… are those wails of trapped souls or just tinnitus?
+|skill=Summon a Bone Thorn Armor, dealing DMG
+equal to 154% of ATK!
+|hp=1466
+|def=109
+|atk=76
+|rush=86
+|gene1=During exploration, Fire DMG +60
+|gene2=In explorations, {race} HP +200
+|gene3=In explorations, DMG REDUC +2%
+|gene7=Fire DMG +90 (Awakened)
+|}}

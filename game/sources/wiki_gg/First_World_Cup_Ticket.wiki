@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=First World Cup Ticket
+|class_id=22016
+|rank=Blue
+|affct=FAME
+|birthday=07-30
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Jul 30, 1930 AD, the first World Cup was held at the Century Stadium in Uruguay.<br>The first World Cup was held in Uruguay. A total of 13 teams competed in the game. After the intense competition, US, Yugoslavia, Argentina, and Uruguay entered the semi-finals, and the grand final was Argentina versus Uruguay. Uruguay ended up winning the game with 4-2, becoming the first World Cup champion. The ticket, as the eyewitness of the event, was viewed as a precious collection.
+|fame=45
+|art=23
+|fth=21
+|civ=31
+|tech=34
+|ss1=Per 5 Orange Museum Promos, Snail ATK +1<br>Orange Museum Promos: 250/250
+|ss2=Per 5 Orange Museum Promos, Snail ATK +2<br>Orange Museum Promos: 250/250
+|ss3=Per 5 Orange Museum Promos, Snail ATK +3<br>Orange Museum Promos: 250/250
+|ss4=Per 5 Orange Museum Promos, Snail ATK +5<br>Orange Museum Promos: 250/250
+|ss7=Per 5 Orange Museum Promos, Snail ATK +5<br>Orange Museum Promos: 250/250<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x White Card Drops +1%
+}}

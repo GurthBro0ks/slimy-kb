@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Crystal Insect Eye
+|type=Common
+|rank=blue
+|id=10808
+|idx=9
+|description=These eyes are fashioned upon insect eyes, with thousands of lenses working together to portray an accurate image, reaching unprecedented precision and resolution.
+|skill=
+|hp=1638
+|def=96
+|atk=87
+|rush=71
+|gene1=Per 5 Apostles defeated, {race} RUSH +10
+Apostles defeated: 15/15
+|gene2=In exploration, 2% chance to gain 2x Treasure Maps
+|gene3=In explorations, B-tads gained +2.5%
+|gene7=In explorations, B-tads gained +2.5% (Awakened)
+|}}

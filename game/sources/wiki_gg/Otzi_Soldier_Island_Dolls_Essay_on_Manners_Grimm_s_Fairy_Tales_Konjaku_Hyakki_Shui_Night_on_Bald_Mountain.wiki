@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=711
+|relics=Otzi,Soldier Island Dolls,Essay on Manners,Grimm's Fairy Tales,Konjaku Hyakki Shui,Night on Bald Mountain
+|rank=purple
+|amount=6
+|category=self
+|description=All minion skins RUSH +100%
+}}

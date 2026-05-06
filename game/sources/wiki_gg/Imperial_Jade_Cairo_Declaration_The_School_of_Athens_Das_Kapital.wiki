@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Imperial Jade,Cairo Declaration,The School of Athens,Das Kapital
+|rank=orange
+|amount=4
+|category=self
+|description=Per Divine Dragon Descent, Snail HP +360<br>Divine Dragon Descents: 20/20
+}}
+[[Category:Self]]

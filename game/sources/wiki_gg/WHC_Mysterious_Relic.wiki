@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=WHC,Mysterious Relic
+|rank=orange
+|amount=2
+|category=minion
+|description=Per 60 T7+ Mecha Minions in battle: Troop Hard Stats +70
+}}
+[[Category:Minion]]
+[[Category:Mecha Minion HARD Boost]]

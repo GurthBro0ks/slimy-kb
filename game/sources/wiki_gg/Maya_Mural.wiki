@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Maya Mural
+|class_id=22327
+|rank=SSS
+|affct=CIV
+|birthday=06-03
+|source=
+|description=On Jun 3, 800 BC, ancient Maya created this mural.<br>This mural was discovered at the ruins of a small Maya city-state in the Bonampak region. It is colorful and covers every wall of the three-chambered temple, depicting the ancient Maya tribes from conquest to victory and celebration in fine detail. The exceptional painting skills displayed in the image astound people's knowledge of ancient Maya painting.
+|fame=71
+|art=63
+|fth=68
+|civ=108
+|tech=52
+|ss1=Per 60 Minions in battle:<br>> Troop DEF +9<br>Per 60 Minions in battle:<br>> Troop RUSH +9<br>Per 60 Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Per 60 Minions in battle:<br>> Troop DEF +18<br>Per 60 Minions in battle:<br>> Troop RUSH +18<br>Per 60 Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Per 60 Minions in battle:<br>> Troop DEF +27<br>Per 60 Minions in battle:<br>> Troop RUSH +27<br>Per 60 Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Per 60 Minions in battle:<br>> Troop DEF +45<br>Per 60 Minions in battle:<br>> Troop RUSH +45<br>Per 60 Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Per 60 Minions in battle:<br>> Troop DEF +63<br>Per 60 Minions in battle:<br>> Troop RUSH +63<br>Per 60 Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Per 60 Minions in battle:<br>> Troop DEF +90<br>Per 60 Minions in battle:<br>> Troop RUSH +90<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Per 60 Minions in battle:<br>> Troop DEF +90<br>Per 60 Minions in battle:<br>> Troop RUSH +90<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop Wind DMG +60
+|skill2=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop DEF +9%
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop DMG +6%
+|mirage={{Mirage|name=Triumph Ceremony|reward={{RewardIconWithLink|Unknown Record, +3|orange}}
+|3name=Orgiastic Warrior|3rec=50.09M|3atk=171429|3defense=114367|3hp=8060156|3weak=21775
+|4name=Terrified Captive|4rec=63.90M|4atk=200561|4defense=133802|4hp=10593538|4weak=25638
+|5name=Spearman|5rec=78.78M|5atk=231934|5defense=154732|5hp=13718566|5weak=30674
+|6name=Tribal Chief|6rec=95.25M|6atk=266668|6defense=177905|6hp=17445525|6weak=33613
+|Arec=113.31M|Aatk=304763|Adefense=203320|Ahp=21945718|Aweak=36656
+}}}}

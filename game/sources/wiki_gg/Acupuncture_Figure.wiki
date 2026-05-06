@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Acupuncture Figure
+|class_id=20314
+|rank=Green
+|affct=CIV
+|source=
+|description=Something odd just got mixed in with the mound of movie awards! It does look like a trophy from a film festival and yet it is another proof of the bad taste of the development team!
+|fame=12
+|art=14
+|fth=18
+|civ=29
+|tech=17
+|ss1=Snail ATK +20<br>Snail DEF +20<br>Snail RUSH +20
+|ss2=Snail ATK +40<br>Snail DEF +40<br>Snail RUSH +40
+|ss3=Snail ATK +60<br>Snail DEF +60<br>Snail RUSH +60
+|ss4=Snail ATK +60<br>Snail DEF +60<br>Snail RUSH +60
+|ss7=Snail ATK +60<br>Snail DEF +60<br>Snail RUSH +60<br> (Awakened)
+}}

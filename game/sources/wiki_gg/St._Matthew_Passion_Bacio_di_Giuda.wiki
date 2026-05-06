@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=736
+|relics=St. Matthew Passion,Bacio di Giuda
+|rank=orange
+|amount=2
+|category=self
+|description=In Follower Recruitment, 2x Follower Drops +7%
+}}

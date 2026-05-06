@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=V8 Engine
+|class_id=22195
+|rank=AAA
+|affct=TECH
+|birthday=07-12
+|source=
+|description=On Jul 12, 1923 AD, the world's first V8 engine was manufactured.<br>The classic cylinder arrangement of an internal combustion engine and also the most common engine structure in high-end cars. Due to its superior ignition and vibration characteristics, a number of its derivatives have been developed for high-end competitions.
+|fame=43
+|art=28
+|fth=48
+|civ=39
+|tech=70
+|ss1=Quantum Amp production +1.2%<br>Per 5 Quantum Amp LVLs, Snail ATK +8<br>Quantum Amp LVL: 50/50
+|ss2=Quantum Amp production +1.6%<br>Per 5 Quantum Amp LVLs, Snail ATK +12<br>Quantum Amp LVL: 50/50
+|ss3=Quantum Amp production +2%<br>Per 5 Quantum Amp LVLs, Snail ATK +16<br>Quantum Amp LVL: 50/50
+|ss4=Quantum Amp production +2.8%<br>Per 5 Quantum Amp LVLs, Snail ATK +24<br>Quantum Amp LVL: 50/50
+|ss5=Quantum Amp production +3.6%<br>Per 5 Quantum Amp LVLs, Snail ATK +32<br>Quantum Amp LVL: 50/50
+|ss7=Quantum Amp production +3.6%<br>Per 5 Quantum Amp LVLs, Snail ATK +32<br>Quantum Amp LVL: 50/50<br>Quantum Amp production +2.8% (Awakened)
+|skill1=[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: This Relic's TECH +10
+|skill2=[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP Regen +600
+}}

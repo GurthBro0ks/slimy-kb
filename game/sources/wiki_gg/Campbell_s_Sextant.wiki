@@ -1,0 +1,25 @@
+{{CargoRelic
+|name=Campbell's Sextant
+|rank=Blue
+|affct=TECH
+|birthday=11-19
+|source=Lottery Machine (0.7%), Wishing (2.6%), Tool Chest (2%), Novice Scrolls (1%)
+|description=On Nov 19, 1757, these theoretical achievements of great mathematicians were put into use. Captain Campbell found that his crew was having difficulties in using the octant. This was why he created a sextant by making the angles bigger, which is easier to use. The principle of sextant proposed by Newton was then proven and improved by Gauss.
+|fame=25
+|art=27
+|fth=28
+|civ=27
+|tech=47
+|ss1=Lumber Camp Max Cap +2%
+|ss2=Lumber Camp Max Cap +4%
+|ss3=Lumber Camp Max Cap +6%
+|ss4=Lumber Camp Max Cap +10%
+|ss7=Lumber Camp Max Cap +10%<br>Lumber Camp Max Cap +10% (Awakened)
+|skill1=[[File:Compass skill I.png|50px]]Place in Exploration Compass: TECH Checks -5
+}}
+
+[[Category:Lumber Camp Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:ATK Boost]]
+[[Category:Offering Reward Boost]]
+[[Category:Enhanced by Lottery Draws]]

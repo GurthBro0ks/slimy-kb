@@ -1,0 +1,759 @@
+{{WIP|note=Information on each form is being moved to their respective pages. You may find duplicated, outdated, and/or inaccurate information on this page}}
+
+==Gene Evolution==
+At first, Gene Evolution is a early-stage system used to help strengthen the snail and unlock more forms. There are 5 upgradable parts: Devouring, Muscle, Brain, Vision, and Neuron. Upgrading them requires a certain level of its corresponding AFFCT and Demon God Cells. 
+
+When upgrading, you can select 1 of 3 randomly displayed stat boosts or organs. Always choose the organ when this appears as these boosts are better than others. Otherwise, HARD stats are better than AFFCT stats, specifically ATK > RUSH > DEF > HP. AFFCT stats are roughly equal and more dependent on what you specifically need at that time, if anything. Of course, if you see something like 15 HP vs 5 ATK, the HP is better because it's so much higher. Overall, don't worry about this too much. 
+
+==Early Upgrades==
+<tabber>
+|-|Devouring=
+Devouring requires Zombie Cells and FAME to upgrade and unlocks Zombie Form at level 10.
+{|class="wikitable"
+!Level!!Cells Required!!FAME Required
+|-
+|1||50||2
+|-
+|2||100||5
+|-
+|3||150||10
+|-
+|4||200||20
+|-
+|5||250||30
+|-
+|6||300||40
+|-
+|7||350||40
+|-
+|8||400||80
+|-
+|9||450||110
+|-
+|10||500||150
+|}
+|-|Muscle=
+Upgrading Muscle requires Demon Cells and ART to upgrade and unlocks Demon Form at level 15.
+{|class="wikitable"
+!Level!!Cells Required!!ART Required
+|-
+|1||50||2
+|-
+|2||100||5
+|-
+|3||150||10
+|-
+|4||200||20
+|-
+|5||250||30
+|-
+|6||300||40
+|-
+|7||350||60
+|-
+|8||400||80
+|-
+|9||450||110
+|-
+|10||500||150
+|-
+|11||550||200
+|-
+|12||600||300
+|-
+|13||650||400
+|-
+|14||700||500
+|-
+|15||850||600
+|}
+|-|Brain=
+Upgrading Brain requires Angel Cells and FTH to upgrade and unlocks Angel Form at level 20.
+{|class="wikitable"
+!Level!!Cells Required!!FTH Required
+|-
+|1||50||2
+|-
+|2||100||5
+|-
+|3||150||10
+|-
+|4||200||20
+|-
+|5||250||30
+|-
+|6||300||40
+|-
+|7||350||60
+|-
+|8||400||80
+|-
+|9||450||110
+|-
+|10||500||150
+|-
+|11||550||200
+|-
+|12||600||300
+|-
+|13||650||400
+|-
+|14||700||500
+|-
+|15||850||600
+|-
+|16||1000||900
+|-
+|17||1150||1,200
+|-
+|18||1300||1,500
+|-
+|19||1500||1,800
+|-
+|20||1700||2,100
+|}
+|-|Vision=
+Vision requires Mutant Cells and CIV to upgrade and unlocks Mutant Form at level 25.
+{|class="wikitable"
+!Level!!Cells Required!!CIV Required
+|-
+|1||50||2
+|-
+|2||100||5
+|-
+|3||150||10
+|-
+|4||200||20
+|-
+|5||250||30
+|-
+|6||300||40
+|-
+|7||350||60
+|-
+|8||400||80
+|-
+|9||450||110
+|-
+|10||500||150
+|-
+|11||550||200
+|-
+|12||600||300
+|-
+|13||650||400
+|-
+|14||700||500
+|-
+|15||850||600
+|-
+|16||1000||900
+|-
+|17||1150||1200
+|-
+|18||1300||1,500
+|-
+|19||1500||1,800
+|-
+|20||1700||2,100
+|-
+|21||1900||2,400
+|-
+|22||2100||2,700
+|-
+|23||2300||3,000
+|-
+|24||2500||3,300
+|-
+|25||2700||3,600
+|}
+|-|Neuron=
+Neuron requires Mecha Cells and TECH to upgrade and unlock Mecha Form at level 30.
+{|class="wikitable"
+!Level!!Cells Required!!TECH Required
+|-
+|1||50||2
+|-
+|2||100||5
+|-
+|3||150||10
+|-
+|4||200||20
+|-
+|5||250||30
+|-
+|6||300||40
+|-
+|7||350||60
+|-
+|8||400||80
+|-
+|9||450||110
+|-
+|10||500||150
+|-
+|11||550||200
+|-
+|12||600||300
+|-
+|13||650||400
+|-
+|14||700||500
+|-
+|15||850||600
+|-
+|16||1000||900
+|-
+|17||1150||1,200
+|-
+|18||1300||1,500
+|-
+|19||1500||1,800
+|-
+|20||1700||2,100
+|-
+|21||1900||2,400
+|-
+|22||2100||2,700
+|-
+|23||2300||3,000
+|-
+|24||2500||3,300
+|-
+|25||2700||3,600
+|-
+|26||3000||4,000
+|-
+|27||3500||4,400
+|-
+|28||4000||4,800
+|-
+|29||4500||5,200
+|-
+|30||5000||5,600
+|}
+</tabber>
+
+==Gene Research==
+[[File:Gene research.png|left]]
+After unlocking [[Zombie Form]], the Super Gene Expert will arrive in the [[Mailbox]] to give you the {{RewardIconWithText|DNA Evolution Kit}} which unlocks the Research Machine. 
+
+Research is divided according to the 6 alternate Forms. As you raise each rank, you'll gain various boosts. There are 8 relevant items in each Research Set, or Tier, abbreviated to T1, T2, T3, etc... The numbered list on the picture is the order we will list in going forward, with 1 being Snail Stats and 2 being Troop Stats.<br>
+
+In this picture, blue is on the left side and the green (this color will change depending on Form) is on the right side. This goes back and forth but their basic boosts stay the same. Blue will always raise the HARD stats of the snail, regardless of form used. "Green" will always raise Troop HARD Stats of that particular Form. The middle will always provide a special bonus and the last research item will Analyze the Ritual for the next Form Tier. 
+
+=== Research Order ===
+Note that items must be researched in a certain order, generally from top to bottom. However, each item must be researched a certain number of times to be fully researched. If, for example, you've researched the bubble '''A''' twice, you can only research bubble '''B''' twice. If you've not researched the bubble '''B''' at all, you cannot research bubble '''C'''.
+
+{{Clear}}
+
+==DNA Value Packs==
+[[Value_Packs#DNA_Value_Pack|DNA Value Packs]] can be purchased after certain milestones are met.
+
+==Zombie==
+See [[Zombie Form]]
+
+== Demon ==
+See [[Demon Form]]
+
+== Angel ==
+Upgrading [[Angel Form]] requires a certain amount of Angel Cells and FTH. This form is best used in Cathay and increases the chance of finding Fungus Chests.<tabber>
+|-|T1=
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T2=
+{|class="wikitable"
+|Total Time: 11h 45m||Total Cells: 3,300||Total B-tads: 3,234
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A||DEF Up A-I||1h||250||245||Snail DEF +10||20
+|-
+|1B||RUSH Up A-I||1h 15m||300||294||Snail RUSH +10||24
+|-
+|1C||FTH Up A-I||1h 30m||350||343||Snail FTH +50<br>When in Angel form: Gain +1% Fungus Chests in explorations||28
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T3=
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T4=
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T5=
+T5 Angel Ritual:
+*Summon the Gate of Heaven at the Altar in Angel Form (''Must be summoned with normal souls.'')
+*Reach Angel Form Trial Lv. 100
+*FTH reaches 6,600
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T6=
+T6 Angel Ritual:
+*Ride the Rocket to the Koryeon Domain
+*Beat Pawson in a Godslay Battle
+*Reach Angel Form Trial Lv. 200
+*Ascend after FTH reaches 10,200
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+</tabber>
+
+== Mutant ==
+See [[Mutant Form]]
+
+== Mecha ==
+Upgrading [[Mecha Form]] requires a certain amount of Mecha Cells and TECH. This form is best used in Murika and increases the chance of finding Tool Chests.
+<tabber>
+|-|T1=
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T2=
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T3=
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T4=
+*Activate {{RewardIconWithText|Detection Unit}}
+*Activate {{RewardIconWithText|Engineering Unit}}
+*Activate {{RewardIconWithText|Power Unit}}
+*Activate {{RewardIconWithText|Fire Control Unit}}
+*Obtain {{RewardIconWithText|Crystal IC Board}}
+*TECH reaches 4,000
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T5=
+*Equip with {{RewardIconWithLink|Field Generator|blue}} shell
+*Display 4-Star {{RewardIconWithLink|Unispark|orange}}
+*Reach Mecha Form Lv. 100
+*TECH reaches 6,800
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T6=
+*Claim {{RewardIconWithText|Superconducting Tube|orange}} in Rocket Bonus
+*Claim {{RewardIconWithText|MD Data Terminal|orange}} in Rocket Bonus
+*Claim {{RewardIconWithText|HV Capacitor|orange}} in Rocket Bonus
+*Claim {{RewardIconWithText|Polymeric Fiber Clamp|orange}} in Rocket Bonus
+*Claim {{RewardIconWithText|Harmonic Absorber|orange}} in Rocket Bonus
+*Reach Mecha Form Trial Lv. 200
+*Ascend after TECH reaches 10,800
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T7=
+*Obtain {{RewardIconWithLink|Silicon Life Prototype|green}} from Steel Hall of the [[Rebel Device#Steel Hall|Rebel Cabin]] of the [[Rocket]]
+*Get [[Snail Mech]] into the dorms
+*Reach Mecha Form Lv. 300
+*TECH reaches 12,600
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+</tabber>
+
+== Dragon ==
+Unlocking [[Dragon Form]] first requires all other forms to be at T5. After that, it can be purchased from the DNA Value pack for 5,000 w-tads. To navigate here, go to the Research Machine > Growth Track > DNA Bonus > gift box tab at the bottom. 
+
+Upgrading Dragon Form requires all Demon God Cells and AFFCT. This form is best used everywhere once T4 and above, and increases the chance of finding Dragon Chests. 
+
+<tabber>
+|-|T1=
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T2=
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T3=
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T4=
+T4 Dragon Ritual:
+*Activate {{RewardIconWithText|Ice Breath}}
+*Activate {{RewardIconWithText|Flame Breath}}
+*Activate {{RewardIconWithText|Emerald Breath}}
+*Activate {{RewardIconWithText|Holy Breath}}
+*Get {{RewardIconWithText|Dragon Serum}} from Super Gene Expert
+*Reach T4 in all other forms
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T5=
+T5 Dragon Ritual:
+*Summon Divine Dragon and wish for "Give me power" (Note: Any Dragon will do)
+*Reach Dragon Form Trial Lv. 100
+*Reach T5 in all other forms
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+|-|T6=
+T6 Dragon Ritual:
+*Summon Divine Dragon and wish for "Give me power" (Note: Any Dragon will do)
+*Reach Dragon Form Trial Lv. 200
+*Ascend when all forms reach T6
+{|class="wikitable"
+|Total Time: ||Total Cells: ||Total B-tads: 
+|}
+{|class="wikitable"
+! !!Name!!Time!!Cells Cost!!B-tad Cost!!Effect!!DNA Strength Increase
+|-
+|1A
+|-
+|1B
+|-
+|1C
+|-
+|2A
+|-
+|2B
+|-
+|2D
+|-
+|2C
+|-
+|3
+|}
+</tabber>

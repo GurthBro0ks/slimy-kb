@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Hachiko Statue
+|class_id=22170
+|rank=A
+|affct=CIV
+|birthday=09-06
+|source=Lottery Machine No.2 (0.55%), Wishing (0.15%)
+|description=On Sept 6, 1934 AD, the statue of loyal Hachiko was officially erected at the train station to commemorate him.<br>This statue was erected to commemorate the loyal dog, Hachiko. His owner died of a heart attack at work, but Hachiko still awaited his return in front of the train station. After 9 years of waiting, in 1932, the Hachiko's story was published by a newspaper, and soon the story spread throughout Japan. Touched by the dog's loyalty. Eventually, people erected a statue of Hachiko in front of the station to commemorate him.
+|fame=43
+|art=41
+|fth=34
+|civ=63
+|tech=32
+|ss1=Share for the 1st time, Snail HP +200<br>Share for the 1st time, Snail ATK +20
+|ss2=Share for the 1st time, Snail HP +400<br>Share for the 1st time, Snail ATK +40
+|ss3=Share for the 1st time, Snail HP +600<br>Share for the 1st time, Snail ATK +60
+|ss4=Share for the 1st time, Snail HP +1000<br>Share for the 1st time, Snail ATK +100
+|ss5=Share for the 1st time, Snail HP +1400<br>Share for the 1st time, Snail ATK +140
+|ss7=Share for the 1st time, Snail HP +1400<br>Share for the 1st time, Snail ATK +140<br>Share for the 1st time, Snail HP +1400 (Awakened)
+|skill1=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, All Minion DEF +4.5%
+|skill2=[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, HP Regen +300
+}}

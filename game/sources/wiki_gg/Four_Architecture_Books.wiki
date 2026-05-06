@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Four Architecture Books
+|class_id=22897
+|rank=SS
+|affct=TECH
+|source=
+|description=The Four Books of Architecture is a classic of architectural theory, created by Renaissance Italian architect Andrea Palladio. The book is divided into four parts: the first book introduces the basic techniques and principles of architecture, including the five classical orders, building materials, room arrangements, and the construction of various parts of buildings; the second book discusses residential building design, combining Palladio's own design cases to demonstrate how to balance ancient examples with contemporary needs; the third book covers public facilities and buildings, such as streets, bridges, and squares; the fourth book focuses on ancient temples in the Roman region. This work is not only a set of theoretical rules but also a practical manual, having a profound impact on the European architectural world of the 18th century.
+|fame=61
+|art=45
+|fth=82
+|civ=54
+|tech=105
+|ss1=Tadpole Pond B-tad Output +4%<br>Quarry produces Ancient Fossil by +2%<br>Per 10 Home Facility LVLs, Snail ATK +4<br>Home Facility LVL: 100/100
+|ss2=Tadpole Pond B-tad Output +6%<br>Quarry produces Ancient Fossil by +3%<br>Per 10 Home Facility LVLs, Snail ATK +6<br>Home Facility LVL: 100/100
+|ss3=Tadpole Pond B-tad Output +8%<br>Quarry produces Ancient Fossil by +4%<br>Per 10 Home Facility LVLs, Snail ATK +8<br>Home Facility LVL: 100/100
+|ss4=Tadpole Pond B-tad Output +12%<br>Quarry produces Ancient Fossil by +6%<br>Per 10 Home Facility LVLs, Snail ATK +12<br>Home Facility LVL: 100/100
+|ss5=Tadpole Pond B-tad Output +16%<br>Quarry produces Ancient Fossil by +8%<br>Per 10 Home Facility LVLs, Snail ATK +16<br>Home Facility LVL: 100/100
+|ss6=Tadpole Pond B-tad Output +22%<br>Quarry produces Ancient Fossil by +11%<br>Per 10 Home Facility LVLs, Snail ATK +22<br>Home Facility LVL: 100/100
+|ss7=Tadpole Pond B-tad Output +22%<br>Quarry produces Ancient Fossil by +11%<br>Per 10 Home Facility LVLs, Snail ATK +22<br>Home Facility LVL: 100/100<br>Quarry produces Ancient Fossil by +10% (Awakened)
+|skill1=[[File:Quary skill III.png|50px]]Place in Quarry: Stone Output +30%
+|skill2=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Find Ancient Wood by +30%
+|skill3=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Wood Output +30%
+|mirage={{Mirage|name=Architectural Art|reward={{RewardIconWithLink|Travel Speedup, +28800|orange}}
+|3name=Pillar|3rec=3.81M|3atk=48517|3defense=32005|3hp=670303|3weak=11302
+|4name=Arch Bridge|4rec=8.62M|4atk=76099|4defense=50200|4hp=1446015|4weak=15030
+|5name=Temple|5rec=17.82M|5atk=112071|5defense=73930|5hp=2801035|5weak=19195
+|Arec=42.35M|Aatk=156869|Adefense=103481|Ahp=5182741|Aweak=25763
+}}}}

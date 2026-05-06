@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Fanatic Neuron
+|type=Common
+|rank=orange
+|id=10956
+|idx=149
+|description=Mutated neural tissue from radical zealots. Features: 1) Cognitive distortion boost 2) Pain-to-euphoria conversion 3) Sigma brainwave hive infection. Within 72hrs of transplant, induces host & nearby creatures to act on original owner's obsessions!
+|skill=
+|hp=1646
+|def=182
+|atk=291
+|rush=207
+|gene1=Per Britland Apostle defeated, {race} ATK +28
+Britland Apostles defeated:10/10 
+|gene2=Per 10% HP lost, {race} RUSH +60
+|gene3=Per 10% HP lost, {race} DEF +60
+|gene4=Per 10% HP lost, {race} ATK +60
+|gene5=Fire DMG +90
+|gene7=Fire DMG +4.5% (Awakened)
+|}}

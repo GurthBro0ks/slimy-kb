@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Centipede Potion
+|class_id=20104
+|rank=Green
+|affct=CIV
+|source=
+|description=The thousand-year centipede, with its formidable exterior and lethal poison, has become the subject of rumors about an elixir that grants immortality. As a result, numerous bounty hunters with varying levels of skill and immense courage have embarked on a perilous journey to find it.
+|fame=15
+|art=15
+|fth=18
+|civ=30
+|tech=12
+|ss1=Per Organ implanted, Snail ATK +1<br>Organs Implanted: 40/40
+|ss2=Per Organ implanted, Snail ATK +2<br>Organs Implanted: 40/40
+|ss3=Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40
+|ss4=Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40
+|ss7=Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40<br> (Awakened)
+}}

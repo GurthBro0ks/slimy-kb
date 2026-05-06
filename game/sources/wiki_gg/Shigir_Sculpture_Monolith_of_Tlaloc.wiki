@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=669
+|relics=Shigir Sculpture,Monolith of Tlaloc
+|rank=purple
+|amount=2
+|category=self
+|description=Snail Leadership +4
+}}

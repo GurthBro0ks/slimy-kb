@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Fungus XL
+|class_id=20009
+|rank=Green
+|affct=CIV
+|source=
+|description=The fungi from the Fungus Farm didn't want to be gathered. Their resentment took a human form and became a Hitman working for Demon Gods! After its defeat, its essence coalesced into this Relic. It is an upsetting fact that you took full advantage of this poor little thing.
+|fame=11
+|art=15
+|fth=16
+|civ=30
+|tech=18
+|ss1=Per 10 DEF-Fungi eaten, Snail ATK +1<br>DEF-Fungi Eaten: 500/500
+|ss2=Per 10 DEF-Fungi eaten, Snail ATK +2<br>DEF-Fungi Eaten: 500/500
+|ss3=Per 10 DEF-Fungi eaten, Snail ATK +3<br>DEF-Fungi Eaten: 500/500
+|ss4=Per 10 DEF-Fungi eaten, Snail ATK +3<br>DEF-Fungi Eaten: 500/500
+|ss7=Per 10 DEF-Fungi eaten, Snail ATK +3<br>DEF-Fungi Eaten: 500/500<br> (Awakened)
+}}

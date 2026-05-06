@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Adari 2600
+|class_id=22117
+|rank=AAA
+|affct=FAME
+|birthday=10-17
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Oct 17, 1977 AD, Adari Corporation released the Adari 2600 home video game console.<br>Adari 2600 is one of the earliest and the most iconic home video game consoles. These game consoles stayed on the shelf for fifteen years, selling a total of 30 million units. Although it withdrew from the market due to software developers producing low-quality games, it introduced the public to the concept of home video game consoles, sparking the development of the video game industry.
+|fame=73
+|art=37
+|fth=39
+|civ=46
+|tech=48
+|ss1=Per Minigame installed, Snail ATK +9<br>Per Minigame installed, Snail DEF +9<br>Minigames Installed: 20/20
+|ss2=Per Minigame installed, Snail ATK +12<br>Per Minigame installed, Snail DEF +12<br>Minigames Installed: 20/20
+|ss3=Per Minigame installed, Snail ATK +15<br>Per Minigame installed, Snail DEF +15<br>Minigames Installed: 20/20
+|ss4=Per Minigame installed, Snail ATK +21<br>Per Minigame installed, Snail DEF +21<br>Minigames Installed: 20/20
+|ss5=Per Minigame installed, Snail ATK +27<br>Per Minigame installed, Snail DEF +27<br>Minigames Installed: 20/20
+|ss7=Per Minigame installed, Snail ATK +27<br>Per Minigame installed, Snail DEF +27<br>Minigames Installed: 20/20<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion RUSH +4.5%
+|skill2=[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion ATK +4.5%
+}}

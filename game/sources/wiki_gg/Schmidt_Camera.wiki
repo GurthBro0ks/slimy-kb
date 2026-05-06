@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Schmidt Camera
+|class_id=22598
+|rank=AAA
+|affct=TECH
+|birthday=05-31
+|source=Lottery Machine No.3 (0.06%)
+|description=On May 31, 1930 AD, German optician Bernhard Schmidt invented a new type of camera to observe the sky.<br>The Schmidt camera is an optical camera used to photograph the sky. Unlike regular cameras, its lens is a spherical mirror that can capture a wide-angle view of the sky without distortion. The invention of the Schmidt camera was a groundbreaking achievement that changed astronomy and optics in the twentieth century.
+|fame=42
+|art=36
+|fth=46
+|civ=45
+|tech=74
+|ss1=Per Orange Brand Cases opened, Snail HP +30<br>Per Orange Brand Cases opened, Snail ATK +3<br>Orange Brand Cases Opened: 50/50
+|ss2=Per Orange Brand Cases opened, Snail HP +40<br>Per Orange Brand Cases opened, Snail ATK +4<br>Orange Brand Cases Opened: 50/50
+|ss3=Per Orange Brand Cases opened, Snail HP +50<br>Per Orange Brand Cases opened, Snail ATK +5<br>Orange Brand Cases Opened: 50/50
+|ss4=Per Orange Brand Cases opened, Snail HP +70<br>Per Orange Brand Cases opened, Snail ATK +7<br>Orange Brand Cases Opened: 50/50
+|ss5=Per Orange Brand Cases opened, Snail HP +90<br>Per Orange Brand Cases opened, Snail ATK +9<br>Orange Brand Cases Opened: 50/50
+|ss7=Per Orange Brand Cases opened, Snail HP +90<br>Per Orange Brand Cases opened, Snail ATK +9<br>Orange Brand Cases Opened: 50/50<br>Snail HP +700 (Awakened)
+|skill1=[[File:Quantumamp  skill II.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +15%
+|skill2=[[File:Quantumamp  skill II.png|50px]]Place in a Quantum Amp: Quantum Amp production +7.5%
+}}

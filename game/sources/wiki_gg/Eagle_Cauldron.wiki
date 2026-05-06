@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Eagle Cauldron
+|class_id=22669
+|rank=SSS
+|affct=ART
+|birthday=04-27
+|source=
+|description=On April 27, 1957 AD, the Eagle Cauldron was unearthed from a tomb in Hua County, Shaanxi Province.<br>The Eagle Cauldron was created in the late Neolithic period and is part of the Yangshao culture. The tripod features a perched eagle with a curved beak and two eyes wide open, full of vitality as if waiting for an opportunity to catch prey, which looks intimidating. The tripod's mouth is situated between the eagle's back and wings, skillfully blending the functional characteristics of the tripod with the animal's beauty. It is a perfect example of the fusion of primitive art and practical function.
+|fame=53
+|art=106
+|fth=69
+|civ=74
+|tech=60
+|ss1=Snail ATK +30<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +9<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +9
+|ss2=Snail ATK +40<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +18<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +18
+|ss3=Snail ATK +50<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +27<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +27
+|ss4=Snail ATK +70<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +45<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +45
+|ss5=Snail ATK +90<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +63<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +63
+|ss6=Snail ATK +120<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +90<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +90
+|ss7=Snail ATK +120<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +90<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +90<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, AFFCT Checks -150
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|mirage={{Mirage|name=Neolithic Period|reward={{RewardIconWithLink|Supply Deal, +10|orange}}
+|3name=Pottery Horse|3rec=189.53M|3atk=504516|3defense=310549|3hp=36029433|3weak=42362
+|4name=Pottery Deer|4rec=290.57M|4atk=708055|4defense=423978|4hp=74495090|4weak=51360
+|5name=Pottery Ox|5rec=400.41M|5atk=889429|5defense=522798|5hp=112043924|5weak=55583
+|6name=Pottery Figure|6rec=550.20M|6atk=1154671|6defense=657550|6hp=217620829|6weak=62626
+|Arec=709.61M|Aatk=1437023|Adefense=810563|Ahp=364692177|Aweak=71385
+}}}}

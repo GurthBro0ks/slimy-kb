@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Flying Horse of Gansu,Mysterious Relic
+|rank=orange
+|amount=2
+|category=home
+|description=Daily Tribal Output for Amber +14%
+}}
+[[Category:Home]]
+[[Category:Amber Boost]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Holo-Space Projector
+|class_id=20826
+|rank=Green
+|affct=TECH
+|source=
+|description=The holographic projection technology of the space-time projector simulates the features and environments of various alternate dimensions. Users are immersed in a holographic-based virtual environment, capable of real-time analysis and interpretation of complex information from different time-space dimensions.
+|fame=12
+|art=19
+|fth=15
+|civ=11
+|tech=31
+|ss1=In the Rift, INTEL gained +1%<br>Per 20 levels of Time Rift INTEL learned: INTEL gained +0.1%<br>Time Rift INTEL learned: 1000/1000
+|ss2=In the Rift, INTEL gained +2%<br>Per 20 levels of Time Rift INTEL learned: INTEL gained +0.2%<br>Time Rift INTEL learned: 1000/1000
+|ss3=In the Rift, INTEL gained +3%<br>Per 20 levels of Time Rift INTEL learned: INTEL gained +0.3%<br>Time Rift INTEL learned: 1000/1000
+|ss4=In the Rift, INTEL gained +3%<br>Per 20 levels of Time Rift INTEL learned: INTEL gained +0.3%<br>Time Rift INTEL learned: 1000/1000
+|ss7=In the Rift, INTEL gained +3%<br>Per 20 levels of Time Rift INTEL learned: INTEL gained +0.3%<br>Time Rift INTEL learned: 1000/1000<br> (Awakened)
+}}

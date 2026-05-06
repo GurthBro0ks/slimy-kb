@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Galactic Agent License
+|class_id=20377
+|rank=Green
+|affct=TECH
+|source=
+|description=The license-holder is a galactic agent of the investigation bureau who is granted law enforcement power by federal law. Please be cooperative when you are questioned and frisked, as the galactic agent has the right to use force! (Stamped)
+|fame=15
+|art=14
+|fth=15
+|civ=16
+|tech=30
+|ss1=Defeated Galactic Agents drop +10 W-tads
+|ss2=Defeated Galactic Agents drop +20 W-tads
+|ss3=Defeated Galactic Agents drop +30 W-tads
+|ss4=Defeated Galactic Agents drop +30 W-tads
+|ss7=Defeated Galactic Agents drop +30 W-tads<br> (Awakened)
+}}

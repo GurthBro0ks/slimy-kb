@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Animal Athletics Badge
+|class_id=20497
+|rank=Green
+|affct=FAME
+|source=
+|description=This badge is awarded by the Animal Athletics Association for young animal trainers. It not only symbolizes the association's recognition of their training skills but also provides conveniences such as free access to association facilities for the badge holders!
+|fame=31
+|art=14
+|fth=15
+|civ=14
+|tech=16
+|ss1=Per Apostle dominated, Snail RUSH +1<br>Apostles Dominated: 40/40
+|ss2=Per Apostle dominated, Snail RUSH +2<br>Apostles Dominated: 40/40
+|ss3=Per Apostle dominated, Snail RUSH +3<br>Apostles Dominated: 40/40
+|ss4=Per Apostle dominated, Snail RUSH +3<br>Apostles Dominated: 40/40
+|ss7=Per Apostle dominated, Snail RUSH +3<br>Apostles Dominated: 40/40<br> (Awakened)
+}}

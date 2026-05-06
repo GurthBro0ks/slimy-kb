@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=335
+|relics=Matsushima Pot,Basse Yutz Flagons
+|rank=blue
+|amount=2
+|category=self
+|description=Snail HP +500
+}}

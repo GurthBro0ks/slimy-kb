@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Speech of MLK,Platinum Record
+|rank=purple
+|amount=2
+|category=minion
+|description=Per 30 Minions in battle: Troop RUSH +24
+}}
+[[Category:Minion]]
+[[Category:Minion RUSH Boost]]

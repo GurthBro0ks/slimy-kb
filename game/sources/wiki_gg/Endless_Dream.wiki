@@ -1,0 +1,222 @@
+{{Template:WIP}}
+
+This page includes the mechanics for Endless Dream. For information on gameplay and Dream levels, see [[Endless Dream Levels]].
+
+==Heroes==
+{| class="wikitable sortable"
+|-
+! Name !! Class !! Basic Attack !! Active Skill !! Attack !! Target !! Attack Speed !! Energy Recovery !! How to Unlock
+|-
+| Darius || Warrior || || ||220 ||1 ||0.8/sec ||25/sec ||
+|-
+| Alibaba || Warrior || || ||239 ||1 ||0.8/sec ||16/sec ||
+|-
+| Sinbad || Warrior || || ||265 ||1 ||0.8/sec ||25/sec ||
+|-
+| Prince Atsiz || Archer || || ||214 ||3 ||1/sec ||13/sec || Awaken '''Laksh's Whistle''' to unlock Prince Atsiz' Mount
+|-
+| Sea Maiden || Archer || || ||234 ||4 ||1/sec ||16/sec ||
+|-
+| Cambyses || Archer || || ||287 ||3 ||1.2/sec ||20/sec || Awaken '''Lost Crown'''
+|-
+| Fisherman Judar || Priest || || ||205 ||5 ||1/sec ||11/sec ||
+|-
+| Lord of the Pyratism || Priest || || ||291 ||1 ||1.2/sec ||13/sec || Unlock [[Parsia INTEL|Sky City INTEL]]: Zoroastrian Sacred Fire
+|-
+| Aladdin || Priest || || ||263 ||5 ||0.8/sec ||13/sec ||
+|}
+
+==Dream Atar==
+
+===Artifact Hall===
+Artifacts have a 0.08% chance to be pulled from Lamp Wish. 
+
+{|class="wikitable sortable mw-collapsible" 
+|-
+! Image !! Name !! Effect !! Equipped Effect
+|-
+! [[File:Golden_Crow.png|frameless|75x75px]]
+|| Golden Crow || Snail HP +1000 <br> Parsia Exploration, Movement Speed +2% || Warrior DMG +20%
+|-
+! [[File:Copper_Horn.png|frameless|75x75px]]
+|| Copper Horn || Troop DEF +100 <br> Parsian Exploration, Black Tadpoles +10% || Archer DMG +20%
+|-
+! [[File:Ebony_Horse.png|frameless|75x75px]]
+|| Ebony Horse || Snail Water DMG +30 <br> Parsian Exploration, DMG to Enemies +5% || Priest DMG +20%
+|-
+! [[File:Legends_of_the_Sages.png|frameless|75x75px]]
+|| Legends of the Sages || Snail ATK +100 <br> Dream battles: +1 Artifact slots || Each Lamp refresh, +1 Weapon
+|-
+! [[File:Magic_Sand_Table.png|frameless|75x75px]]
+|| Magic Sand Table || Snail Fire DMG +30 <br> Activate Gem Crafting || Gain 10 extra energy upon defeating an enemy
+|-
+! [[File:Golden_Compass.png|frameless|75x75px]]
+|| Golden Compass || Troop Water DMG +30 <br> Lamp refresh costs 25 less Magic Lamp Oil || Warrior attacks hit 2 enemies at once; skill power -10%
+|-
+! [[File:The_Legend_of_Snake_Bird_and_Sands.png|frameless|75x75px]]
+|| The Legend of Snake, Bird, and Sands || Snail Wind DMG +30 <br> Magic Lamp Level Cap +20 || Lamp healing effects +100%
+|-
+! [[File:Tyrants_Game.png|frameless|75x75px]]
+|| Tyrant's Game || Troop Wind DMG +30 <br> Dream battles: +1 Artifact slots || Per weapon in battle, all heroes' DMG +5%
+|-
+! [[File:Dawn_of_Babylon.png|frameless|75x75px]]
+|| Dawn of Babylon || Troop Earth DMG +30 <br> Warrior crit damage +5% || All heroes dead +50% DMG to poisoned enemies
+|-
+! [[File:Mirror_of_a_Thousand_Faces.png|frameless|75x75px]]
+|| Mirror of a Thousand Faces || Troop HP +1000 <br> Parsian Exploration, Wishborn Stone +10% || Archer skill power +10% per each target reduced
+|-
+! [[File:Healing_Apple.png|frameless|75x75px]]
+|| Healing Apple || Troop HP +1000 <br> Lamp refresh free attempts +1 || For every 10% energy restored by Priests, restore 3% of Magic Lamp's HP
+|-
+! [[File:Devils_Flask.png|frameless|75x75px]]
+|| Devil's Flask || Troop Fire DMG +30 <br> Priest damage +5% || When landing critical hits on the same target: +10% CRIT DMG (max 5 stacks)
+|-
+! [[File:Feather_Robe.png|frameless|75x75px]]
+|| Feather Robe || Snail RUSH +100 <br> Archer crit damage +5% || All heroes' attacks have 5% chance to inflict Weakness
+|-
+! [[File:Esoteric_Copper_Drum.png|frameless|75x75px]]
+|| Esoteric Copper Drum || Snail HP +1000 <br> Per wave victory: +150 Magic Lamp Oil || When crafting weapons: 15% chance for +1 extra level
+|-
+! [[File:Flying_Demon_Boots.png|frameless|75x75px]]
+|| Flying Demon Boots || Snail Water DMG +30 <br> Parsia Exploration, Movement Speed +2% || Gain 5 extra Magic Lamp Oil for each enemy defeated
+|-
+! [[File:Jamshids_Golden_Cup.png|frameless|75x75px]]
+|| Jamshid's Golden Cup || Troop ATK +100 <br> Warrior damage +5% || Each time the hero casts an active skill, their DMG increases by 10%
+|-
+! [[File:Divine_Birds_Feather.png|frameless|75x75px]]
+|| Divine Bird's Feather || Troop RUSH +100 <br> In Parsia, 2x Time Chest Drops +5% || Each attack hits 1 additional target and deals +5% DMG
+|-
+! [[File:Blood_of_Siavash.png|frameless|75x75px]]
+|| Blood of Siavash || Snail Earth DMG +30 <br> In Parsia, Fire DMG +300 || All heroes' attacks deal an additional 10% Frost DMG
+|-
+! [[File:The_Book_of_a_Thousand_Laws.png|frameless|75x75px]]
+|| The Book of a Thousand Laws || <br> ||
+|-
+! [[File:Fang_of_Zahhak.png|frameless|75x75px]]
+|| Fang of Zahhak || <br> || 
+|-
+! [[File:Tear_of_the_Moon_Goddess.png|frameless|75x75px]]
+|| Tear of the Moon Goddess || <br> || 
+|-
+! [[File:Gold_Scale.png|frameless|75x75px]]
+|| Gold Scale || <br> || 
+|-
+! [[File:Shepherds_Heart.png|frameless|75x75px]]
+|| Shepherd's Heart || <br> || 
+|-
+! [[File:Lost_Crown.png|frameless|75x75px]]
+|| Lost Crown || <br> || 
+|-
+! [[File:Lakshs_Whistle.png|frameless|75x75px]]
+|| Laksh's Whistle || <br> || 
+|-
+! [[File:Ivory_Magic_Pipe.png|frameless|75x75px]]
+|| Ivory Magic Pipe || <br> || 
+|-
+! [[File:Magic_Saddlebag.png|frameless|75x75px]]
+|| Magic Saddlebag || <br> || 
+|-
+! [[File:Alchemy_Potion.png|frameless|75x75px]]
+|| Alchemy Potion || <br> || 
+|-
+! [[File:Magic_Flute.png|frameless|75x75px]]
+|| The Magic Flute || <br> || 
+|-
+! [[File:Disguise_Kit.png|frameless|75x75px]]
+|| Disguise Kit || <br> || 
+|-
+! [[File:Shifting_Masks.png|frameless|75x75px]]
+|| Shifting Masks || <br> || 
+|-
+! [[File:Anahitas_Vessel.png|frameless|75x75px]]
+|| Anahita's Vessel || <br> || 
+|-
+! [[File:Azhdahas_Chains.png|frameless|75x75px]]
+|| Azhdaha's Chains || <br> || 
+|-
+! [[File:Golden_Signet_Ring.png|frameless|75x75px]]
+|| Golden Signet Ring || <br> || 
+|-
+! [[File:Death_of_the_King.png|frameless|75x75px]]
+|| Death of the King || <br> || 
+|-
+! [[File:Silver_Apple.png|frameless|75x75px]]
+|| Silver Apple || <br> || 
+|-
+! [[File:Golden_Fleece.png|frameless|75x75px]]
+|| Golden Fleece || <br> || 
+|-
+! [[File:Daric.png|frameless|75x75px]]
+|| Daric || <br> || 
+|-
+! [[File:Dreamwalkers_Necklace.png|frameless|75x75px]]
+|| Dreamwalker's Necklace || <br> || 
+|-
+! [[File:Unclean_Ones_Bell.png|frameless|75x75px]]
+|| Unclean One's Bell || <br> || 
+|-
+|}
+
+===Weapon Hall===
+Weapons can equip up to three gems each.
+
+{|class="wikitable sortable mw-collapsible" 
+|-
+! Image !! Name !! Slot !! Effect
+|-
+! [[File:Snake_Queens_Eye.png|frameless|75x75px]]
+|| Snake Queen's Eye || 1x1 || Lamp regenerates +3% HP every 3 seconds
+|-
+! [[File:Solomon_Golden_Ring.png|frameless|75x75px]]
+|| Solomon Golden Ring || 1x1 || Defeating enemies grants +5 Magic Lamp Oil (Max Level)
+|-
+! [[File:Parthian_Shot.png|frameless|75x75px]]
+|| Snake Queen's Eye || 2x1 || Poison DMG +30% (Max Level)
+|-
+! [[File:Frozen_Blade.png|frameless|75x75px]]
+|| Frozen Blade || 2x1 || Frost DMG +30% (Max Level)
+|-
+! [[File:CultToken.png|frameless|75x75px]]
+|| Cult Token || 3x1 || Energy recovery speed +100% (Max Level)
+|-
+! [[File:Sassanid_Javelin.png|frameless|75x75px]]
+|| Sassanid Javelin || 1x3 || Attack speed +80% (Max Level)
+|-
+! [[File:Parsian_Scimitar.png|frameless|75x75px]]
+|| Parsian Scimitar || || Crit DMG +120% (Max Level)
+|-
+! [[File:Immortal_Legion_Axe.png|frameless|75x75px]]
+|| Immortal Legion Axe || || DMG +80% (Max Level)
+|-
+! [[File:Chariot_of_Cyrus.png|frameless|75x75px]]
+|| Chariot of Cyrus || 2x2 || CRIT +40% (Max Level)
+|-
+|}
+
+===Gem Crafting===
+
+Gem Crafting is unlocked after activating the '''Magic Sand Table''' Artifact. Three gems of the same type and tier can be combined into one gem of the next tier.
+
+{| class="wikitable"
+|-
+! !! I !! II !! III !! IV !! V
+|-
+| rowspan=2 | DMG || [[File:DMG_GemI]] || [[File:DMG_GemII]] || [[File:DMG_GemIII]] || [[File:DMG_GemIV]] || [[File:DMG_GemV]]
+|-
+| +1% || +3% || +6% || +12% || +24%
+|-
+| rowspan=2 | AS || [[File:AS_GemI]] || [[File:AS_GemII]] || [[File:AS_GemIII]] || [[File:AS_GemIV]] || [[File:AS_GemV]]
+|-
+| +1% || +3% || +6% || +12% || +24%
+|-
+| rowspan=2 | Energy || [[File:Energy_GemI]] || [[File:Energy_GemII]] || [[File:Energy_GemIII]] || [[File:Energy_GemIV]] || [[File:Energy_GemV]]
+|-
+| +1% || +3% || +6% || +12% || +24%
+|-
+| rowspan=2 | CRIT || [[File:Crit_GemI]] || [[File:Crit_GemII]] || [[File:Crit_GemIII]] || [[File:Crit_GemIV]] || [[File:Crit_GemV]]
+|-
+| +1% || +3% || +6% || +12% || +24%
+|-
+|}
+
+[[Category:Parsia]]

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Commercial Code
+|rank=Blue
+|affct=FAME
+|birthday=04-10
+|source=* Club Chest (2%), Lottery Machine (0.07%), Novice Scrolls (1%), Wishing (3.1%)
+* [[Peter Jr.]] - [[Rare Rent]]
+|description=
+On Apr 10, 1673, the French commercial law war issued, which is the origin of the current commercial law system.
+
+In the past, people mostly carried out business practices based on customs, which were also the basis to resolve disputes. This law created a reliable code of practice to resolve disputes in trades.
+|fame=44
+|art=29
+|fth=21
+|civ=30
+|tech=30
+|ss1=Per 20 Chores completed, Snail DEF +2<br>Chores Completed: 300/300
+|ss2=Per 20 Chores completed, Snail DEF +4<br>Chores Completed: 300/300
+|ss3=Per 20 Chores completed, Snail DEF +6<br>Chores Completed: 300/300 
+|ss4=Per 20 Chores completed, Snail DEF +10<br>Chores Completed: 300/300
+|ss7=Per 20 Chores completed, Snail DEF +10<br>Chores Completed: 300/300<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Lumbercamp skill I.png|frameless|50x50px]] Place in Lumber Camp: Lumber Max Cap +5%
+}}
+
+[[Category:DEF Boost]]
+[[Category:Lumber Camp Skill]]
+[[Category:Lumber Camp Output Boost]]
+[[Category:HP Boost]]
+[[Category:Dragon Gene Speedup Boost]]

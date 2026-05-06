@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Data of Fire Salamanders
+|class_id=20395
+|rank=Green
+|affct=TECH
+|source=
+|description=The data of the fire salamander comprehensively documents the genetic coding from low-ranking to high-ranking fire salamanders. Their appearance is vibrant red, resembling a burning flame, emitting enchanting radiance. However, accompanying this is the risk of extreme explosiveness, requiring cautious storage.
+|fame=16
+|art=14
+|fth=13
+|civ=16
+|tech=31
+|ss1=Minion MAX +10<br>Per Species Map entry completed, Snail ATK +1<br>Species Map Entries: 60/60
+|ss2=Minion MAX +15<br>Per Species Map entry completed, Snail ATK +2<br>Species Map Entries: 60/60
+|ss3=Minion MAX +20<br>Per Species Map entry completed, Snail ATK +3<br>Species Map Entries: 60/60
+|ss4=Minion MAX +20<br>Per Species Map entry completed, Snail ATK +3<br>Species Map Entries: 60/60
+|ss7=Minion MAX +20<br>Per Species Map entry completed, Snail ATK +3<br>Species Map Entries: 60/60<br> (Awakened)
+}}

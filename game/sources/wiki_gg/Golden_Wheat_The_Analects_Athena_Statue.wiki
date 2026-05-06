@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Golden Wheat,The Analects,Athena Statue
+|rank=orange
+|amount=3
+|category=self
+|description=Per 3 Orange Relics gained, Snail HP +320<br>Orange Relics: 60/60
+}}
+[[Category:Self]]

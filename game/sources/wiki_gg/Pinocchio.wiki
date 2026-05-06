@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=Pinocchio
+|rank=Blue
+|affct=ART
+|birthday=12-24
+|source=Lottery Machine (0.03%), Wishing (1.2%)
+|description=On Dec 24, 1883, famous carpenter Geppetto made puppet Pinocchio. 
+
+Pinocchio is a marionette made by Geppetto. It wears a pointed hat, a jacket, and a pair of knee-length floral pants. When it was finished, the mischievous Pinocchio laughed at Geppetto's face and even took his wig. He wanted to be human so bad and a fairy fulfilled his wish. But she cast a spell on his short nose, saying that the nose grows whenever he lies.
+|fame=32
+|art=45
+|fth=33
+|civ=24
+|tech=20
+|ss1=Per 10 Mutant Minions in battle: Troop HARD Stats +1
+|ss2=Per 10 Mutant Minions in battle: Troop HARD Stats +2
+|ss3=Per 10 Mutant Minions in battle: Troop HARD Stats +3
+|ss4=Per 10 Mutant Minions in battle: Troop HARD Stats +5
+|ss7=Per 10 Mutant Minions in battle: Troop HARD Stats +5<br>Per 10 Mutant Minions in battle: Troop HARD Stats +3 (Awakened)
+|skill1=[[File:Murika skill I.png|50px]] Place in Murikan Museum: In Murika, ART Checks -5
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:ART Relics]]
+[[Category:Blue ART Relics]]
+[[Category:Mutant Minion HARD Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:ART Boost]]
+[[Category:ATK Boost]]
+[[Category:HP Boost]]
+[[Category:Undead Turtle Boost]]
+[[Category:Nanosaur Boost]]
+[[Category:Berserker Boost]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Polar Snow Shovel
+|class_id=20933
+|rank=Green
+|affct=FAME
+|source=
+|description=This exquisitely crafted and uniquely shaped snow shovel is a small gift specially customized by a reindeer for its companion who tried hard to help it find its gift. It not only has significant commemorative value but also symbolizes their friendship!
+|fame=32
+|art=16
+|fth=14
+|civ=14
+|tech=14
+|ss1=Free Gene Speedup (Mutant) +6m<br>Per 30 Fissure Floors, Snail DEF +1<br>Fissure Floor: 1200/1200
+|ss2=Free Gene Speedup (Mutant) +12m<br>Per 30 Fissure Floors, Snail DEF +2<br>Fissure Floor: 1200/1200
+|ss3=Free Gene Speedup (Mutant) +18m<br>Per 30 Fissure Floors, Snail DEF +3<br>Fissure Floor: 1200/1200
+|ss4=Free Gene Speedup (Mutant) +18m<br>Per 30 Fissure Floors, Snail DEF +3<br>Fissure Floor: 1200/1200
+|ss7=Free Gene Speedup (Mutant) +18m<br>Per 30 Fissure Floors, Snail DEF +3<br>Fissure Floor: 1200/1200<br> (Awakened)
+}}

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Cellular Pathology
+|class_id=22225
+|rank=SSS
+|affct=FAME
+|birthday=11-25
+|source=Lottery Machine No.2 (0.11%)
+|description=On Nov 25, 1858 AD, Rudolf Weirshaw finished the writing of Cellular Pathology.<br>The publication of Cellular Pathology signaled the division of Cellular Pathology and humoral pathology, laying the groundwork for modern medicine to understand the cause, process, and outcome of diseases. People began to directly observe the tissue lesions of the disease under a conventional optical microscope, which significantly improved the accuracy of diagnosis, contributing to the diagnoses of diseases and the development of pathology .
+|fame=106
+|art=62
+|fth=50
+|civ=68
+|tech=76
+|ss1=Per 60 Minions in battle:<br>> Troop ATK +9<br>Minion Healing B-tad Cost -1.2%<br>Per 50 Minions healed, Snail ATK +3<br>Minions healed: 2000/2000
+|ss2=Per 60 Minions in battle:<br>> Troop ATK +18<br>Minion Healing B-tad Cost -1.6%<br>Per 50 Minions healed, Snail ATK +4<br>Minions healed: 2000/2000
+|ss3=Per 60 Minions in battle:<br>> Troop ATK +27<br>Minion Healing B-tad Cost -2%<br>Per 50 Minions healed, Snail ATK +5<br>Minions healed: 2000/2000
+|ss4=Per 60 Minions in battle:<br>> Troop ATK +45<br>Minion Healing B-tad Cost -2.8%<br>Per 50 Minions healed, Snail ATK +7<br>Minions healed: 2000/2000
+|ss5=Per 60 Minions in battle:<br>> Troop ATK +63<br>Minion Healing B-tad Cost -3.6%<br>Per 50 Minions healed, Snail ATK +9<br>Minions healed: 2000/2000
+|ss6=Per 60 Minions in battle:<br>> Troop ATK +90<br>Minion Healing B-tad Cost -4.8%<br>Per 50 Minions healed, Snail ATK +12<br>Minions healed: 2000/2000
+|ss7=Per 60 Minions in battle:<br>> Troop ATK +90<br>Minion Healing B-tad Cost -4.8%<br>Per 50 Minions healed, Snail ATK +12<br>Minions healed: 2000/2000<br>Per 60 Minions in battle:<br>> Troop ATK +90 (Awakened)
+|skill1=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: This Relic's FAME +15
+|skill2=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, FAME Checks -600
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, 2x Orange Reagent Drops +15%
+|mirage={{Mirage|name=Lymphocytes|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=T Cell|3rec=83.98M|3atk=242909|3defense=162054|3hp=14901869|3weak=31622
+|4name=B Cell|4rec=112.36M|4atk=302762|4defense=201985|4hp=21772937|4weak=36510
+|5name=Red Blood Cell|5rec=146.10M|5atk=373911|5defense=249451|5hp=30985656|5weak=42208
+|6name=White Blood Cell|6rec=184.36M|6atk=454595|6defense=303279|6hp=42802234|6weak=49465
+|Arec=229.08M|Aatk=548908|Adefense=366198|Ahp=58227020|Aweak=53142
+}}}}

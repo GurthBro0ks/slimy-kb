@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Voynich Manuscript
+|class_id=21012
+|rank=AAA
+|affct=CIV
+|birthday=10-17
+|source=
+|description=On Oct 17, 1912 AD, a strange medieval book was discovered in Rome. The Voynich Manuscript.<br>Written in the 15th century, this book is filled with strange words and punctuation. There are pictures of animals and plants, stars, and even bathing beauties on every page. Many cryptographers tried to crack it, including Adri, who cracked the German code, and the American navy, who cracked the Japanese navy code, but to no avail.
+|fame=46
+|art=43
+|fth=49
+|civ=72
+|tech=33
+|ss1=Unlock Batch Gene Research function<br>Per 10 Gene LVLs, gain 30 W-tads<br>For all Gene Research, B-tad Cost -1.2%
+|ss2=Unlock Batch Gene Research function<br>Per 10 Gene LVLs, gain 40 W-tads<br>For all Gene Research, B-tad Cost -1.6%
+|ss3=Unlock Batch Gene Research function<br>Per 10 Gene LVLs, gain 50 W-tads<br>For all Gene Research, B-tad Cost -2%
+|ss4=Unlock Batch Gene Research function<br>Per 10 Gene LVLs, gain 70 W-tads<br>For all Gene Research, B-tad Cost -2.8%
+|ss5=Unlock Batch Gene Research function<br>Per 10 Gene LVLs, gain 90 W-tads<br>For all Gene Research, B-tad Cost -3.6%
+|ss7=Unlock Batch Gene Research function<br>Per 10 Gene LVLs, gain 90 W-tads<br>For all Gene Research, B-tad Cost -3.6%<br>For all Gene Research, B-tad Cost -2.8% (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: This Relic's CIV +10
+|skill2=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: Snail ATK +30
+}}

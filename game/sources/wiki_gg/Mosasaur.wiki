@@ -1,0 +1,297 @@
+== Mosasaur ♂ ==
+An ancient marine reptile. Its huge body was recreated through genetic engineering.
+
+=== Begin Friendship ===
+To obtain Mosasaur, you must complete the [[Mailbox#Loch Nessie Manager|Loch Nessie Manager]] storyline.
+
+===☆☆☆ > ★★★===
+After 4 letters, Mosasaur will permanently move into [[Home Base]] with his minion, Nanosaur.
+
+==Rent==
+Mosasaur rent is collected on '''Saturday''' and found as a rib-cage to the left corner of the room
+
+[[File:Mosasaur RENT.png|left]]
+ '''Normal Rent''': {{RewardIconWithLink|Green Organ Slime|green}}
+
+ '''Rare Rent''': {{RewardIconWithLink|Prehistoric Fossil, +20|purple}}
+
+{{Clear}}
+
+==Relics==
+Upgrading these will earn evolution chests!
+
+{| class="mw-collapsible mw-collapsed wikitable"  
+!Relic Tier
+!Reward 
+|-
+|★
+|20 Evolution Chests
+|-
+|★★
+|20 Evolution Chests
+|-
+|★★★
+|20 Evolution Chests
+|-
+|★★★★
+|40 Evolution Chests
+|-
+|★★★★★
+|60 Evolution Chests
+|-
+| ★★★★★★
+|80 Evolution Chests
+|}<br>
+
+{| class="fandom-table" style="width:100%; text-align:center;" 
+! style="background-color:#7de8e6;" |[[File:Big Fish Bone.png|frameless|50x50px|link=Big Fish Bone]]<br>[[Big Fish Bone]] 
+! style="background-color:#7de8e6;" |[[File:Gregor Specimen.png|frameless|50x50px|link=Gregor Specimen]]<br>[[Gregor Specimen]] 
+! style="background-color:#f3b5e1;" |[[File:Prehistoric Fossil.png|frameless|50x50px|link=Prehistoric Fossil]]<br>[[Prehistoric Fossil]] 
+! style="background-color:#f3b5e1;" |[[File:Gee Virus.png|frameless|50x50px|link=Gee Virus]]<br>[[Gee Virus]]
+|-
+! style="background-color:#ffb066;" | [[File:Fu Hao Scripts.png|frameless|50x50px|link=Fu Hao Scripts]]<br>[[Fu Hao Scripts]]
+! style="background-color:#ffb066;" |[[File:Phoenix Feather.png|frameless|50x50px|link=Phoenix Feather]]<br>[[Phoenix Feather]] 
+! style="background-color:#ffb066;" |[[File:Golden Scarab.png|frameless|50x50px|link=Golden Scarab]]<br>[[Golden Scarab]] 
+! style="background-color:#ffb066;" |[[File:Ape's Footprint Fossil.png|frameless|50x50px|link=Ape's Footprint Fossil]]<br>[[Ape's Footprint Fossil]]
+|}
+
+==Mosasaur's Giant Teeth==
+These curved sharp teeth are like rows of inverted hooks. With the Mosasaur's amazing jaw power, it can easily tear its prey to pieces
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!'''Lv.'''!!'''Research Skill Required'''!!'''B-tad Cost'''!!'''Skill 1'''!!'''Skill 2'''
+|-
+|1|| || ||CIV +5||Dragon Minion Recovery SPD +0.3%
+|-
+|2||180||2,000||CIV +10||Dragon Minion Recovery SPD +0.6%
+|-
+|3||190||4,500||CIV +15||Dragon Minion Recovery SPD +0.9%
+|-
+|4||200||8,000||CIV +20||Dragon Minion Recovery SPD +1.2%
+|-
+|5||210||12,500||CIV +25||Dragon Minion Recovery SPD +1.5%
+|-
+|6||220||18,000||CIV +30||Dragon Minion Recovery SPD +1.8%
+|-
+|7||230||24,500||CIV +35||Dragon Minion Recovery SPD +2.1%
+|-
+|8||240||32,000||CIV +40||Dragon Minion Recovery SPD +2.4%
+|-
+|9||250||40,500||CIV +45||Dragon Minion Recovery SPD +2.7%
+|-
+|10||260||50,000||CIV +50||Dragon Minion Recovery SPD +3.0%
+|-
+|11||270||60,500||CIV +55||Dragon Minion Recovery SPD +3.3%
+|-
+|12||285||72,000||CIV +60||Dragon Minion Recovery SPD +3.6%
+|-
+|13||300||84,500||CIV +65||Dragon Minion Recovery SPD +3.9%
+|-
+|14||315||98,000||CIV +70||Dragon Minion Recovery SPD +4.2%
+|-
+|15||330||112,000||CIV +75||Dragon Minion Recovery SPD +4.5%
+|-
+|16||345||123,000||CIV +80||Dragon Minion Recovery SPD +4.8%
+|-
+|17||360||144,000||CIV +85||Dragon Minion Recovery SPD +5.1%
+|-
+|18||375||162,000||CIV +90||Dragon Minion Recovery SPD +5.4%
+|-
+|19||390||180,000||CIV +95||Dragon Minion Recovery SPD +5.7%
+|-
+|20||400||200,000||CIV +100||Dragon Minion Recovery SPD +6.0%
+|-
+|21||420||220,000||CIV +105||Dragon Minion Recovery SPD +6.3%
+|-
+|22||440||242,000||CIV +110||Dragon Minion Recovery SPD +6.6%
+|-
+|23||460||264,000||CIV +115||Dragon Minion Recovery SPD +6.9%
+|-
+|24||480||285,000||CIV +120||Dragon Minion Recovery SPD +7.2%
+|-
+|25||500||309,000||CIV +125||Dragon Minion Recovery SPD +7.5%
+|-
+|26||520||333,000||CIV +130||Dragon Minion Recovery SPD +7.8%
+|-
+|27||540||357,000||CIV +135||Dragon Minion Recovery SPD +8.1%
+|-
+|28||560||381,000||CIV +140||Dragon Minion Recovery SPD +8.4%
+|-
+|29||580||405,000||CIV +145||Dragon Minion Recovery SPD +8.7%
+|-
+|30||600||429,000||CIV +150||Dragon Minion Recovery SPD +9.0%
+|}
+
+== Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Giant Teeth is. 
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!'''Lv.'''!!'''B-tad Cost'''!!'''Skill 1'''!! '''Skill 2'''
+|-
+|1|| ||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +10 
+|-
+|2||4000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +20
+|-
+|3||6000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +30
+|-
+|4||8000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +40
+|-
+|5||10000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +50
+|-
+|6||12000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +60
+|-
+|7||14000||Dragon Minion MAX +1 || Per 10 Nanosaurs in battle, Troop DEF +70
+|-
+|8||16000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +80 
+|-
+|9||18000||Dragon Minion MAX +1|| Per 10 Nanosaurs in battle, Troop DEF +90
+|-
+|10||20000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +100
+|-
+|11||22000||Dragon Minion MAX +1|| Per 10 Nanosaurs in battle, Troop DEF +110
+|-
+|12||24000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +120
+|-
+|13||26000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +130
+|-
+|14||28000||Dragon Minion MAX +1 || Per 10 Nanosaurs in battle, Troop DEF +140
+|-
+|15||30000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +150
+|-
+|16||32000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +160
+|-
+|17||34000||Dragon Minion MAX +1 ||Per 10 Nanosaurs in battle, Troop DEF +170
+|-
+|18||36000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +180
+|-
+|19||38000 ||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +190
+|-
+|20||40000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +200
+|-
+|21||42000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +210
+|-
+|22||44000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +220
+|-
+|23||46000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +230
+|-
+|24||48000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +240
+|-
+|25||50000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +250
+|-
+|26||55000||Dragon Minion MAX +1 ||Per 10 Nanosaurs in battle, Troop DEF +260
+|-
+|27||60000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +270
+|-
+|28||65000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +280
+|-
+|29||70000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +290
+|-
+|30||75000||Dragon Minion MAX +1||Per 10 Nanosaurs in battle, Troop DEF +300
+|}
+
+==Research Ability==
+Below is a table of the research manual cost to upgrade each research gene. Mosasaur specializes in '''Dragon Genes''' specialization and therefore the research manual cost for the Dragon is halved. 
+
+{|class="sortable mw-collapsible mw-collapsed wikitable"
+!Lv.!!Manuals Required!!Lv.!!Manuals Required
+|-
+|'''1-10'''||1||'''11-20'''||2
+|-
+|'''21-30'''||3||'''31-40'''||4
+|-
+|'''41-50'''||5||'''51-60'''||10
+|-
+|'''61-70'''||20||'''71-80'''||40
+|-
+|'''81-90'''||60||'''91-95'''||80
+|-
+|'''96'''||100||'''97'''||200
+|-
+|'''98'''||400||'''99'''||600
+|-
+|'''100'''||800 
+|}
+
+==Minion - Nanosaur==
+The oviparous reptile that once dominated the world, the greatest predator, was once sent to the zoo as an ornamental animal because of poverty...
+
+===Special Ability - Giant Jaw ===
+Per 10 Nanosaurs in battle, Troop ATK +10 (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Nanosaurs!
+{| class="wikitable"
+!'''Name'''
+!'''1-Star'''
+!'''2-Star'''
+!'''3-Star''' 
+!'''4-Star''' 
+!'''5-Star'''
+!'''6-Star'''
+|-
+|[[Pumpkin Coach|<span style="color:#22d3d0;">Pumpkin Coach</span>]]
+|Nanosaur HP +1%
+|Nanosaur DEF +1%
+|Nanosaur ATK +1%
+|Nanosaur RUSH +1%
+|
+|
+|-
+|[[Pinocchio|<span style="color:#22d3d0;">Pinocchio</span>]]
+|Nanosaur HP +1%
+|Nanosaur DEF +1%
+|Nanosaur ATK +1%
+|Nanosaur RUSH +1%
+|
+|
+|-
+|[[Prince's Rose|<span style="color:#ee96d5;">Prince's Rose</span>]]
+|Nanosaur HP +2%
+|Nanosaur DEF +2% 
+|Nanosaur ATK +2%
+|Nanosaur RUSH +2%
+|Nanosaur All Stats +3%
+|
+|-
+|[[Mermaid Statue|<span style="color:#ee96d5;">Mermaid Statue</span>]]
+|Nanosaur HP +2%
+|Nanosaur DEF +2%
+|Nanosaur ATK +2%
+|Nanosaur RUSH +2%
+|Nanosaur All Stats +3%
+|
+|-
+|[[1001 Nights|<span style="color:#ffb066;">1001 Nights</span>]]
+|Nanosaur DEF +4%
+|Nanosaur DEF +4%
+|Nanosaur DEF +4%
+|Nanosaur DEF +4%
+|Nanosaur DEF +4%
+|Nanosaur DEF +4%
+|-
+|[[Ship in a Bottle|<span style="color:#ffb066;">Ship in a Bottle</span>]]
+|Nanosaur RUSH +4%
+|Nanosaur RUSH +4%
+|Nanosaur RUSH +4%
+|Nanosaur RUSH +4%
+|Nanosaur RUSH +4%
+|Nanosaur RUSH +4%
+|-
+|[[Terracotta Warrior|<span style="color:#ffb066;">Terracotta Warrior</span>]]
+|Nanosaur HP +4%
+|Nanosaur HP +4%
+|Nanosaur HP +4%
+|Nanosaur HP +4%
+|Nanosaur HP +4%
+|Nanosaur HP +4%
+|-
+|[[Aladdin Carpet|<span style="color:#ffb066;">Aladdin Carpet</span>]]
+|Nanosaur ATK +4%
+|Nanosaur ATK +4%
+|Nanosaur ATK +4%
+|Nanosaur ATK +4%
+|Nanosaur ATK +4%
+|Nanosaur ATK +4%
+|}
+
+[[Category:Partners]]

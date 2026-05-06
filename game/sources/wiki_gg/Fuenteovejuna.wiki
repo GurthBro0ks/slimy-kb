@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Fuenteovejuna
+|class_id=22546
+|rank=AAA
+|affct=ART
+|birthday=12-19
+|source=
+|description=On Dec 19, 1619 AD, Goldoni created this play.<br>Based on a true event that occurred in his hometown, playwright Carlo Goldoni was inspired to create the play Fuenteovejuna. The story describes how the villagers rose up against the tyrannical lord who oppressed them and beheaded him, relying on their unity and indomitable will to win the king's pardon. The author not only created many vivid character images but also blended tragedy and comedy, breaking the shackles of classical drama and making this work a groundbreaking masterpiece.
+|fame=30
+|art=71
+|fth=49
+|civ=48
+|tech=45
+|ss1=Demon Minion Cloning SPD +3%<br>Per 30 Demon Minions in battle:<br>> Troop ATK +12
+|ss2=Demon Minion Cloning SPD +4%<br>Per 30 Demon Minions in battle:<br>> Troop ATK +16
+|ss3=Demon Minion Cloning SPD +5%<br>Per 30 Demon Minions in battle:<br>> Troop ATK +20
+|ss4=Demon Minion Cloning SPD +7%<br>Per 30 Demon Minions in battle:<br>> Troop ATK +28
+|ss5=Demon Minion Cloning SPD +9%<br>Per 30 Demon Minions in battle:<br>> Troop ATK +36
+|ss7=Demon Minion Cloning SPD +9%<br>Per 30 Demon Minions in battle:<br>> Troop ATK +36<br>Per 30 Demon Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's ART +10
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +60
+}}

@@ -1,0 +1,151 @@
+==Tier 1 (White)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:#9c9c9c;" |[[File:TimeFrag.png|75x75px]]
+| rowspan="8" |Time Frag
+|3x3||Enhancment Injection:<br>Snail HP +200<br>Snail DEF +20
+| rowspan="8" | B-Tads +100
+|-
+|2x3||Time Rift INTEL + 5000
+|-
+|3x3||B-tads 20k
+|-
+|4x3||Novice Scroll x10
+|-
+|5x3||W-tads x200
+|-
+|6x1||[[Gear|Broken Second Hand]]
+|-
+|7x1||[[Gear|Broken Minute Hand]]
+|-
+|8x1||[[Gear|Broken Hour Hand]]
+|-
+| style="background-color:#9c9c9c;" | [[File:TimeFrag46bBC.png|75x75px]]
+| Time Frag 4.6b BC||4x3||Tool Chest x100||B-Tads +800
+|-
+| style="background-color:#9c9c9c;" | [[File:TimeFrag4mBC.png|75x75px]]
+| Time Frag 4m BC||4x3||Fungus Chest x100||Time Rift INTEL +1500
+|}
+
+==Tier 2 (Green)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:#7de87f;" | [[File:TimeFragGreen.png|75x75px]]
+| rowspan="8" | Time Frag
+|3x3||Enhancement Injection:<br>Snail ATK +20<br>Snail RUSH +20
+| rowspan="8" | B-tads +300
+|-
+|2x3||Time Rift INTEL +10K
+|-
+|3x3||40k B-tads
+|-
+|4x3||Novice Scroll x20
+|-
+|5x3||Coating (Green) x20
+|-
+|6x3||Organ Slime x50
+|-
+|7x1||[[Gear|<span style="color:#40da25;">Time Cog</span>]]
+|-
+|8x3||Refine Speedup x10h
+|-
+| style="background-color:#7de87f;" | [[File:TimeFrag3500BC.png|75x75px]]
+|Time Frag 3500 BC||4x3||Gear Chest x100|| Offering Speedup +25m
+|-
+| style="background-color:#7de87f;" | [[File:TimeFragAD1621.png|75x75px]]
+|Time Frag AD 1621||4x3||Evolution Chest x100|| Gene Speedup +25m
+|}
+
+==Tier 3 (Blue)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:#7de8e6;" | [[File:TimeFragBlue.png|75x75px]]
+| rowspan="8" | Time Frag
+|3x3||Enhancement Injection:<br>Snail HP +220<br>Snail DEF +22
+| rowspan="8" | B-Tads +900
+|-
+|2x3||Time Rift INTEL +15k
+|-
+|3x3||60k B-tads
+|-
+|4x3||Expert Scroll x20
+|-
+|5x3||Offering Speedup x5h
+|-
+|6x3||Rift Treasure Map x50
+|-
+|7x1||[[Gear|<span style="color:#22d3d0;">Time Blade</span>]]
+|-
+|8x3||Lottery Ticket x3
+|-
+| style="background-color:#7de8e6;" | [[File:TimeFragAD1914.png|75x75px]]
+|Time Frag AD 1914||4x3||Organ Chest x100||Gear Chest +10
+|-
+| style="background-color:#7de8e6;" | [[File:TimeFragAD1945.png|75x75px]]
+|Time Frag AD 1945||4x3||Soul Chest x100||Fungus Chest +10
+|}
+
+==Tier 4 (Purple)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:#f3b5e1;" | [[File:TimeFragPurple.png|75x75px]]
+| rowspan="8" | Time Frag
+|3x3||Enhancement Injection:<br>Snail ATK +24<br>Snail DEF +24
+| rowspan="8" | B-Tads +2700
+|-
+|2x3||Time Rift INTEL +20k
+|-
+|3x3||80k B-tads
+|-
+|4x3||Master Scroll x20
+|-
+|5x3||W-Tad x400
+|-
+|6x3||Dragon Chest x100
+|-
+|7x1||[[Gear|<span style="color:var(--purple-text)">Time Flute</span>]]
+|-
+|8x3||Lottery Ticket x5
+|-
+|style="background-color:#f3b5e1;" | [[File:TimeFragAD2008.png|75x75px]]
+|Time Frag AD 2008||4x3||Wish Coin x1||Purple Reagent +5
+|-
+| style="background-color:#f3b5e1;" | [[File:TimeFragAD2020.png|75x75px]]
+|Time Frag AD 2020||4x3||[[The Bell of St Mura]] x20 ||Rift Treasure Map +2
+|}
+
+==Tier 5 (Orange)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:#ffb066;" | [[File:TimeFragOrange.png|75x75px]]
+| rowspan="8" | Time Frag
+|3x3||Enhancement Injection:<br>Snail HP +260<br>Snail ATK +26
+| rowspan="8" | B-Tads +8100 
+|-
+|2x3||Time Rift INTEL +25k
+|-
+|3x3||100k B-tad
+|-
+|4x3||Glue x50
+|-
+|5x3||Golden Pickaxe x3
+|-
+|6x3||Orange Reagent x10
+|-
+|7x3||Incense
+|-
+|8x3||Lotto Ticket x10
+|-
+| rowspan="2" style="background-color:#ffb066;" | [[File:TimeFragAD2120.png|75x75px]]
+| rowspan="2" | Time Frag
+|3x4||Grandmaster Scroll x20
+| rowspan="2" | W-tad +75
+|-
+|4x3||Relic RF x20
+|-
+|}

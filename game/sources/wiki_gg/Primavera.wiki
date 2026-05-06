@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Primavera
+|class_id=22682
+|rank=SSS
+|affct=FAITH
+|birthday=04-22
+|source=Lottery Machine No.3 (0.12%)
+|description=On Apr 22, 1482 AD, Sandro, an Italian painter, finished Primavera.<br>The themes depicted in "Primavera" are intended to show the beautiful stories of spring with a strong sense of ideals and mystery. In the painting, on the quiet orange grove meadow, flowers are blooming everywhere, and the beautiful goddess Venus, dressed in fine clothes, looks ahead with a slightly sad expression. On her left are the goddesses Aglaea, Thalia, and Euphrosyne, symbolizing beauty, chastity, and joy. They are bathed in the sunlight of the forest, dancing gracefully hand in hand, their curvy and beautiful figures revealed through their light veils, and their graceful dance rhythm bringing joy to the world.
+|fame=63
+|art=71
+|fth=109
+|civ=57
+|tech=62
+|ss1=Snail Leadership +3<br>All Minion Skins, HARD Stats +3%<br>Per 5 Star+ Protomon, Snail ATK +6<br>5 Star+ Protomon: 20/20
+|ss2=Snail Leadership +4<br>All Minion Skins, HARD Stats +6%<br>Per 5 Star+ Protomon, Snail ATK +8<br>5 Star+ Protomon: 20/20
+|ss3=Snail Leadership +5<br>All Minion Skins, HARD Stats +9%<br>Per 5 Star+ Protomon, Snail ATK +10<br>5 Star+ Protomon: 20/20
+|ss4=Snail Leadership +7<br>All Minion Skins, HARD Stats +15%<br>Per 5 Star+ Protomon, Snail ATK +14<br>5 Star+ Protomon: 20/20
+|ss5=Snail Leadership +9<br>All Minion Skins, HARD Stats +21%<br>Per 5 Star+ Protomon, Snail ATK +18<br>5 Star+ Protomon: 20/20
+|ss6=Snail Leadership +12<br>All Minion Skins, HARD Stats +30%<br>Per 5 Star+ Protomon, Snail ATK +24<br>5 Star+ Protomon: 20/20
+|ss7=Snail Leadership +12<br>All Minion Skins, HARD Stats +30%<br>Per 5 Star+ Protomon, Snail ATK +24<br>5 Star+ Protomon: 20/20<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: Green rewards from this egg turn Blue by 6%
+|skill2=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: This Relic's FTH +15
+|skill3=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: Offering Egg hatching efficiency +30%
+|mirage={{Mirage|name=Gods Gathering|reward={{RewardIconWithLink|Glorium, +200|orange}}
+|3name=Aglaia|3rec=202.68M|3atk=535131|3defense=329050|3hp=40600299|3weak=43867
+|4name=Thalia|4rec=315.51M|4atk=747415|4defense=446411|4hp=81247948|4weak=52171
+|5name=Euphrosyne|5rec=439.25M|5atk=955208|5defense=557738|5hp=133411061|5weak=57400
+|6name=Venus|6rec=620.74M|6atk=1280242|6defense=721016|6hp=293604441|6weak=65634
+|Arec=754.64M|Aatk=1521399|Adefense=858859|Ahp=410883801|Aweak=74908
+}}}}

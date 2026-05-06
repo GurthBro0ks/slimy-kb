@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Taoist Talisman
+|class_id=20284
+|rank=Green
+|affct=FAITH
+|source=
+|description=Legend has it that the talisman, personally passed down by a Taoist Immortal, adorned with various mysterious runes, has the magical effect of driving malevolent spirits away from its holder. For Taoist priests who can effectively harness its power, it is an unparalleled weapon for vanquishing demons and evil spirits!
+|fame=17
+|art=13
+|fth=31
+|civ=11
+|tech=18
+|ss1=Per Rift Apostle dominated, Snail ATK +1<br>Rift Apostles Dominated: 70/70
+|ss2=Per Rift Apostle dominated, Snail ATK +2<br>Rift Apostles Dominated: 70/70
+|ss3=Per Rift Apostle dominated, Snail ATK +3<br>Rift Apostles Dominated: 70/70
+|ss4=Per Rift Apostle dominated, Snail ATK +3<br>Rift Apostles Dominated: 70/70
+|ss7=Per Rift Apostle dominated, Snail ATK +3<br>Rift Apostles Dominated: 70/70<br> (Awakened)
+}}

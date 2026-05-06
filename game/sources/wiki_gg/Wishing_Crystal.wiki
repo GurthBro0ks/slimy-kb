@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Wishing Crystal
+|class_id=20296
+|rank=Green
+|affct=FAITH
+|source=
+|description=An ancient crystal that emanates a dazzling light and possesses a colorful and shining body. The crystal is imbued with the mystical power of magic, granting its user an endless source of blessing energy.
+|fame=17
+|art=14
+|fth=29
+|civ=15
+|tech=15
+|ss1=Snail ATK +20<br>Per 40 wishes made, Snail ATK +5<br>Wishes Made: 400/400
+|ss2=Snail ATK +40<br>Per 40 wishes made, Snail ATK +10<br>Wishes Made: 400/400
+|ss3=Snail ATK +60<br>Per 40 wishes made, Snail ATK +15<br>Wishes Made: 400/400
+|ss4=Snail ATK +60<br>Per 40 wishes made, Snail ATK +15<br>Wishes Made: 400/400
+|ss7=Snail ATK +60<br>Per 40 wishes made, Snail ATK +15<br>Wishes Made: 400/400<br> (Awakened)
+}}

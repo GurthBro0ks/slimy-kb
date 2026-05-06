@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Ticket Gleaners
+|class_id=20148
+|rank=Green
+|affct=ART
+|source=
+|description=The style of this oil painting is rather bright with soft tones, depicting a scene where people walk on the fields in the autumn, picking up the left lottery tickets on the ground. What a masterpiece of realism!
+|fame=18
+|art=30
+|fth=14
+|civ=10
+|tech=18
+|ss1=Each lottery draw gives +1 Lucky Voucher by +2%<br>Per 10 Lotteries drawn, Snail RUSH +2<br>Lotteries Drawn: 200/200
+|ss2=Each lottery draw gives +1 Lucky Voucher by +4%<br>Per 10 Lotteries drawn, Snail RUSH +4<br>Lotteries Drawn: 200/200
+|ss3=Each lottery draw gives +1 Lucky Voucher by +6%<br>Per 10 Lotteries drawn, Snail RUSH +6<br>Lotteries Drawn: 200/200
+|ss4=Each lottery draw gives +1 Lucky Voucher by +6%<br>Per 10 Lotteries drawn, Snail RUSH +6<br>Lotteries Drawn: 200/200
+|ss7=Each lottery draw gives +1 Lucky Voucher by +6%<br>Per 10 Lotteries drawn, Snail RUSH +6<br>Lotteries Drawn: 200/200<br> (Awakened)
+}}

@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Cochlea of Gaia
+|type=Common
+|rank=red
+|id=10886
+|idx=97
+|description=Earth's Will was dismembered by Demon Gods. Some organs were retrieved and given as Reconstruction Feast rewards.
+|skill=
+|hp=2270
+|def=280
+|atk=330
+|rush=233
+|gene1=Each round, {race} ATK +80
+|gene2=In explorations, B-tads gained +10%
+|gene3=In explorations, Demon God Cells collected +10%
+|gene4=Each round, {race} RUSH +80
+|gene5=In explorations, B-tads gained +10%
+|gene6=In explorations, Demon God Cells collected +10%
+|gene7=In explorations, B-tads gained +10% (Awakened)
+|}}

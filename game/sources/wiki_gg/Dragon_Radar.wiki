@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dragon Radar
+|class_id=20038
+|rank=Green
+|affct=TECH
+|source=
+|description=The radar was developed by the D. Dragon and can search for traces of dragons in the infinite space, making it easier to contact the Divine dragon. Anyone deemed a key client can get this cost-effective item from the D. Dragon!
+|fame=17
+|art=14
+|fth=17
+|civ=13
+|tech=29
+|ss1=Dragon Orb Offering SPD +3%
+|ss2=Dragon Orb Offering SPD +6%
+|ss3=Dragon Orb Offering SPD +9%
+|ss4=Dragon Orb Offering SPD +9%
+|ss7=Dragon Orb Offering SPD +9%<br> (Awakened)
+}}

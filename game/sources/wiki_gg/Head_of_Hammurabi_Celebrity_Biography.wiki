@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=732
+|relics=Head of Hammurabi,Celebrity Biography
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 T7+ Demon Minions in battle:Troop HARD Stats +70
+}}

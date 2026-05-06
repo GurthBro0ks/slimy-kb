@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Curse of President
+|class_id=20022
+|rank=Green
+|affct=FAITH
+|source=
+|description=The Koryeon Commissioner's residence is cursed. Every past commissioner has suffered an ill fate. This evil curse has eventually embodied itself into this Relic.
+|fame=15
+|art=19
+|fth=27
+|civ=19
+|tech=10
+|ss1=Per Altar God Descent, Snail ATK +2<br>Gods Descended: 30/30
+|ss2=Per Altar God Descent, Snail ATK +4<br>Gods Descended: 30/30
+|ss3=Per Altar God Descent, Snail ATK +6<br>Gods Descended: 30/30
+|ss4=Per Altar God Descent, Snail ATK +6<br>Gods Descended: 30/30
+|ss7=Per Altar God Descent, Snail ATK +6<br>Gods Descended: 30/30<br> (Awakened)
+}}

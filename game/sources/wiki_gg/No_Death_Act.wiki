@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=No Death Act
+|class_id=20960
+|rank=Green
+|affct=FAME
+|source=
+|description=In light of the supreme value of life, Earth's Will declares that all citizens of the Kemetic Domain have the right to eternal life. From the date this act comes into effect, any act that leads to death is prohibited within the Kemetic Domain. All resources will be distributed equally to ensure that every citizen has the conditions to pursue eternity, together upholding the everlasting nature of life.
+|fame=29
+|art=16
+|fth=14
+|civ=18
+|tech=13
+|ss1=Per 2000 Kemet Disciples advanced, Snail HP +40<br>Per 2000 Kemet Disciples advanced, Snail HP Regen +0.1%<br>Kemetic Disciples Advanced: 20000/20000
+|ss2=Per 2000 Kemet Disciples advanced, Snail HP +80<br>Per 2000 Kemet Disciples advanced, Snail HP Regen +0.2%<br>Kemetic Disciples Advanced: 20000/20000
+|ss3=Per 2000 Kemet Disciples advanced, Snail HP +120<br>Per 2000 Kemet Disciples advanced, Snail HP Regen +0.3%<br>Kemetic Disciples Advanced: 20000/20000
+|ss4=Per 2000 Kemet Disciples advanced, Snail HP +120<br>Per 2000 Kemet Disciples advanced, Snail HP Regen +0.3%<br>Kemetic Disciples Advanced: 20000/20000
+|ss7=Per 2000 Kemet Disciples advanced, Snail HP +120<br>Per 2000 Kemet Disciples advanced, Snail HP Regen +0.3%<br>Kemetic Disciples Advanced: 20000/20000<br> (Awakened)
+}}

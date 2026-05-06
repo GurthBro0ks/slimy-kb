@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Boltzmann Brain
+|rank=S
+|affct=TECH
+|birthday=08-04
+|source=Fragment Crafting (17.8%), Lottery Machine (0.81%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), TECH Master Scrolls  (31.5%), Wishing (0.65%) 
+|description=On Aug 4, 1990, Boltzmann Brain was exposed for the first time. If the known universe comes from fluctuations in entropy, then there should be a universe where there's full of consciousnesses in the fluctuation, such as a lonely brain, too. Someone once pondered: imagine there is a ghoul. It creates an illusion for you so you see and feel a complete outside world and yourself as a complete human being that doesn't even exist. So, do feelings equal existence? To answer this question, try to learn the Boltzmann Brain theory first.
+|fame=55
+|art=64
+|fth=60
+|civ=53
+|tech=100
+|ss1=Snail HP +100<br>Per Organ transplanted, Snail DEF +2<br>Per Organ transplanted, Snail RUSH +2<br>Organs Transplanted: 40/40
+|ss2=Snail HP +200<br>Per Organ transplanted, Snail DEF +4<br>Per Organ transplanted, Snail RUSH +4<br>Organs Transplanted: 40/40
+|ss3=Snail HP +300<br>Per Organ transplanted, Snail DEF +6<br>Per Organ transplanted, Snail RUSH +6<br>Organs Transplanted: 40/40
+|ss4=Snail HP +500<br>Per Organ transplanted, Snail DEF +10<br>Per Organ transplanted, Snail RUSH +10<br>Organs Transplanted: 40/40
+|ss5=Snail HP +700<br>Per Organ transplanted, Snail DEF +14<br>Per Organ transplanted, Snail RUSH +14<br>Organs Transplanted: 40/40
+|ss6=Snail HP +1,000<br>Per Organ transplanted, Snail DEF +20<br>Per Organ transplanted, Snail RUSH +20<br>Organs Transplanted: 40/40
+|ss7=Snail HP +1,000<br>Per Organ transplanted, Snail DEF +20<br>Per Organ transplanted, Snail RUSH +20<br>Organs Transplanted: 40/40<br>Snail HP +1,000 (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's TECH +15
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: This Relic's TECH +15
+|skill3=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: This Relic's TECH +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:DEF Boost]]
+[[Category:RUSH Boost]]
+[[Category:Organ Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:TECH Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:Minion RUSH Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Chika Boost]]

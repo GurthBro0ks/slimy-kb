@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Ordinary Casket
+|class_id=21933
+|rank=SSS
+|affct=FAME
+|birthday=02-29
+|source=
+|description=On Feb 29, 2016 AD, A rumor about "King Dangun's Treasure and the Soul Casket" appeared.<br>As the auspicious beast that once served under King Dangun fails in its trial of transcendence on this day, its life comes to an end. This pet is said to have kept watching over King Dangun's treasures after he died and attained Pre-trial Realm during the Dharma Ending Period, thanks to the power of the artifacts left behind by King Dangun. Despite this, it cannot escape its fate. After this day, the treasures are left unguarded. For countless treasure hunters, their chance has finally come.
+|fame=109
+|art=56
+|fth=61
+|civ=65
+|tech=71
+|ss1=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>Snail ATK +30<br>Per 30 Incense used, Snail ATK +6<br>Per 30 Incense used, Snail RUSH +6<br>Incense Used: 900/900
+|ss2=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>Snail ATK +40<br>Per 30 Incense used, Snail ATK +8<br>Per 30 Incense used, Snail RUSH +8<br>Incense Used: 900/900
+|ss3=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>Snail ATK +50<br>Per 30 Incense used, Snail ATK +10<br>Per 30 Incense used, Snail RUSH +10<br>Incense Used: 900/900
+|ss4=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>Snail ATK +70<br>Per 30 Incense used, Snail ATK +14<br>Per 30 Incense used, Snail RUSH +14<br>Incense Used: 900/900
+|ss5=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>Snail ATK +90<br>Per 30 Incense used, Snail ATK +18<br>Per 30 Incense used, Snail RUSH +18<br>Incense Used: 900/900
+|ss6=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>Snail ATK +120<br>Per 30 Incense used, Snail ATK +24<br>Per 30 Incense used, Snail RUSH +24<br>Incense Used: 900/900
+|ss7=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>Snail ATK +120<br>Per 30 Incense used, Snail ATK +24<br>Per 30 Incense used, Snail RUSH +24<br>Incense Used: 900/900<br>Exclusive Altar Gods are more powerful with a chance to trigger 5-Flame Descent (Awakened)
+|skill1=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: This Relic's FAME +15
+|skill2=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: Medal Output +30
+|skill3=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, 2x Incense Drops +7.5%
+|mirage={{Mirage|name=Fall of the Hound|reward={{RewardIconWithLink|Incense, +3|orange}}
+|3name=Hound Elixir|3rec=146.79M|3atk=375352|3defense=250412|3hp=32518398|3weak=42338
+|4name=Hound Beta|4rec=184.51M|4atk=454904|4defense=303485|4hp=44774748|4weak=49493
+|5name=Hound Avatar|5rec=228.61M|5atk=547902|5defense=365527|5hp=60755177|5weak=53138
+|6name=Hound Omega|6rec=298.72M|6atk=646502|6defense=431307|6hp=80062338|6weak=53549
+|Arec=371.83M|Aatk=745102|Adefense=497087|Ahp=102196656|Aweak=53967
+}}}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Gan Shi Star Chart
+|class_id=20535
+|rank=Green
+|affct=CIV
+|source=
+|description=Gan Shi Star Chart is an astronomical book from the Warring States period, divided into two parts: the Gan Jing and the Shi Jing. It records the position chart of star changes and the laws of the five major planets of metal, wood, water, fire, and earth, reflecting the achievements of astronomy in the Warring States period.
+|fame=15
+|art=14
+|fth=13
+|civ=32
+|tech=16
+|ss1=Snail HP +100<br>Per 900 Domain Tech Points, Snail ATK +1<br>Domain Tech: 45000/45000
+|ss2=Snail HP +200<br>Per 900 Domain Tech Points, Snail ATK +2<br>Domain Tech: 45000/45000
+|ss3=Snail HP +300<br>Per 900 Domain Tech Points, Snail ATK +3<br>Domain Tech: 45000/45000
+|ss4=Snail HP +300<br>Per 900 Domain Tech Points, Snail ATK +3<br>Domain Tech: 45000/45000
+|ss7=Snail HP +300<br>Per 900 Domain Tech Points, Snail ATK +3<br>Domain Tech: 45000/45000<br> (Awakened)
+}}

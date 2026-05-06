@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Philosophy Meditations
+|class_id=22720
+|rank=SSS
+|affct=CIV
+|birthday=05-19
+|source=
+|description=On May 19, 1641 AD, Philosophy Meditations was first published.<br>It is a collection of prose works created by the French philosopher René Descartes. He takes the soul and God as the two central concepts of his philosophy, and deduces the existence of God from the self, proposing the idea of "I think, therefore I am." This shifted the focus of philosophy from ontology to epistemology and made the relationship between the subject and the object of knowledge the main theme of philosophical inquiry, marking a major shift in modern philosophy. Descartes' principle of subjectivity marks the awakening of human subjectivity, and the turning point to studying subjectivity in modern Western philosophy.
+|fame=76
+|art=64
+|fth=59
+|civ=106
+|tech=57
+|ss1=Prairie Sanctum Fervor +150<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +24<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss2=Prairie Sanctum Fervor +200<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +32<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss3=Prairie Sanctum Fervor +250<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss4=Prairie Sanctum Fervor +350<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +56<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss5=Prairie Sanctum Fervor +450<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +72<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss6=Prairie Sanctum Fervor +600<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +96<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss7=Prairie Sanctum Fervor +600<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +96<br>Prairie Sanctum Rating Pts: 100000/100000<br>Prairie Sanctum Fervor +500 (Awakened)
+|skill1=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +30%
+|skill2=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Cap +30%
+|skill3=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: This Relic's CIV +15
+|mirage={{Mirage|name=Philosopher's Thoughts|reward={{RewardIconWithLink|Eye of Horus, +1|orange}}
+|3name=Thought|3rec=113.67M|3atk=344808|3defense=203818|3hp=33725074|3weak=42814
+|4name=Spirit|4rec=130.05M|4atk=380035|4defense=226860|4hp=44002244|4weak=46480
+|5name=Truth|5rec=151.87M|5atk=429140|5defense=257560|5hp=61947253|5weak=50667
+|6name=Self|6rec=182.04M|6atk=494281|6defense=300011|6hp=93727901|6weak=55328
+|Arec=224.35M|Aatk=583877|Adefense=359545|Ahp=144383388|Aweak=60484
+}}}}

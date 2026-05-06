@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Skimming Stones
+|class_id=20726
+|rank=Green
+|affct=FAITH
+|source=
+|description=The fairies residing in the Fairy Spring often find their tranquility disrupted by adventurers who frequently skip stones on the water's surface. Annoyed yet powerless, the fairies began to collect these skipping stones and store them in their dwellings. Over time, these ordinary stones gained a touch of magical essence...
+|fame=15
+|art=15
+|fth=30
+|civ=15
+|tech=15
+|ss1=Refine 1 Arcanium: Gain 1 more by 0.4%
+|ss2=Refine 1 Arcanium: Gain 1 more by 0.8%
+|ss3=Refine 1 Arcanium: Gain 1 more by 1.2%
+|ss4=Refine 1 Arcanium: Gain 1 more by 1.2%
+|ss7=Refine 1 Arcanium: Gain 1 more by 1.2%<br> (Awakened)
+}}

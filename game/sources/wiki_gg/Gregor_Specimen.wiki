@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Gregor Specimen
+|rank=Blue
+|affct=ART
+|birthday=06-11
+|source=Lottery Machine (0.03%), Wishing (1.2%), Evolution Chest (2%)
+|description=On Jun 11, 1912, Gregor Samsa turned into a bug and died quietly.
+
+Gregor was only an office worker but one day he woke up to realize that he had turned into a bug. After a few days, he got used to thinking like an insect. He started showing arrogance towards the dung beetle, and pitied the weaker insects. A few hours later, he and the dung beetle were made into specimens at the same time.
+
+[Classic Quotes]
+
+The crueler it is, the soberer I get. I do not fear death. It takes one life in exchange for another. No complaints, no explanations. What a genius.
+|fame=28
+|art=48
+|fth=23
+|civ=22
+|tech=33
+|ss1=Per 200 DNA Strength, Snail HP +30<br>DNA Strength: 800/800
+|ss2=Per 200 DNA Strength, Snail HP +30<br>DNA Strength: 1,600/1,600
+|ss3=Per 200 DNA Strength, Snail HP +30<br>DNA Strength: 2,400/2,400
+|ss4=Per 200 DNA Strength, Snail HP +30<br>DNA Strength: 4,000/4,000
+|ss7=Per 200 DNA Strength, Snail HP +30<br>DNA Strength: 4,000/4,000<br>Snail HP +500 (Awakened)
+|skill1=[[File:Tadpolepond skill I.png|50px]] Place in Tadpole Pond: B-tad Output +5%
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:ART Relics]]
+[[Category:Blue ART Relics]]
+[[Category:HP Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Mutant Minion ATK Boost]]
+[[Category:Quarry Output Boost]]
+[[Category:Ancient Fossil Boost]]
+[[Category:Demonic Tentacle Boost]]
+[[Category:Berserker Boost]]

@@ -1,0 +1,37 @@
+{{Location|title=Britland|imagecaption=Map of Britland|type=|image=File:BritlandFullMap.png}}
+
+==Britland==
+God save our gracious Queen! May she defend our laws and ever give us cause, God save the Queen!
+
+Britland is the 5th of 8 [[Realms]].
+{{realm table}}
+
+==INTEL==
+See [[Britland INTEL]] for INTEL tables.
+
+==Apostles ==
+See [[Britland Apostles]] for each Apostles' stats.
+
+==Card Conversions==
+See [[Britland Cards]] for a list of all limited cards in Britland and what they can be redeemed for.
+
+==Key Clue Records==
+See [[Britland Key Clues]] for a list of all Key Clues in Britland, how to complete them, and what they reward.
+
+==Snail Fleet and Mysterious Sea==
+See [[Snail Fleet]] to see more about the ships that can be upgraded for [[Mysterious Sea]] exploration.
+
+{|class=wikitable
+! [[Pirate Paradise]]
+! [[Bibini Bottom]]
+! [[Mecha Sea]]
+! [[Poseidon Temple]]
+! [[Dragon Palace]]
+! [[Doomsday Sea]]
+|}
+
+==Realm Trait - Ghost Ship==
+See [[Ghost Ship]] for information on cost, stats, and unsealing. 
+
+[[Category:Realm]]
+[[Category:Britland]]

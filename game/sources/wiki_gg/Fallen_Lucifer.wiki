@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Fallen Lucifer
+|class_id=21201
+|rank=AA
+|affct=FAITH
+|birthday=08-08
+|source=
+|description=On Aug 8, 1710 AD, the statue of Lucifer and the reconstruction of St. Paul's Church were completed.<br>God commanded the archangel Lucifer to bow before His Son, but Lucifer found the idea intolerable, believing the Son unworthy of his submission. As a result, he incited rebellion, leading a third of Heaven's angels in revolt. Rather than turning into a stone statue, as per some interpretations, he was cast out of Heaven. The name, Satan, became closely associated with Lucifer primarily due to John Milton's Paradise Lost, although this association is not universally accepted.
+|fame=45
+|art=42
+|fth=70
+|civ=40
+|tech=31
+|ss1=Per 30 Demon Minions in battle:<br>> Troop ATK +4<br>Per 30 Demon Minions in battle:<br>> Troop DEF +4
+|ss2=Per 30 Demon Minions in battle:<br>> Troop ATK +8<br>Per 30 Demon Minions in battle:<br>> Troop DEF +8
+|ss3=Per 30 Demon Minions in battle:<br>> Troop ATK +12<br>Per 30 Demon Minions in battle:<br>> Troop DEF +12
+|ss4=Per 30 Demon Minions in battle:<br>> Troop ATK +20<br>Per 30 Demon Minions in battle:<br>> Troop DEF +20
+|ss5=Per 30 Demon Minions in battle:<br>> Troop ATK +28<br>Per 30 Demon Minions in battle:<br>> Troop DEF +28
+|ss7=Per 30 Demon Minions in battle:<br>> Troop ATK +28<br>Per 30 Demon Minions in battle:<br>> Troop DEF +28<br>Per 30 Demon Minions in battle:<br>> Troop DEF +28 (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: This Relic's FTH +10
+|skill2=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: Snail DEF +30
+}}

@@ -1,0 +1,43 @@
+{{CargoRelic
+|name=Storyteller
+|rank=Blue
+|affct=ART
+|birthday=01-16
+|source=Lottery Machine (0.36%), Wishing (15%), Novice Scrolls (5%)
+|description=On Jan 16, 1957, this terracotta Storyteller was unearthed in the tomb on a cliff of Tianhui Mountain in Chengdu.
+
+The Eastern Han Dynasty's terracotta Storyteller demonstrates ancient folk art. It may seem absurd but its plain look was inspired by the ancient street performers. This frowning terracotta holds a drum and a stick with its mouth open, looking as if it is telling an incredible story.
+
+[Basic Info]
+
+Era: Eastern Han Dynasty
+
+Height: 56 cm
+
+Material: Terracotta clay
+
+Collected by: National Museum of China
+|fame=29
+|art=45
+|fth=25
+|civ=23
+|tech=32
+|ss1=Free Gene Speedup (Zombie) +6m
+|ss2=Free Gene Speedup (Zombie) +12m
+|ss3=Free Gene Speedup (Zombie) +18m
+|ss4=Free Gene Speedup (Zombie) +30m
+|ss7=Free Gene Speedup (Zombie) +30m<br>Free Gene Speedup (Zombie) +30m (Awakened)
+|skill1=[[File:Cathay skill I.png|50px]] Place in Cathay Museum: In Cathay, Snail DEF +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:ART Relics]]
+[[Category:Blue ART Relics]]
+[[Category:Zombie Gene Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:DEF Boost]]
+[[Category:Ancient Wood Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Drawn Dragon Boost]]

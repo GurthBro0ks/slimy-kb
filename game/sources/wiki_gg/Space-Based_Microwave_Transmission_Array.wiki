@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Space-Based Microwave Transmission Array
+|class_id=21689
+|rank=SSS
+|affct=TECH
+|source=
+|description=This is a technology that collects solar energy in space and transmits it wirelessly to Earth using microwaves. Its core lies in using solar panels in space to capture energy, converting it into microwave form through microwave transmitters, and transmitting it to receiving stations on Earth, where it is converted into electricity for use. In space, solar panels are not affected by weather and can continuously capture solar energy, achieving efficient energy collection. In the face of the global energy crisis, it provides a clean and sustainable solution, helping to reduce dependence on fossil fuels, lower greenhouse gas emissions, and combat global climate change.
+|fame=65
+|art=53
+|fth=75
+|civ=63
+|tech=106
+|ss1=Snail ATK +10<br>Snail DEF +10<br>Snail RUSH +10
+|ss2=Snail ATK +20<br>Snail DEF +20<br>Snail RUSH +20
+|ss3=Snail ATK +30<br>Snail DEF +30<br>Snail RUSH +30
+|ss4=Snail ATK +50<br>Snail DEF +50<br>Snail RUSH +50
+|ss5=Snail ATK +70<br>Snail DEF +70<br>Snail RUSH +70
+|ss6=Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100
+|ss7=Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Skill skill III.png|50px]]??? (Coming soon)
+|skill2=[[File:Skill skill III.png|50px]]??? (Coming soon)
+|skill3=[[File:Skill skill III.png|50px]]??? (Coming soon)
+}}

@@ -1,0 +1,46 @@
+{{CargoRelic
+|name=Element R.
+|rank=S
+|affct=TECH
+|birthday=02-10
+|source=Fragment Crafting (17.8%), Lottery Machine (0.81%), Relic Forge (90 Relic RF), Wishing (0.65%)
+|description=On Feb 10, 1899 AD, the Curies named the second discovered radioactive element Radium.
+
+Radium is a silver-white radioactive alkaline earth metal. It is widely available in nature, but in minimal amounts. It was an abundance of about one part per billion in the earth's crust, which is about 18 million tons. And it was the most important radioactive substance before the rise of the modern nuclear industry and is widely used in medical, industrial, and scientific research. Long-term exposure to its radiation led to Marie Curie's death.
+
+[Basic Info]
+
+Atomic number: 88.
+
+Element symbol: Ra
+|fame=65
+|art=62
+|fth=53
+|civ=52
+|tech=100
+|ss1=Snail ATK +10<br>In Mutant Form, Travel SPD +0.2%<br>In explorations, Mutant Cells gained +1%
+|ss2=Snail ATK +20<br>In Mutant Form, Travel SPD +0.4%<br>In explorations, Mutant Cells gained +2%
+|ss3=Snail ATK +30<br>In Mutant Form, Travel SPD +0.6%<br>In explorations, Mutant Cells gained +3%
+|ss4=Snail ATK +50<br>In Mutant Form, Travel SPD +1%<br>In explorations, Mutant Cells gained +5%
+|ss5=Snail ATK +70<br>In Mutant Form, Travel SPD +1.4%<br>In explorations, Mutant Cells gained +7%
+|ss6=Snail ATK +100<br>In Mutant Form, Travel SPD +2%<br>In explorations, Mutant Cells gained +10%
+|ss7=Snail ATK +100<br>In Mutant Form, Travel SPD +2%<br>In explorations, Mutant Cells gained +10%<br>In explorations, Mutant Cells gained +10% (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail DEF +600
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail ATK +600
+|skill3=[[File:Quarry skill III.png|50px]]Place in Quarry: This Relic's TECH +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Mutant Cell Drop Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:DEF Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:Quarry Skill]]
+[[Category:TECH Boost]]
+[[Category:Mutant Gene Speedup Boost]]
+[[Category:Gear Boost]]
+[[Category:RUSH Boost]]
+[[Category:Demonic Tentacle Boost]]

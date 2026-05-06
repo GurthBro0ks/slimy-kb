@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=707
+|relics=Enheduanna Plaque,Kunyu Wanguo Quantu,Mead of Poem,Frejya's Feather Cloak,The Blue Boy
+|rank=purple
+|amount=5
+|category=self
+|description=Snail Leadership +6
+}}

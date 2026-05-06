@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Leo
+|class_id=21935
+|rank=SSS
+|affct=FAME
+|source=
+|description=As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:
+Love pure as gold, enduring the real test,
+Death cannot part us, in love we are blessed.
+|fame=110
+|art=73
+|fth=66
+|civ=53
+|tech=60
+|ss1=Novice Scrolls collected from Drill Rig +10%<br>Expert Scrolls collected from Drill Rig +10%<br>Snail All ELMT CRIT Rate +5%<br>Snail All ELMT CRIT DMG +5%
+|ss2=Novice Scrolls collected from Drill Rig +10%<br>Expert Scrolls collected from Drill Rig +10%<br>Snail All ELMT CRIT Rate +5%<br>Snail All ELMT CRIT DMG +5%
+|ss3=Novice Scrolls collected from Drill Rig +10%<br>Expert Scrolls collected from Drill Rig +10%<br>Snail All ELMT CRIT Rate +5%<br>Snail All ELMT CRIT DMG +5%
+|ss4=Novice Scrolls collected from Drill Rig +10%<br>Expert Scrolls collected from Drill Rig +10%<br>Snail All ELMT CRIT Rate +5%<br>Snail All ELMT CRIT DMG +5%
+|ss5=Novice Scrolls collected from Drill Rig +10%<br>Expert Scrolls collected from Drill Rig +10%<br>Snail All ELMT CRIT Rate +5%<br>Snail All ELMT CRIT DMG +5%
+|ss6=Novice Scrolls collected from Drill Rig +10%<br>Expert Scrolls collected from Drill Rig +10%<br>Snail All ELMT CRIT Rate +5%<br>Snail All ELMT CRIT DMG +5%
+|ss7=Novice Scrolls collected from Drill Rig +10%<br>Expert Scrolls collected from Drill Rig +10%<br>Snail All ELMT CRIT Rate +5%<br>Snail All ELMT CRIT DMG +5%<br>Expert Scrolls collected from Drill Rig +10% (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, B-tads gained +15%
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Travel SPD +9%
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Cells collected +30%
+|mirage={{Mirage|name=Leo Star|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Dumas|3rec=4.62M|3atk=54279|3defense=35657|3hp=835873|3weak=?
+|4name=Carl Jung|4rec=8.72M|4atk=76914|4defense=50526|4hp=1507012|4weak=?
+|5name=Armstrong|5rec=15.47M|5atk=104464|5defense=68624|5hp=2603608|5weak=?
+|6name=Napoleon|6rec=32.75M|6atk=136962|6defense=89972|6hp=4154639|6weak=?
+|Arec=50.60M|Aatk=175193|Adefense=115087|Ahp=6541943|Aweak=?
+}}}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=291
+|relics=Aquarius,Pisces
+|rank=orange
+|amount=2
+|category=self
+|description=Troop Crit +10%
+}}

@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=MR Cell
+|type=Common
+|rank=orange
+|id=10881
+|idx=88
+|description=Tuned to Earth's magnetic field, these cells trigger bizarre phenomena when in harmony with their host’s magnetism. Masters of the art can weaponize them in surreal, unpredictable ways.
+|skill=
+|hp=1776
+|def=181
+|atk=305
+|rush=182
+|gene1=Per 20 Wonder Fungi used, {race} HP +500
+Wonder Fungi Eaten: 60/60
+|gene2=Restore 600 HP each round
+|gene3=CRIT DMG REDUC +7.5%
+|gene4=Per 10 Sim Core LVL, {race} RUSH +5
+Sim Core: 500/500
+|gene5=Demon God Cabin, deployable robots +3
+|gene7=Demon God Cabin, deployable robots +9 (Awakened)
+|}}

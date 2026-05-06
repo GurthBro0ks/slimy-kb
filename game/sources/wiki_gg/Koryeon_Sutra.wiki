@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Koryeon Sutra
+|rank=AAA
+|affct=CIV
+|birthday=07-05
+|source=Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Koryeon Treasure Maps (10%), Relic Forge (80 Relic RF)
+|description=On July 5, AD 1087, the world's most complete Sutras was engraved at the Haeinsa Temple.
+
+When these sutras were first printed, more than 800 monks from all over Korea gathered at Haeinsa Temple, waiting for the scriptures to be published. During the process, the Northern Song Dynasty and Khitan scholars came to help. Monks built a shelf and wooden door to protect the scriptures. Therefore, the complete copy of these sutras has been well-preserved until today. 
+
+[Basic Info]
+
+Collected by: Haeinsa Temple<br>Method: Engraving<br>Length: 6568 Volumes<br>Word Count: 52,382,960<br>Copies: 81,340
+|fame=45
+|art=46
+|fth=36
+|civ=73
+|tech=43
+|ss1=Snail HP +300<br>In explorations, 2x Purple Card Drops +1.2%
+|ss2=Snail HP +400<br>In explorations, 2x Purple Card Drops +1.6%
+|ss3=Snail HP +500<br>In explorations, 2x Purple Card Drops +2%
+|ss4=Snail HP +700<br>In explorations, 2x Purple Card Drops +2.8%
+|ss5=Snail HP +900<br>In explorations, 2x Purple Card Drops +3.6%
+|ss7=Snail HP +900<br>In explorations, 2x Purple Card Drops +3.6%<br>In explorations, 2x Purple Card Drops +2.8%
+|skill1=[[File:Koryeo skill II.png|50px]] Place in Koryeon Museum: In Koryeo, INTEL gained +7.5%
+|skill2=[[File:Koryeo skill II.png|50px]] Place in Koryeon Museum: In Koryeo, 2x B-tad Drops +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:CIV Relics]]
+[[Category:Purple CIV Relics]]
+[[Category:HP Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Koryeo Museum Boost]]
+[[Category:Koryeo Exploration Boost]]
+[[Category:Minion HP Boost]]
+[[Category:Minion HARD Boost]]

@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Liberty Guide People
+|rank=SS
+|affct=ART
+|birthday=01-26
+|source=ART Master Scrolls (10.2%), Dragon Chest (5%), Fragment Crafting (5.3%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), Wishing (0.2%)
+|description=On Jan 26, 1830, Delacroix created this painting to commemorate the July Revolution.
+
+On this day, Delacroix finalized the painting on the hundreds of sketches of the street battles of the July Revolution. It shows the citizens of Paris in an uprising to overthrow the Bourbon dynasty. In this battle, a girl named Lessing first raised the tricolor flag, which symbolizes the French republic, on the barricade. The whole painting takes the form of a vertical composition. The fallen corpses, the fighting warriors, and the girl holding high the French flag formed a stable and dynamic triangle. The painted witnessed this tragic and intense scene with his own eyes. Filled with righteous indignation, he determined to paint a portrait to commemorate the event. 
+
+[Basic Info]
+
+Type: Oil on canvas<br>Size: 260cmX325cm<br>Collected by: The Louvre, Paris
+|fame=64
+|art=103
+|fth=52
+|civ=55
+|tech=73
+|ss1=Snail ATK +20<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points:20,000/20,000
+|ss2=Snail ATK +30<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points:30,000/30,000
+|ss3=Snail ATK +40<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points:40,000/40,000
+|ss4=Snail ATK +60<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points: 60,000/60,000
+|ss5=Snail ATK +80<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points: 80,000/80,000
+|ss6=Snail ATK +110<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points:110,000/110,000
+|ss7=Snail ATK +110<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points: 110,000/110,000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail DEF +600
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: This Relic's ART +15
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: This Relic's ART +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:RUSH Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:ART Boost]]
+[[Category:Divine Chaos Chest Drop Boost]]
+[[Category:Time Chest Output]]
+[[Category:Rewards Lottery Ticket]]

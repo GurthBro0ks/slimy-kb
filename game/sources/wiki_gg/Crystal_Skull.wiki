@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Crystal Skull
+|rank=AAA
+|affct=ART
+|birthday=10-10
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (Relic RF 80), Time Chest (1.5%), Wishing (0.14%)
+|description=On Oct 10, 1924, a crystal skull was found in the Maya ruins of Honduras.
+
+The skull crystal was a sacrifice of the Maya. Made with crystals, it has the actual size of a man's head with facial features similar to that of modern people. There are two neat rows of upper and lower teeth. The eyes are inlaid with round crystals, and the nasal bones are made by piecing three crystals together. Legend has it that there were 13 crystal skulls that could speak and sing. These crystal skulls have information about death with can help mankind solve the mystery of life.
+
+[Basic Info]
+
+Era: 3500 years ago.<br>Height: 12.7 cm.<br>Weight: 5.2 kg
+|fame=43
+|art=71
+|fth=43
+|civ=46
+|tech=40
+|ss1=Soul Offering SPD +1.2%<br>Per 30 Dragon Minions in battle, Troop HP +40
+|ss2=Soul Offering SPD +1.6%<br>Per 30 Dragon Minions in battle, Troop HP +80
+|ss3=Soul Offering SPD +2%<br>Per 30 Dragon Minions in battle, Troop HP +120
+|ss4=Soul Offering SPD +2.8%<br>Per 30 Dragon Minions in battle, Troop HP +200
+|ss5=Soul Offering SPD +3.6%<br>Per 30 Dragon Minions in battle, Troop HP +280
+|ss7=Soul Offering SPD +3.6%<br>Per 30 Dragon Minions in battle, Troop HP +280<br>Soul Offering SPD +2.8%
+|skill1=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: CRIT +10%
+|skill2=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: CRIT DMG +10%
+}}
+
+[[Category:Offering Speed Boost]]
+[[Category:Dragon Minion HP Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:CRIT % Boost]]
+[[Category:Crit DMG Boost]]
+[[Category:Zombie Gene Cost Reduction]]
+[[Category:Dragon Gene Speedup Boost]]
+[[Category:Imp Boost]]

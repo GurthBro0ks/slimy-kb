@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Statue of Isis
+|class_id=22300
+|rank=SSS
+|affct=FAITH
+|birthday=08-04
+|source=Lottery Machine No.2 (0.11%)
+|description=On Aug 4, 3100 BC, Horus ascended to the throne of Pharaoh and placed the statue of his mother in his palace.<br>Isis is one of the Great Ennead in mythology. She was considered the divine mother of the pharaoh. With her magic power and wisdom, she resurrects her slain husband, the divine king Osiris, helps her son, Horus, to revenge, and takes the throne of Pharaoh from Set, the god of deserts. Since then, Isis has been regarded as the patron saint of women and children and worshiped by people.
+|fame=62
+|art=73
+|fth=108
+|civ=49
+|tech=70
+|ss1=All Minion DEF +0.6%<br>Per 6 kinds of Souls offered, Snail DEF +3<br>Per 6 kinds of Souls offered, Snail RUSH +3<br>Souls offered: 300/300 types
+|ss2=All Minion DEF +0.8%<br>Per 6 kinds of Souls offered, Snail DEF +4<br>Per 6 kinds of Souls offered, Snail RUSH +4<br>Souls offered: 300/300 types
+|ss3=All Minion DEF +1%<br>Per 6 kinds of Souls offered, Snail DEF +5<br>Per 6 kinds of Souls offered, Snail RUSH +5<br>Souls offered: 300/300 types
+|ss4=All Minion DEF +1.4%<br>Per 6 kinds of Souls offered, Snail DEF +7<br>Per 6 kinds of Souls offered, Snail RUSH +7<br>Souls offered: 300/300 types
+|ss5=All Minion DEF +1.8%<br>Per 6 kinds of Souls offered, Snail DEF +9<br>Per 6 kinds of Souls offered, Snail RUSH +9<br>Souls offered: 300/300 types
+|ss6=All Minion DEF +2.4%<br>Per 6 kinds of Souls offered, Snail DEF +12<br>Per 6 kinds of Souls offered, Snail RUSH +12<br>Souls offered: 300/300 types
+|ss7=All Minion DEF +2.4%<br>Per 6 kinds of Souls offered, Snail DEF +12<br>Per 6 kinds of Souls offered, Snail RUSH +12<br>Souls offered: 300/300 types<br>All Minion DEF +2% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+|mirage={{Mirage|name=Pharaoh's Mother|reward={{RewardIconWithLink|Dragon Orb, +1|orange}}
+|3name=Life Priest|3rec=35.05M|3atk=139713|3defense=93208|3hp=5580662|3weak=19450
+|4name=Magic Priest|4rec=47.10M|4atk=165118|4defense=110157|4hp=7523526|4weak=21154
+|5name=Marriage Priest|5rec=60.38M|5atk=193129|5defense=128844|5hp=9928564|5weak=24043
+|6name=Reproduction Priest|6rec=74.72M|6atk=223382|6defense=149027|6hp=12849079|6weak=29748
+|Arec=90.85M|Aatk=257384|Adefense=171711|Ahp=16445802|Aweak=32820
+}}}}

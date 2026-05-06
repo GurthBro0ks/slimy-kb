@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Africa Star,Ragnarok,Double Helix DNA
+|rank=orange
+|amount=3
+|category=self
+|description=Per Altar God Descent, Snail ATK +16<br>Gods Descended: 30/30
+}}
+[[Category:Self]]

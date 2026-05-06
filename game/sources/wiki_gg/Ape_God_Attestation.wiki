@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Ape God Attestation
+|class_id=20482
+|rank=Green
+|affct=FAME
+|source=
+|description=The power in it is too strong, so the Ape God cast magic of concealment on it. Only the Divine Dragon can sense its greatness. Do not use it unless you have enough power.
+|fame=29
+|art=14
+|fth=18
+|civ=13
+|tech=16
+|ss1=Defeated Agents drop +5 W-tads<br>Per 5 Agents Defeated, Snail ATK +3<br>Agents Defeated: 100/100
+|ss2=Defeated Agents drop +10 W-tads<br>Per 5 Agents Defeated, Snail ATK +6<br>Agents Defeated: 100/100
+|ss3=Defeated Agents drop +15 W-tads<br>Per 5 Agents Defeated, Snail ATK +9<br>Agents Defeated: 100/100
+|ss4=Defeated Agents drop +15 W-tads<br>Per 5 Agents Defeated, Snail ATK +9<br>Agents Defeated: 100/100
+|ss7=Defeated Agents drop +15 W-tads<br>Per 5 Agents Defeated, Snail ATK +9<br>Agents Defeated: 100/100<br> (Awakened)
+}}

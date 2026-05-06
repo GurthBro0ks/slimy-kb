@@ -1,0 +1,32 @@
+{{Missing Info|specifics=<br>Source<br>Categories}}
+
+{{CargoRelic
+|name=Argonautica
+|class_id=22691
+|rank=SSS
+|affct=FTH
+|birthday=09-02
+|source=
+|description=On Sept 2, 400 BC, Orpheus passed his completed Argonautica to his disciple Musaeus.<br>It is considered to be the oldest surviving Greek epic poem and the only complete narrative poem besides the two Homeric epics of ancient Greece. The poem consists of 1,376 hexameter verses and tells the story of a group of Greek heroes led by Jason, who, with the help of the princess Medea in the enemy country, overcame numerous difficulties and dangers, captured the Golden Fleece, and returned to Greece alive. This long poem embodies the culmination of ancient Western civilization and is the pinnacle of ancient Greek narrative poetry.
+|fame=57
+|art=72
+|fth=109
+|civ=48
+|tech=76
+|ss1=Angel Minion DEF +3%<br>Per Godhood LVL, Snail ATK +15<br>Per Godhood LVL, Snail RUSH +15<br>Godhood LVL: 10/10
+|ss2=Angel Minion DEF +4%<br>Per Godhood LVL, Snail ATK +20<br>Per Godhood LVL, Snail RUSH +20<br>Godhood LVL: 10/10
+|ss3=Angel Minion DEF +5%<br>Per Godhood LVL, Snail ATK +25<br>Per Godhood LVL, Snail RUSH +25<br>Godhood LVL: 10/10
+|ss4=Angel Minion DEF +7%<br>Per Godhood LVL, Snail ATK +35<br>Per Godhood LVL, Snail RUSH +35<br>Godhood LVL: 10/10
+|ss5=Angel Minion DEF +9%<br>Per Godhood LVL, Snail ATK +45<br>Per Godhood LVL, Snail RUSH +45<br>Godhood LVL: 10/10
+|ss6=Angel Minion DEF +12%<br>Per Godhood LVL, Snail ATK +60<br>Per Godhood LVL, Snail RUSH +60<br>Godhood LVL: 10/10
+|ss7=Angel Minion DEF +12%<br>Per Godhood LVL, Snail ATK +60<br>Per Godhood LVL, Snail RUSH +60<br>Godhood LVL: 10/10<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP Regen +1200
+|skill2=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop DEF +9%
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop RUSH +9%
+|mirage={{Mirage|name=Argo Hero|reward={{RewardIconWithLink|Glorium, +200|orange}}
+|3name=Orpheus|3rec=115.01M|3atk=347721|3def=205711|3hp=34400405|3weak=43136
+|4name=Theseus|4rec=131.60M|4atk=383465|4def=229042|4hp=45665775|4weak=46787
+|5name=Asclepius|5rec=153.61M|5atk=433051|5def=260010|5hp=64147141|5weak=50963
+|6name=Terramon|6rec=184.34M|6atk=499146|6def=303251|6hp=95696995|6weak=55642
+|Arec=227.43M|Aatk=590405|Adef=363871|Ahp=147913115|Aweak=60806
+}}}}

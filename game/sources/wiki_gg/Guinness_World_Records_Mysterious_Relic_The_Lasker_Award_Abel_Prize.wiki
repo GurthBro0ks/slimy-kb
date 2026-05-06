@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Guinness World Records,Mysterious Relic,The Lasker Award,Abel Prize
+|rank=orange
+|amount=4
+|category=minion
+|description=Snail Leadership +9
+}}
+[[Category:Minion]]
+[[Category:Leadership Boost]]

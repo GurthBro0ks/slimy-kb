@@ -1,0 +1,3580 @@
+==Murikan Heroes==
+The recruitment of Heroes is the unique element in [[Murika]] and allows you to use the abilities of certain apostles during your exploration throughout the Realm. Once an apostle from the North or South is defeated, they can be recruited to your team. There are 10 total Apostles/Heroes in each Realm, so 20 total that need to be defeated and recruited. Each Hero has one ability and, after acquiring certain INTEL, 3 heroes can be taken on your exploration at once. The relevant INTEL tiles are [[Murika INTEL#Mecha INTEL|Mecha INTEL tile 4, lv.3]] and [[Murika INTEL#Mecha INTEL|Mecha INTEL tile 12, lv.4]], so these should be upgraded as soon as possible.
+
+Of the 3 heroes, 1 is the Marshal, and 2 are Adjutants. The Marshal boosts your own stats, but the Adjutants only contribute their skills. Northern Adjutants can only ride with a Northern Marshal, and the same is true of the Southern Adjutants, but a Northern Marshal or Southern Marshal can be chosen despite whichever is being explored. Here we will talk about Northern Heroes, and [[Murika South Heroes]] talks about the Southern Heroes.
+
+==Upgrades==
+To upgrade each hero requires different Components, which can be picked up during exploration. Of the four Labs, there are two in each region; the Northern components upgrade Northern Heroes and Southern components upgrade Southern Heroes. Once the Hero reaches level 10, 15, 20, 25, and 30 you will receive 200 honor points, which is used to upgrade [[Lady Liberty]].
+
+{|class="wikitable"
+!Component
+!Region
+!Lab
+|- style="background-color:var(--blue-bg)"
+|style="text-align:center;" |[[File:Mecha Component.png|50px]]<br>Mecha Component
+|North
+|Mecha Lab
+|- style="background-color:var(--blue-bg)"
+|style="background-color:var(--blue-bg); text-align:center;" |[[File:Fusion Component.png|50px]]<br>Fusion Component
+|North
+|Nuclear Fusion Lab
+|- style="background-color:var(--red-bg);"
+|style="text-align:center;" |[[File:Biochem Component.png|50px]]<br>Biochem Component
+|South
+|Biochem Lab
+|- style="background-color:var(--red-bg);"
+|style="text-align:center;" |[[File:Psychic Component.png|50px]]<br>Psychic Component
+|South
+|Psychic Lab
+|}
+
+==Abilities==
+Every hero has an ability and a set of four stats: logistics, assault, generalship, and marching. These stats each correspond to a HARD stat and are considered in addition to the snail's own HARD stats during a fight. So considering both the stats and the skills will be important in choosing your formation.
+ 
+1 Logistics = 250 HP
+1 Assault = 25 ATK
+1 Generalship = 25 DEF
+1 Marching = 25 RUSH
+
+This is very unique as, usually, other snails are the only characters that can have RUSH. This makes them very useful for your own explorations. Below is a list of all Heroes and their stats and skills at Lv.30. 
+
+===Recommendations===
+Widow in White is great to start out with since she increases INTEL gained. Since heroes can be switched around during exploration, it's possible to be strategic about it. With White Widow as the Marshal, you can swap around Locust, Frost, and Grant as the Adjutants and occasionally General S. depending on your needs. If INTEL isn't needed, check out the [[Murika South Heroes]] instead. 
+
+After your initial exploration and while conquering the area, a great formation for the north is Spiderguy as the Marshal with Thunder Smith and Star Child as Adjutants. Rockman could potentially be a good Marshal with Spiderguy and Thundersmith as Adjutants, as well. All in all, consider your stat boosts versus the total effect while coming up with a formation, and of course do some testing. Typically, ATK > RUSH > DEF > HP.
+
+{|class="wikitable"
+!Hero
+!Logistics
+!Attack
+!Generalship
+!Marching
+!Ability
+
+|-
+|Widow in White
+|83
+|85
+|83
+|69
+|INTEL obtained +15% 
+|-
+|Rockman
+|98 
+|79
+
+|69
+|74
+|Snail HP +15%
+|-
+|Spiderguy
+|70
+|83
+|70
+|97
+|Snail ATK +15%
+|-
+|Locust
+|91
+|75
+|74
+|80
+|B-Tadpoles obtained +15%
+|-
+|Thunder Smith
+|69
+|97
+|84
+|70
+|Snail RUSH +15% 
+|-
+|Star Child
+|78
+|69
+|91
+|82
+|Snail DEF +15%
+|-
+|Alpha Wolf 
+|69
+|99
+|83
+|69
+|Healing Effect +200%
+|-
+|General S.
+|73
+|93
+|85
+|69
+|Cell obtained +15% 
+|-
+|Frost
+|83
+|72
+|70
+|95
+|15% chance to get double Time Chests
+|-
+|Grant
+|69 
+|96
+|83
+|72
+|15% chance to get double Cards
+|}
+
+==Widow in White==
+{|class="mw-collapsed mw-collapsible wikitable"
+! rowspan="2" |Level
+! rowspan="2" |Logistics
+! rowspan="2" |Assault
+! rowspan="2" |Generalship
+! rowspan="2" |Marching
+! rowspan="2" |Ability
+! colspan="4" |Component Cost 
+|-
+!{{RewardIcon|Mecha Component}}Mecha
+!{{RewardIcon|Fusion Component}}Fusion
+!{{RewardIcon|Biochem Component}}Biochem
+!{{RewardIcon|Psychic Component}}Psychic
+|-
+|1
+|15
+|17
+|15
+|1
+|INTEL obtained +0.5%
+|
+|
+|
+|
+|-
+|2
+|17
+|19
+|17
+|3
+|INTEL obtained +1%
+|10
+|
+|
+|
+|-
+|3
+|19
+|21
+|19
+|5
+|INTEL obtained +1.5%
+|10
+|
+|
+|
+|-
+|4
+|21
+|23
+|21
+|7
+|INTEL obtained +2%
+|20
+|
+|
+|
+|-
+|5
+|23
+
+|25 
+|23
+|9
+|INTEL obtained +2.5%
+|20
+|
+|
+|
+|-
+|6
+|25
+|27
+|25
+|11
+|INTEL obtained +3% 
+|30
+|
+|
+|
+|-
+|7
+|27
+|29
+|27
+|13
+|INTEL obtained +3.5%
+|30
+|
+|
+|
+|-
+|8
+|29
+|31
+|29
+|15
+|INTEL obtained +4% 
+|40
+|
+|
+|
+|-
+|9
+|31
+|33
+
+|31
+|17
+|INTEL obtained +4.5%
+|40
+|
+|
+|
+|-
+|10
+|33
+|35
+|33
+|19
+|INTEL obtained +5%
+|50
+|
+|
+|
+|-
+|11
+|35
+|37
+|35
+|21
+|INTEL obtained +5.5%
+|50
+|20
+
+|
+|
+|-
+|12
+|37
+|39
+|37
+|23
+|INTEL obtained +6% 
+|60
+|20
+|
+|
+|-
+|13
+|39
+|41
+
+|39
+|25
+|INTEL obtained +6.5%
+|70
+|20 
+|
+|
+|-
+|14
+|41
+|43
+|41
+|27
+|INTEL obtained +7%
+|80
+|30
+|
+|
+|-
+|15
+|43
+|45
+|43
+|29
+|INTEL obtained +7.5%
+|90
+|30 
+|
+|
+|-
+|16
+|45
+|47
+|45
+|31
+|INTEL obtained +8%
+|100
+|30
+|
+|
+|-
+|17
+|47
+|49
+|47
+|33
+|INTEL obtained +8.5% 
+|100
+|40
+|
+|
+|-
+|18
+|49
+|51
+|49
+|35
+|INTEL obtained +9%
+|100
+|40
+|
+|
+|-
+|19
+|51
+|53 
+|51
+|37
+|INTEL obtained +9.5%
+|100
+|40
+|
+|
+|-
+|20
+|53
+|55
+|53
+|39
+|INTEL obtained +10%
+|100
+|50
+|
+|
+|-
+|21
+|55
+|57
+|55
+|41
+|INTEL obtained +10.5%
+|120
+|50
+|
+|
+|-
+|22
+|57
+|59
+|57
+|43
+|INTEL obtained +11%
+|120
+|50
+|
+|
+|-
+|23
+|59
+|61
+|59
+|45
+|INTEL obtained +11.5% 
+|120
+|50
+|
+|
+|-
+|24
+|61
+|63
+|61
+|47
+|INTEL obtained +12%
+|120
+|50
+|
+|
+|-
+|25
+|63
+|65
+|63
+|49
+|INTEL obtained +12.5%
+|120
+|50
+|
+|
+|-
+|26
+|65
+|67
+|65
+|51
+|INTEL obtained +13%
+|150
+|60
+|
+|
+|-
+|27
+
+|67
+|69
+|67
+|53
+|INTEL obtained +13.5%
+|150
+
+|80
+|
+|
+|-
+|28
+|69
+|71
+|69
+|55
+|INTEL obtained +14%
+|150
+|50
+|
+|
+|-
+|29
+|71
+|73
+|71
+|57
+|INTEL obtained +14.5%
+|150
+|100
+|
+|
+|-
+|30
+|73
+|75
+|73
+|59
+|INTEL obtained +15%
+|150
+|150
+|
+|
+|}
+
+==Rockman==
+{|class="mw-collapsed mw-collapsible wikitable"
+! rowspan="2" |Level
+! rowspan="2" |Logistics
+! rowspan="2" |Assault
+! rowspan="2" |Generalship
+! rowspan="2" |Marching
+! rowspan="2" |Ability
+! colspan="4" |Component Cost
+|-
+!{{RewardIcon|Mecha Component}}Mecha
+!{{RewardIcon|Fusion Component}}Fusion
+!{{RewardIcon|Biochem Component}}Biochem
+!{{RewardIcon|Psychic Component}}Psychic
+|-
+|1
+|30
+|11
+|1
+|6
+|Snail HP +0.5%
+|
+|
+|
+|
+|-
+|2
+|32
+|13
+|3
+|8
+|Snail HP +1%
+|
+|10
+|
+|
+|-
+|3
+|34
+|15
+|5
+|10
+|Snail HP +1.5%
+|
+|10
+|
+|
+|-
+|4
+|36
+|17
+|7
+|12
+|Snail HP +2%
+|
+|20
+|
+|
+|-
+|5
+|38
+|19
+|9
+|14
+|Snail HP +2.5%
+|
+|20
+|
+|
+|-
+|6
+|40
+|21
+|11
+|169
+|Snail HP +3%
+|
+|30
+|
+|
+|-
+|7
+|42
+|23
+|13
+|18
+|Snail HP +3.5%
+|
+|30
+|
+|
+|-
+|8
+|44
+|25
+|15
+|20
+|Snail HP +4%
+|
+|40
+|
+|
+|-
+|9
+|46
+|27
+|17
+|22
+|Snail HP +4.5%
+|
+|40
+|
+|
+|-
+|10
+|48
+|29
+|19
+|24
+|Snail HP +5%
+|
+|50
+|
+|
+|-
+|11
+|50
+|31
+|21
+|26
+|Snail HP +5.5%
+|20
+|50
+|
+|
+|-
+|12
+|52
+|33
+|23
+|28
+|Snail HP +6%
+|20
+|60
+|
+|
+|-
+|13
+|54
+|35
+|25
+|30
+|Snail HP +6.5%
+|20
+|70
+|
+|
+|-
+|14
+|56
+|37
+|27
+|32
+|Snail HP +7%
+|30
+|80
+|
+|
+|-
+|15
+|58
+|39
+|29
+|34
+|Snail HP +7.5%
+|30
+|90
+|
+|
+|-
+|16
+|60
+|41
+|31
+|36
+|Snail HP +8%
+|30
+|100
+|
+|
+|-
+|17
+|62
+|43
+|33
+|38
+|Snail HP +8.5%
+|40
+|100
+|
+|
+|-
+|18
+|64
+|45
+|35
+|40
+|Snail HP +9%
+|40
+|100
+|
+|
+|-
+|19
+|66
+|47
+|37
+|42
+|Snail HP +9.5%
+|40
+|100
+|
+|
+|-
+|20
+|68
+|49
+|39
+|44
+|Snail HP +10%
+|50
+|100
+|
+|
+|-
+|21
+|70
+|51
+|41
+|46
+|Snail HP +10.5%
+|50
+|120
+|
+|
+|-
+|22
+|72
+|53
+|43
+|48
+|Snail HP +11%
+|50
+|120
+|
+|
+|-
+|23
+|71
+|55
+|45
+|50
+|Snail HP +11.5%
+|50
+|120
+|
+|-
+|24
+|76
+|57
+|47
+|52 
+|Snail HP +12%
+|50
+|120
+|
+|
+|-
+|25
+|78
+|59
+|49
+|54
+|Snail HP +12.5%
+|50
+|120
+|
+|-
+|26
+|80
+|61
+|51
+|56
+|Snail HP +13%
+|60
+|150
+|
+|
+|-
+|27
+|82
+|63
+|53
+|58 
+|Snail HP +13.5%
+|80
+|150
+|
+|
+|-
+|28
+|84
+|65
+|55 
+|60
+|Snail HP +14%
+|90
+|150
+|
+|
+|-
+|29
+|86
+|67
+|57
+|62
+|Snail HP +14.5%
+|100
+|150
+|
+|
+|-
+|30
+|88
+|69
+|59
+|64
+|Snail HP +15%
+|150
+|150
+|
+|
+|}
+
+==Spiderguy==
+{|class="mw-collapsed mw-collapsible wikitable"
+! rowspan="2" |Level 
+! rowspan="2" |Logistics 
+! rowspan="2" |Assault 
+! rowspan="2" |Generalship 
+! rowspan="2" |Marching 
+! rowspan="2" |Ability 
+! colspan="4" |Component Cost
+|-
+!{{RewardIcon|Mecha Component}}Mecha
+!{{RewardIcon|Fusion Component}}Fusion
+!{{RewardIcon|Biochem Component}}Biochem
+!{{RewardIcon|Psychic Component}}Psychic
+|-
+|1
+|2
+|15
+|2
+|29
+|Snail ATK +0.5%
+|
+|
+|
+|
+|-
+|2
+|4
+|17
+|4
+|31
+|Snail ATK +1%
+|
+|10
+|
+|
+|-
+|3
+|6
+|19
+|6
+|33
+|Snail ATK +1.5%
+|
+|10
+|
+|-
+|4
+|8
+|21
+|8
+|35
+|Snail ATK +2%
+|
+|20
+|
+|
+|-
+|5
+|10
+|23
+|10
+|37
+|Snail ATK +2.5%
+|
+|20
+|
+|-
+|6
+|12
+|25
+|12
+|39
+|Snail ATK +3%
+|
+|30
+|
+|
+|-
+|7
+|14
+|27
+|14
+|41
+|Snail ATK +3.5%
+|
+|30
+|
+|
+|-
+|8
+|16
+|29
+|16
+|43
+|Snail ATK +4%
+|
+|40
+|
+|
+|-
+|9
+|18
+|31
+|18
+|45
+|Snail ATK +4.5%
+|
+|40
+|
+|
+|-
+|10
+|20
+|33
+|20
+|47
+|Snail ATK +5%
+|
+|50
+|
+|
+|-
+|11
+|21
+|35
+|22
+|49
+|Snail ATK +5.5%
+|10
+|50
+|
+|
+|-
+|12
+|24
+|37
+|24
+|51
+|Snail ATK +6%
+|10
+|60
+|
+|
+|-
+|13
+|26
+|39
+|26
+|53
+|Snail ATK +6.5%
+|10
+|70
+|
+|
+|-
+|14
+|28
+|41
+|28
+|55
+|Snail ATK +7%
+|20
+|80
+|
+|
+|-
+|15
+|30
+|43
+|30
+|58
+|Snail ATK +7.5%
+|20
+|90
+|
+|
+|-
+|16
+|32
+|45
+|32
+|59
+|Snail ATK +8%
+|20
+|100
+|
+|
+|-
+|17
+|34
+|47
+|34
+|60
+|Snail ATK +8.5%
+|30
+|100
+|
+|
+|-
+|18
+|36
+|49
+|36
+|63
+|Snail ATK +9%
+|30
+|100
+|
+|
+|-
+|19
+|38
+|51
+|38
+|65
+|Snail ATK +9.5%
+|30
+|100
+|
+|
+|-
+|20
+|40
+|53
+|40
+|67
+|Snail ATK +10%
+|40
+|100
+|
+|-
+|21
+|42
+|55
+|42
+|69
+|Snail ATK +10.5%
+|40 
+|120
+|10
+|
+|-
+|22
+|44
+|57
+|44
+|71
+|Snail ATK +11%
+|40 
+|120
+|20
+|
+|-
+|23
+|46
+|59
+|46
+|73
+|Snail ATK +11.5%
+|50
+|120
+|20
+|
+|-
+|24 
+|48
+|61
+|48
+|75
+|Snail ATK +12%
+|50
+|120
+|30
+|
+|-
+|25
+|50
+|63
+|50
+|77
+|Snail ATK +12.5%
+|50
+|120
+|30
+|
+|-
+|26
+|52
+|65
+|52
+|49
+|Snail ATK +13%
+|50
+|150
+|40
+|
+|-
+|27
+|54
+|67
+|54
+|81
+|Snail ATK +13.5%
+|50
+|150
+|40
+|
+|-
+|28
+|56
+|69
+|56
+|83
+|Snail ATK +14%
+|50
+|150
+|50
+|
+|-
+|29
+|58
+|71
+|58
+|85
+|Snail ATK +14.5%
+|50
+|150
+|50
+|
+|-
+|30
+|60
+|73
+|60
+|87
+|Snail ATK +15%
+|50
+|150
+|60
+|
+|}
+
+==Locust==
+{|class="mw-collapsed mw-collapsible wikitable"
+! rowspan="2" |Level
+! rowspan="2" |Logistics
+! rowspan="2" |Assault
+! rowspan="2" |Generalship
+! rowspan="2" |Marching
+! rowspan="2" |Ability
+! colspan="4" |Component Cost
+|-
+!{{RewardIcon|Mecha Component}}Mecha
+!{{RewardIcon|Fusion Component}}Fusion
+!{{RewardIcon|Biochem Component}}Biochem
+!{{RewardIcon|Psychic Component}}Psychic
+|-
+|1
+|23
+|7
+|6
+|12
+|B-Tadpoles obtained +0.5%
+|
+|
+|
+|
+|-
+|2
+|25
+|9
+|8
+|14
+|B-Tadpoles obtained +1%
+|10
+|
+|
+|
+|-
+|3
+|27
+|11
+|10
+|16
+|B-Tadpoles obtained +1.5%
+|10
+|
+|
+|-
+|4
+|29
+|13
+|12
+|18
+|B-Tadpoles obtained +2%
+|20
+|
+|
+|
+|-
+|5
+|31
+|15
+|14
+|20
+|B-Tadpoles obtained +2.5%
+|20
+|
+|
+|-
+|6
+|33
+|17
+|16
+|22
+|B-Tadpoles obtained +3%
+|30
+|
+|
+|
+|-
+|7
+|35
+|19
+|18
+|24
+|B-Tadpoles obtained +3.5%
+|30
+|
+|
+|
+|-
+|8
+|37
+|21
+|20
+|26
+|B-Tadpoles obtained +4%
+|40
+|
+|
+|
+|-
+|9
+|39
+|23
+|22
+|28
+|B-Tadpoles obtained +4.5%
+|40
+|
+|
+|
+|-
+|10
+|41
+|25
+|24
+|30
+|B-Tadpoles obtained +5%
+|50
+|
+|
+|
+|-
+|11
+|43
+|27
+|26
+|32
+|B-Tadpoles obtained +5.5%
+|50
+|10
+|
+|
+|-
+|12
+|45
+|29
+|28
+|34
+|B-Tadpoles obtained +6%
+|60
+|10
+|
+|
+|-
+|13
+|47
+|31
+|30
+|36
+|B-Tadpoles obtained +%6.5
+|70
+|10
+|
+|
+|-
+|14
+|49
+|33
+|32
+|38
+|B-Tadpoles obtained +7%
+|80
+|20
+|
+|
+|-
+|15
+|51
+|35
+|34
+|40
+|B-Tadpoles obtained +7.5%
+|90
+|20
+|
+|
+|-
+|16
+|53
+|37
+|36
+|42
+|B-Tadpoles obtained +8%
+|100
+|20
+|
+|
+|-
+|17
+|55
+|39
+|38
+|44
+|B-Tadpoles obtained +8.5%
+|100
+|30
+|
+|
+|-
+|18
+|57
+|41
+|40
+|46
+|B-Tadpoles obtained +9%
+|100
+|30
+|
+|
+|-
+|19
+|59
+|43
+|42
+|48
+|B-Tadpoles obtained +9.5%
+|100
+|30
+|
+|
+|-
+|20
+|61
+|45
+|44
+|50
+|B-Tadpoles obtained +10%
+|100
+|40
+|
+|-
+|21
+|63
+|49
+|46
+|52
+|B-Tadpoles obtained +10.5%
+|120
+|40
+|10
+|
+|-
+|22
+|65
+|49
+|48
+|54
+|B-Tadpoles obtained +11%
+|120
+|40
+|20
+|
+|-
+|23
+|67
+|51
+|50
+|56
+|B-Tadpoles obtained +11.5%
+|120
+|50
+|20
+|
+|-
+|24
+|69
+|53
+|52
+|58
+|B-Tadpoles obtained +12%
+|120
+|50
+|30
+|
+|-
+|25
+|71
+|55
+|54
+|60
+|B-Tadpoles obtained +12.5%
+|120
+|50
+|30
+|
+|-
+|26
+|73
+|57
+|56
+|62
+|B-Tadpoles obtained +13%
+|150
+|50
+|40
+|
+|-
+|27
+|75
+|59
+|58
+|64
+|B-Tadpoles obtained +13.5%
+|150
+|50
+|40
+|
+|-
+|28
+|77
+|61
+|60
+|66
+|B-Tadpoles obtained +14%
+|150
+|50
+|50
+|
+|-
+|29
+|79
+|63
+|62
+|68
+|B-Tadpoles obtained +14.5%
+|150
+|50
+|50
+|
+|-
+|30
+|81
+|65
+|64
+|70
+|B-Tadpoles obtained +15%
+|150
+|50
+|60
+|
+|}
+
+==Thunder Smith==
+{|class="mw-collapsed mw-collapsible wikitable"
+! rowspan="2" |Level
+! rowspan="2" |Logistics
+! rowspan="2" |Assault
+! rowspan="2" |Generalship
+! rowspan="2" |Marching
+! rowspan="2" |Ability
+! colspan="4" |Component Cost
+|-
+!{{RewardIcon|Mecha Component}}Mecha
+!{{RewardIcon|Fusion Component}}Fusion
+!{{RewardIcon|Biochem Component}}Biochem
+!{{RewardIcon|Psychic Component}}Psychic
+|-
+|1
+|1
+|29
+|16
+|2
+|Snail RUSH +0.5%
+|
+|
+|
+|
+|-
+|2
+|3
+|31
+|18
+|4
+|Snail RUSH +1%
+|
+|10
+|
+|
+|-
+|3
+|5
+|33
+|20
+|6
+|Snail RUSH +1.5%
+|
+|10
+|
+|
+|-
+|4
+|7
+|35
+|22
+|8
+|Snail RUSH +2%
+|
+|20
+|
+|
+|-
+|5
+|9
+|37
+|24
+|10
+|Snail RUSH +2.5%
+|
+|20
+|
+|
+|-
+|6
+|11
+|39
+|26
+|12
+|Snail RUSH +3%
+|
+|30
+|
+|
+|-
+|7
+|13
+|41
+|28
+|14
+|Snail RUSH +3.5%
+|
+|30
+|
+|
+|-
+|8
+|15
+|43
+|30
+|16
+|Snail RUSH +4%
+|
+|40
+|
+|
+|-
+|9
+|17
+|45
+|32
+|18
+|Snail RUSH +4.5%
+|
+|40
+|
+|
+|-
+|10
+|19
+|47
+|34
+|20
+|Snail RUSH +5%
+|
+|50
+|
+|
+|-
+|11
+|21
+|49
+|36
+|22
+|Snail RUSH +5.5%
+|10
+|50
+|
+|
+|-
+|12
+|23
+|51
+|38
+|24
+|Snail RUSH +6%
+|10
+|60
+|
+|
+|-
+|13
+|25
+|53
+|40
+|26
+|Snail RUSH +6.5%
+|10
+|70
+|
+|
+|-
+|14
+|27
+|55
+|42
+|28
+|Snail RUSH +7%
+|20
+|80
+|
+|
+|-
+|15
+|29
+|57
+|44
+|30
+|Snail RUSH +7.5%
+|20
+|90
+|
+|
+|-
+|16
+|31
+|59
+|46
+|32
+|Snail RUSH +8%
+|20
+|100
+|
+|
+|-
+|17
+|33
+|61
+|48
+|34
+|Snail RUSH +8.5%
+|30
+|100
+|
+|
+|-
+|18
+|35
+|63
+|50
+|36
+|Snail RUSH +9%
+|30
+|100
+|
+|
+|-
+|19
+|37
+|65
+|52
+|38
+|Snail RUSH +9.5%
+|30
+|100
+|
+|
+|-
+|20
+|39
+|67
+|54
+|40
+|Snail RUSH +10%
+|40
+|100
+|
+|-
+|21
+|41
+|69
+|56
+|42
+|Snail RUSH +10.5%
+|40
+|120
+|
+|10
+|-
+|22
+|43
+|71
+|58
+|44
+|Snail RUSH +11%
+|40
+|120
+|
+|20
+|-
+|23
+|45
+|73
+|60
+|46
+|Snail RUSH +11.5%
+|50
+|120
+|
+|20
+|-
+|24
+|47
+|75
+|62
+|48
+|Snail RUSH +12%
+|50
+|120
+|
+|30
+|-
+|25
+|49
+|77
+|64
+|50
+|Snail RUSH +12.5%
+|50
+|120
+|
+|30
+|-
+|26
+|51
+|79
+|66
+|52
+|Snail RUSH +13%
+|50
+|150
+|
+|40
+|-
+|27
+|53
+|81
+|68
+|54
+|Snail RUSH +13.5%
+|50
+|150
+|
+|40
+|-
+|28
+|55
+|83
+|70
+|56
+|Snail RUSH +14%
+|50
+|150
+|
+|50
+|-
+|29
+|57
+|85
+|72
+|58
+|Snail RUSH +14.5%
+|50
+|150
+|
+|50
+|-
+|30
+|59
+|87
+|74
+|60
+|Snail RUSH +15%
+|50
+|150
+|
+|60
+|}
+
+==Star Child==
+{|class="mw-collapsed mw-collapsible wikitable"
+! rowspan="2" |Level
+! rowspan="2" |Logistics
+! rowspan="2" |Assault
+! rowspan="2" |Generalship
+! rowspan="2" |Marching
+! rowspan="2" |Ability
+! colspan="4" |Component Cost
+|-
+!{{RewardIcon|Mecha Component}}Mecha
+!{{RewardIcon|Fusion Component}}Fusion
+!{{RewardIcon|Biochem Component}}Biochem
+!{{RewardIcon|Psychic Component}}Psychic
+|-
+|1
+|10
+|1
+|23
+|14
+|Snail DEF +0.5%
+|
+|
+|
+|
+|-
+|2
+|12
+|3
+|25
+|16
+|Snail DEF +1%
+|10
+|
+|
+|
+|-
+|3
+|14
+|5
+|27
+|18
+|Snail DEF +1.5%
+|10
+|
+|
+|-
+|4
+|16
+|7
+|29
+|20
+|Snail DEF +2%
+|20
+|
+|
+|
+|-
+|5
+|18
+|9
+|31
+|22
+|Snail DEF +2.5%
+|20
+|
+|
+|-
+|6
+|20
+|11
+|33
+|24
+|Snail DEF +3%
+|30
+|
+|
+|
+|-
+|7
+|22
+|13
+|35
+|26
+|Snail DEF +3.5%
+|30
+|
+|
+|
+|-
+|8
+|24
+|15
+|35
+|28
+|Snail DEF +4%
+|40
+|
+|
+|
+|-
+|9
+|26
+|17
+|39
+|30
+|Snail DEF +4.5%
+|40
+|
+|
+|
+|-
+|10
+|28
+|19
+|41
+|32
+|Snail DEF +5%
+|50
+|
+|
+|
+|-
+|11
+|30
+|21
+|43
+|34
+|Snail DEF +5.5%
+|50
+|10
+|
+|
+|-
+|12
+|32
+|23
+|45
+|36
+|Snail DEF +6%
+|60
+|10
+|
+|
+|-
+|13
+|34
+|25
+|47
+|38
+|Snail DEF +6.5%
+|70
+|10
+|
+|
+|-
+|14
+|36
+|27
+|49
+|40
+|Snail DEF +7%
+|80
+|20
+|
+|
+|-
+|15
+|38
+|29
+|51
+|42
+|Snail DEF +7.5%
+|90
+|20
+|
+|
+|-
+|16
+|40
+|31
+|53
+|44
+|Snail DEF +8%
+|100
+|20
+|
+|
+|-
+|17
+|42
+|33
+|55
+|46
+|Snail DEF +8.5%
+|100
+|30
+|
+|
+|-
+|18
+|44
+|35
+|57
+|48
+|Snail DEF +9%
+|100
+|30
+|
+|
+|-
+|19
+|46
+|37
+|59
+|50
+|Snail DEF +9.5%
+|100
+|30
+|
+|
+|-
+|20
+|48
+|39
+|61
+|52
+|Snail DEF +10%
+|100
+|40
+|
+|-
+|21
+|50
+|41
+|63
+|54
+|Snail DEF +10.5%
+|120
+|40
+|10
+|
+|-
+|22
+|52
+|43
+|65
+|56
+|Snail DEF +11%
+|120
+|40
+|10
+|
+|-
+|23
+|54
+|45
+|67
+|58
+|Snail DEF +11.5%
+|120
+|50
+|20
+|
+|-
+|24
+|56
+|47
+|69
+|60
+|Snail DEF +12%
+|120
+|50
+|30
+|
+|-
+|25
+|58
+|49
+|71
+|62
+|Snail DEF +12.5%
+|120
+|50
+|30
+|
+|-
+|26
+|60
+|51
+|73
+|64
+|Snail DEF +13%
+|150
+|50
+|40
+|
+|-
+|27
+|62
+|53
+|75
+|66
+|Snail DEF +13.5%
+|150
+|50
+|40
+|
+|-
+|28
+|64
+|55
+|77
+|68
+|Snail DEF +14%
+|150
+|50
+|50
+|
+|-
+|29
+|66
+|57
+|79
+|70
+|Snail DEF +14.5%
+|150
+|50
+|50
+|
+|-
+|30
+|68
+|59
+|81
+|72
+|Snail DEF +15%
+|150
+|50
+|60
+|
+|}
+
+==Alpha Wolf==
+{|class="mw-collapsed mw-collapsible wikitable"
+! rowspan="2" |Level
+! rowspan="2" |Logistics
+! rowspan="2" |Assault
+! rowspan="2" |Generalship
+! rowspan="2" |Marching
+! rowspan="2" |Ability
+! colspan="4" |Component Cost
+|-
+!{{RewardIcon|Mecha Component}}Mecha
+!{{RewardIcon|Fusion Component}}Fusion
+!{{RewardIcon|Biochem Component}}Biochem
+!{{RewardIcon|Psychic Component}}Psychic
+|-
+|1
+|1
+|31
+|15
+|1
+|Healing Effect +55%
+|
+|
+|
+|
+|-
+|2
+|3
+|33
+|17
+|3
+|Healing Effect +60%
+|10
+|
+|
+|
+|-
+|3
+|5
+|35
+|19
+|5
+|Healing Effect +65%
+|10
+|
+|
+|
+|-
+|4
+|7
+|37
+|21
+|7
+|Healing Effect +70%
+|20
+|
+|
+|
+|-
+|5
+|9
+|39
+|23
+|9
+|Healing Effect +75%
+|20
+|
+|
+|
+|-
+|6
+|11
+|41
+|25
+|11
+|Healing Effect +80%
+|30
+|
+|
+|
+|-
+|7
+|13
+|43
+|27
+|13
+|Healing Effect +85%
+|30
+|
+|
+|
+|-
+|8
+|15
+|45
+|29
+|15
+|Healing Effect +90%
+|40
+|
+|
+|
+|-
+|9
+|17
+|47
+|31
+|17
+|Healing Effect +95%
+|40
+|
+|
+|
+|-
+|10
+|19
+|49
+|33
+|19
+|Healing Effect +100%
+|50
+|
+|
+|
+|-
+|11
+|21
+|51
+|35
+|21
+|Healing Effect +105%
+|50
+|10
+|
+|
+|-
+|12
+|23
+|53
+|37
+|23
+|Healing Effect +110%
+|60
+|10
+|
+|
+|-
+|13
+|25
+|55
+|39
+|25
+|Healing Effect +115%
+|70
+|10
+|
+|
+|-
+|14
+|27
+|57
+|41
+|27
+|Healing Effect +120%
+|80
+|20
+|
+|
+|-
+|15
+|29
+|59
+|43
+|29
+|Healing Effect +125%
+|90
+|20
+|
+|
+|-
+|16
+|31
+|61
+|45
+|31
+|Healing Effect +130%
+|100
+|20
+|
+|
+|-
+|17
+|33
+|63
+|47
+|33
+|Healing Effect +135%
+|100
+|30
+|
+|
+|-
+|18
+|35
+|65
+|49
+|35
+|Healing Effect +140%
+|100
+|30
+|
+|
+|-
+|19
+|337
+|67
+|51
+|37
+|Healing Effect +145%
+|100
+|30
+|
+|
+|-
+|20
+|39
+|69
+|53
+|39
+|Healing Effect +150%
+|100
+|40
+|
+|-
+|21
+|41
+|71
+|55
+|41
+|Healing Effect +155%
+|120
+|40
+|
+|10
+|-
+|22
+|43
+|73
+|57
+|43
+|Healing Effect +160%
+|120
+|40
+|
+|20
+|-
+|23
+|45
+|75
+|59
+|45
+|Healing Effect +165%
+|120
+|50
+|
+|20
+|-
+|24
+|47
+|77
+|61
+|47
+|Healing Effect +170%
+|120
+|50
+|
+|30
+|-
+|25
+|49
+|79
+|63
+|49
+|Healing Effect +175%
+|120
+|50
+|
+|30
+|-
+|26
+|51
+|81
+|65
+|51
+|Healing Effect +180%
+|150
+|50
+|
+|40
+|-
+|27
+|53
+|83
+|67
+|53
+|Healing Effect +185%
+|150
+|50
+|
+|40
+|-
+|28
+|55
+|85
+|69
+|55
+|Healing Effect +190%
+|150
+|50
+|
+|50
+|-
+|29
+|57
+|87
+|71
+|57
+|Healing Effect +195%
+|150
+|50
+|
+|50
+|-
+|30
+|59
+|89
+|73
+|59
+|Healing Effect +200%
+|150
+|50
+|
+|60
+|}
+
+==General S.==
+{|class="mw-collapsed mw-collapsible wikitable"
+! rowspan="2" |Level
+! rowspan="2" |Logistics
+! rowspan="2" |Assault
+! rowspan="2" |Generalship
+! rowspan="2" |Marching
+! rowspan="2" |Ability
+! colspan="4" |Component Cost
+|-
+!{{RewardIcon|Mecha Component}}Mecha
+!{{RewardIcon|Fusion Component}}Fusion
+!{{RewardIcon|Biochem Component}}Biochem
+!{{RewardIcon|Psychic Component}}Psychic
+|-
+|1
+|5
+|25
+|17
+|1
+|Cells obtained +0.5%
+|
+|
+|
+|
+|-
+|2
+|7
+|27
+|19
+|3
+|Cells obtained +1%
+|
+|10
+|
+|
+|-
+|3
+|9
+|29
+|21
+|5
+|Cells obtained +1.5%
+|
+|10
+|
+|
+|-
+|4
+|11
+|31
+|23
+|7
+|Cells obtained +2%
+|
+|20
+|
+|
+|-
+|5
+|13
+|33
+|25
+|9
+|Cells obtained +2.5%
+|
+|20
+|
+|
+|-
+|6
+|15
+|35
+|27
+|11
+|Cells obtained +3%
+|
+|30
+|
+|
+|-
+|7
+|17
+|37
+|29
+|13
+|Cells obtained +3.5%
+|
+|30
+|
+|
+|-
+|8
+|19
+|39
+|31
+|15
+|Cells obtained +4%
+|
+|40
+|
+|
+|-
+|9
+|21
+|41
+|33
+|17
+|Cells obtained +4.5%
+|
+|40
+|
+|
+|-
+|10
+|23
+|43
+|35
+|19
+|Cells obtained +5%
+|10
+|50
+|
+|
+|-
+|11
+|25
+|45
+|37
+|21
+|Cells obtained +5.5%
+|10
+|50
+|
+|
+|-
+|12
+|27
+|47
+|39
+|23
+|Cells obtained +6%
+|10
+|60
+|
+|
+|-
+|13
+|29
+|49
+|41
+|25
+|Cells obtained +6.5%
+|20
+|70
+|
+|
+|-
+|14
+|31
+|51
+|43
+|27
+|Cells obtained +7%
+|20
+|80
+|
+|
+|-
+|15
+|33
+|53
+|45
+|29
+|Cells obtained +7.5%
+|20
+|90
+|
+|
+|-
+|16
+|35
+|55
+|47
+|31
+|Cells obtained +8%
+|20
+|100
+|
+|
+|-
+|17
+|37
+|57
+|49
+|33
+|Cells obtained +8.5%
+|30
+|100
+|
+|
+|-
+|18
+|39
+|59
+|51
+|35
+|Cells obtained +9%
+|30
+|100
+|
+|
+|-
+|19
+|41
+|61
+|53
+|37
+|Cells obtained +9.5%
+|30
+|100
+|
+|
+|-
+|20
+|43
+|63
+|55
+|39
+|Cells obtained +10%
+|40
+|100
+|
+|10
+|-
+|21
+|45
+|65
+|57
+|10
+|Cells obtained +10.5%
+|40
+|120
+|
+|20
+|-
+|22
+|47
+|67
+|59
+|43
+|Cells obtained +11%
+|40
+|120
+|
+|20
+|-
+|23
+|49
+|69
+|61
+|45
+|Cells obtained +11.5%
+|50
+|120
+|
+|30
+|-
+|24
+|51
+|71
+|63
+|47
+|Cells obtained +12%
+|50
+|120
+|
+|30
+|-
+|25
+|53
+|73
+|65
+|49
+|Cells obtained +12.5%
+|50
+|120
+|
+|30
+|-
+|26
+|55
+|75
+|67
+|51
+|Cells obtained +13%
+|50
+|150
+|
+|40
+|-
+|27
+|57
+|77
+|69
+|53
+|Cells obtained +13.5%
+|50
+|150
+|
+|40
+|-
+|28
+|59
+|79
+|71
+|55
+|Cells obtained +14%
+|50
+|150
+|
+|50
+|-
+|29
+|61
+|81
+|73
+|57
+|Cells obtained +14.5%
+|50
+|150
+|
+|50
+|-
+|30
+|63
+|83
+|75
+|59
+|Cells obtained +15%
+|50
+|150
+|
+|60
+|}
+
+==Frost==
+{|class="mw-collapsed mw-collapsible wikitable"
+! rowspan="2" |Level
+! rowspan="2" |Logistics
+! rowspan="2" |Assault
+! rowspan="2" |Generalship
+! rowspan="2" |Marching
+! rowspan="2" |Ability
+! colspan="4" |Component Cost
+|-
+!{{RewardIcon|Mecha Component}}Mecha
+!{{RewardIcon|Fusion Component}}Fusion
+!{{RewardIcon|Biochem Component}}Biochem
+!{{RewardIcon|Psychic Component}}Psychic
+|-
+|1
+|15
+|4
+|2
+|27
+|0.5% chance to get double Time Chests
+|
+|
+|
+|
+|-
+|2
+|17
+|6
+|4
+|29
+|1% chance to get double Time Chests
+|
+|10
+|
+|
+|-
+|3
+|19
+|8
+|6
+|31
+|1.5% chance to get double Time Chests
+|
+|10
+|
+|
+|-
+|4
+|21
+|10
+|8
+|33
+|2% chance to get double Time Chests
+|
+|20
+|
+|
+|-
+|5
+|23
+|12
+|10
+|35
+|2.5% chance to get double Time Chests
+|
+|20
+|
+|
+|-
+|6
+|25
+|14
+|12
+|37
+|3% chance to get double Time Chests
+|
+|30
+|
+|
+|-
+|7
+|27
+|16
+|14
+|39
+|3.5% chance to get double Time Chests
+|
+|30
+|
+|
+|-
+|8
+|29
+|18
+|16
+|41
+|4% chance to get double Time Chests
+|
+|40
+|
+|
+|-
+|9
+|31
+|20
+|18
+|43
+|4.5% chance to get double Time Chests
+|
+|40
+|
+|
+|-
+|10
+|33
+|22
+|20
+|45
+|5% chance to get double Time Chests
+|
+|50
+|
+|
+|-
+|11
+|35
+|24
+|22
+|47
+|5.5% chance to get double Time Chests
+|10
+|50
+|
+|
+|-
+|12
+|37
+|26
+|24
+|49
+|6% chance to get double Time Chests
+|10
+|60
+|
+|
+|-
+|13
+|39
+|28
+|26
+|51
+|6.5% chance to get double Time Chests
+|10
+|70
+|
+|
+|-
+|14
+|41
+|30
+|28
+|53
+|7% chance to get double Time Chests
+|20
+|80
+|
+|
+|-
+|15
+|43
+|32
+|30
+|55
+|7.5% chance to get double Time Chests
+|20
+|90
+|
+|
+|-
+|16
+|45
+|34
+|32
+|57
+|8% chance to get double Time Chests
+|20
+|100
+|
+|
+|-
+|17
+|47
+|36
+|34
+|59
+|8.5% chance to get double Time Chests
+|30
+|100
+|
+|
+|-
+|18
+|49
+|38
+|36
+|61
+|9% chance to get double Time Chests
+|30
+|100
+|
+|
+|-
+|19
+|51
+|40
+|38
+|63
+|9.5% chance to get double Time Chests
+|30
+|100
+|
+|
+|-
+|20
+|53
+|42
+|40
+|65
+|10% chance to get double Time Chests
+|40
+|100
+|
+|-
+|21
+|55
+|44
+|42
+|67
+|10.5% chance to get double Time Chests
+|40
+|120
+|10
+|
+|-
+|22
+|57
+|46
+|44
+|69
+|11% chance to get double Time Chests
+|40
+|120
+|20
+|
+|-
+|23
+|59
+|48
+|46
+|71
+|11.5% chance to get double Time Chests
+|50
+|120
+|20
+|
+|-
+|24
+|61
+|50
+|48
+|73
+|12% chance to get double Time Chests
+|50
+|120
+|30
+|
+|-
+|25
+|63
+|52
+|50
+|75
+|12.5% chance to get double Time Chests
+|50
+|150
+|30
+|
+|-
+|26
+|65
+|54
+|52
+|77
+|13% chance to get double Time Chests
+|50
+|150
+|40
+|
+|-
+|27
+|67
+|56
+|54
+|79
+|13.5% chance to get double Time Chests
+|50
+|150
+|40
+|
+|-
+|28
+|69
+|58
+|56
+|81
+|14% chance to get double Time Chests
+|50
+|150
+|50
+|
+|-
+|29
+|71
+|60
+|58
+|83
+|14.5% chance to get double Time Chests
+|50
+|150
+|50
+|
+|-
+|30
+|73
+|62
+|60
+|85
+|15% chance to get double Time Chests
+|50
+|150
+|60
+|
+|}
+
+==Grant==
+{|class="mw-collapsed mw-collapsible wikitable"
+! rowspan="2" |Level
+! rowspan="2" |Logistics
+! rowspan="2" |Assault
+! rowspan="2" |Generalship
+! rowspan="2" |Marching
+! rowspan="2" |Ability
+! colspan="4" |Component Cost
+|-
+!{{RewardIcon|Mecha Component}}Mecha
+!{{RewardIcon|Fusion Component}}Fusion
+!{{RewardIcon|Biochem Component}}Biochem
+!{{RewardIcon|Psychic Component}}Psychic
+|-
+|1
+|1
+|28
+|15
+|4
+|0.5% chance to get double Cards
+|
+|
+|
+|
+|-
+|2
+|3
+|30
+|17
+|6
+|1% chance to get double Cards
+|10
+|
+|
+|
+|-
+|3
+|5
+|32
+|19
+|8
+|1.5% chance to get double Cards
+|10
+|
+|
+|
+|-
+|4
+|7
+|34
+|21
+|10
+|2% chance to get double Cards
+|20
+|
+|
+|
+|-
+|5
+|9
+|36
+|23
+|12
+|2.5% chance to get double Cards
+|20
+|
+|
+|
+|-
+|6
+|11
+|38
+|25
+|14
+|3% chance to get double Cards
+|30
+|
+|
+|
+|-
+|7
+|13
+|40
+|27
+|16
+|3.5% chance to get double Cards
+|30
+|
+|
+|
+|-
+|8
+|15
+|42
+|29
+|18
+|4% chance to get double Cards
+|40
+|
+|
+|
+|-
+|9
+|17
+|44
+|31
+|20
+|4.5% chance to get double Cards
+|40
+|
+|
+|
+|-
+|10
+|19
+|46
+|33
+|22
+|5% chance to get double Cards
+|50
+|
+|
+|
+|-
+|11
+|21
+|48
+|35
+|24
+|5.5% chance to get double Cards
+|50
+|10
+|
+|
+|-
+|12
+|23
+|50
+|37
+|26
+|6% chance to get double Cards
+|60
+|10
+|
+|
+|-
+|13
+|25
+|52
+|39
+|28
+|6.5% chance to get double Cards
+|70
+|10
+|
+|
+|-
+|14
+|27
+|54
+|41
+|30
+|7% chance to get double Cards
+|80
+|20
+|
+|
+|-
+|15
+|29
+|56
+|43
+|32
+|7.5% chance to get double Cards
+|90
+|20
+|
+|
+|-
+|16
+|31
+|58
+|45
+|34
+|8% chance to get double Cards
+|100
+|20
+|
+|
+|-
+|17
+|33
+|60
+|47
+|36
+|8.5% chance to get double Cards
+|100
+|30
+|
+|
+|-
+|18
+|35
+|62
+|49
+|38
+|9% chance to get double Cards
+|100
+|30
+|
+|
+|-
+|19
+|37
+|64
+|51
+|40
+|9.5% chance to get double Cards
+|100
+|30
+|
+|
+|-
+|20
+|39
+|66
+|53
+|42
+|10% chance to get double Cards
+|100
+|40
+|
+|-
+|21
+|41
+|68
+|55
+|44
+|10.5% chance to get double Cards
+|120
+|40
+|
+|10
+|-
+|22
+|43
+|70
+|57
+|46
+|11% chance to get double Cards
+|120
+|40
+|
+|10
+|-
+|23
+|45
+|72
+|59
+|48
+|11.5% chance to get double Cards
+|120
+|50
+|
+|20
+|-
+|24
+|47
+|74
+|61
+|50
+|12% chance to get double Cards
+|120
+|50
+|
+|30
+|-
+|25
+|49
+|76
+|63
+|52
+|12.5% chance to get double Cards
+|120
+|50
+|
+|30
+|-
+|26
+|51
+|78
+|65
+|54
+|13% chance to get double Cards
+|150
+|50
+|
+|40
+|-
+|27
+|53
+|80
+|67
+|56
+|13.5% chance to get double Cards
+|150
+|50
+|
+|40
+|-
+|28
+|55
+|82
+|69
+|58
+|14% chance to get double Cards
+|150
+|50
+|
+|50
+|-
+|29
+|57
+|84
+|71
+|60
+|14.5% chance to get double Cards
+|150
+|50
+|
+|50
+|-
+|30
+|59
+|86
+|73
+|62
+|15% chance to get double Cards
+|150
+|50
+|
+|60
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Murika]]

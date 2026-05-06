@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Wookstock Ticket
+|class_id=20477
+|rank=Green
+|affct=FAME
+|source=
+|description=The Wookstock Music Festival is one of the most famous rock music festivals across the world. It is an unprecedented music festival, and only those who play on the stage are wild artists. Only the one with the greatest music attainment and the highest reputation in the music business is qualified to be the host!
+|fame=29
+|art=16
+|fth=16
+|civ=14
+|tech=15
+|ss1=Snail ATK +10<br>Per Art Master Scroll used, Snail HP +30<br>ART Master Scrolls Used: 10/10
+|ss2=Snail ATK +20<br>Per Art Master Scroll used, Snail HP +60<br>ART Master Scrolls Used: 10/10
+|ss3=Snail ATK +30<br>Per Art Master Scroll used, Snail HP +90<br>ART Master Scrolls Used: 10/10
+|ss4=Snail ATK +30<br>Per Art Master Scroll used, Snail HP +90<br>ART Master Scrolls Used: 10/10
+|ss7=Snail ATK +30<br>Per Art Master Scroll used, Snail HP +90<br>ART Master Scrolls Used: 10/10<br> (Awakened)
+}}

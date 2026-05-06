@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=529
+|relics=CRISPR,Harem Wall Painting,Vedas
+|rank=orange
+|amount=3
+|category=self
+|description=Per 7 Angel Gene LVLs, Snail ATK +16;Angel Gene LVLs Researched: 210/210
+}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Spencer's Microwave
+|class_id=22093
+|rank=Blue
+|affct=TECH
+|birthday=12-24
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Dec 24, 1945 AD, Engineer Spencer invented the world's first microwave oven.<br>This microwave oven was developed by American Radar Engineer Spencer. His idea came from a piece of chocolate that melted for no reason in his trouser pocket. After some research, he discovered that the reason the chocolate melted was due to a magnetron that could emit microwaves. Then he used that instrument to turn corn into popcorn and heat an egg until it exploded. Based on the scientific principle behind it, he successfully developed the microwave oven, which significantly improves people's lives.
+|fame=28
+|art=22
+|fth=33
+|civ=27
+|tech=44
+|ss1=Per Mecha Form Tier, Snail RUSH +5<br>Mecha Form Tiers: 9/9
+|ss2=Per Mecha Form Tier, Snail RUSH +10<br>Mecha Form Tiers: 9/9
+|ss3=Per Mecha Form Tier, Snail RUSH +15<br>Mecha Form Tiers: 9/9
+|ss4=Per Mecha Form Tier, Snail RUSH +25<br>Mecha Form Tiers: 9/9
+|ss7=Per Mecha Form Tier, Snail RUSH +25<br>Mecha Form Tiers: 9/9<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Compass skill I.png|50px]]Place in Exploration Compass: In explorations, 2x Food Drops +2.5%
+}}

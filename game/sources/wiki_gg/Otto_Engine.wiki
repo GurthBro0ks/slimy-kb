@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Otto Engine
+|rank=AAA
+|affct=TECH
+|birthday=05-02
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Tool Chest (1.5%), Relic Forge (80 Relic RF)
+|description=On May 2, 1876, Otto made the first four-stroke internal combustion engine.
+
+Otto's internal combustion engine runs in a smooth and quiet way. Otto then upgraded the engine by adding flywheels, lengthening the air inlet, and upgrading the cylinder cap, so as to generate mixed gas. Its thermal efficiency is 2 times higher than steam engines. Such thermal efficiency is able to replace steam engines and gives rise to modern four-stroke engines.
+
+[Internal combustion engine in the 19th century]
+
+In the 1930s, an in-cylinder compressed air engine was invented. In the 1960s, a gas engine was invented. In the 1980s, the first four-stroke gasoline engine was invented.
+|fame=47
+|art=48
+|fth=32
+|civ=45
+|tech=71
+|ss1=Travel SPD +0.6%<br>Per 30 Mecha Minions in battle, Troop ATK +4
+|ss2=Travel SPD +0.8%<br>Per 30 Mecha Minions in battle, Troop ATK +8
+|ss3=Travel SPD +1%<br>Per 30 Mecha Minions in battle, Troop ATK +12
+|ss4=Travel SPD +1.4%<br>Per 30 Mecha Minions in battle, Troop ATK +20
+|ss5=Travel SPD +1.8%<br>Per 30 Mecha Minions in battle, Troop ATK +28
+|ss7=Travel SPD +1.8%<br>Per 30 Mecha Minions in battle, Troop ATK +28<br>Travel SPD +1.4% (Awakened)
+|skill1=[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: In Kemet, 2x Blue Card Drops +7.5%
+|skill2=[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: In Kemet, 2x Blue Reagent Drops +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:TECH Relics]]
+[[Category:Purple TECH Relics]]
+[[Category:Mecha Minion ATK Boost]]
+[[Category:Minion HARD Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:DEF Boost]]
+[[Category:Snail Mech Boost]]

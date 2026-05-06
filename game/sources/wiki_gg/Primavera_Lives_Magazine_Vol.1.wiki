@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Primavera,Lives Magazine Vol.1
+|rank=orange
+|amount=2
+|category=self
+|description=Per 100 catalysis, Snail ATK +7; Catalysis: 5000/5000
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]

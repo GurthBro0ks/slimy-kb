@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Ship in a Bottle
+|rank=SS
+|affct=ART
+|birthday=08-12
+|source=Fragment Crafting (4%), Grandmaster Scrolls (1.5%), Lottery Machine (0.18%), Wishing (0.15%)
+|description=On Aug 12, AD 1600, this mighty ship of the Caribbean Sea was put in a small bottle. 
+
+Ship in a bottle, also known as the Black Pearl, is a four-masted vessel contained in a small bottle floating in the Caribbean Sea. It used to be a trade ship of the East India Company before becoming a pirate ship. Thereafter, it was cursed after the captain secretly released more than 200 captives. The captain and sailors would turn into immortal monsters every moonlit night. It was until this bottle showed up that they broke this dreadful curse.
+|fame=70
+|art=101
+|fth=62
+|civ=64
+|tech=50
+|ss1=Snail RUSH +20<br>Per 10 FAME-Fungi eaten, Snail DEF +2<br>Per 10 FAME-Fungi eaten Snail RUSH +2<br>FAME-Fungi Eaten: 500/500
+|ss2=Snail RUSH +30<br>Per 10 FAME-Fungi eaten, Snail DEF +3<br>Per 10 FAME-Fungi eaten Snail RUSH +3<br>FAME-Fungi Eaten: 500/500
+|ss3=Snail RUSH +40<br>Per 10 FAME-Fungi eaten, Snail DEF +4<br>Per 10 FAME-Fungi eaten Snail RUSH +4<br>FAME-Fungi Eaten: 500/500
+|ss4=Snail RUSH +60<br>Per 10 FAME-Fungi eaten, Snail DEF +6<br>Per 10 FAME-Fungi eaten Snail RUSH +6<br>FAME-Fungi Eaten: 500/500
+|ss5=Snail RUSH +80<br>Per 10 FAME-Fungi eaten, Snail DEF +8<br>Per 10 FAME-Fungi eaten Snail RUSH +8<br>FAME-Fungi Eaten: 500/500
+|ss6=Snail RUSH +110<br>Per 10 FAME-Fungi eaten, Snail DEF +11<br>Per 10 FAME-Fungi eaten Snail RUSH +11<br>FAME-Fungi Eaten: 500/500
+|ss7=Snail RUSH +110<br>Per 10 FAME-Fungi eaten, Snail DEF +11<br>Per 10 FAME-Fungi eaten Snail RUSH +11<br>FAME-Fungi Eaten: 500/500<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: B-tad Output +30%
+|skill2=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Generate W-tads by +30%
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x B-tad Drops +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:RUSH Boost]]
+[[Category:DEF Boost]]
+[[Category:FAME-Fungi Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Tadpole Pond W-Tad Output Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:God Descent Boost]]
+[[Category:HP Boost]]
+[[Category:Nanosaur Boost]]

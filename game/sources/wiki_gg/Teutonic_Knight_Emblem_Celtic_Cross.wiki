@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=615
+|relics=Teutonic Knight Emblem,Celtic Cross
+|rank=blue
+|amount=2
+|category=self
+|description=Rebel Cabin, deployable robots +5
+}}

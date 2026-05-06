@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=609
+|relics=Statue of Skanda,Olmec Figurine
+|rank=blue
+|amount=2
+|category=self
+|description=Protomon Snail assist DMG + 400
+}}

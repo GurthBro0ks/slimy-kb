@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=764
+|relics=Chicago Pile-1,Treatise on the Great,Apollo Program,Chemical Bond Theory
+|rank=orange
+|amount=4
+|category=self
+|description=Per 100 catalysis, Snail RUSH +9;Catalysis: 5000/5000
+}}

@@ -1,0 +1,33 @@
+{{CargoRelic
+|name=Moai
+|rank=Blue
+|affct=FTH
+|birthday=09-10
+|source=Lottery Machine (0.36%), Novice Scrolls (5%), Soul Chest (2%), Wishing (10.6%)
+|description=On Sep 10, 1774, the outside world found out about these statues on Easter Island for the first time.
+
+Moai were discovered by Captain Cook. During a passionate cruise, he landed on this small island and saw the aborigines holding a sacrifice. Due to the language barrier, Captain Cook never got to know the purpose and meaning of the event. He wrote it down in his diary, "These barbarians sent a Pirate-like statue to the stone island and fixed it there. Then, they began to dance around it. This is really a strange ceremony."
+
+[Basic Info]
+
+Material: Stone. Height: 10 m. Weight: 90 tons.
+|fame=32
+|art=22
+|fth=45
+|civ=27
+|tech=28
+|ss1=Snail HP +100
+|ss2=Snail HP +200
+|ss3=Snail HP +300
+|ss4=Snail HP +500
+|ss7=Snail HP +500<br>Snail HP +500 (Awakened)
+|skill1=[[File:Quarry skill I.png|50px]] Place in Quarry: Find Ancient Fossil by +5%
+}}
+
+[[Category:HP Boost]]
+[[Category:Quarry Skill]]
+[[Category:Ancient Fossil Boost]]
+[[Category:Mutant Minion ATK Boost]]
+[[Category:Gene Research Speedup Boost]]
+[[Category:Ironball Thrower Boost]]
+[[Category:Gaiastapo Boost]]

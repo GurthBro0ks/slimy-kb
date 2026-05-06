@@ -1,0 +1,107 @@
+[[File:Intro to key gameplay poster.png|alt=A poster that introduces the game|center|frameless|730x730px|Intro to game poster]]
+
+Welcome to Super Snails; we're glad to have you! This is an idle game, but a fairly complicated one with a lot of mechanics and a lot to know. We hope this guide will help you get started, as well as learn about some of the most important pages on the wiki. Have more questions? Reach out to the volunteer wiki team in the official {{Socials|Discord|true}}.
+
+=== Choosing Your Species ===
+When you start a new game, you are given an option to choose between three species: snail, bird, and cyclops.
+
+'''Snails''' are the classic game, giving access to all the original parts of the game. Some bird-related features are locked until much later in the game, gated behind Species Map progress.
+
+'''Birds''' get access to the hatchery early on, which provides some extra rewards for using weekly event resources, as well as some special tasks in the computer. However, birds do not have access to the leadership side of the Collector Talent tree until later, once again gated behind Species Map progress.
+
+'''Cyclops''' is widely regarded as the most powerful species and has no downsides, capable of facing Earth's Will itself due to its incredibly streamlined gameplay cycle! Cyclops is highly suggested for new players.
+
+=== Understanding Your Stats ===
+In Super Snail, you have two key stat sets: '''HARD''' stats and '''AFFCT'''.
+
+'''HARD''' stats are your basic combat stats - HP, Attack (ATK), Rush (RUSH), and Defense (DEF). These are your battle stats used during fights against enemies. RUSH is a unique one and requires a little more explanation. Every enemy has a Weakness that, once you detect it, unlocks the ability for you to do extra RUSH DMG. You will get an extra hit in on the enemy before each round; this can make or break most fights.
+
+Your '''AFFCT''' stats are also key and are determined by your [[Relics]]: Art (ART), Faith (FTH), Fame (FAME), Civilization (CIV), Technology (TECH). These are crucial! All enemies have a Weakness equal to a number of one of these AFFCTs, for example FAME 2,000. If you have 2,000 FAME, you have detected the weakness of that enemy. AFFCT can be made higher primarily by obtaining and upgrading [[Relics]] and eating [[Home Resources|Fungi]].
+
+'''Learn more:''' [[Stats]]
+
+=== Beefing up Your Snail ===
+When you level up your snail parts - Muscle, Devouring, Brain, Neuron, Vision - you get a random bonus. This could be a common "+5 DEF" or a rare "+15" and "+20". These bonuses also unlock six additional evolutionary forms which provide extra buffs. [[Zombie Form]] is better for late than early game, [[Mutant Form]] is helpful for Minion battles, while the [[Demon Form]] deals extra damage in early-game. Don’t worry about [[Dragon Form]] just yet, focus on getting all your forms and researching them to a Tier 2 or T2.
+
+Once you unlock [[Zombie Form]], you'll receive mail in your [[Mailbox]] that will reward you with the {{RewardIconWithText|DNA Evolution Kit}}. This helps you to unlock DNA Research in [[The Gene Room]].
+
+'''Learn more:''' [[Evolution]]
+
+=== Main Gameplay ===
+
+* '''Newbie Tutorial and Hoarding''': Once you start the game, a tutorial helps you with basic gameplay. After that, pay attention to the hoarding event, which focuses on the next Weekly Events main currency.
+* '''Weekly Events''': Weekly events cycle between the Offering Event, the Lottery Event, and the Wish-making Event. Rotating on a 7-day cycle that starts over on Fridays, each requires you to use certain items that you should save up when it’s not the particular event week. For Lottery week, you need Lottery Tickets, for Wish-making week, you need to spend Wish Coins, and for Offering week, you need to use Offering Speedups to sacrifice more fresh souls.
+* '''Exploration''': There are total of 8 maps, each with unique mechanisms. Each map is known as a Realm, broken down into smaller areas within each Realm. Exploring is the main way to collect resources. Exploration gives you INTEL points that you can spend on leveling various bonuses and skills for that Realm. When exploration ends, you can exchange the cards you collected for items. These cards do not carry over explorations, so it’s important to redeem anything you can. You can also upgrade the cards for better rewards.
+* '''Progressing''': Once you defeat the last Apostle of the current Realm, you will gain access to the next one. In each Realm, there is Realm-specific [[Gear]]. make sure to upgrade and combine them. You can usually obtain [[Gear]] via card redemption and special incidents. Realm gear will give you many buffs when fighting against Apostles and during your explorations.
+** Gene Simulation: You need to repair your Computer first. To be able to do that, you need to use 4 green cards to redeem for Terminal Core in Koryeo. Among other things, [[Gene Simulation]] are accessible through the Computer. Defeating Gene Simulations gives great rewards, so come back to this when you can. ''Note: use the auto-equip gear to save yourself the hassle, and make sure to go to the settings and turn on "Auto clear" for Gene Simulation. Much faster!''
+** Vending Machine: You can fix the [[Vending Machine]] in [[Koryeo]] by redeeming 3 white cards for the {{RewardIconWithText|Unidentified Motor}}. Buy the gears at the end of the page. Also, keep in mind that consumables refresh on a daily basis. Make sure you grab all of the one-time items!
+
+'''Learn more:''' [[Events]], [[Realms]]
+
+=== Raising Your [[Partners]] and [[Minions]] ===
+Throughout your explorations, you'll meet many interesting characters. Often, a friendship storyline is started that results in them moving in as one of many [[Partners]] with their minion. 
+
+First, you need [[Kim Chi-yum]] who you will find in [[Koryeo]], then you will need to buy the {{RewardIconWithText|Military Bomb}} in the [[Koryeo Cards]] Exchange. The [[Nursery]] also unlocks chores for Minion tasks!
+
+You will be meet partners though various channels. One of them is by completing “key clues” when exploring. Here are some partners you can easily obtain:
+
+* [[Koryeo]] Exploration: [[Kim Chi-yum]], [[Chichikaka]], [[Prince Nerd]]
+* [[Yamato]] Exploration: [[Jiro Toyato]], [[Leeku]], [[Taoraemon]]
+* {{RewardIconWithLink|Incense|orange}} events: [[Sewer Turtle]]
+* Hitmen:
+**Defeat [[Hitmen|Hitman No.4]] - [[Big Guy Park]]
+**Defeat [[Hitmen|Hitmen No.8]] - [[Ghost Zadako]]
+
+=== Using {{RewardIconWithLink|Incense|orange}} ===
+{{RewardIconWithLink|Incense|orange}} is extremely rare in Super Snail. You can "laser" animals with them or shoot the sky (this will take 3 incenses) to trigger special events. Spend enough {{RewardIconWithText|W-tad}} and you can unlock an incense pack in the vending machine; or wait for incenses to drop via exploration, chests, or events. At the beginning when you tap on random animals appearing in your gene room ten times, a tiny turtle will show up there. Laser the turtle a few times, then his family will come after you. This is a way for you to obtain gear and Sewer Turtle as your partner! You can also laser the bat once you’re done with the turtle. You might see something interesting! 
+
+Put simply, use the red button on the wall in the gene room to switch between your Gear Forge and your Incense Altar. Once you see the altar, ''tap'' to add Incense. If you have no incense, nothing will happen. If you do, you'll be asked if you want to add some. You can add 3 total Incense sticks at a time to the altar, and each stick has 5 shots in it. Tap any critters that show up in the room while the Incense Altar is open to shoot them. Alternatively, if there are no critters in the room and you tap the incense altar repeatedly (while at least 3 incenses are loaded), you can shoot an object down out of the sky. See the more detailed guide to learn the '''best''' use of your incense.
+
+'''Learn more:''' {{RewardIcon|Incense}}[[Incense]]
+
+=== Snail Codes ===
+Check the bookshelf for 5 [[Snail Codes]] that are unique to you, which can be redeemed in Settings -> Snail Code. Keep an eye on the [https://discord.gg/supersnail Discord] for weekly snail codes on Wednesday. Rumor has it that Peter Jr, a dev who left the Super Snail team, is posting codes on his {{Socials|Facebook|true}} page every Monday and Friday... The volunteer wiki team updates the list once a week at the end of the week, so be sure to check back in!
+
+'''Learn more:''' [[Snail Codes]]
+
+=== Shopping at the [[Vending Machine]] ===
+When you visit the [[Vending Machine]], don't miss the gears at the end of the page! They refresh upon purchase. And if you've got {{RewardIconWithText|W-tad}}s, buy some {{RewardIconWithLink|Wish Coin|orange}}/{{RewardIconWithLink|Lottery Ticket|orange}} and {{RewardIconWithLink|Cat Food}}. {{RewardIconWithText|Green Reagent|green}} are also handy in early-game. Side note, when a weekly event starts to kick in, you can purchase an event pack on a daily basis with just 1 {{RewardIconWithText|W-tad}}. Don’t miss that deal!
+* If you have {{RewardIconWithText|W-tad}}s, consider buying the rare {{RewardIconWithLink|Wish Coin|orange}}/{{RewardIconWithLink|Lottery Ticket|orange}}
+* Early-game requires many {{RewardIconWithText|Green Reagent|green}} and {{RewardIconWithText|Blue Reagent|blue}}, so consider buying them!
+* Don’t be stingy on buying the Souls, always keep souls on your [[Altar]]!
+* Consider buying {{RewardIconWithLink|Cat Food}} for yourself and your [[Unknown Creature|Pet Pig]]. Perhaps 5 is enough?
+* Almost always buy the {{RewardIconWithLink|Glue}} and {{RewardIconWithLink|Game Controller}}, it'll be worth it later
+
+'''Learn more:''' [[Vending Machine]]
+
+=== Raising Your {{RewardIcon|Unknown Creature}}[[Unknown Creature|Pet Pig]] ===
+To unlock your {{RewardIconWithText|Unknown Creature}} (casually known as your Pet Pig), defeat the [[Robot Guard]] to get the {{RewardIconWithLink|Alien Seed|orange}}, then buy the {{RewardIconWithLink|Small Bowl}} and {{RewardIconWithLink|Small Collar}} from the [[Vending Machine]]. The pig gets you {{RewardIconWithText|Mystery Gloop}} that give you 200 random demon cells. Sometimes, when there are no other critters around, the pet pig will show up in your PC room. Laser the pig 10 times with {{RewardIconWithLink|Incense|orange}} for a unique {{retext|Green Relic|green}}!
+
+'''Learn more:''' {{RewardIcon|Unknown Creature}}[[Unknown Creature]]
+
+=== Key Terms===
+To help navigate the extensive list of terms used within the game.
+
+ Realm: The larger areas where exploration takes place, e.g. Koryeo, Yamato, etc.
+ Domain: A type of exploration, takes place in the Rocket. Each Realm has an equivelant Domain which is also ruled by the same Demon God. Your main goal is to take out all the Demon Gods in their own Domain. Complete an area to unlock the equivelant Domain.
+ Bionic Part: [[Organs]] and [[Shells]].
+ B-tads: Short for Black Tadpoles, the primary currency
+ W-tads: Short for White Tadpoles, the premium currency (can be obtained by F2p!)
+ Toner: Used to purchase [[Snail Avatars]]
+ Coating: Used to upgrade [[Shells]], unlock from [[Altar|Dragon Wish]]
+
+=== [[Easter Eggs]] ===
+Little surprises hidden throughout the game!
+
+=== Detailed Guides ===
+Ready for the complicated stuff? Good luck on your many adventures, young snailer!
+
+ [[Altar]]
+ [[Fissure]]
+ [[Fugitives]]
+ [[Hitmen]]
+ [[Mailbox]]
+ [[Museum]]
+ [[Relic Guide]]
+
+ [[Category:Guides]]

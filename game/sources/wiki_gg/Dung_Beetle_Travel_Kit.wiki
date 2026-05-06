@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dung Beetle Travel Kit
+|class_id=20842
+|rank=Green
+|affct=TECH
+|source=
+|description=The Dung Beetle Travel Kit is necessary for Dung Beetle soldiers, containing rations, gear, and basic weapons, enabling sustained combat operations for over a week.
+|fame=18
+|art=14
+|fth=17
+|civ=11
+|tech=30
+|ss1=prop@55052_2<br>prop@55057_2
+|ss2=prop@55052_2<br>prop@55057_2
+|ss3=prop@55052_2<br>prop@55057_2
+|ss4=prop@55052_2<br>prop@55057_2
+|ss7=prop@55052_2<br>prop@55057_2<br> (Awakened)
+}}

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Roslin Certificate
+|class_id=22761
+|rank=SSS
+|affct=TECH
+|birthday=01-07
+|source=
+|description=On Jan 7, 1993 AD, the Roslin Institute was officially established in Edinburgh, Scotland.<br>This graduation certificate is from the world-renowned Roslin Institute, famous for the birth of the world's first cloned sheep. The institute has been dedicated to research in animal genetics and reproductive biology, with its contributions holding significant implications for improving human life. This certificate symbolizes their recognition and a proof of professionalism.
+|fame=69
+|art=57
+|fth=71
+|civ=57
+|tech=108
+|ss1=Resolver: Mutagen Serum +300<br>Per 5 Incubator Files fully restored, Snail HP +60<br>Per 5 Incubator Files fully restored, Snail DEF +6<br>Files fully restored: 100/100
+|ss2=Resolver: Mutagen Serum +400<br>Per 5 Incubator Files fully restored, Snail HP +80<br>Per 5 Incubator Files fully restored, Snail DEF +8<br>Files fully restored: 100/100
+|ss3=Resolver: Mutagen Serum +500<br>Per 5 Incubator Files fully restored, Snail HP +100<br>Per 5 Incubator Files fully restored, Snail DEF +10<br>Files fully restored: 100/100
+|ss4=Resolver: Mutagen Serum +700<br>Per 5 Incubator Files fully restored, Snail HP +140<br>Per 5 Incubator Files fully restored, Snail DEF +14<br>Files fully restored: 100/100
+|ss5=Resolver: Mutagen Serum +900<br>Per 5 Incubator Files fully restored, Snail HP +180<br>Per 5 Incubator Files fully restored, Snail DEF +18<br>Files fully restored: 100/100
+|ss6=Resolver: Mutagen Serum +1200<br>Per 5 Incubator Files fully restored, Snail HP +240<br>Per 5 Incubator Files fully restored, Snail DEF +24<br>Files fully restored: 100/100
+|ss7=Resolver: Mutagen Serum +1200<br>Per 5 Incubator Files fully restored, Snail HP +240<br>Per 5 Incubator Files fully restored, Snail DEF +24<br>Files fully restored: 100/100<br>Resolver: Mutagen Serum +1000 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Water DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|mirage={{Mirage|name=Clone Family|reward={{RewardIconWithLink|Cultivation Fluid, +10|orange}}
+|3name=Clone Sheep|3rec=216.84M|3atk=567925|3defense=348972|3hp=135983339|3weak=59665
+|4name=Clone Ox|4rec=301.94M|4atk=696823|4defense=434207|4hp=237703267|4weak=65586
+|5name=Clone Horse|5rec=430.48M|5atk=873260|5defense=549847|5hp=402834899|5weak=71575
+|6name=Clone Pig|6rec=596.56M|6atk=1103632|6defense=699263|6hp=623235904|6weak=77555
+|Arec=782.29M|Aatk=1398299|Adefense=888511|Ahp=916600663|Aweak=84099
+}}}}

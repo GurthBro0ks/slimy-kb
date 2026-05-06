@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Fleming's Diode
+|class_id=22204
+|rank=AAA
+|affct=TECH
+|birthday=05-23
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On May 23, 1884 AD, Fleming met with Edison during his visit to America, and he designed this electron diode because of their meeting.<br>This diode is the masterpiece of British engineer, Fleming. It has the characteristic of unidirectional conduction as semi-conductors and the functions of detection and rectification. As one of the core components of future electron equipment, it is the initial model of the electron tube, which was a huge milestone, opening up the development of the entire electron industry.
+|fame=44
+|art=34
+|fth=54
+|civ=37
+|tech=74
+|ss1=Mecha Minion HP +3%<br>Mecha Minion HARD Stats +0.9%
+|ss2=Mecha Minion HP +4%<br>Mecha Minion HARD Stats +1.2%
+|ss3=Mecha Minion HP +5%<br>Mecha Minion HARD Stats +1.5%
+|ss4=Mecha Minion HP +7%<br>Mecha Minion HARD Stats +2.1%
+|ss5=Mecha Minion HP +9%<br>Mecha Minion HARD Stats +2.7%
+|ss7=Mecha Minion HP +9%<br>Mecha Minion HARD Stats +2.7%<br>Mecha Minion HARD Stats +2.1% (Awakened)
+|skill1=[[File:Timemachine skill II.png|50px]]Place in Time Machine: Travel Speedup Output +15%
+|skill2=[[File:Timemachine skill II.png|50px]]Place in Time Machine: Time Machine Max Cap +15%
+}}

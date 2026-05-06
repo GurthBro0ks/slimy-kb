@@ -1,0 +1,14 @@
+{{CargoClone
+|name=City Administrator
+|rank=purple
+|cabin=2
+|id=74
+|gene1={race} DEF +30
+|gene2={race} ART +30
+|gene3=Per 30 Angel Minions in battle:
+> Troop DEF +8
+|gene4=Gaia Cabin Output +2%
+|gene5=Per 30 Angel Minions in battle:
+> Troop DEF +12
+|gene6=Gaia Cabin Output +3%
+|}}

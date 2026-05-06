@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Liar's Tougue
+|type=Common
+|rank=orange
+|id=10949
+|idx=143
+|description=This cursed tongue once belonged to a liar. It grew longer with every lie—until he met his destined one, and finally found a better use for it.
+|skill=
+|hp=2718
+|def=227
+|atk=138
+|rush=208
+|gene1=Water DMG +90
+|gene2=Each round, {race} ATK +60
+|gene3=Each round, {race} RUSH +60
+|gene4=Water RES +90
+|gene5=Water DMG +1.5%
+|gene7=Water DMG +4.5% (Awakened)
+|}}

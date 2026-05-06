@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=210
+|relics=Wheel of Fortune,Golden Vase
+|rank=orange
+|amount=2
+|category=self
+|description=Per 40 wishes made, Snail ATK +28;Wishes Made: 400/400
+}}

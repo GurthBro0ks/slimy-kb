@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=Platinum Record
+|rank=AA
+|affct=FAME
+|birthday=06-06
+|source=* Expert Scrolls (0.95%), Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.35%)
+* [[Altar#Gods_of_the_Pantheon|God of Fame]] Descent
+|description=On Jun 6, 1993, this CD that recorded the best dances of the dance king was first released. 
+
+On this day, Michael Jackson performed the moonwalk in his music video for the first time. The move features the performer gliding backward but looking like moving forward, smooth like a devil! After the first performance, fans all over the world became crazy about this dance, which won him the title of Dance king.
+|fame=69
+|art=43
+|fth=42
+|civ=43
+|tech=31
+|ss1=Per 3 FAME Relics gained, Snail HP +80<br>Per 3 FAME Relics gained, Snail ATK +8<br>FAME Relics 60/60
+|ss2=Per 3 FAME Relics gained, Snail HP +120<br>Per 3 FAME Relics gained, Snail ATK +12<br>FAME Relics 60/60
+|ss3=Per 3 FAME Relics gained, Snail HP +160<br>Per 3 FAME Relics gained, Snail ATK +16<br>FAME Relics 60/60
+|ss4=Per 3 FAME Relics gained, Snail HP +240<br>Per 3 FAME Relics gained, Snail ATK +24<br>FAME Relics 60/60
+|ss5=Per 3 FAME Relics gained, Snail HP +320<br>Per 3 FAME Relics gained, Snail ATK +32<br>FAME Relics 60/60
+|ss7=Per 3 FAME Relics gained, Snail HP +320<br>Per 3 FAME Relics gained, Snail ATK +32<br>FAME Relics 60/60<br>Snail HP +700 (Awakened)
+|skill1=[[File:Compass skill II.png|50px]] Place in Exploration Compass: This Relic's FAME +10
+|skill2=[[File:Compass skill II.png|50px]] Place in Exploration Compass: Snail RUSH +30
+}}
+
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Relic Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:FAME Boost]]
+[[Category:RUSH Boost]]
+[[Category:Minion RUSH Boost]]
+[[Category:Gene Research Speedup Boost]]
+[[Category:Altar Descent Relics]]
+[[Category:Enhanced by FAME Relics]]

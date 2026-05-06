@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Snow Country
+|class_id=22708
+|rank=SS
+|affct=CIV
+|birthday=10-05
+|source=
+|description=On Oct 5, 1948 AD, Snow Country, which was carefully revised by Yasunari Kawabata was published.<br>Snow Country is the first medium-length novel written by the Japanese author Yasunari Kawabata, and it is one of the three novels mentioned by the Nobel Prize committee when he was awarded the Nobel Prize for Literature. The novel describes the subtle emotional relationship between the protagonist Shimamura and the women Komako and Yoko. Yasunari Kawabata combines Japan's romantic melancholy, ethereal emptiness, and refined loneliness together with beautiful imagery, integrating the expression of their emotions. He has made contributions to the development of Japanese literature and world literature.
+|fame=71
+|art=66
+|fth=62
+|civ=101
+|tech=47
+|ss1=Snail ATK +10<br>Snail DEF +10<br>Snail RUSH +10
+|ss2=Snail ATK +20<br>Snail DEF +20<br>Snail RUSH +20
+|ss3=Snail ATK +30<br>Snail DEF +30<br>Snail RUSH +30
+|ss4=Snail ATK +50<br>Snail DEF +50<br>Snail RUSH +50
+|ss5=Snail ATK +70<br>Snail DEF +70<br>Snail RUSH +70
+|ss6=Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100
+|ss7=Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Skill skill III.png|50px]]??? (Coming soon)
+|skill2=[[File:Skill skill III.png|50px]]??? (Coming soon)
+|skill3=[[File:Skill skill III.png|50px]]??? (Coming soon)
+|mirage={{Mirage|name=The Beauty of Nothingness|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=Shimamura|3rec=143.22M|3atk=392958|3defense=245399|3hp=23781713|3weak=38468
+|4name=Komako|4rec=215.74M|4atk=567797|4defense=347427|4hp=46078489|4weak=45809
+|5name=Yoko|5rec=340.81M|5atk=789516|5defense=469180|5hp=88688269|5weak=53008
+|Arec=484.01M|Aatk=1032802|Adefense=598008|Ahp=163011218|Aweak=59401
+}}}}

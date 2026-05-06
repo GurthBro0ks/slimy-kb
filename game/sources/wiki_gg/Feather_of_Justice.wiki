@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Feather of Justice
+|class_id=22848
+|rank=SSS
+|affct=FAITH
+|source=
+|description=In ancient Egyptian mythology, Ma'at is often depicted as a goddess with an ostrich feather on her head, which symbolizes truth and justice. In the beliefs of the ancient Egyptians, after death, the heart of the deceased would be weighed on a scale to judge their actions in life. If the heart was heavier than the feather, it indicated that the person had committed bad deeds, and Anubis would hand them over to Ammit to be devoured. Those devoured by Ammit could not enter Aaru and would never find peace. If the heart was lighter than the feather, it would be handed over to the god of the underworld, Osiris, to decide if the person could achieve eternal life.
+|fame=57
+|art=76
+|fth=107
+|civ=56
+|tech=66
+|ss1=Angel Minion DEF +3%<br>Protomon Troop assist DMG + 240<br>Per 10 Rare Protomon fused, Snail RUSH +6<br>Rare Protomon Fused: 200/200
+|ss2=Angel Minion DEF +4%<br>Protomon Troop assist DMG + 320<br>Per 10 Rare Protomon fused, Snail RUSH +8<br>Rare Protomon Fused: 200/200
+|ss3=Angel Minion DEF +5%<br>Protomon Troop assist DMG + 400<br>Per 10 Rare Protomon fused, Snail RUSH +10<br>Rare Protomon Fused: 200/200
+|ss4=Angel Minion DEF +7%<br>Protomon Troop assist DMG + 560<br>Per 10 Rare Protomon fused, Snail RUSH +14<br>Rare Protomon Fused: 200/200
+|ss5=Angel Minion DEF +9%<br>Protomon Troop assist DMG + 720<br>Per 10 Rare Protomon fused, Snail RUSH +18<br>Rare Protomon Fused: 200/200
+|ss6=Angel Minion DEF +12%<br>Protomon Troop assist DMG + 960<br>Per 10 Rare Protomon fused, Snail RUSH +24<br>Rare Protomon Fused: 200/200
+|ss7=Angel Minion DEF +12%<br>Protomon Troop assist DMG + 960<br>Per 10 Rare Protomon fused, Snail RUSH +24<br>Rare Protomon Fused: 200/200<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=dungeon@22848_1|reward={{RewardIconWithLink|Super Cultivation Fluid, +2|orange}}
+|3name=Meskhent|3rec=361.39M|3atk=860238|3defense=487692|3hp=193442386|3weak=66801
+|4name=Rhenet|4rec=458.12M|4atk=1020188|4defense=574714|4hp=321587417|4weak=72667
+|5name=Ammit|5rec=597.22M|5atk=1298055|5defense=699857|5hp=546744097|5weak=80249
+|6name=dungeon_event@4429_1|6rec=805.11M|6atk=1886644|6defense=912987|6hp=910915715|6weak=90392
+|Arec=1142.63M|Aatk=2887497|Adefense=1253212|Ahp=1697838225|Aweak=101566
+}}}}

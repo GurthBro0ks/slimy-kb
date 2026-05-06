@@ -1,0 +1,34 @@
+{{CargoRelic
+|name=Yuan Calendar
+|rank=AA
+|affct=TECH
+|birthday=06-27
+|source=Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.36%), Koryeon Treasure Maps (10%), Expert Scrolls (0.95%)
+|description=On Jun 27, AD 1281, the Yuan Calendar compiled by Xu Heng and Gup Shoujing was officially released.
+
+It took 5 years to make this calendar. Kublai Khan, founder of the Yuan dynasty, ordered the establishment of the calendar bureau and gathered instruments and astronomers. The final version of the calendar has been used for over 300 years and reached an unprecedented accuracy in Chinese history: Just 26 seconds less than the modern Gregorian calendar!
+|fame=40
+|art=40
+|fth=45
+|civ=33
+|tech=70
+|ss1=The Time Machine has a +4% chance to generate Time Chests<br>Per partner you have, Snail RUSH +6<br>Current Partners: 15/15
+|ss2=The Time Machine has a +6% chance to generate Time Chests<br>Per partner you have, Snail RUSH +9<br>Current Partners: 15/15
+|ss3=The Time Machine has a +8% chance to generate Time Chests<br>Per partner you have, Snail RUSH +12<br>Current Partners: 15/15
+|ss4=The Time Machine has a +12% chance to generate Time Chests<br>Per partner you have, Snail RUSH +18<br>Current Partners: 15/15
+|ss5=The Time Machine has a +16% chance to generate Time Chests<br>Per partner you have, Snail RUSH +24<br>Current Partners: 15/15
+|ss7=The Time Machine has a +16% chance to generate Time Chests<br>Per partner you have, Snail RUSH +24<br>Current Partners: 15/15<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, Snail RUSH +30
+|skill2=[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: This Relic's TECH +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:TECH Relics]]
+[[Category:Purple TECH Relics]]
+[[Category:Time Machine Boost]]
+[[Category:RUSH Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:Enhanced by Partners]]
+[[Category:Mechanic Boost]]

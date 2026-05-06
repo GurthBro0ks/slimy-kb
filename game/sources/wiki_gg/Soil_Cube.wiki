@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Soil Cube
+|class_id=20635
+|rank=Green
+|affct=ART
+|source=
+|description=This 1 cubic meter of fertile soil is a joyous land for greenery to flourish. Sow the seeds of hope here and await the emergence of trees breaking through the soil, reaching towards the sky!
+|fame=14
+|art=31
+|fth=16
+|civ=13
+|tech=16
+|ss1=Earth DMG +4<br>Per 200 Fissure Floors, Snail HP +2<br>Fissure Floor: 5000/5000
+|ss2=Earth DMG +8<br>Per 200 Fissure Floors, Snail HP +4<br>Fissure Floor: 5000/5000
+|ss3=Earth DMG +12<br>Per 200 Fissure Floors, Snail HP +6<br>Fissure Floor: 5000/5000
+|ss4=Earth DMG +12<br>Per 200 Fissure Floors, Snail HP +6<br>Fissure Floor: 5000/5000
+|ss7=Earth DMG +12<br>Per 200 Fissure Floors, Snail HP +6<br>Fissure Floor: 5000/5000<br> (Awakened)
+}}

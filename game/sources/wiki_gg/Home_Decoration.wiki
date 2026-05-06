@@ -1,0 +1,50 @@
+= Home Decorations =
+Home Decorations are different than [[Dorm Decor]] for your [[Partners]]. Home Decorations are a way to decorate your [[Home Base]] with skins. You can select these skins by going to the [[Terminal]] and clicking on the weather. Home Decorations give Home Comfort which does not seem to have an in game purpose yet.
+
+= Snail Terminal =
+{|class="wikitable"
+!Image and Name
+!Comfort Amount
+!How to Unlock
+|-
+|{{RewardIconWithText|Snail Terminal|black|100}}||0||'''Home Initial Settings'''
+|-
+|{{RewardIconWithLink|CyberVendor Computer|black|Garage|100}}||+15||Unlocked in the [[Garage]]
+|}
+
+= Rocket =
+{|class="wikitable"
+!Image and Name
+!Comfort Amount
+!How to Unlock
+|-
+|{{RewardIconWithText|Rocket|black|100}}||0||'''Home Initial Settings'''
+|-
+|{{RewardIconWithLink|Large Carrier Rocket|black|Venture to the Stars|100}}||+15||[[Venture to the Stars]] Sep. 27 - Oct. 10 2024
+|}
+
+= Bedroom Tire =
+{|class="wikitable"
+!Image and Name
+!Comfort Amount
+!How to Unlock
+|-
+|{{RewardIconWithText|Bedroom Tire|black|100}}||0||'''Home Initial Settings'''
+|-
+|{{RewardIconWithLink|Brave Merman|black|Snowy Day|100}}||+15||[[Snowy Day]] Dec. 22 2023 - Jan. 05 2024
+|-
+|{{RewardIconWithLink|Family Photo|black|1st Anniversary|100}}||+15||[[1st Anniversary]] Aug. 02 - Aug. 29 2024
+|}
+
+= Gear Warehouse =
+{|class="wikitable"
+!Image and Name
+!Comfort Amount
+!How to Unlock
+|-
+|{{RewardIconWithText|Gear Warehouse|black|100}}||0||'''Home Initial Settings'''
+|-
+|{{RewardIconWithLink|Ultra Shrine|black|Summer Fest|100}}||+15||[[Summer Fest]] Jun. 28 - Jul. 11 2024
+|}
+
+[[Category:Home Base]]

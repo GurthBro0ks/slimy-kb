@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=662
+|relics=Western Han Jute Paper,The Rhind Papyrus
+|rank=purple
+|amount=2
+|category=self
+|description=Per 10 advanced fusions, Snail HP +60;Advanced Fusions: 500/500
+}}

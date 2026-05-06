@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Izu Dancer
+|rank=Blue
+|affct=CIV
+|birthday=04-09
+|source=Lottery Machine (0.03%), Wishing (0.82%)
+|description=On Apr, 1926, Yasunari Kawabata completed this early masterpiece of work, Izu Dancer.
+
+The Izu Dancer tells the story of a youth from Tokyo. He met a troupe of traveling musicians and were attracted by an innocent and beautiful young dancer, Kaoru. He then developed a romantic yet ambiguous feeling for the young dancer. From Shuzenji to Yushima, Yuno arrived at Shimoda Port at the southern tip of Izu Peninsula. There, he said goodbye to the dancer and was saddened by the parting. This poignant love story was full of beautiful scenery and expressed a deep sense of elegant sorrow from the heartwarming encounter.
+|fame=24
+|art=20
+|fth=31
+|civ=45
+|tech=34
+|ss1=When exploring, Mutant Cells gained +1%
+|ss2=When exploring, Mutant Cells gained +2%
+|ss3=When exploring, Mutant Cells gained +3%
+|ss4=When exploring, Mutant Cells gained +5%
+|ss7=When exploring, Mutant Cells gained +5%<br>When exploring, Mutant Cells gained +5% (Awakened)
+|skill1=[[File:Fungusfarm skill I.png|50px]]Place in Fungus Farm: Grow Wonder Fungus by +5%
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:CIV Relics]]
+[[Category:Blue CIV Relics]]
+[[Category:Mutant Cell Drop Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:Wonder Fungus Output]]
+[[Category:DNA Boost]]
+[[Category:RUSH Boost]]
+[[Category:Exploration B-tad Drop Boost]]

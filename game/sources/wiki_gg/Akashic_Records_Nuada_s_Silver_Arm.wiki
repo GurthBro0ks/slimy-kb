@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Akashic Records,Nuada's Silver Arm
+|rank=orange
+|amount=2
+|category=self
+|description=Per Tribal Chief defeated, Snail ATK +7; Tribal Chiefs Defeated: 50/50
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]

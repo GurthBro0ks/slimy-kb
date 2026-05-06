@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Haradric Cube,Im's Arrow,Peacock Clock
+|rank=blue
+|amount=3
+|category=minion
+|description=Per 10 Dragon Minions in battle: Troop ATK +6
+}}
+[[Category:Minion]]
+[[Category:Dragon Minion ATK Boost]]

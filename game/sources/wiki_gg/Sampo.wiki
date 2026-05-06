@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Sampo
+|class_id=22061
+|rank=Blue
+|affct=FAITH
+|birthday=01-23
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jan 23, 86 AD, the blacksmith Ilmarinen created this miraculous mill.<br>Sampo, cast by the blacksmith Ilmarinen, has the ability to produce grain, salt, and gold coins automatically. By making this millstone, he was able to marry the princess of the North Kingdom. But not long after, the servant killed the princess because of her atrocities. The death of the princess drove him into dissociating himself from the greedy king, thus, a war over the ownership of Sampo was started.
+|fame=29
+|art=33
+|fth=45
+|civ=20
+|tech=27
+|ss1=When converting cards in Species Wars, B-tads gained +1%
+|ss2=When converting cards in Species Wars, B-tads gained +2%
+|ss3=When converting cards in Species Wars, B-tads gained +3%
+|ss4=When converting cards in Species Wars, B-tads gained +5%
+|ss7=When converting cards in Species Wars, B-tads gained +5%<br>When converting cards in Species Wars, B-tads gained +5% (Awakened)
+|skill1=[[File:Quary skill I.png|50px]]Place in Quarry: Find Ancient Fossil by +5%
+}}

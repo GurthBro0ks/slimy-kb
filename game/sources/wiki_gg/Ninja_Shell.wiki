@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The Snail Shell perfectly combines ninja and turtles, paying tribute to the four legendary ninjas while looking innovative and flashy. Amazing!
+|affct=ART
+|hard=HP
+|source=Divine Chaos Chest (0.8%)
+|color=green
+|earth=1
+|water=1
+|fire=2
+|wind=2
+|form=Demon
+|element=Wind
+|realm=Bharata
+|orangehard=DEF
+}}

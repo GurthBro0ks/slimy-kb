@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Night Kitty
+|rank=orange
+|cabin=2
+|id=137
+|gene1={race} RUSH +50
+|gene2={race} CIV +50
+|gene3=Each round, {race} RUSH +30
+|gene4=Per 60 Demon Minions in battle,
+Troop Wind DMG +6
+|gene5=Demon Minion Recovery SPD +1.5%
+|gene6=Per 60 Demon Minions in battle,
+Troop Wind DMG +10
+|gene7=Demon Minion Recovery SPD +2.5%
+|}}

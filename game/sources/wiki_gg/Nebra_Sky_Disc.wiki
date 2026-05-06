@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Nebra Sky Disc
+|class_id=22048
+|rank=Blue
+|affct=FAITH
+|birthday=09-10
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Sept 10, 1999 AD, the Nebra sky disc was discovered by treasure hunters Henry and Mario.<br>The Nebra sky disc is a bronze astrolabe covered with a green patina, and gold symbols embedded in the body of the disc. It was discovered in Nebra, Germany, and it is presumed to be a creation of about 1600 BC, attributed to the Early Bronze Age Unetice culture. The golden symbols on the astrolabe include the sun, new moon, and a large number of fixed stars, two arc ornaments marking the angles between the winter and summer solstices, and a solar boat-like pattern at the bottom. People speculate that it may be an ancient astronomical instrument or a symbol of primitive religion.
+|fame=24
+|art=34
+|fth=45
+|civ=21
+|tech=30
+|ss1=In the Gaia Rocket Cabin:<br>> Space-Sensing Radar Base Effect +8%
+|ss2=In the Gaia Rocket Cabin:<br>> Space-Sensing Radar Base Effect +16%
+|ss3=In the Gaia Rocket Cabin:<br>> Space-Sensing Radar Base Effect +24%
+|ss4=In the Gaia Rocket Cabin:<br>> Space-Sensing Radar Base Effect +40%
+|ss7=In the Gaia Rocket Cabin:<br>> Space-Sensing Radar Base Effect +40%<br>In the Gaia Rocket Cabin:<br>> Space-Sensing Radar Base Effect +40% (Awakened)
+|skill1=[[File:Biozilla skill I.png|50px]]Place in a Biozilla: This Relic's FTH +5
+}}

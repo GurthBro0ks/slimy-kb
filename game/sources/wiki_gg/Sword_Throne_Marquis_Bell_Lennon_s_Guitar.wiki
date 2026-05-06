@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=131
+|relics=Sword Throne,Marquis Bell,Lennon's Guitar
+|rank=purple
+|amount=3
+|category=self
+|description=In explorations, Mutant Cells gained +7%
+}}

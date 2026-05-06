@@ -1,0 +1,2144 @@
+{{Missing Info|specifics=<br>'''Fl.228''' rewards<br>'''Fl.3,974''' rewards<br>'''Fl.6,111''' rewards}}
+
+==Fissure==
+The Fissure is unlocked by purchasing the {{RewardIconWithText|Underground Explorer}} with {{RewardIconWithText|Yamato INTEL}} in [[Yamato_INTEL|Yamato]]. {{RewardIconWithText|Golden Pickaxe}}s are used to dig deeper and deeper into the Fissure, occasionally discovering an event consisting of combat, dungeons, rewards, or solvable incidents. As each floor is completed and rewards are collected, the Drill Rig will be updated to produce more items.
+
+==Golden Pickaxe==
+The {{RewardIconWithText|Golden Pickaxe}} is used exclusively for digging within the Fissure. Every pickaxe is good for 5 hits within the fissure before breaking.
+
+{| class="wikitable"
+!Source
+!Chance/Price
+!Pickaxes Gained
+|-
+|[[Arena Shop]]||800 {{RewardIconWithText|Punch Points}}||+3 per reset
+|-
+|[[Exploration]]||Very low chance||+1
+|-
+|{{RewardIconWithLink|Demon Chest}}||15% chance||+1
+|-
+|{{RewardIconWithLink|Dragon Chest}}||15% chance||+1
+|-
+|[[Fissure Shop]]||Can randomly appear<br>150 {{RewardIconWithText|Ancient Coin}}||+1 per purchase
+|-
+|[[Lottery_Machine#Balloon_Battle_Rewards|Lottery Week Balloon Battle]]||1.5k {{RewardIconWithText|Carnival Balloon}}||+6
+|-
+|[[Museum Shop]] item {{RewardIconWithText|Curator's Collection}}||High Chance<br>1k {{RewardIconWithText|Museum Medal}}||+1 per purchase
+|-
+|[[Altar#Crystal_Boom_Rewards|Offering Week Crystal Boom]]||3k {{RewardIconWithText|Spirit Crystal}}||+12
+|-
+|Partner [[Adviser Zhuge]] Rare Rent||Random chance||+1
+|-
+|[[Salesman]]||Random chance<br>8k {{RewardIconWithText|B-Tad}}||+1
+|-
+|{{RewardIconWithLink|Super Memetic Chest}}||User choice||+20 per reset
+|-
+|[[Alchemy_Furnace#Wish_Magic|Wishing Week Wish Magic]]||20 and 30 Wish Points||+3 for 20 and 30 each, +6 per round, or +30 for all 5 rounds
+|}
+
+==Fissure Shop==
+The Fissure's Shop is unlocked after completing Fissure Fl. 17. It refreshes every 72 hours and is on the same timer as the [[Arena#Arena_Shop|Arena Shop]], [[Club#Club_Shop|Club Shop]], and [[Museum#Museum_Shop|Museum Shop]]. 
+
+{{RewardIconWithText|Ancient Coin}}s are gathered from using {{RewardIconWithLink|Golden Pickaxe|orange}}, the Drill Rig, and can be purchased using {{RewardIconWithText|W-tads}} in the shop itself.
+
+A random assortment of items shows up after ever reset. The pool of available items are listed below.
+
+{{ShopRowHeader|Fissure Shop|Ancient Coin|collapsed}}
+!rowspan="10"|Cells
+{{ShopRow|Angel Cell, +3k|green|250|Angel Cell, +9k|green|750|Angel Cell, +15k|green|1,250}}
+{{ShopRow|Demon Cell, +3k|green|250|Demon Cell, +9k|green|750|Demon Cell, +15k|green|1,250}}
+{{ShopRow|Mecha Cell, +3k|green|250|Mecha Cell, +9k|green|750|Mecha Cell, +15k|green|1,250}}
+{{ShopRow|Mutant Cell, +3k|green|250|Mutant Cell, +9k|green|750|Mutant Cell, +15k|green|1,250}}
+{{ShopRow|Zombie Cell, +3k|green|250|Zombie Cell, +9k|green|750|Zombie Cell, +15k|green|1,250}}
+!rowspan="2"|Chests
+{{ShopRow|Fungus Chest, +100|orange|400|Organ Chest, +100|orange|400|Time Chest, +100|orange|400}}
+!rowspan="2"|Coating
+{{ShopRow|Green Coating, +100|green|50|Blue Coating, +100|blue|500|Purple Coating, +40|purple|2k}}
+!rowspan="8"|Currency
+{{ShopRow|B-Tads, +50k|white|200|B-Tads, +100k|white|400|Glue, +30|white|250}}
+{{ShopRow|Toner, +20|white|100|Toner, +40|white|200|Dragon Orb, +1|orange|1.8k}}
+{{ShopRow|Golden Pickaxe, +1|orange|150|Incense, +1|orange|750|Lottery Ticket, +3|orange|450}}
+{{ShopRow|Lottery Ticket, +6|orange|900|Wish Coin, +1|orange|300|Wish Coin, +2|orange|600}}
+
+!rowspan="4"|Gene Segment<br>500
+{{ShopRow|Copperbeard Gene Segment, +5<br>Reach Depth ?|white|500|Mammoth Gene Segment, +5<br>Reach Depth ?|white|500|Smilodon Gene Segment, +5<br>Reach Depth 650|white|500}}
+{{ShopRow|Bone Demon Gene Segment, +1<br>Reach Depth 2000<br>(Need to buy 5 times)|white|500}}
+
+!rowspan="4"|Gene Segment<br>1k
+{{ShopRow|Belrog Gene Segment, +5<br>Reach Depth 1440|white|1k|Cave Lord Gene Segment, +5<br>Reach Depth 2895|white|1k|Dark Elf Gene Segment, +5<br>Reach Depth 1500|white|1k}}
+{{ShopRow|Headless Rider Gene Segment, +5<br>Reach Depth 2000|white|1k|Seer Beetle Gene Segment, +5<br>Reach Depth 2400|white|1k}}
+
+!rowspan="4"|Gene Segment<br>1.5k
+{{ShopRow|Earth Dragon Gene Segment, +5<br>Reach Depth ?|white|1.5k|Mantis Monk Gene Segment, +5<br>Reach Depth ?|white|1.5k|Skulllizard Gene Segment, +5<br>Reach Depth 4000|white|1.5k}}
+{{ShopRow|Skullord Gene Segment, +5<br>Reach Depth 5000|white|+1.5k|Underground King Gene Segment, +5<br>Reach Depth 8000|white|1.5k|White Demon Gene Segment, +5<br>Reach Depth 3500|white|1.5k}}
+
+!rowspan="4"|Gene Segment<br>2k
+{{ShopRow|Blakadin MKIV Gene Segment, +5<br>Reach Depth 13000|white|2k|Evil Omen Gene Segment, +5<br>Reach Depth ?|white|2k|Gulpetal Tyrant Gene Segment, +5<br>Reach Depth ?|white|2k}}
+{{ShopRow|Tsarjaw Gene Segment, +5<br>Reach Depth ?|white|2k|Venustoad Gene Segment, +5<br>Reach Depth ?|white|2k}}
+
+!rowspan="6"|Material Gear
+{{ShopRow|Black Pearl, +1|green|25|Sorcerer Ring, +1|green|25|Warrior Ring, +1|green|25}}
+{{ShopRow|White Pearl, +1|green|25|Ruby Brooch, +1|blue|150|Sapphire Brooch, +1|blue|150}}
+{{ShopRow|Abyss Amulet, +1|purple|600|Heaven Amulet, +1|purple|600}}
+!rowspan="2"|Reagent
+{{ShopRow|Green Reagent, +50|green|125|Blue Reagent, +50|blue|250|Purple Reagent, +50|purple|1k}}
+!rowspan="6"|Scrolls
+{{ShopRow|Novice Scroll, +10|blue|200|Novice Scroll, +20|blue|400|Expert Scroll, +10|purple|660}}
+{{ShopRow|Expert Scroll, +20|purple|1,320|Master Scroll, +10|orange|900|Master Scroll, +20|orange|1.8k}}
+{{ShopRow|Master Scroll, +40|orange|3.6k}}
+!rowspan="2"|Unlocks
+{{ShopRow|Mysterious Seed, +1|white|500}}
+|}
+
+===Supply Boxes===
+Supply Boxes can be for sale in the Fissure Shop as well. Some Boxes can only show up once and will be at the top of the screen. Others will randomly be placed with the rest of the items in the shop.
+
+'''Supply Boxes that can be bought once:'''
+{| class="wikitable mw-collapsible mw-collapsed"
+!Supply Box Name
+!Cost in<br>{{RewardIconWithText|Ancient Coin}}s
+!Prerequisite
+!Contents
+|-
+|{{RewardIconWithText|Limited Value Pack I|orange}}||500||Unlocked with Fissure Shop||{{RewardIconWithLink|Lottery Ticket, +8|orange}}<br>{{RewardIconWithText|B-Tad, +30k}}<br>{{RewardIconWithText|Green Reagent, +100|green}}
+|-
+|{{RewardIconWithText|Limited Value Pack II|orange}}||1k||Unlocked with Fissure Shop||{{RewardIconWithLink|Wish Coin, +5|orange}}<br>{{RewardIconWithLink|Golden Pickaxe, +2|orange}}<br>{{RewardIconWithText|Glue, +30}}
+|-
+|{{RewardIconWithText|Eye of Horus Pack|orange}}||25k||Unlocked with Fissure Shop||{{RewardIconWithLink|Eye of Horus|orange}}<br>{{RewardIconWithText|Glue, +100}}<br>{{RewardIconWithText|B-Tad, +60k}}
+|-
+|{{RewardIconWithText|Heaven Amulet Pack|orange}}||900||Unlocked after purchasing Limited Value Pack I||{{RewardIconWithLink|Heaven Amulet|purple}}<br>{{RewardIconWithText|Glue, +100}}<br>{{RewardIconWithText|B-Tad, +24k}}
+|-
+|{{RewardIconWithText|Abyss Amulet Pack|orange}}||900||Unlocked after purchasing Limited Value Pack II||{{RewardIconWithLink|Abyss Amulet|purple}}<br>{{RewardIconWithText|Glue, +100}}<br>{{RewardIconWithText|B-Tad, +24k}}
+|-
+|{{RewardIconWithText|Crystal of Will Pack|orange}}||50k||Unlocked after purchasing Eye of Horus Pack||{{RewardIconWithLink|Crystal of Will|orange}}<br>{{RewardIconWithText|Glue, +200}}<br>{{RewardIconWithText|B-Tad, +120k}}<br>{{RewardIconWithLink|Wish Coin, +8|orange}}
+|}
+
+'''Random Supply Boxes:'''
+{| class="wikitable mw-collapsible mw-collapsed"
+!Supply Box Name
+!Cost in<br>{{RewardIconWithText|Ancient Coin}}s
+!Contents
+|-
+|{{RewardIconWithText|Supervalue Pack I|orange}}||300||{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithLink|Golden Pickaxe, +1|orange}}<br>{{RewardIconWithText|B-Tad, +30k}}
+|-
+|{{RewardIconWithText|Supervalue Pack II|orange}}||500||{{RewardIconWithLink|Wish Coin, +1|orange}}<br>{{RewardIconWithLink|Expert Scroll, +10|purple}}<br>{{RewardIconWithText|B-Tad, +50k}}
+|-
+|{{RewardIconWithText|White Gear Pack I|orange}}||600||{{RewardIconWithLink|Flower Crown}} +10<br>{{RewardIconWithText|Glue, +10}}<br>{{RewardIconWithText|B-Tad, +50k}}
+|-
+|{{RewardIconWithText|White Gear Pack II|orange}}||600||{{RewardIconWithLink|Wooden Ring}} +10<br>{{RewardIconWithText|Glue, +10}}<br>{{RewardIconWithText|B-Tad, +50k}}
+|-
+|{{RewardIconWithText|White Gear Pack III|orange}}||600||{{RewardIconWithLink|Iron Ring}} +10<br>{{RewardIconWithText|Glue, +10}}<br>{{RewardIconWithText|B-Tad, +50k}}
+|-
+|{{RewardIconWithText|White Gear Pack IV|orange}}||600||{{RewardIconWithLink|Beast Fang}} +10<br>{{RewardIconWithText|Glue, +10}}<br>{{RewardIconWithText|B-Tad, +50k}}
+|}
+
+==Drill Rig==
+{{RewardIcon|Drill Rig Core|50}}
+
+The Drill Rig is unlocked after completing Fissure Fl. 22 and will automatically dig for rewards every 72 hours. After each Fissure floor is completed the Drill Rig will be able to produce more {{RewardIconWithText|B-Tad}}, reagent, scrolls, and {{RewardIconWithLink|Ancient Coin}} (Fissure currency).
+
+==Fissure Digging Log==
+
+===Legend===
+{|class=wikitable
+!Type
+!Color Assignment
+|-
+|Combat
+|style="background-color:var(--red-bg)"|
+|-
+|Dungeon
+|style="background-color:var(--orange-bg)"|
+|-
+|Fissure Incident
+|style="background-color:var(--yellow-bg)"|
+|-
+|Reward
+|style="background-color:var(--blue-bg)"|
+|}
+
+<tabber>
+|-|0-199=
+{| class="wikitable"
+!Floor!!Name!!Notes!!Snail Reward!!Drill Rig Reward
+|-
+|3
+|style="background-color:var(--blue-bg)"|Dangerous Mine
+|
+|{{RewardIconWithLink|Claymore Mine|green}}
+|style="text-align:center"| -
+|-
+|5
+|style="background-color:var(--red-bg)"|Underground Pipe
+|Defeat [[#Fissure Enemies|City Administrator]]
+|{{RewardIconWithText|B-Tad, +4k}}<br>{{RewardIconWithLink|Novice Scroll, +10|blue}}
+|{{RewardIconWithText|B-Tad, +5k}}
+|-
+|rowspan="2"|13
+|style="background-color:var(--yellow-bg)" rowspan="2"|Tomb of Tutankhamun
+|Req. FTH 1,000
+|{{RewardIconWithLink|Tutankhamun Mask|orange}}
+|rowspan="2"|{{RewardIconWithText|Green Reagent, +10|green}}
+|-
+|Req. [[Zombie Form#Rank Up Rituals|Zombie T6 Ritual]]
+|{{RewardIconWithText|Zombie Cell, +3k}}
+|-
+|17
+|style="background-color:var(--red-bg)"|Angkor Wat Tomb
+|Defeat [[#Fissure Enemies|Miss Crawfer]]
+|{{RewardIconWithLink|Novice Scroll, +10|blue}}
+|{{RewardIconWithLink|Ancient Coin, +100}}
+|-
+|22
+|style="background-color:var(--yellow-bg)"|Stuck Mecha Device
+|Req. TECH 500
+|{{RewardIconWithLink|Drill Rig Core|black|#Drill Rig}}
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|26
+|style="background-color:var(--blue-bg)"|Dou Wan's Tomb
+|
+|{{RewardIconWithLink|Imperial Lamp, +10 Fragments|blue}}<br>{{RewardIconWithLink|Organ Chest, +100}}
+|style="text-align:center"| -
+|-
+|33
+|style="background-color:var(--red-bg)"|Central Avenue Station
+|Defeat [[#Fissure Enemies|Subway]]
+|{{RewardIconWithText|Travel Speedup, +2h}}<br>{{RewardIconWithLink|Time Chest, +80}}<br>{{RewardIconWithLink|Tesla Coil, +20 Fragments|purple}}<br>{{RewardIconWithLink|Fire Control Unit|black|Mecha Form}}
+|{{RewardIconWithLink|Novice Scroll, +20|blue}}
+|-
+|40
+|style="background-color:var(--red-bg)"|Drug Dealer's Pit
+|Defeat [[#Fissure Enemies|Drug Lord Escobar]]
+|{{RewardIcon|2h Soul Red}} {{Retext|Soul of Drug Dealer (2h)|red}}<br>{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Blue Reagent, +20|blue}}
+|{{RewardIconWithText|Green Reagent, +10|green}}
+|-
+|45
+|style="background-color:var(--yellow-bg)"|Goblin Lab
+|Req. {{RewardIconWithText|B-Tad, 50k}}
+|{{RewardIconWithText|Green Reagent, +100|green}}
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|50
+|style="background-color:var(--yellow-bg)"|Expo Time Capsule
+|Req. TECH 2,000
+|{{RewardIconWithLink|Bell's Telephone|purple}}<br>{{RewardIconWithLink|Faraday's Dynamo|purple}}<br>{{RewardIconWithLink|Time Chest, +80}}<br>{{RewardIconWithText|Einstein's Letter A}} ({{RewardIconWithText|Travel Speedup, +2h}})
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+| rowspan="2" |66
+| style="background-color:var(--red-bg)" rowspan="2" |Paris Catacomb
+|Defeat [[#Fissure Enemies|The Undead]]
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|W-Tad, +100}}
+| rowspan="2" |{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|Display one of the following: 
+* {{RewardIconWithLink|Kani Jade|purple}}
+* {{RewardIconWithLink|Koryeon Sutra|purple}}
+* {{RewardIconWithLink|Zoroaster's Torch|purple}}
+|{{RewardIconWithLink|Soul Chest, +100}}<br>{{RewardIconWithText|Expert Alchemy Case, +10|purple}}<br>{{RewardIconWithText|Offering Speedup, +5h}}
+|-
+|73
+|style="background-color:var(--orange-bg)"|Goblin Dungeon
+|7 floors in [[#73-0|Goblin Dungeon]]
+|
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|82
+|style="background-color:var(--yellow-bg)"|Escaped Mummy
+|
+|{{RewardIconWithLink|Extras|green}} +4<br>{{RewardIconWithLink|Starlet|blue}} +3<br>{{RewardIconWithLink|Star Flyer|purple}} +2<br>{{RewardIconWithLink|World Superstar|orange}} +1
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|94
+|style="background-color:var(--red-bg)"|Underground Pitch
+|Defeat [[#Fissure Enemies|Basketball Squad]].<br>(Cannot fight until [[Koryeo Apostles#Basketball Squad|Basketball Squad]] Apostle<br>in [[Koryeo]] has been defeated.)
+|{{RewardIcon|1h Soul Yellow}}{{Retext|Soul of Footballer (1h)|yellow}} +5<br>{{RewardIconWithLink|Evolution Chest, +100}}<br>{{RewardIconWithLink|World Bowl|purple}} +20
+|{{RewardIconWithText|B-Tad, +4k}}
+|-
+|117
+|style="background-color:var(--red-bg)"|Traveler 96322
+|Defeat [[#Fissure Enemies|Traveler 96322]]
+|{{RewardIconWithText|Zombie Cell, +1.2k}}<br>{{RewardIconWithLink|Gear Chest, +30}}<br>{{RewardIcon|2h Soul Red}}{{Retext|Soul of Traveler 96332 (2h)|red}}
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|135
+|style="background-color:var(--blue-bg)"|Buried Dragon Orb
+|
+|{{RewardIconWithLink|Dragon Orb, +1|orange}}
+|style="text-align:center"| -
+|-
+|150
+|style="background-color:var(--blue-bg)"|Abandoned Hatchery
+|Display {{RewardIconWithLink|Bird Incubator|green}}
+|{{RewardIconWithText|Hormone X., +3}}<br> {{RewardIconWithText|Travel Speedup, +8h}}<br>{{RewardIconWithText|Gene Speedup, +8h}}<br>{{RewardIconWithText|Clone Speedup, +8h}}
+|{{RewardIconWithLink|Novice Scroll, +10|blue}}
+|-
+|166
+|style="background-color:var(--red-bg)"|Underground Drainage
+|Defeat [[#Fissure Enemies|Ghoul]]
+|{{RewardIconWithLink|Demon Lord's Tailbone|purple}} +2<br>{{RewardIconWithText|Zombie Cell, +1.8k}}<br>{{RewardIcon|4h Soul Yellow}}{{Retext|Soul of Ghoul (4h)|yellow}}
+|{{RewardIconWithText|W-Tad, +120}}
+|-
+|175
+|style="background-color:var(--orange-bg)"|Seaul Base
+|7 floors in [[#175-0|Seaul Base]]
+|
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|195
+|style="background-color:var(--blue-bg)"|Prehistoric Fossil
+|
+|{{RewardIconWithLink|Prehistoric Fossil|purple}} +20
+|style="text-align:center"| -
+|}
+
+|-|200-499=
+{| class="wikitable"
+!Floor!!Name!!Notes!!Snail Reward!!Drill Rig Reward
+|-
+|228
+|style="background-color:var(--yellow-bg)"|Dusty Broken Mecha
+|Display one of the following: 
+* {{RewardIconWithLink|SkyWeb Hub|orange}}
+* {{RewardIconWithLink|Tokamak|orange}}
+* {{RewardIconWithLink|Unispark|orange}}
+|{{RewardIconWithLink|Tool Chest, +100}}<br>{{RewardIconWithText|Refine Speedup, +5h}}
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|250
+|style="background-color:var(--red-bg)"|Pixie Realm Pipe
+|Defeat [[#Fissure Enemies|Plumber]]
+|{{RewardIconWithLink|Wish Coin, +1|orange}}<br>{{RewardIconWithLink|Fungus Chest, +50}}<br>{{RewardIconWithLink|Fireflower|green}}
+|{{RewardIconWithLink|Novice Scroll, +20|blue}}
+|-
+|278
+|style="background-color:var(--red-bg)"|Traveler 9527
+|Defeat [[#Fissure Enemies|Traveler 9527]]
+|{{RewardIconWithText|Demon Cell, +1.2k}}<br>{{RewardIconWithLink|Gear Chest, +30}}<br>{{RewardIcon|2h Soul Red}}{{Retext|Soul of Traveler 9527 (2h)|red}}
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|300
+|style="background-color:var(--yellow-bg)"|Meeting Room
+|Req. FAME 2,000
+|{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWithLink|Master Scroll, +10|orange}}<br>{{RewardIconWithText|B-Tad, +20k}}
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|322
+|style="background-color:var(--yellow-bg)"|Advanced Goblin Lab
+|Req. 100k B-Tads
+|{{RewardIconWithLink|BetaGo|purple}}<br>{{RewardIconWithText|Blue Reagent, +100|blue}}<br>{{RewardIconWithText|Gene Speedup, +5h}}
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|351
+|style="background-color:var(--yellow-bg)"|Underground Armory
+|Req. TECH 3,000
+|{{RewardIconWithLink|Otto Engine|purple}} +20<br>{{RewardIconWithLink|Glue, +50|orange}}<br>{{RewardIconWithText|Refine Speedup, +5h}}
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|400
+|style="background-color:var(--orange-bg)"|UG Beehive Institute
+|7 floors in [[#400-0|UG Beehive Institute]]
+|
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+| rowspan="2" |428
+| style="background-color:var(--red-bg)"|Bravos Bank
+|Defeat [[#Fissure Enemies|Faceless One]]
+|{{RewardIconWithLink|Master Scroll, +10|orange}}<br>{{RewardIconWithText|W-Tad, +300}}
+| rowspan="2" |{{RewardIconWithText|W-Tad, +120}}
+|-
+|style="background-color:var(--yellow-bg)"|Bravos Bank
+|Display one of the following: 
+* {{RewardIconWithLink|Augustus' Medal|purple}}
+* {{RewardIconWithLink|Sword Throne|purple}}
+|{{RewardIconWithText|W-Tad, +500}}<br>{{RewardIconWithText|B-Tad, +100k}}
+|-
+|450
+|style="background-color:var(--red-bg)"|Devourer
+|Defeat [[#Fissure Enemies|Devourer]]
+|{{RewardIcon|1h Soul Yellow}}{{Retext|Devoured Soul (1h)|yellow}}<br>{{RewardIcon|1h Soul Green}}{{Retext|Devoured Soul (1h)|green}}<br>{{RewardIcon|1h Soul Red}}{{Retext|Devoured Soul (1h)|red}}<br>{{RewardIconWithLink|Devourer (Minigame)|black|Minigames}}
+|{{RewardIconWithText|B-Tad, +5k}}
+|-
+|465
+|style="background-color:var(--red-bg)"|Traveler 2333
+|Defeat [[#Fissure Enemies|Traveler 2333]]
+|{{RewardIconWithText|Angel Cell, +2k}}<br>{{RewardIconWithLink|Gear Chest, +30}}<br>{{RewardIcon|2h Soul Yellow}}{{Retext|Soul of Traveler 2333 (2h)|yellow}}
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|}
+
+|-|500-999=
+{| class="wikitable"
+!Floor!!Name!!Notes!!Snail Reward!!Drill Rig Reward
+|-
+|500
+|style="background-color:var(--blue-bg)"|Buried Jewels
+|
+|{{RewardIconWithGearlink|blue|Material|Sapphire Brooch}}<br>{{RewardIconWithGearlink|blue|Material|Ruby Brooch}}
+|style="text-align:center"| -
+|-
+| rowspan="2" |550
+|style="background-color:var(--red-bg)"|Underground Temple
+|Defeat [[#Fissure Enemies|Anubis]]
+|{{RewardIconWithText|1h Soul Green|green}} (Soul of Peon) +9<br>{{RewardIconWithText|8h Soul Green|green}} (Soul of Pharaoh)<br>{{RewardIconWithLink|Soul Chest, +200}}<br>{{RewardIconWithLink|Wish Coin, +3|orange}}
+| rowspan="2"|{{RewardIconWithLink|Master Scroll, +10|orange}}
+|-
+|style="background-color:var(--yellow-bg)"|Underground Temple
+|Display {{RewardIconWithLink|Phoenix Feather|orange}}
+|{{RewardIconWithLink|Scale of Anubis|orange}}
+|-
+|592
+|style="background-color:var(--orange-bg)"|Modun's Sealed Ground
+|8 floors in [[#592-0|Modun's Sealed Ground]]
+|
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+| rowspan="2" |650
+|style="background-color:var(--yellow-bg)"|Underground Chest
+|Req. FTH 8,000
+|{{RewardIconWithText|Expert Alchemy Case, +5|purple}}<br>{{RewardIconWithLink|Ancient Coin, +50}}
+| rowspan="2" |{{RewardIconWithText|B-Tad, +5k}}
+|-
+|style="background-color:var(--red-bg)"|Underground Chest
+|Defeat [[#Fissure Enemies|Treasure Monster]]
+|{{RewardIconWithLink|Beat the Treasure Monster|black|Minigames}}<br>{{RewardIcon|2h Soul Red}}{{Retext|Soul of Treasure Monster (2h)|red}}
+|-
+| rowspan="3" |685
+|style="background-color:var(--blue-bg)"|Fungus Farm
+|
+|{{RewardIconWonderFungusWithText|Blue|HP|Blue}} +1
+| rowspan="3" |{{RewardIconWithText|Green Reagent, +10|green}}
+|-
+|style="background-color:var(--blue-bg)"|Fungus Farm
+|
+|{{RewardIconWonderFungusWithText|Purple|DEF|Purple}} +1
+|-
+|style="background-color:var(--red-bg)"|Fungus Farm
+|Defeat [[#Fissure Enemies|Strange Caveman]]
+|{{RewardIconWithLink|Backpack of Mo|green}}<br>{{RewardIconWithText|2h Soul Green|green}} (Soul of Strange Caveman)<br>{{RewardIconWithLink|Fungus Chest, +200}}<br>{{RewardIconWonderFungusWithText|Orange|ATK|Orange}} +1
+|-
+|733
+|style="background-color:var(--yellow-bg)"|101 Sanctuary
+|Req. TECH 8,000
+|{{RewardIconWithLink|Refuge Portable Device|green}}<br>{{RewardIconWithLink|Evolution Chest, +80}}<br>{{RewardIconWithText|Travel Speedup, +3h}}
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|750 
+|style="background-color:var(--orange-bg)"|Experimentation Base
+|6 floors in Experimentation Base
+|?
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|782
+|style="background-color:var(--red-bg)"|Traveler 1024
+|Defeat [[#Fissure Enemies|Traveler 1024]]
+|{{RewardIconWithText|Mecha Cell, +2.5k}}<br>{{RewardIconWithLink|Gear Chest, +40}}<br>{{RewardIconWithText|2h Soul Green|green}} (Soul of Traveler 1024)
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|867
+|style="background-color:var(--orange-bg)"|The Great Lich Tomb
+|8 floors in [[#867-0|The Great Lich Tomb]]
+|
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|986
+|style="background-color:var(--red-bg)"|Cursed Remains
+|Defeat [[#Fissure Enemies|Adventurer's Skeleton]]
+|{{RewardIconWithLink|Yamato Treasure Map, +100}}<br>{{RewardIconWithLink|Murikan Treasure Map, +100}}<br>{{RewardIconWithLink|Super Treasure Map, +50}}
+|{{RewardIconWithText|Green Reagent, +10|green}}
+|}
+
+|-|1,000-2,999=
+{| class="wikitable"
+!Floor!!Name!!Notes!!Snail Reward!!Drill Rig Reward
+|-
+|rowspan="2"|1,126
+|style="background-color:var(--blue-bg)"|Cave of Lord Soil
+|
+|{{RewardIconWithText|Stone, +1k}}<br>{{RewardIconWithText|Wood, +1k}}<br>{{RewardIconWithText|B-Tads, +5k}}
+|rowspan="2"|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|style="background-color:var(--yellow-bg)"|Cave of Lord Soil
+|FAME 15,000
+|{{RewardIconWithLink|Incense|orange}} +1<br>{{RewardIconWithText|Ancient Fossil, +10}}<br>{{RewardIconWithText|Ancient Wood, +10}}
+|-
+|1,187
+|style="background-color:var(--red-bg)"|Traveler 89757
+|Defeat [[#Fissure Enemies|Traveler 89757]]
+|{{RewardIconWithText|Mecha Cell, +3k}}<br>{{RewardIconWithLink|Gear Chest, +50}}<br>{{RewardIconWithText|2h Soul Green|green}} (Soul of Traveler 89757)
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|1,225
+|style="background-color:var(--orange-bg)"|Tal Lasha's Tomb
+|8 floors in [[#1,225-0|Tal Lasha's Tomb]]
+|
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|1,350
+|style="background-color:var(--red-bg)"|Spider Pit
+|Defeat [[#Fissure Enemies|Cave Spiders]]
+|{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWonderFungusWithText|Purple|RUSH|purple}}<br>{{RewardIconWonderFungusWithText|Purple|ART|purple}}
+|{{RewardIconWithText|W-Tad, +120}}
+|-
+|1,429
+|style="background-color:var(--blue-bg)"|Prehistoric Bird Bone
+|Must have Hatchery
+|{{RewardIconWithText|Prehistoric Bird Bone}}<br>({{RewardIconWithText|Stone, +3k}}<br>{{RewardIconGeneSegment|Urvogel, +5}}
+|{{RewardIconWithText|B-Tad, +3k}}
+|-
+|rowspan="2"|1,528
+|style="background-color:var(--red-bg)"|Underground Maze
+|Defeat [[#Fissure Enemies|Minotaur]]
+|{{RewardIcon|4h Soul Red}}{{Retext|Soul of Minotaur (4h)|red}}<br>{{RewardIconWithText|B-Tad, +10k}}<br>{{RewardIconWithLink|Gear Chest, +200}}
+|rowspan="2"|{{RewardIconWithText|Purple Reagent, +10|purple}}
+|-
+|style="background-color:var(--yellow-bg)"|Underground Maze
+|Display: Orange Relic with FTH > 89
+|{{RewardIconWithGearlink|purple|Material|Abyss Amulet}}<br>{{RewardIconWithGearlink|purple|Material|Heaven Amulet}}<br>{{RewardIconWithLink|Wish Coin, +1|orange}}
+|-
+|1,650
+|style="background-color:var(--yellow-bg)"|Underground Checkpoint
+|''Same rewards for either option''
+|{{RewardIconWithLink|Lottery Ticket, +3|orange}}<br>{{RewardIconWithText|B-Tad, +50k}}
+|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|1,700
+|style="background-color:var(--orange-bg)"|The Cyclops Tinyverse
+|7 floors in [[#1,700-0|The Cyclops Tinyverse]]
+|
+|?
+|-
+|1,726
+|style="background-color:var(--yellow-bg)"|Traveler 1002
+|Must have Hatchery;<BR> Defeat [[#Fissure Enemies|Traveler 1002]]
+|{{RewardIconWithText|Demon Cell, +3k}}<br>{{RewardIconWithLink|Gear Chest, +60}}<br>{{RewardIcon|2h Soul Red}}{{Retext|Soul of Traveler 1002 (2h)|red}}
+|{{RewardIconWithText|B-Tad, +5k}}
+|-
+|rowspan="2"|1,825
+|style="background-color:var(--yellow-bg)"|Dark Gate
+|Display {{RewardIconWithLink|Key of Redemption|green}}
+|{{RewardIconWithLink|Soul Chest, +100}}<br>{{RewardIconWithText|B-Tad, +20k}}
+|rowspan="2"|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|style="background-color:var(--orange-bg)"|Fallen Lands
+|6 floors in the [[#1,825-0|Fallen Lands]]
+|
+|-
+|1,968
+|style="background-color:var(--red-bg)"|Persian Ruins
+|Defeat [[#Fissure Enemies|Prince of Achae]]
+|{{RewardIconWithLink|Time Chest, +200}}<br>{{RewardIconWithText|Travel Speedup, +4h}}<br>{{RewardIconWithLink|Sand of Time|green}}
+|{{RewardIconWithText|Blue Reagent, +10|blue}}
+|-
+|2,227
+|style="background-color:var(--yellow-bg)"|Solomon's Vault
+|Display {{RewardIconWithLink|The Key of Solomon|orange}}
+|{{RewardIconWithLink|Wish Coin, +3|orange}}<br>{{RewardIconWithLink|Super Treasure Map, +100}}<br>{{RewardIconWithLink|Grandmaster Scroll, +40|orange}}<br>{{RewardIconWithLink|Novice Scroll, +50|blue}}
+|{{RewardIconWithLink|Expert Scroll, +30|purple}}
+|-
+|2,376
+|style="background-color:var(--yellow-bg)"|Traveler 8759
+|Must have Hatchery;<BR> Defeat Traveler 8759
+|{{RewardIconWithText|Mutant Cell, +3k}}<br>{{RewardIconWithLink|Gear Chest, +60}}<br>{{RewardIcon|2h Soul Yellow}}{{Retext|Soul of Traveler 8759 (2h)|yellow}}
+|{{RewardIconWithText|B-Tad, +5k}}
+|-
+|2,500
+|style="background-color:var(--orange-bg)"|Earth Federation HQ
+|7 floors in [[#2,500-0|Earth Federation HQ]]
+|
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|2,586
+|style="background-color:var(--yellow-bg)"|Traveler 5001
+|Must have Hatchery;<BR> Defeat [[#Fissure Enemies|Traveler 5001]]
+|{{RewardIconWithText|Zombie Cell, +3k}}<br>{{RewardIconWithLink|Gear Chest, +60}}<br>{{RewardIcon|2h Soul Red}}{{Retext|Soul of Traveler 5001 (2h)|red}}
+|{{RewardIconWithText|B-Tad, +5k}}
+|-
+|2,785
+|style="background-color:var(--yellow-bg)"|Nameless Sword Spirit
+|Display {{RewardIconWithLink|Bladden's Head|green}}
+|{{RewardIconWithLink|Yamato Treasure Map, +100}}<br>{{RewardIconWithLink|Gear Chest, +100}}<br>{{RewardIconWithLink|Glue, +20}}
+|{{RewardIconWithText|Blue Reagent, +10|blue}}
+|-
+|2,800
+|style="background-color:var(--red-bg)"|Collapsed Maze
+|Defeat Gumball Team
+|[[Minigames|Tablet Maze minigame]]<br>{{RewardIconWithText|Travel Speedup, +3h}}<br>{{RewardIconWithLink|Ancient Coin, +100}}<br>{{RewardIcon|4h Soul Red}}{{Retext|Soul of Gumball (4h)|red}} +3
+|{{RewardIconWithLink|Novice Scroll, +20|blue}}
+|-
+|rowspan="2"|2,850
+|style="background-color:var(--yellow-bg)"|Wailing Wall
+|Display any [[Supreme Relic|Zodiac Relic]]: 
+* {{RewardIconWithLink|Aries|orange}}
+* {{RewardIconWithLink|Taurus|orange}}
+* etc...
+|{{RewardIconWithText|Stone, +3k}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|rowspan="2"|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|style="background-color:var(--orange-bg)"|Wailing Wall
+|7 floors in [[#2,850-0|Wailing Wall]]
+|
+|-
+|2,980
+|style="background-color:var(--yellow-bg)"|Dark Matter Lab
+|Req. TECH 21,000
+|{{RewardIconWithText|Engineering Printing Supply, +20|blue}}<br>{{RewardIconWithText|Standard Printing Supply, +20|yellow}}<br>{{RewardIconWithLink|5th Element|orange}}<br>{{RewardIconWithText|Gene Speedup, +3h}}
+|{{RewardIconWithLink|Novice Scroll, +20|blue}}
+|-
+|}
+
+|-|3,000-6,999=
+{| class="wikitable"
+!Floor!!Name!!Notes!!Snail Reward!!Drill Rig Reward
+|-
+|rowspan="2"|3,100
+|style="background-color:var(--yellow-bg)"|The Gate of Genesis
+|Defeat [[#Fissure Enemies|Gate of Genesis]], '''OR'''<br>Use {{RewardIconWithGearlink|orange|Instrument|Maze Key}} to open the gate
+|{{RewardIconWithLink|Time Chest, +100}}<br>{{RewardIconWithLink|Relic RF, +5|orange}}
+| style="text-align:center" rowspan="2"| -
+|-
+|style="background-color:var(--yellow-bg)"|Hermit
+|Req. FAME 24,300
+|{{RewardIconWithLink|L'Origine du monde|green}}
+|-
+|3,115
+|style="background-color:var(--yellow-bg)"|Verona's Coffin
+|Display {{RewardIconWithLink|Blood of Dracula|purple}}
+|{{RewardIconWithLink|Wish Coin, +3|orange}}<br>{{RewardIconWithLink|Ancient Coin, +50}}<br>{{RewardIcon|8h Soul Red}}{{Retext|Soul of Verona (8h)|red}}
+|{{RewardIconWithText|Blue Reagent, +10|blue}}
+|-
+|3,210
+|style="background-color:var(--red-bg)"|Hitman No.24
+|Defeat [[#Fissure Enemies|Hitman No.24]]
+|{{RewardIconWithLink|Hitman No.24 License|green}}<br>{{RewardIconWithLink|Demon Chest, +50}}<br>{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIcon|Tainted Liver of Gaia}}{{Relink|Tainted Liver of Gaia|orange|Altar#Unique_Offerings}}
+| style="text-align:center" | -
+|-
+|3,300
+|style="background-color:var(--orange-bg)"|Queen's Nest
+|7 Floors in [[#Fissure Dungeons|Queen's Nest]]
+|
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|rowspan="2"|3,350
+|style="background-color:var(--yellow-bg)"|Corla Drill
+|Req. TECH 22,500
+|{{RewardIconWithLink|Tool Chest, +100}}<br>{{RewardIconWithLink|Gear Chest, +100}}<br>{{RewardIconWithText|Refine Speedup, +8h}}
+|rowspan="2"|{{RewardIconWithText|B-Tad, +5k}}
+|-
+|style="background-color:var(--red-bg)"|Uranium Eater
+|Defeat [[#Fissure Enemies|Uranster]]
+|Soul of Gabura<br>{{RewardIconWithLink|Evolution Chest, +300}}<br>{{RewardIconWithLink|Organ Chest, +100}}
+|-
+|rowspan="2"|3,460
+| style="background-color:var(--yellow-bg)"|Ultimate Weapon
+|Req. 1 [[Incense]]
+|{{RewardIconWithLink|Lottery Ticket, +2|orange}}<br>{{RewardIconWithText|B-Tad, +20k}}
+|rowspan="2"|{{RewardIconWithText|Blue Reagent, +10|blue}}
+|-
+|style="background-color:var(--red-bg)"|Ultimate Weapon
+|Defeat [[#Fissure Enemies|Ultimate Weapon]]
+|{{RewardIconWithText|W-Tad, +666}}<br>{{RewardIconWithLink|Gear Chest, +100}}<br>{{RewardIconWithLink|Gear RF, +10|orange}}
+|-
+|rowspan="3"|3,550
+|rowspan="2" style="background-color:var(--yellow-bg)"|Sanzu River
+|"Board the Ferry" while in [[Zombie Form|T7 Zombie Form]]
+|{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|rowspan="3" style="text-align:center"| -
+|-
+|Display {{RewardIconWithLink|Kani Jade|purple}}
+|{{RewardIconWithText|Offering Speedup, +6h}}
+|-
+|style="background-color:var(--red-bg)"|Izanami
+|Defeat [[#Fissure Enemies|Izanami]]
+|{{RewardIconWithLink|Soul Chest, +900}}<br>{{RewardIconWithLink|Organ Chest, +100}}<br>{{RewardIconWithLink|Magic Potion, +50}}<br>{{RewardIconWithLink|Grandmaster Scroll, +40}}
+|-
+|3,660
+|style="Background-color:var[--red-bg)"|Traveler 9437
+|Must have Hatchery<br> Defeat [[#Fissure Enemies|Traveler 9437]]
+|{{RewardIconWithText|Angel Cell, +3k}}<br>{{RewardIconWithLink|Gear Chest, +80}}<br>{{RewardIcon|2h Soul Yellow}}{{Retext|Soul of Traveler 9437 (2h)|yellow}}
+|{{RewardIconWithText|B-Tad, +5k}}
+|-
+|3,974
+|style="background-color:var(--yellow-bg)"|Ancient Passway
+|Req. {{RewardIconWithLink|Black Dragon Key}}
+|??
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|4,100
+|style="background-color:var(--yellow-bg)"|Roaming Planet Bunker
+|Req. FAME 24,500
+|{{RewardIconWithText|B-Tad, +10k}}<br>Soybean Paste Stew (Food +50) +100<br>Sweet Potato (Food +30) +100
+|{{RewardIconWithText|B-Tad, +5k}}
+|-
+|4,286
+|style="background-color:var(--yellow-bg)"|Abbis Cave
+|Defeat Abbis Cave
+|
+|style="text-align:center"| -
+|-
+|4,400
+|style="background-color:var(--orange-bg)"|Snail Crusader Alliance
+|6 Floors in [[#Fissure Dungeons|Snail Crusader Alliance]]
+|
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|rowspan="6"|4,600
+|style="background-color:var(--yellow-bg)"|Squid Playground
+|Display Kraken avatar
+|
+|rowspan="6"|{{RewardIconWithText|Novice Scroll, +20|blue}}
+|-
+|style="background-color:var(--red-bg)" rowspan="5"|Squid Playground
+|Defeat [[#Fissure Enemies|Wood Automaton]]
+|{{RewardIconWithLink|Organ Chest, +100}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+|Defeat [[#Fissure Enemies|Squid with Candies]]
+|{{RewardIconWithLink|Organ Chest, +120}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+|Defeat [[#Fissure Enemies|Squid with Marbles]]
+|{{RewardIconWithLink|Organ Chest, +150}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+|Defeat [[#Fissure Enemies|Squid with Ropes]]
+|{{RewardIconWithLink|Organ Chest, +200}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+|Defeat [[#Fissure Enemies|Squid No.1]]
+|{{RewardIconWithLink|Mutated Tentacle, +3|purple}}<br>{{RewardIconWithText|W-Tad, +300}}
+|-
+|4,797
+|style="background-color:var(--yellow-bg)"|Traveler 6145
+|Must have Hatchery<br>Defeat [[#Fissure Enemies|Traveler 6145]]
+|{{RewardIconWithText|Mecha Cell, +3k}}<br>{{RewardIconWithLink|Gear Chest, +100}}<br>{{RewardIcon|2h Soul Green}}{{Retext|Soul of Traveler 6145 (2h)|green}}
+|{{RewardIconWithText|B-Tad, +5k}}
+|-
+|4,906
+|style="background-color:var(--orange-bg)"|King Xian's Tomb
+|7 Floors in [[#Fissure Dungeons|King Xian's Tomb]]
+|
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|4,975
+|style="background-color:var(--yellow-bg)"|Labyrinth Mine
+|Defeat Gold Mine Owner
+|
+|style="text-align:center"| -
+|-
+|5,100
+|style="background-color:var(--yellow-bg)"|Lost Civilization Altar
+|Display {{RewardIconWithLink|Crystal Skull|purple}}
+|
+|style="text-align:center"| -
+|-
+|5,224
+|style="background-color:var(--yellow-bg)"|Underground Concert
+|Display {{RewardIconWithLink|Royal Celtic Harp|orange}}
+|
+|{{RewardIconWithText|Blue Reagent, +10|blue}}
+|-
+|rowspan="3"|5,316
+|rowspan="2" style="background-color:var(--yellow-bg)"|Underground Landfill
+|Req. TECH 28,000
+|Abandoned TV
+* {{RewardIconWithLink|Tool Chest, +100}}
+* {{RewardIconWithText|B-Tad, +5k}}
+* {{RewardIconWithLink|Glue, +20|orange}}
+|rowspan="3"| {{RewardIconWithText|Blue Reagent, +10|blue}}
+|-
+|Req. TECH 28,500
+|Abandoned Lunch Box
+* {{RewardIconWonderFungusWithText|Green|HP|Green}} +1
+* {{RewardIconWonderFungusWithText|Blue|HP|Blue}} +1
+* {{RewardIconWonderFungusWithText|Purple|HP|Purple}} +1
+|-
+|style="background-color:var(--red-bg)"|Rusty Robot
+|Defeat [[#Fissure Enemies|Rusty Robot]]
+|{{RewardIconWithText|Mecha Cell, +1k}}<br>{{RewardIconWithLink|Tool Chest, +300}}<br>{{RewardIconWithLink|AR2-T3|purple}} +1 
+|-
+|rowspan="2"|5,509
+|style="background-color:var(--blue-bg)|Sanctuary Gate
+|Must have Hatchery<br>Need: Snird Vagrant Avatar
+|{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWithLink|Ancient Coin, +50}}
+| style="text-align:center" rowspan="2"| {{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|style="background-color:var(--yellow-bg)"|Underground Sanctuary
+|Defeat [[#Fissure Enemies|Snird Queen]]
+|
+|-
+|5,520
+|style="background-color:var(--red-bg)"|Lost Snird
+|Must have Hatchery<br>Defeat [[#Fissure Enemies|Snird Vagrant]]
+|{{RewardIconWithText|Demon Cell, +1k}}<br>{{RewardIconWithText|Angel Cell, +1k}}<br>{{RewardIconWithLink|Ancient Coin, +200}}<br>{{RewardIcon|4h Soul Green}}{{Retext|Soul of Snird Vagrant (4h)|green}}
+|{{RewardIconWithText|Green Reagent, +10|green}}
+|-
+|5,717
+|style="background-color:var(--orange-bg)"|CCR of A Wandering Planet
+|7 Floors in [[#Fissure Dungeons|CCR of A Wandering Planet]]
+|
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|rowspan="10"|5,758
+|rowspan="10" style="background-color:var(--yellow-bg)"|Metamaterial Voxel
+|Display {{RewardIconWithLink|AH602|orange}}
+|{{RewardIconWithLink|Master Scroll, +20|orange}}
+| style="text-align:center" rowspan="10"| -
+|-
+|Defeat [[#Fissure Enemies|Metamaterial AH602]]
+|{{RewardIconWithLink|AH602, +40 Fragments|orange}}
+|-
+|Display {{RewardIconWithLink|Orphic Egg|orange}}
+|{{RewardIconWithLink|Master Scroll, +20|orange}}
+|-
+|Defeat [[#Fissure Enemies|Metamaterial Orphic Egg]]
+|{{RewardIconWithLink|Orphic Egg, +40 Fragments|orange}}
+|-
+|Display Minion: 5 Chikas, T5 or above
+|{{RewardIconWithLink|Evolution Chest, +100}}
+|-
+|Defeat [[#Fissure Enemies|Metamaterial Chika]]
+|{{RewardIconWithLink|Time Chest, +300}}<br>{{RewardIconWithText|Clone Speedup, +1d}}
+|-
+|Display Minion: 5 Catcolytes, T5 or above
+|{{RewardIconWithText|B-Tad, +10k}}
+|-
+|Defeat [[#Fissure Enemies|Metamaterial Catcolyte]]
+|{{RewardIconWithLink|Fungus Chest, +300}}<br>{{RewardIconWithText|Clone Speedup, +1d}}
+|-
+|Display Minion: 5 Nightmare Steeds, T5 or above
+|{{RewardIconWithText|W-Tad, +100}}
+|-
+|Defeat [[#Fissure Enemies|Meta-Nightmare Steed]]
+|{{RewardIconWithLink|Soul Chest, +300}}<br>{{RewardIconWithText|Clone Speedup, +1d}}
+|-
+|6,000
+|style="background-color:var(--yellow-bg)"|Underground Oil Lake
+|Defeat Testa
+|
+|{{RewardIconWithText|B-Tad, +5k}}
+|-
+|6,111
+|style="background-color:var(--yellow-bg)"|Mutant Underground Base
+|Requires [[Mutant Form|Mutant]] T8 or higher
+|???
+|-
+|6,222
+|style="background-color:var(--yellow-bg)"|Real Life RPG Team
+|Defeat God
+|
+|style="text-align:center"| -
+|-
+|rowspan="2"|6,470
+|style="background-color:var(--blue-bg)"|Gang Gathering
+|Must have Hatchery<br>Display {{RewardIconWithLink|Gang Cadre|green}}
+|{{RewardIconWithLink|Super Treasure Map, +50|orange}}<br>{{RewardIconWithText|B-Tad, +20k}}
+| style="text-align:center" rowspan="2"| {{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|style="background-color:var(--yellow-bg)"|Gang Oath Ceremony
+|Defeat [[#Fissure Enemies|Owl Brother]]
+|
+|-
+|6,626
+|style="background-color:var(--yellow-bg)"|Ruined Temple
+|Defeat Demonic Monkey
+|
+|style="text-align:center"| -
+|-
+|6,722
+|style="background-color:var(--yellow-bg)"|Onmyoji's Alter
+|Defeat Travelers
+|
+|style="text-align:center"| -
+|-
+|rowspan="6"|6,886
+|rowspan="6" style="background-color:var(--yellow-bg)"|Exploration Team
+|Display {{RewardIconWithLink|Phoenician Tablet|purple}}
+|{{RewardIconWithText|Demon Manual, +30}}
+|rowspan="6"|{{RewardIconWithLink|Expert Scroll, +20|purple}}
+|-
+|Display {{RewardIconWithLink|Lucy the Ape|orange}}
+|{{RewardIconWithText|Angel Manual, +30}}
+|-
+|Display {{RewardIconWithLink|Cuneiform Tablet|orange}}
+|{{RewardIconWithText|Mutant Manual, +30}}
+|-
+|Display {{RewardIconWithLink|Maya Slate|orange}}
+|{{RewardIconWithText|Mecha Manual, +30}}
+|-
+|Display {{RewardIconWithLink|Zircon of Jack Hills|orange}}
+|{{RewardIconWithText|Dragon Manual, +30}}
+|-
+|Display {{RewardIconWithLink|Oxus Treasure|orange}}
+|{{RewardIconWithLink|Research Briefcase, +1|orange}}
+|}
+
+|-|7,000-9,999=
+{| class = "wikitable"
+!Floor!!Name!!Notes!!Snail Reward!!Drill Rig Reward
+|-
+|rowspan="2"|7,013
+|style="background-color:var(--yellow-bg)"|Underground Well
+|Equip Ghost Zadako Avatar
+|{{RewardIconWithLink|Incense, +1|orange}}<br>{{RewardIconWithText|Offering Speedup, +4h}}
+|rowspan=2|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|style="background-color:var(--orange-bg)"|Ghost Training School
+|7 Floors in [[#Fissure Dungeons|Ghost Training School]]
+|
+|-
+|7,079
+|style="background-color:var(--yellow-bg)"|Cavemen
+|Defeat Caveman Tribe
+|
+|style="text-align:center"| -
+|-
+|7,206
+|style="background-color:var(--red-bg)"|Lantern and Dungeon
+|Defeat [[#Fissure Enemies|Lantern Master]]
+|?
+|style="text-align:center"| -
+|-
+|7,288
+|style="background-color:var(--yellow-bg)"|High-speed Drill Rig
+|Req. TECH 34,000
+|
+|{{RewardIconWithText|B-Tad, +5k}}
+|-
+|rowspan="5" |7,402
+|style="background-color:var(--red-bg);" rowspan=5 |Rainbow Cave
+|Defeat [[#Fissure Enemies|Rainbow Dog]]
+|{{RewardIconWithText|Zombie Cat Food, +1}}
+|rowspan=5 |{{RewardIconWithText|B-Tad, +5k}}
+|-
+|Defeat [[#Fissure Enemies|Rainbow Pig]]
+|{{RewardIconWithText|Demon Cat Food, +1}}
+|-
+|Defeat [[#Fissure Enemies|Rainbow Cat]]
+|{{RewardIconWithText|Angel Cat Food, +1}}
+|-
+|Defeat [[#Fissure Enemies|Rainbow Bull]]
+|{{RewardIconWithText|Mutant Cat Food, +1}}
+|-
+|Defeat [[#Fissure Enemies|Rainbow Giraffe]]
+|{{RewardIconWithText|Mecha Cat Food, +1}}<br>{{RewardIconWithLink|Coating Bucket|orange}}
+|-
+|rowspan="2" |7,509
+|style="background-color:var(--yellow-bg)"|Cyclops Defense System
+|Equip Cyclops Priest Avatar
+|{{RewardIconWithLink|Gear Chest, +100}}<br>{{RewardIconWithText|B-Tad, +20k}}
+|rowspan="2"|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|style="background-color:var(--orange-bg)"|Den of Cyclops
+|4 Floors in [[#Fissure Dungeons|Den of Cyclops]]
+|
+|-
+|rowspan="2" |7,777
+|style="background-color:var(--red-bg);" rowspan="2" |77 Arcade
+|Defeat [[#Fissure Enemies|Fruit Machine]]
+|{{RewardIconWithLink|Game Controller, +20}}<br>{{RewardIconWithText|Wish Coin, +5|orange}}
+|rowspan="2"|{{RewardIconWithText|Purple Reagent, +10|purple}}
+|-
+|Defeat [[#Fissure Enemies|Tiger Slot Machine]]
+|{{RewardIconWithLink|Game Controller, +30}}<br>{{RewardIconWithText|Wish Coin, +5|orange}}
+|-
+|7,840
+|style="background-color:var(--yellow-bg)"|Hamster Underground Vault
+|Defeat Hamster Vault Guards
+|Req. FAME 36,000
+|{{RewardIconWithText|B-Tad, +5k}}
+|-
+|7,960
+|style="background-color:var(--red-bg)"|Sickle Wielder
+|Defeat [[#Fissure Enemies|Sickle Welder]]
+|
+|{{RewardIconWithText|B-Tad, +5k}}
+|-
+|8,125
+|style="background-color:var(--orange-bg)"|Antigravity Basement
+|8 Floors in [[#Fissure Dungeons|Antigravity Basement]]
+|Req. TECH 35,000
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|8,264
+|style="background-color:var(--red-bg)"|Giant Warren
+|
+|
+|
+|-
+|8,460
+|style="background-color:var(--red-bg)"|Entrance to ...
+|
+|
+|
+|-
+|8,554
+|style="background-color:var(--red-bg)"|Old Closed G... 
+|
+|
+|
+|-
+|8,681
+|style="background-color:var(--red-bg)"|Gaze of the...
+|
+|
+|
+|-
+|8,890
+|style="background-color:var(--red-bg)"|Strange Kni..
+|
+|
+|
+|-
+|9,124
+|style="background-color:var(--orange-bg)"|Mirage in the Book
+|8 Floors in [[#Fissure Dungeons|Mirage in the Book]]
+|
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|9,358
+|style="background-color:var(--yellow-bg)"|Goldfish Ma...
+|
+|
+|
+|-
+|rowspan="2"|9,690
+|style="background-color:var(--yellow-bg)"|Door to Fairy Tales
+|Display Relic: {{RewardIconWithLink|Andersen's Fairytales|purple}}
+|{{RewardIconWithLink|CIV Master Scroll, +40|orange}}, <br> {{RewardIconWithLink|Expert Scroll, +20|purple}}, <br> Opens dungeon "Underground Black Forest"
+|rowspan=2|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|style="background-color:var(--orange-bg)"|Underground Black Forest
+|5 Floors in [[#Fissure Dungeons|Underground Black Forest]]
+|
+|-
+|9,960
+|style="background-color:var(--red-bg)"|Underground Volcano
+|Defeat [[#Fissure Enemies|Colossal Bird]]
+|{{RewardIconWithLink|Abyss Wings, +2|orange}}<br>{{RewardIconWithLink|Organ Chest, +100}}<br>{{RewardIconWithLink|Evolution Chest, +300}}
+|{{RewardIconWithText|B-Tad, +5k}}
+|}
+|-|10,000-14,999=
+
+{| class="wikitable"
+!Floor!!Name!!Notes!!Snail Reward!!Drill Rig Reward
+|-
+|10,086
+|style="background-color:var(--red-bg)"|Junior Centipede Disciple
+|
+|{{RewardIconWithText|Mutant Cell, +2000}}<br>{{RewardIconWithLink|Organ Chest, +100}}
+|
+|-
+|10,365
+|style="background-color:var(--orange-bg)"|Earthworm Underground Base
+|7 floors in [[#Fissure Dungeons|Earthworm Underground Base]]
+|
+|{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|10,460
+|style="background-color:var(--red-bg)"|Final Weapon v.72
+|
+|{{RewardIconWithLink|Gear Chest, +300}}<br>{{RewardIconWithLink|Incense, +2|orange}}
+|{{RewardIconWithLink|Novice Scroll, +10|blue}}
+|-
+|10,656
+|style="background-color:var(--red-bg)"|Dark Dominator
+|Only advanced demons can awaken the statue
+|???
+|
+|-
+|10,767
+|style="background-color:var(--yellow-bg)"|Shell of Nethrone
+|
+|{{RewardIconWithLink|Demon Chest, +300|orange}}<br>{{RewardIconWithText|W-tad, +800}}
+|
+|-
+|rowspan="2"|10,867
+|style="background-color:var(--blue-bg)"|Radiative Cave
+|Require 44k TECH
+|{{RewardIconWithLink|Master Alchemy Case|orange}}
+|rowspan=2|{{RewardIconWithText|B-tad, +6k}}
+|-
+|style="background-color:var(--red-bg)"|Uranous Beast
+|
+|{{RewardIconWithLink|Evolution Chest, +300}}<br>{{RewardIconWithLink|Blasphemy Eye|orange}}
+|-
+|rowspan="4"|11,111
+|style="background-color:var(--red-bg)"|Dark Warriors
+|Defeat [[#Fissure Enemies|Gandy]]
+|{{RewardIconWithText|Demon Cell, +3k}}<br>{{RewardIconWithLink|Lottery Ticket|orange}}
+|rowspan=4|{{RewardIconWithLink|Expert Scrolls, +10|purple}}
+|-
+|style="background-color:var(--red-bg)"|Dark Warriors
+|Defeat [[#Fissure Enemies|Bladie]]
+|{{RewardIconWithText|Demon Cell, +3k}}<br>{{RewardIconWithLink|Lottery Ticket, +2|orange}}
+|-
+|style="background-color:var(--red-bg)"|Dark Warriors
+|Defeat [[#Fissure Enemies|Hammie]]
+|{{RewardIconWithText|Demon Cell, +3k}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|style="background-color:var(--red-bg)"|Dark Warriors
+|Defeat [[#Fissure Enemies|Ghosdy]]
+|{{RewardIconWithText|Demon Lord Tailbone, +60|purple}}<br>{{RewardIconWithLink|Lucky Coin, +5|orange}}
+|-
+|11,236
+|style="background-color:var(--red-bg)"|Substitute Terror
+|Defeat [[#Fissure Enemies|Namy]]
+|{{RewardIconWithText|Blue Reagent, +100|blue}}<br>{{RewardIconWithText|Purple Reagent, +100|purple}}<br>{{RewardIconWithText|Orange Reagent, +30|orange}}
+|
+|-
+|rowspan="2"|11,576
+|style="background-color:var(--yellow-bg)"|Isaac's Ring
+|Switch to the advanced mecha form to enter (T8 Mecha Form required)
+|{{RewardIconWithText|W-tad, +300}}<br>{{RewardIconWithText|B-tad, +10k}}
+|rowspan=2|
+|-
+|style="background-color:var(--red-bg)"|Mecha Lady
+|Fight [[#Fissure Enemies|Mecha Lady]]
+|{{RewardIconWithLink|Strength Crystal, +120|orange}}<br>{{RewardIconWithLink|Tool Chest, +300}}
+|-
+|11,600
+|style="background-color:var(--red-bg)"|Death Insect
+|Defeat [[#Fissure Enemies|Death Insect]]
+|{{RewardIconWithLink|Organ Chest, +300}}<br>{{RewardIconWithLink|Ultimate Mouthparts, +1|red}}
+|
+|-
+|rowspan="2"|11,888
+|style="background-color:var(--yellow-bg)"|Dark Ring
+|Display  Relic:{{RewardIconWithLink|Tree of Life|purple}}
+|Opens the dungeon "Dark Ring"
+|rowspan=2|{{RewardIconWithText|Ancient Coin, +200}}
+|-
+|style="background-color:var(--orange-bg)"|Dark Ring
+|7 floors in [[#Fissure Dungeons|Dark Ring]]
+|
+|-
+|rowspan="2"|12,111
+|style="background-color:var(--yellow-bg)"|Demon God Data Drive
+|Req. Minion Sim Level 700
+|{{RewardIconWithText|Basic Data Unit, +1000}}<br>{{RewardIconWithLink|Rare Record, +1|purple}}
+|rowspan="2"|
+|-
+|style="background-color:var(--red-bg)"|Demon God Data Drive
+|Defeat [[#Fissure Enemies|Hard Drive Guard]]
+|{{RewardIconWithText|Basic Data Unit, +6000}}<br>{{RewardIconWithLink|Precious Record, +1|orange}}
+|-
+|rowspan="4"|12,300
+|style="background-color:var(--red-bg)" rowspan="4"|Minerva Vessoul
+|Defeat [[#Fissure Enemies|Pointed Head]]||{{RewardIconWithText|Offering Speedup, +4h}}<br>{{RewardIconWithLink|Ancient Coin, +100}}
+|rowspan="4"|{{RewardIconWithLink|Ancient Coin, +50}}
+|-
+|Defeat [[#Fissure Enemies|Round Face]]||{{RewardIconWithText|Offering Speedup, +6h}}<br>{{RewardIconWithLink|Ancient Coin, +100}}
+|-
+|Defeat [[#Fissure Enemies|Long Tail]]||{{RewardIconWithText|Offering Speedup, +10h}}<br>{{RewardIconWithLink|Ancient Coin, +100}}
+|-
+|Defeat [[#Fissure Enemies|Little Toe]]||{{RewardIconWithLink|Ancient Coin, +300}}<br>{{RewardIconWithLink|Minerva Disciple, +20 Fragments|blue}}
+|-
+|rowspan="3"|12,306
+|style="background-color:var(--red-bg)"|Nun-chuck Lord
+|Defeat [[#Fissure Enemies|Nun-chuck Lord]]
+|{{RewardIconWithLink|Gear Chest, +100}}<br>{{RewardIconWithText|W-tad, +200}}
+|rowspan=3|
+|-
+|style="background-color:var(--red-bg)"|Nun-chuck Lord
+|Defeat [[#Fissure Enemies|Nun-chuck Lord]]
+|{{RewardIconWithLink|Gear Chest, +200}}<br>{{RewardIconWithText|W-tad, +400}}
+|-
+|style="background-color:var(--red-bg)"|Nun-chuck Lord
+|Defeat [[#Fissure Enemies|Nun-chuck Lord]]
+|{{RewardIconWithLink|Gear RF, +20|orange}}<br>{{RewardIconWithText|W-tad, +800}}
+|-
+|rowspan="3"|12,580
+|style="background-color:var(--red-bg)"|Orcomimus
+|Defeat [[#Fissure Enemies|Orcomimus]]
+|{{RewardIconWithLink|Nebula Chest, +100}}<br>{{RewardIconWithText|Gene Speedup, +4h}}
+|rowspan=3
+|-
+|style="background-color:var(--red-bg)"|Orcomimus
+|Defeat [[#Fissure Enemies|Orcomimus]]
+|{{RewardIconWithLink|Nebula Chest, +100}}<br>{{RewardIconWithText|Gene Speedup, +8h}}
+|-
+|style="background-color:var(--red-bg)"|Orcomimus
+|Defeat [[#Fissure Enemies|Orcomimus]]
+|{{RewardIconWithLink|Singularity Crystal, +2|orange}}<br>{{RewardIconWithText|Gene Speedup, +1d}}
+|-
+|12,606
+|style="background-color:var(--red-bg)"|Venomous Traveler
+|
+|{{RewardIconWithLink|Organ Chest, +300}}<br>{{RewardIconWithText|Orange Super Species Seq., +1|orange}}
+|
+|-
+|12,810
+|style="background-color:var(--red-bg)"|Atavistic Behemoth
+|
+|{{RewardIconWithLink|Organ Chest, +300}}<br>{{RewardIconWithLink|Relic RF, +30|orange}}
+|
+|-
+|rowspan="2"|12,888
+|style="background-color:var(--yellow-bg)"|Captured Zion
+|Display the Relic: {{RewardIconWithLink|SkyWeb Hub|orange}}
+|opens Dungeon [[#Fissure Dungeons|Captured Zion]]
+|rowspan=2|{{RewardIconWithText|Ancient Coin, +200}}
+|-
+|style="background-color:var(--orange-bg)"|Captured Zion
+|7 floors in [[#Fissure Dungeons|Captured Zion]]
+|
+|-
+|12,937
+|style="background-color:var(--red-bg)"|Hammer Nailer
+|
+|{{RewardIconWithText|Demon Cell, +3k}}<br>{{RewardIconWithLink|Lottery Ticket, +8|orange}}<br>{{RewardIconWithLink|Surya's Heart, +3|orange}}
+|
+|-
+|rowspan=5|13,122
+|rowspan="5" style="background-color:var(--red-bg)"|Duel Acadmey
+|Defeat [[#Fissure Enemy|Skateboard Duelist]]
+|{{RewardIconWithText|Refine Speedup, +4h}}<br>{{RewardIconWithLink|Common Record|blue}}
+|rowspan=5|
+|-
+|Defeat [[#Fissure Enemies|Bicycle Duelist]]
+|{{RewardIconWithText|Refine Speedup, +4h}}<br>{{RewardIconWithLink|Common Record|blue}}
+|-
+|Defeat [[#Fissure Enemies|Motorcycle Duelist]]
+|{{RewardIconWithText|Refine Speedup, +6h}}<br>{{RewardIconWithLink|Common Record|blue}}
+|-
+|Defeat [[#Fissure Enemies|Rolls-Roys Duelist]]
+|{{RewardIconWithText|Refine Speedup, +8h}}<br>{{RewardIconWithLink|Rare Record|purple}}
+|-
+|Defeat [[#Fissure Enemies|Subway Duelist]]
+|{{RewardIconWithText|Refine Speedup, +1d}}<br>{{RewardIconWithLink|Precious Record|orange}}
+|-
+|rowspan=6|13,456
+|rowspan="6" style="background-color:var(--red-bg)"|Dungeon and Adventures
+|Defeat [[#Fissure Enemies|Spiritual Swordman]]
+|{{RewardIconWithLink|Black Pearl|green}}<br>{{RewardIconWithLink|Novice Scroll, +10|blue}}
+|rowspan=6|{{RewardIconWithText|B-tad, +6k}}
+|-
+|Defeat [[#Fissure Enemies|Judoka]]
+|{{RewardIconWithLink|Warrior Ring|green}}<br>{{RewardIconWithLink|Novice Scroll, +10|blue}}
+|-
+|Defeat [[#Fissure Enemies|Defender]]
+|{{RewardIconWithLink|Ruby Brooch|blue}}<br>{{RewardIconWithLink|Novice Scroll, +10|blue}}
+|-
+|Defeat [[#Fissure Enemies|Ace Gunner]]
+|{{RewardIconWithLink|Crusader Ring|blue}}<br>{{RewardIconWithLink|Expert Scroll, +10|purple}}
+|-
+|Defeat [[#Fissure Enemies|Magical Sprite]]
+|{{RewardIconWithLink|Abyss Amulet|purple}}<br>{{RewardIconWithLink|Expert Scroll, +10|purple}}
+|-
+|Defeat [[#Fissure Enemies|Serina]]
+|{{RewardIconWithLink|Eye of Horus|orange}}<br>{{RewardIconWithLink|Master Scroll, +40|orange}}
+|-
+|13,675
+|style="background-color:var(--orange-bg)"|Bladefists of Seven
+|7 floors in [[#Fissure Dungeons|Bladefists of Seven]]
+|
+|{{RewardIconWithText|Ancient Coin, +200}}
+|-
+|13,743
+|style="background-color:var(--red-bg)"|Frozen Giant
+|Defeat [[#Fissure Enemies|Ice Stone Giant]]
+|{{RewardIconWithLink|Gaia's Spine, +40|red}}<br>{{RewardIconWithLink|Wish Coin, +5|orange}}
+|
+|-
+|13,910
+|style="background-color:var(--red-bg)"|Void Crawler
+|
+|{{RewardIconWithText|Refine Speedup, +12h}}<br>{{RewardIconWithText|W-tad, +1k}}<br>{{RewardIconWithLink|Blasphemy Eye|orange}}
+|
+|-
+|14,159
+|style="background-color:var(--red-bg)"|Reborn Creed
+|Defeat [[#Fissure Enemies|Azer the Reborn]]
+|{{RewardIconWithLink|Gear Chest, +300}}<br>{{RewardIconWithLink|Eden Fragment|green}}
+|{{RewardIconWithText|Purple Reagent, +10|purple}}
+|-
+|14,265
+|style="background-color:var(--red-bg)"|Mahakala Prajnaparamita
+|Defeat [[#Fissure Enemies|Mahakala Prajnaparamita]]
+|{{RewardIconWithLink|Lottery Ticket, +8|orange}}<br>{{RewardIconWithLink|Wish Coin, +5|orange}}<br>{{RewardIconWithLink|Mahakala's Offering, +2|orange}}
+|{{RewardIconWithText|B-Tad, +6k}}
+|-
+|14,356
+|style="background-color:var(--red-bg)"|Centipede Disciple Sr
+|Defeat [[#Fissure Enemies|Centipede Disciple Sr]]
+|{{RewardIconWithLink|Organ Chest, +200}}<br>{{RewardIconWithText|Mutant Cell, +3k}}
+|
+|-
+|14,632
+|style="background-color:var(--red-bg)"|Imaginary Space
+|Defeat [[#Fissure Enemies|Imaginary Serpent]]
+|{{RewardIconWithText|Refine Speedup, +12h}}<br>{{RewardIconWithLink|Occult Snake Eye|green}}
+|
+|-
+|rowspan=3|14,777
+|rowspan="3" style="background-color:var(--red-bg)"|Escaped Mythical Beast
+|Defeat [[#Fissure Enemies|Shukaku]]
+|{{RewardIconWithText|Offering Speedup, +4h}}<br>{{RewardIconWithText|Mutant Cell, +3k}}
+|rowspan=3|
+|-
+|Defeat [[#Fissure Enemies|Nekomata]]
+|{{RewardIconWithText|Offering Speedup, +8h}}<br>{{RewardIconWithText|Mutant Cell, +3k}}
+|-
+|Defeat [[#Fissure Enemies|Souei]]
+|{{RewardIconWithText|Offering Speedup, +1d}}<br>{{RewardIconWithText|Cerulean Slumberer, +20|blue}}
+|-
+|14,890
+|style="background-color:var(--red-bg)"|Mecharino
+|Defeat [[#Fissure Enemies|Mecharino]]
+|{{RewardIconWithText|Mecha Cell, +5k}}<br>{{RewardIconWithLink|Tool Chest, +300}}<br>{{RewardIconWithLink|AR2-T1, +6|green}}
+|-
+|}
+|-|15,000+=
+
+{| class="wikitable"
+!Floor!!Name!!Notes!!Snail Reward!!Drill Rig Reward
+|-
+|rowspan="5"|15,137
+|style="background-color:var(--yellow-bg)"|Western Paradise
+|Display {{RewardIconWithLink|Boltzmann Brain}}
+|Fight serie
+|rowspan=5|{{RewardIconWithLink|Expert Scroll, +10|purple}}
+|-
+|rowspan="4" style="background-color:var(--red-bg)"|Western Paradise
+|Defeat [[#Fissure Enemies|Tyrona]]
+|{{RewardIconWithText|Mecha Cell, +3k}}<br>{{RewardIconWithText|Gene Speedup, +4h}}
+|-
+|Defeat [[#Fissure Enemies|Welsh]]
+|{{RewardIconWithText|Mecha Cell, +3k}}<br>{{RewardIconWithText|Gene Speedup, +6h}}
+|-
+|Defeat [[#Fissure Enemies|Ford]]
+|{{RewardIconWithText|Mecha Cell, +3k}}<br>{{RewardIconWithText|Gene Speedup, +8h}}<br>{{RewardIconWithLink|Control Unit, +20|purple}}
+|-
+|Defeat [[#Fissure Enemies|Lilith]]
+|{{RewardIconWithText|Mecha Cell, +6k}}<br>{{RewardIconWithText|Gene Speedup, +1d}}<br>{{RewardIconWithLink|Small-town Girl|orange}}
+|-
+|15,416
+|style="background-color:var(--red-bg)"|Centipede Master
+|Defeat [[#Fissure Enemies|Centipede Master]]
+|{{RewardIconWithLink|Organ Chest, +300}}<br>{{RewardIconWithText|Mutant Cell, +5k}}
+|
+|-
+|15,812
+|style="background-color:var(--red-bg)"|Gorilla King
+|Defeat [[#Fissure Enemies|Gorilla King]]
+|{{RewardIconWithText|Demon Cell, +5k}}<br>{{RewardIconWithText|Gorilla King, +20|blue}}
+|
+|-
+|rowspan=3|16,136
+|rowspan="3" style="background-color:var(--red-bg)"|Artifical Life
+|Defeat [[#Fissure Enemies|Renault I]]
+|{{RewardIconWithLink|Wormhole Refiner, +100}}<br>{{RewardIconWithLink|AR2-T2|blue}}
+|rowspan=3|{{RewardIconWithText|B-tad, +6k}}
+|-
+|Defeat [[#Fissure Enemies|Renault II]]
+|{{RewardIconWithLink|Wormhole Refiner, +200}}<br>{{RewardIconWithLink|AR2-T3|purple}}
+|-
+|Defeat [[#Fissure Enemies|Renault III]]
+|{{RewardIconWithLink|Wormhole Refiner, +300}}<br>{{RewardIconWithLink|Renault|orange}}
+|-
+|rowspan=5|16,562
+|rowspan="5" style="background-color:var(--red-bg)"|Cave Knights
+|Defeat [[#Fissure Enemies|Caterpillar Grandpa]]
+|{{RewardIconWithText|Green Organ Slime, +200|green}}<br>{{RewardIconWithLink|Lottery Ticket, +2|orange}}
+|rowspan=5|
+|-
+|Defeat [[#Fissure Enemies|Samurai in White]]
+|{{RewardIconWithText|Green Organ Slime, +240|green}}<br>{{RewardIconWithLink|Lottery Ticket, +2|orange}}
+|-
+|Defeat [[#Fissure Enemies|Abyssal Despot]]
+|{{RewardIconWithText|Green Organ Slime, +280|green}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|Defeat [[#Fissure Enemies|Prince of Honor]]
+|{{RewardIconWithText|Green Organ Slime, +320|green}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|Defeat [[#Fissure Enemies|General Knight]]
+|{{RewardIconWithText|Green Organ Slime, +600|green}}<br>{{RewardIconWithLink|Lottery Ticket, +10|orange}}<br>{{RewardIconWithLink|Wings of the Knight|purple}}
+|-
+|16,894
+|style="background-color:var(--red-bg)"|Centipede King
+|Defeat [[#Fissure Enemies|Centipede King]]
+|{{RewardIconWithLink|Organ Chest, +600}}<br>{{RewardIconWithText|Mutant Cell, +10k}}<br>{{RewardIconWithLink|Centipede Potion|green}}
+|{{RewardIconWithText|Purple Reagent, +10|purple}}
+|-
+|16,938
+|style="background-color:var(--red-bg)"|Lost Arrival
+|Defeat [[#Fissure Enemies|Sevenpods]]
+|{{RewardIconWithLink|Quantum Gel, +3k}}<br>{{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|
+|-
+|17,696
+|style="background-color:var(--orange-bg)"|Witch Purgatory
+|7 floors in [[#Fissure Dungeons|Witch Purgatory]]
+|{{RewardIconWithLink|Quantum Gel, +3k}}<br>{{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|{{RewardIconWithText|Ancient Coin, +200}}
+|-
+|}
+</tabber>
+
+==Fissure Enemies==
+<tabber>
+
+|-|1-499=
+{| class="mw-collapsible wikitable"
+!Floor!!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats
+|-
+|5||City Administrator||2,608||1,626||7,733||AFFCT 10,986|| -
+|-
+|17||Miss Crawfer||4,057||3,331||7,228||AFFCT 15,429|| -
+|-
+|33||Subway||20,000||14,000||120,000||AFFCT 25950|| -
+|-
+|40||Drug Lord Escobar||7,747||5,912||19,600||AFFCT 11,287|| -
+|-
+|66||The Undead||11,128||9,362||19,383||AFFCT 16,265|| -
+|-
+|94||Basketball Squad||10,880||8,262||26,672||AFFCT 26,655|| -
+|-
+|117||Traveler 96322||10,127||8,566||17,476||AFFCT 25,970|| -
+|-
+|166||Ghoul||19,312||13,325||113,457||AFFCT 37,503|| -
+|-
+|250||Plumber||20,820||14,089||133,303||AFFCT 38,400|| -
+|-
+|278||Traveler 9527||20,509||16,413||113,078||AFFCT 38,656|| -
+|-
+|428||Faceless One||30,849||20,665||255,980||AFFCT 47,290|| -
+|-
+|450||Devourer||31,523||21,377||288,808||AFFCT 48,828|| -
+|-
+|465||Traveler 2333||31,937||21,756||264,724||AFFCT 48,861|| -
+|}
+
+|-|500-2,999=
+{| class="mw-collapsible wikitable"
+!Floor!!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats
+|-
+|550||Anubis||67,543||57,099||632,385||AFFCT 77,460||?
+|-
+|650||Treasure Monster||34,953||23,253||299,363||AFFCT 51,824||?
+|-
+|685||Strange Caveman||52,168||35,351||522,344||AFFCT 57,345||?
+|-
+|782||Traveler 1024||48,923||39,273||442,115||AFFCT 64,674||?
+|-
+|986||Adventurer's Skeleton||49,189||38,235||468,047||AFFCT 65,260||?
+|-
+|1,187||Traveler 89757||59,306||49,539||554,957||AFFCT 72,243||?
+|-
+|1,350||Cave Spiders||75,359||56,606||805,393||AFFCT 73,015|| - 
+|-
+|1,528||Minotaur||78,552||61,227||812,474||AFFCT 84,081||?
+|-
+|1,726||Traveler 1002||84,199||60,435||954,455||AFFCT 89,180|| - 
+|-
+|1,968||Prince of Achae||90,215||70,317||982,7871||AFFCT 90,531||?
+|-
+|2,376||Traveler 8759||112,146||80,572||1,329,554||AFFCT 105,755?|| - 
+|-
+|2,586||Traveler 5001||123,480||88,716||1,500,821||AFFCT 112,020?|| - 
+|-
+|2,800||Gumball Team||108,774||90,380||1,501,389||AFFCT 104,041||?
+|}
+
+|-|3,000-7,499=
+{| class="mw-collapsible wikitable"
+!Floor!!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats
+|-
+|3,100||Gate of Genesis||139,779||121,639||2,854,954||AFFCT 121,366||?
+|-
+|3,210||Hitman No.24||133,919||110,304||2,186,977||AFFCT 134,695||?
+|-
+|3,350||Uranster||114,713||102,556||2,143,233||AFFCT 112,450||?
+|-
+|3,460||Ultimate Weapon||117,597||108,080||2,281,299||AFFCT 113,640||?
+|-
+|3,550||Izanami||146,111||134,320||3,736,372||AFFCT 128,266||?
+|-
+|3,660||Traveler 9437||169,831||122,016||2,137,174||AFFCT 136,625?||-
+|-
+|rowspan="5"|4,600
+|Wood Automaton||167,200||138,497||1,610,732||CIV 24,856||?
+|-
+|Squid with Candies||173,089||142,782||1,764,454||CIV 24,971||?
+|-
+|Squid with Marbles||174,838||144,119||1,785,178||CIV 25,258||?
+|-
+|Squid with Ropes||176,590||145,457||1,805,963||CIV 25,650||?
+|-
+|Squid No.1||182,729||150,349||2,180,651||CIV 25,912||?
+|-
+|5,316||Rusty Robot||207,499||169,755||2,016,732||TECH 29,449||?
+|-
+|4,797||Traveler 6145||203,921||146,508||2,852,892||AFFCT153,795?||
+|-
+|5,520||Snird Vagrant||163,939||116,018||3,968,596||AFFCT145,675?||-
+|-
+|rowspan="5" |5,758 
+|Metamaterial AH602||207,777||169,963||2,021,022||TECH 27,370||HIT +90<br>Paralysis RES +90%
+|-
+|Metamaterial Orphic Egg||215,729||175,885||2,141,012||FTH 27,619||HIT +90<br>Paralysis RES +90%
+|-
+|Metamaterial Chika||229,065||185,636||2,320,738||CIV 28,069||HIT +90<br>Paralysis RES +90%
+|-
+|Metamaterial Catcolyte||232,066||189,729||2,391,671||FTH 28,289||HIT +90<br>Paralysis RES +90%
+|-
+|Meta-Nightmare Steed||239,603||197,852||3,012,448||ART 28,988||HIT +90<br>Paralysis RES +90%
+|-
+|rowspan="5" |7,402
+|Rainbow Dog||273,149||217,617||2,932,584||?||?
+|-
+|Rainbow Pig||278,017||221,217||2,988,532||?||?
+|-
+|Rainbow Cat||282,259||224,572||3,041,572||?||?
+|-
+|Rainbow Bull||286,833||227,974||3,094,948||?||?
+|-
+|Rainbow Giraffe||300,848||238,356||3,847,987||ART 36,245||?
+|}
+
+|-|7,500-14,999=
+{| class="mw-collapsible wikitable"
+!Floor!!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats
+|-
+|rowspan="2"| 7,777
+|Fruit Machine||289,736||230,003||3,126,404||AFFCT 194,195||HIT +90<br>Paralysis RES +90%
+|-
+|Tiger Slot Machine||299,036||236,926||3,821,758||AFFCT 195,875||HIT +90<br>Paralysis RES +90%
+|-
+|10,086||Centipede Disciple Jr||430,336||331,961||9,118,697||AFFCT 251,225||HIT +90<br>Paralysis RES +90%
+|-
+|10,460||Final Weapon v.72||447,307||343,728||6,054,797||AFFCT 254,730||HIT +90<br>Paralysis RES +90%
+|-
+|10,767||Shell of Nethrone||403,510||351,172||8,508,731||AFFCT 250,105||HIT +90<br>Paralysis RES +90%
+|-
+|10,867||Uranous Beast||463,560||354,845||6,348,755||AFFCT 263,600||HIT +90<br>Paralysis RES +90%
+|-
+|rowspan="4"|11,111
+|Gandy||418,464||256,628||9,021,244||AFFCT 263,330||HIT +90<br> Paralysis RES +90%
+|-
+|Bladie||426,380||260,712||9,258,800||AFFCT 257,830||HIT +90<br> Paralysis RES +90%
+|-
+|Hammie||434,319||264,792||9,501,973||AFFCT 259,330||HIT +90<br> Paralysis RES +90%
+|-
+|Ghosdy||441,955||268,769||9,773,666||AFFCT 260,830||HIT +90<br> Paralysis RES +90%
+|-
+|11,236||Nano||479,868||365,585||6,684,001||AFFCT 230,380||HIT +90<br> Paralysis RES +90%
+|-
+|11,576||Mecha Lady||466,068||378,902||8,208,268||AFFCT 272,690||HIT +90<br> Paralysis RES +90%
+|-
+|11,600||Death Insect||503,383||380,929||7,254,690||AFFCT 235,680||HIT +90<br> Paralysis RES +90%
+|-
+|12,111||Drive Guard||548,173||404,535||10,473,225||AFFCT 250,605||HIT +90<br> Paralysis RES +90%
+|-
+|rowspan="3"|12,306||Nun-chuck Lord||519,799||354,225||9,355,322||AFFCT 264,535||HIT +90<br> Paralysis RES +90%
+|-
+|Nun-chuck Lord||525,070||367,080||9,686,307||AFFCT 268,285||HIT +90<br>Paralysis RES +90%
+|-
+|Nun-chuck Lord||574,983||389,116||11,023,831||AFFCT 275,785||HIT +90<br>Paralysis RES +90%
+|-
+|rowspan="3"|12,580||Orcomimus||501,387||314,858||12,212,348||AFFCT 268,605||HIT +90<br>Paralysis RES +90%
+|-
+|Orcomimus||517,262||324,282||12,713,256||AFFCT 272,355||HIT +90<br>Paralysis RES +90%
+|-
+|Orcomimus||543,973||339,365||14,088,891||AFFCT 278,355||HIT +90<br>Paralysis RES +90%
+|-
+|12,606||Traveler 4509||590,956||426,415||11,966,664||AFFCT 260,645||?
+|-
+|12,810||Ningen||569,281||414,239||9,212,075||AFFCT 257,355||?
+|-
+|12,937||Hammer Nailer||584,734||422,551||9,633,673||AFFCT 260,280||?
+|-
+|rowspan="5"|13,122||Skateboard Duelist||499,428||358,005||11,887,354||AFFCT 272,085||HIT +90<br>Paralysis +90%
+|-
+|Bicycle Duelist||518,429||367,915||12,800,427||AFFCT 276,335||HIT +90<br>Paralysis RES +90%
+|-
+|Motorcycle Duelist||544,502||382,476||15,211,333||AFFCT 281,585||HIT +90<br>Paralysis RES +90%
+|-
+|Rolls-Roys Duelist||530,737||376,236||13,089,925||AFFCT 279,335||HIT +90<br>Paralysis RES +90%
+|-
+|Subway Duelist||564,593||394,965||15,978,748||AFFCT 286,085||HIT +90<br>Paralysis RES +90%
+|-
+|rowspan="6"|13,456||Spiritual Swordsman||537,737||304,007||14,469,374||AFFCT 275,715||HIT +90<br>Paralysis RES +90%
+|-
+|Judoka||538,562||289,930||15,010,295||AFFCT 278,715||HIT +90<br>Paralysis RES +90%
+|-
+|Defender||539,597||406,602||12,102,669||AFFCT 283,215||HIT +90<br>Paralysis +90%
+|-
+|Ace Gunner||542,746||335,743||13,627,409||AFFCT 281,715||Hit +90<br>Paralysis RES +90%
+|-
+|Magical Sprite||545,898||366,839||14,272,469||AFFCT 284,715||HIT +90<br>Paralysis RES +90%
+|-
+|Serina||561,870||331,193||17,621,674||AFFCT 290,715||HIT +90<br>Paralysis RES +90%
+|-
+|rowspan="2"|13,743||Ice Stone Giant||588,600||500,243||12,688,883||AFFCT 285,905||HIT +90<br>Paralysis RES +90%
+|-
+|13,910||Void Crawler||631,831||451,402||11,432,174||AFFCT 258,010||?
+|-
+|14,159||Azur the Reborn||588,293||381,449||1,907,669||AFFCT 289,805||HIT +90<br>Paralysis +90%
+|-
+|14,265||Mahakala Prajnaparamita||659,728||468,839||12,111,597||AFFCT 259,555||?
+|-
+|14,356||Centipede Disciple Sr||580,251||376,482||17,674,471||AFFCT 287,905||HIT +90<br>Paralysis RES +90%
+|-
+|14,632||Imaginary Serpent||677,463||479,780||12,542,572||AFFCT 260,485?||?
+|-
+|rowspan="3"|14,777||Shukaku||593,044||435,133||19,191,110||AFFCT 291,850||HIT +90<br>Paralysis RES +90%
+|-
+|Nekomata||602,490||441,741||19,714,474||AFFCT 294,100||HIT +90<br>Paralysis RES +90%
+|-
+|Souei||627,654||457,161||21,093,841||AFFCT 299,350||HIT +90<br>Paralysis RES +90%
+|-
+|14,890||Mecharino||540,839||480,592||23,950,823||AFFCT 266,265||HIT +90<br>Paralysis RES +90%
+|-
+|}
+
+
+|-|15,000+=
+{| class="mw-collapsible wikitable"
+!Floor!!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats
+|-
+|rowspan="4"|15,137||Tyrona||597,766||438,437||19,336,824||AFFCT 292,975||HIT +90<br>Paralysis RES +90%
+|-
+|Welsh||611,889||422,400||21,493,000||AFFCT 295,975||HIT +90<br>Paralysis RES +90%
+|-
+|Ford||632,399||434,886||22,746,181||AFFCT 300,475||HIT +90<br>Paralysis RES +90%
+|-
+|Lilith||660,997||451,533||26,506,196||AFFCT 304,155||HIT +90<br>Paralysis RES +90%
+|-
+|15,416||Centipede Master||637,109||412,221||24,418,664||AFFCT 301,590||HIT +90<br>Paralysis RES +90%
+|-
+|15,812||Gorilla King||679,923||377,740||31,277,679||AFFCT 304,755||HIT +90<br>Paralysis RES +90%
+|-
+|rowspan="3"|16,136||Renault I||670,435||372,687||30,859,241||AFFCT 305,550||HIT +90<br>Paralysis RES +90%
+|-
+|Renault II||664,512||376,113||32,922,538||AFFCT 305,890||HIT +90<br>Paralysis RES +90%
+|-
+|Renault III||688,699||391,203||34,200,047||AFFCT 306,235||HIT +90<br>Paralysis RES +90%
+|-
+|rowspan="5"|16,562||Caterpillar Grandpa||673,557||430,480||29,817,497||AFFCT 308,585||HIT +90<br>Paralysis RES +90%
+|-
+|Samurai in White||691,574||449,299|30,697,828||AFFCT 309,835||HIT +90<br>Paralysis RES +90%
+|-
+|Abyssal Despot||712,722||467,097||32,563,098||AFFCT 310,370||HIT +90<br>Paralysis RES +90%
+|-
+|Prince of Honor||701,286||466,596||30,513,137||AFFCT 310,900||HIT +90<br>Paralysis RES +90%
+|-
+|General Knight||727,560||492,648||32,651,989||AFFCT 313,560||HIT +90<br>Paralysis RES +90%
+|-
+|16,894||Centipede King||749,419||475,914||36,050,607||AFFCT 320,400||HIT +90<br>Paralysis RES +90%
+|-
+|16,938||Sevenpods||805,572||555,895||17,050,848||AFFCT 271,770?||HIT +90<br>Paralysis RES +90%
+|-}
+</tabber>
+
+==Fissure Dungeons==
+<tabber>
+|-|73=
+'''Goblin Dungeon'''
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Goblin Warrior||6,342||4,589||18,364||CIV 3,958|| - ||{{RewardIcon|2h Soul Green}}{{Retext|Soul of Goblin Warrior (2h)|green}}
+|-
+|Goblin Warrior||8,025||5,848||23,615||CIV 4,541|| - ||{{RewardIcon|2h Soul Green}}{{Retext|Soul of Goblin Warrior (2h)|green}}
+|-
+|Goblin Shaman||10,994||7,996||33,741||TECH 5,380|| - ||{{RewardIcon|4h Soul Green}}{{Retext|Ghost of Goblin Shaman (4h)|green}}<br>{{RewardIconWithText|Green Reagent, +30|green}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithLink|Golden Pickaxe, +1|orange}}<br>{{RewardIconWithLink|Organ Chest, +30}}
+|-
+|Goblin Warrior||10,067||7,250||29,597||CIV 5,108|| - ||{{RewardIcon|2h Soul Green}}{{Retext|Soul of Goblin Warrior (2h)|green}}
+|-
+|Goblin King||14,758||10,504||57,813||FAME 6,335|| - ||{{RewardIcon|8h Soul Yellow}}{{Retext|Soul of Goblin King (8h)|yellow}}<br>{{RewardIconWithGearlink|green|Material|Warrior Ring}}<br>{{RewardIconWithText|W-tad, +500}}<br>{{RewardIconWonderFungusWithText|Purple, +1|ATK|purple}}
+|}
+
+|-|175=
+'''Seaul Base'''
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Cultist||13,067||9,846||49,245||FTH 5,960|| - ||{{RewardIcon|4h Soul Red}}{{Retext|Soul of Cultist (4h)|red}}<br>{{RewardIconWithText|Zombie Cell, +1.5k}}
+|-
+|Cultist||14,032||10,321||51,176||FTH 6,118|| - ||{{RewardIcon|4h Soul Red}}{{Retext|Soul of Cultist (4h)|red}}<br>{{RewardIconWithText|Demon Cell, +1.8k}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|B-Tad, +5k}}
+|-
+|Cult Deacon||17,160||12,955||93,567||FAME 7,007|| - ||{{RewardIcon|4h Soul Red}}{{Retext|Soul of Cult Leader (4h)|red}}<br>{{RewardIconWithText|Angel Cell, +6k}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithLink|Lottery Ticket, +1|orange}}
+|-
+|Cultist||17,294||12,955||90,081||FTH 7,007|| - ||{{RewardIcon|4h Soul Red}}{{Retext|Soul of Cultist (4h)|red}}<br>{{RewardIconWithText|Mutant Cell, +2k}}
+|-
+|Paramara EX||39,458||29,105||332,574||ART 11,105|| - ||{{RewardIcon|8h Soul Red}}{{Retext|Soul of Paramara EX (8h)|red}}<br>{{RewardIconWithLink|Evolution Chest, +100}}<br>{{RewardIconWithLink|Unispark|orange}} Fragment +40
+|}
+
+|-|400=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Zombie||26,900||21,691||170,303||FTH 8,818||?||{{RewardIconWithText|Zombie Cell, +2k}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|Gene Speedup, +2h}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+|Zombie||31,327||24,631||22,116||FTH 9,428||?||{{RewardIconWithText|Zombie Cell, +2k}}
+|-
+|The Despot||32,662||26,285||249,346||FAME 9,775||?||{{RewardIconWithText|Zombie Cell, +2.5k}}<br>{{RewardIconWithText|Demon Cell, +2.5k}}<br>{{RewardIconWithLink|Evolution Chest, +50}}
+|-
+|Zombie||30,216||14,631||222,202||FTH 9,428||?||{{RewardIconWithText|Zombie Cell, +2k}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWithLink|Evolution Chest, +50}}
+|-
+|Flame Queen Mainframe||39,911||31,381||313,639||TECH 11,103||?||{{RewardIconWithLink|Time Chest, +100}}<br>{{RewardIconWithLink|Tool Chest, +100}}<br>[[Minigames|Biochem Crisis minigame]]<br>{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|}
+
+|-|592=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Skeleton Soldier||39,710||27,618||384,979||FTH 11,344|| - ||{{RewardIconWithText|B-Tad, +12k}}
+|-
+|Skeleton Soldier||41,763||28,423||413,404||FTH 11,559|| - ||{{RewardIconWithText|B-Tad, +15k}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|Orange Reagent, +10|orange}}
+|-
+|Cursed Mummy||51,726||34,682||542,935||FTH 11,580|| - ||{{RewardIconWithText|Zombie Cell, +3k}}<br>{{RewardIconWithText|Demon Cell, +3k}}<br>{{RewardIconWithLink|Soul Chest, +60}}
+|-
+|Skeleton Soldier||48,670||31,920||490,210||FTH 10,744|| - ||{{RewardIconWithText|B-Tad, +18k}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Offering Speedup, +5h}}
+|-
+|Skeleton Soldier||47,351||31,920||493,584||FTH 10,744|| - ||{{RewardIconWithText|B-Tad, +20k}}
+|-
+|Archpriest Modun||60,527||39,170||660,126||FTH 12,410|| - ||{{RewardIconWithText|8h Soul Red|red}} (Soul of Archpriest)<br>{{RewardIconWithGearlink|orange|Material|Crystal of Will}}<br>{{RewardIconWithLink|Chinchorro Mummy|purple}} +20 Fragments<br>{{RewardIconWithLink|Black Crystal Heart, +20 Fragments|purple}}
+|}
+|-|750=
+'''Experimentation Base'''
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|No. 606||45,234||42,234||303,652||TECH 11,260|| - ||{{RewardIconWithText|Mutantigen, +2}}<br>{{RewardIconWithText|Green Organ Slime, +30}}
+|-
+|No. 228||60,937||54,618||374,573||TECH 11,751|| - ||{{RewardIconWithText|Mutantigen, +2}}<br>{{RewardIconWithText|Green Organ Slime, +30}}
+|-
+|No.586||69,267||60,894||437,932||TECH 12,529|| - ||{{RewardIconWithText|Mutantigen, +3}}<br>{{RewardIconWithText|Blue Organ Slime, +30}}
+|-
+||'''Chest Reward'''||colspan="5" style="text-align:center;" | || Assistant Lab Box x2
+|-
+|No.604||80,071||64969||488,221||TECH 13,307|| - ||{{RewardIconWithText|Mutantigen, +3}}<br>{{RewardIconWithText|Blue Organ Slime, +30}}
+|-
+|No.626||94,155||79,232||550,109||TECH 14,865||-|| Extraterrestrial Minion Skin <br>{{RewardIconWithText|Mutantigen, +6}}<br>{{RewardIconWithText|Blue Organ Slime, +150}}
+|}
+
+|-|867=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Rider of Sin||51,457||43,024||455,060||FAME 11,629|| - ||{{RewardIconWithText|4h Soul Red|red}} (Soul of Sin Rider)<br>{{RewardIconWithLink|Gear Chest, +20}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithLink|Novice Scroll, +40|blue}}
+|-
+|Rider of Punishment||53,077||44,401||467,016||FAME 12,431|| - ||{{RewardIconWithText|4h Soul Yellow|yellow}} (Soul of Punishment Rider)<br>{{RewardIconWithLink|Gear Chest, +30}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithLink|FTH Master Scroll, +20|orange}}<br>{{RewardIconWithLink|ART Master Scroll, +20|orange}}
+|-
+|Rider of Darkness||56,859||47,213||525,357||FAME 12,847|| - ||{{RewardIconWithText|4h Soul Green|green}} (Soul of Darkness Rider)<br>{{RewardIconWithLink|Gear Chest, +50}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithLink|Lottery Ticket, +3|orange}}<br>{{RewardIconWithLink|Soul Chest, +100}}
+|-
+|Rider of Doom||59,188||48,640||551,290||FAME 13,058|| - ||{{RewardIconWithText|4h Soul Yellow|yellow}} (Soul of Doom Rider)<br>{{RewardIconWithLink|Gear Chest, +80}}<br>{{RewardIconWithLink|Golden Pickaxe, +3|orange}}
+|-
+|Great Lich||63,850||52,784||638,667||FTH 13,671|| - ||{{RewardIconWithText|8h Soul Red|red}} (Soul of Great Lich)<br>{{RewardIconWithGearlink|orange|Material|Crystal of Will}}<br>{{RewardIconWithLink|FTH Master Scroll, +20|orange}}<br>{{RewardIconWithLink|ART Master Scroll, +20|orange}}
+|}
+
+|-|1,225=
+'''Tal Lasha's Tomb'''
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Mummy||70,097||50,016||771,904||FTH 13,682|| - ||{{RewardIconWithText|Green Reagent, +20|green}}<br>{{RewardIconWithText|Zombie Cell, +1k}}
+|-
+|Mummy||72,650||50,973||783,937||FTH 13,882|| - ||{{RewardIconWithText|Green Reagent, +20|green}}<br>{{RewardIconWithText|Zombie Cell, +1k}}
+|-
+|Cursed Pharaoh||71,199||51,858||811,367||FTH 14,089|| - ||{{RewardIconWithText|Offering Speedup, +4h}}<br>{{RewardIconWithLink|FTH Master Scroll, +20|orange}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|Mummy||71,337||51,499||822,715||FTH 14,006|| - ||{{RewardIconWithText|Green Reagent, +20|green}}<br>{{RewardIconWithText|Zombie Cell, +1k}}
+|-
+|Mummy||72,164||51,691||832,366||FTH 14,050|| - ||{{RewardIconWithText|Green Reagent, +20|green}}<br>{{RewardIconWithText|Zombie Cell, +1k}}
+|-
+|Fallen Prophet||73,488||53,620||812,889||CIV 14,301|| - ||{{RewardIconWithText|B-Tad, +20k}}<br>{{RewardIconWithText|Purple Reagent, +30|purple}}
+|-
+|Lord of Pain||77,372||55,905||882,624||CIV 14,906|| - ||{{RewardIconWithText|8h Soul Red|red}} (Soul of Lord of Pain)<br>{{RewardIconWithGearlink|orange|Material|Crystal of Will}}<br>{{RewardIconWithText|Orange Reagent, +50|orange}}<br>{{RewardIconWithText|Demon Cell, +5k}}
+|}
+
+|-|1,700=
+'''The Cyclops Tinyverse'''
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Cyclops Sapper||99,377||91,665||725,636||TECH 16,650||HIT +70<br>Paralysis RES +70%||{{RewardIconWithLink|Blue Organ Slime, +30|blue}}<br>{{RewardIconWithLink|Glue, +20}}
+|-
+|Cyclops Guard||104,837||95,802||744,041||TECH 17,150||HIT +70<br>Paralysis RES +70%||{{RewardIconWithLink|Blue Organ Slime, +30|blue}}<br>{{RewardIconWithLink|Glue, +20}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithLink|Gear Chest, +100}}
+|-
+|Cyclops Chef||112,595||100,363||779,535||TECH 17,650||HIT +70<br>Paralysis RES +70%||{{RewardIconWithLink|Purple Organ Slime, +30|purple}}<br>{{RewardIconWithLink|Glue, +20}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||?
+|-
+|?||?||?||?||?||?||?
+|-
+|?||?||?||?||?||?||?
+|}
+
+|-|1,825=
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Fallen Angel||76,286||55,885||878,315||FTH 17,262||?||{{RewardIconWithText|Angel Cell, +1k}}<br>{{RewardIconWithText|Demon Cell, +1k}}
+|-
+|Fallen Angel||82,108||60,016||922,343||FTH 17,615||?||{{RewardIconWithText|Angel Cell, +1k}}<br>{{RewardIconWithText|Demon Cell, +1k}}
+|-
+|Mastema||87,109||66,178||997,121||FTH 17,668||?||{{RewardIconWithLink|ART Master Scroll, +20|orange}}<br>{{RewardIconWithText|W-Tad, +300}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithLink|Demon Chest, +200}}<br>{{RewardIconWithText|Tainted B-Tad, +10k}}
+|-
+|Fallen Angel||87,424||64,633||971,939||FTH 17,628||?||{{RewardIconWithText|Angel Cell, +2k}}<br>{{RewardIconWithText|Demon Cell, +2k}}
+|-
+|Source of Filth||92,794||69,009||1,062,693||FTH 18,074||?||{{RewardIconWithText|Tainted B-Tad, +50k}}<br>{{RewardIconWithText|Offering Speedup, +18h}}<br>{{RewardIconWithText|Demon Cell, +5k}}<br>{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|}
+
+|-| 2,500=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Commercial Iron Cavalry||100,826||70,107||1,125,363||TECH 19,613||?||{{RewardIconWithLink|Tool Chest, +50}}
+|-
+|Commercial Iron Cavalry||105,847||73,305||1,171,758||TECH 19,738||?||{{RewardIconWithLink|Tool Chest, +50}}
+|-
+|White Magic Knight||112,039||80,863||1,282,610||TECH 20,025||?||{{RewardIconWithLink|Tool Chest, +100}}<br>{{RewardIconWithText|Mecha Cell, +5k}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWithLink|Glue, +100|orange}}<br>{{RewardIconWithText|Refine Speedup, +18h}}
+|-
+|Commercial Iron Cavalry||111,854||77,248||1,229,273||TECH 19,902||?||{{RewardIconWithLink|Tool Chest, +50}}
+|-
+|Lieutenant-general John||113,622||82,561||1,307,731||TECH 20,147||?||{{RewardIconWithText|Mecha Cell, +8k}}<br>{{RewardIconWithText|Gene Speedup, +1d}}
+|-
+|Crimson Meteor||118,447||85,602||1,459,303||TECH 20,426||?||{{RewardIconWithLink|Glue, +200|orange}}<br>{{RewardIconWithText|Orange Reagent, +50|orange}}<br>{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|}
+
+|-|2,850=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Rhadamanthus||119,814||89,792||1,213,826||AFFCT 105,727||?||{{RewardIconWithText|B-Tad, +20k}}<br>{{RewardIconWithLink|Gear Chest, +50}}
+|-
+|Minos||124,720||93,080||1,255,267||AFFCT 107,845||?||{{RewardIconWithText|B-Tad, +20k}}<br>{{RewardIconWithLink|Gear Chest, +50}}
+|-
+|Aeacus||123,749||97,242||1,318,162||AFFCT 107,230||?||{{RewardIconWithText|B-Tad, +20k}}<br>{{RewardIconWithLink|Gear Chest, +50}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithLink|Lottery Ticket, +2|orange}}<br>{{RewardIconWithText|Zombie Manual, +20}}<br>{{RewardIconWithText|B-Tad, +20k}}
+|-
+|Twin Gods||126,519||100,470||1,368,870||AFFCT 108,460||?||{{RewardIconWithLink|Soul Chest, +100}}<br>{{RewardIconWithLink|Expert Scroll, +40|purple}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWithLink|Wish Coin, +1|orange}}<br>{{RewardIconWithLink|Master Scroll, +20|orange}}
+|-
+|Hades||142,542||105,535||1,725,509||AFFCT 124,276||?||King Osiris's Soul<br>{{RewardIconWonderFungusWithText|Orange|FAME|orange}} +3<br>{{RewardIconWithLink|Master Scroll, +40|orange}}<br>{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|}
+
+|-|3,300=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Jumping insects||?||?||?||AFFCT ?||?
+|-
+|Spiny Snake||?||?||?||AFFCT ?||?
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||?
+|-
+|Lurker||?||?||?||AFFCT ?||?
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||?
+|-
+|Thunder Beast||?||?||?||AFFCT ?||?
+|-
+|Queen||?||?||?||AFFCT ?||?
+|}
+
+|-|4,400=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Wood||?||?||?||?||?||{{RewardIconWithText|Wood, +1.8k}}
+|-
+|Stone||168,052||76,032||2,323,261||126,210||?||{{RewardIconWithText|Stone, +1.8k}}
+|-
+|Alchemy Reagent||174,240||78,441||2,502,148||128,697||?||{{RewardIconWithText|Green Reagent, +200|green}}
+|-
+|Ancient Coin||178,448||80,245||2,601,786||129,964||?||{{RewardIconWithLink|Ancient Coin, +200}}
+|-
+|Golden Pickaxe||195,662||87,458||3,283,346||131,139||?||{{RewardIconWithLink|Gear RF, +5|orange}}<br>{{RewardIconWithLink|Golden Pickaxe, +3|orange}}<br>{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|}
+
+|-|4,906=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Assistant Pan||?||?||?||AFFCT ?||?
+|-
+|Grave Robber Wang||?||?||?||AFFCT ?||?
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||?
+|-
+|Grave Robber Wu||?||?||?||AFFCT ?||?
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||?
+|-
+|Naive Wu||?||?||?||AFFCT ?||?
+|-
+|Young Man Zhang||?||?||?||AFFCT ?||?
+|}
+
+|-|5,509=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Snird Sentry||198,992||142,967||2,114,390||AFFCT 151,020?||?||{{RewardIconWithText|Demon Cell, +1k}}<br>{{RewardIconWithText|Angel Cell, +1k}}
+|-
+|Snird Sentry||202,192||145,266||2,179,367||AFFCT 152,835?||?||{{RewardIconWithText|Demon Cell, +1k}}<br>{{RewardIconWithText|Angel Cell, +1k}}
+|-
+|Snird Archmage||215,272||154,663||2,632,011||AFFCT 159,385?||?||{{RewardIconWithLink|Evolution Chest, +100}}<br>{{RewardIconWithText|Offering Speedup, +4h}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|Gene Speedup, +4h}}<br>{{RewardIconWithText|B-Tad, +20k}}
+|-
+|Snird Sentry||208,952||150,123||2,274,302||AFFCT 156,540?||?||{{RewardIconWithText|Demon Cell, +1k}}<br>{{RewardIconWithText|Angel Cell, +1k}}
+|-
+|Snird Guardian||225,385||161,930||2,738,526||AFFCT 164,895?||?||{{RewardIconWithLink|Tool Chest, +100}}<br>{{RewardIconWithLink|Evolution Chest, +100}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|W-Tad, +500}}<br>{{RewardIconWithText|Clone Speedup, +4h}}
+|-
+|Snird Queen||237,663||169,667||3,394,275||AFFCT 172,005?||?||{{RewardIconWithLink|Evolution Chest, +100}}<br>{{RewardIconWithLink|Master Scroll, +40|orange}}<br>{{RewardIconWithLink|Crystal of Will|orange}}<br>{{RewardIcon|8h Soul Green}}{{Retext|Soul of Snird Queen (8h)|green}}
+|}
+
+|-|5,717=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Controls Engineer ||  ||  ||  ||  || 
+|-
+|Controls Engineer ||  ||  ||  ||  || 
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||???
+|-
+|Senior Engineer ||  ||  ||  ||  || 
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||???
+|-
+|Controls Engineer ||  ||  ||  ||  || 
+|-
+|Planetary Engine ||  ||  ||  ||  || 
+|}
+
+|-|6,470=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Parrot Lackey || 229,500 || 164,887 || 2,457,500 || AFFCT166,735? ||?||{{RewardIconWithText|B-Tad, +5k}}
+|-
+|Lil Sparrow || 238,585 || 171,414 || 2,771,038 || AFFCT 171,820? ||?||{{RewardIconWithLink|Ancient Coin, +50}}<br>{{RewardIconWithLink|Gear Chest, +50}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+|General Condor || 250,437 || 187,491 || 3,097,510 || AFFCT 183,575? ||?||{{RewardIconWithLink|Ancient Coin, +50}}<br>{{RewardIconWithLink|Tool Chest, +50}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWithText|B-Tad, +20k}}
+|-
+|Owl Brother || 270,808 || 199,538 || 3,705,120 || AFFCT 190,700? ||?||{{RewardIconWithLink|Master Scroll, +40|orange}}<br>{{RewardIconWithText|W-Tad, +999}}<br>{{RewardIcon|8h Soul Red}}{{Retext|Soul of Owl Brother (8h)|red}}<br>{{RewardIconWithLink|Owl Brother's Badge|green}}
+|}
+
+|-|7,013=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Ghost in a Tablet ||259,424 || 207,669 ||2,751,257 ||ART 36,991 ||?||{{RewardIconWithText|Zombie Cell, +1k}}<br>{{RewardIconWithText|Mecha Cell, +1k}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||???
+|-
+|Ghost in a Monitor ||269,434 || 215,006 ||2,892,532 ||ART 37,592 ||?||{{RewardIconWithText|Zombie Cell, +1k}}<br>{{RewardIconWithText|Mecha Cell, +1k}}
+|-
+|Ghost in a Calculator||279,356 || 222,277 ||3,279,497 ||ART 37,957 ||?||{{RewardIconWithText|Zombie Cell, +1k}}<br>{{RewardIconWithText|Mecha Cell, +1k}}
+|-
+|Ghost in a Smartwatch||288,393 || 229,065 ||3,678,538 ||ART 38,293 ||?||{{RewardIconWithText|Zombie Cell, +1k}}<br>{{RewardIconWithText|Mecha Cell, +1k}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||???
+|-
+|Ghost in VR Glasses||302,238 || 239,453 ||4,165,202 ||ART 38,798 ||?||{{RewardIconWithText|Zombie Cell, +3k}}<br>{{RewardIconWithText|Mecha Cell, +3k}}<br>{{RewardIconWithLink|Incense, +5|orange}}
+|}
+
+|-|7,509=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Cyclops Centurion||268,924||193,210||2,974,749||182,975?||?||{{RewardIconWithLink|Fire Slug's Eye|blue}}<br>{{RewardIconWithLink|Evolution Chest, +20}}
+|-
+|Cyclops Centurion||286,704||205,985||3,296,686||192,430?||?||{{RewardIconWithLink|Fire Slug's Eye|blue}}<br>{{RewardIconWithLink|Evolution Chest, +20}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithLink|Evolution Chest, +100}}<br>{{RewardIconWithText|B-Tad, +20k}}
+|-
+|Cyclops General Staff||304,045||218,443||3,931,194||194,730?||?||{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithLink|Gear Chest, +100}}
+|-
+|Cyclops Governor||327,546||251,950||4,264,959||197,990?||?||{{RewardIconWithLink|Evolution Chest, +100}}<br>{{RewardIconWithLink|Savant Eye|orange}}<br>{{RewardIconWithGearlink|orange|Material|Demon God Crystal}}<br>{{RewardIcon|8h Soul Yellow}}{{Retext|Soul of Cyclops Governor (8h)|yellow}}
+|}
+
+|-|8,125=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Gordonla Soldier||?||?||?||AFFCT ?||?
+|-
+|Gordonla Soldier||?||?||?||AFFCT ?||?
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||?
+|-
+|Gordonla Mage||?||?||?||AFFCT ?||?
+|-
+|Gordonla Soldier||?||?||?||AFFCT ?||?
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||?
+|-
+|Gordonla Soldier||?||?||?||AFFCT ?||?
+|-
+|Temporal Majin Etalga||?||?||?||AFFCT ?||?
+|}
+
+|-|9,124=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Morphed Gnome||349,282||274,069||3,634,990||AFFCT 204795||?||{{RewardIconWithLink|Expert Scroll, +10|purple}}<br>{{RewardIconWithLink|Surf Clam Chest, +100}}
+|-
+|Morphed Gnome||353,214||277,132||3,700,391||AFFCT 205,655||?||{{RewardIconWithLink|Expert Scroll, +10|purple}}<br>{{RewardIconWithLink|Surf Clam Chest, +100}}
+|-
+|Morphed Chimera||363,387||284,232||4,225,539||AFFCT 207,635||?||{{RewardIconWithLink|Expert Scroll, +10|purple}}<br>{{RewardIconWithLink|Surf Clam Chest, +100}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|Morphed Deminder||361,870||283,100||3,852,075||AFFCT 207,370||?||{{RewardIconWithLink|Expert Scroll, +10|purple}}<br>{{RewardIconWithLink|Surf Clam Chest, +100}}
+|-
+|Morphed Deminder||366,425||286,498||3,936,631||AFFCT 208,170||?||{{RewardIconWithLink|Expert Scroll, +10|purple}}<br>{{RewardIconWithLink|Surf Clam Chest, +100}}
+|-
+|Morphed Chimera||371,345||290,016||4,722,637||AFFCT 208,985||?||{{RewardIconWithLink|Expert Scroll, +10|purple}}<br>{{RewardIconWithLink|Surf Clam Chest, +100}}
+|-
+|Morphed Cerberus||387,443||301,397||5,370,958||AFFCT 211,645||?||{{RewardIconWithLink|Master Scroll, +40|orange}}<br>{{RewardIconWithLink|Grandmaster Scroll, +40|orange}}<br>{{RewardIconWithLink|Surf Clam Chest, +600}}
+|}
+
+|-|9,690=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Hunter||384,020||298,997||4,192,747||CIV 43,036||?||{{RewardIconWithText|Travel Speedup, +4h}}<br>{{RewardIconWithLink|Time Chest, +100}}
+|-
+|Hunter||389,354||302,736||4,269,302||CIV 43,213||?||{{RewardIconWithText|Travel Speedup, +4h}}<br>{{RewardIconWithLink|Time Chest, +100}}
+|-
+|Werewolf||399,938||310,129||4,815,056||CIV 34,563||?||{{RewardIconWithText|Mutant Cell, +1k}}<br>{{RewardIconWithText|Demon Cell, +1k}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithLink|Master Scroll, +40|orange}}
+|-
+|Wolf Grandmother||413,869||319,754||5,451,095||CIV 45,015||?||{{RewardIconWithText|Mutant Cell, +1k}}<br>{{RewardIconWithText|Demon Cell, +1k}}<br>{{RewardIconWithLink|Organ Chest, +200}}
+|-
+|Little Red Riding Hood||422,580||326,179||6,031,539||CIV 45,315||?||{{RewardIconWonderFungusWithText|Orange, +3|CIV|orange}}<br>{{RewardIconWithLink|Surf Clam Chest, +100}}<br>{{RewardIconWithLink|CIV Master Scroll, +40|orange}}<br>{{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|}
+
+|-|10,365=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Earthworm Infantry||434,966||335,183||4,961,785||TECH 44227||?||{{RewardIconWithLink|Earthworm Chest, +100}}
+|-
+|Earthworm Infantry||448,998||344,888||5,174,780||TECH 44663||?||{{RewardIconWithLink|Earthworm Chest, +100}}
+|-
+|E. Grenadier Brigade||461,381||353,359||5,837,712||TECH 44958||?||{{RewardIconWithLink|Earthworm Chest, +200}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||???
+|-
+|Earthworm Infantry||???||???||???||TECH ???||?||{{RewardIconWithLink|Earthworm Chest, ???}}
+|-
+|Earthworm Guard||474,165||361,841||6,565,821||TECH 45,105||?||{{RewardIconWithLink|Earthworm Chest, +200}}
+|-
+|Earthworm Prince||500,953||383,244||8,437,907||TECH 45,355||?||{{RewardIconWithLink|Earthworm Chest, +600}}<br>{{RewardIconWithLink|Organ Chest, +600}}
+|}
+
+|-|11,888=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Golden Tree||464,696||301,084||9,688,188||AFFCT 260,615||HIT +90<br>Paralysis RES +90%||{{RewardIconWithText|Ancient Wood, +2|orange}}<br>{{RewardIconWithLink|Wish Coin|orange}}
+|-
+|Multi-limbed Person||470,975||304,933||9,812,051||AFFCT 252,115||HIT +90<br>Paralysis RES +90%||{{RewardIconWithLink|Organ Chest, +100}}<br>{{RewardIconWithLink|Wish Coin|orange}}
+|-
+|Nightmare||477,252||308,782||9,935,914||AFFCT 253,615||HIT +90<br>Paralysis RES +90%||{{RewardIconWithLink|Divine Chaos Chest, +100}}<br>{{RewardIconWithLink|Wish Coin|orange}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithLink|FTH Master Scroll, +40|orange}}
+|-
+|Valkyrie||503,937||333,685||11,856,860||AFFCT 271,115||HIT +90<br>Paralysis +90%||{{RewardIconWithLink|Divine Order Chest, +100}}<br>{{RewardIconWithLink|Wish Coin|orange}}
+|-
+|Lord of Stars||491,496||325,853||11,578,585||AFFCT 268,115||HIT +90<br>Paralysis +90%||{{RewardIconWithLink|Divine Neutral Chest, +100}}<br>{{RewardIconWithLink|Wish Coin|orange}}
+|-
+|Iris||526,306||345,441||12,981,717||AFFCT 275,615||HIT +90<br>Paralysis +90%||{{RewardIconWithLink|Demon Chest, +300|orange}}<br>{{RewardIconWithLink|Wish Coin, +5|orange}}<br>{{RewardIconWithLink|Dark Iris Statue|green}}
+|}
+
+|-|12,888=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Clone of Smith||536,757||301,501||12,858,007||AFFCT 273,740||HIT +90<br>Paralysis RES +90%||{{RewardIconWithText|Gene Speedup, +4h}}<br>{{RewardIconWithLink|AR2-T1|green}}
+|-
+|Clone of Smith||540,151||303,213||12,971,583||AFFCT 275,990||HIT +90<br>Paralysis RES +90%||{{RewardIconWithText|Gene Speedup, +4h}}<br>{{RewardIconWithLink|AR2-T1|green}}
+|-
+|Clone of Smith||543,550||304,925||13,085,893||AFFCT 278,990?||HIT +90<br>Paralysis RES +90%||{{RewardIconWithText|Gene Speedup, +6h}}<br>{{RewardIconWithLink|AR2-T1|green}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithLink|FTH Master Scroll, +40|orange}}
+|-
+|Clone of Smith||548,451||307,393||13,251,831||AFFCT 277,490||HIT +90<br>Paralysis RES +90%||{{RewardIconWithText|Gene Speedup, +6h}}<br>{{RewardIconWithLink|AR2-T1|green}}
+|-
+|Smiths||550,142||308,244||14,541,938||AFFCT 280,490||HIT +90<br>Paralysis RES +90%||{{RewardIconWithText|Gene Speedup, +8h}}<br>{{RewardIconWithLink|AR2-T1|green}}
+|-
+|Architect||552,680||309,521||15,875,872||AFFCT 284,990||HIT +90<br>Paralysis RES +90%||{{RewardIconWithText|Gene Speedup, +1d}}<br>{{RewardIconWithLink|AR2-T4|orange}}<br>{{RewardIconWithLink|Crystal of Will|orange}}
+|}
+
+|-|13,675=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Thunderclamp||612,720||439,858||9,453,802||AFFCT 257,620||?||{{RewardIconWithLink|Organ Chest, +100}}<br>{{RewardIconWithText|Gene Speedup, +4h}}
+|-
+|Pyroscroll||620,153||444,423||10,379,449||AFFCT 258,050||?||{{RewardIconWithLink|Organ Chest, +100}}<br>{{RewardIconWithText|Gene Speedup, +4h}}
+|-
+|Magnedge||631,620||451,277||10,629,875||AFFCT 258,700||?||{{RewardIconWithText|Purple Super Species Seq., +1|purple}}<br>{{RewardIconWithText|Gene Speedup, +6h}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||???
+|-
+|Wyrmhead||639,310||455,849||11,609,098||AFFCT 259,130||?||{{RewardIconWithLink|Organ Chest, +100}}<br>{{RewardIconWithText|Gene Speedup, +6h}}
+|-
+|Toxdrill||646,430||460,429||12,606,458||AFFCT 259,565||?||{{RewardIconWithLink|Organ Chest, +100}}<br>{{RewardIconWithText|Gene Speedup, +6h}}
+|-
+|Barboxin||653,573||465,012||13,629,644||AFFCT 259,995||?||{{RewardIconWithLink|Organ Chest, +300}}<br>{{RewardIconWithText|Gene Speedup, +1d}}<br>{{RewardIconWithText|Orange Super Species Seq., +1|orange}}
+|}
+
+|-|17,696=
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Reward
+|-
+|Aphinites||740,301||407,757||38,067,418||AFFCT 319,215||HIT +90<br>Paralysis RES +90%||{{RewardIconWithText|Angel Cell, +3k}}<br>{{RewardIconWithText|Clone Speedup, +4h}}
+|-
+|Aphinites||752,044||412,984||39,125,646||AFFCT 321,465||HIT +90<br>Paralysis RES +90%||{{RewardIconWithText|Angel Cell, +3k}}<br>{{RewardIconWithText|Clone Speedup, +4h}}
+|-
+|Raguel||765,238||419,952||39,785,847||AFFCT 322,605||HIT +90<br>Paralysis RES +90%||{{RewardIconWithText|Angel Cell, +3k}}<br>{{RewardIconWithText|Clone Speedup, +6h}}
+|-
+|'''Chest Reward'''||colspan="5" style="text-align:center;" | ||{{RewardIconWithText|Angel Manual, +20|blue}}
+|-
+|Aphinites||758,642||416,468||39,455,746||AFFCT 322,965||HIT +90<br>Paralysis RES +90%||{{RewardIconWithText|Angel Cell, +3k}}<br>{{RewardIconWithText|Clone Speedup, +6h}}
+|-
+|Aphinites||777,063||425,183||40,866,299||AFFCT 323,695||HIT +90<br>Paralysis RES +90%||{{RewardIconWithText|Angel Cell, +3k}}<br>{{RewardIconWithText|Clone Speedup, +8h}}
+|-
+|Witch||832,822||451,324||45,695,493||AFFCT 325,900||HIT +90<br>Paralysis RES +90%||{{RewardIconWithText|Demon Cell, +6k}}<br>{{RewardIconWithText|Clone Speedup, +1d}}<br>{{RewardIconWithLink|Crystal of Will|orange}}
+|}
+</tabber>
+
+[[Category:Fissure]]

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=339
+|relics=Hunter's Suitcase,1900's Vinyl Record
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Demon Minions in battle: Troop RUSH +5
+}}

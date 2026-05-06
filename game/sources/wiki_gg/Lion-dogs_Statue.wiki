@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Lion-dogs Statue
+|class_id=22154
+|rank=AA
+|affct=FAITH
+|birthday=12-20
+|source=
+|description=On Dec 20, 665 AD, a Japanese missionary brought a pair of stone lions from Tang to Japan.<br>Lion-dog, or Komainu, is a mythical creature with the head of a lion and the body of a dog. It is often placed in pairs at the entrances of temples and shrines. During the Tang dynasty, stone lion statues were introduced to Japan, and the Japanese people mistook them for dogs. Around the same time, a great monk traveled east to spread Buddhism, which led the Japanese people to associate the stone lion with Buddhism.
+|fame=41
+|art=48
+|fth=66
+|civ=31
+|tech=42
+|ss1=Per 30 Minions in battle:<br>> Troop HARD Stats +4<br>Minion Sim Chests drop 2x Sim Tokens by +1%
+|ss2=Per 30 Minions in battle:<br>> Troop HARD Stats +6<br>Minion Sim Chests drop 2x Sim Tokens by +1.5%
+|ss3=Per 30 Minions in battle:<br>> Troop HARD Stats +8<br>Minion Sim Chests drop 2x Sim Tokens by +2%
+|ss4=Per 30 Minions in battle:<br>> Troop HARD Stats +12<br>Minion Sim Chests drop 2x Sim Tokens by +3%
+|ss5=Per 30 Minions in battle:<br>> Troop HARD Stats +16<br>Minion Sim Chests drop 2x Sim Tokens by +4%
+|ss7=Per 30 Minions in battle:<br>> Troop HARD Stats +16<br>Minion Sim Chests drop 2x Sim Tokens by +4%<br>Per 30 Minions in battle:<br>> Troop HARD Stats +14 (Awakened)
+|skill1=[[File:Yamato skill II.png|50px]]Place in Yamato Museum: In Yamato, 2x Purple Card Drops +7.5%
+|skill2=[[File:Yamato skill II.png|50px]]Place in Yamato Museum: In Yamato, 2x Orange Card Drops +7.5%
+}}

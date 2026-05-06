@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Treasure Island,Wild Pansy's Juice
+|rank=purple
+|amount=2
+|category=home
+|description=Gaia Cabin Output +6%
+}}
+[[Category:Home]]
+[[Category:Gaia Cabin Output Boost]]

@@ -1,0 +1,18 @@
+{{Missing Info}}
+
+= Snowy Day =
+[[File:Snowy Day Poster.png|200px|left|alt=Snowy Day]]
+Dec. 22 2023 - Jan. 05 2024
+
+'''Official News Announcement:''' https://snail-na.qcplay.com/official/news-details.html?id=45
+{{Clear}}
+
+= Relic Rewards =
+* {{RewardIconWithLink|1st Winter Olympics Badge|orange}}
+* {{RewardIconWithLink|Resort Postcard|green}}
+* {{RewardIconWithLink|Snow House Model|green}}
+
+= Home Decoration Rewards =
+* {{RewardIconWithLink|Brave Merman|black|Home Decoration}} (Home Decoration)
+
+[[Category:Events]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Violet-Gold Fox Marten
+|class_id=20439
+|rank=Green
+|affct=FAME
+|source=
+|description=This most beloved pet of Virupaksa. It can store electricity in its cheek and manipulate it freely. Moreover, the creature is also very agile, adept at biting, high-voltage strike, Five Lightnings, and other abilities. Trained by Virupaksa, it was once formidable. Up to the moment it is defeated, it kept touting itself as a guaranteed genuine Violet-Gold Fox Marten...
+|fame=30
+|art=17
+|fth=13
+|civ=16
+|tech=14
+|ss1=Free Gene Speedup (Mutant) +6m
+|ss2=Free Gene Speedup (Mutant) +12m
+|ss3=Free Gene Speedup (Mutant) +18m
+|ss4=Free Gene Speedup (Mutant) +18m
+|ss7=Free Gene Speedup (Mutant) +18m<br> (Awakened)
+}}

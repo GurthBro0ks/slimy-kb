@@ -1,0 +1,35 @@
+== Douglas' Tooth ==
+This pair of shiny teeth was restored with biological weapon technologies. They resemble Douglas' Tooth and has outstanding performances.
+
+{{Organ Tabber
+|Name=Douglas' Tooth
+|Rarity=red
+|ID Number=79
+|Initial HP=110
+|HP Increase=30
+|Initial ATK=15
+|ATK Increase=3
+|Initial DEF=15
+|DEF Increase=3
+|Initial RUSH=11
+|RUSH Increase=3
+|Effect 1=Snail FAME +###
+|Initial Effect Value 1=5
+|Effect Value Increase 1=5
+|Effect 2=All ELMT DMG +###
+|Initial Effect Value 2=1
+|Effect Value Increase 2=1
+|Effect 3=All ELMT RES +###
+|Initial Effect Value 3=1
+|Effect Value Increase 3=1
+|Effect 4=Currency gained from Hamster Incidents +###%
+|Initial Effect Value 4=0.1
+|Effect Value Increase 4=0.1
+|}}
+
+==Source==
+After using 10 {{RewardIconWithText|Hamsters Gene Essence}}s, you can recycle further ones for this organ.
+
+[[Category:Organs]]
+[[Category:Red Organs]]
+[[Category:Hamster]]

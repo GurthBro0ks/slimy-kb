@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Throne of St. Peter,Bacio di Giuda,Civil War Premonition,Mysterious Relic,The Magic Flute
+|rank=orange
+|amount=5
+|category=minion
+|description=Dragon Minion HARD Stats +3%
+}}
+[[Category:Minion]]
+[[Category:Dragon Minion HARD Boost]]

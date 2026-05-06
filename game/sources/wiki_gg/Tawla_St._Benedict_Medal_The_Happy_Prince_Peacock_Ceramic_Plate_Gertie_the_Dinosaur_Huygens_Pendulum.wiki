@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Tawla,St. Benedict Medal,The Happy Prince,Peacock Ceramic Plate,Gertie the Dinosaur,Huygens' Pendulum
+|rank=blue
+|amount=6
+|category=self
+|description=Per 4 FAME Relics gained, Snail RUSH +18; FAME Relics: 120/120
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by FAME Relics]]

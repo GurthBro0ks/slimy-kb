@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Nazca Lines
+|class_id=22783
+|rank=SSS
+|affct=FAME
+|source=Lottery Machine No.3 (0.12%)
+|description=The photo shows images of the Nazca geoglyphs, a group of large ground drawings located near the town of Nazca, believed by experts to have been created by the Nazca people around 500 BCE. People drew simple lines on the desert ground, forming complex arrangements of spirals, hummingbirds, monkeys, spiders, and other geometric shapes and images of animals and plants. The precision, size, and complexity of these geoglyphs astonish later generations, serving as a testament to the creativity of ancient civilizations.
+|fame=108
+|art=64
+|fth=47
+|civ=72
+|tech=71
+|ss1=Snail Leadership +3<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 3 Protodex Entries, Snail HP +90<br>Protodex Entries: 60/60
+|ss2=Snail Leadership +4<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 3 Protodex Entries, Snail HP +120<br>Protodex Entries: 60/60
+|ss3=Snail Leadership +5<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 3 Protodex Entries, Snail HP +150<br>Protodex Entries: 60/60
+|ss4=Snail Leadership +7<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 3 Protodex Entries, Snail HP +210<br>Protodex Entries: 60/60
+|ss5=Snail Leadership +9<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 3 Protodex Entries, Snail HP +270<br>Protodex Entries: 60/60
+|ss6=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 3 Protodex Entries, Snail HP +360<br>Protodex Entries: 60/60
+|ss7=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 3 Protodex Entries, Snail HP +360<br>Protodex Entries: 60/60<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +3%
+|mirage={{Mirage|name=Mysterious Mural|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Spider|3rec=367.94M|3atk=870713|3defense=493586|3hp=211024915|3weak=67197
+|4name=Monkey|4rec=465.55M|4atk=1032505|4defense=581401|4hp=343954638|4weak=73102
+|5name=Lizard|5rec=606.33M|5atk=1324467|5defense=708054|5hp=577513705|5weak=80705
+|6name=Hummingbird|6rec=821.19M|6atk=1939657|6defense=930236|6hp=964077262|6weak=90986
+|Arec=1169.79M|Aatk=2961053|Adefense=1279425|Ahp=1792168334|Aweak=102426
+}}}}

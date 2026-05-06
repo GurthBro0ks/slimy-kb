@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Resurrection
+|class_id=22666
+|rank=SSS
+|affct=ART
+|birthday=04-28
+|source=
+|description=On April 28, 1944, Allied artillery adjusted bombing coordinates to spare the fresco.<br>This revolutionary fresco combines linear perspective with divine drama: Christ, vertically rising from a sarcophagus, forms a geometric cross with the horizontal Roman soldiers.
+|fame=47
+|art=107
+|fth=69
+|civ=76
+|tech=63
+|ss1=Snail Leadership +3<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 2,000 Forest Sanctum Rating Pts, Snail ATK +3<br>Forest Sanctum Rating Pts: 100000/100000
+|ss2=Snail Leadership +4<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 2,000 Forest Sanctum Rating Pts, Snail ATK +4<br>Forest Sanctum Rating Pts: 100000/100000
+|ss3=Snail Leadership +5<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 2,000 Forest Sanctum Rating Pts, Snail ATK +5<br>Forest Sanctum Rating Pts: 100000/100000
+|ss4=Snail Leadership +7<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 2,000 Forest Sanctum Rating Pts, Snail ATK +7<br>Forest Sanctum Rating Pts: 100000/100000
+|ss5=Snail Leadership +9<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 2,000 Forest Sanctum Rating Pts, Snail ATK +9<br>Forest Sanctum Rating Pts: 100000/100000
+|ss6=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 2,000 Forest Sanctum Rating Pts, Snail ATK +12<br>Forest Sanctum Rating Pts: 100000/100000
+|ss7=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 2,000 Forest Sanctum Rating Pts, Snail ATK +12<br>Forest Sanctum Rating Pts: 100000/100000<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion DEF +9%
+|skill2=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion ATK +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's ART +15
+|mirage={{Mirage|name=Resurrection Day|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Sleeping Soldier A|3rec=105.41M|3atk=326776|3defense=192198|3hp=28914596|3weak=40856
+|4name=Sleeping Soldier B|4rec=120.24M|4atk=359033|4defense=213071|4hp=37695112|4weak=44395
+|5name=Sleeping Soldier C|5rec=139.46M|5atk=401196|5defense=240101|5hp=52316982|5weak=48355
+|6name=The Risen Christ|6rec=165.82M|6atk=460013|6defense=277188|6hp=77999773|6weak=52899
+|Arec=202.93M|Aatk=538577|Adefense=329399|Ahp=116330670|Aweak=57999
+}}}}

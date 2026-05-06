@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=633
+|relics=Pearl in the Palm,Celestial Globe,Lu Ban Lock
+|rank=blue
+|amount=3
+|category=self
+|description=Per 3 Tribal Buildings maxed, Snail RUSH +12;Tribal Buildings Maxed: 60/60
+}}

@@ -1,0 +1,192 @@
+==Dance Contests==
+Obtaining the [[Hellas INTEL#Godess' Guide INTEL|Dancing Gala]] INTEL will upgrade each of the Arenas available for [[Shining Athena]] to compete in, one at a time. Each Arena corresponds to a certain of the four outfit types and will feature a number of enemies for Athena to compete against. 
+
+{|class="wikitable"
+!Conditions!!Arena unlocked!!Outfit Type
+|-
+|Dancing Gala Lv.1||Taurus Arena||Posh
+|-
+|Dancing Gala Lv.2||Cancer Arena||Moody
+|-
+|Dancing Gala Lv.3||Virgo Arena||Cute
+|-
+|Dancing Gala Lv.4||Scorpio Arena||Wicked
+|-
+|Perfect Scorpio Arena||Pope Goat Arena - Pisces||All
+|}
+
+Each Arena has 5 normal opponents to defeat and one boss opponent. Each of Athena's outfit pieces will be compared to that of her enemy, and the one with the highest relevant stat will win that round. At least 5 rounds must be won by Athena for the enemy to be defeated. 5 rounds defeated correspond to 1 star, 6 or 7 rounds correspond to 2 stars, and all 8 rounds correspond to 3 stars, or perfect. Once perfectly defeated, the enemy no longer has to be fought on subsequent runs.
+
+Once all enemies are defeated, a boss will appear and must be perfectly defeated for the Arena to be complete. There are, therefore, 18 possible stars to be won from each arena and as you win more stars, you can gain more rewards (corresponding to the arena).
+{|class="wikitable"
+!Stars!!Reward
+|-
+|2||Lottery Ticket +2
+|-
+|4||Leather/Crystal/Feather/Thread +1,000
+|-
+|6||Lottery Ticket +3
+|-
+|8||Glory of Victory (For all costumes, Posh/Moody/Cute/Wicked +10%
+|-
+|10||Leather/Crystal/Feather/Thread +2,000
+|-
+|12||Lottery Ticket +4
+|-
+|14||Leather/Crystal/Feather/Thread +3,000
+|-
+|16||Lottery Ticket +5
+|-
+|18||Glory of Victory (For all costumes, Posh/Moody/Cute/Wicked +18%
+|}
+
+===Taurus Arena - Posh===
+{|class="wikitable"
+!rowspan="2"|Opponent
+!rowspan="2"|Req.<br><nowiki>#</nowiki> items
+!colspan="8"|Stats
+!colspan="2"|Rewards
+!rowspan="2"|Gender
+!rowspan="2"|Age
+!rowspan="2"|Power
+!rowspan="2"|Quote
+|-
+!Top!!Bottom!!Shoes!!Bag!!Necklace!!Hand!!Socks!!Headwear!!1st Victory!!Perfect Victory
+|-
+|Helen||3||10||20||20||10||20||20||20||20||Crystal +500||Star-Dust||Female||18||New Dancer||All living beings in Hellas<br>will fall for me!
+|-
+|Danae||4||110||90||120||230||350||180||100||120||Crystal +600||Star-Dust +2||Female||16||Formal Dancer||My splendid gown!<br>My stunning face!
+|-
+|Europa||5||340||320||350||470||600||420||330||350||Crystal +700||Star-Dust +6||Female||22||Dance Talent||I gave birth to Europe with my<br>stunning beauty!
+|-
+|Cassandra||6||590||570||600||750||900||700||580||600||Crystal +800||Star-Dust +10||Female||36||Pro Dancer||You dare to challenge my beauty?<br>You will fail!
+|-
+|Clymene||7||890||870||900||1,200||1,300||1,150||880||900||Crystal +900||Star-Dust +12||Female||46||Dance Master||How would a girl like you<br>understand beauty?
+|- style="background-color:var(--red-bg)"
+|Hera||8||1,190||1,170||1,200||1,300||1,400||1,250||1,180||1,200||Crystal +1,000||Star-Dust +15||Female||65||Dance King||His Majesty favors me.<br>Nobody dares defy me!
+|}
+
+===Cancer Arena - Moody===
+{|class="wikitable"
+!rowspan="2"|Opponent
+!rowspan="2"|Req.<br><nowiki>#</nowiki> items
+!colspan="8"|Stats
+!colspan="2"|Rewards
+!rowspan="2"|Gender
+!rowspan="2"|Age
+!rowspan="2"|Power
+!rowspan="2"|Quote
+|-
+!Top!!Bottom!!Shoes!!Bag!!Necklace!!Hand!!Socks!!Headwear!!1st Victory!!Perfect Victory
+|-
+|Alcmene||3||30||40||50||30||50||30||40||50||Leather +500||Star-Dust||Female||18||New Dancer||My name is Alcmene,<br>I'm a detective!
+|-
+|Hebe||4||140||160||400||280||230||130||140||160||Leather +600||Star-Dust +2||Female||16||Formal Dancer||I'm not interested in average<br>guys! I want the best!
+|-
+|Syrinx||5||380||400||660||530||480||370||380||400||Leather +700||Star-Dust +6||Female||14||Dance Talent||Don't you understand?<br>I'm the chosen one!
+|-
+|Andromeda||6||640||660||960||810||760||630||640||660||Leather +800||Star-Dust +10||Male||24||Pro Dancer||Law has no boundaries,<br>humans decide them!
+|-
+|Calypso||7||940||960||1,360||1,260||1,210||930||940||960||Leather +900||Star-Dust +12||Female||15||Dance Master||Let me blast you to pieces<br>with my cannon!
+|- style="background-color:var(--red-bg)"
+|Artemis||8||1,240||1,260||1,460||1,360||1,310||1,230||1,240||1,260||Leather +1,000||Star-Dust +15||Female||14||Dance King||Limits do not exist,<br>limits are nonsense!
+|}
+
+===Virgo Arena - Cute===
+{|class="wikitable"
+!rowspan="2"|Opponent
+!rowspan="2"|Req.<br><nowiki>#</nowiki> items
+!colspan="8"|Stats
+!colspan="2"|Rewards
+!rowspan="2"|Gender
+!rowspan="2"|Age
+!rowspan="2"|Power
+!rowspan="2"|Quote
+|-
+!Top!!Bottom!!Shoes!!Bag!!Necklace!!Hand!!Socks!!Headwear!!1st Victory!!Perfect Victory
+|-
+|Xanthippe||3||50||80||60||80||70||50||60||80||Feather +500||Star-Dust||Female||15||New Dancer||Big sis, can you tell me<br>where I am?
+|-
+|Penelope||4||320||200||150||170||190||200||450||270||Feather +600||Star-Dust +2||Female||9||Formal Dancer||My make-up isn't done yet!<br>Why did the match begin?
+|-
+|Daphne||5||590||450||400||420||440||450||730||540||Feather +700||Star-Dust +6||Female||5||Dance Talent||In the name of Osmanthus,<br>I will defeat you!
+|-
+|Diomedes||6||880||730||680||700||720||730||1,030||830||Feather +800||Star-Dust +10||Male||46||Pro Dancer||Perfect face is the perfect<br>word to describe me.
+|-
+|Andromache||7||1,330||1,030||980||1,000||1,020||1,030||1,430||1,280||Feather +900||Star-Dust +12||Female||17||Dance Master||Put up your hands<br>and cheer for me!
+|- style="background-color:var(--red-bg)"
+|Selene||8||1,430||1,330||1,280||1,300||1,320||1,330||1,530||1,380||Feather +1,000||Star-Dust +15||Female||26||Dance King||In this world of mine, cuteness<br>is all that matters!
+|}
+
+===Scorpio Arena - Wicked===
+{|class="wikitable"
+!rowspan="2"|Opponent
+!rowspan="2"|Req.<br><nowiki>#</nowiki> items
+!colspan="8"|Stats
+!colspan="2"|Rewards
+!rowspan="2"|Gender
+!rowspan="2"|Age
+!rowspan="2"|Power
+!rowspan="2"|Quote
+|-
+!Top!!Bottom!!Shoes!!Bag!!Necklace!!Hand!!Socks!!Headwear!!1st Victory!!Perfect Victory
+|-
+|Medea||3||80||110||100||70||100||90||110||80||Thread +500||Star-Dust||Female||28||New Dancer||To love someone is to have<br>power over them!
+|-
+|Antigone||4||500||240||190||370||320||210||230||240||Thread +600||Star-Dust +2||Female||18||Formal Dancer||Love begins at first sight, but<br>persist with the heart.
+|-
+|Persephone||5||800||500||450||650||600||470||490||500||Thread +700||Star-Dust +6||Female||17||Dance Talent||You better give up. No one is<br>more beautiful than I am.
+|-
+|Eurynome||6||1,100||800||750||950||900||770||790||800||Thread +800||Star-Dust +10||Female||40||Pro Dancer||Beauty is a word that describes<br>me and me alone!
+|-
+|Briseis||7||1,500||1,100||1,050||1,400||1,350||1,070||1,090||1,100||Thread +900||Star-Dust +12||Female||16||Dance Master||I shall conquer all kings<br>with my beauty!
+|- style="background-color:var(--red-bg)"
+|Eris||8||1,600||1,400||1,350||1,500||1,450||1,370||1,390||1,400||Thread +1,000||Star-Dust +15||Female||32||Dance King||My beauty would outshine<br>even the most beautiful elf!
+|}
+
+===Pope Goat Arena===
+Once the Scorpio Arena (Wicked) is perfected, the Pope Goat Arena is unlocked.
+
+'''Note''' that the Apollo opponent cannot be defeated unless Athena is wearing a perfect Valkyrie costume.
+{|class="wikitable"
+!rowspan="2"|Opponent
+!rowspan="2"|Req.<br><nowiki>#</nowiki> items
+!colspan="8"|Stats
+!colspan="2"|Rewards
+!rowspan="2"|Gender
+!rowspan="2"|Age
+!rowspan="2"|Power
+!rowspan="2"|Quote
+|-
+!Top!!Bottom!!Shoes!!Bag!!Necklace!!Hand!!Socks!!Headwear!!1st Victory!!Perfect Victory
+|-
+|Aglaea||8 Cute||1,670||1,730||1,680||1,660||1,670||1,690||1,650||1,730||Ancient Coin +100||Star-Dust +55||Female||18||Dance King||My holiness will make<br>you ashamed!
+|-
+|Paris||8 Wicked||1,720||1,800||1,810||1,720||1,730||1,700||1,750||1,760||Ancient Coin +200||Star-Dust +55||Male||27||Dance King||I alone deserve the Golden<br>Apple, the symbol of beauty!
+|-
+|Lachesis||8 Moody||1,860||1,760||1,760||1,800||1,800||1,780||1,870||1,850||Ancient Coin +300||Star-Dust +60||??? [Actual]||32||Dance King||My everlasting beauty will<br>be remembered in history!
+|-
+|Apollo||8 Posh||2,090||2,130||2,060||2,070||2,050||2,040||2,090||2,160||Ancient Coin +500||Star-Dust +65||Male||No insight||Master Dancer||See the ultimate beauty!
+|}
+
+===Star Rewards===
+{| class="wikitable"
+!Number of Stars!!Rewards
+|-
+|2||Wish Coin, FAME Master Scroll +40
+|-
+|4||Wish Coin, FTH Master Scroll +40
+|-
+|6||Wish Coin, ART Master Scroll +40
+|-
+|8||Wish Coin, TECH Master Scroll +40
+|-
+|10||Wish Coin, CIV Master Scroll +40
+|-
+|12||{{Gearlink|orange|Material|Amulet of Will}}
+|}
+
+[[Category:Location]]
+[[Category:Realms]]
+[[Category:Hellas]]
+[[Category:Unique Element]]

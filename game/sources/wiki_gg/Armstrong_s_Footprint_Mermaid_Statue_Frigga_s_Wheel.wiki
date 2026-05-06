@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Armstrong's Footprint,Mermaid Statue,Frigga's Wheel
+|rank=purple
+|amount=3
+|category=self
+|description=Per 500 DNA Strength, Snail DEF +4<br>DNA Strength: 17,500/17,500
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by DNA Strength]]

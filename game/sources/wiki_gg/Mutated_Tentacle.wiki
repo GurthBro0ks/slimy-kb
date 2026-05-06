@@ -1,0 +1,35 @@
+== Mutated Tentacle ==
+This mollusk tentacle was found in the sea near Bihini Island. It was tested by a Geiger counter and its radiation index was 30 million times the normal air index!
+
+{{Organ Tabber
+|Name=Mutated Tentacle
+|Rarity=purple
+|ID Number=33
+|Initial HP=30
+|HP Increase=10
+|Initial ATK=7
+|ATK Increase=3
+|Initial DEF=3
+|DEF Increase=1
+|Initial RUSH=3
+|RUSH Increase=1
+|Effect 1=In Mutant Form, Snail ATK +###
+|Initial Effect Value 1=2
+|Effect Value Increase 1=2
+|Effect 2=In Mutant Form, Snail Rush +###
+|Initial Effect Value 2=2
+|Effect Value Increase 2=2
+|Effect 3=
+|Initial Effect Value 3=
+|Effect Value Increase 3=
+|Effect 4=
+|Initial Effect Value 4=
+|Effect Value Increase 4=
+|}}
+
+== Source ==
+Organ Chest (4% chance), Dominate Koryeo Apostle [[Koryeo_Apostles#Mutant_Hairsnake|Mutant Hairsnake]]
+
+[[Category:Organs]]
+[[Category:Purple Organs]]
+__NOTOC__

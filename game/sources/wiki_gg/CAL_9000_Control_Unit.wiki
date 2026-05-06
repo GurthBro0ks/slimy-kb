@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=423
+|relics=CAL 9000,Control Unit
+|rank=purple
+|amount=2
+|category=self
+|description=Demon God Cabin Output +6%
+}}

@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Head of Sargon
+|class_id=22243
+|rank=S
+|affct=ART
+|birthday=02-04
+|source=Lottery Machine No.2 (1.45%), Wishing (5.4%)
+|description=On Feb 4, 2307 BC, the Head of Sargon was made in ancient Akkad.<br>Head of Sargon was cast in honor of Sargon, the king of Akkad. The whole head, majestic and solemn, shows the king's fortitude, strength and confidence. The statue's eyes were originally embedded with gems which got lost later. The face carving is simple and realistic, the hair decoration is unique and powerful, and the casting is very delicate, which fully shows the superb copper casting technology in ancient times.
+|fame=48
+|art=96
+|fth=65
+|civ=64
+|tech=59
+|ss1=Snail ATK +10<br>Snail DEF +10<br>Snail RUSH +10
+|ss2=Snail ATK +20<br>Snail DEF +20<br>Snail RUSH +20
+|ss3=Snail ATK +30<br>Snail DEF +30<br>Snail RUSH +30
+|ss4=Snail ATK +50<br>Snail DEF +50<br>Snail RUSH +50
+|ss5=Snail ATK +70<br>Snail DEF +70<br>Snail RUSH +70
+|ss6=Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100
+|ss7=Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Demon Cells gained +15%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's ART +15
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, 2x Green Reagent Drops +15%
+|mirage={{Mirage|name=The Lost Eye|reward={{RewardIconWithLink|Mahakala's Offering, +1|orange}}
+|3name=Sargon's Right Eye|3rec=14.62M|3atk=99832|3defense=66602|3hp=2892219|3weak=17284
+|4name=Sargon's Left Eye|4rec=36.35M|4atk=142457|4defense=95039|4hp=5723836|4weak=19588
+|Arec=62.00M|Aatk=196559|Adefense=131132|Ahp=10149802|Aweak=24772
+}}}}

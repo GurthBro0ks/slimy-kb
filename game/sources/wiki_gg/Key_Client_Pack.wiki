@@ -1,0 +1,18 @@
+The {{RewardIconWithLink|Key Client Pack|orange}} is a reward from that is given by the [[Divine Dragon]]. The [[Divine Dragon]] will appear after multiple summons at the [[Altar]] with {{RewardIconWithLink|Dragon Orb|orange}}.
+
+After 5 summons the {{RewardIconWithLink|Key Client Pack|orange}} will reward:
+* {{RewardIconWithText|W-Tad, +1k}}
+* {{RewardIconWithText|B-Tad, +20k}}
+* {{RewardIconWithLink|Wish Coin, +2|orange}}
+
+After 10 summons the {{RewardIconWithLink|Key Client Pack|orange}} will be awarded with the {{RewardIconWithLink|Red Dragon Egg|orange}} and contain:
+* {{RewardIconWithText|W-Tad, +2k}}
+* {{RewardIconWithText|B-Tad, +50k}}
+* {{RewardIconWithLink|Wish Coin, +5|orange}}
+
+After 16 summons the player will receive {{RewardIconWithLink|Key Client Pack, +3|orange}}. Each one will contain:
+* {{RewardIconWithText|W-Tad, +1k}}
+* {{RewardIconWithText|B-Tad, +20k}}
+* {{RewardIconWithLink|Wish Coin, +2|orange}}
+
+[[Category:Reward Pack]]

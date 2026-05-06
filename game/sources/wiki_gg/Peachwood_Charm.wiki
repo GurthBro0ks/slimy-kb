@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Peachwood Charm
+|class_id=20569
+|rank=Green
+|affct=CIV
+|source=
+|description=In the tradition of Chinese New Year, during the transition from old to new, people will write blessings on peach wood boards and hang them at the doorstep. The two peach charms are respectively inscribed with Shentu and Yulei, to ensure that the new year is free from disasters and enjoy blessings.
+|fame=14
+|art=15
+|fth=14
+|civ=34
+|tech=13
+|ss1=Snail ATK +20<br>Per 5 Sign-Ins, Snail HP +100<br>Sign-Ins: 100/100
+|ss2=Snail ATK +40<br>Per 5 Sign-Ins, Snail HP +200<br>Sign-Ins: 100/100
+|ss3=Snail ATK +60<br>Per 5 Sign-Ins, Snail HP +300<br>Sign-Ins: 100/100
+|ss4=Snail ATK +60<br>Per 5 Sign-Ins, Snail HP +300<br>Sign-Ins: 100/100
+|ss7=Snail ATK +60<br>Per 5 Sign-Ins, Snail HP +300<br>Sign-Ins: 100/100<br> (Awakened)
+}}

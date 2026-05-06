@@ -1,0 +1,6 @@
+This page is intended to be a 1-stop shop for guides on this wiki for various aspects of the game.
+
+* [[Guide:Gear Progression]]
+* [[Guides/Leadership]]
+
+[[Category:Guides]]

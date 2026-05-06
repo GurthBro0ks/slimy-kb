@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Commander Yuan
+|rank=orange
+|cabin=2
+|id=118
+|gene1={race} ATK +50
+|gene2={race} TECH +50
+|gene3=Rebel Cabin Output +3%
+|gene4=Per 60 Mecha Minions in battle,
+Troop Fire DMG +6
+|gene5=Mecha Minion Skin ATK +30%
+|gene6=Per 60 Mecha Minions in battle,
+Troop Fire DMG +10
+|gene7=Mecha Minion Skin ATK +50%
+|}}

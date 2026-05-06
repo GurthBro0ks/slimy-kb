@@ -1,0 +1,1391 @@
+==The Mailbox==
+The Mailbox is where you will correspond with a variety of individuals throughout the course of the game:
+
+Every day a [[Hitmen|Hitman]] will arrive, sent by the Demon Gods to defeat you.
+<br>
+Every day an [[Fugitives|Agent]] will arrive, sent by the Bureau to inquire about a [[Fugitives|Fugitive]] on the run.
+<br>
+Sometimes [[Visitors]] will appear to peddle their wares, or ask for feedback on something...
+ [[Visitors#Archaeologist|Archaeologist]], [[Visitors#Clown Express|Clown Express]], [[Visitors#INTEL Dealer|INTEL Dealer]], [[Visitors#Insurance Agent|Insurance Agent]], [[Salesman]], [[Visitors#Peter Jr.|Peter Jr.]], and [[Visitors#Indigent Nobleman|Indigent Nobleman]]
+
+When finding [[Partners]], the mailbox is how you will build a friendship and get to know them.
+ [[Advisor Zhuge]], [[Big Guy Park]], [[Chichikaka]], [[Demon Chan-hee]], [[Ghost Zadako]], [[Jiro Toyato]], [[Kim Chi-yum]], [[Lee Gi-na]], [[Leeku]], [[Peter Jr.]] (also a [[Visitors|Visitor]]!), [[Prince Nerd's Soul]], [[Red Doe]], [[Sewer Turtle]], [[Sleuth Doom]], [[Taoist Yu Ji]]
+ 
+
+Other notables visitors and invaders include that can appear at [[Home Base]] include:
+ [[Rogue Survivor]], aka Hitman No.9, the [[Incense|Sewer Turtle]], [[Incense|Unicon]], [[Incense|Dracula]], and [[Incense|Grandpire]].
+
+Besides these, there's plenty of other possible encounters and fights you'll find during the game. Below are the storylines that appear throughout the game. All are listed alphabetically and are under the header of whoever you are mailing back and forth with (the exception to this are the Ishikawas, listed under "The Ishikawa Clan"). Be wary of spoilers! If you lose the fight, don't lose hope! They will reappear in the second tab, and stay there until you can win!
+
+==Amelia==
+'''Storyline Trigger:''' Offer [[Altar#Offerings and Divine Chests|10 Dragon Orbs]] and obtain the Red Dragon Egg.
+
+Defeating Amelia unlocks the ability to use the Red Dragon Egg. When used, [[Nursery#Minions|Slug Dragonling]] is added to your minions.
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Amelia
+|32,150
+|28,080
+|496,231
+|FTH 10,772
+|Soul of Amelia, {{Relink|Dragon Medal|green}}, Dragon Chest +200
+|}
+
+==Antivirus Manager==
+'''Storyline Trigger:''' Successfully Dominate [[Time_Rift_Apostles#Millennium_Bug|Millennium Bug]] in the [[Time Rift]]
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Blaster
+|??
+|??
+|??
+|HIT +80, Paralysis RES +80%
+|FTH ??
+|Unknown Records +3
+|-
+|Sobig F.
+|337,936
+|292,560
+|12,593,031
+|HIT +80, Paralysis RES +80%
+|FTH 44,060
+|Unknown Records +3
+|-
+|Sasser
+|359,283
+|308,200
+|14,316,618
+|HIT +80, Paralysis RES +80%
+|FTH 44,550
+|Unknown Records +3
+|-
+|EternalBlue
+|391,689
+|331,200
+|16,520,042
+|HIT +80, Paralysis RES +80%
+|FTH 39,294
+|Unknown Records +3
+|-
+|Code Red
+|427,509
+|356,040
+|19,727,718
+|HIT +80, Paralysis RES +80%
+|FTH 39,927
+|Unknown Records +3
+|}
+
+==Band Agent==
+'''Storyline Trigger:''' Successfully Dominate [[Time_Rift_Apostles#The_Peatles|The Peatles]] in the [[Time Rift]]
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Empress
+|258,316
+|218,960
+|7,587,929
+|HIT +80, Paralysis RES +80%
+|ART 37,210
+|Lottery Ticket +6
+|-
+|Farvana
+|272,426
+|230,920
+|8,434,739
+|HIT +80, Paralysis RES +80%
+|ART 38,840
+|Lottery Ticket +6
+|-
+|Rifles N' Flowers
+|287,621
+|243,800
+|9,390,330
+|HIT +80, Paralysis RES +80%
+|ART 40,530
+|Lottery Ticket +6
+|-
+|The Hawks
+|303,902
+|257,600
+|10,407,551
+|HIT +80, Paralysis RES +80%
+|ART 42,030
+|Lottery Ticket +8
+|-
+|The Rolling Rocks
+|322,972
+|271,400
+|11,478,097
+|HIT +80, Paralysis RES +80%
+|ART 43,320
+|Lottery Ticket +8
+|-
+|Zed Leppelin
+|345,634
+|285,200
+|12,664,066
+|HIT +80, Paralysis RES +80%
+|ART 43,810
+|Lottery Ticket +8
+|-
+|W2
+|368,772
+|299,920
+|13,919,573
+|HIT +80, Paralysis RES +80%
+|ART 44,300
+|Lottery Ticket +10
+|}
+
+==Billie==
+'''Storyline Trigger:''' [[Prince Nerd's Soul]] becomes a full Partner
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Billy
+|2,100
+|1,469
+|11,306
+|AFFCT 10,621
+|Soul of Billie, {{Relink|Super Mutant Biceps|orange}}, Evolution Chest +80
+|}
+
+==Bull Chief==
+'''Storyline Trigger:''' [[Lee Gi-na]] becomes a full partner
+
+He will first ask for 3 [[Nursery#Minions|Minorinos]] ([[Lee Gi-na]]'s minion) and rewards 10 B-tads.
+
+24 hours later he asks for 5 [[Nursery#Minoions|Minorinos]] and rewards 5 escargot (Food +1,000).
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+| rowspan="2" |Bull Chief
+|15,748
+|11,006
+|108,069
+|Each round, HP +5,000
+|AFFCT 34,000
+|Organ Chest +100
+|-
+|21,916
+|15,317
+|247,232
+|Paralyze Snail chance +5%
+Each round, HP +6,000
+|AFFCT 41,800
+|{{Relink|Cross of Rebirth|green}}, 500 W-tads
+|}
+
+==Captain Hiratake==
+'''Storyline Trigger:''' Consume 500 {{Relink|Wonder Fungus|orange}}.
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Captain Hiratake
+|148,535
+|106,663
+|2,832,717
+|HIT +70, Paralysis RES +70%
+|AFFCT 125,675
+|Fame {{Relink|Wonder Fungus|orange}} +2
+|}
+
+==CyberVenderian==
+'''Storyline Trigger:''' Purchase 1 Cat Food (1,000 W-tads) from the [[Vending Machine]]. 
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|CyberVenderian
+|4,763
+|3,548
+|29,460
+|AFFCT 17,830
+|{{Relink|CyberVender Medal|green}}, Time Chest +40
+|}
+
+==Deputy Pirate Chief==
+'''Storyline Trigger:''' Successfully intercept [[Hitmen|Hitman No.21 EX]]
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Berserker
+|95,320
+|82,432
+|3,227,347
+|HIT +80, Paralysis RES +80%
+|AFFCT 107,200
+|Evolution Chest +100
+|-
+|Counselor of Pirates
+|113,565
+|98,210
+|3,943,239
+|HIT +80, Paralysis RES +80%
+|AFFCT 119,350
+|Evolution Chest +100
+|-
+|Deputy Pirate Chief
+|142,422
+|123,165
+|5,118,636
+|HIT +80, Paralysis RES +80%
+|AFFCT 137,600
+|Evolution Chest +300, Relic RF +15
+|}
+==Dev #11==
+'''Storyline Trigger:'''Feed Dev#11 Gloop three times
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Old Man
+|?
+|?
+|?
+|?
+|AFFCT ?
+|Quilin Arm +80
+|-
+|Don Pits
+|63,486
+|44,792
+|552,396
+|HIT +80, Paralysis RES +80%
+|FAME 15051
+|Quilin Arm +80
+|-
+|Old Man
+|126,882
+|82,219
+|959,414
+|HIT +80, Paralysis RES +80%
+|FAME 21,856
+|Quilin Arm +80
+|-
+|}
+
+==Dragon Jr.==
+'''Storyline Trigger:''' Use a total of [[Altar#Offerings and Divine Chests|15 Dragon Orbs]]
+
+He will initially reward Dragon Chest +300 before starting a series of fights.
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|rowspan="3" |Dragon Jr.
+|7,895
+|7,875
+|16,812
+|AFFCT 24,056
+|Soul of Grandpa Dragon, Dragon Chest +300, {{Relink|HF Pacemaker|blue}}
+|-
+|20,586
+|20,534
+|203,585
+|AFFCT 41,000
+|Soul of Aunt Dragon, Dragon Chest +300
+|-
+|43,124
+|43,014
+|630,981
+|AFFCT 64,243
+|Soul of Dragon Jr., Soul of Dragon Elder, Dragon Chest +400
+|}
+
+==Duelist Alliance==
+'''Storyline Trigger:''' Complete [[Fissure#Fissure_Digging_Log|Duelist Academy]]
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Rewards
+|-
+|Duelist No.1
+|495,112
+|223,756
+|16,794,570
+|AFFCT 245,010
+|HIT +80<br>Paralysis RES +80%
+|{{RewardIconWithLink|Lottery Ticket, +8|orange}}
+|-
+|Duelist No.2
+|561,458
+|254,999
+|23,395,575
+|AFFCT 263,990
+|HIT +80<br>Paralysis RES +80%
+|{{RewardIconWithLink|Lottery Ticket, +8|orange}}
+|-
+|Duelist No.3
+|636,985
+|289,481
+|30,320,295
+|AFFCT 282,905
+|HIT +80<br>Paralysis RES +80%
+|{{RewardIconWithLink|Lottery Ticket, +10|orange}}
+|-
+|Duelist No.4
+|726,989
+|330,461
+|39,661,200
+|AFFCT 301,845
+|HIT +80<br>Paralysis RES +80%
+|{{RewardIconWithLink|Lottery Ticket, +10|orange}}
+|-
+|Duelist No.5
+|896,264
+|407,132
+|58,115,685
+|AFFCT 329,860
+|HIT +80<br>Paralysis RES +80%
+|{{RewardIconWithLink|Lottery Ticket, +10|orange}}<br>{{RewardIconWithText|Deathwing, +20|blue}}
+|}
+
+==Emperor Xian of Han==
+'''Storyline Trigger:''' Dominate the final [[Cathay]] Apostle, [[Cathay Apostles#Dong Zhuo|Dong Zhuo]]
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Eunuch Zhang Rang
+|26,539
+|19,955
+|232,346
+| -
+|AFFCT 43,900
+|Toner +20
+|-
+|Eunuch Zhao Zhong
+|28,521
+|21,445
+|239,034
+| -
+|AFFCT 46,000
+|Toner +20
+|-
+|Eunuch Feng Xu
+|30,650
+|23,046
+|269,003
+| -
+|AFFCT 48,200
+|Toner +20
+|-
+|Eunuch Duan Gui
+|32,926
+|24,757
+|299,697
+| -
+|AFFCT 50,000
+|Toner +20
+|-
+|Eunuch Cho
+|35,483
+|26,680
+|354,766
+| -
+|AFFCT 53,000
+|Toner +20
+|-
+|Element Eunuchs
+|43,803
+|32,936
+|590,562
+|HIT +50, Paralysis RES +50%
+|AFFCT 62,000
+|Toner +100
+|-
+|Emperor Xian of Han
+|59,220
+|44,528
+|880,210
+|HIT +50, Paralysis RES +50%
+|AFFCT 78,000
+|{{Relink|Imperial Jade|orange}}, <span style="color:var(--blue-text);">Blue Talent Fruit</span> +5
+|}
+
+==Four-Colored Fish==
+'''Storyline Trigger:''' Unlock [[Parsia]] INTEL: The Convenent of the Four-Colored Fish
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Four-Colored Fish
+|116,910
+|65,714
+|1,162,028
+|AFFCT 95,110
+|Parsia Treasure Map +50, B-Tads +100k
+|-
+|Six-Colored Fish
+|134,200
+|74,001
+|1,302,972
+|AFFCT 101,110
+|Parsia Treasure Map +100, B-Tads +200k
+|-
+|100-Colored Fish
+|150,827
+|81,792
+|1,436,985
+|AFFCT 110,110
+|Parsia Treasure Map +150, B-Tads +300k, {{Relink|Golden Fish Head|green}}
+|}
+
+==Generals Yan&Wen==
+'''Storyline Trigger:''' Dominate [[Cathay]] Apostle [[Cathay Apostles#Yuan Shao|Yuan Shao]]
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|rowspan="4" |Generals Yan&Wen
+|17,742
+|14,174
+|102,311
+| -
+|AFFCT 34,000
+|Organ Chest +100
+|-
+|22,067
+|17,629
+|146,082
+| -
+|AFFCT 38,800
+|Organ Chest +100
+|-
+|24,691
+|19,726
+|186,316
+| -
+|AFFCT 41,800
+|Organ Chest +100
+|-
+|32,929
+|26,305
+|276,587
+|HIT +50, Paralysis RES +50%
+|AFFCT 50,000
+|Organ Chest +100, <span style="color:var(--blue-text);">Blue Talent Fruit +5</span>
+|}
+
+==God of Prosperity==
+'''WIP'''
+
+'''Storyline Trigger:''' Shoot down 30 objects with [[Incense]]
+
+Doing this also rewards {{Relink|Longevity Peach|green}}, Divine Neutral Chest +150, and the {{Retext|Soul of the God of Longevity|blue}}
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|God of Fortune
+|116,360
+|98,429
+|1,791,183
+|HIT +50, Paralysis RES +50%
+|AFFCT 129,000
+|{{Relink|Treasure Gourd|green}}
+|-
+|God of Prosperity
+|120,765
+|102,155
+|1,871,677
+|HIT +50, Paralysis RES +50%
+|AFFCT 132,000
+|{{Relink|Jade Ruyi|green}}
+|}
+
+==Imperial Chief==
+'''Storyline Trigger:''' Dominate the [[Kemet]] Apostle [[Kemet Apostles#Desert Fox|Desert Fox]]
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Armored Squad
+|87,428
+|77,832
+|766,409
+|HIT +80, Paralysis RES +80%,
+|TECH 17,840
+|Gear Chest +60
+|-
+|Bomber Squad
+|100,508
+|89,476
+|1,002,718
+|HIT +80, Paralysis RES +80%
+|TECH 19,320
+|Gear Chest +80
+|-
+|Railway Gun Management
+|114,750
+|102,155
+|1,272,479
+|HIT +80, Paralysis RES +80%
+|TECH 20,960
+|Gear Chest +100
+|-
+|V-2 Rocket
+|130,213
+|115,920
+|1,614,321
+|TECH 22,635
+|HIT +80, Paralysis RES +80%
+|Gear Chest +120
+|-
+|Supersoldier
+|151,140
+|134,550
+|2,063,510
+|HIT +80, Paralysis RES +80%
+|TECH 24,880
+|Gear Chest +150, {{Relink|Supersoldier Serum|purple}}
+|-
+|Imperial Chief
+|177,880
+|158.355
+|2,667,730
+|HIT +80, Paralysis RES +80%
+|TECH 27,520
+|Gear Chest +300, {{Relink|SDI|orange}}
+|}
+
+==John Tooth==
+'''Storyline Trigger:''' Unlock [[Murika]] INTEL: [[Murika INTEL#Mecha INTEL|Mecha INTEL tile 14 "Emancipation"]]
+{| class="wikitable"
+! Enemy!!ATK!! DEF!!HP!!Weakness!!Rewards
+|-
+|rowspan="2" |John Tooth
+|25,042
+|22,114
+|189,472
+|AFFCT 44,300
+|Murika Treasure Map +40
+|-
+|31,071
+|24,671
+|301,347
+|AFFCT 48,650
+|Organ Slime +10, Organ Chest +100, Murika INTEL +40
+|}
+
+==Koryeon Commissioner==
+'''Storyline Trigger:''' Dominate [[Koryeo]]n's final Apostle [[Koryeo Apostles#Exterminator|Exterminator]]
+
+Defeating her rewards [[Gear]] required to complete the Realm.
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Koryeon Task Force
+|3,110
+|2,789
+|11,167
+|AFFCT 14,895
+|100 B-tads
+|-
+|Support Chopper
+|3,830
+|2,886
+|12,357
+|AFFCT 15,716
+|100 B-tads
+|-
+|Volcano Psychic Group
+|4,551
+|2,983
+|13,547
+|AFFCT 16,537
+|100 B-tads
+|-
+| rowspan="2" |Koryeon Commissioner
+|5,271
+|3,081
+|14,737
+|AFFCT 17,358
+|100 B-tads
+|-
+|6,712
+|3,275
+|17,117
+|AFFCT 19,000
+|{{Gearlink|orange|Exploration|Virgo Tech}},{{Relink|Koryeo Seal|green}}, Koryeon Treasure Map +100
+|}
+
+==Loch Nessie Manager==
+'''Storyline Trigger:''' Dominate [[Britland]] Apostle [[Britland Apostles#Nessie|Nessie]].
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Artificial Monser α
+|66,865
+|39,257
+|445,270
+|HIT +80, Paralysis RES +80%
+|ART 11,990
+|Evolution Chest +100
+|-
+|Artificial Monster β
+|72,116
+|44,528
+|530,598
+|HIT +80, Paralysis RES +80%
+|ART 13,940
+|Evolution Chest +150
+|-
+|Artificial Monster γ
+|90,592
+|55,936
+|763,065
+|HIT +80, Paralysis RES +80%
+|ART 15,880
+|Evolution Chest +200
+|-
+|Artificial Monster S
+|112,048
+|69,184
+|1,057,339
+|HIT +80, Paralysis RES +80%
+|ART 17,840
+|Evolution Chest +250
+|-
+|[[Mosasaur]]
+|136,484
+|84,272
+|1,420,900
+|HIT +80, Paralysis RES +80%
+|ART 19,810
+|Evolution Chest +300, [[Mosasaur]] partner
+|}
+
+==Loyal Retainers==
+'''Storyline Trigger:''' Unlock [[Cathay]] INTEL: [[Cathay INTEL#Wu|Wu INTEL tile 14 "Loyal Retainers"]]
+
+Defeating them rewards [[Gear]] required to complete the Realm.
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Loyal Retainers
+|21,603
+|15,413
+|308,922
+|AFFCT 31,564
+|{{RewardIconWithGearlink|orange|Realm|Colt Revolver}}
+{{RewardIcon|2h Soul Red}} Soul of Loyal Retainer +3 <br>
+{{RewardIconWithLink|Cathay Treasure Map, +40}}
+|}
+
+==Marici==
+<!-- 
+WIP
+-->
+'''Storyline Trigger:''' Unseal the [[Dragon Horse]] ([[Bharata|Bharatan]] Realm Trait).
+
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Rewards
+|-
+|Meditating Arhat
+|89,984
+|84,272
+|3,354,906
+|HIT +80, Paralysis RES +80%
+|FTH 20,020
+|Offering Speedup +8h, {{Retext|Soul of Meditating Arhat|yellow}} (8h)
+|-
+|Elephant Arhat
+|108,060
+|101,200
+|4,405,543
+|HIT +80, Paralysis RES +80%
+|FTH 22,390
+|Offering Speedup +8h, {{Retext|Soul of Elephant Arhat|yellow}} (8h)
+|-
+|Pagoda Arhat
+|141,460
+|132,480
+|6,265,332
+|HIT +80, Paralysis RES +80%
+|FTH 26,430
+|Offering Speedup +8h, {{Retext|Soul of Pagoda Arhat|yellow}} (8h)
+|-
+|Long-browed Arhat
+|175,843
+|164,680
+|8,315,419
+|HIT +80, Paralysis RES +80%
+|FTH 30,390
+|Offering Speedup +8h, {{Retext|Soul of Long-browed Arhat|yellow}} (8h)
+|-
+|Pondering Arhat
+|227,908
+|213,440
+|11,527,113
+|HIT +80, Paralysis RES +80%
+|FTH 36,440
+|Offering Speedup +8h, {{Retext|Soul of Pondering Arhat|yellow}} (8h)
+|-
+|Twin Arhats
+|302,207
+|278,760
+|16,144,601
+|HIT +80, Paralysis RES +80%
+|FTH 43,560
+|Offering Speedup +8h, {{Retext|Soul of Pondering Arhat|yellow}} (8h)
+|}
+
+==Mr. Racoon==
+'''Storyline Trigger:''' Complete [[#Toad Mercenary|Toad Mercenary's]] storyline.
+
+This is a lengthy storyline with a high cost, but that gives unique rewards at the end. Some suggest waiting until you've completed other things before shelling out the costs for this. This is likely the best strategy for some users, and not others so proceed at your discretion. 
+
+Initially, Mr. Raccoon will ask for 100k B-tads and reward you with {{Relink|Gang Cadre|green}}<br>
+He will then ask for 150k B-tads and reward you with {{Relink|Deserted Island Title|green}}.<br>
+Then he asks for 200k B-tads and rewards {{Relink|Gold Fishing Rod|green}}.<br>
+Finally, he will ask for 300k B-tads and rewards {{Relink|Isle Turnip|green}}.
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Beastopia
+|9,765
+|8,307
+|75,564
+|AFFCT 28,119
+|Gear Chest +100
+|-
+|Assassin Eve
+|10,753
+|9,147
+|90,038
+|AFFCT 29,741
+|Toner +30
+|-
+|Mr. Raccoon
+|12,112
+|10,303
+|110,631
+|AFFCT 32,175
+|200k Tainted B-tads<sup>[1]</sup>, {{Relink|Das Kapital|orange}}, <span style="color:var(--blue-text)>Blue Talent Fruit</span> +5, 50k B-tads
+|}
+
+<sup>[1]</sup>Tainted B-tads are B-tads that you have already spent that are in some way returned to you. These do not count towards the "Total B-tads spent" tracked in the [[Vending Machine]] bonus packs.
+
+==Ninja Dog==
+'''Storyline Trigger:''' Sucessfully intercept [[Hitmen|Hitman No.7]]
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Huskie
+|7,525
+|6,525
+|12,013
+|AFFCT 26,525
+|Lottery Ticket
+|-
+|Super Poodle
+|8,525
+|7,052
+|20,104
+|AFFCT 27,525
+|Lottery Ticket
+|-
+|Troika
+|9,625
+|7,525
+|54,896
+|AFFCT 29,525
+|{{Relink|Bowl of Troika|green}}, Lottery Ticket
+|}
+
+==Nissan==
+'''Storyline Trigger:''' Unlock [[Yamato]] INTEL: [[Yamato INTEL|Yamato INTEL tile 14 "Sumo Training"]]
+{| class="wikitable"
+!Enemy!!Sumo Level!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+| rowspan="3" |Nissan
+|Jonokuchi
+|2,422
+|2,134
+|6,135
+|AFFCT 12,850
+|{{RewardIconWithText|Yamato Treasure Map, +40}}
+|-
+|Maegashira
+|3,033
+|2,671
+|8,559
+|AFFCT 15,250
+|{{RewardIconWithText|Yamato Treasure Map, +40}}
+|-
+|Yokozuna
+|3,864
+|3,566
+|11,428
+|AFFCT 17,250
+||{{RewardIconWithLink|Sumo Wrestler Cert|green}}<br>{{RewardIconWithText|Yamato Treasure Map, +40}}
+|}
+
+==Old Wizard==
+'''Storyline Trigger:''' After [[Jiro Toyato]] reaches 2 hearts of friendship he rewards the Urn of Snepe. The Soul of Snepe in it can be offered at the [[Altar]], beginning the Old Wizard's storyline
+
+This is worth finishing as soon as possible, as the gear is generally one of the best to have once upgraded.
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+| rowspan="2" |Old Wizard
+|18,926
+|12,233
+|288,862
+|AFFCT 39,608
+|[[Gear|<span style="color:#22d3d0;">Walnut Wand</span>]], Time Chest +60, [[Medal of Magic Academy|<span style="color:#40da25;">Medal of Magic Academy</span>]]
+|-
+|34,098
+|22,039
+|664,107
+|AFFCT 55,868
+|Soul of Old Wizard, Time Chest +200, [[Death Hallows VII|<span style="color:#40da25;">Death Hallows VII</span>]]
+|}
+
+==Pope Goat==
+'''Storyline Trigger:''' Sucessfully intercept [[Hitmen|Hitman No.10]].
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|rowspan="3" |Pope Goat
+|16,424
+|15,336
+|131,965
+|AFFCT 36,949
+|Evolution Chest +80
+|-
+|20,450
+|19,095
+|228,475
+|AFFCT 41,045
+|Demon Chest +50, Evolution Chest +80
+|-
+|28,638
+|26,741
+|376,199
+|AFFCT 49,336
+|Soul of Pope Goat, Dragon Orb, Evolution Chest +80
+|}
+
+==Railway Manager==
+'''Storyline Trigger:''' Complete [[Fissure#0-199-0|Fissure Floor 33]]
+
+Defeating all enemies rewards the "Mr. Hard" tagline for your snail's profile.
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Subway
+|16,000
+|12,000
+|85,000
+| -
+|TECH 6,440
+|Tool Chest +100
+|-
+|Armored Train
+|24,000
+|18,000
+|180,000
+| -
+|TECH 8,160
+|Tool Chest +100
+|-
+|Shuttle
+|33,000
+|25,000
+|290,000
+| -
+|TECH 10,000
+|Tool Chest +100
+|-
+|Battleship
+|41,000
+|32,000
+|500,000
+|HIT +50, Paralysis RES +50%
+|TECH 12,000
+|Tool Chest +100
+|-
+|Sandworm
+|46,128
+|35,551
+|615,221
+|HIT +50, Paralysis RES +50%
+|AFFCT 65,000
+|Organ Chest +200, <span style="color:var(--blue-text);">Blue Talent Fruit</span> +5
+|}
+
+==Ratman==
+'''Storyline Trigger:''' Shoot down 5 objects with {{RewardIconWithLink|Incense|orange}}.
+
+This also rewards:
+* {{RewardIconWithLink|Evolution Chest, +150}}
+* Soul of Flying Man
+* {{RewardIconGeneSegment|Flying Man, +5}}
+
+This is a lengthy series of fights which awards, ultimately, a good piece of [[Gear]]: ({{RewardIconWithGearlink|orange|Instrument|Trident}}). 
+
+Defeating all of his forms causes all of his items and gear to fall to the ground. From his stash you can get 
+
+[[Relics]]: 
+* {{RewardIconWithLink|Pet Ball|green}}
+* {{RewardIconWithLink|Flying Broom|green}}
+
+[[Gear]]: 
+* {{RewardIconWithGearlink|green|Instrument|Broken Sagesinker}}
+* {{RewardIconWithGearlink|green|Instrument|Broken Sageender}}
+* {{RewardIconWithGearlink|green|Instrument|Broken Sagemurderer}}
+* {{RewardIconWithGearlink|green|Instrument|Broken Sagekiller}}
+* {{RewardIconWithGearlink|green|Instrument|Shattered Windfire Wheel}}
+* {{RewardIconWithGearlink|green|Instrument|Shattered Sky Ribbon}}
+* {{RewardIconWithGearlink|green|Instrument|Shattered Fire Spear}}
+* {{RewardIconWithGearlink|green|Instrument|Shattered Palm-Leaf Fan}}
+* {{RewardIconWithGearlink|blue|Instrument|Broken Godsmiter}}
+* {{RewardIconWithGearlink|blue|Instrument|Broken Fiend Mirror}}
+* {{RewardIconWithGearlink|purple|Instrument|Dim Ironcutter}}
+* {{RewardIconWithGearlink|purple|Instrument|Dim Trident}}
+* {{RewardIconWithGearlink|purple|Instrument|Dim Rope of Truth}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+| rowspan="11" |Ratman
+|3,490
+|3,238
+|10,218 
+|AFFCT 14,820
+|{{RewardIconWithGearlink|blue|Form|Lotus Platform}}<br>{{RewardIconWithLink|Cryptonite|green}}<br>{{RewardIconWithLink|Gear Chest, +80}}
+|-
+|9,715
+|9,188
+|29,342
+|AFFCT 26,867
+|{{RewardIconWithLink|Gear Chest, +80}}
+|-
+|11,658
+|11,026
+|59,559
+|AFFCT 30,098
+|{{RewardIconWithLink|Gear Chest, +80}}
+|-
+|15,340
+|14,507
+|122,421
+|AFFCT 35,337
+|{{RewardIconWithLink|Gear Chest, +80}}
+|-
+|25,595
+|24,206
+|298,246
+|AFFCT 46,025
+|{{RewardIconWithLink|Gear Chest, +80}}
+|-
+|28,857
+|27,291
+|368,393
+|AFFCT 49,302
+|{{RewardIconWithLink|Gear Chest, +80}}
+|-
+|32,578
+|30,810
+|443,241
+|AFFCT 53,838
+|{{RewardIconWithLink|Gear Chest, +80}}
+|-
+|36,594
+|34,608
+|522,096
+|AFFCT 58,083
+|Soul of Dotted Tiger<br>{{RewardIconWithLink|Gear Chest, +100}}
+|-
+|38,720
+|36,619
+|589,473
+|AFFT 60,159
+|{{RewardIconWithLink|Gear Chest, +100}}
+|-
+|43,124
+|40,784
+|671,793
+|AFFCT 64,243
+|{{RewardIconWithLink|Gear Chest, +100}}
+|-
+|47,783
+|45,190
+|756,643
+|AFFCT 68,330
+|{{RewardIconWithLink|Gear Chest, +100}}
+|}
+
+==Real Estate Bigwig==
+'''Storyline Trigger:''' Claim enough '''<nowiki>[[Currently unknown number]]</nowiki>''' Real Estate Bigwig Chat packs
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Real Estate Bigwig
+|71,211
+|60,237
+|998,558
+|HIT +50, Paralysis RES +50%
+|Tadpole Points 80,000
+|500 W-tads, <span style=color:var(--purple-text)">Star Ad Flyer</span>+3
+|}
+
+==Red Buck==
+'''Storyline Trigger:''' [[Red Doe]] becomes a full partner
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Red Buck
+|16,408
+|13,771
+|158,644
+|AFFCT 36,949
+|Soul of Red Buck, {{Relink|Atilla Horseshoe|blue}}, Time Chest +40
+|}
+
+==Society of Adventurers==
+'''Storyline Trigger:''' Dominate [[Kemet]] Apostle [[Kemet Apostles#Adventurer Jones|Adventurer Jones]]
+{| class="wikitable"
+!Enemy
+!ATK
+!DEF
+!HP
+!Weakness
+!Rewards
+|-
+|Scott
+|75,384
+|62,928
+|508,903
+|ART 15,880
+|Travel Speedup +2h
+|-
+|Derek
+|93,238
+|77,832
+|728,088
+|ART 17,840
+|Travel Speedup +3h
+|-
+|Ding
+|107,186
+|89,476
+|944,710
+|ART 19,320
+|Travel Speedup +4h
+|-
+|Randolph
+|129,194
+|107,847
+|1,267,852
+|ART 21,675
+|Travel Speedup +6h
+|}
+
+==The Director==
+'''Storyline Trigger:''' Defeat Rumbo in the [[Koryeon Domain]] and complete a unique questline with the telephone
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Nikyta
+|13,653
+|7,960
+|82,170
+|HIT +50, Paralysis RES +50%
+|AFFCT 31,000
+|20k B-tads
+|-
+|Mr. & Mrs. Agent
+|21,137
+|12,322
+|204,322
+|HIT +50, Paralysis RES +50%
+|AFFCT 39,500
+|30k B-tads
+|-
+|The Director
+|32,831
+|19,140
+|398,985
+|HIT +50, Paralysis RES +50%
+|AFFCT 50,000
+|30k B-tads, {{Relink|Intel. Director's ID|green}}
+|}
+
+==The Ishikawa Clan==
+'''Storyline Trigger:''' After your first 10 rolls on the [[Lottery Machine]], it will be stolen and replaced with a note. Not to worry! Soon it will be returned (with some upgrades). The return triggers the storyline of Ishikawa Rip (the first of the Ishikawa Clan). Dealing with each Ishikawa prompts the next to show up until the storyline is finished.
+{| class="wikitable"
+!Enemy
+!ATK
+!DEF
+!HP
+!Weakness
+!Rewards
+|-
+|Ishikawa Rip
+|1,782
+|1,493
+|6,037
+|AFFCT 9,739
+|Soul of Ishikawa Rip, Evolution Chest +80
+|-
+|Ishikawa Rob
+|2,682
+|2,248
+|10,125
+|AFFCT 12,726
+|Soul of Ishikawa Rob, Evolution Chest +80
+|-
+|colspan="6" style="text-align:center"|Ishikawa Breach gives Evolution Chest +40
+|-
+|Ishikawa Antitheft
+|9,629
+|8,587
+|39,143
+|AFFCT 26,86
+|{{Relink|Ishikawa Antitheft|green}}, Evolution Chest +80
+|}
+
+==Toad Mercenary==
+'''Storyline Trigger:''' After [[Kim Chi-yum]] reaches 2 hearts of friendship and rewards the [[Alchemy Furnace]], Toad Mercenary's storyline begins
+
+After completing the storyline, the leftovers of the fight appear on the ground to be picked up: Soul of Stallion and Soul of Scarface. 
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Toad Mercenary||1,611
+|982
+|6,480
+|AFFCT 4,768
+|Evolution Chest +40
+|-
+|Toad Mercenary
+|2,048
+|1,163
+|8,548
+|AFFCT 7,500
+|{{Relink|Postcard From Toad|green}}
+|}
+
+==Treant Nana==
+'''Storyline Trigger:''' [[Female Daemons]] becomes a full partner.
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Tree Sprite
+|133,565
+|89,700
+|3,487,461
+|HIT +80, Paralysis Res +80%
+|FAME 24,880
+|Ancient Wood +5
+|-
+|Treant
+|153,086
+|102,810
+|4,345,283
+|HIT +80, Paralysis Res +80%
+|FAME 26,970
+|ART {{Relink|Pistil|blue}} +5
+|-
+|Ent
+|173,635
+|116,610
+|5,344,635
+|HIT +80, Paralysis Res +80%
+|FAME 29,210
+|Ancient Wood +5
+|-
+|Treant Nana
+|189,046
+|126,960
+|6,288,300
+|HIT +80, Paralysis Res +80%
+|FAME 31,000
+|{{Relink|Dragon Orb|orange}} +1, ATK {{Relink|Pistil|orange}} +3
+|}
+
+==Tridentman==
+'''Storyline Trigger:''' Tridentman is a [[Murika South Heroes|Hero]] from [[Murika]] who initially starts out as an [[Murika Apostles|Widow in White & Tridentman|Apostle]]. Defeating him as an Apostle and fully upgrading him (Lv.30) as a Hero begins his storyline.
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|Black Mobula
+|30,650
+|21,606
+|290,515
+|HIT +50, Paralysis RES +50%
+|AFFCT 48,200
+|Refine Speedup +3h
+|-
+|Sunfish
+|41,601
+|29,325
+|587,776
+|HIT +50, Paralysis RES +50%
+|AFFCT 60,000
+|30k B-tads, {{Relink|Big Fish Bone|blue}} +10
+|-
+|Whale
+|59,220
+|41,745
+|934,544
+|HIT +50, Paralysis RES +50%
+|AFFCT 78,000
+|50k B-tads, Dragon Orb
+|}
+
+==West Wind==
+'''Storyline Trigger:''' Fully complete the [[Cathay Domain]]
+{| class="wikitable"
+!Enemy
+!ATK
+!DEF
+!HP
+!Special Stats
+!Weakness
+!Rewards
+|-
+|Pungs
+|54,196
+|40,814
+|1,361,658
+|HIT +50, Paralysis RES +50%
+|TECH 15,130
+|Wormhole Refiner +50, Refine Speedup +2h
+|-
+|Onesuit
+|60,823
+|45,805
+|1,570,592
+|HIT +50, Paralysis RES +50%
+|TECH 16,200
+|Wormhole Refiner +30, Refine Speedup +4h
+|-
+|Fourcon
+|67,985
+|51,198
+|1,834,317
+|HIT +50, Paralysis RES +50%
+|TECH 17,270
+|Wormhole Refiner +40, Refine Speedup +6h
+|-
+|Tridragon
+|75,575
+|56,914
+|2,111,484
+|HIT +50, Paralysis RES +50%
+|TECH 18,350
+|Wormhole Refiner +50, Refine Speedup +8h
+|-
+|West Wind
+|87,119
+|65,608
+|2,564,331
+|HIT +50, Paralysis RES +50%
+|TECH 19,820
+|Wormhole Refiner +60, Refine Speedup +10h, {{Relink|West Wind|green}}
+|}
+
+==Xanthippe==
+After dominating [[Hellas]] Apostle [[Hellas Apostles#Socrates|Socrates]], Xanthippe's storyline is triggered.
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+|rowspan="6"|Xanthippe
+|68,221
+|45,816
+|1,361,554
+|HIT +80, Paralysis RES +80%
+|TECH 16,660
+|Gear Chest +60
+|-
+|74,180
+|49,818
+|1,592,690
+|HIT +80, Paralysis RES +80%
+|TECH 17,450
+|Gear Chest +80
+|-
+|80,447
+|54,027
+|1,811,929
+|HIT +80, Paralysis RES +80%
+|TECH 18,230
+|Gear Chest +100
+|-
+|87,126
+|58,512
+|2,080,442
+|HIT +80, Paralysis RES +80%
+|TECH 19,090
+|Gear Chest +120
+|-
+|94,112
+|63,204
+|2,334,963
+|HIT +80, Paralysis RES +80%
+|TECH 20,020
+|Gear Chest +150
+|-
+|101,407
+|68,103
+|2,641,642
+|HIT +80, Paralysis RES +80%
+|TECH 20,960
+|Gear Chest +300, Gear RF +10
+|}
+
+==Zuckie==
+'''Storyline Trigger:''' After watching a certain number of advertisements '''<nowiki>[[Currently unknown number]]</nowiki>''', Zuckie's storyline will begin. 
+
+He will first offer {{RewardIconWithText|Zuckie's Invitation I}} ({{RewardIconWithLink|Ad Ticket}} +2, Unlock Famous Painting Puzzle). 
+
+To do the Famous Painting Puzzle, you can watch 5 ads a day, each giving 1 puzzle piece. There are 30 puzzle pieces and sometimes an ad gives a duplicate puzzle piece, so it can take a little over a week to finish. Completing the puzzle rewards {{RewardIconWithLink|Lottery Ticket|orange}} +3 and the green relic {{RewardIconWithLink|Ticket Gleaners|green}}.
+
+24 hours later, Zuckie will be excited about the puzzle and offer {{RewardIconWithText|Zuckie's Invitation II}} ({{RewardIconWithLink|Ad Ticket}} +2, Ancient Fossil Puzzle). Just like the puzzle, you can watch 5 ads a day, each giving 1 bone. There are 35 total bones in the skeleton, and an ad also has the chance to give a duplicate piece. Completing the skeleton rewards the green relic {{RewardIconWithLink|Ancient Snail Fossil|green}}.
+
+24 hours later, Zuckie will come back to offer {{RewardIconWithText|Zuckie's Invitation III}} ({{RewardIconWithLink|Ad Ticket}} +2 , Sealed Box Puzzle). This puzzle is a bit like a nesting doll. The first box has 20 seals on it. Removing 5 a day opens the first box in 4 days and rewards {{RewardIconWithLink|Incense|orange}} +1 and {{RewardIconWithText|Stone}} +500.
+
+The second box has 12 seals and rewards {{RewardIconWithLink|Incense|orange}} +1 and {{RewardIconWithText|Stone}} +1k.
+
+The third box has 8 seals and rewards {{RewardIconWithLink|Incense|orange}} +1, {{RewardIconWithText|Stone}} +1.5k, and the {{RewardIconWithText|Mage's Notes}}. The {{RewardIconWithText|Mage's Notes}} gives a unique [[Snail Codes|Snail Code]]! This code is unique to you, and cannot be used by another person. It rewards {{RewardIconWithText|W-Tad}} +1k, {{RewardIconWithLink|Lottery Ticket|orange}} +10, and {{RewardIconWithText|B-Tad}} +20k. It won't be removed from your inventory however, because you'll need it later...
+
+24 hours later, Zuckie is ecstatic about the money you've made for his company and wants you to now watch a million ads... Obviously this is ridiculous, and triggers a series of fights. After fully defeating Zuckie, he will offer to babysit the minions and move into the [[Nursery]]. Chore Dispatches will then be done through him. He will also request the {{RewardIconWithText|Mage's Notes}} back which will reward {{RewardIconWithLink|Facenote|green}}.
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Special Stats!!Weakness!!Rewards
+|-
+| rowspan="5" |Zuckie
+|4,596
+|2,680
+|21,598
+| -
+|FAME 3.400
+|{{RewardIconWithText|Mecha Cell}} +1k
+|-
+|9,068
+|5,287
+|46,485
+| -
+|TECH 5,000
+|{{RewardIconWithText|Mecha Cell}} +1.5k
+|-
+|14,967
+|8,725
+|135,447
+| -
+|CIV 6,600
+|{{RewardIconWithText|Mecha Cell}} +2k<br>{{RewardIconWithText|Mecha Manual}} +30
+|-
+|22,846
+|13,319
+|313,243
+|HIT +50, Paralysis RES +50%
+|FTH 8,300
+|{{RewardIconWithText|Mecha Cell}} +2.5k<br>{{RewardIconWithLink|Master Alchemy Case|orange}} +3
+|-
+|32,831
+|19,140
+|569,979
+|HIT +50, Paralysis RES +50%
+|AFFCT 50,500
+|{{RewardIconWithText|Mecha Cell}} +3k<br>{{RewardIconWithText|Gene Speedup}} +15h
+|}
+
+[[Category:Home Base]]

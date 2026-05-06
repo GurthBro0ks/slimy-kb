@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Illustrations of Marine Life
+|class_id=22880
+|rank=SSS
+|affct=CIV
+|source=
+|description=During the Kangxi period of the Qing dynasty, Nie Huang traveled along the coastal regions, creating illustrations of what he saw and heard, accompanied by textual explanations. This format has a modern natural history style and, after being brought into the palace by eunuch Su Peisheng, became a cherished item of successive emperors. With its vivid illustrations and detailed descriptions, the Illustrations of Marine Life holds unique scientific value and remains an important resource for studying marine biology during the Qing dynasty, even in modern times.
+|fame=76
+|art=63
+|fth=64
+|civ=108
+|tech=51
+|ss1=All minion skins ATK +10%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +12<br>Per Sea Area conquered, Snail DEF +30<br>Areas of Mysterious Sea Conquered: 6/6
+|ss2=All minion skins ATK +20%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +16<br>Per Sea Area conquered, Snail DEF +40<br>Areas of Mysterious Sea Conquered: 6/6
+|ss3=All minion skins ATK +30%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +20<br>Per Sea Area conquered, Snail DEF +50<br>Areas of Mysterious Sea Conquered: 6/6
+|ss4=All minion skins ATK +50%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +28<br>Per Sea Area conquered, Snail DEF +70<br>Areas of Mysterious Sea Conquered: 6/6
+|ss5=All minion skins ATK +70%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +36<br>Per Sea Area conquered, Snail DEF +90<br>Areas of Mysterious Sea Conquered: 6/6
+|ss6=All minion skins ATK +100%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +48<br>Per Sea Area conquered, Snail DEF +120<br>Areas of Mysterious Sea Conquered: 6/6
+|ss7=All minion skins ATK +100%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +48<br>Per Sea Area conquered, Snail DEF +120<br>Areas of Mysterious Sea Conquered: 6/6<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40 (Awakened)
+|skill1=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop CRIT +9%
+|skill2=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop CRIT DMG +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+|mirage={{Mirage|name=dungeon@22880_1|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Longevity Octopus|3rec=117.26M|3atk=352578|3defense=208866|3hp=35547841|3weak=43681
+|4name=dungeon_event@3881_1|4rec=134.37M|4atk=389716|4defense=232947|4hp=47448824|4weak=47337
+|5name=dungeon_event@3882_1|5rec=157.20M|5atk=441053|5defense=265071|5hp=67673782|5weak=51525
+|6name=Mermaid|6rec=188.66M|6atk=508296|6defense=309324|6hp=100630412|6weak=56199
+|Arec=232.63M|Aatk=601445|Adefense=371183|Ahp=161158940|Aweak=61354
+}}}}

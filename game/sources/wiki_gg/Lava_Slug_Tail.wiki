@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Lava Slug Tail
+|type=Bionic
+|rank=green
+|id=10649
+|idx=5
+|description="We found a marvelous slug with a large tail around the Harveys volcano, they can swim in hot lava!"
+—Solace's Expedition Notes
+|skill=On combat start, summon a meteor to
+attack the enemy, dealing DMG equal to 45% of ATK!
+|hp=370
+|def=45
+|atk=84
+|rush=41
+|gene1=In explorations, DMG +2.5%
+|gene2=In explorations, B-tads gained +2.5%
+|gene7=In explorations, DMG +2.5% (Awakened)
+|}}

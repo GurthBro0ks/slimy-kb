@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Rider of Sin
+|rank=purple
+|cabin=2
+|id=86
+|gene1={race} RUSH +30
+|gene2={race} TECH +30
+|gene3=Per 30 Zombie Minions in battle:
+> Troop RUSH +8
+|gene4=Resolver: W-tads extracted +6
+|gene5=Per 30 Zombie Minions in battle:
+> Troop RUSH +12
+|gene6=Resolver: W-tads extracted +9
+|}}

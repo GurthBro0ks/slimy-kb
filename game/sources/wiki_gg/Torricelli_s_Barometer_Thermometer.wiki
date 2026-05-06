@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=340
+|relics=Torricelli's Barometer,Thermometer
+|rank=blue
+|amount=2
+|category=self
+|description=Snail DEF +50
+}}

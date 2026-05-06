@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Human World CD
+|class_id=20310
+|rank=Green
+|affct=TECH
+|source=
+|description=This is a CD-ROM aboard Voyager 1. It recorded the sounds and images of various cultures and life on Earth to be discovered by extraterrestrial intelligence. In a sense, this is just a sign that maybe we're destined to be alone in this universe!
+|fame=16
+|art=12
+|fth=18
+|civ=15
+|tech=29
+|ss1=Per 400 Relic Points, Snail ATK +3<br>Relic Points: 2000/2000
+|ss2=Per 400 Relic Points, Snail ATK +3<br>Relic Points: 4000/4000
+|ss3=Per 400 Relic Points, Snail ATK +3<br>Relic Points: 6000/6000
+|ss4=Per 400 Relic Points, Snail ATK +3<br>Relic Points: 6000/6000
+|ss7=Per 400 Relic Points, Snail ATK +3<br>Relic Points: 6000/6000<br> (Awakened)
+}}

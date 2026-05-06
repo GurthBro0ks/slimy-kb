@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Metchnikoff's Notes
+|class_id=22239
+|rank=SSS
+|affct=FAME
+|birthday=11-30
+|source=Lottery Machine No.2 (0.11%)
+|description=On Nov 30, 1908 AD, Metchnikov was awarded the Nobel Prize in Physiology and Medicine for finding phagocytes.<br>Metchnikoff's research on phagocytes, recorded in this manuscript, confirmed the existence of white blood cell phagocytes through repeated experiments. He established that phagocytes are the first line of defense against acute infection for most animals and humans, thereby establishing the phagocytosis theory of cellular immunity. By bridging the gap between physiological biology and advanced chemistry, he laid the foundation for immunology.
+|fame=107
+|art=60
+|fth=56
+|civ=71
+|tech=68
+|ss1=Snail ATK +30<br>Minion Recovery SPD +1.5%<br>Per 50 Minions healed, Snail ATK +6<br>Minions healed: 2000/2000
+|ss2=Snail ATK +40<br>Minion Recovery SPD +2%<br>Per 50 Minions healed, Snail ATK +7<br>Minions healed: 2000/2000
+|ss3=Snail ATK +50<br>Minion Recovery SPD +2.5%<br>Per 50 Minions healed, Snail ATK +8<br>Minions healed: 2000/2000
+|ss4=Snail ATK +70<br>Minion Recovery SPD +3.5%<br>Per 50 Minions healed, Snail ATK +10<br>Minions healed: 2000/2000
+|ss5=Snail ATK +90<br>Minion Recovery SPD +4.5%<br>Per 50 Minions healed, Snail ATK +12<br>Minions healed: 2000/2000
+|ss6=Snail ATK +120<br>Minion Recovery SPD +6%<br>Per 50 Minions healed, Snail ATK +15<br>Minions healed: 2000/2000
+|ss7=Snail ATK +120<br>Minion Recovery SPD +6%<br>Per 50 Minions healed, Snail ATK +15<br>Minions healed: 2000/2000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: This Relic's FAME +15
+|skill2=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: B-tad Output +3000
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, 2x B-tad Drops +15%
+|mirage={{Mirage|name=White Blood Cells|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Lymphocyte|3rec=77.48M|3atk=229190|3defense=152901|3hp=13503651|3weak=30423
+|4name=Neutrophil|4rec=101.93M|4atk=280753|4defense=187302|4hp=19065648|4weak=34818
+|5name=Eosinophil|5rec=130.85M|5atk=341738|5defense=227987|5hp=26466847|5weak=39303
+|6name=Macrophage|6rec=163.09M|6atk=409743|6defense=273356|6hp=36239037|6weak=45642
+|Arec=200.34M|Aatk=488289|Adefense=325757|Ahp=48178350|Aweak=52051
+}}}}

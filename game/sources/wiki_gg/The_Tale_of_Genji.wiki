@@ -1,0 +1,41 @@
+{{CargoRelic
+|name=The Tale of Genji
+|rank=S
+|affct=CIV
+|birthday=11-09
+|source=CIV Master Scroll (37.5%), Fragment Crafting (18.8%), Lottery Machine (0.81%), Master Scroll (6.5%), Relic Forge (90 Relic RF), Wishing (0.69%), Yamato Treasure Map (5%)
+|description=On Nov 9, AD 1008, Murasaku wrote the world's earliest realism novel.
+
+"The Tale of Genji" is a million-character Japanese novel. This book tells the story of three generations of people which spans more than 70 years and has more than 400 characters. It mainly focuses on the story of Genji and his son Kaoru on their lives and relationship with other women. It reflects the power struggle and corrupted life among the nobles of the time. In that chaotic society, marriages were often used as a chip in political struggles, so most of them resulted in tragedy.
+
+[Famous Quotes]
+
+New grass, you don't even know where to sprout and grow. A sudare is enough to separate this unsuccessful love affair. Is there any meaning to dying from lovesickness? Love encounters are better than wealth. Whats grants you longevity in this world, may I ask? The heart is not understood but the scent of flowers reawakes forgotten love. Like a lonely boat, the loves drifts further away.
+|fame=68
+|art=48
+|fth=57
+|civ=100
+|tech=59
+|ss1=Lumber Camp upgrade Wood Cost -1%<br>Lumber Camp upgrade Stone Cost -1%<br>Lumber Camp upgrade B-Tad Cost -1%
+|ss2=Lumber Camp upgrade Wood Cost -2%<br>Lumber Camp upgrade Stone Cost -2%<br>Lumber Camp upgrade B-Tad Cost -2%
+|ss3=Lumber Camp upgrade Wood Cost -3%<br>Lumber Camp upgrade Stone Cost -3%<br>Lumber Camp upgrade B-Tad Cost -3%
+|ss4=Lumber Camp upgrade Wood Cost -5%<br>Lumber Camp upgrade Stone Cost -5%<br>Lumber Camp upgrade B-Tad Cost -5%
+|ss5=Lumber Camp upgrade Wood Cost -7%<br>Lumber Camp upgrade Stone Cost -7%<br>Lumber Camp upgrade B-Tad Cost -7%
+|ss6=Lumber Camp upgrade Wood Cost -10%<br>Lumber Camp upgrade Stone Cost -10%<br>Lumber Camp upgrade B-Tad Cost -10%
+|ss7=Lumber Camp upgrade Wood Cost -10%<br>Lumber Camp upgrade Stone Cost -10%<br>Lumber Camp upgrade B-Tad Cost -10%<br>Lumber Camp upgrade B-Tad Cost -10% (Awakened)
+|skill1=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, CIV Checks -15
+|skill2=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, B-Tads gained +15%
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Snail HP +6,000
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Lumber Camp Upgrade Cost Reduction]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:CIV Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:HP Boost]]
+[[Category:Offering Reward Boost]]
+[[Category:Lottery Machine Boost]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Rewards Toner]]

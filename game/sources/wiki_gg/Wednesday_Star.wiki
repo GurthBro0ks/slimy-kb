@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Wednesday Star
+|class_id=20393
+|rank=Green
+|affct=TECH
+|source=
+|description=Fortune Law 4: Nothing is perfect, and you cannot have both spring flowers and autumn moon at the same time!
+|fame=16
+|art=14
+|fth=13
+|civ=16
+|tech=31
+|ss1=Per 10 Lucky Star, Snail RUSH +1<br>Lucky Star Gained: 800/800
+|ss2=Per 10 Lucky Star, Snail RUSH +2<br>Lucky Star Gained: 800/800
+|ss3=Per 10 Lucky Star, Snail RUSH +3<br>Lucky Star Gained: 800/800
+|ss4=Per 10 Lucky Star, Snail RUSH +3<br>Lucky Star Gained: 800/800
+|ss7=Per 10 Lucky Star, Snail RUSH +3<br>Lucky Star Gained: 800/800<br> (Awakened)
+}}

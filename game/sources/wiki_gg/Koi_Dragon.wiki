@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Koi Dragon
+|rank=purple
+|cabin=2
+|id=58
+|gene1={race} ATK +30
+|gene2={race} CIV +30
+|gene3=Per 30 Dragon Minions in battle:
+> Troop ATK +8
+|gene4=For Round 1, All ELMT DMG +1%
+|gene5=Per 30 Dragon Minions in battle:
+> Troop ATK +12
+|gene6=For Round 1, All ELMT DMG +1.5%
+|}}

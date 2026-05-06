@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dragon Throne
+|class_id=20540
+|rank=Green
+|affct=CIV
+|source=
+|description=This dragon throne is an ancient artifact that bears witness to the lives of ancient emperors. Despite having endured the passage of countless years, the inherent dignity it holds remains undiminished. Instead, it appears even more solemn when juxtaposed with traces of wind and frost.
+|fame=15
+|art=15
+|fth=14
+|civ=30
+|tech=16
+|ss1=All ELMT DMG +1<br>Per Divine Dragon Descent, Snail ATK +3<br>Divine Dragon Descents: 20/20
+|ss2=All ELMT DMG +2<br>Per Divine Dragon Descent, Snail ATK +6<br>Divine Dragon Descents: 20/20
+|ss3=All ELMT DMG +3<br>Per Divine Dragon Descent, Snail ATK +9<br>Divine Dragon Descents: 20/20
+|ss4=All ELMT DMG +3<br>Per Divine Dragon Descent, Snail ATK +9<br>Divine Dragon Descents: 20/20
+|ss7=All ELMT DMG +3<br>Per Divine Dragon Descent, Snail ATK +9<br>Divine Dragon Descents: 20/20<br> (Awakened)
+}}

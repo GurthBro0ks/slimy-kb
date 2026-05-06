@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Byakko
+|rank=orange
+|cabin=2
+|id=158
+|gene1={race} HP +500
+|gene2={race} FTH +50
+|gene3=Micro Incubator: Convert Blue product to Purple by + 0.3%
+|gene4=Per 60 Demon Minions in battle,
+Troop Water DMG +6
+|gene5=Demon Minion Skin HP +30%
+|gene6=Per 60 Demon Minions in battle,
+Troop Water DMG +10
+|gene7=Demon Minion Skin HP +50%
+|}}

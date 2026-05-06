@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=621
+|relics=Testament of Flamel,The Book of Raziel
+|rank=blue
+|amount=2
+|category=self
+|description=Dismantle 1 Purple Brand: Gain 1 more fragment by 10%
+}}

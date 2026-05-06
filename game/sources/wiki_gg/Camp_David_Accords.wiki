@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Camp David Accords
+|class_id=22400
+|rank=Blue
+|affct=FAME
+|birthday=09-17
+|source=Lottery Machine No.3 (0.25%)
+|description=On Sept 17, 1978 AD, the Camp David Accords were officially signed in Washington.<br>To resolve the longstanding conflict in the Middle East, the President of Egypt at the time initiated talks with Israel, but no significant progress was made. At that time, to prevent Middle East turmoil from affecting oil supplies and for other reasons, the President of the United States intervened and invited the two presidents to Camp David to hold a meeting, where they agreed upon the famous Camp David Accords, promoting the Middle East peace process.
+|fame=45
+|art=31
+|fth=19
+|civ=29
+|tech=30
+|ss1=Per 3 basic fusions, Snail HP +10<br>Basic Fusions: 150/150
+|ss2=Per 3 basic fusions, Snail HP +20<br>Basic Fusions: 150/150
+|ss3=Per 3 basic fusions, Snail HP +30<br>Basic Fusions: 150/150
+|ss4=Per 3 basic fusions, Snail HP +50<br>Basic Fusions: 150/150
+|ss7=Per 3 basic fusions, Snail HP +50<br>Basic Fusions: 150/150<br>Snail HP +500 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Fire DMG +10
+}}

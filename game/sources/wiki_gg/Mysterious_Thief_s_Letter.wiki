@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Mysterious Thief's Letter
+|class_id=20941
+|rank=Green
+|affct=FAME
+|source=
+|description=The exclusive preview letter of the legendary phantom thief, Arsène Lupin. The exquisite letter and its elaborate words not only reveal the identity and taste of its creator but also the included Arsène Lupin-style mask enhances its value as a collectible.
+|fame=29
+|art=15
+|fth=15
+|civ=17
+|tech=14
+|ss1=Per Complete Exhibition, Snail ATK +3<br>Per Complete Exhibition, Snail RUSH +3<br>Complete Exhibitions: 9/9
+|ss2=Per Complete Exhibition, Snail ATK +6<br>Per Complete Exhibition, Snail RUSH +6<br>Complete Exhibitions: 9/9
+|ss3=Per Complete Exhibition, Snail ATK +9<br>Per Complete Exhibition, Snail RUSH +9<br>Complete Exhibitions: 9/9
+|ss4=Per Complete Exhibition, Snail ATK +9<br>Per Complete Exhibition, Snail RUSH +9<br>Complete Exhibitions: 9/9
+|ss7=Per Complete Exhibition, Snail ATK +9<br>Per Complete Exhibition, Snail RUSH +9<br>Complete Exhibitions: 9/9<br> (Awakened)
+}}

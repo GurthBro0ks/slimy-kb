@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20848_1
+|class_id=20848
+|rank=Green
+|affct=TECH
+|source=
+|description=collection@20848_2
+|fame=95
+|art=95
+|fth=95
+|civ=95
+|tech=100
+|ss1=Per 5 Incubator Files fully restored, Snail HP +50<br>Per 5 Incubator Files fully restored, Snail ATK +5<br>Per 5 Incubator Files fully restored, Snail DEF +5<br>Per 5 Incubator Files fully restored, Snail RUSH +5<br>Files fully restored: 100/100
+|ss2=Per 5 Incubator Files fully restored, Snail HP +100<br>Per 5 Incubator Files fully restored, Snail ATK +10<br>Per 5 Incubator Files fully restored, Snail DEF +10<br>Per 5 Incubator Files fully restored, Snail RUSH +10<br>Files fully restored: 100/100
+|ss3=Per 5 Incubator Files fully restored, Snail HP +150<br>Per 5 Incubator Files fully restored, Snail ATK +15<br>Per 5 Incubator Files fully restored, Snail DEF +15<br>Per 5 Incubator Files fully restored, Snail RUSH +15<br>Files fully restored: 100/100
+|ss4=Per 5 Incubator Files fully restored, Snail HP +150<br>Per 5 Incubator Files fully restored, Snail ATK +15<br>Per 5 Incubator Files fully restored, Snail DEF +15<br>Per 5 Incubator Files fully restored, Snail RUSH +15<br>Files fully restored: 100/100
+|ss7=Per 5 Incubator Files fully restored, Snail HP +150<br>Per 5 Incubator Files fully restored, Snail ATK +15<br>Per 5 Incubator Files fully restored, Snail DEF +15<br>Per 5 Incubator Files fully restored, Snail RUSH +15<br>Files fully restored: 100/100<br> (Awakened)
+}}

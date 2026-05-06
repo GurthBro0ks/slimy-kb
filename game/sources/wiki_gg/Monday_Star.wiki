@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Monday Star
+|class_id=20174
+|rank=Green
+|affct=ART
+|source=
+|description=Fortune Law 2: Monday marks the beginning of work. Always maintain optimism, attentiveness, and caution. May the goddess of luck be with you always!
+|fame=16
+|art=31
+|fth=14
+|civ=16
+|tech=13
+|ss1=Per 10 Lucky Star, Snail ATK +1<br>Lucky Star Gained: 800/800
+|ss2=Per 10 Lucky Star, Snail ATK +2<br>Lucky Star Gained: 800/800
+|ss3=Per 10 Lucky Star, Snail ATK +3<br>Lucky Star Gained: 800/800
+|ss4=Per 10 Lucky Star, Snail ATK +3<br>Lucky Star Gained: 800/800
+|ss7=Per 10 Lucky Star, Snail ATK +3<br>Lucky Star Gained: 800/800<br> (Awakened)
+}}

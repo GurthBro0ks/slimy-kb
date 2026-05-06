@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Ion Propulsor
+|class_id=20350
+|rank=Green
+|affct=TECH
+|source=Have 24,000 rocket tech to unlock the [[Value Packs#Rocket_Value Pack|Value Pack]] to obtain this relic. 
+
+<u>Note:</u> The Value Pack costs {{RewardIcon|W-Tad}}1500 W-Tads
+|description=An ion thruster, also known as an electric thruster, is a device that does not rely on chemical combustion to generate thrust. It converts solar energy into electricity, and then uses it to convert stored working fluid into plasma, which is released to produce thrust. The absence of structures such as combustion chambers, pipes, and cooling systems in traditional thrusters frees up more room to store fuel, while the high-impulse ion thruster itself greatly prolongs the life of the spacecraft.
+|fame=12
+|art=17
+|fth=17
+|civ=17
+|tech=27
+|ss1=Per 5 Rocket Tech LVLs, Snail ATK +3<br>Rocket Tech Upgraded: 50/50
+|ss2=Per 5 Rocket Tech LVLs, Snail ATK +6<br>Rocket Tech Upgraded: 50/50
+|ss3=Per 5 Rocket Tech LVLs, Snail ATK +9<br>Rocket Tech Upgraded: 50/50
+|ss4=Per 5 Rocket Tech LVLs, Snail ATK +9<br>Rocket Tech Upgraded: 50/50
+|ss7=Per 5 Rocket Tech LVLs, Snail ATK +9<br>Rocket Tech Upgraded: 50/50<br> (Awakened)
+}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Allahabad Jade Turtle
+|class_id=22465
+|rank=Blue
+|affct=CIV
+|birthday=11-05
+|source=Lottery Machine No.3 (0.25%)
+|description=On Nov 5, 1803 AD, Indian workers discovered the jade turtle at the bottom of a water tank while digging a tunnel.<br>The Allahabad Jade Turtle is carved from a single piece of green jade and weighs approximately 90 pounds. Its head is slightly tilted to one side, giving the appearance of movement and making it look lifelike. The jade turtle was unearthed in the Allahabad region of India, home to the world's largest Hindu gathering. The turtle symbolizes an incarnation of Vishnu and was likely considered a divine offering at the time.
+|fame=34
+|art=28
+|fth=24
+|civ=48
+|tech=20
+|ss1=Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +8<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss2=Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +16<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss3=Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss4=Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss7=Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Swamp Sanctum Rating Pts: 100000/100000<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Britland skill I.png|50px]]Place in Britland Museum: In Britland, 2x Blue Card Drops +2.5%
+}}

@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Gabija's Sacred Fire
+|class_id=22837
+|rank=SSS
+|affct=FAITH
+|source=
+|description=Gabija's Sacred Fire is a legendary eternal flame lit by the earth goddess Gabija, symbolizing the abundance of the earth and the continuation of life. In Lithuanian mythology, the sun goddess Saulė drives a golden chariot across the sky, presenting the fire seed as a sacred covenant between the earth and the sky to the goddess Gabija. The fire seed contains Saulė's power, capable of dispelling darkness and protecting humanity from evil. Gabija uses the fire seed to ignite the sacred fire, granting warmth and light to humanity, teaching them how to survive and thrive on earth. Whenever humanity falls into hardship, the sacred fire will ignite, guiding them to find hope.
+|fame=55
+|art=79
+|fth=106
+|civ=56
+|tech=66
+|ss1=Snail Leadership +3<br>Refine 1 Arcanium: Gain 1 more by 1.2%<br>Per red reward from turning the Pendulum, Snail Primeval Power +3<br>Red reward(s) obtained: 60/60
+|ss2=Snail Leadership +4<br>Refine 1 Arcanium: Gain 1 more by 1.6%<br>Per red reward from turning the Pendulum, Snail Primeval Power +4<br>Red reward(s) obtained: 60/60
+|ss3=Snail Leadership +5<br>Refine 1 Arcanium: Gain 1 more by 2%<br>Per red reward from turning the Pendulum, Snail Primeval Power +5<br>Red reward(s) obtained: 60/60
+|ss4=Snail Leadership +7<br>Refine 1 Arcanium: Gain 1 more by 2.8%<br>Per red reward from turning the Pendulum, Snail Primeval Power +7<br>Red reward(s) obtained: 60/60
+|ss5=Snail Leadership +9<br>Refine 1 Arcanium: Gain 1 more by 3.6%<br>Per red reward from turning the Pendulum, Snail Primeval Power +9<br>Red reward(s) obtained: 60/60
+|ss6=Snail Leadership +12<br>Refine 1 Arcanium: Gain 1 more by 4.8%<br>Per red reward from turning the Pendulum, Snail Primeval Power +12<br>Red reward(s) obtained: 60/60
+|ss7=Snail Leadership +12<br>Refine 1 Arcanium: Gain 1 more by 4.8%<br>Per red reward from turning the Pendulum, Snail Primeval Power +12<br>Red reward(s) obtained: 60/60<br>Snail Primeval Power+100 (Awakened)
+|skill1=[[File:Murkyglen skill III.png|50px]]Placed in Murky Glen:Murky Glen, Relic FTH +15
+|skill2=[[File:Murkyglen skill III.png|50px]]Placed in Murky Glen:Murky Glen, Zone SUP effect reduced by 30%
+|skill3=[[File:Murkyglen skill III.png|50px]]Placed in Murky Glen:Murky Glen, Lottery Ticket output speed+30%
+}}

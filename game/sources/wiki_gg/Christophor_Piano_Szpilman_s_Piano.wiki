@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=579
+|relics=Christophor Piano,Szpilman's Piano
+|rank=blue
+|amount=2
+|category=self
+|description=Per Godhood LVL, Snail HP +300;Godhood LVL: 10/10
+}}

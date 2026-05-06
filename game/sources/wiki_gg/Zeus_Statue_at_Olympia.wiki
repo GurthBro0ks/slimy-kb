@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Zeus Statue at Olympia
+|class_id=22689
+|rank=SSS
+|affct=FAITH
+|birthday=12-21
+|source=
+|description=On Dec 21, 426 AD, Rome issued an edict to destroy pagan temples, and the statue of Zeus was transported to Constantinople.<br>The Temple of Zeus was built for the Greek deity Zeus and is located in the southeast of the Acropolis of Athens, which is considered to be under the control of the king of gods Zeus. The central part of the temple is occupied by the statue of Zeus, which was created by the sculptor Phidias. The statue is about 12 meters high, wearing a golden crown, sitting on a magnificent throne, and is decorated with various gold, ivory, and gemstones, holding a scepter in his hand. The statue of Zeus in Olympia was worshiped by the ancient Greeks for more than 900 years until Christianity put an end to it.
+|fame=62
+|art=72
+|fth=107
+|civ=51
+|tech=70
+|ss1=Snail Leadership +3<br>All Minion RUSH +0.6%<br>Refine +1 White Printing Supply by +3%
+|ss2=Snail Leadership +4<br>All Minion RUSH +0.8%<br>Refine +1 White Printing Supply by +4%
+|ss3=Snail Leadership +5<br>All Minion RUSH +1%<br>Refine +1 White Printing Supply by +5%
+|ss4=Snail Leadership +7<br>All Minion RUSH +1.4%<br>Refine +1 White Printing Supply by +7%
+|ss5=Snail Leadership +9<br>All Minion RUSH +1.8%<br>Refine +1 White Printing Supply by +9%
+|ss6=Snail Leadership +12<br>All Minion RUSH +2.4%<br>Refine +1 White Printing Supply by +12%
+|ss7=Snail Leadership +12<br>All Minion RUSH +2.4%<br>Refine +1 White Printing Supply by +12%<br>Refine +1 White Printing Supply by +10% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ART +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +6%
+|mirage={{Mirage|name=God King's Mercy|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=Io|3rec=109.10M|3atk=334861|3defense=197396|3hp=30833773|3weak=41724
+|4name=Leda|4rec=124.60M|4atk=368405|4defense=219203|4hp=39996363|4weak=45352
+|5name=Ganymede|5rec=144.93M|5atk=413596|5defense=247804|5hp=56099623|5weak=49419
+|6name=Alcmene|6rec=172.94M|6atk=475071|6defense=287212|6hp=83867005|6weak=53997
+|Arec=212.34M|Aatk=558412|Adefense=342637|Ahp=126312788|Aweak=59131
+}}}}

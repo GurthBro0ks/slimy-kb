@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Capricorn Horn
+|type=Common
+|rank=red
+|id=10889
+|idx=100
+|description=This horn gives off an intimidating aura, showing off the power of its former owner! It's a wealthy and noble aura...
+|skill=
+|hp=2190
+|def=254
+|atk=342
+|rush=255
+|gene1=Earth DMG +120
+|gene2=Earth RES +120
+|gene3=Earth DMG +120
+|gene4=CRIT +10%
+|gene5=Ignore Earth RES +120
+|gene6=CRIT +10%
+|gene7=Crit DMG +10% (Awakened)
+|}}

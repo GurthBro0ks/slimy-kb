@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Ruska's Microscope
+|class_id=22331
+|rank=SS
+|affct=TECH
+|birthday=12-07
+|source=Lottery Machine No.2 (0.32%), Wishing (1.2%)
+|description=On Dec 7, 1939 AD, Ruska invented the first electron microscope.<br>Ruska, a German physicist, designed this electron microscope. Although optical microscopy is the technical basis for it, its resolution is one thousandth that of an electron microscope. It replaced light waves with an axisymmetric electron beam as a new medium for presenting images to observe the target object, avoiding wavelength restriction and significantly improving the microscope's performance.
+|fame=70
+|art=56
+|fth=64
+|civ=55
+|tech=102
+|ss1=Snail ATK +20<br>Mecha Minion DEF +2%<br>In the Demon God Rocket Cabin:<br>> Orbit Assimilator Base Effect +16%
+|ss2=Snail ATK +30<br>Mecha Minion DEF +3%<br>In the Demon God Rocket Cabin:<br>> Orbit Assimilator Base Effect +24%
+|ss3=Snail ATK +40<br>Mecha Minion DEF +4%<br>In the Demon God Rocket Cabin:<br>> Orbit Assimilator Base Effect +32%
+|ss4=Snail ATK +60<br>Mecha Minion DEF +6%<br>In the Demon God Rocket Cabin:<br>> Orbit Assimilator Base Effect +48%
+|ss5=Snail ATK +80<br>Mecha Minion DEF +8%<br>In the Demon God Rocket Cabin:<br>> Orbit Assimilator Base Effect +64%
+|ss6=Snail ATK +110<br>Mecha Minion DEF +11%<br>In the Demon God Rocket Cabin:<br>> Orbit Assimilator Base Effect +88%
+|ss7=Snail ATK +110<br>Mecha Minion DEF +11%<br>In the Demon God Rocket Cabin:<br>> Orbit Assimilator Base Effect +88%<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion DEF +9%
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail ATK +600
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's TECH +15
+|mirage={{Mirage|name=Explore the Microworld|reward={{RewardIconWithLink|Evolution Chest, +200|orange}}
+|3name=Mitochondria|3rec=15.29M|3atk=102233|3defense=68204|3hp=3060664|3weak=17514
+|4name=Chloroplast|4rec=30.57M|4atk=130262|4defense=86903|4hp=4898479|4weak=18998
+|5name=Cell Nucleus|5rec=45.92M|5atk=162641|5defense=108504|5hp=7269116|5weak=20950
+|Arec=63.63M|Aatk=199989|Adefense=133421|Ahp=10555758|Aweak=25513
+}}}}

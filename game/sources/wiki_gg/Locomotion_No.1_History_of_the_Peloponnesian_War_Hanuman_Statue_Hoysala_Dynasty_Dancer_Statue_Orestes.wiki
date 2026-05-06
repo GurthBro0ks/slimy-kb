@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Locomotion No.1,History of the Peloponnesian War,Hanuman Statue,Hoysala Dynasty Dancer Statue,Orestes
+|rank=orange
+|amount=5
+|category=minion
+|description=All Dragon Minion Skins, HARD Stats +100%
+}}
+[[Category:Minion]]
+[[Category:Minion Skin Boost]]
+[[Category:Dragon Minion HARD Boost]]

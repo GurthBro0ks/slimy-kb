@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=882
+|relics=Gold-plated Bird,Gilded Monkey
+|rank=orange
+|amount=2
+|category=self
+|description=Troop All ELMT DMG +3%
+}}

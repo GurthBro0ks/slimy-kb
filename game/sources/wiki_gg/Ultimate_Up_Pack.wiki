@@ -1,0 +1,14 @@
+[[File:Ultimate Up Pack Details.png|300px]]
+
+The {{RewardIconWithLink|Ultimate Up Pack|orange}} is a reward for many events that gives you a choice of what you want.
+
+* {{RewardIconWithGearlink|orange|Material|Blasphemy Eye}}
+* {{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+* {{RewardIconWithGearlink|orange|Material|Demon God Crystal}}
+* {{RewardIconWithGearlink|orange|Material|Eye of Horus}}
+* {{RewardIconWithText|Glue, +500}}
+* {{RewardIconWithText|W-Tad, +6k}}
+
+After receiving the Gift Pack, you may choose one of the above rewards!
+
+[[Category:Reward Pack]]

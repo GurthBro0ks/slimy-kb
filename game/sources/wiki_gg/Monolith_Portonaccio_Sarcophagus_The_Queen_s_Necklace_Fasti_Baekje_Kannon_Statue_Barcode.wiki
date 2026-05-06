@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Monolith,Portonaccio Sarcophagus,The Queen's Necklace,Fasti,Baekje Kannon Statue,Barcode
+|rank=orange
+|amount=6
+|category=self
+|description=Per 10 Home Comfort, Snail Oblivion Power +24; Home Comfort: 300/300
+}}
+[[Category:Self]]
+[[Category:Oblivion Power Boost]]

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=685
+|relics=Ollantay,Khipu
+|rank=purple
+|amount=2
+|category=self
+|description=Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +48;Frost Sanctum Rating Pts: 100000/100000
+}}

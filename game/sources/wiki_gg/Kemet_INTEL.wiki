@@ -1,0 +1,322 @@
+==INTEL==
+There are three INTEL trees in [[Kemet]], each with 19 different skills. Each skill has between 1 and 3 levels. Initially, only one hex is available to upgrade in exchange for INTEL (gathered passively during exploration). To make any hex available, an adjacent hex must first be fully upgraded. Additionally, some hexes have a "release condition" required before it can be unlocked. Below is a list of all [[Kemet]] INTEL.
+
+[[File:Kemet INTEL1.0.png|200px|left]][[File:Kemet INTEL 2.0.png|200px]][[File:Kemet INTEL 3.0.png|200px]]
+{{Clear}}
+'''Recommended Upgrades:''' Tiles 5, 6, 8, and 9 for each INTEL increase the output of the Quarry Grids. Obtaining these faster will reduce the necessary explorations to fully upgrade the Pyramids.  Tiles 10 and 13 will increase the DMG of the Pyramid of whichever time is being explored while tile 11 increase the Durability. Tile 14 for the Present and Future should be obtained as soon as possible for the module, and Kemetic INTEL tile 19 for the gear.
+
+==Kemetic INTEL==
+[[File:Kemet INTEL 1.5.png|300px|left]]
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|1||Kemetic Map||300||||In Present Kemet, Travel SPD +15%
+|-
+|2||Book of Palace Run||1,200||||Unlock more special cards (Kemet)
+|-
+|3||New Valley Apostle Clue||1,200||Defeat [[Kemet Apostles#Oil Drilling|Kemet Apostle Oil Drilling]]||Unlock area (New Valley)<br>In New Valley, INTEL gained +20%
+|-
+|rowspan="3"|4||rowspan="3"|Valley Exploration||1,200||||Upon traveling through an area: Gain +50 INTEL<br>Per victory, Canopis Chests gained +1
+|-
+|2,400||||Upon traveling through an area: Gain +100 INTEL<br>Per victory, Canopis Chests gained +2
+|-
+|3,600||||Upon traveling through an area: Gain +150 INTEL<br>Per victory, Canopis Chests gained +3
+|-
+|rowspan="3"|5||rowspan="3"|Synai Deposit||4,800||||Upgrade 1 Iron Mine Grid to Green
+|-
+|9,600||||Upgrade 1 Iron Mine Grid to Blue
+|-
+|14,400||||Upgrade 1 Iron Mine Grid to Purple
+|-
+|rowspan="3"|6||rowspan="3"|Saladin Mining||4,800||||Upgrade 1 Granite Quarry Grid to Green
+|-
+|9,600||||Upgrade 1 Granite Quarry Grid to Blue
+|-
+|14,400||||Upgrade 1 Granite Quarry Grid to Purple
+|-
+|7||Matruh Apostle Clue||4,800||Defeat [[Kemet Apostles#Mongomerry|Kemet Apostle Mongomerry]]||Unlock area (Matruh)<br>In Matruh, INTEL gained +20%
+|-
+|rowspan="3"|8||rowspan="3"|Cornflower Mining||4,800||||Upgrade 1 Granite Quarry Grid to Green
+|-
+|9,600||||Upgrade 1 Granite Quarry Grid to Blue
+|-
+|14,400||||Upgrade 1 Granite Quarry Grid to Purple
+|-
+|rowspan="3"|9||rowspan="3"|Alsukari Deposit||4,800||||Upgrade 1 Copper Mine Grid to Green
+|-
+|9,600||||Upgrade 1 Copper Mine Grid to Blue
+|-
+|14,400||||Upgrade 1 Copper Mine Grid to Purple
+|-
+|rowspan="3"|10||rowspan="3"|Long Barrel||12,000||||Modern Pyramid Phys DMG +100<br>Modern Pyramid Anti-air DMG +100
+|-
+|24,000||||Modern Pyramid Phys DMG +200<br>Modern Pyramid Anti-air DMG +200
+|-
+|36,000||||Modern Pyramid Phys DMG +300<br>Modern Pyramid Anti-air DMG +300
+|-
+|rowspan="3"|11||rowspan="3"|Hardened Armor||12,000||||Modern Pyramid DUR +1,000
+|-
+|24,000||||Modern Pyramid DUR +2,000
+|-
+|36,000||||Modern Pyramid DUR +3,000
+|-
+|12||Asvan Apostle Clue||12,000||Defeat [[Kemet Apostles#Eli Basha|Kemet Apostle Eli Basha]]||Unlock Area (Asvan)<br>In Asvan, INTEL gained +20%
+|-
+|rowspan="3"|13||rowspan="3"|Overload Propellant||12,000||||Modern Pyramid energy DMG +100<br>Modern Pyramid Anti-air DMG +100
+|-
+|24,000||||Modern Pyramid energy DMG +200<br>Modern Pyramid anti-air DMG +200
+|-
+|36,000||||Modern Pyramid energy DMG +300<br>Modern Pyramid anti-air DMG +300
+|-
+|rowspan="3"|14||rowspan="3"|Excitant||12,000||||Obtain [[Kemet Pyramids#Modules|Excitant I module]]
+|-
+|24,000||||Obtain [[Kemet Pyramids#Modules|Excitant II module]]
+|-
+|36,000||||Obtain [[Kemet Pyramids#Modules|Excitant III module]]
+|-
+|rowspan="3"|15||rowspan="3"|Magnetic Probing||15,000||||Modern Pyramid Parts can be upgraded to LVL 20
+|-
+|30,000||||Modern Pyramid Parts can be upgraded to LVL 25
+|-
+|45,000||||Modern Pyramid Parts can be upgraded to LVL 30
+|-
+|16||Arabic Caravan||15,000||||Unlock more items in Kemet Card Redemption
+|-
+|17||The Black Book||15,000||Obtain the Asvan area (Kemetic INTEL tile 12)||Unlock INTEL Tree (The Black Book)<br>Unlock map: Past Kemet
+|-
+|rowspan="3"|18||rowspan="3"|Sandstorm||15,000||||In Present Kemet, DMG +5%
+|-
+|30,000||||In Present Kemet, DMG +10%
+|-
+|45,000||||In Present Kemet, DMG +15%
+|-
+|rowspan="3"|19||rowspan="3"|Momphis Treasure||15,000||||Obtain {{RewardIconWithGearlink|purple|Exploration|Arabic Dagger}}
+|-
+|30,000||||Obtain {{RewardIconWithGearlink|purple|Exploration|Pharaoh's Scepter}}
+|-
+|45,000||||Obtain {{RewardIconWithGearlink|purple|Exploration|Golden Bronze Dagger}}
+|}
+
+==The Black Book==
+[[File:Kemet INTEL 2.5.png|300px|left]]
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|1||Apis' Blessing||300||||Learn to get Past Pyramid
+|-
+|rowspan="3"|2||rowspan="3"|Pyramids Age Cert.||1,200||||Card Conversion in Kemet gives +5% rewards
+|-
+|2,400||||Card Conversion in Kemet gives +10% rewards
+|-
+|3,600||||Card Conversion in Kemet gives +15% rewards
+|-
+|rowspan="3"|3||rowspan="3"|Menes' Territory||1,200||||In Past Kemet,Travel SPD +5%
+|-
+|2,400||||In Past Kemet,Travel SPD +10%
+|-
+|3,600||||In Past Kemet,Travel SPD +15%
+|-
+|4||Mod Treasure House||3,600||||Per Enhancement Mod owned, gain +200 W-tads
+|-
+|rowspan="3"|5||rowspan="3"|Hathor Mine IV||4,800||rowspan="3"|Available only in the past||Upgrade 1 Obsidian Mine Grid to Green
+|-
+|9,600||Upgrade 1 Obsidian Mine Grid to Blue
+|-
+|14,400||Upgrade 1 Obsidian Mine Grid to Purple
+|-
+|rowspan="3"|6||rowspan="3"|Hathor Mine I||4,800||rowspan="3"|Available only in the past||Upgrade 1 Granite Quarry Grid to Green
+|-
+|9,600||Upgrade 1 Granite Quarry Grid to Blue
+|-
+|14,400||Upgrade 1 Granite Quarry Grid to Purple
+|-
+|rowspan="3"|7||rowspan="3"|Lead Token||4,800||||For Kemet Incidents, AFFCT Checks -100
+|-
+|9,600||||For Kemet Incidents, AFFCT Checks -200
+|-
+|14,400||||For Kemet Incidents, AFFCT Checks -300
+|-
+|rowspan="3"|8||rowspan="3"|Hathor Mine II||4,800||rowspan="3"|Available only in the past||Upgrade 1 Granite Quarry Grid to Green
+|-
+|9,600||Upgrade 1 Granite Quarry Grid to Blue
+|-
+|14,400||Upgrade 1 Granite Quarry Grid to Purple
+|-
+|rowspan="3"|9||rowspan="3"|Hathor Mine III||4,800||rowspan="3"|Available only in the past||Upgrade 1 Obsidian Mine Grid to Green
+|-
+|9,600||Upgrade 1 Obsidian Mine Grid to Blue
+|-
+|14,400||Upgrade 1 Obsidian Mine Grid to Purple
+|-
+|rowspan="3"|10||rowspan="3"|Unstable Spell||12,000||||Past Pyramid magical DMG +100<br>Past Pyramid Anti-air DMG +100
+|-
+|24,000||||Past Pyramid magical DMG +200<br>Past Pyramid Anti-air DMG +200
+|-
+|36,000||||Past Pyramid magical DMG +300<br>Past Pyramid Anti-air DMG +300
+|-
+|rowspan="3"|11||rowspan="3"|Mithril Rune||12,000||||Past Pyramid DUR +1,000
+|-
+|24,000||||Past Pyramid DUR +2,000
+|-
+|36,000||||Past Pyramid DUR +3,000
+|-
+|rowspan="3"|12||rowspan="3"|Stone Consolidation||12,000||||Past Pyramid DUR +5%
+|-
+|24,000||||Past Pyramid DUR +10%
+|-
+|36,000||||Past Pyramid DUR +15%
+|-
+|rowspan="3"|13||rowspan="3"|Void Spirit Spell||12,000||||Past Pyramid Phys DMG +100<br>Past Pyramid energy DMG +100
+|-
+|24,000||||Past Pyramid Phys DMG +200<br>Past Pyramid energy DMG +200
+|-
+|36,000||||Past Pyramid Phys DMG +300<br>Past Pyramid energy DMG +300
+|-
+|14||Flowing Sands||12,000||||Obtain [[Kemet Pyramids#Modules|Quicksand III module]]
+|-
+|rowspan="3"|15||rowspan="3"|Osiris Projection||15,000||||Past Pyramid Parts can be upgraded to LVL 20
+|-
+|30,000||||Past Pyramid Parts can be upgraded to LVL 25
+|-
+|45,000||||Past Pyramid Parts can be upgraded to LVL 30
+|-
+|rowspan="3"|16||rowspan="3"|Nile Laborer||15,000||||Unlock Special Event (Ruler Walls)
+|-
+|30,000||||Unlock Special Event (Karnak Obelisk)
+|-
+|45,000||||Unlock Special Event (Simbel Temple)
+|-
+|17||Book of the Sun||15,000||Defeat [[Past and Future Apostles#Forerunner|Forerunner]]||Unlock INTEL Tree (Book of the Sun)<br>Unlock map: Future Kemet
+|-
+|rowspan="3"|18||rowspan="3"|Horus' Fist||15,000||||In Past Kemet, DMG +5%
+|-
+|30,000||||In Past Kemet, DMG +10%
+|-
+|45,000||||In Past Kemet, DMG +15%
+|-
+|rowspan="3"|19||rowspan="3"|Zodiac Tablet||15,000||||Obtain {{Relink|Phoenician Tablet|purple}} +20
+|-
+|30,000||||Obtain {{Relink|Phoenician Tablet|purple}} +20
+|-
+|45,000||||Obtain {{Relink|Phoenician Tablet|purple}} +20
+|}
+
+==The Book of the Sun==
+[[File:Kemet INTEL 3.5.png|300px|left]]
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|1||Cosmic Dust||300||||Obtain Future Pyramid
+|-
+|rowspan="3"|2||rowspan="3"|Diamond Exploration||1,200||||During an exploration session in Kemet, per 120 Mine rolls, gaine 1 Gaze of Horus at the end<br>(Use in Card Redemption for rare resources)
+|-
+|2,400||||During an exploration session in Kemet, per 90 Mine rolls, gaine 1 Gaze of Horus at the end<br>(Use in Card Redemption for rare resources)
+|-
+|3,600||||During an exploration session in Kemet, per 60 Mine rolls, gaine 1 Gaze of Horus at the end<br>(Use in Card Redemption for rare resources)
+|-
+|rowspan="3"|3||rowspan="3"|Nuclear Exoskeleton||1,200||||In Future Kemet, Travel SPD +5%
+|-
+|2,400||||In Future Kemet, Travel SPD +10%
+|-
+|3,600||||In Future Kemet, Travel SPD +15%
+|-
+|rowspan="3"|4||rowspan="3"|INTEL Network||1,200||||Per Kemet Apostle dominated, Snail AFFCT +6<br>Kemet Apostles Dominated: 18/18
+|-
+|2,400||||Per Kemet Apostle dominated, Snail AFFCT +9<br>Kemet Apostles Dominated: 18/18
+|-
+|3,600||||Per Kemet Apostle dominated, Snail AFFCT +12<br>Kemet Apostles Dominated: 18/18
+|-
+|rowspan="3"|5||rowspan="3"|Impact Mining Field||4,800||rowspan="3"|Available only in the future||Upgrade 1 Energy Stone Quarry to Green
+|-
+|9,600||Upgrade 1 Energy Stone Quarry to Blue
+|-
+|14,400||Upgrade 1 Energy Stone Quarry to Purple
+|-
+|rowspan="3"|6||rowspan="3"|Explosion Mine||4,800||rowspan="3"|Available only in the future||Upgrade 1 Granite Quarry Grid to Green
+|-
+|9,600||Upgrade 1 Granite Quarry Grid to Blue
+|-
+|14,400||Upgrade 1 Granite Quarry Grid to Purple
+|-
+|rowspan="3"|7||rowspan="3"|Battle EXP||4,800||||Per 10 Pyramid waveclears, Snail ATK +5<br>Waves Cleared: 120/120
+|-
+|9,600||||Per 10 Pyramid waveclears, Snail ATK +10<br>Waves Cleared: 120/120
+|-
+|14,400||||Per 10 Pyramid waveclears, Snail ATK +15<br>Waves Cleared: 120/120
+|-
+|rowspan="3"|8||rowspan="3"|Machine Mining Field||4,800||rowspan="3"|Available only in the future||Upgrade 1 Granite Quarry Grid to Green
+|-
+|9,600||Upgrade 1 Granite Quarry Grid to Blue
+|-
+|14,400||Upgrade 1 Granite Quarry Grid to Purple
+|-
+|rowspan="3"|9||rowspan="3"|Laser Mine||4,800||rowspan="3"|Available only in the future||Upgrade 1 Energy Stone Quarry to Green
+|-
+|9,600||Upgrade 1 Energy Stone Quarry to Blue
+|-
+|14,400||Upgrade 1 Energy Stone Quarry to Purple
+|-
+|rowspan="3"|10||rowspan="3"|Resonance Prism||12,000||||Future Pyramid energy DMG +100<br>Future Pyramid Anti-air DMG +100
+|-
+|24,000||||Future Pyramid energy DMG +200<br>Future Pyramid Anti-air DMG +200
+|-
+|36,000||||Future Pyramid energy DMG +300<br>Future Pyramid Anti-air DMG +300
+|-
+|rowspan="3"|11||rowspan="3"|The First Wall||12,000||||Future Pyramid DUR +1,000
+|-
+|24,000||||Future Pyramid DUR +2,000
+|-
+|36,000||||Future Pyramid DUR +3,000
+|-
+|rowspan="3"|12||rowspan="3"|Focused Pulse||12,000||||In Kemet, Super Energy Beam DMG +5%
+|-
+|24,000||||In Kemet, Super Energy Beam DMG +10%
+|-
+|36,000||||In Kemet, Super Energy Beam DMG +15%
+|-
+|rowspan="3"|13||rowspan="3"|Solid State Pump||12,000||||Future Pyramid magical DMG +100<br>Future Pyramid Anti-air +100
+|-
+|24,000||||Future Pyramid magical DMG +200<br>Future Pyramid Anti-air +200
+|-
+|36,000||||Future Pyramid magical DMG +300<br>Future Pyramid Anti-air +300
+|-
+|rowspan="3"|14||rowspan="3"|Memory Truss||12,000||||Obtain [[Kemet Pyramids#Modules|Memory Truss I module]]
+|-
+|24,000||||Upgrade to [[Kemet Pyramids#Modules|Memory Truss II module]]
+|-
+|36,000||||Upgrade to [[Kemet Pyramids#Modules|Memory Truss III modules]]
+|-
+|rowspan="3"|15||rowspan="3"|Laser Implosion||15,000||||Future Pyramid Parts can be upgraded to LVL 20
+|-
+|30,000||||Future Pyramid Parts can be upgraded to LVL 25
+|-
+|45,000||||Future Pyramid Parts can be upgraded to LVL 30
+|-
+|rowspan="3"|16||rowspan="3"|Wormhole Technology||15,000||||Obtain 2h Refine Speedup
+|-
+|30,000||||Obtain 6h Refine Speedup
+|-
+|45,000||||Obtain 8h Refine Speedup
+|-
+|rowspan="3"|17||rowspan="3"|Future Rebuild||15,000||||Obtain 5 Relic RF
+|-
+|30,000||||Obtain 10 Relic RF
+|-
+|45,000||||Obtain 15 Relic RF
+|-
+|rowspan="3"|18||rowspan="3"|UHV Railgun||15,000||||In Future Kemet, DMG +5%
+|-
+|30,000||||In Future Kemet, DMG +10%
+|-
+|45,000||||In Future Kemet, DMG +20%
+|-
+|rowspan="3"|19||rowspan="3"|Wonder Project||15,000||||Unlock Special Incident (Solar Tower Ruins)
+|-
+|30,000||||Unlock Special Incident (Mediterranean Sea Dam)
+|-
+|45,000||||Unlock Special Incident (Qattar Project Ruins)
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Kemet]]

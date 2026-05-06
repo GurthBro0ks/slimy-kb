@@ -1,0 +1,46 @@
+{{CargoRelic
+|name=Golden Trophy
+|rank=SS
+|affct=FAME
+|birthday=11-30
+|source=* Grandmaster Scrolls (1%), Lottery Machine (0.12%), Relic Forge (100 Relic RF), Wishing (0.11%)
+* Avatar Value Pack II ($49.99)
+|description=On Nov 30, 1941, the first Golden Trophy was awarded to the best actors of the ti me. 
+
+Designed by George Stanley, this iconic gold-plated statuette of a man holding a long sword is standing on a five-ring disc is awarded to encourage the production of an performance in excellent films. Covering a variety of genres, with more than 20 different awards, it is also the world's oldest award in entertainment and is the most coveted of movie awards around the world.
+
+[Basic Info]
+
+Height: 13.5 inches<br>Weight: 3.9kg<br>Price: $350<br>Material: Copper-tin alloy, gilded with 10k gold foil
+|fame=109
+|art=61
+|fth=53
+|civ=72
+|tech=67
+|ss1=Snail ATK +30<br>Per 100 Snail Avatar Score, Snail ATK +3<br>Per 100 Snail Avatar Score, Snail DEF +3<br>Avatar Score: 2,500/2,500
+|ss2=Snail ATK +40<br>Per 100 Snail Avatar Score, Snail ATK +4<br>Per 100 Snail Avatar Score, Snail DEF +4<br>Avatar Score: 2,500/2,500
+|ss3=Snail ATK +50<br>Per 100 Snail Avatar Score, Snail ATK +5<br>Per 100 Snail Avatar Score, Snail DEF +5<br>Avatar Score: 2,500/2,500
+|ss4=Snail ATK +70<br>Per 100 Snail Avatar Score, Snail ATK +7<br>Per 100 Snail Avatar Score, Snail DEF +7<br>Avatar Score: 2,500/2,500
+|ss5=Snail ATK +90<br>Per 100 Snail Avatar Score, Snail ATK +9<br>Per 100 Snail Avatar Score, Snail DEF +9<br>Avatar Score: 2,500/2,500
+|ss6=Snail ATK +120<br>Per 100 Snail Avatar Score, Snail ATK +12<br>Per 100 Snail Avatar Score, Snail DEF +12<br>Avatar Score: 2,500/2,500
+|ss7=Snail ATK +120<br>Per 100 Snail Avatar Score, Snail ATK +12<br>Per 100 Snail Avatar Score, Snail DEF +12<br>Avatar Score: 2,500/2,500<br>Snail ATK +100
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Green Reagent Drops +15%
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's FAME +15
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, Snail ATK +600
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Avatar Score Boost]]
+[[Category:Enhanced by Avatar Score]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:FAME Boost]]
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Hitman Boost]]
+[[Category:RUSH Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Rewards Organs]]

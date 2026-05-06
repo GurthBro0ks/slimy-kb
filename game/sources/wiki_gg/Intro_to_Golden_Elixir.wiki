@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Intro to Golden Elixir
+|class_id=22454
+|rank=Blue
+|affct=FAITH
+|birthday=06-25
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jun 25, 1349 AD, this ten-volume book was completed.<br>The Golden Elixir of Life, written by the Taoist priest Chen ZhiXu in the Yuan Dynasty, is a book of poetry that explains his interpretation of the ideas expressed in the Tao Te Ching, and the consequent theory of cultivating the Golden Elixir. The Golden Elixir mentioned in the book is not a pill made from heavy metals by ancient alchemists, but rather the inner alchemy, in which the essence, energy and spirit of a human are refined and transformed into the Golden Elixir. The author also explained the fusion of the Confucian, Buddhist and Taoist doctrines, claiming that all three derive from the Golden Elixir of Lao Tzu, which he considered to be the most fundamental practice for spiritual cultivation.
+|fame=24
+|art=38
+|fth=46
+|civ=20
+|tech=26
+|ss1=Snail RUSH +10
+|ss2=Snail RUSH +20
+|ss3=Snail RUSH +30
+|ss4=Snail RUSH +50
+|ss7=Snail RUSH +50<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Forestsanctum skill I.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +5%
+}}

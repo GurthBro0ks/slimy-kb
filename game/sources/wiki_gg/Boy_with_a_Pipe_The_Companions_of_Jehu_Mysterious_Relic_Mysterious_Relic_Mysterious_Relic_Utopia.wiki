@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Boy with a Pipe,The Companions of Jehu,Mysterious Relic,Mysterious Relic,Mysterious Relic,Utopia
+|rank=orange
+|amount=6
+|category=self
+|description=Per 30 Wormhole Refiners opened, Snail ATK +12; 1500/1500 Wormhole Refiners opened
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]

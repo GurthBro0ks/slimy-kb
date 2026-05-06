@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Myconid Realm
+|class_id=20967
+|rank=Green
+|affct=FAME
+|source=
+|description=The fantasy series created by the famous Myconid revolves around the ritual of the Three Damsels Myconid Realm and the Myconid magician Bai Tong. It tells the story of how they use their unique mycelium to perceive each other's existence, ultimately overcoming numerous difficulties and coming together...
+|fame=34
+|art=13
+|fth=16
+|civ=12
+|tech=15
+|ss1=+20% stats bonus through eating Orange Fungi<br>Snail ATK +20
+|ss2=+20% stats bonus through eating Orange Fungi<br>Snail ATK +40
+|ss3=+20% stats bonus through eating Orange Fungi<br>Snail ATK +60
+|ss4=+20% stats bonus through eating Orange Fungi<br>Snail ATK +60
+|ss7=+20% stats bonus through eating Orange Fungi<br>Snail ATK +60<br> (Awakened)
+}}

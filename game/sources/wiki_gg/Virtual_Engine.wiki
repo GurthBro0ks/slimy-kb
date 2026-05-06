@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Virtual Engine
+|class_id=20373
+|rank=Green
+|affct=TECH
+|source=
+|description=A new device developed by the Snail Clan, a core component in the construction of a virtual training environment. It also has a small power reactor that can serve as the backup energy source for the training device!
+|fame=14
+|art=17
+|fth=17
+|civ=12
+|tech=30
+|ss1=Per 10 Unknown Records read, Snail ATK +1<br>Unknown Records Read: 400/400
+|ss2=Per 10 Unknown Records read, Snail ATK +2<br>Unknown Records Read: 400/400
+|ss3=Per 10 Unknown Records read, Snail ATK +3<br>Unknown Records Read: 400/400
+|ss4=Per 10 Unknown Records read, Snail ATK +3<br>Unknown Records Read: 400/400
+|ss7=Per 10 Unknown Records read, Snail ATK +3<br>Unknown Records Read: 400/400<br> (Awakened)
+}}

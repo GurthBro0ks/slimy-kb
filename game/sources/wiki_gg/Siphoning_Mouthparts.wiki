@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Siphoning Mouthparts
+|type=Common
+|rank=purple
+|id=10838
+|idx=43
+|description=An organ unique to adult Lepidoptera, characterized by a beak that bends and extends to suck nectar, which can also suck the blood of living creatures!
+|skill=
+|hp=1330
+|def=166
+|atk=179
+|rush=153
+|gene1=Defeated Daily Hitmen drop +10 W-tads
+|gene2=Defeated Daily Hitmen drop +10% Demon Chests
+|gene3=Defeated Daily Hitmen drop +10 W-tads
+|gene4=Defeated Daily Hitmen drop +10% Demon Chests
+|gene7=Defeated Daily Hitmen drop +10% Demon Chests (Awakened)
+|}}

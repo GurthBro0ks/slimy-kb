@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Galton Board
+|class_id=22191
+|rank=AA
+|affct=TECH
+|birthday=06-21
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Jun 21, 1884 AD, the world's first Galton board was created, marking a historic achievement in the statistical experiment.<br>The Galton Board was invented by British scientist Galton. It consists of a wooden plank with iron nails evenly distributed on it, a vertical groove of equal width at the bottom, and a funnel-shaped entrance at the top. When throwing a small amount of balls into the entrance, the number of balls in each groove at the bottom will be randomly distributed; after putting in a large number of balls, the number of balls in each groove will appear to have a normal distribution. This experiment demonstrates the statistical laws and fluctuating phenomena of a large number of accidental incidents, and it clarifies the concepts of statistics and distribution in physics.
+|fame=45
+|art=31
+|fth=51
+|civ=34
+|tech=67
+|ss1=Per 10 Orange Orbs drawn, Snail DEF +2<br>Per 10 Orange Orbs drawn, Snail RUSH +2<br>Orange Orbs Drawn: 500/500
+|ss2=Per 10 Orange Orbs drawn, Snail DEF +3<br>Per 10 Orange Orbs drawn, Snail RUSH +3<br>Orange Orbs Drawn: 500/500
+|ss3=Per 10 Orange Orbs drawn, Snail DEF +4<br>Per 10 Orange Orbs drawn, Snail RUSH +4<br>Orange Orbs Drawn: 500/500
+|ss4=Per 10 Orange Orbs drawn, Snail DEF +6<br>Per 10 Orange Orbs drawn, Snail RUSH +6<br>Orange Orbs Drawn: 500/500
+|ss5=Per 10 Orange Orbs drawn, Snail DEF +8<br>Per 10 Orange Orbs drawn, Snail RUSH +8<br>Orange Orbs Drawn: 500/500
+|ss7=Per 10 Orange Orbs drawn, Snail DEF +8<br>Per 10 Orange Orbs drawn, Snail RUSH +8<br>Orange Orbs Drawn: 500/500<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Timemachine skill II.png|50px]]Place in Time Machine: This Relic's TECH +10
+|skill2=[[File:Timemachine skill II.png|50px]]Place in Time Machine: Generate Time Chests by +15%
+}}

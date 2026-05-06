@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Tanit Award
+|class_id=20553
+|rank=Green
+|affct=CIV
+|source=
+|description=To promote the development of the national film industry, the Carthage Film Festival is dedicated to expanding communication between African filmmakers and those from Asia, Latin America, and other countries. It also attracts foreign tourists to boost local tourism. The Golden Tanit Award is one of the main prizes and is only awarded to the most outstanding films and filmmakers.
+|fame=15
+|art=14
+|fth=13
+|civ=32
+|tech=16
+|ss1=Event Avatar rating cap raised to 6S+<br>Traveler Plus daily W-tads +10<br>Traveler Pro daily W-tads +10
+|ss2=Event Avatar rating cap raised to 6S+<br>Traveler Plus daily W-tads +20<br>Traveler Pro daily W-tads +20
+|ss3=Event Avatar rating cap raised to 6S+<br>Traveler Plus daily W-tads +30<br>Traveler Pro daily W-tads +30
+|ss4=Event Avatar rating cap raised to 6S+<br>Traveler Plus daily W-tads +30<br>Traveler Pro daily W-tads +30
+|ss7=Event Avatar rating cap raised to 6S+<br>Traveler Plus daily W-tads +30<br>Traveler Pro daily W-tads +30<br> (Awakened)
+}}

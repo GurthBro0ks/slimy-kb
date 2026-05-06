@@ -1,0 +1,26 @@
+{{Missing Info}}
+
+= Pumpkin Lucky Night =
+[[File:Pumpkin Lucky Night Poster.png|200px|left|alt=Pumpkin Lucky Night]]
+Oct. 25 - Oct. 31 2024
+
+'''Official News Announcement:''' https://snail-na.qcplay.com/official/news-details.html?id=97
+{{Clear}}
+
+The player collects {{RewardIconWithText|Pumpkin Key}}s to open Magic Chests and draw rewards. Every {{RewardIconWithText|Pumpkin Key}} rewards {{RewardIconWithText|Pumpkin Coin}}s +50 and more can be earned through draws and other reward packs. The {{RewardIconWithText|Pumpkin Coin}}s can then be used to buy items in the Pumpkin Shop. 
+
+In packs and randomly from the Magic Chests you can be rewarded {{RewardIconWithText|Candy Cane (Currency)}}. {{RewardIconWithText|Candy Cane (Currency)}} can be spent at the Mysterious Hut depending on the amount of draws at the Magic Chest.
+
+= Relic Rewards =
+* {{RewardIconWithLink|Halloween Choice Pack|orange}}
+* {{RewardIconWithLink|Turnip Lamp|green}}
+
+= Robot Rewards =
+* {{RewardIconWithLink|Nutcracker Jack|orange|Robots}}
+* {{RewardIconWithLink|Robot Ticket|orange}}
+
+= Shell Rewards =
+* {{RewardIconWithLink|Katrina Skeleton|purple}}
+* {{RewardIconWithLink|Vampire Bat|purple}}
+
+[[Category:Events]]

@@ -1,0 +1,34 @@
+{{CargoRelic
+|name=Tao Te Ching
+|class_id=22313
+|rank=SSS
+|affct=CIV
+|birthday=08-17
+|source=Lottery Machine No.2 (0.11%)
+|description=On Aug 17, 485 BC, Laozi recorded the classic Tao Te Ching at Hangu Pass.<br>Tao Te Ching is the first complete philosophical work in Chinese history. According to legend, Laozi rode westward on a water buffalo and was recognized by the guard Yinxi, who asked him to record his wisdom for the good of the country before letting him pass. Tao Te Ching is a short text of around 5000 Chinese characters in 81 brief chapters. Originally divided into two parts, the Tao Ching (chapters 1-37) and the Te Ching (chapters 38-81), it describes the speculations on metaphysics, polity, and morality of the old philosopher.
+[Quotes]
+The Tao that can be told of is not absolute Tao.
+Out of Tao, One is born; Out of One, Two; Out of Two, Three; Out of Three, the universe is created.
+Nature is unkind, it treats the creation like sacrificial straw dogs.
+|fame=79
+|art=68
+|fth=60
+|civ=109
+|tech=46
+|ss1=Snail DEF +30<br>Dragon Minion DEF +3%<br>In the Demon God Rocket Cabin:<br>> All device base effects +3%
+|ss2=Snail DEF +40<br>Dragon Minion DEF +4%<br>In the Demon God Rocket Cabin:<br>> All device base effects +4%
+|ss3=Snail DEF +50<br>Dragon Minion DEF +5%<br>In the Demon God Rocket Cabin:<br>> All device base effects +5%
+|ss4=Snail DEF +70<br>Dragon Minion DEF +7%<br>In the Demon God Rocket Cabin:<br>> All device base effects +7%
+|ss5=Snail DEF +90<br>Dragon Minion DEF +9%<br>In the Demon God Rocket Cabin:<br>> All device base effects +9%
+|ss6=Snail DEF +120<br>Dragon Minion DEF +12%<br>In the Demon God Rocket Cabin:<br>> All device base effects +12%
+|ss7=Snail DEF +120<br>Dragon Minion DEF +12%<br>In the Demon God Rocket Cabin:<br>> All device base effects +12%<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +3%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15
+|mirage={{Mirage|name=Legend of Laozi|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Pass for Hangu|3rec=54.97M|3atk=181719|3defense=121232|3hp=8921756|3weak=22749
+|4name=Taoist Yinxi|4rec=67.44M|4atk=208015|4defense=138775|4hp=11266403|4weak=27167
+|5name=Green Bull|5rec=81.06M|5atk=236736|5defense=157936|5hp=14257773|5weak=31086
+|6name=Taoist Creator|6rec=95.74M|6atk=267697|6defense=178591|6hp=17520510|6weak=33706
+|Arec=111.80M|Aatk=301562|Adefense=201184|Ahp=21669396|Aweak=36422
+}}}}

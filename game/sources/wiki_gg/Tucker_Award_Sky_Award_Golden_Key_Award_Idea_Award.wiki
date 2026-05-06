@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=771
+|relics=Tucker Award,Sky Award,Golden Key Award,Idea Award
+|rank=orange
+|amount=4
+|category=self
+|description=Home Decor Inc, Series C Decor Coin Dividend +9%
+}}

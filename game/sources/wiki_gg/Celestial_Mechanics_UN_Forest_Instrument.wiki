@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=780
+|relics=Celestial Mechanics,UN Forest Instrument
+|rank=orange
+|amount=2
+|category=self
+|description=Per 2 fully unlocked Tactical Logs, Snail RUSH +7;Tactical Logs unlocked: 100/100
+}}

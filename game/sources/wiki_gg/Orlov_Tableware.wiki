@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Orlov Tableware
+|class_id=22774
+|rank=SSS
+|affct=FAME
+|source=
+|description=Orlov Tableware, custom-made for Russian Empress Catherine the Great, is hailed as the most luxurious tableware set in 18th-century Europe, unique in size and type. This tableware was bestowed by the Empress to her favored courtiers, witnessing the glorious period of the Russian Empire, blending classical art with Rococo style, showcasing high artistic value. It reflects the luxury of the Russian court at the time, the cultural exchange between Russia and Europe, becoming an important link in international cultural exchange, and a symbol of the power and wealth of the Russian Empire.
+|fame=109
+|art=59
+|fth=48
+|civ=73
+|tech=73
+|ss1=Unicorn Express Supply Order Cap +30<br>Flavor +1.5%<br>Per 3 Cooking Utensil LVLs, Snail ATK +9<br>Cooking Utensil LVL: 60/60
+|ss2=Unicorn Express Supply Order Cap +40<br>Flavor +2%<br>Per 3 Cooking Utensil LVLs, Snail ATK +12<br>Cooking Utensil LVL: 60/60
+|ss3=Unicorn Express Supply Order Cap +50<br>Flavor +2.5%<br>Per 3 Cooking Utensil LVLs, Snail ATK +15<br>Cooking Utensil LVL: 60/60
+|ss4=Unicorn Express Supply Order Cap +70<br>Flavor +3.5%<br>Per 3 Cooking Utensil LVLs, Snail ATK +21<br>Cooking Utensil LVL: 60/60
+|ss5=Unicorn Express Supply Order Cap +90<br>Flavor +4.5%<br>Per 3 Cooking Utensil LVLs, Snail ATK +27<br>Cooking Utensil LVL: 60/60
+|ss6=Unicorn Express Supply Order Cap +120<br>Flavor +6%<br>Per 3 Cooking Utensil LVLs, Snail ATK +36<br>Cooking Utensil LVL: 60/60
+|ss7=Unicorn Express Supply Order Cap +120<br>Flavor +6%<br>Per 3 Cooking Utensil LVLs, Snail ATK +36<br>Cooking Utensil LVL: 60/60<br>Flavor +5% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Extra RUSH DMG +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, AFFCT Checks -150
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +6%
+|mirage={{Mirage|name=Art on the Dining Table|reward={{RewardIconWithLink|Supply Deal, +10|orange}}
+|3name=Orlov Spoon|3rec=8.58M|3atk=74987|3defense=50081|3hp=1437176|3weak=14999
+|4name=Orlov Fork|4rec=14.95M|4atk=100894|4defense=67383|4hp=2373631|4weak=18375
+|5name=Orlov Knife|5rec=31.41M|5atk=131894|5defense=88087|5hp=3807222|5weak=22084
+|6name=Orlov Chopsticks|6rec=48.71M|6atk=168337|6defense=112425|6hp=5980400|6weak=27717
+|Arec=68.78M|Aatk=210618|Adefense=140662|Ahp=8915636|Aweak=31898
+}}}}

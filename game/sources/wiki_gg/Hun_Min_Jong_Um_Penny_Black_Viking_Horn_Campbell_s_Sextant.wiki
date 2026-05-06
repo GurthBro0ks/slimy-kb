@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=68
+|relics=Hun Min Jong Um,Penny Black,Viking Horn,Campbell's Sextant
+|rank=blue
+|amount=4
+|category=self
+|description=Per 20 Green Orbs drawn, Snail ATK +14;Green Orbs Drawn: 300/300
+}}

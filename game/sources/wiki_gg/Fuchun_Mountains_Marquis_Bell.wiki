@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Fuchun Mountains,Marquis Bell
+|rank=purple
+|amount=2
+|category=self
+|description=Per 20 Purple Beads drawn, Snail HP +120<br>Purple Beads Drawn: 300/300
+}}
+[[Category:Self]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Lottery Draws]]

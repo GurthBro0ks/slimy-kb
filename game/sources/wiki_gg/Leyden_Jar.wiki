@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Leyden Jar
+|class_id=22190
+|rank=A
+|affct=TECH
+|birthday=03-07
+|source=Lottery Machine No.2 (0.55%), Wishing (0.15%)
+|description=On Mar 7, 1752 AD, the Leyden Jar was created and used as a crude power source.<br>A Leyden Jar is a device used to store static electricity. As a primitive form of capacitor, it was once an important source of power for electrical experiments. The famous Franklin kite experiment used the Leyden Jar to collect the current on the kite line and then verify that its nature is the same as the artificially obtained current after other experiments. The advent of the Leyden Jar marked the start of electrical-related research and laid the foundation for humanity to later enter the electrical age.
+|fame=41
+|art=33
+|fth=45
+|civ=32
+|tech=62
+|ss1=Per 30 Mecha Minions in battle:<br>> Troop RUSH +4<br>Per AR2-T4 owned, Snail ATK +1<br>AR2-T4s Owned: 50/50
+|ss2=Per 30 Mecha Minions in battle:<br>> Troop RUSH +8<br>Per AR2-T4 owned, Snail ATK +2<br>AR2-T4s Owned: 50/50
+|ss3=Per 30 Mecha Minions in battle:<br>> Troop RUSH +12<br>Per AR2-T4 owned, Snail ATK +3<br>AR2-T4s Owned: 50/50
+|ss4=Per 30 Mecha Minions in battle:<br>> Troop RUSH +20<br>Per AR2-T4 owned, Snail ATK +5<br>AR2-T4s Owned: 50/50
+|ss5=Per 30 Mecha Minions in battle:<br>> Troop RUSH +28<br>Per AR2-T4 owned, Snail ATK +7<br>AR2-T4s Owned: 50/50
+|ss7=Per 30 Mecha Minions in battle:<br>> Troop RUSH +28<br>Per AR2-T4 owned, Snail ATK +7<br>AR2-T4s Owned: 50/50<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Arena skill II.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail HP +600
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, food consumed -2%
+}}

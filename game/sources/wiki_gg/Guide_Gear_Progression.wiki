@@ -1,0 +1,328 @@
+= Gear Guide =
+
+This guide assumes you have read through [[Gear]] and the associated Guide on that page.  This guide is primarily targeted for mid-to-late game players who are trying to figure out how to prioritize their usage of {{RewardIconWithGearlink|red|Material|Amulet of Will}} / {{RewardIconWithGearlink|orange|Material|Crystal of Will}} / {{RewardIconWithGearlink|orange|Material|Eye of Horus}} for gear upgrades.
+
+For more information on how Combat Damage is calculated, see: ''[[CombatDamage|Combat Damage]]''
+
+== General Tips for Gear ==
+
+=== 1) Percent Boosts are better than flat stat boosts ===
+
+An improvement of +2% Ignore DEF is better than a flat increase to ATK.  This is because in the long term, enemies will have greater and greater DEF stats.  A flat increase of +1000 ATK is not as good as lowering an enemy with DEF of 100K by 2%.  This lowering of DEF will increase the final DMG done by 2K rather than the 1K flat attack boost.  As you progress further and further in the game, the % boosts become stronger and stronger.
+
+<blockquote style="border-left: 4px solid #aaaaaa; margin-left: 0;">
+'''Example:'''<br>
+Let's take the final battle with [[Mailbox#Ratman|Ratman]] as an example.  
+
+Assumptions:
+# You have enough {{RewardIconWithGearlink|orange|Material|Eye of Horus}} and {{RewardIconWithGearlink|orange|Material|Crystal of Will}} to make a single +2 piece of gear.  
+# You have all the base gear to make either {{RewardIconWithGearlink|red|Instrument|Norris-chuck}} +2, or {{RewardIconWithGearlink|red|Instrument|Excalibur EX}} +2
+# Your Snail has a base ATK of 50,000 when you have two empty gear slots that will be filled with {{RewardIconWithGearlink|red|Instrument|Norris-chuck}} and {{RewardIconWithGearlink|red|Instrument|Excalibur EX}}.
+# For simplicity, we're ignoring the different calculations for Elemental DMG, and instead just treating it as straight ATK.
+
+'''Comparing the two scenarios below, you can see that the 2% higher Ignore DEF boost provides more final DMG than the additional 690 flat ATK.  The benefits of the % boosts only become greater and greater as you progress.'''
+
+<blockquote style="border-left: 4px solid #aaaaaa; margin-left: 0;">
+'''Scenario 1:'''<br>
+
+{{RewardIconWithGearlink|red|Instrument|Excalibur EX}} +2, grants 600 ATK from base stats, and +270 ATK from its effect, plus +270 Fire, Water, Earth, and Wind DMG. (Total: +1950 ATK for simplicity)<br>
+{{RewardIconWithGearlink|red|Instrument|Norris-chuck}} +0, grants 300 ATK from base stats, and Ignore DEF +12% from its effects.<br>
+
+Ratman's Defense: 45,190 - (45,190 * .12) = 39,767 <br>
+Gear +ATK: +2,250 = 1950 + 300<br>
+'''Total DMG: 12,483''' = 50,000 + 2,250 - 39,767<br>
+</blockquote>
+
+<blockquote style="border-left: 4px solid #aaaaaa; margin-left: 0;">
+'''Scenario 2:'''<br>
+
+{{RewardIconWithGearlink|red|Instrument|Excalibur EX}} +0, grants 300 ATK from base stats, and +240 from its effect.<br>
+{{RewardIconWithGearlink|red|Instrument|Norris-chuck}} +2, grants 600 ATK from base stats, and +420 Earth DMG and Ignore DEF +14% from its effects.<br>
+
+Ratman's Defense: 45,190 - (45,190 * .14) = 38,864 (rounded up)<br>
+Gear +ATK: +1,560 = 1020 + 540<br>
+'''Total DMG: 12,696''' = 50,000 + 1,560 - 38,864<br>
+</blockquote>
+
+</blockquote>
+
+=== 2) Its better to have a +2 of an S-Tier gear than two +1's of any tier ===
+
+This is because +1 gear only combines the effects of the two gears, and does not improve the effects.  For almost all gear, only one of the two effects is really S-Tier, so combining gear does not provide a major benefit.  Improving the effects at +2 (and beyond) is how you really improve gear.
+
+<blockquote style="border-left: 4px solid #aaaaaa; margin-left: 0;">
+'''Example:'''<br>
+{{RewardIconWithGearlink|red|Instrument|Norris-chuck}} +0 has the effect '''Ignore enemy DEF +12%''', combining it with {{RewardIconWithGearlink|red|Instrument|Cretaceous Weapon}} +0 does not improve the '''Ignore enemy DEF +12%''' (which is the S-Tier effect).  Once it reaches +2, the effect will increase to '''Ignore enemy DEF +14%''' - which is worth the extra {{RewardIconWithGearlink|orange|Material|Eye of Horus}} and {{RewardIconWithGearlink|orange|Material|Crystal of Will}}s.
+</blockquote>
+
+=== 3) Reset your gear ===
+
+You will have a limited number of EoH and AoW (unless you're a super-whale).  It is best to periodically dismantle your gear to switch between Farming and Progression setups.  It costs 100 W-Tads to dismantle gear into its parts.  You '''DO NOT''' lose any Glue, B-Tads, Orange Reagent, etc when dismantling.  You just lose the 100 W-Tads price to dismantle gear by 1 Tier.
+
+<blockquote style="border-left: 4px solid #aaaaaa; margin-left: 0;">
+'''Example:'''<br>
+You currently have {{RewardIconWithGearlink|red|Armor|Fortress}} +2 being used for Progression, and {{RewardIconWithGearlink|red|Realm|The Great Scientist}} +0 in your inventory.  You want to switch from Progression gear to Farming gear for the next week.  You can spend 200 W-Tads to dismantle {{RewardIconWithGearlink|red|Armor|Fortress}} from +2 to +0 (100 W-Tads to go from +2 to +1, another 100 W-Tads to go from +1 to +0), then use the B-Tads, Glue, {{RewardIconWithGearlink|red|Material|Amulet of Will}} from dismantling from (+1 to +0), and {{RewardIconWithGearlink|red|Material|Amulet of Will}} +1 (from dismantling from +2 to +1) to upgrade your {{RewardIconWithGearlink|red|Realm|The Great Scientist}} to +2.
+</blockquote>
+
+== Exploration Progression ==
+
+If you are trying to push your level in explorations (not domination, but pushing to beat new bosses), you will want to focus on ATK and overall stats.  Many of the "First round" bonuses are not really needed because you're not focusing on domination.<br>
+
+Below are the generally accepted Tiers and Priorities for Gear.  There are tables for [[#Farming_Gear|Farming Gear]], [[#Form_Gear|Form-Specific Gear]], [[#Red_+0_Tier_List|Red +0 Gear]], and [[#Red_+2_(and_Beyond)_Tier_List|Red +2 (and beyond) Gear]].  Generally you should avoid +1 gear because it just combines two effects on the same piece of gear, and almost all gear has one good effect and one ok/not-great effect at the +1 level.  From +2 and beyond, the good effect starts to increase.  So its better to invest your {{RewardIconWithGearlink|red|Material|Amulet of Will}} / {{RewardIconWithGearlink|orange|Material|Crystal of Will}} / {{RewardIconWithGearlink|orange|Material|Eye of Horus}} into one +2 gear rather than two +1 gears.  You can still equip the Red gear that has the good effects at +0.<br>
+
+Remember that you will always want to also include the '''Orange/Red''' gear for the domain you are exploring in addition to the gear listed below.  The Realm gear is considered S-Tier because it include a '''DMG +N%''' effect for the domain.<br>
+
+=== Choosing a Realm Trait for Exploration Progression ===
+
+Options:
+# {{RewardIconWithLink|Sacred Mirror}}
+# {{RewardIconWithLink|Cosmos}}
+
+General Recommendation: {{RewardIconWithLink|Sacred Mirror}}
+
+For progression you should '''''generally''''' be using {{RewardIconWithLink|Sacred Mirror}}.  There are some scenarios where {{RewardIconWithLink|Cosmos}} is better, but as an all-around choice, go for {{RewardIconWithLink|Sacred Mirror}}.  If you are really close to defeating an apostle, but not quite there with {{RewardIconWithLink|Sacred Mirror}} try {{RewardIconWithLink|Cosmos}} on your next run.<br>
+
+=== Choosing a Form for Exploration Progression ===
+
+There are really two choices of Forms here: '''Dragon''' and '''Zombie'''.  Typically '''Dragon''' is considered the best form (even if its a Tier below your '''Zombie''' tier) due to the stats boosts it provides.  However if you use '''Zombie''' Form with the form weapon {{RewardIconWithGearlink|red|Form|Serket Staff}}, you get a significant boost to the '''Ignore DEF %''' when in Zombie form.  This can make the difference in many fights.
+
+=== Choosing Gear for Exploration Progression ===
+
+You have 12 slots to fill.  You will want to reserve 1 slot for Realm Gear (it will include a DMG +N% bonus for the realm).  You will then want to prioritize Getting as may God/S-Tier +2's and beyond as you can, while still filling out the rest of your gear with Red (+0) gear.  You may want to choose having 1-2 orange gear and one more +2 gear, rather than having all Red (+0) gear and one less +2.  Really this is a balancing act and you'll want to do some trial and error.  
+
+'''Ideal 12 Gear Slots:'''
+
+# {{RewardIconWithGearlink|red|Realm|Time Wanderer}} (or realm-specific gear if you do not have Time Wanderer yet)
+# {{RewardIconWithGearlink|red|Instrument|Strength Master's Sword}} (+0 — if you have +1 or beyond great)
+# {{RewardIconWithGearlink|red|Instrument|Norris-chuck}} (+2 or beyond)
+# {{RewardIconWithGearlink|red|Form|Excaladbolg}} (+2 or beyond for Dragon form.  '''If you have this, you should only be using Dragon form.''')
+# {{RewardIconWithGearlink|red|Instrument|Big Bounce}} (+2 or beyond)
+# {{RewardIconWithGearlink|red|Instrument|Poseidon's Trident}} (+2 or beyond)
+# {{RewardIconWithGearlink|red|Instrument|Golden Drazgul Fang}} (+2 or beyond -- if you have purchased it, if not skip this one)
+# {{RewardIconWithGearlink|red|Armor|Fortress}} (+2 or beyond -- personal tradeoff between leaving this at +0 and making {{RewardIconWithGearlink|red|Instrument|Norris-chuck}} +3)
+# {{RewardIconWithGearlink|red|Instrument|Excalibur EX}} (+0 is fine, if you've got multiple +3's or a +4 and some +3's, start thinking about making this +2)
+# {{RewardIconWithGearlink|red|Instrument|Power Spinach}} (+0 is fine, if you've got multiple +3's or a +4 and some +3's, start thinking about making this +2)
+# {{RewardIconWithGearlink|red|Instrument|Incredible Key}} (+0 is fine, if you've got multiple +3's or a +4 and some +3's, start thinking about making this +2)
+# Form Gear
+#* Dragon Form: {{RewardIconWithGearlink|red|Form|Excaladbolg}} (+ as high as you can).  If you don't havet Excaladbolg, then {{RewardIconWithGearlink|red|Form|Claw of Destruction}} (+0) or {{RewardIconWithGearlink|red|Form|Fang of Tiamat}} (+1 or better)
+#* Zombie Form: {{RewardIconWithGearlink|red|Form|Soul Walking}} (+0) or {{RewardIconWithGearlink|red|Form|Serket Staff}}	(+1 or better)
+
+'''To fill the remaining slot(s), choose from the following:'''
+
+# {{RewardIconWithGearlink|red|Armor|Dracula Cape}} (+0)
+# {{RewardIconWithGearlink|red|Armor|Traveler Outfit}} (+0)
+# {{RewardIconWithGearlink|red|Armor|Grandpire's Robe}} (+0)
+# {{RewardIconWithGearlink|red|Instrument|Million Volts}} / {{RewardIconWithGearlink|red|Instrument|District 9}} / {{RewardIconWithGearlink|red|Instrument|Cretaceous Weapon}} / {{RewardIconWithGearlink|red|Instrument|Hydra's Gloves}}
+#* These should be combined to +2 ASAP, but if you don't have the other gear, +0 is fine
+
+== Exploration Domination ==
+
+=== Choosing a Realm Trait for Exploration Domination ===
+
+Options:
+# {{RewardIconWithLink|Supreme Warlord, a.k.a Lu Bu}}
+# {{RewardIconWithLink|Sacred Mirror}}
+
+General Recommendation: {{RewardIconWithLink|Supreme Warlord, a.k.a Lu Bu}}
+
+For domination you should '''''generally''''' be using {{RewardIconWithLink|Supreme Warlord}}.  His extra hits can make the difference between a 4 round fight and a 3 round fight.  If he dies too early (1st or 2nd round), then you will want to try again with {{RewardIconWithLink|Sacred Mirror}}.
+
+=== Choosing a Form for Domination ===
+
+Options:
+# {{RewardIcon|Dragon Form Icon}} Dragon Form
+# {{RewardIcon|Zombie Form Icon}} Zombie Form
+
+General Recommendation: Depends on Gear
+
+Dragon is the best all-around form, especially if you already have {{RewardIconWithGearlink|red|Form|Excaladbolg}}.  If you don't have Excaladbolg, then Zombie can be God tier with the additional Ignore DEF % from {{RewardIconWithGearlink|red|Form|Serket Staff}}.
+
+=== Choosing Gear for Exploration Domination ===
+
+When choosing gear for domination runs, it all comes down to damage output for the first 3 rounds.  You should sacrifice all DEF / HP in favor of ELMT DMG, ATK, and RUSH.
+
+Stats Priority: <code>ELMT DMG > ATK > RUSH</code>
+
+If you're trying to dominate an apostle, you will have spotted the enemy's weakness and do rush DMG as well.  Since ELMT DMG applies to both regular and rush attacks, it is the highest priority.  RUSH is lowest priority because depending on the defense of your opponent and your own RUSH stat, you may end up defaulting to the minimum (5%).  (''If you want to dive deep into combat stats, see: [[CombatDamage|Combat Damage]]'')
+
+You have 12 gear slots to fill.  You will want to reserve 1 slot for Realm Gear (it will include a DMG +N% bonus for the realm).  You will then want to prioritize as may God/S-Tier +2's and beyond as you can, while still filling out the rest of your gear with Red (+0) gear.  You may want to choose having 1-2 orange gear and one more red +2 gear, rather than having all Red +0 gear and one less +2.  Really this is a balancing act and you'll want to do some trial and error.  
+
+'''Ideal 12 Gear Slots:'''
+
+# {{RewardIconWithGearlink|red|Realm|Time Wanderer}} (or realm-specific gear if you do not have Time Wanderer yet)
+# {{RewardIconWithGearlink|red|Instrument|Strength Master's Sword}} (+0 — if you have +1 or beyond great)
+# {{RewardIconWithGearlink|red|Instrument|Norris-chuck}} (+2 or beyond)
+# {{RewardIconWithGearlink|red|Form|Excaladbolg}} (+ as high as you can.  '''Dragon form gear''').
+# {{RewardIconWithGearlink|red|Instrument|Big Bounce}} (+2 or beyond)
+# {{RewardIconWithGearlink|red|Instrument|Poseidon's Trident}} (+2 or beyond)
+# {{RewardIconWithGearlink|red|Instrument|Golden Drazgul Fang}} (+2 or beyond -- if you have purchased it, if not skip this one)
+#* Or {{RewardIconWithGearlink|red|Instrument|Septreasure Peacock Quill}} if you have that but have not purchased {{RewardIconWithGearlink|orange|Instrument|Drazgul Fang}}.
+# {{RewardIconWithGearlink|red|Instrument|Excalibur EX}} (+0 is fine, if you've got multiple +3's or a +4 and some +3's, start thinking about making this +2)
+# {{RewardIconWithGearlink|red|Instrument|Power Spinach}} (+0 is fine, if you've got multiple +3's or a +4 and some +3's, start thinking about making this +2)
+# {{RewardIconWithGearlink|red|Instrument|Incredible Key}} (+0 is fine, if you've got multiple +3's or a +4 and some +3's, start thinking about making this +2)
+# Form Gear
+#* Zombie Form: {{RewardIconWithGearlink|red|Form|Soul Walking}} (+0) or {{RewardIconWithGearlink|red|Form|Serket Staff}}	(+1 or better)
+#* Dragon Form: {{RewardIconWithGearlink|red|Form|Excaladbolg}} (+ as high as you can.).  If you don't have {{RewardIconWithGearlink|red|Form|Excaladbolg}}, {{RewardIconWithGearlink|red|Form|Claw of Destruction}} (+0) or {{RewardIconWithGearlink|red|Form|Fang of Tiamat}} (+1 or better)
+
+'''To fill the remaining slot(s), choose from the following:'''
+# {{RewardIconWithGearlink|red|Instrument|Million Volts}} / {{RewardIconWithGearlink|red|Instrument|District 9}} / {{RewardIconWithGearlink|red|Instrument|Cretaceous Weapon}} / {{RewardIconWithGearlink|red|Instrument|Hydra's Gloves}}
+#* These should be combined to +2 ASAP, but if you don't have the other gear, +0 is fine
+# {{RewardIconWithGearlink|red|Instrument|Empress Gloves}} (+0)
+# {{RewardIconWithGearlink|red|Instrument|Empress' Slippers}} (+0)
+# Gear with highest ATK from [[#Red_+0_Tier_List|Red +0 Tier List]]
+#* Ex: {{RewardIconWithGearlink|red|Instrument|True Sakabato}} / {{RewardIconWithGearlink|red|Instrument|Blair's Curse}} / {{RewardIconWithGearlink|red|Instrument|Virtual Vision}}
+
+== Home Battles ==
+
+For Home battles, all of the advice and guidance under [[#Exploration_Progression|Exploration Progression]] applies, with the exception of using any Realm gear.  Remove that from your build, change your compass relics and you're good to go.
+
+== Farming ==
+
+'''Note:''' If you're farming for an extended period of time, consider dismantling some of your progression gear to increase the rank of your Farming gear.  You don't want to miss out on the additional Travel SPD, Cells, Time Chests, etc from upgrading your farming gear.
+
+When choosing a farming Gear setup:
+
+# Equip [[#Farming_Gear|'''ALL''' farming gear]]
+#* See notes on {{RewardIcon|The Great Collector}}{{Relink|The Great Collector|red|#Farming_Gear}} and {{RewardIcon|Overlord's Hook}}{{Relink|Overlord's Hook|red|#Farming_Gear}} for exceptions
+# Choose a piece of [[#Form_Gear|Form-Specific gear]] that aligns with your farming needs.
+# Consider equipping Realm-specific Gear (provides INTEL +% if needed and DMG +%)
+# Equip your [[#Exploration_Progression|best gear for progression]] to fill the remaining slots.
+
+= Gear Tier Tables =
+
+Within a tier, priority order can be debated.  In some battles one piece of gear may be better than others, so use your judgement and trial-and-error to see what works best for a particular battle.
+
+== Red +2 (and Beyond) Tier List ==
+
+{| class="wikitable"
+|+ +1's don't give extra boosts to the primary benefits, so it is best to move straight from Red (+0) to +2.
+|-
+! Tier !! Priority !! Image !! Name !! Primary Benefit !! Notes
+|-
+| style=background-color:var(--red-bg); | God || 0 || style=background-color:var(--red-bg); |[[File:Strength Master's Sword.png|frameless|75x75px]] || Strength Master's Sword || DMG +%, For Round 1, DMG +% || At +1 and beyond the DMG boost applies outside of explorations too.
+|-
+| style=background-color:var(--orange-bg); | S || 1 (tied) || style=background-color:var(--red-bg); |[[File:Norris-chuck.png|frameless|75x75px]] || Norris-chuck || Ignore DEF % boost || Also adds flat Earth DMG boost and Ignore Earth RES.
+|-
+| style=background-color:var(--orange-bg); | S || 1 (tied) || style=background-color:var(--red-bg); |[[File:Excaladbolg.png|frameless|75x75px]] || Excaladbolg || Ignore DEF % boost || Also adds Ignore Earth|Wind|Fire|Water DEF.
+|-
+| style=background-color:var(--orange-bg); | S || 2 || style=background-color:var(--red-bg); |[[File:Big_Bounce.png|frameless|75x75px]] || Big Bounce || CRIT +%, CRIT DMG +% || Also adds flat Fire DMG boost and Ignore Fire RES.
+|-
+| style=background-color:var(--orange-bg); | S || 3 || style=background-color:var(--red-bg); |[[File:Poseidon%27s_Trident.png|frameless|75x75px]] || Poseidon's Trident || CRIT DMG +% || Also adds flat Water DMG boost, Ignore Water RES, and Lifesteal Effect +%
+|-
+| style=background-color:var(--orange-bg); | S || 4 || style=background-color:var(--red-bg); |[[File:Golden_Drazgul_Fang.png|frameless|75x75px]] || Golden Drazgul Fang || + CRIT % || '''This is a P2W/P2P item.  Skip it if you dont have it.'''<br><br>Flat Poison DMG bonus is also useful, as there is no Poison RES in the game.  At +1 and beyond, it also has useful effects for domination.
+|-
+| style=background-color:var(--orange-bg); | S || 4 || style=background-color:var(--red-bg); |[[File:Fortress.png|frameless|75x75px]] || Fortress || + DMG REDUC % || Reduces the final DMG taken (after taking into account DEF, etc).  This is the only useful Armor for most battles (except for Arena and Gene Sim).
+|-
+| style=background-color:var(--yellow-bg); | A || 5 || style=background-color:var(--red-bg); |[[File:Excalibur_EX.png|frameless|75x75px]] || Excalibur EX || + ATK (flat) || Even though it is a flat increase, it has the largest increase, including Elemental DMG as it is upgraded.
+|-
+| style=background-color:var(--yellow-bg); | A || 6 || style=background-color:var(--red-bg); |[[File:Power_Spinach.png|frameless|75x75px]] || Power Spinach || Each Round, flat +ATK<br>Each Round, flat +RUSH || Also adds flat Water DMG boost and Ignore Water RES.
+|-
+| style=background-color:var(--yellow-bg); | A || 7 || style=background-color:var(--red-bg); |[[File:Incredible_Key.png|frameless|75x75px]] || Incredible Key || All ELMT DMG + (flat), All RES + (flat) || '''This is a P2W/P2P item.  Skip it if you dont have it.'''<br><br>Also adds flat Ignore all RES, and HIT +% (Hit +% doesn't scale well outside of PvP as most opponents counter this).
+|-
+| style=background-color:var(--blue-bg); | B || 8 || style=background-color:var(--red-bg); |[[File:Traveler_Outfit.png|frameless|75x75px]] || Traveler Outfit || Dodge +% || Useful for Gene SIM and Arena.  Usefulness drops of for many battles as enemies have HIT +% which mitigates Dodge.
+|-
+| style=background-color:var(--blue-bg); | B || 9 || style=background-color:var(--red-bg); |[[File:Dracula_Cape.png|frameless|75x75px]] || Dracula Cape || Lifesteal Rate +%<br>Lifesteal Effect +% || Useful to stay alive longer in close fights.
+|-
+| style=background-color:var(--blue-bg); | B || 10 || style=background-color:var(--red-bg); |[[File:Ring_of_Paralysis.png|frameless|75x75px]] || Ring of Paralysis || Paralyze enemy by +% || Paralize bonus is mitigated in most late-game battles, so usefulness drops over time.
+|-
+| style=background-color:var(--green-bg); | C || 11 || style=background-color:var(--red-bg); |[[File:Know-It-All_Device.png|frameless|75x75px]] || Know-It-All Device || + Extra RUSH DMG (flat) || Provides flat bonus stats and DMG when you have RUSH (spot a weakness).  Flat stats dont scale well, and mid-late game the usefulness drop off.
+|-
+| style=background-color:var(--green-bg); | C || 12 || style=background-color:var(--red-bg); |[[File:Amulet_of_Will.png|frameless|75x75px]] || Amulet of Will || '''None''' || Only provides base stats.  Really this should only be used to upgrade other items.
+|-
+| style=background-color:var(--white-bg); | F (Trash) || &infin; || style=background-color:var(--red-bg); |[[File:The_Great_Entertainer.png|frameless|75x75px]] || The Great Entertainer || Bonus AFFCT || Generally Trash.  If you need additional AFFCT to get RUSH on an enemy, use the Orange gear for a single battle.
+|}
+
+== Red +0 Tier List ==
+
+{| class="wikitable"
+|+ Use this table to prioritize filling in gaps in your gear after you already prioritized your Red +2 gear.
+|-
+! Tier !! Priority !! Image !! Name !! Primary Benefit !! Notes
+|-
+| style=background-color:var(--red-bg); | God || 0 || style=background-color:var(--red-bg); |[[File:Strength Master's Sword.png|frameless|75x75px]] || Strength Master's Sword || In any Realm, DMG +18%<br>In any Realm, DMG +12% in Round 1 || '''God Tier for Explorations'''
+|-
+| style=background-color:var(--orange-bg); | S || 1 || style=background-color:var(--red-bg); |[[File:Norris-chuck.png|frameless|75x75px]] || Norris-chuck || Ignore DEF % boost || 
+|-
+| style=background-color:var(--orange-bg); | S || 2 || style=background-color:var(--red-bg); |[[File:Big_Bounce.png|frameless|75x75px]] || Big Bounce || CRIT +12%<r>CRIT DMG +12% || 
+|-
+| style=background-color:var(--orange-bg); | S || 3 || style=background-color:var(--red-bg); |[[File:Oldman_Wand.png|frameless|75x75px]] || Oldman Wand || Fire, Water, Earth, Wind DMG +240 || Lots of Elemental Damage
+|-
+| style=background-color:var(--orange-bg); | S || 4 || style=background-color:var(--red-bg); |[[File:Fortress.png|frameless|75x75px]] || Fortress || DMG Reduction +9.6% || Reduces the final DMG taken (after taking into account DEF, etc).
+|-
+| style=background-color:var(--orange-bg); | S || 5 || style=background-color:var(--red-bg); |[[File:Golden_Drazgul_Fang.png|frameless|75x75px]] || Golden Drazgul Fang || Poison DMG +360<br>Crit Rate +12% || '''This is a P2W/P2P item.  Skip it if you don't have it.'''
+|-
+| style=background-color:var(--orange-bg); | S || 6 || style=background-color:var(--red-bg); |[[File:Claw_of_Destruction.png|frameless|75x75px]] || Claw of Destruction || In Dragon Form, Fire DMG +720 || '''Only use if you're using Dragon Form.'''<br><br>Lots of elemental damage
+|-
+| style=background-color:var(--orange-bg); | S || 7 || style=background-color:var(--red-bg); |[[File:Poseidon%27s_Trident.png|frameless|75x75px]] || Poseidon's Trident || Crit DMG +12%<br>Lifesteal Effect +60% || 
+|-
+| style=background-color:var(--yellow-bg); | A || 8 || style=background-color:var(--red-bg); |[[File:Grandpire%27s_Robe.png|frameless|75x75px]] || Grandpire's Robe || Per 10% HP lost, Snail ATK +360<br>Per 10% HP lost, Snail DEF +360 || Good for longer battles
+|-
+| style=background-color:var(--yellow-bg); | A || 9 || style=background-color:var(--red-bg); |[[File:Power_Spinach.png|frameless|75x75px]] || Power Spinach || Each round, Snail RUSH +48<br>Each round, Snail ATK +48 || Good for longer battles
+|-
+| style=background-color:var(--yellow-bg); | A || 10 || style=background-color:var(--red-bg); |[[File:Incredible_Key.png|frameless|75x75px]] || Incredible Key || All Element DMG +72<br>All RES +36 || '''This is a P2W/P2P item.  Skip it if you dont have it.'''
+|-
+| style=background-color:var(--yellow-bg); | A || 11 || style=background-color:var(--red-bg); |[[File:District_9.png|frameless|75x75px]] || District 9 || Fire DMG +360<br>Ignore Fire RES +180 || 
+|-
+| style=background-color:var(--yellow-bg); | A || 11 || style=background-color:var(--red-bg); |[[File:Cretaceous_Weapon.png|frameless|75x75px]] || Cretaceous Weapon || Earth DMG +360<br>Ignore Earth RES +180 || 
+|-
+| style=background-color:var(--yellow-bg); | A || 11 || style=background-color:var(--red-bg); |[[File:Hydra%27s_Gloves.png|frameless|75x75px]] || Hydra's Gloves || Water DMG +360<br>Ignore Water RES +180 || 
+|-
+| style=background-color:var(--yellow-bg); | A || 11 || style=background-color:var(--red-bg); |[[File:Million_Volts.png|frameless|75x75px]] || Million Volts || Wind DMG +360<br>Ignore Wind RES +180 || 
+|-
+| style=background-color:var(--blue-bg); | B || 12 || style=background-color:var(--red-bg); |[[File:Excalibur_EX.png|frameless|75x75px]] || Excalibur EX || ATK +240 || 
+|-
+| style=background-color:var(--blue-bg); | B || 13 || style=background-color:var(--red-bg); |[[File:Traveler_Outfit.png|frameless|75x75px]] || Traveler Outfit || Dodge Rate +12% || 
+|-
+| style=background-color:var(--blue-bg); | B || 14 || style=background-color:var(--red-bg); |[[File:Dracula_Cape.png|frameless|75x75px]] || Dracula Cape || Lifesteal Rate +12%<br>Lifesteal Effect +60% || 
+|-
+| style=background-color:var(--blue-bg); | B || 15 || style=background-color:var(--red-bg); |[[File:Ring_of_Paralysis.png|frameless|75x75px]] || Ring of Paralysis || Paralyze enemy by +7.2% || Paralize bonus is mitigated in most late-game battles, so usefulness drops over time.
+|-
+| style=background-color:var(--green-bg); | C || 16 || style=background-color:var(--red-bg); |[[File:Antimatter_Shield.png|frameless|75x75px]] || Antimatter Shield || DEF +96 per round || Increased survivability
+|-
+| style=background-color:var(--green-bg); | C || 17 || style=background-color:var(--red-bg); |[[File:Know-It-All_Device.png|frameless|75x75px]] || Know-It-All Device || Extra RUSH DMG +720 || 
+|-
+| style=background-color:var(--green-bg); | C || 18 || style=background-color:var(--red-bg); |[[File:Empress_Gloves.png|frameless|75x75px]] || Empress Gloves || If you spot a weakness, Snail ATK +360 || 
+|-
+| style=background-color:var(--green-bg); | C || 19 || style=background-color:var(--red-bg); |[[File:Empress%27_Slippers.png|frameless|75x75px]] || Empress' Slippers || If you spot a weakness, Snail RUSH +360 || 
+|-
+| style=background-color:var(--green-bg); | C || 20 || style=background-color:var(--red-bg); |[[File:Septreasure_Peacock_Quill.png|frameless|75x75px]] || Septreasure Peacock Quill || For Round 1, CRIT DMG +12%<br>When exploring, DMG +18% in Round 1 || '''Good for Domination Runs'''
+|}
+
+== Farming Gear ==
+
+{| class="wikitable"
+|+ Farming Gear Tier / Priority List
+|-
+! Tier !! Priority !! Image !! Name !! Primary Benefit !! Notes
+|-
+| style=background-color:var(--red-bg); | God || 0 || style=background-color:var(--red-bg); |[[File:The_Great_Engineer.png|frameless|75x75px]] || The Great Engineer || Travel SPD +%<br>Upon travelling through an area: Gain '''N (flat)''' INTEL || Travel SPD bonus is God Tier.  This allows you to get the same resources from explorations in less time.  Bonus intel is nice Rift as well (where you'll be farming intel for Months).
+|-
+| style=background-color:var(--orange-bg); | S || 1 || style=background-color:var(--red-bg); |[[File:The_Great_Scientist.png|frameless|75x75px]] || The Great Scientist || 2x Demon God Cell Drops +%<br>2x Time Chest Drops +% || Core farming gear.  Don't Farm without it.
+|-
+| style=background-color:var(--orange-bg); | S || 2 || style=background-color:var(--red-bg); |[[File:The_Great_Collector.png|frameless|75x75px]] || The Great Collector || Bonus B-Tads and W-Tads || Extra {{RewardIconWithText|B-Tad}} and {{RewardIconWithText|W-Tad}} are always welcome.<br><br>'''Pay attention to if you have Maxed {{RewardIconWithText|B-Tad}} and {{RewardIconWithText|W-Tad}} for the Gear's Tier.'''<br>Upgrading the gear will increase the max cap for {{RewardIconWithText|B-Tad}} and {{RewardIconWithText|W-Tad}}.  If both are capped, this is not useful for farming.
+|-
+| style=background-color:var(--orange-bg); | S || 3 || style=background-color:var(--red-bg); |[[File:Overlord%27s_Hook.png|frameless|75x75px]] || Overlord's Hook || Bonus B-Tads || Extra {{RewardIconWithText|B-Tad}} are always welcome.<br><br>'''Pay attention to if you have Maxed {{RewardIconWithText|B-Tad}} for the Gear's Tier.'''<br>Upgrading the gear will increase the max cap for {{RewardIconWithText|B-Tad}}.  If capped, this is not useful for farming.<br><br>''This is a component of {{RewardIconWithGearlink|red|Realm|The Great Collector}}''
+|}
+
+== Form Gear ==
+
+{| class="wikitable"
+|+ Most of the time you will probably use Dragon form, so you will want to use the Dragon-form Gear.<br>In some circumstances (farming, late-game fights, etc), you may want to change forms, and use a different form-specific Gear.
+|-
+! Tier !! Image !! Name !! Primary Benefit !! Notes
+|-
+| style=background-color:var(--orange-bg); | S || style=background-color:var(--red-bg); |[[File:Fang_of_Tiamat.png|frameless|75x75px]] || Fang of Tiamat || + Fire DMG || Farming: Dragon Chests, ALL Cells<br>''Generally useful because most players will use Dragon form most of the time.  The bonus cells are extremely useful too.''
+|-
+| style=background-color:var(--blue-bg); | God (Niche Fights) || style=background-color:var(--red-bg); |[[File:Serket_Staff.png|frameless|75x75px]] || Serket Staff || Ignore DEF +%<br>Cell Farming (Evo Chests) || The Ignore DEF +% bonus can be OP in late-game battles.<br>Useful for Cell Farming (additional Evo Chests)
+|-
+| style=background-color:var(--blue-bg); | Niche/Farming || style=background-color:var(--red-bg); |[[File:Soul_Reaper.png|frameless|75x75px]] || Soul Reaper || CRIT +% || This form is only really useful if you need to farm extra Demon Cells.<br>''Soul chest bonus is pretty useless, just buy them from the shop.  You get more B-Tads than you spend per-soul.''
+|-
+| style=background-color:var(--blue-bg); | Niche/Farming || style=background-color:var(--red-bg); |[[File:Seraph%27s_Light.png|frameless|75x75px]] || Seraph's Light || Fungus Farming (Fungus Chests) || Farming: Fungus Chests, Angel Cells
+|-
+| style=background-color:var(--blue-bg); | Niche/Farming || style=background-color:var(--red-bg); |[[File:Subspace_Blade.png|frameless|75x75px]] || Subspace Blade || CRIT DMG +%<br>Speedup Farming (Time Chests) || Farming: Time Chests (Gene, Minion, Refining Speedups), Mutant Cells
+|-
+| style=background-color:var(--blue-bg); | Niche/Farming || style=background-color:var(--red-bg); |[[File:Gauss_M72.png|frameless|75x75px]] || Gauss M72 || DMG REDUC +%<br>Wood & Stone Farming (Tool Chests) || Farming: Tool Chests (Wood and Stone), Mecha Cells<br>''Possibly useful if you have lots of ATK but are taking too much DMG in a fight...?''
+|}
+
+[[Category:Gears]]
+[[Category:Guides]]

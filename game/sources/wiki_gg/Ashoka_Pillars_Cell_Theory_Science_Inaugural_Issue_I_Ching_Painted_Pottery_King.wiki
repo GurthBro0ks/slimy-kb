@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Ashoka Pillars,Cell Theory,Science Inaugural Issue,I Ching,Painted Pottery King
+|rank=orange
+|amount=5
+|category=self
+|description=Per 2 Bionic Parts extracted, Snail Oblivion Power +10; Bionic Part Extracted: 120/120
+}}
+[[Category:Self]]
+[[Category:Oblivion Power Boost]]

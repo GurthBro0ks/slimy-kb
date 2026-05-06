@@ -1,0 +1,362 @@
+==Incense==
+{{Clear}}
+Incense is a special mechanic allowing for multiple unique events, rewards, and storylines. First, you need to access the Incense Shrine, also called the Buddha Altar. To get there, go to the Gene Room and tap the button on the wall. It allows you to switch between the Arsenal, where you can view your gear, and the Shrine, where you can use Incense {{RewardIcon|Incense}}.
+
+3 incenses can be loaded at a time, with each incense being subdivided into 5 charges. This is extremely important info later on for making the most of your incense.
+
+[[File:Incense button.jpg|frameless]][[File:Incense altar.jpg|frameless]][[File:Incense critter.jpg|frameless]]
+
+{{Clear}}
+
+==What to Use Incense On==
+
+From time to time, critters will show up in the Gene Room. The most common are rats, frogs, and cockroaches. Tapping on the animal while having at least one incense charge left in the altar will fire a laser at the critter.
+Firing at them<!--, commonly called "lasering,"--> will reduce them to ashes, giving 200 Demon God Cells. Frogs give Zombie Cells {{RewardIcon|Zombie Cell}}, Roaches give Mutant Cells {{RewardIcon|Mutant Cell}}, and Mice give Demon Cells {{RewardIcon|Demon Cell}}, Angel Cells {{RewardIcon|Angel Cell}}, and Mecha Cells {{RewardIcon|Mecha Cell}}.
+
+Occasionally, other critters will spawn besides the usual frog, roach, or mouse. Shooting them may trigger unique events or rewards. ''More detail under [[#Special Incense Events|Special Incense Events]].''
+
+Loading 3 incense <!--at a time -->into the shrine and tapping it repeatedly will<!--, if there are no other critters in the room,--> make the shrine angry and shoot at the sky. An object that can be collected for rewards will fall into the pond.<!--Every 5 times this is done provides a unique event and rewards.--> Reaching certain milestones may also trigger unique events, storylines, and rewards. ''More detail under [[#Shooting the Sky|Shooting the Sky]].''
+
+==How to Get Incense==
+Incense is difficult to get reliably, and is mostly obtained through luck. The Vending Machine has some incense packs which can be purchased once, but most other known ways of getting incense involve chance.
+
+{| class="wikitable"
+!Source
+!1-time reward
+|-
+| rowspan="3" |Vending Machine Bonus pack
+|10 for 200K total W-Tads spent
+|-
+|20 for 500K total W-Tads spent
+|-
+|30 for 1M total W-Tads spent
+|-
+|{{RewardIconWithLink|Buddha Finger Sarira|orange}} mirage
+|3
+|-
+|{{RewardIconWithLink|Buddha's Skull Sarira|orange}} mirage
+|3
+|-
+|{{RewardIconWithLink|Hera's Peacock Fan|orange}} mirage
+|3
+|-
+!Source
+!Repeated reward
+|-
+|Map Exploration
+|Chance for an orange grid square to be incense
+|-
+|Lottery Orange Bead (2.97% chance)
+|1
+|-
+|Super Treasure Map (9.97% chance)
+|1
+|-
+|Dragon Chest (15% chance)
+|1
+|-
+|Demon Chest (15% chance)
+|1
+|-
+|Super Memetic Chest (user choice)
+|10
+|-
+|Unispark Activation (daily purchase)
+|1
+|-
+|[[Partners|Taoist Yu Ji]] (low chance)
+|1
+|-
+|[[Partners|Sewer Turtle]] (low chance)
+|1
+|-
+|[[Fissure|Fissure Shop]] (low chance), 750 Ancient Coin
+|1
+|-
+|Gift Pack in chat
+|1
+|-
+|Offering Week, 1500 Spirit Crystal in Crystal Boom
+|1
+|-
+|Museum Shop, 1000 Medals on Curator's Collection (low chance)
+|1
+|-
+|Ad Shop (Incredibly Rare)
+|1
+|}
+
+==Special Incense Events==
+All incense used on animals in the room will count towards completing these events, whether you use them all at once or days apart.
+<tabber>
+|-|Sewer Turtle=
+At some point, a small turtle with a purple bandana will appear in the Gene Room. Lasering him takes 3 sticks of incense, and will prompt more turtles to show up, one after the other, for a fight. 
+
+After defeating Sewer Turtle 4, a golden rat will show up in the Gene Room that also needs to be lasered with incense (3 hits). This will reward the Kungfu Rat Gene Sim. and prompt Sewer Turtle 4, now just [[Sewer Turtle]], to begin a mailbox storyline on the path to partnership. He will ask 100k B-tads, a Dragon Orb, and another 5 incense before moving in as a partner.
+
+{| class="wikitable"
+!Enemy
+!ATK
+!DEF
+!HP
+!Weakness
+!Reward
+|-
+|Sewer Turtle 1
+|521
+|257
+|3,016
+|ART 1,040
+|Soul of Sewer Turtle, Toirtoise Jelly (?), {{Relink|Marseilles Statue|blue}} +10
+|-
+|Sewer Turtle 2
+|2,707
+|1,021
+|6,408
+|ART 2,624
+|Soul of Sewer Turtle, Tortoise Jelly (?), <span style="color:var(--green-text);">Green Coating</span> +100
+|-
+|Sewer Turtle 4
+|3,742
+|1,512
+|19,797
+|ART 3,822
+|Tortoise Jelly (?), {{Relink|The School of Athens|orange}} +40, {{Gearlink|blue|Instrument|Nun-chuck}}
+|}
+|-|Hitman No.8=
+To unlock Ghost Zadako as a partner, fully defeat [[Hitmen|Hitman No.8]]. She will then appear in the computer in the [[Home Base|Gene Room]] and will require 1 Incense {{RewardIcon|Incense}}. Additionally, you will obtain {{Relink|Hitman No.8 License|green}}.
+|-|Dracula and Grandpire=
+At some point, a bat will appear near the fridge in the Gene Room. The bat requires 4/5 of a stick of incense (or 4 hits total) to knock down. After those 4 hits, he'll drop green goo everywhere before flying off. He'll appear again as Dracula, ready for a fight. After eventually defeating him, a new bat will appear in the same place. This bat has a shield and takes 4 incense sticks (or 20 hits total) to knock down. He will also show up for a fight. 
+{| class="wikitable"
+!Enemy
+!ATK
+!DEF
+!HP
+!Special Stats
+!Weakness
+!Reward
+|-
+|Dracula
+|17,814
+|10,963
+|122,686
+|Lifesteal Rate +100%
+|FTH 5,195
+|Soul of Dracula, {{Gearlink|blue|Armor|Death Shroud}}
+|-
+|Grandpire
+|42,328
+|29,025
+|570,232
+|Lifesteal Rate +100%, Lifesteal Effect +5000%
+|FTH 13,292
+|Soul of Grandpire, {{Gearlink|green|Armor|Sailor Suit}}
+|}
+|-|Unicon=
+Unicon will only show up after Grandpire has been defeated and 20 or more cockroaches have been killed with the incense shrine. This can be done in any order. Once both events are completed, a group of cockroaches will show up. Hitting a small cockroach once with incense will cause them to all congregate together into one big mass known as "Unicon." This fight has a total of 5 stages with the following stats and rewards:
+{| class="wikitable"
+!Round
+!ATK
+!DEF
+!HP
+!Special Stats
+!Weakness
+!Rewards
+|-
+|style="background-color:var(--green-bg)"|1
+|56,870
+|41,140
+|114,471
+|HIT +70, Paralysis RES +70%, Each round HP +50000
+|FAME 12,556
+|Clone Speedup +4h, Soul of 10k Roaches, Organ Chest +100
+|-
+|style="background-color:var(--blue-bg)"|2
+|88,360
+|63,920
+|259,843
+|HIT +70, Paralysis RES +70%, Each round HP +75000
+|FAME 16,066
+|Clone Speedup +8h, Soul of 100k Roaches, Organ Chest +200
+|-
+|style="background-color:var(--purple-bg)"|3
+|129,250
+|93,500
+|514,032
+|HIT +70, Paralysis RES +70%, Each round, HP +100,000
+|FAME 19,657
+|Clone Speedup +16h, Soul of 1m Roaches, Organ Chest +300
+|-
+|style="background-color:var(--orange-bg)"|4
+|179,775
+|130,050
+|1,037,148
+|HIT +70, Paralysis RES +70%, Each round, HP +100,000
+|FAME 23,572
+|Clone Speedup +1d, Soul of 10m Roaches, Organ Chest +400
+|-
+|style="background-color:var(--red-bg)"|5
+|243,225
+|175,950
+|2,147,483
+|HIT +70, Paralysis RES +70%, Each round, HP +100,000
+|FAME 28,216
+|Clone Speedup +2d, Soul of A Billion Roaches, Organ Chest +500, {{Relink|21,474,836,470|green}}
+|}
+|-|Three Body Problem=
+A Droplet Probe will arrive in the gene room following the defeat of Unicon 5. After zapping it with incense 30 times (6 incense sticks required), you will initiate the following 4 fights. Their special stat "Freeze enemy for x rounds" functions identically to the [[Gear|Ring of Stupor/Paralysis Ring]] and will prevent you for attacking for up to 8 rounds in combat. These fights are suspected to be a reference to the novel "[https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel) The Three-Body Problem]" by Liu Cixin.
+{| class="wikitable"
+!Name !!ATK !!DEF !!HP !!Special Stats !!Weakness !!Rewards
+|-
+|Trisolaran Civilization
+|268,520
+|137,187
+|3,862,838
+|Hit +80, Paralysis RES +80%,<br>Round 2, Freeze enemy for 4 rounds
+|TECH 33,670
+|Refine Speedup +1d, [[Nebula|Singularity Crystal]], Quantum Gel +1000
+|-
+|Evil Eye Civilization
+|318,278
+|165,757
+|4,671,873
+|Hit +80, Paralysis RES +80%,<br>Round 2, Freeze enemy for 5 rounds
+|TECH 39,006
+|Refine Speedup +2d, [[Nebula|Singularity Crystal]], Quantum Gel +2000
+|-
+|Singer Civilization
+|380,815
+|203,467
+|7,045,338
+|Hit +80, Paralysis RES +80%,<br>Round 2, Freeze enemy for 6 rounds
+|TECH 44,211
+|Refine Speedup 3d, [[Nebula|Singularity Crystal]], Quantum Gel +3000
+|-
+|Restarter
+|543,368
+|287,768
+|17,875,954
+|Hit +80, Paralysis RES +80%,<br>Round 2, Freeze enemy for 8 rounds
+|TECH 52,572
+|Refine Speedup 5d, [[Nebula|Singularity Crystal]], Quantum Gel +5000, {{Relink|Dark Forest Theory|green}}
+|-
+|}
+
+|-|Hitman No. 15EX=
+Once [[Hitmen|Hitman No. 15 EX]] is defeated in interception, he'll be reincarnated as a god. The next time 100% is reached at the Altar of the Gods, the "God of Whales" will show up to brag about it. He'll also give {{Relink|VVVVIP Card|green}} as a first reward. He'll mention "leaving something behind", and at home base there will be a giant god in the sky. 
+
+In order to knock him down, 3 incenses need to be loaded into the shrine and shot into the sky. If this happens to be a 5-increment-shot, that event will happen first and another 3 incense needs to be shot into the sky to defeat him. Doing so rewards {{Relink|Skull of Valor|green}} and 1,000 W-Tads.
+|-|Cheese or Love=
+Shooting 15-20 blue rats will prompt a rat to drop a [[Minigames]] called {{RewardIconWithLink|Cheese or Love|black|Minigames}} which rewards {{RewardIconWithText|Angel Cell}}s for playing.
+|-|Unknown Creature=
+Occasionally, the [[Unknown Creature]] will appear in the Gene Room. Hitting him with incense will cause him to drop a "Mysterious Thing" instantly and crawl away. (Don't worry, this doesn't affect him very much). Doing this 10 times will drop the green relic {{Relink|Father's Photo|green}}.
+</tabber>
+
+== Shooting the Sky ==
+Finally, loading 3 incense and tapping the altar repeatedly will "make the shrine angry" and cause him to shoot at the sky. Note that this will consume all of your incense, ''however'' only 2 and 1/5 stick is truly needed: as long as you have one tick of durability left on the third stick, you can shoot the sky, meaning you can take 4 shots at other critters and still be able to shoot the sky. Shooting down 5 critters, however, will not leave you with enough incense, so be careful!
+
+There are two types of events that may occur when shooting the sky. The first and most common type is shooting down a helicopter. Helicopters only give the same base rewards of: 5-6 random rocket materials, Rank I-IV, Tool Chest +150, and Refine Speedup +4h. The range of materials you can receive is:
+{| class="wikitable"
+!Rank
+!Amount
+!Rank
+!Amount
+|-
+|'''I'''
+|11-20
+|'''II'''
+|8-13
+|-
+|'''III'''
+|4-7
+|'''IV'''
+|1-3
+|}
+
+
+The other type of events are those resulting from reaching certain milestones. After shooting down a certain number of objects from the sky, or when certain special conditions are met, there are special shoot-down events that may happen, listed below.
+
+{| class="wikitable"
+!Objects Shot down
+!Event
+!Rewards
+!Notes
+|- <!--Consider moving this to Special Incense Events section-->
+|Any after Pawson
+|Cyclops God
+|{{RewardIconWithLink|Broken Star Chart|green}}<br>{{RewardIconWithText|Stone, +500}}<br>{{RewardIconWithText|Wood, +500}}
+|Requirement to unlock Species Domains and Species Map
+|-
+|5
+|Flying Man
+|{{RewardIconWithLink|Evolution Chest, +150}}<br>{{RewardIconWithText|8h Soul Yellow, (Soul of Flying Man)|yellow}}<br>{{RewardIconGeneSegment|Flying Man, +5}}<br>Letters from [[Mailbox#Ratman|Ratman]]
+|Defeating Ratman once rewards {{RewardIconWithLink|Cryptonite|green}}, which increases DMG against Flying Man by 500%
+|-
+|10
+|UFO
+|{{RewardIconWithLink|Tool Chest, +150}}<br>{{RewardIconGeneSegment|Alien, +5}}<br>{{RewardIconWithText|8h Soul Yellow, (Soul of Strength Master)|yellow}}
+|
+|-
+|20
+|Apollo Chariot
+|{{RewardIconWithLink|Divine Neutral Chest, +150|green}}<br>{{RewardIconWithLink|Surya's Heart, +3|orange}}<br>{{RewardIconWithText|8h Soul Green, (Helios' Soul)|green}}
+|
+|-
+|30
+|God of Longevity
+|{{RewardIconWithLink|Longevity Peach|green}}<br>{{RewardIconWithLink|Divine Neutral Chest, +150|green}}<br>{{RewardIconWithText|8h Soul Green, (Soul of God of Longevity)|green}}
+|Triggers a storyline with the [[Mailbox#God of Prosperity|God of Prosperity]]
+|-
+|40
+|UFO
+|{{RewardIconWithGearlink|blue|Instrument|Pulse Rifle}}
+|
+|-
+|60
+|Moon
+|{{RewardIconWithLink|Moon Bunny|green}}<br>{{RewardIconWithLink|Time Chest, +150}}<br>Moon Goddess' Soul
+|
+|-
+|80
+|Swarm Dragon
+|{{RewardIconGeneSegment|Swarm Dragon, +5}}<br>{{RewardIconWithText|8h Soul Red, (Soul of Swarm Creature)|red}}<br>{{RewardIconWithLink|Evolution Chest, +150}}
+|
+|-
+|100
+|Death Satellite
+|{{RewardIconWithGearlink|orange|Instrument|Anti-Strength Saber}}<br>{{RewardIconWithLink|Divine Chaos Chest, +150|red}}<br>{{RewardIconWithText|8h Soul Red, (Soul of Dark Duke)|red}}
+|
+|-
+|120
+|Kyrov Airship
+|{{RewardIconWithLink|AH602|orange}}<br>{{RewardIconWithLink|Tool Chest, +150}}<br>{{RewardIconWithText|8h Soul Red, (Soul of Brainwasher)|red}}
+|
+|-
+|150
+|Kun-Peng
+|{{RewardIconGeneSegment|Kun-Peng, +5}}<br>{{RewardIconWithLink|Dragon Orb, +3|orange}}<br>{{RewardIconWithLink|Evolution Chest, +150}}
+|
+|-
+|180
+|Floating City
+|{{RewardIconWithLink|Laputa|orange|Rocket#Robots}}<br>{{RewardIconWithText|Stone, +5k}}<br>{{RewardIconWithText|Wood, +5k}}
+|
+|-
+|210
+|Excelsior
+|{{RewardIconWithLink|Tool Chest, +150}}<br>{{RewardIconWithLink|Spaceship Pilot|blue}}<br>{{RewardIconWithLink|Curvature Drive Engine|green}}
+|
+|-
+|240
+|Fortress Ship
+|{{RewardIconWithGearlink|orange|War|Military Helmet}}<br>{{RewardIconGeneSegment|Titanian, +5}}<br>{{RewardIconWithText|Refine Speedup, +1d}}
+|
+|-
+|270
+|Rainbow Bridge 
+|{{RewardIconWithLink|Horn of Heimdall|orange}}<br> {{RewardIconGeneSegment|Heimdall, +5}}<br>{{RewardIconWithText|Offering Speedup, +1d}}
+|
+|}
+
+[[Category:Guides]]
+[[Category:Home Base]]

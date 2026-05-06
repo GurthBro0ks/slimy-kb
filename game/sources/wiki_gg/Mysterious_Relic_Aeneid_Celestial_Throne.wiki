@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=541
+|relics=Mysterious Relic,Aeneid,Celestial Throne
+|rank=orange
+|amount=3
+|category=self
+|description=Per 900 Species War Tech Pts, Snail ATK +8;Species War Tech Pts: 45000/45000
+}}

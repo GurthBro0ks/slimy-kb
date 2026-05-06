@@ -1,0 +1,27 @@
+{{CargoRelic
+|name=Tudor Rose
+|rank=Blue
+|affct=FAME
+|birthday=01-22
+|source=Lottery Machine (0.03%), Wishing (1.2%)
+|description=On Jan 22, 1486, the House of Tudor designed a floral emblem that represents England.
+
+The famous Wars of the Roses between the House of Lancaster (red rose) and House of York of England (white rose) ended. The two families were united in order to resolve the rivalry and consolidate power. The Tudor rose had two forms. It can be separated to form a new badge with another emblem. It is usually placed on the crown as an emblem along with the thistle.
+|fame=47
+|art=32
+|fth=20
+|civ=28
+|tech=27
+|ss1=Blue Bead draws give +1 Lucky Voucher by +5%
+|ss2=Blue Bead draws give +1 Lucky Voucher by +10%
+|ss3=Blue Bead draws give +1 Lucky Voucher by +15%
+|ss4=Blue Bead draws give +1 Lucky Voucher by +25%
+|ss7=Blue Bead draws give +1 Lucky Voucher by +25%<br>Blue Bead draws give +1 Lucky Voucher by +25% (Awakened)
+|skill1=[[File:Lumbercamp skill I.png|50px]]Place in Lumber Camp: Find Ancient Wood by +5%
+}}
+
+[[Category:Lucky Voucher Boost]]
+[[Category:Lumber Camp Skill]]
+[[Category:Ancient Wood Boost]]
+[[Category:DEF Boost]]
+[[Category:Offering Speed Boost]]

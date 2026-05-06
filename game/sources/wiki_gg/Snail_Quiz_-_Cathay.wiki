@@ -1,0 +1,154 @@
+This [[Minigames|Minigame]] is from the [[Nursery#Red-0|"Join an R&D Team" chore]].
+
+Questions do not have to be answered correctly ''in the same game'' to count for reward credit.
+
+Questions can be asked in any order.
+
+{| class="wikitable"
+!Question
+!Answer
+
+|-
+|In the Chinese classic novel Journey to the West, which animal is Sun Wukong?
+|Monkey
+
+|-
+|Which of the following martial arts is Chinese?
+|Kung Fu
+
+|-
+|What are Bao?
+|Steamed dumplings
+
+|-
+|In traditional Chinese medical treatments, what is the main treatment method that uses needles?
+|Acupuncture
+
+|-
+|How many time zones are there in China?
+|1
+
+|-
+|Which of the following numbers is typically considered to be unlucky in Chinese culture?
+|4
+
+|-
+|What lord died in Guandu?
+|Yuan Shao
+
+|-
+|Which city is the capital of China?
+|Beijing
+
+|-
+|Under which kind of tree did the three sworn brothers Liu Bei, Guan Yu, and Zhang Fei make an unbreakable oath of fraternity?
+|Peach
+
+|-
+|What is the nickname for Macau, a Special Administrative Region of China?
+|Las Vegas of the East
+
+|-
+|Who is known as The Beauty?
+|Diao Chan
+
+|-
+|What were the names of the Three Kingdoms?
+|Wei, Shu, Wu
+
+|-
+|What is Chinese Valentine's Day called?
+|Qixi Festival
+
+|-
+|In what year were the Three Kingdoms founded?
+|220AD
+
+|-
+|What is the official currency of China?
+|RMB
+
+|-
+|Which of the following countries does NOT share the border with China?
+|South Korea
+
+|-
+|Which kingdom founded the Five Tiger Generals?
+|Shu
+
+|-
+|Which mythical animal is the symbol of the emperor's power in China?
+|Dragon
+
+|-
+|What has been the official language of China since the 1930s?
+|Mandarin
+
+|-
+|What is the main source of food in China?
+|Rice
+
+|-
+|Which of the following is a popular Chinese dish?
+|Dim sum
+
+|-
+|What school of thought is Tai Chi associated with?
+|Taoism
+
+|-
+|What is China's major import?
+|Crude oil
+
+|-
+|What is the world's first Asia to Europe trade route?
+|The Silk Road
+
+|-
+|Which of the following facts is true about Chinese writing?
+|It has no alphabet
+
+|-
+|One of the world's wonders in China is?
+|The Great Wall
+
+|-
+|Sicuan cuisine is known for its ___?
+|Spiciness
+
+|-
+|What is the most famous animal in China?
+|Giant panda
+
+|-
+|What is the most popular religion in China?
+|Buddhism
+
+|-
+|Which Shu general is known for his loud roar?
+|General Zhang Fei
+
+|-
+|Yao Ming is a former Chinese professional player in which sport?
+|Basketball
+
+|-
+|Which concept in Chinese philosophy declares that the universe consists of two contrary, yet complementary forces?
+|Yin and Yang
+
+|-
+|What is the largest palace building in China?
+|Forbidden City
+
+|-
+|What do children typically receive at Chinese New Year?
+|Money in red envelopes
+
+|-
+|What is the first dynasty that united China?
+|Qin dynasty
+
+|}
+
+[[Category:Guides]]
+[[Category:Minigames]]

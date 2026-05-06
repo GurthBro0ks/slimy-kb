@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Burgundian Laws,Divination Book,Isabella,Konjaku Tale
+|rank=purple
+|amount=4
+|category=Wormhole Boost
+|description=Wormhole Shards from Wormhole Refiner +8%
+}}
+[[Category:Wormhole Boost]]

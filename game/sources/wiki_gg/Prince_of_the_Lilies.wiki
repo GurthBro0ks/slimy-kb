@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Prince of the Lilies
+|class_id=22174
+|rank=AA
+|affct=CIV
+|birthday=06-20
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Jun 20, 1501 BC, Prince of the Lilies was created by a Knossos court artist.<br>Prince of the Lilies is a mural unearthed from Crete in ancient Greek. The prince is life-size, wearing a crown made of lilies and peacock feathers, a lily necklace, and a short skirt with a waist belt. His long hair flutters as he walks among the blooming lilies. The bright red background makes the prince look enthusiastic. Because both his crown and necklace are made of lilies, the piece is named "Prince of the Lilies."
+|fame=46
+|art=43
+|fth=39
+|civ=66
+|tech=34
+|ss1=Per 40 wishes made, Snail HP +20<br>Per 40 wishes made, Snail DEF +2<br>Wishes Made: 2000/2000
+|ss2=Per 40 wishes made, Snail HP +30<br>Per 40 wishes made, Snail DEF +3<br>Wishes Made: 2000/2000
+|ss3=Per 40 wishes made, Snail HP +40<br>Per 40 wishes made, Snail DEF +4<br>Wishes Made: 2000/2000
+|ss4=Per 40 wishes made, Snail HP +60<br>Per 40 wishes made, Snail DEF +6<br>Wishes Made: 2000/2000
+|ss5=Per 40 wishes made, Snail HP +80<br>Per 40 wishes made, Snail DEF +8<br>Wishes Made: 2000/2000
+|ss7=Per 40 wishes made, Snail HP +80<br>Per 40 wishes made, Snail DEF +8<br>Wishes Made: 2000/2000<br>Snail HP +700 (Awakened)
+|skill1=[[File:Surfclam skill II.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion HP +4.5%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's CIV +10
+}}

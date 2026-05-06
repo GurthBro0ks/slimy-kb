@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Monier Concrete
+|class_id=22420
+|rank=Blue
+|affct=FAME
+|birthday=02-27
+|source=Lottery Machine No.3 (0.03%)
+|description=On Feb 27, 1865 AD, Monier successfully invented reinforced concrete.<br>Clay pots were fragile, so Monier experimented with using concrete to make them. However, the finished products were not able to withstand stretching and impact. Drawing inspiration from the fixing effect of plant roots in soil, he added steel bars to concrete to act as a framework. This greatly increased the strength of the finished product. The new material quickly gained widespread popularity and became an important and indispensable material in the construction industry.
+|fame=48
+|art=26
+|fth=20
+|civ=30
+|tech=30
+|ss1=Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +8<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +16<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +24<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +40<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +40<br>Consumed Recruit Tokens: 5000/5000<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +1%
+}}

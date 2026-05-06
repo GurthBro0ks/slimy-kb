@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Human Rights Declaration
+|class_id=22772
+|rank=SS
+|affct=FAME
+|source=
+|description=The Human Rights Declaration is a landmark document adopted by the United Nations General Assembly. It was drafted by representatives from around the world with diverse legal and cultural backgrounds, aiming to learn from the lessons of World War II and prevent similar atrocities from happening again. The declaration emphasizes the importance of human dignity and equal rights, stating that neglect of human rights leads to barbarous acts, and calls for the protection of human rights through the rule of law, promoting friendly relations between nations. Although it does not have legal binding force, it lays the moral and legal foundation for global human rights protection and has become a core document of international human rights law.
+|fame=103
+|art=59
+|fth=47
+|civ=61
+|tech=77
+|ss1=Each Star Coin redemption, extra star coin +10%<br>Club Monthly Arena Report, earnings +2%<br>Per 5 Star Coin Redeems, Snail ATK +4<br>Star Coin Redeems: 100/100
+|ss2=Each Star Coin redemption, extra star coin +15%<br>Club Monthly Arena Report, earnings +3%<br>Per 5 Star Coin Redeems, Snail ATK +6<br>Star Coin Redeems: 100/100
+|ss3=Each Star Coin redemption, extra star coin +20%<br>Club Monthly Arena Report, earnings +4%<br>Per 5 Star Coin Redeems, Snail ATK +8<br>Star Coin Redeems: 100/100
+|ss4=Each Star Coin redemption, extra star coin +30%<br>Club Monthly Arena Report, earnings +6%<br>Per 5 Star Coin Redeems, Snail ATK +12<br>Star Coin Redeems: 100/100
+|ss5=Each Star Coin redemption, extra star coin +40%<br>Club Monthly Arena Report, earnings +8%<br>Per 5 Star Coin Redeems, Snail ATK +16<br>Star Coin Redeems: 100/100
+|ss6=Each Star Coin redemption, extra star coin +55%<br>Club Monthly Arena Report, earnings +11%<br>Per 5 Star Coin Redeems, Snail ATK +22<br>Star Coin Redeems: 100/100
+|ss7=Each Star Coin redemption, extra star coin +55%<br>Club Monthly Arena Report, earnings +11%<br>Per 5 Star Coin Redeems, Snail ATK +22<br>Star Coin Redeems: 100/100<br>Club Monthly Arena Report, earnings +10% (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion ATK +6%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, AFFCT Checks -150
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x INTEL Drops +15%
+|mirage={{Mirage|name=Humanitarian Warrior|reward={{RewardIconWithLink|Club Chest, +200|orange}}
+|3name=Rescue worker|3rec=4.57M|3atk=53073|3defense=35445|3hp=786935|3weak=12059
+|4name=Frontline doctor|4rec=10.21M|4atk=82350|4defense=54998|4hp=1683696|4weak=16206
+|5name=War correspondent|5rec=25.84M|5atk=120158|5defense=80249|5hp=3266607|5weak=20139
+|Arec=48.48M|Aatk=167865|Adefense=112110|Ahp=5957438|Aweak=27651
+}}}}

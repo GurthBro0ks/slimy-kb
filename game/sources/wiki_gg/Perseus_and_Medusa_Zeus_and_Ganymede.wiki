@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=659
+|relics=Perseus and Medusa,Zeus and Ganymede
+|rank=purple
+|amount=2
+|category=self
+|description=Snail HARD Stats +24
+}}

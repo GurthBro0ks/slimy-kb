@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Thundos' Sculpture
+|class_id=20735
+|rank=Green
+|affct=FAITH
+|source=
+|description=Upon learning of Thundos' fall, Earth's Will had a batch of statues crafted in the likeness of its head. One purpose was to commemorate the historic moment of triumph over a formidable foe, and the other was to bestow them upon those exceptional Travelers, allowing them to share in the Joy of victory!
+|fame=15
+|art=12
+|fth=33
+|civ=13
+|tech=17
+|ss1=Snail Leadership +1<br>Per Demon God Sculpture owned, Snail ATK +50<br>Demon God Sculptures Owned: 8/8
+|ss2=Snail Leadership +2<br>Per Demon God Sculpture owned, Snail ATK +100<br>Demon God Sculptures Owned: 8/8
+|ss3=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail ATK +150<br>Demon God Sculptures Owned: 8/8
+|ss4=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail ATK +150<br>Demon God Sculptures Owned: 8/8
+|ss7=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail ATK +150<br>Demon God Sculptures Owned: 8/8<br> (Awakened)
+}}

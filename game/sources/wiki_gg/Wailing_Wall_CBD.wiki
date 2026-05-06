@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=788
+|relics=Wailing Wall,CBD
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +168;Mythic Protodex Stars: 100/100
+}}

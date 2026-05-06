@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Chilam Balam
+|class_id=22563
+|rank=AAA
+|affct=FAITH
+|birthday=02-15
+|source=
+|description=On Feb 15, 1570 AD, Maya priests recorded the history of their tribe and created the first Chilam Balam.<br>Chilam Balam is a historical document of the Maya people, meaning "the spokesman of the jaguar" in English. Its content is written in the Maya language using Latin letters, and it records the history of the Maya people before being conquered by the Spanish. When this book was written, the pictorial writing of the ancient Maya had been lost due to the cultural genocide policy of the Spanish invaders. Therefore, the Maya wise men of that time used the newly introduced script as a carrier to record their ancient and precious knowledge. These precious documents have become important materials for future generations to study the Maya civilization.
+|fame=44
+|art=47
+|fth=71
+|civ=33
+|tech=48
+|ss1=Dragon Minion Cloning SPD +3%<br>Per 5 Dragon Gene LVLs, Snail ATK +6<br>Dragon Gene LVLs Researched: 100/100
+|ss2=Dragon Minion Cloning SPD +4%<br>Per 5 Dragon Gene LVLs, Snail ATK +8<br>Dragon Gene LVLs Researched: 100/100
+|ss3=Dragon Minion Cloning SPD +5%<br>Per 5 Dragon Gene LVLs, Snail ATK +10<br>Dragon Gene LVLs Researched: 100/100
+|ss4=Dragon Minion Cloning SPD +7%<br>Per 5 Dragon Gene LVLs, Snail ATK +14<br>Dragon Gene LVLs Researched: 100/100
+|ss5=Dragon Minion Cloning SPD +9%<br>Per 5 Dragon Gene LVLs, Snail ATK +18<br>Dragon Gene LVLs Researched: 100/100
+|ss7=Dragon Minion Cloning SPD +9%<br>Per 5 Dragon Gene LVLs, Snail ATK +18<br>Dragon Gene LVLs Researched: 100/100<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Reagent Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's FTH +10
+}}

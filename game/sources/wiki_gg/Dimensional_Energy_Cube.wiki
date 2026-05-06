@@ -1,0 +1,35 @@
+{{Missing Info}}
+
+==Dimensional Energy Cube==
+
+{{Organ Tabber
+|Name=Dimensional Energy Cube
+|Rarity=red
+|ID Number=80
+|Initial HP=130
+|HP Increase=30
+|Initial ATK=13
+|ATK Increase=3
+|Initial DEF=13
+|DEF Increase=3
+|Initial RUSH=13
+|RUSH Increase=3
+|Effect 1=Fire DMG +###
+|Initial Effect Value 1=3
+|Effect Value Increase 1=3
+|Effect 2=Wind DMG +###
+|Initial Effect Value 2=3
+|Effect Value Increase 2=3
+|Effect 3=Home Facility Resource Max Cap +###%
+|Initial Effect Value 3=0.5
+|Effect Value Increase 3=0.5
+|Effect 4=Home Facility Resource Outputs +###%
+|Initial Effect Value 4=0.5
+|Effect Value Increase 4=0.5
+|}}
+
+==Source==
+[[Unispark Lottery|Unispark Lottery]] after maxing [[Universe Energy Cube]]
+
+[[Category:Organs]]
+[[Category:Red Organs]]

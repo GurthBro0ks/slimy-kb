@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Coronation of Napoleon
+|class_id=22649
+|rank=SSS
+|affct=ART
+|birthday=04-21
+|source=Lottery Machine No.3 (0.12%)
+|description=On Apr 21, 1804 AD, Napoleon refused to let Pope Pius VII crown him and took the crown from the pope to put it on his own head.<br>The Coronation of Napoleon by Jacques-Louis David is an oil painting that depicts the scene of Napoleon's coronation ceremony at Notre Dame de Paris. David carefully chose the moment when the emperor's wife was being crowned to highlight Napoleon's central position in the painting, without making the pope uncomfortable. With over 100 characters in different costumes, postures, and expressions, this painting is a highly challenging and world-class portrait of historical figures. Through the subtle control of light and color in the complex environment and numerous characters, Jacques-Louis David successfully created this masterpiece.
+|fame=52
+|art=109
+|fth=69
+|civ=74
+|tech=58
+|ss1=Dragon Minion ATK +3%<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +3<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Frost Sanctum Rating Pts: 100000/100000
+|ss2=Dragon Minion ATK +4%<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +4<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Frost Sanctum Rating Pts: 100000/100000
+|ss3=Dragon Minion ATK +5%<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +5<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Frost Sanctum Rating Pts: 100000/100000
+|ss4=Dragon Minion ATK +7%<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +7<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Frost Sanctum Rating Pts: 100000/100000
+|ss5=Dragon Minion ATK +9%<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +9<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Frost Sanctum Rating Pts: 100000/100000
+|ss6=Dragon Minion ATK +12%<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +12<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Frost Sanctum Rating Pts: 100000/100000
+|ss7=Dragon Minion ATK +12%<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +12<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Frost Sanctum Rating Pts: 100000/100000<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: Exploration Egg hatching efficiency +30%
+|skill2=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: This Relic's ART +15
+|skill3=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: Green rewards from this egg turn Blue by 6%
+|mirage={{Mirage|name=Coronation Kit|reward={{RewardIconWithLink|Gear RF, +15|orange}}
+|3name=King's Cape|3rec=94.80M|3atk=280070|3defense=177266|3hp=14181222|3weak=34107
+|4name=King's Emblem|4rec=122.61M|4atk=344540|4defense=216401|4hp=18591165|4weak=36694
+|5name=King's Scepter|5rec=163.03M|5atk=440561|5defense=273261|5hp=28661744|5weak=39968
+|6name=King's Crown|6rec=218.19M|6atk=574369|6defense=350877|6hp=47275750|6weak=46455
+|Arec=315.27M|Aatk=747015|Adefense=446197|Ahp=81188103|Aweak=52162
+}}}}

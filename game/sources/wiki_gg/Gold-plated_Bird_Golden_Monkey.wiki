@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Gold-plated Bird,Golden Monkey
+|rank=orange
+|amount=2
+|category=minion
+|description=Troop All ELMT DMG +3%
+}}
+[[Category:Minion]]
+[[Category:Minion Element DMG Boost]]

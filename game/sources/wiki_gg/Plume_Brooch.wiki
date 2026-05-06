@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Plume Brooch
+|class_id=22533
+|rank=AAA
+|affct=ART
+|birthday=08-09
+|source=Lottery Machine No.3 (0.06%)
+|description=On Aug 9, 1935 AD, Edward VIII, still a prince, used this brooch to express his love for his sweetheart.<br>It is a diamond feather brooch designed by King Edward VIII himself. He was inspired by the Prince of Wales' emblem and had three feathers paved with diamonds and tied with a gold crown. Edward VIII used this brooch to express that if he became king, he would make Mrs. Simpson his queen. However, Edward VIII failed to fulfill this promise, leaving the legend of loving beauty over his throne.
+|fame=31
+|art=72
+|fth=47
+|civ=52
+|tech=41
+|ss1=Snail DEF +30<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +24<br>Tribal Chiefs Defeated: 50/50
+|ss2=Snail DEF +40<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +32<br>Tribal Chiefs Defeated: 50/50
+|ss3=Snail DEF +50<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +40<br>Tribal Chiefs Defeated: 50/50
+|ss4=Snail DEF +70<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +56<br>Tribal Chiefs Defeated: 50/50
+|ss5=Snail DEF +90<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +72<br>Tribal Chiefs Defeated: 50/50
+|ss7=Snail DEF +90<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +72<br>Tribal Chiefs Defeated: 50/50<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, Troop Water DMG +15
+|skill2=[[File:Surfclam skill II.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Earth DMG +30
+}}

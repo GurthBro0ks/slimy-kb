@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Washington Portrait
+|class_id=22699
+|rank=SSS
+|affct=FAITH
+|birthday=01-28
+|source=
+|description=The portrait of Washington was started by Stuart on January 28, 1796.<br>Washington is one of the most important figures in the history of the United States. He was not only a leader in the American Revolutionary War but also the first President of the United States, the Founding Father of the nation. He served as the Commander-in-Chief of the Continental Army during the American Revolutionary War. His political ideas and principles laid the foundation for the United States and still deeply influencing the nation to this day.
+|fame=58
+|art=75
+|fth=108
+|civ=50
+|tech=71
+|ss1=Snail Leadership +3<br>Minion Sim Chests drop 2x Sim Tokens by +1.5%<br>Per +30F in Minion Sims Record, Snail ATK +3<br>Minion Sims record: 1500/1500F
+|ss2=Snail Leadership +4<br>Minion Sim Chests drop 2x Sim Tokens by +2%<br>Per +30F in Minion Sims Record, Snail ATK +4<br>Minion Sims record: 1500/1500F
+|ss3=Snail Leadership +5<br>Minion Sim Chests drop 2x Sim Tokens by +2.5%<br>Per +30F in Minion Sims Record, Snail ATK +5<br>Minion Sims record: 1500/1500F
+|ss4=Snail Leadership +7<br>Minion Sim Chests drop 2x Sim Tokens by +3.5%<br>Per +30F in Minion Sims Record, Snail ATK +7<br>Minion Sims record: 1500/1500F
+|ss5=Snail Leadership +9<br>Minion Sim Chests drop 2x Sim Tokens by +4.5%<br>Per +30F in Minion Sims Record, Snail ATK +9<br>Minion Sims record: 1500/1500F
+|ss6=Snail Leadership +12<br>Minion Sim Chests drop 2x Sim Tokens by +6%<br>Per +30F in Minion Sims Record, Snail ATK +12<br>Minion Sims record: 1500/1500F
+|ss7=Snail Leadership +12<br>Minion Sim Chests drop 2x Sim Tokens by +6%<br>Per +30F in Minion Sims Record, Snail ATK +12<br>Minion Sims record: 1500/1500F<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop DMG REDUC +6%
+|skill2=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion HP +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FTH +15
+|mirage={{Mirage|name=Independence War|reward={{RewardIconWithLink|Incense, +3|orange}}
+|3name=Louis XVI|3rec=157.31M|3atk=441282|3defense=265216|3hp=67775903|3weak=51541
+|4name=George III|4rec=191.18M|4atk=513649|4defense=312869|4hp=102801977|4weak=56515
+|5name=Washington|5rec=242.92M|5atk=616411|5defense=381109|5hp=169149537|5weak=62046
+|6name=Jefferson|6rec=351.89M|6atk=765174|6defense=479147|6hp=292537398|6weak=68078
+|Arec=494.26M|Aatk=961439|Adefense=607230|Ahp=486880420|Aweak=74060
+}}}}

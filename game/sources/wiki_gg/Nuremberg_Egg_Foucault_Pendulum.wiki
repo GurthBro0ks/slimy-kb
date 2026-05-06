@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=375
+|relics=Nuremberg Egg,Foucault Pendulum
+|rank=purple
+|amount=2
+|category=self
+|description=Per 30 Time Chests opened, Snail HP +60;Time Chests Opened: 1500/1500
+}}

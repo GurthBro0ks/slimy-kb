@@ -1,0 +1,121 @@
+=Wonder Fungus=
+Icons for Wonder Fungi displayed using [[:Template:RewardIconWonderFungusWithText]].
+
+==Green Wonder Fungus==
+No bonuses for eating {{RewardIconWonderFungusWithText|Green|NoStat|Green}}
+* {{RewardIconWonderFungusWithText|Green|HP|Green}} - Snail HP +10 permanently
+* {{RewardIconWonderFungusWithText|Green|ATK|Green}} - Snail ATK +1 permanently
+* {{RewardIconWonderFungusWithText|Green|DEF|Green}} - Snail DEF +1 permanently
+* {{RewardIconWonderFungusWithText|Green|RUSH|Green}} - Snail RUSH +1 permanently
+* {{RewardIconWonderFungusWithText|Green|FAME|Green}} - FAME +1 permanently
+* {{RewardIconWonderFungusWithText|Green|ART|Green}} - ART +1 permanently
+* {{RewardIconWonderFungusWithText|Green|FTH|Green}} - FTH +1 permanently
+* {{RewardIconWonderFungusWithText|Green|CIV|Green}} - CIV +1 permanently
+* {{RewardIconWonderFungusWithText|Green|TECH|Green}} - TECH +1 permanently
+
+==Blue Wonder Fungus==
+Increase Meal Box Cap +500 after consuming 20/50/120/250/500 {{RewardIconWonderFungusWithText|Blue|NoStat|Blue}}
+* {{RewardIconWonderFungusWithText|Blue|HP|Blue}} - Snail HP +20 permanently
+* {{RewardIconWonderFungusWithText|Blue|ATK|Blue}} - Snail ATK +2 permanently
+* {{RewardIconWonderFungusWithText|Blue|DEF|Blue}} - Snail DEF +2 permanently
+* {{RewardIconWonderFungusWithText|Blue|RUSH|Blue}} - Snail RUSH +2 permanently
+* {{RewardIconWonderFungusWithText|Blue|FAME|Blue}} - FAME +2 permanently
+* {{RewardIconWonderFungusWithText|Blue|ART|Blue}} - ART +2 permanently
+* {{RewardIconWonderFungusWithText|Blue|FTH|Blue}} - FTH +2 permanently
+* {{RewardIconWonderFungusWithText|Blue|CIV|Blue}} - CIV +2 permanently
+* {{RewardIconWonderFungusWithText|Blue|TECH|Blue}} - TECH +2 permanently
+
+==Purple Wonder Fungus==
+Increase Research SPD +0.6% after consuming 20/50/120/250/500 {{RewardIconWonderFungusWithText|Purple|NoStat|Purple}}
+* {{RewardIconWonderFungusWithText|Purple|HP|Purple}} - Snail HP +30 permanently
+* {{RewardIconWonderFungusWithText|Purple|ATK|Purple}} - Snail ATK +3 permanently
+* {{RewardIconWonderFungusWithText|Purple|DEF|Purple}} - Snail DEF +3 permanently
+* {{RewardIconWonderFungusWithText|Purple|RUSH|Purple}} - Snail RUSH +3 permanently
+* {{RewardIconWonderFungusWithText|Purple|FAME|Purple}} - FAME +3 permanently
+* {{RewardIconWonderFungusWithText|Purple|ART|Purple}} - ART +3 permanently
+* {{RewardIconWonderFungusWithText|Purple|FTH|Purple}} - FTH +3 permanently
+* {{RewardIconWonderFungusWithText|Purple|CIV|Purple}} - CIV +3 permanently
+* {{RewardIconWonderFungusWithText|Purple|TECH|Purple}} - TECH +3 permanently
+
+==Orange Wonder Fungus==
+Increase Leadership +10 after consuming 20/50/120/250/500 {{RewardIconWonderFungusWithText|Orange|NoStat|Orange}}
+
+After the {{RewardIconWithLink|Fungus Warrior's Proof|green}} is attained, you can get another Leadership +10 for each subsequent 500 {{RewardIconWonderFungusWithText|Orange|NoStat|Orange}} consumed (1k, 1.5k, 2k, etc.).
+* {{RewardIconWonderFungusWithText|Orange|HP|Orange}} - Snail HP +50 permanently
+* {{RewardIconWonderFungusWithText|Orange|ATK|Orange}} - Snail ATK +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|DEF|Orange}} - Snail DEF +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|RUSH|Orange}} - Snail RUSH +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|FAME|Orange}} - FAME +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|ART|Orange}} - ART +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|FTH|Orange}} - FTH +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|CIV|Orange}} - CIV +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|TECH|Orange}} - TECH +5 permanently
+
+= Icon Examples =
+Icons for Wonder Fungi displayed using [[:Template:IconExampleRowWithText]].
+
+== Green Pistil ==
+No bonuses for eating {{RewardIconWonderFungusWithText|Green|NoStat|Green}}
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Wonder Fungus Green}}
+{{IconExampleRowWithText|Wonder Fungus Green HP}}||Snail HP +10 permanently
+{{IconExampleRowWithText|Wonder Fungus Green ATK}}||Snail ATK +1 permanently
+{{IconExampleRowWithText|Wonder Fungus Green DEF}}||Snail DEF +1 permanently
+{{IconExampleRowWithText|Wonder Fungus Green RUSH}}||Snail RUSH +1 permanently
+{{IconExampleRowWithText|Wonder Fungus Green FAME}}||FAME +1 permanently
+{{IconExampleRowWithText|Wonder Fungus Green ART}}||ART +1 permanently
+{{IconExampleRowWithText|Wonder Fungus Green FTH}}||FTH +1 permanently
+{{IconExampleRowWithText|Wonder Fungus Green CIV}}||CIV +1 permanently
+{{IconExampleRowWithText|Wonder Fungus Green TECH}}||TECH +1 permanently
+|}
+
+== Blue Pistil ==
+Increase Meal Box Cap +500 after consuming 20/50/120/250/500 {{RewardIconWonderFungusWithText|Blue|NoStat|Blue}}
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Wonder Fungus Blue}}
+{{IconExampleRowWithText|Wonder Fungus Blue HP}}||Snail HP +20 permanently
+{{IconExampleRowWithText|Wonder Fungus Blue ATK}}||Snail ATK +2 permanently
+{{IconExampleRowWithText|Wonder Fungus Blue DEF}}||Snail DEF +2 permanently
+{{IconExampleRowWithText|Wonder Fungus Blue RUSH}}||Snail RUSH +2 permanently
+{{IconExampleRowWithText|Wonder Fungus Blue FAME}}||FAME +2 permanently
+{{IconExampleRowWithText|Wonder Fungus Blue ART}}||ART +2 permanently
+{{IconExampleRowWithText|Wonder Fungus Blue FTH}}||FTH +2 permanently
+{{IconExampleRowWithText|Wonder Fungus Blue CIV}}||CIV +2 permanently
+{{IconExampleRowWithText|Wonder Fungus Blue TECH}}||TECH +2 permanently
+|}
+
+== Purple Pistil ==
+Increase Research SPD +0.6% after consuming 20/50/120/250/500 {{RewardIconWonderFungusWithText|Purple|NoStat|Purple}}
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Wonder Fungus Purple}}
+{{IconExampleRowWithText|Wonder Fungus Purple HP}}||Snail HP +30 permanently
+{{IconExampleRowWithText|Wonder Fungus Purple ATK}}||Snail ATK +3 permanently
+{{IconExampleRowWithText|Wonder Fungus Purple DEF}}||Snail DEF +3 permanently
+{{IconExampleRowWithText|Wonder Fungus Purple RUSH}}||Snail RUSH +3 permanently
+{{IconExampleRowWithText|Wonder Fungus Purple FAME}}||FAME +3 permanently
+{{IconExampleRowWithText|Wonder Fungus Purple ART}}||ART +3 permanently
+{{IconExampleRowWithText|Wonder Fungus Purple FTH}}||FTH +3 permanently
+{{IconExampleRowWithText|Wonder Fungus Purple CIV}}||CIV +3 permanently
+{{IconExampleRowWithText|Wonder Fungus Purple TECH}}||TECH +3 permanently
+|}
+
+== Orange Pistil ==
+Increase Leadership +10 after consuming 20/50/120/250/500 {{RewardIconWonderFungusWithText|Orange|NoStat|Orange}}
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Wonder Fungus Orange}}
+{{IconExampleRowWithText|Wonder Fungus Orange HP}}||Snail HP +50 permanently
+{{IconExampleRowWithText|Wonder Fungus Orange ATK}}||Snail ATK +5 permanently
+{{IconExampleRowWithText|Wonder Fungus Orange DEF}}||Snail DEF +5 permanently
+{{IconExampleRowWithText|Wonder Fungus Orange RUSH}}||Snail RUSH +5 permanently
+{{IconExampleRowWithText|Wonder Fungus Orange FAME}}||FAME +5 permanently
+{{IconExampleRowWithText|Wonder Fungus Orange ART}}||ART +5 permanently
+{{IconExampleRowWithText|Wonder Fungus Orange FTH}}||FTH +5 permanently
+{{IconExampleRowWithText|Wonder Fungus Orange CIV}}||CIV +5 permanently
+{{IconExampleRowWithText|Wonder Fungus Orange TECH}}||TECH +5 permanently
+|}
+
+[[Category:Icons]]

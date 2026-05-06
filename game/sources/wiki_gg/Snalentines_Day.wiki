@@ -1,0 +1,22 @@
+{{Missing Info}}
+
+= Snalentines Day =
+[[File:Snalentines Day Poster.png|200px|left|alt=Snalentines Day]]
+Feb. 14 - Feb. 20 2025
+
+'''Official News Announcement:''' https://snail-na.qcplay.com/official/news-details.html?id=124
+{{Clear}}
+
+= Relic Rewards =
+* {{ImageWithLink|?|orange}}
+* {{ImageWithLink|?|green}}
+* {{ImageWithLink|?|green}}
+
+= Robot Rewards =
+* {{RewardIconWithLink|?|orange|Robots}}
+
+= Shell Rewards =
+* {{RewardIconWithLink|?|purple}}
+* {{RewardIconWithLink|?|purple}}
+
+[[Category:Events]]

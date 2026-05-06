@@ -1,0 +1,19 @@
+{{CargoRelic
+|name=Golden Fish Head
+|rank=Green
+|affct=CIV
+|source=Reward for completing the Four-Headed Fish [[Mailbox]] storyline.
+|description=A relic from the Four-Colored Fish civilization’s golden age, when their golden empire spanned the ocean depths.
+|fame=16
+|art=12
+|fth=18
+|civ=30
+|tech=14
+|ss1=Per type of food collected, Snail HP +10 <br> Types of Food Collected: 60/60
+|ss2= Per type of food collected, Snail HP +20 <br> Types of Food Collected: 60/60
+|ss3= Per type of food collected, Snail HP +30 <br> Types of Food Collected: 60/60
+}}
+
+[[Category:CIV Relics]]
+[[Category:HP Boost]]
+[[Category:Green CIV Relics]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=L'Origine du monde
+|class_id=20150
+|rank=Green
+|affct=ART
+|source=
+|description=This oil painting was the work of the famous Gustave Courbet. In this painting, he denied God as the world's origin and revealed the universe's ultimate mystery: Everyone has to pass the Gate of Genesis test to come to this world before they defeat countless competitors.
+|fame=18
+|art=30
+|fth=14
+|civ=14
+|tech=14
+|ss1=Per 300 AFFCT, Snail ATK +1<br>AFFCT: 66600/66600
+|ss2=Per 300 AFFCT, Snail ATK +1<br>AFFCT: 133200/133200
+|ss3=Per 300 AFFCT, Snail ATK +1<br>AFFCT: 199800/199800
+|ss4=Per 300 AFFCT, Snail ATK +1<br>AFFCT: 199800/199800
+|ss7=Per 300 AFFCT, Snail ATK +1<br>AFFCT: 199800/199800<br> (Awakened)
+}}

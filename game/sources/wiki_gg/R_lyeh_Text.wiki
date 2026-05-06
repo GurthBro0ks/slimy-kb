@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=R'lyeh Text
+|class_id=22278
+|rank=SS
+|affct=FAITH
+|birthday=12-22
+|source=Lottery Machine No.2 (0.21%), Wishing (0.79%)
+|description=On Dec 22, 314 BC, the R'lyeh Text was scribed by a group of Cthulhu believers.<br>The original text of this paper is said to have been written on the clay plate that has been destroyed. The existing book transcripts record the sinking of Mu Continent and R'lyeh, and elaborate on the horrific existence dominated by Cthulhu, including the related information of Dark, Hydra, Star-Spawn, and Ghatanothoa. It also hints that one day, R'lyeh will rise again from the depths of the sea.
+|fame=56
+|art=73
+|fth=105
+|civ=52
+|tech=61
+|ss1=Mutant Minion HP +2%<br>Demon God Cabin Output +2%<br>Per Red Organ implanted, Snail ATK +10<br>Red Organs Implanted: 10/10
+|ss2=Mutant Minion HP +3%<br>Demon God Cabin Output +3%<br>Per Red Organ implanted, Snail ATK +15<br>Red Organs Implanted: 10/10
+|ss3=Mutant Minion HP +4%<br>Demon God Cabin Output +4%<br>Per Red Organ implanted, Snail ATK +20<br>Red Organs Implanted: 10/10
+|ss4=Mutant Minion HP +6%<br>Demon God Cabin Output +6%<br>Per Red Organ implanted, Snail ATK +30<br>Red Organs Implanted: 10/10
+|ss5=Mutant Minion HP +8%<br>Demon God Cabin Output +8%<br>Per Red Organ implanted, Snail ATK +40<br>Red Organs Implanted: 10/10
+|ss6=Mutant Minion HP +11%<br>Demon God Cabin Output +11%<br>Per Red Organ implanted, Snail ATK +55<br>Red Organs Implanted: 10/10
+|ss7=Mutant Minion HP +11%<br>Demon God Cabin Output +11%<br>Per Red Organ implanted, Snail ATK +55<br>Red Organs Implanted: 10/10<br>Demon God Cabin Output +10% (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop DMG toward heroes +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail FTH +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Green Reagent Drops +6%
+|mirage={{Mirage|name=Cthulhu's Families|reward={{RewardIconWithLink|Offering Speedup, +28800|orange}}
+|3name=Shoggoth|3rec=32.45M|3atk=134225|3defense=89547|3hp=5066741|3weak=19184
+|4name=Deep One|4rec=48.21M|4atk=167466|4defense=111723|4hp=7639841|4weak=21359
+|5name=Star Spawn of Cthulhu|5rec=65.98M|5atk=204944|5defense=136726|5hp=11073464|5weak=26601
+|Arec=86.59M|Aatk=248397|Adefense=165716|Ahp=15317702|Aweak=32102
+}}}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Flywheel Battery
+|class_id=22494
+|rank=Blue
+|affct=TECH
+|birthday=06-19
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jun 19, 1996 AD, the concept of the flywheel battery was first proposed.<br>A flywheel battery is different from a traditional chemical battery, and it utilizes the conversion between kinetic energy and electrical energy. The flywheel battery has an electric motor that rotates the flywheel at high speed under the driving of an external power source during charging. During discharge, the motor operates in the state of a generator and outputs electrical energy to the outside under the drive of the flywheel, completing the conversion of kinetic energy to electrical energy.
+|fame=28
+|art=20
+|fth=35
+|civ=26
+|tech=45
+|ss1=Per 5 Mythic Protodex Stars, Snail HP +30<br>Mythic Protodex Stars: 100/100
+|ss2=Per 5 Mythic Protodex Stars, Snail HP +60<br>Mythic Protodex Stars: 100/100
+|ss3=Per 5 Mythic Protodex Stars, Snail HP +90<br>Mythic Protodex Stars: 100/100
+|ss4=Per 5 Mythic Protodex Stars, Snail HP +150<br>Mythic Protodex Stars: 100/100
+|ss7=Per 5 Mythic Protodex Stars, Snail HP +150<br>Mythic Protodex Stars: 100/100<br>Snail HP +500 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x Green Reagent Drops +1%
+}}

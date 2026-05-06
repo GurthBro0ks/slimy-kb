@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=Leaf Manuscript
+|rank=AAA
+|affct=FTH
+|birthday=07-26
+|source=Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Bharata Treasure Maps (10%), Relic Forge (80 Relic RF)
+|description=On Jul 26, AD 627, Sanzang saw the Leaf Manuscript of Buddhism for the first time. 
+
+The Leaf Manuscripts were mostly Buddhist classics, and some of them were ancient Sanskrit texts, which are all extremely valuable. Tripitaka traveled all over Bharata and returned with a huge number of Leaf Manuscripts. The writings were still legible even after thousands of years. Sanzang brought back more than 600 volumes of manuscripts from Bharata and translated the Buddhist scriptures in Chang'an. These scriptures are still preserved in the Giant Wild Goose Pagoda.
+
+[Info]
+
+Alias: Pothi<br>Era: Tang Dynasty<br>Languages: Pali, Siddham<br>Collected in: Giant Wild Goose Pagoda
+|fame=34
+|art=42
+|fth=75
+|civ=42
+|tech=50
+|ss1=Food rewards from offering +1.2%<br>B-tad rewards from offering +1.2%
+|ss2=Food rewards from offering +1.6%<br>B-tad rewards from offering +1.6%
+|ss3=Food rewards from offering +2%<br>B-tad rewards from offering +2%
+|ss4=Food rewards from offering +2.8%<br>B-tad rewards from offering +2.8%
+|ss5=Food rewards from offering +3.6%<br>B-tad rewards from offering +3.6%
+|ss7=Food rewards from offering +3.6%<br>B-tad rewards from offering +3.6%<br>B-tad rewards from offering +2.8% (Awakened)
+|skill1=[[File:Bharata skill II.png|50px]] Place in Bharata Museum: This Relic's FTH +10
+|skill2=[[File:Bharata skill II.png|50px]] Place in Bharata Museum: In Bharata, 2x B-Tad Drops +7.5%
+}}
+
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Offering Reward Boost]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Power]]
+[[Category:Little Monk Boost]]

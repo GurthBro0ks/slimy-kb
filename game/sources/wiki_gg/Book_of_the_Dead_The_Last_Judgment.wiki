@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=502
+|relics=Book of the Dead,The Last Judgment
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Divinations, Snail ATK +21;Divinations: 1200/1200
+}}

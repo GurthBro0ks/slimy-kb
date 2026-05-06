@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Owl Brother's Badge
+|class_id=20459
+|rank=Green
+|affct=FAME
+|source=
+|description=Owl Brother's original name is Garcia. He was once a police officer, and that was when he was given the badge. He was later ordered to work as an undercover agent in a mafia. The badge was carefully put away and has witnessed his double life and all the dangers that he overcame.
+|fame=29
+|art=12
+|fth=19
+|civ=18
+|tech=10
+|ss1=When you defeat Agents, gain +1% W-tads<br>Per Agent defeated, Snail ATK +1<br>Agents Defeated: 30/30
+|ss2=When you defeat Agents, gain +2% W-tads<br>Per Agent defeated, Snail ATK +2<br>Agents Defeated: 30/30
+|ss3=When you defeat Agents, gain +3% W-tads<br>Per Agent defeated, Snail ATK +3<br>Agents Defeated: 30/30
+|ss4=When you defeat Agents, gain +3% W-tads<br>Per Agent defeated, Snail ATK +3<br>Agents Defeated: 30/30
+|ss7=When you defeat Agents, gain +3% W-tads<br>Per Agent defeated, Snail ATK +3<br>Agents Defeated: 30/30<br> (Awakened)
+}}

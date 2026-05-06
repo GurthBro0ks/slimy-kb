@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Xmas Wreath
+|class_id=20750
+|rank=Green
+|affct=FAITH
+|source=
+|description=One of the three small items for Christmas, decorating it at home not only enhances the festive atmosphere but also protects children from evil.
+|fame=14
+|art=13
+|fth=33
+|civ=15
+|tech=15
+|ss1=Snail ATK +10<br>Per Partner you have, Snail RUSH +3<br>Current Partners: 15/15
+|ss2=Snail ATK +20<br>Per Partner you have, Snail RUSH +6<br>Current Partners: 15/15
+|ss3=Snail ATK +30<br>Per Partner you have, Snail RUSH +9<br>Current Partners: 15/15
+|ss4=Snail ATK +30<br>Per Partner you have, Snail RUSH +9<br>Current Partners: 15/15
+|ss7=Snail ATK +30<br>Per Partner you have, Snail RUSH +9<br>Current Partners: 15/15<br> (Awakened)
+}}

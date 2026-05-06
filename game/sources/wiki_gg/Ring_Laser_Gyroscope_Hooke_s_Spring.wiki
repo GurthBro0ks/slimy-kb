@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=588
+|relics=Ring Laser Gyroscope,Hooke's Spring
+|rank=blue
+|amount=2
+|category=self
+|description=Per 5 Mythic Protodex Stars, Snail HP +150;Mythic Protodex Stars: 100/100
+}}

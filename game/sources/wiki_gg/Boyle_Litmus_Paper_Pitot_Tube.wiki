@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=587
+|relics=Boyle Litmus Paper,Pitot Tube
+|rank=blue
+|amount=2
+|category=self
+|description=Per Tribal Warfare participation, Snail RUSH +5;Tribal Warfare Participation: 50/50
+}}

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Caspian Sea Monster
+|class_id=22736
+|rank=SS
+|affct=TECH
+|birthday=06-30
+|source=Lottery Machine No.3 (0.47%)
+|description=On Jun 30, 1966 AD, the Caspian Sea Monster successfully completed its first flight.<br>The Caspian Sea Monster is a ground-effect vehicle designed by the former Soviet Union. Due to its large size and its first discovery in the Caspian Sea area, it is nicknamed the Caspian Sea Monster. With the help of the ground effect, it can fly at speeds close to that of an airplane within a range near the ground surface. It not only stays in the radar blind zone but also leaves no traces on the water surface, making it difficult for sonar detection. It has extremely strong concealment and maneuverability and has very good prospects for use.
+|fame=66
+|art=48
+|fth=69
+|civ=59
+|tech=105
+|ss1=Mecha Minion DEF +2%<br>In Minion Sims, Surf Clams Data Calculation Effect +4%<br>Per 3 Hidden Treasures claimed, Snail ATK +2<br>Hidden Treasures Claimed: 150/150
+|ss2=Mecha Minion DEF +3%<br>In Minion Sims, Surf Clams Data Calculation Effect +6%<br>Per 3 Hidden Treasures claimed, Snail ATK +3<br>Hidden Treasures Claimed: 150/150
+|ss3=Mecha Minion DEF +4%<br>In Minion Sims, Surf Clams Data Calculation Effect +8%<br>Per 3 Hidden Treasures claimed, Snail ATK +4<br>Hidden Treasures Claimed: 150/150
+|ss4=Mecha Minion DEF +6%<br>In Minion Sims, Surf Clams Data Calculation Effect +12%<br>Per 3 Hidden Treasures claimed, Snail ATK +6<br>Hidden Treasures Claimed: 150/150
+|ss5=Mecha Minion DEF +8%<br>In Minion Sims, Surf Clams Data Calculation Effect +16%<br>Per 3 Hidden Treasures claimed, Snail ATK +8<br>Hidden Treasures Claimed: 150/150
+|ss6=Mecha Minion DEF +11%<br>In Minion Sims, Surf Clams Data Calculation Effect +22%<br>Per 3 Hidden Treasures claimed, Snail ATK +11<br>Hidden Treasures Claimed: 150/150
+|ss7=Mecha Minion DEF +11%<br>In Minion Sims, Surf Clams Data Calculation Effect +22%<br>Per 3 Hidden Treasures claimed, Snail ATK +11<br>Hidden Treasures Claimed: 150/150<br>In Minion Sims, Surf Clams Data Calculation Effect +20% (Awakened)
+|skill1=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Water DMG +60
+|skill2=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Water RES +60
+|skill3=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: This Relic's TECH +15
+|mirage={{Mirage|name=Hi-tech Army|reward={{RewardIconWithLink|AR2-T4 Capsule, +1|orange}}
+|3name=Buran|3rec=104.16M|3atk=301756|3defense=190446|3hp=15756768|3weak=34923
+|4name=White Swan|4rec=126.41M|4atk=353257|4defense=221744|4hp=19592280|4weak=37034
+|5name=Battle Mole|5rec=155.96M|5atk=423958|5defense=263315|5hp=26801350|5weak=39437
+|Arec=196.62M|Aatk=521172|Adefense=320525|Ahp=38404237|Aweak=43153
+}}}}

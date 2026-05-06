@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Lissajous Figure
+|class_id=22098
+|rank=Blue
+|affct=TECH
+|birthday=07-31
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jul 31, 1857 AD, Lissajous published a paper on simple harmonic motion figures.<br>Based on Bowditch's research, a French mathematician named Lissajous expanded on the Lissajous figures and popularized them. Essentially, it is a regular and stable closed curve crafted by two simple harmonic vibrations at frequencies that are in simple integer ratios in directions perpendicular to each other. Through this graph, the frequency ratio and phase difference of two signals can be measured, and it has been widely used as a measurement method in electrical engineering and Radio technology.
+|fame=26
+|art=27
+|fth=31
+|civ=24
+|tech=46
+|ss1=In the Demon God Rocket Cabin:<br>> Particle Accelerator Base Effect +8%
+|ss2=In the Demon God Rocket Cabin:<br>> Particle Accelerator Base Effect +16%
+|ss3=In the Demon God Rocket Cabin:<br>> Particle Accelerator Base Effect +24%
+|ss4=In the Demon God Rocket Cabin:<br>> Particle Accelerator Base Effect +40%
+|ss7=In the Demon God Rocket Cabin:<br>> Particle Accelerator Base Effect +40%<br>In the Demon God Rocket Cabin:<br>> Particle Accelerator Base Effect +40% (Awakened)
+|skill1=[[File:Arena skill I.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail RUSH +20
+}}

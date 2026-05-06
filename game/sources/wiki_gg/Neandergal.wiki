@@ -1,0 +1,319 @@
+==Neandergal ♀==
+Said to be close to the modern homosapiens (close enough to be eaten)
+
+===Begin Friendship===
+To obtain Neandergal, fully defeat the {{Relink|Origin of Species|orange}} Mirage. 
+
+===☆☆☆ > ★★★===
+After 3 letters back and forth, Neandergal will move in permanently with her minion, Berserker.
+
+==Rent==
+[[File:Neanderthal rent.png|frameless|300x300px|left]]
+
+Neandergal rent is collected on '''Monday''' and appear as a bone under the fire.
+
+ '''Normal Rent''': random Demon God Cell +500
+
+ '''Rare Rent''': {{RewardIconWithLink|Crimson Dragon Scale|purple}}; {{RewardIconWithLink|Crystalized Rib|purple}}
+
+ '''1-time Rent''': {{RewardIconWithLink|Astronaut Cap|green}}
+
+{{clear}}
+
+==Relics==
+Upgrading these will earn Gear Chest!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|Gear Chest +10
+|-
+|★★
+|Gear Chest +10
+|-
+|★★★
+|Gear Chest +10
+|-
+|★★★★
+|Gear Chest +20
+|-
+|★★★★★
+|Gear Chest +30
+|-
+|★★★★★★
+|Gear Chest +40
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Gregor Specimen}}{{Relink|Gregor Specimen}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Atilla Horseshoe}}{{Relink|Atilla Horseshoe}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Prehistoric Fossil}}{{Relink|Prehistoric Fossil}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Dolly Specimen}}{{Relink|Dolly Specimen}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Along the River}}{{Relink|Along the River}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Nuclear Bomb}}{{Relink|Nuclear Bomb}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Devol's Robot}}{{Relink|Devol's Robot}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Ape's Footprint Fossil}}{{Relink|Ape's Footprint Fossil}}
+|}
+
+==Neandergal Hunting==
+In the harsh natural environment of prehistoric times, races without high hunting skills wouldn't last long...
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||FAME +5||RUSH +5
+|-
+|2||180||2k||FAME +10||RUSH +10
+|-
+|3||190||4.5k||FAME +15||RUSH +15
+|-
+|4||200||8k||FAME +20||RUSH +20
+|-
+|5||210||12.5k||FAME +25||RUSH +25
+|-
+|6||220||18k||FAME +30||RUSH +30
+|-
+|7||230||24.5k||FAME +35||RUSH +35
+|-
+|8||240||32k||FAME +40||RUSH +40
+|-
+|9||250||40.5k||FAME +45||RUSH +45
+|-
+|10||260||50k||FAME +50||RUSH +50
+|-
+|11||270||60.5k||FAME +55||RUSH +55
+|-
+|12||285||72k||FAME +60||RUSH +60
+|-
+|13||300||84.5k||FAME +65||RUSH +65
+|-
+|14||315||98k||FAME +70||RUSH +70
+|-
+|15||330||112k||FAME +75||RUSH +75
+|-
+|16||345||123k||FAME +80||RUSH +80
+|-
+|17||360||144k||FAME +85||RUSH +85
+|-
+|18||375||162k||FAME +90||RUSH +90
+|-
+|19||390||180k||FAME +95||RUSH +95
+|-
+|20||400||200k||FAME +100||RUSH +100
+|-
+|21||420||220k||FAME +105||RUSH +105
+|-
+|22||440||242k||FAME +110||RUSH +110
+|-
+|23||460||264k||FAME +115||RUSH +115
+|-
+|24||480||285k||FAME +120||RUSH +120
+|-
+|25||500||309k||FAME +125||RUSH +125
+|-
+|26||520||333k||FAME +130||RUSH +130
+|-
+|27||540||357k||FAME +135||RUSH +135
+|-
+|28||560||381k||FAME +140||RUSH +140
+|-
+|29||580||405k||FAME +145||RUSH +145
+|-
+|30||600||429k||FAME +150||RUSH +150
+|}
+
+==Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Neadergal Hunting is.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +10
+|-
+|2||4k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +20
+|-
+|3||6k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +30
+|-
+|4||8k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +40
+|-
+|5||10k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +50
+|-
+|6||12k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +60
+|-
+|7||14k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +70
+|-
+|8||16k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +80
+|-
+|9||18k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +90
+|-
+|10||20k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +100
+|-
+|11||22k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +110
+|-
+|12||24k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +120
+|-
+|13||26k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +130 
+|-
+|14||28k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +140 
+|-
+|15||30k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +150
+|-
+|16||32k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +160
+|-
+|17||34k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +170 
+|-
+|18||36k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +180
+|-
+|19||38k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +190
+|-
+|20||40k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +200
+|-
+|21||42k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +210
+|-
+|22||44k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +220 
+|-
+|23||46k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +230
+|-
+|24||48k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +240
+|-
+|25||50k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +250
+|-
+|26||55k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +260
+|-
+|27||60k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +270
+|-
+|28||65k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +280
+|-
+|29||70k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +290
+|-
+|30||75k||Demon Minion MAX +1||Per 10 Berserkers in battle, Troop ATK +300
+|}
+
+==Research Ability==
+Below is a table of the research manual cost to upgrade each research gene. Neandergal specializes in '''Demon Genes''' specialization and therefore the research manual cost for the Demon is halved.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+==Minion - Berserker==
+Forget about crowd control, healing, and positioning. Hacking and slashing are the only things it does, which actually work quite well by the way.
+
+===Special Ability - Argh!===
+Per 10 Berserkers in battle, Troop Fire DMG +1 (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Berserkers!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Pinocchio}}<br>{{relink|Pinocchio}}
+|Berserker HP +1%
+|Berserker DEF +1%
+|Berserker ATK +1%
+|Berserker RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Gregor Specimen}}<br>{{relink|Gregor Specimen}}
+|Berserker HP +1%
+|Berserker DEF +1%
+|Berserker ATK +1%
+|Berserker RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|The Starry Night}}<br>{{relink|The Starry Night}}
+|Berserker HP +2%
+|Berserker DEF +2%
+|Berserker ATK +2%
+|Berserker RUSH +2% 
+|Berserker All Stats +3% 
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Napoleon Painting}}<br>{{relink|Napoleon Painting}}
+|Berserker HP +2%
+|Berserker DEF +2%
+|Berserker ATK +2%
+|Berserker RUSH +2%
+|Berserker All Stats +3% 
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|The School of Athens}}<br>{{relink|The School of Athens}}
+|Berserker DEF +4%
+|Berserker DEF +4%
+|Berserker DEF +4%
+|Berserker DEF +4%
+|Berserker DEF +4%
+|Berserker DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Swan Lake}}<br>{{relink|Swan Lake}}
+|Berserker ATK +4%
+|Berserker ATK +4%
+|Berserker ATK +4%
+|Berserker ATK +4%
+|Berserker ATK +4%
+|Berserker ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Ode to Joy}}<br>{{relink|Ode to Joy}}
+|Berserker RUSH +4%
+|Berserker RUSH +4%
+|Berserker RUSH +4%
+|Berserker RUSH +4%
+|Berserker RUSH +4%
+|Berserker RUSH +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Ragnarok}}<br>{{relink|Ragnarok}}
+|Berserker HP +4%
+|Berserker HP +4%
+|Berserker HP +4%
+|Berserker HP +4%
+|Berserker HP +4%
+|Berserker HP +4%
+|}
+
+[[Category:Partners]]

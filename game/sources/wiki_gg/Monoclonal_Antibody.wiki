@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Monoclonal Antibody
+|class_id=20352
+|rank=Green
+|affct=TECH
+|source=
+|description=A monoclonal antibody is a highly homogeneous antibody that only targets a specific epitope. Usually, through cell fusion technology, the autoimmunity cells that secrete antibodies are fused with myeloma cells with unlimited reproductive capacity to produce hybridoma cells for cloning. It has high purity, high sensitivity, uniqueness, less cross-reaction, low cost, and can be applied against autoimmune diseases, tumors, and other disorders.
+|fame=13
+|art=16
+|fth=17
+|civ=14
+|tech=30
+|ss1=Minion Recovery SPD +0.5%<br>Per 10 Minions in battle:<br>> Troop ATK +1
+|ss2=Minion Recovery SPD +1%<br>Per 10 Minions in battle:<br>> Troop ATK +2
+|ss3=Minion Recovery SPD +1.5%<br>Per 10 Minions in battle:<br>> Troop ATK +3
+|ss4=Minion Recovery SPD +1.5%<br>Per 10 Minions in battle:<br>> Troop ATK +3
+|ss7=Minion Recovery SPD +1.5%<br>Per 10 Minions in battle:<br>> Troop ATK +3<br> (Awakened)
+}}

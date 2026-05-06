@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Scales of Astraea
+|class_id=22296
+|rank=SSS
+|affct=FAITH
+|birthday=09-08
+|source=
+|description=On Sept 8, 3128 BC, Astraea began using this scale to judge human evil.<br>As the goddess of justice, Astraea has a pair of scales that can weigh good and evil in the world. Legend has it that she came to the mortal world during the Golden Age, presiding over all judgments on good and evil. However, humans gradually corrupted, and the goddess was unable to stop the spread of evil, so she abandoned the earth and ascended to heaven. And the scales, as the symbol Astraea, were left on earth for people to worship...
+|fame=70
+|art=72
+|fth=109
+|civ=49
+|tech=62
+|ss1=Quantum Amp Max Cap +3%<br>Per 60 Minions in battle:<br>> Troop HP +90<br>Per 60 Minions in battle:<br>> Troop ATK +9
+|ss2=Quantum Amp Max Cap +4%<br>Per 60 Minions in battle:<br>> Troop HP +180<br>Per 60 Minions in battle:<br>> Troop ATK +18
+|ss3=Quantum Amp Max Cap +5%<br>Per 60 Minions in battle:<br>> Troop HP +270<br>Per 60 Minions in battle:<br>> Troop ATK +27
+|ss4=Quantum Amp Max Cap +7%<br>Per 60 Minions in battle:<br>> Troop HP +450<br>Per 60 Minions in battle:<br>> Troop ATK +45
+|ss5=Quantum Amp Max Cap +9%<br>Per 60 Minions in battle:<br>> Troop HP +630<br>Per 60 Minions in battle:<br>> Troop ATK +63
+|ss6=Quantum Amp Max Cap +12%<br>Per 60 Minions in battle:<br>> Troop HP +900<br>Per 60 Minions in battle:<br>> Troop ATK +90
+|ss7=Quantum Amp Max Cap +12%<br>Per 60 Minions in battle:<br>> Troop HP +900<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Quantum Amp Max Cap +10% (Awakened)
+|skill1=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +15%
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in Quantum Amp: This Relic's FTH +15
+|skill3=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Produce Nebula Chest Shards by +15%
+|mirage={{Mirage|name=Stars' Will|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Phaenon|3rec=39.77M|3atk=149660|3defense=99844|3hp=6330888|3weak=19921
+|4name=Pyroeis|4rec=51.99M|4atk=175431|4defense=117037|4hp=8401263|4weak=22110
+|5name=Hesperus|5rec=65.80M|5atk=204562|5defense=136472|5hp=11047707|5weak=26516
+|6name=Stilbon|6rec=81.06M|6atk=236736|6defense=157936|6hp=14257773|6weak=31086
+|Arec=97.53M|Aatk=271470|Adefense=181108|Ahp=18059936|Aweak=34048
+}}}}

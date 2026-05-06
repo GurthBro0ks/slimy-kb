@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Blower
+|class_id=20304
+|rank=Green
+|affct=TECH
+|source=
+|description=This pig-head-shaped hair dryer consists of a set of heating coils and a small high-speed fan. When it is turned on, the air from the fan blows through the heated coil to become warm jets. If only the small fan spins and the coil is not hot, it produces only cool air.
+|fame=15
+|art=14
+|fth=17
+|civ=13
+|tech=31
+|ss1=Time Machine Travel Speedup Output +2%
+|ss2=Time Machine Travel Speedup Output +4%
+|ss3=Time Machine Travel Speedup Output +6%
+|ss4=Time Machine Travel Speedup Output +6%
+|ss7=Time Machine Travel Speedup Output +6%<br> (Awakened)
+}}

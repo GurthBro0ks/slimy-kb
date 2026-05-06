@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Ride of the Valkyries
+|class_id=22585
+|rank=AAA
+|affct=CIV
+|birthday=06-13
+|source=
+|description=On Jun 13, 1870 AD, the Ride of the Valkyries premiered at the Munich Opera House.<br>The Ride of the Valkyries is part of the opera Die Walküre, which connects with Das Rheingold. Wotan wishes to obtain the ring and hopes to create a warrior on Earth to break Alberich's curse. He comes to earth and gives birth to the twin siblings Siegmund and Sieglinde, but they later become separated. Years later, Sieglinde marries the warrior Hunding, and Siegmund fights him. Wotan helps Hunding kill Siegmund, and Brunhilde is punished for disobeying Wotan's orders and is trapped on a mountaintop...
+|fame=53
+|art=47
+|fth=42
+|civ=71
+|tech=30
+|ss1=Mutant Minion Cloning SPD +3%<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +12
+|ss2=Mutant Minion Cloning SPD +4%<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +16
+|ss3=Mutant Minion Cloning SPD +5%<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +20
+|ss4=Mutant Minion Cloning SPD +7%<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +28
+|ss5=Mutant Minion Cloning SPD +9%<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +36
+|ss7=Mutant Minion Cloning SPD +9%<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +36<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +28 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Reagent Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's CIV +10
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=815
+|relics=Flying Horse of Gansu,Burghers of Calais
+|rank=orange
+|amount=2
+|category=self
+|description=Tribal Amber output +14%
+}}

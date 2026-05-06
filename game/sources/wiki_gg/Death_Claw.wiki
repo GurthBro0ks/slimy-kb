@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Death Claw
+|type=Common
+|rank=orange
+|id=10860
+|idx=67
+|description=The huge claw was of a genetically engineered mutant lizard that can't change color yet grows larger and more powerful.
+|skill=
+|hp=1772
+|def=180
+|atk=290
+|rush=198
+|gene1=In Zombie or Mutant Forms, {race} ATK +120
+|gene2=When in Zombie or Mutant Forms:
+> Gain +6% Cells in explorations
+|gene3=Earth DMG +90
+|gene4=Each round, {race} ATK +60
+|gene5=Rebel Cabin, deployable robots +3
+|gene7=Rebel Cabin, deployable robots +9 (Awakened)
+|}}

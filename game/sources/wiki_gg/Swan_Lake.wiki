@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Swan Lake
+|rank=SS
+|affct=ART
+|birthday=05-18
+|source=Grandmaster Scrolls (1%), Lottery Machine (0.12%), Relic Forge (100 Relic RF), Wishing (0.1%)
+|description=On May 18, 1876, musician Tchaikovsky wrote his first ballet, Swan Lake.
+
+Tchaikovsky drew inspiration from folk tales to compose this ballet. The ballet tells the story of princess Odette, who was turned into a white swan by an evil sorcerer's curse on the shore of Swan Lake. Prince Siegfried fell in love with Odette when he visited Swan Lake. On the night of the prince's choice of bride, the devil has his daughter Black Swan disguise as Odette to deceive the Prince. The Prince nearly fell into the trap but eventually found out the truth. He fought and slaughtered the evil sorcerer. The white swan recovers her human form as a Princess, and is reunited with the Prince for a happily ever after.
+
+|fame=59
+|art=104
+|fth=60
+|civ=53
+|tech=71
+|ss1=Snail HP +200<br>Lottery White Beads turn to Green by +0.4%<br>Lottery Green Beads turn to Blue by +0.4%
+|ss2=Snail HP +300<br>Lottery White Beads turn to Green by +0.6%<br>Lottery Green Beads turn to Blue by +0.6%
+|ss3=Snail HP +400<br>Lottery White Beads turn to Green by +0.8%<br>Lottery Green Beads turn to Blue by +0.8%
+|ss4=Snail HP +600<br>Lottery White Beads turn to Green by +1.2%<br>Lottery Green Beads turn to Blue by +1.2%
+|ss5=Snail HP +800<br>Lottery White Beads turn to Green by +1.6%<br>Lottery Green Beads turn to Blue by +1.6%
+|ss6=Snail HP +1,100<br>Lottery White Beads turn to Green by +2.2%<br>Lottery Green Beads turn to Blue by +2.2%
+|ss7=Snail HP +1,100<br>Lottery White Beads turn to Green by +2.2%<br>Lottery Green Beads turn to Blue by +2.2%<br>Lottery White Beads turn to Green by +1% (Awakened)
+|skill1=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: B-tad Output +30%
+|skill2=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: This Relic's ART +15
+|skill3=[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: This Relic's CIV +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:Lottery Bead Color Change]]
+[[Category:Tadpole Pond Skill]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:ART Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:CIV Boost]]
+[[Category:Fissure Boost]]
+[[Category:DNA Boost]]
+[[Category:ATK Boost]]
+[[Category:Berserker Boost]]

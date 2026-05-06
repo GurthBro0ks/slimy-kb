@@ -1,0 +1,40 @@
+{{Missing Info|specifics=<br>Mirage: Name 6s}}
+
+{{CargoRelic
+|name=Encyclopedia
+|rank=SSS
+|affct=FAME
+|birthday=04-08
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.09%)
+|description=On Apr 8, 2012, the world's largest encyclopedia stopped its print publication. The owners of the Encyclopedia had decided to discontinue the print version, continuing to only provide a digital version moving forward. It was considered to be the most famous reference resource in the world. It was published in Edinburgh, Scotland, two hundred years ago, with entries written by many experts and scholars. Its online version began in 1994 and had more than 100 million users worldwide.<br>
+[Basic Info]<br>
+Version: 15th Edition. Words: 43.5 million. Items: over 81600. Pictures: over 15300.
+|fame=106
+|art=54
+|fth=72
+|civ=67
+|tech=63
+|ss1=Lumber Camp Output +6%<br>Per 5 Lumber Camp LVLs, Snail HP +120<br>Per 5 Lumber Camp LVLs, Snail ATK +12<br>Lumber Camp LVL: 50/50
+|ss2=Lumber Camp Output +8%<br>Per 5 Lumber Camp LVLs, Snail HP +160<br>Per 5 Lumber Camp LVLs, Snail ATK +16<br>Lumber Camp LVL: 50/50
+|ss3=Lumber Camp Output +10%<br>Per 5 Lumber Camp LVLs, Snail HP +200<br>Per 5 Lumber Camp LVLs, Snail ATK +20<br>Lumber Camp LVL: 50/50
+|ss4=Lumber Camp Output +14%<br>Per 5 Lumber Camp LVLs, Snail HP +280<br>Per 5 Lumber Camp LVLs, Snail ATK +28<br>Lumber Camp LVL: 50/50
+|ss5=Lumber Camp Output +18%<br>Per 5 Lumber Camp LVLs, Snail HP +360<br>Per 5 Lumber Camp LVLs, Snail ATK +36<br>Lumber Camp LVL: 50/50
+|ss6=Lumber Camp Output +24%<br>Per 5 Lumber Camp LVLs, Snail HP +480<br>Per 5 Lumber Camp LVLs, Snail ATK +48<br>Lumber Camp LVL: 50/50
+|ss7=Lumber Camp Output +24%<br>Per 5 Lumber Camp LVLs, Snail HP +480<br>Per 5 Lumber Camp LVLs, Snail ATK +48<br>Lumber Camp LVL: 50/50<br>Lumber Camp Output +20% (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail HP +6,000
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x Orange Card Drops +15%
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x Orange Reagent Drops +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Lumber Camp Output Boost]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Lumber Camp Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Hitman Boost]]
+[[Category:Minion HARD Boost]]
+[[Category:Frost Drake Boost]]

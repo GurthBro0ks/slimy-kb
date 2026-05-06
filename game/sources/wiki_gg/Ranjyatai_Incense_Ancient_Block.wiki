@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Ranjyatai Incense,Ancient Block
+|rank=blue
+|amount=2
+|category=dna
+|description=Zombie Gene Research SPD +3%
+}}
+[[Category:DNA]]

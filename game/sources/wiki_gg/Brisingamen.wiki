@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Brisingamen
+|class_id=22055
+|rank=Blue
+|affct=FAITH
+|birthday=06-25
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jun 25, 1865 BC, the goddess Freyja obtained the magical Brisingamen.<br>Brisingamen is the property of Freyja, the goddess of love and beauty in Norse mythology. It has a powerful magic power, which can endow women who wear it with magical charm, making it irresistible for all men. According to legend, Loki once stole this necklace. After Freya found out about this, she summoned Heimdall to help her get the necklace back. This incident caused the two gods to form an incomprehensible bitterness. In the final battle of Ragnarok, they ended up dying together.
+|fame=27
+|art=31
+|fth=46
+|civ=20
+|tech=30
+|ss1=Angel Minion RUSH +1%
+|ss2=Angel Minion RUSH +2%
+|ss3=Angel Minion RUSH +3%
+|ss4=Angel Minion RUSH +5%
+|ss7=Angel Minion RUSH +5%<br>Angel Minion RUSH +5% (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +20
+}}

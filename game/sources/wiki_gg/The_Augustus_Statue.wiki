@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Augustus Statue
+|class_id=21535
+|rank=SSS
+|affct=CIV
+|birthday=02-17
+|source=
+|description=On Feb 17, 19 BC, the Augustus Statue was carefully placed to honor the enduring achievements of this founding emperor.<br>The Augustus Statue was constructed to commemorate the great founder of the Roman Empire. With intricate craftsmanship, the image of Augustus is portrayed vividly, capturing his dignified and authoritative demeanor as a ruler. The overall elegant and balanced proportions of the statue exemplify the strengths of ancient Roman art, making it a priceless masterpiece!
+|fame=68
+|art=61
+|fth=62
+|civ=110
+|tech=61
+|ss1=Snail HP +300<br>Per 10k Relic Points, Snail HP +50<br>Per 10k Relic Points, Snail ATK +5<br>Relic Points: 180000/180000
+|ss2=Snail HP +400<br>Per 10k Relic Points, Snail HP +50<br>Per 10k Relic Points, Snail ATK +5<br>Relic Points: 240000/240000
+|ss3=Snail HP +500<br>Per 10k Relic Points, Snail HP +50<br>Per 10k Relic Points, Snail ATK +5<br>Relic Points: 300000/300000
+|ss4=Snail HP +700<br>Per 10k Relic Points, Snail HP +50<br>Per 10k Relic Points, Snail ATK +5<br>Relic Points: 420000/420000
+|ss5=Snail HP +900<br>Per 10k Relic Points, Snail HP +50<br>Per 10k Relic Points, Snail ATK +5<br>Relic Points: 540000/540000
+|ss6=Snail HP +1200<br>Per 10k Relic Points, Snail HP +50<br>Per 10k Relic Points, Snail ATK +5<br>Relic Points: 720000/720000
+|ss7=Snail HP +1200<br>Per 10k Relic Points, Snail HP +50<br>Per 10k Relic Points, Snail ATK +5<br>Relic Points: 720000/720000<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail DEF +600
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's CIV +15
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Earth DMG +600
+|mirage={{Mirage|name=Romance of Roma|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Caesar|3rec=1.56M|3atk=28427|3defense=18884|3hp=290819|3weak=6633
+|4name=Lepidus|4rec=3.20M|4atk=43606|4defense=28967|4hp=648341|4weak=9533
+|5name=Antony|5rec=6.20M|5atk=63153|5defense=41952|5hp=1218219|5weak=12269
+|6name=Octavius|6rec=11.27M|6atk=87288|6defense=57985|6hp=2168020|6weak=14299
+|Arec=23.62M|Aatk=116111|Adefense=77133|Ahp=3681637|Aweak=17931
+}}}}

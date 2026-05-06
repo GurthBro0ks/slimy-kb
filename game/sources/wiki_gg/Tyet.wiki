@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Tyet
+|class_id=22846
+|rank=SSS
+|affct=FAITH
+|source=
+|description=The Tyet is a symbol of the goddess Isis, whose name signifies prosperity and life. It guards family, love, dance, music, happiness, fertility and motherhood. During the New Kingdom period in ancient Egypt, as the worship of Isis reached its zenith, temples were dedicated to her in Thebes, and her worship has lasted for three thousand years.
+|fame=61
+|art=75
+|fth=107
+|civ=51
+|tech=68
+|ss1=Catalyzed Green Spores turn to Blue by +0.3%<br>Snail Leadership +6<br>Per 500 catalysis, Snail ATK +6<br>Catalysis: 20000/20000
+|ss2=Catalyzed Green Spores turn to Blue by +0.4%<br>Snail Leadership +7<br>Per 500 catalysis, Snail ATK +8<br>Catalysis: 20000/20000
+|ss3=Catalyzed Green Spores turn to Blue by +0.5%<br>Snail Leadership +8<br>Per 500 catalysis, Snail ATK +10<br>Catalysis: 20000/20000
+|ss4=Catalyzed Green Spores turn to Blue by +0.7%<br>Snail Leadership +10<br>Per 500 catalysis, Snail ATK +14<br>Catalysis: 20000/20000
+|ss5=Catalyzed Green Spores turn to Blue by +0.9%<br>Snail Leadership +12<br>Per 500 catalysis, Snail ATK +18<br>Catalysis: 20000/20000
+|ss6=Catalyzed Green Spores turn to Blue by +1.2%<br>Snail Leadership +15<br>Per 500 catalysis, Snail ATK +24<br>Catalysis: 20000/20000
+|ss7=Catalyzed Green Spores turn to Blue by +1.2%<br>Snail Leadership +15<br>Per 500 catalysis, Snail ATK +24<br>Catalysis: 20000/20000<br>Snail Leadership +10 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Water DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +3%
+|mirage={{Mirage|name=Ennead Pantheon|reward={{RewardIconWithLink|Fluorite, +5|orange}}
+|3name=Geb|3rec=485.82M|3atk=1066306|3defense=599630|3hp=372736595|3weak=74279
+|4name=dungeon_event@4422_1|4rec=607.56M|4atk=1328066|4defense=709161|4hp=563697324|4weak=80768
+|5name=Osiris|5rec=823.98M|5atk=1949033|5defense=933226|5hp=949046064|5weak=91085
+|6name=Isis|6rec=1191.38M|6atk=3019604|6defense=1300261|6hp=1796054648|6weak=103101
+|Arec=1741.42M|Aatk=4616733|Adefense=1831061|Ahp=2918352117|Aweak=114700
+}}}}

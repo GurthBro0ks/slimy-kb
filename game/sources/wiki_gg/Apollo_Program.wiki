@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Apollo Program
+|class_id=22624
+|rank=SSS
+|affct=FAME
+|birthday=04-01
+|source=
+|description=On Apr 1, 1961 AD, the United States began the Apollo program.<br>To achieve manned lunar exploration and conduct on-site investigations of the moon, the United States initiated the Apollo program. This program lasted more than ten years and consumed over 25 billion dollars. Eventually, the Apollo 11 spacecraft successfully landed on the lunar surface. This historic achievement not only marked a significant milestone in space exploration but also provided a wealth of invaluable data about the moon. The Apollo missions propelled the progress of the aerospace field and paved the way for further advancements in our understanding of the universe.
+|fame=108
+|art=60
+|fth=53
+|civ=72
+|tech=69
+|ss1=Snail Leadership +6<br>Zombie Minion DEF +3%<br>Per Orange Brand Cases opened, Snail ATK +2<br>Orange Brand Cases Opened: 50/50
+|ss2=Snail Leadership +7<br>Zombie Minion DEF +4%<br>Per Orange Brand Cases opened, Snail ATK +4<br>Orange Brand Cases Opened: 50/50
+|ss3=Snail Leadership +8<br>Zombie Minion DEF +5%<br>Per Orange Brand Cases opened, Snail ATK +6<br>Orange Brand Cases Opened: 50/50
+|ss4=Snail Leadership +10<br>Zombie Minion DEF +7%<br>Per Orange Brand Cases opened, Snail ATK +10<br>Orange Brand Cases Opened: 50/50
+|ss5=Snail Leadership +12<br>Zombie Minion DEF +9%<br>Per Orange Brand Cases opened, Snail ATK +14<br>Orange Brand Cases Opened: 50/50
+|ss6=Snail Leadership +15<br>Zombie Minion DEF +12%<br>Per Orange Brand Cases opened, Snail ATK +20<br>Orange Brand Cases Opened: 50/50
+|ss7=Snail Leadership +15<br>Zombie Minion DEF +12%<br>Per Orange Brand Cases opened, Snail ATK +20<br>Orange Brand Cases Opened: 50/50<br>Snail Leadership +10 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Reagent Drops +6%
+|mirage={{Mirage|name=Moonlanders|reward={{RewardIconWithLink|Star Stone, +3|orange}}
+|3name=Scott|3rec=107.62M|3atk=331620|3defense=195311|3hp=29721156|3weak=41375
+|4name=Corinth|4rec=122.86M|4atk=364655|4defense=216750|4hp=39063997|4weak=44970
+|5name=Aldrin|5rec=142.74M|5atk=408630|5defense=244723|5hp=54560522|5weak=48990
+|6name=Armstrong|6rec=170.09M|6atk=469046|6defense=283202|6hp=81499862|6weak=53554
+|Arec=208.57M|Aatk=550477|Adefense=337342|Ahp=122258686|Aweak=58678
+}}}}

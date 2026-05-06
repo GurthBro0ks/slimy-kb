@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=605
+|relics=Peace of Prague,Camp David Accords
+|rank=blue
+|amount=2
+|category=self
+|description=Snail DEF +50
+}}

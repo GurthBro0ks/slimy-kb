@@ -1,0 +1,22 @@
+{{Missing Info|specifics=<br>Source}}
+
+{{CargoRelic
+|name=Bladden's Statue
+|class_id=20299
+|rank=Green
+|affct=FTH
+|source=
+|description=Upon learning of Bladden's demise, Earth's Will had statues crafted in the likeness of his head. These were made to commemorate the historic moment of triumph over a formidable foe and to be bestowed upon distinguished Travelers, allowing them to share in the joy of victory!
+|fame=16
+|art=13
+|fth=31
+|civ=16
+|tech=14
+|ss1=Snail Leadership +1<br>Per Demon God Sculpture owned, Snail DEF +50<br>Demon God Sculptures Owned: 8/8
+|ss2=Snail Leadership +2<br>Per Demon God Sculpture owned, Snail DEF +100<br>Demon God Sculptures Owned: 8/8
+|ss3=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail DEF +150<br>Demon God Sculptures Owned: 8/8
+}}
+
+[[Category:DEF Boost]]
+[[Category:Demon God Boost]]
+[[Category:Leadership Boost]]

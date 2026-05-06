@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20993_1
+|class_id=20993
+|rank=Green
+|affct=FAME
+|source=
+|description=collection@20993_2
+|fame=29
+|art=14
+|fth=18
+|civ=16
+|tech=13
+|ss1=Snail Leadership +2<br>prop@58572_2<br>Lucky Star Gained: 3600/3600
+|ss2=Snail Leadership +4<br>prop@58572_2<br>Lucky Star Gained: 3600/3600
+|ss3=Snail Leadership +6<br>prop@58572_2<br>Lucky Star Gained: 3600/3600
+|ss4=Snail Leadership +6<br>prop@58572_2<br>Lucky Star Gained: 3600/3600
+|ss7=Snail Leadership +6<br>prop@58572_2<br>Lucky Star Gained: 3600/3600<br> (Awakened)
+}}

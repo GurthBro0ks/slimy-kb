@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Peacock Suit
+|rank=AAA
+|affct=ART
+|birthday=12-13
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Murikan Treasure Maps (10%), Relic Forge (80 Relic RF)
+|description=On Dec 13, 1974, Elvis Presley wore this Peacock Suit and gave a great performance.
+
+On this day, Elvis Presley wore this peacock suit with a white V-neck top as his costume because he believed that the peacock was a symbol of good luck. Back then, he spent a hefty sum to hire a fashion designer in L.A. to make this suit. He also took the cover of his album "Promised Land" in this suit.
+|fame=44
+|art=72
+|fth=47
+|civ=46
+|tech=34
+|ss1=Per 5 Dragon Gene LVLs, Snail HP +60<br>Per 5 Dragon Gene LVLs, Snail RUSH +6<br>Dragon Gene LVLs Researched: 100/100
+|ss2=Per 5 Dragon Gene LVLs, Snail HP +80<br>Per 5 Dragon Gene LVLs, Snail RUSH +8<br>Dragon Gene LVLs Researched: 100/100
+|ss3=Per 5 Dragon Gene LVLs, Snail HP +100<br>Per 5 Dragon Gene LVLs, Snail RUSH +10<br>Dragon Gene LVLs Researched: 100/100
+|ss4=Per 5 Dragon Gene LVLs, Snail HP +<br>Per 5 Dragon Gene LVLs, Snail RUSH +<br>Dragon Gene LVLs Researched: 100/100
+|ss5=Per 5 Dragon Gene LVLs, Snail HP +180<br>Per 5 Dragon Gene LVLs, Snail RUSH +18<br>Dragon Gene LVLs Researched: 100/100
+|ss7=Per 5 Dragon Gene LVLs, Snail HP +180<br>Per 5 Dragon Gene LVLs, Snail RUSH +18<br>Dragon Gene LVLs Researched: 100/100<br>Snail HP +700 (Awakened)
+|skill1=[[File:Murika skill II.png|50px]] Place in Murikan Museum: In Murika, 2x Green Reagent Drops +7.5%
+|skill2=[[File:Murika skill II.png|50px]] Place in Murikan Museum: This Relic's ART +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:ART Relics]]
+[[Category:Purple ART Relics]]
+[[Category:Minion RUSH Boost]]
+[[Category:HP Boost]]
+[[Category:RUSH Boost]]
+[[Category:ATK Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Enhanced by Dragon Gene LVL]]
+[[Category:Enhanced by DNA Strength]]
+[[Category:Frost Drake Boost]]

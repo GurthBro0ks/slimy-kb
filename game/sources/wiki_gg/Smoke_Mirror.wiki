@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Smoke Mirror
+|class_id=21242
+|rank=SSS
+|affct=FAITH
+|source=
+|description=Made from volcanic obsidian, this Aztec relic reflects fate and night winds. Its frame, crafted from sacrificial ribs and gold, holds glyphs of lost sun ages. Priests used copal smoke and blood to divine visions—or suffer a deadly curse.
+|fame=62
+|art=76
+|fth=106
+|civ=53
+|tech=65
+|ss1=Per 60 T8+ Minions deployed, Troop ATK +36<br>Per 20k Fervor, Snail ATK +3<br>Per 20k Fervor, Snail Bedrock Power +3<br>Fervor: 1200000/1200000
+|ss2=Per 60 T8+ Minions deployed, Troop ATK +48<br>Per 20k Fervor, Snail ATK +4<br>Per 20k Fervor, Snail Bedrock Power +4<br>Fervor: 1200000/1200000
+|ss3=Per 60 T8+ Minions deployed, Troop ATK +60<br>Per 20k Fervor, Snail ATK +5<br>Per 20k Fervor, Snail Bedrock Power +5<br>Fervor: 1200000/1200000
+|ss4=Per 60 T8+ Minions deployed, Troop ATK +84<br>Per 20k Fervor, Snail ATK +7<br>Per 20k Fervor, Snail Bedrock Power +7<br>Fervor: 1200000/1200000
+|ss5=Per 60 T8+ Minions deployed, Troop ATK +108<br>Per 20k Fervor, Snail ATK +9<br>Per 20k Fervor, Snail Bedrock Power +9<br>Fervor: 1200000/1200000
+|ss6=Per 60 T8+ Minions deployed, Troop ATK +144<br>Per 20k Fervor, Snail ATK +12<br>Per 20k Fervor, Snail Bedrock Power +12<br>Fervor: 1200000/1200000
+|ss7=Per 60 T8+ Minions deployed, Troop ATK +144<br>Per 20k Fervor, Snail ATK +12<br>Per 20k Fervor, Snail Bedrock Power +12<br>Fervor: 1200000/1200000<br>Per 60 T8+ Minions deployed, Troop ATK +120 (Awakened)
+|skill1=[[File:Rockyhighland skill III.png|50px]]Placed in Rocky Highland:Rocky Highland, Earthite output speed+30%
+|skill2=[[File:Rockyhighland skill III.png|50px]]Placed in Rocky Highland:Rocky Highland, Zone SUP effect reduced by 30%
+|skill3=[[File:Rockyhighland skill III.png|50px]]Placed in Rocky Highland:Rocky Highland, Relic FTH +15
+|mirage={{Mirage|name=dungeon@21242_1|reward={{RewardIconWithLink|Civilization Clockwork, +3|orange}}
+|3name=dungeon_event@4502_1|3rec=348.66M|3atk=839976|3defense=476240|3hp=187026241|3weak=71500
+|4name=dungeon_event@4503_1|4rec=443.26M|4atk=995694|4defense=561348|4hp=309103594|4weak=77326
+|5name=dungeon_event@4504_1|5rec=578.87M|5atk=1246937|5defense=683346|5hp=532392190|5weak=84884
+|6name=dungeon_event@4505_1|6rec=774.27M|6atk=1790469|6defense=879913|6hp=877435809|6weak=93273
+|Arec=1089.13M|Aatk=2743783|Adefense=1201580|Ahp=1638867236|Aweak=102250
+}}}}

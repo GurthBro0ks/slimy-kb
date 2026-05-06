@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Qin Bronze Chariot
+|class_id=22710
+|rank=SSS
+|affct=CIV
+|birthday=07-22
+|source=Lottery Machine No.3 (0.12%)
+|description=On Jul 22, 1978 AD, a giant object was discovered on the west side of the Qinling Mausoleum.<br>It was a replica made of bronze that was proportionally accurate to the real-life chariots and horses of the Qin Dynasty. The entire chariot and horse was made of more than 3,000 parts and is the largest unearthed ancient vehicle to date, with the most complex structure and complete carriage system. The components of the bronze chariot and horse were all cast and required different casting methods depending on the size and shape of each component. The difficulty of making it was extremely high, equivalent to the complexity of modern mechanical manufacturing. It is considered the crown jewel of bronze artistry.
+|fame=77
+|art=64
+|fth=65
+|civ=108
+|tech=48
+|ss1=All minion skins HP +10%<br>In Minion Sims, Mantis Data Calculation Effect +6%<br>Per 3 Hidden Treasures claimed, Snail DEF +3<br>Hidden Treasures Claimed: 150/150
+|ss2=All minion skins HP +20%<br>In Minion Sims, Mantis Data Calculation Effect +8%<br>Per 3 Hidden Treasures claimed, Snail DEF +4<br>Hidden Treasures Claimed: 150/150
+|ss3=All minion skins HP +30%<br>In Minion Sims, Mantis Data Calculation Effect +10%<br>Per 3 Hidden Treasures claimed, Snail DEF +5<br>Hidden Treasures Claimed: 150/150
+|ss4=All minion skins HP +50%<br>In Minion Sims, Mantis Data Calculation Effect +14%<br>Per 3 Hidden Treasures claimed, Snail DEF +7<br>Hidden Treasures Claimed: 150/150
+|ss5=All minion skins HP +70%<br>In Minion Sims, Mantis Data Calculation Effect +18%<br>Per 3 Hidden Treasures claimed, Snail DEF +9<br>Hidden Treasures Claimed: 150/150
+|ss6=All minion skins HP +100%<br>In Minion Sims, Mantis Data Calculation Effect +24%<br>Per 3 Hidden Treasures claimed, Snail DEF +12<br>Hidden Treasures Claimed: 150/150
+|ss7=All minion skins HP +100%<br>In Minion Sims, Mantis Data Calculation Effect +24%<br>Per 3 Hidden Treasures claimed, Snail DEF +12<br>Hidden Treasures Claimed: 150/150<br>In Minion Sims, Mantis Data Calculation Effect +20% (Awakened)
+|skill1=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion ATK +9%
+|skill2=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop Fire DMG +60
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+|mirage={{Mirage|name=Bronze Army|reward={{RewardIconWithLink|Travel Speedup, +28800|orange}}
+|3name=Bronze Horse|3rec=114.43M|3atk=325537|3defense=204890|3hp=17709033|3weak=35823
+|4name=Driver|4rec=131.00M|4atk=364301|4defense=228197|4hp=20622856|4weak=37595
+|5name=Military Chariot|5rec=155.62M|5atk=423138|5defense=262847|5hp=26727281|5weak=39406
+|6name=Seated Chariot|6rec=186.28M|6atk=496359|6defense=305975|6hp=35153418|6weak=41957
+|Arec=218.37M|Aatk=574841|Adefense=351125|Ahp=47362376|Aweak=46501
+}}}}

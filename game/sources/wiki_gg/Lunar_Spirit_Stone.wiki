@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Lunar Spirit Stone
+|class_id=20631
+|rank=Green
+|affct=ART
+|source=
+|description=A wondrous ore with a colorful luster, capable of absorbing and converting the energy released during the crystallization process into various valuable substances. It is a rare treasure in the Moon Palace.
+|fame=16
+|art=30
+|fth=17
+|civ=16
+|tech=16
+|ss1=Per 5 Mirage Gems gained, Snail RUSH +1<br>Mirage Gems Gained: 200/200
+|ss2=Per 5 Mirage Gems gained, Snail RUSH +2<br>Mirage Gems Gained: 200/200
+|ss3=Per 5 Mirage Gems gained, Snail RUSH +3<br>Mirage Gems Gained: 200/200
+|ss4=Per 5 Mirage Gems gained, Snail RUSH +3<br>Mirage Gems Gained: 200/200
+|ss7=Per 5 Mirage Gems gained, Snail RUSH +3<br>Mirage Gems Gained: 200/200<br> (Awakened)
+}}

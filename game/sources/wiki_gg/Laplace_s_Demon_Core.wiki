@@ -1,0 +1,23 @@
+{{CargoOrgan
+|name=Laplace's Demon Core
+|type=Common
+|rank=red
+|id=10921
+|idx=132
+|description="Sealed by Einstein despite knowing all universal particle states across time. Turns out precognition doesn't help when your opponent can yeet you into a physics paradox."
+—Superbrain Files
+|skill=
+|hp=3090
+|def=231
+|atk=296
+|rush=234
+|gene1=The Pond has a +12% chance to produce W-tads
+|gene2=Fungus Farm: +12%chance to produce
+Wonder Fungi
+|gene3=Lumber Camp produces Ancient Wood by +12%
+|gene4=Quarry produces Ancient Fossil by +12%
+|gene5=The Time Machine: +12% chance to drop
+Time Chests
+|gene6=Home Facility Resource Max Cap +5%
+|gene7=All Rocket Cabin production +4% (Awakened)
+|}}

@@ -1,0 +1,780 @@
+{{Missing Info|specifics=<br>* How '''exactly''' does removing something from a loot table change the drop rates? (This probably only impacts Divine Chests and Wormhole Refiner.)<br>* [[Missing Files]]<br>* Memetic Catalyst Info}}
+
+''Note: "Treasure Collection" and "Collection Items" are unofficial terms and are not used in-game. No official equivalent for these terms currently exists.''</br>
+<div style="background-color:var(--wiki-content-background-color--secondary); border-style:solid; border-width:1px; border-color:var(--wiki-content-heading-color); padding-left:5px; padding-right:5px">
+Instead of collecting useless stuff here all over the place, why not open a big chest once in while?<br/>Our devs did like, research on this.
+</div>
+Unlike many other games, in Super Snail, chests and similar items can not be opened in the direct, traditional sense. Instead, the player must collect a large amount of the same item in order to open them for single reward. For example, collecting 50 [[Collection Stockpile#Koryeon Treasure Map|Koryeon treasure maps]] lets you open them to receive one reward. This design model means that players will receive large amounts of these items as they play. Certain collection items will, in addition to their normal contents, always reward additional items, the amount of which may be dependent on the rarity of primary reward. These can either be consumables, like [[Relic Guide|Reagent]] or [[Organs|Organ Slime]], or parts of a bonus collection item that can be opened for greater rewards.
+
+If the player receives a [[relics|relic]] through any of the means on this page that they already have, they will instead receive fragments instead dependent on it's rarity: ''10'' for blue relics, ''20'' for purple relics, or ''40'' for orange relics. Players can not receive duplicates of [[Shells|Bionic Parts]] or [[Gear]] (excluding material gear, which can be received indefinitely).
+
+While dissimilar to the other collection items in the collection stockpile, Memetic Catalyst is also included on this page.
+
+==Treasure Maps==
+There is a Treasure Map for each [[Realms|Realm]], which are each obtained by defeating enemies and through the [[Exploration|grid]] in that realm. Opening a treasure map requires 50 copies of it and will reward also grant Super Treasure Maps. This is the only source for Super Treasure Maps. The amount of Super Treasure Maps received is dependent on the rarity of the item obtained:
+* {{Retext|Green Items|green}} - Does not reward any {{RewardIconWithText|Super Treasure Map}}
+* {{Retext|Blue Items|blue}} - {{RewardIconWithText|Super Treasure Map, +6}}
+* {{Retext|Purple Items|purple}} - {{RewardIconWithText|Super Treasure Map, +12}}
+* {{Retext|Orange Items|orange}} - {{RewardIconWithText|Super Treasure Map, +20}}
+
+===Super Treasure Map===
+{{Reimg|Super Treasure Map|75}}
+'''Number Required to Open:  300'''</br>
+Super Treasure Maps can only be obtained from opening other Treasure Maps.
+
+{{RewardRowHeader}}
+!rowspan="2"|Consumables
+{{RewardRow|Dragon Orb|orange|9.97|Incense|orange|9.97}}
+!rowspan="6"|Relics
+{{RewardRow|Leaf of Yggdrasil|orange|15|Hubble Telescope|orange|15|Tutankhamun Mask|orange|15|Paradise Lost|orange|15}}
+{{RewardRow|DOI|orange|5|SkyWeb Hub|orange|5|Forbidden Fruit|orange|5|The School of Athens|orange|5}}
+{{RewardRow|Somersault Cloud|orange|0.03|Athena Statue|orange|0.03}}
+|}
+
+===Koryeon Treasure Map===
+{{Reimg|Koreyo Treasure Map|75}}
+'''Number Required to Open:  50'''</br>
+Koryeon Treasure Maps are primarily obtained by exploring [[Koryeo]]. Rewards marked with an '''''**''''' are exclusive and can only be obtained from Koryeon Treasure Maps.
+
+{{RewardRowHeader}}
+!rowspan="2"|Tadpoles
+{{RewardRow|B-Tadpole, +2k, Green|green|0.99|B-Tadpole, +5k, Blue|blue|20|B-Tadpole, +10k, Purple|purple|10|B-Tadpole, +20k, Orange|orange|4}}
+!rowspan="4"|Relics
+{{RewardRow|Hun Min Jong Um|blue|'''**'''20|Annals of Joseon|blue|'''**'''20|Yuan Calendar|purple|10|Koryeon Sutra|purple|10}}
+{{RewardRow|King Dangun Statue|orange|5|Unispark|orange|0.01}}
+|}
+
+===Yamato Treasure Map===
+{{Reimg|Yamato Treasure Map|75}}
+'''Number Required to Open:  50'''</br>
+Yamato Treasure Maps are primarily obtained by exploring [[Yamato]]. Rewards marked with an '''''**''''' are exclusive and can only be obtained from Yamato Treasure Maps.
+
+{{RewardRowHeader}}
+!rowspan="2"|Tadpoles
+{{RewardRow|B-Tadpole, +2k, Green|green|0.99|B-Tadpole, +5k, Blue|blue|20|B-Tadpole, +10k, Purple|purple|10|B-Tadpole, +20k, Orange|orange|4}}
+!rowspan="4"|Relics
+{{RewardRow|Great Wave|blue|20|Art of Ninja|blue|'''**'''20|Pine Trees Screen|purple|10|Kani Jade|purple|'''**'''10}}
+{{RewardRow|The Tale of Genji|orange|5|Golden Wheat|orange|0.01}}
+|}
+
+===Cathay Treasure Map===
+{{Reimg|Cathay Treasure Map|75}}
+'''Number Required to Open:  50'''</br>
+Cathay Treasure Maps are primarily obtained by exploring [[Cathay]]. Rewards marked with an '''''**''''' are exclusive and can only be obtained from Cathay Treasure Maps.
+
+{{RewardRowHeader}}
+!rowspan="2"|Tadpoles
+{{RewardRow|B-Tadpole, +2k, Green|green|0.99|B-Tadpole, +5k, Blue|blue|20|B-Tadpole, +10k, Purple|purple|10|B-Tadpole, +20k, Orange|orange|4}}
+!rowspan="4"|Relics
+{{RewardRow|Musician Figure|blue|20|Bronze Bird|blue|'''**'''20|Marquis Bell|purple|10|Jade Burial Suit|purple|10}}
+{{RewardRow|Imperial Jade|orange|5|Houmuwu Ding|orange|0.01}}
+|}
+
+===Murikan Treasure Map===
+{{Reimg|Murika Treasure Map|75}}
+'''Number Required to Open:  50'''</br>
+Murikan Treasure Maps are primarily obtained by exploring [[Murika]]. Rewards marked with an '''''**''''' are exclusive and can only be obtained from Murikan Treasure Maps.
+
+{{RewardRowHeader}}
+!rowspan="2"|Tadpoles
+{{RewardRow|B-Tadpole, +2k, Green|green|0.99|B-Tadpole, +5k, Blue|blue|20|B-Tadpole, +10k, Purple|purple|10|B-Tadpole, +20k, Orange|orange|4}}
+!rowspan="4"|Relics
+{{RewardRow|Gone with the Wind|blue|'''**'''20|Franklin's Kite|blue|20|ENIAC Prototype|purple|10|Peacock Suit|purple|10}}
+{{RewardRow|Mayflower|orange|5|Voyager 1|orange|0.01}}
+|}
+
+===Britland Treasure Map===
+{{Reimg|Britland Treasure Map|75}}
+'''Number Required to Open:  50'''</br>
+Britland Treasure Maps are primarily obtained by exploring [[Britland]]. None of the rewards for Britland Treasure Maps are exclusive.
+
+{{RewardRowHeader}}
+!rowspan="2"|Tadpoles
+{{RewardRow|B-Tadpole, +2k, Green|green|0.99|B-Tadpole, +5k, Blue|blue|20|B-Tadpole, +10k, Purple|purple|10|B-Tadpole, +20k, Orange|orange|4}}
+!rowspan="4"|Relics
+{{RewardRow|Templar Emblem|blue|20|Peter Pan's Flute|blue|20|Magna Carta|purple|10|The Decameron|purple|10}}
+{{RewardRow|Das Kapital|orange|5|Africa Star|orange|0.01}}
+|}
+
+===Kemetic Treasure Map===
+{{Reimg|Kemet Treasure Map|75}}
+'''Number Required to Open:  50'''</br>
+Kemetic Treasure Maps are primarily obtained by exploring [[Kemet]]. None of the rewards for Kemetic Treasure Maps are exclusive.
+
+{{RewardRowHeader}}
+!rowspan="2"|Tadpoles
+{{RewardRow|B-Tadpole, +2k, Green|green|0.99|B-Tadpole, +5k, Blue|blue|20|B-Tadpole, +10k, Purple|purple|10|B-Tadpole, +20k, Orange|orange|4}}
+!rowspan="4"|Relics
+{{RewardRow|Dendera Tablet|blue|20|Seated Scribe|blue|20|Phoenician Tablet|purple|10|Rosetta Stone|purple|10}}
+{{RewardRow|Golden Scarab|orange|5|Lotus Chalice|orange|0.01}}
+|}
+
+===Hellenic Treasure Map===
+{{Reimg|Hellenic Treasure Map|75}}
+'''Number Required to Open:  50'''</br>
+Hellenic Treasure Maps are primarily obtained by exploring [[Hellas]]. None of the rewards for Hellas Treasure Maps are exclusive.
+
+{{RewardRowHeader}}
+!rowspan="2"|Tadpoles
+{{RewardRow|B-Tadpole, +2k, Green|green|0.99|B-Tadpole, +5k, Blue|blue|20|B-Tadpole, +10k, Purple|purple|10|B-Tadpole, +20k, Orange|orange|4}}
+!rowspan="4"|Relics
+{{RewardRow|Marseilles Statue|blue|20|Euclid's Elements|blue|20|Socrates' Poison|purple|10|Zoroaster's Torch|purple|10}}
+{{RewardRow|Golden Chariot|orange|5|Prometheus Torch|orange|0.01}}
+|}
+
+===Bharata Treasure Map===
+{{Reimg|Bharata Treasure Map|75}}
+'''Number Required to Open:  50'''</br>
+Bharata Treasure Maps are primarily obtained by exploring [[Bharata]]. None of the rewards for Bharata Treasure Maps are exclusive.
+
+{{RewardRowHeader}}
+!rowspan="2"|Tadpoles
+{{RewardRow|B-Tadpole, +2k, Green|green|0.99|B-Tadpole, +5k, Blue|blue|20|B-Tadpole, +10k, Purple|purple|10|B-Tadpole, +20k, Orange|orange|4}}
+!rowspan="4"|Relics
+{{RewardRow|Buddha Tooth Sarira|blue|20|Peacock Clock|blue|20|Leaf Manuscript|purple|10|Guernica|purple|10}}
+{{RewardRow|Buddha Finger Sarira|orange|5|1001 Nights|orange|0.01}}
+|}
+
+===Time Rift Treasure Map===
+{{Reimg|Rift Treasure Map|75}}
+'''Number Required to Open:  50'''</br>
+Time Rift Treasure Maps are primarily obtained by exploring [[Time Rift]]. None of the rewards for Time Rift Treasure Maps are exclusive.
+
+{{RewardRowHeader}}
+!rowspan="2"|Tadpoles
+{{RewardRow|B-Tadpole, +2k, Green|green|0.99|B-Tadpole, +5k, Blue|blue|20|B-Tadpole, +10k, Purple|purple|10|B-Tadpole, +20k, Orange|orange|4}}
+!rowspan="4"|Relics
+{{RewardRow|Earth Magnetic Field|blue|20|Nebra Sky Disc|blue|20|Solar Sail|purple|10|The Bell of St Mura|purple|10}}
+{{RewardRow|Palermo Stone|orange|5|The Silver Key|orange|0.01}}
+|}
+
+==Collector Scrolls==
+All collector scrolls will reward exclusively relics. Collector scrolls will additionally reward reagent and B-tads. They can be obtained from various sources.
+
+===Grandmaster Scroll===
+{{Reimg|Grandmaster Scroll|75}}
+'''Number Required to Open:  40'''</br>
+Grandmaster scrolls are primarily obtained from the [[Museum#Museum_Shop|Museum Shop]]. 
+
+Grandmaster Scrolls will additionally reward:
+* {{RewardIconWithText|B-Tads, +5k}}
+* {{RewardIconWithText|Orange Reagent|orange}} +15
+
+{{RewardRowHeader}}
+!rowspan="22"|SS Relics
+{{RewardRow|The Song of Roland|orange|2.0|Cuneiform Tablet|orange|2.0|Boat of St. Peter|orange|2.0|Julian Calendar|orange|2.0}}
+{{RewardRow|The School of Athens|orange|2.0|The Thinker|orange|2.0|Liberty Guide People|orange|2.0|Buddha's Skull Sarira|orange|2.0|}}
+{{RewardRow|3-Faced Statue|orange|2.0|Eye of Akamoddo|orange|2.0|Tokamak|orange|2.0|Morse's Telegraph|orange|2.0}}
+{{RewardRow|5th Element|orange|2.0|SkyWeb Hub|orange|2.0|DOI|orange|2.0|SDI|orange|2.0}}
+{{RewardRow|Proclamation 95|orange|2.0|Mayflower|orange|2.0|Fu Hao Scripts|orange|1.5|Epic of Gilgamesh|orange|1.5}}
+{{RewardRow|Ship in a Bottle|orange|1.5|David|orange|1.5|Agamemnon Mask|orange|1.5|Golden Chariot|orange|1.5}}
+{{RewardRow|Time-Travel Box|orange|1.5|Buddha Finger Sarira|orange|1.5|Sputnik 1|orange|1.5|Causality|orange|1.5}}
+{{RewardRow|Hammurabi Code|orange|1.5|Cairo Declaration|orange|1.5|Plato's Republic|orange|1.0|Era Magazine Vol.1|orange|1.0}}
+{{RewardRow|Swan Lake|orange|1.0|Sunflowers|orange|1.0|Holy Loaves|orange|1.0|Forbidden Fruit|orange|1.0}}
+{{RewardRow|Aladdin Lamp|orange|1.0|Pandora's Box|orange|1.0|Babbage Engine|orange|1.0|Watt Steam Engine|orange|1.0}}
+{{RewardRow|Travels of Marco Polo|orange|1.0|Golden Trophy|orange|1.0|Das Kapital|orange|1.0}}
+!rowspan="20"|SSS Relics
+{{RewardRow|Houmuwu Ding|orange|0.79|Archimedes' Lever|orange|0.79|1001 Nights|orange|0.79|Da Vinci's Notes|orange|0.79}}
+{{RewardRow|The Analects|orange|0.79|The Art of War|orange|0.79|Golden Wheat|orange|0.79|Divine Comedy|orange|0.79}}
+{{RewardRow|Faust|orange|0.79|Africa Star|orange|0.79|Lotus Chalice|orange|0.79|Athena Statue|orange|0.79}}
+{{RewardRow|Sistine Madonna|orange|0.79|Ragnarok|orange|0.79|Lyre of Hermes|orange|0.79|Ansidei Madonna|orange|0.79}}
+{{RewardRow|Gaea's Hand|orange|0.79|Phoenix Feather|orange|0.79|Royal Celtic Harp|orange|0.79|Horn of Heimdall|orange|0.79}}
+{{RewardRow|Somersault Cloud|orange|0.79|Soul Stone|orange|0.79|Maya Slate|orange|0.79|Hera's Peacock Fan|orange|0.79}}
+{{RewardRow|Artificial Blackhole|orange|0.79|Nuclear Bomb|orange|0.79|Voyager 1|orange|0.79|Double Helix DNA|orange|0.79}}
+{{RewardRow|Relativity Scripts|orange|0.79|Dyson Sphere|orange|0.79|Particle Collider|orange|0.79|Prometheus Torch|orange|0.79}}
+{{RewardRow|On War|orange|0.79|Medal of Honor|orange|0.79|Einstein's Brain|orange|0.79|Trojan Horse|orange|0.79}}
+{{RewardRow|Origin of Species|orange|0.79|Encyclopedia|orange|0.79|Magellan's Telescope|orange|0.79|Unispark|orange|0.79}}
+|}
+
+===ART Master Scroll===
+{{Reimg|ART Master Scroll|75}}
+'''Number Required to Open:  40'''</br>
+ART Master Scrolls are primarily obtained from making ART Type wishes in the [[Alchemy Furnace]] or by summoning the [[Altar#Gods_of_the_Pantheon|God of Art]] at the Altar. 
+
+ART Master scrolls will additionally reward:
+* {{RewardIconWithText|B-Tads, +3k}}
+* {{RewardIconWithText|Orange Reagent|orange}} +10
+
+{{RewardRowHeader}}
+!rowspan="2"|S Relics
+{{RewardRow|Tutankhamun Mask|orange|34.7|Koh-i-Noor Diamond|orange|34.7}}
+!rowspan="2"|SS Relics
+{{RewardRow|The School of Athens|orange|10.2|The Thinker|orange|10.2|Liberty Guide People|orange|10.2}}
+|}
+
+===CIV Master Scroll===
+{{Reimg|CIV Master Scroll|75}}
+'''Number Required to Open:  40'''</br>
+CIV Master Scrolls are primarily obtained from making CIV Type wishes in the [[Alchemy Furnace]] or by summoning the [[Altar#Gods_of_the_Pantheon|God of Culture]] at the Altar. 
+
+CIV Master scrolls will additionally reward:
+* {{RewardIconWithText|B-Tads, +3k}}
+* {{RewardIconWithText|Orange Reagent|orange}} +10
+
+{{RewardRowHeader}}
+!rowspan="2"|S Relics
+{{RewardRow|Paradise Lost|orange|34.7|The Tale of Genji|orange|34.7}}
+!rowspan="2"|SS Relics
+{{RewardRow|The Song of Roland|orange|10.2|Cuneiform Tablet|orange|10.2|Julian Calendar|orange|10.2}}
+|}
+
+===TECH Master Scroll===
+{{Reimg|TECH Master Scroll|75}}
+'''Number Required to Open:  40'''</br>
+TECH Master Scrolls are primarily obtained from making TECH Type wishes in the [[Alchemy Furnace]] or by summoning the [[Altar#Gods_of_the_Pantheon|God of Technology]] at the Altar. 
+
+TECH Master scrolls will additionally reward:
+* {{RewardIconWithText|B-Tads, +3k}}
+* {{RewardIconWithText|Orange Reagent|orange}} +10
+
+{{RewardRowHeader}}
+!rowspan="2"|S Relics
+{{RewardRow|Boltzmann Brain|orange|31.5|Devol's Robot|orange|31.5}}
+!rowspan="2"|SS Relics
+{{RewardRow|Tokamak|orange|9.2|Morse's Telegraph|orange|9.2|5th Element|orange|9.2|SkyWeb Hub|orange|9.2}}
+|}
+
+===FTH Master Scroll===
+{{Reimg|FTH Master Scroll|75}}
+'''Number Required to Open:  40'''</br>
+FTH Master Scrolls are primarily obtained from making FTH Type wishes in the [[Alchemy Furnace]] or by summoning the [[Altar#Gods_of_the_Pantheon|God of Faith]] at the Altar. 
+
+FTH Master scrolls will additionally reward:
+* {{RewardIconWithText|B-Tads, +3k}}
+* {{RewardIconWithText|Orange Reagent|orange}} +10
+
+{{RewardRowHeader}}
+!rowspan="2"|S Relics
+{{RewardRow|Golden Scarab|orange|31.5|Golden Finger|orange|31.5}}
+!rowspan="2"|SS Relics
+{{RewardRow|Boat of St. Peter|orange|9.2|Buddha's Skull Sarira|orange|9.2|3-Faced Statue|orange|9.2|Eye of Akamoddo|orange|9.2}}
+|}
+
+===FAME Master Scroll===
+{{Reimg|FAME Master Scroll|75}}
+'''Number Required to Open:  40'''</br>
+FAME Master Scrolls are primarily obtained from making FAME Type wishes in the [[Alchemy Furnace]] or by summoning the [[Altar#Gods_of_the_Pantheon|God of Fame]] at the Altar. 
+
+FAME Master scrolls will additionally reward:
+* {{RewardIconWithText|B-Tads, +3k}}
+* {{RewardIconWithText|Orange Reagent|orange}} +10
+
+{{RewardRowHeader}}
+!rowspan="2"|S Relics
+{{RewardRow|Tetromino|orange|31.5|Leaf of Yggdrasil|orange|31.5}}
+!rowspan="2"|SS Relics
+{{RewardRow|DOI|orange|9.2|SDI|orange|9.2|Proclamation 95|orange|9.2|Mayflower|orange|9.2}}
+|}
+
+===Master Scroll===
+{{Reimg|Master Scroll|75}}
+'''Number Required to Open:  40'''</br>
+Master Scrolls are primarily obtained from the [[Lottery Machine|Lottery]], [[Nursery#Orange-0|Orange and Red Chores]], rewarded by the [[Fissure#Drill_Rig|Drill Rig]], and they may also be gained rarely from [[Exploration]]. Occasionally Master Scrolls will be offered for Ancient Coins in the [[Fissure#Fissure_Shop|Fissure Shop]].
+
+Master scrolls will additionally reward:
+* {{RewardIconWithText|B-Tads, +3k}}
+* {{RewardIconWithText|Orange Reagent|orange}} +10
+
+{{RewardRowHeader}}
+!rowspan="6"|S Relics
+{{RewardRow|Paradise Lost|orange|6.5|The Tale of Genji|orange|6.5|Tutankhamun Mask|orange|6.5|Koh-i-Noor Diamond|orange|6.5}}
+{{RewardRow|Golden Scarab|orange|6.5|Golden Finger|orange|6.5|Boltzmann Brain|orange|6.5|Devol's Robot|orange|6.5}}
+{{RewardRow|Tetromino|orange|6.5|Leaf of Yggdrasil|orange|6.5}}
+!rowspan="10"|SS Relics
+{{RewardRow|The Song of Roland|orange|1.9|Cuneiform Tablet|orange|1.9|Boat of St. Peter|orange|1.9|Julian Calendar|orange|1.9}}
+{{RewardRow|The School of Athens|orange|1.9|The Thinker|orange|1.9|Liberty Guide People|orange|1.9|Buddha's Skull Sarira|orange|1.9}}
+{{RewardRow|3-Faced Statue|orange|1.9|Eye of Akamoddo|orange|1.9|Tokamak|orange|1.9|Morse's Telegraph|orange|1.9}}
+{{RewardRow|5th Element|orange|1.9|SkyWeb Hub|orange|1.9|DOI|orange|1.9|SDI|orange|1.9}}
+{{RewardRow|Proclamation 95|orange|1.9|Mayflower|orange|1.9}}
+|}
+
+===Expert Scroll===
+{{Reimg|Expert Scroll|75}}
+'''Number Required to Open:  20'''</br>
+Expert Scrolls are primarily obtained from the [[Lottery Machine|Lottery]], [[Nursery#Purple-0|Purple Chores]], and they may also be gained infrequently from [[Exploration]]. Occasionally Expert Scrolls will be offered for Ancient Coins in the [[Fissure#Fissure_Shop|Fissure Shop]].
+
+Expert scrolls will additionally reward:
+* {{RewardIconWithText|B-Tads, +1k}}
+* {{RewardIconWithText|Purple Reagent|purple}} +10
+
+{{RewardRowHeader}}
+!rowspan="6"|A Relics
+{{RewardRow|Meditations|purple|7.6|Codex Leicester|purple|7.6|Boy with Goose|purple|7.6|Nefertiti Bust|purple|7.6}}
+{{RewardRow|Avelon|purple|7.6|Frigga's Wheel|purple|7.6|Observatory|purple|7.6|Dolly Specimen|purple|7.6}}
+{{RewardRow|World Bowl|purple|7.6|Rosetta Stone|purple|7.6}}
+!rowspan="16"|AA Relics
+{{RewardRow|The Decameron|purple|0.95|Prince's Rose|purple|0.95|No. 23's Ball|purple|0.95|Socrates' Poison|purple|0.95}}
+{{RewardRow|Phoenician Tablet|purple|0.95|The Starry Night|purple|0.95|Pine Trees Screen|purple|0.95|Fuchun Mountains|purple|0.95}}
+{{RewardRow|Blood of Dracula|purple|0.95|Death of Marat|purple|0.95|Glass Coffin|purple|0.95|Tyr's Arm|purple|0.95}}
+{{RewardRow|Hermes' Coin|purple|0.95|Chinchorro Mummy|purple|0.95|Zoroaster's Torch|purple|0.95|Turing Machine|purple|0.95}}
+{{RewardRow|Yuan Calendar|purple|0.95|ENIAC Prototype|purple|0.95|Polonium|purple|0.95|Ark Reactor|purple|0.95}}
+{{RewardRow|Hannibal's Cup|purple|0.95|Armstrong's Footprint|purple|0.95|Spirit of Laws|purple|0.95|Magna Carta|purple|0.95}}
+{{RewardRow|Platinum Record|purple|0.95}}
+|}
+
+===Novice Scroll===
+{{Reimg|Novice Scroll|75}}
+'''Number Required to Open:  10'''</br>
+Novice Scrolls are primarily obtained from the [[Lottery Machine|Lottery]], [[Nursery#Green-0|Green and Blue Chores]], rewarded by the [[Fissure#Drill_Rig|Drill Rig]], and they may also be gained frequently from [[Exploration]]. Occasionally Novice Scrolls will be offered for Ancient Coins in the [[Fissure#Fissure_Shop|Fissure Shop]].
+
+Novice scrolls will additionally reward:
+* {{RewardIconWithText|B-Tads, +500}}
+* {{RewardIconWithText|Green Reagent|green}} +10
+* {{RewardIconWithText|Blue Reagent|blue}} +10
+
+{{RewardRowHeader}}
+!rowspan="20"|Relics
+{{RewardRow|Holmes' Pipe|blue|5|Big Fish Bone|blue|5|Leo's Plant|blue|5|Moai|blue|5}}
+{{RewardRow|Roman Dodecahedron|blue|5|Storyteller|blue|5|Throne of Pope|blue|5|Our Lady of Kazan|blue|5}}
+{{RewardRow|Golden Menorah|blue|5|Divergence Meter|blue|5|Spinning Jenny|blue|5|Persian Star Chart|blue|5}}
+{{RewardRow|Costa Rica Stone|blue|5|Musketeer Mask|blue|5|Pressburg Treaty|blue|5|Im's Arrow|blue|1}}
+{{RewardRow|Hillary's Pickaxe|blue|1|Seismograph|blue|1|Pumpkin Coach|blue|1|Rubik's Cube|blue|1}}
+{{RewardRow|Imperial Lamp|blue|1|Demoiselles d'Avignon|blue|1|Universe Bowl|blue|1|Cuckoo Clock|blue|1}}
+{{RewardRow|Ludovisi Gaul|blue|1|Ancient Block|blue|1|Ranjyatai Incense|blue|1|Templar Emblem|blue|1}}
+{{RewardRow|Genesis|blue|1|Horoscope|blue|1|Mordan Bullet|blue|1|Janssen Microscope|blue|1}}
+{{RewardRow|Campbell's Sextant|blue|1|Klein Bottle|blue|1|Faraday's Dynamo|blue|1|Guillotine|blue|1}}
+{{RewardRow|Franklin's Kite|blue|1|Churchill's Cigar|blue|1|Stela of Djet|blue|1|Commercial Code|blue|1}}
+|}
+
+==Chests==
+
+===Dragon Chest===
+{{Reimg|Dragon Chest|75}}
+'''Number Required to Open:  300'''</br>
+Dragon Chests are mostly rewarded for [[Exploration|exploring]] in [[Dragon Form]] and from offering [[Dragon Orb|Dragon Orbs]] at the [[Altar]]. They can also be rewarded from {{RewardIconWithLink|Divine Order Chest}} and {{RewardIconWithLink|Divine Neutral Chest}}
+
+{{RewardRowHeader}}
+!rowspan="4"|Consumables
+{{RewardRow|Glue, +500|orange|4.8|W-Tadpole, +1k|orange|15|Lottery Ticket, +3|orange|15|Wish Coin|orange|15}}
+{{RewardRow|Golden Pickaxe|orange|15|Incense|orange|15}}
+!rowspan="4"|Relics
+{{RewardRow|Time-Travel Box|orange|5|Buddha's Skull Sarira|orange|5|Liberty Guide People|orange|5|Epic of Gilgamesh|orange|5}}
+{{RewardRow|Maya Slate|orange|0.1|Ragnarok|orange|0.1}}
+|}
+
+===Demon Chest===
+{{Reimg|Demon Chest|75}}
+'''Number Required to Open:  300'''</br>
+Demon Chests are mostly rewarded for defeating [[Hitmen|Daily Hitmen]]. They can also be rewarded from {{RewardIconWithLink|Divine Neutral Chest}} and {{RewardIconWithLink|Divine Chaos Chest}}.
+
+{{RewardRowHeader}}
+!rowspan="4"|Consumables
+{{RewardRow|Glue, +500|orange|4.8|W-Tadpole, +1k|orange|15|Lottery Ticket, +3|orange|15|Wish Coin|orange|15}}
+{{RewardRow|Golden Pickaxe|orange|15|Incense|orange|15}}
+!rowspan="4"|Relics
+{{RewardRow|3-Faced Statue|orange|5|Hammurabi Code|orange|5|David|orange|5|The Thinker|orange|5}}
+{{RewardRow|Horn of Heimdall|orange|0.1|Artificial Blackhole|orange|0.1}}
+|}
+
+===Divine Order Chest===
+{{Reimg|Divine Order Chest|75}}
+'''Number Required to Open:  100'''</br>
+Divine Order Chests are primarily obtained by offering {{retext|Order souls|yellow}} on the [[Altar]]. Occasionally they will be rewarded during the [[Observatory_Event#Divination|Observatory Event]].
+
+Divine Order Chests will additionally reward:
+* {{Retext|Green Items|green}} - {{RewardIconWithLink|Dragon Chest, +6}}
+* {{Retext|Blue Items|blue}} - {{RewardIconWithLink|Dragon Chest, +8}}
+* {{Retext|Purple Items|purple}} - {{RewardIconWithLink|Dragon Chest, +12}}
+* {{Retext|Orange Items|orange}} - {{RewardIconWithLink|Dragon Chest, +20}}
+
+{{RewardRowHeader}}
+!rowspan="2"|Consumables
+{{RewardRow|Green Coating, +50|green|16|Blue Coating, +50|blue|10|Purple Coating, +50|purple|6|Orange Coating, +50|orange|2}}
+!rowspan="8"|Material Gear
+{{RewardRow|Sorcerer Ring|green|0.9|Warrior Ring|green|0.9|White Pearl|green|13.5|Black Pearl|green|13.5}}
+{{RewardRow|Wizard Ring|blue|0.9|Crusader Ring|blue|0.9|Ruby Brooch|blue|6.3|Sapphire Brooch|blue|6.3}}
+{{RewardRow|Seething Bracelet|purple|0.9|Icy Bracelet|purple|0.9|Heaven Amulet|purple|2.7|Abyss Amulet|purple|2.7}}
+{{RewardRow|Heaven Wings|orange|0.9|Abyss Wings|orange|0.9|Eye of Horus|orange|1.8}}
+!rowspan="4"|Gear <sup>Only Once Each</sup>
+{{RewardRow|Elegant Gloves|green|1.6|Stage Hat|green|1.6|Elven Cape|blue|0.8|Iron Track|blue|0.8}}
+{{RewardRow|Saint's Earring|purple|0.4|Thorn|purple|0.4|Chief|orange|0.2|Gear Ring|orange|0.2}}
+!rowspan="8"|Bionic Parts <sup>Only Once Each</sup>
+{{RewardRow|Luxury Shell III|green|0.8|Bronze Hot Pot|green|0.8|Horse of Fate|green|0.8|Apollo Helmet|green|0.8}}
+{{RewardRow|Luxury Shell II|blue|0.4|Big Mec|blue|0.4|Washing Machine|blue|0.4|Nesting Doll|blue|0.4}}
+{{RewardRow|Luxury Shell I|purple|0.2|Lacqured Armor|purple|0.2|Hamster Ball|purple|0.2|Hazardous Substance|purple|0.2}}
+{{RewardRow|Giant Femur|orange|0.1|Taotie Cauldron|orange|0.1|Psychic Bear Doll|orange|0.1|Anti-aircraft Gun|orange|0.1}}
+|}
+
+===Divine Neutral Chest===
+{{Reimg|Divine Neutral Chest|75}}
+'''Number Required to Open:  100'''</br>
+Divine Neutral Chests are primarily obtained by offering {{retext|Neutral souls|green}} on the [[Altar]]. Occasionally they will be rewarded during the [[Observatory_Event#Divination|Observatory Event]].
+
+Divine Neutral Chests will additionally reward:
+* {{Retext|Green Items|green}} - {{RewardIconWithLink|Demon Chest, +3}}{{RewardIconWithLink|Dragon Chest, +3}}
+* {{Retext|Blue Items|blue}} - {{RewardIconWithLink|Demon Chest, +4}}{{RewardIconWithLink|Dragon Chest, +4}}
+* {{Retext|Purple Items|purple}} - {{RewardIconWithLink|Demon Chest, +6}}{{RewardIconWithLink|Dragon Chest, +6}}
+* {{Retext|Orange Items|orange}} - {{RewardIconWithLink|Demon Chest, +10}}{{RewardIconWithLink|Dragon Chest, +10}}
+
+{{RewardRowHeader}}
+!rowspan="2"|Consumables
+{{RewardRow|Green Coating, +50|green|16|Blue Coating, +50|blue|10|Purple Coating, +50|purple|6|Orange Coating, +50|orange|2}}
+!rowspan="8"|Material Gear
+{{RewardRow|Sorcerer Ring|green|0.9|Warrior Ring|green|0.9|White Pearl|green|13.5|Black Pearl|green|13.5}}
+{{RewardRow|Wizard Ring|blue|0.9|Crusader Ring|blue|0.9|Ruby Brooch|blue|6.3|Sapphire Brooch|blue|6.3}}
+{{RewardRow|Seething Bracelet|purple|0.9|Icy Bracelet|purple|0.9|Heaven Amulet|purple|2.7|Abyss Amulet|purple|2.7}}
+{{RewardRow|Heaven Wings|orange|0.9|Abyss Wings|orange|0.9|Eye of Horus|orange|1.8}}
+!rowspan="4"|Gear <sup>Only Once Each</sup>
+{{RewardRow|Static Belt|green|1.6|Slippers|green|1.6|Strong Round Shield|blue|0.8|Diver|blue|0.8}}
+{{RewardRow|Magician|purple|0.4|Hammer of Frenzy|purple|0.4|Alloy Shield|orange|0.2|Wisdom Cloak|orange|0.2}}
+!rowspan="8"|Bionic Parts <sup>Only Once Each</sup>
+{{RewardRow|Taichi Shell|green|0.8|Traveler Uniform|green|0.8|Instant Camera|green|0.8|Moai Shell|green|0.8}}
+{{RewardRow|Phantom Shell|blue|0.4|Monthong|blue|0.4|Traitor's Shell|blue|0.4|Titanium Shell|blue|0.4}}
+{{RewardRow|A Granted Wish|purple|0.2|Light Bulb|purple|0.2|Snooker|purple|0.2|Biker Gang|purple|0.2}}
+{{RewardRow|Lucifer's Wing|orange|0.1|No-Wonder Fungus|orange|0.1|Mechanical Keyboard|orange|0.1|Dice of Probability|orange|0.1}}
+|}
+
+===Divine Chaos Chest===
+{{Reimg|Divine Chaos Chest|75}}
+'''Number Required to Open:  100'''</br>
+Divine Chaos Chests are primarily obtained by offering {{retext|Chaos souls|red}} on the [[Altar]]. Occasionally they will be rewarded during the [[Observatory_Event#Divination|Observatory Event]].
+
+Divine Chaos Chests will additionally reward:
+* {{Retext|Green Items|green}} - {{RewardIconWithLink|Demon Chest, +6}}
+* {{Retext|Blue Items|blue}} - {{RewardIconWithLink|Demon Chest, +8}}
+* {{Retext|Purple Items|purple}} - {{RewardIconWithLink|Demon Chest, +12}}
+* {{Retext|Orange Items|orange}} - {{RewardIconWithLink|Demon Chest, +20}}
+
+{{RewardRowHeader}}
+!rowspan="2"|Consumables
+{{RewardRow|Green Coating, +50|green|16|Blue Coating, +50|blue|10|Purple Coating, +50|purple|6|Orange Coating, +50|orange|2}}
+!rowspan="8"|Material Gear
+{{RewardRow|Sorcerer Ring|green|0.9|Warrior Ring|green|0.9|White Pearl|green|13.5|Black Pearl|green|13.5}}
+{{RewardRow|Wizard Ring|blue|0.9|Crusader Ring|blue|0.9|Ruby Brooch|blue|6.3|Sapphire Brooch|blue|6.3}}
+{{RewardRow|Seething Bracelet|purple|0.9|Icy Bracelet|purple|0.9|Heaven Amulet|purple|2.7|Abyss Amulet|purple|2.7}}
+{{RewardRow|Heaven Wings|orange|0.9|Abyss Wings|orange|0.9|Eye of Horus|orange|1.8}}
+!rowspan="4"|Gear <sup>Only Once Each</sup>
+{{RewardRow|Leather Chest Armor|green|1.6|Lizard Belt|green|1.6|Pirate|blue|0.8|The Buried|blue|0.8}}
+{{RewardRow|Crown of Power|purple|0.4|Leviathan Gloves|purple|0.4|Fossil|orange|0.2|Power Armor|orange|0.2}}
+!rowspan="8"|Bionic Parts <sup>Only Once Each</sup>
+{{RewardRow|Ninja Shell|green|0.8|Jet Shell|green|0.8|Kitten Shell|green|0.8|Music Box|green|0.8}}
+{{RewardRow|Snowman|blue|0.4|MK. IV Shell|blue|0.4|Rose Shell|blue|0.4|Reflective Antenna|blue|0.4}}
+{{RewardRow|Smilodon Skull|purple|0.2|Thousand Faced Rubic Cube|purple|0.2|Purple Clay Teapot|purple|0.2|Nine-Headed Lion Statue|purple|0.2}}
+{{RewardRow|Boom...|orange|0.1|Batsuit|orange|0.1|Michael's Light|orange|0.1|Globe|orange|0.1}}
+|}
+
+===Time Chest===
+{{Reimg|Time Chest|75}}
+'''Number Required to Open:  100'''</br>
+Time Chests are mostly rewarded during [[Exploration]]. You can increase the amount you gain during Exploration while in [[Mutant Form]]. Occasionally Time Chests will be offered for Ancient Coins in the [[Fissure#Fissure_Shop|Fissure Shop]].
+
+{{RewardRowHeader}}
+!rowspan="2"|Consumables
+{{RewardRow|Time Speedup S, +30m|green|1.99|Time Speedup M, +1h|blue|48|Time Speedup L, +2h|purple|30|Time Speedup XL, +4h|orange|5}}
+!rowspan="6"|Relics
+{{RewardRow|Aztec Calendar|blue|2|Divergence Meter|blue|2|Cuckoo Clock|blue|2|Peacock Clock|blue|2}}
+{{RewardRow|Polonium|purple|1.5|Dream Top|purple|1.5|Crystal Skull|purple|1.5|Prehistoric Fossil|purple|1.5}}
+{{RewardRow|Eye of Akamoddo|orange|1|Relativity Scripts|orange|0.01}}
+|}
+
+===Evolution Chest===
+{{Reimg|Evolution Chest|75}}
+'''Number Required to Open:  100'''</br>
+Evolution Chests are mostly rewarded while fighting in the [[Gene Simulation]]. They can also be rewarded during [[Exploration]]. You can increase the amount you gain during Exploration while in [[Zombie Form]].
+
+{{RewardRowHeader}}
+!rowspan="2"|Consumables
+{{RewardRow|Demon God Cell S, +500|green|1.99|Demon God Cell M, +1k|blue|48|Demon God Cell L, +2k|purple|30|Demon God Cell XL, +4k|orange|5}}
+!rowspan="6"|Relics
+{{RewardRow|Penicillin Sample|blue|2|Gregor Specimen|blue|2|Janssen Microscope|blue|2|Torpedo Swimsuit|blue|2}}
+{{RewardRow|BetaGo|purple|1.5|Supersoldier Serum|purple|1.5|Gene Map|purple|1.5|Mars Rover|purple|1.5}}
+{{RewardRow|Holy Loaves|orange|1|Phoenix Feather|orange|0.01}}
+|}
+
+===Soul Chest===
+{{Reimg|Soul Chest|75}}
+'''Number Required to Open:  100'''</br>
+Soul Chests are mostly rewarded during [[Exploration]]. You can increase the amount you gain during Exploration while in [[Demon Form]].
+
+{{RewardRowHeader}}
+!rowspan="2"|Consumables
+{{RewardRow|Soul I, 1h Soul|green|1.99|Soul II, 2h Soul|blue|48|Soul III, 4h Soul|purple|30|Soul IV, 8h Soul|orange|5}}
+!rowspan="6"|Relics
+{{RewardRow|Guillotine|blue|2|Chakana|blue|2|Ancient Block|blue|2|Moai|blue|2}}
+{{RewardRow|Chinchorro Mummy|purple|1.5|Glass Coffin|purple|1.5|Blood of Dracula|purple|1.5|Schindler's List|purple|1.5}}
+{{RewardRow|Pandora's Box|orange|1|Soul Stone|orange|0.01}}
+|}
+
+===Fungus Chest===
+{{Reimg|Fungus Chest|75}}
+'''Number Required to Open:  100'''</br>
+Fungus Chests are mostly rewarded during [[Exploration]]. You can increase the amount you gain during Exploration while in [[Angel Form]]. Occasionally Fungus Chests will be offered for Ancient Coins in the [[Fissure#Fissure_Shop|Fissure Shop]].
+
+{{RewardRowHeader}}
+!rowspan="2"|Consumables
+{{RewardRow|Wonder Fungus,,Green|green|5|Wonder Fungus,,Blue|blue|48|Wonder Fungus,,Purple|purple|30|Wonder Fungus,,Orange|orange|1.99}}
+!rowspan="6"|Relics
+{{RewardRow|Kilogram Prototype|blue|2|Portland Vase|blue|2|Universe Bowl|blue|2|Leo's Plant|blue|2}}
+{{RewardRow|Observatory|purple|1.5|Prince's Rose|purple|1.5|Tree of Life|purple|1.5|Cornucopia|purple|1.5}}
+{{RewardRow|Sunflowers|orange|1|Origin of Species|orange|0.01}}
+|}
+
+===Organ Chest===
+{{Reimg|Organ Chest|75}}
+'''Number Required to Open:  100'''</br>
+Organ Chests are mostly rewarded by defeating special monsters.
+
+Organ Chests will additionally reward:
+* {{Retext|Blue Items|blue}} - {{RewardIconWithText|Organ Slime, +10}}
+* {{Retext|Purple Items|purple}} - {{RewardIconWithText|Organ Slime, +15}}
+* {{Retext|Orange Items|orange}} - {{RewardIconWithText|Organ Slime, +20}}
+
+{{RewardRowHeader}}
+!rowspan="10"|Organs
+{{RewardRow|Bewitching Eye|blue|7|Chameleon Scales|blue|7|HF Pacemaker|blue|7|Bio-Nuke Battery|blue|7}}
+{{RewardRow|Licker's Tongue|blue|7|Golden Abs|blue|7|Lava Gallbladder|blue|7|Silicone Gel Implant|blue|7}}
+{{RewardRow|Demon Lord's Tailbone|purple|4|Crimson Dragon Scale|purple|4|Crystalized Rib|purple|4|Mecha Gut|purple|4}}
+{{RewardRow|Lucky Phalange|purple|4|Mutated Tentacle|purple|4|Infrared Eye|purple|4|Unidentified Kidney|purple|4}}
+{{RewardRow|Strength Crystal|orange|3|Death Claw|orange|3|Savant Eye|orange|3|Demon Skull|orange|3}}
+|}
+
+===Tool Chest===
+{{Reimg|Tool Chest|75}}
+'''Number Required to Open:  100'''</br>
+Tool Chests are mostly rewarded during [[Exploration]]. You can increase the amount you gain during Exploration while in [[Mecha Form]].
+
+{{RewardRowHeader}}
+!rowspan="4"|Consumables
+{{RewardRow|Stone, +200, Green|green|1|Stone, +500, Blue|blue|24|Stone, +1k, Purple|purple|15|Stone, +2k, Orange|orange|2.5}}
+{{RewardRow|Wood, +200, Green|green|1|Wood, +500, Blue|blue|24|Wood, +1k, Purple|purple|15|Wood, +2k, Orange|orange|2.5}}
+!rowspan="6"|Relics
+{{RewardRow|Spinning Jenny|blue|2|Chronometer|blue|2|Campbell's Sextant|blue|2|Faraday's Dynamo|blue|2}}
+{{RewardRow|Turing Machine|purple|1.5|ARPAnet|purple|1.5|Otto Engine|purple|1.5|Tesla Coil|purple|1.5}}
+{{RewardRow|Morse's Telegraph|orange|1|Particle Collider|orange|0.01}}
+|}
+
+===Gear Chest===
+{{Reimg|Gear Chest|75}}
+'''Number Required to Open:  100'''</br>
+Gear Chests are mostly rewarded while using {{RewardIconWithLink|Golden Pickaxe|orange}}.
+
+Gear Chests will additionally reward:
+
+* {{Retext|White Items|white}} - {{RewardIconWithText|Glue, +5}}
+* {{Retext|Green Items|green}} - {{RewardIconWithText|Glue, +10}}
+* {{Retext|Blue Items|blue}} - {{RewardIconWithText|Glue, +15}}
+* {{Retext|Purple Items|purple}} - {{RewardIconWithText|Glue, +20}}
+* {{Retext|Orange Items|orange}} - {{RewardIconWithText|Glue, +25}}
+
+{{RewardRowHeader}}
+!rowspan="10"|Organs
+{{RewardRow|Wooden Ring|white|0.8|Iron Ring|white|0.8|Flower Crown|white|13|Beast Fang|white|13}}
+{{RewardRow|Sorcerer Ring|green|0.8|Warrior Ring|green|0.8|White Pearl|green|12|Black Pearl|green|12}}
+{{RewardRow|Wizard Ring|blue|0.8|Crusader Ring|blue|0.8|Ruby Brooch|blue|5.6|Sapphire Brooch|blue|5.6}}
+{{RewardRow|Seething Bracelet|purple|0.8|Icy Bracelet|purple|0.8|Heaven Amulet|purple|2.4|Abyss Amulet|purple|2.4}}
+{{RewardRow|Heaven Wings|orange|0.8|Abyss Wings|orange|0.8|Eye of Horus|orange|1.6}}
+|}
+
+===Club Chest===
+{{Reimg|Club Chest|75}}
+'''Number Required to Open:  100'''</br>
+Club Chests are rewarded for participating in [[Species War]] and purchasing [[Club#Star_Coins|Daily Star Coins]].
+
+{{RewardRowHeader}}
+!rowspan="2"|Consumables
+{{RewardRow|Research Manual S, +5|green|1.99|Research Manual M, +10|blue|48|Research Manual L, +20|purple|30|Research Manual XL, +30|orange|5}}
+!rowspan="6"|Relics
+{{RewardRow|Commercial Code|blue|2|Bach Concerto|blue|2|Genesis|blue|2|Pressburg Treaty|blue|2}}
+{{RewardRow|Treaty of Versailles|purple|1.5|World Bowl|purple|1.5|Augustus' Medal|purple|1.5|Hope Diamond|purple|1.5}}
+{{RewardRow|Sputnik 1|orange|1|On War|orange|0.01}}
+|}
+
+===Nebula Chest===
+{{Reimg|Nebula Chest|75}}
+'''Number Required to Open:  100'''</br>
+Nebula Chests are rewarded for participating in the [[Weekly Special]], [[Observatory Event]], and can occasionally be rewarded by the [[Nebula#Quantum_Amp|Quantum Amp]].
+
+{{RewardRowHeader}}
+!rowspan="4"|Consumables
+{{RewardRow|Quantum Gel x100|green|3.99|Quantum Gel x200|blue|45|Quantum Gel x500|purple|30|Quantum Gel x1k|orange|5}}
+{{RewardRow|Singularity Crystal|orange|1}}
+!rowspan="6"|Relics
+{{RewardRow|Persian Star Chart|blue|2|Arirang Satellite|blue|2|Tetrabiblos|blue|2|Horoscope|blue|2}}
+{{RewardRow|Truth Crystal|purple|1.5|Moonlight Sonata|purple|1.5|Keyhole Satellite|purple|1.5|The Starry Night|purple|1.5}}
+{{RewardRow|SDI|orange|1|Artificial Blackhole|orange|0.01}}
+|}
+
+===Ad Chest===
+{{Reimg|Ad Chest|75}}
+'''Number Required to Open:  100'''</br>
+Ad Chests are gained by watching ads and redeeming {{RewardIconWithLink|Ad Ticket}} in the Ad section of the {{RewardIconWithText|W-Tad}} store. You can also spend {{RewardIconWithLink|Ad Ticket}} in the ad section of the {{RewardIconWithText|W-Tad}} store to buy them directly. The {{RewardIconWithLink|Scale of Anubis|orange}} is exclusive to the {{RewardIconWithLink|Ad Chest}}, aside from one other instance.
+
+{{RewardRowHeader}}
+!rowspan="8"|Consumables
+{{RewardRow|B-Tadpole, +1k, Green|green|1.8|Stone, +100, Green|green|3|Wood, +100, Green|green|3|Demon God Cell S, +500|green|3}}
+{{RewardRow|B-Tadpole, +2k, Blue|blue|1.8|Stone, +200, Blue|blue|10.5|Wood, +200, Blue|blue|10.5|Demon God Cell M, +1k|blue|10.5}}
+{{RewardRow|B-Tadpole, +5k, Purple|purple|8|Stone, +500, Purple|purple|8|Wood, +500, Purple|purple|8|Demon God Cell L, +2k|purple|8}}
+{{RewardRow|Lottery Ticket|orange|5|Offering Speedup, (3h)|orange|5|Wish Coin|orange|1}}
+!rowspan="2"|Relics
+{{RewardRow|Devol's Robot|orange|3|Era Magazine Vol. 1|orange|1|Scale of Anubis|orange|0.02}}
+|}
+
+===Wormhole Refiner===
+{{Reimg|Wormhole Refiner|75}}
+'''Number Required to Open:  100'''</br>
+Wormhole Refiners are primarily obtained through refining the [[Wormhole]]. Wormhole Shards can be used to purchase specific cabin supplies, while Robots increase cabin production.
+
+{{RewardRowHeader}}
+!rowspan="2"|Consumables
+{{RewardRow|Wormhole Shard, +50, Green|green|10|Wormhole Shard, +100, Blue|blue|30|Wormhole Shard, +200, Purple|purple|22|Wormhole Shard, +500, Orange|orange|8}}
+!rowspan="2"|[[Rocket#Robots|Universal Robots]]
+{{RewardRow|AR2-T1|green|15|AR2-T2|blue|10|AR2-T3|purple|4.4|AR2-T4|orange|0.1}}
+!rowspan="8"|[[Rocket#Robots|Specialized Robots]]<sup>Only Once Each</sup>
+{{RewardRow|Support Robot LMAO|orange|0.03|Daimyo|orange|0.03|Arhat|orange|0.03|Pure White Doc|orange|0.03}}
+{{RewardRow|Android II|orange|0.03|Panda MKII|orange|0.03|Red Comet|orange|0.03|Spider Mine|orange|0.03}}
+{{RewardRow|Galaxy Wanderer|orange|0.03|Surprise|orange|0.03|Noise|orange|0.03|Space Walker|orange|0.03}}
+{{RewardRow|Craftsman III|orange|0.03|Black Iron|orange|0.03|Hello Boxer|orange|0.03}}
+|}
+
+==Memetic Catalyst==
+
+===Super Memetic Chest===
+[[File:Super Memetic Chest.png|frameless|150x75px]]
+'''Number Required to Open:  300'''</br>
+
+===Traveler Memetic Catalysts===
+
+==Species Treasure==
+
+===Super Species Chest===
+[[File:Super Species Chest.png|frameless|150x75px]]
+'''Number Required to Open:  300'''</br>
+Super Species Chests are obtained by opening other species chests.
+
+* {{Retext|White Items|white}} - {{RewardIconWithText|Super Species Chest, +4}}
+* {{Retext|Green Items|green}} - {{RewardIconWithText|Super Species Chest, +6}}
+* {{Retext|Blue Items|blue}} - {{RewardIconWithText|Super Species Chest, +8}}
+* {{Retext|Purple Items|purple}} - {{RewardIconWithText|Super Species Chest, +12}}
+* {{Retext|Orange Items|orange}} - {{RewardIconWithText|Super Species Chest, +20}}
+
+{{RewardRowHeader}}
+!rowspan="8"|Minion Skins
+{{RewardRow|Pharaoh Guard|blue|7|Archdruid|blue|7|All-round Player|blue|7|Time Cop|blue|7}}
+{{RewardRow|Troublemaker|blue|7|Professor|blue|7|Wasteland Dweller|blue|7|Mecha Dragon|blue|7}}
+{{RewardRow|Biochem Monster|blue|5|Bullfighter|blue|5|R'lyeh Visitor|blue|5|Journalist|blue|5}}
+{{RewardRow|Horror Maid|orange|1|Elven Warhorse|orange|1|Rabbit Gang|orange|1|Skeleton Dragon|orange|1}}
+!rowspan="4"|Relics
+{{RewardRow|Cuneiform Tablet|orange|5.5|Boat of St. Peter|orange|5.5|SDI|orange|5.5|Origin of Species|orange|0.07}}
+{{RewardRow|Ape's Footprint Fossil|orange|2.4|Quantum Radio|orange|0.03}}
+!rowspan="2"|Gear
+{{RewardRow|Blasphemy Eye|orange|1}}
+|}
+
+===Dung Beetle Chest===
+{{Reimg|Dung Beetle Chest|75}}
+'''Number Required to Open:  100'''</br>
+Dung Beetle Chests are obtained through completing various Dung Beetle species war tasks, and can be bought with Star Coins or Species Redeem Vouchers in the Biozilla shop.
+
+{{RewardRowHeader}}
+!rowspan="2"|Demon Cells
+{{RewardRow|Demon God Cell S, +500|green|7.7|Demon God Cell M, +1k|blue|15|Demon God Cell L, +2k|purple|5|Demon God Cell XL, +4k|orange|0.5}}
+!rowspan="10"|Rocket Upgrades
+{{RewardRow|T1 Dung Beetle Coolant|white|4|T1 Dung Beetle Graphite Rod|white|4|T1 Dung Beetle Moderator|white|4|T1 Dung Beetle Core|white|0.8}}
+{{RewardRow|T2 Dung Beetle Coolant|green|3|T2 Dung Beetle Graphite Rod|green|3|T2 Dung Beetle Moderator|green|3|T2 Dung Beetle Core|green|0.6}}
+{{RewardRow|T3 Dung Beetle Coolant|blue|2|T3 Dung Beetle Graphite Rod|blue|2|T3 Dung Beetle Moderator|blue|2|T3 Dung Beetle Core|blue|0.4}}
+{{RewardRow|T4 Dung Beetle Coolant|purple|1|T4 Dung Beetle Graphite Rod|purple|1|T4 Dung Beetle Moderator|purple|1|T4 Dung Beetle Core|purple|0.2}}
+{{RewardRow|T5 Dung Beetle Coolant|orange|0.5|T5 Dung Beetle Graphite Rod|orange|0.5|T5 Dung Beetle Moderator|orange|0.5|T5 Dung Beetle Core|orange|0.1}}
+!rowspan="2"|Incident Resource
+{{RewardRow|Compressed Food, +5|orange|5}}
+!rowspan="2"|Clone Speedup
+{{RewardRow|Clone Speedup, +30m|green|6.2|Clone Speedup, +1h|blue|16|Clone Speedup, +2h|purple|10|Clone Speedup, +4h|orange|1}}
+|}
+
+===Earthworm Chest===
+{{Reimg|Earthworm Chest|75}}
+'''Number Required to Open:  100'''</br>
+Earthworm Chests are obtained by using w-tadpoles to upgrade earthworms during the Dung Beetle Chronicles, and can be bought with Star Coins or Species Redeem Vouchers in the Biozilla shop.
+
+{{RewardRowHeader}}
+!rowspan="2"|Demon Cells
+{{RewardRow|Demon God Cell S, +500|green|7.7|Demon God Cell M, +1k|blue|15|Demon God Cell L, +2k|purple|5|Demon God Cell XL, +4k|orange|0.5}}
+!rowspan="10"|Rocket Upgrades
+{{RewardRow|T1 Earthworm Fuel Rod|white|4|T1 Earthworm Control Rod|white|4|T1 Earthworm Penstock|white|4|T1 Earthworm Core|white|0.8}}
+{{RewardRow|T2 Earthworm Fuel Rod|green|3|T2 Earthworm Control Rod|green|3|T2 Earthworm Penstock|green|3|T2 Earthworm Core|green|0.6}}
+{{RewardRow|T3 Earthworm Fuel Rod|blue|2|T3 Earthworm Control Rod|blue|2|T3 Earthworm Penstock|blue|2|T3 Earthworm Core|blue|0.4}}
+{{RewardRow|T4 Earthworm Fuel Rod|purple|1|T4 Earthworm Control Rod|purple|1|T4 Earthworm Penstock|purple|1|T4 Earthworm Core|purple|0.2}}
+{{RewardRow|T5 Earthworm Fuel Rod|orange|0.5|T5 Earthworm Control Rod|orange|0.5|T5 Earthworm Penstock|orange|0.5|T5 Earthworm Core|orange|0.1}}
+!rowspan="2"|Minion Skin Frag
+{{RewardRow|Earthworm Infantry|blue|5}}
+!rowspan="2"|Clone Speedup
+{{RewardRow|Clone Speedup, +30m|green|6.2|Clone Speedup, +1h|blue|16|Clone Speedup, +2h|purple|10|Clone Speedup, +4h|orange|1}}
+|}
+
+===Goldfish Chest===
+{{Reimg|Goldfish Chest|75}}
+'''Number Required to Open:  100'''</br>
+Goldfish Chests are obtained through completing various Goldfish species war tasks, and can be bought with Star Coins or Species Redeem Vouchers in the Biozilla shop.
+
+{{RewardRowHeader}}
+!rowspan="2"|Demon Cells
+{{RewardRow|Demon God Cell S, +500|green|7.7|Demon God Cell M, +1k|blue|15|Demon God Cell L, +2k|purple|5|Demon God Cell XL, +4k|orange|0.5}}
+!rowspan="10"|Rocket Upgrades
+{{RewardRow|T1 Goldfish Pearl|white|4|T1 Goldfish Shell|white|4|T1 Goldfish Conch|white|4|T1 Goldfish Core|white|0.8}}
+{{RewardRow|T2 Goldfish Pearl|green|3|T2 Goldfish Shell|green|3|T2 Goldfish Conch|green|3|T2 Goldfish Core|green|0.6}}
+{{RewardRow|T3 Goldfish Pearl|blue|2|T3 Goldfish Shell|blue|2|T3 Goldfish Conch|blue|2|T3 Goldfish Core|blue|0.4}}
+{{RewardRow|T4 Goldfish Pearl|purple|1|T4 Goldfish Shell|purple|1|T4 Goldfish Conch|purple|1|T4 Goldfish Core|purple|0.2}}
+{{RewardRow|T5 Goldfish Pearl|orange|0.5|T5 Goldfish Shell|orange|0.5|T5 Goldfish Conch|orange|0.5|T5 Goldfish Core|orange|0.1}}
+!rowspan="2"|Incident Resource
+{{RewardRow|Underwater Agarwood, +5|orange|5}}
+!rowspan="2"|Clone Speedup
+{{RewardRow|Clone Speedup, +30m|green|6.2|Clone Speedup, +1h|blue|16|Clone Speedup, +2h|purple|10|Clone Speedup, +4h|orange|1}}
+|}
+
+===Surf Clam Chest===
+{{Reimg|Surf Clam Chest|75}}
+'''Number Required to Open:  100'''</br>
+Surf Clam Treasure Chests are obtained through completing various Surf Clam species war tasks, and can be bought with Star Coins or Species Redeem Vouchers in the Biozilla shop.
+
+{{RewardRowHeader}}
+!rowspan="2"|Demon Cells
+{{RewardRow|Demon God Cell S, +500|green|7.7|Demon God Cell M, +1k|blue|15|Demon God Cell L, +2k|purple|5|Demon God Cell XL, +4k|orange|0.5}}
+!rowspan="10"|Rocket Upgrades
+{{RewardRow|T1 Surf Clam Rune|white|4|T1 Surf Clam Crystal|white|4|T1 Surf Clam Cauldron|white|4|T1 Surf Clam Core|white|0.8}}
+{{RewardRow|T2 Surf Clam Rune|green|3|T2 Surf Clam Crystal|green|3|T2 Surf Clam Cauldron|green|3|T2 Surf Clam Core|green|0.6}}
+{{RewardRow|T3 Surf Clam Rune|blue|2|T3 Surf Clam Crystal|blue|2|T3 Surf Clam Cauldron|blue|2|T3 Surf Clam Core|blue|0.4}}
+{{RewardRow|T4 Surf Clam Rune|purple|1|T4 Surf Clam Crystal|purple|1|T4 Surf Clam Cauldron|purple|1|T4 Surf Clam Core|purple|0.2}}
+{{RewardRow|T5 Surf Clam Rune|orange|0.5|T5 Surf Clam Crystal|orange|0.5|T5 Surf Clam Cauldron|orange|0.5|T5 Surf Clam Core|orange|0.1}}
+!rowspan="2"|Incident Resource
+{{RewardRow|Everfrozen Crystal, +5|orange|5}}
+!rowspan="2"|Clone Speedup
+{{RewardRow|Clone Speedup, +30m|green|6.2|Clone Speedup, +1h|blue|16|Clone Speedup, +2h|purple|10|Clone Speedup, +4h|orange|1}}
+|}
+
+===Hamster Chest===
+{{Reimg|Hamster Chest|75}}
+'''Number Required to Open:  100'''</br>
+Hamster Chests are obtained through completing various Hamster species war tasks, and can be bought with Star Coins or Species Redeem Vouchers in the Biozilla shop.
+
+{{RewardRowHeader}}
+!rowspan="2"|Demon Cells
+{{RewardRow|Demon God Cell S, +500|green|7.7|Demon God Cell M, +1k|blue|15|Demon God Cell L, +2k|purple|5|Demon God Cell XL, +4k|orange|0.5}}
+!rowspan="10"|Rocket Upgrades
+{{RewardRow|T1 Hamster Futures|white|4|T1 Hamster Bond|white|4|T1 Hamster Stock|white|4|T1 Hamster Core|white|0.8}}
+{{RewardRow|T2 Hamster Futures|green|3|T2 Hamster Bond|green|3|T2 Hamster Stock|green|3|T2 Hamster Core|green|0.6}}
+{{RewardRow|T3 Hamster Futures|blue|2|T3 Hamster Bond|blue|2|T3 Hamster Stock|blue|2|T3 Hamster Core|blue|0.4}}
+{{RewardRow|T4 Hamster Futures|purple|1|T4 Hamster Bond|purple|1|T4 Hamster Stock|purple|1|T4 Hamster Core|purple|0.2}}
+{{RewardRow|T5 Hamster Futures|orange|0.5|T5 Hamster Bond|orange|0.5|T5 Hamster Stock|orange|0.5|T5 Hamster Core|orange|0.1}}
+!rowspan="2"|Incident Resource
+{{RewardRow|Key, +5|orange|5}}
+!rowspan="2"|Clone Speedup
+{{RewardRow|Clone Speedup, +30m|green|6.2|Clone Speedup, +1h|blue|16|Clone Speedup, +2h|purple|10|Clone Speedup, +4h|orange|1}}
+|}
+
+===Mantis Chest=== 
+{{Reimg|Mantis Chest|75}}
+'''Number Required to Open:  100'''</br>
+Mantis Chests are obtained through completing various Mantis species war tasks, and can be bought with Star Coins or Species Redeem Vouchers in the Biozilla shop.
+
+{{RewardRowHeader}}
+!rowspan="2"|Demon Cells
+{{RewardRow|Demon God Cell S, +500|green|7.7|Demon God Cell M, +1k|blue|15|Demon God Cell L, +2k|purple|5|Demon God Cell XL, +4k|orange|0.5}}
+!rowspan="10"|Rocket Upgrades
+{{RewardRow|T1 Mantis Stake|white|4|T1 Mantis Stone Lock|white|4|T1 Mantis Sandbag|white|4|T1 Mantis Core|white|0.8}}
+{{RewardRow|T2 Mantis Stake|green|3|T2 Mantis Stone Lock|green|3|T2 Mantis Sandbag|green|3|T2 Mantis Core|green|0.6}}
+{{RewardRow|T3 Mantis Stake|blue|2|T3 Mantis Stone Lock|blue|2|T3 Mantis Sandbag|blue|2|T3 Mantis Core|blue|0.4}}
+{{RewardRow|T4 Mantis Stake|purple|1|T4 Mantis Stone Lock|purple|1|T4 Mantis Sandbag|purple|1|T4 Mantis Core|purple|0.2}}
+{{RewardRow|T5 Mantis Stake|orange|0.5|T5 Mantis Stone Lock|orange|0.5|T5 Mantis Sandbag|orange|0.5|T5 Mantis Core|orange|0.1}}
+!rowspan="2"|Incident Resource
+{{RewardRow|Karma Token, +5|orange|5}}
+!rowspan="2"|Clone Speedup
+{{RewardRow|Clone Speedup, +30m|green|6.2|Clone Speedup, +1h|blue|16|Clone Speedup, +2h|purple|10|Clone Speedup, +4h|orange|1}}

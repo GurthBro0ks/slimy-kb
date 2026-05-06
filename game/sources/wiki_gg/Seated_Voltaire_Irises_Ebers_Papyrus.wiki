@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=546
+|relics=Seated Voltaire,Irises,Ebers Papyrus
+|rank=orange
+|amount=3
+|category=self
+|description=Per 60 Minions in battle, Troop ELMT DMG +4
+}}

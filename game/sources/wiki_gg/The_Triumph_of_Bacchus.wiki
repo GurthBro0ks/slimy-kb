@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Triumph of Bacchus
+|class_id=22680
+|rank=SSS
+|affct=FAITH
+|birthday=09-22
+|source=Lottery Machine No.3 (0.12%)
+|description=On Sept 22, 1496 AD, Michelangelo completed the creation of The Triumph of Bacchus.<br>This sculpture is an early masterpiece by Michelangelo during the Renaissance period when he was only twenty-one years old. The sculpture vividly depicts the image of the god of wine stumbling due to drunkenness. A small boy is eating grapes beside him. The sculpture also features a lion's skin draped over Bacchus's shoulder, symbolizing mortality and the fleeting nature of life. This expresses the idea that the god of wine represents the philosophy of indulgence in pleasure. It is a classic masterpiece of its time.
+|fame=56
+|art=73
+|fth=108
+|civ=55
+|tech=70
+|ss1=Dragon Minion RUSH +3%<br>Per 5 Epic Protodex Stars, Snail HP +90<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +72<br>Epic Protodex Stars: 100/100
+|ss2=Dragon Minion RUSH +4%<br>Per 5 Epic Protodex Stars, Snail HP +120<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +96<br>Epic Protodex Stars: 100/100
+|ss3=Dragon Minion RUSH +5%<br>Per 5 Epic Protodex Stars, Snail HP +150<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +120<br>Epic Protodex Stars: 100/100
+|ss4=Dragon Minion RUSH +7%<br>Per 5 Epic Protodex Stars, Snail HP +210<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +168<br>Epic Protodex Stars: 100/100
+|ss5=Dragon Minion RUSH +9%<br>Per 5 Epic Protodex Stars, Snail HP +270<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +216<br>Epic Protodex Stars: 100/100
+|ss6=Dragon Minion RUSH +12%<br>Per 5 Epic Protodex Stars, Snail HP +360<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +288<br>Epic Protodex Stars: 100/100
+|ss7=Dragon Minion RUSH +12%<br>Per 5 Epic Protodex Stars, Snail HP +360<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +288<br>Epic Protodex Stars: 100/100<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: Green rewards from this egg turn Blue by 6%
+|skill2=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: This Relic's FTH +15
+|skill3=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: Offering Egg hatching efficiency +30%
+|mirage={{Mirage|name=Feast of Divine Wine|reward={{RewardIconWithLink|Dionysus' Follower Frag, +20|orange}}
+|3name=Drunken Devotee|3rec=121.74M|3atk=342306|3defense=215176|3hp=18420375|3weak=36582
+|4name=Wine-serving Devotee|4rec=173.39M|4atk=464948|4defense=287838|4hp=31307257|4weak=40862
+|5name=Wine-passing Devotee|5rec=267.33M|5atk=670004|5defense=403072|5hp=68310384|5weak=50623
+|6name=Orgiastic God of Wine|6rec=374.79M|6atk=845340|6defense=499749|6hp=99922419|6weak=54321
+|Arec=524.48M|Aatk=1104124|Adefense=634412|Ahp=195900526|Aweak=61208
+}}}}

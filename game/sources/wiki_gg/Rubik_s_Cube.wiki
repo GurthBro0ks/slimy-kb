@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Rubik's Cube
+|rank=Blue
+|affct=CIV
+|birthday=02-13
+|source=Lottery Machine (0.07%), Novice Scroll (1%), Wishing (2.1%)
+|description=On Feb 13, 1974, the Hungarian scientist Erno Rubik invented the Rubik's Cube. 
+
+The Rubik's Cube is the most popular puzzle toy today. Rubik spent 6 weeks designing just to make this cube. It features a square structure that can be rotated freely to change the cube's orientation and there are 6 colors on the different sides of the cube. It can improve one's spatial intelligence, logical thinking, and memory. The first batch of Rubik's was sold out in two days after its production. 
+
+[Algorithm]
+
+Four steps: Cross -> F2L -> OLL -> PLL. Crss: Make a cross at the bottom. F2L: Align the first two layers. OLL: Solve the top color that faces up. PLL: Adjust the order of the top layer.
+|fame=21
+|art=32
+|fth=24
+|civ=47
+|tech=30
+|ss1=Per 3 times Unispark activated, Snail RUSH +2<br>Unispark Activations: 60/60
+|ss2=Per 3 times Unispark activated, Snail RUSH +4<br>Unispark Activations: 60/60
+|ss3=Per 3 times Unispark activated, Snail RUSH +6<br>Unispark Activations: 60/60
+|ss4=Per 3 times Unispark activated, Snail RUSH +10<br>Unispark Activations: 60/60
+|ss7=Per 3 times Unispark activated, Snail RUSH +10<br>Unispark Activations: 60/60<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Compass skill I.png|50px]] Place in Exploration Compass: CIV Checks -5
+}}
+
+[[Category:RUSH Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:CIV Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Dragon Gene Speedup Boost]]
+[[Category:Enhanced by Unispark Activations]]

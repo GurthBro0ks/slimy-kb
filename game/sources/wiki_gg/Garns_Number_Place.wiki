@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Garns Number Place
+|class_id=22403
+|rank=Blue
+|affct=FAME
+|birthday=02-12
+|source=Lottery Machine No.3 (0.25%)
+|description=On Feb 12, 1880 AD, retired architect Garns invented this number-filling puzzle before it was named Sudoku and became popular worldwide.<br>As the predecessor of Sudoku, the number-filling puzzle of Latin squares was invented by Euler and other mathematicians in the early 18th century. After nearly a century of evolution, the game was eventually brought to Japan by a scholar and renamed Sudoku, becoming a classic puzzle game.
+|fame=48
+|art=27
+|fth=23
+|civ=26
+|tech=30
+|ss1=Per 10,000 Fervor, Priest-Snail Assistance DMG+8<br>Fervor: 500000/500000
+|ss2=Per 10,000 Fervor, Priest-Snail Assistance DMG+16<br>Fervor: 500000/500000
+|ss3=Per 10,000 Fervor, Priest-Snail Assistance DMG+24<br>Fervor: 500000/500000
+|ss4=Per 10,000 Fervor, Priest-Snail Assistance DMG+40<br>Fervor: 500000/500000
+|ss7=Per 10,000 Fervor, Priest-Snail Assistance DMG+40<br>Fervor: 500000/500000<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]]Place in Gene Sim Device: This Relic's FAME +5
+}}

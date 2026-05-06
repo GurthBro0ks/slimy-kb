@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Matrix System
+|class_id=21816
+|rank=SS
+|affct=TECH
+|birthday=06-17
+|source=
+|description=On Jun 17, 2009 AD, this quantum simulation system was put into trial operation.<br>The real world runs parallel to the matrix world. In the matrix, the human mind has nothing to hide. In this virtual world, all life is entwined with the matrix. Any time an external creature enters, it is considered an invasion. The alarm will sound, and the creature will be killed.
+[Support System]
+Single Port Forwarding: Arbitrary switching and segmentation. Single Card Decoding: 2 Channels = 4K; 18 Channels = 1080P. Visual Control: Supports single-installation platform software. Network: Real-time connection detection.
+|fame=50
+|art=68
+|fth=63
+|civ=64
+|tech=102
+|ss1=Per 60 Mecha Minions in battle:<br>> Troop DEF +9<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +9<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Per 60 Mecha Minions in battle:<br>> Troop DEF +18<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +18<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Per 60 Mecha Minions in battle:<br>> Troop DEF +27<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +27<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Per 60 Mecha Minions in battle:<br>> Troop DEF +45<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +45<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Per 60 Mecha Minions in battle:<br>> Troop DEF +63<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +63<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Per 60 Mecha Minions in battle:<br>> Troop DEF +90<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +90<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Per 60 Mecha Minions in battle:<br>> Troop DEF +90<br>Per 60 Mecha Minions in battle:<br>> Troop RUSH +90<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Generate Time Chests by +30%
+|skill2=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Travel Speedup Output +30%
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, 2x White Card Drops +15%
+|mirage={{Mirage|name=Virtual Reality|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Matrix Agent|3rec=6.56M|3atk=65458|3defense=43270|3hp=1287989|3weak=12370
+|4name=Matrix Agent|4rec=13.97M|4atk=98345|4defense=65009|4hp=2666387|4weak=16273
+|5name=Matrix Agent|5rec=34.18M|5atk=139156|5defense=91987|5hp=5142526|5weak=18844
+|Arec=58.29M|Aatk=190468|Adefense=125906|Ahp=9190982|Aweak=21475
+}}}}

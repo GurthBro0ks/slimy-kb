@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Carmen Lucia Ruby
+|class_id=22129
+|rank=AA
+|affct=ART
+|birthday=11-01
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Nov 1, 1930 AD, Dr. Peter Bucker acquired this ruby and named it after his wife, Carmen Lucia.<br>The Carmen Lucia Ruby is one of the few giant rubies in the world. It is named after the wife of Dr. Peter Bucker. She loved all kinds of jewelry, and when she saw a photo of this ruby in a newspaper, she had a strong yearning for it. Unfortunately, she fell ill soon after and died of cancer a year later. To commemorate his beloved wife, Dr. Bucker acquired this gemstone, named it after his beloved wife, fulfilled her last request, and donated it to the American Museum of History and Nature, hoping to allow more people the opportunity to appreciate this treasure.
+|fame=29
+|art=68
+|fth=43
+|civ=49
+|tech=39
+|ss1=Per 5 Star Coin Redeems, Snail ATK +2<br>Per 5 Star Coin Redeems, Snail RUSH +2<br>Star Coin Redeems: 250/250
+|ss2=Per 5 Star Coin Redeems, Snail ATK +3<br>Per 5 Star Coin Redeems, Snail RUSH +3<br>Star Coin Redeems: 250/250
+|ss3=Per 5 Star Coin Redeems, Snail ATK +4<br>Per 5 Star Coin Redeems, Snail RUSH +4<br>Star Coin Redeems: 250/250
+|ss4=Per 5 Star Coin Redeems, Snail ATK +6<br>Per 5 Star Coin Redeems, Snail RUSH +6<br>Star Coin Redeems: 250/250
+|ss5=Per 5 Star Coin Redeems, Snail ATK +8<br>Per 5 Star Coin Redeems, Snail RUSH +8<br>Star Coin Redeems: 250/250
+|ss7=Per 5 Star Coin Redeems, Snail ATK +8<br>Per 5 Star Coin Redeems, Snail RUSH +8<br>Star Coin Redeems: 250/250<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion HP +4.5%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's ART +10
+}}

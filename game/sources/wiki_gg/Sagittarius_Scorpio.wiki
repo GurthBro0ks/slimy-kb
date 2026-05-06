@@ -1,0 +1,9 @@
+{{CargoRelicResonance
+|pieces=2
+|relics=Sagittarius,Scorpio
+|rank=orange
+|description=All ELMT DMG +5%
+|category=self
+}}
+[[Category:Self]]
+[[Category:Element DMG Boost]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Ancestral Flint
+|class_id=20857
+|rank=Green
+|affct=TECH
+|source=
+|description=Flint, commonly known as firestone, is a dense, hard sedimentary rock containing silicon dioxide, usually light gray to dark brown, often found in limestone, and was an important early tool for making fire, witnessing the development of human civilization.
+|fame=12
+|art=15
+|fth=18
+|civ=13
+|tech=32
+|ss1=In Species War, Troop DMG to Heroes +0.5%<br>In Species War, Troop DMG against soldiers +0.5%
+|ss2=In Species War, Troop DMG to Heroes +1%<br>In Species War, Troop DMG against soldiers +1%
+|ss3=In Species War, Troop DMG to Heroes +1.5%<br>In Species War, Troop DMG against soldiers +1.5%
+|ss4=In Species War, Troop DMG to Heroes +1.5%<br>In Species War, Troop DMG against soldiers +1.5%
+|ss7=In Species War, Troop DMG to Heroes +1.5%<br>In Species War, Troop DMG against soldiers +1.5%<br> (Awakened)
+}}

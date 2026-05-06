@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Jilin-1 Meteorite
+|class_id=22412
+|rank=Blue
+|affct=FAME
+|birthday=05-07
+|source=Lottery Machine No.3 (0.03%)
+|description=On May 7, 1976 AD, a meteor shower occurred in the Jilin region.<br>Jilin-1 is the largest stone meteorite in the world, weighing up to 1,770 kilograms. It is estimated that its parent body was a planet from the asteroid belt that formed about 4.6 billion years ago. About 8 million years ago, a celestial body collided with the parent body of the Jilin-1 meteorite, causing it to become a meteor shower and eventually fall to Earth.
+|fame=44
+|art=23
+|fth=23
+|civ=28
+|tech=36
+|ss1=Like The Great Collector, obtained B-Tadpoles +5%
+|ss2=Like The Great Collector, obtained B-Tadpoles +10%
+|ss3=Like The Great Collector, obtained B-Tadpoles +15%
+|ss4=Like The Great Collector, obtained B-Tadpoles +25%
+|ss7=Like The Great Collector, obtained B-Tadpoles +25%<br>Like The Great Collector, obtained B-Tadpoles +25% (Awakened)
+|skill1=[[File:Forestsanctum skill I.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +5%
+}}

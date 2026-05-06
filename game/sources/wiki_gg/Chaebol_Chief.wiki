@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Chaebol Chief
+|rank=orange
+|cabin=2
+|id=103
+|gene1={race} HP +500
+|gene2={race} CIV +50
+|gene3=Each round, {race} HP +300
+|gene4=Per 60 Mutant Minions in battle,
+Troop Water DMG +6
+|gene5=Demon God Cabin, deployable robots +2
+|gene6=Per 60 Mutant Minions in battle,
+Troop Water DMG +10
+|gene7=Demon God Cabin, deployable robots +3
+|}}

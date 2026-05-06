@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Domain Hub
+|type=Common
+|rank=purple
+|id=10839
+|idx=44
+|description=The work of eight Demon Gods, it has a command system capable of dispatching hundreds of millions of troops at the same time, and a tactical algorithm function that can foresee the future.
+|skill=
+|hp=1736
+|def=122
+|atk=97
+|rush=239
+|gene1=Gain 2x Rewards when watching an Ad by +20%
+|gene2=Domain Cabin Output +5%
+|gene3=Gain 2x Rewards when watching an Ad by +20%
+|gene4=When fusing blue proteins in Cell Furnace, 1% chance to convert to purple
+|gene7=Domain Cabin Output +10% (Awakened)
+|}}

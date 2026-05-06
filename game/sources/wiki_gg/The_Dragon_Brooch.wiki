@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=The Dragon Brooch
+|class_id=20985
+|rank=Green
+|affct=FAME
+|source=
+|description=A coiled black dragon made of dark silver, its scales stained rusty red. Wings tipped with sharp onyx spikes. The head breathes fiery red enamel flames with tiny diamonds at the core. Valyrian words along the tail read: Fire and Blood.
+|fame=31
+|art=17
+|fth=15
+|civ=15
+|tech=12
+|ss1=Dragon Minion HARD Stats +0.1%<br>prop@1433_2
+|ss2=Dragon Minion HARD Stats +0.2%<br>prop@1433_2
+|ss3=Dragon Minion HARD Stats +0.3%<br>prop@1433_2
+|ss4=Dragon Minion HARD Stats +0.3%<br>prop@1433_2
+|ss7=Dragon Minion HARD Stats +0.3%<br>prop@1433_2<br> (Awakened)
+}}

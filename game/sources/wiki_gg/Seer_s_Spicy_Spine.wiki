@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Seer's Spicy Spine
+|type=Common
+|rank=blue
+|id=10826
+|idx=27
+|description="…In the tenth month, the Seer bet with the Monkey Demon to bathe in boiling oil. By the time we arrived, the air was thick with the scent of meat. All that remained was a single boiled spine…" — A Brief History of Chechi Kingdom
+|skill=
+|hp=1536
+|def=106
+|atk=66
+|rush=92
+|gene1=In explorations, {race} DEF +20
+|gene2=In explorations, Treasure Map Drop +2%
+|gene3=In explorations, DMG REDUC +2%
+|gene7=In explorations, DMG REDUC +2% (Awakened)
+|}}

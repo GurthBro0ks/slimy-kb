@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Neptune the Sea God
+|class_id=22027
+|rank=Blue
+|affct=ART
+|birthday=03-27
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Mar 27, 1688 AD, Coysevox was ordered by Louis XIV to start working on the Neptune sculpture.<br>Neptune is a marble sculpture created by Coysevox, a French sculptor. It is about the scene when Neptune tames an aggressive horse. Neptune is on top of the horse with a trident against the horse's neck, attempting to tame it. As the god of the sea and horses in Roman mythology, Neptune rules the seas and manages the horse races in the human world. It was Coysevox's tribute to the Palace of Versa to praise Louis XIV's feats.
+|fame=24
+|art=44
+|fth=29
+|civ=32
+|tech=25
+|ss1=Angel Minion ATK +1%
+|ss2=Angel Minion ATK +2%
+|ss3=Angel Minion ATK +3%
+|ss4=Angel Minion ATK +5%
+|ss7=Angel Minion ATK +5%<br>Angel Minion ATK +5% (Awakened)
+|skill1=[[File:Goldfish skill I.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion HP +1.5%
+}}

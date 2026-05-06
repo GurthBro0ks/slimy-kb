@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Glory Stone
+|class_id=20723
+|rank=Green
+|affct=FAITH
+|source=
+|description=Before travelers arrived, certain protomons had possessed extraordinary Glory. However, due to changing environments, these creatures have vanished, leaving only these stone tablets with records about them...
+|fame=15
+|art=14
+|fth=31
+|civ=17
+|tech=13
+|ss1=For each Divine Form obtained, get 30 Form Emblem(s)
+|ss2=For each Divine Form obtained, get 40 Form Emblem(s)
+|ss3=For each Divine Form obtained, get 50 Form Emblem(s)
+|ss4=For each Divine Form obtained, get 50 Form Emblem(s)
+|ss7=For each Divine Form obtained, get 50 Form Emblem(s)<br> (Awakened)
+}}

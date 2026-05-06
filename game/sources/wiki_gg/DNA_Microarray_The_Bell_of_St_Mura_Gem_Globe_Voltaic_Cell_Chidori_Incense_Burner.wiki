@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=DNA Microarray,The Bell of St Mura,Gem Globe,Voltaic Cell,Chidori Incense Burner
+|rank=purple
+|amount=5
+|category=minion
+|description=Mecha Minion MAX +9
+}}
+[[Category:Minion]]
+[[Category:Mecha Minion MAX Cap Boost]]

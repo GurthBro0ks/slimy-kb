@@ -1,0 +1,185 @@
+Emojis are used in [[Chat]].
+
+To send an emoji, press on the emoji picker and select an emoji, or type in <code>[emoji]</code> in the chat where <code>emoji</code> is a 2- or 3-digit number.
+
+==Emotes==
+=== [[File:Emoji_icon1.png|frameless|75x75px]] Snail===
+{|class= "wikitable
+!Identifier
+!Image
+|-
+| style="text-align: center;"|[01]||
+[[File:Emoji_01.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[02]||
+[[File:Emoji_02.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[03]||
+[[File:Emoji_03.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[04]||
+[[File:Emoji_04.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[05]||
+[[File:Emoji_05.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[06]||
+[[File:Emoji_06.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[07]||
+[[File:Emoji_07.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[08]||
+[[File:Emoji_08.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[09]||
+[[File:Emoji_09.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[10]||
+[[File:Emoji_10.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[11]||
+[[File:Emoji_11.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[12]||
+[[File:Emoji_12.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[13]||
+[[File:Emoji_13.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[14]||
+[[File:Emoji_14.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[15]||
+[[File:Emoji_15.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[16]||
+[[File:Emoji_16.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[17]||
+[[File:Emoji_17.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[18]||
+[[File:Emoji_18.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[19]||
+[[File:Emoji_19.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[20]||
+[[File:Emoji_20.png|frameless|75x75px]]
+|-
+|style="text-align: center;"|[21]||
+[[File:Emoji_21.png|frameless|75x75px]]
+|}
+
+===Unlockable Emotes===
+
+==== [[File:Emoji_icon3.png|frameless|75x75px]] Athena====
+Athena emotes are unlocked after reaching max bond with [[Shining Athena]].
+
+{|class= "wikitable
+
+!Identifier
+!Image
+|-
+| style="text-align: center;"|[101]||
+[[File:Emoji_101.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[102]||
+[[File:Emoji_102.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[103]||
+[[File:Emoji_103.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[104]||
+[[File:Emoji_104.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[105]||
+[[File:Emoji_105.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[106]||
+[[File:Emoji_106.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[107]||
+[[File:Emoji_107.png|frameless|75x75px]]
+|}
+
+====[[File:Emoji_icon2.png|frameless|75x75px]] Bird====
+Bird emotes are unlocked after unlocking [[Hatchery]].
+
+{|class= "wikitable
+!Identifier
+!Image
+|-
+| style="text-align: center;"|[201]||
+[[File:Emoji_201.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[202]||
+[[File:Emoji_202.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[203]||
+[[File:Emoji_203.png|frameless|75x75px]]
+|}
+
+====[[File:Emoji_icon4.png|frameless|75x75px]] Toad====
+
+Toad emotes are available for purchase through the QCPlay Payment Center. They are larger than standard emojis and cannot be combined with messages. 
+
+{|class= "wikitable
+!Identifier
+!Image
+|-
+| style="text-align: center;"|[1301]||
+[[File:emoji_1301.png|frameless|100x100px|Toad Sends Love]]
+|-
+| style="text-align: center;"|[1302]||
+[[File:emoji_1302.png|frameless|100x100px|Toad Angry]]
+|-
+| style="text-align: center;"|[1303]||
+[[File:emoji_1303.png|frameless|100x100px|Toad Dozing Off]]
+|-
+| style="text-align: center;"|[1304]||
+[[File:emoji_1304.png|frameless|100x100px|Toad Grabs Popcorn]]
+|-
+| style="text-align: center;"|[1305]||
+[[File:emoji_1305.png|frameless|100x100px|Toad Stay Strong]]
+|-
+| style="text-align: center;"|[1306]||
+[[File:emoji_1306.png|frameless|100x100px|Toad Deep in Thought]]
+|-
+|}
+
+===Limited-Time Emotes===
+
+====[[File:Emoji_icon5.png|frameless|75x75px]] Red Riding Hood====
+Red Riding Hood Emotes emotes were available during the [[Little Red Riding Hood Event]], Jan. 26 - Feb. 08 2024.
+
+{|class= "wikitable
+
+!Identifier
+!Image
+|-
+| style="text-align: center;"|[801]||
+[[File:Emoji_801.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[802]||
+[[File:Emoji_802.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[803]||
+[[File:Emoji_803.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[804]||
+[[File:Emoji_804.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[805]||
+[[File:Emoji_805.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[806]||
+[[File:Emoji_806.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[807]||
+[[File:Emoji_807.png|frameless|75x75px]]
+|-
+| style="text-align: center;"|[808]||
+[[File:Emoji_808.png|frameless|75x75px]]
+|}

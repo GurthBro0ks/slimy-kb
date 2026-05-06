@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Super Nerve Fiber
+|type=Common
+|rank=purple
+|id=10851
+|idx=56
+|description=This is a section of nerve endings from a patient with severe mental illness. Because the patient's nerves are unusually sensitive, they were able to perceive the world from a higher dimension!
+|skill=
+|hp=1526
+|def=179
+|atk=151
+|rush=148
+|gene1=Per purple or higher organ implanted, {race} RUSH +2
+Purple or higher Organs implanted: 40/40
+|gene2=RUSH Ignore DEF +2%
+|gene3=RUSH CRIT DMG +5%
+|gene4=If you spot a weakness, DMG +3%
+|gene7=If you spot a weakness, DMG +3% (Awakened)
+|}}

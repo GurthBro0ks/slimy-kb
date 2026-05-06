@@ -1,0 +1,42 @@
+
+{{CargoRelic
+|name=Hera's Peacock Fan
+|rank=SSS
+|affct=FTH
+|birthday=02-18
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.06%)
+|description=On Feb 18, 3000 BC, Hera made this fan using peacock feathers.<br>When Hera found out about Zeus' lover, Io, she ordered the hundred-eyed giant, Argos, to guard over Io to prevent Zeus from visiting her again. In order to save Io, Zeus sent Hermes and killed Argos. In retaliation against Zeus, Hera embedded Argo's eyeballs onto the feathers of her sacred bird, the peacock, and used it to make a feather fan to drive gadflies to sting cow-formed Io without rest.
+|fame=73
+|art=62
+|fth=106
+|civ=53
+|tech=68
+|ss1=Snail ATK +30<br>Per Dragon Form Tier, Snail ATK +15<br>Per Dragon Form Tier, Snail RUSH +15<br>Dragon Form Tiers: 9/9
+|ss2=Snail ATK +40<br>Per Dragon Form Tier, Snail ATK +20<br>Per Dragon Form Tier, Snail RUSH +20<br>Dragon Form Tiers: 9/9
+|ss3=Snail ATK +50<br>Per Dragon Form Tier, Snail ATK +25<br>Per Dragon Form Tier, Snail RUSH +25<br>Dragon Form Tiers: 9/9
+|ss4=Snail ATK +70<br>Per Dragon Form Tier, Snail ATK +35<br>Per Dragon Form Tier, Snail RUSH +35<br>Dragon Form Tiers: 9/9
+|ss5=Snail ATK +90<br>Per Dragon Form Tier, Snail ATK +45<br>Per Dragon Form Tier, Snail RUSH +45<br>Dragon Form Tiers: 9/9
+|ss6=Snail ATK +120<br>Per Dragon Form Tier, Snail ATK +60<br>Per Dragon Form Tier, Snail RUSH +60<br>Dragon Form Tiers: 9/9
+|ss7=Snail ATK +120<br>Per Dragon Form Tier, Snail ATK +60<br>Per Dragon Form Tier, Snail RUSH +60<br>Dragon Form Tiers: 9/9<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, Zombie Cells gained +30%
+|skill2=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, Demon Cells gained +30%
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, Angel Cells gained +30%
+|mirage={{#invoke:snailDB|parseMirage|Hera's Peacock Fan}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Zombie Cell Drop Boost]]
+[[Category:Demon Cell Drop Boost]]
+[[Category:Angel Cell Drop Boost]]
+[[Category:Quarry Boost]]
+[[Category:DEF Boost]]
+[[Category:Wishing Boost]]
+[[Category:Taichi Fish Output]]
+[[Category:Rewards Incense]]
+[[Category:Enhanced by Quarry LVL]]
+[[Category:Enhanced by Dragon Form Tier]]
+[[Category:Sanctum Warrior Boost]]

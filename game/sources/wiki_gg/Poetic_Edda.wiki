@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Poetic Edda
+|class_id=22713
+|rank=SSS
+|affct=CIV
+|birthday=06-02
+|source=Lottery Machine No.3 (0.12%)
+|description=On Jun 2, 1133 AD, the Poetic Edda was compiled into a book by a skald.<br>Poetic Edda is the oldest Edda, consisting of a total of 34 ancient songs and ballads. These anonymous ballads originated from the downstream region of the Rhine River. The Viking pirates brought the legends they heard back to Scandinavia, where they were refined and passed down from generation to generation by the skalds (poets). These ballads were not written down until the mid-12th century, when they took the form that has been passed down to us today.
+|fame=74
+|art=68
+|fth=63
+|civ=107
+|tech=50
+|ss1=Snail Leadership +3<br>Mutant Minion RUSH +3%<br>Per 100 catalysis, Snail ATK +3<br>Catalysis: 5000/5000
+|ss2=Snail Leadership +4<br>Mutant Minion RUSH +4%<br>Per 100 catalysis, Snail ATK +4<br>Catalysis: 5000/5000
+|ss3=Snail Leadership +5<br>Mutant Minion RUSH +5%<br>Per 100 catalysis, Snail ATK +5<br>Catalysis: 5000/5000
+|ss4=Snail Leadership +7<br>Mutant Minion RUSH +7%<br>Per 100 catalysis, Snail ATK +7<br>Catalysis: 5000/5000
+|ss5=Snail Leadership +9<br>Mutant Minion RUSH +9%<br>Per 100 catalysis, Snail ATK +9<br>Catalysis: 5000/5000
+|ss6=Snail Leadership +12<br>Mutant Minion RUSH +12%<br>Per 100 catalysis, Snail ATK +12<br>Catalysis: 5000/5000
+|ss7=Snail Leadership +12<br>Mutant Minion RUSH +12%<br>Per 100 catalysis, Snail ATK +12<br>Catalysis: 5000/5000<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: Wishing Egg hatching efficiency +30%
+|skill2=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: This Relic's CIV +15
+|skill3=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: Purple rewards from this egg turn Orange by 3%
+|mirage={{Mirage|name=Norse Mythology History|reward={{RewardIconWithLink|Glorium, +200|orange}}
+|3name=Chapter of Valkyrie|3rec=96.02M|3atk=305946|3defense=178991|3hp=24195259|3weak=38926
+|4name=Chapter of Frey|4rec=107.11M|4atk=330510|4defense=194598|4hp=29535069|4weak=41256
+|5name=Chapter of Thor|5rec=120.56M|5atk=359720|5defense=213521|5hp=37860495|5weak=44465
+|6name=Chapter of Odin|6rec=137.44M|6atk=396650|6defense=237269|6hp=49488583|6weak=47962
+|Arec=159.77M|Aatk=446778|Adefense=268686|Ahp=70251480|Aweak=51935
+}}}}

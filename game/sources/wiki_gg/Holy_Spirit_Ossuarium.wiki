@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=This Snail Shell is made after Apollo's fall. The eternal light inherited it from their father, and created the angel family. When the family fell on hard times, they claimed that they needed the money to revive Apollo, and will pay the money back to Snail once he is awakened.
+|affct=FTH
+|hard=ATK
+|source=
+{{Memetic Catalyst
+|number=1800
+|relic1=3-Faced Statue
+|relic2=Hera's Peacock Fan
+|relic3=Unispark
+|relic4=Lyre of Hermes
+|relic5=Golden Wheat
+}}
+|color=orange
+|earth=10
+|water=10
+|fire=11
+|wind=11
+|form=Angel
+|element=Earth
+|realm=Koryeo
+|orangehard=HP
+}}

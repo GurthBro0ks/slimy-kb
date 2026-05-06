@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=442
+|relics=Burgundian Laws,Isabella,Divination Book,Konjaku Tale
+|rank=purple
+|amount=4
+|category=self
+|description=Wormhole Shards from Wormhole Refiner +8%
+}}

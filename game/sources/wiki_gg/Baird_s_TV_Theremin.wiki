@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=305
+|relics=Baird's TV,Theremin
+|rank=blue
+|amount=2
+|category=self
+|description=Per 2 ART Master Scrolls used, Snail RUSH +5;ART Master Scrolls Used: 100/100
+}}

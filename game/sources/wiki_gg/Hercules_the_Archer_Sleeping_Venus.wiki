@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=660
+|relics=Hercules the Archer,Sleeping Venus
+|rank=purple
+|amount=2
+|category=self
+|description=Per 100 catalysis, Snail DEF +6;Catalysis: 5000/5000
+}}

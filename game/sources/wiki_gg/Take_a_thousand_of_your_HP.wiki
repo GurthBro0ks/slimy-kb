@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Take a thousand of your HP!
+|class_id=20398
+|rank=Green
+|affct=TECH
+|source=
+|description=Although it looks like a flashlight, it is actually the ultimate weapon, combining ten deadly weapons into one. Each weapon is capable of standing on its own, meeting various needs such as outdoor survival and emergency rescue. It is the most bizarre, legendary, incredible, and powerful ultimate weapon researched by the Rebel
+|fame=16
+|art=16
+|fth=17
+|civ=12
+|tech=29
+|ss1=Per 1.2k Rebel Tech Pts, Snail ATK +1<br>Rebel Tech Pts: 60000/60000
+|ss2=Per 1.2k Rebel Tech Pts, Snail ATK +2<br>Rebel Tech Pts: 60000/60000
+|ss3=Per 1.2k Rebel Tech Pts, Snail ATK +3<br>Rebel Tech Pts: 60000/60000
+|ss4=Per 1.2k Rebel Tech Pts, Snail ATK +3<br>Rebel Tech Pts: 60000/60000
+|ss7=Per 1.2k Rebel Tech Pts, Snail ATK +3<br>Rebel Tech Pts: 60000/60000<br> (Awakened)
+}}

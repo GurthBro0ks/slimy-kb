@@ -1,0 +1,259 @@
+{{Missing Info}}
+
+==The Vending Machine==
+The Vending Machine at Home Base near the Mailbox. To unlock it, you must first complete the Tutorial and purchase the {{RewardIconWithLink|Unidentified Motor|black|Koryeo_Cards#Tier_1_(White)}} from [[Koryeo]]. This greasy old motor has a production batch number engraved: CyberVendor XCC-II-0523. Use this to repair the broken vending machine. 
+
+Once unlocked, this is where you can make your daily purchases for a variety of items. Some items are one-time only and appear as you need them, and others will refresh every 24 hours at the daily server reset. Some items also rotate; these items have sub-headings below with their full rotation.
+
+== Every day Items ==
+===Vending Machine===
+{{ShopRowHeader|Vending Machine}}
+!rowspan="32"|
+{{ShopRow|Escargot, <br>(Food +1k)|white|180 {{RewardIconWithText|B-Tad}}|1h soul, <br>Offer at the [[Altar]]|white|500 {{RewardIconWithText|B-Tad}}|8h soul, <br>Offer at the [[Altar]]|white|4k {{RewardIconWithText|B-Tad}}}}
+{{ShopRow|Green Reagent, +10<br>Upgrade [[Relics]]<br>Purchase 5 Times Per Day|green|3k {{RewardIconWithText|B-Tad}}|Blue Reagent, +10<br>Upgrade [[Relics]]<br>Purchase 5 Times Per Day|blue|6k {{RewardIconWithText|B-Tad}}|Purple Reagent, +10<br>Upgrade [[Relics]]<br>Purchase 5 Times Per Day|purple|24k {{RewardIconWithText|B-Tad}}}}
+{{ShopRow|Event Bonus, <br>[[Weekly Events|Event]] Rewards<br>Purchase 1 Times Per Day|orange|1 {{RewardIconWithText|W-Tad}}|B-Tadpole Tank, <br>Obtain {{RewardIconWithText|B-Tad, +50k}}<br>Purchase 5 Times Per Day|orange|800 {{RewardIconWithText|W-Tad}}|Orange Reagent, +10<br>Upgrade [[Relics]]<br>Purchase 5 Times Per Day|orange|1.2k {{RewardIconWithText|W-Tad}}}}
+{{ShopRow|Lottery Ticket, +8<br>Used at the [[Lottery Machine]]<br>Purchase 1 Times Per Day|orange|1.5k {{RewardIconWithText|W-Tad}}|Wish Coin, <br>Use at the [[Alchemy Furnace]]<br>Purchase 1 Times Per Day|orange|600 {{RewardIconWithText|W-Tad}}|Premium Cat Food, <br>([[Vending_Machine#Premium_Cat_Food|See Below]])<br>Purchase 1 Times Per Day|orange|1k {{RewardIconWithText|W-Tad}}}}
+{{ShopRow|Offering Speedup, +10h<br>Offer at the [[Altar]]<br>Purchase 1 Times Per Day|orange|600 {{RewardIconWithText|W-Tad}}|Gene Speedup, +10h<br>Use at the [[Evolution|Research Device]]<br>Purchase 1 Times Per Day|orange|600 {{RewardIconWithText|W-Tad}}|Rewards Box, <br>Available after defeating the<br>[[Events#The Manhunt Act|Cancer Cell of Earth's Will Level 1]]<br>for the first time.<br>Purchase 1 Times Per Day|orange|200 {{RewardIconWithText|W-Tad}}}}
+{{ShopRow|Glue, +10<br>Use to upgrade [[Gear]]<br>Purchase 5 Times Per Day|white|10k {{RewardIconWithText|B-Tad}}|Game Controller, +2<br>Use to fight in [[Arena]]<br>Purchase 3 Times Per Day|white|10k {{RewardIconWithText|B-Tad}}}}
+|}
+
+===Small and Large Soul===
+One type of 1h Soul and 8h Soul is sold each day in the vending machine, rotating between the three different Soul types: Order (Yellow), Neutral (Green), and Chaos (Red). In that order, the souls are: Splashturtle, Venustoad, and Charisnake.
+
+===Event Bonus===
+The rewards for this bonus vary depending on the [[Weekly Events|Event]]. 
+{| class="wikitable"
+!Event!!Rewards
+|-
+|[[Lottery Machine|Lottery Week]]||{{RewardIconWithText|Carnival Balloon, +100}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}<br>{{RewardIconWithText|W-Tad, +20}}
+|-
+|[[Alchemy Furnace|Wishing Week]]||{{RewardIconWithText|Mystery Ash, +100}}<br>{{RewardIconWithLink|Wish Coin, +1|orange}}<br>{{RewardIconWithText|W-Tad, +20}}
+|-
+|[[Altar|Offering Week]]||{{RewardIconWithText|Spirit Crystal, +100}}<br>{{RewardIconWithText|Offering Speedup, +30m}}<br>{{RewardIcon|Soul III}}Soul of Developer +1
+|}
+
+===Premium Cat Food===
+The Premium Cat Food also rotates each day, going through a total of 5 Foods with different rewards. The first time each Cat Food is consumed, you'll also receive a [[Gene Simulation|Flarken Gene Segment]]. All 5 are needed for the [[Gene Simulation|Flarkgen Gene Trial]].
+
+{| class="wikitable"
+!Image
+!Rewards
+|-
+|{{Reimg|Zombie Cat Food}} Purrfect Cat Food||{{RewardIconWithText|Zombie Cell, +5k}}<br>{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|B-Tad, +15K}}
+|-
+|{{Reimg|Demon Cat Food}} Cat-titude Cat Food||{{RewardIconWithText|Demon Cell, +5k}}<br>{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Travel Speedup, +2h}}
+|-
+|{{Reimg|Angel Cat Food}} Optimeow Cat Food||{{RewardIconWithText|Angel Cell, +5k}}<br>{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Gene Speedup, +6h}}
+|-
+|{{Reimg|Mutant Cat Food}} Meowtivator Cat Food||{{RewardIconWithText|Mutant Cell, +5k}}<br>{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Offering Speedup, +6h}}
+|-
+|{{Reimg|Mecha Cat Food}} Furriend Cat Food||{{RewardIconWithText|Mecha Cell, +5k}}<br>{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Clone Speedup, +6h}}
+|-
+|}
+
+== One-time Items ==
+There are several items in the Vending Machine that can only be purchased once. The events that allow them to be purchasable happen in the following order.
+
+=== 1 Available from start ===
+These items are available once the Vending Machine is unlocked.
+
+{| class="wikitable"
+!Item
+!Effect
+!Cost
+!Notes
+|-
+|{{RewardIconWithGearlink|green|Instrument|Crystal Lens}}
+|Extra RUSH DMG +60
+|8k {{RewardIconWithText|B-Tad}}
+|Used to craft {{RewardIconWithGearlink|orange|Instrument|Battle Detector}} and eventually {{RewardIconWithGearlink|red|Instrument|Know-It-All Device}}.
+|-
+|{{RewardIconWithGearlink|green|Instrument|Fresnal Lens}}
+|Extra RUSH DMG +60
+|8k {{RewardIconWithText|B-Tad}}
+|Used to craft {{RewardIconWithGearlink|orange|Instrument|Battle Detector}} and eventually {{RewardIconWithGearlink|red|Instrument|Know-It-All Device}}.
+|}
+
+=== 2 Available after Restock ===
+After the [[Terminal]] has been repaired, the machine will disappear to be Restocked. When it returns, it'll have some new items in it.
+
+{| class="wikitable"
+!Item
+!Effect
+!Cost
+!Notes
+|-
+|{{RewardIconWithText|Brain Parasite}}
+|[[Zombie Form]] Sequence
+|8k {{RewardIconWithText|B-Tad}}
+|
+|-
+|{{RewardIconWithText|Fortune Cat Part}}
+|Unlocks [[Fortune Cat]] at in-game store
+|200 {{RewardIconWithText|W-Tad}}
+|
+|-
+|{{RewardIconWithGearlink|blue|Instrument|Infrared Lens}}
+|Extra RUSH DMG +120
+|32k {{RewardIconWithText|B-Tad}}
+|Used to craft {{RewardIconWithGearlink|orange|Instrument|Battle Detector}} and eventually {{RewardIconWithGearlink|red|Instrument|Know-It-All Device}}.
+|-
+|{{RewardIconWithText|Snail Arena}}
+|Use to unlock the Snail Arena Minigame
+|3k {{RewardIconWithText|B-Tad}}
+|
+|-
+|{{RewardIconWithText|Tetromino Special}}
+|Use to unlock [[Minigames#Tetromino_Special|Tetromino Special Minigame]]
+|10k {{RewardIconWithText|B-Tad}}
+|
+|}
+
+=== 3 After Purchasing Restocked Items ===
+After you purchase all the items from the Restock category, more items will be added to the shop.
+{| class="wikitable"
+!Item
+!Effect
+!Cost
+!Notes
+|-
+|{{RewardIconWithText|Cat Vomit I}}
+|{{RewardIcon|1h Soul Green}} {{Retext|Soul of Frog (1h)|green}}<br>{{RewardIcon|2h Soul Yellow}} {{Retext|Soul of Hamster (2h)|yellow}} +5<br>{{RewardIcon|1h Soul Red}} {{Retext|Soul of Snake (1h)|red}}
+|600 {{RewardIconWithText|B-Tad}}
+|
+|}
+
+=== 4 Cat Food Restock ===
+After purchasing all of the previous items, the vending machine will once again leave to restock. This time saying they need to get Cat Food.
+{| class="wikitable"
+!Item
+!Effect
+!Cost
+!Notes
+|-
+|{{RewardIconWithText|Cat Food}}
+|Use to get 100 random Demon God Cells
+|1 {{RewardIconWithText|B-Tad}}
+|Starts selling [[Cat Food|Premium Cat Food]] after buying all 63.
+|-
+|{{RewardIconWithText|Fruit Frenzy}}
+|Use to unlock Fruit Frenzy Minigame
+|10k {{RewardIconWithText|B-Tad}}
+|
+|-
+|{{RewardIconWithGearlink|purple|Instrument|Holographic Lens}}
+|Extra RUSH DMG +240
+|128k {{RewardIconWithText|B-Tad}}
+|Used to craft {{RewardIconWithGearlink|orange|Instrument|Battle Detector}} and eventually {{RewardIconWithGearlink|red|Instrument|Know-It-All Device}}.
+|-
+|{{RewardIconWithText|Small Bowl}}
+|Essential for raising the [[Unknown Creature]]
+|30k {{RewardIconWithText|B-Tad}}
+|
+|-
+|{{RewardIconWithText|Small Collar}}
+|Essential for raising the [[Unknown Creature]]
+|30k {{RewardIconWithText|B-Tad}}
+|
+|}
+
+=== 5 Cat Vomit Part 2 ===
+After buying {{RewardIconWithText|Cat Vomit I}} and the rest of the '''Cat Food Restock''' some time will need to pass. Then these items will be available.
+
+{| class="wikitable"
+!Item
+!Effect
+!Cost
+!Notes
+|-
+|{{RewardIconWithText|Cat Vomit II}}
+|{{RewardIconWithLink|Glue, +10}}<br>{{RewardIcon|4h Soul Green}} {{Retext|Soul of Sloth (4h)|green}}<br>{{RewardIcon|4h Soul Yellow}} {{Retext|Soul of Buffalo (4h)|yellow}}<br>{{RewardIcon|4h Soul Red}} {{Retext|Soul of Komodo Dragon (4h)|red}}
+|600 {{RewardIconWithText|B-Tad}}
+|Available after purchasing {{RewardIconWithText|Cat Vomit I}}.
+|-
+|{{RewardIconWithText|Cat Vomit III}}
+|{{RewardIcon|8h Soul Green}} {{Retext|Soul of Behemoth (8h)|green}}<br>{{RewardIcon|4h Soul Green}} {{Retext|Soul of Onyx (4h)|green}}<br>{{RewardIcon|8h Soul Yellow}} {{Retext|Soul of 4-Winged Angel (8h)|yellow}}<br>{{RewardIcon|8h Soul Red}} {{Retext|Soul of Ooki (8h)|red}}<br>{{RewardIcon|8h Soul Red}} {{Retext|Soul of Cerberus (8h)|red}}
+|600 {{RewardIconWithText|B-Tad}}
+|Available after purchasing {{RewardIconWithText|Cat Vomit II}}.
+|}
+
+==Spending Bonus==
+Gain 1pt for spending either 10 W-Tads or 10k B-Tads. Gain rewards for accuring a certain number of points:
+
+{|class="wikitable mw-collapsible mw-collapsed"
+!Tadpole Points
+!Reward
+|-
+|300||{{RewardIconWithLink|Lottery Ticket|orange}} +1
+|-
+|600||{{RewardIconWithLink|Lottery Ticket|orange}} +1
+|-
+|1k||{{RewardIconWithLink|Lottery Ticket|orange}} +1
+|-
+|1.4k||{{RewardIconWithLink|Lottery Ticket|orange}} +1
+|-
+|1.8k||{{RewardIconWithLink|Lottery Ticket|orange}} +2
+|-
+|2.2k||{{RewardIconWithLink|Lottery Ticket|orange}} +2
+|-
+|2.6k||{{RewardIconWithLink|Lottery Ticket|orange}} +2
+|-
+|3k||{{RewardIconWithLink|Lottery Ticket|orange}} +2
+|-
+|4k||{{RewardIconWithLink|Lottery Ticket|orange}} +2
+|-
+|5k||{{RewardIconWithLink|Lottery Ticket|orange}} +4
+|-
+|6k||{{RewardIconWithLink|Lottery Ticket|orange}} +4
+|-
+|7k||{{RewardIconWithLink|Lottery Ticket|orange}} +4
+|-
+|8k||{{RewardIconWithLink|Lottery Ticket|orange}} +4
+|-
+|9k||{{RewardIconWithLink|Lottery Ticket|orange}} +4
+|-
+|??||{{RewardIconWithLink|Lottery Ticket|orange}} +8
+|-
+|??||{{RewardIconWithLink|Lottery Ticket|orange}} +8
+|-
+|??||{{RewardIconWithLink|Lottery Ticket|orange}} +8
+|-
+|16k||{{RewardIconWithLink|Lottery Ticket|orange}} +8
+|-
+|18k||{{RewardIconWithLink|Lottery Ticket|orange}} +8
+|-
+|20k||{{RewardIconWithLink|Lottery Ticket|orange}} +15
+|-
+|25k||{{RewardIconWithLink|Lottery Ticket|orange}} +15
+|-
+|30k||{{RewardIconWithLink|Lottery Ticket|orange}} +15
+|-
+|40k||{{RewardIconWithLink|Lottery Ticket|orange}} +15
+|-
+|50k||{{RewardIconWithLink|Lottery Ticket|orange}} +15
+|-
+|60k||{{RewardIconWithLink|Lottery Ticket|orange}} +30
+|-
+|80k||{{RewardIconWithLink|Lottery Ticket|orange}} +30
+|-
+|100k||{{RewardIconWithLink|Lottery Ticket|orange}} +30
+|-
+|150k||{{RewardIconWithLink|Lottery Ticket|orange}} +30
+|-
+|200k||{{RewardIconWithLink|Lottery Ticket|orange}} +30
+|-
+|300k||{{RewardIconWithLink|Lottery Ticket|orange}} +50
+|-
+|400k||{{RewardIconWithLink|Lottery Ticket|orange}} +50
+|-
+|600k||{{RewardIconWithLink|Lottery Ticket|orange}} +50
+|-
+|800k||{{RewardIconWithLink|Lottery Ticket|orange}} +60
+|-
+|1M||{{RewardIconWithLink|Lottery Ticket|orange}} +60
+|}
+
+==Consumer Value Pack==
+[[Value_Packs#Consumer_Value_Pack|Consumer Value Packs]] are available once the conditions are met.
+
+[[Category:Home Base]]

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Neapolitan Fisherboy
+|class_id=22433
+|rank=Blue
+|affct=ART
+|birthday=01-30
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jan 30, 1833 AD, "Neapolitan Fisherboy" made its debut at the Paris Art Exhibition.<br>Neapolitan Fisherboy is the masterpiece of French sculptor Fran?ois. This statue uses a pyramid composition that easily represents peace and stability but also portrays a lively and dynamic image of the boy. The appearance of this statue symbolizes the transformation of Western sculpture from classicism to romanticism and has important historical significance.
+|fame=21
+|art=46
+|fth=29
+|civ=33
+|tech=25
+|ss1=Like Super Evolution, obtained B-Tadpoles +5%
+|ss2=Like Super Evolution, obtained B-Tadpoles +10%
+|ss3=Like Super Evolution, obtained B-Tadpoles +15%
+|ss4=Like Super Evolution, obtained B-Tadpoles +25%
+|ss7=Like Super Evolution, obtained B-Tadpoles +25%<br>Like Super Evolution, obtained B-Tadpoles +25% (Awakened)
+|skill1=[[File:Forestsanctum skill I.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +5%
+}}

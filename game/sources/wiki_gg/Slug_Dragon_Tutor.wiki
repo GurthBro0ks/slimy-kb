@@ -1,0 +1,300 @@
+== Slug Dragon Tutor ♂ ==
+This dragon tutor focuses on grooming outstanding young dragons. With vast teaching experience, he is trusted by most parents!
+
+=== Begin Friendship ===
+To obtain the Slug Dragon Tutor, you must first reach T6 Dragon form, then use a dragon orb to wish for said partner, asking the dragon for someone to train your Slug Dragon minions
+
+===☆☆☆ > ★★★===
+After a short message chain (4 responses) the Slug Dragon Tutor will ask for a fee of 3,000 White Tadpoles, after paying you will then instantly befriend the partner and be gifted 60 Dragon Manuals
+
+==Rent==
+Slug Dragon Tutor rent is collected on '''Thursday''' and found upon a pile of books to the left of him
+
+[IMAGE frameless, left]
+ '''Normal Rent''':
+
+ '''Rare Rent''':
+
+ '''1-time Rent''':
+
+ '''Lv. 10 Rent''':
+<br>
+
+==Relics==
+Upgrading these will earn Gene Speedups!
+{| class="mw-collapsible mw-collapsed wikitable"  
+!Relic Tier
+!Reward 
+|-
+|★
+| Gene Speedup 1 Hour
+|-
+|★★
+| Gene Speedup 1 Hour
+|-
+|★★★
+| Gene Speedup 1 Hour
+|-
+|★★★★
+| Gene Speedup 2 Hour
+|-
+|★★★★★
+| Gene Speedup 3 Hour
+|-
+| ★★★★★★
+| Gene Speedup 4 Hour
+|}<br>
+
+{| class="wikitable" style="width:100%; text-align:center;" 
+! style="background-color:var(--blue-bg);" |[[File:Sonnet.png|frameless|50x50px|link=Sonnet]]<br>[[Sonnet]] 
+! style="background-color:var(--blue-bg);" |[[File:Euclid's Elements.png|frameless|50x50px|link=Euclid's Elements]]<br>[[Euclid's Elements]] 
+! style="background-color:var(--purple-bg);" |[[File:Leaf Manuscript.png|frameless|50x50px|link=Leaf Manuscript]]<br>[[Leaf Manuscript]] 
+! style="background-color:var(--purple-bg);" |[[File:Theory of Population.png|frameless|50x50px|link=Theory of Population]]<br>[[Theory of Population]]
+|-
+! style="background-color:var(--orange-bg);" | [[File:The School of Athens.png|frameless|50x50px|link=The School of Athens]]<br>[[The School of Athens]]
+! style="background-color:var(--orange-bg);" |[[File:Encyclopedia.png|frameless|50x50px|link=Encyclopedia]]<br>[[Encyclopedia]]
+! style="background-color:var(--orange-bg);" |[[File:The Prince.png|frameless|50x50px|link=The Prince]]<br>[[The Prince]] 
+! style="background-color:var(--orange-bg);" |[[File:Science Magazine Vol.1.png|frameless|50x50px|link=Science Magazine Vol.1]]<br>[[Science Magazine Vol.1]]
+|}
+
+==Tutor's Homework==
+With great experience, Slug Dragon Tutor provides the most comprehensive teaching!
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!'''Lv.'''!!'''Research Skill Required'''!!'''B-tad Cost'''!!'''Skill 1'''!!'''Skill 2'''
+|-
+|1|| || ||ART +5||Free Gene Speedup(Dragon) +0.5 Minutes
+|-
+|2||180||2,000||ART +10||Free Gene Speedup(Dragon) +1 Minutes
+|-
+|3||190 ||4,500||ART +15||Free Gene Speedup(Dragon) +1.5 Minutes
+|-
+|4|| 200||8,000||ART +20||Free Gene Speedup(Dragon) +2 Minutes
+|-
+|5||210 || 12,500||ART +25||Free Gene Speedup(Dragon) +2.5 Minutes
+|-
+|6||220||18,000||ART +30||Free Gene Speedup(Dragon) +3 Minutes
+|-
+|7||230||24,500||ART +35||Free Gene Speedup(Dragon) +3.5 Minutes
+|-
+|8||240|| 32,000||ART +40||Free Gene Speedup(Dragon) +4 Minutes
+|-
+|9||250||40,500 ||ART +45||Free Gene Speedup(Dragon) +4.5 Minutes
+|-
+|10||260||50,000||ART +50||Free Gene Speedup(Dragon) +5 Minutes
+|-
+|11||270||60,500 ||ART +55||Free Gene Speedup(Dragon) +5.5 Minutes
+|-
+| 12||285||72,000||ART +60||Free Gene Speedup(Dragon) +6 Minutes
+|-
+|13||300||84,500||ART +65||Free Gene Speedup(Dragon) +6.5 Minutes
+|-
+|14|| 315||98,000||ART +70||Free Gene Speedup(Dragon) +7 Minutes
+|-
+|15||330 ||112,000||ART +75||Free Gene Speedup(Dragon) +7.5 Minutes
+|-
+|16||345||123,000||ART +80||Free Gene Speedup(Dragon) +8 Minutes
+|-
+|17||360||144,000||ART +85||Free Gene Speedup(Dragon) +8.5 Minutes
+|-
+|18||375 ||162,000||ART +90||Free Gene Speedup(Dragon) +9 Minutes
+|-
+|19||390||180,000||ART +95||Free Gene Speedup(Dragon) +9.5 Minutes
+|-
+|20||400 ||200,000||ART +100||Free Gene Speedup(Dragon) +10 Minutes
+|-
+|21||420||220,000||ART +105||Free Gene Speedup(Dragon) +10.5 Minutes
+|-
+|22|| 440||242,000||ART +110||Free Gene Speedup(Dragon) +11 Minutes
+|-
+|23||460||264,000||ART +115||Free Gene Speedup(Dragon) +11.5 Minutes
+|-
+|24||480|| 285,000||ART +120||Free Gene Speedup(Dragon) +12 Minutes
+|-
+|25||500 ||309,000||ART +125||Free Gene Speedup(Dragon) +12.5 Minutes
+|-
+|26||520||333,000||ART +130||Free Gene Speedup(Dragon) +13 Minutes
+|-
+|27||540||357,000||ART +135||Free Gene Speedup(Dragon) +13.5 Minutes
+|-
+|28 ||560|| 381,000||ART +140||Free Gene Speedup(Dragon) +14 Minutes
+|-
+|29||580||405,000||ART +145||Free Gene Speedup(Dragon) +14.5 Minutes
+|-
+|30 || 600||429,000||ART +150||Free Gene Speedup(Dragon) +15 Minutes
+|}
+
+== Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Tutor's Homework is. 
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!'''Lv.'''!!'''B-tad Cost'''!!'''Skill 1'''!! '''Skill 2'''
+|-
+|1|| ||Dragon Minion MAX +1||Per 10 Slug Dragonlings in battle, Troop RUSH +10 
+|-
+|2||4000||Dragon Minion MAX +2||Per 10 Slug Dragonlings in battle, Troop RUSH +20
+|-
+|3||6000||Dragon Minion MAX +3||Per 10 Slug Dragonlings in battle, Troop RUSH +30
+|-
+|4||8000||Dragon Minion MAX +4||Per 10 Slug Dragonlings in battle, Troop RUSH +40
+|-
+|5||10000||Dragon Minion MAX +5||Per 10 Slug Dragonlings in battle, Troop RUSH +50
+|-
+| 6||12000||Dragon Minion MAX +6||Per 10 Slug Dragonlings in battle, Troop RUSH +60
+|-
+|7||14000||Dragon Minion MAX +7|| Per 10 Slug Dragonlings in battle, Troop RUSH +70
+|-
+|8||16000||Dragon Minion MAX +8||Per 10 Slug Dragonlings in battle, Troop RUSH +80 
+|-
+|9||18000||Dragon Minion MAX +9|| Per 10 Slug Dragonlings in battle, Troop RUSH +90
+|-
+|10||20000||Dragon Minion MAX +10||Per 10 Slug Dragonlings in battle, Troop RUSH +100
+|-
+|11||22000||Dragon Minion MAX +11|| Per 10 Slug Dragonlings in battle, Troop RUSH +110
+|-
+|12||24000||Dragon Minion MAX +12||Per 10 Slug Dragonlings in battle, Troop RUSH +120
+|-
+|13 || 26000||Dragon Minion MAX +13||Per 10 Slug Dragonlings in battle, Troop RUSH +130
+|-
+| 14||28000||Dragon Minion MAX +14|| Per 10 Slug Dragonlings in battle, Troop RUSH +140
+|-
+|15||30000||Dragon Minion MAX +15||Per 10 Slug Dragonlings in battle, Troop RUSH +150
+|-
+|16 ||32000||Dragon Minion MAX +16||Per 10 Slug Dragonlings in battle, Troop RUSH +160
+|-
+| 17||34000||Dragon Minion MAX +17||Per 10 Slug Dragonlings in battle, Troop RUSH +170
+|-
+|18||36000||Dragon Minion MAX +18||Per 10 Slug Dragonlings in battle, Troop RUSH +180
+|-
+|19||38000 ||Dragon Minion MAX +19||Per 10 Slug Dragonlings in battle, Troop RUSH +190
+|-
+|20||40000||Dragon Minion MAX +20||Per 10 Slug Dragonlings in battle, Troop RUSH +200
+|-
+|21||42000||Dragon Minion MAX +21||Per 10 Slug Dragonlings in battle, Troop RUSH +210
+|-
+|22||44000 ||Dragon Minion MAX +22||Per 10 Slug Dragonlings in battle, Troop RUSH +220
+|-
+|23|| 46000||Dragon Minion MAX +23||Per 10 Slug Dragonlings in battle, Troop RUSH +230
+|-
+|24||48000||Dragon Minion MAX +24||Per 10 Slug Dragonlings in battle, Troop RUSH +240
+|-
+|25||50000||Dragon Minion MAX +25||Per 10 Slug Dragonlings in battle, Troop RUSH +250
+|-
+|26||55000||Dragon Minion MAX +26||Per 10 Slug Dragonlings in battle, Troop RUSH +260
+|-
+| 27||60000||Dragon Minion MAX +27||Per 10 Slug Dragonlings in battle, Troop RUSH +270
+|-
+|28||65000||Dragon Minion MAX +28||Per 10 Slug Dragonlings in battle, Troop RUSH +280
+|-
+|29||70000||Dragon Minion MAX +29||Per 10 Slug Dragonlings in battle, Troop RUSH +290
+|-
+|30||75000||Dragon Minion MAX +30||Per 10 Slug Dragonlings in battle, Troop RUSH +300
+|}
+
+==Research Ability==
+Below is a table of the research manual cost to upgrade each research gene. Slug Dragon Tutor specializes in '''[GENE] Genes''' specialization and therefore the research manual cost for the Dragon is halved. 
+
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!Lv.!!Manuals Required!!Lv.!!Manuals Required
+|-
+|'''1-10'''||1||'''11-20'''||2
+|-
+|'''21-30'''||3||'''31-40'''||4
+|-
+|'''41-50'''||5||'''51-60'''||10
+|-
+|'''61-70'''||20||'''71-80'''||40
+|-
+|'''81-90'''||60||'''91-95'''||80
+|-
+|'''96'''||100 ||'''97'''||200
+|-
+|'''98'''||400|| '''99'''||600
+
+|-
+|'''100''' || 800
+|}
+
+==Minion - Slug Dragonling==
+It was born from the dragon egg given by the Divine Dragon. It does not resemble the Divine Dragons, but it is indeed descended from them and has every power of a dragon!
+
+===Special Ability - Wishmaking ===
+Per 10 Slug Dragonlings in battle, Troop Wind Res +1 (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Slug Dragonling!
+{| class="wikitable"
+!'''Name'''
+!'''1-Star'''
+!'''2-Star'''
+!'''3-Star''' 
+!'''4-Star''' 
+!'''5-Star'''
+!'''6-Star'''
+|-
+|Star of David
+|Slug Dragonling HP +1%
+|Slug Dragonling DEF +1%
+|Slug Dragonling ATK +1%
+|Slug Dragonling RUSH +1%
+|
+|
+|-
+|Quantum Cat
+|Slug Dragonling HP +1%
+|Slug Dragonling DEF +1%
+|Slug Dragonling ATK +1%
+|Slug Dragonling RUSH +1%
+|
+|
+|-
+|Yamato Mirror
+|Slug Dragonling HP +2%
+|Slug Dragonling DEF +2% 
+|Slug Dragonling ATK +2%
+|Slug Dragonling RUSH +2%
+|Slug Dragonling All Stats +3%
+|
+|-
+|Blood of Dracula
+|Slug Dragonling HP +2%
+|Slug Dragonling DEF +2%
+|Slug Dragonling ATK +2%
+|Slug Dragonling RUSH +2%
+|Slug Dragonling All Stats +3%
+|
+|-
+|Divine Comedy
+|Slug Dragonling DEF +4%
+|Slug Dragonling DEF +4%
+|Slug Dragonling DEF +4%
+|Slug Dragonling DEF +4%
+|Slug Dragonling DEF +4%
+|Slug Dragonling DEF +4%
+|-
+|Athena Statue
+|Slug Dragonling HP +4%
+|Slug Dragonling HP +4%
+|Slug Dragonling HP +4%
+|Slug Dragonling HP +4%
+|Slug Dragonling HP +4%
+|Slug Dragonling HP +4%
+|-
+|Agamemnon Mask
+|Slug Dragonling ATK +4%
+|Slug Dragonling ATK +4%
+|Slug Dragonling ATK +4%
+|Slug Dragonling ATK +4%
+|Slug Dragonling ATK +4%
+|Slug Dragonling ATK +4%
+|-
+|Mind Controller
+|Slug Dragonling RUSH +4%
+|Slug Dragonling RUSH +4%
+|Slug Dragonling RUSH +4%
+|Slug Dragonling RUSH +4%
+|Slug Dragonling RUSH +4%
+|Slug Dragonling RUSH +4% 
+|}
+
+[[Category:Partners]]

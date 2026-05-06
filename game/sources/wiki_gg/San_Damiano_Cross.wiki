@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=San Damiano Cross
+|class_id=22047
+|rank=Blue
+|affct=FAITH
+|birthday=10-08
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Oct 8, 1101 AD, St. Francis embarked on the road of spiritual practice after being enlightened by the San Damiano Cross.<br>The San Damiano Cross is an icon painted by an unknown painter for the Chapel of St. Damian. It is said that it enlightened St. Francis, who then embarked on the road of repentance and practice. After that, he devoted himself to spiritual practice, insisted on preaching, founded the Franciscan Orders and the Franciscan Sisters, and earned his reputation in Catholics.
+|fame=24
+|art=32
+|fth=46
+|civ=20
+|tech=32
+|ss1=Demon Minion DEF +1%
+|ss2=Demon Minion DEF +2%
+|ss3=Demon Minion DEF +3%
+|ss4=Demon Minion DEF +5%
+|ss7=Demon Minion DEF +5%<br>Demon Minion DEF +5% (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Angel Cells gained +2.5%
+}}

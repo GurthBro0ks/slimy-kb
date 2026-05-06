@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Stela of Djet,Lewis Chessmen,Lumieres' Film,Kilogram Prototype
+|rank=blue
+|amount=4
+|category=other
+|description=When crafting a Blue Reagent, a +7% to get +1
+}}
+[[Category:Other]]

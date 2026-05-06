@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Star-Lord's Walkman
+|class_id=20572
+|rank=Green
+|affct=CIV
+|source=
+|description=This Walkman carries Star-Lord's longing for home. Even more precious is the unique mixtape carefully recorded by his mother.
+|fame=13
+|art=16
+|fth=17
+|civ=29
+|tech=15
+|ss1=All Rocket Cabin production +0.5%<br>Per 100k Relic Points gained, Snail HP +10<br>Relic Points: 5000000/5000000
+|ss2=All Rocket Cabin production +1%<br>Per 100k Relic Points gained, Snail HP +20<br>Relic Points: 5000000/5000000
+|ss3=All Rocket Cabin production +1.5%<br>Per 100k Relic Points gained, Snail HP +30<br>Relic Points: 5000000/5000000
+|ss4=All Rocket Cabin production +1.5%<br>Per 100k Relic Points gained, Snail HP +30<br>Relic Points: 5000000/5000000
+|ss7=All Rocket Cabin production +1.5%<br>Per 100k Relic Points gained, Snail HP +30<br>Relic Points: 5000000/5000000<br> (Awakened)
+}}

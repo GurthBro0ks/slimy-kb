@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Time Adjuster
+|class_id=20318
+|rank=Green
+|affct=TECH
+|source=
+|description=This clock is magical; if you manually move the hands up or down, it changes the time accordingly! According to expert opinion, the hands of the clock seem to cause quantum fluctuations that will affect time. For those wanting that extra second, this is a godsend!
+|fame=17
+|art=18
+|fth=12
+|civ=14
+|tech=29
+|ss1=Per 5 Sign-Ins, Snail ATK +1<br>Sign-Ins: 100/100
+|ss2=Per 5 Sign-Ins, Snail ATK +2<br>Sign-Ins: 100/100
+|ss3=Per 5 Sign-Ins, Snail ATK +3<br>Sign-Ins: 100/100
+|ss4=Per 5 Sign-Ins, Snail ATK +3<br>Sign-Ins: 100/100
+|ss7=Per 5 Sign-Ins, Snail ATK +3<br>Sign-Ins: 100/100<br> (Awakened)
+}}

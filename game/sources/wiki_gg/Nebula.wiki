@@ -1,0 +1,556 @@
+{{Missing Info|specifics=Delta Galaxy rewards, costs and requirements}}
+
+== Nebula Dashboard ==
+[[File:Nebula.jpg|150px|left]]
+Unlocked after [[Koryeon Domain]] is 100% with {{RewardIconWithText|Nebula Detector}}. It costs 7 {{RewardIconWithText|Beast Moon}}. Red Button is an Easter Egg.<br>
+Uses {{RewardIconWithText|Singularity Crystal|orange}} to unlock and upgrade stars at the bonus levels.<br>
+Uses {{RewardIconWithText|Quantum Gel}} to upgrade stars at all other levels.
+
+This is also where you can find the [[Quantum Amp]] and [[Interstellar Travel]] with {{RewardIconWithLink|Drone}}.
+
+{{clear}}
+
+== Alpha Galaxy ==
+<!--
+<tabber>
+
+|-|Sagitta=
+* Unlocked from start.
+{| class="wikitable"
+!Level!!Benefits!!Cost
+|-
+|0||Each round, Snail HP +300||1 {{RewardIconWithText|Singularity Crystal}}
+|-
+|30||Lifesteal Rate +6%||2 {{RewardIconWithText|Singularity Crystal}}
+|-
+|60||Lifesteal Effect +30%||3 {{RewardIconWithText|Singularity Crystal}}
+|}
+
+|-|Aquarius=
+* Unlocked from start.
+{| class="wikitable"
+!Level!!Benefits!!Cost
+|-
+|0||Bionic Part stat bonus +3%||1 {{RewardIconWithText|Singularity Crystal}}
+|-
+|30||CRIT +3%||2 {{RewardIconWithText|Singularity Crystal}}
+|-
+|60||Crit DMG +6%||3 {{RewardIconWithText|Singularity Crystal}}
+|}
+
+|-|Pictor=
+* Defeat Thundos to unlock.
+{| class="wikitable"
+!Level!!Benefits!!Cost
+|-
+|0||All Wonder Fungi Stat buff cap +5%||1 {{RewardIconWithText|Singularity Crystal}}
+|-
+|30||All Wonder Fungi Stat buff cap +5%||2 {{RewardIconWithText|Singularity Crystal}}
+|-
+|60||Wonder Fungus daily intake cap +1||3 {{RewardIconWithText|Singularity Crystal}}
+|}
+== Beta Galaxy ==
+* Unlocked at Lv 90.
+* Max out Constellations to activate Core! (Snail HARD Stats +4%)
+|-|Corona Australis=
+{| class="wikitable"
+!Level!!Benefits!!Cost
+|-
+|0||All Wonder Fungi Stat buff cap +5%||1 {{RewardIconWithText|Singularity Crystal}}
+|-
+|30||All Wonder Fungi Stat buff cap +5%||2 {{RewardIconWithText|Singularity Crystal}}
+|-
+|60||Wonder Fungus daily intake cap +1||3 {{RewardIconWithText|Singularity Crystal}}
+|}
+
+</tabber>
+
+-->
+=== Sagitta ===
+'''Observation Requirements'''
+* Unlocked from start.
+
+{| class="wikitable"
+|+ Sagitta Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|0||Bionic Part stat bonus +3%||1 {{RewardIconWithText|Singularity Crystal}}
+|-
+|30||CRIT +3%||2 {{RewardIconWithText|Singularity Crystal}}
+|-
+|60||Crit DMG +6%||3 {{RewardIconWithText|Singularity Crystal}}
+|}
+
+=== Aquarius ===
+'''Observation Requirements'''
+* Unlocked from start.
+
+{| class="wikitable"
+|+ Aquarius Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|0||Each round, Snail HP +300||1 {{RewardIconWithText|Singularity Crystal}}
+|-
+|30||Lifesteal Rate +6%||2 {{RewardIconWithText|Singularity Crystal}}
+|-
+|60||Lifesteal Effect +30%||3 {{RewardIconWithText|Singularity Crystal}}
+|}
+
+=== Pictor ===
+'''Observation Requirements'''
+* Defeat Thundos to unlock.
+
+{| class="wikitable"
+|+ Pictor Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|0||All Wonder Fungi Stat buff cap +5%||1 {{RewardIconWithText|Singularity Crystal}}
+|-
+|30||All Wonder Fungi Stat buff cap +5%||2 {{RewardIconWithText|Singularity Crystal}}
+|-
+|60||Wonder Fungus daily intake cap +1||3 {{RewardIconWithText|Singularity Crystal}}
+|}
+
+=== Core ===
+Max out Constellations to activate Core! (Snail HARD Stats +2%)
+
+'''Observation Requirements'''
+* ?
+
+{| class="wikitable"
+|+ Core Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|?||?||?
+|}
+
+==Beta Galaxy==
+Unlocked at Lv. 90.<br>Max out Constellations to activate Core! (Snail HARD Stats +4%)
+===Corona Australis===
+*Lv. 0: Fire RES +240 (1 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: Fire DMG +240 (3 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: Water RES +240 (5 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: Water DMG +240 (7 {{RewardIconWithText|Singularity Crystal}})
+===Corona Borealis===
+*Lv. 0: Earth RES +240 (1 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: Earth DMG +240 (3 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: Wind RES +240 (5 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: Wind DMG +240 (7 {{RewardIconWithText|Singularity Crystal}})
+===Auriga===
+Reach Leadership 180 to unlock.
+*Lv. 0: All Minion HP +1.6% (1 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: All Minion DEF +1.6% (3 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: All Minion RUSH +1.6% (5 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: All Minion ATK +1.6% (7 {{RewardIconWithText|Singularity Crystal}})
+===Vela===
+Upgrade Cloning Tank to Lv. 60 and Participate in the Species War 5 times to unlock.
+*Lv. 0: In Species War, All Minion HP +2% (1 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: In Species War, All Minion DEF +2% (3 {{RewardIconWithText|Singularity Crystal}}) 
+*Lv. 60: In Species War, All Minion RUSH +2% (5 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: In Species War, All Minion ATK +2% (7 {{RewardIconWithText|Singularity Crystal}})
+===Dorado===
+Total AFFCT reaches 100k to unlock.
+*Lv. 0: If you spot a weakness, Snail HP +4800 (1 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: If you spot a weakness, Snail DEF +480 (3 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: If you spot a weakness, Snail RUSH +480 (5 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: If you spot a weakness, Snail ATK +480 (7 {{RewardIconWithText|Singularity Crystal}})
+===Microscopium===
+Awaken 3 Orange Relics and Dragon Form reaches T6 to unlock.
+*Lv. 0: Gene Research Free Speedup +24m (1 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: For all Gene Research, B-tad Cost -3.2% (3 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: Gene Research Free Speedup +24m (5 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: All Gene Research SPD +1.6% (7 {{RewardIconWithText|Singularity Crystal}})
+
+==Gamma Galaxy==
+Unlocked at Lv. 450<br>Max out Constellations to activate Core! (Snail HARD Stats +6%)
+===Carina===
+Rocket Cabin Tech reaches 60K, Upgrade {{RewardIconWithLink|Unispark|orange}} to 6 Stars, and Upgrade {{RewardIconWithLink|Wilford's Engine|orange}} to 4 Stars to unlock.
+*Lv. 0: Demon God cabin Output +10% (2 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: Rebel Cabin Output +10% (4 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: Gaia Cabin Output +10% (6 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: Species War Cabin Output +10% (8 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 120: Domain Cabin Output +10% (10 {{RewardIconWithText|Singularity Crystal}})
+
+===Hydra===
+Total Avatar Score reaches 15k, Upgrade {{RewardIconWithLink|Trojan Horse|orange}} to 6 Stars, and Upgrade {{RewardIconWithLink|Terracotta Warrior|orange}} to 4 Stars to unlock.
+*Lv. 0: Per 100 Minions in battle, Troop Fire DMG +50 (2 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: Per 100 Minions in battle, Troop Water DMG +50 (4 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: Per 100 Minions in battle, Troop Earth DMG +50 (6 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: Per 100 Minions in battle, Troop Wind DMG +50 (8 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 120: Snail Leadership +5 (10 {{RewardIconWithText|Singularity Crystal}})
+
+===Corvus===
+*Lv. 0: HIT +5% (2 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: Against Daily Hitmen, DMG +6% (4 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: Snail AFFCT +100 (6 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: Against Daily Hitmen, DMG +6% (8 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 120: Bionic Part stat bonus +5% (10 {{RewardIconWithText|Singularity Crystal}})
+
+===Orion===
+Upgrade Cloning Tank to Lv. 70, Participate in 10 Species Wars, and General Species Map reaches 50 points to unlock.
+*Lv. 0: In Species War, All Minion HP +2.5% (2 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: In Species War, All Minion DEF +2.5% (4 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: In Species War, All Minion RUSH +2.5% (6 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: In Species War, All Minion ATK +2.5% (8 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 120: Snail Leadership +5 (10 {{RewardIconWithText|Singularity Crystal}})
+
+===Grus===
+*Lv. 0: Fire DMG +300 (2 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: Water DMG +300 (4 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: Earth DMG +300 (6 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: Wing DMG +300 (8 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 120: All ELMT DMG +2% (10 {{RewardIconWithText|Singularity Crystal}})
+
+===Lupus===
+*Lv. 0: HIT +5% (2 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: In Gene Simulations, DMG +6% (4 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: Snail AFFCT +100 (6 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: In Gene Simulations, DMG +6% (8 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 120: All Compasses effect +50% (10 {{RewardIconWithText|Singularity Crystal}})
+
+===Canes Venatici===
+Total AFFCT reaches 120k, Awaken 5 Orange Relics, and Overall Power reaches 20,000,000 to unlock.
+*Lv. 0: If you spot a weakness, Snail HP +6,000 (2 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: If you spot a weakness, Snail DEF +600 (4 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: If you spot a weakness, Snail RUSH +600 (6 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: If you spot a weakness, Snail ATK +600 (10 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 120: If you spot a weakness, DMG +3% (10 {{RewardIconWithText|Singularity Crystal}})
+
+===Lepus===
+Own 5 S+ rating museums, Museum promotion reaches 30 times, and {{RewardIconWithLink|Somersault Cloud|orange}} reaches 6 Stars to unlock.
+*Lv. 0: Rift Museum B-tad output +2,500 (2 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: All Museum Promo effect +5% (24{{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: Rift Museum B-tad output +2,500 (6 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: All Museum Promo effect +5% (8 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 120: Rift Museum medal output +40 (10 {{RewardIconWithText|Singularity Crystal}})
+
+===No. 8 Nebula===
+Leadership reaches 200, Own 150 T6 and above minions, and Reach F500 in Minion Sims to unlock.
+*Lv. 0: All Minion HP +2% (2 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: All Minion DEF +2% (4 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: All Minion RUSH +2% (6 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: All Minion ATK +2% (8 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 120: Snail Leadership +5 (10 {{RewardIconWithText|Singularity Crystal}})
+
+===Lyra===
+Unlock 18 partners, Activate 5 minion skins, and Activate 2 orange minion skins to unlock.
+*Lv. 0: All minion skins HP +40% (2 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 30: All minion skins DEF +40% (4 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 60: All minion skins RUSH +40% (6 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 90: All minion skins ATK +40% (8 {{RewardIconWithText|Singularity Crystal}})
+*Lv. 120: Snail Leadership +5 (10 {{RewardIconWithText|Singularity Crystal}})
+
+==Delta Galaxy==
+Unlocked at Lv. 1,440
+
+===Chareaeleon===
+
+'''Observation Requirements'''
+
+* Own 200 T8 and above minions
+* Activate 4 orange minion skins
+* Max out 17 Constellations
+
+{| class="wikitable"
+|+ Chareaeleon Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|| 0 || All Minion HP +2.4% || 3 {{RewardIconWithText|Singularity Crystal}}
+|-
+|| 30 || All Minion DEF +2.4% || 
+|-
+|| 60 || All Minion RUSH +2.4% || 
+|-
+|| 90 || All Minion ATK +2.4% || 
+|-
+|| 120 || Minion MAX +10 ||
+|-
+|| 150 || Snail/Bird Leadership +12 || 
+|}
+
+===Scutum===
+
+'''Observation Requirements'''
+
+* Snail Glory reaches 100K
+* Snail Territory Prosperity reaches 25K
+* Max out 14 Constellations
+
+{| class="wikitable"
+|+ Scutum Nebula Levels
+|-
+! Level !! Benefits !! Cost 
+|-
+|| 0 || For Forest Sanctum Priest, Guard Extra DMG +12% || 3 {{RewardIconWithText|Singularity Crystal}}
+|-
+|| 30 || For Frost Sanctum Priest, Guard Extra DMG +12% ||
+|-
+|| 60 || For Desert Sanctum Priest, Guard Extra DMG +12% || 
+|-
+|| 90 || For Swamp Sanctum Priest, Guard Extra DMG +12% || 
+|-
+|| 120 || For Prairie Sanctum Priest, Guard Extra DMG +12% || 
+|-
+|| 150 || For all Sanctum Priest, Guard Extra DMG +6% || 
+|}
+
+===Equuleus===
+
+'''Observation Requirements'''
+
+* Snail Glory reaches 120K
+* Snail Territory Prosperity reaches 32K
+* Max out 15 Constellations
+
+{| class="wikitable"
+|+ Equuleus Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|| 0 || For Forest Sanctum Priest, Scout Extra DMG +12% || 3 {{RewardIconWithText|Singularity Crystal}}
+|-
+|| 30 || For Frost Sanctum Priest, Scout Extra DMG +12% ||
+|-
+|| 60 || For Desert Sanctum Priest, Scout Extra DMG +12% ||
+|-
+|| 90 || For Swamp Sanctum Priest, Scout Extra DMG +12% ||
+|-
+|| 120 || For Prairie Sanctum Priest, Scout Extra DMG +12% ||
+|-
+|| 150 || For all Sanctum Priest, Scout Extra DMG +6% ||
+|}
+
+===Circinus===
+
+'''Observation Requirements'''
+
+* Unlock Lottery Machine No.3
+* DNA Strength reaches 750K
+* Max out 15 Constellations
+
+{| class="wikitable"
+|+ Circinus Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|| 0 || Zombie Gene Research SPD +6% || 3 {{RewardIconWithText|Singularity Crystal}}
+|-
+|| 30 || Demon Gene Research SPD +6% || 
+|-
+|| 60 || Angel Gene Research SPD +6% || 
+|-
+|| 90 || Mutant Gene Research SPD +6% || 
+|-
+|| 120 || Mecha Gene Research SPD +6% || 
+|-
+|| 150 || Dragon Gene Research SPD +6% || 
+|}
+
+===Norma===
+
+'''Observation Requirements'''
+
+* Upgrade Cloning Tank to Lv. 90
+* Leadership reaches 900
+* Max out 16 Constellations
+
+{| class="wikitable"
+|+ Norma Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|| 0 || Zombie Minion Cloning SPD +6% || 3 {{RewardIconWithText|Singularity Crystal}}
+|-
+|| 30 || Demon Minion Cloning SPD +6% || 
+|-
+|| 60 || Angel Minion Cloning SPD +6% || 
+|-
+|| 90 || Mutant Minion Cloning SPD +6% || 
+|-
+|| 120 || Mecha Minion Cloning SPD +6% || 
+|-
+|| 150 || Dragon Minion Cloning SPD +6% || 
+|}
+
+===Reticuli===
+
+'''Observation Requirements'''
+
+* Rocket Cabin Tech reaches 320K
+* Defeat Minerva ([[Hellenic Domain]])
+* Max out 18 Constellations
+
+{| class="wikitable"
+|+ Reticuli Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|| 0 || Wormhole Device gain +1 White Material by +2.4% || 3 {{RewardIconWithText|Singularity Crystal}}
+|-
+|| 30 || Wormhole Refinement gain +1 Green Material by +2.4% || 
+|-
+|| 60 || Wormhole Refinement gain +1 Blue Material by +2.4% || 
+|-
+|| 90 || Wormhole Refinement gain +1 Purple Material by +2.4% || 
+|-
+|| 120 || Wormhole Refinement gain +1 Orange Material by +2.4% || 
+|-
+|| 150 || Wormhole Refinement SPD +2.4% || 
+|}
+
+===Volans===
+
+'''Observation Requirements'''
+
+* Traveler Map reaches 200 points
+* Defeat Rebel Coalition No.200
+* Max out 18 Constellations
+
+{| class="wikitable"
+|+ Volans Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|| 0 || Snail/Bird HARD Stats +1.2% || 3 {{RewardIconWithText|Singularity Crystal}}
+|-
+|| 30 || Luck Egg hatching rate +24% || 
+|-
+|| 60 || Wishing Egg hatching rate +24% || 
+|-
+|| 90 || Exploration Egg hatching rate +24% || 
+|-
+|| 120 || Offering Egg hatching rate +24% || 
+|-
+|| 150 || Egg hatching rate +4.8% || 
+|}
+
+===Mensa===
+
+'''Observation Requirements'''
+
+* Snail Glory reaches 300K
+* Godhood reaches T4
+* Max out 20 Constellations
+
+{| class="wikitable"
+|+ Mensa Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|| 0 || Forest Sanctum, Divine Crystal Output +24% || 3 {{RewardIconWithText|Singularity Crystal}}
+|-
+|| 30 || Frost Sanctum, Divine Crystal Output +24% || 
+|-
+|| 60 || Desert Sanctum, Divine Crystal Output +24% || 
+|-
+|| 90 || Swamp Sanctum, Divine Crystal Output +24% || 
+|-
+|| 120 || Prairie Sanctum, Divine Crystal Output +24% || 
+|-
+|| 150 || All Sanctum Divine Crystal Output +12% || 
+|}
+
+===Musca===
+
+'''Observation Requirements'''
+
+* Participated in 50 Species Wars
+* General Species Map reaches 400 points
+* Max out 14 Constellations
+
+{| class="wikitable"
+|+ Musca Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|| 0 || Against Beetles, Troop DMG towards heroes +6% || 3 {{RewardIconWithText|Singularity Crystal}}
+|-
+|| 30 || Against Goldfishes, Troop DMG towards heroes +6% || 
+|-
+|| 60 || Against Surf Clams, Troop DMG towards heroes +6% || 
+|-
+|| 90 || Against Hamsters, Troop DMG towards heroes +6% || 
+|-
+|| 120 || Against Mantis, Troop DMG towards heroes +6% || 
+|-
+|| 150 || In Species War, Troop hero DMG +3.6% || 
+|}
+
+===Triangulum===
+
+'''Observation Requirements'''
+
+* ''None?''
+
+{| class="wikitable"
+|+ Triangulum Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|| 0 || Fire DMG +360 || 3 {{RewardIconWithText|Singularity Crystal}}
+|-
+|| 30 || Water DMG +360 || 
+|-
+|| 60 || Earth DMG +360 ||
+|-
+|| 90 || Wind DMG +360 || 
+|-
+|| 120 || All ELMT RES +144 || 
+|-
+|| 150 || All ELMT DMG +144 || 
+|}
+
+===Triangulum Austale===
+
+'''Observation Requirements'''
+
+* ''None?''
+
+{| class="wikitable"
+|+ Triangulum Austale Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|| 0 || Ignore Fire RES +360 || 3 {{RewardIconWithText|Singularity Crystal}}
+|-
+|| 30 || Ignore Water RES +360 || 
+|-
+|| 60 || Ignore Earth RES +360 || 
+|-
+|| 90 || Ignore Wind RES +360 || 
+|-
+|| 120 || Ignore All RES +144 || 
+|-
+|| 150 || Ignore All enemy RES +2.4% || 
+|}
+
+===Caelum Major===
+
+'''Observation Requirements'''
+
+* ''None?''
+
+{| class="wikitable"
+|+ Caelum Major Nebula Levels
+|-
+! Level !! Benefits !! Cost
+|-
+|| 0 || For FAME Bionic Parts, Four Element RES +20% || 3 {{RewardIconWithText|Singularity Crystal}}
+|-
+|| 30 || For ART Bionic Parts, Four Element RES +20% || 
+|-
+|| 60 || For FTH Bionic Parts, Four Element RES +20% || 
+|-
+|| 90 || For CIV Bionic Parts, Four Element RES +20% || 
+|-
+|| 120 || For TECH Bionic Parts, Four Element RES +20% || 
+|-
+|| 150 || For All Bionic Parts, Four Element RES +10% || 
+|}
+
+[[Category:Nebula]]

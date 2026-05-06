@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=168
+|relics=Nibelungenlied,Phoenix Feather
+|rank=orange
+|amount=2
+|category=self
+|description=Per Realm conquered, Snail RUSH +70;Realms Conquered: 8/8
+}}

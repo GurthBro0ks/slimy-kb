@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Antigone
+|class_id=22641
+|rank=S
+|affct=ART
+|birthday=12-30
+|source=Lottery Machine No.3 (1.62%)
+|description=On Dec 30, 442 BC, Sophocles created this famous tragedy.<br>Antigone is a famous tragedy from ancient Greece, written by Sophocles, one of the three great tragedians of Athens. The play describes Antigone, the daughter of Oedipus, who defies the king's orders and buries her rebellious brother, for which she is sentenced to death. The play also portrays the tragic fate of the king, who ends up losing his wife and children. The play explores the conflict between natural law and state law, with high artistic and intellectual value, and is considered one of the greatest works in the history of drama.
+|fame=48
+|art=99
+|fth=60
+|civ=69
+|tech=56
+|ss1=Unicorn Express Supply Order Cap +10<br>Per 3 Desert Protomon, Snail ATK +2<br>Per 3 Desert Protomon, Priest-Snail Assistance DMG +16<br>Desert Protomon: 60/60
+|ss2=Unicorn Express Supply Order Cap +20<br>Per 3 Desert Protomon, Snail ATK +4<br>Per 3 Desert Protomon, Priest-Snail Assistance DMG +32<br>Desert Protomon: 60/60
+|ss3=Unicorn Express Supply Order Cap +30<br>Per 3 Desert Protomon, Snail ATK +6<br>Per 3 Desert Protomon, Priest-Snail Assistance DMG +48<br>Desert Protomon: 60/60
+|ss4=Unicorn Express Supply Order Cap +50<br>Per 3 Desert Protomon, Snail ATK +10<br>Per 3 Desert Protomon, Priest-Snail Assistance DMG +80<br>Desert Protomon: 60/60
+|ss5=Unicorn Express Supply Order Cap +70<br>Per 3 Desert Protomon, Snail ATK +14<br>Per 3 Desert Protomon, Priest-Snail Assistance DMG +112<br>Desert Protomon: 60/60
+|ss6=Unicorn Express Supply Order Cap +100<br>Per 3 Desert Protomon, Snail ATK +20<br>Per 3 Desert Protomon, Priest-Snail Assistance DMG +160<br>Desert Protomon: 60/60
+|ss7=Unicorn Express Supply Order Cap +100<br>Per 3 Desert Protomon, Snail ATK +20<br>Per 3 Desert Protomon, Priest-Snail Assistance DMG +160<br>Desert Protomon: 60/60<br>Unicorn Express Supply Order Cap +100 (Awakened)
+|skill1=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Travel Speedup Output +30%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's ART +15
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP Regen +1200
+|mirage={{Mirage|name=Tragic Saga|reward={{RewardIconWithLink|Master Scroll, +40|orange}}
+|3name=Creon|3rec=106.45M|3atk=306827|3defense=193664|3hp=16087902|3weak=35157
+|4name=Antigone|4rec=142.36M|4atk=390835|4defense=244192|4hp=23598600|4weak=38399
+|Arec=202.40M|Aatk=534433|Adefense=328659|Ahp=40511880|Aweak=43823
+}}}}

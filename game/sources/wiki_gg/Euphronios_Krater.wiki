@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Euphronios Krater
+|class_id=22890
+|rank=SSS
+|affct=CIV
+|source=
+|description=This is the only intact krater out of the 27 painted by Euphronios. It depicts a scene from the Trojan War: the hero Sarpedon lies on the ground as the gods of Sleep and Death carry away his body, while his father Zeus watches from the heavens with sorrow. It is a work filled with both tragedy and beauty, capturing the allure of ancient Greek culture.
+|fame=73
+|art=69
+|fth=58
+|civ=106
+|tech=56
+|ss1=All Sanctum Glorium Output +1.2%<br>Per 5 Mythic Protodex Stars, Snail DEF +9<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +72<br>Mythic Protodex Stars: 100/100
+|ss2=All Sanctum Glorium Output +1.6%<br>Per 5 Mythic Protodex Stars, Snail DEF +12<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +96<br>Mythic Protodex Stars: 100/100
+|ss3=All Sanctum Glorium Output +2%<br>Per 5 Mythic Protodex Stars, Snail DEF +15<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +120<br>Mythic Protodex Stars: 100/100
+|ss4=All Sanctum Glorium Output +2.8%<br>Per 5 Mythic Protodex Stars, Snail DEF +21<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +168<br>Mythic Protodex Stars: 100/100
+|ss5=All Sanctum Glorium Output +3.6%<br>Per 5 Mythic Protodex Stars, Snail DEF +27<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +216<br>Mythic Protodex Stars: 100/100
+|ss6=All Sanctum Glorium Output +4.8%<br>Per 5 Mythic Protodex Stars, Snail DEF +36<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +288<br>Mythic Protodex Stars: 100/100
+|ss7=All Sanctum Glorium Output +4.8%<br>Per 5 Mythic Protodex Stars, Snail DEF +36<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +288<br>Mythic Protodex Stars: 100/100<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +30%
+|skill2=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Cap +30%
+|skill3=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: This Relic's CIV +15
+|mirage={{Mirage|name=A Hero's Fall|reward={{RewardIconWithLink|Lucky Coin, +3|orange}}
+|3name=Sarpedon|3rec=231.10M|3atk=647572|3defense=369037|3hp=87277167|3weak=63300
+|4name=God of Sleep|4rec=295.12M|4atk=753860|4defense=428068|4hp=126825923|4weak=68011
+|5name=God of Death|5rec=396.92M|5atk=918000|5defense=519651|5hp=224828740|5weak=74504
+|6name=The Sky Father|6rec=523.46M|6atk=1133942|6defense=633493|6hp=411336583|6weak=81900
+|Arec=689.63M|Aatk=1546512|Adefense=789131|Ahp=662519685|Aweak=89950
+}}}}

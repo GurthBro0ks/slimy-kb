@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Bronze Head from Ife
+|class_id=22568
+|rank=A
+|affct=CIV
+|birthday=01-04
+|source=Lottery Machine No.3 (0.55%)
+|description=On Jan 4, 1268 AD, the Bronze Head from Ife was cast.<br>This uniquely shaped head comes from the Ife Kingdom in the 13th century and was made using a technique called lost wax casting. Its facial features are exquisitely realistic, and the shape is very distinctive, with a large number of African black carving-specific strip patterns on the face, showing considerable artistic expression, marking the peak of Nigerian art at that time.
+|fame=44
+|art=40
+|fth=33
+|civ=65
+|tech=31
+|ss1=Protomon Snail assist DMG + 80<br>Per 2 fully unlocked Tactical Logs, Snail DEF +1<br>Tactical Logs unlocked: 100/100
+|ss2=Protomon Snail assist DMG + 160<br>Per 2 fully unlocked Tactical Logs, Snail DEF +2<br>Tactical Logs unlocked: 100/100
+|ss3=Protomon Snail assist DMG + 240<br>Per 2 fully unlocked Tactical Logs, Snail DEF +3<br>Tactical Logs unlocked: 100/100
+|ss4=Protomon Snail assist DMG + 400<br>Per 2 fully unlocked Tactical Logs, Snail DEF +5<br>Tactical Logs unlocked: 100/100
+|ss5=Protomon Snail assist DMG + 560<br>Per 2 fully unlocked Tactical Logs, Snail DEF +7<br>Tactical Logs unlocked: 100/100
+|ss7=Protomon Snail assist DMG + 560<br>Per 2 fully unlocked Tactical Logs, Snail DEF +7<br>Tactical Logs unlocked: 100/100<br>Protomon Snail assist DMG + 560 (Awakened)
+|skill1=[[File:Lumbercamp skill II.png|50px]]Place in Lumber Camp: Wood Output +15%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's CIV +10
+}}

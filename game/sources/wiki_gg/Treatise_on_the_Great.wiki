@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Treatise on the Great
+|class_id=22688
+|rank=SSS
+|affct=FAITH
+|birthday=11-11
+|source=
+|description=On Nov 11, 401 AD, Kumarajiva arrived in Chang'an after a long journey and began to focus on translating Mahayana Buddhist classics such as the Treatise on the Great.<br>It is a Buddhist classic written by the great monk Nagarjuna and translated by Kumarajiva. The translation consists of as many as 100 volumes, which quote extensively from original Buddhist scriptures and provide detailed explanations of Buddhist concepts, ideas, and history. It can be regarded as a Buddhist encyclopedia and has had a huge influence on later generations.
+|fame=58
+|art=77
+|fth=106
+|civ=54
+|tech=67
+|ss1=Dragon Minion HP +3%<br>All minion skins DEF +10%<br>Per 50 Minions cloned, Snail ATK +6<br>Minions Cloned: 2000/2000
+|ss2=Dragon Minion HP +4%<br>All minion skins DEF +20%<br>Per 50 Minions cloned, Snail ATK +8<br>Minions Cloned: 2000/2000
+|ss3=Dragon Minion HP +5%<br>All minion skins DEF +30%<br>Per 50 Minions cloned, Snail ATK +10<br>Minions Cloned: 2000/2000
+|ss4=Dragon Minion HP +7%<br>All minion skins DEF +50%<br>Per 50 Minions cloned, Snail ATK +14<br>Minions Cloned: 2000/2000
+|ss5=Dragon Minion HP +9%<br>All minion skins DEF +70%<br>Per 50 Minions cloned, Snail ATK +18<br>Minions Cloned: 2000/2000
+|ss6=Dragon Minion HP +12%<br>All minion skins DEF +100%<br>Per 50 Minions cloned, Snail ATK +24<br>Minions Cloned: 2000/2000
+|ss7=Dragon Minion HP +12%<br>All minion skins DEF +100%<br>Per 50 Minions cloned, Snail ATK +24<br>Minions Cloned: 2000/2000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +30%
+|skill2=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Cap +30%
+|skill3=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: This Relic's FTH +15
+|mirage={{Mirage|name=Wisdom Legacy|reward={{RewardIconWithLink|Eye of Horus, +1|orange}}
+|3name=Master Huineng|3rec=97.15M|3atk=308481|3defense=180583|3hp=25027301|3weak=39134
+|4name=Bodhidharma|4rec=108.61M|4atk=333790|4defense=196706|4hp=30086850|4weak=41607
+|5name=Monk Kumarajiva|5rec=122.60M|5atk=364093|5defense=216382|5hp=38925521|5weak=44912
+|6name=Nagarjuna Bodhisattva|6rec=140.36M|6atk=403229|6defense=241366|6hp=52923682|6weak=48528
+|Arec=163.90M|Aatk=455961|Adefense=274489|Ahp=76448852|Aweak=52606
+}}}}

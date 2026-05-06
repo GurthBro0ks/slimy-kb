@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Five Oxen
+|class_id=22265
+|rank=SSS
+|affct=ART
+|birthday=02-23
+|source=Lottery Machine No.2 (0.11%)
+|description=On Feb 23, 768 AD, Han Huang painted the Five Oxen.<br>Five Oxen is 139.8 cm long and 20.8 cm wide. The painting, as the name suggests, is of five oxen without any background. The oxen are positioned in a line, each with a distinctive appearance, walking or standing, holding their heads high or low. The oxen have bright, piercing eyes and different temperaments: lively, docile, romping and even eccentric. Han Huang was renowned for painting people and animals with detailed facial expressions. He was especially distinguished at painting agricultural life and livestock, including oxen and goats. The Five Oxen is housed in the Palace Museum.
+|fame=55
+|art=106
+|fth=67
+|civ=71
+|tech=63
+|ss1=Snail ATK +30<br>Per 10 Orange Orbs drawn, Snail HP +30<br>Per 10 Orange Orbs drawn, Snail ATK +3<br>Orange Orbs Drawn: 500/500
+|ss2=Snail ATK +40<br>Per 10 Orange Orbs drawn, Snail HP +40<br>Per 10 Orange Orbs drawn, Snail ATK +4<br>Orange Orbs Drawn: 500/500
+|ss3=Snail ATK +50<br>Per 10 Orange Orbs drawn, Snail HP +50<br>Per 10 Orange Orbs drawn, Snail ATK +5<br>Orange Orbs Drawn: 500/500
+|ss4=Snail ATK +70<br>Per 10 Orange Orbs drawn, Snail HP +70<br>Per 10 Orange Orbs drawn, Snail ATK +7<br>Orange Orbs Drawn: 500/500
+|ss5=Snail ATK +90<br>Per 10 Orange Orbs drawn, Snail HP +90<br>Per 10 Orange Orbs drawn, Snail ATK +9<br>Orange Orbs Drawn: 500/500
+|ss6=Snail ATK +120<br>Per 10 Orange Orbs drawn, Snail HP +120<br>Per 10 Orange Orbs drawn, Snail ATK +12<br>Orange Orbs Drawn: 500/500
+|ss7=Snail ATK +120<br>Per 10 Orange Orbs drawn, Snail HP +120<br>Per 10 Orange Orbs drawn, Snail ATK +12<br>Orange Orbs Drawn: 500/500<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: Medal Output +30
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's ART +15
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x Food Drops +15%
+|mirage={{Mirage|name=Five Oxen Original|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Qinchuan Cattle|3rec=7.25M|3atk=69300|3defense=45700|3hp=1463126|3weak=12613
+|4name=Jiulong Yak|4rec=12.92M|4atk=94583|4defense=62372|4hp=2504030|4weak=15832
+|5name=Jianghan Buffalo|5rec=27.36M|5atk=124948|5defense=82396|5hp=4280187|5weak=18358
+|6name=Prairie Red Ox|6rec=44.03M|6atk=160514|6defense=105850|6hp=6755439|6weak=19717
+|Arec=63.25M|Aatk=201514|Adefense=132887|Ahp=10402267|Aweak=22484
+}}}}

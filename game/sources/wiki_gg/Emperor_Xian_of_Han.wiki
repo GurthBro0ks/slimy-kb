@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Emperor Xian of Han
+|rank=purple
+|cabin=2
+|id=65
+|gene1={race} HP +300
+|gene2={race} ART +30
+|gene3=Per 30 Dragon Minions in battle:
+> Troop HP +80
+|gene4=For Round 1, DMG +1%
+|gene5=Per 30 Dragon Minions in battle:
+> Troop HP +120
+|gene6=For Round 1, DMG +1.5%
+|}}

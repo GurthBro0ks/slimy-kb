@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Adoration of Shepherds
+|class_id=22810
+|rank=SSS
+|affct=ART
+|source=
+|description=It is considered one of the most exquisite paintings of the Birth of Christ during the Renaissance period. The scene depicts the newborn Jesus receiving the worship of shepherds at a dim cave entrance. The soft light symbolizes Christ bringing light to the world, and the Virgin Mary devoutly prays before the Holy Infant. The green of the surrounding forests and hills softens the edges of the rocky mountains. The light golden Venetian tone enhances the pastoral atmosphere in the painting, as its unique artistic atmosphere makes it a distinctive presence from the time it was painted.
+|fame=47
+|art=109
+|fth=70
+|civ=70
+|tech=66
+|ss1=All minion skins DEF +10%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per Realm conquered, Snail RUSH +30<br>Realms Conquered: 8/8
+|ss2=All minion skins DEF +20%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per Realm conquered, Snail RUSH +40<br>Realms Conquered: 8/8
+|ss3=All minion skins DEF +30%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per Realm conquered, Snail RUSH +50<br>Realms Conquered: 8/8
+|ss4=All minion skins DEF +50%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per Realm conquered, Snail RUSH +70<br>Realms Conquered: 8/8
+|ss5=All minion skins DEF +70%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per Realm conquered, Snail RUSH +90<br>Realms Conquered: 8/8
+|ss6=All minion skins DEF +100%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per Realm conquered, Snail RUSH +120<br>Realms Conquered: 8/8
+|ss7=All minion skins DEF +100%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per Realm conquered, Snail RUSH +120<br>Realms Conquered: 8/8<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: This Relic's ART +15
+|skill2=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Cap +30%
+|skill3=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +30%
+|mirage={{Mirage|name=dungeon@22810_1|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Beyblade|3rec=314.47M|3atk=785005|3defense=445477|3hp=142182097|3weak=63802
+|4name=dungeon_event@1399_1|4rec=397.48M|4atk=918946|4defense=520162|4hp=225562922|4weak=69053
+|5name=dungeon_event@1400_1|5rec=520.81M|5atk=1129442|5defense=631112|5hp=407436378|5weak=76214
+|6name=Louis XVI|6rec=690.55M|6atk=1549202|6defense=790124|6hp=664045129|6weak=85104
+|Arec=952.22M|Aatk=2390020|Adefense=1070762|Ahp=1211796049|Aweak=95606
+}}}}

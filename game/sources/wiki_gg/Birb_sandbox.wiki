@@ -1,0 +1,160 @@
+<div class="fp-main" style="gap:0">
+<div style="grid-area:a">
+<div class="fp-header">
+<div id="fp-file" class="nomobile">[[File:Site-logo.png|link=https://supersnail.wiki.gg/wiki/Super_Snail_Wiki]]</div>
+<div id="fp-text">
+<div class="fp-text-header nomobile">Welcome to the official</div>
+<div class="fp-text-header nomobile">''Super Snail'' Wiki</div><!--
+--><span class="mobileonly">Welcome to the official Super Snail Wiki</span> the guide written and maintained by the players.<br />
+Please feel free to contribute by creating new articles or expanding existing ones.<br /><!--
+-->We have [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles (see [[Wiki:Content|content]]) and [[Special:ListFiles|{{NUMBEROFFILES}}]] files.<!--
+--></div>
+</div>
+</div>
+<div class="border-menu" style="grid-area:b">
+<div class="menu-title">About ''Super Snail''</div>
+<div style="text-align: left;">Get ready to embark on an engaging journey in Super Snail, a unique mobile game that wraps adventure and simulation together with the dankest memes. Available on both the Apple App Store and Google Play Store, this innovative title stands out from the crowd and promises an entertaining experience to players of all skill levels. </div>
+
+</div>
+<div class="border-menu" style="grid-area:c">
+<div class="menu-title">Realms 8-----</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:maps icon2.png|link=Areas|90px|center]]</span>
+<div style="text-align:center;">[[Realms]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Koryeo.png|link=Koryeo|75px|center]]</span>
+<div style="text-align:center;">[[Koryeo]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Yamato.png|link=Yamato|75px|center]]</span>
+<div style="text-align:center;">[[Yamato]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Cathay.png|link=Cathay|75px|center]]</span>
+<div style="text-align:center;">[[Cathay]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Murika.png|link=Murika|75px|center]]</span>
+<div style="text-align:center;">[[Murika]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Britland.png|link=Britland|75px|center]]</span>
+<div style="text-align:center;">[[Britland]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Kemet.png|link=Kemet|75px|center]]</span>
+<div style="text-align:center;">[[Kemet]]</div>
+</div>
+</div>
+<div class="border-menu" style="grid-area:d">
+<div class="menu-title">Basic Gameplay</div>
+<div class="menu-button">
+<div style ="float: left; width: 25%;">
+<span style="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Hitman.png|link=Hitmen|90px|center]]</span>
+<div style="text-align:center;">[[Hitmen]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Agamemnon Gear Page.png|link=gear|90px|center]]</span>
+<div style="text-align:center;">[[Gear]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:home base icon.png|link=Home Base|90px|center]]</span>
+<div style="text-align:center;">[[Home Base]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:valuables icon.png|link=Relics|90px|center]]</span>
+<div style="text-align:center;">[[Relics]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:demon god icon.png|link=Altar|90px|center]]</span>
+<div style="text-align:center;">[[Altar]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:partner icon.png|link=Partners|90px|center]]</span>
+<div style="text-align:center;">[[Partners]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:snail code icon.png|link=Snail codes|90px|center]]</span>
+<div style="text-align:center;">[[Snail Codes]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:evolution icon.png|link=Evolution|90px|center]]</span>
+<div style="text-align:center;">[[Evolution]]</div>
+</div>
+</div>
+</div>
+<div class="border-menu" style="grid-area:e">
+<div class="menu-title">Guides</div>
+<div class="menu-button">
+
+<div style ="float: right; width: 100%;">
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Incense icon.png|link=Incense|90px|center]]</span>
+<div style="text-align:center;">[[Incense]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:fugitive.png|link=Fugitives|90px|center]]</span>
+<div style="text-align:center;">[[Fugitives]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Fissure icon.png|link=Fissure|90px|center]]</span>
+<div style="text-align:center;">[[Fissure]]</div>
+</div>
+
+</div>
+
+<div style ="float: right; width: 100%;">
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Mailbox icon.png|link=Mailbox|90px|center]]</span>
+<div style="text-align:center;">[[Mailbox]]</div>
+</div>
+
+<div style ="float: left; width: 25%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Museum icon.png|link=Museum|90px|center]]</span>
+<div style="text-align:center;">[[Museum]]</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class="border-menu" style="grid-area:f">
+<div class="menu-title">Official links</div>
+<div class="menu-button plainlinks">
+[[File:Reddit Logo.png|50px|link=https://www.reddit.com/r/SuperSnail_US/]]
+[[File:Discord Logo.png|50px|link=https://discord.gg/qz67feyaZe]]
+[[File:Facebook Logo v2.png|50px|link=https://www.facebook.com/SuperSnailOfficial/]]
+[[File:Twitter Logo.png|50px|link=https://twitter.com/intent/user?screen_name=SuperSnailUS]]
+[[File:YouTube Logo.png|50px|link=https://www.youtube.com/channel/UCN65iFN6YybAViao41Rwo0w/?_subconfirmation=1]]
+</div>
+</div>
+<div class="border-menu" style="grid-area:g">
+<div class="menu-title">Discord</div>
+<div class="discordbutton">https://discord.gg/supersnail</div>
+</div>
+<div class="border-menu" style="grid-area:h">
+<div class="menu-title">Newbie Guide</div>
+[[File:Intro to key gameplay poster.png|frameless|auto|center|link=Newbie Guide]][[Newbie Guide]]
+<center>New to the Snailverse? 
+Take a look at our [[Newbie Guide|'''<u>Newbie Guide</u>''']]!
+</center>
+</div>
+</div>__NOTOC__ __NOEDITSECTION__ __NOTITLE__

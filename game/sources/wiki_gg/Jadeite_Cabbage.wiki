@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Jadeite Cabbage
+|class_id=22543
+|rank=AAA
+|affct=ART
+|birthday=01-17
+|source=
+|description=On Jan 17, 1889 AD, the Jadeite Cabbage was presented to the Qing court.<br>Legend has it that this jade carving was part of the dowry of Imperial Noble Consort Wenjing. Its lifelike shape resembles a real Chinese cabbage, and the two insects resting on the cabbage leaves are also intricately carved in a realistic way, and the details are very exquisite. As the subject is quite down-to-earth, it is widely loved by the public and became the number one star of the Taipei Palace Museum collection.
+|fame=36
+|art=73
+|fth=45
+|civ=46
+|tech=43
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop RUSH +12<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +24<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop RUSH +16<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +32<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop RUSH +20<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +40<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop RUSH +28<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +56<br>Consumed Recruit Tokens: 5000/5000
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop RUSH +36<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +72<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop RUSH +36<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +72<br>Consumed Recruit Tokens: 5000/5000<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +28 (Awakened)
+|skill1=[[File:Cathay skill II.png|50px]]Place in Cathay Museum: In Cathay, 2x Blue Reagent Drops +7.5%
+|skill2=[[File:Cathay skill II.png|50px]]Place in Cathay Museum: In Cathay, 2x Purple Reagent Drops +7.5%
+}}

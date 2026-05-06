@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Front Running
+|class_id=20449
+|rank=Green
+|affct=FAME
+|source=
+|description=An illegal operation where fund managers use their own funds to buy stocks at low prices, then use investors' money to increase the stock's value, and finally sell their own stocks for a profit.
+|fame=31
+|art=12
+|fth=18
+|civ=16
+|tech=12
+|ss1=Against Hamsters, Troop Casualty -1%
+|ss2=Against Hamsters, Troop Casualty -2%
+|ss3=Against Hamsters, Troop Casualty -3%
+|ss4=Against Hamsters, Troop Casualty -3%
+|ss7=Against Hamsters, Troop Casualty -3%<br> (Awakened)
+}}

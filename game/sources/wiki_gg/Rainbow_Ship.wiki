@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Free Snail Shell for competitors in the Carnival of Venice. So fancy, it would make the wearer stand out even in the densest crowd!
+|affct=FAME
+|hard=HP
+|source=AD 1162 (Carnival of Venice) dance anecdote in the [[Time Rift]]
+|color=orange
+|earth=9
+|water=11
+|fire=10
+|wind=12
+|form=Zombie
+|element=Water
+|realm=Rift
+|orangehard=DEF
+}}

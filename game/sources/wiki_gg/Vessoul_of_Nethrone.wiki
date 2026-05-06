@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Vessoul of Nethrone
+|class_id=20276
+|rank=Green
+|affct=FAITH
+|source=
+|description=After being refined by Nethrone's soul power, the receptacle used to hold the Nethrone's mirror soul has the ability to capture people's souls. Once someone without a strong will obtains it, they will only be bewitched by the Nethrone's mirror soul; thus becoming Nethrone's doppelganger.
+|fame=16
+|art=16
+|fth=30
+|civ=15
+|tech=13
+|ss1=Per 10 Zombie Minions in battle:<br>> Troop HP +10
+|ss2=Per 10 Zombie Minions in battle:<br>> Troop HP +20
+|ss3=Per 10 Zombie Minions in battle:<br>> Troop HP +30
+|ss4=Per 10 Zombie Minions in battle:<br>> Troop HP +30
+|ss7=Per 10 Zombie Minions in battle:<br>> Troop HP +30<br> (Awakened)
+}}

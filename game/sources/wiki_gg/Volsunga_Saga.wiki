@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Volsunga Saga
+|class_id=22719
+|rank=SSS
+|affct=CIV
+|birthday=05-25
+|source=
+|description=On May 25, 3250 BC, the epic was sung by bards on the Nordic continent.<br>The Volsunga Saga is a prose epic of Norse mythology, telling the rise and fall of the Volsunga family, reflecting the life, religious beliefs, and spirit of ancient Scandinavian tribes, and praising the heroic figures represented by Sigurd. The language of the whole epic is plain and simple, without the use of grandiose rhetoric. The character's personality traits are shown through their words, often leaving the audience in suspense, thus strengthening the narrative effect. Many later heroic epics took this work as a reference.
+|fame=78
+|art=65
+|fth=55
+|civ=108
+|tech=56
+|ss1=Snail Leadership +6<br>All minion skins ATK +10%<br>Per 3 Minion Skins crafted, Snail ATK +18<br>Minion Skins crafted: 60/60
+|ss2=Snail Leadership +8<br>All minion skins ATK +20%<br>Per 3 Minion Skins crafted, Snail ATK +24<br>Minion Skins crafted: 60/60
+|ss3=Snail Leadership +10<br>All minion skins ATK +30%<br>Per 3 Minion Skins crafted, Snail ATK +30<br>Minion Skins crafted: 60/60
+|ss4=Snail Leadership +13<br>All minion skins ATK +50%<br>Per 3 Minion Skins crafted, Snail ATK +39<br>Minion Skins crafted: 60/60
+|ss5=Snail Leadership +16<br>All minion skins ATK +70%<br>Per 3 Minion Skins crafted, Snail ATK +48<br>Minion Skins crafted: 60/60
+|ss6=Snail Leadership +20<br>All minion skins ATK +100%<br>Per 3 Minion Skins crafted, Snail ATK +60<br>Minion Skins crafted: 60/60
+|ss7=Snail Leadership +20<br>All minion skins ATK +100%<br>Per 3 Minion Skins crafted, Snail ATK +60<br>Minion Skins crafted: 60/60<br>Snail Leadership +20 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion DEF +9%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion ATK +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+|mirage={{Mirage|name=Nordic Heroic Tales|reward={{RewardIconWithLink|Dragon Orb, +1|orange}}
+|3name=Sigmund|3rec=115.46M|3atk=348692|3defense=206342|3hp=34627693|3weak=43245
+|4name=Fafnir|4rec=132.15M|4atk=384714|4defense=229823|4hp=46017895|4weak=46897
+|5name=Brynhild|5rec=154.33M|5atk=434650|5defense=261023|5hp=64844806|5weak=51076
+|6name=Sigurd|6rec=185.11M|6atk=500768|6defense=304331|6hp=96357239|6weak=55746
+|Arec=228.45M|Aatk=592582|Adefense=365312|Ahp=149102094|Aweak=60913
+}}}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Micrographia
+|class_id=22603
+|rank=AAA
+|affct=TECH
+|birthday=05-23
+|source=Lottery Machine No.3 (0.06%)
+|description=On May 23, 1665 AD, Hooke observed the honeycomb-like structure of cell walls through a microscope.<br>Micrographia is the first major publication of the Royal Society of London. With its exquisite copperplate engravings, it became a bestseller in its time. In the book, Robert Hooke coined the term "cell" to describe the small compartments he observed through the microscope. In addition to discussing microscope techniques, Hooke also incorporated his own optical theories into the book and personally drew fifty-eight beautiful illustrations, opening up a whole new world to scientists!
+|fame=42
+|art=37
+|fth=49
+|civ=43
+|tech=72
+|ss1=Mecha Minion ATK +3%<br>Dismantle 1 Blue Brand: Gain 1 more fragment by 6%
+|ss2=Mecha Minion ATK +4%<br>Dismantle 1 Blue Brand: Gain 1 more fragment by 8%
+|ss3=Mecha Minion ATK +5%<br>Dismantle 1 Blue Brand: Gain 1 more fragment by 10%
+|ss4=Mecha Minion ATK +7%<br>Dismantle 1 Blue Brand: Gain 1 more fragment by 14%
+|ss5=Mecha Minion ATK +9%<br>Dismantle 1 Blue Brand: Gain 1 more fragment by 18%
+|ss7=Mecha Minion ATK +9%<br>Dismantle 1 Blue Brand: Gain 1 more fragment by 18%<br>Dismantle 1 Blue Brand: Gain 1 more fragment by 14% (Awakened)
+|skill1=[[File:Prairiesanctum skill II.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +15%
+|skill2=[[File:Prairiesanctum skill II.png|50px]]Place in Prairie Sanctum: This Relic's TECH +10
+}}

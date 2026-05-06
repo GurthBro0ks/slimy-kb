@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Limited-Term Killer Contract
+|class_id=20989
+|rank=Green
+|affct=FAME
+|source=
+|description=Due to declining ROI, all killers now operate on a "rent-to-slay" model—unlimited respawns revoked, invincibility buffs now require sacrificing your afterlife 401K.
+|fame=30
+|art=14
+|fth=15
+|civ=16
+|tech=15
+|ss1=In Domain battles, DMG to Beter +333%<br>Against Daily Hitmen, DMG +3.3%
+|ss2=In Domain battles, DMG to Beter +666%<br>Against Daily Hitmen, DMG +6.6%
+|ss3=In Domain battles, DMG to Beter +999%<br>Against Daily Hitmen, DMG +9.9%
+|ss4=In Domain battles, DMG to Beter +999%<br>Against Daily Hitmen, DMG +9.9%
+|ss7=In Domain battles, DMG to Beter +999%<br>Against Daily Hitmen, DMG +9.9%<br> (Awakened)
+}}

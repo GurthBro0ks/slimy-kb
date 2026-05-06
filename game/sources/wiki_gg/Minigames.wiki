@@ -1,0 +1,857 @@
+[[File:Civilization Boom Discovery.png|200px]]
+{{clear}}
+
+= Minigames =
+Once the Computer is unlocked, minigame cassettes can be found in various places and installed (each game takes 1h to install). Playing minigames gives various rewards for milestones and some have secret green relics as easter eggs, if you can manage to get it. 
+
+= 2048 =
+{{RewardIcon|2048|50}}
+
+'''Source:''' Pre-installed
+
+'''Secrets:''' 
+
+'''Rewards:''' {{RewardIconWithText|Travel Speedup}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|5k Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|6k Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|7k Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|8k Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|10k Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|12k Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|-
+|14k Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|-
+|16k Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|-
+|20k Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|-
+|24k Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|}
+
+= Beat the Treasure Monster =
+{{RewardIcon|Beat the Treasure Monster|50}}
+
+'''Source:''' [[Fissure#500-999-0|Fissure floor 650]]
+
+'''Secrets:''' 
+
+'''Rewards:''' {{RewardIconWithLink|Ancient Coin}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|1 Game Win||{{RewardIconWithLink|Ancient Coin, +800}}
+|}
+
+= Breach Firewall =
+{{RewardIcon|Breach Firewall|50}}
+
+(Game is called {{RewardIconWithText|Breach Firewall}}, cartridge to install is called {{RewardIconWithText|Suspicious Game Cartridge}}.)
+
+'''Source:''' Found on the ranking [[Bookshelf]] in the [[Home_Base#The_Cave|Home Base]].
+
+'''Secrets:'''  
+
+'''Rewards:''' {{RewardIconWithText|Travel Speedup}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|20 Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|40 Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|60 Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|80 Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|100 Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|120 Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|-
+|140 Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|-
+|180 Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|-
+|220 Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|-
+|260 Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|}
+
+= ByeCube =
+{{RewardIcon|ByeCube|50}}
+
+'''Source:''' Exchange in [[Yamato_Cards#Tier_3_(Blue)|Yamato]] for 3 {{RewardIconWithText|Famicom|blue}}
+
+'''Secrets:'''  
+
+'''Rewards:''' {{RewardIconWithText|W-Tad}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|500 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|600 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|700 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|800 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|1000 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|1200 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|1400 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|1600 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|2000 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|2400 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|}
+
+= Cheese or Love =
+{{RewardIcon|Cheese or Love|50}}
+
+'''Source:''' Hit 15 blue rats with {{RewardIconWithLink|Incense|orange}}
+
+'''Secrets:'''  
+
+'''Rewards:''' {{RewardIconWithText|Angel Cell}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|20 Game Points||{{RewardIconWithText|Angel Cell, +700}}
+|-
+|50 Game Points||{{RewardIconWithText|Angel Cell, +700}}
+|-
+|100 Game Points||{{RewardIconWithText|Angel Cell, +700}}
+|-
+|200 Game Points||{{RewardIconWithText|Angel Cell, +700}}
+|-
+|400 Game Points||{{RewardIconWithText|Angel Cell, +700}}
+|-
+|600 Game Points||{{RewardIconWithText|Angel Cell, +800}}
+|-
+|800 Game Points||{{RewardIconWithText|Angel Cell, +800}}
+|-
+|1000 Game Points||{{RewardIconWithText|Angel Cell, +800}}
+|-
+|1200 Game Points||{{RewardIconWithText|Angel Cell, +800}}
+|-
+|1400 Game Points||{{RewardIconWithText|Angel Cell, +800}}
+|}
+
+= Civilization Boom =
+{{RewardIcon|Civilization Boom|50}}
+
+'''Source:''' [[Home_Base#The_Gene_Room|Fridge]], Day 4
+
+'''Secrets:''' Creating 9 or more level 10 buildings and merging them at once gives {{RewardIconWithLink|Frozen Mammoth|green}}
+
+'''Rewards:''' {{RewardIconWithText|W-Tad}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|60k Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|72k Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|84k Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|96k Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|120k Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|144k Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|168k Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|192k Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|240k Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|288k Game Points||{{RewardIconWithText|W-Tad, +30}}
+|}
+
+= Devourer =
+{{RewardIcon|Devourer (Minigame)|50}}
+
+'''Source:''' [[Fissure#200-499-0|Fissure floor 450]]
+
+'''Secrets:'''  
+
+'''Rewards:''' {{RewardIconWithLink|Evolution Chest}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|800 Game Points||{{RewardIconWithLink|Evolution Chest, +20}}
+|-
+|1600 Game Points||{{RewardIconWithLink|Evolution Chest, +20}}
+|-
+|2400 Game Points||{{RewardIconWithLink|Evolution Chest, +20}}
+|-
+|3200 Game Points||{{RewardIconWithLink|Evolution Chest, +20}}
+|-
+|4000 Game Points||{{RewardIconWithLink|Evolution Chest, +20}}
+|-
+|4800 Game Points||{{RewardIconWithLink|Evolution Chest, +40}}
+|-
+|5600 Game Points||{{RewardIconWithLink|Evolution Chest, +40}}
+|-
+|6400 Game Points||{{RewardIconWithLink|Evolution Chest, +40}}
+|-
+|7200 Game Points||{{RewardIconWithLink|Evolution Chest, +40}}
+|-
+|8000 Game Points||{{RewardIconWithLink|Evolution Chest, +50}}
+|}
+
+= Explosive Cube =
+{{RewardIcon|Explosive Cube|50}}
+
+'''Source:''' Fully clear the {{RewardIconWithLink|Tetromino|orange}} mirage
+
+'''Secrets:'''  
+
+'''Rewards:''' {{RewardIconWithText|Gene Speedup}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|300 Game Points||{{RewardIconWithText|Gene Speedup, +30m}}
+|-
+|400 Game Points||{{RewardIconWithText|Gene Speedup, +30m}}
+|-
+|800 Game Points||{{RewardIconWithText|Gene Speedup, +30m}}
+|-
+|1200 Game Points||{{RewardIconWithText|Gene Speedup, +30m}}
+|-
+|1600 Game Points||{{RewardIconWithText|Gene Speedup, +1h}}
+|-
+|2000 Game Points||{{RewardIconWithText|Gene Speedup, +1h}}
+|-
+|2400 Game Points||{{RewardIconWithText|Gene Speedup, +1h}}
+|-
+|2800 Game Points||{{RewardIconWithText|Gene Speedup, +1h 30m}}
+|-
+|3200 Game Points||{{RewardIconWithText|Gene Speedup, +1h 30m}}
+|-
+|3600 Game Points||{{RewardIconWithText|Gene Speedup, +1h 30m}}
+|}
+
+= Floral Flight =
+{{RewardIcon|Floral Flight|50}}
+
+<big><big>'''This game is not yet released.'''</big></big>
+
+'''Source:''' Fully clear the {{RewardIconWithLink|Sunflowers|orange}} mirage
+
+'''Secrets:''' 
+
+'''Rewards:''' ?
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|
+|}
+
+= Fruit Frenzy =
+{{RewardIcon|Fruit Frenzy|50}}
+
+'''Source:''' 10k {{RewardIconWithText|B-Tad}} at [[Vending_Machine#One-time_Items|Vending Machine]]
+
+'''Secrets:''' Earning 6 game points gives {{RewardIconWithLink|Huaqiang's Motorcycle|green}}
+
+'''Rewards:''' {{RewardIconWithLink|Glue}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|1 Game Point||{{RewardIconWithLink|Glue, +10}}
+|-
+|2 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|3 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|4 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|5 Game Points||{{RewardIconWithText|Golden Drazgul Fang Skin}} (skin for use in Fruit Frenzy)<br>{{RewardIconWithLink|Glue, +10}}
+|-
+|6 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|7 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|8 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|9 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|10 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|11 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|12 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|13 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|14 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|15 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|16 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|17 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|18 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|19 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|20 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|21 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|22 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|23 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|24 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|25 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|26 Game Points||{{RewardIconWithLink|Glue, +10}}
+|-
+|27 Game Points||{{RewardIconWithLink|Glue, +10}}
+|}
+
+= Game Promoter =
+{{RewardIcon|Game Promoter|50}}
+
+'''Source:''' [[Nursery#Red-0|"Promote the game" Chore]]
+
+'''Secrets:''' Only Report 21 Companies, no other actions or you have to restart. Gets {{RewardIconWithLink|Inspection Certificate|green}}
+
+'''Rewards:''' {{RewardIconWithText|B-Tad}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|1 Game Win||{{RewardIconWithText|B-Tad, +1k}}
+|-
+|2 Game Win||{{RewardIconWithText|B-Tad, +1k}}
+|-
+|3 Game Win||{{RewardIconWithText|B-Tad, +2k}}
+|-
+|4 Game Win||{{RewardIconWithText|B-Tad, +2k}}
+|-
+|5 Game Win||{{RewardIconWithText|B-Tad, +3k}}
+|}
+
+= Hardly Poker =
+{{RewardIcon|Hardly Poker|50}}
+
+'''Source:''' Traveling Salesman Costs 88K {{RewardIconWithText|B-Tad}}
+
+'''Secrets:'''  
+
+'''Rewards:''' {{RewardIconWithText|W-Tad}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|3 Game Win||{{RewardIconWithText|W-Tad, +20}}
+|-
+|5 Game Win||{{RewardIconWithText|W-Tad, +20}}
+|-
+|8 Game Win||{{RewardIconWithText|W-Tad, +20}}
+|-
+|10 Game Win||{{RewardIconWithText|W-Tad, +20}}
+|-
+|13 Game Win||{{RewardIconWithText|W-Tad, +20}}
+|-
+|17 Game Win||{{RewardIconWithText|W-Tad, +30}}
+|-
+|20 Game Win||{{RewardIconWithText|W-Tad, +30}}
+|}
+
+= It Takes 5 =
+{{RewardIcon|It Takes 5|50}}
+
+'''Source:''' RNG > 1100 in Lottery unlocks a [[Value_Packs#Lottery_Value_Pack|Lottery Value Pack]] for 777 {{RewardIcon|W-Tad}}
+
+'''Secrets:''' Destroy a clown bead with the explosive bead (takes 5 hits) gives {{RewardIconWithLink|Color Bead No.6|green}}
+
+'''Rewards:''' {{RewardIconWithText|W-Tad}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|500 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|600 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|700 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|800 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|1000 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|1200 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|1400 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|1600 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|2000 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|2400 Game Points||{{RewardIconWithText|W-Tad, +40}}
+|}
+
+= Master Decoder =
+{{RewardIcon|Master Decoder|50}}
+
+'''Source:''' ?
+
+'''Secrets:''' 
+
+'''Rewards:''' {{RewardIconWithText|Refine Speedup}}, {{RewardIconWithLink|Enigma Machine|blue}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|1 Game Points||{{RewardIconWithText|Refine Speedup, +30m}}
+|-
+|2 Game Points||{{RewardIconWithText|Refine Speedup, +30m}}
+|-
+|3 Game Points||{{RewardIconWithText|Refine Speedup, +30m}}
+|-
+|4 Game Points||{{RewardIconWithText|Refine Speedup, +30m}}
+|-
+|5 Game Points||{{RewardIconWithText|Refine Speedup, +1h}}
+|-
+|6 Game Points||{{RewardIconWithText|Refine Speedup, +1h}}
+|-
+|7 Game Points||{{RewardIconWithText|Refine Speedup, +1h}}
+|-
+|8 Game Points||{{RewardIconWithText|Refine Speedup, +1h}}
+|-
+|9 Game Points||{{RewardIconWithText|Refine Speedup, +1h}}
+|-
+|10 Game Points||{{RewardIconWithLink|Enigma Machine|blue}}
+|}
+
+= Minion Chore Game =
+{{RewardIcon|Minion Chore Game|50}}
+
+<big><big>'''This game is not yet released.'''</big></big>
+
+'''Source:''' ?
+
+'''Secrets:''' 
+
+'''Rewards:''' ?
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|
+|}
+
+= Pet Pig Restaurant =
+{{RewardIcon|Pet Pig Restaurant|50}}
+
+<big><big>'''This game is not yet released.'''</big></big>
+
+'''Source:''' Fulfilling a request from the [[Unknown_Creature#Special_Requests|Unknown Creature]].
+
+'''Secrets:''' 
+
+'''Rewards:''' ?
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|
+|}
+
+= Polar Klotski =
+{{RewardIcon|Polar Klotski|50}}
+
+'''Source:''' [[Britland_INTEL#Britland_INTEL|Britland INTEL]] tile 16 "Polar Exploration"
+
+'''Secrets:''' 
+
+'''Rewards:''' {{RewardIconWithLink|Lottery Ticket|orange}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|1 Game Win||{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|}
+
+= Pyramid Card =
+{{RewardIcon|Pyramid Card|50}}
+
+'''Source:''' 10k {{RewardIconWithText|B-Tad}} in [[Britland_Domain#Tile_82-1|Britland Domain]]
+
+'''Secrets:''' 
+
+'''Rewards:''' {{RewardIconWithText|W-Tad}}, {{RewardIconWithLink|Lottery Ticket|orange}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|1 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|2 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|3 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|4 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|5 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|6 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|7 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|8 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|9 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|10 Game Points||{{RewardIconWithLink|Lottery Ticket, +1|orange}}
+|}
+
+= Save Kim Chi-yum =
+{{RewardIcon|Save Kim Chi-yum|50}}
+
+'''Source:''' [[Altar#One_time_wishes|Dragon Wish "I'm going to quit the game!"]]
+
+'''Secrets:''' 
+
+'''Rewards:''' {{RewardIconWithLink|Toner}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|3 Game Points||{{RewardIconWithLink|Toner, +5}}
+|-
+|6 Game Points||{{RewardIconWithLink|Toner, +5}}
+|-
+|9 Game Points||{{RewardIconWithLink|Toner, +5}}
+|-
+|12 Game Points||{{RewardIconWithLink|Toner, +5}}
+|-
+|15 Game Points||{{RewardIconWithLink|Toner, +6}}
+|-
+|18 Game Points||{{RewardIconWithLink|Toner, +6}}
+|-
+|21 Game Points||{{RewardIconWithLink|Toner, +6}}
+|-
+|24 Game Points||{{RewardIconWithLink|Toner, +6}}
+|-
+|27 Game Points||{{RewardIconWithLink|Toner, +6}}
+|-
+|33 Game Points||{{RewardIconWithLink|Toner, +10}}
+|}
+
+= Solitaire =
+{{RewardIcon|Solitaire|50}}
+
+'''Source:''' Pre-installed
+
+'''Secrets:''' 
+
+'''Rewards:''' {{RewardIconWithText|B-Tad}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|1 Game Win||{{RewardIconWithText|B-Tad, +1k}}
+|-
+|2 Game Win||{{RewardIconWithText|B-Tad, +1k}}
+|-
+|3 Game Win||{{RewardIconWithText|B-Tad, +2k}}
+|-
+|4 Game Win||{{RewardIconWithText|B-Tad, +2k}}
+|-
+|5 Game Win||{{RewardIconWithText|B-Tad, +3k}}
+|}
+
+= Snail Flip =
+{{RewardIcon|Snail Flip|50}}
+
+'''Source:''' RNG < 100 in Lottery unlocks a [[Value_Packs#Lottery_Value_Pack|Lottery Value Pack]] for 666 {{RewardIcon|W-Tad}}
+
+'''Secrets:''' [[Snail Flip|Snail Flip Strategy Guide]]
+
+'''Rewards:'''  {{RewardIconWithText|W-Tad}}, {{RewardIconWithLink|Lottery Ticket, +1|orange}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|5 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|10 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|15 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|20 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|25 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|30 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|35 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|40 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|45 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|50 Game Points||{{RewardIconWithLink|Lottery Ticket, +1|orange}}
+|}
+
+= Snail Quiz - Cathay =
+{{RewardIcon|Snail Quiz - Cathay|50}}
+
+'''Source:''' [[Nursery#Red-0|"Join an R&D Team" Chore]]
+
+'''Secrets:''' [[Snail Quiz - Cathay|Snail Quiz - Cathy Answer Guide]]
+
+'''Rewards:''' {{RewardIconWithText|W-Tad}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|10 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|20 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|30 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|40 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|50 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|60 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|70 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|80 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|90 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|100 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|110 Game Points||{{RewardIconWithText|W-Tad, +40}}
+|-
+|120 Game Points||{{RewardIconWithText|W-Tad, +40}}
+|-
+|130 Game Points||{{RewardIconWithText|W-Tad, +40}}
+|-
+|140 Game Points||{{RewardIconWithText|W-Tad, +40}}
+|}
+
+= Snail Quiz - Yamato =
+{{RewardIcon|Snail Quiz - Yamato|50}}
+
+'''Source:''' [[Rare Rent]] from [[Peter Jr.]]
+
+'''Secrets:''' [[Snail Quiz - Yamato|Snail Quiz - Yamato Answer Guide]]
+
+'''Rewards:''' {{RewardIconWithText|W-Tad}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|3 Right Answers||{{RewardIconWithText|W-Tad, +20}}
+|-
+|5 Right Answers||{{RewardIconWithText|W-Tad, +20}}
+|-
+|8 Right Answers||{{RewardIconWithText|W-Tad, +20}}
+|-
+|10 Right Answers||{{RewardIconWithText|W-Tad, +20}}
+|-
+|13 Right Answers||{{RewardIconWithText|W-Tad, +20}}
+|-
+|17 Right Answers||{{RewardIconWithText|W-Tad, +30}}
+|-
+|20 Right Answers||{{RewardIconWithText|W-Tad, +30}}
+|-
+|25 Right Answers||{{RewardIconWithText|W-Tad, +30}}
+|-
+|30 Right Answers||{{RewardIconWithText|W-Tad, +30}}
+|-
+|35 Right Answers||{{RewardIconWithText|W-Tad, +40}}
+|}
+
+= Tablet Maze =
+{{RewardIcon|Tablet Maze|50}}
+
+'''Source:''' [[Fissure#1,000-2,999-0|Fissure floor 2,800]]
+
+'''Secrets:''' 
+
+'''Rewards:''' {{RewardIconWithText|Stone}}, {{RewardIconWithLink|Ancient Stone|orange}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|100 Game Points||{{RewardIconWithText|Stone, +100}}
+|-
+|200 Game Points||{{RewardIconWithText|Stone, +100}}
+|-
+|300 Game Points||{{RewardIconWithText|Stone, +100}}
+|-
+|400 Game Points||{{RewardIconWithText|Stone, +100}}
+|-
+|500 Game Points||{{RewardIconWithText|Stone, +100}}
+|-
+|600 Game Points||{{RewardIconWithText|Stone, +200}}
+|-
+|700 Game Points||{{RewardIconWithText|Stone, +200}}
+|-
+|800 Game Points||{{RewardIconWithText|Stone, +200}}
+|-
+|900 Game Points||{{RewardIconWithText|Stone, +200}}
+|-
+|1000 Game Points||{{RewardIconWithLink|Ancient Stone|orange}}
+|}
+
+= Taichi Fish Diagram =
+{{RewardIcon|Taichi Fish Diagram|50}}
+
+'''Source:''' Found in the Wish Pond after [[Cathay]] at 100%
+
+'''Secrets:''' 
+
+'''Rewards:''' {{RewardIconWithText|W-Tad}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|20 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|40 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|60 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|80 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|100 Game Points||{{RewardIconWithText|W-Tad, +20}}
+|-
+|125 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|150 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|175 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|200 Game Points||{{RewardIconWithText|W-Tad, +30}}
+|-
+|250 Game Points||{{RewardIconWithText|W-Tad, +40}}
+|}
+
+= Tetromino Special =
+{{RewardIcon|Tetromino Special|50}}
+
+'''Source:''' 10k {{RewardIconWithText|B-Tad}} at [[Vending_Machine#One-time_Items|Vending Machine]]
+
+'''Secrets:''' 
+
+'''Rewards:''' {{RewardIconWithText|Travel Speedup}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|500 Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|600 Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|700 Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|800 Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|1000 Game Points||{{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|1200 Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|-
+|1400 Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|-
+|1600 Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|-
+|2000 Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|-
+|2400 Game Points||{{RewardIconWithText|Travel Speedup, +15m}}
+|}
+
+= Unlimited Space =
+{{RewardIcon|Unlimited Space|50}}
+
+'''Source:''' Added after 5 minigames have been installed
+
+'''Secrets:''' Opening the terminal 180 times within the time limit gives {{RewardIconWithLink|Reincarnation's Proof|green}}
+
+'''Rewards:''' {{RewardIconWithText|W-Tad}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|1 Game Win||{{RewardIconWithText|W-Tad, +300}}
+|}
+
+= Unlimited Space 2 =
+{{RewardIcon|Unlimited Space 2|50}}
+
+'''Source:''' [[Fissure#200-499-0|Fissure floor 400]] gives {{RewardIconWithText|Biochem Crisis}} which unlocks {{RewardIconWithText|Unlimited Space 2}} game.
+
+'''Secrets:''' Opening the Secret Vault gives {{RewardIconWithLink|Ascension's Proof|green}}. [[Unlimited Space 2]] and [[Unlimited space 2]] guides are available for help.
+
+'''Rewards:''' {{RewardIconWithText|W-Tad}}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Requirement
+!Reward
+|-
+|1 Game Win||{{RewardIconWithText|W-Tad, +300}}
+|}
+
+[[Category:Minigames]]

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Feast of the Gods
+|class_id=22804
+|rank=SSS
+|affct=ART
+|source=
+|description= The Feast of the Gods is the last painting completed by Giovanni before his death. The painting is inspired by verses from the poet Ovid's feast, depicting a lazy gathering of the Olympian gods on a summer afternoon, where the fertility god Priapus attempts to assault the sleeping nymph Lotis, but the goddess is awakened by the braying of a donkey, causing the fertility god to be publicly humiliated. The characters in the painting are vividly portrayed, with bright colors, and the deep green forest in the background contrasts sharply with the gods' luxurious attire. After Giovanni's death, his student Titian modified the landscape in the painting, making it a representative work of the Venetian school during the Renaissance.
+|fame=55
+|art=107
+|fth=64
+|civ=71
+|tech=65
+|ss1=Sunny Plant Food gives 1 Green Pistil by +0.6%<br>In the Fissure, Maneater DMG +3%<br>Per 5 Sunny Plant Food fed, Snail HP +3<br>Sunny Plant Food Fed: 200/200
+|ss2=Sunny Plant Food gives 1 Green Pistil by +0.8%<br>In the Fissure, Maneater DMG +4%<br>Per 5 Sunny Plant Food fed, Snail HP +4<br>Sunny Plant Food Fed: 200/200
+|ss3=Sunny Plant Food gives 1 Green Pistil by +1%<br>In the Fissure, Maneater DMG +5%<br>Per 5 Sunny Plant Food fed, Snail HP +5<br>Sunny Plant Food Fed: 200/200
+|ss4=Sunny Plant Food gives 1 Green Pistil by +1.4%<br>In the Fissure, Maneater DMG +7%<br>Per 5 Sunny Plant Food fed, Snail HP +7<br>Sunny Plant Food Fed: 200/200
+|ss5=Sunny Plant Food gives 1 Green Pistil by +1.8%<br>In the Fissure, Maneater DMG +9%<br>Per 5 Sunny Plant Food fed, Snail HP +9<br>Sunny Plant Food Fed: 200/200
+|ss6=Sunny Plant Food gives 1 Green Pistil by +2.4%<br>In the Fissure, Maneater DMG +12%<br>Per 5 Sunny Plant Food fed, Snail HP +12<br>Sunny Plant Food Fed: 200/200
+|ss7=Sunny Plant Food gives 1 Green Pistil by +2.4%<br>In the Fissure, Maneater DMG +12%<br>Per 5 Sunny Plant Food fed, Snail HP +12<br>Sunny Plant Food Fed: 200/200<br>Sunny Plant Food gives 1 Green Pistil by +2% (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Angel Cells gained +15%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x B-tad Drops +15%
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's ART +15
+|mirage={{Mirage|name=Feast of the Gods|reward={{RewardIconWithLink|Sunny Plant Food, +3|orange}}
+|3name=Fountain Goddess|3rec=4.59M|3atk=53857|3defense=35516|3hp=806307|3weak=12072
+|4name=Forest God|4rec=8.44M|4atk=75298|4defense=49655|4hp=1438159|4weak=14884
+|5name=Fertility God|5rec=14.76M|5atk=101496|5defense=66931|5hp=2399240|5weak=18320
+|6name=God of Wine|6rec=31.08M|6atk=132868|6defense=87619|6hp=3852784|6weak=21963
+|Arec=48.34M|Aatk=169696|Adefense=111905|Ahp=6061546|Aweak=27609
+}}}}

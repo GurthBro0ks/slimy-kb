@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Bach Concerto,Guanery's Violin
+|rank=blue
+|amount=2
+|category=self
+|description=Per 20 Blue Beads drawn, Snail ATK +10<br>Blue Beads Dawn: 300/300
+}}
+[[Category:Self]]

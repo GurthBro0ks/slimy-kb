@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=674
+|relics=Plasma Stealth,DAMPE
+|rank=purple
+|amount=2
+|category=self
+|description=Per 30 T7+ Demon Minions in battle:Troop HARD Stats +12
+}}

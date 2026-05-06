@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=343
+|relics=Pavlov's Bell,Lavoisier's Bell Jar
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Demon Minions in battle: Troop HP +50
+}}

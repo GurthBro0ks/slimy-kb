@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Blood of Dracula,Death of Marat
+|rank=purple
+|amount=2
+|category=dna
+|description=Demon Gene Research SPD +3.6%
+}}
+[[Category:DNA]]

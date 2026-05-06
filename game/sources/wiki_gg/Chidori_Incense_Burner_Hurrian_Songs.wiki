@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=415
+|relics=Chidori Incense Burner,Hurrian Songs
+|rank=purple
+|amount=2
+|category=self
+|description=Mutant Minion RUSH +6%
+}}

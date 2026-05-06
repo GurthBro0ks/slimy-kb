@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Divergence Meter,Guanery's Violin,Tudor Rose,Holmes' Pipe,Dunhuang Painting,Our Lady of Kazan
+|rank=blue
+|amount=6
+|category=Altar Boosts
+|description=Soul Offering SPD +3.6%
+}}
+[[Category:Altar Boosts]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Nuclear Waste Barrel
+|class_id=20340
+|rank=Green
+|affct=TECH
+|source=
+|description=Because the Domain of Demon Gods are in low orbit, the air is thin and the temperature is freezing. To sustain animals and plants, the Demon Gods used nuclear energy to heat the Domain, and as a result, it produced a large amount of radioactive waste. These wastes are placed in storage tanks to minimize pollution.
+|fame=15
+|art=11
+|fth=17
+|civ=16
+|tech=31
+|ss1=Per 10 Chikas in battle:<br>> Troop HP +10
+|ss2=Per 10 Chikas in battle:<br>> Troop HP +20
+|ss3=Per 10 Chikas in battle:<br>> Troop HP +30
+|ss4=Per 10 Chikas in battle:<br>> Troop HP +30
+|ss7=Per 10 Chikas in battle:<br>> Troop HP +30<br> (Awakened)
+}}

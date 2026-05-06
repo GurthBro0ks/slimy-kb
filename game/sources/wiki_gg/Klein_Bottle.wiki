@@ -1,0 +1,33 @@
+{{CargoRelic
+|name=Klein Bottle
+|rank=Blue
+|affct=TECH
+|birthday=05-14
+|source=Lottery Machine (0.07%), Wishing (2.6%), Novice Scrolls (1%)
+|description=On May 14, 1876, Klein hypothesized a bottle that did not exist in the real world. 
+
+The Klein bottle only has an exterior that is integrated with the interior. If you pour in some water, it will flow out through the same inlet. This is an interesting idea proposed by Klein. It is a closed and non-orientable bottle with one continuous surface. Observe it from a higher dimension and you will find that its various parts join so perfectly that the materials won't be a problem.
+|fame=22
+|art=27
+|fth=28
+|civ=29
+|tech=48
+|ss1=Lumber Camp Output +2%
+|ss2=Lumber Camp Output +4%
+|ss3=Lumber Camp Output +6%
+|ss4=Lumber Camp Output +10%
+|ss7=Lumber Camp Output +10%<br>Lumber Camp Output +10% (Awakened)
+|skill1=[[File:Yamato skill I.png|50px]] Place in Yamato Museum: In Yamato, Snail HP +200
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:TECH Relics]]
+[[Category:Blue TECH Relics]]
+[[Category:Lumber Camp Output Boost]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:HP Boost]]
+[[Category:Lottery Bead Color Change]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:Koryeon Snail Boost]]

@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Torlonia Marble Caryatid,Altamira Cave Paintings
+|rank=orange
+|amount=2
+|category=self
+|description=Per 100 T8+ Backup Minions, Snail Bedrock Power +7
+}}
+[[Category:Self]]
+[[Category:Bedrock Power Boost]]

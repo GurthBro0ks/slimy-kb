@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Phial of Galadrial
+|class_id=22168
+|rank=AAA
+|affct=FAITH
+|birthday=01-03
+|source=
+|description=On Jan 3, 1132 AD, the Starglass was gifted to a guest from a faraway land.<br>The fairy queen crafted this crystal phial as a gift for a brave man. It holds the light of the stars and radiates a perpetual glow, keeping dark and evil forces at bay.
+|fame=42
+|art=52
+|fth=75
+|civ=32
+|tech=42
+|ss1=Sunny Plant Food gives 1 Green Pistil by +0.6%<br>Per 5 Sunny Plant Food Fed, Snail DEF +3<br>Sunny Plant Food Fed: 200/200
+|ss2=Sunny Plant Food gives 1 Green Pistil by +0.8%<br>Per 5 Sunny Plant Food Fed, Snail DEF +4<br>Sunny Plant Food Fed: 200/200
+|ss3=Sunny Plant Food gives 1 Green Pistil by +1%<br>Per 5 Sunny Plant Food Fed, Snail DEF +5<br>Sunny Plant Food Fed: 200/200
+|ss4=Sunny Plant Food gives 1 Green Pistil by +1.4%<br>Per 5 Sunny Plant Food Fed, Snail DEF +7<br>Sunny Plant Food Fed: 200/200
+|ss5=Sunny Plant Food gives 1 Green Pistil by +1.8%<br>Per 5 Sunny Plant Food Fed, Snail DEF +9<br>Sunny Plant Food Fed: 200/200
+|ss7=Sunny Plant Food gives 1 Green Pistil by +1.8%<br>Per 5 Sunny Plant Food Fed, Snail DEF +9<br>Sunny Plant Food Fed: 200/200<br>Sunny Plant Food gives 1 Green Pistil by +1.4% (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, All Minion DEF +3%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FTH +10
+}}

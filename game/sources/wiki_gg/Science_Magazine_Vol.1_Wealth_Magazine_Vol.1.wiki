@@ -1,0 +1,10 @@
+{{CargoRelicResonance
+|relics=Science Magazine Vol.1,Wealth Magazine Vol.1
+|rank=orange
+|amount=2
+|category=self
+|description=Per 1.5k Tadpole Points, Snail ATK +7; Tadpole Points: 45,000/45,000
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Tadpole Points]]

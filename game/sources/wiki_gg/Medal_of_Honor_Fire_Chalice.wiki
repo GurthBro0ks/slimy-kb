@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=225
+|relics=Medal of Honor,Fire Chalice
+|rank=orange
+|amount=2
+|category=self
+|description=Per Orange+ Gear equipped, Snail HP +140
+}}

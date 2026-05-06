@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Koryeon Commissioner
+|rank=orange
+|cabin=2
+|id=175
+|gene1={race} DEF +50
+|gene2={race} TECH +50
+|gene3=Per 10% HP lost, {race} DEF +60
+|gene4=Per 60 Zombie Minions in battle:
+> Troop Earth DMG +6
+|gene5=Troop Earth DMG +0.9%
+|gene6=Per 60 Zombie Minions in battle:
+> Troop Earth DMG +10
+|gene7=Troop Earth DMG +1.5%
+|}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=That Hand
+|class_id=20285
+|rank=Green
+|affct=FAITH
+|source=
+|description=No one understands how this strange creature came from another world. Restrained by Earth's Will in this world, it became a collectible.
+|fame=18
+|art=12
+|fth=31
+|civ=16
+|tech=13
+|ss1=Per 1.5k Tadpole Points, Snail ATK +1<br>Per 1.5k Tadpole Points, Snail DEF +1<br>Tadpole Points: 45000/45000
+|ss2=Per 1.5k Tadpole Points, Snail ATK +2<br>Per 1.5k Tadpole Points, Snail DEF +2<br>Tadpole Points: 45000/45000
+|ss3=Per 1.5k Tadpole Points, Snail ATK +3<br>Per 1.5k Tadpole Points, Snail DEF +3<br>Tadpole Points: 45000/45000
+|ss4=Per 1.5k Tadpole Points, Snail ATK +3<br>Per 1.5k Tadpole Points, Snail DEF +3<br>Tadpole Points: 45000/45000
+|ss7=Per 1.5k Tadpole Points, Snail ATK +3<br>Per 1.5k Tadpole Points, Snail DEF +3<br>Tadpole Points: 45000/45000<br> (Awakened)
+}}

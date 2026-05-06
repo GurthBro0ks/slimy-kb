@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=SkyWeb Hub,Fu Hao Scripts,Buddha Finger Sarira,Proclamation 95
+|rank=orange
+|amount=4
+|category=dna
+|description=Zombie Gene Research SPD +5.4%
+}}
+[[Category:DNA]]

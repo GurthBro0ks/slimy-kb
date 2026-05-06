@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=220
+|relics=AH602,Kepler Telescope
+|rank=orange
+|amount=2
+|category=self
+|description=Per Hitman intercepted, Snail ATK +14;Hitmen Intercepted: 40/40
+}}

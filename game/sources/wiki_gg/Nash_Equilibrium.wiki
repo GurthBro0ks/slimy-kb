@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Nash Equilibrium
+|class_id=22740
+|rank=SS
+|affct=TECH
+|birthday=01-12
+|source=
+|description=On Jan 12, 1944 AD, Nash defined the concept of Nash equilibrium using rigorous mathematical language.<br>The Nash equilibrium can be divided into two types: pure strategy Nash equilibrium and mixed strategy Nash equilibrium. It created the theory of non-cooperative games, and made a clear distinction and definition between cooperative and non-cooperative games. It is highly original and laid the fundamental basis for modern game theory and economics.
+|fame=66
+|art=45
+|fth=73
+|civ=58
+|tech=105
+|ss1=Snail ATK +10<br>Snail DEF +10<br>Snail RUSH +10
+|ss2=Snail ATK +20<br>Snail DEF +20<br>Snail RUSH +20
+|ss3=Snail ATK +30<br>Snail DEF +30<br>Snail RUSH +30
+|ss4=Snail ATK +50<br>Snail DEF +50<br>Snail RUSH +50
+|ss5=Snail ATK +70<br>Snail DEF +70<br>Snail RUSH +70
+|ss6=Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100
+|ss7=Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Skill skill III.png|50px]]??? (Coming soon)
+|skill2=[[File:Skill skill III.png|50px]]??? (Coming soon)
+|skill3=[[File:Skill skill III.png|50px]]??? (Coming soon)
+|mirage={{Mirage|name=Game Theory Master|reward={{RewardIconWithLink|Master Scroll, +40|orange}}
+|3name=Harsanyi|3rec=136.79M|3atk=377515|3defense=236356|3hp=22157816|3weak=38045
+|4name=Reinhard|4rec=204.81M|4atk=540479|4defense=332048|4hp=41282288|4weak=44211
+|5name=John Nash|5rec=321.83M|5atk=758069|5defense=452097|5hp=82859787|5weak=52411
+|Arec=452.56M|Aatk=978152|Adefense=569707|Ahp=141210082|Aweak=58053
+}}}}

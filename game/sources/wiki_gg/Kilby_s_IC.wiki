@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Kilby's IC
+|class_id=22206
+|rank=AAA
+|affct=TECH
+|birthday=09-12
+|source=
+|description=On Sept 12, 1958 AD, Kilby successfully developed the first IC.<br>This IC was developed by American engineer Kilby, who won the Nobel Prize in physics for this invention. Before the emergence of ICs, transistors had already replaced bulky, unstable vacuum tubes, but due to the continuous expansion of circuit systems, the size and cost of components gradually became a bottleneck restricting its development. At that time, Kilby geniously proposed the idea of using a single piece of silicon to make a complete circuit, and with the support of his company, he finally successfully developed this integrated circuit. Since then, semiconductor manufacturing processes have been continuously updated, and product functions have changed with each passing day, and mankind has entered the information age.
+|fame=43
+|art=35
+|fth=51
+|civ=42
+|tech=72
+|ss1=Mecha Gene Research B-tad Cost -1.8%<br>Per 5 Mecha Gene LVLs, Snail ATK +6<br>Mecha Gene LVLs Researched: 150/150
+|ss2=Mecha Gene Research B-tad Cost -2.4%<br>Per 5 Mecha Gene LVLs, Snail ATK +8<br>Mecha Gene LVLs Researched: 150/150
+|ss3=Mecha Gene Research B-tad Cost -3%<br>Per 5 Mecha Gene LVLs, Snail ATK +10<br>Mecha Gene LVLs Researched: 150/150
+|ss4=Mecha Gene Research B-tad Cost -4.2%<br>Per 5 Mecha Gene LVLs, Snail ATK +14<br>Mecha Gene LVLs Researched: 150/150
+|ss5=Mecha Gene Research B-tad Cost -5.4%<br>Per 5 Mecha Gene LVLs, Snail ATK +18<br>Mecha Gene LVLs Researched: 150/150
+|ss7=Mecha Gene Research B-tad Cost -5.4%<br>Per 5 Mecha Gene LVLs, Snail ATK +18<br>Mecha Gene LVLs Researched: 150/150<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Murika skill II.png|50px]]Place in Murikan Museum: This Relic's TECH +10
+|skill2=[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x Blue Reagent Drops +7.5%
+}}

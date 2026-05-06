@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Agent Permit C-I
+|class_id=20203
+|rank=Green
+|affct=TECH
+|source=
+|description=The holder of the card is a rookie agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)
+|fame=14
+|art=16
+|fth=17
+|civ=14
+|tech=29
+|ss1=Per Rookie Agent defeated, Snail ATK +1<br>Rookie Agents Defeated: 20/20
+|ss2=Per Rookie Agent defeated, Snail ATK +2<br>Rookie Agents Defeated: 20/20
+|ss3=Per Rookie Agent defeated, Snail ATK +3<br>Rookie Agents Defeated: 20/20
+|ss4=Per Rookie Agent defeated, Snail ATK +3<br>Rookie Agents Defeated: 20/20
+|ss7=Per Rookie Agent defeated, Snail ATK +3<br>Rookie Agents Defeated: 20/20<br> (Awakened)
+}}

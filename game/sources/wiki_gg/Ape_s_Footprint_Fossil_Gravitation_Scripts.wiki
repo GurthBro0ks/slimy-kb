@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=231
+|relics=Ape's Footprint Fossil,Gravitation Scripts
+|rank=orange
+|amount=2
+|category=self
+|description=Mecha Gene Research SPD +4.2%
+}}

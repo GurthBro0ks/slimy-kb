@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=438
+|relics=Boy with Apple,Book of Shadows,Wilson Cloud Chamber,Valaroma
+|rank=purple
+|amount=4
+|category=self
+|description=Expert Scrolls drop +1 Purple Reagent by +8%
+}}

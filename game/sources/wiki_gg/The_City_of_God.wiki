@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=The City of God
+|class_id=22552
+|rank=AA
+|affct=FAITH
+|birthday=10-10
+|source=Lottery Machine No.3 (0.12%)
+|description=On Oct 10, 413 AD, Saint Augustine completed this religious masterpiece.<br>The City of God is a book written by Saint Augustine of the Roman Empire. It is comprised of twenty-two volumes, and is divided into two main parts. The first part is a refutation of attacks against Christianity by people who blamed it for the decline of the Roman Empire. The second part depicts the history of Christianity and explains the difference between the City of God and the earthly city, and teaches people the difference between selfish love, love for God, and love for others. The City of God is considered the world's first philosophical work on the history of the Church.
+|fame=38
+|art=44
+|fth=70
+|civ=34
+|tech=42
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop DEF +8<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +4
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop DEF +12<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop DEF +16<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +8
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop DEF +24<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +12
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop DEF +32<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +16
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop DEF +32<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +16<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +28 (Awakened)
+|skill1=[[File:Surfclam skill II.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Water DMG +30
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FTH +10
+}}

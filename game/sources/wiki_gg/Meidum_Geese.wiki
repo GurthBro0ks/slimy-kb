@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Meidum Geese
+|class_id=22705
+|rank=SS
+|affct=CIV
+|birthday=02-18
+|source=Lottery Machine No.3 (0.47%)
+|description=On Feb 18, 2575 BC The ancient Egyptian painters completed their painting in front of the tomb.<br>The Meidum Geese painting is a wall painting in the tomb of Itet, a noblewoman of the Fourth Dynasty in Ancient Egypt. The painting was carved by artisans on the wall and then filled with pigment, extremely realistic. The two types of geese in the picture are symmetrically distributed. It is believed that they may come from Greece and Turkey. The feather and plant details in the painting are extremely rich, demonstrating the superb painting skills of the ancient Egyptians.
+|fame=70
+|art=65
+|fth=58
+|civ=101
+|tech=53
+|ss1=Mutant Minion HP +2%<br>Per Orange Brand Cases opened, Snail HP +20<br>Per Orange Brand Cases opened, Snail ATK +2<br>Orange Brand Cases Opened: 50/50
+|ss2=Mutant Minion HP +3%<br>Per Orange Brand Cases opened, Snail HP +30<br>Per Orange Brand Cases opened, Snail ATK +3<br>Orange Brand Cases Opened: 50/50
+|ss3=Mutant Minion HP +4%<br>Per Orange Brand Cases opened, Snail HP +40<br>Per Orange Brand Cases opened, Snail ATK +4<br>Orange Brand Cases Opened: 50/50
+|ss4=Mutant Minion HP +6%<br>Per Orange Brand Cases opened, Snail HP +60<br>Per Orange Brand Cases opened, Snail ATK +6<br>Orange Brand Cases Opened: 50/50
+|ss5=Mutant Minion HP +8%<br>Per Orange Brand Cases opened, Snail HP +80<br>Per Orange Brand Cases opened, Snail ATK +8<br>Orange Brand Cases Opened: 50/50
+|ss6=Mutant Minion HP +11%<br>Per Orange Brand Cases opened, Snail HP +110<br>Per Orange Brand Cases opened, Snail ATK +11<br>Orange Brand Cases Opened: 50/50
+|ss7=Mutant Minion HP +11%<br>Per Orange Brand Cases opened, Snail HP +110<br>Per Orange Brand Cases opened, Snail ATK +11<br>Orange Brand Cases Opened: 50/50<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: Medal Output +30
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Snail ATK +600
+|skill3=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: This Relic's CIV +15
+|mirage={{Mirage|name=Playful Swans|reward={{RewardIconWithLink|Heaven Wings, +1|orange}}
+|3name=Landes Goose|3rec=125.24M|3atk=350677|3defense=220098|3hp=19347195|3weak=36881
+|4name=Embden Goose|4rec=153.96M|4atk=419040|4defense=260509|4hp=26358698|4weak=39260
+|5name=Toulouse Goose|5rec=194.55M|5atk=516498|5defense=317616|5hp=37780595|5weak=42823
+|Arec=259.73M|Aatk=657492|Adefense=396232|Ahp=66543962|Aweak=50348
+}}}}

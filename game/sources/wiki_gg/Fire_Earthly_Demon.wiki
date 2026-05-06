@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Fire Earthly Demon
+|rank=red
+|cabin=1
+|id=1023
+|gene1={race} HARD +100
+|gene2={race} AFFCT +50
+|gene3=Fire DMG +50
+|gene4=Per 60 Minions in battle:
+> Troop Fire DMG +6
+|gene5={race} Leadership +1
+|gene6=Per 60 Minions in battle:
+> Troop Fire DMG +10
+|gene7={race} Leadership +3
+|}}

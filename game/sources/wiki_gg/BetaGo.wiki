@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=BetaGo
+|rank=AAA
+|affct=TECH
+|birthday=09-06
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Evolution Chest (1.5%), Relic Forge (80 Relic RF)
+|description=On Sep 6, 2017, BetaGo became the first robot to defeat the human Go champion. 
+
+BetaGo is a program that uses the artificial neural network and algorithms to collect a large number of matrix numbers and takes weights through a nonlinear activation method to generate a set of data. Through a number of matrices, multiple layers of the organization are linked together to form a neural network, which can be used for precise and complex processing. With such complex algorithms, it has become the top master in the Go world.
+
+[Basic Info]
+
+Designers: Demis, David, etc.<br>Major events: Man vs AI in Go<br>Main feat: Defeating the top human Go players
+|fame=44
+|art=52
+|fth=36
+|civ=40
+|tech=71
+|ss1=Per 30 Mecha Minions in battle, Troop HP +40<br>Per 5 Rocket Tech LVLs, Snail ATK +12<br>Rocket Tech Upgraded: 50/50
+|ss2=Per 30 Mecha Minions in battle, Troop HP +80<br>Per 5 Rocket Tech LVLs, Snail ATK +16<br>Rocket Tech Upgraded: 50/50
+|ss3=Per 30 Mecha Minions in battle, Troop HP +120<br>Per 5 Rocket Tech LVLs, Snail ATK +20<br>Rocket Tech Upgraded: 50/50
+|ss4=Per 30 Mecha Minions in battle, Troop HP +200<br>Per 5 Rocket Tech LVLs, Snail ATK +28<br>Rocket Tech Upgraded: 50/50
+|ss5=Per 30 Mecha Minions in battle, Troop HP +280<br>Per 5 Rocket Tech LVLs, Snail ATK +36<br>Rocket Tech Upgraded: 50/50
+|ss7=Per 30 Mecha Minions in battle, Troop HP +280<br>Per 5 Rocket Tech LVLs, Snail ATK +36<br>Rocket Tech Upgraded: 50/50<br>Per 30 Mecha Minions in battle, Troop HP +280 (Awakened)
+|skill1=[[File:Bharata skill II.png|50px]] Place in Bharata Museum: In Bharata, 2x Green Card Drops +7.5%
+|skill2=[[File:Bharata skill II.png|50px]] Place in Bharata Museum: In Bharata, 2x Blue Card Drops +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:TECH Relics]]
+[[Category:Purple TECH Relics]]
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Mecha Minion HP Boost]]
+[[Category:ATK Boost]]
+[[Category:HP Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Enhanced by Rocket Tech LVL]]

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Historie Naturelle
+|class_id=22630
+|rank=SSS
+|affct=FAME
+|birthday=01-06
+|source=
+|description=On Jan 6, 1749 AD, Buffon, the director of the Jardin des Plantes in Paris, began compiling his own encyclopedia.<br>Historie Naturelle is a comprehensive book on natural science written by the French naturalist Buffon. It covers various fields such as earth history, human history, bird history, and mineral history. Buffon meticulously gathered factual materials to provide detailed and scientific descriptions of the natural world, challenging religious superstitions and unfounded beliefs. By adopting a materialistic view, he explained the formation of the earth and the origin of humanity, contributing to the enlightenment of his era.
+|fame=109
+|art=57
+|fth=54
+|civ=68
+|tech=74
+|ss1=All Minion HP +0.6%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +12<br>Per 1k visitor received, Snail ATK +3<br>Tourists Received: 40000/40000
+|ss2=All Minion HP +0.8%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +16<br>Per 1k visitor received, Snail ATK +4<br>Tourists Received: 40000/40000
+|ss3=All Minion HP +1%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +20<br>Per 1k visitor received, Snail ATK +5<br>Tourists Received: 40000/40000
+|ss4=All Minion HP +1.4%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28<br>Per 1k visitor received, Snail ATK +7<br>Tourists Received: 40000/40000
+|ss5=All Minion HP +1.8%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per 1k visitor received, Snail ATK +9<br>Tourists Received: 40000/40000
+|ss6=All Minion HP +2.4%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +48<br>Per 1k visitor received, Snail ATK +12<br>Tourists Received: 40000/40000
+|ss7=All Minion HP +2.4%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +48<br>Per 1k visitor received, Snail ATK +12<br>Tourists Received: 40000/40000<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +40 (Awakened)
+|skill1=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: This Relic's FAME +15
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +15%
+|skill3=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Produce Nebula Chest Shards by +15%
+|mirage={{Mirage|name=Chronicles of All Things|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Mineral|3rec=91.98M|3atk=289876|3defense=173311|3hp=36897432|3weak=38411
+|4name=Birds|4rec=110.57M|4atk=329983|4defense=199453|4hp=49874918|4weak=43286
+|5name=Plant|5rec=137.07M|5atk=386186|5defense=236748|5hp=71881152|5weak=50164
+|6name=Animal|6rec=179.26M|6atk=476436|6defense=296106|6hp=115124202|6weak=58362
+|Arec=261.09M|Aatk=625330|Adefense=397459|Ahp=205341954|Aweak=68237
+}}}}

@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Manufactured by a poor brand with no regard for durability, and only sold to those Snail that are looking for unrealistic deals. Guarantee to electrocute the wearer.
+|affct=FAME
+|hard=HP
+|source=Divine Neutral Chest (0.2%)
+|color=purple
+|earth=7
+|water=5
+|fire=5
+|wind=9
+|form=Zombie
+|element=Wind
+|realm=Cathay
+|orangehard=RUSH
+}}

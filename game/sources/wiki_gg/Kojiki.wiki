@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Kojiki
+|class_id=22303
+|rank=SS
+|affct=CIV
+|birthday=01-28
+|source=Lottery Machine No.2 (0.32%), Wishing (1.2%)
+|description=On Jan 28, 712 AD, O no Yasumaro completed the compilation of Kojiki.<br>Kojiki is a Japanese literary work memorized by Hieda no Are and composed by O no Yasumaro at the request of Empress Genmei. It contains the origin of the Japanese archipelago, the kami, and the Japanese imperial line. Kojiki is compiled from Teiki, the records of the emperors, and fundamental records, including myths, legends, and folklore. Among them, the stories of deities are myths, while the heroic deeds are legends; if the protagonist of the same story is not exclusive to a deity or person, it is folklore.
+|fame=68
+|art=63
+|fth=60
+|civ=105
+|tech=51
+|ss1=Snail DEF +20<br>Demon Minion HP +2%<br>Demon Minion DEF +2%
+|ss2=Snail DEF +30<br>Demon Minion HP +3%<br>Demon Minion DEF +3%
+|ss3=Snail DEF +40<br>Demon Minion HP +4%<br>Demon Minion DEF +4%
+|ss4=Snail DEF +60<br>Demon Minion HP +6%<br>Demon Minion DEF +6%
+|ss5=Snail DEF +80<br>Demon Minion HP +8%<br>Demon Minion DEF +8%
+|ss6=Snail DEF +110<br>Demon Minion HP +11%<br>Demon Minion DEF +11%
+|ss7=Snail DEF +110<br>Demon Minion HP +11%<br>Demon Minion DEF +11%<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, AFFCT Checks -150
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail CIV +600
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+|mirage={{Mirage|name=Legend of the Emperor|reward={{RewardIconWithLink|Master Scroll, +40|orange}}
+|3name=Hieda no Are|3rec=13.58M|3atk=95995|3defense=64042|3hp=2706780|3weak=16698
+|4name=O no Yasumaro|4rec=27.10M|4atk=122945|4defense=82021|4hp=4380092|4weak=18662
+|5name=Emperor Tenmu|5rec=41.80M|5atk=153944|5defense=102702|5hp=6678215|5weak=20280
+|Arec=59.29M|Aatk=190843|Adefense=127319|Ahp=9608143|Aweak=23592
+}}}}

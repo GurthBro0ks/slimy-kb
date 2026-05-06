@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Pro Juventute
+|class_id=22634
+|rank=SSS
+|affct=FAME
+|birthday=10-21
+|source=
+|description=On October 21, 1916, the Swiss Postal Service decided to issue a set of charity stamps.<br>The "Pro Juventute" stamp series is the world's first set of relief stamps dedicated to supporting children in need. All proceeds are used to assist children, ensuring they receive not only basic support but also aid during emergencies. This stamp series has contributed to the welfare of numerous children. For over a century, it has spread love and warmth globally, serving as a vivid testament to ongoing efforts for children's well-being.
+|fame=107
+|art=61
+|fth=57
+|civ=70
+|tech=67
+|ss1=All minion skins ATK +10%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +300<br>Per 3 Minion Skins crafted, Snail ATK +9<br>Minion Skins crafted: 60/60
+|ss2=All minion skins ATK +20%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +400<br>Per 3 Minion Skins crafted, Snail ATK +12<br>Minion Skins crafted: 60/60
+|ss3=All minion skins ATK +30%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +500<br>Per 3 Minion Skins crafted, Snail ATK +15<br>Minion Skins crafted: 60/60
+|ss4=All minion skins ATK +50%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +700<br>Per 3 Minion Skins crafted, Snail ATK +21<br>Minion Skins crafted: 60/60
+|ss5=All minion skins ATK +70%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +900<br>Per 3 Minion Skins crafted, Snail ATK +27<br>Minion Skins crafted: 60/60
+|ss6=All minion skins ATK +100%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>Per 3 Minion Skins crafted, Snail ATK +36<br>Minion Skins crafted: 60/60
+|ss7=All minion skins ATK +100%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>Per 3 Minion Skins crafted, Snail ATK +36<br>Minion Skins crafted: 60/60<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1000 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +3%
+|mirage={{Mirage|name=Pro Juventute|reward={{RewardIconWithLink|Badge, +20|orange}}
+|3name=Valais Girl|3rec=139.06M|3atk=400312|3defense=239550|3hp=52055080|3weak=48279
+|4name=Walden Boy|4rec=165.43M|4atk=459202|4defense=276648|4hp=77688644|4weak=52841
+|5name=Tichino Girl|5rec=202.61M|5atk=537916|5defense=328957|5hp=116006736|5weak=57961
+|6name=Schoolboy|6rec=268.75M|6atk=651510|6defense=404349|6hp=199021842|6weak=63673
+|Arec=385.98M|Aatk=812027|Adefense=509810|Ahp=340224147|Aweak=69693
+}}}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Zeus and Ganymede
+|class_id=22548
+|rank=A
+|affct=FAITH
+|birthday=02-01
+|source=Lottery Machine No.3 (0.55%)
+|description=On Feb 1, 470 BC, Greek craftsmen created this sculpture.<br>Zeus and Ganymede is an ancient Greek terracotta sculpture. It depicts the myth in which Zeus, the king of the gods, covets the beautiful youth Ganymede and takes him to be his cupbearer. This rare terracotta sculpture reflects the customs and values of ancient Greece and has significant artistic and historical value.
+|fame=36
+|art=42
+|fth=63
+|civ=31
+|tech=41
+|ss1=Demon God Cabin Output +1%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +4
+|ss2=Demon God Cabin Output +2%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +8
+|ss3=Demon God Cabin Output +3%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +12
+|ss4=Demon God Cabin Output +5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +20
+|ss5=Demon God Cabin Output +7%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28
+|ss7=Demon God Cabin Output +7%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: CRIT +10%
+|skill2=[[File:Hellas skill II.png|50px]]Place in Hellenic Museum: This Relic's FTH +10
+}}

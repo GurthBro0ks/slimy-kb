@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Ship in a Bottle,Boat of St. Peter
+|rank=orange
+|amount=2
+|category=home
+|description=Fungus Farm Output +14%
+}}
+[[Category:Home]]

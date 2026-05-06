@@ -1,0 +1,312 @@
+== Athena ♀ ==
+She once lost all her power due to Minerva's scheme. Now she has teamed up with you!
+
+=== Begin Friendship ===
+To obtain Athena as a partner, a series of items must be purchased from the medal shop, consisting of the Collector Helm (50k {{RewardIconWithLink|Museum Medal}}), two Crystals of Will (100k {{RewardIconWithLink|Museum Medal}} each), and finally {{RewardIconWithLink|Athena's Delight|green}} (200k {{RewardIconWithLink|Museum Medal}}). The relic must finally be displayed at an incident in Hellas in order to receive Athena's letters.
+
+===☆☆☆ > ★★★===
+Athena will mail the player shortly after the display incident is completed.
+
+==Rent==
+Athena rent is collected on '''Wednesday'''
+
+[IMAGE frameless, left]
+ '''Normal Rent''': {{RewardIconWithLink|Dark Outfit, +5 Fragments|blue}}
+
+ '''Rare Rent''': {{RewardIconWithLink|Silver Outfit, +5 Fragments|blue}}, {{RewardIconWithLink|Gold Outfit (Minion), +5 Fragments|orange}}
+<br>
+
+==Relics==
+Upgrading these will earn Coating!
+{| class="mw-collapsible mw-collapsed wikitable"  
+!rowspan="2" |Relic Tier
+!colspan="3" |Reward
+|-
+!Blue Relics
+!Purple Relics
+!Orange Relics
+|-
+|★
+| Green Coating +20
+| Blue Coating +20
+| Purple Coating +20
+|-
+|★★
+| Green Coating +20
+| Blue Coating +20
+| Purple Coating +20
+|-
+|★★★
+| Green Coating +20
+| Blue Coating +20
+| Purple Coating +20
+|-
+|★★★★
+| Green Coating +40
+| Blue Coating +40
+| Purple Coating +40
+|-
+|★★★★★
+|
+| Blue Coating +60
+| Purple Coating +60
+|-
+| ★★★★★★
+|
+|
+| Purple Coating +80
+|}<br>
+
+{| class="wikitable" style="width:100%; text-align:center;" 
+! style="background-color:var(--blue-bg);" |[[File:Chakana.png|frameless|50x50px|link=Chakana]]<br>[[Chakana]] 
+! style="background-color:var(--blue-bg);" |[[File:Persian Star Chart.png|frameless|50x50px|link=Persian Star Chart]]<br>[[Persian Star Chart]] 
+! style="background-color:var(--purple-bg);" |[[File:Deity Quetzalcoatl.png|frameless|50x50px|link=Deity Quetzalcoatl]]<br>[[Deity Quetzalcoatl]] 
+! style="background-color:var(--purple-bg);" |[[File:Holy Nail.png|frameless|50x50px|link=Holy Nail]]<br>[[Holy Nail]]
+|-
+! style="background-color:var(--orange-bg);" | [[File:Buddha Finger Sarira.png|frameless|50x50px|link=Buddha Finger Sarira]]<br>[[Buddha Finger Sarira]]
+! style="background-color:var(--orange-bg);" |[[File:Forbidden Fruit.png|frameless|50x50px|link=Forbidden Fruit]]<br>[[Forbidden Fruit]]
+! style="background-color:var(--orange-bg);" |[[File:Aladdin's Lamp.png|frameless|50x50px|link=Aladdin's Lamp]]<br>[[Aladdin's Lamp]] 
+! style="background-color:var(--orange-bg);" |[[File:Shroud of Turin.png|frameless|50x50px|link=Shroud of Turin]]<br>[[Shroud of Turin]]
+|}
+
+==Athena's Closet==
+A magical closet with infinite storage capacity. All of Athena's clothes are kept inside.
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!'''Lv.'''!!'''Research Skill Required'''!!'''B-tad Cost'''!!'''Skill 1'''!!'''Skill 2'''||'''Skill 3'''
+|-
+|1|| || ||FAME +5||Leadership +1||Angel Minion Recovery SPD +0.3%
+|-
+|2||180||2,000||FAME +10||Leadership +2||Angel Minion Recovery SPD +0.6%
+|-
+|3||190||4,500||FAME +15||Leadership +3||Angel Minion Recovery SPD +0.9%
+|-
+|4||200||8,000||FAME +20||Leadership +4||Angel Minion Recovery SPD +1.2%
+|-
+|5||210 || 12,500||FAME +25||Leadership +5||Angel Minion Recovery SPD +1.5%
+|-
+|6||220||18,000||FAME +30||Leadership +6||Angel Minion Recovery SPD +1.8%
+|-
+|7||230||24,500||FAME +35||Leadership +7||Angel Minion Recovery SPD +2.1%
+|-
+|8||240|| 32,000||FAME +40||Leadership +8||Angel Minion Recovery SPD +2.4%
+|-
+|9||250||40,500 ||FAME  +45||Leadership +9||Angel Minion Recovery SPD +2.7%
+|-
+|10||260||50,000||FAME +50||Leadership +10||Angel Minion Recovery SPD +3%
+|-
+|11||270||60,500 ||FAME +55||Leadership +11||Angel Minion Recovery SPD +3.3%
+|-
+| 12||285||72,000||FAME +60||Leadership +12||Angel Minion Recovery SPD +3.6%
+|-
+|13||300||84,500||FAME +65||Leadership +13||Angel Minion Recovery SPD +3.9%
+|-
+|14||315||98,000||FAME +70||Leadership +14||Angel Minion Recovery SPD +4.2%
+|-
+|15||330||112,000||FAME +75||Leadership +15||Angel Minion Recovery SPD +4.5%
+|-
+|16||345||123,000||FAME +80||Leadership +16||Angel Minion Recovery SPD +4.8%
+|-
+|17||360||144,000||FAME +85||Leadership +17||Angel Minion Recovery SPD +5.1%
+|-
+|18||375||162,000||FAME +90||Leadership +18||Angel Minion Recovery SPD +5.4%
+|-
+|19||390||180,000||FAME +95||Leadership +19||Angel Minion Recovery SPD +5.7%
+|-
+|20||400||200,000||FAME +100||Leadership +20||Angel Minion Recovery SPD +6%
+|-
+|21||420||220,000||FAME +105||Leadership +21||Angel Minion Recovery SPD +6.3%
+|-
+|22||440||242,000||FAME +110||Leadership +22||Angel Minion Recovery SPD +6.6%
+|-
+|23||460||264,000||FAME +115||Leadership +23||Angel Minion Recovery SPD +6.9%
+|-
+|24||480|| 285,000||FAME +120||Leadership +24||Angel Minion Recovery SPD +7.2%
+|-
+|25||500||309,000||FAME +125||Leadership +25||Angel Minion Recovery SPD +7.5%
+|-
+|26||520||333,000||FAME +130||Leadership +26||Angel Minion Recovery SPD +7.8%
+|-
+|27||540||357,000||FAME +135||Leadership +27||Angel Minion Recovery SPD +8.1%
+|-
+|28||560|| 381,000||FAME +140||Leadership +28||Angel Minion Recovery SPD +8.4%
+|-
+|29||580||405,000||FAME +145||Leadership +29||Angel Minion Recovery SPD +8.7%
+|-
+|30||600||429,000||FAME +150||Leadership +30||Angel Minion Recovery SPD +9%
+|}
+
+== Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Athena's Closet is. 
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!'''Lv.'''!!'''B-tad Cost'''!!'''Skill 1'''!! '''Skill 2'''
+|-
+|1|| ||Angel Minion MAX +1||Per 10 Sanctum Warrior in battle, Troop HP +100
+|-
+|2||4000||Angel Minion MAX +2||Per 10 Sanctum Warriors in battle, Troop HP +200
+|-
+|3||6000||Angel Minion MAX +3||Per 10 Sanctum Warriors in battle, Troop HP +300
+|-
+|4||8000||Angel Minion MAX +4||Per 10 Sanctum Warriors in battle, Troop HP +400
+|-
+|5||10000||Angel Minion MAX +5||Per 10 Sanctum Warriors in battle, Troop HP +500
+|-
+| 6||12000||Angel Minion MAX +6||Per 10 Sanctum Warriors in battle, Troop HP +600
+|-
+|7||14000||Angel Minion MAX +7|| Per 10 Sanctum Warriors in battle, Troop HP +700
+|-
+|8||16000||Angel Minion MAX +8||Per 10 Sanctum Warriors in battle, Troop HP +800
+|-
+|9||18000||Angel Minion MAX +9|| Per 10 Sanctum Warriors in battle, Troop HP +900
+|-
+|10||20000||Angel Minion MAX +10||Per 10 Sanctum Warriors in battle, Troop HP +1000
+|-
+|11||22000||Angel Minion MAX +11|| Per 10 Sanctum Warriors in battle, Troop HP +1100
+|-
+|12||24000||Angel Minion MAX +12||Per 10 Sanctum Warriors in battle, Troop HP +1200
+|-
+|13 || 26000||Angel Minion MAX +13||Per 10 Sanctum Warriors in battle, Troop HP +1300
+|-
+| 14||28000||Angel Minion MAX +14|| Per 10 Sanctum Warriors in battle, Troop HP +1400
+|-
+|15||30000||Angel Minion MAX +15||Per 10 Sanctum Warriors in battle, Troop HP +1500
+|-
+|16 ||32000||Angel Minion MAX +16||Per 10 Sanctum Warriors in battle, Troop HP +1600
+|-
+| 17||34000||Angel Minion MAX +17||Per 10 Sanctum Warriors in battle, Troop HP +1700
+|-
+|18||36000||Angel Minion MAX +18||Per 10 Sanctum Warriors in battle, Troop HP +1800
+|-
+|19||38000 ||Angel Minion MAX +19||Per 10 Sanctum Warriors in battle, Troop HP +1900
+|-
+|20||40000||Angel Minion MAX +20||Per 10 Sanctum Warriors in battle, Troop HP +2000
+|-
+|21||42000||Angel Minion MAX +21||Per 10 Sanctum Warriors in battle, Troop HP +2100
+|-
+|22||44000 ||Angel Minion MAX +22||Per 10 Sanctum Warriors in battle, Troop HP +2200
+|-
+|23|| 46000||Angel Minion MAX +23||Per 10 Sanctum Warriors in battle, Troop HP +2300
+|-
+|24||48000||Angel Minion MAX +24||Per 10 Sanctum Warriors in battle, Troop HP +2400
+|-
+|25||50000||Angel Minion MAX +25||Per 10 Sanctum Warriors in battle, Troop HP +2500
+|-
+|26||55000||Angel Minion MAX +26||Per 10 Sanctum Warriors in battle, Troop HP +2600
+|-
+| 27||60000||Angel Minion MAX +27||Per 10 Sanctum Warriors in battle, Troop HP +2700
+|-
+|28||65000||Angel Minion MAX +28||Per 10 Sanctum Warriors in battle, Troop HP +2800
+|-
+|29||70000||Angel Minion MAX +29||Per 10 Sanctum Warriors in battle, Troop HP +2900
+|-
+|30||75000||Angel Minion MAX +30||Per 10 Sanctum Warriors in battle, Troop HP +3000
+|}
+
+==Research Ability==
+Below is a table of the research manual cost to upgrade each research gene. Athena specializes in '''Angel Gene''' specialization and therefore the research manual cost for the Angel is halved. 
+
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!Lv.!!Manuals Required!!Lv.!!Manuals Required
+|-
+|'''1-10'''||1||'''11-20'''||2
+|-
+|'''21-30'''||3||'''31-40'''||4
+|-
+|'''41-50'''||5||'''51-60'''||10
+|-
+|'''61-70'''||20||'''71-80'''||40
+|-
+|'''81-90'''||60||'''91-95'''||80
+|-
+|'''96'''||100 ||'''97'''||200
+|-
+|'''98'''||400|| '''99'''||600
+
+|-
+|'''100''' || 800
+|}
+
+==Minion - Sanctum Warrior==
+These sages are loyal followers of Athena. They protected the goddess and her sanctuary and thus are blessed to be her bodyguards!
+
+===Special Ability - Meteor Strike ===
+Per 10 Sanctum Warriors in battle, Extra Troop RUSH DMG +20 (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Sanctum Warriors!
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Roman Dodecahedron}}<br>{{relink|Roman Dodecahedron}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Templar Emblem}}<br>{{relink|Templar Emblem}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Hermes' Coin}}<br>{{relink|Hermes' Coin}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Turing Machine}}<br>{{relink|Turing Machine}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Agamemnon Mask}}<br>{{relink|Agamemnon Mask}}
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Lyre of Hermes}}<br>{{relink|Lyre of Hermes}}
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Golden Chariot}}<br>{{relink|Golden Chariot}}
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Hera's Peacock Fan}}<br>{{relink|Hera's Peacock Fan}}
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4% 
+|}
+
+[[Category:Partners]]

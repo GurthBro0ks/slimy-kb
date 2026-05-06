@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Medium Rune
+|class_id=22293
+|rank=SSS
+|affct=FAITH
+|birthday=08-25
+|source=Lottery Machine No.2 (0.11%)
+|description=On Aug 25, 5716 BC, the Medium Rune fell off the Gate of Hell.<br>Medium Rune was once a part of the Gate of Hell, belonging to the Lord of Evil, Mephisto. Rumor has it that if you pray to it on the night of the full moon, you can see the souls of your loved ones who have died. If you make a pact with the Lord of Evil, he can even bring the dead people back to life, at a cost that very few people can afford.
+|fame=63
+|art=74
+|fth=106
+|civ=50
+|tech=69
+|ss1=All Realm Spirit HARD Stats +0.6%<br>Per Realm Spirit unsealed, Snail HP +210<br>Per Realm Spirit unsealed, Snail ATK +21<br>Realm Spirits Unsealed: 8/8
+|ss2=All Realm Spirit HARD Stats +0.8%<br>Per Realm Spirit unsealed, Snail HP +280<br>Per Realm Spirit unsealed, Snail ATK +28<br>Realm Spirits Unsealed: 8/8
+|ss3=All Realm Spirit HARD Stats +1%<br>Per Realm Spirit unsealed, Snail HP +350<br>Per Realm Spirit unsealed, Snail ATK +35<br>Realm Spirits Unsealed: 8/8
+|ss4=All Realm Spirit HARD Stats +1.4%<br>Per Realm Spirit unsealed, Snail HP +490<br>Per Realm Spirit unsealed, Snail ATK +49<br>Realm Spirits Unsealed: 8/8
+|ss5=All Realm Spirit HARD Stats +1.8%<br>Per Realm Spirit unsealed, Snail HP +630<br>Per Realm Spirit unsealed, Snail ATK +63<br>Realm Spirits Unsealed: 8/8
+|ss6=All Realm Spirit HARD Stats +2.4%<br>Per Realm Spirit unsealed, Snail HP +840<br>Per Realm Spirit unsealed, Snail ATK +84<br>Realm Spirits Unsealed: 8/8
+|ss7=All Realm Spirit HARD Stats +2.4%<br>Per Realm Spirit unsealed, Snail HP +840<br>Per Realm Spirit unsealed, Snail ATK +84<br>Realm Spirits Unsealed: 8/8<br>All Realm Spirit HARD Stats +2% (Awakened)
+|skill1=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: Medal Output +30
+|skill2=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: This Relic's FTH +15
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, 2x INTEL Drops +15%
+|mirage={{Mirage|name=Stone of Hell|reward={{RewardIconWithLink|Magic Potion, +200|orange}}
+|3name=Pumpkin|3rec=37.22M|3atk=144287|3defense=96259|3hp=5931597|3weak=19680
+|4name=Witch|4rec=49.44M|4atk=170057|4defense=113452|4hp=7965909|4weak=21631
+|5name=Scarecrow|5rec=63.09M|5atk=198846|5defense=132658|5hp=10480319|5weak=25267
+|6name=Black Cat|6rec=77.80M|6atk=229876|6defense=153359|6hp=13557313|6weak=30499
+|Arec=94.27M|Aatk=264610|Adefense=176532|Ahp=17265994|Aweak=33431
+}}}}

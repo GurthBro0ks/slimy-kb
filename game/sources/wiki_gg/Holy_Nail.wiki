@@ -1,0 +1,24 @@
+{{CargoRelic
+|name=Holy Nail
+|class_id=21207
+|rank=AA
+|affct=FAITH
+|birthday=01-03
+|source=
+|description=On Jan 3, 34 AD, this Holy Nail was kept by devout believers of St. Paul as a great treasure.<br>After Jesus' crucifixion, St. Paul took the nails out of his tomb. Legend has it that 3 nails were used for the crucifixion of Jesus, while others said 4 were used. Another legend said that 1 of the nails was melted to make a crown. Another nail was said to be thrown into the roaring waves to calm the sea and only 1 nail was left now.
+[Basic Info]
+Quantity: 5. Size: 5-7 inches. Use: Restrain zombies and vampires.
+|fame=31
+|art=40
+|fth=67
+|civ=47
+|tech=43
+|ss1=Per 30 Angel Minions in battle:<br>> Troop HP +40<br>Per 30 Angel Minions in battle:<br>> Troop RUSH +4
+|ss2=Per 30 Angel Minions in battle:<br>> Troop HP +80<br>Per 30 Angel Minions in battle:<br>> Troop RUSH +8
+|ss3=Per 30 Angel Minions in battle:<br>> Troop HP +120<br>Per 30 Angel Minions in battle:<br>> Troop RUSH +12
+|ss4=Per 30 Angel Minions in battle:<br>> Troop HP +200<br>Per 30 Angel Minions in battle:<br>> Troop RUSH +20
+|ss5=Per 30 Angel Minions in battle:<br>> Troop HP +280<br>Per 30 Angel Minions in battle:<br>> Troop RUSH +28
+|ss7=Per 30 Angel Minions in battle:<br>> Troop HP +280<br>Per 30 Angel Minions in battle:<br>> Troop RUSH +28<br>Per 30 Angel Minions in battle:<br>> Troop HP +280 (Awakened)
+|skill1=[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, B-tads gained +7.5%
+|skill2=[[File:Compass skill II.png|50px]]Place in Exploration Compass: Snail DEF +30
+}}

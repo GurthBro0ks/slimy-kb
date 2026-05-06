@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Marilyn Diptych,Mysterious Relic,Tyet,Mysterious Relic
+|rank=orange
+|amount=4
+|category=home
+|description=Catalyzed Blue Spores turn to Purple by +0.9%
+}}
+[[Category:Home]]
+[[Category:Spore Color Change]]

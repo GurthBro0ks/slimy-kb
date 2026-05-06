@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Galatea
+|class_id=22565
+|rank=AAA
+|affct=FAITH
+|birthday=05-30
+|source=
+|description=On May 30, 1132 BC, Pygmalion carved this ivory statue and fell in love with it.<br>According to legend, the king of Cyprus, Pygmalion, refused to marry because he did not like earthly women and devoted all his energy to carving. Under his superb skills, a beautiful ivory maiden statue was born. Pygmalion named it Galatea and treated it as his own wife. This devotion moved the god of love, and Galatea was thus given life and became Pygmalion's wife.
+|fame=35
+|art=45
+|fth=74
+|civ=46
+|tech=43
+|ss1=Snail ATK +30<br>Per 30 Angel Minions in battle:<br>> Troop ATK +12
+|ss2=Snail ATK +40<br>Per 30 Angel Minions in battle:<br>> Troop ATK +16
+|ss3=Snail ATK +50<br>Per 30 Angel Minions in battle:<br>> Troop ATK +20
+|ss4=Snail ATK +70<br>Per 30 Angel Minions in battle:<br>> Troop ATK +28
+|ss5=Snail ATK +90<br>Per 30 Angel Minions in battle:<br>> Troop ATK +36
+|ss7=Snail ATK +90<br>Per 30 Angel Minions in battle:<br>> Troop ATK +36<br>Per 30 Angel Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Hellas skill II.png|50px]]Place in Hellenic Museum: In Hellas, Snail ATK +60
+|skill2=[[File:Hellas skill II.png|50px]]Place in Hellenic Museum: This Relic's FTH +10
+}}

@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Trickster's Intestine
+|type=Common
+|rank=blue
+|id=10824
+|idx=25
+|description="Stratagem No. 7: Three Demons, One Feast! A strategist Traveler disguised as a top chef cooked a dish of Intestine. The poisoned meal sent all three demon gods into months of agonizing illness…" — Thirty-Six Stratagems of the Otherworld
+|skill=
+|hp=760
+|def=146
+|atk=111
+|rush=84
+|gene1=Snail Arena, Total Power Checks -2%
+|gene2=In explorations, B-tads gained +2.5%
+|gene3=The Pond has a +3% chance to produce W-tads
+|gene7=In explorations, B-tads gained +2.5% (Awakened)
+|}}

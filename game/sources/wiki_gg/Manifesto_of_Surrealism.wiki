@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Manifesto of Surrealism
+|class_id=22794
+|rank=SSS
+|affct=FAME
+|source=
+|description=The Surrealist Manifesto is a foundational work that profoundly influenced the development of 20th-century art, declaring a revolution against the existing cultural and artistic traditions. In the manifesto, Breton proposed that Surrealism aims to break free from the shackles of rationality and delve into the mysteries of the human unconscious, employing innovative techniques such as automatic writing, dream imagery, and random combination in an effort to reach a creative realm that transcends reality.
+|fame=108
+|art=60
+|fth=48
+|civ=63
+|tech=83
+|ss1=Zombie Minion HP +3%<br>Per 2 FAME Master Scrolls used, Snail ATK +3<br>Per 2 FAME Master Scrolls used, Priest-Snail Assistance DMG +24<br>FAME Master Scrolls Used: 100/100
+|ss2=Zombie Minion HP +4%<br>Per 2 FAME Master Scrolls used, Snail ATK +4<br>Per 2 FAME Master Scrolls used, Priest-Snail Assistance DMG +32<br>FAME Master Scrolls Used: 100/100
+|ss3=Zombie Minion HP +5%<br>Per 2 FAME Master Scrolls used, Snail ATK +5<br>Per 2 FAME Master Scrolls used, Priest-Snail Assistance DMG +40<br>FAME Master Scrolls Used: 100/100
+|ss4=Zombie Minion HP +7%<br>Per 2 FAME Master Scrolls used, Snail ATK +7<br>Per 2 FAME Master Scrolls used, Priest-Snail Assistance DMG +56<br>FAME Master Scrolls Used: 100/100
+|ss5=Zombie Minion HP +9%<br>Per 2 FAME Master Scrolls used, Snail ATK +9<br>Per 2 FAME Master Scrolls used, Priest-Snail Assistance DMG +72<br>FAME Master Scrolls Used: 100/100
+|ss6=Zombie Minion HP +12%<br>Per 2 FAME Master Scrolls used, Snail ATK +12<br>Per 2 FAME Master Scrolls used, Priest-Snail Assistance DMG +96<br>FAME Master Scrolls Used: 100/100
+|ss7=Zombie Minion HP +12%<br>Per 2 FAME Master Scrolls used, Snail ATK +12<br>Per 2 FAME Master Scrolls used, Priest-Snail Assistance DMG +96<br>FAME Master Scrolls Used: 100/100<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +3%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+|mirage={{Mirage|name=dungeon@22794_1|reward={{RewardIconWithLink|Iridescent Ticket, +5|orange}}
+|3name=Rene Magritte|3rec=406.49M|3atk=933925|3defense=528269|3hp=246819879|3weak=69617
+|4name=Paul Delvaux|4rec=511.91M|4atk=1114348|4defense=623104|4hp=409669335|4weak=75730
+|5name=Yves Tanguy|5rec=673.58M|5atk=1500365|5defense=771922|5hp=660954354|5weak=84214
+|6name=Andre Breton|6rec=924.38M|6atk=2302566|6defense=1040904|6hp=1183413461|6weak=94633
+|Arec=1345.42M|Aatk=3449199|Adefense=1448911|Ahp=2110997204|Aweak=107650
+}}}}

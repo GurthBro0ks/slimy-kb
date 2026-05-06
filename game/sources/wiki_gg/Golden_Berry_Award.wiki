@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Berry Award
+|class_id=20213
+|rank=Green
+|affct=CIV
+|source=
+|description=The Golden Berry Award chooses the worst Murikan film of the year. At first, it was a spontaneous amusement created by movie fans but later attracted the public's attention. Now it has become a highly popular awarding ceremony, where there are no worst movies, only the worse!
+|fame=16
+|art=16
+|fth=16
+|civ=26
+|tech=16
+|ss1=Per 5 Orange Fungi eaten, Snail RUSH +4<br>Orange Fungi Eaten: 50/50
+|ss2=Per 5 Orange Fungi eaten, Snail RUSH +8<br>Orange Fungi Eaten: 50/50
+|ss3=Per 5 Orange Fungi eaten, Snail RUSH +12<br>Orange Fungi Eaten: 50/50
+|ss4=Per 5 Orange Fungi eaten, Snail RUSH +12<br>Orange Fungi Eaten: 50/50
+|ss7=Per 5 Orange Fungi eaten, Snail RUSH +12<br>Orange Fungi Eaten: 50/50<br> (Awakened)
+}}

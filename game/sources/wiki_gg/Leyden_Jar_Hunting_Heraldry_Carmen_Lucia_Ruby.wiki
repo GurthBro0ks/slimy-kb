@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=429
+|relics=Leyden Jar,Hunting Heraldry,Carmen Lucia Ruby
+|rank=purple
+|amount=3
+|category=self
+|description=Per 7 Zombie Gene LVLs, Snail ATK +14;Zombie Gene LVLs Researched: 210/210
+}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Well of Moses
+|class_id=22437
+|rank=Blue
+|affct=ART
+|birthday=08-06
+|source=Lottery Machine No.3 (0.03%)
+|description=On Aug 6, 1403 AD, the Well of Moses first appeared in a monastery.<br>The Well of Moses is not a well, but a sculpture created by the sculptor Claus Sluter. Its shape is similar to a hexagonal pedestal, with a statue of a prophet from the Bible on each of the six sides. The characters in the sculpture are presented in a highly realistic manner, not only in their form but also conveying different ideas and emotions. It is considered one of the best sculptures of the Dutch Renaissance.
+|fame=24
+|art=44
+|fth=30
+|civ=30
+|tech=26
+|ss1=Demon Minion DEF +1%
+|ss2=Demon Minion DEF +2%
+|ss3=Demon Minion DEF +3%
+|ss4=Demon Minion DEF +5%
+|ss7=Demon Minion DEF +5%<br>Demon Minion DEF +5% (Awakened)
+|skill1=[[File:Prairiesanctum skill I.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +5%
+}}

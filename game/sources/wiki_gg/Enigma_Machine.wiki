@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Enigma Machine
+|rank=Blue
+|affct=TECH
+|birthday=12-17
+|source=Lottery Machine (0.03%), Wishing (1.1%)
+|description=On Dec 17, 1932, the first advanced encryption machine designed to protect highly confidential secrets was created. 
+
+The Enigma Machine contains an advanced rotor-structured encryption system that has a rotor. When using the Enigma to press the same letter on the keyboard, the machine will scramble the letters to produce a ciphertext that is very hard to read. During WWII, this cipher device was mainly used by Germany. Poland successfully deciphered the ciphertext and transformed it to readable plaintext. The Polish government then shared the deciphering method with Britain and France. The attempt to decipher kept failing until the British Navy obtained the codebook.
+|fame=21
+|art=32
+|fth=27
+|civ=29
+|tech=45
+|ss1=Finish All Daily Tasks 3 times, Snail HP +20<br>All Daily Tasks Completed: 60/60
+|ss2=Finish All Daily Tasks 3 times, Snail HP +40<br>All Daily Tasks Completed: 60/60
+|ss3=Finish All Daily Tasks 3 times, Snail HP +60<br>All Daily Tasks Completed: 60/60
+|ss4=Finish All Daily Tasks 3 times, Snail HP +100<br>All Daily Tasks Completed: 60/60
+|ss7=Finish All Daily Tasks 3 times, Snail HP +100<br>All Daily Tasks Completed: 60/60<br>Snail HP +500 (Awakened)
+|skill1=[[File:Compass skill I.png|50px]]Place in Exploration Compass: Upon traveling through an area, gain +5 INTEL
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:TECH Relics]]
+[[Category:Blue TECH Relics]]
+[[Category:Exploration Compass Boost]]
+[[Category:HP Boost]]
+[[Category:Lucky Voucher Boost]]
+[[Category:Time Machine Boost]]
+[[Category:Keyboard Warrior Boost]]

@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=Night Cat Ears
+|type=Common
+|rank=orange
+|id=10959
+|idx=152
+|description="Every time I see cat ears on the black market, I weep for how many nekomimi were harmed for human fetishes."
+-Neko Protection Manifesto
+|skill=
+|hp=2826
+|def=184
+|atk=190
+|rush=188
+|gene1=Per Apostle dominated, {race} HP +70
+Apostles Dominated: 40/40
+|gene2=Earth RES +90
+|gene3=Upon traveling through a new area:
+> Gain +6 INTEL
+|gene4={race} Earth RES +1.5%
+|gene5=Free Gene Speedup (Demon) +45m
+|gene7=Free Gene Speedup (Demon) +2h 15m (Awakened)
+|}}

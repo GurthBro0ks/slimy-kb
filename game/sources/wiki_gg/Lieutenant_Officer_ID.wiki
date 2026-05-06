@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Lieutenant Officer ID
+|class_id=20224
+|rank=Green
+|affct=FAITH
+|source=
+|description=This is a Rebel Officer's military ID. Ever since the Demon Gods showed up, Earth's Will called on all kinds of resistance armies, including many different species. Some of them held suspicion towards Earth's Will and worked with the Demon Gods instead.
+|fame=20
+|art=16
+|fth=26
+|civ=14
+|tech=14
+|ss1=When you defeat Ex Corps Captain:<br>> Tool Chests gained +40
+|ss2=When you defeat Ex Corps Captain:<br>> Tool Chests gained +80
+|ss3=When you defeat Ex Corps Captain:<br>> Tool Chests gained +120
+|ss4=When you defeat Ex Corps Captain:<br>> Tool Chests gained +120
+|ss7=When you defeat Ex Corps Captain:<br>> Tool Chests gained +120<br> (Awakened)
+}}

@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Spirit of Laws
+|rank=AA
+|affct=FAME
+|birthday=09-19
+|source=Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.35%), Expert Scrolls (0.95%)
+|description=On Sep 19, 1748, Montesquieu published his book on political philosophy for the first time.
+
+Montesquieu spent 20 painstaking years writing his 6-volume collection with 31 chapters. He proposed the Separation of Powers, which suggests running a country by the three independent powers from legislature, executive, and judiciary perspectives. He believed in respecting private property rights, promoting industrialization, and commercialization, reducing taxes, and abolishing slavery. It is the earliest classical masterpiece of public law and has a great impact on modern political science.
+
+[Famous Quotes]
+
+The highest law protects the safety of people. Equality of wealth promotes frugality and vice versa. The law always reflects the feelings and prejudice of legislators. Freedom is the right to everything permitted by the law.
+|fame=70
+|art=44
+|fth=42
+|civ=39
+|tech=33
+|ss1=Quarry upgrade wood cost -2%<br>Quarry upgrade B-tad cost -2%
+|ss2=Quarry upgrade wood cost -3%<br>Quarry upgrade B-tad cost -3%
+|ss3=Quarry upgrade wood cost -4%<br>Quarry upgrade B-tad cost -4%
+|ss4=Quarry upgrade wood cost -6%<br>Quarry upgrade B-tad cost -6%
+|ss5=Quarry upgrade wood cost -8%<br>Quarry upgrade B-tad cost -8%
+|ss7=Quarry upgrade wood cost -8%<br>Quarry upgrade B-tad cost -8%<br>Quarry upgrade B-tad cost -7% (Awakened)
+|skill1=[[File:Bharata skill II.png|50px]] Place in Bharata Museum: In Bharata, B-tads gained +7.5%
+|skill2=[[File:Bharata skill II.png|50px]] Place in Bharata Museum: This Relic's FAME +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FAME Relics]]
+[[Category:Purple FAME Relics]]
+[[Category:Quarry Upgrade Cost Reduction]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Bharata Museum Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:FAME Boost]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Tomb Figure Boost]]

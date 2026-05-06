@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Ramsar Convention
+|class_id=22636
+|rank=SSS
+|affct=FAME
+|birthday=11-10
+|source=
+|description=On Nov 10, 1984, the Ramsar Convention added new protected areas.<br>The Ramsar Convention is the world's first modern international environmental treaty. The convention establishes a basic framework for the conservation and sustainable use of wetland resources, while also encouraging contracting parties to designate Ramsar wetlands within their own territories, which are wetland areas of special environmental importance, biodiversity, or international significance. Through this convention, multiple countries and regions have made significant progress in environmental protection. It not only promotes the conservation and restoration of wetland ecosystems but also lays a solid foundation for subsequent international environmental cooperation.
+|fame=108
+|art=62
+|fth=52
+|civ=73
+|tech=67
+|ss1=Snail Leadership +3<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +48<br>Swamp Protomon: 60/60
+|ss2=Snail Leadership +4<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +64<br>Swamp Protomon: 60/60
+|ss3=Snail Leadership +5<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +80<br>Swamp Protomon: 60/60
+|ss4=Snail Leadership +7<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +112<br>Swamp Protomon: 60/60
+|ss5=Snail Leadership +9<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +144<br>Swamp Protomon: 60/60
+|ss6=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +192<br>Swamp Protomon: 60/60
+|ss7=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 3 Swamp Protomon, Priest-Snail Assistance DMG +192<br>Swamp Protomon: 60/60<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, B-tads gained +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|mirage={{Mirage|name=Kidney of the Earth|reward={{RewardIconWithLink|Mythic Protomon Egg, +1|orange}}
+|3name=Oriental Stork|3rec=160.60M|3atk=448613|3defense=269843|3hp=71086797|3weak=50070
+|4name=Swan|4rec=195.78M|4atk=523442|4defense=319350|4hp=106826928|4weak=57092
+|5name=Giant Salamander|5rec=253.31M|5atk=630503|5defense=390452|5hp=176883706|5weak=62706
+|6name=Eurasian Otter|6rec=365.62M|6atk=784038|6defense=491495|6hp=305376713|6weak=68743
+|Arec=511.99M|Aatk=986052|Adefense=623177|Ahp=502965613|Aweak=74714
+}}}}

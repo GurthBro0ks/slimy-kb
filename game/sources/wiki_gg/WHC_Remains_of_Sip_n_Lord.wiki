@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=729
+|relics=WHC,Remains of Sipán Lord
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 T7+ Mecha Minions in battle:Troop HARD Stats +70
+}}

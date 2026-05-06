@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Bull-headed Bowl
+|class_id=22727
+|rank=SSS
+|affct=CIV
+|birthday=10-07
+|source=
+|description=On Oct 7, 5600 BC, ancient Iranians for the first time depicted a pattern of bull horns on a plate through painting.<br>In the ancient Iranian creation myth, the primordial man used his head to create the sky, his feet to create the earth, his tears to create water, his hair to create plants, his right hand to create cattle, and his intellect to create fire. The man, named Gayomard, placed the cattle alongside the sky, earth, water, plants, and fire. After Gayomard was killed by demons, he left behind his seed, which grew into two plants where it fell. From these plants, the first pair of male and female emerged, who went on to propagate all of humanity. This bull-headed bowl is closely associated with this myth, indicating that the ancient Iranians already had a long history of cattle husbandry, and today, all cattle can be traced back to the Middle East region.
+|fame=82
+|art=65
+|fth=56
+|civ=108
+|tech=51
+|ss1=In Kitchen, Food Stock cap +150<br>Per 60 T7+ Minions in battle:<br>> Troop HP +300<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +30
+|ss2=In Kitchen, Food Stock cap +200<br>Per 60 T7+ Minions in battle:<br>> Troop HP +400<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +40
+|ss3=In Kitchen, Food Stock cap +250<br>Per 60 T7+ Minions in battle:<br>> Troop HP +500<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +50
+|ss4=In Kitchen, Food Stock cap +350<br>Per 60 T7+ Minions in battle:<br>> Troop HP +700<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +70
+|ss5=In Kitchen, Food Stock cap +450<br>Per 60 T7+ Minions in battle:<br>> Troop HP +900<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +90
+|ss6=In Kitchen, Food Stock cap +600<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120
+|ss7=In Kitchen, Food Stock cap +600<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1000 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop Earth DMG +30
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion ATK +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop Fire DMG +30
+|mirage={{Mirage|name=The Beginning of Farming|reward={{RewardIconWithLink|Supply Deal, +10|orange}}
+|3name=Gayomard|3rec=190.31M|3atk=511813|3defense=311653|3hp=102055173|3weak=56407
+|4name=Demon Ahriman|4rec=240.97M|4atk=613769|4defense=379358|4hp=167722468|4weak=61922
+|5name=Masha and Mashani|5rec=349.32M|5atk=761638|5defense=476832|5hp=290169122|5weak=67956
+|6name=Divine Ox Gomaya|6rec=490.94M|6atk=956826|6defense=604239|6hp=483889029|6weak=73937
+|Arec=669.27M|Aatk=1209350|Adefense=767295|Ahp=721552630|Aweak=79878
+}}}}

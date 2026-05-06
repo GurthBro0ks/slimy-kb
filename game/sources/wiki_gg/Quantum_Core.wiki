@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Quantum Core
+|type=Bionic
+|rank=purple
+|id=10667
+|idx=24
+|description="The AI core of the future world achieves FTL data transfer and real-time computation through quantum entanglement, unlocking unparalleled combat capabilities."
+—Skynet Surveillance Log
+|skill=When attacked by the enemy, activate the Quantum Barrier, reducing DMG by 18% of the enemy's ATK!
+|hp=1238
+|def=198
+|atk=179
+|rush=131
+|gene1=In Gene Sims, Wind DMG +120
+|gene2=Per 5 Apostles defeated, {race} DEF +40
+Apostles Defeated: 15/15
+|gene3=All ELMT RES +20
+|gene4=CRIT DMG REDUC +5%
+|gene7=All ELMT RES +60 (Awakened)
+|}}

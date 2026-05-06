@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Fu Hao Scripts
+|rank=SS
+|affct=CIV
+|birthday=12-07
+|source=Fragment Crafting (4.1%), Grandmaster Scrolls (1.5%), Lottery Machine (0.18%), Wishing (0.15%)
+|description=On Dec 7, 1245 BC, Fu Hao died of illness and was buried together with turtle texts, which recorded her achievements.
+
+Fu Hao, a famous female general in Shang Dynasty. In the existing turtle texts, her name appears over two hundred times alone from the 10,000 turtle texts unearthed in Anyang Yin Xu Ruins. In her conquests of nearby states, Fu Hao was the general commanded multiple military operations and achieving great exploits in Shang's expansion. She was also assigned to host worship ceremonies. Fu Hao died young in her 30s. She was buried alone in a massive tomb, and grand ceremonies were held to commemorate her.
+|fame=61
+|art=48
+|fth=63
+|civ=105
+|tech=70
+|ss1=In explorations, 2x Blue Card Drops +0.8%<br>In explorations, 2x Purple Card Drops +0.8%<br>Per 400 Value Points, Snail RUSH +3<br>Value Points: 4,000/4,000
+|ss2=In explorations, 2x Blue Card Drops +1.2%<br>In explorations, 2x Purple Card Drops +1.2%<br>Per 400 Value Points, Snail RUSH +3<br>Value Points: 6,000/6,000
+|ss3=In explorations, 2x Blue Card Drops +1.6%<br>In explorations, 2x Purple Card Drops +1.6%<br>Per 400 Value Points, Snail RUSH +3<br>Value Points: 8,000/8,000
+|ss4=In explorations, 2x Blue Card Drops +2.4%<br>In explorations, 2x Purple Card Drops +2.4%<br>Per 400 Value Points, Snail RUSH +3<br>Value Points: 12,000/12,000
+|ss5=In explorations, 2x Blue Card Drops +3.2%<br>In explorations, 2x Purple Card Drops +3.2%<br>Per 400 Value Points, Snail RUSH +3<br>Value Points: 16,000/16,000
+|ss6=In explorations, 2x Blue Card Drops +4.4%<br>In explorations, 2x Purple Card Drops +4.4%<br>Per 400 Value Points, Snail RUSH +3<br>Value Points: 22,000/22,000
+|ss7=In explorations, 2x Blue Card Drops +4.4%<br>In explorations, 2x Purple Card Drops +4.4%<br>Per 400 Value Points, Snail RUSH +3<br>Value Points: 22,000/22,000 <br>In explorations, 2x Purple Card Drops +4% (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x Food Drops +15%
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, INTEL gained +15%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail DEF +600
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Exploration Card Drop Boost]]
+[[Category:RUSH Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:Exploration Food Drop Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:DEF Boost]]
+[[Category:Minion DEF Boost]]
+[[Category:Zombie Gene Speedup Boost]]

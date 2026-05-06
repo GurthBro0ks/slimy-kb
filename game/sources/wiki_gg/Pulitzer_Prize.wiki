@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Pulitzer Prize
+|class_id=22790
+|rank=SSS
+|affct=FAME
+|source=
+|description=The Pulitzer Prize is one of the world's most prestigious and respected awards in journalism, literature, and music composition, proposed by American newspaper magnate Joseph Pulitzer. The Pulitzer Prize aims to recognize individuals or groups who have made outstanding contributions in the fields of journalism, literary creation, and music composition. Each spring, Columbia University announces the list of Pulitzer Prize winners and holds an award ceremony within the following month. Today, the Pulitzer Prize is regarded as the highest honor in the relevant fields, often referred to as the Nobel Prize of journalism.
+|fame=108
+|art=60
+|fth=54
+|civ=67
+|tech=73
+|ss1=Snail Leadership +3<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +4<br>Per 5 FAME Relics awakened, Snail ATK +9<br>FAME Relics Awakened: 100/100
+|ss2=Snail Leadership +4<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +8<br>Per 5 FAME Relics awakened, Snail ATK +12<br>FAME Relics Awakened: 100/100
+|ss3=Snail Leadership +5<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +12<br>Per 5 FAME Relics awakened, Snail ATK +15<br>FAME Relics Awakened: 100/100
+|ss4=Snail Leadership +7<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +20<br>Per 5 FAME Relics awakened, Snail ATK +21<br>FAME Relics Awakened: 100/100
+|ss5=Snail Leadership +9<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +28<br>Per 5 FAME Relics awakened, Snail ATK +27<br>FAME Relics Awakened: 100/100
+|ss6=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40<br>Per 5 FAME Relics awakened, Snail ATK +36<br>FAME Relics Awakened: 100/100
+|ss7=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40<br>Per 5 FAME Relics awakened, Snail ATK +36<br>FAME Relics Awakened: 100/100<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's FAME +15
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Card Drops +15%
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x B-tad Drops +15%
+}}

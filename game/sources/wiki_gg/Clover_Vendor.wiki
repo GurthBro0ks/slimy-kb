@@ -1,0 +1,114 @@
+[[File:Clover Vender.png|300px|left]]
+
+==Clover Vendor Info==
+The Lucky Clover event occurs during the [[Alchemy_Furnace#Weekly_Wishing_Event|Wish Week]] event.
+# Use lucky Coins to draw random Rewards.
+# For every Lucky Coin used, Luck +1. The higher you Luck, the better the chance at hitting the jackpot.
+# When your Luck reaches 150, you are guaranteed the grand prize. Upon hitting the jackpot, your Luck will be reset.
+# Your Lucky Coins and Luck roll over to the next Clover Vendor event.
+==Lucky Box Reward==
+The Lucky Box can be refreshed when all the current rewards are claimed!<br>
+[[File:Lucky Box Reward.jpeg|200px]]Robot Ticket x10, [[Energy Missile]] Frag x40, Relic RF x60
+{{clear}}
+==Lucky Gift==
+How to earn more Lucky Coins.
+
+===Wishmaking Bonus===
+Make wishes to win rewards in the event!
+{|class="wikitable mw-collapsible mw-collapsed
+!Wishes
+!Lucky Coins
+|-
+|30
+|5
+|-
+|60
+|5
+|-
+|90
+|5
+|-
+|120
+|5
+|-
+|150
+|5
+|-
+|180
+|5
+|-
+|210
+|5
+|-
+|240
+|5
+|-
+|270
+|5
+|-
+|300
+|5
+|}
+
+===Arcane Point Gift===
+For each Mystery Ash obtained, point +1!
+{|class="wikitable mw-collapsible mw-collapsed
+!Arcane Point
+!Lucky Coins
+|-
+|1,000
+|1
+|-
+|2,000
+|1
+|-
+|3,000
+|1
+|-
+|4,000
+|2
+|-
+|5,000
+|2
+|-
+|6,000
+|2
+|-
+|7,000
+|3
+|-
+|8,000
+|3
+|-
+|9,000
+|4
+|-
+|10,000
+|4
+|}
+
+==Buy Lucky Coin==
+{|class=wikitable
+!Price
+!Rewards
+!Times Available
+|-
+|300 Taichi Fish
+|Lucky Coin x1
+|5
+|-
+|$9.99
+|Lucky Coin x6
+|3
+|-
+|$19.99
+|Lucky Coin x12
+|1
+|-
+|$49.99
+|Lucky Coin x30
+|1
+|}
+
+[[Category:Alchemy Furnace]]
+[[Category:Events]]

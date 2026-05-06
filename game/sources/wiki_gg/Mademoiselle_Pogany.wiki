@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Mademoiselle Pogany
+|class_id=22432
+|rank=Blue
+|affct=ART
+|birthday=02-20
+|source=Lottery Machine No.3 (0.03%)
+|description=On Feb 20, 1920 AD, Brancusi completed his famous work, Mademoiselle Pogany.<br>This sculpture is the work of modernist sculptor Brancusi. He used the female painter Pogany as the model, extracted the characteristic elements of her appearance, and then exaggerated them, creating this highly simplified and abstract sculpture and establishing his position in art history.
+|fame=21
+|art=48
+|fth=26
+|civ=33
+|tech=26
+|ss1=Per 5 Mythic Protodex Stars, Snail DEF +3<br>Mythic Protodex Stars: 100/100
+|ss2=Per 5 Mythic Protodex Stars, Snail DEF +6<br>Mythic Protodex Stars: 100/100
+|ss3=Per 5 Mythic Protodex Stars, Snail DEF +9<br>Mythic Protodex Stars: 100/100
+|ss4=Per 5 Mythic Protodex Stars, Snail DEF +15<br>Mythic Protodex Stars: 100/100
+|ss7=Per 5 Mythic Protodex Stars, Snail DEF +15<br>Mythic Protodex Stars: 100/100<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Quantumamp  skill I.png|50px]]Place in a Quantum Amp: Quantum Amp production +2.5%
+}}

@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Lotus Prosthetic
+|type=Common
+|rank=orange
+|id=10878
+|idx=85
+|description=When the demon lord led 100,000 apostles against the heavens, the Third Prince stood his ground alone. His arm—crafted from sacred lotus root—was severed in battle and fell to the mortal realm, still pulsing with divine energy. It’s said that, simmered properly, it makes a rather yummy soup.
+|skill=
+|hp=1860
+|def=195
+|atk=147
+|rush=316
+|gene1=Per 20 Wonder Fungi used, {race} RUSH +70
+Wonder Fungi Eaten: 60/60
+|gene2=B-tads from feeding the Maneater +6%
+|gene3=Feed the Maneater, obtain Organ Slimes +6%
+|gene4=Snail Arena, enemy Lifesteal -30%
+|gene5=Species War Cabin, deployable robots +3
+|gene7=Species War Cabin, deployable robots +9 (Awakened)
+|}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=451
+|relics=V8 Engine,San Plate,Nugget Awards,Phial of Galadrial,Letters for Josephine,Helmholtz Coil
+|rank=purple
+|amount=6
+|category=self
+|description=Snail Leadership +10
+}}

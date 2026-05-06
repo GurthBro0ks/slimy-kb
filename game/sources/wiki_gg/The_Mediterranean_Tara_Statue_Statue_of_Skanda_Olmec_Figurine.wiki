@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=640
+|relics=The Mediterranean,Tara Statue,Statue of Skanda,Olmec Figurine
+|rank=blue
+|amount=4
+|category=self
+|description=Per Tribal Chief defeated, Snail ATK +7;Tribal Chiefs Defeated: 50/50
+}}

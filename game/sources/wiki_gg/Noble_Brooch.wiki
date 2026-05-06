@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Noble Brooch
+|class_id=20018
+|rank=Green
+|affct=ART
+|source=
+|description=This brooch once belonged to a nobleman whose ancestor was a Count of the House of Habsburg. The Countess had a large number of precious jewelry, including thousands of brooches which were enough for future generations to live on for decades!
+|fame=14
+|art=28
+|fth=20
+|civ=12
+|tech=16
+|ss1=Per 1k Tadpole Points, Snail DEF +1<br>Tadpole Points: 20000/20000
+|ss2=Per 1k Tadpole Points, Snail DEF +2<br>Tadpole Points: 20000/20000
+|ss3=Per 1k Tadpole Points, Snail DEF +3<br>Tadpole Points: 20000/20000
+|ss4=Per 1k Tadpole Points, Snail DEF +3<br>Tadpole Points: 20000/20000
+|ss7=Per 1k Tadpole Points, Snail DEF +3<br>Tadpole Points: 20000/20000<br> (Awakened)
+}}

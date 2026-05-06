@@ -1,0 +1,34 @@
+{{CargoRelic
+|name=Corinthian Pillar
+|rank=AAA
+|affct=FTH
+|birthday=08-30
+|source=Fragment Crafting (1.5%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)
+|description=On Aug 30, 86 BC, this Greek Corinthian Pillar was officially used in architecture. 
+
+It first appeared in the Temple of Zeus. Roman commander Sulla captured Athens, destroyed the unfinished building, and transported it to Rome, which is now the Roman Forum. This column is narrower than the Ionian column, and the top is decorated with renoncule leaves, in the shape of a flower basket. It stands in front of the Temple of Zeus.
+
+[Basic Info]
+
+Status: One of the three pillars of classical architecture<br>Inventor: Callimachus<br>Form: Narrower, with the top decorated with renoncule leaves<br>Height: 17.25 m<br>Diameter: 1.3 m
+|fame=31
+|art=45
+|fth=75
+|civ=49
+|tech=43
+|ss1=Demon Gene Research B-tad Cost -1.8%<br>Demon Gene Research Cells consumed -1.8%
+|ss2=Demon Gene Research B-tad Cost -2.4%<br>Demon Gene Research Cells consumed -2.4%
+|ss3=Demon Gene Research B-tad Cost -3%<br>Demon Gene Research Cells consumed -3%
+|ss4=Demon Gene Research B-tad Cost -4.2%<br>Demon Gene Research Cells consumed -4.2%
+|ss5=Demon Gene Research B-tad Cost -5.4%<br>Demon Gene Research Cells consumed -5.4%
+|ss7=Demon Gene Research B-tad Cost -5.4%<br>Demon Gene Research Cells consumed -5.4%<br>Demon Gene Research B-tad Cost -4.2% (Awakened)
+|skill1=[[File:Quarry skill II.png|50px]] Place in Quarry: Quarry Max Cap +15%
+|skill2=[[File:Quarry skill II.png|50px]] Place in Quarry: This Relic's FTH +10
+}}
+
+[[Category:Demon Gene Cost Reduction]]
+[[Category:Quarry Skill]]
+[[Category:Quarry Output Boost]]
+[[Category:FTH Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Lottery Bead Color Change]]

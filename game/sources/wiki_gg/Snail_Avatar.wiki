@@ -1,0 +1,1595 @@
+[[File:Avatars img 1.png]]
+[[File:Avatars img 2.png]]
+[[File:Avatars img 3.png]]
+
+==Basic Info==
+Once you begin playing, you will have basic access to some Avatars that can be purchsed to boost your stats. Initially, only the "Individual Form Avatar" album is available. Avatars in this album can be obtained (almost) exclusively by raising the Tier of your Forms through [[Evolution]] and obtaining [[Nursery|Minions]].
+
+After [[Leeku]] reaches 1 heart of friendship, she will award Makeup Box which, on use, unlocks the rest of the albums. Once available, each album can be obtained by first having the necessary overall Avatar Score and then by purchasing with {{RewardIconWithText|W-Tad}}. Purchasing avatars within each album will raise your Total Avatar Score and the Rating of that particular Album. Each Album provides a different category of buffs, and as the rating improves, so does that category. Once S+ rank is reached for that album, you will obtain a certain unique green relic. Once the Total Avatar Score reaches a certain amount, there are other unique green relics that will be obtained.
+
+Avatars can only be purchased if 
+#The album it is in has been unlocked and activated
+#The character that avatar represents has been defeated by the snail
+#The avatar is purchased with {{RewardIconWithText|Toner}} and {{RewardIconWithText|B-Tad}}/{{RewardIconWithText|W-Tad}}
+
+ '''Important Note''': All unlocked and activated avatars always contribute to your total avatar score, rating, and buffs. It doesn't matter what avatar you have currently equipped; the avatar you have equipped is a purely aesthetic choice
+
+{|class="wikitable"
+!Total Score!!Relic gained
+|-
+|5,000||{{RewardIconWithLink|Golden Berry Award|green}}
+|-
+|15,000||{{RewardIconWithLink|Teddy Bear Award|green}}
+|-
+|20,000||{{RewardIconWithLink|Acupuncture Figure|green}}
+|-
+|30,000||{{RewardIconWithLink|Yamato Grand Prize|green}}
+|-
+|Exploration Avatar Rating S+||{{RewardIconWithLink|Amy Award|green}}
+|-
+|Form Avatar Rating S+||{{RewardIconWithLink|Pusan Film Award|green}}
+|-
+|Event Avatar Rating S+||{{RewardIconWithLink|Tukyo Film Award|green}}
+|-
+|Visitor Avatar Rating S+||{{RewardIconWithLink|Golden Leaf Award|green}}
+|-
+|Facility Avatar Rating S+||{{RewardIconWithLink|Standing Bear Award|green}}
+|-
+|Mirage Avatar Rating S+||{{RewardIconWithLink|Golden Beast Award|green}}
+|-
+|Domain Avatar Rating S+||{{RewardIconWithLink|Golden Ball Award|green}}
+|-
+|Species Avatar Rating S+||{{RewardIconWithLink|Krystal Ball Award|green}}
+|-
+|Relic Avatar Rating S+||{{RewardIconWithLink|Britland Academy Award|green}}
+|-
+|Time Apostle Avatar Rating S+||{{RewardIconWithLink|Golden Horse Award|green}}
+|-
+|Mirage II Avatar Rating S+||{{RewardIconWithLink|Leopard Award|green}}
+|-
+|Tribal Warfare Avatar Rating S+||{{RewardIconWithLink|PUFF Award|green}}
+|-
+|Protomon Avatar Rating S+||{{RewardIconWithLink|Tiger Award|green}}
+|-
+|Time Rift Relic Avatar Rating S+||{{RewardIconWithLink|Caesar Award|green}}
+|-
+|Mirage III Avatar Rating S+||{{RewardIconWithLink|St. George Award|green}}
+|-
+|Relic III Avatar Rating S+||{{RewardIconWithLink|Peacock Award|green}}
+|}
+
+==Individual Form Avatar==
+ '''Available''' From the beginning
+ '''Costs''' Free
+ '''Boosts''' Increases Snail AFFCT Stats; Increases Snail HARD Stats
+ '''Avatars originate from''' [[Evolution]] upgrades and obtaining [[Nursery|Minions]]
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 3k {{RewardIconWithText|B-Tad}}
+
+{|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Pusan Film Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|Snail FAME +30||30
+|-
+|Snail ART +30||60
+|-
+|Snail FTH +30||90
+|-
+|Snail CIV +30||120
+|-
+|Snail TECH +30||150
+|-
+|Snail HP +300||180
+|-
+|Snail ATK +30||210
+|-
+|Snail DEF +30||240
+|-
+|Snail RUSH +30||270
+|-
+|colspan="3"|B
+|-
+|Snail FAME +40||330
+|-
+|Snail ART +40||390
+|-
+|Snail FTH +40||450
+|-
+|Snail CIV +40||510
+|-
+|Snail TECH +40||570
+|-
+|Snail HP +600||630
+|-
+|Snail ATK +60||690
+|-
+|Snail DEF +60||750
+|-
+|Snail RUSH +60||810
+|-
+|colspan="3"|A
+|-
+|Snail FAME +50||900
+|-
+|Snail ART +50||990
+|-
+|Snail FTH +50||1,080
+|-
+|Snail CIV +50||1,170
+|-
+|Snail TECH +50||1,260
+|-
+|Snail HP +1,500||1,350
+|-
+|Snail ATK +150||1,440
+|-
+|Snail DEF +150||1,530
+|-
+|Snail RUSH +150||1,620
+|-
+|colspan="3"|S
+|-
+|Snail FAME +60||1,800
+|-
+|Snail ART +60||1,950
+|-
+|Snail FTH +60||2,100
+|-
+|Snail CIV +60||2,250
+|-
+|Snail TECH +60||2,400
+|-
+|Snail HP +3,000||2,550
+|-
+|Snail ATK +300||2,700
+|-
+|Snail DEF +300||2,850
+|-
+|Snail RUSH +300||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Pusan Film Award|green}}||3,600
+|}
+
+==Event Avatar==
+ '''Available''' From the beginning
+ '''Costs''' Free
+ '''Boosts''' Gain Gene Speedup; Decreases Gene Research Cost; Increases Gene Research SPD
+ '''Avatars originate from''' [[Weekly Events|Special Events]]
+ '''Each avatar costs''' Awarded by events
+
+{|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Tukyo Film Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|Free Gene Speedup (Zombie) +2m||30
+|-
+|Free Gene Speedup (Demon) +2m||60
+|-
+|Free Gene Speedup (Angel) +2m||90
+|-
+|Free Gene Speedup (Mutant) +2m||120
+|-
+|Free Gene Speedup (Mecha) +2m||150
+|-
+|Free Gene Speedup (Dragon) +2m||180
+|-
+|For all Gene Research, B-tad Cost -0.5%||210
+|-
+|All Gene Research Cell Cost -0.5%||240
+|-
+|All Gene Research SPD +0.5%||270
+|-
+|colspan="3"|B
+|-
+|Free Gene Speedup (Zombie) +4m||330
+|-
+|Free Gene Speedup (Demon) +4m||390
+|-
+|Free Gene Speedup (Angel) +4m||450
+|-
+|Free Gene Speedup (Mutant) +4m||510
+|-
+|Free Gene Speedup (Mecha) +4m||570
+|-
+|Free Gene Speedup (Dragon) +4m||630
+|-
+|For all Gene Research, B-tad Cost -1%||690
+|-
+|All Gene Research Cell Cost -1%||750
+|-
+|All Gene Research SPD +1%||810
+|-
+|colspan="3"|A
+|-
+|Free Gene Speedup (Zombie) +6m||900
+|-
+|Free Gene Speedup (Demon) +6m||990
+|-
+|Free Gene Speedup (Angel) +6m||1,080
+|-
+|Free Gene Speedup (Mutant) +6m||1,170
+|-
+|Free Gene Speedup (Mecha) +6m||1,260
+|-
+|Free Gene Speedup (Dragon) +6m||1,350
+|-
+|For all Gene Research, B-tad Cost -1.5%||1,440
+|-
+|All Gene Research Cell Cost -1.5%||1,530
+|-
+|All Gene Research SPD +1.5%||1,620
+|-
+|colspan="3"|S
+|-
+|Free Gene Speedup (Zombie) +8m||1,800
+|-
+|Free Gene Speedup (Demon) +8m||1,950
+|-
+|Free Gene Speedup (Angel) +8m||2,100
+|-
+|Free Gene Speedup (Mutant) +8m||2,250
+|-
+|Free Gene Speedup (Mecha) +8m||2,400
+|-
+|Free Gene Speedup (Dragon) +8m||2,550
+|-
+|For all Gene Research, B-tad Cost -2%||2,850
+|-
+|All Gene Research Cell Cost -2%||2,850
+|-
+|All Gene Research SPD +2%||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Tukyo Film Award|green}}||3,600
+|}
+
+==Apostle Avatar==
+ '''Available''' >= 60 Total Avatar Score
+ '''Costs''' 100 {{RewardIconWithText|W-Tad}}
+ '''Boosts''' In exploration: Increases INTEL Gained; Increases B-tads Gained; Increases Snail HARD Stats; Decreases Food Consumed; Decreases AFFCT Checks; Increases Card Drops
+ '''Avatars originate from''' Defeating Apostles and their Minions (see each of the [[Realms]])
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 3k {{RewardIconWithText|B-Tad}}
+
+{|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Amy Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|When exploring, INTEL gained +1%||30
+|-
+|When exploring, B-tads gained +1%||60
+|-
+|In any Realm, Snail HP +400||90
+|-
+|In any Realm, Snail ATK +40||120
+|-
+|In any Realm, food consumed -1%||150
+|-
+|In any Realm, AFFCT Checks -50||180
+|-
+|In any Realm, Snail DEF +40||210
+|-
+|In any Realm, Snail RUSH +40||240
+|-
+|In any Realm, 2x Card Drops +1%||270
+|-
+|colspan="3"|B
+|-
+|When exploring, INTEL gained +2%||330
+|-
+|When exploring, B-tads gianed +2%||390
+|-
+|In any Realm, Snail HP +800||450
+|-
+|In any Realm, Snail ATK +80||510
+|-
+|In any Realm, food consumed -1%||570
+|-
+|In any Realm, AFFCT Checks -100||630
+|-
+|In any Realm, Snail DEF +80||690
+|-
+|In any Realm, Snail RUSH +80||750
+|-
+|In any Realm, 2x Card Drops +2%||810
+|-
+|colspan="3"|A
+|-
+|When exploring, INTEL gained +3%||900
+|-
+|When exploring, B-tads gained +3%||990
+|-
+|In any Realm, Snail HP +2,000||1,080
+|-
+|In any Realm, Snail ATK +200||1,170
+|-
+|In any Realm, food consumed -1%||1,260
+|-
+|In any Realm, AFFCT Checks -150||1,350
+|-
+|In any Realm, Snail DEF +200||1,440
+|-
+|In any Realm, Snail RUSH +200||1,530
+|-
+|In any Realm, 2x Card Drops +3%||1,620
+|-
+|colspan="3"|S
+|-
+|When exploring, INTEL gained +4%||1,800
+|-
+|When exploring, B-tads gained +4%||1,950
+|-
+|In any Realm, Snail HP +4,000||2,100
+|-
+|In any Realm, Snail ATK +400||2,250
+|-
+|In any Realm, food consumed -1%||2,400
+|-
+|In any Realm, AFFCT Checks -200||2,550
+|-
+|In any Realm, Snail DEF +400||2,700
+|-
+|In any Realm, Snail RUSH +400||2,850
+|-
+|In any Realm, 2x Card Drops +4%||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Amy Award|green}}||3,600
+|}
+
+==Visitor Avatar==
+ '''Available''' >= 300 Total Avatar Score
+ '''Costs''' 500 {{RewardIconWithText|W-Tad}}
+ '''Boosts''' Against Daily Hitmen: Decreases AFFCT Checks; Increases DMG REDUC; Increases Snail HARD Stats; Increases Dropped Rewards
+ '''Avatars originate from''' Defeating [[Hitmen]], [[Mailbox|Invaders]] from Mailbox encounters, and completing special [[Incense]] events
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 3k {{RewardIconWithText|B-Tad}}
+
+{|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Golden Leaf Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|Against Daily Hitmen, AFFCT Checks -30||30
+|-
+|Against Daily Hitmen, DMG REDUC +0.5%||60
+|-
+|Against Daily Hitmen, Snail HP +400||90
+|-
+|Against Daily Hitmen, Snail ATK +40||120
+|-
+|Defeated Daily Hitmen drop +2 W-tads||150
+|-
+|Hitmen drop +1 more Demon Chests||180
+|-
+|Against Daily Hitmen, Snail DEF +40||210
+|-
+|Against Daily Hitmen, Snail RUSH +40||240
+|-
+|Hitmen Drop 2x Lottery Tickets by +1%||270
+|-
+|colspan="3"|B
+|-
+|Against Daily Hitmen, AFFCT Checks -40||330
+|-
+|Against Daily Hitmen, DMG REDUC +1%||390
+|-
+|Against Daily Hitmen, Snail HP +800||450
+|-
+|Against Daily Hitmen, Snail ATK +80||510
+|-
+|Defeated Daily Hitmen drop +4 W-tads||570
+|-
+|Hitmen drop +2 more Demon Chests||630
+|-
+|Against Daily Hitmen, Snail DEF +80||690
+|-
+|Against Daily Hitmen, Snail RUSH +80||750
+|-
+|Hitmen Drop 2x Lottery Tickets by +2%||810
+|-
+|colspan="3"|A
+|-
+|Against Daily Hitmen, AFFCT Checks -50||900
+|-
+|Against Daily Hitmen, DMG REDUC +1.5%||990
+|-
+|Against Daily Hitmen, Snail HP +2000||1,080
+|-
+|Against Daily Hitmen, Snail ATK +200||1,170
+|-
+|Defeated Daily Hitmen drop +6 W-tads||1,260
+|-
+|Hitmen drop +3 more Demon Chests||1,350
+|-
+|Against Daily Hitmen, Snail DEF +200||1,440
+|-
+|Against Daily Hitmen, Snail RUSH +200||1,530
+|-
+|Hitmen Drop 2x Lottery Tickets by +3%||1,620
+|-
+|colspan="3"|S
+|-
+|Against Daily Hitmen, AFFCT Checks -60||1,800
+|-
+|Against Daily Hitmen, DMG REDUC +2%||1,950
+|-
+|Against Daily Hitmen, Snail HP +4000||2,100
+|-
+|Against Daily Hitmen, Snail ATK +400||2,250
+|-
+|Defeated Daily Hitmen drop +8 W-tads||2,400
+|-
+|Hitmen drop +4 more Demon Chests||2,550
+|-
+|Against Daily Hitmen, Snail DEF +400||2,700
+|-
+|Against Daily Hitmen, Snail RUSH +400||2,850
+|-
+|Hitmen Drop 2x Lottery Tickets by +4%||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Golden Leaf Award|green}}||3,600
+|}
+
+==Home Facility Avatar==
+ '''Available''' >= 900 Total Avatar Score
+ '''Costs''' 1k {{RewardIconWithText|W-Tad}}
+ '''Boosts''' In the Fissure: Increases DMG; Increases ELMT RES; Decreases AFFCT Checks; Increases Ancient Coin gained during drilling; Increaes Snail HARD Stats
+ '''Avatars originate from''' Defeating [[Fissure]] enemies and completing [[Gene Simulation]]s
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 30 {{RewardIconWithText|W-Tad}}
+
+ {|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Standing Bear Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|In the Fissure, DMG +1%||30
+|-
+|In the Fissure, ELMT RES +1%||60
+|-
+|In the Fissure, AFFCT Checks -50||90
+|-
+|From Drill Rig, Ancient Coin Gained +10||120
+|-
+|In the Fissure, Snail HP +400||150
+|-
+|In the Fissure, Snail ATK +40||180
+|-
+|In the Fissure, Snail DEF +40||210
+|-
+|In the Fissure, Snail RUSH +40||240
+|-
+|From Drill Rig, Ancient Coin gained +20||270
+|-
+|colspan="3"|B
+|-
+|In the Fissure, DMG +2%||330
+|-
+|In the Fissure, ELMT RES +2%||390
+|-
+|In the Fissure, AFFCT Checks -100||450
+|-
+|From Drill Rig, Ancient Coin Gained +30||510
+|-
+|In the Fissure, Snail HP +800||570
+|-
+|In the Fissure, Snail ATK +80||630
+|-
+|In the Fissure, Snail DEF +80||690
+|-
+|In the Fissure, Snail RUSH +80||750
+|-
+|From Drill Rig, Ancient Coin gained +40||810
+|-
+|colspan="3"|A
+|-
+|In the Fissure, DMG +3%||900
+|-
+|In the Fissure, ELMT RES +3%||990
+|-
+|In the Fissure, AFFCT Checks -150||1,080
+|-
+|From Drill Rig, Ancient Coin Gained +50||1,170
+|-
+|In the Fissure, Snail HP +2000||1,260
+|-
+|In the Fissure, Snail ATK +200||1,350
+|-
+|In the Fissure, Snail DEF +200||1,440
+|-
+|In the Fissure, Snail RUSH +200||1,530
+|-
+|From Drill Rig, Ancient Coin gained +60||1,620
+|-
+|colspan="3"|S
+|-
+|In the Fissure, DMG +4%||1,800
+|-
+|In the Fissure, ELMT RES +4%||1,950
+|-
+|In the Fissure, AFFCT Checks -200||2,100
+|-
+|From Drill Rig, Ancient Coin Gained +70||2,250
+|-
+|In the Fissure, Snail HP +4000||2,400
+|-
+|In the Fissure, Snail ATK +400||2,550
+|-
+|In the Fissure, Snail DEF +400||2,700
+|-
+|In the Fissure, Snail RUSH +400||2,850
+|-
+|From Drill Rig, Ancient Coin gained +80||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Standing Bear Award|green}}||3,600
+|}
+
+==Mirage I Avatar==
+ '''Available''' >= 3,000 Total Avatar Score
+ '''Costs''' 1.5k {{RewardIconWithText|W-Tad}}
+ '''Boosts''' For Building Upgrades: Decreases All Costs and Increases All Outputs
+ '''Avatars originate from''' Defeating Mirage enemies from each of the {{Relink|Orange Relics|orange|Relics}}
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 30 {{RewardIconWithText|W-Tad}}
+
+ {|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Golden Beast Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|B-tad Cost for all building upgrades -1%||30
+|-
+|All Building upgrade Stone Cost -1%||60
+|-
+|All Building upgrade Wood Cost -1%||90
+|-
+|Tadpole Pond B-tad Output +2%||120
+|-
+|Fungus Farm Output +2%||150
+|-
+|Time Machine Travel Speedup Output +2%||180
+|-
+|Quarry Output +2%||210
+|-
+|Lumber Camp Output +2%||240
+|-
+|Home Facility Resource Max Cap +4%||270
+|-
+|colspan="3"|B
+|-
+|B-tad Cost for all building upgrades -2%||330
+|-
+|All Building upgrade Stone Cost -2%||390
+|-
+|All Building upgrade Wood Cost -2%||450
+|-
+|Tadpole Pond B-tad Output +4%||510
+|-
+|Fungus Farm Output +4%||570
+|-
+|Time Machine Travel Speedup Output +4%||630
+|-
+|Quarry Output +4%||690
+|-
+|Lumber Camp Output +4%||750
+|-
+|Home Facility Resource Max Cap +8%||810
+|-
+|colspan="3"|A
+|-
+|B-tad Cost for all building upgrades -3%||900
+|-
+|All Building upgrade Stone Cost -3%||990
+|-
+|All Building upgrade Wood Cost -3%||1,080
+|-
+|Tadpole Pond B-tad Output +6%||1,170
+|-
+|Fungus Farm Output +6%||1,260
+|-
+|Time Machine Travel Speedup Output +6%||1,350
+|-
+|Quarry Output +6%||1,440
+|-
+|Lumber Camp Output +6%||1,530
+|-
+|Home Facility Resource Max Cap +12%||1,620
+|-
+|colspan="3"|S
+|-
+|B-tad Cost for all building upgrades -4%||1,800
+|-
+|All Building upgrade Stone Cost -4%||1,950
+|-
+|All Building upgrade Wood Cost -4%||2,100
+|-
+|Tadpole Pond B-tad Output +8%||2,250
+|-
+|Fungus Farm Output +8%||2,400
+|-
+|Time Machine Travel Speedup Output +8%||2,550
+|-
+|Quarry Output +8%||2,700
+|-
+|Lumber Camp Output +8%||2,850
+|-
+|Home Facility Resource Max Cap +16%||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Golden Beast Award|green}}||3,600
+|}
+
+==Domain War Avatar==
+ '''Available''' >= 6,000 Total Avatar Score
+ '''Costs''' 2k {{RewardIconWithText|W-Tad}}
+ '''Boosts''' In Domain Wars: Increases each Minions HARD Stats; Decreases AFFCT Checks; Increases Snail HARD Stats; Increases Troop DMG
+ '''Avatars originate from''' Defeating enemies within each [[Domain]]
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 30 {{RewardIconWithText|W-Tad}}
+
+ {|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Golden Ball Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|In Domain Wars, Zombie Minion HARD Stats +1%||30
+|-
+|In Domain Wars, Demon Minion HARD Stats +1%||60
+|-
+|In Domain Wars, Angel Minion HARD Stats +1%||90
+|-
+|In Domain Wars, Mutant Minion HARD Stats +1%||120
+|-
+|In Domain Wars, Mecha Minion HARD Stats +1%||150
+|-
+|In Domain Wars, Dragon Minion HARD Stats +1%||180
+|-
+|In Domains, AFFCT Checks -50||210
+|-
+|In Domain Wars, Snail HARD Stats +1%||240
+|-
+|Troop DMG +1%||270
+|-
+|colspan="3"|B
+|-
+|In Domain Wars, Zombie Minion HARD Stats +1%||330
+|-
+|In Domain Wars, Demon Minion HARD Stats +1%||390
+|-
+|In Domain Wars, Angel Minion HARD Stats +1%||450
+|-
+|In Domain Wars, Mutant Minion HARD Stats +1%||510
+|-
+|In Domain Wars, Mecha Minion HARD Stats +1%||570
+|-
+|In Domain Wars, Dragon Minion HARD Stats +1%||630
+|-
+|In Domains, AFFCT Checks -100||690
+|-
+|In Domain Wars, Snail HARD Stats +1%||750
+|-
+|Troop DMG +1%||810
+|-
+|colspan="3"|A
+|-
+|In Domain Wars, Zombie Minion HARD Stats +1%||900
+|-
+|In Domain Wars, Demon Minion HARD Stats +1%||990
+|-
+|In Domain Wars, Angel Minion HARD Stats +1%||1,080
+|-
+|In Domain Wars, Mutant Minion HARD Stats +1%||1,170
+|-
+|In Domain Wars, Mecha Minion HARD Stats +1%||1,260
+|-
+|In Domain Wars, Dragon Minion HARD Stats +1%||1,350
+|-
+|In Domains, AFFCT Checks -150||1,440
+|-
+|In Domain Wars, Snail HARD Stats +1%||1,530
+|-
+|Troop DMG +1%||1,620
+|-
+|colspan="3"|S
+|-
+|In Domain Wars, Zombie Minion HARD Stats +2%||1,800
+|-
+|In Domain Wars, Demon Minion HARD Stats +2%||1,950
+|-
+|In Domain Wars, Angel Minion HARD Stats +2%||2,100
+|-
+|In Domain Wars, Mutant Minion HARD Stats +2%||2,250
+|-
+|In Domain Wars, Mecha Minion HARD Stats +2%||2,400
+|-
+|In Domain Wars, Dragon Minion HARD Stats +2%||2,550
+|-
+|In Domains, AFFCT Checks -200||2,700
+|-
+|In Domain Wars, Snail HARD Stats +2%||2,850
+|-
+|Troop DMG +2%||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Golden Ball Award|green}}||3,600
+|}
+
+==Species War Avatar==
+ '''Available''' >= 10,000 Total Avatar Score
+ '''Costs''' 3k {{RewardIconWithText|W-Tad}}
+ '''Boosts''' In [[Species War]]: Increases Resources Given by each Kit; Decreases Enemy Power Checks; Increases Troop HARD Stats; Increases DMG
+ '''Avatars originate from''' Participating in the building of a Club Portal and defeating enemies within each [[Species War]]
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 30 {{RewardIconWithText|W-Tad}}
+
+ {|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Krystal Ball Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|Vanguard Kit reduces Troop Casualty by -1%||30
+|-
+|Prospector Kit gives extra daily Drills by +1||60
+|-
+|Labor Kit boosts Collect SPD by +1%||90
+|-
+|In Species War, Enemy Power Checks -1%||120
+|-
+|In Species War, all minion HP +10||150
+|-
+|In Species War, all minion ATK +1||180
+|-
+|In Species War, all minion DEF +1||210
+|-
+|In Species War, all minion RUSH +1||240
+|-
+|In Species War, DMG +1%||270
+|-
+|colspan="3"|B
+|-
+|Vanguard Kit reduces Troop Casualty by -1%||330
+|-
+|Prospector Kit gives extra daily Drills by +1||390
+|-
+|Labor Kit boosts Collect SPD by +2%||450
+|-
+|In Species War, Enemy Power Checks -1%||510
+|-
+|In Species War, all minion HP +10||570
+|-
+|In Species War, all minion ATK +1||630
+|-
+|In Species War, all minion DEF +1||690
+|-
+|In Species War, all minion RUSH +1||750
+|-
+|In Species War, DMG +1%||810
+|-
+|colspan="3"|A
+|-
+|Vanguard Kit reduces Troop Casualty by -1%||900
+|-
+|Prospector Kit gives extra daily Drills by +1||990
+|-
+|Labor Kit boosts Collect SPD by +3%||1,080
+|-
+|In Species War, Enemy Power Checks -1%||1,170
+|-
+|In Species War, all minion HP +10||1,260
+|-
+|In Species War, all minion ATK +1||1,350
+|-
+|In Species War, all minion DEF +1||1,440
+|-
+|In Species War, all minion RUSH +1||1,530
+|-
+|In Species War, DMG +1%||1,620
+|-
+|colspan="3"|S
+|-
+|Vanguard Kit reduces Troop Casualty by -2%||1,800
+|-
+|Prospector Kit gives extra daily Drills by +2||1,950
+|-
+|Labor Kit boosts Collect SPD by +4%||2,100
+|-
+|In Species War, Enemy Power Checks -2%||2,250
+|-
+|In Species War, all minion HP +20||2,400
+|-
+|In Species War, all minion ATK +2||2,550
+|-
+|In Species War, all minion DEF +2||2,700
+|-
+|In Species War, all minion RUSH +2||2,850
+|-
+|In Species War, DMG +2%||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Krystal Ball Award|green}}||3,600
+|}
+
+==Relic Avatar==
+ '''Available''' >= 14,000 Total Avatar Score
+ '''Costs''' 4k {{RewardIconWithText|W-Tad}}
+ '''Boosts''' Minion Cloning SPD, Chore Contract Upgrades
+ '''Avatars originate from''' Defeated {{Relink|Orange Relics|orange|Relics}} Mirages
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 30 {{RewardIconWithText|W-Tad}}
+
+{|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Britland Academy Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|Zombie Minion Cloning SPD +1%||30
+|-
+|Demon Minion Cloning SPD +1%||60
+|-
+|Angel Minion Cloning SPD +1%||90
+|-
+|Mutant Minion Cloning SPD +1%||120
+|-
+|Mecha Minion Cloning SPD +1%||150
+|-
+|Dragon Minion Cloning SPD +1%||180
+|-
+|B-tads needed for Chore Contract upgrade -1000||210
+|-
+|Chore Dispatch EXP +1%||240
+|-
+|Chore Dispatch SPD +1%||270
+|-
+|colspan="3"|B
+|-
+|Zombie Minion Cloning SPD +2%||330
+|-
+|Demon Minion Cloning SPD +2%||390
+|-
+|Angel Minion Cloning SPD +2%||450
+|-
+|Mutant Minion Cloning SPD +2%||510
+|-
+|Mecha Minion Cloning SPD +2%||570
+|-
+|Dragon Minion Cloning SPD +2%||630
+|-
+|B-tads needed for Chore Contract upgrade -2000||690
+|-
+|Chore Dispatch EXP +2%||750
+|-
+|Chore Dispatch SPD +2%||810
+|-
+|colspan="3"|A
+|-
+|Zombie Minion Cloning SPD +3%||900
+|-
+|Demon Minion Cloning SPD +3%||990
+|-
+|Angel Minion Cloning SPD +3%||1,080
+|-
+|Mutant Minion Cloning SPD +3%||1,170
+|-
+|Mecha Minion Cloning SPD +3%||1,260
+|-
+|Dragon Minion Cloning SPD +3%||1,350
+|-
+|B-tads needed for Chore Contract upgrade -3000||1,440
+|-
+|Chore Dispatch EXP +3%||1,530
+|-
+|Chore Dispatch SPD +3%||1,620
+|-
+|colspan="3"|S
+|-
+|Zombie Minion Cloning SPD +4%||1,800
+|-
+|Demon Minion Cloning SPD +4%||1,950
+|-
+|Angel Minion Cloning SPD +4%||2,100
+|-
+|Mutant Minion Cloning SPD +4%||2,250
+|-
+|Mecha Minion Cloning SPD +4%||2,400
+|-
+|Dragon Minion Cloning SPD +4%||2,550
+|-
+|B-tads needed for Chore Contract upgrade -4000||2,700
+|-
+|Chore Dispatch EXP +4%||2,850
+|-
+|Chore Dispatch SPD +4%||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Britland Academy Award|green}}||3,600
+|}
+
+==Time Apostle Avatar==
+ '''Available''' >= 18,000 Total Avatar Score
+ '''Costs''' 5k {{RewardIconWithText|W-Tad}}
+ '''Boosts''' In the Rift: Increases INTEL, B-tads, Cells, Time Chests, and Cards Gained; Increases Snail HARD Stats
+ '''Avatars originate from''' Defeated [[Time Rift Apostles]]
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 30 {{RewardIconWithText|W-Tad}}
+
+ {|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Golden Horse Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|In the Rift, INTEL gained +1% ||30
+|-
+|In the Rift, B-tads gained +1%||60
+|-
+|In the Rift, Snail HP +400||90
+|-
+|In the Rift, Snail ATK +40||120
+|-
+|In the Rift, Cells Collected +1%||150
+|-
+|In the Rift, Snail DEF +40||180
+|-
+|In the Rift, Snail RUSH +40||210
+|-
+|In the Rift, 2X Time Chest Drops +1%||240
+|-
+|In the Rift, 2X Card Drops +1%||270
+|-
+|colspan="3"|B
+|-
+|In the Rift, INTEL gained +2% ||330
+|-
+|In the Rift, B-tads gained +2% ||390
+|-
+|In the Rift, Snail HP +800 ||450
+|-
+|In the Rift, Snail ATK +80 ||510
+|-
+|In the Rift, Cells Collected +2% ||570
+|-
+|In the Rift, Snail DEF +80 ||630
+|-
+|In the Rift, Snail RUSH +80 ||690
+|-
+|In the Rift, 2X Time Chest Drops +2% ||750
+|-
+|In the Rift, 2X Card Drops +2% ||810
+|-
+|colspan="3"|A
+|-
+|In the Rift, INTEL gained +3% ||900
+|-
+|In the Rift, B-tads gained +3% ||990
+|-
+|In the Rift, Snail HP +2000 ||1,080
+|-
+|In the Rift, Snail ATK +200 ||1,170
+|-
+|In the Rift, Cells Collected +3% ||1,260
+|-
+|In the Rift, Snail DEF +200 ||1,350
+|-
+|In the Rift, Snail RUSH +200 ||1,440
+|-
+|In the Rift, 2X Time Chest Drops +2% ||1,530
+|-
+|In the Rift, 2X Card Drops +3% ||1,620
+|-
+|colspan="3"|S
+|-
+|In the Rift, INTEL gained +4% ||1,800
+|-
+|In the Rift, B-tads gained +4% ||1,950
+|-
+|In the Rift, Snail HP +4000 ||2,100
+|-
+|In the Rift, Snail ATK +400 ||2,250
+|-
+|In the Rift, Cells Collected +4% ||2,400
+|-
+|In the Rift, Snail DEF +400 ||2,550
+|-
+|In the Rift, Snail RUSH +400 ||2,700
+|-
+|In the Rift, 2X Time Chest Drops +2% ||2,850
+|-
+|In the Rift, 2X Card Drops +4% ||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Golden Horse Award|green}}||3,600
+|}
+
+==Mirage II Avatar==
+ '''Available''' >= 24,000 Total Avatar Score
+ '''Costs''' 6k {{RewardIconWithText|W-Tad}}
+ '''Boosts''' Snail elemental damage, Minion Hard Stats
+ '''Avatars originate from''' Defeating Mirage enemies from each of the {{Relink|Orange Relics|orange|Relics}} from Lotto 2
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 30 {{RewardIconWithText|W-Tad}}
+
+ {|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Leopard Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|Snail Earth DMG +10 ||30
+|-
+|Snail Water DMG +10 ||60
+|-
+|Snail Fire DMG +10 ||90
+|-
+|Snail Wind DMG +10 ||120
+|-
+|All Minion HP +0.1% ||150
+|-
+|All Minion ATK +0.1% ||180
+|-
+|All Minion DEF +0.1% ||210
+|-
+|All Minion RUSH +0.1% ||240
+|-
+|All Minion HARD Stats +10% ||270
+|-
+|colspan="3"|B
+|-
+|Snail Earth DMG +20 ||330
+|-
+|Snail Water DMG +20 ||390
+|-
+|Snail Fire DMG +20 ||450
+|-
+|Snail Wind DMG +20 ||510
+|-
+|All Minion HP +0.2% ||570
+|-
+|All Minion ATK +0.2% ||630
+|-
+|All Minion DEF +0.2% ||690
+|-
+|All Minion RUSH +0.2% ||750
+|-
+|All Minion HARD Stats +20% ||810
+|-
+|colspan="3"|A
+|-
+|Snail Earth DMG +30 ||900
+|-
+|Snail Water DMG +30 ||990
+|-
+|Snail Fire DMG +30 ||1,080
+|-
+|Snail Wind DMG +30 ||1,170
+|-
+|All Minion HP +0.3% ||1,260
+|-
+|All Minion ATK +0.3% ||1,350
+|-
+|All Minion DEF +0.3% ||1,440
+|-
+|All Minion RUSH +0.3% ||1,530
+|-
+|All Minion HARD Stats +30% ||1,620
+|-
+|colspan="3"|S
+|-
+|Snail Earth DMG +40 ||1,800
+|-
+|Snail Water DMG +40 ||1,950
+|-
+|Snail Fire DMG +40 ||2,100
+|-
+|Snail Wind DMG +40 ||2,250
+|-
+|All Minion HP +0.4% ||2,400
+|-
+|All Minion ATK +0.4% ||2,550
+|-
+|All Minion DEF +0.4% ||2,700
+|-
+|All Minion RUSH +0.4% ||2,850
+|-
+|All Minion HARD Stats +40% ||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Leopard Award|green}}||3,600
+|}
+
+==Tribal Warfare Avatar==
+ '''Available''' >= ? Total Avatar Score
+ '''Costs''' 6k {{RewardIconWithText|W-Tad}}
+ '''Boosts''' Combat stats in Land Conquests and daily output of Amber and Followers.
+ '''Avatars originate from''' Apostles and minions from Tribal Warfare
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 30 {{RewardIconWithText|W-Tad}}
+
+ {|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|PUFF Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|In Land Conquests, DMG +1% ||30
+|-
+|In Land Conquests, Snail DMG REDUC +0.5% ||60
+|-
+|In Land Conquests, Glory Checks -100 ||90
+|-
+|Daily Tribal Output for Amber +1% ||120
+|-
+|In Land Conquests, Snail HP +400 ||150
+|-
+|In Land Conquests, Snail ATK +40 ||180
+|-
+|In Land Conquests, Snail DEF +40 ||210
+|-
+|In Land Conquests, Snail RUSH +40 ||240
+|-
+|Daily Tribal Output for Followers +1% ||270
+|-
+|colspan="3"|B
+|-
+|In Land Conquests, DMG +2% ||330
+|-
+|In Land Conquests, Snail DMG REDUC +1% ||390
+|-
+|In Land Conquests, Glory Checks -100 ||450
+|-
+|Daily Tribal Output for Amber +2% ||510
+|-
+|In Land Conquests, Snail HP +800 ||570
+|-
+|In Land Conquests, Snail ATK +80 ||630
+|-
+|In Land Conquests, Snail DEF +80 ||690
+|-
+|In Land Conquests, Snail RUSH +80 ||750
+|-
+|Daily Tribal Output for Followers +2% ||810
+|-
+|colspan="3"|A
+|-
+|In Land Conquests, DMG +3% ||900
+|-
+|In Land Conquests, Snail DMG REDUC +1.5% ||990
+|-
+|In Land Conquests, Glory Checks -200 ||1,080
+|-
+|Daily Tribal Output for Amber +3% ||1,170
+|-
+|In Land Conquests, Snail HP +2,000 ||1,260
+|-
+|In Land Conquests, Snail ATK +200 ||1,350
+|-
+|In Land Conquests, Snail DEF +200 ||1,440
+|-
+|In Land Conquests, Snail RUSH +200 ||1,530
+|-
+|Daily Tribal Output for Followers +3% ||1,620
+|-
+|colspan="3"|S
+|-
+|In Land Conquests, DMG +4% ||1,800
+|-
+|In Land Conquests, Snail DMG REDUC +2% ||1,950
+|-
+|In Land Conquests, Glory Checks -300 ||2,100
+|-
+|Daily Tribal Output for Amber +4% ||2,250
+|-
+|In Land Conquests, Snail HP +4,000 ||2,400
+|-
+|In Land Conquests, Snail ATK +400 ||2,550
+|-
+|In Land Conquests, Snail DEF +400 ||2,700
+|-
+|In Land Conquests, Snail RUSH +400 ||2,850
+|-
+|Daily Tribal Output for Followers +4% ||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|PUFF Award|green}}||3,600
+|}
+
+==Protomon Avatar==
+ '''Available''' >= ? Total Avatar Score
+ '''Costs''' 8k {{RewardIconWithText|W-Tad}}
+ '''Boosts''' Protomon Sanctums
+ '''Avatars originate from''' Max star Protomon
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 3k {{RewardIconWithText|B-Tad}}
+
+ {|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Tiger Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|Protomon assist Snail in battle, and deal DMG +0.5% ||30
+|-
+|Protomon assist Troop in battle, and deal DMG +0.5% ||60
+|-
+|Tamed Protomon Limit +1 ||90
+|-
+|Forest Sanctum, Glorium Output +10 ||120
+|-
+|Frost Sanctum, Glorium Output +10 ||150
+|-
+|Desert Sanctum, Glorium Output +10 ||180
+|-
+|Swamp Sanctum, Glorium Output +10 ||210
+|-
+|Prairie Sanctum, Glorium Output +10 ||240
+|-
+|All Sanctum Glorium Output +0.5% ||270
+|-
+|colspan="3"|B
+|-
+|Protomon assist Snail in battle, and deal DMG +1% ||330
+|-
+|Protomon assist Troop in battle, and deal DMG +1% ||390
+|-
+|Tamed Protomon Limit +2 ||450
+|-
+|Forest Sanctum, Glorium Output +20 ||510
+|-
+|Frost Sanctum, Glorium Output +20 ||570
+|-
+|Desert Sanctum, Glorium Output +20 ||630
+|-
+|Swamp Sanctum, Glorium Output +20 ||690
+|-
+|Prairie Sanctum, Glorium Output +20 ||750
+|-
+|All Sanctum Glorium Output +1% ||810
+|-
+|colspan="3"|A
+|-
+|Protomon assist Snail in battle, and deal DMG +1.5% ||900
+|-
+|Protomon assist Troop in battle, and deal DMG +1.5% ||990
+|-
+|Tamed Protomon Limit +3 ||1,080
+|-
+|Forest Sanctum, Glorium Output +30 ||1,170
+|-
+|Frost Sanctum, Glorium Output +30 ||1,260
+|-
+|Desert Sanctum, Glorium Output +30 ||1,350
+|-
+|Swamp Sanctum, Glorium Output +30 ||1,440
+|-
+|Prairie Sanctum, Glorium Output +30 ||1,530
+|-
+|All Sanctum Glorium Output +1.5% ||1,620
+|-
+|colspan="3"|S
+|-
+|Protomon assist Snail in battle, and deal DMG +2% ||1,800
+|-
+|Protomon assist Troop in battle, and deal DMG +2% ||1,950
+|-
+|Tamed Protomon Limit +4 ||2,100
+|-
+|Forest Sanctum, Glorium Output +40 ||2,250
+|-
+|Frost Sanctum, Glorium Output +40 ||2,400
+|-
+|Desert Sanctum, Glorium Output +40 ||2,550
+|-
+|Swamp Sanctum, Glorium Output +40 ||2,700
+|-
+|Prairie Sanctum, Glorium Output +40 ||2,850
+|-
+|All Sanctum Glorium Output +2% ||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Tiger Award|green}}||3,600
+|}
+
+==Time Rift Relic Avatar==
+ '''Available''' >= 30,000 Total Avatar Score
+ '''Costs''' 8k {{RewardIconWithText|W-Tad}}
+ '''Boosts''' Rocket Cabin Output, Rocket Cabin device base effects, Wormhole refinement speed
+ '''Avatars originate from''' Awakened Relics obtained from Lotto 2
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 30 {{RewardIconWithText|W-Tad}}
+
+ {|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Caesar Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|Gaia Cabin Output +1% ||30
+|-
+|Rebel Cabin Output +1% ||60
+|-
+|Demon God Cabin Output +1% ||90
+|-
+|Domain Cabin Output +1% ||120
+|-
+|Species War Cabin Output +1% ||150
+|-
+|In the Rebel Rocket Cabin:<br>>All device base effects +1% ||180
+|-
+|In the Demon God Rocket Cabin:<br>>All device base effects +1% ||210
+|-
+|In the Gaia Rocket Cabin:<br>>All device base effects +1% ||240
+|-
+|Wormhole Refinement SPD +1% ||270
+|-
+|colspan="3"|B
+|-
+|Gaia Cabin Output +2% ||330
+|-
+|Rebel Cabin Output +2% ||390
+|-
+|Demon God Cabin Output +2% ||450
+|-
+|Domain Cabin Output +2% ||510
+|-
+|Species War Cabin Output +2% ||570
+|-
+|In the Rebel Rocket Cabin:<br>>All device base effects +2% ||630
+|-
+|In the Demon God Rocket Cabin:<br>>All device base effects +2% ||690
+|-
+|In the Gaia Rocket Cabin:<br>>All device base effects +2% ||750
+|-
+|Wormhole Refinement SPD +2% ||810
+|-
+|colspan="3"|A
+|-
+|Gaia Cabin Output +3% ||900
+|-
+|Rebel Cabin Output +3% ||990
+|-
+|Demon God Cabin Output +3% ||1,080
+|-
+|Domain Cabin Output +3% ||1,170
+|-
+|Species War Cabin Output +3% ||1,260
+|-
+|In the Rebel Rocket Cabin:<br>>All device base effects +3% ||1,350
+|-
+|In the Demon God Rocket Cabin:<br>>All device base effects +3% ||1,440
+|-
+|In the Gaia Rocket Cabin:<br>>All device base effects +3% ||1,530
+|-
+|Wormhole Refinement SPD +3% ||1,620
+|-
+|colspan="3"|S
+|-
+|Gaia Cabin Output +4% ||1,800
+|-
+|Rebel Cabin Output +4% ||1,950
+|-
+|Demon God Cabin Output +4% ||2,100
+|-
+|Domain Cabin Output +4% ||2,250
+|-
+|Species War Cabin Output +4% ||2,400
+|-
+|In the Rebel Rocket Cabin:<br>>All device base effects +4% ||2,550
+|-
+|In the Demon God Rocket Cabin:<br>>All device base effects +4% ||2,700
+|-
+|In the Gaia Rocket Cabin:<br>>All device base effects +4% ||2,850
+|-
+|Wormhole Refinement SPD +4% ||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Caesar Award|green}}||3,600
+|}
+
+==Mirage III Avatar==
+ '''Available''' >= 36,000 Total Avatar Score
+ '''Costs''' 8k {{RewardIconWithText|W-Tad}}
+ '''Boosts''' Troop Elemental Damage, Snail HARD stats, Troop HARD stats
+ '''Avatars originate from''' Defeating Mirage enemies from each of the {{Relink|Orange Relics|orange|Relics}} from Lotto 3
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 30 {{RewardIconWithText|W-Tad}}
+
+ {|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|St. George Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|Troop Fire DMG +10||30
+|-
+|Troop Water DMG +10||60
+|-
+|Troop Earth DMG +10||90
+|-
+|Troop Wind DMG +10||120
+|-
+|Snail HP +0.2%||150
+|-
+|Snail ATK +0.2%||180
+|-
+|Snail DEF +0.2%||210
+|-
+|Snail RUSH +0.2%||240
+|-
+|All Minion HARD Stats +0.2%||270
+|-
+|colspan="3"|B
+|-
+|Troop Fire DMG +20||330
+|-
+|Troop Water DMG +20||390
+|-
+|Troop Earth DMG +20||450
+|-
+|Troop Wind DMG +20||510
+|-
+|Snail HP +0.4%||570
+|-
+|Snail ATK +0.4%||630
+|-
+|Snail DEF +0.4%||690
+|-
+|Snail RUSH +0.4%||750
+|-
+|All Minion HARD Stats +0.4%||810
+|-
+|colspan="3"|A
+|-
+|Troop Fire DMG +30||900
+|-
+|Troop Water DMG +30||990
+|-
+|Troop Earth DMG +30||1,080
+|-
+|Troop Wind DMG +30||1,170
+|-
+|Snail HP +0.6%||1,260
+|-
+|Snail ATK +0.6%||1,350
+|-
+|Snail DEF +0.6%||1,440
+|-
+|Snail RUSH +0.6%||1,530
+|-
+|All Minion HARD Stats +0.6%||1,620
+|-
+|colspan="3"|S
+|-
+|Troop Fire DMG +40||1,800
+|-
+|Troop Water DMG +40||1,950
+|-
+|Troop Earth DMG +40||2,100
+|-
+|Troop Wind DMG +40||2,250
+|-
+|Snail HP +0.8%||2,400
+|-
+|Snail ATK +0.8%||2,550
+|-
+|Snail DEF +0.8%||2,700
+|-
+|Snail RUSH +0.8%||2,850
+|-
+|All Minion HARD Stats +0.8%||3,000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|St. George Award|green}}||3,600
+|}
+
+==Relic III Avatar==
+ '''Available''' >= 42,000 Total Avatar Score
+ '''Costs''' 8k {{RewardIconWithText|W-Tad}}
+ '''Boosts''' [[Protomon]] Resources
+ '''Avatars originate from''' Awakened Relics obtained from Lotto 3
+ '''Each avatar costs''' 30 {{RewardIconWithText|Toner}}, 30 {{RewardIconWithText|W-Tad}}
+
+ {|class="mw-collapsible mw-collapsed wikitable" style="text-align:center"
+|+{{RewardIconWithLink|Peacock Award|green}}
+!Boost!!Pts<br>needed
+|-
+|colspan="3"|C
+|-
+|Tribal Guard Protolith output +1%||30
+|-
+|Tribal Scout Protolith output +1%||60
+|-
+|Tribal Devotee Protolith output +1%||90
+|-
+|Tribal Priest Protolith output +1%||120
+|-
+|In Follower Recruitment, 2x Amber Drops +1%||150
+|-
+|Tribal Amber output +1%||180
+|-
+|Tribal Follower output +1%||210
+|-
+|In Follower Recruitment, 2x Protolith Chest Drops +1%||240
+|-
+|In Follower Recruitment, 2x Follower Drops +1%||270
+|-
+|colspan="3"|B
+|-
+|Tribal Guard Protolith output +2%||330
+|-
+|Tribal Scout Protolith output +2%||390
+|-
+|Tribal Devotee Protolith output +2%||450
+|-
+|Tribal Priest Protolith output +2%||510
+|-
+|In Follower Recruitment, 2x Amber Drops +2%||570
+|-
+|Tribal Amber output +2%||630
+|-
+|Tribal Follower output +2%||690
+|-
+|In Follower Recruitment, 2x Protolith Chest Drops +2%||750
+|-
+|In Follower Recruitment, 2x Follower Drops +2%||810
+|-
+|colspan="3"|A
+|-
+|Tribal Guard Protolith output +3%||900
+|-
+|Tribal Scout Protolith output +3%||990
+|-
+|Tribal Devotee Protolith output +3%||1080
+|-
+|Tribal Priest Protolith output +3%||1170
+|-
+|In Follower Recruitment, 2x Amber Drops +3%||1260
+|-
+|Tribal Amber output +3%||1350
+|-
+|Tribal Follower output +3%||1440
+|-
+|In Follower Recruitment, 2x Protolith Chest Drops +3%||1530
+|-
+|In Follower Recruitment, 2x Follower Drops +3%||1620
+|-
+|colspan="3"|S
+|-
+|Tribal Guard Protolith output +4%||1800
+|-
+|Tribal Scout Protolith output +4%||1950
+|-
+|Tribal Devotee Protolith output +4%||2100
+|-
+|Tribal Priest Protolith output +4%||2250
+|-
+|In Follower Recruitment, 2x Amber Drops +4%||2400
+|-
+|Tribal Amber output +4%||2550
+|-
+|Tribal Follower output +4%||2700
+|-
+|In Follower Recruitment, 2x Protolith Chest Drops +4%||2850
+|-
+|In Follower Recruitment, 2x Follower Drops +4%||3000
+|-
+|colspan="3"|S+
+|-
+|Win the {{RewardIconWithLink|Peacock Award|green}}||3,600
+|}

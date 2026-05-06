@@ -1,0 +1,33 @@
+{{CargoRelic
+|name=Gilded Buddha
+|rank=SSS
+|affct=ART
+|birthday=04-06
+|source=Wishmaking Event (06/07 - 06/13)<br>Lottery Machine No.1 (0.09%)<br>Alchemy Furnace (0.06%)<br>Grandmaster Scrolls (0.75%)
+|description=On Apr 6, 1974 AD, Gilded Buddha was unearthed in Bali Village of Xi'an suburb.<br
+<Gilded Buddha is a collection of statues on a square bed: the Amitbha Buddha Statue, a Bodhisattva and a Nryana on the sides, a naked midget holding a censer, and a pair of crouching lions. In total, it has 23 detachable components and is a signature buddha statue of the Sui dynasty. The vows and praises inscribed on the bed convey the story of the statue's origins and how widespread Buddhist culture was at the period, making the statue of historical signifance.
+|fame=61
+|art=108
+|fth=73
+|civ=67
+|tech=53
+|ss1=Snail RUSH +30<br>Per 600 ART, Snail ATK +3<br>Per 600 ART, Snail RUSH +3<br>ART: 24,000/24,000
+|ss2=Snail RUSH +40<br>Per 600 ART, Snail ATK +4<br>Per 600 ART, Snail RUSH +4<br>ART: 24,000/24,000
+|ss3=Snail RUSH +50<br>Per 600 ART, Snail ATK +5<br>Per 600 ART, Snail RUSH +5<br>ART: 24,000/24,000
+|ss4=Snail RUSH +70<br>Per 600 ART, Snail ATK +7<br>Per 600 ART, Snail RUSH +7<br>ART: 24,000/24,000
+|ss5=Snail RUSH +90<br>Per 600 ART, Snail ATK +9<br>Per 600 ART, Snail RUSH +9<br>ART: 24,000/24,000
+|ss6=Snail RUSH +120<br>Per 600 ART, Snail ATK +12<br>Per 600 ART, Snail RUSH +12<br>ART: 24,000/24,000
+|ss7=Snail RUSH +120<br>Per 600 ART, Snail ATK +12<br>Per 600 ART, Snail RUSH +12<br>ART: 24,000/24,000<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Bharata skill III.png|50px]] Place in Bharata Museum: In Bharata, Snail RUSH +600
+|skill2=[[File:Bharata skill III.png|50px]] Place in Bharata Museum: In Bharata, 2x Purple Card Drops +15%
+|skill3=[[File:Bharata skill III.png|50px]] Place in Bharata Museum: In Bharata, 2x Orange Card Drops +15%
+{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by Distinct Souls Offered]]
+[[Category:Maneater Plant Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Bharata Museum Boost]]

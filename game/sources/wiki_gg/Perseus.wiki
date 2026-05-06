@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Perseus
+|rank=orange
+|cabin=2
+|id=199
+|gene1={race} HP +500
+|gene2={race} ART +50
+|gene3=Water DMG +30
+|gene4=Per 60 Zombie Minions in battle,
+Troop Water DMG +6
+|gene5=All Realm Spirit HARD Stats +0.6%
+|gene6=Per 60 Zombie Minions in battle,
+Troop Water DMG +10
+|gene7=All Realm Spirit HARD Stats +1%
+|}}

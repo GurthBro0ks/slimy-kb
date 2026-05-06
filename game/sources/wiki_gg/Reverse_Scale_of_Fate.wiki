@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Reverse Scale of Fate
+|type=Bionic
+|rank=orange
+|id=10685
+|idx=43
+|description="Every dragon bears a reverse scale — a hidden wheel of destiny unique to its soul. When that scale emerges, fate itself begins to turn."
+— Codex Draconis
+|skill=When receiving fatal damage, ignore death this round and restore 7.2% of Max HP!
+|hp=1872
+|def=184
+|atk=291
+|rush=183
+|gene1=In explorations, 2x B-tad Drops +6%
+|gene2=In exploration, 6% chance to obtain 2x Reagents
+|gene3=In explorations, 6% chance to gain 2x INTEL
+|gene4=In explorations, 2x Time Chest Drops +6%
+|gene5=In exploration, 6% chance to gain 2x Treasure Maps
+|gene7=In explorations, 2x B-tad Drops +6% (Awakened)
+|}}

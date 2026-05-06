@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Guiguzi Descends the Mountain
+|class_id=22811
+|rank=SSS
+|affct=ART
+|source=
+|description=Guiguzi Descends the Mountain is a national first-class cultural relic and one of the only eight pieces of Yuan Dynasty blue-and-white character story porcelain left in the world. The body is painted with a picture of Guigu descending the mountain. In this blue and white painting, soldiers lead the way, tigers and leopards pull two wheeled carts, and Guigu sits on the cart. The immortal style and bones of the road are elegant and ethereal, and the porcelain craftsmen's every stroke and stroke outline the changes of the Spring and Autumn Period and Warring States Period. The painting is delicate and vivid, and can be regarded as a rare treasure of Yuan blue-and-white porcelain.
+|fame=48
+|art=107
+|fth=72
+|civ=71
+|tech=64
+|ss1=All minion skins ATK +10%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +10<br>Per Grandmaster Scroll used, Snail ATK +3<br>Grandmaster Scrolls Used: 50/50
+|ss2=All minion skins ATK +20%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +20<br>Per Grandmaster Scroll used, Snail ATK +4<br>Grandmaster Scrolls Used: 50/50
+|ss3=All minion skins ATK +30%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per Grandmaster Scroll used, Snail ATK +5<br>Grandmaster Scrolls Used: 50/50
+|ss4=All minion skins ATK +50%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per Grandmaster Scroll used, Snail ATK +7<br>Grandmaster Scrolls Used: 50/50
+|ss5=All minion skins ATK +70%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per Grandmaster Scroll used, Snail ATK +9<br>Grandmaster Scrolls Used: 50/50
+|ss6=All minion skins ATK +100%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100<br>Per Grandmaster Scroll used, Snail ATK +12<br>Grandmaster Scrolls Used: 50/50
+|ss7=All minion skins ATK +100%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100<br>Per Grandmaster Scroll used, Snail ATK +12<br>Grandmaster Scrolls Used: 50/50<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: This Relic's ART +15
+|skill2=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Cap +30%
+|skill3=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +30%
+|mirage={{Mirage|name=dungeon@22811_1|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Qi Envoy|3rec=364.64M|3atk=865432|3defense=490617|3hp=196715316|3weak=66998
+|4name=dungeon_event@3681_1|4rec=461.95M|4atk=1026523|4defense=578156|4hp=327350484|4weak=72884
+|5name=Qi General|5rec=601.66M|5atk=1310857|5defense=703845|5hp=553967191|5weak=80478
+|6name=dungeon_event@3683_1|6rec=812.83M|6atk=1911693|6defense=921267|6hp=926596225|6weak=90699
+|Arec=1156.25M|Aatk=2924464|Adefense=1266352|Ahp=1725509457|Aweak=101988
+}}}}

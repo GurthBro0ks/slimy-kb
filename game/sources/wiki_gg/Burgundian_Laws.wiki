@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Burgundian Laws
+|class_id=22114
+|rank=AAA
+|affct=FAME
+|birthday=02-14
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Feb 14, 535 AD, King Gundobad of Burgundy enacted a code of law for his subjects.<br>With the demise of the Western Roman Empire, the Germanic kings who occupied Western Rome compiled the Burgundian Laws based on Germanic law and famous Roman law. The legal system was both ideological as well as practical. The Burgundian Code was intended to provide a manual for judges, rather than codifying Roman law. Outside of this code, Roman law still applied to the Romans.
+|fame=74
+|art=39
+|fth=33
+|civ=46
+|tech=51
+|ss1=Per 30 Zombie Minions in battle:<br>> Troop DEF +12<br>Per 30 Zombie Minions in battle:<br>> Troop RUSH +12
+|ss2=Per 30 Zombie Minions in battle:<br>> Troop DEF +16<br>Per 30 Zombie Minions in battle:<br>> Troop RUSH +16
+|ss3=Per 30 Zombie Minions in battle:<br>> Troop DEF +20<br>Per 30 Zombie Minions in battle:<br>> Troop RUSH +20
+|ss4=Per 30 Zombie Minions in battle:<br>> Troop DEF +28<br>Per 30 Zombie Minions in battle:<br>> Troop RUSH +28
+|ss5=Per 30 Zombie Minions in battle:<br>> Troop DEF +36<br>Per 30 Zombie Minions in battle:<br>> Troop RUSH +36
+|ss7=Per 30 Zombie Minions in battle:<br>> Troop DEF +36<br>Per 30 Zombie Minions in battle:<br>> Troop RUSH +36<br>Per 30 Zombie Minions in battle:<br>> Troop RUSH +28 (Awakened)
+|skill1=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, All Minion DEF +4.5%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FAME +10
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Curator's Optical Magnifier
+|class_id=20574
+|rank=Green
+|affct=CIV
+|source=
+|description=This is a magnifier designed specifically for the curator, with an elegant and exquisite overall design. The frame is made of sturdy brass, and the magnifier lens is a high-precision optical glass, with edges slightly glowing blue. No subtle scratch can escape the curator's eyes.
+|fame=18
+|art=14
+|fth=15
+|civ=30
+|tech=13
+|ss1=Per 1.5k Museum Medals gained, Snail DEF +1<br>Museum Medals Gained: 60000/60000
+|ss2=Per 1.5k Museum Medals gained, Snail DEF +2<br>Museum Medals Gained: 60000/60000
+|ss3=Per 1.5k Museum Medals gained, Snail DEF +3<br>Museum Medals Gained: 60000/60000
+|ss4=Per 1.5k Museum Medals gained, Snail DEF +3<br>Museum Medals Gained: 60000/60000
+|ss7=Per 1.5k Museum Medals gained, Snail DEF +3<br>Museum Medals Gained: 60000/60000<br> (Awakened)
+}}

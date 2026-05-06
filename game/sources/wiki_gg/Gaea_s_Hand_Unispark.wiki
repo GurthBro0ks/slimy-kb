@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Gaea's Hand,Unispark
+|rank=orange
+|amount=2
+|category=home
+|description=Quarry Output +14%
+}}
+[[Category:home]]

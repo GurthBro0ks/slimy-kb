@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Sloane Astrolabe
+|class_id=22482
+|rank=Blue
+|affct=CIV
+|birthday=03-20
+|source=Lottery Machine No.3 (0.03%)
+|description=On Mar 20, 1300 AD, the Sloane Astrolabe was completed by a clockmaker.<br>The Sloane Astrolabe is made entirely of brass, with a main body consisting of a circular disk about half a meter in diameter and several concentric rings, with a pointer attached to the center of the disk that can be rotated freely. The disk is about one centimeter thick and has an astronomical map engraved on it, with a crescent-shaped pointer pointing to specific stars and markings that include the celestial ecliptic, celestial equator, and solstice lines on the celestial sphere. This astrolabe, from England, is one of the oldest and most mysterious mathematical tools in Europe.
+|fame=34
+|art=31
+|fth=24
+|civ=47
+|tech=18
+|ss1=Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +8<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss2=Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +16<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss3=Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +24<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss4=Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss7=Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Swamp Sanctum Rating Pts: 100000/100000<br>Protomon Troop assist DMG + 400 (Awakened)
+|skill1=[[File:Wishingegg skill I.png|50px]]Place in Wishing Egg: This Relic's CIV +5
+}}

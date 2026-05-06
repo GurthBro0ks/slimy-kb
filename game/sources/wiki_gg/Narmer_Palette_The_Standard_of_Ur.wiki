@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=511
+|relics=Narmer Palette,The Standard of Ur
+|rank=orange
+|amount=2
+|category=self
+|description=Per 10 Maneater Pistils Used, Snail ATK +7;Maneater Pistil(s) used: 400/400
+}}

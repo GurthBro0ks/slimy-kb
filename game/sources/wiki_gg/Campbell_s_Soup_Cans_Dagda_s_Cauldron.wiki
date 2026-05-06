@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=589
+|relics=Campbell's Soup Cans,Dagda's Cauldron
+|rank=blue
+|amount=2
+|category=self
+|description=Per 5 Mythic Protodex Stars, Snail RUSH +15;Mythic Protodex Stars: 100/100
+}}

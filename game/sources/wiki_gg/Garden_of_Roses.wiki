@@ -1,0 +1,19 @@
+{{CargoRelic
+|name=Garden of Roses
+|class_id=21858
+|rank=Blue
+|affct=CIV
+|source=
+|description=When war devours kingdoms, poets sow immortality. Saadi's words blossom into timeless roses - each petal a lesson, each thorn a truth.
+|fame=33
+|art=30
+|fth=22
+|civ=46
+|tech=23
+|ss1=prop@69943_2<br>prop@69943_3
+|ss2=prop@69943_2<br>prop@69943_3
+|ss3=prop@69943_2<br>prop@69943_3
+|ss4=prop@69943_2<br>prop@69943_3
+|ss7=Every 10 Parsian maps opened grants Snail ATK +25<br>Parsia Treasure Map Opened: 100/100<br>Snail ATK +50 (Awakened)
+|skill1=[[File:skill@1124_1_1.png|50px]]Place in Parsian Museum: Relic CIV +5
+}}

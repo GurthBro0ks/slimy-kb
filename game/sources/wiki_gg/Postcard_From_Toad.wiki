@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Postcard From Toad
+|class_id=20005
+|rank=Green
+|affct=ART
+|source=Reward for killing [[Mailbox#Toad_Mercenary|Toad Mercenary]]'s second form
+|description=Before it was corrupted, Toad Mercenary often went around the world and made postcards to record different cultures. After it was banned from traveling freely, the postcards went out of print.
+|fame=14
+|art=30
+|fth=11
+|civ=15
+|tech=20
+|ss1=Per new Realm entered, Snail ATK +5<br>Realms Reached: 8/8
+|ss2=Per new Realm entered, Snail ATK +10<br>Realms Reached: 8/8
+|ss3=Per new Realm entered, Snail ATK +15<br>Realms Reached: 8/8
+|ss4=Per new Realm entered, Snail ATK +15<br>Realms Reached: 8/8
+|ss7=Per new Realm entered, Snail ATK +15<br>Realms Reached: 8/8<br> (Awakened)
+}}

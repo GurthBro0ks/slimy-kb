@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Nature Vol.1
+|class_id=22219
+|rank=SSS
+|affct=FAME
+|birthday=11-04
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Nov 4, 1869 AD, the first issue of Nature Weekly was published.<br>As one of the most important weekly magazines in the world, this magazine has received extensive attention from scientists. The majority of readers of this magazine are scientists, but the summary of articles at the beginning of the magazine allows the general public to get a glimpse into science. The magazine's editorials, news, and special features cover the most recent news, business conditions, and scientific breakthroughs in a variety of fields. It publishes the most innovative and significant contributions to major scientific research fields. Many academics consider it a great honor to be able to publish articles in it.
+|fame=107
+|art=59
+|fth=48
+|civ=72
+|tech=76
+|ss1=Refine +1 White Printing Supply by +3%<br>When refining, there exists a +3% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +3% chance for Purple Building Materials to turn into Orange
+|ss2=Refine +1 White Printing Supply by +4%<br>When refining, there exists a +4% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +4% chance for Purple Building Materials to turn into Orange
+|ss3=Refine +1 White Printing Supply by +5%<br>When refining, there exists a +5% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +5% chance for Purple Building Materials to turn into Orange
+|ss4=Refine +1 White Printing Supply by +7%<br>When refining, there exists a +7% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +7% chance for Purple Building Materials to turn into Orange
+|ss5=Refine +1 White Printing Supply by +9%<br>When refining, there exists a +9% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +9% chance for Purple Building Materials to turn into Orange
+|ss6=Refine +1 White Printing Supply by +12%<br>When refining, there exists a +12% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +12% chance for Purple Building Materials to turn into Orange
+|ss7=Refine +1 White Printing Supply by +12%<br>When refining, there exists a +12% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +12% chance for Purple Building Materials to turn into Orange<br>Refine +1 White Printing Supply by +10% (Awakened)
+|skill1=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion DEF +9%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, AFFCT Checks -150
+|skill3=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop DMG toward heroes +6%
+|mirage={{Mirage|name=A Great Discovery|reward={{RewardIconWithLink|Gene Speedup, +28800|orange}}
+|3name=Discovery of Quarks|3rec=15.07M|3atk=101433|3defense=67670|3hp=3030950|3weak=17460
+|4name=Discovery of Exoplanets|4rec=26.59M|4atk=121878|4defense=81309|4hp=4324675|4weak=18616
+|5name=Human Genetic Sequencing|5rec=37.22M|5atk=144287|5defense=96259|5hp=5931597|5weak=19680
+|6name=Creation of Nanomaterials|6rec=49.44M|6atk=170057|6defense=113452|6hp=7965909|6weak=21631
+|Arec=63.09M|Aatk=198846|Adefense=132658|Ahp=10480319|Aweak=25267
+}}}}

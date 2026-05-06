@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Falcon Specimen
+|class_id=20146
+|rank=Green
+|affct=ART
+|source=
+|description=The lifelike stuffed falcon is still soaring with its wings spread open. It used to be a witch's partner, accompanying her throughout countless combats. The witch passed away, but her loyal follower is still on the side of its master...
+|fame=10
+|art=31
+|fth=17
+|civ=14
+|tech=18
+|ss1=Per Crow Sashimi used, Snail HP +3<br>Crow Sashimi Eaten: 200/200
+|ss2=Per Crow Sashimi used, Snail HP +6<br>Crow Sashimi Eaten: 200/200
+|ss3=Per Crow Sashimi used, Snail HP +9<br>Crow Sashimi Eaten: 200/200
+|ss4=Per Crow Sashimi used, Snail HP +9<br>Crow Sashimi Eaten: 200/200
+|ss7=Per Crow Sashimi used, Snail HP +9<br>Crow Sashimi Eaten: 200/200<br> (Awakened)
+}}

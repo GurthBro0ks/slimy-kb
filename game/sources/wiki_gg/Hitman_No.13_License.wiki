@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Hitman No.13 License
+|class_id=20422
+|rank=Green
+|affct=FAME
+|source=
+|description=This institution trains killers under the Demon Gods. It adopts sophisticated management concepts and offers customized and exclusive license for each killer. From name, blood type, to disliked food, one can find all kinds of details on the license. This turns the idea of killers having an official job into actual reality.
+|fame=31
+|art=16
+|fth=12
+|civ=13
+|tech=18
+|ss1=Defeated Daily Hitmen drop +10 W-tads<br>Per Hitman intercepted, Snail DEF +2<br>Hitmen Intercepted: 40/40
+|ss2=Defeated Daily Hitmen drop +15 W-tads<br>Per Hitman intercepted, Snail DEF +4<br>Hitmen Intercepted: 40/40
+|ss3=Defeated Daily Hitmen drop +20 W-tads<br>Per Hitman intercepted, Snail DEF +6<br>Hitmen Intercepted: 40/40
+|ss4=Defeated Daily Hitmen drop +20 W-tads<br>Per Hitman intercepted, Snail DEF +6<br>Hitmen Intercepted: 40/40
+|ss7=Defeated Daily Hitmen drop +20 W-tads<br>Per Hitman intercepted, Snail DEF +6<br>Hitmen Intercepted: 40/40<br> (Awakened)
+}}

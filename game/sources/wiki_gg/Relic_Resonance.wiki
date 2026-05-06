@@ -1,0 +1,108 @@
+{| class="wikitable filter-toggles"
+|-
+!View All
+| class="wds-button filter-toggle-not-selected view-all" style="text-align:center" | [[#js|View All]]
+|-
+!Pieces
+| class="wds-button filter-toggle-not-selected cat1 2" style="text-align:center"| [[#js|2]]
+| class="wds-button filter-toggle-not-selected cat1 3" style="text-align:center"| [[#js|3]]
+| class="wds-button filter-toggle-not-selected cat1 4" style="text-align:center"| [[#js|4]]
+| class="wds-button filter-toggle-not-selected cat1 5" style="text-align:center"| [[#js|5]]
+| class="wds-button filter-toggle-not-selected cat1 6" style="text-align:center"| [[#js|6]]
+|-
+!Rank
+| class="wds-button filter-toggle-not-selected cat2 blue" style="text-align:center"| [[#js|Blue]]
+| class="wds-button filter-toggle-not-selected cat2 purple" style="text-align:center"| [[#js|Purple]]
+| class="wds-button filter-toggle-not-selected cat2 orange" style="text-align:center"| [[#js|Orange]]
+|-
+!Effect
+| class="wds-button filter-toggle-not-selected cat3 self" style="text-align:center"| [[#js|Snail Self Stats]]
+| class="wds-button filter-toggle-not-selected cat3 home" style="text-align:center"| [[#js|Home Building]]
+| class="wds-button filter-toggle-not-selected cat3 dna" style="text-align:center"| [[#js|DNA Evolution]]
+| class="wds-button filter-toggle-not-selected cat3 minion" style="text-align:center"| [[#js|Minion Stats]]
+| class="wds-button filter-toggle-not-selected cat3 other" style="text-align:center"| [[#js|Other]]
+|}
+<!--
+{|class="wikitable"
+!colspan="6"|Relics
+!Effect
+{{ResRow|2|blue|self|Seismograph|Musician Figure|Per 20 Blue Beads drawn, Snail HP +100<br>Blue Beads Drawn: 300/300}}
+{{ResRow|2|blue|self|Atomic Clock|Euclid's Elements|Snail HP +500}}
+{{ResRow|2|blue|self|Commercial Code|Code of Law|Snail HP +500}}
+{{ResRow|2|blue|self|Seated Scribe|Traveler Manual|Snail ATK +50}}
+{{ResRow|2|blue|self|Pinocchio|Roman Dodecahedron|Snail ATK +50}}
+{{ResRow|2|blue|self|Bach Concerto|Guanery's Violin|Per 20 Blue Beads drawn, Snail ATK +10<br>Blue Beads Drawn: 300/300}}
+{{ResRow|2|blue|self|Great Wave|Universe Bowl|Snail ATK +50}}
+{{ResRow|2|blue|self|Tee Virus|Mordan Bullet|Snail ATK +50}}
+{{ResRow|2|blue|self|Pressburg Treaty|Bellum Gallicum|Per 20 White Beads drawn, Snail ATK +10<br>White Beads Drawn: 300/300}}
+{{ResRow|2|blue|self|No.1 Majesty|1982 Wine|Snail DEF +50}}
+{{ResRow|2|blue|self|Requiem|Nocturnes|Snail DEF +50}}
+{{ResRow|2|blue|self|Golden Menorah|Tetrabiblos|Snail DEF +50}}
+{{ResRow|2|blue|self|Magellan's Journal|Tudor Rose|Per 1k Power, Snail DEF +3<br>Power; 10,000/10,000}}
+{{ResRow|2|blue|self|Im's Arrow|Hillary's Pickaxe|Snail RUSH +50}}
+{{ResRow|2|blue|self|Izu Dancer|Penny Black|Per 200 DNA Strength, Snail RUSH +3<br>DNA Strength: 4,000/4,000}}
+{{ResRow|2|blue|self|Demoiselles d'Avignon|Portland Vase|Per 1k Power, Snail RUSH +3<br>Power: 10,000/10,000}}
+{{ResRow|2|blue|self|Viking Horn|Peter Pan's Flute|Snail RUSH +50}}
+{{ResRow|2|blue|self|Chronometer|Divergence Meter|Per 400 Relic Points, Snail RUSH +3<br>Relic Points: 10,000/10,000}}
+{{ResRow|2|blue|self|Torpedo Swimsuit|Persian Star Chart|Snail RUSH +50}}
+{{ResRow|2|blue|self|Hun Min Jong Um|Annals of Joseon|Per 20 Blue Beads drawn, Snail RUSH +10<br>Blue Beads Drawn: 300/300}}
+{{ResRow|2|blue|self|Buddha Tooth Sarira|Dunhuang Painting|Per 400 Relic Points, Snail HP +30<br>Relic Points: 10,000/10,000}}
+{{ResRow|2|blue|self|Chakana|Horoscope|Snail HP +500}}
+{{ResRow|2|blue|self|Marseilles Statue|Benin Statue|Snail ATK +50}}
+{{ResRow|2|blue|self|Lumieres' Film|Opera Phantom|Per 1k Power, Snail ATK +3<br>Power: 10,000/10,000}}
+{{ResRow|2|blue|self|Order of Britland|Dinner Credit Card|Per 60 Supreme Points, Snail ATK +10<br>Supreme Points: 3,000/3,000}}
+{{ResRow|2|blue|self|Art of Ninja|Sonnet|Per 200 DNA Strength, Snail DEF +3. DNA Strength: 4,000/4,000}}
+{{ResRow|2|blue|self|Dragon Crystal|Golden Fleece|Per 400 Relic Points, Snail DEF +3<br>Relic Points: 10,000/10,000}}
+{{ResRow|2|blue|self|Arirang Satellite|Flyer I|Per 20 Blue Beads drawn, Snail DEF +10<br>Blue Beads Drawn: 300/300}}
+{{ResRow|2|blue|self|Dinner Credit Card|Nesdac Bell|Per 60 Supreme Relic Points, Snail DEF +10<br>Supreme Points: 3,000/3,000}}
+{{ResRow|2|blue|minion|Gregor Specimen|Moai|Per 10 Mutant Minions in battle, Troop ATK +5}}
+{{ResRow|2|blue|minion|Churchill's Cigar|Franklin's Kite|Per 10 Demon Minions in battle, Troop ATK +5}}
+{{ResRow|2|blue|dna|Pumpkin Coach|Leo's Plant|Mutant Gene Research SPD +3%}}
+{{ResRow|2|blue|dna|Faraday's Dynamo|Linde's Fridge|Angel Gene Research SPD +3%}}
+{{ResRow|2|blue|dna|Ranjyatai Incense|Ancient Block|Zombie Gene Research SPD +3%}}
+{{ResRow|2|blue|dna|Big Fish Bone|Eye of Medusa|Mecha Gene Research SPD +3%}}
+{{ResRow|2|blue|home|Holmes' Pipe|Sholes' Typewriter|Lumber Camp Output +10%}}
+{{ResRow|2|blue|home|Imperial Lamp|Storyteller|Lumber Camp produces Ancient Wood by +10%}}
+{{ResRow|2|blue|home|Kilogram Prototype|Aztec Calendar|Tadpole Pond B-tad Output +10%}}
+{{ResRow|2|blue|other|Janssen Microscope|Campbell's Sextant|Stone rewards from offering +2%}}
+{{ResRow|2|blue|other|Bronze Bird|Twelve Tables|B-tad rewards from offering +2%}}
+{{ResRow|2|blue|other|Lewis Chessmen|Rubik's Cube|Upon travelling through an area, gain +10 INTEL}}
+{{ResRow|2|blue|other|Templar Emblem|Genesis|In any Realm, 2x B-tad Drops +2%}}
+{{ResRow|2|blue|other|Klein Bottle|Spinning Jenny|Lottery White Beads turn to Green by +1%}}
+{{ResRow|2|blue|other|Costa Rica Stone|Atilla Horseshoe|Green Bead draws +1 Lucky Voucher by +25%}}
+{{ResRow|2|blue|minion|Guillotine|Minie Ball|Per 10 Mecha Minions in battle, Troop ATK +5}}
+{{ResRow|2|blue|minion|Mask of Zorro|Musketeer Mask|Per 10 Angel Minions in battle, Troop ATK +5}}
+{{ResRow|2|blue|other|Gone with the Wind|Royal Doll|Wood rewards from offering +2%}}
+{{ResRow|2|blue|other|Peacock Clock|Cuckoo Clock|In any Realm, 2x Blue Reagent Drops +2%}}
+{{ResRow|2|blue|other|Ludovisi Gaul|Sleeping Gypsy|In any Realm, INTEL gained +3%}}
+{{ResRow|2|blue|other|Throne of Pope|Star of David|In any Realm, 2x Green Reagent Drops +2%}}
+{{ResRow|2|blue|other|Dendera Tablet|Melcades' Prophecy|In any Realm, 2x White Card Drops +2%}}
+{{ResRow|2|blue|other|Penicillin Sample|Stela of Djet|In any Realm, +2% chance to gain 2x INTEL}}
+{{ResRow|2|blue|other|Enigma Machine|Quantum Cat|White Bead draws give +1 Lucky Voucher by +25%}}
+{{ResRow|3|blue|self|Portland Vase|Costa Rica Stone|1982 Wine|Per 1k Power, Snail HP +30. Power: 12,000/12,000}}
+{{ResRow|3|blue|dna|Commercial Code|Rubik's Cube|Tee Virus|Dragon Gene Research SPD +3.6%}}
+{{ResRow|3|blue|dna|Ludovisi Gaul|Twelve Tables|Ranjyatai Incense|Demon Gene Research SPD +3.6%}}
+{{ResRow|3|blue|home|Peter Pan's Flute|Spinning Jenny|Gregor Specimen|Quarry produces Ancient Fossil by +12%}}
+{{ResRow|3|blue|home|Haradric Cube|Our Lady of Kazan|Chair of Busby|Quarry Output +12%}}
+{{ResRow|3|blue|home|Bach Concerto|Tetrabiblos|Persian Star Chart|The Pond has a +12% chance to produce W-tads}}
+
+{{ResRow|4|blue|self|Hun Min Jong Um|Viking Horn|Penny Black|Campbell's Sextant|Per 20 Green Beads drawn, Snail ATK +14<br>Green Beads Drawn: 300/300}}
+{{ResRow|4|blue|self|Pinocchio|Musician Figure|Chair of Busby|Quantum Cat|Per 200 DNA Strength, Snail HP +30<br>DNA Strength: 5,600/5,600}}
+{{ResRow|4|blue|self|Opera Phantom|Annals of Joseon|Dendera Tablet|Leo's Plant|Snail ATK +70}}
+{{ResRow|4|blue|home|No.1 Majesty|Requiem|Genesis|Klein Bottle|Fungus Farm Output +14%}}
+{{ResRow|4|blue|home|Golden Fleece|Bronze Bird|Seismograph|Enigma Machine|The Time Machine has a +14% chance to generate Time Chests}}
+{{ResRow|4|blue|home|Melcades' Prophecy|Hillary's Pickaxe|Musketeer Mask|Universe Bowl|The Fungus Farm has a +14% chance to produce Wonder Fungi}}
+{{ResRow|5|blue|self|Templar Emblem|Art of Ninja|Marseilles Statue|Minie Ball|Aztec Calendar|Per 200 DNA Strength, Snail ATK +3<br>DNA Strength: 6,400/6,400}}
+{{ResRow|5|blue|self|Linde's Fridge|Seated Scribe|Roman Dodecahedron|Code of Law|Golden Menorah|Per 3 Blue Relics gained, Snail ATK +32. Blue Relics: 60/60}}
+{{ResRow|5|blue|self|Horoscope|Sonnet|Nocturnes|Guillotine|Torpedo Swimsuit|Per 400 Relic Points, Snail ATK +3<br>Relic Points: 16,000/16,000}}
+{{ResRow|6|blue|self|Star of David|Benin Statue|Chronometer|Sholes' Typewriter|Churchill's Cigar|Traveler Manual|Time Machine Travel Speedup Output +18%}}
+{{ResRow|6|blue|dna|Chakana|Great Wave|Janssen Microscope|Royal Doll|Mask of Zorro|Moai|All Gene Research SPD +1.8%}}
+|}
+-->
+
+
+{|class="wikitable"
+!Relics
+!Effect
+{{#cargo_query:table=Relic_Resonance|fields=rank,amount,category,relics,description|format=template|template=RowRelRes|named args=yes}}
+|}

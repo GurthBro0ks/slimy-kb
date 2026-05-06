@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=iF Design Award
+|class_id=22908
+|rank=SSS
+|affct=TECH
+|source=
+|description=This award aims to recognize outstanding works in product design, communication design, and packaging design, symbolizing design quality and representing innovation and functionality. The award's evaluation process is extremely rigorous, with a jury composed of internationally renowned design experts, evaluating entries from multiple dimensions. In recent years, the award has emphasized design sustainability, encouraging designers to consider environmental protection and social responsibility while creating aesthetically pleasing and practical products.
+|fame=64
+|art=56
+|fth=73
+|civ=63
+|tech=106
+|ss1=Snail ATK +30<br>All Mecha Minion Skins, HARD Stats +30%<br>Per 3 Dorm Decors gained, Snail HP +30<br>Dorm Decor Gained: 150/150
+|ss2=Snail ATK +40<br>All Mecha Minion Skins, HARD Stats +40%<br>Per 3 Dorm Decors gained, Snail HP +40<br>Dorm Decor Gained: 150/150
+|ss3=Snail ATK +50<br>All Mecha Minion Skins, HARD Stats +50%<br>Per 3 Dorm Decors gained, Snail HP +50<br>Dorm Decor Gained: 150/150
+|ss4=Snail ATK +70<br>All Mecha Minion Skins, HARD Stats +70%<br>Per 3 Dorm Decors gained, Snail HP +70<br>Dorm Decor Gained: 150/150
+|ss5=Snail ATK +90<br>All Mecha Minion Skins, HARD Stats +90%<br>Per 3 Dorm Decors gained, Snail HP +90<br>Dorm Decor Gained: 150/150
+|ss6=Snail ATK +120<br>All Mecha Minion Skins, HARD Stats +120%<br>Per 3 Dorm Decors gained, Snail HP +120<br>Dorm Decor Gained: 150/150
+|ss7=Snail ATK +120<br>All Mecha Minion Skins, HARD Stats +120%<br>Per 3 Dorm Decors gained, Snail HP +120<br>Dorm Decor Gained: 150/150<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|mirage={{Mirage|name=dungeon@22908_1|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Portable Air Purifier|3rec=329.70M|3atk=809271|3defense=459177|3hp=173534074|3weak=64853
+|4name=Portable Cinema|4rec=421.48M|4atk=958909|4defense=541749|4hp=278268676|4weak=70527
+|5name=Eco-friendly Lunch Box|5rec=551.45M|5atk=1182230|5defense=658676|5hp=485744328|5weak=77841
+|6name=Detachable Chair|6rec=731.00M|6atk=1665764|6defense=833510|6hp=782887406|6weak=87079
+|Arec=1013.24M|Aatk=2543691|Adefense=1128346|Ahp=1431970888|Aweak=97496
+}}}}

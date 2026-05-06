@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Four-goat Square Zun
+|class_id=22709
+|rank=SSS
+|affct=CIV
+|birthday=08-17
+|source=Lottery Machine No.3 (0.12%)
+|description=On Aug 17, 1938 AD, while planting sweet potatoes in Jiang brothers' field in Ningxiang County, Hunan, a treasure was accidentally discovered.<br>The Four-goat Square Zun is a bronze ritual vessel from the Shang Dynasty, and is also the largest of the surviving bronze square Zuns in China. The length of each side of the square Zun is about half a meter, with a high neck, and is decorated with banana leaf patterns on all four sides, with four sheep sculpted on each corner. The heads of the sheep protrude outside the vessel, while their bodies are on the base of the Zun. According to analysis, the Four-goat Square Zun was made through two castings. First, the sheep horns were cast and then placed in the outer mold. Then, the entire vessel was cast using the piece mold method, making it a masterpiece of bronze casting.
+|fame=72
+|art=75
+|fth=57
+|civ=108
+|tech=50
+|ss1=Domain Cabin, deployable robots +3<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +3<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss2=Domain Cabin, deployable robots +4<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +4<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss3=Domain Cabin, deployable robots +5<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +5<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss4=Domain Cabin, deployable robots +7<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +7<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss5=Domain Cabin, deployable robots +9<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +9<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss6=Domain Cabin, deployable robots +12<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +12<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss7=Domain Cabin, deployable robots +12<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +12<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Swamp Sanctum Rating Pts: 100000/100000<br>Domain Cabin, deployable robots +10 (Awakened)
+|skill1=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion ATK +9%
+|skill2=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion DEF +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+|mirage={{Mirage|name=Four Sided Sheep|reward={{RewardIconWithLink|Four-goat Square Table, +1|orange}}
+|3name=Eastern Goat|3rec=111.36M|3atk=318760|3defense=200566|3hp=17143397|3weak=35549
+|4name=Western Goat|4rec=149.13M|4atk=407459|4defense=253715|4hp=25023359|4weak=38966
+|5name=Southern Goat|5rec=213.09M|5atk=560706|5defense=343697|5hp=44805246|5weak=45090
+|6name=Northern Goat|6rec=317.93M|6atk=751508|6defense=448596|6hp=81864133|6weak=52263
+|Arec=431.82M|Aatk=942743|Adefense=551052|Ahp=129280774|Aweak=56900
+}}}}

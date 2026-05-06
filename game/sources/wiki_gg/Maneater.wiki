@@ -1,0 +1,141 @@
+{{Missing Info|specifics=Everything!}}
+{{WIP}}
+
+Some stuff about Maneaters should go here at some point. Wanna help?
+
+At the 1000th floor you unlock {{RewardIconWithLink|Mysterious Seed}}. How to access? Read below here:
+Buy the {{RewardIconWithLink|Mysterious Seed}} from the [[Fissure#Fissure Shop|Fissure Shop]] for 500 {{RewardIconWithLink|Ancient Coin}} and plant it near the Fissure.
+
+
+Buy the {{RewardIconWithLink|Probiotic|green}} from the [[Maneater]] Shop for 1k {{RewardIconWithLink|Ancient Coin}}
+
+
+* {{RewardIconWithText|Blue Maneater Sequence|blue}}
+* {{RewardIconWithText|Purple Maneater Sequence|purple}}
+* {{RewardIconWithText|Orange Maneater Sequence|orange}}
+
+
+* {{RewardIconWithLink|Maneater Affinity}}
+
+
+* {{RewardIconWithText|Digestive Pill|orange}}
+* {{RewardIconWithText|Insect Feed|green}}
+* {{RewardIconWithText|Fish Feed|blue}}
+* {{RewardIconWithText|Animal Feed|purple}}
+* {{RewardIconWithText|Sunny Plant Food|orange}}
+==Gastric Pouch==
+After you have achieved 500 {{RewardIconWithText|Maneater Affinity}}, you can buy {{RewardIconWithText|Endoscope}} from the [[Maneater]] Shop for 200 {{RewardIconWithText|Ancient Coin}}.
+<tabber>
+
+|-|F1-F4=
+{| class="wikitable"
+!Floor !!Name !!ATK !!DEF !!HP !!AFFCT !!Reward
+|-
+|1-1||Devoured Mosquito||51,036||38,962||855,394||25,200||{{RewardIconWithText|B-Tad, +50k}}<br>{{RewardIconWithText|Maneater Affinity, +100}}
+|-
+|1-2||Devoured Mosquito||54,990||41,981||971,184||28,295||{{RewardIconWithText|Clone Speedup, +6h}}<br>{{RewardIconWithText|Maneater Affinity, +110}}
+|-
+|1-3||Devoured Fly||59,067||45,093||1,068,171||30,385||{{RewardIconWithText|Glue, +50}}<br>{{RewardIconWithText|Maneater Affinity, +120}}
+|-
+|1-4||Devoured Fly||63,399||48,400||1,190,350||33,290||{{RewardIconWithText|Sunny Plant Food, +1|orange}}<br>{{RewardIconWithText|Maneater Affinity, +130}}
+|-
+|1-5||Devoured Firefly||68,009||51,919||1,323,701||36,385||{{RewardIconWithLink|Rashomon|purple}} Fragment +20<br>{{RewardIconWithText|Maneater Affinity, +140}}
+|}
+{| class="wikitable"
+!Floor !!Name !!ATK !!DEF !!HP !!AFFCT !!Reward
+|-
+|2-1||Devoured ???||???||???||???||???||{{RewardIconWithText|???}}<br>{{RewardIconWithText|Maneater Affinity, +150}}
+|-
+|2-2||Devoured ???||???||???||???||???||{{RewardIconWithText|Gene Speedup, +6h}}<br>{{RewardIconWithText|Maneater Affinity, +160}}
+|-
+|2-3||Devoured Caterpillar||80,733||63,160||1,759,976||45,720||{{RewardIconWithText|W-Tad, +500}}<br>{{RewardIconWithText|Maneater Affinity, +170}}
+|-
+|2-4||Devoured Caterpillar||88,132||67,281||1,937,573||???||{{RewardIconWithText|Sunny Plant Food, +1|orange}}<br>{{RewardIconWithText|Maneater Affinity, +180}}
+|-
+|2-5||Devoured Sandworm||93,674||71,512||2,088,100||40,475||{{RewardIconWithLink|Rashomon|purple}} Fragment +20<br>{{RewardIconWithText|Maneater Affinity, +190}}
+|}
+{| class="wikitable"
+!Floor !!Name !!ATK !!DEF !!HP !!AFFCT !!Reward
+|-
+|3-1||Devoured Rabbit||99,505||75,964||2,279,926||55,895||{{RewardIconWithText|B-Tad, +60k}}<br>{{RewardIconWithText|Maneater Affinity, +200}}
+|-
+|3-2||Devoured Rabbit||105,520||80,556||2,479,253||59,690||{{RewardIconWithText|Clone Speedup, +8h}}<br>{{RewardIconWithText|Maneater Affinity, +210}}
+|-
+|3-3||Devoured Sheep||111,583||85,185||2,684,746||63,480||{{RewardIconWithText|Glue, +60}}<br>{{RewardIconWithText|Maneater Affinity, +220}}
+|-
+|3-4||Devoured Sheep||118,226||90,257||2,938,170||68,470||{{RewardIconWithText|Sunny Plant Food, +1|orange}}<br>{{RewardIconWithText|Maneater Affinity, +230}}
+|-
+|3-5||Devoured Ox||124,891||95,344||3,161,616||72,265||{{RewardIconWithLink|Rashomon|purple}} Fragment +20<br>{{RewardIconWithText|Maneater Affinity, +240}}
+|}
+{| class="wikitable"
+!Floor !!Name !!ATK !!DEF !!HP !!AFFCT !!Reward
+|-
+|4-1||Devoured Goldfish||131,513||100,400||3,416,219||76,850||{{RewardIconWithText|Green Organ Slime, +120|green}}<br>{{RewardIconWithText|Maneater Affinity, +250}}
+|-
+|4-2||Devoured Goldfish||138,451||105,697||3,677,393||81,335||{{RewardIconWithText|Gene Speedup, +8h}}<br>{{RewardIconWithText|Maneater Affinity, +260}}
+|-
+|4-3||Devoured ???||???||???||???||???||{{RewardIconWithText|W-Tad, +600}}<br>{{RewardIconWithText|Maneater Affinity, +270}}
+|-
+|4-4||Devoured Salmon||154,057||117,611||4,260,667||71,210||{{RewardIconWithText|Sunny Plant Food, +1|orange}}<br>{{RewardIconWithText|Maneater Affinity, +280}}
+|-
+|4-5||Devoured Eel||161.333||123,165||4,564,248||78,790||{{RewardIconWithLink|Rashomon|purple}} Fragment +20<br>{{RewardIconWithText|Maneater Affinity, +290}}
+|}
+
+|-|F5-F8=
+{| class="wikitable"
+!Floor !!Name !!ATK !!DEF !!HP !!AFFCT !!Reward
+|-
+|5-1||Devoured Triceratop||165,287||126,184||4,731,289||81,835||{{RewardIconWithText|B-Tad, +80k}}<br>{{RewardIconWithText|Maneater Affinity, +300}}
+|-
+|5-2||Devoured Triceratop||169,241||129,203||4,922,870||85,550||{{RewardIconWithText|Clone Speedup, +10h}}<br>{{RewardIconWithText|Maneater Affinity, +310}}
+|-
+|5-3||Devoured Stegosaurus||173,459||132,423||5,131,631||87,140||{{RewardIconWithText|Glue, +80}}<br>{{RewardIconWithText|Maneater Affinity, +320}}
+|-
+|5-4||Devoured Stegosaurus||178,204||136,045||5,349,664||87,140||{{RewardIconWithText|Sunny Plant Food, +1|orange}}<br>{{RewardIconWithText|Maneater Affinity, +330}}
+|-
+|5-5||Devoured Ankylosaur||182,158||139,064||5,564,047||90,905||{{RewardIconWithLink|Phil of Galadrial|purple}} Fragment +20<br>{{RewardIconWithText|Maneater Affinity, +340}}
+|}
+{| class="wikitable"
+!Floor !!Name !!ATK !!DEF !!HP !!AFFCT !!Reward
+|-
+|6-1||Devoured Longhorn Beetle||186,113||142,083||5,782,451||90,905||{{RewardIconWithText|Blue Organ Slime, +32|blue}}<br>{{RewardIconWithText|Maneater Affinity, +350}}
+|-
+|6-2||Devoured Longhorn Beetle||190,067||145,101||6,004,880||90,905||{{RewardIconWithText|Gene Speedup, +10h}}<br>{{RewardIconWithText|Maneater Affinity, +360}}
+|-
+|6-3||Devoured Scarab||194,021||148,120||6,231,336||93,635||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithText|Maneater Affinity, +370}}
+|-
+|6-4||Devoured Scarab||198,766||151,743||6,470,150||93,635||{{RewardIconWithText|Sunny Plant Food, +1|orange}}<br>{{RewardIconWithText|Maneater Affinity, +380}}
+|-
+|6-5||Devoured Hercules Beetle||203,511||155,365||6,713,214||96,500||{{RewardIconWithLink|Phil of Galadrial|purple}} Fragment +20<br>{{RewardIconWithText|Maneater Affinity, +390}}
+|}
+{| class="wikitable"
+!Floor !!Name !!ATK !!DEF !!HP !!AFFCT !!Reward
+|-
+|7-1||Devoured Hyena||207,993||158,786||6,957,686||96,500||{{RewardIconWithText|B-Tad, +100k}}<br>{{RewardIconWithText|Maneater Affinity, +400}}
+|-
+|7-2||Devoured Hyena||211,947||161,805||7,200,580||96,500||{{RewardIconWithText|Clone Speedup, +12h}}<br>{{RewardIconWithText|Maneater Affinity, +410}}
+|-
+|7-3||Devoured Wolf||216,692||165,428||7,494,398||99,500||{{RewardIconWithText|Glue, +100}}<br>{{RewardIconWithText|Maneater Affinity, +420}}
+|-
+|7-4||Devoured Wolf||221,437||169,050||7,767,771||99,500||{{RewardIconWithText|Sunny Plant Food, +2|orange}}<br>{{RewardIconWithText|Maneater Affinity, +430}}
+|-
+|7-5||Devoured Lion||226,182||172,673||8,032,701||104,805||{{RewardIconWithLink|Phil of Galadrial|purple}} Fragment +20<br>{{RewardIconWithText|Maneater Affinity, +440}}
+|}
+{| class="wikitable"
+!Floor !!Name !!ATK !!DEF !!HP !!AFFCT !!Reward
+|-
+|8-1||Devoured Parrot||230,927||176,295||8,301,899||104,805||{{RewardIconWithText|Blue Organ Slime, +40|blue}}<br>{{RewardIconWithText|Maneater Affinity, +450}}
+|-
+|8-2||Devoured Parrot||235,672||179,918||8,615,626||110,575||{{RewardIconWithText|Gene Speedup, +12h}}<br>{{RewardIconWithText|Maneater Affinity, +460}}
+|-
+|8-3||Devoured Crow||240,945||189,943||8,913,703||110,575||{{RewardIconWithText|W-Tad, +1000}}<br>{{RewardIconWithText|Maneater Affinity, +470}}
+|-
+|8-4||Devoured Crow||246,217||187,968||9,216,555||118,100||{{RewardIconWithText|Sunny Plant Food, +2|orange}}<br>{{RewardIconWithText|Maneater Affinity, +480}}
+|-
+|8-5||Devoured ???||???||???||???||???||{{RewardIconWithLink|Phil of Galadrial|purple}} Fragment +20<br>{{RewardIconWithText|Maneater Affinity, +490}}
+|}
+</tabber>
+* [[Icons#Maneater]]
+* [[Icons/Species Map]]
+
+[[Category:Maneater]]

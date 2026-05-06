@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=457
+|relics=Zircon of Jack Hills,Lucy the Ape
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Quarry LVLs, Snail ATK +21;Quarry LVL: 90/90
+}}

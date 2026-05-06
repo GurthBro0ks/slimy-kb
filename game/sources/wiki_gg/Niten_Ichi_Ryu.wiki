@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Niten Ichi Ryu
+|class_id=20045
+|rank=Green
+|affct=FAME
+|source=
+|description=Niten Ichi Ryu is the dual-wielding style of Mushashi. Niten refers to the sun and the moon, the Yin and the Yang, while Niten Ichi means wielding the two swords as one. Practitioners typically hold a katana on their right and a wakizashi on their left.
+|fame=29
+|art=13
+|fth=17
+|civ=16
+|tech=15
+|ss1=Snail ATK +10
+|ss2=Snail ATK +20
+|ss3=Snail ATK +30
+|ss4=Snail ATK +30
+|ss7=Snail ATK +30<br> (Awakened)
+}}

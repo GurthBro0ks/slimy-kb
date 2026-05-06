@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Lungs of the Earth
+|class_id=20625
+|rank=Green
+|affct=ART
+|source=
+|description=Forests maintain the balance of carbon dioxide and oxygen in the atmosphere through photosynthesis. They also conserve water sources, prevent wind erosion, and uphold the ecological balance of the Earth. Let's cherish nature, honor life, and coexist harmoniously with forests.
+|fame=15
+|art=32
+|fth=14
+|civ=14
+|tech=15
+|ss1=Snail ATK +20<br>Per 1.2k Gaia Tech Pts, Snail RUSH +1<br>Gaia Tech Pts: 60000/60000
+|ss2=Snail ATK +40<br>Per 1.2k Gaia Tech Pts, Snail RUSH +2<br>Gaia Tech Pts: 60000/60000
+|ss3=Snail ATK +60<br>Per 1.2k Gaia Tech Pts, Snail RUSH +3<br>Gaia Tech Pts: 60000/60000
+|ss4=Snail ATK +60<br>Per 1.2k Gaia Tech Pts, Snail RUSH +3<br>Gaia Tech Pts: 60000/60000
+|ss7=Snail ATK +60<br>Per 1.2k Gaia Tech Pts, Snail RUSH +3<br>Gaia Tech Pts: 60000/60000<br> (Awakened)
+}}

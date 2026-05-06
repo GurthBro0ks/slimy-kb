@@ -1,0 +1,44 @@
+{{CargoRelic
+|name=Einstein's Brain
+|rank=SSS
+|affct=FAME
+|birthday=06-03
+|source=* Grandmaster Scrolls (0.79%), Lottery Machine (0.09%), Wishing (0.08%)
+* Lottery Event (August 11 - August 17, 2023)
+|description=On June 3, 1955, the New York Times published an article that shocked the world.
+
+The New York Times article, "Looking for Clues in Einstein's Brain" reported: "Einstein's brain will be studied to find the secret of genius. His brain was able to expend human understanding of the universe during his life, and after his death perhaps it could help us understand something else." Harvey divided the brain into 240 pieces, leading to his condemnation and dismissal from Princeton hospital. He devoted the rest of his life to studying the brain.
+|fame=106
+|art=59
+|fth=71
+|civ=71
+|tech=55
+|ss1=When in Mutant Form, Gain +3% Mutant Cells in explorations<br>Per 5 Time Machine LVLs, Snail HP +200<br>Per 5 Time Machine LVLs, Snail ATK +20<br>Time machine LVL: 50/50
+|ss2=When in Mutant Form, Gain +4% Mutant Cells in explorations<br>Per 5 Time Machine LVLs, Snail HP +240<br>Per 5 Time Machine LVLs, Snail ATK +24<br>Time machine LVL: 50/50
+|ss3=When in Mutant Form, Gain +5% Mutant Cells in explorations<br>Per 5 Time Machine LVLs, Snail HP +280<br>Per 5 Time Machine LVLs, Snail ATK +28<br>Time machine LVL: 50/50
+|ss4=When in Mutant Form, Gain +7% Mutant Cells in explorations<br>Per 5 Time Machine LVLs, Snail HP +360<br>Per 5 Time Machine LVLs, Snail ATK +36<br>Time machine LVL: 50/50
+|ss5=When in Mutant Form, Gain +9% Mutant Cells in explorations<br>Per 5 Time Machine LVLs, Snail HP +440<br>Per 5 Time Machine LVLs, Snail ATK +44<br>Time machine LVL: 50/50
+|ss6=When in Mutant Form, Gain +12% Mutant Cells in explorations<br>Per 5 Time Machine LVLs, Snail HP +560<br>Per 5 Time Machine LVLs, Snail ATK +56<br>Time machine LVL: 50/50
+|ss7=When in Mutant Form, Gain +12% Mutant Cells in explorations<br>Per 5 Time Machine LVLs, Snail HP +560<br>Per 5 Time Machine LVLs, Snail ATK +56<br>Time machine LVL: 50/50<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x B-tad Drops +15%
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x INTEL Drops +15%
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Food Drops +15%
+|mirage={{#invoke:snailDB|parseMirage|Einstein's Brain}}
+}}
+
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Mutant Cell Drop Boost]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Time Machine Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Exploration Food Drop Boost]]
+[[Category:Mutant Gene Cost Reduction]]
+[[Category:Travel Speed Boost]]
+[[Category:Chika Boost]]
+[[Category:Demonic Tentacle Boost]]
+[[Category:Baby Bud Boost]]
+[[Category:NeuroMecha Minion Boost]]

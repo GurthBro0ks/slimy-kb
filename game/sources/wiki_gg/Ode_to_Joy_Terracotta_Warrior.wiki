@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=190
+|relics=Ode to Joy,Terracotta Warrior
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Fungus Farm LVLs, Snail HP +280;Fungus Farm LVL: 50/50
+}}

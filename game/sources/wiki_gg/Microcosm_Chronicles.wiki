@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Microcosm Chronicles
+|class_id=20825
+|rank=Green
+|affct=TECH
+|source=
+|description=These extensive notes were left behind by a microscopic civilization that originated within the refrigerator. They cover various fields, including life form modification, cloning technology, and molecular biology. Among them is a segment on killer clone analysis, accompanied by the note: "Weakness analysis completed, no longer formidable..."
+|fame=17
+|art=11
+|fth=12
+|civ=15
+|tech=33
+|ss1=Snail ATK +20<br>Greatly boost Snail Power in Hitman Challenges
+|ss2=Snail ATK +40<br>Greatly boost Snail Power in Hitman Challenges
+|ss3=Snail ATK +60<br>Greatly boost Snail Power in Hitman Challenges
+|ss4=Snail ATK +60<br>Greatly boost Snail Power in Hitman Challenges
+|ss7=Snail ATK +60<br>Greatly boost Snail Power in Hitman Challenges<br> (Awakened)
+}}

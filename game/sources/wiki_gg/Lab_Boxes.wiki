@@ -1,0 +1,22 @@
+__FORCETOC__
+
+= Assistant Lab Box =
+{{RewardIconWithText|Assistant Lab Box|blue}} randomly obtain 30 Organ Slime (up to {{Retext|blue|blue}}) and have a drop rate of:
+* 70% {{RewardIconWithLink|Green Organ Slime|green}}
+* 30% {{RewardIconWithLink|Blue Organ Slime|blue}}
+
+
+= Advanced Lab Box =
+{{RewardIconWithText|Advanced Lab Box|purple}} randomly obtain 30 Organ Slime (up to {{Retext|purple|purple}}) and have a drop rate of:
+* 53.33% {{RewardIconWithLink|Green Organ Slime|green}}
+* 30% {{RewardIconWithLink|Blue Organ Slime|blue}}
+* 16.67% {{RewardIconWithLink|Purple Organ Slime|purple}}
+
+= Special Lab Box =
+{{RewardIconWithText|Special Lab Box|orange}} randomly obtain 30 Organ Slime (up to {{Retext|orange|orange}}) and have a drop rate of:
+* 48.33% {{RewardIconWithLink|Green Organ Slime|green}}
+* 30% {{RewardIconWithLink|Blue Organ Slime|blue}}
+* 15% {{RewardIconWithLink|Purple Organ Slime|purple}}
+* 6.67% {{RewardIconWithLink|Orange Organ Slime|orange}}
+
+[[Category:Reward Pack]]

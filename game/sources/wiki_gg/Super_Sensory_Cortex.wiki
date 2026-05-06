@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Super Sensory Cortex
+|type=Common
+|rank=purple
+|id=10850
+|idx=55
+|description="All more evolved creatures have the ability to mix imagination with sensory data to create a happier version of reality. "
+—Superbrain Files
+|skill=
+|hp=1890
+|def=151
+|atk=141
+|rush=150
+|gene1=When HP < 30%, Crit DMG REDUC +10%
+|gene2=Wind RES +60
+|gene3=Ignore Wind RES +60
+|gene4=Wind DMG +60
+|gene7=Wind DMG +3% (Awakened)
+|}}

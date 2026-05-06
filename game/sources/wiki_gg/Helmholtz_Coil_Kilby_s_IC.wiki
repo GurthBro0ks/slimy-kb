@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Helmholtz Coil,Kilby's IC
+|rank=purple
+|amount=2
+|category=Wormhole Boost
+|description=Refine +1 White Rebel Troop Material by +6%
+}}
+[[Category:Wormhole Boost]]

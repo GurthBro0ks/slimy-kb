@@ -1,0 +1,48 @@
+{{CargoRelic
+|name=The Pieta
+|rank=S
+|affct=CIV
+|birthday=01-20
+|source=Fragment Crafting (18.8%), Lottery Machine (0.81%), Relic Forge (90 Relic RF), Wishing (0.69%)
+|description=On Jan 20, 1499 AD, Michelangelo carved this statue for the St. Peter's Bascilla.
+
+The Pieta is a famous statue that depicts the body of Jesus on the lap of his mother Mary after the crucifixion by the Roman governor. On the statue, a scar is seen under Jesus' ribs, and he wore a natural expression on the face. Lying on Maria's lap, his head leaned back and his bent body is as slender as a gymnast, which showed the weakness and hopelessness of death and expresses the greatness of motherly love. This artwork caused a sensation in the entire city of Rome when it was first displayed and is an iconic piece in the history of art.
+
+[Basic info]
+
+Material: Marble
+
+Height: 175cm
+
+Location: St. Peter's Bascilla, Vatican
+
+Era: Renaissance
+|fame=53
+|art=52
+|fth=65
+|civ=99
+|tech=63
+|ss1=Snail HP +100<br>Per Altar God Descent, Snail HP +20<br>Per Altar God Descent, Snail ATK +2<br>Gods Descended: 30/30
+|ss2=Snail HP +200<br>Per Altar God Descent, Snail HP +40<br>Per Altar God Descent, Snail ATK +4<br>Gods Descended: 30/30
+|ss3=Snail HP +300<br>Per Alter God Descent, Snail HP +60<br>Per Alter God Descent, Snail ATK +6<br>Gods Descended: 30/30
+|ss4=Snail HP +500<br>Per Altar God Descent, Snail HP +100<br>Per Altar God Descent, Snail ATK +10<br>Gods Descended: 30/30
+|ss5=Snail HP +700<br>Per Altar God Descent, Snail HP +140<br>Per Altar God Descent, Snail ATK +14<br>Gods Descended: 30/30
+|ss6=Snail HP +1,000<br>Per Altar God Descent, Snail HP +200<br>Per Altar God Descent, Snail ATK +20<br>Gods Descended: 30/30
+|ss7=Snail HP +1,000<br>Per Alter God Descent, Snail HP +200<br>Per Alter God Descent, Snail ATK +20<br>Gods Descended: 30/30<br>Snail HP +1,000 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: This Relic's CIV +15
+|skill2=[[File:Quarry skill III.png|50px]]Place in Quarry: Find Ancient Fossil by +30%
+|skill3=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: This Relic's CIV +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:God Descent Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:CIV Boost]]
+[[Category:Quarry Skill]]
+[[Category:Ancient Fossil Boost]]
+[[Category:Lumber Camp Skill]]
+[[Category:Lumber Camp Output Boost]]
+[[Category:Angel Gene Cost Reduction]]
+[[Category:Rewards Divine Chests]]

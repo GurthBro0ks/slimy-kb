@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Clown Coupon
+|class_id=20052
+|rank=Green
+|affct=FAME
+|source=
+|description=The well-known fast-food chain, Clown Express, offers coupons for the brave customers who participate in new tastings. With this coupon, you can eat in Clown Express at the maximum discount for life! You can even get money for eating there in extreme cases!
+|fame=30
+|art=11
+|fth=18
+|civ=14
+|tech=17
+|ss1=Per 1k Tadpole Points, Snail ATK +1<br>Tadpole Points: 20000/20000
+|ss2=Per 1k Tadpole Points, Snail ATK +2<br>Tadpole Points: 20000/20000
+|ss3=Per 1k Tadpole Points, Snail ATK +3<br>Tadpole Points: 20000/20000
+|ss4=Per 1k Tadpole Points, Snail ATK +3<br>Tadpole Points: 20000/20000
+|ss7=Per 1k Tadpole Points, Snail ATK +3<br>Tadpole Points: 20000/20000<br> (Awakened)
+}}

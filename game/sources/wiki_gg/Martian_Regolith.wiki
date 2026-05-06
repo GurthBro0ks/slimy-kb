@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Martian Regolith
+|class_id=20932
+|rank=Green
+|affct=FAME
+|source=
+|description=Martian Regolith is a product of the weathering of Martian rocks. Due to the huge temperature difference between day and night on Mars, the rocks are weathered into soil through thermal expansion. Since there is no moisture or organic matter in the Martian soil, they do not solidify into blocks and remain in a powder state.
+|fame=30
+|art=14
+|fth=13
+|civ=15
+|tech=18
+|ss1=Quantum Amp gives Nebula Chest Shards by +3%<br>Per 5 Quantum Amp LVLs, Snail ATK +6<br>Quantum Amp LVL: 50/50
+|ss2=Quantum Amp gives Nebula Chest Shards by +4%<br>Per 5 Quantum Amp LVLs, Snail ATK +8<br>Quantum Amp LVL: 50/50
+|ss3=Quantum Amp gives Nebula Chest Shards by +5%<br>Per 5 Quantum Amp LVLs, Snail ATK +10<br>Quantum Amp LVL: 50/50
+|ss4=Quantum Amp gives Nebula Chest Shards by +5%<br>Per 5 Quantum Amp LVLs, Snail ATK +10<br>Quantum Amp LVL: 50/50
+|ss7=Quantum Amp gives Nebula Chest Shards by +5%<br>Per 5 Quantum Amp LVLs, Snail ATK +10<br>Quantum Amp LVL: 50/50<br> (Awakened)
+}}

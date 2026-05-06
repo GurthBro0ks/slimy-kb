@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Jade Blade
+|class_id=20143
+|rank=Green
+|affct=ART
+|source=
+|description=Jade Zhang and Jade Gui are both flat cuboids with beveled edges on one end and holes on the other. This Jade Zhang was excavated in the Sanxingdui ritual pit I. It's extremely beautiful with a split end, multi-toothed case-like prism fully spread to both sides, resembling open wings.
+|fame=17
+|art=31
+|fth=14
+|civ=13
+|tech=15
+|ss1=Per 1.5k Museum Medals gained, Snail HP +20<br>Museum Medals Gained: 60000/60000
+|ss2=Per 1.5k Museum Medals gained, Snail HP +40<br>Museum Medals Gained: 60000/60000
+|ss3=Per 1.5k Museum Medals gained, Snail HP +60<br>Museum Medals Gained: 60000/60000
+|ss4=Per 1.5k Museum Medals gained, Snail HP +60<br>Museum Medals Gained: 60000/60000
+|ss7=Per 1.5k Museum Medals gained, Snail HP +60<br>Museum Medals Gained: 60000/60000<br> (Awakened)
+}}

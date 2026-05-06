@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=355
+|relics=San Damiano Cross,Chain Reaction Model,1900's Vinyl Record
+|rank=blue
+|amount=3
+|category=self
+|description=Per God of Tech Descent, Snail HP +60;God of Tech Descended: 40/40
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=D-Agent License
+|class_id=20379
+|rank=Green
+|affct=TECH
+|source=
+|description=The license-holder is a dimension agent of the investigation bureau who is granted law enforcement power by federal law. Please be cooperative when you are questioned and frisked, as the dimension agent has the right to use force! (Stamped)
+|fame=13
+|art=16
+|fth=15
+|civ=15
+|tech=31
+|ss1=Defeated Dimension Agents drop +10 W-tads
+|ss2=Defeated Dimension Agents drop +20 W-tads
+|ss3=Defeated Dimension Agents drop +30 W-tads
+|ss4=Defeated Dimension Agents drop +30 W-tads
+|ss7=Defeated Dimension Agents drop +30 W-tads<br> (Awakened)
+}}

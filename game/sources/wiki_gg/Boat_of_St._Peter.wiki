@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=Boat of St. Peter
+|rank=SS
+|affct=FTH
+|birthday=11-25
+|source=FTH Master Scrolls (9.2%), Fragment Crafting (4.4%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), Super Species Chest (5.5%), Wishing (0.16%)
+|description=On Nov 25, 15 AD, St. Peter built this fishing boat and used it to catch two boats of fish. Jesus borrowed Peter's boat by the sea of Galilee to teach his followers. When Jesus asked Peter to fish in deep water, he cast a net and caught two boats full of fish. Under Jesus' call, he became the first disciple of Jesus.
+|fame=49
+|art=61
+|fth=105
+|civ=69
+|tech=63
+|ss1=Snail HP +200<br>In explorations, 2x B-tad Drops +0.8%<br>Per 10 RUSH-Fungi eaten, Snail RUSH +2<br>RUSH-Fungi Eaten: 500/500
+|ss2=Snail HP +300<br>In explorations, 2x B-tad Drops +1.2%<br>Per 10 RUSH-Fungi eaten, Snail RUSH +3<br>RUSH-Fungi Eaten: 500/500
+|ss3=Snail HP +400<br>In explorations, 2x B-tad Drops +1.6%<br>Per 10 RUSH-Fungi eaten, Snail RUSH +4<br>RUSH-Fungi Eaten: 500/500
+|ss4=Snail HP +600<br>In explorations, 2x B-tad Drops +2.4%<br>Per 10 RUSH-Fungi eaten, Snail RUSH +6<br>RUSH-Fungi Eaten: 500/500
+|ss5=Snail HP +800<br>In explorations, 2x B-tad Drops +3.2%<br>Per 10 RUSH-Fungi eaten, Snail RUSH +8<br>RUSH-Fungi Eaten: 500/500
+|ss6=Snail HP +1,100<br>In explorations, 2x B-tad Drops +4.4%<br>Per 10 RUSH-Fungi eaten, Snail RUSH +11<br>RUSH-Fungi Eaten: 500/500
+|ss7=Snail HP +1,100<br>In explorations, 2x B-tad Drops +4.4%<br>Per 10 RUSH-Fungi eaten, Snail RUSH +11<br>RUSH-Fungi Eaten: 500/500<br>In explorations, 2x B-tad Drops +4% (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail HP +6,000
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x B-tad Drops +15%
+|skill3=[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: Grow Wonder Fungus by +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:RUSH Boost]]
+[[Category:RUSH-Fungi Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:Wonder Fungus Output]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:Incense Boost]]
+[[Category:ATK Boost]]

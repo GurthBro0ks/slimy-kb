@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Imperial Jade
+|rank=S
+|affct=FAME
+|birthday=02-23
+|source=Fragment Crafting (20.7%), Lottery Machine (0.81%), Wishing (0.75%), Cathay Treasure Maps (5%), Relic Forge (90 Relic RF)
+|description=On Feb 23, AD 191, this jade seal, which was a symbol of kingship, reappeared.
+
+Imperial Jade is a symbol of the reign and dreamt by all warlords. Yet, it also brings all kinds of misfortune to those who own it. 
+
+[Ominous Tales]
+
+King Li of Chu broke the legs of the Jade Presenter Bian. Minister Lin of Zhao was nearly killed because of the jade. First Emperor of Qin sacrificed the seal to the River God to escape death. Empress Wang broke the curse by smashing the seal. General Sun was ambushed as he found the seal. More misfortunes continue.
+|fame=99
+|art=62
+|fth=65
+|civ=51
+|tech=55
+|ss1=Snail ATK +10<br>Snail DEF +10<br>Snail RUSH +10
+|ss2=Snail ATK +20<br>Snail DEF +20<br>Snail RUSH +20
+|ss3=Snail ATK +30<br>Snail DEF +30<br>Snail RUSH +30
+|ss4=Snail ATK +50<br>Snail DEF +50<br>Snail RUSH +50
+|ss5=Snail ATK +70<br>Snail DEF +70<br>Snail RUSH +70
+|ss6=Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100
+|ss7=Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]] Place in Cathay Museum: Cathay Museum Score +300
+|skill2=[[File:Cathay skill III.png|50px]] Place in Cathay Museum: Expert Scroll cost -300 medal
+|skill3=[[File:Cathay skill III.png|50px]] Place in Cathay Museum: Cathay exploration, 2x Blue Cards chance +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:RUSH Boost]]
+[[Category:HP Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:Minion HP Boost]]
+[[Category:Jaden Embryo Boost]]

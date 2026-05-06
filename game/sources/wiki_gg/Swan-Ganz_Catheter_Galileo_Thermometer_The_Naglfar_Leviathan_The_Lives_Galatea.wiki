@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=775
+|relics=Swan-Ganz Catheter,Galileo Thermometer,The Naglfar,Leviathan,The Lives,Galatea
+|rank=purple
+|amount=6
+|category=self
+|description=Snail Leadership +10
+}}

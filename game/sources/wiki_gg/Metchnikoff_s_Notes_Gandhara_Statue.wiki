@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=487
+|relics=Metchnikoff's Notes,Gandhara Statue
+|rank=orange
+|amount=2
+|category=self
+|description=Per 100 Badges gained, Snail ATK +14;Badges Gained: 2000/2000
+}}

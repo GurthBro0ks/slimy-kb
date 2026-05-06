@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=This bone might come from a tyrannosaur. During the 90s, a tyrannosaur suddenly appeared, but it was subdued by agents after suffering huge losses. The travelers hoped to dissect the creature to see how it appeared there, but results show it was just an obese lizard.
+|affct=FAME
+|hard=DEF
+|source=Divine Order Chest (0.1%)
+|color=orange
+|earth=13
+|water=10
+|fire=9
+|wind=10
+|form=Zombie
+|element=Water
+|realm=Kemet
+|orangehard=RUSH
+}}

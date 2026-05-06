@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Epitaph of Sikelos
+|class_id=22728
+|rank=SSS
+|affct=CIV
+|birthday=12-07
+|source=
+|description=On Dec 7, 1883 AD, Sir Ramsay discovered a tombstone engraved with an epitaph in the town of Trelleis.<br>To commemorate his deceased wife, Sikelos engraved a lament on her tombstone. The overall meaning of the inscription is: "Enjoy life while you can, and don't complain when faced with adversity. Life is short, and fate is ever-changing." This tombstone, in the form of an ancient Greek musical notation, fully preserves the lyrics and rhythm of the entire lament. It is the most complete ancient Greek musical notation that we have discovered to date.
+|fame=77
+|art=64
+|fth=63
+|civ=108
+|tech=50
+|ss1=All minion skins RUSH +10%<br>Per Tribal Chief defeated, Snail ATK +3<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +24<br>Tribal Chiefs Defeated: 50/50
+|ss2=All minion skins RUSH +20%<br>Per Tribal Chief defeated, Snail ATK +4<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +32<br>Tribal Chiefs Defeated: 50/50
+|ss3=All minion skins RUSH +30%<br>Per Tribal Chief defeated, Snail ATK +5<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +40<br>Tribal Chiefs Defeated: 50/50
+|ss4=All minion skins RUSH +50%<br>Per Tribal Chief defeated, Snail ATK +7<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +56<br>Tribal Chiefs Defeated: 50/50
+|ss5=All minion skins RUSH +70%<br>Per Tribal Chief defeated, Snail ATK +9<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +72<br>Tribal Chiefs Defeated: 50/50
+|ss6=All minion skins RUSH +100%<br>Per Tribal Chief defeated, Snail ATK +12<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +96<br>Tribal Chiefs Defeated: 50/50
+|ss7=All minion skins RUSH +100%<br>Per Tribal Chief defeated, Snail ATK +12<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +96<br>Tribal Chiefs Defeated: 50/50<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion HP +9%
+|skill2=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion ATK +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+|mirage={{Mirage|name=Immortality Melody in Time|reward={{RewardIconWithLink|Glue, +100|orange}}
+|3name=Pan Flute|3rec=154.84M|3atk=435792|3defense=261746|3hp=65345507|3weak=51155
+|4name=Lyre|4rec=187.72M|4atk=506308|4defense=308007|4hp=99829133|4weak=56083
+|5name=Bone Flute|5rec=235.13M|5atk=605846|5defense=374102|5hp=163485201|5weak=61556
+|6name=Folminks|6rec=341.60M|6atk=751033|6defense=469886|6hp=283137800|6weak=67590
+|Arec=480.97M|Aatk=942988|Adefense=595269|Ahp=474959814|Aweak=73563
+}}}}

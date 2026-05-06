@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Aspirin
+|class_id=20344
+|rank=Green
+|affct=TECH
+|source=
+|description=Aspirin, aka acetylsalicylic acid, is one of the three classic drugs in medical history. It has been in use for more than a hundred years, and is still the most widely used antipyretic, analgesic, anti-inflammatory med in the world!
+|fame=13
+|art=17
+|fth=14
+|civ=17
+|tech=29
+|ss1=Per 5 Minions Healed, Snail DEF +1<br>Minions healed: 100/100
+|ss2=Per 5 Minions Healed, Snail DEF +2<br>Minions healed: 100/100
+|ss3=Per 5 Minions Healed, Snail DEF +3<br>Minions healed: 100/100
+|ss4=Per 5 Minions Healed, Snail DEF +3<br>Minions healed: 100/100
+|ss7=Per 5 Minions Healed, Snail DEF +3<br>Minions healed: 100/100<br> (Awakened)
+}}

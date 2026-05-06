@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Trajan's Column
+|class_id=22307
+|rank=SS
+|affct=CIV
+|birthday=10-06
+|source=Lottery Machine No.2 (0.42%), Wishing (1.6%)
+|description=On Oct 6, 113 AD, the Trajan's Column was completed in Trajan's Forum.<br>The Trajan's Column was constructed to commemorate Roman emperor Trajan's victory in the Dacian Wars. As one of the Five Good Emperors, he conquered Dacia and presided over one of the greatest military expansions in Roman history, and led the empire to attain its greatest territorial extent by the time of his death. He presided over an era of peace within the Empire and prosperity in the Mediterranean world. The Trajan's Column, which was built at his order, has stood for more than 1900 years and is still the most magnificent triumphal column in the world.
+|fame=66
+|art=70
+|fth=59
+|civ=101
+|tech=51
+|ss1=Snail HP +200<br>Per Realm conquered, Snail HP +100<br>Per Realm conquered, Snail ATK +10<br>Realms Conquered: 9/9
+|ss2=Snail HP +300<br>Per Realm conquered, Snail HP +150<br>Per Realm conquered, Snail ATK +15<br>Realms Conquered: 9/9
+|ss3=Snail HP +400<br>Per Realm conquered, Snail HP +200<br>Per Realm conquered, Snail ATK +20<br>Realms Conquered: 9/9
+|ss4=Snail HP +600<br>Per Realm conquered, Snail HP +300<br>Per Realm conquered, Snail ATK +30<br>Realms Conquered: 9/9
+|ss5=Snail HP +800<br>Per Realm conquered, Snail HP +400<br>Per Realm conquered, Snail ATK +40<br>Realms Conquered: 9/9
+|ss6=Snail HP +1100<br>Per Realm conquered, Snail HP +550<br>Per Realm conquered, Snail ATK +55<br>Realms Conquered: 9/9
+|ss7=Snail HP +1100<br>Per Realm conquered, Snail HP +550<br>Per Realm conquered, Snail ATK +55<br>Realms Conquered: 9/9<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion HP +9%
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +600
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion HP +6%
+|mirage={{Mirage|name=The Great Roman Emperors|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Nerva|3rec=37.65M|3atk=145201|3defense=96869|3hp=5973892|3weak=19726
+|4name=Hadrian|4rec=54.25M|4atk=180195|4defense=120215|4hp=8828365|4weak=22594
+|5name=Aurelius|5rec=73.55M|5atk=220904|5defense=147374|5hp=12463732|5weak=29324
+|Arec=94.92M|Aatk=265982|Adefense=177447|Ahp=17385661|Aweak=33552
+}}}}

@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Marseilles Statue
+|rank=Blue
+|affct=ART
+|birthday=10-22
+|source=Lottery Machine (0.03%), Wishing (1.2%), Hellas Treasure Map (20%)
+|description=On Oct 22, 1826, Francois Rude carved La Marseillaise on the Arc de Triomphe in Paris. The Marseillaise soldier statue is often used as a template in art lessons. It features the young bearded soldier with a strong and intense facial expression. He raised the helmet in his right hand and turned to the left shouting to the audience. Such battle spirit and enthusiasm can easily leave a deep impression on the audience. With a vivid and energetic body expression with a neat and strong structure, it was known to be the symbol and pride of France.
+|fame=21
+|art=46
+|fth=28
+|civ=30
+|tech=29
+|ss1=Per 10 Demon Minions in battle: Troop HARD Stats +1
+|ss2=Per 10 Demon Minions in battle: Troop HARD Stats +2
+|ss3=Per 10 Demon Minions in battle: Troop HARD Stats +3
+|ss4=Per 10 Demon Minions in battle: Troop HARD Stats +5
+|ss7=Per 10 Demon Minions in battle: Troop HARD Stats +5<br>Per 10 Demon Minions in battle: Troop HARD Stats +3 (Awakened)
+|skill1={{Skills|hellas|def|20}}
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:ART Relics]]
+[[Category:Blue ART Relics]]
+[[Category:Demon Minion HARD Boost]]
+[[Category:Hellas Museum Boost]]
+[[Category:Hellas Exploration Boost]]
+[[Category:ATK Boost]]

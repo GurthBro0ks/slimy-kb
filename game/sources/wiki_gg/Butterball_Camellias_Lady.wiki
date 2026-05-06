@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=337
+|relics=Butterball,Camellias Lady
+|rank=blue
+|amount=2
+|category=self
+|description=Species War Cabin Output +5%
+}}

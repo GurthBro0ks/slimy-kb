@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Mother Chest
+|class_id=22677
+|rank=SS
+|affct=FAITH
+|birthday=05-06
+|source=Lottery Machine No.3 (0.24%)
+|description=On May 6, 1971 AD, Fisher, who absorbed the Mother Chest, became a Biochem Man.<br>Mother Chest, created by Hephaestus after being inspired by a dream, is a cubic box with a side length of one foot and an extremely smooth surface on each side. If one could observe its internal structure, it is actually a biological intelligent computer with self-awareness. It escaped Hephaestus's control and began to wander into space. It found its host on a remote planet and merged with it.
+|fame=59
+|art=72
+|fth=103
+|civ=49
+|tech=64
+|ss1=All Sanctum Glorium Output +0.8%<br>Tribal Amber output +4%<br>Per Godhood LVL, Snail ATK +12<br>Godhood LVL: 10/10
+|ss2=All Sanctum Glorium Output +1.2%<br>Tribal Amber output +6%<br>Per Godhood LVL, Snail ATK +18<br>Godhood LVL: 10/10
+|ss3=All Sanctum Glorium Output +1.6%<br>Tribal Amber output +8%<br>Per Godhood LVL, Snail ATK +24<br>Godhood LVL: 10/10
+|ss4=All Sanctum Glorium Output +2.4%<br>Tribal Amber output +12%<br>Per Godhood LVL, Snail ATK +36<br>Godhood LVL: 10/10
+|ss5=All Sanctum Glorium Output +3.2%<br>Tribal Amber output +16%<br>Per Godhood LVL, Snail ATK +48<br>Godhood LVL: 10/10
+|ss6=All Sanctum Glorium Output +4.4%<br>Tribal Amber output +22%<br>Per Godhood LVL, Snail ATK +66<br>Godhood LVL: 10/10
+|ss7=All Sanctum Glorium Output +4.4%<br>Tribal Amber output +22%<br>Per Godhood LVL, Snail ATK +66<br>Godhood LVL: 10/10<br>All Sanctum Glorium Output +4% (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop DMG REDUC +6%
+|skill2=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: This Relic's FTH +15
+|skill3=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Cap +30%
+|mirage={{Mirage|name=Treasure Guard|reward={{RewardIconWithLink|Stardust Box III, +3|orange}}
+|3name=Human Defender|3rec=241.49M|3atk=627894|3defense=379826|3hp=60226086|3weak=49154
+|4name=Amazon Defender|4rec=413.33M|4atk=911720|4defense=534418|4hp=118769930|4weak=56185
+|5name=Atlantis Defender|5rec=672.24M|5atk=1368138|5defense=770486|5hp=334368705|5weak=68199
+|Arec=842.40M|Aatk=1684358|Adefense=952988|Ahp=567877800|Aweak=82202
+}}}}

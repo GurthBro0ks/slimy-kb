@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=The Art of War
+|rank=SSS
+|affct=CIV
+|birthday=01-14
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.08%)
+|description=On Jan 14, 512 BC, famous military strategist Sun Wu wrote his experience in The Art of War.
+
+When Sun Wu visited He Lu, the King of Wu, he impressed the king by successfully training court ladies. His Art of War is a book of military theory and practice highly revered by later generations for its philosophical depth and sound logic. Having been translated into numerous languages, this military classic enjoys worldwide recognition.
+
+[Quote]
+
+The greatest victory is that which requires no battle.
+|fame=53
+|art=64
+|fth=63
+|civ=109
+|tech=73
+|ss1=All Cathay General Stats +3%<br>Per 5 Cathay INTEL LVLs, Snail ATK +6<br>Per 5 Cathay INTEL LVLs, Snail RUSH +6<br>LVL of Cathay INTEL: 100/100
+|ss2=All Cathay General Stats +4%<br>Per 5 Cathay INTEL LVLs, Snail ATK +8<br>Per 5 Cathay INTEL LVLs, Snail RUSH +8<br>LVL of Cathay INTEL: 100/100
+|ss3=All Cathay General Stats +5%<br>Per 5 Cathay INTEL LVLs, Snail ATK +10<br>Per 5 Cathay INTEL LVLs, Snail RUSH +10<br>LVL of Cathay INTEL: 100/100
+|ss4=All Cathay General Stats +7%<br>Per 5 Cathay INTEL LVLs, Snail ATK +14<br>Per 5 Cathay INTEL LVLs, Snail RUSH +14<br>LVL of Cathay INTEL: 100/100
+|ss5=All Cathay General Stats +9%<br>Per 5 Cathay INTEL LVLs, Snail ATK +18<br>Per 5 Cathay INTEL LVLs, Snail RUSH +18<br>LVL of Cathay INTEL: 100/100
+|ss6=All Cathay General Stats +12%<br>Per 5 Cathay INTEL LVLs, Snail ATK +24<br>Per 5 Cathay INTEL LVLs, Snail RUSH +24<br>LVL of Cathay INTEL: 100/100
+|ss7=All Cathay General Stats +12%<br>Per 5 Cathay INTEL LVLs, Snail ATK +24<br>Per 5 Cathay INTEL LVLs, Snail RUSH +24<br>LVL of Cathay INTEL: 100/100<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Cathay skill III.png|frameless|50x50px]]Place in Cathay Museum: In Cathay, Snail ATK +600
+|skill2=[[File:Cathay skill III.png|frameless|50x50px]]Place in Cathay Museum: Medal Output +30
+|skill3=[[File:Cathay skill III.png|frameless|50x50px]]Place in Cathay Museum: Medal Cost for Grandmaster Scrolls -300
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:Medal Boost]]
+[[Category:Minion HP Boost]]
+[[Category:Gear Boost]]
+[[Category:DEF Boost]]
+[[Category:Lubu Boost]]

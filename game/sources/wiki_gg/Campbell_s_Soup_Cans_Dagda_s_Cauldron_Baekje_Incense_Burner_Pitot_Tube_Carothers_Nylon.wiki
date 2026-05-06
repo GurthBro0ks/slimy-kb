@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=649
+|relics=Campbell's Soup Cans,Dagda's Cauldron,Baekje Incense Burner,Pitot Tube,Carothers Nylon
+|rank=blue
+|amount=5
+|category=self
+|description=Per 2 Purple Brand Cases opened, Snail ATK +8;Purple Brand Cases Opened: 100/100
+}}

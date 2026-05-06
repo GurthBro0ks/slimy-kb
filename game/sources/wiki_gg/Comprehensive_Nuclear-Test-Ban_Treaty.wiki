@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Comprehensive Nuclear-Test-Ban Treaty
+|class_id=22789
+|rank=SSS
+|affct=FAME
+|source=
+|description=The Comprehensive Nuclear-Test-Ban Treaty is an international treaty aimed at preventing further global environmental pollution due to extensive nuclear testing and the further proliferation of nuclear weapons technology. Its goal is to ban all nuclear explosions, whether in the atmosphere, underwater, or underground. The treaty is of great significance for maintaining global peace and security, promoting nuclear disarmament, and preventing the proliferation of nuclear weapons.
+|fame=107
+|art=65
+|fth=55
+|civ=65
+|tech=70
+|ss1=Snail HP +300<br>Zombie Minion RUSH +3%<br>Protomon Troop assist DMG + 240
+|ss2=Snail HP +400<br>Zombie Minion RUSH +4%<br>Protomon Troop assist DMG + 320
+|ss3=Snail HP +500<br>Zombie Minion RUSH +5%<br>Protomon Troop assist DMG + 400
+|ss4=Snail HP +700<br>Zombie Minion RUSH +7%<br>Protomon Troop assist DMG + 560
+|ss5=Snail HP +900<br>Zombie Minion RUSH +9%<br>Protomon Troop assist DMG + 720
+|ss6=Snail HP +1200<br>Zombie Minion RUSH +12%<br>Protomon Troop assist DMG + 960
+|ss7=Snail HP +1200<br>Zombie Minion RUSH +12%<br>Protomon Troop assist DMG + 960<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop CRIT DMG +6%
+|skill2=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop Wind DMG +60
+|skill3=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion RUSH +9%
+}}

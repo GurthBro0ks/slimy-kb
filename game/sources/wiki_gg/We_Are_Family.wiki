@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=We Are Family
+|class_id=20159
+|rank=Green
+|affct=ART
+|source=
+|description=When Snails and Birds say "We Are Family," those who don't have a clue may be moved by their strong bonds. Yet, beneath superficial greetings lies secret malice against each other.
+|fame=16
+|art=32
+|fth=14
+|civ=15
+|tech=13
+|ss1=Snail ATK +40<br>Per 1 Egg hatched, Snail ATK +2<br>Eggs hatched: 40/40
+|ss2=Snail ATK +70<br>Per 1 Egg hatched, Snail ATK +4<br>Eggs hatched: 40/40
+|ss3=Snail ATK +100<br>Per 1 Egg hatched, Snail ATK +6<br>Eggs hatched: 40/40
+|ss4=Snail ATK +100<br>Per 1 Egg hatched, Snail ATK +6<br>Eggs hatched: 40/40
+|ss7=Snail ATK +100<br>Per 1 Egg hatched, Snail ATK +6<br>Eggs hatched: 40/40<br> (Awakened)
+}}

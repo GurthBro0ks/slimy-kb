@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Untitled
+|class_id=22260
+|rank=SSS
+|affct=ART
+|birthday=12-28
+|source=
+|description=On Dec 28, 1961 AD, American painter Ryman created his white painting - Untitled.<br>Except for a smattering of blue and green, the Untitled is almost completely blank. Most people would mistake this painting for their own white walls, but this is Ryman's style. Most of his paintings are based on white, and the main purpose is to explore the relationship between the surface of the painting, light, and space. This method of expression is classified as minimalist by scholars, but Ryman considers himself a realist.
+|fame=53
+|art=108
+|fth=69
+|civ=66
+|tech=66
+|ss1=When refining, there exists a +1.2% chance for White Building Materials to turn into Green<br>Per 20 Wormhole Refiners opened, Snail ATK +6<br>Per 20 Wormhole Refiners opened, Snail RUSH +6<br>800/800 Wormhole Refiner opened
+|ss2=When refining, there exists a +2.4% chance for White Building Materials to turn into Green<br>Per 20 Wormhole Refiners opened, Snail ATK +8<br>Per 20 Wormhole Refiners opened, Snail RUSH +8<br>800/800 Wormhole Refiner opened
+|ss3=When refining, there exists a +3.6% chance for White Building Materials to turn into Green<br>Per 20 Wormhole Refiners opened, Snail ATK +10<br>Per 20 Wormhole Refiners opened, Snail RUSH +10<br>800/800 Wormhole Refiner opened
+|ss4=When refining, there exists a +6% chance for White Building Materials to turn into Green<br>Per 20 Wormhole Refiners opened, Snail ATK +14<br>Per 20 Wormhole Refiners opened, Snail RUSH +14<br>800/800 Wormhole Refiner opened
+|ss5=When refining, there exists a +8.4% chance for White Building Materials to turn into Green<br>Per 20 Wormhole Refiners opened, Snail ATK +18<br>Per 20 Wormhole Refiners opened, Snail RUSH +18<br>800/800 Wormhole Refiner opened
+|ss6=When refining, there exists a +12% chance for White Building Materials to turn into Green<br>Per 20 Wormhole Refiners opened, Snail ATK +24<br>Per 20 Wormhole Refiners opened, Snail RUSH +24<br>800/800 Wormhole Refiner opened
+|ss7=When refining, there exists a +12% chance for White Building Materials to turn into Green<br>Per 20 Wormhole Refiners opened, Snail ATK +24<br>Per 20 Wormhole Refiners opened, Snail RUSH +24<br>800/800 Wormhole Refiner opened<br>When refining, there exists a +10% chance for White Building Materials to turn into Green (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Cells collected +15%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=Master of Minimalism|reward={{RewardIconWithLink|Coating Bucket, +3|orange}}
+|3name=Newman|3rec=38.68M|3atk=147374|3defense=98319|3hp=6082778|3weak=19819
+|4name=Norland|4rec=50.90M|4atk=173144|4defense=115511|4hp=8138846|4weak=21919
+|5name=Albers|5rec=64.72M|5atk=202276|5defense=134946|5hp=10706981|5weak=26013
+|6name=Lehmann|6rec=79.75M|6atk=233992|6defense=156105|6hp=13853127|6weak=30850
+|Arec=96.22M|Aatk=268726|Adefense=179277|Ahp=17595561|Aweak=33799
+}}}}

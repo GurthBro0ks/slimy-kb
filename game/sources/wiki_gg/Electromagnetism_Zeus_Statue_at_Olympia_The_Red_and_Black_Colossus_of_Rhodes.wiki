@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=768
+|relics=Electromagnetism,Zeus Statue at Olympia,The Red and Black,Colossus of Rhodes
+|rank=orange
+|amount=4
+|category=self
+|description=Per 60 T7+ Minions in battle: Troop ATK +90
+}}

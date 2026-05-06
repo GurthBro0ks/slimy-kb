@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Black Dragon
+|rank=orange
+|cabin=2
+|id=191
+|gene1={race} RUSH +50
+|gene2={race} FTH +50
+|gene3=Species War Cabin Output +3%
+|gene4=Per 60 Dragon Minions in battle,
+Troop Wind DMG +6
+|gene5=Dragon Minion Skin RUSH +30%
+|gene6=Per 60 Dragon Minions in battle,
+Troop Wind DMG +10
+|gene7=Dragon Minion Skin RUSH +50%
+|}}

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Golden Autumn
+|class_id=22665
+|rank=SSS
+|affct=ART
+|birthday=03-18
+|source=
+|description=On Mar 18, 1896 AD, Golden Autumn made its debut and was exhibited to the public for the first time.<br>Golden Autumn is a renowned masterpiece by the Russian artist Levitan. With confident brushstrokes, the painter depicts fields, streams, and birch forests during the autumn season. Through vibrant and lively colors, the golden hues are highlighted, creating a sense of freshness and ethereal beauty. This not only showcases the artist's exceptional skills but also captivates the viewers, immersing them in its enchanting atmosphere.
+|fame=50
+|art=108
+|fth=69
+|civ=70
+|tech=65
+|ss1=All Minion ATK +0.6%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +30<br>Per 10 ART Pistils Used, Snail HP +30<br>Art Pistils Used: 400/400
+|ss2=All Minion ATK +0.8%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +40<br>Per 10 ART Pistils Used, Snail HP +40<br>Art Pistils Used: 400/400
+|ss3=All Minion ATK +1%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +50<br>Per 10 ART Pistils Used, Snail HP +50<br>Art Pistils Used: 400/400
+|ss4=All Minion ATK +1.4%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +70<br>Per 10 ART Pistils Used, Snail HP +70<br>Art Pistils Used: 400/400
+|ss5=All Minion ATK +1.8%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +90<br>Per 10 ART Pistils Used, Snail HP +90<br>Art Pistils Used: 400/400
+|ss6=All Minion ATK +2.4%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 10 ART Pistils Used, Snail HP +120<br>Art Pistils Used: 400/400
+|ss7=All Minion ATK +2.4%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 10 ART Pistils Used, Snail HP +120<br>Art Pistils Used: 400/400<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +6%
+|mirage={{Mirage|name=Colorful Autumn|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Red Autumn|3rec=142.82M|3atk=408807|3defense=244833|3hp=54614890|3weak=49006
+|4name=Green Autumn|4rec=170.69M|4atk=470320|4defense=284050|4hp=81998364|4weak=53647
+|5name=Gray autumn|5rec=210.14M|5atk=553783|5defense=339548|5hp=123937899|5weak=58867
+|6name=Colorful Autumn|6rec=285.88M|6atk=674895|6defense=419761|6hp=212687879|6weak=64703
+|Arec=408.45M|Aatk=842925|Adefense=530024|Ahp=362780498|Aweak=70667
+}}}}

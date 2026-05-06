@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Rancho's Space Pen
+|class_id=22476
+|rank=Blue
+|affct=CIV
+|birthday=11-27
+|source=Lottery Machine No.3 (0.03%)
+|description=On Nov 27, 1998 AD, the principal of Imperial Industrial University finally bowed his proud head.<br>Rancho is a student who gives all the teachers headaches; he is used to getting to the root of things, likes flexible learning, and often conflicts with teachers who teach by the book. However, he always ranks first in exams. His casual way of doing things does not fit with the principal's stern and rigid philosophy, but through his own efforts, he finally gains the principal's approval and inherits his legacy.
+|fame=31
+|art=35
+|fth=24
+|civ=44
+|tech=20
+|ss1=Dismantle 1 Orange Brand: Gain 1 more fragment by 2%
+|ss2=Dismantle 1 Orange Brand: Gain 1 more fragment by 4%
+|ss3=Dismantle 1 Orange Brand: Gain 1 more fragment by 6%
+|ss4=Dismantle 1 Orange Brand: Gain 1 more fragment by 10%
+|ss7=Dismantle 1 Orange Brand: Gain 1 more fragment by 10%<br>Dismantle 1 Orange Brand: Gain 1 more fragment by 10% (Awakened)
+|skill1=[[File:Frostsanctum skill I.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +5%
+}}

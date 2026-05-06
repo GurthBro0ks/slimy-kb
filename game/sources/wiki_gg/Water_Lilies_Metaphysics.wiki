@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=796
+|relics=Water Lilies,Metaphysics
+|rank=orange
+|amount=2
+|category=self
+|description=Mutant Minion DEF +7%
+}}

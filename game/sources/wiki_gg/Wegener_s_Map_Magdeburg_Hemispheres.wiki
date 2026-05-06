@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=417
+|relics=Wegener's Map,Magdeburg Hemispheres
+|rank=purple
+|amount=2
+|category=self
+|description=Snail DEF +60
+}}

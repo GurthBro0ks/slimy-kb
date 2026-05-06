@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Celestial Mechanics
+|class_id=22626
+|rank=SSS
+|affct=FAME
+|birthday=11-25
+|source=Lottery Machine No.3 (0.12%)
+|description=On Nov 25, 1506 AD, shortly after returning to his hometown as a priest, Copernicus began writing Celestial Mechanics.<br>Celestial Mechanics is one of Copernicus's most important works, recording his research results during astronomical observations, and providing a basis for the heliocentric theory. Notably, Copernicus, in collaboration with the publisher Andreas Osiander, took measures to mitigate potential backlash from the church and ensure the book's safe publication. They inserted ambiguous and misleading language into the preface and introduction, thereby ensuring the book's widespread dissemination for several decades.
+|fame=109
+|art=60
+|fth=54
+|civ=64
+|tech=75
+|ss1=All Dragon Minion Skins, HARD Stats +30%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 3 Minion Skins crafted, Snail ATK +9<br>Minion Skins crafted: 60/60
+|ss2=All Dragon Minion Skins, HARD Stats +40%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 3 Minion Skins crafted, Snail ATK +12<br>Minion Skins crafted: 60/60
+|ss3=All Dragon Minion Skins, HARD Stats +50%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 3 Minion Skins crafted, Snail ATK +15<br>Minion Skins crafted: 60/60
+|ss4=All Dragon Minion Skins, HARD Stats +70%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 3 Minion Skins crafted, Snail ATK +21<br>Minion Skins crafted: 60/60
+|ss5=All Dragon Minion Skins, HARD Stats +90%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 3 Minion Skins crafted, Snail ATK +27<br>Minion Skins crafted: 60/60
+|ss6=All Dragon Minion Skins, HARD Stats +120%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 3 Minion Skins crafted, Snail ATK +36<br>Minion Skins crafted: 60/60
+|ss7=All Dragon Minion Skins, HARD Stats +120%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 3 Minion Skins crafted, Snail ATK +36<br>Minion Skins crafted: 60/60<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop CRIT DMG +9%
+|skill2=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop All ELMT DMG +15
+|skill3=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion RUSH +9%
+|mirage={{Mirage|name=Truth Seeker|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Bruno|3rec=135.14M|3atk=373920|3defense=234034|3hp=21790884|3weak=37892
+|4name=Osiander|4rec=203.58M|4atk=537397|4defense=330321|4hp=40888494|4weak=44013
+|5name=Copernicus|5rec=322.62M|5atk=759400|5defense=452807|5hp=83074435|5weak=52441
+|6name=Galileo|6rec=456.42M|6atk=985263|6defense=573186|6hp=143573305|6weak=58320
+|Arec=655.39M|Aatk=1336051|Adefense=752417|Ahp=318872524|Aweak=67327
+}}}}

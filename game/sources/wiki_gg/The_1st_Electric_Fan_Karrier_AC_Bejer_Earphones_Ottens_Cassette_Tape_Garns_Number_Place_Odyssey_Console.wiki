@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=655
+|relics=The 1st Electric Fan,Karrier AC,Bejer Earphones,Ottens Cassette Tape,Garns Number Place,Odyssey Console
+|rank=blue
+|amount=6
+|category=self
+|description=Catalyzed White Spores turn to Green by +0.9%
+}}

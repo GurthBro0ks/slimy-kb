@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Camellias Lady
+|class_id=22066
+|rank=Blue
+|affct=CIV
+|birthday=11-05
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Nov 5, 1848 AD, A. Dumas wrote Camellias Lady based on his own experience.<br>One of the most well-known novels by Alexandre Dumas. This book tells the tragic and heartbreaking love story of the young Armand and Marguerite the courtesan who met and fell in love but encountered various obstacles that separated them forever. This story comes from Alexandre Dumas' personal experience: when he was twenty years old, he fell in love at first sight with Marie, a famous prostitute. Forced to make ends meet, Mary maintained her relationship with the rich, and it broke Dumas's heart. Driven by impulsion, he wrote a letter to break up with her and left Paris. Marie died of tuberculosis shortly after. Upon hearing of her death, Dumas was deeply touched. With remorse and memory, based on this experience, he created this masterpiece handed down from generation to generation.
+|fame=30
+|art=32
+|fth=27
+|civ=45
+|tech=20
+|ss1=Per 200 Avatar Score, Snail RUSH +1<br>Avatar Score: 10000/10000
+|ss2=Per 200 Avatar Score, Snail RUSH +2<br>Avatar Score: 10000/10000
+|ss3=Per 200 Avatar Score, Snail RUSH +3<br>Avatar Score: 10000/10000
+|ss4=Per 200 Avatar Score, Snail RUSH +5<br>Avatar Score: 10000/10000
+|ss7=Per 200 Avatar Score, Snail RUSH +5<br>Avatar Score: 10000/10000<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Fungusfarm skill I.png|50px]]Place in Fungus Farm: Fungus Output +5%
+}}

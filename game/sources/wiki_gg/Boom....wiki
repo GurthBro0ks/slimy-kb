@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description= The first piece of art in the Q collection. The designer claimed that the inspiration came from an explosion, and he was later fired for creating dangerous art.
+|affct=ART
+|hard=HP
+|source=Divine Chaos Chest (0.1%)
+|color=orange
+|earth=10
+|water=10
+|fire=13
+|wind=9
+|form=Demon
+|element=Fire
+|realm=Murika
+|orangehard=HP
+}}

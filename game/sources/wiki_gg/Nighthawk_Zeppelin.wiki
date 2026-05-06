@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=716
+|relics=Nighthawk,Zeppelin
+|rank=orange
+|amount=2
+|category=self
+|description=Per 10 advanced fusions, Snail ATK +7;Advanced Fusions: 500/500
+}}

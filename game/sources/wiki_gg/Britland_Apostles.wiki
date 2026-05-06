@@ -1,0 +1,366 @@
+==Apostles==
+Once an apostle is defeated for the first time, he is considered defeated. Once an apostle is defeated in 3 rounds or less, he is considered "Dominated." Each Area has an apostle and occasionally an apostle will have minions who must be defeated first. Once the apostle is Dominated, there are no more fights with that apostle.
+
+After defeating the last apostle of Britland, the next Realm, [[Kemet]], is unlocked. Below are the stats for every Britland apostle and their minions. 
+
+==Newton==
+[[File:Newton.png|150px|left]]
+'''Area:''' Plymous
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|Newton
+|31,035
+|27,348
+|343,538
+|HIT +70, Paralysis RES +70%
+|TECH 9,827
+|White Anchor, {{RewardIconWithText|Meal Box Size}} +3000, Travel Speedup +100m
+|-
+|''Newton's First Law''
+|29,816
+|26,330
+|276,903
+|HIT +50, Paralysis RES +50%
+|AFFCT 46,995
+|1,320 B-tads, Britland INTEL +510
+|-
+|''Newton's Second Law''
+|30,216
+|26,664
+|291,986
+|HIT +50, Paralysis RES +50%
+|AFFCT 47,299
+|1,320 B-tads, Britland INTEL +510
+|-
+|''Newton's Third Law''
+|30,617
+|26,998
+|316,999
+|HIT +50, Paralysis RES +50%
+|AFFCT 47,602
+|1,320 B-tads, Britland INTEL +510
+|}
+
+==Iceberg==
+[[File:Iceberg.png|150px|left]]
+'''Area:''' Cardeff
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|Iceberg
+|33,564
+|29,525
+|453,816
+|HIT +70, Paralysis RES +70%
+|CIV 10,227
+|White Anchor, {{RewardIconWithText|Meal Box Size}} +3000, Travel Speedup +110m
+|-
+|''NEET Leo''
+|31,031
+|27,326
+|364,509
+|HIT +50, Paralysis RES +50%
+|AFFCT 47,845
+|1,320 B-tads, Britland INTEL +510
+|-
+|''Rich Rose''
+|31,546
+|27,762
+|376,681
+|HIT +50, Paralysis RES +50%
+|AFFCT 48,210
+|1,320 B-tads, Britland INTEL +510
+|}
+
+==King Lionheart==
+[[File:King Lionheart.png|150px|left]]
+'''Area:'''  Londorn
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|King Lionheart
+|34,943
+|30,666
+|476,189
+|HIT +70, Paralysis RES +70%
+|FTH 10,537
+|White Anchor, {{RewardIconWithText|Meal Box Size}} +3000, Travel Speedup +2h
+|-
+|''Guardian John''
+|33,803
+|29,717
+|459,026
+|HIT +50, Paralysis RES +50%
+|AFFCT 50,090
+|1,320 B-tads, Britland INTEL +510
+|-
+|''Guardian David''
+|33,957
+|29,835
+|456,398
+|HIT +50, Paralysis RES +50%
+|AFFCT 50,206
+|1,320 B-tads, Britland INTEL +510
+|-
+|''King Lion''
+|34,177
+|30,009
+|453,957
+|HIT +50, Paralysis RES +50%
+|AFFCT 50,411
+|1,320 B-tads, Britland INTEL +510
+|}
+
+==The Peatles==
+[[File:The Peatles.png|150px|left]]
+'''Area:''' Liverpond 
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|The Peatles
+|36,776
+|32,191
+|514,560
+|HIT +70, Paralysis RES +70%
+|FAME 10,850
+|<span style="color:var(--green-text)">Green Anchor</span>, {{RewardIconWithText|Meal Box Size}} +3000, Travel Speedup +130m
+|-
+|''The Bassist''
+|35,112
+|30,797
+|490,163
+|HIT +50, Paralysis RES +50%
+|AFFCT 51,504
+|1,320 B-tads, Britland INTEL +510
+|-
+|''The Drummer''
+|35,381
+|31,016
+|487,728
+|HIT +50, Paralysis RES +50%
+|AFFCT 51,778
+|1,320 B-tads, Britland INTEL +510
+|-
+|''The Guitarist''
+|35,646
+|31,230
+|485,266
+|HIT +50, Paralysis RES +50%
+|AFFCT 52,002
+|1,320 B-tads, Britland INTEL +510
+|-
+|''The Keyboardist''
+|35,812
+|31,358
+|500,861
+|HIT +50, Paralysis RES +50%
+|AFFCT 52,088
+|1,320 B-tads, Britland INTEL +510
+|}
+
+==Nessie==
+[[File:Nessie.png|150px|left]]
+'''Area:'''  Adinburgh
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|Nessie
+|39,146
+|34,264
+|660,855
+|HIT +70, Paralysis RES +70%
+|ART 11,283
+|<span style="color:var(--green-text)>Green Anchor</span>, Travel Speedup x140m, {{RewardIconWithLink|Mutant Nerve Cord|orange}}
+|}
+
+==Neilson==
+[[File:Neilson.png|150px|left]]
+'''Area:'''  Berfast
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|Neilson
+|41,413
+|36,172
+|771,242
+|HIT +70, Paralysis RES +70%
+|FTH 11,647
+|<span style="color:var(--blue-text)">Blue Anchor</span>, {{RewardIconWithText|Meal Box Size}} +3000, Travel Speedup +150m
+|-
+|''Rodnie''
+|39,599
+|34,646
+|663,418
+|HIT +50, Paralysis RES +50%
+|AFFCT 55,360
+|1,320 B-tads, Britland INTEL +510
+|-
+|''Hoode''
+|39,797
+|34,802
+|661,799
+|HIT +50, Paralysis RES +50%
+|AFFCT 55,478
+|1,320 B-tads, Britland INTEL +510
+|-
+|''Hawk''
+|40,059
+|35,014
+|701,884
+|HIT +50, Paralysis RES +50%
+|AFFCT 55,656
+|1,320 B-tads, Britland INTEL +510
+|-
+|''Jericho''
+|40,225
+|35,142
+|699,647
+|HIT +50, Paralysis RES +50%
+|AFFCT 55,744
+|1,320 B-tads, Britland INTEL +510
+|}
+
+==Arthur==
+[[File:Arthur.png|150px|left]]
+'''Area:'''  Bernikam
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|Arthur
+|48,281
+|42,122
+|1,056,633
+|HIT +70, Paralysis RES +70%
+|FAME 12,767
+|<span style="color:var(--blue-text)">Blue Anchor</span>, {{RewardIconWithText|Meal Box Size}} +3000, Travel Speedup +160m
+|-
+|''Galahad''
+|43,257
+|37,780
+|794,510
+|HIT +50, Paralysis RES +50%
+|AFFT 58,359
+|1,320 B-tads, Britland INTEL +510
+|-
+|''Merlin''
+|43,731
+|38,181
+|807,796
+|HIT +50, Paralysis RES +50%
+|AFFCT 58,705
+|1,320 B-tads, Britland INTEL +510
+|-
+|''Percival''
+|43,937
+|38,343
+|836,862
+|HIT +50, Paralysis RES +50%
+|AFFCT 58,820
+|1,320 B-tads, Britland INTEL +510
+|-
+|''Mordred''
+|44,108
+|38,475
+|880,287
+|HIT +50, Paralysis RES +50%
+|AFFCT 58,907
+|1,320 B-tads, Britland INTEL +510
+|-
+|''Lancelot''
+|47,242
+|41,224
+|985,255
+|HIT +50, Paralysis RES +50%
+|AFFCT 61,469
+|1,320 B-tads, Britland INTEL +510
+|}
+
+==Captain Jack==
+[[File:Captain Jack.png|150px|left]]
+'''Area:'''  Southempton
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|Captain Jack
+|49,982
+|43,568
+|1,311,845
+|HIT +70, Paralysis RES +70%
+|CIV 13,510
+|<span style="color:var(--purple-text)">Purple Anchor</span>, {{RewardIconWithText|Meal Box Size}} +3000, Travel Speedup +170m
+|-
+|''One-Eyed 2nd Mate''
+|48,575
+|42,363
+|1,121,600
+|HIT +50, Paralysis RES +50%
+|AFFCT 62,416
+|1,320 B-tads, Britland INTEL +510
+|-
+|''One-Legged 1st Mate''
+|48,943
+|42,669
+|1,190,707
+|HIT +50, Paralysis RES +50%
+|AFFCT 62,653
+|1,320 B-tads, Britland INTEL +510
+|}
+
+==Dark Wizard==
+[[File:Dark Wizard.png|150px|left]]
+'''Area:''' Canterberry
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|Dark Wizard
+|54,400
+|57,450
+|1,631,951
+|HIT +70, Paralysis RES +70%
+|TECH 14,202
+|<span style="color:var(--purple-text)">Purple Anchor</span>, {{RewardIconWithText|Meal Box Size}} +3000, Travel Speedup +3h
+|}
+
+==Joan of Arc==
+[[File:Joan of Arc.png|150px|left]]
+'''Area:'''  Brightown
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|Joan of Arc
+|56,955
+|49,630
+|1,941,454
+|HIT +70, Paralysis RES +70%
+|ART 14,530
+|<span style="color:var(--orange-text)>Orange Anchor</span>, {{RewardIconWithText|Meal Box Size}} +3000, Travel Speedup +3h
+|-
+|''St. Michael''
+|52,909
+|46,114
+|1,611,309
+|HIT +50, Paralysis RES +50%
+|AFFCT 65,613
+|1,320 B-tads, Britland INTEL +510
+|-
+|''St. Margaret''
+|53,760
+|46,847
+|1,703,973
+|HIT +50, Paralysis RES +50%
+|AFFCT 66,206
+|1,320 B-tads, Britland INTEL +510
+|-
+|''St. Catherine''
+|55,005
+|47,927
+|1,775,330
+|HIT +50, Paralysis RES +50%
+|AFFCT 67,094
+|1,320 B-tads, Britland INTEL +510
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Britland]]

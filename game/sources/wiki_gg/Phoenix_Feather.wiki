@@ -1,0 +1,34 @@
+{{CargoRelic
+|name=Phoenix Feather
+|rank=SSS
+|affct=FTH
+|birthday=04-22
+|source=Evolution Chest (0.01%), Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wishing (0.06%)
+|description=On Apr 22, 3600 BC, the Phoenix reached Nirvana, leaving only one gold feather. A phoenix is reborn every five hundred years. In this process, its feathers emit sparks until it bursts into a raging inferno. Flames engulf its body until it burns to ashes. Rising from these ashes, it's reborn, continuing an eternal cycle. But once it fails to be reborn, it will die. Unfortunately, this phoenix didn't make it, leaving behind only a single feather.
+|fame=61
+|art=59
+|fth=108
+|civ=68
+|tech=66
+|ss1=Snail ATK +30<BR>Snail RUSH +30<BR>In Dragon Form, Travel SPD +0.6%
+|ss2=Snail ATK +40<BR>Snail RUSH +40<BR>In Dragon Form, Travel SPD +0.8%
+|ss3=Snail ATK +50<BR>Snail RUSH +50<BR>In Dragon Form, Travel SPD +1%
+|ss4=Snail ATK +70<BR>Snail RUSH +70<BR>In Dragon Form, Travel SPD +1.4%
+|ss5=Snail ATK +90<BR>Snail RUSH +90<BR>In Dragon Form, Travel SPD +1.8%
+|ss6=Snail ATK +120<BR>Snail RUSH +120<BR>In Dragon Form, Travel SPD +2.4%
+|ss7=Snail ATK +120<BR>Snail RUSH +120<BR>In Dragon Form, Travel SPD +2.4%<br>Snail RUSH +100 (Awakened)
+|skill1={{Reimg|Genesim skill III|50|File:Genesim skill III.png}}Place in Gene Sim Device: Wind DMG +600
+|skill2={{Reimg|Genesim skill III|50|File:Genesim skill III.png}}Place in Gene Sim Device: Snail RUSH +120 each round
+|skill3={{Reimg|Genesim skill III|50|File:Genesim skill III.png}}Place in Gene Sim Device:Snail RUSH +600
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:Wind DMG Boost]]
+[[Category:Realm Boost]]
+[[Category:Reagent Crafting Boost]]
+[[Category:Rewards Organs]]
+[[Category:Catcolyte Boost]]

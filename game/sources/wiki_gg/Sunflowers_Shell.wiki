@@ -1,0 +1,19 @@
+{{Missing Info|specifics=Picture, Form, Element, Realm, Second HARD}}
+
+{{Shell
+|name=Sunflowers
+|image={{PAGENAME}}.png
+|description=Biochemical plant doctor David created this energy device. It always faces the sun, as the name implies, and it powers Dr. David's lab.
+|affct=ART
+|hard=ATK
+|source=[[Value_Packs#Maneater_Value_Pack|Maneater Value Pack]]
+|color=green
+|earth=1
+|water=0
+|fire=2
+|wind=3
+|form=
+|element=
+|realm=
+|orangehard=
+}}

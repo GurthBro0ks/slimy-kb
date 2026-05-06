@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Mysterious Relic,Orphic Egg,Two-headed Serpent,Antarctic Treaty,Black Body
+|rank=orange
+|amount=5
+|category=home
+|description=In the Demon God Rocket Cabin: All device base effects +10%
+}}
+[[Category:Home]]
+[[Category:Demon God Rocket Cabin Boost]]

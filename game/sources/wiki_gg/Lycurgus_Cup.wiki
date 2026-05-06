@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Lycurgus Cup
+|class_id=22536
+|rank=AAA
+|affct=ART
+|birthday=12-13
+|source=Lottery Machine No.3 (0.06%)
+|description=On Dec 13, 312 AD, the Lycurgus Cup was brought to the table of a nobleman in ancient Rome.<br>The Lycurgus Cup is an ancient Roman-style birdcage cup depicting the story of King Lycurgus from Greek mythology, who was entangled in vines and ultimately died tragically for killing a follower of the god of wine. Its uniqueness lies in the fact that its cup wall changes from green to wine-red under the illumination of light, creating an extremely ornamental effect and making it a one-of-a-kind work of art.
+|fame=30
+|art=71
+|fth=46
+|civ=54
+|tech=42
+|ss1=Per Dung Beetles Calculation LVL, Snail HP +30<br>Per Dung Beetles Calculation LVL, Snail RUSH +3<br>Dung Beetles Calculation: 50/50
+|ss2=Per Dung Beetles Calculation LVL, Snail HP +40<br>Per Dung Beetles Calculation LVL, Snail RUSH +4<br>Dung Beetles Calculation: 50/50
+|ss3=Per Dung Beetles Calculation LVL, Snail HP +50<br>Per Dung Beetles Calculation LVL, Snail RUSH +5<br>Dung Beetles Calculation: 50/50
+|ss4=Per Dung Beetles Calculation LVL, Snail HP +70<br>Per Dung Beetles Calculation LVL, Snail RUSH +7<br>Dung Beetles Calculation: 50/50
+|ss5=Per Dung Beetles Calculation LVL, Snail HP +90<br>Per Dung Beetles Calculation LVL, Snail RUSH +9<br>Dung Beetles Calculation: 50/50
+|ss7=Per Dung Beetles Calculation LVL, Snail HP +90<br>Per Dung Beetles Calculation LVL, Snail RUSH +9<br>Dung Beetles Calculation: 50/50<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Quantumamp  skill II.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +15%
+|skill2=[[File:Quantumamp  skill II.png|50px]]Place in a Quantum Amp: Quantum Amp production +7.5%
+}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Dragon Crystal
+|class_id=20706
+|rank=Blue
+|affct=FAITH
+|birthday=08-13
+|source=
+|description=On Aug 13, 200 AD, a great battle broke out between the good and evil dragons, and the good dragon turned into Dragon Crystals.<br>The battle between the good and the evil dragons lasted for a century. This was an earth-shattering war that created the base of the current world. The evil dragon turned into the underground world, while the good dragon disintegrated into countless dragon crystals. Every once in a while, a Dragon Crystal Fragment falls on earth. The four major fractions on earth started a holy war to fight for these important resources.
+|fame=23
+|art=34
+|fth=45
+|civ=23
+|tech=29
+|ss1=Per 5 Dragon Gene LVLs, Snail ATK +2<br>Per 5 Dragon Gene LVLs, Snail DEF +2<br>Dragon Gene LVLs Researched: 100/100
+|ss2=Per 5 Dragon Gene LVLs, Snail ATK +4<br>Per 5 Dragon Gene LVLs, Snail DEF +4<br>Dragon Gene LVLs Researched: 100/100
+|ss3=Per 5 Dragon Gene LVLs, Snail ATK +6<br>Per 5 Dragon Gene LVLs, Snail DEF +6<br>Dragon Gene LVLs Researched: 100/100
+|ss4=Per 5 Dragon Gene LVLs, Snail ATK +10<br>Per 5 Dragon Gene LVLs, Snail DEF +10<br>Dragon Gene LVLs Researched: 100/100
+|ss7=Per 5 Dragon Gene LVLs, Snail ATK +10<br>Per 5 Dragon Gene LVLs, Snail DEF +10<br>Dragon Gene LVLs Researched: 100/100<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Koryeo skill I.png|50px]]Place in Koryeon Museum: In Koryeo, Snail DEF +20
+}}

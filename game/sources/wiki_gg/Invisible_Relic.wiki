@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Invisible Relic
+|class_id=20138
+|rank=Green
+|affct=ART
+|source=
+|description=The image and stats of this Relic are invisible because its former owner is also invisible. The former owner naturally passed the trait on to this Relic, but you still need a slot to store it!
+|fame=20
+|art=41
+|fth=27
+|civ=24
+|tech=28
+|ss1=Effects unknown...
+|ss2=Effects unknown...
+|ss3=Effects unknown...
+|ss4=Effects unknown...
+|ss7=Effects unknown...<br> (Awakened)
+}}

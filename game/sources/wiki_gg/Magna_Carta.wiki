@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=Magna Carta
+|rank=AA
+|affct=FAME
+|birthday=03-15
+|source=*Britland Treasure Map (10%), Expert Scrolls (0.95%), Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.35%)
+* [[Indigent Nobleman]] (210k {{RewardIconWithText|B-Tad}})
+|description=On Mar 15, AD 1215, the United Kingdom signed the first legal document that restricted the royal family's power.
+
+On this day, the Magna Carta was signed by British feudal lords and the Lackland John. This was the first time human rights were stipulated in a legal text and it put the earliest human rights into practice. It declared the principle that the king and his government are not above the law. The listed provisions have a great impact on the system's guarantee of freedom. 
+
+[Provisions of the Magna Carta]
+
+Guarantees the freedom of election of church clergy. Guarantees the inheritance rights of nobles and knights. If the king is in violation, the nobles have the authority to overthrow him.
+|fame=69
+|art=45
+|fth=34
+|civ=44
+|tech=36
+|ss1=Per 5 Star Coin redeems, Snail HP +40<br>Per 5 Star Coin redeems, Snail ATK +4<br>Star Coin Redeems: 100/100
+|ss2=Per 5 Star Coin redeems, Snail HP +60<br>Per 5 Star Coin redeems, Snail ATK +6<br>Star Coin Redeems: 100/100
+|ss3=Per 5 Star Coin redeems, Snail HP +80<br>Per 5 Star Coin redeems, Snail ATK +8<br>Star Coin Redeems: 100/100
+|ss4=Per 5 Star Coin redeems, Snail HP +120<br>Per 5 Star Coin redeems, Snail ATK +12<br>Star Coin Redeems: 100/100
+|ss5=Per 5 Star Coin redeems, Snail HP +160<br>Per 5 Star Coin redeems, Snail ATK +16<br>Star Coin Redeems: 100/100
+|ss7=Per 5 Star Coin redeems, Snail HP +160<br>Per 5 Star Coin redeems, Snail ATK +16<br>Star Coin Redeems: 100/100<br>Snail ATK +70
+|skill1=[[File:Britann skill II.png|50px]]Place in Britland Museum: In Britland, 2x Green Card Drops +7.5%
+|skill2=[[File:Britann skill II.png|50px]]Place in Britland Museum: In Britland, Snail ATK +30
+}}
+
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Enhanced by Star Coin Redeems]]
+[[Category:Indigent Nobleman Relics]]

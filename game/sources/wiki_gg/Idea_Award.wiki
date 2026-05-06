@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Idea Award
+|class_id=22639
+|rank=SSS
+|affct=FAME
+|birthday=10-20
+|source=
+|description=On Oct 20, 1980 AD, the Idea Award was officially established.<br>The Idea Award is organized by BusinessWeek magazine. Categories range from industrial design, technology product design, conceptual design, and so on. Although the award has only been in existence for over forty years, its influence is extraordinary, making it a highly significant international industrial design award!
+|fame=106
+|art=57
+|fth=58
+|civ=64
+|tech=77
+|ss1=Home Decor Inc, Series C Decor Coin Dividend +6%<br>When crafting a Purple Reagent, +1.8% to get +1<br>Per 5 Orange Museum Promos, Snail ATK +6<br>Orange Museum Promos: 250/250
+|ss2=Home Decor Inc, Series C Decor Coin Dividend +7%<br>When crafting a Purple Reagent, +2.4% to get +1<br>Per 5 Orange Museum Promos, Snail ATK +8<br>Orange Museum Promos: 250/250
+|ss3=Home Decor Inc, Series C Decor Coin Dividend +8%<br>When crafting a Purple Reagent, +3% to get +1<br>Per 5 Orange Museum Promos, Snail ATK +10<br>Orange Museum Promos: 250/250
+|ss4=Home Decor Inc, Series C Decor Coin Dividend +10%<br>When crafting a Purple Reagent, +4.2% to get +1<br>Per 5 Orange Museum Promos, Snail ATK +14<br>Orange Museum Promos: 250/250
+|ss5=Home Decor Inc, Series C Decor Coin Dividend +12%<br>When crafting a Purple Reagent, +5.4% to get +1<br>Per 5 Orange Museum Promos, Snail ATK +18<br>Orange Museum Promos: 250/250
+|ss6=Home Decor Inc, Series C Decor Coin Dividend +15%<br>When crafting a Purple Reagent, +7.2% to get +1<br>Per 5 Orange Museum Promos, Snail ATK +24<br>Orange Museum Promos: 250/250
+|ss7=Home Decor Inc, Series C Decor Coin Dividend +15%<br>When crafting a Purple Reagent, +7.2% to get +1<br>Per 5 Orange Museum Promos, Snail ATK +24<br>Orange Museum Promos: 250/250<br>When crafting a Purple Reagent, +6% to get +1 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, DMG +30%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +3%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|mirage={{Mirage|name=Best Design|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Consumer Product Design Award|3rec=133.49M|3atk=370326|3defense=231712|3hp=21428447|3weak=37739
+|4name=Commercial Product Design Award|4rec=198.51M|4atk=525461|4defense=323192|4hp=38982178|4weak=43460
+|5name=Healthcare Design Award|5rec=315.86M|5atk=748013|5defense=446731|5hp=81337895|5weak=52184
+|6name=Environment Design Award|6rec=448.38M|6atk=970479|6defense=565948|6hp=138695046|6weak=57764
+|Arec=645.57M|Aatk=1319939|Adefense=743354|Ahp=312803243|Aweak=66529
+}}}}

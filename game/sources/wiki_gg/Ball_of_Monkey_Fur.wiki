@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Ball of Monkey Fur
+|class_id=20835
+|rank=Green
+|affct=TECH
+|source=
+|description=Monkey fur of unknown origin, with a sour scent, conceals a note: I've taken care of this trouble for you. See you later, Earth's Will. Stay honest, and don't be too hot-headed, young one…
+|fame=13
+|art=17
+|fth=13
+|civ=14
+|tech=33
+|ss1=Per Monkey Prayer Bonus claimed, Snail DEF +3<br>Monkey Prayer Bonus Claimed: 20/20
+|ss2=Per Monkey Prayer Bonus claimed, Snail DEF +4<br>Monkey Prayer Bonus Claimed: 20/20
+|ss3=Per Monkey Prayer Bonus claimed, Snail DEF +5<br>Monkey Prayer Bonus Claimed: 20/20
+|ss4=Per Monkey Prayer Bonus claimed, Snail DEF +5<br>Monkey Prayer Bonus Claimed: 20/20
+|ss7=Per Monkey Prayer Bonus claimed, Snail DEF +5<br>Monkey Prayer Bonus Claimed: 20/20<br> (Awakened)
+}}

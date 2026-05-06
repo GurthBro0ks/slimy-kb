@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Power Amplifier
+|class_id=20277
+|rank=Green
+|affct=FAITH
+|source=
+|description=There is always a limit to the vessel of Glory, but the pursuit of it is endless. When the Glory extractor can no longer meet people's needs, an amplifier that greatly improves extraction efficiency is developed. People who have foreseen the possible Glory exhaustion are trying to find a new type of alternative energy.
+|fame=16
+|art=12
+|fth=31
+|civ=17
+|tech=14
+|ss1=Glory Extractor:<br>> Refine Speedup Conversion Cap +100%
+|ss2=Glory Extractor:<br>> Refine Speedup Conversion Cap +200%
+|ss3=Glory Extractor:<br>> Refine Speedup Conversion Cap +300%
+|ss4=Glory Extractor:<br>> Refine Speedup Conversion Cap +300%
+|ss7=Glory Extractor:<br>> Refine Speedup Conversion Cap +300%<br> (Awakened)
+}}

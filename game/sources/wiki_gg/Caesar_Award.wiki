@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Caesar Award
+|class_id=20091
+|rank=Green
+|affct=CIV
+|source=
+|description=The Caesar Award is the highest honor for French films, jointly organized by the French Film Art Association and French TV Channel 2. Since its inception, it has unearthed countless top-notch movies and elevated French films to a prestigious position globally.
+|fame=14
+|art=13
+|fth=17
+|civ=30
+|tech=16
+|ss1=All Rocket Cabin production +1.2%
+|ss2=All Rocket Cabin production +1.4%
+|ss3=All Rocket Cabin production +1.6%
+|ss4=All Rocket Cabin production +1.6%
+|ss7=All Rocket Cabin production +1.6%<br> (Awakened)
+}}

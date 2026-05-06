@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=739
+|relics=The Persistent Memory,Poetic Edda
+|rank=orange
+|amount=2
+|category=self
+|description=Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +56;Prairie Sanctum Rating Pts: 100000/100000
+}}

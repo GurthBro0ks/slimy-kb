@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=449
+|relics=Lion-dogs Statue,Mischief Map,The Goodbye Kiss,Azoth,Rashomon,Kilby's IC
+|rank=purple
+|amount=6
+|category=self
+|description=Per 30 Divine Order Chests opened: Snail ATK +10;Divine Order Chests Opened: 1500/1500
+}}

@@ -1,0 +1,16 @@
+{{CargoOrgan
+|name=Zombie Fang
+|type=Common
+|rank=green
+|id=10800
+|idx=1
+|description=Zombies: No trading, no killing...
+|skill=
+|hp=560
+|def=40
+|atk=59
+|rush=52
+|gene1=In explorations, {race} RUSH +20
+|gene2=In explorations, {race} ATK +20
+|gene7=In explorations, {race} RUSH +60 (Awakened)
+|}}

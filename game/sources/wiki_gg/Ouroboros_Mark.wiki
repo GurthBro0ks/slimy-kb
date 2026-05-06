@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Ouroboros Mark
+|class_id=22056
+|rank=Blue
+|affct=FAITH
+|birthday=01-16
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Jan 16, 417 BC, Plato first proposed the concept of the ouroboros in his vision of the universal sphere.<br>This ancient mythological mark takes the form of a ring, resembling the infinity symbol, and holds multiple interpretations including infinity, cycle, and rebirth. It holds significance not only in religion and mythology, but also in alchemy, mathematics, physics, and psychology.
+|fame=24
+|art=31
+|fth=44
+|civ=20
+|tech=35
+|ss1=Free Gene Speedup (Angel) +6m
+|ss2=Free Gene Speedup (Angel) +12m
+|ss3=Free Gene Speedup (Angel) +18m
+|ss4=Free Gene Speedup (Angel) +30m
+|ss7=Free Gene Speedup (Angel) +30m<br>Free Gene Speedup (Angel) +30m (Awakened)
+|skill1=[[File:Arena skill I.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +20
+}}

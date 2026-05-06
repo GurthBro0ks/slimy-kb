@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Travel Permit
+|class_id=20221
+|rank=Green
+|affct=FAITH
+|source=
+|description=Emperor Li, an emperor of Tang Dynasty, hereby sends Sanzang to the West to seek scriptures from Buddha. Shall he pass through your country, treat him with kindness, or there will be punishment. Set out on a good day!
+|fame=18
+|art=11
+|fth=31
+|civ=18
+|tech=12
+|ss1=First entry to Bharata gives 10000 W-tads<br>In Bharata, INTEL gained +1%
+|ss2=First entry to Bharata gives 10000 W-tads<br>In Bharata, INTEL gained +2%
+|ss3=First entry to Bharata gives 10000 W-tads<br>In Bharata, INTEL gained +3%
+|ss4=First entry to Bharata gives 10000 W-tads<br>In Bharata, INTEL gained +3%
+|ss7=First entry to Bharata gives 10000 W-tads<br>In Bharata, INTEL gained +3%<br> (Awakened)
+}}

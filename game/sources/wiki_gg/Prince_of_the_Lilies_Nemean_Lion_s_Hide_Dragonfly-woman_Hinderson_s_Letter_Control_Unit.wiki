@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Prince of the Lilies,Nemean Lion's Hide,Dragonfly-woman,Hinderson's Letter,Control Unit
+|rank=purple
+|amount=5
+|category=minion
+|description=Mutant Minion MAX +9
+}}
+[[Category:Minion]]
+[[Category:Mutant Minion MAX Cap Boost]]

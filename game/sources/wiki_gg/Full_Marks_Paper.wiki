@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Full Marks Paper
+|class_id=20494
+|rank=Green
+|affct=FAME
+|source=
+|description=This was said to be the only Demon God Hitman Test paper that obtained a full mark. In order to ensure the high quality of members, questions in this paper included martial arts, psychology, social interaction, finance and even cosmetics. Candidates were required to meet a set of strict criteria and the average pass rate was only about 5%. But even in the face of such a difficult test, Hitman No.100 relied on his own strength and achieved full marks, becoming the shining star the Demon Gods had been eagerly awaiting.
+|fame=31
+|art=15
+|fth=13
+|civ=15
+|tech=17
+|ss1=Snail HP +60<br>Snail ATK +60<br>Snail DEF +60<br>Snail RUSH +60
+|ss2=Snail HP +80<br>Snail ATK +80<br>Snail DEF +80<br>Snail RUSH +80
+|ss3=Snail HP +100<br>Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100
+|ss4=Snail HP +100<br>Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100
+|ss7=Snail HP +100<br>Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100<br> (Awakened)
+}}

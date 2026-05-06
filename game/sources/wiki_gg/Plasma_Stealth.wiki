@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Plasma Stealth
+|class_id=22595
+|rank=AAA
+|affct=TECH
+|birthday=03-15
+|source=Lottery Machine No.3 (0.06%)
+|description=On Mar 15, 1999 AD, Russian scientists first put plasma stealth technology into practical use.<br>Plasma is the fourth state of matter formed after the ionization of gas, consisting of positively charged ions, free electrons, and neutral atoms, and overall electrically neutral. The stealth effect of plasma is achieved through collisions with electromagnetic waves. The higher the electron density inside the plasma, the higher the oscillation frequency, and the greater the absorption of radar waves, making it possible to achieve complete invisibility. Aircraft equipped with plasma stealth technology not only does not impede the original flight performance of the aircraft but can also reduce flight resistance by 30%.
+|fame=47
+|art=30
+|fth=53
+|civ=42
+|tech=71
+|ss1=Per 3 Hidden Treasures claimed, Snail ATK +3<br>Per 3 Hidden Treasures claimed, Priest-Troop Assistance DMG +24<br>Hidden Treasures Claimed: 150/150
+|ss2=Per 3 Hidden Treasures claimed, Snail ATK +4<br>Per 3 Hidden Treasures claimed, Priest-Troop Assistance DMG +32<br>Hidden Treasures Claimed: 150/150
+|ss3=Per 3 Hidden Treasures claimed, Snail ATK +5<br>Per 3 Hidden Treasures claimed, Priest-Troop Assistance DMG +40<br>Hidden Treasures Claimed: 150/150
+|ss4=Per 3 Hidden Treasures claimed, Snail ATK +7<br>Per 3 Hidden Treasures claimed, Priest-Troop Assistance DMG +56<br>Hidden Treasures Claimed: 150/150
+|ss5=Per 3 Hidden Treasures claimed, Snail ATK +9<br>Per 3 Hidden Treasures claimed, Priest-Troop Assistance DMG +72<br>Hidden Treasures Claimed: 150/150
+|ss7=Per 3 Hidden Treasures claimed, Snail ATK +9<br>Per 3 Hidden Treasures claimed, Priest-Troop Assistance DMG +72<br>Hidden Treasures Claimed: 150/150<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Water DMG +30
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's TECH +10
+}}

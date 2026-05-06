@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Devonian Ammonite
+|class_id=20075
+|rank=Green
+|affct=CIV
+|source=
+|description=Chrysolite survived from the Devonian to the Late Cretaceous and was named for the chrysanthemum-like line pattern on its surface. It existed in abundance in the oceans for 370 million years until it died out along with the dinosaurs!
+|fame=13
+|art=11
+|fth=18
+|civ=31
+|tech=17
+|ss1=When upgrading Bionic Part, B-tad cost -3%<br>Per 5 {race_equip_short} gained, Snail DEF +3<br>Bionic Parts owned: 100/100
+|ss2=When upgrading Bionic Part, B-tad cost -6%<br>Per 5 {race_equip_short} gained, Snail DEF +6<br>Bionic Parts owned: 100/100
+|ss3=When upgrading Bionic Part, B-tad cost -9%<br>Per 5 {race_equip_short} gained, Snail DEF +9<br>Bionic Parts owned: 100/100
+|ss4=When upgrading Bionic Part, B-tad cost -9%<br>Per 5 {race_equip_short} gained, Snail DEF +9<br>Bionic Parts owned: 100/100
+|ss7=When upgrading Bionic Part, B-tad cost -9%<br>Per 5 {race_equip_short} gained, Snail DEF +9<br>Bionic Parts owned: 100/100<br> (Awakened)
+}}

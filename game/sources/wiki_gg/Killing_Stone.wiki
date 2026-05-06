@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Killing Stone
+|rank=AAA
+|affct=FTH
+|birthday=03-01
+|source=Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On Mar 1, AD 950, the Killing Stone was used for the first time as a magic weapon of Onmyojis. 
+
+In Nara, Onmyoji Abbe defeated the fox demon that had been poisoning the general's mansion for years, and sealed it in a Killing Stone. This stone is generated inside Mt. Fuji. These perforated stones are made from a series of interactions that can produce toxic substances. This is why it is called the Killing Stone. The stone releases toxic gas after the fox demon is trapped in the stone. This is because the fox spirit has enchanted it.
+|fame=47
+|art=36
+|fth=73
+|civ=37
+|tech=50
+|ss1=Quarry upgrade Stone cost -3%<br>Defeated Daily Hitmen drop +3% Demon Chests
+|ss2=Quarry upgrade Stone cost -4%<br>Defeated Daily Hitmen drop +4% Demon Chests
+|ss3=Quarry upgrade Stone cost -5%<br>Defeated Daily Hitmen drop +5% Demon Chests
+|ss4=Quarry upgrade Stone cost -7%<br>Defeated Daily Hitmen drop +7% Demon Chests
+|ss5=Quarry upgrade Stone cost -9%<br>Defeated Daily Hitmen drop +9% Demon Chests
+|ss7=Quarry upgrade Stone cost -9%<br>Defeated Daily Hitmen drop +9% Demon Chests<br>Defeated Daily Hitmen drop +7% Demon Chests (Awakened)
+|skill1=[[File:Compass skill II.png|50px]] Place in Exploration Compass: Snail ATK +30
+|skill2=[[File:Compass skill II.png|50px]] Place in Exploration Compass: This Relic's FTH +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FTH Relics]]
+[[Category:Purple FTH Relics]]
+[[Category:Quarry Upgrade Cost Reduction]]
+[[Category:Hitman Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:ATK Boost]]
+[[Category:FTH Boost]]
+[[Category:INTEL Boost]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Relic Points]]
+[[Category:Little Monk Boost]]

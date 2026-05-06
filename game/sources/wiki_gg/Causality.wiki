@@ -1,0 +1,43 @@
+{{CargoRelic
+|name=Causality
+|rank=SS
+|affct=TECH
+|birthday=09-14
+|source=Fragment Crafting (3.9%), Grandmaster Scrolls (1.5%), Lottery Machine (0.18%), Wishing (0.14%)
+|description=On Sep 14, 2018 AD, someone used the theory of causality and predicted the Lightning Fighter accident.
+
+Before the plane crashed, he predicted with the law of causality, which takes into account all the potential factors, that the plane would crash. Any state of motion is a collective result of its previous state. In other words, instead of thinking that the world operates according to cause and effect, we actually see the world through cause and effect.
+
+[Laws of Causality]
+
+There is no effect without a cause. As an objective phenomenon, the variety of causes determines the complexity of effects.
+|fame=65
+|art=63
+|fth=66
+|civ=48
+|tech=105
+|ss1=Mecha Gene Research SPD +1.2%<br>Free Research Speedup (Mecha) +12m<br>Per 5 Mecha Gene LVLs, Snail RUSH +4<br>Mecha Gene LVLs Researched: 150/150
+|ss2=Mecha Gene Research SPD +1.8%<br>Free Research Speedup (Mecha) +18m<br>Per 5 Mecha Gene LVLs, Snail RUSH +6<br>Mecha Gene LVLs Researched: 150/150
+|ss3=Mecha Gene Research SPD +2.4%<br>Free Research Speedup (Mecha) +24m<br>Per 5 Mecha Gene LVLs, Snail RUSH +8<br>Mecha Gene LVLs Researched: 150/150
+|ss4=Mecha Gene Research SPD +3.6%<br>Free Research Speedup (Mecha) +36m<br>Per 5 Mecha Gene LVLs, Snail RUSH +12<br>Mecha Gene LVLs Researched: 150/150
+|ss5=Mecha Gene Research SPD +4.8%<br>Free Research Speedup (Mecha) +48m<br>Per 5 Mecha Gene LVLs, Snail RUSH +16<br>Mecha Gene LVLs Researched: 150/150
+|ss6=Mecha Gene Research SPD +6.6%<br>Free Research Speedup (Mecha) +1h 6m<br>Per 5 Mecha Gene LVLs, Snail RUSH +22<br>Mecha Gene LVLs Researched: 150/150
+|ss7=Mecha Gene Research SPD +6.6%<br>Free Research Speedup (Mecha) +1h 6m<br>Per 5 Mecha Gene LVLs, Snail RUSH +22<br>Mecha Gene LVLs Researched: 150/150<br>Free Gene Speedup (Mecha) +1h (Awakened)
+|skill1=[[File:Cathay skill III.png|50x50px]]Place in Cathay Museum: In Cathay, 2x Orange Card Drops +15%
+|skill2=[[File:Cathay skill III.png|50x50px]]Place in Cathay Museum: In Cathay, Mecha Cells gained +15%
+|skill3=[[File:Arena skill III.png|50x50px]]Place in Snail Arena Compass: In Snail Arena, Snail RUSH +600
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Mecha Gene Speedup Boost]]
+[[Category:RUSH Boost]]
+[[Category:Mecha Gene Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Mecha Cell Drop Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:Wonder Fungus Output]]
+[[Category:Time Chest Output]]
+[[Category:Rewards Wish Coin]]

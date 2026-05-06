@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Pressburg Treaty,Bellum Gallicum
+|rank=blue
+|amount=2
+|category=self
+|description=Per 20 White Beads drawn, Snail ATK +10<br>White Beads Drawn: 300/300
+}}
+[[Category:Self]]

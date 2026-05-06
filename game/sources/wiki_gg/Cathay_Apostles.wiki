@@ -1,0 +1,316 @@
+==Apostles==
+Once an apostle is defeated for the first time, he is considered defeated. Once an apostle is defeated in 2 rounds or less, he is considered "Dominated." Each Realm has an apostle and occasionally an apostle will have minions who must be defeated first. Once the apostle is Dominated, there are no more fights with that apostle.
+
+After defeating the last apostle of Cathay, the next Realm, [[Murika]], is unlocked. Below are the stats for every Cathay apostle and their minions. 
+
+==Thrice Taoist==
+'''Area:''' Youzhou
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Thrice Taoist
+|9,879
+|3,864
+|28,300
+|FTH 3,880
+|White Mahjong, {{RewardIconWithText|Meal Box Size}} +100, Travel Speedup +90m
+|-
+|''Pearrior''
+|7,634
+|3,143
+|22,043
+|FTH 3,590
+|920 B-tads, Cathay INTEL +310
+|-
+|''Pearrior''
+|7,950
+|3,347
+|23,879
+|FTH 3,677
+|920 B-tads, Cathay INTEL +310
+|-
+|''Pearrior''
+|8,265
+|3,552
+|24,680
+|FTH 3,748
+|920 B-tads, Cathay INTEL +310
+|-
+|''Pearrior''
+|8,580
+|3,638
+|26,668
+|FTH 3,824
+|920 B-tads, Cathay INTEL +310
+|-
+|}
+
+==Cao Brothers==
+'''Area:''' Xuchang
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Cao Brothers
+|10,132
+|4,485
+|40,323
+|ART 4,294
+|White Mahjong, Travel Speedup +90m
+|-
+|''Lady Zhen''
+|9,870
+|4,058
+|32,384
+|ART 4,052
+|940 B-tads, Cathay INTEL +320
+|-
+|}
+
+==Lord Sun Quan==
+'''Area:''' Yangzhou
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Lord Sun Quan
+|11,268
+|6,238
+|55,770
+|FAME 4,893
+|White Mahjong, Travel Speedup +100m
+|-
+|''General Zhou Tai''
+|10,233
+|4,834
+|43,852
+|FAME 4,379
+|960 B-tads, Cathay INTEL +330
+|-
+|''General Huang Gai''
+|10,879
+|5,238
+|47,137
+|FAME 4,502
+|960 B-tads, Cathay INTEL +330
+|-
+|''Lady Sun''
+|10,932
+|5,764
+|52,033
+|FAME 4,691
+|960 B-tads, Cathay INTEL +330
+|}
+
+
+==Royal Liu Bei==
+'''Area:''' Chengdu
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Royal Liu Bei
+|11,845
+|7,680
+|59,584
+|FAME 5,099
+|<span style="color:#40da25;">Green Mahjong</span>, Travel Speedup +100m
+|-
+|''General Zhang Fei''
+|11,253
+|6,684
+|58,440
+|ART 5,032
+|980 B-tads, Cathay INTEL +340
+|-
+|''General Guan Yu''
+|11,309
+|7,238
+|58,940
+|FTH 5,057
+|980 B-tads, Cathay INTEL +340
+|}
+
+==Dummy Zhuge==
+'''Area:''' South Jingzhou
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Dummy Zhuge
+|12,420
+|8,829
+|67,925
+|FAME 5,441
+|<span style="color:#40da25;">Green Mahjong</span>, Travel Speedup +100m
+|}
+
+
+==Commander Yuan==
+'''Area:''' Ji Zhou
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Commander Yuan
+|13,088
+|9,812
+|72,469
+|TECH 5,690
+|<span style="color:#22d3d0;">Blue Mahjong</span>, Travel Speedup +100m
+|}
+
+==Elephants==
+'''Area:''' Nanzhong
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Elephants
+|13,794
+|10,862
+|77,011
+|TECH 5,939
+|<span style="color:#22d3d0;">Blue Mahjong</span>, Travel Speedup +100m, Dragon Chest +100
+|-
+|''Elephant''
+|13,105
+|10,235
+|74,740
+|TECH 5,811
+|1,020 B-tads, Cathay INTEL +360
+|-
+|''Elephant''
+|13,110
+|10,240
+|74,745
+|TECH 5,811
+|1,020 B-tads, Cathay INTEL +360
+|-
+|''Amily the Elephant''
+|13,115
+|10,245
+|74,750
+|TECH 5,811
+|1,020 B-tads, Cathay INTEL +360
+|-
+|''Edmon the Elephant''
+|13,120
+|10,250
+|74,755
+|TECH 5,811
+|1,020 B-tads, Cathay INTEL +360
+|-
+|''Prodigy Chong''
+|13,254
+|10,341
+|75,194
+|TECH 5,840
+|1,020 B-tads, Cathay INTEL +360
+|}
+
+==Strategist Sima Yi==
+'''Area:''' Luoyong
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Strategist Sima Yi
+|14,988
+|12,375
+|91,347
+|CIV 6400
+|<span style="color:#ee96d5;">Purple Mahjong</span>, {{RewardIconWithText|Meal Box Size}} +250, Travel Speedup +110m
+|}
+
+==Cyclops Xiahou D==
+'''Area:''' North Jingzhou
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Cyclops Xiahou D
+|15,788
+|13,091
+|96,799
+|FTH 6,620
+|<span style="color:#ee96d5;">Purple Mahjong</span>, {{RewardIconWithText|Meal Box Size}} +300, Travel Speedup +2h, [[General Xiahou D.'s Eye|<span style="color:#22d3d0;">General Xiahou D.'s Eye</span>]]
+|-
+|''Cyclops''
+|15,016
+|12,539
+|83,528
+|FTH 6,492
+|1,080 B-tads, Cathay INTEL +390
+|-
+|''Cyclops''
+|15,095
+|12,610
+|84,073
+|FTH 6,508
+|1,080 B-tads, Cathay INTEL +390
+|-
+|''Cyclops''
+|15,173
+|12,681
+|94,618
+|FTH 6,531
+|1,080 B-tads, Cathay INTEL +390
+|}
+
+==Minister Cao Cao==
+'''Area:''' Red Cliff
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Minister Cao Cao
+|16,622
+|13,916
+|104,817
+|CIV 6,845
+|<span style="color:#ee96d5;">Purple Mahjong</span>, {{RewardIconWithText|Meal Box Size}} +300, Travel Speedup +130m, Organ Chest x+100
+|-
+|''Fighter Meimei''
+|15,815
+|13,252
+|99,206
+|ART 6,713
+|1,100 B-tads, Cathay INTEL +400
+|-
+|''Fighter Meiya''
+|15,896
+|13,323
+|99,808
+|ART 6,739
+|1,100 B-tads, Cathay INTEL +400
+|-
+|''Fighter Meiling''
+|15,977
+|13,395
+|100,410
+|ART 6,754
+|1,100 B-tads, Cathay INTEL +400
+|}
+
+==Warlord Dong Zhuo==
+'''Area:''' Chang'an
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Warlord Dong Zhuo
+|18,103
+|15,953
+|129,776
+|FAME 7,570
+|<span style="color:#ffb066;">Orange Mahjong</span>, {{RewardIconWithText|Meal Box Size}} +300, Travel Speedup +150m
+|-
+|''Lady Diao Chan''
+|17,080
+|14,740
+|112,297
+|FAME 7,152
+|1,120 B-tads, Cathay INTEL +410
+|-
+|''General Lu Bu''
+|18,166
+|16,221
+|125,568
+|FAME 7,553
+|1,120 B-tads, Cathay INTEL +410
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Cathay]]

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Pearl in the Palm
+|class_id=22466
+|rank=Blue
+|affct=CIV
+|birthday=05-01
+|source=Lottery Machine No.3 (0.25%)
+|description=On May 1, 1190 AD, the Tangut person Gu Le Mao finished compiling the Pearl in the Palm.<br>It is a bilingual dictionary of Tangut and Chinese, created to facilitate language learning between the Tangut and Han people. Each entry is listed in both languages with annotations. The book records the language, script, and social history of the Tangut people, playing a vital role in deciphering their history.
+|fame=32
+|art=27
+|fth=25
+|civ=48
+|tech=22
+|ss1=Per 10,000 Fervor, Priest-Snail Assistance DMG+8<br>Fervor: 500000/500000
+|ss2=Per 10,000 Fervor, Priest-Snail Assistance DMG+16<br>Fervor: 500000/500000
+|ss3=Per 10,000 Fervor, Priest-Snail Assistance DMG+24<br>Fervor: 500000/500000
+|ss4=Per 10,000 Fervor, Priest-Snail Assistance DMG+40<br>Fervor: 500000/500000
+|ss7=Per 10,000 Fervor, Priest-Snail Assistance DMG+40<br>Fervor: 500000/500000<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Cathay skill I.png|50px]]Place in Cathay Museum: In Cathay, 2x Green Reagent Drops +2.5%
+}}

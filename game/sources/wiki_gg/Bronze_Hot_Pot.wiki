@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description= John designed this Snail Shell to sell hot pots to Snail, and it somehow became a combat item.
+|affct=CIV
+|hard=ATK
+|source=Divine Order Chest (0.8%)
+|color=green
+|earth=2
+|water=2
+|fire=0
+|wind=2
+|form=Mutant
+|element=Fire
+|realm=Murika
+|orangehard=HP
+}}

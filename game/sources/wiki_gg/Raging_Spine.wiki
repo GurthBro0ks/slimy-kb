@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Raging Spine
+|type=Common
+|rank=red
+|id=10963
+|idx=156
+|description=Backbone from ferocious koi-dragon mutant. So saturated with dragon essence that this dead bone still radiates menace - like it might suddenly whip you!
+|skill=
+|hp=2340
+|def=230
+|atk=318
+|rush=288
+|gene1=Per Dragon Form Tier, {race} ATK +35
+Dragon Form Tiers: 9/9
+|gene2=Water DMG +120
+|gene3=Water RES +120
+|gene4=Ignore Water RES +120
+|gene5={race} Water RES +2%
+|gene6=Water DMG +2%
+|gene7=Water DMG +6% (Awakened)
+|}}

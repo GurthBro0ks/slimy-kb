@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=876
+|relics=Eden Scepter,Hypercube
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Star+ Protomon, Snail ATK +14;5 Star+ Protomon: 20/20
+}}

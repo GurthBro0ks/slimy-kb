@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Bramah Hydraulic Press
+|class_id=22509
+|rank=AA
+|affct=FAME
+|birthday=12-05
+|source=Lottery Machine No.3 (0.12%)
+|description=On Dec 5, 1795 AD, Bramah invented the first hydraulic press.<br>Using the Pascal principle, Bramah successfully invented the hydraulic press that uses water as the working medium. This device takes advantage of the property that the pressure is equal everywhere in a closed liquid, allowing people to obtain greater total pressure than previous stamping processes, greatly reducing costs, improving efficiency and product strength, and has significant historical significance.
+|fame=66
+|art=38
+|fth=33
+|civ=45
+|tech=46
+|ss1=Green Reagents collected from Drill Rig +4<br>Blue Reagents collected from Drill Rig +4
+|ss2=Green Reagents collected from Drill Rig +6<br>Blue Reagents collected from Drill Rig +6
+|ss3=Green Reagents collected from Drill Rig +8<br>Blue Reagents collected from Drill Rig +8
+|ss4=Green Reagents collected from Drill Rig +12<br>Blue Reagents collected from Drill Rig +12
+|ss5=Green Reagents collected from Drill Rig +16<br>Blue Reagents collected from Drill Rig +16
+|ss7=Green Reagents collected from Drill Rig +16<br>Blue Reagents collected from Drill Rig +16<br>Green Reagents collected from Drill Rig +14 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, Troop Water DMG +15
+|skill2=[[File:Mantis skill II.png|50px]]Place in Mantis Biozilla: In Species War, Troop CRIT DMG +3%
+}}

@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Ishikawa Rip
+|rank=blue
+|cabin=2
+|id=17
+|gene1={race} HP +200
+|gene2={race} FTH +20
+|gene3=Free Gene Speedup (Angel) +6m
+|gene4=Per 10 Angel Minions in battle:
+> Troop HP +20
+|gene5=Free Gene Speedup (Angel) +12m
+|}}

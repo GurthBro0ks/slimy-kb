@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Arnolfini Portrait
+|class_id=22822
+|rank=SSS
+|affct=ART
+|source=
+|description=This painting is considered a milestone in portrait art during the Ned Land Renaissance, created by Jan van Eyck for the Italian merchant Arnolfini and his wife. The vivid depiction of the newlyweds at home goes beyond traditional portraiture by incorporating rich symbolic elements and detailed domestic scenes, creating a space filled with symbolic meaning. With its almost photographic realism, the painting pioneered the deep portrayal of the psychological state of its subjects, establishing a new standard for visual authenticity in oil painting.
+|fame=54
+|art=107
+|fth=69
+|civ=70
+|tech=62
+|ss1=Snail Leadership +3<br>Per 60 T7+ Minions in battle:<br>> Troop HP +300<br>Per ART Bionic Part extracted, Snail DEF +15<br>ART Bionic Part Extracted: 10/10
+|ss2=Snail Leadership +4<br>Per 60 T7+ Minions in battle:<br>> Troop HP +400<br>Per ART Bionic Part extracted, Snail DEF +20<br>ART Bionic Part Extracted: 10/10
+|ss3=Snail Leadership +5<br>Per 60 T7+ Minions in battle:<br>> Troop HP +500<br>Per ART Bionic Part extracted, Snail DEF +25<br>ART Bionic Part Extracted: 10/10
+|ss4=Snail Leadership +7<br>Per 60 T7+ Minions in battle:<br>> Troop HP +700<br>Per ART Bionic Part extracted, Snail DEF +35<br>ART Bionic Part Extracted: 10/10
+|ss5=Snail Leadership +9<br>Per 60 T7+ Minions in battle:<br>> Troop HP +900<br>Per ART Bionic Part extracted, Snail DEF +45<br>ART Bionic Part Extracted: 10/10
+|ss6=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>Per ART Bionic Part extracted, Snail DEF +60<br>ART Bionic Part Extracted: 10/10
+|ss7=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>Per ART Bionic Part extracted, Snail DEF +60<br>ART Bionic Part Extracted: 10/10<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop Earth DMG +60
+|skill2=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion HP +9%
+|skill3=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop Wind DMG +60
+|mirage={{Mirage|name=dungeon@22822_1|reward={{RewardIconWithLink|Badge, +20|orange}}
+|3name=Pet Dog|3rec=372.80M|3atk=878496|3defense=497954|3hp=204791373|3weak=67496
+|4name=Mrs. Arnolfini|4rec=471.31M|4atk=1042075|4defense=586580|4hp=343982693|4weak=73435
+|5name=Arnolfini|5rec=613.73M|5atk=1344434|5defense=714710|5hp=572892051|5weak=81083
+|6name=Jan van Eyck|6rec=833.53M|6atk=1981386|6defense=943475|6hp=968610958|6weak=91418
+|Arec=1190.77M|Aatk=3017927|Adefense=1299665|Ahp=1794806775|Aweak=103085
+}}}}

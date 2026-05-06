@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Moonlight Sonata
+|rank=AAA
+|affct=ART
+|birthday=04-18
+|source=* Fragment Crafting (1.6%), Lottery Machine (0.03%), Nebula Chest (1.5%), Relic Forge (80 Relic RF), Wishing (0.14%)
+* [[Lee Gi-na]] - [[Rare Rent]]
+|description=On Apr 18, 1801, musician Beethoven composed this most famous music piece.
+
+When Beethoven played for a pair of blind siblings, the candle was blown out by the wind. It was a quiet night. The moonlight shone on the shabby hut. This was how he composed the Moonlight Sonata. The audience are like on a boat under the moonlight on Lake Lucerne. It's name, Moonlight Sonata, was coined by a music critic who felt that the first movement resembled moonlight shining upon the waters of the lake.
+|fame=45
+|art=73
+|fth=37
+|civ=53
+|tech=35
+|ss1=Angel Gene Research B-tad cost -1.8%<br>Angel Gene Research Cells consumed -1.8%
+|ss2=Angel Gene Research B-tad cost -2.4%<br>Angel Gene Research Cells consumed -2.4%
+|ss3=Angel Gene Research B-tad cost -3%<br>Angel Gene Research Cells consumed -3%
+|ss4=Angel Gene Research B-tad cost -4.2%<br>Angel Gene Research Cells consumed -4.2%
+|ss5=Angel Gene Research B-tad cost -5.4%<br>Angel Gene Research Cells consumed -5.4%
+|ss7=Angel Gene Research B-tad cost -5.4%<br>Angel Gene Research Cells consumed -5.4%<br>Angel Gene Research B-tad cost -4.2% (Awakened)
+|skill1=[[File:Arena skill II.png|50px]] Place in Arena Compass: In Snail Arena, Earth RES +15
+|skill2=[[File:Arena skill II.png|50px]] Place in Arena Compass: In Snail Arena, Earth DMG +60
+}}
+
+[[Category:Angel Gene Cost Reduction]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:Earth RES Boost]]
+[[Category:Earth DMG Boost]]
+[[Category:Minion DEF Boost]]
+[[Category:Travel Speed Boost]]

@@ -1,0 +1,64 @@
+= [[Treasure Collection]] =
+Icons for the [[Treasure Collection]] like [[Treasure_Collection#Treasure_Maps|Treasure Maps]], [[Treasure_Collection#Collector_Scrolls|Collector Scrolls]], [[Treasure_Collection#Chests|Chests]], and [[Treasure_Collection#Species_Treasure|Species Treasure]].
+
+= [[Treasure_Collection#Treasure_Maps|Treasure Maps]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Koryeon Treasure Map}}
+{{IconExampleRowWithLink|Yamato Treasure Map}}
+{{IconExampleRowWithLink|Cathay Treasure Map}}
+{{IconExampleRowWithLink|Murikan Treasure Map}}
+{{IconExampleRowWithLink|Britland Treasure Map}}
+{{IconExampleRowWithLink|Kemetic Treasure Map}}
+{{IconExampleRowWithLink|Hellenic Treasure Map}}
+{{IconExampleRowWithLink|Bharata Treasure Map}}
+{{IconExampleRowWithLink|Rift Treasure Map}}
+|}
+
+= [[Treasure_Collection#Collector_Scrolls|Collector Scrolls]] = 	
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|ART Master Scroll|orange}}
+{{IconExampleRowWithLink|CIV Master Scroll|orange}}
+{{IconExampleRowWithLink|Expert Scroll|purple}}
+{{IconExampleRowWithLink|FAME Master Scroll|orange}}
+{{IconExampleRowWithLink|FTH Master Scroll|orange}}
+{{IconExampleRowWithLink|Grandmaster Scroll|orange}}
+{{IconExampleRowWithLink|Master Scroll|orange}}
+{{IconExampleRowWithLink|Novice Scroll|blue}}
+{{IconExampleRowWithLink|TECH Master Scroll|orange}}
+|}
+
+= [[Treasure_Collection#Chests|Chests]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Dragon Chest|orange}}
+{{IconExampleRowWithLink|Demon Chest|orange}}
+{{IconExampleRowWithLink|Divine Order Chest|yellow}}
+{{IconExampleRowWithLink|Divine Neutral Chest|green}}
+{{IconExampleRowWithLink|Divine Chaos Chest|red}}
+{{IconExampleRowWithLink|Time Chest}}
+{{IconExampleRowWithLink|Evolution Chest}}
+{{IconExampleRowWithLink|Soul Chest}}
+{{IconExampleRowWithLink|Fungus Chest}}
+{{IconExampleRowWithLink|Organ Chest}}
+{{IconExampleRowWithLink|Tool Chest}}
+{{IconExampleRowWithLink|Gear Chest}}
+{{IconExampleRowWithLink|Club Chest}}
+{{IconExampleRowWithLink|Nebula Chest}}
+{{IconExampleRowWithLink|Ad Chest}}
+{{IconExampleRowWithLink|Wormhole Refiner}}
+{{IconExampleRowWithLink|Super Memetic Chest|orange}}
+|}
+
+= [[Treasure_Collection#Species_Treasure|Species Treasure]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Super Species Chest|orange}}
+{{IconExampleRowWithLink|Dung Beetle Chest}}
+{{IconExampleRowWithLink|Earthworm Chest}}
+{{IconExampleRowWithLink|Goldfish Chest}}
+{{IconExampleRowWithLink|Surf Clam Chest}}
+{{IconExampleRowWithLink|Hamster Chest}}
+{{IconExampleRowWithLink|Mantis Chest}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Current Species War Chest}}
+|}
+
+[[Category:Icons]]

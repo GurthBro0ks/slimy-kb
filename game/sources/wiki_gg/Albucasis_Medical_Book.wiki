@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Albucasis Medical Book
+|class_id=22223
+|rank=SSS
+|affct=FAME
+|birthday=08-18
+|source=Lottery Machine No.2 (0.11%)
+|description=On Aug 18, 1100 AD, before Dr. Albucasis died, he gave his notes to his apprentices.<br>Albucasis Medical Book was compiled by an Arabic doctor, which contains the first written record of treating hemophilia. The book describes a method of treating patients experiencing excessive bleeding by applying heat to the wound area with an iron. While modern medicine does not recognize the therapeutic effects of this method, it remains a valuable historical record of medical treatments.
+|fame=108
+|art=57
+|fth=53
+|civ=70
+|tech=74
+|ss1=Zombie Minion HP +3%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +3<br>Per 5 Minions Cloned, Snail ATK +6<br>Minions Cloned: 100/100
+|ss2=Zombie Minion HP +4%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +6<br>Per 5 Minions Cloned, Snail ATK +8<br>Minions Cloned: 100/100
+|ss3=Zombie Minion HP +5%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +9<br>Per 5 Minions Cloned, Snail ATK +10<br>Minions Cloned: 100/100
+|ss4=Zombie Minion HP +7%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +15<br>Per 5 Minions Cloned, Snail ATK +14<br>Minions Cloned: 100/100
+|ss5=Zombie Minion HP +9%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +21<br>Per 5 Minions Cloned, Snail ATK +18<br>Minions Cloned: 100/100
+|ss6=Zombie Minion HP +12%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 5 Minions Cloned, Snail ATK +24<br>Minions Cloned: 100/100
+|ss7=Zombie Minion HP +12%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 5 Minions Cloned, Snail ATK +24<br>Minions Cloned: 100/100<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, CIV Checks -600
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: This Relic's FAME +15
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: B-tad output +3000
+|mirage={{Mirage|name=Healing Angel|reward={{RewardIconWithLink|Research Briefcase, +2|orange}}
+|3name=Samuel|3rec=97.64M|3atk=271710|3defense=181268|3hp=18077762|3weak=34070
+|4name=Schonlein|4rec=126.60M|4atk=332775|4defense=222007|4hp=25265349|4weak=38629
+|5name=Mymordis|5rec=159.01M|5atk=401122|5defense=267605|5hp=34907667|5weak=44867
+|6name=Albucasis|6rec=196.46M|6atk=480114|6defense=320303|6hp=46668215|6weak=51428
+|Arec=241.59M|Aatk=569471|Adefense=379916|Ahp=62034505|Aweak=53227
+}}}}

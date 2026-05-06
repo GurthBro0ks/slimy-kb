@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Mendel's Manuscript
+|class_id=22350
+|rank=SSS
+|affct=TECH
+|birthday=03-30
+|source=
+|description=On Mar 30, 1864 AD, Mendel began publishing the results of his pea plant experiments.<br>The manuscript included all of the data from his pea plant experiments. By statistically analyzing the traits of the offspring peas in hybridization experiments, he discovered the regularity in pea hybridization, and through experiments, he proved the law of segregation and the law of independent assortment, which coincided with Darwin's theory of evolution and provided reliable ideas and methods for future generations of genetics.
+|fame=66
+|art=47
+|fth=78
+|civ=62
+|tech=109
+|ss1=Sunny Plant Food gives 1 Green Pistil by +0.6%<br>Per 10 Maneater Pistils Used, Snail HP +30<br>Per 10 Maneater Pistils Used, Snail DEF +3<br>Maneater Pistil(s) used: 400/400
+|ss2=Sunny Plant Food gives 1 Green Pistil by +0.8%<br>Per 10 Maneater Pistils Used, Snail HP +40<br>Per 10 Maneater Pistils Used, Snail DEF +4<br>Maneater Pistil(s) used: 400/400
+|ss3=Sunny Plant Food gives 1 Green Pistil by +1%<br>Per 10 Maneater Pistils Used, Snail HP +50<br>Per 10 Maneater Pistils Used, Snail DEF +5<br>Maneater Pistil(s) used: 400/400
+|ss4=Sunny Plant Food gives 1 Green Pistil by +1.4%<br>Per 10 Maneater Pistils Used, Snail HP +70<br>Per 10 Maneater Pistils Used, Snail DEF +7<br>Maneater Pistil(s) used: 400/400
+|ss5=Sunny Plant Food gives 1 Green Pistil by +1.8%<br>Per 10 Maneater Pistils Used, Snail HP +90<br>Per 10 Maneater Pistils Used, Snail DEF +9<br>Maneater Pistil(s) used: 400/400
+|ss6=Sunny Plant Food gives 1 Green Pistil by +2.4%<br>Per 10 Maneater Pistils Used, Snail HP +120<br>Per 10 Maneater Pistils Used, Snail DEF +12<br>Maneater Pistil(s) used: 400/400
+|ss7=Sunny Plant Food gives 1 Green Pistil by +2.4%<br>Per 10 Maneater Pistils Used, Snail HP +120<br>Per 10 Maneater Pistils Used, Snail DEF +12<br>Maneater Pistil(s) used: 400/400<br>Sunny Plant Food gives 1 Green Pistil by +2% (Awakened)
+|skill1=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: This Relic's TECH +15
+|skill2=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Demon Cells gained +15%
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, 2x B-tad Drops +15%
+|mirage={{Mirage|name=Father of the Pea|reward={{RewardIconWithLink|Sunny Plant Food, +3|orange}}
+|3name=Soft Pea|3rec=40.31M|3atk=150804|3defense=100607|3hp=6390906|3weak=20002
+|4name=Hard Pea|4rec=52.53M|4atk=176574|4defense=117799|4hp=8454958|4weak=22225
+|5name=Wild Pea|5rec=66.34M|5atk=205706|5defense=137234|5hp=11125012|5weak=26768
+|6name=Pea Archer|6rec=81.71M|6atk=238108|6defense=158851|6hp=14349300|6weak=31204
+|Arec=98.18M|Aatk=272842|Adefense=182023|Ahp=18161812|Aweak=34171
+}}}}

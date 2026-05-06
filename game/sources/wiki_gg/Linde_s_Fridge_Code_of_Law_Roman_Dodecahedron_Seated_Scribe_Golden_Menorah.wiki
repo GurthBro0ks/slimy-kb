@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=71
+|relics=Linde's Fridge,Code of Law,Roman Dodecahedron,Seated Scribe,Golden Menorah
+|rank=blue
+|amount=5
+|category=self
+|description=Per 3 Blue Relics gained, Snail ATK +32;Blue Relics: 60/60
+}}

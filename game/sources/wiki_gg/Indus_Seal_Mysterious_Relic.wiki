@@ -1,0 +1,10 @@
+{{CargoRelicResonance
+|relics=Indus Seal,Mysterious Relic
+|rank=purple
+|amount=2
+|category=home
+|description=Domain Cabin Output +6%
+}}
+
+[[Category:Home]]
+[[Category:Domain Cabin Output Boost]]

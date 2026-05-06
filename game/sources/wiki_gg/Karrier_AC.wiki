@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Karrier AC
+|class_id=22408
+|rank=Blue
+|affct=FAME
+|birthday=04-16
+|source=Lottery Machine No.3 (0.06%)
+|description=On Apr 16, 1906 AD, Willis Carrier successfully invented the modern air conditioning system.<br>Carrier was asked to solve a printing problem at a printing plant. After research, he found that unstable air humidity and temperature made it difficult to control printing effects. Later, an experience waiting for a train on a foggy day gave him the inspiration to invent a device that used a cold water pipeline to cool the air, causing water vapor to condense and thus controlling both the environmental temperature and humidity. This device, also known as an air conditioning system, has had a profound impact on future generations.
+|fame=44
+|art=24
+|fth=22
+|civ=29
+|tech=35
+|ss1=Rebel Cabin Output +1%
+|ss2=Rebel Cabin Output +2%
+|ss3=Rebel Cabin Output +3%
+|ss4=Rebel Cabin Output +5%
+|ss7=Rebel Cabin Output +5%<br>Rebel Cabin Output +5% (Awakened)
+|skill1=[[File:Surfclam skill I.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Wind DMG +10
+}}

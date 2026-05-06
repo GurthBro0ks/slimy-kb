@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Roman Dodecahedron
+|rank=Blue
+|affct=ART
+|birthday=06-18
+|source=Lottery Machine (0.36%), Wishing (15%), Novice Scrolls (5%)
+|description=On Jun 18, 1950, multiple unknown metal balls were unearthed in Western Europe. 
+
+Dodecahedrons of different sizes have been unearthed in many places of Western Europe. On top of the strange shape, there is no telling what its purpose is. They are also carved with weird symbols and signs, some of which are already illegible. Some scientists believe that these bronzewares are related to astrology in the past. There are assumptions about its purpose, some thought it can be a measuring instrument, others believe they are just decorative candlesticks.
+|fame=29
+|art=48
+|fth=20
+|civ=26
+|tech=31
+|ss1=Per Koryeon Area explored, Snail ATK +5<br>Areas Explored: 10/10
+|ss2=Per Koryeon Area explored, Snail ATK +10<br>Areas Explored: 10/10
+|ss3=Per Koryeon Area explored, Snail ATK +15<br>Areas Explored: 10/10
+|ss4=Per Koryeon Area explored, Snail ATK +25<br>Areas Explored: 10/10
+|ss7=Per Koryeon Area explored, Snail ATK +25<br>Areas Explored: 10/10<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]] Place in the Gene Sim Device: Power Checks in Gene Simulations -2.5%
+}}
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:ART Relics]]
+[[Category:Blue ART Relics]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Sanctum Warrior Boost]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Surf Clam Specimen
+|class_id=20447
+|rank=Green
+|affct=FAME
+|source=
+|description=This lifelike specimen is made through splicing captured Surf Clam's soft body and carapace gained in the species war. Although Surf Clam physiology is relatively simple, this highly accurate replica still contributed a lot to the snails' research. Therefore, the researchers have put it in a safe and marked it with bright red paint: No eating the specimen!
+|fame=31
+|art=12
+|fth=18
+|civ=16
+|tech=12
+|ss1=Against Surf Clams, Troop Casualty -1%
+|ss2=Against Surf Clams, Troop Casualty -2%
+|ss3=Against Surf Clams, Troop Casualty -3%
+|ss4=Against Surf Clams, Troop Casualty -3%
+|ss7=Against Surf Clams, Troop Casualty -3%<br> (Awakened)
+}}

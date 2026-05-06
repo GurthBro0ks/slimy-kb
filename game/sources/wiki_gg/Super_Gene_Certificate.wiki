@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Super Gene Certificate
+|class_id=20491
+|rank=Green
+|affct=FAME
+|source=
+|description=For people who have the Super Gene, life is a walk in the park. Super Gene Corp favors Travelers with exceptional talents. Tailoring a specific set of personal growth project, seeking to best increase their DNA during every stage, paving a solid foundation for their exorcism!
+|fame=30
+|art=14
+|fth=17
+|civ=15
+|tech=14
+|ss1=Per Form Unlocked, Snail ATK +6<br>Forms Unlocked: 6/6
+|ss2=Per Form Unlocked, Snail ATK +12<br>Forms Unlocked: 6/6
+|ss3=Per Form Unlocked, Snail ATK +18<br>Forms Unlocked: 6/6
+|ss4=Per Form Unlocked, Snail ATK +18<br>Forms Unlocked: 6/6
+|ss7=Per Form Unlocked, Snail ATK +18<br>Forms Unlocked: 6/6<br> (Awakened)
+}}

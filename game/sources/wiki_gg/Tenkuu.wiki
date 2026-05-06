@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Tenkuu
+|rank=orange
+|cabin=2
+|id=159
+|gene1={race} HP +500
+|gene2={race} CIV +50
+|gene3=Water DMG +30
+|gene4=Per 60 Angel Minions in battle,
+Troop Water DMG +6
+|gene5=For Round 1, All ELMT DMG +1.5%
+|gene6=Per 60 Angel Minions in battle,
+Troop Water DMG +10
+|gene7=For Round 1, All ELMT DMG +2.5%
+|}}

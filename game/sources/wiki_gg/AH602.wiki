@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=AH602
+|class_id=21823
+|rank=SSS
+|affct=TECH
+|birthday=04-13
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Apr 13, 1961 AD, the largest nuclear weapon existing in this world was made.<br>Although less than two decades had passed since the end of the Great War, people appeared to have overlooked the pain and suffering that war brought upon them. This led to a new arms race between two superpowers, resulting in the creation of two bombs that carried a TNT equivalent of 60 million. Fear was widespread among other countries. Three months after the bombs were made, one of them was detonated on an island, creating a brisance only surpassed by the Chicxulub Impact. The explosion's impact was felt over a thousand kilometers away from the center. The other bomb has been preserved for exhibition.
+|fame=69
+|art=66
+|fth=64
+|civ=55
+|tech=108
+|ss1=Snail ATK +30<br>Per 10 Apostles dominated, Snail HP +90<br>Per 10 Apostles dominated, Snail ATK +9<br>Apostles Dominated: 200/200
+|ss2=Snail ATK +40<br>Per 10 Apostles dominated, Snail HP +120<br>Per 10 Apostles dominated, Snail ATK +12<br>Apostles Dominated: 200/200
+|ss3=Snail ATK +50<br>Per 10 Apostles dominated, Snail HP +150<br>Per 10 Apostles dominated, Snail ATK +15<br>Apostles Dominated: 200/200
+|ss4=Snail ATK +70<br>Per 10 Apostles dominated, Snail HP +210<br>Per 10 Apostles dominated, Snail ATK +21<br>Apostles Dominated: 200/200
+|ss5=Snail ATK +90<br>Per 10 Apostles dominated, Snail HP +270<br>Per 10 Apostles dominated, Snail ATK +27<br>Apostles Dominated: 200/200
+|ss6=Snail ATK +120<br>Per 10 Apostles dominated, Snail HP +360<br>Per 10 Apostles dominated, Snail ATK +36<br>Apostles Dominated: 200/200
+|ss7=Snail ATK +120<br>Per 10 Apostles dominated, Snail HP +360<br>Per 10 Apostles dominated, Snail ATK +36<br>Apostles Dominated: 200/200<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: This Relic's TECH +15
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Snail RUSH +600
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, 2x INTEL Drops +15%
+|mirage={{Mirage|name=Power of Explosion|reward={{RewardIconWithLink|Master Alchemy Case, +3|orange}}
+|3name=Black Powder|3rec=73.91M|3atk=221667|3defense=147882|3hp=12517895|3weak=29478
+|4name=Nitroglycerine|4rec=96.06M|4atk=268383|4defense=179049|4hp=17570502|4weak=33768
+|5name=Trinitrotoluene|5rec=121.89M|5atk=322850|5defense=215386|5hp=24086884|5weak=37929
+|6name=Cyclonite|6rec=151.18M|6atk=384624|6defense=256598|6hp=32376857|6weak=43284
+|Arec=184.12M|Aatk=454081|Adefense=302935|Ahp=42745015|Aweak=49419
+}}}}

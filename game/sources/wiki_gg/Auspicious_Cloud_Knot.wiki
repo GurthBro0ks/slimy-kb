@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Auspicious Cloud Knot
+|class_id=20165
+|rank=Green
+|affct=ART
+|source=
+|description=Arrayed silk threads make it exquisite and gorgeous, symbolizing endless auspiciousness. Loved by people because of their auspicious connotations, they are the most desired Spring Festival blessings!
+|fame=16
+|art=32
+|fth=13
+|civ=14
+|tech=15
+|ss1=Per 10 Lucky Coins gained, Snail ATK +2<br>Lucky Coins Gained: 400/400
+|ss2=Per 10 Lucky Coins gained, Snail ATK +4<br>Lucky Coins Gained: 400/400
+|ss3=Per 10 Lucky Coins gained, Snail ATK +6<br>Lucky Coins Gained: 400/400
+|ss4=Per 10 Lucky Coins gained, Snail ATK +6<br>Lucky Coins Gained: 400/400
+|ss7=Per 10 Lucky Coins gained, Snail ATK +6<br>Lucky Coins Gained: 400/400<br> (Awakened)
+}}

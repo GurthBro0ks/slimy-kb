@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Shugart Floppy Disk
+|class_id=22402
+|rank=Blue
+|affct=FAME
+|birthday=09-25
+|source=Lottery Machine No.3 (0.25%)
+|description=On Sept 25, 1967 AD, IBM introduced the world's first floppy disk.<br>The inventor of this floppy disk was Alan Shugart, who was also the inventor of the hard disk drive. As the earliest portable medium that could be used in personal computers, this floppy disk had a diameter of 32 inches. Although the access speed was slow and the capacity was quite small, it was the earliest portable and removable storage medium and had epoch-making significance.
+|fame=47
+|art=23
+|fth=22
+|civ=30
+|tech=32
+|ss1=Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +8<br>Forest Sanctum Rating Pts: 100000/100000
+|ss2=Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +16<br>Forest Sanctum Rating Pts: 100000/100000
+|ss3=Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Forest Sanctum Rating Pts: 100000/100000
+|ss4=Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Forest Sanctum Rating Pts: 100000/100000
+|ss7=Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Forest Sanctum Rating Pts: 100000/100000<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Murika skill I.png|50px]]Place in Murikan Museum: This Relic's FAME +5
+}}

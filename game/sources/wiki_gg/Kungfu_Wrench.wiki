@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Kungfu Wrench
+|class_id=20752
+|rank=Green
+|affct=FAITH
+|source=
+|description=As a martial artist, it’s perfectly reasonable to carry a wrench around. When someone's muscles are sore, you can use it to massage their legs or pound their backs. Of course, it’s definitely not meant to bonk your opponent’s head in the middle of a match… definitely not.
+|fame=15
+|art=14
+|fth=33
+|civ=17
+|tech=11
+|ss1=Snail DEF +10<br>Per Incense used, Snail HP +10<br>Incense Used: 40/40
+|ss2=Snail DEF +20<br>Per Incense used, Snail HP +20<br>Incense Used: 40/40
+|ss3=Snail DEF +30<br>Per Incense used, Snail HP +30<br>Incense Used: 40/40
+|ss4=Snail DEF +30<br>Per Incense used, Snail HP +30<br>Incense Used: 40/40
+|ss7=Snail DEF +30<br>Per Incense used, Snail HP +30<br>Incense Used: 40/40<br> (Awakened)
+}}

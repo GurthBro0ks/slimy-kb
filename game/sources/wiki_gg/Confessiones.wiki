@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Confessiones
+|class_id=22712
+|rank=SSS
+|affct=CIV
+|birthday=08-26
+|source=Lottery Machine No.3 (0.12%)
+|description=On Aug 26, 1789 AD, after twenty years of work, Rousseau completed his Confessiones.<br>The Confessiones is a two-volume book with twelve chapters in total, which records the life experiences of Rousseau from his birth to when he was forced to leave St. Pierre Island. Rousseau pursued absolute truth and exposed all of his own shortcomings and mistakes. He revealed that he had lied, cheated, harassed women, and stolen things, all with a strong sense of remorse, reflecting on the reasons behind these viewpoints, and showing a certain level of human concern and social criticism, making the work more enlightening.
+|fame=66
+|art=70
+|fth=63
+|civ=109
+|tech=54
+|ss1=Snail HP +300<br>Per devotee appointed, Priest-Snail Assistance DMG +24<br>Per devotee appointed, Priest-Troop Assistance DMG +24<br>Devotee Appointed: 50/50
+|ss2=Snail HP +400<br>Per devotee appointed, Priest-Snail Assistance DMG +32<br>Per devotee appointed, Priest-Troop Assistance DMG +32<br>Devotee Appointed: 50/50
+|ss3=Snail HP +500<br>Per devotee appointed, Priest-Snail Assistance DMG +40<br>Per devotee appointed, Priest-Troop Assistance DMG +40<br>Devotee Appointed: 50/50
+|ss4=Snail HP +700<br>Per devotee appointed, Priest-Snail Assistance DMG +56<br>Per devotee appointed, Priest-Troop Assistance DMG +56<br>Devotee Appointed: 50/50
+|ss5=Snail HP +900<br>Per devotee appointed, Priest-Snail Assistance DMG +72<br>Per devotee appointed, Priest-Troop Assistance DMG +72<br>Devotee Appointed: 50/50
+|ss6=Snail HP +1200<br>Per devotee appointed, Priest-Snail Assistance DMG +96<br>Per devotee appointed, Priest-Troop Assistance DMG +96<br>Devotee Appointed: 50/50
+|ss7=Snail HP +1200<br>Per devotee appointed, Priest-Snail Assistance DMG +96<br>Per devotee appointed, Priest-Troop Assistance DMG +96<br>Devotee Appointed: 50/50<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: Wishing Egg hatching efficiency +30%
+|skill2=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: This Relic's CIV +15
+|skill3=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: Blue rewards from this egg turn Purple by 6%
+|mirage={{Mirage|name=Journey in Reflection|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Marion|3rec=92.32M|3atk=274427|3defense=173778|3hp=13621650|3weak=33955
+|4name=Maisel|4rec=108.26M|4atk=311397|4defense=196216|4hp=16390957|4weak=35342
+|5name=Mrs. Warren|5rec=125.82M|5atk=351967|5defense=220921|5hp=19469445|5weak=36956
+|6name=Rousseau|6rec=145.50M|6atk=398581|6defense=248603|6hp=24267596|6weak=38658
+|Arec=174.23M|Aatk=467073|Adefense=289025|Ahp=31509139|Aweak=40955
+}}}}

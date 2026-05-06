@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dimensional Wanted Order S-6
+|class_id=20867
+|rank=Green
+|affct=TECH
+|source=
+|description=The Demon God's apostles occupy space-time gaps, Earth's will issues this wanted order to encourage travelers to go all out to eliminate the apostles! -- Earth's Will (Seal)
+|fame=16
+|art=14
+|fth=15
+|civ=15
+|tech=30
+|ss1=Per 1 Time II Apostles dominated, Snail DEF +1<br>Per 1 Time II Apostles dominated, Snail RUSH +1<br>Time Rift II Apostles dominated:40/40
+|ss2=Per 1 Time II Apostles dominated, Snail DEF +2<br>Per 1 Time II Apostles dominated, Snail RUSH +2<br>Time Rift II Apostles dominated:40/40
+|ss3=Per 1 Time II Apostles dominated, Snail DEF +3<br>Per 1 Time II Apostles dominated, Snail RUSH +3<br>Time Rift II Apostles dominated:40/40
+|ss4=Per 1 Time II Apostles dominated, Snail DEF +3<br>Per 1 Time II Apostles dominated, Snail RUSH +3<br>Time Rift II Apostles dominated:40/40
+|ss7=Per 1 Time II Apostles dominated, Snail DEF +3<br>Per 1 Time II Apostles dominated, Snail RUSH +3<br>Time Rift II Apostles dominated:40/40<br> (Awakened)
+}}

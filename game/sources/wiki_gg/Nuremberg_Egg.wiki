@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Nuremberg Egg
+|class_id=22106
+|rank=A
+|affct=FAME
+|birthday=09-27
+|source=Lottery Machine No.2 (0.55%), Wishing (0.15%)
+|description=On Sept 27, 1510 AD, a locksmith in Nuremberg, Peter Henlein took eight years to create the world's first portable watch for the king.<br>The Nuremberg egg was the prototype of the modern pocket watch. This early pocket watch is completely handmade and egg-sized big that can easily fit into a pocket. The oddity is that the Nuremberg Egg does have a second hand mechanism on the inside without a second hand on the surface. This is because people at that time did not have a need for such precise time, as they usually measured time in quarter hours. Watchmakers omitted the second hand, leaving only the hour and minute hands.
+|fame=63
+|art=33
+|fth=27
+|civ=41
+|tech=49
+|ss1=Snail DEF +10<br>Per 4 FAME Relics gained, Snail RUSH +2<br>FAME Relics: 120/120
+|ss2=Snail DEF +20<br>Per 4 FAME Relics gained, Snail RUSH +4<br>FAME Relics: 120/120
+|ss3=Snail DEF +30<br>Per 4 FAME Relics gained, Snail RUSH +6<br>FAME Relics: 120/120
+|ss4=Snail DEF +50<br>Per 4 FAME Relics gained, Snail RUSH +10<br>FAME Relics: 120/120
+|ss5=Snail DEF +70<br>Per 4 FAME Relics gained, Snail RUSH +14<br>FAME Relics: 120/120
+|ss7=Snail DEF +70<br>Per 4 FAME Relics gained, Snail RUSH +14<br>FAME Relics: 120/120<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, FAME Checks -10
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, food consumed -2%
+}}

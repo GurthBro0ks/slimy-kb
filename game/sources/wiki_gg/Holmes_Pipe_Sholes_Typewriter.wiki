@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Holmes' Pipe,Sholes' Typewriter
+|rank=blue
+|amount=2
+|category=home
+|description=Lumber Camp Output +10%
+}}
+[[Category:Home]]

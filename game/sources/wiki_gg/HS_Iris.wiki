@@ -1,0 +1,16 @@
+{{CargoOrgan
+|name=HS Iris
+|type=Common
+|rank=green
+|id=10803
+|idx=3
+|description=The iris shows different colors under lights of different wavelengths. The iris can even capture minute objects under high wavelengths.
+|skill=
+|hp=310
+|def=57
+|atk=51
+|rush=68
+|gene1=In explorations, 2x B-tad Drops +2%
+|gene2=In explorations, 2x B-tad Drops +2%
+|gene7=In explorations, 2x B-tad Drops +2% (Awakened)
+|}}

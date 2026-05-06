@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Susan's Horn,Neptune the Sea God,Innocent III Armorial
+|rank=blue
+|amount=3
+|category=Resource Boost
+|description=Novice Scrolls drop +1 Blue Reagent by +6%
+}}
+[[Category:Resource Boost]]

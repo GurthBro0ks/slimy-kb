@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Munsell Color System
+|class_id=22594
+|rank=AA
+|affct=TECH
+|birthday=07-12
+|source=
+|description=On Jul 12, 1898 AD, the American artist Munsell established his own color description system.<br>The Munsell color system is a color description method that uses three dimensions to describe colors based on lightness, chroma, and hue. It is a color standard system formulated based on the visual perception of colors from a psychological perspective. Currently, this color standard system is widely used internationally as a method of color classification and calibration.
+|fame=43
+|art=30
+|fth=49
+|civ=39
+|tech=67
+|ss1=Snail ATK +10<br>Snail DEF +10
+|ss2=Snail ATK +20<br>Snail DEF +20
+|ss3=Snail ATK +30<br>Snail DEF +30
+|ss4=Snail ATK +50<br>Snail DEF +50
+|ss5=Snail ATK +70<br>Snail DEF +70
+|ss7=Snail ATK +70<br>Snail DEF +70<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]??? (Coming soon)
+|skill2=[[File:Rift skill II.png|50px]]??? (Coming soon)
+}}

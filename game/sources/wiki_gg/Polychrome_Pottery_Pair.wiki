@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Polychrome Pottery Pair
+|class_id=21340
+|rank=SSS
+|affct=CIV
+|source=
+|description=The Northern Zhou Polychrome Pottery Pair is an important pottery art piece from the Northern Zhou period, unearthed from high-grade tombs, showcasing the social life and artistic style of the time. These pottery figurines vividly depict the intimate relationship between two women, with exquisite clothing and well-preserved paint, reflecting the high level of pottery art during the Northern Zhou period, and illustrating the customs and aesthetic concepts of the time, showcasing the colorful social life of the era.
+|fame=49
+|art=71
+|fth=64
+|civ=109
+|tech=69
+|ss1=Snail Leadership +3<br>Per Partner you have, Snail ATK +9<br>Per Partner you have, Snail DEF +9<br>Current Partners: 15/15
+|ss2=Snail Leadership +4<br>Per Partner you have, Snail ATK +12<br>Per Partner you have, Snail DEF +12<br>Current Partners: 15/15
+|ss3=Snail Leadership +5<br>Per Partner you have, Snail ATK +15<br>Per Partner you have, Snail DEF +15<br>Current Partners: 15/15
+|ss4=Snail Leadership +7<br>Per Partner you have, Snail ATK +21<br>Per Partner you have, Snail DEF +21<br>Current Partners: 15/15
+|ss5=Snail Leadership +9<br>Per Partner you have, Snail ATK +27<br>Per Partner you have, Snail DEF +27<br>Current Partners: 15/15
+|ss6=Snail Leadership +12<br>Per Partner you have, Snail ATK +36<br>Per Partner you have, Snail DEF +36<br>Current Partners: 15/15
+|ss7=Snail Leadership +12<br>Per Partner you have, Snail ATK +36<br>Per Partner you have, Snail DEF +36<br>Current Partners: 15/15<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail DEF +600
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: This Relic's CIV +15
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Lifesteal Effect +30%
+|mirage={{Mirage|name=Paired Up|reward={{RewardIconWithLink|Research Briefcase, +2|orange}}
+|3name=Dual Blade Warrior|3rec=4.89M|3atk=55428|3defense=36821|3hp=831126|3weak=12322
+|4name=Dual Gun Guard|4rec=8.96M|4atk=77196|4defense=51281|4hp=1474850|4weak=15319
+|5name=Twin Brothers|5rec=15.62M|5atk=103826|5defense=68971|5hp=2443641|5weak=18569
+|6name=Two-Headed Sisters|6rec=32.79M|6atk=135524|6defense=90028|6hp=3995319|6weak=22583
+|Arec=50.22M|Aatk=172444|Adefense=114554|Ahp=6142461|Aweak=28162
+}}}}

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Commercial Code,Code of Law
+|rank=blue
+|amount=2
+|category=self
+|description=Snail HP +500
+}}
+[[Category:Self]]

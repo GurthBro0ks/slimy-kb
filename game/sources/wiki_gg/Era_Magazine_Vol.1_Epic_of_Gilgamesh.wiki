@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Era Magazine Vol.1,Epic of Gilgamesh
+|rank=orange
+|amount=2
+|category=self
+|description=Snail HP +700
+}}
+[[Category:Self]]

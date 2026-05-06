@@ -1,0 +1,320 @@
+== Peter Jr. ♂ ==
+The beating gave the developer an epiphany. Now he focuses on gameplay, not monetization.
+
+=== Begin Friendship ===
+To obtain Peter Jr., free him from the [[Koryeon Domain]] and wait 24 hours after defeating him. He will request 3k W-tads.
+
+=== ☆☆☆ > ★★★ ===
+After 5 letters back and forth, Peter Jr. will move in permanently with his minion, Keyboard Warrior.
+
+== Rent ==
+[[File:Peter jr rent.png|left|300px]]
+
+Peter Jr. rent is collected on '''Tuesday''' and on the floor at his feet. 
+
+ '''Normal Rent''': {{RewardIconWithLink|Tetrabiblos|blue}} +5
+
+ '''Rare Rent''': {{RewardIconWithLink|Nocturnes|blue}} +5; {{RewardIconWithLink|Commercial Code|blue}} +5
+
+ '''1-time Rent''': {{RewardIconWithLink|Snail Quiz - Yamato|black|Minigames}}
+
+{{clear}}
+
+== Relics ==
+Upgrading these will earn {{RewardIconWithText|Gene Speedup}}!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|{{RewardIconWithText|Gene Speedup}} +1h
+|-
+|★★
+|{{RewardIconWithText|Gene Speedup}} +1h
+|-
+|★★★
+|{{RewardIconWithText|Gene Speedup}} +1h
+|-
+|★★★★
+|{{RewardIconWithText|Gene Speedup}} +2h
+|-
+|★★★★★
+|{{RewardIconWithText|Gene Speedup}} +3h
+|-
+|★★★★★★
+|{{RewardIconWithText|Gene Speedup}} +4h
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{RewardIconWithLink|Divergence Meter|black|Divergence Meter|50}}
+!style="background-color:var(--blue-bg);"|{{RewardIconWithLink|Enigma Machine|black|Enigma Machine|50}}
+!style="background-color:var(--purple-bg);"|{{RewardIconWithLink|Turing Machine|black|Turing Machine|50}}
+!style="background-color:var(--purple-bg);"|{{RewardIconWithLink|Mars Rover|black|Mars Rover|50}}
+|-
+!style="background-color:var(--orange-bg);"|{{RewardIconWithLink|Deep Navy Computer|black|Deep Navy Computer|50}}
+!style="background-color:var(--orange-bg);"|{{RewardIconWithLink|Morse's Telegraph|black|Morse's Telegraph|50}}
+!style="background-color:var(--orange-bg);"|{{RewardIconWithLink|Pt-Cont Transistor|black|Pt-Cont Transistor|50}}
+!style="background-color:var(--orange-bg);"|{{RewardIconWithLink|Devol's Robot|black|Devol's Robot|50}}
+|}
+
+== Bald Dev ==
+Pervasive crunch culture in the gaming industry made his head as shiny as a mirror.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||TECH +5||Mecha Minion Recovery SPD +0.3%
+|-
+|2||180||2k||TECH +10||Mecha Minion Recovery SPD +0.6%
+|-
+|3||190||4.5k||TECH +15||Mecha Minion Recovery SPD +0.9%
+|-
+|4||200||8k||TECH +20||Mecha Minion Recovery SPD +1.2%
+|-
+|5||210||12.5k||TECH +25||Mecha Minion Recovery SPD +1.5%
+|-
+|6||220||18k||TECH +30||Mecha Minion Recovery SPD +1.8%
+|-
+|7||230||24.5k||TECH +35||Mecha Minion Recovery SPD +2.1%
+|-
+|8||240||32k||TECH +40||Mecha Minion Recovery SPD +2.4%
+|-
+|9||250||40.5k||TECH +45||Mecha Minion Recovery SPD +2.7%
+|-
+|10||260||50k||TECH +50||Mecha Minion Recovery SPD +3%
+|-
+|11||270||60.5k||TECH +55||Mecha Minion Recovery SPD +3.3%
+|-
+|12||285||72k||TECH +60||Mecha Minion Recovery SPD +3.6%
+|-
+|13||300||84.5k||TECH +65||Mecha Minion Recovery SPD +3.9%
+|-
+|14||315||98k||TECH +70||Mecha Minion Recovery SPD +4.2%
+|-
+|15||330||112k||TECH +75||Mecha Minion Recovery SPD +4.5%
+|-
+|16||345||123k||TECH +80||Mecha Minion Recovery SPD +4.8%
+|-
+|17||360||144k||TECH +85||Mecha Minion Recovery SPD +5.1%
+|-
+|18||375||162k||TECH +90||Mecha Minion Recovery SPD +5.4%
+|-
+|19||390||180k||TECH +95||Mecha Minion Recovery SPD +5.7%
+|-
+|20||400||200k||TECH +100||Mecha Minion Recovery SPD +6%
+|-
+|21||420||220k||TECH +105||Mecha Minion Recovery SPD +6.3%
+|-
+|22||440||242k||TECH +110||Mecha Minion Recovery SPD +6.6%
+|-
+|23||460||264k||TECH +115||Mecha Minion Recovery SPD +6.9%
+|-
+|24||480||285k||TECH +120||Mecha Minion Recovery SPD +7.2%
+|-
+|25||500||309k||TECH +125||Mecha Minion Recovery SPD +7.5%
+|-
+|26||520||333k||TECH +130||Mecha Minion Recovery SPD +7.8%
+|-
+|27||540||357k||TECH +135||Mecha Minion Recovery SPD +8.1%
+|-
+|28||560||381k||TECH +140||Mecha Minion Recovery SPD +8.4%
+|-
+|29||580||405k||TECH +145||Mecha Minion Recovery SPD +8.7%
+|-
+|30||600||429k||TECH +150||Mecha Minion Recovery SPD +9%
+|}
+
+==Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Bald Dev is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +10
+|-
+|2||4k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +20
+|-
+|3||6k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +30
+|-
+|4||8k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +40
+|-
+|5||10k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +50
+|-
+|6||12k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +60
+|-
+|7||14k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +70
+|-
+|8||16k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +80
+|-
+|9||18k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +90
+|-
+|10||20k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +100
+|-
+|11||22k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +110
+|-
+|12||24k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +120
+|-
+|13||26k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +130
+|-
+|14||28k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +140
+|-
+|15||30k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +150
+|-
+|16||32k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +160
+|-
+|17||34k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +170
+|-
+|18||36k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +180
+|-
+|19||38k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +190
+|-
+|20||40k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +200
+|-
+|21||42k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +210
+|-
+|22||44k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +220
+|-
+|23||46k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +230
+|-
+|24||48k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +240
+|-
+|25||50k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +250
+|-
+|26||55k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +260
+|-
+|27||60k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +270
+|-
+|28||65k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +280
+|-
+|29||70k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +290
+|-
+|30||75k||Mecha Minion MAX +1||Per 10 Keyboard Warriors in battle, Troop HP +300
+|}
+
+== Research Ability ==
+Below is a table of the research manual cost to upgrade each research gene. Peter Jr. specializes in '''Mecha Gene''' and therefore the research manual cost for the Mecha is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+== Minion - Keyboard Warrior ==
+A little man programmed by Peter Jr. It can slightly tamper with its stats through a loophole in the game!
+
+===Special Ability - Stack Overflow===
+Per 10 Keyboard Warriors in battle, Troop RUSH +10 (multiplied by minion level)
+
+=== Minion Relics ===
+Upgrading these relics will buff your Keyboard Warriors!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Arirang Satellite}}<br>{{relink|Arirang Satellite}}
+|Keyboard Warrior HP +1%
+|Keyboard Warrior DEF +1%
+|Keyboard Warrior ATK +1%
+|Keyboard Warrior RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Enigma Machine}}<br>{{relink|Enigma Machine}}
+|Keyboard Warrior HP +1%
+|Keyboard Warrior DEF +1%
+|Keyboard Warrior ATK +1%
+|Keyboard Warrior RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Bell's Telephone}}<br>{{relink|Bell's Telephone}}
+|Keyboard Warrior HP +2%
+|Keyboard Warrior DEF +2%
+|Keyboard Warrior ATK +2%
+|Keyboard Warrior RUSH +2%
+|Keyboard Warrior All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Tesla Coil}}<br>{{relink|Tesla Coil}}
+|Keyboard Warrior HP +2%
+|Keyboard Warrior DEF +2%
+|Keyboard Warrior ATK +2%
+|Keyboard Warrior RUSH +2%
+|Keyboard Warrior All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Higgs Boson}}<br>{{relink|Higgs Boson}}
+|Keyboard Warrior RUSH +4%
+|Keyboard Warrior RUSH +4%
+|Keyboard Warrior RUSH +4%
+|Keyboard Warrior RUSH +4%
+|Keyboard Warrior RUSH +4%
+|Keyboard Warrior RUSH +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Matrix System}}<br>{{relink|Matrix System}}
+|Keyboard Warrior ATK +4%
+|Keyboard Warrior ATK +4%
+|Keyboard Warrior ATK +4%
+|Keyboard Warrior ATK +4%
+|Keyboard Warrior ATK +4%
+|Keyboard Warrior ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Pt-Cont Transistor}}<br>{{relink|Pt-Cont Transistor}}
+|Keyboard Warrior DEF +4%
+|Keyboard Warrior DEF +4%
+|Keyboard Warrior DEF +4%
+|Keyboard Warrior DEF +4%
+|Keyboard Warrior DEF +4%
+|Keyboard Warrior DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Tetromino}}<br>{{relink|Tetromino}}
+|Keyboard Warrior HP +4%
+|Keyboard Warrior HP +4%
+|Keyboard Warrior HP +4%
+|Keyboard Warrior HP +4%
+|Keyboard Warrior HP +4%
+|Keyboard Warrior HP +4%
+|-
+|}
+
+[[Category:Partners]]

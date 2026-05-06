@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Hemodialyzer
+|class_id=21951
+|rank=AAA
+|affct=TECH
+|source=
+|description=Using semipermeable membranes to filter toxins, it offered the first lifeline for kidney failure. Kolff’s rudimentary design evolved into an ICU standard and sparked the era of bionic medicine. Its biomimetic principles laid the groundwork for modern artificial organ innovation.
+|fame=45
+|art=33
+|fth=48
+|civ=43
+|tech=74
+|ss1=Mecha Minion ATK +3%<br>prop@52441_2
+|ss2=Mecha Minion ATK +4%<br>prop@52441_2
+|ss3=Mecha Minion ATK +5%<br>prop@52441_2
+|ss4=Mecha Minion ATK +7%<br>prop@52441_2
+|ss5=Mecha Minion ATK +9%<br>prop@52441_2
+|ss7=Mecha Minion ATK +9%<br>prop@52441_2<br>prop@52441_2 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's TECH +10
+}}

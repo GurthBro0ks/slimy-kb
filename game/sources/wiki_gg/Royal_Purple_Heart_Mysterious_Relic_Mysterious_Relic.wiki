@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Royal Purple Heart,Mysterious Relic,Mysterious Relic
+|rank=purple
+|amount=3
+|category=self
+|description=Per 3 Blue Brand Cases opened, Snail ATK +7; Blue Brand Cases Opened: 150/150
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]

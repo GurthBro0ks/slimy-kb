@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=The Naglfar
+|class_id=22566
+|rank=AAA
+|affct=FAITH
+|birthday=03-28
+|source=
+|description=On Mar 28, 1823 BC, Hela prepared her warship and waited for the coming Ragnarok.<br>The ship, made from the nails of the dead, is the vehicle of Hela, the ruler of the underworld. When Ragnarok arrives, the ship sails from the realm of Hel, transporting an army of frost giants and the dead to the battlefield, bringing death and destruction to the gods of Asgard.
+|fame=38
+|art=53
+|fth=75
+|civ=33
+|tech=44
+|ss1=Per 40 Eggs hatched, Snail ATK +3<br>Per 40 Eggs hatched, Snail RUSH +3<br>Eggs hatched: 1600/1600
+|ss2=Per 40 Eggs hatched, Snail ATK +4<br>Per 40 Eggs hatched, Snail RUSH +4<br>Eggs hatched: 1600/1600
+|ss3=Per 40 Eggs hatched, Snail ATK +5<br>Per 40 Eggs hatched, Snail RUSH +5<br>Eggs hatched: 1600/1600
+|ss4=Per 40 Eggs hatched, Snail ATK +7<br>Per 40 Eggs hatched, Snail RUSH +7<br>Eggs hatched: 1600/1600
+|ss5=Per 40 Eggs hatched, Snail ATK +9<br>Per 40 Eggs hatched, Snail RUSH +9<br>Eggs hatched: 1600/1600
+|ss7=Per 40 Eggs hatched, Snail ATK +9<br>Per 40 Eggs hatched, Snail RUSH +9<br>Eggs hatched: 1600/1600<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +1.5%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Cells collected +3%
+}}

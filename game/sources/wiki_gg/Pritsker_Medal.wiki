@@ -1,0 +1,19 @@
+{{CargoRelic
+|name=Pritsker Medal
+|rank=Green
+|affct=FAME
+|source=Home Value Pack I ($0.99)
+|description=Pritsker Medal is known as the Nobel Prize for architecture. About 500 architects are nominated every year, but only one winner is awarded for its outstanding talent, imagination, and responsibility.
+|fame=27
+|art=17
+|fth=13
+|civ=15
+|tech=18
+|ss1=Relic Stars needed to upgrade Buildings -5%<br>Per 5 Fungus Farm LVLs, Snail ATK +6<br>Fungus Farm LVL: 50/50
+|ss2=Relic Stars needed to upgrade Buildings -10%<br>Per 5 Fungus Farm LVLs, Snail ATK +12<br>Fungus Farm LVL: 50/50
+|ss3=Relic Stars needed to upgrade Buildings -15%<br>Per 5 Fungus Farm LVLs, Snail ATK +18<br>Fungus Farm LVL: 50/50
+}}
+
+[[Category:Value Pack Relics]]
+[[Category:ATK Boost]]
+[[Category:Building Upgrade Cost Reduction]]

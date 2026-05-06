@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Snowy Treasure Map
+|class_id=20934
+|rank=Green
+|affct=FAME
+|source=
+|description=An old treasure map with faint and rough sketches depicting snowy landscapes. Deciphering the map to uncover treasures seems to be an increasingly challenging task...
+|fame=31
+|art=16
+|fth=14
+|civ=15
+|tech=14
+|ss1=Snail RUSH +10<br>Per 30 Time Chests opened, Snail ATK +1<br>Time Chests Opened: 1500/1500
+|ss2=Snail RUSH +20<br>Per 30 Time Chests opened, Snail ATK +2<br>Time Chests Opened: 1500/1500
+|ss3=Snail RUSH +30<br>Per 30 Time Chests opened, Snail ATK +3<br>Time Chests Opened: 1500/1500
+|ss4=Snail RUSH +30<br>Per 30 Time Chests opened, Snail ATK +3<br>Time Chests Opened: 1500/1500
+|ss7=Snail RUSH +30<br>Per 30 Time Chests opened, Snail ATK +3<br>Time Chests Opened: 1500/1500<br> (Awakened)
+}}

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=On War,Lotus Chalice
+|rank=orange
+|amount=2
+|category=self
+|description=Per Realm conquered, Snail ATK +70<br>Realms Conquered: 8/8
+}}
+[[Category:Self]]

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=676
+|relics=Cooper's Mobile Phone,Tull's Seed Drill
+|rank=purple
+|amount=2
+|category=self
+|description=Snail HP +600
+}}

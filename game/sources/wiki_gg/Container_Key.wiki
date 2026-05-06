@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Container Key
+|class_id=20237
+|rank=Green
+|affct=FAITH
+|source=
+|description=This old key seems to have been passed on many times. The marks on it show that its former owners tried to open something with it many times, but no one knows whether they succeeded or not...
+|fame=14
+|art=18
+|fth=28
+|civ=10
+|tech=20
+|ss1=Per 10 Lotteries drawn, Snail RUSH +2<br>Lotteries Drawn: 200/200
+|ss2=Per 10 Lotteries drawn, Snail RUSH +4<br>Lotteries Drawn: 200/200
+|ss3=Per 10 Lotteries drawn, Snail RUSH +6<br>Lotteries Drawn: 200/200
+|ss4=Per 10 Lotteries drawn, Snail RUSH +6<br>Lotteries Drawn: 200/200
+|ss7=Per 10 Lotteries drawn, Snail RUSH +6<br>Lotteries Drawn: 200/200<br> (Awakened)
+}}

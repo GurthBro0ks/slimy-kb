@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=292
+|relics=Charlemagne Statue,Alexander the Great
+|rank=orange
+|amount=2
+|category=self
+|description=Per 20 Orange Orbs drawn, Snail ATK +14;Orange Orbs Drawn: 300/300
+}}

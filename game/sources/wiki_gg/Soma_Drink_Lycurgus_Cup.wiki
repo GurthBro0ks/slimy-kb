@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=666
+|relics=Soma Drink,Lycurgus Cup
+|rank=purple
+|amount=2
+|category=self
+|description=Per 5 Epic Protodex Stars, Snail DEF +18;Epic Protodex Stars: 100/100
+}}

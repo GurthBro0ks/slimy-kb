@@ -1,0 +1,33 @@
+= [[Organs]] =
+== Organ Crafting ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Blue Organ Craft|blue}}
+{{IconExampleRowWithText|Purple Organ Craft|purple}}
+{{IconExampleRowWithText|Orange Organ Craft|orange}}
+{{IconExampleRowWithText|Red Organ Craft|red}}
+|}
+
+== Organ Currency ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Genetic Core}}
+{{IconExampleRowWithText|Mutant Cell (Organ)}}
+{{IconExampleRowWithText|Mutantigen|orange}}
+{{IconExampleRowWithText|Organ Boost Serum|orange}}
+{{IconExampleRowWithText|Specimen}}
+|}
+
+== Organ Slime ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Green Organ Slime|green}}
+{{IconExampleRowWithText|Blue Organ Slime|blue}}
+{{IconExampleRowWithText|Purple Organ Slime|purple}}
+{{IconExampleRowWithText|Orange Organ Slime|orange}}
+|}
+
+== Old Organs ==
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Organ Slime}}
+|}
+
+[[Category:Icons]]
+[[Category:Organs]]

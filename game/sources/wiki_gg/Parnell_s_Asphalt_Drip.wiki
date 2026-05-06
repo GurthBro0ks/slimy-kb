@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Parnell's Asphalt Drip
+|class_id=22517
+|rank=AAA
+|affct=FAME
+|birthday=07-11
+|source=Lottery Machine No.3 (0.06%)
+|description=On Jul 11, 2013 AD, humans captured the moment when a drop of asphalt dripped in the asphalt drop experiment for the first time.<br>To prove to his students that some seemingly solid substances were actually highly viscous liquids, Professor Parnell placed a sample of asphalt in a sealed funnel and opened it three years later, causing the pitch to flow. However, it was not until 69 years later that people finally recorded the moment when a drop of pitch dripped. Today, this is the world's longest-running experiment, and the pitch inside can still allow this experiment to continue for hundreds of years.
+|fame=71
+|art=43
+|fth=35
+|civ=49
+|tech=45
+|ss1=Merge 1 Blue Stardust: Gain 1 more by 3%<br>Per +30F in Minion Sims Record, Snail ATK +3<br>Minion Sims record: 1500/1500F
+|ss2=Merge 1 Blue Stardust: Gain 1 more by 4%<br>Per +30F in Minion Sims Record, Snail ATK +4<br>Minion Sims record: 1500/1500F
+|ss3=Merge 1 Blue Stardust: Gain 1 more by 5%<br>Per +30F in Minion Sims Record, Snail ATK +5<br>Minion Sims record: 1500/1500F
+|ss4=Merge 1 Blue Stardust: Gain 1 more by 7%<br>Per +30F in Minion Sims Record, Snail ATK +7<br>Minion Sims record: 1500/1500F
+|ss5=Merge 1 Blue Stardust: Gain 1 more by 9%<br>Per +30F in Minion Sims Record, Snail ATK +9<br>Minion Sims record: 1500/1500F
+|ss7=Merge 1 Blue Stardust: Gain 1 more by 9%<br>Per +30F in Minion Sims Record, Snail ATK +9<br>Minion Sims record: 1500/1500F<br>Merge 1 Blue Stardust: Gain 1 more by 7% (Awakened)
+|skill1=[[File:Frostsanctum skill II.png|50px]]Place in Frost Sanctum: This Relic's FAME +10
+|skill2=[[File:Frostsanctum skill II.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Cap +15%
+}}

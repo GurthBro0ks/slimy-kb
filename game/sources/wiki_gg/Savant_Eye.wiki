@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Savant Eye
+|type=Common
+|rank=orange
+|id=10862
+|idx=69
+|description=An eye of savant coalesced after the fall of the high sequence. Can be used to ascend.
+|skill=
+|hp=3116
+|def=190
+|atk=192
+|rush=152
+|gene1=Gene Research Free Speedup +15m
+|gene2=All Gene Research SPD +3%
+|gene3=Wind DMG +90
+|gene4=Each round, {race} RUSH +60
+|gene5=Gaia Rocket Cabin, deployable robots +3
+|gene7=Gaia Rocket Cabin, deployable robots +9 (Awakened)
+|}}

@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Allspark
+|class_id=22905
+|rank=SSS
+|affct=TECH
+|source=
+|description=The Allspark is the source of life on the planet Canabilis, granting each Canabilis individual life and personality, with its power flowing through the veins of every mechanical lifeform. However, when the Allspark mysteriously disappeared, Canabilis fell into an unprecedented crisis, and a great war ensued...
+|fame=68
+|art=54
+|fth=68
+|civ=65
+|tech=107
+|ss1=Snail Leadership +3<br>Mecha Minion Recovery SPD +6%<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Snail Leadership +4<br>Mecha Minion Recovery SPD +8%<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Snail Leadership +5<br>Mecha Minion Recovery SPD +10%<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Snail Leadership +7<br>Mecha Minion Recovery SPD +14%<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Snail Leadership +9<br>Mecha Minion Recovery SPD +18%<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Snail Leadership +12<br>Mecha Minion Recovery SPD +24%<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Snail Leadership +12<br>Mecha Minion Recovery SPD +24%<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +30<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x B-tad Drops +15%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Snail DEF +600
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's TECH +15
+}}

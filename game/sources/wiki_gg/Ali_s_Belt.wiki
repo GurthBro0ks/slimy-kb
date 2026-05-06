@@ -1,0 +1,43 @@
+{{CargoRelic
+|name=Ali's Belt
+|rank=AAA
+|affct=FAME
+|birthday=05-31
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On May 31, 1978, the greatest boxer Ali won this golden belt after defeating Foreman.
+
+60,000 fans were cheering for the boxing champion Ali in the Super Bowl Stadium. After 15 matches, he defeated Spinks and claimed back his championship. This golden belt of the Boxing Council was once abandoned in a locker room in California. This was the last golden belt Ali won, and also the last one the world has.
+
+[Basic Info]
+
+Price: 1 million pounds
+
+Collected by: Floyd Mayweather
+
+Material: Gold, jade, caiman leather
+|fame=75
+|art=41
+|fth=34
+|civ=45
+|tech=48
+|ss1=Defeated Daily Hitmen drop +5 W-tads<br>Per Hitman intercepted, Snail ATK +6<br>Hitmen Intercepted 40/40
+|ss2=Defeated Daily Hitmen drop +10 W-tads<br>Per Hitman intercepted, Snail ATK +8<br>Hitmen Intercepted 40/40
+|ss3=Defeated Daily Hitmen drop +15 W-tads<br>Per Hitman intercepted, Snail ATK +10<br>Hitmen Intercepted 40/40
+|ss4=Defeated Daily Hitmen drop +25 W-tads<br>Per Hitman intercepted, Snail ATK +14<br>Hitmen Intercepted 40/40
+|ss5=Defeated Daily Hitmen drop +35 W-tads<br>Per hitman intercepted, Snail ATK +18<br>Hitmen intercepted: 40/40
+|ss7=Defeated Daily Hitmen drop +35 W-tads<br>Per hitman intercepted, Snail ATK +18<br>Hitmen intercepted: 40/40<br>Defeated Daily Hitmen drop +10 W-tads (Awakened)
+|skill1=[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, Snail ATK +30
+|skill2=[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, this Relic's FAME +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FAME Relics]]
+[[Category:Purple FAME Relics]]
+[[Category:Hitman Boost]]
+[[Category:Daily Hitmen White Tadpole Drop Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:ATK Boost]]
+[[Category:Lucky Voucher Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Enhanced by Hitmen Intercepted]]

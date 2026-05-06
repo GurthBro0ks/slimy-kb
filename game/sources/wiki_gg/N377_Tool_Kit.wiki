@@ -1,0 +1,10 @@
+[[File:N377 Tool Kit.png]]
+
+Bought in the [[Minion_Sim#Sim_Shop|Minion Sim Shop]] for 600 {{RewardIconWithLink|Sim Token}}.
+
+
+{{Retext|Use to upgrade Wood Golem:|blue}}
+
+{{Retext|While preparing for battle, chance to take damage on behalf of other minions of the same rank.|blue}}
+
+{{Retext|Available after unlocking the Minion Wood Golems.|red}}

@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Edison's Kinetoscope
+|class_id=21829
+|rank=S
+|affct=TECH
+|birthday=05-26
+|source=
+|description=On May 26, 1895 AD, the movie projector played the first film, Workers Leaving The Lumiere Factory.<br>On this day, Broadway audiences saw characters on a screen for the first time. Outside the gates of a factory, off-duty workers went out the door, and passersby walked and rode bicycles in a realistic, natural scene. It used the device invented by Dixon to print each frame on a separate cell and then install them onto a wheel in series. When the handle turns the wheel, the image will move, so it is also called a movie projector. It is still used in amusement parks and shopping malls.
+|fame=60
+|art=55
+|fth=48
+|civ=71
+|tech=98
+|ss1=Snail DEF +10<br>Per 5 Ads watched, Snail DEF +1<br>Per 5 Ads watched, Snail RUSH +1<br>Ads Watched: 100/100
+|ss2=Snail DEF +20<br>Per 5 Ads watched, Snail DEF +2<br>Per 5 Ads watched, Snail RUSH +2<br>Ads Watched: 100/100
+|ss3=Snail DEF +30<br>Per 5 Ads watched, Snail DEF +3<br>Per 5 Ads watched, Snail RUSH +3<br>Ads Watched: 100/100
+|ss4=Snail DEF +50<br>Per 5 Ads watched, Snail DEF +5<br>Per 5 Ads watched, Snail RUSH +5<br>Ads Watched: 100/100
+|ss5=Snail DEF +70<br>Per 5 Ads watched, Snail DEF +7<br>Per 5 Ads watched, Snail RUSH +7<br>Ads Watched: 100/100
+|ss6=Snail DEF +100<br>Per 5 Ads watched, Snail DEF +10<br>Per 5 Ads watched, Snail RUSH +10<br>Ads Watched: 100/100
+|ss7=Snail DEF +100<br>Per 5 Ads watched, Snail DEF +10<br>Per 5 Ads watched, Snail RUSH +10<br>Ads Watched: 100/100<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Quary skill III.png|50px]]Place in Quarry: Stone Output +30%
+|skill2=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Lumber Max Cap +30%
+|skill3=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Travel Speedup Output +30%
+|mirage={{Mirage|name=Edison's Invention|reward={{RewardIconWithLink|Ad Chest, +200|orange}}
+|3name=Edison's Light Bulb|3rec=0.51M|3atk=13046|3defense=8646|3hp=66012|3weak=3686
+|4name=Edison's Phonograph|4rec=2.34M|4atk=36448|4defense=24156|4hp=469027|4weak=8586
+|Arec=8.43M|Aatk=74884|Adefense=49628|Ahp=1670387|Aweak=13170
+}}}}

@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Lasker Award,Abel Prize
+|rank=orange
+|amount=2
+|category=home
+|description=Frost Sanctum, Glorium Output +14%
+}}
+[[Category:Home]]
+[[Category:Frost Sanctum Boost]]

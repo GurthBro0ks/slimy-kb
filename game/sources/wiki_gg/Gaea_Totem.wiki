@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Gaea Totem
+|class_id=20295
+|rank=Green
+|affct=FAITH
+|source=
+|description=This totem obtained from the Wonder Sage emits a strong and familiar aura. It is said to have the power to help the holder break through the limits of Godhood. However, when carefully staring at it, one always feels a sense of inexplicable unease...
+|fame=17
+|art=14
+|fth=31
+|civ=15
+|tech=13
+|ss1=All Sanctum Glorium Output +0.4%
+|ss2=All Sanctum Glorium Output +0.8%
+|ss3=All Sanctum Glorium Output +1.2%
+|ss4=All Sanctum Glorium Output +1.2%
+|ss7=All Sanctum Glorium Output +1.2%<br> (Awakened)
+}}

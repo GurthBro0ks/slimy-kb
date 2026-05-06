@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=299
+|relics=Hamilton's Washer,Diesel Engine
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Mecha Minions in battle: Troop RUSH +5
+}}

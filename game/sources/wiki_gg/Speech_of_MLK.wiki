@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Speech of MLK
+|rank=AAA
+|affct=FAME
+|birthday=05-23
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On May 23, 1968, Martin Luther King's manuscript was first published soon after the assassination.
+
+Martin Luther King is a well-known civil rights activist. "I've Been to the Mountaintop" was his final speech. He was assassinated at the age of forty. He is remembered for sparking civil rights movements. Among all his speeches, "I Have a Dream" was the most famous.
+
+[Classic Quotes]
+
+"In the end, we will remember not the words of our enemies but the silence of our friends."
+|fame=74
+|art=38
+|fth=50
+|civ=49
+|tech=32
+|ss1=In explorations, INTEL gained +1.8%<br>Finish all daily tasks 3 times: Snail RUSH +6<br>All daily tasks completed: 60/60
+|ss2=In explorations, INTEL gained +2.4%<br>Finish all daily tasks 3 times: Snail RUSH +8<br>All daily tasks completed: 60/60
+|ss3=In explorations, INTEL gained +3%<br>Finish all daily tasks 3 times: Snail RUSH +10<br>All daily tasks completed: 60/60
+|ss4=In explorations, INTEL gained +4.2%<br>Finish all daily tasks 3 times: Snail RUSH +14<br>All daily tasks completed: 60/60
+|ss5=In explorations, INTEL gained +5.4%<br>Finish all daily tasks 3 times: Snail RUSH +18<br>All daily tasks completed: 60/60
+|ss7=In explorations, INTEL gained +5.4%<br>Finish all daily tasks 3 times: Snail RUSH +18<br>All daily tasks completed: 60/60<br>In explorations, INTEL gained +4.2% (Awakened)
+|skill1=[[File:Murika skill II.png|50px]] Place in Murikan Museum: In Murika, Snail ATK +30
+|skill2=[[File:Murika skill II.png|50px]] Place in Murikan Museum: This Relic's FAME +10
+}}
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FAME Relics]]
+[[Category:Purple FAME Relics]]
+[[Category:Exploration INTEL Boost]]
+[[Category:RUSH Boost]]
+[[Category:HP Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Minion RUSH Boost]]
+[[Category:Enhanced by Daily Tasks]]
+[[Category:Enhanced by DNA Strength]]

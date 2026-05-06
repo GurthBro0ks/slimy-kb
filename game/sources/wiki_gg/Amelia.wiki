@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Amelia
+|rank=purple
+|cabin=2
+|id=57
+|gene1={race} RUSH +30
+|gene2={race} FTH +30
+|gene3=Per 30 Dragon Minions in battle:
+> Troop RUSH +8
+|gene4=Resolver: W-tads extracted +6
+|gene5=Per 30 Dragon Minions in battle:
+> Troop RUSH +12
+|gene6=Resolver: W-tads extracted +9
+|}}

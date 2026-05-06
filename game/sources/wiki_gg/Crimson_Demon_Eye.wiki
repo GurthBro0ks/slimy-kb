@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Crimson Demon Eye
+|type=Common
+|rank=orange
+|id=10939
+|idx=90
+|description=This ocular artifact pulses with hellish vermilion radiance, casting a dual-tone apocalypse where only scorching red and abyssal black remain - like a satanic Instagram filter made flesh.
+|skill=
+|hp=2970
+|def=169
+|atk=163
+|rush=216
+|gene1=Fire DMG +90
+|gene2=Fire RES +90
+|gene3=Each round, {race} RUSH +60
+|gene4=Per 40 wishes made, {race} ATK +7
+Wishes Made: 2000/2000
+|gene5=When you Wish, get 1 Taichi Fish by +10%
+|gene7=Fire DMG +4.5% (Awakened)
+|}}

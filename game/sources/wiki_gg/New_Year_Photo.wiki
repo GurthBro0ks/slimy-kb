@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=New Year Photo
+|class_id=20975
+|rank=Green
+|affct=FAME
+|source=
+|description=Side by side, Snail and Bird, fireworks burst. Together, to the new year, with a toast.
+|fame=30
+|art=15
+|fth=20
+|civ=13
+|tech=12
+|ss1=Per 5 Sign-Ins, Snail ATK +1<br>Sign-Ins: 365/365
+|ss2=Per 5 Sign-Ins, Snail ATK +2<br>Sign-Ins: 365/365
+|ss3=Per 5 Sign-Ins, Snail ATK +3<br>Sign-Ins: 365/365
+|ss4=Per 5 Sign-Ins, Snail ATK +3<br>Sign-Ins: 365/365
+|ss7=Per 5 Sign-Ins, Snail ATK +3<br>Sign-Ins: 365/365<br> (Awakened)
+}}

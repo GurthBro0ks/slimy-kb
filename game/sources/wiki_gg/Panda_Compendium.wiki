@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Panda Compendium
+|class_id=20524
+|rank=Green
+|affct=CIV
+|source=
+|description=A customized encyclopedia for panda trainers, this compendium records every panda encountered by the owner, as well as all related information. It's an essential tool for every panda trainer!
+|fame=13
+|art=14
+|fth=16
+|civ=32
+|tech=15
+|ss1=Per Species Map entry completed, Snail ATK +1<br>Species Map Entries: 60/60
+|ss2=Per Species Map entry completed, Snail ATK +2<br>Species Map Entries: 60/60
+|ss3=Per Species Map entry completed, Snail ATK +3<br>Species Map Entries: 60/60
+|ss4=Per Species Map entry completed, Snail ATK +3<br>Species Map Entries: 60/60
+|ss7=Per Species Map entry completed, Snail ATK +3<br>Species Map Entries: 60/60<br> (Awakened)
+}}

@@ -1,0 +1,44 @@
+{{CargoRelic
+|name=DOI
+|rank=SS
+|affct=FAME
+|birthday=03-10
+|source=FAME Master Scrolls (9.2%), Fragment Crafting (6.1%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), Super Treasure Map (5%), Wishing (0.22%)
+|description=On Mar 10, 1777, DOI was well-known in the 13 British colonies of North America. 
+
+The Declaration of Independence (DOI) is a declaration that has affected the entire course of mankind, declaring independence on the thirteen British Colonies of North America. It ushered in an era of great power for America for hundreds of years. 
+
+[Important Excerpt]
+
+"We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness."
+|fame=104
+|art=66
+|fth=56
+|civ=63
+|tech=58
+|ss1=In explorations, INTEL gained +1.2%<br>Upon traveling through an area, gain +4 INTEL<br>Per hitman intercepted, Snail ATK +4<br>Hitmen Intercepted: 40/40
+|ss2=In explorations, INTEL gained +1.8%<br>Upon traveling through an area, gain +6 INTEL<br>Per hitman intercepted, Snail ATK +6<br>Hitmen Intercepted: 40/40
+|ss3=In explorations, INTEL gained +2.4%<br>Upon traveling through an area, gain +8 INTEL<br>Per hitman intercepted, Snail ATK +8<br>Hitmen Intercepted: 40/40
+|ss4=In explorations, INTEL gained +3.6%<br>Upon traveling through an area, gain +12 INTEL<br>Per hitman intercepted, Snail ATK +12<br>Hitmen Intercepted: 40/40
+|ss5=In explorations, INTEL gained +4.8%<br>Upon traveling through an area, gain +16 INTEL<br>Per hitman intercepted, Snail ATK +16<br>Hitmen Intercepted: 40/40
+|ss6=In explorations, INTEL gained +6.6%<br>Upon traveling through an area, gain +22 INTEL<br>Per hitman intercepted, Snail ATK +22<br>Hitmen Intercepted: 40/40
+|ss7=In explorations, INTEL gained +6.6%<br>Upon traveling through an area, gain +22 INTEL<br>Per hitman intercepted, Snail ATK +22<br>Hitmen Intercepted: 40/40<br>In explorations, INTEL gained +6% (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: Medal Cost for Expert Scrolls -150
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Reagent Drops +7.5%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: This Relic's FAME +10
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Exploration INTEL Boost]]
+[[Category:ATK Boost]]
+[[Category:Hitman Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Medal Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:FAME Boost]]
+[[Category:Ad Shop Boost]]
+[[Category:HP Boost]]
+[[Category:Organ Boost]]
+[[Category:DEF Boost]]

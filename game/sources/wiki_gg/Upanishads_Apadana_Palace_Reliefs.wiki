@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Upanishads,Apadana Palace Reliefs
+|rank=orange
+|amount=2
+|category=self
+|description=Per set of Pendulum Alienity collected, Snail DEF +35
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]

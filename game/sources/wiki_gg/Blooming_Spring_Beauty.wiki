@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Blooming Spring Beauty
+|class_id=20626
+|rank=Green
+|affct=ART
+|source=
+|description=Selected from a competition among a thousand flower artists from eight countries, this floral artwork captivates with its blooming beauty. The fragrance of flowers fills the air, as if dancing dragons swirl in the breeze. Under the brilliant spring sunlight, the colorful flowers shine and compete in a vibrant spectacle, showcasing their most beautiful forms.
+|fame=16
+|art=31
+|fth=13
+|civ=15
+|tech=15
+|ss1=Snail HP +100<br>Per 10 HP Pistils Used, Snail ATK +1<br>HP Pistils Used: 400/400
+|ss2=Snail HP +200<br>Per 10 HP Pistils Used, Snail ATK +2<br>HP Pistils Used: 400/400
+|ss3=Snail HP +300<br>Per 10 HP Pistils Used, Snail ATK +3<br>HP Pistils Used: 400/400
+|ss4=Snail HP +300<br>Per 10 HP Pistils Used, Snail ATK +3<br>HP Pistils Used: 400/400
+|ss7=Snail HP +300<br>Per 10 HP Pistils Used, Snail ATK +3<br>HP Pistils Used: 400/400<br> (Awakened)
+}}

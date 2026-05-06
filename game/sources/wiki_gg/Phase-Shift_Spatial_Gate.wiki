@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Phase-Shift Spatial Gate
+|class_id=22913
+|rank=SSS
+|affct=TECH
+|source=
+|description=A theoretical construct in quantum physics, leveraging phase differences to manipulate quantum states. By controlling phase shifts in photonic pathways, it enables quantum entanglement—effectively bending spacetime for information processing.
+|fame=70
+|art=51
+|fth=66
+|civ=67
+|tech=108
+|ss1=Mecha Minion ATK +3%<br>Protomon Snail assist DMG + 240<br>Per TECH Bionic Part extracted, Snail HP +150<br>TECH Bionic Part Extracted: 10/10
+|ss2=Mecha Minion ATK +4%<br>Protomon Snail assist DMG + 320<br>Per TECH Bionic Part extracted, Snail HP +200<br>TECH Bionic Part Extracted: 10/10
+|ss3=Mecha Minion ATK +5%<br>Protomon Snail assist DMG + 400<br>Per TECH Bionic Part extracted, Snail HP +250<br>TECH Bionic Part Extracted: 10/10
+|ss4=Mecha Minion ATK +7%<br>Protomon Snail assist DMG + 560<br>Per TECH Bionic Part extracted, Snail HP +350<br>TECH Bionic Part Extracted: 10/10
+|ss5=Mecha Minion ATK +9%<br>Protomon Snail assist DMG + 720<br>Per TECH Bionic Part extracted, Snail HP +450<br>TECH Bionic Part Extracted: 10/10
+|ss6=Mecha Minion ATK +12%<br>Protomon Snail assist DMG + 960<br>Per TECH Bionic Part extracted, Snail HP +600<br>TECH Bionic Part Extracted: 10/10
+|ss7=Mecha Minion ATK +12%<br>Protomon Snail assist DMG + 960<br>Per TECH Bionic Part extracted, Snail HP +600<br>TECH Bionic Part Extracted: 10/10<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion RUSH +9%
+|skill2=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Earth DMG +60
+|skill3=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop DMG REDUC +6%
+|mirage={{Mirage|name=Open Sesame: Phaseway|reward={{RewardIconWithLink|Analysis Chip, +80|orange}}
+|3name=Revolving Door|3rec=309.84M|3atk=777550|3defense=441311|3hp=138349415|3weak=69000
+|4name=Auto-door|4rec=392.37M|4atk=910441|4defense=515561|4hp=219012449|4weak=74214
+|5name=Triumphal Arch|5rec=514.31M|5atk=1118421|5defense=625268|5hp=397966653|5weak=81403
+|6name=Rip|6rec=681.30M|6atk=1522438|6defense=780196|6hp=648902776|6weak=89589
+|Arec=936.39M|Aatk=2345729|Adefense=1053790|Ahp=1171011711|Aweak=98500
+}}}}

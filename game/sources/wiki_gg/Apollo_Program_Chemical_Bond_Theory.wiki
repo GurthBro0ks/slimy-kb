@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=763
+|relics=Apollo Program,Chemical Bond Theory
+|rank=orange
+|amount=2
+|category=self
+|description=Snail Leadership +7
+}}

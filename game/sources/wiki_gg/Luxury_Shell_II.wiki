@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Launched by a well-known luxury brand. Wearing it will give you a sense of nobility and sophistication. Even though nothing else has changed!
+|affct=FAME
+|hard=DEF
+|source=Divine Order Chest (0.4%)
+|color=blue
+|earth=5
+|water=3
+|fire=4
+|wind=2
+|form=Zombie
+|element=Water
+|realm=Kemet
+|orangehard=ATK
+}}

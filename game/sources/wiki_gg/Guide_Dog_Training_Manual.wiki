@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Guide Dog Training Manual
+|class_id=20542
+|rank=Green
+|affct=CIV
+|source=
+|description=This carefully crafted manual for guide dog training helps you understand the characteristics of guide dogs, training techniques, and ways of interaction. It enables you to become an excellent guide dog trainer, providing reliable support for visually impaired individuals, enhancing their navigation and companionship.
+|fame=15
+|art=14
+|fth=13
+|civ=32
+|tech=16
+|ss1=Snail RUSH +10<br>Per 5 Minions Cloned, Snail RUSH +1<br>Minions Cloned: 100/100
+|ss2=Snail RUSH +20<br>Per 5 Minions Cloned, Snail RUSH +3<br>Minions Cloned: 100/100
+|ss3=Snail RUSH +30<br>Per 5 Minions Cloned, Snail RUSH +5<br>Minions Cloned: 100/100
+|ss4=Snail RUSH +30<br>Per 5 Minions Cloned, Snail RUSH +5<br>Minions Cloned: 100/100
+|ss7=Snail RUSH +30<br>Per 5 Minions Cloned, Snail RUSH +5<br>Minions Cloned: 100/100<br> (Awakened)
+}}

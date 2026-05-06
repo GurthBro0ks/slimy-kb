@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Chicago Pile-1
+|class_id=22752
+|rank=SSS
+|affct=TECH
+|birthday=12-02
+|source=
+|description=On Dec 2, 1942 AD, Chicago Pile-1 was successfully initiated under the leadership of physicist Enrico Fermi.<br>Chicago Pile-1 was an experimental nuclear reactor and part of the Manhattan Project, whose main purpose was to demonstrate the chain reaction model of nuclear fission and lay the groundwork for the development of nuclear weapons. Despite its rough appearance, resembling a sphere made of graphite blocks and uranium fuel, it successfully operated and became the world's first controlled nuclear reactor, ushering in the era of atomic energy.
+|fame=69
+|art=53
+|fth=67
+|civ=67
+|tech=106
+|ss1=Catalyzed Blue Spores turn to Purple by +0.3%<br>Per 10k Fervor, Snail ATK +2<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +16<br>Fervor: 500000/500000
+|ss2=Catalyzed Blue Spores turn to Purple by +0.4%<br>Per 10k Fervor, Snail ATK +4<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +32<br>Fervor: 500000/500000
+|ss3=Catalyzed Blue Spores turn to Purple by +0.5%<br>Per 10k Fervor, Snail ATK +6<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +48<br>Fervor: 500000/500000
+|ss4=Catalyzed Blue Spores turn to Purple by +0.7%<br>Per 10k Fervor, Snail ATK +10<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +80<br>Fervor: 500000/500000
+|ss5=Catalyzed Blue Spores turn to Purple by +0.9%<br>Per 10k Fervor, Snail ATK +14<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +112<br>Fervor: 500000/500000
+|ss6=Catalyzed Blue Spores turn to Purple by +1.2%<br>Per 10k Fervor, Snail ATK +20<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +160<br>Fervor: 500000/500000
+|ss7=Catalyzed Blue Spores turn to Purple by +1.2%<br>Per 10k Fervor, Snail ATK +20<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +160<br>Fervor: 500000/500000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|mirage={{Mirage|name=Nuclear Pioneer|reward={{RewardIconWithLink|Blasphemy Eye, +1|orange}}
+|3name=Wigner|3rec=91.54M|3atk=295812|3defense=172683|3hp=22288186|3weak=38110
+|4name=Compton|4rec=101.18M|4atk=317464|4defense=186251|4hp=26896315|4weak=39934
+|5name=Szilard|5rec=112.78M|5atk=342882|5defense=202573|5hp=32708139|5weak=42605
+|6name=Fermi|6rec=127.11M|6atk=373765|6defense=222733|6hp=42156813|6weak=45880
+|Arec=145.32M|Aatk=414484|Adefense=248354|Ahp=56378196|Aweak=49494
+}}}}

@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Helllord Corpus
+|type=Bionic
+|rank=red
+|id=10709
+|idx=67
+|description=Infused with stardust, inlaid within flesh, this body bears cryptic markings — the silent will of the stars. No blade can pierce it.
+|skill=Summon the Infernal Shield, dealing DMG equal to 220% of ATK!
+|hp=1960
+|def=377
+|atk=265
+|rush=232
+|gene1=CRIT DMG REDUC +10%
+|gene2=Each round, {race} DEF +80
+|gene3=All ELMT RES +40
+|gene4=Wind DMG +120
+|gene5=Restore 800 HP each round
+|gene6=RUSH CRIT DMG +10%
+|gene7=Wind DMG +6% (Awakened)
+|}}

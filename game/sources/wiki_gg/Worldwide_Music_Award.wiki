@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Worldwide Music Award
+|class_id=22723
+|rank=SSS
+|affct=CIV
+|birthday=05-11
+|source=
+|description=Established on May 11, 1989, in Monte Carlo, the Worldwide Music Award is a prestigious recognition.<br>As an accolade recognized by the International Record Association, the Worldwide Music Award aims to encourage globally high-selling artists. The selection of award recipients is based on the sales performance of their works and the votes of fans worldwide. It has garnered attention in over a hundred countries, making it one of the significant honors in the music industry.
+|fame=70
+|art=68
+|fth=60
+|civ=109
+|tech=55
+|ss1=All Mutant Minion Skins, HARD Stats +30%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +30<br>Per 200 Avatar Score, Snail ATK +3<br>Avatar Score: 10000/10000
+|ss2=All Mutant Minion Skins, HARD Stats +40%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +40<br>Per 200 Avatar Score, Snail ATK +4<br>Avatar Score: 10000/10000
+|ss3=All Mutant Minion Skins, HARD Stats +50%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +50<br>Per 200 Avatar Score, Snail ATK +5<br>Avatar Score: 10000/10000
+|ss4=All Mutant Minion Skins, HARD Stats +70%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +70<br>Per 200 Avatar Score, Snail ATK +7<br>Avatar Score: 10000/10000
+|ss5=All Mutant Minion Skins, HARD Stats +90%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +90<br>Per 200 Avatar Score, Snail ATK +9<br>Avatar Score: 10000/10000
+|ss6=All Mutant Minion Skins, HARD Stats +120%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 200 Avatar Score, Snail ATK +12<br>Avatar Score: 10000/10000
+|ss7=All Mutant Minion Skins, HARD Stats +120%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 200 Avatar Score, Snail ATK +12<br>Avatar Score: 10000/10000<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Reagent Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail RUSH +600
+|mirage={{Mirage|name=The 233rd Award Ceremony|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=European Winner|3rec=191.72M|3atk=510017|3defense=313630|3hp=36627285|3weak=42635
+|4name=Asian Winner|4rec=327.47M|4atk=767588|4defense=457178|4hp=84402702|4weak=52627
+|5name=American Winner|5rec=502.55M|5atk=1064967|5defense=614689|5hp=178010232|5weak=60128
+|6name=Antarctic Winner|6rec=711.40M|6atk=1440425|6defense=812482|6hp=366312370|6weak=71552
+|Arec=858.08M|Aatk=1713826|Adefense=969805|Ahp=584161455|Aweak=84137
+}}}}

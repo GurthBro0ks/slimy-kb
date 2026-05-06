@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Parthenon Marbles
+|class_id=21636
+|rank=SS
+|affct=ART
+|source=
+|description=This collection of relief sculptures is placed in the Parthenon. Made by the most talented sculptors, these relief sculptures depict the lives of the gods. One shows a ceremonial sacrifice to Athena, another praises the goddess's great deeds. The Parthenon is the largest temple in Greece and is dedicated to Athena. Unfortunately many statues were significantly damaged by foreign looters. Some remaining sculptures are preserved in many places around the globe.
+|fame=56
+|art=103
+|fth=55
+|civ=68
+|tech=65
+|ss1=Snail DEF +20<br>Per 4 Costumes fully ascended, Snail ATK +2<br>Per 4 Costumes fully ascended, Snail DEF +2<br>Costumes Perfected: 160/160
+|ss2=Snail DEF +30<br>Per 4 Costumes fully ascended, Snail ATK +3<br>Per 4 Costumes fully ascended, Snail DEF +3<br>Costumes Perfected: 160/160
+|ss3=Snail DEF +40<br>Per 4 Costumes fully ascended, Snail ATK +4<br>Per 4 Costumes fully ascended, Snail DEF +4<br>Costumes Perfected: 160/160
+|ss4=Snail DEF +60<br>Per 4 Costumes fully ascended, Snail ATK +6<br>Per 4 Costumes fully ascended, Snail DEF +6<br>Costumes Perfected: 160/160
+|ss5=Snail DEF +80<br>Per 4 Costumes fully ascended, Snail ATK +8<br>Per 4 Costumes fully ascended, Snail DEF +8<br>Costumes Perfected: 160/160
+|ss6=Snail DEF +110<br>Per 4 Costumes fully ascended, Snail ATK +11<br>Per 4 Costumes fully ascended, Snail DEF +11<br>Costumes Perfected: 160/160
+|ss7=Snail DEF +110<br>Per 4 Costumes fully ascended, Snail ATK +11<br>Per 4 Costumes fully ascended, Snail DEF +11<br>Costumes Perfected: 160/160<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: B-tad Output +30%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Green Reagent Drops +15%
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's ART +15
+|mirage={{Mirage|name=The Ruined Beauty|reward={{RewardIconWithLink|Heaven Wings, +1|orange}}
+|3name=Steed Statue|3rec=10.97M|3atk=85675|3defense=57157|3hp=2143726|3weak=14734
+|4name=Temple Maid|4rec=17.84M|4atk=110899|4defense=73985|4hp=3562800|4weak=18085
+|5name=Sculpture Knight|5rec=35.19M|5atk=140018|5defense=93412|5hp=5598432|5weak=19465
+|Arec=51.17M|Aatk=173716|Adefense=115893|Ahp=8165080|Aweak=21967
+}}}}

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Sorrows of Werther
+|class_id=22704
+|rank=SS
+|affct=CIV
+|birthday=02-09
+|source=Lottery Machine No.3 (0.47%)
+|description=On Feb 9, 1774 AD, The Sorrows of Werther was published at the Leipzig Book Fair.<br>It is a medium-length novel written by the German author Goethe. The protagonist, Werther, falls in love with a girl named Charlotte, but she has already engaged to someone else, which makes Werther extremely sad. Later, Werther leaves Charlotte and returns to the city, becoming a clerk, but he is often ridiculed and despised by the nobility, feeling that he is incompatible with society. He finally chooses to end his own life. It was a huge success as soon as it was published, causing a reading frenzy and having a huge impact on all levels of European society.
+|fame=76
+|art=61
+|fth=54
+|civ=101
+|tech=55
+|ss1=All Tribal Protolith output +4%<br>Mutant Minion ATK +2%<br>Per Bionic Part extracted, Snail HP +20<br>Bionic Part Extracted: 50/50
+|ss2=All Tribal Protolith output +6%<br>Mutant Minion ATK +3%<br>Per Bionic Part extracted, Snail HP +30<br>Bionic Part Extracted: 50/50
+|ss3=All Tribal Protolith output +8%<br>Mutant Minion ATK +4%<br>Per Bionic Part extracted, Snail HP +40<br>Bionic Part Extracted: 50/50
+|ss4=All Tribal Protolith output +12%<br>Mutant Minion ATK +6%<br>Per Bionic Part extracted, Snail HP +60<br>Bionic Part Extracted: 50/50
+|ss5=All Tribal Protolith output +16%<br>Mutant Minion ATK +8%<br>Per Bionic Part extracted, Snail HP +80<br>Bionic Part Extracted: 50/50
+|ss6=All Tribal Protolith output +22%<br>Mutant Minion ATK +11%<br>Per Bionic Part extracted, Snail HP +110<br>Bionic Part Extracted: 50/50
+|ss7=All Tribal Protolith output +22%<br>Mutant Minion ATK +11%<br>Per Bionic Part extracted, Snail HP +110<br>Bionic Part Extracted: 50/50<br>All Tribal Protolith output +20% (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Lifesteal Effect +30%
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Lifesteal Rate +30%
+|skill3=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: This Relic's CIV +15
+|mirage={{Mirage|name=Unrequited Love|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Prince Albert|3rec=96.31M|3atk=283263|3defense=179398|3hp=14383444|3weak=34254
+|4name=Charlotte|4rec=117.12M|4atk=331388|4defense=208678|4hp=17650222|4weak=36142
+|5name=Werther|5rec=142.69M|5atk=391651|5defense=244656|5hp=23668940|5weak=38425
+|Arec=181.16M|Aatk=483952|Adefense=298770|Ahp=33514126|Aweak=41543
+}}}}

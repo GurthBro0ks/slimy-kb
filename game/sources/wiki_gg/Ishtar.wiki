@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Ishtar
+|rank=orange
+|cabin=2
+|id=146
+|gene1={race} RUSH +50
+|gene2={race} ART +50
+|gene3=Refine +1 White Gaia Material +3%
+|gene4=Per 60 Demon Minions in battle,
+Troop Wind DMG +6
+|gene5=Demon Minion Skin RUSH +30%
+|gene6=Per 60 Demon Minions in battle,
+Troop Wind DMG +10
+|gene7=Demon Minion Skin RUSH +50%
+|}}

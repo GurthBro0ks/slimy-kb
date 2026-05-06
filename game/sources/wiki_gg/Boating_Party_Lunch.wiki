@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Boating Party Lunch
+|class_id=22542
+|rank=AAA
+|affct=ART
+|birthday=08-01
+|source=
+|description=On Aug 1, 1881 AD, Renoir recorded the inspiration he received during the gathering and created this oil painting.<br>It is the last painting of the French painter Renoir during the Impressionist period. Through his skilled use of light, shadow, and color, he vividly depicted the scene of a gathering on the canvas, and combined with his bright and sweet painting style, this work gives people a dreamy and beautiful feeling. The unique technique of combining light, color, and emotion in the painting also laid the foundation for the development of art in the future.
+|fame=34
+|art=75
+|fth=41
+|civ=53
+|tech=40
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop ATK +12<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +24<br>Souls offered: 300/300 types
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop ATK +16<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +32<br>Souls offered: 300/300 types
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop ATK +20<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +40<br>Souls offered: 300/300 types
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop ATK +28<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +56<br>Souls offered: 300/300 types
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +72<br>Souls offered: 300/300 types
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +72<br>Souls offered: 300/300 types<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail HP +600
+}}

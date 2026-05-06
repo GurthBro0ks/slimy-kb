@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Katyusha
+|type=Bionic
+|rank=purple
+|id=10673
+|idx=30
+|description="Armed with missile systems, it delivers the ultimate obliteration. Justice only exists within its range."
+—Skynet Surveillance Log
+|skill=On combat start, launch a Katyusha Rocket, dealing DMG equal to 63% of ATK!
+|hp=1552
+|def=104
+|atk=135
+|rush=237
+|gene1=In Fissure combat, Earth DMG +120
+|gene2=Per 5 Apostles defeated, {race} RUSH +40
+Apostles defeated: 15/15
+|gene3=Fire DMG +60
+|gene4=In Gene Sims, RUSH DMG +10%
+|gene7=In Gene Sims, RUSH DMG +10% (Awakened)
+|}}

@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Ishikawa Rob
+|rank=blue
+|cabin=2
+|id=18
+|gene1={race} DEF +20
+|gene2={race} ART +20
+|gene3=Resolver: Mutagen Serum +100
+|gene4=Per 10 Angel Minions in battle:
+> Troop ATK +2
+|gene5=Resolver: Mutagen Serum +200
+|}}

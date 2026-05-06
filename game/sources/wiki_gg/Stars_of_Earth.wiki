@@ -1,0 +1,36 @@
+{{MirageTest
+|relic=Africa Star
+|affct=ART
+|name=Stars of Earth
+|rank=SSS
+|reward=W-tads +1k
+|1name=Oz Star
+|1rec=2.47M
+|1atk=43,953
+|1def=29,119
+|1hp=665,918
+|1weak=12,235
+|2name=Yurope Star
+|2rec=4.49M
+|2atk=63,823
+|2def=53,283
+|2hp=1,237,879
+|2weak=15,251
+|3name=Murikan Star
+|3rec=7.81M
+|3atk=88,448
+|3def=58,597
+|3hp=2,261,991
+|3weak=18,241
+|4name=
+|4rec=
+|4atk=
+|4def=
+|4hp=
+|4weak=
+|5rec=
+|5atk=
+|5def=
+|5hp=
+|5weak=
+}}

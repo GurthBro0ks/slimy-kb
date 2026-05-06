@@ -1,0 +1,39 @@
+{{Missing Info|specifics=description, 1,2,3,4,5 special stats; mirage name and final reward; mirage 1,2,3,4,5}}
+{{CargoRelic
+|name=The Last Judgement
+|rank=SSS
+|affct=FTH
+|birthday=
+|source=Daily Pack Relic #18
+|description=
+|fame=62
+|art=73
+|fth=108
+|civ=49
+|tech=70
+|ss1=Snail ATK +?<br>When offering, 2x Chaos Chest Drops +?%<br>Per FTH Master Scroll used, Snail RUSH +?<br>FTH Master Scrolls Used: 10/10 
+|ss2=Snail ATK +?<br>When offering, 2x Chaos Chest Drops +?%<br>Per FTH Master Scroll used, Snail RUSH +?<br>FTH Master Scrolls Used: 10/10 
+|ss3=Snail ATK +?<br>When offering, 2x Chaos Chest Drops +?%<br>Per FTH Master Scroll used, Snail RUSH +?<br>FTH Master Scrolls Used: 10/10 
+|ss4=Snail ATK +?<br>When offering, 2x Chaos Chest Drops +?%<br>Per FTH Master Scroll used, Snail RUSH +?<br>FTH Master Scrolls Used: 10/10 
+|ss5=Snail ATK +?<br>When offering, 2x Chaos Chest Drops +?%<br>Per FTH Master Scroll used, Snail RUSH +?<br>FTH Master Scrolls Used: 10/10 
+|ss6=Snail ATK +120<br>When offering, 2x Chaos Chest Drops +12%<br>Per FTH Master Scroll used, Snail RUSH +48<br>FTH Master Scrolls Used: 10/10
+|ss7=Snail ATK +120<br>When offering, 2x Chaos Chest Drops +12%<br>Per FTH Master Scroll used, Snail RUSH +48<br>FTH Master Scrolls Used: 10/10<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +300
+|mirage={{Mirage|name=|reward=
+|3name=|3rec=|3atk=|3def=|3hp=|3weak=
+|4name=|4rec=|4atk=|4def=|4hp=|4weak=
+|5name=|5rec=|5atk=|5def=|5hp=|5weak=
+|6name=|6rec=|6atk=|6def=|6hp=|6weak=
+|Arec=|Aatk=|Adef=|Ahp=|Aweak=
+}}
+}}
+
+[[Category:RUSH Boost]]
+[[Category:ATK Boost]]
+[[Category:Rift Museum Boost]]
+[[Category:Rift Exploration Boost]]
+[[Category:Divine Chaos Chest Drop Boost]]
+[[Category:Leadership Boost]]
+[[Category:Daily Pack Relics]]

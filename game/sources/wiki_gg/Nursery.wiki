@@ -1,0 +1,1164 @@
+{{Missing Info|specifics=<br>Healing Tank: Cloning Tank Level Requirements for Levels 11-30<br>Chore Contract: Costs and requirements}}
+
+==The Nursery Room==
+The Nursery Room is unlocked once [[Kim Chi-yum]] reaches full partner. She will move in to [[Home Base]] permanently with her Minions, Koryeon Snail. At first there are no available features in the Nursery Room. First the {{RewardIconWithLink|Military Bomb|black|Koryeo_Cards#Tier_3_(Blue)}} must be purchased from [[Koryeo]] for 7 blue {{Retext|Kimchi Jars|blue}}. 
+
+Once the bomb is used in the Nursery Room, a hole appears in the floor and more features become available.
+
+==Minions==
+Each time a [[Partners|Partner]] moves into [[Home Base]], they bring with them a unique minion. Each minion has a type equivelant to one of the five main [[Evolution|Evolutionary Forms]], a set of [[Stats|HARD Stats]], Power Level, and sepcial ability in Troop Combat. 
+
+Minions are primarily used for Chores, which take a certain amount of time and yield various rewards. Once the [[Rocket]] is finished building, Minions can also be used in Troop Deployment and mining in [[Domain]]s. Once the Portal is finished building in your [[Club]], Minions can also be deployed to fight and dig in [[Species War]]. 
+
+Each Minion type has a set of eight [[Relics]] that, when obtained and upgraded, provide buffs to the Minion during combat. Minions can be upgraded and cloned using the Cloning Tank, and healed after battle using the Healing Tank.
+
+Below are the type and stat for each minion, as well as their associated [[Partners|Partner]]. This is at Tier I and each ability can be multiplied by the Tier of the Minion for accurate stats for that tier.
+{| class="mw-collapsible mw-collapsed wikitable sortable" style="text-align:center;"
+!class="unsortable" |Minion
+!Type
+!class="unsortable" |Skill
+!class="unsortable" |Partner
+|-
+|[[File:Koryeon Snail.png|75px]]<br>Koryeon Snail
+|Angel
+|'''Cooking Squad'''<br>Per 10 Koryeon Snail in battle:<br>Troop HP +100
+|[[Kim Chi-yum]]
+|-
+|[[File:Ironball Thrower.png|75px]]<br>Ironball Thrower
+|Demon
+|'''Shackled'''<br>Per 10 Ironball Throwers in battle:<br>Troop ATK +10
+|[[Big Guy Park]]
+|-
+|[[File:Chika.png|75px]]<br>Chika
+|Mutant
+|'''Radiation'''<br>Per 10 Chikas in battle:<br>Troop Earth DMG +1
+|[[Chichikaka]]
+|-
+|[[File:Tomb Figure.png|75px]]<br>Tomb Figure
+|Zombie
+|'''Stone Skin'''<br>Per 10 Tomb Figures in battle:<br>Troop Earth RES +1
+|[[Prince Nerd's Soul]]
+|-
+|[[File:The Mechanic.png|75px]]<br>The Mechanic
+|Mecha
+|'''Battle Mechanic'''<br>Per 10 Mechanics in battle:<br>Troop HP Regen +10
+|[[Jiro Toyato]]
+|-
+|[[File:Stan.png|75px]]<br>Stan
+|Angel
+|'''Idol Worship'''<br>Per 10 Stans in battle:<br>Troop HARD Stats +3
+|[[Leeku]]
+|-
+|[[File:Catcolyte.png|75px]]<br>Catcolyte
+|Angel
+|'''Flying Sword'''<br>Per 10 Catcolytes in battle:<br>Troop RUSH +10
+|[[Taoraemon]]
+|-
+|[[File:Wraith.png|75px]]<br>Wraith
+|Zombie
+|'''Spirited Body'''<br>Per 10 Wraiths in battle:<br>Troop DEF +10
+|[[Ghost Zadako]]
+|-
+|[[File:Nightmare Steed.png|75px]]<br>Nightmare Steed
+|Demon
+|'''Hellfire'''<br>Per 10 Nightmare Steeds in battle:<br>Troop Fire RES +1
+|[[Red Doe]]
+|-
+|[[File:Minorino.png|75px]]<br>Minorino
+|Mutant
+|'''Rebirth'''<br>Self Recovery +2%
+|[[Lee Gi-na]]
+|-
+|[[File:Drawn Dragon.png|75px]]<br>Drawn Dragon
+|Dragon
+|'''Rain Charm'''<br>Per 10 Drawn Dragons in battle:<br>Troop Water RES +1
+|[[Taoist Yu Ji]]
+|-
+|[[File:Frost Drake.png|75px]]<br>Frost Drake
+|Dragon
+|'''Frozen Aura'''<br>Per 10 Frost Drakes in battle:<br>Troop Water DMG +1
+|[[Must-Not-Name]]
+|-
+|[[File:Berserker.png|75px]]<br>Berserker
+|Demon
+|'''Argh!'''<br>Per 10 Berserkers in battle<br>Troop Fire DMG +1
+|[[Neandergal]]
+|-
+|[[File:Wood Golem.png|75px]]<br>Wood Golem
+|Mecha
+|'''Puppet'''<br>Take injury for other Minions by +11%<br>Recovery SPD -2%
+|[[Advisor Zhuge]]
+|-
+|[[File:Undead Turtle.png|75px]]<br>Undead Turtle
+|Zombie
+|'''Last Rites'''<br>Per 10 Undead Turtles in battle:<br>Troop Wind DMG +1
+|[[Sewer Turtle]]
+|-
+|[[File:Keyboard Warrior.png|75px]]<br>Keyboard Warrior
+|Mecha
+|'''Stack Overflow'''<br>Per 10 Keyboard Warriors in battle:<br>Troop RUSH +10
+|[[Peter Jr.]]
+|-
+|[[File:Mummy R.png|75px]]<br>Mummy [R]
+|Zombie
+|'''Preservatives'''<br>Per 10 Mummy [R]s in battle:<br>Troop DEF +10
+|[[Nito SSR]]
+|-
+|[[File:Imp.png|76px]]<br>Imp
+|Demon
+|'''Demonic Strength'''<br>Per 10 Imps in battle:<br>Troop ATK +10
+|[[Sleuth Doom]]
+|-
+|[[File:Demonic Tentacle.png|75px]]<br>Demonic Tentacle
+|Mutant
+|'''Whiplash'''<br>Per 10 Demonic Tentacles in battle:<br>Troop ATK +10
+|[[Demon Chan-hee]]
+|-
+|[[File:Slug Dragonling.png|75px]]<br>Slug Dragonling
+|Dragon
+|'''Wishmaking'''<br>Per 10 Slug Dragonlings in battle:<br>Troop Wind RES +1
+|[[Slug Dragon Tutor]]
+|-
+|[[File:Nanosaur.png|75px]]<br>Nanosaur
+|Dragon
+|'''Giant Jaw'''<br>Per 10 Nanosaurs in battle:<br>Troop ATK +10
+|[[Mosasaur]]
+|-
+|[[File:Snail Mech Minion.png|75px]]<br>Snail Mech
+|Mecha
+|'''Self-Destruct'''<br>Per 10 Snail Mechs in battle:<br>Troop Fire DMG +1
+|[[Snail Mech]]
+|-
+|[[File:Little Monk.png|75px]]<br>Little Monk
+|Mutant
+|'''Kung Fu Kid'''<br>Per 10 Little Monks in battle:<br>Troop HP +100
+|[[Female Daemons]]
+|}
+
+==Minion Skins==
+Minion Skins can be obtained from a variety of sources. Once enough fragments of a Minion skin is obtained, it can be eqipped onto the appropriate minion and will provide buffs to your minions. Available Minion skins can be eqipped from inside the nursery while viewing all minions.
+
+You can use {{RewardIconWithLink|Iridescent Scroll}} and {{RewardIconWithLink|Iridescent Ticket}} to win new skins at the [[Skin Box]].
+
+'''Important Note:''' Because of formatting, Mummy [SR] and Mummy [SSR] images and page names have been created without the brackets. Therefore Mummy [SR] is located on [[Mummy SR]], etc. 
+
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+!class="unsortable" colspan="3"|Skin
+!class="unsortable" rowspan="2"|Origins
+!class="unsortable" rowspan="2"|Effects
+|-
+!class="unsortable" |Image !!Name !!Minion
+|-
+|{{Reimg|All-round Player}}
+|{{Relink|All-round Player|blue}}<br>Skin No.1104
+|Ironball Thrower
+|{{RewardIconWithLink|Super Species Chest}} (7%)
+|Increases Ironball Thrower's HP
+|-
+|{{Reimg|Antigravity Golem}}
+|{{Relink|Antigravity Golem|blue}}<br>Skin No.4212
+|Wood Golem
+|[[Rebel_Device#Anti-gravity_Device|Anti-gravity Device]]
+|Increases Troop HP
+|-
+|{{Reimg|Archdruid}}
+|{{Relink|Archdruid|blue}}<br>Skin No.304
+|Undead Turtle
+|{{RewardIconWithLink|Super Species Chest}} (7%)
+|Increases Undead Turtle's DEF
+|-
+|{{Reimg|Biochem Monster}}
+|{{Relink|Biochem Monster|blue}}<br>Skin No.3104
+|Chika
+|{{RewardIconWithLink|Super Species Chest}} (5%)
+|Increases Troop HP
+|-
+|{{Reimg|Bullfighter}}
+|{{Relink|Bullfighter|blue}}<br>Skin No.3204
+|Minorino
+|{{RewardIconWithLink|Super Species Chest}} (5%)
+|Increases Minorino's ATK
+|-
+|{{Reimg|Club Agent}}
+|{{Relink|Club Agent|blue}}<br>Skin No.2118
+|Koryeon Snail
+|[[Club]] Personal Achievements
+|Increases Troop ATK
+|-
+|{{Reimg|Dark Matter Ghost}}
+|{{Relink|Dark Matter Ghost|blue}}<br>Skin No.210
+|Wraith
+|[[Rebel_Device#Dark_Matter_Reactor|Dark Matter Reactor]]
+|Increases Troop ATK
+|-
+|{{Reimg|Dragling}}
+|{{Relink|Dragling|orange}}<br>Skin No.5118
+|Drawn Dragon
+|[[Altar#Discount_Dragon|Dragon Wish]]
+|Increases Troop Water DMG
+|-
+|{{Reimg|Earthworm Infantry}}
+|{{Relink|Earthworm Infantry|blue}}<br>Skin No.5108
+|Drawn Dragon
+|{{RewardIconWithLink|Earthworm Chest}} (5%)
+|Increases Troop HP
+|-
+|{{Reimg|Elven Warhorse}}
+|{{Relink|Elven Warhorse|orange}}<br>Skin No.1206
+|Nightmare Steed
+|{{RewardIconWithLink|Super Species Chest}} (1%)
+|Increases Troop Fire DMG
+|-
+|{{Reimg|Eva}}
+|{{Relink|Eva|blue}}<br>Skin No.2114
+|Koryeon Snail
+|[[Earth's_Will_Device#Garden_of_Eden|Garden of Eden]]
+|Increases Troop HP
+|-
+|{{Reimg|Headless Rider}}
+|{{Relink|Headless Rider|blue}}<br>Skin No.1215
+|Nightmare Steed
+|[[Gene_Simulation#Gene_Simulation_Trials|Headless Rider Gene Simulation]]
+|Increases Troop ATK
+|-
+|{{Reimg|Hologram Tentacle}}
+|{{Relink|Hologram Tentacle|blue}}<br>Skin No.3308
+|Demonic Tentacle
+|[[Earth's_Will_Device#Domain_Holograph|Domain Holograph]]
+|Increases Troop ATK
+|-
+|{{Reimg|Horror Maid}}
+|{{Relink|Horror Maid|orange}}<br>Skin No.206
+|Wraith
+|{{RewardIconWithLink|Super Species Chest}} (1%)
+|Increases Troop Wind DMG
+|-
+|{{Reimg|Journalist}}
+|{{Relink|Journalist|blue}}<br>Skin No.4104
+|Mechanic
+|{{RewardIconWithLink|Super Species Chest}} (5%)
+|Increases Troop RUSH
+|-
+|{{Reimg|Kraken}}
+|{{Relink|Kraken|blue}}<br>Skin No.3312
+|Demonic Tentacle
+|[[Time_Beacon#Seafaring|Seafaring Event in Time Rift]]
+|Increases Troop RUSH
+|-
+|{{Reimg|Matrix Beast}}
+|{{Relink|Matrix Beast|blue}}<br>Skin No.1210
+|Nightmare Steed
+|[[Demon_God_Device#Demon_God_Matrix|Demon God Matrix]]
+|Increases Troop DEF
+|-
+|{{Reimg|Mecha Dragon}}
+|{{Relink|Mecha Dragon|blue}}<br>Skin No.5104<br>[Also known as Iron Dragon]
+|Drawn Dragon
+|{{RewardIconWithLink|Super Species Chest}} (7%)
+|Increases Droop DEF
+|-
+|{{Reimg|Mummy SR}}
+|{{Relink|Mummy SR|blue}}<br>Skin No.401
+|Mummy [R]
+|[[Nito_SSR#Rent|Normal Rent from Nito]]
+|Increases Troop HP
+|-
+|{{Reimg|Mummy SSR}}
+|{{Relink|Mummy SSR|orange}}<br>Skin No.410
+|Mummy [R]
+|[[Nito_SSR#Rent|Special Rent from Nito]]
+|Increases Troop Earth DMG
+|-
+|{{Reimg|Pepper Fish}}
+|{{Relink|Pepper Fish|blue}}<br>Skin No.3120
+|Chika
+|[[Time_Beacon#Ninjutsu|Poison Ninja Master's Chest (Ninjutsu Follow Up Event)]]<br>in [[Time Rift]]
+|Increases Troop HP
+|-
+|{{Reimg|Pharaoh Guard}}
+|{{Relink|Pharaoh Guard|blue}}<br>Skin No.104
+|Tomb Figure
+|{{RewardIconWithLink|Super Species Chest}} (7%)
+|Increaes Troop RUSH
+|-
+|{{Reimg|Professor}}
+|{{Relink|Professor|blue}}<br>Skin No.2304
+|Catcolyte
+|{{RewardIconWithLink|Super Species Chest}} (7%)
+|Increases Catcolyte's RUSH
+|-
+|{{Reimg|Rabbit Gang}}
+|{{Relink|Rabbit Gang|orange}}<br>Skin No.1306
+|Berserker
+|{{RewardIconWithLink|Super Species Chest}} (1%)
+|Increases Troop Earth DMG
+|-
+|{{Reimg|R'lyeh Visitor}}
+|{{Relink|R'lyeh Visitor|blue}}<br>Skin No.3304
+|Demonic Tentacle
+|{{RewardIconWithLink|Super Species Chest}} (5%)
+|Increases Troop HP
+|-
+|{{Reimg|Skeleton Dragon}}
+|{{Relink|Skeleton Dragon|orange}}<br>Skin No.5306<br>[Also known as Bone Dragon]
+|Frost Drake
+|{{RewardIconWithLink|Super Species Chest}} (1%)
+|Increases Troop Water DMG
+|-
+|{{Reimg|Time Cop}}
+|{{Relink|Time Cop|blue}}<br>Skin No.4304<br>[Also known as Future Cop]
+|Snail Mech
+|{{RewardIconWithLink|Super Species Chest}} (7%)
+|Increases Troop ATK
+|-
+|{{Reimg|Troublemaker}}
+|{{Relink|Troublemaker|blue}}<br>Skin No.2204
+|Stan
+|{{RewardIconWithLink|Super Species Chest}} (7%)
+|Increases Troop RUSH
+|-
+|{{Reimg|Warp Dragon}}
+|{{Relink|Warp Dragon|blue}}<br>Skin N0.5112
+|Drawn Dragon
+|[[Demon_God_Device#Curvature_Engine|Curvature Engine]]
+|Increases Troop RUSH
+|-
+|{{Reimg|Wasteland Dweller}}
+|{{Relink|Wasteland Dweller|blue}}<br>Skin No.4204
+|Wood Golem
+|{{RewardIconWithLink|Super Species Chest}} (7%)
+|Increases Troop DEF
+|-
+|{{Reimg|Winged Horse}}
+|{{Relink|Winged Horse|blue}}<br>Skin No.1214
+|Nightmare Steed
+|400 {{RewardIconWithLink|Badge}}s from [[Events#Badge_Shop|Badge Shop]]
+|Increases Troop RUSH
+|-
+|{{Reimg|Spaceship Pilot}}
+|{{Relink|Spaceship Pilot|blue}}<br>Minion Skin No.4118
+|Spaceship Pilot
+|240 [[Incense#Shooting the Sky|Sky Shootdowns]]
+|Increases Troop DEF
+|}
+
+==Cloning Tank==
+The Cloning Tank can be used to clone and upgrade minions, depending on the level of the tank. At first, only 1 of the 6 tanks is available. After upgrading, new tanks can be used to create a "queue" of minions. '''Only one minion type''' can be cloned '''or''' upgraded at one time, however the queue will then upgrade/clone the next minion type as the first finishes. Up to 5 minions can be upgrading/cloning at one time. 
+
+===Unlocking Tanks===
+{|class="mw-collapsible mw-collapsed wikitable"
+!Tank
+!Requirements
+!Reward
+|-
+|1st||5k {{RewardIconWithText|B-Tad}} to unlock Nursery||Cloning Minions
+|-
+|2nd||Cloning Tank Level 2||{{RewardIconWithText|Zombie Cell, +1k}}<br>{{RewardIconWithText|B-Tad, +4k}}
+|-
+|3rd||Cloning Tank Level 3||{{RewardIconWithLink|Dolly Specimen|purple}}<br>{{RewardIconWithText|Demon Cell, +1k}}<br>{{RewardIconWithText|Clone Speedup, +30m}}
+|-
+|4th||Cloning Tank Level 4||{{RewardIconWithText|Angel Cell, +1k}}<br>{{RewardIconWithText|B-Tad, +6k}}
+|-
+|5th||Cloning Tank Level 5||{{RewardIconWithLink|Synthetic Insulin|green}}<br>{{RewardIconWithText|Mecha Cell, +1k}}<br>{{RewardIconWithText|B-Tad, +8k}}
+|-
+|6th||Cloning Tank Level 6||{{RewardIconWithText|Mutant Cell, +1k}}<br>{{RewardIconWithText|Clone Speedup, +3h}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+|}
+
+===Upgrades===
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Cost in<br>B-Tads
+!Relic Stars
+!DNA Strength
+!Minion MAX
+|-
+||1||5k to<br>unlock Nursery||0||0||10
+|-
+|2||1k||100||2k||11
+|-
+|3||1.5k||110||3k||12
+|-
+|4||2k||120||4k||13
+|-
+|5||2.5k||130||5k||14
+|-
+|6||6.5k||140||6k||15
+|-
+|7||8k||150||7k||16
+|-
+|8||9.5k||160||8k||17
+|-
+|9||11k||170||9k||18
+|-
+|10||12.5k||180||10k||19
+|-
+|11||15k||190||11k||20
+|-
+|12||17.5k||200||12k||21
+|-
+|13||20k||210||13k||22
+|-
+|14||22.5k||220||14k||23
+|-
+|15||25k||230||15k||24
+|-
+|16||30k||240||16k||25
+|-
+|17||35k||250||17k||26
+|-
+|18||40k||260||18k||27
+|-
+|19||45k||270||19k||28
+|-
+|20||50k||280||20k||29
+|-
+|21||55k||290||21k||30
+|-
+|22||60k||300||22k||31
+|-
+|23||65k||310||23k||32
+|-
+|24||70k||320||24k||33
+|-
+|25||75k||330||25k||34
+|-
+|26||80k||340||26k||35
+|-
+|27||85k||350||27k||36
+|-
+|28||90k||360||28k||37
+|-
+|29||95k||370||29k||38
+|-
+|30||100k||380||30k||39
+|-
+|31||105k||390||31k||40
+|-
+|32||110k||400||32k||41
+|-
+|33||115k||410||33k||42
+|-
+|34||120k||420||34k||43
+|-
+|35||125k||430||35k||44
+|-
+|36||130k||440||36k||45
+|-
+|37||135k||450||37k||46
+|-
+|38||140k||460||38k||47
+|-
+|39||145k||470||39k||48
+|-
+|40||150k||480||40k||49
+|-
+|41||155k||500||42k||50
+|-
+|42||160k||520||44k||51
+|-
+|43||165k||540||46k||52
+|-
+|44||170k||560||48k||53
+|-
+|45||175k||580||50k||54
+|-
+|46||180k||600||52k||55
+|-
+|47||185k||630||54k||56
+|-
+|48||190k||660||56k||57
+|-
+|49||195k||690||58k||58
+|-
+|50||200k||720||60k||59
+|-
+|51||205k||760||62k||60
+|-
+|52||210k||800||64k||61
+|-
+|53||215k||850||66k||62
+|-
+|54||220k||900||68k||63
+|-
+|55||225k||950||70k||64
+|-
+|56||230k||1,000||72k||65
+|-
+|57||235k||1,050||74k||66
+|-
+|58||240k||1,100||76k||67
+|-
+|59||245k||1,150||78k||68
+|-
+|60||250k||1,200||80k||69
+|-
+|61||255k||1,250||82k||70
+|-
+|62||260k||1,300||84k||71
+|-
+|63||265k||1,350||86k||72
+|-
+|64||270k||1,400||88k||73
+|-
+|65||275k||1,450||90k||74
+|-
+|66||280k||1,500||92k||75
+|-
+|67||285k||1,550||94k||76
+|-
+|68||290k||1,600||96k||77
+|-
+|69||295k||1,650||98k||78
+|-
+|70||300k||1,700||100k||79
+|-
+|71||310k||1,720||102k||80
+|-
+|72||320k||1,740||104k||81
+|-
+|73||330k||1,760||106k||82
+|-
+|74||340k||1,780||108k||83
+|-
+|75||350k||1,800||110k||84
+|-
+|76||360k||1,820||112k||85
+|-
+|77||370k||1,840||114k||86
+|-
+|78||380k||1,860||116k||87
+|-
+|79||390k||1,880||118k||88
+|-
+|80||400k||1,900||120k||89
+|-
+|81||410k||1,910||122k||90
+|-
+|82||420k||1,920||124k||91
+|-
+|83||430k||1,930||126k||92
+|-
+|84||440k||1,940||128k||93
+|-
+|85||450k||1,950||130k||94
+|-
+|86||460k||1,960||133k||95
+|-
+|87||470k||1,970||136k||96
+|-
+|88||480k||1,980||139k||97
+|-
+|89||490k||1,990||142k||98
+|-
+|90||500k||1,995||145k||99
+|-
+|91||510k||1,997||148k||100
+|-
+|92||520k||1,998||151k||101
+|-
+|93||530k||1,999||154k||102
+|-
+|94||540k||2,000||157k||103
+|-
+|95||550k||2,000||160k||104
+|-
+|96||560k||2,000||163k||105
+|-
+|97||570k||2,000||166k||106
+|-
+|98||580k||2,000||169k||107
+|-
+|99||590k||2,000||172k||108
+|}
+
+==Healing Tank==
+The Healing Tank can be used to heal minions that have fallen in troop battles. At first, only 1 of the 6 tanks is available. After upgrading, new tanks can be used to create a "queue" of minions. '''Only one minion type''' can be healed at one time, however the queue will then heal the next minion type once the first finishes. Up to 10 minions of one type can be healing at one time. 
+
+The healing tank requires healing potion to heal minions, the quantity of which that can be produced depends on the level of your Healing Tank. Healing Potion is produced from food and takes no time to create. 
+
+At first you will only be able to level up the healing tank to Level 9 as the [[NPWT Technology]] from the [[Kemet Domain]] is required. Once NPWT Technology is acquired, the healing tank maxes out at Level 30.
+
+===Unlocking Tanks===
+{|class="mw-collapsible mw-collapsed wikitable"
+!Tank
+!Requirements
+!Reward
+|-
+|1st||5k {{RewardIconWithText|B-Tad}} to unlock Nursery||Healing Minions
+|-
+|2nd||Healing Tank Level 2||{{RewardIconWithText|B-Tad, +4k}}<br>{{RewardIconWithText|Healing Potion, +5k}}
+|-
+|3rd||Healing Tank Level 3||{{RewardIconWithText|Clone Speedup, +1h}}<br>{{RewardIconWithText|Healing Potion, +10k}}
+|-
+|4th||Healing Tank Level 4||{{RewardIconWithLink|Aspirin|green}}<br>{{RewardIconWithText|B-Tad, +10k}}<br>{{RewardIconWithText|Healing Potion, +15k}}
+|-
+|5th||Healing Tank Level 5||{{RewardIconWithText|Clone Speedup, +150m}}<br>{{RewardIconWithText|Healing Potion, +20k}}
+|-
+|6th||Healing Tank Level 6||{{RewardIconWithLink|Infrared Eye|purple}}<br>{{RewardIconWithText|B-Tad, +14k}}<br>{{RewardIconWithText|Healing Potion, +25k}}
+|}
+
+===Upgrading===
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Cost in<br>B-Tads
+!Cloning Tank<br>Level Req.
+!Healing Potion<br>Cap
+!Minion Recovery SPD
+
+|-
+|1||5k to<br>unlock Nursery ||1||10k||0%
+|-
+|2||4k||2||20k||0%
+|-
+|3||9k||4||50k||0%
+|-
+|4||16k||6||100k||0%
+|-
+|5||25k||8||150k||0%
+|-
+|6||36k||10||250k||0%
+|-
+|7||49k||12||500k||0%
+|-
+|8||64k||14||750k||0%
+|-
+|9||81k||16||1.00M||0%
+|-
+|10||100k<br>[[NPWT Technology]]||18||1.20M||5%
+|-
+|11||102k||?||1.40M||6%
+|-
+|12||105k||?||1.60M||7%
+|-
+|13||109k||?||1.80M||8%
+|-
+|14||114k||?||2.00M||9%
+|-
+|15||120k||?||2.25M||10%
+|-
+|16||126k||?||2.50M||11%
+|-
+|17||133k||?||2.75M||12%
+|-
+|18||141k||?||3.00M||13%
+|-
+|19||150k||?||3.25M||14%
+|-
+|20||160k||?||3.50M||15%
+|-
+|21||170k||?||3.75M||16%
+|-
+|22||181k||?||4.00M||17%
+|-
+|23||193k||?||4.25M||18%
+|-
+|24||206k||?||4.50M||19%
+|-
+|25||220k||?||4.75M||20%
+|-
+|26||234k||?||5.00M||21%
+|-
+|27||249k||?||5.25M||22%
+|-
+|28||265k||?||5.50M||23%
+|-
+|29||282k||?||5.75M||24%
+|-
+|30||300k||? [Less than Level 61]||6.00M||25%
+|}
+
+==Chore Dispatch==
+All chores reward {{RewardIconWithLink|Chore Stamp}} based on Chore level.
+
+===Chores===
+
+<tabber>
+|-|White=
+White-rank chores take 30m to complete. 
+
+They also need 1 minion at Chore Contract Level 1.
+
+{| class="wikitable"
+!Chore
+!Minion Type
+!Rewards
+|-
+|Clean Computer Dust||Any||{{RewardIconWithText|Gene Speedup, +4m}}
+|-
+|Clean Fungus Farm||Any||{{RewardIconWithText|Fungus, +8}} (Food +50)
+|-
+|Clear Rubble||Any||{{RewardIconWithText|Stone, +80}}
+|-
+|Clear Pond Silt||Any||{{RewardIconWithText|W-Tad, +8}}
+|-
+|Feed the Tadpoles||Any||{{RewardIconWithText|B-Tad, +400}}
+|-
+|Maintain Cloning Tank||Any||{{RewardIconWithText|Clone Speedup, +4m}}
+|-
+|Maintain Time Machine||Any||{{RewardIconWithText|Chore Speedup, +20m}}
+|-
+|Make Ramen||Any||{{RewardIconWithText|Snail Ramen, +20}} (Food +60)
+|-
+|Mow Lawn||Any||{{RewardIconWithText|Wood, +80}}
+|-
+|Repair the Altar||Any||{{RewardIconWithText|Offering Speedup, +4m}}
+|}
+
+|-|Green=
+Green-rank chores take 1h to complete. 
+
+They also need 2 minions and reward {{RewardIconWithLink|Novice Scroll, +1|blue}} at Chore Contract Level 1.
+
+{| class="wikitable"
+!style="background-color:var(--green-bg)" |Chore
+!style="background-color:var(--green-bg)" |Minion Type
+!style="background-color:var(--green-bg)" |Rewards
+|-
+|Check A-Gene Device||Any||{{RewardIconWithText|Angel Cell, +160}}
+|-
+|Check D-Gene Device||Any||{{RewardIconWithText|Demon Cell, +160}}
+|-
+|Check M-Gene Device||Any||{{RewardIconWithText|Mutant Cell, +160}}
+|-
+|Check Ma-Gene Device||Any||{{RewardIconWithText|Mecha Cell, +160}}
+|-
+|Check Z-Gene Device||Any||{{RewardIconWithText|Zombie Cell, +160}}
+|-
+|Clean Computer Dust||Any||{{RewardIconWithText|Gene Speedup, +4m}}
+|-
+|Clean Fungus Farm||Any||{{RewardIconWithText|Fungus, +70}} (Food +50)
+|-
+|Clean Lumber Camp||Any||{{RewardIconWithText|Wood, +160}}
+|-
+|Clean the Quarry||Any||{{RewardIconWithText|Stone, +160}}
+|-
+|Clean Up Arsenal Waste||Any||{{RewardIconWithText|Refine Speedup, +4m}}
+|-
+|Clean Up Rubble||Any||{{RewardIconWithText|Stone, +160}}
+|-
+|Clean Up Weeds||Any||{{RewardIconWithText|Wood, +160}}
+|-
+|Clear Pond Silt||Any||{{RewardIconWithText|W-Tad, +16}}
+|-
+|Collect Demon God Info||Any||Random Type Research Manual +4
+|-
+|Eliminate Home Pests||Any||{{RewardIconWithText|Green Reagent, +20|green}}
+|-
+|Feed the Tadpoles||Any||{{RewardIconWithText|B-Tad, +800}}
+|-
+|Go Out Foraging||Any||{{RewardIconWithText|Fish Cake, +24}} (Food +30)
+|-
+|Maintain Cloning Tank||Any||{{RewardIconWithText|Clone Speedup, +4m}}
+|-
+|Maintain Time Machine||Any||{{RewardIconWithText|Chore Speedup, +4m}}
+|-
+|Make Shrimp Chips||Any||{{RewardIconWithText|Shrimp Cracker, +70}} (Food +50)
+|-
+|Propaganda||Any||{{RewardIconWithText|W-Tad, +16}}
+|-
+|Receive new Travelers||Any||{{RewardIconWithText|B-Tad, +800}}
+|-
+|Repair the Altar||Any||{{RewardIconWithText|Offering Speedup, +4m}}
+|-
+|Run Ad Campaigns||Any||{{RewardIconWithLink|Extras, +1|green}}
+|-
+|Sell Sepsung Phones||Any||{{RewardIconWithText|Green Reagent, +20|green}}
+|-
+|Sweep Relic Gallery||Any||{{RewardIconWithText|Green Reagent, +20|green}}
+|-
+|Wait Tables||Any||{{RewardIconWithText|Green Coating, +10|green}}
+|}
+
+|-|Blue=
+Blue-rank chores take 2h to complete. 
+
+They also need 3 minions and reward {{RewardIconWithLink|Novice Scroll, +2|blue}} at Chore Contract Level 1.
+
+{| class="wikitable"
+!style="background-color:var(--blue-bg)" |Chore
+!style="background-color:var(--blue-bg)" |Minion Type
+!style="background-color:var(--blue-bg)" |Rewards
+|-
+|Check A-Gene Device||Any||{{RewardIconWithText|Angel Cell, +320}}
+|-
+|Check D-Gene Device||Any||{{RewardIconWithText|Demon Cell, +320}}
+|-
+|Check M-Gene Device||Any||{{RewardIconWithText|Mutant Cell, +320}}
+|-
+|Check Ma-Gene Device||Any||{{RewardIconWithText|Mecha Cell, +320}}
+|-
+|Check Z-Gene Device||Any||{{RewardIconWithText|Zombie Cell, +320}}
+|-
+|Clean Computer Dust||Any||{{RewardIconWithText|Gene Speedup, +16m}}
+|-
+|Clean Fungus Farm||Any||{{RewardIconWithText|Fungus, +150}} (Food +50)
+|-
+|Clean Lumber Camp||Any||{{RewardIconWithText|Wood, +320}}
+|-
+|Clean the Quarry||Any||{{RewardIconWithText|Stone, +320}}
+|-
+|Clean Up Arsenal Waste||Any||{{RewardIconWithText|Refine Speedup, +16m}}
+|-
+|Clean Up Rubble||Any||{{RewardIconWithText|Stone, +320}}
+|-
+|Clean Up Weeds||Any||{{RewardIconWithText|Wood, +320}}
+|-
+|Clear Pond Silt||Any||{{RewardIconWithText|W-Tad, +32}}
+|-
+|Collect Demon God Info||Any||Random Type Research Manual +8
+|-
+|Eliminate Home Pests||Any||{{RewardIconWithText|Green Reagent, +40|green}}
+|-
+|Feed the Tadpoles||Any||{{RewardIconWithText|B-Tad, +1.6k}}
+|-
+|Go Out Foraging||Any||{{RewardIconWithText|Fish Cake, +150}} (Food +30)
+|-
+|Help Novice Collectors||Any||{{RewardIconWithText|W-Tad, +32}}
+|-
+|Maintain Cloning Tank||Any||{{RewardIconWithText|Clone Speedup, +16m}}
+|-
+|Maintain Time Machine||Any||{{RewardIconWithText|Chore Speedup, +1h20m}}
+|-
+|Make Nongshin Kimchi||Any||{{RewardIconWithText|Spicy Cabbage, +150}} (Food +20)
+|-
+|Propaganda||Any||{{RewardIconWithText|W-Tad, +32}}
+|-
+|Receive new Travelers||Any||{{RewardIconWithText|B-Tad, +1.6k}}
+|-
+|Repair the Altar||Any||{{RewardIconWithText|Offering Speedup, +16m}}
+|-
+|Review Bomb||Any||{{RewardIconWithLink|Starlet, +1|blue}}
+|-
+|Sell Sepsung Computers||Any||{{RewardIconWithText|Blue Reagent, +20|blue}}
+|-
+|Spy on Demon Gods||Any||Random Type Research Manual +8
+|-
+|Sweep Relic Gallery||Any||{{RewardIconWithText|Green Reagent, +40|green}}
+|-
+|Wait Tables||Any||{{RewardIconWithText|Blue Coating, +10|blue}}
+|-
+|Work in Snailmart||Any||{{RewardIconWithText|Refine Speedup, +16m}}
+|}
+
+|-|Purple=
+Purple-rank chores take 4h to complete. 
+
+They also need 4 minions and reward {{RewardIconWithLink|Expert Scroll, +2|purple}} at Chore Contract Level 1.
+
+{| class="wikitable"
+!style="background-color:var(--purple-bg)" |Chore
+!style="background-color:var(--purple-bg)" |Minion Type
+!style="background-color:var(--purple-bg)" |Rewards
+|-
+|Attend a TV show||{{RewardIcon|Demon Form Icon}}||{{RewardIconWithLink|Star Flyer, +1|purple}}
+|-
+|Check A-Gene Device||{{RewardIcon|Zombie Form Icon}}||{{RewardIconWithText|Angel Cell, +640}}
+|-
+|Check D-Gene Device||{{RewardIcon|Angel Form Icon}}||{{RewardIconWithText|Demon Cell, +640}}
+|-
+|Check M-Gene Device||{{RewardIcon|Demon Form Icon}}||{{RewardIconWithText|Mutant Cell, +640}}
+|-
+|Check Ma-Gene Device||{{RewardIcon|Mutant Form Icon}}||{{RewardIconWithText|Mecha Cell, +640}}
+|-
+|Check Z-Gene Device||{{RewardIcon|Mecha Form Icon}}||{{RewardIconWithText|Zombie Cell, +640}}
+|-
+|Clean Computer Dust||{{RewardIcon|Mecha Form Icon}}||{{RewardIconWithText|Gene Speedup, +30m}}
+|-
+|Clean Fungus Farm||{{RewardIcon|Mecha Form Icon}}||{{RewardIconWithText|Fungus, +300}} (Food +50)
+|-
+|Clean Lumber Camp||{{RewardIcon|Angel Form Icon}}||{{RewardIconWithText|Wood, +640}}
+|-
+|Clean the Quarry||{{RewardIcon|Zombie Form Icon}}||{{RewardIconWithText|Stone, +640}}
+|-
+|Clean Up Arsenal Waste||{{RewardIcon|Zombie Form Icon}}||{{RewardIconWithText|Refine Speedup, +30m}}
+|-
+|Clean Up Rubble||{{RewardIcon|Demon Form Icon}}||{{RewardIconWithText|Stone, +640}}
+|-
+|Clean Up Weeds||{{RewardIcon|Mutant Form Icon}}||{{RewardIconWithText|Wood, +640}}
+|-
+|Clear Pond Silt||{{RewardIcon|Demon Form Icon}}||{{RewardIconWithText|W-Tad, +64}}
+|-
+|Collect Demon God Info||[Random Type]||Requested Type Research Manual +16
+|-
+|Eliminate Home Pests||{{RewardIcon|Mecha Form Icon}}||{{RewardIconWithText|Green Reagent, +80|green}}
+|-
+|Feed the Tadpoles||{{RewardIcon|Zombie Form Icon}}||{{RewardIconWithText|B-Tad, +3.2k}}
+|-
+|Go Out Foraging||{{RewardIcon|Zombie Form Icon}}||{{RewardIconWithText|Fungus, +300}} (Food +50)
+|-
+|Help Expert Collectors||{{RewardIcon|Mecha Form Icon}}||{{RewardIconWithText|W-Tad, +64}}
+|-
+|Maintain Cloning Tank||{{RewardIcon|Mutant Form Icon}}||{{RewardIconWithText|Clone Speedup, +30m}}
+|-
+|Maintain Time Machine||{{RewardIcon|Angel Form Icon}}||{{RewardIconWithText|Chore Speedup, +2h40m}}
+|-
+|Propaganda||{{RewardIcon|Mutant Form Icon}}||{{RewardIconWithText|W-Tad, +64}}
+|-
+|Receive New Travelers||{{RewardIcon|Angel Form Icon}}||{{RewardIconWithText|B-Tad, +3.2k}}
+|-
+|Repair the Altar||{{RewardIcon|Demon Form Icon}}||{{RewardIconWithText|Offering Speedup, +30m}}
+|-
+|Sell Sepsung Fridges||{{RewardIcon|Mutant Form Icon}}||{{RewardIconWithText|Purple Reagent, +8|purple}}
+|-
+|Sweep Relic Gallery||{{RewardIcon|Demon Form Icon}}||{{RewardIconWithText|Green Reagent, +80|green}}
+|-
+|Wait Tables||{{RewardIcon|Dragon Form Icon}}||{{RewardIconWithText|Purple Coating, +10|purple}}
+|-
+|Work in the shipyard||{{RewardIcon|Angel Form Icon}}||{{RewardIconWithText|Refine Speedup, +30m}}
+|}
+
+|-|Orange=
+Orange-rank chores take 8h to complete. 
+
+They also need 5 minions and reward {{RewardIconWithLink|Master Scroll, +3|orange}} at Chore Contract Level 1.
+
+{| class="wikitable"
+!style="background-color:var(--orange-bg)" |Chore
+!style="background-color:var(--orange-bg)" |Minion Type
+!style="background-color:var(--orange-bg)" |Rewards
+|-
+|Attend a TV show||{{RewardIcon|Demon Form Icon}}||{{RewardIconWithLink|World Superstar, +1|orange}}
+|-
+|Check A-Gene Device||{{RewardIcon|Zombie Form Icon}}||{{RewardIconWithText|Angel Cell, +1.2k}}
+|-
+|Check D-Gene Device||{{RewardIcon|Angel Form Icon}}||{{RewardIconWithText|Demon Cell, +1.2k}}
+|-
+|Check M-Gene Device||{{RewardIcon|Demon Form Icon}}||{{RewardIconWithText|Mutant Cell, +1.2k}}
+|-
+|Check Ma-Gene Device||{{RewardIcon|Mutant Form Icon}}||{{RewardIconWithText|Mecha Cell, +1.2k}}
+|-
+|Check Z-Gene Device||{{RewardIcon|Mecha Form Icon}}||{{RewardIconWithText|Zombie Cell, +1.2k}}
+|-
+|Clean Computer Dust||{{RewardIcon|Mecha Form Icon}}||{{RewardIconWithText|Gene Speedup, +1h}}
+|-
+|Clean Fungus Farm||{{RewardIcon|Mecha Form Icon}}||{{RewardIconWithText|Fungus, +500}} (Food +50)
+|-
+|Clean the Quarry||{{RewardIcon|Zombie Form Icon}}||{{RewardIconWithText|Stone, +1.2k}}
+|-
+|Clean Up Arsenal Waste||{{RewardIcon|Zombie Form Icon}}||{{RewardIconWithText|Refine Speedup, +1h}}
+|-
+|Clean Up Weeds||{{RewardIcon|Mutant Form Icon}}||{{RewardIconWithText|Wood, +1.2k}}
+|-
+|Clear Pond Silt||{{RewardIcon|Demon Form Icon}}||{{RewardIconWithText|W-Tad, +120}}
+|-
+|Collect Demon God Info||[Random Type]||Requested Type Research Manual +30
+|-
+|Eliminate Home Pests||{{RewardIcon|Mecha Form Icon}}||{{RewardIconWithText|Green Reagent, +150|green}}
+|-
+|Feed the Tadpoles||{{RewardIcon|Zombie Form Icon}}||{{RewardIconWithText|B-Tad, +6k}}
+|-
+|Go Out Foraging||{{RewardIcon|Zombie Form Icon}}||{{RewardIconWithText|Fungus, +500}} (Food +50)
+|-
+|Help Master Collectors||{{RewardIcon|Mutant Form Icon}}||{{RewardIconWithText|W-Tad, +120}}
+|-
+|Maintain Cloning Tank||{{RewardIcon|Mutant Form Icon}}||{{RewardIconWithText|Clone Speedup, +1h}}
+|-
+|Maintain Time Machine||{{RewardIcon|Angel Form Icon}}||{{RewardIconWithText|Chore Speedup, +5h}}
+|-
+|Propaganda||{{RewardIcon|Mutant Form Icon}}||{{RewardIconWithText|W-Tad, +120}}
+|-
+|Receive New Travelers||{{RewardIcon|Angel Form Icon}}||{{RewardIconWithText|B-Tad, +6k}}
+|-
+|Repair the Altar||{{RewardIcon|Demon Form Icon}}||{{RewardIconWithText|Offering Speedup, +1h}}
+|-
+|Sweep Relic Gallery||{{RewardIcon|Demon Form Icon}}||{{RewardIconWithText|Green Reagent, +150|green}}
+|-
+|Wait Tables||{{RewardIcon|Dragon Form Icon}}||{{RewardIconWithText|Orange Coating, +10|orange}}
+|-
+|Work in the shipyard||{{RewardIcon|Angel Form Icon}}||{{RewardIconWithText|Refine Speedup, +1h}}
+|}
+
+|-|Red=
+Red-rank chores take 8h to complete.
+
+{| class="wikitable"
+! rowspan="2" style="background-color:var(--red-bg)" |Chore
+! colspan="2" style="background-color:var(--red-bg)" |Minions
+! rowspan="2" style="background-color:var(--red-bg)" |Requirements
+! rowspan="2" style="background-color:var(--red-bg)" |Rewards
+|-
+! style="background-color:var(--red-bg)" |type
+! style="background-color:var(--red-bg)" |<nowiki>#</nowiki>
+|-
+|Collect Apostle Info I-V||{{RewardIcon|Angel Form Icon}}||5||Chore Dispatch Level >= 31||{{RewardIconGeneSegment|Ancient Apostle, +1}}<br>{{RewardIconWithLink|Master Scroll, +3|orange}}
+|-
+|Clean the Sewer I||{{RewardIcon|Zombie Form Icon}}||5||???||{{RewardIconGeneSegment|Rotten Merman, +1}}<br>{{RewardIconWithLink|Master Scroll, +3|orange}}
+|-
+|Clean the Sewer II||{{RewardIcon|Angel Form Icon}}||5||Clean the Sewer I||{{RewardIconGeneSegment|Rotten Merman, +1}}<br>{{RewardIconWithLink|Master Scroll, +3|orange}}
+|-
+|Clean the Sewer III||{{RewardIcon|Demon Form Icon}}||5||Clean the Sewer II||{{RewardIconGeneSegment|Rotten Merman, +1}}<br>{{RewardIconWithLink|Master Scroll, +3|orange}}
+|-
+|[Ishikawa Quest 1] Look for Ishikawa Rip||Any||4||Have the Lottery Machine returned by [[Mailbox#The Ishikawa Clan|Ishikawa]]||{{RewardIconWithText|Ishikawa Rip's Collection}} ({{RewardIconWithText|B-Tad, +1.5k}}, {{RewardIconWithText|Stone, +150}})<br>{{RewardIconWithLink|Novice Scroll, +2|blue}}
+|-
+|[Ishikawa Quest 2] Check Ishikawa House||Any||4||Look for Ishikawa Rip||{{RewardIconWithText|Ishikawa Rip's Collection}} ({{RewardIconWithText|W-Tad, +30}}, {{RewardIconWithText|Demon Cell, +320}})<br>{{RewardIconWithLink|Novice Scroll, +2|blue}}
+|-
+|[Ishikawa Quest 3] Loot Ishikawa Rip I||Any||4||Check Ishikawa House||{{RewardIconWithText|Ishikawa Rip's Collection}} ({{RewardIconWithText|Green Reagent, +80|green}}, {{RewardIconWithText|B-Tad, +500}})<br>{{RewardIconWithLink|Novice Scroll, +2|blue}}
+|-
+|[Ishikawa Quest 4] Loot Ishikawa Rip II||Any||4||Loot Ishikawa Rip I||{{RewardIconWithText|Ishikawa Rip's Collection}} ({{RewardIconWithText|B-Tad, +2k}}, {{RewardIconWithText|Demon Cell, +400}})<br>{{RewardIconWithLink|Novice Scroll, +2|blue}}
+|-
+|[Ishikawa Quest 5] Loot Ishikawa Rip III||{{RewardIcon|Demon Form Icon}}||5||Loot Ishikawa Rip II||{{RewardIconWithText|Ishikawa Rip's Collection}} ({{RewardIconWithText|Stone, +1000}}, {{RewardIconWithText|Wood, +1000}})<br>{{RewardIconWithLink|Expert Scroll, +2|purple}}
+|-
+|[Ishikawa Quest 6] Loot Ishikawa Rip IV||{{RewardIcon|Demon Form Icon}}||5||Loot Ishikawa Rip III||{{RewardIconWithText|Ishikawa Rip's Collection}} ({{RewardIconWithText|Demon Manual, +10}}, {{RewardIconWithText|Mutant Manual, +10}})<br>{{RewardIconWithLink|Expert Scroll, +2|purple}}
+|-
+|[Ishikawa Quest 7] Loot Ishikawa Rip V||{{RewardIcon|Demon Form Icon}}||5||Loot Ishikawa Rip IV||{{RewardIconWithText|Ishikawa Rip's Collection}} ({{RewardIconWithText|Gene Speedup, +1h}}, {{RewardIconWithText|Demon Cell, +1000}})<br>{{RewardIconWithLink|Expert Scroll, +2|purple}}
+|-
+|[Ishikawa Quest 8] Beat Ishikawa Rip||{{RewardIcon|Demon Form Icon}}||5||Loot Ishikawa Rip V||{{RewardIconWithText|Ishikawa Rip's Collection}} ({{RewardIconWithText|B-tad, +3k}}, {{RewardIconWithText|Lottery Ticket, +1}})<br>{{RewardIconWithLink|Master Scroll, +3|orange}}
+|-
+|Join an R&D Team||Any||5||Start Cathay Realm||{{RewardIconWithLink|Snail Quiz - Cathay|black|Minigames}}
+|-
+|Look for eyeballs I||Any||2||Max Cyclops Xiahou D to T9||{{RewardIconWithLink|General Xiahou D.'s Eye|blue}}<br>{{RewardIconWithLink|Novice Scroll, +2|blue}}
+|-
+|Look for eyeballs II||Any||2||Look for eyeballs I||{{RewardIconWithLink|General Xiahou D.'s Eye|blue}}<br>{{RewardIconWithLink|Novice Scroll, +2|blue}}
+|-
+|Look for eyeballs III||Any||2||Look for eyeballs II||{{RewardIconWithLink|General Xiahou D.'s Eye|blue}}<br>{{RewardIconWithLink|Novice Scroll, +2|blue}}
+|-
+|Look for eyeballs IV||Any||2||Look for eyeballs III||{{RewardIconWithLink|General Xiahou D.'s Eye|blue}}<br>{{RewardIconWithLink|Novice Scroll, +2|blue}}
+|-
+|Look for eyeballs V||Any||2||Look for eyeballs IV||{{RewardIconWithLink|General Xiahou D.'s Eye|blue}}<br>{{RewardIconWithLink|Novice Scroll, +2|blue}}
+|-
+|Look for eyeballs VI||Any||2||Look for eyeballs V||{{RewardIconWithLink|General Xiahou D.'s Eye|blue}}<br>{{RewardIconWithLink|Novice Scroll, +2|blue}}
+|-
+|Look for eyeballs VII||Any||2||Look for eyeballs VI||{{RewardIconWithLink|General Xiahou D.'s Eye|blue}}<br>{{RewardIconWithLink|Novice Scroll, +2|blue}}
+|-
+|Look for eyeballs VIII||Any||2||Look for eyeballs VII||{{RewardIconWithLink|General Xiahou D.'s Eye|blue}}<br>{{RewardIconWithLink|Novice Scroll, +2|blue}}
+|-
+|Promote the game||Any||5||[None]||{{RewardIconWithLink|Game Promoter|black|Minigames}}
+|}
+</tabber>
+
+===Chore Contract===
+Every 10 levels the Chore Contract alternates between giving an additional Chore per day or an additional Scroll per chore in the following manner:
+{| class="wikitable"
+!Level
+!Reward
+|-
+|Level 10||+1 Scroll
+|-
+|Level 20||+1 Chore
+|-
+|Level 30||+1 Scroll<br>Chore Task now allows all types of minions.
+|-
+|Level 40||+1 Chore
+|-
+|Level 50||+1 Scroll
+|-
+|So on...
+|}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+! rowspan="2" |Level
+! colspan="3" |Cost
+! rowspan="2" |Max dispatches<br>per day
+! rowspan="2" |Scrolls
+! rowspan="2" |Yields for<br>each dispatch
+! rowspan="2" |Minions required
+|-
+!{{RewardIconWithText|B-Tad}}
+!{{RewardIconWithText|Chore Stamp}}
+!Clone Tank<br>Req.
+|-
+|1||0||0||0||5||0||2%||0%
+|-
+|2||10||10||3||5||0||4%||10%
+|-
+|3||80||20||3||5||0||6%||21%
+|-
+|4||270||30||6||5||0||8%||31%
+|-
+|5||640||40||6||5||0||10%||40%
+|-
+|6||1.2k||50||9||5||0||12%||51%
+|-
+|7||2.1k||60||9||5||0||14%||61%
+|-
+|8||3.4k||80||12||5||0||16%||70%
+|-
+|9||5.1k||100||12||5||0||18%||80%
+|-
+|10||7.2k||120||15||5||1||20%||90%
+|-
+|11||10k||150||15||5||1||22%||100%
+|-
+|12||13.3k||180||18||5||1||24%||120%
+|-
+|13||17.2k||210||18||5||1||26%||140%
+|-
+|14||21.9k||240||21||5||1||28%||160%
+|-
+|15||27.4k||280||21||5||1||30%||180%
+|-
+|16||33.7k||320||24||5||1||32%||200%
+|-
+|17||40.9k||360||24||5||1||34%||221%
+|-
+|18||49.1k||400||27||5||1||36%||241%
+|-
+|19||58.3k||450||27||5||1||38%||260%
+|-
+|20||68.5k||500||30||6||1||40%||280%
+|-
+|21||80k||550||30||6||1||42%||300%
+|-
+|22||92.6k||600||33||6||1||44%||330%
+|-
+|23||106k||650||33||6||1||46%||360%
+|-
+|24||121k||700||36||6||1||48%||390%
+|-
+|25||138k||750||36||6||1||50%||420%
+|-
+|26||156k||800||39||6||1||52%||450%
+|-
+|27||175k||850||39||6||1||54%||480%
+|-
+|28||196k||900||42||6||1||56%||510%
+|-
+|29||219k||1k||42||6||1||58%||540%
+|-
+|30||243k||1.2k||45||6||2||60%||570% - Chore Task now allows all types of minions.
+|-
+|31||270k||1.5k||45||6||2||62%||600%
+|-
+|32||297k||1.9k||48||6||2||64%||640%
+|-
+|33||327k||2.4k||48||6||2||66%||680%
+|-
+|34||359k||3k||51||6||2||68%||720%
+|-
+|35||393k||4k||51||6||2||70%||760%
+|-
+|36||428k||5k||54||6||2||72%||800%
+|-
+|37||466k||6k||54||6||2||74%||840%
+|-
+|38||505k||7k||57||6||2||76%||881%
+|-
+|39||545k||8k||57||6||2||78%||920%
+|-
+|40||590k||9k||60||7||2||80%||960%
+|-
+|41||1.27M||10k||60||7||2||82%||1,000%
+|-
+|42||1.37M||15k||63||7||2||84%||1,050%
+|-
+|43||1.47M||20k||63||7||2||86%||1,100%
+|-
+|44||1.58M||25k||66||7||2||88%||1,150%
+|-
+|45||1.69M||30k||66||7||2||90%||1,200%
+|-
+|46||1.81M||35k||69||7||2||92%||1,250%
+|-
+|47||1.93M||40k||69||7||2||94%||1,300%
+|-
+|48||?||?||72||?||?||?%||?%
+|-
+|49||?||?||72||?||?||?%||?%
+|-
+|50||?||?||75||?||?||?%||?%
+|-
+|51||?||?||75||?||?||?%||?%
+|}
+
+[[Category:Home Base]]

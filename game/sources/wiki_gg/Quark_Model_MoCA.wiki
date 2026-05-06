@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=520
+|relics=Quark Model,MoCA
+|rank=orange
+|amount=2
+|category=self
+|description=Per 10 Lucky Coins gained, Snail DEF +7;Lucky Coins Gained: 400/400
+}}

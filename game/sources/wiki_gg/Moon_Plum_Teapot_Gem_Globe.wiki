@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=393
+|relics=Moon Plum Teapot,Gem Globe
+|rank=purple
+|amount=2
+|category=self
+|description=Refine +1 White Gaia Material +6%
+}}

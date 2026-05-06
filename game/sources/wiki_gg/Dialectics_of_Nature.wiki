@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Dialectics of Nature
+|class_id=22334
+|rank=SS
+|affct=TECH
+|birthday=05-11
+|source=
+|description=On May 11, 1925 AD, the manuscript of Dialectics of Nature was published.<br>Dialectics of Nature is an unfinished work by Engels that was not published during his lifetime. As a materialist, Engels was always trying to connect recent advances in natural science with related philosophical problems. In this manner, he stated the history of natural science as well as the relationship between the materialistic dialectical view of nature and natural science and philosophy, establishing a new branch of Marxist philosophy and laying the theoretical groundwork for natural dialectics.
+|fame=71
+|art=49
+|fth=67
+|civ=58
+|tech=102
+|ss1=Mecha Minion DEF +2%<br>Per 60 Minions in battle:<br>> Troop ATK +9<br>Per 1k visitor received, Snail DEF +2<br>Tourists Received: 40000/40000
+|ss2=Mecha Minion DEF +3%<br>Per 60 Minions in battle:<br>> Troop ATK +18<br>Per 1k visitor received, Snail DEF +3<br>Tourists Received: 40000/40000
+|ss3=Mecha Minion DEF +4%<br>Per 60 Minions in battle:<br>> Troop ATK +27<br>Per 1k visitor received, Snail DEF +4<br>Tourists Received: 40000/40000
+|ss4=Mecha Minion DEF +6%<br>Per 60 Minions in battle:<br>> Troop ATK +45<br>Per 1k visitor received, Snail DEF +6<br>Tourists Received: 40000/40000
+|ss5=Mecha Minion DEF +8%<br>Per 60 Minions in battle:<br>> Troop ATK +63<br>Per 1k visitor received, Snail DEF +8<br>Tourists Received: 40000/40000
+|ss6=Mecha Minion DEF +11%<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per 1k visitor received, Snail DEF +11<br>Tourists Received: 40000/40000
+|ss7=Mecha Minion DEF +11%<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per 1k visitor received, Snail DEF +11<br>Tourists Received: 40000/40000<br>Per 60 Minions in battle:<br>> Troop ATK +90 (Awakened)
+|skill1=[[File:Mantis skill III.png|50px]]Place in the Mantis Biozilla: In Species War, Troop CRIT +9%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Mecha Cells gained +30%
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Purple Card Drops +15%
+|mirage={{Mirage|name=History Ideological Dev.|reward={{RewardIconWithLink|Tool Chest, +200|orange}}
+|3name=Theology|3rec=105.88M|3atk=289077|3defense=192855|3hp=20029179|3weak=35533
+|4name=Idealism|4rec=146.79M|4atk=375352|4defense=250412|4hp=31125122|4weak=41392
+|5name=Materialism|5rec=195.13M|5atk=477313|5defense=318435|5hp=46332229|5weak=49312
+|Arec=262.16M|Aatk=597202|Adefense=398417|Ahp=67077167|Aweak=56946
+}}}}

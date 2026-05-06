@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=889
+|relics=Illustrations of Marine Life,The Canterbury Tales,Nazca Lines,Guiguzi Descends the Mountain,Adoration of Shepherds,Legend of the White Snake
+|rank=orange
+|amount=6
+|category=self
+|description=Snail Leadership +12
+}}

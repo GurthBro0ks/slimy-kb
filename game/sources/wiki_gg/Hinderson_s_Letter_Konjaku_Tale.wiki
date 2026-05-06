@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=382
+|relics=Hinderson's Letter,Konjaku Tale
+|rank=purple
+|amount=2
+|category=self
+|description=Mutant Minion ATK +6%
+}}

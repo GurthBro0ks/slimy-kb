@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Rainbow Dump
+|class_id=20147
+|rank=Green
+|affct=ART
+|source=
+|description=This substance with a dazzling rainbow luster contains the essence and strong life force of some unknown creature. According to the sample analysis, its rainbow luster comes from a trace substance that exists only in the cores of rare divine beasts, which is vital to their living!
+|fame=13
+|art=29
+|fth=18
+|civ=14
+|tech=16
+|ss1=Per 50 Mystery Gloops claimed, Snail DEF +1<br>Mysterious Gloop Claimed: 2000/2000
+|ss2=Per 50 Mystery Gloops claimed, Snail DEF +2<br>Mysterious Gloop Claimed: 2000/2000
+|ss3=Per 50 Mystery Gloops claimed, Snail DEF +3<br>Mysterious Gloop Claimed: 2000/2000
+|ss4=Per 50 Mystery Gloops claimed, Snail DEF +3<br>Mysterious Gloop Claimed: 2000/2000
+|ss7=Per 50 Mystery Gloops claimed, Snail DEF +3<br>Mysterious Gloop Claimed: 2000/2000<br> (Awakened)
+}}

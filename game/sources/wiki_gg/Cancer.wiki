@@ -1,0 +1,35 @@
+{{Missing Info|specifics=All Mirage Info}}
+
+{{SupremeRelic
+|name=Cancer
+|rank=sss
+|affct=art
+|description=As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:
+
+When luck comes, like a force untold, Irresistible, bold, as precious as gold.
+|num=12
+|usd=12,000
+|fame=76
+|art=110
+|fth=71
+|civ=50
+|tech=55
+|ss1=B-tads collected from Drill Rig +10%<br>W-tads collected from Drill Rig +10%<br>Per 100 Minions in battle, Troop HP +1,600<br>Per 100 Minions in battle, Troop RUSH +160
+|ss2=B-tads collected from Drill Rig +10%<br>W-tads collected from Drill Rig +10%<br>Per 100 Minions in battle, Troop HP +1,600<br>Per 100 Minions in battle, Troop RUSH +160<br>W-tads collected from Drill Rig +10% (Awakened)
+|skill1={{Skills|murika|travel spd|9}}
+|skill2={{Skills|murika|btads gained|15}}
+|skill3={{Skills|murika|cells|30}}
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}}}
+
+[[Category:Drill Collection Boost]]
+[[Category:Minion HP Boost]]
+[[Category:Minion RUSH Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Rewards RF]]

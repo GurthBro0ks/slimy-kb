@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Best Team Award
+|class_id=20945
+|rank=Green
+|affct=FAME
+|source=
+|description=This seemingly resplendent trophy is a precious custom creation by the development team. Despite a few remnants of plastic hues from maintenance on its surface, the inscription on its base still represents its exceptional value: "Presented to the world's most diligent conscientious and dedicated game development team!" For trophy customization services please contact 1034-3503-789.
+|fame=30
+|art=14
+|fth=13
+|civ=15
+|tech=18
+|ss1=Mecha Minion HARD Stats +0.4%<br>In All Forms, Snail DEF +20
+|ss2=Mecha Minion HARD Stats +0.8%<br>In All Forms, Snail DEF +40
+|ss3=Mecha Minion HARD Stats +1.2%<br>In All Forms, Snail DEF +60
+|ss4=Mecha Minion HARD Stats +1.2%<br>In All Forms, Snail DEF +60
+|ss7=Mecha Minion HARD Stats +1.2%<br>In All Forms, Snail DEF +60<br> (Awakened)
+}}

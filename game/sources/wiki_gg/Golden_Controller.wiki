@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Controller
+|class_id=20140
+|rank=Green
+|affct=ART
+|source=
+|description=This controller used to belong to a referee in the arena, a former powerful combatant that had long retired. After seeing the snail's strength, it became a Demon God Hitman to test the snail. It gave this precious controller to the snail and then became a referee again after its defeat.
+|fame=15
+|art=29
+|fth=16
+|civ=15
+|tech=15
+|ss1=Per 10 Snail Arena matches, Snail HP +10<br>Per 10 Snail Arena matches, Snail ATK +1<br>Per 10 Snail Arena matches, Snail DEF +1<br>Per 10 Snail Arena matches, Snail RUSH +1<br>Snail Arena matches fought: 100/100
+|ss2=Per 10 Snail Arena matches, Snail HP +20<br>Per 10 Snail Arena matches, Snail ATK +2<br>Per 10 Snail Arena matches, Snail DEF +2<br>Per 10 Snail Arena matches, Snail RUSH +2<br>Snail Arena matches fought: 100/100
+|ss3=Per 10 Snail Arena matches, Snail HP +30<br>Per 10 Snail Arena matches, Snail ATK +3<br>Per 10 Snail Arena matches, Snail DEF +3<br>Per 10 Snail Arena matches, Snail RUSH +3<br>Snail Arena matches fought: 100/100
+|ss4=Per 10 Snail Arena matches, Snail HP +30<br>Per 10 Snail Arena matches, Snail ATK +3<br>Per 10 Snail Arena matches, Snail DEF +3<br>Per 10 Snail Arena matches, Snail RUSH +3<br>Snail Arena matches fought: 100/100
+|ss7=Per 10 Snail Arena matches, Snail HP +30<br>Per 10 Snail Arena matches, Snail ATK +3<br>Per 10 Snail Arena matches, Snail DEF +3<br>Per 10 Snail Arena matches, Snail RUSH +3<br>Snail Arena matches fought: 100/100<br> (Awakened)
+}}

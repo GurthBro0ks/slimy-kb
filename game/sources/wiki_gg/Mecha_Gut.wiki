@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Mecha Gut
+|type=Common
+|rank=purple
+|id=10834
+|idx=39
+|description=This section of the appendix is wrapped with a layer of high hardness alloy. Tests have shown that it has a significant positive effect on improving digestion.
+|skill=
+|hp=2362
+|def=142
+|atk=122
+|rush=131
+|gene1=In Mecha Form, {race} HP +600
+|gene2=In Mecha Form, {race} ATK +60
+|gene3=In Mecha Form, {race} RUSH +60
+|gene4=In Mecha Form, {race} DEF +60
+|gene7=In Mecha Form, {race} HARD +1% (Awakened)
+|}}

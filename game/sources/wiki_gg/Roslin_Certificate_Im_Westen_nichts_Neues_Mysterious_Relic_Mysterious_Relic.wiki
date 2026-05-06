@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=823
+|relics=Roslin Certificate,Im Westen nichts Neues,Mysterious Relic,Mysterious Relic
+|rank=orange
+|amount=4
+|category=self
+|description=Resolver: W-tads extracted +45
+}}

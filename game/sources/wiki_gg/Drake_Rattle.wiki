@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Drake Rattle
+|class_id=20247
+|rank=Green
+|affct=FAITH
+|source= Offer Broken Dragon's Horn to [[Altar]].
+|description=There was once a dynamic duo in Dragonborn: Jack and Ennis. They both became famous at a young age, touted as rare talented. They admired each other so much that they were inseparable. They even gifted the other their cherished memento. The relationship might be hard for others to grasp, but their bond was tight and genuine. But as the fickle fate would have it, Jack disappeared without a trace on a trip, leaving Ennis to carry Jack's memento all the time in uncontrollable grief.
+|fame=14
+|art=14
+|fth=30
+|civ=16
+|tech=16
+|ss1=Per 10 Slug Dragonlings in battle:<br>> Troop RUSH +1
+|ss2=Per 10 Slug Dragonlings in battle:<br>> Troop RUSH +2
+|ss3=Per 10 Slug Dragonlings in battle:<br>> Troop RUSH +3
+|ss4=Per 10 Slug Dragonlings in battle:<br>> Troop RUSH +3
+|ss7=Per 10 Slug Dragonlings in battle:<br>> Troop RUSH +3<br> (Awakened)
+}}

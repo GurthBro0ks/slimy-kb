@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Blood of Cain
+|class_id=21721
+|rank=SSS
+|affct=FTH
+|birthday=02-09
+|source=Reward from [[Demon God Device#Apocalypse Hall|Rocket Cabin: Demon God Device]]
+|description=On Feb 9, 50,000 BC, Cain paid the bloody price of his wrongdoing.<br>Cain, the eldest son of Adam and Eve, killed his brother Abel out of jealousy and became the world's first murderer. God questioned him and Cain lied. He failed to deceive the all-knowing God, and so a curse was cast on Cain that he could only live in the shadows forever. In the east of the Garden of Eden, he and his descendants established their city. With his immortality, Cain escaped the great flood and left behind a flock of descendants known as the vampires. Cain is regarded as the originator of vampires.
+|fame=70
+|art=71
+|fth=109
+|civ=58
+|tech=54
+|ss1=Per 60 Demon Minions in battle:<br>> Troop HP +90<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +9<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Per 60 Demon Minions in battle:<br>> Troop HP +180<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +18<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Per 60 Demon Minions in battle:<br>> Troop HP +270<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +27<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Per 60 Demon Minions in battle:<br>> Troop HP +450<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +45<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Per 60 Demon Minions in battle:<br>> Troop HP +630<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +63<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Per 60 Demon Minions in battle:<br>> Troop HP +900<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +90<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Per 60 Demon Minions in battle:<br>> Troop HP +900<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +90<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's FTH +15
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, B-tads gained +15%
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Demon God Cells collected +30%
+|mirage={{Mirage|name=Origin of Evil|reward={{RewardIconWonderFungusWithText|Orange, +1|HP}}
+|3name=Grandpire x1|3rec=3.21M|3atk=43361|3def=28988|3hp=647478|3weak=9589
+|4name=Grandpire x3|4rec=6.23M|4atk=62947|4def=42082|4hp=1218168|4weak=12294
+|5name=Grandpire x5|5rec=11.38M|5atk=87181|5def=58283|5hp=2254296|5weak=14473
+|6name=Grandpire x7|6rec=24.01M|6atk=116195|6def=77679|6hp=3700621|6weak=18005
+|Arec=40.17M|Aatk=150201|Adef=100413|Ahp=5972491|Aweak=19348
+}}}}
+
+[[Category:Hellas Museum Boost]]
+[[Category:Hellas Exploration Boost]]
+[[Category:Demon Minion HP Boost]]
+[[Category:Demon Minion RUSH Boost]]
+[[Category:Demon Minion HARD Boost]]
+[[Category:Wishing Boost]]
+[[Category:Enhanced by Quarry LVL]]
+[[Category:Wraith Boost]]
+[[Category:Imp Boost]]

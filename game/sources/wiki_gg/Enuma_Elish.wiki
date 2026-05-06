@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Enuma Elish
+|class_id=22283
+|rank=SSS
+|affct=FAITH
+|birthday=02-11
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Feb 11, 691 BC, Enuma Elish was recorded on clay tablets by an ancient Babylonian priest.<br>Enuma Elish is the most important creation epic of ancient Babylon, named after its opening words in Akkadian, meaning "When on High." It has about a thousand lines and is recorded on seven clay tablets. It describes: The primordial world was created by Apsu and Tiamat, from the mixture of whom other gods were created. But the commotion of these new gods disturbed Tiamat, so she proposed to destroy them. To protect themselves, the new gods confronted Apsu and Tiamat. Finally, Apsu was killed by Ea, while Tiamat was killed by an arrow from Marduk. Then Marduk created the world with her body and human beings with her blood mixed with clay. Under his reign, humans were created to bear the burdens of serving gods.
+|fame=55
+|art=70
+|fth=107
+|civ=58
+|tech=72
+|ss1=Snail RUSH +30<br>Dragon Minion RUSH +3%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +24%
+|ss2=Snail RUSH +40<br>Dragon Minion RUSH +4%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +32%
+|ss3=Snail RUSH +50<br>Dragon Minion RUSH +5%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +40%
+|ss4=Snail RUSH +70<br>Dragon Minion RUSH +7%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +56%
+|ss5=Snail RUSH +90<br>Dragon Minion RUSH +9%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +72%
+|ss6=Snail RUSH +120<br>Dragon Minion RUSH +12%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +96%
+|ss7=Snail RUSH +120<br>Dragon Minion RUSH +12%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +96%<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion ATK +6%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion RUSH +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FTH +15
+|mirage={{Mirage|name=Genesis Epic|reward={{RewardIconWithLink|Crystal of Will, +1|orange}}
+|3name=Abzu|3rec=28.54M|3atk=125993|3defense=84055|3hp=4612161|3weak=18800
+|4name=Tiamat|4rec=39.50M|4atk=149089|4defense=99463|4hp=6300895|4weak=19888
+|5name=Ea|5rec=51.71M|5atk=174859|5defense=116655|5hp=8374480|5weak=22062
+|6name=Marduk|6rec=65.53M|6atk=203991|6defense=136090|6hp=11009137|6weak=26391
+|Arec=80.73M|Aatk=236050|Adefense=157478|Ahp=14212077|Aweak=31027
+}}}}

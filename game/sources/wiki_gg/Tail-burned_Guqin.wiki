@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Tail-burned Guqin
+|class_id=22660
+|rank=SSS
+|affct=ART
+|birthday=10-28
+|source=
+|description=On Oct 28, 192 AD, Cai Yong was imprisoned due to his comments on Dong Zhuo, and the Tail-burned Guqin was also taken into the national treasury.<br>The Tail-burned Guqin, one of the renowned ancient Chinese stringed instruments, was created by Cai Yong, a prominent literary figure of the Eastern Han Dynasty. Legend has it that Cai Yong rescued a charred piece of wood from a fire and transformed it into a magnificent seven-stringed instrument. The instrument, known for its exceptional and unmatched sound, earned its name from the charred mark on the wood. The fame of the Tail-burned Guqin quickly spread far and wide.
+|fame=57
+|art=108
+|fth=63
+|civ=73
+|tech=61
+|ss1=Gene Research Free Speedup +13m 30s<br>Per 60 Minions in battle:<br>> Troop HP +90<br>Per Master Chef's Legacy activated, Snail ATK +6<br>Master Chef's Legacy activated: 40/40
+|ss2=Gene Research Free Speedup +18m<br>Per 60 Minions in battle:<br>> Troop HP +180<br>Per Master Chef's Legacy activated, Snail ATK +7<br>Master Chef's Legacy activated: 40/40
+|ss3=Gene Research Free Speedup +22m 30s<br>Per 60 Minions in battle:<br>> Troop HP +270<br>Per Master Chef's Legacy activated, Snail ATK +8<br>Master Chef's Legacy activated: 40/40
+|ss4=Gene Research Free Speedup +31m 30s<br>Per 60 Minions in battle:<br>> Troop HP +450<br>Per Master Chef's Legacy activated, Snail ATK +10<br>Master Chef's Legacy activated: 40/40
+|ss5=Gene Research Free Speedup +40m 30s<br>Per 60 Minions in battle:<br>> Troop HP +630<br>Per Master Chef's Legacy activated, Snail ATK +12<br>Master Chef's Legacy activated: 40/40
+|ss6=Gene Research Free Speedup +54m<br>Per 60 Minions in battle:<br>> Troop HP +900<br>Per Master Chef's Legacy activated, Snail ATK +15<br>Master Chef's Legacy activated: 40/40
+|ss7=Gene Research Free Speedup +54m<br>Per 60 Minions in battle:<br>> Troop HP +900<br>Per Master Chef's Legacy activated, Snail ATK +15<br>Master Chef's Legacy activated: 40/40<br>Per 60 Minions in battle:<br>> Troop HP +900 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: Medal Output +30
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail HP +6000
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail DEF +600
+|mirage={{Mirage|name=Master of the Famous Instrument|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=Duke Huan|3rec=90.42M|3atk=293275|3defense=171113|3hp=21937486|3weak=37911
+|4name=King Zhuang|4rec=99.74M|4atk=314272|4defense=184220|4hp=25916135|4weak=39640
+|5name=Officer Sima|5rec=111.13M|5atk=339282|5defense=200250|5hp=31856975|5weak=42210
+|6name=Officer Cai|6rec=124.84M|6atk=368920|6defense=219542|6hp=40774230|6weak=45403
+|Arec=142.19M|Aatk=407389|Adefense=243952|Ahp=54181288|Aweak=48884
+}}}}

@@ -1,0 +1,48 @@
+__FORCETOC__
+
+= Nebula Choice Pack =
+[[File:Nebula Choice Pack Details.png|300px]]
+
+The {{RewardIconWithLink|Nebula Choice Pack|orange}} is available for purchase from the [[Observatory_Event#Visit_Star_Map_Shop|Observatory Star Chart Shop]] for 2k {{RewardIconWithLink|Star Sketch}}es.
+
+* {{RewardIconWithLink|Constellations, +40 Fragments|orange}}
+* {{RewardIconWithLink|Scales of Astraea, +40 Fragments|orange}}
+* {{RewardIconWithLink|Outer Space Treaty, +40 Fragments|orange}}
+* {{RewardIconWithLink|Hevelius Chart, +40 Fragments|orange}}
+* {{RewardIconWithLink|Messier Catalog, +40 Fragments|orange}}
+* {{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+* {{RewardIconWithText|W-Tad, +4k}}
+
+After receiving the Gift Pack, you may choose one of the above rewards!
+
+= Maneater Choice Pack =
+[[File:Maneater Choice Pack Details.png|300px]]
+
+The {{RewardIconWithLink|Maneater Choice Pack|orange}} is available for purchase from the [[Observatory_Event#Visit_Star_Map_Shop|Observatory Star Chart Shop]] for 2k {{RewardIconWithLink|Star Sketch}}es.
+
+* {{RewardIconWithLink|Irises, +40 Fragments|orange}}
+* {{RewardIconWithLink|Echo and Narcissus, +40 Fragments|orange}}
+* {{RewardIconWithLink|Red Algae Fossil, +40 Fragments|orange}}
+* {{RewardIconWithLink|The Champa Flower, +40 Fragments|orange}}
+* {{RewardIconWithLink|Species Plantarum, +40 Fragments|orange}}
+* {{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+* {{RewardIconWithText|W-Tad, +4k}}
+
+After receiving the Gift Pack, you may choose one of the above rewards!
+
+= Minion Sim Choice Pack =
+[[File:Minion Sim Choice Pack Details.png|300px]]
+
+The {{RewardIconWithLink|Minion Sim Choice Pack|orange}} is available for purchase from the [[Observatory_Event#Visit_Star_Map_Shop|Observatory Star Chart Shop]] for 2k {{RewardIconWithLink|Star Sketch}}es.
+
+* {{RewardIconWithLink|La Marseillaise, +40 Fragments|orange}}
+* {{RewardIconWithLink|Ludovisi Ares, +40 Fragments|orange}}
+* {{RewardIconWithLink|L'Art de la Guerre, +40 Fragments|orange}}
+* {{RewardIconWithLink|Maya Mural, +40 Fragments|orange}}
+* {{RewardIconWithLink|SAGE, +40 Fragments|orange}}
+* {{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+* {{RewardIconWithText|W-Tad, +4k}}
+
+After receiving the Gift Pack, you may choose one of the above rewards!
+
+[[Category:Reward Pack]]

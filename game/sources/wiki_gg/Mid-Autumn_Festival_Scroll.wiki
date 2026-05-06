@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Mid-Autumn Festival Scroll
+|class_id=22729
+|rank=SSS
+|affct=CIV
+|birthday=03-16
+|source=
+|description=On Mar 16, 1110 AD, Emperor Huizong of Song, Zhao Ji, penned this piece of poetry.<br>The Mid-Autumn Festival Scroll, a classic calligraphic work from the Northern Song period, was personally penned by Emperor Huizong of Song, Zhao Ji. The work features his original creation, the Slender Gold script, characterized by vigorous and upright strokes without losing a sense of grace and elegance. It enhances the profound and natural artistic conception of the poetry, making it a rare masterpiece of calligraphy!
+|fame=71
+|art=68
+|fth=62
+|civ=107
+|tech=48
+|ss1=All minion skins ATK +10%<br>Tribal Amber output +6%<br>Per Galaxy Incident completed, Snail DEF +6<br>Galaxy Incidents Completed: 30/30
+|ss2=All minion skins ATK +20%<br>Tribal Amber output +8%<br>Per Galaxy Incident completed, Snail DEF +8<br>Galaxy Incidents Completed: 30/30
+|ss3=All minion skins ATK +30%<br>Tribal Amber output +10%<br>Per Galaxy Incident completed, Snail DEF +10<br>Galaxy Incidents Completed: 30/30
+|ss4=All minion skins ATK +50%<br>Tribal Amber output +14%<br>Per Galaxy Incident completed, Snail DEF +14<br>Galaxy Incidents Completed: 30/30
+|ss5=All minion skins ATK +70%<br>Tribal Amber output +18%<br>Per Galaxy Incident completed, Snail DEF +18<br>Galaxy Incidents Completed: 30/30
+|ss6=All minion skins ATK +100%<br>Tribal Amber output +24%<br>Per Galaxy Incident completed, Snail DEF +24<br>Galaxy Incidents Completed: 30/30
+|ss7=All minion skins ATK +100%<br>Tribal Amber output +24%<br>Per Galaxy Incident completed, Snail DEF +24<br>Galaxy Incidents Completed: 30/30<br>Tribal Amber output +20% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +3%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+|mirage={{Mirage|name=Mid-Autumn Adventure|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Rabbit Cupid|3rec=144.70M|3atk=413064|3defense=247474|3hp=55933023|3weak=49373
+|4name=Apprentice Rabbit|4rec=173.32M|4atk=475882|4defense=287751|4hp=84187832|4weak=54057
+|5name=Costumed Moon Rabbit|5rec=213.90M|5atk=561719|5defense=344844|5hp=128026391|5weak=59321
+|6name=Moon Rabbit Queen|6rec=294.45M|6atk=686594|6defense=427467|6hp=219733378|6weak=65189
+|Arec=419.68M|Aatk=858381|Adefense=540132|Ahp=374412484|Aweak=71140
+}}}}

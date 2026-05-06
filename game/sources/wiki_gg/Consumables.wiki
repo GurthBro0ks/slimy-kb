@@ -1,0 +1,286 @@
+== Luggage ==
+
+==== Souls ====
+{| class="wikitable"
+!Image
+!Time
+!Info
+|-
+|{{Reimg|1h soul}}
+|1 Hour
+|A bound soul.<br>Found in Soul Chests, [[Vending Machine]], and from enemies.<br>Summons Earth's Will or a random God.
+|-
+|{{Reimg|2h soul}}
+|2 Hours
+|A bound soul.<br>Found in Soul Chests, [[Vending Machine]], and from enemies.<br>Summons Earth's Will or a random God.
+|-
+|{{Reimg|4h soul}}
+|4 Hours
+|A bound soul.<br>Found in Soul Chests, [[Vending Machine]], and from enemies.<br>Summons Earth's Will or a random God.
+|-
+|{{Reimg|8h soul}}
+|8 Hours
+|A bound soul.<br>Found in Soul Chests, [[Vending Machine]], and from enemies.<br>Summons Earth's Will or a random God.
+|-
+|{{RewardIconWithLink|Mahakala's Offering|orange|Mahakala Offering|50}}
+|48 Hours
+|Only a sad sack can get this item.<br>Found in Never Luck Packs (Chat)<BR>Summons Mahakala
+|-
+|{{RewardIconWithLink|Dragon Orb|orange|Dragon Orb|50}}
+|48 Hours
+|A rare Dragon Orb.<br>Found in Lottery, Explorations, and quests.<br>Summons Dragon of Fulfillment.
+|}
+
+==== Food ====
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+|-
+!Name
+!Food Amount
+!Source
+|-
+|{{RewardIconWithText|Assam Milk Tea}}||+20||[[Bharata]] Exploration
+|-
+|{{RewardIconWithText|Bean}}||+15||[[Cathay]] Exploration
+|-
+|{{RewardIconWithText|Big Plate Chicken Burger}}||+20||[[Clown Express]]
+|-
+|{{RewardIconWithText|Buddha's Temptation Burger}}||+20||[[Clown Express]]
+|-
+|{{RewardIconWithText|Charcoal-Roasted Camel}}||+15||[[Parsia]] Exploration
+|-
+|{{RewardIconWithText|Chinese Burger}}||+50||?
+|-
+|{{RewardIconWithText|Crabby Burger}}||+50k||[[Bibini Bottom]] in [[Britland]] Exploration
+|-
+|{{RewardIconWithText|Crow Sashimi}}||+1000||Above the Vending Machine in the [[Home Base]]
+|-
+|{{RewardIconWithText|Darjeeling Tea}}||+20||[[Britland]] Exploration
+|-
+|{{RewardIconWithText|Date Fruit}}||+10||[[Parsia]] Exploration
+|-
+|{{RewardIconWithText|Donkey Burger}}||+50||?
+|-
+|{{RewardIconWithText|Dorayaki}}||+25||[[Yamato]] Exploration
+|-
+|{{RewardIconWithText|Du Kang Wine}}||+15||[[Cathay]] Exploration
+|-
+|{{RewardIconWithText|Elephant's Meat}}||+1200/+2000||[[Home_Base#The_Gene_Room|Fridge]]
+|-
+|{{RewardIconWithText|Energy Pill}}||+60||?
+|-
+|{{RewardIconWithText|Escargot}}||+1000||[[Vending Machine]]
+|-
+|{{RewardIconWithText|Fish and Chips}}||+20||[[Britland]] Exploration
+|-
+|{{RewardIconWithText|Fish Cake}}||+30||[[Koryeo]] Exploration
+|-
+|{{RewardIconWithText|Freaked Fish}}||+10||[[Kemet]] Exploration
+|-
+|{{RewardIconWithText|Fungus}}||+50||[[Fungus Farm]]
+|-
+|{{RewardIconWithText|Giraffe's Meat}}||+1200||[[Home_Base#The_Gene_Room|Fridge]]
+|-
+|{{RewardIconWithText|Hamburger}}||+20||[[Murika]] Exploration
+|-
+|{{RewardIconWithText|Hamster Pistachios}}||+15||[[Parsia]] Exploration
+|-
+|{{RewardIconWithText|Koryeon BBQ}}||+40||[[Koryeo]] Exploration
+|-
+|{{RewardIconWithText|Kushari}}||+15||[[Kemet]] Exploration
+|-
+|{{RewardIconWithText|Lamb Paomo Burger}}||+20||[[Clown Express]]
+|-
+|{{RewardIconWithText|Moussaka}}||+25||[[Hellas]] Exploration
+|-
+|{{RewardIconWithText|Nutrient Paste}}||+40||[[Time Rift]] Exploration
+|-
+|{{RewardIconWithText|Oden}}||+45||[[Yamato]] Exploration
+|-
+|{{RewardIconWithText|Olive}}||+20||[[Hellas]] Exploration
+|-
+|{{RewardIconWithText|Parsian Tea}}||+5||[[Parsia]] Exploration
+|-
+|{{RewardIconWithText|Peanut}}||+40||[[Murika]] Exploration
+|-
+|{{RewardIconWithText|Pear}}||+20||[[Cathay]] Exploration
+|-
+|{{RewardIconWithText|Pie from Heaven}}||+1000||[[Altar#Offerings_and_Divine_Chests|Offering Reward]]<br>[[Hellas]] Exploration
+|-
+|{{RewardIconWithText|Pomegranate Braised Fowl}}||+10||[[Parsia]] Exploration
+|-
+|{{RewardIconWithText|Red Fruit}}||+1000||Lying in front of the [[Garage]]
+|-
+|{{RewardIconWithText|Rice and Curry}}||+30||[[Bharata]] Exploration
+|-
+|{{RewardIconWithText|Roast Pigeon}}||+20||[[Kemet]] Exploration
+|-
+|{{RewardIconWithText|Saffron Ice Cream}}||+5||[[Parsia]] Exploration
+|-
+|{{RewardIconWithText|Shrimp Cracker}}||+50||[[Chore Dispatch]]
+|-
+|{{RewardIconWithText|Sichuan Beef}}||+50||[[Cathay]] Exploration
+|-
+|{{RewardIconWithText|Snail Ramen}}||+60||[[Chore Dispatch]]
+|-
+|{{RewardIconWithText|Souvlaki}}||+15||[[Hellas]] Exploration
+|-
+|{{RewardIconWithText|Soybean Paste Stew}}||+50||Shelf above the [[Terminal]]
+|-
+|{{RewardIconWithText|Spicy Cabbage}}||+20||[[Chore Dispatch]]<br>[[Koryeo]] Exploration
+|-
+|{{RewardIconWithText|Spicy Ducks Blood Burger}}||+20||[[Clown Express]]
+|-
+|{{RewardIconWithText|Spicy Lung Pieces Burger}}||+20||[[Clown Express]]
+|-
+|{{RewardIconWithText|Stargazy Pie}}||+20||[[Britland]] Exploration
+|-
+|{{RewardIconWithText|Stinky Tofu Burger}}||+20||[[Clown Express]]
+|-
+|{{RewardIconWithText|Sushi}}||+40||[[Yamato]] Exploration
+|-
+|{{RewardIconWithText|Sweet Potato}}||+30||[[Murika]] Exploration
+|-
+|{{RewardIconWithText|Takoyaki}}||+50||?
+|-
+|{{RewardIconWithText|Tandoori Chicken}}||+15||[[Bharata]] Exploration
+|-
+|{{RewardIconWithText|Uchi Matcha}}||+35||[[Yamato]] Exploration
+|-
+|{{RewardIconWithText|Yangzhou Fried Rice}}||+50||[[Cathay]] Exploration
+|}
+
+== Resource ==
+
+==== Speedups ====
+{| class="wikitable"
+!Name
+!Use
+!Source
+|-
+|{{RewardIconWithText|Travel Speedup}}
+|Use to speed up Snail's Exploration
+|Museum Medal, 
+|-
+|{{RewardIconWithText|Offering Speedup}}
+|Use to speed up Offering
+|Vending Machine, Time Chest, Chores
+|-
+|{{RewardIconWithText|Gene Speedup}}
+|Use to speed up DNA Research
+|Vending Machine, Punch Pts, Time Chest
+|-
+|{{RewardIconWithText|Clone Speedup}}
+|Use to speed up Minion Reproduction and Healing
+|Time Chest, Domain Cabin, Chores
+|-
+|{{RewardIconWithText|Refine Speedup}}
+|At the Wormhole device, use to speed up Refining
+|Time Chest, Species War Cabin, Chores
+|-
+|{{RewardIconWithText|Chore Speedup}}
+|At the Nursery, use to speed up Chore Dispatch
+|Chores
+|}
+
+== Special ==
+===Wonder Fungi===
+These highly nutritious fungi are cultivated in a special way. Eating them will permanently boost your stats. But fungus intake is limited per day!
+
+Obtained from Fungus Farm and Fungus Chests.
+
+Bonus Stat requirement increases each time you reach it. The tiers are 20/50/120/250/500
+
+{| class="wikitable"
+!Name
+!Stat Increase
+!Bonus Stat Increase
+|-
+|align=center|[[File:Orange Fungi.png|frameless|50x50px|center]]Orange Fungi
+|align=center|+5
+|align=center|Per x Orange Fungi eaten, Leadership +10
+|-
+|align=center|[[File:Purple Fungi.png|frameless|50x50px|center]]Purple Fungi
+|align=center|+3
+|align=center|Per x Purple Fungi eaten, Research SPD +0.6%
+|-
+|align=center|[[File:Blue Fungi.png|frameless|50x50px|center]]Blue Fungi
+|align=center|+2
+|align=center|Per x Blue Fungi eaten, Meal Box Cap +500
+|-
+|align=center|[[File:Green Fungi.png|frameless|50x50px|center]]Green Fungi
+|align=center|+1
+|align=center|None
+|}
+
+=== Other ===
+{| class="wikitable"
+!Name
+!Contents
+!Source
+|-
+|{{RewardIconWithText|Animal Cart}}
+|
+* {{RewardIconWithText|B-Tad, +5k}}
+* {{RewardIconWithText|Travel Speedup, +2h}}
+|[[Hitmen|Hitman No. 12]]
+
+|-
+|{{RewardIconWithText|Battle Memory Card}}
+|Gain an additional battle profile for [[Gear]], [[Realm Traits]], and Exploration Compass.
+|[[Value_Packs#Power_Value_Pack|Power Value Pack]]
+
+|-
+|{{RewardIconWithText|Colorful Fungi}}
+|Unlocks Fungi Crafting
+|[[Value_Packs#Power_Value_Pack|Power Value Pack]]
+
+|-
+|{{RewardIconWithText|Fungus Lunch Box}}
+|All Wonder Fungi daily intake limit +1
+|[[Value_Packs#Power_Value_Pack|Power Value Pack]]
+
+|-
+|{{RewardIconWithText|Guanyin Tea}}
+|{{RewardIconWithText|Meal Box Size}} +200
+|[[Ghost Zadako]]
+
+|-
+|{{RewardIconWithText|Legal Documents}}
+|
+* {{RewardIconWithLink|Novice Scroll, +10|blue}}
+* {{RewardIconWithLink|Expert Scroll, +10|purple}}
+* {{RewardIconWithLink|Master Scroll, +10|orange}}
+|[[Hitmen|Hitman No. 11]]
+
+|-
+|{{RewardIconWithText|Musashi's Legacy}}
+| ?
+|Using {{RewardIconWithText|Travel Speedup}}s in [[Yamato]].
+
+|-
+|{{RewardIconWithText|Psychic Fungus Set}}
+|
+Gives increases to Fungus buff caps that vary by Power Bonus level
+* HP-Fungus buff cap increase
+* ATK-Fungus buff cap increase
+* DEF-Fungus buff cap increase
+* RUSH-Fungus buff cap increase
+|Power Bonus
+
+|-
+|{{RewardIconWithText|Rainbow Fungus Set}}
+|
+Gives increases to Fungus buff caps that vary by Power Bonus level
+* FAME-Fungus buff cap increase
+* ART-Fungus buff cap increase
+* FTH-Fungus buff cap increase
+* CIV-Fungus buff cap increase
+* TECH-Fungus buff cap increase
+|Power Bonus
+
+|-
+|{{RewardIconWithText|Taichi Chest}}
+| ?
+|Using {{RewardIconWithText|Travel Speedup}}s in [[Koryeo]].
+
+|}

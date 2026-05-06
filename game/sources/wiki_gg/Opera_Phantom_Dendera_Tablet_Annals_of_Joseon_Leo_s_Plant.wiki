@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=61
+|relics=Opera Phantom,Dendera Tablet,Annals of Joseon,Leo's Plant
+|rank=blue
+|amount=4
+|category=self
+|description=Snail ATK +70
+}}

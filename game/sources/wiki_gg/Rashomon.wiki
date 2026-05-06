@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Rashomon
+|class_id=22185
+|rank=AAA
+|affct=CIV
+|birthday=06-13
+|source=
+|description=On Jun 13, 1915 AD, Japanese writer Ryunosuke wrote the famous Rashomon.<br>The plot originates from a Japanese tale. One day, a servant was waiting for the rain to stop when he saw an old woman pulling hair from a pile of corpses. The servant cursed at the old woman, calling her inhumane for going after the dead. The old woman defended herself by arguing that the deceased, while alive, sold snake meat as fish meat for the sake of his livelihood. Was she so wrong for trying to survive? The servant found the argument compelling, so he knocked the old woman unconscious, stole her hood and clothes, and fled. It depicts how an ordinary person might descend into depravity out of pure selfishness.
+|fame=52
+|art=43
+|fth=42
+|civ=71
+|tech=35
+|ss1=Refining gives +1 Wormhole Refiner by +3%<br>Per 30 Wormhole Refiners opened, Snail ATK +3<br>1500/1500 Wormhole Refiner opened
+|ss2=Refining gives +1 Wormhole Refiner by +4%<br>Per 30 Wormhole Refiners opened, Snail ATK +4<br>1500/1500 Wormhole Refiner opened
+|ss3=Refining gives +1 Wormhole Refiner by +5%<br>Per 30 Wormhole Refiners opened, Snail ATK +5<br>1500/1500 Wormhole Refiner opened
+|ss4=Refining gives +1 Wormhole Refiner by +7%<br>Per 30 Wormhole Refiners opened, Snail ATK +7<br>1500/1500 Wormhole Refiner opened
+|ss5=Refining gives +1 Wormhole Refiner by +9%<br>Per 30 Wormhole Refiners opened, Snail ATK +9<br>1500/1500 Wormhole Refiner opened
+|ss7=Refining gives +1 Wormhole Refiner by +9%<br>Per 30 Wormhole Refiners opened, Snail ATK +9<br>1500/1500 Wormhole Refiner opened<br>Refining gives +1 Wormhole Refiner by +7% (Awakened)
+|skill1=[[File:Yamato skill II.png|50px]]Place in Yamato Museum: In Yamato, 2x Blue Card Drops +7.5%
+|skill2=[[File:Yamato skill II.png|50px]]Place in Yamato Museum: In Yamato, 2x Blue Reagent Drops +7.5%
+}}

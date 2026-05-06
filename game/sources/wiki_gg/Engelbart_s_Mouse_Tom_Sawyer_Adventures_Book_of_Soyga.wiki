@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=352
+|relics=Engelbart's Mouse,Tom Sawyer Adventures,Book of Soyga
+|rank=blue
+|amount=3
+|category=self
+|description=Per 30 Tool Chests opened, Snail DEF +6;Tool Chests Opened: 1500/1500
+}}

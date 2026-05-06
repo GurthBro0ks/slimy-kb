@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Plague Apostle Sigma
+|rank=red
+|cabin=1
+|id=1008
+|gene1={race} HARD +50
+|gene2={race} AFFCT +50
+|gene3=Resolver: W-tads extracted +15
+|gene4=Per 60 Minions in battle:
+> Troop Fire DMG +6
+|gene5=Zombie Gene Research SPD +0.6%
+|gene6=Per 60 Minions in battle:
+> Troop Fire DMG +10
+|gene7=Zombie Gene Research SPD +1%
+|}}

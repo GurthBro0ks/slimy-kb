@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Les Misérables
+|class_id=22868
+|rank=SSS
+|affct=CIV
+|source=
+|description=The protagonist of the story, Valjean, is a convict sentenced to 19 years for stealing bread. After his release, he reforms with the help of a kind bishop, becoming a successful factory owner and mayor of a small town. He helps a similarly unfortunate prostitute, Fantine, and takes on the responsibility of caring for her illegitimate daughter, Cosette. However, his past continues to haunt him, intertwining Valjean's fate with the turmoil of French society...
+|fame=76
+|art=68
+|fth=54
+|civ=108
+|tech=56
+|ss1=All minion skins DEF +10%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +300<br>prop@53200_2<br>Species War Tech Pts: 80000/80000
+|ss2=All minion skins DEF +20%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +400<br>prop@53200_2<br>Species War Tech Pts: 80000/80000
+|ss3=All minion skins DEF +30%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +500<br>prop@53200_2<br>Species War Tech Pts: 80000/80000
+|ss4=All minion skins DEF +50%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +700<br>prop@53200_2<br>Species War Tech Pts: 80000/80000
+|ss5=All minion skins DEF +70%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +900<br>prop@53200_2<br>Species War Tech Pts: 80000/80000
+|ss6=All minion skins DEF +100%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>prop@53200_2<br>Species War Tech Pts: 80000/80000
+|ss7=All minion skins DEF +100%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>prop@53200_2<br>Species War Tech Pts: 80000/80000<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1000 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+}}

@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Razor Horn
+|type=Bionic
+|rank=blue
+|id=10655
+|idx=12
+|description=Inscribed rule: When in doubt, choose the pointy one, so you can earn more points in a test.
+|skill=Summon a Sharp Horn, dealing DMG equal to 154% of ATK!
+|hp=1010
+|def=71
+|atk=84
+|rush=161
+|gene1=In explorations, 2x Blue Reagent Drops +2%
+|gene2=In explorations, {race} RUSH +20
+|gene3=In explorations, Ignore DEF +1%
+|gene7=In explorations, 2x Blue Reagent Drops +2% (Awakened)
+|}}

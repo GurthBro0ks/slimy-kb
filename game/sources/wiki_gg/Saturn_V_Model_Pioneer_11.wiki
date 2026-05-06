@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=712
+|relics=Saturn V Model,Pioneer 11
+|rank=orange
+|amount=2
+|category=self
+|description=Per Godhood LVL, Snail DEF +42;Godhood LVL: 10/10
+}}

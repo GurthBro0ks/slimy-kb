@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Draupnir
+|class_id=22850
+|rank=SSS
+|affct=FAITH
+|source=
+|description=Draupnir, forged by the dwarf brothers Sindri and Brokkr as a token of gratitude for the wisdom bestowed by Odin. This ring possesses an extraordinary trait: every nine days, it replicates itself, producing eight identical gold rings from its center. This magical artifact was ultimately placed as a grave good on the funeral pyre of Odin's son, Baldr. Even in the afterlife, Draupnir's regenerative power continues to function, symbolizing the eternal cycle of life and wealth.
+|fame=61
+|art=77
+|fth=109
+|civ=49
+|tech=66
+|ss1=Angel Minion ATK +3%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +30<br>Per FTH Bionic Part extracted, Snail ATK +15<br>FTH Bionic Part Extracted: 10/10
+|ss2=Angel Minion ATK +4%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +40<br>Per FTH Bionic Part extracted, Snail ATK +20<br>FTH Bionic Part Extracted: 10/10
+|ss3=Angel Minion ATK +5%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +50<br>Per FTH Bionic Part extracted, Snail ATK +25<br>FTH Bionic Part Extracted: 10/10
+|ss4=Angel Minion ATK +7%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +70<br>Per FTH Bionic Part extracted, Snail ATK +35<br>FTH Bionic Part Extracted: 10/10
+|ss5=Angel Minion ATK +9%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +90<br>Per FTH Bionic Part extracted, Snail ATK +45<br>FTH Bionic Part Extracted: 10/10
+|ss6=Angel Minion ATK +12%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Per FTH Bionic Part extracted, Snail ATK +60<br>FTH Bionic Part Extracted: 10/10
+|ss7=Angel Minion ATK +12%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Per FTH Bionic Part extracted, Snail ATK +60<br>FTH Bionic Part Extracted: 10/10<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x White Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|mirage={{Mirage|name=dungeon@22850_1|reward={{RewardIconWithLink|Orange Brand Case, +100|orange}}
+|3name=Giallar|3rec=247.87M|3atk=677782|3defense=385560|3hp=94853193|3weak=59150
+|4name=dungeon_event@4437_1|4rec=318.03M|4atk=790664|4defense=448679|4hp=145307074|4weak=64048
+|5name=dungeon_event@4438_1|5rec=424.56M|5atk=964085|5defense=544519|5hp=263064903|5weak=70708
+|6name=Gungnir|6rec=558.08M|6atk=1193845|6defense=664645|6hp=464369203|6weak=78204
+|Arec=741.60M|Aatk=1696136|Adefense=844875|Ahp=756251283|Aweak=87568
+}}}}

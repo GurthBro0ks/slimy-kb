@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Leaf Award
+|class_id=20135
+|rank=Green
+|affct=CIV
+|source=
+|description=The trophy awarded for the highest prize of the Cennes International Film Festival is a Golden Leaf Award. The crystal trophy base weighs 1 kilogram, and the olive branch and the leaves are made of gold. With a total weight of 118 grams, it is worth tens of thousands of euros.
+|fame=18
+|art=13
+|fth=12
+|civ=29
+|tech=16
+|ss1=Finish All Daily Tasks 7 times, Snail RUSH +1<br>All Daily Tasks Completed: 364/364
+|ss2=Finish All Daily Tasks 7 times, Snail RUSH +2<br>All Daily Tasks Completed: 364/364
+|ss3=Finish All Daily Tasks 7 times, Snail RUSH +3<br>All Daily Tasks Completed: 364/364
+|ss4=Finish All Daily Tasks 7 times, Snail RUSH +3<br>All Daily Tasks Completed: 364/364
+|ss7=Finish All Daily Tasks 7 times, Snail RUSH +3<br>All Daily Tasks Completed: 364/364<br> (Awakened)
+}}

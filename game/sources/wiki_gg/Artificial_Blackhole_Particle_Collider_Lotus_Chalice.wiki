@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Artificial Blackhole,Particle Collider,Lotus Chalice
+|rank=orange
+|amount=3
+|category=home
+|description=Time Machine Travel Speedup Output +16%
+}}
+[[Category:Home]]

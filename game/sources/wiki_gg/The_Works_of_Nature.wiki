@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Works of Nature
+|class_id=22345
+|rank=SSS
+|affct=TECH
+|birthday=05-05
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On May 5, 1725 AD, Chen Menglei included the entire book in the Imperial Encyclopaedia.<br>The Works of Nature, compiled by the Ming dynasty scientist Song Yingxing, is an 18-chapter book documenting agricultural and handicraft technologies such as mechanisms, bricks, ceramics, salt production, and gunpowder. It is a testament to the achievements of ancient Chinese industrial technologies and is regarded by scholars as the Chinese technical encyclopedia of the 17th century.
+|fame=64
+|art=58
+|fth=76
+|civ=58
+|tech=106
+|ss1=All Rocket Cabin production +0.9%<br>Per 800 TECH, Snail ATK +3<br>Per 800 TECH, Snail DEF +3<br>TECH: 40000/40000
+|ss2=All Rocket Cabin production +1.2%<br>Per 800 TECH, Snail ATK +4<br>Per 800 TECH, Snail DEF +4<br>TECH: 40000/40000
+|ss3=All Rocket Cabin production +1.5%<br>Per 800 TECH, Snail ATK +5<br>Per 800 TECH, Snail DEF +5<br>TECH: 40000/40000
+|ss4=All Rocket Cabin production +2.1%<br>Per 800 TECH, Snail ATK +7<br>Per 800 TECH, Snail DEF +7<br>TECH: 40000/40000
+|ss5=All Rocket Cabin production +2.7%<br>Per 800 TECH, Snail ATK +9<br>Per 800 TECH, Snail DEF +9<br>TECH: 40000/40000
+|ss6=All Rocket Cabin production +3.6%<br>Per 800 TECH, Snail ATK +12<br>Per 800 TECH, Snail DEF +12<br>TECH: 40000/40000
+|ss7=All Rocket Cabin production +3.6%<br>Per 800 TECH, Snail ATK +12<br>Per 800 TECH, Snail DEF +12<br>TECH: 40000/40000<br>All Rocket Cabin production +3% (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail RUSH +600
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Angel Cells gained +30%
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x Purple Card Drops +15%
+|mirage={{Mirage|name=Hundreds of Technologies|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Treadmill|3rec=23.91M|3atk=116216|3defense=77532|3hp=3864101|3weak=18360
+|4name=Noria|4rec=34.40M|4atk=138341|4defense=92293|4hp=5382175|4weak=19382
+|5name=Chinese Ancient Loom|5rec=46.28M|5atk=163403|5defense=109012|5hp=7302357|5weak=21013
+|6name=Wooden Bellow|6rec=59.57M|6atk=191414|6defense=127700|6hp=9644219|6weak=23686
+|Arec=73.91M|Aatk=221667|Adefense=147882|Ahp=12517895|Aweak=29478
+}}}}

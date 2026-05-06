@@ -1,0 +1,245 @@
+{{Missing Info|specifics=}}
+
+= Interstellar Travel =
+Interstellar travel can be found in the [[Nebula]].
+
+You can assemble {{RewardIconWithLink|Drone}}s at the cost of 1 {{RewardIconWithLink|Drone Core}}, 30 {{RewardIconWithLink|Quantum Gel}}, and 3k {{RewardIconWithText|B-Tad}}. Then you can send these drones to explore galaxies that you have activated.
+
+= Alpha Galaxy =
+Each visit costs 1 {{RewardIconWithLink|Drone}}. (Characters are based on Starcraft)
+
+== Faction 1 - Top Left ==
+{| class="wikitable"
+!Visitor Name
+!How to Unlock
+!Stats per Visit
+!Max Visits
+!Request
+!Reward
+|-
+|Swarm Engineer||Available at Start||FTH +3 and FAME +3||30||200 {{RewardIconWithLink|Green Organ Slime|green}}||{{RewardIconWithLink|Gear Chest, +400}}<br>{{RewardIconWithText|W-Tad, +1k}}
+|-
+|Ranger Leader||Max 1 Constellation||CIV +6 and TECH +6||5||50k {{RewardIconWithText|B-Tad}}||{{RewardIconWithLink|Singularity Crystal, +1|orange}}<br>{{RewardIconWithLink|Organ Chest, +400}}
+|-
+|Escalator/Usurper||Available at Start||FTH +3 and ART +3||20||[[#Snail_Fights|Snail Fight]]||{{RewardIconWithLink|AR2-T1, +10|green}}<br>{{RewardIconWithText|Gene Speedup, +12h}}
+|}
+
+== Faction 2 - Top Right ==
+{| class="wikitable"
+!Visitor Name
+!How to Unlock
+!Stats per Visit
+!Max Visits
+!Request
+!Reward
+|-
+|Ghost Agent||Available at Start||CIV +3 and TECH +3||10||TECH 11,990||{{RewardIconWithText|Gene Speedup, +8h}}<br>{{RewardIconWithLink|Tool Chest, +400}}
+|-
+|Imperial General||Available at Start||CIV +3 and TECH +3||20||[[#Snail_Fights|Snail Fight]]||{{RewardIconWithLink|AR2-T1, +5|green}}<br>{{RewardIconWithText|Gene Speedup, +8h}}
+|-
+|Star Samurai/<br>Knight of Devotion||Available at Start||FTH +3 and ART +3||10||FTH 12,380||{{RewardIconWithLink|Star Coin, +2k}}<br>{{RewardIconWithText|Travel Speedup, +12h}}
+|}
+
+== Faction 3 - Bottom ==
+{| class="wikitable"
+!Visitor Name
+!How to Unlock
+!Stats per Visit
+!Max Visits
+!Request
+!Reward
+|-
+|Swarm Strategist||Max 3 Constellations||FTH +6 and FAME +6||5||Display 4-Star {{RewardIconWithLink|Double Helix DNA|orange}}||{{RewardIconWithLink|Singularity Crystal, +1|orange}}<br>{{RewardIconWithLink|AR2-T1, +15|green}}
+|-
+|Dark Bishop||Max 2 Constellations||FTH +6 and ART +6||5||10 {{RewardIconWithText|Orange Reagent}}||{{RewardIconWithLink|Singularity Crystal, +1|orange}}<br>{{RewardIconWithLink|Soul Chest, +400}}
+|-
+|Swarm Queen||Available at Start||FTH +3 and FAME +3||20||[[#Snail_Fights|Snail Fight]]||{{RewardIconWithLink|Evolution Chest, +400}}<br>{{RewardIconWithText|W-Tad, +1k}}
+|}
+
+== Center ==
+
+After you communicate with all the other characters in the galaxy and complete their requests, you'll unlock the center of the galaxy. After you send 2 drones to visit the center of the galaxy you will receive the {{RewardIconWithLink|Spectral Prism|green}}.
+
+= Beta Galaxy =
+Each visit costs 2 {{RewardIconWithLink|Drone}}. (Characters are based on Star Wars)
+
+== Faction 1 - Top ==
+{| class="wikitable"
+!Visitor Name
+!How to Unlock
+!Stats per Visit
+!Max Visits
+!Request
+!Reward
+|-
+|Galactic Council Secretary||Max 4 Constellations||CIV +9 and FTH +9||10||Display 6 Star {{RewardIconWithLink|Encyclopedia|orange}}||{{RewardIconWithLink|Singularity Crystal, +1|orange}}<br>{{RewardIconWithLink|Time Chest, +400}}
+|-
+|Lizardman Gunslinger||Available at Start||TECH +6 and FAME +6||60||[[#Snail_Fights|Snail Fight]]||{{RewardIconWithText|W-Tad, +1.5k}}<br>{{RewardIconWithLink|Wish Coin, 5|orange}}
+|-
+|Desert Planet Senator||Available at Start||CIV +6 and TECH +6||30||[None]||{{RewardIconWithLink|Organ Chest, +500}}<br>{{RewardIconWithLink|Star Coin, +3k}}
+|}
+
+== Faction 2 - Left ==
+{| class="wikitable"
+!Visitor Name
+!How to Unlock
+!Stats per Visit
+!Max Visits
+!Request
+!Reward
+|-
+|Deepsea Planet Senator||Available at Start||CIV +6 and TECH +6||15||FAME 17,840||{{RewardIconWithLink|Time Chest, +500}}<br>{{RewardIconWithLink|Star Coin, +2k}}
+|-
+|Lanternfish Cowboy||Available at Start||TECH +6 and FAME +6||30||[None]||{{RewardIconWithText|W-Tad, +1k}}<br>{{RewardIconWithLink|Lottery Ticket, +10|orange}}
+|-
+|Witch Overseer||Max 6 Constellations||FTH +9 and ART +9||10||[[#Snail_Fights|Snail Fight]]||{{RewardIconWithLink|Master Alchemy Case, +10|orange}}<br>{{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|}
+
+== Faction 3 - Right ==
+{| class="wikitable"
+!Visitor Name
+!How to Unlock
+!Stats per Visit
+!Max Visits
+!Request
+!Reward
+|-
+|Galaxy Profiteer||Max 5 Constellations||CIV +9 and FTH +9||10||500 {{RewardIconWithText|W-Tad}}||{{RewardIconWithLink|Singularity Crystal, +1|orange}}<br>{{RewardIconWithLink|AR2-T1, +20|green}}
+|-
+|Night Witch||Max 6 Constellations||FTH +9 and ART +9||20||15 {{RewardIcon|8h Soul Red}}{{Retext|Soul of Charisnake (8h)|red}}||{{RewardIconWithLink|Singularity Crystal, +1|orange}}<br>{{RewardIconWithLink|AR2-T1, +25|green}}
+|-
+|Sharkman Centurion||Available at Start||FAME +6 and ART +6||60||[[#Snail_Fights|Snail Fight]]||{{RewardIconWithLink|Gear Chest, +400}}<br>{{RewardIconWithLink|Nebula Chest, +200}}
+|}
+
+== Faction 4 - Bottom ==
+{| class="wikitable"
+!Visitor Name
+!How to Unlock
+!Stats per Visit
+!Max Visits
+!Request
+!Reward
+|-
+|Star Alliance Commander||Max 5 Constellations||CIV +9 and FTH +9||20||[[#Snail_Fights|Snail Fight]]||{{RewardIconWithLink|Singularity Crystal, +1|orange}}<br>{{RewardIconWithLink|Nebula Chest, +400}}
+|-
+|Jungle Planet Senator||Available at Start||CIV +6 and FTH +6||60||100 {{RewardIconWithLink|Toner}}||{{RewardIconWithLink|Organ Chest, +500}}<br>{{RewardIconWithLink|Star Coin, +4k}}
+|-
+|Mecha Planet Lord||Available at Start||FAME +6 and ART +6||30||Display relic with >103 TECH||{{RewardIconWithLink|Nebula Chest, +200}}<br>{{RewardIconWithLink|AR2-T1, +15|green}}
+|}
+
+= Gamma Galaxy =
+Each visit costs 3 {{RewardIconWithLink|Drone}}. (Characters are based on ?)
+
+== Faction 1 - Top ==
+{| class="wikitable"
+!Visitor Name
+!How to Unlock
+!Stats per Visit
+!Max Visits
+!Request
+!Reward
+|-
+|?||Max 10 Constellations||?||?||?||?
+|-
+|Mecha Beetle||Available at Start||TECH +9 and FTH +9||80||[[#Snail_Fights|Snail Fight]]||{{RewardIconWithLink|Gear Chest, +400}}<br>{{RewardIconWithLink|AR2-T1, +15|green}}
+|-
+|Cursed Priest||Available at Start||FAME +9 and ART +9||50||[None]||{{RewardIconWithLink|Divine Order Chest, +200|yellow}}<br>{{RewardIconWithLink|AR2-T1, +15|green}}
+|}
+
+== Faction 2 - Left ==
+{| class="wikitable"
+!Visitor Name
+!How to Unlock
+!Stats per Visit
+!Max Visits
+!Request
+!Reward
+|-
+|?||Max 12 Constellations||?||?||?||?
+|-
+|Brute Warlord||Available at Start||CIV +9 and FTH +9||50||[[#Snail_Fights|Snail Fight]]||{{RewardIconWithLink|Gear Chest, +400}}<br>{{RewardIconWithLink|Divine Chaos Chest, +200}}
+|-
+|?||Max 11 Constellations||?||?||?||?
+|}
+
+== Faction 3 - Right ==
+{| class="wikitable"
+!Visitor Name
+!How to Unlock
+!Stats per Visit
+!Max Visits
+!Request
+!Reward
+|-
+|Void Prophet||Max 8 Constellations||CIV +12 and FAME +12||15||Display 4-Star {{RewardIconWithLink|Orphic Egg|orange}}||{{RewardIconWithLink|Singularity Crystal, +1|orange}}<br>{{RewardIconWithLink|Divine Order Chest|yellow}} +300
+|-
+|One-horned Golem||Available at Start||FAME +9 and ART +9||30||[[#Snail_Fights|Snail Fight]]||{{RewardIconWithLink|Divine Order Chest, +200|yellow}}<br>{{RewardIconWithLink|Nebula Chest, +200}}
+|-
+|Demon Scholar||Max 7 Constellations||FAME +12 and ART +12||?||?||?
+|}
+
+== Faction 4 - Bottom ==
+{| class="wikitable"
+!Visitor Name
+!How to Unlock
+!Stats per Visit
+!Max Visits
+!Request
+!Reward
+|-
+|?||Max 13 Constellations||?||?||?||?
+|-
+|Witch of War||Max 9 Constellations||CIV +12 and FTH +12||?||?||?
+|-
+|?||Max 14 Constellations||?||?||?||?
+|-
+|A creature ||Available at Start||TECH +9 and ART +9||80||[[#Snail_Fights|Snail Fight]]||{{RewardIconWithText|Travel Speedup, +6h}}<br>{{RewardIconWithLink|AR2-T1, +10|green}}
+|-
+|Star Essence||Available at Start||FAME +9 and ART +9||100||400 {{RewardIconWithLink|Green Organ Slime|green}}||{{RewardIconWithLink|Wish Coin, +10}}<br>{{RewardIconWithLink|Demon Chest, +300}}
+|-
+|Chaos Lord||Available at Start||CIV +9 and FAME +9||50||Display 33.5M Power||{{RewardIconWithLink|Divine Order Chest, +200|yellow}}<br>{{RewardIconWithLink|Organ Chest, +300}}
+|}
+
+= Snail Fights =
+{| class="wikitable"
+!Enemy
+!Location
+!ATK
+!DEF
+!HP
+!Weakness<br>(Total AFFCT)
+!Special Stats
+|-
+!colspan="8" |Alpha Galaxy
+|-
+|Escalator/Usurper||Top Left||55,863||37,111||754,231||63,150||HIT +60, Paralysis RES +60%
+|-
+|Imperial General||Top Right||47,908||30,349||527,517||59,250||HIT +60, Paralysis RES +60%
+|-
+|Swarm Queen||Bottom||87,490||58,121||1,310,819||64,700||HIT +60, Paralysis RES +60% 
+
+|-
+!colspan="8" |Beta Galaxy
+|-
+|Lizardman Gunslinger||Top||151,140||104,650||2,982,873||109,050||HIT +60, Paralysis RES +60%
+|-
+|Witch Overseer||Left||175,554||121,555||3,518,515||122,880||HIT +60, Paralysis RES +60%
+|-
+|Sharkman Centurion||Right||141,839||98,210||2,563,105||104,300||HIT +60, Paralysis RES +60%
+|-
+|Star Alliance Commander||Bottom||154,046||106,663||3,050,618||114,880||HIT +60, Paralysis RES +60%
+
+|-
+!colspan="8" |Gamma Galaxy
+|-
+|Mecha Beetle||Top||316,231||218,960||6,721,674||170,850||HIT +60, Paralysis RES +60%
+|-
+|Brute Warlord||Left||240,661||166,635||4,995,738||145,550||HIT +60, Paralysis RES +60%
+|-
+|One-horned Demon||Right||183,693||127,190||3,687,156||126,450||HIT +60, Paralysis RES +60%
+|-
+|Creature||Bottom||333,670||31,035||7,113,023||174,400||HIT +60, Paralysis RES +60%
+|-
+|}
+
+[[Category:Nebula]]

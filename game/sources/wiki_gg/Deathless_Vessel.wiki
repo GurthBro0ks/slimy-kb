@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=Deathless Vessel
+|type=Bionic
+|rank=red
+|id=10720
+|idx=78
+|description="Before the mountain of corpses, the Gate of the End slowly opened. A figure in pure white robes tore through the void. The heretics rejoiced in madness, chanting the prophecy of the world’s demise..."
+— Demon King's Revelation
+|skill=Before round start, mobilize all fighting spirit, causing the next attack to deal DMG equal to 220%, and increase this round's CRIT DMG by 50%!
+|hp=3490
+|def=296
+|atk=203
+|rush=222
+|gene1=Per Xenoking Organ implanted, {race} HP +420
+Xenoking Organs implanted: 7/7
+|gene2=Snail Arena, Healing +24%
+|gene3=Snail Arena, Water DMG +240
+|gene4=For Round 1, DMG +10%
+|gene5=Water DMG +120
+|gene6=Snail Arena, DMG REDUC +8%
+|gene7=Water DMG +6% (Awakened)
+|}}

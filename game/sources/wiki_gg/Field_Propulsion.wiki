@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Field Propulsion
+|class_id=22601
+|rank=AAA
+|affct=TECH
+|birthday=04-25
+|source=Lottery Machine No.3 (0.06%)
+|description=On Apr 25, 1998 AD, Roger Shawyer proposed a model for Field Propulsion.<br>A working substance, or working fluid, is used in traditional working fluid engines to achieve propulsion by burning fuel and ejecting the working fluid backward based on the law of conservation of momentum. A substanceless engine is different from traditional engines in that it does not require a working substance. Instead, it only needs to load microwaves inside the aircraft, which will create a pressure difference between the two opposite directions of the aircraft, thus obtaining forward thrust. Its theoretical basis violates the law of conservation of momentum and Newton's third law, but it does not violate the law of conservation of energy. To this day, there are no mature experiments that can verify this idea.
+|fame=45
+|art=38
+|fth=47
+|civ=40
+|tech=73
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop DEF +12<br>Per 2 fully unlocked Tactical Logs, Snail ATK +3<br>Tactical Logs unlocked: 100/100
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop DEF +16<br>Per 2 fully unlocked Tactical Logs, Snail ATK +4<br>Tactical Logs unlocked: 100/100
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop DEF +20<br>Per 2 fully unlocked Tactical Logs, Snail ATK +5<br>Tactical Logs unlocked: 100/100
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop DEF +28<br>Per 2 fully unlocked Tactical Logs, Snail ATK +7<br>Tactical Logs unlocked: 100/100
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop DEF +36<br>Per 2 fully unlocked Tactical Logs, Snail ATK +9<br>Tactical Logs unlocked: 100/100
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop DEF +36<br>Per 2 fully unlocked Tactical Logs, Snail ATK +9<br>Tactical Logs unlocked: 100/100<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +28 (Awakened)
+|skill1=[[File:Swampsanctum skill II.png|50px]]Place in Swamp Sanctum: This Relic's TECH +10
+|skill2=[[File:Swampsanctum skill II.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Cap +15%
+}}

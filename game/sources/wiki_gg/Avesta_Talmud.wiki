@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=501
+|relics=Avesta,Talmud
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Minions in battle: Troop Water RES +7
+}}

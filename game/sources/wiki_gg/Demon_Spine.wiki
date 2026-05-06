@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Demon Spine
+|type=Common
+|rank=purple
+|id=10842
+|idx=47
+|description=Even the powerful Demon Gods have to pay a heavy price against Earth's Will. The countless wounds on this spine are proofs of that gruesome battle.
+|skill=
+|hp=1070
+|def=213
+|atk=174
+|rush=137
+|gene1=In explorations, Zombie Cells gained +4%
+|gene2=In explorations, Demon Cells gained +4%
+|gene3=Demon God Cabin Output +5%
+|gene4={race} ATK +8 per Cell Furnace level-up
+Cell Furnace LVL upgraded: 20/20
+|gene7=Demon God Cabin Output +10% (Awakened)
+|}}

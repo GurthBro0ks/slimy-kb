@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Medicine Gourd
+|class_id=20451
+|rank=Green
+|affct=FAME
+|source=
+|description=This gourd is grown from an ancient and harsh method and requires a lot of profound energy to nurture. Once it is ripe, however, it will produce healing nectar that can replace conventional medicine, making it essential for anyone!
+|fame=29
+|art=19
+|fth=16
+|civ=13
+|tech=13
+|ss1=Minion Recovery SPD +0.5%
+|ss2=Minion Recovery SPD +1%
+|ss3=Minion Recovery SPD +1.5%
+|ss4=Minion Recovery SPD +1.5%
+|ss7=Minion Recovery SPD +1.5%<br> (Awakened)
+}}

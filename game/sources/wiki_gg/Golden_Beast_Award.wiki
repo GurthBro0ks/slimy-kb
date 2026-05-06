@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Beast Award
+|class_id=20415
+|rank=Green
+|affct=CIV
+|source=
+|description=Golden Beast Award is the Venice Film Festival's most prestigious award given to the best feature film. Usually, only one film could win this honor, though, in some years, it was awarded to two. Since its inception, most of the winners have been male European directors.
+|fame=16
+|art=14
+|fth=17
+|civ=31
+|tech=12
+|ss1=Per Hitman intercepted, Snail ATK +1<br>Hitmen Intercepted: 50/50
+|ss2=Per Hitman intercepted, Snail ATK +2<br>Hitmen Intercepted: 50/50
+|ss3=Per Hitman intercepted, Snail ATK +3<br>Hitmen Intercepted: 50/50
+|ss4=Per Hitman intercepted, Snail ATK +3<br>Hitmen Intercepted: 50/50
+|ss7=Per Hitman intercepted, Snail ATK +3<br>Hitmen Intercepted: 50/50<br> (Awakened)
+}}

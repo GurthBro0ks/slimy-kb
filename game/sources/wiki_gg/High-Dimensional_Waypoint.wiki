@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image=High-Dimensional_Waypoint.png
+|description=Snail Shell is crafted by an agent nicknamed the Observer, who also writes novels and receives tons of blades in the mail for it. Once a reader even delivered the blades themselves and explained how to use them.
+|affct=CIV
+|hard=ATK
+|source=
+{{Memetic Catalyst
+|number=13
+|relic1=Eye of Akamoddo
+|relic2=Da Vinci's Notes
+|relic3=Archimedes' Lever
+|relic4=1001 Nights
+|relic5=Maya Slate
+}}
+|color=orange
+|earth=10
+|water=10
+|fire=11
+|wind=11
+|form=Mutant
+|element=Wind
+|realm=Bharata
+|orangehard=DEF
+}}

@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Virgo
+|class_id=21936
+|rank=SSS
+|affct=FAITH
+|source=
+|description=As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:
+Golden blade, jeweled, gleaming in the night,
+Its radiant luster cuts through the twilight.
+|fame=58
+|art=66
+|fth=110
+|civ=77
+|tech=51
+|ss1=All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%
+|ss2=All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%
+|ss3=All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%
+|ss4=All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%
+|ss5=All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%
+|ss6=All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%
+|ss7=All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%<br>All Realm Spirit HARD Stats +5% (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Travel SPD +9%
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, B-tads gained +15%
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Cells collected +30%
+|mirage={{Mirage|name=Virgo Star|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Hegel|3rec=4.69M|3atk=54581|3defense=35938|3hp=864537|3weak=?
+|4name=Elizabeth I|4rec=8.81M|4atk=77187|4defense=50822|4hp=1553150|4weak=?
+|5name=Mozart|5rec=15.60M|5atk=104697|5defense=68935|5hp=2619985|5weak=?
+|6name=Louis XIV|6rec=32.94M|6atk=137066|6defense=90247|6hp=4170316|6weak=?
+|Arec=50.83M|Aatk=175281|Adefense=115410|Ahp=6570140|Aweak=?
+}}}}

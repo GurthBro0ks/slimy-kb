@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Licker's Tongue
+|type=Common
+|rank=blue
+|id=10813
+|idx=14
+|description="Fused with human and frog genes, Zombie Lickers can move swiftly even without sight. They hunt with their long tongues!"
+—BSAA Report
+|skill=
+|hp=942
+|def=95
+|atk=157
+|rush=71
+|gene1=When in Zombie Form:
+> Gain +2% Evo Chests in explorations
+|gene2=Earth RES +30
+|gene3=During exploration, ignore enemy DEF +100
+|gene7=When in Zombie Form:
+> Gain +2% Evo Chests in explorations (Awakened)
+|}}

@@ -1,0 +1,24 @@
+{{CargoRelic
+|name=Crazy Horse Memorial
+|class_id=22694
+|rank=SSS
+|affct=FAITH
+|birthday=09-07
+|source=
+|description=On Sep 7, 1900 AD, the American archaeologist Edgar dug up a clay tablet while excavating in Iraq.<br>The Princeton Clay Tablet is an artifact of the ancient Babylonian civilization, dating back to 1900 BC, and is currently housed in the Columbia University Library in the US. The tablet is inscribed with a mysterious matrix of numbers in four columns and fifteen rows, initially interpreted as related to commercial bookkeeping, but later confirmed to contain the principles of the Pythagorean theorem. Through in-depth investigation by mathematicians like Neugebauer, it was revealed to be connected to the rules of the sides of right-angled triangles, showcasing the ancient Babylonians' profound understanding and application of geometry. Their mathematical practices were far ahead of ancient Greece, marking a significant advance in the comprehension of the Pythagorean theorem.
+|fame=63
+|art=74
+|fth=107
+|civ=54
+|tech=64
+|ss1=All minion skins DEF +10%<br>Per 6 kinds of Souls offered, Snail ATK +3<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +24<br>Souls offered: 300/300 types
+|ss2=All minion skins DEF +20%<br>Per 6 kinds of Souls offered, Snail ATK +4<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +32<br>Souls offered: 300/300 types
+|ss3=All minion skins DEF +30%<br>Per 6 kinds of Souls offered, Snail ATK +5<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +40<br>Souls offered: 300/300 types
+|ss4=All minion skins DEF +50%<br>Per 6 kinds of Souls offered, Snail ATK +7<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +56<br>Souls offered: 300/300 types
+|ss5=All minion skins DEF +70%<br>Per 6 kinds of Souls offered, Snail ATK +9<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +72<br>Souls offered: 300/300 types
+|ss6=All minion skins DEF +100%<br>Per 6 kinds of Souls offered, Snail ATK +12<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +96<br>Souls offered: 300/300 types
+|ss7=All minion skins DEF +100%<br>Per 6 kinds of Souls offered, Snail ATK +12<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +96<br>Souls offered: 300/300 types<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: Medal Output +30
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Snail DEF +600
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: This Relic's FTH +15
+}}

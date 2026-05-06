@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Ultimate Neuron
+|type=Common
+|rank=red
+|id=10897
+|idx=108
+|description=The organ is obtained by infusing embryonic stem cells with the ultimate bionic part essence, having a leap in performance.
+|skill=
+|hp=1970
+|def=352
+|atk=243
+|rush=278
+|gene1=In explorations, B-tads gained +10%
+|gene2=In explorations, 2x Card Drops +8%
+|gene3=In explorations, DMG +10%
+|gene4=In explorations, DMG +20% in Round 1
+|gene5=Per Orange Coating crafted, gain +1 by +10%
+|gene6=All TECH Bionic Parts, ELMT RES +2%
+|gene7=In explorations, B-tads gained +10% (Awakened)
+|}}

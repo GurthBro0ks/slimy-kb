@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Celtic Cross
+|class_id=22451
+|rank=Blue
+|affct=FAITH
+|birthday=06-18
+|source=Lottery Machine No.3 (0.06%)
+|description=On Jun 18, 682 AD, a Celtic cross was erected by monks.<br>The Celtic Cross is a product of the combination of Celtic culture and Christianity. Compared with the traditional cross, the Celtic Cross adds a ring symbolizing eternal life at the intersection in the center, making the design very unique. According to Irish legends, this cross was invented by Saint Patrick, who preached in this land. He combined the cross in Christianity with the sun cross, a symbol of the region, to show people the importance of the cross.
+|fame=25
+|art=32
+|fth=47
+|civ=21
+|tech=29
+|ss1=Per 3 Prairie Protomon, Priest-Snail Assistance DMG +16<br>Prairie Protomon: 60/60
+|ss2=Per 3 Prairie Protomon, Priest-Snail Assistance DMG +32<br>Prairie Protomon: 60/60
+|ss3=Per 3 Prairie Protomon, Priest-Snail Assistance DMG +48<br>Prairie Protomon: 60/60
+|ss4=Per 3 Prairie Protomon, Priest-Snail Assistance DMG +80<br>Prairie Protomon: 60/60
+|ss7=Per 3 Prairie Protomon, Priest-Snail Assistance DMG +80<br>Prairie Protomon: 60/60<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, Troop Water DMG +10
+}}

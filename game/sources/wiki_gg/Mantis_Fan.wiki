@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Mantis Fan
+|class_id=20644
+|rank=Green
+|affct=ART
+|source=
+|description=A folding fan with steel ribs and concealed mechanisms, offering its bearer both elegance and security. Perfect for leisurely travels or duels with foes!
+|fame=13
+|art=29
+|fth=14
+|civ=18
+|tech=16
+|ss1=prop@55056_2<br>prop@55061_2
+|ss2=prop@55056_2<br>prop@55061_2
+|ss3=prop@55056_2<br>prop@55061_2
+|ss4=prop@55056_2<br>prop@55061_2
+|ss7=prop@55056_2<br>prop@55061_2<br> (Awakened)
+}}

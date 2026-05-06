@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=No. 23's Ball,Kapa's Camera
+|rank=purple
+|amount=2
+|category=self
+|description=Per 2k Relic Points, Snail RUSH +4<br>Relic Points: 60,000/60,000
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by Relic Points]]

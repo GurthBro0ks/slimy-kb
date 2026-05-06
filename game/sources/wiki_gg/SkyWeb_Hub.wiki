@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=SkyWeb Hub
+|rank=SS
+|affct=TECH
+|birthday=05-27
+|source=* Fragment Crafting (5.2%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), Super Treasure Maps (5%), TECH Master Scrolls (9.2%), Wishing (0.19%)
+* [[Koryeon Domain]] tile 53
+|description=On May 27, 1969 AD, SkyWeb Hub was invented and widely used in America.
+That day, the American Department of Defense officially launched a new type of network connection. All computers under military control joined and began to share information. In the next few years, the number of computers within this network grew exponentially, with billions of messages delivered at any moment. No one could have imagined that when the first network signal was sent out, it awakened a being that would go on to destroy humanity.
+|fame=67
+|art=63
+|fth=48
+|civ=64
+|tech=105
+|ss1=In Mecha Form, Travel SPD +0.4%<br>In explorations, Mecha Cells gained +2%<br>Per 5 Mecha Gene LVLs, Snail DEF +4<br>Mecha Gene LVLs Researched: 150/150
+|ss2=In Mecha Form, Travel SPD +0.6%<br>In explorations, Mecha Cells gained +3%<br>Per 5 Mecha Gene LVLs, Snail DEF +6<br>Mecha Gene LVLs Researched: 150/150
+|ss3=In Mecha Form, Travel SPD +0.8%<br>In explorations, Mecha Cells gained +4%<br>Per 5 Mecha Gene LVLs, Snail DEF +8<br>Mecha Gene LVLs Researched: 150/150
+|ss4=In Mecha Form, Travel SPD +1.2%<br>In explorations, Mecha Cells gained +6%<br>Per 5 Mecha Gene LVLs, Snail DEF +12<br>Mecha Gene LVLs Researched: 150/150
+|ss5=In Mecha Form, Travel SPD +1.6%<br>In explorations, Mecha Cells gained +8%<br>Per 5 Mecha Gene LVLs, Snail DEF +16<br>Mecha Gene LVLs Researched: 150/150
+|ss6=In Mecha Form, Travel SPD +2.2%<br>In explorations, Mecha Cells gained +11%<br>Per 5 Mecha Gene LVLs, Snail DEF +22<br>Mecha Gene LVLs Researched: 150/150
+|ss7=In Mecha Form, Travel SPD +2.2%<br>In explorations, Mecha Cells gained +11%<br>Per 5 Mecha Gene LVLs, Snail DEF +22<br>Mecha Gene LVLs Researched: 150/150<br>In explorations, Mecha Cells gained +10% (Awakened)
+|skill1=[[File:Timemachine skill III.png|50x50px]]Place in Time Machine: Time Machine Max Cap +30%
+|skill2=[[File:Timemachine skill III.png|50x50px]]Place in Time Machine: Generate Time Chests by +30%
+|skill3=[[File:Arena skill III.png|50x50px]]Place in Snail Arena Compass: In Snail Arena, Snail RUSH +600
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Travel Speed Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Mecha Cell Drop Boost]]
+[[Category:DEF Boost]]
+[[Category:Mecha Gene Boost]]
+[[Category:Time Machine Skill]]
+[[Category:Time Machine Output Boost]]
+[[Category:Time Chest Output]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:RUSH Boost]]
+[[Category:Mutant Gene Speedup Boost]]
+[[Category:Zombie Gene Speedup Boost]]

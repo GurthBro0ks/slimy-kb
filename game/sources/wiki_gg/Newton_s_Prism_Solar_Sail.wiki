@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=421
+|relics=Newton's Prism,Solar Sail
+|rank=purple
+|amount=2
+|category=self
+|description=Per 1.2k Gaia Tech Pts, Snail ATK +6;Gaia Tech Pts: 60000/60000
+}}

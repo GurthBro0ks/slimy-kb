@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Bunny Chef
+|class_id=20652
+|rank=Green
+|affct=ART
+|source=
+|description=Mad Hatter's culinary cousin - a white-gloved bunny chef in carrot-print apron, forever late for your dinner reservation!
+|fame=14
+|art=30
+|fth=19
+|civ=10
+|tech=18
+|ss1=Snail ATK +10<br>Per 5 Orange Fungi eaten, Snail HP +40<br>Orange Fungi Eaten: 50/50
+|ss2=Snail ATK +20<br>Per 5 Orange Fungi eaten, Snail HP +80<br>Orange Fungi Eaten: 50/50
+|ss3=Snail ATK +30<br>Per 5 Orange Fungi eaten, Snail HP +120<br>Orange Fungi Eaten: 50/50
+|ss4=Snail ATK +30<br>Per 5 Orange Fungi eaten, Snail HP +120<br>Orange Fungi Eaten: 50/50
+|ss7=Snail ATK +30<br>Per 5 Orange Fungi eaten, Snail HP +120<br>Orange Fungi Eaten: 50/50<br> (Awakened)
+}}

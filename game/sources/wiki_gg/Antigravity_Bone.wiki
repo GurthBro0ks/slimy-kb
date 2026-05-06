@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Antigravity Bone
+|type=Common
+|rank=purple
+|id=10840
+|idx=45
+|description=After 114, 514 failed attempts, the Rebel finally succeeded in creating a portable anti-gravity device. This bone is one of the first gear to apply the technology.
+|skill=
+|hp=1946
+|def=171
+|atk=142
+|rush=123
+|gene1=DMG REDUC +2%
+|gene2=CRIT DMG REDUC +5%
+|gene3=DMG REDUC +2%
+|gene4={race} RUSH +8 per Cell Furnace level-up
+Cell Furnace LVL upgraded: 20/20
+|gene7=CRIT DMG REDUC +5% (Awakened)
+|}}

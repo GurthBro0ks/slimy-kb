@@ -1,0 +1,208 @@
+==INTEL==
+There are two INTEL trees in Britland, each with 19 different skills. Each skill has between 1 and 3 levels. Initially, only one hex is available to upgrade in exchange for INTEL (gathered passively during exploration). To make any hex available, an adjacent hex must first be fully upgraded. Additionally, some hexes have a "release condition" required before it can be unlocked. Below is a list of all Britland INTEL.
+
+[[File:Britland INTEL 1.0.png|frameless|left]][[File:Britland INTEL 2.0.png|frameless]]
+
+
+* [[#Britland INTEL|Recommended Britland INTEL Upgrades]]
+
+* [[#Fleet Management|Recommended Fleet Management Upgrades]]
+
+
+
+==Britland INTEL==
+[[File:Britland INTEL 1.5.png|frameless|left]]
+
+'''Recommended Upgrade:''' Tiles 2 and 4 will increase DMG and SPD during exploration within Britland. Tile 5 will unlock more cards and therefore more rewards, and tile 9 unlocks Fleet Construction which should be done as soon as possible. 
+
+Tiles 6, 8, 11, and 13 will increase the NAV Coins obtained during exploration, which, if upgraded early on, will help a great deal in warship construction as it becomes more expensive later on and cut down on necessary explorations. 
+
+Of course, tiles 3, 7, 12, and 17 should be obtained as soon as the necessary apostles are defeated so more areas can be explored. Keep in mind that tile 14 is necessary for a later Key Clue, but it isn't a priority.
+
+
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|1||Britland Map||300||||Upon traveling through an area, gain +150 INTEL
+|-
+|rowspan="3"|2||rowspan="3"|Lord Protector||1200||||In Britland, DMG +10%<br>Per Britland Apostle dominated, Snail AFFCT +10<br>Britland Apostles Dominated: 10/10
+|-
+|2400||||In Britland, DMG +15%<br>Per Britland Apostle dominated, Snail AFFCT +15<br>Britland Apostles Dominated: 10/10
+|-
+|3600||||In Britland, DMG +20%<br>Per Britland Apostle dominated, Snail AFFCT +20<br>Britland Apostles Dominated: 10/10
+|-
+|3||Bernikam Apostle Clue||1200||Defeat [[Britland Apostles#Nessie|Nessie]]||Unlock area (Bernikam)<br>In Bernikam, INTEL gained +20%
+|-
+|rowspan="3"|4||rowspan="3"|Stephenson Gauge||1200||||In Britland, Travel SPD +5%<br>In Britland, AFFCT Checks -50
+|-
+|2400||||In Britland, Travel SPD +10%<br>In Britland, AFFCT Checks -100
+|-
+|3600||||In Britland, Travel SPD +15%<br>In Britland, AFFCT Checks -150
+|-
+|5||Plunder License||4800||||Unlock Special Cards
+|-
+|rowspan="3"|6||rowspan="3"|William I Mint||4800||||Upgrade 2 White Mint Cards to Green
+|-
+|9600||||Upgrade 2 Green Mint Cards to Blue
+|-
+|14400||||Upgrade 2 Blue Mint Cards to Purple
+|-
+|7||Southempton Apostle Clue||4800||Defeaty [[Britland Apostles#Neilson|Neilson]]||Unlock area (Southempton)<br>In Southempton, INTEL gained +20%
+|-
+|rowspan="3"|8||rowspan="3"|Henry VIII Mint||4800||||Upgrade 2 White Mint Cards to Green
+|-
+|9600||||Upgrade 2 Green Mint Cards to Blue
+|-
+|14400||||Upgrade 2 Blue Mint Cards to Purple
+|-
+|9||Royal Navy||4800||||Unlock Warship Construction<br>Obtain Caravel Blueprint
+|-
+|rowspan="3"|10||rowspan="3"|Enclosure Movement||12000||||Upon traveling through an area, gain Britland Treasure Maps by +10%
+|-
+|24000||||Upon traveling through an area, gain Britland Treasure Maps by +15%
+|-
+|36000||||Upon traveling through an area, gain Britland Treasure Maps by +20%
+|-
+|rowspan="3"|11||rowspan="3"|Victoria I Mint||12000||||Mint Grid drops +50% NAV Bronze Coins
+|-
+|24000||||Mint Grid drops +50% NAV Silver Coins
+|-
+|36000||||Mint Grid drops +50% NAV Gold Coins
+|-
+|12||Canterberry Apostle Clue||12000||Defeat [[Britland Apostles#Arthur|Arthur]]||Unlock area (Centerberry)<br>In Canterberry, INTEL gained +20%
+|-
+|rowspan="3"|13||rowspan="3"|Elizabeth I Mint||12000||||Mint Grid drops +50% NAV Bronze Coins
+|-
+|24000||||Mint Grid drops +50% NAV Silver Coins
+|-
+|36000||||Mint Grid drops +50% NAV Gold Coins
+|-
+|rowspan="3"|14||rowspan="3"|Adventures of Holmes||12000||||Unlock Special Incident (Studies in Red)
+|-
+|24000||||Unlock Special Incident (Baskville Dog)
+|-
+|36000||||Unlock Special Incident (Bohemian Tale)
+|-
+|rowspan="3"|15||rowspan="3"|Plunder||13000||||Card Conversion in Britland gives +5% rewardsbr>Unlock more items in Britland Card Redemption
+|-
+|26000||||Card Conversion in Britland gives +10% rewardsbr>Unlock more items in Britland Card Redemption
+|-
+|39000||||Card Conversion in Britland gives +15% rewardsbr>Unlock more items in Britland Card Redemption
+|-
+|16||Polar Exploration||13000||||Obtain [[Minigames|Polar Klotski Minigame]]
+|-
+|17||Brightown Apostle Clue||13000||Defeat [[Britland Aposltes#Captain Jack|Captain Jack]]||Unlock area (Brightown)<br>In Brightown, INTEL gained +20%
+|-
+|rowspan="3"|18||rowspan="3"|Gentility||13000||||If an exploration session in Britland is sped up for +8 hrs, gain 1 Gentleman Box at the end
+|-
+|26000||||If an exploration session in Britland is sped up for +6 hrs, gain 1 Gentleman Box at the end
+|-
+|39000||||If an exploration session in Britland is sped up for +4 hrs, gain 1 Gentleman Box at the end
+|-
+|rowspan="3"|19||rowspan="3"|Apprenticeship School||13000||||Gain Clone Speedup +4h
+|-
+|26000||||Gain Clone Speedup +8h
+|-
+|39000||||Gain Clone Speedup +12h
+|}
+
+==Fleet Management==
+[[File:Britland INTEL 2.5.png|frameless|left]]
+
+'''Recommended Upgrade:''' Tiles 3, 7, 12, and 17 will increase the stats of warships so these should be obtained early on. Tile 2 will assist with defeating enemies and apostles so this should be high priority as well. Tiles 5 and 16 give blueprints for ships that we can use in the fleet. Tile 8 should be obtained as soon as possible as well, as there is a lot to do in the Mysterious Sea.
+
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Effect
+|-
+|1||Naval Base D.||900||All Warship Cannon +20<br>All Warship Armor +20<br>All Warship Carronade +20<br>All Warship Load Cap +20
+|-
+|rowspan="3"|2||rowspan="3"|Broadside Savlo||1200||In Britland, fleed cannon DMG +10%
+|-
+|2400||In Britland, fleed cannon DMG +15%
+|-
+|3600||In Britland, fleed cannon DMG +20%
+|-
+|3||Harl & Wolf Dockyard||3600||All Warship Cannon +50<br>All Warship Armor +50<br>All Warship Carronade +50<br>All Warship Load Cap +50
+|-
+|rowspan="3"|4||rowspan="3"|Pirating||1200||Per victory, Containers gained +1
+|-
+|2400||Per victory, Containers gained +2
+|-
+|3600||Per victory, Containers gained +3
+|-
+|rowspan="2"|5||rowspan="2"|Llayd's Register||4800||Obtain Galleon Blueprint
+|-
+|9600||Obtain Light Cruiser Blueprint
+|-
+|rowspan="3"|6||rowspan="3"|Ship Supplies||4800||Obtain 3000 NAV Bronze Coin
+|-
+|9600||Obtain 1500 NAV Silver Coin
+|-
+|14400||Obtain 1000 NAV Gold Coin
+|-
+|7||Armstrong's Dockyard||14400||All Warship Cannon +100<br>All Warship Armor +100<br>All Warship Carronade +100<br>All Warship Load Cap +100
+|-
+|8||Age of Exploration||14400||Unlock Mysterious Sea
+|-
+|rowspan="3"|9||rowspan="3"|Mobilization Order||4800||Sailor recruitment Cost -10%
+|-
+|9600||Sailor recruitment Cost -30%
+|-
+|14400||Sailor recruitment Cost -50%
+|-
+|rowspan="3"|10||rowspan="3"|Heavy Artillery||12000||All Warship Cannon +10%
+|-
+|24000||All Warship Cannon +20%
+|-
+|36000||All Warship Cannon +30%
+|-
+|rowspan="3"|11||rowspan="3"|Belt Armor||12000||All Warship Armor +10%
+|-
+|24000||All Warship Armor +20%
+|-
+|36000||All Warship Armor +30%
+|-
+|12||Johnny Brown & Co.||36000||All Warship Cannon +150<br>All Warship Armor +150<br>All Warship Carronade +150<br>All Warship Load Cap +150
+|-
+|rowspan="3"|13||rowspan="3"|HV Armor Piercing||12000||All Warship Carronade +10%
+|-
+|24000||All Warship Carronade +20%
+|-
+|36000||All Warship Carronade +30%
+|-
+|rowspan="3"|14||rowspan="3"|Watertight Bulkhead||12000||All Warship Load Cap +10%
+|-
+|24000||All Warship Load Cap +20%
+|-
+|36000||All Warship Load Cap +30%
+|-
+|rowspan="3"|15||rowspan="3"|Sea Burial||13000||Trade 10 Bronze Coins for 1 Sailor's Wail
+|-
+|26000||Trade 8 Bronze Coins for 1 Sailor's Wail
+|-
+|39000||Trade 5 Bronze Coins for 1 Sailor's Wail
+|-
+|rowspan="3"|16||rowspan="3"|RINA||13000||Obtain Royal Battleship Blueprint
+|-
+|26000||Obtain Carrack Blueprint
+|-
+|39000||Obtain Soleil Royal Blueprint
+|-
+|17||Portsmouth Dockyard||39000||All Warship Cannon +200<br>All Warship Armor +200<br>All Warship Carronade +200<br>All Warship Load Cap +200
+|-
+|rowspan="3"|18||rowspan="3"|Dock Upgrade||13000||Warship Parts MAX LVL +3
+|-
+|26000||Warship Parts MAX LVL +6
+|-
+|39000||Warship Parts MAX LVL +10
+|-
+|rowspan="3"|19||rowspan="3"|Royal Naval College||13000||All Warship Sailor Cap +5%
+|-
+|26000||All Warship Sailor Cap +10%
+|-
+|39000||All Warship Sailor Cap +15%
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Britland]]

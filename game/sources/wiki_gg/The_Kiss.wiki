@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The Kiss
+|class_id=22815
+|rank=SSS
+|affct=ART
+|source=
+|description= The Kiss is one of the most famous works by sculptor Rodin, depicting the love story of Paolo and Francesca from Dante's Divine Comedy, who are eternally punished for their forbidden love, yet their passionate kiss becomes an immortal moment. This sculpture is renowned worldwide for its bold expression and profound insight into human emotions, transcending time and space, becoming a classic symbol of love and desire. The original is housed in the Rodin Museum in Paris, with replicas of the work appearing in museums and private collections worldwide.
+|fame=53
+|art=108
+|fth=67
+|civ=73
+|tech=61
+|ss1=Demon Minion ATK +3%<br>Per 5 ART Relics awakened, Snail ATK +9<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +72<br>ART Relics Awakened: 100/100
+|ss2=Demon Minion ATK +4%<br>Per 5 ART Relics awakened, Snail ATK +12<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +96<br>ART Relics Awakened: 100/100
+|ss3=Demon Minion ATK +5%<br>Per 5 ART Relics awakened, Snail ATK +15<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +120<br>ART Relics Awakened: 100/100
+|ss4=Demon Minion ATK +7%<br>Per 5 ART Relics awakened, Snail ATK +21<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +168<br>ART Relics Awakened: 100/100
+|ss5=Demon Minion ATK +9%<br>Per 5 ART Relics awakened, Snail ATK +27<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +216<br>ART Relics Awakened: 100/100
+|ss6=Demon Minion ATK +12%<br>Per 5 ART Relics awakened, Snail ATK +36<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +288<br>ART Relics Awakened: 100/100
+|ss7=Demon Minion ATK +12%<br>Per 5 ART Relics awakened, Snail ATK +36<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +288<br>ART Relics Awakened: 100/100<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop DMG toward heroes +6%
+|skill2=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Water RES +60
+|skill3=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop CRIT +9%
+}}

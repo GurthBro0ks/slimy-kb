@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=SSB Trophy
+|class_id=22326
+|rank=SSS
+|affct=CIV
+|birthday=06-02
+|source=Lottery Machine No.2 (0.11%)
+|description=On June 2, 1345 A.D., the Dung Beetles won the inaugural Super Species Bowl.<br>The Species Super Bowl is a global football event featuring teams from various species on a unique multi-terrain field with grass, sand, water, and ice, using custom balls. Alongside the matches, cultural exchanges promote cross-species friendship. This event highlights competition and fosters biodiversity, international understanding, and respect, attracting millions of fans annually.
+|fame=67
+|art=67
+|fth=55
+|civ=106
+|tech=67
+|ss1=Per 60 Minions in battle:<br>> Troop HARD Stats +3<br>Per Grandmaster Scroll used, Snail HP +30<br>Per Grandmaster Scroll used, Snail ATK +3<br>Grandmaster Scrolls Used: 50/50
+|ss2=Per 60 Minions in battle:<br>> Troop HARD Stats +6<br>Per Grandmaster Scroll used, Snail HP +40<br>Per Grandmaster Scroll used, Snail ATK +4<br>Grandmaster Scrolls Used: 50/50
+|ss3=Per 60 Minions in battle:<br>> Troop HARD Stats +9<br>Per Grandmaster Scroll used, Snail HP +50<br>Per Grandmaster Scroll used, Snail ATK +5<br>Grandmaster Scrolls Used: 50/50
+|ss4=Per 60 Minions in battle:<br>> Troop HARD Stats +15<br>Per Grandmaster Scroll used, Snail HP +70<br>Per Grandmaster Scroll used, Snail ATK +7<br>Grandmaster Scrolls Used: 50/50
+|ss5=Per 60 Minions in battle:<br>> Troop HARD Stats +21<br>Per Grandmaster Scroll used, Snail HP +90<br>Per Grandmaster Scroll used, Snail ATK +9<br>Grandmaster Scrolls Used: 50/50
+|ss6=Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per Grandmaster Scroll used, Snail HP +120<br>Per Grandmaster Scroll used, Snail ATK +12<br>Grandmaster Scrolls Used: 50/50
+|ss7=Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per Grandmaster Scroll used, Snail HP +120<br>Per Grandmaster Scroll used, Snail ATK +12<br>Grandmaster Scrolls Used: 50/50<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: This Relic's CIV +15
+|skill2=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP +9%
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop DEF +9%
+|mirage={{Mirage|name=Species Stadium|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Krost|3rec=93.62M|3atk=263238|3defense=175616|3hp=16892163|3weak=33308
+|4name=Izanami|4rec=128.40M|4atk=336570|4defense=224539|4hp=25970921|4weak=38903
+|5name=Kung Fucius|5rec=168.95M|5atk=422091|5defense=281593|5hp=37969222|5weak=46695
+|6name=Ryurik|6rec=217.16M|6atk=523755|6defense=349418|6hp=53998660|6weak=53037
+|Arec=291.63M|Aatk=636944|Adefense=424930|Ahp=74494183|Aweak=53509
+}}}}

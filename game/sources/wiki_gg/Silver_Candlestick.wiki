@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Silver Candlestick
+|class_id=22183
+|rank=AAA
+|affct=CIV
+|birthday=03-29
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Mar 29, 1817 AD, Valjean took the pair of silver candlesticks from a priest and decided to be a new man.<br>Valjean suffered nineteen years in prison for stealing a piece of bread. A kind priest took the helpless Valjean in after he was released from prison, but in order to make a living, Valjean repaid the priest's kindness by stealing the silverware from the priest's household. Unfortunately, while making his escape, Valjean was caught again by the police. But the priest, upon learning all this, not only proclaimed that the silverware was his gift to Valjean, but also gave him a pair of silver candlesticks. The priest's kind generosity not only saved Valjean from being arrested again but also deeply moved him. It gave him the courage to start a new life and abandon evil for good.
+|fame=52
+|art=45
+|fth=37
+|civ=74
+|tech=35
+|ss1=Dragon Minion RUSH +3%<br>Dragon Minion HARD Stats +0.9%
+|ss2=Dragon Minion RUSH +4%<br>Dragon Minion HARD Stats +1.2%
+|ss3=Dragon Minion RUSH +5%<br>Dragon Minion HARD Stats +1.5%
+|ss4=Dragon Minion RUSH +7%<br>Dragon Minion HARD Stats +2.1%
+|ss5=Dragon Minion RUSH +9%<br>Dragon Minion HARD Stats +2.7%
+|ss7=Dragon Minion RUSH +9%<br>Dragon Minion HARD Stats +2.7%<br>Dragon Minion HARD Stats +2.1% (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail HP +600
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Green Reagent Drops +3%
+}}

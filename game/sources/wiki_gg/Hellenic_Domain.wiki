@@ -1,0 +1,462 @@
+{{Missing Info|specifics=This page is being formatted by the wiki team. Thank you for your patience as we find the best page structure. Reach out to us on Discord to help!}}
+
+==Arcane Moon==
+{| class="wikitable"
+!Pedestal
+!colspan="2"|Task
+!Rewards
+|-
+|style="background-color:var(--green-bg)"|Front-Left
+|Dig-Mine
+|Dig out all 5 Mines on tiles: 9.2; 18.2; 27.2; 36.2; 43.2
+|{{RewardIconWithText|Arcane Moon}} +3
+|-
+|style="background-color:var(--green-bg)"|Front-Right
+|Clear Domain
+|Clear Lionbird; Crowfeet; PuffleHuff; Vyperin; Minerva Area
+|{{RewardIconWithText|Arcane Moon}} +3
+|-
+|style="background-color:var(--blue-bg)"|Back-Left
+|Eliminate Generals
+|Eliminate Dean of Lionbird; Dean of Crowfeet; Dean of Pufflehuff; Dean of Vyperin
+|{{RewardIconWithText|Arcane Moon}} +3
+|-
+|style="background-color:var(--blue-bg)"|Back-Right
+|Explore Domain
+|Investigate the tiles within the Lionbird; Crowfeet; Pufflehuff; Vyperin; Minerva Area
+|{{RewardIconWithText|Arcane Moon}} +3
+|-
+|style="background-color:var(--purple-bg)"|Back-Middle
+|Arcane God
+|Defeat Minerva and Minerva's Head
+|{{RewardIconWithText|Arcane Moon}} +5
+|}
+
+===Moon Shop===
+{|class="wikitable"
+!Item
+!Cost in<br>{{RewardIconWithText|Arcane Moon}}
+!Quantity Available
+|-
+|{{RewardIcon|Minerva Power}}{{Retext|T3 Minerva Power|blue}} +50
+|1||1
+|-
+|{{RewardIcon|Minerva Wings}}{{Retext|T3 Minerva Wings|blue}} +50
+|1||1
+|-
+|{{RewardIcon|Minerva Core}}{{Retext|T3 Minerva Core|blue}} +50
+|1||1
+|-
+|{{RewardIconWithText|B-Tad, +150k}}
+|2||1
+|-
+|{{RewardIconWithLink|Sunny Plant Food, +3|orange}}
+|3||1
+|-
+|{{RewardIconWithText|Refine Speedup, +2d}}
+|4||1
+|-
+|{{RewardIconWithLink|Golden Pickaxe, +8|orange}}
+|5||1
+|-
+|{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|6||1
+|-
+|After Domain is 100%<br>{{RewardIconWithText|Hellenic Nebula Pack|orange}} ({{RewardIconWithLink|Quantum Gel, +2k}} and {{RewardIconWithLink|Singularity Crystal, +2|orange}})
+|7||1
+|}
+
+==Weasels' Shop (Tile 8)==
+{| class="wikitable"
+!Product
+!Cost in {{RewardIconWithText|B-Tad}}
+|-
+|{{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|1M
+|-
+|{{RewardIconWithLink|Sunny Plant Food, +3|orange}}
+|200k
+|-
+|{{RewardIconWithLink|Magic Potion, +80}}
+|150k
+|-
+|{{RewardIconWithText|Arcane Moon}} +1
+|100k
+|-
+|{{RewardIconWithLink|Glue, +100}}
+|80k
+|}
+
+==Legend==
+{|class=wikitable
+!Type
+!Color Assignment
+|-
+|Event
+|style="background-color:var(--yellow-bg)"|
+|-
+|Snail Battle
+|style="background-color:var(--red-bg)"|
+|-
+|Minion Battle
+|style="background-color:var(--purple-bg)"|
+|-
+|Reward
+|style="background-color:var(--blue-bg)"|
+|-
+|Mine Pit
+|style="background-color:var(--green-bg)"|
+|-
+|Store
+|style="background-color:var(--orange-bg)"|
+|}
+
+==Tiles==
+{| class="wikitable"
+!Tile
+!Name
+!Notes
+!Rewards
+|-
+|rowspan="2"|1
+|style="background-color:var(--blue-bg)"|Director of Admissions
+|
+|{{RewardIcon|World Superstar}} [[Museum#Promotions|{{Retext|World Superstar Ad Flyer|orange}}]] +1
+|-
+|style="background-color:var(--blue-bg)"|Admission Ad
+|Read Admission Intro and Qualifications
+|{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|2
+|style="background-color:var(--purple-bg)"|Lionbird Magic Guard
+|
+|{{RewardIcon|Minerva Power}}T1 Minerva Power +10
+|-
+|3
+|style="background-color:var(--purple-bg)"|Lionbird Instructor
+|
+|{{RewardIcon| Minerva Wings}} T1 Minerva Wings +10
+|-
+|4
+|style="background-color:var(--purple-bg)"|Lionbird Instructor
+|
+|{{RewardIcon|Minerva Core}} T1 Minerva Core, +10
+|-
+|rowspan="2"|5
+|style="background-color:var(--purple-bg)"|Lionbird Professor
+|
+|{{RewardIcon|Minerva Power}}T1 Minerva Power +10
+|-
+|style="background-color:var(--blue-bg)"|Sealed Casket
+|{{RewardIconWithText|Password Note}}: 3344
+|{{RewardIconWithText|W-Tad, +500}}, <br> {{RewardIconWithText|Arcane Moon}} +1
+|-
+|6
+|style="background-color:var(--purple-bg)"|Lionbird Lecturer
+|
+|{{RewardIcon| Minerva Wings}} T1 Minerva Wings +10
+|-
+|7
+|style="background-color:var(--purple-bg)"|Lionbird Professor
+|
+|{{RewardIcon|Minerva Core}} T1 Minerva Core, +10
+|-
+|rowspan="2"| 8
+|style="background-color:var(--purple-bg)"|Lionbird Power
+|
+|{{RewardIcon|Minerva Power}}T1 Minerva Power +10
+|-
+|style="background-color:var(--orange-bg)"|The Weasels
+|Opens Weasels' shop
+|
+|-
+|rowspan="2"|9
+|style="background-color:var(--purple-bg)"|Magic Puppet
+|
+|{{RewardIcon| Minerva Wings}} T1 Minerva Wings +10
+|-
+|style="background-color:var(--green-bg)"|Mine Pit
+|Mining duration: 1d 10h 20min; requirement: 70x T6 minions
+|{{RewardIconWithLink|Hellenic Treasure Map, +1000}}, <br>{{RewardIconWithLink|Dragon Chest, +750}}, <br>{{RewardIconWithText|Holy Wood Core, +9}}
+|-
+|rowspan="2"|10
+|style="background-color:var(--purple-bg)"|Dean of Lionbird
+|
+|{{RewardIcon|Minerva Core}} T1 Minerva Core, +10
+|-
+|style="background-color:var(--red-bg)"|Dean of Lionbird
+|ATK: 132.300, DEF: 88.200, HP: 3.466.670, AFFCT: 125.700?; <br>Special stats: HIT: +50, Paralysis RES +50%
+|{{RewardIconWithLink|Master Scroll, +10|orange}}, <br> {{RewardIconWithText|Arcane Moon}} +1
+|-
+|11
+|style="background-color:var(--purple-bg)"|Cowfeet Magic Guard
+|
+|{{RewardIcon|T1 Minerva Power}} T1 Minerva Power +10
+|-
+|12
+|style="background-color:var(--purple-bg)"|Crowfeet Instructor
+|
+|{{RewardIcon| Minerva Wings}} T1 Minerva Wings +10
+|-
+|13
+|style="background-color:var(--purple-bg)"|Crowfeet Instructor
+|
+|{{RewardIcon| Minerva Core}} T1 Minerva Core +10
+|-
+|rowspan="2"|14
+|style="background-color:var(--purple-bg)"|Crowfeet Lecturer
+|
+|{{RewardIcon|Minerva Power}} {{Retext|T2 Minerva Power, +8|green}}
+|-
+|style="background-color:var(--yellow-bg)"|Sealed Portal
+|Display Awakened Relic: Soul Stone
+|{{RewardIconWithLink|Dark Lord's Diary|green}}
+|-
+|15
+|style="background-color:var(--purple-bg)"|Crowfeet Lecturer
+|
+|{{RewardIcon|Minerva Wings}} {{Retext|T2 Minerva Wings, +8|green}}
+|-
+|16
+|style="background-color:var(--purple-bg)"|Crowfeet Professor
+|
+|{{RewardIcon|Minerva Core}} {{Retext|T2 Minerva Core, +8|green}}
+|-
+|rowspan="2"|17
+|style="background-color:var(--purple-bg)"|Crowfeet Professor
+|
+|{{RewardIcon|Minerva Power}} {{Retext|T2 Minerva Power, +8|green}}
+|-
+| style="background-color:var(--yellow-bg)"|Librarion of Magic
+|Quiz answers: C A C A C
+|{{RewardIconWithText|W-Tad, +500}}<br>{{RewardIconWithText|Password Note}}: 3344<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|rowspan="2"|18
+|style="background-color:var(--purple-bg)"|Magic Puppet
+|
+|{{RewardIcon|Minerva Wings}} {{Retext|T2 Minerva Wings, +8|green}}
+|-
+|style="background-color:var(--green-bg)"|Mine Pit
+|Mining duration: 1d 10h 20min; requirement: 70x T6 minions
+|{{RewardIconWithLink|Hellenic Treasure Map, +1000}},<br>{{RewardIconWithText|Arcane Moon}} +2,<br>{{RewardIconWithText|Holy Wood Core, +9}}
+|-
+|rowspan="2"|19
+|style="background-color:var(--purple-bg)"|Dean of Crowfeet
+|
+|{{RewardIcon|Minerva Core}} {{Retext|T2 Minerva Core, +8|green}}
+|-
+|style="background-color:var(--red-bg)"|Dean of Crowfeet
+|ATK: 134,400, DEF: 89.600, HP: 3523854, AFFCT: 130.100?<br>Special stats: HIT+50, Paralysis RES +50%
+|{{RewardIconWithLink|Master Scroll, +10|orange}}, <br> {{RewardIconWithText|Arcane Moon}} +1
+|-
+|20
+|style="background-color:var(--purple-bg)"|Pufflehuff Magic Guard
+|
+|{{RewardIcon|Minerva Power}} {{Retext|T2 Minerva Power, +8|green}}
+|-
+|rowspan="3"|21
+|style="background-color:var(--purple-bg)"|Pufflehuff Instructor
+|
+|{{RewardIcon|Minerva Wings}} {{Retext|T2 Minerva Wings, +8|green}}
+|-
+|style="background-color:var(--yellow-bg)"|Magic Guard
+|Display Relic: {{RewardIconWithLink|Flying Broom|green}}
+|Opens Broom Zoom
+|-
+|style="background-color:var(--yellow-bg)"|Broom Zoom
+|Complete 7 challenges
+|Total:<br> {{RewardIconWithLink|Hellenic Treasure Map, +400}}, <br>{{RewardIconWithLink|Forbidden Magic List|green}}
+|-
+|22
+|style="background-color:var(--purple-bg)"|Pufflehuff Instructor
+|
+|{{RewardIcon|Minerva Core}} {{Retext|T2 Minerva Core, +8|green}}
+|-
+|23
+|style="background-color:var(--purple-bg)"|Pufflehuff Lecturer
+|
+|{{RewardIcon|Minerva Power}} {{Retext|T2 Minerva Power, +8|green}}
+|-
+|24
+|style="background-color:var(--purple-bg)"|Pufflehuff Lecturer
+|
+|{{RewardIcon|Minerva Wings}} {{Retext|T2 Minerva Wings, +8|green}}
+|-
+|25
+|style="background-color:var(--purple-bg)"|Pufflehuff Professor
+|
+|{{RewardIcon|Minerva Core}} {{Retext|T2 Minerva Core, +8|green}}
+|-
+|26
+|style="background-color:var(--purple-bg)"|Pufflehuff Professor
+|
+|{{RewardIcon|Minerva Power}} {{Retext|T3 Minerva Power, +8|blue}}
+|-
+|rowspan="2"|27
+|style="background-color:var(--purple-bg)"|Magic Puppet
+|
+|{{RewardIcon|Minerva Wings}} {{Retext|T3 Minerva Wings, +8|blue}}
+|-
+|style="background-color:var(--green-bg)"|Mine Pit
+|Mining duration: 1d 12h 40min; requirement: 70x T6 minions
+|{{RewardIconWithLink|Hellenic Treasure Map, +1000}}, <br>{{RewardIconWithLink|Incense, +2|orange}}, <br>{{RewardIconWithText|Holy Wood Core, +9}}
+|-
+|rowspan="2"|28
+|style="background-color:var(--purple-bg)"|Dean of Pufflehuff
+|
+|{{RewardIcon|Minerva Core}} {{Retext|T3 Minerva Core, +8|blue}}
+|-
+|style="background-color:var(--red-bg)"|Dean of Pufflehuff
+|ATK:136.500, DEF: 91.000, HP3.581.087, AFFCT: 134.600<br>Special stats: HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Master Scroll, +10|orange}}, <br> {{RewardIconWithText|Arcane Moon}} +1
+|-
+|29
+|style="background-color:var(--purple-bg)"|Vyperin Magic Guard
+|
+|{{RewardIcon|Minerva Power}} {{Retext|T3 Minerva Power, +8|blue}}
+|-
+|30
+|style="background-color:var(--purple-bg)"|Vyperin Instructor
+|
+|{{RewardIcon|Minerva Wings}} {{Retext|T3 Minerva Wings, +8|blue}}
+|-
+|31
+|style="background-color:var(--purple-bg)"|Vyperin Instructor
+|
+|{{RewardIcon|Minerva Core}} {{Retext|T3 Minerva Core, +8|blue}}
+|-
+|32
+|style="background-color:var(--purple-bg)"|Vyperin Lecturer
+|
+|{{RewardIcon|Minerva Power}} {{Retext|T3 Minerva Power, +8|blue}}
+|-
+|33
+|style="background-color:var(--purple-bg)"|Vyperin Lecturer
+|
+|{{RewardIcon|Minerva Wings}} {{Retext|T3 Minerva Wings, +8|blue}}
+|-
+|34
+|style="background-color:var(--purple-bg)"|Vyperin Professor
+|
+|{{RewardIcon|Minerva Core}} {{Retext|T3 Minerva Core, +8|blue}}
+|-
+|rowspan="3"|35
+|style="background-color:var(--purple-bg)"|Vyperin Professor
+|
+|{{RewardIcon|Minerva Power}} {{Retext|T3 Minerva Power, +8|blue}}
+|-
+|style="background-color:var(--yellow-bg)"|Chamber
+|Display Relic: {{RewardIconWithLink|Dark Lord's Diary|green}}
+|Unlocks Chamber Snake
+|-
+|style="background-color:var(--red-bg)"|Chamber Snake (Python)
+|ATK: 160.650, DEF: 107.100, HP: 4.301.623, AFFCT: 157.050?<br>Special stats: HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Two-headed Serpent|orange}} Fragment +40
+|-
+|rowspan="2"|36
+|style="background-color:var(--purple-bg)"|Magic Puppet
+|
+|{{RewardIcon|Minerva Wings}} {{Retext|T3 Minerva Wings, +8|blue}}
+|-
+|style="background-color:var(--green-bg)"|Mine Pit
+|Mining duration: 1d 16h; requirement: 70x T6 minions
+|{{RewardIconWithLink|Hellenic Treasure Map, +1000}}, <br>{{RewardIconWithText|Arcane Moon}} +2, <br>{{RewardIconWithText|Holy Wood Core}}
+|-
+|rowspan="2"|37
+|style="background-color:var(--purple-bg)"|Dean of Vyperin
+|
+|{{RewardIcon|Minerva Core}} {{Retext|T3 Minerva Core, +8|blue}}
+|-
+|style="background-color:var(--red-bg)"|Dean of Vyperin
+|ATK:141.750, DEF:94.500, HP: 3.743.854, AFFCT 139250?<br>Special stats: HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Master Scroll, +10|orange}}, <br> {{RewardIconWithText|Arcane Moon}} +1
+|-
+|38
+|style="background-color:var(--purple-bg)"|Magic Guard
+|
+|{{RewardIcon|Minerva Power}} {{Retext|T4 Minerva Power, +10|purple}}
+|-
+|rowspan="2"|39
+|style="background-color:var(--purple-bg)"|Fire Element Essence
+|
+|{{RewardIcon|Minerva Wings}} {{Retext|T4 Minerva Wings, +10|purple}}
+|-
+|style="background-color:var(--blue-bg)"|Fire Magic Coffer
+|Requires ART: 28k
+|{{RewardIconWithLink|Mischief Map|purple}} Fragment +20
+|-
+|rowspan="2"|40
+|style="background-color:var(--purple-bg)"|Wind Element Essence
+|
+|{{RewardIcon|Minerva Core}} {{Retext|T4 Minerva Core, +10|purple}}
+|-
+|style="background-color:var(--blue-bg)"|Wind Magic Coffer
+|Requires FAME: 29k
+|{{RewardIconWithLink|Mischief Map|purple}} Fragment +20
+|-
+|rowspan="2"|41
+|style="background-color:var(--purple-bg)"|Earth Element Essence
+|
+|{{RewardIcon|Minerva Power}} {{Retext|T4 Minerva Power, +10|purple}}
+|-
+|style="background-color:var(--blue-bg)"|Earth Magic Coffer
+|Requires CIV: 30k
+|{{RewardIconWithLink|Mischief Map|purple}} Fragment +20
+|-
+|rowspan="2"|42
+|style="background-color:var(--purple-bg)"|Water Element Essence
+|
+|{{RewardIcon|Minerva Wings}} {{Retext|T4 Minerva Wings, +10|purple}}
+|-
+|style="background-color:var(--blue-bg)"|Water Magic Coffer
+|Requires FTHT: 31k
+|{{RewardIconWithLink|Mischief Map|purple}} Fragment +20
+|-
+|rowspan="2"|43
+|style="background-color:var(--purple-bg)"|Magic Puppet
+|
+|{{RewardIcon|Minerva Core}} {{Retext|T4 Minerva Core, +10|purple}}
+|-
+|style="background-color:var(--green-bg)"|Mine Pit
+|Mining duration: 1d 16h; requirement: 70x T6 minions
+|{{RewardIconWithLink|Hellenic Treasure Map, +1000}}, <br>{{RewardIconWithText|Holy Wood Core, +12}}, <br>{{RewardIconWithLink|Dragon Orb, +1|orange}}
+|-
+|rowspan="2"|44
+|style="background-color:var(--purple-bg)"|Warden
+|
+|{{RewardIcon|Minerva Power}} {{Retext|T4 Minerva Power, +12|purple}}
+|-
+|style="background-color:var(--yellow-bg)"|Magician Prison
+|Complete 10 challenges
+|Total:<br>{{RewardIconWithLink|Demon Chest, +300}}, <br> {{RewardIconWithLink|Master Alchemy Case, +3|orange}}, <br> {{RewardIconWithText|Arcane Moon}} +1
+|-
+|rowspan="2"|45
+|style="background-color:var(--purple-bg)"|Necromancer
+|
+|{{RewardIcon|Minerva Wings}} {{Retext|T4 Minerva Wings, +12|purple}}
+|-
+|style="background-color:var(--yellow-bg)"|Wall of the Dead
+|Display T7 Minion: Sanctum Warrior x5 (Athena's minion)
+|{{RewardIconWithLink|Gear RF, +10}}, <br>{{RewardIconWithLink|Star Stone, +10}}
+|-
+|rowspan="2"|46
+|style="background-color:var(--purple-bg)"|Mahayana Practitioner
+|
+|{{RewardIcon|Minerva Core}} {{Retext|T4 Minerva Core, +12|purple}}
+|-
+|style="background-color:var(--blue-bg)"|Cultivation Casket
+|Requires Relic Point: 3.5M
+|{{RewardIconWithText|Arcane Moon}} +1
+|-
+|rowspan="2"|47
+|style="background-color:var(--purple-bg)"|Minerva
+|
+|{{RewardIconWithText|W-Tad, +1k}}
+|-
+|style="background-color:var(--red-bg)"|Minerva
+|ATK: 150.000, DEF: 100.000, HP: 26.000.000, AFFCT: 144.100<br>Special stats: CRIT +100%, Crit DMG -40%, HIT +80, Paralysis RES +80%
+|{{RewardIconWithText|Arcane Moon}} +1
+|-
+|}
+
+[[Category:Hellenic_Domain]]

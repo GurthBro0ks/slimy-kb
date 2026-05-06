@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Spiderguy
+|rank=orange
+|cabin=2
+|id=126
+|gene1={race} ATK +50
+|gene2={race} ART +50
+|gene3=Per 10% HP lost, {race} ATK +60
+|gene4=Per 60 Zombie Minions in battle,
+Troop Fire DMG +6
+|gene5=Fire DMG +0.9%
+|gene6=Per 60 Zombie Minions in battle,
+Troop Fire DMG +10
+|gene7=Fire DMG +1.5%
+|}}

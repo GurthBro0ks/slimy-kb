@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Rhyton of Haikang
+|class_id=21845
+|rank=AAA
+|affct=CIV
+|source=
+|description=The Rhyton of Haikang, unearthed from the Nagykanizsa treasure, features a unique design and luxurious decoration, showcasing the superb craftsmanship of the time. The body of the cup is typically adorned with animal motifs, especially the image of a bull, which is the origin of the rhyton's name. These cups not only display the Gothic artistic style but also reflect their emphasis on wealth and status, holding immeasurable importance for studying the history, art, and culture of early medieval Europe.
+|fame=51
+|art=43
+|fth=42
+|civ=71
+|tech=36
+|ss1=Snail ATK +30<br>Protomon Troop assist DMG + 240
+|ss2=Snail ATK +40<br>Protomon Troop assist DMG + 320
+|ss3=Snail ATK +50<br>Protomon Troop assist DMG + 400
+|ss4=Snail ATK +70<br>Protomon Troop assist DMG + 560
+|ss5=Snail ATK +90<br>Protomon Troop assist DMG + 720
+|ss7=Snail ATK +90<br>Protomon Troop assist DMG + 720<br>Protomon Troop assist DMG + 560 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +60
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's CIV +10
+}}

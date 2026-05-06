@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Magma Horns
+|type=Bionic
+|rank=purple
+|id=10669
+|idx=26
+|description=Born in boiling lava, those eerie horns exhale scorching heat—a manifestation of flame’s wrath and eons of fury.
+|skill=Transform into a Magma Beast, dealing DMG equal to 163% of ATK!
+|hp=1180
+|def=154
+|atk=230
+|rush=129
+|gene1=In Snail Arena, HIT +6%
+|gene2=In Snail Arena, {race} ATK +60
+|gene3=Snail Arena, ELMT DMG REDUC +4%
+|gene4=In Snail Arena, DMG +6%
+|gene7=In Snail Arena, DMG +6% (Awakened)
+|}}

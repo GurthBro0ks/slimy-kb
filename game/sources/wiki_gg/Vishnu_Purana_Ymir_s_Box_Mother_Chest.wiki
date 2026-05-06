@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=743
+|relics=Vishnu Purana,Ymir's Box,Mother Chest
+|rank=orange
+|amount=3
+|category=self
+|description=Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +64;Swamp Sanctum Rating Pts: 100000/100000
+}}

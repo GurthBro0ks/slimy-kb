@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Toad Mallet
+|rank=Green
+|affct=FTH
+|source=Unlocked after ringing the Sky City bell in Parsia.
+|description=Blessed by Earth’s Will, the first transmigrated toad ascended into a Golden Toad, mastering the Truth of Capital— one of the Three Thousand Great Principles! This mallet, its soul-bound artifact, grants dominion over the path of wealth.
+|fame=17
+|art=20
+|fth=28
+|civ=12
+|tech=13
+|ss1=Parsian Exploration, DMG to Enemies +1% <br> Parsian Exploration, Black Tadpoles +1%
+|ss2= Parsian Exploration, DMG to Enemies +2% <br> Parsian Exploration, Black Tadpoles +2%
+|ss3= Parsian Exploration, DMG to Enemies +3% <br> Parsian Exploration, Black Tadpoles +3%
+}}
+
+[[Category:green Relics]]
+[[Category:green FTH Relics]]

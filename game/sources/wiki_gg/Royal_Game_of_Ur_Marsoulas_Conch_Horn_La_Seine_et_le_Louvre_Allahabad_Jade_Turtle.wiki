@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=643
+|relics=Royal Game of Ur,Marsoulas Conch Horn,La Seine et le Louvre,Allahabad Jade Turtle
+|rank=blue
+|amount=4
+|category=self
+|description=Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +56;Prairie Sanctum Rating Pts: 100000/100000
+}}

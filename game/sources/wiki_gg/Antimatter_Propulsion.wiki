@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Antimatter Propulsion
+|class_id=22742
+|rank=SSS
+|affct=TECH
+|birthday=01-27
+|source=Lottery Machine No.3 (0.12%)
+|description=On Jan 27, 1928 AD, British physicist Dirac proposed the hypothesis of antimatter.<br>Antimatter is a substance that has the same mass as normal matter but with an opposite charge. When atoms of antimatter collide with atoms of normal matter, both atoms annihilate, and their mass is converted into energy. Because the annihilation of antimatter can occur spontaneously, it requires much less energy than a nuclear reactor, which can reduce the mass of spacecraft. However, because the production of antimatter requires a significant amount of energy, only one billionth of a gram of antimatter can be produced worldwide each year. There is still a long way to go before humanity can explore the vastness of the universe.
+|fame=75
+|art=50
+|fth=67
+|civ=64
+|tech=106
+|ss1=Snail Leadership +3<br>Tribal Follower output +6%<br>Per Bionic Part extracted, Snail RUSH +3<br>Bionic Part Extracted: 50/50
+|ss2=Snail Leadership +4<br>Tribal Follower output +8%<br>Per Bionic Part extracted, Snail RUSH +4<br>Bionic Part Extracted: 50/50
+|ss3=Snail Leadership +5<br>Tribal Follower output +10%<br>Per Bionic Part extracted, Snail RUSH +5<br>Bionic Part Extracted: 50/50
+|ss4=Snail Leadership +7<br>Tribal Follower output +14%<br>Per Bionic Part extracted, Snail RUSH +7<br>Bionic Part Extracted: 50/50
+|ss5=Snail Leadership +9<br>Tribal Follower output +18%<br>Per Bionic Part extracted, Snail RUSH +9<br>Bionic Part Extracted: 50/50
+|ss6=Snail Leadership +12<br>Tribal Follower output +24%<br>Per Bionic Part extracted, Snail RUSH +12<br>Bionic Part Extracted: 50/50
+|ss7=Snail Leadership +12<br>Tribal Follower output +24%<br>Per Bionic Part extracted, Snail RUSH +12<br>Bionic Part Extracted: 50/50<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, DMG +30%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=Thruster Core|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Solid Core|3rec=123.29M|3atk=346278|3defense=217354|3hp=18724712|3weak=36781
+|4name=Gas Core|4rec=143.19M|4atk=392876|4defense=245353|4hp=23774616|4weak=38465
+|5name=Ion Slurry Core|5rec=171.87M|5atk=461125|5defense=285700|5hp=30946034|5weak=40698
+|6name=Particle Beam Core|6rec=203.27M|6atk=536613|6defense=329881|6hp=40788589|6weak=43963
+|Arec=251.66M|Aatk=645076|Adefense=388975|Ahp=63584346|Aweak=50229
+}}}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Family Mug
+|class_id=20539
+|rank=Green
+|affct=CIV
+|source=
+|description=Home is a cozy and secure haven, much like a warm cup of coffee. The rising steam and the rich aroma of coffee beautifully capture the delicate tenderness and warmth of a family. You can feel the profound affection within, as if being enveloped by a mother's embrace all around.
+|fame=15
+|art=16
+|fth=13
+|civ=31
+|tech=15
+|ss1=Snail HP +200<br>Per 50 Minions healed, Snail RUSH +1<br>Minions healed: 2000/2000
+|ss2=Snail HP +400<br>Per 50 Minions healed, Snail RUSH +2<br>Minions healed: 2000/2000
+|ss3=Snail HP +600<br>Per 50 Minions healed, Snail RUSH +3<br>Minions healed: 2000/2000
+|ss4=Snail HP +600<br>Per 50 Minions healed, Snail RUSH +3<br>Minions healed: 2000/2000
+|ss7=Snail HP +600<br>Per 50 Minions healed, Snail RUSH +3<br>Minions healed: 2000/2000<br> (Awakened)
+}}

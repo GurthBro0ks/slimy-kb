@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Princess Sun
+|rank=orange
+|cabin=2
+|id=163
+|gene1={race} RUSH +50
+|gene2={race} TECH +50
+|gene3=Per 10% HP lost, {race} RUSH +60
+|gene4=Per 60 Angel Minions in battle,
+Troop Wind DMG +6
+|gene5=Resolver: W-tads extracted +9
+|gene6=Per 60 Angel Minions in battle,
+Troop Wind DMG +10
+|gene7=Resolver: W-tads extracted +15
+|}}

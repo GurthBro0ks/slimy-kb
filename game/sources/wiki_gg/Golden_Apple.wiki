@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Apple
+|class_id=20435
+|rank=Green
+|affct=FAME
+|source=
+|description=All heroes covet this famous relic everywhere. Hercules went to great lengths to win this golden apple, Atalanta got married because of it, and Paris became the culprit in the Battle of Troy just to find it by killing himself and burying Troy's future in the process.
+|fame=30
+|art=15
+|fth=15
+|civ=18
+|tech=12
+|ss1=Per 6 Posh Costume Stars, Snail HP +10<br>Posh Stars: 192/192
+|ss2=Per 6 Posh Costume Stars, Snail HP +20<br>Posh Stars: 192/192
+|ss3=Per 6 Posh Costume Stars, Snail HP +30<br>Posh Stars: 192/192
+|ss4=Per 6 Posh Costume Stars, Snail HP +30<br>Posh Stars: 192/192
+|ss7=Per 6 Posh Costume Stars, Snail HP +30<br>Posh Stars: 192/192<br> (Awakened)
+}}

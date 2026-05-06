@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Shell Award
+|class_id=20098
+|rank=Green
+|affct=CIV
+|source=
+|description=The San Sebastian International Film Festival is one of the oldest and most prestigious film festivals in Europe. The Shell Award, selected by the International Federation of Film Critics, represents the best film of the festival each year. It has an unshakable position in the Spanish-speaking and Latin American film industry!
+|fame=13
+|art=13
+|fth=15
+|civ=34
+|tech=15
+|ss1=Event Avatar rating cap raised to SSS+<br>Traveler Plus daily W-tads +10<br>Traveler Pro daily W-tads +10
+|ss2=Event Avatar rating cap raised to SSS+<br>Traveler Plus daily W-tads +20<br>Traveler Pro daily W-tads +20
+|ss3=Event Avatar rating cap raised to SSS+<br>Traveler Plus daily W-tads +30<br>Traveler Pro daily W-tads +30
+|ss4=Event Avatar rating cap raised to SSS+<br>Traveler Plus daily W-tads +30<br>Traveler Pro daily W-tads +30
+|ss7=Event Avatar rating cap raised to SSS+<br>Traveler Plus daily W-tads +30<br>Traveler Pro daily W-tads +30<br> (Awakened)
+}}

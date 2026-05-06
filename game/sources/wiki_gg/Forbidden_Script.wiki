@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Forbidden Script
+|class_id=20555
+|rank=Green
+|affct=CIV
+|source=
+|description=It consists of excerpts from forbidden scrolls from the otherworld. Although they are not as effective as their original forms, they hold immeasurable value in the field of spell research. There's even a rumor that these transcriptions have propelled the Surf Clams to achieve results in a few months that would typically take decades...
+|fame=20
+|art=13
+|fth=12
+|civ=30
+|tech=15
+|ss1=Against Surf Clams,<br>Troop DMG toward heroes +1%<br>Against Surf Clams,<br>Troop DMG toward heroes +1%
+|ss2=Against Surf Clams,<br>Troop DMG toward heroes +2%<br>Against Surf Clams,<br>Troop DMG toward heroes +2%
+|ss3=Against Surf Clams,<br>Troop DMG toward heroes +3%<br>Against Surf Clams,<br>Troop DMG toward heroes +3%
+|ss4=Against Surf Clams,<br>Troop DMG toward heroes +3%<br>Against Surf Clams,<br>Troop DMG toward heroes +3%
+|ss7=Against Surf Clams,<br>Troop DMG toward heroes +3%<br>Against Surf Clams,<br>Troop DMG toward heroes +3%<br> (Awakened)
+}}

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Hannibal's Cup,Rosetta Stone
+|rank=purple
+|amount=2
+|category=home
+|description=Tadpole Pond B-tad Output +12%
+}}
+[[Category:Home]]

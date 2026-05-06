@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Merman King's Fin
+|type=Bionic
+|rank=orange
+|id=10691
+|idx=49
+|description=Its sleek and resilient skin grants formidable defense. Finned edges aid in fluid, silent movement — ghostlike and unpredictable, it appears and vanishes like a haunting specter…
+|skill=Blessed by the Mermaid, dealing DMG equal to 181.6% of ATK, and increase next round's Dodge Rate by 21%!
+|hp=1828
+|def=302
+|atk=189
+|rush=171
+|gene1=Per organ awakened, {race} DEF +5
+Organs awakened: 40/40
+|gene2=Water DMG +90
+|gene3=Ignore Water RES +90
+|gene4=Break RES +3%
+|gene5=In Snail Arena, CRIT +15%
+|gene7=Water DMG +270 (Awakened)
+|}}

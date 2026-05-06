@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=742
+|relics=A Burial At Ornans,Ivan the Terrible,WHC
+|rank=orange
+|amount=3
+|category=self
+|description=All Sanctum Glorium Output +3.2%
+}}

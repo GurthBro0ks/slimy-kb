@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Penicillin Sample,Stela of Djet
+|rank=blue
+|amount=2
+|category=other
+|description=In any Realm, +2% chance to gain 2x INTEL
+}}
+[[Category:Other]]

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Haradric Cube,Our Lady of Kazan,Chair of Busby
+|rank=blue
+|amount=3
+|category=home
+|description=Quarry Output +12%
+}}
+[[Category:Home]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Formula of Destruction
+|class_id=20382
+|rank=Green
+|affct=TECH
+|source=
+|description=The gemel energy of the Formula of Life. It is the center of all antimatter in space. Its owner can easily control people's minds and manipulate people's behaviors. However, in the meantime, it is also tasked with expanding antimatter in space, so it is viewed as a mad and desperate villain...
+|fame=16
+|art=17
+|fth=18
+|civ=11
+|tech=28
+|ss1=Each round, Snail ATK +2<br>Per 10 Mecha Gene LVLs, Snail ATK +2<br>Mecha Gene LVLs Researched: 300/300
+|ss2=Each round, Snail ATK +4<br>Per 10 Mecha Gene LVLs, Snail ATK +4<br>Mecha Gene LVLs Researched: 300/300
+|ss3=Each round, Snail ATK +6<br>Per 10 Mecha Gene LVLs, Snail ATK +6<br>Mecha Gene LVLs Researched: 300/300
+|ss4=Each round, Snail ATK +6<br>Per 10 Mecha Gene LVLs, Snail ATK +6<br>Mecha Gene LVLs Researched: 300/300
+|ss7=Each round, Snail ATK +6<br>Per 10 Mecha Gene LVLs, Snail ATK +6<br>Mecha Gene LVLs Researched: 300/300<br> (Awakened)
+}}

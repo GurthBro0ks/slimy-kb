@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=706
+|relics=Ave Maria,Nilakantha Dharani,Mouth Of Truth,Sleeping Venus,The City of God
+|rank=purple
+|amount=5
+|category=self
+|description=Catalyzed Green Spores turn to Blue by +0.9%
+}}

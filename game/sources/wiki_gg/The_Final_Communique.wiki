@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=The Final Communique
+|class_id=22011
+|rank=Blue
+|affct=FAME
+|birthday=04-16
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Apr 16, 1955 AD, the leaders of all attending countries signed this important document.<br>The Final Communique is published at the end of the Bandung Conference. It means that the attendees reached an agreement on their common interests. It also detailed the attendees' wish to work together, resist colonialism, and their agreement on peace, economy, and culture. The communique encouraged the people to seek peace and independence and had a deep impact on international politics. It is considered a milestone in the history of the world.
+|fame=45
+|art=27
+|fth=19
+|civ=28
+|tech=35
+|ss1=If you're in a club, Snail RUSH +20
+|ss2=If you're in a club, Snail RUSH +40
+|ss3=If you're in a club, Snail RUSH +60
+|ss4=If you're in a club, Snail RUSH +100
+|ss7=If you're in a club, Snail RUSH +100<br>If you're in a club, Snail RUSH +100 (Awakened)
+|skill1=[[File:Compass skill I.png|50px]]Place in Exploration Compass: In explorations, 2x INTEL Drops +2.5%
+}}

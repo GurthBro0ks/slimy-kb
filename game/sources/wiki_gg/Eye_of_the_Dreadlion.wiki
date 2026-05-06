@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Eye of the Dreadlion
+|type=Bionic
+|rank=red
+|id=10713
+|idx=71
+|description="Each human kingdom laid to ruin by the griffons became a living hell. The few who escaped alive had only this to say: Don’t look into its eyes…" — Chronicles of the Griffon
+|skill=Before round start, the enemy falls into a magic mirage, reducing the enemy's ATK by 30% this round!
+|hp=3670
+|def=231
+|atk=247
+|rush=225
+|gene1=Per organ implanted, all ELMT DMG +4
+Organs Implanted: 40/40
+|gene2=Craft 1 Purple Organ Slime: Gain 1 more by 10%
+|gene3=Craft 1 Orange Organ Slime: Gain 1 more by 10%
+|gene4=In Gene Sims, Wind DMG +240
+|gene5=In Gene Sims, Fire DMG +240
+|gene6=In Gene Sims, DMG +12%
+|gene7=In Gene Sims, DMG +12% (Awakened)
+|}}

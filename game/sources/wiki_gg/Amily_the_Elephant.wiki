@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Amily the Elephant
+|rank=blue
+|cabin=2
+|id=9
+|gene1={race} HP +200
+|gene2={race} TECH +20
+|gene3=Water DMG +10
+|gene4=Per 10 Mutant Minions in battle:
+> Troop HP +20
+|gene5=Water DMG +20
+|}}

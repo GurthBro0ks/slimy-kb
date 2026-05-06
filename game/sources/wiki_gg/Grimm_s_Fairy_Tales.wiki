@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Grimm's Fairy Tales
+|class_id=22582
+|rank=AAA
+|affct=CIV
+|birthday=03-29
+|source=Lottery Machine No.3 (0.06%)
+|description=On Mar 29, 1812 AD, the Grimm brothers published the first volume of "Grimm's Fairy Tales."<br>Grimm's Fairy Tales is a German folk literature that was processed and compiled by the Grimm brothers. During the Grimm brothers' lifetime, two hundred stories had already been published in story collections, and with later supplements, there are now more than seven hundred tales. The fairy tales contain profound moral themes, condense a simple concept of good and evil, allow children to experience different lives and adventures while reading, expand children's thinking, arouse children's love for life, and stimulate the formation of children's views of good and evil.
+|fame=51
+|art=47
+|fth=36
+|civ=71
+|tech=38
+|ss1=Snail ATK +30<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +24<br>Completed Recruitment Incidents: 50/50
+|ss2=Snail ATK +40<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +32<br>Completed Recruitment Incidents: 50/50
+|ss3=Snail ATK +50<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +40<br>Completed Recruitment Incidents: 50/50
+|ss4=Snail ATK +70<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +56<br>Completed Recruitment Incidents: 50/50
+|ss5=Snail ATK +90<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +72<br>Completed Recruitment Incidents: 50/50
+|ss7=Snail ATK +90<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +72<br>Completed Recruitment Incidents: 50/50<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Desertsanctum skill II.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +15%
+|skill2=[[File:Desertsanctum skill II.png|50px]]Place in Desert Sanctum: This Relic's CIV +10
+}}

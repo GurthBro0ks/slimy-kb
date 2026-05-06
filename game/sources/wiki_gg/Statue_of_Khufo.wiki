@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Statue of Khufo
+|class_id=20267
+|rank=Green
+|affct=FAITH
+|source=
+|description=Carved from ivory, this is a statue of a pharaoh of the fourth dynasty of ancient Egypt. Only those recognized by the pharaoh are qualified to obtain and display this statue.
+|fame=19
+|art=13
+|fth=29
+|civ=14
+|tech=15
+|ss1=Per 5 Quarry LVLs, Snail HP +30<br>Quarry LVL: 50/50
+|ss2=Per 5 Quarry LVLs, Snail HP +60<br>Quarry LVL: 50/50
+|ss3=Per 5 Quarry LVLs, Snail HP +90<br>Quarry LVL: 50/50
+|ss4=Per 5 Quarry LVLs, Snail HP +90<br>Quarry LVL: 50/50
+|ss7=Per 5 Quarry LVLs, Snail HP +90<br>Quarry LVL: 50/50<br> (Awakened)
+}}

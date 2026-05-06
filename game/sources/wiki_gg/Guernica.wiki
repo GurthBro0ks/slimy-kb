@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Guernica
+|rank=AAA
+|affct=ART
+|birthday=03-14
+|source=* Bharata Treasure Maps (10%), Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (Relic RF 80), Wishing (0.14%)
+* [[Kim Chi-yum]] - [[Rare Rent]]
+|description=On Mar 14, 1937, Picasso created this gloomy and depressing giant painting.
+
+This painting expressed the artist's opposition to war and massacre. He used realistic techniques and simple colors to create a gloomy and tragic tone. The design and composition of this painting seem casual and even a little messy. It reflects the chaotic situations of people panicking and fleeing away from bombs at the time. With this well-organized composition, the seemingly exaggerated and deformed images is actually a piece of neat and uniform art and a display of his great artistic skills.
+
+[Basic Info]
+
+Type: Oil Painting<br>Size: 349.3 cm x 776.6cm<br>Collected by: Queen Sofia National Museum Art Centre
+|fame=33
+|art=71
+|fth=48
+|civ=39
+|tech=52
+|ss1=Dragon Gene Research SPD +1.8%<br>Dragon Gene Research B-tad Cost -1.8%
+|ss2=Dragon Gene Research SPD +2.4%<br>Dragon Gene Research B-tad Cost -2.4%
+|ss3=Dragon Gene Research SPD +3%<br>Dragon Gene Research B-tad Cost -3%
+|ss4=Dragon Gene Research SPD +%<br>Dragon Gene Research B-tad Cost -%
+|ss5=Dragon Gene Research SPD +5.4%<br>Dragon Gene Research B-tad Cost -5.4%
+|ss7=Dragon Gene Research SPD +5.4%<br>Dragon Gene Research B-tad Cost -5.4%<br>Dragon Gene Research SPD +4.2% (Awakened)
+|skill1=[[File:Bharata skill II.png|50px]] Place in Bharata Museum: In Bharata, 2x INTEL Drops +7.5%
+|skill2=[[File:Bharata skill II.png|50px]] Place in Bharata Museum: In Bharata, 2x Purple Card Drops +7.5%
+}}
+
+[[Category:Dragon Gene Speedup Boost]]
+[[Category:Dragon Gene Cost Reduction]]
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Ancient Fossil Boost]]
+[[Category:Exploration B-tad Drop Boost]]

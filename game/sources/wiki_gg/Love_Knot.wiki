@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Love Knot
+|class_id=20649
+|rank=Green
+|affct=ART
+|source=
+|description=Also known as the Hercules Knot, it is regarded as a symbol of eternal unity.
+|fame=19
+|art=29
+|fth=13
+|civ=15
+|tech=14
+|ss1=Snail HP +200<br>Per 5k DNA Strength, Snail ATK +4<br>DNA Strength: 50000/50000
+|ss2=Snail HP +400<br>Per 5k DNA Strength, Snail ATK +8<br>DNA Strength: 50000/50000
+|ss3=Snail HP +600<br>Per 5k DNA Strength, Snail ATK +12<br>DNA Strength: 50000/50000
+|ss4=Snail HP +600<br>Per 5k DNA Strength, Snail ATK +12<br>DNA Strength: 50000/50000
+|ss7=Snail HP +600<br>Per 5k DNA Strength, Snail ATK +12<br>DNA Strength: 50000/50000<br> (Awakened)
+}}

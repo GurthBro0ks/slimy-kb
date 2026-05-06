@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Mischief Map
+|class_id=22122
+|rank=AAA
+|affct=FAME
+|birthday=08-23
+|source=
+|description=On Aug 23, 2007 AD, the conflict of opinions drove four wizards into launching a rebellion against Zeuss.<br>These four powerful wizards tried to overthrow the rule of Zeuss. To conveniently communicate with each other, they created this Mischief Map. After the failure of the operation, they killed themselves. Zeuss, however, cherished and kept their achievements.
+|fame=71
+|art=36
+|fth=35
+|civ=49
+|tech=52
+|ss1=Refine +1 White Rebel Material +3%<br>Per 30 Minions in battle:<br>> Troop HARD Stats +6
+|ss2=Refine +1 White Rebel Material +4%<br>Per 30 Minions in battle:<br>> Troop HARD Stats +8
+|ss3=Refine +1 White Rebel Material +5%<br>Per 30 Minions in battle:<br>> Troop HARD Stats +10
+|ss4=Refine +1 White Rebel Material +7%<br>Per 30 Minions in battle:<br>> Troop HARD Stats +14
+|ss5=Refine +1 White Rebel Material +9%<br>Per 30 Minions in battle:<br>> Troop HARD Stats +18
+|ss7=Refine +1 White Rebel Material +9%<br>Per 30 Minions in battle:<br>> Troop HARD Stats +18<br>Per 30 Minions in battle:<br>> Troop HARD Stats +14 (Awakened)
+|skill1=[[File:Koryeo skill II.png|50px]]Place in Koryeon Museum: This Relic's FAME +10
+|skill2=[[File:Koryeo skill II.png|50px]]Place in Koryeon Museum: In Koryeo, 2x B-tad Drops +7.5%
+}}

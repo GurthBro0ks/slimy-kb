@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=444
+|relics=Night Bloom II,The Moon Puzzle,CAL 9000,Xiuhtecuhtli Mask,No Longer Human
+|rank=purple
+|amount=5
+|category=self
+|description=Demon Minion MAX +9
+}}

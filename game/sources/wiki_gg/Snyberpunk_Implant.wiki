@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Snyberpunk Implant
+|type=Common
+|rank=blue
+|id=10938
+|idx=34
+|description=An advanced neural interface that convinces your brain time moves slower by overclocking your perception. Basically legalized bullet-time cheating.
+|skill=
+|hp=1210
+|def=120
+|atk=106
+|rush=71
+|gene1=In Mecha Form, Chance to trigger Stonehide +2%
+|gene2=Against Daily Hitmen, DMG +3%
+|gene3=Against Daily Hitmen, DMG REDUC +2%
+|gene7=Against Daily Hitmen, DMG +3% (Awakened)
+|}}

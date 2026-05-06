@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Yue Jue Shu
+|class_id=21333
+|rank=SSS
+|affct=CIV
+|source=
+|description=Yue Jue Shu (The Lost Records of Yue) is a historical geography of the Wu and Yue regions, compiled in the early Eastern Han dynasty. Centered on the rivalry between Wu and Yue in the late Spring and Autumn period, it weaves together geography, military strategy, and shamanistic lore. Through a blend of fact and legend, it recounts tales such as Goujian's bitter exile, Wu Zixu's city-building and river works, the forging of the Ganjiang-Moye swords, and the hidden scrolls in Yu’s cave.
+|fame=71
+|art=76
+|fth=55
+|civ=106
+|tech=54
+|ss1=Snail Leadership +6<br>Micro Incubator: Convert Green product to Blue by + 0.6%<br>Per 1 Incubator File fully restored, Snail Primeval Power +3<br>Incubator File fully restored: 60/60
+|ss2=Snail Leadership +7<br>Micro Incubator: Convert Green product to Blue by + 0.8%<br>Per 1 Incubator File fully restored, Snail Primeval Power +4<br>Incubator File fully restored: 60/60
+|ss3=Snail Leadership +8<br>Micro Incubator: Convert Green product to Blue by + 1%<br>Per 1 Incubator File fully restored, Snail Primeval Power +5<br>Incubator File fully restored: 60/60
+|ss4=Snail Leadership +10<br>Micro Incubator: Convert Green product to Blue by + 1.4%<br>Per 1 Incubator File fully restored, Snail Primeval Power +7<br>Incubator File fully restored: 60/60
+|ss5=Snail Leadership +12<br>Micro Incubator: Convert Green product to Blue by + 1.8%<br>Per 1 Incubator File fully restored, Snail Primeval Power +9<br>Incubator File fully restored: 60/60
+|ss6=Snail Leadership +15<br>Micro Incubator: Convert Green product to Blue by + 2.4%<br>Per 1 Incubator File fully restored, Snail Primeval Power +12<br>Incubator File fully restored: 60/60
+|ss7=Snail Leadership +15<br>Micro Incubator: Convert Green product to Blue by + 2.4%<br>Per 1 Incubator File fully restored, Snail Primeval Power +12<br>Incubator File fully restored: 60/60<br>Snail Leadership +10 (Awakened)
+|skill1=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Epoch Chest output speed+30%
+|skill2=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Relic CIV +15
+|skill3=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Zone SUP effect reduced by 30%
+}}

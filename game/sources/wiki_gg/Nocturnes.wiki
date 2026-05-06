@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Nocturnes
+|rank=Blue
+|affct=ART
+|birthday=03-13
+|source=* Lottery Machine(0.03%), Wishing (1.2%)
+* [[Peter Jr.]] - [[Rare Rent]]
+|description=On Mar 13, 1837, Frederic Chopin wrote a series of nocturnes that shocked the music scene.
+
+Nocturne was one of Chopin's masterpieces, which was composed after he read his friends' comments. Following the melody of the piece, he played using the unique sound of piano and sang along with it. This was how the melody and sound of the piano were able to blend in perfectly. The nocturne expressed feelings of melancholy, contemplation, and longing, as well as subtle emotions such as excitement and uneasiness. Together, it became a beautiful piece and a feast for the ears.
+|fame=22
+|art=45
+|fth=30
+|civ=25
+|tech=32
+|ss1=Lottery Green Beads turn to Blue by +0.2%
+|ss2=Lottery Green Beads turn to Blue by +0.4%
+|ss3=Lottery Green Beads turn to Blue by +0.6%
+|ss4=Lottery Green Beads turn to Blue by +1%
+|ss7=Lottery Green Beads turn to Blue by +1%<br>Lottery Green Beads turn to Blue by +0.5% (Awakened)
+|skill1=[[File:Arena skill I.png|50px]] Place in Snail Arena Compass: In Snail Arena, this Relic's ART +5
+}}
+
+[[Category:Lottery Bead Color Change]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:ART Boost]]
+[[Category:DEF Boost]]
+[[Category:Relic Boost]]
+[[Category:ATK Boost]]

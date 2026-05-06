@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=VIP Gold Card
+|class_id=22835
+|rank=SS
+|affct=FAITH
+|source=
+|description=This rose gold embossed card is the ultimate Snailverse access pass! Holders enjoy permanent chauffeured luxury car service, exclusive high-society parties, and a legendary lifestyle.
+|fame=53
+|art=69
+|fth=101
+|civ=51
+|tech=73
+|ss1=Snail HP +200<br>Daily equivalent of ads watched+5<br>Per VIP Card activated, Snail ATK+30<br>VIP Card Activated: 3/3
+|ss2=Snail HP +300<br>Daily equivalent of ads watched+5<br>Per VIP Card activated, Snail ATK+45<br>VIP Card Activated: 3/3
+|ss3=Snail HP +400<br>Daily equivalent of ads watched+5<br>Per VIP Card activated, Snail ATK+60<br>VIP Card Activated: 3/3
+|ss4=Snail HP +600<br>Daily equivalent of ads watched+5<br>Per VIP Card activated, Snail ATK+90<br>VIP Card Activated: 3/3
+|ss5=Snail HP +800<br>Daily equivalent of ads watched+5<br>Per VIP Card activated, Snail ATK+120<br>VIP Card Activated: 3/3
+|ss6=Snail HP +1100<br>Daily equivalent of ads watched+5<br>Per VIP Card activated, Snail ATK+165<br>VIP Card Activated: 3/3
+|ss7=Snail HP +1100<br>Daily equivalent of ads watched+5<br>Per VIP Card activated, Snail ATK+165<br>VIP Card Activated: 3/3<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: This Relic's FTH +15
+|skill2=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: B-tad Output +30%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail RUSH +600
+|mirage={{Mirage|name=Celebrity Life|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=Evil Spirit Driver|3rec=5.42M|3atk=59095|3defense=38970|3hp=956019|3weak=12731
+|4name=AI Butler|4rec=9.82M|4atk=81700|4defense=53877|4hp=1681527|4weak=15964
+|5name=Dragon Maid|5rec=16.95M|5atk=109210|5defense=72018|5hp=2737944|5weak=18950
+|Arec=35.16M|Aatk=141579|Adefense=93363|Ahp=4350951|Aweak=23442
+}}}}

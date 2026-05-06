@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Radar
+|class_id=20843
+|rank=Green
+|affct=TECH
+|source=
+|description=The radar is capable of pinpointing the locations of raw materials for the Dung Beetle Reactor by detecting fluctuations in the levels of radioactive elements in the soil. It is an essential for Dung Beetle engineers when they are on duty!
+|fame=19
+|art=14
+|fth=15
+|civ=13
+|tech=29
+|ss1=Against Dung Beetles,<br>Troop DMG toward heroes +1%<br>Against Dung Beetles,<br>Troop DMG toward heroes +1%
+|ss2=Against Dung Beetles,<br>Troop DMG toward heroes +2%<br>Against Dung Beetles,<br>Troop DMG toward heroes +2%
+|ss3=Against Dung Beetles,<br>Troop DMG toward heroes +3%<br>Against Dung Beetles,<br>Troop DMG toward heroes +3%
+|ss4=Against Dung Beetles,<br>Troop DMG toward heroes +3%<br>Against Dung Beetles,<br>Troop DMG toward heroes +3%
+|ss7=Against Dung Beetles,<br>Troop DMG toward heroes +3%<br>Against Dung Beetles,<br>Troop DMG toward heroes +3%<br> (Awakened)
+}}

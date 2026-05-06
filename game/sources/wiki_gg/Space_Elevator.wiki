@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Space Elevator
+|class_id=22917
+|rank=SSS
+|affct=TECH
+|source=
+|description=A revolutionary transportation system that relies on ultra-strong cables made of carbon nanotubes, reaching a space station 40,000 km away in geostationary orbit. The basic principle is to connect the ground base station directly with the space station in stationary orbit, freeing space travel from the cost and limitations of rocket launches. It uses a space elevator's electric motors to efficiently transport passengers and cargo to space. During construction, engineers overcame numerous challenges in extreme engineering mechanics, materials science, and space adaptability. With the success of this great project, humanity has stepped into a new era of the cosmos.
+|fame=75
+|art=49
+|fth=77
+|civ=55
+|tech=106
+|ss1=Snail Leadership +3<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +30<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +24<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Snail Leadership +4<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +40<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +32<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Snail Leadership +5<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +50<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +40<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Snail Leadership +7<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +70<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +56<br>Consumed Recruit Tokens: 5000/5000
+|ss5=Snail Leadership +9<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +90<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +72<br>Consumed Recruit Tokens: 5000/5000
+|ss6=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +96<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +96<br>Consumed Recruit Tokens: 5000/5000<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: Medal Output +30
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's TECH +15
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail ATK +600
+|mirage={{Mirage|name=dungeon@22917_1|reward={{RewardIconWithLink|AR2-T4 Capsule, +1|orange}}
+|3name=dungeon_event@4821_1|3rec=238.82M|3atk=662865|3defense=377421|3hp=91075384|3weak=58430
+|4name=dungeon_event@4822_1|4rec=306.48M|4atk=772132|4defense=438292|4hp=135656252|4weak=63256
+|5name=Guardian Mech|5rec=410.75M|5atk=941005|5defense=532100|5hp=243643745|5weak=69869
+|6name=dungeon_event@4824_1|6rec=540.64M|6atk=1163391|6defense=648949|6hp=437195770|6weak=77266
+|Arec=714.79M|Aatk=1619098|Adefense=816117|Ahp=706204518|Aweak=86315
+}}}}

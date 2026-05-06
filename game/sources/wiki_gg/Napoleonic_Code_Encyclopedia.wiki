@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=232
+|relics=Napoleonic Code,Encyclopedia
+|rank=orange
+|amount=2
+|category=self
+|description=Defeated Daily Hitmen drop +7% Demon Chests
+}}

@@ -1,0 +1,14 @@
+= Trophy Balls =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Sim Champion|orange}}
+{{IconExampleRowWithText|Sim 2nd Place|purple}}
+{{IconExampleRowWithText|Sim 3rd Place|blue}}
+{{IconExampleRowWithText|The Champion|orange}}
+{{IconExampleRowWithText|2nd Place Winner|purple}}
+{{IconExampleRowWithText|3rd Place Winner|blue}}
+{{IconExampleRowWithText|Dung Beetles Champion|orange}}
+{{IconExampleRowWithText|Dung Beetles 2nd Place|purple}}
+{{IconExampleRowWithText|Dung Beetles 3rd Place|blue}}
+|}
+
+[[Category:Icons]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Teddy Bear Award
+|class_id=20214
+|rank=Green
+|affct=CIV
+|source=
+|description=Teddy Bear Award is an award related to the Standing Bear Award, mainly set for pompous game advertising clips. Previous winners include lousy gamers who can never work out puzzles, helpless women who always need saving, protagonists who start low but get to Lv.100 instantly, etc.
+|fame=15
+|art=15
+|fth=15
+|civ=30
+|tech=15
+|ss1=Per 5 Sign-Ins, Snail DEF +1<br>Sign-Ins: 365/365
+|ss2=Per 5 Sign-Ins, Snail DEF +2<br>Sign-Ins: 365/365
+|ss3=Per 5 Sign-Ins, Snail DEF +3<br>Sign-Ins: 365/365
+|ss4=Per 5 Sign-Ins, Snail DEF +3<br>Sign-Ins: 365/365
+|ss7=Per 5 Sign-Ins, Snail DEF +3<br>Sign-Ins: 365/365<br> (Awakened)
+}}

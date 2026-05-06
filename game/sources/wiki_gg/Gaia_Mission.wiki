@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Gaia Mission
+|class_id=22900
+|rank=SSS
+|affct=TECH
+|source=
+|description=The Gaia Mission, launched by the European Space Agency, is a space telescope mission aimed at mapping a high-precision three-dimensional star chart of billions of stars in the Milky Way, revealing the structure, formation, and evolution of the galaxy. The mission's main objectives include creating a three-dimensional star chart of about one billion stars in the Milky Way, recording information such as the stars' positions, movements, luminosity, temperature, and composition. The Gaia Mission has observed nearly two billion stars and released data three times, updating details such as the stars' chemical compositions, temperatures, colors, masses, and ages. Additionally, the Gaia Mission has discovered multiple black holes and binary star systems, as well as non-radial stellar oscillations, providing valuable resources for astronomical research.
+|fame=69
+|art=53
+|fth=78
+|civ=56
+|tech=106
+|ss1=Per maxed constellation, trigger special visitor Starry Wanderer<br>Per Drone Assembling, 2x Drone Drops +1.2%<br>Per Galaxy Incident completed, Snail ATK +6<br>Galaxy Incidents Completed: 30/30
+|ss2=Per maxed constellation, trigger special visitor Starry Wanderer<br>Per Drone Assembling, 2x Drone Drops +1.6%<br>Per Galaxy Incident completed, Snail ATK +8<br>Galaxy Incidents Completed: 30/30
+|ss3=Per maxed constellation, trigger special visitor Starry Wanderer<br>Per Drone Assembling, 2x Drone Drops +2%<br>Per Galaxy Incident completed, Snail ATK +10<br>Galaxy Incidents Completed: 30/30
+|ss4=Per maxed constellation, trigger special visitor Starry Wanderer<br>Per Drone Assembling, 2x Drone Drops +2.8%<br>Per Galaxy Incident completed, Snail ATK +14<br>Galaxy Incidents Completed: 30/30
+|ss5=Per maxed constellation, trigger special visitor Starry Wanderer<br>Per Drone Assembling, 2x Drone Drops +3.6%<br>Per Galaxy Incident completed, Snail ATK +18<br>Galaxy Incidents Completed: 30/30
+|ss6=Per maxed constellation, trigger special visitor Starry Wanderer<br>Per Drone Assembling, 2x Drone Drops +4.8%<br>Per Galaxy Incident completed, Snail ATK +24<br>Galaxy Incidents Completed: 30/30
+|ss7=Per maxed constellation, trigger special visitor Starry Wanderer<br>Per Drone Assembling, 2x Drone Drops +4.8%<br>Per Galaxy Incident completed, Snail ATK +24<br>Galaxy Incidents Completed: 30/30<br>Per Drone Assembling, 2x Drone Drops +4% (Awakened)
+|skill1=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +30%
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in Quantum Amp: This Relic's TECH +15
+|skill3=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Produce Nebula Chest Shards by +30%
+|mirage={{Mirage|name=Visiting the Stars|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Betelgeuse|3rec=5.17M|3atk=57533|3defense=37952|3hp=885889|3weak=12537
+|4name=Sirius|4rec=9.40M|4atk=79741|4defense=52602|4hp=1579268|4weak=15672
+|5name=Proxima Centauri|5rec=16.26M|5atk=106806|5defense=70456|5hp=2588957|5weak=18751
+|6name=Polaris|6rec=33.89M|6atk=138826|6defense=91578|6hp=4103833|6weak=22982
+|Arec=51.37M|Aatk=176108|Adefense=116172|Ahp=6429956|Aweak=28500
+}}}}

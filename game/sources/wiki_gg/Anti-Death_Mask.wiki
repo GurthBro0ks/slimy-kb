@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Anti-Death Mask
+|class_id=20959
+|rank=Green
+|affct=FAME
+|source=
+|description=It emits an unsettling cold light. The mask is engraved with strange runes that seem to tell of life's tenacity and death's emptiness. The wearer will feel a power that transcends life and death, capable of resisting the assault of death and granting a chance of rebirth when on the brink of demise. However, this comes at a cost, as prolonged use may lead to an obsession with death, colloquially known as a death wish.
+|fame=34
+|art=12
+|fth=18
+|civ=13
+|tech=13
+|ss1=Lifesteal Rate +1%<br>Healing +1%
+|ss2=Lifesteal Rate +2%<br>Healing +2%
+|ss3=Lifesteal Rate +3%<br>Healing +3%
+|ss4=Lifesteal Rate +3%<br>Healing +3%
+|ss7=Lifesteal Rate +3%<br>Healing +3%<br> (Awakened)
+}}

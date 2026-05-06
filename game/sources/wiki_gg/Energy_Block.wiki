@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Energy Block
+|class_id=20858
+|rank=Green
+|affct=TECH
+|source=
+|description=Energy Blocks represent a potent energy source, synthesized through specialized refinement processes from a rare mineral. This mineral is exclusively found on a distant planetary body where, according to reports, all indigenous lifeforms exhibit mechanical characteristics...
+|fame=19
+|art=14
+|fth=14
+|civ=13
+|tech=30
+|ss1=Per 5 Rocket Tech LVLs, Snail HP +50<br>Rocket Tech Upgraded: 50/50
+|ss2=Per 5 Rocket Tech LVLs, Snail HP +55<br>Rocket Tech Upgraded: 50/50
+|ss3=Per 5 Rocket Tech LVLs, Snail HP +60<br>Rocket Tech Upgraded: 50/50
+|ss4=Per 5 Rocket Tech LVLs, Snail HP +60<br>Rocket Tech Upgraded: 50/50
+|ss7=Per 5 Rocket Tech LVLs, Snail HP +60<br>Rocket Tech Upgraded: 50/50<br> (Awakened)
+}}

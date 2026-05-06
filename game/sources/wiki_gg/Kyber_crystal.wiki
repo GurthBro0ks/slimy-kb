@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Kyber crystal
+|class_id=20381
+|rank=Green
+|affct=TECH
+|source=
+|description=A living creature without awareness. It releases plasma after being injected with energy. It is also one of its features to amplify the Force, thus, it is one of the crucial materials in the making of Strength Sword. Legend has it, it turns the weak ones who attempt to control it into its food.
+|fame=15
+|art=13
+|fth=18
+|civ=13
+|tech=31
+|ss1=Snail ATK +20<br>Mecha Gene Research B-tad Cost -0.6%
+|ss2=Snail ATK +40<br>Mecha Gene Research B-tad Cost -1.2%
+|ss3=Snail ATK +60<br>Mecha Gene Research B-tad Cost -1.8%
+|ss4=Snail ATK +60<br>Mecha Gene Research B-tad Cost -1.8%
+|ss7=Snail ATK +60<br>Mecha Gene Research B-tad Cost -1.8%<br> (Awakened)
+}}

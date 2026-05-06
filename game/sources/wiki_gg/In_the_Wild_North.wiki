@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=In the Wild North
+|class_id=22664
+|rank=SSS
+|affct=ART
+|birthday=06-23
+|source=
+|description=On June 23, 1891, Shishkin created a remarkable Russian winter landscape painting that would undoubtedly leave a significant mark in the history of art.<br>With a cold and stern color palette, Shishkin portrays cedar trees on distant northern cliffs. They stand tall and majestic, facing the silver moonlight. In fact, Shishkin's landscape paintings always embody a poetic atmosphere, and in the far north, he captures the unique lighting characteristics of moonlight. Through concise yet magnificent composition, he highlights the poetic ambiance of the scene. This painting becomes a visual and auditory poem, brimming with charm.
+|fame=50
+|art=107
+|fth=72
+|civ=76
+|tech=57
+|ss1=All Sanctum Glorium Output +1.2%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per Surf Clams Calculation LVL, Snail ATK +3<br>Surf Clams Calculation: 50/50
+|ss2=All Sanctum Glorium Output +1.6%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per Surf Clams Calculation LVL, Snail ATK +4<br>Surf Clams Calculation: 50/50
+|ss3=All Sanctum Glorium Output +2%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per Surf Clams Calculation LVL, Snail ATK +5<br>Surf Clams Calculation: 50/50
+|ss4=All Sanctum Glorium Output +2.8%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per Surf Clams Calculation LVL, Snail ATK +7<br>Surf Clams Calculation: 50/50
+|ss5=All Sanctum Glorium Output +3.6%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per Surf Clams Calculation LVL, Snail ATK +9<br>Surf Clams Calculation: 50/50
+|ss6=All Sanctum Glorium Output +4.8%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per Surf Clams Calculation LVL, Snail ATK +12<br>Surf Clams Calculation: 50/50
+|ss7=All Sanctum Glorium Output +4.8%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per Surf Clams Calculation LVL, Snail ATK +12<br>Surf Clams Calculation: 50/50<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's ART +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Card Drops +6%
+|mirage={{Mirage|name=In the distant North|reward={{RewardIconWithLink|Badge, +20|orange}}
+|3name=Sleigh|3rec=170.91M|3atk=470784|3defense=284359|3hp=82179869|3weak=53682
+|4name=Pine Tree|4rec=210.45M|4atk=554444|4defense=339989|4hp=124275483|4weak=58905
+|5name=Snowman|5rec=286.60M|5atk=675869|5defense=420403|5hp=213269565|5weak=64745
+|6name=ice sculptures|6rec=409.38M|6atk=844213|6defense=530867|6hp=363740548|6weak=70706
+|Arec=568.25M|Aatk=1064209|Adefense=673789|Ahp=577235777|Aweak=76632
+}}}}

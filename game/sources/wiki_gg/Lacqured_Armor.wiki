@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The armor is crafted by a great craftsman of that time. It is also known as "Sendai armor" because it was used by Date Masamune and his vassals, and is based on a prototype of the Yukishita armor.
+|affct=CIV
+|hard=HP
+|source=Divine Order Chest (0.2%)
+|color=purple
+|earth=5
+|water=5
+|fire=10
+|wind=6
+|form=Mutant
+|element=Fire
+|realm=Cathay
+|orangehard=RUSH
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=509
+|relics=Cyrus Cylinder,Aeneid
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Rocket Tech LVLs, Snail RUSH +28;Rocket Tech Upgraded: 50/50
+}}

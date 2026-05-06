@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Amy Award
+|class_id=20414
+|rank=Green
+|affct=CIV
+|source=
+|description=The Amy Awards is the most prestigious award in Murikan television, presented by the Academy of Television Arts and Sciences. The trophy's wings represent the Muse and the atom represents science. Fun fact: each Amy statue weighs three kilos.
+|fame=12
+|art=17
+|fth=19
+|civ=31
+|tech=11
+|ss1=B-tads gained from Ad Shop +10%
+|ss2=B-tads gained from Ad Shop +20%
+|ss3=B-tads gained from Ad Shop +30%
+|ss4=B-tads gained from Ad Shop +30%
+|ss7=B-tads gained from Ad Shop +30%<br> (Awakened)
+}}

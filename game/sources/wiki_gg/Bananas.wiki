@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=In the name of cost efficiency, Peter decided to change the dev team's meal plan: 3 bananas in the morning and 4 bananas in the evening. The dev team members were up in arms. So, Peter cleverly adjusted the plan: 4 bananas in the morning and 3 bananas in the evening. Suddenly, the team members cheered and gave him a standing ovation!
+|affct=FAME
+|hard=HP
+|source=Spring Day event
+|color=purple
+|earth=8
+|water=6
+|fire=6
+|wind=6
+|form=Dragon
+|element=Earth
+|realm=Rift
+|orangehard=ATK
+}}

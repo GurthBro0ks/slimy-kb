@@ -1,0 +1,39 @@
+{{Missing Info|specifics=<br>Mirage: 6s, Awakened}}
+{{CargoRelic
+|name=On War
+|rank=SSS
+|affct=FAME
+|birthday=02-02
+|source=Club Chest (0.01%), Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wishing (0.09%)
+|description=On Feb 2, 1837, "On War" by General Clausewitz was published for the first time. Six years after his death, On War was published. He drew upon German classical philosophy to examine war and concluded: war is nothing but the continuation of politics by other means. His thesis revolutionized the theory of war.
+
+[Key idea]
+
+War can only be inferred from the laws of probability. War is nothing but the continuation of politics by other means. The attempt to destroy the enemy's army is the spear of war. The theory of war is not rigid regulation but an examination. Spirituality is one of the most important issues in war.
+|fame=109
+|art=63
+|fth=70
+|civ=67
+|tech=53
+|ss1=Snail ATK +30<br>Per Realm conquered, Snail ATK +30<br>Per Realm conquered, Snail RUSH +30<br>Realms Conquered: 8/8
+|ss2=Snail ATK +40<br>Per Realm conquered, Snail ATK +40<br>Per Realm conquered, Snail RUSH +40<br>Realms Conquered: 8/8
+|ss3=Snail ATK +50<br>Per Realm conquered, Snail ATK +50<br>Per Realm conquered, Snail RUSH +50<br>Realms Conquered: 8/8
+|ss4=Snail ATK +70<br>Per Realm conquered, Snail ATK +70<br>Per Realm conquered, Snail RUSH +70<br>Realms Conquered: 8/8
+|ss5=Snail ATK +90<br>Per Realm conquered, Snail ATK +90<br>Per Realm conquered, Snail RUSH +90<br>Realms Conquered: 8/8
+|ss6=Snail ATK +120<br>Per Realm conquered, Snail ATK +120<br>Per Realm conquered, Snail RUSH +120<br>Realms Conquered: 8/8
+|ss7=Snail ATK +120<br>Per Realm conquered, Snail ATK +120<br>Per Realm conquered, Snail RUSH +120<br>Realms Conquered: 8/8<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Earth RES +60
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Earth DMG +600
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail DEF +600
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Realm Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:Earth RES Boost]]
+[[Category:Earth DMG Boost]]
+[[Category:DEF Boost]]
+[[Category:DNA Boost]]
+[[Category:Rewards Crystal of Will]]

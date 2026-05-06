@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=433
+|relics=Nuremberg Egg,Portrait of Helena,A Tale of Two Cities
+|rank=purple
+|amount=3
+|category=self
+|description=Per 200 Avatar Score, Snail ATK +7;Avatar Score: 10000/10000
+}}

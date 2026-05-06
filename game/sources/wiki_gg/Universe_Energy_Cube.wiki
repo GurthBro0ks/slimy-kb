@@ -1,0 +1,34 @@
+==Universe Energy Cube==
+Clinical Studies have shown that transplanting this energy into the body does not cause significant physical damage. No cases of rejection have ever been documented. Still, long-term effects remain to be seen.
+
+{{Organ Tabber
+|Name=Universe Energy Cube
+|Rarity=orange
+|ID Number=56
+|Initial HP=80
+|HP Increase=20
+|Initial ATK=3
+|ATK Increase=1
+|Initial DEF=14
+|DEF Increase=4
+|Initial RUSH=3
+|RUSH Increase=1
+|Effect 1=Water DMG +###
+|Initial Effect Value 1=3
+|Effect Value Increase 1=3
+|Effect 2=Earth DMG +###
+|Initial Effect Value 2=3
+|Effect Value Increase 2=3
+|Effect 3=Time Machine Travel Speedup Output +###%
+|Initial Effect Value 3=1
+|Effect Value Increase 3=1
+|Effect 4=
+|Initial Effect Value 4=
+|Effect Value Increase 4=
+|}}
+
+==Source==
+[[Gene Simulation|Ratman Gene Simulation]] and [[Unispark Lottery|Unispark Lottery]]
+
+[[Category:Organs]]
+[[Category:Orange Organs]]

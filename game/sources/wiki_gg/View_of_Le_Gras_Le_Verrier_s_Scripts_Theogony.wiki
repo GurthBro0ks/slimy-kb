@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=432
+|relics=View of Le Gras,Le Verrier's Scripts,Theogony
+|rank=purple
+|amount=3
+|category=self
+|description=Per Super Memetic Chest opened: Snail DEF +7;50/50 Super Memetic Chests opened
+}}

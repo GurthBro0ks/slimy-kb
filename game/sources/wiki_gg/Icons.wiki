@@ -1,0 +1,351 @@
+= Icons =
+[[:Category:Icons]]
+
+A page just to put commonly used Icons.
+
+== Specialty Icons ==
+There are several other pages in the [[:Category:Icons]] group.
+
+Specialty Icons can be found on the following pages:
+* [[Icons/Altar]]
+* [[Icons/Cosmetics]]
+* [[Icons/Domain]]
+* [[Icons/Early Game]]
+* [[Icons/Emojis]]
+* [[Icons/Events]]
+* [[Icons/Food]]
+* [[Icons/Forms]]
+* [[Icons/Fragments]]
+* [[Icons/Gene Simulation]]
+* [[Icons/Journey to the West]]
+* [[Icons/Minigames]]
+* [[Icons/Organs]]
+* [[Icons/Pistil]]
+* [[Icons/Protomon]]
+* [[Icons/Reward Packs]]
+* [[Icons/Species Map]]
+* [[Icons/Species War]]
+* [[Icons/Time Beacon]]
+* [[Icons/Treasure Collection]]
+* [[Icons/Wonder Fungus]]
+
+= [[Cathay Generals]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Byakko Spirit}}
+{{IconExampleRowWithText|Genbu Spirit}}
+{{IconExampleRowWithText|Seiryuu Spirit}}
+{{IconExampleRowWithText|Suzaku Spirit}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Prestige}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Akhal-Teke}}
+{{IconExampleRowWithText|Bronze Tripod}}
+{{IconExampleRowWithText|Reishi}}
+|}
+
+= Coating =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Green Coating|green}}
+{{IconExampleRowWithText|Blue Coating|blue}}
+{{IconExampleRowWithText|Purple Coating|purple}}
+{{IconExampleRowWithText|Orange Coating|orange}}
+{{IconExampleRowWithText|Coating Bucket|orange}}
+|}
+
+= Currency =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Ad Ticket}}
+{{IconExampleRowWithLink|Ancient Coin}}
+{{IconExampleRowWithLink|Badge|orange}}
+{{IconExampleRowWithLink|Basic Data Unit}}
+{{IconExampleRowWithLink|Chore Stamp}}
+{{IconExampleRowWithLink|Decor Coin|orange}}
+{{IconExampleRowWithLink|Drone}}
+{{IconExampleRowWithLink|Drone Core}}
+{{IconExampleRowWithLink|Feast Ticket}}
+{{IconExampleRowWithLink|Fluorite}}
+{{IconExampleRowWithLink|Game Controller}}
+{{IconExampleRowWithLink|Gear RF}}
+{{IconExampleRowWithLink|Glue}}
+{{IconExampleRowWithLink|Healing Potion}}
+{{IconExampleRowWithLink|Iridescent Scroll}}
+{{IconExampleRowWithLink|Iridescent Ticket}}
+{{IconExampleRowWithLink|Lottery Ticket|orange}}
+{{IconExampleRowWithLink|Lucky Coin}}
+{{IconExampleRowWithLink|Lucky Star}}
+{{IconExampleRowWithLink|Lucky Voucher}}
+{{IconExampleRowWithLink|Ma'at Sand of Time}}
+{{IconExampleRowWithLink|Magic Potion}}
+{{IconExampleRowWithLink|Maneater Affinity}}
+{{IconExampleRowWithLink|Museum Medal}}
+{{IconExampleRowWithLink|Neurolink}}
+{{IconExampleRowWithLink|Normal Star Pattern}}
+{{IconExampleRowWithLink|Organ Collection Voucher}}
+{{IconExampleRowWithLink|Punch Point}}
+{{IconExampleRowWithLink|Quantum Gel}}
+{{IconExampleRowWithLink|Rainbow Point}}
+{{IconExampleRowWithLink|Relic RF}}
+{{IconExampleRowWithLink|Resplendent Star Pattern}}
+{{IconExampleRowWithLink|Season Point|orange}}
+{{IconExampleRowWithLink|Sim Token}}
+{{IconExampleRowWithLink|Snail Honor}}
+{{IconExampleRowWithLink|Star Coin}}
+{{IconExampleRowWithLink|Star Sketch}}
+{{IconExampleRowWithLink|Star Stone}}
+{{IconExampleRowWithLink|Taichi Fish}}
+{{IconExampleRowWithText|Tainted B-Tad}}
+{{IconExampleRowWithLink|Toner}}
+{{IconExampleRowWithLink|Weekly Special Stamp}}
+{{IconExampleRowWithLink|Wish Coin|orange}}
+{{IconExampleRowWithLink|Wormhole Shard}}
+|}
+
+== Printing Supplies ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Engineering Printing Supply}}
+{{IconExampleRowWithText|Military Printing Supply}}
+{{IconExampleRowWithText|Standard Printing Supply}}
+|}
+
+= Forms =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Angel Form Icon}}
+{{IconExampleRowWithText|Demon Form Icon}}
+{{IconExampleRowWithText|Dragon Form Icon}}
+{{IconExampleRowWithText|Mecha Form Icon}}
+{{IconExampleRowWithText|Mutant Form Icon}}
+{{IconExampleRowWithText|Zombie Form Icon}}
+|}
+
+= [[Fridge]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Analysis Chip}}
+{{IconExampleRowWithLink|Cultivation Fluid}}
+{{IconExampleRowWithLink|Mutagen Serum}}
+{{IconExampleRowWithLink|Mutation Core}}
+{{IconExampleRowWithLink|Super Cultivation Fluid}}
+|}
+
+= Gems =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|ART Gem}}
+{{IconExampleRowWithText|CIV Gem}}
+{{IconExampleRowWithText|FAME Gem}}
+{{IconExampleRowWithText|FTH Gem}}
+{{IconExampleRowWithText|TECH Gem}}
+|}
+
+= [[Home Resources]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Ancient Fossil}}
+{{IconExampleRowWithText|Ancient Wood}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Stone Green}}
+{{IconExampleRowWithText|Stone Blue}}
+{{IconExampleRowWithText|Stone Purple}}
+{{IconExampleRowWithText|Stone Orange}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Wood Green}}
+{{IconExampleRowWithText|Wood Blue}}
+{{IconExampleRowWithText|Wood Purple}}
+{{IconExampleRowWithText|Wood Orange}}
+|}
+
+= [[Lottery_Machine|Lottery Machine No. 1]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Lottery Machine No. 1}}
+{{IconExampleRowWithText|White Bead}}
+{{IconExampleRowWithText|Green Bead}}
+{{IconExampleRowWithText|Blue Bead}}
+{{IconExampleRowWithText|Purple Bead}}
+{{IconExampleRowWithText|Orange Bead}}
+|}
+
+= [[Lottery_Machine#Lottery_Machine_No._2|Lottery Machine No. 2]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Lottery Machine No. 2}}
+{{IconExampleRowWithText|White Bead II}}
+{{IconExampleRowWithText|Green Bead II}}
+{{IconExampleRowWithText|Blue Bead II}}
+{{IconExampleRowWithText|Purple Bead II}}
+{{IconExampleRowWithText|Orange Bead II}}
+|}
+
+= [[Lottery_Machine#Lottery_Machine_No._3|Lottery Machine No. 3]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Lottery Machine No. 3}}
+{{IconExampleRowWithText|White Bead III}}
+{{IconExampleRowWithText|Green Bead III}}
+{{IconExampleRowWithText|Blue Bead III}}
+{{IconExampleRowWithText|Purple Bead III}}
+{{IconExampleRowWithText|Orange Bead III}}
+|}
+
+= [[Maneater]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Insect Feed|green}}
+{{IconExampleRowWithText|Fish Feed|blue}}
+{{IconExampleRowWithText|Animal Feed|purple}}
+{{IconExampleRowWithText|Sunny Plant Food|orange}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Digestive Pill|orange}}
+{{IconExampleRowWithLink|Maneater Affinity}}
+{{IconExampleRowWithLink|Mysterious Seed}}
+|}
+
+= [[Club|Manuals]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Angel Manual}}
+{{IconExampleRowWithLink|Demon Manual}}
+{{IconExampleRowWithLink|Dragon Manual}}
+{{IconExampleRowWithLink|Mecha Manual}}
+{{IconExampleRowWithLink|Mutant Manual}}
+{{IconExampleRowWithLink|Zombie Manual}}
+|}
+
+= [[Minion Sim]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Anomaly Frag}}
+{{IconExampleRowWithLink|N377 Tool Kit|orange}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithGearlink|Blue|War|Disk of Regeneration}}
+{{IconExampleRowWithGearlink|Blue|War|White Oaken Shield}}
+{{IconExampleRowWithGearlink|Purple|War|Trumpet Shell}}
+{{IconExampleRowWithGearlink|Orange|War|Sanskrit Tablet}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Common Record|blue}}
+{{IconExampleRowWithLink|Rare Record|purple}}
+{{IconExampleRowWithLink|Precious Record|orange}}
+{{IconExampleRowWithLink|Unknown Record|blue}}
+|}
+
+= Misc =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Current Species War Chest}}
+|}
+
+= Reagents =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Green Reagent|green}}
+{{IconExampleRowWithText|Blue Reagent|blue}}
+{{IconExampleRowWithText|Purple Reagent|purple}}
+{{IconExampleRowWithText|Orange Reagent|orange}}
+|}
+
+= [[Realms]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Koryeo}}
+{{IconExampleRowWithLink|Yamato}}
+{{IconExampleRowWithLink|Cathay}}
+{{IconExampleRowWithLink|Murika}}
+{{IconExampleRowWithLink|Britland}}
+{{IconExampleRowWithLink|Kemet}}
+{{IconExampleRowWithLink|Hellas}}
+{{IconExampleRowWithLink|Bharata}}
+{{IconExampleRowWithLink|Time Rift}}
+|}
+
+= [[Realm Traits]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Deadly Ironball}}
+{{IconExampleRowWithLink|Sacred Mirror}}
+{{IconExampleRowWithLink|Supreme Warlord}}||aka Lu Bu
+{{IconExampleRowWithLink|Lady Liberty}}
+{{IconExampleRowWithLink|Ghost Ship}}
+{{IconExampleRowWithLink|Ma'at Tablet}}
+{{IconExampleRowWithLink|Cosmos}}
+{{IconExampleRowWithLink|Dragon Horse}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Deadly Ironball Tome}}
+{{IconExampleRowWithText|Mirror Frag}}
+|}
+
+= [[Salesman]] =
+Items the [[Salesman]] can sell
+{{IconExampleHeader}}
+{{IconExampleRowWithText|73 Disinfectant}}
+{{IconExampleRowWithText|Ayden Disc}}
+{{IconExampleRowWithText|Bonley Fast Drying Paint}}
+{{IconExampleRowWithText|Dispolo Body Wash}}
+{{IconExampleRowWithLink|Electric Fishing Net|green}}
+{{IconExampleRowWithText|Face Wash}}
+{{IconExampleRowWithLink|Golden Pickaxe|orange}}
+{{IconExampleRowWithText|Gundan Drone}}
+{{IconExampleRowWithText|Hand Cream}}
+{{IconExampleRowWithText|Johns Baby Powder}}
+{{IconExampleRowWithText|Mr Tough Cleaner}}
+{{IconExampleRowWithText|Organic Feed}}
+{{IconExampleRowWithLink|Philosopher Soap|green}}
+{{IconExampleRowWithText|Schrodinger's Gel}}
+{{IconExampleRowWithLink|Snail Figure|green}}
+{{IconExampleRowWithLink|Spaceship Model|green}}
+{{IconExampleRowWithText|Stone Toy Bricks}}
+{{IconExampleRowWithText|Super Power Glue}}
+{{IconExampleRowWithText|Tyreal Shampoo}}
+{{IconExampleRowWithText|Wood Toy Bricks}}
+|}
+
+= Speedups =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Chore Speedup}}
+{{IconExampleRowWithText|Clone Speedup}}
+{{IconExampleRowWithText|Gene Speedup}}
+{{IconExampleRowWithText|Offering Speedup}}
+{{IconExampleRowWithText|Refine Speedup}}
+{{IconExampleRowWithText|Travel Speedup}}
+|}
+
+= [[Value_Packs#Power_Value_Pack|True Power]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|True Power I}}
+{{IconExampleRowWithText|True Power II}}
+{{IconExampleRowWithText|True Power III}}
+{{IconExampleRowWithText|True Power IV}}
+{{IconExampleRowWithText|True Power V}}
+|}
+
+= [[Unknown Creature]] =
+* [[File:Unknown Creature.png|150px|frameless]]
+* [[File:Unknown Creature Portrait.png|100px|frameless]]
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Mystery Gloop}}
+{{IconExampleRowWithText|Rainbow Gloop}}
+{{IconExampleRowWithLink|Rainbow Pig's Gene Segment}}
+|}
+
+= [[Vending Machine]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Angel Cat Food}}
+{{IconExampleRowWithText|Demon Cat Food}}
+{{IconExampleRowWithText|Mecha Cat Food}}
+{{IconExampleRowWithText|Mutant Cat Food}}
+{{IconExampleRowWithText|Zombie Cat Food}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Cat Food}}
+{{IconExampleRowWithText|Cat Vomit}}
+{{IconExampleRowWithText|Cat Vomit I}}
+{{IconExampleRowWithText|Cat Vomit II}}
+{{IconExampleRowWithText|Cat Vomit III}}
+{{IconExampleRowWithText|Fortune Cat Part}}
+{{IconExampleRowWithText|Game Controller}}
+{{IconExampleRowWithText|Fortune Cat Part}}
+{{IconExampleRowWithLink|Small Bowl}}
+{{IconExampleRowWithLink|Small Collar}}
+|}
+
+= [[Value_Packs#Consumer_Value_Pack|Whale Power]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Whale Power I}}
+{{IconExampleRowWithText|Whale Power II}}
+{{IconExampleRowWithText|Whale Power III}}
+{{IconExampleRowWithText|Whale Power IV}}
+{{IconExampleRowWithText|Whale Power V}}
+{{IconExampleRowWithText|Whale Power VI}}
+|}
+
+[[Category:Cathay]]
+[[Category:Icons]]
+[[Category:Lottery Machine]]
+[[Category:Maneater]]
+[[Category:Minion Sim]]
+[[Category:Realm]]

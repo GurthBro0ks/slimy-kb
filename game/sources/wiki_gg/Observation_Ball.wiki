@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Observation Ball
+|class_id=20275
+|rank=Green
+|affct=FAITH
+|source=
+|description=It is the token of angelic theocracy, also the symbol of status of high-ranking angels. It is said it could grant angels power that rivals the Gods, making them almost invincible and immortal in the God Realm. It should be noted that the energy that it releases may affect the user's emotions.
+|fame=16
+|art=15
+|fth=29
+|civ=16
+|tech=14
+|ss1=Healing +1%<br>Per 10 Angel Gene LVLs, Snail ATK +5<br>Angel Gene LVLs Researched: 300/300
+|ss2=Healing +2%<br>Per 10 Angel Gene LVLs, Snail ATK +10<br>Angel Gene LVLs Researched: 300/300
+|ss3=Healing +3%<br>Per 10 Angel Gene LVLs, Snail ATK +15<br>Angel Gene LVLs Researched: 300/300
+|ss4=Healing +3%<br>Per 10 Angel Gene LVLs, Snail ATK +15<br>Angel Gene LVLs Researched: 300/300
+|ss7=Healing +3%<br>Per 10 Angel Gene LVLs, Snail ATK +15<br>Angel Gene LVLs Researched: 300/300<br> (Awakened)
+}}

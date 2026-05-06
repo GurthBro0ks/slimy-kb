@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Orbital Radar Eye
+|type=Bionic
+|rank=purple
+|id=10664
+|idx=21
+|description="Equipped with satellite tracking systems, this ocular implant processes extraterrestrial targeting data at lightspeed, rendering enemy stealth obsolete."
+—Skynet Surveillance Log
+|skill=Before round start, the radar captures the enemy's weakness, causing the next attack to deal DMG equal to 163%!
+|hp=1338
+|def=231
+|atk=146
+|rush=121
+|gene1=Per purple or higher organ equipped, {race} RUSH +20
+Purple or higher Organs equipped: 7/7
+|gene2=Gene Simulation Power Checks -4%
+|gene3=HIT +4%
+|gene4=In Gene Sims, DMG +6%
+|gene7=Gene Simulation Power Checks -4% (Awakened)
+|}}

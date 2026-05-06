@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Stray Birds
+|class_id=21536
+|rank=SSS
+|affct=CIV
+|source=
+|description=Stray Birds is the work of a famous poet named Tagore. It has 325 short poems, mostly themed on weeds, falling leaves, birds, stars, and other common things in life. It conveys the author's spiritual pursuit, praises the freedom and equality of all lives, and presents the sacrifice in life and the meaning of life. These short but philosophical poems became Tagore's most important works that made a profound impact.
+|fame=72
+|art=66
+|fth=57
+|civ=107
+|tech=60
+|ss1=Wishing Egg hatching rate +3%<br>Per 10 Wishing Eggs hatched, Snail HP +30<br>Per 10 Wishing Eggs hatched, Snail ATK +3<br>Wishing Eggs Hatched: 400/400
+|ss2=Wishing Egg hatching rate +4%<br>Per 10 Wishing Eggs hatched, Snail HP +40<br>Per 10 Wishing Eggs hatched, Snail ATK +4<br>Wishing Eggs Hatched: 400/400
+|ss3=Wishing Egg hatching rate +5%<br>Per 10 Wishing Eggs hatched, Snail HP +50<br>Per 10 Wishing Eggs hatched, Snail ATK +5<br>Wishing Eggs Hatched: 400/400
+|ss4=Wishing Egg hatching rate +7%<br>Per 10 Wishing Eggs hatched, Snail HP +70<br>Per 10 Wishing Eggs hatched, Snail ATK +7<br>Wishing Eggs Hatched: 400/400
+|ss5=Wishing Egg hatching rate +9%<br>Per 10 Wishing Eggs hatched, Snail HP +90<br>Per 10 Wishing Eggs hatched, Snail ATK +9<br>Wishing Eggs Hatched: 400/400
+|ss6=Wishing Egg hatching rate +12%<br>Per 10 Wishing Eggs hatched, Snail HP +120<br>Per 10 Wishing Eggs hatched, Snail ATK +12<br>Wishing Eggs Hatched: 400/400
+|ss7=Wishing Egg hatching rate +12%<br>Per 10 Wishing Eggs hatched, Snail HP +120<br>Per 10 Wishing Eggs hatched, Snail ATK +12<br>Wishing Eggs Hatched: 400/400<br>Wishing Egg hatching rate +10% (Awakened)
+|skill1=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: Wishing Egg hatching efficiency +30%
+|skill2=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: Blue rewards from this egg turn Purple by 6%
+|skill3=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: Green rewards from this egg turn Blue by 6%
+|mirage={{Mirage|name=Legendary Poem|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=The Gardener|3rec=85.28M|3atk=245653|3defense=163885|3hp=15092645|3weak=31862
+|4name=The Crescent Moon|4rec=114.61M|4atk=307507|4defense=205150|4hp=22161945|4weak=36831
+|5name=The Fugitive|5rec=149.21M|5atk=380474|5defense=253829|5hp=31988361|5weak=42853
+|6name=Patraput|6rec=188.95M|6atk=464279|6defense=309739|6hp=44422796|6weak=50243
+|Arec=235.67M|Aatk=561484|Adefense=374589|Ahp=60401988|Aweak=53194
+}}}}

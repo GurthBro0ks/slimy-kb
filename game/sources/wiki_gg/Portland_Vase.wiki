@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Portland Vase
+|rank=Blue
+|affct=ART
+|birthday=12-04
+|source=Lottery Machine (0.03%), Wishing (1.2%), Fungus Chest (2%)
+|description=On Dec 4, 1845, a drunk man broke the glass cover of the Portland Vase by mistake. The Portland Vase is painted in deep blue color and white enamel, like the sea with rolling waves. There are also 7 life-like Roman gods engraved on it, such as the Cupid. How to restore this double-glazed vase? First, the blue bottle is blown into shape before it's immersed into the white glass liquid. Then the two are blown into one. After the bottle is formed, carvings will be made on the outer impermeable glass.
+|fame=26
+|art=48
+|fth=31
+|civ=27
+|tech=22
+|ss1=Fungus Farm Max Cap +2%
+|ss2=Fungus Farm Max Cap +4%
+|ss3=Fungus Farm Max Cap +6%
+|ss4=Fungus Farm Max Cap +10%
+|ss7=Fungus Farm Max Cap +10%<br>Fungus Farm Max Cap +10% (Awakened)
+|skill1=[[File:Hellas skill I.png|50px]] Place in Hellenic Museum: In Hellas, Snail ATK +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:ART Relics]]
+[[Category:Blue ART Relics]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:Hellas Museum Boost]]
+[[Category:Hellas Exploration Boost]]
+[[Category:ATK Boost]]
+[[Category:Power Boost]]
+[[Category:RUSH Boost]]
+[[Category:HP Boost]]
+[[Category:Koryeon Snail Boost]]

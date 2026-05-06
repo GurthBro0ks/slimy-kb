@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Dongba Scripture
+|class_id=21846
+|rank=AAA
+|affct=CIV
+|source=
+|description=Dongba Scripture is a classic literature of the Naxi ethnic group. The Dongba culture of the Naxi people is renowned for its unique pictographic characters and rich cultural heritage. Dongba Scripture is considered one of the oldest pictographic writing systems, and the Dongba Scripture written in Dongba script contain information about the origin of the universe, human history, religious rituals, medical knowledge, astronomy and calendar, moral norms, and poetry stories. They usually exist in the form of handmade bamboo slips or wooden tablets. Each classic has its specific purpose, such as being used for rituals such as praying for blessings, exorcising evil spirits, treating diseases, and divination, covering various aspects of Naxi social life.
+|fame=55
+|art=43
+|fth=42
+|civ=72
+|tech=31
+|ss1=Mutant Minion HP +3%<br>Protomon Snail assist DMG + 240
+|ss2=Mutant Minion HP +4%<br>Protomon Snail assist DMG + 320
+|ss3=Mutant Minion HP +5%<br>Protomon Snail assist DMG + 400
+|ss4=Mutant Minion HP +7%<br>Protomon Snail assist DMG + 560
+|ss5=Mutant Minion HP +9%<br>Protomon Snail assist DMG + 720
+|ss7=Mutant Minion HP +9%<br>Protomon Snail assist DMG + 720<br>Protomon Snail assist DMG + 560 (Awakened)
+|skill1=[[File:Cathay skill II.png|50px]]Place in Cathay Museum: This Relic's CIV +10
+|skill2=[[File:Cathay skill II.png|50px]]Place in Cathay Museum: In Cathay, 2x Green Card Drops +7.5%
+}}

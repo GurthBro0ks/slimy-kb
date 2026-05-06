@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Das Rheingold
+|class_id=22080
+|rank=Blue
+|affct=CIV
+|birthday=03-19
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Mar 19, 513 BC, the dwarf Alberich took advantage of the absence of the guardian fairy and stole the Rheingold.<br>At the bottom of the Rhine, Das Rheingold rests on a boulder guarded by three fairies. This magical gold possesses the power to grant its owner the ability to rule the world if it is crafted into a ring, but in exchange, the holder must forsake love. After being ridiculed for his unrequited love for a fairy, Alberich, a dwarf Nibelungen, cursed love and stole the gold to craft the ring. This act set off a tragic chain of events that would have a profound impact on the world.
+|fame=34
+|art=26
+|fth=27
+|civ=47
+|tech=20
+|ss1=Dragon Minion HP +1%
+|ss2=Dragon Minion HP +2%
+|ss3=Dragon Minion HP +3%
+|ss4=Dragon Minion HP +5%
+|ss7=Dragon Minion HP +5%<br>Dragon Minion HP +5% (Awakened)
+|skill1=[[File:Arena skill I.png|50px]]Place in Snail Arena Compass: In Snail Arena, Fire DMG +20
+}}

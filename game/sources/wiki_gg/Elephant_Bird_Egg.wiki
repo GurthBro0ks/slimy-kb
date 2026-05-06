@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Elephant Bird Egg
+|class_id=20460
+|rank=Green
+|affct=FAME
+|source=
+|description=It is the egg of an extinct giant bird species, the elephant bird. It is as big as several hundred chicken eggs. A complete skeleton of a young elephant bird is preserved inside of it. It is a once-in-a-lifetime rarity.
+|fame=31
+|art=18
+|fth=16
+|civ=13
+|tech=12
+|ss1=Luck Egg hatching rate +3%<br>Per 10 Lucky Eggs hatched, Snail ATK +1<br>400/400 Lucky Eggs hatched
+|ss2=Luck Egg hatching rate +3%<br>Per 10 Lucky Eggs hatched, Snail ATK +2<br>400/400 Lucky Eggs hatched
+|ss3=Luck Egg hatching rate +3%<br>Per 10 Lucky Eggs hatched, Snail ATK +3<br>400/400 Lucky Eggs hatched
+|ss4=Luck Egg hatching rate +3%<br>Per 10 Lucky Eggs hatched, Snail ATK +3<br>400/400 Lucky Eggs hatched
+|ss7=Luck Egg hatching rate +3%<br>Per 10 Lucky Eggs hatched, Snail ATK +3<br>400/400 Lucky Eggs hatched<br> (Awakened)
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=654
+|relics=Marine Chronometer,Ancient Compass,Heliostat,Phase-contrast Microscope,Newcomen Engine,Lyot Coronagraph
+|rank=blue
+|amount=6
+|category=self
+|description=Merge 1 Blue Stardust: Gain 1 more by 9%
+}}

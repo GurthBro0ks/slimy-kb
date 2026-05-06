@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Goldfish Nobori
+|class_id=20643
+|rank=Green
+|affct=ART
+|source=
+|description=This war banner is modeled after the appearance of goldfish. While its makers intended it to display their might, in reality, enemies are often more bewildered by its adorable design than intimidated by its supposed power.
+|fame=18
+|art=27
+|fth=15
+|civ=14
+|tech=16
+|ss1=Against Goldfishes,<br>Troop DMG toward heroes +1%<br>Against Goldfishes,<br>Troop DMG toward heroes +1%
+|ss2=Against Goldfishes,<br>Troop DMG toward heroes +2%<br>Against Goldfishes,<br>Troop DMG toward heroes +2%
+|ss3=Against Goldfishes,<br>Troop DMG toward heroes +3%<br>Against Goldfishes,<br>Troop DMG toward heroes +3%
+|ss4=Against Goldfishes,<br>Troop DMG toward heroes +3%<br>Against Goldfishes,<br>Troop DMG toward heroes +3%
+|ss7=Against Goldfishes,<br>Troop DMG toward heroes +3%<br>Against Goldfishes,<br>Troop DMG toward heroes +3%<br> (Awakened)
+}}

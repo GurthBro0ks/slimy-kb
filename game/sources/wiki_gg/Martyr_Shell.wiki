@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Snail Shell was owned by the Knight Of Light, whose existance was more formidable that the devil. It once tortured a Snail and turned it into a demon by channeling its hate, then purifying it with light to transform it into a loyal servant.
+|affct=FTH
+|hard=DEF
+|source=
+{{Memetic Catalyst
+|number=4409
+|relic1=Golden Fleece
+|relic2=Viking Horn
+|relic3=Epic of Gilgamesh
+|relic4=Cornucopia
+|relic5=Templar Emblem
+}}
+|color=blue
+|earth=3
+|water=3
+|fire=4
+|wind=4
+|form=Angel
+|element=Fire
+|realm=Britland
+|orangehard=DEF
+}}

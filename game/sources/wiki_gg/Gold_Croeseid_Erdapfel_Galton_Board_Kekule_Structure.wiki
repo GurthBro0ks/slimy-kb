@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Gold Croeseid,Erdapfel,Galton Board,Kekule Structure
+|rank=purple
+|amount=4
+|category=minion
+|description=Dragon Minion HP +8%
+}}
+[[Category:Minion]]
+[[Category:Dragon Minion HP Boost]]

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=627
+|relics=The Blood of Nessus,Underworld Pomegranate
+|rank=blue
+|amount=2
+|category=self
+|description=When you receive Orange Spores from Catalysis: Gain +1 Spore Voucher by +10%
+}}

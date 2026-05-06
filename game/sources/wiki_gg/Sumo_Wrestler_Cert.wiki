@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Sumo Wrestler Cert
+|class_id=20010
+|rank=Green
+|affct=CIV
+|source=
+|description=Yokozuna is the highest rank among sumo wrestlers. There won't be more than four Yokozuna wrestlers at any one time. A Yokozuna can't be demoted except for special circumstances. The title won't be denied unless the wrestler retires, but the salary will always stay unchanged. Yamato people worship the Yokozuna!
+|fame=11
+|art=21
+|fth=14
+|civ=28
+|tech=16
+|ss1=In Snail Arena, Snail HP +160<br>In Snail Arena, Snail ATK +16
+|ss2=In Snail Arena, Snail HP +320<br>In Snail Arena, Snail ATK +32
+|ss3=In Snail Arena, Snail HP +480<br>In Snail Arena, Snail ATK +48
+|ss4=In Snail Arena, Snail HP +480<br>In Snail Arena, Snail ATK +48
+|ss7=In Snail Arena, Snail HP +480<br>In Snail Arena, Snail ATK +48<br> (Awakened)
+}}

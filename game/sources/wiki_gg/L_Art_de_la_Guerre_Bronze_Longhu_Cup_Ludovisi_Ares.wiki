@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=537
+|relics=L'Art de la Guerre,Bronze Longhu Cup,Ludovisi Ares
+|rank=orange
+|amount=3
+|category=self
+|description=In the Demon God Rocket Cabin: Demon God Matrix Base Effect +64%
+}}

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Noah's Ark,Golden Trophy,Ape's Footprint Fossil,Trojan Horse,Einstein's Brain,Gravitation Scripts
+|rank=orange
+|amount=6
+|category=other
+|description=Travel SPD +2.4%
+}}
+[[Category:Other]]

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Galle Inscription
+|class_id=22578
+|rank=AAA
+|affct=CIV
+|birthday=09-13
+|source=Lottery Machine No.3 (0.06%)
+|description=On Sept 13, 1911 AD, British engineers discovered a stone tablet while repairing roads in southern Sri Lanka.<br>Galle Trilingual Inscription, also known as the Zheng He Stele, records Zheng He's visit to Sri Lanka during his voyages to the West, rewarding the king and donating gold and silver to local temples and erecting steles. In addition to Chinese, the stone tablet also has Persian and Tamil inscriptions, expressing respect for the Zoroastrian and Hindu gods and demonstrating the diplomatic wisdom of the Ming Dynasty...
+|fame=50
+|art=42
+|fth=40
+|civ=75
+|tech=36
+|ss1=Per CIV Bionic Part extracted, Snail ATK +15<br>Per CIV Bionic Part extracted, Snail RUSH +15<br>CIV Bionic Part Extracted: 10/10
+|ss2=Per CIV Bionic Part extracted, Snail ATK +20<br>Per CIV Bionic Part extracted, Snail RUSH +20<br>CIV Bionic Part Extracted: 10/10
+|ss3=Per CIV Bionic Part extracted, Snail ATK +25<br>Per CIV Bionic Part extracted, Snail RUSH +25<br>CIV Bionic Part Extracted: 10/10
+|ss4=Per CIV Bionic Part extracted, Snail ATK +35<br>Per CIV Bionic Part extracted, Snail RUSH +35<br>CIV Bionic Part Extracted: 10/10
+|ss5=Per CIV Bionic Part extracted, Snail ATK +45<br>Per CIV Bionic Part extracted, Snail RUSH +45<br>CIV Bionic Part Extracted: 10/10
+|ss7=Per CIV Bionic Part extracted, Snail ATK +45<br>Per CIV Bionic Part extracted, Snail RUSH +45<br>CIV Bionic Part Extracted: 10/10<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Quantumamp  skill II.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +15%
+|skill2=[[File:Quantumamp  skill II.png|50px]]Place in a Quantum Amp: Quantum Amp production +7.5%
+}}

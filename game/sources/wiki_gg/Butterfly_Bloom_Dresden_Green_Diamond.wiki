@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=665
+|relics=Butterfly Bloom,Dresden Green Diamond
+|rank=purple
+|amount=2
+|category=self
+|description=Per Tribal Warfare participation, Snail ATK +6;Tribal Warfare Participation: 50/50
+}}

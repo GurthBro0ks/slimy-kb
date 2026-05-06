@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=677
+|relics=Salmon of Knowledge,Calydonian Boar Skin
+|rank=purple
+|amount=2
+|category=self
+|description=Snail ATK +60
+}}

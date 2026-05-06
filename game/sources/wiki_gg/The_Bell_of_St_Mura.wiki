@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=The Bell of St Mura
+|class_id=22162
+|rank=AAA
+|affct=FAITH
+|birthday=11-29
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Nov 29, 1100 AD, the Bell of St Mura entered the world amidst the ringing of bells.<br>The Bell of St Mura is a gift from an angel. Legend has it that an angel was present when the Bell descended one day to earth amidst the ringing of bells. But when the people gathered to watch, the ringing stopped and the angel returned to heaven, leaving behind only a silent bell. It's said the sound of the bell can cure all ills, alleviate pains, and heal the sick.
+|fame=40
+|art=52
+|fth=74
+|civ=35
+|tech=42
+|ss1=Angel Minion HP +3%<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +6
+|ss2=Angel Minion HP +4%<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +8
+|ss3=Angel Minion HP +5%<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +10
+|ss4=Angel Minion HP +7%<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +14
+|ss5=Angel Minion HP +9%<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +18
+|ss7=Angel Minion HP +9%<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +18<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +14 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail FTH +400
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's FTH +10
+}}

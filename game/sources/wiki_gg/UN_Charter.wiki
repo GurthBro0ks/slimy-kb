@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=UN Charter
+|class_id=20212
+|rank=Green
+|affct=FAITH
+|source=
+|description=The UN Charter is the basic law of the United Nations. It establishes the purposes, principles, and organizations of the UN, stipulates the responsibilities, rights, and obligations of member states, as well as the principles and methods for handling international relations and maintaining world peace and security.
+|fame=20
+|art=16
+|fth=31
+|civ=10
+|tech=13
+|ss1=Club Chests from Free Daily Star Coins +10%<br>Per 5 Star Coin Redeems, Snail ATK +3<br>Star Coin Redeems: 100/100
+|ss2=Club Chests from Free Daily Star Coins +20%<br>Per 5 Star Coin Redeems, Snail ATK +6<br>Star Coin Redeems: 100/100
+|ss3=Club Chests from Free Daily Star Coins +30%<br>Per 5 Star Coin Redeems, Snail ATK +9<br>Star Coin Redeems: 100/100
+|ss4=Club Chests from Free Daily Star Coins +30%<br>Per 5 Star Coin Redeems, Snail ATK +9<br>Star Coin Redeems: 100/100
+|ss7=Club Chests from Free Daily Star Coins +30%<br>Per 5 Star Coin Redeems, Snail ATK +9<br>Star Coin Redeems: 100/100<br> (Awakened)
+}}

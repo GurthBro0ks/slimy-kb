@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Jade Ruyi
+|class_id=20229
+|rank=Green
+|affct=FAITH
+|source=
+|description=This is the Jade Ruyi always held by the God of Prosperity. Its shape resembles a long-handled hook, with a flat head like a shell and a smooth surface. Ruyi symbolizes good luck, and the God of Prosperity is the deity in charge of fame and fortune.
+|fame=18
+|art=13
+|fth=29
+|civ=13
+|tech=17
+|ss1=Per Incense used, Snail ATK +1<br>Incense Used: 20/20
+|ss2=Per Incense used, Snail ATK +2<br>Incense Used: 20/20
+|ss3=Per Incense used, Snail ATK +3<br>Incense Used: 20/20
+|ss4=Per Incense used, Snail ATK +3<br>Incense Used: 20/20
+|ss7=Per Incense used, Snail ATK +3<br>Incense Used: 20/20<br> (Awakened)
+}}

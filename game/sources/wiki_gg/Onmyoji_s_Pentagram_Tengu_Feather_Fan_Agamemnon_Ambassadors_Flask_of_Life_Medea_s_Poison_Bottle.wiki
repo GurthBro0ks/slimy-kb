@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=646
+|relics=Onmyoji's Pentagram,Tengu Feather Fan,Agamemnon Ambassadors,Flask of Life,Medea's Poison Bottle
+|rank=blue
+|amount=5
+|category=self
+|description=Merge 1 Blue Stardust: Gain 1 more by 8%
+}}

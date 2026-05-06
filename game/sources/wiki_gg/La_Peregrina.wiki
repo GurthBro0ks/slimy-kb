@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=La Peregrina
+|class_id=22142
+|rank=AAA
+|affct=ART
+|birthday=08-16
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Aug 16, 1513 AD, La Peregrinawas given to the Spanish King by a viceroy.<br>La Peregrina is a perfectly shaped, fifty-carat teardrop pearl with a fascinating history that has spanned over four centuries and traveled through the royal houses of France, Spain, and England. While many of its contemporaries have been lost, this pearl has been preserved in all its beauty.
+|fame=34
+|art=73
+|fth=43
+|civ=50
+|tech=43
+|ss1=When converting cards in Species Wars, B-tads gained +3%<br>Per 1.5k Tadpole Points, Snail HP +30<br>Tadpole Points: 45000/45000
+|ss2=When converting cards in Species Wars, B-tads gained +4%<br>Per 1.5k Tadpole Points, Snail HP +40<br>Tadpole Points: 45000/45000
+|ss3=When converting cards in Species Wars, B-tads gained +5%<br>Per 1.5k Tadpole Points, Snail HP +50<br>Tadpole Points: 45000/45000
+|ss4=When converting cards in Species Wars, B-tads gained +7%<br>Per 1.5k Tadpole Points, Snail HP +70<br>Tadpole Points: 45000/45000
+|ss5=When converting cards in Species Wars, B-tads gained +9%<br>Per 1.5k Tadpole Points, Snail HP +90<br>Tadpole Points: 45000/45000
+|ss7=When converting cards in Species Wars, B-tads gained +9%<br>Per 1.5k Tadpole Points, Snail HP +90<br>Tadpole Points: 45000/45000<br>When converting cards in Species Wars, B-tads gained +7% (Awakened)
+|skill1=[[File:Compass skill II.png|50px]]Place in Exploration Compass: Snail ATK +60
+|skill2=[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, 2x Purple Reagent Drops +7.5%
+}}

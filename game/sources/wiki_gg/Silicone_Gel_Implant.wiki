@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Silicone Gel Implant
+|type=Common
+|rank=blue
+|id=10811
+|idx=12
+|description=Made by the Koryeon Plastic Surgery Hospital, it has undergone strict safety tests and will give you a huge advantage in life!
+|skill=
+|hp=1110
+|def=98
+|atk=77
+|rush=132
+|gene1=When in Angel Form:
+> Gain +2% Fungus Chests in explorations
+|gene2=Water RES +30
+|gene3=Quarry Max Cap +1.5%
+|gene7=When in Angel Form:
+> Gain +2% Fungus Chests in explorations (Awakened)
+|}}

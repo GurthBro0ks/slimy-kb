@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Alexander's Sarcophagus
+|class_id=22793
+|rank=SSS
+|affct=FAME
+|source=
+|description=This sarcophagus, made from the finest marble of the time, is approximately four meters in length, three meters in width, and two meters in height, and is very well preserved. The central part of the sarcophagus features a lifelike carving of a human figure, depicting Alexander the Great leading his army into battle against the Persians. The figure with blond hair on horseback at the far left of the sarcophagus is believed to be Alexander himself, showcasing his valor and invincibility. There are two holes on the sarcophagus for placing Alexander's hands as he lay dying, symbolizing that he left this world with nothing.
+|fame=108
+|art=57
+|fth=52
+|civ=68
+|tech=77
+|ss1=Snail Leadership +3<br>Per 60 T7+ Minions in battle:<br>> Troop HP +300<br>Per 5 Epic Protodex Stars, Snail DEF +9<br>Epic Protodex Stars: 100/100
+|ss2=Snail Leadership +4<br>Per 60 T7+ Minions in battle:<br>> Troop HP +400<br>Per 5 Epic Protodex Stars, Snail DEF +12<br>Epic Protodex Stars: 100/100
+|ss3=Snail Leadership +5<br>Per 60 T7+ Minions in battle:<br>> Troop HP +500<br>Per 5 Epic Protodex Stars, Snail DEF +15<br>Epic Protodex Stars: 100/100
+|ss4=Snail Leadership +7<br>Per 60 T7+ Minions in battle:<br>> Troop HP +700<br>Per 5 Epic Protodex Stars, Snail DEF +21<br>Epic Protodex Stars: 100/100
+|ss5=Snail Leadership +9<br>Per 60 T7+ Minions in battle:<br>> Troop HP +900<br>Per 5 Epic Protodex Stars, Snail DEF +27<br>Epic Protodex Stars: 100/100
+|ss6=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>Per 5 Epic Protodex Stars, Snail DEF +36<br>Epic Protodex Stars: 100/100
+|ss7=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>Per 5 Epic Protodex Stars, Snail DEF +36<br>Epic Protodex Stars: 100/100<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1000 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Snail ATK +600
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's FAME +15
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Orange Reagent Drops +15%
+|mirage={{Mirage|name=dungeon@22793_1|reward={{RewardIconWithLink|Lucky Coin, +3|orange}}
+|3name=Memnon|3rec=280.34M|3atk=730208|3defense=414770|3hp=115941118|3weak=61463
+|4name=Parmenion|4rec=357.14M|4atk=853469|4defense=483871|4hp=182087001|4weak=66545
+|5name=Darius III|5rec=471.54M|5atk=1042459|5defense=586787|5hp=331672796|5weak=73450
+|6name=Alexander the Great|6rec=618.13M|6atk=1355213|6defense=718670|6hp=557466833|6weak=81294
+|Arec=839.11M|Aatk=2000408|Adefense=949454|Ahp=943859838|Aweak=91626
+}}}}

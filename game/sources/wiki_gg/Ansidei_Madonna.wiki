@@ -1,0 +1,37 @@
+{{Missing Info|specifics=mirage s5 name}}
+{{CargoRelic
+|name=Ansidei Madonna
+|rank=SSS
+|affct=ART
+|birthday=03-17
+|source=Lottery Machine (0.09%), Wishing (0.08%), Grandmaster Scrolls (0.8%)
+|description=On Mar 17, AD 1505, Raphael painted Ansidei Madonna for Basilica of Saint Mary Major. The Ansidei Madonna is considered to be Raphael's greatest Madonnas. The serene characters are painted with soft and beautiful tones. Raphael combines the tenderness of motherhood with the piety of her followers to present a harmonious scene. It is said that this work was inspired by the Cardinal's Niece, whom he was engaged to, but never married.
+|fame=65
+|art=108
+|fth=76
+|civ=63
+|tech=50
+|ss1=Snail ATK +30<br>Per 3 ART Relics awakened, Snail HP +90<br>Per 3 ART Relics awakened, Snail ATK +9<br>ART Relics Awakened: 60/60
+|ss2=Snail ATK +40<br>Per 3 ART Relics awakened, Snail HP +120<br>Per 3 ART Relics awakened, Snail ATK +12<br>ART Relics Awakened: 60/60
+|ss3=Snail ATK +50<br>Per 3 ART Relics awakened, Snail HP +150<br>Per 3 ART Relics awakened, Snail ATK +15<br>ART Relics Awakened: 60/60
+|ss4=Snail ATK +70<br>Per 3 ART Relics awakened, Snail HP +210<br>Per 3 ART Relics awakened, Snail ATK +21<br>ART Relics Awakened: 60/60
+|ss5=Snail ATK +90<br>Per 3 ART Relics awakened, Snail HP +270<br>Per 3 ART Relics awakened, Snail ATK +27<br>ART Relics Awakened: 60/60
+|ss6=Snail ATK +120<br>Per 3 ART Relics awakened, Snail HP +360<br>Per 3 ART Relics awakened, Snail ATK +36<br>ART Relics Awakened: 60/60
+|ss7=Snail ATK +120<br>Per 3 ART Relics awakened, Snail HP +360<br>Per 3 ART Relics awakened, Snail ATK +36<br>ART Relics Awakened: 60/60<br>Snail ATK +100 (Awakened)
+|skill1={{Skills|hellas|art|15}}
+|skill2={{Skills|hellas|mutant|30}}
+|skill3={{Skills|hellas|mecha|30}}
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Relics]]
+[[Category:Orange Relics]]
+[[Category:ART Relics]]
+[[Category:Orange ART Relics]]
+[[Category:Hellas Museum Boost]]
+[[Category:Hellas Exploration Boost]]
+[[Category:ATK Boost]]
+[[Category:HP Boost]]
+[[Category:Wormhole Boost]]
+[[Category:Enhanced by Art Relics Awakened]]
+[[Category:Gaia Rocket Cabin Boost]]

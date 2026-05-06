@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Machinery Master Gong Shu
+|rank=red
+|cabin=1
+|id=1007
+|gene1={race} HARD +50
+|gene2={race} AFFCT +50
+|gene3=Gene Simulation Power Checks -1.5%
+|gene4=Per 60 Minions in battle:
+> Troop Wind DMG +6
+|gene5={race} Leadership +1
+|gene6=Per 60 Minions in battle:
+> Troop Wind DMG +10
+|gene7={race} Leadership +3
+|}}

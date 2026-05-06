@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Prism of Time
+|class_id=20384
+|rank=Green
+|affct=TECH
+|source=
+|description=Time is the measurement of all things and life. It's a symbol and record of civilization. Prism of Time emerges from the edge of time, where time does not flow and history does not unfold. Its intention is not to end matters but to rediscover things buried in oblivion throughout history, beyond the dimension of time!
+|fame=14
+|art=12
+|fth=19
+|civ=14
+|tech=31
+|ss1=Per 20 Unispark Activates, Abyss Amulet +1<br>Per 500 TECH, Snail ATK +2<br>TECH: 15000/15000
+|ss2=Per 20 Unispark Activates, Abyss Amulet +1<br>Per 500 TECH, Snail ATK +4<br>TECH: 15000/15000
+|ss3=Per 20 Unispark Activates, Abyss Amulet +1<br>Per 500 TECH, Snail ATK +6<br>TECH: 15000/15000
+|ss4=Per 20 Unispark Activates, Abyss Amulet +1<br>Per 500 TECH, Snail ATK +6<br>TECH: 15000/15000
+|ss7=Per 20 Unispark Activates, Abyss Amulet +1<br>Per 500 TECH, Snail ATK +6<br>TECH: 15000/15000<br> (Awakened)
+}}

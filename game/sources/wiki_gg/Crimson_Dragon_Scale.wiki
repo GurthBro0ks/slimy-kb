@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Crimson Dragon Scale
+|type=Common
+|rank=purple
+|id=10836
+|idx=41
+|description=As the strongest dragon, the Crimson Dragon has both cunning and power. Many dragon slayers have become its desserts! To hurt it, even just making it shed a piece of scales, is an extremely difficult task.
+|skill=
+|hp=1434
+|def=189
+|atk=159
+|rush=140
+|gene1=In Dragon Form, {race} ATK +80
+|gene2=In Dragon Form, {race} DEF +80
+|gene3=In Dragon Form, {race} RUSH +80
+|gene4=In Dragon Form, {race} HP +800
+|gene7=In Dragon Form, {race} HARD +1% (Awakened)
+|}}

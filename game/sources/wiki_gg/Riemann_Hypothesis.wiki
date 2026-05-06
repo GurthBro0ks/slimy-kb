@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Riemann Hypothesis
+|class_id=22356
+|rank=SSS
+|affct=TECH
+|birthday=03-04
+|source=
+|description=On Mar 4, 1859 AD, Riemann presented the Riemann hypothesis to the Academy of Sciences of Berlin.<br>The Riemann hypothesis, which consists of three statements, is a well-known unsolved problem proposed by mathematician Riemann. According to Riemann, it would be simple to prove the first statement, but it took other mathematicians 46 years to do so. And the remaining statements are still waiting for answers. It wasn't until the mathematician Siegel discovered a new formula in Riemann's manuscript that the proof of this hypothesis advanced significantly. After Riemann died, his housekeeper burned most of his manuscripts, but his wife saved a few and gave them to one of his close friends; however, she later demanded the return of some of the manuscripts due to possible private correspondence. The remaining manuscripts are now kept in the library of the University of Gottingen.
+|fame=69
+|art=52
+|fth=74
+|civ=60
+|tech=107
+|ss1=All Rocket Cabin production +0.9%<br>Per 5 Rocket Tech LVLs, Snail ATK +12<br>Per 5 Rocket Tech LVLs, Snail RUSH +12<br>Rocket Tech Upgraded: 50/50
+|ss2=All Rocket Cabin production +1.2%<br>Per 5 Rocket Tech LVLs, Snail ATK +16<br>Per 5 Rocket Tech LVLs, Snail RUSH +16<br>Rocket Tech Upgraded: 50/50
+|ss3=All Rocket Cabin production +1.5%<br>Per 5 Rocket Tech LVLs, Snail ATK +20<br>Per 5 Rocket Tech LVLs, Snail RUSH +20<br>Rocket Tech Upgraded: 50/50
+|ss4=All Rocket Cabin production +2.1%<br>Per 5 Rocket Tech LVLs, Snail ATK +28<br>Per 5 Rocket Tech LVLs, Snail RUSH +28<br>Rocket Tech Upgraded: 50/50
+|ss5=All Rocket Cabin production +2.7%<br>Per 5 Rocket Tech LVLs, Snail ATK +36<br>Per 5 Rocket Tech LVLs, Snail RUSH +36<br>Rocket Tech Upgraded: 50/50
+|ss6=All Rocket Cabin production +3.6%<br>Per 5 Rocket Tech LVLs, Snail ATK +48<br>Per 5 Rocket Tech LVLs, Snail RUSH +48<br>Rocket Tech Upgraded: 50/50
+|ss7=All Rocket Cabin production +3.6%<br>Per 5 Rocket Tech LVLs, Snail ATK +48<br>Per 5 Rocket Tech LVLs, Snail RUSH +48<br>Rocket Tech Upgraded: 50/50<br>All Rocket Cabin production +3% (Awakened)
+|skill1=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop Wind DMG +60
+|skill2=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop ATK +9%
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop RUSH +9%
+|mirage={{Mirage|name=Analytic Number Theory Cornerstone|reward={{RewardIconWithLink|Tool Chest, +200|orange}}
+|3name=Witness No. 1|3rec=83.33M|3atk=241537|3defense=161139|3hp=14578581|3weak=31502
+|4name=Witness No. 2|4rec=111.32M|4atk=300561|4defense=200516|4hp=21285132|4weak=36349
+|5name=Witness No. 3|5rec=144.39M|5atk=370310|5defense=247048|5hp=30637540|5weak=41886
+|6name=Witness No. 4|6rec=182.29M|6atk=450222|6defense=300361|6hp=42315946|6weak=49071
+|Arec=226.10M|Aatk=542620|Adefense=362003|Ahp=57452725|Aweak=53115
+}}}}

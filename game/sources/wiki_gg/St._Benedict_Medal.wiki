@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=St. Benedict Medal
+|class_id=22044
+|rank=Blue
+|affct=FAITH
+|birthday=12-31
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Dec 31, 1608 AD, the Catholic Church designated St. Benedict's holy medal as a sacred receptacle and ordered believers to carry it with them.<br>The St. Benedict Medal is a popular saint image ornament among Catholics. This originated from the deeds of Benedict of Nursia. He is one of the important saints and the founder of the three high masses. He is also known as the founder of the monastery system. He greatly contributed to European culture. Disciples believe that with the blessing of St. Benedict, this holy medal can protect them from being possessed by demons.
+|fame=23
+|art=37
+|fth=46
+|civ=22
+|tech=26
+|ss1=Per 4 FTH Relics gained, Snail DEF +2<br>FTH Relics: 120/120
+|ss2=Per 4 FTH Relics gained, Snail DEF +4<br>FTH Relics: 120/120
+|ss3=Per 4 FTH Relics gained, Snail DEF +6<br>FTH Relics: 120/120
+|ss4=Per 4 FTH Relics gained, Snail DEF +10<br>FTH Relics: 120/120
+|ss7=Per 4 FTH Relics gained, Snail DEF +10<br>FTH Relics: 120/120<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: This Relic's FTH +5
+}}

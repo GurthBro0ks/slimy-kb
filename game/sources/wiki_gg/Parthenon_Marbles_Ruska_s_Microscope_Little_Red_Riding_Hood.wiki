@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=534
+|relics=Parthenon Marbles,Ruska's Microscope,Little Red Riding Hood
+|rank=orange
+|amount=3
+|category=self
+|description=Per 8 Museum Promos, Snail DEF +8;Museum Promos: 400/400
+}}

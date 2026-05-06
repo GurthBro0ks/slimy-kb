@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=430
+|relics=Jane Eyre,The Milkmaid,Theory of Population
+|rank=purple
+|amount=3
+|category=self
+|description=Per 50 Minions cloned, Snail HP +70;Minions Cloned: 2000/2000
+}}

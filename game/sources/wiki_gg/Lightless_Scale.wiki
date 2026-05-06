@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The agent known as the phantom dragon is also called the Hermit because of their dim scales. Before joining the travellers, they made money from fortune-telling. During one such session, they decided to give up fortune-telling and learn combat instead. The truth was that they were beaten up by a customer.
+|affct=TECH
+|hard=ATK
+|source=
+{{Memetic Catalyst
+|number=766
+|relic1=Crystal Skull
+|relic2=Africa Star
+|relic3=Artificial Blackhole
+|relic4=Mahakala Scroll
+|relic5=Crystal Piano
+}}
+|color=orange
+|earth=10
+|water=10
+|fire=11
+|wind=11
+|form=Dragon
+|element=Water
+|realm=Britland
+|orangehard=HP
+}}

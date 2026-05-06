@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Wailing Wall
+|class_id=22692
+|rank=SSS
+|affct=FAITH
+|birthday=08-25
+|source=Lottery Machine No.3 (0.12%)
+|description=On Aug 25, 70 AD, the Roman army, led by Hadrian, burned down the Second Temple of the Jews.<br>It is a part of the protective wall of the Second Temple of ancient Israel in Jerusalem. The entire wall is about fifty meters long and eighteen meters high, built of huge stones, and is regarded as the holiest site in Judaism. When Jewish people visit the wall, they must weep in mourning to express their sadness for the ancient temple. For thousands of years, Jewish people scattered around the world have returned to Jerusalem to pray in front of this wall and cry out about the suffering of exile, and the name "Wailing Wall" has been passed down.
+|fame=64
+|art=72
+|fth=108
+|civ=56
+|tech=62
+|ss1=Snail Leadership +3<br>Per 6 kinds of Souls offered, Snail ATK +3<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +24<br>Souls offered: 300/300 types
+|ss2=Snail Leadership +4<br>Per 6 kinds of Souls offered, Snail ATK +4<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +32<br>Souls offered: 300/300 types
+|ss3=Snail Leadership +5<br>Per 6 kinds of Souls offered, Snail ATK +5<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +40<br>Souls offered: 300/300 types
+|ss4=Snail Leadership +7<br>Per 6 kinds of Souls offered, Snail ATK +7<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +56<br>Souls offered: 300/300 types
+|ss5=Snail Leadership +9<br>Per 6 kinds of Souls offered, Snail ATK +9<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +72<br>Souls offered: 300/300 types
+|ss6=Snail Leadership +12<br>Per 6 kinds of Souls offered, Snail ATK +12<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +96<br>Souls offered: 300/300 types
+|ss7=Snail Leadership +12<br>Per 6 kinds of Souls offered, Snail ATK +12<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +96<br>Souls offered: 300/300 types<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|mirage={{Mirage|name=Jewish Tears|reward={{RewardIconWithLink|Incense, +3|orange}}
+|3name=Wailing Boy|3rec=144.15M|3atk=395244|3defense=246699|3hp=23979924|3weak=38544
+|4name=Wailing Woman|4rec=218.51M|4atk=575219|4defense=351323|4hp=47431791|4weak=46539
+|5name=Wailing Elderly|5rec=348.53M|5atk=802555|5defense=476125|5hp=90836990|5weak=53302
+|6name=Wailing Believer|6rec=503.58M|6atk=1066914|6defense=615614|6hp=178897361|6weak=60210
+|Arec=695.53M|Aatk=1410248|Adefense=795467|Ahp=352894005|Aweak=70066
+}}}}

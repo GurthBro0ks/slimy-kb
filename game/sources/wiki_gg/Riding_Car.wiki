@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Riding Car
+|class_id=22417
+|rank=Blue
+|affct=FAME
+|birthday=11-06
+|source=Lottery Machine No.3 (0.03%)
+|description=On Nov 6, 1885 AD, Daimler installed the engine he developed on a wooden bicycle and successfully created the world's first motorcycle.<br>Most of the structure of this motorcycle, including the frame and the wheels, was made of wood and powered by a small gasoline engine mounted vertically in the frame. The engine drove the rear wheel through a belt and two-stage gear system. It did not have a suspension system, making for a rough ride, but it was a significant step forward in the development of transportation.
+|fame=46
+|art=27
+|fth=23
+|civ=26
+|tech=32
+|ss1=Zombie Minion RUSH +1%
+|ss2=Zombie Minion RUSH +2%
+|ss3=Zombie Minion RUSH +3%
+|ss4=Zombie Minion RUSH +5%
+|ss7=Zombie Minion RUSH +5%<br>Zombie Minion RUSH +5% (Awakened)
+|skill1=[[File:Minion Sim skill I.png|50px]]Place in Minion Sims: This Relic's FAME +5
+}}

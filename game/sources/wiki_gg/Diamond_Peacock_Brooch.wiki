@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Diamond Peacock Brooch
+|class_id=22128
+|rank=A
+|affct=ART
+|birthday=09-20
+|source=Lottery Machine No.2 (0.55%), Wishing (0.15%)
+|description=On Sept 20, 2013 AD, the peacock was made and unveiled by Graff Diamonds.<br>This exquisite peacock brooch is made by Graff Diamonds. It measures about ten centimeters high and the diamonds total 120 carats. The pear-shaped deep blue gemstone inlaid at its center accounts for nearly one-sixth of its weight. There are a total of 1,305 diamonds embedded in the brooch, including brilliant sparkling diamonds of various colors. The various colors complement each other well to create this gorgeous, expensive, and incredibly rare treasure.
+|fame=32
+|art=65
+|fth=40
+|civ=41
+|tech=35
+|ss1=Per 200 Lotteries drawn, Snail ATK +1<br>Per 200 Lotteries drawn, Snail DEF +1<br>Lotteries Drawn: 10000/10000
+|ss2=Per 200 Lotteries drawn, Snail ATK +2<br>Per 200 Lotteries drawn, Snail DEF +2<br>Lotteries Drawn: 10000/10000
+|ss3=Per 200 Lotteries drawn, Snail ATK +3<br>Per 200 Lotteries drawn, Snail DEF +3<br>Lotteries Drawn: 10000/10000
+|ss4=Per 200 Lotteries drawn, Snail ATK +5<br>Per 200 Lotteries drawn, Snail DEF +5<br>Lotteries Drawn: 10000/10000
+|ss5=Per 200 Lotteries drawn, Snail ATK +7<br>Per 200 Lotteries drawn, Snail DEF +7<br>Lotteries Drawn: 10000/10000
+|ss7=Per 200 Lotteries drawn, Snail ATK +7<br>Per 200 Lotteries drawn, Snail DEF +7<br>Lotteries Drawn: 10000/10000<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, All Minion HP +4.5%
+|skill2=[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, DMG +15%
+}}

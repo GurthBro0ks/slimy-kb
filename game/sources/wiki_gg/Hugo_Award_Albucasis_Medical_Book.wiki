@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Hugo Award,Albucasis Medical Book
+|rank=orange
+|amount=2
+|category=self
+|description=Per AR2-T4 owned, Snail DEF +7; AR2-T4 Owned: 50/50
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by Robots]]

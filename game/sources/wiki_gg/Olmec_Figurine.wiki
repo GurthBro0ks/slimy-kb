@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Olmec Figurine
+|class_id=22467
+|rank=Blue
+|affct=CIV
+|birthday=01-16
+|source=Lottery Machine No.3 (0.06%)
+|description=On Jan 16, 1939 AD, the first Olmec stone statue was discovered in Tres Zapotes.<br>The Olmec people lived in the Yucatan Peninsula in Central America. During archaeological excavations, many sites were discovered linking the Olmec and Maya civilizations. These massive Olmec stone statues were carved from huge blocks of basalt, depicting baby-faced figures with roaring expressions, downturned mouths, flat noses, thick lips, half-open eyes, and heavy eyelids. They showcase the Olmecs' superb carving skills.
+|fame=32
+|art=31
+|fth=22
+|civ=47
+|tech=22
+|ss1=Per 3 Hidden Treasures claimed, Snail HP +10<br>Hidden Treasures Claimed: 150/150
+|ss2=Per 3 Hidden Treasures claimed, Snail HP +20<br>Hidden Treasures Claimed: 150/150
+|ss3=Per 3 Hidden Treasures claimed, Snail HP +30<br>Hidden Treasures Claimed: 150/150
+|ss4=Per 3 Hidden Treasures claimed, Snail HP +50<br>Hidden Treasures Claimed: 150/150
+|ss7=Per 3 Hidden Treasures claimed, Snail HP +50<br>Hidden Treasures Claimed: 150/150<br>Snail HP +500 (Awakened)
+|skill1=[[File:Tadpolepond skill I.png|50px]]Place in Tadpole Pond: B-tad Output +5%
+}}

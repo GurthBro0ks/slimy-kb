@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=242
+|relics=Soul Stone,Scale of Anubis,On War
+|rank=orange
+|amount=3
+|category=self
+|description=Per 1k DNA Strength, Snail ATK +5;DNA Strength: 48000/48000
+}}

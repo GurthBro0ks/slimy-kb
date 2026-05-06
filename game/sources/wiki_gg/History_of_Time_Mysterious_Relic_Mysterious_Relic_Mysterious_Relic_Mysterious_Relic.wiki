@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=849
+|relics=History of Time,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic
+|rank=orange
+|amount=5
+|category=self
+|description=Per 1.2k Gaia Tech Pts, Snail HP +100;Gaia Tech Pts: 60000/60000
+}}

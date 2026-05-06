@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Jami' al-tawarikh
+|class_id=22471
+|rank=Blue
+|affct=CIV
+|birthday=04-24
+|source=Lottery Machine No.3 (0.06%)
+|description=On Apr 24, 1332 AD, after ten years, Jami' al-tawarikh was finally completed.<br>It is a comprehensive history work supervised and compiled by Rashid of the Ilkhanate, under the command of Ilkhan Hulagu and Hulagu's son Abaqa. It took ten years to complete. The book is divided into three parts: Mongolian history, world history, and world geography, but only the first two parts have survived to this day. The content covers the history of various countries in the medieval world, especially Mongolian history, and is an extremely important primary source for studying the early Mongolian people, known as the encyclopedia of history.
+|fame=32
+|art=31
+|fth=22
+|civ=48
+|tech=21
+|ss1=Domain Cabin Output +1%
+|ss2=Domain Cabin Output +2%
+|ss3=Domain Cabin Output +3%
+|ss4=Domain Cabin Output +5%
+|ss7=Domain Cabin Output +5%<br>Domain Cabin Output +5% (Awakened)
+|skill1=[[File:Surfclam skill I.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Water DMG +10
+}}

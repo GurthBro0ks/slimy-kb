@@ -1,0 +1,30 @@
+{{Missing Info|specifics=Description}}
+{{CargoRelic
+|name=Magdeberg Hemispheres
+|rank=AA
+|affct=TECH
+|birthday=09-19
+|source=Lottery Machine No. 2 (0.12%)
+|description=
+|fame=43
+|art=32
+|fth=46
+|civ=39
+|tech=68
+|ss1=Gaia Cabin Output +2%<br>Per 1.2k Gaia Tech Pts, Snail HP +20<br>Gaia TECH Pts: 60,000/60,000
+|ss2=Gaia Cabin Output +3%<br>Per 1.2k Gaia Tech Pts, Snail HP +30<br>Gaia TECH Pts: 60,000/60,000
+|ss3=Gaia Cabin Output +4%<br>Per 1.2k Gaia Tech Pts, Snail HP +40<br>Gaia TECH Pts: 60,000/60,000
+|ss4=Gaia Cabin Output +6%<br>Per 1.2k Gaia Tech Pts, Snail HP +60<br>Gaia TECH Pts: 60,000/60,000
+|ss5=Gaia Cabin Output +8%<br>Per 1.2k Gaia Tech Pts, Snail HP +80<br>Gaia TECH Pts: 60,000/60,000
+|ss7=Gaia Cabin Output +8%<br>Per 1.2k Gaia Tech Pts, Snail HP +80<br>Gaia TECH Pts: 60,000/60,000<br>Gaia Cabin Output +7% (Awakened)
+|skill1=[[File:Rift skill II.png|50px]] Place in Rift Museum: In the Rift, Snail TECH +400
+|skill2=[[File:Rift skill II.png|50px]] Place in Rift Museum: In the Rift, 2x Green Reagent Drops +3%
+}}
+
+[[Category:Rift Exploration Boost]]
+[[Category:Rift Museum Boost]]
+[[Category:Gaia Cabin Output Boost]]
+[[Category:HP Boost]]
+[[Category:DEF Boost]]
+[[Category:Dragon Minion ATK Boost]]
+[[Category:Enhanced by Gaia Tech Points]]

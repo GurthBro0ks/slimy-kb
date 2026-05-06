@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Cairoo Excellence Cert.
+|class_id=20958
+|rank=Green
+|affct=FAME
+|source=
+|description=The award, given only to the most promising and outstanding enterprises under Cairoo, is designed to motivate every dream-driven entrepreneur to climb the peaks of business. Cairoo itself crafted this certificate with meticulous workmanship and sincere sentiment!
+|fame=31
+|art=13
+|fth=15
+|civ=16
+|tech=15
+|ss1=Snail HP +200<br>Per 1k Tadpole Points, Snail RUSH +2<br>Tadpole Points: 20000/20000
+|ss2=Snail HP +400<br>Per 1k Tadpole Points, Snail RUSH +4<br>Tadpole Points: 20000/20000
+|ss3=Snail HP +600<br>Per 1k Tadpole Points, Snail RUSH +6<br>Tadpole Points: 20000/20000
+|ss4=Snail HP +600<br>Per 1k Tadpole Points, Snail RUSH +6<br>Tadpole Points: 20000/20000
+|ss7=Snail HP +600<br>Per 1k Tadpole Points, Snail RUSH +6<br>Tadpole Points: 20000/20000<br> (Awakened)
+}}

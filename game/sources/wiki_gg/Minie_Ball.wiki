@@ -1,0 +1,33 @@
+{{CargoRelic
+|name=Minie Ball
+|rank=Blue
+|affct=FAME
+|birthday=10-30
+|source=[[Koryeon Domain]], Lottery Machine (0.03%), Wish (1.2%)
+|description=On Oct 30, 1849, Minie invented a special bullet which had a great impact on future generations.
+
+The Minie ball has a small diameter that is unsuitable for ordinary rifled guns. With a lead skirting on the exterior of the bullet and a hollow cavity, the skirt of the bullet would expand under the pressure of gunpowder deflagration, allowing the bullet to gain a strong rotational force. During the Franco-Prussian War, the old Minie rifle suffered a heavy defeat on the battlefield and became obsolete.
+|fame=46
+|art=26
+|fth=31
+|civ=19
+|tech=32
+|ss1=Defeated Daily Hitmen drop +1% Demon Chests
+|ss2=Defeated Daily Hitmen drop +2% Demon Chests
+|ss3=Defeated Daily Hitmen drop +3% Demon Chests
+|ss4=Defeated Daily Hitmen drop +5% Demon Chests
+|ss7=Defeated Daily Hitmen drop +5% Demon Chests<br>Defeated Daily Hitmen drop +5% Demon Chests (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]] Place in Gene Sim Device: Snail RUSH +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:FAME Relics]]
+[[Category:Blue FAME Relics]]
+[[Category:Daily Hitmen Demon Chest Drop Boost]]
+[[Category:Hitman Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:RUSH Boost]]
+[[Category:Mecha Minion ATK Boost]]
+[[Category:ATK Boost]]
+[[Category:Tomb Figure Boost]]

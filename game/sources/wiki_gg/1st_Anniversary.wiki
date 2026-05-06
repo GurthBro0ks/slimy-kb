@@ -1,0 +1,43 @@
+{{Missing Info}}
+
+= 1st Anniversary =
+<div style="float:left;"><ul>
+<li style="display: inline-block;vertical-align:top">[[File:1st Anniversary Poster.png|200px|left|alt=1st Anniversary]]</li>
+<li style="display: inline-block;vertical-align:top">[[File:Cheers to 1 Year Poster.png|150px|left|alt=Cheers to 1 Year]]</li>
+</ul></div>
+[[File:We Are Family Poster.png|200px|right|alt=We Are Family]]
+Aug. 02 - Aug. 29 2024
+
+'''Official News Announcement:''' https://snail-na.qcplay.com/official/news-details.html?id=86<br>
+https://snail-na.qcplay.com/official/news-details.html?id=87
+{{Clear}}
+
+* {{RewardIconWithText|Bird}}
+* {{RewardIconWithText|Celebration Ticket}}
+
+
+{{RewardIconWithText|Birthday Party Pack}} were available in Value Packs and contained:
+* {{RewardIconWithText|Snail Coin, +1}}
+* {{RewardIconWithText|EXP Cake, +6}}
+* {{RewardIconWithText|Candle of Skill, +6}}
+* {{RewardIconWithText|Flower, +100}}
+
+
+{{RewardIconWithText|Thank-you Pack}} were available for purchase every day in the store. They contained
+* {{RewardIconWithText|Snail Coin, +3}}
+* {{RewardIconWithText|EXP Cake, +18}}
+* {{RewardIconWithText|Candle of Skill, +18}}
+* {{RewardIconWithText|Flower, +300}}
+
+= Relic Rewards =
+* {{RewardIconWithLink|Golden Snail|orange}}
+* {{RewardIconWithLink|Anniversary Cake|green}}
+* {{RewardIconWithLink|We Are Family|green}}
+
+= Home Decoration Rewards =
+* {{RewardIconWithLink|Family Photo|black|Home Decoration}} (Home Decoration)
+
+= Robot Rewards = 
+* {{RewardIconWithLink|Robot Guard|orange|Robot}}
+
+[[Category:Events]]

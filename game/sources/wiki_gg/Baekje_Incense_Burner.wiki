@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Baekje Incense Burner
+|class_id=22479
+|rank=Blue
+|affct=CIV
+|birthday=03-19
+|source=Lottery Machine No.3 (0.03%)
+|description=On Mar 19, 1996 AD, the Baekje Incense Burner is designated as a Korean national treasure.<br>In an ancient temple in Buyeo County, Chungcheongnam-do, South Korea, people discover long-forgotten cultural relics. Among them, the Baekje Incense Burner, 64 centimeters high and 20 centimeters in diameter, is the largest of the 400 artifacts excavated at the time. This artifact, which dates back to the 6th century AD, is regarded as a classic of Baekje and Korean culture and is treated as a national treasure!
+|fame=34
+|art=31
+|fth=22
+|civ=47
+|tech=20
+|ss1=Mutant Minion DEF +1%
+|ss2=Mutant Minion DEF +2%
+|ss3=Mutant Minion DEF +3%
+|ss4=Mutant Minion DEF +5%
+|ss7=Mutant Minion DEF +5%<br>Mutant Minion DEF +5% (Awakened)
+|skill1=[[File:Prairiesanctum skill I.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +5%
+}}

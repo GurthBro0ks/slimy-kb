@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Irises
+|class_id=22263
+|rank=SSS
+|affct=ART
+|birthday=05-25
+|source=
+|description=On May 25, 1889 AD, Van Gogh painted this canvas in the last year of his life.<br>Irises, a canvas by the famous painter Van Gogh, is known as one of his greatest works during the Saint-Remy period. Van Gogh painted this still life in the psychiatric hospital in Saint-Remy. For him, the painting was mainly a study in color. He set out to achieve a powerful color contrast. By placing the purple flowers against a yellow background, he made the decorative forms stand out even more strongly. As one of Van Gogh's masterpieces, this canvas sold for a whopping 53 million US dollars, making it one of the most expensive paintings in the world at that time.
+|fame=54
+|art=106
+|fth=66
+|civ=73
+|tech=63
+|ss1=Snail HP +300<br>Per 10 Maneater Pistils Used, Snail HP +30<br>Per 10 Maneater Pistils Used, Snail DEF +3<br>Maneater Pistil(s) used: 400/400
+|ss2=Snail HP +400<br>Per 10 Maneater Pistils Used, Snail HP +40<br>Per 10 Maneater Pistils Used, Snail DEF +4<br>Maneater Pistil(s) used: 400/400
+|ss3=Snail HP +500<br>Per 10 Maneater Pistils Used, Snail HP +50<br>Per 10 Maneater Pistils Used, Snail DEF +5<br>Maneater Pistil(s) used: 400/400
+|ss4=Snail HP +700<br>Per 10 Maneater Pistils Used, Snail HP +70<br>Per 10 Maneater Pistils Used, Snail DEF +7<br>Maneater Pistil(s) used: 400/400
+|ss5=Snail HP +900<br>Per 10 Maneater Pistils Used, Snail HP +90<br>Per 10 Maneater Pistils Used, Snail DEF +9<br>Maneater Pistil(s) used: 400/400
+|ss6=Snail HP +1200<br>Per 10 Maneater Pistils Used, Snail HP +120<br>Per 10 Maneater Pistils Used, Snail DEF +12<br>Maneater Pistil(s) used: 400/400
+|ss7=Snail HP +1200<br>Per 10 Maneater Pistils Used, Snail HP +120<br>Per 10 Maneater Pistils Used, Snail DEF +12<br>Maneater Pistil(s) used: 400/400<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: This Relic's ART +15
+|skill2=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: B-tad Output +3000
+|skill3=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: Medal Cost for Grandmaster Scrolls -300
+|mirage={{Mirage|name=Colorful Iris|reward={{RewardIconWithLink|Sunny Plant Food, +3|orange}}
+|3name=White Iris|3rec=78.13M|3atk=230562|3defense=153817|3hp=13611011|3weak=30557
+|4name=Yellow Iris|4rec=102.97M|4atk=282954|4defense=188770|4hp=19244794|4weak=35006
+|5name=Blue Iris|5rec=132.17M|5atk=344539|5defense=229856|5hp=27079137|5weak=39561
+|6name=Purple Iris|6rec=165.17M|6atk=414116|6defense=276273|6hp=36693360|6weak=46016
+|Arec=203.05M|Aatk=494006|Adefense=329571|Ahp=48803623|Aweak=52491
+}}}}

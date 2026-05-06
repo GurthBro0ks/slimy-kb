@@ -1,0 +1,142 @@
+==Apostles==
+Once an apostle is beaten in combat for the first time, they are considered defeated. Once an apostle has been defeated in 3 rounds or less, they are considered "Dominated" and will no longer have to be fought on subsequent explorations. Each Area has an apostle and occasionally an apostle will have minions who must be defeated first. 
+
+Similar to the Apostles in [[Murika]], Apostles of this Realm are broken up into different areas that can only be explored one at a time. For [[Kemet]] you can explore the Present, Past, and Future to encounter all the Apostles. Below are all the Apostles for each area of Kemet.
+
+ Note that '''all''' apostles have the special stats of: ''HIT +70 and Paralysis RES +70%'' while '''all''' minions have the special stats of: ''HIT +50 and Paralysis RES +50%''.
+
+After defeating the last apostles of Kemet, the next Realm, [[Hellas]], is unlocked. Below are the stats for every Kemetic apostle and their minions.
+
+See [[Past and Future Apostles]] for the Apostles in Kemet Past and Kemet Future.
+
+==Pyramid==
+'''Area:'''  Gisa
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Pyramid||56,666||38,576||130,194||FTH 11,559|| || ||White Ankh<br>Meal Box Size +3,000<br> Travel Speedup +100m
+|-
+|''Tour Guide''||55,873||38,036||128,258||AFFCT 56,980|| ||-||B-tads +1,240, Kemetic INTEL +470
+|-
+|''Tourist A''||56,100||38,191||128,809||AFFCT 57,123|| ||-||B-tads +1,260, Kemetic INTEL +480
+|-
+|''Tourist B''||56,258||38,258||129,197||AFFCT 57,224|| ||-||B-tads +1,260, Kemetic INTEL +480
+|-
+|''Tourist C''||56,440||38,422||129,640||AFFCT 57,338|| ||-||B-tads +1,260, Kemetic INTEL +480
+|}
+
+==Detective Pierrot==
+'''Area:'''  Suezy
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Detective Pierrot||60,351||49,351||480,634||TECH 14,317|| || ||White Ankh<br>Meal Box Size +3,000<br> Travel Speedup +110m
+|-
+|''Jacqueline''||58,779||47,959||474,449||AFFCT 70,925|| ||-||B-tads +1,280, Kemetic INTEL +490
+|-
+|''Simon''||59,290||48,361||477,031||AFFCT 71,101||3.46m||-||B-tads +1,280, Kemetic INTEL +490
+|-
+|''Lynnett''||59,683||48,667||478,667||AFFCT 71,189||3.46m||-||B-tads +1,280, Kemetic INTEL +490
+|}
+
+==Adventurer Jones==
+'''Area:''' North Synai
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Adventurer Jones||62,494||50,838||487,838||ART 14,388|| ||6.84m||White Ankh<br>Meal Box Size +3,000<br> Travel Speedup +2h
+|}
+
+==Lawrence==
+'''Area:'''  Reed Sea
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Lawrence||65,477||53,147||499,826||FAME 14,496|| || ||<span style="color:var(--green-text)">Green Ankh</span>, Meal Box Size +3,000
+|-
+|''Turban Knight''||62,244||50,635||485,742||AFFCT 71,453|| ||-||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Turban Knight''||63,172||51,360||489,904||AFFCT 71,716|| ||-||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Turban Knight''||63,852||51,884||491,968||AFFCT 71,804|| ||-||B-tads +1,320, Kemetic INTEL +510
+|}
+
+==Oil Drilling==
+'''Area:''' South Synai
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Oil Drilling||69,237||56,028||546,190||TECH 14,550|| || ||<span style="color:var(--green-text)">Green Ankh</span><br>Meal Box Size +3,000<br> Exploration Speedup +140m
+|-
+|''Driller''||65,776||53,361||497,103||AFFCT 71,980||3.66m||-||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Maintenance Engineer''||67,207||54,466||524,941||AFFCT 72,191||3.7m||-||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Security Chief''||67,846||54,956||527,170||AFFCT 72,244||3.74m||-||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Wolf Dog''||68,460||55,426||528,998||AFFCT 72,279||3.74m||-||B-tads +1,320, Kemetic INTEL +510
+|}
+
+==Mongomerry==
+'''Area:'''  
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Mongomerry||71,906||58,078||578,633||FAME 14,603|| || ||<span style="color:var(--blue-text)">Blue Ankh</span><br>Meal Box Size +3,000<br> Exploration Speedup +150m
+|}
+
+==Eli Basha==
+'''Area:'''  El Beherra
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Eli Basha||75,316||60,699||592,659||CIV 14,675|| || ||<span style="color:var(--blue-text)">Blue Ankh</span><br>Meal Box Size +3,000<br> Exploration Speedup +160m
+|-
+|''Ibrahim''||71,626||57,853||574,425||AFFCT 72,508|| ||-||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Abbasid''||72,472||58,508||579,753||AFFCT 72,683|| ||-||B-tads +1,320, Kemetic INTEL +510
+|}
+
+==Dromedary==
+'''Area:''' New Valley
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Dromedary||69,595||56,820||2,557,936||ART 15,890|| ||7.95m||<span style="color:var(--purple-text)">Purple Ankh</span><br>Meal Box Size +3,000<br> Exploration Speedup +3h
+|}
+
+==Desert Fox==
+'''Area:'''  Matruh
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Desert Fox||71,197||58,128||2,766,885||FTH 16,100|| ||9m||<span style="color:var(--purple-text)">Purple Ankh</span><br>Meal Box Size +3,000<br>Exploration Speedup +3h
+|-
+|''Desert Rat''||69,328||56,602||2,553,118||AFFCT 78,825||5.14m||9.62m||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Desert Wolf''||69,595||56,820||2,593,936||AFFCT 78,997||5.14m||-||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Desert Snake''||69,862||57,038||2,634,756||AFFCT 79,468||5.18m||-||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Desert Eagle''||70,129||57,256||2,675,577||AFFCT 79,340||5.3m||-||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Desert Lion''||70,396||57,474||2,716,401||AFFCT 79,512||5.37m||-||B-tads +1,320, Kemetic INTEL +510
+|}
+
+==Asvan Dam==
+'''Area:'''  Asvan
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Asvan Dam||73,334||59,872||2,973,141||CIV 16,385|| || ||<span style="color:var(--orange-text)">Orange Ankh</span><br>Meal Box Size +3,000<br>Travel Speedup +3h
+|-
+|''Turbine''||70,930||57,910||2,762,055||AFFCT 79,855|| ||-||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Generator''||71,464||58,346||2,831,717||AFFCT 80,198|| ||-||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Transformer''||71,732||58,564||2,896,550||AFFCT 80,370|| ||-||B-tads +1,320, Kemetic INTEL +510
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Kemet]]

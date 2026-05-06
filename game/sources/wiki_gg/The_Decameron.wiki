@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=The Decameron
+|rank=AA
+|affct=CIV
+|birthday=02-28
+|source=Fragment Crafting (3.7%), Lottery Machine (0.8%), Wishing (0.34%), Britland Treasure Maps (10%), Expert Scrolls (0.95%)
+|description=On Feb 28, AD 1353, Giovanni Boccaccio created this collection during the Renaissance.
+
+The Decameron is a book of 100 stories told by 10 men and women living under the same roof to escape the pandemic. They include true historical events, real-life anecdotes, and legends told by merchants and travelers. These 10 people hid away from the society that was plagued by the Black Death and were free of the suppression of hierarchy and the church. This was why their stories reflected the true image of the society at that time.
+
+[Famous Quotes]
+
+The eyes that used to be blinded by wealth are now opened by poverty. The saddest thing in life is to waste your youth away. In the affairs of this world, poverty alone is without envy.
+|fame=43
+|art=38
+|fth=34
+|civ=68
+|tech=45
+|ss1=Lumber Camp Output +4%<br>Lumber Camp Max Cap +4%
+|ss2=Lumber Camp Output +6%<br>Lumber Camp Max Cap +6%
+|ss3=Lumber Camp Output +8%<br>Lumber Camp Max Cap +8%
+|ss4=Lumber Camp Output +12%<br>Lumber Camp Max Cap +12%
+|ss5=Lumber Camp Output +16%<br>Lumber Camp Max Cap +16%
+|ss7=Lumber Camp Output +16%<br>Lumber Camp Max Cap +16%<br>Lumber Camp Output +14% (Awakened)
+|skill1=[[File:Britland skill II.png|50px]] Place in Britland Museum: In Britland, Snail DEF +30
+|skill2=[[File:Britland skill II.png|50px]] Place in Britland Museum: In Britland, INTEL gained +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:CIV Relics]]
+[[Category:Purple CIV Relics]]
+[[Category:Britland Exploration Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Lumber Camp Boost]]
+[[Category:ATK Boost]]

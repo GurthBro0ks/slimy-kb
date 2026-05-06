@@ -1,0 +1,133 @@
+=Supreme Relic=
+The Supreme Relic menu can be found in the bottom left of the shop. It contains a list of relics that can be claimed upon reaching cumulative spending milestones.<br><br>
+There are a total of 20 Supreme Relics in game, ranging in "price" from $4 USD to more than $20K USD, with each providing buffs to various game features. Some Supreme Relics also come with additional bonuses, such as the [[Gear|Peacock Quill]], [[Gear|Maze Key]], and [[Heaven Wheel Tome]], which are also received upon earning the relic.<br><br>
+
+The Supreme Relic "points", found at the bottom of the Supreme Relic menu, show your current progress towards the next relic and can also act as a total expenditure tracker. These points are expressed in US cents and must be divided by 100 in order to track total dollars spent. 
+
+==Supreme Relic List==
+{|class="mw-collapsible wikitable" style="text-align:center; border-collapse:collapsed"
+!No. !! Supreme Relic !! Cost (USD)
+|-
+! scope="row"| 1. 
+|style="background-color:var(--green-bg);" |{{Reimg|Plunder License}} [[Plunder License]]|| $4
+
+|-
+! scope="row"| 2. 
+|style="background-color:var(--green-bg);" |{{Reimg|Hunter License}} [[Hunter License]] || $12
+
+|-
+! scope="row"| 3. 
+|style="background-color:var(--blue-bg);" |{{Reimg|Dinner Credit Card}} [[Dinner Credit Card]] || $25
+
+|-
+! scope="row"| 4. 
+|style="background-color:var(--blue-bg);" |{{Reimg|Order of Britland}} [[Order of Britland]] || $70
+
+|-
+! scope="row"| 5. 
+|style="background-color:var(--blue-bg);" |{{Reimg|Nesdac Bell}} [[Nesdac Bell]] || $150
+
+|-
+! scope="row"| 6. 
+|style="background-color:var(--purple-bg);" |{{Reimg|Peacock Throne}} [[Peacock Throne]] || $300
+
+|-
+! scope="row"| 7. 
+|style="background-color:var(--purple-bg);" |{{Reimg|Charging Bull}} [[Charging Bull]] || $600
+
+|-
+! scope="row"| 8. 
+|style="background-color:var(--purple-bg);" |{{Reimg|Gumball Statue}} [[Gumball Statue]] || $1K
+
+|-
+! scope="row"| 9. 
+|style="background-color:var(--orange-bg);" |{{Reimg|Aries}} [[Aries]] || $2K
+
+|-
+! scope="row"| 10. 
+|style="background-color:var(--orange-bg);" |{{Reimg|Taurus}} [[Taurus]] || $4K
+
+|-
+! scope="row"| 11. 
+|style="background-color:var(--orange-bg);" |{{Reimg|Gemini}} [[Gemini]] || $8K
+
+|-
+! scope="row"| 12. 
+|style="background-color:var(--orange-bg);" |{{Reimg|Cancer}} [[Cancer]] || $12K
+
+|-
+! scope="row"| 13. 
+|style="background-color:var(--orange-bg);" |{{Reimg|Leo}} [[Leo]] || $20K
+
+|-
+! scope="row"| 14. 
+|style="background-color:var(--orange-bg);" |{{Reimg|Virgo}} [[Virgo]] || $30K
+
+|-
+! scope="row"| 15. 
+|style="background-color:var(--orange-bg);" |{{Reimg|Libra}} [[Libra]] || $40k
+
+|-
+! scope="row"| 16. 
+|style="background-color:var(--orange-bg);" |{{Reimg|Scorpio}} [[Scorpio]] || $60k
+
+|-
+! scope="row"| 17. 
+|style="background-color:var(--orange-bg);" |{{Reimg|Sagittarius}} [[Sagittarius]] || $80k
+
+|-
+! scope="row"| 18. 
+|style="background-color:var(--orange-bg);" |{{Reimg|Capricorn}} [[Capricorn]] || $100k
+
+|-
+! scope="row"| 19. 
+|style="background-color:var(--orange-bg);" |{{Reimg|Aquarius}} [[Aquarius]] || $150k
+
+|-
+! scope="row"| 20. 
+|style="background-color:var(--orange-bg);" |{{Reimg|Pisces}} [[Pisces]] || $200k
+|}
+
+==Supreme Relic Resonances==
+Each trio of Supreme Relics from blue rarity onward have a set of three resonances. These buffs usually provide a noticeable HARD stat increase or a bonus to VIP rewards.
+{|class="mw-collapsible wikitable" style="text-align:center;"
+! Relics !! Resonance
+|-
+| style="background-color:var(--blue-bg);" |{{Reimg|Dinner Credit Card}}{{Reimg|Order of Britland}} || Per 60 Supreme Points, Snail ATK +10<br>Supreme Points: 3,000/3,000
+|-
+| style="background-color:var(--blue-bg);" |{{Reimg|Dinner Credit Card}}{{Reimg|Nesdac Bell}} || Per 60 Supreme Points, Snail DEF +10<br>Supreme Points: 3,000/3,000
+|-
+| style="background-color:var(--blue-bg);" |{{Reimg|Order of Britland}}{{Reimg|Nesdac Bell}} || VIP Gem Card, daily Lottery Ticket +1
+
+|-
+| style="background-color:var(--purple-bg);" |{{Reimg|Peacock Throne}}{{Reimg|Charging Bull}} || Expert Scrolls gained from VIP Silver Card +1
+|-
+| style="background-color:var(--purple-bg);" |{{Reimg|Peacock Throne}}{{Reimg|Gumball Statue}} || Master Scrolls gained from VIP Gold Card +1
+|-
+| style="background-color:var(--purple-bg);" |{{Reimg|Charging Bull}}{{Reimg|Gumball Statue}} || Per Supreme Relic gained, Snail HP +1,000<br>Supreme Relics: 20/20
+
+|-
+| style="background-color:var(--orange-bg);" |{{Reimg|Taurus}}{{Reimg|Gemini}} || Per Supreme Relic gained, Snail RUSH +100<br>Supreme Relics: 20/20
+|-
+| style="background-color:var(--orange-bg);" |{{Reimg|Taurus}}{{Reimg|Aries}} || Per Supreme Relic gained, Snail ATK +100<br>Supreme Relics: 20/20
+|-
+| style="background-color:var(--orange-bg);" |{{Reimg|Gemini}}{{Reimg|Aries}} || Per Supreme Relic gained, Snail DEF +100<br>Supreme Relics: 20/20
+|-
+| style="background-color:var(--orange-bg);" |{{Reimg|Cancer}}{{Reimg|Leo}} || Snail HP +5%
+|-
+| style="background-color:var(--orange-bg);" |{{Reimg|Cancer}}{{Reimg|Virgo}} || Snail ATK +5%
+|-
+| style="background-color:var(--orange-bg);" |{{Reimg|Leo}}{{Reimg|Virgo}} || Snail DEF +5%
+|-
+| style="background-color:var(--orange-bg);" |{{Reimg|Libra}}{{Reimg|Scorpio}} || Snail RUSH +5%
+|-
+| style="background-color:var(--orange-bg);" |{{Reimg|Libra}}{{Reimg|Sagittarius}} || All ELMT RES +5%
+|-
+| style="background-color:var(--orange-bg);" |{{Reimg|Scorpio}}{{Reimg|Sagittarius}} || All ELMT DMG +5%
+|-
+| style="background-color:var(--orange-bg);" |{{Reimg|Capricorn}}{{Reimg|Aquarius}} || Troop All ELMT DMG +4%
+|-
+| style="background-color:var(--orange-bg);" |{{Reimg|Capricorn}}{{Reimg|Pisces}} || Troop All ELMT RES +2%
+|-
+| style="background-color:var(--orange-bg);" |{{Reimg|Aquarius}}{{Reimg|Pisces}} || Troop CRIT +10%
+|}

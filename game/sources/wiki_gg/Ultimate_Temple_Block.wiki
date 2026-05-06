@@ -1,0 +1,27 @@
+{{Missing Info|specifics=form, element, realm, second HARD}}
+
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The Traveler known as Wisdom Walker once worried over what artifact to take with it on a retreat, until one day he got an idea while beating on a temple block, and the Snail Shell was born.
+|affct=FTH
+|hard=HP
+|source=
+{{Memetic Catalyst
+|number=5230
+|relic1=Mahakala Statue
+|relic2=Statue of Gudea
+|relic3=The Prayer
+|relic4=San Damiano Cross
+|relic5=Seated Voltaire
+}}
+|color=green
+|earth=2
+|water=1
+|fire=2
+|wind=1
+|form=
+|element=
+|realm=
+|orangehard=
+}}

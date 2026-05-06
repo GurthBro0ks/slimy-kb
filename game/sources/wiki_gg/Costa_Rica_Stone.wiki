@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Costa Rica Stone
+|rank=Blue
+|affct=FAME
+|birthday=01-30
+|source=Lottery Machine (0.36%), Wishing (15.5%), Novice Scrolls (5%)
+|description=On Jan 30, 1939, these ancient artificial stone balls were found.
+
+American adventurer George Chitan found hundreds of stone balls of different sizes in the delta jungle of Costa Rica. Surprisingly, these stone balls are uniform in shape, almost similar to those made by modern machines. The creator of these balls and their purpose are still an unsolved mystery to modern scientists.
+|fame=48
+|art=25
+|fth=31
+|civ=31
+|tech=19
+|ss1=Quarry Max Cap +2%
+|ss2=Quarry Max Cap +4%
+|ss3=Quarry Max Cap +6%
+|ss4=Quarry Max Cap +10%
+|ss7=Quarry Max Cap +10%<br>Quarry Max Cap +10% (Awakened)
+|skill1=[[File:Yamato skill I.png|frameless|50x50px]]Place in Yamato Museum: In Yamato, Snail RUSH +20
+}}
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:FAME Relics]]
+[[Category:Blue FAME Relics]]
+[[Category:Quarry Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:Yamato Museum Boost]]
+[[Category:Lucky Voucher Boost]]
+[[Category:HP Boost]]
+[[Category:Ironball Thrower Boost]]

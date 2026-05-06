@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20557_1
+|class_id=20557
+|rank=Green
+|affct=CIV
+|source=
+|description=collection@20557_2
+|fame=14
+|art=15
+|fth=16
+|civ=31
+|tech=14
+|ss1=Per 3 Incense used, Snail RUSH +1<br>Incense Used: 150/150
+|ss2=Per 3 Incense used, Snail RUSH +2<br>Incense Used: 150/150
+|ss3=Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150
+|ss4=Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150
+|ss7=Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150<br> (Awakened)
+}}

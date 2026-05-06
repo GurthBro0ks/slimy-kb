@@ -1,0 +1,12 @@
+[[File:Ultimate Eye Pack Details.png|300px]]
+
+The {{RewardIconWithLink|Ultimate Eye Pack|orange}} is a reward for many events that gives you a choice of what you want.
+
+After receiving the Gift Pack, you may choose one of the below rewards!
+
+* {{RewardIconWithGearlink|orange|Material|Blasphemy Eye}}
+* {{RewardIconWithGearlink|orange|Material|Eye of Horus}}
+* {{RewardIconWithText|Glue, +300}}
+* {{RewardIconWithText|W-Tad, +4k}}
+
+[[Category:Reward Pack]]

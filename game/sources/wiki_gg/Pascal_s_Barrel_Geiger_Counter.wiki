@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=341
+|relics=Pascal's Barrel,Geiger Counter
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Mecha Minions in battle: Troop DEF +5
+}}

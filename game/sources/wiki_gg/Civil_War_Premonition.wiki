@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Civil War Premonition
+|class_id=22642
+|rank=SS
+|affct=ART
+|birthday=02-04
+|source=Lottery Machine No.3 (0.47%)
+|description=On Feb 4, 1936 AD, Dali completed this profound allegorical oil painting.<br>A year before Guernica was bombed, the painter Dalí keenly sensed the atmosphere of war and began working on this oil painting. The artist depicted fragmented and intertwined bodies, forming the frame structure that fills the entire canvas, symbolizing the horror and bloodshed of war. The blue sky and white clouds in the background provide a stark contrast, emphasizing that these atrocities occur even in broad daylight. This abstract technique makes the painting extremely expressive and is considered one of the representative works of surrealism.
+|fame=48
+|art=104
+|fth=65
+|civ=74
+|tech=56
+|ss1=Demon Minion RUSH +2%<br>Tribal Amber output +4%<br>Per 10 advanced fusions, Snail ATK +2<br>Advanced Fusions: 500/500
+|ss2=Demon Minion RUSH +3%<br>Tribal Amber output +6%<br>Per 10 advanced fusions, Snail ATK +3<br>Advanced Fusions: 500/500
+|ss3=Demon Minion RUSH +4%<br>Tribal Amber output +8%<br>Per 10 advanced fusions, Snail ATK +4<br>Advanced Fusions: 500/500
+|ss4=Demon Minion RUSH +6%<br>Tribal Amber output +12%<br>Per 10 advanced fusions, Snail ATK +6<br>Advanced Fusions: 500/500
+|ss5=Demon Minion RUSH +8%<br>Tribal Amber output +16%<br>Per 10 advanced fusions, Snail ATK +8<br>Advanced Fusions: 500/500
+|ss6=Demon Minion RUSH +11%<br>Tribal Amber output +22%<br>Per 10 advanced fusions, Snail ATK +11<br>Advanced Fusions: 500/500
+|ss7=Demon Minion RUSH +11%<br>Tribal Amber output +22%<br>Per 10 advanced fusions, Snail ATK +11<br>Advanced Fusions: 500/500<br>Tribal Amber output +20% (Awakened)
+|skill1=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: This Relic's ART +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x White Card Drops +6%
+|mirage={{Mirage|name=Surrealism|reward={{RewardIconWithLink|Coating Bucket, +3|orange}}
+|3name=Chagall|3rec=94.04M|3atk=278475|3defense=176200|3hp=14080835|3weak=34032
+|4name=Joan Miró|4rec=131.09M|4atk=364552|4defense=228334|4hp=20646043|4weak=37606
+|5name=Salvador Dali|5rec=195.93M|5atk=519614|5defense=319555|5hp=38195595|5weak=43042
+|Arec=310.53M|Aatk=739034|Adefense=441933|Ahp=79995480|Aweak=51982
+}}}}

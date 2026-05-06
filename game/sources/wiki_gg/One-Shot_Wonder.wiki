@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=One-Shot Wonder
+|class_id=20994
+|rank=Green
+|affct=FAME
+|source=
+|description=Theorized by Forerunners to anchor possibility fragments from timelines through conceptual assault. This enigmatic causality swap perturbs higher-dimensional observers, boosting soul stability.
+|fame=29
+|art=15
+|fth=15
+|civ=17
+|tech=14
+|ss1=Per red reward from turning the Pendulum, Snail ATK +1<br>Red reward(s) obtained: 60/60
+|ss2=Per red reward from turning the Pendulum, Snail ATK +2<br>Red reward(s) obtained: 60/60
+|ss3=Per red reward from turning the Pendulum, Snail ATK +3<br>Red reward(s) obtained: 60/60
+|ss4=Per red reward from turning the Pendulum, Snail ATK +3<br>Red reward(s) obtained: 60/60
+|ss7=Per red reward from turning the Pendulum, Snail ATK +3<br>Red reward(s) obtained: 60/60<br> (Awakened)
+}}

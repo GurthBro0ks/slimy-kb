@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Campbell's Soup Cans
+|class_id=22440
+|rank=Blue
+|affct=ART
+|birthday=02-26
+|source=Lottery Machine No.3 (0.03%)
+|description=On Feb 26, 1962 AD, Warhol completed the creation of the thirty-two Campbell's Soup Cans paintings.<br>This theme painting is a work of Pop Art representative Warhol. Although its shape appears to be the same, careful observation reveals unique defects on each of the thirty-two cans of Campbell's soup. This work pioneered the use of daily life items as creative material, and also propelled Pop Art into the mainstream, becoming one of the mainstream arts.
+|fame=23
+|art=46
+|fth=30
+|civ=33
+|tech=22
+|ss1=Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +8<br>Desert Sanctum Rating Pts: 100000/100000
+|ss2=Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +16<br>Desert Sanctum Rating Pts: 100000/100000
+|ss3=Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +24<br>Desert Sanctum Rating Pts: 100000/100000
+|ss4=Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Desert Sanctum Rating Pts: 100000/100000
+|ss7=Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Desert Sanctum Rating Pts: 100000/100000<br>Protomon Troop assist DMG + 400 (Awakened)
+|skill1=[[File:Explorationegg skill I.png|50px]]Place in Exploration Egg: This Relic's ART +5
+}}

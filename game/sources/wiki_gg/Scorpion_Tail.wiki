@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Scorpion Tail
+|type=Bionic
+|rank=blue
+|id=10656
+|idx=13
+|description=The ghastly stinger drips with necrotic venom, a reaper's scythe whispering promises of agonizing demise through its very aura.
+|skill=On combat start, summon a Scorpion to attack the enemy, dealing DMG equal to 54% of ATK!
+|hp=710
+|def=85
+|atk=157
+|rush=104
+|gene1=During exploration, Fire DMG +60
+|gene2=In explorations, {race} ATK +20
+|gene3=In explorations, DMG +2.5%
+|gene7=Fire DMG +90 (Awakened)
+|}}

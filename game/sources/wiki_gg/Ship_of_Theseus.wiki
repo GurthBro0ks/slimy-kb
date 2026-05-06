@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Ship of Theseus
+|class_id=22349
+|rank=SSS
+|affct=TECH
+|birthday=03-10
+|source=
+|description=On Mar 10, 38 AD, Plutarch created this ship, which didn't exist in reality.<br>According to legend, Theseus, the mythical Greek founder-king of Athens, used the ship to return from Crete. After centuries of upkeep, every component of the Ship of Theseus had been replaced one by one. The Greek philosophers wondered if it was still the same ship.
+|fame=67
+|art=54
+|fth=71
+|civ=61
+|tech=109
+|ss1=Snail ATK +30<br>Per Rift Apostle dominated, Snail RUSH +6<br>Per Rift Apostle dominated, Snail HP +60<br>Rift Apostles Dominated: 40/40
+|ss2=Snail ATK +40<br>Per Rift Apostle dominated, Snail RUSH +8<br>Per Rift Apostle dominated, Snail HP +80<br>Rift Apostles Dominated: 40/40
+|ss3=Snail ATK +50<br>Per Rift Apostle dominated, Snail RUSH +10<br>Per Rift Apostle dominated, Snail HP +100<br>Rift Apostles Dominated: 40/40
+|ss4=Snail ATK +70<br>Per Rift Apostle dominated, Snail RUSH +14<br>Per Rift Apostle dominated, Snail HP +140<br>Rift Apostles Dominated: 40/40
+|ss5=Snail ATK +90<br>Per Rift Apostle dominated, Snail RUSH +18<br>Per Rift Apostle dominated, Snail HP +180<br>Rift Apostles Dominated: 40/40
+|ss6=Snail ATK +120<br>Per Rift Apostle dominated, Snail RUSH +24<br>Per Rift Apostle dominated, Snail HP +240<br>Rift Apostles Dominated: 40/40
+|ss7=Snail ATK +120<br>Per Rift Apostle dominated, Snail RUSH +24<br>Per Rift Apostle dominated, Snail HP +240<br>Rift Apostles Dominated: 40/40<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Water DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail RUSH +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail HP +6000
+|mirage={{Mirage|name=Divine Ship Part|reward={{RewardIconWithLink|Super Treasure Map, +200|orange}}
+|3name=Oar|3rec=83.33M|3atk=241537|3defense=161139|3hp=14578581|3weak=31502
+|4name=Rudder|4rec=111.32M|4atk=300561|4defense=200516|4hp=21285132|4weak=36349
+|5name=Sail|5rec=144.39M|5atk=370310|5defense=247048|5hp=30637540|5weak=41886
+|6name=Hull|6rec=182.29M|6atk=450222|6defense=300361|6hp=42315946|6weak=49071
+|Arec=226.10M|Aatk=542620|Adefense=362003|Ahp=57452725|Aweak=53115
+}}}}

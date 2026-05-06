@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Flying Horse of Gansu
+|class_id=22718
+|rank=SSS
+|affct=CIV
+|birthday=10-14
+|source=
+|description=On Oct 14, 1969 AD, the Flying Horse of Gansu was excavated, in the Han tomb at Leitai in Wuwei, Gansu.<br>It is a bronze vessel that depicts a prancing horse with a sleek and elegant shape. The bronze horse appears to be soaring with three legs in the air, with one foot stepping on a flying bird. The artist's ingenious idea and exquisite craftsmanship combined a galloping horse with a flying bird, making the still bronze horse vividly present in front of the world. This masterpiece reflects the superb bronze-making skills of the Han Dynasty and its strong national power.
+|fame=73
+|art=74
+|fth=55
+|civ=106
+|tech=54
+|ss1=Snail Leadership +3<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 100 catalysis, Snail RUSH +3<br>Catalysis: 5000/5000
+|ss2=Snail Leadership +4<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 100 catalysis, Snail RUSH +4<br>Catalysis: 5000/5000
+|ss3=Snail Leadership +5<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 100 catalysis, Snail RUSH +5<br>Catalysis: 5000/5000
+|ss4=Snail Leadership +7<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 100 catalysis, Snail RUSH +7<br>Catalysis: 5000/5000
+|ss5=Snail Leadership +9<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 100 catalysis, Snail RUSH +9<br>Catalysis: 5000/5000
+|ss6=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 100 catalysis, Snail RUSH +12<br>Catalysis: 5000/5000
+|ss7=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 100 catalysis, Snail RUSH +12<br>Catalysis: 5000/5000<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +30%
+|skill2=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Cap +30%
+|skill3=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: This Relic's CIV +15
+|mirage={{Mirage|name=Galloping Horses|reward={{RewardIconWithLink|Mythic Protomon Egg, +1|orange}}
+|3name=Red Horse|3rec=98.29M|3atk=311017|3defense=182176|3hp=25414196|3weak=39342
+|4name=Night Glow White|4rec=110.14M|4atk=337123|4defense=198856|4hp=31354211|4weak=41973
+|5name=Dawn Cloud Purple|5rec=124.63M|5atk=368468|5defense=219244|5hp=40617139|5weak=45360
+|6name=Black Buck|6rec=143.29M|6atk=409871|6defense=245493|6hp=54942032|6weak=49098
+|Arec=168.28M|Aatk=465224|Adefense=280657|Ahp=80011730|Aweak=53277
+}}}}

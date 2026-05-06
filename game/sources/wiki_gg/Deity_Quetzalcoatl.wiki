@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Deity Quetzalcoatl
+|rank=AAA
+|affct=FTH
+|birthday=02-22
+|source=Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On Feb 22, AD 1237, the Maya held a sacrifice ceremony for the feathered snake. 
+
+Deity Quetzalcoaltl, also known as Kukulkan, was the Maya God of weather, harvest, and life. The priest was praying in the pyramid as usual, with wheat, meat, and blood of the enemy on the altar. Just as the prayer was about to end, the winged feathered snake entered the pyramid from the top, and took away all the offerings. Then the king was more certain that it could bless the people.
+|fame=34
+|art=38
+|fth=72
+|civ=49
+|tech=50
+|ss1=Dragon Minion Cloning SPD +3%<br>Per 30 Dragon Minions in battle, Troop RUSH +4
+|ss2=Dragon Minion Cloning SPD +4%<br>Per 30 Dragon Minions in battle, Troop RUSH +8
+|ss3=Dragon Minion Cloning SPD +5%<br>Per 30 Dragon Minions in battle, Troop RUSH +12
+|ss4=Dragon Minion Cloning SPD +7%<br>Per 30 Dragon Minions in battle, Troop RUSH +20
+|ss5=Dragon Minion Cloning SPD +9%<br>Per 30 Dragon Minions in battle, Troop RUSH +28
+|ss7=Dragon Minion Cloning SPD +9%<br>Per 30 Dragon Minions in battle, Troop RUSH +28<br>Dragon Minion Cloning SPD +7% (Awakened)
+|skill1=[[File:Bharata skill II.png|50px]] Place in Bharata Museum: In Bharata, 2x Blue Reagent Drops +7.5%
+|skill2=[[File:Bharata skill II.png|50px]] Place in Bharata Museum: In Bharata, 2x Purple Reagent Drops +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FTH Relics]]
+[[Category:Purple FTH Relics]]
+[[Category:Dragon Minion Cloning Speed Boost]]
+[[Category:Dragon Minion RUSH Boost]]
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:RUSH Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Roachikun Boost]]

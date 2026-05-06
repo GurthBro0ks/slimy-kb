@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Cherub Medical Manual
+|class_id=20479
+|rank=Green
+|affct=FAME
+|source=
+|description=Cherub Medical Manual was compiled by the Chinese Red Cross. It records the medical knowledge and nursing skills for childhood leukemia. As the first Q&A medical book specifically for childhood leukemia, it has filled the vacancy of childhood leukemia knowledge popularization!
+|fame=29
+|art=17
+|fth=14
+|civ=16
+|tech=14
+|ss1=Per 50 Minions healed, Snail HP +10<br>Minions healed: 2000/2000
+|ss2=Per 50 Minions healed, Snail HP +20<br>Minions healed: 2000/2000
+|ss3=Per 50 Minions healed, Snail HP +30<br>Minions healed: 2000/2000
+|ss4=Per 50 Minions healed, Snail HP +30<br>Minions healed: 2000/2000
+|ss7=Per 50 Minions healed, Snail HP +30<br>Minions healed: 2000/2000<br> (Awakened)
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Snail Journey
+|class_id=20105
+|rank=Green
+|affct=CIV
+|source=
+|description=Word has it that this model was created in commemoration of the first-ever snail to journey into space. With meticulous craftsmanship, the designer has flawlessly replicated every detail, from the fiery trail left by the rocket's tail to the snail's eager eyes inside the capsule. Today, it stands as a unique memento presented to travelers embarking on their journeys!
+|fame=15
+|art=12
+|fth=17
+|civ=31
+|tech=15
+|ss1=Per Sign-In, Snail ATK +1<br>Sign-Ins: 20/20
+|ss2=Per Sign-In, Snail ATK +2<br>Sign-Ins: 20/20
+|ss3=Per Sign-In, Snail ATK +3<br>Sign-Ins: 20/20
+|ss4=Per Sign-In, Snail ATK +3<br>Sign-Ins: 20/20
+|ss7=Per Sign-In, Snail ATK +3<br>Sign-Ins: 20/20<br> (Awakened)
+}}

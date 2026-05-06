@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Susan's Horn
+|class_id=22062
+|rank=Blue
+|affct=FAITH
+|birthday=01-02
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jan 2, 206 BC, Santa Claus presented the magic horn to Susan.<br>This magical ivory horn was a gift from Santa Claus to Susan. No matter when and where, as long as this horn is blown, reinforcements will come to the rescue. Susan, the first user, once lost this horn. Later, under the influence of the horn's magic power, she and her brothers and sisters were summoned again from the Otherworld.
+|fame=23
+|art=30
+|fth=46
+|civ=23
+|tech=32
+|ss1=In the Gaia Rocket Cabin:<br>> Rainbow Generator Base Effect +8%
+|ss2=In the Gaia Rocket Cabin:<br>> Rainbow Generator Base Effect +16%
+|ss3=In the Gaia Rocket Cabin:<br>> Rainbow Generator Base Effect +24%
+|ss4=In the Gaia Rocket Cabin:<br>> Rainbow Generator Base Effect +40%
+|ss7=In the Gaia Rocket Cabin:<br>> Rainbow Generator Base Effect +40%<br>In the Gaia Rocket Cabin:<br>> Rainbow Generator Base Effect +40% (Awakened)
+|skill1=[[File:Dungbeetle skill I.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion RUSH +1.5%
+}}

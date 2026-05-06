@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Crystalized Rib
+|type=Common
+|rank=purple
+|id=10837
+|idx=42
+|description="We examined the remains of several victims at the site of the mystery explosion. They all showed a condition of skeletal crystalization, which is a typical consequence of arcane damage!"
+—Dark Art Investigation
+|skill=
+|hp=2038
+|def=160
+|atk=140
+|rush=127
+|gene1=In Angel Form, {race} HP +800
+|gene2=In Angel Form, {race} ATK +80
+|gene3=In Angel Form, {race} DEF +80
+|gene4=In Angel Form, {race} RUSH +80
+|gene7=In Angel Form, {race} HARD +1% (Awakened)
+|}}

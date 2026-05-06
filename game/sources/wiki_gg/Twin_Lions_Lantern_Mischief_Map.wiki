@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=383
+|relics=Twin Lions Lantern,Mischief Map
+|rank=purple
+|amount=2
+|category=self
+|description=Per 60 Minions in battle: Troop Fire DMG +7
+}}

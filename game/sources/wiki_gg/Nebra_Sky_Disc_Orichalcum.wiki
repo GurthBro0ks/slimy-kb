@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=325
+|relics=Nebra Sky Disc,Orichalcum
+|rank=blue
+|amount=2
+|category=self
+|description=Per God of Faith Descent, Snail ATK +5;God of Faith Descended: 40/40
+}}

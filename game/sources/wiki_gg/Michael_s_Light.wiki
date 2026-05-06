@@ -1,0 +1,17 @@
+{{Shell
+|name=Michael's Light
+|image=Michael's Light.png
+|description=To combat demons, Archangel Michael shone his light on the mortal world, and some Snail Shell have been blessed!
+|affct=FTH
+|hard=ATK
+|source=Divine Chaos Chest (0.1%)
+|color=orange
+|earth=9
+|water=9
+|fire=10
+|wind=14
+|form=Angel
+|element=Water
+|realm=Bharata
+|orangehard=HP
+}}

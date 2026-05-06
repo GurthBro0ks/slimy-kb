@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Otis Steam Excavator
+|class_id=22771
+|rank=SS
+|affct=FAME
+|source=
+|description=The Otis Steam Excavator, designed and manufactured by American inventor Otis, is the ancestor of modern excavators. This machine was steam-powered and mounted on a railway flatcar, a semi-rotary, rail-mounted single-bucket excavator primarily used for railway construction. Although Otis died young, his steam excavator was widely used, becoming an important tool for railway construction, canal excavation, and open-pit mining in the United States. Its appearance marked the first time humans used mechanized equipment for earth excavation, laying the foundation for modern excavators.
+|fame=104
+|art=59
+|fth=48
+|civ=67
+|tech=69
+|ss1=In the Fissure, DMG REDUC +1.2%<br>B-tads collected from Drill Rig +2%<br>Per 30 Fissure Floors, Snail ATK +2<br>Fissure Floor: 1200/1200
+|ss2=In the Fissure, DMG REDUC +1.8%<br>B-tads collected from Drill Rig +3%<br>Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200
+|ss3=In the Fissure, DMG REDUC +2.4%<br>B-tads collected from Drill Rig +4%<br>Per 30 Fissure Floors, Snail ATK +4<br>Fissure Floor: 1200/1200
+|ss4=In the Fissure, DMG REDUC +3.6%<br>B-tads collected from Drill Rig +6%<br>Per 30 Fissure Floors, Snail ATK +6<br>Fissure Floor: 1200/1200
+|ss5=In the Fissure, DMG REDUC +4.8%<br>B-tads collected from Drill Rig +8%<br>Per 30 Fissure Floors, Snail ATK +8<br>Fissure Floor: 1200/1200
+|ss6=In the Fissure, DMG REDUC +6.6%<br>B-tads collected from Drill Rig +11%<br>Per 30 Fissure Floors, Snail ATK +11<br>Fissure Floor: 1200/1200
+|ss7=In the Fissure, DMG REDUC +6.6%<br>B-tads collected from Drill Rig +11%<br>Per 30 Fissure Floors, Snail ATK +11<br>Fissure Floor: 1200/1200<br>B-tads collected from Drill Rig +10% (Awakened)
+|skill1=[[File:Quary skill III.png|50px]]Place in Quarry: Stone Output +30%
+|skill2=[[File:Quary skill III.png|50px]]Place in Quarry: Find Ancient Fossil by +30%
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Earth DMG +600
+|mirage={{Mirage|name=Driving Skills Exchange Meeting|reward={{RewardIconWithLink|Golden Pickaxe, +5|orange}}
+|3name=American Pilot|3rec=4.41M|3atk=52014|3defense=34738|3hp=770307|3weak=11905
+|4name=Rossian Pilot|4rec=9.87M|4atk=80890|4defense=54023|4hp=1617922|4weak=15996
+|5name=Chinese Pilot|5rec=24.91M|5atk=118197|5defense=78939|5hp=3124597|5weak=19860
+|Arec=47.27M|Aatk=165317|Adefense=110408|Ahp=5738119|Aweak=27296
+}}}}

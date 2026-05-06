@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Fireflower
+|class_id=20013
+|rank=Green
+|affct=ART
+|source=
+|description=When digging in the Fissure, the snail encountered a grumpy plumber. He jumped right up and tried to stomp on the snail's shell without a word! After teaching him a fatal lesson, the snail found a fire flower on his body, which he seemed to have taken great care of.
+|fame=13
+|art=28
+|fth=18
+|civ=18
+|tech=13
+|ss1=Per 30 Fissure Floors, Snail HP +10<br>Fissure Floor: 1200/1200
+|ss2=Per 30 Fissure Floors, Snail HP +20<br>Fissure Floor: 1200/1200
+|ss3=Per 30 Fissure Floors, Snail HP +30<br>Fissure Floor: 1200/1200
+|ss4=Per 30 Fissure Floors, Snail HP +30<br>Fissure Floor: 1200/1200
+|ss7=Per 30 Fissure Floors, Snail HP +30<br>Fissure Floor: 1200/1200<br> (Awakened)
+}}

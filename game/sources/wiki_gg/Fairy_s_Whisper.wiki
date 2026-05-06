@@ -1,0 +1,25 @@
+{{Shell
+|name=Fairy's Whisper
+|image=Fairy's Whisper.png
+|description=Snail Shell was owned by the Spirit Sage, whose dimension was invaded by a new technology that destroyed its castle and cut off the halls of magic. The fairies lost their home, and could not but perform on the streets singing: "The snow glows white on the street tonight..."
+|affct=FTH
+|hard=HP
+|source=
+{{Memetic Catalyst
+|number=7098
+|relic1=Izu Dancer
+|relic2=Cornucopia
+|relic3=Sunflowers
+|relic4=Leaf of Yggdrasil
+|relic5=Tree of Life
+}}
+|color=green
+|earth=4
+|water=1
+|fire=0
+|wind=1
+|form=Angel
+|element=Earth
+|realm=Hellas
+|orangehard=ATK
+}}

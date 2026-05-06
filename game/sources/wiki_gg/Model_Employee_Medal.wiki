@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Model Employee Medal
+|class_id=20453
+|rank=Green
+|affct=FAME
+|source=
+|description=The medal is given to the most outstanding employee. It is not only the accreditation for the employee's competence but also the approval of their work attitude. The honor winner is a role model for the whole staff.
+|fame=31
+|art=17
+|fth=10
+|civ=17
+|tech=13
+|ss1=Per 20 Chores completed, Snail ATK +2<br>Chores Completed: 300/300
+|ss2=Per 20 Chores completed, Snail ATK +4<br>Chores Completed: 300/300
+|ss3=Per 20 Chores completed, Snail ATK +6<br>Chores Completed: 300/300
+|ss4=Per 20 Chores completed, Snail ATK +6<br>Chores Completed: 300/300
+|ss7=Per 20 Chores completed, Snail ATK +6<br>Chores Completed: 300/300<br> (Awakened)
+}}

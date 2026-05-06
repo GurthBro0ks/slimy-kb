@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Strange Caveman
+|rank=purple
+|cabin=2
+|id=81
+|gene1={race} DEF +30
+|gene2={race} FTH +30
+|gene3=Per 30 Mutant Minions in battle:
+> Troop DEF +8
+|gene4=Each round, {race} DEF +20
+|gene5=Per 30 Mutant Minions in battle:
+> Troop DEF +12
+|gene6=Each round, {race} DEF +30
+|}}

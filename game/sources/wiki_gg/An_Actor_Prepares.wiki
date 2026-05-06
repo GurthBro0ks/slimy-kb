@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=An Actor Prepares
+|class_id=22612
+|rank=SS
+|affct=FAME
+|birthday=05-04
+|source=Lottery Machine No.3 (0.47%)
+|description=On May 4, 1938 AD, An Actor Prepares was officially published.<br>This theoretical work on drama was compiled by Soviet playwright Stanislavski. In the book, the author uses a novel-like form to depict the process of practice and communication among a fictional group of acting teachers and students, thereby explaining the role of an actor's experience in performance art, as well as methods for learning and practice. The work emphasizes the importance of combining an actor's natural emotions and external actions and is considered a classic of experiential performance art, with a profound influence on future generations.
+|fame=103
+|art=62
+|fth=47
+|civ=69
+|tech=66
+|ss1=Zombie Minion RUSH +2%<br>Per Bionic Part extracted, Snail HP +20<br>Per Bionic Part extracted, Snail ATK +2<br>Bionic Part Extracted: 50/50
+|ss2=Zombie Minion RUSH +3%<br>Per Bionic Part extracted, Snail HP +30<br>Per Bionic Part extracted, Snail ATK +3<br>Bionic Part Extracted: 50/50
+|ss3=Zombie Minion RUSH +4%<br>Per Bionic Part extracted, Snail HP +40<br>Per Bionic Part extracted, Snail ATK +4<br>Bionic Part Extracted: 50/50
+|ss4=Zombie Minion RUSH +6%<br>Per Bionic Part extracted, Snail HP +60<br>Per Bionic Part extracted, Snail ATK +6<br>Bionic Part Extracted: 50/50
+|ss5=Zombie Minion RUSH +8%<br>Per Bionic Part extracted, Snail HP +80<br>Per Bionic Part extracted, Snail ATK +8<br>Bionic Part Extracted: 50/50
+|ss6=Zombie Minion RUSH +11%<br>Per Bionic Part extracted, Snail HP +110<br>Per Bionic Part extracted, Snail ATK +11<br>Bionic Part Extracted: 50/50
+|ss7=Zombie Minion RUSH +11%<br>Per Bionic Part extracted, Snail HP +110<br>Per Bionic Part extracted, Snail ATK +11<br>Bionic Part Extracted: 50/50<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail DEF +600
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail ATK +600
+|skill3=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: This Relic's FAME +15
+|mirage={{Mirage|name=Interpreting Life|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Stage Actor|3rec=90.81M|3atk=270582|3defense=171666|3hp=13402250|3weak=33804
+|4name=Opera Actor|4rec=127.97M|4atk=356700|4defense=223939|4hp=19922687|4weak=37245
+|5name=Movie Actor|5rec=187.48M|5atk=499363|5defense=307660|5hp=35474605|5weak=42107
+|Arec=293.22M|Aatk=712498|Adefense=426361|Ahp=75179155|Aweak=51456
+}}}}

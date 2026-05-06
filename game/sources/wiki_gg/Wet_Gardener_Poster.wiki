@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Wet Gardener Poster
+|class_id=22013
+|rank=Blue
+|affct=FAME
+|birthday=06-04
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Jun 4, 1895 AD, the poster for The Wet Gardener was posted on the cinema wall.<br>The poster came along with the first film in the world the Wet Gardener. The film was about a gardener who was watering the garden and got soaking wet after a little boy pulled a prank on him. He then started to chase the little boy and gave him a good beating. As one of the earliest films, the plot was simple and plain, but it undoubtedly laid a foundation for future cinema art.
+|fame=46
+|art=25
+|fth=24
+|civ=28
+|tech=31
+|ss1=Per 2 FAME Master Scrolls used, Snail DEF +1<br>FAME Master Scrolls Used: 100/100
+|ss2=Per 2 FAME Master Scrolls used, Snail DEF +2<br>FAME Master Scrolls Used: 100/100
+|ss3=Per 2 FAME Master Scrolls used, Snail DEF +3<br>FAME Master Scrolls Used: 100/100
+|ss4=Per 2 FAME Master Scrolls used, Snail DEF +5<br>FAME Master Scrolls Used: 100/100
+|ss7=Per 2 FAME Master Scrolls used, Snail DEF +5<br>FAME Master Scrolls Used: 100/100<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Dungbeetle skill I.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Water DMG +10
+}}

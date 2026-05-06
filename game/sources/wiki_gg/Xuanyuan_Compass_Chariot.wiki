@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Xuanyuan Compass Chariot
+|class_id=21441
+|rank=SSS
+|affct=TECH
+|source=
+|description=Mythic fog-breaker from the Yellow Emperor’s war. Magnetized figurines pointed the way to victory.
+|fame=66
+|art=55
+|fth=71
+|civ=63
+|tech=107
+|ss1=Snail Leadership +3<br>All Minion HP +0.6%<br>Per 60 T8+ Minions deployed, Troop HP +360
+|ss2=Snail Leadership +4<br>All Minion HP +0.8%<br>Per 60 T8+ Minions deployed, Troop HP +480
+|ss3=Snail Leadership +5<br>All Minion HP +1%<br>Per 60 T8+ Minions deployed, Troop HP +600
+|ss4=Snail Leadership +7<br>All Minion HP +1.4%<br>Per 60 T8+ Minions deployed, Troop HP +840
+|ss5=Snail Leadership +9<br>All Minion HP +1.8%<br>Per 60 T8+ Minions deployed, Troop HP +1080
+|ss6=Snail Leadership +12<br>All Minion HP +2.4%<br>Per 60 T8+ Minions deployed, Troop HP +1440
+|ss7=Snail Leadership +12<br>All Minion HP +2.4%<br>Per 60 T8+ Minions deployed, Troop HP +1440<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Fire DMG +60
+|skill2=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion ATK +9%
+|skill3=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop DMG toward heroes +6%
+}}

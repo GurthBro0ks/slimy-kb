@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Hellenic Postcard
+|class_id=20109
+|rank=Green
+|affct=ART
+|source=
+|description=While scouting for info about the Demon God in Hellas, the snail also recorded a lot of local customs, which were brought together in this postcard. You can read it to kill time and post it online to get many likes!
+|fame=10
+|art=29
+|fth=19
+|civ=14
+|tech=18
+|ss1=Hellenic Museum Medal Output +5
+|ss2=Hellenic Museum Medal Output +10
+|ss3=Hellenic Museum Medal Output +15
+|ss4=Hellenic Museum Medal Output +15
+|ss7=Hellenic Museum Medal Output +15<br> (Awakened)
+}}

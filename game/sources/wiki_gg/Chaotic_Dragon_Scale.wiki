@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Chaotic Dragon Scale
+|type=Bionic
+|rank=red
+|id=10711
+|idx=69
+|description="They bore witness to the birth of the cosmos, the rise and ruin of countless civilizations, and the endless cycles of rebirth…"
+— Codex Draconis
+|skill=Unleash Annihilation Breath, reducing the enemy's DEF by 60% this round. Deal an additional DMG equal to 3% of the enemy's Max HP for each stack of Annihilation, up to a maximum of 100% of your ATK!
+|hp=2172
+|def=239
+|atk=387
+|rush=226
+|gene1=Snail Arena, Total Power Checks -8%
+|gene2=In Snail Arena, HIT +12%
+|gene3=In Snail Arena, {race} RUSH +140
+|gene4=Snail Arena, paralysis RES +4%
+|gene5=Snail Arena, dodge rate +12%
+|gene6=In Snail Arena, CRIT +20%
+|gene7=Bind RES +4% (Awakened)
+|}}

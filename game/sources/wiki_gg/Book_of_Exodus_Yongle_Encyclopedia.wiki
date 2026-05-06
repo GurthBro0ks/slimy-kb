@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=795
+|relics=Book of Exodus,Yongle Encyclopedia
+|rank=orange
+|amount=2
+|category=self
+|description=Refine +1 White Printing Supply by +7%
+}}

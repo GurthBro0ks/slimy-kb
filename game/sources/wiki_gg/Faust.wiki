@@ -1,0 +1,44 @@
+{{CargoRelic
+|name=Faust
+|rank=SSS
+|affct=CIV
+|birthday=09-28
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.08%), 
+|description=On Sep 28, 1832 AD, Goethe completed this very long poem.
+
+Goethe used 60 years to complete this epic poem. It is a magnificent piece that reflects the rising era of the bourgeoisie. Belinsky believed it is on par with other famous works such as the "Iliad" and "Divine Comedy" and regarded it as a mirror of contemporary German society. As it is an extremely long piece, Belinksy admitted that he had never finished reading it.
+
+[Classic Quotes]
+
+In your Nothingness, I hope, the All I will recover. The dignity of a man does not succumb to the authority of God. All theory is grey, but the golden tree of actual life springs ever green. Those who cannot rise will sink forever.
+|fame=62
+|art=69
+|fth=70
+|civ=108
+|tech=53
+|ss1=Tadpole Pond B-tad Output +6%<br>The Pond has a +6% chance to produce W-tads<br>Per 5 Tadpole Pond LVLs, Snail ATK +12<br>Tadpole Pond LVL: 50/50
+|ss2=Tadpole Pond B-tad Output +8%<br>The Pond has a +8% chance to produce W-tads<br>Per 5 Tadpole Pond LVLs, Snail ATK +16<br>Tadpole Pond LVL: 50/50
+|ss3=Tadpole Pond B-tad Output +10%<br>The Pond has a +10% chance to produce W-tads<br>Per 5 Tadpole Pond LVLs, Snail ATK +20<br>Tadpole Pond LVL: 50/50
+|ss4=Tadpole Pond B-tad Output +14%<br>The Pond has a +14% chance to produce W-tads<br>Per 5 Tadpole Pond LVLs, Snail ATK +28<br>Tadpole Pond LVL: 50/50
+|ss5=Tadpole Pond B-tad Output +18%<br>The Pond has a +18% chance to produce W-tads<br>Per 5 Tadpole Pond LVLs, Snail ATK +36<br>Tadpole Pond LVL: 50/50
+|ss6=Tadpole Pond B-tad Output +24%<br>The Pond has a +24% chance to produce W-tads<br>Per 5 Tadpole Pond LVLs, Snail ATK +48<br>Tadpole Pond LVL: 50/50
+|ss7=Tadpole Pond B-tad Output +24%<br>The Pond has a +24% chance to produce W-tads<br>Per 5 Tadpole Pond LVLs, Snail ATK +48<br>Tadpole Pond LVL: 50/50<br>Tadpole Pond B-tad Output +20% (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: Medal Output +30
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail ATK +600
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x Purple Card Drops +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Tadpole Pond W-Tad Output Boost]]
+[[Category:Tadpole Pond Boost]]
+[[Category:ATK Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Medal Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Lottery Machine Boost]]
+[[Category:Gear Boost]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Enhanced by Gear]]

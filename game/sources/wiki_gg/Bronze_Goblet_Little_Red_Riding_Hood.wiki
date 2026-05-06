@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=503
+|relics=Bronze Goblet,Little Red Riding Hood
+|rank=orange
+|amount=2
+|category=self
+|description=Per 8 Museum Promos, Snail ATK +7;Museum Promos: 400/400
+}}

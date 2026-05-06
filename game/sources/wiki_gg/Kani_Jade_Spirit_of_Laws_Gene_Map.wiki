@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=130
+|relics=Kani Jade,Spirit of Laws,Gene Map
+|rank=purple
+|amount=3
+|category=self
+|description=Per 20 Purple Orbs drawn, Snail DEF +14;Purple Orbs Drawn: 300/300
+}}

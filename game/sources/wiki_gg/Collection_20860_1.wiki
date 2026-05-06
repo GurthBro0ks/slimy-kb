@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20860_1
+|class_id=20860
+|rank=Green
+|affct=TECH
+|source=
+|description=collection@20860_2
+|fame=18
+|art=9
+|fth=18
+|civ=16
+|tech=29
+|ss1=Per 5k DNA Strength, Snail ATK +5<br>DNA Strength: 50000/50000
+|ss2=Per 5k DNA Strength, Snail ATK +10<br>DNA Strength: 50000/50000
+|ss3=Per 5k DNA Strength, Snail ATK +15<br>DNA Strength: 50000/50000
+|ss4=Per 5k DNA Strength, Snail ATK +15<br>DNA Strength: 50000/50000
+|ss7=Per 5k DNA Strength, Snail ATK +15<br>DNA Strength: 50000/50000<br> (Awakened)
+}}

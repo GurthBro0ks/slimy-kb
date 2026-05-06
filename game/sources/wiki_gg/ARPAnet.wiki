@@ -1,0 +1,48 @@
+{{CargoRelic
+|name=ARPAnet
+|rank=AAA
+|affct=FAME
+|birthday=07-25
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Tool Chest(1.5%), Relic Forge (80 Relic RF)
+|description=On Jul 25, 1969, ARPAnet developed the world's first packet-switched network.
+
+On this day, the 4 large computers from 4 universities finally established a connection by using a wireless packet-switched network and satellite communication through a special interface signal processor and special cord. But technically, it was unsuitable to be promoted, as it might stop working when a certain part of the network was under attack. Ideally, the other parts of the network should be able to work normally under such circumstances.
+
+[Evolution of the Internet]
+
+Gen 1: ARPAnet network with only 4 nodes.
+
+Gen 2: ARPAnet can connect to more than 100 hosts.
+
+Gen 3: Data packets are expanded to create the Internet.
+
+Gen 4: Successfully established the NSFnet wide area network.
+|fame=71
+|art=48
+|fth=49
+|civ=39
+|tech=36
+|ss1=Chore Dispatch SPD +1.2%<br>Spot Rogue Survivor once, Snail Rush +6<br>Rogue Survivor Spotted: 20/20
+|ss2=Chore Dispatch SPD +1.6%<br>Spot Rogue Survivor once, Snail Rush +8<br>Rogue Survivor Spotted: 20/20
+|ss3=Chore Dispatch SPD +2%<br>Spot Rogue Survivor once, Snail Rush +10<br>Rogue Survivor Spotted: 20/20
+|ss4=Chore Dispatch SPD +2.8%<br>Spot Rogue Survivor once, Snail Rush +14<br>Rogue Survivor Spotted: 20/20
+|ss5=Chore Dispatch SPD +3.6%<br>Spot Rogue Survivor once, snail RUSH +18<br>Rogue Survivor Spotted: 20/20
+|ss7=Chore Dispatch SPD +3.6%<br>Spot Rogue Survivor once, Snail Rush +18<br>Rogue Survivor Spotted: 20/20<br>Chore Dispatch SPD +2.8% (Awakened)
+|skill1=[[File:Murika skill II.png|50px]] Place in Murikan Museum: In Murika, 2x INTEL Drops +7.5%
+|skill2=[[File:Murika skill II.png|50px]] Place in Murikan Museum: In Murika, B-tads gained +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FAME Relics]]
+[[Category:Purple FAME Relics]]
+[[Category:Chore Dispatch Speed Boost]]
+[[Category:RUSH Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Ancient Wood Boost]]
+[[Category:Lumber Camp Boost]]
+[[Category:Enhanced by DNA Strength]]
+[[Category:Enhanced by Rogue Survivor Spotted]]

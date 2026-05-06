@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Oxus Treasure
+|class_id=22253
+|rank=SSS
+|affct=ART
+|birthday=01-26
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Jan 26, 486 BC, the Oxus Treasure was included in the treasury by King Achaemenid.<br>The Oxus Treasure is a collection of more than 100 artifacts of precious metal, dated back to the Achaemenid Empire. A group of merchants first found this treasure, but while transporting it, they ran into robbers, who looted the treasure by force. Fortunately, the merchants caught wind of these robbers that they were selling the stolen goods. The merchants called in the garrison and eliminate the robbers. Then, after a series of events, the merchants sold the treasure to the military officers.
+|fame=49
+|art=108
+|fth=68
+|civ=75
+|tech=62
+|ss1=Snail HP +300<br>Dragon Minion HP +3%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +24%
+|ss2=Snail HP +400<br>Dragon Minion HP +4%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +32%
+|ss3=Snail HP +500<br>Dragon Minion HP +5%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +40%
+|ss4=Snail HP +700<br>Dragon Minion HP +7%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +56%
+|ss5=Snail HP +900<br>Dragon Minion HP +9%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +72%
+|ss6=Snail HP +1200<br>Dragon Minion HP +12%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +96%
+|ss7=Snail HP +1200<br>Dragon Minion HP +12%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +96%<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop CRIT +9%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, AFFCT Checks -150
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's ART +15
+|mirage={{Mirage|name=Persian Treasure|reward={{RewardIconWithLink|Super Treasure Map, +200|orange}}
+|3name=Gold Ring|3rec=28.11M|3atk=125079|3defense=83445|3hp=4469196|3weak=18757
+|4name=Gold Armlet|4rec=38.95M|4atk=147945|4defense=98700|4hp=6112085|4weak=19842
+|5name=Gold Vase|5rec=51.17M|5atk=173716|5defense=115893|5hp=8165080|5weak=21967
+|6name=Gold Seal|6rec=64.99M|6atk=202848|6defense=135328|6hp=10744816|6weak=26138
+|Arec=80.08M|Aatk=234678|Adefense=156563|Ahp=13898020|Aweak=30909
+}}}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=283
+|relics=Cancer Zodiac,Leo
+|rank=orange
+|amount=2
+|category=self
+|description=Snail HP +5%
+}}

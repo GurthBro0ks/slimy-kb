@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Last Judgement,R'lyeh Text,Louis XIV Portrait,Ulysses,Bill of Rights,Red Algae Fossil
+|rank=orange
+|amount=6
+|category=minion
+|description=Snail Leadership +12
+}}
+[[Category:Minion]]
+[[Category:Leadership Boost]]

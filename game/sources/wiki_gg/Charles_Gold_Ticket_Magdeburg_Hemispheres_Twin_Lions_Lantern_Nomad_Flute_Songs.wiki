@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=435
+|relics=Charles' Gold Ticket,Magdeburg Hemispheres,Twin Lions Lantern,Nomad Flute Songs
+|rank=purple
+|amount=4
+|category=self
+|description=Dragon Minion ATK +8%
+}}

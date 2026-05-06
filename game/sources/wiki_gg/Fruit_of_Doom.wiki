@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Fruit of Doom
+|class_id=20230
+|rank=Green
+|affct=FAITH
+|source=
+|description=This fruit-like object contains forbidden power. With one bite, you can get a unique ability. To keep the players under control, the devs canceled the consume option!
+|fame=17
+|art=14
+|fth=27
+|civ=14
+|tech=15
+|ss1=Per 5 Jinx Points, Snail HP +10<br>Jinx Points: 50/50
+|ss2=Per 5 Jinx Points, Snail HP +20<br>Jinx Points: 50/50
+|ss3=Per 5 Jinx Points, Snail HP +30<br>Jinx Points: 50/50
+|ss4=Per 5 Jinx Points, Snail HP +30<br>Jinx Points: 50/50
+|ss7=Per 5 Jinx Points, Snail HP +30<br>Jinx Points: 50/50<br> (Awakened)
+}}

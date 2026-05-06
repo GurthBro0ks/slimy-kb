@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=300
+|relics=Engelbart's Mouse,Monroe's Pencil
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Wormhole Refines, Snail RUSH +5;Wormhole Refines: 500/500
+}}

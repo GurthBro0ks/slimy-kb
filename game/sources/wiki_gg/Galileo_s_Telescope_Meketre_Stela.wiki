@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Galileo's Telescope,Meketre Stela
+|rank=orange
+|amount=2
+|category=self
+|description=Per Demon Lord defeated, Snail Bedrock Power +14; Demon Lords Defeated: 40/40
+}}
+[[Category:Self]]
+[[Category:Bedrock Power Boost]]

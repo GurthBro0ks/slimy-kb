@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Ebers Papyrus
+|class_id=22346
+|rank=SSS
+|affct=TECH
+|birthday=03-31
+|source=
+|description=On March 31, 1550 BC, ancient physicians compiled their knowledge into a record known as the Ebers Papyrus.<br>Ebers Papyrus is named after its purchaser. A total of 870 cases are recorded on the scroll, including internal medicine, surgery, gynecological issues, parasites, skin problems, and the corresponding remedies. Many of the cases on the papyrus are similar to modern complex diseases, which is critical for understanding the level of ancient medicine.
+|fame=75
+|art=58
+|fth=68
+|civ=55
+|tech=106
+|ss1=All Minion HP +0.6%<br>Per 50 Minions healed, Snail HP +30<br>Per 50 Minions healed, Snail DEF +3<br>Minions healed: 2000/2000
+|ss2=All Minion HP +0.8%<br>Per 50 Minions healed, Snail HP +40<br>Per 50 Minions healed, Snail DEF +4<br>Minions healed: 2000/2000
+|ss3=All Minion HP +1%<br>Per 50 Minions healed, Snail HP +50<br>Per 50 Minions healed, Snail DEF +5<br>Minions healed: 2000/2000
+|ss4=All Minion HP +1.4%<br>Per 50 Minions healed, Snail HP +70<br>Per 50 Minions healed, Snail DEF +7<br>Minions healed: 2000/2000
+|ss5=All Minion HP +1.8%<br>Per 50 Minions healed, Snail HP +90<br>Per 50 Minions healed, Snail DEF +9<br>Minions healed: 2000/2000
+|ss6=All Minion HP +2.4%<br>Per 50 Minions healed, Snail HP +120<br>Per 50 Minions healed, Snail DEF +12<br>Minions healed: 2000/2000
+|ss7=All Minion HP +2.4%<br>Per 50 Minions healed, Snail HP +120<br>Per 50 Minions healed, Snail DEF +12<br>Minions healed: 2000/2000<br>All Minion HP +2% (Awakened)
+|skill1=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion HP +9%
+|skill2=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion DEF +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's TECH +15
+|mirage={{Mirage|name=Ancient Medical Manuscript|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Pediatrics Scroll|3rec=25.94M|3atk=120506|3defense=80394|3hp=4153265|3weak=18556
+|4name=Gynaecology Scroll|4rec=36.57M|4atk=142915|4defense=95344|4hp=5744476|4weak=19611
+|5name=Internal Medicine Scroll|5rec=48.79M|5atk=168685|5defense=112536|5hp=7721694|5weak=21487
+|6name=Surgery Scroll|6rec=62.28M|6atk=197131|6defense=131514|6hp=10186733|6weak=24895
+|Arec=76.83M|Aatk=227818|Adefense=151986|Ahp=13181730|Aweak=30272
+}}}}

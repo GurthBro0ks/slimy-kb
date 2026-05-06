@@ -1,0 +1,189 @@
+{{Form|formName=Dragon|image1=Dragon Form I.png|caption-image1=The Dragon Form incinerates enemies with magical flames. The intense heat crystalizes the remains of your enemies into treasures for you to collect.}}
+
+==Dragon Sequences==
+These are acquired from four different specific sources and are required to upgrade Dragon to T4.
+{| class="wikitable" style="text-align:center;" cellpadding="10"
+!Trait
+!Source
+!Boosts
+!Rewards
+|-
+|{{RewardIconWithText|Ice Breath}}
+| Reach Floor 300 in the [[Fissure]]
+|In Dragon Form, Snail HP +5%<br>Explore in Dragon Form, gain +2% Dragon Chests<br>Free Research Speedup (Dragon) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithLink|Dragon Chest, +50|orange}}
+|-
+|{{RewardIconWithText|Flame Breath}}
+| Reach Floor 400 in the [[Fissure]]
+|In Dragon Form, Snail ATK +5%<br>Explore in Dragon Form, gain +2% Dragon Chests<br>Free Research Speedup (Dragon) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithLink|Dragon Chest, +50|orange}}
+|-
+|{{RewardIconWithText|Emerald Breath}}
+| Reach Floor 500 in the [[Fissure]]
+|In Dragon Form, Snail DEF +5%<br>Explore in Dragon Form, gain +2% Dragon Chests<br>Free Research Speedup (Dragon) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithLink|Dragon Chest, +50|orange}}
+|-
+|{{RewardIconWithText|Holy Breath}}
+| Reach Floor 600 in the [[Fissure]]
+|In Dragon Form, Snail RUSH +5%<br>Explore in Dragon Form, gain +2% Dragon Chests<br>Free Research Speedup (Dragon) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithLink|Dragon Chest, +50|orange}}
+|}
+
+==Tiers and Stats==
+
+===Base Stats===
+Below is each Tier and their base stats in Dragon Form. The stat bonus provided by obtaining form sequences is not included until Tier 4 as it requires all four sequences to be activated. 
+{| class="wikitable" style="text-align:center;" cellpadding="10"
+!Tier
+!Form
+!HP
+!ATK
+!DEF
+!RUSH
+!Bonuses
+|-
+|I
+|Snailgon
+| +20%
+| +20%
+| +20%
+| +20%
+|
+|-
+|II
+|Roamer
+| +25%
+| +25%
+| +25%
+| +25%
+|
+|-
+|III
+|Element Master
+| +30%
+| +30%
+| +30%
+| +30%
+|
+|-
+|IV
+|Breath of Chaos
+| +40%
+| +40%
+| +40%
+| +40%
+|
+|-
+|V
+|Fairy Dragon
+| +45%
+| +45%
+| +45%
+| +45%
+|Explore in Dragon Form, gain +38% Dragon Chests<br>Free Gene Speedup (Dragon) +20m
+|-
+|VI
+|Dimensional Dragon
+| +50%
+| +50%
+| +50%
+| +50%
+|
+|-
+|VII
+|Void Dragon
+| +55%
+| +55%
+| +55%
+| +55%
+|Explore in Dragon Form, gain +48% Dragon Chests<br>Free Gene Speedup (Dragon) +20m
+|}
+===Extra Boosts===
+After T4, orange [[relics]] can be awakened for extra boosts.
+{| class="wikitable"
+!Relics Awakened
+!Boosts
+|-
+|1
+|In All Forms, All ELMT DMG +3
+|-
+|10
+|All ELMT DMG +30
+|-
+|20
+|
+|}
+
+==Rank Up Rituals==
+Once research is complete, a ritual will be started. Once the conditions are cleared, Dragon Form will rise from in Tier.
+
+<tabber>
+|-|T4=
+For Dragon Form to rise from T3 to T4:
+{|class="wikitable"
+!Ritual
+!How to complete
+|-
+|Activate Sequence: {{RewardIconWithLink|Ice Breath|black|Dragon Form#Dragon Sequences}}
+|Reach Floor 300 in the [[Fissure]]
+|-
+|Activate Sequence: {{RewardIconWithLink|Flame Breath|black|Dragon Form#Dragon Sequences}}
+|Reach Floor 400 in the [[Fissure]]
+|-
+|Activate Sequence: {{RewardIconWithLink|Emerald Breath|black|Dragon Form#Dragon Sequences}}
+|Reach Floor 500 in the [[Fissure]]
+|-
+|Activate Sequence: {{RewardIconWithLink|Holy Breath|black|Dragon Form#Dragon Sequences}}
+|Reach Floor 600 in the [[Fissure]]
+|-
+|Obtain {{RewardIconWithText|Dragon Serum}} from Super Gene Expert
+|Speak with the [[Mailbox#Super Gene Expert|Super Gene Expert]] from the [[Mailbox]]
+|-
+|Ascend when all forms reach T4
+|Superfluous as Dragon Form requires all T5 forms to unlock.
+|}
+|-|T5=
+For Dragon Form to rise from T4 to T5:
+{|class="wikitable"
+!Ritual
+!How to complete
+|-
+|Summon [[Altar#Discount Dragon|Divine Dragon]] and wish for Dragon Power<br>to get {{RewardIconWithText|Fairy Dragon Power}}
+|Claiming any {{RewardIconWithLink|Dragon Orb|orange}} when on this step will guarantee the wish appears. It should be the only option. 
+|-
+|Reach Dragon Form Trial Lv. 100
+|Unlocked after reaching Floor 800 in the [[Gene Simulation|General Gene Simulation]] and purchasing the value pack for 8k W-Tads.
+|-
+|Ascend when all forms reach T5
+|Superfluous as Dragon Form requires all T5 forms to unlock.
+|}
+|-|T6=
+For Dragon Form to rise from T5 to T6:
+{|class="wikitable"
+!Ritual
+!How to complete
+|-
+|Summon [[Altar#Discount Dragon|Divine Dragon]] and wish for Dragon Power
+|Claiming any {{RewardIconWithLink|Dragon Orb|orange}} when on this step will guarantee the wish appears. It should be the only option. 
+|-
+|Reach Dragon Form Trial Lv. 200
+|
+|-
+|Ascend when all forms reach T6
+|'''DO NOT RUSH DRAGON T6.''' As it requires all other forms to be T6, doing T6 dragon research early will exhaust your saved cells and drastically slow down your other research.
+|}
+|-|T7=
+For Dragon Form to rise from T6 to T7:<br>
+{|class="wikitable"
+!Ritual !!How to Complete
+|-
+|Summon [[Altar#Discount Dragon|Divine Dragon]] and wish for Dragon Power
+|Claiming any {{RewardIconWithLink|Dragon Orb|orange}} when on this step will guarantee the wish appears. It should be the only option. 
+|-
+|Reach Dragon Form Trial Lv. 300
+|
+|-
+|Ascend when all forms reach T7
+|Same advice as T6, don't rush dragon form tiers.
+|}
+</tabber>

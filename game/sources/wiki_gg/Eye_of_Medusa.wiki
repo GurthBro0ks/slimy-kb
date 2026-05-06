@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Eye of Medusa
+|class_id=20506
+|rank=Blue
+|affct=FAITH
+|birthday=03-12
+|source=
+|description=On Mar 12, 1800 BC, Medusa received Athena's wrath who turned her into a monster with serpents on her head.<br>Even with swan wings on her back and winding serpents on her head, Medusa was still a ravishing beauty. No one could escape the power of her beauty. Staring into those deep blue eyes will make one lose their soul and turn into stone.
+[Medusa's Family]
+Father: Phorcys; mother: Ceto; sisters: Euryale, Hesperides and Stheno; son: Pegasus and Chrysaor.
+|fame=23
+|art=29
+|fth=48
+|civ=30
+|tech=24
+|ss1=Per 5 Mutant Gene LVLs, Snail ATK +2<br>Per 5 Mutant Gene LVLs, Snail RUSH +2<br>Mutant Gene LVLs Researched: 150/150
+|ss2=Per 5 Mutant Gene LVLs, Snail ATK +4<br>Per 5 Mutant Gene LVLs, Snail RUSH +4<br>Mutant Gene LVLs Researched: 150/150
+|ss3=Per 5 Mutant Gene LVLs, Snail ATK +6<br>Per 5 Mutant Gene LVLs, Snail RUSH +6<br>Mutant Gene LVLs Researched: 150/150
+|ss4=Per 5 Mutant Gene LVLs, Snail ATK +10<br>Per 5 Mutant Gene LVLs, Snail RUSH +10<br>Mutant Gene LVLs Researched: 150/150
+|ss7=Per 5 Mutant Gene LVLs, Snail ATK +10<br>Per 5 Mutant Gene LVLs, Snail RUSH +10<br>Mutant Gene LVLs Researched: 150/150<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Hellas skill I.png|50px]]Place in Hellenic Museum: In Hellas, CIV Checks -5
+}}

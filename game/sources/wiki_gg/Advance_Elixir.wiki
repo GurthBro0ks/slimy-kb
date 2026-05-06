@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Advance Elixir
+|rank=Green
+|affct=FTH
+|source= One-Time Rent from [[Taoist Yu Ji]]
+|description=In the mortal world lacking in spiritual energy, an Advance Elixir is enough to trigger a war between cultivators. After all, the vast majority of practitioners are only in the refinement phase. As long as they build a successful foundation, they will elevate to the upper-middle tier. Not only will their lifespan double, but they'll also be able to learn legendary techniques.
+|fame=14
+|art=14
+|fth=28
+|civ=18
+|tech=16
+|ss1=Per 5 Wonder Fungi eaten, Snail HP +10<br>Wonder Fungi Eaten: 200/200
+|ss2=Per 5 Wonder Fungi eaten, Snail HP +20<br>Wonder Fungi Eaten: 200/200
+|ss3=Per 5 Wonder Fungi eaten, Snail HP +30<br>Wonder Fungi Eaten: 200/200
+}}
+
+[[Category:HP Boost]]
+[[Category:Wonder Fungus Boost]]

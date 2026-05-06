@@ -1,0 +1,119 @@
+= This is the second mini-game in the Unlimited Space series =
+There are a few things to make sure you always do.
+# Read all text. Click all options to read all text. This can unlock certain other options. This includes notes, examining items you pick up, objects in rooms, etc.
+# This walkthrough contains extra steps that may not be needed for a speed run.  That's up to you to decide what you want to do or not. This is to be as complete as possible.
+# There are some alternative solutions.  This guide focuses on one particular path.  Feel free to reach out if you have an alternative solution.
+
+=== Walkthrough ===
+
+# The game opens with an Apostle talking to you. Read his info, and he'll give you an option called "I need enhancement."  This guide focuses on a path with you choosing Lockpicking. I've heard that Hacking offers a couple other options, but the others seem to be unknown.  For this guide, choose Lockpicking!
+# You start off in the Main Deity Space. Go East to the Mansion Hall and you'll encounter Minsko.  You can say ''You've got the wrong person'', but eventually you'll need to say ''Yes'' in order to complete the quest, so just say ''Yes'' now.
+# Go South 2 times to the Living Room. Take the '''Wedding Photo''' (remember to examine everything you pick up!).
+# Go West to the Dining Room and examine the table and ''Pick Up all'' (and examine the items!).
+# Go West to the Kitchen. Examine the fridge and stove, and rummage and take everything.
+# Go East 3 times to the Bedroom. Rummage the wardrobe, get the '''pajamas'''. Investigate the wardrobe and you find a locked box. Open it. The code is 1499.  Take the '''pistol'''.
+# Tap on Character->Top->Pajamas->Gear and you'll equip the '''pajamas'''.  You don't need to equip a weapon just yet.
+# Go East once more into the Restroom. Examine the Washbasin and get the '''Gold Ring'''.  Examine Lilith and ''Wake her up''.
+# Return to the Living Room by going West 2 times.  Lilith will surprise you. Follow the prompts, and she'll take the photo, saying there's a password on the back, 5db. This is hexadecimal for 1499, the passcode for the locked box you already opened.
+# Go South to the Mansion Cloister. You'll find a '''note''' on the ground. Take it.
+# Continue South to the Garden.  Examine the '''Flowers''' and ''Pick'' one. This will give you a '''Red herb''' that will heal for 100hp. Save it.
+# Go North 2 times to the Living Room again. Examine the '''Power Supply Box'''. ''Replace the Fuse''. Choose the '''Fuse'''.  This will open the garage.
+# Go South 2 times to the Garden, then West to the Garage. Take the '''Water Pipe''' and the '''Wrench'''.
+# Go East and South to the Outside. You'll see a '''Car''' here.
+# Now we need to equip the '''Wrench'''.  Tap on Character->Weapon->Wrench->Gear. Exit the character screen.
+# Examine the '''Car'''. With the '''Wrench''' equipped, you can ''Open the fuel tank''. Then, ''Try this'' and choose the '''Water Pipe'''.  Then, ''Try this'' and choose the '''Bottle'''. Now you have the '''Molotov'''!
+# Go North 4 times to the Mansion Hall where you see the '''Goddess Statue'''.
+# ''Investigate'' the statue 5 times. This will give you a new option, to ''Embed'' the '''Gold Ring'''. Do this, then ''Search'', then ''Pick up all'' to get a '''Mysterious Letter''' and the '''S-virus Original Strain alpha'''.
+# You can use the '''S-virus Original Strain alpha''' to get an extra 50hp max.
+# Go North 2 times to the Train Station. Examine the '''Train''' and ''Push the Lever''.
+# When you stop, you'll meet Mark. After you talk to him, you'll talk to the Medic.
+# Go South 2 times to the Hive Corridor. You'll notice locked rooms here. In alternative run throughs, you can drag bodies to use the facial scanners, but we won't cover that in this walkthrough. It won't be necessary. The Elevator will get unlocked later after we do some stuff.
+# Go East to the Fire Escape, then continue on East 2 times, then 2 South, West, South, and West to the Exit. This puts you in the Lab Corridor with the locked Elevator to the South. Go West to the Locker Room.
+# Rummage in the '''Cabinet''' to get the Rubber Gloves.  Go ahead and Equip those.
+# While we're at it, go ahead and Equip the '''Pistol''' now instead of the '''Wrench'''.
+# Now go back 2 East to the Stairs, then South, East. There's a bit of a red herring here with a Broken Tube, so just Examine it and continue on South 2 more times again, then 2 West to the Corridor. You'll see GD and Spence here.
+# Go 2 West and you'll meet Raven. Examine the desk and ''Pick up all''. It's just a '''Note''' and a '''Registration Form'''. Read them and move on.
+# Go 2 South and examine the Notice Board. Read the notices and keep going.
+# Go South and East to the Utility Room. Get the '''Mop''' from the '''Cleaning Cart''' and the items from the '''Trash Bin'''.
+# Go West and South to the Guardroom. Talk to Chad and examine the '''Control Console'''.
+# Go West to the Server Room Corridor.  Take the '''Circuit Breaker'''. Talk to James. This will trigger an event.
+# When you have the choice, choose '''Lie down''', '''Lie down''', '''Ready to step back''', '''Step back'''.
+# WOO! You survived! But not everyone did, so now ''Rummage'' the '''Body Pieces''' and take '''James' Name Tag'''.
+# Go West to the Computer Room.  BE CAREFUL HERE! This is your last chance to wander safely, so if you missed any of the previous steps, do it now.
+# Talk to the Lava Queen and ''Place the circuit breaker''. Choose the '''Circuit Breaker''' and then ''Start the circuit breaker''. Take the '''Mboard'''. This will trigger the zombie invasion! You will now encounter zombies both in specific places and randomly, so be careful.
+# Go 2 East and get the '''Walkie-Talkie''' from Chad.
+# Go 4 North, 2 East.  Your companions will be attacked, and you'll be offered the choice to Rescue them or Retreat.  Retreat! You can't kill the zombies, as they are unlimited.
+# Go back West to the Front Desk.  You are told to meet in the Guardroom to the south.  However, if you try going south, you'll run into a Zombie, kill it, and have to retreat.  So now we want to keep going West, and circle counter-clockwise on the map to the Guardroom that way.
+# Go 2 West. You'll encounter a Zombie. Hopefully you have the '''pajamas''', '''gloves''', and '''pistol''' equipped. That will make short work of it.
+# You'll see a '''Fridge'''. Take the food items from it.  The '''Cod Burgers''' will actually take your health away! You need to cook them (one at a time) in the '''Microwave''', and then they will restore health instead.  We'll find the '''Microwave''' soon.
+# Go North to the Office.  You'll have another Zombie fight.  After, Rummage Liz's Body to get another Antidote Serum, S-virus Original Strain Beta, and Liz's Diary. Go ahead and use the S-virus to get +5 ATK. If you click on her body again, you can pick it up.  Check the Chair, and drop the body in it.
+# Check the desk, and use Lockpicking to open the drawer. Get the Letter Paper and the 2 Cookies.
+# Check the desk, and the computer, and now facial ID works, and you can check both the mail and disk. The disk is a code G>B>Y, which will make sense in a bit.
+# Go 2 West and you'll see a '''Vending Machine'''. If you picked lockpicking in the beginning, you can avoid a fight here and just ''Lockpick it''. You'll get 2 '''sodas'''.
+# Go North to the Office. Investigate the '''Oil Painting''' 3 times.  You'll be given a Morse code.  This is UNIQUE for every play through, so you will need to take the . and - and go to a website to convert. I used [https://morsecode.world/international/translator.html THIS PAGE] to convert. Put spaces between as shown in the painting.
+# Check the desk now, and check the computer.  Input your 4 digit code, and you can check the mail there. Not really important, considering how hard you had to work to get here, but might as well read it.
+# Investigate this 3rd statue, which is of Madonna, and ''Rotate to the north''.
+# Go 3 South. You'll find a '''Printer'''.  Take the '''note''' from it and go East to the Meeting Room.
+# Examine the whiteboard and the table. Get the Antidote Serum from the table.
+# Go South. There's a '''Microwave Oven''' here.  Use it to cook the 2 Cod Burgers so they become healing items.
+# Go West into the Office. We can't do anything with the computer on this walkthrough (alternative methods allow you to, but we don't need it for this). Investigate the statue of an Angel and ''Rotate it to the south''.
+# '''The bed in this office can be used for healing unlimited times! You'll want to come back here whenever you need healing.'''
+# Go East and 2 South to the Head Office. Search the '''Desk''' to get a '''Strange Poem'''. Investigate the statue of a Demon.  ''Rotate it to the east''.
+# Get the '''darts''' from the '''Dartboard'''. Save these, you'll need them for one of 3 big fights.
+# If you turned all 3 statues properly, at this point the safe will be open! ''Rummage'' and take the '''Manager's Work Card''', '''Antidote Serum''', and S-virus Original Stain beta'. Go ahead and use the S-virus on yourself for another +5 ATK.
+# Go North, 4 East back to the Guardroom. When you get back to the Guardroom, you'll be attacked.  After the fight, check Chad and you can ''Inject Serum'' or ''Free Him''.  Injecting the Serum doesn't help him, so don't bother. Just ''Free Him'', which means kill him.  After he is dead, ''Rummage'' his body and take his '''Name Tag'''.
+# Now the corridors will be empty.  Go 2 North, then West to the Staff Canteen. You can get the Chicken Sandwich here, but don't eat it. It takes away 20 hp. Cooking it doesn't help.
+# Go East, 2 North, 2 East, and South to the Elevator. You'll have another Zombie fight. When you see GD, ''Free Him'' and take his '''Name Tag'''.
+# Go to B2 with the Control Panel. Go North and West to the Locker Room. 4 dogs will be there, go ahead and attack them. It's 4 fights, but easy ones.
+# You'll be back north of the elevator. Go 3 West.  You might get a message about a monster on the ceiling.  If so, just tap the ''Wait'' option and you'll be fine. I didn't get it the first time I did this, but I did when writing this guide.
+# There's nothing in the Biology Lab. Keep going West 2 times then North to the Specimen Room. Get the Virus Sample from the Freezer.
+# Go South again. If you got the '''Manager's Work Card''' from the '''Safe''', you can enter the Storage Room to the West.  Get the '''Antidote Serum''' and the '''S-virus Original Strain beta' from the '''Freezer'''. Use the S-virus on yourself now for another +5 ATK.
+# Go 3 East from the Storage Room then North to the Chemistry Lab. Read the SOP.  It's missing parts.  There's another Chemistry Lab on the Railway that we have not been yet that will have the full instructions, but we can go ahead and do it here.  This also plays off the code we found earlier with G>B>Y. 
+# Use the Console, then ''Tap on the green button'', ''Try This'', choose the '''Virus Sample''', ''Tap on the blue button'', ''Tap on the yellow button'', then ''Pick up'' the '''S-virus Original Strain gamma'''. Go ahead and use it on yourself for +5 DEF.
+# Go South, 3 East, and South to the Elevator.  Now is probably a good time to go head in the '''Bed''' on B3 if you need to, so the directions to there from the elevator is go to B3, then North, 6 West, 3 South, West, Camping Bed, East, 3 North, 6 East, South, and you're back in the Elevator.  Go to B1 now.
+# Go North, West to the Lounge, and you'll see Raven.  ''Free her''. Search her corpse, get the '''Name Tag'''. Get the '''Key''', then Remove the Handcuffs from her corpse. Not needed, but it's a nice thing to do!
+# Go back East. You are about to have your first really hard fight, if you followed the instructions so far.  Make sure you are high health.  You should have by now 45 ATK, 17 DEF, and 15 SPD.
+# Go North to the Hive Entrance to fight the Licker.  This is by far the hardest fight you'll have.  It dodges the first 3-4 times, but just keep attacking. If your health gets too low, heal up. You can also use 1 Dart to knock out an easy 50 health from it.  You could use all 3 darts, but you might want to save them for later for easier fights then. Not using any darts, and with no healing at all, I ended with 29 hp still. I recommend making a quick trip back to the bed right now to heal. I'll skip the directions this time, and the next step will continue in this same room.
+# Rummage through Spence's body and take the '''Antidote Serum''' and the '''S-virus Original Strain beta'''. Use the S-virus now to gain another +5 ATK.  This brings your total stats to 50 ATK, 17 DEF, and 15 SPD.
+# Go North once, but do NOT go back to the villa when it asks. Just say ''Leave''.
+# Talk to Mark, give him '''Liz's Diary'''.
+# You'll notice you now can go on the Railway to the North or East.  North will take you the long way back to the Mansion, so ignore that.  Go East 6 times, then 7 North and 1 West. Talk to the Medic.
+# Go 2 West, then South. This is the Virus lab, which is like the Chemistry Lab, except the instructions here are complete.  We don't need this anymore, so we'll just leave. Unless you want to press the Red button first...you do, don't you?  Ok, go ahead.
+# Go back North, then West, then North. Here is the Avenger.  He's fairly easy to beat.  Ignore the Gatling gun, it's empty.  When he raises the Bazooka, Dodge. Otherwise, attack away and heal if needed, but he does very little damage without the bazooka.
+# Rummage his body, get the '''Strange Stone'''. ''Check the Bazooka'', ''Try This'', use the '''Molotov'''. Now you have the '''Bazooka'''!
+# The Revenger room to the north has an interesting thing, so go check that out, then walk back to the train we passed on the railway a few rooms away. ''Push the lever''. Now tell the Medic you want to go back to the villa.
+# The Medic will refuse to leave without the other team members. So show him all the '''Name Tags''' you have collected. Now tap the train and ''Push the lever''.
+# Make sure you are healed up. You should have plenty of healing items left. Use the smaller ones if needed. Save your bigger ones for one more battle...
+# Go 6 South, and you'll find Minsko. Give him the '''MBoard'''. If you check your Mission for the Lava Queen's Mboard, you'll see thatit says the car parked outside bothers you.  It looks like Minkso is setting Lilith up! Attack him! Use the '''Bazooka''', then any remaining '''Darts''' you have, then finish attacking normally. Heal as needed.
+# ''Rummage'' his corpse and take the '''Strange Stone''', the '''Key''', and the '''MBoard'''.
+# Check the '''Car''' and enter it. Talk to Lilith. Remove the handcuffs and watch her drive off.
+# Go back 6 North, then follow the railway 6 East, to the Secret Vault north of you. ''Try This'' twice, inserting the '''Strange Stones''' both times. Now go North into the vault.
+# Open the Box for the '''Ascension's Proof''' Relic!
+# Go back to the Apostle in the Main Deity Area, and talk to him. Quest Solved!
+
+=== Optional side things ===
+* If you go back to the Computer Room and re-insert the MBoard and talk to the queen, she'll offer another way out.  If you accept, she'll show you how to get into the Sewers. This will give you a shortcut to the Research Center on B2.
+
+=== Unknown / Future Expansions? ===
+* If you tap on Character, then on Enhance, you'll see it's possible to change your Bloodline. Currently, only the default Human is possible.
+* If you look below Bloodline, you'll see it's possible to change your Combat Skill. Currently, only the default Basic Attack is possible.
+* Skills. There are other skills, and even after you take the Lockpicking, the cost to enhance it increases, indicating a possibility for more later?
+
+=== Side Missions ===
+The following are the Side Missions found so far:
+* Help Lilith (Show the Wedding Photo to Lilith)
+* Enhance S-virus Strain (Consume the S-virus)
+* Make a Molotov (Check the guide above)
+* Search for Mercenary Squad (Show all the name tags to the Medic)
+* Look for Liz (Return her diary to Mark)
+* Kill the Licker (There are 2, and if you followed the guide above, they are both dead. One dies without you having to fight)
+
+=== Authors ===
+This was created by Malc, with some pointers from Cylet and a correction/hint from ThemGoose. Map was copy/pasted bit by bit by painstaking bit by Malc.
+
+[[File:Unlimited Space 2 Map.png|frame|center|alt=Unlimited Space 2 Map|Unlimited Space 2 Map]]
+= See Also =
+[[Unlimited space 2]]
+
+[[Category:Guides]]
+[[Category:Minigames]]

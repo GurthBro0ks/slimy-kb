@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Thermometer
+|class_id=22088
+|rank=Blue
+|affct=TECH
+|birthday=08-27
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Aug 27, 1714 AD, the Dutch Scientist Fahrenheit invented the world's earliest mercury thermometer.<br>This thermometer, developed by Fahrenheit himself, is the world's first mercury thermometer. He is an excellent physicist, but in order to make a living, he also studied and engaged in business. He developed not only the mercury thermometer, but also the purification method of making the required mercury, and the temperature scale used as a scale. As his biggest research achievement, the Fahrenheit temperature scale is named after him and is the first empirical temperature scale in the world. Since then, temperature measurement has a unified standard for the first time and thermal science can embark on the path of experimental science.
+|fame=27
+|art=19
+|fth=36
+|civ=26
+|tech=46
+|ss1=Per 20 TECH Wishes made, Snail DEF +1<br>Wishes Made: 1000/1000
+|ss2=Per 20 TECH Wishes made, Snail DEF +2<br>Wishes Made: 1000/1000
+|ss3=Per 20 TECH Wishes made, Snail DEF +3<br>Wishes Made: 1000/1000
+|ss4=Per 20 TECH Wishes made, Snail DEF +5<br>Wishes Made: 1000/1000
+|ss7=Per 20 TECH Wishes made, Snail DEF +5<br>Wishes Made: 1000/1000<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Dungbeetle skill I.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion DEF +1.5%
+}}

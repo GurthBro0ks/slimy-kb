@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=563
+|relics=R'lyeh Text,Bill of Rights,Louis XIV Portrait,The Last Judgment,Ulysses,Red Algae Fossil
+|rank=orange
+|amount=6
+|category=self
+|description=Snail Leadership +12
+}}

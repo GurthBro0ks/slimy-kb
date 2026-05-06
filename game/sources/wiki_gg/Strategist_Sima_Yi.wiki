@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Strategist Sima Yi
+|rank=orange
+|cabin=2
+|id=119
+|gene1={race} HP +500
+|gene2={race} TECH +50
+|gene3=Quantum Amp production +3%
+|gene4=Per 60 Dragon Minions in battle,
+Troop Water DMG +6
+|gene5=Resolver: Mutagen Serum +1.5%
+|gene6=Per 60 Dragon Minions in battle,
+Troop Water DMG +10
+|gene7=Resolver: Mutagen Serum +2.5%
+|}}

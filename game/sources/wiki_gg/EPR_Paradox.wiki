@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=EPR Paradox
+|class_id=22912
+|rank=SSS
+|affct=TECH
+|source=
+|description=In this paper, the trio, through thought experiments, questioned the completeness of quantum mechanics. The EPR paradox, based on the phenomenon of quantum entanglement, posits that two or more particles are entangled in certain physical properties. Even when separated by great distances, measuring the state of one particle affects the state of the other, with the influence occurring almost instantaneously, violating the causality and speed of light constraints of special relativity. This paradox led to the subsequent Bell inequality experiments, which proved the non-locality of quantum mechanics and greatly advanced the research and development of quantum mechanics theory.
+|fame=68
+|art=54
+|fth=72
+|civ=60
+|tech=108
+|ss1=Mecha Minion DEF +3%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +30
+|ss2=Mecha Minion DEF +4%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +40
+|ss3=Mecha Minion DEF +5%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +50
+|ss4=Mecha Minion DEF +7%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +70
+|ss5=Mecha Minion DEF +9%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +90
+|ss6=Mecha Minion DEF +12%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120
+|ss7=Mecha Minion DEF +12%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Green Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Reagent Drops +6%
+|mirage={{Mirage|name=Peak Debate|reward={{RewardIconWithLink|Analysis Chip, +80|orange}}
+|3name=Bohr|3rec=284.62M|3atk=737076|3defense=418623|3hp=119046548|3weak=61760
+|4name=Rosen|4rec=362.41M|4atk=861865|4defense=488609|4hp=187293552|4weak=66863
+|5name=dungeon_event@4858_1|5rec=477.99M|5atk=1053209|5defense=592587|5hp=343839613|5weak=73818
+|6name=Einstein|6rec=627.57M|6atk=1378520|6defense=727156|6hp=570016295|6weak=81768
+|Arec=852.85M|Aatk=2047776|Adefense=964191|Ahp=971930399|Aweak=92110
+}}}}

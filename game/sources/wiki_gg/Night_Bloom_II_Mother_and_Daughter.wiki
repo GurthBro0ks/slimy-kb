@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=392
+|relics=Night Bloom II,Mother and Daughter
+|rank=purple
+|amount=2
+|category=self
+|description=Demon Minion ATK +6%
+}}

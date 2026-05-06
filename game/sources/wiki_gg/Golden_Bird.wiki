@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Golden Bird
+|class_id=21836
+|rank=SSS
+|affct=TECH
+|source=
+|description=This statue was crafted from pure gold by world-class artisans using cutting-edge metallurgical techniques. Each feather was meticulously sculpted to perfectly capture the noble essence of the Birds. Its elegant and refined design embodies a discreet luxury, symbolizing the Bird's esteemed status and making it a highly coveted collectible.
+|fame=55
+|art=66
+|fth=59
+|civ=72
+|tech=110
+|ss1=Snail Leadership +6<br>Per 3 Orange Relics gained, Snail ATK +18<br>Per 3 Orange Relics gained, Snail DEF +18<br>Orange Relics: 60/60
+|ss2=Snail Leadership +7<br>Per 3 Orange Relics gained, Snail ATK +22<br>Per 3 Orange Relics gained, Snail DEF +22<br>Orange Relics: 60/60
+|ss3=Snail Leadership +8<br>Per 3 Orange Relics gained, Snail ATK +26<br>Per 3 Orange Relics gained, Snail DEF +26<br>Orange Relics: 60/60
+|ss4=Snail Leadership +10<br>Per 3 Orange Relics gained, Snail ATK +34<br>Per 3 Orange Relics gained, Snail DEF +34<br>Orange Relics: 60/60
+|ss5=Snail Leadership +12<br>Per 3 Orange Relics gained, Snail ATK +42<br>Per 3 Orange Relics gained, Snail DEF +42<br>Orange Relics: 60/60
+|ss6=Snail Leadership +15<br>Per 3 Orange Relics gained, Snail ATK +54<br>Per 3 Orange Relics gained, Snail DEF +54<br>Orange Relics: 60/60
+|ss7=Snail Leadership +15<br>Per 3 Orange Relics gained, Snail ATK +54<br>Per 3 Orange Relics gained, Snail DEF +54<br>Orange Relics: 60/60<br>Snail Leadership +10 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, INTEL gained +15%
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, All ELMT DMG +15%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x Orange Card Drops +15%
+|mirage={{Mirage|name=Bird Strikes Back|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Lead Bird|3rec=0.38M|3atk=9869|3defense=6598|3hp=35564|3weak=2936
+|4name=Iron Bird|4rec=0.83M|4atk=18564|4defense=12411|4hp=126062|4weak=4594
+|5name=Bronze Bird|5rec=1.77M|5atk=30548|5defense=20422|5hp=345083|5weak=7134
+|6name=Silver Bird|6rec=3.58M|6atk=46188|6defense=30878|6hp=713665|6weak=10213
+|Arec=6.78M|Aatk=65904|Adefense=44058|Ahp=1328171|Aweak=12446
+}}}}

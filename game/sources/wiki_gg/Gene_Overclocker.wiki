@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Gene Overclocker
+|class_id=20854
+|rank=Green
+|affct=TECH
+|source=
+|description=Like overclocking your CPU, but with more screaming!
+Shines pretty lights into your eyes
+Makes ominous humming noises
+Accidentally gives you lizard DNA
+Warning: May cause superpowers (or super tumors)
+|fame=16
+|art=12
+|fth=19
+|civ=13
+|tech=30
+|ss1=prop@2490_2<br>All Gene Research SPD +0.2%<br>Gene Research Free Speedup +4m
+|ss2=prop@2490_2<br>All Gene Research SPD +0.4%<br>Gene Research Free Speedup +8m
+|ss3=prop@2490_2<br>All Gene Research SPD +0.6%<br>Gene Research Free Speedup +12m
+|ss4=prop@2490_2<br>All Gene Research SPD +0.6%<br>Gene Research Free Speedup +12m
+|ss7=prop@2490_2<br>All Gene Research SPD +0.6%<br>Gene Research Free Speedup +12m<br> (Awakened)
+}}

@@ -1,0 +1,9 @@
+A pack that is available for purchase in the [[Events#Badge_Shop|Badge Shop]] for 400 {{RewardIconWithLink|Badge}}s.
+
+A pack of valuable items that assist you in conquering the formidable Demon Gods!
+
+* {{RewardIconWithGearlink|orange|Material|Blasphemy Eye}}
+* {{RewardIconWithText|Glue, +100}}
+* {{RewardIconWithText|B-Tad, +50k}}
+
+[[Category:Reward Pack]]

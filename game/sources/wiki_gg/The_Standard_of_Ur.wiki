@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Standard of Ur
+|class_id=22317
+|rank=SSS
+|affct=CIV
+|birthday=06-29
+|source=
+|description=On Jun 29, 1931 AD, The Standard of Ur was discovered by British archaeologist Leonard.<br>The Standard of Ur is a Sumerian artifact found in a royal tomb in Ur. Inlaid mosaic panels cover each long side of the Standard. Each presents a series of scenes displayed in three registers, upper, middle, and bottom. The two mosaics have been dubbed "War" and "Peace" for their subject matter, respectively a representation of a military campaign and scenes from a banquet. The panels at each end originally showed fantastical animals but they suffered significant damage while buried, though they have since been restored. The "War" panel shows the scene of marching soldiers and wagons, while "Peace" portrays a banquet scene including figures of all classes.
+|fame=78
+|art=64
+|fth=64
+|civ=109
+|tech=47
+|ss1=Per 60 Minions in battle:<br>> Troop HARD Stats +3<br>Per 50 Minions cloned, Snail ATK +3<br>Per 50 Minions cloned, Snail RUSH +3<br>Minions Cloned: 2000/2000
+|ss2=Per 60 Minions in battle:<br>> Troop HARD Stats +6<br>Per 50 Minions cloned, Snail ATK +4<br>Per 50 Minions cloned, Snail RUSH +4<br>Minions Cloned: 2000/2000
+|ss3=Per 60 Minions in battle:<br>> Troop HARD Stats +9<br>Per 50 Minions cloned, Snail ATK +5<br>Per 50 Minions cloned, Snail RUSH +5<br>Minions Cloned: 2000/2000
+|ss4=Per 60 Minions in battle:<br>> Troop HARD Stats +15<br>Per 50 Minions cloned, Snail ATK +7<br>Per 50 Minions cloned, Snail RUSH +7<br>Minions Cloned: 2000/2000
+|ss5=Per 60 Minions in battle:<br>> Troop HARD Stats +21<br>Per 50 Minions cloned, Snail ATK +9<br>Per 50 Minions cloned, Snail RUSH +9<br>Minions Cloned: 2000/2000
+|ss6=Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 50 Minions cloned, Snail ATK +12<br>Per 50 Minions cloned, Snail RUSH +12<br>Minions Cloned: 2000/2000
+|ss7=Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 50 Minions cloned, Snail ATK +12<br>Per 50 Minions cloned, Snail RUSH +12<br>Minions Cloned: 2000/2000<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=Force of the King|reward={{RewardIconWithLink|Gear Chest, +200|orange}}
+|3name=Ur's Pikeman|3rec=39.22M|3atk=148517|3defense=99081|3hp=6270961|3weak=19865
+|4name=Ur's Archer|4rec=51.44M|4atk=174287|4defense=116274|4hp=8347672|4weak=22014
+|5name=Ur's Servant|5rec=65.26M|5atk=203419|5defense=135709|5hp=10970548|5weak=26266
+|6name=King of Ur|6rec=80.40M|6atk=235364|6defense=157020|6hp=14166408|6weak=30968
+|Arec=96.88M|Aatk=270098|Adefense=180193|Ahp=17958179|Aweak=33924
+}}}}

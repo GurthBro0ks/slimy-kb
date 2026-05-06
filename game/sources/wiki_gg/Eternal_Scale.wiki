@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Eternal Scale
+|type=Common
+|rank=red
+|id=10891
+|idx=102
+|description=They say, pay-to-win always makes you feel good! So if keep paying eternally, you will feel good for good? No one has the answer. But at least, this scale can show you a taste of eternity...
+|skill=
+|hp=1880
+|def=357
+|atk=275
+|rush=250
+|gene1=Water DMG +120
+|gene2=Water RES +120
+|gene3=Water DMG +120
+|gene4=DMG REDUC +4%
+|gene5=Chance of Weakening Enemy +4%
+|gene6=DMG REDUC +4%
+|gene7=Chance of Weakening Enemy +4% (Awakened)
+|}}

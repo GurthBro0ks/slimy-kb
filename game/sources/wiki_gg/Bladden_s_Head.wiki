@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Bladden's Head
+|class_id=20240
+|rank=Green
+|affct=FTH
+|source=Defeat [[Yamato Domain|Bladden]]
+|description=This head with a samurai helmet once belonged to Sword God, one of the eight Demon Gods. He was a sword master who never lost any battle except for the one with the snail. His head then became part of the snail's collection.
+|fame=17
+|art=14
+|fth=31
+|civ=14
+|tech=14
+|ss1=Snail HP +200<br>Per Demon God slain, Snail ATK +10<br>Demon Gods Slain: 8/8
+|ss2=Snail HP +400<br>Per Demon God slain, Snail ATK +20<br>Demon Gods Slain: 8/8
+|ss3=Snail HP +600<br>Per Demon God slain, Snail ATK +30<br>Demon Gods Slain: 8/8
+}}
+
+[[Category:ATK Boost]]
+[[Category:Demon God Boost]]
+[[Category:HP Boost]]

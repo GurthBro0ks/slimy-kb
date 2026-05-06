@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=Invisible Wing
+|type=Common
+|rank=red
+|id=10935
+|idx=136
+|description=An invisible wing, its previous owner was an oriole bird skilled in invisibility. After failing to assassinate a demon god, the wing was broken and has since disappeared...
+|skill=
+|hp=2920
+|def=265
+|atk=262
+|rush=251
+|gene1=Wormhole Shards from Wormhole Refiner +4%
+|gene2=Per 5 Wormhole Refines, {race} ATK +6
+Wormhole Refines: 200/200
+|gene3=Refining gives +1 Wormhole Refiner by +8%
+|gene4=Refine +1 Green Rebel Material +8%
+|gene5=Refine +1 Green Demon God Material +8%
+|gene6=Refine +1 Green Gaia Material +8%
+|gene7=4% chance to gain +1 Green Material
+in Wormhole Refinement (Awakened)
+|}}

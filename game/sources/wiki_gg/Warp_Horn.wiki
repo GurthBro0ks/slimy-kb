@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Warp Horn
+|type=Common
+|rank=purple
+|id=10843
+|idx=48
+|description=This seemingly normal horn can change the curvature of objects. It doesn't deal immediate damage but will produce a dent around the contact point after being stuck into something.
+|skill=
+|hp=1414
+|def=147
+|atk=212
+|rush=131
+|gene1=Home Facility Resource Max Cap +5%
+|gene2=Home Facility Resource Outputs +5%
+|gene3=Home Facility Resource Max Cap +5%
+|gene4=Home Facility Resource Outputs +5%
+|gene7=Species War Cabin Output +10% (Awakened)
+|}}

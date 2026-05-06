@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=758
+|relics=Turing Award,Apollo and Daphne,Big Bang Theory,Tauroctony,Philosophy Meditations,The Age of Bronze
+|rank=orange
+|amount=6
+|category=self
+|description=Snail Leadership +12
+}}

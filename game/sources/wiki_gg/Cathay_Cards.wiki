@@ -1,0 +1,204 @@
+==Card Redemption==
+Throughout [[Cathay]], cards can be collected and exchanged for various rewards. Cards vary from tier 1 (white) to tier 5 (orange) and there's different types of each tier. Below is a list of the rewards that can be exchanged, and how many times.
+
+==Tier 1 (White)==
+'''Recommended:'''  
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:#9c9c9c;" |[[File:Mahjong white.png|75x75px]]
+| rowspan="8" |Mahjong
+|3x3||Enhancement Injection<br>Snail ATK +8<br>Snail RUSH +8
+| rowspan="8" |{{RewardIconWithText|B-Tad}} +9
+|-
+|2x1||{{RewardIconWithText|Cathay INTEL}} +1,000
+|-
+|3x1||{{RewardIconWithText|B-Tad}} +3k
+|-
+|4x1||{{RewardIconWithLink|Novice Scroll|blue}} +5
+|-
+|5x1||{{RewardIconWithGearlink|white|Realm|Podao}} 
+|-
+|6x1||{{RewardIconWithGearlink|white|Realm|Iron Helmet}}
+|-
+|7x1||Unlock [[Cathay Generals|Cathay General]] (Kiddon Kong Rong)
+|-
+|8x1
+|{{RewardIconWithLink|Lottery Ticket|orange}} +1
+|-
+| style="background-color:#9c9c9c;" |[[File:Straw Ship.png|75x75px]]
+|Straw Ship
+|2x1
+|{{RewardIconWithText|Travel Speedup}} +1h30m
+|{{RewardIconWithText|Gene Speedup}} +2m
+|-
+| style="background-color:#9c9c9c;" |[[File:Go.png|75x75px]]
+|Go
+|2x1
+|{{RewardIconWithText|B-Tad}} +6k
+|{{RewardIconWithText|B-Tad}} +180
+|-
+| style="background-color:#9c9c9c;" |[[File:Zither.png|75x75px]]
+|Zither
+|3x1
+|{{RewardIconWithText|Cathay INTEL}} +1,500
+|{{RewardIconWithText|Cathay INTEL}} +300
+|}
+
+==Tier 2 (Green)==
+'''Recommended:''' 
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:#7de87f;" |[[File:Mahjong green.png|75x75px]]
+| rowspan="8" |Mahjong
+|3x3||Enhancement Injection<br>Snail DEF +8<br>Snail RUSH +8
+| rowspan="8" |27 B-tads
+|-
+|2x1||Cathay INTEL +2,000
+|-
+|3x1||6k B-tads
+|-
+|4x1||Novice Scroll +5
+|-
+|5x1||[[Gear|<span style="color:#40da25;">Heart-Protection Mirror</span>]]
+|-
+|6x1||Gear Chest +40
+|-
+|7x1||Unlock [[Cathay Generals|Cathay General]]Rebel Zhang Jiao
+|-
+|8x1
+|Lottery Ticket +2
+|-
+| style="background-color:#7de87f;" |[[File:Empty Fort Strat.png|75x75px]]
+|Empty Fort Strat
+|3x2
+|[[Bronze Bird|<span style="color:#22d3d0;">Bronze Bird</span>]] +10
+|340 B-tads
+|-
+| style="background-color:#7de87f;" |[[File:Peach Garden.png|75x75px]]
+|Peach Garden
+|3x1
+|Glue +50
+|Evolution Chest +1
+|-
+| style="background-color:#7de87f;" |[[File:Kungfu.png|75x75px]]
+|Kungfu
+|4x1
+|Lottery Ticket +2
+|Offering Speedup +3m
+|}
+
+==Tier 3 (Blue)==
+'''Recommended:''' 
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="9" style="background-color:var(--blue-bg);" |{{RewardIcon|Mahjong blue|75}}
+| rowspan="9" |Mahjong
+|3x3||Enhancement Injection<br>Snail HP +100<br>Snail ATK +10
+| rowspan="9" |{{RewardIconWithText|B-Tad, +81}}
+|-
+|2x1||{{RewardIconWithText|Cathay INTEL, +3k}}
+|-
+|3x1||{{RewardIconWithText|B-Tad, +10k}}
+|-
+|4x1||{{RewardIconWithLink|Novice Scroll, +10|blue}}
+|-
+|5x1||{{RewardIconWithGearlink|blue|Realm|Rainbow Tassel}}
+|-
+|6x1||{{RewardIconWithLink|Gear Chest, +60}}
+|-
+|7x1||Unlock [[Cathay Generals|Cathay General]] Charming Chan
+|-
+|8x1||{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|8x1
+|{{RewardIconWithText|Immortal Engine}} (Use to repair [[Rocket]] {{RewardIconWithText|Thruster}})
+|-
+| style="background-color:var(--blue-bg);" |{{RewardIcon|Wu Hou Shrine|75}}
+|Wu Hou Shrine
+|3x1
+|{{RewardIconWithText|W-Tad, +600}}
+|{{RewardIconWithText|W-Tad, +10}}
+|-
+| style="background-color:var(--blue-bg);" |{{RewardIcon|Baidi Fortress|75}}
+|Baidi Fortress
+|5x2
+|{{RewardIconWithText|Angel Cell, +2k}}
+|{{RewardIconWithText|Angel Cell, +50}}
+|}
+
+==Tier 4 (Purple)==
+'''Recommended:''' 
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:#f3b5e1;" |[[File:Mahjong purple.png|75x75px]]
+| rowspan="8" |Mahjong
+|3x3||Enhancement Injection<br>Snail DEF +12<br>Snail RUSH +12
+| rowspan="8" |243 B-tads
+|-
+|2x1||Cathay INTEL +4,000
+|-
+|3x1||14k B-tads
+|-
+|4x1||Expert Scroll +10
+|-
+|5x1||[[Gear|<span style="color:#ee96d5;">Silver Lion</span>]]
+|-
+|6x1||Gear Chest +80
+|-
+|7x1
+|Unlock [[Cathay Generals|Cathay General]] Healer Hua Tuo
+|-
+|8x2
+|Lottery Ticket +2
+|-
+| rowspan="2" style="background-color:#f3b5e1;" |[[File:Great Wall.png|75x75px]]
+| rowspan="2" |Great Wall
+|2x1||Machine Manuals (Unlock [[Home Base|Arsenal]])
+| rowspan="2" |Cathay Treasure Map +2
+|-
+|2x1||Cathay Treasure Map +50
+|-
+| style="background-color:#f3b5e1;" |[[File:Yellow River.png|75x75px]]
+|Yellow River
+|3x2
+|Offering Speedup +4h
+|Offering Speedup +5m
+|}
+
+==Tier 5 (Orange)==
+'''Recommended:''' 
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#ffb066;" |[[File:Mahjong orange.png|75x75px]]
+| rowspan="7" |Mahjong
+|3x3||Enhancement Injection<br>Snail HP +140<br>Snail ATK +14
+| rowspan="7" |729 B-tads
+|-
+|2x1||Cathay INTEL +5,000
+|-
+|3x1||Gear Chest +100
+|-
+|4x1||20k B-tads
+|-
+|5x1||Master Scroll +1
+|-
+|6x1||Unlock [[Cathay Generals|Cathay General]] Chief Meng Huo
+|-
+|7x2
+|Lottery Ticket +2
+|-
+| style="background-color:#ffb066;" |[[File:Emperor.png|75x75px]]
+|Emperor
+|3x1
+|Wish Coin +1
+|15 W-tads
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Cathay]]

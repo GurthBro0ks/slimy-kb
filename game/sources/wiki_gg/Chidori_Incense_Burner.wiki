@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Chidori Incense Burner
+|class_id=22182
+|rank=AAA
+|affct=CIV
+|birthday=12-27
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Dec 27, 1585 AD, Politician Toyotomi purchased the Chidori Incense Burner and hid it deep inside his castle.<br>The Chidori Incense Burner is a three-legged incense burner of Toyotomi. The bandit Ishikawa Goemon had his eyes on it and wanted to steal it. However, just as he was about to get away with it, the Chidori decoration on the lid made a sound, and he was discovered by the guards and arrested. The thief was eventually sentenced to death by boiling and died on the river bank at the age of 37. Executed alongside him was his mother and twenty of his friends.
+|fame=50
+|art=48
+|fth=43
+|civ=71
+|tech=31
+|ss1=Per 10 Master Scrolls used, Snail HP +30<br>Per 10 Master Scrolls used, Snail ATK +3<br>Master Scrolls Used: 500/500
+|ss2=Per 10 Master Scrolls used, Snail HP +40<br>Per 10 Master Scrolls used, Snail ATK +4<br>Master Scrolls Used: 500/500
+|ss3=Per 10 Master Scrolls used, Snail HP +50<br>Per 10 Master Scrolls used, Snail ATK +5<br>Master Scrolls Used: 500/500
+|ss4=Per 10 Master Scrolls used, Snail HP +70<br>Per 10 Master Scrolls used, Snail ATK +7<br>Master Scrolls Used: 500/500
+|ss5=Per 10 Master Scrolls used, Snail HP +90<br>Per 10 Master Scrolls used, Snail ATK +9<br>Master Scrolls Used: 500/500
+|ss7=Per 10 Master Scrolls used, Snail HP +90<br>Per 10 Master Scrolls used, Snail ATK +9<br>Master Scrolls Used: 500/500<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Fungusfarm skill II.png|50px]]Place in Fungus Farm: Grow Wonder Fungus by +15%
+|skill2=[[File:Fungusfarm skill II.png|50px]]Place in Fungus Farm: Max Cap +15%
+}}

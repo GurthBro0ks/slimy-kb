@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=872
+|relics=Feather of Justice,Arnolfini Portrait
+|rank=orange
+|amount=2
+|category=self
+|description=Snail Leadership +7
+}}

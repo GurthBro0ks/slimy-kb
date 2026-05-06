@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=Aesop's Fables
+|class_id=21524
+|rank=SSS
+|affct=CIV
+|birthday=02-16
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Feb 16, 560 BC, Aesop was murdered in Delphi, his fables started to be told by folks.<br>Containing 357 stories, Aesop's Fables is the world's oldest and most influential collection of fables. Originally a collection of folklore in Aesop's time, it was compiled into a fable collection by a Byzantine monk. The majority of the fables use animals as metaphors to criticize the atrocities of aristocrats while also teaching people valuable life lessons. The fables are concise and easy to understand, but the philosophies they convey are profound and educational. Some of the famous fables include The Farmer and the Viper, The Fox and the Grapes, The Wolf and the Lamb, and The Hare and the Tortoise.
+[Quotes]
+It is easy to be brave from a safe distance.
+Greed is the cause of many disasters.
+Never trust a friend who deserts you at a pinch.
+Obscurity often brings safety.
+|fame=76
+|art=60
+|fth=70
+|civ=107
+|tech=49
+|ss1=Share for the 1st time, Snail DEF +60<br>Per 5 Orange Museum Promos, Snail HP +30<br>Per 5 Orange Museum Promos, Snail DEF +3<br>Orange Museum Promos: 250/250
+|ss2=Share for the 1st time, Snail DEF +70<br>Per 5 Orange Museum Promos, Snail HP +40<br>Per 5 Orange Museum Promos, Snail DEF +4<br>Orange Museum Promos: 250/250
+|ss3=Share for the 1st time, Snail DEF +80<br>Per 5 Orange Museum Promos, Snail HP +50<br>Per 5 Orange Museum Promos, Snail DEF +5<br>Orange Museum Promos: 250/250
+|ss4=Share for the 1st time, Snail DEF +100<br>Per 5 Orange Museum Promos, Snail HP +70<br>Per 5 Orange Museum Promos, Snail DEF +7<br>Orange Museum Promos: 250/250
+|ss5=Share for the 1st time, Snail DEF +120<br>Per 5 Orange Museum Promos, Snail HP +90<br>Per 5 Orange Museum Promos, Snail DEF +9<br>Orange Museum Promos: 250/250
+|ss6=Share for the 1st time, Snail DEF +150<br>Per 5 Orange Museum Promos, Snail HP +120<br>Per 5 Orange Museum Promos, Snail DEF +12<br>Orange Museum Promos: 250/250
+|ss7=Share for the 1st time, Snail DEF +150<br>Per 5 Orange Museum Promos, Snail HP +120<br>Per 5 Orange Museum Promos, Snail DEF +12<br>Orange Museum Promos: 250/250<br>Share for the 1st time, Snail DEF +120 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Mutant Cells gained +30%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's CIV +15
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Snail HP +6000
+|mirage={{Mirage|name=Animals and Fables|reward={{RewardIconWithLink|Eye of Horus, +1|orange}}
+|3name=The Donkey and the Salt|3rec=78.78M|3atk=231934|3defense=154732|3hp=13718566|3weak=30674
+|4name=The Fox and the Grapes|4rec=104.02M|4atk=285155|4defense=190238|4hp=19704108|4weak=35196
+|5name=Wolf in Sheep's Clothing|5rec=133.50M|5atk=347340|5defense=231725|5hp=27345578|5weak=39824
+|6name=The Kingdom of The Lion|6rec=167.24M|6atk=418489|6defense=279191|6hp=37588845|6weak=46389
+|Arec=205.76M|Aatk=499722|Adefense=333385|Ahp=49968311|Aweak=52932
+}}}}

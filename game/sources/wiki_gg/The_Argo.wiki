@@ -1,0 +1,36 @@
+{{Missing Info|specifics=<br>Mirage: 6s, Awakened}}
+{{CargoRelic
+|name=The Argo
+|rank=SSS
+|affct=FTH
+|birthday=01-21
+|source=* Lottery Machine (0.09%)
+* [[Summer Festival]] Sept. 1 - Sept. 15 2023
+|description=On Jan 21, 3603 BC, the Argo, laden with heroes, set sail on its momentous voyage. To reclaim his rightful throne, Easun led a band of young heroes on a quest to obtain the Golden Fleece. Along their arduous journey, they faced hardships and forged alliances. They experienced moments of joy as well as witnessed separations and sacrifices. Ultimately, with their unwavering courage and divine protection, they triumphantly accomplished their mission and returned to their homeland, earning admiration from the world. The legendary vessel, Argo, which bore witness to it all, had been cherished and passed down through the generations.
+|fame=66
+|art=64
+|fth=105
+|civ=61
+|tech=66
+|ss1=Snail ATK +30<br>Per 3 FTH Relics gained, Snail ATK +12<br>Per 3 FTH Relics gained, Snail RUSH +12<br>FTH Relics: 60/60
+|ss2=Snail ATK +40<br>Per 3 FTH Relics gained, Snail ATK +16<br>Per 3 FTH Relics gained, Snail RUSH +16<br>FTH Relics: 60/60
+|ss3=Snail ATK +50<br>Per 3 FTH Relics gained, Snail ATK +20<br>Per 3 FTH Relics gained, Snail RUSH +20<br>FTH Relics: 60/60
+|ss4=Snail ATK +70<br>Per 3 FTH Relics gained, Snail ATK +28<br>Per 3 FTH Relics gained, Snail RUSH +28<br>FTH Relics: 60/60
+|ss5=Snail ATK +90<br>Per 3 FTH Relics gained, Snail ATK +36<br>Per 3 FTH Relics gained, Snail RUSH +36<br>FTH Relics: 60/60
+|ss6=Snail ATK +120<br>Per 3 FTH Relics gained, Snail ATK +48<br>Per 3 FTH Relics gained, Snail RUSH +48<br>FTH Relics: 60/60
+|ss7=Snail ATK +120<br>Per 3 FTH Relics gained, Snail ATK +48<br>Per 3 FTH Relics gained, Snail RUSH +48<br>FTH Relics: 60/60<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Quarry skill III.png|frameless|50x50px]] Place in Quarry: This Relic's FTH +15
+|skill2=[[File:Quarry skill III.png|frameless|50x50px]] Place in Quarry: Quarry Max Cap +30%
+|skill3=[[File:Quarry skill III.png|frameless|50x50px]] Place in Quarry: Find Ancient Fossil by +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Relic Boost]]
+[[Category:Quarry Skill]]
+[[Category:FTH Boost]]
+[[Category:Quarry Output Boost]]
+[[Category:Ancient Fossil Boost]]
+[[Category:Museum Promo Boost]]
+[[Category:Rewards Wish Coin]]

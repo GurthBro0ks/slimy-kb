@@ -1,0 +1,9 @@
+{{CargoRelicResonance
+|relics=Great Mogul Diamond,Columbus Chart,Ancient Dragon Xtal
+|rank=orange
+|amount=3
+|category=home
+|description=In the Demon God Rocket Cabin: Curvature Engine Base Effect +64%
+}}
+[[Category:Home]]
+[[Category:Curvature Engine Boost]]

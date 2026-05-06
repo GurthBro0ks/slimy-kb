@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Agent Permit B-IV
+|class_id=20323
+|rank=Green
+|affct=TECH
+|source=
+|description=The holder of the card is a mid-level agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)
+|fame=13
+|art=13
+|fth=17
+|civ=18
+|tech=29
+|ss1=When you defeat Junior Agents, gain +3 W-tads
+|ss2=When you defeat Junior Agents, gain +6 W-tads
+|ss3=When you defeat Junior Agents, gain +9 W-tads
+|ss4=When you defeat Junior Agents, gain +9 W-tads
+|ss7=When you defeat Junior Agents, gain +9 W-tads<br> (Awakened)
+}}

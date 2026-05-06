@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Time Energy Block
+|type=Common
+|rank=orange
+|id=10882
+|idx=89
+|description="…Implantation trial of Subject #11 concluded successfully with no acute rejection observed. However, sporadic temporal interference manifestations were noted on the epidermis, accompanied by a 15% acceleration in mundane object decay rates. Actual hazard classification remains pending…"
+—Chronon Energy Block Research Report
+|skill=
+|hp=2244
+|def=186
+|atk=206
+|rush=228
+|gene1=Time Machine Travel Speedup Output +5%
+|gene2=Fire DMG +90
+|gene3=Time Machine Travel Speedup Output +5%
+|gene4=Wind DMG +90
+|gene5=Time Machine Travel Speedup Output +5%
+|gene7=Wind DMG +1.5% (Awakened)
+|}}

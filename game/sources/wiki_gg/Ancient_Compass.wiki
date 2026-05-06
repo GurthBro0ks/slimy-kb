@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Ancient Compass
+|class_id=22502
+|rank=Blue
+|affct=TECH
+|birthday=05-08
+|source=Lottery Machine No.3 (0.03%)
+|description=On May 8, 356 BC, the first compass was created by a person from Zhao, located on the magnetic hill in Hebei, China.<br>The compass was an ancient instrument used in China to identify directions and is the invention of the ancient Chinese people who had a long-term understanding of magnetic objects. The earliest compass was made of a natural magnet stone, shaped like a spoon, and placed on a smooth plate, utilizing the guiding function of a magnetic needle to identify direction.
+|fame=32
+|art=19
+|fth=33
+|civ=25
+|tech=45
+|ss1=Per 10,000 Fervor, Priest-Snail Assistance DMG+8<br>Fervor: 500000/500000
+|ss2=Per 10,000 Fervor, Priest-Snail Assistance DMG+16<br>Fervor: 500000/500000
+|ss3=Per 10,000 Fervor, Priest-Snail Assistance DMG+24<br>Fervor: 500000/500000
+|ss4=Per 10,000 Fervor, Priest-Snail Assistance DMG+40<br>Fervor: 500000/500000
+|ss7=Per 10,000 Fervor, Priest-Snail Assistance DMG+40<br>Fervor: 500000/500000<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Luckyegg skill I.png|50px]]Place in Lucky Egg: Lucky Egg hatching efficiency +5%
+}}

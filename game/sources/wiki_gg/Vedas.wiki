@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Vedas
+|class_id=22280
+|rank=SSS
+|affct=FAITH
+|birthday=03-25
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Mar 25, 1584 BC, the orally transmitted Vedas were written for the first time.<br>The Vedas, meaning knowledge in Sanskrit, is one of the oldest texts in ancient India. Legend has it that the knowledge was first passed on to Brahma by Krishna and then spread among mortals by Vishnu. As a result, the Vedas are considered direct inspiration from the gods, without any mixing of mortal thoughts, making it the most fundamental scripture of Brahminism and Hinduism. The Vedas recorded various hymns, rituals, and customs in Vedic Sanskrit, systematically gathering Indian mythology for the first time. The original texts of the Vedas are quite long, so people gradually divided it into four Vedas and several subdivisions in the process of dissemination, covering topics such as astronomy, military, and dance.
+|fame=58
+|art=76
+|fth=108
+|civ=51
+|tech=69
+|ss1=Snail HP +300<br>Per 60 Angel Minions in battle:<br>> Troop HP +270<br>Per 60 Angel Minions in battle:<br>> Troop ATK +27
+|ss2=Snail HP +400<br>Per 60 Angel Minions in battle:<br>> Troop HP +360<br>Per 60 Angel Minions in battle:<br>> Troop ATK +36
+|ss3=Snail HP +500<br>Per 60 Angel Minions in battle:<br>> Troop HP +450<br>Per 60 Angel Minions in battle:<br>> Troop ATK +45
+|ss4=Snail HP +700<br>Per 60 Angel Minions in battle:<br>> Troop HP +630<br>Per 60 Angel Minions in battle:<br>> Troop ATK +63
+|ss5=Snail HP +900<br>Per 60 Angel Minions in battle:<br>> Troop HP +810<br>Per 60 Angel Minions in battle:<br>> Troop ATK +81
+|ss6=Snail HP +1200<br>Per 60 Angel Minions in battle:<br>> Troop HP +1080<br>Per 60 Angel Minions in battle:<br>> Troop ATK +108
+|ss7=Snail HP +1200<br>Per 60 Angel Minions in battle:<br>> Troop HP +1080<br>Per 60 Angel Minions in battle:<br>> Troop ATK +108<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion DEF +9%
+|skill2=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop CRIT +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FTH +15
+|mirage={{Mirage|name=Epic Legacy|reward={{RewardIconWithLink|Incense, +3|orange}}
+|3name=Rigveda|3rec=12.21M|3atk=90731|3defense=60530|3hp=2456617|3weak=15763
+|4name=Samaveda|4rec=17.55M|4atk=109930|4defense=73338|4hp=3525276|4weak=18022
+|5name=Yajurveda|5rec=31.15M|5atk=131481|5defense=87716|5hp=4950163|5weak=19055
+|6name=Atharvaveda|6rec=42.30M|6atk=155011|6defense=103414|6hp=6730352|6weak=20377
+|Arec=54.97M|Aatk=181719|Adefense=121232|Ahp=8921756|Aweak=22749
+}}}}

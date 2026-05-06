@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=332
+|relics=Charlotte's Web,Urashima Taro's Box
+|rank=blue
+|amount=2
+|category=self
+|description=Per 7 Dragon Gene LVLs, Snail ATK +10;Dragon Gene LVLs Researched: 210/210
+}}

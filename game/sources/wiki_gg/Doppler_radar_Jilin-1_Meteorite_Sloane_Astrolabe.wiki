@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=636
+|relics=Doppler radar,Jilin-1 Meteorite,Sloane Astrolabe
+|rank=blue
+|amount=3
+|category=self
+|description=Angel Minion HARD Stats +1.8%
+}}

@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Meet the twinkling troublemakers of the holiday season—our Christmas ornaments, ready to add a dash of sparkle and a lot of charm to your tree!
+|affct=FAME
+|hard=RUSH
+|source=[[Snowy Xmas]] Dec. 20 2024 - Jan. 02 2025
+|color=purple
+|earth=6
+|water=7
+|fire=5
+|wind=8
+|form=Dragon
+|element=Wind
+|realm=Rift
+|orangehard=DEF
+}}

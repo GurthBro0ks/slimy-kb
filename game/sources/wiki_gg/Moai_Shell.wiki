@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Also known as the Easter Island statues. The residents there received help from a Snail to build those statues and gave this Snail Shell as a git to show their gratitude.
+|affct=FTH
+|hard=HP
+|source=Divine Neutral Chest (0.8%)
+|color=green
+|earth=2
+|water=1
+|fire=1
+|wind=2
+|form=Angel
+|element=Water
+|realm=Yamato
+|orangehard=DEF
+}}

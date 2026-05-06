@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=Chaotic Dragon Horn
+|type=Bionic
+|rank=red
+|id=10705
+|idx=63
+|description="They say the horns of the Primordial Dragon tore through the Void, ringing like celestial bells across the fabric of creation…"
+— Codex Draconis
+|skill=Summon the Horn of Chaos, dealing DMG equal to 220% of ATK, and trigger explosion, dealing DMG equal to 16% of ATK for each stack of Annihilation the enemy has!
+|hp=2318
+|def=228
+|atk=363
+|rush=246
+|gene1=When HP < 30%, Crit DMG REDUC +20%
+|gene2=Per organ awakened, {race} ATK +7
+Organs awakened: 40/40
+|gene3=Earth DMG +120
+|gene4=When HP is below 30%, CRIT DMG +20%
+|gene5=For Round 1, CRIT DMG +20%
+|gene6=In Snail Arena, CRIT DMG REDUC +20%
+|gene7=Crit DMG +10% (Awakened)
+|}}

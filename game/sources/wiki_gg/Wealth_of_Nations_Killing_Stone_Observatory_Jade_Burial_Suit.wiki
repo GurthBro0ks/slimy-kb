@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Wealth of Nations,Killing Stone,Observatory,Jade Burial Suit
+|rank=purple
+|amount=4
+|category=self
+|description=Per 2k Relic Points, Snail HP +40<br>Relic Points: 80,000/80,000
+}}
+[[Category:Self]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Relic Points]]

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Nugget Awards
+|class_id=22144
+|rank=AAA
+|affct=ART
+|birthday=01-17
+|source=
+|description=On Jan 17, 1963 AD, the first Silver Nugget Award was held.<br>Known as the Best Trophy of architecture, the Silver Nugget Award is the highest award for design and architecture. Each year, it is awarded only to those designers who have scaled new heights in residential, commercial, and industrial projects around the world. The selectiveness of the award confers high status upon winners and allows them the opportunity to join architectural elites.
+|fame=36
+|art=73
+|fth=44
+|civ=52
+|tech=38
+|ss1=Home Decor Inc, Series C Decor Coin Dividend +4%<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +12
+|ss2=Home Decor Inc, Series C Decor Coin Dividend +5%<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +16
+|ss3=Home Decor Inc, Series C Decor Coin Dividend +6%<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +20
+|ss4=Home Decor Inc, Series C Decor Coin Dividend +8%<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +28
+|ss5=Home Decor Inc, Series C Decor Coin Dividend +10%<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +36
+|ss7=Home Decor Inc, Series C Decor Coin Dividend +10%<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +36<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +28 (Awakened)
+|skill1=[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x Green Card Drops +7.5%
+|skill2=[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x Blue Card Drops +7.5%
+}}

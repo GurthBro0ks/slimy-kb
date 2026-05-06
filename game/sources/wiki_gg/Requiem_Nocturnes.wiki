@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=15
+|relics=Requiem,Nocturnes
+|rank=blue
+|amount=2
+|category=self
+|description=Snail DEF +50
+}}

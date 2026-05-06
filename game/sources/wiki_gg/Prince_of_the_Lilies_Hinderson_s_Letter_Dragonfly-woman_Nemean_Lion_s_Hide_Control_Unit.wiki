@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=446
+|relics=Prince of the Lilies,Hinderson's Letter,Dragonfly-woman,Nemean Lion's Hide,Control Unit
+|rank=purple
+|amount=5
+|category=self
+|description=Mutant Minion MAX +9
+}}

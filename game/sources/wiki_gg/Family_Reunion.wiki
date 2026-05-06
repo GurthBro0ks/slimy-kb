@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Family Reunion
+|class_id=22430
+|rank=Blue
+|affct=ART
+|birthday=10-30
+|source=Lottery Machine No.3 (0.06%)
+|description=On Oct 30, 1867 AD, Bazille created this classic work.<br>Family Reunion is one of the representative works of the French painter Bazille. In this work, he portrays a group of figures in a garden setting, using a delicate balance of light, shadow, and color to create a tranquil and harmonious effect. Unfortunately, Bazille died young in the Franco-Prussian War, cutting short his promising artistic career.
+|fame=20
+|art=48
+|fth=27
+|civ=30
+|tech=29
+|ss1=Per 3 Swamp Protomon, Priest-Snail Assistance DMG +16<br>Swamp Protomon: 60/60
+|ss2=Per 3 Swamp Protomon, Priest-Snail Assistance DMG +32<br>Swamp Protomon: 60/60
+|ss3=Per 3 Swamp Protomon, Priest-Snail Assistance DMG +48<br>Swamp Protomon: 60/60
+|ss4=Per 3 Swamp Protomon, Priest-Snail Assistance DMG +80<br>Swamp Protomon: 60/60
+|ss7=Per 3 Swamp Protomon, Priest-Snail Assistance DMG +80<br>Swamp Protomon: 60/60<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, Troop Earth DMG +10
+}}

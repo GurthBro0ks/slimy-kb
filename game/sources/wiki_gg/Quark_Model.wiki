@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Quark Model
+|class_id=22342
+|rank=SSS
+|affct=TECH
+|birthday=05-27
+|source=
+|description=On May 27, 1964 AD, Gell-Mann developed the quark model based on his proposed Eightfold Way.<br>Professor Gell-Mann, who received the Nobel Prize in Physics in 1969, created this model to demonstrate his theory. It is a classification scheme for hadrons based on their valence quarks. According to the model, mesons are composed of a valence quark-antiquark pair, while baryons are composed of three quarks (2 down quarks + 1 up quark or 2 up quarks + 1 down quark). There are six states of quarks, including up, down, and strange quarks, and quarks other than up and down quarks are rapidly converted into up or down quarks via particle decay. This model served as the foundation for quantum chromodynamics and significantly advanced our understanding of the microscopic world.
+|fame=72
+|art=51
+|fth=68
+|civ=63
+|tech=108
+|ss1=Per 60 Minions in battle:<br>> Troop HARD Stats +3<br>Per 10 Lucky Coins gained, Snail ATK +6<br>Per 10 Lucky Coins gained, Snail RUSH +6<br>Lucky Coins Gained: 400/400
+|ss2=Per 60 Minions in battle:<br>> Troop HARD Stats +6<br>Per 10 Lucky Coins gained, Snail ATK +12<br>Per 10 Lucky Coins gained, Snail RUSH +12<br>Lucky Coins Gained: 400/400
+|ss3=Per 60 Minions in battle:<br>> Troop HARD Stats +9<br>Per 10 Lucky Coins gained, Snail ATK +18<br>Per 10 Lucky Coins gained, Snail RUSH +18<br>Lucky Coins Gained: 400/400
+|ss4=Per 60 Minions in battle:<br>> Troop HARD Stats +15<br>Per 10 Lucky Coins gained, Snail ATK +30<br>Per 10 Lucky Coins gained, Snail RUSH +30<br>Lucky Coins Gained: 400/400
+|ss5=Per 60 Minions in battle:<br>> Troop HARD Stats +21<br>Per 10 Lucky Coins gained, Snail ATK +42<br>Per 10 Lucky Coins gained, Snail RUSH +42<br>Lucky Coins Gained: 400/400
+|ss6=Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 10 Lucky Coins gained, Snail ATK +60<br>Per 10 Lucky Coins gained, Snail RUSH +60<br>Lucky Coins Gained: 400/400
+|ss7=Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 10 Lucky Coins gained, Snail ATK +60<br>Per 10 Lucky Coins gained, Snail RUSH +60<br>Lucky Coins Gained: 400/400<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail ATK +600
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's TECH +15
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: CRIT DMG +30%
+|mirage={{Mirage|name=Ultrafine Particle|reward={{RewardIconWithLink|Nebula Chest, +200|orange}}
+|3name=Up Quark|3rec=33.31M|3atk=136055|3defense=90767|3hp=5260601|3weak=19270
+|4name=Down Quark|4rec=44.93M|4atk=160545|4defense=107106|4hp=7168321|4weak=20794
+|5name=Strange Quark|5rec=58.13M|5atk=188396|5defense=125686|5hp=9461291|5weak=23351
+|6name=Top Quark|6rec=72.48M|6atk=218648|6defense=145869|6hp=12311883|6weak=28909
+|Arec=87.89M|Aatk=251141|Adefense=167546|Ahp=15784738|Aweak=32339
+}}}}

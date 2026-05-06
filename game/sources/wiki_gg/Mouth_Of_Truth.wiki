@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Mouth Of Truth
+|class_id=22512
+|rank=AAA
+|affct=FAME
+|birthday=02-07
+|source=Lottery Machine No.3 (0.06%)
+|description=On Feb 7, 1632 AD, people discovered the Mouth of Truth on the exterior wall of the Santa Maria in Cosmedin church.<br>The Mouth of Truth is a carved marble disc depicting the face of Triton, the son of the sea god. Legend has it that if someone tells a lie in front of it, it will bite the hand that the person puts into its mouth. Because of this wonderful rumor, people flock to see it, creating a good story.
+|fame=75
+|art=39
+|fth=33
+|civ=46
+|tech=50
+|ss1=Snail DEF +30<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +24<br>Tribal Chiefs Defeated: 50/50
+|ss2=Snail DEF +40<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +32<br>Tribal Chiefs Defeated: 50/50
+|ss3=Snail DEF +50<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +40<br>Tribal Chiefs Defeated: 50/50
+|ss4=Snail DEF +70<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +56<br>Tribal Chiefs Defeated: 50/50
+|ss5=Snail DEF +90<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +72<br>Tribal Chiefs Defeated: 50/50
+|ss7=Snail DEF +90<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +72<br>Tribal Chiefs Defeated: 50/50<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Goldfish skill II.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Water RES +30
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, All Minion DEF +3%
+}}

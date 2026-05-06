@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=License of Hitman No.∞
+|class_id=20990
+|rank=Green
+|affct=FAME
+|source=
+|description=A lifetime of corporate wage-slaving conditioned him to punch in at 9 AM sharp for eternal snail-hunting.
+|fame=30
+|art=15
+|fth=15
+|civ=15
+|tech=15
+|ss1=Per 9 Hitmen intercepted, Snail HP +33<br>Per 9 Hitmen intercepted, Snail ATK +3<br>Per 9 Hitmen intercepted, Snail DEF +3<br>Per 9 Hitmen intercepted, Snail RUSH +3<br>Hitmen Intercepted: 999/999
+|ss2=Per 9 Hitmen intercepted, Snail HP +66<br>Per 9 Hitmen intercepted, Snail ATK +6<br>Per 9 Hitmen intercepted, Snail DEF +6<br>Per 9 Hitmen intercepted, Snail RUSH +6<br>Hitmen Intercepted: 999/999
+|ss3=Per 9 Hitmen intercepted, Snail HP +99<br>Per 9 Hitmen intercepted, Snail ATK +9<br>Per 9 Hitmen intercepted, Snail DEF +9<br>Per 9 Hitmen intercepted, Snail RUSH +9<br>Hitmen Intercepted: 999/999
+|ss4=Per 9 Hitmen intercepted, Snail HP +99<br>Per 9 Hitmen intercepted, Snail ATK +9<br>Per 9 Hitmen intercepted, Snail DEF +9<br>Per 9 Hitmen intercepted, Snail RUSH +9<br>Hitmen Intercepted: 999/999
+|ss7=Per 9 Hitmen intercepted, Snail HP +99<br>Per 9 Hitmen intercepted, Snail ATK +9<br>Per 9 Hitmen intercepted, Snail DEF +9<br>Per 9 Hitmen intercepted, Snail RUSH +9<br>Hitmen Intercepted: 999/999<br> (Awakened)
+}}

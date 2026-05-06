@@ -1,0 +1,33 @@
+{{CargoRelic
+|name=Tetrabiblos
+|rank=Blue
+|affct=FTH
+|birthday=03-05
+|source=Lottery Machine (0.03%), Wishing (0.85%), Nebula Chest (2%)<br>[[Peter Jr.]] - [[Partners#Rent_List|Normal Rent]]<br>Event in the [[Cathay Domain]]
+|description=On Mar 5, AD 139, Ptolemy completed this famous ancient Greek astrological treatise.
+
+Ptolemy wrote Tetrabiblos and proposed the idea of a geocentric universe. He completed the work based on Aristotle's theory. This book is based on Greek cosmology, including the observations on the universe and the theory of Humorism in the Hippocratic era. Ptolemy drew connections between the nature of celestial bodies with the fluids of the human body and analyzed how the movement of celestial bodies affects the human's body and soul. The theory had a great impact on the medieval medicinal field and promoted cosmic medicine in Western Europe. It has become an essential knowledge for European Doctors.
+|fame=23
+|art=28
+|fth=48
+|civ=32
+|tech=23
+|ss1=Per 4 Never Lucky Packs claimed, Snail ATK +2<br>Never Lucky Packs Claimed: 40/40
+|ss2=Per 4 Never Lucky Packs claimed, Snail ATK +4<br>Never Lucky Packs Claimed: 40/40
+|ss3=Per 4 Never Lucky Packs claimed, Snail ATK +6<br>Never Lucky Packs Claimed: 40/40
+|ss4=Per 4 Never Lucky Packs claimed, Snail ATK +10<br>Never Lucky Packs Claimed: 40/40
+|ss7=Per 4 Never Lucky Packs claimed, Snail ATK +10<br>Never Lucky Packs Claimed: 40/40<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Hellas skill I.png|50px]] Place in Hellenic Museum: In Hellas, FTH Checks -5
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:FTH Relics]]
+[[Category:Blue FTH Relics]]
+[[Category:ATK Boost]]
+[[Category:Never Lucky Pack Boost]]
+[[Category:Hellas Museum Boost]]
+[[Category:Hellas Exploration Boost]]
+[[Category:FTH Boost]]
+[[Category:DEF Boost]]
+[[Category:Tadpole Pond W-Tad Output Boost]]

@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Black Crystal Heart
+|type=Common
+|rank=purple
+|id=10856
+|idx=61
+|description=A pitch-black crystal that pulses eternally, as if unaware the body entombed in that sarcophagus has long since decayed.
+|skill=
+|hp=2108
+|def=146
+|atk=127
+|rush=147
+|gene1=Per purple or higher organ implanted, {race} HP +30
+Purple or higher Organs implanted: 40/40
+|gene2=Break RES +2%
+|gene3=Restore 400 HP each round
+|gene4=Fire DMG +60
+|gene7=Fire DMG +3% (Awakened)
+|}}

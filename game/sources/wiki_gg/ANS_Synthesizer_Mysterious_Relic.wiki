@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=ANS Synthesizer,1st Winter Olympics Badge
+|rank=orange
+|amount=2
+|category=self
+|description=Per 20 Orange Beads drawn, Snail ATK +14; Orange Beads Drawn: 300/300
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Lottery Draws]]

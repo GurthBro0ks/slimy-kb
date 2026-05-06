@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Britland Postcard
+|class_id=20065
+|rank=Green
+|affct=ART
+|source=
+|description=While scouting for info about the Demon God in Britland, the Traveler recorded a lot of local customs, which were brought together in this postcard. You can read it to kill time or post it for likes!
+|fame=13
+|art=30
+|fth=11
+|civ=22
+|tech=14
+|ss1=Britland Museum Medal Output +5
+|ss2=Britland Museum Medal Output +10
+|ss3=Britland Museum Medal Output +15
+|ss4=Britland Museum Medal Output +15
+|ss7=Britland Museum Medal Output +15<br> (Awakened)
+}}

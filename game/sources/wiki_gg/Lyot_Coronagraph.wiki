@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Lyot Coronagraph
+|class_id=22498
+|rank=Blue
+|affct=TECH
+|birthday=03-12
+|source=Lottery Machine No.3 (0.03%)
+|description=On Mar 12, 1930 AD, Bernard Lyot invented the first coronagraph.<br>A coronagraph is a specialized telescope that enables astronomers to photograph the Sun's corona without waiting for a solar eclipse to occur. When comparing photographs of the Sun's corona during each solar eclipse, astronomers found that the corona's shape varies each time. To study how the corona changes with the phenomena of the Sun, long-term observation of the corona is necessary. However, a person's lifetime will only experience a dozen or so solar eclipses, each lasting only 20-30 minutes, which is too short for scientific observations. The coronagraph, invented by Frenchman Bernard Lyot, allows observation of the Sun's corona even in full sunlight.
+|fame=29
+|art=23
+|fth=34
+|civ=24
+|tech=44
+|ss1=Mecha Minion HP +1%
+|ss2=Mecha Minion HP +2%
+|ss3=Mecha Minion HP +3%
+|ss4=Mecha Minion HP +5%
+|ss7=Mecha Minion HP +5%<br>Mecha Minion HP +5% (Awakened)
+|skill1=[[File:Swampsanctum skill I.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Output +5%
+}}

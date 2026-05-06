@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Letters for Josephine,Rashomon
+|rank=purple
+|amount=2
+|category=minion
+|description=Demon Minion DEF +6%
+}}
+[[Category:Minion]]
+[[Category:Demon Minion DEF Boost]]

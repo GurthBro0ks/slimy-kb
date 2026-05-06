@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=Shakespeare Scripts
+|rank=AA
+|affct=CIV
+|birthday=01-24
+|source=* Fragment Crafting (3.7%), Lottery Machine (0.08%), Relic Forge (80 Relic RF), Wishing (0.34%)
+* [[Altar#Gods_of_the_Pantheon|God of Culture]] Descent
+|description=On Jan 24, 1598, Shakespeare completed "Romeo and Juliet" and the manuscripts remain to this day.
+
+"Romeo and Juliet" is the only existing Shakespeare Manuscript which preserved his original style. This set of manuscripts was collected by King George III and later became part of the British Museum Collection. It is displayed together with "The Peony Pavilion" of Tang Xianzu, who is known as Eastern Shakespeare.
+|fame=41
+|art=40
+|fth=43
+|civ=70
+|tech=34
+|ss1=Per 3 CIV Relics gained, Snail ATK +8<br>Per 3 CIV Relics gained, Snail RUSH +8<br>CIV Relics: 60/60
+|ss2=Per 3 CIV Relics gained, Snail ATK +12<br>Per 3 CIV Relics gained, Snail RUSH +12<br>CIV Relics: 60/60
+|ss3=Per 3 CIV Relics gained, Snail ATK +16<br>Per 3 CIV Relics gained, Snail RUSH +16<br>CIV Relics: 60/60
+|ss4=Per 3 CIV Relics gained, Snail ATK +24<br>Per 3 CIV Relics gained, Snail RUSH +24<br>CIV Relics: 60/60
+|ss5=Per 3 CIV Relics gained, Snail ATK +32<br>Per 3 CIV Relics gained, Snail RUSH +32<br>CIV Relics: 60/60
+|ss7=Per 3 CIV Relics gained, Snail ATK +32<br>Per 3 CIV Relics gained, Snail RUSH +32<br>CIV Relics: 60/60<br>Snail HP +700 (Awakened)
+|skill1=[[File:Arena skill II.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail HP +300
+|skill2=[[File:Arena skill II.png|50px]]Place in Snail Arena Compass: In Snail Arena, this Relic's CIV +10
+}}
+
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Relic Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:HP Boost]]
+[[Category:CIV Boost]]
+[[Category:Mecha Gene Cost Reduction]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Altar Descent Relics]]
+[[Category:Enhanced by CIV Relics]]

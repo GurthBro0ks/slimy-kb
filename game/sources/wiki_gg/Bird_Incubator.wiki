@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Bird Incubator
+|class_id=20363
+|rank=Green
+|affct=TECH
+|source=
+|description=It's an incubator that adopts many unknown technologies to combine magic and science. Some of the components are even made by Gods. Its performance is also top-notch. All you need to do is put the eggs in it, then it will hatch perfectly, not only with a 100% success rate but also with the ability to nourish the eggs, thereby greatly improving the hatching efficiency!
+|fame=12
+|art=17
+|fth=14
+|civ=16
+|tech=31
+|ss1=Egg hatching rate +0.4%
+|ss2=Egg hatching rate +0.8%
+|ss3=Egg hatching rate +1.2%
+|ss4=Egg hatching rate +1.2%
+|ss7=Egg hatching rate +1.2%<br> (Awakened)
+}}

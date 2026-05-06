@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Soma Drink
+|class_id=22549
+|rank=AA
+|affct=FAITH
+|birthday=01-25
+|source=Lottery Machine No.3 (0.12%)
+|description=On Jan 25, 334 AD, Soma successfully brewed a batch of divine wine, granting the gods immortality.<br>As the god of wine in Indian mythology, Soma is renowned for creating a divine drink from rare herbs that grants immortality and even supernatural powers to those who drink it. As a result, it has been coveted by many mythical creatures and has sparked conflicts between gods and demons.
+|fame=40
+|art=46
+|fth=66
+|civ=33
+|tech=43
+|ss1=Per Mantis Calculation LVL, Snail ATK +2<br>Per Mantis Calculation LVL, Snail RUSH +2<br>Mantis Calculation: 50/50
+|ss2=Per Mantis Calculation LVL, Snail ATK +3<br>Per Mantis Calculation LVL, Snail RUSH +3<br>Mantis Calculation: 50/50
+|ss3=Per Mantis Calculation LVL, Snail ATK +4<br>Per Mantis Calculation LVL, Snail RUSH +4<br>Mantis Calculation: 50/50
+|ss4=Per Mantis Calculation LVL, Snail ATK +6<br>Per Mantis Calculation LVL, Snail RUSH +6<br>Mantis Calculation: 50/50
+|ss5=Per Mantis Calculation LVL, Snail ATK +8<br>Per Mantis Calculation LVL, Snail RUSH +8<br>Mantis Calculation: 50/50
+|ss7=Per Mantis Calculation LVL, Snail ATK +8<br>Per Mantis Calculation LVL, Snail RUSH +8<br>Mantis Calculation: 50/50<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +60
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +3%
+}}

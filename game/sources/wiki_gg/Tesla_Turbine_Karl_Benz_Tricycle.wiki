@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=664
+|relics=Tesla Turbine,Karl Benz Tricycle
+|rank=purple
+|amount=2
+|category=self
+|description=Per 100 Recruit Tokens consumed, Snail HP +60;Consumed Recruit Tokens: 5000/5000
+}}

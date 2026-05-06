@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=412
+|relics=Hunting Heraldry,Hoxne Hoard
+|rank=purple
+|amount=2
+|category=self
+|description=Per 20 Expert Scrolls used, Snail DEF +6;Expert Scrolls opened: 1000/1000
+}}

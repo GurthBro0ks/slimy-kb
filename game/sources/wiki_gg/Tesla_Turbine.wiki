@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Tesla Turbine
+|class_id=22599
+|rank=AAA
+|affct=TECH
+|birthday=04-19
+|source=Lottery Machine No.3 (0.06%)
+|description=On Apr 19, 1913 AD, Tesla obtained a patent for his invention.<br>The Tesla turbine is a turbine that is bladeless and is only driven by fluid shear forces. The body consists of a set of smooth disks, and there are nozzles on the disks continuously blowing an airstream toward the edge of the disk. Due to the viscosity of the fluid and the viscosity of the gas at the surface, the airstream is adsorbed onto the disk. When the airstream slows down and energy is simultaneously applied to the disk, the gas will spiral inward and be discharged. Through this design, the waste gas discharged by the steam turbine can be used to continue driving the steam turbine, keeping the working temperature and pressure of the turbine in the best state.
+|fame=50
+|art=30
+|fth=47
+|civ=43
+|tech=73
+|ss1=Snail DEF +30<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +24<br>Opened Protolith Chests: 500/500
+|ss2=Snail DEF +40<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +32<br>Opened Protolith Chests: 500/500
+|ss3=Snail DEF +50<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +40<br>Opened Protolith Chests: 500/500
+|ss4=Snail DEF +70<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +56<br>Opened Protolith Chests: 500/500
+|ss5=Snail DEF +90<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +72<br>Opened Protolith Chests: 500/500
+|ss7=Snail DEF +90<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +72<br>Opened Protolith Chests: 500/500<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +15%
+|skill2=[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Cap +15%
+}}

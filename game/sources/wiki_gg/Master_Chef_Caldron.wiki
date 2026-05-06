@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Master Chef Caldron
+|class_id=20290
+|rank=Green
+|affct=FAITH
+|source=
+|description=Master Chef was extremely picky about ingredients. He made a bronze caldron specifically to season all ingredients into his favorite flavors. However, after he disappeared, the pot also lost its magical abilities.
+|fame=17
+|art=12
+|fth=32
+|civ=16
+|tech=13
+|ss1=Snail RUSH +20<br>Unicorn Express Supply Order Reset SPD +1
+|ss2=Snail RUSH +40<br>Unicorn Express Supply Order Reset SPD +1
+|ss3=Snail RUSH +60<br>Unicorn Express Supply Order Reset SPD +1
+|ss4=Snail RUSH +60<br>Unicorn Express Supply Order Reset SPD +1
+|ss7=Snail RUSH +60<br>Unicorn Express Supply Order Reset SPD +1<br> (Awakened)
+}}

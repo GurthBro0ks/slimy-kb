@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The carved message on the bottom of Snail Shell says, "even though this music box cannot make any sound, it contains the most wonderful music - life!" The message on the inside says, "I'm done! I can't get this to make any sound..."
+|affct=ART
+|hard=ATK
+|source=Divine Chaos Chest (0.8%)
+|color=green
+|earth=3
+|water=1
+|fire=1
+|wind=1
+|form=Demon
+|element=Water
+|realm=Murika
+|orangehard=DEF
+}}

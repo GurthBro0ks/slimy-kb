@@ -1,0 +1,257 @@
+{{Missing Info|specifics=<br>Looped Apostle stats + ALL special stats}}
+
+=Apostles=
+Once an apostle is beaten in combat for the first time, they are considered defeated. Once an apostle has been defeated in 3 rounds or less, they are considered "Dominated" and will no longer have to be fought on subsequent explorations. Each Area has an apostle and occasionally an apostle will have minions who must be defeated first. 
+
+Similar to the Apostles in [[Kemet]], Apostles of this Realm are broken up into different areas that can only be explored one at a time. [[Parsia]] has a secondary location called Sky City, with a different set of apostles. Below are all the Apostles for each area of Sky City.
+
+ Note that '''all''' apostles and minions have the special stats of: ''CRIT %, Lifesteal Rate %, Chance to trigger Stonehide %, Chance to cause Bleed %, Chance of Weakening Enemy %, Chance of Breaking Enemy %, CRIT RES %, Bleed RES %, Stonehide RES %, Lifesteal RES %, Weaken RES %, Break RES %, HIT, and Paralysis RES %''.
+
+See [[Parsia Apostles]] for the Apostles in Parsia.
+
+==Flying Carpet 10K Riders==
+'''Area:'''  No-Fly Zone
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Flying Carpet 10K Riders|| || || ||AFFCT 83,270 || Hamster Loans, 100 W-Tads, Travel Speedup +90m, [[Clark Sickle Leaf Carpet]] Frag +20
+|-
+|''Flying Carpet Rider''||165,594 ||119,864 ||1,150,567 ||AFFCT 82,670 ||1400 B-Tads, Parsia INTEL +550
+|-
+|''Flying Carpet Dual Riders''||167,181 ||120,070 ||1,169,534 ||AFFCT 82,705 ||1400 B-Tads, Parsia INTEL +550
+|-
+|''Flying Carpet Triple Riders''||169,485 ||120,669 ||1,190,999 ||AFFCT 82,805 ||1400 B-Tads, Parsia INTEL +550
+|-
+|''Flying Carpet Quad Riders''||172,176 ||121,466 ||1,213,835 ||AFFCT 82,940 ||1400 B-Tads, Parsia INTEL +550
+|}
+
+==AAA Silk Wholesaler Zhang Qian==
+'''Area:'''  Skyport
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|AAA Silk Wholesaler Zhang Qian||???,905 ||130,516 ||1,308,635 ||AFFCT 84,410 || Hamster Loans, 100 W-Tads, Travel Speedup +100m
+|}
+
+==Barber==
+'''Area:'''  Residential Sector
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Barber||216,940 ||140,017 ||1,468,551 ||AFFCT 85,885 || Hamster Loans, 100 W-Tads, Travel Speedup +110m, Parsia Arcana Fragment
+|-
+|''Cutter''||189,626 ||128,906 ||1,316,685 ||AFFCT 84,155 ||1420 B-Tads, Parsia INTEL +560
+|-
+|''Blower''||195,649 ||131,362 ||1,351,700 ||AFFCT 84,545 ||1420 B-Tads, Parsia INTEL +560
+|-
+|''Dyer''||202,202 ||134,035 ||1,388,680 ||AFFCT 84,965 ||1420 B-Tads, Parsia INTEL +560
+|-
+|''Curler''||209,288 ||136,916 ||1,427,588 ||AFFCT 85,410 ||1420 B-Tads, Parsia INTEL +560
+|}
+
+==Parsian Assassin==
+'''Area:'''  Industrial Grid
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Parsian Assassin||239,398 ||151,872 ||1,553,100 ||AFFCT 87,630 || Hamster Loans, 100 W-Tads, Travel Speedup +2h, Mutantigen +5
+|}
+
+==Parsian Dance Troupe==
+'''Area:'''  Pleasure Dome
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Parsian Dance Troupe||269,162 ||166,613 ||1,681,165 ||AFFCT 89,610 || Hamster Loans, 100 W-Tads, Travel Speedup +130m, Parsia Arcana Fragment
+|-
+|''Dance Intern''||234,483 ||149,307 ||1,534,638 ||AFFCT 87,260 ||1440 B-Tads, Parsia INTEL +570
+|-
+|''Backup Dancer''||241,916 ||153,184 ||1,562,539 ||AFFCT 87,815 ||1440 B-Tads, Parsia INTEL +570
+|-
+|''Lead Dancer''||250,295 ||157,386 ||1,597,639 ||AFFCT 88,395 ||1440 B-Tads, Parsia INTEL +570
+|-
+|''Vice-Captain''||256,350 ||160,351 ||1,624,453 ||AFFCT 88,790 ||1440 B-Tads, Parsia INTEL +570
+|-
+|''Captain''||262,636 ||163,426 ||1,652,290 ||AFFCT 89,195 ||1440 B-Tads, Parsia INTEL +570
+|}
+
+==Pyratism Saintess==
+'''Area:'''  Power Nexus
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Pyratism Saintess||305,423 ||184,244 ||1,841,094 ||AFFCT 91,795 || Hamster Loans, 100 W-Tads, Travel Speedup +140m, [[Cuneiform Tablet]] Frag +40
+|}
+
+==Slipper Legion==
+'''Area:'''  Military Precinct
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Slipper Legion ||353,354 ||207,280 ||2,062,500 ||AFFCT 94,175 ||Hamster Loans, 100 W-Tads, Travel Speedup +150m, Mutantigen +5
+|-
+|''Boot Machine Gunner''||301,518 ||182,352 ||1,823,917 ||AFFCT 91,570 ||1460 B-Tads, Parsia INTEL +580
+|-
+|''Flip-Flop Signalman''||314,359 ||188,560 ||1,882,510 ||AFFCT 92,260 ||1460 B-Tads, Parsia INTEL +580
+|-
+|''Sandals Artilleryman''||333,151 ||197,604 ||1,969,327 ||AFFCT 93,200 ||1460 B-Tads, Parsia INTEL +580
+|}
+
+==Tycoon==
+'''Area:'''  Commerce Ring
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Tycoon||409,693 ||234,054 ||2,319,170 ||AFFCT 96,730 ||Hamster Loans, 100 W-Tads, Travel Speedup +160m, Special Lab Box +5, Parsia Arcana Fragment
+|-
+|''7-Figure Bodyguard''||348,180 ||204,806 ||2,038,689 ||AFFCT 93,930 ||1480 B-Tads, Parsia INTEL +590
+|-
+|''Minumum-Wage Bodyguard''||380,378 ||220,159 ||2,186,047 ||AFFCT 95,435 ||1480 B-Tads, Parsia INTEL +590
+|}
+
+==Hamster Corp CEO==
+'''Area:'''  Metropole
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Hamster Corp CEO||476,149 ||265,289 ||2,617,904 ||AFFCT 99,455 ||Hamster Loans, 100 W-Tads, Travel Speedup +170m, Gold Bar +3
+|-
+|''Mountain-Shaking Tiger''||397,640 ||228,351 ||2,264,463 ||AFFCT 96,205 ||1500 B-Tads, Parsia INTEL +600
+|-
+|''Far-Sighted Eagle''||415,883 ||236,977 ||2,347,222 ||AFFCT 96,995 ||1500 B-Tads, Parsia INTEL +600
+|-
+|''Battle-Hardened Wolf''||422,209 ||239,961 ||2,375,921 ||AFFCT 97,265 ||1500 B-Tads, Parsia INTEL +600 
+|-
+|''Scape-Goat''||428,553 ||242,951 ||2,404,517 ||AFFCT 97,530 ||1500 B-Tads, Parsia INTEL +600 
+|-
+|''LinkedIn Premium Donkey''||434,988 ||245,983 ||2,433,416 ||AFFCT 97,800 ||1500 B-Tads, Parsia INTEL +600 
+|-
+|''Congee Container''||441,528 ||249,059 ||2,462,769 ||AFFCT 98,070 ||1500 B-Tads, Parsia INTEL +600 
+|-
+|''Dung-stirring Stick''||458,465 ||257,011 ||2,538,764 ||AFFCT 98,760 ||1500 B-Tads, Parsia INTEL +600 
+|}
+
+==Golden Toad-Lis==
+'''Area:'''  Financier's Core
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Golden Toad-Lis||548,470 ||299,171 ||2,926,633 ||AFFCT 102,330 ||Hamster Loans, 100 W-Tads, Travel Speedup +3h, Muntantigen +5, Parsia Arcana Fragment
+|}
+
+
+=Looped Apostles=
+After you dominate all initial apostles in Parsia and Sky City, ringing the Sky City bell will introduce new apostles in both areas. These apostles can be reset, or "looped" again with rising difficulty levels.
+
+==Professional Funeral Crew==
+'''Area:'''  No-Fly Zone
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Professional Funeral Crew
+|
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+|}
+|-
+|}
+
+==Divine Guan Yu==
+'''Area:'''  Skyport
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Divine Guan Yu
+|
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+|}
+|-
+|}
+
+==Colonel Grandpa==
+'''Area:''' Residential Sector
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Colonel Grandpa
+|
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+|}
+|-
+|}
+
+==Oil Tycoon==
+'''Area:''' Industrial Grid
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Oil Tycoon
+|
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+|}
+|-
+|}
+
+==Gambler God==
+'''Area:''' Pleasure Dome
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Gambler God
+|
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+|}
+|-
+|}
+
+[[Category:Parsia]]
+[[Category:Missing Info]]

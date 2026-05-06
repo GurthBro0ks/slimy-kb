@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=699
+|relics=Hittite Laws,Roosevelt's Wheelchair,The Tribute Money
+|rank=purple
+|amount=3
+|category=self
+|description=Prairie Sanctum, Glorium Output +14%
+}}

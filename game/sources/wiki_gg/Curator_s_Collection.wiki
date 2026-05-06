@@ -1,0 +1,19 @@
+The {{RewardIconWithLink|Curator's Collection|orange}} is for sale in the [[Museum#Museum_Shop|Museum Shop]] for 1k {{RewardIconWithLink|Museum Medal}}.
+
+{{Retext|Use to get random rare resources (high chance: random Orange Wonder Fungus; lower chance: Incense, Golden Pickaxe, or Dragon Orb)|blue}}
+
+The drop rates are: 
+* 8.33% {{RewardIconWithLink|Dragon Orb, +1|orange}}
+* 8.33% {{RewardIconWithLink|Incense, +1|orange}}
+* 8.33% {{RewardIconWithLink|Golden Pickaxe, +1|orange}}
+* 8.33% {{RewardIconWonderFungusWithText|Orange|HP|orange}} +2
+* 8.33% {{RewardIconWonderFungusWithText|Orange|ATK|orange}} +2
+* 8.33% {{RewardIconWonderFungusWithText|Orange|DEF|orange}} +2
+* 8.33% {{RewardIconWonderFungusWithText|Orange|RUSH|orange}} +2
+* 8.33% {{RewardIconWonderFungusWithText|Orange|FAME|orange}} +2
+* 8.33% {{RewardIconWonderFungusWithText|Orange|ART|orange}} +2
+* 8.33% {{RewardIconWonderFungusWithText|Orange|FTH|orange}} +2
+* 8.33% {{RewardIconWonderFungusWithText|Orange|CIV|orange}} +2
+* 8.33% {{RewardIconWonderFungusWithText|Orange|TECH|orange}} +2
+
+[[Category:Reward Pack]]

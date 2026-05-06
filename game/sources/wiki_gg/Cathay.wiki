@@ -1,0 +1,30 @@
+{{Location|title=Cathay|imagecaption=Map of Cathay|type=|image=File:CathayFullMap.png}}
+
+==Cathay==
+Golden days of heroes flow away like rivers, while the hills silently watch the sun rise and fall.
+
+Welcome to Cathay! Rose Garden, Emerald Villa, Starry Mansion, and Central Plaza are all great tourist attractions! If you would like to purchase a house, be sure to contact Mr. Zhang: 188xxxx345. The first three customers who call in each day will enjoy a $20 discount!
+
+Cathay is the 3rd of 8 [[Realms]].
+{{realm table}}
+
+==INTEL==
+See [[Cathay INTEL]] for INTEL tables.
+
+==Apostles ==
+See [[Cathay Apostles]] for each Apostles' stats.
+
+==Card Conversions==
+See [[Cathay Cards]] for a list of all limited cards in Cathay and what they can be redeemed for.
+
+==Key Clue Records==
+See [[Cathay Key Clues]] for a list of all Key Clues in Cathay, how to complete them, and what they reward.
+
+==Cathay Generals==
+See [[Cathay Generals]] to see more about where to obtain generals, stats, formations, and more.
+
+==Realm Trait - Supreme Warlord==
+See [[Supreme Warlord]] for information on cost, stats, and unsealing. 
+
+[[Category:Realm]]
+[[Category:Cathay]]

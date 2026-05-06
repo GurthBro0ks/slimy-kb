@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=607
+|relics=Rameau's Nephew,Kurgan Stelae
+|rank=blue
+|amount=2
+|category=self
+|description=Snail RUSH +50
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=558
+|relics=Dialectics of Nature,Nightingale Medal,Ansidei Madonna,Holy Grail,Frederick Portrait
+|rank=orange
+|amount=5
+|category=self
+|description=In the Gaia Rocket Cabin: All device base effects +10%
+}}

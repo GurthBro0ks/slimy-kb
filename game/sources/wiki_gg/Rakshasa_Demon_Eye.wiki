@@ -1,0 +1,23 @@
+{{CargoOrgan
+|name=Rakshasa Demon Eye
+|type=Bionic
+|rank=red
+|id=10716
+|idx=74
+|description="We ran through the endless mist, but could never escape the massive eye watching us... like a nightmare from which we can never wake."
+— Demon King's Revelation
+|skill=Shoot a spiritual ray, dealing DMG equal to 220% of ATK!
+|hp=2280
+|def=225
+|atk=340
+|rush=277
+|gene1=Per Xenoking Organ implanted, {race} ATK +42
+Xenoking Organs implanted: 7/7
+|gene2=Snail Arena, Ignore Enemy DMG REDUC +8%
+|gene3=Per 30 Star Coins redeemed, {race} ATK +70
+Star Coin Redeems: 90/90
+|gene4=In Snail Arena, {race} ATK +140
+|gene5=Fire RES +120
+|gene6=Snail Arena, enemy Lifesteal Rate -40%
+|gene7=Snail Arena, Ignore Enemy DMG REDUC +8% (Awakened)
+|}}

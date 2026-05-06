@@ -1,0 +1,144 @@
+==Koryeo Apostles==
+[[Koryeo]] is divided into ten areas. At the end of each area, a large amount of of intel will be rewarded and a special boss known as an apostle can be fought. Unlocking one of these to fight does ''not'' pause your exploration and it can be fought at any point afterwards, until the current exploration ends. If you do not fight an apostle or you are defeated by apostle (or its minions), you will be unable to fight any apostle again until your next exploration. Apostles must be fought in the order they are unlocked.
+
+Defeating an apostle will reward a [[Koryeo_Cards|Kimchi Jar]] card, the rarity of which will depend on the Apostle. When an Apostle is defeated in 2 rounds or less, it is permanently Dominated, and will reward additional items. Afterwards, it can not be fought again on future explorations and the Kimchi Jar card will be given as part of the reward for finishing the Apostle's area.
+
+Some Apostles have additional fights associated with them, referred to as their minions. Each minion can only be defeated once and will not reappear on future explorations once beaten. Minions can not be dominated.
+
+After defeating [[Koryeo_Apostles#Exterminator|Exterminator]] for the first time, [[Yamato]], is unlocked. The stats for each Apostle in Koryeo and their minions (indicated in italics, if applicable) are listed below. 
+
+Rewards marked with an '''''X''''' are obtained when dominating an Apostle and can only be obtained once. Rewards marked '''''Once''''' are obtained the first time the Apostle is defeated, even if it was not dominated.
+
+==Idol Boy==
+'''Area:''' Southern Seaul
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Idol Boy
+|18
+|1
+|27
+|None
+|Kimchi Jar, {{RewardIconWithText|Meal Box Size, +1000}}<sup>'''Once'''</sup>, Zombie Cell +200<sup>'''X'''</sup>, {{RewardIconWithLink|INTEL Manual|black|Koryeo_INTEL#INTEL_Manual}}<sup>'''X'''</sup>, [[File:Bewitching Eye.png|frameless|50x50px|link=Bewitching Eye]][[Bewitching Eye|<span style="color:#22d3d0;">10 Bewitching Eye Sample</span>]]<sup>'''X'''</sup>
+|}
+
+==Tycoon==
+'''Area:''' Gyeonkkido
+{|class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Tycoon||14||6||64||None||Kimchi Jar, {{RewardIconWithText|Meal Box Size, +1200}}<sup>'''Once'''</sup>, {{RewardIconWithText|Travel Speedup, +90m}}<sup>'''X'''</sup>, [[File:Golden Abs.png|frameless|50x50px|link=Golden Abs]][[Golden Abs|<span style="color:#22d3d0;">10 Golden Abs Sample</span>]]<sup>'''X'''</sup>
+|-
+|''Director Choy'' ||16||3||43||None||540 B-tads, INTEL +120 
+|-
+|''Young Tycoon''||16||4||47||None||540 B-tads, INTEL +120
+|}
+
+==Skating Princess==
+'''Area:''' Kangwon Do
+{|class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Skating Princess||33||27||99||ART 29||Kimchi Jar, {{RewardIconWithText|Meal Box Size, +1500}}<sup>'''Once'''</sup>, {{RewardIconWithText|Travel Speedup, +90m}}<sup>'''X'''</sup>, [[File:Silicone Gel Implant.png|frameless|50x50px|link=Silicone Gel Implant]][[Silicone Gel Implant|<span style="color:#22d3d0;">10 Silicone Gel Implant Sample</span>]]<sup>'''X'''</sup>
+|-
+|''Little Snowman''||25||20||88||ART 18||580 B-tads, Koryeo INTEL +140
+|}
+
+==Godpapa==
+'''Area:''' Chungnam
+{|class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Godpapa||85||56||253||FAME 10||<span style="color:#40da25;">Kimchi Jar</span>, {{RewardIconWithText|Meal Box Size, +1800}}<sup>'''Once'''</sup>, {{RewardIconWithLink|Lottery Machine No. 1}}<sup>'''Once'''</sup>, {{RewardIconWithText|Travel Speedup, +90m}}<sup>'''X'''</sup>
+|-
+|''Bugsy''||32||27||101||FAME 28||580 B-tads, Koryeo INTEL +140
+|-
+|''Rattler''||54||39||178||FAME 36||580 B-tads, Koryeo INTEL +140
+|-
+|''Cat''||10||10||10||FAME 10||580 B-tads, Koryeo INTEL +140
+|}
+
+==Tombstone Carrier==
+'''Area:''' Gyeongsang
+{|class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Tombstone Carrier||180||78||626||FTH 106||<span style="color:#40da25;">Kimchi Jar</span>, {{RewardIconWithText|Meal Box Size, +1800}}<sup>'''Once'''</sup>, {{RewardIconWithText|Travel Speedup, +90m}}<sup>'''X'''</sup>
+|-
+|''Tomba''||91||55||290||FTH 43||600 B-tads, Koryeo INTEL +150
+|-
+|''Tombi''||109||60||352||FTH 50||600 B-tads, Koryeo INTEL +150
+|-
+|''Tombu''||116||64||432||FTH 56||600 B-tads, Koryeo INTEL +150
+|-
+|''Tombe''||129||66||460||FTH 62||600 B-tads, Koryeo INTEL +150
+|-
+|''Tombo''||138||63||521||FTH 66||600 B-tads, Koryeo INTEL +150
+|}
+
+==Rumbo==
+'''Area:''' Encheon
+{|class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Rumbo||318||124||1,642||TECH 218||<span style="color:#22d3d0;">Kimchi Jar</span>, {{RewardIconWithText|Meal Box Size, +2000}}<sup>'''Once'''</sup>, {{RewardIconWithText|Travel Speedup, +90m}}<sup>'''X'''</sup>, Organ Chest +100<sup>'''X'''</sup>
+|}
+
+==Executioner==
+'''Area:''' Pusan
+{|class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Executioner||433||251||2,784||FTH 488||<span style="color:#22d3d0;">Kimchi Jar</span>, {{RewardIconWithText|Meal Box Size, +2500}}<sup>'''Once'''</sup>, {{RewardIconWithText|Travel Speedup, +90m}}<sup>'''X'''</sup>
+|-
+|''Death Inmate A''||343||159||1,988||FTH 216||650 B-tads, Koryeo INTEL +170
+|-
+|''Death Inmate B''||358||180||2,175||FTH 355||650 B-tads, Koryeo INTEL +170
+|}
+
+==Gvent Guru==
+'''Area:''' Jejo Island
+{|class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Gvent Guru||688||376||4,706||CIV 632||<span style="color:#ee96d5;">Kimchi Jar</span>, {{RewardIconWithText|Meal Box Size, +2900}}<sup>'''Once'''</sup>, {{RewardIconWithText|Travel Speedup, +100m}}<sup>'''X'''</sup>, [[File:Lucky Phalange.png|frameless|50x50px|link=Lucky Phalange]][[Lucky Phalange|<span style="color:#ee96d5;">20 Lucky Phalange Sample</span>]]<sup>'''X'''</sup>
+|}
+
+==Mutant Hairsnake==
+'''Area:''' Northern Seaul
+{|class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Mutant Hairsnake||1,133||650||7,034||TECH 903||<span style="color:#ee96d5;">Kimchi Jar</span>, {{RewardIconWithText|Meal Box Size, +2900}}<sup>'''Once'''</sup>, {{RewardIconWithText|Travel Speedup, +110m}}<sup>'''X'''</sup>, [[File:Mutated Tentacle.png|frameless|50x50px|link=Mutated Tentacle]][[Mutated Tentacle|<span style="color:#ee96d5;">20 Mutated Tentacle Sample</span>]]<sup>'''X'''</sup>
+|-
+|''Host''||688||370||4,785||TECH 625||680 B-tads, Koryeo INTEL +190
+|-
+|''Host''||713||424||5,036||TECH 654||680 B-tads, Koryeo INTEL +190
+|-
+|''Host''||765||471||5,233||TECH 681||680 B-tads, Koryeo INTEL +190
+|-
+|''Host''||801||510||5,501||TECH 720||680 B-tads, Koryeo INTEL +190
+|-
+|''Host''||912||563||5,863||TECH 769||680 B-tads, Koryeo INTEL +190
+|-
+|''Host''||1,001||601||6,134||TECH 829||680 B-tads, Koryeo INTEL +190
+|-
+|}
+
+==Exterminator==
+'''Area:''' Kanghwa
+{|class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Weakness !! Reward
+|-
+|Exterminator||1,470||1,087||8,970||TECH 1,204||<span style="color:#ffb066;">Kimchi Jar</span>, {{RewardIconWithText|Meal Box Size, +3100}}<sup>'''Once'''</sup>, {{RewardIconWithText|Travel Speedup, +2h}}<sup>'''X'''</sup>
+|-
+|''Tank''||1,130||701||6,780||TECH 886||700 B-tads, Koryeo INTEL +200
+|-
+|''Submarine''||1,240||820||7,348||TECH 915||700 B-tads, Koryeo INTEL +200
+|-
+|''Aircraft''||1,291||908||7,936||TECH 936||700 B-tads, Koryeo INTEL +200
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Koryeo]]

@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Mutant Beast Eye
+|type=Bionic
+|rank=blue
+|id=10653
+|idx=10
+|description=An alien pupil, gold and slit-crossed, radiating I-will-end-you vibes.
+|skill=Unleash beast aura, dealing DMG equal to 143.2% of ATK, and increase next round's CRIT by 11%!
+|hp=630
+|def=161
+|atk=95
+|rush=98
+|gene1=During exploration, Earth DMG +60
+|gene2=In explorations, {race} DEF +20
+|gene3=During exploration, CRIT DMG REDUC +5%
+|gene7=Earth DMG +90 (Awakened)
+|}}

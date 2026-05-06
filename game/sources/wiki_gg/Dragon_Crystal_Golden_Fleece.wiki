@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=30
+|relics=Dragon Crystal,Golden Fleece
+|rank=blue
+|amount=2
+|category=self
+|description=Per 400 Relic Points, Snail DEF +3;Relic Points: 10000/10000
+}}

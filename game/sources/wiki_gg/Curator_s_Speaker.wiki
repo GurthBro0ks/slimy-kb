@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Curator's Speaker
+|class_id=20388
+|rank=Green
+|affct=TECH
+|source=
+|description=The curator's old and worn speaker has experienced the peak of bustling crowds in the exhibit hall and the lows of empty galleries. Its sound is no longer as crisp as it once was, but the curator still hasn't discarded it!
+|fame=13
+|art=13
+|fth=18
+|civ=16
+|tech=30
+|ss1=Per Special Tourist unlocked, Snail RUSH +2<br>Special Tourists unlocked: 20/20
+|ss2=Per Special Tourist unlocked, Snail RUSH +3<br>Special Tourists unlocked: 20/20
+|ss3=Per Special Tourist unlocked, Snail RUSH +4<br>Special Tourists unlocked: 20/20
+|ss4=Per Special Tourist unlocked, Snail RUSH +4<br>Special Tourists unlocked: 20/20
+|ss7=Per Special Tourist unlocked, Snail RUSH +4<br>Special Tourists unlocked: 20/20<br> (Awakened)
+}}

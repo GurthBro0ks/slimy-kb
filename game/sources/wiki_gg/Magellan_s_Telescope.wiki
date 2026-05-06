@@ -1,0 +1,41 @@
+{{CargoRelic
+|name=Magellan's Telescope
+|rank=SSS
+|affct=FAME
+|birthday=02-03
+|source=Grandmaster Scroll (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wishing (0.09%)
+|description=On Feb 3, AD 1519, Magellan entered the Pacific Ocean using this telescope.
+
+Magellan had been trapped in South America for several months. His route was blocked, so he had to find another way. He discovered a narrow strait in the north, with rough water and mountain peaks on both sides. A group of penguins appeared, filing by in a long line, crossing between the mountains and glaciers. Magellan believed that there must be a way out ahead. After sailing for three months, he entered the Pacific Ocean. 
+
+[Magellan Voyage Route]
+
+Starting Point: Europe, then to Atlantic, to Strait of Magellan, to Pacific, to Indian Ocean, to Cape of Good Hope, to Atlantic, to Europe
+|fame=108
+|art=48
+|fth=70
+|civ=69
+|tech=67
+|ss1=Travel SPD +0.6%<br>In explorations, B-tads gained +1.2%<br>In explorations, INTEL gained +1.8%
+|ss2=Travel SPD +0.8%<br>In explorations, B-tads gained +1.6%<br>In explorations, INTEL gained +2.4%
+|ss3=Travel SPD +1%<br>In explorations, B-tads gained +2%<br>In explorations, INTEL gained +3%
+|ss4=Travel SPD +1.4%<br>In explorations, B-tads gained +2.8%<br>In explorations, INTEL gained +4.2%
+|ss5=Travel SPD +1.8%<br>In explorations, B-tads gained +3.6%<br>In explorations, INTEL gained +5.4%
+|ss6=Travel SPD +2.4%<br>In explorations, B-tads gained +4.8%<br>In explorations, INTEL gained +7.2%
+|ss7=Travel SPD +2.4%<br>In explorations, B-tads gained +4.8%<br>In explorations, INTEL gained +7.2%<br>In explorations, INTEL gained +6% (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Travel SPD +9%
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, B-tads gained +15%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, INTEL gained +15%
+|mirage={{#invoke:snailDB|parseMirage|Magellan's Telescope}}
+}}
+
+[[Category:Relics]]
+[[Category:Orange Relics]]
+[[Category:FAME Relics]]
+[[Category:Orange FAME Relics]]
+[[Category:Travel Speed Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]

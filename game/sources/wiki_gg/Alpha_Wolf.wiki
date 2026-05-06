@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Alpha Wolf
+|rank=orange
+|cabin=2
+|id=129
+|gene1={race} HP +500
+|gene2={race} ART +50
+|gene3=Each round, {race} HP +300
+|gene4=Per 60 Mutant Minions in battle,
+Troop Water DMG +6
+|gene5=Gene Simulation Power Checks -0.9%
+|gene6=Per 60 Mutant Minions in battle,
+Troop Water DMG +10
+|gene7=Gene Simulation Power Checks -1.5%
+|}}

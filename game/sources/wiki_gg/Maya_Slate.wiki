@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Maya Slate
+|rank=SSS
+|affct=FTH
+|birthday=03-11
+|source=Dragon Chest (0.1%), Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.06%)
+|description=On Mar 11, AD 900, this prophecy stone was buried in the mountains of Honduras after a sacrifice.
+
+On this day, Maya priests engraved their prophecy that the world will end in a thousand years. On this stone slab is written: The Fifth Era has ended. A new century begins. The crocodile god will flood the earth, wiping humans from the planet. However, this prophecy did not come true. Instead, these New Age pseudo-scientists were exposed as being frauds.
+|fame=56
+|art=55
+|fth=109
+|civ=70
+|tech=72
+|ss1=Snail ATK +30<br>B-tad rewards from offering +1.2%<br>Per 40 wishes made, Snail ATK +12<br>Wishes Made: 400/400
+|ss2=Snail ATK +40<br>B-tad rewards from offering +1.6%<br>Per 40 wishes made, Snail ATK +16<br>Wishes Made: 400/400
+|ss3=Snail ATK +50<br>B-tad rewards from offering +2%<br>Per 40 wishes made, Snail ATK +20<br>Wishes Made: 400/400
+|ss4=Snail ATK +70<br>B-tad rewards from offering +2.8%<br>Per 40 wishes made, Snail ATK +28<br>Wishes Made: 400/400
+|ss5=Snail ATK +90<br>B-tad rewards from offering +3.6%<br>Per 40 wishes made, Snail ATK +36<br>Wishes Made: 400/400
+|ss6=Snail ATK +120<br>B-tad rewards from offering +4.8%<br>Per 40 wishes made, Snail ATK +48<br>Wishes Made: 400/400
+|ss7=Snail ATK +120<br>B-tad rewards from offering +4.8%<br>Per 40 wishes made, Snail ATK +48<br>Wishes Made: 400/400<br>B-tad rewards from offering +4% (Awakened)
+|skill1=[[File:Bharata skill III.png|50x50px]]Place in Bharata Museum: Medal Output +30
+|skill2=[[File:Bharata skill III.png|50x50px]]Place in Bharata Museum: In Bharata, 2x Blue Reagent Drops +15%
+|skill3=[[File:Bharata skill III.png|50x50px]]Place in Bharata Museum: In Bharata, 2x Purple Reagent Drops +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:Offering Reward Boost]]
+[[Category:Enhanced by Wishes]]
+[[Category:Wishing Boost]]
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Medal Boost]]
+[[Category:Tadpole Pond Boost]]
+[[Category:Offering Speed Boost]]
+[[Category:Rewards Crystal of Will]]
+[[Category:Rewards Wish Coin]]

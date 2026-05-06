@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Torricelli's Barometer
+|class_id=22103
+|rank=Blue
+|affct=TECH
+|birthday=05-08
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On May 8, 1643 AD, Torricelli collaborated with Viviani to create the world's first mercury barometer.<br>The mercury barometer is Torricelli's most important invention. As a student and assistant of Galileo, he strongly supported Galileo's theories and experiments. In an experiment to test the existence of a vacuum, he noticed that, after filling a glass tube with mercury, the mercury would fall to the same level, regardless of the tube's length or angle. This discovery led to the method of measuring atmospheric pressure by the level of mercury in a tube, thus creating the barometer, and cementing his name in the history books.
+|fame=28
+|art=20
+|fth=34
+|civ=24
+|tech=48
+|ss1=Snail ATK +10
+|ss2=Snail ATK +20
+|ss3=Snail ATK +30
+|ss4=Snail ATK +50
+|ss7=Snail ATK +50<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail HP +200
+}}

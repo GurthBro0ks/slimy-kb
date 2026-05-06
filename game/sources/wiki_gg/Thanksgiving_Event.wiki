@@ -1,0 +1,28 @@
+{{Missing Info}}
+
+= Thanksgiving Event =
+[[File:Thanksgiving Event Poster.png|200px|left|alt=Thanksgiving Event]]
+Nov. 22 - Nov. 28 2024
+
+'''Official News Announcement:''' https://snail-na.qcplay.com/official/news-details.html?id=104
+{{Clear}}
+
+= Relic Rewards =
+* {{ImageWithLink|Celestial Throne|orange}}
+* {{ImageWithLink|Horn of Abundance|green}}
+* {{ImageWithLink|Pardoned Turkey|green}}
+
+= Decoration Rewards =
+* {{RewardIconWithText|Wine Jar|orange}} ([[Taoist Yu Ji]] Decoration)
+* {{RewardIconWithLink|Wine Stove|purple}} ([[Taoist Yu Ji]] Decoration)
+* {{RewardIconWithText|Wine Tag|blue}} ([[Taoist Yu Ji]] Decoration)
+* {{RewardIconWithLink|Wine Urn|green}} ([[Taoist Yu Ji]] Decoration)
+
+= Robot Rewards =
+* {{RewardIconWithLink|Treant|orange|Robots}}
+
+= Shell Rewards =
+* {{RewardIconWithLink|Festive Flower Truck|purple}}
+* {{RewardIconWithLink|Whispering Praise|purple}}
+
+[[Category:Events]]

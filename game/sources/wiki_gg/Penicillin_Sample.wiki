@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=Penicillin Sample
+|rank=Blue
+|affct=TECH
+|birthday=01-08
+|source=Lottery Machine (0.03%), Wishing (1.1%), Evolution Chest (2%)
+|description=On Jan 8, 1928, humans discovered and used antibiotics for the first time in the medical field. 
+
+Fleming found a new colony in the petri dish in the lab and published a thesis about it. Penicillin saved the lives of countless soldiers 13 years later, and even turned the tides during the World War. This antibiotic gained attention worldwide and was eventually widely used in the medical field.
+
+[Basic Info]
+
+Name: Penicillin G. Alias: Penicillin. Type: Prescription drug. Precaution: Safe for athletes.
+|fame=23
+|art=24
+|fth=29
+|civ=31
+|tech=47
+|ss1=When crafting a Blue Reagent, +1% to get +1
+|ss2=When crafting a Blue Reagent, +2% to get +1
+|ss3=When crafting a Blue Reagent, +3% to get +1
+|ss4=When crafting a Blue Reagent, +5% to get +1
+|ss7=When crafting a Blue Reagent, +5% to get +1<br>When crafting a Blue Reagent, +5% to get +1 (Awakened)
+|skill1=[[File:Lumbercamp skill I.png|50px]]Place in Lumber Camp: Wood Output +5%
+}}
+
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:TECH Relics]]
+[[Category:Blue TECH Relics]]
+[[Category:Reagent Crafting Boost]]
+[[Category:Lumber Camp Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Lottery Bead Color Change]]

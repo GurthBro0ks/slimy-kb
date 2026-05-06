@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20741_1
+|class_id=20741
+|rank=Green
+|affct=FAITH
+|source=
+|description=collection@20741_2
+|fame=19
+|art=13
+|fth=29
+|civ=14
+|tech=15
+|ss1=Per 10 Minions in battle:<br>> Troop ATK +10
+|ss2=Per 10 Minions in battle:<br>> Troop ATK +20
+|ss3=Per 10 Minions in battle:<br>> Troop ATK +30
+|ss4=Per 10 Minions in battle:<br>> Troop ATK +30
+|ss7=Per 10 Minions in battle:<br>> Troop ATK +30<br> (Awakened)
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Mr. Confident's Hat
+|class_id=20339
+|rank=Green
+|affct=TECH
+|source=
+|description=As the spokesperson of Confident Toothpaste for decades, the image of Mr. Confident is highly recognizable, especially this towering top hat, which not only makes the wearer more attractive but also helps get closer to customers with nostalgic vibes. Naturally, such an iconic headwear is certainly a worthy collection!
+|fame=15
+|art=11
+|fth=17
+|civ=16
+|tech=31
+|ss1=The Pond has a +2% chance to produce W-tads
+|ss2=The Pond has a +4% chance to produce W-tads
+|ss3=The Pond has a +6% chance to produce W-tads
+|ss4=The Pond has a +6% chance to produce W-tads
+|ss7=The Pond has a +6% chance to produce W-tads<br> (Awakened)
+}}

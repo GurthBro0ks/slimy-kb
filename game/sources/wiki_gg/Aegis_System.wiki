@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Aegis System
+|class_id=21808
+|rank=SSS
+|affct=TECH
+|birthday=09-15
+|source=
+|description=On Sep 15, 1969 AD, this latest Warship Air Defense System was installed and used for the first time.<br>The system has been equipped on Ticonderoga-class cruisers and Arleigh Burke-class destroyers, it has become the benchmark for a new generation of shipborne-air defense systems. However, the main component of the AESA Radar, the phase shifter, can be easily damaged and is expensive. Regular maintenance is costly.
+[Composition system]
+AN/SPG-62 target illumination radar. MK 79 guide and data conversion device. AN/SPY-1A radar. AN/SPG-62 radar.
+|fame=65
+|art=72
+|fth=53
+|civ=66
+|tech=106
+|ss1=Per 60 Mecha Minions in battle:<br>> Troop HP +90<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +9<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Per 60 Mecha Minions in battle:<br>> Troop HP +180<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +18<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Per 60 Mecha Minions in battle:<br>> Troop HP +270<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +27<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Per 60 Mecha Minions in battle:<br>> Troop HP +450<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +45<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Per 60 Mecha Minions in battle:<br>> Troop HP +630<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +63<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Per 60 Mecha Minions in battle:<br>> Troop HP +900<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +90<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Per 60 Mecha Minions in battle:<br>> Troop HP +900<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +90<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Mecha Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's TECH +15
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, B-tads gained +15%
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Cells collected +30%
+|mirage={{Mirage|name=Anti-Satiation Attack|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=Vertical Launcher|3rec=3.23M|3atk=44107|3defense=29096|3hp=653660|3weak=9613
+|4name=Anti-Aircraft Missile 3|4rec=6.27M|4atk=64031|4defense=42239|4hp=1237996|4weak=12301
+|5name=Phalanx CIWS|5rec=11.46M|5atk=88694|5defense=58508|5hp=2263524|5weak=14515
+|6name=AESA Radar|6rec=24.23M|6atk=118221|6defense=77986|6hp=3763064|6weak=18021
+|Arec=40.43M|Aatk=152771|Adefense=100777|Ahp=6075513|Aweak=19359
+}}}}

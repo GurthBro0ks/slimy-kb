@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description= To join the tournament, the Hammer Terminator changed its head to a hammer. It led to victory, but also to its eventual death...
+|affct=TECH
+|hard=DEF
+|source=
+{{Memetic Catalyst
+|number=3934
+|relic1=Costa Rica Stone
+|relic2=Galileo's Ball
+|relic3=Archimedes' Lever
+|relic4=Devol's Robot
+|relic5=Mars Rover
+}}
+|color=green
+|earth=1
+|water=1
+|fire=2
+|wind=2
+|form=Mecha
+|element=Earth
+|realm=Bharata
+|orangehard=HP
+}}

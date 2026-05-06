@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=The Key of Solomon
+|class_id=21919
+|rank=SS
+|affct=FAITH
+|birthday=03-31
+|source=
+|description=On Mar 31, 323 BC, Alexander cut open the lock that kept the treasure of King Solomon.<br>The legendary Key of Solomon could unlock King Solomon's treasure, but was later destroyed at the hands of Alexander, the "conquering king." Therefore, the 72 spirits sealed inside the vessel by King Solomon could not enter our world, and the sword of Damocles that hung over the heads of rulers vanished forever.
+|fame=64
+|art=65
+|fth=104
+|civ=54
+|tech=60
+|ss1=Per 60 Demon Minions in battle:<br>> Troop ATK +9<br>Per 60 Demon Minions in battle:<br>> Troop DEF +9<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Per 60 Demon Minions in battle:<br>> Troop ATK +18<br>Per 60 Demon Minions in battle:<br>> Troop DEF +18<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Per 60 Demon Minions in battle:<br>> Troop ATK +27<br>Per 60 Demon Minions in battle:<br>> Troop DEF +27<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Per 60 Demon Minions in battle:<br>> Troop ATK +45<br>Per 60 Demon Minions in battle:<br>> Troop DEF +45<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Per 60 Demon Minions in battle:<br>> Troop ATK +63<br>Per 60 Demon Minions in battle:<br>> Troop DEF +63<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Per 60 Demon Minions in battle:<br>> Troop ATK +90<br>Per 60 Demon Minions in battle:<br>> Troop DEF +90<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Per 60 Demon Minions in battle:<br>> Troop ATK +90<br>Per 60 Demon Minions in battle:<br>> Troop DEF +90<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Quary skill III.png|50px]]Place in Quarry: Quarry Max Cap +30%
+|skill2=[[File:Quary skill III.png|50px]]Place in Quarry: This Relic's FTH +15
+|skill3=[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: Max Cap +30%
+|mirage={{Mirage|name=Dark Magic|reward={{RewardIconWithLink|Offering Speedup, +28800|orange}}
+|3name=Curse Circle|3rec=5.41M|3atk=58019|3defense=38926|3hp=1072975|3weak=12002
+|4name=Summon Circle|4rec=11.39M|4atk=86937|4defense=58329|4hp=2163530|4weak=14404
+|5name=Circle of Destruction|5rec=27.54M|5atk=123182|5defense=82647|5hp=4085563|5weak=18316
+|Arec=48.32M|Aatk=166743|Adefense=111873|Ahp=7187730|Aweak=20024
+}}}}

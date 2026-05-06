@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=761
+|relics=Argonautica,Poincaré Conjecture,Fenian Cycle,Bencao Gangmu,The Blue Danube,Star of Adam
+|rank=orange
+|amount=6
+|category=self
+|description=Merge 1 Orange Stardust: Gain 1 more by 12%
+}}

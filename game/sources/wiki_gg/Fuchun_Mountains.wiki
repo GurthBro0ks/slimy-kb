@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Fuchun Mountains
+|rank=AA
+|affct=ART
+|birthday=08-09
+|source=Expert Scrolls (0.95%), Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.36%)
+|description=On Aug 9, AD 1350, Huang Gongwang created this ink painting that had a great influence on future ink paintings.
+
+Huang Gongwang lived in seclusion in Fuchun River and spent 7 years making this painting. He worked tirelessly to complete this piece by observing the changing clouds of the river and mastering the art of fishing. The river, shores, and peaks of the painting that changes between seasons were presented with free yet natural strokes, which left a great impact on future generations.
+
+[Collectors]
+
+Huang Gongwang presented the piece to Quanzhen Sect at the end of the Yuan Dynasty<br>Collected by artist Shen Zhou during the Chenghua era of Ming<br>Burned by Wu Hongyu during the Qing Dynasty and split into 2 scrolls, Wuyong Scroll and Remaining Mountain Scroll<br>Qianlong Emperor identified the one of the scrolls, Wuyong Scroll as the fake painting<br>Remaining Mountain Scroll now belongs to the Zhejiang Museum<br>Wuyong Scroll: Now belongs to National Palace Museum
+|fame=44
+|art=66
+|fth=33
+|civ=44
+|tech=41
+|ss1=Fungus Farm upgrade Wood Cost -2%<br>Per 5 Fungus Farm LVLs, Snail HP +80<br>Fungus Farm LVL: 50/50
+|ss2=Fungus Farm upgrade Wood Cost -3%<br>Per 5 Fungus Farm LVLs, Snail HP +120<br>Fungus Farm LVL: 50/50
+|ss3=Fungus Farm upgrade Wood Cost -4%<br>Per 5 Fungus Farm LVLs, Snail HP +160<br>Fungus Farm LVL: 50/50
+|ss4=Fungus Farm upgrade Wood Cost -6%<br>Per 5 Fungus Farm LVLs, Snail HP +240<br>Fungus Farm LVL: 50/50
+|ss5=Fungus Farm upgrade wood cost -8%<br>Per 5 Fungus Farm LVLs, Snail HP +320<br>Fungus Farm LVLs: 50/50
+|ss7=Fungus Farm upgrade wood cost -8%<br>Per 5 Fungus Farm LVLs, Snail HP +320<br>Fungus Farm LVLs: 50/50<br>Fungus Farm upgrade wood cost -7% (Awakened)
+|skill1=[[File:Cathay skill II.png|50px]] Place in Cathay Museum: In Cathay, INTEL gained +7.5%
+|skill2=[[File:Cathay skill II.png|50px]] Place in Cathay Museum: In Cathay, 2x Green Reagent Drops +7.5%
+}}
+
+[[Category:Fungus Farm Upgrade Cost Reduction]]
+[[Category:HP Boost]]
+[[Category:Fungus Farm Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Lottery Machine Boost]]
+[[Category:Gene Research Speedup Boost]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Enhanced by Fungus Farm LVL]]

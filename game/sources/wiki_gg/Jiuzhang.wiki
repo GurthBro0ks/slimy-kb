@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Jiuzhang
+|class_id=22340
+|rank=SSS
+|affct=TECH
+|birthday=12-02
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Dec 2, 2020 AD, the quantum computer Jiuzhang was completed.<br>Jiuzhang is a state-of-the-art quantum computer that has one trillion times the speed of the currently most powerful supercomputer when dealing with Gaussian boson sampling. Unlike traditional computers, quantum computers can process multiple coefficients on a single quantum bit simultaneously through quantum superposition, leading to a significant improvement in computing efficiency. Jiuzhang is a breakthrough in the field of quantum computing.
+|fame=63
+|art=54
+|fth=75
+|civ=63
+|tech=107
+|ss1=Snail RUSH +30<br>Snail Leadership +3<br>In the Rebel Rocket Cabin:<br>> All device base effects +3%
+|ss2=Snail RUSH +40<br>Snail Leadership +4<br>In the Rebel Rocket Cabin:<br>> All device base effects +4%
+|ss3=Snail RUSH +50<br>Snail Leadership +5<br>In the Rebel Rocket Cabin:<br>> All device base effects +5%
+|ss4=Snail RUSH +70<br>Snail Leadership +7<br>In the Rebel Rocket Cabin:<br>> All device base effects +7%
+|ss5=Snail RUSH +90<br>Snail Leadership +9<br>In the Rebel Rocket Cabin:<br>> All device base effects +9%
+|ss6=Snail RUSH +120<br>Snail Leadership +12<br>In the Rebel Rocket Cabin:<br>> All device base effects +12%
+|ss7=Snail RUSH +120<br>Snail Leadership +12<br>In the Rebel Rocket Cabin:<br>> All device base effects +12%<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's TECH +15
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Mecha Cells gained +30%
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x White Card Drops +15%
+|mirage={{Mirage|name=The Arithmetic Classic of Cathay|reward={{RewardIconWithLink|Godly Calculator Frag, +20|orange}}
+|3name=Astronomy and Mathematics|3rec=16.93M|3atk=107872|3defense=71965|3hp=3357836|3weak=17888
+|4name=Math in the Five Classics|4rec=30.06M|4atk=129195|4defense=86191|4hp=4744062|4weak=18948
+|5name=Ancient Math Continuation|5rec=41.22M|5atk=152724|5defense=101888|5hp=6484773|5weak=20168
+|6name=Math of the Five Governors|6rec=53.61M|6atk=178861|6defense=119325|6hp=8586030|6weak=22457
+|Arec=67.60M|Aatk=208358|Adefense=139004|Ahp=11286873|Aweak=27223
+}}}}

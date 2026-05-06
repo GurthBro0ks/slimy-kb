@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=574
+|relics=Tail-burned Guqin,Avogadro's Law,Book of Exodus,Yongle Encyclopedia,Water Lilies
+|rank=orange
+|amount=5
+|category=self
+|description=Catalyzed Blue Spores turn to Purple by +1%
+}}

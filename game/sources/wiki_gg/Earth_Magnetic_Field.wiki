@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Earth Magnetic Field
+|class_id=22086
+|rank=Blue
+|affct=TECH
+|birthday=07-10
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Jul 10, 1600 AD, Gilbert from Britain was the first person to propose the concept of Earth's magnetic field theory.<br>Earth's magnetic field refers to the distributed magnetic field around Earth. In this drawing, its approximate distribution is recorded in the form of magnetic field lines. The Earth's magnetic field comprises three parts: the basic magnetic field, the external magnetic field, and the magnetic anomaly. The distribution roughly presents the characteristics of a dipole, similar to the magnetic field generated when a bar magnet is placed at the center of the Earth, with its south and north poles corresponding to the Earth's south and north poles respectively. However, although the distribution of Earth's magnetic field is quite clear, the reason for its formation has not yet been concluded.
+|fame=29
+|art=24
+|fth=32
+|civ=25
+|tech=44
+|ss1=Per Realm conquered, Snail ATK +5<br>Realms Conquered: 9/9
+|ss2=Per Realm conquered, Snail ATK +10<br>Realms Conquered: 9/9
+|ss3=Per Realm conquered, Snail ATK +15<br>Realms Conquered: 9/9
+|ss4=Per Realm conquered, Snail ATK +25<br>Realms Conquered: 9/9
+|ss7=Per Realm conquered, Snail ATK +25<br>Realms Conquered: 9/9<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x Green Card Drops +1%
+}}

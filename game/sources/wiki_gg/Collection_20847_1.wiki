@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20847_1
+|class_id=20847
+|rank=Green
+|affct=TECH
+|source=
+|description=collection@20847_2
+|fame=14
+|art=13
+|fth=11
+|civ=18
+|tech=34
+|ss1=prop@59016_2<br>prop@66640_2
+|ss2=prop@59016_2<br>prop@66640_2
+|ss3=prop@59016_2<br>prop@66640_2
+|ss4=prop@59016_2<br>prop@66640_2
+|ss7=prop@59016_2<br>prop@66640_2<br> (Awakened)
+}}

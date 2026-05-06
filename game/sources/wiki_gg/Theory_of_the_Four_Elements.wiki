@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Theory of the Four Elements
+|class_id=22784
+|rank=SSS
+|affct=FAME
+|source=
+|description=The Theory of the Four Elements is a theory about the composition of matter proposed by ancient Greek philosophers. The theory posits that all matter in the world is composed of four basic elements: earth, water, air, and fire. The proponent ofThis theory, Empedocles, believed that these four elements combine and separate under the influence of two forces, love and strife, forming all things. This theory was later developed and refined by Aristotle, who introduced a fifth element, aether, to explain the composition of celestial bodies. The Theory of the Four Elements had a profound impact on multiple fields, including Western philosophy, medicine, and astrology, during the Middle Ages and beyond.
+|fame=108
+|art=59
+|fth=55
+|civ=67
+|tech=73
+|ss1=Minion Recovery SPD +1.5%<br>Per 60 Minions in battle, Troop ELMT DMG +1<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +24<br>Souls offered: 300/300 types
+|ss2=Minion Recovery SPD +2%<br>Per 60 Minions in battle, Troop ELMT DMG +2<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +32<br>Souls offered: 300/300 types
+|ss3=Minion Recovery SPD +2.5%<br>Per 60 Minions in battle, Troop ELMT DMG +3<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +40<br>Souls offered: 300/300 types
+|ss4=Minion Recovery SPD +3.5%<br>Per 60 Minions in battle, Troop ELMT DMG +5<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +56<br>Souls offered: 300/300 types
+|ss5=Minion Recovery SPD +4.5%<br>Per 60 Minions in battle, Troop ELMT DMG +7<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +72<br>Souls offered: 300/300 types
+|ss6=Minion Recovery SPD +6%<br>Per 60 Minions in battle, Troop ELMT DMG +10<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +96<br>Souls offered: 300/300 types
+|ss7=Minion Recovery SPD +6%<br>Per 60 Minions in battle, Troop ELMT DMG +10<br>Per 6 kinds of Souls offered, Priest-Snail Assistance DMG +96<br>Souls offered: 300/300 types<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Blue Reagent Drops +15%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's FAME +15
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Orange Card Drops +15%
+}}

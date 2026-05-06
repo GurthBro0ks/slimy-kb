@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Starship
+|class_id=22903
+|rank=SSS
+|affct=TECH
+|source=
+|description=Starship is a fully reusable launch system developed by SpaceX, designed to usher in a new era of human space exploration. The system consists of the Starship spacecraft and the Super Heavy booster rocket, forming a two-stage fully reusable launch vehicle, constructed from stainless steel and powered by thirty-nine Raptor engines. Starship stands approximately 121 meters tall, with a diameter of nine meters, and a maximum liftoff thrust of seven thousand tons, surpassing the Saturn V. With full reusability, Starship will significantly reduce launch costs, revolutionize satellite launch services, and mark a major advancement in human space exploration technology.
+|fame=62
+|art=50
+|fth=77
+|civ=65
+|tech=108
+|ss1=Snail Leadership +3<br>Lost Pendulum: Upgrade to Blue chance +0.3%<br>Per red reward from turning the Pendulum, Snail Murky Power +1<br>Red reward(s) obtained: 60/60
+|ss2=Snail Leadership +4<br>Lost Pendulum: Upgrade to Blue chance +0.4%<br>Per red reward from turning the Pendulum, Snail Murky Power +2<br>Red reward(s) obtained: 60/60
+|ss3=Snail Leadership +5<br>Lost Pendulum: Upgrade to Blue chance +0.5%<br>Per red reward from turning the Pendulum, Snail Murky Power +3<br>Red reward(s) obtained: 60/60
+|ss4=Snail Leadership +7<br>Lost Pendulum: Upgrade to Blue chance +0.7%<br>Per red reward from turning the Pendulum, Snail Murky Power +5<br>Red reward(s) obtained: 60/60
+|ss5=Snail Leadership +9<br>Lost Pendulum: Upgrade to Blue chance +0.9%<br>Per red reward from turning the Pendulum, Snail Murky Power +7<br>Red reward(s) obtained: 60/60
+|ss6=Snail Leadership +12<br>Lost Pendulum: Upgrade to Blue chance +1.2%<br>Per red reward from turning the Pendulum, Snail Murky Power +10<br>Red reward(s) obtained: 60/60
+|ss7=Snail Leadership +12<br>Lost Pendulum: Upgrade to Blue chance +1.2%<br>Per red reward from turning the Pendulum, Snail Murky Power +10<br>Red reward(s) obtained: 60/60<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Relic TECH +15
+|skill2=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Zone SUP effect reduced by 30%
+|skill3=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, B-tads output speed+30%
+}}

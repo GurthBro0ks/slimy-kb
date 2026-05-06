@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Manneken Pis
+|rank=AAA
+|affct=ART
+|birthday=12-19
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On December 19, 1619, Duquesnoy completed the statue of Manneken Pis, a great citizen of Brussels.
+
+The Spanish invaders wanted to blow up the city when they evacuated Brussels. A little boy managed to put out the fire with his tinkle and saved the city. This statue was built in honor of this little hero. Because the statue of the boy is naked, the number of clothes that are donated to him is even enough to fill a museum.
+
+[Destruction of Mannekin Pis]
+
+Burnt during the 17th century. French army demolished and sealed the statue in the 18th century. Homeless man Lucas smashed the statue in the 19th century. The statue was only left with two feet one day in the 20th century.
+|fame=49
+|art=75
+|fth=48
+|civ=36
+|tech=35
+|ss1=Snail DEF +30<br>In explorations, B-tads gained +1.2%
+|ss2=Snail DEF +40<br>In explorations, B-tads gained +1.6%
+|ss3=Snail DEF +50<br>In explorations, B-tads gained +2%
+|ss4=Snail DEF +70<br>In explorations, B-tads gained +2.8%
+|ss5=Snail DEF +90<br>When exploring, B-tads gained +3.6%
+|ss7=Snail DEF +90<br>When exploring, B-tads gained +3.6%<br>When exploring, B-tads gained +2.8% (Awakened)
+|skill1=[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: B-tad Output +15%
+|skill2=[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: Max Cap +15%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:ART Relics]]
+[[Category:Purple ART Relics]]
+[[Category:DEF Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Purple Relics]]

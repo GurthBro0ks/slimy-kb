@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Astronaut Cap
+|class_id=20320
+|rank=Green
+|affct=TECH
+|source=
+|description=This Astronaut Cap belonged to an alien race. Unlike Earthlings, this race lives on helium gas, so when they reach Earth, they need to wear a full protective suit. In particular, the hat on their head, which has a fully functional rebreather to ensure their survival outside the spacecraft.
+|fame=15
+|art=17
+|fth=14
+|civ=13
+|tech=31
+|ss1=Per 5 Time Machine LVLs, Snail DEF +2<br>Time Machine LVL: 50/50
+|ss2=Per 5 Time Machine LVLs, Snail DEF +4<br>Time Machine LVL: 50/50
+|ss3=Per 5 Time Machine LVLs, Snail DEF +6<br>Time Machine LVL: 50/50
+|ss4=Per 5 Time Machine LVLs, Snail DEF +6<br>Time Machine LVL: 50/50
+|ss7=Per 5 Time Machine LVLs, Snail DEF +6<br>Time Machine LVL: 50/50<br> (Awakened)
+}}

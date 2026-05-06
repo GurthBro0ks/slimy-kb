@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Einstein's Right Brain
+|type=Common
+|rank=orange
+|id=10871
+|idx=78
+|description=An organ of extraordinary insight and intuition. Einstein's right brain granted him profound perception of the universe—fueling mind-bending philosophical revelations that challenged all known laws.
+|skill=
+|hp=1734
+|def=276
+|atk=193
+|rush=202
+|gene1=Zombie Gene Research SPD +6%
+|gene2=Angel Gene Research SPD +6%
+|gene3=Demon Gene Research SPD +6%
+|gene4=Mecha Gene Research SPD +6%
+|gene5=Mutant Gene Research SPD +6%
+|gene7=Dragon Gene Research SPD +6% (Awakened)
+|}}

@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Demoiselles d'Avignon
+|rank=Blue
+|affct=ART
+|birthday=09-03
+|source=Lottery Machine (0.07%), Wishing (3%), Novice Scrolls (1%)
+|description=On Sep 3, 1907, Picasso created this masterpiece of work.
+
+Demoiselles d'Avignon is a bizarre painting that is quite unlike any traditional art. It adopts a new technique of drawing 3D art on a 2D surface. This is completely different from the concept of 3D drawing since the Renaissance. This was why people opposed his art style. Picasso said that he painted the nose crooked so that people would pay attention to it.
+
+[Basic Info]
+
+Width: 243.9 cm
+Height: 233.7cm
+Collected by: Museum of Modern Art
+Type: Oil painting
+|fame=28
+|art=44
+|fth=27
+|civ=24
+|tech=31
+|ss1=In explorations, 2x Green Reagent Drops +0.4%
+|ss2=In explorations, 2x Green Reagent Drops +0.8%
+|ss3=In explorations, 2x Green Reagent Drops +1.2%
+|ss4=In explorations, 2x Green Reagent Drops +2%
+|ss7=In explorations, 2x Green Reagent Drops +2%<br>In explorations, 2x Green Reagent Drops +2% (Awakened)
+|skill1=[[File:Tadpolepond skill I.png|50px]]Place in Tadpole Pond: This Relic's ART +5
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:ART Relics]]
+[[Category:Blue ART Relics]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:ART Boost]]
+[[Category:RUSH Boost]]
+[[Category:Exploration B-tad Drop Boost]]

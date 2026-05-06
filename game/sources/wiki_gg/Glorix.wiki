@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Glorix
+|class_id=20055
+|rank=Green
+|affct=FAME
+|source=
+|description=This crystal harbors the aura of Glory, an ancient force so potent that it compels all creatures to kneel in reverence. Beyond its overwhelming presence, the aura within can be studied to unlock the path to Godhood.
+|fame=30
+|art=18
+|fth=13
+|civ=16
+|tech=13
+|ss1=Unlock Sacred Idol Construction<br>Snail ATK +10
+|ss2=Unlock Sacred Idol Construction<br>Snail ATK +20
+|ss3=Unlock Sacred Idol Construction<br>Snail ATK +30
+|ss4=Unlock Sacred Idol Construction<br>Snail ATK +30
+|ss7=Unlock Sacred Idol Construction<br>Snail ATK +30<br> (Awakened)
+}}

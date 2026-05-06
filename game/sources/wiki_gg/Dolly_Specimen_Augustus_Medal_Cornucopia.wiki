@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Dolly Specimen,Augustus' Medal,Cornucopia
+|rank=purple
+|amount=3
+|category=other
+|description=In any Realm, Mecha Cells gained +7%
+}}
+[[Category:Other]]

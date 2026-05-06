@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Exquisite Guqin
+|class_id=22576
+|rank=AAA
+|affct=CIV
+|birthday=08-02
+|source=Lottery Machine No.3 (0.06%)
+|description=On Aug 2, 814 AD, Emperor Saga ordered this Exquisite Guqin to be stored in the treasure house of the Imperial Palace.<br>It is a treasured instrument from the Tang Dynasty and is an unparalleled solitary item among the handed-down Tang instruments. It is about three feet and four inches long, five inches wide, and the body is carved from paulownia wood. The guqin has cracks in the ice pattern, and the surface is decorated with gold and silver flat characters, figures, birds, beasts, flowers, grass, and water ripple patterns. A qin inscription was carved on it in Wei style, consisting of four lines and thirty-two characters, which says: "In music, the heart is cleansed. Although it has a positive nature, it is deeply felt. Keeping it simple and avoiding extravagance is prohibited. Straight and uncluttered, music is not obscene."
+|fame=46
+|art=43
+|fth=44
+|civ=73
+|tech=37
+|ss1=Tribal Building Construction Cost -1.2%<br>Per 100 catalysis, Snail ATK +3<br>Catalysis: 5000/5000
+|ss2=Tribal Building Construction Cost -1.6%<br>Per 100 catalysis, Snail ATK +4<br>Catalysis: 5000/5000
+|ss3=Tribal Building Construction Cost -2%<br>Per 100 catalysis, Snail ATK +5<br>Catalysis: 5000/5000
+|ss4=Tribal Building Construction Cost -2.8%<br>Per 100 catalysis, Snail ATK +7<br>Catalysis: 5000/5000
+|ss5=Tribal Building Construction Cost -3.6%<br>Per 100 catalysis, Snail ATK +9<br>Catalysis: 5000/5000
+|ss7=Tribal Building Construction Cost -3.6%<br>Per 100 catalysis, Snail ATK +9<br>Catalysis: 5000/5000<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, Troop Wind DMG +15
+|skill2=[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Fire DMG +30
+}}

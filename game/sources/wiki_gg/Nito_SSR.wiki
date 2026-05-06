@@ -1,0 +1,301 @@
+== Nito SSR ♀ ==
+An SSR character in a game. After the ultimate evolution, it exudes the sweet smell of money!
+
+=== Begin Friendship ===
+Find and explore Future [[Kemet]] and Dominate [[Past and Future Apostles#Kemet|Nito SSR]].
+===☆☆☆ > ★☆☆===
+After 13 letters back and forth, Nito will ask for 5 Lottery Tickets and rewards Lucky Voucher +50.
+===★☆☆ > ★★☆===
+After 7 letters back and forth, Nito will ask for 10 Lottery Tickets and rewards Lucky Voucher +100.
+===★★☆ > ★★★===
+After 12 letters back and forth, Nito will ask for 100 Lottery Tickets and will move in permanently with her minion, Mummy [R].
+
+==Rent==
+Nito SSR rent is collected on '''Sunday''' and is a small gacha ball on the left.
+
+[[File:Nito rent.png|left]]
+ '''Normal Rent''': {{RewardIconWithLink|Mummy SR, +5 Fragments|blue}}
+
+ '''Rare Rent''': {{RewardIconWithLink|Mummy SSR, +5 Fragments|orange}}
+
+{{Clear}}
+
+==Relics==
+Upgrading these will earn Lottery Tickets!
+{| class="mw-collapsible mw-collapsed wikitable"  
+!Relic Tier
+!Reward 
+|-
+|★
+|3 Lottery Tickets
+|-
+|★★
+|3 Lottery Tickets
+|-
+|★★★
+|3 Lottery Tickets
+|-
+|★★★★
+|4 Lottery Tickets
+|-
+|★★★★★
+|5 Lottery Tickets
+|-
+|★★★★★★
+|6 Lottery Tickets
+|}<br>
+
+{| class="wikitable" style="width:100%; text-align:center;" 
+! style="background-color:var(--orange-bg);" |{{Reimg|1001 Nights}}<br>[[1001 Nights]]
+! style="background-color:var(--orange-bg);" |{{Reimg|Golden Wheat}}<br>[[Golden Wheat]]
+! style="background-color:var(--orange-bg);" |{{Reimg|Africa Star}}<br>[[Africa Star]]
+! style="background-color:var(--orange-bg);" |{{Reimg|Lotus Chalice}}<br>[[Lotus Chalice]]
+|-
+! style="background-color:var(--orange-bg);" |{{Reimg|Mahakala Scroll}}<br>[[Mahakala Scroll]]
+! style="background-color:var(--orange-bg);" |{{Reimg|Ragnarok}}<br>[[Ragnarok]]
+! style="background-color:var(--orange-bg);" |{{Reimg|Maya Slate}}<br>[[Maya Slate]]
+! style="background-color:var(--orange-bg);" |{{Reimg|Arkanrock}}<br>[[Arkanrock]]
+|}
+
+
+==Gatcha Master==
+To max out Nito, you need not only a fat wallet but also some magical tricks
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!'''Lv.'''!!'''Research Skill Required'''!!'''B-tad Cost'''!!'''Skill 1'''!!'''Skill 2'''
+|-
+|1|| || ||FTH +5||Lottery Blue Beads turn to Purple by +0.3%
+|-
+|2||180||2,000||FTH +10||Lottery Blue Beads turn to Purple by +0.6%
+|-
+|3||190 ||4,500||FTH +15||Lottery Blue Beads turn to Purple by +0.9%
+|-
+|4|| 200||8,000||FTH +20||Lottery Blue Beads turn to Purple by +1.2%
+|-
+|5||210 || 12,500||FTH +25||Lottery Blue Beads turn to Purple by +1.5%
+|-
+|6||220||18,000||FTH +30||Lottery Blue Beads turn to Purple by +1.8%
+|-
+|7||230||24,500||FTH +35||Lottery Blue Beads turn to Purple by +2.1%
+|-
+|8||240|| 32,000||FTH +40||Lottery Blue Beads turn to Purple by +2.4%
+|-
+|9||250||40,500 ||FTH +45||Lottery Blue Beads turn to Purple by +2.7%
+|-
+|10||260||50,000||FTH +50||Lottery Blue Beads turn to Purple by +3%
+|-
+|11||270||60,500 ||FTH +55||Lottery Blue Beads turn to Purple by +3.3%
+|-
+| 12||285||72,000||FTH +60||Lottery Blue Beads turn to Purple by +3.6%
+|-
+|13||300||84,500||FTH +65||Lottery Blue Beads turn to Purple by +3.9%
+|-
+|14|| 315||98,000|| FTH +70||Lottery Blue Beads turn to Purple by +4.2%
+|-
+|15||330 ||112,000||FTH +75||Lottery Blue Beads turn to Purple by +4.5%
+|-
+|16||345||123,000||FTH +80||Lottery Blue Beads turn to Purple by +4.8%
+|-
+|17||360||144,000|| FTH +85||Lottery Blue Beads turn to Purple by +5.1%
+|-
+|18||375 ||162,000||FTH +90||Lottery Blue Beads turn to Purple by +5.4%
+|-
+|19||390||180,000||FTH +95||Lottery Blue Beads turn to Purple by +5.7%
+|-
+|20||400 ||200,000||FTH +100||Lottery Blue Beads turn to Purple by +6%
+|-
+|21||420||220,000|| FTH +105||Lottery Blue Beads turn to Purple by +6.3%
+|-
+|22|| 440||242,000||FTH +110||Lottery Blue Beads turn to Purple by +6.6%
+|-
+|23||460||264,000||FTH +115|| Lottery Blue Beads turn to Purple by +6.9%
+|-
+|24||480|| 285,000||FTH +120||Lottery Blue Beads turn to Purple by +7.2%
+|-
+|25||500 ||309,000||FTH +125||Lottery Blue Beads turn to Purple by +7.5%
+|-
+|26||520||333,000||FTH +130||Lottery Blue Beads turn to Purple by +7.8%
+|-
+|27||540||357,000||FTH +135||Lottery Blue Beads turn to Purple by +8.1%
+|-
+|28 ||560|| 381,000||FTH +140||Lottery Blue Beads turn to Purple by +8.4% 
+|-
+|29||580||405,000||FTH +145||Lottery Blue Beads turn to Purple by +8.7%
+|-
+|30 || 600||429,000||FTH +150||Lottery Blue Beads turn to Purple by +9%
+|}
+
+== Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Gacha Master is. 
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!'''Lv.'''!!'''B-tad Cost'''!!'''Skill 1'''!! '''Skill 2'''
+|-
+|1|| || Zombie Minion MAX +1||Per 10 Mummy [R]s in battle, Troop HP +100
+|-
+|2||4000||Zombie Minion MAX +2||Per 10 Mummy [R]s in battle, Troop HP +200
+|-
+|3||6000||Zombie Minion MAX +3||Per 10 Mummy [R]s in battle, Troop HP +300
+|-
+|4||8000 || Zombie Minion MAX +4||Per 10 Mummy [R]s in battle, Troop HP +400
+|-
+|5||10000||Zombie Minion MAX +5||Per 10 Mummy [R]s in battle, Troop HP +500
+|-
+| 6||12000|| Zombie Minion MAX +6||Per 10 Mummy [R]s in battle, Troop HP +600
+|-
+|7||14000||Zombie Minion MAX +7|| Per 10 Mummy [R]s in battle, Troop HP +700
+|-
+|8||16000||Zombie Minion MAX +8||Per 10 Mummy [R]s in battle, Troop HP +800
+|-
+|9||18000||Zombie Minion MAX +9|| Per 10 Mummy [R]s in battle, Troop HP +900
+|-
+|10|| 20000||Zombie Minion MAX +10||Per 10 Mummy [R]s in battle, Troop HP +1,000
+|-
+|11||22000||Zombie Minion MAX +11|| Per 10 Mummy [R]s in battle, Troop HP +1,100
+|-
+|12||24000||Zombie Minion MAX +12||Per 10 Mummy [R]s in battle, Troop HP +1,200
+|-
+|13 || 26000||Zombie Minion MAX +13||Per 10 Mummy [R]s in battle, Troop HP +1,300
+|-
+| 14||28000||Zombie Minion MAX +14|| Per 10 Mummy [R]s in battle, Troop HP +1,400
+|-
+|15||30000||Zombie Minion MAX +15||Per 10 Mummy [R]s in battle, Troop HP +1,500
+|-
+|16 ||32000|| Zombie Minion MAX +16||Per 10 Mummy [R]s in battle, Troop HP +1,600
+|-
+| 17||34000||Zombie Minion MAX +17 ||Per 10 Mummy [R]s in battle, Troop HP +1,700
+|-
+|18||36000||Zombie Minion MAX +18||Per 10 Mummy [R]s in battle, Troop HP +1,800
+|-
+|19||38000 || Zombie Minion MAX +19||Per 10 Mummy [R]s in battle, Troop HP +1,900
+|-
+|20||40000||Zombie Minion MAX +20||Per 10 Mummy [R]s in battle, Troop HP +2,000
+|-
+|21||42000||Zombie Minion MAX +21||Per 10 Mummy [R]s in battle, Troop HP +2,100
+|-
+|22||44000 ||Zombie Minion MAX +22||Per 10 Mummy [R]s in battle, Troop HP +2,200
+|-
+|23|| 46000||Zombie Minion MAX +23||Per 10 Mummy [R]s in battle, Troop HP +2,300
+|-
+|24||48000||Zombie Minion MAX +24||Per 10 Mummy [R]s in battle, Troop HP +2,400
+|-
+|25||50000||Zombie Minion MAX +25||Per 10 Mummy [R]s in battle, Troop HP +2,500
+|-
+|26||55000||Zombie Minion MAX +26||Per 10 Mummy [R]s in battle, Troop HP +2,600
+|-
+| 27||60000||Zombie Minion MAX +27||Per 10 Mummy [R]s in battle, Troop HP +2,700
+|-
+|28||65000||Zombie Minion MAX +28||Per 10 Mummy [R]s in battle, Troop HP +2,800
+|-
+|29||70000||Zombie Minion MAX +29||Per 10 Mummy [R]s in battle, Troop HP +2,900
+|-
+|30||75000||Zombie Minion MAX +30||Per 10 Mummy [R]s in battle, Troop HP +3,000
+|}
+
+==Research Ability==
+Below is a table of the research manual cost to upgrade each research gene. Nito SSR specializes in '''Zombie Genes''' and therefore the research manual cost for the Zombie is halved. 
+
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!Lv.!!Manuals Required!!Lv.!!Manuals Required
+|-
+|'''1-10'''||1||'''11-20'''||2
+|-
+|'''21-30'''||3||'''31-40'''||4
+|-
+|'''41-50'''||5||'''51-60'''||10
+|-
+|'''61-70'''||20||'''71-80'''||40
+|-
+|'''81-90'''||60||'''91-95'''||80
+|-
+|'''96'''||100 ||'''97'''||200
+|-
+|'''98'''||400|| '''99'''||600
+
+|-
+|'''100''' || 800
+|}
+
+==Minion - Mummy [R]==
+A low-level card Nito summoned while working on her ascension. It turns out to be very helpful in taking care of daily life and in battles!
+
+===Special Ability - Preservatives===
+Per 10 Mummy [R]s in battle, Troop DEF +10 (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Mummy [R]s!
+{| class="wikitable"
+!'''Name'''
+!'''1-Star'''
+!'''2-Star'''
+!'''3-Star''' 
+!'''4-Star''' 
+!'''5-Star'''
+!'''6-Star'''
+|-
+|{{Relink|Ancient Block|blue}}
+|Mummy [R] HP +1%
+|Mummy [R] DEF +1%
+|Mummy [R] ATK +1%
+|Mummy [R] RUSH +1%
+|
+|
+|-
+|{{Relink|Dendera Tablet|blue}}
+| Mummy [R] HP +1%
+| Mummy [R] DEF +1%
+| Mummy [R] ATK +1%
+| Mummy [R] RUSH +1%
+|
+|
+|-
+|{{Relink|Fallen Lucifer|purple}}
+|Mummy [R] HP +2%
+|Mummy [R] DEF +2% 
+|Mummy [R] ATK +2%
+|Mummy [R] RUSH +2%
+|Mummy [R] All Stats +3%
+|
+|-
+|{{Relink|Chinchorro Mummy|purple}}
+|Mummy [R] HP +2%
+|Mummy [R] DEF +2%
+|Mummy [R] ATK +2%
+|Mummy [R] RUSH +2%
+|Mummy [R] All Stats +3%
+|
+|-
+|{{Relink|Tutankhamun Mask|orange}}
+|Mummy [R] RUSH +4%
+|Mummy [R] RUSH +4%
+|Mummy [R] RUSH +4%
+|Mummy [R] RUSH +4%
+|Mummy [R] RUSH +4%
+|Mummy [R] RUSH +4%
+|-
+|{{Relink|Mummy of Ramesses|orange}}
+|Mummy [R] DEF +4%
+|Mummy [R] DEF +4%
+|Mummy [R] DEF +4%
+|Mummy [R] DEF +4%
+|Mummy [R] DEF +4%
+|Mummy [R] DEF +4%
+|-
+|{{Relink|Scale of Anubis|orange}}
+|Mummy [R] HP +4%
+|Mummy [R] HP +4%
+|Mummy [R] HP +4%
+|Mummy [R] HP +4%
+|Mummy [R] HP +4%
+|Mummy [R] HP +4%
+|-
+|{{Relink|The Black Book|orange}}
+|Mummy [R] ATK +4%
+|Mummy [R] ATK +4%
+|Mummy [R] ATK +4%
+|Mummy [R] ATK +4%
+|Mummy [R] ATK +4%
+|Mummy [R] ATK +4%
+|}
+
+[[Category:Partners]]

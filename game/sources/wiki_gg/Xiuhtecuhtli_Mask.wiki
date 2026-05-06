@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Xiuhtecuhtli Mask
+|class_id=22156
+|rank=AAA
+|affct=FAITH
+|birthday=03-01
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Mar 1, 1466 AD, the Xiuhtecuhtli mask was gifted to a priest for a religious ritual.<br>This turquoise mask represents Xiuhtecuhtli, the Aztec god of fire. This valuable mask is made by laminating thin sheets of turquoise with wood in a unique patch process. Xiuhtecuhtli, whose name means Lord of Turquoise, was widely worshiped. In the ancient Aztec calendar Tonalpohualli, Xiuhtecuhtli rules the trecena Atl.
+|fame=39
+|art=49
+|fth=75
+|civ=34
+|tech=46
+|ss1=Per 5 Avatars activated, Snail HP +30<br>Per 5 Avatars activated, Snail DEF +3<br>Avatars Activated: 250/250
+|ss2=Per 5 Avatars activated, Snail HP +40<br>Per 5 Avatars activated, Snail DEF +4<br>Avatars Activated: 250/250
+|ss3=Per 5 Avatars activated, Snail HP +50<br>Per 5 Avatars activated, Snail DEF +5<br>Avatars Activated: 250/250
+|ss4=Per 5 Avatars activated, Snail HP +70<br>Per 5 Avatars activated, Snail DEF +7<br>Avatars Activated: 250/250
+|ss5=Per 5 Avatars activated, Snail HP +90<br>Per 5 Avatars activated, Snail DEF +9<br>Avatars Activated: 250/250
+|ss7=Per 5 Avatars activated, Snail HP +90<br>Per 5 Avatars activated, Snail DEF +9<br>Avatars Activated: 250/250<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, All Minion DEF +3%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FTH +10
+}}

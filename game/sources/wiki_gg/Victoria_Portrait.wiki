@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Victoria Portrait
+|class_id=22319
+|rank=SSS
+|affct=CIV
+|birthday=08-26
+|source=
+|description=This portrait was created on August 26, 1859.<br>In British history, Queen Victoria was one of the most influential monarchs, reigning for 64 years. During the Victorian era, Britain was at its peak, known as the empire on which the sun never sets. This period also coincided with the height of the Industrial Revolution, during which Queen Victoria made significant contributions to industry, trade and technology, as well as the expansion of the British Empire. This portrait is a representation of her political influence.
+|fame=73
+|art=69
+|fth=58
+|civ=108
+|tech=54
+|ss1=Bionic Part HARD Stats +1.2%<br>Per 5 {race_equip_short} gained, Snail RUSH +9<br>Per 5 {race_equip_short} gained, Snail ATK +9<br>Bionic Parts owned: 100/100
+|ss2=Bionic Part HARD Stats +1.6%<br>Per 5 {race_equip_short} gained, Snail RUSH +12<br>Per 5 {race_equip_short} gained, Snail ATK +12<br>Bionic Parts owned: 100/100
+|ss3=Bionic Part HARD Stats +2%<br>Per 5 {race_equip_short} gained, Snail RUSH +15<br>Per 5 {race_equip_short} gained, Snail ATK +15<br>Bionic Parts owned: 100/100
+|ss4=Bionic Part HARD Stats +2.8%<br>Per 5 {race_equip_short} gained, Snail RUSH +21<br>Per 5 {race_equip_short} gained, Snail ATK +21<br>Bionic Parts owned: 100/100
+|ss5=Bionic Part HARD Stats +3.6%<br>Per 5 {race_equip_short} gained, Snail RUSH +27<br>Per 5 {race_equip_short} gained, Snail ATK +27<br>Bionic Parts owned: 100/100
+|ss6=Bionic Part HARD Stats +4.8%<br>Per 5 {race_equip_short} gained, Snail RUSH +36<br>Per 5 {race_equip_short} gained, Snail ATK +36<br>Bionic Parts owned: 100/100
+|ss7=Bionic Part HARD Stats +4.8%<br>Per 5 {race_equip_short} gained, Snail RUSH +36<br>Per 5 {race_equip_short} gained, Snail ATK +36<br>Bionic Parts owned: 100/100<br>Bionic Part HARD Stats +4% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +3%
+|mirage={{Mirage|name=HMS|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Rodney|3rec=95.25M|3atk=266668|3defense=177905|3hp=17445525|3weak=33613
+|4name=Nelson|4rec=123.41M|4atk=326052|4defense=217522|4hp=24676594|4weak=37880
+|5name=Hood|5rec=155.82M|5atk=394400|5defense=263120|5hp=33752825|5weak=42978
+|6name=Queen Victoria|6rec=192.48M|6atk=471711|6defense=314697|6hp=45734145|6weak=48911
+|Arec=234.74M|Aatk=560227|Adefense=373750|Ahp=60244495|Aweak=54698
+}}}}

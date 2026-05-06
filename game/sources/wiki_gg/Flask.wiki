@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Formal is one of the few time travelers who managed to run away from Pawson. Seriously injured as it is, damaged Pawson to some extent. It keeps Pawson's tissue in the flask to encourage itself, in hope of killing Pawson one day!
+|affct=CIV
+|hard=DEF
+|source=Growth Track - Oriented Project - VIP Project ($19.99) - Tier 1 reward
+|color=green
+|earth=1
+|water=2
+|fire=2
+|wind=1
+|form=Mutant
+|element=Water
+|realm=Britland
+|orangehard=HP
+}}

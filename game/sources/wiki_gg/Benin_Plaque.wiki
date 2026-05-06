@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Benin Plaque
+|class_id=22483
+|rank=Blue
+|affct=CIV
+|birthday=09-18
+|source=Lottery Machine No.3 (0.03%)
+|description=On Sept 18, 1500 AD, the Benin Plaque was recorded by an unnamed court minister.<br>It is made of brass in present-day Nigeria. Each plaque is as large as a painting and depicts the war victory scenes and court ceremonies of Benin ruler Oba using deep relief carving. They are top-notch works of art, extraordinary metal sculptures, and witnesses to the history of European-African contact. From the peaceful trade of the first contact to the bloody massacre of the second contact, they still remind people that before the barbaric invasion of foreign civilizations, they were once well-ordered nations...
+|fame=37
+|art=25
+|fth=23
+|civ=48
+|tech=21
+|ss1=Per 10,000 Fervor, Priest-Troop Assistance DMG +8<br>Fervor: 500000/500000
+|ss2=Per 10,000 Fervor, Priest-Troop Assistance DMG +16<br>Fervor: 500000/500000
+|ss3=Per 10,000 Fervor, Priest-Troop Assistance DMG +24<br>Fervor: 500000/500000
+|ss4=Per 10,000 Fervor, Priest-Troop Assistance DMG +40<br>Fervor: 500000/500000
+|ss7=Per 10,000 Fervor, Priest-Troop Assistance DMG +40<br>Fervor: 500000/500000<br>Protomon Troop assist DMG + 400 (Awakened)
+|skill1=[[File:Wishingegg skill I.png|50px]]Place in Wishing Egg: This Relic's CIV +5
+}}

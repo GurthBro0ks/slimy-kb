@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Volunteer Badge
+|class_id=20260
+|rank=Green
+|affct=FAITH
+|source=
+|description=The badges worn by the volunteers symbolize their selfless dedication. It is they who extend a helping hand, dedicate their love, and help those in trouble to strengthen the bond between people.
+|fame=18
+|art=14
+|fth=29
+|civ=16
+|tech=13
+|ss1=Per 500 FTH, Snail ATK +1<br>FTH: 15000/15000
+|ss2=Per 500 FTH, Snail ATK +2<br>FTH: 15000/15000
+|ss3=Per 500 FTH, Snail ATK +3<br>FTH: 15000/15000
+|ss4=Per 500 FTH, Snail ATK +3<br>FTH: 15000/15000
+|ss7=Per 500 FTH, Snail ATK +3<br>FTH: 15000/15000<br> (Awakened)
+}}

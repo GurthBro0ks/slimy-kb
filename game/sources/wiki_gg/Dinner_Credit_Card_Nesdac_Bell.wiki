@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=276
+|relics=Dinner Credit Card,Nesdac Bell
+|rank=blue
+|amount=2
+|category=self
+|description=Per 60 Supreme Points, Snail DEF +10;Supreme Points: 3000/3000
+}}

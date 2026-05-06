@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=510
+|relics=Victoria Portrait,Tao Te Ching
+|rank=orange
+|amount=2
+|category=self
+|description=Per 10 Constellation LVLs, Snail HP +70;Constellation LVLs: 400/400
+}}

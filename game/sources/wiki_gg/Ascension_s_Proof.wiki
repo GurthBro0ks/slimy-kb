@@ -1,0 +1,19 @@
+{{CargoRelic
+|name=Ascension's Proof
+|class_id=20262
+|rank=Green
+|affct=FTH
+|source=[[Minigames|Unlimited Space 2 minigame]]
+|description=This proof provided by Unknown Existence is a reward for those who have passed the trial of the reincarnation world, and it is also a proof of their experience and strength, as well as the key to the next world to continue the journey of cultivation.
+|fame=15
+|art=11
+|fth=28
+|civ=18
+|tech=18
+|ss1=Snail ATK +10
+|ss2=Snail ATK +20
+|ss3=Snail ATK +30
+}}
+
+[[Category:Minigames]]
+[[Category:ATK Boost]]

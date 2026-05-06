@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Life-Stealing Gauntlet
+|type=Common
+|rank=orange
+|id=10960
+|idx=153
+|description=Based on Star-Sucking Technique principles. Modularized with electronic augmentation to match - nay, surpass - the original art. Flagship product of cyborg prosthetics!
+|skill=
+|hp=1590
+|def=232
+|atk=244
+|rush=209
+|gene1=Per Hitman intercepted, {race} ATK +7
+Hitmen Intercepted: 40/40
+|gene2=prop@69294_2
+|gene3=Per Hitman intercepted, {race} DEF +7
+Hitmen Intercepted: 40/40
+|gene4={race} Fire RES +1.5%
+|gene5=Against Daily Hitmen, DMG +9%
+|gene7=Against Daily Hitmen, DMG +9% (Awakened)
+|}}

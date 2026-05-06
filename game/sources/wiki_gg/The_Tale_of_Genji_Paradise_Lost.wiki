@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Tale of Genji,Paradise Lost
+|rank=orange
+|amount=2
+|category=other
+|description=Stone Rewards from offering +2.8%
+}}
+[[Category:Other]]

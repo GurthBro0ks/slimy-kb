@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Sinister Tattoo
+|type=Bionic
+|rank=green
+|id=10650
+|idx=6
+|description=Statistics show that tattoos increase the boldness of those with tattoos and their unusual death rate.
+|skill=Awaken the power of darkness,
+dealing DMG equal to 145% of ATK!
+|hp=350
+|def=89
+|atk=40
+|rush=43
+|gene1=In explorations, Demon God Cells collected +2.5%
+|gene2=In explorations, {race} DEF +20
+|gene7=In explorations, Demon God Cells collected +2.5% (Awakened)
+|}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=632
+|relics=Szpilman's Piano,Christophor Piano,Sitar
+|rank=blue
+|amount=3
+|category=self
+|description=Per devotee appointed, Snail DEF +6;Devotee Appointed: 50/50
+}}

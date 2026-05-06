@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Bocuse d'Or
+|class_id=22621
+|rank=SSS
+|affct=FAME
+|birthday=07-29
+|source=
+|description=On Jul 29, 1983 AD, the first Bocuse Culinary Competition was held in Lyon, France.<br>Bocuse is a master of world cuisine, and the World Culinary Competition he founded is the most famous Western cuisine competition. Top chefs from all over the world gather to compete for the title of Best Chef, hoping to stand out and gain the opportunity to study at Bocuse's academy and become the world's best chefs.
+|fame=109
+|art=59
+|fth=49
+|civ=72
+|tech=73
+|ss1=Unicorn Express Supply Order Reset SPD +1<br>Per 5 new Dishes created, Snail ATK +3<br>Per 5 new Dishes created, Snail RUSH +3<br>New Dishes Created: 300/300
+|ss2=Unicorn Express Supply Order Reset SPD +2<br>Per 5 new Dishes created, Snail ATK +4<br>Per 5 new Dishes created, Snail RUSH +4<br>New Dishes Created: 300/300
+|ss3=Unicorn Express Supply Order Reset SPD +3<br>Per 5 new Dishes created, Snail ATK +5<br>Per 5 new Dishes created, Snail RUSH +5<br>New Dishes Created: 300/300
+|ss4=Unicorn Express Supply Order Reset SPD +4<br>Per 5 new Dishes created, Snail ATK +7<br>Per 5 new Dishes created, Snail RUSH +7<br>New Dishes Created: 300/300
+|ss5=Unicorn Express Supply Order Reset SPD +5<br>Per 5 new Dishes created, Snail ATK +9<br>Per 5 new Dishes created, Snail RUSH +9<br>New Dishes Created: 300/300
+|ss6=Unicorn Express Supply Order Reset SPD +6<br>Per 5 new Dishes created, Snail ATK +12<br>Per 5 new Dishes created, Snail RUSH +12<br>New Dishes Created: 300/300
+|ss7=Unicorn Express Supply Order Reset SPD +6<br>Per 5 new Dishes created, Snail ATK +12<br>Per 5 new Dishes created, Snail RUSH +12<br>New Dishes Created: 300/300<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Fire DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Reagent Drops +6%
+|mirage={{Mirage|name=Cooking Art|reward={{RewardIconWithLink|Supply Deal, +10|orange}}
+|3name=Bharatan Baker|3rec=94.90M|3atk=303413|3defense=177412|3hp=23816631|3weak=38717
+|4name=BBQ Chef|4rec=105.62M|4atk=327230|4defense=192490|4hp=28989614|4weak=40905
+|5name=Steamed Bun Beauty|5rec=118.54M|5atk=355372|5defense=210680|5hp=36220180|5weak=43994
+|6name=Fried Rice Master|6rec=134.67M|6atk=390384|6defense=233364|6hp=47642311|6weak=47397
+|Arec=155.66M|Aatk=437621|Adefense=262902|Ahp=66150730|Aweak=51284
+}}}}

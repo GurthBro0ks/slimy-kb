@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Theory of Population
+|class_id=22121
+|rank=AAA
+|affct=FAME
+|birthday=11-08
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Nov 8, 1789 AD, Malthus released his revolutionary population theory.<br>Malthus, a famous demographer, and economist in Britain published a theory on population growth. It made two assumptions that "humans must rely on food" and "passion between men and women will be constant". He proposed that the population will grow exponentially, but food production can only increase in an arithmetic manner. When population growth exceeds the food supply, it will result in increased poverty. This theory has many holes from a modern-day perspective, but it still raises concerns about excessive population growth and marks the beginning of modern population theory.
+|fame=73
+|art=41
+|fth=33
+|civ=48
+|tech=48
+|ss1=Zombie Minion HP +3%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +24%
+|ss2=Zombie Minion HP +4%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +32%
+|ss3=Zombie Minion HP +5%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +40%
+|ss4=Zombie Minion HP +7%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +56%
+|ss5=Zombie Minion HP +9%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +72%
+|ss7=Zombie Minion HP +9%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +72%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +56% (Awakened)
+|skill1=[[File:Surfclam skill II.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion HP +4.5%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FAME +10
+}}

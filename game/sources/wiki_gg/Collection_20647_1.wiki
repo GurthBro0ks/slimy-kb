@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20647_1
+|class_id=20647
+|rank=Green
+|affct=ART
+|source=
+|description=collection@20647_2
+|fame=18
+|art=32
+|fth=18
+|civ=11
+|tech=11
+|ss1=Per tier up for Epochbough, Snail DEF + 2<br>Epochbough: T30/30
+|ss2=Per tier up for Epochbough, Snail DEF + 4<br>Epochbough: T30/30
+|ss3=Per tier up for Epochbough, Snail DEF + 6<br>Epochbough: T30/30
+|ss4=Per tier up for Epochbough, Snail DEF + 6<br>Epochbough: T30/30
+|ss7=Per tier up for Epochbough, Snail DEF + 6<br>Epochbough: T30/30<br> (Awakened)
+}}

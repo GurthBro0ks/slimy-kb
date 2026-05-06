@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=228
+|relics=Periodic Table Scripts,Guevara's Portrait
+|rank=orange
+|amount=2
+|category=self
+|description=Snail RUSH +70
+}}

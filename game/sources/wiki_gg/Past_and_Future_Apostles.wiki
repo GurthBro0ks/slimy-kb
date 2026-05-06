@@ -1,0 +1,1004 @@
+==Travelling to the Past and Future==
+Travelling to the Past or Future of any Realm requires the [[Ma'at Tablet]] and the appropriate Realm unlocked within the Tablets upgrades. Once equipped, travelling to a Realm now has the option to travel to the Past or the Future of that Realm. 
+
+The entire Realm does not need to be explored in order to travel, though it doesn't prevent travelling either. Each Realm's past or future has an additional number of apostles that can be fought and defeated for rewards- most notably Sand of Time and Ma'at Fragments for upgrading the Ma'at Tablet further. 
+
+Excluding Koryeo, all Minions have special stats of ''HIT +50'' and ''Hit Paralysis RES +50%'' and all Apostles have special stats of ''HIT +80'' and ''Hit Paralysis RES +80%''. Below are the Apostles and Minions of the Past and Future. 
+
+==Koryeo==
+<tabber>
+|-|Past=
+===Konishi Yukinaga===
+'''Area:''' Gyangsung
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Konishi Yukinaga||77,324||61,919||549,419||CIV 15,942||<span style="color:var(--green-text)">Green Kimchi Jar</span><br>Sand of Time +50<br>Exploration Speedup +30m
+|-
+|''Ashigaru''||75,224||60,237||514,303||AFFCT 78,450||B-tads +1,100, Sand of Time +10
+|-
+|''Ashigaru Captain''||75,644||60,573||518,154||AFFCT 78,696||B-tads +1,100, Sand of Time +10
+|-
+|''Ashigaru General''||76,064||60,910||523,760||AFFCT 78,944||B-tads +1,100, Sand of Time +10
+|}
+
+===Daimyo Kato===
+'''Area:''' Hungyong
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Daimyo Kato||79,489||63,653||623,588||FTH 16,206||<span style="color:var(--blue-text)">Blue Kimchi Jar</span><br>Sand of Time +50<br>Exploration Speedup +1h
+|}
+
+===Scholar Ryu===
+'''Area:''' Pyangan
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Scholar Ryu||81,751||65,464||738,984||ART 16,481||<span style="color:var(--blue-text)">Blue Kimchi Jar</span><br>Ma'at Fragment<br>Exploration Speedup +90m
+|-
+|''Left State Councilor''||79,263||63,471||613,975||AFFCT 80,870||B-tads +1,100, Sand of Time +10
+|-
+|''Right State Councilor''||80,167||64,196||654,536||AFFCT 81,401||B-tads +1,100, Sand of Time +10
+|-
+|''Chief State Councilor''||80,846||64,739||688,617||AFFCT 81,803||B-tads +1,100, Sand of Time +10
+|}
+
+===Admiral Yi===
+'''Area:''' Ginlo
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Admiral Yi||84,013||67,275||877,713||FAME 16,765||<span style="color:var(--blue-text)">Blue Kimchi Jar</span><br>Ma'at Fragment<br>Exploration Speedup +2h
+|-
+|''Navy Soldier''||81,524||65,283||725,855||AFFCT 82,209||B-tads +1,110, Sand of Time +10
+|-
+|''Navy Soldier''||81,977||65,645||752,471||AFFCT 82,481||B-tads +1,100, Sand of Time +10
+|-
+|''Navy Soldier''||82,429||66,007||779,114||AFFCT 82,755||B-tads +1,100, Sand of Time +10
+|-
+|''Navy Soldier''||82,882||66,369||805,672||AFFCT 83,030||B-tads +1,100, Sand of Time +10
+|-
+|''Navy Soldier''||83,334||66,732||833,509||AFFCT 83,309||B-tads +1,100, Sand of Time +10
+|}
+|-|Future=
+===Hitman No.1===
+'''Area:''' Third-class Coach
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Hitman No.1||84,465||67,637||612,125||CIV 16,722||<span style="color:var(--green-text)">Green Kimchi Jar</span><br>Sand of Time +50<br>Travel Speedup +30m
+|-
+|''Hitman No.2''||52,203||65,826||574,191||AFFCT 82,350||B-tads +1,100, Sand of Time +10
+|-
+|''Hitman No.3''||82,882||66,369||581,031||AFFCT 82,719||B-tads +1,100, Sand of Time +10
+|-
+|''Hitman No.4''||83,560||66,913||591,976||AFFCT 83,904||B-tads +1,100, Sand of Time +10
+|}
+
+===Ticket Inspector===
+'''Area:''' Second-class Coach
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Ticket Inspector||86,727||69,449||692,762||TECH 16,986||<span style="color:var(--blue-text)">Blue Kimchi Jar</span><br>Sand of Time +50<br>Exploration Speedup +1h
+|-
+|''Security Guard A''||84,239||67,456||606,5020||AFFCT 83,474||B-tads +1,100, Sand of Time +10
+|-
+|''Security Guard B''||84,917||68,000||624,431||AFFCT 83,858||B-tads +1,100, Sand of Time +10
+|-
+|''Security Guard C''||85,596||68,543|645,612||AFFCT 84,247||B-tads +1,100||Sand of Time +10
+|}
+
+===Steward===
+'''Area:''' First-class Coach
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Steward||88,989||71,260||817,719||ART 17,261||<span style="color:var(--blue-text)">Blue Kimchi Jar</span><br>Ma'at Fragment<br>Exploration Speedup +90m
+|-
+|''Beer''||86,501||69,267||682,363||AFFCT 84,770||B-tads +1,100, Sand of Time +10
+|-
+|''Drink''||86,953||69,630||703,549||AFFCT 85,035||B-tads +1,100, Sand of Time +10
+|-
+|''Mineral Water''||87,179||69,811||714,714||AFFCT 85,168||B-tads +1,00, Sand of Time +10
+|-
+|''Peanut''||87,405||69,992||726,257||AFFCT 85,301||B-tads +1,100, Sand of TIme +10
+|-
+|''Seed''||87,632||70,173||738,178||AFFCT 85,434||B-tads +1,100, Sand of Time +10
+|-
+|''Porridge''||87,858||70,354||750,480||AFFCT 85,569||B-tads +1,100, Sand of Time +10
+|}
+
+===Conductor===
+'''Area:''' Locomotive
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Conductor||91,380||73,175||981,785||FAME 17,550||<span style="color:var(--blue-text)">Blue Kimchi Jar</span><br>Ma'at Fragment<br>Exploration Speedup +2h
+|}
+</tabber>
+
+==Yamato==
+<tabber>
+|-|Past=
+===Taoist Greeter===
+'''Area:''' Hill Gate
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Taoist Greeter||90,895||72,786||676,405||CIV 17.408||<span style="color:var(--green-text)">Green Koban</span><br>Sand of Time +50<br>Exploration Speedup +30m
+|}
+
+===Himiko===
+'''Area:''' Demon Pagoda
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Himiko||92,349||73951||759,755||ART 17,579||<span style="color:var(--blue-text)">Blue Koban</span><br>Sand of Time +50<br>Exploration Speedup +50
+|-
+|''Guarding Disciple A''||90,750||72,670||670,249||AFFCT 86,952||B-tads +1,100, Sand of Time +10
+|-
+|''Guarding Disciple B''||91,040||72,903||682,959||AFFCT 87,114||B-tads +1,100, Sand of Time +10
+|-
+|''Guarding Disciple C''||91,331||73,136||697,281||AFFCT 87,278||B-tads +1,100, Sand of Time +10
+|-
+|''Guarding Disciple D''||91,622||73,369||713,188||AFFCT 87,443||B-tads +1,100, Sand of Time +10
+|-
+|''Guarding Disciple E''||91,913||73,601||730,666||AFFCT 87,611||B-tads +1,100, Sand of Time +10
+|}
+
+===Four Symbols Array===
+'''Area:''' Sutra Library
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Four Symbols Array||93,803||75,115||878,714||FAME 87,950||<span style="color:var(--blue-text)">Blue Koban</span><br>Ma'at Fragment<br>Exploration Speedup +90m
+|-
+|''Seiryuu Phantom''||92,204||73,834||749,679||AFFCT 87,780||B-tads +1,100, Sand of Time +10
+|-
+|''Byakko Phantom''||92,495||74,067||770,224||AFFCT 87,950||B-tads +1,100, Sand of Time +10
+|-
+|''Suzaku Phantom''||92,785||74,300||792,292||AFFCT 88,123||B-tads +1,100, Sand of Time +10
+|-
+|''Genbu Phantom''||93,076||74,533||815,877||AFFCT 88,297||B-tads +1,100, Sand of Time +10
+|}
+
+===Immortal Xu===
+'''Area:''' Masters Hall
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Immortal Xu||95,257||76,280||1,028,194||FTH 17,945||<span style="color:var(--blue-text)">Blue Koban</span><br>Ma'at Fragment<br>Exploration Speedup +2h
+|-
+|''Blood Spider''||93,658||74,999||865,688||AFFCT 88,645||B-tads +1,100, Sand of Time +10
+|-
+|''Gold-eating Bug''||94,530||75,697||949,096||AFFCT 89,174||B-tads +1,100, Sand of Time +10
+|}
+|-|Future=
+===Contrator===
+'''Area:''' Hill Gate Ruins
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Contractor||95,742||76,668||716,661||TECH 17,902||<span style="color:var(--green-text)">Green Koban</span><br>Sand of Time +50<br>Exploration Speedup +30m
+|-
+|''Construction Worker''||93,319||74,727||674,209||AFFCT 88,250||B-tads +1,100, Sand of Time +10
+|-
+|''Safety Officer''||94,046||75,609||681,635||AFFCT 88,619||B-tads +1,100, Sand of Time +10
+|-
+|''Quality Officer''||94,773||75,891||693,880||AFFCT 88,994||B-tads +1,100, Sand of Time +10
+|}
+
+===Supernatural Researcher===
+'''Area:''' Demon Pagoda Ruins
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Supernatural Researcher||98,198||78,634||808,129||TECH 18,166||<span style="color:var(--blue-text)">Blue Koban</span><br>Sand of Time +50<br>Exploration Speedup +1h
+|-
+|''Research Assistant A''||95,500||76,474||710,301||AFFCT 89,374||B-tads +1,100, Sand of Time +10
+|-
+|''Research Assistant B''||96,954||77,638||754,811||AFFCT 90,147||B-tads +1,100, Sand of Time +10
+|}
+
+===Professor of Archaeology===
+'''Area:''' Sutra Library Ruins
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Professor of Archaeology||100,702||80,639||949,443||CIV 18,441||<span style="color:var(--blue-text)">Blue Koban</span><br>Ma'at Fragment<br>Exploration Speedup +90m
+|-
+|''Researcher A''||97,947||78,434||796,367||AFFCT 90,670||B-tads +1,100, Sand of Time +10
+|-
+|''Researcher B''||98,699||79,035||832,932||AFFCT 91,068||B-tads +1,100, Sand of Time +10
+|-
+|''Researcher C''||99,199||79,436||859,459||AFFCT 91,334||B-tads +1,100, Sand of Time +10
+|-
+|''Researcher D''||99,700||79,837||887,715||AFFCT 91,608||B-tads +1,100, Sand of Time +10
+|}
+
+===Immortal Meow Soulshard===
+'''Area:''' Masters Hall Ruins
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Immortal Meow Soulshard||103,271||82,697||1,134,773||FTH 18,725||<span style="color:var(--blue-text)">Blue Koban</span><br>Ma'at Fragment<br>Exploration Speedup +2h
+|}
+</tabber>
+
+==Cathay==
+<tabber>
+|-|Past=
+===Warship Whale===
+'''Area:''' East Mountain Sea
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Warship Whale||97,697||78,233||853,610||ART 18,097||~9m|| ||[[Cathay Cards#Tier 2 (Green)|<span style="color:var(--green-text)">Green Mahjong</span>]]<br>Sand of Time +50<br>Exploration Speedup +30m
+|-
+|''Earth Roc''||95,257||76,280||822,555||AFFCT 89,225|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Bone Kraken''||95,742||76,668||826,562||AFFCT 89,471|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Rotten Kraken''||96,227||77,056||831,508||AFFCT 89,719|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Golden Kraken''||96,711||77,444||837,263||AFFCT 89,969|| || - ||B-tads +1,100, Sand of Time +10
+|}
+
+===Qiongqi===
+'''Area:''' North Mountain Sea
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Qiongqi||100,201||80,238||913,580||FTH 18,361||9.1m|| ||[[Cathay Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Mahjong</span>]]<br>Sand of Time +50<br>Exploration Speedup +1h
+|}
+
+===Mythic Shark Hawk===
+'''Area:''' West Mountain Sea
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Mythic Shark Hawk||102,754||82,283||991,357||FAME 18,636|| || ||[[Cathay Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Mahjong</span>]]<br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +90m
+|-
+|''Hawk''||99,951||80,038||906,779||AFFCT 91,645|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Forest Hawk''||100,702||90,639||927,700||AFFCT 92,043||9.2m|| - ||B-tads +1,100, Sand of Time +10
+|-
+|''Fishing Hawk''||101,203||81,041||942,516||AFFCT 92,309||9.4m|| - ||B-tads +1,100, Sand of Time +10
+|-
+|''Snake Hawk''||101,720||81,455||958,082||AFFCT 92,578|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Mountain Hawk''||101,978||81,662||966,133||AFFCT 92,713|| || - ||B-tads +1,100, Sand of Time +10
+|}
+
+===Duckhorse===
+'''Area:''' South Mountain Sea
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Duckhorse||105,339||84,353||1,087,212||CIV 18,920|| || ||[[Cathay Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Mahjong</span>]]<br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +2h
+|-
+|''Ducky II''||102,495||82,076||982,770||AFFCT 92,984|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Ducky IV''||103,012||92,490||1,000,124||AFFCT 93,256|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Ducky VI''||103,271||82,697||1,009,072||AFFCT 93,393|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Ducky VII''||103,788||83,111||1,027,510||AFFCT 93,667|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Ducky VIII''||104,305||83,525||1,046,676||AFFCT 93,943|| || - ||B-tads +1,100, Sand of Time +10
+|}
+|-|Future=
+[[File:Temporal Turbulance.png|400px|left]]
+
+Due to a strange energy, instead of going to Future Cathay, M-board transports you to 1777 AD Cathay to find the source of the disturbance. 
+
+{{Clear}}
+
+===Longevity Array===
+'''Area:''' Mountain Resort
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Longevity Array||105,339||84,353||1,022,363||FTH 18,828|| || ||[[Cathay Cards#Tier 2 (Green)|<span style="color:var(--green-text)">Green Mahjong</span>]]<br>Sand of Time +50<br>Exploration Speedup +30m
+|-
+|''Minsiter He''||103,271||82,697||983,470||AFFCT 93,125||>9.3m|| - ||B-tads +1,100, Sand of Time +10
+|-
+|''Tobacco Ji''||103,891||83,193||992,741||AFFCT 93,421|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Minister Liu''||104,512||83,690||1,004,117||AFFCT 93,723|| || - ||B-tads +1,100, Sand of Time +10
+|}
+
+===Princess Swallow===
+'''Area:''' Daming Lake
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Princess Swallow||107,471||86,060||1,081,579||ART 19,049|| || ||[[Cathay Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Mahjong</span>]]<br>Sand of Time +50<br>Exploration Speedup +1h
+|-
+|''Eunuch Zhao''||105,132||84,187||1,017,517||AFFCT 94,030|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Eunuch Deng''||105,552||84,523||1,027,433||AFFCT 94,239|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Moony''||105,765||84,694||1,032,685||AFFCT 94,346|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Caixia''||105,979||84,865||1,038,130||AFFCT 94,453|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Maid Locky''||106,192||85,036||1,043,766||AFFCT 94,560|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Lady Ziwei'||106,405||85,206||1,049,606||AFFCT 94,668|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Yu He''||106,618||85,377||1,055,623||AFFCT 94,777|| || - ||B-tads +1,100, Sand of Time +10
+|}
+
+===Imperial Guard===
+'''Area:''' Imperial City
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Imperial Guard||109,604||87,768||1,159,468||FAME 19,280|| || ||[[Cathay Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Mahjong</span>]]<br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +90m
+|-
+|''3rd Rang Guard''||107,258||85,889||1,074,813||AFFCT 95,105|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''2nd Rank Guard''||108,111||86,573||1,102,993||AFFCT 95,548|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''1st Rank Guard''||108,751||87,085||1,126,089||AFFCT 95,884|| || - ||B-tads +1,100, Sand of Time +10
+|}
+
+===Emperor===
+'''Area:''' Forbidden City
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Emperor||111,737||89,476||1,243,036||CIV 19,515|| || ||[[Cathay Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Mahjong</span>]]<br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +2h
+|-
+|''1st Prince''||109,391||87,597||1,150,849||AFFCT 96,224|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''3rd Prince''||109,817||87,939||1,167,051||AFFCT 96,450|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''4th Prince''||110,031||88,110||1,174,805||AFFCT 96,563|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''5th Prince''||110,244||88,280||1,182,746||AFFCT 96,675|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''8th Prince''||110,457||88,451||1,190,844||AFFCT 96,789|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''15th Prince''||110,670||88,622||1,199,113||AFFCT 96,902|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Old Maid''||110,884||88,793||1,207,553||AFFCT 97,016|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Empress''||111,097||88,963||1,216,179||AFFCT 97,130|| || - ||B-tads +1,100, Sand of Time +10
+|}
+</tabber>
+
+==Murika==
+<tabber>
+|-|Future=
+===Rockman===
+'''Area:''' New Vulgas
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Rockmam||118,158||98,532||1,032,099||TECH 19,374|| || ||[[Murika Cards#Tier 2 (Green)|<span style="color:var(--green-text)">Green Bullet</span>]]<br>Sand of Time +50<br>Exploration Speedup +30m
+|}
+
+===Widow in White===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Widow in White||120,211||100,432||1,096,471||ART 19,541|| || ||[[Murika Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Bullet</span>]]<br>Sand of Time +50<br>Exploration Speedup +1h
+|-
+|''Spiderguy''||117,964||98,358||1,027,322||AFFCT 96,785|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Tridentman''||118,354||98,710||1,037,177||AFFCT 96,944|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Green Ring''||118,753||99,074||1,048,264||AFFCT 97,104|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''General S.''||119,160||99,448||1,060,574||AFFCT 97,265|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Blink Stewart''||119,575||99,834||1,074,056||AFFCT 97,429|| || - ||B-tads +1,100, Sand of Time +10
+|}
+
+===Alpha Wolf===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Alpha Wolf||122,491||102,623||1,192,625||FTH 19,720|| || ||[[Murika Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Bullet</span>]]<br>Sand of Time +50<br>Exploration Speedup +90m
+|-
+|''Husky''||119,997||100,230||1,088,712||AFFCT 97,594|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Alaska''||120,645||100,844||1,112,844||AFFCT 97,845|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Black Shell''||121,087||101,266||1,130,352||AFFCT 98,014|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Corgi''||121,536||101,698||1,148,985||AFFCT 98,185|| || - ||B-tads +1,100, Sand of Time +10
+|}
+
+===Professor Superpower===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Professor Superpower||125,026||105,125||1,323,585||CIV 19,910|| || ||[[Murika Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Bullet</span>]]<br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +2h
+|-
+|''Locust''||122,248||102,386||1,181,137||AFFCT 98,449|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Thunder Smith''||122,737||102,862||1,204,411||AFFCT 98,628|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Master Archer''||123,232||103,347||1,228,861||AFFCT 98,808|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Star Child''||123,736||103,842||1,254,475||AFFCT 98,990|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Dominator''||124,246||104,348||1,281,240||AFFCT 99,173|| || - ||B-tads +1,100, Sand of Time +10
+|}
+</tabber>
+
+==Britland==
+<tabber>
+|-|Past=
+===Queen Isabella===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Queen Isabella||115,889||92,576||2,052,350||ART 19,708|| || ||[[Britland Cards#Tier 2 (Green)|<span style="color:var(-green-text)">Green Anchor</span>]]<br>Sand of Time +50<br>Exploration Speedup +30m
+|-
+|''Great Scholar''||114,694||91,634||2,009,432||AFFCT 98,050|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Intel Chief''||114,808||91,725||2,011,145||AFFCT 98,101|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Finance Secretary''||114,924||91,817||2,013,573||AFFCT 98,152|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''King's Hand''||115,041||91,909||2,016,621||AFFCT 98,204|| || - ||B-tads +1,100, Sand of Time +10
+|}
+
+===Commander-in-Chief===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Commander-in-Chief||117,177||93,574||2,141,248||FAME 19,839|| || ||[[Britland Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Anchor</span>]]<br>Sand of Time +50<br>Exploration Speedup +1h
+|-
+|''Crafstmam''||115,159||92,003||2,020,216||AFFCT 98,256|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Ranger''||115,278||92,097||2,024,350||AFFCT 98,309|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Clerk''||115,398||92,192||2,028,988||AFFCT 98,363|| || - ||B-tads +1,100, Sand of Time +10
+|}
+
+===Will Wallace===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Will Wallace||118,546||94,618||2,270,052||CIV 19,970|| || ||[[Britland Cards#Tier 3 (Blue)|<span stlye="color:var(--blue-text)">Blue Anchor</span>]]<br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +90m
+|-
+|''Barbarian Infantry''||117,045||93,472||2,130,507||AFFCT 99,105|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Barbarian Dawg Rider''||117,445||93,779||2,163,923||AFFCT 99,286|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Barbarian Catapult''||117,716||93,986||2,188,160||AFFCT 99,409|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Barbarian Shaman''||117,989||94,195||2,213,937||AFFCT 99,534|| || - ||B-tads +1,100, Sand of Time +10
+|}
+
+===Viking Chief===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Viking Chief||119,988||95,706||2,436,243||TECH 20,110|| || ||[[Britland Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Anchor</span>]]<br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +2h
+|}
+|-|Future=
+===Prime Minister===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Prime Minister||118,930||94,837||2,273,824||FAME 19,918|| || ||[[Britland Cards#Tier 2 (Green)|<span style="color:var(--green-text)">Green Anchor</span>]]<br>Sand of Time +50<br>Exploration Speedup +30m
+|-
+|''Home Secretary''||117,726||93,895||2,221,253||AFFCT 99,050|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Foreign Secretary''||117,956||94,078||2,226,079||AFFCT 99,152|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Defense Secretary''||118,192||94,264||2,234,110||AFFCT 99,256|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Silly Walks Secretary''||118,434||94,453||2,244,869||AFFCT 99,363|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Magic Minister''||118,556||94,548||2,251,208||AFFCT 99,417|| || - ||B-tads +1,100, Sand of Time +10
+|}
+
+===Queen===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Queen||120,241||95,835||2,385,130||ART 20,039|| || ||[[Britland Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Anchor</span>]]<br>Sand of Time +50<br>Exploration Speedup +1h
+|-
+|''Princess''||118,804||94,741||2,265,687||AFFCT 99,527|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Consort''||119,313||95,132||2,301,574||AFFCT 99,753|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Prince''||119,705||95,430||2,334,249||AFFCT 99,927|| || - ||B-tads +1,100, Sand of Time +10
+|}
+
+===Consul===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Consul||121,643||96,880||2,547,177||CIV 20,170|| || ||[[Britland Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Anchor</span>]]<br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +90m
+|-
+|''Bonobo''||120,105||95,733||2,371,642||AFFCT 100,105|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Mountain Gorilla''||120,931||96,352||2,460,066||AFFCT 100,472|| || - ||B-tads +1,100, Sand of Time +10
+|}
+
+===Sky Carrier===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Sky Carrier||123,130||97,967||2,756,611||TECH 20,310|| || ||[[Britland Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Anchor</span>]]<br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +2h
+|-
+|''Navigator''||121,499||96,773||2,528,806||AFFCT 100,724|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''1st Mate''||122,081||97,202||2,605,137||AFFCT 100,983|| || - ||B-tads +1,100, Sand of Time +10
+|-
+|''Captain''||122,376||97,418||2,646,122||AFFCT 101,115|| || - ||B-tads +1,100, Sand of Time +10
+|}
+</tabber>
+
+==Kemet==
+<tabber>
+|-|Past=
+===Cleopatra===
+'''Area:'''  Alexandrea
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Cleopatra||76,929||62,807||537,172||ART 14,747||3.9m||4.84m||<span style="color:var(--green-text)">Green Ankh</span><br>{{RewardIconWithText|Meal Box Size}} +500<br>Exploration Speedup +160m
+|-
+|''Antony''||67,856||55,400||529,482||AFFCT 73,035||3.9m|| ||B-tads +1,320, Kemetic INTEL +510
+|}
+
+===Khufo===
+'''Area:'''  Xoisy
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Khufo||83,659||68,302||577,344||FAME 14,926||3.9m||4.84m||[[Kemet Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Ankh</span>]]<br>{{RewardIconWithText|Meal Box Size}} +500<br>Travel Speedup +170m
+|-
+|''Builder A''||76,633||62,566||533,326||AFFCT 73,211||3.9m|| ||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Builder B''||80,233||65,504||563,016||AFFCT 73,563||3.9m|| ||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Builder C''||84,124||68,681||571,027||AFFCT 73,914||3.9m|| ||B-tads +1,320, Kemetic INTEL +510
+|}
+
+===Sphinx===
+'''Area:''' Thebesy
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Sphinx||100,446||82,007||614,305||FTH 15,141||4.39m||4.84m||[[Kemet Cards#Tier 4 (Purple)|<span style="color:var(--purple-text)">Purple Ankh</span>]]<br>{{RewardIconWithText|Meal Box Size}} +500, [[Ma'at Tablet Frag]]<br>Travel Speedup +3h
+|-
+|''Lion-Cat Statue''||83,317||68,023||575,030||AFFCT 74,090||3.9m|| ||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Lion-Dog Statue''||90,002||73,480||579,656||AFFCT 74,442||3.9m|| ||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Lion-Snake Statue''||96,235||78,569||584,274||AFFCT 74,793||4.08m|| ||B-tads +1,320, Kemetic INTEL +510
+|}
+
+===Forerunner===
+'''Area:''' Momphis
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Forerunner||111,722||91,213||665,665||FTH 15,213||4.8m||4.84m||[[Kemet Cards#Tier 5 (Orange)|<span style="color:var(--orange-text)">Orange Ankh</span>]]<br>{{RewardIconWithText|Meal Box Size}} +500, [[Ma'at Tablet Frag]]<br>Travel Speedup +3h
+|}
+|-|Future=
+===Dr. Zombie===
+'''Area:'''  Minra
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Dr. Zombie||66,802||54,539||1,564,657||TECH 15,499||4.9m||5.33m||[[Kemet Cards#Tier 2 (Green)|<span style="color:var(--green-text)">Green Ankh</span>]]<br>{{RewardIconWithText|Meal Box Size}} +500, [[Ma'at Tablet]] Frag +1<br>Travel Speedup +3h
+|-
+|''Barricade Zombie''||64,799||52,904||946,525||AFFCT 75,673||4.87m|| ||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Iron bucket Zombie''||65,312||53,323||1,191,085||AFFCT 76,024||4.87m|| ||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Snowman Zombie''||65,816||53,734||1,315,621||AFFCT 76,376||4.87m|| ||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Giant Zombie''||66,062||53,935||1,437,882||AFFCT 76,552||4.87m|| ||B-tads +1,320, Kemetic INTEL +510
+|}
+
+===Nito SSR===
+'''Area:'''  Asyut
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Nito SSR||67,295||54,941||1,833,359||ART 15,571||4.9m||5.89m||[[Kemet Cards#Tier 3 (Blue)|<span style="color:var(--blue-text)">Blue Ankh</span>]]<br>{{RewardIconWithText|Meal Box Size}} +500, [[Ma'at Tablet]] Frag +1<br>Travel Speedup +3h, [[Nito SSR]] Partner
+|}
+
+===Horus===
+'''Area:''' Sohaj
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Horus||68,034||55,545||2,224,854||FTH 15,678||4.95m||6.1m||[[Kemet Cards#Tier 4 (Purple)|<span style="color:var(--purple-text)">Purple Ankh</span>]]<br>{{RewardIconWithText|Meal Box Size}} +500, [[Ma'at Tablet]] Frag +1<br>Travel Speedup +3h
+|-
+|''Galaxy Warrior''||67,048||54,740||1,831,005||AFFCT 77,255||4.9m|| ||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Galaxy Warrior''||67,295||54,941||1,953,359||AFFCT 77,431||4.9m|| ||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Galaxy Warrior''||67,541||55,143||2,075,700||AFFCT 77,607||4.9m|| ||B-tads +1,320, Kemetic INTEL +510
+|}
+
+===Doomsday Pharaoh===
+'''Area:''' Qera
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Doomsday Pharaoh||69,061||56,384||2,478,460||FAME 15,820||4.99m||6.54m||[[Kemet Cards#Tier 5 (Orange)|<span style="color:var(--orange-text)">Orange Ankh</span>]]<br>{{RewardIconWithText|Meal Box Size}} +500, [[Ma'at Tablet]] Frag +1<br>Travel Speedup +3h
+|-
+|''Magician Boy''||67,788||55,344||2,222,409||AFFCT 77,783||4.95m|| ||B-tads +1,320, Kemetic INTEL +510
+|-
+|''Magician Girl''||68,527||55,948||2,349,733||AFFCT 78,310||4.95|| ||B-tads +1,320, Kemetic INTEL +510
+|}
+</tabber>
+
+==Hellas==
+<tabber>
+|-|Past=
+===Aries Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Aries Warrior||272,820||146,570||1,686,141||FTH 20,180|| || ||[[Hellenic Cards#Tier 1 (White)|Olive Branch]]<br>Sand of Time +50<br>Exploration Speedup +90m
+|-
+|''Disciple of Aries''||272,501||146,344||1,680,109||AFFCT 102,910|| || ||B-tads +1,100, Sand of Time +10
+|-
+|}
+
+===Taurus Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Taurus Warrior||273,510||147,042||1,700,664||FAME 20,257|| || ||[[Hellenic Cards#Tier 1 (White)|Olive Branch]]<br>Sand of Time +50<br>Exploration Speedup +90m
+|-
+|}
+
+===Gemini Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Gemini Warrior||274,368||147,575||1,718,307||CIV 20,336|| || ||[[Hellenic Cards#Tier 1 (White)|Olive Branch]]<br>Sand of Time +50<br>Exploration Speedup +100m
+|-
+|}
+
+===Cancer Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Cancer Warrior||275,455||148,191||1,738,930||TECH 20,417|| || ||[[Hellenic Cards#Tier 2 (Green)|{{retext|Olive Branch|green}}]]<br>Sand of Time +50<br>Exploration Speedup +100m
+|-
+|}
+
+===Leo Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Leo Warrior||276,829||148,918||1,762,503||FAME 20,500|| || ||[[Hellenic Cards#Tier 2 (Green)|{{retext|Olive Branch|green}}]]<br>Sand of Time +50<br>Exploration Speedup +110m
+|-
+|}
+
+===Virgo Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Virgo Warrior||278,504||149,754||1,788,980||ART 20,584|| || ||[[Hellenic Cards#Tier 3 (Blue)|{{retext|Olive Branch|blue}}]]<br>Sand of Time +50<br>Exploration Speedup +120m
+|-
+|}
+
+===Libra Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Libra Warrior||280,510||150,711||1,818,323||TECH 20,669|| || ||[[Hellenic Cards#Tier 3 (Blue)|{{retext|Olive Branch|blue}}]]<br>Sand of Time +50<br>Exploration Speedup +130m
+|-
+|}
+
+===Scorpio Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Scorpio Warrior||282,872||151,797||1,850,556||CIV 20,756|| || ||[[Hellenic Cards#Tier 3 (Blue)|{{retext|Olive Branch|blue}}]]<br>Sand of Time +50<br>Exploration Speedup +140m
+|-
+|}
+
+===Sagittarius Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Sagittarius Warrior||285,611||153,020||1,885,700||FAME 20,843|| || ||[[Hellenic Cards#Tier 4 (Purple)|{{retext|Olive Branch|purple}}]]<br>Sand of Time +50<br>Exploration Speedup +150m
+|-
+|}
+
+===Capricorn Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Capricorn Warrior||288,749||154,389||1,923,753||FTH 20,931|| || ||[[Hellenic Cards#Tier 4 (Purple)|{{retext|Olive Branch|purple}}]]<br>Sand of Time +50<br>Exploration Speedup +160m
+|-
+|}
+
+===Aquarius Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Aquarius Warrior||292,305||155,909||1,964,785||ART 21,020|| || ||[[Hellenic Cards#Tier 4 (Purple)|{{retext|Olive Branch|purple}}]]<br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +170m
+|-
+|}
+
+===Pisces Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Pisces Warrior||293,593||156,605||2,005,853||FTH 21,110|| || ||[[Hellenic Cards#Tier 5 (Orange)|{{retext|Olive Branch|orange}}]]<br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +180m
+|-
+|}
+
+|-|Future=
+===Rat Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Rat Warrior||292,937||156,139||1,998,314||FTH 21,065|| || ||[[Hellenic Cards#Tier 1 (White)|Olive Branch]]<br>Sand of Time +50<br>Exploration Speedup +90m
+|-
+|}
+
+===Ox Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Ox Warrior||293,644||156,623||2,014,318||FAME 21,126|| || ||[[Hellenic Cards#Tier 1 (White)|Olive Branch]]<br>Sand of Time +50<br>Exploration Speedup +90m
+|-
+|}
+
+===Tiger Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Tiger Warrior||294,540||157,182||2,033,653||CIV 21,194|| || ||[[Hellenic Cards#Tier 1 (White)|Olive Branch]]<br>Sand of Time +50<br>Exploration Speedup +90m
+|-
+|}
+
+===Rabbit Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Rabbit Warrior||295,663||157,824||2,056,155||ART 21,268|| || ||[[Hellenic Cards#Tier 1 (White)|Olive Branch]]<br>Sand of Time +50<br>Exploration Speedup +100m
+|-
+|}
+
+===Dragon Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Dragon Warrior||297,055||158,564||2,081,753||TECH 21,346|| || ||[[Hellenic Cards#Tier 2 (Green)|{{retext|Olive Branch|green}}]]<br>Sand of Time +50<br>Exploration Speedup +110m
+|-
+|}
+
+===Snake Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Snake Warrior||298,749||159,414||2,110,416||FTH 21,430|| || ||[[Hellenic Cards#Tier 3 (Blue)|{{retext|Olive Branch|blue}}]]<br>Sand of Time +50<br>Exploration Speedup +120m
+|-
+|}
+
+===Horse Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Horse Warrior||300,773||160,383||2,142,158||FAME 21,518|| || ||[[Hellenic Cards#Tier 3 (Blue)|{{retext|Olive Branch|blue}}]]<br>Sand of Time +50<br>Exploration Speedup +130m
+|-
+|}
+
+===Goat Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Goat Warrior||303,152||161,482||2,176,947||CIV 21,610|| || ||[[Hellenic Cards#Tier 3 (Blue)|{{retext|Olive Branch|blue}}]]<br>Sand of Time +50<br>Exploration Speedup +140m
+|-
+|}
+
+===Monkey Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Monkey Warrior||305,910||162,718||2,214,822||TECH 21,707|| || ||[[Hellenic Cards#Tier 4 (Purple)|{{retext|Olive Branch|purple}}]]<br>Sand of Time +50<br>Exploration Speedup +150m
+|-
+|}
+
+===Rooster Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Rooster Warrior||309,066||164,100||2,255,779||CIV 21,808|| || ||[[Hellenic Cards#Tier 4 (Purple)|{{retext|Olive Branch|purple}}]]<br>Sand of Time +50<br>Exploration Speedup +160m
+|-
+|}
+
+===Dog Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Dog Warrior||312,622||165,620||2,299,849||ART 21,912|| || ||[[Hellenic Cards#Tier 4 (Purple)|{{retext|Olive Branch|purple}}]]<br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +170m
+|-
+|}
+
+===Pig Warrior===
+'''Area:''' 
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Pig Warrior||313,910||166,316||2,343,826||FTH 22,020|| || ||[[Hellenic Cards#Tier 5 (Orange)|{{retext|Olive Branch|orange}}]]<br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +180m
+|-
+|}
+</tabber>
+
+==Bharata==
+<tabber>
+|-|Past=
+===Sandy I===
+'''Area:''' South of Mt Spirit
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Sandy I||269777||163251||3837212||21544||[[Bharata Cards#Tier 2 (Green)|<span style="color:var(--green-text)">Rosary</span>]]<br>Sand of Time +50<br>Exploration Speedup +30m
+|-
+|''Scripture Monk III''||265283||160729||3779317||AFFCT 106500||B-tads +1,100, Sand of Time +10
+|-
+|''Scripture Monk VI''||266258||161333||3792409||AFFCT 106787||B-tads +1,100, Sand of Time +10
+|-
+|''Scripture Monk VII''||267127||161826||3803612||AFFCT 107008||B-tads +1,100, Sand of Time +10
+|-
+|''Scripture Monk IX''||268115||162366||3816199||AFFCT 107245||B-tads +1,100, Sand of Time +10
+|}
+
+===Pigsy I===
+'''Area:''' West of Mt Spirit
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Daimyo Kato||276551||166706||3941477||CIV 21865||<span style="color:var(--blue-text)">Rosary</span><br>Sand of Time +50<br>Exploration Speedup +1h
+|-
+|''Porcupine''||268646||162652||3822930||AFFCT 107368||B-tads +1,100, Sand of Time +10
+|-
+|''Domestic Pig''||270991||163885||3854187||AFFCT 107893||B-tads +1,100, Sand of Time +10
+|-
+|''Golden Pig''||273640||165242||3894646||AFFCT 108459||B-tads +1,100, Sand of Time +10
+|}
+
+===Monke I===
+'''Area:''' East of Mt Spirit
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Monke I||284975||170901||4092047||FAME 22240||<span style="color:var(--blue-text)">Rosary</span><br>Sand of Time +50<br>Exploration Speedup +90m
+|-
+|''Monkey Soldier A''||275064||165961||3917352||AFFCT 108756||B-tads +1,100, Sand of Time +10
+|-
+|''Monkey Soldier B''||278108||167485||3967777||AFFCT 109375||B-tads +1,100, Sand of Time +10
+|-
+|''Monkey Soldier C''||279747||168307||3997038||AFFCT 109699||B-tads +1,100, Sand of Time +10
+|-
+|''Monkey Soldier D''||281439||169151||4027531||AFFCT 110031||B-tads +1,100, Sand of Time +10
+|-
+|''Monkey Soldier E''||282742||169798||4051180||AFFCT 110284||B-tads +1,100, Sand of Time +10
+|}
+
+===Monk Sanzang I===
+'''Area:''' North of Mt Spirit
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Monk Sanzang I||294624||175608||4272413||FTH 22657||<span style="color:var(--blue-text)">Rosary</span><br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +2h
+|-
+|''Discipline''||283182||170016||4059213||AFFCT 110369||B-tads +1,100, Sand of Time +10
+|-
+|''Peace''|| - || - || - ||AFFCT - ||B-tads +1,100, Sand of Time +10
+|-
+|''Wisdom''||288701||172729||4161032||AFFCT 111425||B-tads +1,100, Sand of Time +10
+|}
+
+|-|Future=
+===Demon Sanzang LXXVI===
+'''Area:''' East Front
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Demon Sanzang LXXVI||298279||177458||4326290||FTH 22823||<span style="color:var(--green-text)">Rosary</span><br>Sand of Time +50<br>Exploration Speedup +30m
+|-
+|''Demon Sandy LXI''||293590||174780||4249227||AFFCT 112125||B-tads +1,100, Sand of Time +10
+|-
+|''Demon Pigsy LXXX''||294623||175431||4267706||AFFCT 112417||B-tads +1,100, Sand of Time +10
+|-
+|''Demon Monkey LXXII''||297683||177138||4316980||AFFCT 113137||B-tads +1,100, Sand of Time +10
+|}
+
+===Rebel Commander===
+'''Area:''' South Front
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Rebel Commander||305246||181067||4443381||TECH 23148||<span style="color:var(--blue-text)">Rosary</span><br>Sand of Time +50<br>Exploration Speedup +30m
+|-
+|''Rebel Infantry''||297109||176827||4307952||AFFCT 113008||B-tads +1,100, Sand of Time +10
+|-
+|''Artillery Rebel''||299531||178122||4347456||AFFCT 113540||B-tads +1,100, Sand of Time +10
+|-
+|''Armored Rebel''||300860||178817||4370176||AFFCT 113822||B-tads +1,100, Sand of Time +10
+|-
+|''Aerial Rebel''||302258||179541||4392988||AFFCT 114114||B-tads +1,100, Sand of Time +10
+|-
+
+|}
+
+===Earth's Will Control Tower===
+'''Area:''' West Front
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Earth's Will Control Tower||313696||185283||4592608||TECH 23523||<span style="color:var(--blue-text)">Rosary</span><br>Sand of Time +50<br>Exploration Speedup +30m
+|-
+|''Molar of Gaia''||303721||180291||4417447||AFFCT 114414||B-tads +1,100, Sand of Time +10
+|-
+|''Kidney of Gaia''||306829||181867||4470704||AFFCT 115040||B-tads +1,100, Sand of Time +10
+|-
+|''Intestines of Gaia''||310160||183533||4529253||AFFCT 115696||B-tads +1,100, Sand of Time +10
+|-
+|}
+
+===Ultimate Weapon No.68===
+'''Area:''' North Front
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Ultimate Weapon No.68||323345||189990||4770094||TECH 23940||<span style="color:var(--blue-text)">Rosary</span><br>[[Ma'at Tablet]] Frag +1<br>Exploration Speedup +2h
+|-
+|}
+</tabber>
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Koryeo]]
+[[Category:Yamato]]
+[[Category:Kemet]]

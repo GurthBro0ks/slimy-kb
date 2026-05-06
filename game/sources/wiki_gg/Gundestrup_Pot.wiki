@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Gundestrup Pot
+|class_id=21746
+|rank=AAA
+|affct=FAITH
+|source=
+|description=Gundestep Silver Pot is a famous ceramic utensil product. Its name comes from its unique exterior design, decorated with silver like patterns and luster on the surface. The design of the silver pot began in the early 20th century, created by designer Klinger. He was influenced by Chinese and Japanese porcelain and combined it with Scandinavian minimalist aesthetics to create this classic work. The characteristic of silver pots lies in their exquisite glaze treatment and decorative silver patterns, which are usually hand drawn. Each piece has unique characteristics, making it not only a practical household item, but also a sought after object for art collectors and porcelain enthusiasts.
+|fame=48
+|art=49
+|fth=73
+|civ=30
+|tech=43
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop ATK +12<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +12
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop ATK +16<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +16
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop ATK +20<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +20
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop ATK +28<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +28
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +36
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +36<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +28 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Green Reagent Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's FTH +10
+}}

@@ -1,0 +1,43 @@
+{{Missing Info|specifics=<br>Mirage: 5s Name, Awakened}}
+{{CargoRelic
+|name=Sistine Madonna
+|rank=SSS
+|affct=ART
+|birthday=10-26
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wishing (0.08%)
+|description=On Oct 26, 1514 AD, Raphael completed the painting Sistine Madonna for San Sisto, Piacenza.
+
+The Sistine Madonna supersedes the cold and unapproachable Madonnas of the Middle Ages. The triangular composition composed of the Virgin Mary and two saints below is well balanced. Raphael created an illusion of depth in the picture by leaving space between the characters.
+
+[The Sistine Madonna Info]
+
+Specification: 265x196cm<br>Type: Oil Painting<br>Collected by: Zwinger museum, Dresden, Germany
+|fame=55
+|art=109
+|fth=54
+|civ=66
+|tech=78
+|ss1=Snail ATK +30<br>Per 40 wishes made, Snail ATK +12<br>Per 40 wishes made, Snail DEF +12<br>Wishes Made: 400/400
+|ss2=Snail ATK +40<br>Per 40 wishes made, Snail ATK +16<br>Per 40 wishes made, Snail DEF +16<br>Wishes Made: 400/400
+|ss3=Snail ATK +50<br>Per 40 wishes made, Snail ATK +20<br>Per 40 wishes made, Snail DEF +20<br>Wishes Made: 400/400
+|ss4=Snail ATK +70<br>Per 40 wishes made, Snail ATK +28<br>Per 40 wishes made, Snail DEF +28<br>Wishes Made: 400/400
+|ss5=Snail ATK +90<br>Per 40 wishes made, Snail ATK +36<br>Per 40 wishes made, Snail DEF +36<br>Wishes Made: 400/400
+|ss6=Snail ATK +120<br>Per 40 wishes made, Snail ATK +48<br>Per 40 wishes made, Snail DEF +48<br>Wishes Made: 400/400
+|ss7=Snail ATK +120<br>Per 40 wishes made, Snail ATK +48<br>Per 40 wishes made, Snail DEF +48<br>Wishes Made: 400/400<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Snail ATK +600
+|skill2=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, INTEL gained +15%
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, DMG +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Wishing Boost]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:DMG Boosts]]
+[[Category:DNA Boost]]
+[[Category:HP Boost]]
+[[Category:Relic Boost]]
+[[Category:Rewards Organs]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Spaceship Model
+|class_id=20062
+|rank=Green
+|affct=CIV
+|source=
+|description=This is a spaceship model made of resin. It's rich in details and has photoelectric effects to simulate space flight to the highest extent. Because of the high cost, only a small batch was released worldwide, granting them high collection value!
+|fame=14
+|art=9
+|fth=19
+|civ=29
+|tech=19
+|ss1=Per 5 Mecha Gene LVLs, Snail RUSH +2<br>Mecha Gene LVLs Researched: 150/150
+|ss2=Per 5 Mecha Gene LVLs, Snail RUSH +4<br>Mecha Gene LVLs Researched: 150/150
+|ss3=Per 5 Mecha Gene LVLs, Snail RUSH +6<br>Mecha Gene LVLs Researched: 150/150
+|ss4=Per 5 Mecha Gene LVLs, Snail RUSH +6<br>Mecha Gene LVLs Researched: 150/150
+|ss7=Per 5 Mecha Gene LVLs, Snail RUSH +6<br>Mecha Gene LVLs Researched: 150/150<br> (Awakened)
+}}

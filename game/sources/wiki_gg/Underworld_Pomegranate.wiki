@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Underworld Pomegranate
+|class_id=22444
+|rank=Blue
+|affct=FAITH
+|birthday=04-03
+|source=Lottery Machine No.3 (0.25%)
+|description=On Apr 3, 4700 BC, Persephone ate several pomegranate seeds in the underworld, thus losing the opportunity to escape completely.<br>With Zeus' consent, Hades, who had long coveted the beauty of Persephone, abducted her into the underworld to be his wife. Her grieving mother, Demeter, searched for her everywhere, causing all life on earth to stop growing. Zeus was forced to compromise and sent an envoy to request that Hades return her. But due to Hades' trickery, Persephone ate several pomegranate seeds from the underworld, which required her to return to the underworld for several months each year.
+|fame=26
+|art=35
+|fth=48
+|civ=18
+|tech=27
+|ss1=Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +8<br>Frost Sanctum Rating Pts: 100000/100000
+|ss2=Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +16<br>Frost Sanctum Rating Pts: 100000/100000
+|ss3=Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Frost Sanctum Rating Pts: 100000/100000
+|ss4=Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Frost Sanctum Rating Pts: 100000/100000
+|ss7=Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Frost Sanctum Rating Pts: 100000/100000<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Hellas skill I.png|50px]]Place in Hellenic Museum: In Hellas, 2x Green Card Drops +2.5%
+}}

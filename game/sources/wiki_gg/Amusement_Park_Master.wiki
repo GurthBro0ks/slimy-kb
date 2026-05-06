@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Amusement Park Master
+|class_id=20472
+|rank=Green
+|affct=FAME
+|source=
+|description=Only the one who successfully challenged all the projects in the amusement park is qualified to get this certificate. The certificate comes with certain privileges, for example, sitting while waiting in the queue.
+|fame=31
+|art=16
+|fth=16
+|civ=14
+|tech=13
+|ss1=Per 5 Orange Museum Promos, Snail RUSH +7<br>Orange Museum Promos: 50/50
+|ss2=Per 5 Orange Museum Promos, Snail RUSH +14<br>Orange Museum Promos: 50/50
+|ss3=Per 5 Orange Museum Promos, Snail RUSH +21<br>Orange Museum Promos: 50/50
+|ss4=Per 5 Orange Museum Promos, Snail RUSH +21<br>Orange Museum Promos: 50/50
+|ss7=Per 5 Orange Museum Promos, Snail RUSH +21<br>Orange Museum Promos: 50/50<br> (Awakened)
+}}

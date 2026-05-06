@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Tengu Feather Fan
+|class_id=22452
+|rank=Blue
+|affct=FAITH
+|birthday=03-13
+|source=Lottery Machine No.3 (0.03%)
+|description=On Mar 13, 634 AD, a Tengu was spotted soaring through the sky and caught the attention of humans.<br>The Tengu is a legendary creature from Japanese folklore, depicted as having huge wings, a red face, and a long nose. It carries a fan that possesses incredible magical powers beyond human imagination. This fan can summon powerful storms and even temporarily influence the climate of its surroundings.
+|fame=23
+|art=33
+|fth=47
+|civ=21
+|tech=30
+|ss1=Per 5 Epic Protodex Stars, Snail DEF +3<br>Epic Protodex Stars: 100/100
+|ss2=Per 5 Epic Protodex Stars, Snail DEF +6<br>Epic Protodex Stars: 100/100
+|ss3=Per 5 Epic Protodex Stars, Snail DEF +9<br>Epic Protodex Stars: 100/100
+|ss4=Per 5 Epic Protodex Stars, Snail DEF +15<br>Epic Protodex Stars: 100/100
+|ss7=Per 5 Epic Protodex Stars, Snail DEF +15<br>Epic Protodex Stars: 100/100<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Yamato skill I.png|50px]]Place in Yamato Museum: In Yamato, Snail ATK +20
+}}

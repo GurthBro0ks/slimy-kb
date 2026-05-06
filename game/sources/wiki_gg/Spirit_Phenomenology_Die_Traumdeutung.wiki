@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Spirit Phenomenology,Die Traumdeutung
+|rank=orange
+|amount=2
+|category=home
+|description=Catalyzed Blue Spores turn to Purple by +0.7%
+}}
+[[Category:Home]]
+[[Category:Spore Color Change]]

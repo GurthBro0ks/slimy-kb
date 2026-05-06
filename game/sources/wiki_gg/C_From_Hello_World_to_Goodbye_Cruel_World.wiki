@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=C++- From Hello World to Goodbye Cruel World
+|class_id=20853
+|rank=Green
+|affct=TECH
+|source=
+|description=The only book where the segmentation faults teach you life lessons! Features:
+Memory leaks that mirror your existential dread
+Template metaprogramming to numb your soul
+[404's Notes]
+if (code_works) {dont_touch_it(); } else { blame_python(); }
+|fame=18
+|art=14
+|fth=13
+|civ=16
+|tech=29
+|ss1=Resolver: Mutagen Serum +100<br>Per 1.2k Gaia Tech Pts, Snail HP +10<br>Gaia Tech Pts: 60000/60000
+|ss2=Resolver: Mutagen Serum +200<br>Per 1.2k Gaia Tech Pts, Snail HP +20<br>Gaia Tech Pts: 60000/60000
+|ss3=Resolver: Mutagen Serum +300<br>Per 1.2k Gaia Tech Pts, Snail HP +30<br>Gaia Tech Pts: 60000/60000
+|ss4=Resolver: Mutagen Serum +300<br>Per 1.2k Gaia Tech Pts, Snail HP +30<br>Gaia Tech Pts: 60000/60000
+|ss7=Resolver: Mutagen Serum +300<br>Per 1.2k Gaia Tech Pts, Snail HP +30<br>Gaia Tech Pts: 60000/60000<br> (Awakened)
+}}

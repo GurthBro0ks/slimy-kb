@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Companions of Jehu
+|class_id=22715
+|rank=SSS
+|affct=CIV
+|birthday=05-12
+|source=Lottery Machine No.3 (0.12%)
+|description=On May 12, 1857 AD, The Companions of Jehu was first published.<br>The Companions of Jehu is a historical novel set against the backdrop of Napoleon's coup in the Brumaire of 18. Based on the Wan Dai rebellion, Dumas used his imagination to weave a vivid and thrilling story. In the book, Dumas portrayed two heroes on different sides, Roland and Morcerf, who repeatedly clashed and competed with each other. Through Dumas' careful arrangement, the novel became historicized and history became novelized, forming his unique style in historical fiction writing.
+|fame=79
+|art=66
+|fth=56
+|civ=109
+|tech=52
+|ss1=All Minion HP +0.6%<br>All Minion RUSH +0.6%<br>Per 50 Minions cloned, Snail ATK +9<br>Minions Cloned: 2000/2000
+|ss2=All Minion HP +0.8%<br>All Minion RUSH +0.8%<br>Per 50 Minions cloned, Snail ATK +10<br>Minions Cloned: 2000/2000
+|ss3=All Minion HP +1%<br>All Minion RUSH +1%<br>Per 50 Minions cloned, Snail ATK +11<br>Minions Cloned: 2000/2000
+|ss4=All Minion HP +1.4%<br>All Minion RUSH +1.4%<br>Per 50 Minions cloned, Snail ATK +13<br>Minions Cloned: 2000/2000
+|ss5=All Minion HP +1.8%<br>All Minion RUSH +1.8%<br>Per 50 Minions cloned, Snail ATK +15<br>Minions Cloned: 2000/2000
+|ss6=All Minion HP +2.4%<br>All Minion RUSH +2.4%<br>Per 50 Minions cloned, Snail ATK +18<br>Minions Cloned: 2000/2000
+|ss7=All Minion HP +2.4%<br>All Minion RUSH +2.4%<br>Per 50 Minions cloned, Snail ATK +18<br>Minions Cloned: 2000/2000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail CIV +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15
+|mirage={{Mirage|name=Summit Duel|reward={{RewardIconWithLink|Badge, +20|orange}}
+|3name=Morgan|3rec=152.90M|3atk=416419|3defense=259012|3hp=26124561|3weak=39170
+|4name=Laurent|4rec=207.93M|4atk=548303|4defense=336432|4hp=42292524|4weak=44693
+|5name=Cadoudal|5rec=304.41M|5atk=729738|5defense=436432|5hp=77878646|5weak=51870
+|6name=Napoleon|6rec=402.30M|6atk=892832|6defense=524495|6hp=112948465|6weak=55706
+|Arec=530.46M|Aatk=1116873|Adefense=639790|Ahp=200823697|Aweak=61687
+}}}}

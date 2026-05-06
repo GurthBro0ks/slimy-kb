@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dragon Artifact
+|class_id=20534
+|rank=Green
+|affct=CIV
+|source=
+|description=The Dragon Artifact is the treasure of Wudang Mountain, comprising three pieces, the most important of which is a delicate gold dragon. It measures about 3.6 inches long, weighs 15 grams, and is made of pure gold. It was left by Zhu Bai, son of Emperor Hongwu. Historical records show that after Emperor Jianwen ascended the throne and planned to reduce the power of the nobles, Zhu Bai saw his brothers being punished one after another, so he buried the gold dragon underground in hopes of escaping punishment. However, he ultimately could not avoid death, and his demise became the fuse for the Jingnan Rebellion.
+|fame=14
+|art=17
+|fth=14
+|civ=32
+|tech=13
+|ss1=Snail HP +200<br>Per Divine Dragon Descent, Snail ATK +3<br>Divine Dragon Descents: 20/20
+|ss2=Snail HP +400<br>Per Divine Dragon Descent, Snail ATK +6<br>Divine Dragon Descents: 20/20
+|ss3=Snail HP +600<br>Per Divine Dragon Descent, Snail ATK +9<br>Divine Dragon Descents: 20/20
+|ss4=Snail HP +600<br>Per Divine Dragon Descent, Snail ATK +9<br>Divine Dragon Descents: 20/20
+|ss7=Snail HP +600<br>Per Divine Dragon Descent, Snail ATK +9<br>Divine Dragon Descents: 20/20<br> (Awakened)
+}}

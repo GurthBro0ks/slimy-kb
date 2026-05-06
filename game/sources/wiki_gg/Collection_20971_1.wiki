@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20971_1
+|class_id=20971
+|rank=Green
+|affct=FAME
+|source=
+|description=collection@20971_2
+|fame=33
+|art=13
+|fth=17
+|civ=15
+|tech=12
+|ss1=Per 3 Floating Isle species defeated, Snail HP +10<br>Floating Isle species defeated: 180/180
+|ss2=Per 3 Floating Isle species defeated, Snail HP +20<br>Floating Isle species defeated: 180/180
+|ss3=Per 3 Floating Isle species defeated, Snail HP +30<br>Floating Isle species defeated: 180/180
+|ss4=Per 3 Floating Isle species defeated, Snail HP +30<br>Floating Isle species defeated: 180/180
+|ss7=Per 3 Floating Isle species defeated, Snail HP +30<br>Floating Isle species defeated: 180/180<br> (Awakened)
+}}

@@ -1,0 +1,35 @@
+== Super Motor Cortex ==
+"Subject 15 has stabilized. Dopamine from the brain is increased twenty-fold, and the subject took less than seven minutes to run a marathon." --Superbrain Files
+
+{{Organ Tabber
+|Name=Super Motor Cortex
+|Rarity=green
+|ID Number=8
+|Initial HP=0
+|HP Increase=0
+|Initial ATK=0
+|ATK Increase=0
+|Initial DEF=0
+|DEF Increase=0
+|Initial RUSH=3
+|RUSH Increase=0
+|Effect 1=When exploring, Dodge +5%
+|Initial Effect Value 1=
+|Effect Value Increase 1=
+|Effect 2=
+|Initial Effect Value 2=
+|Effect Value Increase 2=
+|Effect 3=
+|Initial Effect Value 3=
+|Effect Value Increase 3=
+|Effect 4=
+|Initial Effect Value 4=
+|Effect Value Increase 4=
+|}}
+
+== Source ==
+Starting Evolution
+
+[[Category:Organs]]
+[[Category:Green Organs]]
+__NOTOC__

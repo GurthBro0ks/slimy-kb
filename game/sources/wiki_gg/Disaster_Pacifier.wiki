@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Disaster Pacifier
+|class_id=20469
+|rank=Green
+|affct=FAME
+|source=
+|description=A disaster created by God once threatened the fate of mankind, but a mighty one came to the rescue, relieving humans of danger. This is the citation for him!
+|fame=31
+|art=17
+|fth=15
+|civ=10
+|tech=17
+|ss1=Per 500 Fissure Floors, Snail ATK +3<br>Fissure Floor: 15000/15000
+|ss2=Per 500 Fissure Floors, Snail ATK +6<br>Fissure Floor: 15000/15000
+|ss3=Per 500 Fissure Floors, Snail ATK +9<br>Fissure Floor: 15000/15000
+|ss4=Per 500 Fissure Floors, Snail ATK +9<br>Fissure Floor: 15000/15000
+|ss7=Per 500 Fissure Floors, Snail ATK +9<br>Fissure Floor: 15000/15000<br> (Awakened)
+}}

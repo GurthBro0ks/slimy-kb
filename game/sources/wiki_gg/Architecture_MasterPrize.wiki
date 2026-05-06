@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Architecture MasterPrize
+|class_id=22874
+|rank=SSS
+|affct=CIV
+|source=
+|description=The Architecture MasterPrize is an international architectural award aimed at recognizing designers worldwide who demonstrate outstanding innovation and achievement in architecture, interior design, landscape design, architectural product design, and architectural photography. The award emphasizes the innovation, practicality, and contribution to improving quality of life in design. It also promotes the exposure of high-quality architectural design globally, providing award-winning designers with broader collaboration opportunities.
+|fame=72
+|art=67
+|fth=59
+|civ=109
+|tech=55
+|ss1=Snail RUSH +30<br>Per 3 Dorm Decors gained, Snail DEF +3<br>prop@53196_2<br>Dorm Decor Gained: 150/150
+|ss2=Snail RUSH +40<br>Per 3 Dorm Decors gained, Snail DEF +4<br>prop@53196_2<br>Dorm Decor Gained: 150/150
+|ss3=Snail RUSH +50<br>Per 3 Dorm Decors gained, Snail DEF +5<br>prop@53196_2<br>Dorm Decor Gained: 150/150
+|ss4=Snail RUSH +70<br>Per 3 Dorm Decors gained, Snail DEF +7<br>prop@53196_2<br>Dorm Decor Gained: 150/150
+|ss5=Snail RUSH +90<br>Per 3 Dorm Decors gained, Snail DEF +9<br>prop@53196_2<br>Dorm Decor Gained: 150/150
+|ss6=Snail RUSH +120<br>Per 3 Dorm Decors gained, Snail DEF +12<br>prop@53196_2<br>Dorm Decor Gained: 150/150
+|ss7=Snail RUSH +120<br>Per 3 Dorm Decors gained, Snail DEF +12<br>prop@53196_2<br>Dorm Decor Gained: 150/150<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: Medal Output +30
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's CIV +15
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x INTEL Drops +15%
+|mirage={{Mirage|name=dungeon@22874_1|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Landscape City Designer|3rec=404.95M|3atk=931354|3defense=526875|3hp=254557673|3weak=69517
+|4name=Naturalistic Architect|4rec=509.79M|4atk=1110375|4defense=621196|4hp=419961593|4weak=75621
+|5name=Japanese Aesthetic Architect|5rec=670.91M|5atk=1492636|5defense=769062|5hp=673420485|5weak=84061
+|6name=Minimalist Architect|6rec=919.94M|6atk=2286459|6defense=1036149|6hp=1195859649|6weak=94473
+|Arec=1337.41M|Aatk=3426236|Adefense=1441185|Ahp=2146130374|Aweak=107500
+}}}}

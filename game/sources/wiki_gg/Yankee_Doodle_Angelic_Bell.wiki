@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=594
+|relics=Yankee Doodle,Angelic Bell
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Mutant Minions in battle: Troop HARD Stats +5
+}}

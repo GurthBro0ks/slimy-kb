@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Shower Girl
+|rank=blue
+|cabin=2
+|id=6
+|gene1={race} DEF +20
+|gene2={race} FAME +20
+|gene3=DMG REDUC +100
+|gene4=Per 10 Angel Minions in battle:
+> Troop DEF +2
+|gene5=DMG REDUC +200
+|}}

@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Gun Squad II Hitman
+|rank=blue
+|cabin=2
+|id=41
+|gene1={race} RUSH +20
+|gene2={race} TECH +20
+|gene3=Free Gene Speedup (Mecha) +6m
+|gene4=Per 10 Mecha Minions in battle:
+> Troop RUSH +2
+|gene5=Free Gene Speedup (Mecha) +12m
+|}}

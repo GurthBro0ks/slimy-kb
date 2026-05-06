@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Investiture of Gods
+|class_id=22672
+|rank=S
+|affct=FAITH
+|birthday=11-18
+|source=Lottery Machine No.3 (1.62%)
+|description=On Nov 18, 1571 AD, the book "Investiture of Gods" was completed.<br>This long novel, born in the Ming Dynasty, is one of the classics in Chinese history. In the form of a romance, it interprets the story of King Wu of Zhou overthrowing the tyrant King Zhou, interweaving with folk myths, reflecting the historical context of that time, and embodying a kind of people-oriented thought that was contrary to feudal ethics but packaged as a "mandate of heaven," which had a profound influence on future generations. The content of the book also includes the magical battles between the gods and demons, showcasing the author's rich imagination, greatly adding to the interest of the work and making it a classic of its time.
+|fame=55
+|art=68
+|fth=97
+|civ=50
+|tech=62
+|ss1=Demon God Cabin, deployable robots +1<br>Per 3 Frost Protomon, Snail ATK +2<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +16<br>Frost Protomon: 60/60
+|ss2=Demon God Cabin, deployable robots +2<br>Per 3 Frost Protomon, Snail ATK +4<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +32<br>Frost Protomon: 60/60
+|ss3=Demon God Cabin, deployable robots +3<br>Per 3 Frost Protomon, Snail ATK +6<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +48<br>Frost Protomon: 60/60
+|ss4=Demon God Cabin, deployable robots +5<br>Per 3 Frost Protomon, Snail ATK +10<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +80<br>Frost Protomon: 60/60
+|ss5=Demon God Cabin, deployable robots +7<br>Per 3 Frost Protomon, Snail ATK +14<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +112<br>Frost Protomon: 60/60
+|ss6=Demon God Cabin, deployable robots +10<br>Per 3 Frost Protomon, Snail ATK +20<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +160<br>Frost Protomon: 60/60
+|ss7=Demon God Cabin, deployable robots +10<br>Per 3 Frost Protomon, Snail ATK +20<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +160<br>Frost Protomon: 60/60<br>Demon God Cabin, deployable robots +10 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail ATK +600
+|skill2=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: This Relic's FTH +15
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop Water DMG +60
+|mirage={{Mirage|name=Dynasty Makers|reward={{RewardIconWithLink|W-tad, +1000|orange}}
+|3name=Master Jiang Ziya|3rec=106.45M|3atk=306827|3defense=193664|3hp=16087902|3weak=35157
+|4name=King Wu of Zhou|4rec=142.36M|4atk=390835|4defense=244192|4hp=23598600|4weak=38399
+|Arec=202.40M|Aatk=534433|Adefense=328659|Ahp=40511880|Aweak=43823
+}}}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Soul Jade
+|class_id=20108
+|rank=Green
+|affct=ART
+|source=
+|description=Rumor has it that this is an heirloom of the elven clan, and if the possessor is an elf, they will be granted great power. But no one has confirmed the legend after so many years, perhaps it's just a way of advertising their merchandise.
+|fame=16
+|art=31
+|fth=15
+|civ=19
+|tech=9
+|ss1=Per 3 kinds of souls offered, Snail HP +10<br>Souls offered: 300/300 types
+|ss2=Per 3 kinds of souls offered, Snail HP +20<br>Souls offered: 300/300 types
+|ss3=Per 3 kinds of souls offered, Snail HP +30<br>Souls offered: 300/300 types
+|ss4=Per 3 kinds of souls offered, Snail HP +30<br>Souls offered: 300/300 types
+|ss7=Per 3 kinds of souls offered, Snail HP +30<br>Souls offered: 300/300 types<br> (Awakened)
+}}

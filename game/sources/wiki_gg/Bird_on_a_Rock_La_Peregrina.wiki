@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=386
+|relics=Bird on a Rock,La Peregrina
+|rank=purple
+|amount=2
+|category=self
+|description=Mutant Minion HP +6%
+}}

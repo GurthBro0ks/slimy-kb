@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Gift from Leeku
+|class_id=20007
+|rank=Green
+|affct=CIV
+|source=
+|description=
+|fame=18
+|art=13
+|fth=18
+|civ=28
+|tech=13
+|ss1=Snail HP +100
+|ss2=Snail HP +200
+|ss3=Snail HP +300
+|ss4=Snail HP +300
+|ss7=Snail HP +300<br> (Awakened)
+}}

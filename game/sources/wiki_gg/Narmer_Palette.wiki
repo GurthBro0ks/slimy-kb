@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Narmer Palette
+|class_id=22318
+|rank=SSS
+|affct=CIV
+|birthday=12-09
+|source=
+|description=On Dec 9, 3000 BC, after unifying Egypt, Narmer had someone record his achievement on the palette.<br>The Narmer Palette is a shield-shaped palette that records the reign of Pharaoh Narmer. On the front side, Narmer is wearing a white crown and holding a scepter while his enemy is fleeing. On the back, he is wearing a red crown on a battlefield full of enemy bodies. The white crown stands for Upper Egypt while the red one stands for Lower Egypt. His wearing both symbolizes the unification of Egypt. Therefore, the palette is also a symbol of Narmer's unification of Egypt.
+|fame=73
+|art=67
+|fth=60
+|civ=107
+|tech=55
+|ss1=Vending Machine Glue Purchases +3<br>Quantum Amp gives Nebula Chest Shards by +1.8%<br>Per 5 Quantum Amp LVLs, Snail ATK +15<br>Per 5 Quantum Amp LVLs, Snail RUSH +15<br>Quantum Amp LVL: 50/50
+|ss2=Vending Machine Glue Purchases +3<br>Quantum Amp gives Nebula Chest Shards by +2.4%<br>Per 5 Quantum Amp LVLs, Snail ATK +20<br>Per 5 Quantum Amp LVLs, Snail RUSH +20<br>Quantum Amp LVL: 50/50
+|ss3=Vending Machine Glue Purchases +3<br>Quantum Amp gives Nebula Chest Shards by +3%<br>Per 5 Quantum Amp LVLs, Snail ATK +25<br>Per 5 Quantum Amp LVLs, Snail RUSH +25<br>Quantum Amp LVL: 50/50
+|ss4=Vending Machine Glue Purchases +3<br>Quantum Amp gives Nebula Chest Shards by +4.2%<br>Per 5 Quantum Amp LVLs, Snail ATK +35<br>Per 5 Quantum Amp LVLs, Snail RUSH +35<br>Quantum Amp LVL: 50/50
+|ss5=Vending Machine Glue Purchases +3<br>Quantum Amp gives Nebula Chest Shards by +5.4%<br>Per 5 Quantum Amp LVLs, Snail ATK +45<br>Per 5 Quantum Amp LVLs, Snail RUSH +45<br>Quantum Amp LVL: 50/50
+|ss6=Vending Machine Glue Purchases +3<br>Quantum Amp gives Nebula Chest Shards by +7.2%<br>Per 5 Quantum Amp LVLs, Snail ATK +60<br>Per 5 Quantum Amp LVLs, Snail RUSH +60<br>Quantum Amp LVL: 50/50
+|ss7=Vending Machine Glue Purchases +3<br>Quantum Amp gives Nebula Chest Shards by +7.2%<br>Per 5 Quantum Amp LVLs, Snail ATK +60<br>Per 5 Quantum Amp LVLs, Snail RUSH +60<br>Quantum Amp LVL: 50/50<br>Quantum Amp gives Nebula Chest Shards by +6% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail CIV +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Reagent Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=Narmer's Exploits|reward={{RewardIconWithLink|Coating Bucket, +3|orange}}
+|3name=Lower Kemetic Captive|3rec=41.65M|3atk=153639|3defense=102499|3hp=6663317|3weak=20252
+|4name=Upper Kemetic Soldier|4rec=54.15M|4atk=180004|4defense=120088|4hp=8816698|4weak=22574
+|5name=Grand Priest|5rec=68.25M|5atk=209730|5defense=139919|5hp=11563511|5weak=27451
+|6name=Narmer|6rec=83.66M|6atk=242223|6defense=161597|6hp=14855146|6weak=31562
+|Arec=100.41M|Aatk=277552|Adefense=185166|Ahp=18805667|Aweak=34558
+}}}}

@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Tesla Coil
+|rank=AAA
+|affct=TECH
+|birthday=01-31
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Tool Chest (1.5%), Wishing (0.14%)
+|description=On Jan 31, 1891, Tesla invented a resonant transformer. 
+
+The Tesla Coil consists of 2 sets of coupled resonance circuits. He conducted a large number of coil configuration tests before finding the electric power that has ultra-high voltage, low current, and high frequency AC power. This technology can be widely used in electrical lighting, fluorescence spectroscopy, high-frequency AC current, and also in radio transmission.
+
+[Types of electric coils]
+
+1. Spark gap coil<br>2. Solid-state coil<br>3. Solid-state coil with horn-break switch<br>4. Dual-resonance coil<br>5. Offline coil
+|fame=42
+|art=45
+|fth=39
+|civ=44
+|tech=73
+|ss1=Mecha Minion Cloning SPD +3%<br>Mecha Gene Research B-tad Cost -1.8%
+|ss2=Mecha Minion Cloning SPD +4%<br>Mecha Gene Research B-tad Cost -2.4%
+|ss3=Mecha Minion Cloning SPD +5%<br>Mecha Gene Research B-tad Cost -3%
+|ss4=Mecha Minion Cloning SPD +7%<br>Mecha Gene Research B-tad Cost -4.2%
+|ss5=Mecha Minion Cloning SPD +9%<br>Mecha Gene Research B-tad Cost -5.4%
+|ss7=Mecha Minion Cloning SPD +9%<br>Mecha Gene Research B-tad Cost -5.4%<br>Mecha Gene Research B-tad Cost -4.2% (Awakened)
+|skill1=[[File:Yamato skill II.png|50px]] Place in Yamato Museum: In Yamato, TECH Checks -10
+|skill2=[[File:Yamato skill II.png|50px]] Place in Yamato Museum: In Yamato, B-tads gained -7.5% 
+}}
+
+[[Category:Mecha Minion Cloning Speed Boost]]
+[[Category:Mecha Gene Cost Reduction]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:TECH Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Angel Gene Speedup Boost]]
+[[Category:Lottery Bead Color Change]]
+[[Category:Keyboard Warrior Boost]]

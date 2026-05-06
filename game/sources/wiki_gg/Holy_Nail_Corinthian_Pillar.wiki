@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=99
+|relics=Holy Nail,Corinthian Pillar
+|rank=purple
+|amount=2
+|category=self
+|description=In explorations, 2x B-tad Drops +2.4%
+}}

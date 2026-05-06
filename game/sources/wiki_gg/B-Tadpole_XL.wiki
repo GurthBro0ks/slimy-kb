@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=B-Tadpole XL
+|class_id=20019
+|rank=Green
+|affct=ART
+|source=Intercept [[Hitmen|Hitman No.16]]
+|description=A B-tad in the pond suddenly gained intelligence after absorbing natural spiritual energy. A Demon God promised to endow intelligence to its kind, so it agreed to become a Hitman. Shortly after, the B-tad became a Relic!
+|fame=18
+|art=29
+|fth=16
+|civ=12
+|tech=15
+|ss1=Tadpole Pond B-tad Output +2%
+|ss2=Tadpole Pond B-tad Output +4%
+|ss3=Tadpole Pond B-tad Output +6%
+|ss4=Tadpole Pond B-tad Output +6%
+|ss7=Tadpole Pond B-tad Output +6%<br> (Awakened)
+}}

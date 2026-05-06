@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Mr. Raccoon
+|rank=purple
+|cabin=2
+|id=70
+|gene1={race} DEF +30
+|gene2={race} FAME +30
+|gene3=Per 30 Demon Minions in battle:
+> Troop DEF +8
+|gene4=Gene Simulation Power Checks -0.6%
+|gene5=Per 30 Demon Minions in battle:
+> Troop DEF +12
+|gene6=Gene Simulation Power Checks -0.9%
+|}}

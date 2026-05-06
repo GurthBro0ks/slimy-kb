@@ -1,0 +1,567 @@
+== Ninjutsu ==
+Ninjutsu is the unique mechanic in [[Yamato]] and has four types: Fire, Aqua, Thunder, and Earth. Each type corresponds to one of the Snail's HARD stats. By hitting the grids relating to Ninjutsu (named Soul of [type]) durring exploration, you can acquire the necessary points for upgrading each type. 
+
+At first, you can only upgrade each jutsu to Tier 4, but through [[Yamato INTEL|INTEL]] you can upgrade it to maximum (Tier 20). In addition to these tiers, each type has 3 special techniques with 5 levels each that can be upgraded for an extra boost. Upgrading each of these techniques to maximum rewards {{RewardIconWithText|Mirror Frag}}s, which are used to upgrade Yamato's [[Realm Traits|Realm Trait]], the {{RewardIconWithLink|Sacred Mirror}}. 
+
+Once each jutsu is at its maximum (Tier 20), a challenge from the ninja of that jutsu will appear on the map. Defeating each of the four ninjas will unlock the final, fifth ninja and completing all of these will complete the [[Yamato Key Clues|Yamato Key Clue]] "Ultimate Ninja Challenge."
+
+== Stats ==
+You have the option to Practice one of the four Jutsu, which will gain experience for that Jutsu much faster. This experience is used to upgrade each Jutsu to the next tier. The recommended order is Fire > Thunder > Earth > Aqua.
+
+Each Tier 8 Precious Box gives {{RewardIconWithText|Green Reagent, +20|green}} and {{RewardIconWithLink|Yamato Treasure Map, +30}}.
+
+Each Tier 16 Precious Box gives {{RewardIconWithText|Blue Reagent, +15|blue}} and {{RewardIconWithLink|Yamato Treasure Map, +50}}.
+{| class="wikitable"
+!Tier
+!Req. Experience
+!Fire-Jutsu
+!Aqua-Jutsu
+!Thunder-Jutsu
+!Earth-Jutsu
+|-
+|1
+|
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|2
+|1000
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|3
+|2000
+|ATK +10
+|HP +10
+|RUSH +10
+|DEF +10
+|-
+|4
+|3000
+|ATK +10<br>Unlock Great Fireball
+|HP +100<br>Unlock Palm Empower
+|RUSH +10<br>Unlock Flicker
+|DEF +10<br>Unlock Clone Jutsu
+|-
+|5
+|4500
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|6
+|6000
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|7
+|7500
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|8
+|9000
+|ATK +10<br>Get {{RewardIconWithText|Fire Precious Box}}
+|HP +100<br>Get {{RewardIconWithText|Aqua Precious Box}}
+|RUSH +10<br>Get {{RewardIconWithText|Thunder Precious Box}}
+|DEF +10<br>Get {{RewardIconWithText|Earth Precious Box}}
+|-
+|9
+|10500
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|10
+|12500
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|11
+|10500
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|12
+|15000
+|ATK +10<br>Unlock Great Flame Bullet
+|HP +100<br>Unlock Slug Heal
+|RUSH +10<br>Unlock Teleportation
+|DEF +10<br>Unlock Revival Jutsu
+|-
+|13
+|15000
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|14
+|15000
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|15
+|15000
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|16
+|15000
+|ATK +10<br>Get {{RewardIconWithText|Flame Precious Box}}
+|HP +100<br>Get {{RewardIconWithText|Ice Precious Box}}
+|RUSH +10<br>Get {{RewardIconWithText|Lightning Precious Box}}
+|DEF +10<br>Get {{RewardIconWithText|Rock Precious Box}}
+|-
+|17
+|15000
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|18
+|15000
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|19
+|15000
+|ATK +10
+|HP +100
+|RUSH +10
+|DEF +10
+|-
+|20
+|15000
+|ATK +10<br>Unlock Flame Dragon Bullet
+|HP +100<br>Unlock Thousand Seal
+|RUSH +10<br>Unlock Art of Flying Raijin
+|DEF +10<br>Unlock Reincarnation
+|}
+
+== Jutsu Techniques ==
+To upgrade each of the techniques within each Jutus, {{RewardIconWithText|Chakra}} is needed. {{RewardIconWithText|Chakra}} is gathered while exploring and, if you run out, you can exchange spare INTEL for {{RewardIconWithText|Chakra}}. To do this, try "Acquire" and a Chakra Transformation prompt will pop up. 10 Yamato INTEL = 1 Chakra. 
+
+=== Fire-Jutsu ===
+Each Fire-Jutsu Technique has the additional boost of "Per 50 AFFCT, Extra DMG +1"
+
+==== Great Fireball ====
+{| class="wikitable"
+!Level
+!Req. Chakra
+!Effect
+|-
+|1
+|40
+|Before combat, deal 100% DMG
+|-
+|2
+|100
+|Before combat, deal 110% DMG
+|-
+|3
+|180
+|Before combat, deal 120% DMG
+|-
+|4
+|280
+|Before combat, deal 130% DMG
+|-
+|5
+|400
+|Before combat, deal 140% DMG<br>Obtain {{RewardIconWithText|Mirror Frag, +5}}
+|}
+
+==== Great Flame Bullet ====
+{| class="wikitable"
+!Level
+!Req. Chakra
+!Effect
+|-
+|1
+|600
+|Before combat, deal 150% DMG
+|-
+|2
+|800
+|Before combat, deal 160% DMG
+|-
+|3
+|1000
+|Before combat, deal 170% DMG
+|-
+|4
+|1200
+|Before combat, deal 180% DMG
+|-
+|5
+|1500
+|Before combat, deal 190% DMG<br>Obtain {{RewardIconWithText|Mirror Frag, +10}}
+|}
+
+==== Flame Dragon Bullet ====
+{| class="wikitable"
+!Level
+!Req. Chakra
+!Effect
+|-
+|1
+|1500
+|Before combat, deal 200% DMG
+|-
+|2
+|1500
+|Before combat, deal 210% DMG
+|-
+|3
+|1500
+|Before combat, deal 220% DMG
+|-
+|4
+|1500
+|Before combat, deal 230% DMG
+|-
+|5
+|1500
+|Before combat, deal 250% DMG<br>Obtain {{RewardIconWithText|Mirror Frag, +15}}
+|}
+
+=== Aqua-Jutsu ===
+Each Water-Jutsu Technique has the additional boost of "Per 50 AFFCT, Snail HP +50"
+
+==== Palm Empower ====
+{| class="wikitable"
+!Level
+!Req. Chakra
+!Effect
+|-
+|1
+|40
+|Each round, Snail HP +10
+|-
+|2
+|100
+|Each round, Snail HP +20
+|-
+|3
+|180
+|Each round, Snail HP +30
+|-
+|4
+|280
+|Each round, Snail HP +40
+|-
+|5
+|400
+|Each round, Snail HP +50<br>Obtain {{RewardIconWithText|Mirror Frag, +5}}
+|}
+
+==== Slug Heal ====
+{| class="wikitable"
+!Level
+!Req. Chakra
+!Effect
+|-
+|1
+|600
+|Each round, Snail HP +60
+|-
+|2
+|800
+|Each round, Snail HP +70
+|-
+|3
+|1000
+|Each round, Snail HP +80
+|-
+|4
+|1200
+|Each round, Snail HP +90
+|-
+|5
+|1500
+|Each round, Snail HP +100<br>Obtain {{RewardIconWithText|Mirror Frag, +10}}
+|}
+
+==== Thousand Seal ====
+{| class="wikitable"
+!Level
+!Req. Chakra
+!Effect
+|-
+|1
+|1500
+|Each round, Snail HP +110
+|-
+|2
+|1500
+|Each round, Snail HP +120
+|-
+|3
+|1500
+|Each round, Snail HP +130
+|-
+|4
+|1500
+|Each round, Snail HP +140
+|-
+|5
+|1500
+|Each round, Snail HP +150<br>Obtain {{RewardIconWithText|Mirror Frag, +15}}
+|}
+
+=== Thunder-Jutsu ===
+Each Thunder-Jutsu Technique has the additional boost of "Per 100 AFFCT, Snail RUSH and DEF +9%"
+
+==== Flicker ====
+{| class="wikitable"
+!Level
+!Req. Chakra
+!Effect
+|-
+|1
+|40
+|Before combat, Snail RUSH and DEF +5%
+|-
+|2
+|100
+|Before combat, Snail RUSH and DEF +6%
+|-
+|3
+|180
+|Before combat, Snail RUSH and DEF +7%
+|-
+|4
+|280
+|Before combat, Snail RUSH and DEF +8%
+|-
+|5
+|400
+|Before combat, Snail RUSH and DEF +9%<br>Obtain {{RewardIconWithText|Mirror Frag, +5}}
+|}
+
+==== Teleportation ====
+{| class="wikitable"
+!Level
+!Req. Chakra
+!Effect
+|-
+|1
+|600
+|Before combat, Snail RUSH and DEF +10%
+|-
+|2
+|800
+|Before combat, Snail RUSH and DEF +11%
+|-
+|3
+|1000
+|Before combat, Snail RUSH and DEF +12%
+|-
+|4
+|1200
+|Before combat, Snail RUSH and DEF +13%
+|-
+|5
+|1500
+|Before combat, Snail RUSH and DEF +14%<br>Obtain {{RewardIconWithText|Mirror Frag, +10}}
+|}
+
+==== Art of Flying Raijin ====
+{| class="wikitable"
+!Level
+!Req. Chakra
+!Effect
+|-
+|1
+|1500
+|Before combat, Snail RUSH and DEF +15%
+|-
+|2
+|1500
+|Before combat, Snail RUSH and DEF +16%
+|-
+|3
+|1500
+|Before combat, Snail RUSH and DEF +17%
+|-
+|4
+|1500
+|Before combat, Snail RUSH and DEF +18%
+|-
+|5
+|1500
+|Before combat, Snail RUSH and DEF +20%<br>Obtain {{RewardIconWithText|Mirror Frag, +15}}
+|}
+
+=== Earth-Jutsu ===
+Each Eath-Jutsu Technique has the added boost of "Per 50 AFFCT, Regen +1"
+
+==== Clone Jutsu ====
+{| class="wikitable"
+!Level
+!Req. Chakra
+!Effect
+|-
+|1
+|40
+|Revive upon death and restore 10% HP
+|-
+|2
+|100
+|Revive upon death and restore 12% HP
+|-
+|3
+|180
+|Revive upon death and restore 14% HP
+|-
+|4
+|280
+|Revive upon death and restore 16% HP
+|-
+|5
+|400
+|Revive upon death and restore 18% HP<br>Obtain {{RewardIconWithText|Mirror Frag, +5}}
+|}
+
+==== Revival Jutsu ====
+{| class="wikitable"
+!Level
+!Req. Chakra
+!Effect
+|-
+|1
+|600
+|Revive upon death and restore 20% HP
+|-
+|2
+|800
+|Revive upon death and restore 22% HP
+|-
+|3
+|1000
+|Revive upon death and restore 24% HP
+|-
+|4
+|1200
+|Revive upon death and restore 26% HP
+|-
+|5
+|1500
+|Revive upon death and restore 28% HP<br>Obtain {{RewardIconWithText|Mirror Frag, +10}}
+|}
+
+==== Reincarnation ====
+{| class="wikitable"
+!Level
+!Req. Chakra
+!Effect
+|-
+|1
+|1500
+|Revive upon death and restore 30% HP
+|-
+|2
+|1500
+|Revive upon death and restore 32% HP
+|-
+|3
+|1500
+|Revive upon death and restore 34% HP
+|-
+|4
+|1500
+|Revive upon death and restore 36% HP
+|-
+|5
+|1500
+|Revive upon death and restore 40% HP<br>Obtain {{RewardIconWithText|Mirror Frag, +15}}
+|}
+
+== Ultimate Ninja Challenge ==
+After raising each Jutsu to Tier 20, a ninja will apear on the map for a challenge for each. After defeating all four, a fifth ninja will appear. 
+{| class="wikitable"
+!Jutsu
+!Ninja
+!Area
+!ATK
+!DEF
+!HP
+!Weakness
+!~Power to defeat
+!Reward
+|-
+|Fire
+|Momochi
+|Nana
+|13,775
+|3,350
+|22,598
+|AFFCT 17,155
+|200k
+|Soul of Momochi<br>{{RewardIconWithLink|Yamato Treasure Map, +40}}
+|-
+|Aqua
+|Kaguya
+|Cansai
+|11,815
+|4,114
+|32,156
+|AFFCT 17,905
+|200k
+|Soul of Kaguya<br>{{RewardIconWithLink|Yamato Treasure Map, +40}}
+|-
+|Thunder
+|Sarutabi
+|Canto
+|12,405
+|4,731
+|31,866
+|AFFCT 19,505
+|200K
+|Soul of Sarutabi<br>{{RewardIconWithLink|Yamato Treasure Map, +40}}
+|-
+|Earth
+|Kato
+|Chupu
+|12,536
+|4,721
+|34,187
+|AFFCT 20,705
+|200k
+|Soul of Kato<br>{{RewardIconWithLink|Yamato Treasure Map, +40}}
+|-
+|Shadow
+|Amakusa
+|Gyushu
+|13,836
+|7,841
+|62,176
+|AFFCT 25,305
+|290K
+|Soul of Amakusa<br>{{RewardIconWithLink|Kani Jade|purple}}<br>{{RewardIconWithLink|Yamato Treasure Map, +80}}
+|}
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Yamato]]

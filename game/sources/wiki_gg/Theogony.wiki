@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Theogony
+|class_id=22158
+|rank=AAA
+|affct=FAITH
+|birthday=11-21
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Nov 21, 700 BC, Hesiod completed his great work, which told the story of the gods.<br>Theogony, a narrative by the ancient Greek poet Hesiod, is divided into three parts: a prologue that pays tribute to the Muses, a main text that describes the creation and relationships of the gods, and an epilogue that explores the offspring of gods, demi-gods, and heroes, as well as the creation of related poems.
+|fame=39
+|art=52
+|fth=74
+|civ=36
+|tech=42
+|ss1=Per 30 Angel Minions in battle:<br>> Troop HP +120<br>Per 30 Angel Minions in battle:<br>> Troop ATK +12
+|ss2=Per 30 Angel Minions in battle:<br>> Troop HP +160<br>Per 30 Angel Minions in battle:<br>> Troop ATK +16
+|ss3=Per 30 Angel Minions in battle:<br>> Troop HP +200<br>Per 30 Angel Minions in battle:<br>> Troop ATK +20
+|ss4=Per 30 Angel Minions in battle:<br>> Troop HP +280<br>Per 30 Angel Minions in battle:<br>> Troop ATK +28
+|ss5=Per 30 Angel Minions in battle:<br>> Troop HP +360<br>Per 30 Angel Minions in battle:<br>> Troop ATK +36
+|ss7=Per 30 Angel Minions in battle:<br>> Troop HP +360<br>Per 30 Angel Minions in battle:<br>> Troop ATK +36<br>Per 30 Angel Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Angel Cells gained +7.5%
+}}

@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Goblin Shaman
+|rank=purple
+|cabin=2
+|id=82
+|gene1={race} HP +300
+|gene2={race} FAME +30
+|gene3=Per 30 Demon Minions in battle:
+> Troop HP +80
+|gene4=Water DMG +20
+|gene5=Per 30 Demon Minions in battle:
+> Troop HP +120
+|gene6=Water DMG +30
+|}}

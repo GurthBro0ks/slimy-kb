@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=The Rose Garden
+|class_id=22052
+|rank=Blue
+|affct=FAITH
+|birthday=06-18
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jun 18, 1578 AD, Jimmy Le drew his own understanding of alchemy into the rose garden illustration.<br>Also known as the Philosopher's Rose Garden, is a collection of ten peculiar drawings, the content of which is closely related to the mind and alchemy. These ten pictures, starting from a fountain, show a pair of kings and queens and their process of getting acquainted, bathing, union, death, out-of-body and return, and finally, rebirth. It not only records the outline of alchemy in Latin America in the early Middle Ages but also implies the exploration and cognition of the mind and subconscious by alchemists.
+|fame=28
+|art=32
+|fth=44
+|civ=20
+|tech=30
+|ss1=Dragon Minion DEF +1%
+|ss2=Dragon Minion DEF +2%
+|ss3=Dragon Minion DEF +3%
+|ss4=Dragon Minion DEF +5%
+|ss7=Dragon Minion DEF +5%<br>Dragon Minion DEF +5% (Awakened)
+|skill1=[[File:Fungusfarm skill I.png|50px]]Place in Fungus Farm: Grow Wonder Fungus by +5%
+}}

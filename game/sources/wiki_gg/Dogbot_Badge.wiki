@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dogbot Badge
+|class_id=20305
+|rank=Green
+|affct=TECH
+|source=
+|description=This badge once belonged to a CyberVendorian Dogbot. These diesel-powered machines are rather underprivileged on their planet. They resented the Catbots for taking over too many resources and formed a resistance to fight them. The homeworld has almost been completely destroyed in the endless war.
+|fame=14
+|art=16
+|fth=16
+|civ=17
+|tech=27
+|ss1=Per 5 Mecha Gene LVLs, Snail ATK +2<br>Mecha Gene LVLs Researched: 150/150
+|ss2=Per 5 Mecha Gene LVLs, Snail ATK +4<br>Mecha Gene LVLs Researched: 150/150
+|ss3=Per 5 Mecha Gene LVLs, Snail ATK +6<br>Mecha Gene LVLs Researched: 150/150
+|ss4=Per 5 Mecha Gene LVLs, Snail ATK +6<br>Mecha Gene LVLs Researched: 150/150
+|ss7=Per 5 Mecha Gene LVLs, Snail ATK +6<br>Mecha Gene LVLs Researched: 150/150<br> (Awakened)
+}}

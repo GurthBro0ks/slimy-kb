@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Longevity Lock
+|class_id=20287
+|rank=Green
+|affct=FAITH
+|source=
+|description=After Lord Erlang suppressed Saint Mother, he gave this Longevity Lock to Chenxiang, hoping to keep him by his side. However, whether he genuinely wanted to take care of his nephew or intended to use Chenxiang to threaten Saint Mother, no one knew.
+|fame=13
+|art=17
+|fth=33
+|civ=15
+|tech=12
+|ss1=Per 10 HP-Fungi eaten, Snail HP +10<br>Per 10 HP-Fungi eaten, Snail ATK +1<br>HP-Fungi Eaten: 500/500
+|ss2=Per 10 HP-Fungi eaten, Snail HP +20<br>Per 10 HP-Fungi eaten, Snail ATK +2<br>HP-Fungi Eaten: 500/500
+|ss3=Per 10 HP-Fungi eaten, Snail HP +30<br>Per 10 HP-Fungi eaten, Snail ATK +3<br>HP-Fungi Eaten: 500/500
+|ss4=Per 10 HP-Fungi eaten, Snail HP +30<br>Per 10 HP-Fungi eaten, Snail ATK +3<br>HP-Fungi Eaten: 500/500
+|ss7=Per 10 HP-Fungi eaten, Snail HP +30<br>Per 10 HP-Fungi eaten, Snail ATK +3<br>HP-Fungi Eaten: 500/500<br> (Awakened)
+}}

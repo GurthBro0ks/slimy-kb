@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Cuddly Bear
+|class_id=20950
+|rank=Green
+|affct=FAME
+|source=
+|description=The simple-looking plush toy bear gives children endless joy and comfort, becoming a cherished memory of their childhood. The bear is like a little sun, for every minute they share hugging and playing together, it makes them feel the warmth and hope of life.
+|fame=30
+|art=18
+|fth=14
+|civ=16
+|tech=12
+|ss1=Per Partner you have, Snail ATK +1<br>Per Partner you have, Snail RUSH +1<br>Current Partners: 15/15
+|ss2=Per Partner you have, Snail ATK +2<br>Per Partner you have, Snail RUSH +2<br>Current Partners: 15/15
+|ss3=Per Partner you have, Snail ATK +3<br>Per Partner you have, Snail RUSH +3<br>Current Partners: 15/15
+|ss4=Per Partner you have, Snail ATK +3<br>Per Partner you have, Snail RUSH +3<br>Current Partners: 15/15
+|ss7=Per Partner you have, Snail ATK +3<br>Per Partner you have, Snail RUSH +3<br>Current Partners: 15/15<br> (Awakened)
+}}

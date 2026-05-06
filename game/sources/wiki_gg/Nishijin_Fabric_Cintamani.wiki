@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=396
+|relics=Nishijin Fabric,Cintamani
+|rank=purple
+|amount=2
+|category=self
+|description=Angel Minion DEF +6%
+}}

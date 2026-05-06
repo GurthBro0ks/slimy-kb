@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Somersault Cloud
+|rank=SSS
+|affct=FTH
+|birthday=11-11
+|source=* Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Super Treasure Maps (0.03%), Wish Box, Wishing (0.06%)
+* "I want your collection!" [[Altar#Relics_and_Gear|Dragon Wish]]
+|description=On Nov 11, 327 BC, Master Bodhi taught Monkey King how to use Somersault Cloud.<br>Somersault Cloud is the tool that the immortals use to fly. When Monkey King used it for the first time, he could only fly a few inches instead of traveling 108,000 miles in a blink. Somersault Cloud can help Monkey King get away from the troubles, but in the eyes of others, they all envy that the Somersault Cloud gets him a stable job as a courier.<br>[Who travels fastest]<br>Monkey King: A flip to travel 108,000 miles away.<br>Suparna: Its wings can expand to 54,00 miles.<br>Devil: Whenever you speak of it, it's there.
+|fame=73
+|art=56
+|fth=106
+|civ=73
+|tech=54
+|ss1=Travel SPD +0.6%<br>Per Orange+ Gear equipped, Snail RUSH +6<br>Per 10k Power, Snail RUSH +5<br>Power: 90,000/90,000
+|ss2=Travel SPD +0.8%<br>Per Orange+ Gear equipped, Snail RUSH +8<br>Per 10k Power, Snail RUSH +5<br>Power: 120,000/120,000
+|ss3=Travel SPD +1%<br>Per Orange+ Gear equipped, Snail RUSH +10<br>Per 10k Power, Snail RUSH +5<br>Power: 150,000/150,000
+|ss4=Travel SPD +1.4%<br>Per Orange+ Gear equipped, Snail RUSH +14<br>Per 10k Power, Snail RUSH +5<br>Power: 210,000/210,000
+|ss5=Travel SPD +1.8%<br>Per Orange+ Gear equipped, Snail RUSH +18<br>Per 10k Power, Snail RUSH +5<br>Power: 270,000/270,000
+|ss6=Travel SPD +2.4%<br>Per Orange+ Gear equipped, Snail RUSH +24<br>Per 10k Power, Snail RUSH +5<br>Power: 360,000/360,000
+|ss7=Travel SPD +2.4%<br>Per Orange+ Gear equipped, Snail RUSH +24<br>Per 10k Power, Snail RUSH +5<br>Power: 360,000/360,000<br>Per Orange+ Gear equipped, Snail RUSH +20 (Awakened)
+|skill1=[[File:Cathay skill III.png|50x50px]]Place in Cathay Museum: In Cathay, Travel SPD +9%
+|skill2=[[File:Cathay skill III.png|50x50px]]Place in Cathay Museum: In Cathay, 2x Blue Reagent Drops +15%
+|skill3=[[File:Cathay skill III.png|50x50px]]Place in Cathay Museum: In Cathay, 2x Orange Reagent Drops +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Travel Speed Boost]]
+[[Category:Gear Boost]]
+[[Category:RUSH Boost]]
+[[Category:Power Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:DNA Boost]]
+[[Category:Altar Descent Relics]]
+[[Category:Dragon Collection Relics]]
+[[Category:Nightmare Steed Boost]]
+[[Category:Little Monk Boost]]
+[[Category:Rewards Wish Coin]]

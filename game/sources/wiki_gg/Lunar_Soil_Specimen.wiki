@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Lunar Soil Specimen
+|class_id=20367
+|rank=Green
+|affct=TECH
+|source=
+|description=This seemingly insignificant piece of soil is a precious specimen collected from the moon. It contains a lot of valuable information about the moon and has extremely high scientific research value. Scientists all over the world wish to possess it.
+|fame=14
+|art=18
+|fth=13
+|civ=14
+|tech=31
+|ss1=Per 500 TECH, Snail DEF +1<br>TECH: 15000/15000
+|ss2=Per 500 TECH, Snail DEF +2<br>TECH: 15000/15000
+|ss3=Per 500 TECH, Snail DEF +3<br>TECH: 15000/15000
+|ss4=Per 500 TECH, Snail DEF +3<br>TECH: 15000/15000
+|ss7=Per 500 TECH, Snail DEF +3<br>TECH: 15000/15000<br> (Awakened)
+}}

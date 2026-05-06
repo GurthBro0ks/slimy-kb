@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Chronometer,Divergence Meter
+|rank=blue
+|amount=2
+|category=self
+|description=Per 400 Relic Points, Snail RUSH +3<br>Relic Points: 10,000/10,000
+}}
+[[Category:Self]]

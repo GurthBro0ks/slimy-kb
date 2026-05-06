@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=456
+|relics=Cross of Lorraine,Nightingale Medal
+|rank=orange
+|amount=2
+|category=self
+|description=Angel Minion MAX +7
+}}

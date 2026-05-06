@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Edelweiss
+|class_id=20272
+|rank=Green
+|affct=CIV
+|source=
+|description=Blooming at the summit of high mountains, these flowers endure shaping by wind and snow. Due to their growth in remote, inhospitable high mountains, few have the chance to witness the blooming of them.
+|fame=14
+|art=12
+|fth=18
+|civ=33
+|tech=13
+|ss1=Per 10 Minions in battle:<br>> Troop HP +10
+|ss2=Per 10 Minions in battle:<br>> Troop HP +20
+|ss3=Per 10 Minions in battle:<br>> Troop HP +30
+|ss4=Per 10 Minions in battle:<br>> Troop HP +30
+|ss7=Per 10 Minions in battle:<br>> Troop HP +30<br> (Awakened)
+}}

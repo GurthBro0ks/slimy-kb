@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=492
+|relics=Untitled,Salvator Mundi
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Dragon Minions in battle: Troop HARD Stats +21
+}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Bull-Leaping Fresco
+|class_id=22521
+|rank=AAA
+|affct=FAME
+|birthday=03-22
+|source=
+|description=On Mar 22, 1899 AD, archaeologists excavated the Bull-Leaping Fresco in the Palace of Knossos.<br>This ancient mural was created during the Minoan civilization on the island of Crete, depicting a scene of three young men and women completing a rite of passage. In the painting, a fair-skinned woman on the left grasps the bull's horns while a brown-skinned man vaults over the bull's back, conveying a strong sense of movement. The emergence of this mural demonstrates the high level of artistic achievement of the Minoan civilization, indirectly reflecting the high level of cultural prosperity at that time.
+|fame=73
+|art=37
+|fth=39
+|civ=44
+|tech=50
+|ss1=Dismantle 1 Purple Brand: Gain 1 more fragment by 6%<br>Per 10 Protomon, Priest-Troop Assistance DMG +24<br>Protomon Gained: 600/600
+|ss2=Dismantle 1 Purple Brand: Gain 1 more fragment by 8%<br>Per 10 Protomon, Priest-Troop Assistance DMG +32<br>Protomon Gained: 600/600
+|ss3=Dismantle 1 Purple Brand: Gain 1 more fragment by 10%<br>Per 10 Protomon, Priest-Troop Assistance DMG +40<br>Protomon Gained: 600/600
+|ss4=Dismantle 1 Purple Brand: Gain 1 more fragment by 14%<br>Per 10 Protomon, Priest-Troop Assistance DMG +56<br>Protomon Gained: 600/600
+|ss5=Dismantle 1 Purple Brand: Gain 1 more fragment by 18%<br>Per 10 Protomon, Priest-Troop Assistance DMG +72<br>Protomon Gained: 600/600
+|ss7=Dismantle 1 Purple Brand: Gain 1 more fragment by 18%<br>Per 10 Protomon, Priest-Troop Assistance DMG +72<br>Protomon Gained: 600/600<br>Dismantle 1 Purple Brand: Gain 1 more fragment by 14% (Awakened)
+|skill1=[[File:Swampsanctum skill II.png|50px]]Place in Swamp Sanctum: This Relic's FAME +10
+|skill2=[[File:Swampsanctum skill II.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Cap +15%
+}}

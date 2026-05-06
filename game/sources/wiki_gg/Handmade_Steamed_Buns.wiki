@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=These buns are specially made for travelers. Not only are they exceptionally large in size, but their outer skin is also remarkably firm. They can be carried on one's person and the taste is so delightful that it's truly unforgettable!
+|affct=CIV
+|hard=ATK
+|source=[[T-Day Feast]] Nov. 17 - Nov. 23 2023
+|color=purple
+|earth=6
+|water=7
+|fire=6
+|wind=7
+|form=Dragon
+|element=Fire
+|realm=Rift
+|orangehard=ATK
+}}

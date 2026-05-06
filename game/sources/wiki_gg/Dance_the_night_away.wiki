@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=A party fanatic's best invention. With this shell and a portable speaker, you can dance wherever you want!
+|affct=TECH
+|hard=DEF
+|source=EDM Event: Tour Super Gacha Machine (2%)
+|color=purple
+|earth=7
+|water=6
+|fire=6
+|wind=7
+|form=Dragon
+|element=Fire
+|realm=Rift
+|orangehard=ATK
+}}

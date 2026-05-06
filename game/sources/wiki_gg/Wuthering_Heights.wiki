@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Wuthering Heights
+|class_id=22885
+|rank=SSS
+|affct=CIV
+|source=
+|description=Wuthering Heights is Emily's only novel, which, unlike her sister Charlotte's Jane Eyre, features a unique narrative structure and intense emotional conflicts. It tells the story of the generations-long feud between the Earnshaw and Linton families in the remote and desolate Yorkshire moors. The protagonist, Heathcliff, is adopted by the Earnshaw family as a child and develops a tortuous and painful love tragedy with Catherine Earnshaw. Through Wuthering Heights, Emily presents the complexity and contradictions of human nature, depicting the struggles of individuals entangled in social class, love, and hatred. She creates a unique tragic beauty that transcends Romanticism, reflecting a profound insight into human nature, love, and social ethics.
+|fame=73
+|art=72
+|fth=59
+|civ=107
+|tech=51
+|ss1=All minion skins RUSH +10%<br>Protomon Snail assist DMG + 240<br>Per 3 Epic Protodex Entries, Snail HP +90<br>Epic Protodex Entries: 60/60
+|ss2=All minion skins RUSH +20%<br>Protomon Snail assist DMG + 320<br>Per 3 Epic Protodex Entries, Snail HP +120<br>Epic Protodex Entries: 60/60
+|ss3=All minion skins RUSH +30%<br>Protomon Snail assist DMG + 400<br>Per 3 Epic Protodex Entries, Snail HP +150<br>Epic Protodex Entries: 60/60
+|ss4=All minion skins RUSH +50%<br>Protomon Snail assist DMG + 560<br>Per 3 Epic Protodex Entries, Snail HP +210<br>Epic Protodex Entries: 60/60
+|ss5=All minion skins RUSH +70%<br>Protomon Snail assist DMG + 720<br>Per 3 Epic Protodex Entries, Snail HP +270<br>Epic Protodex Entries: 60/60
+|ss6=All minion skins RUSH +100%<br>Protomon Snail assist DMG + 960<br>Per 3 Epic Protodex Entries, Snail HP +360<br>Epic Protodex Entries: 60/60
+|ss7=All minion skins RUSH +100%<br>Protomon Snail assist DMG + 960<br>Per 3 Epic Protodex Entries, Snail HP +360<br>Epic Protodex Entries: 60/60<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail DEF +600
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: Medal Output +30
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x Purple Reagent Drops +15%
+}}

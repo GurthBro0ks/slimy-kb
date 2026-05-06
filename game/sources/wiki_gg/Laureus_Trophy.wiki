@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Laureus Trophy
+|class_id=20409
+|rank=Green
+|affct=FAME
+|source=
+|description=Annually, Laureus Trophy goes to the most outstanding male and female athletes in the world. It is one of the most influential prizes in sports. It is also the only global sports award ceremony, the pinnacle of glory for athletes!
+|fame=28
+|art=16
+|fth=15
+|civ=15
+|tech=16
+|ss1=Gene Simulation Power Checks -3%<br>Per 30 Gene Sim LVLs, Snail ATK +2<br>Gene Sim LVLs: 900/900
+|ss2=Gene Simulation Power Checks -6%<br>Per 30 Gene Sim LVLs, Snail ATK +4<br>Gene Sim LVLs: 900/900
+|ss3=Gene Simulation Power Checks -9%<br>Per 30 Gene Sim LVLs, Snail ATK +6<br>Gene Sim LVLs: 900/900
+|ss4=Gene Simulation Power Checks -9%<br>Per 30 Gene Sim LVLs, Snail ATK +6<br>Gene Sim LVLs: 900/900
+|ss7=Gene Simulation Power Checks -9%<br>Per 30 Gene Sim LVLs, Snail ATK +6<br>Gene Sim LVLs: 900/900<br> (Awakened)
+}}

@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Game managers wear the same snail shirts every day, and ask their family and friends to spend money on the game, so the game managers can get paid!
+|affct=FAME
+|hard=DEF
+|source=[[Altar#One_time_wishes|Dragon Wish "I want to meet the GM"]]
+|color=blue
+|earth=3
+|water=4
+|fire=5
+|wind=2
+|form=Dragon
+|element=Water
+|realm=Yamato
+|orangehard=HP
+}}

@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Mask of Zorro,Musketeer Mask
+|rank=blue
+|amount=2
+|category=minion
+|description=Per 10 Angel Minions in battle: Troop ATK +5
+}}
+[[Category:Minion]]
+[[Category:Angel Minion ATK Boost]]

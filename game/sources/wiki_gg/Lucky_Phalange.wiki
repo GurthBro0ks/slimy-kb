@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Lucky Phalange
+|type=Common
+|rank=purple
+|id=10831
+|idx=36
+|description="All patrons are required to undergo an MRI scan of their hands upon entering the casino. Anyone found to have abnormal finger bones will not be allowed to enter!"
+—Casino Venezia Admission Instructions
+|skill=
+|hp=1236
+|def=236
+|atk=146
+|rush=126
+|gene1=In Zombie Form, {race} ATK +60
+|gene2=In Zombie Form, {race} RUSH +60
+|gene3=In Zombie Form, {race} HP +600
+|gene4=In Zombie Form, {race} DEF +60
+|gene7=In Zombie Form, {race} HARD +1% (Awakened)
+|}}

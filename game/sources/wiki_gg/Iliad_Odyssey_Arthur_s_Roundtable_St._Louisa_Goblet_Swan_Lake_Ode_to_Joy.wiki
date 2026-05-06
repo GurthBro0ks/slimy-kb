@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=265
+|relics=Iliad & Odyssey,Arthur's Roundtable,St. Louisa Goblet,Swan Lake,Ode to Joy
+|rank=orange
+|amount=5
+|category=self
+|description=Per 1k DNA Strength, Snail ATK +5;DNA Strength: 60000/60000
+}}

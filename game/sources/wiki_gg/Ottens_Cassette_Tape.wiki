@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Ottens Cassette Tape
+|class_id=22410
+|rank=Blue
+|affct=FAME
+|birthday=06-04
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jun 4, 1963 AD, the cassette tape invented by Audeon made its debut at the Berlin Radio Electronics Exhibition.<br>At that time, the magnetic tape used in tape recorders was very bulky and not easy to carry, and it needed to be manually winded, making it quite inconvenient to use. Audeon improved upon this and successfully invented the new cassette tape, which was only about one-fourth the size of the previous tape, making portable tape recorders possible.
+|fame=45
+|art=27
+|fth=19
+|civ=31
+|tech=32
+|ss1=Per 5 Epic Protodex Stars, Snail HP +30<br>Epic Protodex Stars: 100/100
+|ss2=Per 5 Epic Protodex Stars, Snail HP +60<br>Epic Protodex Stars: 100/100
+|ss3=Per 5 Epic Protodex Stars, Snail HP +90<br>Epic Protodex Stars: 100/100
+|ss4=Per 5 Epic Protodex Stars, Snail HP +150<br>Epic Protodex Stars: 100/100
+|ss7=Per 5 Epic Protodex Stars, Snail HP +150<br>Epic Protodex Stars: 100/100<br>Snail HP +500 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +10
+}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=The Fifer
+|class_id=22145
+|rank=AAA
+|affct=ART
+|birthday=10-31
+|source=
+|description=On Oct 31, 1866 AD, the French artist Manet painted The Fifer.<br>The Fifer is an oil painting that depicts a young soldier from the army band playing piccolo. The boy stands on his right foot and, with his body slightly tilted, plays a tune on the instrument with intensely focused expression. The work was once rejected by the official salon due to its lack of detail and interesting background, but it is now considered a pioneering work of Impressionist figure painting.
+|fame=39
+|art=75
+|fth=41
+|civ=49
+|tech=39
+|ss1=Quantum Amp Max Cap +3%<br>Per 5 Quantum Amp LVLs, Snail DEF +12<br>Quantum Amp LVL: 50/50
+|ss2=Quantum Amp Max Cap +4%<br>Per 5 Quantum Amp LVLs, Snail DEF +16<br>Quantum Amp LVL: 50/50
+|ss3=Quantum Amp Max Cap +5%<br>Per 5 Quantum Amp LVLs, Snail DEF +20<br>Quantum Amp LVL: 50/50
+|ss4=Quantum Amp Max Cap +7%<br>Per 5 Quantum Amp LVLs, Snail DEF +28<br>Quantum Amp LVL: 50/50
+|ss5=Quantum Amp Max Cap +9%<br>Per 5 Quantum Amp LVLs, Snail DEF +36<br>Quantum Amp LVL: 50/50
+|ss7=Quantum Amp Max Cap +9%<br>Per 5 Quantum Amp LVLs, Snail DEF +36<br>Quantum Amp LVL: 50/50<br>Quantum Amp Max Cap +7% (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's ART +10
+}}

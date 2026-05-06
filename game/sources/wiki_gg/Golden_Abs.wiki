@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Golden Abs
+|type=Common
+|rank=blue
+|id=10809
+|idx=10
+|description=Do you want to get V-cut abs without doing exercises? Just transplant these perfect abs!
+|skill=
+|hp=1312
+|def=123
+|atk=73
+|rush=90
+|gene1=Per 20 Wonder Fungi eaten, {race} DEF +10
+Wonder Fungi used: 60/60
+|gene2=Wind RES +30
+|gene3=In Snail Arena, {race} DEF +20
+|gene7=Wind RES +90 (Awakened)
+|}}

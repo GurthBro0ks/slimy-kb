@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Code of Law
+|rank=Blue
+|affct=FAME
+|birthday=10-08
+|source=Lottery Machine (0.03%), Wishing (1.2%)
+|description=On Oct 8, AD 528, Emperor Justinian of Eastern Rome issued a royal decree that had a deep impact on future generations. Justinian the Great formed a judicial committee to write new laws to stabilize the empire and strengthen the power of the emperor. The new codex consists of 10 volumes with 168 additional laws. It consists of four parts, namely the Codex Jusinianeus, the Institutiones, and the Novellae. This new code has set the basis for the future establishment of civil law. It is one of the important codices in the law field. 
+
+[Classic Quotes]
+
+The majesty and glory of the Emperor should be built on laws but not weapons.
+|fame=47
+|art=29
+|fth=23
+|civ=28
+|tech=27
+|ss1=Per 400 Relic Points, Snail ATK +3<br>Relic Points: 2,000/2,000
+|ss2=Per 400 Relic Points, Snail ATK +3<br>Relic Points: 4,000/4,000
+|ss3=Per 400 Relic Points, Snail ATK +3<br>Relic Points: 6,000/6,000
+|ss4=Per 400 Relic Points, Snail ATK +3<br>Relic Points: 10,000/10,000
+|ss7=Per 400 Relic Points, Snail ATK +3<br>Relic Points: 10,000/10,000<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Kemet skill I.png|frameless|50x50px]] Place in Kemetic Museum: In Kemet, Snail DEF +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:FAME Relics]]
+[[Category:Blue FAME Relics]]
+[[Category:ATK Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:HP Boost]]

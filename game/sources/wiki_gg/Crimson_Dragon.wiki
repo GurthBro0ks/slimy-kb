@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Crimson Dragon
+|rank=orange
+|cabin=2
+|id=190
+|gene1={race} HP +500
+|gene2={race} FAME +50
+|gene3=For Round 1, All ELMT DMG +1.5%
+|gene4=Per 60 Dragon Minions in battle,
+Troop Water DMG +6
+|gene5=Dragon Minion Recovery SPD +1.5%
+|gene6=Per 60 Dragon Minions in battle,
+Troop Water DMG +10
+|gene7=Dragon Minion Recovery SPD +2.5%
+|}}

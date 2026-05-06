@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Pigeon Specimen
+|class_id=20157
+|rank=Green
+|affct=ART
+|source=
+|description=This specimen was made from the dead body of the last passenger pigeon in the world. In the past, billions of passenger pigeons lived a carefree life on the American continent. However, due to over-hunting, this beautiful creature went extinct within just a hundred years, reminding people of the sin they committed in the past.
+|fame=19
+|art=30
+|fth=15
+|civ=12
+|tech=14
+|ss1=Exploration Egg hatching rate +3%<br>Per 10 Exploration Eggs hatched, Snail HP +10<br>400/400 Exploration Eggs hatched
+|ss2=Exploration Egg hatching rate +3%<br>Per 10 Exploration Eggs hatched, Snail HP +20<br>400/400 Exploration Eggs hatched
+|ss3=Exploration Egg hatching rate +3%<br>Per 10 Exploration Eggs hatched, Snail HP +30<br>400/400 Exploration Eggs hatched
+|ss4=Exploration Egg hatching rate +3%<br>Per 10 Exploration Eggs hatched, Snail HP +30<br>400/400 Exploration Eggs hatched
+|ss7=Exploration Egg hatching rate +3%<br>Per 10 Exploration Eggs hatched, Snail HP +30<br>400/400 Exploration Eggs hatched<br> (Awakened)
+}}

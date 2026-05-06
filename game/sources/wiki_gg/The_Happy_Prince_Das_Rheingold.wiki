@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=334
+|relics=The Happy Prince,Das Rheingold
+|rank=blue
+|amount=2
+|category=self
+|description=Per 1.5k Tadpole Points, Snail HP +50;Tadpole Points: 45000/45000
+}}

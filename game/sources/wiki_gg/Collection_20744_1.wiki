@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20744_1
+|class_id=20744
+|rank=Green
+|affct=FAITH
+|source=
+|description=collection@20744_2
+|fame=14
+|art=15
+|fth=30
+|civ=16
+|tech=15
+|ss1=Per 20 Chores completed, Snail ATK +3<br>Chores Completed: 300/300
+|ss2=Per 20 Chores completed, Snail ATK +6<br>Chores Completed: 300/300
+|ss3=Per 20 Chores completed, Snail ATK +9<br>Chores Completed: 300/300
+|ss4=Per 20 Chores completed, Snail ATK +9<br>Chores Completed: 300/300
+|ss7=Per 20 Chores completed, Snail ATK +9<br>Chores Completed: 300/300<br> (Awakened)
+}}

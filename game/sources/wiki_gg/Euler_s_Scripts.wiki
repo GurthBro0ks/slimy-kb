@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Euler's Scripts
+|class_id=22201
+|rank=AAA
+|affct=TECH
+|birthday=06-06
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Jun 6, 1909 AD, a large number of Euler's manuscripts were discovered in St. Petisberg, which greatly disrupted the Swesh Federation of Natural Sciences' plan to collect and publish his works.<br>These manuscripts come from the Swiss mathematics master Euler. As the most prolific mathematician in history, he wrote an average of more than 800 pages every year. Even though he was blind in his later years, he could continue his research with the help of clerks by virtue of his amazing memory and mental arithmetic ability. He not only promoted the development of calculus, but also made great contributions in the fields of number theory, astronomy, geometry, and mechanics. After his death, the Petersburg Academy of Sciences spent forty-seven years sorting the works he left behind.
+|fame=51
+|art=35
+|fth=47
+|civ=35
+|tech=75
+|ss1=Per 30 Time Chests opened, Snail DEF +3<br>Per 30 Time Chests opened, Snail RUSH +3<br>Time Chests Opened: 1500/1500
+|ss2=Per 30 Time Chests opened, Snail DEF +4<br>Per 30 Time Chests opened, Snail RUSH +4<br>Time Chests Opened: 1500/1500
+|ss3=Per 30 Time Chests opened, Snail DEF +5<br>Per 30 Time Chests opened, Snail RUSH +5<br>Time Chests Opened: 1500/1500
+|ss4=Per 30 Time Chests opened, Snail DEF +7<br>Per 30 Time Chests opened, Snail RUSH +7<br>Time Chests Opened: 1500/1500
+|ss5=Per 30 Time Chests opened, Snail DEF +9<br>Per 30 Time Chests opened, Snail RUSH +9<br>Time Chests Opened: 1500/1500
+|ss7=Per 30 Time Chests opened, Snail DEF +9<br>Per 30 Time Chests opened, Snail RUSH +9<br>Time Chests Opened: 1500/1500<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, food consumed -7.5%
+|skill2=[[File:Compass skill II.png|50px]]Place in Exploration Compass: This Relic's TECH +10
+}}

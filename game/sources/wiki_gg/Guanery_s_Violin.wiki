@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Guanery's Violin
+|rank=Blue
+|affct=ART
+|birthday=01-23
+|source=* Lottery Machine (0.03%), Wishing (1.2%)
+* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})
+* [[Leeku]] - [[Partners#Rent_List|normal rent]]
+|description=On Jan 23, 1741, Guarneri spent the last four years of his life creating the best instrument.
+
+Guarneri made four violins at the later stage of his life, and this is one of them. For this violin, he no longer focused on details but strived for an overall harmony and pursued a freer violin-making technique. It completely got rid of Stradivarius' influence and found its own unique style. The lines of the violin became longer and straighter. They were less symmetrical and precise yet strong  and powerful as a whole. 
+
+[Basic Info]
+
+Violin length: 355 mm. Middle bout width: 113 mm. Lower bout width: 205 mm. Upper bout width: 167 mm. Rib width: 30 mm.
+|fame=19
+|art=45
+|fth=29
+|civ=31
+|tech=30
+|ss1=In Angel Form, Travel SPD +0.2%
+|ss2=In Angel Form, Travel SPD +0.4%
+|ss3=In Angel Form, Travel SPD +0.6%
+|ss4=In Angel Form, Travel SPD +1%
+|ss7=In Angel Form, Travel SPD +1%<br>In Angel Form, Travel SPD +1%
+|skill1=[[File:Compass skill I.png|50px]]Place in Exploration Compass: This Relic's ART +5
+}}
+
+[[Category:Travel Speed Boost]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Stan Boost]]
+[[Category:Indigent Nobleman Relics]]

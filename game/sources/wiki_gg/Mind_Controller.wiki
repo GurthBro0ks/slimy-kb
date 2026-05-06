@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Mind Controller
+|class_id=21830
+|rank=SS
+|affct=TECH
+|birthday=09-29
+|source=
+|description=On Sep 29, 2077 AD, the Mind Controller was invented and used in actual combat.<br>Sirius alien warships invaded Earth. They used the mind controller to set up a pervasive Mind Control network, easily controlling most of the minds of living things on Earth. When the leader of the Sirius Alliance presses the psychic bag's button, all its networks will be activated, controlling and destroying intelligent life.
+[3 Laws of Mind Control]
+Mind Control: Provides Mind Control abilities. Mindless: Immune to the poisonous gas of Mind Control and Neural Assault Vehicles. Mind Transfer: You can change who is performing Mind Control.
+|fame=61
+|art=50
+|fth=65
+|civ=70
+|tech=101
+|ss1=Per 60 Mutant Minions in battle:<br>> Troop ATK +9<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +9<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Per 60 Mutant Minions in battle:<br>> Troop ATK +18<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +18<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Per 60 Mutant Minions in battle:<br>> Troop ATK +27<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +27<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Per 60 Mutant Minions in battle:<br>> Troop ATK +45<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +45<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Per 60 Mutant Minions in battle:<br>> Troop ATK +63<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +63<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Per 60 Mutant Minions in battle:<br>> Troop ATK +90<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +90<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Per 60 Mutant Minions in battle:<br>> Troop ATK +90<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +90<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x Blue Card Drops +15%
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Water RES +60
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Water DMG +600
+|mirage={{Mirage|name=Mind Control|reward={{RewardIconWithLink|Golden Eyelashes Sample, +3|orange}}
+|3name=Troop Conscript|3rec=6.20M|3atk=64123|3defense=41953|3hp=1249729|3weak=12309
+|4name=Tesla Footman|4rec=13.20M|4atk=96440|4defense=63095|4hp=2622317|4weak=16008
+|5name=Brainwasher|5rec=32.39M|5atk=136744|5defense=89465|5hp=4961915|5weak=18760
+|Arec=55.81M|Aatk=187102|Adefense=122411|Ahp=8862261|Aweak=21291
+}}}}

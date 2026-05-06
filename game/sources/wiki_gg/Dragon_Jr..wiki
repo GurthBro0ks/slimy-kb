@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Dragon Jr.
+|rank=purple
+|cabin=2
+|id=56
+|gene1={race} HP +300
+|gene2={race} ART +30
+|gene3=Per 30 Dragon Minions in battle:
+> Troop HP +80
+|gene4=Micro Incubator: Convert Blue product to Purple by + 0.2%
+|gene5=Per 30 Dragon Minions in battle:
+> Troop HP +120
+|gene6=Micro Incubator: Convert Blue product to Purple by + 0.3%
+|}}

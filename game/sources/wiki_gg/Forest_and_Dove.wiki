@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Forest and Dove
+|class_id=22426
+|rank=Blue
+|affct=ART
+|birthday=03-27
+|source=Lottery Machine No.3 (0.06%)
+|description=On Mar 27, 1927 AD, Max Ernst completed his Forest and Dove.<br>This painting is the work of surrealist painter Max Ernst. In the creation of this painting, he used his invented frottage technique. The patterns obtained by rubbing stimulated his inspiration, and he depicted a black forest full of ominous and oppressive feelings, unconsciously presenting a profound nightmare.
+|fame=20
+|art=44
+|fth=30
+|civ=34
+|tech=26
+|ss1=Per 3 Hidden Treasures claimed, Snail RUSH +1<br>Hidden Treasures Claimed: 150/150
+|ss2=Per 3 Hidden Treasures claimed, Snail RUSH +2<br>Hidden Treasures Claimed: 150/150
+|ss3=Per 3 Hidden Treasures claimed, Snail RUSH +3<br>Hidden Treasures Claimed: 150/150
+|ss4=Per 3 Hidden Treasures claimed, Snail RUSH +5<br>Hidden Treasures Claimed: 150/150
+|ss7=Per 3 Hidden Treasures claimed, Snail RUSH +5<br>Hidden Treasures Claimed: 150/150<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Mantis skill I.png|50px]]Place in Mantis Biozilla: In Species War, Troop Water DMG +10
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=395
+|relics=The Fifer,The Goodbye Kiss
+|rank=purple
+|amount=2
+|category=self
+|description=Mutant Minion DEF +6%
+}}

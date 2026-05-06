@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Moon Bunny
+|class_id=20012
+|rank=Green
+|affct=ART
+|source=
+|description=With a full-power shot, the shrine's laser hit the moon, from which a fragment fell into the pond. A lifeless rabbit was found in the pond. The snail made it into a specimen to celebrate the shrine's incredible power.
+|fame=13
+|art=27
+|fth=19
+|civ=16
+|tech=15
+|ss1=Per Incense used, Snail HP +10<br>Incense Used: 20/20
+|ss2=Per Incense used, Snail HP +20<br>Incense Used: 20/20
+|ss3=Per Incense used, Snail HP +30<br>Incense Used: 20/20
+|ss4=Per Incense used, Snail HP +30<br>Incense Used: 20/20
+|ss7=Per Incense used, Snail HP +30<br>Incense Used: 20/20<br> (Awakened)
+}}

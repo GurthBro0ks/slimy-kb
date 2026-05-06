@@ -1,0 +1,410 @@
+
+==Key Clue Records==
+Complete these Key Clues in [[Yamato]] for various rewards and to fully progress through the Realm.
+
+==Ninja Agent==
+'''Rewards:''' Lottery Ticket +3, 5k B-tads
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Get all Yamato INTEL
+|Obtain all 43 Yamato INTEL tiles
+|-
+|Master all Ninja Training
+|Obtain all 45 Ninja Training tiles
+|}
+
+==Yamato Conquest==
+'''Rewards:''' [[Karamono Canister|<span style="color:#40da25;">Karamono Canister</span>]], Travel Speedup +4h
+{| class="wikitable"
+!Event
+!Requirements
+!Approximate Strength
+|-
+|Conquer Gyushu
+|Defeat General Shimasu within 2 rounds
+|138k
+|-
+|Conquer Orry
+|Defeat Radiation Monster within 2 rounds
+|142k
+|-
+|Conquer Nana
+|Defeat Samurai Hattori within 2 rounds
+|180k
+|-
+|Conquer Kiyoto
+|Defeat Omyoji Abbe within 2 rounds
+|216k
+|}
+
+==Yamato Shopping Cart==
+'''Reward:''' 600 W-tads, 5k B- 
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Redeem all limited cards (white)
+|Exchange all 11 white card items
+|-
+|Redeem all limited cards (green)
+|Exchange all 11 green card items
+|-
+|Redeem all limited cards (blue)
+|Exchange all 10 blue card items
+|-
+|Redeem all limited cards (purple)
+|Exchange all 12 purple card items
+|-
+|Redeel all limited cards (orange)
+|Exchange all 7 orange card items
+|}
+
+==Yamato Treasure==
+'''Reward:''' Yamato Treasure Map +50, Blue Reagent +80
+{| class="wikitable"
+!Event
+!# of items found
+!Requirements
+|-
+|Hot Spring Gift (Kohhaido)
+|2
+|100 W-tads, Novice Scroll +10
+|-
+|Emishi's Catch (Kohhaido)
+|2
+|200 W-tads, (Food) +20
+|-
+|Yakuza's Gift (Cansai)
+|3
+|200 W-tads, Offering Speedup +1h
+|-
+|Bakufu Offering (Cansai)
+|4
+|200 W-tads, Dorayaki +30
+|-
+|5D Pocket (Shipuya)
+|4
+|150 W-tads, Travel Speedup +1h
+|-
+|Mysterious Gacha (Shipuya)
+|3
+|200 W-tads, Lottery Ticket +1
+|-
+|Girl Idol Fortune Bag (Akibahara)
+|3
+|200 W-tads, 1,500 B-tads
+|-
+|Gift for Fans (Akibahara)
+|2
+|150 W-tads, Blue Reagent +20
+|-
+|Sewer Kit (Chupu)
+|3
+|300 W-tads, Yamato INTEL +1000
+|-
+|Koka's Treasure (Chupu)
+|4
+|150 W-tads, Expert Scroll +10
+|-
+|Ranjyatai Incense (Canto)
+|3
+|[[Ranjyatai Incense|<span style="color:#22d3d0;">Ranjyatai Incense</span>]] +10
+|-
+|Ika's Treasure (Canto)
+|4
+|200 W-tads, Blue Reagent +20
+|-
+|Army Supplies (Gyushu)
+|3
+|300 W-tads, ?
+|-
+|Kampaku's Reward (Gyushu)
+|4
+|300 W-tads, 2k B-tads
+|-
+|Gala Gift (Orry Villa)
+|3
+|200 W-tads, Offering Speedup +2h
+|-
+|Big Fish Bone (Orry Villa)
+|2
+|[[Big Fish Bone|<span style="color:#22d3d0;">Big Fish Bone</span>]] +10
+|-
+|Ninja Gadget Bag (Nana)
+|2
+|200 W-tads, Travel Speedup +1h
+|-
+|Fuma's Secret Box (Nana)
+|3
+|300 W-tads, Expert Scroll +10
+|-
+|Sealed Spell (Kiyoto)
+|4
+|300 W-tads, Lottery Ticket +1
+|-
+|Omjoyi Treasure (Kiyoto)
+|3
+|400 W-tads, 2k B-tads
+|}
+
+==Sword Futsuno==
+'''Reward:''' Glue +150, Travel Speedup +2h
+
+See [[Gear]] for more.
+{| class="wikitable"
+!Event
+|-
+|Craft [[Gear|<span style="color:#40da25;">Golden Yamato Armor</span>]]
+|-
+|Craft [[Gear|<span style="color:#22d3d0;">Crimson Haori Jacket</span>]]
+|-
+|Craft [[Gear|<span style="color:#ee96d5;">Royal Banner</span>]]
+|-
+|Craft [[Gear|<span style="color:#ee96d5;">Genji Armor</span>]]
+|-
+|Craft [[Gear|<span style="color:#ffb066;">Demon Blade Murasame</span>]]
+|-
+|Craft [[Gear|<span style="color:#f66;">Sword Futsuno</span>]]
+|}
+
+==Tasty Dorayaki==
+'''Reward:''' {{RewardIconWithText|Gene Speedup}} +8h, partner [[Taoraemon]]
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Idol Dorayaki (Akibahara)
+|2200 CIV
+|Idol Dorayaki<br>{{RewardIconWithText|Yamato INTEL}} +300<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Sengoku Dorayaki (Gyushu)
+|2800 TECH
+|Sengoku Dorayaki<br>{{RewardIconWithText|Wood}} +300<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Taoraemon (Orry Villa)
+|[[Leeku]] as a full partner
+|{{RewardIconWithText|Travel Speedup}} +30m<br>{{RewardIconWithText|Gene Speedup}} +30m<br>{{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Greatest Racer==
+'''Reward:''' Refine Speedup +8h, partner [[Jiro Toyato]]
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Shipuya Race Trophy (Shipuya)
+|3100 ART
+|Shipuya Race Trophy, Yamato INTEL +500, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Tohoku Race Trophy (Orry Villa)
+|2900 CIV
+|Tohoku Race Trophy, 150 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Jiro Toyato (Canto)
+|[[Taoraemon]] as a full partner
+|150 W-tads, Travel Speedup +20m, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==New Year Concert==
+'''Reward:''' Lottery Ticket +3, partner [[Leeku]]
+{| class="wikitable"
+!Event
+!Requirements
+!Reward
+|-
+|Sabboro Concert Ticket (Kohhaido)
+|1650 CIV
+|Sabboro Concet Ticket, 50 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Gratitude Concert Ticket (Chupu)
+|1800 TECH
+|Gratitude Concert Ticket, Stone +300, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Gyushu Concert Ticket (Gyusu)
+|2050 CIV
+|Gyushu Concert Ticket, 120 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Leeku (Akibahara)
+|1760 TECH
+|100 W-tads, Clone Speedup +20m, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Eight Million Gods==
+'''Reward:''' Yamato Treasure Map +50, Offering Speedup +4h
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Yokozuna Altar Sign (Kohhaido)
+|2500 FTH
+|Yokozuna Altar Sign, 100 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Gangster Altar Sign (Cansai)
+|2900 FTH
+|Gangster Altar Sign, Demon Cells +500, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Hagurei Altar Sign (Akibahara)
+|3200 FTH
+|Hagurei Altar Sign, 150 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Taiko Altar Sign (Gyushu)
+|3700 FTH
+|Taiko Altar Sign, Mutant Cells +500, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Ultimate Ninja Challenge==
+'''Rewards:''' Purple Reagent +50, Blue Reagent +100
+
+See [[Ninjutsu]] for more.
+{| class="wikitable"
+!Event
+!Approximate power
+|-
+|Defeat Earth Ninja Kato (Chupu)
+|200k
+|-
+|Defeat Aqua Ninja Kaguya (Cansai)
+|200k
+|-
+|Defeat Fire Ninja Momochi (Nana)
+|200k
+|-
+|Defeat Thunder Ninja Sarutabi (Canto)
+|200k
+|-
+|Defeat Shadow Ninja Amakusa (Gyushu)
+|290k
+|-
+|}
+
+==The Test of Thief==
+'''Reward:''' Blue Reagent +50, 5k B-tads
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Ishikawa Rob's Token (Chupu)
+|1900 CIV
+|Ishikawa Rob's Token, Yamato INTEL +300, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Ishikawa Loot's Token (Orry Villa)
+|2300 TECH
+|Ishikawa Loot's Touken, Mutant Cell +200, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Ishikawa Breach Token (Gyushu)
+|2100 CIV
+|Ishikawa Breach Token, 150 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Nether World's Edge==
+'''Rewards:''' {{RewardIconWithLink|Soul Chest}} +40, {{RewardIconWithText|Offering Speedup}} +8h
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Soul of Glasses Boy Frag. (Canto)
+|1800 ART
+|Soul of Glasses Boy<br>{{RewardIconWithText|Gene Speedup}} +20m<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Soul of Plumber Fragment (Chupu)
+|2050 ART
+|Soul of Plumber<br>{{RewardIconWithText|W-Tad}} +150<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Soul of Murikan Ninja Frag. (Nana)
+|2750 ART
+|Soul of Murikan Ninja<br>{{RewardIconWithText|W-Tad}} +150<br>{{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==National Tournament==
+'''Rewards:''' 500 W-tads, [[Minigames|Punch Points]] +100
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Onsen Pervert Token (Kohhaido)
+|1700 FAME
+|Onsen Pervert Token, Soul of Onsen Pervert, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Participant's Token (Shipuya)
+|1800 FAME
+|Participant's Token, Travel Speedup +20m, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|School Bully's Token (Canto)
+|2100 FAME
+|School Bully's Token, Offering Speedup +20m, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Yamato Tourism Promotion==
+'''Reward:''' Yamato Treasure Map +50, Ad Chest +60
+{| class="wikitable"
+!Event
+!Rewards
+|-
+|Watch a next-gen game ad (Cansai)
+|Ad Chest +10, Travel Speedup +30m
+|-
+|Watch a new anime ad (Akibahara)
+|Ad Chest +10, Glue +20
+|-
+|Watch the ad of girl group finals (Gyushu)
+|Ad Chest +10, Refine Speedup +1h
+|-
+|Watch the hot spring resort ad (Orry Villa)
+|Ad Chest +10, Travel Speedup +30m
+|}
+
+==Bushido Practice==
+'''Reawrd:''' {{RewardIconWithLink|Evolution Chest}} +80, {{RewardIconWithText|Gene Speedup}} +8h
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Heart of Kindness (Nana)
+|2550 ART
+|Heart of Kindness<br>{{RewardIconWithText|Travel Speedup}} +1h<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Heart of Loyalty (Cansai)
+|2800 CIV
+|Heart of Loyalty<br>{{RewardIconWithText|Offering Speedup}} +2h<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Heart of Victory (Kiyoto)
+|3000 FAME
+|Heart of Victory<br>Soul of ?<br>{{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Altar Treasure==
+'''Reward:''' {{RewardIconWithLink|Incense|orange}} +1, {{RewardIconWithLink|Yamato Treasure Map}} +50
+{| class="wikitable"
+!Event
+!Display 1 of:
+!Rewards
+|-
+|Gojo Altar Miracle (Canto)
+|{{RewardIconWithLink|Gang Cadre|green}}<br>{{RewardIconWithLink|Ishikawa's Shuriken|green}}<br>{{RewardIconWithLink|Sumo Wrestler Cert|green}}
+|{{RewardIconWithText|Offering Speedup}} +1h<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Izumo Shrine Mirale (Cansai)
+|{{RewardIconWithLink|Art of Ninja|blue}}<br>{{RewardIconWithLink|Great Wave|blue}}
+|{{RewardIconWithText|W-Tad}} +150<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Ize Shrine Miracle (Nana)
+|{{RewardIconWithLink|Fuchun Mountains|purple}}<br>{{RewardIconWithLink|Kani Jade|purple}}<br>{{RewardIconWithLink|Pine Trees Screen|purple}}
+|{{RewardIconWithText|Offering Speedup}} +1h<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Willow Altar Miracle (Kiyoto)
+|{{RewardIconWithLink|Golden Wheat|orange}}<br>{{RewardIconWithLink|The Tale of Genji|orange}}
+|{{RewardIconWithText|Offering Speedup}} +2h<br>{{RewardIconWithText|Meal Box Size}} +100
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Yamato]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Koryeo Seal
+|class_id=20042
+|rank=Green
+|affct=FAME
+|source=Defeat [[Mailbox#Koryeon Commissioner|the Koryeon Comissioner]]
+|description=This seal is the symbol of supreme authority in Koryeo! All of the past supreme administrators of Koryeo carried the seal with them so they could use it to sign documents at any time. In the modern world, where traditions are fading away, using the seal is a great way to provoke patriotism.
+|fame=36
+|art=23
+|fth=10
+|civ=16
+|tech=14
+|ss1=Per Koryeon Apostle dominated, Snail HP +20<br>Koryeon Apostles Dominated: 10/10
+|ss2=Per Koryeon Apostle dominated, Snail HP +40<br>Koryeon Apostles Dominated: 10/10
+|ss3=Per Koryeon Apostle dominated, Snail HP +60<br>Koryeon Apostles Dominated: 10/10
+|ss4=Per Koryeon Apostle dominated, Snail HP +60<br>Koryeon Apostles Dominated: 10/10
+|ss7=Per Koryeon Apostle dominated, Snail HP +60<br>Koryeon Apostles Dominated: 10/10<br> (Awakened)
+}}

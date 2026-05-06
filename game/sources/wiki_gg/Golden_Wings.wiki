@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Golden Wings
+|type=Common
+|rank=red
+|id=10888
+|idx=99
+|description="Whales said that the model should have wings, so here we have wings! They said the wings should be awesome, so the devs added this super dazzling effect!"
+—The Psychology of PTW
+|skill=
+|hp=2900
+|def=227
+|atk=195
+|rush=358
+|gene1=Wind DMG +120
+|gene2=Wind RES +120
+|gene3=Wind DMG +120
+|gene4=Each round, {race} RUSH +80
+|gene5=Ignore Wind RES +120
+|gene6=RUSH Ignore DEF +4%
+|gene7=RUSH Ignore DEF +4% (Awakened)
+|}}

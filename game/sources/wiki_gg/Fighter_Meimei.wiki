@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Fighter Meimei
+|rank=blue
+|cabin=2
+|id=11
+|gene1={race} HP +200
+|gene2={race} ART +20
+|gene3=Quantum Amp production +1%
+|gene4=Per 10 Angel Minions in battle:
+> Troop HP +20
+|gene5=Quantum Amp production +2%
+|}}

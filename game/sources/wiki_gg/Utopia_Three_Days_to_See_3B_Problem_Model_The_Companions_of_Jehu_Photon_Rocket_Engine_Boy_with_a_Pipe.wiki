@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=787
+|relics=Utopia,Three Days to See,3B Problem Model,The Companions of Jehu,Photon Rocket Engine,Boy with a Pipe
+|rank=orange
+|amount=6
+|category=self
+|description=Per 30 Wormhole Refiners opened, Snail ATK +12;1500/1500 Wormhole Refiner opened
+}}

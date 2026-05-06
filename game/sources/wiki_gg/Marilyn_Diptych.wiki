@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Marilyn Diptych
+|class_id=22820
+|rank=SSS
+|affct=ART
+|source=
+|description=Marilyn Diptych is an outstanding example of contemporary pop Art, created by US artist Warhol himself, aimed at showcasing the public image of Huullywood star Marilyn and the cultural phenomenon behind it. The works are based on Marilyn's photographic materials and use silkscreen printing techniques to create a repeated overlay visual effect, reflecting pop Art's reshaping of popular cultural symbols. In Marilyn's prints, Warhol deconstructs and reorganizes Marilyn's image, with each print having different color levels, enhancing the image's reproducibility and consumer culture traits. It reveals the complex relationship between individual idols and mass communication, and makes a unique artistic interpretation of the enduring influence of celebrity culture.
+|fame=53
+|art=109
+|fth=67
+|civ=76
+|tech=57
+|ss1=All Sanctum Glorium Output +1.5%<br>Demon Minion HP +3%<br>Per 50 Daily Silver Packs bought, Snail ATK +3<br>Daily Silver Packs Bought: 4000/4000
+|ss2=All Sanctum Glorium Output +2%<br>Demon Minion HP +4%<br>Per 50 Daily Silver Packs bought, Snail ATK +4<br>Daily Silver Packs Bought: 4000/4000
+|ss3=All Sanctum Glorium Output +2.5%<br>Demon Minion HP +5%<br>Per 50 Daily Silver Packs bought, Snail ATK +5<br>Daily Silver Packs Bought: 4000/4000
+|ss4=All Sanctum Glorium Output +3.5%<br>Demon Minion HP +7%<br>Per 50 Daily Silver Packs bought, Snail ATK +7<br>Daily Silver Packs Bought: 4000/4000
+|ss5=All Sanctum Glorium Output +4.5%<br>Demon Minion HP +9%<br>Per 50 Daily Silver Packs bought, Snail ATK +9<br>Daily Silver Packs Bought: 4000/4000
+|ss6=All Sanctum Glorium Output +6%<br>Demon Minion HP +12%<br>Per 50 Daily Silver Packs bought, Snail ATK +12<br>Daily Silver Packs Bought: 4000/4000
+|ss7=All Sanctum Glorium Output +6%<br>Demon Minion HP +12%<br>Per 50 Daily Silver Packs bought, Snail ATK +12<br>Daily Silver Packs Bought: 4000/4000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's ART +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|mirage={{Mirage|name=dungeon@22820_1|reward={{RewardIconWithLink|Iridescent Ticket, +5|orange}}
+|3name=Doge Print|3rec=439.51M|3atk=989352|3defense=557975|3hp=294273795|3weak=71581
+|4name=Smirk Lord Print|4rec=551.94M|4atk=1183089|4defense=659118|4hp=472164269|4weak=77873
+|5name=dungeon_event@4228_1|5rec=732.33M|5atk=1669611|5defense=834930|5hp=767443961|5weak=87143
+|6name=Panda Head Print|6rec=1030.05M|6atk=2588098|6defense=1144566|6hp=1443650499|6weak=98020
+|Arec=1505.07M|Aatk=3906097|Adefense=1602980|Ahp=2445061043|Aweak=110650
+}}}}

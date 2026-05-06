@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Shigir Sculpture
+|class_id=22554
+|rank=AAA
+|affct=FAITH
+|birthday=01-24
+|source=Lottery Machine No.3 (0.06%)
+|description=On Jan 24, 1894 AD, fragments of the Shigir Sculpture were discovered.<br>It is an extremely ancient wooden sculpture, estimated by experts to be nearly ten thousand years old or even older. It bears many ancient symbols of the Neolithic period on its surface, and its abstract style suggests that the people of the time had achieved a level of art beyond concrete representation. The statue is believed to have been used in ancient sacrificial rituals or as a warning of the existence of sacred sites and has high historical value.
+|fame=40
+|art=49
+|fth=73
+|civ=36
+|tech=45
+|ss1=Per 3 Hidden Treasures claimed, Snail HP +30<br>Per 3 Hidden Treasures claimed, Priest-Snail Assistance DMG +24<br>Hidden Treasures Claimed: 150/150
+|ss2=Per 3 Hidden Treasures claimed, Snail HP +40<br>Per 3 Hidden Treasures claimed, Priest-Snail Assistance DMG +32<br>Hidden Treasures Claimed: 150/150
+|ss3=Per 3 Hidden Treasures claimed, Snail HP +50<br>Per 3 Hidden Treasures claimed, Priest-Snail Assistance DMG +40<br>Hidden Treasures Claimed: 150/150
+|ss4=Per 3 Hidden Treasures claimed, Snail HP +70<br>Per 3 Hidden Treasures claimed, Priest-Snail Assistance DMG +56<br>Hidden Treasures Claimed: 150/150
+|ss5=Per 3 Hidden Treasures claimed, Snail HP +90<br>Per 3 Hidden Treasures claimed, Priest-Snail Assistance DMG +72<br>Hidden Treasures Claimed: 150/150
+|ss7=Per 3 Hidden Treasures claimed, Snail HP +90<br>Per 3 Hidden Treasures claimed, Priest-Snail Assistance DMG +72<br>Hidden Treasures Claimed: 150/150<br>Snail HP +700 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, Troop Wind RES +10
+|skill2=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, Troop Wind DMG +30
+}}

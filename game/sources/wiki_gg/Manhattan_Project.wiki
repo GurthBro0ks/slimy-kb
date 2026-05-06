@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Manhattan Project
+|class_id=22921
+|rank=SSS
+|affct=TECH
+|source=
+|description=The Manhattan Project, a significant scientific undertaking by the United States to secretly develop atomic bombs during World War II, aimed to create the world's first atomic bomb before Germany could manufacture one. Led by physicist J. Robert Oppenheimer, thousands of scientists and engineers worked at the Los Alamos Laboratory in New Mexico under strict secrecy. They successfully detonated the world's first atomic bomb, changing the course of the war and initiating the atomic age.
+|fame=77
+|art=54
+|fth=69
+|civ=55
+|tech=107
+|ss1=Advance to obtain Green Apostle, +0.6% chance to be changed into Blue<br>Advance to obtain Blue Apostle, +0.6% chance to be changed into Purple<br>All Domains, Seal output+3%
+|ss2=Advance to obtain Green Apostle, +0.8% chance to be changed into Blue<br>Advance to obtain Blue Apostle, +0.8% chance to be changed into Purple<br>All Domains, Seal output+4%
+|ss3=Advance to obtain Green Apostle, +1% chance to be changed into Blue<br>Advance to obtain Blue Apostle, +1% chance to be changed into Purple<br>All Domains, Seal output+5%
+|ss4=Advance to obtain Green Apostle, +1.4% chance to be changed into Blue<br>Advance to obtain Blue Apostle, +1.4% chance to be changed into Purple<br>All Domains, Seal output+7%
+|ss5=Advance to obtain Green Apostle, +1.8% chance to be changed into Blue<br>Advance to obtain Blue Apostle, +1.8% chance to be changed into Purple<br>All Domains, Seal output+9%
+|ss6=Advance to obtain Green Apostle, +2.4% chance to be changed into Blue<br>Advance to obtain Blue Apostle, +2.4% chance to be changed into Purple<br>All Domains, Seal output+12%
+|ss7=Advance to obtain Green Apostle, +2.4% chance to be changed into Blue<br>Advance to obtain Blue Apostle, +2.4% chance to be changed into Purple<br>All Domains, Seal output+12%<br>All Domains, Seal output+10% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail HP +6000
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Reagent Drops +6%
+|mirage={{Mirage|name=Nuclear Physics Vanguard|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=dungeon_event@4831_1|3rec=210.92M|3atk=595052|3defense=340649|3hp=74378845|3weak=55116
+|4name=Vannevar|4rec=254.29M|4atk=688198|4defense=391341|4hp=98154280|4weak=59649
+|5name=Fermi|5rec=346.29M|5atk=836209|5defense=474105|5hp=171653847|5weak=65882
+|6name=Oppenheimer|6rec=461.50M|6atk=1025777|6defense=577751|6hp=314570981|6weak=72858
+|Arec=600.67M|Aatk=1308004|Adefense=702959|Ahp=531898860|Aweak=80429
+}}}}

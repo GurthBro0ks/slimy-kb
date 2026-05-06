@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Letters for Josephine
+|class_id=22187
+|rank=AAA
+|affct=CIV
+|birthday=07-19
+|source=
+|description=On Jul 19, 1796 AD, Josephine received a letter from Napoleon from the battle front.<br>Love letters exchanged between Napoleon and Josephine. Their feelings quickly heated up in these heartfelt letters. After three months, they married, but they stayed together for 14 years. Due to France's political situation and Josephine's infertility, they divorced. But Josephine retained her title of queen. When Napoleon died, he still had her name on his lips.
+|fame=52
+|art=42
+|fth=38
+|civ=75
+|tech=36
+|ss1=Per Purple+ Gear equipped, Snail HP +30<br>Per Purple+ Gear equipped, Snail ATK +3
+|ss2=Per Purple+ Gear equipped, Snail HP +40<br>Per Purple+ Gear equipped, Snail ATK +4
+|ss3=Per Purple+ Gear equipped, Snail HP +50<br>Per Purple+ Gear equipped, Snail ATK +5
+|ss4=Per Purple+ Gear equipped, Snail HP +70<br>Per Purple+ Gear equipped, Snail ATK +7
+|ss5=Per Purple+ Gear equipped, Snail HP +90<br>Per Purple+ Gear equipped, Snail ATK +9
+|ss7=Per Purple+ Gear equipped, Snail HP +90<br>Per Purple+ Gear equipped, Snail ATK +9<br>Snail HP +700 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Reagent Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's CIV +10
+}}

@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Ultimate Vision
+|type=Common
+|rank=red
+|id=10896
+|idx=107
+|description=The organ is obtained by infusing embryonic stem cells with the ultimate bionic part essence, having a leap in performance.
+|skill=
+|hp=2470
+|def=219
+|atk=250
+|rush=354
+|gene1=Wind DMG +120
+|gene2=Wind RES +120
+|gene3=Against main species, CRIT +20%
+|gene4=Against main species, HIT +12%
+|gene5=Per Orange Coating crafted, gain +1 by +10%
+|gene6=All CIV Bionic Parts, ELMT RES +2%
+|gene7=Wind DMG +6% (Awakened)
+|}}

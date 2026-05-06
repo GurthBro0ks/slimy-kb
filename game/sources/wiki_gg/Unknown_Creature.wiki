@@ -1,0 +1,54 @@
+[[File:Unknown Creature.png|150px|frameless]]
+
+== How to get the Unknown Creature ==
+[[File:Unknown Creature Portrait.png|100px|left|alt=Unknown Creature]]
+
+1. Defeat the [[Robot Guard]] to obtain the {{RewardIconWithText|Alien Seed|orange}}.
+
+2. Purchase the {{RewardIconWithLink|Small Collar}} from the [[Vending Machine]] for 30k {{RewardIconWithText|B-Tad}}.
+
+3. Purchase the {{RewardIconWithLink|Small Bowl}} from the [[Vending Machine]] for 30k {{RewardIconWithText|B-Tad}}.
+
+4. At the far left side of [[Home Base#The Garage|Home Base]], use these 3 items
+
+== Mystery Gloop ==
+Once the Unknown Creature (commonly called Pig) moves in, he won't do much... But every 6 hours he'll produce a {{RewardIconWithLink|Mystery Gloop}} which, when used, gives 200 random Demon God Cells. 
+
+== Special Events ==
+Mostly, the Unknown Creature will be asleep in his house or in the pond. Occasionally he'll show up in the Gene Room. When he does, you can load up some {{RewardIconWithLink|Incense|orange}} and laser him. Doing so prompts him to produce a {{RewardIconWithLink|Mystery Gloop}} and crawl away to a new napping spot. This won't hurt him or change how often he produces {{RewardIconWithLink|Mystery Gloop}}s, but after 10 hits he'll leave behind the green relic {{RewardIconWithLink|Father's Photo|green}}.
+
+== Special Requests ==
+Sometimes the pig will want a special food to help him with all the energy-draining napping he does. Doing this rewards relics and special rewards, listed below. The reward is found in the {{RewardIconWithText|Rainbow Gloop}} picked up after a request is granted. 
+
+'''The number of {{RewardIconWithLink|Mystery Gloop}} picked up is from the last reward obtained.'''
+{| class="wikitable"
+!Request No.
+!{{RewardIconWithLink|Mystery Gloop}}s picked up
+!Request
+!Reward
+|-
+|1||11||100 Uchi Macha|| -
+|-
+|2||41??||500 {{RewardIconWithText|Fungus}}||{{RewardIconWithLink|Mutant Enoki|green}}
+|-
+|3||100||{{RewardIconWithText|Zombie Cat Food}}||{{RewardIconWithLink|Rainbow Pig's Gene Segment}} +1
+|-
+|4||100||{{RewardIconWithText|Demon Cat Food}}||{{RewardIconWithLink|Rainbow Pig's Gene Segment}} +1
+|-
+|5||100||{{RewardIconWithText|Angel Cat Food}}||{{RewardIconWithLink|Rainbow Pig's Gene Segment}} +1
+|-
+|6||100||{{RewardIconWithText|Mutant Cat Food}}||{{RewardIconWithLink|Rainbow Pig's Gene Segment}} +1
+|-
+|7||100||{{RewardIconWithText|Mecha Cat Food}}||{{RewardIconWithLink|Rainbow Pig's Gene Segment}} +1
+|-
+|8||100||100 {{RewardIconWithText|Escargot}}||{{RewardIconWithText|Blue Coating|blue}} +100
+|-
+|9||200||1 {{RewardIconWithText|Crow Sashimi}}||{{RewardIconWithLink|Pet Pig Restaurant|black|Minigames}}
+|-
+|10||200||100 {{RewardIconWithText|Escargot}}||{{RewardIconWithText|Blue Coating|blue}} +300
+|}
+Uchi Matcha can be obtained during [[Yamato]] exploration. 
+
+Cat food can be purchased from the vending machine each day for 1000 W-tads. They show up in the same order: Zombie > Demon > Angel > Mutant > Mecha.
+
+[[Category:Home Base]]

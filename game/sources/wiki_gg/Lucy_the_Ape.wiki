@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Lucy the Ape
+|class_id=22221
+|rank=SSS
+|affct=FAME
+|birthday=03-02
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Mar 2, 1974 AD, a scientific expedition team went to the Alpha Delta of Ethiopia to conduct field investigations, and discovered the Lucy the Ape a few months later.<br>Lucy the Ape was an ancient ape in East Africa who lived 3.2 million years ago. She is roughly 1.1 meters tall and possesses traits of both chimpanzees and modern humans. The fossils of her limbs and pelvis show that at that time, Lucy could not only walk upright, but also learned to climb trees. She died at about 20 years old, and based on the cracks in the bone fossils, she probably died from falling from a tree. As the grandmother of all current humans, Lucy the Ape, is the world's oldest direct ancestor of humans. Her discovery is regarded as a significant milestone in the field of paleontology!
+|fame=109
+|art=63
+|fth=54
+|civ=64
+|tech=72
+|ss1=Gaia Cabin Output +3%<br>Refine +1 Green Rebel Material +3%<br>Refine +1 Green Gaia Material +3%
+|ss2=Gaia Cabin Output +4%<br>Refine +1 Green Rebel Material +4%<br>Refine +1 Green Gaia Material +4%
+|ss3=Gaia Cabin Output +5%<br>Refine +1 Green Rebel Material +5%<br>Refine +1 Green Gaia Material +5%
+|ss4=Gaia Cabin Output +7%<br>Refine +1 Green Rebel Material +7%<br>Refine +1 Green Gaia Material +7%
+|ss5=Gaia Cabin Output +9%<br>Refine +1 Green Rebel Material +9%<br>Refine +1 Green Gaia Material +9%
+|ss6=Gaia Cabin Output +12%<br>Refine +1 Green Rebel Material +12%<br>Refine +1 Green Gaia Material +12%
+|ss7=Gaia Cabin Output +12%<br>Refine +1 Green Rebel Material +12%<br>Refine +1 Green Gaia Material +12%<br>Gaia Cabin Output +10% (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion HP +9%
+|skill2=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop Earth DMG +60
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FAME +15
+|mirage={{Mirage|name=The Origin of Mankind|reward={{RewardIconWithLink|Evolution Chest, +200|orange}}
+|3name=Modern Human|3rec=52.80M|3atk=177146|3defense=118181|3hp=8483260|3weak=22282
+|4name=Ancient Human|4rec=64.31M|4atk=201418|4defense=134374|4hp=10650231|4weak=25826
+|5name=Hominid|5rec=76.50M|5atk=227132|5defense=151528|5hp=13129038|5weak=30197
+|6name=Homo Erectus|6rec=89.90M|6atk=255383|6defense=170376|6hp=16071844|6weak=32671
+|Arec=104.21M|Aatk=285555|Adefense=190505|Ahp=19737235|Aweak=35230
+}}}}

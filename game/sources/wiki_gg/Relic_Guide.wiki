@@ -1,0 +1,811 @@
+== Relics ==
+Relics are a core part of the game and are gathered and used almost everywhere. There's a great deal to know about Relics, so dig in! If you only want the bare basics, just check out [[Relics]]. For sources of Relics, look at [[Lottery Machine]], [[Alchemy Furnace]], and [[Home Base]].
+
+== Stats ==
+
+=== AFFCT ===
+Relics each have FAME, ART, FTH, CIV, and TECH stats (abbreviated to AFFCT), one of which is higher and the dominant trait for each relic. Within your relic tab you'll see different tabs for each AFFCT type, and this is how your Relics will be sorted. This is important for a variety of reasons. 
+
+Mainly, embedding. Relics can be embedded in the compass during [[Exploration]] to boost your HARD stats. FAME boosts all HARD stats, ART boosts HP, FTH boosts RUSH, CIV boosts ATK, and TECH boosts DEF. During explorations, you'll also come across AFFCT Checks, typically of one of the types. For instance, in Koryeo you might come across an event that requires you to have 500 FTH. If you don't have 500 FTH, you can't complete the event. You'll also see this become important in fights. Almost every enemy in the game has a weakness to one of the 5 AFFCT types, or of the entire AFFCT. If you can make this, you get extra RUSH DMG on that enemy. 
+
+Your total of each AFFCT is determined by the total each relic has, so upgrading is crucial.
+
+=== Special Stats and Buffs ===
+You'll notice that your relics also all have unique abilities and buffs that they provide. '''These buffs are permanent and always working for you!''' This means that no matter what relics you embed in your compass, every single activated relic provides their buffs during your gameplay. The buffs get better and better with each upgrade and with awakening.  
+
+== Upgrading ==
+
+=== Rank ===
+Relics are sorted and acquired by rank, which you'll notice a lot throughout the game. After AFFCT, relics are further sorted by their rank: Orange > Purple > Blue > Green, Orange being the highest and Green being the lowest. Purple relics are further categorized into A, AA, and AAA and Orange into S, SS, and SSS. 
+
+Each Relic also has a Tier, indicated by the number of stars. Green relics will always have a maximum of 3 stars, blue relics will have a maximum of 4 stars, purple relics have only 5 stars, and orange relics have 6 stars. 
+
+Taking this even farther, blue and higher relics can be Awakened for extra stats and resonance, which is covered later. 
+
+=== Tiers ===
+When you first obtain a Relic, it's essentially dormant and does nothing for you. First it needs to be activated, which costs B-tads. Green relics cost 1k, blue costs 3k, purple costs 5k, and orange costs 10k. Once activated, your relic is at Tier 1. The only exception to this is Supreme Relics which, once obtained, are automatically at the maximum tier and can only be awakened to grow stronger.
+
+=== Fragments ===
+Fragments are crucial to upgrading relics. Each relic has its own fragment, and to upgrade it past tier 3 requires more of its own fragments. Once a relic has been upgraded past tier 3, it requires its own fragments ''and'' spare fragments from other, fully upgraded relics. Below is a list of the required materials to upgrade relics.
+{|class=wikitable
+!Relic Color
+!1★ → 2★
+!2★ → 3★
+!3★ → 4★
+!4★ → 5★
+!5★ → 6★
+!Awakening
+|-
+|Green
+|35 Green Reagent
+|60 Green Reagent
+|
+|
+|
+|
+|-
+|Blue
+|35 Green Reagent
+|60 Green Reagent
+|75 Blue Reagent<br>10 Self Frags
+|
+|
+|100 Blue Frags
+|-
+|Purple
+|35 Green Reagent
+|60 Green Reagent
+|120 Blue Reagent<br>20 Self Frags<br>20 Blue Frags
+|150 Purple Reagent<br>40 Self Frags<br>40 Blue Frags
+|
+|100 Blue Frags<br>300 Purple Frags
+|-
+|Orange
+|35 Green Reagent
+|60 Green Reagent
+|145 Blue Reagent<br>40 Self Frags<br>40 Purple Frags<br>40 Blue Frags
+|175 Purple Reagent<br>80 Self Frags<br>80 Purple Frags<br>80 Blue Frags
+|225 Orange Reagent<br>120 Self Frags<br>120 Purple frags<br>120 Blue Frags
+|100 Blue Frags<br>300 Purple Frags<br>900 Orange Frags
+|}
+
+== Skills ==
+At tier 4, Skills are unlocked for blue and higher relics. Skills are the little icons underneath the stat overview, and look like this: [[File:Koryeo skill I.png|frameless|37x37px]][[File:Yamato skill II.png|frameless|37x37px]][[File:Cathay skill III.png|frameless|37x37px]].
+
+When you go to the "Upgrade" screen of each Relic, you'll notice a series of fluid-filled tubes. This is where the reagent goes, powering up the relic to the next level. While the first two tubes upgrade the AFFCT stats of the relic, the next three upgrade the skills, each tube upgrading one skill in order. Blue relics have one skill, purple relics have two, and orange relics have all three. When first activated, the skills are not active and provide no boosts. Once past T3, the stamps are at "skill up I" (blue), past T4 they are "skill up II" (purple), and past T5 they are "skill up III" (orange), In this way, you can upgrade your skills a little even if you don't have fragments for that relic.
+
+There are a set number of skills that work in specific ways: Realm skills require the relic to be placed in that realm's museum in order to take effect in the realm. Home resource skills require the relic to be embedded in that resource. Gene sim and Snail Fight relics work likewise. So a relic that has multiple different skills can only have one of those types active depending on where it is placed.
+
+=== Embedding My Relics ===
+Making sure you're embedding the right relics is crucial to progressing at a good pace. Generally, the recommened priority for embedding relics is Compass > Home Resources > Museums > everything else. 
+
+Compass always comes first! Consider how high the relevant AFFCT value of the relic is, and any skills. How good are the boosts? Sometimes it's better to lose skill benefits in favor of a higher AFFCT and sometimes the opposite is true. Keep in mind the above info and try things out to see what works for you. 
+
+== Awakening and Resonance ==
+Once a blue or higher relic is at its maximum tier, there is an option to awaken the relic. This will further boost the relics AFFCT and special stats, and also contribute to [[Relic Resonance|Resonance]] and Mirage fights. 
+ Blue: 100 blue fragments
+
+ Purple: 100 blue fragments, 300 purple fragments
+
+ Orange: 100 blue framgnets, 300 purple fragments, 900 orange fragments
+
+
+Once awakened, that relic now contributes to [[Relic Resonance|resonance]]. Resonance is an extra way to get boosts and awakening relics within a resonance set will unlock that boost. For instance, awakening [[Code of Law]] and [[Commercial Code]] will give the extra buff: Snail HP +500. The higher the rank of the relic and the more relics in a set, the better the boosts.
+
+== Civilization Mirage ==
+Civilization Mirages unlock at 150K Power.
+
+Every orange relic has a Civilization Mirage, consisting of a series of fights which are unlocked at 3 and higher stars, depending on its rank. S relics have fights at 3, 6 and awakened. SS relics have fights at 3, 5, 6, and awakened. SSS relics have fights at 3, 4, 5, 6, and awakened. The awakened fight is always the relic itself. 
+
+The difficulties of these fights vary from relic to relic, but always gets harder the higher the tier. Completing individual fights rewards a Gem of that AFFCT (TECH Gem +1 for example), and completing the entire mirage rewards 3 more Gems of that AFFCT and a unique reward relating to the relic. Gems can be used at the Mirage Pedestal for more rewards. 
+
+See each individual relic page for its mirage fights, and note that '''every mirage fight has addition special stats of''' "HIT +80, Paralysis RES +80%."
+
+=== Mirage Pedestal ===
+{| class="wikitable"
+!AFFCT
+!Effect 1
+!Effect 2
+|-
+|FAME
+|Snail FAME increases
+|Zombie Ritual FAME Requirements decrease
+|-
+|ART
+|Snail ART increases
+|Demon Ritual ART Requirements decrease
+|-
+|FTH
+|Snail FTH increases
+|Angel Ritual FTH Requirements decrease
+|-
+|CIV
+|Snail CIV increases
+|Mutant Ritual CIV Requirements decrease
+|-
+|TECH 
+|Snail TECH increases
+|Mecha Ritual TECH Requirements decrease
+|-
+|AFFCT
+|Snail HARD Stats increase
+|In Civilization Mirages, DMG increases
+|}
+
+== Relic Forge ==
+Most of the time it's down to pure luck on what relics you receieve, but the Relic Forge allows you to choose what you want. This of course comes at a hefty cost: Relic RF. Relic RF is a rare currency that can only be reliably obtained from fighting in [[Manhunt Act]] and participating in [[Weekly Events]]. It's a very rare resouce, so be careful when you spend it!
+
+The Relic Forge is separated into each of the AFFCT types and includes valuable AAA and orange relics, which cost between 80 and 120 Relic RF. This is, generally speaking, the most reliable way to get the specific fragments that you need.
+
+== Relic Calendar ==
+The Relic Calendar (2023) contains a large amount of Relics, one assigned to each day of the year (corresponding in some way to the relic's history). The calendar is used as a Sign-in function, and each day of the week gives a different reward. The amount of the reward claimed depends on if the player does not own the relic, owns the relic, or has awakened the relic.
+
+{|class="wikitable"
+!rowspan="2"|Day
+!rowspan="2"|Item
+!colspan="3"|Rewards
+|-
+!Base
+!Owned
+!Awakened
+|-
+|Sun
+|{{RewardIconWithLink|Novice Scroll|blue}}
+|5
+|15
+|30
+|-
+|Mon
+|{{RewardIconWithText|B-Tad}}
+|5,000
+|15,000
+|30,000
+|-
+|Tues
+|{{RewardIconWithLink|Expert Scroll|purple}}
+|5
+|15
+|30
+|-
+|Wed
+|{{RewardIconWithText|W-Tad}}
+|30
+|90
+|180
+|-
+|Thurs
+|{{RewardIconWithLink|Master Scroll|orange}}
+|5
+|15
+|30
+|-
+|Fri
+|{{RewardIconWithLink|Lottery Ticket|orange}}
+|1
+|3
+|6
+|-
+|Sat
+|{{RewardIconWithLink|Gear Chest}}
+|20
+|60
+|120
+|}
+
+<tabber>
+|-|Jan=
+{|class="wikitable" style="text-align:center"
+!colspan="7"|January
+|-
+!Su
+!Mo
+!Tu
+!We
+!Th
+!Fr
+!Sa
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Holmes' Pipe}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Lumieres' Film}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Holy Nail}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Gee Virus}}
+|style="background-color:var(--orange-bg)"|{{Reimg|King Dangun Statue}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Prometheus Torch}}
+|style="background-color:var(--orange-bg)"|{{Reimg|St. Louisa Goblet}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Penicillin Sample}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Kilogram Prototype}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Cornucopia}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Mermaid Statue}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Noah's Ark}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Julian Calendar}}
+|style="background-color:var(--orange-bg)"|{{Reimg|The Art of War}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Cuckoo Clock}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Storyteller}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Jade Cup}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Hawking's Wheelchair}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Higgs Boson}}
+|style="background-color:var(--orange-bg)"|{{Reimg|The Pieta}}
+|style="background-color:var(--orange-bg)"|{{Reimg|The Argo}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Tudor Rose}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Guanery's Violin}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Shakespeare Scripts}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Glass Coffin}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Liberty Guide People}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Mysterious Relic|25}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Scale of Anubis}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Franklin's Kite}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Costa Rica Stone}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Tesla Coil}}
+|}
+|-|Feb=
+{| class="wikitable" style="text-align-center"
+!colspan="7"|February
+|-
+!Su
+!Mo
+!Tu
+!We
+!Th
+!Fr
+!Sa
+|-
+|
+|
+|
+|style="background-color:var(--purple-bg)"|{{Reimg|Avelon}}
+|style="background-color:var(--orange-bg)"|{{Reimg|On War}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Magellan's Telescope}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Nibelungenlied}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Persian Star Chart}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Peter Pan's Flute}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Kani Jade}}
+|style="background-color:var(--purple-bg)"|{{Reimg|World Bowl}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Blood of Cain}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Element R.}}
+|style="background-color:var(--orange-bg)"|{{Reimg|The Song of Roland}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Bach Concerto}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Rubik's Cube}}
+|style="background-color:var(--purple-bg)"|{{Reimg|No. 23's Ball}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Zoroaster's Torch}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Gutenberg's Press}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Dunhuang Scripts}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Hera's Peacock Fan}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Ancient Block}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Horoscope}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Schindler's List}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Deity Quetzalcoatl}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Imperial Jade}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Caesar Statue}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Wheel of Fortune}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Imperial Lamp}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Chakana}}
+|style="background-color:var(--purple-bg)"|{{Reimg|The Decameron}}
+|}
+|-|Mar=
+{|class="wikitable" style="text-align:center"
+!colspan="7"|March
+|-
+!Su
+!Mo
+!Tu
+!We
+!Th
+!Fr
+!Sa
+|-
+|
+|
+|
+|style="background-color:var(--purple-bg)"|{{Reimg|Killing Stone}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Iliad & Odyssey}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Eye of Akamoddo}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Ark of Covenant}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Tetrabiblos}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Annals of Joseon}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Wealth of Nations}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Prince's Rose}}
+|style="background-color:var(--orange-bg)"|{{Reimg|The Last Supper}}
+|style="background-color:var(--orange-bg)"|{{Reimg|DOI}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Maya Slate}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Eye of Medusa}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Nocturnes}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Guernica}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Magna Carta}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Voyager 1}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Ansidei Madonna}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Mysterious Relic|25}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Haradric Cube}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Genesis}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Gordian Knot}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Prehistoric Fossil}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Dead Sea Scrolls}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Turin Papyrus}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Gaea's Hand}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Im's Arrow}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Divergence Meter}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Jade Burial Suit}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Socrates' Poison}}
+|style="background-color:var(--orange-bg)"|{{Reimg|SDI}}
+|style="background-color:var(--orange-bg)"|{{Reimg|The Key of Solomon}}
+|}
+|-|Apr=
+{|class="wikitable" style="text-align:center"
+!colspan="7"|April
+|-
+!Su
+!Mo
+!Tu
+!We
+!Th
+!Fr
+!Sa
+|-
+|
+|
+|
+|
+|
+|
+|style="background-color:var(--orange-bg)"|{{Reimg|Athena Statue}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Arirang Satellite}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Hun Min Jong Um}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Jade Burial Suit}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Blood of Dracula}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Mysterious Relic|25}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Lyre of Hermes}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Encyclopedia}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Izu Dancer}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Commercial Code}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Edison's Phonograph}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Chinchorro Mummy}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Mysterious Relic|25}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Aladdin Lamp}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Golden Wheat}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Janssen Microscope}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Ludovisi Gaul}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Moonlight Sonata}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Rosetta Stone}}
+|style="background-color:var(--orange-bg)"|{{Reimg|3-Faced Statue}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Paradise Lost}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Phoenix Feather}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Mordan Bullet}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Ranjyatai Incense}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Plantagenet Badge}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Pine Trees Screen}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Babbage Engine}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Bronze Shiva Statue}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Dyson Sphere}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Magellan's Journal}}
+|}
+|-|May=
+{|class="wikitable" style="text-align:center"
+!colspan="7"|May
+|-
+!Su
+!Mo
+!Tu
+!We
+!Th
+!Fr
+!Sa
+|-
+|
+|style="background-color:var(--blue-bg)"|{{Reimg|Melcades' Prophecy}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Watt Steam Engine}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Crystal Piano}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Archimedes' Lever}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Da Vinci's Notes}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Epic of Gilgamesh}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Linde's Fridge}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Art of Ninja}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Nuclear Football}}
+|style="background-color:var(--purple-bg)"|{{Reimg|The Scream}}
+|style="background-color:var(--orange-bg)"|{{Reimg|5th Element}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Mysterious Relic|25}}
+|style="background-color:var(--orange-bg)"|{{Reimg|War and Peace}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Klein Bottle}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Quantum Cat}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Armstrong's Footprint}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Dolly Specimen}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Swan Lake}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Gravitation Scripts}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Guevara's Portrait}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Gone with the Wind}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Requiem}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Speech of MLK}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Dream Top}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Nuclear Bomb}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Edison's Kinetoscope}}
+|style="background-color:var(--orange-bg)"|{{Reimg|SkyWeb Hub}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Seated Scribe}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Torpedo Swimsuit}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Sorron's Eye}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Ali's Belt}}
+|}
+|-|Jun=
+{|class="wikitable" style="text-align:center"
+!colspan="7"|June
+|-
+!Su
+!Mo
+!Tu
+!We
+!Th
+!Fr
+!Sa
+|-
+|
+|
+|
+|
+|style="background-color:var(--orange-bg)"|{{Reimg|Buddha's Skull Sarira}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Medal of Honor}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Einstein's Brain}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Aztec Calendar}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Atomic Clock}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Platinum Record}}
+|style="background-color:var(--purple-bg)"|{{Reimg|The Starry Night}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Pandora's Box}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Sunflowers}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Horn of Heimdall}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Gregor Specimen}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Spinning Jenny}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Gene Map}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Maya Codices}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Hubble Telescope}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Winged Victory}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Matrix System}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Roman Dodecahedron}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Big Fish Bone}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Cavendish's Scale}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Augustus' Medal}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Buddha Finger Sarira}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Era Magazine Vol.1}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Aladdin Carpet}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Universe Bowl}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Throne of Pope}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Yuan Calendar}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Treaty of Versailles}}
+|style="background-color:var(--orange-bg)"|{{Reimg|The Black Book}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Smug's Chalice}}
+|}
+|-|Jul=
+{|class="wikitable" style="text-align:center"
+!colspan="7"|July
+|-
+!Su
+!Mo
+!Tu
+!We
+!Th
+!Fr
+!Sa
+|-
+|
+|
+|
+|
+|
+|
+|style="background-color:var(--orange-bg)"|{{Reimg|Cairo Declaration}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Chronometer}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Twelve Tables}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Hannibal's Cup}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Koryeon Sutra}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Das Kapital}}
+|style="background-color:var(--orange-bg)"|{{Reimg|The School of Athens}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Fermat's Scripts}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Penny Black}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Musician Figure}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Magic Mirror}}
+|style="background-color:var(--purple-bg)"|{{Reimg|DRMC}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Double Helix DNA}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Tree of Life}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Ragnarok}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Lewis Chessmen}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Chair of Busby}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Haulers on Volga}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Edict of Milan}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Mona Lisa}}
+|style="background-color:var(--orange-bg)"|{{Reimg|The Analects}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Artificial Blackhole}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Benin Statue}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Musketeer Mask}}
+|style="background-color:var(--purple-bg)"|{{Reimg|ARPAnet}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Leaf Manuscript}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Time-Travel Box}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Mayflower}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Koh-i-Noor Diamond}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Hillary's Pickaxe}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Seismograph}}
+|}
+|-|Aug=
+{|class="wikitable" style="text-align:center"
+!colspan="7"|August
+|-
+!Su
+!Mo
+!Tu
+!We
+!Th
+!Fr
+!Sa
+|-
+|
+|
+|style="background-color:var(--purple-bg)"|{{Reimg|Nefertiti Bust}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Ark Reactor}}
+|style="background-color:var(--orange-bg)"|{{Reimg|King's Gayageum}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Boltzmann Brain}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Golden Scarab}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Stela of Djet}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Dendera Tablet}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Fallen Lucifer}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Fuchun Mountains}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Antimatter Bomb}}
+|style="background-color:var(--orange-bg)"|{{Reimg|David}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Ship in a Bottle}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Dragon Crystal}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Dunhuang Painting}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Tree of Life}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Hope Diamond}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Golden Vase}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Morse's Telegraph}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Venus de Milo}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Our Lady of Kazan}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Sleeping Gypsy}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Polonium}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Codex Leicester}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Forbidden Fruit}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Unispark}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Golden Finger}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Royal Doll}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Pumpkin Coach}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Mars Rover}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Corinthian Pillar}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Soul Stone}}
+|}
+|-|Sep=
+{|class="wikitable" style="text-align:center"
+!colspan="7"|September
+|-
+!Su
+!Mo
+!Tu
+!We
+!Th
+!Fr
+!Sa
+|-
+|
+|
+|
+|
+|
+|style="background-color:var(--orange-bg)"|{{Reimg|Divine Comedy}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Notre Dame Bell}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Demoiselles d'Avignon}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Pressburg Treaty}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Phoenician Tablet}}
+|style="background-color:var(--purple-bg)"|{{Reimg|BetaGo}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Fire Chalice}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Nobel's Will}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Tutankhamun Mask}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Moai}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Enigma Machine}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Galileo's Ball}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Supersoldier Serum}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Causality}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Aegis System}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Houmuwu Ding}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Mask of Zorro}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Sonnet}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Spirit of Laws}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Napoleon Painting}}
+|style="background-color:var(--orange-bg)"|{{Reimg|1001 Nights}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Golden Chariot}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Trojan Horse}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Golden Fleece}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Star of David}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Sword Throne}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Lennon's Guitar}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Faust}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Mind Controller}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Leaf of Yggdrasil}}
+|}
+|-|Oct=
+{|class="wikitable" style="text-align:center"
+!colspan="7"|October
+|-
+!Su
+!Mo
+!Tu
+!We
+!Th
+!Fr
+!Sa
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Churchill's Cigar}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Traveler Manual}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Bell's Telephone}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Andersen's Fairytales}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Mummy of Ramesses}}
+|style="background-color:var(--orange-bg)"|{{Reimg|True Cross}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Sputnik 1}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Code of Law}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Guillotine}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Crystal Skull}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Keyhole Satellite}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Nautilus}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Relativity Scripts}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Napoleonic Code}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Bronze Bird}}
+|style="background-color:var(--blue-bg)"|{{Reimg|1982 Wine}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Voynich Manuscript}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Turing Machine}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Arkanrock}}
+|style="background-color:var(--orange-bg)"|{{Reimg|The Thinker}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Hammurabi Code}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Marseilles Statue}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Tee Virus}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Lionheart}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Yamato Mirror}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Sistine Madonna}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Proclamation 95}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Tetromino}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Buddha Tooth Sarira}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Minie Ball}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Death of Marat}}
+|}
+|-|Nov=
+{|class="wikitable" style="text-align:center"
+!colspan="7"|November
+|-
+!Su
+!Mo
+!Tu
+!We
+!Th
+!Fr
+!Sa
+|-
+|
+|
+|
+|style="background-color:var(--purple-bg)"|{{Reimg|Figaro Marriage}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Travels of Marco Polo}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Africa Star}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Origin of Species}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Opera Phantom}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Euclid's Elements}}
+|style="background-color:var(--purple-bg)"|{{Reimg|The Nutcracker}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Meditations}}
+|style="background-color:var(--orange-bg)"|{{Reimg|The Tale of Genji}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Shroud of Turin}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Somersault Cloud}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|No. 1 Majesty}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Templar Emblem}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Boy with Goose}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Marconi Telegraph}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Cuneiform Tablet}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Holy Loaves}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Mahakala Scroll}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Campbell's Sextant}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Peacock Clock}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Truth Crystal}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Hermes' Coin}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Dharma Statue}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Plato's Republic}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Boat of St. Peter}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Golden Menorah}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Viking Horn}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Skidbladnir Ship}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Jormungandr Scale}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Golden Trophy}}
+|}
+|-|Dec=
+{|class="wikitable" style="text-align:center"
+!colspan="7"|December
+|-
+!Su
+!Mo
+!Tu
+!We
+!Th
+!Fr
+!Sa
+|-
+|
+|
+|
+|
+|
+|style="background-color:var(--orange-bg)"|{{Reimg|Periodic Table Scripts}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Quantum Radio}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Leo's Plant}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Portland Vase}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Kapa's Camera}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Behistun Inscription}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Fu Hao Scripts}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Particle Collider}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Tokamak}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Bellum Gallicum}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Sholes' Typewriter}}
+|style="background-color:var(--purple-bg)"|{{Reimg|ENIAC Prototype}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Peacock Suit}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Mysterious Relic|25}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Watt Steam Engine}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Mysterious Relic|25}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Flyer I}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Faraday's Dynamo}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Manneken Pis}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Frigga's Wheel}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Ape's Footprint Fossil}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Agamemnon Mask}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Kepler Telescope}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Pinocchio}}
+|style="background-color:var(--blue-bg)"|{{Reimg|Great Wave}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Tyr's Arm}}
+|style="background-color:var(--purple-bg)"|{{Reimg|Observatory}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Impression, Sunrise}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Lotus Chalice}}
+|style="background-color:var(--orange-bg)"|{{Reimg|Devol's Robot}}
+|-
+|style="background-color:var(--blue-bg)"|{{Reimg|Atilla Horseshoe}}
+|}
+</tabber>
+
+== Supreme Relics ==
+Supreme Relics are obtained in the Premium Shop for USD or CAD.
+
+[[Category:Guides]]

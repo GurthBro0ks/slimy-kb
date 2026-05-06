@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The crystal ball on this snail shell has been imbued with a special imaging magic, capturing a moment of happiness shared between Little Red Riding Hood and her grandmother, forever preserved within.
+|affct=FAME
+|hard=ATK
+|source=[[Little Red Riding Hood Event]] Jan. 26 - Feb. 8 2024: 120 Rainbow Points
+|color=purple
+|earth=6
+|water=7
+|fire=6
+|wind=7
+|form=Dragon
+|element=Water
+|realm=Rift
+|orangehard=ATK
+}}

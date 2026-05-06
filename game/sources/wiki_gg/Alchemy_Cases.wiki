@@ -1,0 +1,22 @@
+__FORCETOC__
+
+= Novice Alchemy Case =
+{{RewardIconWithText|Novice Alchemy Case|blue}} randomly obtain 30 Reagents (up to {{Retext|blue|blue}}) and have a drop rate of:
+* 70% {{RewardIconWithText|Green Reagent|green}}
+* 30% {{RewardIconWithText|Blue Reagent|blue}}
+
+
+= Expert Alchemy Case =
+{{RewardIconWithText|Expert Alchemy Case|purple}} randomly obtain 30 Reagents (up to {{Retext|purple|purple}}) and have a drop rate of:
+* 53.33% {{RewardIconWithText|Green Reagent|green}}
+* 30% {{RewardIconWithText|Blue Reagent|blue}}
+* 16.67% {{RewardIconWithText|Purple Reagent|purple}}
+
+= Master Alchemy Case =
+{{RewardIconWithText|Master Alchemy Case|orange}} randomly obtain 30 Reagents (up to {{Retext|orange|orange}}) and have a drop rate of:
+* 48.33% {{RewardIconWithText|Green Reagent|green}}
+* 30% {{RewardIconWithText|Blue Reagent|blue}}
+* 15% {{RewardIconWithText|Purple Reagent|purple}}
+* 6.67% {{RewardIconWithText|Orange Reagent|orange}}
+
+[[Category:Reward Pack]]

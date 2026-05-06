@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Milo of Croton
+|class_id=22539
+|rank=AAA
+|affct=ART
+|birthday=11-14
+|source=Lottery Machine No.3 (0.06%)
+|description=On Nov 14, 1682 AD, Pierre Puget completed this marble sculpture.<br>Milo of Croton is a sculpture born in seventeenth-century France, created by the sculptor Pierre Puget. The statue depicts the scene of Milo being bitten by a lion: Milo was a Greek wrestler who had won many Olympic championships, but in his old age, he tried to test his strength by trying to split a tree trunk with his bare hands, only to get stuck in it and be killed by a lion. The sculpture portrays Milo's muscular body twisted and torn by the lion, expressing a strong tragic color, full of passion and emotion, and is a representative work of the sculptor.
+|fame=34
+|art=74
+|fth=47
+|civ=47
+|tech=41
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +6<br>Per ART Bionic Part extracted, Snail DEF +15<br>ART Bionic Part Extracted: 10/10
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +8<br>Per ART Bionic Part extracted, Snail DEF +20<br>ART Bionic Part Extracted: 10/10
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +10<br>Per ART Bionic Part extracted, Snail DEF +25<br>ART Bionic Part Extracted: 10/10
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +14<br>Per ART Bionic Part extracted, Snail DEF +35<br>ART Bionic Part Extracted: 10/10
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +18<br>Per ART Bionic Part extracted, Snail DEF +45<br>ART Bionic Part Extracted: 10/10
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +18<br>Per ART Bionic Part extracted, Snail DEF +45<br>ART Bionic Part Extracted: 10/10<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +14 (Awakened)
+|skill1=[[File:Swampsanctum skill II.png|50px]]Place in Swamp Sanctum: This Relic's ART +10
+|skill2=[[File:Swampsanctum skill II.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Output +15%
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Silhouette of a Beauty
+|class_id=20646
+|rank=Green
+|affct=ART
+|source=
+|description=On the shimmering river lit by glowing streetlights are reflections of young ones happily dancing. The deity of the River of Wishes captured this moment of joy, freezing it as a silhouette in time, embodying the god's blessings for the beauty of the mortal world.
+|fame=14
+|art=34
+|fth=16
+|civ=17
+|tech=14
+|ss1=Snail ATK +10<br>Per 3 ART Relics gained, Snail DEF +1<br>ART Relics: 60/60
+|ss2=Snail ATK +20<br>Per 3 ART Relics gained, Snail DEF +2<br>ART Relics: 60/60
+|ss3=Snail ATK +30<br>Per 3 ART Relics gained, Snail DEF +3<br>ART Relics: 60/60
+|ss4=Snail ATK +30<br>Per 3 ART Relics gained, Snail DEF +3<br>ART Relics: 60/60
+|ss7=Snail ATK +30<br>Per 3 ART Relics gained, Snail DEF +3<br>ART Relics: 60/60<br> (Awakened)
+}}

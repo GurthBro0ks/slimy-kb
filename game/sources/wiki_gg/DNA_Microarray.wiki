@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=DNA Microarray
+|class_id=22192
+|rank=AA
+|affct=TECH
+|birthday=07-26
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Jul 26, 1982 AD, the world's first DNA microarray was successfully created.<br>The DNA Microarray chip is a type of biotechnology characterized by high-density arrays that can quickly parallel-processes and analyze biomolecules. This technology is based on the principle of molecular hybridization, using microarrays printed with a large number of known sequence gene probes to hybridize with target samples, and processing the hybridization signal intensity and data to obtain different samples of the abundance of specific genes and comprehensive comparison of gene expression levels in samples.
+|fame=46
+|art=32
+|fth=48
+|civ=33
+|tech=69
+|ss1=Mecha Minion DEF +2%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +16%
+|ss2=Mecha Minion DEF +3%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +24%
+|ss3=Mecha Minion DEF +4%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +32%
+|ss4=Mecha Minion DEF +6%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +48%
+|ss5=Mecha Minion DEF +8%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +64%
+|ss7=Mecha Minion DEF +8%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +64%<br>In the Rebel Rocket Cabin:<br>> Anti-Gravity Device Base Effect +56% (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: Snail DEF +60
+|skill2=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: Snail ATK +60
+}}

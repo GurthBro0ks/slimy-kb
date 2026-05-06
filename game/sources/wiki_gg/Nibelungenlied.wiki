@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Nibelungenlied
+|class_id=21529
+|rank=SSS
+|affct=CIV
+|birthday=02-04
+|source=
+|description=On Feb 4, 1204 AD, a famous German Epic Poetry was published.<br>Nibelungenlied tells the story of Prince Siegfried's adventures where he killed dragons and obtained the treasures of the Nibelungs, including the magic sword Balmung and a mysterious magic helmet. This book focuses on major forces such as the Rhine, Burgundy, Huns, Brunhild, and how they're connected to the fate of the Nibelungs. The main storyline featured Siegfried's feats and then the revenge of his widow, which ended in tragedy.
+[Classic Quotes]
+All joys of the world can easily turn into disasters.
+|fame=68
+|art=61
+|fth=69
+|civ=108
+|tech=56
+|ss1=Snail ATK +30<br>Per 5 Dragon Gene LVLs, Snail ATK +6<br>Per 5 Dragon Gene LVLs, Snail RUSH +6<br>Dragon Gene LVLs Researched: 100/100
+|ss2=Snail ATK +40<br>Per 5 Dragon Gene LVLs, Snail ATK +8<br>Per 5 Dragon Gene LVLs, Snail RUSH +8<br>Dragon Gene LVLs Researched: 100/100
+|ss3=Snail ATK +50<br>Per 5 Dragon Gene LVLs, Snail ATK +10<br>Per 5 Dragon Gene LVLs, Snail RUSH +10<br>Dragon Gene LVLs Researched: 100/100
+|ss4=Snail ATK +70<br>Per 5 Dragon Gene LVLs, Snail ATK +14<br>Per 5 Dragon Gene LVLs, Snail RUSH +14<br>Dragon Gene LVLs Researched: 100/100
+|ss5=Snail ATK +90<br>Per 5 Dragon Gene LVLs, Snail ATK +18<br>Per 5 Dragon Gene LVLs, Snail RUSH +18<br>Dragon Gene LVLs Researched: 100/100
+|ss6=Snail ATK +120<br>Per 5 Dragon Gene LVLs, Snail ATK +24<br>Per 5 Dragon Gene LVLs, Snail RUSH +24<br>Dragon Gene LVLs Researched: 100/100
+|ss7=Snail ATK +120<br>Per 5 Dragon Gene LVLs, Snail ATK +24<br>Per 5 Dragon Gene LVLs, Snail RUSH +24<br>Dragon Gene LVLs Researched: 100/100<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Ignore DEF +30%
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, CRIT DMG +30%
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, CRIT +30%
+|mirage={{Mirage|name=Dragon-Slaying Land|reward={{RewardIconWithLink|Dragon Orb, +1|orange}}
+|3name=Emerald Dragon|3rec=2.99M|3atk=42367|3defense=27871|3hp=605908|3weak=9387
+|4name=Crimson Dragon|4rec=5.82M|4atk=61640|4defense=40550|4hp=1196549|4weak=12188
+|5name=Black Dragon|5rec=10.63M|5atk=85452|5defense=56215|5hp=2122085|5weak=14087
+|6name=Psychic Dragon|6rec=22.12M|6atk=114024|6defense=75011|6hp=3542059|6weak=17824
+|Arec=37.92M|Aatk=147828|Adefense=97249|Ahp=5706132|Aweak=19221
+}}}}

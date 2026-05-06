@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Bronze Shiva Statue
+|class_id=21624
+|rank=SSS
+|affct=ART
+|birthday=04-28
+|source=
+|description=On Apr 28, 1100 AD, believers made this statue of God Shiva performing the Tandava dance.<br>Legends tell that Shiva's third eye can spray out a divine vital fire, and he has thousands of arms on his back. After the king of the Chola Dynasty, Rajaraja, conquered Ceylon and Kalinga, he was attacked and suffered heavy casualties. Furiously, he set out to punish the invaders. A ritual was performed, sacrifices were offered and Shiva appeared. From Shiva's third eye came a destructive force that annihilated the forces of the Maldives.
+|fame=71
+|art=109
+|fth=65
+|civ=61
+|tech=56
+|ss1=Snail ATK +30<br>When offering, 2x Chaos Chest Drops +3%<br>Troop CRIT +0.5%
+|ss2=Snail ATK +40<br>When offering, 2x Chaos Chest Drops +4%<br>Troop CRIT +1%
+|ss3=Snail ATK +50<br>When offering, 2x Chaos Chest Drops +5%<br>Troop CRIT +1.5%
+|ss4=Snail ATK +70<br>When offering, 2x Chaos Chest Drops +7%<br>Troop CRIT +2.5%
+|ss5=Snail ATK +90<br>When offering, 2x Chaos Chest Drops +9%<br>Troop CRIT +3.5%
+|ss6=Snail ATK +120<br>When offering, 2x Chaos Chest Drops +12%<br>Troop CRIT +5%
+|ss7=Snail ATK +120<br>When offering, 2x Chaos Chest Drops +12%<br>Troop CRIT +5%<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, Snail ATK +600
+|skill2=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, ART Checks -600
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: Medal Output +30
+|mirage={{Mirage|name=My God|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Vishnu Statue|3rec=6.55M|3atk=65604|3defense=43262|3hp=1337589|3weak=12410
+|4name=Brahma Statue|4rec=11.63M|4atk=89426|4defense=58971|4hp=2290568|4weak=14823
+|5name=Agni Statue|5rec=23.98M|5atk=117727|5defense=77634|5hp=3770279|5weak=18052
+|6name=Hanuman Statue|6rec=39.43M|6atk=150684|6defense=99368|6hp=6009748|6weak=19334
+|Arec=57.88M|Aatk=190062|Adefense=125335|Ahp=9253504|Aweak=21566
+}}}}

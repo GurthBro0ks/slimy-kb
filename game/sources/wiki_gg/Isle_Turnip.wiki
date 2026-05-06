@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Isle Turnip
+|class_id=20076
+|rank=Green
+|affct=CIV
+|source=
+|description=This turnip comes from an island. It used to be desolate, but after people worked hard to reclaim it, the beach was planted with various vegetables and fruits, promising a good harvest every season. It was a happy ending for all the people involved!
+|fame=13
+|art=10
+|fth=19
+|civ=30
+|tech=16
+|ss1=Fungus Farm: +2%chance to produce<br>Wonder Fungi
+|ss2=Fungus Farm: +4%chance to produce<br>Wonder Fungi
+|ss3=Fungus Farm: +6%chance to produce<br>Wonder Fungi
+|ss4=Fungus Farm: +6%chance to produce<br>Wonder Fungi
+|ss7=Fungus Farm: +6%chance to produce<br>Wonder Fungi<br> (Awakened)
+}}

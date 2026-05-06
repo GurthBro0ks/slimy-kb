@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Amarna Letters,WLAN,Baopuzi,Optical Fiber Communication,Attic Nights,Mike
+|rank=orange
+|amount=6
+|category=self
+|description=Per 3 CIV Relics awakened, Snail Primeval Power +12; CIV Relics Awakened: 180/180
+}}
+[[Category:Self]]
+[[Category:Enhanced by CIV Relics]]
+[[Category:Primeval Power Boost]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20582_1
+|class_id=20582
+|rank=Green
+|affct=CIV
+|source=
+|description=collection@20582_2
+|fame=13
+|art=18
+|fth=15
+|civ=30
+|tech=14
+|ss1=Snail HP +100<br>Per 5 Mirage Gems gained, Snail RUSH +1<br>Mirage Gems Gained: 300/300
+|ss2=Snail HP +200<br>Per 5 Mirage Gems gained, Snail RUSH +2<br>Mirage Gems Gained: 300/300
+|ss3=Snail HP +300<br>Per 5 Mirage Gems gained, Snail RUSH +3<br>Mirage Gems Gained: 300/300
+|ss4=Snail HP +300<br>Per 5 Mirage Gems gained, Snail RUSH +3<br>Mirage Gems Gained: 300/300
+|ss7=Snail HP +300<br>Per 5 Mirage Gems gained, Snail RUSH +3<br>Mirage Gems Gained: 300/300<br> (Awakened)
+}}

@@ -1,0 +1,127 @@
+{{Missing Info|specifics='''(Needs Categorization)''' relics need to be moved to their category and priced.}}
+
+==Indigent Nobleman==
+[[File:Indigent Nobleman.png|150px|left|alt=Indigent Nobleman]]
+The Indigent Nobleman is one of the [[Visitors]] that shows up randomly to offer relics from his estate in exchange for {{RewardIconWithText|B-Tad}}s. 
+
+{{Retext|Blue relics|blue}} reward 10 of its fragments, {{Retext|purple relics|purple}} reward 20 of its fragments, and {{Retext|orange relics|orange}} reward 40 of its fragments. This is enough to unlock it if the relic is not already owned. 
+
+The best type of relic has [[Indigent_Nobleman#(No_Category)|(No Category)]] name given, and he will not tell you what he is giving you. These are typically worth getting, though the orange relics are very expensive. He will only offer this if you've accepted previous offers.  
+
+The wiki has a category of all these relics available here: [[:Category:Indigent Nobleman Relics]]
+
+{{Clear}}
+
+==(No Category)==
+The best type of relics have no category name given. The Indigent Nobleman will not tell you what type of category or the name of the relic. The {{Retext|orange relics|orange}} are all SSS Relics and the {{Retext|green relics|green}} are all unique to the Indigent Nobleman, but neither of which can be purchased more than once.
+
+{{ShopRowHeader|(No Category)|B-Tad}}
+|-
+! style="background-color:var(--orange-bg)" rowspan="8"|SSS<br>Relics
+{{ShopRow|Aesop's Fables|orange|810k|Africa Star|orange|810k|Along the River|orange|810k}}
+{{ShopRow|Da Vinci's Notes|orange|810k|Enuma Elish|orange|810k|Lucy the Ape|orange|810k}}
+{{ShopRow|Medal of Honor|orange|810k|Parker Solar Probe|orange|810k|Ragnarok|orange|810k}}
+{{ShopRow|Relativity Scripts|orange|810k}}
+
+! style="background-color:var(--green-bg)" rowspan="2"|Green<br>Relics
+{{ShopRow|Noble Brooch|green|36k|Noble Family Crest|green|36k|Noble Ribbon|green|36k}}
+|}
+
+==Heirloom Gem==
+{{ShopRowHeader|Heirloom Gem|B-Tad}}
+|-
+! style="background-color:var(--purple-bg)" rowspan="2"|Purple<br>Relics
+{{ShopRow|Cintamani|purple|210k}}
+|}
+
+==Inherited Badge==
+{{ShopRowHeader|Inherited Badge|B-Tad}}
+|-
+! style="background-color:var(--purple-bg)" rowspan="2"|Purple<br>Relics
+{{ShopRow|Hunting Heraldry|purple|210k|Indus Seal|purple|210k|Plantagenet Badge|purple|210k}}
+! style="background-color:var(--blue-bg)" rowspan="2"|Blue<br>Relics
+{{ShopRow|Innocent III Armorial|blue|72k|Templar Emblem|blue|72k}}
+|}
+
+==Inherited Document==
+{{ShopRowHeader|Inherited Document|B-Tad}}
+|-
+! style="background-color:var(--orange-bg)" rowspan="2"|Orange<br>Relics
+{{ShopRow|R'lyeh Text|orange|570k|Stockholm Declaration|orange|570k}}
+! style="background-color:var(--purple-bg)" rowspan="4"|Purple<br>Relics
+{{ShopRow|Burgundian Laws|purple|210k|Codex Leicester|purple|210k|Divination Book|purple|210k}}
+{{ShopRow|Magna Carta|purple|210k}}
+! style="background-color:var(--blue-bg)" rowspan="2"|Blue<br>Relics
+{{ShopRow|Euclid's Elements|blue|72k|The Final Communique|blue|72k}}
+|}
+
+==Inherited Fossil==
+{{ShopRowHeader|Inherited Fossil|B-Tad}}
+|-
+! style="background-color:var(--purple-bg)" rowspan="2"|Purple<br>Relics
+{{ShopRow|Prehistoric Fossil|purple|210k}}
+! style="background-color:var(--blue-bg)" rowspan="2"|Blue<br>Relics
+{{ShopRow|Big Fish Bone|blue|72k}}
+|}
+
+==Inherited Home Appliance==
+{{ShopRowHeader|Inherited Home Appliance|B-Tad}}
+|-
+! style="background-color:var(--orange-bg)" rowspan="2"|Orange<br>Relics
+{{ShopRow|Devol's Robot|orange|570k|AMS|orange|570k|Ruska's Microscope|orange|570k}}
+! style="background-color:var(--purple-bg)" rowspan="2"|Purple<br>Relics
+{{ShopRow|CAL 9000|purple|210k|Edison's Phonograph|purple|210k}}
+! style="background-color:var(--blue-bg)" rowspan="4"|Blue<br>Relics
+{{ShopRow|Daguerreotype Camera|blue|72k|Faraday's Dynamo|blue|72k|Janssen Microscope|blue|72k|Spencer's Microwave|blue|72k}}
+{{ShopRow|Spencer's Microwave|blue|72k}}
+|}
+
+==Inherited Instrument==
+{{ShopRowHeader|Inherited Instrument|B-Tad}}
+|-
+! style="background-color:var(--purple-bg)" rowspan="2"|Purple<br>Relics
+{{ShopRow|The Bell of St Mura|purple|210k|Crystal Piano|purple|210k}}
+! style="background-color:var(--blue-bg)" rowspan="4"|Blue<br>Relics
+{{ShopRow|Aulos Pipe|blue|72k|Guanery's Violin|blue|72k|Peter Pan's Flute|blue|72k}}
+{{ShopRow|Theremin|blue|72k}}
+|}
+
+==Inherited Oil Painting==
+{{ShopRowHeader|Inherited Oil Painting|B-Tad}}
+|-
+! style="background-color:var(--purple-bg)" rowspan="2"|Purple<br>Relics
+{{ShopRow|Death of Marat|purple|210k|Haulers on Volga|purple|210k|Lady with an Ermine|purple|210k}}
+! style="background-color:var(--blue-bg)" rowspan="2"|Blue<br>Relics
+{{ShopRow|The Fall of Phaethon|blue|72k|Sleeping Gypsy|blue|72k}}
+|}
+
+==Inherited Statue==
+{{ShopRowHeader|Inherited Statue|B-Tad}}
+|-
+! style="background-color:var(--orange-bg)" rowspan="2"|Orange<br>Relics
+{{ShopRow|3-Faced Statue|orange|570k|Lamassu Statue|orange|570k}}
+! style="background-color:var(--purple-bg)" rowspan="4"|Purple<br>Relics
+{{ShopRow|Hachiko Statue|purple|210k|Mother and Daughter|purple|210k|Nefertiti Bust|purple|210k}}
+{{ShopRow|Ambika Statue|purple|210k}}
+! style="background-color:var(--blue-bg)" rowspan="4"|Blue<br>Relics
+{{ShopRow|Bastet Bronze Statue|blue|72k|Ludovisi Gaul|blue|72k|Maitreya in Meditation|blue|72k}}
+{{ShopRow|Seated Scribe|blue|72k}}
+|}
+
+==(Needs Categorization)==
+There are several relics that are designated as Indigent Nobleman relics but we don't have the category or cost of these relics. They are in this table below. If you have this information, please update this page.
+{| class="wikitable" style="text-align:center"
+!'''Relic Type'''
+!'''Relic Name'''
+!'''Price in {{RewardIconWithText|B-Tad}}s'''
+
+|-
+! style="background-color:var(--orange-bg)" rowspan="2" | ? Orange
+
+|-
+|{{ImageWithLinkAndBreak|Veiled Lady|orange}}
+|?k
+
+|}
+
+[[Category:Visitors]]

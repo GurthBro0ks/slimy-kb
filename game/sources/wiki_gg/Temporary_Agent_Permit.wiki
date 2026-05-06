@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Temporary Agent Permit
+|class_id=20333
+|rank=Green
+|affct=TECH
+|source=
+|description=The holder is a temporary agent for the Bureau of Investigation with law enforcement powers granted by federal laws. Please cooperate, or the agent has the right to use force! —Bureau of Investigation (With hand-sketched stamp)
+|fame=16
+|art=16
+|fth=16
+|civ=16
+|tech=26
+|ss1=Per Agent Permit acquired, Snail ATK +1<br>Agent Permits Acquired: 50/50
+|ss2=Per Agent Permit acquired, Snail ATK +2<br>Agent Permits Acquired: 50/50
+|ss3=Per Agent Permit acquired, Snail ATK +3<br>Agent Permits Acquired: 50/50
+|ss4=Per Agent Permit acquired, Snail ATK +3<br>Agent Permits Acquired: 50/50
+|ss7=Per Agent Permit acquired, Snail ATK +3<br>Agent Permits Acquired: 50/50<br> (Awakened)
+}}

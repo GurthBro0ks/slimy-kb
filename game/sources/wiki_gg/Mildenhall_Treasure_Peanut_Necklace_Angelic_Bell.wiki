@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=634
+|relics=Mildenhall Treasure,Peanut Necklace,Angelic Bell
+|rank=blue
+|amount=3
+|category=self
+|description=Snail Leadership +4
+}}

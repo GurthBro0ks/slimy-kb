@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Venus de Milo
+|class_id=21614
+|rank=SS
+|affct=ART
+|birthday=08-19
+|source=
+|description=On Aug 19, 1820 AD, this statue was unearthed on Milos in the Aegean Sea.<br>When the statue was unearthed, both of her arms were missing. Luckily, her head and her body remained intact. Her cloth covered the waist, but you can still sneak a peek of her toes. She has a sassy feminine form. Many believe the sculpture represents the pinnacle of ancient Greek art.
+[Basic Info]
+Date of Creation: Hellenistic Period
+Material: Marble
+Type: Relief Art
+Sculptor: Alexandros
+Height: 2.04 meters
+Collected by: Louvre Museum, France
+|fame=74
+|art=102
+|fth=57
+|civ=53
+|tech=61
+|ss1=Per 60 Angel Minions in battle:<br>> Troop HP +90<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +9<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Per 60 Angel Minions in battle:<br>> Troop HP +180<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +18<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Per 60 Angel Minions in battle:<br>> Troop HP +270<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +27<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Per 60 Angel Minions in battle:<br>> Troop HP +450<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +45<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Per 60 Angel Minions in battle:<br>> Troop HP +630<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +63<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Per 60 Angel Minions in battle:<br>> Troop HP +900<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +90<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Per 60 Angel Minions in battle:<br>> Troop HP +900<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +90<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Quary skill III.png|50px]]Place in Quarry: Stone Output +30%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, DMG +30%
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x INTEL Drops +15%
+|mirage={{Mirage|name=Venus' Arm|reward={{RewardIconWithLink|Glue, +100|orange}}
+|3name=Hexa-Arm Venus|3rec=6.95M|3atk=67227|3defense=44691|3hp=1406211|3weak=12512
+|4name=Tetra-Arm Venus|4rec=14.71M|4atk=100509|4defense=66817|4hp=2831908|4weak=16779
+|5name=Di-Arm Venus|5rec=35.64M|5atk=141460|5defense=94040|5hp=5457460|5weak=19021
+|Arec=60.18M|Aatk=193384|Adefense=128559|Ahp=9660976|Aweak=21877
+}}}}

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Cybervenatrix Core
+|class_id=21424
+|rank=SSS
+|affct=TECH
+|source=
+|description=Mechanized god-core. Bestows life to machines, purges corruption, and whispers to Catbot leaders.
+|fame=68
+|art=54
+|fth=71
+|civ=61
+|tech=108
+|ss1=Per Orange+ Gear equipped, Snail DEF +6<br>Per 2 TECH Master Scrolls used, Snail ATK +6<br>Per 2 TECH Master Scrolls used, Snail RUSH +6<br>TECH Master Scrolls Used:100/100
+|ss2=Per Orange+ Gear equipped, Snail DEF +8<br>Per 2 TECH Master Scrolls used, Snail ATK +8<br>Per 2 TECH Master Scrolls used, Snail RUSH +8<br>TECH Master Scrolls Used:100/100
+|ss3=Per Orange+ Gear equipped, Snail DEF +10<br>Per 2 TECH Master Scrolls used, Snail ATK +10<br>Per 2 TECH Master Scrolls used, Snail RUSH +10<br>TECH Master Scrolls Used:100/100
+|ss4=Per Orange+ Gear equipped, Snail DEF +14<br>Per 2 TECH Master Scrolls used, Snail ATK +14<br>Per 2 TECH Master Scrolls used, Snail RUSH +14<br>TECH Master Scrolls Used:100/100
+|ss5=Per Orange+ Gear equipped, Snail DEF +18<br>Per 2 TECH Master Scrolls used, Snail ATK +18<br>Per 2 TECH Master Scrolls used, Snail RUSH +18<br>TECH Master Scrolls Used:100/100
+|ss6=Per Orange+ Gear equipped, Snail DEF +24<br>Per 2 TECH Master Scrolls used, Snail ATK +24<br>Per 2 TECH Master Scrolls used, Snail RUSH +24<br>TECH Master Scrolls Used:100/100
+|ss7=Per Orange+ Gear equipped, Snail DEF +24<br>Per 2 TECH Master Scrolls used, Snail ATK +24<br>Per 2 TECH Master Scrolls used, Snail RUSH +24<br>TECH Master Scrolls Used:100/100<br>Per Orange+ Gear equipped, Snail DEF +20 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: Medal Output +30
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's TECH +15
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, DMG +30%
+|mirage={{Mirage|name=Inorganic life|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Catbot|3rec=74.31M|3atk=222229|3defense=148441|3hp=12519447|3weak=32982
+|4name=Dogbot|4rec=96.07M|4atk=268444|4defense=179058|4hp=17570611|4weak=37769
+|5name=Felis Rex|5rec=121.91M|5atk=322922|5defense=215416|5hp=24087548|5weak=43672
+|6name=Canis Rex|6rec=151.25M|6atk=384654|6defense=256693|6hp=32377356|6weak=49393
+|Arec=184.16M|Aatk=454097|Adefense=302999|Ahp=42745695|Aweak=55201
+}}}}

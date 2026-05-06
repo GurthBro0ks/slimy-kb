@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Mahakala Scroll
+|class_id=21626
+|rank=SSS
+|affct=FAITH
+|birthday=11-18
+|source=
+|description=On Nov 18, 1612 AD, the Japanese drew the Mahakala for the first time, which is the image of Daikokuten.<br>On this day, Mahakala, the wrathful guardian and protector of the monks, appeared. Mahakala can have many arms and can fly stealthily, protecting those who pray and bestow blessings on the poor. He guards the graves and preserves the abundance of food for all life.
+[Basic Info]
+Alias: Protector of the Dharma. Religion: Hinduism, Buddhism. Deity: Vairocana. Mantra: "Om Shri Mahakala hum hum Phat Svaha"
+|fame=59
+|art=54
+|fth=108
+|civ=76
+|tech=65
+|ss1=Lottery Green Orbs turn to Blue by +0.6%<br>Lottery Blue Orbs turn to Purple by +0.6%<br>Lottery Purple Orbs turn to Orange by +0.6%
+|ss2=Lottery Green Orbs turn to Blue by +0.8%<br>Lottery Blue Orbs turn to Purple by +0.8%<br>Lottery Purple Orbs turn to Orange by +0.8%
+|ss3=Lottery Green Orbs turn to Blue by +1%<br>Lottery Blue Orbs turn to Purple by +1%<br>Lottery Purple Orbs turn to Orange by +1%
+|ss4=Lottery Green Orbs turn to Blue by +1.4%<br>Lottery Blue Orbs turn to Purple by +1.4%<br>Lottery Purple Orbs turn to Orange by +1.4%
+|ss5=Lottery Green Orbs turn to Blue by +1.8%<br>Lottery Blue Orbs turn to Purple by +1.8%<br>Lottery Purple Orbs turn to Orange by +1.8%
+|ss6=Lottery Green Orbs turn to Blue by +2.4%<br>Lottery Blue Orbs turn to Purple by +2.4%<br>Lottery Purple Orbs turn to Orange by +2.4%
+|ss7=Lottery Green Orbs turn to Blue by +2.4%<br>Lottery Blue Orbs turn to Purple by +2.4%<br>Lottery Purple Orbs turn to Orange by +2.4%<br>Lottery Purple Orbs turn to Orange by +1% (Awakened)
+|skill1=[[File:Quarry skill III.png|50px]]Place in Quarry: This Relic's FTH +15
+|skill2=[[File:Quarry skill III.png|50px]]Place in Quarry: Find Ancient Fossil by +30%
+|skill3=[[File:Quarry skill III.png|50px]]Place in Quarry: Quarry Max Cap +30%
+|mirage={{Mirage|name=Mahakala Fortune Ritual|reward={{RewardIconWithLink|Mahakala's Offering, +1|orange}}
+|3name=Mahakala I|3rec=5.28M|3atk=58237|3defense=38392|3hp=1035357|3weak=11969
+|4name=Mahakala II|4rec=9.29M|4atk=79322|4defense=52291|4hp=1823427|4weak=13497
+|5name=Mahakala III|5rec=15.56M|5atk=104400|5defense=68824|5hp=3029394|5weak=17154
+|6name=Deity Mahaka|6rec=31.40M|6atk=133596|6defense=88070|6hp=4711668|6weak=18655
+|Arec=47.20M|Aatk=167318|Adefense=110301|Ahp=7236482|Aweak=19955
+}}}}

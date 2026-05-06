@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Intel. Director's ID
+|class_id=20433
+|rank=Green
+|affct=FAME
+|source=
+|description=License #ZS0002. With this ID card, you may enter and leave any covert Murikan institutions freely, and view all confidential files. You have the power to mobilize all personnel but Racky in the Murikan Domain. Warning: This ID card cannot be lent or loaned. Return at once when you leave the position.
+|fame=28
+|art=14
+|fth=16
+|civ=18
+|tech=14
+|ss1=In Murikan Domain, Snail ATK +10
+|ss2=In Murikan Domain, Snail ATK +20
+|ss3=In Murikan Domain, Snail ATK +30
+|ss4=In Murikan Domain, Snail ATK +30
+|ss7=In Murikan Domain, Snail ATK +30<br> (Awakened)
+}}

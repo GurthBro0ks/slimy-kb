@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Phial of Galadrial,Valaroma
+|rank=purple
+|amount=2
+|category=self
+|description=Per 1 Red Snail Shell upgraded, Snail HP +120; Red Snail Shell Upgraded: 20/20
+}}
+[[Category:Self]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Snail Shells]]

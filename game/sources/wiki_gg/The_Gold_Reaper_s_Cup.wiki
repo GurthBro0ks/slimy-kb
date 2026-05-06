@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=The Gold Reaper's Cup
+|class_id=20981
+|rank=Green
+|affct=FAME
+|source=
+|description=A gleaming trophy with five stars, each representing a crushing victory where she left opponents in tears. Its weight whispers: "You shall not pass... to the next round."
+|fame=27
+|art=14
+|fth=19
+|civ=12
+|tech=18
+|ss1=Snail RUSH +10<br>Per 10 Snail Arena matches, Snail ATK +6<br>Snail Arena matches fought: 100/100
+|ss2=Snail RUSH +20<br>Per 10 Snail Arena matches, Snail ATK +9<br>Snail Arena matches fought: 100/100
+|ss3=Snail RUSH +30<br>Per 10 Snail Arena matches, Snail ATK +12<br>Snail Arena matches fought: 100/100
+|ss4=Snail RUSH +30<br>Per 10 Snail Arena matches, Snail ATK +12<br>Snail Arena matches fought: 100/100
+|ss7=Snail RUSH +30<br>Per 10 Snail Arena matches, Snail ATK +12<br>Snail Arena matches fought: 100/100<br> (Awakened)
+}}

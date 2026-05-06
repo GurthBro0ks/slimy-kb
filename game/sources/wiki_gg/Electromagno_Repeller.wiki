@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Electromagno Repeller
+|class_id=20354
+|rank=Green
+|affct=TECH
+|source=
+|description=Powered primarily by solar energy, this suppressor can store up to three times the electricity required for it to operate at full power. It can generate a strong electromagnetic field to paralyze all electronic devices in range. Its powerful output and recharge-free function have been widely praised by users!
+|fame=16
+|art=18
+|fth=13
+|civ=14
+|tech=29
+|ss1=Against Racky, DMG +300%
+|ss2=Against Racky, DMG +400%
+|ss3=Against Racky, DMG +500%
+|ss4=Against Racky, DMG +500%
+|ss7=Against Racky, DMG +500%<br> (Awakened)
+}}

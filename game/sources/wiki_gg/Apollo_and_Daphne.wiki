@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Apollo and Daphne
+|class_id=22658
+|rank=SSS
+|affct=ART
+|birthday=02-24
+|source=
+|description=On Feb 24, 1622 AD, Bernini began sculpting Apollo and Daphne.<br>This sculpture is one of the most representative works of the master sculptor Bernini. It is based on a mythical story: Apollo offended the god of love, who then ignited the flame of love in him. He pursued Daphne, the daughter of the river god, but was rejected. Unable to escape, Daphne transformed into a laurel tree, and the sculpture's shape is taken from this scene. The entire sculpture has a strong sense of movement, with the costumes and branches seeming to really flutter, giving it a sense of realism, as if the depicted objects have come to life. This work not only won Bernini the praise of all of Rome but also opened up his career, leaving a significant mark in art history.
+|fame=54
+|art=107
+|fth=65
+|civ=74
+|tech=62
+|ss1=Snail Leadership +3<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +30<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +48<br>Frost Protomon: 60/60
+|ss2=Snail Leadership +4<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +40<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +64<br>Frost Protomon: 60/60
+|ss3=Snail Leadership +5<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +50<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +80<br>Frost Protomon: 60/60
+|ss4=Snail Leadership +7<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +70<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +112<br>Frost Protomon: 60/60
+|ss5=Snail Leadership +9<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +90<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +144<br>Frost Protomon: 60/60
+|ss6=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +192<br>Frost Protomon: 60/60
+|ss7=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 3 Frost Protomon, Priest-Snail Assistance DMG +192<br>Frost Protomon: 60/60<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's ART +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Card Drops +6%
+|mirage={{Mirage|name=Tragic Love Legend|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Cupid Statue|3rec=155.69M|3atk=423302|3defense=262941|3hp=26742048|3weak=39412
+|4name=Daphne Statue|4rec=214.88M|4atk=565505|4defense=346222|4hp=45664814|4weak=45576
+|5name=Apollo Statue|5rec=314.68M|5atk=746017|5defense=445664|5hp=81038374|5weak=52139
+|6name=Laurel Statue|6rec=414.41M|6atk=913665|6defense=535390|6hp=119398910|6weak=56255
+|Arec=549.08M|Aatk=1152215|Adefense=656545|Ahp=216486803|Aweak=62531
+}}}}

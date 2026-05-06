@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Water of Mother River
+|class_id=20443
+|rank=Green
+|affct=FAME
+|source=
+|description=Mother River is one of the secrets of the Xiliangnu Kingdom. Anyone drinking the water from it would become pregnant, regardless of man or woman, and give birth to a child in just a few days. Only the water from the Abortion Spring can stop the pregnancy. Thanks to the river, the former state of Xiliangnu was able to thrive in population. A certain famous scripture-seeker from the east almost had his reputation ruined after partaking the river water out of thirst.
+|fame=32
+|art=16
+|fth=17
+|civ=13
+|tech=12
+|ss1=Minion Cloning SPD +0.6%
+|ss2=Minion Cloning SPD +1.2%
+|ss3=Minion Cloning SPD +1.8%
+|ss4=Minion Cloning SPD +1.8%
+|ss7=Minion Cloning SPD +1.8%<br> (Awakened)
+}}

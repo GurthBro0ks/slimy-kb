@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Fabergé Egg,Basic Chemistry,Lives Magazine Vol.1,Antigone
+|rank=orange
+|amount=4
+|category=home
+|description=Merge 1 Purple Stardust: Gain 1 more by +9%
+}}
+[[Category:Home]]
+[[Category:Stardust Boost]]

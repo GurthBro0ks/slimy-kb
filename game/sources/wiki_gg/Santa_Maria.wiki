@@ -1,0 +1,46 @@
+{{Missing Info|specifics=Source, Special Stats, Relic Resonances, Mirage name & final rewards, Mirage 1-3, Description}}
+{{CargoRelic
+|name=Santa Maria
+|available=1
+|rank=SSS
+|affct=FAME
+|source=[[Events#Badge Shop|Badge Shop Relic #11]] (600 Badges)
+|description=
+|fame=108
+|art=54
+|fth=57
+|civ=62
+|tech=81
+|ss1=All Minion DEF +?%<br>Protomons assist Troop in battle, and deal extra DMG +?<br>Per 10 TECH Pistils used, Snail ATK +?<br>TECH Pistils Used: 400/400
+|ss2=All Minion DEF +?%<br>Protomons assist Troop in battle, and deal extra DMG +?<br>Per 10 TECH Pistils used, Snail ATK +?<br>TECH Pistils Used: 400/400
+|ss3=All Minion DEF +?%<br>Protomons assist Troop in battle, and deal extra DMG +?<br>Per 10 TECH Pistils used, Snail ATK +?<br>TECH Pistils Used: 400/400
+|ss4=All Minion DEF +?%<br>Protomons assist Troop in battle, and deal extra DMG +?<br>Per 10 TECH Pistils used, Snail ATK +?<br>TECH Pistils Used: 400/400
+|ss5=All Minion DEF +?%<br>Protomons assist Troop in battle, and deal extra DMG +?<br>Per 10 TECH Pistils used, Snail ATK +?<br>TECH Pistils Used: 400/400
+|ss6=All Minion DEF +2.4%<br>Protomons assist Troop in battle, and deal extra DMG +960<br>Per 10 TECH Pistils used, Snail ATK +16<br>TECH Pistils Used: 400/400
+|ss7=All Minion DEF +2.4%<br>Protomons assist Troop in battle, and deal extra DMG +960<br>Per 10 TECH Pistils used, Snail ATK +16<br>TECH Pistils Used: 400/400<br>Protomons assist Troop in battle, and deal extra DMG +800 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]] Place in Rift Museum: In the Rift, Wind DMG +300
+|skill2=[[File:Rift skill III.png|50px]] Place in Rift Museum: In the Rift, 2x Incense Drops +3%
+|skill3=[[File:Rift skill III.png|50px]] Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|mirage={{Mirage
+|name=
+|reward=
+|3name=
+|3rec=
+|3atk=
+|3def=
+|3hp=
+|3weak=
+}}
+}}
+
+[[Category:Relics]]
+[[Category:Orange Relics]]
+[[Category:FAME Relics]]
+[[Category:Orange FAME Relics]]
+[[Category:Leadership Boost]]
+[[Category:Minion DEF Boost]]
+[[Category:ATK Boost]]
+[[Category:Protomon Boost]]
+[[Category:Rift Museum Boost]]
+[[Category:Rift Exploration Boost]]
+[[Category:Badge Shop Relics]]

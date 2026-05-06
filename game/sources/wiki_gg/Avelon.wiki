@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Avelon
+|rank=A
+|affct=FTH
+|birthday=02-01
+|source=Fragment Crafting (30.8%), Lottery Machine (0.66%), Wishing (2.8%), Expert Scrolls (7.6%)
+|description=On Feb 1, AD 500, this sword became one of Arthur's personal weapons.
+
+Arthur got a scabbard that is said to grant the owner immortality by healing wounds and preventing aging. Merlin once warned, "The Excalibur is powerful, but the scabbard is even more valuable than the sword. The scabbard holder will never shed blood, and you must never lose it." But Arthur lost the scabbard anyway and was killed by a traitor. Under Arthur's orders, this sword was eventually thrown into the lake and was returned to Avalon, the kingdom of elves.
+|fame=41
+|art=39
+|fth=64
+|civ=39
+|tech=30
+|ss1=Per Purple+ Gear equipped, Snail ATK +2<br>Per Purple+ Gear equipped, Snail DEF +2
+|ss2=Per Purple+ Gear equipped, Snail ATK +4<br>Per Purple+ Gear equipped, Snail DEF +4
+|ss3=Per Purple+ Gear equipped, Snail ATK +6<br>Per Purple+ Gear equipped, Snail DEF +6
+|ss4=Per Purple+ Gear equipped, Snail ATK +10<br>Per Purple+ Gear equipped, Snail DEF +10
+|ss5=Per Purple+ Gear equipped, Snail ATK +14<br>Per Purple+ Gear equipped, Snail DEF +14
+|ss7=Per Purple+ Gear equipped, Snail ATK +14<br>Per Purple+ Gear equipped, Snail DEF +14<br>Per Purple+ Gear equipped, Snail ATK +14
+|skill1=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: HP Regen +300 HP 
+|skill2=[[File:Compass skill II.png|50px]]Place in Exploration Compass: Upon traveling through an area, gain +15 INTEL
+}}
+
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by Gear]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Catcolyte Boost]]

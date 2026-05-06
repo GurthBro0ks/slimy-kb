@@ -1,0 +1,26 @@
+=[[Time Beacon]]=
+Icons for [[Time Beacon]]
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Adv Herb Pill}}
+{{IconExampleRowWithText|Adv Taoist Pill}}
+{{IconExampleRowWithText|Apostle Cert}}
+{{IconExampleRowWithText|Biochem Component+}}
+{{IconExampleRowWithText|Color Thread}}
+{{IconExampleRowWithText|Demon Leather}}
+{{IconExampleRowWithText|Hitman Cert}}
+{{IconExampleRowWithText|Mecha Component+}}
+{{IconExampleRowWithText|Nautical Treasure}}
+{{IconExampleRowWithText|NAV Medal}}
+{{IconExampleRowWithText|Ninjutsu Cert}}
+{{IconExampleRowWithText|Sword Expert Cert}}
+{{IconExampleRowWithText|Super Energy Stone}}
+{{IconExampleRowWithText|Super Obsidian}}
+{{IconExampleRowWithText|Tiger Tally (Yang)}}
+{{IconExampleRowWithText|Tiger Tally (Yin)}}
+{{IconExampleRowWithText|Time Fruit}}
+{{IconExampleRowWithText|Time Worm}}
+|}
+
+[[Category:Icons]]
+[[Category:Time Rift]]

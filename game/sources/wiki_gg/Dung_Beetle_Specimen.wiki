@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dung Beetle Specimen
+|class_id=20347
+|rank=Green
+|affct=TECH
+|source=
+|description=This dung beetle specimen doesn't even have a scratch on the carapace. Its traits of a dung beetle are also perfectly preserved, making this extremely valuable for research purposes.
+|fame=13
+|art=16
+|fth=14
+|civ=16
+|tech=31
+|ss1=Against Dung Beetles, Troop Casualty -1%
+|ss2=Against Dung Beetles, Troop Casualty -2%
+|ss3=Against Dung Beetles, Troop Casualty -3%
+|ss4=Against Dung Beetles, Troop Casualty -3%
+|ss7=Against Dung Beetles, Troop Casualty -3%<br> (Awakened)
+}}

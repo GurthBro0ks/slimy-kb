@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Racky's Sculpture
+|class_id=20734
+|rank=Green
+|affct=FAITH
+|source=
+|description=Upon learning of Racky's fall, Earth's Will had a series of statues crafted in the likeness of his head. These were made not only to commemorate the historic moment of triumph over a formidable foe but also to be bestowed upon those distinguished Travelers, allowing them to partake in the Joy of victory
+|fame=14
+|art=14
+|fth=34
+|civ=13
+|tech=15
+|ss1=Snail Leadership +1<br>Per Demon God Sculpture owned, Snail HP +500<br>Demon God Sculptures Owned: 8/8
+|ss2=Snail Leadership +2<br>Per Demon God Sculpture owned, Snail HP +1000<br>Demon God Sculptures Owned: 8/8
+|ss3=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail HP +1500<br>Demon God Sculptures Owned: 8/8
+|ss4=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail HP +1500<br>Demon God Sculptures Owned: 8/8
+|ss7=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail HP +1500<br>Demon God Sculptures Owned: 8/8<br> (Awakened)
+}}

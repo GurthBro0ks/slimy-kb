@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Beowulf
+|class_id=22308
+|rank=SSS
+|affct=CIV
+|birthday=02-09
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Feb 9, 831 AD, the earliest European vernacular epic, Beowulf, was completed.<br>Beowulf is an Old English epic in the tradition of Germanic heroic legend consisting of 3,182 alliterative lines. Beowulf, a hero of the Geats, comes to the aid of Hrothgar, the king of the Danes, whose mead hall in Heorot has been under attack by the monster Grendel. After Beowulf slays him, Grendel's mother attacks the hall and is then defeated. Victorious, Beowulf goes home to Geatland and becomes king of the Geats. Fifty years later, Beowulf defeats a dragon but is mortally wounded in the battle. After his death, his attendants cremate his body and erect a tower on a headland in his memory. Beowulf is the longest and oldest surviving epic poem in Old English that has been widely spread in the present day.
+|fame=71
+|art=66
+|fth=61
+|civ=107
+|tech=57
+|ss1=Snail Leadership +3<br>All Minion ATK +0.6%<br>Per Demon God slain, Snail ATK +18<br>Demon Gods Slain: 8/8
+|ss2=Snail Leadership +4<br>All Minion ATK +0.8%<br>Per Demon God slain, Snail ATK +24<br>Demon Gods Slain: 8/8
+|ss3=Snail Leadership +5<br>All Minion ATK +1%<br>Per Demon God slain, Snail ATK +30<br>Demon Gods Slain: 8/8
+|ss4=Snail Leadership +7<br>All Minion ATK +1.4%<br>Per Demon God slain, Snail ATK +42<br>Demon Gods Slain: 8/8
+|ss5=Snail Leadership +9<br>All Minion ATK +1.8%<br>Per Demon God slain, Snail ATK +54<br>Demon Gods Slain: 8/8
+|ss6=Snail Leadership +12<br>All Minion ATK +2.4%<br>Per Demon God slain, Snail ATK +72<br>Demon Gods Slain: 8/8
+|ss7=Snail Leadership +12<br>All Minion ATK +2.4%<br>Per Demon God slain, Snail ATK +72<br>Demon Gods Slain: 8/8<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop Fire DMG +30
+|skill2=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Fire DMG +60
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+|mirage={{Mirage|name=Hero's Epic|reward={{RewardIconWithLink|Dragon Orb, +1|orange}}
+|3name=Hrothgar|3rec=11.85M|3atk=89268|3defense=59554|3hp=2334712|3weak=15471
+|4name=Grendel|4rec=17.05M|4atk=108283|4defense=72240|4hp=3373398|4weak=17915
+|5name=Grendel's Mother|5rec=30.28M|5atk=129652|5defense=86496|5hp=4762962|5weak=18970
+|6name=Fire Dragon|6rec=41.44M|6atk=153182|6defense=102193|6hp=6506624|6weak=20210
+|Arec=53.88M|Aatk=179432|Adefense=119706|Ahp=8620347|Aweak=22516
+}}}}

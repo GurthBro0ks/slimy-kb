@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Earthly Delight Garden
+|class_id=22024
+|rank=Blue
+|affct=ART
+|birthday=01-09
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jan 9, 1510 AD, Bosch finished the controversial Earthly Delight Garden.<br>The Earthly Delight Garden is a triptych painting created by Bosch, an early Netherlandish painter. The painting depicts paradise, the human world, and hell from left to right. The earthly garden in the middle is depicted with various magical animals and plants, giving it a mystical and surreal feel. This painting is considered one of Bosch's best works and has complicated and lively connotations that far surpass his other works.
+|fame=22
+|art=44
+|fth=32
+|civ=31
+|tech=25
+|ss1=Angel Minion HP +1%
+|ss2=Angel Minion HP +2%
+|ss3=Angel Minion HP +3%
+|ss4=Angel Minion HP +5%
+|ss7=Angel Minion HP +5%<br>Angel Minion HP +5% (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x Food Drops +1%
+}}

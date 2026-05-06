@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Eunuch Cho
+|rank=blue
+|cabin=2
+|id=34
+|gene1={race} RUSH +20
+|gene2={race} CIV +20
+|gene3=Refine +1 White Gaia Material +1%
+|gene4=Per 10 Angel Minions in battle:
+> Troop RUSH +2
+|gene5=Refine +1 White Gaia Material +2%
+|}}

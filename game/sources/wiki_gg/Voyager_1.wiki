@@ -1,0 +1,53 @@
+{{Missing Info|specifics=Mirage 5s name, 6s name}}
+{{CargoRelic
+|name=Voyager 1
+|rank=SSS
+|affct=TECH
+|birthday=03-16
+|source=Wish Box, Lottery Machine (0.09%), Wishing (0.07%), Murikan Treasure Maps (0.01%), Grandmaster Scrolls (0.81%), Relic Forge (120 Relic RF)
+|description=On Mar 16, 2013 AD, Voyager 1 arrived at the heliopause and was ready to enter space. Forty years ago, Voyager 1 was launced into the universe. Its battery ensures it will continue for a few more years. Once the battery depletes, it will continue towards the centre of the galaxy and never return.
+
+[Basic Info]
+
+Launch location: Cape Canaveral, Floridar launch base
+
+Launch vehicle: Titan III E Centaur rocket
+
+Destination planet: Jupiter, Saturn, outer solar system
+
+Power consumption: 420 watts
+
+Current status: In the outermost boundary of the solar system
+
+Energy: Isotopic thermoelectric generator
+
+Mass: 815kg
+
+|fame=55
+|art=73
+|fth=67
+|civ=58
+|tech=109
+|ss1=Snail RUSH +30<br>Travel SPD +0.6%<br>In explorations, 2x B-tad Drops +0.8%
+|ss2=Snail RUSH +40<br>Travel SPD +0.8%<br>In explorations, 2x B-tad Drops +1.6%
+|ss3=Snail RUSH +50<br>Travel SPD +1%<br>In explorations, 2x B-tad Drops +2%
+|ss4=Snail RUSH +70<br>Travel SPD +1.4%<br>In explorations, 2x B-tad Drops +2.8%
+|ss5=Snail RUSH +90<br>Travel SPD +1.8%<br>In explorations, 2x B-tad Drops +3.6%
+|ss6=Snail RUSH +120<br>Travel SPD +2.4%<br>In explorations, 2x B-tad Drops +4.8%
+|ss7=Snail RUSH +120<br>Travel SPD +2.4%<br>In explorations, 2x B-tad Drops +4.8%<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Compass skill III.png|50x50px]]Place in Exploration Compass: Snail ATK +600
+|skill2=[[File:Compass skill III.png|50x50px]]Place in Exploration Compass: Snail RUSH +600
+|skill3=[[File:Compass skill III.png|50x50px]]Place in Exploration Compass: In explorations, 2x INTEL Drops +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Relics]]
+[[Category:Orange Relics]]
+[[Category:TECH Relics]]
+[[Category:Orange TECH Relics]]
+[[Category:Exploration Compass Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:RUSH Boost]]
+[[Category:Rewards Relic]]
+[[Category:Mechanic Boost]]

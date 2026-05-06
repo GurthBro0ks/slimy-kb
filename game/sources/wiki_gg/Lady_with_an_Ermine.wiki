@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Lady with an Ermine
+|class_id=22138
+|rank=AAA
+|affct=ART
+|birthday=10-04
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Oct 4, 1490 AD, Da Vinci painted Lady with an Ermine in order to repay the kindness of the Duke of Milan.<br>Lady with an Ermine is an oil painting created by Leonardo da Vinci of Cecilia, a mistress of the Duke of Milan. The ermine in her arms represents the Duke's family crest. Cecilia was only sixteen years old when she was painted. The lights and shadows in Da Vinci's painting perfectly highlight her elegant and beautiful face.
+|fame=32
+|art=75
+|fth=49
+|civ=50
+|tech=37
+|ss1=Species War Cabin Output +3%<br>Per 900 Species War Tech Pts, Snail ATK +3<br>Species War Tech Pts: 45000/45000
+|ss2=Species War Cabin Output +4%<br>Per 900 Species War Tech Pts, Snail ATK +4<br>Species War Tech Pts: 45000/45000
+|ss3=Species War Cabin Output +5%<br>Per 900 Species War Tech Pts, Snail ATK +5<br>Species War Tech Pts: 45000/45000
+|ss4=Species War Cabin Output +7%<br>Per 900 Species War Tech Pts, Snail ATK +7<br>Species War Tech Pts: 45000/45000
+|ss5=Species War Cabin Output +9%<br>Per 900 Species War Tech Pts, Snail ATK +9<br>Species War Tech Pts: 45000/45000
+|ss7=Species War Cabin Output +9%<br>Per 900 Species War Tech Pts, Snail ATK +9<br>Species War Tech Pts: 45000/45000<br>Species War Cabin Output +7% (Awakened)
+|skill1=[[File:Tadpolepond skill II.png|50px]]Place in Tadpole Pond: Generate W-tads by +15%
+|skill2=[[File:Tadpolepond skill II.png|50px]]Place in Tadpole Pond: This Relic's ART +10
+}}

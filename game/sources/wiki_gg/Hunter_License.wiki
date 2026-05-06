@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Hunter License
+|class_id=20002
+|rank=Green
+|affct=CIV
+|source=
+|description=There's a group of people called Hunters that persistently pursue precious and rare items. To become a Hunter, one must pass a rigorous examination and obtain a license, which will grant all kinds of privileges.
+|fame=20
+|art=16
+|fth=14
+|civ=30
+|tech=14
+|ss1=Per 1k Power, Snail ATK +3<br>Per 1k Power, Snail DEF +3<br>Power: 40000/40000
+|ss2=Per 1k Power, Snail ATK +3<br>Per 1k Power, Snail DEF +3<br>Power: 40000/40000
+|ss3=Per 1k Power, Snail ATK +3<br>Per 1k Power, Snail DEF +3<br>Power: 40000/40000
+|ss4=Per 1k Power, Snail ATK +3<br>Per 1k Power, Snail DEF +3<br>Power: 40000/40000
+|ss7=Per 1k Power, Snail ATK +3<br>Per 1k Power, Snail DEF +3<br>Power: 40000/40000<br> (Awakened)
+}}

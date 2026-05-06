@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Bamboo Copter
+|class_id=20300
+|rank=Green
+|affct=TECH
+|source=
+|description=This is a headgear enabling the wearer to fly and control the flight mentally. The propeller actually generates an anti-gravity field around the body to lift the user off the ground. Emm, the air is so fresh here!
+|fame=20
+|art=15
+|fth=12
+|civ=16
+|tech=27
+|ss1=Per new Realm entered, Snail RUSH +5<br>Realms Reached: 8/8
+|ss2=Per new Realm entered, Snail RUSH +10<br>Realms Reached: 8/8
+|ss3=Per new Realm entered, Snail RUSH +15<br>Realms Reached: 8/8
+|ss4=Per new Realm entered, Snail RUSH +15<br>Realms Reached: 8/8
+|ss7=Per new Realm entered, Snail RUSH +15<br>Realms Reached: 8/8<br> (Awakened)
+}}

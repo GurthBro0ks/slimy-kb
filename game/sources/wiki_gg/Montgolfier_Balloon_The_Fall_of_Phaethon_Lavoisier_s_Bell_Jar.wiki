@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=356
+|relics=Montgolfier Balloon,The Fall of Phaethon,Lavoisier's Bell Jar
+|rank=blue
+|amount=3
+|category=self
+|description=When converting cards in Species Wars, B-tads gained +6%
+}}

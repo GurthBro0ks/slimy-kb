@@ -1,0 +1,324 @@
+== Chichikaka ♀ ==
+Living at the bottom of a river, she comes ashore when craving human flesh.
+
+=== Begin Friendship ===
+To obtain Chichikaka, complete the [[Koryeo]] Key Clue "Super Bio Weapon"
+
+===☆☆☆ > ★☆☆===
+After 3 letters back and forth, Chichikaka will arrive at Home Base and gift {{RewardIconWithLink|Alien Hookworm|black|Zombie Form}}.
+
+===★☆☆ > ★★☆===
+After 3 letters back and forth, Chichikaka will arrive at Home Base and gift Body in Slime (Soul of Hitman No. 2, [[Gene Simulation|Biochem Men]] Gene Seg. +5).
+
+===★★☆ > ★★★===
+After 3 letters back and forth, Chichikaka will move in permanently with her minion, Chika.
+
+==Rent==
+[[File:Chichikaka rent.png|frameless|left]]
+Chichikaka's rent is collected on '''Tuesday''' and appears as a dinner plate on the floor to the left.
+
+ '''Normal Rent''': {{RewardIconWithText|Green Organ Slime, +10|green}}
+
+ '''Rare Rent''': {{RewardIconWithLink|Salamander's Tail|blue}}
+
+ '''Lv. 10 Rent''': {{RewardIconGeneSegment|Meat Chef, +1}}. Once 5 are obtained, this will no longer show up.
+
+{{Clear}}
+
+== Relics==
+Upgrading these will earn Evolution Chests!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|Evolution Chest +20
+|-
+|★★
+|Evolution Chest +20
+|-
+|★★★
+|Evolution Chest +20
+|-
+|★★★★
+|Evolution Chest +40
+|-
+|★★★★★
+|Evolution Chest +60
+|-
+|★★★★★★
+|Evolution Chest +80
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Big Fish Bone}}{{Relink|Big Fish Bone}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Eye of Medusa}}{{Relink|Eye of Medusa}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Tyr's Arm}}{{Relink|Tyr's Arm}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Lionheart}}{{Relink|Lionheart}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Golden Scarab}}{{Relink|Golden Scarab}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Boltzmann Brain}}{{Relink|Boltzmann Brain}}
+|}
+
+==Chichikaka's Mouth==
+For Chichikaka, to live means to look for food, that giant mouth is the essence of their body!
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||Snail CIV +5||Snail ATK +5
+|-
+|2||180||2k||Snail CIV +10||Snail ATK +10
+|-
+|3||190||4.5k||Snail CIV +15||Snail ATK +15
+|-
+|4||200||8k||Snail CIV +20||Snail ATK +20
+|-
+|5||210||12.5k||Snail CIV +25||Snail ATK +25
+|-
+|6||220||18k||Snail CIV +30||Snail ATK +30
+|-
+|7||230||24.5k||Snail CIV +35||Snail ATK +35
+|-
+|8||240||32k||Snail CIV +40||Snail ATK +40
+|-
+|9||250||40.5k||Snail CIV +45||Snail ATK +45 
+|-
+|10||260||50k||Snail CIV +50||Snail ATK +50 
+|-
+|11||270||60.5k||Snail CIV +55||Snail ATK +55
+|-
+|12||285||72k||Snail CIV +60||Snail ATK +60
+|-
+|13||300||84.5k||Snail CIV +65||Snail ATK +65
+|-
+|14||315||98k||Snail CIV +70||Snail ATK +70
+|-
+|15||330||112k||Snail CIV +75||Snail ATK +75
+|-
+|16||345||123k||Snail CIV +80||Snail ATK +80
+|-
+|17||360||144k||Snail CIV +85||Snail ATK +85
+|-
+|18||375||162k||Snail CIV +90||Snail ATK +90
+|-
+|19||390||180k||Snail CIV +95||Snail ATK +95
+|-
+|20||400||200k||Snail CIV +100||Snail ATK +100
+|-
+|21||420||220k||Snail CIV +105||Snail ATK +105
+|-
+|22||440||242k||Snail CIV +110||Snail ATK +110
+|-
+|23||460||264k||Snail CIV +115||Snail ATK +115
+|-
+|24||480||285k||Snail CIV +120||Snail ATK +120
+|-
+|25||500||309k||Snail CIV +125||Snail ATK +125
+|-
+|26||520||333k||Snail CIV +130||Snail ATK +130
+|-
+|27||540||357k||Snail CIV +135||Snail ATK +135
+|-
+|28||560||381k||Snail CIV +140||Snail ATK +140
+|-
+|29||580||405k||Snail CIV +145||Snail ATK +145
+|-
+|30||600||429k||Snail CIV +150||Snail ATK +150
+|}
+
+==Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Chichikaka's Mouth is.
+ 
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +10
+|-
+|2||4k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +20
+|-
+|3||6k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +30
+|-
+|4||8k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +40
+|-
+|5||10k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +50
+|-
+|6||12k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +60
+|-
+|7||14k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +70
+|-
+|8||16k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +80 
+|-
+|9||18k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +90
+|-
+|10||20k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +100
+|-
+|11||22k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +110
+|-
+|12||24k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +120
+|-
+|13||26k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +130
+|-
+|14||28k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +140
+|-
+|15||30k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +150
+|-
+|16||32k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +160
+|-
+|17||34k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +170
+|-
+|18||36k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +180
+|-
+|19||38k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +190
+|-
+|20||40k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +200
+|-
+|21||42k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +210
+|-
+|22||44k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +220
+|-
+|23||46k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +230
+|-
+|24||48k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +240
+|-
+|25||50k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +250
+|-
+|26||55k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +260
+|-
+|27||60k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +270
+|-
+|28||65k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +280
+|-
+|29||70k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +290
+|-
+|30||75k||Mutant Minion MAX +1||Per 10 Chikas in battle, Troop ATK +300
+|}
+
+==Research Ability==
+Below is a table of the research manual cost to upgrade each research gene. Chichikaka specializes in '''Mutant Genes''' and therefore the research manual cost for the Mutant Gene is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+==Minion - Chika==
+Originating from the larvae of Chichikaka, they have nearly identical genetic sequences with Chichikaka. So it can be inferred that they are reproduced by self-replication...
+
+===Special Ability - Radiation===
+Per 10 Chikas in battle, Troop Earth DMG +1 (multiplied by minion level)
+
+===Minion Relics ===
+Upgrading these relics will buff your Chikas!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Big Fish Bone}}<br>{{relink|Big Fish Bone}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1% 
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Eye of Medusa}}<br>{{relink|Eye of Medusa}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Tyr's Arm}}<br>{{relink|Tyr's Arm}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Lionheart}}<br>{{relink|Lionheart}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Golden Scarab}}<br>{{relink|Golden Scarab}}
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Golden Finger}}<br>{{relink|Golden Finger}}
+|ATK +4% 
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Boltzmann Brain}}<br>{{relink|Boltzmann Brain}}
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Einstein's Brain}}<br>{{relink|Einstein's Brain}}
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|}
+
+[[Category:Partners]]
+[[Category:ATK Boost]]
+[[Category:Minion ATK Boost]]

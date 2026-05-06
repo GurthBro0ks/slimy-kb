@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Tyr's Arm
+|rank=AA
+|affct=FTH
+|birthday=12-26
+|source=Expert Scrolls (0.95%), Fragment Crafting (3.8%), Lottery Machine (0.08%), Wishing (0.35%)
+|description=On Dec 26, 50,000 BC, one of Tyr's arm was bitten off by a wolf.
+
+On this day, Hymir's son, Tyr, pulled a prank on Fenrir the Wolf and tied it up. To gain everyone's trust, Tyr reached his arm into the wolf's mouth. Fenrir realized that it was a trap by the gods and then bit off Tyr's arm, turning him into a one-armed god. Therefore, Tyr made a silver arm for himself.
+|fame=46
+|art=44
+|fth=66
+|civ=40
+|tech=32
+|ss1=Per Organ Transplanted, Snail HP +40<br>Per Organ Transplanted, Snail ATK +4<br>Organs Transplanted: 40/40
+|ss2=Per Organ Transplanted, Snail HP +60<br>Per Organ Transplanted, Snail ATK +6<br>Organs Transplanted: 40/40
+|ss3=Per Organ Transplanted, Snail HP +80<br>Per Organ Transplanted, Snail ATK +8<br>Organs Transplanted: 40/40
+|ss4=Per Organ Transplanted, Snail HP +120<br>Per Organ Transplanted, Snail ATK +12<br>Organs Transplanted: 40/40
+|ss5=Per Organ Transplanted, Snail HP +160<br>Per Organ Transplanted, Snail ATK +16<br>Organs Transplanted: 40/40
+|ss7=Per Organ Transplanted, Snail HP +160<br>Per Organ Transplanted, Snail ATK +16<br>Organs Transplanted: 40/40<br>Snail HP + 700 (Awakened)
+|skill1=[[File:Koryeo skill II.png|50px]] Place in Koryeon Museum: In Koryeo, FTH Checks -10
+|skill2=[[File:Koryeo skill II.png|50px]] Place in Koryeon Museum: In Koryeo, Snail HP +300
+}}
+
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Organ Boost]]
+[[Category:Koryeo Museum Boost]]
+[[Category:Koryeo Exploration Boost]]
+[[Category:FTH Boost]]
+[[Category:Relic Boost]]
+[[Category:DEF Boost]]
+[[Category:Gene Research Speedup Boost]]
+[[Category:Enhanced by Relic Points]]
+[[Category:Enhanced by Organs]]
+[[Category:Chika Boost]]

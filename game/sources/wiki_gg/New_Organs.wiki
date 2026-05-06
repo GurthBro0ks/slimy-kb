@@ -1,0 +1,21 @@
+
+{| class="wikitable sortable"
+!Image
+!Rank
+!type
+!idx
+!skill
+!gene1
+!gene2
+!gene3
+!gene4
+!gene5
+!gene6
+!Awaken Effect
+{{#cargo_query:table=Organs
+|fields=name,rank,type,idx, skill,hp,atk,def,rush,gene1,gene2,gene3,gene4,gene5,gene6,gene7
+|order by= type, idx
+|format=template
+|template=OrganTableRow
+|named args=yes}}
+|}

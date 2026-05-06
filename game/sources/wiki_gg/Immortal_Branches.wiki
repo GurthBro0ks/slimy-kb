@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Immortal Branches
+|type=Bionic
+|rank=blue
+|id=10652
+|idx=9
+|description=Rooted in eternal wisdom, these gnarled twigs whisper secrets of millennia. Nature's stubborn middle finger to death.
+|skill=Summon Tree Branches, dealing DMG equal
+to 154% of ATK!
+|hp=1558
+|def=114
+|atk=77
+|rush=71
+|gene1=During exploration, Water DMG +60
+|gene2=In explorations, 2x Food Drops +2%
+|gene3=In explorations, food consumed -2%
+|gene7=In explorations, 2x Food Drops +2% (Awakened)
+|}}

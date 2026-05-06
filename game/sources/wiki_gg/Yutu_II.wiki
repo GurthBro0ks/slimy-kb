@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Yutu II
+|class_id=20345
+|rank=Green
+|affct=TECH
+|source=
+|description=Yutu II, a lunar rover on Chang'e 4 named by an online poll, has the longest tenure on the lunar surface for a man-made rover. Yutu 2 is equipped with a panoramic camera, lunar radar, infrared imaging spectrometer, and other detection instruments for tasks such as celestial observation, lunar survey, lunar composition, and environmental research. The rover uses solar panels for power sources. It relies on isotope thermoelectric generators for auxiliary supply, thus it works under daylight and shuts down at night in a 15-day work cycle.
+|fame=17
+|art=16
+|fth=13
+|civ=13
+|tech=31
+|ss1=Per 5 Rocket Tech LVLs, Snail HP +40<br>Rocket Tech Upgraded: 50/50
+|ss2=Per 5 Rocket Tech LVLs, Snail HP +80<br>Rocket Tech Upgraded: 50/50
+|ss3=Per 5 Rocket Tech LVLs, Snail HP +120<br>Rocket Tech Upgraded: 50/50
+|ss4=Per 5 Rocket Tech LVLs, Snail HP +120<br>Rocket Tech Upgraded: 50/50
+|ss7=Per 5 Rocket Tech LVLs, Snail HP +120<br>Rocket Tech Upgraded: 50/50<br> (Awakened)
+}}

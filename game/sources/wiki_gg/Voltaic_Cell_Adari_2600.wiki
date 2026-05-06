@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=380
+|relics=Voltaic Cell,Adari 2600
+|rank=purple
+|amount=2
+|category=self
+|description=Mecha Minion ATK +6%
+}}

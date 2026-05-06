@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Agent Permit S-I
+|class_id=20332
+|rank=Green
+|affct=TECH
+|source=
+|description=The holder of the card is a super agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)
+|fame=18
+|art=13
+|fth=15
+|civ=13
+|tech=31
+|ss1=When you defeat Super Agents, gain +10 W-tads
+|ss2=When you defeat Super Agents, gain +20 W-tads
+|ss3=When you defeat Super Agents, gain +30 W-tads
+|ss4=When you defeat Super Agents, gain +30 W-tads
+|ss7=When you defeat Super Agents, gain +30 W-tads<br> (Awakened)
+}}

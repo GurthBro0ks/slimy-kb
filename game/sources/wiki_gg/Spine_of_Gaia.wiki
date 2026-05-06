@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Spine of Gaia
+|type=Common
+|rank=red
+|id=10883
+|idx=94
+|description=Earth's Will was dismembered by Demon Gods. Some organs were retrieved and given as Reconstruction Feast rewards.
+|skill=
+|hp=3440
+|def=239
+|atk=260
+|rush=227
+|gene1=Earth DMG +120
+|gene2=DMG REDUC +4%
+|gene3=CRIT DMG REDUC +10%
+|gene4=Earth RES +120
+|gene5=DMG REDUC +4%
+|gene6=CRIT DMG REDUC +10%
+|gene7=Earth DMG +6% (Awakened)
+|}}

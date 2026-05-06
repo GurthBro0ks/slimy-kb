@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=644
+|relics=The Blood of Nessus,Underworld Pomegranate,Dictionnaire Infernal,Stone of Destiny
+|rank=blue
+|amount=4
+|category=self
+|description=Mutant Minion HARD Stats +2.1%
+}}

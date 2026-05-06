@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Phoenician Tablet
+|rank=AA
+|affct=CIV
+|birthday=09-05
+|source=Fragment Crafting (3.7%), Lottery Machine (0.8%), Wishing (0.34%), Kemetic Treasure Maps (10%), Expert Scrolls (0.95%)
+|description=On Sep 5, 1400 BC, Ugarit, the city that first used the Phoenician alphabet, was destroyed by an earthquake.
+
+There was a total of 22 letters in the script used by the Phoenicians, which were carved on seals. It was enough to write an entire paragraph, which surprised foreign businessman. As the popular Cuneiform script was too complicated, there was a need to create a simple script for documentation and communication. This was why the letters were created based on Egyptian alphabets and phonetic system. They were carved on stone or clay seals as tokens.
+
+[Existing Artifacts]
+
+Mesha Stele<br>Samaritan script fragments<br>Fragments of Isaiah and Leviticus<br>Stele of Aramaic script
+|fame=42
+|art=40
+|fth=35
+|civ=69
+|tech=42
+|ss1=Quarry Output +4%<br>Quarry Max Cap +4%
+|ss2=Quarry Output +6%<br>Quarry Max Cap +6%
+|ss3=Quarry Output +8%<br>Quarry Max Cap +8%
+|ss4=Quarry Output +12%<br>Quarry Max Cap +12%
+|ss5=Quarry Output +16%<br>Quarry Max Cap +16%
+|ss7=Quarry Output +16%<br>Quarry Max Cap +16%<br>Quarry Output +14% (Awakened)
+|skill1=[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: In Kemet, 2x B-tad Drops +7.5%
+|skill2=[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: In Kemet, 2x Purple Card Drops +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:CIV Relics]]
+[[Category:Purple CIV Relics]]
+[[Category:Quarry Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:HP Boost]]
+[[Category:Angel Cell Drop Boost]]
+[[Category:Enhanced by Purple Relics]]

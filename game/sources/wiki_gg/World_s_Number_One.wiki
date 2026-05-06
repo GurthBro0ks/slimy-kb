@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=World's Number One
+|class_id=20259
+|rank=Green
+|affct=FAITH
+|source=
+|description=In every autumn, the Mantises hold a martial arts competition to see who's the best fighter of the year. The last Mantis standing in the arena will be awarded with this plaque as a recognition of their extraordinary strength.
+|fame=14
+|art=15
+|fth=31
+|civ=13
+|tech=17
+|ss1=Against Mantises, Troop Casualty -1%
+|ss2=Against Mantises, Troop Casualty -2%
+|ss3=Against Mantises, Troop Casualty -3%
+|ss4=Against Mantises, Troop Casualty -3%
+|ss7=Against Mantises, Troop Casualty -3%<br> (Awakened)
+}}

@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Seven Hammers Amulet
+|class_id=22843
+|rank=SSS
+|affct=FAITH
+|source=
+|description=This amulet, crafted by Vulkan, possesses extremely powerful strength, believed to be capable of causing significant harm to the four Chaos Gods, potentially even severely injuring their true forms. The Emperor foresaw possible disasters and usedThis amulet as an important switch. If Terra falls, usingThis amulet will instantly trigger total destruction, not only destroying Terra but also eliminating the Chaos forces invadingThis world. Vulkan ultimately installed the Seven Hammers Amulet into the Golden Throne, becoming a key element in the Emperor's fight against Chaos.
+|fame=56
+|art=74
+|fth=108
+|civ=55
+|tech=69
+|ss1=Per 60 Angel Minions in battle:<br>> Troop HP +90<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +9<br>All Angel Minion Skins, HARD Stats +30%
+|ss2=Per 60 Angel Minions in battle:<br>> Troop HP +180<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +18<br>All Angel Minion Skins, HARD Stats +40%
+|ss3=Per 60 Angel Minions in battle:<br>> Troop HP +270<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +27<br>All Angel Minion Skins, HARD Stats +50%
+|ss4=Per 60 Angel Minions in battle:<br>> Troop HP +450<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +45<br>All Angel Minion Skins, HARD Stats +70%
+|ss5=Per 60 Angel Minions in battle:<br>> Troop HP +630<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +63<br>All Angel Minion Skins, HARD Stats +90%
+|ss6=Per 60 Angel Minions in battle:<br>> Troop HP +900<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +90<br>All Angel Minion Skins, HARD Stats +120%
+|ss7=Per 60 Angel Minions in battle:<br>> Troop HP +900<br>Per 60 Angel Minions in battle:<br>> Troop RUSH +90<br>All Angel Minion Skins, HARD Stats +120%<br>Per 60 Angel Minions in battle:<br>> Troop HP +900 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's FTH +15
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: B-tads gained +3000
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail ATK +600
+}}

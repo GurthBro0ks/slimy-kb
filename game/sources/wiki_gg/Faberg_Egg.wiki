@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Fabergé Egg
+|class_id=22619
+|rank=SSS
+|affct=FAME
+|birthday=03-24
+|source=Lottery Machine No.3 (0.12%)
+|description=On Mar 24, 1885 AD, Fabergé delivered an egg-shaped jewel to the Tsar.<br>To console the Empress who had come from afar to marry him, Alexander III ordered Fabergé the jeweler to make an egg. This seemingly ordinary egg contained a golden chicken egg, which in turn held a miniature golden hen. Inside the hen's belly were a diamond crown and a mini ruby egg. This masterful design impressed the Empress and made Fabergé a legend in the jewelry industry. From then on, he provided a new egg for the Russian royal family every year until the October Revolution toppled the Romanov dynasty. The dozens of eggs he made for the Russian tsars during this period became immortal works of art.
+|fame=109
+|art=63
+|fth=53
+|civ=62
+|tech=75
+|ss1=Snail ATK +30<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +72<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +72<br>Mythic Protodex Stars: 100/100
+|ss2=Snail ATK +40<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +96<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +96<br>Mythic Protodex Stars: 100/100
+|ss3=Snail ATK +50<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +120<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +120<br>Mythic Protodex Stars: 100/100
+|ss4=Snail ATK +70<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +168<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +168<br>Mythic Protodex Stars: 100/100
+|ss5=Snail ATK +90<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +216<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +216<br>Mythic Protodex Stars: 100/100
+|ss6=Snail ATK +120<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +288<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +288<br>Mythic Protodex Stars: 100/100
+|ss7=Snail ATK +120<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +288<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +288<br>Mythic Protodex Stars: 100/100<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Output +30%
+|skill2=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: This Relic's FAME +15
+|skill3=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Cap +30%
+|mirage={{Mirage|name=Fabergé's Masterpiece|reward={{RewardIconWithLink|Mythic Protomon Egg, +1|orange}}
+|3name=Imperial Danish Palaces Egg|3rec=116.74M|3atk=330553|3defense=208137|3hp=17670077|3weak=36094
+|4name=Czar Rosebud Egg|4rec=163.53M|4atk=441672|4defense=273967|4hp=28765371|4weak=40015
+|5name=Blue Serpent Clock Egg|5rec=244.15M|5atk=632372|5defense=382217|5hp=61091116|5weak=49435
+|6name=Order of St George Egg|6rec=350.38M|6atk=805690|6defense=477788|6hp=91369390|6weak=53373
+|Arec=482.49M|Aatk=1029957|Adefense=596638|Ahp=161657759|Aweak=59296
+}}}}

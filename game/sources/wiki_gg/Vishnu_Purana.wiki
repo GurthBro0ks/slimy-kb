@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Vishnu Purana
+|class_id=22674
+|rank=SS
+|affct=FAITH
+|birthday=07-15
+|source=Lottery Machine No.3 (0.47%)
+|description=On Jul 15, 3126 BC, Vishnu recorded the magic he created in ancient Babylon.<br>Vishnu was one of the earliest humans to gain magical abilities, but he hated having this power. He gradually accepted the fact that he was born to use magic and devoted all his talent to developing defensive magic. The Vishnu Purana records all his efforts. If someone uses the magic learned from the book to attack others, he will instead be put in an extremely dangerous situation...
+|fame=57
+|art=71
+|fth=103
+|civ=53
+|tech=63
+|ss1=Angel Minion HP +2%<br>Per 5 Mythic Protodex Stars, Snail HP +60<br>Per 5 Mythic Protodex Stars, Snail RUSH +6<br>Mythic Protodex Stars: 100/100
+|ss2=Angel Minion HP +3%<br>Per 5 Mythic Protodex Stars, Snail HP +90<br>Per 5 Mythic Protodex Stars, Snail RUSH +9<br>Mythic Protodex Stars: 100/100
+|ss3=Angel Minion HP +4%<br>Per 5 Mythic Protodex Stars, Snail HP +120<br>Per 5 Mythic Protodex Stars, Snail RUSH +12<br>Mythic Protodex Stars: 100/100
+|ss4=Angel Minion HP +6%<br>Per 5 Mythic Protodex Stars, Snail HP +180<br>Per 5 Mythic Protodex Stars, Snail RUSH +18<br>Mythic Protodex Stars: 100/100
+|ss5=Angel Minion HP +8%<br>Per 5 Mythic Protodex Stars, Snail HP +240<br>Per 5 Mythic Protodex Stars, Snail RUSH +24<br>Mythic Protodex Stars: 100/100
+|ss6=Angel Minion HP +11%<br>Per 5 Mythic Protodex Stars, Snail HP +330<br>Per 5 Mythic Protodex Stars, Snail RUSH +33<br>Mythic Protodex Stars: 100/100
+|ss7=Angel Minion HP +11%<br>Per 5 Mythic Protodex Stars, Snail HP +330<br>Per 5 Mythic Protodex Stars, Snail RUSH +33<br>Mythic Protodex Stars: 100/100<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: This Relic's FTH +15
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +15%
+|skill3=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +30%
+|mirage={{Mirage|name=Legacy of Esoteric Techniques|reward={{RewardIconWithLink|Master Scroll, +40|orange}}
+|3name=Marduk|3rec=92.32M|3atk=274427|3defense=173778|3hp=13621650|3weak=33955
+|4name=Old One|4rec=114.04M|4atk=324689|4defense=204349|4hp=17637527|4weak=35791
+|5name=Vishandy|5rec=136.64M|5atk=377173|5defense=236135|5hp=22122663|5weak=38030
+|Arec=174.23M|Aatk=467073|Adefense=289025|Ahp=31509139|Aweak=40955
+}}}}

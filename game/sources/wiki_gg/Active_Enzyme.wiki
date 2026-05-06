@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Active Enzyme
+|type=Common
+|rank=blue
+|id=10931
+|idx=31
+|description="We discovered an active enzyme that significantly increases cellular activity and accelerates cell regeneration when the tissues are damaged."
+—Parasol Research Log
+|skill=
+|hp=1200
+|def=95
+|atk=97
+|rush=84
+|gene1=In explorations, 2x Food Drops +2%
+|gene2=In Zombie Form, HP Regen +400 per round
+|gene3=In Snail Arena, CRIT DMG REDUC +5%
+|gene7=In Snail Arena, CRIT DMG REDUC +5% (Awakened)
+|}}

@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Bain Fax Machine
+|class_id=21949
+|rank=AAA
+|affct=TECH
+|source=
+|description=The Bain Fax Machine was the earliest device to achieve long-distance image transmission. The working principle of Bain's fax machine was based on changes in current intensity, scanning the image to be sent and converting it into electrical signals for transmission via telegraph lines. The receiving machine would produce corresponding light and dark lines on paper based on the received signal intensity changes, replicating the original image. Bain's invention marked the beginning of remote image transmission technology, laying the foundation for later fax machines and more advanced image communication technologies.
+|fame=48
+|art=32
+|fth=51
+|civ=39
+|tech=73
+|ss1=Minion Recovery SPD +1.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +12
+|ss2=Minion Recovery SPD +2%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +16
+|ss3=Minion Recovery SPD +2.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +20
+|ss4=Minion Recovery SPD +3.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28
+|ss5=Minion Recovery SPD +4.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +36
+|ss7=Minion Recovery SPD +4.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, 2x Purple Reagent Drops +7.5%
+|skill2=[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, 2x Orange Reagent Drops +7.5%
+}}

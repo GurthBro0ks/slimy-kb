@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Woman with a Veil,Primavera,King Menkaure & Queen,Sorrows of Werther
+|rank=orange
+|amount=4
+|category=minion
+|description=Per 60 T7+ Dragon Minions in battle: Troop HARD Stats +90
+}}
+[[Category:Minion]]
+[[Category:Dragon Minion HARD Boost]]

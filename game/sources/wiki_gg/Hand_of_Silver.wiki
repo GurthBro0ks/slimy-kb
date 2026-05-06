@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Hand of Silver
+|type=Common
+|rank=blue
+|id=10825
+|idx=26
+|description=A prosthetic forged from sacred silver, engraved with verses of holy scripture. Its original owner, a Seventh-Rank Angel, fought the Sword God for three days and nights before losing an arm—and forged this divine replacement.
+|skill=
+|hp=904
+|def=85
+|atk=156
+|rush=86
+|gene1=In explorations, {race} HP +200
+|gene2=During exploration, CRIT DMG +5%
+|gene3=The Time Machine: +3% chance to drop
+Time Chests
+|gene7=During exploration, CRIT DMG +5% (Awakened)
+|}}

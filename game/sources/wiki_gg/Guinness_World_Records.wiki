@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Guinness World Records
+|class_id=22620
+|rank=SSS
+|affct=FAME
+|birthday=03-02
+|source=Lottery Machine No.3 (0.12%)
+|description=On Mar 2, 1955 AD, the first edition of the Guinness World Records was a hit, reaching the top of the weekly sales chart.<br>The Guinness World Records is a book that records various world records, covering multiple fields such as astronomy, geography, history, chemistry, and more. The birth of this book originated from an argument. Sir Hugh Beaver of the Guinness beer company argued with colleagues about which bird flew the fastest after failing to shoot a golden plover during a hunt. Because there was no reference book to confirm, Beaver came up with the idea of publishing a book that would record the world's most extreme facts. After being introduced by others, Beaver found the McWhirter brothers to be editors. In 1955, the first edition of the Guinness World Records was released and immediately became a Christmas bestseller.
+|fame=107
+|art=59
+|fth=52
+|civ=77
+|tech=67
+|ss1=Snail Leadership +3<br>All minion skins DEF +10%<br>Per 10 advanced fusions, Snail HP +30<br>Advanced Fusions: 500/500
+|ss2=Snail Leadership +4<br>All minion skins DEF +20%<br>Per 10 advanced fusions, Snail HP +40<br>Advanced Fusions: 500/500
+|ss3=Snail Leadership +5<br>All minion skins DEF +30%<br>Per 10 advanced fusions, Snail HP +50<br>Advanced Fusions: 500/500
+|ss4=Snail Leadership +7<br>All minion skins DEF +50%<br>Per 10 advanced fusions, Snail HP +70<br>Advanced Fusions: 500/500
+|ss5=Snail Leadership +9<br>All minion skins DEF +70%<br>Per 10 advanced fusions, Snail HP +90<br>Advanced Fusions: 500/500
+|ss6=Snail Leadership +12<br>All minion skins DEF +100%<br>Per 10 advanced fusions, Snail HP +120<br>Advanced Fusions: 500/500
+|ss7=Snail Leadership +12<br>All minion skins DEF +100%<br>Per 10 advanced fusions, Snail HP +120<br>Advanced Fusions: 500/500<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +30%
+|skill2=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Cap +30%
+|skill3=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: This Relic's FAME +15
+|mirage={{Mirage|name=World Record|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Issue 1 Log|3rec=98.58M|3atk=288468|3defense=182594|3hp=14704635|3weak=34476
+|4name=Issue 2 Log|4rec=114.72M|4atk=326173|4defense=205295|4hp=17762883|4weak=35847
+|5name=Issue 3 Log|5rec=131.29M|5atk=365054|5defense=228609|5hp=20692389|5weak=37628
+|6name=Issue 4 Log|6rec=156.12M|6atk=424368|6defense=263549|6hp=26838434|6weak=39453
+|Arec=186.79M|Aatk=497646|Adefense=306697|Ahp=35290860|Aweak=42021
+}}}}

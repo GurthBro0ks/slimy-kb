@@ -1,0 +1,74 @@
+{{Location|title=Parsia|imagecaption=Map of Parsia|type=|image=File:ParsiaFullMap.png}}
+{{Location|title=Sky City|imagecaption=Map of Sky City|type=|image=File:SkyCityFullMap.jpg}}
+
+==Parsia==
+Camel bells echo on the Silk Road, blades flash by night, and sacred fire ends a thousand tales.
+
+Parsia is the 10th exploration zone, accessible after breaking all three seals on "The Romances of Lord Cao".
+
+==How To Unlock==
+
+# Dominate [[Minister Cao Cao]] in [[Cathay]] to get the item "The Romances of Lord Cao".
+# Go to "Choose a Destination" and open the book from there.
+# Go to the [[Fissure]] and talk to Miss Crawfer. Pass her tests:
+## Relic Points must be at least 300,000.
+## Display 3-star Relic [[Soul Stone]].
+## Defeat Miss Crawfer in a fight and acquire Talismanic Hoof.
+{| class="wikitable" style="margin-left:3.2em;"
+|-
+! Enemy !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+| Miss Crawfer || 26,438 || 20,149 || 287,460 || AFFCT 38,330 || {{RewardIconWithText|Golden Pickaxe, x3}} <hr> Talismanic Hoof
+|}
+
+# Go to Fissure Digging Log: 392F, Cursed Pyramid.
+# Submit Talismanic Hoof to dispel the curse.
+# Defeat the Mummy's Heir in a fight and acquire Undying Blood.
+{| class="wikitable" style="margin-left:1.6em;"
+|-
+! Enemy !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+| Tutankhamen Cao || 55,577 || 26,827 || 391,537 || AFFCT 37,730 || {{RewardIconWithText|Organ Slime, x300|green}} <hr> Mutantigen x5 <hr> Undying Blood
+|}
+
+# Offer a [[Dragon Orb]] at the [[Altar]] and wish for "Break Dragon's Seal"!
+# Use the Dragoness Perfume.
+# Defeat the Dragonkin special visitor from the mailbox and acquire Dragon Blood.
+{| class="wikitable" style="margin-left:1.6em;"
+|-
+! Enemy !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+| Dragonkin || 65,599 || 37,211 || 592,741 || AFFCT 11,866 || {{RewardIconWithText|Dragon Orb|orange}} <hr> Dragon Blood
+|}
+
+# Use the Shrine to shoot down the Lightborn.
+# Defeat the Lightborn in a fight.
+{| class="wikitable" style="margin-left:1.6em;"
+|-
+! Enemy !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+| Lightborn || 93,018 || 52,024 || 850,853 || FTH 14,466 || {{RewardIconWithText|Organ Slime, x300|blue}} <hr> Humanform Signal
+|}
+
+# Equip the Humanform Signal [[Organs|organ]].
+# Explore [[Yamato]] and complete the "Tomb of Light" event in the Canto region.
+
+{{realm table}}
+
+==INTEL==
+See [[Parsia INTEL]] for INTEL tables.
+
+==Apostles ==
+See [[Parsia Apostles]] and [[Sky City Apostles]] for each Apostles' stats.
+
+==Card Conversions==
+See [[Parsia Cards]] for a list of all limited cards in the Parsia and what they can be redeemed for.
+
+==Key Clue Records==
+See [[Parsia Key Clues]] for a list of all Key Clues in Parsia, how to complete them, and what they reward.
+
+==Endless Dream==
+For Dream mechanics, see [[Endless Dream]]. For Dream levels and how to clear them, see [[Endless Dream Levels]].
+
+[[Category:Parsia]]
+[[Category:Realm]]

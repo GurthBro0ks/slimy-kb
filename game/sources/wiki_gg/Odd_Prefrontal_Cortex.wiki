@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Odd Prefrontal Cortex
+|type=Common
+|rank=blue
+|id=10827
+|idx=28
+|description="…By week three of the injections, the apes began wielding firearms, organizing units, and launching assaults on staff. Upon dissecting the leader, we found its prefrontal cortex grotesquely enlarged…" 
+—Superbrain Files
+|skill=
+|hp=1386
+|def=83
+|atk=98
+|rush=98
+|gene1=During exploration, Earth DMG +60
+|gene2=In explorations, INTEL gained +2.5%
+|gene3=In exploration, 2% chance to gain 2x Treasure Maps
+|gene7=In explorations, INTEL gained +2.5% (Awakened)
+|}}

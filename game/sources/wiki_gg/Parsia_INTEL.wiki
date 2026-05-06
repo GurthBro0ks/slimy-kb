@@ -1,0 +1,340 @@
+==Parsia INTEL==
+[[File:Parsia INTEL Tab 1 Numbered.png|300px|left]]
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|rowspan="3"|1||rowspan="3"|The King's Expedition||400||||Parsian Exploration, Food Consumption -20%
+|-
+|800||||Parsian Exploration, Food Consumption -50%
+|-
+|1200||||Parsian Exploration, Food Consumption -80%
+|-
+|rowspan="3"|2||rowspan="3"|The Devil's Oath||1.6k||||After each battle victory, Solomon's Sealed Vessel +1<br>Skill active only in Parsian expeditions.
+|-
+|3.2k||||After each battle victory: Solomon's Sealed Vessel +2<br>Skill active only in Parsian expeditions.
+|-
+|4.8k||||After each battle victory: Solomon's Sealed Vessel +3<br>Skill active only in Parsian expeditions.
+|-
+|3||Pasargadae Apostle Clue||3.2k||Defeat [[Parsia Apostles#Djinn King|Djinn King]]||Unlock area (Pasargadae)<br>Pasargadae Exploration, INTEL +20%
+|-
+|rowspan="3"|4||rowspan="3"|The Royal Road||1.6k||||Parsia Exploration, Movement Speed +5%
+|-
+|3.2k||||Parsia Exploration, Movement Speed +10%
+|-
+|4.8k||||Parsia Exploration, Movement Speed +15%
+|-
+|rowspan="3"|5||rowspan="3"|Priest's Holy Scripture||6.4k||||Upgrade 1 Zoroastrian Temple to Green
+|-
+|12.8k||||Upgrade 1 Zoroastrian Temple to Blue
+|-
+|19.2k||||Upgrade 1 Zoroastrian Temple to Purple
+|-
+|rowspan="3"|6||rowspan="3"|The Warrior's Glory||6.4k||||Upgrade 1 Zoroastrian Temple to Green
+|-
+|12.8k||||Upgrade 1 Immortal Army Barracks to Blue
+|-
+|19.2k||||Upgrade 1 Immortal Army Barracks to Purple
+|-
+|7||Ecbatana Apostle Clue||14.4k||Defeat [[Parsia Apostles#Dance King Alibaba|Dance King Alibaba]]||Unlock area (Ecbatana)<br>Ecbatana Exploration, INTEL +20%
+|-
+|rowspan="3"|8||rowspan="3"|Legend of the Divine Archer||6.4k||||Upgrade 1 Demavend Peak to Green
+|-
+|12.8k||||Upgrade 1 Demavend Peak to Green
+|-
+|19.2k||||Upgrade 1 Demavend Peak to Green
+|-
+|rowspan="3"|9||rowspan="3"|The King's Vault||6.4k||||Upgrade 1 Gold-Silver Castle to Green
+|-
+|12.8k||||Upgrade 1 Gold-Silver Castle to Blue
+|-
+|19.2k||||Upgrade 1 Gold-Silver Castle to Purple
+|-
+|rowspan="3"|10||rowspan="3"|The Crescent and the Rose||16k||||Each Parsia Exploration, per 100 visits to Gold-Silver Castle, gain 1 Bam Castle<br>Use in Card Redemption for rare resources
+|-
+|32k||||Each Parsia Exploration, per 75 visits to Gold-Silver Castle, gain 1 Bam Castle<br>Use in Card Redemption for rare resources
+|-
+|48k||||Each Parsia Exploration, per 50 visits to Gold-Silver Castle, gain 1 Bam Castle<br>Use in Card Redemption for rare resources
+|-
+|rowspan="3"|11||rowspan="3"|Emblem of the Divine Bird||16k||||For each Parsian Apostle perfectly defeated: Snail ATK +6<br>Current Parsian Apostles dominated:10/10
+|-
+|32k||||For each Parsian Apostle perfectly defeated: Snail ATK +12<br>Current Parsian Apostles dominated:10/10
+|-
+|48k||||For each Parsian Apostle perfectly defeated: Snail ATK +18<br>Current Parsian Apostles dominated:10/10
+|-
+|12||Babylon Apostle Clue||32k||Defeat [[Parsia Apostles#Voyager Sinbad|Parsia Apostle Voyager Sinbad]]||Unlock Area (Babylon)<br>Babylon Exploration, INTEL +20%
+|-
+|rowspan="3"|13||rowspan="3"|The Behistun Inscription||16k||||For each Parsian Apostle perfectly defeated: Snail AFFCT +5<br>Current Parsian Apostles dominated:10/10
+|-
+|32k||||For each Parsian Apostle perfectly defeated: Snail AFFCT +10<br>Current Parsian Apostles dominated:10/10
+|-
+|48k||||For each Parsian Apostle perfectly defeated: Snail AFFCT +15<br>Current Parsian Apostles dominated:10/10
+|-
+|rowspan="3"|14||rowspan="3"|Parsian Love Story||16k||||Learn to get 20 [[Khosrow Meets Shirin]] Frag
+|-
+|32k||||Learn to get 20 Khosrow Meets Shirin Frag
+|-
+|48k||||Learn to get 20 Khosrow Meets Shirin Frag
+|-
+|rowspan="3"|15||rowspan="3"|Avesta||40k||||Parsian Exploration: -500 to AFFCT Check
+|-
+|80k||||Parsian Exploration: -1000 to AFFCT Check
+|-
+|120k||||Parsian Exploration: -1500 to AFFCT Check
+|-
+|rowspan="3"|16||rowspan="3"|The Fire of Truth||40k||||Persian Card Settlement: Rewards +5%<br>Unlock Special Card: Parsian
+|-
+|80k||||Persian Card Settlement: Rewards +10%<br>Unlock Special Card: Parsian
+|-
+|120k||||Persian Card Settlement: Rewards +15%<br>Unlock Special Card: Parsian
+|-
+|17||Persepolis Apostle Clue||80k||Defeat [[Parsia Apostles#Hunchback Pro|Parsia Apostle Hunchback Pro]]||Unlock Area (Persepolis)<br>Persepolis Exploration, INTEL +20%
+|-
+|rowspan="3"|18||rowspan="3"|The Mule's Prophecy||40k||||Learn to get Parsian Composite Bow
+|-
+|80k||||Learn to get Sun Mirror Armor
+|-
+|120k||||Learn to get Feline Shield
+|-
+|rowspan="2"|19||rowspan="2"|Transport Pipe||40k||||Unlock Sky City.
+|-
+|80k||||Unlock INTEL (Sky City)
+|}
+
+==1001 Nights==
+[[File:Parsia INTEL Tab 2 Numbered.png|300px|left]]
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|rowspan="3"|1||rowspan="3"|Open Sesame||400||||Per 6 dream stages cleared, Snail HP +50<br>Dream Stages passed: 66/66
+|-
+|800||||Per 6 dream stages cleared, Snail HP +100<br>Dream Stages passed: 66/66
+|-
+|1200||||Per 6 dream stages cleared, Snail HP +200<br>Dream Stages passed: 66/66
+|-
+|rowspan="3"|2||rowspan="3"|The Three Apples||1.6k||||Per 6 dream stages cleared: Snail DEF +5<br>Dream Stages passed: 66/66
+|-
+|3.6k||||Per 6 dream stages cleared: Snail DEF +10<br>Dream Stages passed: 66/66
+|-
+|5.4k||||Per 6 dream stages cleared: Snail DEF 20?<br>Dream Stages passed: 66/66
+|-
+|rowspan="3"|3||rowspan="3"|Legend of the Seven Seas||1.6k||||Per 6 dream stages cleared, Snail ATK +5<br>Dream Stages passed: 66/66
+|-
+|3.2k||||Per 6 dream stages cleared, Snail ATK +10<br>Dream Stages passed: 66/66
+|-
+|4.8k||||Per 6 dream stages cleared, Snail ATK +20<br>Dream Stages passed: 66/66
+|-
+|rowspan="3"|4||rowspan="3"|Journey of Hamandin||1.6k||||Per 6 dream stages cleared, Snail RUSH +5<br>Dream Stages passed: 66/66
+|-
+|3.2k||||Per 6 dream stages cleared, Snail RUSH +10<br>Dream Stages passed: 66/66
+|-
+|4.8k||||Per 6 dream stages cleared, Snail RUSH +20<br>Dream Stages passed: 66/66
+|-
+|rowspan="3"|5||rowspan="3"|Aladdin's Magic Ring||6.4k||||Per wave victory: +100 Magic Lamp Oil
+|-
+|12.8k||||Per wave victory: +200 Magic Lamp Oil
+|-
+|19.2k||||Per wave victory: +300 Magic Lamp Oil
+|-
+|rowspan="3"|6||rowspan="3"|Emblem of War||6.4k||||Warriors level cap +10
+|-
+|12.8k||||Warriors level cap +20
+|-
+|19.2k||||Warriors level cap +30
+|-
+|rowspan="3"|7||rowspan="3"|The Three Sages||6.4k||||Learn to get Copper Horn
+|-
+|12.8k||||Learn to get Golden Crow
+|-
+|19.2k||||Learn to get Ebony Horse
+|-
+|rowspan="3"|8||rowspan="3"|Emblem of the Hunt||6.4k|||||Archers level cap +10
+|-
+|12.8k||||Archers level cap +20
+|-
+|19.2k||||Archers level cap +30
+|-
+|rowspan="3"|9||rowspan="3"|Emblem of the Priest||6.4k||||Priests level cap +10
+|-
+|12.8k||||Priests level cap +20
+|-
+|19.2k||||Priests level cap +30
+|-
+|rowspan="3"|10||rowspan="3"|Princess of Feathers||16k||||Lamp HP +5%
+|-
+|32k||||Lamp HP +10%
+|-
+|48k||||Lamp HP +15%
+|-
+|rowspan="3"|11||rowspan="3"|Encrypted War Scroll||16k||||Warrior Damage +5%
+|-
+|32k||||Warrior Damage +10%
+|-
+|48k||||Warrior Damage +15%
+|-
+|rowspan="3"|12||rowspan="3"|Fort of Lephudheap||16k||||Dream battles: +1 Artifact slots
+|-
+|32k||||Dream battles: +2 Artifact slots
+|-
+|48k||||Dream battles: +3 Artifact slots
+|-
+|rowspan="3"|13||rowspan="3"|Encrypted Hunting Scroll||16k||||Archer damage +5%
+|-
+|32k||||Archer damage +10%
+|-
+|48k||||Archer damage +15%
+|-
+|rowspan="3"|14||rowspan="3"|Encrypted Priest Scroll||16k||||Priest damage +5%
+|-
+|32k||||Priest damage +10%
+|-
+|48k||||Priest damage +15%
+|-
+|rowspan="3"|15||rowspan="3"|Dream of Haya Tufas||40k||||Lamp DEF +5%
+|-
+|80k||||Lamp DEF +10%
+|-
+|120k||||Lamp DEF +15%
+|-
+|rowspan="3"|16||rowspan="3"|War Covenant||40k||||Warrior attack speed +5%
+|-
+|80k||||Warrior attack speed +10%
+|-
+|120k||||Warrior attack speed +15%
+|-
+|rowspan="2"|17||rowspan="2"|Brass City and the Flask||40k||||Gem slots +1
+|-
+|80k||||Gem slots +2
+|-
+|rowspan="3"|18||rowspan="3"|Hunting Covenant||40k||||Archer attack speed +5%
+|-
+|80k||||Archer attack speed +10%
+|-
+|120k||||Archer attack speed +15%
+|-
+|rowspan="3"|19||rowspan="3"|Priest's Covenant||40k||||Priest attack speed +5%
+|-
+|80k||||Priest attack speed +10%
+|-
+|120k||||Priest attack speed +15%
+|-
+|}
+
+==Sky City==
+[[File:Parsia INTEL Tab 3 Numbered.png|300px|left]]
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|rowspan="3"|1||rowspan="3"|Oxus Treasure||6k||||10% chance to obtain Parsia Treasure Map when entering new areas<br>Skill active only in Parsian expeditions.
+|-
+|12k||||20% chance to obtain Parsia Treasure Map when entering new areas<br>Skill active only in Parsian expeditions.
+|-
+|18k||||30% chance to obtain Parsia Treasure Map when entering new areas<br>Skill active only in Parsian expeditions.
+|-
+|rowspan="3"|2||rowspan="3"|The Book of Kings||12k||||Each leader encountered grants Snail ATK +5<br>Leaders encountered: 9/9
+|-
+|24k||||Each leader encountered grants Snail ATK +10<br>Leaders encountered: 9/9
+|-
+|36k||||Each leader encountered grants Snail ATK +15<br>Leaders encountered: 9/9
+|-
+|3||Military District Apostle Clue||?||Defeat [[Parsia Apostles#Pyratism Saintess|Pyratism Saintess]]||Unlock Area (Military Precinct)<br>Military District Exploration, INTEL +20%
+|-
+|rowspan="3"|4||rowspan="3"|The Six Amesha Spentas||12k||||Each Parsian artifact activated grants Snail DEF +4<br>Artifact activated: 10/10
+|-
+|24k||||Each Parsian artifact activated grants Snail DEF +8<br>Artifact activated: 10/10
+|-
+|36k||||Each Parsian artifact activated grants Snail DEF +12<br>Artifact activated: 10/10
+|-
+|rowspan="3"|5||rowspan="3"|Mitra||24k||||Per 7 lamp upgrades: +100 White Tadpoles
+|-
+|48k||||Per 7 lamp upgrades: +200 White Tadpoles
+|-
+|72k||||Per 7 lamp upgrades: +400 White Tadpoles
+|-
+|rowspan="4"|6||rowspan="4"|Monotheism||24k||||Parsian Exploration, DMG to Enemies +5%
+|-
+|48k||||Parsian Exploration, DMG to Enemies +10%
+|-
+|72k||||Parsian Exploration, DMG to Enemies +15%
+|-
+|96k||||Parsian Exploration, DMG to Enemies +20%
+|-
+|rowspan="1"|7||rowspan="1"|Commercial District Apostle Clue||?||Defeat [[Parsia Apostles#Slipper Legion|Slipper Legion]]||Unlock area (Commerce Ring)<br>Commerce Ring Exploration, INTEL +20%
+|-
+|rowspan="4"|8||rowspan="4"|Dualism||24k|||||Parsian exploration: DMG REDUC +2.5%
+|-
+|48k||||Parsian exploration: DMG REDUC +5%
+|-
+|72k||||Parsian exploration: DMG REDUC +7.5%
+|-
+|96k||||Parsian exploration: DMG REDUC +10%
+|-
+|rowspan="4"|9||rowspan="4"|Hamster Bank||24k||100k B-Tadpole||Invest 100K B-tads for 3 Lottery Tickets
+|-
+|48k||200k B-Tadpole||Invest 200K B-tads for 6 Lottery Tickets
+|-
+|72k||300k B-Tadpole||Invest 300K B-tads for 9 Lottery Tickets
+|-
+|96k||400k B-Tadpole||Invest 400K B-tads for 12 Lottery Tickets
+|-
+|rowspan="3"|10||rowspan="3"|Guardians of Civilization||36k||||Each Parsia Exploration, per 100 visits to Noble Hunting Grounds, gain 1 Invisible Garden<br>Use in Card Redemption for rare resources
+|-
+|72k||||Each Parsia Exploration, per 75 visits to Noble Hunting Grounds, gain 1 Invisible Garden<br>Use in Card Redemption for rare resources
+|-
+|108k||||Each Parsia Exploration, per 50 visits to Noble Hunting Grounds, gain 1 Invisible Garden<br>Use in Card Redemption for rare resources
+|-
+|rowspan="3"|11||rowspan="3"|Zoroastrian Sacred Fire||36k||||After learning, immediately unlock Lord of the Pyratism
+|-
+|72k||||Learn to get 10 Mutantigen
+|-
+|108k||||Learn to get 20 Mutantigen
+|-
+|rowspan="1"|12||rowspan="1"|Metropolitan Apostle Clue||?||Defeat [[Parsia Apostles#Tycoon|Tycoon]]||Unlock Area (Metropole)<br>Metropole Exploration, INTEL +20%
+|-
+|rowspan="3"|13||rowspan="3"|Beneath the Dunes||36k||||Each Parsian Arcana shard grants ALL ELMT DMG +5<br>Parsia Arcana Shards Gained: 10/10
+|-
+|72k||||Each Parsian Arcana shard grants ALL ELMT DMG +10<br>Parsia Arcana Shards Gained: 10/10
+|-
+|108k||||Each Parsian Arcana shard grants ALL ELMT DMG +15<br>Parsia Arcana Shards Gained: 10/10
+|-
+|rowspan="1"|14||rowspan="1"|The Covenant of the Four-Colored Fish||108k||||Unlock Special Hitman (Four-Colored Fish)<br>Four-Colored Fish will visit your Home<br>Learn to get 1d Clone Speedup
+|-
+|rowspan="4"|15||rowspan="4"|Prophet's Vision||60k||||Unlock Special Incident: Temple Bell
+|-
+|120k||||Unlock Special Incident: Oasis Pool
+|-
+|180k||||Unlock Special Incident: Golden Vessel
+|-
+|240k||||Unlock Special Incident: Sealed Remains
+|-
+|rowspan="3"|16||rowspan="3"|Silk Roads||60k||||Unlock more items in Parsia Card Redemption
+|-
+|120k||||Unlock more items in Parsia Card Redemption<br>Learn to get 6h Travel Speedup
+|-
+|180k||||Unlock more items in Parsia Card Redemption<br>Learn to get 12h Travel Speedup
+|-
+|rowspan="1"|17||rowspan="1"|Financial Center Apostle Clue||?||Defeat [[Parsia Apostles#Hamster Corp CEO|Hamster Corp CEO]]||Unlock Area (Financier's Core)<br>Financial Center Exploration, INTEL +20%
+|-
+|rowspan="4"|18||rowspan="4"|The Liar||60k||||Learn to get 40 Organ Part(s)
+|-
+|120k||||Learn to get 40 Organ Part(s)
+|-
+|180k||||Learn to get 80 Organ Part(s)
+|-
+|240k||||Learn to get 80 Organ Part(s)
+|-
+|rowspan="6"|19||rowspan="6"|Hall of a Hundred Columns||60k||||Unlock Special Incident: Pillar of the Sun
+|-
+|120k||||Unlock Special Incident: Moon Pillar
+|-
+|180k||||Unlock Special Incident: Ahura's Pillar
+|-
+|240k||||Unlock Special Incident: Pillar of Life
+|-
+|300k||||Unlock Special Incident: Pillar of Kings
+|-
+|360k||||Unlock Special Incident: Weathered Remains
+|-
+|}
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Parsia]]

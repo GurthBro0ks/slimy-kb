@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=33
+|relics=Faraday's Dynamo,Linde's Fridge
+|rank=blue
+|amount=2
+|category=self
+|description=Angel Gene Research SPD +3%
+}}

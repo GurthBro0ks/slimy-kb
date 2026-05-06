@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Eye Exercise Manual
+|class_id=20102
+|rank=Green
+|affct=CIV
+|source=
+|description=Every day, Earth's Will wakes up to the daunting task of managing the daily necessities of many travelers, causing exhaustion and strain on itself. To improve its health, it has designed a personalized eye exercise program, enhancing its divine power and ability to see through all obstacles.
+|fame=14
+|art=13
+|fth=14
+|civ=32
+|tech=17
+|ss1=In Mutant Form, obtain Truth Eye<br>Mutant Minion HARD Stats +0.4%<br>In All Forms, Snail HP +200
+|ss2=In Mutant Form, obtain Truth Eye<br>Mutant Minion HARD Stats +0.8%<br>In All Forms, Snail HP +400
+|ss3=In Mutant Form, obtain Truth Eye<br>Mutant Minion HARD Stats +1.2%<br>In All Forms, Snail HP +600
+|ss4=In Mutant Form, obtain Truth Eye<br>Mutant Minion HARD Stats +1.2%<br>In All Forms, Snail HP +600
+|ss7=In Mutant Form, obtain Truth Eye<br>Mutant Minion HARD Stats +1.2%<br>In All Forms, Snail HP +600<br> (Awakened)
+}}

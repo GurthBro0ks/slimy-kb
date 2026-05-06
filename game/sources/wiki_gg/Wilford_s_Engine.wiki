@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Wilford's Engine
+|class_id=22337
+|rank=SSS
+|affct=TECH
+|birthday=06-17
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Jun 17, 2031 AD, the train powered by Wilford's perpetual motion engine began to move across the vast ice field.<br>Wilford funded the development of this engine, which has the features of a true perpetual motion machine, as it once ran for seventeen years without any energy supplies. Aside from its numerous energy acquisition channels and extremely high energy utilization, it can also recycle some of the energy lost through vibration and heat, resulting in a powerful performance that is close to perpetual motion.
+|fame=63
+|art=61
+|fth=70
+|civ=59
+|tech=109
+|ss1=In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +24%<br>Per 1.2k Demon God Tech Pts, Snail HP +30<br>Per 1.2k Demon God Tech Pts, Snail DEF +3<br>Demon God Tech Pts: 60000/60000
+|ss2=In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +32%<br>Per 1.2k Demon God Tech Pts, Snail HP +40<br>Per 1.2k Demon God Tech Pts, Snail DEF +4<br>Demon God Tech Pts: 60000/60000
+|ss3=In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +40%<br>Per 1.2k Demon God Tech Pts, Snail HP +50<br>Per 1.2k Demon God Tech Pts, Snail DEF +5<br>Demon God Tech Pts: 60000/60000
+|ss4=In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +56%<br>Per 1.2k Demon God Tech Pts, Snail HP +70<br>Per 1.2k Demon God Tech Pts, Snail DEF +7<br>Demon God Tech Pts: 60000/60000
+|ss5=In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +72%<br>Per 1.2k Demon God Tech Pts, Snail HP +90<br>Per 1.2k Demon God Tech Pts, Snail DEF +9<br>Demon God Tech Pts: 60000/60000
+|ss6=In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +96%<br>Per 1.2k Demon God Tech Pts, Snail HP +120<br>Per 1.2k Demon God Tech Pts, Snail DEF +12<br>Demon God Tech Pts: 60000/60000
+|ss7=In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +96%<br>Per 1.2k Demon God Tech Pts, Snail HP +120<br>Per 1.2k Demon God Tech Pts, Snail DEF +12<br>Demon God Tech Pts: 60000/60000<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop Fire DMG +60
+|skill2=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion RUSH +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's TECH +15
+|mirage={{Mirage|name=The Perpetual Motioners|reward={{RewardIconWithLink|AR2-T4 Capsule, +1|orange}}
+|3name=Da Vinci Device|3rec=14.62M|3atk=99832|3defense=66602|3hp=2892219|3weak=17284
+|4name=Donkey & Carrot Device|4rec=25.72M|4atk=120048|4defense=80089|4hp=4130159|4weak=18536
+|5name=Crane&Magnet Device|5rec=36.35M|5atk=142457|5defense=95039|5hp=5723836|5weak=19588
+|6name=Bioenergy Device|6rec=48.57M|6atk=168228|6defense=112231|6hp=7690986|6weak=21439
+|Arec=62.00M|Aatk=196559|Adefense=131132|Ahp=10149802|Aweak=24772
+}}}}

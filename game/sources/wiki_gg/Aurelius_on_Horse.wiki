@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Aurelius on Horse
+|class_id=22826
+|rank=SSS
+|affct=ART
+|source=
+|description=This bronze statue is a tribute to the Roman Emperor and philosopher Marcus Aurelius. The statue depicts Aurelius in military attire, with his right hand raised, mounted on a warhorse. Unlike a posture that displays military glory, his expression is thoughtful, revealing a profound philosophical essence, reflecting his identity as a Stoic philosopher. The statue has weathered many changes over time; it was once mistakenly identified as a statue of Emperor Constantine and had been altered in color. During the Renaissance, Pope Sylvester II ordered its restoration to its original state and repositioned it in the Capitoline Square.
+|fame=49
+|art=108
+|fth=70
+|civ=73
+|tech=62
+|ss1=Snail Leadership +3<br>Demon Minion RUSH +3%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +72<br>ART Relics Awakened: 100/100
+|ss2=Snail Leadership +4<br>Demon Minion RUSH +4%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +96<br>ART Relics Awakened: 100/100
+|ss3=Snail Leadership +5<br>Demon Minion RUSH +5%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +120<br>ART Relics Awakened: 100/100
+|ss4=Snail Leadership +7<br>Demon Minion RUSH +7%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +168<br>ART Relics Awakened: 100/100
+|ss5=Snail Leadership +9<br>Demon Minion RUSH +9%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +216<br>ART Relics Awakened: 100/100
+|ss6=Snail Leadership +12<br>Demon Minion RUSH +12%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +288<br>ART Relics Awakened: 100/100
+|ss7=Snail Leadership +12<br>Demon Minion RUSH +12%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +288<br>ART Relics Awakened: 100/100<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x INTEL Drops +15%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Orange Reagent Drops +15%
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: Medal Output +30
+}}

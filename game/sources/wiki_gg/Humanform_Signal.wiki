@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Humanform Signal
+|type=Common
+|rank=purple
+|id=10722
+|idx=37
+|description="...Warrior of Light No.7 showed no signs of life. Experiment Result: Time spent on Earth increased by 5%, and HP decreased by 30%."
+— Star of Light Report
+|skill=Before round start, activate Light Ray and lower enemy's DEF by 36%!
+|hp=1210
+|def=164
+|atk=193
+|rush=153
+|gene1=During exploration, Fire DMG +120
+|gene2=In explorations, {race} DEF +80
+|gene3=In explorations, {race} ATK +80
+|gene4=Fire DMG +1%
+|gene7=Fire DMG +3% (Awakened)
+|}}

@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Unidentified Kidney
+|type=Common
+|rank=purple
+|id=10833
+|idx=38
+|description=A special ingredient that can be made into a variety of dishes such as stir-fried kidney, Kung Pao kidney, kidney soup, etc...You have to clean it before you cook it!
+|skill=
+|hp=1706
+|def=132
+|atk=171
+|rush=157
+|gene1=CRIT +5%
+|gene2=Crit DMG +5%
+|gene3=CRIT +5%
+|gene4=Crit DMG +5%
+|gene7=Crit DMG +5% (Awakened)
+|}}

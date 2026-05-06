@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=508
+|relics=Simbel Fresco,Hevelius Chart
+|rank=orange
+|amount=2
+|category=self
+|description=Quantum Amp production +7%
+}}

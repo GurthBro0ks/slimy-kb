@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Scales of Astraea,Book of the Dead,Manga Manuscript
+|rank=orange
+|amount=3
+|category=home
+|description=In the Gaia Rocket Cabin: Domain Holograph Base Effect +64%
+}}
+[[Category:Home]]
+[[Category:Domain Holograph Boost]]

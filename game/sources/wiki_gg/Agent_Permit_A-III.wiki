@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Agent Permit A-III
+|class_id=20326
+|rank=Green
+|affct=TECH
+|source=
+|description=The holder of the card is a senior agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)
+|fame=16
+|art=16
+|fth=12
+|civ=16
+|tech=30
+|ss1=Per Senior Agent defeated, Snail DEF +3<br>Senior Agents Defeated: 20/20
+|ss2=Per Senior Agent defeated, Snail DEF +6<br>Senior Agents Defeated: 20/20
+|ss3=Per Senior Agent defeated, Snail DEF +9<br>Senior Agents Defeated: 20/20
+|ss4=Per Senior Agent defeated, Snail DEF +9<br>Senior Agents Defeated: 20/20
+|ss7=Per Senior Agent defeated, Snail DEF +9<br>Senior Agents Defeated: 20/20<br> (Awakened)
+}}

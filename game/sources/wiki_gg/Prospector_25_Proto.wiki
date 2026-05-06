@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Prospector 25 Proto
+|class_id=20359
+|rank=Green
+|affct=TECH
+|source=
+|description=This machine is designed by the Snail Clan to maximize the exploration of underground resources, each having the ability of digging hundreds of meters underground. Due to its lack of functional stability and relatively high cost, it is difficult to deploy it in actual practice. Since then, based on the data of this prototype machine, the Snail Clan successfully developed a new type of prospecting machine with good versatility. And the prototype it has since become a neglectable collectible in museum.
+|fame=16
+|art=19
+|fth=16
+|civ=13
+|tech=26
+|ss1=B-tads collected from Drill Rig +3%
+|ss2=B-tads collected from Drill Rig +6%
+|ss3=B-tads collected from Drill Rig +9%
+|ss4=B-tads collected from Drill Rig +9%
+|ss7=B-tads collected from Drill Rig +9%<br> (Awakened)
+}}

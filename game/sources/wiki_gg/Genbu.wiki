@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Genbu
+|rank=orange
+|cabin=2
+|id=156
+|gene1={race} HP +500
+|gene2={race} FTH +50
+|gene3=Domain Cabin Output +3%
+|gene4=Per 60 Mutant Minions in battle,
+Troop Water DMG +6
+|gene5=Mutant Minion Skin HP + 30%
+|gene6=Per 60 Mutant Minions in battle,
+Troop Water DMG +10
+|gene7=Mutant Minion Skin HP + 50%
+|}}

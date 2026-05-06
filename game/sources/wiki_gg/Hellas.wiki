@@ -1,0 +1,10 @@
+{{Location|title=Hellas|imagecaption=Map of Hellas|type=|image=File:Hellas Full Map.png}}
+
+{{Realm
+|realm=Hellas
+|demonym=Hellenic
+|description=A holy sanctum stands on this blessed land, where warriors fight for love and justice.
+|unique=Shining Athena
+|unique2=Dancing Gala
+|trait=Cosmos
+}}

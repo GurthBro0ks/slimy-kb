@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Cintamani,Nishijin Fabric
+|rank=purple
+|amount=2
+|category=minion
+|description=Angel Minion DEF +6%
+}}
+[[Category:Minion]]
+[[Category:Angel Minion DEF Boost]]

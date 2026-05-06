@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Three Purities
+|class_id=20268
+|rank=Green
+|affct=FAITH
+|source=
+|description=This is a portrait from the Otherworld, sealing the Taoist ancestor's core spirits. It is a special image created by Lao Tzu, one of the three purities, under some special space-time conditions of the Otherworld.
+|fame=19
+|art=13
+|fth=29
+|civ=14
+|tech=15
+|ss1=Per 3 kinds of souls offered, Snail ATK +1<br>Souls offered: 300/300 types
+|ss2=Per 3 kinds of souls offered, Snail ATK +2<br>Souls offered: 300/300 types
+|ss3=Per 3 kinds of souls offered, Snail ATK +3<br>Souls offered: 300/300 types
+|ss4=Per 3 kinds of souls offered, Snail ATK +3<br>Souls offered: 300/300 types
+|ss7=Per 3 kinds of souls offered, Snail ATK +3<br>Souls offered: 300/300 types<br> (Awakened)
+}}

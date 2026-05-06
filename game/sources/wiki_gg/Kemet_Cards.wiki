@@ -1,0 +1,161 @@
+==Card Redemption==
+Throughout [[Kemet]], cards can be collected and exchanged for various rewards. Cards vary from tier 1 (white) to tier 5 (orange) and there's different types of each tier. Below is a list of the rewards that can be exchanged, and how many times.
+
+==Tier 1 (White)==
+'''Recommended:'''  Enhancement Injection, Gear
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:var(--white-bg)" | [[File:White Ankh.png|75px]]
+| rowspan="7" | Ankh
+|3x3||Enhancement Injection<br>Snail HP +140<br>Snail DEF +14
+| rowspan="7" | 15 B-tads
+|-
+|2x1||Kemetic INTEL +1,500
+|-
+|3x1||2,000 B-tads
+|-
+|4x1||Novice Scroll +5
+|-
+|5x1||{{Gearlink|white|Exploration|Khopesh}}
+|-
+|6x1||{{Gearlink|white|Exploration|Linen Robe}}
+|-
+|7x1||Lottery Ticket +1
+|-
+| style="background-color:var(--white-bg)" | [[File:Mummy Cat.png|75px]]
+|Mummy Cat||3x1||300 W-tads||200 B-tads
+|-
+| style="background-color:var(--white-bg)" | [[File:Papyrus Painting.png|75px]]
+|Papyrus Painting||4x1||4,000 B-tads||Kemetic INTEL +330
+|-
+| style="background-color:var(--white-bg)" | [[File:Fayum Pottery.png|75px]]
+|Fayum Pottery||4x1||600 Zombie Cells||200 B-tads
+|}
+
+==Tier 2 (Green)==
+'''Recommended:'''  Enhancement Injection, Gear
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:var(--green-bg)" | [[File:Green Ankh.png|75px]]
+| rowspan="7" | Ankh
+|3x3||Enhancement Injection<br>Snail ATK +120<br>Snail RUSH +14
+| rowspan="7" | 45 B-tads
+|-
+|2x1||Kemetic INTEL +3,000
+|-
+|3x1||4,000 B-tads
+|-
+|4x1||Novice Scroll +5
+|-
+|5x1||{{Gearlink|green|Exploration|Leather Shield}}
+|-
+|6x1||Gear Chest +40
+|-
+|7x1||Lottery Ticket +2
+|-
+| style="background-color:var(--green-bg)" | [[File:Kemetic Desert.png|75px]]
+|Kemetic Desert||3x1||{{Relink|Dendera Tablet|blue}} +10||350 B-tads
+|-
+| style="background-color:var(--green-bg)" | [[File:Colossi of Memnon.png|75px]]
+|Colossi of Memnon||3x1||Glue +50
+|Offering Speedup +5m
+|-
+| style="background-color:var(--green-bg)" | [[File:Medinet Habu.png|75px]]
+|Medinet Habu||4x1||6,000 B-tads
+|Kemetic Treasure Map +1
+|}
+
+==Tier 3 (Blue)==
+'''Recommended:'''  Enhancement Injection, Gear
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:var(--blue-bg)" | [[File:Blue Ankh.png|75px]]
+| rowspan="7" |Ankh
+|3x3||Enhancement Injection<br>Snail HP +160<br>Snail DEF +16
+| rowspan="7" | 135 B-tads
+|-
+|2x1||Kemetic INTEL +4,500
+|-
+|3x1||6,000 B-tads
+|-
+|4x1||Novice Scroll +10
+|-
+|5x1||{{Gearlink|blue|Exploration|Tactical Helmet}}
+|-
+|6x1||Gear Chest +60
+|-
+|7x1||Lottery Ticket +2
+|-
+| style="background-color:var(--blue-bg)" | [[File:Karnak.png|75px]]
+|Karnak||3x1||400 W-tads
+|Angel Cells +100
+|-
+| style="background-color:var(--blue-bg)" | [[File:Luxor Temple.png|75px]]
+|Luxor Temple||4x1||Offering Speedup +4h
+|Demon Cells +100
+|}
+
+==Tier 4 (Purple)==
+'''Recommended:'''  Enhancement Injection, Gear
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:var(--purple-bg)" | [[File:Purple Ankh.png|75px]]
+| rowspan="7" | Ankh
+|3x3||Enhancement Injection<br>Snail ATK +18<br>Snail RUSH +18
+| rowspan="7" | 405 B-tads
+|-
+|2x1||Kemetic INTEL +8,000
+|-
+|3x1||8,000 B-tads
+|-
+|4x1||Expert Scroll +10
+|-
+|5x1||{{Gearlink|purple|Exploration|Priestly Robe}}
+|-
+|6x1||Gear Chest +80
+|-
+|7x1||Lottery Ticket +3
+|-
+| style="background-color:var(--purple-bg)" | [[File:Gaze of Horus.png|75px]]
+|Gaze of Horus||4x1||Kemetic Treasure Map +50
+|Organ Chest +1
+|-
+| style="background-color:var(--purple-bg)" |[[File:Flail and Crook.png|75px]]
+|Flail and Crook||4x1||Expert Scroll +20
+|Kemetic Treasure Map +2
+|}
+
+==Tier 5 (Orange)==
+'''Recommended:''' Enhancement Injections, Gear, [[Kemet Pyramids#Modules|Heatseeker Module]]
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:var(--orange-bg)" | [[File:Orange Ankh.png|75px]]
+| rowspan="7" | Ankh
+|3x3||Enhancement Injection<br>Snail HP +200<br>Snail DEF +20
+| rowspan="7" | 1,215 B-tads
+|-
+|2x1||Kemetic INTEL +8,000
+|-
+|3x1||12k B-tads
+|-
+|4x1||Master Scroll +10
+|-
+|5x1||Gear Chest +100
+|-
+|6x1||[[Kemet Pyramid#Modules|Heatseeker module]]
+|-
+|7x1||Lottery Ticket +3
+|-
+| style="background-color:var(--orange-bg)" | [[File:Nile.png|75px]]
+|Nile||3x1||Wish Coin +1
+|15 W-tads
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Kemet]]

@@ -1,0 +1,14 @@
+[[File:Lottery Choice Pack Details.png|300px]]
+
+The {{RewardIconWithLink|Lottery Choice Pack|orange}} is a reward from [[Lottery_Machine#Weekly_Lottery_Event|Weekly Lottery Event]].
+
+After receiving the Lottery Choice Pack, you may choose a reward from the Pack!
+
+* {{RewardIconWithLink|CIV Master Scroll, +40|orange}}
+* {{RewardIconWithLink|ART Master Scroll, +40|orange}}
+* {{RewardIconWithLink|TECH Master Scroll, +40|orange}}
+* {{RewardIconWithLink|FTH Master Scroll, +40|orange}}
+* {{RewardIconWithLink|Lottery Relic Album, +10 Fragments|orange}}
+* {{RewardIconWithLink|FAME Master Scroll, +40|orange}}
+
+[[Category:Reward Pack]]

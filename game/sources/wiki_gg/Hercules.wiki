@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Hercules
+|rank=orange
+|cabin=2
+|id=200
+|gene1={race} DEF +50
+|gene2={race} FAME +50
+|gene3=Earth DMG +30
+|gene4=Per 60 Dragon Minions in battle,
+Troop Earth DMG +6
+|gene5=When HP < 30%, {race} DMG REDUC +0.6%
+|gene6=Per 60 Dragon Minions in battle,
+Troop Earth DMG +10
+|gene7=When HP < 30%, {race} DMG REDUC +1%
+|}}

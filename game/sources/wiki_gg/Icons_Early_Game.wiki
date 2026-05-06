@@ -1,0 +1,69 @@
+= Early Game =
+One off icons that are part of the early game.
+
+= [[Chore Dispatch]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Ishikawa Rip's Collection}}
+|}
+
+= [[Crafting]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Color Order Capsule}}||Unlocks Species Sequence Crafting
+{{IconExampleRowWithLink|Colorful Fungi}}||Unlocks Fungi Crafting
+{{IconExampleRowWithLink|Super Gene Mutagen}}||Unlocks Organ Slime Crafting
+|}
+
+= Early Powerups and [[Consumables]] =
+Early Game powerups and consumables
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Animal Cart}}||[[Hitmen|Hitman No. 12]]
+{{IconExampleRowWithText|Battle Memory Card}}||[[Value_Packs#Power_Value_Pack|Power Value Pack]]
+{{IconExampleRowWithText|Colorful Fungi}}||[[Value_Packs#Power_Value_Pack|Power Value Pack]]
+{{IconExampleRowWithText|Fungus Lunch Box}}||[[Value_Packs#Power_Value_Pack|Power Value Pack]]
+{{IconExampleRowWithText|Guanyin Tea}}||[[Ghost Zadako]]
+{{IconExampleRowWithText|Legal Documents}}||[[Hitmen|Hitman No. 11]]
+{{IconExampleRowWithText|Musashi's Legacy}}||Using {{RewardIconWithText|Travel Speedup}}s in [[Yamato]].
+{{IconExampleRowWithText|Psychic Fungus Set}}||Power Bonus
+{{IconExampleRowWithText|Rainbow Fungus Set}}||Power Bonus
+{{IconExampleRowWithText|Taichi Chest}}||Using {{RewardIconWithText|Travel Speedup}}s in [[Koryeo]].
+|}
+
+= [[Home Base]] =
+Stuff around the home base that needs to be powered up or used.
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Deliverbot}}
+{{IconExampleRowWithText|DNA Evolution Kit}}
+{{IconExampleRowWithText|Military Bomb}}
+{{IconExampleRowWithText|Super Snail Special}}
+{{IconExampleRowWithText|Terminal Core}}
+{{IconExampleRowWithText|Underground Explorer}}
+{{IconExampleRowWithText|Universal Key}}
+|}
+
+= [[Rocket]] =
+Icons to do with repairing the Rocket.
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Cockpit}}||Also Cockpit I, II, III
+{{IconExampleRowWithText|Bunker}}||Also Bunker I, II, III
+{{IconExampleRowWithText|Thruster}}||Also Thruster I, II, III, IV, V
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Energy Core (Rocket)}}||[[Yamato_Cards#Tier_3_(Blue)|Yamato Card]]
+{{IconExampleRowWithText|Immortal Engine}}||[[Cathay_Cards#Tier_3_(Blue)|Cathay Card]]
+|}
+
+= [[Mailbox#Zuckie|Zuckie]] =
+Icons to do with Zuckie.
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Mage's Notes}}
+{{IconExampleRowWithText|Zuckie's Invitation}}|Also Zuckie's Invitation I, II, III
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Ancient Snail Fossil|green}}
+{{IconExampleRowWithLink|Facenote|green}}
+{{IconExampleRowWithLink|Ticket Gleaners|green}}
+|}
+
+[[Category:Icons]]
+[[Category:Rocket]]

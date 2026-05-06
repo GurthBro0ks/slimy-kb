@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Cross of Will
+|class_id=21940
+|rank=SSS
+|affct=FAME
+|source=
+|description=Earth's Will rewards its trusted subordinates with this exquisitely crafted medal. It symbolizes accreditation for their competence and loyalty. It is said that only the really good ones who are willing to sacrifice for Earth's Will are eligible for the medal.
+|fame=109
+|art=64
+|fth=63
+|civ=62
+|tech=64
+|ss1=Snail Leadership +3<br>In Species War, All Minion ATK +0.9%<br>In Species War, All Minion RUSH +0.9%
+|ss2=Snail Leadership +4<br>In Species War, All Minion ATK +1.2%<br>In Species War, All Minion RUSH +1.2%
+|ss3=Snail Leadership +5<br>In Species War, All Minion ATK +1.5%<br>In Species War, All Minion RUSH +1.5%
+|ss4=Snail Leadership +7<br>In Species War, All Minion ATK +2.1%<br>In Species War, All Minion RUSH +2.1%
+|ss5=Snail Leadership +9<br>In Species War, All Minion ATK +2.7%<br>In Species War, All Minion RUSH +2.7%
+|ss6=Snail Leadership +12<br>In Species War, All Minion ATK +3.6%<br>In Species War, All Minion RUSH +3.6%
+|ss7=Snail Leadership +12<br>In Species War, All Minion ATK +3.6%<br>In Species War, All Minion RUSH +3.6%<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion HP +6%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion DEF +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FAME +15
+|mirage={{Mirage|name=Grand Masters of All Races|reward={{RewardIconWithLink|Certificate of Courage, +1|orange}}
+|3name=Penguin Grand Master|3rec=8.54M|3atk=74816|3defense=49967|3hp=1674223|3weak=13164
+|4name=Turtle Grand Master|4rec=15.38M|4atk=102419|4defense=68401|4hp=2960149|4weak=17035
+|5name=Earthworm Grand Master|5rec=32.94M|5atk=135128|5defense=90246|5hp=4882338|5weak=18765
+|6name=Geoduck Grand Master|6rec=51.26M|6atk=173709|6defense=116013|6hp=7927306|6weak=20548
+|Arec=72.99M|Aatk=219487|Adefense=146586|Ahp=12197818|Aweak=24578
+}}}}

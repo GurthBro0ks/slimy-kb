@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=336
+|relics=George VI's Speech,Ariadne's Thread
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Angel Minions in battle: Troop RUSH +5
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=399
+|relics=Book of Shadows,Giant Book
+|rank=purple
+|amount=2
+|category=self
+|description=Demon Minion RUSH +6%
+}}

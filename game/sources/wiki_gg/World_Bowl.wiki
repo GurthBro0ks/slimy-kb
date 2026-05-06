@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=World Bowl
+|rank=A
+|affct=FAME
+|birthday=02-08
+|source=* Club Chest (1.5%), Expert Scrolls (7.6%), Fragment Crafting (31%), Lottery Machine (0.66%), Wishing (2.8%)
+* [[Club#Star_Coins|Club Shop]] 1 Time Purchase of +40 Fragments for 3k Star Coins
+|description=On Feb 8, 2018, a significant football trophy was given.
+
+On this day, inside the screen, Lloris, the captain of the French national team was holding a World Bowl Trophy made of pure gold and turquoise. He waved to the camera right after his team was awarded the highest honor in the football world. However, they could only bring home a replica of the trophy as the original must be returned to the International Football Federation. The champion of the year can have the trophy until the next World Bowl begins. The top football teams will give their all to win the glory.
+|fame=65
+|art=31
+|fth=40
+|civ=44
+|tech=33
+|ss1=If you're in a club, Snail ATK +12<br>If you're in a club, Snail RUSH +12
+|ss2=If you're in a club, Snail ATK +24<br>If you're in a club, Snail RUSH +24
+|ss3=If you're in a club, Snail ATK +36<br>If you're in a club, Snail RUSH +36
+|ss4=If you're in a club, Snail ATK +60<br>If you're in a club, Snail RUSH +60
+|ss5=If you're in a club, Snail ATK +84<br>If you're in a club, Snail RUSH +84
+|ss7=If you're in a club, Snail ATK +84<br>If you're in a club, Snail RUSH +84<br>If you're in a club, Snail ATK +84 (Awakened)
+|skill1=[[File:Compass skill II.png|50px]] Place in Exploration Compass: When you enter a new area, gain +15 INTEL
+|skill2=[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, ATK +300
+}}
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FAME Relics]]
+[[Category:Purple FAME Relics]]
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Lucky Voucher Boost]]
+[[Category:Enhanced by Club]]

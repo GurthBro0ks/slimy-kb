@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Resin City is also known as the city of probabilities, because the families of four master statisticians live here, with Dars at their head. The dice of probability was their creation.
+|affct=TECH
+|hard=HP
+|source=Divine Neutral Chest (0.1%)
+|color=orange
+|earth=12
+|water=10
+|fire=10
+|wind=10
+|form=Mecha
+|element=Earth
+|realm=Koryeo
+|orangehard=ATK
+}}

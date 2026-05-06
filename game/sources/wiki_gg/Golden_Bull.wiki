@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Golden Bull
+|class_id=21253
+|rank=AAA
+|affct=FAME
+|source=
+|description=The Golden Bull, also known as the Golden Bull of 1356, was issued by Emperor Charles IV of the Holy Roman Empire, a constitutional document with profound influence in German history. This decree established the rights and obligations of the princes within the empire, reaffirmed the special status of the seven prince-electors, and excluded papal intervention in state affairs, thereby partially freeing German politics from papal interference.
+|fame=73
+|art=44
+|fth=38
+|civ=41
+|tech=47
+|ss1=Snail ATK +10<br>Snail DEF +10
+|ss2=Snail ATK +20<br>Snail DEF +20
+|ss3=Snail ATK +30<br>Snail DEF +30
+|ss4=Snail ATK +50<br>Snail DEF +50
+|ss5=Snail ATK +70<br>Snail DEF +70
+|ss7=Snail ATK +70<br>Snail DEF +70<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Skill skill II.png|50px]]??? (Coming soon)
+|skill2=[[File:Skill skill II.png|50px]]??? (Coming soon)
+}}

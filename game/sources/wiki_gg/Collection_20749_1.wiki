@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20749_1
+|class_id=20749
+|rank=Green
+|affct=FAITH
+|source=
+|description=collection@20749_2
+|fame=15
+|art=19
+|fth=27
+|civ=19
+|tech=10
+|ss1=Gene Research Free Speedup +3m<br>Per 30 Time Chests opened, Snail ATK +1<br>Time Chests Opened: 1500/1500
+|ss2=Gene Research Free Speedup +6m<br>Per 30 Time Chests opened, Snail ATK +2<br>Time Chests Opened: 1500/1500
+|ss3=Gene Research Free Speedup +9m<br>Per 30 Time Chests opened, Snail ATK +3<br>Time Chests Opened: 1500/1500
+|ss4=Gene Research Free Speedup +9m<br>Per 30 Time Chests opened, Snail ATK +3<br>Time Chests Opened: 1500/1500
+|ss7=Gene Research Free Speedup +9m<br>Per 30 Time Chests opened, Snail ATK +3<br>Time Chests Opened: 1500/1500<br> (Awakened)
+}}

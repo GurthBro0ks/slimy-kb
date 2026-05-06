@@ -1,0 +1,42 @@
+{{CargoRelic
+|name=Double Helix DNA
+|rank=SSS
+|affct=TECH
+|birthday=07-13
+|source=* Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wishing (0.07%)
+* Research Value Pack III ($99.99)
+|description=On July 13, 2015, a Double Helix model was presented to the world for the first time.
+
+In Science and Technology magazine, a twisted double-helix structure model formed by various materials was revealed for the first time. It is one of the four significant scientific discoveries of the 20th century, which has enabled the study pf heredity to advance to the molecular level. The world was getting close to the answers to the mysteries of life. People then had a clearer understanding of the structure and transmission of genetic information.
+
+[Main application]
+<br>
+Molecular genetics, molecular immunology, cell biology.
+|fame=70
+|art=60
+|fth=69
+|civ=55
+|tech=108
+|ss1=All Gene Research SPD +0.6%<br>Gene Research Free Speedup +9m<br>For all Gene Research, B-tad Cost -1.2%
+|ss2=All Gene Research SPD +.8%<br>Gene Research Free Speedup +12m<br>For all Gene Research, B-tad Cost -1.6%
+|ss3=All Gene Research SPD +1%<br>Gene Research Free Speedup +15m<br>For all Gene Research, B-tad Cost -2%
+|ss4=All Gene Research SPD +1.4%<br>Gene Research Free Speedup +21m<br>For all Gene Research, B-tad Cost -2.8%
+|ss5=All Gene Research SPD +1.8%<br>Gene Research Free Speedup +27m<br>For all Gene Research, B-tad Cost -3.6%
+|ss6=All Gene Research SPD +2.4%<br>Gene Research Free Speedup +36m<br>For all Gene Research, B-tad Cost -4.8%
+|ss7=All Gene Research SPD +2.4%<br>Gene Research Free Speedup +36m<br>For all Gene Research, B-tad Cost -4.8%<br>All Gene Research SPD +2% (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Water DMG +600
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: CRIT DMG REDUC +15%
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail DEF +600
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Gene Research Speedup Boost]]
+[[Category:Gene Research Cost Reduction]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:Water DMG Boost]]
+[[Category:CRIT DMG REDUC Boost]]
+[[Category:DEF Boost]]
+[[Category:DNA Boost]]
+[[Category:ATK Boost]]
+[[Category:God Descent Boost]]
+[[Category:Wood Golem Boost]]

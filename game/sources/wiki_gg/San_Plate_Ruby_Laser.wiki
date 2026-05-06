@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=384
+|relics=San Plate,Ruby Laser
+|rank=purple
+|amount=2
+|category=self
+|description=Refine +1 White Printing Supply by +6%
+}}

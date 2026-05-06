@@ -1,0 +1,18 @@
+{{Missing Info|specifics=<br>Source<br>Categories}}
+
+{{CargoRelic
+|name=Auspicious Beam
+|class_id=20298
+|rank=Green
+|affct=FTH
+|source=
+|description=At the start of the year, visit relatives and friends to exchange blessings, fostering more harmonious interpersonal relationships!
+|fame=15
+|art=15
+|fth=30
+|civ=17
+|tech=13
+|ss1=Snail Leadership +2<br>Per 10 Lucky Star, Snail RUSH +1<br>Lucky Star Gained: 1400/1400
+|ss2=Snail Leadership +4<br>Per 10 Lucky Star, Snail RUSH +2<br>Lucky Star Gained: 1400/1400
+|ss3=Snail Leadership +6<br>Per 10 Lucky Star, Snail RUSH +3<br>Lucky Star Gained: 1400/1400
+}}

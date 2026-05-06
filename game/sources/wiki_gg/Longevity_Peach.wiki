@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Longevity Peach
+|class_id=20028
+|rank=Green
+|affct=FAITH
+|source=
+|description=These magical peaches were grown by the Longevity God. They contain ten times more vitamins and fructose than ordinary peaches, which can promote blood circulation. They've absorbed the abundant spiritual energy of the immortal world and are even beneficial for people with high blood pressure.
+|fame=17
+|art=18
+|fth=30
+|civ=11
+|tech=14
+|ss1=Per Incense used, Snail HP +10<br>Incense Used: 20/20
+|ss2=Per Incense used, Snail HP +20<br>Incense Used: 20/20
+|ss3=Per Incense used, Snail HP +30<br>Incense Used: 20/20
+|ss4=Per Incense used, Snail HP +30<br>Incense Used: 20/20
+|ss7=Per Incense used, Snail HP +30<br>Incense Used: 20/20<br> (Awakened)
+}}

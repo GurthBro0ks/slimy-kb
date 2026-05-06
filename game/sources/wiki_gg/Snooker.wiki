@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=For some creatures, snooker is a terrible sport because they've been kicked around by bigger animals.
+|affct=CIV
+|hard=HP
+|source=Divine Neutral Chest (0.2%)
+|color=purple
+|earth=6
+|water=6
+|fire=7
+|wind=7
+|form=Mutant
+|element=Water
+|realm=Britland
+|orangehard=DEF
+}}

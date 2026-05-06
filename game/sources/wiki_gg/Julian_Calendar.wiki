@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Julian Calendar
+|rank=SS
+|affct=CIV
+|birthday=01-13
+|source=CIV Master Scrolls (10.2%), Fragment Crafting (5.5%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), Wishing (0.2%)
+|description=On Jan 13, 45 BC, this reliable calendar had been used for more than ten days.
+
+Julian Calendar was put into use by Julius Caesar, the Roman dictator. In the Julian calendar, a year is divided into 12 months, alternating between long and short months. There is one leap year every 4 years, and 365 days in a year, with one extra day added to February in the leap year. This calendar has an error of one day every 128 years when compared with the tropical year. More than a thousand years later, Pope Gregory XIII introduced the improved Gregorian calendar which is based on the Julian calendar.
+|fame=69
+|art=58
+|fth=55
+|civ=102
+|tech=63
+|ss1=Lumber Camp Output +4%<br>Lumber Camp Max Cap +4%<br>Per 5 Lumber Camp LVLs, Snail ATK +8<br>Lumber Camp LVL: 50/50
+|ss2=Lumber Camp Output +6%<br>Lumber Camp Max Cap +6%<br>Per 5 Lumber Camp LVLs, Snail ATK +12<br>Lumber Camp LVL: 50/50
+|ss3=Lumber Camp Output +8%<br>Lumber Camp Max Cap +8%<br>Per 5 Lumber Camp LVLs, Snail ATK +16<br>Lumber Camp LVL: 50/50
+|ss4=Lumber Camp Output +12%<br>Lumber Camp Max Cap +12%<br>Per 5 Lumber Camp LVLs, Snail ATK +24<br>Lumber Camp LVL: 50/50 
+|ss5=Lumber Camp Output +16%<br>Lumber Camp Max Cap +16%<br>Per 5 Lumber Camp LVLs, Snail ATK +32<br>Lumber Camp LVL: 50/50
+|ss6=Lumber Camp Output +22%<br>Lumber Camp Max Cap +22%<br>Per 5 Lumber Camp LVLs, Snail ATK +44<br>Lumber Camp LVL: 50/50
+|ss7=Lumber Camp Output +22%<br>Lumber Camp Max Cap +22%<br>Per 5 Lumber Camp LVLs, Snail ATK +44<br>Lumber Camp LVL: 50/50<br>Lumber Camp Output +20% (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Earth DMG +600
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail DEF +120 each round
+|skill3=[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: Max Cap +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Lumber Camp Output Boost]]
+[[Category:Lumber Camp Boost]]
+[[Category:ATK Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:Earth DMG Boost]]
+[[Category:DEF Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:Divine Dragon Descents Boost]]
+[[Category:RUSH Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Rewards Crystal of Will]]

@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Isabella I Portrait,Catherine II Portrait,Mysterious Relic,Alfred Statue,Washington Portrait,Mysterious Relic
+|rank=orange
+|amount=6
+|category=minion
+|description=All minion skins RUSH +120%
+}}
+[[Category:Minion]]
+[[Category:Minion RUSH Boost]]
+[[Category:Minion Skin Boost]]

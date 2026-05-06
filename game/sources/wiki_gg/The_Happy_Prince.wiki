@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=The Happy Prince
+|class_id=22071
+|rank=Blue
+|affct=CIV
+|birthday=09-24
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Sept 24, 1888 AD, the subjects of Sanssouci Palace erected a statue to commemorate the Happy Prince.<br>This statue was erected by the courtiers of Sanssouci in memory of their Happy Prince. He is dressed in gold leaf, his eyes are made of sapphire, and the sword in his hand is inlaid with rubies. The statue is in the city's highest place, watching over people's livelihood. After witnessing all kinds of suffering in the world, he couldn't help shedding tears, and it awoke the swallow trying to fall asleep at his feet. With the help of this swallow, he donated all the gold pieces and precious stones on his body to the poor people in the city who were suffering from hunger and cold. He lost his glamour, and his leaden heart burst as his dear swallow friend died of coldness. Later, his leaden heart and the swallow were taken back to Heaven by the angel, and they stayed together forever in the celestial garden.
+|fame=33
+|art=26
+|fth=22
+|civ=46
+|tech=27
+|ss1=Finish All Daily Tasks 7 times, Snail HP +10<br>All Daily Tasks Completed: 364/364
+|ss2=Finish All Daily Tasks 7 times, Snail HP +20<br>All Daily Tasks Completed: 364/364
+|ss3=Finish All Daily Tasks 7 times, Snail HP +30<br>All Daily Tasks Completed: 364/364
+|ss4=Finish All Daily Tasks 7 times, Snail HP +50<br>All Daily Tasks Completed: 364/364
+|ss7=Finish All Daily Tasks 7 times, Snail HP +50<br>All Daily Tasks Completed: 364/364<br>Snail HP +500 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +1%
+}}

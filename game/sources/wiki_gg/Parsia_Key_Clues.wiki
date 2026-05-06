@@ -1,0 +1,359 @@
+==Key Clue Records Parsia==
+Complete these Key Clues in [[Parsia]] for various rewards and to fully progress through the Realm.
+Please note that requirements ending with a * are an approximation, due to all the AFFCT reduction being applied.
+
+==1001 Nights==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +3}}, {{RewardIconWithText|B-Tad, +50k}}
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Get all Parsia INTEL
+|Obtain all 48 Parsia INTEL tiles
+|-
+|Get all 1001 Nights INTEL
+|Obtain all 56 1001 Nights INTEL tiles
+|}
+
+==King of Two Cities==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +3}}, {{RewardIconWithText|Parsia Treasure Map, +500}}
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Get all 1001 Nights INTEL
+|Obtain all 56 Parsia INTEL tiles
+|-
+|Get all Sky City INTEL
+|Obtain all 55 Sky City INTEL tiles
+|}
+
+==Golden Trade Route==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +500}}, {{RewardIconWithText|Parsia Treasure Map, +50}}
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Redeem all [[Parsia Cards#Tier 1 (White)|limited cards (white)]]
+|Exchange all 10 white card items
+|-
+|Redeem all [[Parsia Cards#Tier 2 (Green)|limited cards (green)]]
+|Exchange all 10 green card items
+|-
+|Redeem all [[Parsia Cards#Tier 3 (Blue)|limited cards (blue)]]
+|Exchange all 9 blue card items
+|-
+|Redeem all [[Parsia Cards#Tier 4 (Purple)|limited cards (purple)]]
+|Exchange all 9 purple card items
+|-
+|Redeem all [[Parsia Cards#Tier 5 (Orange)|limited cards (orange)]]
+|Exchange all 8 orange card items
+|}
+
+==The Thief's Trail==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +2}}, {{RewardIconWithText|B-Tad, +10k}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Bank Counter(Aman Citadel)||TECH 14170*||The Thief's Trail Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Bandit Hideout(Gulf of Parsis)||FAME 12750*||The Thief's Trail Intel +1, {{RewardIconWithText|Expert Scroll, +10}}
+|-
+|Cave Corpse(Dasht-e Kavir)||ART 13460*||The Thief's Trail Intel +1, {{RewardIconWithText|Soul Chest, +30}}
+|}
+
+==Royal Parsian Highway==
+'''Rewards:''' {{RewardIconWithText|Divine Neutral Chest, +100}}, {{RewardIconWithText|B-Tad, +15k}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Desert Factory(Dasht-e Kavir)||TECH 12750*||Royal Parsian Highway Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|-
+|Insurance Agent(Susa)||FAME 13900*||Royal Parsian Highway Intel +1, {{RewardIconWithText|Glue, +20}}
+|-
+|Porter's Remains(Qazvin)||ART 14540*||Royal Parsian Highway Intel +1, {{RewardIconWithText|Divine Neutral Chest, +20}}
+|}
+
+==Resistance Intel==
+'''Rewards:''' {{RewardIconWithText|Blue Reagent, +100}}, {{RewardIconWithText|Travel Speedup, +2h}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Outskirts Banner(Aman Citadel)||CIV 15880*||Resistance Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Monument Stone Statue(Susa)||FAME? 13020*||Resistance Intel +1, {{RewardIconWithText|Green Organ Slime, +30}}
+|-
+|Bronze Colossus(Ecbatana)||TECH 12700*||Resistance Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|-
+|Heavy Armor Totem(Dasht-e Kavir)||FTH 14800*||Resistance Intel +1, {{RewardIconWithText|Travel Speedup, +10m}}
+|}
+
+==Arms Trade==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +2}}, {{RewardIconWithText|Green Reagent, +200}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Charred Remains(Old Yazd)||ART 13290*||Arms Trade Intel +1, {{RewardIconWithText|Blue Reagent, +20}}
+|-
+|Arms Factory(Susa)||TECH 13730*||Arms Trade Intel +1, {{RewardIconWithText|Tool Chest, +20}}
+|-
+|Demon's Crate(Persepolis)||CIV 14800*||Arms Trade Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|}
+
+==Creed of Assassins==
+'''Rewards:''' {{RewardIconWithText|Incense, +1}}, {{RewardIconWithText|Blue Reagent, +100}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Hidden Blade(Pasargadae)||FTH 16150*||Creed of Assassins Intel +1, {{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|Alamut Fortress(Qazvin)||FTH 15880*||Creed of Assassins Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Silver Sarcophagus(Babylon)||FTH 14980*||Creed of Assassins Intel +1, {{RewardIconWithText|Soul Chest, +30}}
+|-
+|Bronze Gate(Persepolis)||FTH 16510*||Creed of Assassins Intel +1, {{RewardIconWithText|Parsia Treasure Map, +10}}
+|}
+
+==Alexander's Crusade==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +2}}, {{RewardIconWithText|B-Tad, +10k}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Siege of Aman(Aman Citadel)||FAME 14360*||Alexander's Crusade Intel +1, {{RewardIconWithText|Soul Chest, +30}}
+|-
+|Battle of Pasargadae(Pasargadae)||FAME 14800*||Alexander's Crusade Intel +1, {{RewardIconWithText|Offering Speedup, +20m}}
+|-
+|Military Supplies(Ecbatana)||TECH 15610*||Alexander's Crusade Intel +1, {{RewardIconWithText|Intel, +1500}}
+|-
+|Babylon Blitz(Babylon)||FAME 16340*||Alexander's Crusade Intel +1, {{RewardIconWithText|Expert Scroll, +10}}
+|-
+|Dead Parsian Knight(Persepolis)||ART 15880*||Alexander's Crusade Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|}
+
+==Pollution Source==
+'''Rewards:''' {{RewardIconWithText|Gene Speedup, +3h}}, {{RewardIconWithText|B-Tad, +15k}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Rotting Corpse(Gulf of Parsis)||ART 14800*||Pollution Source Intel +1, {{RewardIconWithText|Green Organ Slime, +30}}
+|-
+|Metal Passage(Old Yazd)||FAME 15250*||Pollution Source Intel +1, {{RewardIconWithText|Divine Neutral Chest, +20}}
+|-
+|Underground Slum(Qazvin)||CIV 14170*||Pollution Source Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|-
+|Sewage Pipe(Pasargadae)||CIV 16340*||Pollution Source Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|}
+
+==Immortal Army==
+'''Rewards:''' {{RewardIconWithText|Parsia Treasure Map, +50}}, {{RewardIconWithText|Evolution Chest, +100}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Immortal Tomb(Old Yazd)||CIV 16600*||Immortal Army Intel +1, {{RewardIconWithText|Offering Speedup, +20m}}
+|-
+|Immortal Camp(Gulf of Parsis)||FTH 13290*||Immortal Army Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Auction House(Susa)||FAME 14540*||Immortal Army Intel +1, {{RewardIconWithText|Tool Chest, +20}}
+|-
+|Ancient Temple(Babylon)||ART 13730*||Immortal Army Intel +1, {{RewardIconWithText|Parsia Treasure Map, +10}}
+|}
+
+==Radiance Protocol==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +2}}, {{RewardIconWithText|Green Reagent, +200}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Desert Outpost(Dasht-e Kavir)||TECH 14440*||Radiance Protocol Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|-
+|Cultist Robes(Aman Citadel)||CIV 14980*||Radiance Protocol Intel +1, {{RewardIconWithText|Offering Speedup, +20m}}
+|-
+|Soaked Remains(Gulf of Parsis)||ART 16950*||Radiance Protocol Intel +1, {{RewardIconWithText|Expert Scroll, +10}}
+|}
+
+==Aladdin's Riddle==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Parsia Treasure Map, +50}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Scrapped Mining Rig(Dasht-e Kavir)||TECH 14540*||Aladdin's Riddle Intel +1, {{RewardIconWithText|Tool Chest, +20}}
+|-
+|Black Message Bottle(Susa)||FAME 17220*||Aladdin's Riddle Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|-
+|Mountain Corpse(Qazvin)||ART 16070*||Aladdin's Riddle Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|}
+
+==Prophet's Vision==
+'''Rewards:''' {{RewardIconWithText|Wish Coin, +3}}, 40 [[The Royal Hunt Platter]] Frag<br>
+'''Unlock:''' [[Parsia INTEL#Sky City|15. Prophet's Vision]]
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Temple Bell(Aman Citadel)||CIV 14540*||Prophet's Vision Intel +1, {{RewardIconWithText|Offering Speedup, +20m}}
+|-
+|Oasis Pool(Dasht-e Kavir)||TECH 14630*||Prophet's Vision Intel +1, {{RewardIconWithText|Soul Chest, +30}}
+|-
+|Golden Vessel(Susa)||TECH 16150*||Prophet's Vision Intel +1, {{RewardIconWithText|Organ Slime, +30}}
+|-
+|Sealed Remains(Ecbatana)||ART 14360*||Prophet's Vision Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|}
+
+==Tribute Road==
+'''Rewards:''' {{RewardIconWithText|Incense, +1}}, {{RewardIconWithText|Parsia Treasure Map, +50}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Royal Coffin(Old Yazd)||CIV 14630*||Tribute Road Intel +1, {{RewardIconWithText|Divine Order Chest, +20}}
+|-
+|Palace Stairs(Susa)||FTH 15250*||Tribute Road Intel +1, {{RewardIconWithText|Soul Chest, +30}}
+|-
+|Gate of All Nations(Persepolis)||TECH 14800*||Tribute Road Intel +1, {{RewardIconWithText|Divine Order Chest, +20}}
+|}
+
+==Cuneiform Tablets==
+'''Rewards:''' {{RewardIconWithText|Blue Reagent, +200}}, {{RewardIconWithText|Offering Speedup, +4h}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Temple of Apollo(Qazvin)||FTH 15440*||Cuneiform Tablets Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Tomb of Cyrus(Pasargadae)||FTH 16070*||Cuneiform Tablets Intel +1, {{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|Jungle Altar(Babylon)||FTH 16950*||Cuneiform Tablets Intel +1, {{RewardIconWithText|Soul Chest, +30}}
+|-
+|Cliffside Carving(Persepolis)||FTH 14540*||Cuneiform Tablets Intel +1, {{RewardIconWithText|Parsia Treasure Map, +10}}
+|}
+
+==The Six Amesha Spentas==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +2}}, {{RewardIconWithText|B-Tad, +30k}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Temple of the Eternal God(Ecbatana)||FTH 15170*||The Six Amesha Spentas Intel +1, {{RewardIconWithText|Offering Speedup, +20m}}
+|-
+|Rotten Mud Figure(Persepolis)||ART 14170*||The Six Amesha Spentas Intel +1, {{RewardIconWithText|Soul Chest, +30}}
+|-
+|Worldly Tree God(Aman Citadel)||FAME 15070*||The Six Amesha Spentas Intel +1, {{RewardIconWithText|?}}
+|-
+|Worldly Water God(Gulf of Parsis)||FAME 14090*||The Six Amesha Spentas Intel +1, {{RewardIconWithText|Parsia Treasure Map, +10}}
+|-
+|Fire God Stone Casket(Dasht-e Kavir)||TECH 16340*||The Six Amesha Spentas Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Worldly Gold God(Babylon)||FAME 15250*||The Six Amesha Spentas Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|}
+
+==Leviathan Mystery==
+'''Rewards:''' {{RewardIconWithText|Evolution Chest, +100}}, {{RewardIconWithText|Gene Speedup, +3h}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Sea Monster Carcass(Gulf of Parsis)||ART 14630*||Leviathan Mystery Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|-
+|Secret Laboratory(Old Yazd)||FAME 14980*||Leviathan Mystery Intel +1, {{RewardIconWithText|Fungus Chest, +20}}
+|-
+|Sealed Wooden Box(Qazvin)||CIV 17590*||{{RewardIconWithText|Evolution Chest, +30}}, Leviathan Mystery Intel +1
+|-
+|Parsian Military Lab(Pasargadae)||CIV 15700*||{{RewardIconWithText|W-Tad, +80}}, Leviathan Mystery Intel +1
+|}
+
+==King's Dream==
+'''Rewards:''' 20 [[Clark Sickle Leaf Carpet]] Frag, {{RewardIconWithText|Parsia Treasure Map, +50}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Dream of Infinity(Babylon)||Display {{RewardIconWithLink|Dream Top|purple}}||{{RewardIconWithText|W-Tad, +80}}, King's Dream Intel +1
+|-
+|Dream of Gluttony(Gulf of Parsis)||Display Relic: FTH>105; Example:{{RewardIconWithLink|Boat of St. Peter|orange}}||{{RewardIconWithText|W-Tad, +80}}, King's Dream Intel +1
+|-
+|Dream of Greed(Susa)||Display Relic: FAME>105; Example:{{RewardIconWithLink|Origin of Species|orange}}||{{RewardIconWithText|W-Tad, +80}}, King's Dream Intel +1
+|-
+|Dream of Kings(Old Yazd)||Display {{RewardIconWithLink|Persian Star Chart|blue}}||{{RewardIconWithText|W-Tad, +80}}, King's Dream Intel +1
+|}
+
+==Corporate Warfare==
+'''Rewards:''' {{RewardIconWithText|Parsia Treasure Map, +50}}, {{RewardIconWithText|Ad Chest, +60}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Wish-Lamp Ad(Old Yazd)||Watch Ad||{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|Rebel Recruitment(Pasargadae)||Watch Ad||{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Glue, +20}}
+|-
+|Pyratism Pamphlets(Babylon)||Watch Ad||{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|Navigator Wanted(Ecbatana)||Watch Ad||{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|B-Tad, +10k}}
+|}
+
+==Parsian Treasure==
+'''Rewards:''' {{RewardIconWithText|Parsia Treasure Map, +50}},{{RewardIconWithText|Green Reagent, +100}}
+{| class="wikitable"
+!Event!!<nowiki>#</nowiki> of items found!!Rewards
+|-
+|Parsian Gold Coin(Aman Citadel)||3||{{RewardIconWithText|Travel Speedup, +30m}}, {{RewardIconWithText|W-Tad, +100}}
+|-
+|Sea Maiden's Pearl(Aman Citadel)||3||{{RewardIconWithText|Novice Scroll, +10}}, {{RewardIconWithText|W-Tad, +150}}
+|-
+|Genie's Wish Token(Dasht-e Kavir)||3||{{RewardIconWithText|Wood, +2000}}, {{RewardIconWithText|W-Tad, +150}}
+|-
+|Elf's Lucky Bag(Dasht-e Kavir)||3||{{RewardIconWithText|B-Tad, +10k}}, {{RewardIconWithText|W-Tad, +100}}
+|-
+|Arms Transport Crate(Gulf of Parsis)||3||{{RewardIconWithText|Travel Speedup, +1h}}, {{RewardIconWithText|W-Tad, +150}}
+|-
+|Chaharmahi Wish Bag(Gulf of Parsis)||3||{{RewardIconWithText|Travel Speedup, +30m}}, {{RewardIconWithText|W-Tad, +100}}
+|-
+|Parsian Trader's Goods(Susa)||3||{{RewardIconWithText|Gear Chest, +100}}, {{RewardIconWithText|W-Tad, +150}}
+|-
+|Saffron(Susa)||3||{{RewardIconWithText|B-Tad, +20k}}, {{RewardIconWithText|W-Tad, +150}}
+|-
+|Parsian Pyratism Souvenir(Old Yazd)||3||{{RewardIconWithText|Novice Scroll, +10}}, {{RewardIconWithText|W-Tad, +150}}
+|-
+|Assassin's Secret Letter(Qazvin)||3||{{RewardIconWithText|Wood, +3000}}, {{RewardIconWithText|W-Tad, +200}}
+|-
+|Bandit's Treasure Chest(Pasargadae)||3||{{RewardIconWithText|Clone Speedup, +2h}}, {{RewardIconWithText|W-Tad, +200}}
+|-
+|Alibaba's Five Blessings Bag(Pasargadae)||3||{{RewardIconWithText|Gene Speedup, +3h}}, {{RewardIconWithText|W-Tad, +300}}
+|-
+|Voyager's Treasure Chest(Ecbatana)||3||{{RewardIconWithText|Lottery Ticket, +2}}, {{RewardIconWithText|W-Tad, +300}}
+|-
+|Captain's Relic(Ecbatana)||3||{{RewardIconWithText|Expert Scroll, +20}}, {{RewardIconWithText|W-Tad, +200}}
+|-
+|Parsian Spice(Babylon)||3||{{RewardIconWithText|Offering Speedup, +2h}}, {{RewardIconWithText|W-Tad, +200}}
+|-
+|Parsian Honey(Babylon)||3||{{RewardIconWithText|Gene Speedup, +3h}}, {{RewardIconWithText|W-Tad, +300}}
+|-
+|Tribute from All Nations(Persepolis)||3||{{RewardIconWithText|Offering Speedup, +3h}}, {{RewardIconWithText|W-Tad, +300}}
+|-
+|Storyteller's Collection(Persepolis)||3||{{RewardIconWithText|B-Tad, +30k}}, {{RewardIconWithText|W-Tad, +200}}
+|-
+|Emblem of the Sacred Flame(Old Yazd)||3||{{RewardIconWithText|Blue Reagent, +30}}, {{RewardIconWithText|W-Tad, +200}}
+|-
+|Djinn King's Wreath(Qazvin)||3||{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Purple Reagent, +20}}
+|-
+|}
+
+==King of Kings==
+'''Rewards:''' {{RewardIconWithText|Blue Reagent, +200}}, {{RewardIconWithText|Travel Speedup, +2h}}
+{| class="wikitable"
+!Event!!Requirements
+|-
+|Conquer Ecbatana||Dominate Ecbatana
+|-
+|Conquer Berninkam||Dominate Berninkam
+|-
+|Conquer Canterberry||Dominate Canterberry
+|}
+
+==Mithra's Pact==
+'''Rewards:''' {{RewardIconWithText|Glue, +150}}, {{RewardIconWithText|Travel Speedup, +3h}}
+{| class="wikitable"
+!Event
+|-
+|Craft {{Gearlink|green|realm|Bishkabz}}
+|-
+|Craft {{Gearlink|blue|realm|Shamshir}}
+|-
+|Craft {{Gearlink|purple|realm|Gold-Chased Urumi}}
+|-
+|Craft {{Gearlink|orange|realm|Arrow of Arash}}
+|-
+|Craft {{Gearlink|red|realm|Mithraic Bow & Spear}}
+|}

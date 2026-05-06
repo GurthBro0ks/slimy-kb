@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Spinning Jenny
+|rank=Blue
+|affct=TECH
+|birthday=06-12
+|source=Lottery Machine (0.36%), Wishing (13.2%), Tool Chest (2%), Novice Scroll (5%)
+|description=On Jun 12, 1764, James Hargreaves invented a new spinning machine with eight vertical spindles.
+
+Looking at the spinning machine that toppled on the ground, he wondered if it could rotate 8 spindles if they were put vertically instead. That was how he increased the efficiency of a loom by eight times. This invention changed the industrial development. 
+
+[Development]
+
+5 years later, the hydraulic spinning machine was invented. 10 years later, the worsted spinning machine was invented. 40 later, steam was widely used in spinning machines.
+|fame=30
+|art=24
+|fth=29
+|civ=25
+|tech=46
+|ss1=Per Exploration completed, Snail ATK +2<br>Explorations completed 20/20
+|ss2=Per Exploration completed, Snail ATK +4<br>Explorations completed 20/20
+|ss3=Per Exploration completed, Snail ATK +6<br>Explorations completed 20/20
+|ss4=Per Exploration completed, Snail ATK +10<br>Explorations completed 20/20
+|ss7=Per Exploration completed, Snail ATK +10<br>Explorations completed 20/20<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Britland skill I.png|50px]] Place in Britland Museum: In Britland, TECH Checks -5
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:TECH Relics]]
+[[Category:Blue TECH Relics]]
+[[Category:ATK Boost]]
+[[Category:Lumber Camp Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:TECH Boost]]
+[[Category:Lottery Bead Color Change]]
+[[Category:Ancient Fossil Boost]]

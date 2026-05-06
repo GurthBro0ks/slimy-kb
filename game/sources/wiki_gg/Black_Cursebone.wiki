@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Black Cursebone
+|type=Common
+|rank=red
+|id=10965
+|idx=158
+|description=An evil mage so drenched in dark magic that curse runes etched into his very skeleton. Truly rotten to the bone!
+|skill=
+|hp=2480
+|def=246
+|atk=293
+|rush=283
+|gene1=Free Gene Speedup (Zombie) +1h
+|gene2=Wind DMG +2%
+|gene3=Earth DMG +2%
+|gene4=Water DMG +2%
+|gene5=Fire DMG +2%
+|gene6=Poison DMG +2%
+|gene7=All ELMT DMG +2.4% (Awakened)
+|}}

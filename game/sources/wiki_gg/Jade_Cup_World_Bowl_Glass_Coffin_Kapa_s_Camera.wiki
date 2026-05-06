@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Jade Cup,World Bowl,Glass Coffin,Kapa's Camera
+|rank=purple
+|amount=4
+|category=self
+|description=Per 20 Purple Beads drawn, Snail RUSH +16<br>Purple Beads Drawn: 300/300
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by Lottery Draws]]

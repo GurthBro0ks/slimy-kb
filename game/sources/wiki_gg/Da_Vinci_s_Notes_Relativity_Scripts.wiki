@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Da Vinci's Notes,Relativity Scripts
+|rank=orange
+|amount=2
+|category=self
+|description=Per 10 ATK-Fungi eaten, Snail ATK +7<br>ATK-Fungi Eaten: 500/500
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by ATK Fungi]]

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=169
+|relics=Africa Star,Mahakala Scroll
+|rank=orange
+|amount=2
+|category=self
+|description=Per 20 Orange Orbs drawn, Snail RUSH +14;Orange Orbs Drawn: 300/300
+}}

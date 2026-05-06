@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Wealth Magazine Vol.1
+|class_id=22210
+|rank=S
+|affct=FAME
+|birthday=09-16
+|source=Lottery Machine No.2 (1.45%), Wishing (5.4%)
+|description=On Sept 16, 1929 AD, the first issue of it was published.<br>Wealth Magazine is renowned for its insightful economic research articles. Its first issue was published back in October 1929, featuring 180 pages of high-quality paper and exquisite illustrations for $1. Since then, the magazine has expanded its focus on finance and has become one of the most influential business publications in the world. The International Top 500 list is now a critical benchmark for large corporations to assess their performance and is widely regarded as a key indicator in the financial industry.
+|fame=98
+|art=56
+|fth=47
+|civ=64
+|tech=67
+|ss1=Rebel Cabin Output +1%<br>Per 10 Home Facility LVLs, Snail HP +10<br>Per 10 Home Facility LVLs, Snail ATK +1<br>Home Facility LVL: 400/400
+|ss2=Rebel Cabin Output +2%<br>Per 10 Home Facility LVLs, Snail HP +20<br>Per 10 Home Facility LVLs, Snail ATK +2<br>Home Facility LVL: 400/400
+|ss3=Rebel Cabin Output +3%<br>Per 10 Home Facility LVLs, Snail HP +30<br>Per 10 Home Facility LVLs, Snail ATK +3<br>Home Facility LVL: 400/400
+|ss4=Rebel Cabin Output +5%<br>Per 10 Home Facility LVLs, Snail HP +50<br>Per 10 Home Facility LVLs, Snail ATK +5<br>Home Facility LVL: 400/400
+|ss5=Rebel Cabin Output +7%<br>Per 10 Home Facility LVLs, Snail HP +70<br>Per 10 Home Facility LVLs, Snail ATK +7<br>Home Facility LVL: 400/400
+|ss6=Rebel Cabin Output +10%<br>Per 10 Home Facility LVLs, Snail HP +100<br>Per 10 Home Facility LVLs, Snail ATK +10<br>Home Facility LVL: 400/400
+|ss7=Rebel Cabin Output +10%<br>Per 10 Home Facility LVLs, Snail HP +100<br>Per 10 Home Facility LVLs, Snail ATK +10<br>Home Facility LVL: 400/400<br>Rebel Cabin Output +10% (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FAME +15
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Blue Card Drops +15%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|mirage={{Mirage|name=Joy of the Rich|reward={{RewardIconWithLink|B-Tadpole, +60000|orange}}
+|3name=Millionaire|3rec=11.14M|3atk=86384|3defense=57630|3hp=2234662|3weak=14880
+|4name=Billionaire|4rec=28.54M|4atk=125993|4defense=84055|4hp=4612161|4weak=18800
+|Arec=51.71M|Aatk=174859|Adefense=116655|Ahp=8374480|Aweak=22062
+}}}}

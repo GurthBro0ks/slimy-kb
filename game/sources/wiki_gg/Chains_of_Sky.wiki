@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Chains of Sky
+|class_id=20481
+|rank=Green
+|affct=FAME
+|source=
+|description=The chains that Epic of Gilgamesh wields, but Tiamat took them away in their showdown battle. They have wedges on the two ends. For ordinary people, there's no difference between them and the regular chains, however, the chains can seal Gods' divine power, without Gilgamesh's permission, no one can be unsealed, but Tiamat is an exception.
+|fame=28
+|art=15
+|fth=15
+|civ=14
+|tech=18
+|ss1=Paralyze enemy by +0.2%
+|ss2=Paralyze enemy by +0.4%
+|ss3=Paralyze enemy by +0.6%
+|ss4=Paralyze enemy by +0.6%
+|ss7=Paralyze enemy by +0.6%<br> (Awakened)
+}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Rape of the Sabines
+|class_id=22532
+|rank=AA
+|affct=ART
+|birthday=04-26
+|source=
+|description=On Apr 26, 1583 AD, Giambologna completed this famous sculpture.<br>Rape of the Sabines is a sculpture from the Renaissance period created by Giambologna. The statue is inspired by a Roman legend where the Romans tricked the Sabine tribe to attend a festival, only to capture their women. It depicts the images of the young men abducting the women, the helpless old man, and the women fighting back, all interlaced in a spiral-like movement, forming a perfect artistic unity that creates a unique landscape from any angle, making it one of the top works of the Renaissance period.
+|fame=32
+|art=67
+|fth=45
+|civ=49
+|tech=35
+|ss1=Snail ATK +10<br>Snail DEF +10
+|ss2=Snail ATK +20<br>Snail DEF +20
+|ss3=Snail ATK +30<br>Snail DEF +30
+|ss4=Snail ATK +50<br>Snail DEF +50
+|ss5=Snail ATK +70<br>Snail DEF +70
+|ss7=Snail ATK +70<br>Snail DEF +70<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]??? (Coming soon)
+|skill2=[[File:Rift skill II.png|50px]]??? (Coming soon)
+}}

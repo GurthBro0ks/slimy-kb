@@ -1,0 +1,447 @@
+==Key Clue Records==
+Complete these Key Clues in [[Britland]] for various rewards and to fully progress through the Realm.
+
+==Encyclopedia==
+'''Rewards:''' Lottery Ticket +3, 10k B-tads
+{| class="wikitable"
+!Event
+|-
+|Master all [[Britland INTEL#Britland INTEL|Britland INTEL]]
+|-
+|Master all [[Britland INTEL#Fleet Management|Fleet management]]
+|}
+
+==Unfailing Empire==
+'''Rewards:''' Travel Speedup +2h, 10k B-tads
+{| class="wikitable"
+!Event
+!Requirements
+!Approximate Strength
+|-
+|Conquer Liverpond
+|Defeat [[Britland Apostles#The Peatles|The Peatles]] in 3 turns or less
+|2.77m
+|-
+|Conquer Bernikam
+|Defeat [[Britland Apostles#Arthur|Arthur]] in 3 turns or less
+|3.12m
+|-
+|Conquer Canterberry
+|Defeat [[Britland Apostles#Dark Wizard|Dark Wizard]] in 3 turns or less
+|3.6m
+|-
+|Conquer Brightown
+|Defeat [[Britland Apostles#Joan of Arc|Joan of Arc]] in 3 turns or less
+|7.4m
+|}
+
+==Wealth of Nations==
+'''Rewards:''' 500 W-tads, 15k B-tads
+{| class="wikitable"
+!Event
+|-
+|Redeem all [[Britland Cards#Tier 1 (white)|limited cards (white3]]
+|-
+|Redeem all [[Britland Cards#Tier 2 (green)|limited cards (green)]]
+|-
+|Redeem all [[Britland Cards#Tier 3 (blue)|limited cards (blue)]]
+|-
+|Redeem all [[Britland Cards#Tier 4 (purple)|limited cards (purple)]]
+|-
+|Redeem all [[Britland Cards#Tier 5 (orange)|limited cards (orange)]]
+|}
+
+==Royal Navy==
+'''Rewards:''' 500 W-tads, Wish Coin +1 
+{| class="wikitable"
+!Event
+|-
+|Collect all green and blue warship blueprints
+|-
+|Collect all purple warship blueprints
+|-
+|Collect all orange warship blueprints
+|}
+
+==Britland Treasure==
+'''Rewards:''' Britland Treasure Map +50, Green Reagent +500
+{| class="wikitable"
+!Event
+!<nowiki>#</nowiki> of items
+!Rewards
+|-
+|Royal Jewelry (Londorn)
+|3
+|Toner +60, 200 W-tads
+|-
+|Hoxne Treasure (Londorn)
+|2
+|Mecha Cell +2000, Blueprint
+|-
+|Titanic Ticket (Cardeff)
+|4
+|Travel Speedup +1h, 300 W-tads
+|-
+|Marsk Container (Cardeff)
+|2
+|5k B-tads, 200 W-tads
+|-
+|Whiskey Barrel (Adinburgh)
+|3
+|Zombie Cell +2000, 200 W-tads
+|-
+|Great Bagpipe Score (Adinburgh)
+|4
+|Refine Speedup +2h, 300 W-tads
+|-
+|Puritan Oath (Plymous)
+|3
+|Offering Speedup +2h, 200 W-tads
+|-
+|Allies Landing Supplies (Plymous)
+|3
+|Clone Speedup +2h, 200 W-tads
+|-
+|Celtic Document (Berfast)
+|2
+|Angel Cell +2000, 200 W-tads
+|-
+|Shawn's Scripts (Berfast)
+|4
+|Novice Scroll +10, 300 W-tads
+|-
+|Rough Diamond (Southempton)
+|3
+|Stone +2000, 200 W-tads
+|-
+|Outdoor Statue (Southempton)
+|3
+|Demon Cell +2000, 200 W-tads
+|-
+|Yurope Star Ticket (Brightown)
+|3
+|Travel Speedup +1h, 200 W-tads
+|-
+|Sea Tunnel Drawing (Brightown)
+|3
+|Clone Speedup +2h, 200 W-tads
+|-
+|Overseas Trade License (Liverpond)
+|3
+|Wood +2000, 200 W-tads
+|-
+|Enfield Ticket (Liverpond)
+|3
+|Organ Slime +60, 200 W-tads
+|-
+|Duch Windmill (Canterberry)
+|4
+|Lottery Ticket +1, 300 W-tads
+|-
+|Annie's Diary (Canterberry)
+|3
+|Mutant Cells +2000, 200 W-tads
+|-
+|Steam Engine Blueprint (Bernikam)
+|3
+|Refine Speedup +2h, 200 W-tads
+|-
+|Metallurgy Material (Bernikam)
+|2
+|Mecha Cel +2000, 200 W-tads
+|-
+|}
+
+==Lost Nautical Charts==
+'''Rewards:''' Britland Treasure Map +50, 50k B-tads
+{| class="wikitable"
+!Event
+!Area
+!Requirements
+!Rewards
+|-
+|Bibini Bottom Map
+|Adinburgh
+|10,500 TECH
+|Unlock [[Mysterious Sea|Bibini Bottom]], Britland Treasure Map +10, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Mecha Sea Map
+|Bernikam
+|11,000 TECH
+|Unlock [[Mysterious Sea|Mecha Sea]], Britland Treasure Map +10, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Poseidon Temple Map
+|Southempton
+|11,500 TECH
+|Unlock [[Mysterious Sea|Poseidon Temple]], Britland Treasure Map +10, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Dragon Palace Map
+|
+|Defeat the Poseidom Temple 4th floor boss
+|Unlock [[Mysterious Sea|Dragon Palace]]
+|}
+
+==Crown of Eternal Daylight==
+'''Rewards:''' 
+{| class="wikitable"
+!Event
+|-
+|Craft [[Gear|<span style="color:var(--green-text)">Lee Enfield Rifle</span>]]
+|-
+|Craft [[Gear|<span style="color:var(--blue-text)">Sword Cane</span>]]
+|-
+|Craft [[Gear|<span style="color:var(--purple-text)">Shotgun</span>]]
+|-
+|Craft [[Gear|<span style="color:var(--orange-text)">Lion's Crown</span>]]
+|-
+|Craft [[Gear|<span style="color:var(--red-text)">Eternal Daylight Crown</span>]]
+|}
+
+==Lost Civilization==
+'''Rewards:''' Demon Chest +100, Dragon Chest +100
+{| class="wikitable"
+!Event
+|-
+|Clear Pirate Paradise
+|-
+|Clear Bibini Bottom
+|-
+|Clear Mecha Sea
+|-
+|Clear Poseidon Temple
+|-
+|Clear Dragon Palace
+|-
+|Clear Doomsday Sea
+|}
+
+==Adventures of Holmes==
+'''Rewards:''' [[Magnifying Glass|<span style="color:var(--green-text)">Magnifying Glass</span>]], [[Events#The_Manhunt_Act|Neurolink]] +3
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Studies in Red (Londorn)
+|11,000 ART
+|Neurolink +1, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Baskville Dog (Cardeff)
+|11,500 FAME
+|Neurolink +1, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Bohemian Tale (Berfast)
+|12,000 TECH
+|Neurolink +1, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Geat Revolution==
+'''Rewards:''' Golden Pickaxe +3, Tool Chest +100
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Bishop's Letter (Londorn)
+|10,200 CIV
+|Britland Treasure Map +10, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|William's Letter (Plymous)
+|10,200 CIV
+|Britland Treasure Map +10, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|James II's Letter (Canterberry)
+|12,200 FAME
+|Britland Treasure Map +10, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Parliament's Letter (Bernikam)
+|12,200 CIV
+|Britland Treasure Map +10, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Fall of Invincible Fleet==
+'''Rewards:''' [[Gear|<span style="color:var(--purple-bg)">Heaven Amulet</span>]], Incense +1
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Sailor's Badge (Brightown)
+|12,500 CIV
+|[[Gear|<span style="color:var(--green-bg)">White Pearl</span>]], {{RewardIconWithText|Meal Box Size}} +100
+|-
+|2nd Mate's Badge (Brightown)
+|12,500 CIV
+|[[Gear|<span style="color:var(--green-bg)">Black Pearl</span>]], {{RewardIconWithText|Meal Box Size}} +100
+|-
+|1st Mate's Badge (Adinburgh)
+|11,200 CIV
+|[[Gear|<span style="color:var(--green-bg)">Sorcerer's Ring</span>]], {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Captain's Badge (Liverpond)
+|10,800 TECH
+|[[Gear|<span style="color:var(--green-bg)">Warrior's Ring</span>]], {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Gloria Age==
+'''Rewards:''' Time Chest +100, HMS Victory Blueprint
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Industrial Revolution Token (Londorn)
+|10,200 TECH
+|Refine Speedup +30m, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Trade Token (Berfast)
+|10,700 FAME
+|Refine Speedup +30m, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Railway Token (Cardeff)
+|10,200 CIV
+|Refine Speedup +30m, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Chartism Token (Bernikam)
+|11,300 CIV
+|Refine Speedup +30m, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Worldshaking Force==
+'''Rewards:''' [[Tokamak|<span style="color:var(--orange-text)">Tokamak</span>]], Refine Speedup +2h
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Quebec Agreement (Liverpond)
+|10,700 CIV
+|45 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Weapon-Grade Plutonium (Plymous)
+|10,400 CIV
+|50 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Security Report (Brightown)
+|12,300 CIV
+|55 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Weapon-Grade Uranium (Adinburgh)
+|11,300 FAME
+|60 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Tube Alloys (Southempton)
+|10,200 TECH
+|65 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Royal Society==
+'''Rewards:''' Mecha Research Manual +10, Dragon Research Manual +10
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Newton's Thesis (Plymous)
+|9,800 CIV
+|Zombie Research Manual +5, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Kelvin's Thesis (Berfast)
+|11,300 CIV
+|Demon Research Manual +5, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Rutherford's Thesis (Canterberry)
+|12,200 CIV
+|Angel Research Manual +5, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Lister's Thesis (Cardeff)
+|10,100 CIV
+|Mutant Research Manual +5, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Britland Tourism Promotion==
+'''Rewards:''' Britland Treasure Map +50, Ad Chest +100
+{| class="wikitable"
+!Event
+!Rewards
+|-
+|Watch a sailor recruitment ad (Londorn)
+|Ad Chest +10, Travel Speedup +30m
+|-
+|Watch a luxury cruis ad (Plymous)
+|Ad Chest +10, Travel Speedup +30m
+|-
+|Watch an ad of the Trading Company (Adinburgh)
+|Ad Chest +10, Travel Speedup +30m
+|-
+|Watch a gentleman training ad (Bernikam)
+|Ad Chest +10, Travel Speedup +30m
+|}
+
+==Changing Dynasty==
+'''Rewards:''' [[Templar Emblem|<span style="color:var(--blue-text)">Templar Emblem</span>]], Stone +2000
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Knytlinga Emblem (Liverpond)
+|10,700 FTH
+|Clone Speedup +30m, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Normandy Emblem (Southempton)
+|11,900 FTH
+|Clone Speedup +30m, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Plantagenet Emblem (Bernikam)
+|12,000 FTH
+|Clone Speedup +30m, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Bizarre Cuisine==
+'''Rewards:''' Organ Slime +100, [[Licker's Tongue|<span style="color:var(--blue-text)">Licker's Tongue</span>]]
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Black Pudding (Cardeff)
+|10,400 FAME
+|Zombie Cell +500, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Haggis (Southempton)
+|11,900 CIV
+|Demon Cell +500, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Steak & Kidney Pie (Canterberry)
+|Display 1 of: [[Isle Turnip|<span style="color:var(--green-text)">Isle Turnip</span>]], [[Pear Basket|<span style="color:var(--green-text)">Pear Basket</span>]], [[Mutant Fungus|<span style="color:var(--green-text)">Mutant Fungus</span>]]
+|Mutant Cells +500, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Capital of Literature==
+'''Rewards:''' 
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Wuthering Heights (Londorn)
+|10,400 FTH
+|1,500 B-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Hamlet (Bernikam)
+|11,600 FTH
+|1,500 B-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|David Copperfield (Liverpond)
+|10,700 FTH
+|1,500 B-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Pride & Prejudice (Southempton)
+|11,900 FTH
+|1,500 B-tads, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Britland]]

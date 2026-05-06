@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Philosophie Zoologique
+|class_id=22920
+|rank=SSS
+|affct=TECH
+|source=
+|description=In this book, Lamarck proposed an explanation of species feature changes based on environmental influences, challenging many traditional biological classification and inheritance concepts of the time. He explained how biological forms and habits gradually changed with environmental shifts, paving the way for understanding the principles of biological diversity.
+|fame=62
+|art=59
+|fth=76
+|civ=57
+|tech=108
+|ss1=Snail Leadership +3<br>Per 5 TECH Relics awakened, Snail HP +50<br>Per 5 TECH Relics awakened, Snail RUSH +5<br>TECH Relics Awakened: 100/100
+|ss2=Snail Leadership +4<br>Per 5 TECH Relics awakened, Snail HP +80<br>Per 5 TECH Relics awakened, Snail RUSH +8<br>TECH Relics Awakened: 100/100
+|ss3=Snail Leadership +5<br>Per 5 TECH Relics awakened, Snail HP +110<br>Per 5 TECH Relics awakened, Snail RUSH +11<br>TECH Relics Awakened: 100/100
+|ss4=Snail Leadership +7<br>Per 5 TECH Relics awakened, Snail HP +170<br>Per 5 TECH Relics awakened, Snail RUSH +17<br>TECH Relics Awakened: 100/100
+|ss5=Snail Leadership +9<br>Per 5 TECH Relics awakened, Snail HP +230<br>Per 5 TECH Relics awakened, Snail RUSH +23<br>TECH Relics Awakened: 100/100
+|ss6=Snail Leadership +12<br>Per 5 TECH Relics awakened, Snail HP +320<br>Per 5 TECH Relics awakened, Snail RUSH +32<br>TECH Relics Awakened: 100/100
+|ss7=Snail Leadership +12<br>Per 5 TECH Relics awakened, Snail HP +320<br>Per 5 TECH Relics awakened, Snail RUSH +32<br>TECH Relics Awakened: 100/100<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +3%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+|mirage={{Mirage|name=Philosophy Circle|reward={{RewardIconWithLink|Cultivation Fluid, +10|orange}}
+|3name=dungeon_event@4826_1|3rec=261.65M|3atk=700052|3defense=397961|3hp=102409842|3weak=60187
+|4name=dungeon_event@4827_1|4rec=334.83M|4atk=817593|4defense=463798|4hp=160659897|4weak=65167
+|5name=dungeon_event@4828_1|5rec=444.61M|5atk=997914|5defense=562563|5hp=290477943|5weak=71883
+|6name=dungeon_event@4829_1|6rec=583.64M|6atk=1259677|6defense=687638|6hp=505309661|6weak=79567
+|Arec=782.17M|Aatk=1814804|Adefense=888383|Ahp=832569188|Aweak=89430
+}}}}

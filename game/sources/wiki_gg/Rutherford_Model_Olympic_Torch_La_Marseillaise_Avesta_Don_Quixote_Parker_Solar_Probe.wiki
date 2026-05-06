@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=565
+|relics=Rutherford Model,Olympic Torch,La Marseillaise,Avesta,Don Quixote,Parker Solar Probe
+|rank=orange
+|amount=6
+|category=self
+|description=All Minion HARD Stats +1.2%
+}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Pompeii
+|class_id=22026
+|rank=Blue
+|affct=ART
+|birthday=12-18
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Dec 18, 1833 AD, artist Bryullov finished the Pompeii.<br>Pompeii is a painting by the Russian painter Bryullov that depicts the doom that a volcanic eruption brought upon Pompeii. In the painting, the volcano is on fire, tall buildings are collapsing, and people wear horrified expressions while running for their lives. The painting is epic and has a complex composition. Through several groups of Pompeii citizens, the horror, environment, and action are effectively conveyed. The painter combines realism and romanticism through people's emotions during the doomsday and their willingness to help each other, leaving a significant impact on the audience.
+|fame=22
+|art=46
+|fth=28
+|civ=32
+|tech=26
+|ss1=Free Gene Speedup (Demon) +6m
+|ss2=Free Gene Speedup (Demon) +12m
+|ss3=Free Gene Speedup (Demon) +18m
+|ss4=Free Gene Speedup (Demon) +30m
+|ss7=Free Gene Speedup (Demon) +30m<br>Free Gene Speedup (Demon) +30m (Awakened)
+|skill1=[[File:Surfclam skill I.png|50px]]Place in a Surf Clam Biozilla: In Species War, Troop DMG toward heroes +1%
+}}

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=AMS
+|class_id=22333
+|rank=SS
+|affct=TECH
+|birthday=06-15
+|source=Lottery Machine No.2 (0.42%), Wishing (1.6%)
+|description=On Jun 15, 2011 AD, the Alpha Magnetic Spectrometer was launched into space by Endeavor to start its detection.<br>AMS, aka Alpha Magnetic Spectrometer, is a particle physics experiment module that detects dark matter and measures antimatter. Its main component is a massive permanent magnet, and it is made up of several high-precision detectors, such as the star tracker and the Ring imaging Cherenkov detector, to identify the characteristics of the radiation and particles as they pass through and support research on the existence of dark matter and antimatter.
+|fame=67
+|art=47
+|fth=74
+|civ=54
+|tech=105
+|ss1=Snail ATK +20<br>Mecha Minion HP +2%<br>Per 3 TECH Relics awakened, Snail ATK +4<br>TECH Relics Awakened: 105/105
+|ss2=Snail ATK +30<br>Mecha Minion HP +3%<br>Per 3 TECH Relics awakened, Snail ATK +6<br>TECH Relics Awakened: 105/105
+|ss3=Snail ATK +40<br>Mecha Minion HP +4%<br>Per 3 TECH Relics awakened, Snail ATK +8<br>TECH Relics Awakened: 105/105
+|ss4=Snail ATK +60<br>Mecha Minion HP +6%<br>Per 3 TECH Relics awakened, Snail ATK +12<br>TECH Relics Awakened: 105/105
+|ss5=Snail ATK +80<br>Mecha Minion HP +8%<br>Per 3 TECH Relics awakened, Snail ATK +16<br>TECH Relics Awakened: 105/105
+|ss6=Snail ATK +110<br>Mecha Minion HP +11%<br>Per 3 TECH Relics awakened, Snail ATK +22<br>TECH Relics Awakened: 105/105
+|ss7=Snail ATK +110<br>Mecha Minion HP +11%<br>Per 3 TECH Relics awakened, Snail ATK +22<br>TECH Relics Awakened: 105/105<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Generate Time Chests by +30%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail TECH +600
+|mirage={{Mirage|name=New Magnetic Spectrometer|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Astrotracker|3rec=33.75M|3atk=136969|3defense=91378|3hp=5304124|3weak=19314
+|4name=Cherenkov Detector|4rec=49.51M|4atk=170210|4defense=113553|4hp=7976398|4weak=21647
+|5name=Electromagnetic Calorimeter|5rec=67.82M|5atk=208816|5defense=139309|5hp=11314191|5weak=27299
+|Arec=88.57M|Aatk=252582|Adefense=168507|Ahp=15895324|Aweak=32458
+}}}}

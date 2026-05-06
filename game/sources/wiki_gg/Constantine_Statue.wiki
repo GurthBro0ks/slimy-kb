@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Constantine Statue
+|class_id=22222
+|rank=SSS
+|affct=FAME
+|birthday=07-21
+|source=
+|description=On July 21, 301 AD, this statue of Emperor Constantine the Great was completed.<br>Emperor Constantine the Great was a very important ruler of the Roman Empire. He re-unified the Roman Empire and implemented a series of reforms. He was also the first Roman ruler to convert to Christianity and is honored as Emperor Constantine the Great. This lifelike statue shows extraordinary majesty of this imperial monarch. It is currently housed in a museum in Rome.
+|fame=108
+|art=55
+|fth=54
+|civ=69
+|tech=76
+|ss1=Snail DEF +30<br>Zombie Minion RUSH +3%<br>Per 3 FAME Relics awakened, Snail ATK +6<br>FAME Relics Awakened: 105/105
+|ss2=Snail DEF +40<br>Zombie Minion RUSH +4%<br>Per 3 FAME Relics awakened, Snail ATK +7<br>FAME Relics Awakened: 105/105
+|ss3=Snail DEF +50<br>Zombie Minion RUSH +5%<br>Per 3 FAME Relics awakened, Snail ATK +8<br>FAME Relics Awakened: 105/105
+|ss4=Snail DEF +70<br>Zombie Minion RUSH +7%<br>Per 3 FAME Relics awakened, Snail ATK +10<br>FAME Relics Awakened: 105/105
+|ss5=Snail DEF +90<br>Zombie Minion RUSH +9%<br>Per 3 FAME Relics awakened, Snail ATK +12<br>FAME Relics Awakened: 105/105
+|ss6=Snail DEF +120<br>Zombie Minion RUSH +12%<br>Per 3 FAME Relics awakened, Snail ATK +15<br>FAME Relics Awakened: 105/105
+|ss7=Snail DEF +120<br>Zombie Minion RUSH +12%<br>Per 3 FAME Relics awakened, Snail ATK +15<br>FAME Relics Awakened: 105/105<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, B-tads gained +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|mirage={{Mirage|name=Edict of Milan|reward={{RewardIconWithLink|FAME Master Scroll, +40|orange}}
+|3name=Believer|3rec=102.16M|3atk=281234|3defense=187622|3hp=19104724|3weak=34858
+|4name=Clergy|4rec=131.64M|4atk=343419|4defense=229108|4hp=26972737|4weak=39012
+|5name=Licinius|5rec=164.85M|5atk=413447|5defense=275827|5hp=36623794|5weak=44630
+|6name=Constantine I|6rec=203.10M|6atk=494120|6defense=329647|6hp=49350157|6weak=50496
+|Arec=253.02M|Aatk=584877|Adefense=390195|Ahp=64812867|Aweak=56210
+}}}}

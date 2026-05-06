@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Gene Map,Dolly Specimen
+|rank=purple
+|amount=2
+|category=home
+|description=The Fungus Farm has a +12% chance to produce Wonder Fungi
+}}
+[[Category:Home]]

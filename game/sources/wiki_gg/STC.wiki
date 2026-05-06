@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=STC
+|class_id=21443
+|rank=SSS
+|affct=TECH
+|source=
+|description=Forged in humanity’s Golden Age, this template housed the full archive of adaptive industrial design. From orbital foundries to Titan-class warframes, it auto-generated blueprints fit for any planetary terrain. Local matter was restructured via atomic transmutation—instant hardware, zero logistics. Lost in the Rebellion, only fractured schematics survive. Every shard sparks a war.
+|fame=73
+|art=54
+|fth=70
+|civ=58
+|tech=107
+|ss1=Snail Leadership +3<br>Per 60 T7+ Minions in battle:<br>> Troop HP +30<br>Per 60 Constellation LVLs, Snail DEF +3<br>Constellation LVLs: 1200/1200
+|ss2=Snail Leadership +4<br>Per 60 T7+ Minions in battle:<br>> Troop HP +40<br>Per 60 Constellation LVLs, Snail DEF +6<br>Constellation LVLs: 1200/1200
+|ss3=Snail Leadership +5<br>Per 60 T7+ Minions in battle:<br>> Troop HP +50<br>Per 60 Constellation LVLs, Snail DEF +9<br>Constellation LVLs: 1200/1200
+|ss4=Snail Leadership +7<br>Per 60 T7+ Minions in battle:<br>> Troop HP +70<br>Per 60 Constellation LVLs, Snail DEF +15<br>Constellation LVLs: 1200/1200
+|ss5=Snail Leadership +9<br>Per 60 T7+ Minions in battle:<br>> Troop HP +90<br>Per 60 Constellation LVLs, Snail DEF +21<br>Constellation LVLs: 1200/1200
+|ss6=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop HP +120<br>Per 60 Constellation LVLs, Snail DEF +30<br>Constellation LVLs: 1200/1200
+|ss7=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop HP +120<br>Per 60 Constellation LVLs, Snail DEF +30<br>Constellation LVLs: 1200/1200<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop Fire DMG +30
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion RUSH +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop Earth DMG +30
+|mirage={{Mirage|name=Dark Tech Era|reward={{RewardIconWithLink|Relic RF, +20|orange}}
+|3name=dungeon_event@4841_1|3rec=77.54M|3atk=229255|3defense=152983|3hp=13504620|3weak=30428
+|4name=dungeon_event@4842_1|4rec=101.97M|4atk=280805|4defense=187361|4hp=19066180|4weak=34827
+|5name=dungeon_event@4843_1|5rec=130.91M|5atk=341774|5defense=228076|5hp=26467218|5weak=39306
+|6name=dungeon_event@4844_1|6rec=163.10M|6atk=409841|6defense=273371|6hp=36239631|6weak=45655
+|Arec=200.38M|Aatk=488360|Adefense=325817|Ahp=48178584|Aweak=52063
+}}}}

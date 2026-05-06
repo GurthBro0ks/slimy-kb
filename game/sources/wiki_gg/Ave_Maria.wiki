@@ -1,0 +1,24 @@
+{{Missing Info|specifics=<br>Categories}}
+
+{{CargoRelic
+|name=Ave Maria
+|class_id=22551
+|rank=AA
+|affct=FTH
+|birthday=12-26
+|source=Lottery Machine No.3 (0.12%)
+|description=On Dec 26, 1545 AD, Caccini completed the famous Ave Maria.<br>The Ave Maria is a vocal piece by composer Giulio Caccini, set in the background of Johann Sebastian Bach's Prelude in C major. It is a soprano aria with a wide vocal range and lyrics from a Catholic prayer to the Virgin Mary. Caccini's skillful combination of melody and lyrics creates a pure and lofty atmosphere, making it a classic of religious music.
+|fame=36
+|art=45
+|fth=69
+|civ=33
+|tech=45
+|ss1=Merge 1 Blue Stardust: Gain 1 more by 2%<br>Merge 1 Purple Stardust: Gain 1 more by 2%
+|ss2=Merge 1 Blue Stardust: Gain 1 more by 3%<br>Merge 1 Purple Stardust: Gain 1 more by 3%
+|ss3=Merge 1 Blue Stardust: Gain 1 more by 4%<br>Merge 1 Purple Stardust: Gain 1 more by 4%
+|ss4=Merge 1 Blue Stardust: Gain 1 more by 6%<br>Merge 1 Purple Stardust: Gain 1 more by 6%
+|ss5=Merge 1 Blue Stardust: Gain 1 more by 8%<br>Merge 1 Purple Stardust: Gain 1 more by 8%
+|ss7=Merge 1 Blue Stardust: Gain 1 more by 8%<br>Merge 1 Purple Stardust: Gain 1 more by 8%<br>Merge 1 Blue Stardust: Gain 1 more by 7% (Awakened)
+|skill1=[[File:Goldfish skill II.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Fire RES +30
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FTH +10
+}}

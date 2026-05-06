@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Sorron's Eye
+|class_id=21219
+|rank=AA
+|affct=FAITH
+|birthday=05-30
+|source=
+|description=On May 30, 1000 AD, Sorron's eye was made into a ring.<br>Sorron's eye was made into a strange ring by the Great Wizard, which could emit dark magical light. The strangest thing about Sorron's eye was its power to manipulate people's minds at will. To use the ring, one must have a strong will and determination.
+|fame=42
+|art=32
+|fth=69
+|civ=39
+|tech=46
+|ss1=Per 30 Mutant Minions in battle:<br>> Troop ATK +4<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +4
+|ss2=Per 30 Mutant Minions in battle:<br>> Troop ATK +8<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +8
+|ss3=Per 30 Mutant Minions in battle:<br>> Troop ATK +12<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +12
+|ss4=Per 30 Mutant Minions in battle:<br>> Troop ATK +20<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +20
+|ss5=Per 30 Mutant Minions in battle:<br>> Troop ATK +28<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +28
+|ss7=Per 30 Mutant Minions in battle:<br>> Troop ATK +28<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +28<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: Snail RUSH +30
+|skill2=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: Snail DEF +30
+}}

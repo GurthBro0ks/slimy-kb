@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Childhood,Cell Inaugural Issue,Neural Synchronization Interface,Self-Portrait with Bandaged Ear,Aranyakas
+|rank=orange
+|amount=5
+|category=home
+|description=Wormhole Refinement SPD +4%
+}}
+[[Category:Home]]
+[[Category:Wormhole Refinement SPD Boost]]

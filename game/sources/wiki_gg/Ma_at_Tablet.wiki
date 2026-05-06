@@ -1,0 +1,247 @@
+==Ma'at Tablet== 
+
+[[File:Ma'at tablet alt.png|alt="An image of the Ma'at Tablet from the upgrade page"|100px|right|frameless]]
+
+[[File:Ma'at Tablet.png|100px|left|alt=Ma'at Tablet]]
+A magic slate that traverses time! Grants Sand of Time in explorations, the sand can be converted to Speedups!
+
+1. Obtain by defeating the [[Kemet]] Apostle [[Kemet Apostles#Eli Basha|Eli Basha]].
+{{clear}}
+
+The Ma'at Tablet is a unique Realm Trait that can be used to travel to the past or future of each [[Realms|Realm]]. The tablet can be equipped during exploration to collect Sand of Time which can be used to buy various Speedups.
+
+[[Kemet]] is the only Realm where you can travel to the past or future without the Ma'at Tablet equipped. Upgrading the tablet allows you to travel to the past and future of previous [[Realms|realms]].
+
+==Upgrades==
+Upgrading the Ma'at Tablet requires Ma'at Tablet Frags. These fragments can be obtained by defeating the final two apostles in the Past and Future of each realm. The only regions to break this rule are [[Kemet]], in which all four future apostles drop a fragment, and [[Murika]] which does not follow the conventions set by previous time travel realms.
+
+The table below contains a list of all currently available Past and Future Apostles that drop a Ma'at Tablet Frag on defeat.
+
+{|class="mw-collapsible mw-collapsed wikitable"
+!colspan="2"|Realm
+!Apostle
+|-
+|rowspan="6"|Kemet
+|rowspan="2"|Past
+|[[Past and Future Apostles#Kemet|Sphinx]]
+|-
+|[[Past and Future Apostles#Kemet|Forerunner]]
+|-
+|rowspan="4"|Future
+|[[Past and Future Apostles#Kemet|Dr. Zombie]]
+|-
+|[[Past and Future Apostles#Kemet|Nito SSR]]
+|-
+|[[Past and Future Apostles#Kemet|Horus]]
+|-
+|[[Past and Future Apostles#Kemet|Doomsday Pharoah]]
+|-
+
+|rowspan="4"|Koryeo
+|rowspan="2"|Past
+|[[Past and Future Apostles#Koryeo|Scholar Ryu]]
+|-
+|[[Past and Future Apostles#Koryeo|Admiral Yi]]
+|-
+|rowspan="2"|Future
+|[[Past and Future Apostles#Koryeo|Steward]]
+|-
+|[[Past and Future Apostles#Koryeo|Conductor]]
+|-
+
+|rowspan="4"|Yamato
+|rowspan="2"|Past
+|[[Past and Future Apostles#Yamato|Four Symbols Array]]
+|-
+|[[Past and Future Apostles#Yamato|Immortal Xu]]
+|-
+|rowspan="2"|Future
+|[[Past and Future Apostles#Yamato|Professor of Archaeology]]
+|-
+|[[Past and Future Apostles#Yamato|Immortal Mew Soul]]
+|-
+
+|rowspan="4"|Cathay
+|rowspan="2"|Past
+|[[Past and Future Apostles#Cathay|Mythic Shark Hawk]]
+|-
+|[[Past and Future Apostles#Cathay|Duckhorse]]
+|-
+|rowspan="2"|Future
+|[[Past and Future Apostles#Cathay|Imperial Guard]]
+|-
+|[[Past and Future Apostles#Cathay|Emperor]]
+|-
+
+|rowspan="1"|Murika
+|rowspan="1"|Future
+|[[Past and Future Apostles#Murika|Professor Superpower]]
+|-
+
+|rowspan="4"|Britland
+|rowspan="2"|Past
+|[[Past and Future Apostles#Britland|Will Wallace]]
+|-
+|[[Past and Future Apostles#Britland|Viking Chief]]
+|-
+|rowspan="2"|Future
+|[[Past and Future Apostles#Britland|Consul]]
+|-
+|[[Past and Future Apostles#Britland|Sky Carrier]]
+|-
+
+|rowspan="4"|Hellas
+|rowspan="2"|Past
+|[[Past and Future Apostles#Hellas|Aquarius Warrior]]
+|-
+|[[Past and Future Apostles#Hellas|Pisces Warrior]]
+|-
+|rowspan="2"|Future
+|[[Past and Future Apostles#Hellas|Dog Warrior]]
+|-
+|[[Past and Future Apostles#Hellas|Pig Warrior]]
+|-
+
+|}
+
+
+==Effect==
+Each level of the Ma'at Tablet requires one [[Ma'at Tablet#Upgrading | Ma'at Tablet Frag]] and increases the amount of Sand of Time gained when exploring by 1%. New [[Realms|realms]] are unlocked for time travel every 4 levels as denoted by the table below.
+
+{|class="wikitable"
+!Lv.
+!Efect
+!Realm unlocked
+|-
+|1||When exploring, Sand of Time +30%||
+|-
+|4||When exploring, Sand of Time +33%|| [[Koryeo]]
+|-
+|8||When exploring, Sand of Time +37%|| [[Yamato]]
+|-
+|12||When exploring, Sand of Time +41%|| [[Cathay]]
+|-
+|16||When exploring, Sand of Time +45%|| [[Murika]]
+|-
+|20||When exploring, Sand of Time +49%|| [[Britland]]
+|-
+|24||When exploring, Sand of Time +53%|| [[Hellas]]
+|-
+|28||When exploring, Sand of Time +57%|| [[Bharata]]
+|-
+|30||When exploring, Sand of Time +60%||
+|}
+
+==Sand of Time Exchange==
+Sand of Time collected during exploration can be exchanged for speedups within the Ma'at Tablet upgrade page. The trait will have a notification if you have enough Sand of Time to redeem a speedup.
+
+{|class="wikitable"
+!Sand Cost !!Speedup Type
+|-
+|400 {{RewardIconWithText|Ma'at Sand of Time}}|| {{RewardIconWithText|Clone Speedup, +1h}}
+|-
+|500 {{RewardIconWithText|Ma'at Sand of Time}}|| {{RewardIconWithText|Refine Speedup, +1h}}
+|-
+|600 {{RewardIconWithText|Ma'at Sand of Time}}|| {{RewardIconWithText|Gene Speedup, +1h}}
+|}
+
+==Unsealing==
+Once the Ma'at Tablet has been upgraded to the max level (30), you have the option to Unseal the Spirit trapped inside. Doing this costs [[Weekly Events|300 Magic Potion]]. Unsealing releases the spirit Apocalypse Mage, who will gift you Gear Chest +100 and Glue +50 as a thank you. 
+
+Upgrading Apocalypse Mage is quite expensive, but doing so gives permanent buffs to your snail. 
+{|class="mw-collapsible mw-collapsed wikitable"
+! rowspan="2"|Tier
+! rowspan="2"|Potion Cost 
+! rowspan="2"|B-tads Cost
+! colspan="4"|Cumulative effect, or
+|-
+!HP +
+!ATK + 
+!DEF +
+!RUSH
+|-
+|T1||||||400||20||20||20
+|-
+|T2||100||4k||800||40||40||40
+|-
+|T3||110||6k||1,200||60||60||60
+|-
+|T4||120||8k||1,600||80||80||80
+|-
+|T5||130||10k||colspan="4" style="text-align:center"|When the Ma'at Tablet is equipped, Sand of Time gained in explorations +5%
+|-
+|T6||150||12k||2,200||110||110||110
+|-
+|T7||170||14k||2,800||140||140||140
+|-
+|T8||190||16k||3,400||170||170||170 
+|-
+|T9||210||18k||4,000||200||200||200
+|-
+|T10||230||20k||colspan="4" style="text-align:center"|When the Ma'at Tablet is equipped, Sand of Time gained in explorations +10%
+|-
+|T11||260||22k||4,800||240||240||240 
+|-
+|T12||290||24k||5,600||280||280||280
+|-
+|T13||320||26k||6,400||320||320||320
+|-
+|T14||350||28k||7,200||360||360||360
+|-
+|T15||380||30k||colspan="4" style="text-align:center"|When the Ma'at Tablet is equipped, Sand of Time gained in explorations +15%
+|-
+|T16||420||32k||8,200||410||410||410 
+|-
+|T17||460||34k||9,200||460||460||460
+|-
+|T18||500||36k||10,200||510||510||510
+|-
+|T19||540||38k||11,200||560||560||560
+|-
+|T20||580||40k||colspan="4" style="text-align:center"|When the Ma'at Tablet is equipped, Sand of Time gained in explorations +20%
+|-
+|T21||630||42k||12,400||620||620||620
+|-
+|T22||680||44k||13,600||680||680||680
+|-
+|T23||730||46k||14,800||740||740||740
+|-
+|T24||780||48k||16,000||800||800||800
+|-
+|T25||830||50k||colspan="4" style="text-align:center"|When the Ma'at Tablet is equipped, Sand of Time gained in explorations +25%
+|-
+|T26||890||52k||17,600|||880||880||880
+|-
+|T27||950||54k||19,200||960||960||960 
+|-
+|T28||1,010||56k||20,800||1040||1040||1,040
+|-
+|T29||1,070||58k||22,400||1,120||1,120||1,120
+|-
+|T30||1130||60k||colspan="4" style="text-align:center"|When the Ma'at Tablet is equipped, Sand of Time gained in explorations +30%
+|-
+|T31||1,200||62k||24,400||1,120||1,120||1,120
+|-
+|T32||1,270||64k||26,400||1,320||1,320||1,320
+|-
+|T33||1,340||66k||28,400||1,420||1,420||1,420
+|-
+|T34||1,410||68k||30,400||1,520||1,520||1,520
+|-
+|T35||1,480||70k||colspan="4" style="text-align:center"|When the Ma'at Tablet is equipped, Sand of Time gained in explorations +35%
+|-
+|T36||1560||72k||33,390||1,669||1,669||1,669
+|-
+|T37||1640||74k||35,833||1,791||1,791||1,791
+|-
+|T38||1720||76k||38,276||1,913||1,913||1,913
+|-
+|T39||1800||78k||40,720||2,036||2,036||2,036
+|-
+|T40||2,000||80k||colspan="4" style="text-align:center"|When the Ma'at Tablet is equipped, Sand of Time gained in explorations +40%
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Kemet]]
+[[Category:Realm Trait]]

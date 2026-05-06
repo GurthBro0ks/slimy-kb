@@ -1,0 +1,44 @@
+{{Missing Info|specifics=Awakened}}
+{{CargoRelic
+|name=Watt Steam Engine
+|rank=SS
+|affct=TECH
+|birthday=12-15
+|source=Grandmaster Scrolls (1%), Lottery Machine (0.12%), Relic Forge (100 Relic RF), Wishing (0.1%)
+|description=On Dec 15, 1776 AD, Watt improved and made the first usable steam engine.
+
+After over ten years of hard work, Watt invented the steam engine. Five years later, he converted the linear movement of the steam engine into circular motion, making it the engine most widely used in industry.
+
+[Brief History of Steam Engines]
+
+In the mid-18th century, the early industrial steam engine was invented. In the early 19th century, the first steam engine ship was successfully tested. In the middle of the 19th century, the "Rocket" steam locomotive was built, which was the most advanced steam engine of its time.
+|fame=58
+|art=47
+|fth=69
+|civ=70
+|tech=103
+|ss1=Snail RUSH +20<br>W-tads collected from Drill Rig +2%<br>Per 30 Fissure LVLs, Snail ATK +2<br>Fissure LVL: 1,200/1,200
+|ss2=Snail RUSH +30<br>W-tads collected from Drill Rig +3%<br>Per 30 Fissure LVLs, Snail ATK +3<br>Fissure LVL: 1,200/1,200
+|ss3=Snail RUSH +40<br>W-tads collected from Drill Rig +4%<br>Per 30 Fissure LVLs, Snail ATK +4<br>Fissure LVL: 1,200/1,200
+|ss4=Snail RUSH +60<br>W-tads collected from Drill Rig +6%<br>Per 30 Fissure LVLs, Snail ATK +6<br>Fissure LVL: 1,200/1,200
+|ss5=Snail RUSH +80<br>W-tads collected from Drill Rig +8%<br>Per 30 Fissure LVLs, Snail ATK +8<br>Fissure LVL: 1,200/1,200
+|ss6=Snail RUSH +110<br>W-tads collected from Drill Rig +11%<br>Per 30 Fissure LVLs, Snail ATK +11<br>Fissure LVL: 1,200/1,200
+|ss7=Snail RUSH +110<br>W-tads collected from Drill Rig +11%<br>Per 30 Fissure LVLs, Snail ATK +11<br>Fissure LVL: 1,200/1,200<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Britland skill III.png|50x50px]]Place in Britland Museum: In Britland, 2x White Card Drops +15%
+|skill2=[[File:Britland skill III.png|50x50px]]Place in Britland Museum: In Britland, 2x Green Card Drops +15%<
+|skill3=[[File:Quarry skill III.png|50x50px]]Place in Quarry: Quarry Max Cap +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:RUSH Boost]]
+[[Category:Drill Collection Boost]]
+[[Category:ATK Boost]]
+[[Category:Fissure Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Quarry Skill]]
+[[Category:Quarry Output Boost]]
+[[Category:Relic Boost]]
+[[Category:RUSH Boost]]
+[[Category:Mechanic Boost]]

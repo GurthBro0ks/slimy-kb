@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Viking Horn
+|rank=Blue
+|affct=CIV
+|birthday=11-27
+|source=Lottery Machine (0.03%), Wishing (0.82%)
+|description=On Nov 27, 2014, the Viking Horn, which can awaken the sleeping gods, was blown again. 
+
+The Viking Horn is made of gold and dragon horns. Its sound is so loud that it can shake the earth. Only a person with breath deep enough can blow it. This time, it is blown again to awaken the son of Odin and the gods to join the battlefield. This means that all moralities of the human world will be disregarded and wars will soon break out all over the world. Skoll and Hati, the wolves, will devour the sun and moon and make the world fall into eternal darkness. Only when the horn is blown again can the world's order be restored.
+|fame=28
+|art=28
+|fth=29
+|civ=45
+|tech=24
+|ss1=Per 10 Dragon Minions in battle, Troop HARD Stats +1
+|ss2=Per 10 Dragon Minions in battle, Troop HARD Stats +2
+|ss3=Per 10 Dragon Minions in battle, Troop HARD Stats +3
+|ss4=Per 10 Dragon Minions in battle, Troop HARD Stats +5
+|ss7=Per 10 Dragon Minions in battle, Troop HARD Stats +5<br>Per 10 Dragon Minions in battle, Troop HARD Stats +3 (Awakened)
+|skill1=[[File:Murika skill I.png|50px]] Place in Murikan Museum: In Murika, Snail ATK +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:CIV Relics]]
+[[Category:Blue CIV Relics]]
+[[Category:Dragon Minion HARD Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:RUSH Boost]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Lottery Draws]]

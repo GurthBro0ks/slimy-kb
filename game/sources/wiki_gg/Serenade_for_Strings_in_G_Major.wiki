@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Serenade for Strings in G Major
+|class_id=22816
+|rank=SSS
+|affct=ART
+|source=
+|description= Serenade for Strings in G Major is a string ensemble work composed by Mozart. This piece is a model of mid-18th-century instrumental serenades, showcasing the elegance and refinement of Mozart's music, as well as his exceptional control over melody and harmony. Originally composed for a string orchestra, it has been adapted into various versions, including quartets and quintets, with the quartet version being particularly popular. Today, it is one of Mozart's most famous and beloved works, frequently performed on various occasions and often encountered by classical music beginners.
+|fame=55
+|art=107
+|fth=67
+|civ=71
+|tech=62
+|ss1=Snail DEF +30<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +30<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +12<br>Souls offered: 300/300 types
+|ss2=Snail DEF +40<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +40<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +16<br>Souls offered: 300/300 types
+|ss3=Snail DEF +50<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +50<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +20<br>Souls offered: 300/300 types
+|ss4=Snail DEF +70<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +70<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +28<br>Souls offered: 300/300 types
+|ss5=Snail DEF +90<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +90<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +36<br>Souls offered: 300/300 types
+|ss6=Snail DEF +120<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +48<br>Souls offered: 300/300 types
+|ss7=Snail DEF +120<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +48<br>Souls offered: 300/300 types<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +30%
+|skill2=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Cap +30%
+|skill3=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: This Relic's ART +15
+}}

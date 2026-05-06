@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=703
+|relics=Fountain,La mer,The Dance,Dichterliebe
+|rank=purple
+|amount=4
+|category=self
+|description=Per 10 Protolith Chests opened, Snail DEF +8;Opened Protolith Chests: 500/500
+}}

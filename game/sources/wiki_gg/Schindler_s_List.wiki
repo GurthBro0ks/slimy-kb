@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Schindler's List
+|rank=AAA
+|affct=CIV
+|birthday=02-21
+|source=Fragment Crafting (1.5%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Soul Chest (1.5%), Wishing (0.14%)
+|description=On Feb 21, 1944, Oskar Schindler saved 1,200 people from the German army. That day, Schindler went bankrupt. Germany was about to lose the war and the massacre of Jews was getting out of control Schindler sent a list of thousands of Jews to the German officers and spent all his money to set them free. More than a thousand Jews have survived the dark times, and they remembered the great man named Schindler.
+|fame=31
+|art=48
+|fth=47
+|civ=74
+|tech=43
+|ss1=Per Senior Agent defeated, Snail ATK +9<br>Per Senior Agent defeated, Snail DEF +9<br>Senior Agents Defeated: 20/20
+|ss2=Per Senior Agent defeated, Snail ATK +12<br>Per Senior Agent defeated, Snail DEF +12<br>Senior Agents Defeated: 20/20
+|ss3=Per Senior Agent defeated, Snail ATK +15<br>Per Senior Agent defeated, Snail DEF +15<br>Senior Agents Defeated: 20/20
+|ss4=Per Senior Agent defeated, Snail ATK +21<br>Per Senior Agent defeated, Snail DEF +21<br>Senior Agents Defeated: 20/20
+|ss5=Per Senior Agent defeated, Snail ATK +27<br>Per Senior Agent defeated, Snail DEF +27<br>Senior Agents Defeated: 20/20
+|ss7=Per Senior Agent defeated, Snail ATK +27<br>Per Senior Agent defeated, Snail DEF +27<br>Senior Agents Defeated: 20/20<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Lifesteal Rate +10%
+|skill2=[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Lifesteal Effect +10%
+}}
+
+[[Category:Agent Boost]]
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:Lifesteal Rate Boost]]
+[[Category:Lifesteal Effect Boost]]
+[[Category:Mutant Gene Cost Reduction]]
+[[Category:Gene Research Speedup Boost]]

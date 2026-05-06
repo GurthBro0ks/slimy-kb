@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=World Wide Web,Gold Standard,The Nightmare,Gunfire in Pennsylvania,Khonsu Pyramidion,The Lancet
+|rank=orange
+|amount=6
+|category=self
+|description=Per 6 distinct Souls offered, Priest-Snail Assistance DMG +96; Distinct Souls Offered: 300/300
+}}
+[[Category:Self]]
+[[Category:Priest-Snail Boost]]
+[[Category:Enhanced by Distinct Souls Offered]]

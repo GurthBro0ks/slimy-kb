@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Tangram,Basse Yutz Flagons,Ganesha Statue,Woman in Blue,Lissajous Figure
+|rank=blue
+|amount=5
+|category=minion
+|description=Per 10 Minions in battle: Troop RUSH +8
+}}
+[[Category:Minion]]
+[[Category:Minion RUSH Boost]]

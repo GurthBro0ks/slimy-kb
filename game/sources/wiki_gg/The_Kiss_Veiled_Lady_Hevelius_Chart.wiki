@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=531
+|relics=The Kiss,Veiled Lady,Hevelius Chart
+|rank=orange
+|amount=3
+|category=self
+|description=In the Rebel Rocket Cabin: Anti-Gravity Device Base Effect +64%
+}}

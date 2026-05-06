@@ -1,0 +1,43 @@
+{{CargoRelic
+|name=The School of Athens
+|rank=SS
+|affct=ART
+|birthday=07-07
+|source=ART Master Scrolls (10.2%), Fragment Crafting (5.3%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), Super Treasure Maps (5%), Wishing (0.2%)
+|description=On Jul 7, 1510, Raphael painted this mural in Vatican Museums.
+
+This monumental fresco depicts more than fifty philosophers. Philosophers and scientists from different periods and schools gathered on the steps and platforms. It is a rather spectacular group of scholars. Raphael ingeniously put multiple figures above and below the steps to form an interspersed and dispersed composition. The deep arcade extends the depth of field of the drawing, creatively addresses the relationship between people and buildings, and uses clear visual language to reveal human's eternal pursuit of spiritual value.
+
+[Basic info]
+
+Collected by: Vatican Museums<br>Location: St. Peter's Basilica, Vatican City
+|fame=53
+|art=104
+|fth=59
+|civ=60
+|tech=71
+|ss1=Snail DEF +20<br>Snail RUSH +20<br>Upon traveling through an area: Gain +4 INTEL
+|ss2=Snail DEF +30<br>Snail RUSH +30<br>Upon traveling through an area: Gain +6 INTEL
+|ss3=Snail DEF +40<br>Snail RUSH +40<br>Upon traveling through an area: Gain +8 INTEL
+|ss4=Snail DEF +60<br>Snail RUSH +60<br>Upon traveling through an area: Gain +12 INTEL
+|ss5=Snail DEF +80<br>Snail RUSH +80<br>Upon traveling through an area: Gain +16 INTEL
+|ss6=Snail DEF +110<br>Snail RUSH +110<br>Upon traveling through an area: Gain +22 INTEL
+|ss7=Snail DEF +110<br>Snail RUSH +110<br>Upon traveling through an area: Gain +22 INTEL<br>Upon traveling through an area: Gain +20 INTEL (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Blue Reagent Drops +15%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Purple Reagent Drops +15%
+|skill3=[[File:Timemachine skill III.png|50px]]Place in Time Machine: This Relic's ART +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:DEF Boost]]
+[[Category:RUSH Boost]]
+[[Category:INTEL Boost]]
+[[Category:Hellas Museum Boost]]
+[[Category:Hellas Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Time Machine Skill]]
+[[Category:ART Boost]]
+[[Category:Ancient Wood Boost]]
+[[Category:Divine Dragon Descents Boost]]
+[[Category:HP Boost]]
+[[Category:Berserker Boost]]

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Giant Book
+|class_id=22152
+|rank=AA
+|affct=FAITH
+|birthday=12-26
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Dec 26, 508 AD, the Giant Book was created in a Bohemian monastery.<br>The Giant Book is the world's most magnificent medieval manuscript, famous for its large illustration of Satan. Legend has it that the scribe for this book was a monk sentenced to death for violating the monastery's rules. To escape death, he traded his soul to the devil and produced this huge book overnight. However, according to experts, this book was actually compiled by an aficionado over the course of a decade, and the devil within is juxtaposed against the kingdom of heaven, demonstrating the author's understanding of worldly affairs.
+|fame=37
+|art=44
+|fth=67
+|civ=35
+|tech=45
+|ss1=Per 30 Demon Minions in battle:<br>> Troop ATK +8<br>Per 30 Demon Minions in battle:<br>> Troop RUSH +8
+|ss2=Per 30 Demon Minions in battle:<br>> Troop ATK +12<br>Per 30 Demon Minions in battle:<br>> Troop RUSH +12
+|ss3=Per 30 Demon Minions in battle:<br>> Troop ATK +16<br>Per 30 Demon Minions in battle:<br>> Troop RUSH +16
+|ss4=Per 30 Demon Minions in battle:<br>> Troop ATK +24<br>Per 30 Demon Minions in battle:<br>> Troop RUSH +24
+|ss5=Per 30 Demon Minions in battle:<br>> Troop ATK +32<br>Per 30 Demon Minions in battle:<br>> Troop RUSH +32
+|ss7=Per 30 Demon Minions in battle:<br>> Troop ATK +32<br>Per 30 Demon Minions in battle:<br>> Troop RUSH +32<br>Per 30 Demon Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, AFFCT Checks -100
+|skill2=[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion RUSH +4.5%
+}}

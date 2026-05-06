@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Mask of Zorro
+|rank=Blue
+|affct=FAME
+|birthday=09-17
+|source=* Lottery Machine (0.03%), Wish (1.2%)
+* [[Fugitives|Zorro]] (B+B Reward)
+|description=On Sep 17, AD 1575, Torro put on this black mask and launched a big operation.
+
+Miguel, the new governor of Spain, was assassinated. Before he died, he passed his position and official seal to his friend Diego, the top swordsman in Europe. Meanwhile, a masked man appeared from nowhere and started punishing the evil and helping the weak. Zorro's fame spread like wildfire, causing the rulers a headache. Eventually, he killed Colonel Huerta and ended his dictatorship. Zorro managed to escape the siege. Since then, the masked Zorro had become a nightmare for all tyrants.
+|fame=48
+|art=30
+|fth=31
+|civ=23
+|tech=22
+|ss1=Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40
+|ss2=Per Organ implanted, Snail DEF +4<br>Organs Implanted: 40/40
+|ss3=Per Organ implanted, Snail DEF +5<br>Organs Implanted: 40/40
+|ss4=Per Organ implanted, Snail DEF +7<br>Organs Implanted: 40/40
+|ss7=Per Organ implanted, Snail DEF +7<br>Organs Implanted: 40/40<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Compass skill I.png|50px]] Place in Exploration Compass: FAME Checks -5
+}}
+
+[[Category:DEF Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:FAME Boost]]
+[[Category:Angel Minion ATK Boost]]
+[[Category:Gene Research Speedup Boost]]

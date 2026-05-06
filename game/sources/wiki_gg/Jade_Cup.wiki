@@ -1,0 +1,42 @@
+{{CargoRelic
+|name=Jade Cup
+|rank=AAA
+|affct=ART
+|birthday=01-17
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On Jan 17, 716 AD, famous poet Wang Han from Tang Dynasty wrote the famous poem "Cup of Moonlight" after getting drunk.
+
+Chinese poet Wang Han and his friends always got drunk from drinking the wine in the Cup of Moonlight, a kind of foreign product. He wrote a poem, "Fine wine in a moonlight cup, as we raise them to lips, the pipa strikes up fast. Laugh not, as we get drunk on the battlefield, for how many soldiers have returned from the battlefield?" This cup was made with a special type of jade, which glows under the moonlight. After thousands of years, it has become a famous local artifact.
+
+[Moonlight Cup]
+
+Material: Qilian Jade. Types: Large, medium, and small flat-bottomed cups. Technique: Carving. Price: 12,536 yuan.
+|fame=47
+|art=71
+|fth=43
+|civ=43
+|tech=39
+|ss1=Per 30 Angel Minions in battle, Troop ATK +4<br>When crafting a Purple Reagent, +3% to get +1
+|ss2=Per 30 Angel Minions in battle, Troop ATK +8<br>When crafting a Purple Reagent, +4% to get +1
+|ss3=Per 30 Angel Minions in battle, Troop ATK +12<br>When crafting a Purple Reagent, +5% to get +1
+|ss4=Per 30 Angel Minions in battle, Troop ATK +20<br>When crafting a Purple Reagent, +7% to get +1
+|ss5=Per 30 Angel Minions in battle, Troop ATK +28<br>When crafting a Purple Reagent, +9% to get +1
+|ss7=Per 30 Angel Minions in battle, Troop ATK +28<br>When crafting a Purple Reagent, +9% to get +1<br>When crafting a Purple Reagent, +7% to get +1 (Awakened)
+|skill1=[[File:Cathay skill II.png|50px]] Place in Cathay Museum: In Cathay, Snail HP +300
+|skill2=[[File:Cathay skill II.png|50px]] Place in Cathay Museum: In Cathay, Snail ATK +30
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:ART Relics]]
+[[Category:Purple ART Relics]]
+[[Category:Angel Minion ATK Boost]]
+[[Category:Reagent Crafting Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Divine Neutral Chest Drop Boost]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Koryeon Snail Boost]]

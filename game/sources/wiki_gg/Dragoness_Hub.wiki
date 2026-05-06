@@ -1,0 +1,9 @@
+{{Missing Info|specifics=Everything!}}
+{{WIP}}
+
+Unlocked by taking 777 {{RewardIconWithLink|AR2-T1|green}} to the [[Cathay Domain]].
+
+Dragoness Hub has a [[Rare Rent]] of {{RewardIconGeneSegment|Subject Draco}}.
+
+[[Category:Cathay Domain]]
+[[Category:Partners]]

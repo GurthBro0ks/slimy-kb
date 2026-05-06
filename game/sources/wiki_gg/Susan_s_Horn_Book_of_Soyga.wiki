@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=330
+|relics=Susan's Horn,Book of Soyga
+|rank=blue
+|amount=2
+|category=self
+|description=Gaia Cabin Output +5%
+}}

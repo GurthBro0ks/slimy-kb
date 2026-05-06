@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=651
+|relics=Testament of Flamel,The Book of Raziel,Book of Enoch,Oracle of Delphi,Intro to Golden Elixir,Seal of the Ancients
+|rank=blue
+|amount=6
+|category=self
+|description=Snail ATK +90
+}}

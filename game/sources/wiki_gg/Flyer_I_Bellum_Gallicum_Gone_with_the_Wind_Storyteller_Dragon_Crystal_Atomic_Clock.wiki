@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=77
+|relics=Flyer I,Bellum Gallicum,Gone with the Wind,Storyteller,Dragon Crystal,Atomic Clock
+|rank=blue
+|amount=6
+|category=self
+|description=Travel SPD +1.8%
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Mantis Specimen
+|class_id=20258
+|rank=Green
+|affct=FAITH
+|source=
+|description=This lifelike specimen of Mantis comes from an abandoned coliseum. When it was discovered by the investigation team of the Snail Clan, it still maintained the posture of wrestling with its opponent. Because of its well-preserved condition, it played a significant role in the research of Mantis. In addition, expert analysis shows that the injuries were not the cause of death, but the bursting of adrenal glands during training.
+|fame=14
+|art=15
+|fth=31
+|civ=13
+|tech=17
+|ss1=Against Mantises, Troop Casualty -1%
+|ss2=Against Mantises, Troop Casualty -2%
+|ss3=Against Mantises, Troop Casualty -3%
+|ss4=Against Mantises, Troop Casualty -3%
+|ss7=Against Mantises, Troop Casualty -3%<br> (Awakened)
+}}

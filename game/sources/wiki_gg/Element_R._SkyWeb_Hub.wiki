@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Element R.,SkyWeb Hub
+|rank=orange
+|amount=2
+|category=dna
+|description=Mutant Gene Research SPD +4.2%
+}}
+[[Category:DNA]]

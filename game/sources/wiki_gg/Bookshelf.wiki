@@ -1,0 +1,260 @@
+[[File:Bookshelf.jpg|frameless|left]]
+===1. Ranking Boards===
+Every 3 days, the rankings refresh and you get 15K B-tads. Found on floor by Robot Guard.<br>Not cross server.
+
+===2. Book Sharing===
+This allows weekly and monthly sharing for rewards.
+
+Weekly sharing can be activated by buying {{RewardIconWithLink|Top Books|green}} from the [[Museum Shop]].
+
+===3. Art of Trade===
+When you reach the required Power amount you can invest W-tads and instantly get them back plus more.
+
+===4. Home Manual===
+Was bugged, and then moved to the Mailbox.<br>
+Explore Home to unlock hidden features.<br>Complete tasks to get rewards.
+
+===5. Game Tips===
+Guides, tips, and tricks to help you in the game. There are Snail Codes exclusive to you on every page.
+
+{{clear}}
+==Game Tips==
+For those of you who won't read the tips in game, here they are! ''*Snail Codes not included''
+
+===Getting Stronger===
+<span style="color:#0000FF">After the tutorial, collect these Relics at Home:</span><br>
+# [[Mutant Fungus]] in the Fungus Farm
+# [[Gold Toilet Paper]] on the Fridge
+# [[Golden Finger]] at the entrance to the [[Garage]]
+# Talk to the [[Robot Guard]] to get the [[Nuclear Fusion Battery]]
+
+<span style="color:#0000FF">Recommended evolution order:</span><br>
+Organs>ATK>DEF>RUSH>HP>Others<br>You can unlock Gene Form Evolution after reaching max level!<br><span style="color:#8c8c8c ">(Upgrade Combat Stats first to make the game easier)</span>
+
+<span style="color:#0000FF">Snail Form Choice:</span><br>
+# Demon Form has high ATK and DEF and can collect souls
+# Always use Dragon Form after you obtain it as it has the highest stats
+# Use Mutant Form for auto-play to collect Time Chests
+
+<span style="color:#0000FF">Tips for embedding Relics:</span><br>
+# Recommended order: Compass>Home Facility>Biozilla>Museum
+# Make 2 Compass presets: one for battle and the other for exploring
+# Pay attention to Embed Perks<br>
+<span style="color:#8c8c8c ">(T3+ Relics have them)</span>
+
+<span style="color:#0000FF">Techniques for Exploration:</span>
+# Generally, the first page of the INTEL Tree boosts resource gain while the second page boosts stats
+# Prioritize perks related to areas. The further you explore, the more you get
+# Redeem perks related to combat stats before fighting Apostles
+# You don't have to dominate the Apostles. Exploration is more important.<br>
+<span style="color:#8c8c8c ">(If you can't dominate an Apostle, consider exploring the next Realm for buffs)</span>
+
+<span style="color:#0000FF">Tips for Stats Increase:</span>
+# Exploration Speed>Offering Speed>Research Speed>Refinement Speed
+# HARD stats (HP, ATK, RUSH, DEF)>minion stats>AFFCT stats (ART, FTH, FAME, CIV, TECH)
+# Before entering Murika, equally boost HARD stats and minion stats
+# Partners: upgrade Taoraemon and Prince Nerd's Soul first (Nick Note: Chichikaka and Leeku have Gene Sims at lvl. 10)
+# For minions, also increase minion number cap
+
+<span style="color:#0000FF">Avatar can also make you stronger:</span>
+# Apostle Avatar: increases exploration stats
+# Civil Mirage Avatar: increases earnings at Home
+# Special Event Avatar: increases Research SPD
+# All Avatar stats work permanently once you obtain them
+
+<span style="color:#0000FF">Join a club and participate in wars:</span>
+# Join a club and build a portal ASAP
+# Get a large number of Research Manuals from Club Shop
+# Get tons of resources from Card Shop and Traitor Shop
+# Complete multi-snail incidents to get more cards
+# Use Silver Tokens to defeat high-level legions and get currencies
+# Buy Random Species Sequence first in Traitor Shop
+# Complete Biozilla to buy Gene Essence from Biozilla Shop
+
+<span style="color:#0000FF">How to increase Leadership:</span>
+# Prioritize Gene Research, such as Zombie Form T4
+# Collect Relics that increase Leadership, such as the [[Trojan Horse]]
+# Consume a certain number of [[Consumables|Orange Fungi]]
+# Right-side Relic Talents can boost Leadership
+# Upgrade Minion Gear after clearing the Murikan Domain
+
+<span style="color:#0000FF">Enhance your troop:</span>
+# Upgrade form tier to unlock stronger minions
+# Increase Leadership to deploy minions in battle
+# Repair the [[Rocket]] and build rocket devices to increase minion stats
+# Organize minions into 10-minion groups to gain stats bonuses
+# Collect and Upgrade Relics that buff your minions
+
+===More Resources===
+<span style="color:#0000FF">Here are some regular weekly events:</span>
+# The new server event is a good time to try your luck in the Lottery, but remember to keep some Offering Speedups
+# Hoard specific resources for specific weekly events
+# Weekly event rotation: Lottery-Wish-Offering<br>
+<span style="color:#8c8c8c ">(Newer servers that have not entered the weekly event rotation will have hoarding events instead, which could last as long as 6 days)</span>
+
+<span style="color:#0000FF">Hoard the items for weekly events</span>
+# Lottery Week: Lottery Tickets, various Scrolls, W-tads (Nick Note: 15 Novice, 10 Expert, 5 Master or Grandmaster)
+# Wishmaking Week: Wish Coins, Relic Frags, Taichi Fishes
+# Offering Week: Offering Speedups, Divine Chests, and Dragon Chests (Nick Note: 5 of each Divine Chests, 1 Dragon Chest)
+
+<span style="color:#0000FF">Lottery Tickets you can get without paying:</span>
+# Get 1 by defeating a daily Hitman
+# Get 1 every 3 days in Arena Shop
+# Get 1-6 every Sunday by signing in
+# Get a few to dozens in weekly events. Depends on your ability
+# Get 3 every day from Daily Pack during Lottery Weeks
+# From chat; the number depends on your luck
+# From [[Fissure|Fissure Merchant]], refreshed every 3 days
+
+<span style="color:#0000FF">W-tads you can get without paying</span>
+# Get at least 100 W-tads by defeating a daily Hitman
+# Get at least 160 per day from Daily Tasks
+# Get 30-180 every Friday by signing in
+# Get 19 every day from Weekly Event Packs
+# Get at least 120 every 3 days after completing certain [[Fissure|Fissure Incidents]]
+# Get lucky in the Tadpole Pond
+# Get lucky in the Orange lottery slot
+# Get lucky in chat
+# Get interest from the Fortune Cat (Nick Note: Only if you invest W-tads)
+# Get from Official mail; maintenance makes you rich!
+
+<span style="color:#0000FF">Items you should buy from the shops:</span>
+# [[Vending Machine]]: Lottery Ticket, Wish Coin, Offering Speedup
+# Club: Research Manual, Organ
+# Snail Arena: Pickaxe, Glue, Lottery Ticket
+# Museum: Travel Speedup, Wish Coin
+# [[Fissure|Fissure Merchant]]: Pack, Pickaxe, B-tads
+# Biozilla Shop: Gene Essence
+# Traitor Shop: Map, Random Sequence
+
+<span style="color:#0000FF">Remember when the events are refreshed:</span><br>
+Most events and tasks are refreshed at 06:30 PST<br>
+Vending items are also refreshed at that time<br>
+<span style="color:#8c8c8c ">(Monthly Pass and Unispark are refreshed at the same time)</span>
+
+<span style="color:#0000FF">Be casual with the treasure resources:</span>
+# Open Treasure Maps whenever you can
+# Open Collector Scrolls whenever you can
+# Open Memetic Catalysts whenever you can
+# Open Treasures whenever you can, but save the Divine Chests for Offering Week
+
+<span style="color:#0000FF">The longer you explore, the more you get!</span>
+# To maximize rewards, explore a cleared map
+# You can get extra Gear Chests from Murika and cells from Bharata
+# Always choose the Time Rift if available
+# Increase Movement Speed to shorten exploration time<br>
+<span style="color:#8c8c8c ">(Rewards from different Forms are affected by actual exploration time)</span>
+
+===Purchase Guide===
+<span style="color:#0000FF">Know your limits of your credit card!</span><br>
+Super Snail is an idle game after all. You can also have fun without recharging. Time matters the most when you grind.
+
+<span style="color:#0000FF">Recommended packs (in descending order):</span>
+# VIP Gold Card, VIP Silver Card (both permanent)
+# Limited packs of every system
+# Daily Packs
+# Festival and crossover event packs
+# Monthly pack
+# Weekly event packs (complete rounds of weekly event tasks)
+
+<span style="color:#0000FF">Spend your W-tads on these first:</span>
+# Fortune Cat a safe bet
+# Art of Trading, buy it as soon as your Power is enough
+# Power Offer Pack, increases Fungus cap
+# Offer packs of other systems
+# Lottery Ticket and Wish Coin in [[Vending Machine]] and [[Fissure|Fissure Merchant]]
+# Purple or better Chores
+# Museum promotion, increases the earnings of museums with S rating
+
+===Combat Strategies===
+<span style="color:#0000FF">Basic Knowledge about [[Gear]]</span>
+# Craft more advanced [[Gear#Realm|Realm Gear]] to defeat Apostles easily
+# Get Iron Track first for auto-play
+# Recommended [[Gear #Form_Gear|Form Gear]] in the early period: The Buried
+# awaiting patch
+
+<span style="color:#0000FF">[[Gear#Instrument|Weapon Gear]] Leaderboard(according to final forms):</span>
+# Norris-chuck, Oldman Wand, The Big Bounce, Power Spinach
+# District 9, Cretaceous Weapon, Hydra Gloves, Million Volts
+# W-tad Sword, Know-It-All Device, Strength Master's Sword
+
+<span style="color:#0000FF">[[Gear#Armor|Armor Gear]] Leaderboard (according to the final forms):</span>
+# Ring of Paralysis, Traveler Outfit, Grandpire's Robe
+# Fortress, Dracula Cape, Eye of Agamatto
+# Agamemnon Outfit, The Great Magician, Super Warrior
+
+<span style="color:#0000FF">Once enemy weakness is identified, proc RUSH:</span>
+# Tap on bubble above target to check weakness
+# Once RUSH procs, deal RUSH DMG each round
+# RUSH also procs CRIT and ELMT DMG
+
+<span style="color:#0000FF">About DEF:</span>
+# Generally, DMG=ATK-DEF
+# DEF also reduces RUSH DMG
+# ELMT DMG ignores DEF but not ELMT RES
+
+<span style="color:#0000FF">About CRIT:</span>
+# CRIT deals 150% DMG of normal attacks
+# CRIT DMG increases DMG done by CRITs
+# CRIT DMG REDUC lowers CRIT DMG takes
+
+<span style="color:#0000FF">Other Effects:</span>
+# Lifesteal restores HP when dealing ATK DMG and CRIT DMG, but not ELMT DMG
+# Dodge prevents you from taking any DMG
+# ELMT DMG adds DMG to normal ATK and RUSH
+# Paralyzed enemies cannot move for a round
+
+<span style="color:#0000FF">About Minions:</span>
+# Troop Battle applies the same rules as that of a Snail Battle
+# Leadership decides the number of minions you can deploy
+# The minions you deploy decide the stats of your troop
+# Minions may get wounded after battles
+# Wounded minions cannot be sent to anything
+# You can treat wounded minions to dispel the injury status
+# The number of wounded minions is decided by their lost HP and the casualty rate
+# Minions with low Power will take the HP loss first
+<span style="color:#8c8c8c ">(Puppet minions can take damage for minions of the same tier)</span>
+
+<span style="color:#0000FF">About Casualty Rate:</span>
+# In Troop battles, (DMG taken) x (casualty rate)=(Lost HP)
+# When your troop takes damage, minions with low Power will lose HP first
+# When HP - lost HP =0, the minions will become wounded
+# The casualty rates in different Domains can be reduced by increasing the ratings of their corresponding Museums
+# The casualty rate in Species War can be reduced through Card Exchange
+# The casualty rates in different Domains, Species Wars, and Species Histories are different; always check when you edit your troops
+
+<span style="color:#0000FF">About Upgrading Minions:</span>
+# Zombie minions have relatively high HP and ATK
+# Demon minions have relatively high ATK and RUSH
+# Angel minions have relatively high HP and RUSH
+# Mutant minions have relatively high ATK and RUSH
+# Mecha minions have extremely high RUSH
+# Dragon minions have comprehensively high stats
+# All minions except Dragon ones can be converted into each other by spending W-Tadpoles in Minion Conversion Event
+
+<span style="color:#0000FF">Outstanding Minions:</span>
+# Early Period: Ironball Thrower, Chika, Imp
+# Later Period: Frost Drake, Nanosaur
+# Support: Wood Golem
+
+===Special Strategies===
+<span style="color:#0000FF">The [[Minigames|mini games]] in the computer grant a lot of rewards:</span>
+# Free Cell: B-tads
+# Byecube: W-tads
+# It Takes 5: W-tads
+# Tetromino Special: Travel Speedup
+# 2048: Travel Speedup
+# Civilization Boom: W-tads
+# Explosive Cube: Gene Speedup
+
+<span style="color:#0000FF">Wanna get lucky? Use both science and superstition!</span>
+# Worship the Buddha in the Shrine before drawing
+# Offer Soul of Developer at the Altar before drawing
+# Take a good single draw before going for 10 draws
+# Threaten your phone before drawing
+# These methods have been proven useless
+
+<span style="color:#0000FF">Share your tips in the notes!</span><br>
+You are always welcome to leave a comment to talk about tips for Super Snail. Valuable comments will be shared!
+
+[[Category:Home Base]]

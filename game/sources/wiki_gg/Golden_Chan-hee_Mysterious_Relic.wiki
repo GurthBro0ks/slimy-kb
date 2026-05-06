@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Golden Chan-hee,Mysterious Relic
+|rank=orange
+|amount=2
+|category=minion
+|description=Per 5 Orange Relics gained, Leadership +1
+}}
+[[Category:Minion]]
+[[Category:Leadership Boost]]

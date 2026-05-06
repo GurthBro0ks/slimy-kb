@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=611
+|relics=Rancho's Space Pen,Sitar
+|rank=blue
+|amount=2
+|category=self
+|description=In Follower Recruitment, 2x Follower Drops +5%
+}}

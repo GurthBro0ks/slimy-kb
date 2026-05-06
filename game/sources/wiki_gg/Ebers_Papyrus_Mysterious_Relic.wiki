@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Ebers Papyrus,Mysterious Relic
+|rank=orange
+|amount=2
+|category=minion
+|description=Per 60 Minions in battle: Troop Wind DMG +7
+}}
+[[Category:Minion]]
+[[Category:Minion Element DMG Boost]]

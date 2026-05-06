@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Sunder-Soul Elixir
+|class_id=20966
+|rank=Green
+|affct=FAME
+|source=
+|description=The Mantises have secretly developed a deadly poison, a mere trace of which can be lethal. Yet, they adhere to the principles of honorable combat, as their martial arts philosophy emphasizes fairness and integrity. This poison is reserved only for dire situations when the entire clan faces an existential crisis.
+|fame=30
+|art=13
+|fth=14
+|civ=16
+|tech=17
+|ss1=Against Mantis,<br>Troop DMG toward heroes +1%<br>Against Mantis,<br>Troop DMG toward heroes +1%
+|ss2=Against Mantis,<br>Troop DMG toward heroes +2%<br>Against Mantis,<br>Troop DMG toward heroes +2%
+|ss3=Against Mantis,<br>Troop DMG toward heroes +3%<br>Against Mantis,<br>Troop DMG toward heroes +3%
+|ss4=Against Mantis,<br>Troop DMG toward heroes +3%<br>Against Mantis,<br>Troop DMG toward heroes +3%
+|ss7=Against Mantis,<br>Troop DMG toward heroes +3%<br>Against Mantis,<br>Troop DMG toward heroes +3%<br> (Awakened)
+}}

@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Snail Shell is rumored to be created from the concentrated power of the Hurricane Lord. It not only grants the wearer control over storms, but can cool them down during hot summer in place of an electric fan!
+|affct=ART
+|hard=ATK
+|source=
+{{Memetic Catalyst
+|number=1424
+|relic1=Hoxne Hoard
+|relic2=Phaistos Disc
+|relic3=Oxus Treasure
+|relic4=Cyrus Cylinder
+|relic5=Trajan's Column
+}}
+|color=orange
+|earth=12
+|water=11
+|fire=10
+|wind=9
+|form=Dragon
+|element=Wind
+|realm=Rift
+|orangehard=RUSH
+}}

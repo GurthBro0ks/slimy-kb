@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Tom Sawyer Adventures
+|class_id=22064
+|rank=Blue
+|affct=CIV
+|birthday=05-22
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On May 22, 1876 AD, Mark Twain published the famous children's novel Tom Sawyer Adventures.<br>Tom Sawyer Adventures is a beloved children's book written by Mark Twain that follows the exciting journey of young Tommy and Huck. Twain weaves in references to his own childhood in Missouri to create a vivid and authentic setting. While playing in the cemetery, Tommy and Huck witness a murder and flee to a deserted island in fear. After much internal conflict, they summon the courage to testify against the killer and embark on a quest to find the treasure he left behind. Though the book didn't sell well initially, it eventually became a classic of American literature after Twain's passing.
+|fame=32
+|art=27
+|fth=26
+|civ=45
+|tech=24
+|ss1=Mutant Minion RUSH +1%
+|ss2=Mutant Minion RUSH +2%
+|ss3=Mutant Minion RUSH +3%
+|ss4=Mutant Minion RUSH +5%
+|ss7=Mutant Minion RUSH +5%<br>Mutant Minion RUSH +5% (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: This Relic's CIV +5
+}}

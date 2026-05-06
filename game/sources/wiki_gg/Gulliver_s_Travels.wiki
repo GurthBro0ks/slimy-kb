@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Gulliver's Travels
+|class_id=22067
+|rank=Blue
+|affct=CIV
+|birthday=05-01
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On May 1, 1726 AD, the British writer Jonathan published Gulliver's Travels for the first time.<br>Gulliver's Travels is a witty and satirical novel by British writer Jonathan Swift. Narrated from the perspective of the protagonist, surgeon Gulliver, the book recounts his incredible adventures in countries such as Lilliput, Brobdingnag, and the Flying Island. Swift employs irony and fantastical elements to create absurd and bizarre plots that offer insightful commentary on the corruption of the British ruling party during that time. The book also criticizes the brutality and violence of wars. With its biting wit and social commentary, Gulliver's Travels remains a beloved classic of English literature.
+|fame=32
+|art=27
+|fth=25
+|civ=46
+|tech=24
+|ss1=Mutant Minion ATK +1%
+|ss2=Mutant Minion ATK +2%
+|ss3=Mutant Minion ATK +3%
+|ss4=Mutant Minion ATK +5%
+|ss7=Mutant Minion ATK +5%<br>Mutant Minion ATK +5% (Awakened)
+|skill1=[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, All Minion ATK +1.5%
+}}

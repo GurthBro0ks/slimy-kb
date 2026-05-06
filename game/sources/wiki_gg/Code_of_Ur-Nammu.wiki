@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Code of Ur-Nammu
+|class_id=22776
+|rank=SSS
+|affct=FAME
+|source=
+|description=The Code of Ur-Nammu, promulgated by Ur-Nammu, the founder of the Third Dynasty of Ur, is considered the earliest written code in world history. The code includes a prologue and twenty-nine articles in the main text, with no epilogue, mainly addressing religious and family matters. The prologue claims that the gods granted Ur-Nammu the power to rule, and Ur-Nammu established justice on earth according to divine will. The main text contains provisions on slavery, marriage and family, inheritance, and punishment. The Code of Ur-Nammu, both in content and form, has innovative aspects and greatly influenced the codes of later Mesopotamian countries.
+|fame=108
+|art=60
+|fth=58
+|civ=66
+|tech=70
+|ss1=Per 60 Zombie Minions in battle:<br>> Troop ATK +9<br>Per 6 kinds of Souls offered, Snail ATK +3<br>Per 6 kinds of Souls offered, Priest Assistance DMG +24<br>Souls offered: 300/300 types
+|ss2=Per 60 Zombie Minions in battle:<br>> Troop ATK +18<br>Per 6 kinds of Souls offered, Snail ATK +4<br>Per 6 kinds of Souls offered, Priest Assistance DMG +32<br>Souls offered: 300/300 types
+|ss3=Per 60 Zombie Minions in battle:<br>> Troop ATK +27<br>Per 6 kinds of Souls offered, Snail ATK +5<br>Per 6 kinds of Souls offered, Priest Assistance DMG +40<br>Souls offered: 300/300 types
+|ss4=Per 60 Zombie Minions in battle:<br>> Troop ATK +45<br>Per 6 kinds of Souls offered, Snail ATK +7<br>Per 6 kinds of Souls offered, Priest Assistance DMG +56<br>Souls offered: 300/300 types
+|ss5=Per 60 Zombie Minions in battle:<br>> Troop ATK +63<br>Per 6 kinds of Souls offered, Snail ATK +9<br>Per 6 kinds of Souls offered, Priest Assistance DMG +72<br>Souls offered: 300/300 types
+|ss6=Per 60 Zombie Minions in battle:<br>> Troop ATK +90<br>Per 6 kinds of Souls offered, Snail ATK +12<br>Per 6 kinds of Souls offered, Priest Assistance DMG +96<br>Souls offered: 300/300 types
+|ss7=Per 60 Zombie Minions in battle:<br>> Troop ATK +90<br>Per 6 kinds of Souls offered, Snail ATK +12<br>Per 6 kinds of Souls offered, Priest Assistance DMG +96<br>Souls offered: 300/300 types<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: DMG REDUC +15%
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's FAME +15
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Lifesteal Effect +30%
+}}

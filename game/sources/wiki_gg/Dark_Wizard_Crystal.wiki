@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description= Hailing from the witch dimension, the dark art crystal combined the hand of the witch and the Snail Shell to obtain the witch's power, for scratching.
+|affct=ART
+|hard=RUSH
+|source=
+{{Memetic Catalyst
+|number=2776
+|relic1=Requiem
+|relic2=Blood of Dracula
+|relic3=Soul Stone
+|relic4=Glass Coffin
+|relic5=Ranjyatai Incense
+}}
+|color=purple
+|earth=6
+|water=6
+|fire=7
+|wind=7
+|form=Demon
+|element=Fire
+|realm=Hellas
+|orangehard=HP
+}}

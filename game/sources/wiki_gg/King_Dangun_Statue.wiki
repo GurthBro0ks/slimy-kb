@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=King Dangun Statue
+|rank=S
+|affct=FTH
+|birthday=01-05
+|source=* Fragment Crafting (15.1%), Koryeo Treasure Map (5%), Lottery Machine (0.81%), Relic Forge (90 Relic RF), Wishing (0.81%)
+* Museum Value Pack I ($14.99 USD)
+|description=On Jan 5, 1993, King Dangun Statue was unearthed in Ryugyong suburbs.<br>The King Dangun Statue, carved from wood, looks like a combination of a bear and a human. From his long beard, you can tell he is an older man. According to legend, Dangun lived 5,000 years ago, founded the kingdom of ancient Koryeo, reigned for 1,500 years, and died when he was nearly 2,000 years old.<br>[A Brief History of Dangun]<br>Dangun was born in the ancient Korea era. He founded an ancient kingdom, reigned for hundreds of years, and died at the age of 1908.
+|fame=47
+|art=65
+|fth=99
+|civ=60
+|tech=61
+|ss1=Tadpole Pond B-tad Output +2%<br>Lumber Camp Output +2%<br>Quarry Output +2%
+|ss2=Tadpole Pond B-tad Output +4%<br>Lumber Camp Output +4%<br>Quarry Output +4%
+|ss3=Tadpole Pond B-tad Output +6%<br>Lumber Camp Output +6%<br>Quarry Output +6%
+|ss4=Tadpole Pond B-tad Output +10%<br>Lumber Camp Output +10%<br>Quarry Output +10%
+|ss5=Tadpole Pond B-tad Output +14%<br>Lumber Camp Output +14%<br>Quarry Output +14%
+|ss6=Tadpole Pond B-tad Output +20%<br>Lumber Camp Output +20%<br>Quarry Output +20%
+|ss7=Tadpole Pond B-tad Output +20%<br>Lumber Camp Output +20%<br>Quarry Output +20%<br>Tadpole Pond B-tad Output +20% (Awakened)
+|skill1=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: Medal Cost for Wish Coins -30
+|skill2=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, Mutant Cells gained +30%
+|skill3=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, 2x Orange Reagent Drops +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Lumber Camp Output Boost]]
+[[Category:Quarry Output Boost]]
+[[Category:Koryeo Museum Boost]]
+[[Category:Medal Boost]]
+[[Category:Koryeo Exploration Boost]]
+[[Category:Mutant Cell Drop Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Reagent Crafting Boost]]
+[[Category:Time Chest Output]]

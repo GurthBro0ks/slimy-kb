@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=612
+|relics=Alfredo's Film,Jack's Typewriter
+|rank=blue
+|amount=2
+|category=self
+|description=In Follower Recruitment, 2x Protolith Chest Drops +5%
+}}

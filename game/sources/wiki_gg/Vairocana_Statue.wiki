@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Vairocana Statue
+|class_id=22856
+|rank=SSS
+|affct=FAITH
+|source=
+|description=This exquisite copper statue dates back to the Yuan Dynasty. The bodhisattva wears a five-leaf crown on its head, and its hands form the mudra of wisdom over its chest. The meticulous detailing of the lotus pedestal and its attire showcases a solemn demeanor. The statue represents Vairocana, also known as the Great Wisdom Buddha, symbolizing wisdom and universal illumination. Its existence not only signifies the continuity of Buddhist culture but also holds significant historical value for understanding the period.
+|fame=55
+|art=72
+|fth=106
+|civ=53
+|tech=76
+|ss1=Snail RUSH +30<br>All minion skins RUSH +10%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +48<br>Forest Protomon: 60/60
+|ss2=Snail RUSH +40<br>All minion skins RUSH +20%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +64<br>Forest Protomon: 60/60
+|ss3=Snail RUSH +50<br>All minion skins RUSH +30%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +80<br>Forest Protomon: 60/60
+|ss4=Snail RUSH +70<br>All minion skins RUSH +50%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +112<br>Forest Protomon: 60/60
+|ss5=Snail RUSH +90<br>All minion skins RUSH +70%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +144<br>Forest Protomon: 60/60
+|ss6=Snail RUSH +120<br>All minion skins RUSH +100%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +192<br>Forest Protomon: 60/60
+|ss7=Snail RUSH +120<br>All minion skins RUSH +100%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +192<br>Forest Protomon: 60/60<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: This Relic's FTH +15
+|skill2=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Cap +30%
+|skill3=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +30%
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=523
+|relics=Ship of Theseus,Mendel's Manuscript
+|rank=orange
+|amount=2
+|category=self
+|description=Per Rift Apostle defeated, Snail ATK +7;Apostles Defeated: 40/40
+}}

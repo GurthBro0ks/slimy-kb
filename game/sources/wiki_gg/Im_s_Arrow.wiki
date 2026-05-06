@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=Im's Arrow
+|rank=Blue
+|affct=CIV
+|birthday=03-26
+|source=Lottery Machine (0.07%), Wishing (2.1%), Novice Scrolls (1%)
+|description=On Mar 26, 2008, the visually-impaired Im hit a bullseye.
+
+Im was almost blind but not his arrow. Im won multiple Olympic medals with this magical arrow and his superb shooting skills. Even though he couldn't see, he never misses his shot.
+
+[Personal Achievements]
+
+Champion of the 28th Athens Summer Olympics. Champion of the 42nd Leipzig Archery Championships. Champion of the 48th Neo-York World Archery Championships. Champion of the 14th Pusan Asian Games.
+|fame=27
+|art=31
+|fth=19
+|civ=44
+|tech=33
+|ss1=Per Purple+ Gear equipped, Snail ATK +3
+|ss2=Per Purple+ Gear equipped, Snail ATK +4
+|ss3=Per Purple+ Gear equipped, Snail ATK +5
+|ss4=Per Purple+ Gear equipped, Snail ATK +7
+|ss7=Per Purple+ Gear equipped, Snail ATK +7<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Koryeo skill I.png|50px]] Place in Koryeo Museum: In Koryeo, Snail HP +200
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:CIV Relics]]
+[[Category:Blue CIV Relics]]
+[[Category:ATK Boost]]
+[[Category:Koryeo Exploration Boost]]
+[[Category:Koryeo Museum Boost]]
+[[Category:RUSH Boost]]
+[[Category:Dragon Minion ATK Boost]]

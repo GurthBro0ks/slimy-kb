@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=320
+|relics=The Rose Garden,Rose Cross
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Zombie Minions in battle: Troop ATK +5
+}}

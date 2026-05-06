@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Crimson Eye
+|type=Bionic
+|rank=orange
+|id=10683
+|idx=41
+|description=A blood-hued, hypnotic eye with the power to command blood and illusion. Under its gaze, veins rebel — though its bloodshot appearance often earns it the nickname "pinkeye"...
+|skill=Activate Crimson Wing, dealing DMG for 2 times (DMG each time = 101% of ATK)!
+|hp=1542
+|def=305
+|atk=149
+|rush=237
+|gene1=Per organ awakened, {race} RUSH +5
+Organs awakened: 40/40
+|gene2=Per organ awakened, {race} ATK +5
+Organs awakened: 40/40
+|gene3=If you spot a weakness, {race} ATK +75
+|gene4=Wind DMG +90
+|gene5=If you spot a weakness, DMG +4.5%
+|gene7=Per orange or higher organ equipped, {race} ATK +90 (Awakened)
+|}}

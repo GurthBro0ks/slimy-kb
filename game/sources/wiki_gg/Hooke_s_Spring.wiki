@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Hooke's Spring
+|class_id=22501
+|rank=Blue
+|affct=TECH
+|birthday=04-09
+|source=Lottery Machine No.3 (0.03%)
+|description=On Apr 9, 1676 AD, the spring scale using a helical compression spring was invented.<br>Hooke's law is a fundamental principle of elasticity in mechanics, which states that the force acting on a solid material is proportional to the deformation of the material. Hooke's discovery directly led to the creation of the spring scale, which is the basic tool for measuring force and is still widely used in modern physics laboratories.
+|fame=30
+|art=22
+|fth=32
+|civ=25
+|tech=45
+|ss1=Mecha Minion RUSH +1%
+|ss2=Mecha Minion RUSH +2%
+|ss3=Mecha Minion RUSH +3%
+|ss4=Mecha Minion RUSH +5%
+|ss7=Mecha Minion RUSH +5%<br>Mecha Minion RUSH +5% (Awakened)
+|skill1=[[File:Luckyegg skill I.png|50px]]Place in Lucky Egg: Green rewards from this egg turn Blue by 1%
+}}

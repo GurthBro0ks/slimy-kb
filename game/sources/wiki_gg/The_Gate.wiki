@@ -1,0 +1,39 @@
+{{Missing Info|specifics=Source, Special Stats, Relic Resonances, Mirage name & final rewards, Mirage 1-3, Description}}
+{{CargoRelic
+|name=The Gate
+|available=0
+|rank=SSS
+|affct=TECH
+|source=Daily Pack Relic #46
+|description=
+|fame=70
+|art=51
+|fth=66
+|civ=67
+|tech=108
+|ss1=Mecha Minion ATK +3%<br>Protomons assist Snail in battle, and deal extra DMG +240<br>Per TECH Bionic Part Extracted, Snail HP +150<br>TECH Bionic Part Extracted: 10/10
+|ss2=Mecha Minion ATK +4%<br>Protomons assist Snail in battle, and deal extra DMG +320<br>Per TECH Bionic Part Extracted, Snail HP +200<br>TECH Bionic Part Extracted: 10/10
+|ss3=Mecha Minion ATK +5%<br>Protomons assist Snail in battle, and deal extra DMG +400<br>Per TECH Bionic Part Extracted, Snail HP +250<br>TECH Bionic Part Extracted: 10/10
+|ss4=Mecha Minion ATK +7%<br>Protomons assist Snail in battle, and deal extra DMG +560<br>Per TECH Bionic Part Extracted, Snail HP +350<br>TECH Bionic Part Extracted: 10/10
+|ss5=Mecha Minion ATK +9%<br>Protomons assist Snail in battle, and deal extra DMG +720<br>Per TECH Bionic Part Extracted, Snail HP +450<br>TECH Bionic Part Extracted: 10/10
+|ss6=Mecha Minion ATK +12%<br>Protomons assist Snail in battle, and deal extra DMG +960<br>Per TECH Bionic Part Extracted, Snail HP +600<br>TECH Bionic Part Extracted: 10/10
+|ss7=Mecha Minion ATK +12%<br>Protomons assist Snail in battle, and deal extra DMG +960<br>Per TECH Bionic Part Extracted, Snail HP +600<br>TECH Bionic Part Extracted: 10/10<br>Protomons assist Snail in battle, and deal extra DMG +800 (Awakened)
+|skill1=[[File:Surfclam skill III.png|50px]] Place in Surf Clam Biozilla: In Species War, Troop Earth DMG +60
+|skill2=[[File:Surfclam skill III.png|50px]] Place in Surf Clam Biozilla: In Species War, Troop DMG REDUC +6%
+|skill3=[[File:Surfclam skill III.png|50px]] Place in Surf Clam Biozilla: In Species War, All Minion RUSH +9%
+|mirage={{Mirage|name=|reward=
+|3name=|3rec=|3atk=|3def=|3hp=|3weak=
+|4name=|4rec=|4atk=|4def=|4hp=|4weak=
+|5name=|5rec=|5atk=|5def=|5hp=|5weak=
+|6name=|6rec=|6atk=|6def=|6hp=|6weak=
+|Arec=|Aatk=|Adef=|Ahp=|Aweak=
+}}
+}}
+
+[[Category:Surf Clam Biozilla Skill]]
+[[Category:Mecha Minion ATK Boost]]
+[[Category:Minion Skin Boost]]
+[[Category:Minion ATK Boost]]
+[[Category:Protomon Boost]]
+[[Category:HP Boost]]
+[[Category:Daily Pack Relics]]

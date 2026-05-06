@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Peacock Ceramic Plate
+|class_id=22039
+|rank=Blue
+|affct=ART
+|birthday=03-06
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Mar 6, 1540 AD, the peacock porcelain plate was successfully fired in a ceramic workshop in Turkey.<br>The Peacock Ceramic Plate is one of the most famous ceramics. Its surface is smooth, and a bouquet is painted with feather-like curved leaves growing on slender stems. The blooming flowers seem to be swaying gently, and the tulips and hyacinths are vividly painted, competing for beauty and contrasting the blue peacock.
+|fame=23
+|art=46
+|fth=26
+|civ=31
+|tech=28
+|ss1=Per 10 Demon Minions in battle:<br>> Troop ATK +1
+|ss2=Per 10 Demon Minions in battle:<br>> Troop ATK +2
+|ss3=Per 10 Demon Minions in battle:<br>> Troop ATK +3
+|ss4=Per 10 Demon Minions in battle:<br>> Troop ATK +5
+|ss7=Per 10 Demon Minions in battle:<br>> Troop ATK +5<br>Per 10 Demon Minions in battle:<br>> Troop ATK +5 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: This Relic's ART +5
+}}

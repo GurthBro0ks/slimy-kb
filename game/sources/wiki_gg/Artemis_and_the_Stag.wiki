@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Artemis and the Stag
+|class_id=22802
+|rank=SS
+|affct=ART
+|source=
+|description= Artemis and the Stag is an ancient Roman bronze sculpture created in the 1st century BCE, depicting the goddess Artemis in hunting attire with a stag beside her, symbolizing her role as the protector of hunting and wildlife. This sculpture stands one meter tall and is almost perfectly preserved, making it a rare masterpiece of the classical era. The sculpture is not only acclaimed for its artistic value but also renowned for its performance in the auction market.
+|fame=50
+|art=105
+|fth=67
+|civ=70
+|tech=55
+|ss1=Snail Leadership +2<br>Per 60 Minions in battle:<br>> Troop HARD Stats +3<br>Per 5 purple entries completed, purple Super Species Seq. +1<br>Purple Species Map Entries: 50/50
+|ss2=Snail Leadership +3<br>Per 60 Minions in battle:<br>> Troop HARD Stats +6<br>Per 5 purple entries completed, purple Super Species Seq. +1<br>Purple Species Map Entries: 100/100
+|ss3=Snail Leadership +4<br>Per 60 Minions in battle:<br>> Troop HARD Stats +9<br>Per 5 purple entries completed, purple Super Species Seq. +1<br>Purple Species Map Entries: 150/150
+|ss4=Snail Leadership +6<br>Per 60 Minions in battle:<br>> Troop HARD Stats +15<br>Per 5 purple entries completed, purple Super Species Seq. +1<br>Purple Species Map Entries: 250/250
+|ss5=Snail Leadership +8<br>Per 60 Minions in battle:<br>> Troop HARD Stats +21<br>Per 5 purple entries completed, purple Super Species Seq. +1<br>Purple Species Map Entries: 350/350
+|ss6=Snail Leadership +11<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 5 purple entries completed, purple Super Species Seq. +1<br>Purple Species Map Entries: 500/500
+|ss7=Snail Leadership +11<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 5 purple entries completed, purple Super Species Seq. +1<br>Purple Species Map Entries: 500/500<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Wind DMG +60
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion RUSH +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's ART +15
+|mirage={{Mirage|name=Moon Beast|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=Moon Wolf|3rec=3.56M|3atk=46713|3defense=30804|3hp=644857|3weak=11033
+|4name=Moon Deer|4rec=8.05M|4atk=73360|4defense=48377|4hp=1368427|4weak=14541
+|5name=Moon Bunny|5rec=16.63M|5atk=108127|5defense=71304|5hp=2706969|5weak=18859
+|Arec=39.93M|Aatk=151756|Adefense=100075|Ahp=4921471|Aweak=24988
+}}}}

@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Bionic Auxiliary Heart
+|type=Common
+|rank=orange
+|id=10943
+|idx=92
+|description=A titanium-plated love letter to Darwinism, ensuring you outlive your bad decisions through the magic of redundant organ engineering.
+|skill=
+|hp=2310
+|def=207
+|atk=256
+|rush=151
+|gene1=All equipped Organs, skill DMG +3%
+|gene2=Restore 600 HP each round
+|gene3=Water DMG +90
+|gene4=Per 5000 Organ Score, {race} ATK +28
+Current Organ Score: 50000/50000
+|gene5=For Round 1, DMG +7.5%
+|gene7=All equipped Organs, skill DMG +3% (Awakened)
+|}}

@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Fighter Horns
+|type=Common
+|rank=blue
+|id=10953
+|idx=146
+|description=A pair of horns brimming with pure inner energy. From a legendary ram champion - the finest part of its body. Excellent for crafting magic tools...or making soup.
+|skill=
+|hp=1196
+|def=81
+|atk=126
+|rush=91
+|gene1=Against Daily Hitmen, {race} HP +200
+|gene2=Per Hitman intercepted, {race} RUSH +1
+Hitmen Intercepted: 40/40
+|gene3=Against Daily Hitmen, Round 1 DMG +5%
+|gene7=Against Daily Hitmen, Round 1 DMG +5% (Awakened)
+|}}

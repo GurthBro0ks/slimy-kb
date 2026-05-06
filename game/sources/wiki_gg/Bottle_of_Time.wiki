@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Bottle of Time
+|class_id=20437
+|rank=Green
+|affct=FAME
+|source=
+|description=This old glass bottle is the sole designated storage vessel for the Sand of Time, for it could prevent loss of power from contact with any other substance. Furthermore, it is also a potent artifact that helps the holder control the Sand of Time stored within and serves as a casting component for various temporal spells.
+|fame=31
+|art=15
+|fth=13
+|civ=18
+|tech=13
+|ss1=Per Variant Apostle dominated, Snail ATK +1<br>Per Variant Apostle dominated, Snail DEF +1<br>Variant Apostles Dominated: 60/60
+|ss2=Per Variant Apostle dominated, Snail ATK +2<br>Per Variant Apostle dominated, Snail DEF +2<br>Variant Apostles Dominated: 60/60
+|ss3=Per Variant Apostle dominated, Snail ATK +3<br>Per Variant Apostle dominated, Snail DEF +3<br>Variant Apostles Dominated: 60/60
+|ss4=Per Variant Apostle dominated, Snail ATK +3<br>Per Variant Apostle dominated, Snail DEF +3<br>Variant Apostles Dominated: 60/60
+|ss7=Per Variant Apostle dominated, Snail ATK +3<br>Per Variant Apostle dominated, Snail DEF +3<br>Variant Apostles Dominated: 60/60<br> (Awakened)
+}}

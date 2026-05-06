@@ -1,0 +1,17 @@
+==[[File:White Bead.png|75px]]White Bead Rewards==
+{|class="wikitable"
+!colspan="2"|Reward
+!rowspan="2"|Rate
+|-
+!Image!!Name
+|-
+|[[File:B-Tadpole.png|50px]]||B-Tadpole||56.18%
+|-
+|[[File:Flower_Crown.png|50px]]||Flower Crown||1.12%
+|-
+|[[File:Wooden_Ring.png|50px]]||Wooden Ring||1.12%
+|-
+|[[File:Iron_Ring.png|50px]]||Iron Ring||1.12%
+|-
+|[[File:Beast_Fang.png|50px]]||Beast Fang||1.12%
+|}

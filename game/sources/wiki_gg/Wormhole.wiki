@@ -1,0 +1,232 @@
+==Wormhole==
+The Wormhole is unlocked at tile 60 in the Cathay Domain, after winning the troop battle. Once won, you'll have the option to "Take the Wormhole Core." Doing this rewards {{RewardIconWithText|Adv. Rocket Blueprint}}, {{RewardIconWithText|Wormhole Device}}, and {{RewardIconWithText|Refine Speedup, +4h}}. Head to the Garage, aka Arsenal in Home Base and tap on the drape. In 24 hours, you'll be able to use your Wormhole to Refine materials.
+
+Once available, this is where you will passively mine for materials. You can now begin the refinement of one item which, before upgrading, will take 12h. Upgrading the arsenal will decrease the time it takes to refine each item while increasing the number of refinements that can be done at one time. Each upgrade costs 500 {{RewardIconWithText|W-Tad}} and gives you some speedup. In total, fully upgrading the arsenal costs 5,000 {{RewardIconWithText|W-Tad}} and earns 6d of {{RewardIconWithText|Refine Speedup}}.
+
+===Levels===
+{| class="wikitable"
+!Level
+!Total Refinement Time
+!# of refinements that can be done at once
+!Refine Speedup gained
+!Cost in {{RewardIconWithText|W-Tad}}
+|-
+|1
+|12h
+|1
+|
+|
+|-
+|2
+|11h50m
+|2
+|8h
+|500
+|-
+|3
+|11h40m
+|3
+|10h
+|500
+|-
+|4
+|11h30m
+|4
+|12h
+|500
+|-
+|5
+|11h20m
+|5
+|14h
+|500
+|-
+|6
+|11h10m
+|6
+|16h
+|500
+|-
+|7
+|11h
+|7
+|18h
+|500
+|-
+|8
+|10h50m
+|8
+|20h
+|500
+|-
+|9
+|10h40m
+|9
+|22h
+|500
+|-
+|10
+|10h30m
+|10
+|1d
+|500
+|}
+
+==Refinement==
+During refinement, you have the chance to randomly receive a white, green, blue, purple, or orange reward, with white being the lowest rarity and orange the highest. The rewards obtained are used to upgrade the [[Rocket]].
+{| class="wikitable"
+!Refinement reward
+!Chances
+!Refinement reward
+!Chances
+|-
+|[[File:Refine white.png|frameless|75x75px]]
+|50%
+|[[File:Refine green.png|frameless|75x75px]]
+|23%
+|-
+|[[File:Refine blue.png|frameless|75x75px]]
+|15.75
+|[[File:Refine purple.png|frameless|75x75px]]
+|7.5%
+|-
+|[[File:Refine orange.png|frameless|75x75px]]
+|3.75%
+|
+|
+|}
+
+==Shards==
+{{RewardIconWithText|Wormhole Shard}}s can be exchanged in the Shard Shop for Rocket building materials, either for the Earth's Rebel cabin, Demon God's cabin, or Earth's Will's cabin. 
+
+===Earth's Rebels===
+{| class="wikitable"
+! style="background-color:#7de87f;" |T2 Rebel Deck Plate<br>8 Shards
+! style="background-color:#7de8e6;" |T3 Rebel Deck Plate<br>40 Shards
+! style="background-color:#f3b5e1;" |T4 Rebel Deck Plate<br>200 Shards
+|-
+! style="background-color:#7de87f;" |T2 Rebel Lens<br>8 Shards
+! style="background-color:#7de8e6;" |T3 Rebel Lens<br>40 Shards
+! style="background-color:#f3b5e1;" |T4 Rebel Lens<br>200 Shards
+|-
+! style="background-color:#7de87f;" |T2 Rebel Radio<br>8 Shards
+! style="background-color:#7de8e6;" |T3 Rebel Radio<br>40 Shards
+! style="background-color:#f3b5e1;" |T4 Rebel Radio<br>200 Shards
+|-
+! style="background-color:#7de87f;" |T2 Rebel Polyester<br>8 Shards
+! style="background-color:#7de8e6;" |T3 Rebel Polyester<br>40 Shards
+! style="background-color:#f3b5e1;" |T4 Rebel Polyester<br>200 Shards
+|-
+! style="background-color:#7de87f;" |T2 Rebel Nano Chip<br>120 Shards
+! style="background-color:#7de8e6;" |T3 Rebel Nano Chip<br>600 Shards
+! style="background-color:#f3b5e1;" |T4 Rebel Nano Chip<br>3,000 Shards
+|}
+
+===Demon Gods===
+{| class="wikitable"
+! style="background-color:#7de87f;" |T2 Demon God Bearing<br>8 Shards
+! style="background-color:#7de8e6;" |T3 Demon God Bearing<br>40 Shards
+! style="background-color:#f3b5e1;" |T4 Demon God Bearing<br>200 Shards
+|-
+! style="background-color:#7de87f;" |T2 Demon God Gear<br>8 Shards
+! style="background-color:#7de8e6;" |T3 Demon God Gear<br>40 Shards
+! style="background-color:#f3b5e1;" |T4 Demon God Gear<br>200 Shards
+|-
+! style="background-color:#7de87f;" |T2 Demon God Chip<br>8 Shards
+! style="background-color:#7de8e6;" |T3 Demon God Chip<br>40 Shards
+! style="background-color:#f3b5e1;" |T4 Demon God Chip<br>200 Shards
+|-
+! style="background-color:#7de87f;" |T2 Demon God Prism<br>8 Shards
+! style="background-color:#7de8e6;" |T3 Demon God Prism<br>40 Shards
+! style="background-color:#f3b5e1;" |T4 Demon God Prism<br>200 Shards
+|-
+! style="background-color:#7de87f;" |T2 Demon God Engine<br>120 Shards
+! style="background-color:#7de8e6;" |T3 Demon God Engine<br>600 Shards
+! style="background-color:#f3b5e1;" |T4 Demon God Engine<br>3,000 Shards
+|}
+
+===Earth's Will===
+{| class="wikitable"
+! style="background-color:#7de87f;" |T2 Earth's Will Mindwave E<br>8 Shards
+! style="background-color:#7de8e6;" |T3 Earth's Will Mindwave E<br>40 Shards
+! style="background-color:#f3b5e1;" |T4 Earth's Will Mindwave E<br>200 Shards
+|-
+! style="background-color:#7de87f;" |T2 Earth's Will Mindwave A<br>8 Shards
+! style="background-color:#7de8e6;" |T3 Earth's Will Mindwave A<br>40 Shards
+! style="background-color:#f3b5e1;" |T4 Earth's Will Mindwave A<br>200 Shards
+|-
+! style="background-color:#7de87f;" |T2 Earth's Will Mindwave R<br>8 Shards
+! style="background-color:#7de8e6;" |T3 Earth's Will Mindwave R<br>40 Shards
+! style="background-color:#f3b5e1;" |T4 Earth's Will Mindwave R<br>200 Shards
+|-
+! style="background-color:#7de87f;" |T2 Earth's Will Mindwave T<br>8 Shards
+! style="background-color:#7de8e6;" |T3 Earth's Will Mindwave T<br>40 Shards
+! style="background-color:#f3b5e1;" |T4 Earth's Will Mindwave T<br>200 Shards
+|-
+! style="background-color:#7de87f;" |T2 Earth's Will Mindwave H<br>120 Shards
+! style="background-color:#7de8e6;" |T3 Earth's Will Mindwave H<br>600 Shards
+! style="background-color:#f3b5e1;" |T4 Earth's Will Mindwave H<br>3,000 Shards
+|}
+
+==Value and Bonus Packs==
+Like with plenty of other mechanics, there's an extra Bonus tab to earn points and spend W-tads, and the ocassional Value Pack to spend USD/CAD in. 
+
+===Refinement Bonus===
+1h of Refinement time equates to 1 Refinement Point. Once earned, you can obtain rewards. 
+{| class="mw-collapsible mw-collapsed wikitable"
+!Refinement Poitns
+!Reward
+|-
+|3
+|{{RewardIconWithText|Refine Speedup, +4h}}
+|-
+|5
+|{{RewardIconWithText|Refine Speedup, +6h}}
+|-
+|10
+|{{RewardIconWithText|Refine Speedup, +8h}}
+|-
+|20
+|{{RewardIconWithText|Refine Speedup, +12h}}
+|-
+|30
+|{{RewardIconWithText|Refine Speedup, +16h}}
+|-
+|40
+|{{RewardIconWithText|Refine Speedup, +20h}}
+|-
+|60
+|{{RewardIconWithText|Refine Speedup, +1d}}
+|-
+|80
+|{{RewardIconWithText|Refine Speedup, +1d}}
+|-
+|100
+|{{RewardIconWithText|Refine Speedup, +1d}}
+|-
+|120
+|{{RewardIconWithText|Refine Speedup, +1d}}
+|}
+
+===Refinement Value Pack===
+[[Value_Packs#Refinement_Value_Pack|Refinement Value Packs]] can be purchased after certain milestones are met.
+
+===Arsenal Value Pack===
+The Arsenal Value Packs have a chance to appear while you're in the Garage/Arsenal. 
+{| class="wikitable"
+!Value Pack
+!Price
+!Rewards
+|-
+|Arsenal Value Pack I
+|$14.99
+|{{RewardIconWithText|W-tad, +1k}}<br>{{RewardIconWithText|Refine Speedup, +1d}}<br>{{RewardIconWithLink|Time Crystal|green}}
+|-
+|Arsenal Value Pack II
+|$29.99
+|{{RewardIconWithText|W-tad, +2k}}<br>{{RewardIconWithText|Refine Speedup, +3d}}<br>{{RewardIconWithText|Standard Printing Supply, +200}}<br>{{RewardIconWithText|Military Printing Supply, +200}}<br>{{RewardIconWithText|Engineering Printing Supply, +200}}
+|-
+|Arsenal Value Pack III
+|$99.99
+|{{RewardIconWithText|W-tad, +6k}}<br>{{RewardIconWithText|Refine Speedup, +5d}}<br>{{RewardIconWithText|Wormhole Shard, +3k}}<br>{{RewardIconWithLink|Dyson Sphere|orange}}
+|}

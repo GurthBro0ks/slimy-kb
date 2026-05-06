@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=SWG-T7 Fuel
+|class_id=20392
+|rank=Green
+|affct=TECH
+|source=
+|description=Due to structural design flaws, the Thermohammer has always been unable to output at its maximum power. After years of development by the designer, a solution has finally been found: soaking the Thermohammer in fuel before operation enables it to run at full power. However, this method is too crude, and constant vigilance is needed to prevent the Thermohammer from exploding due to excessive power.
+|fame=11
+|art=17
+|fth=18
+|civ=16
+|tech=28
+|ss1=Chance to receive W-tads from Thermohammer +4%
+|ss2=Chance to receive W-tads from Thermohammer +7%
+|ss3=Chance to receive W-tads from Thermohammer +10%
+|ss4=Chance to receive W-tads from Thermohammer +10%
+|ss7=Chance to receive W-tads from Thermohammer +10%<br> (Awakened)
+}}

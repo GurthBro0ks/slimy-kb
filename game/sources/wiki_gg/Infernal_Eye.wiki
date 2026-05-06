@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Infernal Eye
+|type=Bionic
+|rank=purple
+|id=10678
+|idx=35
+|description=To gaze is to incinerate — rays seething with the wrath of endless purgatory reduce all in sight to a wasteland of fire and ash.
+|skill=Before round start, obtain inferno power, next attack dealing DMG equal to 163%!
+|hp=2412
+|def=158
+|atk=110
+|rush=122
+|gene1=Earth DMG +60
+|gene2=Per 5 Apostles defeated, {race} ATK +30
+Apostles Defeated: 15/15
+|gene3=Wind RES +60
+|gene4=Snail Arena, Total Power Checks -4%
+|gene7=Snail Arena, Total Power Checks -4% (Awakened)
+|}}

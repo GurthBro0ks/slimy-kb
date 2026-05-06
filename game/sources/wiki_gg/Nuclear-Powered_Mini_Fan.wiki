@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Nuclear-Powered Mini Fan
+|class_id=20828
+|rank=Green
+|affct=TECH
+|source=
+|description=To enjoy coolness anywhere and anytime during hot summers, the dev team customized this compact fan. Utilizing an internal miniature reactor, it provides a steady and lasting supply of cool air to its user. The only caution is to avoid exposing it to excessive impact.
+|fame=12
+|art=19
+|fth=15
+|civ=11
+|tech=31
+|ss1=Free Gene Speedup (Mecha) +6m<br>Per 5 Rocket Tech LVLs, Snail ATK +4<br>Rocket Tech Upgraded: 50/50
+|ss2=Free Gene Speedup (Mecha) +12m<br>Per 5 Rocket Tech LVLs, Snail ATK +8<br>Rocket Tech Upgraded: 50/50
+|ss3=Free Gene Speedup (Mecha) +18m<br>Per 5 Rocket Tech LVLs, Snail ATK +12<br>Rocket Tech Upgraded: 50/50
+|ss4=Free Gene Speedup (Mecha) +18m<br>Per 5 Rocket Tech LVLs, Snail ATK +12<br>Rocket Tech Upgraded: 50/50
+|ss7=Free Gene Speedup (Mecha) +18m<br>Per 5 Rocket Tech LVLs, Snail ATK +12<br>Rocket Tech Upgraded: 50/50<br> (Awakened)
+}}

@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Tree of Life
+|rank=AAA
+|affct=FTH
+|birthday=08-15
+|source=Fragment Crafting (1.5%), Fungus chest (1.5%), Home Value Pack II ($4.99), Lottery (0.14%), Relic Forge (80 Relic RF), Wishing (0.03%)
+|description=On Aug 15, 20,000 BC, the Tree of Life withered and closed the pathway to heaven.
+
+The Tree of Life was planted in the center of the Garden of Eden. The path to the divine realm was closed after it withered. This symbol of the universe consists of 10 circles and 22 lines. A human who meditates under the tree could reach the Crown Realm and enter the depths of the universe. The 10 circles on the tree housed 10 angels who are responsible for guiding the different spiritual practices of mankind. 
+
+[Tree of Life Realm]
+
+Veil 1: Nothingness (Ain)<br>Veil 2: Everything (Ain-Soph)<br>Veil 3: Light & Darkness (Ain-Soph Aur)
+|fame=33
+|art=50
+|fth=72
+|civ=40
+|tech=48
+|ss1=Snail HP +300<br>Per 10 HP-Fungi eaten, Snail ATK +3<br>HP-Fungi Eaten: 500/500
+|ss2=Snail HP +400<br>Per 10 HP-Fungi eaten, Snail ATK +4<br>HP-Fungi Eaten: 500/500
+|ss3=Snail HP +500<br>Per 10 HP-Fungi eaten, Snail ATK +5<br>HP-Fungi eaten:500/500
+|ss4=Snail HP +700<br>Per 10 HP-Fungi eaten, Snail ATK +7<br>HP-Fungi Eaten: 500/500
+|ss5=Snail HP +900<br>Per 10 HP-Fungi eaten, Snail ATK +9<br>HP-Fungi Eaten: 500/500
+|ss7=Snail HP +900<br>Per 10 HP-Fungi eaten, Snail Atk +9<br>HP-Fungi eaten: 500/500<br>Snail HP +700 (Awakened)
+|skill1=[[File:Koryeo skill II.png|50px]] Place In Koryeon Museum: This Relic's FTH +10
+|skill2=[[File:Koryeo skill II.png|50px]] Place In Koryeon Museum: In Koryeo, Mecha Cells gained +7.5%
+}}
+
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:HP-Fungi Boost]]
+[[Category:Koryeo Museum Boost]]
+[[Category:Koryeo Exploration Boost]]
+[[Category:FTH Boost]]
+[[Category:Mecha Cell Drop Boost]]
+[[Category:Minion ATK Boost]]
+[[Category:Relic Boost]]
+[[Category:Enhanced by Purple Relics]]
+[[Category:Enhanced by HP Fungi]]
+[[Category:Jaden Embryo Boost]]

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=A Thousand Li of Rivers and Mountains
+|class_id=22818
+|rank=SSS
+|affct=ART
+|source=
+|description= A Thousand Li of Rivers and Mountains is a long scroll painting of blue-green landscapes created by Wang Ximeng during the Northern Song dynasty, using brilliant colors and grand composition to showcase the magnificent landscapes of the Jiangnan region during the Northern Song period. The entire scroll is 11.9 meters long, meticulously depicting mountains, rivers, villages, and bridges, not only representing the pinnacle of blue-green landscape painting but also deeply reflecting the harmonious coexistence of humans and nature, regarded as one of China's top ten surviving masterpieces.
+|fame=48
+|art=109
+|fth=72
+|civ=74
+|tech=59
+|ss1=Snail Leadership +3<br>Per 5 Incubator Files fully restored, Snail ATK +9<br>Per 5 Incubator Files fully restored, Priest-Troop Assistance DMG +72<br>Files fully restored: 100/100
+|ss2=Snail Leadership +4<br>Per 5 Incubator Files fully restored, Snail ATK +12<br>Per 5 Incubator Files fully restored, Priest-Troop Assistance DMG +96<br>Files fully restored: 100/100
+|ss3=Snail Leadership +5<br>Per 5 Incubator Files fully restored, Snail ATK +15<br>Per 5 Incubator Files fully restored, Priest-Troop Assistance DMG +120<br>Files fully restored: 100/100
+|ss4=Snail Leadership +7<br>Per 5 Incubator Files fully restored, Snail ATK +21<br>Per 5 Incubator Files fully restored, Priest-Troop Assistance DMG +168<br>Files fully restored: 100/100
+|ss5=Snail Leadership +9<br>Per 5 Incubator Files fully restored, Snail ATK +27<br>Per 5 Incubator Files fully restored, Priest-Troop Assistance DMG +216<br>Files fully restored: 100/100
+|ss6=Snail Leadership +12<br>Per 5 Incubator Files fully restored, Snail ATK +36<br>Per 5 Incubator Files fully restored, Priest-Troop Assistance DMG +288<br>Files fully restored: 100/100
+|ss7=Snail Leadership +12<br>Per 5 Incubator Files fully restored, Snail ATK +36<br>Per 5 Incubator Files fully restored, Priest-Troop Assistance DMG +288<br>Files fully restored: 100/100<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion RUSH +9%
+|skill2=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion DEF +9%
+|skill3=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop Fire DMG +60
+|mirage={{Mirage|name=dungeon@22818_1|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Stone|3rec=242.50M|3atk=668914|3defense=380727|3hp=92598703|3weak=58739
+|4name=Forest|4rec=311.38M|4atk=780037|4defense=442696|4hp=139597373|4weak=63593
+|5name=Mountain|5rec=416.56M|5atk=950684|5defense=537324|5hp=251927270|5weak=70232
+|6name=Water|6rec=548.25M|6atk=1176652|6defense=655802|6hp=448926296|6weak=77668
+|Arec=726.04M|Aatk=1651390|Adefense=828186|Ahp=727125856|Aweak=86845
+}}}}

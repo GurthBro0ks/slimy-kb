@@ -1,0 +1,142 @@
+==Tier 1 (White)==
+{| class="wikitable"
+!Image!!Name!!Conversion!!CostxQuantity!!Reward
+|-
+| rowspan="8" style="background-color:#9c9c9c;" |[[File:Rosary.png|75x75px]]
+| rowspan="8" |Rosary
+| rowspan="8" |19 B-tads
+|-
+|3x1||Enhancment Injection:<br>Snail HP +180<br>Snail DEF +18
+|-
+|2x1||Bharata INTEL + 1500
+|-
+|3x1||B-tads 3000
+|-
+|4x1||Novice Scroll x10
+|-
+|5x1||[[Gear|Twin Tip Dagger]]
+|-
+|6x1||[[Gear|Sikh Turban]]
+|-
+|7x1||Lottery Ticket
+|-
+| style="background-color:#9c9c9c;" | [[File:Linden Tree.png|75x75px]]
+| Lineden Tree||150 B-tads||3x1||300 W-tads
+|-
+| style="background-color:#9c9c9c;" | [[File:Spice.png|75x75px]]
+| Spice||200 B-tads||4x1||Fungus Chest x40
+|-
+| style="background-color:#9c9c9c;" | [[File:Henna Tattoo.png|75x75px]]
+| Henna Tattoo||Bharata INTEL +330||3x1||Travel Speedup 1h
+|}
+
+==Tier 2 (Green)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#7de87f;" | [[File:Rosary green.png|75x75px]]
+| rowspan="7" | Rosary
+|3x3||Enhancement Injection:<br>Snail ATK +4<br>Snail DEF +4
+| rowspan="7" | 57 B-tads
+|-
+|2x1||Bharata INTEL +3000
+|-
+|3x1||6,000 B-tads
+|-
+|4x1||Expert Scroll x20
+|-
+|5x1||[[Gear|<span style="color:#40da25;">Mughal Soldier Helmet</span>]]
+|-
+|6x1||Gene Speedup
+|-
+|8x1||Lottery Ticket x2
+|-
+| style="background-color:#7de87f;" | [[File:Lotus Temple.png|75x75px]]
+|Lotus Temple||3x1||Offering Speedup x2h||Offering Speedup +5m
+|-
+| style="background-color:#7de87f;" | [[File:Humayun's Tomb.png|75x75px]]
+|Humayun's Tomb||4x1||Golden Pickaxe||Refine Speedup +5m
+|-
+| style="background-color:#7de87f;" | [[File:Yoga.png|75x75px]]
+|Yoga||3x1||Bharatic Treasure Map||Gene Speedup +5m
+|}
+
+==Tier 3 (Blue)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#7de8e6;" | [[File:Rosary blue.png|75x75px]]
+| rowspan="7" | Rosary
+|3x3||Enhancement Injection:<br>Snail HP +200<br>Snail DEF +20
+| rowspan="7" | 171 B-tads
+|-
+|2x1||Bharata INTEL + 4500
+|-
+|3x1||9,000 B-tads
+|-
+|4x1||Master Scroll x10
+|-
+|5x1||[[Gear|<span style="color:#22d3d0;">Mahatma's Robe</span>]]
+|-
+|6x1||Time Chest x60
+|-
+|7x1||Lottery Ticket x2
+|-
+| style="background-color:#7de8e6;" | [[File:Agra Fort.png|75x75px]]
+|Agra Fort||4x1||400 W-tads||Evolution Chest +2
+|-
+| style="background-color:#7de8e6;" | [[File:Hawa Mahal.png|75x75px]]
+|Hawa Mahal||3x1||Toner +20||Fungus Chest +2
+|}
+==Tier 4 (Purple)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#f3b5e1;" | [[File:Rosary purple.png|75x75px]]
+| rowspan="7" | Rosary
+|3x3||Enhancement Injection:<br>Snail ATK +22<br>Snail DEF +22
+| rowspan="7" | 513 B-tads
+|-
+|2x1||Bharata INTEL +12,000
+|-
+|3x1||12k B-tads
+|-
+|4x1||Master Scroll +10
+|-
+|5x1||[[Gear|<span style="color:var(--purple-text)">Antelope Horn Shield</span>]]
+|-
+|6x1||Organ Chest 80
+|-
+|7x2||Lottery Ticket x3
+|-
+|style="background-color:#f3b5e1;" | [[File:Sahib Temple.png|75x75px]]
+|Sahib Temple||3x1||Divine Order Chest x100||Purple Reagent +1
+|-
+| style="background-color:#f3b5e1;" | [[File:Taj Mahal.png|75x75px]]
+|Taj Mahal||4x1||[[Leaf Manuscript]]x20 ||Bharata Treasure Map +2
+|}
+
+==Tier 5 (Orange)==
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#ffb066;" | [[File:Rosary orange.png|75x75px]]
+| rowspan="7" | Rosary
+|3x3||Enhancement Injection:<br>Snail HP +240<br>Snail ATK +24
+| rowspan="7" | 1,539 B-tads
+|-
+|2x1||Bharata INTEL +8,000
+|-
+|3x1||B-tad +18k
+|-
+|4x1||Master Scroll +40
+|-
+|5x1||Dragon Chest +100
+|-
+|6x2||Lottery Ticket x3
+|-
+|7x1||[[Gear|<span style="color:var(--orange-text)">Windsor's Cape</span>]]
+|-
+| style="background-color:#ffb066;" | [[File:The Ganges.png|75x75px]]
+|The Ganges||3x1||Wish Coin x2||15 W-tads
+|}

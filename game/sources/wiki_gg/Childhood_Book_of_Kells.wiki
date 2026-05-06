@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Childhood,Book of Kells
+|rank=orange
+|amount=2
+|category=self
+|description=Per 100 floors up in Minion Sims record, Snail DEF +7; Minion Sims record: 6000/6000F
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]

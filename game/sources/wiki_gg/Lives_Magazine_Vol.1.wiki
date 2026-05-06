@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Lives Magazine Vol.1
+|class_id=22614
+|rank=SS
+|affct=FAME
+|birthday=05-13
+|source=Lottery Machine No.3 (0.24%)
+|description=On May 13, 1936 AD, Luce founded Life Magazine in New York.<br>After the success of Time Magazine, media mogul Luce began to expand his business and founded Life Magazine during this period. The content of the magazine mainly featured news photography such as feature stories and special photos, which had a pioneering significance in the field of news photography and left an unforgettable impression on future generations.
+|fame=105
+|art=57
+|fth=52
+|civ=66
+|tech=67
+|ss1=Snail DEF +20<br>Per 3 Hidden Treasures claimed, Snail HP +20<br>Per 3 Hidden Treasures claimed, Priest-Troop Assistance DMG +16<br>Hidden Treasures Claimed: 150/150
+|ss2=Snail DEF +30<br>Per 3 Hidden Treasures claimed, Snail HP +30<br>Per 3 Hidden Treasures claimed, Priest-Troop Assistance DMG +24<br>Hidden Treasures Claimed: 150/150
+|ss3=Snail DEF +40<br>Per 3 Hidden Treasures claimed, Snail HP +40<br>Per 3 Hidden Treasures claimed, Priest-Troop Assistance DMG +32<br>Hidden Treasures Claimed: 150/150
+|ss4=Snail DEF +60<br>Per 3 Hidden Treasures claimed, Snail HP +60<br>Per 3 Hidden Treasures claimed, Priest-Troop Assistance DMG +48<br>Hidden Treasures Claimed: 150/150
+|ss5=Snail DEF +80<br>Per 3 Hidden Treasures claimed, Snail HP +80<br>Per 3 Hidden Treasures claimed, Priest-Troop Assistance DMG +64<br>Hidden Treasures Claimed: 150/150
+|ss6=Snail DEF +110<br>Per 3 Hidden Treasures claimed, Snail HP +110<br>Per 3 Hidden Treasures claimed, Priest-Troop Assistance DMG +88<br>Hidden Treasures Claimed: 150/150
+|ss7=Snail DEF +110<br>Per 3 Hidden Treasures claimed, Snail HP +110<br>Per 3 Hidden Treasures claimed, Priest-Troop Assistance DMG +88<br>Hidden Treasures Claimed: 150/150<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Snail RUSH +600
+|skill2=[[File:Pairiesanctum skill III.png|50px]]Place in Prairie Sanctum: This Relic's FAME +15
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Purple Reagent Drops +15%
+|mirage={{Mirage|name=Founding Team|reward={{RewardIconWithLink|Temporary Contract, +5|orange}}
+|3name=Robert Capa|3rec=245.19M|3atk=634127|3defense=383153|3hp=61431997|3weak=49544
+|4name=Eisenstadt|4rec=418.71M|4atk=921418|4defense=539260|4hp=121931871|4weak=56535
+|5name=Luce|5rec=678.89M|5atk=1380582|5defense=777618|5hp=339135329|5weak=68845
+|Arec=850.73M|Aatk=1700091|Adefense=961922|Ahp=578151229|Aweak=83218
+}}}}

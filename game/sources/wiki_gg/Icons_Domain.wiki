@@ -1,0 +1,50 @@
+= [[Domain]] =
+Icons that are mainly used in Domains.
+
+= Moons =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Beast Moon}}||[[Koryeon Domain]]
+{{IconExampleRowWithText|Sword Moon}}||[[Yamato Domain]]
+{{IconExampleRowWithText|Dragon Moon}}||[[Cathay Domain]]
+{{IconExampleRowWithText|War Moon}}||[[Murikan Domain]]
+{{IconExampleRowWithText|Thunder Moon}}||[[Britland Domain]]
+{{IconExampleRowWithText|Nether Moon}}||[[Kemetic Domain]]
+{{IconExampleRowWithText|Arcane Moon}}||[[Hellenic Domain]]
+{{IconExampleRowWithText|Cyclops Moon}}||[[Cyclops Domain]]
+|}
+
+= [[Koryeon Domain]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Energy Core (Koryeon Domain)}}
+{{IconExampleRowWithLink|Nebula Detector}}
+{{IconExampleRowWithText|Prison Cell Key}}
+{{IconExampleRowWithText|Rocket Up Blueprint}}
+{{IconExampleRowWithText|Soldier Manual}}
+|}
+
+= [[Yamato Domain]] =
+
+= [[Cathay Domain]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Adv. Rocket Blueprint}}
+{{IconExampleRowWithText|Prison Cage Key}}
+{{IconExampleRowWithText|Wormhole Device}}
+|}
+
+= [[Murikan Domain]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Ghostfire Blueprint|orange}}
+{{IconExampleRowWithText|Jaden Spear Blueprint}}
+{{IconExampleRowWithText|War Weapon Tech}}
+|}
+
+= [[Britland Domain]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Anti-Gachi Jet Oil}}
+{{IconExampleRowWithText|Ghost Ship Figurehead}}
+{{IconExampleRowWithLink|Matrix Motherboard}}
+{{IconExampleRowWithLink|Pyramid Card}}
+|}
+
+[[Category:Domains]]
+[[Category:Icons]]

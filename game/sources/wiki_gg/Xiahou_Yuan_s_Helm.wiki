@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Xiahou Yuan's Helm
+|class_id=20766
+|rank=Green
+|affct=FAITH
+|source=
+|description=Passed down after Xiahou D ascended to the Domain. Now worn by his little brother guarding the Cyclops Domain. Family tradition: getting stuck with big bro's old gear.
+|fame=13
+|art=16
+|fth=31
+|civ=17
+|tech=13
+|ss1=Per Organ implanted, Snail DEF +1<br>Organs Implanted: 40/40
+|ss2=Per Organ implanted, Snail DEF +2<br>Organs Implanted: 40/40
+|ss3=Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40
+|ss4=Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40
+|ss7=Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40<br> (Awakened)
+}}

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=BetaGo,Polonium
+|rank=purple
+|amount=2
+|category=self
+|description=Snail HP +600
+}}
+[[Category:Self]]

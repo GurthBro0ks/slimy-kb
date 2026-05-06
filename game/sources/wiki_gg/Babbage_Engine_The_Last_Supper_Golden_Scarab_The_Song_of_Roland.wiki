@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Babbage Engine,The Last Supper,Golden Scarab,The Song of Roland
+|rank=orange
+|amount=
+|category=self
+|description=Per Organ transplanted, Snail ATK +18<br>Organs Transplanted: 40/40
+}}
+[[Category:Self]]

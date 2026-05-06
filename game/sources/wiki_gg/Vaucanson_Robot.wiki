@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Vaucanson Robot
+|class_id=22484
+|rank=Blue
+|affct=TECH
+|birthday=07-16
+|source=Lottery Machine No.3 (0.25%)
+|description=On Jul 16, 1774 AD, Swiss watchmaker Jaquet Droz created three incredibly intricate automata!<br>The automata made by Jaquet Droz consist of thousands of mechanical parts that can move through a gear system, not only writing beautiful calligraphy and drawing pictures but also playing wonderful music. The entire automaton's power comes entirely from its internal mechanics, requiring no external power source, and still works to this day!
+|fame=28
+|art=22
+|fth=35
+|civ=25
+|tech=44
+|ss1=Per 10 advanced fusions, Snail HP +10<br>Advanced Fusions: 500/500
+|ss2=Per 10 advanced fusions, Snail HP +20<br>Advanced Fusions: 500/500
+|ss3=Per 10 advanced fusions, Snail HP +30<br>Advanced Fusions: 500/500
+|ss4=Per 10 advanced fusions, Snail HP +50<br>Advanced Fusions: 500/500
+|ss7=Per 10 advanced fusions, Snail HP +50<br>Advanced Fusions: 500/500<br>Snail HP +500 (Awakened)
+|skill1=[[File:Minion Sim Skill I.png|50px]]Place in Minion Sims: In Minion Sims, Troop Wind DMG +10
+}}

@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Wheel of Fortune
+|class_id=21723
+|rank=SSS
+|affct=FAITH
+|birthday=02-25
+|source=
+|description=On Feb 25, 5000 BC, the Wheel of Fortune stopped spinning.<br>Clotho, the youngest of The Fates, was weaving the thread of human life when the spindle suddenly began to rotate by itself. The second sister, Lachesis, trembled as she saw that the thread was starting to break. Atropos, in charge of death, had lost control of the spinning wheel; at last, the Ragnarok is nigh.
+[The Fates]
+Third Sister: Clotho is in charge of birth and weaving the thread of life. Second sister: Lachesis is responsible for destiny and the length of the thread of life. Eldest sister: Atropos is in charge of death and cutting the thread.
+|fame=67
+|art=63
+|fth=107
+|civ=69
+|tech=56
+|ss1=Snail ATK +30<br>When offering, 2x Order Chest Drops +3%<br>Per 5 Divine Order Chests opened:<br>> Snail ATK +9<br>Divine Order Chests Opened: 100/100
+|ss2=Snail ATK +40<br>When offering, 2x Order Chest Drops +4%<br>Per 5 Divine Order Chests opened:<br>> Snail ATK +12<br>Divine Order Chests Opened: 100/100
+|ss3=Snail ATK +50<br>When offering, 2x Order Chest Drops +5%<br>Per 5 Divine Order Chests opened:<br>> Snail ATK +15<br>Divine Order Chests Opened: 100/100
+|ss4=Snail ATK +70<br>When offering, 2x Order Chest Drops +7%<br>Per 5 Divine Order Chests opened:<br>> Snail ATK +21<br>Divine Order Chests Opened: 100/100
+|ss5=Snail ATK +90<br>When offering, 2x Order Chest Drops +9%<br>Per 5 Divine Order Chests opened:<br>> Snail ATK +27<br>Divine Order Chests Opened: 100/100
+|ss6=Snail ATK +120<br>When offering, 2x Order Chest Drops +12%<br>Per 5 Divine Order Chests opened:<br>> Snail ATK +36<br>Divine Order Chests Opened: 100/100
+|ss7=Snail ATK +120<br>When offering, 2x Order Chest Drops +12%<br>Per 5 Divine Order Chests opened:<br>> Snail ATK +36<br>Divine Order Chests Opened: 100/100<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Angel Cells gained +30%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's FTH +15
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Snail RUSH +600
+|mirage={{Mirage|name=Fate Tool|reward={{RewardIconWithLink|Golden Eyelashes Sample, +3|orange}}
+|3name=Spindle of Fortune|3rec=3.98M|3atk=49050|3defense=32791|3hp=782232|3weak=10776
+|4name=Loom of Fortune|4rec=7.64M|4atk=70363|4defense=47039|4hp=1499436|4weak=12749
+|5name=Spinning Machine of Fortune|5rec=13.74M|5atk=96405|5defense=64449|5hp=2649736|5weak=16212
+|6name=Sewing Machine of Fortune|6rec=29.43M|6atk=127590|6defense=85297|6hp=4367920|6weak=18483
+|Arec=46.82M|Aatk=164199|Adefense=109771|Ahp=7080573|Aweak=19884
+}}}}

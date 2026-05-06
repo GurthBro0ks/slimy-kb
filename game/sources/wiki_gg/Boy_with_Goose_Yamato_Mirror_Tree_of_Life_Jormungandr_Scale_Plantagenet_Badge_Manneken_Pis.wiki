@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=152
+|relics=Boy with Goose,Yamato Mirror,Tree of Life,Jormungandr Scale,Plantagenet Badge,Manneken Pis
+|rank=purple
+|amount=6
+|category=self
+|description=Per 3 Purple Relics gained, Snail ATK +40;Purple Relics: 60/60
+}}

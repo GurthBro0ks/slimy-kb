@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=The Wanderer
+|class_id=22022
+|rank=Blue
+|affct=ART
+|birthday=05-14
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On May 14, 1818 AD, the painter named Friedrich created this painting at home.<br>The Wanderer is an oil painting by an artist named Friedrich. A man stands on the mountain in the center of the painting. Maybe he's looking at the landscapes in the distance or maybe he has something on his mind. The painting gives off feelings of ethereality, solitude, and detachment. It is a classic work of romanticism.
+|fame=20
+|art=45
+|fth=27
+|civ=35
+|tech=27
+|ss1=Per 5 Blue Relics gained, Snail HP +30<br>Blue Relics: 180/180
+|ss2=Per 5 Blue Relics gained, Snail HP +60<br>Blue Relics: 180/180
+|ss3=Per 5 Blue Relics gained, Snail HP +90<br>Blue Relics: 180/180
+|ss4=Per 5 Blue Relics gained, Snail HP +150<br>Blue Relics: 180/180
+|ss7=Per 5 Blue Relics gained, Snail HP +150<br>Blue Relics: 180/180<br>Snail HP +500 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Reagent Drops +1%
+}}

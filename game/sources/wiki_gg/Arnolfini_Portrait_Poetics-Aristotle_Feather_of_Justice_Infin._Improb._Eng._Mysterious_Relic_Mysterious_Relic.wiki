@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Arnolfini Portrait,Poetics-Aristotle,Feather of Justice,Infin. Improb. Eng.,Mysterious Relic,Mysterious Relic
+|rank=orange
+|amount=6
+|category=self
+|description=Per 5 CIV Relics Awakened, Snail ATK +36; CIV Relics Awakened: 100/100
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]

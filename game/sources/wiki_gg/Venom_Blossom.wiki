@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Venom Blossom
+|type=Bionic
+|rank=orange
+|id=10684
+|idx=42
+|description=From afar, a radiant and bewitching bloom — but its razor-sharp, venom-tipped petals wait only to strike down those who let their guard down.
+|skill=When the enemy's HP is below 306% of your ATK, 21% chance to summon the Abyssal Maw to devour the enemy!
+|hp=2900
+|def=209
+|atk=169
+|rush=177
+|gene1=In Gastric Pouch combat, all ELMT DMG +60
+|gene2=In Gastric Pouch combat, ignore enemy DEF +3%
+|gene3=In Gastric Pouch combat, Dodge rate +9%
+|gene4=In Gastric Pouch combat, weakness check -6%
+|gene5=In Gastric Pouch combat, DMG to enemy +9%
+|gene7=In Gastric Pouch combat, DMG to enemy +9% (Awakened)
+|}}

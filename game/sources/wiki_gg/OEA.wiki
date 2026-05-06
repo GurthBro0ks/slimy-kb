@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=OEA
+|class_id=20369
+|rank=Green
+|affct=TECH
+|source=
+|description=A basic chemical analysis instrument. Equipped with a micro-processor for condition control and data processing, it's capable of quantitative analysis of common elements in organic solid like carbon, protium, and nitrogen. Both the chemical and food industries make extensive use of it.
+|fame=16
+|art=15
+|fth=16
+|civ=14
+|tech=29
+|ss1=Per 10 TECH Pistils Used, Snail ATK +3<br>TECH Pistils Used: 400/400
+|ss2=Per 10 TECH Pistils Used, Snail ATK +4<br>TECH Pistils Used: 400/400
+|ss3=Per 10 TECH Pistils Used, Snail ATK +5<br>TECH Pistils Used: 400/400
+|ss4=Per 10 TECH Pistils Used, Snail ATK +5<br>TECH Pistils Used: 400/400
+|ss7=Per 10 TECH Pistils Used, Snail ATK +5<br>TECH Pistils Used: 400/400<br> (Awakened)
+}}

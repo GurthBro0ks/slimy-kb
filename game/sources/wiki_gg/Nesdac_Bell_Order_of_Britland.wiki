@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=274
+|relics=Nesdac Bell,Order of Britland
+|rank=blue
+|amount=2
+|category=self
+|description=VIP Gem Card, daily Lottery Ticket +1
+}}

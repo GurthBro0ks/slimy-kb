@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=791
+|relics=Wailing Wall,CBD,CEDAW,Historie Naturelle,Battle of San Romano,Johann Wilhelm's Statue
+|rank=orange
+|amount=6
+|category=self
+|description=Snail Leadership +12
+}}

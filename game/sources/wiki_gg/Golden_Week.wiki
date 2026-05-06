@@ -1,0 +1,1016 @@
+==Golden Week==
+[[File:Joyful Journey.png|200px|left|alt=Joyful Journey]]
+May 17 - May 30 2024
+{{Clear}}
+
+==Golden Race==
+[[File:Golden Week Race Details.png|200px|thumb|right|alt=Your snail looking at their racing options.|Your snail looking at their racing options.]]
+It's a race!
+
+===Racers===
+Racing Girl [[Chan-hee]] has brought you to the annual racing competition in the [[Yamato]] region. After the legendary racer abandoned the sport the event organizers felt embarrassed and decided to change all the matches to team competitions. Racing Girl Chan-hee has found you some partners, all of whom you must be familiar with.
+
+Each partner has a costume/skin that enhances their powers and gives them an additional skill.
+
+====[[Adviser Zhuge]]====
+{| class="wikitable mw-collapsible mw-collapsed"
+!Level
+!Power
+!Skill
+!Cost
+|-
+|1||1,100||One's Racing Power: +4.1%||Free
+|-
+|2||1,200||One's Racing Power: +4.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|3||1,300||One's Racing Power: +4.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|4||1,400||One's Racing Power: +4.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|5||1,500||One's Racing Power: +4.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|6||1,600||One's Racing Power: +4.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|7||1,700||One's Racing Power: +4.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|8||1,800||One's Racing Power: +4.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|9||1,900||One's Racing Power: +4.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|10||2,000||One's Racing Power: +4.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|11||2,100||One's Racing Power: +5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|12||2,200||One's Racing Power: +5.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|13||2,300||One's Racing Power: +5.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|14||2,400||One's Racing Power: +5.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|15||2,500||One's Racing Power: +5.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|16||2,600||One's Racing Power: +5.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|17||2,700||One's Racing Power: +5.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|18||2,800||One's Racing Power: +5.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|19||2,900||One's Racing Power: +5.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|20||3,000||One's Racing Power: +5.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|21||3,100||One's Racing Power: +6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|22||3,200||One's Racing Power: +6.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|23||3,300||One's Racing Power: +6.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|24||3,400||One's Racing Power: +6.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|25||3,500||One's Racing Power: +6.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|26||3,600||One's Racing Power: +6.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|27||3,700||One's Racing Power: +6.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|28||3,800||One's Racing Power: +6.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|29||3,900||One's Racing Power: +6.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|30||4,000||One's Racing Power: +6.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|31||4,100||One's Racing Power: +7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|32||4,200||One's Racing Power: +7.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|33||4,300||One's Racing Power: +7.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|34||4,400||One's Racing Power: +7.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|35||4,500||One's Racing Power: +7.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|36||4,600||One's Racing Power: +7.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|37||4,700||One's Racing Power: +7.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|38||4,800||One's Racing Power: +7.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|39||4,900||One's Racing Power: +7.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|40||5,000||One's Racing Power: +7.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|41||5,100||One's Racing Power: +8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|42||5,200||One's Racing Power: +8.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|43||5,300||One's Racing Power: +8.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|44||5,400||One's Racing Power: +8.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|45||5,500||One's Racing Power: +8.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|46||5,600||One's Racing Power: +8.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|47||5,700||One's Racing Power: +8.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|48||5,800||One's Racing Power: +8.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|49||5,900||One's Racing Power: +8.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|50||6,000||One's Racing Power: +8.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|51||6,100||One's Racing Power: +9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|52||6,200||One's Racing Power: +9.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|53||6,300||One's Racing Power: +9.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|54||6,400||One's Racing Power: +9.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|55||6,500||One's Racing Power: +9.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|56||6,600||One's Racing Power: +9.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|57||6,700||One's Racing Power: +9.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|58||6,800||One's Racing Power: +9.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|59||6,900||One's Racing Power: +9.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|60||7,000||One's Racing Power: +10%||10 {{RewardIconWithText|Lightning Serum}}
+|}
+
+====[[Athena]]====
+{| class="wikitable mw-collapsible mw-collapsed"
+!Level
+!Power
+!Skill
+!Cost
+|-
+|1||1,200||Ally racer's racing power +4.1%||Free
+|-
+|2||1,300||Ally racer's racing power +4.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|3||1,400||Ally racer's racing power +4.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|4||1,500||Ally racer's racing power +4.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|5||1,600||Ally racer's racing power +4.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|6||1,700||Ally racer's racing power +4.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|7||1,800||Ally racer's racing power +4.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|8||1,900||Ally racer's racing power +4.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|9||2,000||Ally racer's racing power +4.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|10||2,100||Ally racer's racing power +4.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|11||2,200||Ally racer's racing power +5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|12||2,300||Ally racer's racing power +5.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|13||2,400||Ally racer's racing power +5.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|14||2,500||Ally racer's racing power +5.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|15||2,600||Ally racer's racing power +5.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|16||2,700||Ally racer's racing power +5.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|17||2,800||Ally racer's racing power +5.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|18||2,900||Ally racer's racing power +5.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|19||3,000||Ally racer's racing power +5.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|20||3,100||Ally racer's racing power +5.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|21||3,200||Ally racer's racing power +6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|22||3,300||Ally racer's racing power +6.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|23||3,400||Ally racer's racing power +6.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|24||3,500||Ally racer's racing power +6.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|25||3,600||Ally racer's racing power +6.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|26||3,700||Ally racer's racing power +6.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|27||3,800||Ally racer's racing power +6.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|28||3,900||Ally racer's racing power +6.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|29||4,000||Ally racer's racing power +6.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|30||4,100||Ally racer's racing power +6.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|31||4,200||Ally racer's racing power +7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|32||4,300||Ally racer's racing power +7.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|33||4,400||Ally racer's racing power +7.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|34||4,500||Ally racer's racing power +7.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|35||4,600||Ally racer's racing power +7.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|36||4,700||Ally racer's racing power +7.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|37||4,800||Ally racer's racing power +7.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|38||4,900||Ally racer's racing power +7.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|39||5,000||Ally racer's racing power +7.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|40||5,100||Ally racer's racing power +7.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|41||5,200||Ally racer's racing power +8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|42||5,300||Ally racer's racing power +8.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|43||5,400||Ally racer's racing power +8.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|44||5,500||Ally racer's racing power +8.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|45||5,600||Ally racer's racing power +8.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|46||5,700||Ally racer's racing power +8.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|47||5,800||Ally racer's racing power +8.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|48||5,900||Ally racer's racing power +8.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|49||6,000||Ally racer's racing power +8.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|50||6,100||Ally racer's racing power +8.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|51||6,200||Ally racer's racing power +9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|52||6,300||Ally racer's racing power +9.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|53||6,400||Ally racer's racing power +9.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|54||6,500||Ally racer's racing power +9.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|55||6,600||Ally racer's racing power +9.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|56||6,700||Ally racer's racing power +9.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|57||6,800||Ally racer's racing power +9.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|58||6,900||Ally racer's racing power +9.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|59||7,000||Ally racer's racing power +9.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|60||7,100||Ally racer's racing power +10%||10 {{RewardIconWithText|Lightning Serum}}
+|}
+
+====[[Taoraemon]]====
+{| class="wikitable mw-collapsible mw-collapsed"
+!Level
+!Power
+!Skill
+!Cost
+|-
+|1||1,050||Rival racers' racing power -4.1%||Free
+|-
+|2||1,150||Rival racers' racing power -4.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|3||1,250||Rival racers' racing power -4.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|4||1,350||Rival racers' racing power -4.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|5||1,450||Rival racers' racing power -4.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|6||1,550||Rival racers' racing power -4.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|7||1,650||Rival racers' racing power -4.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|8||1,750||Rival racers' racing power -4.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|9||1,850||Rival racers' racing power -4.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|10||1,950||Rival racers' racing power -4.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|11||2,050||Rival racers' racing power -5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|12||2,150||Rival racers' racing power -5.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|13||2,250||Rival racers' racing power -5.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|14||2,350||Rival racers' racing power -5.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|15||2,450||Rival racers' racing power -5.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|16||2,550||Rival racers' racing power -5.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|17||2,650||Rival racers' racing power -5.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|18||2,750||Rival racers' racing power -5.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|19||2,850||Rival racers' racing power -5.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|20||2,950||Rival racers' racing power -5.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|21||3,050||Rival racers' racing power -6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|22||3,150||Rival racers' racing power -6.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|23||3,250||Rival racers' racing power -6.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|24||3,350||Rival racers' racing power -6.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|25||3,450||Rival racers' racing power -6.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|26||3,550||Rival racers' racing power -6.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|27||3,650||Rival racers' racing power -6.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|28||3,750||Rival racers' racing power -6.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|29||3,850||Rival racers' racing power -6.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|30||3,950||Rival racers' racing power -6.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|31||4,050||Rival racers' racing power -7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|32||4,150||Rival racers' racing power -7.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|33||4,250||Rival racers' racing power -7.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|34||4,350||Rival racers' racing power -7.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|35||4,450||Rival racers' racing power -7.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|36||4,550||Rival racers' racing power -7.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|37||4,650||Rival racers' racing power -7.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|38||4,750||Rival racers' racing power -7.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|39||4,850||Rival racers' racing power -7.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|40||4,950||Rival racers' racing power -7.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|41||5,050||Rival racers' racing power -8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|42||5,150||Rival racers' racing power -8.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|43||5,250||Rival racers' racing power -8.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|44||5,350||Rival racers' racing power -8.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|45||5,450||Rival racers' racing power -8.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|46||5,550||Rival racers' racing power -8.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|47||5,650||Rival racers' racing power -8.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|48||5,750||Rival racers' racing power -8.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|49||5,850||Rival racers' racing power -8.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|50||5,950||Rival racers' racing power -8.9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|51||6,050||Rival racers' racing power -9%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|52||6,150||Rival racers' racing power -9.1%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|53||6,250||Rival racers' racing power -9.2%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|54||6,350||Rival racers' racing power -9.3%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|55||6,450||Rival racers' racing power -9.4%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|56||6,550||Rival racers' racing power -9.5%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|57||6,650||Rival racers' racing power -9.6%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|58||6,750||Rival racers' racing power -9.7%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|59||6,850||Rival racers' racing power -9.8%||10 {{RewardIconWithText|Lightning Serum}}
+|-
+|60||6,950||Rival racers' racing power -10%||10 {{RewardIconWithText|Lightning Serum}}
+|}
+
+====Costumes====
+Each racer has a costume that can be purchased through Value Packs or Gifts. The costume will upgrade the racer, give them an extra power, and increase their power for every level.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!Racer
+!Costume Name
+!Where to Purchase
+!New Skill
+!Power Enhancement
+!Costume Images
+!Max Level<br>Racer in Costume
+|-
+|Adviser Zhuge
+|Windbreaker Costume
+|1k {{RewardIconWithText|W-Tad}} [[#Value_Pack|Value Pack]]
+|Ambush when falling behind, Rival injured for 2s
+|Gives 66 power at Level 1 and<br>an additional 6 power every level after that.
+|[[File:Windbreaker Costume Details 1.png|100px|frameless|alt=Windbreaker Costume 1]] [[File:Windbreaker Costume Details 2.png|100px|frameless|alt=Windbreaker Costume 2]]
+|[[File:Windbreaker Details.png|100px|frameless|alt=Windbreaker Max Level]]
+|-
+|Athena
+|Crystal Stole Costume
+|8k {{RewardIconWithText|W-Tad}} [[#Gift|Gift]] Day 2
+|Upon entering, Rival racers' racing power -5%
+|Gives 60 power at Level 1 and<br>an additional 5 power every level after that.
+|[[File:Crystal Stole Costume Details.png|100px|frameless|alt=Crystal Stole Costume]]
+|[[File:Crystal Stole Details.png|100px|frameless|alt=Crystal Stole Max Level]]
+|-
+|Taoraemon
+|Celebrity Costume
+|$4.99 [[#Value_Pack|Value Pack]]
+|Start 2s earlier at the beginning
+|Gives ? power at Level 1 and<br>an additional ? power every level after that.
+|[[File:Celebrity Costume Details.png|100px|frameless|alt=Celebrity Costume]]
+|?
+|}
+
+===Race Groups===
+There are several race groups that you must beat in order.
+
+====Bicycle Group====
+Cost 1k {{RewardIconWithText|B-Tad}} to sign up for the Bicycle Group competition and consists of four events.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!Event Name
+!Recommended Speed
+!Riding Tool
+!Reward
+|-
+|Raging Pirates||3,350||Bicycle||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +200}}
+|-
+|Colorful Fairies||3,698||Bicycle||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +200}}
+|-
+|Brave New World||4,046||Bicycle||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +200}}
+|-
+|White-Haired Trio||4,394||Bicycle||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +200}}
+|}
+
+Once all four races are completed you win the Bicycle Group 1st Prize of
+* {{RewardIconWithText|W-Tad, +200}}
+* {{RewardIconWithText|Master Alchemy Case|orange}}
+
+====Moto Group====
+Cost 2k {{RewardIconWithText|B-Tad}} to sign up for the Moto Group competition and consists of six events.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!Event Name
+!Recommended Speed
+!Riding Tool
+!Reward
+|-
+|Basketball Players||4,742||Moto||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +250}}
+|-
+|Goblin Squad||5,090||Moto||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +250}}
+|-
+|Pirate Squad||5,438||Moto||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +250}}
+|-
+|Nether Guardians||5,786||Moto||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +250}}
+|-
+|Cyclops Squad||6,134||Moto||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +250}}
+|-
+|General Fire||6,482||Moto||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +250}}
+|}
+
+Once all six races are completed you win the Moto Group 1st Prize of
+* {{RewardIconWithText|W-Tad, +300}}
+* {{RewardIconWithLink|Lottery Ticket, +6|orange}}
+
+====Surfing Group====
+Cost 3k {{RewardIconWithText|B-Tad}} to sign up for the Surfing Group competition and consists of eight events.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!Event Name
+!Recommended Speed
+!Riding Tool
+!Reward
+|-
+|Mech Legion||7,102||Surfing||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +300}}
+|-
+|Samoyed Samurai||7,463||Surfing||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +300}}
+|-
+|East Sea Dragon Lord||7,825||Surfing||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +300}}
+|-
+|The Young Gods||8,188||Surfing||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +300}}
+|-
+|Disaster of the Heaven River||8,550||Surfing||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +300}}
+|-
+|Loyal Martial Navy||8,912||Surfing||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +300}}
+|-
+|Galaxy Warrior||9,273||Surfing||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +300}}
+|-
+|Charm Goddess||9,635||Surfing||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +300}}
+|}
+
+Once all eight races are completed you win the Surfing Group 1st Prize of
+* {{RewardIconWithText|W-Tad, +400}}
+* {{RewardIconWithLink|Wish Coin, +3|orange}}
+
+====Karting Group====
+Cost 4k {{RewardIconWithText|B-Tad}} to sign up for the Karting Group competition and consists of ten events.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!Event Name
+!Recommended Speed
+!Riding Tool
+!Reward
+|-
+|Whale Up||9,997||Karting||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +350}}
+|-
+|Gangster Brother||10,359||Karting||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +350}}
+|-
+|General Mountain||10,721||Karting||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +350}}
+|-
+|Model Train Group||11,083||Karting||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +350}}
+|-
+|Domain Cannon Fodder Team||11,445||Karting||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +350}}
+|-
+|Tomb Guards||11,807||Karting||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +350}}
+|-
+|Bloodline Clan||12,169||Karting||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +350}}
+|-
+|Black Magic Practitioners||12,531||Karting||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +350}}
+|-
+|Hitman No.7||12,718||Karting||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +350}}
+|-
+|Mighty Girl||12,905||Karting||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +350}}
+|}
+
+Once all ten races are completed you win the Karting Group 1st Prize of
+* {{RewardIconWithText|W-Tad, +500}}
+* {{RewardIconWithLink|Lucky Coin, +3|orange}}
+
+====Sailboat Group====
+Cost 5k {{RewardIconWithText|B-Tad}} to sign up for the Sailboat Group competition and consists of twelve events.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!Event Name
+!Recommended Speed
+!Riding Tool
+!Reward
+|-
+|Tombstone Carrier's Offspring||13,093||Sailboat||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +400}}
+|-
+|General Water||13,280||Sailboat||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +400}}
+|-
+|Oil Prospection Squad||13,467||Sailboat||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +400}}
+|-
+|Ten Attendants||13,654||Sailboat||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +400}}
+|-
+|Desert Fox||13,841||Sailboat||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +400}}
+|-
+|Cutie Beasts||14,029||Sailboat||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +400}}
+|-
+|Wrestling Champions||14,216||Sailboat||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +400}}
+|-
+|Totem Power||14,403||Sailboat||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +400}}
+|-
+|General Wind||14,590||Sailboat||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +400}}
+|-
+|Dragon Palace Princes||14,777||Sailboat||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +400}}
+|-
+|Drumblade Butchers||14,965||Sailboat||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +400}}
+|-
+|Base Navy||15,152||Sailboat||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +400}}
+|}
+
+Once all twelve races are completed you win the Sailboat Group 1st Prize of
+* {{RewardIconWithText|W-Tad, +600}}
+* {{RewardIconWithLink|Decor Coin, +10|orange}}
+
+====Ski Group====
+Cost 6k {{RewardIconWithText|B-Tad}} to sign up for the Ski Group competition and consists of fourteen events.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!Event Name
+!Recommended Speed
+!Riding Tool
+!Reward
+|-
+|Wilderness Hunters||15,339||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|-
+|Surf Clam Squad||15,526||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|-
+|Respected Doctors||15,713||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|-
+|Deformed Virus||15,901||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|-
+|CCR of A Wandering Planet||16,088||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|-
+|Flamingo Squad||16,275||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|-
+|Mage Gathering||16,462||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|-
+|Winter Fairy Tale||16,649||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|-
+|Gentle Beasts||16,837||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|-
+|Viking Warriors||17,024||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|-
+|Fallen Ones||17,211||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|-
+|Demon God's Minions||17,398||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|-
+|Antigravity Squad||17,585||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|-
+|Earth Federation Army||17,773||Ski||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +450}}
+|}
+
+Once all fourteen races are completed you win the Ski Group 1st Prize of
+* {{RewardIconWithText|W-Tad, +700}}
+* {{RewardIconWithLink|Badge, +20|orange}}
+
+====Flying Broom Group====
+Cost 7k {{RewardIconWithText|B-Tad}} to sign up for the Flying Broom Group competition and consists of sixteen events.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!Event Name
+!Recommended Speed
+!Riding Tool
+!Reward
+|-
+|Chancellor's Guards||17,960||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Snail Crusaders||18,147||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Special Task Force||18,571||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Hamster Security Team||?||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Robe Thives||?||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Thunder Butlers||?||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Incubus Squad||?||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Luck Team||?||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Rift Assassin Squad||?||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Ridge Lords||?||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Demon Pagoda Guards||?||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Demon Hunters||?||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Dung Beetle Bombers||?||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Yoga Masters||?||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Bladden's Disciples||?||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|-
+|Spore Legion||?||Flying Broom||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Happy Coin, +500}}
+|}
+
+Once all sixteen races are completed you win the Flying Broom Group 1st Prize of
+* {{RewardIconWithText|W-Tad, +1k}}
+* {{RewardIconWithLink|Singularity Crystal|orange}}
+
+===Point Gift - Racing Points===
+Exchange Racing Points for rewards.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!Racing Points
+!Rewards
+|-
+|40||{{RewardIconWithText|Offering Speedup, +2h}}<br>{{RewardIconWithText|Happy Coin, +200}}<br>{{RewardIconWithText|W-Tad, +100}}
+|-
+|80||{{RewardIconWithText|Offering Speedup, +2h}}<br>{{RewardIconWithText|Happy Coin, +200}}<br>{{RewardIconWithText|W-Tad, +100}}
+|-
+|120||{{RewardIconWithText|Offering Speedup, +2h}}<br>{{RewardIconWithText|Happy Coin, +200}}<br>{{RewardIconWithText|Rainbow Point, +10}}
+|-
+|160||{{RewardIconWithText|Offering Speedup, +2h}}<br>{{RewardIconWithText|Happy Coin, +200}}<br>{{RewardIconWithText|W-Tad, +100}}
+|-
+|200||{{RewardIconWithText|Offering Speedup, +2h}}<br>{{RewardIconWithText|Happy Coin, +200}}<br>{{RewardIconWithText|W-Tad, +100}}
+|-
+|240||{{RewardIconWithText|Offering Speedup, +2h}}<br>{{RewardIconWithText|Happy Coin, +200}}<br>{{RewardIconWithText|Rainbow Point, +10}}
+|-
+|280||{{RewardIconWithText|Offering Speedup, +2h}}<br>{{RewardIconWithText|Happy Coin, +300}}<br>{{RewardIconWithText|W-Tad, +100}}
+|-
+|360||{{RewardIconWithText|Offering Speedup, +2h}}<br>{{RewardIconWithText|Happy Coin, +300}}<br>{{RewardIconWithText|W-Tad, +100}}
+|-
+|440||{{RewardIconWithText|Offering Speedup, +2h}}<br>{{RewardIconWithText|Happy Coin, +300}}<br>{{RewardIconWithText|Rainbow Point, +10}}
+|-
+|520||{{RewardIconWithText|Offering Speedup, +3h}}<br>{{RewardIconWithText|Happy Coin, +300}}<br>{{RewardIconWithText|W-Tad, +200}}
+|-
+|600||{{RewardIconWithText|Offering Speedup, +3h}}<br>{{RewardIconWithText|Happy Coin, +300}}<br>{{RewardIconWithText|W-Tad, +200}}
+|-
+|680||{{RewardIconWithText|Offering Speedup, +3h}}<br>{{RewardIconWithText|Happy Coin, +300}}<br>{{RewardIconWithText|Rainbow Point, +15}}
+|-
+|760||{{RewardIconWithText|Offering Speedup, +3h}}<br>{{RewardIconWithText|Happy Coin, +400}}<br>{{RewardIconWithText|W-Tad, +200}}
+|-
+|840||{{RewardIconWithText|Offering Speedup, +3h}}<br>{{RewardIconWithText|Happy Coin, +400}}<br>{{RewardIconWithText|W-Tad, +200}}
+|-
+|920||{{RewardIconWithText|Offering Speedup, +3h}}<br>{{RewardIconWithText|Happy Coin, +400}}<br>{{RewardIconWithLink|Wish Coin, +2|orange}}
+|-
+|1000||{{RewardIconWithText|Offering Speedup, +3h}}<br>{{RewardIconWithText|Happy Coin, +400}}<br>{{RewardIconWithText|W-Tad, +200}}
+|-
+|1080||{{RewardIconWithText|Offering Speedup, +3h}}<br>{{RewardIconWithText|Happy Coin, +400}}<br>{{RewardIconWithText|W-Tad, +200}}
+|-
+|1160||{{RewardIconWithText|Offering Speedup, +3h}}<br>{{RewardIconWithText|Happy Coin, +400}}<br>{{RewardIconWithLink|Wish Coin, +2|orange}}
+|-
+|1240||{{RewardIconWithText|Offering Speedup, +4h}}<br>{{RewardIconWithText|Happy Coin, +600}}<br>{{RewardIconWithText|W-Tad, +300}}
+|-
+|1320||{{RewardIconWithText|Offering Speedup, +4h}}<br>{{RewardIconWithText|Happy Coin, +600}}<br>{{RewardIconWithText|W-Tad, +300}}
+|-
+|1400||{{RewardIconWithText|Offering Speedup, +4h}}<br>{{RewardIconWithText|Happy Coin, +600}}<br>{{RewardIconWithLink|Wish Coin, +2|orange}}
+|}
+
+===Point Gift - Rainbow Points===
+Exchange {{RewardIconWithText|Rainbow Point}} for rewards.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!Racing Points
+!Rewards
+|-
+|10||{{RewardIconWithText|Gene Speedup, +4h}}<br>{{RewardIconWithText|Lightning Serum, +20}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|20||{{RewardIconWithText|Gene Speedup, +4h}}<br>{{RewardIconWithText|Lightning Serum, +20}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|30||{{RewardIconWithText|Gene Speedup, +4h}}<br>{{RewardIconWithText|Lightning Serum, +20}}<br>{{RewardIconWithLink|Lucky Coin, +3|orange}}
+|-
+|40||{{RewardIconWithText|Gene Speedup, +4h}}<br>{{RewardIconWithText|Lightning Serum, +20}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|50||{{RewardIconWithText|Gene Speedup, +4h}}<br>{{RewardIconWithText|Lightning Serum, +20}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|60||{{RewardIconWithText|Gene Speedup, +6h}}<br>{{RewardIconWithText|Lightning Serum, +40}}<br>{{RewardIconWithLink|Incense, +1|orange}}
+|-
+|70||{{RewardIconWithText|Gene Speedup, +6h}}<br>{{RewardIconWithText|Lightning Serum, +40}}<br>{{RewardIconWithLink|Lottery Ticket, +4|orange}}
+|-
+|80||{{RewardIconWithText|Gene Speedup, +6h}}<br>{{RewardIconWithText|Lightning Serum, +40}}<br>{{RewardIconWithLink|Lottery Ticket, +4|orange}}
+|-
+|90||{{RewardIconWithText|Gene Speedup, +6h}}<br>{{RewardIconWithText|Lightning Serum, +40}}<br>{{RewardIconWithLink|Nuclear-Powered Mini Fan|green}}
+|-
+|100||{{RewardIconWithText|Gene Speedup, +6h}}<br>{{RewardIconWithText|Lightning Serum, +40}}<br>{{RewardIconWithLink|Lottery Ticket, +4|orange}}
+|-
+|110||{{RewardIconWithText|Gene Speedup, +6h}}<br>{{RewardIconWithText|Lightning Serum, +40}}<br>{{RewardIconWithLink|Lottery Ticket, +4|orange}}
+|-
+|120||{{RewardIconWithText|Gene Speedup, +8h}}<br>{{RewardIconWithText|Lightning Serum, +60}}<br>{{RewardIconWithLink|Blooming Peony|purple}} (Shell)
+|-
+|140||{{RewardIconWithText|Gene Speedup, +8h}}<br>{{RewardIconWithText|Lightning Serum, +60}}<br>{{RewardIconWithLink|Lottery Ticket, +6|orange}}
+|-
+|160||{{RewardIconWithText|Gene Speedup, +8h}}<br>{{RewardIconWithText|Lightning Serum, +60}}<br>{{RewardIconWithLink|Lottery Ticket, +6|orange}}
+|-
+|180||{{RewardIconWithText|Gene Speedup, +8h}}<br>{{RewardIconWithText|Lightning Serum, +60}}<br>{{RewardIconWithLink|Ultimate Eye Pack|orange}}
+|-
+|200||{{RewardIconWithText|Gene Speedup, +8h}}<br>{{RewardIconWithText|Happy Coin, +1k}}<br>{{RewardIconWithLink|Lottery Ticket, +6|orange}}
+|-
+|220||{{RewardIconWithText|Gene Speedup, +8h}}<br>{{RewardIconWithText|Happy Coin, +1k}}<br>{{RewardIconWithLink|Lottery Ticket, +6|orange}}
+|-
+|240||{{RewardIconWithText|Gene Speedup, +12h}}<br>{{RewardIconWithText|Happy Coin, +1.2k}}<br>{{RewardIconWithLink|Ink Chrysanths, +40 Fragments|orange}}
+|-
+|270||{{RewardIconWithText|Gene Speedup, +12h}}<br>{{RewardIconWithText|Happy Coin, +1.2k}}<br>{{RewardIconWithLink|Lottery Ticket, +8|orange}}
+|-
+|300||{{RewardIconWithText|Gene Speedup, +12h}}<br>{{RewardIconWithText|Happy Coin, +1.2k}}<br>{{RewardIconWithLink|Lottery Ticket, +8|orange}}
+|-
+|330||{{RewardIconWithText|Gene Speedup, +12h}}<br>{{RewardIconWithText|Happy Coin, +1.2k}}<br>{{RewardIconWithLink|Balloon|purple}} ([[Red Doe]] Decoration)
+|-
+|360||{{RewardIconWithText|Gene Speedup, +12h}}<br>{{RewardIconWithText|Happy Coin, +1.2k}}<br>{{RewardIconWithLink|Lottery Ticket, +8|orange}}
+|-
+|390||{{RewardIconWithText|Gene Speedup, +12h}}<br>{{RewardIconWithText|Happy Coin, +1.2k}}<br>{{RewardIconWithLink|Lottery Ticket, +8|orange}}
+|-
+|420||{{RewardIconWithText|Gene Speedup, +16h}}<br>{{RewardIconWithText|Happy Coin, +1.6k}}<br>{{RewardIconWithLink|Ink Chrysanths, +40 Fragments|orange}}
+|-
+|450||{{RewardIconWithText|Gene Speedup, +16h}}<br>{{RewardIconWithText|Happy Coin, +1.6k}}<br>{{RewardIconWithLink|Lottery Ticket, +10|orange}}
+|-
+|480||{{RewardIconWithText|Gene Speedup, +16h}}<br>{{RewardIconWithText|Happy Coin, +1.6k}}<br>{{RewardIconWithLink|Lottery Ticket, +10|orange}}
+|-
+|510||{{RewardIconWithText|Gene Speedup, +16h}}<br>{{RewardIconWithText|Happy Coin, +1.6k}}<br>{{RewardIconWithLink|Singularity Crystal, +3|orange}}
+|-
+|540||{{RewardIconWithText|Gene Speedup, +16h}}<br>{{RewardIconWithText|Happy Coin, +1.6k}}<br>{{RewardIconWithLink|Lottery Ticket, +10|orange}}
+|-
+|570||{{RewardIconWithText|Gene Speedup, +16h}}<br>{{RewardIconWithText|Happy Coin, +1.6k}}<br>{{RewardIconWithLink|Lottery Ticket, +10|orange}}
+|-
+|600||{{RewardIconWithText|Gene Speedup, +20h}}<br>{{RewardIconWithText|Happy Coin, +2k}}<br>{{RewardIconWithLink|Ultimate Crystal Pack|orange}}
+|-
+|640||{{RewardIconWithText|Gene Speedup, +20h}}<br>{{RewardIconWithText|Happy Coin, +2k}}<br>{{RewardIconWithLink|Lottery Ticket, +12|orange}}
+|-
+|680||{{RewardIconWithText|Gene Speedup, +20h}}<br>{{RewardIconWithText|Happy Coin, +2k}}<br>{{RewardIconWithLink|Lottery Ticket, +12|orange}}
+|-
+|720||{{RewardIconWithText|Gene Speedup, +20h}}<br>{{RewardIconWithText|Happy Coin, +2k}}<br>{{RewardIconWithLink|Ink Chrysanths, +40 Fragments|orange}}
+|-
+|760||{{RewardIconWithText|Gene Speedup, +20h}}<br>{{RewardIconWithText|Happy Coin, +2k}}<br>{{RewardIconWithLink|Lottery Ticket, +12|orange}}
+|-
+|800||{{RewardIconWithText|Gene Speedup, +20h}}<br>{{RewardIconWithText|Happy Coin, +2k}}<br>{{RewardIconWithLink|Lottery Ticket, +12|orange}}
+|-
+|840||{{RewardIconWithText|Gene Speedup, +1d}}<br>{{RewardIconWithText|Happy Coin, +2.4k}}<br>{{RewardIconWithText|Fire Ring|orange}} ([[Red Doe]] Decoration)
+|-
+|880||{{RewardIconWithText|Gene Speedup, +1d}}<br>{{RewardIconWithText|Happy Coin, +2.4k}}<br>{{RewardIconWithLink|Lottery Ticket, +15|orange}}
+|-
+|920||{{RewardIconWithText|Gene Speedup, +1d}}<br>{{RewardIconWithText|Happy Coin, +2.4k}}<br>{{RewardIconWithLink|Lottery Ticket, +15|orange}}
+|-
+|960||{{RewardIconWithText|Gene Speedup, +1d}}<br>{{RewardIconWithText|Happy Coin, +2.4k}}<br>{{RewardIconWithLink|Space Water Bear, +280 Fragments|orange|Minion_Sim#Precious-Orange_Tactical_Logs}} (Orange Tactical Logs)
+|}
+
+==Shadow Quiz==
+<div style="float:right;"><ul>
+<li style="display: inline-block;vertical-align:top">[[File:Shadow Quiz - Dragon.png|200px|thumb|alt=Shadow Quiz - Dragon]]</li>
+<li style="display: inline-block;vertical-align:top">[[File:Shadow Quiz - Lubu.png|200px|thumb|alt=Shadow Quiz - Lubu]]</li>
+<li style="display: inline-block;vertical-align:top">[[File:Shadow Quiz - Peter.png|200px|thumb|alt=Shadow Quiz - Peter]]</li>
+</ul></div>
+
+The Shadow Quiz is Super Snail's version of "Who's that Pokemon?" A shadow is shown to you and you are given four choice on who the shadow is. If you get it correct, you are awarded a {{RewardIconWithText|Silver Hammer}} to open a Common Easter Egg. If you are incorrect, you can try again. You can win up to 5 {{RewardIconWithText|Silver Hammer}}s a day for a total of 35 {{RewardIconWithText|Silver Hammer}}s for the week.
+
+
+Inside some of the Common Easter Eggs are {{RewardIconWithText|Golden Hammer}}s that will open Exquisite Easter Eggs.
+
+
+Inside some of the Exquisite Easter Eggs are {{RewardIconWithText|Diamond Hammer}}s that will open a Deluxe Easter Egg.
+
+
+There are 35 of each Egg but all Hammers cannot be won via eggs. Some can be bought by {{RewardIconWithText|W-Tad}} or actual money.
+
+===Hammer Packs===
+{| class="wikitable mw-collapsible mw-collapsed"
+!Cost
+!Rewards
+!Limit
+|-
+|200 {{RewardIconWithText|W-Tad}}||{{RewardIconWithText|Golden Hammer, +1}}||25
+|-
+|$4.99||{{RewardIconWithText|Diamond Hammer, +6}}<br>{{RewardIconWithText|W-Tad, +300}}||5
+|}
+
+{{Clear}}
+
+==Happy Shop==
+[[File:Golden Week Shop Details.png|200px|thumb|right|alt=She's cold.|She's cold.]]
+Racing Girl Chan-hee has spent all her money on car mods. Her racing suit is small and she's shivering in the cold so she had to open this store to make enough money to afford more fabrics.
+
+Spend {{RewardIconWithText|Happy Coin}} to buy event items. At the end of the event, the remaining coins will be automatically converted into {{RewardIconWithText|B-Tad}}.
+
+{{ShopRowHeader|Happy Shop|Happy Coin}}
+!rowspan="32"|
+{{ShopRow|Ink Chrysanths, +40 Fragments<br>Purchase Limit: 1|orange|15k|Ultimate Eye Pack, <br>Purchase Limit: 1|orange|15k|Iron Cage, <br>[[Red Doe]] Dorm Decoration<br>Purchase Limit: 1|green|15k}}
+{{ShopRow|Lightning Serum, +80<br>Purchase Limit: 10<br>(1 Per Day Event is Active)|white|1 {{RewardIconWithText|W-Tad}}|Dragon Orb, <br>Purchase Limit: 3|orange|1.8k|Incense, <br>Purchase Limit: 3|orange|1.5k}}
+{{ShopRow|Offering Speedup, +8h<br>Purchase Limit: 3|white|300|Lottery Ticket, +5<br>Purchase Limit: 3|orange|600|Wish Coin, +2<br>Purchase Limit: 3|orange|600}}
+{{ShopRow|Gene Speedup, +8h<br>Purchase Limit: 3|white|300|Lucky Coin, +2<br>Purchase Limit: 3|orange|600|Star Stone, +2<br>Purchase Limit: 3|orange|600}}
+{{ShopRow|Nebula Chest, +100<br>Purchase Limit: 3|orange|600|Gear Chest, +100<br>Purchase Limit: 3|orange|600|Fungus Chest, +100<br>Purchase Limit: 3|orange|600}}
+{{ShopRow|Coating Bucket, +3<br>Purchase Limit: 3|orange|800|Master Alchemy Case, +3<br>Purchase Limit: 3|orange|800|Research Briefcase, +3<br>Purchase Limit: 3|orange|1k}}
+{{ShopRow|Glue, +30<br>Purchase Limit: 3|white|200|Toner, +20<br>Purchase Limit: 3|white|150|Quantum Gel, +1k<br>Purchase Limit: 3|white|150}}
+{{ShopRow|B-Tad, +6k<br>Purchase Limit: 10|white|100}}
+|}
+
+==Flower Cards==
+<div style="float:right;"><ul>
+<li style="display: inline-block;vertical-align:top">[[File:Flower Card Menu Details.png|200px|thumb|alt=The Flower Card Menu|The Flower Card Menu]]</li>
+<li style="display: inline-block;vertical-align:top">[[File:Flower Card Instructions Details.png|200px|thumb|alt=Flower Card Instructions|Flower Card Instructions]]</li>
+<li style="display: inline-block;vertical-align:top">[[File:Flower Card Advanced Prize Pool.png|200px|thumb|alt=Flower Card Advanced Prize Pool|Flower Card Advanced Prize Pool]]</li>
+<li style="display: inline-block;vertical-align:top">[[File:Flower Card Common Prize Pool.png|200px|thumb|alt=Flower Card Common Prize Pool|Flower Card Common Prize Pool]]</li>
+</ul></div>
+
+Flower Cards is a card flipping game. You are dealt 6 cards (2 advanced and 4 normal) each round. You must flip at least 1 card per round before you can refresh the cards. You receive 3 flip tickets daily and can purchase more from Flower Card Packs.
+
+===Flower Card Packs===
+{| class="wikitable mw-collapsible mw-collapsed"
+!Cost
+!Rewards
+!Limit
+|-
+|300 {{RewardIconWithText|W-Tad}}||{{RewardIconWithText|Flip Card Ticket, +1}}||19
+|-
+|$4.99||{{RewardIconWithText|Flip Card Ticket, +10}}<br>{{RewardIconWithText|W-Tad, +300}}||6
+|-
+|$9.99||{{RewardIconWithText|Flip Card Ticket, +15}}<br>{{RewardIconWithText|W-Tad, +800}}||4
+|-
+|$14.99||{{RewardIconWithText|Flip Card Ticket, +5}}<br>{{RewardIconWithText|W-Tad, +750}}||No Limit
+|}
+
+===Flower Card Bonus===
+{| class="wikitable mw-collapsible mw-collapsed"
+!Flip Tickets Used
+!Rewards
+|-
+|5 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +3h}}<br>{{RewardIconWithLink|Lottery Ticket, +2|orange}}
+|-
+|10 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +3h}}<br>{{RewardIconWithLink|Wish Coin, +2|orange}}
+|-
+|15 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +3h}}<br>{{RewardIconWithLink|Lottery Ticket, +2|orange}}
+|-
+|20 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +3h}}<br>{{RewardIconWithLink|Lucky Coin, +2|orange}}
+|-
+|25 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +4h}}<br>{{RewardIconWithLink|Lottery Ticket, +2|orange}}
+|-
+|30 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +4h}}<br>{{RewardIconWithLink|Incense|orange}}
+|-
+|35 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +4h}}<br>{{RewardIconWithLink|Lottery Ticket, +2|orange}}
+|-
+|40 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +4h}}<br>{{RewardIconWithLink|Dragon Orb|orange}}
+|-
+|45 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +6h}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|50 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +6h}}<br>{{RewardIconWithText|Precious Record|orange}}
+|-
+|55 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +6h}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|60 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +6h}}<br>{{RewardIconWithLink|Decor Coin, +20|orange}}
+|-
+|70 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +8h}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|80 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +8h}}<br>{{RewardIconWithLink|Singularity Crystal|orange}}
+|-
+|90 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +8h}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|100 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +8h}}<br>{{RewardIconWithLink|Relic RF, +20|orange}}
+|-
+|115 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +12h}}<br>{{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|-
+|130 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +12h}}<br>{{RewardIconWithLink|Ink Chrysanths, +40 Fragments|orange}}
+|-
+|145 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +12h}}<br>{{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|-
+|160 {{RewardIconWithText|Flip Card Ticket}}||{{RewardIconWithText|Clone Speedup, +12h}}<br>{{RewardIconWithLink|Ultimate Eye Pack|orange}}
+|}
+
+{{Clear}}
+
+==Gift==
+'''Buy at 8k {{RewardIconWithText|W-Tad}}'''
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!Day
+!Rewards
+|-
+|Day 1 Gift||{{RewardIconWithText|Lightning Serum, +100}}<br>{{RewardIconWithText|Offering Speedup, +12h}}<br>{{RewardIconWithText|Rainbow Point, +40}}
+|-
+|Day 2 Gift||{{RewardIconWithText|Lightning Serum, +100}}<br>{{RewardIconWithLink|Lottery Ticket, +8|orange}}<br>{{RewardIconWithText|Crystal Stole Costume|orange}} (Skin)
+|-
+|Day 3 Gift||{{RewardIconWithText|Lightning Serum, +100}}<br>{{RewardIconWithLink|Wish Coin, +5|orange}}<br>{{RewardIconWithLink|Ink Chrysanths, +40 Fragments|orange}}
+|}
+
+'''Buy at $49.99'''
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!Day
+!Rewards
+|-
+|Day 1 Gift||{{RewardIconWithText|W-Tad, +1.5k}}<br>{{RewardIconWithLink|Lottery Ticket, +15|orange}}<br>{{RewardIconWithText|Rainbow Point, +60}}
+|-
+|Day 2 Gift||{{RewardIconWithText|W-Tad, +1.5k}}<br>{{RewardIconWithLink|Lottery Ticket, +15|orange}}<br>{{RewardIconWithLink|Ultimate Eye Pack|orange}}
+|-
+|Day 3 Gift||{{RewardIconWithText|W-Tad, +1.5k}}<br>{{RewardIconWithLink|Lottery Ticket, +15|orange}}<br>{{RewardIconWithLink|Ink Chrysanths, +40 Fragments|orange}}
+|}
+
+'''Complete Any Purchase'''
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!Day
+!Rewards
+|-
+|Day 1 Gift||{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithText|Lightning Serum, +30}}<br>{{RewardIconWithLink|Badge, +10|orange}}
+|-
+|Day 2 Gift||{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithText|Lightning Serum, +30}}<br>{{RewardIconWithLink|Badge, +10|orange}}
+|-
+|Day 3 Gift||{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithText|Lightning Serum, +30}}<br>{{RewardIconWithText|Racing Girl Chan-hee|blue}} (Avatar)
+|}
+
+==Value Pack==
+{| class="wikitable mw-collapsible mw-collapsed"
+!Cost
+!Rewards
+!Limit
+|-
+|1k {{RewardIconWithText|W-Tad}}||{{RewardIconWithText|Offering Speedup, +10h}}<br>{{RewardIconWithText|Happy Coin, +500}}<br>{{RewardIconWithText|Windbreaker Costume|orange}} (Skin)||1
+|-
+|$4.99||{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWithText|Rainbow Point, +10}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}<br>{{RewardIconWithText|Celebrity Costume|orange}} (Skin)||1
+|-
+|$4.99||{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWithText|Rainbow Point, +10}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}<br>{{RewardIconWithLink|Lucky Coin, +2|orange}}||2
+|-
+|$9.99||{{RewardIconWithText|W-Tad, +700}}<br>{{RewardIconWithText|Rainbow Point, +15}}<br>{{RewardIconWithText|Offering Speedup, +1d}}<br>{{RewardIconWithLink|Incense, +1|orange}}||3
+|-
+|$14.99||{{RewardIconWithText|W-Tad, +1k}}<br>{{RewardIconWithText|Rainbow Point, +20}}<br>{{RewardIconWithLink|Lottery Ticket, +17|orange}}<br>{{RewardIconWithLink|Dragon Orb, +1|orange}}||2
+|-
+|$29.99||{{RewardIconWithText|W-Tad, +2k}}<br>{{RewardIconWithText|Rainbow Point, +30}}<br>{{RewardIconWithLink|Wish Coin, +17|orange}}<br>{{RewardIconWithText|Seal|blue}} ([[Red Doe]] Decoration)||1
+|-
+|$69.99||{{RewardIconWithText|W-Tad, +5k}}<br>{{RewardIconWithText|Rainbow Point, +40}}<br>{{RewardIconWithText|Offering Speedup, +3d}}<br>{{RewardIconWithText|Unknown Record, +25}}||1
+|-
+|$99.99||{{RewardIconWithText|W-Tad, +8k}}<br>{{RewardIconWithText|Rainbow Point, +50}}<br>{{RewardIconWithLink|Lottery Ticket, +70|orange}}<br>{{RewardIconWithLink|Badge, +70|orange}}||6
+|-
+|$99.99||{{RewardIconWithText|W-Tad, +8k}}<br>{{RewardIconWithText|Rainbow Point, +50}}<br>{{RewardIconWithLink|Lottery Ticket, +70|orange}}<br>{{RewardIconWithText|Decor Coin, +70}}||6
+|}
+
+= Relic Rewards =
+* {{ImageWithLink|Ink Chrysanths|orange}}
+* {{ImageWithLink|Nuclear-Powered Mini Fan|green}}
+
+= Decoration Rewards =
+* {{RewardIconWithText|Fire Ring|orange}} ([[Red Doe]] Decoration)
+* {{RewardIconWithLink|Balloon|purple}} ([[Red Doe]] Decoration)
+* {{RewardIconWithText|Seal|blue}} ([[Red Doe]] Decoration)
+* {{RewardIconWithLink|Iron Cage|green}} ([[Red Doe]] Decoration)
+
+= Shell Rewards =
+* {{RewardIconWithLink|Blooming Peony|purple}} (Shell)
+
+= Tactical Log Rewards =
+* {{RewardIconWithLink|Space Water Bear, +280 Fragments|orange|Minion_Sim#Precious-Orange_Tactical_Logs}} (Orange Tactical Logs)
+
+[[Category:Events]]

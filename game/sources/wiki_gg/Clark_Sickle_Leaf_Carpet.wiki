@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Clark Sickle Leaf Carpet
+|class_id=21652
+|rank=AAA
+|affct=ART
+|source=
+|description=A Safavid-era masterpiece. Deep red with curved leaf patterns, woven in Persian knots. Geometry meets nature's flow.
+|fame=35
+|art=71
+|fth=45
+|civ=55
+|tech=37
+|ss1=Per 30 Minions in battle:<br>> Troop HP +120<br>Per 30 Minions in battle:<br>> Troop ATK +12
+|ss2=Per 30 Minions in battle:<br>> Troop HP +160<br>Per 30 Minions in battle:<br>> Troop ATK +16
+|ss3=Per 30 Minions in battle:<br>> Troop HP +200<br>Per 30 Minions in battle:<br>> Troop ATK +20
+|ss4=Per 30 Minions in battle:<br>> Troop HP +280<br>Per 30 Minions in battle:<br>> Troop ATK +28
+|ss5=Per 30 Minions in battle:<br>> Troop HP +360<br>Per 30 Minions in battle:<br>> Troop ATK +36
+|ss7=Per 30 Minions in battle:<br>> Troop HP +360<br>Per 30 Minions in battle:<br>> Troop ATK +36<br>Per 30 Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:skill@1123_1_1.png|50px]]prop@4081_2
+|skill2=[[File:skill@1124_1_1.png|50px]]prop@4069_2
+}}

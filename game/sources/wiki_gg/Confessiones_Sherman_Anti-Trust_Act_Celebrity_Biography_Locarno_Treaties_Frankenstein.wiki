@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Confessiones,Sherman Anti-Trust Act,Celebrity Biography,Locarno Treaties,Frankenstein
+|rank=orange
+|amount=5
+|category=home
+|description=Merge 1 Orange Stardust: Gain 1 more by 10%
+}}
+[[Category:Home]]
+[[Category:Stardust Boost]]

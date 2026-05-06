@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Frederick Portrait
+|class_id=22324
+|rank=SSS
+|affct=CIV
+|birthday=05-20
+|source=
+|description=On May 20, 1739, the French painter Antoine created this famous portrait.<br>In the history of the Hohenzollern dynasty, Frederick the Great was the third King of Prussia. He is also hailed as the founder of the Prussian state. This portrait outlines the monarch's profound inner world and legendary life.
+|fame=67
+|art=67
+|fth=64
+|civ=106
+|tech=58
+|ss1=Snail ATK +30<br>Per 5 Tadpole Pond LVLs, Snail HP +90<br>Per 5 Tadpole Pond LVLs, Snail ATK +9<br>Tadpole Pond LVL: 90/90
+|ss2=Snail ATK +40<br>Per 5 Tadpole Pond LVLs, Snail HP +120<br>Per 5 Tadpole Pond LVLs, Snail ATK +12<br>Tadpole Pond LVL: 90/90
+|ss3=Snail ATK +50<br>Per 5 Tadpole Pond LVLs, Snail HP +150<br>Per 5 Tadpole Pond LVLs, Snail ATK +15<br>Tadpole Pond LVL: 90/90
+|ss4=Snail ATK +70<br>Per 5 Tadpole Pond LVLs, Snail HP +210<br>Per 5 Tadpole Pond LVLs, Snail ATK +21<br>Tadpole Pond LVL: 90/90
+|ss5=Snail ATK +90<br>Per 5 Tadpole Pond LVLs, Snail HP +270<br>Per 5 Tadpole Pond LVLs, Snail ATK +27<br>Tadpole Pond LVL: 90/90
+|ss6=Snail ATK +120<br>Per 5 Tadpole Pond LVLs, Snail HP +360<br>Per 5 Tadpole Pond LVLs, Snail ATK +36<br>Tadpole Pond LVL: 90/90
+|ss7=Snail ATK +120<br>Per 5 Tadpole Pond LVLs, Snail HP +360<br>Per 5 Tadpole Pond LVLs, Snail ATK +36<br>Tadpole Pond LVL: 90/90<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion HP +9%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop Water DMG +60
+|skill3=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion RUSH +9%
+|mirage={{Mirage|name=Emperor's Journey|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=Maria Theresia|3rec=25.08M|3atk=118685|3defense=79180|3hp=4062146|3weak=18477
+|4name=Elizabeth I|4rec=35.70M|4atk=141085|4defense=94123|4hp=5660802|4weak=19518
+|5name=Louis XV|5rec=47.91M|5atk=166833|5defense=111301|5hp=7600005|5weak=21295
+|6name=Frederick the Great|6rec=61.19M|6atk=194844|6defense=129988|6hp=10039072|6weak=24403
+|Arec=75.54M|Aatk=225097|Adefense=150171|Ahp=12973322|Aweak=29971
+}}}}

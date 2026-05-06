@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Olympic Olive Branch
+|class_id=20478
+|rank=Green
+|affct=FAME
+|source=
+|description=It is said to be a branch taken to the human world by Goddess Athena. It symbolizes peace and happiness. As the highest honor in the Olympics, only the winner of all has the privilege to wear it as the most Goddess-blessed one!
+|fame=31
+|art=16
+|fth=14
+|civ=14
+|tech=15
+|ss1=Upon traveling through a new area:<br>> Gain +2 INTEL<br>Per Realm conquered, Snail ATK +5<br>Realms Conquered: 8/8
+|ss2=Upon traveling through a new area:<br>> Gain +4 INTEL<br>Per Realm conquered, Snail ATK +10<br>Realms Conquered: 8/8
+|ss3=Upon traveling through a new area:<br>> Gain +6 INTEL<br>Per Realm conquered, Snail ATK +15<br>Realms Conquered: 8/8
+|ss4=Upon traveling through a new area:<br>> Gain +6 INTEL<br>Per Realm conquered, Snail ATK +15<br>Realms Conquered: 8/8
+|ss7=Upon traveling through a new area:<br>> Gain +6 INTEL<br>Per Realm conquered, Snail ATK +15<br>Realms Conquered: 8/8<br> (Awakened)
+}}

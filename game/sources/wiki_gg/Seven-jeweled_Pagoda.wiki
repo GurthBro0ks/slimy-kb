@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Seven-jeweled Pagoda
+|class_id=20245
+|rank=Green
+|affct=FAITH
+|source=
+|description=The treasure once belonged to Heavenly Lord Li Jing, which can detain all demons and monsters. With some infused energy, the exterior of the pagoda will light up layer by layer, and the whole pagoda will be covered in a magnificent colorful haze!
+|fame=16
+|art=16
+|fth=26
+|civ=17
+|tech=15
+|ss1=Per 40 Gene Sim LVLs, Snail ATK +1<br>Gene Sim LVLs: 1000/1000
+|ss2=Per 40 Gene Sim LVLs, Snail ATK +2<br>Gene Sim LVLs: 1000/1000
+|ss3=Per 40 Gene Sim LVLs, Snail ATK +3<br>Gene Sim LVLs: 1000/1000
+|ss4=Per 40 Gene Sim LVLs, Snail ATK +3<br>Gene Sim LVLs: 1000/1000
+|ss7=Per 40 Gene Sim LVLs, Snail ATK +3<br>Gene Sim LVLs: 1000/1000<br> (Awakened)
+}}

@@ -1,0 +1,417 @@
+= Combat Damage =
+
+The purpose of this page is to provide more details about how damage is actually calculated when it comes to combat.  The data on this page is not 100% accurate, but provides a good foundation for a more in-depth understanding of how combat damage is calculated.
+{{Note|Some of the statements on this page are opinionated, but considered to be '''''generally''''' true (such as stat priority).  They may not be true for all situations.}}
+
+'''What is not taken into account in the calculations on this page?'''
+
+Some combat bonuses that come from Gear, Avatar Score bonuses, relics, etc.  These are typically buffs that apply only in specific scenarios, such as in Explorations, only in the First round, etc.  
+
+''Examples of buffs missing from calculations on this page:''
+
+# Combat Damage for battles in the Fissure will not take into account the bonuses given by the '''Home Facilities Avatar Buff'''.
+# If you have Golden Drazgul Fang, calculations below do not account for the bonus <code>CRIT DMG</code> in Round 1 given by this gear.
+
+== Combat Stats ==
+
+The main combat stats are your HARD stats (HP, ATK, RUSH, and DEF) as well as your ELMT Stats (ELMT DMG and ELMT RES).
+
+: > <code>RES</code> = Resistance
+: > <code>DMG</code> = Damage
+:: '''Note:''' For elements (ex: <code>Fire DMG</code>) it is a stat that you accumulate; however when referred to as <code>DMG</code>, <code>ATK DMG</code>, <code>RUSH DMG</code>, <code>CRIT DMG</code> or <code>Total DMG</code> it refers to a value calculated from your stats.
+
+{| class="wikitable"
+|+ Ranked Combat Stats
+|-
+! Priority !! Combat Stat !! What it does 
+|-
+| 1 || <code>Fire DMG</code><br><code>Water DMG</code><br><code>Earth DMG</code><br><code>Wind DMG</code><br><code>Poison DMG</code> || Contributes to <code>Total DMG</code> for both regular and <code>RUSH</code> attacks.<br><br>{{FAQ|Why is <code>ELMT DMG</code> considered the "best" stat?|<code>ELMT DMG</code> applies to standard attacks and <code>RUSH</code> attacks.  The final damage also scales with the <code>ATK</code> or <code>RUSH</code> stat.  In non-PvP battles, opponenets do not have <code>ELMT RES</code>.|Stats}}
+|-
+| 2 || <code>ATK</code> || Primary contributor to <code>Total DMG</code> in your first attack.  It is always useful and generally your main source of damage.
+|-
+| 3 || <code>DEF</code> || Primary stat for decreasing DMG taken from enemy attacks.<br><br>{{FAQ|Why is DEF better than HP?|1 <code>DEF</code> will save you 1 <code>HP</code> for each round you are alive.  So if you last the full 20 rounds in a battle, each point of <code>DEF</code> is worth 20 <code>HP</code>.  Also|Stats}}
+|-
+| 4 || <code>RUSH</code> || Primary contributor to <code>Total DMG</code> in your second attack per round (assuming you spotted the enemy's weakness).<br><br>{{FAQ|Why is RUSH not as good as DEF?|If you haven't spotted the enemy's weakness this stat does not contribute anything to the battle.<br>Also, the <code>Total RUSH DMG</code> done in a single round of combat is almost always primarily comes from <code>ELMT DMG</code>, not <code>RUSH DMG</code>.|Stats}}
+|-
+| 5 || <code>HP</code> || Increases total Hit Points.
+|-
+| 6 || <code>Fire RES</code><br><code>Water RES</code><br><code>Earth RES</code><br><code>Wind RES</code><br><code>Poison RES</code> || Reduces the amount of elemental DMG taken when an enemy attacks you.<br><br>{{FAQ|Why is <code>ELMT RES</code> the "worst" stat?|Enemies in explorations, fissure, mirages, mailbox, etc do not have any Elemental Damage stats.  Meaning this stat is really only useful in PvP battles.|Stats}}
+|}
+
+== ATK Damage (First Attack) ==
+
+ATK Damage is done every round, regardless of if you spot an enemy's weakness.  The actual <code>DMG</code> done in the attack is based a combination of <code>ATK DMG</code> and <code>ELMT DMG</code>.  Your <code>ATK</code> stat will scale the amount of <code>ELMT DMG</code> you do during your first attack.
+
+The high level formula for your first round of attack is:
+
+<pre>
+TOTAL DMG = ATK DMG + CRIT DMG + ELMT DMG
+</pre>
+
+''For a detailed breakdown of how to calculate <code>TOTAL DMG</code>, see [[#Total_ATK_or_RUSH_DMG_Calculation|Total ATK or RUSH DMG Calculation]]
+
+== RUSH Damage (Second Attack) ==
+
+<blockquote>
+'''Fun Fact:'''<br>
+The translation of "rush" from the original Chinese game text would be better translated as "pursuit" in english (according to google translate).  This is why a "rush" attack is actually the second attack and not an attack that happens before the main attack as you might assume from the name.  
+
+Presumably it was translated as "rush" instead of "pursuit" to make the stats acronym "HARD" more memorable -- but this is pure conjecture.
+</blockquote>
+
+'''Note:''' The '''majority of the <code>TOTAL DMG</code> in the second attack typically comes from <code>ELMT DMG</code>.'''  This is because your <code>RUSH</code> stat is generally significantly less than your <code>ATK</code> stat, but the the enemy's <code>DEF</code> stat applies to <code>RUSH</code> as well.
+
+RUSH Damage is only done if you spot an enemy's weakness.  The actual <code>DMG</code> done in the attack is based a combination of <code>RUSH DMG</code> and <code>ELMT DMG</code>.  Your <code>RUSH</code> stat will scale the amount of <code>ELMT DMG</code> you do during your second attack.
+
+The high level formula for your second attack in a single round is:
+
+<pre>
+TOTAL DMG = RUSH DMG + CRIT DMG + ELMT DMG
+</pre>
+
+''For a detailed breakdown of how to calculate <code>TOTAL DMG</code>, see [[#Total_ATK_or_RUSH_DMG_Calculation|Total ATK or RUSH DMG Calculation]]''
+
+== Elemental Damage ==
+
+<blockquote>
+'''Credit for all Elemental Damage calculations goes to the article [https://www.taptap.cn/moment/170602124147690757 Strategy: Use mathematics to teach you how to deal with elemental damage] <ref>[https://www.taptap.cn/moment/170602124147690757 Strategy: Use mathematics to teach you how to deal with elemental damage]</ref> by [https://www.taptap.cn/user/4431924 Li Ruosheng] <ref>[https://www.taptap.cn/user/4431924 Li Ruosheng]</ref>'''
+</blockquote>
+
+For most player in mid to late game, '''1 point of <code>ELMT DMG</code> can be assumed to be equivalent to about 7 <code>ATK</code>'''.  Because <code>ELMT DMG</code> is also calculated for <code>RUSH</code> attacks, each point is '''more useful than <code>ATK</code>'''.  For Non-PvP battles, opponents also '''DO NOT''' have any <code>ELMT RES</code>.
+
+Elemental Damage scales with either the attacker's <code>ATK</code> stat or <code>RUSH</code> stat depending on if the calculation is for a regular attack or a rush attack.  As your <code>ATK</code> and/or <code>RUSH</code> stats grow, the amount of additional damage done for each <code>ELMT DMG</code> point increases at a slower and slower rate (logarithmic scale).  At approximately '''80,000''' <code>ATK</code> or <code>RUSH</code> each point of <code>ELMT DMG</code> equates to about '''7 DMG''' (not accounting for resistances).  Each <code>ELMT DMG</code> point equates to about '''8 DMG''' once your <code>ATK</code> or <code>RUSH</code> reach between '''390,000''' and '''400,000'''.  (See the [[#Elemental_DMG_Scaling_Reference_Table|table below]] for a breakdown of how <code>ELMT DMG</code> scales)
+
+''For a detailed breakdown of how to calculate <code>TOTAL DMG</code>, see [[#Elemental_Damage_Calculation|Elemental Damage Calculation]]''<br>
+''For a quick-reference table to see how <code>ELMT DMG</code> scales at a glance, see [[#Elemental_DMG_Scaling_Reference_Table|Elemental DMG Scaling Reference Table]]''
+
+= Appendix =
+
+== Glossary ==
+
+Sometimes it can get confusing when you read a statement about a stat such as <code>ELMT DMG</code>.  Is this the final damage after scaling?  Is this the sum of the raw elemental DMG stats?
+
+To clear this confusion (at least for this page), here is the glossary for the values used on this page:
+
+{| class="wikitable"
+|+ Caption text
+|-
+! STAT / Calculation !! Formula / Calculation !! Description
+|-
+| <code>ELMT DMG</code> || <code>Fire DMG + Water DMG + Earth DMG + Wind DMG + Poison DMG</code> || The sum of all the RAW Element DMG stats.
+|-
+| <code>Total ELMT DMG</code> || <code>ELMT DMG * Math.log(<atkOrRush>) / Math.log(5)</code> || The scaled final number for Elemental DMG for an attack.
+|}
+
+== Formulas / Calculations ==
+
+=== Total ATK or RUSH DMG Calculation ===
+
+The same general formula is used for <code>RUSH</code>, just switch out values such as <code>attacker.ATK</code> for <code>attacker.RUSH</code>, and the formula is the same.
+
+<pre>
+// Note: Round number in this formula is 1 based, meaning it goes from 1-20 (not 0-19 as programmers may assume)
+function calculateAttackDamage(attacker: Combatant, defender: Combatant, roundNumber: number, crit: boolean) {
+
+  const attackerAdjustedATK = (
+    attacker.ATK 
+    + attacker.combatbuff.beforeCombat.ATK 
+    + (roundNumber * attacker.buffEachRound.ATK)
+  );
+
+  const defenderAdjustedDEF = (defender.DEF * (1 - attacker.effectsTowardsEnemy.ignoreDEF))
+
+  // Note: The minimum value for rawAtkDmg is 5% of adjusted ATK 
+
+  const rawAtkDmg = Math.max(
+    attackerAdjustedATK - defenderAdjustedDEF,
+    attackerAdjustedATK * 0.05
+  );
+
+  // Note: Negative Element Resistances are not allowed.
+
+  const elementalDmg = calculateElementalDamage(attacker, defender, rawAtkDmg)
+  
+  let dmgMultiplier = 1 + attacker.effectsTowardsEnemy.DMG
+
+  if (roundNumber === 1) {
+    dmgMultiplier = dmgMultiplier + attacker.buffEachRound.roundOneDMG
+  }
+
+  const critMultiplier = (0.5 + attacker.enhanceSelf.critDMG) * (1 - defender.enhanceSelf.critDmgReduc)
+
+  let critDmg = 0
+  
+  if (crit) {
+    critDmg = rawAtkDmg * critMultiplier
+  }
+  
+  return (rawAtkDmg * dmgMultiplier + elementalDamage) * (1 - defender.enhanceSelf.dmgReduc) + critDmg
+}
+</pre>
+
+=== Elemental Damage Calculation ===
+
+This is pseudo-code for elemental damage calculation:
+
+<pre>
+function calculateElementalDamage(attacker: Combatant, defender: Combatant, atkOrRush: number) {
+
+  // Note: Negative Element Resistances are not allowed, so default to 0
+  // if the attacker has higher ignore RES than the defender's RES.
+  
+  const fireDmg = attacker.elmtDMG.fire - Math.max(
+    defender.elmtRES.fire - attacker.effectsTowardsEnemy.ignoreElmtRES.fire,
+    0
+  );
+
+  const earthDmg = attacker.elmtDMG.earth - Math.max(
+    defender.elmtRES.earth - attacker.effectsTowardsEnemy.ignoreElmtRES.earth,
+    0
+  );
+
+  const waterDmg = attacker.elmtDMG.water - Math.max(
+    defender.elmtRES.water - attacker.effectsTowardsEnemy.ignoreElmtRES.water,
+    0
+  );
+
+  const windDmg = attacker.elmtDMG.earth - Math.max(
+    defender.elmtRES.wind - attacker.effectsTowardsEnemy.ignoreElmtRES.wind,
+    0
+  );
+
+  const poisonDmg = attacker.elmtDMG.earth - Math.max(
+    defender.elmtRES.poison - attacker.effectsTowardsEnemy.ignoreElmtRES.poison,
+    0
+  );
+
+  const elemDmg = fireDmg + waterDmg + earthDmg + windDmg + poisonDmg;
+
+  return elemDmg * Math.log(atkOrRush) / Math.log(5);
+}
+</pre>
+
+== Elemental DMG Scaling Reference Table ==
+
+'''How do I read this table?'''
+
+Example:<br>
+Assume you are trying to estimate the total elemental damage you will do if you have <code>101,000</code> <code>ATK</code>, and <code>2,500</code> total <code>ELMT DMG</code> (<code>Fire DMG + Water DMG + Earth DMG + Wind DMG + Poison DMG</code>) for your first attack (not the <code>RUSH</code> attack).
+
+# Lookup the ATK value in the table closest to your <code>ATK</code>
+## In this case, you would go to the row for <code>100,000</code> ATK or RUSH
+# Multiply your total <code>ELMT DMG</code> (2,500) by the value in the second column (7.153) to get your estimate for <code>Total ELMT DMG</code> in your first attack:
+## <code>Total ELMT DMG = 2500 * 7.152 = 17,880</code>
+
+{| class="wikitable"
+|+ ELMT DMG Scaling Reference Table<br>(Not taking into account ELMT RES)
+|-
+! ATK or RUSH !! DMG from<br>One ELMT DMG point !! DMG from<br>One Thousand ELMT DMG points
+|-
+| 0 || 0 || 00
+|-
+| 10,000 || 5.723 || 5,722.706
+|-
+| 20,000 || 6.153 || 6,153.383
+|-
+| 30,000 || 6.405 || 6,405.312
+|-
+| 40,000 || 6.584 || 6,584.059
+|-
+| 50,000 || 6.723 || 6,722.706
+|-
+| 60,000 || 6.836 || 6,835.989
+|-
+| 70,000 || 6.932 || 6,931.768
+|-
+| 80,000 || 7.015 || 7,014.736
+|-
+| 90,000 || 7.088 || 7,087.919
+|-
+| 100,000 || 7.153 || 7,153.383
+|-
+| 110,000 || 7.213 || 7,212.602
+|-
+| 120,000 || 7.267 || 7,266.666
+|-
+| 130,000 || 7.316 || 7,316.399
+|-
+| 140,000 || 7.362 || 7,362.445
+|-
+| 150,000 || 7.405 || 7,405.312
+|-
+| 160,000 || 7.445 || 7,445.412
+|-
+| 170,000 || 7.483 || 7,483.081
+|-
+| 180,000 || 7.519 || 7,518.595
+|-
+| 190,000 || 7.552 || 7,552.189
+|-
+| 200,000 || 7.584 || 7,584.059
+|-
+| 210,000 || 7.614 || 7,614.374
+|-
+| 220,000 || 7.643 || 7,643.279
+|-
+| 230,000 || 7.671 || 7,670.898
+|-
+| 240,000 || 7.697 || 7,697.342
+|-
+| 250,000 || 7.723 || 7,722.706
+|-
+| 260,000 || 7.747 || 7,747.075
+|-
+| 270,000 || 7.771 || 7,770.525
+|-
+| 280,000 || 7.793 || 7,793.121
+|-
+| 290,000 || 7.815 || 7,814.925
+|-
+| 300,000 || 7.836 || 7,835.989
+|-
+| 310,000 || 7.856 || 7,856.362
+|-
+| 320,000 || 7.876 || 7,876.089
+|-
+| 330,000 || 7.895 || 7,895.209
+|-
+| 340,000 || 7.914 || 7,913.757
+|-
+| 350,000 || 7.932 || 7,931.768
+|-
+| 360,000 || 7.949 || 7,949.272
+|-
+| 370,000 || 7.966 || 7,966.296
+|-
+| 380,000 || 7.983 || 7,982.866
+|-
+| 390,000 || 7.999 || 7,999.005
+|-
+| 400,000 || 8.015 || 8,014.736
+|-
+| 410,000 || 8.03 || 8,030.078
+|-
+| 420,000 || 8.045 || 8,045.051
+|-
+| 430,000 || 8.06 || 8,059.671
+|-
+| 440,000 || 8.074 || 8,073.955
+|-
+| 450,000 || 8.088 || 8,087.919
+|-
+| 460,000 || 8.102 || 8,101.575
+|-
+| 470,000 || 8.115 || 8,114.937
+|-
+| 480,000 || 8.128 || 8,128.019
+|-
+| 490,000 || 8.141 || 8,140.83
+|-
+| 500,000 || 8.153 || 8,153.383
+|-
+| 510,000 || 8.166 || 8,165.687
+|-
+| 520,000 || 8.178 || 8,177.752
+|-
+| 530,000 || 8.19 || 8,189.587
+|-
+| 540,000 || 8.201 || 8,201.201
+|-
+| 550,000 || 8.213 || 8,212.602
+|-
+| 560,000 || 8.224 || 8,223.798
+|-
+| 570,000 || 8.235 || 8,234.795
+|-
+| 580,000 || 8.246 || 8,245.601
+|-
+| 590,000 || 8.256 || 8,256.223
+|-
+| 600,000 || 8.267 || 8,266.666
+|-
+| 610,000 || 8.277 || 8,276.936
+|-
+| 620,000 || 8.287 || 8,287.039
+|-
+| 630,000 || 8.297 || 8,296.981
+|-
+| 640,000 || 8.307 || 8,306.766
+|-
+| 650,000 || 8.316 || 8,316.399
+|-
+| 660,000 || 8.326 || 8,325.885
+|-
+| 670,000 || 8.335 || 8,335.229
+|-
+| 680,000 || 8.344 || 8,344.434
+|-
+| 690,000 || 8.354 || 8,353.505
+|-
+| 700,000 || 8.362 || 8,362.445
+|-
+| 710,000 || 8.371 || 8,371.258
+|-
+| 720,000 || 8.38 || 8,379.948
+|-
+| 730,000 || 8.389 || 8,388.519
+|-
+| 740,000 || 8.397 || 8,396.972
+|-
+| 750,000 || 8.405 || 8,405.312
+|-
+| 760,000 || 8.414 || 8,413.542
+|-
+| 770,000 || 8.422 || 8,421.664
+|-
+| 780,000 || 8.43 || 8,429.682
+|-
+| 790,000 || 8.438 || 8,437.597
+|-
+| 800,000 || 8.445 || 8,445.412
+|-
+| 810,000 || 8.453 || 8,453.131
+|-
+| 820,000 || 8.461 || 8,460.755
+|-
+| 830,000 || 8.468 || 8,468.286
+|-
+| 840,000 || 8.476 || 8,475.727
+|-
+| 850,000 || 8.483 || 8,483.081
+|-
+| 860,000 || 8.49 || 8,490.348
+|-
+| 870,000 || 8.498 || 8,497.531
+|-
+| 880,000 || 8.505 || 8,504.632
+|-
+| 890,000 || 8.512 || 8,511.653
+|-
+| 900,000 || 8.519 || 8,518.595
+|-
+| 910,000 || 8.525 || 8,525.461
+|-
+| 920,000 || 8.532 || 8,532.251
+|-
+| 930,000 || 8.539 || 8,538.969
+|-
+| 940,000 || 8.546 || 8,545.614
+|-
+| 950,000 || 8.552 || 8,552.189
+|-
+| 960,000 || 8.559 || 8,558.695
+|-
+| 970,000 || 8.565 || 8,565.134
+|-
+| 980,000 || 8.572 || 8,571.507
+|-
+| 990,000 || 8.578 || 8,577.815
+|-
+| 1,000,000 || 8.584 || 8,584.059
+|}
+
+== Content References ==
+
+<references />
+
+[[Category:Guides]]

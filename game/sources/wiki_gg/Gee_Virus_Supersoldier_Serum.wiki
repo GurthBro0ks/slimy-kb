@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=108
+|relics=Gee Virus,Supersoldier Serum
+|rank=purple
+|amount=2
+|category=self
+|description=Per 2k Power, Snail RUSH +4;Power: 30000/30000
+}}

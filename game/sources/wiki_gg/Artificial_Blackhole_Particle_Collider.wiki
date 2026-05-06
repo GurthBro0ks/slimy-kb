@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Artificial Blackhole,Particle Collider
+|rank=orange
+|amount=2
+|category=self
+|description=Per 30 Fissure LVLs, Snail RUSH +7<br>Fissure LVL: 1,200/1,200
+}}
+[[Category:Self]]

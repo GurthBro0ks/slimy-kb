@@ -1,0 +1,40 @@
+{{Missing Info|specifics=<br>'''Mirage:''' 6s, Awakened}}
+{{CargoRelic
+|name=Trojan Horse
+|rank=SSS
+|affct=FAME
+|birthday=09-23
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wishing (0.09%)
+|description=On Sep 23, 1183 BC, the Greeks' huge wooden horse was used to capture the city of Troy. 
+
+In the Trojan War, the Greeks joined forces to attack Troy. Troy's mighty defenses successfully repelled the Greeks for nine years. But Odysseus had a plan. The Greek warships suddenly retreated, leaving behind a giant wooden horse, which the Trojans believed to be a gift. After the Trojans brought the wooden horse inside the city walls, Greek warriors hidden in the wooden horse climbed out and took the city that night. In the end, the city of Troy was looted and burned to ashes.
+|fame=106
+|art=70
+|fth=51
+|civ=78
+|tech=57
+|ss1=Snail Leadership +3<br>Per 60 Minions in battle, Troop HP +90<br>Per 60 Minions in battle, Troop ATK +9
+|ss2=Snail Leadership +4<br>Per 60 Minions in battle, Troop HP +180<br>Per 60 Minions in battle, Troop ATK +18
+|ss3=Snail Leadership +5<br>Per 60 Minions in battle, Troop HP +270<br>Per 60 Minions in battle, Troop ATK +27
+|ss4=Snail Leadership +7<br>Per 60 Minions in battle, Troop HP +450<br>Per 60 Minions in battle, Troop ATK +45
+|ss5=Snail Leadership +9<br>Per 60 Minions in battle, Troop HP +630<br>Per 60 Minions in battle, Troop ATK +63
+|ss6=Snail Leadership +12<br>Per 60 Minions in battle, Troop HP +900<br>Per 60 Minions in battle, Troop ATK +90
+|ss7=Snail Leadership +12<br>Per 60 Minions in battle, Troop HP +900<br>Per 60 Minions in battle, Troop ATK +90<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Snail HP +6,000
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Snail DEF +600
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Purple Reagent Drops +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Leadership Boost]]
+[[Category:Minion HP Boost]]
+[[Category:Minion ATK Boost]]
+[[Category:Hellas Museum Boost]]
+[[Category:Hellas Exploration Boost]]
+[[Category:HP Boost]]
+[[Category:DEF Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Hitman Boost]]
+[[Category:RUSH Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Nightmare Steed Boost]]

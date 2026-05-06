@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Antikythera Mechanism
+|class_id=22604
+|rank=AAA
+|affct=TECH
+|birthday=05-10
+|source=
+|description=On May 10, 1900 AD, a diver discovered the mechanism on a sunken ancient Greek ship near the island of Antikythera.<br>The Antikythera mechanism comes from an ancient Greek shipwreck. It is a bronze mechanical computer that consists of a portable planetary model made of gears and wheels, which can predict the positions of stars and planets, as well as demonstrate solar and lunar eclipses. When it was first discovered, it had been severely corroded by seawater, and scientists were only able to uncover the precise gear structure using X-ray imaging, which amazed them.
+|fame=47
+|art=31
+|fth=49
+|civ=42
+|tech=74
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop HP +120<br>Per 3 TECH Relics gained, Snail ATK +6<br>TECH Relics: 60/60
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop HP +160<br>Per 3 TECH Relics gained, Snail ATK +8<br>TECH Relics: 60/60
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop HP +200<br>Per 3 TECH Relics gained, Snail ATK +10<br>TECH Relics: 60/60
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop HP +280<br>Per 3 TECH Relics gained, Snail ATK +14<br>TECH Relics: 60/60
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop HP +360<br>Per 3 TECH Relics gained, Snail ATK +18<br>TECH Relics: 60/60
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop HP +360<br>Per 3 TECH Relics gained, Snail ATK +18<br>TECH Relics: 60/60<br>Per 30 T7+ Minions in battle:<br>> Troop HP +280 (Awakened)
+|skill1=[[File:Hellas skill II.png|50px]]Place in Hellenic Museum: In Hellas, Snail DEF +60
+|skill2=[[File:Hellas skill II.png|50px]]Place in Hellenic Museum: This Relic's TECH +10
+}}

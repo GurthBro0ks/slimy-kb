@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Father's Photo
+|class_id=20088
+|rank=Green
+|affct=CIV
+|source= You must shoot the Unknown Creature in front of your shrine with Incense 10 times in order to obtain the Father's Photo relic
+|description=On the back of this strange photo is some illegible handwriting. After identification by a linguist, it was said this text means father, that is how it got its name, and connoisseurs across the world regard it as exemplary avant-garde art, and it has become a precious piece of art collection.
+|fame=14
+|art=13
+|fth=18
+|civ=30
+|tech=15
+|ss1=Snail Leadership +1
+|ss2=Snail Leadership +2
+|ss3=Snail Leadership +3
+|ss4=Snail Leadership +3
+|ss7=Snail Leadership +3<br> (Awakened)
+}}

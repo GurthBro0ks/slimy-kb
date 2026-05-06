@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=La Marseillaise
+|class_id=22261
+|rank=SSS
+|affct=ART
+|birthday=06-24
+|source=
+|description=On Jun 24, 1836 AD, La Marseillaise was officially completed at the Arc de Triomphe.<br>It is Francois Rude's masterpiece and one of the best-known as, respectively describing the Goddess of Liberty guiding people forward, and the warriors marching bravely for France. Through the symbolism of romanticism, the majestic momentum of the French army against the invaders was vividly displayed. The sculpture is not only an epic work celebrating the French Revolution, but also the pride of the French people.
+|fame=53
+|art=108
+|fth=70
+|civ=75
+|tech=56
+|ss1=All Minion HP +0.6%<br>Per 5 Anomalies analyzed, Snail HP +120<br>Per 5 Anomalies analyzed, Snail DEF +12<br>Anomaly Records analyzed: 10/10
+|ss2=All Minion HP +0.8%<br>Per 5 Anomalies analyzed, Snail HP +160<br>Per 5 Anomalies analyzed, Snail DEF +16<br>Anomaly Records analyzed: 10/10
+|ss3=All Minion HP +1%<br>Per 5 Anomalies analyzed, Snail HP +200<br>Per 5 Anomalies analyzed, Snail DEF +20<br>Anomaly Records analyzed: 10/10
+|ss4=All Minion HP +1.4%<br>Per 5 Anomalies analyzed, Snail HP +280<br>Per 5 Anomalies analyzed, Snail DEF +28<br>Anomaly Records analyzed: 10/10
+|ss5=All Minion HP +1.8%<br>Per 5 Anomalies analyzed, Snail HP +360<br>Per 5 Anomalies analyzed, Snail DEF +36<br>Anomaly Records analyzed: 10/10
+|ss6=All Minion HP +2.4%<br>Per 5 Anomalies analyzed, Snail HP +480<br>Per 5 Anomalies analyzed, Snail DEF +48<br>Anomaly Records analyzed: 10/10
+|ss7=All Minion HP +2.4%<br>Per 5 Anomalies analyzed, Snail HP +480<br>Per 5 Anomalies analyzed, Snail DEF +48<br>Anomaly Records analyzed: 10/10<br>All Minion HP +2% (Awakened)
+|skill1=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop Water DMG +60
+|skill2=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop Fire DMG +60
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: This Relic's ART +15
+|mirage={{Mirage|name=Fight for Freedom|reward={{RewardIconWithLink|Unknown Record, +3|orange}}
+|3name=Nameless Soldier|3rec=74.99M|3atk=223953|3defense=149408|3hp=12890483|3weak=29822
+|4name=Determined Boy|4rec=97.85M|4atk=272156|4defense=181566|4hp=18110832|4weak=34110
+|5name=Leader of the Volunteers|5rec=124.93M|5atk=329253|5defense=219658|5hp=24943138|5weak=38378
+|6name=Lady Liberty|6rec=155.33M|6atk=393371|6defense=262433|6hp=33649623|6weak=44094
+|Arec=189.50M|Aatk=465423|Adefense=310502|Ahp=44557484|Aweak=50332
+}}}}

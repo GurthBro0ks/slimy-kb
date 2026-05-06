@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Prototype Resolver
+|class_id=20833
+|rank=Green
+|affct=TECH
+|source=
+|description=A marvelous machine discovered in the Microcosm, seemingly a prototype for a resolver. Due to design flaws, it doesn't have the functionality to convert other substances into cultivation fluid and serum. Instead, it serves well as a bedside or corner decoration, functioning as a night light.
+|fame=15
+|art=15
+|fth=13
+|civ=16
+|tech=32
+|ss1=Resolver: Cultivation Fluid extracted +1<br>Per 1 Incubator File fully restored, Snail ATK +2<br>Files fully restored: 20/20
+|ss2=Resolver: Cultivation Fluid extracted +1<br>Per 1 Incubator File fully restored, Snail ATK +4<br>Files fully restored: 20/20
+|ss3=Resolver: Cultivation Fluid extracted +1<br>Per 1 Incubator File fully restored, Snail ATK +6<br>Files fully restored: 20/20
+|ss4=Resolver: Cultivation Fluid extracted +1<br>Per 1 Incubator File fully restored, Snail ATK +6<br>Files fully restored: 20/20
+|ss7=Resolver: Cultivation Fluid extracted +1<br>Per 1 Incubator File fully restored, Snail ATK +6<br>Files fully restored: 20/20<br> (Awakened)
+}}

@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Capitoline Wolf,Mysterious Relic,Mysterious Relic,Lucy the Ape,Wilford's Engine
+|rank=orange
+|amount=5
+|category=self
+|description=Per 7 Mutant Gene LVLs, Snail ATK +20, Mutant Gene LVLs Researched: 210/210
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Mutant Gene LVL]]

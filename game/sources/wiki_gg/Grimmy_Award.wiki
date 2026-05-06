@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Grimmy Award
+|class_id=22213
+|rank=SS
+|affct=FAME
+|birthday=05-04
+|source=Lottery Machine No.2 (0.32%), Wishing (1.2%)
+|description=On May 4, 1959, the first Grimmy Awards took place.<br>The Grimmy Awards is a highly prestigious accolade in the global music industry that recognizes and encourages talented emerging artists and exceptional producers over the past year. The awards cover 28 music genres, including pop, rock, and classical music, and are decided by professionals' votes. It is also one of the 4 annual Murikan entertainment award shows.
+|fame=104
+|art=54
+|fth=53
+|civ=61
+|tech=75
+|ss1=Snail ATK +20<br>In the Demon God Rocket Cabin:<br>> Assist System Base Effect +16%<br>Per God of Fame Descent, Snail HP +20<br>God of Fame Descended: 40/40
+|ss2=Snail ATK +30<br>In the Demon God Rocket Cabin:<br>> Assist System Base Effect +24%<br>Per God of Fame Descent, Snail HP +30<br>God of Fame Descended: 40/40
+|ss3=Snail ATK +40<br>In the Demon God Rocket Cabin:<br>> Assist System Base Effect +32%<br>Per God of Fame Descent, Snail HP +40<br>God of Fame Descended: 40/40
+|ss4=Snail ATK +60<br>In the Demon God Rocket Cabin:<br>> Assist System Base Effect +48%<br>Per God of Fame Descent, Snail HP +60<br>God of Fame Descended: 40/40
+|ss5=Snail ATK +80<br>In the Demon God Rocket Cabin:<br>> Assist System Base Effect +64%<br>Per God of Fame Descent, Snail HP +80<br>God of Fame Descended: 40/40
+|ss6=Snail ATK +110<br>In the Demon God Rocket Cabin:<br>> Assist System Base Effect +88%<br>Per God of Fame Descent, Snail HP +110<br>God of Fame Descended: 40/40
+|ss7=Snail ATK +110<br>In the Demon God Rocket Cabin:<br>> Assist System Base Effect +88%<br>Per God of Fame Descent, Snail HP +110<br>God of Fame Descended: 40/40<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion HP +9%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, AFFCT Checks -150
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Angel Cells gained +30%
+|mirage={{Mirage|name=Sparking Stars|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Logan Diffy|3rec=16.21M|3atk=105434|3defense=70339|3hp=3265018|3weak=17728
+|4name=Ingram|4rec=32.30M|4atk=133920|4defense=89344|4hp=5053750|4weak=19169
+|5name=Aretha|5rec=48.06M|5atk=167161|5defense=111519|5hp=7619431|5weak=21327
+|Arec=65.80M|Aatk=204562|Adefense=136472|Ahp=11047707|Aweak=26516
+}}}}

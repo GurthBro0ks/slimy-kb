@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Shifting Dune Markings
+|type=Bionic
+|rank=blue
+|id=10657
+|idx=14
+|description=These ever-flowing sand patterns hum ancient ballads in the wind, their granular symphony masking a startling truth - beneath lies pulsating life waiting to erupt.
+|skill=Transform into a sandstorm, dealing DMG
+equal to 154% of ATK!
+|hp=780
+|def=146
+|atk=115
+|rush=78
+|gene1=During exploration, Earth DMG +60
+|gene2=In explorations, {race} DEF +20
+|gene3=In explorations, Dodge +3%
+|gene7=In explorations, Dodge +3% (Awakened)
+|}}

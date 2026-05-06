@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=257
+|relics=Era Magazine Vol.1,Boltzmann Brain,Smug's Chalice,Julian Calendar
+|rank=orange
+|amount=4
+|category=self
+|description=In explorations, 2x Purple Card Drops +3.6%
+}}

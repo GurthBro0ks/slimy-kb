@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=656
+|relics=Exquisite Guqin,Exquisite Pipa
+|rank=purple
+|amount=2
+|category=self
+|description=Per Tribal Chief defeated, Snail HP +60;Tribal Chiefs Defeated: 50/50
+}}

@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Herma of Pericles,Cellular Pathology,Medium Rune
+|rank=orange
+|amount=3
+|category=self
+|description=Per 10 Divinations, Snail ATK +8; Divinations: 400/400
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Divinations]]

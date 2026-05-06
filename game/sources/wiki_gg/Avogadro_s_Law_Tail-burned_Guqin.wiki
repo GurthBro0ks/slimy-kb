@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Avogadro's Law,Tail-burned Guqin
+|rank=Orange
+|amount=2
+|category=self
+|description=Per 2 Epic+ Devotee assigned, Snail RUSH +14; Epic+ Devotee Assigned: 40/40
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]

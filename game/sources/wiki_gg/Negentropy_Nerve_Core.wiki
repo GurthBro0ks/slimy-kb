@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Negentropy Nerve Core
+|type=Common
+|rank=red
+|id=10922
+|idx=133
+|description=Negentropy Nerve Core can fight universal entropy increase by angrily reorganizing dust particles into IKEA-style deterministic systems.
+|skill=
+|hp=2410
+|def=292
+|atk=253
+|rush=284
+|gene1=In explorations, 2x B-tad Drops +8%
+|gene2=Craft 1 Blue Organ Slime: 10% chance to get 1 more.
+|gene3=When crafting a Blue Reagent, +10% to get +1
+|gene4=Craft 1 Purple Organ Slime: Gain 1 more by 10%
+|gene5=When crafting a Purple Reagent, +10% to get +1
+|gene6=Craft 1 Orange Organ Slime: Gain 1 more by 10%
+|gene7=Craft 1 Blue Organ Slime: 10% chance to get 1 more. (Awakened)
+|}}

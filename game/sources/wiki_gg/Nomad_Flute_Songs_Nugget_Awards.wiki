@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=394
+|relics=Nomad Flute Songs,Nugget Awards
+|rank=purple
+|amount=2
+|category=self
+|description=Snail ATK +60
+}}

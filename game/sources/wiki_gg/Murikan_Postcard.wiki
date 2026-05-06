@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Murikan Postcard
+|class_id=20313
+|rank=Green
+|affct=ART
+|source=
+|description=While scouting for info about the Demon God in Murika, the snail also recorded a lot of local customs, which were brought together in this postcard. You can read it to kill time and post it online to get many likes!
+|fame=19
+|art=28
+|fth=11
+|civ=12
+|tech=20
+|ss1=Murikan Museum Medal Output +5
+|ss2=Murikan Museum Medal Output +10
+|ss3=Murikan Museum Medal Output +15
+|ss4=Murikan Museum Medal Output +15
+|ss7=Murikan Museum Medal Output +15<br> (Awakened)
+}}

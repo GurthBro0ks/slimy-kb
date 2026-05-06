@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Dream Stele,Talmud,MUSE Design Awards,Untitled,Kanner's Report,Maya Mural
+|rank=orange
+|amount=6
+|category=Travel Speed Boost
+|description=Travel SPD +2.4%
+}}
+[[Category:Travel Speed Boost]]

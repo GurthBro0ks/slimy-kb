@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Metchnikoff's Notes,Mysterious Relic
+|rank=orange
+|amount=2
+|category=self
+|description=Per 100 Badges gained, Snail ATK +14
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Badges Gained]]

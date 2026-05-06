@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Laocoön
+|class_id=22648
+|rank=SSS
+|affct=ART
+|birthday=09-29
+|source=
+|description=On Sept 29, 154 BC, Laocoon has been completed thanks to the efforts of the Greek artists Agesander, Athenodorus, and Polydorus.<br>Laocoön is a marble sculpture from ancient Greece depicting the scene of Laocoön and his two sons being killed by a giant snake. The story originates from the Trojan War, where Laocoön warned his compatriots not to accept the wooden horse sent by the Greeks, but was punished by the Greek gods for his actions and died tragically with his two sons. The sculpture vividly portrays three twisted and agonizing bodies, capturing this tragic moment and becoming a classic work in the art world.
+|fame=57
+|art=109
+|fth=70
+|civ=71
+|tech=55
+|ss1=Snail Leadership +3<br>Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +9%<br>Per 100 catalysis, Snail DEF +3<br>Catalysis: 5000/5000
+|ss2=Snail Leadership +4<br>Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +12%<br>Per 100 catalysis, Snail DEF +4<br>Catalysis: 5000/5000
+|ss3=Snail Leadership +5<br>Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +15%<br>Per 100 catalysis, Snail DEF +5<br>Catalysis: 5000/5000
+|ss4=Snail Leadership +7<br>Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +21%<br>Per 100 catalysis, Snail DEF +7<br>Catalysis: 5000/5000
+|ss5=Snail Leadership +9<br>Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +27%<br>Per 100 catalysis, Snail DEF +9<br>Catalysis: 5000/5000
+|ss6=Snail Leadership +12<br>Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +36%<br>Per 100 catalysis, Snail DEF +12<br>Catalysis: 5000/5000
+|ss7=Snail Leadership +12<br>Claim Dividends from Home Decor Inc, gain +1 Decor Coin Drops by +36%<br>Per 100 catalysis, Snail DEF +12<br>Catalysis: 5000/5000<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Green Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's ART +15
+|mirage={{Mirage|name=Tragedy of the Wise|reward={{RewardIconWithLink|Orange Brand Case, +100|orange}}
+|3name=Deadly Serpent|3rec=112.12M|3atk=320453|3defense=201647|3hp=17283369|3weak=35627
+|4name=Second Son|4rec=150.78M|4atk=411498|4defense=256039|4hp=25371586|4weak=39106
+|5name=First Son|5rec=215.20M|5atk=566353|5defense=346668|5hp=45817512|5weak=45662
+|6name=Priest Laocoön|6rec=322.08M|6atk=758502|6defense=452328|6hp=82929473|6weak=52422
+|Arec=436.77M|Aatk=951049|Adefense=555509|Ahp=132021095|Aweak=57231
+}}}}

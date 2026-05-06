@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Head of the Bird God
+|class_id=20265
+|rank=Green
+|affct=FAITH
+|source=
+|description=This giant Bird head once belonged to the Bird God who pursued immortality and achieved maximum evolution. Before the Bird obtained the looks and abilities of the legendary Phoenix, it died in an ambush. Its decapitated head was made into a collectible. How cruel!
+|fame=12
+|art=15
+|fth=30
+|civ=16
+|tech=17
+|ss1=Per 10 Eggs hatched, Snail FTH +1<br>Eggs hatched: 50/50
+|ss2=Per 10 Eggs hatched, Snail FTH +2<br>Eggs hatched: 50/50
+|ss3=Per 10 Eggs hatched, Snail FTH +3<br>Eggs hatched: 50/50
+|ss4=Per 10 Eggs hatched, Snail FTH +3<br>Eggs hatched: 50/50
+|ss7=Per 10 Eggs hatched, Snail FTH +3<br>Eggs hatched: 50/50<br> (Awakened)
+}}

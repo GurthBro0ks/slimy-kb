@@ -1,0 +1,16 @@
+{{CargoOrgan
+|name=Devourer Fang
+|type=Common
+|rank=green
+|id=10930
+|idx=8
+|description=Look at these rodent teeth. Those animals grind their teeth on literally everything they see. You might feel the same way after transplanting these fangs.
+|skill=
+|hp=370
+|def=45
+|atk=84
+|rush=41
+|gene1=In explorations, INTEL gained +2.5%
+|gene2=In explorations, Demon God Cells collected +2%
+|gene7=In explorations, Demon God Cells collected +2% (Awakened)
+|}}

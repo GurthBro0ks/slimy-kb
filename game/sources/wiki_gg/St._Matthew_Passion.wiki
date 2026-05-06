@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=St. Matthew Passion
+|class_id=22652
+|rank=SSS
+|affct=ART
+|birthday=11-02
+|source=Lottery Machine No.3 (0.12%)
+|description=On Nov 2, 1724 AD, Bach began working on the St. Matthew Passion.<br>Bach's masterpiece, the St. Matthew Passion, is a composition consisting of 78 separate pieces, all based on the account of Jesus' suffering in the Bible. Bach uses music to tell the story of this religious legend. At the time of its creation, these compositions were not well-received and were largely forgotten. It was not until a century later when Mendelssohn staged the work, against much criticism, that its true value was finally recognized.
+|fame=47
+|art=108
+|fth=64
+|civ=88
+|tech=55
+|ss1=Catalyzed Purple Spores turn to Orange by +0.3%<br>When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +6%<br>Per 100 catalysis, Snail RUSH +3<br>Catalysis: 5000/5000
+|ss2=Catalyzed Purple Spores turn to Orange by +0.4%<br>When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +8%<br>Per 100 catalysis, Snail RUSH +4<br>Catalysis: 5000/5000
+|ss3=Catalyzed Purple Spores turn to Orange by +0.5%<br>When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +10%<br>Per 100 catalysis, Snail RUSH +5<br>Catalysis: 5000/5000
+|ss4=Catalyzed Purple Spores turn to Orange by +0.7%<br>When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +14%<br>Per 100 catalysis, Snail RUSH +7<br>Catalysis: 5000/5000
+|ss5=Catalyzed Purple Spores turn to Orange by +0.9%<br>When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +18%<br>Per 100 catalysis, Snail RUSH +9<br>Catalysis: 5000/5000
+|ss6=Catalyzed Purple Spores turn to Orange by +1.2%<br>When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +24%<br>Per 100 catalysis, Snail RUSH +12<br>Catalysis: 5000/5000
+|ss7=Catalyzed Purple Spores turn to Orange by +1.2%<br>When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +24%<br>Per 100 catalysis, Snail RUSH +12<br>Catalysis: 5000/5000<br>When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +20% (Awakened)
+|skill1=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: Green rewards from this egg turn Blue by 6%
+|skill2=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: Exploration Egg hatching efficiency +30%
+|skill3=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: Purple rewards from this egg turn Orange by 3%
+|mirage={{Mirage|name=Music of Generations|reward={{RewardIconWithLink|Offering Speedup, +28800|orange}}
+|3name=Opera #1|3rec=208.24M|3atk=549089|3defense=336871|3hp=42394910|3weak=44741
+|4name=Opera #25|4rec=327.65M|4atk=767888|4defense=457338|4hp=84451573|4weak=52633
+|5name=Opera #43|5rec=466.51M|5atk=1001542|5defense=582263|5hp=149821131|5weak=58476
+|6name=Opera #78|6rec=654.63M|6atk=1334596|6defense=751599|6hp=318322125|6weak=67254
+|Arec=783.89M|Aatk=1575747|Adefense=890225|Ahp=456078626|Aweak=76850
+}}}}

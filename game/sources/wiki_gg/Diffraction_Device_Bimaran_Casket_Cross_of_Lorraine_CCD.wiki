@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=547
+|relics=Diffraction Device,Bimaran Casket,Cross of Lorraine,CCD
+|rank=orange
+|amount=4
+|category=self
+|description=Master Scrolls drop +1 Orange Reagent by +9%
+}}

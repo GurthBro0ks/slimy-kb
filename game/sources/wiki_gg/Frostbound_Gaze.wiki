@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Frostbound Gaze
+|type=Bionic
+|rank=purple
+|id=10677
+|idx=34
+|description=When it locks eyes with its enemy, time and space themselves seem to freeze. Frost forms on the body, and the mind begins to drift into cold oblivion…
+|skill=Before round start, summon a snow storm, reducing the enemy's DEF by 36% this round!
+|hp=1420
+|def=120
+|atk=120
+|rush=249
+|gene1=In Fissure combat, Water DMG +120
+|gene2=Wind RES +60
+|gene3=When weakness is spotted, CRIT +7%
+|gene4=Extra RUSH DMG +200
+|gene7=Water DMG +180 (Awakened)
+|}}

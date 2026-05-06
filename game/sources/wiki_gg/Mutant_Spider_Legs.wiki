@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Mutant Spider Legs
+|type=Common
+|rank=orange
+|id=10958
+|idx=151
+|description=Bio-mechanical limbs derived from spider toxin mutations. Superhuman strength with instinctive maneuverability. The pinnacle of bioprosthetics!
+|skill=
+|hp=1692
+|def=194
+|atk=282
+|rush=200
+|gene1=Per Mutant Form Tier, {race} RUSH +35
+Mutant Form Tiers: 9/9
+|gene2=Wind RES +90
+|gene3=Per Mutant Form Tier, {race} ATK +35
+Mutant Form Tiers: 9/9
+|gene4={race} Wind RES +1.5%
+|gene5=Free Gene Speedup (Mutant) +45m
+|gene7=Free Gene Speedup (Mutant) +2h 15m (Awakened)
+|}}

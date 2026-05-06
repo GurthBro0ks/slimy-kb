@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Marsoulas Conch Horn
+|class_id=22421
+|rank=Blue
+|affct=ART
+|birthday=05-14
+|source=Lottery Machine No.3 (0.25%)
+|description=On May 14, 1931 AD, archaeologists discovered this horn in the Maltravieso cave in the Pyrenees.<br>Initially, people thought this seashell was used as a container. However, after re-examination eighty years later, scientists found some artificial traces on it, including dye and protective coating, and thus finally determined that this seashell was a horn from 18,000 years ago, and was considered the world's oldest musical instrument.
+|fame=20
+|art=47
+|fth=28
+|civ=32
+|tech=27
+|ss1=Per 3 basic fusions, Snail ATK +1<br>Basic Fusions: 150/150
+|ss2=Per 3 basic fusions, Snail ATK +2<br>Basic Fusions: 150/150
+|ss3=Per 3 basic fusions, Snail ATK +3<br>Basic Fusions: 150/150
+|ss4=Per 3 basic fusions, Snail ATK +5<br>Basic Fusions: 150/150
+|ss7=Per 3 basic fusions, Snail ATK +5<br>Basic Fusions: 150/150<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Timemachine skill I.png|50px]]Place in Time Machine: This Relic's ART +5
+}}

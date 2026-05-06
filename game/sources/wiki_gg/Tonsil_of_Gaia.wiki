@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Tonsil of Gaia
+|type=Common
+|rank=red
+|id=10885
+|idx=96
+|description=Earth's Will was dismembered by Demon Gods. Some organs were retrieved and given as Reconstruction Feast rewards.
+|skill=
+|hp=2960
+|def=227
+|atk=199
+|rush=348
+|gene1=Water DMG +120
+|gene2=Lifesteal Rate +20%
+|gene3=Lifesteal Effect +20%
+|gene4=Water RES +120
+|gene5=Lifesteal Rate +20%
+|gene6=Lifesteal Effect +20%
+|gene7=Water DMG +6% (Awakened)
+|}}

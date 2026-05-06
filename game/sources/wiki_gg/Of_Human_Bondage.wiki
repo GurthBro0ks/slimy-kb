@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Of Human Bondage
+|class_id=21334
+|rank=SSS
+|affct=CIV
+|source=
+|description=Maugham’s autobiographical scalpel. An orphan’s journey through religion, medicine, and flawed love to existential freedom.
+|fame=71
+|art=69
+|fth=62
+|civ=109
+|tech=51
+|ss1=Snail Leadership +3<br>Demon Minion RUSH +3%<br>Per Demon Form Tier, Snail ATK +15<br>Demon Form Tiers: 9/9
+|ss2=Snail Leadership +4<br>Demon Minion RUSH +4%<br>Per Demon Form Tier, Snail ATK +20<br>Demon Form Tiers: 9/9
+|ss3=Snail Leadership +5<br>Demon Minion RUSH +5%<br>Per Demon Form Tier, Snail ATK +25<br>Demon Form Tiers: 9/9
+|ss4=Snail Leadership +7<br>Demon Minion RUSH +7%<br>Per Demon Form Tier, Snail ATK +35<br>Demon Form Tiers: 9/9
+|ss5=Snail Leadership +9<br>Demon Minion RUSH +9%<br>Per Demon Form Tier, Snail ATK +45<br>Demon Form Tiers: 9/9
+|ss6=Snail Leadership +12<br>Demon Minion RUSH +12%<br>Per Demon Form Tier, Snail ATK +60<br>Demon Form Tiers: 9/9
+|ss7=Snail Leadership +12<br>Demon Minion RUSH +12%<br>Per Demon Form Tier, Snail ATK +60<br>Demon Form Tiers: 9/9<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop CRIT +9%
+|skill2=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Earth RES +60
+|skill3=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop DMG toward heroes +6%
+}}

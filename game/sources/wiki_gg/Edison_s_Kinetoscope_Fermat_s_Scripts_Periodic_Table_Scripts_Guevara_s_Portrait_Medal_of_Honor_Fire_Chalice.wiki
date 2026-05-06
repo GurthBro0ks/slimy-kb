@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=272
+|relics=Edison's Kinetoscope,Fermat's Scripts,Periodic Table Scripts,Guevara's Portrait,Medal of Honor,Fire Chalice
+|rank=orange
+|amount=6
+|category=self
+|description=Defeated Daily Hitmen drop +12% W-tads
+}}

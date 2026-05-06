@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description= The most wonderful thing in the world that grants Snail strength, and can even make just about anything happen. The only drawback is that there are too few of them.
+|affct=ART
+|hard=RUSH
+|source=
+{{Memetic Catalyst
+|number=8427
+|relic1=Einstein-Rosen Bridge
+|relic2=Guillotine
+|relic3=Death of Marat
+|relic4=Blood of Dracula
+|relic5=Head of Paramara
+}}
+|color=green
+|earth=1
+|water=4
+|fire=1
+|wind=0
+|form=Demon
+|element=Earth
+|realm=Cathay
+|orangehard=DEF
+}}

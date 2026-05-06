@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Heavenfire Sutra
+|class_id=22770
+|rank=SS
+|affct=FAME
+|source=
+|description=An ancient and mysterious cultivation technique, initially of low yellow rank, but possessing the unique ability to evolve continuously by devouring different fires. It was accidentally discovered by a powerful cultivator and named the Burning Technique, but its true creator remains unknown. During cultivation, the Burning Technique requires the continuous devouring of different fires to advance, ultimately surpassing the heavenly rank. It was once passed on by a powerful cultivator to his disciple, but due to the immense cost of advancement, it was not widely spread.
+|fame=101
+|art=61
+|fth=57
+|civ=60
+|tech=68
+|ss1=Snail ATK +20<br>6% chance to get Extra Inferno Ember on Wish ×10<br>1% chance to get Extra Argent Reverse Scale Sample×40 on Wish ×10<br>Argent Reverse Scale Samples available: 1320/1320
+|ss2=Snail ATK +30<br>9% chance to get Extra Inferno Ember on Wish ×10<br>1.5% chance to get Extra Argent Reverse Scale Sample×40 on Wish ×10<br>Argent Reverse Scale Samples available: 1320/1320
+|ss3=Snail ATK +40<br>12% chance to get Extra Inferno Ember on Wish ×10<br>2% chance to get Extra Argent Reverse Scale Sample×40 on Wish ×10<br>Argent Reverse Scale Samples available: 1320/1320
+|ss4=Snail ATK +60<br>18% chance to get Extra Inferno Ember on Wish ×10<br>3% chance to get Extra Argent Reverse Scale Sample×40 on Wish ×10<br>Argent Reverse Scale Samples available: 1320/1320
+|ss5=Snail ATK +80<br>24% chance to get Extra Inferno Ember on Wish ×10<br>4% chance to get Extra Argent Reverse Scale Sample×40 on Wish ×10<br>Argent Reverse Scale Samples available: 1320/1320
+|ss6=Snail ATK +110<br>33% chance to get Extra Inferno Ember on Wish ×10<br>5.5% chance to get Extra Argent Reverse Scale Sample×40 on Wish ×10<br>Argent Reverse Scale Samples available: 1320/1320
+|ss7=Snail ATK +110<br>33% chance to get Extra Inferno Ember on Wish ×10<br>5.5% chance to get Extra Argent Reverse Scale Sample×40 on Wish ×10<br>Argent Reverse Scale Samples available: 1320/1320<br>30% chance to get Extra Inferno Ember on Wish ×10 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: This Relic's FAME +15
+|skill2=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Lumber Max Cap +30%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail ATK +600
+|mirage={{Mirage|name=Burning Heaven and Earth|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Elder Mwahahaha|3rec=2.39M|3atk=36555|3defense=24413|3hp=415748|3weak=9530
+|4name=Flame Emperor|4rec=5.57M|4atk=59260|4defense=39577|4hp=942540|4weak=12847
+|5name=Sixth Rank Medicine Emperor|5rec=11.95M|5atk=89584|5defense=59829|5hp=1944879|5weak=17147
+|Arec=29.77M|Aatk=128436|Adefense=85777|Ahp=3702796|Aweak=21490
+}}}}

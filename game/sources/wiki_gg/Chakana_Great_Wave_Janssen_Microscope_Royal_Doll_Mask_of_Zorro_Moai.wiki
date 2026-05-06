@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Chakana,Great Wave,Janssen Microscope,Royal Doll,Mask of Zorro,Moai
+|rank=blue
+|amount=6
+|category=dna
+|description=All Gene Research SPD +1.8%
+}}
+[[Category:DNA]]

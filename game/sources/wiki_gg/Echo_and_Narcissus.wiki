@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Echo and Narcissus
+|class_id=22297
+|rank=SSS
+|affct=FAITH
+|birthday=07-01
+|source=
+|description=On Jul 1, 1895 AD, Waterhouse painted this masterpiece.<br>Echo and Narcissus is the work of the English painter John William Waterhouse. It illustrates the myth of the nymph Echo, who could only repeat the words of others, and Narcissus, who fell in love with his own reflection in a pool of water. Echo fell in love with Narcissus, but he rejected her. In the end, Echo was heartbroken and spent the rest of her life in lonely glens until nothing but an echo sound remained of her, while Narcissus was obsessed with his reflection and eventually melted away, eventually turning into a gold and white flower. The painting vividly portrays the myth and was no doubt a masterpiece.
+|fame=62
+|art=75
+|fth=108
+|civ=48
+|tech=69
+|ss1=Snail ATK +30<br>Per 5 Sunny Plant Food Fed, Snail ATK +3<br>Per 5 Sunny Plant Food Fed, Snail RUSH +3<br>Sunny Plant Food Fed: 200/200
+|ss2=Snail ATK +40<br>Per 5 Sunny Plant Food Fed, Snail ATK +4<br>Per 5 Sunny Plant Food Fed, Snail RUSH +4<br>Sunny Plant Food Fed: 200/200
+|ss3=Snail ATK +50<br>Per 5 Sunny Plant Food Fed, Snail ATK +5<br>Per 5 Sunny Plant Food Fed, Snail RUSH +5<br>Sunny Plant Food Fed: 200/200
+|ss4=Snail ATK +70<br>Per 5 Sunny Plant Food Fed, Snail ATK +7<br>Per 5 Sunny Plant Food Fed, Snail RUSH +7<br>Sunny Plant Food Fed: 200/200
+|ss5=Snail ATK +90<br>Per 5 Sunny Plant Food Fed, Snail ATK +9<br>Per 5 Sunny Plant Food Fed, Snail RUSH +9<br>Sunny Plant Food Fed: 200/200
+|ss6=Snail ATK +120<br>Per 5 Sunny Plant Food Fed, Snail ATK +12<br>Per 5 Sunny Plant Food Fed, Snail RUSH +12<br>Sunny Plant Food Fed: 200/200
+|ss7=Snail ATK +120<br>Per 5 Sunny Plant Food Fed, Snail ATK +12<br>Per 5 Sunny Plant Food Fed, Snail RUSH +12<br>Sunny Plant Food Fed: 200/200<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail ATK +600
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's FTH +15
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Water DMG +600
+|mirage={{Mirage|name=Narcissus' Elegy|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Narcissus|3rec=44.66M|3atk=159973|3defense=106724|3hp=7136683|3weak=20752
+|4name=Oread|4rec=57.81M|4atk=187710|4defense=125229|4hp=9423266|4weak=23289
+|5name=Echo|5rec=72.15M|5atk=217962|5defense=145411|5hp=12269140|5weak=28797
+|6name=Reflection on Water|6rec=87.56M|6atk=250455|6defense=167089|6hp=15727353|6weak=32279
+|Arec=104.96M|Aatk=287156|Adefense=191573|Ahp=19869847|Aweak=35367
+}}}}

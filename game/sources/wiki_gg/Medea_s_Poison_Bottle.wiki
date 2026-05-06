@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Medea's Poison Bottle
+|class_id=22446
+|rank=Blue
+|affct=FAITH
+|birthday=10-08
+|source=Lottery Machine No.3 (0.06%)
+|description=On Oct 8, 3580 BC, Medea schemed and used poison to kill her rival, then fled.<br>Medea is a world-renowned witch who was once a princess of Colchis. She betrayed her father for love, using her strong magic to help Jason win the Golden Fleece. But Jason eventually abandoned her, intending to marry a new love, and drove her away. Upon learning of all this, Medea decided to take revenge and used poison she had extracted herself to kill her rival and two sons. While Jason fell into despair, she left this land of sorrow.
+|fame=23
+|art=36
+|fth=45
+|civ=18
+|tech=32
+|ss1=Per 10 advanced fusions, Snail RUSH +1<br>Advanced Fusions: 500/500
+|ss2=Per 10 advanced fusions, Snail RUSH +2<br>Advanced Fusions: 500/500
+|ss3=Per 10 advanced fusions, Snail RUSH +3<br>Advanced Fusions: 500/500
+|ss4=Per 10 advanced fusions, Snail RUSH +5<br>Advanced Fusions: 500/500
+|ss7=Per 10 advanced fusions, Snail RUSH +5<br>Advanced Fusions: 500/500<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Reagent Drops +1%
+}}

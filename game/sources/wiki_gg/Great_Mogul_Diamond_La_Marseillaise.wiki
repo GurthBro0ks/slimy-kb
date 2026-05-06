@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=493
+|relics=Great Mogul Diamond,La Marseillaise
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Minions in battle: Troop Earth RES +7
+}}

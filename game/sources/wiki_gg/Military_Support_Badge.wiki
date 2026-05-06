@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Military Support Badge
+|class_id=20404
+|rank=Green
+|affct=FAME
+|source=
+|description=Ask not what your country can do for you, ask what you can do for your country! When your country is in crisis, will you put aside everything to deal with it? Do you hold the deepest love for the land? If so, you're worthy of this medal!
+|fame=30
+|art=10
+|fth=20
+|civ=14
+|tech=16
+|ss1=Per 1.5k Museum Medals gained, Snail HP +20<br>Museum Medals Gained: 60000/60000
+|ss2=Per 1.5k Museum Medals gained, Snail HP +40<br>Museum Medals Gained: 60000/60000
+|ss3=Per 1.5k Museum Medals gained, Snail HP +60<br>Museum Medals Gained: 60000/60000
+|ss4=Per 1.5k Museum Medals gained, Snail HP +60<br>Museum Medals Gained: 60000/60000
+|ss7=Per 1.5k Museum Medals gained, Snail HP +60<br>Museum Medals Gained: 60000/60000<br> (Awakened)
+}}

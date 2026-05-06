@@ -1,0 +1,257 @@
+
+==INTEL==
+There are two INTEL trees in Yamato, each with 19 different skills. Each skill has between 1 and 3 levels. Initially, only one hex is available to upgrade in exchange for INTEL (gathered passively during exploration). To make any hex available, an adjacent hex must first be fully upgraded. Additionally, some hexes have a "release condition" required before it can be unlocked. Below is a list of all Yamato INTEL. 
+
+[[File:Yamato INTEL 1.0.png|frameless|left]][[File:Yamato INTEL 2.0.png|frameless]]
+{{clear}}
+'''Recommended Upgrade:''' Ninja Training (4) releases the second skill tree, so this is a good place to start. Chrysanth & Sword (2) unlocks new card conversions, so this is also recommended early on. Get the new areas (middle row) as soon as possible. Ninjutsu (5, 6, 7, 8) is recommended early, as it will help to level up Ninjutsu much faster. Genji (13) unlocks important gear that will assist your Yamato explorations. Finally, Musashi's Legacy (16) has a chance to give the green relic [[Niten Ichi Ryu|<span style="color:#40da25;">Niten Ichi Ryu</span>]], which is necessary to complete the Yamato Domain.
+
+'''Recommended Upgrade:''' Stealth (2) will increase movement SPD and lower AFFCT Checks, so this is a great first tile to get. Ninja's Gesture (4) will increase Ninjutsu Training SPD and help to max it out much faster if obtained early. Ninjutsu training (15, 16, 18, 19) will also assist with this. Kani Jade (13) gives plenty of fragments to upgrade this relic, and will be a great display item in the [[Museum]]. Finally, Divine Retribution (11) increases DMG done in Yamato.
+
+==Yamato INTEL==
+[[File:Yamato INTEL 1.5.png|frameless|left]]
+{| class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|1||Yamato Map||100|| ||When you enter a new area, gain +150 INTEL
+|-
+| rowspan="3" |2|| rowspan="3" |Chrysanth & Sword||400|| ||Unlock Special Cards(Yamato)
+At the end of explorations in Yamato, Cards convert to +5% rewards
+|-
+|800|| ||Unlock Special Cards(Yamato)
+At the end of explorations in Yamato, Cards convert to +10% rewards
+|-
+|1200|| ||Unlock Special Cards(Yamato)
+At the end of explorations in Yamato, Cards convert to +15% rewards
+|-
+|3||Gyushu Apostle Clue||1200||Defeat [[Yamato Apostles#Idol Girl|Idol Girl]]||Unlock area (Gyushu)
+In Gyushu, INTEL gained +20%
+|-
+|4||Ninja Training||400|| ||Unlock INTEL Tree (Ninja Training)
+When you enter a new area, gain +20 Chakra
+|-
+| rowspan="3" |5|| rowspan="3" |Soul of Earth||1600|| ||Upgrade 1 White Soul of Earth Grid to Green
+|-
+|3200|| ||Upgrade 1 Green Soul of Earth Grid to Blue
+|-
+|4800|| ||Upgrade 1 Blue Soul of Earth Grid to Purple
+|-
+| rowspan="3" |6|| rowspan="3" |Soul of Aqua||1600|| ||Upgrade 1 White Soul of Aqua Grid to Green
+|-
+|3200|| ||Upgrade 1 Green Soul of Aqua Grid to Blue
+|-
+|4800|| ||Upgrade 1 Blue Soul of Aqua Grid to Purple
+|-
+|7||Orry Apostle Clue||4800||Defeat [[Yamato Apostles#Basketball Squad|Basketball Squad]]||Unlock area (Orry Villa)
+In Orry, INTEL gained +20%
+|-
+| rowspan="3" |8|| rowspan="3" |Soul of Fire||1600|| ||Upgrade 1 White Soul of Fire Grid to Green
+|-
+|3200|| ||Upgrade 1 Green Soul of Fire Grid to Blue
+|-
+|4800|| ||Upgrade 1 Blue Soul of Fire Grid to Purple
+|-
+| rowspan="3" |9|| rowspan="3" |Soul of Thunder||1600|| ||Upgrade 1 White Soul of Thunder Grid to Green
+|-
+|3200|| ||Upgrade 1 Green Soul of Thunder Grid to Blue
+|-
+|4800|| ||Upgrade 1 Blue Soul of Thunder Grid to Purple
+|-
+| rowspan="3" |10|| rowspan="3" |Military Dictatorship||400|| ||Per Yamato Apostle dominated, Snail ATK +8
+Yamato Apostles Dominated: 10/10
+|-
+|800|| ||Per Yamato Apostle dominated, Snail ATK +16
+Yamato Apostles Dominated: 10/10
+|-
+|12000|| ||Per Yamato Apostle dominated, Snail ATK +24
+Yamato Apostles Dominated: 10/10
+|-
+| rowspan="3" |11|| rowspan="3" |Ghost Parade||4000||Only in Demon Form in Yamato||In Exploration Looting, gain Ghost Heads by +10%
+|-
+|8000||Only in Demon Form in Yamato||In Exploration Looting, gain Ghost Heads by +20%
+|-
+|12000||Only in Demon Form in Yamato||In Exploration Looting, gain Ghost Heads by +30%
+|-
+|12||Nana Apostle Clue||12000||Defeat [[Yamato Apostles#Spike Turtle|Spike Turtle]]||Unlock area (Nana)
+In Nana, INTEL gained +20%
+|-
+| rowspan="3" |13|| rowspan="3" |Genji||4000|| ||Obtain [[Gear|<span style="color:#ee96d5;">Genji Gloves</span>]]
+|-
+|8000|| ||Obtain [[Gear|<span style="color:#ee96d5;">Genji Helmet</span>]]
+|-
+|12000|| ||Obtain [[Gear|<span style="color:#ee96d5;">Genji Shield</span>]]
+|-
+|14||Sumo Training||4000|| ||Unlock Special Feature (Sumo Training)
+[[Mailbox#Nissan|Nissan]] will visit your Home
+|-
+| rowspan="3" |15|| rowspan="3" |Bushido||10000|| ||Unlock Special Incident (Majestic Battle)
+|-
+|20000|| ||Unlock Special Incident (Mt. Huji Meditation)
+|-
+|30000|| ||Unlock Special Incident (Nachi Falls Training)
+|-
+| rowspan="3" |16|| rowspan="3" |Musashi's Legacy||10000|| ||If an exploration in Yamato is sped up for +8hrs, gain 1 Musashi's Legacy at the end
+|-
+|20000|| ||If an exploration in Yamato is sped up for +6hrs, gain 1 Musashi's Legacy at the end
+|-
+|30000|| ||If an exploration in Yamato is sped up for +4hrs, gain 1 Musashi's Legacy at the end
+|-
+|17||Kiyoto Apostle Clue||30000||Defeat [[Yamato Apostles#General Shimasu|General Shimasu]]||Unlock area (Kiyoto)
+In Kiyoto, INTEL gained +20%
+|-
+| rowspan="3" |18|| rowspan="3" |Flag of Furinkazan||10000|| ||Soul of Earth, +5% for extra Travel Speedups
+Soul of Aqua, +5% for extra Clone Speedups
+Soul of Fire, +5% for extra Offering Speedups
+Soul of Thunder, +5% for Evolution Speedups
+|-
+|20000|| ||Soul of Earth, +10% for extra Travel Speedups
+Soul of Aqua, +10% for extra Clone Speedups
+Soul of Fire, +10% for extra Offering Speedups
+Soul of Thunder, +10% for Evolution Speedups
+|-
+|30000|| ||Soul of Earth, +15% for extra Travel Speedups
+Soul of Aqua, +15% for extra Clone Speedups
+Soul of Fire, +15% for extra Offering Speedups
+Soul of Thunder, +15% for Evolution Speedups
+|-
+| rowspan="3" |19|| rowspan="3" |Like a Dream||10000|| ||All Gene Research SPD +2%
+Obtain 2h Gene Speedup
+|-
+|20000|| ||All Gene Research SPD +4%
+Obtain 4h Gene Speedup
+|-
+|30000|| ||All Gene Research SPD +6%
+Obtain 8h Gene Speedup
+|}
+
+==Ninja Training==
+[[File:Yamato INTEL 2.5.png|frameless|left]]
+{| class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Effect
+|-
+| rowspan="4" |1|| rowspan="4" |Ninjutsu Basics||100||Unlock Ninjutsu (Aqua-Jutsu)
+|-
+|200||Unlock Ninjutsu (Earth-Jutsu)
+|-
+|300||Unlock Ninjutsu (Fire-Jutsu)
+|-
+|400||Unlock Ninjutsu (Thunder-Jutsu)
+|-
+| rowspan="3" |2|| rowspan="3" |Stealth||400||In Yamato, Travel SPD +5%
+In Yamato, AFFCT Checks -30
+|-
+|800||In Yamato, Travel SPD +10%
+In Yamato, AFFCT Checks -60
+|-
+|1200||In Yamato, Travel SPD +15%
+In Yamato, AFFCT Checks -90
+|-
+| rowspan="2" |3|| rowspan="2" |Ninjutsu Scrolls||400||Per victory, Ninjutsu Scrolls gained +1
+|-
+|800||Per victory, Ninjutsu Scrolls gained +2
+|-
+| rowspan="3" |4|| rowspan="3" |Ninja's Gesture||400||Select a type of Ninjutsu:
+Training SPD of the selected Ninjutsu +20%
+|-
+|800||Select a type of Ninjutsu:
+Training SPD of the selected Ninjutsu +40%
+|-
+|1200||Select a type of Ninjutsu:
+Training SPD of the selected Ninjutsu +60%
+|-
+| rowspan="2" |5|| rowspan="2" |Earth of Ninjutsu I||1600||Earth-Jutsu Training SPD +20%
+Earth-Jutsu can be enhanced up to Lv. 8
+|-
+|3200||Earth-Jutsu Training SPD +40%
+Earth-Jutsu can be enhanced up to Lv. 12
+|-
+| rowspan="2" |6|| rowspan="2" |Aqua Ninjutsu I||1600||Aqua-Jutsu Training SPD +20%
+Aqua-Jutsu can be enhanced up to Lv. 8
+|-
+|3200||Aqua-Jutsu Training SPD +40%
+Aqua-Jutsu can be enhanced up to Lv. 12
+|-
+|7||Way of Ninja||1600||5 Ninjutsu levels = 5 Novice Scrolls
+Current level: 80/80
+|-
+| rowspan="2" |8|| rowspan="2" |Fire Ninjutsu I||1600||Fire-Jutsu Training SPD +20%
+Fire-Jutsu can be enhanced up to Lv. 8
+|-
+|3200||Fire-Jutsu Training SPD +40%
+Fire-Jutsu can be enhanced up to Lv. 12
+|-
+| rowspan="2" |9|| rowspan="2" |Thunder Ninjutsu I||1600||Thunder-Jutsu Training SPD +20%
+Thunder-Jutsu can be enhanced up to Lv. 8
+|-
+|3200||Thunder-Jutsu Training SPD +40%
+Thunder-Jutsu can be enhanced up to Lv. 12
+|-
+| rowspan="3" |10|| rowspan="3" |Koka Scrolls||4000||Turn Ninjutsu Scrolls to Koka Scrolls by +0.5%
+Use in Card Redemption for rare resources
+|-
+|8000||Turn Ninjutsu Scrolls to Koka Scrolls by +1%
+Use in Card Redemption for rare resources
+|-
+|12000||Turn Ninjutsu Scrolls to Koka Scrolls by +1.5%
+Use in Card Redemption for rare resources
+|-
+| rowspan="3" |11|| rowspan="3" |Divine Retribution||4000||In Yamato, DMG +5%
+|-
+|8000||In Yamato, DMG +10%
+|-
+|12000||In Yamato, DMG +15%
+|-
+| rowspan="3" |12|| rowspan="3" |Chakra Transformation||4000||Can trade 20 Yamato INTEL for 1 Chakra
+|-
+|8000||Can trade 15 Yamato INTEL for 1 Chakra
+|-
+|12000||Can trade 10 Yamato INTEL for 1 Chakra
+|-
+| rowspan="3" |13|| rowspan="3" |Kani Jade||4000||Obtain 20 [[Kani Jade|<span style="color:#ee96d5;">Kani Jade</span>]] Fragment
+|-
+|8000||Obtain 40 [[Kani Jade|<span style="color:#ee96d5;">Kani Jade</span>]] Fragment
+|-
+|12000||Obtain 60 [[Kani Jade|<span style="color:#ee96d5;">Kani Jade</span>]] Fragment
+|-
+| rowspan="3" |14|| rowspan="3" |Ika Scrolls||4000|||Turn Ninjutsu Scrolls to Ika Scrolls by +0.5%
+Use in Card Redemption for rare resources
+|-
+|8000||Turn Ninjutsu Scrolls to Ika Scrolls by +1%
+Use in Card Redemption for rare resources
+|-
+|12000||Turn Ninjutsu Scrolls to Ika Scrolls by +1.5%
+Use in Card Redemption for rare resources
+|-
+| rowspan="2" |15|| rowspan="2" |Earth Ninjutusu II||10000|||Earth-Jutsu Training SPD +5%
+Earth-Jutsu can be enhanced up to Lv. 16
+|-
+|20000||Earth-Jutsu Training SPD +10%
+Earth-Jutsu can be enhanced up to Lv. 20
+Fight Earth Ninja Kato after all training
+|-
+| rowspan="2" |16|| rowspan="2" |Aqua Ninjutusu II||10000|||Aqua-Jutsu Training SPD +5%
+Aqua-Jutsu can be enhanced up to Lv. 16
+|-
+|20000||Aqua-Jutsu Training SPD +10%
+Aqua-Jutsu can be enhanced up to Lv. 20
+Fight Aqua Ninja Kaguya after all training
+|-
+|17||Sacred Mirror||30000||Acquire to access Yamato Train: Sacred Mirrror
+|-
+| rowspan="2" |18|| rowspan="2" |Fire Ninjutusu II||10000|||Fire-Jutsu Training SPD +5%
+Fire-Jutsu can be enhanced up to Lv. 16
+|-
+|20000||Fire-Jutsu Training SPD +10%
+Fire-Jutsu can be enhanced up to Lv. 20
+Fight Fire Ninja Momochi after all training
+|-
+| rowspan="2" |19|| rowspan="2" |Thunder Ninjutusu II||10000|||Thunder-Jutsu Training SPD +5%
+Thunder-Jutsu can be enhanced up to Lv. 16
+|-
+|20000||Thunder-Jutsu Training SPD +10%
+Thunder-Jutsu can be enhanced up to Lv. 20
+Fight Thunder Ninja Sarutabi after all training
+|}
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Yamato]]

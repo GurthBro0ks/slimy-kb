@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Jupiter Marble Statue
+|class_id=21353
+|rank=AAA
+|affct=CIV
+|source=
+|description=This is an artistic masterpiece from ancient Rome, depicting Jupiter, the supreme god in Roman mythology. The statue of Jupiter is presented in a solemn and majestic posture, with finely detailed carvings, wearing a classical robe and holding a scepter, symbolizing his supreme power and divinity. As the main deity in Roman mythology, Jupiter is not only an object of religious worship but also an important part of Roman culture and art, reflecting the religious beliefs and aesthetic tastes of ancient Roman society.
+|fame=51
+|art=45
+|fth=41
+|civ=74
+|tech=32
+|ss1=Snail ATK +10<br>Snail DEF +10
+|ss2=Snail ATK +20<br>Snail DEF +20
+|ss3=Snail ATK +30<br>Snail DEF +30
+|ss4=Snail ATK +50<br>Snail DEF +50
+|ss5=Snail ATK +70<br>Snail DEF +70
+|ss7=Snail ATK +70<br>Snail DEF +70<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Skill skill II.png|50px]]??? (Coming soon)
+|skill2=[[File:Skill skill II.png|50px]]??? (Coming soon)
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Cyclops God Head
+|class_id=20263
+|rank=Green
+|affct=FAITH
+|source=
+|description=This large, one-eyed skull came from an exceptionally powerful Cyclops. According to the information collected in his Domain, he was undoubtedly a god. However, an unknown energy struck him when he was dining. The god died on the spot. Eventually, his head was taken away, becoming part of a collection.
+|fame=13
+|art=16
+|fth=31
+|civ=17
+|tech=13
+|ss1=Per Organ implanted, Snail DEF +1<br>Organs Implanted: 40/40
+|ss2=Per Organ implanted, Snail DEF +2<br>Organs Implanted: 40/40
+|ss3=Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40
+|ss4=Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40
+|ss7=Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40<br> (Awakened)
+}}

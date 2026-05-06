@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Jupiter and Thetis,Torlonia Marble Caryatid,Dancers on Stage
+|rank=orange
+|amount=3
+|category=self
+|description=Per 3 CIV Relics awakened, Snail Bedrock Power +8; CIV Relics Awakened: 180/180
+}}
+[[Category:Self]]
+[[Category:Bedrock Power Boost]]
+[[Category:Enhanced by CIV Relics]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Maglev Iron Ball
+|class_id=20341
+|rank=Green
+|affct=TECH
+|source=
+|description=After Big Guy Park founded the Ironball Sect, he decided to integrate modern technology with traditional martial arts to make a breakthrough. One of the most notable achievements is this levitating magnetic iron ball; it can greatly reduce the user's encumbrance and fatigue, and can still wreak havoc in a fight!
+|fame=15
+|art=11
+|fth=17
+|civ=16
+|tech=31
+|ss1=Per 10 Ironball Throwers in battle:<br>> Troop RUSH +1
+|ss2=Per 10 Ironball Throwers in battle:<br>> Troop RUSH +2
+|ss3=Per 10 Ironball Throwers in battle:<br>> Troop RUSH +3
+|ss4=Per 10 Ironball Throwers in battle:<br>> Troop RUSH +3
+|ss7=Per 10 Ironball Throwers in battle:<br>> Troop RUSH +3<br> (Awakened)
+}}

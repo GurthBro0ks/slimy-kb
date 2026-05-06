@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Poppy Bead Gold Necklace
+|class_id=21647
+|rank=AAA
+|affct=ART
+|source=
+|description=This eye-catching necklace is crafted by meticulously welding metal wire rings of various diameters into cornflower and bead shapes, an early example of filigree technique. It was discovered in the famous Valley of the Kings, and archaeologists speculate that it belonged to Pharaoh Tawosret. Tawosret was not only the wife of Pharaoh Seti II but also served as regent for her son Seti III after Seti II's death, handling state affairs on his behalf. In the late 19th dynasty, Tawosret ruled Egypt in her own name for several years, but her disappearance marked the end of the 19th dynasty.
+|fame=33
+|art=71
+|fth=46
+|civ=54
+|tech=39
+|ss1=Snail DEF +30<br>Per 5 ART Relics awakened, Snail ATK +9<br>ART Relics Awakened: 100/100
+|ss2=Snail DEF +40<br>Per 5 ART Relics awakened, Snail ATK +12<br>ART Relics Awakened: 100/100
+|ss3=Snail DEF +50<br>Per 5 ART Relics awakened, Snail ATK +15<br>ART Relics Awakened: 100/100
+|ss4=Snail DEF +70<br>Per 5 ART Relics awakened, Snail ATK +21<br>ART Relics Awakened: 100/100
+|ss5=Snail DEF +90<br>Per 5 ART Relics awakened, Snail ATK +27<br>ART Relics Awakened: 100/100
+|ss7=Snail DEF +90<br>Per 5 ART Relics awakened, Snail ATK +27<br>ART Relics Awakened: 100/100<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Card Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +3%
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=584
+|relics=Royal Game of Ur,Baekje Incense Burner
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Epic Protomon fused, Snail DEF +10;Epic Protomon Fused: 200/200
+}}

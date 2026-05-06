@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Protestantism and Capitalism Spirit
+|class_id=21545
+|rank=AAA
+|affct=FAME
+|source=
+|description=Protestant Ethics and Capitalist Spirit is an important work written by German sociologist Weber. In this work, Weber explores how Protestant ethics have promoted the development of capitalism, especially the teachings of Calvinism, and how they have shaped a spiritual temperament conducive to the rise of capitalism. At the same time, Weber also warned that with the development of capitalism, this spirit may be replaced by material interests and efficiency pursuits, leading people to be bound by the rationalized system they have created, losing their freedom and meaning. This work is not only a milestone work in the field of sociology, but also an important reference for understanding modern Western society and its economic system development. Weber's analysis is still widely cited and discussed today, providing profound insights into the interactions between religion, economy, and culture.
+|fame=71
+|art=42
+|fth=34
+|civ=47
+|tech=49
+|ss1=Protomon Snail assist DMG + 240<br>Per 5 FAME Relics awakened, Snail ATK +9<br>FAME Relics Awakened: 100/100
+|ss2=Protomon Snail assist DMG + 320<br>Per 5 FAME Relics awakened, Snail ATK +12<br>FAME Relics Awakened: 100/100
+|ss3=Protomon Snail assist DMG + 400<br>Per 5 FAME Relics awakened, Snail ATK +15<br>FAME Relics Awakened: 100/100
+|ss4=Protomon Snail assist DMG + 560<br>Per 5 FAME Relics awakened, Snail ATK +21<br>FAME Relics Awakened: 100/100
+|ss5=Protomon Snail assist DMG + 720<br>Per 5 FAME Relics awakened, Snail ATK +27<br>FAME Relics Awakened: 100/100
+|ss7=Protomon Snail assist DMG + 720<br>Per 5 FAME Relics awakened, Snail ATK +27<br>FAME Relics Awakened: 100/100<br>Protomon Snail assist DMG + 560 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, B-tads gained +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's FAME +10
+}}

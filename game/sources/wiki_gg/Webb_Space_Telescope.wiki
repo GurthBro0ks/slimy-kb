@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Webb Space Telescope
+|class_id=22743
+|rank=SSS
+|affct=TECH
+|birthday=04-15
+|source=Lottery Machine No.3 (0.12%)
+|description=On Apr 15, 2021 AD, the Webb Space Telescope successfully operated in space for three days.<br>The Webb Space Telescope, from its construction to completion, gathered thousands of scientists, technicians, and engineers from around the world, spending 40 million hours and 10 billion US dollars. The entire telescope is composed of eighteen huge sub-mirrors. The area that collects light is six times larger than that of the Hubble Space Telescope. In addition, it is equipped with various instruments, which take six months to set up in order to reach full capacity. Therefore, it is also known as the world's most complex telescope.
+|fame=68
+|art=51
+|fth=73
+|civ=61
+|tech=109
+|ss1=Snail Leadership +3<br>Per 2,000 Forest Sanctum Rating Pts, Snail DEF +3<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Forest Sanctum Rating Pts: 100000/100000
+|ss2=Snail Leadership +4<br>Per 2,000 Forest Sanctum Rating Pts, Snail DEF +4<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Forest Sanctum Rating Pts: 100000/100000
+|ss3=Snail Leadership +5<br>Per 2,000 Forest Sanctum Rating Pts, Snail DEF +5<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Forest Sanctum Rating Pts: 100000/100000
+|ss4=Snail Leadership +7<br>Per 2,000 Forest Sanctum Rating Pts, Snail DEF +7<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Forest Sanctum Rating Pts: 100000/100000
+|ss5=Snail Leadership +9<br>Per 2,000 Forest Sanctum Rating Pts, Snail DEF +9<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Forest Sanctum Rating Pts: 100000/100000
+|ss6=Snail Leadership +12<br>Per 2,000 Forest Sanctum Rating Pts, Snail DEF +12<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Forest Sanctum Rating Pts: 100000/100000
+|ss7=Snail Leadership +12<br>Per 2,000 Forest Sanctum Rating Pts, Snail DEF +12<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Forest Sanctum Rating Pts: 100000/100000<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: This Relic's TECH +15
+|skill2=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: Lucky Egg hatching efficiency +30%
+|skill3=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: Purple rewards from this egg turn Orange by 3%
+|mirage={{Mirage|name=Most Powerful Telescope|reward={{RewardIconWithLink|Star Stone, +3|orange}}
+|3name=Large Sunshield Device|3rec=96.31M|3atk=283263|3defense=179398|3hp=14383444|3weak=34254
+|4name=Fine Guidance Senor|4rec=112.41M|4atk=321088|4defense=202053|4hp=17336054|4weak=35654
+|5name=Near Infrared Camera|5rec=128.94M|5atk=359037|5defense=225312|5hp=20140769|5weak=37365
+|6name=Precision Deflecting Mirror|6rec=150.78M|6atk=411498|6defense=256039|6hp=25371586|6weak=39106
+|Arec=181.16M|Aatk=483952|Adefense=298770|Ahp=33514126|Aweak=41543
+}}}}

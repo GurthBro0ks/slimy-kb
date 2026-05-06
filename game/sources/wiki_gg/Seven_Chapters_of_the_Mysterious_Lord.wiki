@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Seven Chapters of the Mysterious Lord
+|class_id=22845
+|rank=SSS
+|affct=FAITH
+|source=
+|description=The Seven Chapters of the Mysterious Lord is a fictional work within the Cthulhu Mythos, purportedly written by the ancient Chinese philosopher Xuan Jun. This document appeared around the 2nd century CE, originally titled the Seven Secret Teachings of the Earth, but the original version has been lost, with detailed copies surviving. The book contains profound philosophy and involves spells and supernatural knowledge, serving as a key text connecting the real and mysterious realms, blending Taoist thought with elements from the Cthulhu Mythos, regarded as a rare and powerful tome.
+|fame=56
+|art=77
+|fth=108
+|civ=56
+|tech=65
+|ss1=All minion skins ATK +10%<br>Per 3 Minion Skins crafted, Snail DEF +9<br>prop@54128_2<br>Minion Skins crafted: 60/60
+|ss2=All minion skins ATK +20%<br>Per 3 Minion Skins crafted, Snail DEF +12<br>prop@54128_2<br>Minion Skins crafted: 60/60
+|ss3=All minion skins ATK +30%<br>Per 3 Minion Skins crafted, Snail DEF +15<br>prop@54128_2<br>Minion Skins crafted: 60/60
+|ss4=All minion skins ATK +50%<br>Per 3 Minion Skins crafted, Snail DEF +21<br>prop@54128_2<br>Minion Skins crafted: 60/60
+|ss5=All minion skins ATK +70%<br>Per 3 Minion Skins crafted, Snail DEF +27<br>prop@54128_2<br>Minion Skins crafted: 60/60
+|ss6=All minion skins ATK +100%<br>Per 3 Minion Skins crafted, Snail DEF +36<br>prop@54128_2<br>Minion Skins crafted: 60/60
+|ss7=All minion skins ATK +100%<br>Per 3 Minion Skins crafted, Snail DEF +36<br>prop@54128_2<br>Minion Skins crafted: 60/60<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: Medal Output +30
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's FTH +15
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail ATK +600
+}}

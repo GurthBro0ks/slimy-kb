@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Walking Man Statue
+|class_id=22035
+|rank=Blue
+|affct=ART
+|birthday=12-10
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Dec 10, 3035 BC, the ancient Elamites cast the Walking Man Statue.<br>A bronze statue of a walking man with horns. It is one of the earliest bronze statues made by the lost-wax method. The statue wears Mesopotamian highland shoes with upturned toes, with northern mountain sheep horns on the head. The shoulders are covered with predatory bird wings. The fusion of human and various animal forms demonstrates the characteristics of the shamanic faith and related art in the primitive Elamite period.
+|fame=22
+|art=48
+|fth=28
+|civ=33
+|tech=23
+|ss1=Snail HP +100
+|ss2=Snail HP +200
+|ss3=Snail HP +300
+|ss4=Snail HP +500
+|ss7=Snail HP +500<br>Snail HP +500 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +20
+}}

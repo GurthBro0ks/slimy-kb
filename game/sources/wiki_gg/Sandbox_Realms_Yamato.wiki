@@ -1,0 +1,34 @@
+{{Location|title=Yamato|imagecaption=Map of Yamato|type=|image=File:YamatoFullMap.png}}
+
+==Yamato==
+An island country that features both the alluring Sakura and the intimidating sword.
+
+Welcome to Yamato. Mt. Huji, Sky Tree, Naniwa Castle, Cat Island, and Lake Toya are good spots to visit! A small reminder: Do not trust low-price cosmetics or accomodation recommendations, and please think twice before purchasing smart toilet seats, rice cookers, ninjutsu scrolls, Demon Fruits, etc.
+
+Yamato is the 2nd of 8 [[Realms]].
+{|class="wikitable"
+!{{Reimg|Koryeo}}<br>[[Koryeo]]!!{{Reimg|Yamato}}<br>[[Yamato]]!!{{Reimg|Cathay}}<br>[[Cathay]]!!{{Reimg|Murika}}<br>[[Murika]]
+|-
+!{{Reimg|Britland}}<br>[[Britland]]!!{{Reimg|Kemet}}<br>[[Kemet]]!!{{Reimg|Hellas}}<br>[[Hellas]]!!{{Reimg|Bharata}}<br>[[Bharata]]
+|}
+
+==INTEL==
+See [[/INTEL|Yamato INTEL]] for INTEL tables.
+
+==Apostles ==
+See [[/Apostles|Yamato Apostles']] for each Apostles' stats.
+
+==Card Conversions==
+See [[/Cards|Yamato Cards]] for a list of all limited cards in Yamato and what they can be redeemed for.
+
+==Key Clue Records==
+See [[/Key Clues|Yamato Key Clues]] for a list of all Key Clues in Yamato, how to complete them, and what they reward.
+
+==Ninjutsu==
+See [[Ninjutsu]] for a breakdown of what Ninjutsu is, its stats and costs, and how to get Mirror Fragments.
+
+==Realm Trait - Sacred Mirror==
+See [[Sacred Mirror]] for information on cost, stats, and unsealing. 
+
+
+[[Category:Realm]][[Category:Yamato]]

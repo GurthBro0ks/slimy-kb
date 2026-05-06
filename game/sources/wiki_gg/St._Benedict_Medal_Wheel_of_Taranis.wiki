@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=327
+|relics=St. Benedict Medal,Wheel of Taranis
+|rank=blue
+|amount=2
+|category=self
+|description=Snail ATK +50
+}}

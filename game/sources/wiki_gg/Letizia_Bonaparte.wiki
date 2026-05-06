@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Letizia Bonaparte
+|class_id=22431
+|rank=Blue
+|affct=ART
+|birthday=01-29
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jan 29, 1804 AD, Canova began carving the statue of Letizia Bonaparte.<br>This statue is the representative work of neoclassical sculptor Antonio Canova. His superb craftsmanship gave the marble statue an extremely realistic texture. The character's clothing was presented in an extremely natural state, and the facial expressions are like real people, making it of high artistic value.
+|fame=22
+|art=48
+|fth=29
+|civ=30
+|tech=25
+|ss1=Per 5 Epic Protodex Stars, Snail ATK +3<br>Epic Protodex Stars: 100/100
+|ss2=Per 5 Epic Protodex Stars, Snail ATK +6<br>Epic Protodex Stars: 100/100
+|ss3=Per 5 Epic Protodex Stars, Snail ATK +9<br>Epic Protodex Stars: 100/100
+|ss4=Per 5 Epic Protodex Stars, Snail ATK +15<br>Epic Protodex Stars: 100/100
+|ss7=Per 5 Epic Protodex Stars, Snail ATK +15<br>Epic Protodex Stars: 100/100<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: This Relic's ART +5
+}}

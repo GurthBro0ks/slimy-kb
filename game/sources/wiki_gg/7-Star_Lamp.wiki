@@ -1,0 +1,18 @@
+{{Missing Info|specifics=<br>Source}}
+
+{{CargoRelic
+|name=7-Star Lamp
+|class_id=20023
+|rank=Green
+|affct=FTH
+|source=
+|description=Throughout history, humans have explored myriad methods to extend their lifespans. In ancient Cathay, one such method was the use of the 7-Star Lamp. According to historical records, aligning seven lamps to correspond with the positions of specific constellations and keeping them lit for seven consecutive days could potentially extend one's life by an astounding twelve years.
+|fame=19
+|art=16
+|fth=28
+|civ=10
+|tech=17
+|ss1=Snail HP +100
+|ss2=Snail HP +200
+|ss3=Snail HP +300
+}}

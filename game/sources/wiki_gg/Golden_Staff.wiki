@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Staff
+|class_id=20436
+|rank=Green
+|affct=FAME
+|source=
+|description=This gold scepter was unearthed in Sacrificial Pit 1 of Sanxingdui. Gold bars were flattened into thin layers, which were then wrapped around a wooden shaft. The shaft had deteriorated when people dug it up and only the gold exterior remained, mixed with wood slag. In the ancient Shu Kingdom, the gold scepter represented political and religious authority.
+|fame=31
+|art=17
+|fth=11
+|civ=17
+|tech=14
+|ss1=Per 5 Orange Museum Promos, Snail ATK +5<br>Orange Museum Promos: 50/50
+|ss2=Per 5 Orange Museum Promos, Snail ATK +10<br>Orange Museum Promos: 50/50
+|ss3=Per 5 Orange Museum Promos, Snail ATK +15<br>Orange Museum Promos: 50/50
+|ss4=Per 5 Orange Museum Promos, Snail ATK +15<br>Orange Museum Promos: 50/50
+|ss7=Per 5 Orange Museum Promos, Snail ATK +15<br>Orange Museum Promos: 50/50<br> (Awakened)
+}}

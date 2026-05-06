@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Golden Boot Award
+|class_id=22507
+|rank=AA
+|affct=FAME
+|birthday=06-28
+|source=Lottery Machine No.3 (0.12%)
+|description=On Jun 28, 1966 AD, FIFA officially established the World Cup Golden Boot Award.<br>The Golden Boot Award, officially known as the FIFA World Cup Golden Boot Award, is the honor awarded by FIFA to the player with the most goals in each World Cup finals stage. When there are players with the same number of goals, the ownership of this award will be determined by assists and playing time. As one of the top honors in the football world, this award has been widely watched since its inception, and players continue to strive for it.
+|fame=66
+|art=37
+|fth=34
+|civ=44
+|tech=47
+|ss1=Per 2 fully unlocked Tactical Logs, Snail ATK +2<br>Per 2 fully unlocked Tactical Logs, Snail DEF +2<br>Tactical Logs unlocked: 100/100
+|ss2=Per 2 fully unlocked Tactical Logs, Snail ATK +3<br>Per 2 fully unlocked Tactical Logs, Snail DEF +3<br>Tactical Logs unlocked: 100/100
+|ss3=Per 2 fully unlocked Tactical Logs, Snail ATK +4<br>Per 2 fully unlocked Tactical Logs, Snail DEF +4<br>Tactical Logs unlocked: 100/100
+|ss4=Per 2 fully unlocked Tactical Logs, Snail ATK +6<br>Per 2 fully unlocked Tactical Logs, Snail DEF +6<br>Tactical Logs unlocked: 100/100
+|ss5=Per 2 fully unlocked Tactical Logs, Snail ATK +8<br>Per 2 fully unlocked Tactical Logs, Snail DEF +8<br>Tactical Logs unlocked: 100/100
+|ss7=Per 2 fully unlocked Tactical Logs, Snail ATK +8<br>Per 2 fully unlocked Tactical Logs, Snail DEF +8<br>Tactical Logs unlocked: 100/100<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +30
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Water DMG +30
+}}

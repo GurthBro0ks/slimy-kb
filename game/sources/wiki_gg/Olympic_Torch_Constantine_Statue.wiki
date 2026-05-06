@@ -1,0 +1,10 @@
+{{CargoRelicResonance
+|relics=Olympic Torch,Constantine Statue
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Wormhole Refines, Snail ATK +7; Wormhole Refines: 200/200
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Wormhole Refines]]

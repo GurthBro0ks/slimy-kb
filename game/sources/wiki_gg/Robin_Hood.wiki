@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Robin Hood
+|class_id=22470
+|rank=Blue
+|affct=CIV
+|birthday=09-24
+|source=Lottery Machine No.3 (0.06%)
+|description=On Sept 24, 1720 AD, the outlaw Robin Hood escaped from Sherwood Forest.<br>"Robin Hood" is a work by French writer Alexandre Dumas, based on earlier stories. It tells the tale of Robin Hood in the 1160s, leading a band of peasant rebels based in Sherwood Forest and robbing the rich to give to the poor. The story embodies the spirit of medieval English people resisting feudalism. Today, Robin Hood is no longer associated with a specific hero but has become a cultural symbol of wealth redistribution.
+|fame=34
+|art=29
+|fth=27
+|civ=44
+|tech=20
+|ss1=Refine +1 White Printing Supply by +1%
+|ss2=Refine +1 White Printing Supply by +2%
+|ss3=Refine +1 White Printing Supply by +3%
+|ss4=Refine +1 White Printing Supply by +5%
+|ss7=Refine +1 White Printing Supply by +5%<br>Refine +1 White Printing Supply by +5% (Awakened)
+|skill1=[[File:Goldfish skill I.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Earth DMG +10
+}}

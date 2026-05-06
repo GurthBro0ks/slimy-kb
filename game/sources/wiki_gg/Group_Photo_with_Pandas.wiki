@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Group Photo with Pandas
+|class_id=20294
+|rank=Green
+|affct=FAITH
+|source=
+|description=After a close encounter with the pandas who traveled from afar, Snail took this photo with them to commemorate the celebration and preserve this beautiful memory forever!
+|fame=18
+|art=14
+|fth=29
+|civ=16
+|tech=13
+|ss1=Per 500 FTH, Snail ATK +1<br>FTH: 15000/15000
+|ss2=Per 500 FTH, Snail ATK +2<br>FTH: 15000/15000
+|ss3=Per 500 FTH, Snail ATK +3<br>FTH: 15000/15000
+|ss4=Per 500 FTH, Snail ATK +3<br>FTH: 15000/15000
+|ss7=Per 500 FTH, Snail ATK +3<br>FTH: 15000/15000<br> (Awakened)
+}}

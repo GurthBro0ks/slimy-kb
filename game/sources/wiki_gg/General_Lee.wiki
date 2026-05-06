@@ -1,0 +1,15 @@
+{{CargoClone
+|name=General Lee
+|rank=orange
+|cabin=2
+|id=142
+|gene1={race} HP +500
+|gene2={race} FAME +50
+|gene3=Water DMG +30
+|gene4=Per 60 Zombie Minions in battle,
+Troop Water DMG +6
+|gene5=Water DMG +0.9%
+|gene6=Per 60 Zombie Minions in battle,
+Troop Water DMG +10
+|gene7=Water DMG +1.5%
+|}}

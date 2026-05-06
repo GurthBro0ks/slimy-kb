@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Quantum Silicon Neuron
+|type=Common
+|rank=orange
+|id=10880
+|idx=87
+|description=Extracted from silicon-based lifeforms, these neural shards combine layered silicon and organic cores. Their reaction speed defies comprehension—carbon-based minds simply can’t keep up.
+|skill=
+|hp=1660
+|def=229
+|atk=216
+|rush=233
+|gene1=Per 10 Gene Seg. devoured, {race} RUSH +5
+Specimen devoured: 400/400
+|gene2=Dodge +6%
+|gene3=Each round, {race} ATK +60
+|gene4=Per 10 Sim Core LVL, {race} DEF +5
+Sim Core: 500/500
+|gene5=Rebel Cabin, deployable robots +3
+|gene7=Rebel Cabin, deployable robots +9 (Awakened)
+|}}

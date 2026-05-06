@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Ludovisi Ares
+|class_id=22294
+|rank=SSS
+|affct=FAITH
+|birthday=09-02
+|source=
+|description=On Sept 2, 154 BC, this statue of Ares was made.<br>Ares is the Greek god of war and courage in Greek mythology. Although he had been defeated by Athena and other gods several times, he was still worshiped by people. Sometimes he acted rashly, but he always protected his friends and followers. When on the battlefield, he could bring destruction to his enemies. Thus his faith has been passed down, and this statue is the proof.
+|fame=56
+|art=77
+|fth=109
+|civ=54
+|tech=66
+|ss1=All Minion ATK +0.6%<br>Per 60 Minions in battle:<br>> Troop HP +90<br>Per 60 Minions in battle:<br>> Troop ATK +9
+|ss2=All Minion ATK +0.8%<br>Per 60 Minions in battle:<br>> Troop HP +180<br>Per 60 Minions in battle:<br>> Troop ATK +18
+|ss3=All Minion ATK +1%<br>Per 60 Minions in battle:<br>> Troop HP +270<br>Per 60 Minions in battle:<br>> Troop ATK +27
+|ss4=All Minion ATK +1.4%<br>Per 60 Minions in battle:<br>> Troop HP +450<br>Per 60 Minions in battle:<br>> Troop ATK +45
+|ss5=All Minion ATK +1.8%<br>Per 60 Minions in battle:<br>> Troop HP +630<br>Per 60 Minions in battle:<br>> Troop ATK +63
+|ss6=All Minion ATK +2.4%<br>Per 60 Minions in battle:<br>> Troop HP +900<br>Per 60 Minions in battle:<br>> Troop ATK +90
+|ss7=All Minion ATK +2.4%<br>Per 60 Minions in battle:<br>> Troop HP +900<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>All Minion ATK +2% (Awakened)
+|skill1=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP Regen +1200
+|skill2=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: This Relic's FTH +15
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP +9%
+|mirage={{Mirage|name=Ares' Blessing|reward={{RewardIconWithLink|Unknown Record, +3|orange}}
+|3name=Racky Armor|3rec=42.09M|3atk=154554|3defense=103109|3hp=6707993|3weak=20336
+|4name=Racky Shield|4rec=54.70M|4atk=181147|4defense=120850|4hp=8886740|4weak=22691
+|5name=Racky Helmet|5rec=68.90M|5atk=211102|5defense=140835|5hp=11646966|5weak=27678
+|6name=Racky Spear|6rec=84.31M|6atk=243595|6defense=162512|6hp=14948570|6weak=31682
+|Arec=101.17M|Aatk=279153|Adefense=186234|Ahp=18935575|Aweak=34689
+}}}}

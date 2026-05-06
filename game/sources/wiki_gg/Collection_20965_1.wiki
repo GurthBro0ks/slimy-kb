@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20965_1
+|class_id=20965
+|rank=Green
+|affct=FAME
+|source=
+|description=collection@20965_2
+|fame=28
+|art=13
+|fth=14
+|civ=18
+|tech=17
+|ss1=Against Hamsters,<br>Troop DMG toward heroes +1%<br>Against Hamsters,<br>Troop DMG toward heroes +1%
+|ss2=Against Hamsters,<br>Troop DMG toward heroes +2%<br>Against Hamsters,<br>Troop DMG toward heroes +2%
+|ss3=Against Hamsters,<br>Troop DMG toward heroes +3%<br>Against Hamsters,<br>Troop DMG toward heroes +3%
+|ss4=Against Hamsters,<br>Troop DMG toward heroes +3%<br>Against Hamsters,<br>Troop DMG toward heroes +3%
+|ss7=Against Hamsters,<br>Troop DMG toward heroes +3%<br>Against Hamsters,<br>Troop DMG toward heroes +3%<br> (Awakened)
+}}

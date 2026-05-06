@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=895
+|relics=Comprehensive Nuclear-Test-Ban Treaty,Chacmool Statue
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 T7+ Minions in battle: Troop HARD Stats +28
+}}

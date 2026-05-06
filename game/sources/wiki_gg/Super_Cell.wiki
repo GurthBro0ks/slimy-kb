@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Super Cell
+|type=Common
+|rank=blue
+|id=10933
+|idx=33
+|description="After the experimental cells became super-conductive, the speed of nerve signals increased, and a strong magnetic field was formed. You can expect this organ to boost the transplantee's abilities"
+—Unknown Researcher Notes
+|skill=
+|hp=910
+|def=95
+|atk=120
+|rush=112
+|gene1=In Gene Sims, {race} RUSH +20
+|gene2=In Gene Sims, {race} ATK +20
+|gene3=In Gene Sims, RUSH DMG +5%
+|gene7=In Gene Sims, DMG +3% (Awakened)
+|}}

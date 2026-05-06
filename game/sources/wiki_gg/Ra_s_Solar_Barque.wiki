@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Ra's Solar Barque
+|class_id=22853
+|rank=SSS
+|affct=FAITH
+|source=
+|description=Manjet, also known as the Ship of Eternity, belongs to the ancient Egyptian sun god Ra. This magnificent solar barque, crafted from pure gold, shines with an intense and brilliant light akin to the midday sun. Its hull is embedded with gems and ivory, and the prow is adorned with an eagle head, symbolizing Heryshaf, representing strength, protection, and foresight. The stern is adorned with a serpent totem, representing Apis, symbolizing rebirth and eternity. The entire solar barque is like a moving temple, carrying the god Ra across the vast blue sky, reaching the western horizon at sunset, completing the day's journey, and then entering the underworld, ready for a new voyage.
+|fame=63
+|art=68
+|fth=109
+|civ=51
+|tech=71
+|ss1=Snail Leadership +3<br>The Element Circle produces Arcanium by +3%<br>Per 5 Quantum Amp LVLs, Snail ATK +15<br>Quantum Amp LVL: 50/50
+|ss2=Snail Leadership +4<br>The Element Circle produces Arcanium by +4%<br>Per 5 Quantum Amp LVLs, Snail ATK +20<br>Quantum Amp LVL: 50/50
+|ss3=Snail Leadership +5<br>The Element Circle produces Arcanium by +5%<br>Per 5 Quantum Amp LVLs, Snail ATK +25<br>Quantum Amp LVL: 50/50
+|ss4=Snail Leadership +7<br>The Element Circle produces Arcanium by +7%<br>Per 5 Quantum Amp LVLs, Snail ATK +35<br>Quantum Amp LVL: 50/50
+|ss5=Snail Leadership +9<br>The Element Circle produces Arcanium by +9%<br>Per 5 Quantum Amp LVLs, Snail ATK +45<br>Quantum Amp LVL: 50/50
+|ss6=Snail Leadership +12<br>The Element Circle produces Arcanium by +12%<br>Per 5 Quantum Amp LVLs, Snail ATK +60<br>Quantum Amp LVL: 50/50
+|ss7=Snail Leadership +12<br>The Element Circle produces Arcanium by +12%<br>Per 5 Quantum Amp LVLs, Snail ATK +60<br>Quantum Amp LVL: 50/50<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Quantumamp  skill III.png|50px]]Place in Quantum Amp: This Relic's FTH +15
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +15%
+|skill3=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +30%
+|mirage={{Mirage|name=Miracle Vessel|reward={{RewardIconWithLink|Stardust Box III, +3|orange}}
+|3name=dungeon_event@4451_1|3rec=429.62M|3atk=972608|3defense=549071|3hp=280223155|3weak=71000
+|4name=dungeon_event@4452_1|4rec=539.90M|4atk=1162110|4defense=648285|4hp=452843697|4weak=77222
+|5name=Pirate Ship|5rec=714.13M|5atk=1617211|5defense=815407|5hp=732103169|5weak=86282
+|6name=dungeon_event@4454_1|6rec=991.27M|6atk=2500942|6defense=1112650|6hp=1364585635|6weak=96970
+|Arec=1455.84M|Aatk=3762620|Adefense=1555470|Ahp=2341163735|Aweak=109750
+}}}}

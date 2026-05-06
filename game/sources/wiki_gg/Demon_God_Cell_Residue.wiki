@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Demon God Cell Residue
+|class_id=20316
+|rank=Green
+|affct=FAITH
+|source=A chance to obtain [[Altar#Relics and Gear|Dragon Wish "I wanna become stronger!"]].
+|description=You didn't think Demon God Cells could be sentient, right? Although they are technically offspring of the Demon Gods, they are not that powerful. After their defeat, their remains were converted into this Relic. It reminds owners to practice constant vigilance.
+|fame=17
+|art=14
+|fth=31
+|civ=17
+|tech=11
+|ss1=In explorations, Demon God Cells collected +1%
+|ss2=In explorations, Demon God Cells collected +2%
+|ss3=In explorations, Demon God Cells collected +3%
+|ss4=In explorations, Demon God Cells collected +3%
+|ss7=In explorations, Demon God Cells collected +3%<br> (Awakened)
+}}

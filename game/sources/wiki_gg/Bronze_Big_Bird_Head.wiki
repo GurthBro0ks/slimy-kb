@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Bronze Big Bird Head
+|class_id=20083
+|rank=Green
+|affct=CIV
+|source=
+|description=It was excavated in the Sanxingdui ritual pit II and is the largest of all the bird-shaped artifacts in the Sanxingdui. It may have been a decorative object on a temple or mounted on top of some object as a symbol for ceremonial purposes.
+|fame=15
+|art=10
+|fth=19
+|civ=29
+|tech=17
+|ss1=Per 5 Orange Museum Promos, Snail RUSH +5<br>Orange Museum Promos: 50/50
+|ss2=Per 5 Orange Museum Promos, Snail RUSH +10<br>Orange Museum Promos: 50/50
+|ss3=Per 5 Orange Museum Promos, Snail RUSH +15<br>Orange Museum Promos: 50/50
+|ss4=Per 5 Orange Museum Promos, Snail RUSH +15<br>Orange Museum Promos: 50/50
+|ss7=Per 5 Orange Museum Promos, Snail RUSH +15<br>Orange Museum Promos: 50/50<br> (Awakened)
+}}

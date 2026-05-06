@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Hestia's Flint
+|class_id=20940
+|rank=Green
+|affct=FAME
+|source=
+|description=Hestia, Zeus's sister, is the most sacred and ancient deity of Mount Olympus. She oversees all household hearths in the mortal realm. With her fire starter in hand, she guards the human hearths, ensuring the continuity, stability, harmony, and prosperity of families.
+|fame=32
+|art=15
+|fth=18
+|civ=13
+|tech=12
+|ss1=Per 5 Cooking Utensil LVLs, Snail HP +100<br>Cooking Utensil LVL: 150/150
+|ss2=Per 5 Cooking Utensil LVLs, Snail HP +200<br>Cooking Utensil LVL: 150/150
+|ss3=Per 5 Cooking Utensil LVLs, Snail HP +300<br>Cooking Utensil LVL: 150/150
+|ss4=Per 5 Cooking Utensil LVLs, Snail HP +300<br>Cooking Utensil LVL: 150/150
+|ss7=Per 5 Cooking Utensil LVLs, Snail HP +300<br>Cooking Utensil LVL: 150/150<br> (Awakened)
+}}

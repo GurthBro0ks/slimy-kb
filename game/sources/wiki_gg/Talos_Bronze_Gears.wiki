@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Talos’ Bronze Gears
+|class_id=21442
+|rank=SSS
+|affct=TECH
+|source=
+|description=Forged from volcanic lava, a bronze gear system powered the legendary giant Talos. A marvel of pre-Alexander engineering, it moved a 3-meter-tall automaton to guard Crete. Lost-wax casting was ahead of its time, and the Hephaestus runes on the gears hint at the blend of myth and technology. The golden ratio between the gears remains an unsolved mystery in ancient engineering.
+|fame=65
+|art=53
+|fth=81
+|civ=55
+|tech=108
+|ss1=Snail Leadership +3<br>Per 5 Incubator Files fully restored, Snail DEF +9<br>Per 5 Incubator Files fully restored, Snail RUSH +9<br>Files fully restored: 100/100
+|ss2=Snail Leadership +4<br>Per 5 Incubator Files fully restored, Snail DEF +12<br>Per 5 Incubator Files fully restored, Snail RUSH +12<br>Files fully restored: 100/100
+|ss3=Snail Leadership +5<br>Per 5 Incubator Files fully restored, Snail DEF +15<br>Per 5 Incubator Files fully restored, Snail RUSH +15<br>Files fully restored: 100/100
+|ss4=Snail Leadership +7<br>Per 5 Incubator Files fully restored, Snail DEF +21<br>Per 5 Incubator Files fully restored, Snail RUSH +21<br>Files fully restored: 100/100
+|ss5=Snail Leadership +9<br>Per 5 Incubator Files fully restored, Snail DEF +27<br>Per 5 Incubator Files fully restored, Snail RUSH +27<br>Files fully restored: 100/100
+|ss6=Snail Leadership +12<br>Per 5 Incubator Files fully restored, Snail DEF +36<br>Per 5 Incubator Files fully restored, Snail RUSH +36<br>Files fully restored: 100/100
+|ss7=Snail Leadership +12<br>Per 5 Incubator Files fully restored, Snail DEF +36<br>Per 5 Incubator Files fully restored, Snail RUSH +36<br>Files fully restored: 100/100<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion DEF +9%
+|skill2=[[File:Surfclam skill III.png|50px]]Place in a Surf Clam Biozilla: In Species War, Troop DMG toward heroes +6%
+|skill3=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Wind RES +60
+}}

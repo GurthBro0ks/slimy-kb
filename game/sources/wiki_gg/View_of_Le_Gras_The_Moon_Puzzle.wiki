@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=376
+|relics=View of Le Gras,The Moon Puzzle
+|rank=purple
+|amount=2
+|category=self
+|description=Per 30 Wormhole Refiners opened, Snail ATK +6;1500/1500 Wormhole Refiner opened
+}}

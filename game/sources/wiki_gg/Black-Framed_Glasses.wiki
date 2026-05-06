@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Black-Framed Glasses
+|class_id=20078
+|rank=Green
+|affct=CIV
+|source=
+|description=This pair of horn-rimmed worn glasses was one of How How's favorite accessories when he was a student. With this pair of glasses and his handsome looks, he was the eye candy of every girl on campus, and the glasses were also known as the Hormone Inducer! It's an absolute killer for any female snail in this game!
+|fame=15
+|art=17
+|fth=10
+|civ=29
+|tech=19
+|ss1=Snail ATK +20
+|ss2=Snail ATK +40
+|ss3=Snail ATK +60
+|ss4=Snail ATK +60
+|ss7=Snail ATK +60<br> (Awakened)
+}}

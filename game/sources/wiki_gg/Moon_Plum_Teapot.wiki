@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Moon Plum Teapot
+|class_id=22139
+|rank=AAA
+|affct=ART
+|birthday=03-14
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Mar 14, 1647 AD, Nonsei completed the Moon Plum Teapot.<br>The Moon Plum Teapot is a masterpiece among the works by Nonsei. It has a small opening and four handles and utilizes a variety of colorful glazes to create the image of plum blossoms blooming beneath the moonlight. It is rumored that the Daimyo who commissioned this pot had extremely high standards and found the plum blossoms too dull. To brighten it, Nonsei borrowed the Ming Dynasty technique of applying chicken blood to it and achieving success.
+|fame=33
+|art=75
+|fth=46
+|civ=51
+|tech=38
+|ss1=Demon Minion RUSH +3%<br>Demon Minion HARD Stats +0.9%
+|ss2=Demon Minion RUSH +4%<br>Demon Minion HARD Stats +1.2%
+|ss3=Demon Minion RUSH +5%<br>Demon Minion HARD Stats +1.5%
+|ss4=Demon Minion RUSH +7%<br>Demon Minion HARD Stats +2.1%
+|ss5=Demon Minion RUSH +9%<br>Demon Minion HARD Stats +2.7%
+|ss7=Demon Minion RUSH +9%<br>Demon Minion HARD Stats +2.7%<br>Demon Minion HARD Stats +2.1% (Awakened)
+|skill1=[[File:Compass skill II.png|50px]]Place in Exploration Compass: ART Checks -10
+|skill2=[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, 2x INTEL Drops +7.5%
+}}

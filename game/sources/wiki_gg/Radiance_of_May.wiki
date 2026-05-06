@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Radiance of May
+|class_id=20641
+|rank=Green
+|affct=ART
+|source=
+|description=The fifth rule of natural circulation: A gentle breeze and lush greenery are the prelude to busy farming in early summer. Let us follow the rhythm of the seasons, diligently cultivate, and look forward to a fruitful autumn!
+|fame=14
+|art=34
+|fth=15
+|civ=13
+|tech=14
+|ss1=Snail Leadership +2<br>Per 10 Lucky Star gained, Snail RUSH +1<br>Lucky Star Gained: 2400/2400
+|ss2=Snail Leadership +4<br>Per 10 Lucky Star gained, Snail RUSH +2<br>Lucky Star Gained: 2400/2400
+|ss3=Snail Leadership +6<br>Per 10 Lucky Star gained, Snail RUSH +3<br>Lucky Star Gained: 2400/2400
+|ss4=Snail Leadership +6<br>Per 10 Lucky Star gained, Snail RUSH +3<br>Lucky Star Gained: 2400/2400
+|ss7=Snail Leadership +6<br>Per 10 Lucky Star gained, Snail RUSH +3<br>Lucky Star Gained: 2400/2400<br> (Awakened)
+}}

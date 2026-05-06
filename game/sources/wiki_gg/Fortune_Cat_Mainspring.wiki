@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Fortune Cat Mainspring
+|class_id=20335
+|rank=Green
+|affct=TECH
+|source=
+|description=Because its owner would break it open once a week, Fortune Cat felt indignant and took refuge with the Demon Gods, who trained it to be a killer. Unfortunately, this cute cat was not good at fighting. Soon after the fight with the snail, it was beaten back to its original form and turned into a Relic!
+|fame=12
+|art=13
+|fth=17
+|civ=18
+|tech=30
+|ss1=In Snail Store, Fortune Cat B-tad cap +20000
+|ss2=In Snail Store, Fortune Cat B-tad cap +40000
+|ss3=In Snail Store, Fortune Cat B-tad cap +60000
+|ss4=In Snail Store, Fortune Cat B-tad cap +60000
+|ss7=In Snail Store, Fortune Cat B-tad cap +60000<br> (Awakened)
+}}

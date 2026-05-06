@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20970_1
+|class_id=20970
+|rank=Green
+|affct=FAME
+|source=
+|description=collection@20970_2
+|fame=30
+|art=15
+|fth=15
+|civ=14
+|tech=16
+|ss1=Snail HP +100<br>Per 3 Orange Relics gained, Snail ATK +1<br>Orange Relics: 60/60
+|ss2=Snail HP +200<br>Per 3 Orange Relics gained, Snail ATK +2<br>Orange Relics: 60/60
+|ss3=Snail HP +300<br>Per 3 Orange Relics gained, Snail ATK +3<br>Orange Relics: 60/60
+|ss4=Snail HP +300<br>Per 3 Orange Relics gained, Snail ATK +3<br>Orange Relics: 60/60
+|ss7=Snail HP +300<br>Per 3 Orange Relics gained, Snail ATK +3<br>Orange Relics: 60/60<br> (Awakened)
+}}

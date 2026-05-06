@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Willpower Cell
+|type=Common
+|rank=red
+|id=10923
+|idx=134
+|description=Fuses consciousness with bio-magnetic fields to enforce personal reality. Side effects include Earth's rejection.
+|skill=
+|hp=2190
+|def=245
+|atk=364
+|rush=242
+|gene1=All Rocket Cabin Max Cap +4%
+|gene2=All Rocket Cabin production +2%
+|gene3=Quantum Amp Max Cap +40%
+|gene4=Quantum Amp production +20%
+|gene5=Quantum Amp gives Nebula Chest Shards by +40%
+|gene6=Quantum Amp production +20%
+|gene7=Quantum Amp production +40% (Awakened)
+|}}

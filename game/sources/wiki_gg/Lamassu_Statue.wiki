@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Lamassu Statue
+|class_id=22273
+|rank=S
+|affct=FAITH
+|birthday=11-18
+|source=Lottery Machine No.2 (1.45%), Wishing (5.4%)
+|description=On Nov 18, 1328 BC, the Lamassu guardian sculpture was placed at the entrance of the castle of Sargon II.<br>This stone statue depicts the guardian Lamassu of ancient Assyria. Lamassu is a monster with a human head, a bull body, and wings. It can fly and has great power. As the guardian of Assyria, he defended the Assyrian temples and palaces along with another monster named Sedu. This stone statue, which is regarded as the incarnation of Lamassu, has the effect of dispelling evil spirits and other ominous things.
+|fame=57
+|art=67
+|fth=97
+|civ=49
+|tech=62
+|ss1=Snail ATK +10<br>Per 1.2k Demon God Tech Pts, Snail ATK +1<br>Per 1.2k Demon God Tech Pts, Snail DEF +1<br>Demon God Tech Pts: 60000/60000
+|ss2=Snail ATK +20<br>Per 1.2k Demon God Tech Pts, Snail ATK +2<br>Per 1.2k Demon God Tech Pts, Snail DEF +2<br>Demon God Tech Pts: 60000/60000
+|ss3=Snail ATK +30<br>Per 1.2k Demon God Tech Pts, Snail ATK +3<br>Per 1.2k Demon God Tech Pts, Snail DEF +3<br>Demon God Tech Pts: 60000/60000
+|ss4=Snail ATK +50<br>Per 1.2k Demon God Tech Pts, Snail ATK +5<br>Per 1.2k Demon God Tech Pts, Snail DEF +5<br>Demon God Tech Pts: 60000/60000
+|ss5=Snail ATK +70<br>Per 1.2k Demon God Tech Pts, Snail ATK +7<br>Per 1.2k Demon God Tech Pts, Snail DEF +7<br>Demon God Tech Pts: 60000/60000
+|ss6=Snail ATK +100<br>Per 1.2k Demon God Tech Pts, Snail ATK +10<br>Per 1.2k Demon God Tech Pts, Snail DEF +10<br>Demon God Tech Pts: 60000/60000
+|ss7=Snail ATK +100<br>Per 1.2k Demon God Tech Pts, Snail ATK +10<br>Per 1.2k Demon God Tech Pts, Snail DEF +10<br>Demon God Tech Pts: 60000/60000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion ATK +9%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, FTH Checks -15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|mirage={{Mirage|name=Lamassu Statues|reward={{RewardIconWithLink|Ancient Fossil, +3|orange}}
+|3name=Sirrush Statue|3rec=12.79M|3atk=92977|3defense=62028|3hp=2535481|3weak=16173
+|4name=Shedu Statue|4rec=32.45M|4atk=134225|4defense=89547|4hp=5066741|4weak=19184
+|Arec=56.83M|Aatk=185652|Adefense=123856|Ahp=9141409|Aweak=23109
+}}}}

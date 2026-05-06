@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=A thousand-faced cube that took ten years to make. After the cube committee disqualified it, the creator made it into a sphere out of anger.
+|affct=TECH
+|hard=DEF
+|source=Divine Chaos Chest (0.2%)
+|color=purple
+|earth=7
+|water=7
+|fire=7
+|wind=5
+|form=Mecha
+|element=Wind
+|realm=Kemet
+|orangehard=RUSH
+}}

@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=This Snail Shell, which provides on-demand clothes-washing, was designed by a famous appliance company and based on their best-selling product. But insiders said that the company was in danger of going bankrupt just a month after developing Snail Shell.
+|affct=FAME
+|hard=RUSH
+|source=Divine Order Chest (0.4%)
+|color=blue
+|earth=7
+|water=2
+|fire=3
+|wind=2
+|form=Zombie
+|element=Fire
+|realm=Hellas
+|orangehard=DEF
+}}

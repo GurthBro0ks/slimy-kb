@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Bronze Bull Head
+|class_id=20446
+|rank=Green
+|affct=FAME
+|source=
+|description=This bronze bull head from the times of Shang and Zhou dynasties was unearthed at a heritage site in Jinsha, Chengdu. Its forehead is marked with a diamond pattern, the horns are covered in spirals, and the hollow neck can be hooked up to the bronze vessel. It is speculated to be a standing decoration on a large bronze vessel during the Shang and Zhou dynasties, and is of great significant value to the study of bronzeworking techniques in ancient Shu.
+|fame=30
+|art=16
+|fth=17
+|civ=14
+|tech=13
+|ss1=Per Organ implanted, Snail ATK +1<br>Organs Implanted: 40/40
+|ss2=Per Organ implanted, Snail ATK +2<br>Organs Implanted: 40/40
+|ss3=Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40
+|ss4=Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40
+|ss7=Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40<br> (Awakened)
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=247
+|relics=Agamemnon Mask,Morse's Telegraph,The Key of Solomon
+|rank=orange
+|amount=3
+|category=self
+|description=Tadpole Pond B-tad Output +16%
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=642
+|relics=Boyle Litmus Paper,Benin Plaque,Niobe's St Rock,Venetian Mask
+|rank=blue
+|amount=4
+|category=self
+|description=Demon Minion HARD Stats +2.1%
+}}

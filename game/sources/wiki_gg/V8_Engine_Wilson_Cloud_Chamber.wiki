@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=424
+|relics=V8 Engine,Wilson Cloud Chamber
+|rank=purple
+|amount=2
+|category=self
+|description=Per 5 Time Machine LVLs, Snail RUSH +18;Time Machine LVL: 90/90
+}}

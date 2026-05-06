@@ -1,0 +1,393 @@
+{{INTEL
+|realm=hellas
+|demonym=Hellenic
+|tree2=Godess' Guide
+|recomended=
+|intel1={{INTELRow
+|no=1
+|name=Olympus Myth
+|req1=350
+|effect1=Obtain the Sanctum Knight<br>Per Hellenic Apostle dominated, Snail ATK +5<br>Hellenic Apostles Dominated: 2/2
+}}{{INTELRow
+|no=2
+|name=Sophist Movement
+|req1=1400
+|effect1=Unlock Special Cards (Hellas)<br>Card Conversion in Hellas gives +15% rewards
+}}{{INTELRow
+|no=3
+|name=Sagittarius Apostle Clue
+|req1=4200
+|condition1=
+|effect1=Unlock area (Sagittarius)<br>In Sagittarius, INTEL gained +20%
+}}{{INTELRow
+|no=4
+|name=Senate System
+|req1=1400
+|effect1=For Hellas Incidents, AFFCT Checks -200<br>Upon traveling through an area, gain +200 INTEL
+}}{{INTELRow
+|no=5
+|name=Textile Technique
+|levels=3
+|req1=5600
+|condition1=
+|effect1=Upgrade 1 White Thread Workshop to  {{Retext|Green|green}}
+|req2=11200
+|effect2=Upgrade 1 {{Retext|Green|green}} Thread Workshop to {{Retext|Blue|blue}}
+|req3=16800
+|effect3=Upgrade 1 {{Retext|Blue|blue}} Thread Workshop to {{Retext|Purple|purple}}
+}}{{INTELRow
+|no=6
+|name=Leather Tech
+|levels=3
+|req1=5600
+|effect1=Upgrade 1 White Leather Workshop to {{Retext|Green|Green}}
+|req2=11200
+|effect2=Upgrade 1 {{Retext|Green|green}} Leather Workshop to {{Retext|Blue|blue}}
+|req3=16800
+|effect3=Upgrade 1 {{Retext|Blue|blue}} Leather Workshop to {{Retext|Purple|purple}}
+}}{{INTELRow
+|no=7
+|name=Capricorn Apostle Clue
+|req1=16800
+|condition1=
+|effect1=Unlock area (Capricorn)<br>In Capricorn, INTEL gained +20%
+}}{{INTELRow
+|no=8
+|name=Jeweler's Craftsmanship
+|levels=3
+|req1=5600
+|effect1=Upgrade 1 White Crystal Workshop to {{Retext|Green|green}}
+|req2=11200
+|effect2=Upgrade 1 {{Retext|Green|green}} Crystal Workshop to {{Retext|Blue|blue}}
+|req3=16800
+|effect3=Upgrade 1 {{Retext|Blue|blue}} Crystal Workshop to {{Retext|Purple|purple}}
+}}{{INTELRow
+|no=9
+|name=Decoration Tech
+|levels=3
+|req1=5600
+|effect1=Upgrade 1 White Feather Workshop to {{Retext|Green|green}}
+|req2=11200
+|effect2=Upgrade 1 {{Retext|Green|green}} Feather Workshop to {{Retext|Blue|blue}}
+|req3=16800
+|effect3=Upgrade 1 {{Retext|Blue|blue}} Feather Workshop to {{Retext|Purple|purple}}
+}}{{INTELRow
+|no=10
+|name=Speculative PHL
+|levels=4
+|req1=14000
+|effect1=Per Hellenic key clue completed, receive Expert Scrolls +4
+|req2=28000
+|effect2=Per Hellenic key clue completed, receive Expert Scrolls +6
+|req3=42000
+|effect3=Per Hellenic key clue completed, receive Expert Scrolls +8
+|req4=56000
+|effect4=Per Hellenic key clue completed, receive Expert Scrolls +10
+}}{{INTELRow
+|no=11
+|name=Byzantine Formation
+|levels=4
+|req1=14000
+|condition1=
+|effect1=In Hellas, DMG +5%
+|req2=28000
+|effect2=In Hellas, DMG +10%
+|req3=42000
+|effect3=In Hellas, DMG +15%
+|req4=56000
+|effect4=In Hellas, DMG +20%
+}}{{INTELRow
+|no=12
+|name=Aquarius Apostle Clue
+|req1=42000
+|condition1=
+|effect1=Unlock area (Aquarius)<br>In Aquarius, INTEL gained +20%
+}}{{INTELRow
+|no=13
+|name=Macedonian Phalanx
+|levels=4
+|req1=14000
+|condition1=
+|effect1=In Hellas, DMG REDUC +5%
+|req2=28000
+|effect2=In Hellas, DMG REDUC +10%
+|req3=42000
+|effect3=In Hellas, DMG REDUC +15%
+|req4=56000
+|effect4=In Hellas, DMG REDUC +20%
+}}{{INTELRow
+|no=14
+|name=Hero's Epic
+|levels=3
+|req1=14000
+|effect1=Per vicotry, Ancient Manuscripts gained +1
+|req2=28000
+|effect2=Per victory, Ancient Manuscripts gained +2
+|req3=42000
+|effect3=Per victory, Ancient Manuscripts gained +3
+}}{{INTELRow
+|no=15
+|name=Platonism
+|levels=3
+|req1=18000
+|effect1=Unlock more items in Hellenic Card Redemption
+|req2=36000
+|effect2=Unlock more items in Hellenic Card Redemption
+|req3=54000
+|effect3=Unlock more items in Hellenic Card Redemption
+}}{{INTELRow
+|no=16
+|name=Byzantine Legacy
+|levels=3
+|req1=18000
+|effect1=Learn to get {{Gearlink|purple|Exploration|Justinian's Robe}}
+|req2=36000
+|effect2=Learn to get {{Gearlink|purple|Exploration|Heraclius' Silver Staff}}
+|req3=54000
+|effect3=Learn to get {{Gearlink|purple|Exploration|Caesar's Laurel}}
+}}{{INTELRow
+|no=17
+|name=Pisces Apostle Clue
+|req1=54000
+|effect1=Unlock area (Pisces)<br>In Pisces, INTEL gained +20%
+}}{{INTELRow
+|no=18
+|name=Alexander's Conquest
+|levels=3
+|req1=18000
+|effect1=Unlock Special Incident (To the East)
+|req2=36000
+|effect2=Unlock Special Incident (Persian Conquest)
+|req3=54000
+|effect3=Unlock Special Incident (Bharata Expedition)
+}}{{INTELRow
+|no=19
+|name=Marathon
+|levels=4
+|req1=18000
+|effect1=In Hellas, Travel SPD +4%<br>Learn to get 4h Travel Speedup
+|req2=36000
+|effect2=In Hellas, Travel SPD +8%<br>Leanr to get 6h Travel Speedup
+|req3=54000
+|effect3=In Hellas, Travel SPD +12%<br>Learn to get 8h Travel Speedup
+|req4=72000
+|effect4=In Hellas, Travel SPD +16%<br>Learn to get 12h Travel Speedup
+}}
+|intel2={{INTELRow
+|no=1
+|name=Aphrodite's Box
+|levels=3
+|req1=350
+|effect1=Unlock Leather Lottery
+|req2=700
+|effect2=Unlock Crystal Lottery
+|req3=1050
+|effect3=Unlock Feather Lottery
+}}{{INTELRow
+|no=2
+|name=Dancing Gala
+|levels=4
+|req1=1400
+|effect1=Unlock Taura Arena (Posh)
+|req2=2800
+|effect2=Unlock Cancer Arena (Moody)
+|req3=4200
+|effect3=Unlock Virgo Arena (Cute)
+|req4=5600
+|effect4=Unlock Scorpio Arena (Wicked)
+}}{{INTELRow
+|no=3
+|name=Mental Bond
+|req1=4200
+|effect1=Tap on the goddess for Favor and rewards
+}}{{INTELRow
+|no=4
+|name=Makeup Technique
+|levels=4
+|req1=1400
+|effect1=Per purple costume owned, receive 2 Toners<br>32/32 purple costumes acquired
+|req2=2800
+|effect2=Per purple costume owned, receive 4 Toners<br>32/32 purple costumes acquired
+|req3=4200
+|effect3=Per purple costume owned, receive 6 Toners<br>32/32 purple costumes acquired
+|req4=5600
+|effect4=Per purple costume owned, receive 10 Toners<br>32/32 purple costumes acquired
+}}{{INTELRow
+|no=5
+|name=Moody Vibe
+|levels=4
+|req1=5600
+|effect1=For all costumes, Moody +10%
+|req2=11200
+|effect2=For all costumes, Moody +20%
+|req3=16800
+|effect3=For all costumes, Moody +30%
+|req4=22400
+|effect4=For all costumes, Moody +40%
+}}{{INTELRow
+|no=6
+|name=Cute Power
+|levels=4
+|req1=5600
+|effect1=For all costumes, Cute +10%
+|req2=11200
+|effect2=For all costumes, Cute +20%
+|req3=16800
+|effect3=For all costumes, Cute +30%
+|req4=22400
+|effect4=For all costumes, Cute +40%
+}}{{INTELRow
+|no=7
+|name=Beauty Bloom
+|levels=4
+|req1=5600
+|effect1=Every Costume Stat +5%
+|req2=11200
+|effect2=Every Costume Stat +10%
+|req3=16800
+|effect3=Every Costume Stat +15%
+|req4=22400
+|effect4=Every Costume Stat +20%
+}}{{INTELRow
+|no=8
+|name=Posh Lady
+|levels=4
+|req1=5600
+|effect1=For all costumes, Posh +10%
+|req2=11200
+|effect2=For all costumes, Posh +20%
+|req3=16800
+|effect3=For all costumes, Posh +30%
+|req4=22400
+|effect4=For all costumes, Posh +40%
+}}{{INTELRow
+|no=9
+|name=Wicked Girl
+|levels=4
+|req1=5600
+|effect1=For all costumes, Wicked +10%
+|req2=11200
+|effect2=For all costumes, Wicked +20%
+|req3=16800
+|effect3=For all costumes, Wicked +30%
+|req4=22400
+|effect4=For all costumes, Wicked +40%
+}}{{INTELRow
+|no=10
+|name=Collect Thread
+|levels=4
+|req1=14000
+|effect1=Threads from Thread Workshop +10%<br>Learn to get 100 Thread
+|req2=28000
+|effect2=Threads from Thread Workshop +20%<br>Learn to get 200 Thread
+|req3=42000
+|effect3=Threads from Thread Workshop +30%<br>Learn to get 300 Thread
+|req4=56000
+|effect4=Threads from Thread Workshop +40%<br>Learn to get 400 Thread
+}}{{INTELRow
+|no=11
+|name=Leather Collection
+|levels=4
+|req1=14000
+|effect1=Leather from Leather Workshop +10%<br>Learn to get 100 Leather
+|req2=28000
+|effect2=Leather from Leather Workshop +20%<br>Learn to get 200 Leather
+|req3=42000
+|effect3=Leather from Leather Workshop +30%<br>Learn to get 300 Leather
+|req4=56000
+|effect4=Leather from Leather Workshop +40%<br>Learn to get 400 Leather
+}}{{INTELRow
+|no=12
+|name=Oath of Heart
+|levels=4
+|req1=14000
+|effect1=Per tap on Athena, Favor +1
+|req2=28000
+|effect2=Per tap on Athena, Favor +2
+|req3=42000
+|effect3=Per tap on Athena, Favor +3
+|req4=56000
+|effect4=Per tap on Athena, Favor +4<br>Unlock Favor Cap to Oath
+}}{{INTELRow
+|no=13
+|name=Crystal Collection
+|levels=4
+|req1=14000
+|effect1=Crystals from Crystal Workshop +10%<br>Learn to get 100 Crystals
+|req2=28000
+|effect2=Crystals fro Crystal Workshop +20%<br>Learn to get 200 Crystals
+|req3=42000
+|effect3=Crystals from Crystal Workshop +30%<br>Learn to get 300 Crystal
+|req4=56000
+|effect4=Crystals from Crystal Workshop +40%<br>Learn to get 400 Crystal
+}}{{INTELRow
+|no=14
+|name=Feather Collection
+|levels=4
+|req1=14000
+|effect1=Feathers from Feather Workshop +10%<br>Learn to get 100 Feather
+|req2=28000
+|effect2=Feathers from Feather Workshop +20%<br>Learn to get 200 Feather
+|req3=42000
+|effect3=Feathers from Feather Workshop +30%<br>Learn to get 300 Feather
+|req4=56000
+|effect4=Feathers from Feather Workshop +40%<br>Learn to get 400 Feather
+}}{{INTELRow
+|no=15
+|name=Olympus Market
+|levels=4
+|req1=18000
+|effect1=Unlock Costume Coin Shop<br>In Costume Lottery, Costume Coins earned +5%
+|req2=36000
+|effect2=In Costume Lottery, Costume Coins earned +10%
+|req3=54000
+|effect3=In Costume Lottery, Costume Coins earned +15%
+|req4=72000
+|effect4=In Costume Lottery, Costume Coins earned +20%
+}}{{INTELRow
+|no=16
+|name=Light of Victory
+|levels=4
+|req1=18000
+|effect1=Per Arena Conquered, receive 2 Grandmaster Scrolls<br>5/5 Arena Conquered
+|req2=36000
+|effect2=Per Arena Conquered, receive 4 Grandmaster Scrolls<br>5/5 Arena Conquered
+|req3=54000
+|effect3=Per Arena Conquered, receive 6 Grandmaster Scrolls<br>5/5 Arena Conquered
+|req4=72000
+|effect4=Per Arena Conquered, receive 10 Grandmaster Scrolls<br>5/5 Arena Conquered
+}}{{INTELRow
+|no=17
+|name=Shining
+|levels=3
+|req1=18000
+|effect1=Costume Purple Beads turn to Orange by +1%
+|req2=36000
+|effect2=Costume Blue Beads turn to Orange by +1%
+|req3=54000
+|effect3=Costume Green Beads turn to Orange by +1%
+}}{{INTELRow
+|no=18
+|name=Top Makeup Technique
+|levels=4
+|req1=18000
+|effect1=Per orange costume owned, receive 2 Toners<br>64/64 orange costume acquired
+|req2=36000
+|effect2=Per orange costume owned, receive 4 Toners<br>64/64 orange costume acquired
+|req3=54000
+|effect3=Per orange costume owned, receive 6 Toners<br>64/64 orange costume acquired
+|req4=72000
+|effect4=Per orange costume owned, receive 10 Toners<br>64/64 orange costume acquired
+}}{{INTELRow
+|no=19
+|name=Dressing Skill
+|levels=4
+|req1=18000
+|effect1=Goddess Outfit Set effects +5%
+|req2=36000
+|effect2=Goddess Outift Set effects +10%
+|req3=54000
+|effect3=Goddess Outift Set effects +15%
+|req4=72000
+|effect4=Goddess Outift Set effects +20%
+}}}}

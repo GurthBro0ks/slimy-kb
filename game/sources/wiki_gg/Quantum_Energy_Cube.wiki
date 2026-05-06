@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Quantum Energy Cube
+|type=Common
+|rank=red
+|id=10929
+|idx=135
+|description=A crystal so improbable that observing it alters researcher tenure tracks. Implant at your own risk - results range from ascension to becoming a walking Copenhagen interpretation.
+|skill=
+|hp=2760
+|def=262
+|atk=272
+|rush=260
+|gene1=All Sanctum Glorium Output +10%
+|gene2=Earth DMG +120
+|gene3=All Sanctum Glorium Output +10%
+|gene4=Tribal Amber output +10%
+|gene5=Fire DMG +120
+|gene6=Tribal Amber output +10%
+|gene7=Earth DMG +6% (Awakened)
+|}}

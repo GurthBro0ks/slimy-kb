@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Species Plantarum,SAGE
+|rank=orange
+|amount=2
+|category=self
+|description=Per 1.2k Rebel Tech Pts, Snail DEF +7<br>Rebel Tech Pts: 60,000/60,000
+}}
+[[Category:Self]]

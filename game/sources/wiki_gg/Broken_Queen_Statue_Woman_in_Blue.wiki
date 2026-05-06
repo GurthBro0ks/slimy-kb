@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=316
+|relics=Broken Queen Statue,Woman in Blue
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Zombie Minions in battle: Troop HP +50
+}}

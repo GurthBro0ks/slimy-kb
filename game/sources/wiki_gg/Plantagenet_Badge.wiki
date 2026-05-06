@@ -1,0 +1,47 @@
+{{CargoRelic
+|name=Plantagenet Badge
+|rank=AAA
+|affct=FAME
+|birthday=04-25
+|source=* Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)
+* [[Indigent Nobleman]] (210k {{RewardIconWithText|B-Tad}})
+|description=On Apr 25, AD 1154, England's House of Anjou designed its own emblem.
+
+When the House of Anjou was established, the King used this badge as their emblem. The name of the dynasty is taken from the nickname of Henry II's father, Count Geoffrey V. It is said that Geoffrey had Plantagenets on his hat. It is customary for royals to make family emblems and the House of Anjou used small branches of Plantagenets to design the family emblem. Hence, it is also commonly known as the House of Plantagenet.
+
+[Info of Plantagenets]
+
+Family: Legume Family. 
+
+Sub-family: Papilionoideae.
+
+Clade: Trifolieae.
+
+Genus: Parochetus.
+
+Use: Nourishes the spleen and stomach, stop bleeding in wounds.
+|fame=71
+|art=43
+|fth=44
+|civ=47
+|tech=38
+|ss1=Lumber Camp upgrade Stone Cost -3%<br>Lumber Camp upgrade B-tad Cost -3%
+|ss2=Lumber Camp upgrade Stone Cost -4%<br>Lumber Camp upgrade B-tad Cost -4%
+|ss3=Lumber Camp upgrade Stone Cost -5%<br>Lumber Camp upgrade B-tad Cost -5%
+|ss4=Lumber Camp upgrade Stone Cost -7%<br>Lumber Camp upgrade B-tad Cost -7%
+|ss5=Lumber Camp upgrade Stone Cost -9%<br>Lumber Camp upgrade B-tad Cost -9%
+|ss7=Lumber Camp upgrade Stone Cost -9%<br>Lumber Camp upgrade B-tad Cost -9%<br>Lumber Camp upgrade Stone Cost -7% (Awakened)
+|skill1=[[File:Britann skill II.png|50px]] Place in Britland Museum: In Britland, 2x Food Drops +7.5%
+|skill2=[[File:Britann skill II.png|50px]] Place in Britland Museum: In Britland, Snail HP +300
+}}
+
+[[Category:Lumber Camp Upgrade Cost Reduction]]
+[[Category:Britland Exploration Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Exploration Food Drop Boost]]
+[[Category:HP Boost]]
+[[Category:Demon Gene Cost Reduction]]
+[[Category:Relic Boost]]
+[[Category:ATK Boost]]
+[[Category:Indigent Nobleman Relics]]
+[[Category:Enhanced by Purple Relics]]

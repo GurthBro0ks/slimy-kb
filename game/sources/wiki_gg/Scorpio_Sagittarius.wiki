@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=288
+|relics=Scorpio,Sagittarius
+|rank=orange
+|amount=2
+|category=self
+|description=All ELMT DMG +5%
+}}

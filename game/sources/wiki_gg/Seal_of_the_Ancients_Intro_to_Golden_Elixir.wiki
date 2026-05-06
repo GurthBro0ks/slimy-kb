@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=619
+|relics=Seal of the Ancients,Intro to Golden Elixir
+|rank=blue
+|amount=2
+|category=self
+|description=Species War Cabin, deployable robots +5
+}}

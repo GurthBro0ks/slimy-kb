@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Wandering Sword Heart
+|type=Common
+|rank=purple
+|id=10954
+|idx=147
+|description=Heart of a master swordsman, steeped in pure blade intent. So sharp it seems to emit sword aura just by looking at it. Radiates overwhelming presence!
+|skill=
+|hp=1344
+|def=128
+|atk=224
+|rush=145
+|gene1=Per Purple+ Gear equipped, {race} ATK +8
+|gene2=Free Gene Speedup (Angel) +30m
+|gene3=Per Purple+ Gear equipped, {race} RUSH +8
+|gene4=Snail Arena, Chance of cause Bleed +4%
+|gene7=Free Gene Speedup (Angel) +1h 30m (Awakened)
+|}}

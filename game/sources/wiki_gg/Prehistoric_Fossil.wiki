@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Prehistoric Fossil
+|rank=AAA
+|affct=CIV
+|birthday=03-22
+|source=* Fragment Crafting (1.5%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Time Chest (1.5%), Wishing (0.14%)
+* [[Indigent Nobleman]] (210k {{RewardIconWithText|B-Tad}})
+* [[Mosasaur]] - [[Rare Rent]]
+|description=On Mar 22, 1990, paleontologist Susan Hendrickson discovered a fossil of T-rex in South Dakota.
+
+Archaeologists named this fossil Sue. It is the best preserved T-rex fossil ever found. At the end of the 20th century, the Chicago's Field Museum bought it for 8.4 million dollars at Sotheby's. In the following 20 years, Sue has been the world's most expensive fossil.
+|fame=44
+|art=42
+|fth=45
+|civ=75
+|tech=37
+|ss1=Snail ATK +30<br>In explorations, Cells collected +1.8%
+|ss2=Snail ATK +40<br>In explorations, Cells collected +2.4%
+|ss3=Snail ATK +50<br>In explorations, Cells collected +3%
+|ss4=Snail ATK +70<br>In explorations, Cells collected +4.2%
+|ss5=Snail ATK +90<br>In explorations, Cells collected +5.4%
+|ss7=Snail ATK +90<br>In explorations, Cells collected +5.4%<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Koryeo skill II.png|51x51px]] Place in Koryeon Museum: In Koryeo, DMG +15%
+|skill2=[[File:Koryeo skill II.png|51x51px]] Place in Koryeon Museum: In Koryeo, 2x Green Card Drops +7.5%
+}}
+
+[[Category:ATK Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Koryeo Museum Boost]]
+[[Category:Koryeo Exploration Boost]]
+[[Category:DMG Boosts]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Minion HP Boost]]
+[[Category:Dragon Gene Speedup Boost]]
+[[Category:Ironball Thrower Boost]]
+[[Category:Undead Turtle Boost]]
+[[Category:Indigent Nobleman Relics]]

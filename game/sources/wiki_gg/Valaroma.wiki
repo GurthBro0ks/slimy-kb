@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Valaroma
+|class_id=22166
+|rank=AAA
+|affct=FAITH
+|birthday=05-30
+|source=
+|description=On May 5, 424 AD, Olorme blew the Valaroma to gather his forces and attack Morgon.<br>The Valaroma horn belongs to Olorme. It can create sounds that resemble a passionate sunrise and brilliant lightning. Every time Olorme blows it, its beautiful sounds drive away all evil. When the fairies hear the horn, they know that Olorme has arrived in Middle Earth to hunt Morgon's minions.
+|fame=39
+|art=47
+|fth=74
+|civ=30
+|tech=53
+|ss1=Angel Minion ATK +3%<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +6
+|ss2=Angel Minion ATK +4%<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +8
+|ss3=Angel Minion ATK +5%<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +10
+|ss4=Angel Minion ATK +7%<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +14
+|ss5=Angel Minion ATK +9%<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +18
+|ss7=Angel Minion ATK +9%<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +18<br>Per 30 Angel Minions in battle:<br>> Troop HARD Stats +14 (Awakened)
+|skill1=[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, Snail ATK +300
+|skill2=[[File:Britland skill II.png|50px]]Place in Britland Museum: This Relic's FTH +10
+}}

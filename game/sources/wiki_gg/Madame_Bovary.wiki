@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Madame Bovary
+|class_id=21335
+|rank=SSS
+|affct=CIV
+|source=
+|description=Flaubert’s realist masterpiece tells of Emma, a farmer’s wife consumed by romantic fantasy. Trapped in debt and infidelity, she spirals into ruin. With surgical prose, Flaubert exposed the spiritual void of 19th-century provincial France. The novel, once tried for immorality, became a landmark of psychological realism.
+|fame=72
+|art=71
+|fth=57
+|civ=106
+|tech=56
+|ss1=Angel Minion RUSH +3%<br>Per 60 T8+ Minions deployed, Troop HP +360<br>Per Angel Form Tier, Snail RUSH +15<br>Angel Form Tiers: 9/9
+|ss2=Angel Minion RUSH +4%<br>Per 60 T8+ Minions deployed, Troop HP +480<br>Per Angel Form Tier, Snail RUSH +20<br>Angel Form Tiers: 9/9
+|ss3=Angel Minion RUSH +5%<br>Per 60 T8+ Minions deployed, Troop HP +600<br>Per Angel Form Tier, Snail RUSH +25<br>Angel Form Tiers: 9/9
+|ss4=Angel Minion RUSH +7%<br>Per 60 T8+ Minions deployed, Troop HP +840<br>Per Angel Form Tier, Snail RUSH +35<br>Angel Form Tiers: 9/9
+|ss5=Angel Minion RUSH +9%<br>Per 60 T8+ Minions deployed, Troop HP +1080<br>Per Angel Form Tier, Snail RUSH +45<br>Angel Form Tiers: 9/9
+|ss6=Angel Minion RUSH +12%<br>Per 60 T8+ Minions deployed, Troop HP +1440<br>Per Angel Form Tier, Snail RUSH +60<br>Angel Form Tiers: 9/9
+|ss7=Angel Minion RUSH +12%<br>Per 60 T8+ Minions deployed, Troop HP +1440<br>Per Angel Form Tier, Snail RUSH +60<br>Angel Form Tiers: 9/9<br>Per 60 T8+ Minions deployed, Troop HP +1200 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +3%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15
+}}

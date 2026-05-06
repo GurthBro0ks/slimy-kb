@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Charlotte's Web
+|class_id=22072
+|rank=Blue
+|affct=CIV
+|birthday=04-24
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Apr 24, 1952 AD, E. B. White published this heartwarming novel, Charlotte's Web.<br>Charlotte's Web is a fairy tale about friendship by an American author named E. B. White. The story tells the sincere friendship formed between a spider and a pig. Charlotte, the spider, makes Wilbur the pig win the grand prize in the small town competition by weaving words on the web so that he can enjoy his old age in the future. This, changed Wilbur's fate, whereas Charlotte's own life came to an end at this time. White uses humorous and condensed language to portray the profound friendship between Charlotte and Wilbur, which resonates greatly in readers' hearts and gives people infinite warmth and emotion.
+|fame=32
+|art=33
+|fth=27
+|civ=44
+|tech=18
+|ss1=Angel Minion DEF +1%
+|ss2=Angel Minion DEF +2%
+|ss3=Angel Minion DEF +3%
+|ss4=Angel Minion DEF +5%
+|ss7=Angel Minion DEF +5%<br>Angel Minion DEF +5% (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]]Place in Gene Sim Device: Snail HP +200
+}}

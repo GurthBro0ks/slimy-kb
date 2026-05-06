@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Rainbow Islet
+|type=Common
+|rank=red
+|id=10947
+|idx=141
+|description=Cotton candy-like cell cluster made of pink beta cells and blue alpha cells. Surface has candy coating sheen. Glows rainbow aura when blood sugar is stable.
+|skill=
+|hp=2930
+|def=284
+|atk=244
+|rush=249
+|gene1=Per Altar God Descent, {race} RUSH +7
+Gods Descended: 30/30
+|gene2=Fire DMG +2%
+|gene3=Wind DMG +2%
+|gene4={race} Leadership +5
+|gene5=Water DMG +2%
+|gene6=Earth DMG +2%
+|gene7={race} Leadership +10 (Awakened)
+|}}

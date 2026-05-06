@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Tomb Raider’s Talisman
+|class_id=21857
+|rank=AAA
+|affct=CIV
+|source=
+|description=Cao Cao’s geomantic theft. Nine dragon-vein amulets forged through 800 days of subterranean theft.
+|fame=54
+|art=43
+|fth=40
+|civ=71
+|tech=35
+|ss1=Per 30 Fissure Floors, Snail ATK +3<br>Per 30 Fissure Floors, Snail RUSH +3<br>Fissure Floor: 1200/1200
+|ss2=Per 30 Fissure Floors, Snail ATK +4<br>Per 30 Fissure Floors, Snail RUSH +4<br>Fissure Floor: 1200/1200
+|ss3=Per 30 Fissure Floors, Snail ATK +5<br>Per 30 Fissure Floors, Snail RUSH +5<br>Fissure Floor: 1200/1200
+|ss4=Per 30 Fissure Floors, Snail ATK +7<br>Per 30 Fissure Floors, Snail RUSH +7<br>Fissure Floor: 1200/1200
+|ss5=Per 30 Fissure Floors, Snail ATK +9<br>Per 30 Fissure Floors, Snail RUSH +9<br>Fissure Floor: 1200/1200
+|ss7=Per 30 Fissure Floors, Snail ATK +9<br>Per 30 Fissure Floors, Snail RUSH +9<br>Fissure Floor: 1200/1200<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, All Minion ATK +3%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's CIV +10
+}}

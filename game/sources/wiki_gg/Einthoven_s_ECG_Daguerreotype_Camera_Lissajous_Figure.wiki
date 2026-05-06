@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=349
+|relics=Einthoven's ECG,Daguerreotype Camera,Lissajous Figure
+|rank=blue
+|amount=3
+|category=self
+|description=Per 3 Minion Skins crafted, Snail RUSH +12;Minion Skins crafted: 60/60
+}}

@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Triumph of Bacchus,Caspian Sea Monster,Laocoön,Wounded Lioness,Meidum Geese,The Persistent Memory
+|rank=orange
+|amount=6
+|category=minion
+|description=All minion skins ATK +120%
+}}
+[[Category:Minion]]
+[[Category:Minion ATK Boost]]
+[[Category:Minion Skin Boost]]

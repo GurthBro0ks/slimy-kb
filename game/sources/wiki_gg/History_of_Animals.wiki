@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=History of Animals
+|class_id=21339
+|rank=SSS
+|affct=CIV
+|source=
+|description=The History of Animals is a biological work by ancient Greek philosopher Aristotle, recording his observations and research on animal classification, anatomy, morphology, habits, and reproduction. This work is not only a foundational work of ancient biology but also provides important references for the study of animal classification and behavior. It was widely disseminated during the Middle Ages and had a profound impact on the natural sciences during the Renaissance, regarded as an important legacy of ancient science, and continues to inspire biological research today.
+|fame=68
+|art=49
+|fth=64
+|civ=108
+|tech=73
+|ss1=Snail Leadership +3<br>All minion skins HP +30%<br>Per 5 orange entries completed, orange Super Species Seq. +1<br>Orange Species Map Entries: 10/10
+|ss2=Snail Leadership +4<br>All minion skins HP +40%<br>Per 5 orange entries completed, orange Super Species Seq. +1<br>Orange Species Map Entries: 20/20
+|ss3=Snail Leadership +5<br>All minion skins HP +50%<br>Per 5 orange entries completed, orange Super Species Seq. +1<br>Orange Species Map Entries: 30/30
+|ss4=Snail Leadership +7<br>All minion skins HP +70%<br>Per 5 orange entries completed, orange Super Species Seq. +1<br>Orange Species Map Entries: 50/50
+|ss5=Snail Leadership +9<br>All minion skins HP +90%<br>Per 5 orange entries completed, orange Super Species Seq. +1<br>Orange Species Map Entries: 70/70
+|ss6=Snail Leadership +12<br>All minion skins HP +120%<br>Per 5 orange entries completed, orange Super Species Seq. +1<br>Orange Species Map Entries: 100/100
+|ss7=Snail Leadership +12<br>All minion skins HP +120%<br>Per 5 orange entries completed, orange Super Species Seq. +1<br>Orange Species Map Entries: 100/100<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Mantis skill III.png|50px]]Place in a Mantis Biozilla: In Species War, Troop DMG toward heroes +6%
+|skill2=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion ATK +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+|mirage={{Mirage|name=Test Animal|reward={{RewardIconWithLink|Golden Pickaxe, +5|orange}}
+|3name=Test Sheep|3rec=2.74M|3atk=39838|3defense=26465|3hp=464954|3weak=10050
+|4name=Test Cow|4rec=5.19M|4atk=57287|4defense=38056|4hp=886227|4weak=12557
+|5name=Test Fish|5rec=9.40M|5atk=79197|5defense=52611|5hp=1564053|5weak=15674
+|6name=Test Tiger|6rec=16.21M|6atk=105879|6defense=70336|6hp=2559737|6weak=18735
+|Arec=33.69M|Aatk=137429|Adefense=91294|Ahp=4054150|Aweak=22909
+}}}}

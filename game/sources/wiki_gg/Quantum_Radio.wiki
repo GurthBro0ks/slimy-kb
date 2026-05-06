@@ -1,0 +1,45 @@
+{{Missing Info|specifics=<br>Mirage: Name, Reward, 3s, 4s, 5s, 6s, Awakened}}
+{{CargoRelic
+|name=Quantum Radio
+|rank=SSS
+|affct=TECH
+|birthday=12-02
+|source=Super Species Chest (0.03%)
+|description=On Dec 2, 1993 AD, scientists first proposed the concept of quantum network.
+
+Quantum Radio has made teleportation a reality. It transmit the quantum state of an atom to another place and prepares another atom there while the original stays put. Its data is divided into classical data and quantum information, which are respectively transmitted through classical and quantum channels. After the receiver has obtained the data, a complete replica of the original can be prepared.
+
+[Basic Info]
+
+Features: High Efficiency & Absolute Security.
+
+Type: New Communication.
+
+Method Basic Components: Quantum State Generator, Quantum Channel.
+|fame=64
+|art=72
+|fth=56
+|civ=61
+|tech=109
+|ss1=In Species War, Troop Casualty -1.2%<br>Per 60 Mecha Minions in battle, Troop ATK +9<br>Per 60 Mecha Minions in battle, Troop HARD Stats +3
+|ss2=In Species War, Troop Casualty -1.6%<br>Per 60 Mecha Minions in battle, Troop ATK +18<br>Per 60 Mecha Minions in battle, Troop HARD Stats +6
+|ss3=In Species War, Troop Casualty -2%<br>Per 60 Mecha Minions in battle, Troop ATK +27<br>Per 60 Mecha Minions in battle, Troop HARD Stats +9
+|ss4=In Species War, Troop Casualty -2.8%<br>Per 60 Mecha Minions in battle, Troop ATK +45<br>Per 60 Mecha Minions in battle, Troop HARD Stats +15
+|ss5=In Species War, Troop Casualty -3.6%<br>Per 60 Mecha Minions in battle, Troop ATK +63<br>Per 60 Mecha Minions in battle, Troop HARD Stats +21
+|ss6=In Species War, Troop Casualty -4.8%<br>Per 60 Mecha Minions in battle, Troop ATK +90<br>Per 60 Mecha Minions in battle, Troop HARD Stats +30
+|ss7=In Species War, Troop Casualty -4.8%<br>Per 60 Mecha Minions in battle, Troop ATK +90<br>Per 60 Mecha Minions in battle, Troop HARD Stats +30<br>In Species War, Troop Casualty -1.5% (Awakened)
+|skill1=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Time Machine Max Cap +30%
+|skill2=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Travel Speedup Output +30%
+|skill3=[[File:Timemachine skill III.png|50px]]Place in Time Machine: This Relic's TECH +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Troop Casualty Reduction]]
+[[Category:Mecha Minion ATK Boost]]
+[[Category:Mecha Minion HARD Boost]]
+[[Category:Time Machine Skill]]
+[[Category:Time Machine Output Boost]]
+[[Category:TECH Boost]]
+[[Category:Minion DEF Boost]]
+[[Category:Gear Boost]]
+[[Category:ATK Boost]]

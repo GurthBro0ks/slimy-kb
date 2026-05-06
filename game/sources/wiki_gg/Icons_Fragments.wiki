@@ -1,0 +1,39 @@
+= Costume Fragments =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Green Costume Fragment|green}}
+{{IconExampleRowWithText|Blue Costume Fragment|blue}}
+{{IconExampleRowWithText|Purple Costume Fragment|purple}}
+{{IconExampleRowWithText|Orange Costume Fragment|orange}}
+|}
+
+= Minion Skin Fragments =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Blue Minion Skin Fragment|blue}}
+{{IconExampleRowWithText|Orange Minion Skin Fragment|orange}}
+|}
+
+= Random Fragments =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Green Fragment|green}}
+{{IconExampleRowWithText|Blue Fragment|blue}}
+{{IconExampleRowWithText|Purple Fragment|purple}}
+{{IconExampleRowWithText|Orange Fragment|orange}}
+|}
+
+= [[Relic]] Fragments =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Green Relic Fragment|green}}
+{{IconExampleRowWithText|Blue Relic Fragment|blue}}
+{{IconExampleRowWithText|Purple Relic Fragment|purple}}
+{{IconExampleRowWithText|Orange Relic Fragment|orange}}
+|}
+
+= [[Relic]] Fragments (Big) =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Green Relic Fragment Big|green}}
+{{IconExampleRowWithText|Blue Relic Fragment Big|blue}}
+{{IconExampleRowWithText|Purple Relic Fragment Big|purple}}
+{{IconExampleRowWithText|Orange Relic Fragment Big|orange}}
+|}
+
+[[Category:Icons]]

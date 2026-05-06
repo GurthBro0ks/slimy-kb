@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Gang Cadre
+|class_id=20077
+|rank=Green
+|affct=CIV
+|source=
+|description=This is a short wooden stick with a long history. There are many traces of insect bites on it. For some people, this stick is a symbol of status and power! In the days when info couldn't travel so fast, such objects were often used as tokens to prove the identity of the possessor!
+|fame=15
+|art=17
+|fth=10
+|civ=29
+|tech=19
+|ss1=Snail ATK +20
+|ss2=Snail ATK +40
+|ss3=Snail ATK +60
+|ss4=Snail ATK +60
+|ss7=Snail ATK +60<br> (Awakened)
+}}

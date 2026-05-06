@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Peacock Throne
+|class_id=21122
+|rank=AAA
+|affct=ART
+|source=
+|description=The Peacock Throne is the seat of the emperors of the Mughal Empire. It features two peacock-shaped decorations at the back of the throne inlaid with various precious gems. As a symbol of power, it witnessed the rise and fall of the Mughal Empire.
+|fame=43
+|art=75
+|fth=36
+|civ=44
+|tech=45
+|ss1=Snail DEF +100<br>Home Facility Resource Outputs +5%<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +10%
+|ss2=Snail DEF +100<br>Home Facility Resource Outputs +5%<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +10%
+|ss3=Snail DEF +100<br>Home Facility Resource Outputs +5%<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +10%
+|ss4=Snail DEF +100<br>Home Facility Resource Outputs +5%<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +10%
+|ss5=Snail DEF +100<br>Home Facility Resource Outputs +5%<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +10%
+|ss7=Snail DEF +100<br>Home Facility Resource Outputs +5%<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +10%<br>Home Facility Resource Outputs +5% (Awakened)
+|skill1=[[File:Tadpolepond skill II.png|50px]]Place in Tadpole Pond: This Relic's ART +10
+|skill2=[[File:Tadpolepond skill II.png|50px]]Place in Tadpole Pond: B-tad Output +15%
+}}

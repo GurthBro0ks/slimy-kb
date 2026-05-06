@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Calydonian Boar Skin
+|class_id=22556
+|rank=AAA
+|affct=FAITH
+|birthday=03-08
+|source=Lottery Machine No.3 (0.06%)
+|description=On Mar 8, 569 BC, Meleager delivered the fatal blow to the Calydonian boar with his own spear and gave its skin to Atalanta.<br>To punish the king who forgot to prepare his own sacrifice, the goddess Artemis summoned the Calydonian boar, which brought many disasters to the land. Therefore, Meleager led a group of heroes to hunt and kill the wild boar. During this process, Atalanta, who was a woman, was the first to injure the boar, winning the admiration of Meleager and receiving the boar's skin that he had given her as a gift. However, this incident aroused the jealousy of others and ultimately led to Meleager's death, causing Atalanta to seal away the boar's skin...
+|fame=36
+|art=51
+|fth=71
+|civ=38
+|tech=47
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop HP +120<br>Per 2 fully unlocked Tactical Logs, Snail HP +30<br>Tactical Logs unlocked: 100/100
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop HP +160<br>Per 2 fully unlocked Tactical Logs, Snail HP +40<br>Tactical Logs unlocked: 100/100
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop HP +200<br>Per 2 fully unlocked Tactical Logs, Snail HP +50<br>Tactical Logs unlocked: 100/100
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop HP +280<br>Per 2 fully unlocked Tactical Logs, Snail HP +70<br>Tactical Logs unlocked: 100/100
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop HP +360<br>Per 2 fully unlocked Tactical Logs, Snail HP +90<br>Tactical Logs unlocked: 100/100
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop HP +360<br>Per 2 fully unlocked Tactical Logs, Snail HP +90<br>Tactical Logs unlocked: 100/100<br>Per 30 T7+ Minions in battle:<br>> Troop HP +280 (Awakened)
+|skill1=[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion RUSH +4.5%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FTH +10
+}}

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Blood of Dracula,Prehistoric Fossil,Ark Reactor,Crystal Skull
+|rank=purple
+|amount=4
+|category=dna
+|description=Dragon Gene Research SPD +4.8%
+}}
+[[Category:DNA]]

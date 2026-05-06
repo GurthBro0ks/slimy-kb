@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=500
+|relics=Hlidskjalf,Emerald Tablet
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Demon Minions in battle: Troop HARD Stats +21
+}}

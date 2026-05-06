@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Wooden Ox
+|class_id=20035
+|rank=Green
+|affct=TECH
+|source= Upgrade Madam Huang Wanzhen to T9 in [[Cathay Generals]].
+|description=This means of transport was invented by Advisor Zhuge. In the eyes of modern science, it's a human-powered wooden vehicle suitable for mountain terrain with swinging cargo boxes for granular. It's shaped like an ox so that people will have the illusion of being pulled, thus saving a lot of effort!
+|fame=17
+|art=11
+|fth=19
+|civ=16
+|tech=27
+|ss1=Meal Box Cap +100
+|ss2=Meal Box Cap +200
+|ss3=Meal Box Cap +300
+|ss4=Meal Box Cap +300
+|ss7=Meal Box Cap +300<br> (Awakened)
+}}

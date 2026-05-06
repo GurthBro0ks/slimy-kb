@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Royal Doll
+|rank=Blue
+|affct=CIV
+|birthday=08-27
+|source=Lottery Machine (0.03%), Wishing (0.82%)
+|description=On Aug 27, 1899, inspired by Sissi, the very first royal doll was created.
+
+Sissi was known for her beauty and was the concubine of Osman. The king held this doll to remember Sissi who had just passed away. It has long golden hair, a high forehead, curved eyebrows, and fair skin. Inside this dress was the most popular corset in the 19th century, which is elegant and beautiful.
+|fame=28
+|art=28
+|fth=25
+|civ=45
+|tech=28
+|ss1=Per 10 Angel Minions in battle, Troop HARD Stats +1
+|ss2=Per 10 Angel Minions in battle, Troop HARD Stats +2
+|ss3=Per 10 Angel Minions in battle, Troop HARD Stats +3
+|ss4=Per 10 Angel Minions in battle, Troop HARD Stats +5
+|ss7=Per 10 Angel Minions in battle, Troop HARD Stats +5<br>Per 10 Angel Minions in battle, Troop HARD Stats +3 (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]] Place in Gene Sim Device: This Relic's CIV +5
+}}
+
+[[Category:Angel Minion HARD Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:CIV Boost]]
+[[Category:Offering Reward Boost]]
+[[Category:Gene Research Speedup Boost]]
+[[Category:Imp Boost]]

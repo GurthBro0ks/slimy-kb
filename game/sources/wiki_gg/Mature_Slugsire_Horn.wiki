@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Mature Slugsire Horn
+|type=Bionic
+|rank=orange
+|id=10687
+|idx=45
+|description=These seemingly soft, slick antennae are in fact lined with sharp barbs. A ghostly blue glow flickers across their surface, radiating an entrancing aura — like nature’s symphony luring prey into a beautiful death trap…
+|skill=Transform into Slug Dragon King, dealing DMG equal to 181.6% of ATK, and increase next round's CRIT DMG by 42%!
+|hp=2122
+|def=149
+|atk=163
+|rush=321
+|gene1=Against main species, CRIT +15%
+|gene2=Per Divine Dragon Descent, {race} RUSH +10
+Divine Dragon Descents: 20/20
+|gene3=Fire DMG +90
+|gene4=Per Divine Dragon Descent, {race} ATK +10
+Divine Dragon Descents: 20/20
+|gene5=Against main species, DMG +9%
+|gene7=Against main species, DMG +9% (Awakened)
+|}}

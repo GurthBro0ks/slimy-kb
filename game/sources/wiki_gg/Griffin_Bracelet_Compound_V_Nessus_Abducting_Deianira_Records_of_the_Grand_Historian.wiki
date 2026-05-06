@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Griffin Bracelet,Compound V,Nessus Abducting Deianira,Records of the Grand Historian
+|rank=orange
+|amount=4
+|category=self
+|description=Per Red +5 or above Gear equipped, Snail Primeval Power +36
+}}
+[[Category:Self]]
+[[Category:Primeval Power Boost]]

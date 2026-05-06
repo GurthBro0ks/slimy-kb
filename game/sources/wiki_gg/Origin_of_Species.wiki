@@ -1,0 +1,48 @@
+{{CargoRelic
+|name=Origin of Species
+|rank=SSS
+|affct=FAME
+|birthday=11-04
+|source=Fungus Chest (0.01%), Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Super Species Chest (0.07%), Wish Box, Wishing (0.09%)
+|description=On Nov 4, 1859, Darwin completed this book which laid the foundation for the theory of evolution.
+
+In Darwin's "On the Origin of Species," there are countless detailed examples with rigorous logical reasoning that demonstrates the theories of natural selection and survival of the fittest. This book fundamentally changed many of the inherent concepts in the biological world.
+
+[Main points]
+
+Theory of Evolution: Species are variable<br>Common ancestor: All living things come from a common ancestor<br> Natural selection: Natural selection is the primary mechanism of evolution<br>Gradual evolution: The pace of biological evolution is gradual
+|fame=106
+|art=71
+|fth=52
+|civ=67
+|tech=66
+|ss1=Minion Cloning SPD +1.8%<br>Minion Cloning B-tads cost -1.2%<br>Per 5 Cloning Tank LVLs, Snail ATK +12<br>Cloning Tank LVL: 50/50
+|ss2=Minion Cloning SPD +2.4%<br>Minion Cloning B-tads cost -1.6%<br>Per 5 Cloning Tank LVLs, Snail ATK +16<br>Cloning Tank LVL: 50/50
+|ss3=Minion Cloning SPD +3%<br>Minion Cloning B-tad Cost -2%<br>Per 5 Cloning Tank LVLs, Snail ATK +20<br>Cloning Tank LVL: 50/50
+|ss4=Minion Cloning SPD +4.2%<br>Minion Cloning B-tad Cost -2.8%<br>Per 5 Cloning Tank LVLs, Snail ATK +28<br>Cloning Tank LVL: 50/50
+|ss5=Minion Cloning SPD +5.4%<br>Minion Cloning B-tads cost -3.6%<br>Per 5 Cloning Tank LVLs, Snail ATK +36<br>Cloning Tank LVL: 50/50
+|ss6=Minion Cloning SPD +7.2%<br>Minion Cloning B-tads cost -4.8%<br>Per 5 Cloning Tank LVLs, Snail ATK +48<br>Cloning Tank LVL: 50/50
+|ss7=Minion Cloning SPD +7.2%<br>Minion Cloning B-tads cost -4.8%<br>Per 5 Cloning Tank LVLs, Snail ATK +48<br>Cloning Tank LVL: 50/50<br>Minion Cloning SPD +6% (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Lifesteal Rate +30%
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Lifesteal Effect +30%
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: HP Regen +1,200 HP
+|mirage={{Mirage|name=4.6 Billion Years|reward=[[Neandergal|Neandergal partner]]
+|3name=Demon God Cell|3rec=786K|3atk=19437|3def=1289|3hp=129795|3weak=7571
+|4name=Trilobite|4rec=1.15M|4atk=25875|4def=17292|4hp=247480|4weak=8734
+|5name=Chhordate|5rec=1.66M|5atk=33440|5def=22347|5hp=394202|5weak=10214
+|6name=Neandergal|6rec=2.34M|6atk=42092|6def=28129|6hp=603156|6weak=11919
+|Arec=3.27M|Aatk=51991|Adef=34744|Ahp=851965|Aweak=13554
+}}
+}}
+
+[[Category:Minion Cloning Speed Boost]]
+[[Category:Minion Cloning Cost Reduction]]
+[[Category:Cloning Tank Boost]]
+[[Category:ATK Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:Lifesteal Rate Boost]]
+[[Category:Lifesteal Effect Boost]]
+[[Category:HP Regen]]
+[[Category:DNA Boost]]
+[[Category:Power Boost]]
+[[Category:Rewards Partner]]

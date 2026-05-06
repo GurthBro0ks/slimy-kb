@@ -1,0 +1,314 @@
+==Key Clue Records Sky City==
+Complete these Key Clues in [[Parsia]] for various rewards and to fully progress through the Realm.
+Please note that requirements ending with a * are an approximation, due to all the AFFCT reduction being applied.
+
+==Hanging Gardens==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Gold Bar, +2}}
+{| class="wikitable"
+!Event!!Requirements
+|-
+|Conquer Business Zone||Dominate Business Zone
+|-
+|Conquer Metropolis||Dominate Metropolis
+|-
+|Conquer Financial Center||Dominate Financial Center
+|}
+
+==Business Empire==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +3}}, {{RewardIconWithText|Purple Reagent, +100}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Tattered Work Clothes (No-Fly Zone)||CIV 17800*||Business Empire Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Remains in the Airship (Residential Sector)||ART 17940*||Business Empire Intel +1, {{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|Floating Villa (Skyport)||TECH 18340*||Business Empire Intel +1, {{RewardIconWithText|Glue, +20}}
+|}
+
+==Infinite Energy==
+'''Rewards:''' {{RewardIconWithText|Parsia Treasure Map, +50}}, {{RewardIconWithText|Tool Chest, +100}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Light Warrior's Remains (Skyport)||ART 18070*||Infinite Energy +1, {{RewardIconWithText|Stone, +80}}
+|-
+|Energy Operator (Industrial Grid)||FAME 14410*||Infinite Energy +1, {{RewardIconWithText|Operator Soul, +1}}
+|-
+|Power Plant (Power Nexus)||TECH 17200*||Infinite Energy +1, {{RewardIconWithText|Intel, +1500}}
+|}
+
+==Brain-Machine Project==
+'''Rewards:''' {{RewardIconWithText|Travel Speedup, +2h}}, {{RewardIconWithText|B-Tad, +30k}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Drone (No-Fly Zone)||TECH 17870*||Brain-Machine Project Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Abandoned Mailbox (Skyport)||CIV 17470*||Brain-Machine Project Intel +1, {{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|Unidentified Corpse (Industrial Grid)||ART 18410*||Brain-Machine Project Intel +1, {{RewardIconWithText|Glue, +20}}
+|-
+|Data Center (Commerce Ring)||TECH 16400*||Brain-Machine Project Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|}
+
+==Financial Crisis==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +600}}, {{RewardIconWithText|Midas Toad Mallet Relic}}
+{| class="wikitable"
+!Event!!Requirements
+|-
+|Redeem all [[Parsia Cards#Tier 1 (White)|limited cards (white)]]
+|Exchange all 10 white card items
+|-
+|Redeem all [[Parsia Cards#Tier 2 (Green)|limited cards (white)]]
+|Exchange all 10 green card items
+|-
+|Redeem all [[Parsia Cards#Tier 3 (Blue)|limited cards (white)]]
+|Exchange all 9 blue card items
+|-
+|Redeem all [[Parsia Cards#Tier 4 (Purple)|limited cards (white)]]
+|Exchange all 9 purple card items
+|-
+|Redeem all [[Parsia Cards#Tier 5 (Orange)|limited cards (white)]]
+|Exchange all 8 orange card items
+|}
+
+==Android Uprising==
+'''Rewards:''' {{RewardIconWithText|Parsia Treasure Map, +50}}, {{RewardIconWithText|Gene Speedup, +6h}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Abandoned Research Lab (Industrial Grid)||CIV 17670*||Android Uprising Intel +1, {{RewardIconWithText|Green Reagent, +30}}
+|-
+|Casino Suitcase (Pleasure Dome)||FAME 18410*||Android Uprising Intel +1, {{RewardIconWithText|Blue Reagent, +20}}
+|-
+|Luxury Apartment (?)||TECH 12700*||Android Uprising Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|}
+
+==Slipper Army Secrets==
+'''Rewards:''' {{RewardIconWithText|Tool Chest, +100}}, {{RewardIconWithText|Orange Reagent, +10}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Artificial Life Incubator (?)||CIV 15880*||Slipper Army Secrets Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Heavy Armor Totem (Military Precinct)||FTH 18410*||Slipper Army Secrets Intel +1, {{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|Monument Stone Statue (?)||TECH 12700*||Slipper Army Secrets Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Bronze Colossus (?)||FTH 14800*||Slipper Army Secrets Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|}
+
+==80/20 Rule==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|B-Tad, +30k}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Deranged Debtor (No-Fly Zone)||FAME 18740*||80/20 Rule Intel +1, {{RewardIconWithText|Soul Chest, +30}}
+|-
+|Delusional Man (?)||FAME? 13020*||80/20 Rule Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Debt Collector (?)||TECH 12700*||80/20 Rule Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|High-Tech Briefcase (Metropole)||TECH 17800*||80/20 Rule Intel +1, {{RewardIconWithText|Gear Chest, +20}}
+|-
+|Overworked Corpse (Financier's Core)||ART 18670*||80/20 Rule Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|}
+
+==Twin Cities War==
+'''Rewards:''' {{RewardIconWithText|Parsia Treasure Map, +50}}, {{RewardIconWithText|Glue, +60}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Twisted Remains (Residential Sector)||ART 18230*||Twin Cities War Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Pipeline Entrance (Pleasure Dome)||FAME 17470*||Twin Cities War Intel +1, {{RewardIconWithText|Organ Slime, +30}}
+|-
+|Employment Office (Power Nexus)||CIV 17740*||Twin Cities War Intel +1, {{RewardIconWithText|Fungi Chest, +20}}
+|-
+|War Room (?)||FTH 14800*||Twin Cities War Intel +1, {{RewardIconWithText|Travel Speedup, +10m}}
+|}
+
+==Floating Tribunal==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +3}}, {{RewardIconWithText|Expert Scroll, +20}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Faith Pavillion (Residential Sector)||?||Floating Tribunal Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Thought Pavillion (Pleasure Dome)||Display Relic: Art >110. Example: {{RewardIconWithLink|Golden Wheat|orange}}||Floating Tribunal Intel +1, {{RewardIconWithText|Offering Speedup, +20m}}
+|-
+|Law Pavillion (Metropole)||CIV 17880*||Floating Tribunal Intel +1, {{RewardIconWithText|Expert Scroll, +10}}
+|-
+|War Pavillion (?)||FTH 14800*||Floating Tribunal Intel +1, {{RewardIconWithText|Travel Speedup, +10m}}
+|}
+
+==Illegal Funds==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|B-Tad, +30k}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Demon's Crate (Skyport)||TECH 17470*||Illegal Funds Intel +1, {{RewardIconWithText|Expert Scroll, +10}}
+|-
+|Arms Factory (?)||FAME? 13020*||Illegal Funds Intel +1, {{RewardIconWithText|Organ Slime, +30}}
+|-
+|Charred Remains (?)||TECH 12700*||Illegal Funds Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|}
+
+==Parsian Masquerade==
+'''Rewards:''' {{RewardIconWithText|Toner, +60}}, {{RewardIconWithText|B-Tad, +50k}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Luxury Villa (?)||CIV 15880*||Resistance Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Collapsed Basement (?)||FAME? 13020*||Resistance Intel +1, {{RewardIconWithText|Organ Slime, +30}}
+|-
+|Black Briefcase (?)||TECH 12700*||Resistance Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|}
+
+==Triple Spy Game==
+'''Rewards:''' {{RewardIconWithText|Travel Speedup, +3h}}, {{RewardIconWithText|B-Tad, +30k}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Encrypted Letter (?)||CIV 15880*||Resistance Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Warehouse Base (?)||FAME? 13020*||Resistance Intel +1, {{RewardIconWithText|Organ Slime, +30}}
+|-
+|Floating Hot-Air Balloon (?)||TECH 12700*||Resistance Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|-
+|Dying Traveler (?)||FTH 14800*||Resistance Intel +1, {{RewardIconWithText|Travel Speedup, +10m}}
+|}
+
+==Sky Fortress==
+'''Rewards:''' {{RewardIconWithText|Tool Chest, +100}}, {{RewardIconWithText|Glue, +50}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Anti-Air Military Schematics (Pleasure Dome)||FTH 18270*||Sky Fortress Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Sky Elevator (?)||FAME? 13020*||Sky Fortress Intel +1, {{RewardIconWithText|Organ Slime, +30}}
+|-
+|Skyrail Chronicles (?)||TECH 12700*||Sky Fortress Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|}
+
+==Laws of the Sky==
+'''Rewards:''' {{RewardIconWithText|Orange Reagent, +10}}, {{RewardIconWithText|Offering Speedup, +6h}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Penance Church (?)||CIV 15880*||Resistance Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Sacred Flame Altar (?)||FAME? 13020*||Resistance Intel +1, {{RewardIconWithText|Organ Slime, +30}}
+|-
+|Supreme Codex (?)||TECH 12700*||Resistance Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|-
+|Hamster Statue (?)||FTH 14800*||Resistance Intel +1, {{RewardIconWithText|Travel Speedup, +10m}}
+|}
+
+==Hall of 100 Columns==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +3}}, 40 [[Lion Oath Ring Relic Frag]]
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Pillar of the Sun (?)||CIV 15880*||Hall of 100 Columns Intel +1, {{RewardIconWithText|Offering Speedup, +20m}}
+|-
+|Moon Pillar (Residential Sector)||FTH 18210*||Hall of 100 Columns Intel +1, {{RewardIconWithText|Organ Slime, +30}}
+|-
+|Ahura's Pillar (Skyport)||TECH 12700*||Hall of 100 Columns Intel +1, {{RewardIconWithText|Expert Scroll, +10}}
+|-
+|Pillar of Life (Metropole)||FAME 19140*||Hall of 100 Columns Intel +1, {{RewardIconWithText|W-Tad, +80}}
+|-
+|Pillar of Kings (Commerce Ring)||FTH 18070*||Hall of 100 Columns Intel +1, {{RewardIconWithText|Glue, +20}}
+|-
+|Weathered Body (Financier's Core)||ART 17670*||Hall of 100 Columns Intel +1, {{RewardIconWithText|Offering Speedup, +20m}}
+|}
+
+==Mermaid's Tale==
+'''Rewards:''' {{RewardIconWithText|Wish Coin, +2}}, {{RewardIconWithText|Gene Speedup, +6h}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Merman Remains (?)||CIV 15880*||Mermaid's Tale Intel +1, {{RewardIconWithText|Clone Speedup, +20m}}
+|-
+|Mermaid Exhibit (?)||FAME? 13020*||Mermaid's Tale Intel +1, {{RewardIconWithText|Clone Speedup, +20m}}
+|-
+|Antique Vase (Power Nexus)||CIV 19070*||Mermaid's Tale Intel +1, {{RewardIconWithText|Gene Speedup, +20m}}
+|-
+|Fouled Research Case (Military Precinct)||TECH 18470*||Mermaid's Tale Intel +1, {{RewardIconWithText|Clone Speedup, +20m}}
+|}
+
+==Eternal Flame==
+'''Rewards:''' {{RewardIconWithText|Wish Coin, +3}}, {{RewardIconWithText|Parsia Treasure Map, +50}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Forgotten Sanctuary (Metropole)||Display {{RewardIconWithLink|Behistun Inscription|purple}}||Eternal Flame Intel +1, {{RewardIconWithText|Offering Speedup, +20m}}
+|-
+|Steel Airship (?)||FAME? 13020*||Eternal Flame Intel +1, {{RewardIconWithText|Green Organ Slime, +30}}
+|-
+|Steel Temple (?)||TECH 12700*||Eternal Flame Intel +1, {{RewardIconWithText|B-Tad, +10k}}
+|-
+|Babel Library (?)||FTH 14800*||Eternal Flame Intel +1, {{RewardIconWithText|Travel Speedup, +10m}}
+|}
+
+==Ad Chip Mandate==
+'''Rewards:''' {{RewardIconWithText|Parsia Treasure Map, +50}}, {{RewardIconWithText|Ad Chest, +60}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Hamster Loan Ad (Pleasure Dome)||Watch Ad||{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|Parsian Dance Ad (Residential Sector)||Watch Ad||{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Glue, +10}}
+|-
+|Rebel Recruitment (Metropole)||Watch Ad||{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +10m}}
+|-
+|Mermaid Show Billboard (Industrial Grid)||Watch Ad||{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|B-Tad, +10k}}
+|}
+
+==Sky City's Treasure==
+'''Rewards:''' {{RewardIconWithText|Parsia Treasure Map, +50}},{{RewardIconWithText|Parsia Arcana Fragment, +1}}
+{| class="wikitable"
+!Event!!<nowiki>#</nowiki> of items found!!Rewards
+|-
+|Parsian Flying Carpet (No-Fly Zone)||3||{{RewardIconWithText|Travel Speedup, +30m}}, {{RewardIconWithText|W-Tad, +100}}
+|-
+|Cavalry Saddlebag (No-Fly Zone)||3||{{RewardIconWithText|Novice Scroll, +10}}, {{RewardIconWithText|W-Tad, +150}}
+|-
+|Parsian Brocade (Skyport)||3||{{RewardIconWithText|Wood, +2000}}, {{RewardIconWithText|W-Tad, +150}}
+|-
+|Parsian Miniature (Skyport)||3||{{RewardIconWithText|B-Tad, +10k}}, {{RewardIconWithText|W-Tad, +100}}
+|-
+|Barber Membership Card (Residential Sector)||3||{{RewardIconWithText|Travel Speedup, +1h}}, {{RewardIconWithText|W-Tad, +150}}
+|-
+|Relic of the Sacred Flame (Residential Sector)||3||{{RewardIconWithText|Travel Speedup, +1h}}, {{RewardIconWithText|W-Tad, +100}}
+|-
+|Industrial Cargo Crate (No-Fly Zone)||3||{{RewardIconWithText|Gear Chest, +100}}, {{RewardIconWithText|W-Tad, +150}}
+|-
+|Assassin's Satchel (No-Fly Zone)||3||{{RewardIconWithText|B-Tad, +20k}}, {{RewardIconWithText|W-Tad, +150}}
+|-
+|Dancer's Veil (Pleasure Dome)||3||{{RewardIconWithText|Blue Reagent, +30}}, {{RewardIconWithText|W-Tad, +200}}
+|-
+|Casino Chips (Pleasure Dome)||3||{{RewardIconWithText|Novice Scroll, +10}}, {{RewardIconWithText|W-Tad, +150}}
+|-
+|Divine Maiden's Reliquary (Power Nexus)||3||{{RewardIconWithText|Wood, +2000}}, {{RewardIconWithText|W-Tad, +200}}
+|-
+|Energy Ore (Power Nexus)||3||{{RewardIconWithText|Stone, +2000}}, {{RewardIconWithText|W-Tad, +150}}
+|-
+|Golden Slippers (Military Precinct)||3||{{RewardIconWithText|Clone Speedup, +2h}}, {{RewardIconWithText|W-Tad, +200}}
+|-
+|Sole Rebels Supply Box (Military Precinct)||3||{{RewardIconWithText|Gene Speedup, +3h}}, {{RewardIconWithText|W-Tad, +300}}
+|-
+|Tycoon's Gift (Commerce Ring)||3||{{RewardIconWithText|Lottery Ticket, +2}}, {{RewardIconWithText|W-Tad, +300}}
+|-
+|Golden Wine Set (Commerce Ring)||3||{{RewardIconWithText|Expert Scroll, +20}}, {{RewardIconWithText|W-Tad, +200}}
+|-
+|HamsterBank Gift (Metropole)||3||{{RewardIconWithText|Offering Speedup, +2h}}, {{RewardIconWithText|W-Tad, +200}}
+|-
+|HamsterCorp Lucky Bag (Metropole)||3||{{RewardIconWithText|Gene Speedup, +3h}}, {{RewardIconWithText|W-Tad, +300}}
+|-
+|Three-Legged Golden Toad (Financier's Core)||3||{{RewardIconWithText|Offering Speedup, +3h}}, {{RewardIconWithText|W-Tad, +300}}
+|-
+|Lucky Gold (Financier's Core)||3||{{RewardIconWithText|B-Tad, +30k}}, {{RewardIconWithText|W-Tad, +200}}
+|}

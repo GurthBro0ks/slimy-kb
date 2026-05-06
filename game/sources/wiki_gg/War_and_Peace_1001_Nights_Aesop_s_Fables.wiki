@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=233
+|relics=War and Peace,1001 Nights,Aesop's Fables
+|rank=orange
+|amount=3
+|category=self
+|description=B-tad rewards from offering +3.2%
+}}

@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Blazing Gold Mane
+|type=Common
+|rank=orange
+|id=10940
+|idx=91
+|description=A cascading river of molten sunlight that warps reality with its thermal majesty.
+|skill=
+|hp=2486
+|def=190
+|atk=255
+|rush=152
+|gene1=Snail Arena, ELMT DMG REDUC +6%
+|gene2=In explorations, DMG Reflection +150
+|gene3=Wind DMG +1.5%
+|gene4=Restore 600 HP each round
+|gene5=Gain Shield when the fight begins, DUR +1200
+|gene7=ELMT RES +3% (Awakened)
+|}}

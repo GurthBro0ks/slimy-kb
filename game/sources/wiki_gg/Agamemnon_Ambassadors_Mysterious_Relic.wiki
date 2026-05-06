@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Agamemnon Ambassadors,Mysterious Relic
+|rank=blue
+|amount=2
+|category=self
+|description=Per Recruitment Incident completed, Snail RUSH +5; Completed Recruitment Incidents: 50/50
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]

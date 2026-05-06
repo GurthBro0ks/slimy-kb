@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=229
+|relics=Noah's Ark,Einstein's Brain
+|rank=orange
+|amount=2
+|category=self
+|description=Mutant Gene research Cell cost -4.2%
+}}

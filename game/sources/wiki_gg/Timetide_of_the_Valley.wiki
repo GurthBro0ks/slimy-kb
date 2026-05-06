@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Timetide of the Valley
+|class_id=20728
+|rank=Green
+|affct=FAITH
+|source=
+|description=This is a jar of Valley Sand. Valley Merchant has a bobby of collecting a handful of sand every time he reaches the depth of the Valley. As the sand accumulated, it surprisingly acquired the power to change the Timetide of the Valley
+|fame=16
+|art=13
+|fth=31
+|civ=15
+|tech=15
+|ss1=Snail DEF +60<br>In Kaleido Valley, unlock Multi-Speed
+|ss2=Snail DEF +80<br>In Kaleido Valley, unlock Multi-Speed
+|ss3=Snail DEF +100<br>In Kaleido Valley, unlock Multi-Speed
+|ss4=Snail DEF +100<br>In Kaleido Valley, unlock Multi-Speed
+|ss7=Snail DEF +100<br>In Kaleido Valley, unlock Multi-Speed<br> (Awakened)
+}}

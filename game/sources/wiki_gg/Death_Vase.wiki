@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Death Vase
+|class_id=20016
+|rank=Green
+|affct=ART
+|source=
+|description=This is an Italian silver vase made in the 15th century. After being buried for centuries, it was dug up and sent to an auction, and then mysterious deaths followed. Anyone who took possession of the vase perished within a few months!
+|fame=16
+|art=28
+|fth=15
+|civ=19
+|tech=12
+|ss1=Demon Gene Research B-tad Cost -0.6%
+|ss2=Demon Gene Research B-tad Cost -1.2%
+|ss3=Demon Gene Research B-tad Cost -1.8%
+|ss4=Demon Gene Research B-tad Cost -1.8%
+|ss7=Demon Gene Research B-tad Cost -1.8%<br> (Awakened)
+}}

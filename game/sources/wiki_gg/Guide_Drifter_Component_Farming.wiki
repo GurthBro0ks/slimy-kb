@@ -1,0 +1,96 @@
+= [[Time_Beacon#Temporal_Drifters|Temporal Drifters]] =
+[[Time_Beacon#Temporal_Drifters|Temporal Drifters]] are supporting characters you can unlock in the [[Time Rift]]. You can level them up in the [[Time Beacon]]. 
+
+Temporal Drifters all use {{RewardIconWithText|Time Fruit}} to level up along with one or two other components. The sets of components can be used on two or three Temporal Drifters. Each set of components enhances the same set of Temporal Drifters, drop consistently in the same regions, and are similar to enhancement items from previous [[Realms]]. Each set of components drops from five of the forty zones in [[Time Rift]].
+
+== NAV Medal and Nautical Treasure ==
+{{RewardIconWithText|NAV Medal}} and {{RewardIconWithText|Nautical Treasure}} are used to enhance [[Time_Beacon#Peacekeeper|Peacekeeper]], [[Time_Beacon#St._Trinidad|St. Trinidad]], and [[Time_Beacon#Soleil_Royal|Soleil Royal]]. They drop in [[Time Rift Apostles|zones]] '''1, 4, 17, 19, and 24''' of [[Time Rift]].
+
+== Demon Leather and Color Thread ==
+{{RewardIconWithText|Demon Leather}} and {{RewardIconWithText|Color Thread}} are used to enhance [[Time_Beacon#Athena|Athena]] and [[Time_Beacon#Dracula|Dracula]]. They drop in [[Time Rift Apostles|zones]] '''2, 20, 25, 35, and 37''' of [[Time Rift]].
+
+== Hitman Cert and Apostle Cert ==
+{{RewardIconWithText|Hitman Cert}} and {{RewardIconWithText|Apostle Cert}} are used to enhance [[Time_Beacon#Hitman_No._1|Hitman No. 1]], [[Time_Beacon#Idol_Boy|Idol Boy]], and [[Time_Beacon#Koryeon_Commissioner|Koryeon Commissioner]]. They drop in [[Time Rift Apostles|zones]] '''3, 8, 9, 29, and 34''' of [[Time Rift]].
+
+== Adv Taoist Pill and Adv Herb Pill ==
+{{RewardIconWithText|Adv Taoist Pill}} and {{RewardIconWithText|Adv Herb Pill}} are used to enhance [[Time_Beacon#Naga_the_Dragon_Horse|Naga the Dragon Horse]] and [[Time_Beacon#Sanzang_the_Merti_Buddha|Sanzang the Merti Buddha]]. They drop in [[Time Rift Apostles|zones]] '''5, 6, 23, 33, and 40''' of [[Time Rift]].
+
+== Ninjutsu Cert and Sword Expert Cert ==
+{{RewardIconWithText|Ninjutsu Cert}} and {{RewardIconWithText|Sword Expert Cert}} are used to enhance [[Time_Beacon#Excalibra|Excalibra]], [[Time_Beacon#Ninja_Amakusa|Ninja Amakusa]], and [[Time_Beacon#Ninja_Momochi|Ninja Momochi]]. They drop in [[Time Rift Apostles|zones]] '''7, 12, 16, 22, and 28''' of [[Time Rift]].
+
+== Super Energy Stone and Super Obsidian ==
+{{RewardIconWithText|Super Energy Stone}} and {{RewardIconWithText|Super Obsidian}} are used to enhance [[Time_Beacon#Future_Pyramid|Future Pyramid]] and [[Time_Beacon#Past_Pyramid|Past Pyramid]]. They drop in [[Time Rift Apostles|zones]] '''10, 11, 21, 31, and 39''' of [[Time Rift]].
+
+== Mecha Component+ and Biochem Component+ ==
+{{RewardIconWithText|Mecha Component+}} and {{RewardIconWithText|Biochem Component+}} are used to enhance [[Time_Beacon#Fishing_Master|Fishing Master]], [[Time_Beacon#Mad_Abe|Mad Abe]], and [[Time_Beacon#Night_Kitty|Night Kitty]]. They drop in [[Time Rift Apostles|zones]] '''13, 15, 18, 27, and 36''' of [[Time Rift]].
+
+== Tiger Tally (Yang) and Tiger Tally (Yin) ==
+{{RewardIconWithText|Tiger Tally (Yang)}} and {{RewardIconWithText|Tiger Tally (Yin)}} are used to enhance [[Time_Beacon#Demonic_Guan_Yu|Demonic Guan Yu]], [[Time_Beacon#Madam_Huang_EX|Madam Huang Ex]], and [[Time_Beacon#Poisoner_Hua_Tao|Poisoner Hua Tuo]]. They drop in [[Time Rift Apostles|zones]] '''14, 26, 31, 32, and 38''' of [[Time Rift]].
+
+= Farming Strategies =
+If you do an entire run of [[Time Rift]] you'll go through all forty zones which will give five zones that drop each set of components. If you want to farm a specific component set, it's best to just use {{RewardIconWithText|Travel Speedup}}s to rush to the zones that drop the components you want. But how far should you go? Which zone is the most efficient to stop in to save {{RewardIconWithText|Travel Speedup}}s? That is what these guides will tell you.
+
+== [[Time_Beacon#Naga_the_Dragon_Horse|Naga the Dragon Horse]] ==
+Once [[Time_Beacon#Naga_the_Dragon_Horse|Naga the Dragon Horse]] is unlocked, he quickly becomes the most important of the [[Time_Beacon#Temporal_Drifters|Temporal Drifters]]. With his increased Travel SPD making each run through the [[Time Rift]] faster, leveling up quickly is rather important. He needs {{RewardIconWithText|Adv Herb Pill}} to level up. These drop from [[Time Rift Apostles|zones]] '''5, 6, 23, 33, and 40'''.
+
+If you rush to zone six, you'll get two zones to farm {{RewardIconWithText|Adv Herb Pill}}. This is three zones worth of speed ups spent per zone farmed. This is pretty good.
+
+'''Recommendation to ONLY farm this drifter's components:''' 
+
+Leave after completing zone six.
+
+'''Recommendation to farm combination of drifters:''' 
+
+If you rush through zone seven, you'll get components for [[Time_Beacon#Ninja_Momochi|Ninja Momochi]], the second most important drifter.
+
+'''What you will miss from leaving early:''' 
+
+You will not get any of the following components if you leave at zone six or seven:
+* {{RewardIconWithText|Super Energy Stone}} and {{RewardIconWithText|Super Obsidian}}
+* {{RewardIconWithText|Mecha Component+}} and {{RewardIconWithText|Biochem Component+}}
+* {{RewardIconWithText|Tiger Tally (Yang)}} and {{RewardIconWithText|Tiger Tally (Yin)}}
+
+'''Additional characters that benefit from this farming'''
+* [[Time_Beacon#Sanzang_the_Merti_Buddha|Sanzang the Merti Buddha]]
+
+== [[Time_Beacon#Ninja_Momochi|Ninja Momochi]] ==
+[[Time_Beacon#Ninja_Momochi|Ninja Momochi]] is unlocked rather early and for a long time is the most important drifter. He only becomes the second most important after [[Time_Beacon#Naga_the_Dragon_Horse|Naga the Dragon Horse]] is unlocked. [[Time_Beacon#Ninja_Momochi|Ninja Momochi]] increases INTEL gained. [[Time Rift]] has rather high INTEL requirements, so maximizing this drifter early is very helpful. He needs {{RewardIconWithText|Ninjutsu Cert}} to level up. These drop from [[Time Rift Apostles|zones]] '''7, 12, 16, 22, and 28'''.
+
+If you rush to zone seven, this will be seven zones worth of speed ups per zone farmed.
+
+If you rush to zone twelve, this will be six zones worth of speed ups per zone farmed.
+
+If you rush to zone 16, this will be 5.333 zones worth of speed ups per zone farmed.
+
+If you rush to zone 22, this will be 5.5 zones worth of speed ups per zone farmed.
+
+If you rush to zone 28, this will be 5.6 zones worth of speed ups per zone farmed.
+
+As you can see, leaving at zone 16 would be the most efficient for getting {{RewardIconWithText|Ninjutsu Cert}} per zone worth of speed ups.
+
+'''Recommendation to ONLY farm this drifter's components:''' 
+
+Leave after completing zone 16. This also gets you two zones of farming for [[Time_Beacon#Naga_the_Dragon_Horse|Naga the Dragon Horse]].
+
+'''Recommendation to farm combination of drifters:''' 
+
+If you rush through zone 23, you'll be less efficient for getting components for [[Time_Beacon#Ninja_Momochi|Ninja Momochi]] at 5.5 per zones worth of speed ups. However, you'll also get three zones of components for get components for [[Time_Beacon#Naga_the_Dragon_Horse|Naga the Dragon Horse]]. However, this is at the cost of 7.666 zones worth of speed ups per zone farmed for Naga. Naga has a much better rate of return if you just farm for him specifically.
+
+'''What you will miss from leaving early:''' 
+
+If you leave at 16, you'll get one zone of farming (instead of two or three zones worth) of the following components on these runs:
+* {{RewardIconWithText|Demon Leather}} and {{RewardIconWithText|Color Thread}}
+* {{RewardIconWithText|Tiger Tally (Yang)}} and {{RewardIconWithText|Tiger Tally (Yin)}}
+
+
+If you leave at 23, you'll get one zone of farming (instead of three or four) of the following components on these runs:
+* {{RewardIconWithText|Tiger Tally (Yang)}} and {{RewardIconWithText|Tiger Tally (Yin)}}
+and only two zones of farming (instead of three or four) of the following components on these runs:
+* {{RewardIconWithText|Demon Leather}} and {{RewardIconWithText|Color Thread}}
+
+'''Additional characters that benefit from this farming'''
+* [[Time_Beacon#Excalibra|Excalibra]]
+* [[Time_Beacon#Ninja_Amakusa|Ninja Amakusa]]
+
+[[Category:Guides]]
+[[Category:Time Rift]]

@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Soul Stone
+|rank=SSS
+|affct=FTH
+|birthday=08-31
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Soul Chest (0.01%), Wishing (0.06%)
+|description=On Aug 31, 1921 BC, Horus made the first soul vessel in history.
+
+On this day, Horus collected his father's soul in a container, planning to resurrect him. Horus' uncle, Seth, killed Osiris out of jealousy. Horus set out to defeat his evil uncle and take back his father's kingdom. The god of the earth called upon nine gods to congregate and divided Egypt into two parts. Upper Egypt belonged to Seth and lower Egypt belonged to Horus. Horus stored his father's soul in a human-shaped chest to await his resurrection.
+|fame=66
+|art=63
+|fth=108
+|civ=70
+|tech=55
+|ss1=Snail DEF +30<br>Per 3 kinds of souls offered, Snail HP +30<br>Per 3 kinds of souls offered, Snail ATK +3<br>Distinct Souls Offered: 300/300
+|ss2=Snail DEF +40<br>Per 3 kinds of souls offered, Snail HP +40<br>Per 3 kinds of souls offered, Snail ATK +4<br>Distinct Souls Offered: 300/300
+|ss3=Snail DEF +50<br>Per 3 kinds of souls offered, Snail HP +50<br>Per 3 kinds of souls offered, Snail ATK +5<br>Distinct Souls Offered: 300/300
+|ss4=Snail DEF +70<br>Per 3 kinds of souls offered, Snail HP +70<br>Per 3 kinds of souls offered, Snail ATK +7<br>Distinct Souls Offered: 300/300
+|ss5=Snail DEF +90<br>Per 3 kinds of souls offered, Snail HP +90<br>Per 3 kinds of souls offered, Snail ATK +9<br>Distinct Souls Offered: 300/300
+|ss6=Snail DEF +120<br>Per 3 kinds of souls offered, Snail HP +120<br>Per 3 kinds of souls offered, Snail ATK +12<br>Distinct Souls Offered: 300/300
+|ss7=Snail DEF +120<br>Per 3 kinds of souls offered, Snail HP +120<br>Per 3 kinds of souls offered, Snail ATK +12<br>Distinct Souls Offered: 300/300<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, INTEL gained +15%
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x B-tad Drops +15%
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, B-tads gained +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:DEF Boost]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Distinct Souls Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Demon Gene Cost Reduction]]
+[[Category:DNA Boost]]
+[[Category:Rewards Partner]]
+[[Category:Undead Turtle Boost]]

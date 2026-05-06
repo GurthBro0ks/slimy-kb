@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Top Books
+|class_id=20085
+|rank=Green
+|affct=CIV
+|source=
+|description=This collection of the world's most famous stories belongs to a museum curator who spent his life collecting them. The books in this collection are clearly printed and beautifully illustrated. They are also available in many languages, making them easy to read as well as worthy of collection!
+|fame=14
+|art=11
+|fth=18
+|civ=30
+|tech=17
+|ss1=Activate book sharing<br>After 1st share, Snail CIV +5
+|ss2=Activate book sharing<br>After 1st share, Snail CIV +10
+|ss3=Activate book sharing<br>After 1st share, Snail CIV +15
+|ss4=Activate book sharing<br>After 1st share, Snail CIV +15
+|ss7=Activate book sharing<br>After 1st share, Snail CIV +15<br> (Awakened)
+}}

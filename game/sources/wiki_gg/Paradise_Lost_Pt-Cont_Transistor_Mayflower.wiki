@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Paradise Lost,Pt-Cont Transistor,Mayflower
+|rank=orange
+|amount=3
+|category=self
+|description=Per Incense used, Snail HP +120<br>Incense Used: 20/20
+}}
+[[Category:Self]]

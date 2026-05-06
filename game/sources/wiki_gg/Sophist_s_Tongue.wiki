@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Sophist's Tongue
+|type=Common
+|rank=orange
+|id=10877
+|idx=84
+|description=A tongue classified SSS-level dangerous. Any researcher exposed to it hears scathing, logic-twisting insults until they cough blood and perish. Even sealed in a soundproof box, it still echoes faintly: "I've never seen such shamelessness!"
+|skill=
+|hp=1530
+|def=280
+|atk=203
+|rush=208
+|gene1=RUSH Ignore DEF +3%
+|gene2=Each round, {race} ATK +60
+|gene3=Snail Arena, Total Power Checks -6%
+|gene4=Snail Arena, enemy CRIT - 15%
+|gene5=Snail Arena, Lifesteal +30%
+|gene7=Snail Arena, enemy CRIT - 15% (Awakened)
+|}}

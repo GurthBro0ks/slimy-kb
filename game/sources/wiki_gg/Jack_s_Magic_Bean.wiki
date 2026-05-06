@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Jack's Magic Bean
+|class_id=20403
+|rank=Green
+|affct=FAME
+|source=
+|description=This magic bean can grow into a stalk that reaches the cloud. If you're fit enough, you can climb up to a giant's castle, wherein is a hen that lays golden eggs. So far, however, only a young boy named Jack has ever made it there.
+|fame=27
+|art=12
+|fth=20
+|civ=16
+|tech=15
+|ss1=Per 10 FAME-Fungi eaten, Snail ATK +1<br>FAME-Fungi Eaten: 500/500
+|ss2=Per 10 FAME-Fungi eaten, Snail ATK +2<br>FAME-Fungi Eaten: 500/500
+|ss3=Per 10 FAME-Fungi eaten, Snail ATK +3<br>FAME-Fungi Eaten: 500/500
+|ss4=Per 10 FAME-Fungi eaten, Snail ATK +3<br>FAME-Fungi Eaten: 500/500
+|ss7=Per 10 FAME-Fungi eaten, Snail ATK +3<br>FAME-Fungi Eaten: 500/500<br> (Awakened)
+}}

@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Graphene Tape,Forbes List,Empress's Coronation Crown,Carmen
+|rank=orange
+|amount=4
+|category=self
+|description=Per 3 FTH Relics awakened, Snail HP +90; FTH Relics Awakened: 180/180
+}}
+[[Category:Self]]
+[[Category:HP Boost]]
+[[Category:Enhanced by FTH Relics Awakened]]

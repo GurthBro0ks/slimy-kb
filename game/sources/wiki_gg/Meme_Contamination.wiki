@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Meme Contamination
+|class_id=22839
+|rank=SSS
+|affct=FAITH
+|source=
+|description=The remains of some travelers, modified by demons, can interfere with and distort the meme field when exploring unknown time and space, attracting other travelers. The device alters the stability of time and space through meme distortion and temporal disturbances, requiring caution during use, as improper operation may lead to the spread of meme contamination, endangering the user's cognition.
+|fame=59
+|art=75
+|fth=106
+|civ=53
+|tech=69
+|ss1=0.9% chance to get +10 Super Memetic Chests from arena daily reward!<br>In Snail Arena, CRIT +3%<br>Per Bionic Part owned, Snail ATK +6<br>Bionic Parts owned: 20/20
+|ss2=1.2% chance to get +10 Super Memetic Chests from arena daily reward!<br>In Snail Arena, CRIT +4%<br>Per Bionic Part owned, Snail ATK +8<br>Bionic Parts owned: 20/20
+|ss3=1.5% chance to get +10 Super Memetic Chests from arena daily reward!<br>In Snail Arena, CRIT +5%<br>Per Bionic Part owned, Snail ATK +10<br>Bionic Parts owned: 20/20
+|ss4=2.1% chance to get +10 Super Memetic Chests from arena daily reward!<br>In Snail Arena, CRIT +7%<br>Per Bionic Part owned, Snail ATK +14<br>Bionic Parts owned: 20/20
+|ss5=2.7% chance to get +10 Super Memetic Chests from arena daily reward!<br>In Snail Arena, CRIT +9%<br>Per Bionic Part owned, Snail ATK +18<br>Bionic Parts owned: 20/20
+|ss6=3.6% chance to get +10 Super Memetic Chests from arena daily reward!<br>In Snail Arena, CRIT +12%<br>Per Bionic Part owned, Snail ATK +24<br>Bionic Parts owned: 20/20
+|ss7=3.6% chance to get +10 Super Memetic Chests from arena daily reward!<br>In Snail Arena, CRIT +12%<br>Per Bionic Part owned, Snail ATK +24<br>Bionic Parts owned: 20/20<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: CRIT DMG +30%
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's FTH +15
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: HP Regen +1200 HP
+|mirage={{Mirage|name=The End of the Polluted|reward={{RewardIconWithLink|Super Memetic Chest, +100|orange}}
+|3name=Polluted Human|3rec=5.39M|3atk=59329|3defense=38849|3hp=952295|3weak=12709
+|4name=Polluted Oriole|4rec=9.77M|4atk=82025|4defense=53710|4hp=1691378|4weak=15929
+|5name=Polluted Snail|5rec=16.85M|5atk=109644|5defense=71795|5hp=2753821|5weak=18922
+|6name=Polluted Taoraemon|6rec=34.95M|6atk=142141|6defense=93075|6hp=4375856|6weak=23367
+|Arec=52.81M|Aatk=180508|Adefense=118198|Ahp=6777178|Aweak=28924
+}}}}

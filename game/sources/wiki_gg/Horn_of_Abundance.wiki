@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Horn of Abundance
+|class_id=20558
+|rank=Green
+|affct=CIV
+|source=
+|description=On the dining table is something in the shape of a ram's horn. The horn emits a soft radiance, filling the air with a sense of abundance and joy. You see many fruits in the horn: glimmering grapes, golden apples and luscious oranges. You also notice people closing their eyes in prayer, seeking blessings, as if their words will be heard by some eye in the sky.
+|fame=18
+|art=16
+|fth=12
+|civ=32
+|tech=12
+|ss1=Snail ATK +10<br>Per Incense used, Snail RUSH +1<br>Incense Used: 20/20
+|ss2=Snail ATK +20<br>Per Incense used, Snail RUSH +2<br>Incense Used: 20/20
+|ss3=Snail ATK +30<br>Per Incense used, Snail RUSH +3<br>Incense Used: 20/20
+|ss4=Snail ATK +30<br>Per Incense used, Snail RUSH +3<br>Incense Used: 20/20
+|ss7=Snail ATK +30<br>Per Incense used, Snail RUSH +3<br>Incense Used: 20/20<br> (Awakened)
+}}

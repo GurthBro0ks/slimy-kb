@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Frost Shard
+|type=Bionic
+|rank=purple
+|id=10674
+|idx=31
+|description=Jade-like scales shimmer with hypnotic brilliance, almost masking their origin: a branch of ancient dragon bloodline.
+|skill=When attacked by the enemy, trigger the protection of the ice shield, reducing DMG by 18% of the enemy's ATK!
+|hp=1032
+|def=255
+|atk=141
+|rush=132
+|gene1=Per purple or higher organ equipped, {race} DEF +10
+Purple or higher Organs equipped: 7/7
+|gene2=Per 5 Apostles defeated, {race} HP +200
+Apostles Defeated: 15/15
+|gene3=Water DMG +60
+|gene4=Ignore Water RES +60
+|gene7=Water DMG +180 (Awakened)
+|}}

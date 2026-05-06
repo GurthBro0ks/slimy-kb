@@ -1,0 +1,34 @@
+{{CargoRelic
+|name=Along the River
+|class_id=21611
+|rank=SSS
+|affct=ART
+|birthday=11-23
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Nov 23, 1101 AD, this masterpiece was created and collected by the imperial palace immediately.<br>Zhang Zeduan's painting, Along the River, left a lasting impression on Emperor Hui of Song, who personally wrote its name. The painting employs a partly formal, partly loose technique and features light colors. It utilizes aerial and cavalier perspectives, resulting in a well-organized, compact, and smooth composition. The painting's landscapes showcase wilderness, large rivers, and tall city walls, and the details are vivid, including people in the carriages, goods on stalls, and even characters on the posters.
+[Brief History]
+In the Northern Song dynasty, during the Event of Jingkang, the Jin invaders took away the painting.
+In the Ming dynasty, it was stolen from the imperial palace and changed hands on the market.
+In the Jiaqing period of the Qing dynasty, it was retrieved by the imperial palace.
+|fame=74
+|art=108
+|fth=54
+|civ=55
+|tech=71
+|ss1=Snail ATK +30<br>Per 10 Home Facility LVLs, Snail ATK +3<br>Per 10 Home Facility LVLs, Snail RUSH +3<br>Home Facility LVL: 400/400
+|ss2=Snail ATK +40<br>Per 10 Home Facility LVLs, Snail ATK +4<br>Per 10 Home Facility LVLs, Snail RUSH +4<br>Home Facility LVL: 400/400
+|ss3=Snail ATK +50<br>Per 10 Home Facility LVLs, Snail ATK +5<br>Per 10 Home Facility LVLs, Snail RUSH +5<br>Home Facility LVL: 400/400
+|ss4=Snail ATK +70<br>Per 10 Home Facility LVLs, Snail ATK +7<br>Per 10 Home Facility LVLs, Snail RUSH +7<br>Home Facility LVL: 400/400
+|ss5=Snail ATK +90<br>Per 10 Home Facility LVLs, Snail ATK +9<br>Per 10 Home Facility LVLs, Snail RUSH +9<br>Home Facility LVL: 400/400
+|ss6=Snail ATK +120<br>Per 10 Home Facility LVLs, Snail ATK +12<br>Per 10 Home Facility LVLs, Snail RUSH +12<br>Home Facility LVL: 400/400
+|ss7=Snail ATK +120<br>Per 10 Home Facility LVLs, Snail ATK +12<br>Per 10 Home Facility LVLs, Snail RUSH +12<br>Home Facility LVL: 400/400<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail ATK +600
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail RUSH +600
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x Orange Card Drops +15%
+|mirage={{Mirage|name=Capital Sceneries|reward={{RewardIconWithLink|Coating Bucket, +3|orange}}
+|3name=Painted Merchant|3rec=46.28M|3atk=163403|3defense=109012|3hp=7302357|3weak=21013
+|4name=Painted Bridal Sedan|4rec=59.57M|4atk=191414|4defense=127700|4hp=9644219|4weak=23686
+|5name=Painted Ship|5rec=73.91M|5atk=221667|5defense=147882|5hp=12517895|5weak=29478
+|6name=Painted Arch Bridge|6rec=89.71M|6atk=254983|6defense=170109|6hp=16046605|6weak=32640
+|Arec=107.24M|Aatk=291958|Adefense=194777|Ahp=20268678|Aweak=35751
+}}}}

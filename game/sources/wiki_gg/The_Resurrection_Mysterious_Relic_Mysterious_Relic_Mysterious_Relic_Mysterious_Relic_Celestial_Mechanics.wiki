@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Resurrection,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic,Celestial Mechanics
+|rank=orange
+|amount=6
+|category=minion
+|description=Mutant Minion HARD Stats +3.6%
+}}
+[[Category:Minion]]
+[[Category:Mutant Minion HARD Boost]]

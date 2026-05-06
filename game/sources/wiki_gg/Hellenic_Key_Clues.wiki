@@ -1,0 +1,421 @@
+{{WIP}}
+{{Missing Info|specifics=A lot. Added Requirements may be incorrect due to AFFCT Reduction}}
+
+==Key Clue Records==
+Complete these Key Clues in [[Hellas]] for various rewards and to fully progress through the Realm.
+
+==Olympus Myth==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +3}}, {{RewardIconWithText|B-Tad, +10K}}
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Master all Hellenic INTEL
+|Obtain all 47 [[Hellenic_INTEL#Hellenic INTEL|Hellenic INTEL]] tiles
+|-
+|Master all goddess strategy
+|Obtain all 71 [[Hellenic_INTEL#Godess' Guide INTEL|Godess' Guide INTEL]] tiles
+|}
+
+==Mediterranean Trading==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +500}}, {{RewardIconWithText|B-Tad, +15K}} 
+{| class="wikitable"
+!Event
+|-
+|Redeem all [[Hellenic Cards#Tier 1 (White)|limited cards (white)]]
+|-
+|Redeem all [[Hellenic Cards#Tier 2 (Green)|limited cards (green)]]
+|-
+|Redeem all [[Hellenic Cards#Tier 3 (Blue)|limited cards (blue)]]
+|-
+|Redeem all [[Hellenic Cards#Tier 4 (Purple)|limited cards (purple)]]
+|-
+|Redeem all [[Hellenic Cards#Tier 5 (Orange)|limited cards (orange)]]
+|}
+
+==Athena's Awakening==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +500}}, {{RewardIconWithText|Lottery Ticket, +3}} 
+{| class="wikitable"
+!Event
+|-
+|Collect all Posh type costumes
+|-
+|Collect all Moody type costumes
+|-
+|Collect all Cute type costumes
+|-
+|Collect all Wicked type costumes
+|}
+
+==Hellenic Treasures==
+'''Rewards:''' {{RewardIconWithText|Hellenic Treasure Map, +50}}, {{RewardIconWithText|Golden Pickaxe, +3|orange}}
+{| class="wikitable"
+!Event
+!<nowiki>#</nowiki> of items found
+!Rewards
+|-
+|Secret of Aries (Aries)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Toner, +60}}
+|-
+|Hellenic Gyros Box (Aries)||2||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Mecha Cell, +2000}},
+|-
+|Secret of Taurus (Taurus)||4||{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Travel Speedup, +1h}}
+|-
+|Dairy Gift Box (Taurus)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|B-Tad, +5000}}
+|-
+|Secret of Gemini (Gemini)||2||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Zombie Cell, +2000}}
+|-
+|Maid’s Handicraft (Gemini)||4||{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Refine Speedup, +2h}}
+|-
+|Secret of Cancer (Cancer)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Offering Speedup, +2h}}
+|-
+|Sealed Supplies (Cancer)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Clone Speedup, +2h}},
+|-
+|Secret of Leo (Leo)||2||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Angel Cell, +2000}}
+|-
+|Spartan Offering (Leo)||4||{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Novice Scroll, +10}},
+|-
+|Secret of Virgo (Virgo)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Stone, +2000}}
+|-
+|Maiden’s Gift (Virgo)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Demon Cell, +2000}}
+|-
+|Secret of Libra (Libra)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Travel Speedup, +1h}},
+|-
+|Scholar’s Document (Libra)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Clone Speedup, +2h}}
+|-
+|Secret of Scorpio (Scorpio)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Wood, +2000}}
+|-
+|Ancient Case (Scorpio)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Organ Slime, +60}},
+|-
+|Secret of Sagittarius (Sagittarius)||4||{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Angel Cell, +2000}},
+|-
+|Elven's Gift (Sagittarius)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Mutant Cell, +2000}},
+|-
+|Secret of Capricorn (Capricorn)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Refine Speedup, +2h}},
+|-
+|The Unclean (Capricorn)||2||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Demon Cell, +2000}},
+|-
+|Secret of Aquarius (Aquarius)||4||{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Offering Speedup, +2h}},
+|-
+|Philosopher's Legacy (Aquarius)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|B-Tad, +20k}},
+|-
+|Secret of Pisces (Pisces)||2||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Clone Speedup, +2h}},
+|-
+|Civilization Gift (Pisces)||4||{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Lottery Ticket, +1}},
+|}
+
+==Athena's Spear==
+'''Rewards:''' {{RewardIconWithText|Glue, +100}}, {{RewardIconWithText|Travel Speedup, +4h}}
+{| class="wikitable"
+!Event
+|-
+|Craft {{Gearlink|green|realm|Legion Javelins}}
+|-
+|Craft {{Gearlink|blue|realm|Macedonian Spear}}
+|-
+|Craft {{Gearlink|purple|realm|Hector Spear}}
+|-
+|Craft {{Gearlink|orange|realm|Stardust Arrow}}
+|-
+|Craft {{Gearlink|orange|realm|Eternal Empire Scepter}}
+|-
+|Craft {{Gearlink|red|realm|Athena Spear}}
+|}
+
+==Altar of Gods==
+'''Rewards:''' {{RewardIconWithText|Divine Order Chest, +50}}, {{RewardIcon|Achilles' Shield}} {{Gearlink|purple|realm|Achilles' Shield}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Apollo's Grace (Taurus)
+|Apollo Altar
+|15950 FTH
+|{{RewardIconWithText|Pie from Heaven, +10}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Hera's Grace (Virgo)
+|Hera Altar
+|16300 FTH
+|{{RewardIconWithText|Pie from Heaven, +10}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Artemis' Grace (Cancer)
+|Artemis Altar
+|16250 FTH
+|{{RewardIconWithText|Pie from Heaven, +10}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Dionysus Altar (Aquarius)
+|???
+|16050 FTH
+|{{RewardIconWithText|Pie from Heaven, +10}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Greco-Persian Wars==
+'''Rewards:''' {{RewardIconWithText|Evolution Chest, +100}}, {{RewardIconWithText|Gene Speedup, +3h}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Spartan Helmet (Scorpio)||Battle of Thermopylae||ART 16750?||{{RewardIconWithText|Gene Speedup, +15m}}, Meal Box Size +100
+|-
+|Spartan Hat (Gemini)||Defense of Athens||TECH 15500?||{{RewardIconWithText|Gene Speedup, +15m}}, Meal Box Size +100
+|-
+|Persian Navy Hat (Virgo)||Battle of Salamis||ART 16300?||{{RewardIconWithText|Gene Speedup, +15m}}, Meal Box Size +100
+|-
+|Persian Cavalry Hat (Aquarius)||Battle of Plataea||Display {{RewardIconWithLink|Nuclear Bomb|orange}}||{{RewardIconWithText|Gene Speedup, +15m}}, Meal Box Size +100
+|}
+
+There may be alternatives for the {{RewardIconWithLink|Nuclear Bomb|orange}}.
+
+==Peloponnesian War==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +500}}, {{RewardIconWithText|B-Tad, +10,000}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Peace of Nicias (Leo)||CIV 16050?||{{RewardIconWithText|W-Tad, +50}}, Meal Box Size +100
+|-
+|Spartan War Declaration (Scorpio)||ART 16800?||{{RewardIconWithText|W-Tad, +50}}, Meal Box Size +100
+|-
+|Alliance of Peace (Capricorn)||?||?
+|-
+|Athens War Declaration (Capricorn)||?||?
+|}
+
+==Spartan System==
+'''Rewards:''' {{RewardIconWithText|Clone Speedup, +3h}}, {{RewardIconWithText|B-Tad, +15,000}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Senate Order (Aries)||?||?
+|-
+|Commerce Ban (Libra)||TECH 16550?||?
+|-
+|Unknown (Capricorn)||?||?
+|-
+|Unknown (Sagittarius)||?||?
+|}
+
+==Tragedy of Byzantium==
+'''Rewards:''' {{RewardIcon|Wonder Fungus Orange ATK}} {{Retext|Orange ATK-Fungus|orange}} +1, {{RewardIconWithText|Magic Potion, +30}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Bloody Hood (Cancer)
+|Saracen Invasion
+|ART 16600?
+|{{RewardIcon|Wonder Fungus Green ATK}} {{Retext|Green ATK-Fungus|green}} +1, Meal Box Size +100
+|-
+|Bloody Cross Flag (Sagittarius)
+|Crusader's Pillage
+|ART 19500?
+|{{RewardIcon|Wonder Fungus Green RUSH}} {{Retext|Green RUSH-Fungus|green}} +1, Meal Box Size +100
+|-
+|Constan XI's Blade (Aquarius)
+|The Last Glory
+|ART 18350?
+|{{RewardIcon|Wonder Fungus Green HP}} {{Retext|Green HP-Fungus|green}} +1, Meal Box Size +100
+|}
+
+==Solon's Reforms==
+'''Rewards:''' {{RewardIconWithText|Demon Manual, +10}}, {{RewardIconWithText|Dragon Manual, +10}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Politics Reform Plan (Leo)
+|?
+|?
+|?
+|-
+|Law Reform Plan (Gemini)
+|?
+|?
+|?
+|-
+|Commerce Reform Plan (Virgo)
+|?
+|?
+|?
+|-
+|Constitution Reform Plan (Libra)
+|Make a New Code
+|Display {{RewardIconWithLink|Code of Law|blue}} or Display {{RewardIconWithLink|Twelve Tables|blue}}
+|?
+|}
+
+==Gods' Factions==
+'''Rewards:''' {{RewardIconWithText|Hellenic Treasure Map, +50}}, {{RewardIconWithText|Ad Chest, +100}}
+{| class="wikitable"
+!Event!!Rewards
+|-
+|Watch the Knight Hiring Ad (Scorpio)
+|Ad Chest +10, ???
+|-
+|Watch the Ocean Knight Hiring Ad (Taurus)
+|Ad Chest +10, ???
+|-
+|Watch the Nether Knight Hiring Ad (Libra)
+|Ad Chest +10, ???
+|-
+|Watch the Divine Knight Hiring Ad (Leo)
+|Ad Chest +10, ???
+|}
+
+==Balkan Powder Keg==
+'''Rewards:''' {{RewardIconWithText|Wish Coin, +1}}, {{RewardIconWithText|Evolution Chest, +100}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Blasting Fuse (Aries)
+|Overcast Sky
+|CIV 15050?
+|{{RewardIconWithText|Demon Cell, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Strategic Map (Cancer)
+|Coliseum of Great Powers
+|CIV 15800?
+|{{RewardIconWithText|Zombie Cell, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Treaty of Londorn (Pisces)
+|War of Balkans
+|CIV 16075?
+|{{RewardIconWithText|Mutant Cell, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Recapture the Sanctuary==
+'''Rewards:''' {{RewardIconWithText|Travel Speedup, +2h}}, {{RewardIconWithText|B-tad, +10k}}
+{| class="wikitable"
+!Event!!Rewards
+|-
+|Sagittarius Conquest
+|???
+|-
+|Capricorn Conquest
+|???
+|-
+|Aquarius Conquest
+|???
+|-
+|Pisces Conquest
+|???
+|}
+
+==Alexander's Conquest==
+'''Rewards:''' {{RewardIconWithLink|Alexander's Anabasis|green}}, {{RewardIconWithText|Clone Speedup, +3h}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Tyrian Head (Capricorn)
+|To the East
+|ART 18000?
+|{{RewardIconWithText|Clone Speedup, +15m}}, Meal Box Size +100
+|-
+|Persian Head (Aries)
+|Persian Conquest
+|ART 15850?
+|{{RewardIconWithText|Clone Speedup, +15m}}, Meal Box Size +100
+|-
+|Hellenic Head (Scorpio)
+|Bharata Expedition
+|ART 17500?
+|???
+|}
+
+==Polis==
+'''Rewards:''' {{RewardIconWithText|Stone, +2000}}, {{RewardIconWithText|Wood, +2000}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Corinth City Blueprint (Taurus)
+|Establishment of Corinth
+|TECH 15300?
+|{{RewardIconWithText|Wood, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Siracuse City Blueprint (Aries)
+|Establishment of Siracuse
+|TECH 17500?
+|{{RewardIconWithText|Stone, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Mycenae City Blueprint (Pisces)
+|Establishment of Mycenae
+|TECH 18600?
+|{{RewardIconWithText|Wood, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Chalcis City Blueprint (Gemini)
+|Establishment of Chalcis
+|TECH 18000?
+|{{RewardIconWithText|Stone, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Olympic Games==
+'''Rewards:''' {{RewardIconWithLink|Euclid's Elements|blue}}, {{RewardIconWithText|Offering Speedup, +3h}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Gold Medal-Shot Put (Gemini)
+|Shot Put Competition
+|FAME 18000?
+|{{RewardIconWithText|Offering Speedup, +15m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Gold Medal-Javelin (Pisces)
+|Javelin Competition
+|FAME 18500?
+|{{RewardIconWithText|Offering Speedup, +15m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Gold Medal-Sprint (Pisces)
+|Sprint Race
+|FAME 18600?
+|{{RewardIconWithText|Offering Speedup, +15m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Cleanse the Monsters==
+'''Rewards:''' {{RewardIconWithText|Organ Chest, +100}}, {{RewardIconWithText|Lava Gallbladder, +1}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Horn of Cursed Titan (Cancer)
+|???
+|???
+|???
+|-
+|Horn of Cursed Ares (Leo)
+|???
+|???
+|???
+|-
+|Horn of Cursed Hades (Libra)
+|???
+|???
+|???
+|-
+|Sin of Poseidon (Sagittarius)
+|???
+|15550 Fame
+|{{RewardIconWithText|Organ Slime, +10}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Horn of Cursed Zeus (Capricorn)
+|???
+|???
+|???
+|}
+
+==The Prosperity of Macedonia==
+'''Rewards:''' {{RewardIconWithText|Refine Speedup, +3h}}, {{RewardIconWithText|Superstar Ad Flyer, +5}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Ceremony Invitation (Sagittarius)
+|Philip II's Ascendance
+|CIV 19500?
+|{{RewardIconWithText|Refine Speedup, +15m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Kingdom Document (Aries)
+|Strengthening the Monarchy
+|CIV 16500?
+|{{RewardIconWithText|Refine Speedup, +15m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Reform Document (Virgo)
+|Monetary Reform
+|CIV 18750?
+|{{RewardIconWithText|Refine Speedup, +15m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Alliance Terms (Aquarius)
+|League of Corinth
+|TECH 18200?
+|{{RewardIconWithText|Refine Speedup, +15m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}

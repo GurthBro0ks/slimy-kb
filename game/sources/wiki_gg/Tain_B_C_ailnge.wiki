@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Tain Bó Cúailnge
+|class_id=22683
+|rank=SSS
+|affct=FAITH
+|birthday=12-14
+|source=
+|description=On Dec 14, 554 AD, a bard was compiling the anecdotes he had collected.<br>Tain Bó Cúailnge, also known as "The Táin", is a representative work of Irish hero stories from the 18th century's Annals of the Four Masters, and is also Ireland's greatest epic of heroism. The story tells of Queen Maeve leading the Connacht Alliance to attack Ulster and capture the stud bull Donn Cuailnge. Ireland was the first colony of Britain and the first country to break free from British colonialism. Due to the neighboring country's colonial rule, Ireland's long literary tradition has experienced a clear break, and the stories included in "Tain Bó Cúailnge" are mostly incomplete.
+|fame=62
+|art=71
+|fth=108
+|civ=49
+|tech=72
+|ss1=Craft 1 Blue Coating: 3% chance to get 1 more.<br>Craft 1 Purple Coating: Gain 1 more by 3%<br>Per 100 Recruit Tokens consumed, Snail RUSH +3<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Craft 1 Blue Coating: 4% chance to get 1 more.<br>Craft 1 Purple Coating: Gain 1 more by 4%<br>Per 100 Recruit Tokens consumed, Snail RUSH +4<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Craft 1 Blue Coating: 5% chance to get 1 more.<br>Craft 1 Purple Coating: Gain 1 more by 5%<br>Per 100 Recruit Tokens consumed, Snail RUSH +5<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Craft 1 Blue Coating: 7% chance to get 1 more.<br>Craft 1 Purple Coating: Gain 1 more by 7%<br>Per 100 Recruit Tokens consumed, Snail RUSH +7<br>Consumed Recruit Tokens: 5000/5000
+|ss5=Craft 1 Blue Coating: 9% chance to get 1 more.<br>Craft 1 Purple Coating: Gain 1 more by 9%<br>Per 100 Recruit Tokens consumed, Snail RUSH +9<br>Consumed Recruit Tokens: 5000/5000
+|ss6=Craft 1 Blue Coating: 12% chance to get 1 more.<br>Craft 1 Purple Coating: Gain 1 more by 12%<br>Per 100 Recruit Tokens consumed, Snail RUSH +12<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Craft 1 Blue Coating: 12% chance to get 1 more.<br>Craft 1 Purple Coating: Gain 1 more by 12%<br>Per 100 Recruit Tokens consumed, Snail RUSH +12<br>Consumed Recruit Tokens: 5000/5000<br>Craft 1 Blue Coating: 10% chance to get 1 more. (Awakened)
+|skill1=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: Purple rewards from this egg turn Orange by 3%
+|skill2=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: This Relic's FTH +15
+|skill3=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: Offering Egg hatching efficiency +30%
+|mirage={{Mirage|name=The Ulster Saga|reward={{RewardIconWithLink|Eye of Horus, +1|orange}}
+|3name=Fergus|3rec=113.66M|3atk=323842|3defense=203809|3hp=17566182|3weak=35758
+|4name=Conchorbor|4rec=155.46M|4atk=422728|4defense=262613|4hp=26690295|4weak=39390
+|5name=Medb|5rec=224.65M|5atk=589906|5defense=359957|5hp=50901540|5weak=46817
+|6name=Cúchulainn|6rec=330.38M|6atk=772485|6defense=459790|6hp=85203632|6weak=52737
+|Arec=450.56M|Aatk=974486|Adefense=567912|Ahp=140003819|Aweak=57915
+}}}}

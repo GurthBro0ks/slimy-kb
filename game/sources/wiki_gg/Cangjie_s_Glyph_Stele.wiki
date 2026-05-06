@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Cangjie’s Glyph Stele
+|class_id=21238
+|rank=SSS
+|affct=FAITH
+|source=
+|description=Legendary origin of Chinese writing. These stele fragments preserve proto-oracle scripts, using pictographs and ideograms to lay the foundation for Chinese character classification. As the genesis of East Asian writing, their creation myths reflect ancient reverence for recorded knowledge—from Shang dynasty bone divination to Qin-Han bamboo scrolls, all stem from this primordial spark of civilization.
+|fame=63
+|art=67
+|fth=106
+|civ=55
+|tech=71
+|ss1=Per 60 T8+ Minions deployed, Troop ATK +36<br>Per 5 LVL Block built, Snail HP +30<br>Per 5 LVL Block built, Priest-Troop Assistance DMG +24<br>Block LVL: 300/300
+|ss2=Per 60 T8+ Minions deployed, Troop ATK +48<br>Per 5 LVL Block built, Snail HP +40<br>Per 5 LVL Block built, Priest-Troop Assistance DMG +32<br>Block LVL: 300/300
+|ss3=Per 60 T8+ Minions deployed, Troop ATK +60<br>Per 5 LVL Block built, Snail HP +50<br>Per 5 LVL Block built, Priest-Troop Assistance DMG +40<br>Block LVL: 300/300
+|ss4=Per 60 T8+ Minions deployed, Troop ATK +84<br>Per 5 LVL Block built, Snail HP +70<br>Per 5 LVL Block built, Priest-Troop Assistance DMG +56<br>Block LVL: 300/300
+|ss5=Per 60 T8+ Minions deployed, Troop ATK +108<br>Per 5 LVL Block built, Snail HP +90<br>Per 5 LVL Block built, Priest-Troop Assistance DMG +72<br>Block LVL: 300/300
+|ss6=Per 60 T8+ Minions deployed, Troop ATK +144<br>Per 5 LVL Block built, Snail HP +120<br>Per 5 LVL Block built, Priest-Troop Assistance DMG +96<br>Block LVL: 300/300
+|ss7=Per 60 T8+ Minions deployed, Troop ATK +144<br>Per 5 LVL Block built, Snail HP +120<br>Per 5 LVL Block built, Priest-Troop Assistance DMG +96<br>Block LVL: 300/300<br>Per 60 T8+ Minions deployed, Troop ATK +120 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+}}

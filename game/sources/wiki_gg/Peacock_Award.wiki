@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Peacock Award
+|class_id=20529
+|rank=Green
+|affct=CIV
+|source=
+|description=The Peacock Award, presented by the International Film Festival of India, is one of the most influential film festival awards in Asia. The main purpose of hosting the International Film Festival of India is to provide a screening venue for excellent films from around the world. The festival only exhibits films during even years and holds competitions and awards ceremonies in odd years, making the awards even more rare and precious compared to other film festivals.
+|fame=15
+|art=16
+|fth=16
+|civ=29
+|tech=14
+|ss1=Catalyzed Purple Spores turn to Orange by +0.1%
+|ss2=Catalyzed Purple Spores turn to Orange by +0.2%
+|ss3=Catalyzed Purple Spores turn to Orange by +0.3%
+|ss4=Catalyzed Purple Spores turn to Orange by +0.3%
+|ss7=Catalyzed Purple Spores turn to Orange by +0.3%<br> (Awakened)
+}}

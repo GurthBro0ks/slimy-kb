@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Only the most pious devotee would carry an altar weighing more than 5 kg on themselves. Their devotion is the fuel to the divine fire and what keeps it burning!
+|affct=FTH
+|hard=DEF
+|source=$14.99 Altar Value Pack
+|color=blue
+|earth=3
+|water=3
+|fire=4
+|wind=4
+|form=Angel
+|element=Fire
+|realm=Yamato
+|orangehard=ATK
+}}

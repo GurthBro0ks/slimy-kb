@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Hugo Award
+|class_id=22224
+|rank=SSS
+|affct=FAME
+|birthday=07-08
+|source=
+|description=On Jul 8, 1953 AD, the World Science Fiction Association issued the first Hugo Award.<br>The Hugo Award is to commemorate the founder of modern science fiction novel, Hugo Gernsback. It is a key event of the World SF Annual Conference organized by the World Science Fiction Association. The Hugo Award is considered the highest honor in the world of science fiction and fantasy creation. Works that win the Hugo Award will usually be published in an anthology, and the logo of the Hugo Award will also be printed on the cover of the award-winning work for publicity.
+|fame=106
+|art=63
+|fth=48
+|civ=63
+|tech=82
+|ss1=Snail Leadership +3<br>All Minion RUSH +0.6%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Snail Leadership +4<br>All Minion RUSH +0.8%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Snail Leadership +5<br>All Minion RUSH +1%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Snail Leadership +7<br>All Minion RUSH +1.4%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Snail Leadership +9<br>All Minion RUSH +1.8%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Snail Leadership +12<br>All Minion RUSH +2.4%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Snail Leadership +12<br>All Minion RUSH +2.4%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, FAME Checks -600
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Snail ATK +600
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's FAME +15
+|mirage={{Mirage|name=Famous Science Fiction Works|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Dune|3rec=26.38M|3atk=121420|3defense=81004|3hp=4300953|3weak=18596
+|4name=Hyperion|4rec=37.00M|4atk=143829|4defense=95954|4hp=5910471|4weak=19657
+|5name=The Gods Themselves|5rec=49.22M|5atk=169600|5defense=113147|5hp=7934538|5weak=21583
+|6name=Galactic Empire|6rec=62.82M|6atk=198274|6defense=132276|6hp=10442659|6weak=25143
+|Arec=77.48M|Aatk=229190|Adefense=152901|Ahp=13503651|Aweak=30423
+}}}}

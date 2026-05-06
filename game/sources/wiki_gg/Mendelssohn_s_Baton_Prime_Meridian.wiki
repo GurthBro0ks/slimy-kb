@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=693
+|relics=Mendelssohn's Baton,Prime Meridian
+|rank=purple
+|amount=2
+|category=self
+|description=Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +48;Prairie Sanctum Rating Pts: 100000/100000
+}}

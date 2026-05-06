@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Hammurabi Code
+|rank=SS
+|affct=FAME
+|birthday=10-21
+|source=Demon Chest (5%), Fragment Crafting (4.6%), Grandmaster Scrolls (1.5%), Lottery Machine (0.18%), Wishing (0.17%)
+|description=On Oct 21, 1760 BC, the oldest existing law was issued and engraved on a pillar. On the Sun-god Shamash's birthday.
+
+Shamash handed Hammurabi a scepter, granting him kingship, as well as the code of Hammurabi. The code, consists of three parts: the preface, the main text, which includes 282 rules, and the conclusion. Hammurabi were intended to bring justice across the land and eliminate evil through the law so that the strong could not oppress the weak, and people could enjoy a fairer society consequently.
+|fame=103
+|art=65
+|fth=68
+|civ=48
+|tech=63
+|ss1=Snail ATK +20<br>Per 2k Relic Points, Snail HP +40<br>Per 2k Relic Points, Snail DEF +4<br>Relic Points: 20,000/20,000 
+|ss2=Snail ATK +30<br>Per 2k Relic Points, Snail HP +40<br>Per 2k Relic Points, Snail DEF +4<br>Relic Points: 30,000/30,000
+|ss3=Snail ATK +40<br>Per 2k Relic Points, Snail HP +40<br>Per 2k Relic Points, Snail DEF +4<br>Relic Points: 40,000/40,000
+|ss4=Snail ATK +60<br>Per 2k Relic Points, Snail HP +40<br>Per 2k Relic Points, Snail DEF +4<br>Relic Points: 60,000/60,000
+|ss5=Snail ATK +80<br>Per 2k Relic Points, Snail HP +40<br>Per 2k Relic Points, Snail DEF +4<br>Relic Points: 80,000/80,000
+|ss6=Snail ATK +110<br>Per 2k Relic Points, Snail HP +40<br>Per 2k Relic Points, Snail DEF +4<br>Relic Points: 110,000/110,000
+|ss7=Snail ATK +110<br>Per 2k Relic Points, Snail HP +40<br>Per 2k Relic Points, Snail DEF +4<br>Relic Points: 110,000/110,000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: This Relic's FAME +15
+|skill2=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Find Ancient Wood by +30%
+|skill3=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Max Cap +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:HP Boost]]
+[[Category:DEF Boost]]
+[[Category:Relic Boost]]
+[[Category:Lumber Camp Skill]]
+[[Category:FAME Boost]]
+[[Category:Ancient Wood Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Divine Dragon Descents Boost]]
+[[Category:RUSH Boost]]
+[[Category:Realm Boost]]
+[[Category:Rewards Crystal of Will]]

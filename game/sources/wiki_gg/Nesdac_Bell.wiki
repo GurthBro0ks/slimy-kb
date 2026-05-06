@@ -1,0 +1,19 @@
+{{CargoRelic
+|name=Nesdac Bell
+|class_id=20921
+|rank=Blue
+|affct=FAME
+|source=
+|description=Nesdac is an electronic stock exchange owned and operated by Nesdac, Inc. It is one of the largest stock markets in the world. When the stock market opens in the morning, investors from all over the world will begin trading stocks on the phone or online. Many financial legends were born and destroyed here!
+|fame=48
+|art=28
+|fth=31
+|civ=23
+|tech=25
+|ss1=Snail HP +500<br>W-tads gained from VIP Silver Card +50<br>Expert Scrolls gained from VIP Silver Card +1<br>Daily Silver Packs are available in Snail Store
+|ss2=Snail HP +500<br>W-tads gained from VIP Silver Card +50<br>Expert Scrolls gained from VIP Silver Card +1<br>Daily Silver Packs are available in Snail Store
+|ss3=Snail HP +500<br>W-tads gained from VIP Silver Card +50<br>Expert Scrolls gained from VIP Silver Card +1<br>Daily Silver Packs are available in Snail Store
+|ss4=Snail HP +500<br>W-tads gained from VIP Silver Card +50<br>Expert Scrolls gained from VIP Silver Card +1<br>Daily Silver Packs are available in Snail Store
+|ss7=Snail HP +500<br>W-tads gained from VIP Silver Card +50<br>Expert Scrolls gained from VIP Silver Card +1<br>Daily Silver Packs are available in Snail Store<br>W-tads gained from VIP Silver Card +50 (Awakened)
+|skill1=[[File:Lumbercamp skill I.png|50px]]Place in Lumber Camp: Wood Output +5%
+}}

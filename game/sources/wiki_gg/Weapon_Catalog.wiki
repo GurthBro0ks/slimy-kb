@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Weapon Catalog
+|class_id=20464
+|rank=Green
+|affct=FAME
+|source=
+|description=It is a ranking chart of all the martial art forms and weapons in the world made by Mr. Know It All. It always draws much attention in the Mantis clan. But such attention also caused a lot of murders of the weapon owners on the list.
+|fame=28
+|art=15
+|fth=19
+|civ=15
+|tech=13
+|ss1=World Leaderboards Likes gives +2% B-tads<br>Per Orange+ Gear equipped, Snail ATK +2
+|ss2=World Leaderboards Likes gives +4% B-tads<br>Per Orange+ Gear equipped, Snail ATK +4
+|ss3=World Leaderboards Likes gives +6% B-tads<br>Per Orange+ Gear equipped, Snail ATK +6
+|ss4=World Leaderboards Likes gives +6% B-tads<br>Per Orange+ Gear equipped, Snail ATK +6
+|ss7=World Leaderboards Likes gives +6% B-tads<br>Per Orange+ Gear equipped, Snail ATK +6<br> (Awakened)
+}}

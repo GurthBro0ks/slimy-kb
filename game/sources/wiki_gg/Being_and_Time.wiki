@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Being and Time
+|class_id=21337
+|rank=SSS
+|affct=CIV
+|source=
+|description=This existentialist classic explores what it means to live authentically. Heidegger argued that awareness of death grounds true selfhood. He redefined time as an intertwined flow of past, present, and future. Its critique of passive existence reshaped 20th-century philosophy.
+|fame=80
+|art=66
+|fth=61
+|civ=108
+|tech=47
+|ss1=Snail Leadership +3<br>Per 60 T8+ Minions deployed, Troop RUSH +30<br>Per Spatial Realm participation, Snail RUSH +6<br>Spatial Realm Participation: 30/30
+|ss2=Snail Leadership +4<br>Per 60 T8+ Minions deployed, Troop RUSH +40<br>Per Spatial Realm participation, Snail RUSH +8<br>Spatial Realm Participation: 30/30
+|ss3=Snail Leadership +5<br>Per 60 T8+ Minions deployed, Troop RUSH +50<br>Per Spatial Realm participation, Snail RUSH +10<br>Spatial Realm Participation: 30/30
+|ss4=Snail Leadership +7<br>Per 60 T8+ Minions deployed, Troop RUSH +70<br>Per Spatial Realm participation, Snail RUSH +14<br>Spatial Realm Participation: 30/30
+|ss5=Snail Leadership +9<br>Per 60 T8+ Minions deployed, Troop RUSH +90<br>Per Spatial Realm participation, Snail RUSH +18<br>Spatial Realm Participation: 30/30
+|ss6=Snail Leadership +12<br>Per 60 T8+ Minions deployed, Troop RUSH +120<br>Per Spatial Realm participation, Snail RUSH +24<br>Spatial Realm Participation: 30/30
+|ss7=Snail Leadership +12<br>Per 60 T8+ Minions deployed, Troop RUSH +120<br>Per Spatial Realm participation, Snail RUSH +24<br>Spatial Realm Participation: 30/30<br>Per 60 T8+ Minions deployed, Troop RUSH +120 (Awakened)
+|skill1=[[File:Murkyglen skill III.png|50px]]Placed in Murky Glen:Murky Glen, Zone SUP effect reduced by 30%
+|skill2=[[File:Murkyglen skill III.png|50px]]Placed in Murky Glen:Murky Glen, Offering Speedup output speed+30%
+|skill3=[[File:Murkyglen skill III.png|50px]]Placed in Murky Glen:Murky Glen, Relic CIV +15
+}}

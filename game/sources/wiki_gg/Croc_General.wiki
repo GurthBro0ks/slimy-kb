@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Croc General
+|rank=purple
+|cabin=2
+|id=94
+|gene1={race} HP +300
+|gene2={race} CIV +30
+|gene3=Per 30 Mecha Minions in battle:
+> Troop HP +80
+|gene4=For Round 1, CRIT DMG +1%
+|gene5=Per 30 Mecha Minions in battle:
+> Troop HP +120
+|gene6=For Round 1, CRIT DMG +1.5%
+|}}

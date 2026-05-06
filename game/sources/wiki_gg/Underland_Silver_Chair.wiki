@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Underland Silver Chair
+|class_id=22550
+|rank=AA
+|affct=FAITH
+|birthday=02-22
+|source=Lottery Machine No.3 (0.12%)
+|description=On Feb 22, 562 AD, the evil Queen of the Underland used the Silver Chair to control the prince's mind.<br>The Silver Chair is a magical chair with the power to brainwash people, created by the evil Queen of the Underland in her plot to seize the throne. She kidnaps the prince and uses the chair to control his mind, expanding her domain in the underland. However, things do not go as planned: with the help of two visitors from another world, the prince regains his senses and ultimately defeats the Queen with a clever disguise. The Silver Chair is then sealed away as a forbidden object.
+|fame=38
+|art=48
+|fth=67
+|civ=35
+|tech=40
+|ss1=Per 10,000 Fervor, Priest-Snail Assistance DMG+16<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +16<br>Fervor: 500000/500000
+|ss2=Per 10,000 Fervor, Priest-Snail Assistance DMG+24<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +24<br>Fervor: 500000/500000
+|ss3=Per 10,000 Fervor, Priest-Snail Assistance DMG+32<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +32<br>Fervor: 500000/500000
+|ss4=Per 10,000 Fervor, Priest-Snail Assistance DMG+48<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +48<br>Fervor: 500000/500000
+|ss5=Per 10,000 Fervor, Priest-Snail Assistance DMG+64<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +64<br>Fervor: 500000/500000
+|ss7=Per 10,000 Fervor, Priest-Snail Assistance DMG+64<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +64<br>Fervor: 500000/500000<br>Protomon Snail assist DMG + 560 (Awakened)
+|skill1=[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: In Minion Sims, Troop DEF +4.5%
+|skill2=[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: In Minion Sims, Troop Fire DMG +30
+}}

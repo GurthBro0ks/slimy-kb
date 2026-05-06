@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Sparkler Award,Wild Pansy's Juice,Pakal's Sarcophagus,The Fifer,Red Dot Award,Treasure Island
+|rank=purple
+|amount=6
+|category=Wormhole Boost
+|description=Wormhole Refinement SPD +6%
+}}
+
+[[Category:Wormhole Refinement SPD Boost]]

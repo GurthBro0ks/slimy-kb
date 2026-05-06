@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Sunflowers,Mona Lisa
+|rank=orange
+|amount=2
+|category=self
+|description=Per 3 Orange Relics gained, Snail RUSH +28<br>Orange Relics: 60/60
+}}
+[[Category:Self]]

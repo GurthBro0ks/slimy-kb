@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=402
+|relics=Celaeno Fragments,Popol Vuh
+|rank=purple
+|amount=2
+|category=self
+|description=Snail ATK +60
+}}

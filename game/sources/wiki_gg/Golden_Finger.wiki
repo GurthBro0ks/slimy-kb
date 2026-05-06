@@ -1,0 +1,44 @@
+{{CargoRelic
+|name=Golden Finger
+|rank=S
+|affct=FTH
+|birthday=08-26
+|source=* FTH Master Scrolls (31.5%), Fragment Crafting (15.1%), Lottery Machine (0.81%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), Wishing (0.53%)
+* Tap the rock in front of the garage 999 times
+* Give [[Mailbox#Peter Jr.|Peter Jr.]] 20 0-star reviews in the same conversation
+|description=On Aug 26, 2020 AD, a god gamer fainted from exhaustion.
+
+After 999 taps, the legendary gamer overcame all odds and activated the power of the Golden Finger, launching a successful career in hacking. From then on, no game was ever a challenge. Gaming companies threatened to sue, but to no avail.
+|fame=61
+|art=54
+|fth=100
+|civ=64
+|tech=53
+|ss1=Tadpole Pond upgrade B-tad Cost -1%<br>Fungus Farm upgrade B-tad Cost -1%<br>Time Machine upgrade B-tad Cost -1%
+|ss2=Tadpole Pond upgrade B-tad Cost -2%<br>Fungus Farm upgrade B-tad Cost -2%<br>Time Machine upgrade B-tad Cost -2% 
+|ss3=Tadpole Pond upgrade B-tad Cost -3%<br>Fungus Farm upgrade B-tad Cost -3%<br>Time Machine upgrade B-tad Cost -3%
+|ss4=Tadpole Pond upgrade B-tad Cost -5%<br>Fungus Farm upgrade B-tad Cost -5%<br>Time Machine upgrade B-tad Cost -5%
+|ss5=Tadpole Pond upgrade B-tad Cost -7%<br>Fungus Farm upgrade B-tad Cost -7%<br>Time Machine upgrade B-tad Cost -7%
+|ss6=Tadpole Pond upgrade B-tad Cost -10%<br>Fungus Farm upgrade B-tad Cost -10%<br>Time Machine upgrade B-tad Cost -10%
+|ss7=Tadpole Pond upgrade B-tad Cost -10%<br>Fungus Farm upgrade B-tad Cost -10%<br>Time Machine upgrade B-tad Cost -10%<br>Time Machine upgrade B-tad Cost -10% (Awakened)
+|skill1={{Skills|yamato|btad drops|15}}
+|skill2={{Skills|quarry|stone output|30}}
+|skill3={{Skills|lumbercamp|wood output|30}}
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Tadpole Pond Upgrade Cost Reduction]]
+[[Category:Fungus Farm Upgrade Cost Reduction]]
+[[Category:Time Machine Upgrade Cost Reduction]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Quarry Skill]]
+[[Category:Quarry Output Boost]]
+[[Category:Lumber Camp Skill]]
+[[Category:Lumber Camp Output Boost]]
+[[Category:DEF Boost]]
+[[Category:DEF-Fungi Boost]]
+[[Category:Realm Boost]]
+[[Category:Rewards Crystal of Will]]
+[[Category:Chika Boost]]

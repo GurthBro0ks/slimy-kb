@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=245
+|relics=Napoleonic Code,Encyclopedia,Divine Comedy
+|rank=orange
+|amount=3
+|category=self
+|description=Per 60 Minions in battle: Troop HARD Stats +24
+}}

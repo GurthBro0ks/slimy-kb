@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Somersault Cloud,Voyager 1
+|rank=orange
+|amount=2
+|category=other
+|description=In any Realm, B-tads gained +2.8%
+}}
+[[Category:Other]]

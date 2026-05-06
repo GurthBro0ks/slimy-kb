@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Cuneiform Tablet
+|rank=SS
+|affct=CIV
+|birthday=11-16
+|source=CIV Master Scrolls (10.2%), Fragment Crafting (5.5%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), Super Species Chest (5.5%), Wishing (0.2%)
+|description=On Nov 16, 3000 BC, Cuneiform was developed and became a common language used for business.
+The Sumerian cuneiform script was written with a triangular-pointed pen made of reed stalks or wooden sticks to create different thicknesses. Later, it was known as the ancient cuneiform of the Mesopotamia.
+Most of the discovered cuneiforms are written on mud slabs, while some are written on stone, metal, or wax plates. This scripts is deciphered based on Bisotun Inscriptions, which includes the Cuneiform, Elamite, and Old Persian scripts.
+|fame=63
+|art=71
+|fth=61
+|civ=105
+|tech=47
+|ss1=In explorations, 2x Green Card Drops +0.8%<br>In explorations, 2x Blue Card Drops +0.8%<br>In explorations, 2x Purple Card Drops +0.8%
+|ss2=In explorations, 2x Green Card Drops +1.2%<br>In explorations, 2x Blue Card Drops +1.2%<br>In explorations, 2x Purple Card Drops +1.2%
+|ss3=In explorations, 2x Green Card Drops +1.6%<br>In explorations, 2x Blue Card Drops +1.6%<br>In explorations, 2x Purple Card Drops +1.6%
+|ss4=In explorations, 2x Green Card Drops +2.4%<br>In explorations, 2x Blue Card Drops +2.4%<br>In explorations, 2x Purple Card Drops +2.4%
+|ss5=In explorations, 2x Green Card Drops +3.2%<br>In explorations, 2x Blue Card Drops +3.2%<br>In explorations, 2x Purple Card Drops +3.2%
+|ss6=In explorations, 2x Green Card Drops +4.4%<br>In explorations, 2x Blue Card Drops +4.4%<br>In explorations, 2x Purple Card Drops +4.4%
+|ss7=In explorations, 2x Green Card Drops +4.4%<br>In explorations, 2x Blue Card Drops +4.4%<br>In explorations, 2x Purple Card Drops +4.4%<br>In explorations, 2x Blue Card Drops +4% (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail HP +6,000
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Upon Traveling through an area, gain +30 INTEL
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's CIV +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Exploration Card Drop Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:HP Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:CIV Boost]]
+[[Category:Minion DEF Boost]]
+[[Category:Realm Boost]]
+[[Category:Rewards Organs]]

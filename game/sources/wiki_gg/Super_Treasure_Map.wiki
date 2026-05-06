@@ -1,0 +1,19 @@
+== Rewards ==
+* {{Reward|Item=[[Dragon Orb]]|Count=1|Chance=0.0997}}
+* {{Reward|Item=[[Incense]]|Count=1|Chance=0.0997}}
+
+* {{Reward|Item=[[Leaf of Yggdrasil]]|Count=1|Chance=0.15}}
+* {{Reward|Item=[[Hubble Telescope]]|Count=1|Chance=0.15}}
+* {{Reward|Item=[[Tutankhamun Mask]]|Count=1|Chance=0.15}}
+* {{Reward|Item=[[Paradise Lost]]|Count=1|Chance=0.15}}
+* {{Reward|Item=[[DOI]]|Count=1|Chance=0.05}}
+* {{Reward|Item=[[SkyWeb Hub]]|Count=1|Chance=0.05}}
+* {{Reward|Item=[[Forbidden Fruit]]|Count=1|Chance=0.05}}
+* {{Reward|Item=[[The School of Athens]]|Count=1|Chance=0.05}}
+* {{Reward|Item=[[Somersault Cloud]]|Count=1|Chance=0.0003}}
+* {{Reward|Item=[[Athena Statue]]|Count=1|Chance=0.0003}}
+
+== Sources ==
+{{#cargo_query:table=Rewards|fields=Item,Chance|where=item = '{{PAGENAME}}'}}
+
+[[Category:Treasure Map]]

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Gem Globe
+|class_id=22140
+|rank=AAA
+|affct=ART
+|birthday=11-14
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Nov 14, 1875 AD, the Gem Globe was delivered to the Persien Shah.<br>The Gem Globe was commissioned by Nasseridin Shah to preserve a large number of scattered gems. Emeralds are used to portray water on the staff, and rubies and carnelians portray land. Africa and Egypt are set with blocks of sapphire while Iran, Britain, France, and parts of South Asia are shown in diamonds. Rubies delineate the equator, the parallels and meridians. The entire globe comprises more than fifty thousand gems.
+|fame=30
+|art=74
+|fth=47
+|civ=51
+|tech=41
+|ss1=Dragon Minion DEF +3%<br>Per 30 Dragon Minions in battle:<br>> Troop HARD Stats +6
+|ss2=Dragon Minion DEF +4%<br>Per 30 Dragon Minions in battle:<br>> Troop HARD Stats +8
+|ss3=Dragon Minion DEF +5%<br>Per 30 Dragon Minions in battle:<br>> Troop HARD Stats +10
+|ss4=Dragon Minion DEF +7%<br>Per 30 Dragon Minions in battle:<br>> Troop HARD Stats +14
+|ss5=Dragon Minion DEF +9%<br>Per 30 Dragon Minions in battle:<br>> Troop HARD Stats +18
+|ss7=Dragon Minion DEF +9%<br>Per 30 Dragon Minions in battle:<br>> Troop HARD Stats +18<br>Per 30 Dragon Minions in battle:<br>> Troop HARD Stats +14 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail ART +400
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +3%
+}}

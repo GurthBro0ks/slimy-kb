@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Sputnik 1
+|rank=SS
+|affct=TECH
+|birthday=10-07
+|source=Club Chest (1%), Fragment Crafting (3.9%), Grandmaster Scrolls (1.5%), Lottery Machine (0.18%), Wishing (0.14%)
+|description=Up till Oct 7, 1957 AD, Sputnik 1 had been traveling in the universe for days. Sputnik, launched by the Soviet Union, was the first man-made satellite. It signaled to the Earth data on air pressure and temperature changes in the sky. After it launched, it returned a signal for three weeks, spent over three months in orbit, circled the Earth more than a thousand times, and finally re-entered Earth's atmosphere and burned up.
+
+[Basic info]
+
+Weight: 83.5kg. Material: Aluminum alloy. Carrying: Radar transmitter.
+|fame=57
+|art=46
+|fth=69
+|civ=71
+|tech=104
+|ss1=Time Machine Max Cap +4%<br>Time Machine Travel Speedup Output +4%<br>The Time Machine has a +4% chance to generate Time Chests
+|ss2=Time Machine Max Cap +6%<br>Time Machine Travel Speedup Output +6%<br>The Time Machine has a +6% chance to generate Time Chests
+|ss3=Time Machine Max Cap +8%<br>Time Machine Travel Speedup Output +8%<br>The Time Machine has a +8% chance to generate Time Chests
+|ss4=Time Machine Max Cap +12%<br>Time Machine Travel Speedup Output +12%<br>The Time Machine has a +12% chance to generate Time Chests
+|ss5=Time Machine Max Cap +16%<br>Time Machine Travel Speedup Output +16%<br>The Time Machine has a +16% chance to generate Time Chests
+|ss6=Time Machine Max Cap +22%<br>Time Machine Travel Speedup Output +22%<br>The Time Machine has a +22% chance to generate Time Chests
+|ss7=Time Machine Max Cap +22%<br>Time Machine Travel Speedup Output +22%<br>The Time Machine has a +22% chance to generate Time Chests<br>The Time Machine has a +20% chance to generate Time Chests (Awakened)
+|skill1={{Reimg|Yamato skill III}}Place in Yamato Museum: In Yamato, 2x Orange Reagent Drops +15%
+|skill2={{Reimg|Yamato skill III}}Place in Yamato Museum: Medal Cost for Expert Scrolls -300
+|skill3={{Reimg|Timemachine skill III}}Place in Time Machine: Generate Time Chests by +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Time Machine Output Boost]]
+[[Category:Time Chest Output]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Medal Boost]]
+[[Category:Time Machine Skill]]
+[[Category:Minion DEF Boost]]
+[[Category:Reagent Crafting Boost]]
+[[Category:Snail Mech Boost]]

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Beach at Trouville
+|class_id=22427
+|rank=Blue
+|affct=ART
+|birthday=04-30
+|source=Lottery Machine No.3 (0.06%)
+|description=On Apr 30, 1864 AD, Boudin created this woodblock oil painting.<br>Beach at Trouville is one of the representative works of the father of Impressionism, Eugène Boudin. He was renowned for his ability to capture the changing effects of light and atmosphere in his paintings. In this artwork, he depicts a lively seaside scene, conveying the joy and relaxation of a holiday atmosphere. His innovative techniques and artistic style greatly influenced many painters, particularly his student, the renowned Impressionist master Claude Monet.
+|fame=21
+|art=45
+|fth=27
+|civ=35
+|tech=26
+|ss1=Per Tribal Warfare participation, Snail HP +10<br>Tribal Warfare Participation: 50/50
+|ss2=Per Tribal Warfare participation, Snail HP +20<br>Tribal Warfare Participation: 50/50
+|ss3=Per Tribal Warfare participation, Snail HP +30<br>Tribal Warfare Participation: 50/50
+|ss4=Per Tribal Warfare participation, Snail HP +50<br>Tribal Warfare Participation: 50/50
+|ss7=Per Tribal Warfare participation, Snail HP +50<br>Tribal Warfare Participation: 50/50<br>Snail HP +500 (Awakened)
+|skill1=[[File:Dungbeetle skill I.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Fire DMG +10
+}}

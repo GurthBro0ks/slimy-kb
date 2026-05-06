@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Classic of Tea
+|class_id=21847
+|rank=AAA
+|affct=CIV
+|source=
+|description=Lu Yu’s 8th-century tea bible. From leaf cultivation to spiritual brewing in ten chapters.
+|fame=49
+|art=44
+|fth=44
+|civ=71
+|tech=35
+|ss1=Protomon Troop assist DMG + 240<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +72<br>CIV Relics Awakened: 100/100
+|ss2=Protomon Troop assist DMG + 320<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +96<br>CIV Relics Awakened: 100/100
+|ss3=Protomon Troop assist DMG + 400<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +120<br>CIV Relics Awakened: 100/100
+|ss4=Protomon Troop assist DMG + 560<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +168<br>CIV Relics Awakened: 100/100
+|ss5=Protomon Troop assist DMG + 720<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +216<br>CIV Relics Awakened: 100/100
+|ss7=Protomon Troop assist DMG + 720<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +216<br>CIV Relics Awakened: 100/100<br>Protomon Troop assist DMG + 560 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +1.5%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's CIV +10
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Bharata Postcard
+|class_id=20211
+|rank=Green
+|affct=ART
+|source=
+|description=While scouting for info about the Demon God in Bharata, the snail also recorded a lot of local customs, which were brought together in this postcard. You can read it to kill time and post it online to get many likes!
+|fame=17
+|art=30
+|fth=10
+|civ=16
+|tech=17
+|ss1=Bharata Museum Medal Output +5
+|ss2=Bharata Museum Medal Output +10
+|ss3=Bharata Museum Medal Output +15
+|ss4=Bharata Museum Medal Output +15
+|ss7=Bharata Museum Medal Output +15<br> (Awakened)
+}}

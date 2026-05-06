@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=877
+|relics=Othello,The Literary Mind
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 T7+ Minions in battle: Troop ATK +70
+}}

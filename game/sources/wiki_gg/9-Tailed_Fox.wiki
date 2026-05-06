@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=This Snail Shell contains the cultivation of a thousand-year-old 9-Tailed Fox. The Snail that wears it will gain its powerful magic, as well as its BO.
+|affct=FAME
+|hard=DEF
+|source=[[Rare Rent]] from [[Female Daemons]]
+|color=purple
+|earth=7
+|water=5
+|fire=5
+|wind=9
+|form=Zombie
+|element=Water
+|realm=Bharata
+|orangehard=ATK
+}}

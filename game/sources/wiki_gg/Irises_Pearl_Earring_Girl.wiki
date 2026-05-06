@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Irises,Pearl Earring Girl
+|rank=orange
+|amount=2
+|category=self
+|description=Per 10 times Maneater fed, Snail RUSH +7; Maneater Fed: 400/400
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by Maneater Plant]]

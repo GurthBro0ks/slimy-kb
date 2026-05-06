@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Night Bloom II
+|class_id=22130
+|rank=AA
+|affct=ART
+|birthday=01-11
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Jan 11, 2000 AD, sculptor Mukerji created this clay sculpture.<br>Night Bloom II is the masterpiece of sculptor Mukerji. Its folded clay is an abstract representation of the female form sitting in the lotus position. The lower half of the pottery sculpture is painted with a blue-red glaze, while the upper half has a fabric imprint. The folds form wrinkles, making the work feel full of vitality.
+|fame=34
+|art=68
+|fth=39
+|civ=50
+|tech=37
+|ss1=Per 30 Demon Minions in battle:<br>> Troop HP +80<br>Per 30 Demon Minions in battle:<br>> Troop DEF +8
+|ss2=Per 30 Demon Minions in battle:<br>> Troop HP +120<br>Per 30 Demon Minions in battle:<br>> Troop DEF +12
+|ss3=Per 30 Demon Minions in battle:<br>> Troop HP +160<br>Per 30 Demon Minions in battle:<br>> Troop DEF +16
+|ss4=Per 30 Demon Minions in battle:<br>> Troop HP +240<br>Per 30 Demon Minions in battle:<br>> Troop DEF +24
+|ss5=Per 30 Demon Minions in battle:<br>> Troop HP +320<br>Per 30 Demon Minions in battle:<br>> Troop DEF +32
+|ss7=Per 30 Demon Minions in battle:<br>> Troop HP +320<br>Per 30 Demon Minions in battle:<br>> Troop DEF +32<br>Per 30 Demon Minions in battle:<br>> Troop HP +280 (Awakened)
+|skill1=[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Water DMG +30
+|skill2=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, Troop Water DMG +30
+}}

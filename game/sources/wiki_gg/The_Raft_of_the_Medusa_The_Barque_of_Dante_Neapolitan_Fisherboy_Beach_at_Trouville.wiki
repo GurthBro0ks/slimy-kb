@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=638
+|relics=The Raft of the Medusa,The Barque of Dante,Neapolitan Fisherboy,Beach at Trouville
+|rank=blue
+|amount=4
+|category=self
+|description=Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +56;Desert Sanctum Rating Pts: 100000/100000
+}}

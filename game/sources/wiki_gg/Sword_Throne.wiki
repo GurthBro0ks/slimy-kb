@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Sword Throne
+|class_id=21420
+|rank=AAA
+|affct=FAME
+|birthday=09-26
+|source=
+|description=On Sept. 26, 434 BC, Clovis I united all of the Frankish tribes and forged this iron throne.<br>Clovis I destroyed the Kingdom of Soissons ruled by Syagrius. Afterwards, he conquered several smaller Frankish kingdoms by bribing the enemy's subordinates and inciting a son to kill his father. Through a series of actions, he also gathered weapons from various tribes and used them to create this throne.
+|fame=73
+|art=48
+|fth=35
+|civ=49
+|tech=38
+|ss1=Per 10k Power, Snail ATK +5<br>Per 10k Power, Snail DEF +5<br>Power: 90000/90000
+|ss2=Per 10k Power, Snail ATK +5<br>Per 10k Power, Snail DEF +5<br>Power: 120000/120000
+|ss3=Per 10k Power, Snail ATK +5<br>Per 10k Power, Snail DEF +5<br>Power: 150000/150000
+|ss4=Per 10k Power, Snail ATK +5<br>Per 10k Power, Snail DEF +5<br>Power: 210000/210000
+|ss5=Per 10k Power, Snail ATK +5<br>Per 10k Power, Snail DEF +5<br>Power: 270000/270000
+|ss7=Per 10k Power, Snail ATK +5<br>Per 10k Power, Snail DEF +5<br>Power: 270000/270000<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Arena skill II.png|50px]]Place in Snail Arena Compass: In Snail Arena, Water RES +15
+|skill2=[[File:Arena skill II.png|50px]]Place in Snail Arena Compass: In Snail Arena, Water DMG +60
+}}

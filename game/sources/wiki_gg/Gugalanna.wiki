@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Gugalanna
+|rank=orange
+|cabin=2
+|id=145
+|gene1={race} HP +500
+|gene2={race} TECH +50
+|gene3=For Round 1, CRIT rate +1.5%
+|gene4=Per 60 Mutant Minions in battle,
+Troop Water DMG +6
+|gene5=Mutant Minion Cloning SPD +1.2%
+|gene6=Per 60 Mutant Minions in battle,
+Troop Water DMG +10
+|gene7=Mutant Minion Cloning SPD +2%
+|}}

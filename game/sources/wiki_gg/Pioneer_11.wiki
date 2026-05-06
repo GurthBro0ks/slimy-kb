@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Pioneer 11
+|class_id=22734
+|rank=S
+|affct=TECH
+|birthday=06-17
+|source=Lottery Machine No.3 (1.62%)
+|description=On Jun 17, 1973 AD, the interstellar probe, developed by NASA, was launched from Cape Canaveral.<br>Pioneer 11 is three meters long and weighs about 300 kilograms, driven by six ammonia-powered thrusters. Its main mission was to explore the outer reaches of the solar system, study interstellar matter around Mars, the Jupiter environment, and its asteroid belt, and investigate Saturn's rings and satellites. In addition, it carried a gold-plated aluminum plate containing images of a male and female in the nude and other information indicating the origin of humanity. If captured by alien intelligence, the gold-plated aluminum plate would explain the origin of the probe to them.
+|fame=65
+|art=51
+|fth=64
+|civ=56
+|tech=96
+|ss1=Mecha Minion HP +1%<br>Per Tribal Chief defeated, Snail ATK +1<br>Per Tribal Chief defeated, Snail RUSH +1<br>Tribal Chiefs Defeated: 50/50
+|ss2=Mecha Minion HP +2%<br>Per Tribal Chief defeated, Snail ATK +2<br>Per Tribal Chief defeated, Snail RUSH +2<br>Tribal Chiefs Defeated: 50/50
+|ss3=Mecha Minion HP +3%<br>Per Tribal Chief defeated, Snail ATK +3<br>Per Tribal Chief defeated, Snail RUSH +3<br>Tribal Chiefs Defeated: 50/50
+|ss4=Mecha Minion HP +5%<br>Per Tribal Chief defeated, Snail ATK +5<br>Per Tribal Chief defeated, Snail RUSH +5<br>Tribal Chiefs Defeated: 50/50
+|ss5=Mecha Minion HP +7%<br>Per Tribal Chief defeated, Snail ATK +7<br>Per Tribal Chief defeated, Snail RUSH +7<br>Tribal Chiefs Defeated: 50/50
+|ss6=Mecha Minion HP +10%<br>Per Tribal Chief defeated, Snail ATK +10<br>Per Tribal Chief defeated, Snail RUSH +10<br>Tribal Chiefs Defeated: 50/50
+|ss7=Mecha Minion HP +10%<br>Per Tribal Chief defeated, Snail ATK +10<br>Per Tribal Chief defeated, Snail RUSH +10<br>Tribal Chiefs Defeated: 50/50<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's TECH +15
+|skill2=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Earth RES +60
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP Regen +1200
+|mirage={{Mirage|name=Journey of Pioneers|reward={{RewardIconWithLink|Drone, +10|orange}}
+|3name=Sagittarius Resident|3rec=99.34M|3atk=290412|3defense=183659|3hp=14819756|3weak=34549
+|4name=Scutum Resident|4rec=132.07M|4atk=367061|4defense=229708|4hp=20878582|4weak=37716
+|Arec=188.16M|Aatk=501080|Adefense=308623|Ahp=35658948|Aweak=42192
+}}}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Earthworm Codex
+|class_id=20452
+|rank=Green
+|affct=FAME
+|source=
+|description=This codex is the culmination of earthworm's wisdom. In the ancient past, they ruled the underground by developing extraordinary technology and creating a magnificent civilization. However, all this came to a halt with the arrival of the dung beetles. This ancient codex became the only vestige of earthworm's existence...
+|fame=28
+|art=10
+|fth=20
+|civ=18
+|tech=12
+|ss1=Fungus Farm: +2%chance to produce<br>Wonder Fungi<br>With Earthworm Assistance, ATK +2%
+|ss2=Fungus Farm: +4%chance to produce<br>Wonder Fungi<br>With Earthworm Assistance, ATK +4%
+|ss3=Fungus Farm: +6%chance to produce<br>Wonder Fungi<br>With Earthworm Assistance, ATK +6%
+|ss4=Fungus Farm: +6%chance to produce<br>Wonder Fungi<br>With Earthworm Assistance, ATK +6%
+|ss7=Fungus Farm: +6%chance to produce<br>Wonder Fungi<br>With Earthworm Assistance, ATK +6%<br> (Awakened)
+}}

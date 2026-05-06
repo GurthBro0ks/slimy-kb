@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Noble Ribbon
+|class_id=20017
+|rank=Green
+|affct=ART
+|source=
+|description=This ribbon once belonged to a nobleman whose ancestor made war efforts and was awarded the title of Count by the House of Habsburg. The silk ribbon is embroidered with the family coat of arms to remind future generations to cherish the honor.
+|fame=12
+|art=27
+|fth=22
+|civ=14
+|tech=15
+|ss1=Per 1k Tadpole Points, Snail HP +10<br>Tadpole Points: 20000/20000
+|ss2=Per 1k Tadpole Points, Snail HP +20<br>Tadpole Points: 20000/20000
+|ss3=Per 1k Tadpole Points, Snail HP +30<br>Tadpole Points: 20000/20000
+|ss4=Per 1k Tadpole Points, Snail HP +30<br>Tadpole Points: 20000/20000
+|ss7=Per 1k Tadpole Points, Snail HP +30<br>Tadpole Points: 20000/20000<br> (Awakened)
+}}

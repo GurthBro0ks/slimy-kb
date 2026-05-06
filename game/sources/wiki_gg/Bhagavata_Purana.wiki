@@ -1,0 +1,42 @@
+{{CargoRelic
+|name=Bhagavata Purana
+|rank=SS
+|affct=FTH
+|birthday=05-06
+|source=Lottery Machine No. 2 (0.47%)
+|description=On May 6, 66 BC, the Bhagavata-purana was officially published.
+
+The Bhagavata Purana is a Sanskrit text that is considered the most-celebrated of the Puranas, composed by Veda Vyasa. The text is divided into 12 books and contains around 18,000 verses, and primarily recounting the incarnations of Vishnu. It chronicles the ten avatars of Lord Vishnu, including Rama, Krishna, and Buddha, each of whom saves the world from danger.
+
+Despite its focus on adoration for the gods, the Bhagavata Purana also expresses the simple thoughts and feelings of ordinary ancient people. It is a masterpiece of Sanskrit classical literature and a valuable window into ancient Hindu culture and beliefs.
+|fame=61
+|art=64
+|fth=103
+|civ=55
+|tech=64
+|ss1=Snail RUSH +20<br>Mutant Minion DEF +2%<br>Finish All Daily Tasks 7 times, Snail RUSH +2<br>All Daily Tasks Completed: 364/364
+|ss2=Snail RUSH +30<br>Mutant Minion DEF +3%<br>Finish All Daily Tasks 7 times, Snail RUSH +3<br>All Daily Tasks Completed: 364/364
+|ss3=Snail RUSH +40<br>Mutant Minion DEF +4%<br>Finish All Daily Tasks 7 times, Snail RUSH +4<br>All Daily Tasks Completed: 364/364
+|ss4=Snail RUSH +60<br>Mutant Minion DEF +6%<br>Finish All Daily Tasks 7 times, Snail RUSH +6<br>All Daily Tasks Completed: 364/364
+|ss5=Snail RUSH +80<br>Mutant Minion DEF +8%<br>Finish All Daily Tasks 7 times, Snail RUSH +8<br>All Daily Tasks Completed: 364/364
+|ss6=Snail RUSH +110<br>Mutant Minion DEF +11%<br>Finish All Daily Tasks 7 times, Snail RUSH +11<br>All Daily Tasks Completed: 364/364
+|ss7=Snail RUSH +110<br>Mutant Minion DEF +11%<br>Finish All Daily Tasks 7 times, Snail RUSH +11<br>All Daily Tasks Completed: 364/364<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]] Place in Rift Museum: This Relic's FTH +15
+|skill2=[[File:Rift skill III.png|50px]] Place in Rift Museum: In the Rift, Angel Cells gained +15%
+|skill3=[[File:Yamato skill III.png|50px]] Place in Yamato Museum: In Yamato, Zombie Cells gained +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:RUSH Boost]]
+[[Category:Mutant Minion DEF Boost]]
+[[Category:Rift Museum Boost]]
+[[Category:Rift Exploration Boost]]
+[[Category:FTH Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Angel Cell Drop Boost]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:Zombie Cell Drop Boost]]
+[[Category:Zombie Minion MAX Cap Boost]]
+[[Category:Minions Cloned Boost]]
+[[Category:HP Boost]]

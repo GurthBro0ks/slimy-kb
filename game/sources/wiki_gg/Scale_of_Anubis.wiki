@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Scale of Anubis
+|class_id=21726
+|rank=SSS
+|affct=FAITH
+|birthday=01-28
+|source=
+|description=On Jan 28, 5000 BC, Anubis, the Egyptian god of the dead, used the scale to weigh hearts for the first time.<br>Anubis, god of the underworld, uses a scale to weigh the hearts of the dead. If the owner of the heart lived a good life, the heart would weigh lighter than the feather of Ma'at, and it may enter into the afterworld. If the heart weighed heavier than a feather, then the heart would be eaten by the goddess, Ammit, with the head of a crocodile, the body of a lion, and the hind legs of a hippo.
+[Heart Weight]
+Adult human: 270 to 300 grams. Minor: 110 to 120 grams.
+|fame=58
+|art=66
+|fth=107
+|civ=60
+|tech=71
+|ss1=Snail ATK +30<br>Per 5 Demon Gene LVLs, Snail ATK +6<br>Per 5 Demon Gene LVLs, Snail DEF +6<br>Demon Gene LVLs Researched: 150/150
+|ss2=Snail ATK +40<br>Per 5 Demon Gene LVLs, Snail ATK +8<br>Per 5 Demon Gene LVLs, Snail DEF +8<br>Demon Gene LVLs Researched: 150/150
+|ss3=Snail ATK +50<br>Per 5 Demon Gene LVLs, Snail ATK +10<br>Per 5 Demon Gene LVLs, Snail DEF +10<br>Demon Gene LVLs Researched: 150/150
+|ss4=Snail ATK +70<br>Per 5 Demon Gene LVLs, Snail ATK +14<br>Per 5 Demon Gene LVLs, Snail DEF +14<br>Demon Gene LVLs Researched: 150/150
+|ss5=Snail ATK +90<br>Per 5 Demon Gene LVLs, Snail ATK +18<br>Per 5 Demon Gene LVLs, Snail DEF +18<br>Demon Gene LVLs Researched: 150/150
+|ss6=Snail ATK +120<br>Per 5 Demon Gene LVLs, Snail ATK +24<br>Per 5 Demon Gene LVLs, Snail DEF +24<br>Demon Gene LVLs Researched: 150/150
+|ss7=Snail ATK +120<br>Per 5 Demon Gene LVLs, Snail ATK +24<br>Per 5 Demon Gene LVLs, Snail DEF +24<br>Demon Gene LVLs Researched: 150/150<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +600
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: This Relic's FTH +15
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Earth DMG +600
+|mirage={{Mirage|name=Anubis' Immortal Summon|reward={{RewardIconWithLink|Offering Speedup, +28800|orange}}
+|3name=Skull|3rec=2.68M|3atk=39659|3defense=26142|3hp=533413|3weak=9096
+|4name=Zombie|4rec=5.32M|4atk=58483|4defense=38549|4hp=1079158|4weak=12007
+|5name=Mummy|5rec=9.87M|5atk=81931|5defense=54005|5hp=1959017|5weak=13739
+|6name=Evil Ghost|6rec=17.26M|6atk=110283|6defense=72694|6hp=3323442|6weak=17631
+|Arec=35.88M|Aatk=143183|Adefense=94380|Ahp=5528391|Aweak=19050
+}}}}

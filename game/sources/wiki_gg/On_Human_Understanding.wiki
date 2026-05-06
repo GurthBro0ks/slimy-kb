@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=On Human Understanding
+|class_id=22586
+|rank=AAA
+|affct=CIV
+|birthday=10-11
+|source=
+|description=On Oct 11, 1690 AD, after twenty years, Locke finally completed his book An Essay Concerning Human Understanding.<br>John Locke was a famous British philosopher and, along with Hume and Berkeley, is regarded as a representative figure of British empiricism. In this book, he systematically discusses human understanding, explaining how humans acquire knowledge and form beliefs, and why our knowledge of the world is limited. He believed that the mind is a blank slate at birth and that knowledge is acquired through experience. This book is one of the origins of empiricism and has had a profound influence on the Enlightenment.
+|fame=49
+|art=45
+|fth=39
+|civ=75
+|tech=35
+|ss1=Per 30 Mutant Minions in battle:<br>> Troop HP +120<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +12
+|ss2=Per 30 Mutant Minions in battle:<br>> Troop HP +160<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +16
+|ss3=Per 30 Mutant Minions in battle:<br>> Troop HP +200<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +20
+|ss4=Per 30 Mutant Minions in battle:<br>> Troop HP +280<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +28
+|ss5=Per 30 Mutant Minions in battle:<br>> Troop HP +360<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +36
+|ss7=Per 30 Mutant Minions in battle:<br>> Troop HP +360<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +36<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, Snail RUSH +60
+|skill2=[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, 2x Orange Reagent Drops +7.5%
+}}

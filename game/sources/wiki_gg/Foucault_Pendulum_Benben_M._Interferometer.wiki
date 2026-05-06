@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=434
+|relics=Foucault Pendulum,Benben,M. Interferometer
+|rank=purple
+|amount=3
+|category=self
+|description=Refine +1 Green Rebel Material +7%
+}}

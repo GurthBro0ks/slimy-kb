@@ -1,0 +1,291 @@
+==Key Clue Records==
+Complete these Key Clues in [[Bharata]] for various rewards and to fully progress through the Realm.
+Please note that requirements ending with a ? are an approximation.
+
+==Peacock Empire==
+'''Rewards:''' {{RewardIconWithText|Travel Speedup, +2h}}, {{RewardIconWithText|B-Tad, +10k}}
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Calcutta Conquest
+|Dominate [[Bharata Apostles#Tagore|Tagore]]
+|-
+|Munbay Conquest
+|Dominate [[Bharata Apostles#Bahubali|Bahubali]]
+|-
+|Deli Conquest
+|Dominate [[Bharata Apostles#Ultimate Motorcycle|Ultimate Motorcycle]]
+|-
+|Bunjab Conquest
+|Dominate [[Bharata Apostles#Ashoka|Ashoka]]
+|}
+
+==Manusmriti==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +3}}, {{RewardIconWithText|B-Tad, +10k}}
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Master all Bharata INTEL
+|Obtain all 52 Koryeo INTEL tiles
+|-
+|Master all All-in-One INTEL
+|Obtain all 63 Agent Training tiles
+|}
+
+==Blessing of Vaisravana==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +500}}, {{RewardIconWithText|B-Tad, +10k}}
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Redeem all [[Bharata Cards#Tier 1 (White)|limited cards (white)]]
+|Exchange all 10 white card items
+|-
+|Redeem all [[Bharata Cards#Tier 2 (Green)|limited cards (green)]]
+|Exchange all 10 green card items
+|-
+|Redeem all [[Bharata Cards#Tier 3 (Blue)|limited cards (blue)]]
+|Exchange all 9 blue card items
+|-
+|Redeem all [[Bharata Cards#Tier 4 (Purple)|limited cards (purple)]]
+|Exchange all 9 purple card items
+|-
+|Redeem all [[Bharata Cards#Tier 5 (Orange)|limited cards (orange)]]
+|Exchange all 8 orange card items
+|}
+
+==Journey to the West==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Lottery Ticket, +3}}
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|All Traveler Monks reach max level
+|[[Journey to the West#Sanzang|Traveler Monks Total level]] 200/200
+|-
+|Pass the Eighty-one Adversities
+|[[Journey to the West#Adversities|Stages Passed]] 81/81
+|-
+|Max all Traveler Monk skills
+|[[Journey to the West#Sanzang|Skills Maxed]] 36/36
+|-
+|Max all Traveler Monk gears
+|[[Journey to the West#Gear|Traveller Monk Gear Maxed]] 24/24
+|}
+
+==Ashoka's Repentance==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +2}}, {{RewardIconWithText|Bharata Treasure Map, +50}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Cliff Inscription (Mahya Pradesh)||Cliff Guardian||FAME 17420?||{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Pillar Inscription (Utar Pradesh)||Damaged Pillar||TECH 17740?||{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Pagoda Inscription (Ranki)||Rundown Pagoda||TECH 19820?||{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Buddah's Path==
+'''Rewards:''' {{RewardIconWithText|Divine Order Chest, +100}}, {{RewardIconWithText|Purple Reagent, +50}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Sadhu's Sutra (Munbay)||Sadhu's Body||ART 18540?||{{RewardIconWithText|B-Tad, +1500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Five Monks' Sutra (Goea)||Five Monks Statue||FTH 19020?||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Demon Cell, +2000}}
+|-
+|Heretic's Sutra (Bunjab)||Heretic||FAME 19420??||{{RewardIconWithText|B-Tad, +1500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|}
+
+==Legend of the Trimurdi==
+'''Rewards:''' {{RewardIconWithText|Gear Chest, +100}}, {{RewardIconWithText|Offering Speedup, +2h}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Shiva's Miracle (Ranki)||Bizarre Bronze Coffin||CIV 19980?||{{RewardIcon|Wonder Fungus Blue HP}} {{Retext|Blue HP-Fungus|blue}} +1, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Brahma's Miracle (Gujalatt)||Ancient Carvings||FTH 18220?||{{RewardIcon|Wonder Fungus Blue RUSH}} {{Retext|Blue RUSH-Fungus|blue}} +1, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Vishnu's Miracle (Deli)||Shining Lotus||TECH 15900??||{{RewardIcon|Wonder Fungus Blue DEF}} {{Retext|Blue DEF-Fungus|blue}} +1, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|}
+
+==Mukhal's Afterglow==
+'''Rewards:''' {{RewardIconWithText|Refine Speedup, +4h}}, {{RewardIconWithText|B-Tad, +10k}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Noble's Document (Deli)||Valorous Guard||FAME 19660?||{{RewardIconWithText|Bharata Treasure Map, +5}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Labor's Document (Andra Pradesh)||Weathered Body||ART 20140?||{{RewardIconWithText|Mutant Cell, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Merchant's Document (Mahya Pradesh)||Exquisite Vase||CIV 17580?||{{RewardIconWithText|Bharata Treasure Map, +5}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Royal Document (Gujalatt)||Gilded Statue||FTH 18380?||{{RewardIconWithText|Bharata Treasure Map, +5}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|}
+
+==Monk's Trace==
+'''Rewards:''' {{RewardIconWithText|Travel Speedup, +2h}}, {{RewardIconWithText|B-Tad, +10k}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Nalanda Temple Minutes (Utar Pradesh)||Sutra Guard||FAME 17900?||{{RewardIconWithText|Intel, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Tiladaka Temple Minutes (Bunjab)||Dusty Buddha Statue||FTH 19260??||{{RewardIconWithText|Intel, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Kanyakubja Minutes (Munbay)||Royal Jewelry Chest||CIV 18860?||{{RewardIconWithText|Intel, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|}
+
+==Animism==
+'''Rewards:''' {{RewardIconWithText|Organ Chest, +200}}, {{RewardIconWithText|Gene Speedup, +4h}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Rabbit's Spirit (Calcutta)||Scattered Bones||ART 19340?||{{RewardIconWithText|Organ Slime, +20}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Willow's Spirit (Goea)||Heavy Dead Wood||CIV 19180?||{{RewardIconWithText|Organ Slime, +20}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Spider's Spirit (Andra Pradesh)||Strong Cobweb||TECH 20540?||{{RewardIconWithText|Organ Slime, +20}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Elephant's Remains (Mahya Pradesh)||Elephant's Remains||ART 17340?||{{RewardIconWithText|Organ Slime, +20}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Buddah's Teachings==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +100}}, {{RewardIconWithText|Incense, +1}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Copy of Nirvana Sutra (Calcutta)||Ancient Copy||TECH 19500?||{{RewardIconWithText|Gene Speedup, +30m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Copy of Peacock Sutra (Bunjab)||Guard of Sutra Library||19180??||{{RewardIconWithText|Travel Speedup, +30m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Copy of Amitabha Sutra (Andra Pradesh)||Solemn Stone Buddha||FTH 20300?||{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Copy of Epiphany Sutra (Deli)||Believer's Offering||CIV 17660?||{{RewardIconWithText|Angel Cell, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|}
+
+==Ganges Worship==
+'''Rewards:''' {{RewardIcon|Wonder Fungus Orange HP}} {{Retext|Orange HP-Fungus|orange}} +1, {{RewardIconWithText|Magic Potion, +30}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Tired Pilgrim (Ranki)||Remains at the Riverside||ART 19740?||{{RewardIconWithText|Zombie Cell, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Pious Pilgrim (Goea)||Ganga Statue||FTH 19260?||{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Rich Pilgrim (Deli)||Offering Carriage||??||{{RewardIconWithText|B-Tad, +1500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Wise Pilgrim (Gujalatt)||Sanskrit Scripture||TECH 18300?||{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|}
+
+==Ancient Advanced Civilization==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +100}}, {{RewardIconWithText|Tool Chest, +100}}
+{| class="wikitable"
+!Event!!Clue!!Requirements!!Rewards
+|-
+|Anc. Flyer Blueprint (Utar Pradesh)||Ancient Grave Goods||ART 18140?||{{RewardIconWithText|Mutant Cell, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Anc. Solar Blueprint (Ranki)||Ancient Vault||CIV 19900?||{{RewardIconWithText|Bharata Treasure Map, +5}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Anc. N-Bomb Blueprint (Goea)||Ancient Mecha Soldier||FAME 19100?||{{RewardIconWithText|Mecha Cell, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|}
+
+==Artifact & Magic==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +100}}, {{RewardIconWithText|Wish Coin, +1}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Yama's Bone (Utar Pradesh)||Display Orange Relic: related to Sarira; Display {{RewardIconWithLink|Buddha Finger Sarira|orange}}||{{RewardIconWithText|Demon Cell, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Ganesha's Brush (Deli)||Display Relic: Art>100; 5*{{RewardIconWithLink|Parthenon Marbles|orange}} works||{{RewardIconWithText|Wood, +1000}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Indra's Pestle (Munbay)||Display Orange Relic: Related to diamonds; Display {{RewardIconWithLink|Africa Star|orange}}||{{RewardIconWithText|Stone, +2000}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Surya's Chariot (Calcutta)||Display Orange Relic: Related to Transportation; Display {{RewardIconWithLink|Golden Chariot|orange}}||???
+|-
+|}
+
+==Recruitment==
+'''Rewards:''' {{RewardIconWithText|Bharata Treasure Map, +50}}, {{RewardIconWithText|Ad Chest, +60}}
+{| class="wikitable"
+!Event!!Requirements!!Rewards
+|-
+|Suyodhana Draft Notice (Calcutta)||Watch an Ad||{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +30m}}
+|-
+|Yudhisthira Draft Notice (Gujalatt)||Watch an Ad||{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +30m}}
+|-
+|Rama Draft (Bunjab)||Watch an Ad||{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +30m}}
+|-
+|Ravana Draft Notice (Andra Pradesh)||Watch an Ad||{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +30m}}
+|}
+
+==Rama Greataxe==
+'''Rewards:''' {{RewardIconWithText|Glue, +100}}, {{RewardIconWithText|Travel Speedup, +4h}}
+{| class="wikitable"
+!Event
+|-
+|Craft {{Gearlink|green|realm|Legion Javelins}}
+|-
+|Craft {{Gearlink|blue|realm|Kukri}}
+|-
+|Craft {{Gearlink|purple|realm|Mughal Scimitar}}
+|-
+|Craft {{Gearlink|orange|realm|Ashoka's Sword}}
+|-
+|Craft {{Gearlink|red|realm|Rama Greataxe}}
+|}
+
+==Bharata Treasure==
+'''Rewards:''' {{RewardIconWithText|Golden Pickaxe, +3}},{{RewardIconWithText|Bharata Treasure Map, +50}}
+{| class="wikitable"
+!Event!!<nowiki>#</nowiki> of items found!!Rewards
+|-
+|Parvati's Gift (Calcutta)||2||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Clone Speedup, +2h}}
+|-
+|Agni's Treasure (Calcutta)||4||{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Purple Reagent, +20}}
+|-
+|Rama Treasure (Mahya Pradesh)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Novice Scroll, +10}}
+|-
+|Sita's Legacy (Mahya Pradesh)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Toner, +10}}
+|-
+|Hanuman's Gift (Utar Pradesh)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Mecha Cell, +2000}}
+|-
+|Mt. Spirit Treasure (Utar Pradesh)||4||{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Offering Speedup, +2h}}
+|-
+|Pandavas Treasure (Gujalatt)||4||{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Lottery Ticket, +1}}
+|-
+|Brahma Box (Gujalatt)||2||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Refine Speedup, +2h}}
+|-
+|Mughal Royal Treasure (Munbay)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Angel Cell, +2000}}
+|-
+|Ivory Handicraft (Munbay)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Mutant Cell, +2000}}
+|-
+|Soma Wine Jar (Goea)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Demon Cell, +2000}}
+|-
+|Surya's Gift (Goea)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|B-Tad, +5000}}
+|-
+|Kurukshetra War Supplies (Deli)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Stone, +2000}}
+|-
+|Vishnu's Gift (Deli)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Travel Speedup, +1h}}
+|-
+|Jalandhara Case (Ranki)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Zombie Cell, +2000}}
+|-
+|Shiva Treasure (Ranki)||3||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Gene Speedup, +2h}}
+|-
+|Ravana's Legacy (Andra Pradesh)||2||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Wood, +2000}}
+|-
+|Handmade Saree (Andra Pradesh)||4||{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Expert Scroll, +10}}
+|-
+|Indra Offering (Bunjab)||2||{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Organ Slime, +30}}
+|-
+|Sikh Adult Rite (Bunjab)||4||{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Purple Reagent, +20}}
+|-
+|}

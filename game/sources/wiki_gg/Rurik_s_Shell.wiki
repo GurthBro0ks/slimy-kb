@@ -1,0 +1,35 @@
+== Rurik's Shell ==
+This solid shell was restored with biological weapon technologies. It resembles Rurik's Shell and has outstanding performances.
+
+{{Organ Tabber
+|Name=Rurik's Shell
+|Rarity=red
+|ID Number=78
+|Initial HP=110
+|HP Increase=30
+|Initial ATK=11
+|ATK Increase=3
+|Initial DEF=15
+|DEF Increase=3
+|Initial RUSH=15
+|RUSH Increase=3
+|Effect 1=Snail ART +###
+|Initial Effect Value 1=5
+|Effect Value Increase 1=5
+|Effect 2=All ELMT DMG +###
+|Initial Effect Value 2=1
+|Effect Value Increase 2=1
+|Effect 3=All ELMT RES +###
+|Initial Effect Value 3=1
+|Effect Value Increase 3=1
+|Effect 4=Currency gained from Surf Clam Incidents +###%
+|Initial Effect Value 4=0.1
+|Effect Value Increase 4=0.1
+|}}
+
+==Source==
+After using 10 {{RewardIconWithText|Surf Clams Gene Essence}}s, you can recycle further ones for this organ.
+
+[[Category:Organs]]
+[[Category:Red Organs]]
+[[Category:Surf Clam]]

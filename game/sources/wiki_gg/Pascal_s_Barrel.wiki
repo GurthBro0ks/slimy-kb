@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Pascal's Barrel
+|class_id=22090
+|rank=Blue
+|affct=TECH
+|birthday=12-11
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Dec 11, 1648 AD, physicist Pascal proved the existence of hydraulic pressure through experiments.<br>This dilapidated wooden barrel was used by Pascal for his experiments. At that time, he inserted a long and thin pipe from the balcony of the building into the airtight wooden barrel filled with water downstairs and started filling it with water. He only poured a few glasses of water into the pipe, and as a result, the wooden barrel downstairs burst. This experiment proves that the pressure exerted by the liquid on the inner wall of the container is far greater than the gravity of the liquid itself, and it can be known that the pressure of the liquid is related to the depth, and has nothing to do with the quality of the liquid and the shape of the container.
+|fame=31
+|art=20
+|fth=30
+|civ=28
+|tech=45
+|ss1=Per 5 Lumber Camp LVLs, Snail DEF +3<br>Lumber Camp LVL: 90/90
+|ss2=Per 5 Lumber Camp LVLs, Snail DEF +6<br>Lumber Camp LVL: 90/90
+|ss3=Per 5 Lumber Camp LVLs, Snail DEF +9<br>Lumber Camp LVL: 90/90
+|ss4=Per 5 Lumber Camp LVLs, Snail DEF +15<br>Lumber Camp LVL: 90/90
+|ss7=Per 5 Lumber Camp LVLs, Snail DEF +15<br>Lumber Camp LVL: 90/90<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +20
+}}

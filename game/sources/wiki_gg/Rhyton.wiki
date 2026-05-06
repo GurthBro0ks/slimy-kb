@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Rhyton
+|class_id=22574
+|rank=AA
+|affct=CIV
+|birthday=06-27
+|source=
+|description=On Jun 27, 467 AD, Hu Shang brought the Rhyton to China via the Silk Road.<br>The rhyton is a horn-shaped container used for drinking, usually with a conical bottom that is open or appears to be open. It has been discovered in regions such as the Near East, the Middle East, and Persia dating back to 2000 BC. These vessels are often exquisitely decorated and made of precious metals and gemstones. With advances in metallurgy, engraving, and other techniques, metal rhytons became increasingly intricate and artistic, reaching a peak during the Sassanid Empire in Persia, with this piece being among the best...
+|fame=44
+|art=46
+|fth=33
+|civ=69
+|tech=36
+|ss1=Snail ATK +10<br>Snail DEF +10
+|ss2=Snail ATK +20<br>Snail DEF +20
+|ss3=Snail ATK +30<br>Snail DEF +30
+|ss4=Snail ATK +50<br>Snail DEF +50
+|ss5=Snail ATK +70<br>Snail DEF +70
+|ss7=Snail ATK +70<br>Snail DEF +70<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]??? (Coming soon)
+|skill2=[[File:Rift skill II.png|50px]]??? (Coming soon)
+}}

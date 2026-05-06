@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Sierpinski Triangle
+|class_id=22499
+|rank=Blue
+|affct=TECH
+|birthday=08-28
+|source=Lottery Machine No.3 (0.03%)
+|description=On Aug 28, 1915 AD, Waclaw Sierpinski announced his discovery to the world.<br>The Sierpinski triangle is a fractal that begins with an equilateral triangle. Connect the midpoints of each side to form four new triangles, remove the center triangle, and repeat the process on the remaining three triangles. If this process continues indefinitely, the area of the triangle will approach zero, while its perimeter approaches infinity.
+|fame=26
+|art=22
+|fth=33
+|civ=26
+|tech=47
+|ss1=Mecha Minion ATK +1%
+|ss2=Mecha Minion ATK +2%
+|ss3=Mecha Minion ATK +3%
+|ss4=Mecha Minion ATK +5%
+|ss7=Mecha Minion ATK +5%<br>Mecha Minion ATK +5% (Awakened)
+|skill1=[[File:Desertsanctum skill I.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +5%
+}}

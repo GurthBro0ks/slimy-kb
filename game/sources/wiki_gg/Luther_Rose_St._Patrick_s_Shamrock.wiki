@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=591
+|relics=Luther Rose,St. Patrick's Shamrock
+|rank=blue
+|amount=2
+|category=self
+|description=Snail Leadership +3
+}}

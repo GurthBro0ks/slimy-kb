@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Boxer‘s Heart
+|type=Common
+|rank=red
+|id=10945
+|idx=139
+|description=The only one who made 7 Demon Gods spit teeth, until Demon God No.8 brought a referee...
+|skill=
+|hp=2640
+|def=255
+|atk=244
+|rush=307
+|gene1=Each round, {race} RUSH +80
+|gene2=Per organ implanted, all ELMT DMG +4
+Organs Implanted: 40/40
+|gene3=Restore 800 HP each round
+|gene4=Each round, {race} ATK +80
+|gene5=Each round, {race} DEF +80
+|gene6=Healing +12%
+|gene7=All ELMT DMG +2.4% (Awakened)
+|}}

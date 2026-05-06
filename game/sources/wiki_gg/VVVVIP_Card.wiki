@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=VVVVIP Card
+|class_id=20410
+|rank=Green
+|affct=FAME
+|source=1st time reward from [[Altar#Gods_of_the_Pantheon|God of Whales]]
+|description=I'll be waiting for you at eight tonight if you have the guts to raid with me! No need to buy anything, you can get all kinds of gear for free! In-game trades are all done within seconds! No cash is involved at all! This is such a cool and beneficial game!
+|fame=27
+|art=17
+|fth=17
+|civ=14
+|tech=15
+|ss1=Snail HP +100<br>With VIP Gem Card, Snail ATK +20<br>With VIP Silver Card, Snail DEF +20<br>With VIP Gold Card, Snail RUSH +20
+|ss2=Snail HP +200<br>With VIP Gem Card, Snail ATK +40<br>With VIP Silver Card, Snail DEF +40<br>With VIP Gold Card, Snail RUSH +40
+|ss3=Snail HP +300<br>With VIP Gem Card, Snail ATK +60<br>With VIP Silver Card, Snail DEF +60<br>With VIP Gold Card, Snail RUSH +60
+|ss4=Snail HP +300<br>With VIP Gem Card, Snail ATK +60<br>With VIP Silver Card, Snail DEF +60<br>With VIP Gold Card, Snail RUSH +60
+|ss7=Snail HP +300<br>With VIP Gem Card, Snail ATK +60<br>With VIP Silver Card, Snail DEF +60<br>With VIP Gold Card, Snail RUSH +60<br> (Awakened)
+}}

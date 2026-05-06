@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Bear King Fist
+|type=Common
+|rank=blue
+|id=10951
+|idx=144
+|description=Formerly belonged to Koryeon Apostle Chaebol Chief. With these iron fists, he dominated underground arenas for decades. Now enhanced with Beast God modifications - can smash boulders in one punch!
+|skill=
+|hp=1100
+|def=97
+|atk=140
+|rush=71
+|gene1=Per Demon God slain, {race} ATK +5
+Demon Gods Slain: 8/8
+|gene2=Per Demon God slain, {race} HP +50
+Demon Gods Slain: 8/8
+|gene3=In Snail Arena, Round 1 DMG +5%
+|gene7=In Snail Arena, Round 1 DMG +5% (Awakened)
+|}}

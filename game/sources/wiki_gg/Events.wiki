@@ -1,0 +1,148 @@
+'''If you are new''' your first event is Newb Event. When it ends, between Newb Event and Weekly Event, you will have Hoard Event. These are designed to get you familiar with the game while allowing you to progress.
+
+==Weekly Events==
+Every week is one of the three cycling weekly events: Lottery > Wish > Offering. Friday at 6:00 am PST is the server reset, and maintenance begins at 3:30 am PST for about 3 hours. 
+
+'''Maintenance rewards:''' 
+* {{RewardIconWithText|B-Tad, +100}}/min
+* {{RewardIconWithText|W-Tad, +25}}/10 min
+* {{RewardIconWithLink|Lottery Ticket, +1|orange}}/50 min, 
+* {{RewardIconWithLink|Wish Coin, +1|orange}}/180 min
+
+During each event, you'll use specific currencies to gain more points for that event for various rewards. Generally, the idea is to save all of that currency for 2 weeks and then spend in all during the corresponding event. For example Lottery event uses Lottery Tickets, so you'd want to save all of your accumulated Lottery Tickets until that event starts. 
+
+For more specific information and up-to-date rewards for each event, see:
+
+ [[Lottery Week]] 
+ [[Wishing Week]]
+ [[Offering Week]]
+
+A quick rundown of what to hoard!
+# Lottery Week: Lottery Tickets, various Scrolls
+# Wishmaking Week: Wish Coins, Relic Frags, Taichi Fishes
+# Offering Week: Offering Speedups, Divine Chests, and Dragon Chests
+
+For the curious: [[Weekly Events History]]
+
+==Supreme Feast==
+The Supreme Feast refreshes at the same time as the weekly events and always has the same structure. Feast Tickets can be claimed from Chan-hee for participating in the weekly event and used to spin the Roulette of Will: 50 tickets for one spin and 150 tickets for 3 spins. The rewards are [[Organs|1 red organ]], demon god cells, magic potion, and a random orange fungus. After hitting the jackpot (the red organ), you can choose to refresh for a starting price of 50 feast tickets. Every refresh costs 10 more tickets (until the event resets). 
+
+If you win the organ or fungus, that item cannot be won again unless the roulette is refreshed and you can only win demon god cells (2 sections award +2,000, 1 section awards +4,000) and magic potion (2 sections award 10, 1 section awards 50). Magic Potion is used to unseal and upgrade Realm Trait spirits and is therefore extremely valuable, so it's possible you may not want to refresh every single time just for the red organ. Unsealing a Realm Trait's spirit costs 300 magic potion, and upgrading them costs a heavy amount as well. It's important to weight the beneifts of a red organ's boosts to the benefits of an unsealed Realm Trait/higher Realm Trait spirit boosts. 
+
+{|class="wikitable" style="width:50%; text-align:center;"
+|-
+|{{ImageWithLinkAndBreak|Deadly Ironball}}
+|{{ImageWithLinkAndBreak|Sacred Mirror}}
+|{{ImageWithLinkAndBreak|Supreme Warlord}}
+|{{ImageWithLinkAndBreak|Lady Liberty}}
+|-
+|{{ImageWithLinkAndBreak|Ghost Ship}}
+|{{ImageWithLinkAndBreak|Ma'at Tablet}}
+|{{ImageWithLinkAndBreak|Cosmos}}
+|{{ImageWithLinkAndBreak|Dragon Horse}}
+|}
+
+==The Manhunt Act==
+The Manhunt Act is a 30 day event where you can test your strength against strong opponents for various rewards. In it, you can try your hand at defeating 5 traitors. Former travelers for Earth's Will, they are formidable in each stage... 
+
+===Neurolink===
+"Snails on the list were once core members of the Resistance. Sadly, they betrayed us for their own gains. I rightly withheld my trust from the beginning. I secretly planted these Neurolinks in their brains so you could track them easily. Don't worry, I assure you that you don't have anything like that in your brain." -Gaia, Earth's Will. 
+
+Neurolink is the "currency" used to attack each traitor, one Neurolink equating one fight. You can get 4 a day from completing your Daily Tasks (Receive [[Museum]] rewards and Defeat Daily [[Hitmen|Hitman]]), and they can also be purchased for 100 W-tads each. Neurolinks will not be reset when the event is, so you can save up your Neurolinks if you want!
+
+===Traitors===
+The first traitor, Ex Agent, is automatically available to fight but the rest must be unlocked with B-Tads. Each other traitor costs 3k B-Tads to unlock. Unlocking each agent also rewards 3 Neurolinks each.
+
+Each traitor has 3 different levels and a different set of rewards. The first of four rewards is given during every fight depending on how much damage you did during the fight. The last three rewards are given upon defeating that level.
+
+Each fight lowers the HP of the traitor a little each time, which doesn't reset with each fight. Once HP reaches 0, the next traitor will become much stronger (and have better rewards of course) and the process is repeated. 
+
+At about 1.5m total power, you should be able to defeat each of the Lv. 2 fugitives within a reasonable time. At about 6.2m power, you should be able to defeat each of the Lv. 3 fugitives.
+
+As far as strategies go, Sacred Mirror is best for the fights that you're struggling with, while Lu Bu is better for the fights you can do relatively easily. For example, if you are at 3m power and have no issues with the first two levels, use Lu Bu to save on your Nuerolinks for Levels 1 and 2, but switch to Mirror for Level 3. This varies from person to person. 
+
+Note that defeating the Escaped Subject is required for [[Mutant Form#Rituals|Mutant Ritual T5]]. 
+{| class="mw-collapsible mw-collapsed wikitable" style="text-align:center;"
+!Fugitive!!Lv.!!ATK!!DEF!!HP!!Weakness!!Partial Attack Reward!!Defeat Reward
+|-
+|rowspan="3"|Ex Agent||1||1,600||1,000||80,000||AFFCT 5,000||{{RewardIconWithText|B-Tad}}||{{RewardIconWithText|B-Tad, +200k}}<br>{{RewardIconWithLink|Novice Scroll, +30|blue}}
+|-
+|2||21,000||15,000||6,000,000||ART 10,000||{{RewardIconWithText|B-Tad}}||{{RewardIconWithText|B-Tad, +400k}}<br>{{RewardIconWithLink|Expert Scroll, +60|purple}}<br>{{RewardIconWithLink|Relic RF, +5|orange}}
+|-
+|3||50,000||30,000||100,000,000||ART 20,000||{{RewardIconWithText|B-Tad}}||{{RewardIconWithText|B-Tad, +800k}}<br>{{RewardIconWithLink|Master Scroll, +120|orange}}<br>{{RewardIconWithLink|Relic RF, +10|orange}}
+|-
+|rowspan="3"|Ex Corps Captain||1||1,200||1,000||80,000||AFFCT 5,000||{{RewardIconWithLink|Tool Chest}}||{{RewardIconWithLink|Tool Chest, +240}}<br>{{RewardIconWithLink|Novice Scroll, +30|blue}}
+|-
+|2||18,000||15,000||6,000,000||Tech 11,000||{{RewardIconWithLink|Tool Chest}}||{{RewardIconWithLink|Tool Chest, +500}}<br>{{RewardIconWithLink|Expert Scroll, +60|purple}}<br>{{RewardIconWithLink|Relic RF, +5|orange}}
+|-
+|3||45,000||30,000||100,000,000||TECH 22,000||{{RewardIconWithLink|Tool Chest}}||{{RewardIconWithLink|Tool Chest, +1k}}<br>{{RewardIconWithLink|Master Scroll, +120|orange}}<br>{{RewardIconWithLink|Relic RF, +10|orange}}
+|-
+|rowspan="3"|Ex Academic||1||1,200||1,200||80,000||AFFCT 5,000||{{RewardIconWithLink|Time Chest}}||{{RewardIconWithText|Travel Speedup, +9h}}<br>{{RewardIconWithLink|Novice Scroll, +30|blue}}
+|-
+|2||18,000||18,000||6,000,000||FAME 9,500||{{RewardIconWithLink|Time Chest}}||{{RewardIconWithText|Travel Speedup, +18h}}<br>{{RewardIconWithLink|Expert Scroll, +60|purple}}<br>{{RewardIconWithLink|Relic RF, +5|orange}}
+|-
+|3||45,000||36,000||100,000,000||FAME 19,000||{{RewardIconWithLink|Time Chest}}||{{RewardIconWithText|Travel Speedup, +1d12h}}<br>{{RewardIconWithLink|Master Scroll, +120|orange}}<br>{{RewardIconWithLink|Relic RF, +10|orange}}
+|-
+|rowspan="3"|Ex Arch Knight||1||1,200||1,000||80,000||AFFCT 5,000||{{RewardIconWithText|Green Reagent|green}}||{{RewardIconWithText|Novice Alchemy Case, +20|blue}}<br>{{RewardIconWithLink|Novice Scroll, +30|blue}}
+|-
+|2||18,000||15,000||6,000,000||FTH 10,500||{{RewardIconWithText|Green Reagent|green}}||{{RewardIconWithText|Expert Alchemy Case, +24|purple}}<br>{{RewardIconWithLink|Expert Scroll, +60|purple}}<br>{{RewardIconWithLink|Relic RF, +5|orange}}
+|-
+|E3||45,000||30,000||100,000,000||FTH 21,000||{{RewardIconWithText|Green Reagent|green}}||{{RewardIconWithText|Master Alchemy Case, +24|orange}}<br>{{RewardIconWithLink|Master Scroll, +120|orange}}<br>{{RewardIconWithLink|Relic RF, +10|orange}}
+|-
+|rowspan="3"|Escaped Subject||1||1,200||1,000||80,000||AFFCT 5,000||{{RewardIconWithLink|Evolution Chest}}||{{RewardIconWithLink|Evolution Chest, +240}}<br>{{RewardIconWithLink|Novice Scroll, +30|blue}}
+|-
+|2||18,000||15,000||6,000,000||CIV 9,000||{{RewardIconWithLink|Evolution Chest}}||{{RewardIconWithLink|Evolution Chest, +500}}<br>{{RewardIconWithLink|Expert Scroll, +60|purple}}<br>{{RewardIconWithLink|Relic RF, +5|orange}}
+|-
+|3||45,000||30,000||100,000,000||CIV 18,000||{{RewardIconWithLink|Evolution Chest}}||{{RewardIconWithLink|Evolution Chest, +1k}}<br>{{RewardIconWithLink|Master Scroll, +120|orange}}<br>{{RewardIconWithLink|Relic RF, +10|orange}}
+|}
+
+===Cancer Cells===
+After beating all Level 3 Traitors and unlocking [[Demon Lord]] Fights at the [[Altar]], you will unlock a new set of fights with Cancer Cells. 
+
+These fights work the same as other Manhunt fights in that they are cumulative and you have until the end of a 30 day cycle to defeat them. The one difference is they cost 5 {{RewardIconWithText|Neurolink}}s per attempt.
+
+After you defeat Cancer Cell of Earth's Will Level 1,  [[Earth's Will]] will give you {{RewardIconWithLink|Cancer Cell Manual|green}}. This relic will unlock {{RewardIconWithLink|Rewards Box|orange}} in the [[Vending Machine]]. This will give additional {{RewardIconWithText|Neurolink}}s a day for more attempts.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="text-align:center;"
+!Fugitive!!Lv.!!ATK!!DEF!!HP!!Weakness!!Partial Attack Reward!!Defeat Reward
+|-
+|Cancer Cell of Earth's Will||1||75,000||60,000||240,000,000||Total AFFCT 110,000||{{RewardIconWithText|Refine Speedup}}||{{RewardIconWithText|Refine Speedup, +3d}}<br>{{RewardIconWithLink|Wormhole Refiner, +300}}<br>{{RewardIconWithLink|Relic RF, +10|orange}}
+|-
+|Cancer Cell of Gaia||2||150,000||120,000||480,000,000||Total AFFCT 160,000||{{RewardIconWithText|Refine Speedup}}||{{RewardIconWithText|Refine Speedup, +6d}}<br>{{RewardIconWithLink|Wormhole Refiner, +600}}<br>{{RewardIconWithLink|Relic RF, +15|orange}}
+|-
+|Cancer Cell of Earth's Will||3||300,000||250,000||1,200,000,000||Total AFFCT 235,000||{{RewardIconWithText|Refine Speedup}}||{{RewardIconWithText|Refine Speedup, +12d}}<br>{{RewardIconWithLink|Wormhole Refiner, +1k}}<br>{{RewardIconWithLink|Relic RF, +20|orange}}
+|}
+
+==Badge Shop==
+The Badge Shop is an incentive for participating in limited events; participation rewards {{RewardIconWithText|Badge}}s which can be spent here. The Badge Shop resets every 30 days.
+
+{{ShopRowHeader|Badge Shop|Badge}}
+!rowspan="6"|
+{{ShopRow|Blasphemy Eye Pack, <br>Purchase 1 Time|orange|400}}
+{{ShopRow|Lottery Ticket, +10<br>Purchase 3 Times Per Reset|orange|20|Incense, +3<br>Purchase 3 Times Per Reset|orange|150|Coating Bucket, +3<br>Purchase 3 Times Per Reset|orange|25}}
+{{ShopRow|Master Alchemy Case, +10<br>Purchase 3 Times Per Reset|orange|40|Wonder Fungus Orange ATK, +5<br>Purchase 3 Times Per Reset|orange|80|Grandmaster Scroll, +40<br>Purchase 3 Times Per Reset|orange|300}}
+!rowspan="2"|Relics
+{{ShopRow|Walden, <br>Purchase 1 Time|green|100|Lascaux Mural, <br>Purchase 1 Time<br>Available after purchasing {{RewardIconWithLink|Walden}}|green|200|Receiving the Envoy, <br>Purchase 7 Time<br>Available after purchasing {{RewardIconWithLink|Lascaux Mural}}|orange|600}}
+!rowspan="2"|Minion Skins
+{{ShopRow|Winged Horse, +20 Fragments<br>Purchase 1 Time|blue|400}}
+!rowspan="2"|Shells
+{{ShopRow|Lollipop, <br>Purchase 1 Time<br>Available after purchasing {{RewardIconWithLink|Winged Horse}}|green|200}}
+!rowspan="2"|Gene Segments
+{{ShopRow|HIV Gene Segment, <br>Purchase 1 Time|orange|50|NF Gene Segment, <br>Purchase 1 Time|orange|50|MAFB Gene Segment, <br>Purchase 1 Time|orange|50}}
+|}
+
+==Recurring Events==
+The three weekly events of [[Lottery Week]], [[Wishing Week]], and [[Offering Week]] make a cycle. During that three week cycle there is a meta event of [[Weekly Special]]. Weekly Special allows you to collect {{RewardIconWithLink|Weekly Special Stamp}}s from other events for rewards.
+
+During [[Wishing Week]] there is an additional event of the [[Clover Vendor]].
+
+During [[Offering Week]] there is an additional event of the [[Observatory Event]].
+
+[[Lucky Slot]] comes once a month for three days and give the chance to earn {{RewardIconWithLink|Lucky Star}}s for prizes.
+
+==One Off Events== 
+One off events occur at specific times of the year. Generally these events last for one to two weeks. They may repeat annually.
+
+For more information about specific One Off Events please refer to the [[Weekly_Events_History#Other|Weekly Event History]] page.
+
+[[Category:Events]]

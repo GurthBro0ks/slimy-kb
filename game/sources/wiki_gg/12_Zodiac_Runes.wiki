@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=12 Zodiac Runes
+|class_id=22453
+|rank=Blue
+|affct=FTH
+|birthday=09-03
+|source=Lottery Machine No.3 (0.03%)
+|description=On Sept 3, 473 AD, the twelve magical runes were forged.<br>The Twelve Zodiac Runes are ancient relics imbued with powerful energy. Each individual rune can bestow the corresponding power onto its holder. When they encounter other runes, their energy resonates and their effects are amplified. Their immense power has caused them to be sought after and fought over by both good and evil forces.
+|fame=25
+|art=34
+|fth=46
+|civ=23
+|tech=26
+|ss1=Per 5 Mythic Protodex Stars, Snail RUSH +3<br>Mythic Protodex Stars: 100/100
+|ss2=Per 5 Mythic Protodex Stars, Snail RUSH +6<br>Mythic Protodex Stars: 100/100
+|ss3=Per 5 Mythic Protodex Stars, Snail RUSH +9<br>Mythic Protodex Stars: 100/100
+|ss4=Per 5 Mythic Protodex Stars, Snail RUSH +15<br>Mythic Protodex Stars: 100/100
+|ss7=Per 5 Mythic Protodex Stars, Snail RUSH +15<br>Mythic Protodex Stars: 100/100<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Quantumamp  skill I.png|50px]]Place in a Quantum Amp: Quantum Amp production +2.5%
+}}

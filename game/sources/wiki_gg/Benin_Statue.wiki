@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Benin Statue
+|rank=Blue
+|affct=ART
+|birthday=07-23
+|source=Lottery Machine (0.03%), Wishing (1.2%)
+|description=On Jul 24, AD 1600, this sculpture was created in Benin, Nigeria.
+
+The Benin bronzes are rich in Nigerian ethnic culture. This statue was made by Benin Oba Esigie to remember his late mother Idia. Made by illiterate craftsman using the lost-wax casting, this statue preserved Egypt's oldest bronze-making technique. This method was passed down and used to make valuable bronzeware.
+|fame=28
+|art=47
+|fth=20
+|civ=33
+|tech=26
+|ss1=Per 10 Zombie Minions in battle: Troop HARD Stats +1
+|ss2=Per 10 Zombie Minions in battle: Troop HARD Stats +2
+|ss3=Per 10 Zombie Minions in battle: Troop HARD Stats +3
+|ss4=Per 10 Zombie Minions in battle: Troop HARD Stats +5
+|ss7=Per 10 Zombie Minions in battle: Troop HARD Stats +5<br>Per 10 Zombie Minions in battle: Troop HARD Stats +3 (Awakened)
+|skill1=[[File:Kemet skill I.png|50px]]Place in Kemetic Museum: In Kemet, ART Checks -5
+}}
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:ART Relics]]
+[[Category:Blue ART Relics]]
+[[Category:Zombie Minion HARD Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:Time Machine Boost]]
+[[Category:ATK Boost]]

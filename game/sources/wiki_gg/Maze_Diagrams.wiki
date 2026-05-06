@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Maze Diagrams
+|class_id=20200
+|rank=Green
+|affct=FAITH
+|source=
+|description=Advisor Zhuge learned the Art of War and created this diagram. It contains eight formations: Overlaying Sky, Loading Ground, Blowing Wind, Hanging Cloud, Flying Dragon, Tiger Wing, Flying Bird, and Coiling Snake. Each corresponds to the method of attack and defense in different situations.
+|fame=12
+|art=18
+|fth=30
+|civ=16
+|tech=14
+|ss1=When you Wish, get 1 Taichi Fish by +3%
+|ss2=When you Wish, get 1 Taichi Fish by +4%
+|ss3=When you Wish, get 1 Taichi Fish by +5%
+|ss4=When you Wish, get 1 Taichi Fish by +5%
+|ss7=When you Wish, get 1 Taichi Fish by +5%<br> (Awakened)
+}}

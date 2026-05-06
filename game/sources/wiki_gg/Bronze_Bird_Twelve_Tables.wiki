@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=46
+|relics=Bronze Bird,Twelve Tables
+|rank=blue
+|amount=2
+|category=self
+|description=B-tad rewards from offering +2%
+}}

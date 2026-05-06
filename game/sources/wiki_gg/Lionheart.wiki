@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Lionheart
+|rank=AAA
+|affct=FTH
+|birthday=10-24
+|source=Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On Oct 24, AD 1190, Richard I acquired this item which was a symbol of kingship.
+
+Legend has it that Richard I once put his hand in a lion's mouth and pulled out the lion's heart. This is where the name came from. He was the second king of the House of Plantagenet and one of the greatest kings in British history. It was a time when the spirit of knighthood was promoted and Richard had many followers. Both the noble and commoner class wanted to serve him as his knights. It is impressive that his strong character and 42 years of heroic achievements have been widely told all over the world for more than 800 years.
+|fame=38
+|art=49
+|fth=75
+|civ=45
+|tech=36
+|ss1=Per 1K DNA Strength, Snail ATK +5<br>Per 1K DNA Strength, Snail RUSH +5<br>DNA Strength:18,000/18,000
+|ss2=Per 1K DNA Strength, Snail ATK +5<br>Per 1K DNA Strength, Snail RUSH +5<br>DNA Strength:24,000/24,000
+|ss3=Per 1K DNA Strength, Snail ATK +5<br>Per 1K DNA Strength, Snail RUSH +5<br>DNA Strength:30,000/30,000
+|ss4=Per 1K DNA Strength, Snail ATK +5<br>Per 1K DNA Strength, Snail RUSH +5<br>DNA Strength:42,000/42,000
+|ss5=Per 1K DNA Strength, Snail ATK +5<br>Per 1K DNA Strength, Snail RUSH +5<br>DNA Strength:54,000/54,000
+|ss7=Per 1K DNA Strength, Snail ATK +5<br>Per 1K DNA Strength, Snail RUSH +5<br>DNA Strength:54,000/54,000<br>Snail Rush +70 (Awakened)
+|skill1=[[File:Britland skill II.png|50px]] Place In Britland Museum: In Britland, 2x Blue Reagent Drops +7.5%
+|skill2=[[File:Britland skill II.png|50px]] Place In Britland Museum: In Britland, 2x Blue Card Drops +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FTH Relics]]
+[[Category:Purple FTH Relics]]
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Enhanced by Power]]
+[[Category:Enhanced by DNA Strength]]
+[[Category:Chika Boost]]

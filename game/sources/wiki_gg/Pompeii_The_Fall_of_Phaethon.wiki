@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=310
+|relics=Pompeii,The Fall of Phaethon
+|rank=blue
+|amount=2
+|category=self
+|description=Free Gene Speedup (Demon) +30m
+}}

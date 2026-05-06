@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The 4th Wall
+|class_id=22780
+|rank=SSS
+|affct=FAME
+|source=
+|description=I am the Mecha T9 Traveler. But lately... this world feels off. Every day, a can materializes on the ground, as if spawned from nothing. Pig droppings and fruits appear out of air. There're gaps in my memory I can’t explain. I wake to the same scene: a monkey and a shrine. The other Travelers don’t notice. Am I malfunctioning? Or... is this world not what it seems?
+|fame=108
+|art=60
+|fth=53
+|civ=70
+|tech=71
+|ss1=Snail ATK +30<br>All minion skins ATK +10%<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +24<br>Fervor: 500000/500000
+|ss2=Snail ATK +40<br>All minion skins ATK +20%<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +32<br>Fervor: 500000/500000
+|ss3=Snail ATK +50<br>All minion skins ATK +30%<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +40<br>Fervor: 500000/500000
+|ss4=Snail ATK +70<br>All minion skins ATK +50%<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +56<br>Fervor: 500000/500000
+|ss5=Snail ATK +90<br>All minion skins ATK +70%<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +72<br>Fervor: 500000/500000
+|ss6=Snail ATK +120<br>All minion skins ATK +100%<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +96<br>Fervor: 500000/500000
+|ss7=Snail ATK +120<br>All minion skins ATK +100%<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +96<br>Fervor: 500000/500000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Reagent Drops +6%
+}}

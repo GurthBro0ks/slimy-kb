@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Mutant Fungus
+|class_id=20024
+|rank=Green
+|affct=FAITH
+|source=
+|description=There is a 3% chance to grow a Giant Fungus out of 100,000 Ordinary Fungi, and an 8% chance to grow a Mutated Fungus out of 300 Giant Fungi.
+|fame=14
+|art=12
+|fth=30
+|civ=17
+|tech=17
+|ss1=Fungus Farm: +2%chance to produce<br>Wonder Fungi
+|ss2=Fungus Farm: +4%chance to produce<br>Wonder Fungi
+|ss3=Fungus Farm: +6%chance to produce<br>Wonder Fungi
+|ss4=Fungus Farm: +6%chance to produce<br>Wonder Fungi
+|ss7=Fungus Farm: +6%chance to produce<br>Wonder Fungi<br> (Awakened)
+}}

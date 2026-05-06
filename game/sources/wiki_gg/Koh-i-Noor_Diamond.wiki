@@ -1,0 +1,44 @@
+{{CargoRelic
+|name=Koh-i-Noor Diamond
+|rank=S
+|affct=ART
+|birthday=07-29
+|source=ART Master Scrolls (34.7%), Fragment Crafting (18.1%), Lottery Machine (0.81%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), Wishing (0.68%)
+|description=On Jul 29, 1895, Queen Victoria set this diamond on the Crown of Queen Elizabeth The Queen Mother.
+
+This massive diamond inlaid on the Crown of Queen Elizabeth, the Koh-i-Noor, is a cursed one. Any man who owns it will rule the world but be cursed with terrible luck. Only a god or a woman can wear it and be safe. The Persian Emperor Nader Shah was assassinated after getting the diamond. Later, King George VI acquired it and died soon after!
+
+[Basic Info]
+
+Origin: Kola Mine, India<br>Type: Diamond<br>Weight: 108.93 carats<br>Estimated Value: $700,000<br>Curse: Brings bad luck to men
+|fame=59
+|art=98
+|fth=65
+|civ=62
+|tech=48
+|ss1=Snail HP +100<br>Snail DEF +10<br>Snail RUSH +10
+|ss2=Snail HP +200<br>Snail DEF +20<br>Snail RUSH +20
+|ss3=Snail HP +300<br>Snail DEF +30<br>Snail RUSH +30
+|ss4=Snail HP +500<br>Snail DEF +50<br>Snail RUSH +50
+|ss5=Snail HP +700<br>Snail DEF +70<br>Snail RUSH +70
+|ss6=Snail HP + 1,000<br>Snail DEF +100<br>Snail RUSH +100
+|ss7=Snail HP +1,000<br>Snail DEF +100<br>Snail RUSH +100<br>Snail DEF +100
+|skill1=[[File:Britland skill III.png|frameless|52x52px]]Place in Britland Museum: In Britland, 2x Blue Card Drops +15%
+|skill2=[[File:Compass skill III.png|frameless|53x53px]]Place in Exploration Compass: When exploring, 2x Blue Reagent Drops +15%
+|skill3=[[File:Timemachine skill III.png|frameless|53x53px]]Place in Time Machine: Time Machine Max Cap +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:DEF Boost]]
+[[Category:RUSH Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Time Machine Skill]]
+[[Category:Time Machine Output Boost]]
+[[Category:DEF-Fungi Boost]]
+[[Category:Gear Boost]]
+[[Category:Minorino Boost]]

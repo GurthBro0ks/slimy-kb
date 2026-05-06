@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Huskie
+|rank=blue
+|cabin=2
+|id=28
+|gene1={race} DEF +20
+|gene2={race} CIV +20
+|gene3=Earth DMG +10
+|gene4=Per 10 Dragon Minions in battle:
+> Troop DEF +2
+|gene5=Earth DMG +20
+|}}

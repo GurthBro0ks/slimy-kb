@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Red Algae Fossil
+|class_id=22240
+|rank=SSS
+|affct=FAME
+|birthday=12-08
+|source=
+|description=On Dec 8, 2006 AD, some scientists discovered it - the world's oldest plant fossil.<br>This seemingly inconspicuous fossil has a history dating back 1.6 billion years. It appears particularly large in comparison to many fine bacteria fossils from the same time period, and its interior is also very orderly, indicating that it was clearly a relatively advanced life form. The discovery of this fossil has altered the scientific community's understanding of the origins of complex life, as well as people's understanding of the earth.
+|fame=108
+|art=56
+|fth=55
+|civ=74
+|tech=69
+|ss1=Snail HP +300<br>W-tads collected from Drill Rig +3%<br>Per 10 times Maneater fed, Snail ATK +3<br>Maneater Fed: 400/400
+|ss2=Snail HP +400<br>W-tads collected from Drill Rig +4%<br>Per 10 times Maneater fed, Snail ATK +4<br>Maneater Fed: 400/400
+|ss3=Snail HP +500<br>W-tads collected from Drill Rig +5%<br>Per 10 times Maneater fed, Snail ATK +5<br>Maneater Fed: 400/400
+|ss4=Snail HP +700<br>W-tads collected from Drill Rig +7%<br>Per 10 times Maneater fed, Snail ATK +7<br>Maneater Fed: 400/400
+|ss5=Snail HP +900<br>W-tads collected from Drill Rig +9%<br>Per 10 times Maneater fed, Snail ATK +9<br>Maneater Fed: 400/400
+|ss6=Snail HP +1200<br>W-tads collected from Drill Rig +12%<br>Per 10 times Maneater fed, Snail ATK +12<br>Maneater Fed: 400/400
+|ss7=Snail HP +1200<br>W-tads collected from Drill Rig +12%<br>Per 10 times Maneater fed, Snail ATK +12<br>Maneater Fed: 400/400<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: This Relic's FAME +15
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, 2x Orange Reagent Drops +15%
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, DMG +30%
+|mirage={{Mirage|name=Ancient Creature Fossil|reward={{RewardIconWithLink|Golden Pickaxe, +5|orange}}
+|3name=Bacteria Fossil|3rec=74.45M|3atk=222810|3defense=148645|3hp=12807749|3weak=29674
+|4name=Cyanobacteria Fossil|4rec=96.96M|4atk=270269|4defense=180307|4hp=17970912|4weak=33939
+|5name=Ctenophore Fossil|5rec=123.41M|5atk=326052|5defense=217522|5hp=24676594|5weak=38154
+|6name=Trilobite Fossil|6rec=153.26M|6atk=388997|6defense=259515|6hp=32808562|6weak=43690
+|Arec=186.78M|Aatk=459706|Adefense=306688|Ahp=43393918|Aweak=49877
+}}}}

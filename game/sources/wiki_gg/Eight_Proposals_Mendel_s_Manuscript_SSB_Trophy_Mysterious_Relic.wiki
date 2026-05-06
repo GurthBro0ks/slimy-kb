@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Eight Proposals,Mendel's Manuscript,SSB Trophy,Mysterious Relic
+|rank=orange
+|amount=4
+|category=self
+|description=Per 20 Research Manuals used, Snail DEF +18; Research Manuals Used: 400/400
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by Research Manuals]]

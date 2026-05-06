@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Santa María
+|class_id=22795
+|rank=SSS
+|affct=FAME
+|source=
+|description=Santa Maria was the flagship of Christopher Columbus's expedition, whose aim was to find a new route to the East. However, they unexpectedly discovered the New World. This voyage shattered humanity's understanding of the world, connecting the continents of Europe and America, paving the way for later exploration and exchange. The voyage of the Santa Maria not only marked the beginning of an era but profoundly influenced global history.
+|fame=108
+|art=54
+|fth=57
+|civ=62
+|tech=81
+|ss1=All Minion DEF +0.6%<br>Protomon Troop assist DMG + 240<br>Per 10 TECH Pistils Used, Snail ATK +7<br>TECH Pistils Used: 400/400
+|ss2=All Minion DEF +0.8%<br>Protomon Troop assist DMG + 320<br>Per 10 TECH Pistils Used, Snail ATK +8<br>TECH Pistils Used: 400/400
+|ss3=All Minion DEF +1%<br>Protomon Troop assist DMG + 400<br>Per 10 TECH Pistils Used, Snail ATK +9<br>TECH Pistils Used: 400/400
+|ss4=All Minion DEF +1.4%<br>Protomon Troop assist DMG + 560<br>Per 10 TECH Pistils Used, Snail ATK +11<br>TECH Pistils Used: 400/400
+|ss5=All Minion DEF +1.8%<br>Protomon Troop assist DMG + 720<br>Per 10 TECH Pistils Used, Snail ATK +13<br>TECH Pistils Used: 400/400
+|ss6=All Minion DEF +2.4%<br>Protomon Troop assist DMG + 960<br>Per 10 TECH Pistils Used, Snail ATK +16<br>TECH Pistils Used: 400/400
+|ss7=All Minion DEF +2.4%<br>Protomon Troop assist DMG + 960<br>Per 10 TECH Pistils Used, Snail ATK +16<br>TECH Pistils Used: 400/400<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +3%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+}}

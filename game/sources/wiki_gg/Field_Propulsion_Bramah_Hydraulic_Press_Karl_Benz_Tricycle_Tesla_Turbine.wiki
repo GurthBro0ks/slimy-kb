@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=700
+|relics=Field Propulsion,Bramah Hydraulic Press,Karl Benz Tricycle,Tesla Turbine
+|rank=purple
+|amount=4
+|category=self
+|description=Per Godhood LVL, Snail ATK +48;Godhood LVL: 10/10
+}}

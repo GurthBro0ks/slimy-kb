@@ -1,0 +1,42 @@
+{{CargoRelic
+|name=Paradise Lost
+|rank=S
+|affct=CIV
+|birthday=04-21
+|source=CIV Master Scrolls (34.7%), Fragment Crafting (18.8%), Lottery Machine (0.81%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), Super Treasure Maps (15%), Wishing (0.69%)
+|description=On Apr 21, 1667, the British poet Milton wrote the epic poem, "Paradise Lost". "Paradise Lost" has 12 volumes and more than 10,000 lives. The books tells the story of the Fall of Mankind in an allusive and elevated writing style. The poem talks about the fallen angel Satan thrown into hell for disobeying God. For revenge, he sneaked into the Garden of Eden and tempted the ancestors of mankind, Adam and Eve, to eat the forbidden fruit. In the end, humans were exiled and Satan plunged into an even darker abyss.
+
+[Famous Lines]
+
+Better to reign in Hell, than to serve in Heaven. Evil be thou my good. For the faithful, death is the door to eternal life. The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.
+|fame=65
+|art=58
+|fth=67
+|civ=96
+|tech=46
+|ss1=Snail HP +100<br>Snail DEF +10<br>Per partner you have, Snail HP +30<br>Current Partners: 15/15
+|ss2=Snail HP +200<br>Snail DEF +20<br>Per partner you have, Snail HP +60<br>Current Partners: 15/15
+|ss3=Snail HP +300<br>Snail DEF +30<br>Per partner you have, Snail HP +90<br>Current Partners: 15/15
+|ss4=Snail HP +500<br>Snail DEF +50<br>Per partner you have, Snail HP +150<br>Current Partners: 15/15
+|ss5=Snail HP +700<br>Snail DEF +70<br>Per partner you have, Snail HP +210<br>Current Partners: 15/15
+|ss6=Snail HP +1,000<br>Snail DEF +100<br>Per partner you have, Snail HP +300<br>Current Partners: 15/15
+|ss7=Snail HP +1,000<br>Snail DEF +100<br>Per partner you have, Snail HP +300<br>Current Partners: 15/15<br>Snail HP +1,000 (Awakened)
+|skill1=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Snail DEF +600
+|skill2=[[File:Quarry skill III.png|50px]]Place in Quarry: Quarry Max Cap +30%
+|skill3=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Lumber Max Cap +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:DEF Boost]]
+[[Category:Partner Boost]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:Quarry Skill]]
+[[Category:Quarry Output Boost]]
+[[Category:Lumber Camp Skill]]
+[[Category:Lumber Camp Output Boost]]
+[[Category:Offering Reward Boost]]
+[[Category:Incense Boost]]
+[[Category:Imp Boost]]
+[[Category:Gaiastapo Boost]]

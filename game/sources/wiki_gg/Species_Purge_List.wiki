@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Species Purge List
+|class_id=20441
+|rank=Green
+|affct=FAME
+|source=
+|description=This list released by the cadres of the snails includes the many races that are potential threats to the clan. It also calls on the snails to unite against the outside world and be proactive in the impending species war...
+|fame=31
+|art=15
+|fth=19
+|civ=14
+|tech=11
+|ss1=In Species War, Troop Casualty -1%<br>Per Species War joined, Snail ATK +2<br>Species War Enlisted: 20/20
+|ss2=In Species War, Troop Casualty -2%<br>Per Species War joined, Snail ATK +4<br>Species War Enlisted: 20/20
+|ss3=In Species War, Troop Casualty -3%<br>Per Species War joined, Snail ATK +6<br>Species War Enlisted: 20/20
+|ss4=In Species War, Troop Casualty -3%<br>Per Species War joined, Snail ATK +6<br>Species War Enlisted: 20/20
+|ss7=In Species War, Troop Casualty -3%<br>Per Species War joined, Snail ATK +6<br>Species War Enlisted: 20/20<br> (Awakened)
+}}

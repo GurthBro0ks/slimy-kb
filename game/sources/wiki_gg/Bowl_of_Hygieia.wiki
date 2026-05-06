@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Bowl of Hygieia
+|class_id=22148
+|rank=A
+|affct=FAITH
+|birthday=08-08
+|source=Lottery Machine No.2 (0.55%), Wishing (0.15%)
+|description=On Aug 8, 1925 BC, Hygieia trained a snake to help her try medicines.<br>This bowl-shaped pottery belongs to Hygieia, the goddess of health. She uses the bowl to collect herbs and allows the snake by the bowl to taste them. After learning about the herbs' properties and effects, she would combine them into new medicines that benefit the world.
+|fame=38
+|art=44
+|fth=65
+|civ=30
+|tech=36
+|ss1=Per 30 Evo Chests opened, Snail ATK +1<br>Per 30 Evo Chests opened, Snail RUSH +1<br>Evo Chests Opened: 1500/1500
+|ss2=Per 30 Evo Chests opened, Snail ATK +2<br>Per 30 Evo Chests opened, Snail RUSH +2<br>Evo Chests Opened: 1500/1500
+|ss3=Per 30 Evo Chests opened, Snail ATK +3<br>Per 30 Evo Chests opened, Snail RUSH +3<br>Evo Chests Opened: 1500/1500
+|ss4=Per 30 Evo Chests opened, Snail ATK +5<br>Per 30 Evo Chests opened, Snail RUSH +5<br>Evo Chests Opened: 1500/1500
+|ss5=Per 30 Evo Chests opened, Snail ATK +7<br>Per 30 Evo Chests opened, Snail RUSH +7<br>Evo Chests Opened: 1500/1500
+|ss7=Per 30 Evo Chests opened, Snail ATK +7<br>Per 30 Evo Chests opened, Snail RUSH +7<br>Evo Chests Opened: 1500/1500<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, All Minion RUSH +4.5%
+|skill2=[[File:Hellas skill II.png|50px]]Place in Hellenic Museum: In Hellas, 2x White Card Drops +7.5%
+}}

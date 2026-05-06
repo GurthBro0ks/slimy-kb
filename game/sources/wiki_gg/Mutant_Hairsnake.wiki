@@ -1,0 +1,17 @@
+{{CargoClone
+|name=Mutant Hairsnake
+|rank=orange
+|cabin=2
+|id=102
+|gene1={race} HP +500
+|gene2={race} FTH +50
+|gene3=Resolver: 4.5% chance +1 Cultivation Fluid
+|gene4=Per 60 Zombie Minions in battle,
+Troop Water DMG +6
+|gene5=When in Zombie Form:
+> Gain +1.5% Evo Chests in explorations
+|gene6=Per 60 Zombie Minions in battle,
+Troop Water DMG +10
+|gene7=When in Zombie Form:
+> Gain +2.5% Evo Chests in explorations
+|}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Luther Rose
+|class_id=22457
+|rank=Blue
+|affct=FAITH
+|birthday=12-04
+|source=Lottery Machine No.3 (0.03%)
+|description=On Dec 4, 1516 AD, Martin Luther designed this famous emblem.<br>The Luther Rose, an emblem of Lutheranism, was designed by its founder, Martin Luther. He combined symbolic elements of Christianity such as the black cross, red heart, and white rose to create this emblem. The Luther Rose represents his reinterpretation of ancient doctrine and emergence of new theological theories. Today, due to the significant influence of Martin Luther and the Reformation, the Luther Rose is still highly revered.
+|fame=27
+|art=34
+|fth=45
+|civ=20
+|tech=28
+|ss1=Angel Minion ATK +1%
+|ss2=Angel Minion ATK +2%
+|ss3=Angel Minion ATK +3%
+|ss4=Angel Minion ATK +5%
+|ss7=Angel Minion ATK +5%<br>Angel Minion ATK +5% (Awakened)
+|skill1=[[File:Desertsanctum skill I.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +5%
+}}

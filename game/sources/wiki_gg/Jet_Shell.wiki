@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=A turbine engine is added to this Snail Shell for greater power and speed!
+|affct=TECH
+|hard=DEF
+|source=Divine Chaos Chest (0.8%)
+|color=green
+|earth=0
+|water=0
+|fire=1
+|wind=5
+|form=Mecha
+|element=Fire
+|realm=Cathay
+|orangehard=DEF
+}}

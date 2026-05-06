@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=The Nine Songs
+|class_id=20103
+|rank=Green
+|affct=CIV
+|source=
+|description="The Nine Songs" is a piece of poetry in the "Songs of Chu" that was created by reworking folk songs into ritual music for the gods. Most of the sections describe the affection between the gods, expressing a deep sense of longing or sadness for unfulfilled desires. At the time of writing, Qu Yuan, the author, was in exile and filled with sorrowful thoughts. Through the creation of the ritual music, he sought to express and convey his emotions.
+|fame=15
+|art=16
+|fth=17
+|civ=31
+|tech=11
+|ss1=Per 3 kinds of souls offered, Snail ATK +1<br>Souls offered: 300/300 types
+|ss2=Per 3 kinds of souls offered, Snail ATK +2<br>Souls offered: 300/300 types
+|ss3=Per 3 kinds of souls offered, Snail ATK +3<br>Souls offered: 300/300 types
+|ss4=Per 3 kinds of souls offered, Snail ATK +3<br>Souls offered: 300/300 types
+|ss7=Per 3 kinds of souls offered, Snail ATK +3<br>Souls offered: 300/300 types<br> (Awakened)
+}}

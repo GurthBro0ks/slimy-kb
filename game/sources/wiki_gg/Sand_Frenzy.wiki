@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=Sand Frenzy
+|type=Common
+|rank=red
+|id=10962
+|idx=155
+|description=Sandworms. Aggressive. Active desert-dwellers dusk till dawn. Shreds prey with razor-teeth maw, dissolves victims in acid, then absorbs nutrients…
+-Sandworm Ecology Report
+|skill=
+|hp=2910
+|def=250
+|atk=286
+|rush=243
+|gene1=Per 200 Fissure Floors, {race} ATK +7
+Fissure Floor: 5000/5000
+|gene2={race} Earth RES +2%
+|gene3=Stone collected from Drill Rig +4%
+|gene4=In Fissure combat, CRIT +20%
+|gene5=Wood collected from Drill Rig +4%
+|gene6=Earth DMG +2%
+|gene7=Earth DMG +6% (Awakened)
+|}}

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Golden Scarab,Shroud of Turin
+|rank=orange
+|amount=2
+|category=other
+|description=B-tad rewards from offering +2.8%
+}}
+[[Category:Other]]

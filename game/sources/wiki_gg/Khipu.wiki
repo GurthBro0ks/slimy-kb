@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Khipu
+|class_id=22572
+|rank=AA
+|affct=CIV
+|birthday=04-11
+|source=Lottery Machine No.3 (0.12%)
+|description=On Apr 11, 1974 AD, Harvard professor Urton successfully deciphered the Inca writing for the first time.<br>Khipu was a system of knots used by the Inca to record information. When studying Inca civilization, scientists were puzzled by the cotton strings left by the Inca. Why did the Inca have no form of writing? Finally, archaeologists from Harvard University deciphered that Khipu was a three-dimensional writing system. By using different knotting techniques and knot numbers, the Inca recorded population and financial data related to the Inca Empire. But because this knotting method has been lost, scientists can only slowly decipher it...
+|fame=47
+|art=48
+|fth=36
+|civ=68
+|tech=29
+|ss1=Catalyzed White Spores turn to Green by +0.2%<br>Catalyzed Green Spores turn to Blue by +0.2%
+|ss2=Catalyzed White Spores turn to Green by +0.3%<br>Catalyzed Green Spores turn to Blue by +0.3%
+|ss3=Catalyzed White Spores turn to Green by +0.4%<br>Catalyzed Green Spores turn to Blue by +0.4%
+|ss4=Catalyzed White Spores turn to Green by +0.6%<br>Catalyzed Green Spores turn to Blue by +0.6%
+|ss5=Catalyzed White Spores turn to Green by +0.8%<br>Catalyzed Green Spores turn to Blue by +0.8%
+|ss7=Catalyzed White Spores turn to Green by +0.8%<br>Catalyzed Green Spores turn to Blue by +0.8%<br>Catalyzed White Spores turn to Green by +0.7% (Awakened)
+|skill1=[[File:Surfclam skill II.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Water RES +30
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's CIV +10
+}}

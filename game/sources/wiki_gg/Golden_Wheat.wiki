@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Golden Wheat
+|rank=SSS
+|affct=ART
+|birthday=04-15
+|source=* Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.08%), Yamato Treasure Maps (0.01%)
+* [[Red Doe]] - [[Rare Rent]]
+|description=On Apr 15, 1600 BC, Hermes stole the newly harvested wheat from the goddess of agriculture Demeter.
+
+On this day, Demeter was infuriated because Hermes had stolen one of her best-looking stalks of wheat. She brandished her sickle and chased after Hermes but failed to catch him. This powerful goddess of harvest taught mankind how to farm and brought life to the earth. She makes lands fertile, flourishes plants, and increases the harvest. She can also make plants die and wither. But even for someone as powerful as her, it is impossible to bring the god of thieves to justice.
+|fame=70
+|art=108
+|fth=52
+|civ=59
+|tech=73
+|ss1=Fungus Farm Output +6%<br>Tadpole Pond B-tad Output +6%<br>Time Machine Travel Speedup Output +6%
+|ss2=Fungus Farm Output +8%<br>Tadpole Pond B-tad Output +8%<br>Time Machine Travel Speedup Output +8%
+|ss3=Fungus Farm Output +10%<br>Tadpole Pond B-tad Output +10%<br>Time Machine Travel Speedup Output +10%
+|ss4=Fungus Farm Output +14%<br>Tadpole Pond B-tad Output +14%<br>Time Machine Travel Speedup Output +14%
+|ss5=Fungus Farm Output +18%<br>Tadpole Pond B-tad Output +18%<br>Time Machine Travel Speedup Output +18%
+|ss6=Fungus Farm Output +24%<br>Tadpole Pond B-tad Output +24%<br>Time Machine Travel Speedup Output +24%
+|ss7=Fungus Farm Output +24%<br>Tadpole Pond B-tad Output +24%<br>Time Machine Travel Speedup Output +24%<br>Tadpole Pond B-tad Output +20% (Awakened)
+|skill1=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: B-tad Output +30%
+|skill2=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: This Relic's ART +15
+|skill3=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Generate W-tads by +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Fungus Farm Output Boost]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Time Machine Output Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:ART Boost]]
+[[Category:Tadpole Pond W-Tad Output Boost]]
+[[Category:HP Boost]]
+[[Category:HP-Fungi Boost]]
+[[Category:Relic Boost]]
+[[Category:Rewards Golden Pickaxe]]

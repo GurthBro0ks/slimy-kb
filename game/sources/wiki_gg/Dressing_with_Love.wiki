@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dressing with Love
+|class_id=20946
+|rank=Green
+|affct=FAME
+|source=
+|description=In this photograph titled "Dressing with Love" volunteers are distributing clothing to children. Under the warm gaze of volunteers, the children wear innocent smiles accepting this manifestation of love letting warmth flow in the cold wind.
+|fame=30
+|art=14
+|fth=13
+|civ=15
+|tech=18
+|ss1=Per 3 Minion Skins crafted, Snail ATK +3<br>Per 3 Minion Skins crafted, Snail RUSH +3<br>Minion Skins crafted: 60/60
+|ss2=Per 3 Minion Skins crafted, Snail ATK +6<br>Per 3 Minion Skins crafted, Snail RUSH +6<br>Minion Skins crafted: 60/60
+|ss3=Per 3 Minion Skins crafted, Snail ATK +9<br>Per 3 Minion Skins crafted, Snail RUSH +9<br>Minion Skins crafted: 60/60
+|ss4=Per 3 Minion Skins crafted, Snail ATK +9<br>Per 3 Minion Skins crafted, Snail RUSH +9<br>Minion Skins crafted: 60/60
+|ss7=Per 3 Minion Skins crafted, Snail ATK +9<br>Per 3 Minion Skins crafted, Snail RUSH +9<br>Minion Skins crafted: 60/60<br> (Awakened)
+}}

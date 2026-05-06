@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=? Block
+|class_id=20991
+|rank=Green
+|affct=FAME
+|source=
+|description=A suspiciously block with a question mark. One glance at it and your skull starts itching for a headbutt. When that sweet "ding!" hits your ears, you’ll suddenly crave denim overalls.
+|fame=31
+|art=14
+|fth=13
+|civ=19
+|tech=13
+|ss1=Earth RES +4<br>Per 200 Fissure Floors, Snail HP +16<br>Fissure Floor: 5000/5000
+|ss2=Earth RES +8<br>Per 200 Fissure Floors, Snail HP +32<br>Fissure Floor: 5000/5000
+|ss3=Earth RES +12<br>Per 200 Fissure Floors, Snail HP +48<br>Fissure Floor: 5000/5000
+|ss4=Earth RES +12<br>Per 200 Fissure Floors, Snail HP +48<br>Fissure Floor: 5000/5000
+|ss7=Earth RES +12<br>Per 200 Fissure Floors, Snail HP +48<br>Fissure Floor: 5000/5000<br> (Awakened)
+}}

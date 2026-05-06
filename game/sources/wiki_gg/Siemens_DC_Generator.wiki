@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Siemens DC Generator
+|class_id=22506
+|rank=A
+|affct=FAME
+|birthday=09-26
+|source=Lottery Machine No.3 (0.55%)
+|description=On Sept 26, 1866 AD, Siemens proposed the working principle of the self-excited DC generator.<br>About thirty years after the hand-cranked DC generator was invented, Siemens improved the construction of the DC generator after research and feedback part of the electricity generated to increase the magnetic pole's magnetism. This product, called a self-excited DC generator, greatly improved the generator's efficiency and greatly promoted the development process of the electrical era.
+|fame=61
+|art=37
+|fth=31
+|civ=42
+|tech=42
+|ss1=Species War Cabin Output +1%<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +2
+|ss2=Species War Cabin Output +2%<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +4
+|ss3=Species War Cabin Output +3%<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +6
+|ss4=Species War Cabin Output +5%<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +10
+|ss5=Species War Cabin Output +7%<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +14
+|ss7=Species War Cabin Output +7%<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +14<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +14 (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: Lifesteal Effect +10%
+|skill2=[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: This Relic's FAME +10
+}}

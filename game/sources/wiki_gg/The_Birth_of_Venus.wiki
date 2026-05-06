@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Birth of Venus
+|class_id=22266
+|rank=SSS
+|affct=ART
+|birthday=03-18
+|source=Lottery Machine No.2 (0.11%)
+|description=On Mar 18, 1487 AD, the Italian painter Botticelli painted Birth of Venus for Lorenzo the Magnificent of the Medici family.<br>Birth of Venus depicts the moment when Venus has emerged from the sea in a shell. She is attended by two winds who blow her toward the shore, while a nymph is poised to wrap a cloak, decorated with spring flowers, around Venus to cover her nudity, her eyes wide with wonder as she gazes out on the horizon.
+|fame=48
+|art=108
+|fth=74
+|civ=68
+|tech=64
+|ss1=Demon Minion RUSH +3%<br>Per Dorm Decor gained, Snail ATK +3<br>Per Dorm Decor gained, Snail DEF +3<br>Dorm Decor Gained: 40/40
+|ss2=Demon Minion RUSH +4%<br>Per Dorm Decor gained, Snail ATK +4<br>Per Dorm Decor gained, Snail DEF +4<br>Dorm Decor Gained: 40/40
+|ss3=Demon Minion RUSH +5%<br>Per Dorm Decor gained, Snail ATK +5<br>Per Dorm Decor gained, Snail DEF +5<br>Dorm Decor Gained: 40/40
+|ss4=Demon Minion RUSH +7%<br>Per Dorm Decor gained, Snail ATK +7<br>Per Dorm Decor gained, Snail DEF +7<br>Dorm Decor Gained: 40/40
+|ss5=Demon Minion RUSH +9%<br>Per Dorm Decor gained, Snail ATK +9<br>Per Dorm Decor gained, Snail DEF +9<br>Dorm Decor Gained: 40/40
+|ss6=Demon Minion RUSH +12%<br>Per Dorm Decor gained, Snail ATK +12<br>Per Dorm Decor gained, Snail DEF +12<br>Dorm Decor Gained: 40/40
+|ss7=Demon Minion RUSH +12%<br>Per Dorm Decor gained, Snail ATK +12<br>Per Dorm Decor gained, Snail DEF +12<br>Dorm Decor Gained: 40/40<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's ART +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|mirage={{Mirage|name=The Embodiment of Beauty|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Butterfly|3rec=113.28M|3atk=314174|3defense=203268|3hp=22644101|3weak=37927
+|4name=Rose|4rec=145.68M|4atk=378657|4defense=248855|4hp=31454735|4weak=41568
+|5name=Pearl|5rec=184.73M|5atk=445632|5defense=303803|5hp=41823806|5weak=49377
+|6name=Constellation|6rec=224.81M|6atk=549788|6defense=360192|6hp=55679974|6weak=54274
+|Arec=295.36M|Aatk=631325|Adefense=428285|Ahp=73944200|Aweak=58842
+}}}}

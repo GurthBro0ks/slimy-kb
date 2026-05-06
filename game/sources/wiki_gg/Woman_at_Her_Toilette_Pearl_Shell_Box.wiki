@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=806
+|relics=Woman at Her Toilette,Pearl Shell Box
+|rank=orange
+|amount=2
+|category=self
+|description=All Orange Minion Skin HARD Stats +50%
+}}

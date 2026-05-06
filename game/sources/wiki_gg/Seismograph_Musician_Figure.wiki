@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Seismograph,Musician Figure
+|rank=blue
+|amount=2
+|category=self
+|description=Per 20 Blue Beads drawn, Snail HP +100<br>Blue Beads Drawn: 300/300
+}}
+[[Category:Self]]

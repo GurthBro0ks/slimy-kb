@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Immortal Meow
+|rank=red
+|cabin=1
+|id=1006
+|gene1={race} HARD +50
+|gene2={race} AFFCT +50
+|gene3=For Round 1, CRIT DMG +2.5%
+|gene4=Per 60 Minions in battle:
+> Troop Earth DMG +6
+|gene5=Demon Gene Research SPD +0.6%
+|gene6=Per 60 Minions in battle:
+> Troop Earth DMG +10
+|gene7=Demon Gene Research SPD +1%
+|}}

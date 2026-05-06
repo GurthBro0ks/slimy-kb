@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=2-handled Clay Pot
+|class_id=21648
+|rank=AAA
+|affct=ART
+|source=
+|description=2-handled Clay Pot is a common ceramic vessel in ancient Mediterranean regions, especially popular in ancient Greek and Roman civilizations. These pots are typically used for storing, transporting, and drinking liquids such as water, wine, oil, and dry goods such as grains. Their designs are not only practical, but also reflect the artistic creativity of ancient craftsmen, making them important cultural relics for studying ancient culture and artistic styles.
+|fame=36
+|art=75
+|fth=44
+|civ=51
+|tech=37
+|ss1=Demon Minion ATK +3%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +120
+|ss2=Demon Minion ATK +4%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +160
+|ss3=Demon Minion ATK +5%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +200
+|ss4=Demon Minion ATK +7%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +280
+|ss5=Demon Minion ATK +9%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +360
+|ss7=Demon Minion ATK +9%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +360<br>Per 30 T7+ Minions in battle:<br>> Troop HP +280 (Awakened)
+|skill1=[[File:Cathay skill II.png|50px]]Place in Cathay Museum: This Relic's ART +10
+|skill2=[[File:Cathay skill II.png|50px]]Place in Cathay Museum: In Cathay, 2x Orange Card Drops +8.5%
+}}

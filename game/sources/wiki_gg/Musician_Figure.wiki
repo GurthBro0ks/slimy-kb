@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Musician Figure
+|rank=Blue
+|affct=CIV
+|birthday=07-10
+|source=Lottery Machine (0.03%), Wish (0.82%), Cathay Treasure Maps (20%)
+|description=On Jul 10, 1959, the tri-colored camel terracotta was unearthed in the Tang tomb pit 1. 
+
+The tri-colored camel terracotta caused a sensation when it was unearthed. The tomb belonged to Genearl Xian Yulian, who was a Supreme Great Grand General at the time of his death. There are 4 musicians and 1 dancer seated on the platform of this camel figurine, and they are mostly Hu people with deep eyes and sharp noses. This terracotta reflected the foreign style of Hu music and dance through the bright tri-color glaze. Artists of the Tang dynasty creatively designed this scene by having performers sitting on the camel's back. 
+
+[Info of Terracotta]
+
+Height: 58 cm. Length: 41 cm. Weight: 1,736 g. Collected by: Shaanxi History Museum.
+|fame=27
+|art=30
+|fth=22
+|civ=46
+|tech=29
+|ss1=Quarry upgrade B-tad Cost -1%
+|ss2=Quarry upgrade B-tad Cost -2%
+|ss3=Quarry upgrade B-tad Cost -3%
+|ss4=Quarry upgrade B-tad Cost -5%
+|ss7=Quarry upgrade B-tad Cost -5%<br>Quarry upgrade B-tad Cost -5% (Awakened)
+|skill1=[[File:Cathay skill I.png|50px]] Place in Cathay Museum: In Cathay, Snail DEF +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:CIV Relics]]
+[[Category:Blue CIV Relics]]
+[[Category:Quarry Upgrade Cost Reduction]]
+[[Category:Quarry Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Lottery Draws]]

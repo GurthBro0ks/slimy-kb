@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Otis Elevator
+|class_id=22109
+|rank=AA
+|affct=FAME
+|birthday=07-05
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On July 5, 1853 AD, Otis demonstrated his elevator safety system at the Crystal Palace Convention in New York City.<br>Otis, an American inventor, developed the passenger lift. Unlike old-fashioned elevators, it includes a brake that stops the platform from falling even if the suspension rope breaks. This design solved a significant safety issue of elevators, making them widely used around the world. The Otis Elevator Company he founded remains a leading company in the industry.
+|fame=66
+|art=41
+|fth=34
+|civ=43
+|tech=44
+|ss1=Per 30 Mecha Minions in battle:<br>> Troop HP +80<br>Per 30 Mecha Minions in battle:<br>> Troop DEF +8
+|ss2=Per 30 Mecha Minions in battle:<br>> Troop HP +120<br>Per 30 Mecha Minions in battle:<br>> Troop DEF +12
+|ss3=Per 30 Mecha Minions in battle:<br>> Troop HP +160<br>Per 30 Mecha Minions in battle:<br>> Troop DEF +16
+|ss4=Per 30 Mecha Minions in battle:<br>> Troop HP +240<br>Per 30 Mecha Minions in battle:<br>> Troop DEF +24
+|ss5=Per 30 Mecha Minions in battle:<br>> Troop HP +320<br>Per 30 Mecha Minions in battle:<br>> Troop DEF +32
+|ss7=Per 30 Mecha Minions in battle:<br>> Troop HP +320<br>Per 30 Mecha Minions in battle:<br>> Troop DEF +32<br>Per 30 Mecha Minions in battle:<br>> Troop HP +280 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +60
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Zombie Cells gained +7.5%
+}}

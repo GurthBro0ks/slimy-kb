@@ -1,0 +1,314 @@
+{{Missing Info|specifics=Robot amounts past 90}}
+
+== Rebel Device ==
+Rebel Device Cabin within [[Rocket]] Cabins
+
+Send robots to gather: {{RewardIconWithText|B-Tad}}, {{RewardIconWithText|Mecha Cell}}<br>
+Upgrade Rebel Cabin Tech to send more robots.
+{| class="wikitable"
+!Tech
+!Robots
+|-
+|0-399||5
+|-
+|400-1,399||10
+|-
+|1,400-3,199||20
+|-
+|3,200-5,999||30
+|-
+|6,000-10,799||40
+|-
+|10,800-17,999||50
+|-
+|18,000-24,999||60
+|-
+|25,000-35,999||70
+|-
+|36,000-53,999||80
+|-
+|54,000-79,999||90
+|-
+|80,000-?||?
+|}
+
+==Photonic Communicator==
+Each tier gives +1 to Angel Minion HP, ATK, DEF, and RUSH. <br> Each tier gives +1% to All Minion HP.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Rebel Deck Plate x40<br>T1 Rebel Lens x40<br>T1 Rebel Radio x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x10K
+|[[File:Travel-speedup.png|frameless|50x50px]] Travel Speedup +2h
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x30
+|-
+|2
+|T2 Rebel Deck Plate x40<br>T2 Rebel Lens x40<br>T2 Rebel Radio x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x20K
+|[[File:Travel-speedup.png|frameless|50x50px]] Travel Speedup +4h
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x60
+|-
+|3
+|T3 Rebel Deck Plate x40<br>T3 Rebel Lens x40<br>T3 Rebel Radio x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x30K
+|[[File:Travel-speedup.png|frameless|50x50px]] Travel Speedup +8h
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x120
+|-
+|4
+|T4 Rebel Deck Plate x40<br>T4 Rebel Lens x40<br>T4 Rebel Radio x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x40K
+|[[File:Travel-speedup.png|frameless|50x50px]] Travel Speedup +16h
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x200
+|-
+|5
+|T5 Rebel Deck Plate x40<br>T5 Rebel Lens x40<br>T5 Rebel Radio x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x50K
+|[[File:Travel-speedup.png|frameless|50x50px]] Travel Speedup +1d
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x300
+|}
+
+==Prismatic Armor==
+Each tier gives +1 to Mecha Minion HP, ATK, DEF, and RUSH. <br> Each tier gives +1% to All Minion DEF.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|40 T1 Rebel Deck Plate<br>40 T1 Rebel Lens<br>40 T1 Rebel Radio<br>10k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Coating Bucket, +3|orange}}
+|{{RewardIconWithLink|Military Printing Supply, +30|red}}
+|-
+|2
+|40 T2 Rebel Deck Plate<br>40 T2 Rebel Lens<br>40 T2 Rebel Radio<br>20k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Coating Bucket, +6|orange}}
+|{{RewardIconWithLink|Military Printing Supply, +60|red}}
+|-
+|3
+|40 T3 Rebel Deck Plate<br>40 T3 Rebel Lens<br>40 T3 Rebel Radio<br>30k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Coating Bucket, +12|orange}}
+|{{RewardIconWithLink|Military Printing Supply, +120|red}}
+|-
+|4
+|40 T4 Rebel Deck Plate<br>40 T4 Rebel Lens<br>40 T4 Rebel Radio<br>40k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Coating Bucket, +18|orange}}
+|{{RewardIconWithLink|Military Printing Supply, +200|red}}
+|-
+|5
+|40 T5 Rebel Deck Plate<br>40 T5 Rebel Lens<br>40 T5 Rebel Radio<br>50k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Coating Bucket, +24|orange}}
+|{{RewardIconWithLink|Military Printing Supply, +300|red}}
+|}
+
+==Auto-reload Device==
+Each tier gives +1 to Demon Minion HP, ATK, DEF, and RUSH. <br> Each tier gives +1% to All Minion ATK.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Rebel Deck Plate x40<br>T1 Rebel Radio x40<br>T1 Rebel Polyester x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x10K
+|[[File:Gear Chest.png|frameless|50x50px]] Gear Chest +100
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x30
+|-
+|2
+|T2 Rebel Deck Plate x40<br>T2 Rebel Radio x40<br>T2 Rebel Polyester x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x20K
+|[[File:Gear Chest.png|frameless|50x50px]] Gear Chest +200
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x60
+|-
+|3
+|T3 Rebel Deck Plate x40<br>T3 Rebel Radio x40<br>T3 Rebel Polyester x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x30K
+|[[File:Gear Chest.png|frameless|50x50px]] Gear Chest +400
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x120
+|-
+|4
+|T4 Rebel Deck Plate x40<br>T4 Rebel Radio x40<br>T4 Rebel Polyester x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x40K
+|[[File:Gear Chest.png|frameless|50x50px]] Gear Chest +800
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x200
+|-
+|5
+|T4 Rebel Deck Plate x40<br>T5 Rebel Radio x40<br>T5 Rebel Polyester x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x50K
+|[[File:Gear Chest.png|frameless|50x50px]] Gear Chest +1,600
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x300
+|}
+
+==Biochemical MOD Module==
+Each tier gives +1 to Zombie Minion HP, ATK, DEF, and RUSH. <br> Each tier gives +1% to All Minion RUSH.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Rebel Lens x40<br>T1 Rebel Radio x40<br>T1 Rebel Polyester x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x10K
+|[[File:Organ-chest.png|frameless|50x50px|link=Organs]] Organ Chest +100
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x30
+|-
+|2
+|T2 Rebel Lens x40<br>T2 Rebel Radio x40<br>T2 Rebel Polyester x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x20K
+|[[File:Organ-chest.png|frameless|50x50px|link=Organs]] Organ Chest +200
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x60
+|-
+|3
+|T3 Rebel Lens x40<br>T3 Rebel Radio x40<br>T3 Rebel Polyester x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x30K
+|[[File:Organ-chest.png|frameless|50x50px|link=Organs]] Organ Chest +400
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x120
+|-
+|4
+|T4 Rebel Lens x40<br>T4 Rebel Radio x40<br>T4 Rebel Polyester x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x40K
+|[[File:Organ-chest.png|frameless|50x50px|link=Organs]] Organ Chest +600
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x200
+|-
+|5
+|T5 Rebel Lens x40<br>T5 Rebel Radio x40<br>T5 Rebel Polyester x40<br>[[File:B-tad.png|frameless|20x20px]] B-tads x50K
+|[[File:Organ-chest.png|frameless|50x50px|link=Organs]] Organ Chest +800
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x300
+|}
+
+==Anti-gravity Device==
+Each tier gives +2 to Mecha Minion HP, ATK, DEF, and RUSH. <br> Each tier gives Per 100 Minions in battle, Troop Earth DMG +2%. <br> Each Tier gives Per 100 Minions in battle, Troop Earth RES +1%.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Rebel Deck Plate x100<br>T1 Rebel Lens x100<br>T1 Rebel Nano Chip x5<br>[[File:B-tad.png|frameless|20x20px]] B-tads x20K
+|[[File:Super Memetic Chest.png|frameless|100x50px]] Super Memetic Chest +50
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x50
+|-
+|2
+|T2 Rebel Deck Plate x100<br>T2 Rebel Lens x100<br>T2 Rebel Nano Chip x5<br>[[File:B-tad.png|frameless|20x20px]] B-tads x40K
+|[[File:Super Memetic Chest.png|frameless|100x50px]] Super Memetic Chest +100
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x100
+|-
+|3
+|T3 Rebel Deck Plate x100<br>T3 Rebel Lens x100<br>T3 Rebel Nano Chip x5<br>[[File:B-tad.png|frameless|20x20px]] B-tads x60K
+|{{RewardIconWithLink|Antigravity Golem|blue|Nursery#Minion_Skins}} (Minion Skin)
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x200
+|-
+|4
+|T4 Rebel Deck Plate x100<br>T4 Rebel Lens x100<br>T4 Rebel Nano Chip x5<br>[[File:B-tad.png|frameless|20x20px]] B-tads x80K
+|{{RewardIconWithLink|Antigravity Bone|purple}} +10
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x320
+|-
+|5
+|T5 Rebel Deck Plate x100<br>T5 Rebel Lens x100<br>T5 Rebel Nano Chip x5<br>[[File:B-tad.png|frameless|20x20px]] B-tads x100K
+|{{RewardIconWithLink|Antigravity Bone|purple}} +20
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x500
+|}
+
+==Dark Matter Reactor==
+Each tier gives +2 to {{RewardIcon|Zombie Form Icon}}Zombie Minion HP, ATK, DEF, and RUSH. <br> Each tier gives {{RewardIconWithText|B-Tad}}s collected from Drill Rig +2k. <br> Each tier gives {{RewardIconWithText|W-Tad}}s collect from Drill Rig +30.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|100 T1 Rebel Radio<br>100 T1 Rebel Polyester<br>5 T1 Rebel Nano Chip<br>20k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Divine Chaos Chest, +150|red}}
+|50 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|2
+|100 T2 Rebel Radio<br>100 T2 Rebel Polyester<br>5 T2 Rebel Nano Chip<br>40k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Divine Chaos Chest, +300|red}}
+|100 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|3
+|100 T3 Rebel Radio<br>100 T3 Rebel Polyester<br>5 T3 Rebel Nano Chip<br>60k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Dark Matter Ghost|blue|Nursery#Minion_Skins}} (Minion Skin)
+|200 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|4
+|100 T4 Rebel Radio<br>100 T4 Rebel Polyester<br>5 T4 Rebel Nano Chip<br>80k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Dark Matter's Heart|purple}} +10
+|320 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|5
+|100 T5 Rebel Radio<br>100 T5 Rebel Polyester<br>5 T5 Rebel Nano Chip<br>100k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Dark Matter's Heart|purple}} +20
+|500 {{RewardIconWithText|Standard Printing Supply}}
+|}
+
+==Steel Hall==
+Each tier gives +1 to All Minion HP, ATK, DEF, and RUSH. <br> Each tier gives In any Realm, Mecha Cells gained +2%. <br> Each tier gives All Minion HP +1%. Each tier gives All Minion DEF +1%.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Rebel Deck Plate x200<br>T1 Rebel Radio x200<br>T1 Rebel Nano Chip x50<br>[[File:B-tad.png|frameless|20x20px]] B-tads x30K
+|{{RewardIconWithLink|Silicon Life Prototype|green}}
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x100
+|-
+|2
+|T2 Rebel Deck Plate x200<br>T2 Rebel Radio x200<br>T2 Rebel Nano Chip x50<br>[[File:B-tad.png|frameless|20x20px]] B-tads x60K
+|{{RewardIconWithText|W-Tad}} +3k
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x200
+|-
+|3
+|T3 Rebel Deck Plate x200<br>T3 Rebel Radio x200<br>T3 Rebel Nano Chip x50<br>[[File:B-tad.png|frameless|20x20px]] B-tads x90K
+|{{RewardIconWithLink|Grandmaster Scroll|orange}} +40
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x300
+|-
+|4
+|T4 Rebel Deck Plate x200<br>T4 Rebel Radio x200<br>T4 Rebel Nano Chip x50<br>[[File:B-tad.png|frameless|20x20px]] B-tads x120K
+|{{RewardIconWithLink|Aegis System|orange}} +40
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x600
+|-
+|5
+|T5 Rebel Deck Plate x200<br>T5 Rebel Radio x200<br>T5 Rebel Nano Chip x50<br>[[File:B-tad.png|frameless|20x20px]] B-tads x150K
+|{{RewardIconWithLink|Aegis System|orange}} +240
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x1000
+|}
+
+==Silence Hall==
+Each tier gives +1 to All Minion HP, ATK, DEF, and RUSH. <br> Each tier gives In any Realm, Zombie Cells gained +2%. <br> Each tier gives All Gene Research SPD +1%. <br> Each tier gives Gene Research Free Speedup +24m.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Rebel Lens x200<br>T1 Rebel Polyester x200<br>T1 Rebel Nano Chip x50<br>[[File:B-tad.png|frameless|20x20px]] B-tads x30K
+|{{RewardIconWithLink|Sphere of Corrosion|green}}
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x100
+|-
+|2
+|T2 Rebel Lens x200<br>T2 Rebel Polyester x200<br>T2 Rebel Nano Chip x50<br>[[File:B-tad.png|frameless|20x20px]] B-tads x60K
+|{{RewardIconWithLink|Lottery Ticket|orange}} +20
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x200
+|-
+|3
+|T3 Rebel Lens x200<br>T3 Rebel Polyester x200<br>T3 Rebel Nano Chip x50<br>[[File:B-tad.png|frameless|20x20px]] B-tads x90K
+|{{RewardIconWithLink|Grandmaster Scroll|orange}} +40
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x300
+|-
+|4
+|T4 Rebel Lens x200<br>T4 Rebel Polyester x200<br>T4 Rebel Nano Chip x50<br>[[File:B-tad.png|frameless|20x20px]] B-tads x120K
+|{{RewardIconWithLink|The Black Book|orange}} +40
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x600
+|-
+|5
+|T5 Rebel Lens x200<br>T5 Rebel Polyester x200<br>T5 Rebel Nano Chip x50<br>[[File:B-tad.png|frameless|20x20px]] B-tads x150K
+|{{RewardIconWithLink|The Black Book|orange}} +240
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x1000
+|}
+
+==Links to Other Cabins==
+
+* Cabin: [[Domain Device]]
+* Cabin: [[Species Device]]
+* Cabin: [[Demon God Device]]
+* Cabin: [[Earth's Will Device]]
+
+[[Category:Rocket]]

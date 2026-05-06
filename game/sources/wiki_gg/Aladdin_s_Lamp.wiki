@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Aladdin's Lamp
+|rank=SS
+|affct=FTH
+|birthday=04-14
+|source=* Grandmaster Scrolls (1%), Lottery Machine (0.12%), Relic Forge (100 Relic RF), Wishing (0.08%)
+* Altar Value Pack II ($49.99)
+|description=On Apr 14, 617 AD, Aladdin from the East found a magic lamp. On this day, Aladdin was trapped in a cave. He took out the magic lamp and rubbed it in desperation and summoned a genie. The genie guided him home. In the lamp he stole from the cave, an all-powerful genie awaits his master's call at any time. By the genie's help, Aladdin became rich and powerful enough to marry the princess. Later, the genie built a palace for Aladdin, which is more magnificent than the emperor's palace.
+|fame=75
+|art=49
+|fth=104
+|civ=65
+|tech=54
+|ss1=Snail ATK +20<br>B-tad rewards from offering +0.8%<br>Per Altar God Descent, Snail ATK +4<br>Gods Descended: 30/30
+|ss2=Snail ATK +30<br>B-tad rewards from offering +1.2%<br>Per Altar God Descent, Snail ATK +6<br>Gods Descended: 30/30
+|ss3=Snail ATK +40<br>B-tad rewards from offering +1.6%<br>Per Altar God Descent, Snail ATK +8<br>Gods Descended: 30/30
+|ss4=Snail ATK +60<br>B-tad rewards from offering +2.4%<br>Per Altar God Descent, Snail ATK +12<br>Gods Descended: 30/30
+|ss5=Snail ATK +80<br>B-tad rewards from offering +3.2%<br>Per Altar God Descent, Snail ATK +16<br>Gods Descended: 30/30
+|ss6=Snail ATK +110<br>B-tad rewards from offering +4.4%<br>Per Altar God Descent, Snail ATK +22<br>Gods Descended: 30/30
+|ss7=Snail ATK +110<br>B-tad rewards from offering +4.4%<br>Per Altar God Descent, Snail ATK +22<br>Gods Descended: 30/30<br>Snail ATK +100 (Awakened)
+|skill1={{Skills|quarry|output|30}}
+|skill2={{Skills|quarry|fth|15}}
+|skill3={{Skills|bharata|def|600}}
+|mirage={{#invoke:snailDB|parseMirage|Aladdin's Lamp}}
+}}
+
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:DEF Boost]]
+[[Category:ATK Boost]]
+[[Category:Offering Reward Boost]]
+[[Category:Rewards Wish Coin]]

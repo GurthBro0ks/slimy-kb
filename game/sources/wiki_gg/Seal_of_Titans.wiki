@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Seal of Titans
+|class_id=20274
+|rank=Green
+|affct=FAITH
+|source=
+|description=The treasure passed down from generation to generation by the Titan family seals the energy of the all the previous Titan God Kings, enabling every following Titan God King to grow rapidly. But this power can only be endured by the strong bodies of the Titans. If creatures of other races come close to this seal, they may be embroiled into the overflowing energy and crushed to pieces.
+|fame=18
+|art=12
+|fth=28
+|civ=18
+|tech=14
+|ss1=Military Merits gives +60 Star Coins
+|ss2=Military Merits gives +80 Star Coins
+|ss3=Military Merits gives +100 Star Coins
+|ss4=Military Merits gives +100 Star Coins
+|ss7=Military Merits gives +100 Star Coins<br> (Awakened)
+}}

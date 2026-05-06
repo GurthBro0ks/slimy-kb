@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Haulers on Volga
+|rank=AAA
+|affct=ART
+|birthday=07-18
+|source=* Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (Relic RF 80), Wishing (0.14%)
+* [[Indigent Nobleman]] (210k {{RewardIconWithText|B-Tad}})
+|description=On Jul 18, 1873, Ilya Repin created this painting that could represent the Russian spirit.
+
+Repin spent two years creating this painting before he could successfully express the unique Russian identity. The painting features a group of ragged and exhausted trackers digging the cargo ship, struggling to move forward under the hot sun. The background is dark and gloomy, and the empty space creates a sense of melancholy and helplessness. It expresses the deep emotions of a tracker. On the burnt-yellow river bank, a lively youth in red is staring into the distance while basking his face under the sun. Repin expressed his pursuit of freedom in this painting.
+
+[Basic Info]
+
+Era: Tsardom of Russia<br>Size: 131.5x281 cm<br>Type: Oil on Canvas<br>Collected by: The State Russian Museum
+|fame=39
+|art=73
+|fth=49
+|civ=35
+|tech=47
+|ss1=The Pond has a +6% chance to produce W-tads<br>Tadpole Pond upgrade Wood cost -3%
+|ss2=The Pond has a +8% chance to produce W-tads<br>Tadpole Pond upgrade Wood cost -4%
+|ss3=The Pond has a +10% chance to produce W-tads<br>Tadpole Pond upgrade Wood cost -5%
+|ss4=The Pond has a +14% chance to produce W-tads<br>Tadpole Pond upgrade Wood cost -7%
+|ss5=The Pond has a +18% chance to produce W-tads<br>Tadpole Pond upgrade wood cost -9%
+|ss7=The Pond has a +18% chance to produce W-tads<br>Tadpole Pond upgrade Wood cost -9%<br>The Pond has a +14% chance to produce W-tads (Awakened)
+|skill1=[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: Generate W-tads by +15%
+|skill2=[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: This Relic's ART +10
+}}
+
+[[Category:Tadpole Pond W-Tad Output Boost]]
+[[Category:Tadpole Pond Upgrade Cost Reduction]]
+[[Category:Tadpole Pond Skill]]
+[[Category:ART Boost]]
+[[Category:Minion RUSH Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Indigent Nobleman Relics]]

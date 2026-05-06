@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Vishnu Statue,True LK-99,Deucalion's Stone
+|rank=orange
+|amount=3
+|category=self
+|description=Per 5 LVL Block built, Snail RUSH +8; Block LVL: 300/300
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]

@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Fighter Meiya
+|rank=blue
+|cabin=2
+|id=12
+|gene1={race} ATK +20
+|gene2={race} CIV +20
+|gene3=Extra DMG +100
+|gene4=Per 10 Angel Minions in battle:
+> Troop ATK +2
+|gene5=Extra DMG +200
+|}}

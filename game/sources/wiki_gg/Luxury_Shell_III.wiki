@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=A stylish luxury brand! This is their first Snail Shell offering and sure to be a collector's item!
+|affct=FAME
+|hard=DEF
+|source=Divine Order Chest (0.8%)
+|color=green
+|earth=2
+|water=1
+|fire=2
+|wind=1
+|form=Zombie
+|element=Water
+|realm=Yamato
+|orangehard=ATK
+}}

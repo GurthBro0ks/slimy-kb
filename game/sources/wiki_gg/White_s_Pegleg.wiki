@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=White's Pegleg
+|type=Common
+|rank=blue
+|id=10818
+|idx=19
+|description="My mind is set on one goal: retrieve Mr. White's lost leg. How dare that arrogant Johnny wrong Mr. White? I will not have it"
+—Let the Pegleg Fly
+|skill=
+|hp=1528
+|def=94
+|atk=78
+|rush=93
+|gene1=Watching an Ad drops 1 Ad Chest by +10%
+|gene2=In Snail Arena, {race} RUSH +20
+|gene3=Watching an Ad drops 1 Ad Chest by +10%
+|gene7=Watching an Ad drops 1 Ad Chest by +10% (Awakened)
+|}}

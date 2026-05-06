@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Nocturnal Iris
+|type=Bionic
+|rank=green
+|id=10651
+|idx=7
+|description=The fundus of the eye is in the shape of a concave mirror. There are more rod cells that respond sensitively to faint light, which allow the eye to have good night vision.
+|skill=Before round start, summon Curse Light,
+reducing the enemy's DEF by 28% this round!
+|hp=550
+|def=33
+|atk=31
+|rush=88
+|gene1=In explorations, Treasure Map Drop +2.5%
+|gene2=In explorations, CRIT +5%
+|gene7=In explorations, Treasure Map Drop +2.5% (Awakened)
+|}}

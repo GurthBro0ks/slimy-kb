@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Atenism,Mysterious Relic,Manhattan Project,Mysterious Relic
+|rank=orange
+|amount=4
+|category=home
+|description=All Domains, Seal production +9%
+}}
+[[Category:Home]]
+[[Category:Domain Output Boost]]

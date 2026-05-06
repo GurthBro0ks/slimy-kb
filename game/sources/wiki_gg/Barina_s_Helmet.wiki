@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Barina's Helmet
+|class_id=20054
+|rank=Green
+|affct=FAME
+|source=
+|description=Barina's Helmet is a crystallization of the wisdom of Formula One car designers. The helmet has built-in vents and an integrated water cooling system, which can circulate water from the cooling jacket to maintain a perfect temperature of 52 degrees Celsius, reducing heat stress and allowing drivers to focus more on the race!
+|fame=30
+|art=18
+|fth=13
+|civ=16
+|tech=13
+|ss1=Per 5 Rift Apostles dominated, Snail RUSH +5<br>Rift Apostles Dominated: 60/60
+|ss2=Per 5 Rift Apostles dominated, Snail RUSH +10<br>Rift Apostles Dominated: 60/60
+|ss3=Per 5 Rift Apostles dominated, Snail RUSH +15<br>Rift Apostles Dominated: 60/60
+|ss4=Per 5 Rift Apostles dominated, Snail RUSH +15<br>Rift Apostles Dominated: 60/60
+|ss7=Per 5 Rift Apostles dominated, Snail RUSH +15<br>Rift Apostles Dominated: 60/60<br> (Awakened)
+}}

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Tesla Coil,ENIAC Prototype
+|rank=purple
+|amount=2
+|category=dna
+|description=Angel Gene Research SPD +3.6%
+}}
+[[Category:DNA]]

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Ode to Joy
+|class_id=21605
+|rank=SSS
+|affct=ART
+|birthday=01-07
+|source=Lottery Machine No.2 (0.11%)
+|description=On Jan 7, 1823 AD, Beethoven finished his most famous musical piece Ode to Joy.<br>Ode to Joy is the finale of Beethoven's Ninth Symphony. Beethoven almost spent half of his life on the planning of the piece. He didn't finish it until after years of devotion to musical creation. But the rehearsal had many problems. The first rehearsal was bad, some even suggested that Beethoven change some of the parts to lower the difficulty. But Beethoven was a perfectionist, and he didn't change a note. The rehearsals eventually became better and better! At last, Beethoven gave a sensational performance in Vienna.
+|fame=50
+|art=108
+|fth=71
+|civ=63
+|tech=70
+|ss1=Snail HP +300<br>In explorations, food consumed -0.6%<br>Lottery Purple Orbs turn to Orange by +0.6%
+|ss2=Snail HP +400<br>In explorations, food consumed -0.8%<br>Lottery Purple Orbs turn to Orange by +0.8%
+|ss3=Snail HP +500<br>In explorations, food consumed -1%<br>Lottery Purple Orbs turn to Orange by +1%
+|ss4=Snail HP +700<br>In explorations, food consumed -1.4%<br>Lottery Purple Orbs turn to Orange by +1.4%
+|ss5=Snail HP +900<br>In explorations, food consumed -1.8%<br>Lottery Purple Orbs turn to Orange by +1.8%
+|ss6=Snail HP +1200<br>In explorations, food consumed -2.4%<br>Lottery Purple Orbs turn to Orange by +2.4%
+|ss7=Snail HP +1200<br>In explorations, food consumed -2.4%<br>Lottery Purple Orbs turn to Orange by +2.4%<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail RUSH +600
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail DEF +600
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Angel Cells gained +30%
+|mirage={{Mirage|name=King of Symphony|reward={{RewardIconWithLink|B-Tadpole, +60000|orange}}
+|3name=Hero|3rec=3.85M|3atk=48825|3defense=32197|3hp=790926|3weak=10676
+|4name=Fate|4rec=7.41M|4atk=70137|4defense=46252|4hp=1463081|4weak=12690
+|5name=Countryside|5rec=13.33M|5atk=96154|5defense=63408|5hp=2617856|5weak=16082
+|6name=Chorus|6rec=28.51M|6atk=127385|6defense=84003|6hp=4375545|6weak=18447
+|Arec=45.76M|Aatk=164190|Adefense=108274|Ahp=7104222|Aweak=19848
+}}}}

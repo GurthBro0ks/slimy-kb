@@ -1,0 +1,28 @@
+{{CargoOrgan
+|name=Ooka-Whoa
+|type=Common
+|rank=red
+|id=10723
+|idx=80
+|description=Whose beak is pointy-pointy?
+Rooster's beak is pointy-pointy!
+Whose bill is flatty-flat?
+Ducky's bill is flatty-flat!
+Whose lips are roundy-round?
+Fishy's lips are roundy-round!
+Whose mouth is widey-wide?
+Toad's mouth is widey-wide!
+Ooka-WHOAAAA!
+|skill=Before round start, there is a 48% chance to lick the enemy, stunning them for 1 turn and reducing their DEF by 13.4% this turn!
+|hp=3070
+|def=321
+|atk=242
+|rush=200
+|gene1={race} Water CRIT DMG +4%
+|gene2={race} Leadership +5
+|gene3={race} Water CRIT Rate +2%
+|gene4=DMG +5%
+|gene5=Paralyze enemy by +4%
+|gene6={race} Leadership +10
+|gene7=All Minion RUSH +1.6% (Awakened)
+|}}

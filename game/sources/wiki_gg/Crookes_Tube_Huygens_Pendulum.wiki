@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=348
+|relics=Crookes Tube,Huygens' Pendulum
+|rank=blue
+|amount=2
+|category=self
+|description=Rebel Cabin Output +5%
+}}

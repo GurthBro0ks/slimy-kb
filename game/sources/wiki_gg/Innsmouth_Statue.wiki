@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Innsmouth Statue
+|class_id=22049
+|rank=Blue
+|affct=FAITH
+|birthday=10-22
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Oct 22, 1917 AD, the indescribable statue appeared in Innsmouth.<br>This statue has a unique appearance, assemble of a mixture of an Octopus, a giant dragon, and a human, and it is very bloated and stout, making the spectators uneasy. It is surrounded by a gloomy and evil aura, strong enough to make the bravest people tremble. If you keep staring at it, you will feel like staring straight into the abyss. Even so, countless people are still crazy about this statue, vowing to explore its mystery.
+|fame=27
+|art=31
+|fth=44
+|civ=21
+|tech=31
+|ss1=Demon Minion HP +1%
+|ss2=Demon Minion HP +2%
+|ss3=Demon Minion HP +3%
+|ss4=Demon Minion HP +5%
+|ss7=Demon Minion HP +5%<br>Demon Minion HP +5% (Awakened)
+|skill1=[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, All Minion RUSH +1.5%
+}}

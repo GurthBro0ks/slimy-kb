@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=407
+|relics=Valaroma,Phial of Galadrial
+|rank=purple
+|amount=2
+|category=self
+|description=Per 1 Red {race_equip_short} upgraded, Snail HP +120;Red {race_equip_short} Upgraded: 20/20
+}}

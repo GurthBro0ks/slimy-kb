@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Modern Times
+|class_id=22235
+|rank=SSS
+|affct=FAME
+|birthday=08-31
+|source=
+|description=On August 31, 1936, the filming of Modern Times was completed.<br>Modern Times was one of the later works of Charlie Chaplin. It was one of Chaplin's most iconic films, not to mention his last to feature his famous character, The Tramp, in a silent role. The film was set during the Great Depression, a period of economic downturn. It followed the lives of a factory worker who was institutionalized after a breakdown, as well as a young orphaned girl who was arrested for theft. Through their stories, the film explored the dehumanizing effects of capitalism. Despite harsh realities, the characters portrayed by Chaplin and his young companion find moments of hope and humanity.
+|fame=109
+|art=62
+|fth=46
+|civ=70
+|tech=75
+|ss1=Snail Leadership +3<br>Per 60 Minions in battle:<br>> Troop ATK +9<br>Per 60 Minions in battle:<br>> Troop DEF +9
+|ss2=Snail Leadership +4<br>Per 60 Minions in battle:<br>> Troop ATK +18<br>Per 60 Minions in battle:<br>> Troop DEF +18
+|ss3=Snail Leadership +5<br>Per 60 Minions in battle:<br>> Troop ATK +27<br>Per 60 Minions in battle:<br>> Troop DEF +27
+|ss4=Snail Leadership +7<br>Per 60 Minions in battle:<br>> Troop ATK +45<br>Per 60 Minions in battle:<br>> Troop DEF +45
+|ss5=Snail Leadership +9<br>Per 60 Minions in battle:<br>> Troop ATK +63<br>Per 60 Minions in battle:<br>> Troop DEF +63
+|ss6=Snail Leadership +12<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per 60 Minions in battle:<br>> Troop DEF +90
+|ss7=Snail Leadership +12<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per 60 Minions in battle:<br>> Troop DEF +90<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail FTH +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Reagent Drops +6%
+|mirage={{Mirage|name=Silent Classic|reward={{RewardIconWithLink|Tool Chest, +200|orange}}
+|3name=Machinist|3rec=58.75M|3atk=189699|3defense=126556|3hp=9536107|3weak=23471
+|4name=Automatic Feeder|4rec=72.80M|4atk=219334|4defense=146326|4hp=12354700|4weak=29018
+|5name=Orphan Girl|5rec=87.89M|5atk=251141|5defense=167546|5hp=15784738|5weak=32339
+|6name=Charlie|6rec=104.96M|6atk=287156|6defense=191573|6hp=19869847|6weak=35367
+|Arec=124.06M|Aatk=327424|Adefense=218437|Ahp=24790786|Aweak=38250
+}}}}

@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Rosetta Stone
+|rank=A
+|affct=FAME
+|birthday=04-1
+|source=Fragment Crafting (31%), Lottery Machine (0.66%), Wishing (2.8%), Kemetic Treasure Maps (10%), Expert Scrolls (7.6%)
+|description=On Apr 19, 196 BC, the King of Ptolemaic Egypt, Ptolemy V Epiphanes, issued this edict of surrender.
+
+Facing the aggressive Alexander Empire, the 13-year-old Ptolemy V appointed Aristomenes as the new prime minister and regent. Most of Egypt's territory on the east of the Aegean Sea was taken over by the Seleucid Kingdom of the Alexander Empire at that time. The ambitious Seleucid King Antiochus III was unsatisfied and had formulated a detailed plan to attack Egypt. The new Prime Minister suggested that Ptolemy V surrender to Alexander the Great and carved the edict on a massive Egyptian basalt in Egyptian and Greek. Since then, the ancient Egyptian hieroglyphs have perished.
+|fame=61
+|art=31
+|fth=44
+|civ=44
+|tech=33
+|ss1=Snail RUSH +10<br>Fungus Farm upgrade Stone Cost -1%
+|ss2=Snail RUSH +20<br>Fungus Farm upgrade Stone Cost -2%
+|ss3=Snail RUSH +30<br>Fungus Farm upgrade Stone Cost -3%
+|ss4=Snail RUSH +50<br>Fungus Farm upgrade Stone Cost -5%
+|ss5=Snail RUSH +70<br>Fungus Farm upgrade stone cost -7%
+|ss7=Snail RUSH +70<br>Fungus Farm upgrade stone cost -7%<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Snail ATK +30
+|skill2=[[File:Compass skill II.png|50px]] Place in Exploration Compass: Snail HP +300
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FAME Relics]]
+[[Category:Purple FAME Relics]]
+[[Category:RUSH Boost]]
+[[Category:Fungus Farm Upgrade Cost Reduction]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:ATK Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:HP Boost]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Angel Cell Drop Boost]]
+[[Category:Drawn Dragon Boost]]

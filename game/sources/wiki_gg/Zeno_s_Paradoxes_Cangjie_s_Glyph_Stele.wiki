@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=900
+|relics=Zeno’s Paradoxes,Cangjie’s Glyph Stele
+|rank=orange
+|amount=2
+|category=self
+|description=Snail Leadership +7
+}}

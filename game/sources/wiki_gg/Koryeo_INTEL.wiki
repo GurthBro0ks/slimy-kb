@@ -1,0 +1,200 @@
+There are two INTEL trees in Koryeo, each with 19 different skills. Each skill has between 1 and 3 levels. Initially, only one hex is available to upgrade in exchange for INTEL (gathered passively during exploration). To make any hex available, at least one of the adjacent hexes must first be fully upgraded. Additionally, some hexes have a "release condition" required before it can be unlocked. The graphic below shows all Koryeo INTEL.
+
+[[File:Koryeo INTEL 1.0.png|frameless]][[File:Koryeo INTEL 2.0.png|frameless]]
+
+
+'''Recommended Upgrade:''' Agent Training (9) releases a new skill tree, so 1 > 4 > 9 is an advisable first start. This will also lower AFFCT checks, which will help with progression. Postcard (5) unlocks new cards for new rewards, so 1 > 2 > 5 is also a good start. Always unlock new areas as soon as they are available. {{RewardIconWithText|Universal Key}} (6) will allow the Home Base chests to be opened, with food rewards, the fourth of which is 
+{{RewardIconWithGearlink|purple|Realm|Gas Mask}} which increases DMG and INTEL in Koryeo. Finally, if quickly gaining [[Partners]] is your goal, Cilla Treasure Map (19) is useful to work towards. 
+
+'''Recommended Upgrade:'''Exploration Compass (3) and Exploration Compass Upgrade (12) allows for more compass slots, which will boost your [[Stats||HARD and AFFCT Stats]] during exploration. These two should be close to the first INTEL upgrades obtained. To further increase HARD Stats, (5, 6, 8, 9) and (15, 16, 18, 19) will do this. Recommended priority is ATK > RUSH > DEF > HP.
+
+==Koryeo INTEL==
+[[File:Koryeo INTEL 1.5.png|frameless]]
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|1||Koryeo Map||50|| - ||Unlock extra Lucky grid.<br>When you enter a new area, gain +100 INTEL
+|-
+|rowspan="2"|2||rowspan="2"|Koryeo History||200|| - ||Upgrade 2 White Cell Grids to Green
+|-
+|400|| - ||Upgrade 1 Green Cell Grid to Blue
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|3||Pusan Apostle Clue||600|| ||Unlock area (Pusan). In Pusan, INTEL gained +20%
+|-
+|rowspan="2"|4||rowspan="2"|Koryeo Cuisine||200|| - ||Upgrade 2 White Food Grids to Green
+|-
+|400|| - ||Upgrade 1 Green Food Grid to Blue
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|5||Postcard||800|| - ||Unlock Special Card (Koryeo)<br>Redeem Cards for exclusive items in Koryeo
+|-
+|rowspan="3"|6||rowspan="3"|Universal Key||800|| - ||Obtain {{RewardIconWithText|Universal Key}} +1. Used to open Home Base chests
+|-
+|1,600|| - ||Obtain {{RewardIconWithText|Universal Key}} +1. Used to open Home Base chests
+|-
+|2,400|| - ||Obtain {{RewardIconWithText|Universal Key}} +1. Used to open Home Base chests
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|7||Jejo Apostle Clue||2,400||Defeat [[Koryeo Apostles#Tombstone Carrier|Tombstone Carrier]]||Unlock area (Jejo Island)<br>In Jejo, INTEL gained +20%
+|-
+|rowspan="3"|8||rowspan="3"|Pusan Virus||800||Only in Zombie Form in Koryeo||For Exploration Looting, +10% chance to gain {{RewardIconWithText|Pusan Virus}}
+|-
+|1,600||Only in Zombie Form in Koryeo||For Exploration Looting, +20% chance to gain {{RewardIconWithText|Pusan Virus}}
+|-
+|2,400||Only in Zombie Form in Koryeo||For Exploration Looting, +30% chance to gain {{RewardIconWithText|Pusan Virus}}
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|9||Agent Training||800|| - ||Unlock INTEL Tree (Agent Training)<br>In Koryeo, AFFCT Checks -20
+|-
+|rowspan="3"|10||rowspan="3"|Koryeo Postal Service||2,000|| - ||Card Grids drop Special Cards by +30%
+|-
+|4,000|| - ||Card Grids drop Special Cards by +60%
+|-
+|6,000|| - ||Card Grids drop Special Cards by +90%
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|rowspan="3"|11||rowspan="3"|Haeinsa Collection||2,000|| - ||Upgrade 2 White B-tad Grids to Green
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|4,000|| - ||Upgrade 1 Green B-tad Grid to Blue
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|6,000|| - ||Upgrade 1 Blue B-tad Grid to Purple
+|-
+|12||N. Seaul Apostle Clue||6,000||Defeat [[Koryeo Apostles#Rumbo|Rumbo]]||Unlock area (Northern Seaul)<br>In N. Seaul, INTEL gained +20%
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|rowspan="3"|13||rowspan="3"|Gyeongbok Palace Legacy||2,000|| - ||Upgrade 2 White Speedup Grids to Green
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|4,000|| - ||Upgrade 1 Green Speedup Grid to Blue
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|6,000|| - ||Upgrade 1 Blue Speedup Grid to Purple
+|-
+|14||Curse of President||2,000||Unlock Special Incident (Curse of President)
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|rowspan="3"|15||rowspan="3"|Native Food Only||5,000|| - ||At the end of explorations in Koryeo:<br>Cards convert to +5% rewards<br>Unlock more items in Koryeo Card Redemption
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|10,000|| - ||At the end of explorations in Koryeo:<br>Cards convert to +10% rewards<br>Unlock more items in Koryeo Card Redemption
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|15,000|| - ||At the end of explorations in Koryeo:<br>Cards convert to +15% rewards<br>Unlock more items in Koryeo Card Redemption
+|-
+|rowspan="3"|16||rowspan="3"|King Dangun Myth||5,000|| - ||Obtain Soul of Cilla King<br>Soul Offering SPD +1%
+|-
+|10,000|| - ||Obtain Soul of Bekje King<br>Soul Offering SPD +3%
+|-
+|15,000|| - ||Obtain Soul of Koryeo King<br>Soul Offering SPD +5%
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|17||Kanghwa Apostle Clue||15,000||Defeat [[Koryeo Apostles#Executioner|Executioner]]||Unlock area (Kanghwa)<br>In Kanghwa, INTEL gained +20%
+|-
+|rowspan="3"|18||rowspan="3"|Taichi||5,000|| - ||If an exploration in Koryeo is sped up for +8 hrs, gain 1 {{RewardIconWithLink|Taichi Chest|black|Consumables}} at the end
+|-
+|10,000|| - |||If an exploration in Koryeo is sped up for +6 hrs, gain 1 {{RewardIconWithLink|Taichi Chest|black|Consumables}} at the end
+|-
+|15,000|| - |||If an exploration in Koryeo is sped up for +4 hrs, gain 1 {{RewardIconWithLink|Taichi Chest|black|Consumables}} at the end
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|rowspan="3"|19||rowspan="3"|Cilla Treasure Map||5,000|| - ||Unlock Special Incident (Haeinsa Treasure)
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|10,000|| - ||Unlock Special Incident (Bulguksa Treasure)
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|15,000|| - ||Unlock Special Incident (Prince Nerd's Soul)
+|}
+
+==Agent Training==
+[[File:Koryeo INTEL 2.5.png|frameless]]
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Effect
+|-
+|rowspan="3"|1||rowspan="3"|Sneaking||50||In Koryeo, Travel SPD +5%
+|-
+|100||In Koryeo, Travel SPD +10%
+|-
+|150||In Koryeo, Travel SPD +15%
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|2||Battlefield Cleanup||200||Gain cases from enemies per victory
+|-
+|3||Exploration Compass||200||Unlock new function (Exploration Compass)
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|rowspan="3"|4||rowspan="3"|Vigilence||200||In Koryeo, AFFCT Checks -20
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|400||In Koryeo, AFFCT Checks -40
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|600||In Koryeo, AFFCT Checks -60
+|-
+|rowspan="2"|5||rowspan="2"|ATK Training||800||Snail ATK +25
+|-
+|1600||Snail ATK +50
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|rowspan="2"|6||rowspan="2"|HP Training I||800||Snail HP +50
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|1600||Snail HP +100
+|-
+|7||Flesh Modification I||800||Obtain [[Infrared Eye|<span style="color:#ee96d5;">Infrared Eye</span>]]
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|rowspan="2"|8||rowspan="2"|DEF Training I||800||Snail DEF +12
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|1600||Snail DEF +25
+|-
+|rowspan="2"|9||rowspan="2|RUSH Training I||800||Snail RUSH +12
+|-
+|1600||Snail RUSH +25
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|rowspan="3"|10||rowspan="3"|Fast Detection||2000||Obtain Travel Speedup +2h
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|4000||Obtain Travel Speedup +4h
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|6000||Obtain Travel Speedup +6h
+|-
+|rowspan="3"|11||rowspan="3"|Rich Resource||2000||Cases gained per victory +1
+|-
+|4000||Cases gained per victory +2
+|-
+|6000||Cases gained per victory +3
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|rowspan="3"|12||rowspan="3"|Exploration Compass Upgrade||2000||Exploration Compass Embedding Slot +1
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|4000||Exploration Compass Embedding Slot +2
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|6000||Exploration Compass Embedding Slot +4
+|-
+|rowspan="3"|13||rowspan="3"|Silmido Training||2000||Per Koryeo Apostle dominated, Snail AFFCT +2
+|-
+|4000||Per Koryeo Apostle dominated, Snail AFFCT +4
+|-
+|6000||Per Koryeo Apostle dominated, Snail AFFCT +5
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|rowspan="3"|14||rowspan="3"|Mysterious Thief||2000||Beat Apostles to steal special items by +10%
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|4000||Beat Apostles to steal special items by +20%
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|6000||Beat Apostles to steal special items by +30%
+|-
+|rowspan="3"|15||rowspan="3"|ATK Training II||5000||Snail ATK +80<br>In Koryeo, DMG +2%
+|-
+|10000||Snail ATK +120<br>In Koryeo, DMG +4%
+|-
+|15000||Snail ATK +160<br>In Koryeo, DMG +6%
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|rowspan="3"|16||rowspan="3"|HP Training II||5000||Snail HP +160<br>In Koryeo, DMG +2%
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|10000||Snail HP +240<br>In Koryeo, DMG +4%
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|15000||Snail HP +320<br>In Koryeo, DMG +6%
+|-
+|rowspan="3"|17||rowspan="3"|Flesh Modification II||5000||Obtain [[Death Claw|<span style="color:#ffb066;">Death Claw</span>]] +1, Organ Slime +30
+|-
+|10000||Obtain [[Death Claw|<span style="color:#ffb066;">Death Claw</span>]] +1, Organ Slime +30
+|-
+|15000||Obtain [[Death Claw|<span style="color:#ffb066;">Death Claw</span>]] +2, Organ Slime +30
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|rowspan="3"|18||rowspan="3"|DEF Training II||5000||Snail DEF +40<br>In Koryeo, DMG +2%
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|10000||Snail DEF +60<br>In Koryeo, DMG +4%
+|-style="background-color:hsla(0, 0%, 61%, 0.73);"
+|15000||Snail DEF +80<br>In Koryeo, DMG +6%
+|-
+|rowspan="3"|19||rowspan="3"|RUSH Training II||5000||Snail RUSH +40<br>In Koryeo, DMG +2%
+|-
+|10000||Snail RUSH +60<br>In Koryeo, DMG +4%
+|-
+|15000||Snail RUSH +80<br>In Koryeo, DMG +6%
+|}
+
+==INTEL Manual==
+INTEL is first unlocked during the tutorial by obtaining the {{RewardIconWithText|INTEL Manual}} after dominating [[Koryeo_Apostles#Idol_Boy|Idol Boy]].
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Koryeo]]

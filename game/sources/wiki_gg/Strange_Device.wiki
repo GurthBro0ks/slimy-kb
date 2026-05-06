@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Strange Device
+|class_id=20358
+|rank=Green
+|affct=TECH
+|source=
+|description=This strange-looking device combined both magic and science and can send anything to an unknown world. However, since the trip is one-way only, so far no one has been able to return to their homeworld afterward...
+|fame=16
+|art=19
+|fth=16
+|civ=13
+|tech=26
+|ss1=Per 200 Fissure Floors, Snail DEF +3<br>Fissure Floor: 5000/5000
+|ss2=Per 200 Fissure Floors, Snail DEF +6<br>Fissure Floor: 5000/5000
+|ss3=Per 200 Fissure Floors, Snail DEF +9<br>Fissure Floor: 5000/5000
+|ss4=Per 200 Fissure Floors, Snail DEF +9<br>Fissure Floor: 5000/5000
+|ss7=Per 200 Fissure Floors, Snail DEF +9<br>Fissure Floor: 5000/5000<br> (Awakened)
+}}

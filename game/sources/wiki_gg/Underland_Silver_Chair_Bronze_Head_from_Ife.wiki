@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=673
+|relics=Underland Silver Chair,Bronze Head from Ife
+|rank=purple
+|amount=2
+|category=self
+|description=Per 30 T7+ Mutant Minions in battle:Troop HARD Stats +12
+}}

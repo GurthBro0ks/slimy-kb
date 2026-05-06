@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Museum Operation Pass
+|class_id=20486
+|rank=Green
+|affct=FAME
+|source=
+|description=This was a Museum Operation Pass issued by the authorities. Anyone who holds this pass can operate and run the museum freely within the scope of the law. With this pass, you can be a Museum Curator!
+|fame=30
+|art=16
+|fth=15
+|civ=16
+|tech=13
+|ss1=Snail ATK +40<br>Per Special Tourist unlocked, Like Bonus +10%<br>Special Tourists unlocked: 40/40
+|ss2=Snail ATK +80<br>Per Special Tourist unlocked, Like Bonus +10%<br>Special Tourists unlocked: 40/40
+|ss3=Snail ATK +120<br>Per Special Tourist unlocked, Like Bonus +10%<br>Special Tourists unlocked: 40/40
+|ss4=Snail ATK +120<br>Per Special Tourist unlocked, Like Bonus +10%<br>Special Tourists unlocked: 40/40
+|ss7=Snail ATK +120<br>Per Special Tourist unlocked, Like Bonus +10%<br>Special Tourists unlocked: 40/40<br> (Awakened)
+}}

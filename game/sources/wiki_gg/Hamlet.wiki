@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Hamlet
+|class_id=22714
+|rank=SSS
+|affct=CIV
+|birthday=01-19
+|source=
+|description=On Jan 19, 1603 AD, Nicholas published Hamlet without Shakespeare's permission.<br>Hamlet is a tragedy written by Shakespeare. It tells the story of how Hamlet's uncle murdered his father, not only usurped the throne, but also married his mother. Hamlet sought revenge on his uncle because of this. Hamlet is Shakespeare's most famous work and has been adapted into stage plays, operas, and various film and television productions many times since its publication. It is considered to be the first of Shakespeare's four great tragedies, not only because of the tragic ending of the protagonist, but also because the work brings a heavy reflection to the audience, and in some sense, it is also beautiful.
+|fame=76
+|art=66
+|fth=58
+|civ=108
+|tech=54
+|ss1=The Element Circle produces Arcanium by +3%<br>Per 100 Recruit Tokens consumed, Snail HP +30<br>Per 100 Recruit Tokens consumed, Snail ATK +3<br>Consumed Recruit Tokens: 5000/5000
+|ss2=The Element Circle produces Arcanium by +4%<br>Per 100 Recruit Tokens consumed, Snail HP +40<br>Per 100 Recruit Tokens consumed, Snail ATK +4<br>Consumed Recruit Tokens: 5000/5000
+|ss3=The Element Circle produces Arcanium by +5%<br>Per 100 Recruit Tokens consumed, Snail HP +50<br>Per 100 Recruit Tokens consumed, Snail ATK +5<br>Consumed Recruit Tokens: 5000/5000
+|ss4=The Element Circle produces Arcanium by +7%<br>Per 100 Recruit Tokens consumed, Snail HP +70<br>Per 100 Recruit Tokens consumed, Snail ATK +7<br>Consumed Recruit Tokens: 5000/5000
+|ss5=The Element Circle produces Arcanium by +9%<br>Per 100 Recruit Tokens consumed, Snail HP +90<br>Per 100 Recruit Tokens consumed, Snail ATK +9<br>Consumed Recruit Tokens: 5000/5000
+|ss6=The Element Circle produces Arcanium by +12%<br>Per 100 Recruit Tokens consumed, Snail HP +120<br>Per 100 Recruit Tokens consumed, Snail ATK +12<br>Consumed Recruit Tokens: 5000/5000
+|ss7=The Element Circle produces Arcanium by +12%<br>Per 100 Recruit Tokens consumed, Snail HP +120<br>Per 100 Recruit Tokens consumed, Snail ATK +12<br>Consumed Recruit Tokens: 5000/5000<br>The Element Circle produces Arcanium by +10% (Awakened)
+|skill1=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: Wishing Egg hatching efficiency +30%
+|skill2=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: This Relic's CIV +15
+|skill3=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: Green rewards from this egg turn Blue by 6%
+|mirage={{Mirage|name=The Prince's Revenge|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Ophelia|3rec=203.79M|3atk=537920|3defense=330615|3hp=40955116|3weak=44046
+|4name=Laertes|4rec=317.93M|4atk=751508|4defense=448596|4hp=81864133|4weak=52263
+|5name=Claudius|5rec=446.19M|5atk=966474|5defense=563984|5hp=137397141|5weak=57614
+|6name=Prince Hamlet|6rec=624.80M|6atk=1286740|6defense=724668|6hp=295883409|6weak=65955
+|Arec=758.74M|Aatk=1528393|Adefense=863256|Ahp=416497218|Aweak=75299
+}}}}

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Anna Karenina
+|class_id=22884
+|rank=SSS
+|affct=CIV
+|source=
+|description=Anna Karenina is divided into eight volumes, telling the tragic story of the noblewoman Anna Karenina and Vronsky against the backdrop of 19th-century Russian society, as well as the landowner Levin's pursuit of the meaning of life and ideals. Anna suffers from the social pressure of public opinion due to her extramarital affair and eventually walks into the abyss of despair. Tolstoy also further cemented his reputation as a world-class writer with this work. The novel has won widespread acclaim from readers around the globe for its profound insight into human nature, its meticulous psychological portrayal, and its sharp analysis of social ethics and morality.
+|fame=70
+|art=63
+|fth=64
+|civ=106
+|tech=59
+|ss1=Snail Leadership +3<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +30<br>Per 1,000 Hellas Disciples advanced, Snail ATK +9<br>Hellas Disciples Advanced: 20000/20000
+|ss2=Snail Leadership +4<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +40<br>Per 1,000 Hellas Disciples advanced, Snail ATK +12<br>Hellas Disciples Advanced: 20000/20000
+|ss3=Snail Leadership +5<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +50<br>Per 1,000 Hellas Disciples advanced, Snail ATK +15<br>Hellas Disciples Advanced: 20000/20000
+|ss4=Snail Leadership +7<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +70<br>Per 1,000 Hellas Disciples advanced, Snail ATK +21<br>Hellas Disciples Advanced: 20000/20000
+|ss5=Snail Leadership +9<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +90<br>Per 1,000 Hellas Disciples advanced, Snail ATK +27<br>Hellas Disciples Advanced: 20000/20000
+|ss6=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 1,000 Hellas Disciples advanced, Snail ATK +36<br>Hellas Disciples Advanced: 20000/20000
+|ss7=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 1,000 Hellas Disciples advanced, Snail ATK +36<br>Hellas Disciples Advanced: 20000/20000<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Quantumamp  skill III.png|50px]]Place in Quantum Amp: This Relic's CIV +15
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +15%
+|skill3=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Produce Nebula Chest Shards by +15%
+|mirage={{Mirage|name=Love of Destruction|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=dungeon_event@4631_1|3rec=337.65M|3atk=822167|3defense=466335|3hp=169600530|3weak=65339
+|4name=Karenin|4rec=430.50M|4atk=974093|4defense=549862|4hp=281457399|4weak=71057
+|5name=dungeon_event@4633_1|5rec=562.80M|5atk=1204157|5defense=668889|5hp=489971072|5weak=78447
+|6name=Anna Karenina|6rec=748.67M|6atk=1716197|6defense=852455|6hp=798840882|6weak=87913
+|Arec=1044.29M|Aatk=2625779|Adefense=1158316|Ahp=1478211617|Aweak=98471
+}}}}

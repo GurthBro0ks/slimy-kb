@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=Lennon's Guitar
+|rank=AAA
+|affct=CIV
+|birthday=09-27
+|source=* Fragment Crafting (1.5%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)
+* [[Leeku]] - [[Rare Rent]]
+|description=On Sep 27, 1958, John Lennon purchased this legendary electric guitar in Hamburg, Germany.
+
+From the beginning of the Beatles to the famous Shea stadium concert, this guitar accompanied John during his time as a member of the Beatles, also the happiest time of his life. It was not a guitar of a famous brand but it was the most cherished one for Lennon. It is said that this was the last guitar John Lennon played before the assassination.
+|fame=34
+|art=46
+|fth=47
+|civ=72
+|tech=44
+|ss1=Per 100 Avatar Score, Snail HP +30<br>Per 100 Avatar Score, Snail ATK +3<br>Avatar Score: 5,000/5,000
+|ss2=Per 100 Avatar Score, Snail HP +40<br>Per 100 Avatar Score, Snail ATK +4<br>Avatar Score: 5,000/5,000
+|ss3=Per 100 Avatar Score, Snail HP +50<br>Per 100 Avatar Score, Snail ATK +5<br>Avatar Score: 5,000/5,000
+|ss4=Per 100 Avatar Score, Snail HP +70<br>Per 100 Avatar Score, Snail ATK +7<br>Avatar Score: 5,000/5,000
+|ss5=Per 100 Avatar Score, Snail HP +90<br>Per 100 Avatar Score, Snail ATK +9<br>Avatar Score: 5,000/5,000
+|ss7=Per 100 Avatar Score, Snail HP +90<br>Per 100 Avatar Score, Snail ATK +9<br>Avatar Score: 5,000/5,000<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Murika skill II.png|50px]] Place in Murikan Museum: In Murika, CIV Checks -10
+|skill2=[[File:Murika skill II.png|50px]] Place in Murikan Museum: In Murika, 2x Green Card Drops +7.5%
+}}
+
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Avatar Score Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:CIV Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Time Chest Boost]]
+[[Category:Mutant Cell Drop Boost]]
+[[Category:Enhanced by Avatar Score]]

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Dream Stele
+|class_id=22275
+|rank=SS
+|affct=FAITH
+|birthday=07-15
+|source=Lottery Machine No.2 (0.42%), Wishing (1.6%)
+|description=On Jul 15, 1401 BC, Tuthmosis IV ordered to erect the Sphinx Stele.<br>The Sphinx Stele is also known as the Dream Stele because it tells the story of the young Prince Tuthmosis who fell asleep near the Great Sphinx of Giza and dreamt that the Sphinx promised him the throne of Egypt in return for Tuthmosis clearing the sand away from around it. Tuthmosis did as he was instructed and went on to become the pharaoh Tuthmosis IV. In gratitude, he promoted Re-Horemakhet above Amun-Re, dedicated a temple to Horemakhet and placed the stele between the paws of the Sphinx to record the tale.
+|fame=61
+|art=64
+|fth=102
+|civ=51
+|tech=69
+|ss1=Snail ATK +20<br>Wormhole Shards from Wormhole Refiner +2%<br>Per 10 Soul Chests opened, Snail RUSH +2<br>Soul Chests Opened: 500/500
+|ss2=Snail ATK +30<br>Wormhole Shards from Wormhole Refiner +3%<br>Per 10 Soul Chests opened, Snail RUSH +3<br>Soul Chests Opened: 500/500
+|ss3=Snail ATK +40<br>Wormhole Shards from Wormhole Refiner +4%<br>Per 10 Soul Chests opened, Snail RUSH +4<br>Soul Chests Opened: 500/500
+|ss4=Snail ATK +60<br>Wormhole Shards from Wormhole Refiner +6%<br>Per 10 Soul Chests opened, Snail RUSH +6<br>Soul Chests Opened: 500/500
+|ss5=Snail ATK +80<br>Wormhole Shards from Wormhole Refiner +8%<br>Per 10 Soul Chests opened, Snail RUSH +8<br>Soul Chests Opened: 500/500
+|ss6=Snail ATK +110<br>Wormhole Shards from Wormhole Refiner +11%<br>Per 10 Soul Chests opened, Snail RUSH +11<br>Soul Chests Opened: 500/500
+|ss7=Snail ATK +110<br>Wormhole Shards from Wormhole Refiner +11%<br>Per 10 Soul Chests opened, Snail RUSH +11<br>Soul Chests Opened: 500/500<br>Wormhole Shards from Wormhole Refiner +10% (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop Wind DMG +60
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, 2x White Card Drops +15%
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Demon Cells gained +30%
+|mirage={{Mirage|name=Sphinx Mystery|reward={{RewardIconWithLink|Travel Speedup, +28800|orange}}
+|3name=Four-footed|3rec=15.98M|3atk=104634|3defense=69805|3hp=3234321|3weak=17674
+|4name=Noon|4rec=31.87M|4atk=133006|4defense=88733|4hp=5014877|4weak=19126
+|5name=Dusk|5rec=47.55M|5atk=166071|5defense=110792|5hp=7566019|5weak=21232
+|Arec=65.26M|Aatk=203419|Adefense=135709|Ahp=10970548|Aweak=26266
+}}}}

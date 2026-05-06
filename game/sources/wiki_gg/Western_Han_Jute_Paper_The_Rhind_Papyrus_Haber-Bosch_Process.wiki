@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=694
+|relics=Western Han Jute Paper,The Rhind Papyrus,Haber-Bosch Process
+|rank=purple
+|amount=3
+|category=self
+|description=Per 3,000 Tribe Prosperity, Snail HP +70;Tribe Prosperity: 150000/150000
+}}

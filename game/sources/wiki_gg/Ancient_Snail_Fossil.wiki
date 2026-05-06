@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Ancient Snail Fossil
+|class_id=20084
+|rank=Green
+|affct=CIV
+|source=
+|description=Tens of millions of years ago, snails were not the mollusks they are today but vertebrates with a skeleton. This weathered ancient fossil is the best evidence of this theory!
+|fame=12
+|art=18
+|fth=15
+|civ=30
+|tech=15
+|ss1=Quarry produces Ancient Fossil by +2%<br>Per 5 Quarry LVLs, Snail DEF +4<br>Quarry LVL: 50/50
+|ss2=Quarry produces Ancient Fossil by +4%<br>Per 5 Quarry LVLs, Snail DEF +8<br>Quarry LVL: 50/50
+|ss3=Quarry produces Ancient Fossil by +6%<br>Per 5 Quarry LVLs, Snail DEF +12<br>Quarry LVL: 50/50
+|ss4=Quarry produces Ancient Fossil by +6%<br>Per 5 Quarry LVLs, Snail DEF +12<br>Quarry LVL: 50/50
+|ss7=Quarry produces Ancient Fossil by +6%<br>Per 5 Quarry LVLs, Snail DEF +12<br>Quarry LVL: 50/50<br> (Awakened)
+}}

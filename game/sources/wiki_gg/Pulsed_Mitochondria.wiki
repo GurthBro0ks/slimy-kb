@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Pulsed Mitochondria
+|type=Common
+|rank=blue
+|id=10829
+|idx=30
+|description=Cells in powerful beings are hyperactive, their bioelectric currents stronger than average. When emotions spike, these organisms alter the very magnetic field around them…
+|skill=
+|hp=1034
+|def=84
+|atk=140
+|rush=90
+|gene1=Snail Arena, Water DMG +60
+|gene2=Snail Arena, paralysis RES +1%
+|gene3=Snail Arena, ELMT DMG REDUC +2%
+|gene7=Snail Arena, paralysis RES +1% (Awakened)
+|}}

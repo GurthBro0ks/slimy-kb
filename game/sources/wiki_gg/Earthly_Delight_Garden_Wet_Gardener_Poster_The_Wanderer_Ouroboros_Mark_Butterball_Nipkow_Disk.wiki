@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=373
+|relics=Earthly Delight Garden,Wet Gardener Poster,The Wanderer,Ouroboros Mark,Butterball,Nipkow Disk
+|rank=blue
+|amount=6
+|category=self
+|description=All Rocket Cabin production +2.7%
+}}

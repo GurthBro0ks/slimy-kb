@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dragon Soul Gem
+|class_id=20724
+|rank=Green
+|affct=FAITH
+|source=
+|description=A gemstone infused with the power of true dragons. It only exists within high-ranking dragon beings with pure bloodlines and over a thousand years of cultivation. Not only is it incredibly rare, but it also possesses unimaginable strength. Even the faint aura it emanates can cause beings within several meters to undergo transformation.
+|fame=15
+|art=14
+|fth=32
+|civ=16
+|tech=13
+|ss1=??? (Coming soon)<br>Per 10 Dragon Orbs used, Snail ATK +2<br>Dragon Orbs Used: 500/500
+|ss2=??? (Coming soon)<br>Per 10 Dragon Orbs used, Snail ATK +4<br>Dragon Orbs Used: 500/500
+|ss3=??? (Coming soon)<br>Per 10 Dragon Orbs used, Snail ATK +6<br>Dragon Orbs Used: 500/500
+|ss4=??? (Coming soon)<br>Per 10 Dragon Orbs used, Snail ATK +6<br>Dragon Orbs Used: 500/500
+|ss7=??? (Coming soon)<br>Per 10 Dragon Orbs used, Snail ATK +6<br>Dragon Orbs Used: 500/500<br> (Awakened)
+}}

@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Aurelius on Horse,Mysterious Relic
+|rank=orange
+|amount=2
+|category=self
+|description=Per 1,000 Hellas Apostles advanced, Snail ATK +21; Hellas Apostles Advanced: 20,000/20,000
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]

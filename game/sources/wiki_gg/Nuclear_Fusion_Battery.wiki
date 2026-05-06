@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Nuclear Fusion Battery
+|class_id=20307
+|rank=Green
+|affct=TECH
+|source=
+|description=Inside this battery is a small reactor that powers a small supercharged turbine through continuous, controlled fission, which in turn generates electricity. Under ideal conditions, the battery can last for thousands of years, and the output is enough to drive all kinds of large machinery.
+|fame=18
+|art=10
+|fth=21
+|civ=13
+|tech=28
+|ss1=Time Machine Travel Speedup Output +2%
+|ss2=Time Machine Travel Speedup Output +4%
+|ss3=Time Machine Travel Speedup Output +6%
+|ss4=Time Machine Travel Speedup Output +6%
+|ss7=Time Machine Travel Speedup Output +6%<br> (Awakened)
+}}

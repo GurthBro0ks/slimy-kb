@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=317
+|relics=Cupid and Psyche,Maitreya in Meditation
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Demon Minions in battle: Troop DEF +5
+}}

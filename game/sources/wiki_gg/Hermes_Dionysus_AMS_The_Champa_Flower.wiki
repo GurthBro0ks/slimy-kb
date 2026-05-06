@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=532
+|relics=Hermes & Dionysus,AMS,The Champa Flower
+|rank=orange
+|amount=3
+|category=self
+|description=In the Gaia Rocket Cabin: Garden of Eden Base Effect +64%
+}}

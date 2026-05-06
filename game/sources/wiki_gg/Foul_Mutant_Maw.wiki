@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Foul Mutant Maw
+|type=Common
+|rank=purple
+|id=10853
+|idx=58
+|description=A grotesquely twisted orifice covered in corrosive darkness. It absorbs life energy from its surroundings and releases sinister energy waves—typically used to spew venom, acid, or other devastating substances.
+|skill=
+|hp=1404
+|def=145
+|atk=230
+|rush=116
+|gene1=Per purple or higher organ implanted, {race} ATK +4
+Purple or higher Organs implanted: 40/40
+|gene2=Earth RES +60
+|gene3=Ignore Earth RES +60
+|gene4=Earth DMG +60
+|gene7=Earth DMG +3% (Awakened)
+|}}

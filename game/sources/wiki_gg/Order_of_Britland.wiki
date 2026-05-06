@@ -1,0 +1,19 @@
+{{CargoRelic
+|name=Order of Britland
+|class_id=20821
+|rank=Blue
+|affct=TECH
+|source=
+|description=This is one of the orders of chivalry established by the King of Britland. The Order's motto is: For God and the Empire. It is the lowest class of appointment and the appointed members come from a wide range of classes.
+|fame=30
+|art=30
+|fth=27
+|civ=20
+|tech=48
+|ss1=All equipped Organs, skill DMG +5%<br>Per 5 organ gene locks unlocked, Snail ATK +5<br>Per 5 organ gene locks unlocked, Snail HP +50<br>Organ's Gene Locks unlocked:200/200
+|ss2=All equipped Organs, skill DMG +5%<br>Per 5 organ gene locks unlocked, Snail ATK +5<br>Per 5 organ gene locks unlocked, Snail HP +50<br>Organ's Gene Locks unlocked:200/200
+|ss3=All equipped Organs, skill DMG +5%<br>Per 5 organ gene locks unlocked, Snail ATK +5<br>Per 5 organ gene locks unlocked, Snail HP +50<br>Organ's Gene Locks unlocked:200/200
+|ss4=All equipped Organs, skill DMG +5%<br>Per 5 organ gene locks unlocked, Snail ATK +5<br>Per 5 organ gene locks unlocked, Snail HP +50<br>Organ's Gene Locks unlocked:200/200
+|ss7=All equipped Organs, skill DMG +5%<br>Per 5 organ gene locks unlocked, Snail ATK +5<br>Per 5 organ gene locks unlocked, Snail HP +50<br>Organ's Gene Locks unlocked:200/200<br>All equipped Organs, skill DMG +5% (Awakened)
+|skill1=[[File:Timemachine skill I.png|50px]]Place in Time Machine: Travel Speedup Output +5%
+}}

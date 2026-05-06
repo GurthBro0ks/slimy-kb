@@ -1,0 +1,37 @@
+{{Missing Info|specifics=<br>Mirage: 6s Name}}
+{{CargoRelic
+|name=Era Magazine Vol.1
+|rank=SS
+|affct=CIV
+|birthday=06-23
+|source=Ad Chest (1%), Grandmaster Scrolls (1%), Lottery Machine (0.12%), Relic Forge (100 Relic RF), Wishing (0.1%)
+|description=On Jun 23, 1923 AD, Hadden changed the magazine name to Era Magazine.
+
+The aim of Hadden's Era Magazine is to let busy people learn more about world events. This is why it contains content on economy, education, law, criticism, reader's letters, religion, medicine, art, and book rewards. It uses a large number of pictures and charts to spread the news in a narrative style, which is different from the conventional newspaper or tv broadcast reporting. Such reporting style is later adopted by news outlets and magazines around the world. It become one of the most influential journals in the 20th century.
+|fame=67
+|art=61
+|fth=52
+|civ=103
+|tech=64
+|ss1=Snail HP +200<br>Per 5 Ads watched, Snail HP +20<br>Per 5 Ads watched, Snail ATK +2<br>Ads Watched: 100/100
+|ss2=Snail HP +300<br>Per 5 Ads watched, Snail HP +30<br>Per 5 Ads watched, Snail ATK +3<br>Ads Watched: 100/100
+|ss3=Snail HP +400<br>Per 5 Ads watched, Snail HP +40<br>Per 5 Ads watched, Snail ATK +4<br>Ads Watched: 100/100
+|ss4=Snail HP +600<br>Per 5 Ads watched, Snail HP +60<br>Per 5 Ads watched, Snail ATK +6<br>Ads Watched: 100/100
+|ss5=Snail HP +800<br>Per 5 Ads watched, Snail HP +80<br>Per 5 Ads watched, Snail ATK +8<br>Ads Watched: 100/100
+|ss6=Snail HP +1,100<br>Per 5 Ads watched, Snail HP +110<br>Per 5 Ads watched, Snail ATK +11<br>Ads Watched: 100/100
+|ss7=Snail HP +1,100<br>Per 5 Ads watched, Snail HP +110<br>Per 5 Ads watched, Snail ATK +11<br>Ads Watched: 100/100<br>Snail HP +1,000 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x INTEL Drops +15%
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, INTEL gained +15%
+|skill3=[[File:Timemachine skill III.png|50px]]Place in Time Machine: This Relic's CIV +15
+
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Ad Shop Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Time Machine Skill]]
+[[Category:CIV Boost]]

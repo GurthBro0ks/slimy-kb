@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Otis Elevator,Arabian Bronze Hand,Lady with an Ermine,De Motu Cordis Model,Count of Monty Christi
+|rank=purple
+|amount=5
+|category=minion
+|description=Zombie Minion MAX +9
+}}
+[[Category:Minion]]
+[[Category:Zombie Minion MAX Cap Boost]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Refuge Portable Device
+|class_id=20312
+|rank=Green
+|affct=TECH
+|source=
+|description=When the apocalyptic nuclear war broke out, more than a thousand members poured into Vault 47. Each member was given a portable device to wear on their hand for easy management. This device not only detects surrounding radiation levels but also could increase your stats!
+|fame=13
+|art=10
+|fth=21
+|civ=18
+|tech=28
+|ss1=Per Fissure Incident completed, Snail DEF +1<br>Fissure Incidents Completed: 60/60
+|ss2=Per Fissure Incident completed, Snail DEF +2<br>Fissure Incidents Completed: 60/60
+|ss3=Per Fissure Incident completed, Snail DEF +3<br>Fissure Incidents Completed: 60/60
+|ss4=Per Fissure Incident completed, Snail DEF +3<br>Fissure Incidents Completed: 60/60
+|ss7=Per Fissure Incident completed, Snail DEF +3<br>Fissure Incidents Completed: 60/60<br> (Awakened)
+}}

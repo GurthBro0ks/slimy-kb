@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Flying Broom
+|class_id=20049
+|rank=Green
+|affct=FAME
+|source=
+|description=In the magic world, broomsticks are the most common means of transportation and are also used in sports. Due to the high demand, several producers in the magic realm have invested in the production of broomsticks. There are cheap ordinary versions and costly versions that can be tailored to the components!
+|fame=26
+|art=20
+|fth=19
+|civ=15
+|tech=10
+|ss1=Travel SPD +0.2%
+|ss2=Travel SPD +0.4%
+|ss3=Travel SPD +0.6%
+|ss4=Travel SPD +0.6%
+|ss7=Travel SPD +0.6%<br> (Awakened)
+}}

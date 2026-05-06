@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Killer Diary Vol. 390
+|class_id=20467
+|rank=Green
+|affct=FAME
+|source=
+|description=A secret manual exclusive to a one-thousand-year-old assassin family that records the previous generations' experience in the practice of assassination. The skills and techniques in the manual help assassins train more effectively. It is a treasure that most assassins are dying to obtain. But it's later found to be only the remnants.
+|fame=30
+|art=10
+|fth=17
+|civ=15
+|tech=18
+|ss1=Per Grandmaster Scroll used, Snail DEF +1<br>Grandmaster Scrolls Used: 50/50
+|ss2=Per Grandmaster Scroll used, Snail DEF +2<br>Grandmaster Scrolls Used: 50/50
+|ss3=Per Grandmaster Scroll used, Snail DEF +3<br>Grandmaster Scrolls Used: 50/50
+|ss4=Per Grandmaster Scroll used, Snail DEF +3<br>Grandmaster Scrolls Used: 50/50
+|ss7=Per Grandmaster Scroll used, Snail DEF +3<br>Grandmaster Scrolls Used: 50/50<br> (Awakened)
+}}

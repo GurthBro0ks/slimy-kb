@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Dominator
+|rank=orange
+|cabin=2
+|id=141
+|gene1={race} ATK +50
+|gene2={race} FTH +50
+|gene3=Fire DMG +30
+|gene4=Per 60 Angel Minions in battle,
+Troop Fire DMG +6
+|gene5=Gene Simulation Power Checks -0.9%
+|gene6=Per 60 Angel Minions in battle,
+Troop Fire DMG +10
+|gene7=Gene Simulation Power Checks -1.5%
+|}}

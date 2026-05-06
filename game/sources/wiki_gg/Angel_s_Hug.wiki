@@ -1,0 +1,25 @@
+{{Shell
+|name={{#titleparts:{{PAGENAME}}}}
+|image={{#titleparts:{{PAGENAME}}}}.png
+|description= Snail Shell's first owner was a martyr, who was dead when pilgrims found it. The pilgrims claimed that the owner had returned to the angels, but those who stole Snail Shell found a diary that asked for Satan's blessing.
+|affct=FTH
+|hard=ATK
+|source=
+{{Memetic Catalyst
+|number=6083
+|relic1=The Last Supper
+|relic2=Golden Scarab
+|relic3=Forbidden Fruit
+|relic4=Ark of Covenant
+|relic5=Shroud of Turin
+}}
+|color=blue
+|earth=5
+|water=3
+|fire=3
+|wind=3
+|form=Angel
+|element=Earth
+|realm=Britland
+|orangehard=ATK
+}}

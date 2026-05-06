@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Aladdin's Carpet
+|class_id=21704
+|rank=SSS
+|affct=CIV
+|birthday=06-24
+|source=
+|description=On Jun 24, 700 AD, Aladdin rode the flying carpet to find his own princess.<br>Aladdin climbed onto the magic carpet in disbelief and was startled as it took flight. There are no controls on a magic carpet. There are no propellers, engines, or turbines. Instead, it is propelled by the very air around it. From up here, the user can quickly locate the target from a bird's eye view.
+|fame=67
+|art=68
+|fth=54
+|civ=109
+|tech=64
+|ss1=Snail ATK +60<br>When offering, 2x Divine Chest Drops +6%<br>Per 5 Daily Silver Packs bought, Snail ATK +15<br>Daily Silver Packs Bought: 150/150
+|ss2=Snail ATK +70<br>When offering, 2x Divine Chest Drops +7%<br>Per 5 Daily Silver Packs bought, Snail ATK +18<br>Daily Silver Packs Bought: 150/150
+|ss3=Snail ATK +80<br>When offering, 2x Divine Chest Drops +8%<br>Per 5 Daily Silver Packs bought, Snail ATK +21<br>Daily Silver Packs Bought: 150/150
+|ss4=Snail ATK +90<br>When offering, 2x Divine Chest Drops +9%<br>Per 5 Daily Silver Packs bought, Snail ATK +24<br>Daily Silver Packs Bought: 150/150
+|ss5=Snail ATK +100<br>When offering, 2x Divine Chest Drops +10%<br>Per 5 Daily Silver Packs bought, Snail ATK +27<br>Daily Silver Packs Bought: 150/150
+|ss6=Snail ATK +120<br>When offering, 2x Divine Chest Drops +12%<br>Per 5 Daily Silver Packs bought, Snail ATK +30<br>Daily Silver Packs Bought: 150/150
+|ss7=Snail ATK +120<br>When offering, 2x Divine Chest Drops +12%<br>Per 5 Daily Silver Packs bought, Snail ATK +30<br>Daily Silver Packs Bought: 150/150<br>When offering, 2x Divine Chest Drops +5% (Awakened)
+|skill1=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: Medal Output +30
+|skill2=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: This Relic's CIV +15
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: Medal Cost for Master Scrolls -300
+|mirage={{Mirage|name=Flying Bedding|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Aladdin's Pillowcase|3rec=3.94M|3atk=49067|3defense=32595|3hp=771971|3weak=10676
+|4name=Aladdin's Quilt Cover|4rec=7.58M|4atk=70485|4defense=46824|4hp=1458894|4weak=12690
+|5name=Aladdin's Sheet|5rec=13.64M|5atk=96631|5defense=64192|5hp=2611388|5weak=16082
+|6name=Aladdin's Mattress|6rec=29.25M|6atk=128017|6defense=85042|6hp=4366136|6weak=18447
+|Arec=46.71M|Aatk=165005|Adefense=109613|Ahp=7090242|Aweak=19848
+}}}}

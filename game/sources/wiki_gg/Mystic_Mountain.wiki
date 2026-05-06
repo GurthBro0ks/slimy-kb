@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Mystic Mountain
+|class_id=22271
+|rank=SSS
+|affct=ART
+|birthday=10-19
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Oct 19, 2008 AD, the Hubble telescope photographed this Mystic Mountain.<br>Hubble's Wide Field Camera 3 observed the Mystic Mountain. This craggy fantasy mountaintop enshrouded by wispy clouds looks like a bizarre landscape. The NASA/ESA Hubble Space Telescope image, which is even more dramatic than fiction, captures the chaotic activity atop a pillar of gas and dust, three light-years tall, which is being eaten away by the brilliant light from nearby bright stars. The pillar is also being assaulted from within, as infant stars buried inside it fire off jets of gas that can be seen streaming from towering peaks.
+|fame=52
+|art=106
+|fth=69
+|civ=74
+|tech=61
+|ss1=Minion Cloning SPD +1.8%<br>Per 10 Constellation LVLs, Snail HP +30<br>Per 10 Constellation LVLs, Snail ATK +3<br>Constellation LVLs: 400/400
+|ss2=Minion Cloning SPD +2.4%<br>Per 10 Constellation LVLs, Snail HP +40<br>Per 10 Constellation LVLs, Snail ATK +4<br>Constellation LVLs: 400/400
+|ss3=Minion Cloning SPD +3%<br>Per 10 Constellation LVLs, Snail HP +50<br>Per 10 Constellation LVLs, Snail ATK +5<br>Constellation LVLs: 400/400
+|ss4=Minion Cloning SPD +4.2%<br>Per 10 Constellation LVLs, Snail HP +70<br>Per 10 Constellation LVLs, Snail ATK +7<br>Constellation LVLs: 400/400
+|ss5=Minion Cloning SPD +5.4%<br>Per 10 Constellation LVLs, Snail HP +90<br>Per 10 Constellation LVLs, Snail ATK +9<br>Constellation LVLs: 400/400
+|ss6=Minion Cloning SPD +7.2%<br>Per 10 Constellation LVLs, Snail HP +120<br>Per 10 Constellation LVLs, Snail ATK +12<br>Constellation LVLs: 400/400
+|ss7=Minion Cloning SPD +7.2%<br>Per 10 Constellation LVLs, Snail HP +120<br>Per 10 Constellation LVLs, Snail ATK +12<br>Constellation LVLs: 400/400<br>Minion Cloning SPD +6% (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's ART +15
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Card Drops +15%
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Reagent Drops +15%
+|mirage={{Mirage|name=Amazing Nebulae|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Carina Nebula|3rec=49.65M|3atk=170514|3defense=113757|3hp=7997303|3weak=21679
+|4name=Chariot Nebula|4rec=63.36M|4atk=199418|4defense=133039|4hp=10518048|4weak=25390
+|5name=Aircraft Nebula|5rec=78.13M|5atk=230562|5defense=153817|5hp=13611011|5weak=30557
+|6name=Satellite Nebula|6rec=94.60M|6atk=265296|6defense=176989|6hp=17325835|6weak=33491
+|Arec=112.55M|Aatk=303162|Adefense=202252|Ahp=21807472|Aweak=36539
+}}}}

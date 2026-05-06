@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Babylonian Clay Tablet
+|class_id=22732
+|rank=SSS
+|affct=CIV
+|birthday=07-06
+|source=
+|description=On Jul 6, 1990 AD, archaeologists from Yale University discovered a clay tablet at the Ruins of Babylon.<br>This clay tablet is the world's earliest known cookbook, recording several ancient Babylonian cuisines, including a salad, a thick soup, and a lamb broth. The tablet details the ingredients used in cooking at the time, including onions, carrots, and oats. Some chefs have recreated these dishes according to the instructions on the tablet, and one of them has even become a signature dish of a chef after being modified!
+|fame=74
+|art=67
+|fth=63
+|civ=107
+|tech=52
+|ss1=Unicorn Express Supply Order Reset SPD +1<br>Per 200K Sales, Snail HP +30<br>Per 200K Sales, Snail ATK +3<br>Total Sales: 12000000/12000000
+|ss2=Unicorn Express Supply Order Reset SPD +2<br>Per 200K Sales, Snail HP +40<br>Per 200K Sales, Snail ATK +4<br>Total Sales: 12000000/12000000
+|ss3=Unicorn Express Supply Order Reset SPD +3<br>Per 200K Sales, Snail HP +50<br>Per 200K Sales, Snail ATK +5<br>Total Sales: 12000000/12000000
+|ss4=Unicorn Express Supply Order Reset SPD +4<br>Per 200K Sales, Snail HP +70<br>Per 200K Sales, Snail ATK +7<br>Total Sales: 12000000/12000000
+|ss5=Unicorn Express Supply Order Reset SPD +5<br>Per 200K Sales, Snail HP +90<br>Per 200K Sales, Snail ATK +9<br>Total Sales: 12000000/12000000
+|ss6=Unicorn Express Supply Order Reset SPD +6<br>Per 200K Sales, Snail HP +120<br>Per 200K Sales, Snail ATK +12<br>Total Sales: 12000000/12000000
+|ss7=Unicorn Express Supply Order Reset SPD +6<br>Per 200K Sales, Snail HP +120<br>Per 200K Sales, Snail ATK +12<br>Total Sales: 12000000/12000000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, 2x B-tad Drops +15%
+|skill2=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: This Relic's CIV +15
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: Medal Output +30
+|mirage={{Mirage|name=Prehistoric Flavor|reward={{RewardIconWithLink|Supply Deal, +10|orange}}
+|3name=Garlic Dried Gecko|3rec=145.99M|3atk=399790|3defense=249300|3hp=24369825|3weak=38701
+|4name=Manta Ray Sashimi|4rec=199.20M|4atk=527022|4defense=324162|4hp=39193827|4weak=43572
+|5name=Marinated Octopus|5rec=290.28M|5atk=707561|5defense=423713|5hp=74419390|5weak=51349
+|6name=Salt-baked Scarabs|6rec=381.96M|6atk=857157|6defense=506192|6hp=103261604|6weak=54565
+|Arec=493.91M|Aatk=1051333|Adefense=606914|Ahp=172060881|Aweak=60088
+}}}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=309
+|relics=Walking Man Statue,The Walking Man
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Mutant Minions in battle: Troop RUSH +5
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=1204
+|relics=The Son of Man,Madame Bovary,Rainbow Feathered Robe,Wave-Particle Duality,Of Human Bondage,Mont Sainte-Victoire
+|rank=orange
+|amount=6
+|category=self
+|description=All minion skins ATK +120%
+}}

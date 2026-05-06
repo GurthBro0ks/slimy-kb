@@ -1,0 +1,44 @@
+{{CargoRelic
+|name=Mermaid Statue
+|rank=AAA
+|affct=ART
+|birthday=01-11
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)
+|description=On Jan 11, 1913, sculptor Erik Erikson created the bronze mermaid statue as a symbol of Denmark.
+
+Jacob, the founder of Carlsberg Brewery, donated money to build this bronze statue. It is inspired by "The Little Mermaid" written by Andersen. Her unique charm and tragic destiny have moved Jacob to make a statue for her. The statue was placed in shallow seawater, with several pieces of granite piled underneath an oval granite as base. After the completion of the statue, it became a famous icon of Denmark.
+
+[Theft of the Mermaid]
+
+The following year: The head of the statue was stolen
+
+20 years later: The head of the statue was sawed off and stolen
+
+50 years later: The right arm of the statue was sawed off and stolen
+
+90 years later: The statue was blown up and fell into the water
+
+180 years later: It was splashed with blue and white paint
+|fame=47
+|art=73
+|fth=35
+|civ=43
+|tech=45
+|ss1=Mutant Gene Research B-tad Cost -1.8%<br>Mutant Gene Research Cells consumed -1.8%
+|ss2=Mutant Gene Research B-tad Cost -2.4%<br>Mutant Gene Research Cells consumed -2.4%
+|ss3=Mutant Gene Research B-tad Cost -3%<br>Mutant Gene Research Cells Consumed -3%
+|ss4=Mutant Gene Research B-tad Cost -4.2%<br>Mutant Gene Research Cells consumed -4.2%
+|ss5=Mutant Gene Research B-tad Cost -5.4%<br>Mutant Gene Research Cells consumed -5.4%
+|ss7=Mutant Gene Research B-tad Cost -5.4%<br>Mutant Gene Research Cells consumed -5.4%<br>Mutant Gene Research B-tad Cost -4.2% (Awakened)
+|skill1=[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: B-tad Output +15%
+|skill2=[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: Max Cap +15%
+}}
+
+[[Category:Mutant Gene Cost Reduction]]
+[[Category:Tadpole Pond Skill]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Minion ATK Boost]]
+[[Category:DNA Boost]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by DNA Strength]]
+[[Category:Nanosaur Boost]]

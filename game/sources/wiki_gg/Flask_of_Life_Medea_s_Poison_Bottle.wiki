@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=624
+|relics=Flask of Life,Medea's Poison Bottle
+|rank=blue
+|amount=2
+|category=self
+|description=When you receive Green Spores from Catalysis: Gain +1 Spore Voucher by +10%
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=556
+|relics=Hlidskjalf,Lucy the Ape,Capitoline Wolf,Bronze Goblet,Wilford's Engine
+|rank=orange
+|amount=5
+|category=self
+|description=Per 7 Mutant Gene LVLs, Snail ATK +20;Mutant Gene LVLs Researched: 210/210
+}}

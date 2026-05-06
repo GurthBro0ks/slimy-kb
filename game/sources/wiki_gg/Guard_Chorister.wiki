@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Guard Chorister
+|rank=blue
+|cabin=2
+|id=45
+|gene1={race} ATK +20
+|gene2={race} TECH +20
+|gene3=Fire DMG +10
+|gene4=Per 10 Mecha Minions in battle:
+> Troop ATK +2
+|gene5=Fire DMG +20
+|}}

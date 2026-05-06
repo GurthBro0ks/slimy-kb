@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Barnum Effect
+|class_id=20839
+|rank=Green
+|affct=TECH
+|source=
+|description=This hefty tome contains Master Barnum's profound insights on cognition and perception, filled with complex diagrams and detailed annotations that guide readers to explore the mysteries of the mind, understand the boundaries of their own cognition, and enhance their thinking skills and perceptual acuity.
+|fame=12
+|art=16
+|fth=18
+|civ=13
+|tech=31
+|ss1=Kemet Union Impact DMG +1%<br>Per 1,000 Kemetic Disciples advanced, Snail HP +30<br>Kemetic Disciples Advanced: 20000/20000
+|ss2=Kemet Union Impact DMG +2%<br>Per 1,000 Kemetic Disciples advanced, Snail HP +60<br>Kemetic Disciples Advanced: 20000/20000
+|ss3=Kemet Union Impact DMG +3%<br>Per 1,000 Kemetic Disciples advanced, Snail HP +90<br>Kemetic Disciples Advanced: 20000/20000
+|ss4=Kemet Union Impact DMG +3%<br>Per 1,000 Kemetic Disciples advanced, Snail HP +90<br>Kemetic Disciples Advanced: 20000/20000
+|ss7=Kemet Union Impact DMG +3%<br>Per 1,000 Kemetic Disciples advanced, Snail HP +90<br>Kemetic Disciples Advanced: 20000/20000<br> (Awakened)
+}}

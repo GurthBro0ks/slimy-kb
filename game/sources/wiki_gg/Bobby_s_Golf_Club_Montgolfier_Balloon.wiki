@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=304
+|relics=Bobby's Golf Club,Montgolfier Balloon
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Zombie Minions in battle: Troop DEF +5
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=647
+|relics=Cassegrain Antenna,Fly-By-Wire,Hooke's Spring,Ring Laser Gyroscope,Riding Car
+|rank=blue
+|amount=5
+|category=self
+|description=Per Godhood LVL, Snail ATK +48;Godhood LVL: 10/10
+}}

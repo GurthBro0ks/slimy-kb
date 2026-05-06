@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Royal Seal
+|class_id=22831
+|rank=SS
+|affct=FAITH
+|source=
+|description= The Royal Seal, or the Joseon Royal Seal, is an important artifact from the Joseon dynasty, primarily used for the investiture of crown princes or princesses. These seals are exquisitely crafted, often made from precious jade materials, with smooth lines and clear details, reflecting the superb craftsmanship of the time. Additionally, the inscriptions on the seals are mostly in nine-fold seal script, showing their deep connection with the Ming dynasty. The Joseon Royal Seal is not only a symbol of royal authority but also reflects the tributary relationship between Korea and ancient Chinese dynasties. These artifacts are now considered national treasures of Korea, possessing high historical and cultural value.
+|fame=56
+|art=68
+|fth=101
+|civ=52
+|tech=70
+|ss1=Koryeon Museum Medal Output +4<br>Koryeon Museum B-tad Output +400<br>Per 1.5k Museum Medals gained, Snail ATK +2<br>Museum Medals Gained: 60000/60000
+|ss2=Koryeon Museum Medal Output +6<br>Koryeon Museum B-tad Output +600<br>Per 1.5k Museum Medals gained, Snail ATK +3<br>Museum Medals Gained: 60000/60000
+|ss3=Koryeon Museum Medal Output +8<br>Koryeon Museum B-tad Output +800<br>Per 1.5k Museum Medals gained, Snail ATK +4<br>Museum Medals Gained: 60000/60000
+|ss4=Koryeon Museum Medal Output +12<br>Koryeon Museum B-tad Output +1200<br>Per 1.5k Museum Medals gained, Snail ATK +6<br>Museum Medals Gained: 60000/60000
+|ss5=Koryeon Museum Medal Output +16<br>Koryeon Museum B-tad Output +1600<br>Per 1.5k Museum Medals gained, Snail ATK +8<br>Museum Medals Gained: 60000/60000
+|ss6=Koryeon Museum Medal Output +22<br>Koryeon Museum B-tad Output +2200<br>Per 1.5k Museum Medals gained, Snail ATK +11<br>Museum Medals Gained: 60000/60000
+|ss7=Koryeon Museum Medal Output +22<br>Koryeon Museum B-tad Output +2200<br>Per 1.5k Museum Medals gained, Snail ATK +11<br>Museum Medals Gained: 60000/60000<br>Koryeon Museum Medal Output +20 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: This Relic's FTH +15
+|skill2=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: Medal Output +30
+|skill3=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, 2x Orange Card Drops +15%
+|mirage={{Mirage|name=Lee Dynasty|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Koryeon Official|3rec=7.88M|3atk=73060|3defense=47840|3hp=1369244|3weak=14399
+|4name=The Great Jang Geum|4rec=13.59M|4atk=97835|4defense=64063|4hp=2263795|4weak=17892
+|5name=Koryeon King|5rec=28.12M|5atk=127460|5defense=83462|5hp=3610539|5weak=20899
+|Arec=44.15M|Aatk=161903|Adefense=106015|Ahp=5535127|Aweak=26340
+}}}}

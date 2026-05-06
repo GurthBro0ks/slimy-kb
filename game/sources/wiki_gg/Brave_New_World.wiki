@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Brave New World
+|class_id=22316
+|rank=SSS
+|affct=CIV
+|birthday=08-05
+|source=
+|description=On Aug 5, 1931 AD, Brave New World was written by the English author Aldous Huxley.<br>Brave New World is a dystopian novel. The novel describes a world rich in material resources and highly developed in science and technology, where human desires can be satisfied at any time painlessly. However, in such kind of society, humanity has been annihilated. Citizens are engineered through artificial wombs and childhood indoctrination programmed into predetermined classes as if they were enslaved to science and technology.
+|fame=70
+|art=66
+|fth=68
+|civ=107
+|tech=51
+|ss1=Snail Leadership +3<br>Per 60 Minions in battle:<br>> Troop HARD Stats +3<br>When offering, 2x Neutral Chest Drops +3%
+|ss2=Snail Leadership +4<br>Per 60 Minions in battle:<br>> Troop HARD Stats +6<br>When offering, 2x Neutral Chest Drops +4%
+|ss3=Snail Leadership +5<br>Per 60 Minions in battle:<br>> Troop HARD Stats +9<br>When offering, 2x Neutral Chest Drops +5%
+|ss4=Snail Leadership +7<br>Per 60 Minions in battle:<br>> Troop HARD Stats +15<br>When offering, 2x Neutral Chest Drops +7%
+|ss5=Snail Leadership +9<br>Per 60 Minions in battle:<br>> Troop HARD Stats +21<br>When offering, 2x Neutral Chest Drops +9%
+|ss6=Snail Leadership +12<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>When offering, 2x Neutral Chest Drops +12%
+|ss7=Snail Leadership +12<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>When offering, 2x Neutral Chest Drops +12%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Water DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Time Chest Drops +6%
+|mirage={{Mirage|name=Utopia|reward={{RewardIconWithLink|CIV Master Scroll, +40|orange}}
+|3name=Alpha|3rec=36.78M|3atk=143372|3defense=95649|3hp=5765129|3weak=19634
+|4name=Beta|4rec=49.00M|4atk=169142|4defense=112841|4hp=7752424|4weak=21535
+|5name=Gamma|5rec=62.55M|5atk=197703|5defense=131895|5hp=10223731|5weak=25018
+|6name=Delta|6rec=77.15M|6atk=228504|6defense=152444|6hp=13234459|6weak=30348
+|Arec=93.62M|Aatk=263238|Adefense=175616|Ahp=16892163|Aweak=33308
+}}}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Orichalcum
+|class_id=22050
+|rank=Blue
+|affct=FAITH
+|birthday=11-20
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Nov 20, 10,000 BC, the people of Atlantis discovered Orichalcum from the fountainhead underground.<br>Orichalcum is a mysterious metal from Atlantis, described as a golden-yellow copper alloy, famous for its hardness. It is said that the walls of ancient Atlantis were wrapped in this metal. As one of the important subjects of Atlantis research, the veil on its mystery has not yet been revealed by the world.
+|fame=23
+|art=32
+|fth=47
+|civ=22
+|tech=30
+|ss1=Per 3 Gears crafted, Snail DEF +2<br>Gears Crafted: 60/60
+|ss2=Per 3 Gears crafted, Snail DEF +4<br>Gears Crafted: 60/60
+|ss3=Per 3 Gears crafted, Snail DEF +6<br>Gears Crafted: 60/60
+|ss4=Per 3 Gears crafted, Snail DEF +10<br>Gears Crafted: 60/60
+|ss7=Per 3 Gears crafted, Snail DEF +10<br>Gears Crafted: 60/60<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Quary skill I.png|50px]]Place in Quarry: Stone Output +5%
+}}

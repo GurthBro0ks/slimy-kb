@@ -1,0 +1,327 @@
+== Demon Chan-hee ♀ ==
+Half of her body has been biochemically modified. Now she is set free from the Demon Gods.
+
+=== Begin Friendship ===
+To obtain Demon Chan-hee, first intercept [[Hitmen|Hitman No.18]] and then fully defeat Chan-hee 1/2.
+{| class="wikitable"
+!Enemy
+!ATK
+!DEF 
+!HP
+!Special Sats
+!Weakness
+!Rewards
+|-
+| rowspan="3" |Chan-hee 1/2
+|51,737
+|38,962
+|1,160,891 
+|HIT +80, Paralysis RES +80%
+|TECH 14,240
+|{{RewardIconWithLink|Feast Ticket}} +50, {{RewardIconWithLink|Magic Potion}} +50 
+|-
+|80,385
+|60,536 
+|2,313,387
+|HIT +80, Paralysis RES +80%
+|TECH 18,240
+|{{RewardIconWithLink|Feast Ticket}} +50, {{RewardIconWithLink|Magic Potion}} +50 
+|-
+|117,584
+|88,550
+|4,136,057
+|HIT +80, Paralysis RES +80%
+|TECH 22,330
+|{{RewardIconWithLink|Feast Ticket}} +100, {{RewardIconWithLink|Magic Potion}} +100
+|}
+
+===☆☆☆ > ★★★===
+After 2 letters back and forth, Demon Chan-hee will move in permanently with her minion, Demonic Tentacle.
+
+==Rent==
+Demon Chan-hee rent is collected on '''Saturday''' and appears as a small organ on the left side of the floor.
+
+[[File:Demon Chan-hee rent.png|left]]
+ '''Normal Rent''': {{RewardIconWithLink|Evolution Chest, +5}}
+
+ '''Rare Rent''': {{RewardIconWithLink|Mutated Tentacle|purple}}
+
+{{Clear}}
+
+==Relics==
+Upgrading these will earn Organ Chests!
+{| class="mw-collapsible mw-collapsed wikitable"  
+!Relic Tier
+!Reward 
+|-
+|★
+|Organ Chest +10
+|-
+|★★
+|Organ Chest +10
+|-
+|★★★
+|Organ Chest +10
+|-
+|★★★★
+|Organ Chest +20
+|-
+|★★★★★
+|Organ Chest +30
+|-
+|★★★★★★
+|Organ Chest +40
+|}<br>
+
+{| class="wikitable" style="width:100%; text-align:center;" 
+! style="background-color:var(--blue-text);" |{{Reimg|Eye of Medusa}}<br>[[Eye of Medusa]]
+! style="background-color:var(--blue-text);" |{{Reimg|Tee Virus}}<br>[[Tee Virus]]
+! style="background-color:var(--purple-text);" |{{Reimg|Supersoldier Serum}}<br>[[Supersoldier Serum]]
+! style="background-color:var(--purple-text);" |{{Reimg|Gene Map}}<br>[[Gene Map]]
+|-
+! style="background-color:var(--orange-text);" |{{Reimg|Gaea's Hand}}<br>[[Gaea's Hand]]
+! style="background-color:var(--orange-text);" |{{Reimg|Phoenix Feather}}<br>[[Phoenix Feather]]
+! style="background-color:var(--orange-text);" |{{Reimg|Blood of Cain}}<br>[[Blood of Cain]]
+! style="background-color:var(--orange-text);" |{{Reimg|Double Helix DNA}}<br>[[Double Helix DNA]]
+|}
+
+==Demon Chan-hee's Tentacles==
+When Demon Chan-hee was still a Hitman, Demon Gods gave her a biological weapon with regenerative powers!
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!'''Lv.'''!!'''Research Skill Required'''!!'''B-tad Cost'''!!'''Skill 1'''!!'''Skill 2'''
+|-
+|1|| || ||FAME +5||In Gene Simulations, DMG +0.5%
+|-
+|2||180||2,000||FAME +10||In Gene Simulations, DMG +1%
+|-
+|3||190||4,500||FAME +15||In Gene Simulations, DMG +1.5%
+|-
+|4||200||8,000||FAME +20||In Gene Simulations, DMG +2%
+|-
+|5||210||12,500||FAME +25||In Gene Simulations, DMG +2.5%
+|-
+|6||220||18,000||FAME +30||In Gene Simulations, DMG +3%
+|-
+|7||230||24,500||FAME +35||In Gene Simulations, DMG +3.5%
+|-
+|8||240||32,000||FAME +40||In Gene Simulations, DMG +4%
+|-
+|9||250||40,500||FAME +45||In Gene Simulations, DMG +4.5%
+|-
+|10||260||50,000||FAME +50||In Gene Simulations, DMG +5%
+|-
+|11||270||60,500||FAME +55||In Gene Simulations, DMG +5.5%
+|-
+|12||285||72,000||FAME +60||In Gene Simulations, DMG +6%
+|-
+|13||300||84,500||FAME +65||In Gene Simulations, DMG +6.5%
+|-
+|14||315||98,000||FAME +70||In Gene Simulations, DMG +7%
+|-
+|15||330||112,000||FAME +75||In Gene Simulations, DMG +7.5%
+|-
+|16||345||123,000||FAME +80||In Gene Simulations, DMG +8%
+|-
+|17||360||144,000||FAME +85||In Gene Simulations, DMG +8.5%
+|-
+|18||375||162,000||FAME +90||In Gene Simulations, DMG +9%
+|-
+|19||390||180,000||FAME +95||In Gene Simulations, DMG +9.5%
+|-
+|20||400||200,000||FAME +100||In Gene Simulations, DMG +10%
+|-
+|21||420||220,000||FAME +105||In Gene Simulations, DMG +10.5%
+|-
+|22||440||242,000||FAME +110||In Gene Simulations, DMG +11%
+|-
+|23||460||264,000||FAME +115||In Gene Simulations, DMG +11.5%
+|-
+|24||480||285,000||FAME +120||In Gene Simulations, DMG +12%
+|-
+|25||500||309,000||FAME +125||In Gene Simulations, DMG +12.5%
+|-
+|26||520||333,000||FAME +130||In Gene Simulations, DMG +13%
+|-
+|27||540||357,000||FAME +135||In Gene Simulations, DMG +13.5%
+|-
+|28||560||381,000||FAME +140||In Gene Simulations, DMG +14%
+|-
+|29||580||405,000||FAME +145||In Gene Simulations, DMG +14.5%
+|-
+|30||600||429,000||FAME +150||In Gene Simulations, DMG +15%
+|}
+
+== Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Demon Chan-hee's Tentacles is. 
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!'''Lv.'''!!'''B-tad Cost'''!!'''Skill 1'''!! '''Skill 2'''
+|-
+|1|| ||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +10 
+|-
+|2||4000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +20
+|-
+|3||6000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +30
+|-
+|4||8000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +40
+|-
+|5||10000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +50
+|-
+|6||12000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +60
+|-
+|7||14000||Mutant Minion MAX +1 ||Per 10 Demonic Tentacles in battle, Troop RUSH +70
+|-
+|8||16000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +80 
+|-
+|9||18000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +90
+|-
+|10||20000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +100
+|-
+|11||22000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +110
+|-
+|12||24000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +120
+|-
+|13||26000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +130
+|-
+|14||28000||Mutant Minion MAX +1 ||Per 10 Demonic Tentacles in battle, Troop RUSH +140
+|-
+|15||30000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +150
+|-
+|16||32000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +160
+|-
+|17||34000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +170
+|-
+|18||36000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +180
+|-
+|19||38000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +190
+|-
+|20||40000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +200
+|-
+|21||42000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +210
+|-
+|22||44000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +220
+|-
+|23||46000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +230
+|-
+|24||48000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +240
+|-
+|25||50000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +250
+|-
+|26||55000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +260
+|-
+|27||60000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +270
+|-
+|28||65000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +280
+|-
+|29||70000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +290
+|-
+|30||75000||Mutant Minion MAX +1||Per 10 Demonic Tentacles in battle, Troop RUSH +300
+|}
+
+==Research Ability==
+Below is a table of the research manual cost to upgrade each research gene. Demon Chan-hee specializes in '''Mutant Genes''' specialization and therefore the research manual cost for the Mutant is halved. 
+
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+!Lv.!!Manuals Required!!Lv.!!Manuals Required
+|-
+|'''1-10'''||1||'''11-20'''||2
+|-
+|'''21-30'''||3||'''31-40'''||4
+|-
+|'''41-50'''||5||'''51-60'''||10
+|-
+|'''61-70'''||20||'''71-80'''||40
+|-
+|'''81-90'''||60||'''91-95'''||80
+|-
+|'''96'''||100 ||'''97'''||200
+|-
+|'''98'''||400|| '''99'''||600
+|-
+|'''100''' || 800
+|}
+
+==Minion - Demonic Tentacle==
+The Demon God took half of Chan-hee's body and combined it with a demon to revive her. These tentacles are now a symbol of Demon Chan-hee...
+
+===Special Ability - Whiplash ===
+Per 10 Demonic Tentacles in battle, Troop ATK +10 (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Demonic Tentacles!
+{| class="wikitable"
+!'''Name'''
+!'''1-Star'''
+!'''2-Star'''
+!'''3-Star''' 
+!'''4-Star''' 
+!'''5-Star'''
+!'''6-Star'''
+|-
+|{{Relink|Gregor Specimen|blue}}
+|Demonic Tentacle HP +1%
+|Demonic Tentacle DEF +1%
+|Demonic Tentacle ATK +1%
+|Demonic Tentacle RUSH +1%
+|
+|
+|-
+|{{Relink|Tee Virus|blue}}
+|Demonic Tentacle HP +1%
+|Demonic Tentacle DEF +1%
+|Demonic Tentacle ATK +1%
+|Demonic Tentacle RUSH +1%
+|
+|
+|-
+|{{Relink|Socrates' Poison|purple}}
+|Demonic Tentacle HP +2%
+|Demonic Tentacle DEF +2% 
+|Demonic Tentacle ATK +2%
+|Demonic Tentacle RUSH +2%
+|Demonic Tentacle All Stats +3%
+|
+|-
+|{{Relink|Supersoldier Serum|purple}}
+|Demonic Tentacle HP +2%
+|Demonic Tentacle DEF +2%
+|Demonic Tentacle ATK +2%
+|Demonic Tentacle RUSH +2%
+|Demonic Tentacle All Stats +3%
+|
+|-
+|{{Relink|Ape's Footprint Fossil|orange}}
+|Demonic Tentacle RUSH +4%
+|Demonic Tentacle RUSH +4%
+|Demonic Tentacle RUSH +4%
+|Demonic Tentacle RUSH +4%
+|Demonic Tentacle RUSH +4%
+|Demonic Tentacle RUSH +4%
+|-
+|{{Relink|Element R.|orange}}
+|Demonic Tentacle DEF +4%
+|Demonic Tentacle DEF +4%
+|Demonic Tentacle DEF +4%
+|Demonic Tentacle DEF +4%
+|Demonic Tentacle DEF +4%
+|Demonic Tentacle DEF +4%
+|-
+|{{Relink|Golden Scarab|orange}}
+|Demonic Tentacle HP +4%
+|Demonic Tentacle HP +4%
+|Demonic Tentacle HP +4%
+|Demonic Tentacle HP +4%
+|Demonic Tentacle HP +4%
+|Demonic Tentacle HP +4%
+|-
+|{{Relink|Einstein's Brain|orange}}
+|Demonic Tentacle ATK +4%
+|Demonic Tentacle ATK +4%
+|Demonic Tentacle ATK +4%
+|Demonic Tentacle ATK +4%
+|Demonic Tentacle ATK +4%
+|Demonic Tentacle ATK +4%
+|}
+
+[[Category:Partners]]

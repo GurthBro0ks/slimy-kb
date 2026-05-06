@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Broken Star Chart
+|class_id=20361
+|rank=Green
+|affct=TECH
+|source=
+|description=Due to severe impact, most of the data stored in this star chart has been lost. However, among the remaining little information, several relatively complete cosmic routes can still be extracted. And the destination of these routes seems to be located in an unknown Domain.
+|fame=12
+|art=17
+|fth=13
+|civ=17
+|tech=31
+|ss1=Rocket destination unlocked: Species Domain<br>Per Species Domain conquered, Refine Time -40s<br>Species Domains Conquered: 3/3
+|ss2=Rocket destination unlocked: Species Domain<br>Per Species Domain conquered, Refine Time -1m 20s<br>Species Domains Conquered: 3/3
+|ss3=Rocket destination unlocked: Species Domain<br>Per Species Domain conquered, Refine Time -2m<br>Species Domains Conquered: 3/3
+|ss4=Rocket destination unlocked: Species Domain<br>Per Species Domain conquered, Refine Time -2m<br>Species Domains Conquered: 3/3
+|ss7=Rocket destination unlocked: Species Domain<br>Per Species Domain conquered, Refine Time -2m<br>Species Domains Conquered: 3/3<br> (Awakened)
+}}

@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=In the 22nd century, mechanical keyboards have taken over as the number one necessity for Snail.
+|affct=CIV
+|hard=DEF
+|source=Divine Neutral Chest (0.1%)
+|color=orange
+|earth=10
+|water=12
+|fire=10
+|wind=10
+|form=Mutant
+|element=Water
+|realm=Hellas
+|orangehard=DEF
+}}

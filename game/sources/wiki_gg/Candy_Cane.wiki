@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Candy Cane
+|class_id=20973
+|rank=Green
+|affct=FAME
+|source=
+|description=Its shape resembles shepherd's crook. Legend has it that when Jesus was born, the shepherd guarding the flock in the fields of Bethlehem heard the news of his birth announced by an angel and immediately went to worship. As a result, the shepherd became one of the symbols of Jesus...
+|fame=33
+|art=12
+|fth=18
+|civ=14
+|tech=13
+|ss1=Snail HP +100<br>Per 5 Wonder Fungi eaten, Snail ATK +1<br>Wonder Fungi used: 200/200
+|ss2=Snail HP +200<br>Per 5 Wonder Fungi eaten, Snail ATK +2<br>Wonder Fungi used: 200/200
+|ss3=Snail HP +300<br>Per 5 Wonder Fungi eaten, Snail ATK +3<br>Wonder Fungi used: 200/200
+|ss4=Snail HP +300<br>Per 5 Wonder Fungi eaten, Snail ATK +3<br>Wonder Fungi used: 200/200
+|ss7=Snail HP +300<br>Per 5 Wonder Fungi eaten, Snail ATK +3<br>Wonder Fungi used: 200/200<br> (Awakened)
+}}

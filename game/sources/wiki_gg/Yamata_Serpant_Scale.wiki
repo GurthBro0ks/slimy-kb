@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=​Yamata Serpant Scale
+|class_id=20278
+|rank=Green
+|affct=FAITH
+|source=
+|description=On the inverted scales under the ​Yamata Serpant, or Yamata no Orochi, you can sense a divine light from a faint sound of wind and thunder. The essence of its whole body is concentrated on the spot. Even close ones of the great serpent may fall ill if they accidentally touch the scale.
+|fame=14
+|art=16
+|fth=29
+|civ=15
+|tech=16
+|ss1=Orochi-chan HARD Stats +1%
+|ss2=Orochi-chan HARD Stats +2%
+|ss3=Orochi-chan HARD Stats +3%
+|ss4=Orochi-chan HARD Stats +3%
+|ss7=Orochi-chan HARD Stats +3%<br> (Awakened)
+}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Aeschylus Statue
+|class_id=22084
+|rank=Blue
+|affct=CIV
+|birthday=04-30
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Apr 30, 456 BC, the ancient Greeks erected this statue in remembrance of Aeschylus.<br>The archetype of this statue is Aeschylus, an ancient Greek tragedian. He has written more than 90 tragedies in his life, and only seven have been handed down. These compelling works are captivating in language, sublime in style, and show intense conflicts in concise plots. He also introduced a second actor in the drama performance, which changed the traditional performance mode, provided more possibilities for the development of drama, and profoundly impacted the progress of Western drama Art. For this, he's addressed as the father of tragedy.
+|fame=35
+|art=28
+|fth=24
+|civ=48
+|tech=19
+|ss1=Per 10 Angel Minions in battle:<br>> Troop HP +10
+|ss2=Per 10 Angel Minions in battle:<br>> Troop HP +20
+|ss3=Per 10 Angel Minions in battle:<br>> Troop HP +30
+|ss4=Per 10 Angel Minions in battle:<br>> Troop HP +50
+|ss7=Per 10 Angel Minions in battle:<br>> Troop HP +50<br>Per 10 Angel Minions in battle:<br>> Troop HP +50 (Awakened)
+|skill1=[[File:Dungbeetle skill I.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion ATK +1.5%
+}}

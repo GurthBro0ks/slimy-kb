@@ -1,0 +1,18 @@
+{{Missing Info|specifics=<br>Source<br>Categories}}
+
+{{CargoRelic
+|name=Black Dragon Key
+|class_id=20223
+|rank=Green
+|affct=FTH
+|source=
+|description=Since the last Rezero War, the fallen tribe of Black Dragon has been hiding in the underground world. It is said that they have built a huge Dragon City there, and only those with the key can find the entrance to the city.
+|fame=18
+|art=13
+|fth=27
+|civ=13
+|tech=19
+|ss1=Per Dragon Form Tier, Snail ATK +10<br>Dragon Form Tiers: 9/9
+|ss2=Per Dragon Form Tier, Snail ATK +20<br>Dragon Form Tiers: 9/9
+|ss3=Per Dragon Form Tier, Snail ATK +30<br>Dragon Form Tiers: 9/9
+}}

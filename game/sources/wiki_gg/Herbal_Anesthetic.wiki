@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Herbal Anesthetic
+|class_id=22001
+|rank=Blue
+|affct=FAME
+|birthday=02-20
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Feb 20, 208 AD, after years in the medical business, Hua Tuo successfully worked out the recipe for Herbal Anesthetic.<br>It is a type of anesthetic invented by Hua Tuo, a famous doctor in the Three Kingdoms era. It is said that the patient would lose consciousness after drinking it with wine, not feeling any pain even when being cut. It was frequently used in surgical operations. After Minister Cao Cao ordered Hua Tuo's execution, the recipe for Herbal Anesthetic was lost. Most of the existing recipes are counterfeits of the later generations, their effect is far from satisfaction.
+|fame=48
+|art=26
+|fth=18
+|civ=27
+|tech=35
+|ss1=Mutant Minion DEF +1%
+|ss2=Mutant Minion DEF +2%
+|ss3=Mutant Minion DEF +3%
+|ss4=Mutant Minion DEF +5%
+|ss7=Mutant Minion DEF +5%<br>Mutant Minion DEF +5% (Awakened)
+|skill1=[[File:Biozilla skill I.png|50px]]Place in a Biozilla: This Relic's FAME +5
+}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Huygens' Pendulum
+|class_id=22104
+|rank=Blue
+|affct=TECH
+|birthday=12-03
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Dec 3, 1657 AD, the Dutch physicist Huygens integrated the pendulum into the mechanical clock creating the invention of the pendulum clock.<br>The pendulum clock was created by Dutch physicist Christiaan Huygens, based on isochronism. The swing of the pendulum is influenced by the gravitational force of the Earth and the pulling force of the rope. Its cycle is a factor of the length of the pendulum and the acceleration of gravity. Since gravitational acceleration can be considered constant, time can be measured by controlling the length of the pendulum. The advent of the pendulum clock improved the accuracy of timekeeping and played a role in the development of clocks and watches.
+|fame=28
+|art=19
+|fth=34
+|civ=25
+|tech=48
+|ss1=Per 7 Sign-Ins, Snail ATK +1<br>Sign-Ins: 364/364
+|ss2=Per 7 Sign-Ins, Snail ATK +2<br>Sign-Ins: 364/364
+|ss3=Per 7 Sign-Ins, Snail ATK +3<br>Sign-Ins: 364/364
+|ss4=Per 7 Sign-Ins, Snail ATK +5<br>Sign-Ins: 364/364
+|ss7=Per 7 Sign-Ins, Snail ATK +5<br>Sign-Ins: 364/364<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +1%
+}}

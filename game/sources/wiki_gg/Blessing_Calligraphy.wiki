@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Blessing Calligraphy
+|class_id=20097
+|rank=Green
+|affct=CIV
+|source=
+|description=Of all the traditional customs of the Spring Festival, pasting "Blessing" on the inside and outside of the house is an indispensable one. This simple way of blessing expresses people's yearning for a happy life and wishes for a better future. In some places, there is also the custom of pasting "Blessing" upside down...
+|fame=13
+|art=13
+|fth=15
+|civ=34
+|tech=15
+|ss1=Per 20 Orange Orbs drawn, Snail HP +60<br>Orange Orbs Drawn: 300/300
+|ss2=Per 20 Orange Orbs drawn, Snail HP +80<br>Orange Orbs Drawn: 300/300
+|ss3=Per 20 Orange Orbs drawn, Snail HP +100<br>Orange Orbs Drawn: 300/300
+|ss4=Per 20 Orange Orbs drawn, Snail HP +100<br>Orange Orbs Drawn: 300/300
+|ss7=Per 20 Orange Orbs drawn, Snail HP +100<br>Orange Orbs Drawn: 300/300<br> (Awakened)
+}}

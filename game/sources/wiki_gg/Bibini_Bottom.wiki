@@ -1,0 +1,893 @@
+{{Missing Info}}
+
+==Bibini Bottom==
+Bibini Bottom is the 2nd map within the [[Mysterious Sea]] of [[Britland]]. Unlock Bibini Bottom by completing the [[Britland Key Clues#Lost Nautical Charts|Britland Key Clue "Bibini Bottom Map"]]. 
+
+===Other Seas===
+{|class="wikitable"
+! [[Pirate Paradise]]
+! Bibini Bottom
+! [[Mecha Sea]]
+! [[Poseidon Temple]]
+! [[Dragon Palace]]
+! [[Doomsday Sea]]
+|}
+
+==Floor 1==
+'''Starting Tile''' 7
+'''Clear Cost''' 20 Bronze Coins per mist
+
+[[File:Bibini Bottom 1.25.png|200px|left]]
+[[File:Bibini Bottom 1.5.png|200px]]
+<tabber>
+|-|Fleet Fights=
+{| class="wikitable"
+!Place 
+!Enemy
+!Power
+!Sailors 
+!Reward
+|-
+|2
+|Smack of Jellyfish
+|759
+|130
+|Silver +16
+|-
+|16
+|
+|3,784
+|239
+|Gold +8<br>{{RewardIconWithLink|Evolution Chest, +10}}
+|-
+|18
+|Smack of Jellyfish
+|1,012
+|95
+|Silver +21
+|-
+|19
+|Smack of Jellyfish
+|868
+|113
+|Silver +18
+|-
+|21
+|Smack of Jellyfish
+|934
+|104
+|Silver +19
+|-
+|29
+|
+|3,784
+|239
+|Gold +10<br>{{RewardIconWithLink|Evolution Chest, +10}}
+|-
+|32
+|Smack of Jellyfish
+|759
+|130
+|Silver +16
+|-
+|35
+|Smack of Jellyfish
+|810
+|121
+|Silver +17
+|}
+|-|Snail Fights=
+{| class="wikitable"
+!Place
+!Enemy
+!ATK
+! DEF
+!HP
+!Weakness
+! Reward
+|-
+|16
+|
+|33,806
+|26,585
+|610,003
+|FAME 10,421
+|NAV Gold Coin +8
+|-
+|29
+|
+|1
+|1
+|10
+|FAME 1
+|NAV Gold Coin +10
+|}
+|-|Events=
+{| class="wikitable"
+| colspan="4;" style="background-color:var(--red-bg); text-align:center" |Events
+|-
+! style="background-color:var(--red-bg)" |Place
+! style="background-color:var(--red-bg)" |Event
+! style="background-color:var(--red-bg)" |Requirements
+! style="background-color:var(--red-bg)" | Reward
+|-
+|1
+|Drift Bottle
+| -
+|{{RewardIconWithLink|Expert Scroll, +2|purple}}
+|-
+|6
+|School of Deep-sea Fish
+|Fishing Lv.1
+|?<br>{{RewardIconWithText|B-tad, +2k}}
+|-
+|12
+|Ancient Obelisk
+| -
+|Choose a skill
+|-
+|15
+|Recent Ruins
+|Archeology Lv.1
+|{{RewardIconWithLink|Boy with Goose|purple}} +5
+|-
+|26
+|Statue
+|10,900 FTH
+|{{RewardIconWithLink|Soul Chest, +5}}<br>{{RewardIconWithText|Offering Speedup, +20m}}
+|-
+|36
+|Stranded Ship
+|10,400 ART
+|{{RewardIconWithLink|Evolution Chest, +5}}<br>{{RewardIconWithLink|Fungus Chest, +5}}
+|}
+|-|Other=
+{|class="wikitable" style="text-align:center"
+|style="background-color:var(--blue-bg)"|Sailor
+|Sailor +8
+|-
+|style="background-color:var(--yellow-bg)"|Flotsam<br>1 of:
+|{{RewardIconWithText|Wood, +80}}<br>{{RewardIconWithText|Stone, +80}}<br>{{RewardIconWithText|INTEL, +50}}<br>NAV Bronze Coin +20<br>NAV Silver Coin +1<br>{{RewardIconWithLink|Novice Scroll, +1|blue}}
+|-
+|style="background-color:var(--green-bg)"|Flotsam<br>1 of:
+|{{RewardIconWithText|B-tad, +200}}
+|}
+</tabber>
+
+==Floor 2==
+'''Starting Tile''' 34
+'''Clear Cost''' 20 Bronze Coin per mist
+
+[[File:Bibini Bottom 1.25.png|200px|left]]
+[[File:Bibini Bottom 2.5.png|200px]]
+<tabber>
+|-|Fleet Fights=
+{| class="wikitable"
+!Place 
+!Enemy
+!Power
+!Sailors 
+!Reward
+|-
+|2
+|
+|4,677
+|295
+|Gold +10<br>{{RewardIconWithLink|Evolution Chest, +10}}
+|-
+|15
+|Smack of Jellyfish
+|1,067
+|181
+|Silver +22
+|-
+|17
+|Smack of Jellyfish
+|1,138
+|169
+|Silver +23
+|-
+|20
+|Smack of Jellyfish
+|1,313
+|145
+|Silver +27
+|-
+|24
+|Smack of Jellyfish
+|1,423
+|133
+|Silver +29
+|-
+|25
+|Smack of Jellyfish
+|1,138
+|169
+|Silver +23
+|-
+|26
+|Smack of Jellyfish
+|4,677
+|295
+|Gold +20
+|-
+|27
+|Smack of Jellyfish
+|1,219
+|157
+|Silver +25
+|}
+|-|Snail Fights=
+{| class="wikitable"
+!Place
+!Enemy
+!ATK
+! DEF
+!HP
+!Weakness
+! Reward
+|-
+|16
+|
+|33,433
+|26,323
+|608,006
+|FAME 10,351
+|NAV Gold Coin +10
+|-
+|26
+|Octopus
+|34,830
+|27,362
+|644,788
+|FAME 10,603
+|NAV Gold Coin +20
+|}
+|-|Events=
+{| class="wikitable"
+| colspan="4;" style="background-color:var(--red-bg); text-align:center" |Events
+|-
+! style="background-color:var(--red-bg)" |Place
+! style="background-color:var(--red-bg)" |Event
+! style="background-color:var(--red-bg)" |Requirements
+! style="background-color:var(--red-bg)" | Reward
+|-
+|6
+|Ancient Obelisk
+| -
+|Choose a skill
+|-
+|9
+|Stranded Ship
+|10,500 ART
+|{{RewardIconWithLink|Evolution Chest, +5}}<br>{{RewardIconWithLink|Fungus Chest, +5}}
+|-
+|12
+|Statue
+|10,600 FTH
+|{{RewardIconWithLink|Soul Chest, +5}}<br>{{RewardIconWithText|Offering Speedup, +20m}}
+|-
+|13
+|
+|Fishing Lv.2
+|{{RewardIconWithLink|Taichi Fish, +5}}<br>{{RewardIconWithText|B-tad, +3k}}
+|-
+|31
+|Drift Bottle
+| -
+|{{RewardIconWithLink|Britland Treasure Map, +3}}
+|-
+|36
+|Seashore Placer
+|Exploration Lv.1
+|{{RewardIconWithText|Wood, +600}}<br>{{RewardIconWithText|B-tad, +1k}}
+|}
+|-|Other=
+{|class="wikitable" style="text-align:center"
+|style="background-color:var(--blue-bg)"|Sailor
+|Sailor +10
+|-
+|style="background-color:var(--yellow-bg)"|Flotsam<br>1 of:
+|{{RewardIconWithText|Wood, +80}}<br>{{RewardIconWithText|Stone, +80}}<br>{{RewardIconWithText|INTEL, +50}}<br>NAV Bronze Coin +20<br>NAV Silver Coin +1<br>{{RewardIconWithLink|Novice Scroll, +1|blue}}
+|-
+|style="background-color:var(--green-bg)"|Flotsam<br>1 of:
+|{{RewardIconWithText|B-tad, +200}}
+|}
+</tabber>
+
+==Floor 3==
+'''Starting Tile''' 7
+'''Clear Cost''' 30 Bronze Coin per mist
+
+[[File:Bibini Bottom 1.25.png|200px|left]]
+[[File:Bibini Bottom 3.5.png|200px]]
+<tabber>
+|-|Fleet Fights=
+{| class="wikitable"
+!Place 
+!Enemy
+!Power
+!Sailors 
+!Reward
+|-
+|2
+|Smack of Jellyfish
+|1,643
+|211
+|Silver +33
+|-
+|10
+|
+|7,357
+|464
+|Gold +30<br>{{RewardIconWithLink|Evolution Chest, +10}}
+|-
+|12
+|Smack of Jellyfish
+|1,533
+|227
+|Silver +31
+|-
+|15
+|Smack of Jellyfish
+|1,437
+|243
+|Silver +29
+|-
+|28
+|
+|7,953
+|501
+|Gold +12<br>{{RewardIconWithLink|Evolution Chest, +10}}
+|-
+|30
+|Smack of Jellyfish
+|1,916
+|179
+|Silver +39
+|-
+|32
+|Smack of Jellyfish
+|1,643
+|211
+|Silver +33
+|-
+|35
+|Smack of Jellyfish
+|1,769
+|195
+|Silver +36
+|}
+|-|Snail Fights=
+{| class="wikitable"
+!Place
+!Enemy
+!ATK
+! DEF
+!HP
+!Weakness
+! Reward
+|-
+|10
+|Crab
+|36,118
+|28,366
+|718,497
+|FAME 10,840
+|NAV Gold Coin +30
+|-
+|28
+|Whale
+|36,728
+|28,849
+|751,451
+|FAME 10,961
+|NAV Gold Coin +12
+|}
+|-|Events=
+{| class="wikitable"
+| colspan="4;" style="background-color:var(--red-bg); text-align:center" |Events
+|-
+! style="background-color:var(--red-bg)" |Place
+! style="background-color:var(--red-bg)" |Event
+! style="background-color:var(--red-bg)" |Requirements
+! style="background-color:var(--red-bg)" | Reward
+|-
+|5
+|School of Deep-sea Fish
+|Fishing Lv.1
+|?<br>{{RewardIconWithText|B-tad, +3k}}
+|-
+|6
+|Drift Bottle
+| -
+|{{RewardIconWithLink|Expert Scroll, +2|purple}}
+|-
+|14
+|Seashore Placer
+|Exploration Lv.1
+|{{RewardIconWithText|Wood, +600}}<br>{{RewardIconWithText|B-tad, +1k}}
+|-
+|19
+|Crab Restaurant
+| -
+|Shop
+|-
+|27
+|Ancient Obelisk
+| -
+|Choose a skill
+|-
+|29
+|
+|Treasure Hunting Lv.2
+|{{RewardIconWithText|Crabby Burger, +10}}
+|-
+|31
+|Stranded Ship
+|10,700 ART
+|{{RewardIconWithLink|Evolution Chest, +5}}<br>{{RewardIconWithLink|Fungus Chest, +5}}
+|}
+|-|Crab Restaurant=
+{|class="wikitable" style="text-align:center"
+!Item
+!Price
+!Quantity
+|-
+|{{RewardIconWithText|Crabby Burger}}
+|1,500 Silver Coins
+|20
+|-
+|{{RewardIconWithLink|Fungus Chest}}
+|1,000 Silver Coins
+|10
+|-
+|
+|10,000 Gold Coins
+|1
+|}
+|-|Other=
+{|class="wikitable" style="text-align:center"
+|style="background-color:var(--blue-bg)"|Sailor
+|Sailor +12
+|-
+|style="background-color:var(--yellow-bg)"|Flotsam<br>1 of:
+|{{RewardIconWithText|Wood, +80}}<br>{{RewardIconWithText|Stone, +80}}<br>{{RewardIconWithText|INTEL, +50}}<br>NAV Bronze Coin +20<br>NAV Silver Coin +1<br>{{RewardIconWithLink|Novice Scroll, +1|blue}}
+|-
+|style="background-color:var(--green-bg)"|Flotsam<br>1 of:
+|{{RewardIconWithText|B-tad, +200}}
+|}
+</tabber>
+
+==Floor 4==
+'''Starting Tile''' 24
+'''Clear Cost''' 40 Bronze Coins per mist
+
+[[File:Mysterious Sea Bibini Bottom 4 Full.jpg|200px|left]]
+[[File:Bibini Bottom 1.25.png|200px]]
+[[File:Bibini Bottom 4.5.png|200px]]
+{{clear}}
+<tabber>
+|-|Fleet Fights=
+{| class="wikitable"
+!Place 
+!Enemy
+!Power
+!Sailors 
+!Reward
+|-
+|3
+|Lobsters
+|8,599
+|542
+|Gold +15<br>{{RewardIconWithLink|Evolution Chest, +10}}
+|-
+|7
+|Smack of Jellyfish
+|2,137
+|274
+|Silver +43
+|-
+|12
+|Smack of Jellyfish
+|2,302
+|253
+|Silver +47
+|-
+|15
+|Smack of Jellyfish
+|1,995
+|295
+|Silver +40
+|-
+|20
+|Smack of Jellyfish
+|1,870
+|316
+|Silver +38
+|-
+|28
+|Smack of Jellyfish
+|2,493
+|232
+|Silver +50
+|-
+|32
+|Swarm of Sea Slugs
+|9,245
+|582
+|Gold +40<br>{{RewardIconWithLink|Evolution Chest, +10}}
+|-
+|36
+|Smack of Jellyfish
+|2,302
+|253
+|Silver +47
+|}
+|-|Snail Fights=
+{| class="wikitable"
+!Place
+!Enemy
+!ATK
+! DEF
+!HP
+!Weakness
+! Reward
+|-
+|3
+|Lobster
+|36,728
+|28,849
+|751,451
+|FAME 10,961
+|NAV Gold Coin +15
+|-
+|32
+|
+|36,423
+|28,607
+|725,073
+|FAME 10,901
+|NAV Gold Coin +40
+|}
+|-|Events=
+{| class="wikitable"
+| colspan="4;" style="background-color:var(--red-bg); text-align:center" |Events
+|-
+! style="background-color:var(--red-bg)" |Place
+! style="background-color:var(--red-bg)" |Event
+! style="background-color:var(--red-bg)" |Requirements
+! style="background-color:var(--red-bg)" | Reward
+|-
+|6
+|Ancient Obelisk
+| -
+|Choose a skill
+|-
+|8
+|Stranded Ship
+|10,300 ART
+|{{RewardIconWithLink|Evolution Chest, +5}}<br>{{RewardIconWithLink|Fungus Chest, +5}}
+|-
+|16
+|Prophet Hut
+|10,800 CIV
+|{{RewardIconWithLink|Master Scroll, +1|orange}}<br>{{RewardIconWithText|Orange Reagent, +1|orange}}
+|-
+|27
+|
+|Fishing Lv.2
+|{{RewardIconWithLink|Taichi Fish, +5}}<br>{{RewardIconWithText|B-Tad, +3k}}
+|-
+|34
+|
+|Archeology Lv.2
+|{{RewardIconWithLink|Phoenician Tablet, +5|purple}}
+|-
+|35
+|Drift Bottle
+| -
+|{{RewardIconWithLink|Britland Treasure Map, +3}}
+|}
+|-|Other=
+{|class="wikitable" style="text-align:center"
+|style="background-color:var(--blue-bg)"|Sailor
+|Sailor +14
+|-
+|style="background-color:var(--yellow-bg)"|Flotsam<br>1 of:
+|{{RewardIconWithText|Wood, +80}}<br>{{RewardIconWithText|Stone, +80}}<br>{{RewardIconWithText|INTEL, +50}}<br>NAV Bronze Coin +20<br>NAV Silver Coin +1<br>{{RewardIconWithLink|Novice Scroll, +1|blue}}
+|-
+|style="background-color:var(--green-bg)"|Flotsam<br>1 of:
+|{{RewardIconWithText|B-Tad, +200}}
+|}
+</tabber>
+
+==Floor 5==
+'''Starting Tile''' 6
+'''Clear Cost''' 50 Bronze Coins per mist
+
+[[File:Bibini Bottom 5 complete.jpg|200px|left]]
+[[File:Bibini Bottom 1.25.png|200px]]
+[[File:Bibini Bottom 5.5.png|200px]]
+{{clear}}
+<tabber>
+|-|Fleet Fights=
+{| class="wikitable"
+!Place 
+!Enemy
+!Power
+!Sailors 
+!Reward
+|-
+|2
+|Smack of Jellyfish
+|2,365
+|399
+|Silver +48
+|-
+|10
+|Smack of Jellyfish
+|3,154
+|292
+|Silver +64
+|-
+|13
+|Smack of Jellyfish
+|2,911
+|319
+|Silver +59
+|-
+|17
+|Swarm of Starfish
+|11,383
+|716
+|Gold +50<br>{{RewardIconWithLink|Evolution Chest, +10}}
+|-
+|21
+|Smack of Jellyfish
+|2,523
+|372
+|Silver +51
+|-
+|24
+|Smack of Jellyfish
+|2,703
+|346
+|Silver +55
+|-
+|33
+|Smack of Jellyfish
+|3,154
+|292
+|Silver +64
+|-
+|35
+|Smack of Jellyfish
+|2,365
+|399
+|Silver +48
+|}
+|-|Snail Fights=
+{| class="wikitable"
+!Place
+!Enemy
+!ATK
+! DEF
+!HP
+!Weakness
+! Reward
+|-
+|17
+|Starfish
+|38,153
+|29,927
+|836,016
+|FAME 11,204
+|NAV Gold Coin +50
+|-
+|17
+|Giant Starfish
+|39,577
+|31,004
+|923,421
+|FAME 11,447
+|NAV Gold Coin +50<br>Wish Coin +3
+|}
+|-|Events=
+{| class="wikitable"
+| colspan="4;" style="background-color:var(--red-bg); text-align:center" |Events
+|-
+! style="background-color:var(--red-bg)" |Place
+! style="background-color:var(--red-bg)" |Event
+! style="background-color:var(--red-bg)" |Requirements
+! style="background-color:var(--red-bg)" | Reward
+|-
+|1
+|Ancient Obelisk
+| -
+|Choose a skill
+|-
+|3
+|Recent Ruins
+|Archeology Lv.1
+|{{RewardIconWithLink|Nefertiti Bust, +5 Fragments|purple}}
+|-
+|8
+|School of Deep-sea Fish
+|Fishing Lv.1
+|?<br>{{RewardIconWithText|B-Tad, +2k}}
+|-
+|20
+|Prophet Hut
+|11,250 CIV
+|{{RewardIconWithLink|Master Scroll, +1|orange}}<br>{{RewardIconWithText|Orange Reagent, +1|orange}}
+|-
+|30
+|Staue
+|11,000 FTH
+|{{RewardIconWithLink|Soul Chest, +5}}<br>{{RewardIconWithText|Offering Speedup, +20m}}
+|-
+|36
+|Drift Bottle
+| -
+|{{RewardIconWithLink|Expert Scroll, +2|purple}}
+|}
+|-|Other=
+{|class="wikitable" style="text-align:center"
+|style="background-color:var(--blue-bg)"|Sailor
+|Sailor +16
+|-
+|style="background-color:var(--yellow-bg)"|Flotsam<br>1 of:
+|{{RewardIconWithText|Wood, +80}}<br>{{RewardIconWithText|Stone, +80}}<br>{{RewardIconWithText|INTEL, +50}}<br>NAV Bronze Coin +20<br>NAV Silver Coin +1<br>{{RewardIconWithLink|Novice Scroll, +1|blue}}
+|-
+|style="background-color:var(--green-bg)"|Flotsam<br>1 of:
+|{{RewardIconWithText|B-Tad, +200}}
+|}
+</tabber>
+
+==Floor 6==
+'''Starting Tile''' 31
+'''Clear Cost''' 2 Silver Coins per mist
+
+[[File:Bibini Bottom 6 complete.jpg|200px|left]]
+[[File:Bibini Bottom 1.25.png|200px]]
+[[File:Bibini Bottom 6.5.png|200px]]
+{{clear}}
+<tabber>
+|-|Fleet Fights=
+{| class="wikitable"
+!Place 
+!Enemy
+!Power
+!Sailors 
+!Reward
+|-
+|1
+|Swarm of Sponges
+|14,567
+|916
+|Gold +60<br>{{RewardIconWithLink|SpongeRob, +5 Fragments|green}}
+|-
+|8
+|Smack of Jellyfish
+|3,118
+|459
+|Silver +63
+|-
+|11
+|School of Porcupinefish
+|10,637
+|669
+|Gold +18<br>{{RewardIconWithLink|Evolution Chest, +10}}
+|-
+|13
+|Smack of Jellyfish
+|3,897
+|361
+|Silver +78
+|-
+|17
+|Smack of Jellyfish
+|2,923
+|492
+|Silver +59
+|-
+|22
+|Smack of Jellyfish
+|3,597
+|394
+|Silver +72
+|-
+|26
+|Smack of Jellyfish
+|3,118
+|459
+|Silver +63
+|-
+|30
+|Smack of Jellyfish
+|3,341
+|426
+|Silver +67
+|}
+|-|Snail Fights=
+{| class="wikitable"
+!Place
+!Enemy
+!ATK
+! DEF
+!HP
+!Weakness
+! Reward
+|-
+|1
+|Sponge
+|38,899
+|30,484
+|883,474
+|FAME 11,326
+|NAV Gold Coin +60
+|-
+|11
+|Porcupinefish
+|38,153
+|29,927
+|836,016
+|FAME 11,204
+|NAV Gold Coin +18
+|}
+|-|Events=
+{| class="wikitable"
+| colspan="4;" style="background-color:var(--red-bg); text-align:center" |Events
+|-
+! style="background-color:var(--red-bg)" |Place
+! style="background-color:var(--red-bg)" |Event
+! style="background-color:var(--red-bg)" |Requirements
+! style="background-color:var(--red-bg)" | Reward
+|-
+|6
+|Ancient Obelisk
+| -
+|Choose a skill
+|-
+|10
+|
+|Fishing Lv.2
+|{{RewardIconWithLink|Taichi Fish, +5}}<br>{{RewardIconWithText|B-Tad, +3k}}
+|-
+|18
+|Drift Bottle
+| -
+|{{RewardIconWithLink|Britland Treasure Map, +3}}
+|-
+|21
+|
+|Archeology Lv.2
+|{{RewardIconWithLink|Hermes' Coin, +5 Fragments|purple}}
+|-
+|35
+|Stranded Ship
+|11,200 ART
+|{{RewardIconWithLink|Evolution Chest, +5}}<br>{{RewardIconWithLink|Fungus Chest, +5}}
+|-
+|36
+|Miracle Conch
+|Treasure Hunting Lv.1
+|{{RewardIconWithLink|Miracle Conch, +5 Fragments|green}}
+|}
+|-|Other=
+{|class="wikitable" style="text-align:center"
+|style="background-color:var(--blue-bg)"|Sailor
+|Sailor +18
+|-
+|style="background-color:var(--yellow-bg)"|Flotsam<br>1 of:
+|{{RewardIconWithText|Wood, +80}}<br>{{RewardIconWithText|Stone, +80}}<br>{{RewardIconWithText|INTEL, +50}}<br>NAV Bronze Coin +20<br>NAV Silver Coin +1<br>{{RewardIconWithLink|Novice Scroll, +1|blue}}
+|-
+|style="background-color:var(--green-bg)"|Flotsam<br>1 of:
+|{{RewardIconWithText|B-Tad, +200}}
+|}
+</tabber>
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Britland]]

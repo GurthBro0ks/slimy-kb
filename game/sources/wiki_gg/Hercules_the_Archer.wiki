@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Hercules the Archer
+|class_id=22531
+|rank=AA
+|affct=ART
+|birthday=05-03
+|source=Lottery Machine No.3 (0.12%)
+|description=On May 3, 1909 AD, Bourdelle completed this statue.<br>Hercules the Archer is one of the representative works of the French sculptor Bourdelle. Unlike the Academic style sculptures that attempt to reproduce the perfect human form, this statue shows a solemn and monumental character, using the curve of the bow and the exaggerated body shape to present the beauty of this hero's strength and display the artist's unique creative skills.
+|fame=31
+|art=68
+|fth=41
+|civ=49
+|tech=39
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop HP +80<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +8
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop HP +120<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +12
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop HP +160<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +16
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop HP +240<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +24
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop HP +320<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +32
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop HP +320<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +32<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +28 (Awakened)
+|skill1=[[File:Goldfish skill II.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion ATK +4.5%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's ART +10
+}}

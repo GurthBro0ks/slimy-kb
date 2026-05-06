@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Unidentified Liver
+|type=Common
+|rank=orange
+|id=10874
+|idx=81
+|description=When discovered, the host had long perished—yet this liver kept pulsing. On rare occasions, it murmurs: “Grind now… rest later…” Some say it once belonged to a legendary Liver—a mythical grinder who pushed past human limits.
+|skill=
+|hp=2000
+|def=180
+|atk=172
+|rush=292
+|gene1=Per 20 Wonder Fungi used, {race} ATK +60
+Wonder Fungi Eaten: 60/60
+|gene2=Demon Minion Recovery SPD +6%
+|gene3=Each round, {race} DEF +60
+|gene4=Demon Minion Cloning SPD +3%
+|gene5=Per 2 Gastric Pouch LVLs challenged, {race} RUSH +6
+Gastric Pouch LVLs: 100/100
+|gene7=Demon Minion Recovery SPD +6% (Awakened)
+|}}

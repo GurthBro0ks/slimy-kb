@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Marine Chronometer
+|class_id=22504
+|rank=Blue
+|affct=TECH
+|birthday=05-21
+|source=Lottery Machine No.3 (0.03%)
+|description=On May 21, 1585 AD, German goldsmith Hans presented the Marine Chronometer to Rudolf II.<br>The Marine Chronometer is an alarm clock shaped like a ship. When it appeared at Rudolf's court banquet, all the other treasures lost their color, and only it walked on the long table. The cannons on both sides of the ship emitted cannon sounds and smoke, and even the small soldiers on the deck moved. This exquisite craftsmanship and ingenious design represented Europe's mechanical development level at the time and was a representative of European technological progress during the Renaissance.
+|fame=27
+|art=22
+|fth=34
+|civ=24
+|tech=47
+|ss1=Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +24<br>Mythic Protodex Stars: 100/100
+|ss2=Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +48<br>Mythic Protodex Stars: 100/100
+|ss3=Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +72<br>Mythic Protodex Stars: 100/100
+|ss4=Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +120<br>Mythic Protodex Stars: 100/100
+|ss7=Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +120<br>Mythic Protodex Stars: 100/100<br>Protomon Troop assist DMG + 400 (Awakened)
+|skill1=[[File:Luckyegg skill I.png|50px]]Place in Lucky Egg: This Relic's TECH +5
+}}

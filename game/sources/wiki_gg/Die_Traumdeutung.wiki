@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Die Traumdeutung
+|class_id=22745
+|rank=SSS
+|affct=TECH
+|birthday=08-04
+|source=Lottery Machine No.3 (0.12%)
+|description=On Aug 4, 1899 AD, the Die Traumdeutung was first published.<br>It is a work by the famous psychologist Freud, in which he analyzed and researched the physiological phenomenon of dreaming. He believed that dreams were not accidental associations, but rather the manifestation of suppressed desires, and also the bridge to the unconscious. The psychoanalytic theory expounded in this work explained the etiology of mental illness and had a long-lasting impact on medicine.
+|fame=66
+|art=57
+|fth=75
+|civ=56
+|tech=108
+|ss1=Snail Leadership +3<br>All minion skins RUSH +10%<br>Per 5 Star+ Protomon, Snail RUSH +6<br>5 Star+ Protomon: 20/20
+|ss2=Snail Leadership +4<br>All minion skins RUSH +20%<br>Per 5 Star+ Protomon, Snail RUSH +8<br>5 Star+ Protomon: 20/20
+|ss3=Snail Leadership +5<br>All minion skins RUSH +30%<br>Per 5 Star+ Protomon, Snail RUSH +10<br>5 Star+ Protomon: 20/20
+|ss4=Snail Leadership +7<br>All minion skins RUSH +50%<br>Per 5 Star+ Protomon, Snail RUSH +14<br>5 Star+ Protomon: 20/20
+|ss5=Snail Leadership +9<br>All minion skins RUSH +70%<br>Per 5 Star+ Protomon, Snail RUSH +18<br>5 Star+ Protomon: 20/20
+|ss6=Snail Leadership +12<br>All minion skins RUSH +100%<br>Per 5 Star+ Protomon, Snail RUSH +24<br>5 Star+ Protomon: 20/20
+|ss7=Snail Leadership +12<br>All minion skins RUSH +100%<br>Per 5 Star+ Protomon, Snail RUSH +24<br>5 Star+ Protomon: 20/20<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: This Relic's TECH +15
+|skill2=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: Blue rewards from this egg turn Purple by 6%
+|skill3=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: Lucky Egg hatching efficiency +30%
+|mirage={{Mirage|name=Dream Interpretations|reward={{RewardIconWithLink|Crystal of Will, +1|orange}}
+|3name=Dream of Joy|3rec=128.36M|3atk=357561|3defense=224487|3hp=20006008|3weak=37297
+|4name=Dream of Sorrow|4rec=188.33M|4atk=501509|4defense=308864|4hp=35705102|4weak=42213
+|5name=Dream of Anger|5rec=294.99M|5atk=715462|5defense=427950|5hp=75637691|5weak=51520
+|6name=Dream of Worry|6rec=415.39M|6atk=915428|6defense=536270|6hp=119971103|6weak=56319
+|Arec=582.68M|Aatk=1220904|Adefense=686773|Ahp=264004782|Aweak=64317
+}}}}

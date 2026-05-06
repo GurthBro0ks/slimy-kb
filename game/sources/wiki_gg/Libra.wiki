@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Libra
+|class_id=21833
+|rank=SSS
+|affct=TECH
+|source=
+|description=As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:
+Gallons of wine from golden chalices I devour; In feasts worth ten thousand dollars I shower.
+|fame=58
+|art=66
+|fth=77
+|civ=51
+|tech=110
+|ss1=Snail Leadership +20<br>Per War Weapon equipped, Troop All ELMT DMG +2%<br>Per Instrument Gear equipped, Snail CRIT DMG +2%<br>Per Armor equipped, Snail CRIT DMG REDUC +2%
+|ss2=Snail Leadership +20<br>Per War Weapon equipped, Troop All ELMT DMG +2%<br>Per Instrument Gear equipped, Snail CRIT DMG +2%<br>Per Armor equipped, Snail CRIT DMG REDUC +2%
+|ss3=Snail Leadership +20<br>Per War Weapon equipped, Troop All ELMT DMG +2%<br>Per Instrument Gear equipped, Snail CRIT DMG +2%<br>Per Armor equipped, Snail CRIT DMG REDUC +2%
+|ss4=Snail Leadership +20<br>Per War Weapon equipped, Troop All ELMT DMG +2%<br>Per Instrument Gear equipped, Snail CRIT DMG +2%<br>Per Armor equipped, Snail CRIT DMG REDUC +2%
+|ss5=Snail Leadership +20<br>Per War Weapon equipped, Troop All ELMT DMG +2%<br>Per Instrument Gear equipped, Snail CRIT DMG +2%<br>Per Armor equipped, Snail CRIT DMG REDUC +2%
+|ss6=Snail Leadership +20<br>Per War Weapon equipped, Troop All ELMT DMG +2%<br>Per Instrument Gear equipped, Snail CRIT DMG +2%<br>Per Armor equipped, Snail CRIT DMG REDUC +2%
+|ss7=Snail Leadership +20<br>Per War Weapon equipped, Troop All ELMT DMG +2%<br>Per Instrument Gear equipped, Snail CRIT DMG +2%<br>Per Armor equipped, Snail CRIT DMG REDUC +2%<br>Snail Leadership +20 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Demon God Cells collected +30%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Travel SPD +9%
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, B-tads gained +15%
+|mirage={{Mirage|name=Libra Star|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Nobel|3rec=8.58M|3atk=76422|3defense=50083|3hp=1495072|3weak=?
+|4name=Cervantes|4rec=15.46M|4atk=104670|4defense=68595|4hp=2605646|4weak=?
+|5name=Nietzsche|5rec=33.13M|5atk=138107|5defense=90507|5hp=4186527|5weak=?
+|6name=Confucius|6rec=51.56M|6atk=177681|6defense=116442|6hp=6640298|6weak=?
+|Arec=73.31M|Aatk=224360|Adefense=147033|Ahp=9962866|Aweak=?
+}}}}

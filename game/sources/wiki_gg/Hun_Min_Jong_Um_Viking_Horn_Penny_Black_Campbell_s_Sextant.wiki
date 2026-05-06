@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Hun Min Jong Um,Viking Horn,Penny Black,Campbell's Sextant
+|rank=blue
+|amount=4
+|category=self
+|description=Per 20 Green Beads drawn, Snail ATK +14<br>Green Beads Drawn: 300/300
+}}
+[[Category:Self]]

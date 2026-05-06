@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=495
+|relics=The Birth of Venus,UNCRC
+|rank=orange
+|amount=2
+|category=self
+|description=Per Super Memetic Chest opened: Snail ATK +14;Super Memetic Chests Opened: 20/20
+}}

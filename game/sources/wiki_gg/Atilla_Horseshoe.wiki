@@ -1,0 +1,26 @@
+{{CargoRelic
+|name=Atilla Horseshoe
+|rank=Blue
+|affct=FAME
+|birthday=12-31
+|source=Lottery Machine (0.03%), Wishing (1.2%)
+|description=On Dec 31, AD 452, this horseshoe trampled every inch of the Roman Empire's land. Attila the Hun launched a sudden invasion of Italy after crossing the Alps, destroying all the cities in northern Italy and terrorized Rome. Most of the European territory surrendered to his iron fist. The following year, a major epidemic broke out in the army. When western Rome asked for conciliation and Eastern Rome's reinforcements were arrived, Attila returned home and died of illness in the same year. After the two battles, Attila was known as the Scourge of God due to his reign of terror.
+|fame=45
+|art=21
+|fth=28
+|civ=31
+|tech=29
+|ss1=When exploring, 2x B-tad Drops +0.4%
+|ss2=When exploring, 2x B-tad Drops +0.8%
+|ss3=When exploring, 2x B-tad Drops +1.2%
+|ss4=When exploring, 2x B-tad Drops +2%
+|ss7=When exploring, 2x B-tad Drops +2%<br>When exploring, 2x B-tad Drops +2% (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]] Place in Gene Sim Device: This Relic's FAME +5
+}}
+
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:List of Black Tadpole Source Boosts]]
+[[Category:Lucky Voucher Boost]]
+[[Category:Offering Reward Boost]]
+[[Category:Nightmare Steed Boost]]

@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Demon Skull
+|type=Common
+|rank=orange
+|id=10863
+|idx=70
+|description="Buddy, you're a devil, make a big noise. Playing in the abyss, gonna be a big lord someday. You got blood on your face, you big crisis. Kicking the skulls all over the place, singin'..."
+—Selections from the Pop King of Abyss
+|skill=
+|hp=2218
+|def=232
+|atk=183
+|rush=208
+|gene1=In Demon or Dragon Forms, {race} ATK +120
+|gene2=When in Demon or Dragon Forms:
+> Gain +6% Cells in explorations
+|gene3=Fire DMG +90
+|gene4=For Round 1, CRIT DMG +15%
+|gene5=Demon God Cabin, deployable robots +3
+|gene7=Demon God Cabin, deployable robots +9 (Awakened)
+|}}

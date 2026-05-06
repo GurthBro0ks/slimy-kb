@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=831
+|relics=Isabella I Portrait,Washington Portrait,Alfred Statue,Catherine II Portrait,Act of Supremacy,Gravitational Lensing
+|rank=orange
+|amount=6
+|category=self
+|description=All minion skins RUSH +120%
+}}

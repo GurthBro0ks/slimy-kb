@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=The Nutcracker
+|rank=AAA
+|affct=ART
+|birthday=11-07
+|source=* Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)
+* [[Lee Gi-na]] - [[Rare Rent]]
+|description=On Nov 7, 1892, musician Tchaikovsky's The Nutcracker was performed hundreds of times in St. Petersburg.
+
+Musician Tchaikovsky spent nine months adapting "The Nutcracker and the Mouse King" into a ballet. This is a special piece that uses string instruments to add an element of realism. The figure skating and acrobatics on ice are the most prominent features of the show. The audience can enjoy the elegance of ballet and the visual and musical beauty.
+
+[Descriptions]
+
+Act 1 Scene 1: At the entrance of the Von Stahlbaum home<br>Act 1 Scene 2: In the living room of the Von Stahlbaum home<br>Act 1 Scene 3: In the living room of the Von Stahlbaum home<br>Act 1 Scene 4: Land of Snow<br>Act 2 Scene 1: Land of Snow<br>Act 2 Scene 2: Kingdom of Sweets Capital<br>Act 2 Scene 3: At the entrance of the Von Stahlbaum home
+|fame=37
+|art=74
+|fth=47
+|civ=38
+|tech=47
+|ss1=Angel Gene Research SPD +1.8%<br>Angel Minion Cloning SPD +3%
+|ss2=Angel Gene Research SPD +2.4%<br>Angel Minion Cloning SPD +4%
+|ss3=Angel Gene Research SPD +3%<br>Angel Minion Cloning SPD +5%
+|ss4=Angel Gene Research SPD +4.2%<br>Angel Minion Cloning SPD +7%
+|ss5=Angel Gene Research SPD +5.4%<br>Angel Minion Cloning SPD +9%
+|ss7=Angel Gene Research SPD +5.4%<br>Angel Minion Cloning SPD +9%<br>Angel Minion Cloning SPD +7% (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Earth DMG +60
+|skill2=[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: This Relic's ART +10
+}}
+
+[[Category:Angel Gene Speedup Boost]]
+[[Category:Angel Minion Cloning Speed Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:Earth DMG Boost]]
+[[Category:ART Boost]]
+[[Category:Zombie Cell Drop Boost]]
+[[Category:Power Boost]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Power]]

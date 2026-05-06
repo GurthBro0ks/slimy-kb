@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Ishikawa Antitheft
+|class_id=20031
+|rank=Green
+|affct=FAITH
+|source=
+|description=The door has an ultra level of security with multiple identification systems, including fingerprints, iris, behavior analysis, etc., and has protected the Ishikawa family for generations. Every legendary outlaw must get through the door before venturing into the world.
+|fame=19
+|art=16
+|fth=28
+|civ=16
+|tech=11
+|ss1=Per 3 kinds of souls offered, Snail ATK +2<br>Souls offered: 300/300 types
+|ss2=Per 3 kinds of souls offered, Snail ATK +4<br>Souls offered: 300/300 types
+|ss3=Per 3 kinds of souls offered, Snail ATK +6<br>Souls offered: 300/300 types
+|ss4=Per 3 kinds of souls offered, Snail ATK +6<br>Souls offered: 300/300 types
+|ss7=Per 3 kinds of souls offered, Snail ATK +6<br>Souls offered: 300/300 types<br> (Awakened)
+}}

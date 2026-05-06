@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=622
+|relics=Neapolitan Fisherboy,Beach at Trouville
+|rank=blue
+|amount=2
+|category=self
+|description=Dismantle 1 Orange Brand: Gain 1 more fragment by 10%
+}}

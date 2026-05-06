@@ -1,0 +1,34 @@
+{{Missing Info}}
+
+= Venture to the Stars =
+[[File:Venture to the Stars Poster.png|200px|left|alt=Venture to the Stars]]
+Sep. 27 - Oct. 10 2024
+
+'''Official News Announcement:''' https://snail-na.qcplay.com/official/news-details.html?id=92
+{{Clear}}
+
+The player gains {{RewardIconWithText|Detector}}s every day and uses them to explore the galaxy. While exploring, the following parts are found to enhance your rocket:
+* {{RewardIconWithText|Aluminum Alloy Plate}}
+* {{RewardIconWithText|Chip}}
+* {{RewardIconWithText|Circuit Board}}
+* {{RewardIconWithText|Gear}}
+
+The currency of this events shop is {{RewardIconWithText|Space Token}}.
+
+This even has locked boxes that can be opened with keys. There are normal keys and rare keys. The rare keys are {{RewardIconWithText|Starlight Key}}.
+
+= Relic Rewards =
+* {{RewardIconWithLink|Chang'e and Laurel|orange}}
+* {{RewardIconWithLink|Lunar Soil Specimen|green}}
+* {{RewardIconWithLink|Gan Shi Star Chart|green}}
+
+= Decoration Rewards =
+* {{RewardIconWithLink|Planet Model|green}} ([[Advisor Zhuge]] Decoration)
+
+= Home Decoration Rewards =
+* {{RewardIconWithLink|Large Carrier Rocket|black|Home Decoration}} (Home Decoration)
+
+= Robot Rewards = 
+* {{RewardIconWithLink|Cupid|orange|Robots}}
+
+[[Category:Events]]

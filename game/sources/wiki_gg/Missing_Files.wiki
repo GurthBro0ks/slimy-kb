@@ -1,0 +1,207 @@
+{{Missing Info|specifics=List of files or icons that are missing from the wiki. Feel free to add any you notice are missing.}}
+
+List of files or icons that are missing from the wiki. Feel free to add any you notice are missing.
+
+= DONE =
+Finished Icons can be seen on the following pages:
+
+[[:Category:Icons]]
+* [[Icons]]
+* [[Icons/Food]]
+* [[Icons/Journey to the West]]
+* [[Icons/Species Map]]
+* [[Icons/Time Beacon]]
+* [[Icons/Wonder Fungus]]
+
+= [[Events]] =
+== [[Golden Week]] ==
+* {{RewardIconWithText|Happy Coin}} (Get better version that's not cut off)
+* {{RewardIconWithText|Lightning Serum}}
+
+= Fragments =
+* {{RewardIconWithText|Orange Minion Skin Fragment|orange}}
+
+
+* {{RewardIconWithText|Green Fragment|green}}
+* {{RewardIconWithText|Blue Fragment|blue}}
+
+
+* {{RewardIconWithText|Green Relic Fragment|green}}
+
+
+* {{RewardIconWithText|Green Relic Fragment Big|green}}
+* {{RewardIconWithText|Purple Relic Fragment Big|purple}}
+* {{RewardIconWithText|Orange Relic Fragment Big|orange}}
+
+= [[Gene Simulation]] =
+If any of these are the same image as existing Gene Segments ([[Icons/Gene Simulation]]), then please just create a redirect file instead of uploading the image again.
+The most common images are the following three, but other duplicates do exist:
+* {{RewardIconGeneSegment|DNA}}
+* {{RewardIconGeneSegment|Original}}
+* {{RewardIconGeneSegment|Purple DNA}}
+
+'''Missing Gene Segment Files'''
+* {{RewardIconGeneSegment|Ultimate Lifeform}}
+
+= [[Club]] =
+
+=== Hormones ===
+* {{RewardIconWithText|Alpha Hormones}}
+* {{RewardIconWithText|Beta Hormones}}
+* {{RewardIconWithText|Gamma Hormones}}
+
+=== Remains ===
+* {{RewardIconWithText|Alpha Remains}}
+* {{RewardIconWithText|Beta Remains}}
+* {{RewardIconWithText|Gamma Remains}}
+
+= [[Journey to the West]] =
+== Mantras ==
+=== Monke ===
+* {{RewardIconWithText|Mountain Mover}} - Get image that doesn't have numbers in it
+* {{RewardIconWithText|Sea Breaker}} - Get image that doesn't have numbers in it
+
+=== Pigsy ===
+* {{RewardIconWithText|Heavenly Tactics}} - Get image that doesn't have numbers in it
+* {{RewardIconWithText|Juicy Peach}} - Get image that doesn't have numbers in it
+
+=== Sandy ===
+* {{RewardIconWithText|Crescent Spade (Mantra)}} - Get image that doesn't have numbers in it
+* {{RewardIconWithText|Arhat Seal}} - Get image that doesn't have numbers in it
+
+=== Sanzang ===
+* {{RewardIconWithText|Prajna Mantra}} - Get image that doesn't have numbers in it
+* {{RewardIconWithText|Rebirth Mantra}} - Get image that doesn't have numbers in it
+
+== Sutras ==
+=== Monke ===
+* {{RewardIconWithText|Stone Monkey}} - Get image that doesn't have numbers in it
+
+=== Sandy ===
+* {{RewardIconWithText|Crystal Bowl}} - Get image that doesn't have numbers in it
+
+=== Sanzang ===
+* {{RewardIconWithText|Heart Sutra}} - Get image that doesn't have numbers in it
+
+= [[Minigames]] =
+* {{RewardIconWithText|Minion Chore Game}}
+
+= [[Salesman]] =
+Items the [[Salesman]] can sell
+* {{RewardIconWithText|Johns Baby Powder}}
+
+= [[Shells]] =
+* {{RewardIconWithLink|Rendlem Forest Light}}
+
+= [[Wormhole]] and [[Rocket]] Parts =
+Please either upload these with tier designations (T1, T2, T3, T4, T5) or color designations (White, Green, Blue, Purple, Orange). I can make either work with [[Template:GetColorImage]].
+
+'''Earth's Rebels'''
+* {{RewardIconWithText|T1 Rebel Deck Plate}}
+* {{RewardIconWithText|T2 Rebel Deck Plate}}
+* {{RewardIconWithText|T3 Rebel Deck Plate}}
+* {{RewardIconWithText|T4 Rebel Deck Plate}}
+* {{RewardIconWithText|T5 Rebel Deck Plate}}
+
+
+* {{RewardIconWithText|T1 Rebel Lens}}
+* {{RewardIconWithText|T2 Rebel Lens}}
+* {{RewardIconWithText|T3 Rebel Lens}}
+* {{RewardIconWithText|T4 Rebel Lens}}
+* {{RewardIconWithText|T5 Rebel Lens}}
+
+
+* {{RewardIconWithText|T1 Rebel Radio}}
+* {{RewardIconWithText|T2 Rebel Radio}}
+* {{RewardIconWithText|T3 Rebel Radio}}
+* {{RewardIconWithText|T4 Rebel Radio}}
+* {{RewardIconWithText|T5 Rebel Radio}}
+
+
+* {{RewardIconWithText|T1 Rebel Polyester}}
+* {{RewardIconWithText|T2 Rebel Polyester}}
+* {{RewardIconWithText|T3 Rebel Polyester}}
+* {{RewardIconWithText|T4 Rebel Polyester}}
+* {{RewardIconWithText|T5 Rebel Polyester}}
+
+
+* {{RewardIconWithText|T1 Rebel Nano Chip}}
+* {{RewardIconWithText|T2 Rebel Nano Chip}}
+* {{RewardIconWithText|T3 Rebel Nano Chip}}
+* {{RewardIconWithText|T4 Rebel Nano Chip}}
+* {{RewardIconWithText|T5 Rebel Nano Chip}}
+
+
+'''Demon Gods'''
+* {{RewardIconWithText|T1 Demon God Bearing}}
+* {{RewardIconWithText|T2 Demon God Bearing}}
+* {{RewardIconWithText|T3 Demon God Bearing}}
+* {{RewardIconWithText|T4 Demon God Bearing}}
+* {{RewardIconWithText|T5 Demon God Bearing}}
+
+
+* {{RewardIconWithText|T1 Demon God Gear}}
+* {{RewardIconWithText|T2 Demon God Gear}}
+* {{RewardIconWithText|T3 Demon God Gear}}
+* {{RewardIconWithText|T4 Demon God Gear}}
+* {{RewardIconWithText|T5 Demon God Gear}}
+
+
+* {{RewardIconWithText|T1 Demon God Chip}}
+* {{RewardIconWithText|T2 Demon God Chip}}
+* {{RewardIconWithText|T3 Demon God Chip}}
+* {{RewardIconWithText|T4 Demon God Chip}}
+* {{RewardIconWithText|T5 Demon God Chip}}
+
+
+* {{RewardIconWithText|T1 Demon God Prism}}
+* {{RewardIconWithText|T2 Demon God Prism}}
+* {{RewardIconWithText|T3 Demon God Prism}}
+* {{RewardIconWithText|T4 Demon God Prism}}
+* {{RewardIconWithText|T5 Demon God Prism}}
+
+
+* {{RewardIconWithText|T1 Demon God Engine}}
+* {{RewardIconWithText|T2 Demon God Engine}}
+* {{RewardIconWithText|T3 Demon God Engine}}
+* {{RewardIconWithText|T4 Demon God Engine}}
+* {{RewardIconWithText|T5 Demon God Engine}}
+
+
+'''Earth's Will'''
+* {{RewardIconWithText|T1 Earth's Will Mindwave E}}
+* {{RewardIconWithText|T2 Earth's Will Mindwave E}}
+* {{RewardIconWithText|T3 Earth's Will Mindwave E}}
+* {{RewardIconWithText|T4 Earth's Will Mindwave E}}
+* {{RewardIconWithText|T5 Earth's Will Mindwave E}}
+
+
+* {{RewardIconWithText|T1 Earth's Will Mindwave A}}
+* {{RewardIconWithText|T2 Earth's Will Mindwave A}}
+* {{RewardIconWithText|T3 Earth's Will Mindwave A}}
+* {{RewardIconWithText|T4 Earth's Will Mindwave A}}
+* {{RewardIconWithText|T5 Earth's Will Mindwave A}}
+
+
+* {{RewardIconWithText|T1 Earth's Will Mindwave R}}
+* {{RewardIconWithText|T2 Earth's Will Mindwave R}}
+* {{RewardIconWithText|T3 Earth's Will Mindwave R}}
+* {{RewardIconWithText|T4 Earth's Will Mindwave R}}
+* {{RewardIconWithText|T5 Earth's Will Mindwave R}}
+
+
+* {{RewardIconWithText|T1 Earth's Will Mindwave T}}
+* {{RewardIconWithText|T2 Earth's Will Mindwave T}}
+* {{RewardIconWithText|T3 Earth's Will Mindwave T}}
+* {{RewardIconWithText|T4 Earth's Will Mindwave T}}
+* {{RewardIconWithText|T5 Earth's Will Mindwave T}}
+
+
+* {{RewardIconWithText|T1 Earth's Will Mindwave H}}
+* {{RewardIconWithText|T2 Earth's Will Mindwave H}}
+* {{RewardIconWithText|T3 Earth's Will Mindwave H}}
+* {{RewardIconWithText|T4 Earth's Will Mindwave H}}
+* {{RewardIconWithText|T5 Earth's Will Mindwave H}}
+
+[[Category:Editor]]
+[[Category:Icons]]

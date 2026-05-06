@@ -1,0 +1,22 @@
+{{Missing Info}}
+
+= Black Friday Lucky Week =
+[[File:Black Friday Lucky Week Poster.png|200px|left|alt=Black Friday Lucky Week]]
+Nov. 29 - Dec. 05 2024
+
+'''Official News Announcement:''' https://snail-na.qcplay.com/official/news-details.html?id=104
+{{Clear}}
+
+= Relic Rewards =
+* {{ImageWithLink|?|orange}}
+* {{ImageWithLink|?|green}}
+* {{ImageWithLink|?|green}}
+
+= Robot Rewards =
+* {{RewardIconWithLink|?|orange|Robots}}
+
+= Shell Rewards =
+* {{RewardIconWithLink|?|purple}}
+* {{RewardIconWithLink|?|purple}}
+
+[[Category:Events]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Frozen Mammoth
+|class_id=20072
+|rank=Green
+|affct=CIV
+|source=
+|description=This majestic mammoth didn't survive the harsh Ice Age! To pay homage to the giant beast at the top of the prehistoric food chain, the dev team unearthed it from the Siberian wilderness and placed it as an Easter egg in the mini-game Civilization Boom!
+|fame=15
+|art=16
+|fth=16
+|civ=31
+|tech=12
+|ss1=Per Mutant Form Tier, Snail HP +100<br>Mutant Form Tiers: 9/9
+|ss2=Per Mutant Form Tier, Snail HP +200<br>Mutant Form Tiers: 9/9
+|ss3=Per Mutant Form Tier, Snail HP +300<br>Mutant Form Tiers: 9/9
+|ss4=Per Mutant Form Tier, Snail HP +300<br>Mutant Form Tiers: 9/9
+|ss7=Per Mutant Form Tier, Snail HP +300<br>Mutant Form Tiers: 9/9<br> (Awakened)
+}}

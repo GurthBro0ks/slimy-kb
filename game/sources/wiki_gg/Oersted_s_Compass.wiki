@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Oersted's Compass
+|class_id=22102
+|rank=Blue
+|affct=TECH
+|birthday=04-09
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Apr 9, 1820 AD, the Danish Scientist, Oersted discovered while teaching a class, that an electric current can deflect a magnetic needle.<br>This compass was very significant in Oersted's research. Oersted was a physicist known for the discovery of the magnetic effect of electric currents. One day, on a whim, he placed a magnetic needle nearby a current-carrying wire. At that moment, he was surprised to find that the magnetic needle jumped. In the following months, he carried out a series of experiments to research these effects ultimately revealing the existence of electromagnetism to the academic world.
+|fame=30
+|art=19
+|fth=30
+|civ=31
+|tech=44
+|ss1=In the Gaia Rocket Cabin:<br>> EMP Base Effect +8%
+|ss2=In the Gaia Rocket Cabin:<br>> EMP Base Effect +16%
+|ss3=In the Gaia Rocket Cabin:<br>> EMP Base Effect +24%
+|ss4=In the Gaia Rocket Cabin:<br>> EMP Base Effect +40%
+|ss7=In the Gaia Rocket Cabin:<br>> EMP Base Effect +40%<br>In the Gaia Rocket Cabin:<br>> EMP Base Effect +40% (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x Green Reagent Drops +1%
+}}

@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The Ambassadors
+|class_id=21142
+|rank=SSS
+|affct=ART
+|source=
+|description=Holbein’s The Ambassadors shows two French envoys at the English court, surrounded by symbols of science, religion, and politics. A warped skull hidden in the foreground reminds viewers of mortality. The painting reflects Renaissance tensions between knowledge and faith.
+|fame=54
+|art=107
+|fth=71
+|civ=70
+|tech=60
+|ss1=Snail Leadership +3<br>Per 5 Element Circle LVLs, Snail ATK +6<br>Per 5 Element Circle LVLs, Snail Primeval Power +6<br>Element Circle LVL: 150/150
+|ss2=Snail Leadership +4<br>Per 5 Element Circle LVLs, Snail ATK +8<br>Per 5 Element Circle LVLs, Snail Primeval Power +8<br>Element Circle LVL: 150/150
+|ss3=Snail Leadership +5<br>Per 5 Element Circle LVLs, Snail ATK +10<br>Per 5 Element Circle LVLs, Snail Primeval Power +10<br>Element Circle LVL: 150/150
+|ss4=Snail Leadership +7<br>Per 5 Element Circle LVLs, Snail ATK +14<br>Per 5 Element Circle LVLs, Snail Primeval Power +14<br>Element Circle LVL: 150/150
+|ss5=Snail Leadership +9<br>Per 5 Element Circle LVLs, Snail ATK +18<br>Per 5 Element Circle LVLs, Snail Primeval Power +18<br>Element Circle LVL: 150/150
+|ss6=Snail Leadership +12<br>Per 5 Element Circle LVLs, Snail ATK +24<br>Per 5 Element Circle LVLs, Snail Primeval Power +24<br>Element Circle LVL: 150/150
+|ss7=Snail Leadership +12<br>Per 5 Element Circle LVLs, Snail ATK +24<br>Per 5 Element Circle LVLs, Snail Primeval Power +24<br>Element Circle LVL: 150/150<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Offering Speedup output speed+30%
+|skill2=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Relic ART +15
+|skill3=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Zone SUP effect reduced by 30%
+}}

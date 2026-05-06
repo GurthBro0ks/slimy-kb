@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Ancient Colored Shell
+|rank=Green
+|affct=FTH
+|source=[[Species_Device#Goldfish_Altar|Goldfish Altar]]
+|description=Ancient Colored Shell comes from a shellfish raised by the Goldfish through a secret technique. In addition to its natural, exquisite shape and wonderful colors, it is also unimaginably hard. Even high-tech weapons can't scratch its surface. The impregnability forced researchers yo abort composition analysis, and it was able to leave the lab and become part of the snail's collection.
+|fame=14
+|art=15
+|fth=31
+|civ=13
+|tech=17
+|ss1=Against Goldfish, Troop Casualty -1%
+|ss2=Against Goldfish, Troop Casualty -2%
+|ss3=Against Goldfish, Troop Casualty -3%
+}}
+
+[[Category:Goldfish]]
+[[Category:Troop Casualty Reduction]]

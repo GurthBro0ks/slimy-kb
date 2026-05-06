@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Hermes' Coin,Frigga's Wheel
+|rank=purple
+|amount=2
+|category=self
+|description=Snail DEF +60
+}}
+[[Category:Self]]

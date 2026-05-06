@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=In Search of Lost Time
+|class_id=22869
+|rank=SSS
+|affct=CIV
+|source=
+|description=In Search of Lost Time is a representative work by French writer Marcel Proust. Through the form of reminiscence, Proust reviews past events, covering childhood memories, family life, first love and heartbreak, observations of historical events, insights into art, and understanding of time and space. Time plays the role of the protagonist inThis work, and Proust, through wisdom and imagination, makes time concrete, vivid, and perfect, like a symphony composed of various themes, yet on a macro level, the entire work is cohesive and full of vibrant life. This work is considered a pioneer in literary creation, laying the foundation for the stream-of-consciousness novel.
+|fame=77
+|art=65
+|fth=54
+|civ=108
+|tech=58
+|ss1=Mutant Minion RUSH +3%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +30<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss2=Mutant Minion RUSH +4%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +40<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss3=Mutant Minion RUSH +5%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +50<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss4=Mutant Minion RUSH +7%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +70<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss5=Mutant Minion RUSH +9%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +90<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss6=Mutant Minion RUSH +12%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss7=Mutant Minion RUSH +12%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Swamp Sanctum Rating Pts: 100000/100000<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +3%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+}}

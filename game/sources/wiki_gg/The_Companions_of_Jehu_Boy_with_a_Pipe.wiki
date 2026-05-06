@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=786
+|relics=The Companions of Jehu,Boy with a Pipe
+|rank=orange
+|amount=2
+|category=self
+|description=Per 30 T7+ Minions in battle: Troop ATK +28
+}}

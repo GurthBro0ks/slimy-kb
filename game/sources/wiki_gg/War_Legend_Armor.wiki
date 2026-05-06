@@ -1,0 +1,16 @@
+{{Shell|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The strongest snail shell armour,  it is made from a mysterious material that is incredibly tough and durable. The surface of the armour is inscribed with patterns and symbols that exude a holy aura.
+|affct=FAME
+|hard=DEF
+|source=Gear Value Pack II ($29.99)
+|color=blue
+|earth=4
+|water=4
+|fire=2
+|wind=4
+|form=Dragon
+|element=Earth
+|realm=Koryeo
+|orangehard=DEF
+}}

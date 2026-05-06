@@ -1,0 +1,35 @@
+== Ultimate Body ==
+This organ is obtained by infusing embryonic stem cells with the essence of ultimate bionic parts. It gives transplant recipients a massive leap in performance.
+
+{{Organ Tabber
+|Name=Ultimate Body
+|Rarity=red
+|ID Number=72
+|Initial HP=110
+|HP Increase=30
+|Initial ATK=15
+|ATK Increase=3
+|Initial DEF=15
+|DEF Increase=3
+|Initial RUSH=11
+|RUSH Increase=3
+|Effect 1=Earth DMG +###
+|Initial Effect Value 1=3
+|Effect Value Increase 1=3
+|Effect 2=Earth RES +###
+|Initial Effect Value 2=1
+|Effect Value Increase 2=1
+|Effect 3=Against main species, DMG REDUC +###%
+|Initial Effect Value 3=0.2
+|Effect Value Increase 3=0.2
+|Effect 4=Against main species, CRIT DMG REDUC +###%
+|Initial Effect Value 4=0.2
+|Effect Value Increase 4=0.2
+|}}
+
+==Source==
+Unlock Bionic Part Extraction in ART [[Shells]]
+
+[[Category:Organs]]
+[[Category:Red Organs]]
+[[Category:Shells]]

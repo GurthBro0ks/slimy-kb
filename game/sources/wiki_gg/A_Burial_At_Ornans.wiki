@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=A Burial At Ornans
+|class_id=22645
+|rank=SS
+|affct=ART
+|birthday=12-23
+|source=Lottery Machine No.3 (0.24%)
+|description=On Dec 23, 1849 AD, Courbet began creating this painting, "A Burial At Ornans."<br>The painting was created by French realist painter Courbet, depicting the scene he witnessed at his grandfather's funeral. He portrayed the characters in the scene in a straightforward and realistic manner, with each character as detailed and unique as a portrait. This level of detail and uniqueness sets the painting apart even within the realm of realist art.
+|fame=48
+|art=102
+|fth=65
+|civ=65
+|tech=67
+|ss1=Snail ATK +20<br>Per Recruitment Incident completed, Snail ATK +2<br>Per Recruitment Incident completed, Priest-Troop Assistance DMG +16<br>Completed Recruitment Incidents: 50/50
+|ss2=Snail ATK +30<br>Per Recruitment Incident completed, Snail ATK +3<br>Per Recruitment Incident completed, Priest-Troop Assistance DMG +24<br>Completed Recruitment Incidents: 50/50
+|ss3=Snail ATK +40<br>Per Recruitment Incident completed, Snail ATK +4<br>Per Recruitment Incident completed, Priest-Troop Assistance DMG +32<br>Completed Recruitment Incidents: 50/50
+|ss4=Snail ATK +60<br>Per Recruitment Incident completed, Snail ATK +6<br>Per Recruitment Incident completed, Priest-Troop Assistance DMG +48<br>Completed Recruitment Incidents: 50/50
+|ss5=Snail ATK +80<br>Per Recruitment Incident completed, Snail ATK +8<br>Per Recruitment Incident completed, Priest-Troop Assistance DMG +64<br>Completed Recruitment Incidents: 50/50
+|ss6=Snail ATK +110<br>Per Recruitment Incident completed, Snail ATK +11<br>Per Recruitment Incident completed, Priest-Troop Assistance DMG +88<br>Completed Recruitment Incidents: 50/50
+|ss7=Snail ATK +110<br>Per Recruitment Incident completed, Snail ATK +11<br>Per Recruitment Incident completed, Priest-Troop Assistance DMG +88<br>Completed Recruitment Incidents: 50/50<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: This Relic's ART +15
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +15%
+|skill3=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +30%
+|mirage={{Mirage|name=Funeral Procession|reward={{RewardIconWithLink|Incense, +3|orange}}
+|3name=Attendees|3rec=203.79M|3atk=537920|3defense=330615|3hp=40955116|3weak=44046
+|4name=Monk|4rec=353.86M|4atk=811592|4defense=480918|4hp=92377290|4weak=53506
+|5name=Grave Digger|5rec=552.94M|5atk=1160699|5defense=660015|5hp=220418906|5weak=62859
+|Arec=758.74M|Aatk=1528393|Adefense=863256|Ahp=416497218|Aweak=75299
+}}}}

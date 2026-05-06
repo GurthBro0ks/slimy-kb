@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Sky Award
+|class_id=22701
+|rank=SSS
+|affct=FAITH
+|birthday=02-25
+|source=
+|description=On Feb 25, 2019 AD, the first Sky Award was held in Japan.<br>The Sky Award is an Asia-wide award aimed at recognizing designs that have a positive impact on society. It covers various fields, providing designers in the Asia-Pacific region with an internationally influential platform to showcase outstanding design to gain more business opportunities!
+|fame=63
+|art=71
+|fth=108
+|civ=53
+|tech=66
+|ss1=Home Decor Inc, Series C Decor Coin Dividend +6%<br>Angel Minion DEF +3%<br>Per Angel Form Tier, Snail ATK +9<br>Angel Form Tiers: 9/9
+|ss2=Home Decor Inc, Series C Decor Coin Dividend +7%<br>Angel Minion DEF +4%<br>Per Angel Form Tier, Snail ATK +18<br>Angel Form Tiers: 9/9
+|ss3=Home Decor Inc, Series C Decor Coin Dividend +8%<br>Angel Minion DEF +5%<br>Per Angel Form Tier, Snail ATK +27<br>Angel Form Tiers: 9/9
+|ss4=Home Decor Inc, Series C Decor Coin Dividend +10%<br>Angel Minion DEF +7%<br>Per Angel Form Tier, Snail ATK +45<br>Angel Form Tiers: 9/9
+|ss5=Home Decor Inc, Series C Decor Coin Dividend +12%<br>Angel Minion DEF +9%<br>Per Angel Form Tier, Snail ATK +63<br>Angel Form Tiers: 9/9
+|ss6=Home Decor Inc, Series C Decor Coin Dividend +15%<br>Angel Minion DEF +12%<br>Per Angel Form Tier, Snail ATK +90<br>Angel Form Tiers: 9/9
+|ss7=Home Decor Inc, Series C Decor Coin Dividend +15%<br>Angel Minion DEF +12%<br>Per Angel Form Tier, Snail ATK +90<br>Angel Form Tiers: 9/9<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|mirage={{Mirage|name=Home Art|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Tea Table|3rec=134.04M|3atk=371524|3defense=232486|3hp=21548763|3weak=37790
+|4name=Sofa|4rec=199.65M|4atk=528036|4defense=324792|4hp=39331884|4weak=43644
+|5name=Bonsai|5rec=318.11M|5atk=751808|5defense=448756|5hp=81909329|5weak=52270
+|6name=Screen|6rec=451.06M|6atk=975402|6defense=568361|6hp=140304489|6weak=57949
+|Arec=648.93M|Aatk=1325310|Adefense=746375|Ahp=314819719|Aweak=66792
+}}}}

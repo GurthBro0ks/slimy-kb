@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Ollantay
+|class_id=22569
+|rank=A
+|affct=CIV
+|birthday=09-06
+|source=Lottery Machine No.3 (0.55%)
+|description=On Sept 6, 1770 AD, Spanish missionaries recorded Ollantay and brought it back to their home country.<br>Ollantay is a long Inca poem that tells the story of the Inca hero Ollantay falling in love with the daughter of the Inca king and his struggles to be granted marriage. The story takes place during the reign of Inca king Pachacuti. At that time, only the royal family and nobles could create dramas, but later the royal policy was relaxed, and a new genre combining poetry and plot was born. Ollantay is a representative work of this period and is also known as a gem of ancient Andean literature.
+|fame=44
+|art=41
+|fth=34
+|civ=64
+|tech=30
+|ss1=Rebel Cabin Output +1%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +40
+|ss2=Rebel Cabin Output +2%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +80
+|ss3=Rebel Cabin Output +3%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +120
+|ss4=Rebel Cabin Output +5%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +200
+|ss5=Rebel Cabin Output +7%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +280
+|ss7=Rebel Cabin Output +7%<br>Per 30 T7+ Minions in battle:<br>> Troop HP +280<br>Per 30 T7+ Minions in battle:<br>> Troop HP +280 (Awakened)
+|skill1=[[File:Britland skill II.png|50px]]Place in Britland Museum: This Relic's CIV +10
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Card Drops +3%
+}}

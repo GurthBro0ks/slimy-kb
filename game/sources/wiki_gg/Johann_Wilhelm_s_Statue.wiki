@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Johann Wilhelm's Statue
+|class_id=22760
+|rank=SSS
+|affct=TECH
+|birthday=04-06
+|source=
+|description=On Apr 6, 1819 AD, Father Johann Wilhelm of Vienna began training guide dogs.<br>Johann Wilhelm was a pioneer in blind education, famous for training a dog to lead the way by attaching thin twigs to its collar. This dog is recognized as the world's first guide dog. Johann Wilhelm also founded the Vienna Center for the Blind's dog training program, known as the Vienna Blind Reconstruction Center. He published books detailing his methods for training guide dogs. He believed that a soft rope couldn't communicate the dog's movements to the blind person and suggested using a rigid handle instead, which is the same principle used in modern guide harnesses. His valuable experience laid the foundation for systematic training and nurturing of guide dogs by international welfare organizations.
+|fame=65
+|art=56
+|fth=71
+|civ=62
+|tech=108
+|ss1=All minion skins DEF +10%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +30<br>Per partner you have, Snail HP +90<br>Current Partners: 15/15
+|ss2=All minion skins DEF +20%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +40<br>Per partner you have, Snail HP +120<br>Current Partners: 15/15
+|ss3=All minion skins DEF +30%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +50<br>Per partner you have, Snail HP +150<br>Current Partners: 15/15
+|ss4=All minion skins DEF +50%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +70<br>Per partner you have, Snail HP +210<br>Current Partners: 15/15
+|ss5=All minion skins DEF +70%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +90<br>Per partner you have, Snail HP +270<br>Current Partners: 15/15
+|ss6=All minion skins DEF +100%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per partner you have, Snail HP +360<br>Current Partners: 15/15
+|ss7=All minion skins DEF +100%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per partner you have, Snail HP +360<br>Current Partners: 15/15<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +100 (Awakened)
+|skill1=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: This Relic's TECH +15
+|skill2=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Cap +30%
+|skill3=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +30%
+|mirage={{Mirage|name=You're My Eyes|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Poodle|3rec=93.78M|3atk=300881|3defense=175833|3hp=23441691|3weak=38509
+|4name=Shepherd Dog|4rec=104.12M|4atk=323956|4defense=190387|4hp=27950460|4weak=40554
+|5name=Golden Hound|5rec=116.58M|5atk=351121|5defense=207919|5hp=35200761|5weak=43517
+|6name=Labrador Retriever|6rec=131.89M|6atk=384131|6defense=229458|6hp=45853346|6weak=46846
+|Arec=151.95M|Aatk=429326|Adefense=257677|Ahp=62009609|Aweak=50682
+}}}}

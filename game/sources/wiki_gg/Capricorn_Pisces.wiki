@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=290
+|relics=Capricorn,Pisces
+|rank=orange
+|amount=2
+|category=self
+|description=Troop All ELMT RES +2%
+}}

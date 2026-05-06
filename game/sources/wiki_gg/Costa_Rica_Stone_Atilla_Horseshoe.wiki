@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Costa Rica Stone,Atilla Horseshoe
+|rank=blue
+|amount=2
+|category=other
+|description=Green Bead draws give +1 Lucky Voucher by +25%
+}}
+[[Category:Other]]

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=DRMC,The Decameron,Truth Crystal
+|rank=purple
+|amount=3
+|category=self
+|description=Snail ATK +70
+}}
+[[Category:Self]]

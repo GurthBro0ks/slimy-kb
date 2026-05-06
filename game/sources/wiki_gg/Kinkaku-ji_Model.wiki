@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Kinkaku-ji Model
+|class_id=22876
+|rank=SSS
+|affct=CIV
+|source=
+|description=Kinkaku-ji, also known as the Golden Pavilion, is a famous Buddhist temple located in Kyoto, Japan, renowned for its golden exterior. The temple was built by Ashikaga Yoshimitsu, the third shogun of the Muromachi shogunate, as his villa, later converted into a Zen Buddhist temple. The most notable feature of Kinkaku-ji is that its second and third floors are completely covered in gold leaf, making the entire structure shine brilliantly in the sunlight, reflecting in the pond, creating a spectacular scene.
+|fame=69
+|art=72
+|fth=60
+|civ=108
+|tech=53
+|ss1=Snail Leadership +3<br>Mutant Minion DEF +3%<br>Per Mutant Form Tier, Snail HP +180<br>Mutant Form Tiers: 9/9
+|ss2=Snail Leadership +4<br>Mutant Minion DEF +4%<br>Per Mutant Form Tier, Snail HP +240<br>Mutant Form Tiers: 9/9
+|ss3=Snail Leadership +5<br>Mutant Minion DEF +5%<br>Per Mutant Form Tier, Snail HP +300<br>Mutant Form Tiers: 9/9
+|ss4=Snail Leadership +7<br>Mutant Minion DEF +7%<br>Per Mutant Form Tier, Snail HP +420<br>Mutant Form Tiers: 9/9
+|ss5=Snail Leadership +9<br>Mutant Minion DEF +9%<br>Per Mutant Form Tier, Snail HP +540<br>Mutant Form Tiers: 9/9
+|ss6=Snail Leadership +12<br>Mutant Minion DEF +12%<br>Per Mutant Form Tier, Snail HP +720<br>Mutant Form Tiers: 9/9
+|ss7=Snail Leadership +12<br>Mutant Minion DEF +12%<br>Per Mutant Form Tier, Snail HP +720<br>Mutant Form Tiers: 9/9<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: This Relic's CIV +15
+|skill2=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: B-tad Output +3000
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, 2x Orange Reagent Drops +15%
+}}

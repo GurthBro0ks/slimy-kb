@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Goldfish Specimen
+|class_id=20445
+|rank=Green
+|affct=FAME
+|source=
+|description=This lifelike specimen is the preserved carcass of a goldfish from the species war. It's an incidental result of the snails' research on Goldfish physiology. It's not just an accurate replica of the goldfish exterior, but a graphic presentation of the internal organs of goldfish, which helps snails understand goldfish better and develop better strategies against goldfish!
+|fame=31
+|art=14
+|fth=20
+|civ=13
+|tech=11
+|ss1=Against Goldfish, Troop Casualty -1%
+|ss2=Against Goldfish, Troop Casualty -2%
+|ss3=Against Goldfish, Troop Casualty -3%
+|ss4=Against Goldfish, Troop Casualty -3%
+|ss7=Against Goldfish, Troop Casualty -3%<br> (Awakened)
+}}

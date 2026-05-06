@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Figaro Marriage,Mermaid Statue
+|rank=purple
+|amount=2
+|category=minion
+|description=Per 30 Minions in battle: Troop ATK +24
+}}
+[[Category:Minion]]
+[[Category:Minion ATK Boost]]

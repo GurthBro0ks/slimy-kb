@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Champa Flower
+|class_id=22321
+|rank=SSS
+|affct=CIV
+|birthday=01-19
+|source=
+|description=On Jan 19, 1902 AD, Tagore created this poem.<br>The Champa Flower was written by the famous poet Tagore and is one of his early masterpieces. A mother and son are playing hide-and-seek in this poem. The innocent child imagines himself as a golden champak while playing with his mother, who is quietly doing chores. The poet uses the metaphor of the sacred champak to give the child's games with his mother a fairy-tale-like sense, expressing the beauty of daily life in an extremely poetic form.
+|fame=75
+|art=65
+|fth=68
+|civ=106
+|tech=48
+|ss1=Snail DEF +30<br>Per 10 Digestive Pill Fed, Snail ATK +12<br>Per 10 Digestive Pill Fed, Snail DEF +12<br>Digestive Pills Fed: 100/100
+|ss2=Snail DEF +40<br>Per 10 Digestive Pill Fed, Snail ATK +16<br>Per 10 Digestive Pill Fed, Snail DEF +16<br>Digestive Pills Fed: 100/100
+|ss3=Snail DEF +50<br>Per 10 Digestive Pill Fed, Snail ATK +20<br>Per 10 Digestive Pill Fed, Snail DEF +20<br>Digestive Pills Fed: 100/100
+|ss4=Snail DEF +70<br>Per 10 Digestive Pill Fed, Snail ATK +28<br>Per 10 Digestive Pill Fed, Snail DEF +28<br>Digestive Pills Fed: 100/100
+|ss5=Snail DEF +90<br>Per 10 Digestive Pill Fed, Snail ATK +36<br>Per 10 Digestive Pill Fed, Snail DEF +36<br>Digestive Pills Fed: 100/100
+|ss6=Snail DEF +120<br>Per 10 Digestive Pill Fed, Snail ATK +48<br>Per 10 Digestive Pill Fed, Snail DEF +48<br>Digestive Pills Fed: 100/100
+|ss7=Snail DEF +120<br>Per 10 Digestive Pill Fed, Snail ATK +48<br>Per 10 Digestive Pill Fed, Snail DEF +48<br>Digestive Pills Fed: 100/100<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, HP Regen +1200
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: This Relic's CIV +15
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Lifesteal Rate +30%
+|mirage={{Mirage|name=Blessed Flowers|reward={{RewardIconWithLink|Sunny Plant Food, +3|orange}}
+|3name=Golden Rose|3rec=70.20M|3atk=213846|3defense=142665|3hp=11814290|3weak=28134
+|4name=Golden Camellia|4rec=90.47M|4atk=256584|4defense=171177|4hp=16394484|4weak=32760
+|5name=Golden Tulip|5rec=113.31M|5atk=304763|5defense=203320|5hp=21945718|5weak=36656
+|6name=Golden Magnolia|6rec=139.57M|6atk=360146|6defense=240267|6hp=28878811|6weak=40953
+|Arec=168.95M|Aatk=422091|Adefense=281593|Ahp=37969222|Aweak=46695
+}}}}

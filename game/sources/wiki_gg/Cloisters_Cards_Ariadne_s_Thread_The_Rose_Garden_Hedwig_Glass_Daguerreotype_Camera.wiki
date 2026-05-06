@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Cloisters Cards,Ariadne's Thread,The Rose Garden,Hedwig Glass,Daguerreotype Camera
+|rank=blue
+|amount=5
+|category=self
+|description=Per Super Memetic Chest opened: Snail RUSH +8; 50/50 Super Memetic Chests opened
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by Super Memetic Chest]]

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=628
+|relics=Open Rotor Engine,Shugart Floppy Disk
+|rank=blue
+|amount=2
+|category=self
+|description=Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +40;Forest Sanctum Rating Pts: 100000/100000
+}}

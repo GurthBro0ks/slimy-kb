@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Othello
+|class_id=22821
+|rank=SSS
+|affct=ART
+|source=
+|description=Othello is a masterpiece by Shakespeare, telling the tragic love story between the Moorish general Othello and his wife Desdemona. In the story, Othello, deceived by the slander of his ensign Iago, mistakenly believes that his loyal wife Desdemona has betrayed him with his lieutenant Cassio. Driven by anger and jealousy, he kills his innocent wife with his own hands. After the truth is revealed, a remorseful Othello ends his own life. It inspires deep reflection on multiple themes such as trust, jealousy, prejudice, true love, and self-awareness. Through the form of tragedy, it presents the complexity of life and the contradictions of human nature. To some extent, it is also an ultimate expression of aesthetics.
+|fame=53
+|art=107
+|fth=65
+|civ=73
+|tech=64
+|ss1=Snail ATK +30<br>All minion skins HP +10%<br>Protomon Troop assist DMG + 240
+|ss2=Snail ATK +40<br>All minion skins HP +20%<br>Protomon Troop assist DMG + 320
+|ss3=Snail ATK +50<br>All minion skins HP +30%<br>Protomon Troop assist DMG + 400
+|ss4=Snail ATK +70<br>All minion skins HP +50%<br>Protomon Troop assist DMG + 560
+|ss5=Snail ATK +90<br>All minion skins HP +70%<br>Protomon Troop assist DMG + 720
+|ss6=Snail ATK +120<br>All minion skins HP +100%<br>Protomon Troop assist DMG + 960
+|ss7=Snail ATK +120<br>All minion skins HP +100%<br>Protomon Troop assist DMG + 960<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Fire DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's ART +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail RUSH +600
+}}

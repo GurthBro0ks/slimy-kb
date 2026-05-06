@@ -1,0 +1,17 @@
+{{Shell
+|name=Traitor's Shell
+|image=Traitor's Shell.png
+|description=After traveler agent 13 betrayed the rest, agent 9's Snail Shell became green from anger. They were close friends, and sometimes agent 9 sighs while looking at agent 13's file: I'll be underestimated to betray after it!
+|affct=FTH
+|hard=ATK
+|source=Divine Neutral Chest (0.4%)
+|color=blue
+|earth=3
+|water=5
+|fire=2
+|wind=4
+|form=Angel
+|element=Water
+|realm=Murika
+|orangehard=HP
+}}

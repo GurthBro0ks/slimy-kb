@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Tee Virus
+|class_id=20804
+|rank=Blue
+|affct=TECH
+|birthday=10-23
+|source=
+|description=On Oct 23, 1996 AD, a large-scale Tee Virus pandemic broke out in a west coast city.<br>This pathogen was originally created by Prof. Max Cooper to treat cancer. Clinical trials have proved that the pathogen can quickly kill the cancer cells, without having any negative effects on normal cells. But in a certain experiment, the pathogen accidentally infected a mouse and resulted in a mutation. It greatly enhanced the cell activity of the host, making it extremely excited, hungry, and thirsty, and lose its sanity.
+|fame=25
+|art=30
+|fth=30
+|civ=23
+|tech=46
+|ss1=Per 5 Zombie Gene LVLs, Snail HP +20<br>Per 5 Zombie Gene LVLs, Snail ATK +2<br>Zombie Gene LVLs Researched: 150/150
+|ss2=Per 5 Zombie Gene LVLs, Snail HP +40<br>Per 5 Zombie Gene LVLs, Snail ATK +4<br>Zombie Gene LVLs Researched: 150/150
+|ss3=Per 5 Zombie Gene LVLs, Snail HP +60<br>Per 5 Zombie Gene LVLs, Snail ATK +6<br>Zombie Gene LVLs Researched: 150/150
+|ss4=Per 5 Zombie Gene LVLs, Snail HP +100<br>Per 5 Zombie Gene LVLs, Snail ATK +10<br>Zombie Gene LVLs Researched: 150/150
+|ss7=Per 5 Zombie Gene LVLs, Snail HP +100<br>Per 5 Zombie Gene LVLs, Snail ATK +10<br>Zombie Gene LVLs Researched: 150/150<br>Snail HP +500 (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]]Place in Gene Sim Device: Snail DEF +20
+}}

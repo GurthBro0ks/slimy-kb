@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Alexander's Anabasis
+|class_id=20081
+|rank=Green
+|affct=CIV
+|source=
+|description=This book, written by the ancient Greek philosopher Arrian, records the legendary exploits of Alexander the Great, who led his armies across the Achaemenid Empire, from Egypt to Bharata, expanded his territory and, established the Macedonian Empire spanning Europe, Asia, and Africa.
+|fame=14
+|art=16
+|fth=14
+|civ=31
+|tech=15
+|ss1=Snail ATK +10<br>After conquering Bharata, leadership +5
+|ss2=Snail ATK +20<br>After conquering Bharata, leadership +10
+|ss3=Snail ATK +30<br>After conquering Bharata, leadership +15
+|ss4=Snail ATK +30<br>After conquering Bharata, leadership +15
+|ss7=Snail ATK +30<br>After conquering Bharata, leadership +15<br> (Awakened)
+}}

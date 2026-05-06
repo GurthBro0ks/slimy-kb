@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Nestor's Cup
+|class_id=22028
+|rank=Blue
+|affct=ART
+|birthday=09-18
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Sept 18, 1955 AD, this cup was found in a ancient Greek mausoleum.<br>Nestor's Cup is a goblet made of gold. There are two pigeons on the handles. On the cup is the text about Iliad & Odyssey that reads, "I am Nestor's cup, good to drink from. Whoever drinks this cup empty, straightaway desire for beautiful-crowned Aphrodite will seize him."
+|fame=22
+|art=44
+|fth=31
+|civ=31
+|tech=26
+|ss1=Per 10 Mutant Minions in battle:<br>> Troop HARD Stats +1
+|ss2=Per 10 Mutant Minions in battle:<br>> Troop HARD Stats +2
+|ss3=Per 10 Mutant Minions in battle:<br>> Troop HARD Stats +3
+|ss4=Per 10 Mutant Minions in battle:<br>> Troop HARD Stats +5
+|ss7=Per 10 Mutant Minions in battle:<br>> Troop HARD Stats +5<br>Per 10 Mutant Minions in battle:<br>> Troop HARD Stats +5 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail ART +200
+}}

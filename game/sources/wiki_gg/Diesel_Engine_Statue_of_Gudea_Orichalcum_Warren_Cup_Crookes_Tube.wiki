@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=368
+|relics=Diesel Engine,Statue of Gudea,Orichalcum,Warren Cup,Crookes Tube
+|rank=blue
+|amount=5
+|category=self
+|description=Per 10 Minions in battle: Troop ATK +8
+}}

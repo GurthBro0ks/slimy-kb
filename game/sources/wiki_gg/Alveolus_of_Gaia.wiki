@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Alveolus of Gaia
+|type=Common
+|rank=red
+|id=10884
+|idx=95
+|description=Earth's Will was dismembered by Demon Gods. Some organs were retrieved and given as Reconstruction Feast rewards.
+|skill=
+|hp=2140
+|def=344
+|atk=263
+|rush=249
+|gene1=Wind DMG +120
+|gene2=Home Facility Resource Outputs +10%
+|gene3=Home Facility Resource Max Cap +10%
+|gene4=Wind RES +120
+|gene5=Home Facility Resource Outputs +10%
+|gene6=Home Facility Resource Max Cap +10%
+|gene7=Wind DMG +6% (Awakened)
+|}}

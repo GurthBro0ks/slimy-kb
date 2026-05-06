@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=704
+|relics=The Sceptical Chymist,Parnell's Asphalt Drip,Salmon of Knowledge,Calydonian Boar Skin
+|rank=purple
+|amount=4
+|category=self
+|description=Swamp Sanctum, Glorium Output +16%
+}}

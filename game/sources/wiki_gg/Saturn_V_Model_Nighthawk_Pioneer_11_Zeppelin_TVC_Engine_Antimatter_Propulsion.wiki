@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=754
+|relics=Saturn V Model,Nighthawk,Pioneer 11,Zeppelin,TVC Engine,Antimatter Propulsion
+|rank=orange
+|amount=6
+|category=self
+|description=All minion skins DEF +120%
+}}

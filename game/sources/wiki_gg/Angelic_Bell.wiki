@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Angelic Bell
+|class_id=22478
+|rank=Blue
+|affct=CIV
+|birthday=07-17
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jul 17, 1999 AD, Masao receives the most beautiful gift of his life.<br>Masao has lived at his grandmother's house since childhood, and when summer vacation comes, he decides to embark on an adventure to visit the place where his mother lives, which he has only seen in photos. However, he is too young, so Kikujiro's wife asks her husband to accompany him on the journey. After a bumpy trip, they finally arrive at the place where Masao's mother lives, but she has a new family. When Masao is disappointed and sad, Kikujiro takes out a bell, helping Masao fulfill his wish.
+|fame=33
+|art=28
+|fth=26
+|civ=44
+|tech=23
+|ss1=Mutant Minion ATK +1%
+|ss2=Mutant Minion ATK +2%
+|ss3=Mutant Minion ATK +3%
+|ss4=Mutant Minion ATK +5%
+|ss7=Mutant Minion ATK +5%<br>Mutant Minion ATK +5% (Awakened)
+|skill1=[[File:Desertsanctum skill I.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +5%
+}}

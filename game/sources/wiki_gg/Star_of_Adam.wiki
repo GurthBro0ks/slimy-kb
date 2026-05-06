@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Star of Adam
+|class_id=22631
+|rank=SSS
+|affct=FAME
+|birthday=07-20
+|source=
+|description=On Jul 20, 2016 AD, the "Star of Adam" was sold for $300 million.<br>The "Star of Adam" is the largest known blue star sapphire in the world, prized for its unique six-rayed star pattern formed by special minerals on its surface. Weighing over 1,400 carats, this exceptional gemstone is considered an irreplaceable treasure.
+|fame=107
+|art=63
+|fth=48
+|civ=66
+|tech=78
+|ss1=Zombie Minion RUSH +3%<br>Per 5 Mirage Gems gained, Snail ATK +3<br>Per 5 Mirage Gems gained, Snail DEF +3<br>Mirage Gems Gained: 300/300
+|ss2=Zombie Minion RUSH +4%<br>Per 5 Mirage Gems gained, Snail ATK +4<br>Per 5 Mirage Gems gained, Snail DEF +4<br>Mirage Gems Gained: 300/300
+|ss3=Zombie Minion RUSH +5%<br>Per 5 Mirage Gems gained, Snail ATK +5<br>Per 5 Mirage Gems gained, Snail DEF +5<br>Mirage Gems Gained: 300/300
+|ss4=Zombie Minion RUSH +7%<br>Per 5 Mirage Gems gained, Snail ATK +7<br>Per 5 Mirage Gems gained, Snail DEF +7<br>Mirage Gems Gained: 300/300
+|ss5=Zombie Minion RUSH +9%<br>Per 5 Mirage Gems gained, Snail ATK +9<br>Per 5 Mirage Gems gained, Snail DEF +9<br>Mirage Gems Gained: 300/300
+|ss6=Zombie Minion RUSH +12%<br>Per 5 Mirage Gems gained, Snail ATK +12<br>Per 5 Mirage Gems gained, Snail DEF +12<br>Mirage Gems Gained: 300/300
+|ss7=Zombie Minion RUSH +12%<br>Per 5 Mirage Gems gained, Snail ATK +12<br>Per 5 Mirage Gems gained, Snail DEF +12<br>Mirage Gems Gained: 300/300<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: This Relic's FAME +15
+|skill2=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, 2x Orange Card Drops +15%
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, 2x Orange Reagent Drops +15%
+|mirage={{Mirage|name=dungeon@22631_1|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=Shooting Star|3rec=120.91M|3atk=360470|3defense=214011|3hp=38041595|3weak=44542
+|4name=Morning Star|4rec=138.87M|4atk=399870|4defense=239275|4hp=51924483|4weak=48241
+|5name=Lucky Star|5rec=162.96M|5atk=453890|5defense=273168|5hp=73517105|5weak=52455
+|6name=Star Peace|6rec=196.14M|6atk=524207|6defense=319857|6hp=107144253|6weak=57139
+|Arec=247.46M|Aatk=622576|Adefense=385197|Ahp=172507379|Aweak=62335
+}}}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=485
+|relics=L'Art de la Guerre,Lomekwi Stoneware
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Zombie Minions in battle: Troop HARD Stats +21
+}}

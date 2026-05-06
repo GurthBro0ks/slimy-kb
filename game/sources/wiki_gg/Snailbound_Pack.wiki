@@ -1,0 +1,17 @@
+[[File:Snailbound Pack Details.png|300px]]
+
+The {{RewardIconWithLink|Snailbound Pack|orange}} is a reward from ?
+
+You may choose a reward from the Pack!
+
+* {{RewardIconWithLink|Blasphemy Eye|orange}}
+* {{RewardIconWithLink|Cultivation Fluid, +80|orange}}
+* {{RewardIconWithLink|Eye of Horus|orange}}
+* {{RewardIconWithLink|Gear RF, +150|orange}}
+* {{RewardIconWithLink|Lottery Ticket, +100|orange}}
+* {{RewardIconWithLink|Precious Record, +5|orange}}
+* {{RewardIconWithLink|Relic RF, +150|orange}}
+* {{RewardIconWithLink|Singularity Crystal, +3|orange}}
+* {{RewardIconWithLink|Super Cultivation Fluid, +8|orange}}
+
+[[Category:Reward Pack]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Radiance of June
+|class_id=20740
+|rank=Green
+|affct=FAITH
+|source=
+|description=The sixth law of natural circulation: In the hot summer, the sunshine is scorching, the drizzle is continuous, and the sky weaves a moist picture. May sunny days bring intermittent sunshine, warm people's hearts, and promote the growth of all things. Let us feel the vitality of life and the grace of nature in the fresh after rain.
+|fame=15
+|art=16
+|fth=33
+|civ=13
+|tech=13
+|ss1=Snail Leadership +2<br>Per 20 Lucky Star gained, Snail HP +10<br>Lucky Star Gained: 3600/3600
+|ss2=Snail Leadership +4<br>Per 20 Lucky Star gained, Snail HP +20<br>Lucky Star Gained: 3600/3600
+|ss3=Snail Leadership +6<br>Per 20 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 3600/3600
+|ss4=Snail Leadership +6<br>Per 20 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 3600/3600
+|ss7=Snail Leadership +6<br>Per 20 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 3600/3600<br> (Awakened)
+}}

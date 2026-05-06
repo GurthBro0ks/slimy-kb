@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Prince
+|class_id=22217
+|rank=SSS
+|affct=FAME
+|birthday=07-14
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Jul 14, 1532 AD, Machiavelli's The Prince was first published.<br>Machiavelli's famous work of political science. The Prince draws on his many years of political experience and offers a theoretical summary of his views. In its 26 chapters, he detailed his own theory of monarchy, using historical examples and assuming human nature in a negative light. Machiavelli believed that states emerge out of human needs, rather than as a result of divine right. He separated politics from morality, arguing that the basis of politics is power. He discussed in detail how different types of monarchs should establish their own political systems and maintain their rule. This book influenced many rulers of later generations. Some scholars crowned him the "Father of Political Science."
+|fame=106
+|art=56
+|fth=57
+|civ=71
+|tech=72
+|ss1=Snail Leadership +3<br>Demon Minion ATK +3%<br>Zombie Minion RUSH +3%
+|ss2=Snail Leadership +4<br>Demon Minion ATK +4%<br>Zombie Minion RUSH +4%
+|ss3=Snail Leadership +5<br>Demon Minion ATK +5%<br>Zombie Minion RUSH +5%
+|ss4=Snail Leadership +7<br>Demon Minion ATK +7%<br>Zombie Minion RUSH +7%
+|ss5=Snail Leadership +9<br>Demon Minion ATK +9%<br>Zombie Minion RUSH +9%
+|ss6=Snail Leadership +12<br>Demon Minion ATK +12%<br>Zombie Minion RUSH +12%
+|ss7=Snail Leadership +12<br>Demon Minion ATK +12%<br>Zombie Minion RUSH +12%<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion ATK +6%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop CRIT DMG +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FAME +15
+|mirage={{Mirage|name=Monarch Manual|reward={{RewardIconWithLink|Gene Speedup, +28800|orange}}
+|3name=William I|3rec=11.14M|3atk=86384|3defense=57630|3hp=2234662|3weak=14880
+|4name=Louis XIV|4rec=16.09M|4atk=105034|4defense=70072|4hp=3249664|4weak=17701
+|5name=Inocencio III|5rec=28.54M|5atk=125993|5defense=84055|5hp=4612161|5weak=18800
+|6name=Friedrich II|6rec=39.50M|6atk=149089|6defense=99463|6hp=6300895|6weak=19888
+|Arec=51.71M|Aatk=174859|Adefense=116655|Ahp=8374480|Aweak=22062
+}}}}

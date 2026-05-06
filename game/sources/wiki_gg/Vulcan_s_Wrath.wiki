@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Vulcan's Wrath
+|type=Bionic
+|rank=purple
+|id=10660
+|idx=17
+|description=Molten fury waltzes upon this divine anvil, where the smith-god's soul burns eternal. Witness the apocalyptic crescendo when his hammer strikes!
+|skill=Transform into Vulcan, dealing DMG equal to 163% of ATK!
+|hp=1520
+|def=199
+|atk=144
+|rush=136
+|gene1=Lifesteal Effect +10%
+|gene2=In Snail Arena, {race} HP +600
+|gene3=All ELMT RES +20
+|gene4=Snail Arena, Lifesteal Rate +20%
+|gene7=Lifesteal Rate +10% (Awakened)
+|}}

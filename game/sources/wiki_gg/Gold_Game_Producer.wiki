@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Gold Game Producer
+|class_id=20463
+|rank=Green
+|affct=FAME
+|source=
+|description=The award is sponsored by tycoons from all the major industries. Game industry experts are gathered together for an anonymous vote. It is an award of great value and the ultimate goal for every game producer!
+|fame=31
+|art=14
+|fth=16
+|civ=16
+|tech=13
+|ss1=Per Minigame installed, Snail ATK +5<br>Minigames Installed: 20/20
+|ss2=Per Minigame installed, Snail ATK +10<br>Minigames Installed: 20/20
+|ss3=Per Minigame installed, Snail ATK +15<br>Minigames Installed: 20/20
+|ss4=Per Minigame installed, Snail ATK +15<br>Minigames Installed: 20/20
+|ss7=Per Minigame installed, Snail ATK +15<br>Minigames Installed: 20/20<br> (Awakened)
+}}

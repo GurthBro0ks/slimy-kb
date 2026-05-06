@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Cut-in-two
+|class_id=20963
+|rank=Green
+|affct=FAME
+|source=
+|description=As night falls, faint whispers can be heard from deep within the Valley, murmuring, "We apologize for failing to entertain you, dear players..." Until one day, a half-bodied figure slowly emerged—a solemn tribute to the "strongest" and his unfortunate fate.
+|fame=28
+|art=16
+|fth=12
+|civ=16
+|tech=18
+|ss1=Unlock Kaleido Valley Auto-explore<br>Per Kaleido Valley participation, Snail ATK +1<br>Participated: 40/40
+|ss2=Unlock Kaleido Valley Auto-explore<br>Per Kaleido Valley participation, Snail ATK +2<br>Participated: 40/40
+|ss3=Unlock Kaleido Valley Auto-explore<br>Per Kaleido Valley participation, Snail ATK +3<br>Participated: 40/40
+|ss4=Unlock Kaleido Valley Auto-explore<br>Per Kaleido Valley participation, Snail ATK +3<br>Participated: 40/40
+|ss7=Unlock Kaleido Valley Auto-explore<br>Per Kaleido Valley participation, Snail ATK +3<br>Participated: 40/40<br> (Awakened)
+}}

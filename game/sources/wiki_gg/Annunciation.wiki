@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Annunciation
+|class_id=22137
+|rank=AAA
+|affct=ART
+|birthday=12-13
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Dec 13, 1472 AD, Da Vinci completed the Annunciation.<br>The Annunciation is an oil painting on wood painted by Da Vinci, depicting the Archangel Gabriel, sent by God, to announce to Mary that she will become pregnant with the Son of God. This broad-width composition shows a beautiful courtyard landscape. Da Vinci used a perspective that focuses on Mary and carefully considered the folds of the clothes, and buildings in the courtyard. These details portray the beauty of natural scenery, as well as the inner feelings of the characters.
+|fame=32
+|art=72
+|fth=46
+|civ=53
+|tech=40
+|ss1=Angel Minion RUSH +3%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +24%
+|ss2=Angel Minion RUSH +4%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +32%
+|ss3=Angel Minion RUSH +5%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +40%
+|ss4=Angel Minion RUSH +7%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +56%
+|ss5=Angel Minion RUSH +9%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +72%
+|ss7=Angel Minion RUSH +9%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +72%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +56% (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: HP Regen +300 HP
+|skill2=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: Snail HP +600
+}}

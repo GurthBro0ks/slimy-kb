@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Ajanta Caves Paintings,Godel's Incompleteness Theorems
+|rank=orange
+|amount=2
+|category=self
+|description=Per 6 distinct Souls offered, Snail RUSH +7; Distinct Souls Offered: 300/300
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by Distinct Souls Offered]]

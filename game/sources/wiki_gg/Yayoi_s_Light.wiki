@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Yayoi's Light
+|class_id=20550
+|rank=Green
+|affct=CIV
+|source=
+|description=The third principle of the natural cycle: The best time to sow hope and work hard is when all things revive, striving for a bountiful harvest in autumn!
+|fame=12
+|art=15
+|fth=14
+|civ=33
+|tech=16
+|ss1=Snail Leadership +2<br>Per 10 Lucky Star gained, Snail ATK +1<br>Lucky Star Gained: 2400/2400
+|ss2=Snail Leadership +4<br>Per 10 Lucky Star gained, Snail ATK +2<br>Lucky Star Gained: 2400/2400
+|ss3=Snail Leadership +6<br>Per 10 Lucky Star gained, Snail ATK +3<br>Lucky Star Gained: 2400/2400
+|ss4=Snail Leadership +6<br>Per 10 Lucky Star gained, Snail ATK +3<br>Lucky Star Gained: 2400/2400
+|ss7=Snail Leadership +6<br>Per 10 Lucky Star gained, Snail ATK +3<br>Lucky Star Gained: 2400/2400<br> (Awakened)
+}}

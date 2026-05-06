@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Chinchorro Mummy
+|rank=AA
+|affct=FTH
+|birthday=04-12
+|source=[[Koryeon Domain]], Fragment Crafting (3.8%), Lottery Machine (0.08%), Wishing (0.36%), Soul Chest (1.5%), Expert Scrolls (0.95%)
+|description=On Apr 12, 5050 BC, the New Crow people made the first Mummy, more than 1,000 years earlier than ancient Egyptian did.
+
+New Crow people would usually begin making mummies right after worshiping the dead. Unlike the Egyptians who only make mummies for the nobles, the New Crow people made mummies for their family members. The mummies they made have retained some of the characteristics of the deceased to show their respect. They believe that if bodies buried in the Atacama Desert have not disappeared, then their souls are still in this world.
+|fame=33
+|art=37
+|fth=69
+|civ=47
+|tech=42
+|ss1=Zombie Minion Cloning SPD +2%<br>Per 30 Zombie Minions in battle, Troop DEF +4
+|ss2=Zombie Minion Cloning SPD +3%<br>Per 30 Zombie Minions in battle, Troop DEF +8
+|ss3=Zombie Minion Cloning SPD +4%<br>Per 30 Zombie Minions in battle, Troop DEF +12
+|ss4=Zombie Minion Cloning SPD +6%<br>Per 30 Zombie Minions in battle, Troop DEF +20
+|ss5=Zombie Minion Cloning SPD +8%<br>Per 30 Zombie Minions in battle, Troop DEF +28
+|ss7=Zombie Minion Cloning SPD +8%<br>Per 30 Zombie Minions in battle, Troop DEF +28<br>Zombie Minion Cloning SPD +7% (Awakened)
+|skill1=[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: This Relic's FTH +10
+|skill2=[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: In Kemetic, Snail DEF +30
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FTH Relics]]
+[[Category:Purple FTH Relics]]
+[[Category:Zombie Minion Cloning Speed Boost]]
+[[Category:Zombie Minion DEF Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:FTH Boost]]
+[[Category:DEF Boost]]
+[[Category:Mutant Gene Speedup Boost]]
+[[Category:ATK Boost]]
+[[Category:DNA Boost]]
+[[Category:Enhanced by DNA Strength]]
+[[Category:Wraith Boost]]
+[[Category:Mummy Boost]]

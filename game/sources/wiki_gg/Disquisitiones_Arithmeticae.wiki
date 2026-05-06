@@ -1,0 +1,24 @@
+{{CargoRelic
+|name=Disquisitiones Arithmeticae
+|class_id=22763
+|rank=SSS
+|affct=TECH
+|birthday=04-13
+|source=
+|description=On Apr 13, 1801 AD, the renowned German mathematician Gauss published his groundbreaking mathematical treatise.<br>The work "Disquisitiones Arithmeticae" marks the pioneering contributions of Gauss to the field of number theory, showcasing his profound mathematical theories and thoughts. "Disquisitiones Arithmeticae" establishes a new framework for the theory of integers based on rigorous mathematical logic and systems. In the book, Gauss explores the fundamental properties and operational rules of integers, the theory of congruences, proposes and proves the concept of congruence classes, solutions to congruence equations, and introduces the influential Law of Quadratic Reciprocity, laying the foundation for modern number theory. It greatly advanced the understanding and recognition of number theory, exerting an immeasurable value on future mathematical research and education
+|fame=66
+|art=48
+|fth=75
+|civ=64
+|tech=109
+|ss1=Snail Leadership +3<br>Minion Sim Chests drop 2x Sim Tokens by +1.5%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +72<br>Epic Protodex Stars: 100/100
+|ss2=Snail Leadership +4<br>Minion Sim Chests drop 2x Sim Tokens by +2%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +96<br>Epic Protodex Stars: 100/100
+|ss3=Snail Leadership +5<br>Minion Sim Chests drop 2x Sim Tokens by +2.5%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +120<br>Epic Protodex Stars: 100/100
+|ss4=Snail Leadership +7<br>Minion Sim Chests drop 2x Sim Tokens by +3.5%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +168<br>Epic Protodex Stars: 100/100
+|ss5=Snail Leadership +9<br>Minion Sim Chests drop 2x Sim Tokens by +4.5%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +216<br>Epic Protodex Stars: 100/100
+|ss6=Snail Leadership +12<br>Minion Sim Chests drop 2x Sim Tokens by +6%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +288<br>Epic Protodex Stars: 100/100
+|ss7=Snail Leadership +12<br>Minion Sim Chests drop 2x Sim Tokens by +6%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +288<br>Epic Protodex Stars: 100/100<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+}}

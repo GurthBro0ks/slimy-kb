@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Fallen Prophet
+|rank=purple
+|cabin=2
+|id=91
+|gene1={race} HP +300
+|gene2={race} FAME +30
+|gene3=Per 30 Angel Minions in battle:
+> Troop HP +80
+|gene4=Resolver: W-tads extracted +6
+|gene5=Per 30 Angel Minions in battle:
+> Troop HP +120
+|gene6=Resolver: W-tads extracted +9
+|}}

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Mummy of Ramesses
+|class_id=21725
+|rank=SS
+|affct=FAITH
+|birthday=10-05
+|source=
+|description=On Oct 5, 1213 BC, the most famous mummy in history was placed into the pyramid.<br>Ramses, pharaoh during the 19th Dynasty of Egypt, was regarded as the greatest pharaoh of ancient Egypt. After he passed away at the age of ninety, Egyptian high priests and artisans mummified his body and sent it to the pyramid for permanent burial. However, three thousand years later, he still suffered from the disturbance from the outside world. Some archaeologists found the Pharaoh's tomb by following the tracks of grave robbers, and for the first time people were able to see the face of Ramses.
+|fame=60
+|art=51
+|fth=104
+|civ=64
+|tech=68
+|ss1=Per 60 Zombie Minions in battle:<br>> Troop HP +90<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +9<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Per 60 Zombie Minions in battle:<br>> Troop HP +180<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +18<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Per 60 Zombie Minions in battle:<br>> Troop HP +270<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +27<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Per 60 Zombie Minions in battle:<br>> Troop HP +450<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +45<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Per 60 Zombie Minions in battle:<br>> Troop HP +630<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +63<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Per 60 Zombie Minions in battle:<br>> Troop HP +900<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +90<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Per 60 Zombie Minions in battle:<br>> Troop HP +900<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +90<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Power Checks In Gene Sims -7.5%
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, INTEL gained +15%
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, 2x INTEL Drops +15%
+|mirage={{Mirage|name=Immortal Sleep|reward={{RewardIconWithLink|Offering Speedup, +28800|orange}}
+|3name=Pharaoh's Guard|3rec=6.84M|3atk=66955|3defense=44303|3hp=1330116|3weak=12449
+|4name=Pharaoh's Guard|4rec=14.51M|4atk=100240|4defense=66327|4hp=2796856|4weak=16557
+|5name=Archpriest|5rec=35.27M|5atk=141341|5defense=93524|5hp=5265647|5weak=18937
+|Arec=59.68M|Aatk=193240|Adefense=127864|Ahp=9363880|Aweak=21667
+}}}}

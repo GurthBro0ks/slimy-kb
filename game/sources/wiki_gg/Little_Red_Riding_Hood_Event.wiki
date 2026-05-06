@@ -1,0 +1,16 @@
+{{Missing Info}}
+
+= Little Red Riding Hood Event =
+[[File:Little Red Riding Hood Event Poster.png|200px|left|alt=Little Red Riding Hood Event]]
+Jan. 26 - Feb. 08 2024
+
+'''Official News Announcement:''' https://snail-na.qcplay.com/official/news-details.html?id=52
+{{Clear}}
+
+= Relic Rewards =
+* {{RewardIconWithLink|Little Red Riding Hood|orange}}
+
+= Shell Rewards =
+* {{RewardIconWithLink|Yesteryear Mirage|purple}}
+
+[[Category:Events]]

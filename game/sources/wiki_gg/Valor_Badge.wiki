@@ -1,0 +1,19 @@
+{{CargoRelic
+|name=Valor Badge
+|class_id=20651
+|rank=Green
+|affct=ART
+|source=
+|description=The Apostles have seized the Twelve Temples of Hellas. In response, Earth's Will has mobilized the Hellas Expeditionary Force. All warriors are granted Badge of Valor. May these emblems inspire you to purge the Apostles...and restore light to Hellas!
+—[Seal of Earth's Will]
+|fame=15
+|art=29
+|fth=18
+|civ=14
+|tech=14
+|ss1=Per Hellas Apostle defeated, Snail HP +3<br>Per Hellas Apostle defeated, Snail ATK +3<br>Hellas Apostles defeated:10/10 
+|ss2=Per Hellas Apostle defeated, Snail HP +6<br>Per Hellas Apostle defeated, Snail ATK +6<br>Hellas Apostles defeated:10/10 
+|ss3=Per Hellas Apostle defeated, Snail HP +9<br>Per Hellas Apostle defeated, Snail ATK +9<br>Hellas Apostles defeated:10/10 
+|ss4=Per Hellas Apostle defeated, Snail HP +9<br>Per Hellas Apostle defeated, Snail ATK +9<br>Hellas Apostles defeated:10/10 
+|ss7=Per Hellas Apostle defeated, Snail HP +9<br>Per Hellas Apostle defeated, Snail ATK +9<br>Hellas Apostles defeated:10/10 <br> (Awakened)
+}}

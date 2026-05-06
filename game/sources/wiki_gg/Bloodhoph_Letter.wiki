@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Bloodhoph Letter
+|class_id=20216
+|rank=Green
+|affct=FTH
+|source=Rent from [[Lee Gi-na]]
+|description=Dear Gi-na, I know you took our babies away because you can't stand my bad temper! It was all my fault. Please don't take it out on the kids! I've bought you a limited Ferrari! Please accept my sincere apology and come back...
+Always Yours, Bull Chief
+|fame=18
+|art=14
+|fth=29
+|civ=13
+|tech=16
+|ss1=Per 4 Never Lucky Packs claimed, Snail DEF +2<br>Never Lucky Packs Claimed: 40/40
+|ss2=Per 4 Never Lucky Packs claimed, Snail DEF +4<br>Never Lucky Packs Claimed: 40/40
+|ss3=Per 4 Never Lucky Packs claimed, Snail DEF +6<br>Never Lucky Packs Claimed: 40/40
+}}
+
+[[Category:DEF Boost]]
+[[Category:Never Lucky Pack Boost]]

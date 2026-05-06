@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=603
+|relics=Heliostat,Phase-contrast Microscope
+|rank=blue
+|amount=2
+|category=self
+|description=Snail ATK +50
+}}

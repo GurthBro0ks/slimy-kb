@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Gate,Arianrhod's Wheel
+|rank=orange
+|amount=2
+|category=self
+|description=Protomons assist Snail in battle, and deal extra DMG +560
+}}
+[[Category:Self]]
+[[Category:Protomon Boost]]

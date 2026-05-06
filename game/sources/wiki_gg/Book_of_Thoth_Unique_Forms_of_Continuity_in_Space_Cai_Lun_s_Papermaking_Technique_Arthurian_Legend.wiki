@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Book of Thoth,Unique Forms of Continuity in Space,Cai Lun's Papermaking Technique,Arthurian Legend
+|rank=orange
+|amount=4
+|category=self
+|description=Per Master Chef's Legacy activated, Snail HP +90
+}}
+[[Category:Self]]
+[[Category:HP Boost]]

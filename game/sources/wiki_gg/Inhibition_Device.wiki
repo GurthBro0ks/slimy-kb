@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Inhibition Device
+|class_id=20349
+|rank=Green
+|affct=TECH
+|source=Clear tile 89 in [[Cathay Domain]]
+|description=This suppression device is meant to prevent the central system from spiraling out of control. It can diminish electromagnetic interference, hacking, and other intrusions, in addition to reducing the central system's operational efficiency and keeping energy input within a safe range, and restraining the input energy within the safety threshold!
+|fame=13
+|art=17
+|fth=16
+|civ=18
+|tech=26
+|ss1=Against Dragoness Hub, DMG +300%
+|ss2=Against Dragoness Hub, DMG +400%
+|ss3=Against Dragoness Hub, DMG +500%
+|ss4=Against Dragoness Hub, DMG +500%
+|ss7=Against Dragoness Hub, DMG +500%<br> (Awakened)
+}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Fountain
+|class_id=22526
+|rank=A
+|affct=ART
+|birthday=06-07
+|source=Lottery Machine No.3 (0.55%)
+|description=On Jun 7, 1917 AD, Duchamp named a urinal Fountain.<br>The namer of this work is the famous modern artist Duchamp, who was inspired by a sudden burst of inspiration when passing by a hardware store, bought this urinal, named it Fountain, and sent it to the exhibition hall for display. This extraordinary work was rejected by artists at the time but was later understood by people. It embodies the author's thoughts on the definition of art, which still influences many artists today.
+|fame=30
+|art=64
+|fth=40
+|civ=43
+|tech=36
+|ss1=Protomon Snail assist DMG + 80<br>Per 5 Star+ Protomon, Snail RUSH +2<br>5 Star+ Protomon: 20/20
+|ss2=Protomon Snail assist DMG + 160<br>Per 5 Star+ Protomon, Snail RUSH +4<br>5 Star+ Protomon: 20/20
+|ss3=Protomon Snail assist DMG + 240<br>Per 5 Star+ Protomon, Snail RUSH +6<br>5 Star+ Protomon: 20/20
+|ss4=Protomon Snail assist DMG + 400<br>Per 5 Star+ Protomon, Snail RUSH +10<br>5 Star+ Protomon: 20/20
+|ss5=Protomon Snail assist DMG + 560<br>Per 5 Star+ Protomon, Snail RUSH +14<br>5 Star+ Protomon: 20/20
+|ss7=Protomon Snail assist DMG + 560<br>Per 5 Star+ Protomon, Snail RUSH +14<br>5 Star+ Protomon: 20/20<br>Protomon Snail assist DMG + 560 (Awakened)
+|skill1=[[File:Timemachine skill II.png|50px]]Place in Time Machine: Travel Speedup Output +15%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's ART +10
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Chan-hee's Figure
+|class_id=20093
+|rank=Green
+|affct=CIV
+|source=
+|description=Before being split in half by Hitman One, Chan-hee was a youthful and beautiful anchor, and this figure perfectly depicts how she looked like at that time. Since Chan-hee 1/2 and Demon Chan-hee took over, this figurine became even more valuable.
+|fame=15
+|art=12
+|fth=17
+|civ=31
+|tech=15
+|ss1=Per partner you have, Snail ATK +5<br>Current Partners: 15/15
+|ss2=Per partner you have, Snail ATK +10<br>Current Partners: 15/15
+|ss3=Per partner you have, Snail ATK +15<br>Current Partners: 15/15
+|ss4=Per partner you have, Snail ATK +15<br>Current Partners: 15/15
+|ss7=Per partner you have, Snail ATK +15<br>Current Partners: 15/15<br> (Awakened)
+}}

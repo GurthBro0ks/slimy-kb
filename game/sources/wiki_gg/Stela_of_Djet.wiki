@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=Stela of Djet
+|rank=Blue
+|affct=FAME
+|birthday=08-06
+|source=Lottery Machine (0.07%), Wishing (3.1%), Novice Scrolls (1%)
+|description=On Aug 6, 3000 BC, this relief from the First Dynasty of Ancient Egypt was created.
+
+This is a simple stela. There is an eagle engraved at the top, some pillars in the rectangular space below that seem to represent the palace, and a snake on the top part of the pillar. The refined craftsmanship of this Stela of Djet reflected the idea of ancient totem worship. The image of this relief is extremely concise and reflects the earlier design of hieroglyphs. It symbolizes kingship and governance. An imitation of this masterpiece is currently preserved in the Louvre Museum. 
+
+[Basic Info]
+
+Era: 1st Dynasty of Ancient Egypt<br>Material: Limestone<br>Height: 1.43m<br>Width: 0.55m<br>Found in: Abydos
+|fame=45
+|art=29
+|fth=31
+|civ=28
+|tech=21
+|ss1=Per 3 kinds of souls offered, Snail ATK +1<br>Distinct Souls Offered: 300/300
+|ss2=Per 3 kinds of souls offered, Snail ATK +2<br>Distinct Souls Offered: 300/300
+|ss3=Per 3 kinds of souls offered, Snail ATK +3<br>Distinct Souls Offered: 300/300
+|ss4=Per 3 kinds of souls offered, Snail ATK +5<br>Distinct Souls Offered: 300/300
+|ss7=Per 3 kinds of souls offered, Snail ATK +5<br>Distinct Souls Offered: 300/300<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Kemet skill I.png|50px]]Place in Kemetic Museum: In Kemet, FAME Checks -5
+}}
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:FAME Relics]]
+[[Category:Blue FAME Relics]]
+[[Category:ATK Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Reagent Crafting Boost]]
+[[Category:Jaden Embryo Boost]]

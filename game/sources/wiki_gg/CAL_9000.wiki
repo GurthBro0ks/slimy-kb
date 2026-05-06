@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=CAL 9000
+|class_id=22199
+|rank=AAA
+|affct=TECH
+|birthday=05-31
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On May 31, 2001 AD, CAL 9000 accompanied 3 astronauts on a journey to Jupiter on Explorer 1.<br>CAL 9000 was a supercomputer that coalesced human wisdom. Its supercomputing power allowed it to think like a human. Therefore, in the Jupiter exploration plan, humans entrusted it with the heavy responsibility of driving and managing the spaceship, as well as a top-secret mission. At first it performed its duties conscientiously and in an orderly manner, but when it realized that the crew members seemed to conspire against it, for the sake of the mission success, it ended up making a decision greatly deviating from the plan.
+|fame=56
+|art=30
+|fth=46
+|civ=40
+|tech=71
+|ss1=Mecha Minion RUSH +3%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +24%
+|ss2=Mecha Minion RUSH +4%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +32%
+|ss3=Mecha Minion RUSH +5%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +40%
+|ss4=Mecha Minion RUSH +7%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +56%
+|ss5=Mecha Minion RUSH +9%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +72%
+|ss7=Mecha Minion RUSH +9%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +72%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +56% (Awakened)
+|skill1=[[File:Timemachine skill II.png|50px]]Place in Time Machine: Time Machine Max Cap +15%
+|skill2=[[File:Timemachine skill II.png|50px]]Place in Time Machine: Generate Time Chests by +15%
+}}

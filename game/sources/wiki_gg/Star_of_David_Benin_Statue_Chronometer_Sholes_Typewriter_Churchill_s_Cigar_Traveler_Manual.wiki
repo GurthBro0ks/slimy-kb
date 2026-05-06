@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Star of David,Benin Statue,Chronometer,Sholes' Typewriter,Churchill's Cigar,Traveler Manual
+|rank=blue
+|amount=6
+|category=home
+|description=Time Machine Travel Speedup Output +18%
+}}
+[[Category:Home]]

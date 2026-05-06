@@ -1,0 +1,11 @@
+{{RewardIconWithText|Coating Bucket|orange}} use to get random 20 Coatings (High chance of getting Blue or lower Coatings; small chance of getting Purple Coatings).
+
+The drop rates are:
+* 60% {{RewardIconWithText|Green Coating|green}}
+* 25% {{RewardIconWithText|Blue Coating|blue}}
+* 15% {{RewardIconWithText|Purple Coating|purple}}
+
+Coatings are used to improve [[Shells]].
+
+[[Category:Reward Pack]]
+[[Category:Shells]]

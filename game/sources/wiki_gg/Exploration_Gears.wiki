@@ -1,0 +1,709 @@
+<tabber>
+|-|Koryeo=
+{| class="mw-collapsible fandom-table"
+!Image
+!Name
+!Snail HP
+!Snail ATK
+!Snail DEF
+!Snail RUSH
+!Special Stats
+!Source
+|-
+|[[File:11.png]]
+|Warmonger's Gun
+File 100
+| +600
+| +180
+| +60
+| +180
+|In Koryeo, Snail ATK +120
+In Koryeo, Snail RUSH +120
+
+In Koryeo, DMG +12%
+
+In Koryeo, INTEL gained+12%
+|Crafting
+|-
+|[[File:10.png]]
+|Virgo Tech
+File 101
+| +800
+| +80
+| +80
+| +80
+|In Koryeo, Snail ATK +96
+In Koryeo, Snail RUSH +96
+|Defeat Koryeo Commissioner
+|-
+|[[File:9.png]]
+|Jung-geun's Gun
+File 102
+| +400
+| +120
+| +40
+| +120
+|In Koryeo, DMG +8%
+In Koryeo, INTEL gained +8%
+|Crafting
+|-
+|[[File:8.png]]
+|Gas Mask
+File 103
+| +400
+| +40
+| +40
+| +40
+|In Koryeo Exploration, DMG +4%
+In Koryeo, INTEL gained +4%
+|Home Chest
+|-
+|[[File:7.png]]
+|Golden Assault Rifle
+File 104
+| +200
+| +60
+| +20
+| +60
+|In Koryeo, DMG +4%
+In Koryeo, INTEL gained +4%
+|Crafting
+|-
+|[[File:6.png]]
+|Bulletproof Vest
+File 105
+| +200
+| +20
+| +20
+| +20
+|In Koryeo, DMG +2%
+In Koryeo, INTEL gained +2%
+|Card Exchange
+|-
+|[[File:5.png]]
+|Assault Rifle Model 98
+File 106
+| +100
+| +30
+| +10
+| +30
+|In Koryeo, DMG +2%
+In Koryeo, INTEL gained +2%
+|Crafting
+|-
+|[[File:4.png]]
+|Motorbike Helmet
+File 107
+| +300
+| +0
+| +10
+| +0
+|In Koryeo, DMG +2%
+|Card Redemption
+|-
+|[[File:3.png]]
+|Switchblade
+File 108
+| +0
+| +30
+| +0
+| +10
+|In Koryeo, INTEL gained +2%
+|Crafting
+|-
+|[[File:1.png]]
+|Ice Skates
+File 109
+| +0
+| +20
+| +0
+| +0
+|In Koryeo, INTEL gained +1%
+|Card Redemption
+|-
+|[[File:2.png]]
+|Crowbar
+File 110
+| +0
+| +20
+| +0
+| +0
+|None
+|Card Redemption
+|}
+|-|Yamoto=
+{| class="mw-collapsible fandom-table"
+!Image
+!Name
+!Snail HP
+!Snail ATK
+!Snail DEF
+!Snail RUSH
+!Special Stats
+!Source
+|-
+|[[File:14.png]]
+|Sword Futsuno
+File 200
+| +600
+| +180
+| +60
+| +180
+|In Yamoto, Snail ATK +120
+In Yamoto, Snail RUSH +120
+
+In Yamoto, Dmg +12%
+
+In Yamoto, INTEL gained +12%
+|
+|-
+|[[File:13.png]]
+|Genji Armor
+File 201
+| +800
+| +80
+| +80
+| +80
+|In Yamoto, Snail ATK +96
+In Yamoto, Snail DEF +96
+|
+|-
+|[[File:9..png]]
+|Blade Murasame
+File 202
+| +400
+| +120
+| +40
+| +120
+|In Yamoto, DMG +8%
+In Yamoto, INTEL gained +8%
+|
+|-
+|[[File:12.png]]
+|Genji Shield
+File 203
+| +400
+| +40
+| +40
+| +40
+|In Yamoto, Snail ATK +48
+In Yamoto, Snail DEF +48
+|
+|-
+|[[File:11..png]]
+|Genji Helmet
+File 204
+| +600
+| +20
+| +60
+| +20
+|In Yamoto,  Snail DEF +48
+|
+|-
+|[[File:10..png]]
+|Genji Gloves
+File 205
+| +200
+| +60
+| +20
+| +60
+|In Yamoto, Snail ATK +48
+|
+|-
+|[[File:8..png]]
+|Blade Muramasa
+File 206
+| +200
+| +60
+| +20
+| +60
+|In Yamoto, DMG +4%
+
+In Yamoto, INTEL gained +4%
+|
+|-
+|[[File:7..png]]
+|Royal Banner
+File 207
+| +600
+| +20
+| +60
+| +20
+|In Yamoto, DMG +4%
+In Yamoto, INTEL gained +4%
+|
+|-
+|[[File:6..png]]
+|Servant Spirit Pendant
+File 208
+| +200
+| +20
+| +20
+| +20
+|In Yamoto, DMG +2%
+
+In Yamoto, INTEL gained +2%
+|
+|-
+|[[File:5..png]]
+|Crimson Haori Jacket
+File 209
+| +300
+| +10
+| +30
+| +10
+|In Yamoto, DMG +2%
+
+In Yamoto, INTEL gained +2%
+|
+|-
+|[[File:4..png]]
+|Ninjutsu Armband
+File 210
+| +0
+| +30
+| +0
+| +0
+|In Yamoto, DMG +2%
+|
+|-
+|[[File:3..png]]
+|Golden Yamoto Armor
+File 211
+| +300
+| +0
+| +10
+| +0
+|In Yamoto, INTEL gained +2%
+|
+|-
+|[[File:2..png]]
+|Royal Underwear
+File 212
+| +200
+| +0
+| +0
+| +0
+|In Yamoto, INTEL gained +1%
+|
+|-
+|[[File:1..png]]
+|Light Yamoto Armor
+File 213
+| +0
+| +0
+| +20
+| +0
+|None
+|
+|}
+|-|Cathay=
+{| class="mw-collapsible fandom-table"
+!Image
+!Name
+!Snail HP
+!Snail ATK
+!Snail DEF
+!Snail RUSH
+!Special Stats
+!Source
+|-
+|[[File:11,.png]]
+|Sky Piercer
+File 300
+
+| +600
+| +180
+| +60
+| +180
+|In Cathay, Snail ATK +120
+In Cathay, Snail RUSH +120
+
+In Cathay, DMG +12%
+
+In Cathay, INTEL gained +12%
+|Crafting
+|-
+|[[File:10,.png]]
+|Conqueror Spear
+| +800
+| +80
+| +80
+| +80
+|In Cathay, Snail ATK +96
+In Cathay, Snail RUSH +96
+|Crafting
+|-
+|[[File:9,.png]]
+|Couple Swords
+| +400
+| +120
+| +40
+| +120
+|In Cathay, DMG +8%
+In Cathay, INTEL gained +8%
+|Crafting
+|-
+|[[File:8,.png]]
+|Silver Lion
+| +400
+| +40
+| +40
+| +40
+|In Cathay, DMG +4%
+In Cathay, INTEL gained +4%
+|Card Redemption 
+|-
+|[[File:7,.png]]
+|7-Star Blade
+| +200
+| +60
+| +20
+| +60
+|In Cathay, DMG +4%
+
+In Cathay, INTEL gained +4%
+|Crafting
+|-
+|[[File:6,.png]]
+|Rainbow Tassle
+| +200
+| +20
+| +20
+| +20
+|In Cathay, DMG +2%
+In Cathay, INTEL gained +2%
+|Card Redemption
+|-
+|[[File:5,.png]]
+|Ancient Blade
+| +100
+| +300
+| +10
+| +30
+|In Cathay, DMG +2%
+
+In Cathay, INTEL gained +2%
+|Crafting
+|-
+|[[File:4,.png]]
+|Heart-Protection Mirror
+| +300
+| +0
+| +10
+| +0
+|In Cathay, DMG +2%
+| Card Redemption
+|-
+|[[File:3,.png]]
+|Wu Scimitar
+| +0
+| +30
+| +0
+| +10
+|In Cathay, INTEL gained +2%
+|Crafting
+|-
+|[[File:2,.png]]
+|Iron Helmet
+| +0
+| +0
+| +20
+| +0
+|In Cathay, INTEL gained +1%
+|Card Redemption
+|-
+|[[File:1,.png]]
+|Podao
+| +0
+| +20
+| +0
+| +0
+|None
+|Card Redemption
+|}
+|-|Murika=
+{| class="mw-collapsible fandom-table"
+!Image
+!Name
+!Snail HP
+!Snail ATK
+!Snail DEF
+!Snail RUSH
+
+!Special Stats
+!Source
+|-
+|[[File:14-.png]]
+|Bullet Storm
+| +600
+| +180
+| +60
+| +180
+|In Murika, Snail ATK +120
+In Murika, Snail RUSH +120
+
+In Murika, DMG +12%
+
+In Murika, INTEL gained +12%
+|Crafting
+|-
+|[[File:13-.png]]
+|Indv. Power Armor
+|
+|
+|
+|
+|
+|Crafting
+|-
+|[[File:9-.png]]
+|Indv. High Explosive Rifle
+|
+|
+|
+|
+|
+|Crafting
+|-
+|[[File:12-.png]]
+|Mechanical Exoskeleton
+|
+|
+|
+|
+|
+|Crafting
+|-
+|[[File:11-.png]]
+|Powered Glove 
+|
+|
+|
+|
+|
+|Crafting
+|-
+|[[File:10-.png]]
+|Holographic Tactical Glasses
+|
+|
+|
+|
+|
+|Crafting
+|-
+|[[File:8-.png]]
+|Long Range Scope
+| +600
+| +20
+| +60
+| +20
+|In Murika, DMG +4%
+In Murika, INTEL gained +4%
+|Card Redemption
+|-
+|[[File:7-.png]]
+|M4 Carbine
+|
+|
+|
+|
+|
+|Crafting
+|-
+|[[File:6-.png]]
+|PASGT Helmet
+| +200
+| +20
+| +20
+| +20
+|In Murika, DMG +2%
+In Murika, INTEL gained +2%
+|Card Redemption
+|-
+|[[File:5-.png]]
+|Springfield Rifle
+|
+|
+|
+|
+|
+|Crafting
+|-
+|[[File:4-.png]]
+|Tactical Vest
+| +300
+| +0
+| +10
+| +0
+|In Murika, DMG +2%
+|Card Redemption
+|-
+|[[File:3-.png]]
+|Colt Revolver
+|
+|
+|
+|
+|
+|Crafting
+|-
+| [[File:2-.png]]
+|Tactical Boots
+| +0
+| +0
+| +0
+| +20
+| In Murika, INTEL gained +1%
+|Card Redemption
+|-
+|[[File:1-.png]]
+|Smoothbore
+| +0
+| +20
+| +0
+| +0
+|None
+|Card Redemption
+|}
+|-|Britland=
+{| class="fandom-table"
+!Image
+!Name
+!Snail HP
+!Snail ATK
+!Snail DEF
+!Snail RUSH
+!Special Stats
+!Source
+|-
+|
+|Crown of Eternal Daylight
+| +600
+| +180
+| +60
+| +180
+|In Britland, Snail ATK +150
+In Britland, Snail RUSH +150
+In Britland, DMG +12%
+In Britland, INTEL gained +12%
+In Britland, fleet cannon DMG +12%
+|Crafting
+|-
+|
+|Windsor's Cape
+| +800
+| +80
+| +80
+| +80
+|In Britland, Snail ATK +120
+In Britland, Snail RUSH +120
+|Card Redemption
+|-
+|
+|Lion's Crown
+| +400
+| +120
+| +40
+| +120
+|In Britland, DMG +8%
+In Britland, INTEL gained +8%
+
+In Britland, fleet cannon DMG +8%
+|Crafting
+|-
+|
+|Britland Crown
+| +400
+| +40
+| +40
+| +40
+|In Britland, DMG +4%
+In Britland, INTEL gained +4%
+
+In Britland, fleet cannon DMG +4%
+|Card Redemption
+|-
+|
+|Shotgun Umbrella
+| +200
+| +60
+| +20
+| +60
+|In Britland, DMG +4%
+In Britland, INTEL gained +4%
+
+In Britland, fleet cannon DMG +4%
+|Crafting
+|-
+|
+|Tuxedo
+| +200
+| +20
+| +20
+| +20
+|In Britland, DMG +2%
+In Britland, INTEL gained +2%
+
+In Britland, fleet cannon DMG +2%
+|Card Redemption
+|-
+|
+|Sword Cane
+| +100
+| +30
+| +10
+| +30
+| In Britland, DMG +2%
+In Britland, INTEL gained +2%
+
+In Britland, fleet cannon DMG +2%
+|Crafting
+|-
+|
+|Royal Guard Bearskin Hat
+
+| +300
+| +0
+| +10
+| +0
+|In Britland, DMG +2%
+In Britland, fleet cannon DMG +1%
+|Card Redemption
+|-
+|
+|Lee Enfield Rifle 
+| +0
+| +30
+| +0
+| +10
+|In Britland, INTEL gained +2%
+In Britland, fleet cannon DMG +1%
+|Crafting
+|-
+|
+|Gentleman's Staff
+| +0
+| +0
+| +20
+| +0
+|In Britland, INTEL gained +1%
+|Card Redemption
+|-
+|
+|Top Hat
+| +0
+| +20
+| +0
+| +0
+|None
+|Card Redemption
+|}
+</tabber>
+[[Category:Gears]]
+[[Category:Koryeo Exploration Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Britland Exploration Boost]]

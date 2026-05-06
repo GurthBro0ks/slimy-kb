@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=880
+|relics=Gilded Snail,Gilded Monkey
+|rank=orange
+|amount=2
+|category=self
+|description=All ELMT DMG +3%
+}}

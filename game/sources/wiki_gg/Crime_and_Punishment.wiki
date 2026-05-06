@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Crime and Punishment
+|class_id=22309
+|rank=SSS
+|affct=CIV
+|birthday=02-18
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Feb 18, 1866 AD, Dostoevsky's Crime and Punishment was published.<br>Crime and Punishment is a novel by Fyodor Dostoevsky. Crime and Punishment follows the mental anguish and moral dilemmas of Rodion Raskolnikov, an impoverished student in Saint Petersburg who planned to kill an unscrupulous pawnbroker, an old woman who stored money and valuable objects in her flat. Once the deed was done, he found himself racked with confusion, paranoia, and disgust. After struggling with guilt and horror, he confessed to the murders and is sentenced to only eight years of penal servitude. The exquisite writing in the novel portrays the psychological changes before and after Raskolnikov's crime and reveals the suffering of the lower classes of people.
+|fame=77
+|art=73
+|fth=54
+|civ=106
+|tech=52
+|ss1=Snail RUSH +30<br>Angel Minion RUSH +3%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +24%
+|ss2=Snail RUSH +40<br>Angel Minion RUSH +4%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +32%
+|ss3=Snail RUSH +50<br>Angel Minion RUSH +5%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +40%
+|ss4=Snail RUSH +70<br>Angel Minion RUSH +7%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +56%
+|ss5=Snail RUSH +90<br>Angel Minion RUSH +9%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +72%
+|ss6=Snail RUSH +120<br>Angel Minion RUSH +12%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +96%
+|ss7=Snail RUSH +120<br>Angel Minion RUSH +12%<br>In the Demon God Rocket Cabin:<br>> Apocalypse Hall Base Effect +96%<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion ATK +9%
+|skill2=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion DEF +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+|mirage={{Mirage|name=Prison of the Mind|reward={{RewardIconWithLink|Blasphemy Eye, +1|orange}}
+|3name=Sin of Greed|3rec=13.78M|3atk=96750|3defense=64545|3hp=2725324|3weak=16821
+|4name=Sin of Jealousy|4rec=24.10M|4atk=116627|4defense=77807|4hp=3880718|4weak=18380
+|5name=Sin of Arrogance|5rec=34.62M|5atk=138799|5defense=92598|5hp=5408233|5weak=19405
+|6name=Sin of Anger|6rec=46.55M|6atk=163975|6defense=109394|6hp=7327269|6weak=21060
+|Arec=59.84M|Aatk=191986|Adefense=128081|Ahp=9680318|Aweak=23805
+}}}}

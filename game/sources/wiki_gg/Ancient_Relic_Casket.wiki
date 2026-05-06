@@ -1,0 +1,14 @@
+{{RewardIconWithText|Ancient Relic Casket|orange}} use to obtain random resources.
+
+The drop rates are:
+* 20.83% {{RewardIconWithText|Stone}}
+* 20.83% {{RewardIconWithText|Wood}}
+* 12.50% {{RewardIconWithLink|Ancient Coin}}
+* 16.67% {{RewardIconWithText|Green Reagent|green}}
+* 8.33% {{RewardIconWithText|Blue Reagent|blue}}
+* 4.17% {{RewardIconWithText|Purple Reagent|purple}}
+* 13.89% {{RewardIconWithLink|Gear Chest|orange}}
+* 2.08% {{RewardIconWithText|W-Tad|orange}}
+* 0.69% {{RewardIconWithLink|Wish Coin|orange}}
+
+[[Category:Reward Pack]]

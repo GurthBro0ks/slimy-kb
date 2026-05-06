@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Sitar
+|class_id=22463
+|rank=Blue
+|affct=CIV
+|birthday=05-22
+|source=Lottery Machine No.3 (0.25%)
+|description=On May 22, 1960 AD, Sitar master Ravi performed on stage with The Beatles.<br>The Sitar, India's most iconic musical instrument, is renowned for its intricate playing style. It features seven primary strings and eleven sympathetic strings, with a resonating chamber at the end. Master musicians even craft custom sitars with dual resonators. The instrument's complexity can intimidate even the most seasoned players.
+|fame=34
+|art=30
+|fth=26
+|civ=45
+|tech=19
+|ss1=Per 3 basic fusions, Snail RUSH +1<br>Basic Fusions: 150/150
+|ss2=Per 3 basic fusions, Snail RUSH +2<br>Basic Fusions: 150/150
+|ss3=Per 3 basic fusions, Snail RUSH +3<br>Basic Fusions: 150/150
+|ss4=Per 3 basic fusions, Snail RUSH +5<br>Basic Fusions: 150/150
+|ss7=Per 3 basic fusions, Snail RUSH +5<br>Basic Fusions: 150/150<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +1%
+}}

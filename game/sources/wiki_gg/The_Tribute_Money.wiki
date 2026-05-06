@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=The Tribute Money
+|class_id=22540
+|rank=AAA
+|affct=ART
+|birthday=04-05
+|source=Lottery Machine No.3 (0.06%)
+|description=On Apr 5, 1420 AD, Masaccio completed the creation of this fresco.<br>The Tribute Money is one of the masterpieces left by the Italian painter Masaccio in his short life. As the pioneer of Renaissance painting, he used various techniques such as perspective in his works, making his paintings more realistic. As his representative work, this fresco is one of the best, with extremely realistic scenes and an overall sense of reality and grandeur, and its use of perspective and chiaroscuro has made it one of the important works in art history.
+|fame=31
+|art=75
+|fth=45
+|civ=49
+|tech=43
+|ss1=Snail ATK +30<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +24<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Snail ATK +40<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +32<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Snail ATK +50<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +40<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Snail ATK +70<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +56<br>Consumed Recruit Tokens: 5000/5000
+|ss5=Snail ATK +90<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +72<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Snail ATK +90<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +72<br>Consumed Recruit Tokens: 5000/5000<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Desertsanctum skill II.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Cap +15%
+|skill2=[[File:Desertsanctum skill II.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +15%
+}}

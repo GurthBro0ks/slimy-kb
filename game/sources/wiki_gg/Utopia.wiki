@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Utopia
+|class_id=22625
+|rank=SSS
+|affct=FAME
+|birthday=11-24
+|source=Lottery Machine No.3 (0.12%)
+|description=On Nov 24, 1516 AD, Thomas More's Utopia was officially published.<br>Utopia was the first book on European socialist utopianism, written by Thomas More. The book depicts the experiences of the navigator Raphael in Utopia, where all property is publicly owned, people are equal, and the principle of distribution according to need is implemented, forming an almost perfect democratic public ownership model. The author used this book to express his ideal social system. The term "Utopia" ultimately became a symbol of socialist utopianism.
+|fame=108
+|art=58
+|fth=54
+|civ=71
+|tech=71
+|ss1=All Minion DEF +0.6%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per Dorm Decor gained, Snail ATK +6<br>Dorm Decor Gained: 40/40
+|ss2=All Minion DEF +0.8%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per Dorm Decor gained, Snail ATK +7<br>Dorm Decor Gained: 40/40
+|ss3=All Minion DEF +1%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per Dorm Decor gained, Snail ATK +8<br>Dorm Decor Gained: 40/40
+|ss4=All Minion DEF +1.4%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per Dorm Decor gained, Snail ATK +10<br>Dorm Decor Gained: 40/40
+|ss5=All Minion DEF +1.8%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per Dorm Decor gained, Snail ATK +12<br>Dorm Decor Gained: 40/40
+|ss6=All Minion DEF +2.4%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per Dorm Decor gained, Snail ATK +15<br>Dorm Decor Gained: 40/40
+|ss7=All Minion DEF +2.4%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per Dorm Decor gained, Snail ATK +15<br>Dorm Decor Gained: 40/40<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: Troop DMG REDUC +6%
+|skill2=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: This Relic's FAME +15
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, All Minion HARD Stats +3%
+|mirage={{Mirage|name=Utopianism|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Charles Fourier|3rec=140.94M|3atk=404556|3defense=242191|3hp=53322451|3weak=54421
+|4name=Saint-Simon|4rec=168.06M|4atk=464761|4defense=280349|4hp=79832037|4weak=58903
+|5name=Campanella|5rec=206.38M|5atk=545849|5defense=334253|5hp=119931725|5weak=63984
+|6name=Thomas More|6rec=277.32M|6atk=663200|6defense=412055|6hp=205784791|6weak=69666
+|Arec=397.21M|Aatk=827474|Adefense=519917|Ahp=351385508|Aweak=75666
+}}}}

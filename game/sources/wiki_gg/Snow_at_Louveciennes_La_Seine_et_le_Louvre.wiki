@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=582
+|relics=Snow at Louveciennes,La Seine et le Louvre
+|rank=blue
+|amount=2
+|category=self
+|description=Per 100 catalysis, Snail RUSH +5;Catalysis: 5000/5000
+}}

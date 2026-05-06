@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=The Yellow Christ
+|class_id=22827
+|rank=SSS
+|affct=ART
+|source=
+|description=The Yellow Christ is a painting rich in symbolism, featuring a figure of Christ in a yellow robe at the center, with a mysterious and profound gaze that pierces into the depths of the viewer's soul. In this artwork, Gauguin abandons traditional perspective and three-dimensional space, opting instead for a flattened treatment and bold contrasts of color blocks to convey emotion and spiritual meaning. This painting is not only a significant milestone in Gauguin's artistic career but also an indispensable classic in the development of modern Western art.
+|fame=53
+|art=108
+|fth=71
+|civ=67
+|tech=63
+|ss1=Snail Leadership +3<br>Demon Minion RUSH +3%<br>Per Targeted Fusion, Priest-Snail Assistance DMG +24<br>Targeted Fusions: 50/50
+|ss2=Snail Leadership +4<br>Demon Minion RUSH +4%<br>Per Targeted Fusion, Priest-Snail Assistance DMG +32<br>Targeted Fusions: 50/50
+|ss3=Snail Leadership +5<br>Demon Minion RUSH +5%<br>Per Targeted Fusion, Priest-Snail Assistance DMG +40<br>Targeted Fusions: 50/50
+|ss4=Snail Leadership +7<br>Demon Minion RUSH +7%<br>Per Targeted Fusion, Priest-Snail Assistance DMG +56<br>Targeted Fusions: 50/50
+|ss5=Snail Leadership +9<br>Demon Minion RUSH +9%<br>Per Targeted Fusion, Priest-Snail Assistance DMG +72<br>Targeted Fusions: 50/50
+|ss6=Snail Leadership +12<br>Demon Minion RUSH +12%<br>Per Targeted Fusion, Priest-Snail Assistance DMG +96<br>Targeted Fusions: 50/50
+|ss7=Snail Leadership +12<br>Demon Minion RUSH +12%<br>Per Targeted Fusion, Priest-Snail Assistance DMG +96<br>Targeted Fusions: 50/50<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: This Relic's ART +15
+|skill2=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Cap +30%
+|skill3=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Output +30%
+|mirage={{Mirage|name=dungeon@22827_1|reward={{RewardIconWithLink|Iridescent Ticket, +5|orange}}
+|3name=Yellow Monk|3rec=385.74M|3atk=899449|3defense=509598|3hp=218813319|3weak=68297
+|4name=Yellow Nun|4rec=486.51M|4atk=1067464|4defense=600251|4hp=374137013|4weak=74323
+|5name=Yellow Priest|5rec=637.00M|5atk=1402112|5defense=735642|5hp=605166074|5weak=82224
+|6name=Yellow Pope|6rec=866.73M|6atk=2096336|6defense=979077|6hp=1040025135|6weak=92600
+|Arec=1248.05M|Aatk=3174727|Adefense=1354944|Ahp=1911029040|Aweak=104879
+}}}}

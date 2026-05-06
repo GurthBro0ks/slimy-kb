@@ -1,0 +1,15 @@
+{{CargoClone
+|name=God of Prosperity
+|rank=orange
+|cabin=2
+|id=177
+|gene1={race} RUSH +50
+|gene2={race} FAME +50
+|gene3=Resolver: W-tads extracted +9
+|gene4=Per 60 Dragon Minions in battle,
+Troop Wind DMG +6
+|gene5=Dragon Minion Cloning SPD +1.2%
+|gene6=Per 60 Dragon Minions in battle,
+Troop Wind DMG +10
+|gene7=Dragon Minion Cloning SPD +2%
+|}}

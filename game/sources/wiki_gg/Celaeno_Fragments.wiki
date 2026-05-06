@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Celaeno Fragments
+|class_id=22153
+|rank=AA
+|affct=FAITH
+|birthday=10-10
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Dec 10, 1915 AD, Dr Shrew discovered an ancient tablet that contained the Fragments of Taurus.<br>The wisdom in this book originates from the distant star of Taurus. There, the ancient gods who opposed the rulers built a library filled with all knowledge. Humans persecuted by the rulers barged into the library and obtained the knowledge to defeat their persecutors. They recorded their astonishing discovery in English in what is now known as the Taurus manuscript.
+|fame=34
+|art=45
+|fth=67
+|civ=33
+|tech=49
+|ss1=Zombie Minion DEF +2%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +16%
+|ss2=Zombie Minion DEF +3%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +24%
+|ss3=Zombie Minion DEF +4%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +32%
+|ss4=Zombie Minion DEF +6%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +48%
+|ss5=Zombie Minion DEF +8%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +64%
+|ss7=Zombie Minion DEF +8%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +64%<br>In the Demon God Rocket Cabin:<br>> Demon God Matrix Base Effect +56% (Awakened)
+|skill1=[[File:Quary skill II.png|50px]]Place in Quarry: This Relic's FTH +10
+|skill2=[[File:Quary skill II.png|50px]]Place in Quarry: Quarry Max Cap +15%
+}}

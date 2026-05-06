@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Two-headed Serpent
+|class_id=22251
+|rank=SSS
+|affct=ART
+|birthday=11-03
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Nov 3, 1519 AD, the Two-headed Serpent was crafted by an Aztec craftsman.<br>The Two-headed Serpent is an Aztec artifact made from wood and adorned with turquoise mosaic, spondylus, and conch shell. Believed to have been part of a ceremonial costume, this carving was a symbol in Aztec religion, associated with deities like Quetzalcoatl. The piece is a testament to the Aztec's artistic and cultural achievements, as the civilization was destroyed by invaders, leaving behind only their crafts.
+|fame=48
+|art=106
+|fth=70
+|civ=81
+|tech=57
+|ss1=Snail HP +300<br>Mutant Minion ATK +3%<br>In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +24%
+|ss2=Snail HP +400<br>Mutant Minion ATK +4%<br>In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +32%
+|ss3=Snail HP +500<br>Mutant Minion ATK +5%<br>In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +40%
+|ss4=Snail HP +700<br>Mutant Minion ATK +7%<br>In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +56%
+|ss5=Snail HP +900<br>Mutant Minion ATK +9%<br>In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +72%
+|ss6=Snail HP +1200<br>Mutant Minion ATK +12%<br>In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +96%
+|ss7=Snail HP +1200<br>Mutant Minion ATK +12%<br>In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +96%<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop DMG toward heroes +6%
+|skill2=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion ATK +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop Wind DMG +30
+|mirage={{Mirage|name=Aztec Civilization|reward={{RewardIconWithLink|Organ Chest, +200|orange}}
+|3name=Aztec Eagle Warrior|3rec=15.52M|3atk=103033|3defense=68737|3hp=3090451|3weak=17567
+|4name=Aztec Panther Warrior|4rec=27.46M|4atk=123707|4defense=82530|4hp=4414225|4weak=18695
+|5name=Cuauhtemoc|5rec=38.14M|5atk=146230|5defense=97556|5hp=6024265|5weak=19773
+|6name=Moctezuma I|6rec=50.36M|6atk=172001|6defense=114748|6hp=8086384|6weak=21823
+|Arec=64.17M|Aatk=201133|Adefense=134183|Ahp=10631342|Aweak=25763
+}}}}

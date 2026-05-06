@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Socrates' Poison
+|rank=AA
+|affct=CIV
+|birthday=03-29
+|source=Expert Scrolls (0.95%), Fragment Crafting (3.7%), Hellenic Treasure Maps (10%), Lottery Machine (0.08%), Wishing (0.34%)
+|description=On Mar 29, 399 BC, the Athenian philosopher Socrates died from drinking poison hemlock.
+
+Poison hemlock is a lethal drug that causes death. Socrates was sentenced to death for blaspheming the youth of Athens. Although he had the chance to escape, he took the poison hemlock in respect of the Athen laws. On his deathbed, he told Plato to pay a neighbor for eating their chicken.
+
+[Poison hemlock]
+
+Kingdom: Plantae<br>Phylum: Angiosperms<br>Class: dicotyledon<br>Order: Apiales<br>Family: Apiaceae<br>Genus: Conium<br>Species: C. maculatum<br>Symptoms: Rapid heartbeat, muscle atrophy, etc.<br>Cure: Induced vomiting with fecal water
+|fame=38
+|art=34
+|fth=45
+|civ=67
+|tech=44
+|ss1=In explorations, 2x Purple Reagent Drops +0.8%<br>Per 10 CIV-Fungi eaten, Snail HP +20<br>CIV-Fungi Eaten: 500/500
+|ss2=In explorations, 2x Purple Reagent Drops +1.2%<br>Per 10 CIV-Fungi eaten, Snail HP +30<br>CIV-Fungi Eaten: 500/500
+|ss3=In explorations, 2x Purple Reagent Drops +1.6%<br>Per 10 CIV-Fungi eaten, Snail HP +40<br>CIV-Fungi Eaten: 500/500
+|ss4=In explorations, 2x Purple Reagent Drops +2.4%<br>Per 10 CIV-Fungi eaten, Snail HP +60<br>CIV-Fungi Eaten: 500/500
+|ss5=In explorations, 2x Purple Reagent Drops +3.2%<br>Per 10 CIV-Fungi eaten, Snail HP +80<br>CIV-Fungi Eaten: 500/500
+|ss7=In explorations, 2x Purple Reagent Drops +3.2%<br>Per 10 CIV-Fungi eaten, Snail HP +80<br>CIV-Fungi Eaten: 500/500<br>In explorations, 2x Purple Reagent Drops +2.8% (Awakened)
+|skill1={{Skills|fungusfarm|max cap|15}}
+|skill2={{Skills|fungusfarm|civ|10}}
+}}
+
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:HP Boost]]
+[[Category:CIV-Fungi Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:CIV Boost]]
+[[Category:Mutant Gene Cost Reduction]]
+[[Category:DNA Boost]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by DNA Strength]]
+[[Category:Enhanced by CIV Fungi]]
+[[Category:Demonic Tentacle Boost]]

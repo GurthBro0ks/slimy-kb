@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=2
+|relics=Art of Ninja,Sonnet
+|rank=blue
+|amount=2
+|category=self
+|description=Per 200 DNA Strength, Snail DEF +3;DNA Strength: 4000/4000
+}}

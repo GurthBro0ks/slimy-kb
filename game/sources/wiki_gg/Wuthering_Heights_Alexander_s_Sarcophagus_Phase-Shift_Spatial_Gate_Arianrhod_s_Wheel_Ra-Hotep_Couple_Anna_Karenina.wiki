@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=870
+|relics=Wuthering Heights,Alexander's Sarcophagus,Phase-Shift Spatial Gate,Arianrhod's Wheel,Ra-Hotep Couple,Anna Karenina
+|rank=orange
+|amount=6
+|category=self
+|description=All minion skins ATK +120%
+}}

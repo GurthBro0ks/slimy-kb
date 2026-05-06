@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Pinocchio,Musician Figure,Chair of Busby,Quantum Cat
+|rank=blue
+|amount=4
+|category=self
+|description=Per 200 DNA Strength, Snail HP +30<br>DNA Strength: 5,600/5,600
+}}
+[[Category:Self]]

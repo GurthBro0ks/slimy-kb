@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=The Book of Raziel
+|class_id=22460
+|rank=Blue
+|affct=FAITH
+|birthday=01-23
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jan 23, 200000 BC, the Archangel Raziel gave this book to Adam.<br>After being expelled from the Garden of Eden for breaking the taboo, Adam received a book from Archangel Raziel containing the crystallization of his wisdom. This book passed through many hands, with famous figures like Noah and King Solomon possessing it and utilizing its knowledge.
+|fame=25
+|art=31
+|fth=47
+|civ=24
+|tech=27
+|ss1=Dragon Minion DEF +1%
+|ss2=Dragon Minion DEF +2%
+|ss3=Dragon Minion DEF +3%
+|ss4=Dragon Minion DEF +5%
+|ss7=Dragon Minion DEF +5%<br>Dragon Minion DEF +5% (Awakened)
+|skill1=[[File:Offeringegg skill I.png|50px]]Place in Offering Egg: Offering Egg hatching efficiency +5%
+}}

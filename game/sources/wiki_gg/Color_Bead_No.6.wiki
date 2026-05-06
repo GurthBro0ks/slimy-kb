@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Color Bead No.6
+|class_id=20071
+|rank=Green
+|affct=CIV
+|source=
+|description=This magical orb is produced in the mini-game, It Takes 5. The investors repeatedly stressed the importance of making players stay longer in the game, so the devs have no choice but to offer this Relic in the mini-game!
+|fame=18
+|art=13
+|fth=17
+|civ=27
+|tech=15
+|ss1=Lottery Green Orbs turn to Blue by +0.2%
+|ss2=Lottery Green Orbs turn to Blue by +0.4%
+|ss3=Lottery Green Orbs turn to Blue by +0.6%
+|ss4=Lottery Green Orbs turn to Blue by +0.6%
+|ss7=Lottery Green Orbs turn to Blue by +0.6%<br> (Awakened)
+}}

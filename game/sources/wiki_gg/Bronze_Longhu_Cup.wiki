@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Bronze Longhu Cup
+|class_id=22255
+|rank=SSS
+|affct=ART
+|birthday=09-09
+|source=Lottery Machine No.2 (0.11%)
+|description=On Sept 9, 1959 AD, the picture of Bronze Longhu Cup was published in the magazine ANTIQUES.<br>Bronze Longhu Cup is a bronze ware of the Shang Dynasty with an overall height of 5.5 cm and a weight of 26.2 kg. The bronze ware is decorated with exquisite decorations. The refined patterns and lines are the fine products of Shang Dynasty bronzes, and are recognized as national first-class cultural relics!
+|fame=48
+|art=109
+|fth=70
+|civ=74
+|tech=61
+|ss1=W-tads collected from Drill Rig +30<br>Ancient Coin gained from Drill Rig +30<br>Per 500 Fissure Floors, Snail ATK +6<br>Fissure Floor: 15000/15000
+|ss2=W-tads collected from Drill Rig +40<br>Ancient Coin gained from Drill Rig +40<br>Per 500 Fissure Floors, Snail ATK +8<br>Fissure Floor: 15000/15000
+|ss3=W-tads collected from Drill Rig +50<br>Ancient Coin gained from Drill Rig +50<br>Per 500 Fissure Floors, Snail ATK +10<br>Fissure Floor: 15000/15000
+|ss4=W-tads collected from Drill Rig +70<br>Ancient Coin gained from Drill Rig +70<br>Per 500 Fissure Floors, Snail ATK +14<br>Fissure Floor: 15000/15000
+|ss5=W-tads collected from Drill Rig +90<br>Ancient Coin gained from Drill Rig +90<br>Per 500 Fissure Floors, Snail ATK +18<br>Fissure Floor: 15000/15000
+|ss6=W-tads collected from Drill Rig +120<br>Ancient Coin gained from Drill Rig +120<br>Per 500 Fissure Floors, Snail ATK +24<br>Fissure Floor: 15000/15000
+|ss7=W-tads collected from Drill Rig +120<br>Ancient Coin gained from Drill Rig +120<br>Per 500 Fissure Floors, Snail ATK +24<br>Fissure Floor: 15000/15000<br>Ancient Coin gained from Drill Rig +100 (Awakened)
+|skill1=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop DMG +6%
+|skill2=[[File:Minion Sim Skill III.png|50px]]Place in a Minion Sims: In Minion Sims, Troop CRIT DMG +9%
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop RUSH +9%
+|mirage={{Mirage|name=Supreme Dragon and Tiger|reward={{RewardIconWithLink|Dragon Orb, +1|orange}}
+|3name=Cloud-playing Dragon|3rec=84.63M|3atk=244281|3defense=162970|3hp=14995300|3weak=31742
+|4name=Wind-roaring Tiger|4rec=113.42M|4atk=304992|4defense=203472|4hp=21963751|4weak=36670
+|5name=Orb-playing Dragon|5rec=147.70M|5atk=377273|5defense=251693|5hp=31301335|5weak=42531
+|6name=Hunting Tiger|6rec=186.65M|6atk=459420|6defense=306497|6hp=43360731|6weak=49854
+|Arec=232.06M|Aatk=555196|Adefense=370393|Ahp=59615459|Aweak=53168
+}}}}

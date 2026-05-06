@@ -1,0 +1,34 @@
+{{CargoRelic
+|name=Musketeer Mask
+|rank=Blue
+|affct=CIV
+|birthday=07-24
+|source=Lottery Machine (0.36%), Wishing (10.3%), Novice Scroll (5%)
+|description=On Jul 24, AD 1628, d'Artagnan the musketeer put on this mask and started with a bang. 
+
+d'Artagnan was a foreign aristocrat who joined the musketeers of King Louis XIII after coming to Paris. He often wore a mask and formed a strong friendship with three other musketeers. Prime Minister Richelieu wanted to frame the Queen when he found that she was his enemy. d'Artagnan volunteered to go to England with his three friends. Despite facing many difficulties, he finally retrieved the pendant, saved the Queen's reputation, and made his friends famous.
+|fame=22
+|art=29
+|fth=29
+|civ=47
+|tech=27
+|ss1=Per Blue+ Gear equipped, Snail DEF +2
+|ss2=Per Blue+ Gear equipped, Snail DEF +4
+|ss3=Per Blue+ Gear equipped, Snail DEF +6
+|ss4=Per Blue+ Gear equipped, Snail DEF +10
+|ss7=Per Blue+ Gear equipped, Snail DEF +10<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Bharata skill I.png|50px]] Place in Bharata Museum: In Bharata, Snail ATK +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:CIV Relics]]
+[[Category:Blue CIV Relics]]
+[[Category:Gear Boost]]
+[[Category:DEF Boost]]
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:ATK Boost]]
+[[Category:Angel Minion ATK Boost]]
+[[Category:Wonder Fungus Output]]
+[[Category:Frost Drake Boost]]

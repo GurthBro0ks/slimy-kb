@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Battle of San Romano
+|class_id=22655
+|rank=SSS
+|affct=ART
+|birthday=06-24
+|source=
+|description=On Jun 24, 1455 AD, Uccello first attempted to create the Battle of San Romano.<br>The Battle of San Romano is a panel painting created by the Italian artist Uccello. In order to create the perfect painting, he created three versions of the Battle of San Romano, all on wooden panels. In the center of the painting is Niccolò da Mauruzi, the commander of the Florentine army, who is directing soldiers in battle. Behind him is a flag bearer on horseback, and behind the flag bearer are soldiers of different shapes and sizes. Broken weapons, warriors' armor, and dead soldiers litter the bottom of the painting. Uccello used the same subject to study perspective, although his obsession with perspective made the characters less vivid, his research results still had a profound influence on future generations.
+|fame=53
+|art=108
+|fth=70
+|civ=70
+|tech=61
+|ss1=Demon Minion DEF +3%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +3<br>Desert Sanctum Rating Pts: 100000/100000
+|ss2=Demon Minion DEF +4%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +4<br>Desert Sanctum Rating Pts: 100000/100000
+|ss3=Demon Minion DEF +5%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +5<br>Desert Sanctum Rating Pts: 100000/100000
+|ss4=Demon Minion DEF +7%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +7<br>Desert Sanctum Rating Pts: 100000/100000
+|ss5=Demon Minion DEF +9%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +9<br>Desert Sanctum Rating Pts: 100000/100000
+|ss6=Demon Minion DEF +12%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +12<br>Desert Sanctum Rating Pts: 100000/100000
+|ss7=Demon Minion DEF +12%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +12<br>Desert Sanctum Rating Pts: 100000/100000<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: This Relic's ART +15
+|skill2=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Cap +30%
+|skill3=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +30%
+|mirage={{Mirage|name=Florentine Legion|reward={{RewardIconWithLink|Recruit Token, +10|orange}}
+|3name=Florence Footman|3rec=111.37M|3atk=339796|3defense=200582|3hp=31977544|3weak=42267
+|4name=Florence Cavalryman|4rec=124.82M|4atk=329024|4defense=219505|4hp=24924107|4weak=45923
+|5name=Florence Flag Bearer|5rec=163.82M|5atk=411286|5defense=274385|5hp=36399295|5weak=50060
+|6name=Nicollo|6rec=209.69M|6atk=508011|6defense=338914|6hp=51548743|6weak=54663
+|Arec=277.64M|Aatk=618079|Adefense=412345|Ahp=71218158|Aweak=59818
+}}}}

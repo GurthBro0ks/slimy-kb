@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=HF Pacemaker
+|type=Common
+|rank=blue
+|id=10815
+|idx=16
+|description=This is an electronic therapeutic device implanted in the body that stimulates the heart muscle by generating electrical impulses, causing the heart to dilate and contract!
+|skill=
+|hp=1526
+|def=96
+|atk=76
+|rush=93
+|gene1=When in Mecha Form:
+> Gain +2% Tool Chests in explorations
+|gene2=The Time Machine: +3% chance to drop
+Time Chests
+|gene3=In explorations, {race} HP +200
+|gene7=When in Mecha Form:
+> Gain +2% Tool Chests in explorations (Awakened)
+|}}

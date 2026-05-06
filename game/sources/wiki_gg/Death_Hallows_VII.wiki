@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Death Hallows VII
+|class_id=20202
+|rank=Green
+|affct=FAITH
+|source=
+|description=This object was created by a dark sorcerer. To evade the inevitable death, the sorcerer decided to cheat Death. So he used his lifetime knowledge to create several Death Hallows! It is said that the complete collection can put Death down.
+|fame=20
+|art=16
+|fth=29
+|civ=14
+|tech=11
+|ss1=Soul Offering SPD +0.4%<br>Against the Dark Lord, Snail ATK +5k<br>Against the Dark Lord, Snail RUSH +5k<br>Against the Dark Lord, DMG +2000%
+|ss2=Soul Offering SPD +0.8%<br>Against the Dark Lord, Snail ATK +5k<br>Against the Dark Lord, Snail RUSH +5k<br>Against the Dark Lord, DMG +2000%
+|ss3=Soul Offering SPD +1.2%<br>Against the Dark Lord, Snail ATK +5k<br>Against the Dark Lord, Snail RUSH +5k<br>Against the Dark Lord, DMG +2000%
+|ss4=Soul Offering SPD +1.2%<br>Against the Dark Lord, Snail ATK +5k<br>Against the Dark Lord, Snail RUSH +5k<br>Against the Dark Lord, DMG +2000%
+|ss7=Soul Offering SPD +1.2%<br>Against the Dark Lord, Snail ATK +5k<br>Against the Dark Lord, Snail RUSH +5k<br>Against the Dark Lord, DMG +2000%<br> (Awakened)
+}}

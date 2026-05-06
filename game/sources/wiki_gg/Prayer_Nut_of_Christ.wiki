@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Prayer Nut of Christ
+|class_id=22832
+|rank=SS
+|affct=FAITH
+|source=
+|description= The Prayer Nut of the Passion of Christ is a religious artifact made in the early 16th century, possessing high artistic value and religious significance. Unlike common prayer beads, the prayer nut is a finely carved object that can be opened, with the interior depicting religious scenes related to the Passion of Christ, even including biblical inscriptions. These prayer nuts are usually made of boxwood, with the exterior carved with exquisite patterns, initially used as an aid for religious prayer, later becoming objects of collection for nobles and the wealthy. This prayer nut reflects the deep religious beliefs of the Middle Ages and showcases the high level of carving craftsmanship and artistry of the time.
+|fame=56
+|art=72
+|fth=104
+|civ=45
+|tech=70
+|ss1=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>B-tad rewards from offering +0.8%<br>Per Altar God Descent, Snail ATK +2<br>Per Altar God Descent, Snail RUSH +2<br>Gods Descended: 30/30
+|ss2=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>B-tad rewards from offering +1.2%<br>Per Altar God Descent, Snail ATK +3<br>Per Altar God Descent, Snail RUSH +3<br>Gods Descended: 30/30
+|ss3=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>B-tad rewards from offering +1.6%<br>Per Altar God Descent, Snail ATK +4<br>Per Altar God Descent, Snail RUSH +4<br>Gods Descended: 30/30
+|ss4=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>B-tad rewards from offering +2.4%<br>Per Altar God Descent, Snail ATK +6<br>Per Altar God Descent, Snail RUSH +6<br>Gods Descended: 30/30
+|ss5=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>B-tad rewards from offering +3.2%<br>Per Altar God Descent, Snail ATK +8<br>Per Altar God Descent, Snail RUSH +8<br>Gods Descended: 30/30
+|ss6=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>B-tad rewards from offering +4.4%<br>Per Altar God Descent, Snail ATK +11<br>Per Altar God Descent, Snail RUSH +11<br>Gods Descended: 30/30
+|ss7=Chance to trigger Exclusive Altar God Descent; the 1st trigger guarantees a Red Envelope<br>B-tad rewards from offering +4.4%<br>Per Altar God Descent, Snail ATK +11<br>Per Altar God Descent, Snail RUSH +11<br>Gods Descended: 30/30<br>Exclusive Altar Gods are more powerful with a chance to trigger 5-Flame Descent (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: B-tads gained +3000
+|skill2=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: This Relic's FTH +15
+|skill3=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: Green rewards from this egg turn Blue by 6%
+|mirage={{Mirage|name=Nut Family|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Nut Wall|3rec=3.07M|3atk=43182|3defense=28276|3hp=554318|3weak=10469
+|4name=Explosive Nut|4rec=7.06M|4atk=68794|4defense=45047|4hp=1207000|4weak=13782
+|5name=High Nut|5rec=14.89M|5atk=102719|5defense=67261|5hp=2435927|5weak=18360
+|Arec=36.28M|Aatk=144996|Adefense=94944|Ahp=4575990|Aweak=23821
+}}}}

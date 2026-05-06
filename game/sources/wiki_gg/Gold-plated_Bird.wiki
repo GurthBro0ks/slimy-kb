@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Gold-plated Bird
+|class_id=21837
+|rank=SSS
+|affct=TECH
+|source=
+|description=Crafted from alloy and coated with gold, the Gold-plated Bird statue is a remarkable piece of craftsmanship. It was produced alongside the Golden Bird statue made of real gold, faithfully replicating its appearance on a one-to-one scale. While it may lack some commemorative value, it still stands as an outstanding work of art!
+|fame=55
+|art=66
+|fth=59
+|civ=72
+|tech=110
+|ss1=Snail Leadership +6<br>Per 3 Orange Relics gained, Snail ATK +18<br>Per 3 Orange Relics gained, Snail DEF +18<br>Orange Relics: 60/60
+|ss2=Snail Leadership +7<br>Per 3 Orange Relics gained, Snail ATK +22<br>Per 3 Orange Relics gained, Snail DEF +22<br>Orange Relics: 60/60
+|ss3=Snail Leadership +8<br>Per 3 Orange Relics gained, Snail ATK +26<br>Per 3 Orange Relics gained, Snail DEF +26<br>Orange Relics: 60/60
+|ss4=Snail Leadership +10<br>Per 3 Orange Relics gained, Snail ATK +34<br>Per 3 Orange Relics gained, Snail DEF +34<br>Orange Relics: 60/60
+|ss5=Snail Leadership +12<br>Per 3 Orange Relics gained, Snail ATK +42<br>Per 3 Orange Relics gained, Snail DEF +42<br>Orange Relics: 60/60
+|ss6=Snail Leadership +15<br>Per 3 Orange Relics gained, Snail ATK +54<br>Per 3 Orange Relics gained, Snail DEF +54<br>Orange Relics: 60/60
+|ss7=Snail Leadership +15<br>Per 3 Orange Relics gained, Snail ATK +54<br>Per 3 Orange Relics gained, Snail DEF +54<br>Orange Relics: 60/60<br>Snail Leadership +10 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, INTEL gained +15%
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, All ELMT DMG +15%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x Orange Card Drops +15%
+|mirage={{Mirage|name=Shining Bird|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Lead-plated Bird|3rec=0.38M|3atk=9869|3defense=6598|3hp=35564|3weak=2936
+|4name=Iron-plated Bird|4rec=0.83M|4atk=18564|4defense=12411|4hp=126062|4weak=4594
+|5name=Bronze-plated Bird|5rec=1.77M|5atk=30548|5defense=20422|5hp=345083|5weak=7134
+|6name=Silver-plated Bird|6rec=3.58M|6atk=46188|6defense=30878|6hp=713665|6weak=10213
+|Arec=6.78M|Aatk=65904|Adefense=44058|Ahp=1328171|Aweak=12446
+}}}}

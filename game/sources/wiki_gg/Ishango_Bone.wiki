@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Ishango Bone
+|class_id=22909
+|rank=SSS
+|affct=TECH
+|source=
+|description=The Ishango Bone is a dark brown baboon fibula discovered near the Semliki River, dating back to the early Paleolithic era, with one end embedded with a sharp piece of quartz used for carving the bone itself. The Ishango Bone demonstrates early human recognition of mathematical concepts and even some application abilities. The notches on the bone suggest that it may have been invented by Paleolithic people, representing some basic mathematical operations. The discovery of the Ishango Bone provides important insights for anthropological research.
+|fame=70
+|art=52
+|fth=68
+|civ=66
+|tech=106
+|ss1=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +3<br>All Dragon Minion Skins, HARD Stats +30%<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +9
+|ss2=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +6<br>All Dragon Minion Skins, HARD Stats +40%<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +18
+|ss3=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +9<br>All Dragon Minion Skins, HARD Stats +50%<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +27
+|ss4=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +15<br>All Dragon Minion Skins, HARD Stats +70%<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +45
+|ss5=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +21<br>All Dragon Minion Skins, HARD Stats +90%<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +63
+|ss6=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +30<br>All Dragon Minion Skins, HARD Stats +120%<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +90
+|ss7=Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +30<br>All Dragon Minion Skins, HARD Stats +120%<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +90<br>Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: This Relic's TECH +15
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Snail HP +6000
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: B-tad output +3000
+}}

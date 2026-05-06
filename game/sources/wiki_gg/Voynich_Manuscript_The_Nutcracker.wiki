@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=128
+|relics=Voynich Manuscript,The Nutcracker
+|rank=purple
+|amount=2
+|category=self
+|description=In explorations, Zombie Cells gained +6%
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Cupid's Arrow
+|class_id=20434
+|rank=Green
+|affct=FAME
+|source=
+|description=There are two types of Cupid's arrow: gold and lead. If you're shot by the gold arrow, you're destined for a sweet romance, but if you're shot by the lead arrow, it dooms you to lovesickness. However, one too much mischief caused the angry gods to confiscate the lead arrow, so now only this gold arrow is left.
+|fame=30
+|art=15
+|fth=15
+|civ=18
+|tech=12
+|ss1=Per 6 Cute Costume Stars, Snail DEF +1<br>Cute Stars: 192/192
+|ss2=Per 6 Cute Costume Stars, Snail DEF +2<br>Cute Stars: 192/192
+|ss3=Per 6 Cute Costume Stars, Snail DEF +3<br>Cute Stars: 192/192
+|ss4=Per 6 Cute Costume Stars, Snail DEF +3<br>Cute Stars: 192/192
+|ss7=Per 6 Cute Costume Stars, Snail DEF +3<br>Cute Stars: 192/192<br> (Awakened)
+}}

@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Seiryuu
+|rank=orange
+|cabin=2
+|id=150
+|gene1={race} RUSH +50
+|gene2={race} ART +50
+|gene3=Wind DMG +30
+|gene4=Per 60 Dragon Minions in battle,
+Troop Wind DMG +6
+|gene5=Dragon Minion Recovery SPD +1.5%
+|gene6=Per 60 Dragon Minions in battle,
+Troop Wind DMG +10
+|gene7=Dragon Minion Recovery SPD +2.5%
+|}}

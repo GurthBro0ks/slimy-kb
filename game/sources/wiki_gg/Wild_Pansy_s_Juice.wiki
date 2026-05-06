@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Wild Pansy's Juice
+|class_id=22164
+|rank=AAA
+|affct=FAITH
+|birthday=02-15
+|source=
+|description=On Feb 15, 506 BC, Fairy King Oberon created the Pansy Juice.<br>The Wild Pansy's Juice is a treasure of the Fairy King Oberon that has the power to make people fall in love with the first person they see upon waking. When Oberon quarreled with the goblin queen Titania, he dripped the juice in her eye, causing her to become infatuated with a donkey-headed man. After a series of comedic events, Oberon ended the curse and Titania, thoroughly ashamed, reunited with her husband.
+|fame=39
+|art=51
+|fth=73
+|civ=36
+|tech=44
+|ss1=Refine +1 Green Gaia Material +3%<br>Per 30 Minions in battle:<br>> Troop HP +120
+|ss2=Refine +1 Green Gaia Material +4%<br>Per 30 Minions in battle:<br>> Troop HP +160
+|ss3=Refine +1 Green Gaia Material +5%<br>Per 30 Minions in battle:<br>> Troop HP +200
+|ss4=Refine +1 Green Gaia Material +7%<br>Per 30 Minions in battle:<br>> Troop HP +280
+|ss5=Refine +1 Green Gaia Material +9%<br>Per 30 Minions in battle:<br>> Troop HP +360
+|ss7=Refine +1 Green Gaia Material +9%<br>Per 30 Minions in battle:<br>> Troop HP +360<br>Per 30 Minions in battle:<br>> Troop HP +280 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, All Minion ATK +3%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FTH +10
+}}

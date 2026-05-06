@@ -1,0 +1,120 @@
+= Pistil =
+Icons for [[Maneater]] Pistils displayed using [[:Template:RewardIconPistilWithText]].
+
+== Green Pistil ==
+{{RewardIconPistilWithText|Green|NoStat|Green}}
+* {{RewardIconPistilWithText|Green|HP|Green}} - Snail HP +10 permanently
+* {{RewardIconPistilWithText|Green|ATK|Green}} - Snail ATK +1 permanently
+* {{RewardIconPistilWithText|Green|DEF|Green}} - Snail DEF +1 permanently
+* {{RewardIconPistilWithText|Green|RUSH|Green}} - Snail RUSH +1 permanently
+* {{RewardIconPistilWithText|Green|FAME|Green}} - FAME +1 permanently
+* {{RewardIconPistilWithText|Green|ART|Green}} - ART +1 permanently
+* {{RewardIconPistilWithText|Green|FTH|Green}} - FTH +1 permanently
+* {{RewardIconPistilWithText|Green|CIV|Green}} - CIV +1 permanently
+* {{RewardIconPistilWithText|Green|TECH|Green}} - TECH +1 permanently
+
+== Blue Pistil ==
+{{RewardIconPistilWithText|Blue|NoStat|Blue}}
+* {{RewardIconPistilWithText|Blue|HP|Blue}} - Snail HP +20 permanently
+* {{RewardIconPistilWithText|Blue|ATK|Blue}} - Snail ATK +2 permanently
+* {{RewardIconPistilWithText|Blue|DEF|Blue}} - Snail DEF +2 permanently
+* {{RewardIconPistilWithText|Blue|RUSH|Blue}} - Snail RUSH +2 permanently
+* {{RewardIconPistilWithText|Blue|FAME|Blue}} - FAME +2 permanently
+* {{RewardIconPistilWithText|Blue|ART|Blue}} - ART +2 permanently
+* {{RewardIconPistilWithText|Blue|FTH|Blue}} - FTH +2 permanently
+* {{RewardIconPistilWithText|Blue|CIV|Blue}} - CIV +2 permanently
+* {{RewardIconPistilWithText|Blue|TECH|Blue}} - TECH +2 permanently
+
+== Purple Pistil ==
+{{RewardIconPistilWithText|Purple|NoStat|Purple}}
+* {{RewardIconPistilWithText|Purple|HP|Purple}} - Snail HP +30 permanently
+* {{RewardIconPistilWithText|Purple|ATK|Purple}} - Snail ATK +3 permanently
+* {{RewardIconPistilWithText|Purple|DEF|Purple}} - Snail DEF +3 permanently
+* {{RewardIconPistilWithText|Purple|RUSH|Purple}} - Snail RUSH +3 permanently
+* {{RewardIconPistilWithText|Purple|FAME|Purple}} - FAME +3 permanently
+* {{RewardIconPistilWithText|Purple|ART|Purple}} - ART +3 permanently
+* {{RewardIconPistilWithText|Purple|FTH|Purple}} - FTH +3 permanently
+* {{RewardIconPistilWithText|Purple|CIV|Purple}} - CIV +3 permanently
+* {{RewardIconPistilWithText|Purple|TECH|Purple}} - TECH +3 permanently
+
+== Orange Pistil ==
+{{RewardIconPistilWithText|Orange|NoStat|Orange}}
+* {{RewardIconPistilWithText|Orange|HP|Orange}} - Snail HP +50 permanently
+* {{RewardIconPistilWithText|Orange|ATK|Orange}} - Snail ATK +5 permanently
+* {{RewardIconPistilWithText|Orange|DEF|Orange}} - Snail DEF +5 permanently
+* {{RewardIconPistilWithText|Orange|RUSH|Orange}} - Snail RUSH +5 permanently
+* {{RewardIconPistilWithText|Orange|FAME|Orange}} - FAME +5 permanently
+* {{RewardIconPistilWithText|Orange|ART|Orange}} - ART +5 permanently
+* {{RewardIconPistilWithText|Orange|FTH|Orange}} - FTH +5 permanently
+* {{RewardIconPistilWithText|Orange|CIV|Orange}} - CIV +5 permanently
+* {{RewardIconPistilWithText|Orange|TECH|Orange}} - TECH +5 permanently
+
+= Icon Examples =
+Icons for [[Maneater]] Pistils displayed using [[:Template:IconExampleRowWithText]].
+
+== Green Pistil ==
+{{RewardIconPistilWithText|Green|NoStat|Green}}
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Pistil Green}}
+{{IconExampleRowWithText|Pistil Green HP}}||Snail HP +10 permanently
+{{IconExampleRowWithText|Pistil Green ATK}}||Snail ATK +1 permanently
+{{IconExampleRowWithText|Pistil Green DEF}}||Snail DEF +1 permanently
+{{IconExampleRowWithText|Pistil Green RUSH}}||Snail RUSH +1 permanently
+{{IconExampleRowWithText|Pistil Green FAME}}||FAME +1 permanently
+{{IconExampleRowWithText|Pistil Green ART}}||ART +1 permanently
+{{IconExampleRowWithText|Pistil Green FTH}}||FTH +1 permanently
+{{IconExampleRowWithText|Pistil Green CIV}}||CIV +1 permanently
+{{IconExampleRowWithText|Pistil Green TECH}}||TECH +1 permanently
+|}
+
+== Blue Pistil ==
+{{RewardIconPistilWithText|Blue|NoStat|Blue}}
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Pistil Blue}}
+{{IconExampleRowWithText|Pistil Blue HP}}||Snail HP +20 permanently
+{{IconExampleRowWithText|Pistil Blue ATK}}||Snail ATK +2 permanently
+{{IconExampleRowWithText|Pistil Blue DEF}}||Snail DEF +2 permanently
+{{IconExampleRowWithText|Pistil Blue RUSH}}||Snail RUSH +2 permanently
+{{IconExampleRowWithText|Pistil Blue FAME}}||FAME +2 permanently
+{{IconExampleRowWithText|Pistil Blue ART}}||ART +2 permanently
+{{IconExampleRowWithText|Pistil Blue FTH}}||FTH +2 permanently
+{{IconExampleRowWithText|Pistil Blue CIV}}||CIV +2 permanently
+{{IconExampleRowWithText|Pistil Blue TECH}}||TECH +2 permanently
+|}
+
+== Purple Pistil ==
+{{RewardIconPistilWithText|Purple|NoStat|Purple}}
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Pistil Purple}}
+{{IconExampleRowWithText|Pistil Purple HP}}||Snail HP +30 permanently
+{{IconExampleRowWithText|Pistil Purple ATK}}||Snail ATK +3 permanently
+{{IconExampleRowWithText|Pistil Purple DEF}}||Snail DEF +3 permanently
+{{IconExampleRowWithText|Pistil Purple RUSH}}||Snail RUSH +3 permanently
+{{IconExampleRowWithText|Pistil Purple FAME}}||FAME +3 permanently
+{{IconExampleRowWithText|Pistil Purple ART}}||ART +3 permanently
+{{IconExampleRowWithText|Pistil Purple FTH}}||FTH +3 permanently
+{{IconExampleRowWithText|Pistil Purple CIV}}||CIV +3 permanently
+{{IconExampleRowWithText|Pistil Purple TECH}}||TECH +3 permanently
+|}
+
+== Orange Pistil ==
+{{RewardIconPistilWithText|Orange|NoStat|Orange}}
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Pistil Orange}}
+{{IconExampleRowWithText|Pistil Orange HP}}||Snail HP +50 permanently
+{{IconExampleRowWithText|Pistil Orange ATK}}||Snail ATK +5 permanently
+{{IconExampleRowWithText|Pistil Orange DEF}}||Snail DEF +5 permanently
+{{IconExampleRowWithText|Pistil Orange RUSH}}||Snail RUSH +5 permanently
+{{IconExampleRowWithText|Pistil Orange FAME}}||FAME +5 permanently
+{{IconExampleRowWithText|Pistil Orange ART}}||ART +5 permanently
+{{IconExampleRowWithText|Pistil Orange FTH}}||FTH +5 permanently
+{{IconExampleRowWithText|Pistil Orange CIV}}||CIV +5 permanently
+{{IconExampleRowWithText|Pistil Orange TECH}}||TECH +5 permanently
+|}
+
+[[Category:Icons]]
+[[Category:Maneater]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Fields Medal
+|class_id=20132
+|rank=Green
+|affct=ART
+|source=
+|description=The Fields Medal is awarded every four years at the Congress of the International Mathematical Union. Candidates for the award are selected by a special group that could reward work that is already done or to be done in the future. The union may award up to four medals per session.
+|fame=13
+|art=31
+|fth=16
+|civ=18
+|tech=12
+|ss1=Per 20 Research Manuals used, Snail ATK +4<br>Research Manuals Used: 300/300
+|ss2=Per 20 Research Manuals used, Snail ATK +8<br>Research Manuals Used: 300/300
+|ss3=Per 20 Research Manuals used, Snail ATK +12<br>Research Manuals Used: 300/300
+|ss4=Per 20 Research Manuals used, Snail ATK +12<br>Research Manuals Used: 300/300
+|ss7=Per 20 Research Manuals used, Snail ATK +12<br>Research Manuals Used: 300/300<br> (Awakened)
+}}

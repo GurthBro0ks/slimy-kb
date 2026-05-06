@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Collection List
+|class_id=20107
+|rank=Green
+|affct=CIV
+|source=
+|description=This list contains detailed records of the museum's collections. It helps visitors locate relics easily and assists curators in organizing and managing exhibits more efficiently.
+|fame=14
+|art=12
+|fth=16
+|civ=33
+|tech=15
+|ss1=Per Special Tourist unlocked, Snail ATK +2<br>Per Special Tourist unlocked, Snail DEF +2<br>Special Tourists unlocked: 20/20
+|ss2=Per Special Tourist unlocked, Snail ATK +3<br>Per Special Tourist unlocked, Snail DEF +3<br>Special Tourists unlocked: 20/20
+|ss3=Per Special Tourist unlocked, Snail ATK +4<br>Per Special Tourist unlocked, Snail DEF +4<br>Special Tourists unlocked: 20/20
+|ss4=Per Special Tourist unlocked, Snail ATK +4<br>Per Special Tourist unlocked, Snail DEF +4<br>Special Tourists unlocked: 20/20
+|ss7=Per Special Tourist unlocked, Snail ATK +4<br>Per Special Tourist unlocked, Snail DEF +4<br>Special Tourists unlocked: 20/20<br> (Awakened)
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Gemologist Certificate
+|class_id=20160
+|rank=Green
+|affct=ART
+|source=
+|description=This certificate is the proof of one's master-level gem identification skills, and it can only be issued after one passes extremely strict assessments and gets the approval from the experts in the industry. Those who hold this certificate are given the authority of gem-pricing and gem-trade across the world!
+|fame=15
+|art=31
+|fth=14
+|civ=16
+|tech=14
+|ss1=New Mirage Gem added to Relic Forge<br>Per Gem Resonance LVL, Snail ATK +2<br>Gem Resonance LVL: 80/80
+|ss2=New Mirage Gem added to Relic Forge<br>Per Gem Resonance LVL, Snail ATK +4<br>Gem Resonance LVL: 80/80
+|ss3=New Mirage Gem added to Relic Forge<br>Per Gem Resonance LVL, Snail ATK +6<br>Gem Resonance LVL: 80/80
+|ss4=New Mirage Gem added to Relic Forge<br>Per Gem Resonance LVL, Snail ATK +6<br>Gem Resonance LVL: 80/80
+|ss7=New Mirage Gem added to Relic Forge<br>Per Gem Resonance LVL, Snail ATK +6<br>Gem Resonance LVL: 80/80<br> (Awakened)
+}}

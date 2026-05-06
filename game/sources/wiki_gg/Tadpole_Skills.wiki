@@ -1,0 +1,117 @@
+__NOINDEX__
+==Blue Skills==
+{| class="wikitable"
+!Relic
+!Skill Icon
+!Skill
+{{CargoRelicSkills
+|relic=Bach Concerto
+|skill=Place in Tadpole Pond: Generate W-tads by +5% 
+|category=Tadpolepond
+|level=1}}
+{{CargoRelicSkills
+|relic=Demoiselles d'Avignon
+|skill=Place in Tadpole Pond: This Relic's ART +5 
+|category=Tadpolepond
+|level=1}}
+{{CargoRelicSkills
+|relic=Gregor Specimen
+|skill=Place in Tadpole Pond: B-tad Output +5% 
+|category=Tadpolepond
+|level=1}}
+{{CargoRelicSkills
+|relic=Sleeping Gypsy
+|skill=Place in Tadpole Pond: Max Cap +5% 
+|category=Tadpolepond
+|level=1}}
+{{CargoRelicSkills
+|relic=The Walking Man
+|skill=Place in Tadpole Pond: B-tad Output +5% 
+|category=Tadpolepond
+|level=1}}
+|}
+
+==Purple Skills==
+{| class="wikitable"
+!Relic
+!Skill Icon
+!Skill
+{{CargoRelicSkills
+|relic=Boy with Goose
+|skill=Place in Tadpole Pond: This Relic's ART +10 
+|category=Tadpolepond
+|level=2}}
+
+{{CargoRelicSkills
+|relic=Haulers on Volga
+|skill=Place in Tadpole Pond: Generate W-tads by +15% 
+|category=Tadpolepond
+|level=2}}
+
+{{CargoRelicSkills
+|relic=Haulers on Volga
+|skill=Place in Tadpole Pond: This Relic's ART +10 
+|category=Tadpolepond
+|level=2}}
+
+{{CargoRelicSkills
+|relic=Manneken Pis
+|skill=Place in Tadpole Pond: B-tad Output +15% 
+|category=Tadpolepond
+|level=2}}
+
+{{CargoRelicSkills
+|relic=Manneken Pis
+|skill=Place in Tadpole Pond: Max Cap +15% 
+|category=Tadpolepond
+|level=2}}
+
+{{CargoRelicSkills
+|relic=Marquis Bell
+|skill=Place in Tadpole Pond: Max Cap +15% 
+|category=Tadpolepond
+|level=2}}
+
+{{CargoRelicSkills
+|relic=Marquis Bell
+|skill=Place in Tadpole Pond: Generate W-tads by +15% 
+|category=Tadpolepond
+|level=2}}
+
+{{CargoRelicSkills
+|relic=Mermaid Statue
+|skill=Place in Tadpole Pond: B-tad Output +15% 
+|category=Tadpolepond
+|level=2}}
+
+{{CargoRelicSkills
+|relic=Mermaid Statue
+|skill=Place in Tadpole Pond: Max Cap +15% 
+|category=Tadpolepond
+|level=2}}
+
+{{CargoRelicSkills
+|relic=Observatory
+|skill=Place in Tadpole Pond: This Relic's TECH +10 
+|category=Tadpolepond
+|level=2}}
+
+{{CargoRelicSkills
+|relic=Peacock Throne
+|skill=Place in Tadpole Pond: B-tad Output +15% 
+|category=Tadpolepond
+|level=2}}
+
+{{CargoRelicSkills
+|relic=Peacock Throne
+|skill=Place in Tadpole Pond: This Relic's ART +10 
+|category=Tadpolepond
+|level=2}}
+|}
+
+==Further Tester Skills - To Be Removed==
+{{CargoRelicSkills
+|relic=Observatory
+|skill=Place in Cathay Museum: Tech Checks -10
+|category=Cathay
+|level=2}}

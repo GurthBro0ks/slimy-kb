@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=907
+|relics=Ordinary Casket,Mysterious Relic
+|rank=orange
+|amount=2
+|category=self
+|description=Snail Leadership +7
+}}

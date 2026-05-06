@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Iliad & Odyssey
+|class_id=21512
+|rank=SSS
+|affct=CIV
+|birthday=03-02
+|source=
+|description=On Mar 2, 800 BC, the Hero's Epic of ancient Greece, which was the foundation of Western classical culture, was finalized.<br>Homer, the blind poet from ancient Greece, wrote an epic poem based on popular folk songs. "Iliad", the first part of the poem, contains 24 volumes and 15000 lines. It mainly tells the story of how the Greek coalition used wooden horses to invade Troy. "Odyssey", the second part of the poem, contains 24 volumes and 12000 lines. It mainly tells the story of how Odysseus, the King of Ithaca, drifting on sea for 10 years after the Trojan War. This poem has been a major inspiration for Western literature.
+[Famous Quotes]
+There is a time for many words, and there is also a time for sleep. A hunter of shadow, himself a shade. Everything is more beautiful because we're doomed.
+|fame=68
+|art=60
+|fth=68
+|civ=108
+|tech=58
+|ss1=When offering, 2x Neutral Chest Drops +1.5%<br>Per 10 Daily Packs bought, Snail ATK +9<br>Per 10 Daily Packs bought, Snail RUSH +9<br>Daily Packs Purchased: 360/360
+|ss2=When offering, 2x Neutral Chest Drops +2%<br>Per 10 Daily Packs bought, Snail ATK +10<br>Per 10 Daily Packs bought, Snail RUSH +10<br>Daily Packs Purchased: 360/360
+|ss3=When offering, 2x Neutral Chest Drops +2.5%<br>Per 10 Daily Packs bought, Snail ATK +11<br>Per 10 Daily Packs bought, Snail RUSH +11<br>Daily Packs Purchased: 360/360
+|ss4=When offering, 2x Neutral Chest Drops +3.5%<br>Per 10 Daily Packs bought, Snail ATK +13<br>Per 10 Daily Packs bought, Snail RUSH +13<br>Daily Packs Purchased: 360/360
+|ss5=When offering, 2x Neutral Chest Drops +4.5%<br>Per 10 Daily Packs bought, Snail ATK +15<br>Per 10 Daily Packs bought, Snail RUSH +15<br>Daily Packs Purchased: 360/360
+|ss6=When offering, 2x Neutral Chest Drops +6%<br>Per 10 Daily Packs bought, Snail ATK +18<br>Per 10 Daily Packs bought, Snail RUSH +18<br>Daily Packs Purchased: 360/360
+|ss7=When offering, 2x Neutral Chest Drops +6%<br>Per 10 Daily Packs bought, Snail ATK +18<br>Per 10 Daily Packs bought, Snail RUSH +18<br>Daily Packs Purchased: 360/360<br>When offering, 2x Neutral Chest Drops +4% (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Orange Card Drops +15%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Snail ATK +600
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: Medal Output +30
+|mirage={{Mirage|name=Heroic Stories|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=Iliad|3rec=5.22M|3atk=57421|3defense=38145|3hp=1015344|3weak=11893
+|4name=Odyssey|4rec=9.15M|4atk=78055|4defense=51852|4hp=1773832|4weak=13387
+|5name=Aeneid|5rec=15.27M|5atk=102604|5defense=68160|5hp=2882859|5weak=16924
+|6name=Edda|6rec=30.77M|6atk=131249|6defense=87189|6hp=4596554|6weak=18568
+|Arec=46.54M|Aatk=164642|Adefense=109372|Ahp=7072246|Aweak=19834
+}}}}

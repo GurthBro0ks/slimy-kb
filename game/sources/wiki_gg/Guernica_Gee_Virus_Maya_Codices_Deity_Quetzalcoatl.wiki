@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=145
+|relics=Guernica,Gee Virus,Maya Codices,Deity Quetzalcoatl
+|rank=purple
+|amount=4
+|category=self
+|description=In explorations, B-tads gained +3.2%
+}}

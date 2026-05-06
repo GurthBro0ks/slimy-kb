@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Learning Device
+|class_id=20386
+|rank=Green
+|affct=TECH
+|source=
+|description=A new device developed by the Animal Taming Association. It is said to extract the training results of the wearer and provide them to other animals. However, due to a low conversion rate, it is currently impractical and can only be worn as a cute decorative item.
+|fame=14
+|art=15
+|fth=17
+|civ=14
+|tech=30
+|ss1=Per 5 Gene LVLs, Snail ATK +1<br>Gene LVLs Researched: 500/500
+|ss2=Per 5 Gene LVLs, Snail ATK +2<br>Gene LVLs Researched: 500/500
+|ss3=Per 5 Gene LVLs, Snail ATK +3<br>Gene LVLs Researched: 500/500
+|ss4=Per 5 Gene LVLs, Snail ATK +3<br>Gene LVLs Researched: 500/500
+|ss7=Per 5 Gene LVLs, Snail ATK +3<br>Gene LVLs Researched: 500/500<br> (Awakened)
+}}

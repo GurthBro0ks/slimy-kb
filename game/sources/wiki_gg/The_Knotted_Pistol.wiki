@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=The Knotted Pistol
+|class_id=22021
+|rank=Blue
+|affct=FAME
+|birthday=11-19
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Nov 19, 1988 AD, Luxembourg gifted the Knotted Pistol to the UN.<br>The Knotted Pistol, aka Non-Violence, is a bronze sculpture located in the garden at the United Nations headquarters. It is a .45 revolver with a knotted barrel, conveying the sculptor's resentment for war and violence. After John Lennon was shot, his wife had his friend, a Swedish artist named Reutersward make the sculpture to express his wish for peace. Luxembourg later bought it and gifted it to the UN. It's since become the symbol of peace and non-violence.
+|fame=44
+|art=27
+|fth=21
+|civ=30
+|tech=32
+|ss1=In the Rebel Rocket Cabin:<br>> Auto-reload Device Base Effect +8%
+|ss2=In the Rebel Rocket Cabin:<br>> Auto-reload Device Base Effect +16%
+|ss3=In the Rebel Rocket Cabin:<br>> Auto-reload Device Base Effect +24%
+|ss4=In the Rebel Rocket Cabin:<br>> Auto-reload Device Base Effect +40%
+|ss7=In the Rebel Rocket Cabin:<br>> Auto-reload Device Base Effect +40%<br>In the Rebel Rocket Cabin:<br>> Auto-reload Device Base Effect +40% (Awakened)
+|skill1=[[File:Surfclam skill I.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop DMG REDUC +1%
+}}

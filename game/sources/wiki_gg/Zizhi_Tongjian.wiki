@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Zizhi Tongjian
+|class_id=22629
+|rank=SSS
+|affct=FAME
+|birthday=08-03
+|source=
+|description=On Aug 3, 959 AD, Sima Guang completed the compilation of the "Zizhi Tongjian."<br>"Zizhi Tongjian" is a work of Chinese history completed by the Northern Song historian Sima Guang over a period of 19 years. Its content spans nearly 300 volumes and covers 1,300 years of history from 16 different dynasties. Sima Guang drew on examples from the book to summarize a large amount of experience and lessons for future generations to reference. In this work, Sima Guang also integrated the characteristics of biographical history and created a new multifunctional cataloging method for chronological history, greatly improving the level of historical compilation. Its rich and detailed content makes it an immortal masterpiece on par with "Shi Ji."
+|fame=108
+|art=63
+|fth=51
+|civ=73
+|tech=67
+|ss1=Snail Leadership +3<br>All Minion DEF +0.6%<br>Per 60 Minions in battle:<br>> Troop DEF +9
+|ss2=Snail Leadership +4<br>All Minion DEF +0.8%<br>Per 60 Minions in battle:<br>> Troop DEF +18
+|ss3=Snail Leadership +5<br>All Minion DEF +1%<br>Per 60 Minions in battle:<br>> Troop DEF +27
+|ss4=Snail Leadership +7<br>All Minion DEF +1.4%<br>Per 60 Minions in battle:<br>> Troop DEF +45
+|ss5=Snail Leadership +9<br>All Minion DEF +1.8%<br>Per 60 Minions in battle:<br>> Troop DEF +63
+|ss6=Snail Leadership +12<br>All Minion DEF +2.4%<br>Per 60 Minions in battle:<br>> Troop DEF +90
+|ss7=Snail Leadership +12<br>All Minion DEF +2.4%<br>Per 60 Minions in battle:<br>> Troop DEF +90<br>Per 60 Minions in battle:<br>> Troop DEF +90 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +3%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|mirage={{Mirage|name=Chronicle the event|reward={{RewardIconWithLink|Research Briefcase, +2|orange}}
+|3name=Officer Liu|3rec=92.66M|3atk=298349|3defense=174255|3hp=23070327|3weak=38309
+|4name=Historian Liu|4rec=102.65M|4atk=320709|4defense=188319|4hp=27420226|4weak=40232
+|5name=Historian Sima|5rec=114.62M|5atk=346871|5defense=205158|5hp=34202503|5weak=43042
+|6name=Emperor Shenzong of Song|6rec=129.38M|6atk=378612|6defense=225924|6hp=43577934|6weak=46345
+|Arec=148.63M|Aatk=421889|Adefense=253009|Ahp=59554368|Aweak=50104
+}}}}

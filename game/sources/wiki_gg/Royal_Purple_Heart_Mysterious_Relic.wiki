@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Royal Purple Heart,Mysterious Relic
+|rank=purple
+|amount=2
+|category=minion
+|description=Per 2,000 Prarie Sanctum Rating Pts, Priest-Snail Assistance DMG +48; Prarie Sanctum Rating Pts: 100,000/100,000
+}}
+[[Category:Minion]]
+[[Category:Priest-Snail Boost]]

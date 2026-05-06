@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20746_1
+|class_id=20746
+|rank=Green
+|affct=FAITH
+|source=
+|description=collection@20746_2
+|fame=16
+|art=18
+|fth=29
+|civ=15
+|tech=12
+|ss1=Snail Leadership +1<br>Per Demon God Sculpture owned, Snail RUSH +50<br>Demon God Sculptures Owned: 8/8
+|ss2=Snail Leadership +2<br>Per Demon God Sculpture owned, Snail RUSH +100<br>Demon God Sculptures Owned: 8/8
+|ss3=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail RUSH +150<br>Demon God Sculptures Owned: 8/8
+|ss4=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail RUSH +150<br>Demon God Sculptures Owned: 8/8
+|ss7=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail RUSH +150<br>Demon God Sculptures Owned: 8/8<br> (Awakened)
+}}

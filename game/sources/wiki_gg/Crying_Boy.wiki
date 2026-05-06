@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Crying Boy
+|class_id=20015
+|rank=Green
+|affct=ART
+|source=
+|description=A piece of work by the painter Giovanni Bragolin. Belief in the painting's curse was widespread since it was frequently found undamaged amidst the ruins of burned houses!
+|fame=10
+|art=29
+|fth=16
+|civ=17
+|tech=18
+|ss1=Soul Offering SPD +0.4%
+|ss2=Soul Offering SPD +0.8%
+|ss3=Soul Offering SPD +1.2%
+|ss4=Soul Offering SPD +1.2%
+|ss7=Soul Offering SPD +1.2%<br> (Awakened)
+}}

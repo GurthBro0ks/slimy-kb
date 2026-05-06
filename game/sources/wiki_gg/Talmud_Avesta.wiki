@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Talmud,Avesta
+|rank=orange
+|amount=2
+|category=Minion Element RES Boost
+|description=Per 60 Minions in battle: Troop Water RES +7
+}}
+[[Category:Minion Element RES Boost]]

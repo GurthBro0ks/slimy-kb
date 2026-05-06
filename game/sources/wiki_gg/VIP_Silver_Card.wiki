@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=VIP Silver Card
+|class_id=21740
+|rank=AA
+|affct=FAITH
+|source=
+|description=The Elite Pass of the Snailverse! This card grants you permanent presidential suite privileges, allowing you to unwind in luxury hotels, soak up the sun by rooftop pools, and embrace the ultimate life of leisure—sheer bliss!
+|fame=39
+|art=51
+|fth=67
+|civ=29
+|tech=42
+|ss1=During exploration, DMG to Apostles +5%<br>Per VIP Card activated, Snail DEF +20<br>VIP cards activated: 2/2
+|ss2=During exploration, DMG to Apostles +5%<br>Per VIP Card activated, Snail DEF +40<br>VIP cards activated: 2/2
+|ss3=During exploration, DMG to Apostles +5%<br>Per VIP Card activated, Snail DEF +60<br>VIP cards activated: 2/2
+|ss4=During exploration, DMG to Apostles +5%<br>Per VIP Card activated, Snail DEF +100<br>VIP cards activated: 2/2
+|ss5=During exploration, DMG to Apostles +5%<br>Per VIP Card activated, Snail DEF +140<br>VIP cards activated: 2/2
+|ss7=During exploration, DMG to Apostles +5%<br>Per VIP Card activated, Snail DEF +140<br>VIP cards activated: 2/2<br>Snail DEF +80 (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: This Relic's FTH +10
+|skill2=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: CRIT DMG +10%
+}}

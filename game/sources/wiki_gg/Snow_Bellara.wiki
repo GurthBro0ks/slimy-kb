@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Snow Bellara
+|rank=red
+|cabin=1
+|id=1025
+|gene1={race} HARD +50
+|gene2={race} AFFCT +50
+|gene3=For Round 1, DMG +2.5%
+|gene4=Per 60 Minions in battle:
+> Troop Water DMG +6
+|gene5={race} Leadership +1
+|gene6=Per 60 Minions in battle:
+> Troop Water DMG +10
+|gene7={race} Leadership +3
+|}}

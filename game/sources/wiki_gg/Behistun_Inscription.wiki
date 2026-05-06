@@ -1,0 +1,41 @@
+{{CargoRelic
+|name=Behistun Inscription
+|rank=AAA
+|affct=CIV
+|birthday=12-06
+|source=Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On Dec 6, 552 BC, Darius the Great carved the cliffs of the Behistun village to mark his achievements.
+
+Darius I built the world's first great empire across Asia, Europe, and Africa. To praise himself, he ordered people to carve his achievements in different Babylonian dialects on the cliff. This was known as the Behistun Inscription. It also included his image of standing upright, holding the bow with his left hand, and pointing his right finger to the sky. The Ahura Mazda in the center shows his respect for God. It was mainly to establish the legitimacy of Darius' succession to the throne, to boast his achievements, and to express that his kingship was endorsed by Ahura Mazda, the God.
+
+[Basic Info]
+
+Type: Cliff inscriptions<br>Volume: 1200 lines
+|fame=41
+|art=46
+|fth=48
+|civ=71
+|tech=37
+|ss1=Per 5 Zombie Gene LVLs, Snail DEF +6<br>Per 5 Zombie Gene LVLs, Snail RUSH +6<br>Zombie Gene LVLs Researched: 150/150
+|ss2=Per 5 Zombie Gene LVLs, Snail DEF +8<br>Per 5 Zombie Gene LVLs, Snail RUSH +8<br>Zombie Gene LVLs Researched: 150/150
+|ss3=Per 5 Zombie Gene LVLs, Snail DEF +10<br>Per 5 Zombie Gene LVLs, Snail RUSH +10<br>Zombie Gene LVLs Researched: 150/150
+|ss4=Per 5 Zombie Gene LVLs, Snail DEF +14<br>Per 5 Zombie Gene LVLs, Snail RUSH +14<br>Zombie Gene LVLs Researched: 150/150
+|ss5=Per 5 Zombie Gene LVLs, Snail DEF +18<br>Per 5 Zombie Gene LVLs, Snail RUSH +18<br>Zombie Gene LVLs Researched: 150/150
+|ss7=Per 5 Zombie Gene LVLs, Snail DEF +18<br>Per 5 Zombie Gene LVLs, Snail RUSH +18<br>Zombie Gene LVLs Researched: 150/150<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Fungusfarm skill II.png|50px]] Place in Fungus Farm: Grow Wonder Fungus by +15%
+|skill2=[[File:Fungusfarm skill II.png|50px]] Place in Fungus Farm: This Relic's CIV +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:CIV Relics]]
+[[Category:Purple CIV Relics]]
+[[Category:DEF Boost]]
+[[Category:RUSH Boost]]
+[[Category:HP Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:Wonder Fungus Output]]
+[[Category:CIV Boost]]
+[[Category:Enhanced by Power]]
+[[Category:Enhanced by DNA Strength]]
+[[Category:Enhanced by Zombie Gene LVL]]

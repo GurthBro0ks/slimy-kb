@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Snail is Snake Cup
+|class_id=20978
+|rank=Green
+|affct=FAME
+|source=
+|description=This idea comes from player Lu Hao, who demonstrated his outstanding linguistic talent during the Year of the Snake, proving the close relationship between snails and the snake cup, with bird players agreeing, saying it's true!
+|fame=58
+|art=8
+|fth=8
+|civ=8
+|tech=8
+|ss1=Per 7 Sign-Ins, Snail HP +10<br>Per 7 Sign-Ins, Snail ATK +1<br>Per 7 Sign-Ins, Snail DEF +1<br>Per 7 Sign-Ins, Snail RUSH +1<br>Sign-Ins: 364/364
+|ss2=Per 7 Sign-Ins, Snail HP +20<br>Per 7 Sign-Ins, Snail ATK +2<br>Per 7 Sign-Ins, Snail DEF +2<br>Per 7 Sign-Ins, Snail RUSH +2<br>Sign-Ins: 364/364
+|ss3=Per 7 Sign-Ins, Snail HP +30<br>Per 7 Sign-Ins, Snail ATK +3<br>Per 7 Sign-Ins, Snail DEF +3<br>Per 7 Sign-Ins, Snail RUSH +3<br>Sign-Ins: 364/364
+|ss4=Per 7 Sign-Ins, Snail HP +30<br>Per 7 Sign-Ins, Snail ATK +3<br>Per 7 Sign-Ins, Snail DEF +3<br>Per 7 Sign-Ins, Snail RUSH +3<br>Sign-Ins: 364/364
+|ss7=Per 7 Sign-Ins, Snail HP +30<br>Per 7 Sign-Ins, Snail ATK +3<br>Per 7 Sign-Ins, Snail DEF +3<br>Per 7 Sign-Ins, Snail RUSH +3<br>Sign-Ins: 364/364<br> (Awakened)
+}}

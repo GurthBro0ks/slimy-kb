@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Veiled Lady
+|class_id=22246
+|rank=SS
+|affct=ART
+|birthday=05-18
+|source=Lottery Machine No.2 (0.42%), Wishing (1.6%)
+|description=On May 18, 1847 AD, Giovanni carved this statue.<br>The Veiled Lady, a sculpture by master carver Giovanni, portrays Mary with a veil realistically covering her facial features. Her eyes are closed, and her head is bowed downward, as if she is peacefully praying or mourning.
+|fame=52
+|art=103
+|fth=67
+|civ=70
+|tech=55
+|ss1=Snail RUSH +20<br>Angel Minion DEF +2%<br>Per 3 Minion Skins crafted, Snail RUSH +4<br>Minion Skins crafted: 60/60
+|ss2=Snail RUSH +30<br>Angel Minion DEF +3%<br>Per 3 Minion Skins crafted, Snail RUSH +6<br>Minion Skins crafted: 60/60
+|ss3=Snail RUSH +40<br>Angel Minion DEF +4%<br>Per 3 Minion Skins crafted, Snail RUSH +8<br>Minion Skins crafted: 60/60
+|ss4=Snail RUSH +60<br>Angel Minion DEF +6%<br>Per 3 Minion Skins crafted, Snail RUSH +12<br>Minion Skins crafted: 60/60
+|ss5=Snail RUSH +80<br>Angel Minion DEF +8%<br>Per 3 Minion Skins crafted, Snail RUSH +16<br>Minion Skins crafted: 60/60
+|ss6=Snail RUSH +110<br>Angel Minion DEF +11%<br>Per 3 Minion Skins crafted, Snail RUSH +22<br>Minion Skins crafted: 60/60
+|ss7=Snail RUSH +110<br>Angel Minion DEF +11%<br>Per 3 Minion Skins crafted, Snail RUSH +22<br>Minion Skins crafted: 60/60<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: This Relic's ART +15
+|skill2=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion RUSH +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's ART +15
+|mirage={{Mirage|name=Masked Party|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Masked Assassin|3rec=29.85M|3atk=128737|3defense=85886|3hp=4725175|3weak=18927
+|4name=Masked Ninja|4rec=45.02M|4atk=160735|4defense=107233|4hp=7178884|4weak=20808
+|5name=Masked Superman|5rec=62.73M|5atk=198084|5defense=132149|5hp=10430096|5weak=25101
+|Arec=82.68M|Aatk=240166|Adefense=160224|Ahp=14486775|Aweak=31383
+}}}}

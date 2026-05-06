@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=524
+|relics=Kola Drilling Rig,Messier Catalog
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Mecha Minions in battle: Troop HARD Stats +21
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Pygmalion Mirror
+|class_id=20732
+|rank=Green
+|affct=FAITH
+|source=
+|description=Minerva's earnest hope for her students prompted Her to create the Magic Mirror. She incorporated the Pygmalion effect from educational psychology, allowing the Magic Mirror to capture and amplify Minerva's positive expectations for her students, converting this belief into a tangible influence. When students gaze into the Magic Mirror, Minerva's expectations envelop them like a spell, steadily enhancing their behavior and performance towards the direction Minerva envisions.
+|fame=14
+|art=13
+|fth=30
+|civ=15
+|tech=18
+|ss1=Snail HP +200<br>Per 1,000 Hellas Disciples advanced, Snail ATK +3<br>Hellas Disciples Advanced: 20000/20000
+|ss2=Snail HP +400<br>Per 1,000 Hellas Disciples advanced, Snail ATK +6<br>Hellas Disciples Advanced: 20000/20000
+|ss3=Snail HP +600<br>Per 1,000 Hellas Disciples advanced, Snail ATK +9<br>Hellas Disciples Advanced: 20000/20000
+|ss4=Snail HP +600<br>Per 1,000 Hellas Disciples advanced, Snail ATK +9<br>Hellas Disciples Advanced: 20000/20000
+|ss7=Snail HP +600<br>Per 1,000 Hellas Disciples advanced, Snail ATK +9<br>Hellas Disciples Advanced: 20000/20000<br> (Awakened)
+}}

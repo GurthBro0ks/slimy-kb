@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=100 Years of Solitude
+|class_id=22711
+|rank=SSS
+|affct=CIV
+|birthday=08-05
+|source=Lottery Machine No.3 (0.12%)
+|description=On Aug 5, 1982 AD, Colombian author Gabriel Garcia Marquez was awarded the Nobel Prize in Literature for 100 Years of Solitude.<br>100 Years of Solitude tells the legendary story of the Buendia family through seven generations, depicting the rise and fall of the town of Macondo in the Caribbean. It incorporates mythical legends, folk stories, religious allusions, and other mysterious elements to create a magical and realistic world, which is recognized as the most representative work of magical realism.
+|fame=67
+|art=69
+|fth=66
+|civ=109
+|tech=51
+|ss1=Snail Leadership +3<br>Tribal Building Construction Cost -1.2%<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +24<br>Tribe Prosperity: 150000/150000
+|ss2=Snail Leadership +4<br>Tribal Building Construction Cost -1.6%<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +32<br>Tribe Prosperity: 150000/150000
+|ss3=Snail Leadership +5<br>Tribal Building Construction Cost -2%<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +40<br>Tribe Prosperity: 150000/150000
+|ss4=Snail Leadership +7<br>Tribal Building Construction Cost -2.8%<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +56<br>Tribe Prosperity: 150000/150000
+|ss5=Snail Leadership +9<br>Tribal Building Construction Cost -3.6%<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +72<br>Tribe Prosperity: 150000/150000
+|ss6=Snail Leadership +12<br>Tribal Building Construction Cost -4.8%<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +96<br>Tribe Prosperity: 150000/150000
+|ss7=Snail Leadership +12<br>Tribal Building Construction Cost -4.8%<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +96<br>Tribe Prosperity: 150000/150000<br>Tribal Building Construction Cost -4% (Awakened)
+|skill1=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: Wishing Egg hatching efficiency +30%
+|skill2=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: This Relic's CIV +15
+|skill3=[[File:Wishingegg skill III.png|50px]]Place in Wishing Egg: Green rewards from this egg turn Blue by 6%
+|mirage={{Mirage|name=Beginning and End|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Jose|3rec=133.49M|3atk=370326|3defense=231712|3hp=21428447|3weak=37739
+|4name=Ursula|4rec=157.78M|4atk=428470|4defense=265887|4hp=27211246|4weak=39610
+|5name=Amaranta|5rec=188.50M|5atk=501939|5defense=309104|5hp=35751394|5weak=42235
+|6name=Aureliano|6rec=225.90M|6atk=593777|6defense=361726|6hp=51790592|6weak=47239
+|Arec=283.80M|Aatk=696711|Adefense=417887|Ahp=72767618|Aweak=51114
+}}}}

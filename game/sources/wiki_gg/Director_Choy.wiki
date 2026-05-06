@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Director Choy
+|rank=blue
+|cabin=2
+|id=1
+|gene1={race} DEF +20
+|gene2={race} CIV +20
+|gene3=Resolver: Mutagen Serum +100
+|gene4=Per 10 Zombie Minions in battle:
+> Troop DEF +2
+|gene5=Resolver: Mutagen Serum +200
+|}}

@@ -1,0 +1,759 @@
+{{Missing Info|specifics=All details for Cathay and later domain devices<br>Images for the weapons<br>Robot amounts past 90}}
+
+== Domain Device ==
+Domain Device Cabin within [[Rocket]] Cabins
+
+Send robots to gather: {{RewardIconWithText|Clone Speedup}}<br>
+Upgrade Domain Cabin Tech to send more robots.
+{| class="wikitable"
+!Tech
+!Robots
+|-
+|0-399||5
+|-
+|400-1,399||10
+|-
+|1,400-3,199||20
+|-
+|3,200-5,999||30
+|-
+|6,000-10,799||40
+|-
+|10,800-17,999||50
+|-
+|18,000-24,999||60
+|-
+|25,000-35,999||70
+|-
+|36,000-55,999||80
+|-
+|56,000-79,999||90
+|-
+|80,000-?||?
+|}
+
+== [[Koryeon Domain]] ==
+=== Pawson Throne ===
+''Domain Rocket Device''
+[[File:Pawson Throne.png|100px|right|frameless]]
+Three types of materials, Pawson Whiskers, Pawson Fangs, and Pawson Cores can be found within the Koryeon Domain, primarily by defeating enemies there. These are are available in five different tiers and can be used to build the Pawson Throne. These materials can be converted into higher or lower tiers at a rate of 5 lower tier materials to 1 higher tier material. Building the throne requires ten of each of the three materials in the same the tier, and will grant a bonus to the Koryeon museum and a buff to mutant minions. Once built, it can be destroyed for free and will return all the materials and B-tads spent to build it. After being built, the ability to produce treasure maps using Standard Printing Supply will be unlocked. Each instance of producing treasure maps for Standard Printing Supply can only be done once.
+
+Each Device tier gives +1 to Mutant Minion HP, ATK, DEF, and RUSH, in addition to the bonuses shown.
+
+{| class="mw-collapsible wikitable"
+!Tier
+!{{RewardIconWithText|B-Tad}} Cost
+!'''Koryeon Museum'''<br>{{RewardIconWithLink|Museum Medal}} Output
+!'''Koryeon Museum'''<br>{{RewardIconWithText|B-Tad}} Output
+!Available Production
+!{{RewardIconWithText|Standard Printing Supply}} Cost
+|-
+|1||20k||+4||+400||{{RewardIconWithLink|Koryeon Treasure Map}} +50||30
+|-
+|2||40k||+8||+800||{{RewardIconWithLink|Koryeon Treasure Map}} +100||60
+|-
+|3||60k||+12||+1.2k||{{RewardIconWithLink|Koryeon Treasure Map}} +200||120
+|-
+|4||80k||+16||+1.6k||{{RewardIconWithLink|Koryeon Treasure Map}} +400||200
+|-
+|5||100k||+20||+2k||{{RewardIconWithLink|Koryeon Treasure Map}} +800||300
+|}
+
+=== Cruise Missile ===
+''NO.01 Domain Weapon File''
+[[File:Cruise Missile.png|100px|right|frameless]]
+After building the Pawson Throne at any tier, it is possible to build the Cruise Missile. This weapon only has an effect within the [[Koryeon Domain]], and costs one {{RewardIconWithText|Missile Box}} per level to upgrade after the first level. {{RewardIconWithText|Missile Box}}es can be obtained by mining in the Koryeon Domain.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!In Koryeon Domain,<br>Troop 1st Round DMG
+|-
+|1||+2k
+|-
+|2||+4k
+|-
+|3||+6k
+|-
+|4||+8k
+|-
+|5||+10k
+|-
+|6||+12k
+|-
+|7||+14k
+|-
+|8||+16k
+|-
+|9||+18k
+|-
+|10||+20k
+|}
+
+== [[Yamato Domain]] ==
+=== Bladden Throne ===
+''Domain Rocket Device''
+[[File:Bladden Throne.png|100px|right|frameless]]
+Three types of materials, Bladden Sheaths, Bladden Scrolls, and Bladden Cores can be found within the Yamato Domain, primarily by defeating enemies there. These are are available in five different tiers and can be used to build the Bladden Throne. These materials can be converted into higher or lower tiers at a rate of 5 lower tier materials to 1 higher tier material. Building the throne requires ten of each of the three materials in the same the tier, and will grant a bonus to the Yamato museum and a buff to demon minions. Once built, it can be destroyed for free and will return all the materials and B-tads spent to build it. After being built, the ability to produce treasure maps using Engineering Printing Supply will be unlocked. Each instance of producing treasure maps for Engineering Printing Supply can only be done once.
+
+Each Device tier gives +1 to Demon Minion HP, ATK, DEF, and RUSH, in addition to the bonuses shown.
+
+{| class="mw-collapsible wikitable"
+!Tier
+!{{RewardIconWithText|B-Tad}} Cost
+!'''Yamato Museum'''<br>{{RewardIconWithLink|Museum Medal}} Output
+!'''Yamato Museum'''<br>{{RewardIconWithText|B-Tad}} Output
+!Available Production
+!{{RewardIconWithText|Engineering Printing Supply}} Cost
+|-
+|1||20k||+4||+400||{{RewardIconWithLink|Yamato Treasure Map}} +50||30
+|-
+|2||40k||+8||+800||{{RewardIconWithLink|Yamato Treasure Map}} +100||60
+|-
+|3||60k||+12||+1.2k||{{RewardIconWithLink|Yamato Treasure Map}} +200||120
+|-
+|4||80k||+16||+1.6k||{{RewardIconWithLink|Yamato Treasure Map}} +400||200
+|-
+|5||100k||+20||+2k||{{RewardIconWithLink|Yamato Treasure Map}} +800||300
+|}
+
+=== Senbon Sakura ===
+''NO.02 Domain Weapon File''
+[[File:Senbon Sakura.png|100px|right|frameless]]
+After building the Bladden Throne at any tier, it is possible to build the Senbon Sakura. This weapon only has an effect within the [[Yamato Domain]], and costs one {{RewardIconWithText|Sword Box}} per level to upgrade after the first level. {{RewardIconWithText|Sword Box}}es can be obtained by mining in the Yamato Domain.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!In Yamato Domain,<br>Troop 1st Round DMG
+|-
+|1||+2k
+|-
+|2||+4k
+|-
+|3||+6k
+|-
+|4||+8k
+|-
+|5||+10k
+|-
+|6||+12k
+|-
+|7||+14k
+|-
+|8||+16k
+|-
+|9||+18k
+|-
+|10||+20k
+|-
+|11||+22k
+|-
+|12||+24k
+|-
+|13||+26k
+|-
+|14||+28k
+|-
+|15||+30k
+|-
+|16||+32k
+|-
+|17||+34k
+|-
+|18||+36k
+|-
+|19||+38k
+|-
+|20||+40k
+|-
+|21||+42k
+|-
+|22||+44k
+|-
+|23||+46k
+|-
+|24||+48k
+|-
+|25||+50k
+|}
+
+== [[Cathay Domain]] ==
+=== Jaden Throne ===
+''Domain Rocket Device''
+[[File:Jaden Throne.png|100px|right|frameless]]
+Three types of materials, Jaden Scale, Jaden Horn, and Jaden Cores can be found within the Cathay Domain, primarily by defeating enemies there. These are are available in five different tiers and can be used to build the Jaden Throne. These materials can be converted into higher or lower tiers at a rate of 5 lower tier materials to 1 higher tier material. Building the throne requires ten of each of the three materials in the same the tier, and will grant a bonus to the Cathay museum and a buff to dragon minions. Once built, it can be destroyed for free and will return all the materials and B-tads spent to build it. After being built, the ability to produce treasure maps using Military Printing Supply will be unlocked. Each instance of producing treasure maps for Military Printing Supply can only be done once.
+
+Each Device tier gives +1 to Dragon Minion HP, ATK, DEF, and RUSH, in addition to the bonuses shown.
+
+{| class="mw-collapsible wikitable"
+!Tier
+!{{RewardIconWithText|B-Tad}} Cost
+!'''Cathay Museum'''<br>{{RewardIconWithLink|Museum Medal}} Output
+!'''Cathay Museum'''<br>{{RewardIconWithText|B-Tad}} Output
+!Available Production
+!{{RewardIconWithText|Engineering Printing Supply}} Cost
+|-
+|1||20k||+4||+400||{{RewardIconWithLink|Cathay Treasure Map}} +50||30
+|-
+|2||40k||+8||+800||{{RewardIconWithLink|Cathay Treasure Map}} +100||60
+|-
+|3||60k||+12||+1.2k||{{RewardIconWithLink|Cathay Treasure Map}} +200||120
+|-
+|4||80k||+16||+1.6k||{{RewardIconWithLink|Cathay Treasure Map}} +400||200
+|-
+|5||100k||+20||+2k||{{RewardIconWithLink|Cathay Treasure Map}} +800||300
+|}
+
+=== Calming Pearl ===
+''NO.03 Domain Weapon File''
+[[File:Calming Pearl.png|100px|right|frameless]]
+After building the Jaden Throne at any tier, it is possible to build the Calming Pearl. This weapon only has an effect within the [[Cathay Domain]], and costs one {{RewardIconWithText|Bead Box}} per level to upgrade after the first level. {{RewardIconWithText|Bead Box}} can be obtained by mining in the Cathay Domain.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!In Cathay Domain,<br>Troop 1st Round DMG
+|-
+|1||+2.5k
+|-
+|2||+5k
+|-
+|3||+7.5k
+|-
+|4||+10k
+|-
+|5||+12.5k
+|-
+|6||+15k
+|-
+|7||+17.5k
+|-
+|8||+20k
+|-
+|9||+22.5k
+|-
+|10||+25k
+|-
+|11||+27.5k
+|-
+|12||+30k
+|-
+|13||+32.5k
+|-
+|14||+35k
+|-
+|15||+37.5k
+|-
+|16||+40k
+|-
+|17||+42.5k
+|-
+|18||+45k
+|-
+|19||+47.5k
+|-
+|20||+50k
+|-
+|21||+52.5k
+|-
+|22||+55k
+|-
+|23||+57.5k
+|-
+|24||+60k
+|-
+|25||+62.5k
+|-
+|26||+65k
+|-
+|27||+67.5k
+|-
+|28||+70k
+|-
+|29||+72.5k
+|-
+|30||+75k
+|}
+
+== [[Murikan Domain]] ==
+=== Racky Throne ===
+''Domain Rocket Device''
+[[File:Racky Throne.png|100px|right|frameless]]
+
+Each Device tier gives +1 to Mecha Minion HP, ATK, DEF, and RUSH, in addition to the bonuses shown.
+
+{| class="mw-collapsible wikitable"
+!Tier
+!{{RewardIconWithText|B-Tad}} Cost
+!'''Murikan Museum'''<br>{{RewardIconWithLink|Museum Medal}} Output
+!'''Murikan Museum'''<br>{{RewardIconWithText|B-Tad}} Output
+!Available Production
+!Cost
+|-
+|1||20k||+4||+400||{{RewardIconWithLink|Murikan Treasure Map}} +50||30 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|2||40k||+8||+800||{{RewardIconWithLink|Murikan Treasure Map}} +100||60 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|3||60k||+12||+1.2k||{{RewardIconWithLink|Murikan Treasure Map}} +200||120 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|4||80k||+16||+1.6k||{{RewardIconWithLink|Murikan Treasure Map}} +400||200 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|5||100k||+20||+2k||{{RewardIconWithGearlink|green|War|Broken Jaden Spear}}||{{RewardIconWithText|Jaden Spear Blueprint}}
+|}
+
+=== Funnel Cannon ===
+''NO.04 Domain Weapon File''
+[[File:Funnel Cannon.png|100px|right|frameless]]
+After building the Racky Throne at any tier, it is possible to build the Funnel Cannon. This weapon only has an effect within the [[Murikan Domain]], and costs one {{RewardIconWithText|Laser Prism Component}} per level to upgrade after the first level. {{RewardIconWithText|Laser Prism Component}} can be obtained by mining in the Murikan Domain.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!In Murikan Domain,<br>Troop 1st Round DMG
+|-
+|1||+3k
+|-
+|2||+6k
+|-
+|3||+9k
+|-
+|4||+12k
+|-
+|5||+15k
+|-
+|6||+18k
+|-
+|7||+21k
+|-
+|8||+24k
+|-
+|9||+27k
+|-
+|10||+30k
+|-
+|11||+33k
+|-
+|12||+36k
+|-
+|13||+39k
+|-
+|14||+42k
+|-
+|15||+45k
+|-
+|16||+48k
+|-
+|17||+51k
+|-
+|18||+54k
+|-
+|19||+57k
+|-
+|20||+60k
+|-
+|21||+63k
+|-
+|22||+66k
+|-
+|23||+69k
+|-
+|24||+72k
+|-
+|25||+75k
+|-
+|26||+78k
+|-
+|27||+81k
+|-
+|28||+84k
+|-
+|29||+87k
+|-
+|30||+90k
+|-
+|31||+93k
+|-
+|32||+96k
+|-
+|33||+99k
+|-
+|34||+102k
+|-
+|35||+105k
+|-
+|36||+108k
+|}
+
+== [[Britland Domain]] ==
+=== Thundos Throne ===
+''Domain Rocket Device''
+[[File:Thundos Throne.png|100px|right|frameless]]
+
+Each Device tier gives +1 to Angel Minion HP, ATK, DEF, and RUSH, in addition to the bonuses shown.
+
+{| class="mw-collapsible wikitable"
+!Tier
+!{{RewardIconWithText|B-Tad}} Cost
+!'''Britland Museum'''<br>{{RewardIconWithLink|Museum Medal}} Output
+!'''Britland Museum'''<br>{{RewardIconWithText|B-Tad}} Output
+!Available Production
+!{{RewardIconWithText|Engineering Printing Supply}} Cost
+|-
+|1||20k||+4||+400||{{RewardIconWithLink|Britland Treasure Map}} +50||30
+|-
+|2||40k||+8||+800||{{RewardIconWithLink|Britland Treasure Map}} +100||60
+|-
+|3||60k||+12||+1.2k||{{RewardIconWithLink|Britland Treasure Map}} +200||120
+|-
+|4||80k||+16||+1.6k||{{RewardIconWithLink|Britland Treasure Map}} +400||200
+|-
+|5||100k||+20||+2k||{{RewardIconWithLink|Britland Treasure Map}} +800||300
+|}
+
+===Thundercloud Stone===
+''NO.05 Domain Weapon File''
+[[File:Thundercloud Stone.png|100px|right|frameless]]
+After building the Thundos Throne at any tier, it is possible to build the Thundercloud Stone. This weapon only has an effect within the [[Britland Domain]], and costs one {{RewardIconWithText|Lightning Rune}} per level to upgrade after the first level. {{RewardIconWithText|Lightning Rune}} can be obtained by mining in the Britland Domain.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!In Britland Domain,<br>Troop 1st Round DMG
+|-
+|1||+4k
+|-
+|2||+8k
+|-
+|3||+12k
+|-
+|4||+16k
+|-
+|5||+20k
+|-
+|6||+24k
+|-
+|7||+28k
+|-
+|8||+32k
+|-
+|9||+36k
+|-
+|10||+40k
+|-
+|11||+44k
+|-
+|12||+48k
+|-
+|13||+52k
+|-
+|14||+56k
+|-
+|15||+60k
+|-
+|16||+64k
+|-
+|17||+68k
+|-
+|18||+72k
+|-
+|19||+76k
+|-
+|20||+80k
+|-
+|21||+84k
+|-
+|22||+88k
+|-
+|23||+92k
+|-
+|24||+96k
+|-
+|25||+100k
+|-
+|26||+104k
+|-
+|27||+108k
+|-
+|28||+112k
+|-
+|29||+116k
+|-
+|30||+120k
+|-
+|31||+124k
+|-
+|32||+128k
+|-
+|33||+132k
+|-
+|34||+136k
+|-
+|35||+140k
+|-
+|36||+144k
+|-
+|37||+148k
+|-
+|38||+152k
+|-
+|39||+156k
+|-
+|40||+160k
+|}
+
+== [[Kemetic Domain]] ==
+=== Nethrone Throne ===
+''Domain Rocket Device''
+[[File:Nethrone Throne.png|100px|right|frameless]]
+
+Each Device tier gives +1 to Zombie Minion HP, ATK, DEF, and RUSH, in addition to the bonuses shown.
+
+{| class="mw-collapsible wikitable"
+!Tier
+!{{RewardIconWithText|B-Tad}} Cost
+!'''Kemetic Museum'''<br>{{RewardIconWithLink|Museum Medal}} Output
+!'''Kemetic Museum'''<br>{{RewardIconWithText|B-Tad}} Output
+!Available Production
+!{{RewardIconWithText|Military Printing Supply}} Cost
+|-
+|1||20k||+4||+400||{{RewardIconWithLink|Kemetic Treasure Map}} +50||30
+|-
+|2||40k||+8||+800||{{RewardIconWithLink|Kemetic Treasure Map}} +100||60
+|-
+|3||60k||+12||+1.2k||{{RewardIconWithLink|Kemetic Treasure Map}} +200||120
+|-
+|4||80k||+16||+1.6k||{{RewardIconWithLink|Kemetic Treasure Map}} +400||200
+|-
+|5||100k||+20||+2k||{{RewardIconWithLink|Kemetic Treasure Map}} +800||300
+|}
+
+=== Ghost Coffin ===
+''NO.06 Domain Weapon File''
+[[File:Ghost Coffin.png|100px|right|frameless]]
+After building the Nethrone Throne at any tier, it is possible to build the Ghost Coffin. This weapon only has an effect within the [[Kemetic Domain]], and costs one ? per level to upgrade after the first level. ? can be obtained by mining in the Kemetic Domain.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!In Kemetic Domain,<br>Troop 1st Round DMG
+|-
+|1||+5k
+|-
+|2||+10k
+|-
+|3||+15k
+|-
+|4||+20k
+|-
+|5||+25k
+|-
+|6||+30k
+|-
+|7||+35k
+|-
+|8||+40k
+|-
+|9||+45k
+|-
+|10||+50k
+|-
+|11||+55k
+|-
+|12||+60k
+|-
+|13||+65k
+|-
+|14||+70k
+|-
+|15||+75k
+|-
+|16||+80k
+|-
+|17||+85k
+|-
+|18||+90k
+|-
+|19||+95k
+|-
+|20||+100k
+|-
+|21||+105k
+|-
+|22||+110k
+|-
+|23||+115k
+|-
+|24||+120k
+|-
+|25||+125k
+|-
+|26||+130k
+|-
+|27||+135k
+|-
+|28||+140k
+|-
+|29||+145k
+|-
+|30||+150k
+|-
+|31||+155k
+|-
+|32||+160k
+|-
+|33||+165k
+|-
+|34||+170k
+|-
+|35||+175k
+|-
+|36||+180k
+|-
+|37||+185k
+|-
+|38||+190k
+|-
+|39||+195k
+|-
+|40||+200k
+|}
+
+== [[Hellenic Domain]] ==
+=== Minerva Throne ===
+''Domain Rocket Device''
+[[File:Minerva Throne.png|100px|right|frameless]]
+
+Each Device tier gives +1 to All Minion HP, ATK, DEF, and RUSH, in addition to the bonuses shown.
+
+{| class="mw-collapsible wikitable"
+!Tier
+!{{RewardIconWithText|B-Tad}} Cost
+!'''Hellenic Museum'''<br>{{RewardIconWithLink|Museum Medal}} Output
+!'''Hellenic Museum'''<br>{{RewardIconWithText|B-Tad}} Output
+!Available Production
+!{{RewardIconWithText|Standard Printing Supply}} Cost
+|-
+|1||20k||+4||+400||{{RewardIconWithLink|Hellenic Treasure Map}} +50||30
+|-
+|2||40k||+8||+800||{{RewardIconWithLink|Hellenic Treasure Map}} +100||60
+|-
+|3||60k||+12||+1.2k||{{RewardIconWithLink|Hellenic Treasure Map}} +200||120
+|-
+|4||80k||+16||+1.6k||{{RewardIconWithLink|Hellenic Treasure Map}} +400||200
+|-
+|5||100k||+20||+2k||{{RewardIconWithLink|Hellenic Treasure Map}} +800||300
+|}
+
+=== Holy Light Staff ===
+''NO.07 Domain Weapon File''
+[[File:Holy Light Staff.png|100px|right|frameless]]
+After building the Minerva Throne at any tier, it is possible to build the Holy Light Staff. This weapon only has an effect within the [[Hellenic Domain]], and costs one {{RewardIconWithText|Holy Wood Core}} per level to upgrade after the first level. {{RewardIconWithText|Holy Wood Core}} can be obtained by mining in the Hellenic Domain.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!In Murikan Domain,<br>Troop 1st Round DMG
+|-
+|1||+10k
+|-
+|2||+20k
+|-
+|3||+30k
+|-
+|4||+40k
+|-
+|5||+50k
+|-
+|6||+60k
+|-
+|7||+70k
+|-
+|8||+80k
+|-
+|9||+90k
+|-
+|10||+100k
+|-
+|11||+110k
+|-
+|12||+120k
+|-
+|13||+130k
+|-
+|14||+140k
+|-
+|15||+150k
+|-
+|16||+160k
+|-
+|17||+170k
+|-
+|18||+180k
+|-
+|19||+190k
+|-
+|20||+200k
+|-
+|21||+210k
+|-
+|22||+220k
+|-
+|23||+230k
+|-
+|24||+240k
+|-
+|25||+250k
+|-
+|26||+260k
+|-
+|27||+270k
+|-
+|28||+280k
+|-
+|29||+290k
+|-
+|30||+300k
+|-
+|31||+310k
+|-
+|32||+320k
+|-
+|33||+330k
+|-
+|34||+340k
+|-
+|35||+350k
+|-
+|36||+360k
+|-
+|37||+370k
+|-
+|38||+380k
+|-
+|39||+390k
+|-
+|40||+400k
+|-
+|41||+410k
+|-
+|42||+420k
+|-
+|43||+430k
+|-
+|44||+440k
+|-
+|45||+450k
+|-
+|46||+460k
+|-
+|47||+470k
+|-
+|48||+480k
+|-
+|49||+490k
+|-
+|50||+500k
+|}
+
+==Links to Other Cabins==
+
+* Cabin: [[Species Device]]
+* Cabin: [[Rebel Device]]
+* Cabin: [[Demon God Device]]
+* Cabin: [[Earth's Will Device]]
+
+[[Category:Rocket]]

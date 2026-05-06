@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Lawrence's Cyclotron
+|class_id=22336
+|rank=SSS
+|affct=TECH
+|birthday=09-14
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Sept 14, 1932 AD, Lawrence developed the cyclotron based on his theory.<br>The American physicist Lawrence designed and produced this cyclotron. Unlike previous designs, which could only make charged particles pass through a high-voltage electric field once, the cyclotron accelerates particles multiple times by using alternating electric fields to make them move in the metal boxes in a uniform circular motion. It is a significant milestone in the development of particle accelerators.
+|fame=69
+|art=51
+|fth=72
+|civ=62
+|tech=108
+|ss1=Snail RUSH +30<br>All Minion RUSH +0.6%<br>Per 30 Time Chests opened, Snail RUSH +3<br>Time Chests Opened: 1500/1500
+|ss2=Snail RUSH +40<br>All Minion RUSH +0.8%<br>Per 30 Time Chests opened, Snail RUSH +4<br>Time Chests Opened: 1500/1500
+|ss3=Snail RUSH +50<br>All Minion RUSH +1%<br>Per 30 Time Chests opened, Snail RUSH +5<br>Time Chests Opened: 1500/1500
+|ss4=Snail RUSH +70<br>All Minion RUSH +1.4%<br>Per 30 Time Chests opened, Snail RUSH +7<br>Time Chests Opened: 1500/1500
+|ss5=Snail RUSH +90<br>All Minion RUSH +1.8%<br>Per 30 Time Chests opened, Snail RUSH +9<br>Time Chests Opened: 1500/1500
+|ss6=Snail RUSH +120<br>All Minion RUSH +2.4%<br>Per 30 Time Chests opened, Snail RUSH +12<br>Time Chests Opened: 1500/1500
+|ss7=Snail RUSH +120<br>All Minion RUSH +2.4%<br>Per 30 Time Chests opened, Snail RUSH +12<br>Time Chests Opened: 1500/1500<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Extra RUSH DMG +240
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, AFFCT Checks -150
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail RUSH +600
+|mirage={{Mirage|name=Particle Accelerator|reward={{RewardIconWithLink|Travel Speedup, +28800|orange}}
+|3name=Linear Particle Accelerator|3rec=12.59M|3atk=92222|3defense=61525|3hp=2509076|3weak=16030
+|4name=Proton Synchrotron|4rec=18.06M|4atk=111604|4defense=74455|4hp=3589828|4weak=18130
+|5name=Heavy Ion Accelerator|5rec=32.01M|5atk=133311|5defense=88937|5hp=5027818|5weak=19140
+|6name=Laser Particle Accelerator|6rec=43.30M|6atk=157115|6defense=104817|6hp=6840283|6weak=20544
+|Arec=56.18M|Aatk=184280|Adefense=122940|Ahp=9067040|Aweak=22988
+}}}}

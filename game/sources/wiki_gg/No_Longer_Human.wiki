@@ -1,0 +1,24 @@
+{{CargoRelic
+|name=No Longer Human
+|class_id=22180
+|rank=AAA
+|affct=CIV
+|birthday=01-18
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Jan 1, 2018 AD, Ozama wrote his own pain into No Longer Human.<br>No Longer Human is a semi-autobiographical work by Japanese author Ozama. The book consists of a preface, an afterword, and three chapters that chronicle the life of the protagonist from childhood to middle age. To escape reality, the protagonist slowly descends into tragic self-destruction. The author's deep pain can be felt from his stagnant prose. After completing this work, Ozama, who attempted suicide several times, finally ended his life by drowning.
+[Famous quote from the novel]
+I am very sorry for being a man.
+|fame=54
+|art=44
+|fth=42
+|civ=73
+|tech=30
+|ss1=Per 7 Mutant Gene LVLs, Snail ATK +6<br>Per 7 Mutant Gene LVLs, Snail RUSH +6<br>Mutant Gene LVLs Researched: 210/210
+|ss2=Per 7 Mutant Gene LVLs, Snail ATK +8<br>Per 7 Mutant Gene LVLs, Snail RUSH +8<br>Mutant Gene LVLs Researched: 210/210
+|ss3=Per 7 Mutant Gene LVLs, Snail ATK +10<br>Per 7 Mutant Gene LVLs, Snail RUSH +10<br>Mutant Gene LVLs Researched: 210/210
+|ss4=Per 7 Mutant Gene LVLs, Snail ATK +14<br>Per 7 Mutant Gene LVLs, Snail RUSH +14<br>Mutant Gene LVLs Researched: 210/210
+|ss5=Per 7 Mutant Gene LVLs, Snail ATK +18<br>Per 7 Mutant Gene LVLs, Snail RUSH +18<br>Mutant Gene LVLs Researched: 210/210
+|ss7=Per 7 Mutant Gene LVLs, Snail ATK +18<br>Per 7 Mutant Gene LVLs, Snail RUSH +18<br>Mutant Gene LVLs Researched: 210/210<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, All Minion RUSH +4.5%
+|skill2=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, Troop CRIT +4.5%
+}}

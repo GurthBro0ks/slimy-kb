@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=My Only Desire
+|class_id=21143
+|rank=SSS
+|affct=ART
+|source=
+|description=A 15th-century French tapestry, considered the "Medieval Mona Lisa," housed in the Musée de Cluny in Paris. It features a lady and a unicorn, symbolizing chastity and the rejection of sensual temptation. The intricate craftsmanship and rich symbolism make it a French national treasure.
+|fame=70
+|art=107
+|fth=71
+|civ=64
+|tech=50
+|ss1=Orange Fragments fusing, unlock SSS Prize Pool<br>Orange Fragments fusing, chance to obtain SSS Relics +0.3%<br>When you Wish, get 1 Taichi Fish by +3%<br>Per 40 wishes made, Snail ATK +12<br>Wishes Made: 2000/2000
+|ss2=Orange Fragments fusing, unlock SSS Prize Pool<br>Orange Fragments fusing, chance to obtain SSS Relics +0.4%<br>When you Wish, get 1 Taichi Fish by +4%<br>Per 40 wishes made, Snail ATK +16<br>Wishes Made: 2000/2000
+|ss3=Orange Fragments fusing, unlock SSS Prize Pool<br>Orange Fragments fusing, chance to obtain SSS Relics +0.5%<br>When you Wish, get 1 Taichi Fish by +5%<br>Per 40 wishes made, Snail ATK +20<br>Wishes Made: 2000/2000
+|ss4=Orange Fragments fusing, unlock SSS Prize Pool<br>Orange Fragments fusing, chance to obtain SSS Relics +0.7%<br>When you Wish, get 1 Taichi Fish by +7%<br>Per 40 wishes made, Snail ATK +28<br>Wishes Made: 2000/2000
+|ss5=Orange Fragments fusing, unlock SSS Prize Pool<br>Orange Fragments fusing, chance to obtain SSS Relics +0.9%<br>When you Wish, get 1 Taichi Fish by +9%<br>Per 40 wishes made, Snail ATK +36<br>Wishes Made: 2000/2000
+|ss6=Orange Fragments fusing, unlock SSS Prize Pool<br>Orange Fragments fusing, chance to obtain SSS Relics +1.2%<br>When you Wish, get 1 Taichi Fish by +12%<br>Per 40 wishes made, Snail ATK +48<br>Wishes Made: 2000/2000
+|ss7=Orange Fragments fusing, unlock SSS Prize Pool<br>Orange Fragments fusing, chance to obtain SSS Relics +1.2%<br>When you Wish, get 1 Taichi Fish by +12%<br>Per 40 wishes made, Snail ATK +48<br>Wishes Made: 2000/2000<br>When you Wish, get 1 Taichi Fish by +10% (Awakened)
+|skill1=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, DMG +30%
+|skill2=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, B-tads gained +15%
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Snail RUSH +600
+|mirage={{Mirage|name=Noblewoman and Rare Beast|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Maid|3rec=1.66M|3atk=29691|3defense=19580|3hp=289298|3weak=8034
+|4name=Lion|4rec=3.27M|4atk=44444|4defense=29308|4hp=585816|4weak=10699
+|5name=Unicorn|5rec=6.05M|5atk=62763|5defense=41389|5hp=1051679|5weak=13170
+|6name=Noblewoman|6rec=10.68M|6atk=85460|6defense=56356|6hp=1794842|6weak=16483
+|Arec=18.02M|Aatk=112782|Adefense=74374|Ahp=2906689|Aweak=19251
+}}}}

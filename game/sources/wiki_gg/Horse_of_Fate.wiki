@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Snail Shell was part of a huge wooden horse when it was first designed. Then a traveler realized that its head can be removed and used as a standalone Snail Shell.
+|affct=ART
+|hard=DEF
+|source=Divine Order Chest (0.8%)
+|color=green
+|earth=1
+|water=2
+|fire=2
+|wind=1
+|form=Demon
+|element=Fire
+|realm=Hellas
+|orangehard=RUSH
+}}

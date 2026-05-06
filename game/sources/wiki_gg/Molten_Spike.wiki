@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Molten Spike
+|type=Bionic
+|rank=purple
+|id=10666
+|idx=23
+|description=Hardened lava crystals—an impenetrable armor and unstoppable weapon. Keep your distance.
+|skill=Summon a Holy Sword, dealing DMG equal to 163% of ATK!
+|hp=1352
+|def=127
+|atk=155
+|rush=214
+|gene1=Fire DMG +60
+|gene2=In Fissure combat, Lifesteal Rate +20%
+|gene3=Fire RES +60
+|gene4=Ignore Fire RES +60
+|gene7=Fire DMG +180 (Awakened)
+|}}

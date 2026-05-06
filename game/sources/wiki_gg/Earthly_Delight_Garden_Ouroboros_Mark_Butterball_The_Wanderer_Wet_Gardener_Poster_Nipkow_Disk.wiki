@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Earthly Delight Garden,Ouroboros Mark,Butterball,The Wanderer,Wet Gardener Poster,Nipkow Disk
+|rank=blue
+|amount=6
+|category=home
+|description=All Rocket Cabin production +2.7%
+}}
+[[Category:Home]]
+[[Category:Rocket Cabin Output Boost]]

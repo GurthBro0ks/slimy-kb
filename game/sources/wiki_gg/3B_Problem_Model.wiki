@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=3B Problem Model
+|class_id=22756
+|rank=SSS
+|affct=TECH
+|birthday=08-10
+|source=
+|description=On Aug 10, 1900 AD, the 3B Problem was proposed at the first mathematical convention.<br>This model was created by mathematician David Hilbert to explain the three-body problem during a conference. It represents three celestial bodies whose mass, initial position, and velocity are all arbitrary values, and can be regarded as point masses, and studies their motion under the influence of universal gravitation. After extensive research by numerous mathematicians, the three-body problem has been determined to be impossible to solve exactly, and only a few special cases have been studied. However, the new ideas that emerged in attempting to solve this problem have become a treasure trove for mathematicians in later generations.
+|fame=71
+|art=52
+|fth=75
+|civ=55
+|tech=109
+|ss1=All Rocket Cabin production +0.9%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +30<br>Per 900 Species War Tech Pts, Snail ATK +3<br>Species War Tech Pts: 45000/45000
+|ss2=All Rocket Cabin production +1.2%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +40<br>Per 900 Species War Tech Pts, Snail ATK +4<br>Species War Tech Pts: 45000/45000
+|ss3=All Rocket Cabin production +1.5%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +50<br>Per 900 Species War Tech Pts, Snail ATK +5<br>Species War Tech Pts: 45000/45000
+|ss4=All Rocket Cabin production +2.1%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +70<br>Per 900 Species War Tech Pts, Snail ATK +7<br>Species War Tech Pts: 45000/45000
+|ss5=All Rocket Cabin production +2.7%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +90<br>Per 900 Species War Tech Pts, Snail ATK +9<br>Species War Tech Pts: 45000/45000
+|ss6=All Rocket Cabin production +3.6%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 900 Species War Tech Pts, Snail ATK +12<br>Species War Tech Pts: 45000/45000
+|ss7=All Rocket Cabin production +3.6%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 900 Species War Tech Pts, Snail ATK +12<br>Species War Tech Pts: 45000/45000<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|mirage={{Mirage|name=3B Problem Researcher|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Bernoulli|3rec=105.41M|3atk=326776|3defense=192198|3hp=28914596|3weak=40856
+|4name=Poincaré|4rec=120.24M|4atk=359033|4defense=213071|4hp=37695112|4weak=44395
+|5name=Hilbert|5rec=139.46M|5atk=401196|5defense=240101|5hp=52316982|5weak=48355
+|6name=Electrical Engineer|6rec=165.82M|6atk=460013|6defense=277188|6hp=77999773|6weak=52899
+|Arec=202.93M|Aatk=538577|Adefense=329399|Ahp=116330670|Aweak=57999
+}}}}

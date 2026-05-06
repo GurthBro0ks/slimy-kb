@@ -1,0 +1,749 @@
+==Pirate Paradise==
+Pirate Paradise is the 1st map within the [[Mysterious Sea]]. Unlock Pirate Paradise by obtaining [[Britland INTEL#Fleet Management|Fleet Management INTEL tile 8]].
+
+Places are determined with rows and columns. Therefore, C1R4 means the 1st column and 4th row, C5R2 means the 5th column and 2nd row, and so on.
+
+===Other Seas===
+{|class=wikitable
+! Pirate Paradise
+! [[Bibini Bottom]]
+! [[Mecha Sea]]
+! [[Poseidon Temple]]
+! [[Dragon Palace]]
+! [[Doomsday Sea]]
+|}
+
+==Floor 1==
+'''Starting Tile''' C1R6
+'''Clear Cost''' 1 NAV Bronze Coin per mist
+
+[[File:Pirate Paradise 1.5.png|200px|left]]
+<tabber>
+|-|Fleet Fights=
+{| class="wikitable"
+!Place
+!Enemy
+!Power
+!Sailors 
+!Reward
+|-
+|C4R1
+|Pirate Fleet
+|420
+|56 
+|Silver +9
+|-
+|C2R2
+|Pirate Fleet
+|392
+| 60
+|Silver +8
+|-
+|C5R2
+|
+|1,018
+|66
+|Gold +5
+|-
+|C3R3
+|Pirate Fleet
+|368
+|64
+|Silver +8
+|-
+|C1R4
+|Pirate Fleet
+|346
+|69
+|Silver +7
+|-
+|C4R5
+|
+|822
+|53
+|Gold +3
+|-
+|C3R6
+|Pirate Fleet
+|327
+|73
+|Silver +7
+|}
+|-|Snail Fights=
+{| class="wikitable"
+!Place 
+!Enemy
+!ATK
+!DEF
+!HP
+!Weakness
+!Reward
+|-
+|C5R2
+|
+|30,844
+|25,981
+|462,540
+|ART 9,814
+|NAV Gold Coin +5, Expert Scroll +5
+|-
+|C4R5
+|
+|30,490 
+|25,682
+|446,272
+|ART 9,751
+|NAV Gold Coin +3, Expert Scroll +5
+|}
+|-|Events=
+{|class="wikitable"
+|colspan="4;" style="background-color:var(--red-bg); text-align:center"|Events
+|-
+!style="background-color:var(--red-bg)"|Place
+!style="background-color:var(--red-bg)"|Event
+!style="background-color:var(--red-bg)"|Requirements
+!style="background-color:var(--red-bg)"|Reward
+|-
+|C1R1
+|Tavern
+|9,800 FAME
+|Gear Chest +5, Sailor +10
+|-
+|C4R3
+|
+|Treasure Hunting Lv.1
+|Dragon Chest +30
+|-
+|C6R3
+|Tavern
+|9,600 FAME
+|Gear Chest +5, Sailor +10
+|-
+|C2R4
+|Lighthouse
+|9,500 TECH
+|?, Glue +10
+|-
+|C3R4
+|Ancient Obelisk
+| -
+|Choose a skill
+|-
+|C5R5
+|Drift Bottle
+| -
+|Expert Scroll +2
+|}
+|-|Other=
+{|class="wikitable" style="text-align:center"
+|style="background-color:var(--blue-bg)"|Sailor
+|Sailor +4
+|-
+|style="background-color:var(--yellow-bg)"|Flotsam<br>1 of:
+|Wood +80<br>Stone +80<br>B-tads +200<br>NAV Bronze Coin +20
+|-
+|style="background-color:var(--green-bg)"|Flotsam<br>1 of:
+|INTEL +50<br>Green Reagent +1<br>NAV Silver Coin +1<br>Novice Scroll +1
+|}
+</tabber>
+
+==Floor 2==
+'''Starting Tile''' C6R1
+'''Clear Cost''' 2 Bronze NAV Coins per mist
+
+[[File:Pirate Paradise 2.5.png|200px|left]]
+<tabber>
+|-|Fleet Fights=
+{| class="wikitable"
+!Place 
+!Enemy
+!Power
+!Sailors
+!Reward
+|-
+|C5R1
+|Pirate Fleet
+|685
+|65
+|Silver +14
+|-
+|C1R2
+|Sea Prison
+|1,707
+|109
+|Gold +10
+|-
+|C2R2
+|Pirate Fleet
+|587
+|77
+|Silver +12
+|-
+|C4R2
+|Pirate Fleet
+|632
+|71
+|Silver +13
+|-
+|C4R4
+|Pirate Fleet
+|514
+|89
+|Silver +11
+|-
+|C6R4
+|Pirate Fleet
+|548
+|83
+|Silver +11
+|-
+|C3R5
+|Pirate Fleet
+|457
+|101
+|Silver +10
+|-
+|C5R5
+|Pirate Fleet
+|484
+|95
+|Silver +10
+|}
+|-|Snail Fights=
+{| class="wikitable"
+!Place
+!Enemy
+!ATK 
+!DEF
+!HP
+!Weakness
+! Reward
+|-
+|C1R2
+|
+|32,211
+|27,118
+|528,462
+|ART 10,071
+|NAV Gold Coin +10, Expert Scroll +5
+|-
+|C1R3
+|Warden
+|32,890
+|27,638
+|542,061
+|ART 10,211
+|Organ Slime +10, Lottery Ticket +1
+|}
+|-|Events=
+{| class="wikitable"
+! colspan="4;" style="background-color:var(--red-bg); text-align:center;" |Events
+|-
+! style="background-color:var(--red-bg)" |Place
+! style="background-color:var(--red-bg)" |Event
+! style="background-color:var(--red-bg)" |Requirements
+! style="background-color:var(--red-bg)" |Reward
+|-
+|C1R1
+|Ancient Obelisk
+| -
+|Choose a skill
+|-
+|C2R1
+|School of Deep-sea Fish
+|Fishing Lv.1
+|Fish Cake +20, B-tads +3,000
+|-
+|C4R1
+|Recent Ruins
+|Archeology Lv.1
+|[[Nefertiti Bust|<span style="color:var(--purple-text)">Nefertiti Bust</span>]] +5
+|-
+|C3R2
+|Lighthouse
+|10,000 TECH
+|Tool Chest +5, Glue +10
+|-
+|C1R3
+|Sea Prison
+| -
+|Snail Fight with "Warden"
+|-
+|C2R5
+|Drift Bottle
+| -
+|Britland Treasure Map +3
+|-
+|C6R5
+|School of Deep-sea Fish
+|Fishing Lv.1
+|Fish Cake +20, B-tads +3,000
+|}
+|-|Other=
+{|class="wikitable" style="text-align:center"
+|style="background-color:var(--blue-bg)"|Sailor
+|Sailor +5
+|-
+|style="background-color:var(--yellow-bg)"|Flotsam<br>1 of:
+|Wood +80<br>Stone +80<br>B-tads +200<br>NAV Bronze Coin +20
+|-
+|style="background-color:var(--green-bg)"|Flotsam<br>1 of:
+|INTEL +50<br>Green Reagent +1<br>NAV Silver Coin +1<br>Novice Scroll +1
+|}
+</tabber>
+
+==Floor 3==
+'''Starting Tile''' C6R5
+'''Clear Cost''' 5 Copper Coins per mist
+
+[[File:Mysterious Sea 3.5.png|200px|left]]
+<tabber>
+|-|Fleet Fight=
+{| class="wikitable"
+!Place 
+!Enemy
+!Power
+!Sailors 
+!Reward
+|-
+|C1R1
+|Pirate Fleet
+|727
+|95
+|Silver +15
+|-
+|C4R1
+|Pirate Fleet
+|783
+|88
+|Silver +16
+|-
+|C5R2
+|Barbarossa
+|2,300
+|146
+|Gold +5
+|-
+|C1R3
+|Pirate Fleet
+|679
+|102
+|Silver +14
+|-
+|C3R3
+|Nomadic Pirate
+|2,992
+|190
+|Gold +15
+|-
+|C3R4
+|Pirate Fleet
+|637
+|109
+|Silver +13
+|-
+|C2R5
+|Pirate Fleet
+|566
+|124
+|Silver +12
+|-
+|C5R5
+|Pirate Fleet
+|599
+|117
+|Silver +12
+|}
+|-|Snail Fights=
+{| class="wikitable"
+!Place
+!Enemy
+!ATK
+! DEF
+!HP
+!Weakness
+! Reward
+|-
+|C5R2
+|Thordan
+|33,009
+|27,738
+|542,637
+|ART 10,246
+|NAV Gold Coin +5, Expert Scroll +5
+|-
+|C6R2
+|Swordsman in Black
+|46,778
+|39,012
+|1,411,014
+|ART 12,652
+|Demon Chest +10, Grandmaster Scroll +10, Purple Coating +10
+|-
+|C3R3
+|
+|33,127
+|27,838
+|543,212
+|ART 10,281
+|NAV Gold Coin +15, Expert Scroll +5
+|}
+|-|Events=
+{| class="wikitable"
+| colspan="4;" style="background-color:var(--red-bg); text-align:center" |Events
+|-
+! style="background-color:var(--red-bg)" |Place
+! style="background-color:var(--red-bg)" |Event
+! style="background-color:var(--red-bg)" |Requirements
+! style="background-color:var(--red-bg)" | Reward
+|-
+|C3R1
+|School of Deep-sea Fish
+|Fishing Lv.1
+|Fish Cake +?0, B-tads +2,000
+|-
+|C4R2
+|Drift Bottle
+| -
+|Expert Scroll +2
+|-
+|C6R2
+|Dinghey
+|10,450 FAME
+|Snail Fight with "Swordsman in Black"
+|-
+|C2R3
+|Lighthouse
+|10,300 TECH
+|Tool Chest +5, Glue +10
+|-
+|C4R5
+|Recent Ruins
+|Archeology Lv.1
+|[[Boy with Goose|<span style="color:var(--purple-text)">Boy with Goose</span>]] +5
+|-
+|C1R6
+|Ancient Obelisk
+| -
+|Choose a skill
+|-
+|C3R6
+|Tavern
+|10,200 FAME
+|Gear Chest +5, Sailor +20
+|}
+|-|Other=
+{|class="wikitable" style="text-align:center"
+|style="background-color:var(--blue-bg)"|Sailor
+|Sailor +6
+|-
+|style="background-color:var(--yellow-bg)"|Flotsam<br>1 of:
+|Wood +80<br>Stone +80<br>B-tads +200<br>NAV Bronze Coin +20
+|-
+|style="background-color:var(--green-bg)"|Flotsam<br>1 of:
+|INTEL +50<br>Green Reagent +1<br>NAV Silver Coin +1<br>Novice Scroll +1
+|}
+</tabber>
+
+==Floor 4==
+'''Starting Tile''' C3R6
+'''Clear Cost''' 10 Bronze Coin per mist
+
+[[File:Pirate Paradise 4.5.png|200px|left]]
+<tabber>
+|-|Fleet Fight=
+{| class="wikitable"
+!Place 
+!Enemy
+!Power
+!Sailors 
+!Reward
+|-
+|C6R1
+|Pirate Fleet
+|1,313
+|145
+|Silver +27
+|-
+|C2R2
+|Vadah
+|4,230
+|267
+|Gold +20
+|-
+|C5R2
+|Pirate Fleet
+|1,219
+|157
+|Silver +25
+|-
+|C2R4
+|Pirate Fleet
+|1,067
+|181
+|Silver +22
+|-
+|C3R4
+|Golden Hind
+|3,586
+|227
+|Gold +8
+|-
+|C6R4
+|Pirate Fleet
+|1,138
+|169
+|Silver +23
+|-
+|C1R5
+|Pirate Fleet
+|949
+|205
+|Silver +19
+|-
+|C5R5
+|Pirate Fleet
+|1,004
+|193
+|Silver +21
+|}
+|-|Snail Fights=
+{| class="wikitable"
+!Place
+!Enemy
+!ATK
+! DEF
+!HP
+!Weakness
+! Reward
+|-
+|C1R2
+|Guard of Armory
+|33,931
+|28,463
+|576,429
+|ART 10,455
+|Gear Chest +10, Corvette Blueprint
+|-
+|C2R2
+|
+|34,220
+|28,670
+|591,334
+|ART 10,485
+|NAV Gold Coin +20, Expert Scroll +5
+|-
+|C3R4
+|
+|33,806
+|28,357
+|575,804
+|ART 10,421
+|NAV Gold Coin +8, Master Scroll +5
+|}
+|-|Events=
+{| class="wikitable"
+| colspan="4;" style="background-color:var(--red-bg); text-align:center" |Events
+|-
+! style="background-color:var(--red-bg)" |Place
+! style="background-color:var(--red-bg)" |Event
+! style="background-color:var(--red-bg)" |Requirements
+! style="background-color:var(--red-bg)" | Reward
+|-
+|C3R1
+|Ancient Obelisk
+| -
+|Choose a skill
+|-
+|C1R2
+|Royal Armory
+| -
+|Snail Fight with "Commander"
+|-
+|C2R3
+|Tavern
+|10,400 FAME
+|Gear Chest +5, Sailor +20
+|-
+|C6R3
+|Recent Ruins
+|Archeology Lv.1
+|Nefertiti Bust +5
+|-
+|C5R4
+|School of Deep-sea Fish
+|Fishing Lv.1
+|Fish Cake +50, B-tads +2,000
+|-
+|C6R5
+|Drift bottle
+| -
+|Expert Scroll +2
+|-
+|C1R6
+|School of Deep-sea Fish
+|Fishing Lv.1
+|Fish Cake +20, B-tads +3,000
+|}
+|-|Other=
+{|class="wikitable" style="text-align:center"
+|style="background-color:var(--blue-bg)"|Sailor
+|Sailor +7
+|-
+|style="background-color:var(--yellow-bg)"|Flotsam<br>1 of:
+|Wood +80<br>Stone +80<br>B-tads +200<br>NAV Bronze Coin +20
+|-
+|style="background-color:var(--green-bg)"|Flotsam<br>1 of:
+|INTEL +50<br>Green Reagent +1<br>NAV Silver Coin +1<br>Novice Scroll +1
+|}
+</tabber>
+
+==Floor 5==
+'''Starting Tile''' C1R1
+'''Clear Cost''' 1 Silver Coin per mist
+
+[[File:Pirate Paradise 5.5.png|200px|left]]
+<tabber>
+|-|Fleet Fights=
+{| class="wikitable"
+!Place 
+!Enemy
+!Power
+!Sailors 
+!Reward
+|-
+|C2R1
+|Pirate Fleet
+|1,769
+|195
+|Silver +36
+|-
+|C5R1
+|Pirate Fleet
+|1,916
+|179
+|Silver +39
+|-
+|C2R3
+|Pirate Fleet
+|1,533
+|227
+|Silver +31
+|-
+|C6R3
+|Pirate Fleet
+|1,643
+|211
+|Silver +33
+|-
+|C1R4
+|Illusion
+|4,677
+|295
+|Gold +10
+|-
+|C4R4
+|Pirate Fleet
+|1,437
+|243
+|Silver +29
+|-
+|C3R5
+|Pirate Fleet
+|1,353
+|260
+|Silver +28
+|-
+|C6R5
+|Queen Annie Revenge
+|5,669
+|358
+|Gold +25
+|-
+|C1R6
+|Pirate Fleet
+|1,278
+|276
+|Silver +26
+|}
+|-|Snail Fights=
+{| class="wikitable"
+!Place
+!Enemy
+!ATK
+! DEF
+!HP
+!Weakness
+! Reward
+|-
+|C1R4
+|Captain Singleton
+|34,830
+|29,186
+|609,590
+|ART 10,603
+|NAV Gold Coin +10, Expert Scroll +5
+|-
+|C6R5
+|Black Beard
+|35,508
+|29,741
+|629,599
+|ART 10,721
+|NAV Gold Coin +30, [[Ship in a Bottle|<span style="color:var(--orange-text)">Ship in a Bottle</span>]]
+|}
+|-|Events=
+{| class="wikitable"
+| colspan="4;" style="background-color:var(--red-bg); text-align:center" |Events
+|-
+! style="background-color:var(--red-bg)" |Place
+! style="background-color:var(--red-bg)" |Event
+! style="background-color:var(--red-bg)" |Requirements
+! style="background-color:var(--red-bg)" | Reward
+|-
+|C3R2
+|Drift Bottle
+| -
+|Britland Treasure Map +3
+|-
+|C6R2
+|Fountain of Eternal Youth
+|Treasure Hunting Lv.2
+|Purple HP-Fungus +1, Magic Potion +10
+|-
+|C5R3
+|Prophet Hut
+|10,700 CIV
+|Master Scroll +1, Orange Reagent +1
+|-
+|C2R4
+|Tavern
+|10,600 FAME
+|Gear Chest +5, Sailor +25
+|-
+|C4R5
+|School of Deep-sea Fish
+|Fishing Lv.1
+|Fish Cake +20, B-tads +3,000
+|-
+|C3R6
+|Ancient Obelisk
+| -
+|Choose a skill
+|}
+|-|Other=
+{|class="wikitable" style="text-align:center"
+|style="background-color:var(--blue-bg)"|Sailor
+|Sailor +8
+|-
+|style="background-color:var(--yellow-bg)"|Flotsam<br>1 of:
+|Wood +80<br>Stone +80<br>B-tads +200<br>NAV Bronze Coin +20
+|-
+|style="background-color:var(--green-bg)"|Flotsam<br>1 of:
+|INTEL +50<br>Green Reagent +1<br>NAV Silver Coin +1<br>Novice Scroll +1
+|}
+</tabber>
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Britland]]

@@ -1,0 +1,43 @@
+{{CargoRelic
+|name=Galileo's Ball
+|rank=AAA
+|affct=FAME
+|birthday=09-12
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On Sep 12, 1589, Galileo tested his law of falling bodies at the Leaning Tower of Pisa.
+
+He dropped two spheres of different sizes but made of the same material. According to legend, they landed simultaneously, disproving Aristotle's theory that heavier objects fall faster than lighter ones. Aristotle's views on falling objects had been accepted for nearly 2000 years. However, there is no concrete evidence that Galileo conducted this test. Historians believe that this was more of a thought experiment than an actual historical event.
+
+[Famous Thought Experiments]
+
+Trolley problem; The Cow in the field; The Ticking Time Bomb; Einstein's Light Beam; the Ship of Theseus; Monkeys and Typewriters; The Chinese Room; Schrödinger's Cat; Brain in a Vat
+|fame=72
+|art=52
+|fth=40
+|civ=35
+|tech=44
+|ss1=Quarry produces Ancient Fossil by +6%<br>Per 5 Quarry LVLs, Snail DEF +12<br>Quarry LVL: 50/50
+|ss2=Quarry produces Ancient Fossil by +8%<br>Per 5 Quarry LVLs, Snail DEF +16<br>Quarry LVL: 50/50
+|ss3=Quarry produces Ancient Fossil by +10%<br>Per 5 Quarry LVLs, Snail DEF +20<br>Quarry LVL: 50/50
+|ss4=Quarry produces Ancient Fossil by +14%<br>Per 5 Quarry LVLs, Snail DEF +28<br>Quarry LVL: 50/50
+|ss5=Quarry produces Ancient Fossil by +18%<br>Per 5 Quarry LVLs, Snail DEF +36<br>Quarry LVL: 50/50
+|ss7=Quarry produces Ancient Fossil by +18%<br>Per 5 Quarry LVLs, Snail DEF +36<br>Quarry LVL: 50/50<br>Quarry produces Ancient Fossil by +14% (Awakened)
+|skill1=[[File:Hellas skill II.png|50px]] Place in Hellenic Museum: In Hellas, B-tads gained +7.5%
+|skill2=[[File:Hellas skill II.png|50px]] Place in Hellenic Museum: In Hellas, 2x Purple Reagent Drops +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FAME Relics]]
+[[Category:Purple FAME Relics]]
+[[Category:Ancient Fossil Boost]]
+[[Category:Quarry Boost]]
+[[Category:DEF Boost]]
+[[Category:ATK Boost]]
+[[Category:Hellas Museum Boost]]
+[[Category:Hellas Exploration Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Time Machine Output Boost]]
+[[Category:Enhanced by DNA Strength]]
+[[Category:Enhanced by Quarry LVL]]

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=344
+|relics=Earth Magnetic Field,Chain Reaction Model
+|rank=blue
+|amount=2
+|category=self
+|description=Snail DEF +50
+}}

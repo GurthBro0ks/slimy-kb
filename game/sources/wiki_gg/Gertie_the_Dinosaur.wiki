@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Gertie the Dinosaur
+|class_id=22015
+|rank=Blue
+|affct=FAME
+|birthday=05-07
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On May 7, 1913 AD, McCay designed the image of Gertie, the dinosaur.<br>Gertie the Dinosaur is a pioneering work of animation by McCay, the pioneer of the animation industry. The creation of the animated character, Gertie the Dinosaur, marked a turning point in the animation industry. Before its creation, animation was mainly used as a special effect in movies or the experimental work of elite artists. The creation of Gertie the Dinosaur not only directly influenced all the cartoonists and animators but laid the foundation for the modern animation industry.
+|fame=45
+|art=27
+|fth=20
+|civ=28
+|tech=34
+|ss1=Per 10 Dragon Minions in battle:<br>> Troop ATK +1
+|ss2=Per 10 Dragon Minions in battle:<br>> Troop ATK +2
+|ss3=Per 10 Dragon Minions in battle:<br>> Troop ATK +3
+|ss4=Per 10 Dragon Minions in battle:<br>> Troop ATK +5
+|ss7=Per 10 Dragon Minions in battle:<br>> Troop ATK +5<br>Per 10 Dragon Minions in battle:<br>> Troop ATK +5 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: This Relic's FAME +5
+}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Golden Cooker
+|class_id=22567
+|rank=AAA
+|affct=FAITH
+|birthday=01-03
+|source=
+|description=On Jan 3, 1212 AD, the Golden Kitchenware was unearthed after being buried for many years.<br>The owner of the Golden Kitchenware was the previous Master Chef. He spent his entire life creating gold, silver, and copper kitchenware, which paved his way to godhood. However, when he tried to ascend, heavenly punishment was triggered, and several massive thunderbolts destroyed the silver and copper sets. His divine spirit left a legacy within the golden set before vanishing.
+|fame=41
+|art=52
+|fth=72
+|civ=33
+|tech=45
+|ss1=Per 3 Cooking Utensil LVLs, Snail ATK +9<br>Per 3 Cooking Utensil LVLs, Snail DEF +9<br>Cooking Utensil LVL: 60/60
+|ss2=Per 3 Cooking Utensil LVLs, Snail ATK +12<br>Per 3 Cooking Utensil LVLs, Snail DEF +12<br>Cooking Utensil LVL: 60/60
+|ss3=Per 3 Cooking Utensil LVLs, Snail ATK +15<br>Per 3 Cooking Utensil LVLs, Snail DEF +15<br>Cooking Utensil LVL: 60/60
+|ss4=Per 3 Cooking Utensil LVLs, Snail ATK +21<br>Per 3 Cooking Utensil LVLs, Snail DEF +21<br>Cooking Utensil LVL: 60/60
+|ss5=Per 3 Cooking Utensil LVLs, Snail ATK +27<br>Per 3 Cooking Utensil LVLs, Snail DEF +27<br>Cooking Utensil LVL: 60/60
+|ss7=Per 3 Cooking Utensil LVLs, Snail ATK +27<br>Per 3 Cooking Utensil LVLs, Snail DEF +27<br>Cooking Utensil LVL: 60/60<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +30
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's FTH +10
+}}

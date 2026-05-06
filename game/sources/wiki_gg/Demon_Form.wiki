@@ -1,0 +1,628 @@
+{{Form|formName=Demon|image1=Demon Form I.png|caption-image1=The Demon Form grants you the power to reap the souls of your victims. You store them in sealed containers, then offer them at an altar to so-called gods.}}
+
+==Demon Sequences==
+Each sequence is acquired from a unique source and all four are required to obtain the T4 Demon Evolution.
+{| class="wikitable" style="text-align:center;" cellpadding="10"
+!Sequence!!Source !!Boosts !!Rewards
+|-
+|{{RewardIconWithText|Flames of Plague}}
+|Defeat [[Koryeo Apostles#Executioner|Koryeo Apostle Executioner]]
+|In Demon Form, Snail HP +5%<br>Explore in Demon Form, gain +2% Soul Chests<br>Free Research Speedup (Demon) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Demon Cell, +1.2k}}<br>{{RewardIconWithLink|Soul Chest, +50}}
+|-
+|{{RewardIconWithText|Flames of Famine}}
+|Defeat [[Koryeo Apostles#Mutant Hairsnake|Koryeo Apostle Mutant Hairsnake]]
+|In Demon Form, Snail ATK +5%<br>Explore in Demon Form, gain +2% Soul Chests<br>Free Research Speedup (Demon) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Demon Cell, +1.2k}}<br>{{RewardIconWithLink|Soul Chest, +50}}
+|-
+|{{RewardIconWithText|Flames of War}}
+|Defeat [[Koryeo Apostles#Exterminator|Koryeo Apostle Exterminator]]
+|In Demon Form, Snail DEF +5%<br>Explore in Demon Form, gain +2% Soul Chests<br>Free Research Speedup (Demon) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Demon Cell, +1.2k}}<br>{{RewardIconWithLink|Soul Chest, +50}}
+|-
+|{{RewardIconWithText|Flames of Death}}
+|Defeat [[Events#The Manhunt Act|Manhunt Target Ex Agent]]
+|In Demon Form, Snail RUSH +5%<br>Explore in Demon Form, gain +2% Soul Chests<br>Free Research Speedup (Demon) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Demon Cell, +1.2k}}<br>{{RewardIconWithLink|Soul Chest, +50}}
+|}
+
+== Tiers and Stats ==
+
+=== Base Stats ===
+Below is each Tier and their base stats in Demon Form. The stat bonus provided by obtaining form sequences is not included until Tier 4 as it requires all four sequences to be activated. 
+{| class="wikitable" style="text-align:center;" cellpadding="10"
+!Tier !!Form !!HP !!ATK !!DEF !!RUSH !!Bonuses
+|-
+|I
+|Demon Son
+| +10%
+| +20%
+| +20%
+| +10%
+|When in Demon form, gain +10% Soul Chests in exploration
+|-
+|II
+|Blasphemer
+| +15%
+| +20%
+| +20%
+| +15%
+|
+|-
+|III
+|Pain Dominator
+| +15%
+| +30%
+| +30%
+| +15%
+|When in Demon form, gain +28% Soul Chests in exploration<br>Free Gene Speedup (Demon) +20m
+|-
+|IV
+|The Defiled
+| +25%
+| +35%
+| +35%
+| +25%
+| When in Demon form, gain +33% Soul Chests in exploration<br>Free Gene Speedup (Demon) +20m<br>In Demon Form Trials, DMG +30%
+|-
+|V
+|Heretic
+| +25%
+| +45%
+| +45%
+| +25%
+|When in Demon Form, gain +38% Soul Chests in exploration<br>Free Gene Speedup (Demon) +20m
+|-
+|VI
+|Blood Lord
+| +30%
+| +45%
+| +45%
+| +30%
+|When in Demon Form, gain +43% Soul Chests in exploration<br>Free Gene Speedup (Demon) +20m
+|-
+|VII
+|Desperate Wail
+| +30%
+| +55%
+| +55%
+| +30%
+|When in Demon Form, gain +48% Soul Chests in explorations<br>Free Gene Speedup (Demon) +20m
+|}
+
+=== Extra Boosts ===
+After T4, ART [[relics]] can be awakened for extra boosts.
+{| class="wikitable" style="text-align:center;" cellpadding="8"
+!Relics Awakened
+!Boosts
+|-
+|1
+|In All Forms, Snail ATK +50
+|-
+|10
+|In All Forms, Snail ATK +550
+|-
+|20
+|In All Forms, Snail ATK +1500
+|}
+
+==Gene Research==
+[[File:Gene research.png|left]]
+After unlocking Zombie Form during early [[Evolution]], the Super Gene Expert will arrive in the [[Mailbox]] to give you the parts necessary to unlock the Research Machine. 
+
+Research is divided according to the Tier of your Form, abbreviated to T1, T2, T3, etc. This is further divided into 8 separate research segments. The numbered list on the left shows an example DNA strand where 1A-1C is on the left and 2A-2C is on the right. These will switch back and forth with each tier, however 1 is always blue and corresponds to Snail Stat boosts across all Forms and 2 is always red and corresponds to Troop Stat boosts according to Demon Minions in battle. The middle segment gives special bonuses and the last segment unlock the Ritual required to ascend to the next form.
+
+=== Research Order ===
+Note that items must be researched in a certain order, generally from top to bottom. Each segment has a certain number of levels and can only be researched as high as the previous segment. If 1A is only Lv.3 out of 5, 1B can only be researched to Lv.3 as well. The middle bubble can only be researched as high as the lowest of either B segment. If 1B is Lv. 2 and 2B is Lv.1, the middle bubble can only be researched to Lv.1, etc.
+
+{{Clear}}
+
+==Evolution==
+Upgrading Demon Form requires Demon Cells and a certain amount of ART. This Form is best used in Yamato and increases the chance of finding Soul Chests.
+<tabber>
+|-|T1=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+! rowspan="2" |Effect
+! rowspan="2" |DNA Strength<br>Increase
+|-
+!Time
+!Cells 
+!B-tads
+|-
+| style="text-align:center" |1A<br>HP Up D-I
+|1||0:20:00||100||50||Snail HP +50||10
+|-
+| style="text-align:center" |1B<br>ATK Up D-I
+|1||0:30:00||150||75||Snail ATK +10||12
+|-
+| style="text-align:center" |1C<br>ART Up D-I
+|1||0:20:00||200||100||Snail ART +50<br>When in Demon Form:<br>Gain +1% Soul Chests in explorations||16
+|-
+| style="text-align:center" |2A<br>HP Up Gene D-I
+|1||0:20:00||100||50||Per 10 Demon Minions in battle, Troop HP +60||10
+|-
+| style="text-align:center" |2B<br>ATK Up Gene D-I
+|1||0:30:00||150||75||Per 10 Demon Minions in battle, Troop ATK +6||12
+|-
+| style="text-align:center" |2C<br>All Genes Up D-I
+|1||0:40:00||200||100||Per 10 Demon Minions in battle, Troop HARD Stats +2||16
+|-
+| style="text-align:center" |3<br>Genetic Resonance
+|1||0:30:00||150||75||Dispatchable Research Partners +1||30
+|-
+| style="text-align:center" |4<br>Demon Gene Lock II
+|1||1:00:00||600||300||Advance to Demon form T2: Blasphemer<br>Demon Minion Max Tier Up||30
+|}
+|-|T2=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+! rowspan="2" | Effect
+! rowspan="2" |DNA Strength<br>Increase
+|-
+!Time
+!Cells 
+!B-tads
+|-
+| style="text-align:center" |2A<br>DEF Up Gene D-I
+|1||1:00:00||250||250||Per 10 Demon Minions in battle, Troop DEF +6||20
+|-
+| style="text-align:center" |2B<br>SPD Up Gene D-I
+|1||1:15:00||300||300||Per 10 Demon Minions in battle, Troop RUSH +6||24
+|-
+| style="text-align:center" |2C<br>All Genes Up D-I
+|1||1:30:00||350||350||Per 10 Demon Minions in battle, Troop HARD Stats +2||28
+|-
+| style="text-align:center" |1A<br>DEF Up D-I
+|1||1:00:00||250||250||Snail DEF +10||20
+|-
+| style="text-align:center" |2B<br>RUSH Up D-I
+|1||1:15:00||300||300||Snail RUSH +10||24
+|-
+| style="text-align:center" |1C<br>ART Up D-I
+|1||1:30:00||350||350||Snail ART +50<br>When in Demon Form:<br>Gain +1% Soul Chests in explorations||28
+|-
+| style="text-align:center" | 3<br>Requiem
+|1||1:15:00||300||300||{{Relink|Requiem|blue}} +20||75
+|-
+| style="text-align:center" |4<br>Demon Gene Lock III
+|1||3:00:00||1,200||1,200||Advance to Demon form T3: Pain Dominator<br>Demon Minion Max Tier Up||50
+|}
+|-|T3=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+! rowspan="2" | Effect
+! rowspan="2" |DNA Strength<br>Increase
+|-
+!Time
+!Cells
+!B-tads
+|-
+| rowspan="5" style="text-align:center" |1A<br>HP Up D-II
+|1||1:30:00||400||600||Snail HP +20||30
+|-
+|2||2:00:00||600||900||Snail HP +50||45
+|-
+|3||2:30:00||800||1,200||Snail HP +90||60
+|-
+|4||3:00:00||1,000||1,500||Snail HP +140||75
+|-
+|5||3:30:00||1,200||1,800||Snail HP +200||90
+|-
+| rowspan="5" style="text-align:center" |1B<br>ATK Up D-II
+|1||1:45:00||600||900||Snail ATK +4||36
+|-
+|2||2:30:00||900||1,350||Snail ATK +10||54
+|-
+|3||3:15:00 ||1,200||1,800||Snail ATK +18||72
+|-
+|4||4:00:00||1,500||2,250||Snail ATK +28||90
+|-
+|5||4:45:00||1,800||2,700||Snail ATK +40||108 
+|-
+| rowspan="5" style="text-align:center" |1C<br>ART Up D-II
+|1||2:00:00||800||1,200||Snail ART +20<br>When in Demon Form:<br>Gain +1% Soul Chests in explorations||42
+|-
+|2||3:00:00||1,200||1,800||Snail ART +50<br>When in Demon Form:<br>Gain +1.5% Soul Chests in explorations||63
+|-
+|3||4:00:00||1,600||2,400||Snail ART +90<br>When in Demon Form:<br>Gain +2% Soul Chests in explorations||84
+|-
+|4||5:00:00||2,000||3,000||Snail ART +140<br>When in Demon Form:<br>Gain +2.5% Soul Chests in explorations||105
+|-
+|5||6:00:00||2,400||3,600||Snail ART +200<br>When in Demon Form:<br>Gain +3% Soul Chests in explorations||126
+|-
+| rowspan="5" style="text-align:center"|2A<br>HP Up Gene D-II
+|1||1:30:00||400||600||Per 10 Demon Minions in battle, Troop HP +30||30
+|-
+|2||2:00:00||600||900||Per 10 Demon Minions in battle, Troop HP +60||45
+|-
+|3||2:30:00||800||1,200||Per 10 Demon Minions in battle, Troop HP +90||60
+|-
+|4||3:00:00||1,00||1,500||Per 10 Demon Minions in battle, Troop HP +120||75
+|-
+|5||3:30:00||1,200||1,800||Per 10 Demon Minions in battle, Troop HP +150||90
+|-
+|rowspan="5" style="text-align:center"|2B<br>ATK Up Gene D-II
+|1||1:45:00||600||900||Per 10 Demon Minions in battle, Troop ATK +3||36
+|-
+|2||2:30:00||900||1,350||Per 10 Demon Minions in battle, Troop ATK +6||54
+|-
+|3||3:15:00||1,200||1,800||Per 10 Demon Minions in battle, Troop ATK +9||72
+|-
+|4||4:00:00||1,500||2,250||Per 10 Demon Minions in battle, Troop ATK +12||90
+|-
+|5||4:45:00||1,800||2,700||Per 10 Demon Minions in battle, Troop ATK +15||108
+|-
+|rowspan="5" style="text-align:center"|2C<br>All Genes Up D-II
+|1||2:00:00||800||1,200||Per 10 Demon Minions in battle, Troop HARD Stats +1||42
+|-
+|2||3:00:00||1,200||1,800||Per 10 Demon Minions in battle, Troop HARD Stats +2||63
+|-
+|3||4:00:00||1,600||2,400||Per 10 Demon Minions in battle, Troop HARD Stats +3||84
+|-
+|4||5:00:00||2,000||3,000||Per 10 Demon Minions in battle, Troop HARD Stats +4||105
+|-
+|5||6:00:00||2,400||3,600||Per 10 Demon Minions in battle, Troop HARD Stats +5||126
+|-
+|style="text-align:center"|3<br>Demon Scythe
+|1||1:45:00||600||900||Obtain {{Gearlink|blue|Form|Demon Scythe}}||105
+|-
+|style="text-align:center"|4<br>Demon Ritual IV
+|1||6:00:00||3,000||4,500||Advance to Demon form T4: The Defiled<br>In Demon Form Trials, DMG +30%<br>Demon Minion Max Tier Up||120
+|}
+|-|T4=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+! rowspan="2" | Effect
+! rowspan="2" |DNA Strength<br>Increase
+|-
+!Time
+!Cells
+!B-tads
+|-
+| rowspan="5" style="text-align:center" |2A<br>DEF Up Gene D-II
+|1||2:00:00||1,000||2,000||Per 10 Demon Minions in battle, Troop DEF +3||48
+|-
+|2||3:30:00||1,800||3,600||Per 10 Demon Minions in battle, Troop DEF +6||72
+|-
+|3||5:00:00||2,600||5,200||Per 10 Demon Minions in battle, Troop DEF +9||96
+|-
+|4||6:30:00||3,400||6,800||Per 10 Demon Minions in battle, Troop DEF +12||120
+|-
+|5||8:00:00||4,200||8,400||Per 10 Demon Minions in battle, Troop DEF +15||144
+|-
+| rowspan="5" style="text-align:center" |2B<br>SPD Up Gene D-II
+|1||3:00:00||2,000||4,000||Per 10 Demon Minions in battle, Troop RUSH +3||54
+|-
+|2||5:00:00||3,600||7,200||Per 10 Demon Minions in battle, Troop RUSH +6||81
+|-
+|3||7:00:00||5,200||10,400||Per 10 Demon Minions in battle, Troop RUSH +9||108
+|-
+|4||9:00:00||6,800 ||13,600||Per 10 Demon Minions in battle, Troop RUSH +12||135
+|-
+|5||11:00:00||8,400||16,800||Per 10 Demon Minions in battle, Troop RUSH +15||162
+|-
+|rowspan="5" style="text-align:center"|2C<br>All Genes Up D-II
+|1||4:00:00||3,000||6,000||Per 10 Demon Minions in battle, Troop HARD Stats +1||60
+|-
+|2||7:00:00||5,400||10,800||Per 10 Demon Minions in battle, Troop HARD Stats +2||90
+|-
+|3||10:00:00||7,800||15,600||Per 10 Demon Minions in battle, Troop HARD Stats +3||120 
+|-
+|4||13:00:00||10,200||20,400||Per 10 Demon Minions in battle, Troop HARD Stats +4||150
+|-
+|5||16:00:00 ||12,600||25,200||Per 10 Demon Minions in battle, Troop HARD Stats +5||180
+|-
+|rowspan="5" style="text-align:center"|1A<br>DEF Up D-II 
+|1||2:00:00||1,000||2,000||Snail DEF +4||48
+|-
+|2||3:30:00||1,800||3,600||Snail DEF +10||72
+|-
+|3||5:00:00||2,600||5,200||Snail DEF +18||96
+|-
+|4||6:30:00||3,400||6,800||Snail DEF +28||120
+|-
+|5||8:00:00||4,200||8,400||Snail DEF +40||144
+|-
+|rowspan="5" style="text-align:center"|1B<br>RUSH Up D-II
+|1||3:00:00||2,000||4,000||Snail RUSH +4||54
+|-
+|2||5:00:00||3,600||7,200||Snail RUSH +10||81
+|-
+|3||7:00:00||5,200||10,400||Snail RUSH +18||108
+|-
+|4||9:00:00||6,800||13,600||Snail RUSH +28||135
+|-
+|5||11:00:00||8,400||16,800||Snail RUSH +40||162
+|-
+|rowspan="5" style="text-align:center"|1C<br>ART Up D-II
+|1||4:00:00||3,000||6,000||Snail ART +20<br>When in Demon Form:<br>Gain +1% Soul Chests in explorations||60
+|-
+|2||7:00:00||5,400||10,800||Snail ART +50<br>When in Demon Form:<br>Gain +1.5% Soul Chests in explorations||90
+|-
+|3||10:00:00||7,800||15,600||Snail ART +90<br>When in Demon Form:<br>Gain +2% Soul Chests in explorations||120
+|-
+|4||13:00:00||10,200||20,400||Snail ART +140<br>When in Demon Form:<br>Gain +2.5% Soul Chests in explorations||150
+|-
+|5||16:00:00||12,600||25,200||Snail ART +200<br>When in Demon Form:<br>Gain +3% Soul Chests in explorations||180
+|-
+|style="text-align:center"|3<br>Demon Dene Mutation
+|1||3:00:00||2,000||4,000||Snail Leadership +10|Demon Minion MAX +5||180
+|-
+|style="text-align:center"|4<br>Demon Ritual V
+|1||24:00:00||15,000||30,000||Advance to Demon Form T5: Heretic<br>In Demon Form Trials, DMG +30%<br>Demon Minion Max Tier Up||160
+|}
+|-|T5=
+{|class="wikitable"
+! rowspan="2"|
+! rowspan="2"|Lv.
+! colspan="3"|Cost
+! rowspan="2"|Effect
+! rowspan="2"|DNA Strength<br>Increase
+|-
+!Time
+!Cells
+!B-tads
+|-
+|rowspan="10" style="text-align:center"|1A<br>HP Up D-III
+|1||6:00:00||4,000||10,000||Snail HP +60||80
+|-
+|2||9:00:00||5,000||12,500||Snail HP +140||120
+|-
+|3||12:00:00||6,000||15,000||Snail HP +240||160
+|-
+|4||15:00:00||7,000||17,500||Snail HP +360||200
+|-
+|5||18:00:00||8,000||20,000||Snail HP +500||240
+|-
+|6||21:00:00||9,000||22,500||Snail HP +660||280
+|-
+|7||24:00:00||10,000||25,000||Snail HP +840||320
+|-
+|8||27:00:00||11,000||25,000||Snail HP +1,040||360
+|-
+|9||30:00:00||12,000||30,000||Snail HP +1,260||400
+|-
+|10||33:00:00||13,000||32,500||Snail HP +1,500||440
+|-
+|rowspan="10" style="text-align:center"|1B<br>ATK Up D-III
+|1||8:00:00||6,000||15,000||Snail ATK +12||90
+|-
+|2||12:00:00||7,500||18,750||Snail ATK +28||135
+|-
+|3||16:00:00||9,000||22,500||Snail ATK +48||180
+|-
+|4||20:00:00||10,500||26,250||Snail ATK +72||225
+|-
+|5||24:00:00||12,000||30,000||Snail ATK +100||270
+|-
+|6||28:00:00||13,500||37,500||Snail ATK +132||315
+|-
+|7||32:00:00||15,000||37,500||Snail ATK +168||360
+|-
+|8||36:00:00||16,500||41,250||Snail ATK +208||405
+|-
+|9||40:00:00||18,000||45,000||Snail ATK +252||450
+|-
+|10||44:00:00||19,500||48,750||Snail ATK +300||495
+|-
+|rowspan="10"  style="text-align:center"|1C<br>ART Up D-III
+|1||10:00:00||8,000||20,000||ART +30<br>When in Demon Form:<br>Gain +2% Soul Chests in explorations||100
+|-
+|2||15:00:00||10,000||25,000||ART +70<br>When in Demon Form:<br>Gain +2.5% Soul Chests in explorations||150
+|-
+|3||20:00;00||12,000||30,000||ART +120<br>When in Demon Form:<br>Gain +3% Soul Chests in explorations||200
+|-
+|4||25:00:00||14,000||35,000||ART +180<br>When in Demon Form:<br>Gain +3.5% Soul Chests in explorations||250
+|-
+|5||30:00:00||16,000||40,000||ART +250<br>When in Demon Form:<br>Gain +4% Soul Chests in explorations||300
+|-
+|6||35:00:00||18,000||45,000||ART +330<br>When in Demon Form:<br>Gain +4.5% Soul Chests in explorations||350
+|-
+|7||40:00:00||20,000||50,000||ART +420<br>When in Demon Form:<br>Gain +5% Soul Chests in explorations||400
+|-
+|8||45:00:00||22,000||55,000||ART +520<br>When in Demon Form:<br>Gain +5.5% Soul Chests in explorations||450
+|-
+|9||50:00:00||24,000||60,000||ART +630<br>When in Demon Form:<br>Gain +6% Soul Chests in explorations||500
+|-
+|10||55:00:00||26,000||65,000||ART +750<br>When in Demon Form:<br>Gain +6.5% Soul Chests in explorations||550
+|-
+|rowspan="10"  style="text-align:center"|2A<br>HP Up Gene D-III
+|1||6:00:00||4,000||10,000||Per 30 Demon Minions in battle, Troop HP +90||80
+|-
+|2||9:00:00||5,000||12,500||Per 30 Demon Minions in battle, Troop HP +180||120
+|-
+|3||12:00:00||6,000||15,000||Per 30 Demon Minions in battle, Troop HP +270||160
+|-
+|4||15:00:00||7,000||17,500||Per 30 Demon Minions in battle, Troop HP +360||200
+|-
+|5||18:00:00||8,000||20,000||Per 30 Demon Minions in battle, Troop HP +450||240 
+|-
+|6||21:00:00||9,000||22,500||Per 30 Demon Minions in battle, Troop HP +540||280
+|-
+|7||24:00:00||10,000||25,000||Per 30 Demon Minions in battle, Troop HP +630||320
+|-
+|8||27:00:00||11,000||27,500||Per 30 Demon Minions in battle, Troop HP +720||360
+|-
+|9||30:00:00||12,000||30,000||Per 30 Demon Minions in battle, Troop HP +900||400
+|-
+|10||33:00:00||13,000||32,500||Per 30 Demon Minions in battle, Troop HP +900||440
+|-
+|rowspan="10"  style="text-align:center"|2B<br>ATK Up Gene D-III
+|1||8:00:00||6,000||15,000||Per 30 Demon Minions in battle, Troop ATK +9||90
+|-
+|2||12:00:00||7,500||18,750||Per 30 Demon Minions in battle, Troop ATK +18||135
+|-
+|3||16:00:00||9,000||22,500||Per 30 Demon Minions in battle, Troop ATK +27||180
+|-
+|4||20:00:00||10,500||26,250||Per 30 Demon Minions in battle, Troop ATK +36||25 
+|-
+|5||24:00:00||12,000||30,000||Per 30 Demon Minions in battle, Troop ATK +45||270
+|-
+|6||28:00:00||13,500||33,750||Per 30 Demon Minions in battle, Troop ATK +54||315
+|-
+|7||32:00:00||15,000||37,500||Per 30 Demon Minions in battle, Troop ATK +63||360
+|-
+|8||36:00:00||16,500||41,250||Per 30 Demon Minions in battle, Troop ATK +72||405
+|-
+|9||40:00:00||18,000||45,000||Per 30 Demon Minions in battle, Troop ATK +81||450
+|-
+|10||44:00:00||19,500||48,750||Per 30 Demon Minions in battle, Troop ATK +90||495
+|-
+|rowspan="10"  style="text-align:center"|2C<br>All Genes Up D-III
+|1||10:00:00||8,000||20,000||Per 30 Demon Minions in battle, Troop HARD Stats +3||100
+|-
+|2||15:00:00||10,000||25,000||Per 30 Demon Minions in battle, Troop HARD Stats +6||150
+|-
+|3||20:00:00||12,000||30,000||Per 30 Demon Minions in battle, Troop HARD Stats +9||200
+|-
+|4||25:00:00||14,000||35,000||Per 30 Demon Minions in battle, Troop HARD Stats +12||250
+|-
+|5||30:00:00||16,000||40,000||Per 30 Demon Minions in battle, Troop HARD Stats +15||300
+|-
+|6||35:00:00||18,000||45,000||Per 30 Demon Minions in battle, Troop HARD Stats +18||350
+|-
+|7||40:00:00||20,000||50,000||Per 30 Demon Minions in battle, Troop HARD Stats +21||400
+|-
+|8||45:00:00||22,000||55,000||Per 30 Demon Minions in battle, Troop HARD Stats +24||450
+|-
+|9||50:00:00||24,000||60,000||Per 30 Demon Minions in battle, Troop HARD Stats +27||500
+|-
+|10||55:00:00||26,000||65,000||Per 30 Demon Minions in battle, Troop HARD Stats +30||550 
+|-
+|rowspan="3"  style="text-align:center"|3<br>Compass Upgrade
+|1||20:00:00||20,000||50,000||All Compasses effect +40%||400
+|-
+|2||40:00:00||40,000||100,000||All Compasses effect +60%||450
+|-
+|3||60:00:00||60,000||150,000||All Compasses effect +80%||500
+|-
+|style="text-align:center"|4<br>Demon Ritual VI
+|1||120:00:00||30,000||75,000||||500
+|}
+</tabber>
+
+==Rank Up Rituals==
+Once research is complete, a ritual will be started. Once the conditions are cleared, Demon Form will rise from in Tier.
+
+<tabber>
+|-|T4=
+For Demon Form to rise from T3 to T4:
+{|class="wikitable"
+!Ritual
+!How to complete
+|-
+|Activate Sequence: {{RewardIconWithLink|Flames of Plague|black|Demon Form#Demon Sequences}}
+|Defeat [[Koryeo Apostles#Executioner|Koryeo Apostle Executioner]]
+|-
+|Activate Sequence: {{RewardIconWithLink|Flames of Famine|black|Demon Form#Demon Sequences}}
+|Defeat [[Koryeo Apostles#Mutant Hairsnake|Koryeo Apostle Mutant Hairsnake]]
+|-
+|Activate Sequence: {{RewardIconWithLink|Flames of War|black|Demon Form#Demon Sequences}}
+|Defeat [[Koryeo Apostles#Exterminator|Koryeo Apostle Exterminator]]
+|-
+|Activate Sequence: {{RewardIconWithLink|Flames of Death|black|Demon Form#Demon Sequences}}
+|Defeat [[Events#The Manhunt Act|Manhunt Target Ex Agent]]
+|-
+|Obtain {{RewardIconWithText|Flame Core}} from Super Gene Expert
+|Speak with the [[Mailbox#Super Gene Expert|Super Gene Expert]] from the [[Mailbox]]
+|-
+|Ascent after ART reaches 4,000
+|Raise ART by acquiring and upgrading ART [[Relics]] and consuming ART-Fungi
+|}
+|-|T5=
+For Demon Form to rise from T4 to T5:
+{|class="wikitable"
+!Ritual
+!How to complete
+|-
+|Submit 20 Demon Minions in Demon Form
+|Open up the Ritual Menu and manually submit 20 Demon Minions while in Demon Form
+|-
+|Reach Demon Form Trial Lv. 100
+|
+|-
+|Ascend after ART reaches 8,000
+|Raise ART by acquiring and upgrading ART [[Relics]] and consuming ART-Fungi
+|}
+|-|T6=
+For Demon Form to rise from T5 to T6:
+{|class="wikitable"
+!Ritual !!How to complete
+|-
+|Defeat the invading Demon Hunter Squad
+|Three Demon Hunters will appear in your mailbox over the course of three days
+|-
+|Reach Demon Form Trial Lv. 200
+|[[Gene Simulation]]
+|-
+|Ascend after ART reaches 15,000
+|Raise ART by acquiring and upgrading ART [[Relics]] and consuming ART-Fungi
+|}
+
+{|class="wikitable"
+|-
+!colspan="5" |Demon Hunter Squad
+|-
+!ATK !!DEF !!HP !!Weakness !!Reward
+|-
+|37,448
+|24,705
+|572,613
+|ART 11,500
+|100 Soul Chests
+|-
+|41,417
+|27,323
+|668,511
+|ART 12,250
+|100 Soul Chests
+|-
+|45,667
+|30,127
+|757,352
+|ART 13,000
+|100 Soul Chests, Demon Hunter's Blood
+|}
+|-|T7=
+For Demon Form to rise from T6 to T7
+{| class="wikitable"
+|-
+!Ritual!!How to complete
+|-
+|Defeat the [[Events#The Manhunt Act| Ex Agent's]] final form
+|Defeat the [[Events#The Manhunt Act| Ex Agent Lv. 3]] in the Manhunt Act
+|-
+|Reach Demon Form Trial Lv. 300
+|[[Gene Simulation]]
+|-
+|Ascend after ART reaches 20,000
+|Raise ART by acquiring and upgrading ART [[Relics]] and consuming ART-Fungi
+|}
+|-|T8=
+For Demon Form to rise from T7 to T8
+{| class="wikitable"
+|-
+!Ritual!!How to complete
+|-
+|Upgrade Demon Form Gear/Weapon to +3
+|
+|-
+|In Demon Form summon Azazel at the altar
+|
+|-
+|Reach Demon Form Trial Lv. 300
+|[[Gene Simulation]]
+|-
+|Ascend after ART reaches 25,000
+|Raise ART by acquiring and upgrading ART [[Relics]] and consuming ART-Fungi
+|}
+</tabber>

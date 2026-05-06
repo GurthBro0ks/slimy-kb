@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Golden Vase
+|class_id=21727
+|rank=SSS
+|affct=FAITH
+|birthday=08-17
+|source=
+|description=On Aug 17, 1792 AD, the next Eminent Monk was decided by drawing lots from a Golden Vase for the first time.<br>There were two Golden Vases. One was in Jokhang Temple, and the other was in Lama Temple. The grand minister resident of Tibet, Khutuktus, and monastic affair officials were present at the drawing lots ceremony. The Khutuktus and monks would chant and pray, the resident minister of Tibet would shake the Golden Vase, draw the stick, and announce the name on the scene. But the procedure had to be completed with the approval of the emperor.
+[Basic Info]
+Purpose: Target the spirited successor. Authenticated Parties: 39. Authenticators: 200. Date of Creation: Qing Dynasty.
+|fame=61
+|art=66
+|fth=106
+|civ=54
+|tech=75
+|ss1=When offering, 2x Neutral Chest Drops +3%<br>Per 10 Altar God Descents, Snail DEF +3<br>Per 10 Altar God Descents, Snail RUSH +3<br>Gods Descended: 400/400
+|ss2=When offering, 2x Neutral Chest Drops +4%<br>Per 10 Altar God Descents, Snail DEF +4<br>Per 10 Altar God Descents, Snail RUSH +4<br>Gods Descended: 400/400
+|ss3=When offering, 2x Neutral Chest Drops +5%<br>Per 10 Altar God Descents, Snail DEF +5<br>Per 10 Altar God Descents, Snail RUSH +5<br>Gods Descended: 400/400
+|ss4=When offering, 2x Neutral Chest Drops +7%<br>Per 10 Altar God Descents, Snail DEF +7<br>Per 10 Altar God Descents, Snail RUSH +7<br>Gods Descended: 400/400
+|ss5=When offering, 2x Neutral Chest Drops +9%<br>Per 10 Altar God Descents, Snail DEF +9<br>Per 10 Altar God Descents, Snail RUSH +9<br>Gods Descended: 400/400
+|ss6=When offering, 2x Neutral Chest Drops +12%<br>Per 10 Altar God Descents, Snail DEF +12<br>Per 10 Altar God Descents, Snail RUSH +12<br>Gods Descended: 400/400
+|ss7=When offering, 2x Neutral Chest Drops +12%<br>Per 10 Altar God Descents, Snail DEF +12<br>Per 10 Altar God Descents, Snail RUSH +12<br>Gods Descended: 400/400<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +3%
+|mirage={{Mirage|name=Reincarnation|reward={{RewardIconWithLink|Offering Speedup, +28800|orange}}
+|3name=N Draw|3rec=4.17M|3atk=50340|3defense=33653|3hp=824353|3weak=11017
+|4name=R Draw|4rec=7.95M|4atk=71871|4defense=48047|4hp=1547418|4weak=12889
+|5name=SR Draw|5rec=14.23M|5atk=98211|5defense=65656|5hp=2712267|5weak=16480
+|6name=SSR Draw|6rec=30.36M|6atk=129564|6defense=86617|6hp=4548373|6weak=18558
+|Arec=47.72M|Aatk=166083|Adefense=111030|Ahp=7174581|Aweak=19992
+}}}}

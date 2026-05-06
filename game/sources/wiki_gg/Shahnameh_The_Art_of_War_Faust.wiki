@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=235
+|relics=Shahnameh,The Art of War,Faust
+|rank=orange
+|amount=3
+|category=self
+|description=Per Orange+ Gear equipped, Snail DEF +16
+}}

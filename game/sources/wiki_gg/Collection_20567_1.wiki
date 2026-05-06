@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20567_1
+|class_id=20567
+|rank=Green
+|affct=CIV
+|source=
+|description=collection@20567_2
+|fame=16
+|art=13
+|fth=17
+|civ=28
+|tech=16
+|ss1=prop@62416_2<br>Per Civilization Stele deciphered, Snail RUSH +20<br>Civilization Steles deciphered: 3/3
+|ss2=prop@62416_2<br>Per Civilization Stele deciphered, Snail RUSH +40<br>Civilization Steles deciphered: 3/3
+|ss3=prop@62416_2<br>Per Civilization Stele deciphered, Snail RUSH +60<br>Civilization Steles deciphered: 3/3
+|ss4=prop@62416_2<br>Per Civilization Stele deciphered, Snail RUSH +60<br>Civilization Steles deciphered: 3/3
+|ss7=prop@62416_2<br>Per Civilization Stele deciphered, Snail RUSH +60<br>Civilization Steles deciphered: 3/3<br> (Awakened)
+}}

@@ -1,0 +1,46 @@
+{{CargoRelic
+|name=Tutankhamun Mask
+|rank=S
+|affct=ART
+|birthday=09-09
+|source=ART Master Scrolls (34.7%), Fragment Crafting (18.1%), Lottery Machine (0.81%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), Super Treasure Maps (15%), Wishing (0.68%)
+|description=On Sep 9, 1922, a mask made of gold was unearthed from the Tomb of Tut Ankh Amun.
+
+Archaeologist Dr. Carter found this surprising mask that was once worn by the Egyptian pharaoh, Tutankhamun, in his tomb. It's plated in gold and inlaid with gems and stained glass and decorated with symbols of the Eagle God and Cobra God, representing Upper and Lower Egypt. The beard symbolizes Osiris, god of the underworld. This important Egyptian cultural relic is kept at the Egyptian National Museum.
+
+[Mask Info]
+
+Length: 54cm<br>Width: 40cm<br>Weight: 10.23kg
+|fame=55
+|art=96
+|fth=75
+|civ=58
+|tech=48
+|ss1=Snail DEF +10<br>Per Orange+ Gear equipped, Snail HP +20<br>Per Orange+ Gear equipped, Snail DEF +2
+|ss2=Snail DEF +20<br>Per Orange+ Gear equipped, Snail HP +40<br>Per Orange+ Gear equipped, Snail DEF +4 
+|ss3=Snail DEF +30<br>Per Orange+ Gear equipped, Snail HP +60<br>Per Orange+ Gear equipped, Snail DEF +6
+|ss4=Snail DEF +50<br>Per Orange+ Gear equipped, Snail HP +100<br>Per Orange+ Gear equipped, Snail DEF +10
+|ss5=Snail DEF +70<br>Per Orange+ Gear equipped, Snail HP +140<br>Per Orange+ Gear equipped, Snail DEF +14
+|ss6=Snail DEF +100<br>Per Orange+ Gear equipped, Snail HP +200<br>Per Orange+ Gear equipped, Snail DEF +20
+|ss7=Snail DEF +100<br>Per Orange+ Gear equipped, Snail HP +200<br>Per Orange+ Gear equipped, Snail DEF +20<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, 2x Blue Reagent Drops +15%
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +600
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's ART +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:DEF Boost]]
+[[Category:HP Boost]]
+[[Category:Gear Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:ATK Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:ART Boost]]
+[[Category:Mecha Gene Cost Reduction]]
+[[Category:Reagent Crafting Boost]]
+[[Category:Rewards Organs]]
+[[Category:Undead Turtle Boost]]
+[[Category:Mummy Boost]]

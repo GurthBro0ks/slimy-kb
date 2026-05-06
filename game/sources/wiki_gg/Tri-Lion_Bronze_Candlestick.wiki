@@ -1,0 +1,19 @@
+{{CargoRelic
+|name=Tri-Lion Bronze Candlestick
+|class_id=21759
+|rank=Blue
+|affct=ART
+|source=
+|description=This two-meter-tall masterpiece features three crouching lions with intricately carved muscles and flowing manes, their paws entwined with sacred flame motifs. A radiant symbol of power and light, forged in bronze with unparalleled craftsmanship.
+|fame=23
+|art=46
+|fth=30
+|civ=33
+|tech=22
+|ss1=Per 50k Relic Points, Snail RUSH +2<br>Relic Points: 1500000/1500000
+|ss2=Per 50k Relic Points, Snail RUSH +4<br>Relic Points: 1500000/1500000
+|ss3=Per 50k Relic Points, Snail RUSH +6<br>Relic Points: 1500000/1500000
+|ss4=Per 50k Relic Points, Snail RUSH +10<br>Relic Points: 1500000/1500000
+|ss7=Per 50k Relic Points, Snail RUSH +10<br>Relic Points: 1500000/1500000<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:skill@1123_1_1.png|50px]] Place in Parsian Museum: Parsia exploration, Snail ATK +4
+}}

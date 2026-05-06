@@ -1,0 +1,23 @@
+{{CargoOrgan
+|name=Horn of Fate
+|type=Bionic
+|rank=orange
+|id=10686
+|idx=44
+|description="When the sky is shrouded and the sun devoured, only the Horn of Fate can pierce the veil of time and space…"
+— Codex Draconis
+|skill=Summon Horn of Fate, dealing DMG equal to 181.6% of ATK, and trigger an explosion to deal DMG equal to 20.4% of ATK!
+|hp=1868
+|def=179
+|atk=303
+|rush=176
+|gene1=Per organ awakened, {race} ATK +7
+Organs awakened: 40/40
+|gene2=Per Altar God Descent, {race} ATK +7
+Gods Descended: 30/30
+|gene3=Earth DMG +90
+|gene4=Per Altar God Descent, {race} HP +70
+Gods Descended: 30/30
+|gene5=For Round 1, CRIT DMG +15%
+|gene7=For Round 1, CRIT DMG +15% (Awakened)
+|}}

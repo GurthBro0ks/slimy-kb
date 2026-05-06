@@ -1,0 +1,155 @@
+/* Responsive layout */
+.fp-main {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-areas: "a"
+						 "b"
+						 "c"
+						 "d"
+						 "e"
+						 "f"
+						 "g"
+						 "h";
+	grid-template-columns: 1fr;
+}
+@media screen and (min-width:1290px) {
+	.fp-main {
+		grid-template-areas: "a a c"
+							 "b b c"
+							 "d e g"
+							 "d e h"
+							 "f f h";
+		grid-template-columns: 1fr 1fr 25%;
+	}
+}
+@media screen and (min-width:1887px) {
+	.fp-main {
+		grid-template-areas: "a a c"
+							 "b b g"
+							 "d e h"
+							 "f f f";
+	}
+}
+@media screen and (min-width:2100px) {
+	.fp-main {
+		grid-template-areas: "a a c"
+							 "b b g"
+							 "d e h"
+							 "f f h";
+	}
+}
+@media screen and (max-width:1069px) {
+	#fp-file {
+		display: none;
+	}
+}
+.fp-main .fp-header {
+	display: grid;
+	grid-template-areas: "aa" "ab";
+	grid-template-columns: 1fr;
+	height: 100%;
+}
+.fp-main .fp-header #fp-file {
+	grid-area: aa;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+.fp-main .fp-header #fp-file img {
+	height: auto;
+	max-width: 200px;
+}
+@media screen and (min-width:1070px) {
+	.fp-main .fp-header {
+		grid-template-areas: "aa ab";
+		grid-template-columns: 1fr 3fr;
+	}
+	.fp-main .fp-header #fp-file img {
+		max-width: 100%;
+		height: auto;
+	}
+}
+.fp-main .fp-header #fp-text {
+	grid-area: ab;
+	margin: auto 0;
+	text-align: center;
+}
+
+/* Sections */
+/* [[File:Border-menu.png]] */
+.border-menu {
+	background-color: #bc995e;
+	border: 5px solid #9c703b;
+	border-image: url("https://undermine.wiki.gg/images/e/ef/Border-menu.png") 49% / 2 / 0 stretch;
+	border-radius: 13px;
+	color: #453022;
+	image-rendering: pixelated;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 20px;
+	padding: 20px 5px 5px 5px;
+	position: relative;
+	text-align: center;
+}
+.border-menu a,
+.border-menu a:visited,
+.border-menu a.external,
+.border-menu a.external:visited {
+	color: #1d0f00;
+	font-weight: 600;
+	text-shadow: none;
+}
+.border-menu a:hover {
+	color: #744818;
+}
+
+/* Section title */
+/* [[File:Dialog name.png]] */
+.menu-title {
+	background-image: url("https://undermine.wiki.gg/images/2/21/Dialog_name.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: #fff;
+	font-size: 1.2rem;
+	font-weight: 800;
+	height: 35px;
+	left: -10px;
+	line-height: 1.9;
+	padding-left: 10px;
+	position: absolute;
+	text-align: left;
+	text-shadow: 1px 1px #000;
+	top: -20px;
+	width: 295px;
+}
+
+/* Buttons */
+/* [[File:Button regular.png]] */
+/* [[File:Button gold.png]] */
+.menu-button li {
+	background-image: url("https://undermine.wiki.gg/images/d/df/Button_regular.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 46px;
+	margin: 3px 0;
+	min-width: 178px;
+}
+.menu-button a,
+.menu-button a:visited,
+.menu-button a.external,
+.menu-button a.external:visited {
+	border-radius: 8px 5px 25px 8px;
+	color: #fff;
+	display: inline-block;
+	font-size: 1rem;
+	line-height: 2.9;
+	min-width: 178px;
+	text-shadow: 1px 1px #000;
+}
+.menu-button a:hover {
+	background-image: url("https://undermine.wiki.gg/images/b/bb/Button_gold.png");
+	background-repeat: no-repeat;
+	color: #fff;
+	text-decoration: none;
+}
+
+/* [[Category:Template styles]] */

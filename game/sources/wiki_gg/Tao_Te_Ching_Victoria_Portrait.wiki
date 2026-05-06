@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Tao Te Ching,Victoria Portrait
+|rank=orange
+|amount=2
+|category=self
+|description=Per 10 Constellation LVLs, Snail HP +70; Constellation LVL: 400/400
+}}
+[[Category:Self]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Constellation LVL]]

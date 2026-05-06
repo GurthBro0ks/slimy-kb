@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Printing Koryeo's icon to Snail Shell can better blend into the local scene for information gathering, as well as to gain a certain protection.
+|affct=FTH
+|hard=DEF
+|source=Divine Neutral Chest (0.8%)
+|color=green
+|earth=3
+|water=2
+|fire=1
+|wind=0
+|form=Angel
+|element=Fire
+|realm=Koryeo
+|orangehard=ATK
+}}

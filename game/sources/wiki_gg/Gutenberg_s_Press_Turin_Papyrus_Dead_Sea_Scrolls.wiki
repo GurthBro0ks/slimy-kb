@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=248
+|relics=Gutenberg's Press,Turin Papyrus,Dead Sea Scrolls
+|rank=orange
+|amount=3
+|category=self
+|description=In explorations, 3.2% chance to gain 2x INTEL
+}}

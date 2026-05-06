@@ -1,0 +1,46 @@
+{{CargoRelic
+|name=Boy with Goose
+|rank=A
+|affct=ART
+|birthday=11-14
+|source=Fragment Crafting (31.2%), Lottery Machine (0.66%), Wishing (2.8%), Expert Scrolls (7.6%)
+|description=On Nov 14, 299 BC, Greek sculptor Boethos created this sculpture.
+
+It was a scene of a lovely child playing with a big goose. The image of the child is an interesting one. He wants to pull the goose back from walking forward but the goose keeps going against the child. The statue presents the child's actions and skin realistically, which shows the great craftsmanship of the artist.
+
+[Basic Info]
+
+Era: Ancient Greek
+
+Height: 81cm
+
+Material: Marble Collected by Glyptothek
+|fame=42
+|art=61
+|fth=33
+|civ=39
+|tech=38
+|ss1=Tadpole Pond upgrade B-tad Cost -1%<br>Fungus Farm upgrade B-tad cost -1%
+|ss2=Tadpole Pond upgrade B-tad Cost -2%<br>Fungus Farm upgrade B-tad cost -2%
+|ss3=Tadpole Pond upgrade B-tad Cost -3%<br>Fungus Farm upgrade B-tad cost -3%
+|ss4=Tadpole Pond upgrade B-tad Cost -5%<br>Fungus Farm upgrade B-tad cost -5%
+|ss5=Tadpole Pond upgrade B-tad cost -7%<br>Fungus Farm upgrade B-tad cost -7%
+|ss7=Tadpole Pond upgrade B-tad cost -7%<br>Fungus Farm upgrade B-tad cost -7%<br>Tadpole Pond upgrade B-tad cost -7% (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Snail HP +300
+|skill2=[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: This Relic's ART +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:ART Relics]]
+[[Category:Purple ART Relics]]
+[[Category:Tadpole Pond Upgrade Cost Reduction]]
+[[Category:Fungus Farm Upgrade Cost Reduction]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:HP Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:ART Boost]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:Relic Boost]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Purple Relics]]

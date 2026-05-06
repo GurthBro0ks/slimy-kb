@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Whalelord Skull
+|type=Bionic
+|rank=red
+|id=10694
+|idx=52
+|description=A majestic crown carved from the skull of the Stormwhale King, its surface sheathed in a shimmering crystal film. When worn, its sovereign aura bends the will of all who behold it.
+|skill=Summon the Whale King's Skeleton, dealing DMG equal to 196% of ATK, and increase next round's Water DMG by 50%!
+|hp=3290
+|def=247
+|atk=235
+|rush=259
+|gene1=In Snail Arena, DMG +12%
+|gene2=In Snail Arena, CRIT +20%
+|gene3=In Snail Arena, HIT +12%
+|gene4=In Snail Arena, {race} ATK +100
+|gene5=In Snail Arena, HIT +12%
+|gene6=Snail Arena, ignore enemy DEF +4%
+|gene7=Snail Arena, ignore enemy DEF +4% (Awakened)
+|}}

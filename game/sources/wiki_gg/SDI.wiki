@@ -1,0 +1,45 @@
+{{CargoRelic
+|name=SDI
+|rank=SS
+|affct=FAME
+|birthday=03-30
+|source=Grandmaster Scrolls (2.1%), FAME Master Scrolls (9.2%), Fragment Crafting (6.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), Nebula Chest (1%), Super Species Chest (5.5%), Wishing  (0.22%)
+|description=On Mar 30, 1983, a plan was made by the American government to bring down the Soviet Union.
+
+During the Cold War, America launched the "Star Wars" plan to establish an air-space weapons system to eliminate the growing nuclear threat of the Soviet Union. It also helped develop space industrialization and obtain rich resources from space. This plan turned out to be a hoax according to CIA's exposure, but the Soviet Union invested so much in this lie that it almost bankrupted the whole country. In a sense, SDI was the biggest joke of the Cold War.
+
+[Plan Phases]
+
+1. Boost Defense<br>2. Post-boost Defense<br>3. Middle Interception<br>4. End Interception
+|fame=103
+|art=68
+|fth=56
+|civ=54
+|tech=66
+|ss1=Snail DEF +20<br>Per Realm conquered, Snail HP +200<br>Per Realm conquered, Snail DEF +20<br>Realms Conquered: 8/8
+|ss2=Snail DEF +30<br>Per Realm conquered, Snail HP +300<br>Per Realm conquered, Snail DEF +30<br>Realms Conquered: 8/8
+|ss3=Snail DEF +40<br>Per Realm conquered, Snail HP +400<br>Per Realm conquered, Snail DEF +40<br>Realms Conquered: 8/8
+|ss4=Snail DEF +60<br>Per Realm conquered, Snail HP +600<br>Per Realm conquered, Snail DEF +60<br>Realms Conquered: 8/8
+|ss5=Snail DEF +80<br>Per Realm conquered, Snail HP +800<br>Per Realm conquered, Snail DEF +80<br>Realms Conquered: 8/8
+|ss6=Snail DEF +110<br>Per Realm conquered, Snail HP +1,100<br>Per Realm conquered, Snail DEF +110<br>Realms Conquered: 8/8
+|ss7=Snail DEF +110<br>Per Realm conquered, Snail HP +1,100<br>Per Realm conquered, Snail DEF +110<br>Realms Conquered: 8/8<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Card Drops +15%
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Mutant Cells gained +30%
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, 2x Green Card Drops +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:DEF Boost]]
+[[Category:HP Boost]]
+[[Category:Realm Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Mutant Cell Drop Boost]]
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Divine Neutral Chest Drop Boost]]
+[[Category:INTEL Boost]]
+[[Category:Enhanced by Realms Conquered]]
+[[Category:Tomb Figure Boost]]

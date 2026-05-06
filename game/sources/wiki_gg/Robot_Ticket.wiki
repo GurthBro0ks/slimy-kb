@@ -1,0 +1,11 @@
+The {{RewardIconWithLink|Robot Ticket|orange}} is a reward for many events that gives you a random generic [[Robot]].
+
+The chances of what [[Robot]] you will get are as follows:
+* {{RewardIconWithLink|AR2-T1|green}} (50.00%)
+* {{RewardIconWithLink|AR2-T2|blue}} (35.00%)
+* {{RewardIconWithLink|AR2-T3|purple}} (10.00%)
+* {{RewardIconWithLink|AR2-T4|orange}} (5.00%)
+
+After redeeming 10 {{RewardIconWithLink|Robot Ticket|orange}} you are guaranteed to receive a {{RewardIconWithLink|AR2-T4|orange}}.
+
+[[Category:Reward Pack]]

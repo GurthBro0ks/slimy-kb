@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Witch's Sugar Jar
+|class_id=20163
+|rank=Green
+|affct=ART
+|source=
+|description=A special jar used by witches to hold candies, and those who steal candies from it will be cursed. No matter what kind of food they eat, they can only taste sweetness.
+|fame=14
+|art=30
+|fth=15
+|civ=16
+|tech=15
+|ss1=In explorations, 2x Food Drops +0.4%<br>Per type of food collected, Snail HP +10<br>Types of Food Collected: 60/60
+|ss2=In explorations, 2x Food Drops +0.8%<br>Per type of food collected, Snail HP +20<br>Types of Food Collected: 60/60
+|ss3=In explorations, 2x Food Drops +1.2%<br>Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60
+|ss4=In explorations, 2x Food Drops +1.2%<br>Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60
+|ss7=In explorations, 2x Food Drops +1.2%<br>Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60<br> (Awakened)
+}}

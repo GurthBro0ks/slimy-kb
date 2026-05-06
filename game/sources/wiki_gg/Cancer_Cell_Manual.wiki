@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Cancer Cell Manual
+|class_id=20269
+|rank=Green
+|affct=FAITH
+|source=
+|description=This manual is a guidebook compiled by Earth's Will after sorting out intelligence collected from insiders. It records the characteristics and weaknesses of the cancer cells of Earth's Will, providing huge aid in defeating the powerful enemies!
+|fame=17
+|art=13
+|fth=31
+|civ=13
+|tech=16
+|ss1=Rewards Box now available in Vending Machine<br>Against Cancer Cells of Earth's Will,<br>AFFCT Checks -5000
+|ss2=Rewards Box now available in Vending Machine<br>Against Cancer Cells of Earth's Will,<br>AFFCT Checks -10000
+|ss3=Rewards Box now available in Vending Machine<br>Against Cancer Cells of Earth's Will,<br>AFFCT Checks -15000
+|ss4=Rewards Box now available in Vending Machine<br>Against Cancer Cells of Earth's Will,<br>AFFCT Checks -15000
+|ss7=Rewards Box now available in Vending Machine<br>Against Cancer Cells of Earth's Will,<br>AFFCT Checks -15000<br> (Awakened)
+}}

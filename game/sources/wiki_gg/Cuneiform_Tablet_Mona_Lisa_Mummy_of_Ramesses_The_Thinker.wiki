@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=259
+|relics=Cuneiform Tablet,Mona Lisa,Mummy of Ramesses,The Thinker
+|rank=orange
+|amount=4
+|category=self
+|description=Per Realm conquered, Snail HP +900;Realms Conquered: 8/8
+}}

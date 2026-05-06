@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Bogenian
+|rank=orange
+|cabin=2
+|id=143
+|gene1={race} RUSH +50
+|gene2={race} TECH +50
+|gene3=Per 10% HP lost, {race} RUSH +60
+|gene4=Per 60 Mecha Minions in battle,
+Troop Wind DMG +6
+|gene5=Refine +1 Blue Rebel Material +1.5%
+|gene6=Per 60 Mecha Minions in battle,
+Troop Wind DMG +10
+|gene7=Refine +1 Blue Rebel Material +2.5%
+|}}

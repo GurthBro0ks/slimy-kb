@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Konjaku Hyakki Shui
+|class_id=22573
+|rank=AA
+|affct=CIV
+|birthday=06-20
+|source=Lottery Machine No.3 (0.12%)
+|description=On Jun 20, 1780 AD, Toriyama Sekien completed Konjaku Hyakki Shui.<br>It is a collection of Japanese yokai paintings created by Toriyama Sekien, consisting of three parts: clouds, mist, and rain. Based on the Hokusai's Sangoku Yōko-den and traditional folktales, Toriyama Sekien collected a large amount of material and systematically organized the originally scattered yokai legends into a genealogy, establishing the prototype of Japanese yokai that we see today.
+|fame=43
+|art=42
+|fth=41
+|civ=66
+|tech=36
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop RUSH +8<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +4
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop RUSH +12<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop RUSH +16<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +8
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop RUSH +24<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +12
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop RUSH +32<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +16
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop RUSH +32<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +16<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +28 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, Troop Earth RES +30
+|skill2=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, All Minion DEF +4.5%
+}}

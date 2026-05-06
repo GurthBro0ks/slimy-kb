@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Imperial Lamp
+|rank=Blue
+|affct=ART
+|birthday=02-26
+|source=Lottery Machine (0.07%), Wishing (3%), Novice Scrolls (1%)
+|description=On Feb 26, 1968, the famous Imperial Lamp was found in the tomb of Dou Wan.
+
+When the Imperial Lamp was first unearthed, its fragments were scattered all over the ground. It took several months to fully restore the lamp, including the head, base, and lampshade were repaired. The entire lamp was covered with brilliant and gorgeous gilt. It is 14 inches tall and weighs 30 catties. It also features a unique design. The palace maid can hold the lamp in one hand and cover it using her other sleeve to block the wind. This allows the siphon to absorb the fumes at the base and effectively prevent air pollution. It is named after the inscriptions written on its body. 
+
+[Basic Info]
+
+Era: Western Han Dynasty. Original owner: Liu Jie, Marquis Yi of Yangxin. Collected by: Hebei Museum.
+|fame=27
+|art=48
+|fth=23
+|civ=25
+|tech=31
+|ss1=In explorations, Zombie Cells gained +1%
+|ss2=In explorations, Zombie Cells gained +2%
+|ss3=In explorations, Zombie Cells gained +3%
+|ss4=In explorations, Zombie Cells gained +5%
+|ss7=In explorations, Zombie Cells gained +5%<br>In explorations, Zombie Cells gained +5% (Awakened)
+|skill1=[[File:Cathay skill I.png|50px]] Place in Cathay Museum: In Cathay, Snail ATK +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:ART Relics]]
+[[Category:Blue ART Relics]]
+[[Category:Zombie Cell Drop Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:ATK Boost]]
+[[Category:Ancient Wood Boost]]
+[[Category:Offering Reward Boost]]

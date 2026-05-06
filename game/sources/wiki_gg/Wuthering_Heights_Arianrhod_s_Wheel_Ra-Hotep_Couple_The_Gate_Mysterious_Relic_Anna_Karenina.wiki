@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Wuthering Heights,Arianrhod's Wheel,Ra-Hotep Couple,The Gate,Mysterious Relic,Anna Karenina
+|rank=orange
+|amount=6
+|category=minion
+|description=All minion skins ATK +120%
+}}
+[[Category:Minion]]
+[[Category:Minion ATK Boost]]
+[[Category:Minion Skin Boost]]

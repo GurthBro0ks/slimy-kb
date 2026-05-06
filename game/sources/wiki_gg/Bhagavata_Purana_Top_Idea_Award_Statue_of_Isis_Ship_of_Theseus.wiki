@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Bhagavata Purana,Top Idea Award,Statue of Isis,Ship of Theseus
+|rank=orange
+|amount=4
+|category=self
+|description=Heal 50 Minions: Snail HP +90; Minions Healed: 2000/2000
+}}
+[[Category:Self]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Minions Healed]]

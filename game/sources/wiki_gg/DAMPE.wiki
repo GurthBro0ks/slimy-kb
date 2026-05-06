@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=DAMPE
+|class_id=22596
+|rank=AAA
+|affct=TECH
+|birthday=08-29
+|source=Lottery Machine No.3 (0.06%)
+|description=On Aug 29, 2015 AD, the Wukong Dark Matter Particle Explorer satellite successfully launched.<br>The Dark Matter Particle Explorer satellite consists of four parts: a plastic scintillator array detector, a silicon array detector, a germanium bismuth crystal calorimeter, and a neutron detector. The source of cosmic rays is generally believed to be supernova explosions. If dark matter exists, the cosmic rays generated when it annihilates become an additional source of cosmic rays, and the mission of the Dark Matter Particle Explorer satellite is to detect this extra part of cosmic rays.
+|fame=46
+|art=33
+|fth=49
+|civ=40
+|tech=75
+|ss1=Merge 1 Blue Stardust: Gain 1 more by 3%<br>Per TECH Bionic Part extracted, Snail ATK +15<br>TECH Bionic Part Extracted: 10/10
+|ss2=Merge 1 Blue Stardust: Gain 1 more by 4%<br>Per TECH Bionic Part extracted, Snail ATK +20<br>TECH Bionic Part Extracted: 10/10
+|ss3=Merge 1 Blue Stardust: Gain 1 more by 5%<br>Per TECH Bionic Part extracted, Snail ATK +25<br>TECH Bionic Part Extracted: 10/10
+|ss4=Merge 1 Blue Stardust: Gain 1 more by 7%<br>Per TECH Bionic Part extracted, Snail ATK +35<br>TECH Bionic Part Extracted: 10/10
+|ss5=Merge 1 Blue Stardust: Gain 1 more by 9%<br>Per TECH Bionic Part extracted, Snail ATK +45<br>TECH Bionic Part Extracted: 10/10
+|ss7=Merge 1 Blue Stardust: Gain 1 more by 9%<br>Per TECH Bionic Part extracted, Snail ATK +45<br>TECH Bionic Part Extracted: 10/10<br>Merge 1 Blue Stardust: Gain 1 more by 7% (Awakened)
+|skill1=[[File:Goldfish skill II.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Earth RES +30
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, Troop DMG REDUC +3%
+}}

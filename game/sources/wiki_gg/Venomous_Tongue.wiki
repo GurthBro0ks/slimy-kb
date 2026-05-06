@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Venomous Tongue
+|type=Common
+|rank=orange
+|id=10875
+|idx=82
+|description=A highly elastic, venom-laced tongue once belonged to a dimension-hopping archangel slayer, an Angel T9 player. Later sold to a wealthy collector with... intense curiosity. After prolonged use far beyond combat standards, the tongue vanished — presumed to have escaped.
+|skill=
+|hp=2970
+|def=169
+|atk=163
+|rush=216
+|gene1=Chance of Breaking Enemy +3%
+|gene2=Zombie Minion Recovery SPD +6%
+|gene3=Snail Arena, chance to paralyze enemy +3%
+|gene4=Zombie Minion Cloning SPD +3%
+|gene5=Snail Arena, enemy Lifesteal Rate -30%
+|gene7=Zombie Minion Recovery SPD +6% (Awakened)
+|}}

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Golden Menorah,Tetrabiblos
+|rank=blue
+|amount=2
+|category=self
+|description=Snail DEF +50
+}}
+[[Category:Self]]

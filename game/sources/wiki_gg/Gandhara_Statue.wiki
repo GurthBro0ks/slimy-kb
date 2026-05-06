@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Gandhara Statue
+|class_id=22269
+|rank=SSS
+|affct=ART
+|birthday=10-12
+|source=
+|description=On Oct 12, 162 AD, the Seated Buddha from Gandhara was carved by a craftsman.<br>"The Seated Buddha from Gandhara", like other Gandharan or Greco-Buddhist art, the sculpture shows the influence of Ancient Greek sculptural art. With a classical and noble face, a wisp of curly hair covering a wide spiral bun, and a round headlight illuminating the sacredness of the Buddha, its solemn gesture interprets the combination of power and elegance, leaving one in awe of the beauty of ancient Greek culture blending with Buddhism.
+|fame=57
+|art=107
+|fth=62
+|civ=70
+|tech=66
+|ss1=Snail Leadership +3<br>Per Complete Exhibition, Snail RUSH +6<br>Per Complete Exhibition, Snail ATK +6<br>Complete Exhibitions: 8/8
+|ss2=Snail Leadership +4<br>Per Complete Exhibition, Snail RUSH +12<br>Per Complete Exhibition, Snail ATK +12<br>Complete Exhibitions: 8/8
+|ss3=Snail Leadership +5<br>Per Complete Exhibition, Snail RUSH +18<br>Per Complete Exhibition, Snail ATK +18<br>Complete Exhibitions: 8/8
+|ss4=Snail Leadership +7<br>Per Complete Exhibition, Snail RUSH +30<br>Per Complete Exhibition, Snail ATK +30<br>Complete Exhibitions: 8/8
+|ss5=Snail Leadership +9<br>Per Complete Exhibition, Snail RUSH +42<br>Per Complete Exhibition, Snail ATK +42<br>Complete Exhibitions: 8/8
+|ss6=Snail Leadership +12<br>Per Complete Exhibition, Snail RUSH +60<br>Per Complete Exhibition, Snail ATK +60<br>Complete Exhibitions: 8/8
+|ss7=Snail Leadership +12<br>Per Complete Exhibition, Snail RUSH +60<br>Per Complete Exhibition, Snail ATK +60<br>Complete Exhibitions: 8/8<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: This Relic's ART +15
+|skill2=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: Medal Output +30
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, 2x Orange Reagent Drops +15%
+|mirage={{Mirage|name=Om Mani Padme Hum|reward={{RewardIconWithLink|Incense, +3|orange}}
+|3name=Sravaka|3rec=112.38M|3atk=302802|3defense=202011|3hp=21776431|3weak=36513
+|4name=Arhat|4rec=143.20M|4atk=367789|4defense=245366|4hp=30016286|4weak=40819
+|5name=Bodhisattva|5rec=178.40M|5atk=442019|5defense=294888|5hp=40960404|5weak=46750
+|6name=Gandhara|6rec=218.38M|6atk=526333|6defense=351138|6hp=54306713|6weak=52559
+|Arec=278.15M|Aatk=618771|Adefense=412806|Ahp=71311552|Aweak=58289
+}}}}

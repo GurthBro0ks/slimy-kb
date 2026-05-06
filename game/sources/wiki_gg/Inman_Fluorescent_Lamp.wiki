@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Inman Fluorescent Lamp
+|class_id=22419
+|rank=Blue
+|affct=FAME
+|birthday=10-02
+|source=Lottery Machine No.3 (0.03%)
+|description=On Oct 2, 1938 AD, Imman successfully produced the world's first fluorescent lamp.<br>The fluorescent lamp was based on the principles of gas discharge and the use of mercury vapor and a phosphorescent coating to produce visible light. Due to its high brightness and energy efficiency, it quickly became an indispensable household item.
+|fame=45
+|art=27
+|fth=23
+|civ=27
+|tech=32
+|ss1=Per 2,000 Forest Sanctum Rating Pts, Priest-Troop Assistance DMG +8<br>Forest Sanctum Rating Pts: 100000/100000
+|ss2=Per 2,000 Forest Sanctum Rating Pts, Priest-Troop Assistance DMG +16<br>Forest Sanctum Rating Pts: 100000/100000
+|ss3=Per 2,000 Forest Sanctum Rating Pts, Priest-Troop Assistance DMG +24<br>Forest Sanctum Rating Pts: 100000/100000
+|ss4=Per 2,000 Forest Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Forest Sanctum Rating Pts: 100000/100000
+|ss7=Per 2,000 Forest Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Forest Sanctum Rating Pts: 100000/100000<br>Protomon Troop assist DMG + 400 (Awakened)
+|skill1=[[File:Murika skill I.png|50px]]Place in Murikan Museum: In Murika, Snail ATK +20
+}}

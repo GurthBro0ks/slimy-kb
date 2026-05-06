@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Hittite Laws
+|class_id=22515
+|rank=AAA
+|affct=FAME
+|birthday=10-25
+|source=Lottery Machine No.3 (0.06%)
+|description=On Oct 25, 1576, BC, the first edition of the Hittite Laws was compiled.<br>As one of the most important documents in Hittite history, it was compiled during the period of the Hittite kingdom, and its provisions cover many aspects of the economy and daily life. Compared with the Code of Hammurabi, the punishments are relatively light, and the use of the death penalty is limited to a few occasions and can be replaced by fines or pardoned by the king. Most crimes are handled through civil compensation and other forms, showing the characteristics of prioritizing the people over punishment. It has significant implications for people's understanding of Hittite society and culture.
+|fame=71
+|art=40
+|fth=32
+|civ=48
+|tech=52
+|ss1=Per FAME Bionic Part extracted, Snail ATK +15<br>Per FAME Bionic Part extracted, Snail DEF +15<br>FAME Bionic Part Extracted: 10/10
+|ss2=Per FAME Bionic Part extracted, Snail ATK +20<br>Per FAME Bionic Part extracted, Snail DEF +20<br>FAME Bionic Part Extracted: 10/10
+|ss3=Per FAME Bionic Part extracted, Snail ATK +25<br>Per FAME Bionic Part extracted, Snail DEF +25<br>FAME Bionic Part Extracted: 10/10
+|ss4=Per FAME Bionic Part extracted, Snail ATK +35<br>Per FAME Bionic Part extracted, Snail DEF +35<br>FAME Bionic Part Extracted: 10/10
+|ss5=Per FAME Bionic Part extracted, Snail ATK +45<br>Per FAME Bionic Part extracted, Snail DEF +45<br>FAME Bionic Part Extracted: 10/10
+|ss7=Per FAME Bionic Part extracted, Snail ATK +45<br>Per FAME Bionic Part extracted, Snail DEF +45<br>FAME Bionic Part Extracted: 10/10<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Quantumamp  skill II.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +15%
+|skill2=[[File:Quantumamp  skill II.png|50px]]Place in a Quantum Amp: Quantum Amp production +7.5%
+}}

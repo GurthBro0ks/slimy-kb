@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=55
+|relics=Commercial Code,Rubik's Cube,Tee Virus
+|rank=blue
+|amount=3
+|category=self
+|description=Dragon Gene Research SPD +3.6%
+}}

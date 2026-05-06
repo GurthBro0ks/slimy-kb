@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=443
+|relics=Otis Elevator,De Motu Cordis Model,Lady with an Ermine,Arabian Bronze Hand,Count of Monty Christi
+|rank=purple
+|amount=5
+|category=self
+|description=Zombie Minion MAX +9
+}}

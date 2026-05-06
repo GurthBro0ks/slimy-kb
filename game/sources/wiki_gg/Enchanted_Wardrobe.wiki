@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Enchanted Wardrobe
+|class_id=20939
+|rank=Green
+|affct=FAME
+|source=
+|description=Opening this magically powered wardrobe transports you to a different world of fashion. Whether it's the romantic retro style, the elegant royal style, or the avant-garde future fashion, this magical wardrobe caters to your desires.
+|fame=33
+|art=19
+|fth=13
+|civ=12
+|tech=13
+|ss1=Per Minion Skin crafted, Snail ATK +10<br>Orange Minion Skins Crafted: 100/100
+|ss2=Per Minion Skin crafted, Snail ATK +10<br>Orange Minion Skins Crafted: 100/100
+|ss3=Per Minion Skin crafted, Snail ATK +10<br>Orange Minion Skins Crafted: 100/100
+|ss4=Per Minion Skin crafted, Snail ATK +10<br>Orange Minion Skins Crafted: 100/100
+|ss7=Per Minion Skin crafted, Snail ATK +10<br>Orange Minion Skins Crafted: 100/100<br> (Awakened)
+}}

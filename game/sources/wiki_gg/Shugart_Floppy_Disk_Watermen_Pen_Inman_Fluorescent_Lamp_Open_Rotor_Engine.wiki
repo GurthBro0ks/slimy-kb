@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=645
+|relics=Shugart Floppy Disk,Watermen Pen,Inman Fluorescent Lamp,Open Rotor Engine
+|rank=blue
+|amount=4
+|category=self
+|description=Zombie Minion HARD Stats +2.1%
+}}

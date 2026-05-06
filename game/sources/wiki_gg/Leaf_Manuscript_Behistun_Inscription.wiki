@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Leaf Manuscript,Behistun Inscription
+|rank=purple
+|amount=2
+|category=self
+|description=Per 2k Power, Snail HP +40<br>Power: 30,000/30,000
+}}
+[[Category:Self]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Power]]

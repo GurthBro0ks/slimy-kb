@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Poplar Tree Statue
+|class_id=20168
+|rank=Green
+|affct=ART
+|source=
+|description=This tree carving comes from a thousand-year-old poplar tree, standing tall and proud in the desolate and uninhabited Gobi desert, where all living creatures are intimidated except for this resilient poplar tree. This is the most beautiful hymn to its vitality!
+|fame=18
+|art=29
+|fth=15
+|civ=11
+|tech=17
+|ss1=Snail HP +300<br>Per 10 ART-Fungi eaten, Snail HP +10<br>ART-Fungi Eaten: 500/500
+|ss2=Snail HP +400<br>Per 10 ART-Fungi eaten, Snail HP +20<br>ART-Fungi Eaten: 500/500
+|ss3=Snail HP +500<br>Per 10 ART-Fungi eaten, Snail HP +30<br>ART-Fungi Eaten: 500/500
+|ss4=Snail HP +500<br>Per 10 ART-Fungi eaten, Snail HP +30<br>ART-Fungi Eaten: 500/500
+|ss7=Snail HP +500<br>Per 10 ART-Fungi eaten, Snail HP +30<br>ART-Fungi Eaten: 500/500<br> (Awakened)
+}}

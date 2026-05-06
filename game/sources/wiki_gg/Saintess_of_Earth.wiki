@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Saintess of Earth
+|rank=orange
+|cabin=2
+|id=187
+|gene1={race} RUSH +50
+|gene2={race} FTH +50
+|gene3=Each round, {race} RUSH +30
+|gene4=Per 60 Angel Minions in battle,
+Troop Wind DMG +6
+|gene5=Angel Minion Recovery SPD +1.5%
+|gene6=Per 60 Angel Minions in battle,
+Troop Wind DMG +10
+|gene7=Angel Minion Recovery SPD +2.5%
+|}}

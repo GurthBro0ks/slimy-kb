@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Purple Gold Gourd
+|class_id=20244
+|rank=Green
+|affct=FAITH
+|source=
+|description=This treasure once belonged to the Prime of Taoism. It can refine everything in the world and has a unique ability against opponents. If the owner holds the gourd and calls out the opponent's name, the latter will be sucked in once they respond. Even a great immortal cannot escape from it!
+|fame=14
+|art=19
+|fth=27
+|civ=16
+|tech=14
+|ss1=Per 20k Taoist Pills consumed, Snail DEF +1<br>Taoist Pills Consumed: 500000/500000
+|ss2=Per 20k Taoist Pills consumed, Snail DEF +2<br>Taoist Pills Consumed: 500000/500000
+|ss3=Per 20k Taoist Pills consumed, Snail DEF +3<br>Taoist Pills Consumed: 500000/500000
+|ss4=Per 20k Taoist Pills consumed, Snail DEF +3<br>Taoist Pills Consumed: 500000/500000
+|ss7=Per 20k Taoist Pills consumed, Snail DEF +3<br>Taoist Pills Consumed: 500000/500000<br> (Awakened)
+}}

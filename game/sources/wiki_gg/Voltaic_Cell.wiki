@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Voltaic Cell
+|class_id=22113
+|rank=AAA
+|affct=FAME
+|birthday=02-07
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Feb 7, 1800 AD, Volta made the earliest battery based on the idea of the voltaic pile.<br>The Voltaic Cell, also known as the Voltaic Pile, is a device that produces a constant electric current. Using potential difference superposition, Volta stacked pairs of zinc and copper plates separated by cloth and immersed them in an acidic solution, creating the first battery model. The advent of the Voltaic Cell made electricity more accessible and propelled the development of subsequent electrical research, marking the beginning of the electrical era.
+|fame=75
+|art=36
+|fth=36
+|civ=50
+|tech=46
+|ss1=Per 30 Mecha Minions in battle:<br>> Troop ATK +12<br>Per AR2-T4 owned, Snail RUSH +3<br>AR2-T4s Owned: 50/50
+|ss2=Per 30 Mecha Minions in battle:<br>> Troop ATK +16<br>Per AR2-T4 owned, Snail RUSH +4<br>AR2-T4s Owned: 50/50
+|ss3=Per 30 Mecha Minions in battle:<br>> Troop ATK +20<br>Per AR2-T4 owned, Snail RUSH +5<br>AR2-T4s Owned: 50/50
+|ss4=Per 30 Mecha Minions in battle:<br>> Troop ATK +28<br>Per AR2-T4 owned, Snail RUSH +7<br>AR2-T4s Owned: 50/50
+|ss5=Per 30 Mecha Minions in battle:<br>> Troop ATK +36<br>Per AR2-T4 owned, Snail RUSH +9<br>AR2-T4s Owned: 50/50
+|ss7=Per 30 Mecha Minions in battle:<br>> Troop ATK +36<br>Per AR2-T4 owned, Snail RUSH +9<br>AR2-T4s Owned: 50/50<br>Per 30 Mecha Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, AFFCT Checks -100
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FAME +10
+}}

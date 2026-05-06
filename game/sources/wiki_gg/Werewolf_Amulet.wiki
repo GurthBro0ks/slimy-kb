@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Werewolf Amulet
+|class_id=20729
+|rank=Green
+|affct=FAITH
+|source=
+|description=An amulet made from the fangs, mane, and silver bullets of a werewolf, blessed with holy water, possesses certain exorcism powers, protecting the bearer from werewolf attacks!
+|fame=18
+|art=12
+|fth=31
+|civ=16
+|tech=13
+|ss1=Per 5 Avatars activated, Snail HP +30<br>Avatars Activated: 100/100
+|ss2=Per 5 Avatars activated, Snail HP +40<br>Avatars Activated: 100/100
+|ss3=Per 5 Avatars activated, Snail HP +50<br>Avatars Activated: 100/100
+|ss4=Per 5 Avatars activated, Snail HP +50<br>Avatars Activated: 100/100
+|ss7=Per 5 Avatars activated, Snail HP +50<br>Avatars Activated: 100/100<br> (Awakened)
+}}

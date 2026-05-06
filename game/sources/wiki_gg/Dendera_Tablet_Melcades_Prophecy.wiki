@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Dendera Tablet,Melcades' Prophecy
+|rank=blue
+|amount=2
+|category=other
+|description=In any Realm, 2x White Card Drops +2%
+}}
+[[Category:Other]]

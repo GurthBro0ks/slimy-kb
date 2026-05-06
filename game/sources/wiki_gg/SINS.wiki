@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=SINS
+|class_id=22605
+|rank=AAA
+|affct=TECH
+|birthday=09-12
+|source=
+|description=On Sept 12, 1953 AD, the strapdown inertial navigation system (SINS) was officially introduced and used.<br>The strapdown inertial navigation system is a framework-free system that does not rely on external information or emit energy outward. It has the advantage of good stealth and can operate in a variety of complex environments. It can provide accurate navigation parameters to the carrier and has higher performance and reliability than similar platform-type inertial navigation systems. Currently, it is widely used in various types of aircraft.
+|fame=45
+|art=41
+|fth=50
+|civ=36
+|tech=71
+|ss1=Mecha Minion ATK +3%<br>Per devotee appointed, Priest-Snail Assistance DMG +24<br>Devotee Appointed: 50/50
+|ss2=Mecha Minion ATK +4%<br>Per devotee appointed, Priest-Snail Assistance DMG +32<br>Devotee Appointed: 50/50
+|ss3=Mecha Minion ATK +5%<br>Per devotee appointed, Priest-Snail Assistance DMG +40<br>Devotee Appointed: 50/50
+|ss4=Mecha Minion ATK +7%<br>Per devotee appointed, Priest-Snail Assistance DMG +56<br>Devotee Appointed: 50/50
+|ss5=Mecha Minion ATK +9%<br>Per devotee appointed, Priest-Snail Assistance DMG +72<br>Devotee Appointed: 50/50
+|ss7=Mecha Minion ATK +9%<br>Per devotee appointed, Priest-Snail Assistance DMG +72<br>Devotee Appointed: 50/50<br>Protomon Snail assist DMG + 560 (Awakened)
+|skill1=[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x Purple Card Drops +7.5%
+|skill2=[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Card Drops +7.5%
+}}

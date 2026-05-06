@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Birdie
+|rank=Green
+|affct=FTH
+|source=Defeat [[Fugitives|Ronin Katsura]]
+|description=This puppet, which looks like a duck, is said to be the disguise of a powerful alien, yet no one has ever seen its real appearance. After many years of wandering on Earth, it became partners with a Samurai. <br>
+Eventually, it was defeated by the snail and turned into a Relic.
+|fame=17
+|art=18
+|fth=28
+|civ=13
+|tech=14
+|ss1=Quarry Output +2%
+|ss2=Quarry Output +4%
+|ss3=Quarry Output +6%
+}}
+
+[[Category:Quarry Output Boost]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Advanced Camera
+|class_id=20368
+|rank=Green
+|affct=TECH
+|source=
+|description=The Advanced Camera for surveys is a type of space telescope instrument, driven by solar energy that allows its multi-camera system to work. It directly collects optical information from the protons in space without atmospheric interference, thereby making the further research on the celestial bodies and the outer space possible.
+|fame=14
+|art=14
+|fth=16
+|civ=16
+|tech=30
+|ss1=Per 10 Constellation LVLs, Snail ATK +2<br>Constellation LVLs: 400/400
+|ss2=Per 10 Constellation LVLs, Snail ATK +4<br>Constellation LVLs: 400/400
+|ss3=Per 10 Constellation LVLs, Snail ATK +6<br>Constellation LVLs: 400/400
+|ss4=Per 10 Constellation LVLs, Snail ATK +6<br>Constellation LVLs: 400/400
+|ss7=Per 10 Constellation LVLs, Snail ATK +6<br>Constellation LVLs: 400/400<br> (Awakened)
+}}

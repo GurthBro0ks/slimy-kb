@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Nishijin Fabric
+|class_id=22147
+|rank=AAA
+|affct=ART
+|birthday=12-19
+|source=
+|description=On Dec 19, 1467 AD, Nishijin Fabric became exclusive to the royal family.<br>Nishijin Fabric is a traditional craft originating from the Nishijin area of Japan. The fabrics are first dyed and then hand-woven by highly-skilled artisans for more than twenty different processes. Although output is low, the quality of the fabric is considered top-notch in the textile industry.
+|fame=37
+|art=73
+|fth=48
+|civ=47
+|tech=38
+|ss1=Snail ATK +30<br>Quantum Amp production +1.8%
+|ss2=Snail ATK +40<br>Quantum Amp production +2.4%
+|ss3=Snail ATK +50<br>Quantum Amp production +3%
+|ss4=Snail ATK +70<br>Quantum Amp production +4.2%
+|ss5=Snail ATK +90<br>Quantum Amp production +5.4%
+|ss7=Snail ATK +90<br>Quantum Amp production +5.4%<br>Quantum Amp production +4.2% (Awakened)
+|skill1=[[File:Yamato skill II.png|50px]]Place in Yamato Museum: This Relic's ART +10
+|skill2=[[File:Yamato skill II.png|50px]]Place in Yamato Museum: In Yamato, Demon Cells gained +15%
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Top Adventurer Badge
+|class_id=20470
+|rank=Green
+|affct=FAME
+|source=
+|description=The badge customized for the adventurer association. It is issued to those who passed a series of tests or the elite members that accomplished great achievements. It is the highest honor for an adventurer!
+|fame=30
+|art=15
+|fth=14
+|civ=18
+|tech=13
+|ss1=Per 500 Fissure Floors, Snail DEF +2<br>Fissure Floor: 15000/15000
+|ss2=Per 500 Fissure Floors, Snail DEF +4<br>Fissure Floor: 15000/15000
+|ss3=Per 500 Fissure Floors, Snail DEF +6<br>Fissure Floor: 15000/15000
+|ss4=Per 500 Fissure Floors, Snail DEF +6<br>Fissure Floor: 15000/15000
+|ss7=Per 500 Fissure Floors, Snail DEF +6<br>Fissure Floor: 15000/15000<br> (Awakened)
+}}

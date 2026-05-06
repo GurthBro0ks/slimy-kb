@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Yamato Mirror
+|rank=AAA
+|affct=FTH
+|birthday=10-25
+|source=Fragment Crafting (1.5%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)
+|description=On October 25, 1160 A.D., this mirror was offered to the court of Yamato.
+
+Yamato Mirror is an ancient bronze mirror inscribed with the word "Unparalleled" by the craftsman.
+
+The reverse of this thin and circular mirror is elaborately incised with birds and beasts by using the bas-relief technique. The exquisite and vivid composition makes it a rare treasure.
+|fame=39
+|art=51
+|fth=75
+|civ=34
+|tech=44
+|ss1=Per 10 Ninjutsu LVLs, Snail ATK +6<br>Per 10 Ninjutsu LVLs, Snail DEF +6<br>Ninjutsu Progress: 80/80
+|ss2=Per 10 Ninjutsu LVLs, Snail ATK +8<br>Per 10 Ninjutsu LVLs, Snail DEF +8<br>Ninjutsu Progress: 80/80
+|ss3=Per 10 Ninjutsu LVLs, Snail ATK +10<br>Per 10 Ninjutsu LVLs, Snail DEF +10<br>Ninjutsu Progress: 80/80
+|ss4=Per 10 Ninjutsu LVLs, Snail ATK +<br>Per 10 Ninjutsu LVLs, Snail DEF +<br>Ninjutsu Progress: 80/80
+|ss5=Per 10 Ninjutsu LVLs, Snail ATK +18<br>Per 10 Ninjutsu LVLs, Snail DEF +18<br>Ninjutsu Progress: 80/80
+|ss7=Per 10 Ninjutsu LVLs, Snail ATK +18<br>Per 10 Ninjutsu LVLs, Snail DEF +18<br>Ninjutsu Progress: 80/80<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Yamato skill II.png|50px]] Place in Yamato Museum: In Yamato, Snail ATK +30
+|skill2=[[File:Yamato skill II.png|50px]] Place in Yamato Museum: In Yamato, 2x Green Card Drops +7.5%
+}}
+
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Zombie Gene Speedup Boost]]
+[[Category:Relic Boost]]
+[[Category:Enhanced by Ninjutsu LVL]]
+[[Category:Enhanced by Purple Relics]]
+[[Category:Slug Dragonling Boost]]

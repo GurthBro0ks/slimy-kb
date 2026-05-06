@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Celestial Mechanics,Mysterious Relic
+|rank=orange
+|amount=2
+|category=self
+|description=Per 2 fully unlocked Tactical Logs, Snail RUSH +7; Fully Unlocked Tactical Logs: 100/100
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]

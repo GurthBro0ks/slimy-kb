@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Golden Snail,Gold-plated Bird
+|rank=orange
+|amount=2
+|category=minion
+|description=Snail Leadership +10
+}}
+[[Category:Minion]]
+[[Category:Leadership Boost]]

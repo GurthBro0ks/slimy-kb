@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Pride & Prejudice
+|class_id=22301
+|rank=S
+|affct=CIV
+|birthday=03-23
+|source=Lottery Machine No.2 (1.45%), Wishing (5.4%)
+|description=On Mar 23, 1813 AD, Pride and Prejudice was published in Britain.<br>Pride and Prejudice is a novel written by English writer Jane Austen. It describes the love stories of the five daughters of the Bennet family. The main character of the story is Elizabeth, the second-eldest Bennet daughter. She meets Mr. Darcy at a ball, but she repulses him because she hears that he is arrogant. After all kinds of twists and turns, their prejudice surrender to their love for each other. Elizabeth's different attitude towards Darcy's two marriage proposals reflects her independent personality and her pursuit of equal rights. With the personality of Elizabeth, the writer expresses the progressive ideas of gender equality and the pursuit of independence for women.
+|fame=68
+|art=65
+|fth=51
+|civ=96
+|tech=52
+|ss1=Snail RUSH +10<br>Per 2 CIV Master Scrolls used, Snail ATK +1<br>Per 2 CIV Master Scrolls used, Snail RUSH +1<br>CIV Master Scrolls Used: 100/100
+|ss2=Snail RUSH +20<br>Per 2 CIV Master Scrolls used, Snail ATK +2<br>Per 2 CIV Master Scrolls used, Snail RUSH +2<br>CIV Master Scrolls Used: 100/100
+|ss3=Snail RUSH +30<br>Per 2 CIV Master Scrolls used, Snail ATK +3<br>Per 2 CIV Master Scrolls used, Snail RUSH +3<br>CIV Master Scrolls Used: 100/100
+|ss4=Snail RUSH +50<br>Per 2 CIV Master Scrolls used, Snail ATK +5<br>Per 2 CIV Master Scrolls used, Snail RUSH +5<br>CIV Master Scrolls Used: 100/100
+|ss5=Snail RUSH +70<br>Per 2 CIV Master Scrolls used, Snail ATK +7<br>Per 2 CIV Master Scrolls used, Snail RUSH +7<br>CIV Master Scrolls Used: 100/100
+|ss6=Snail RUSH +100<br>Per 2 CIV Master Scrolls used, Snail ATK +10<br>Per 2 CIV Master Scrolls used, Snail RUSH +10<br>CIV Master Scrolls Used: 100/100
+|ss7=Snail RUSH +100<br>Per 2 CIV Master Scrolls used, Snail ATK +10<br>Per 2 CIV Master Scrolls used, Snail RUSH +10<br>CIV Master Scrolls Used: 100/100<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: Grow Wonder Fungus by +30%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=Pride & Prejudice|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Darcy|3rec=13.98M|3atk=97504|3defense=65049|3hp=2821359|3weak=16946
+|4name=Elizabeth|4rec=35.05M|4atk=139713|4defense=93208|4hp=5580662|4weak=19450
+|Arec=60.38M|Aatk=193129|Adefense=128844|Ahp=9928564|Aweak=24043
+}}}}

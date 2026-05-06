@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Jade Wings
+|type=Common
+|rank=orange
+|id=10957
+|idx=150
+|description=Dragon wings bursting with wind energy. Emerald green and elegantly shaped...though roots appear tattered from repeated violent implant procedures.
+|skill=
+|hp=1626
+|def=188
+|atk=259
+|rush=235
+|gene1=Per Dragon Form Tier, {race} RUSH +35
+Dragon Form Tiers: 9/9
+|gene2=Wind DMG +90
+|gene3=Per Dragon Form Tier, {race} ATK +35
+Dragon Form Tiers: 9/9
+|gene4=Against main species, HIT +9%
+|gene5=Against main species, Crit DMG +15%
+|gene7=Wind DMG +4.5% (Awakened)
+|}}

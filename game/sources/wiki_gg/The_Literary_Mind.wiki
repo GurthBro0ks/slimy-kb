@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The Literary Mind
+|class_id=21336
+|rank=SSS
+|affct=CIV
+|source=
+|description=The first systematic literary theory text in China, comprising 50 essays. It proposed "spirit and structure" as core principles, blending emotion with form. Using metaphors from astronomy and ritual, it linked literature to cosmic order. Its ideas later shaped the Tang-Song prose reform and Confucian literary criticism.
+|fame=79
+|art=69
+|fth=56
+|civ=106
+|tech=52
+|ss1=Dragon Minion DEF +3%<br>Per 60 T8+ Minions deployed, Troop ATK +36<br>Per 60 T8+ Minions deployed, Troop HP +360
+|ss2=Dragon Minion DEF +4%<br>Per 60 T8+ Minions deployed, Troop ATK +48<br>Per 60 T8+ Minions deployed, Troop HP +480
+|ss3=Dragon Minion DEF +5%<br>Per 60 T8+ Minions deployed, Troop ATK +60<br>Per 60 T8+ Minions deployed, Troop HP +600
+|ss4=Dragon Minion DEF +7%<br>Per 60 T8+ Minions deployed, Troop ATK +84<br>Per 60 T8+ Minions deployed, Troop HP +840
+|ss5=Dragon Minion DEF +9%<br>Per 60 T8+ Minions deployed, Troop ATK +108<br>Per 60 T8+ Minions deployed, Troop HP +1080
+|ss6=Dragon Minion DEF +12%<br>Per 60 T8+ Minions deployed, Troop ATK +144<br>Per 60 T8+ Minions deployed, Troop HP +1440
+|ss7=Dragon Minion DEF +12%<br>Per 60 T8+ Minions deployed, Troop ATK +144<br>Per 60 T8+ Minions deployed, Troop HP +1440<br>Per 60 T8+ Minions deployed, Troop ATK +120 (Awakened)
+|skill1=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: This Relic's CIV +15
+|skill2=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop ATK +9%
+|skill3=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop RUSH +9%
+}}

@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=This Snail Shell is known for its fragrance, and many wanted to buy it to see what was in it. But in fact, it was just the fragrance of Snail Shell's owner.
+|affct=FAME
+|hard=ATK
+|source=Divine Neutral Chest (0.4%)
+|color=blue
+|earth=3
+|water=4
+|fire=4
+|wind=3
+|form=Zombie
+|element=Earth
+|realm=Britland
+|orangehard=ATK
+}}

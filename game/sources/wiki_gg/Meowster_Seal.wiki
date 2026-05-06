@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Meowster Seal
+|class_id=20225
+|rank=Green
+|affct=FAITH
+|source=
+|description=The Xufu Sect is the largest immortal practice group in future Yamato. It is said that Xufu traveled eastward during the Qin Dynasty and founded the sect. His disciples were mostly cats who pursued immortality. After the Demon Gods dominated the future world, the leader of the sect was killed, and the successor traveled to the modern era, taking with him this Meowster Seal.
+|fame=13
+|art=19
+|fth=29
+|civ=15
+|tech=16
+|ss1=Per Taoraemon 5D Tech LVL, Snail ATK +3<br>Taoraemon 5D Tech: 30/30
+|ss2=Per Taoraemon 5D Tech LVL, Snail ATK +4<br>Taoraemon 5D Tech: 30/30
+|ss3=Per Taoraemon 5D Tech LVL, Snail ATK +5<br>Taoraemon 5D Tech: 30/30
+|ss4=Per Taoraemon 5D Tech LVL, Snail ATK +5<br>Taoraemon 5D Tech: 30/30
+|ss7=Per Taoraemon 5D Tech LVL, Snail ATK +5<br>Taoraemon 5D Tech: 30/30<br> (Awakened)
+}}

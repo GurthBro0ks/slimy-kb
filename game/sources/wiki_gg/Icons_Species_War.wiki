@@ -1,0 +1,79 @@
+= [[Species War]] =
+Icons for [[Species War]]
+
+= Chronicles =
+== Dung Beetle ==
+[[File:Earthworms.png|150px]]
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|E Grenadier Platoon}}
+{{IconExampleRowWithText|E Grenadier Battalion}}
+{{IconExampleRowWithText|E Grenadier Regiment}}
+{{IconExampleRowWithText|E Grenadier Brigade}}
+|}
+
+== Mantis ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Martial Prestige}}
+|}
+
+== Surf Clam ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Energy Conflux}}
+{{IconExampleRowWithText|Forbidden Shadow}}
+{{IconExampleRowWithText|Growth Magic}}
+{{IconExampleRowWithText|Magic Energy}}
+|}
+
+= Currency =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Drill Bit}}
+{{IconExampleRowWithText|Gold token}}
+{{IconExampleRowWithText|Silver token}}
+{{IconExampleRowWithText|Species Chest Voucher}}
+{{IconExampleRowWithText|Species Essence}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Dung Beetle Cash}}
+{{IconExampleRowWithText|Surf Clam Cash}}
+|}
+
+= Embryo =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Ryurik Embryo I}}
+{{IconExampleRowWithText|Ryurik Embryo II}}
+{{IconExampleRowWithText|Ryurik Embryo III}}
+{{IconExampleRowWithText|Ryurik Embryo IV}}
+|}
+
+= Gene Essence =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Dung Beetles Gene Essence}}
+{{IconExampleRowWithText|Goldfish Gene Essence}}
+{{IconExampleRowWithText|Hamsters Gene Essence}}
+{{IconExampleRowWithText|Mantises Gene Essence}}
+{{IconExampleRowWithText|Surf Clams Gene Essence}}
+|}
+
+= Incident Resource =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Compressed Food}}
+{{IconExampleRowWithText|Cult Token}}
+{{IconExampleRowWithText|Everfrozen Crystal}}
+{{IconExampleRowWithText|Karma Token}}
+{{IconExampleRowWithText|Key}}
+{{IconExampleRowWithText|Underwater Agarwood}}
+|}
+
+= Resource =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Fossil Material}}
+{{IconExampleRowWithText|Fossil Material a}}
+{{IconExampleRowWithText|Fossil Material b}}
+{{IconExampleRowWithText|Fossil Material y}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Surf Clam Fossil}}
+{{IconExampleRowWithText|Surf Clam's Remains}}
+|}
+
+[[Category:Icons]]
+[[Category:Species War]]

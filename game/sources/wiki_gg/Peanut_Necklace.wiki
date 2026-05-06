@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Peanut Necklace
+|class_id=22425
+|rank=Blue
+|affct=ART
+|birthday=12-18
+|source=Lottery Machine No.3 (0.06%)
+|description=On Dec 18, 1987 AD, archaeologist Alva came to the tomb of the Lord of Sipán, which had been opened by tomb robbers, and found this necklace there.<br>The Golden Peanut Necklace was discovered by archaeologist Walter Alva in the tomb of the Lord of Sipán, a Moche ruler, in northern Peru. The necklace is made up of ten copper ornaments that are gold and silver-plated, and designed in the shape of peanuts with intricate craftsmanship. Alva and his team uncovered the tomb chamber after it had been looted by grave robbers and recovered numerous priceless artifacts, including the Golden Peanut Necklace.
+|fame=23
+|art=46
+|fth=28
+|civ=35
+|tech=22
+|ss1=Per 10 advanced fusions, Snail DEF +1<br>Advanced Fusions: 500/500
+|ss2=Per 10 advanced fusions, Snail DEF +2<br>Advanced Fusions: 500/500
+|ss3=Per 10 advanced fusions, Snail DEF +3<br>Advanced Fusions: 500/500
+|ss4=Per 10 advanced fusions, Snail DEF +5<br>Advanced Fusions: 500/500
+|ss7=Per 10 advanced fusions, Snail DEF +5<br>Advanced Fusions: 500/500<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Quary skill I.png|50px]]Place in Quarry: Find Ancient Fossil by +5%
+}}

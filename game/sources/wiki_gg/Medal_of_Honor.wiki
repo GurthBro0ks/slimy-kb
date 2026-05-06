@@ -1,0 +1,45 @@
+{{Missing Info|specifics=<br>Mirage: 5s Name, 6s Name}}
+{{CargoRelic
+|name=Medal of Honor
+|rank=SSS
+|affct=FAME
+|birthday=06-02
+|source=* Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.09%)
+* [[Indigent Nobleman]] (810k {{RewardIconWithText|B-Tad}})
+|description=On June 2, 1863, an act of Congress was passed to award the Congressional Gold Medals.
+
+To be awarded a Medal of Honor, one must demonstrate bravery, self-sacrifice, and fearlessness. Receiving it does not entitle the recipient to special privileges. This medal has a very important status in America. General M. once said that he sold his heart for a Medal of Honor. Truman said that he would rather have this medal than be president. 
+
+[Perks]
+
+Take a Military Airlift Command plane for free. Your children can go to American Military Academy. Your name is on the Medal of Honor Recipient List. Enjoy a $200 monthly pension for life.
+|fame=106
+|art=59
+|fth=55
+|civ=74
+|tech=68
+|ss1=Snail RUSH +3<br>Per 1.5k Museum Medals gained, Snail HP +30<br>Per 1.5k Museum Medals gained, Snail ATK +3<br>Museum Medals Gained: 60,000/60,000
+|ss2=Snail RUSH +40<br>Per 1.5k Museum Medals gained, Snail HP +40<br>Per 1.5k Museum Medals gained, Snail ATK +4<br>Museum Medals Gained: 60,000/60,000
+|ss3=Snail RUSH +50<br>Per 1.5k Museum Medals gained, Snail HP +50<br>Per 1.5k Museum Medals gained, Snail ATK +5<br>Museum Medals Gained: 60,000/60,000
+|ss4=Snail RUSH +70<br>Per 1.5k Museum Medals gained, Snail HP +70<br>Per 1.5k Museum Medals gained, Snail ATK +7<br>Museum Medals Gained: 60,000/60,000
+|ss5=Snail RUSH +90<br>Per 1.5k Museum Medals gained, Snail HP +90<br>Per 1.5k Museum Medals gained, Snail ATK +9<br>Museum Medals Gained: 60,000/60,000
+|ss6=Snail RUSH +120<br>Per 1.5k Museum Medals gained, Snail HP +120<br>Per 1.5k Museum Medals gained, Snail ATK +12<br>Museum Medals Gained: 60,000/60,000
+|ss7=Snail RUSH +120<br>Per 1.5k Museum Medals gained, Snail HP +120<br>Per 1.5k Museum Medals gained, Snail ATK +12<br>Museum Medals Gained: 60,000/60,000<br>Snail Rush +100 (Awakened)
+|skill1=[[File:Murika skill III.png|frameless|50x50px]]Place in Murikan Museum: Medal Output +30
+|skill2=[[File:Murika skill III.png|frameless|50x50px]]Place in Murikan Museum: In Murika, 2x Blue Card Drops +15%
+|skill3=[[File:Murika skill III.png|frameless|50x50px]]Place in Murikan Museum: In Murika, B-tads gained +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:RUSH Boost]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Medal Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Gear Boost]]
+[[Category:Daily Hitmen White Tadpole Drop Boost]]
+[[Category:Tomb Figure Boost]]
+[[Category:Indigent Nobleman Relics]]

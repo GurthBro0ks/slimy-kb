@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Fabre's Insects Book
+|class_id=22500
+|rank=Blue
+|affct=TECH
+|birthday=10-16
+|source=Lottery Machine No.3 (0.03%)
+|description=On Oct 16, 1879 AD, the first volume of Fabre's Insects Book was published.<br>It is a lengthy biological work by French entomologist Jean-Henri Fabre. The book summarizes the types, characteristics, habits, and mating habits of insects and records the real life of insects, revealing their intelligence in the struggle for survival. The author integrates the colorful life of insects with his own philosophical insights, viewing insects through a humanistic lens and revealing the author's respect and love for life.
+|fame=30
+|art=21
+|fth=31
+|civ=24
+|tech=48
+|ss1=Mecha Minion DEF +1%
+|ss2=Mecha Minion DEF +2%
+|ss3=Mecha Minion DEF +3%
+|ss4=Mecha Minion DEF +5%
+|ss7=Mecha Minion DEF +5%<br>Mecha Minion DEF +5% (Awakened)
+|skill1=[[File:Prairiesanctum skill I.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +5%
+}}

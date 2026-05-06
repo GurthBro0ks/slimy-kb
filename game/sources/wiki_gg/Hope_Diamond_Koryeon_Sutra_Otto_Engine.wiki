@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Hope Diamond,Koryeon Sutra,Otto Engine
+|rank=purple
+|amount=3
+|category=minion
+|description=Per 30 Minions in battle: Troop HARD Stats +9
+}}
+[[Category:Minion]]
+[[Category:Minion HARD Boost]]

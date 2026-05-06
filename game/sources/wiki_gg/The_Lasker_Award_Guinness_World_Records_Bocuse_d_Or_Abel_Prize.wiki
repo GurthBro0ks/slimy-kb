@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=745
+|relics=The Lasker Award,Guinness World Records,Bocuse d'Or,Abel Prize
+|rank=orange
+|amount=4
+|category=self
+|description=Snail Leadership +9
+}}

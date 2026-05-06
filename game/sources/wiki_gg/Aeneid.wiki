@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Aeneid
+|class_id=22312
+|rank=SSS
+|affct=CIV
+|birthday=10-05
+|source=
+|description=On Oct 5, 23 BC, Octavian asked Virgil for the book to read<br>The Aeneid is a Latin epic poem written by Virgil that tells the legendary story of Aeneas, a Trojan who fled the fall of Troy and traveled to Italy after encountering plagues, evil waves, and monsters, where he became the ancestor of the Romans with the help of the gods. Because it was composed and preserved in writing rather than orally, the text exhibits less variation than other classical epics. The Aeneid is widely regarded as Virgil's masterpiece and one of the greatest works of Latin literature.
+|fame=69
+|art=68
+|fth=64
+|civ=109
+|tech=52
+|ss1=Snail ATK +30<br>Dragon Minion ATK +3%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +24%
+|ss2=Snail ATK +40<br>Dragon Minion ATK +4%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +32%
+|ss3=Snail ATK +50<br>Dragon Minion ATK +5%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +40%
+|ss4=Snail ATK +70<br>Dragon Minion ATK +7%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +56%
+|ss5=Snail ATK +90<br>Dragon Minion ATK +9%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +72%
+|ss6=Snail ATK +120<br>Dragon Minion ATK +12%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +96%
+|ss7=Snail ATK +120<br>Dragon Minion ATK +12%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +96%<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop CRIT DMG +9%
+|skill2=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop DMG toward heroes +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+|mirage={{Mirage|name=Journey to Restoration|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Dido|3rec=22.32M|3atk=112873|3defense=75302|3hp=3730865|3weak=18204
+|4name=Sybill|4rec=32.66M|4atk=134683|4defense=89852|4hp=5200759|4weak=19205
+|5name=Evander|5rec=44.11M|5atk=158830|5defense=105961|5hp=7073440|5weak=20669
+|6name=Turnus|6rec=57.16M|6atk=186338|6defense=124313|6hp=9347376|6weak=23169
+|Arec=71.50M|Aatk=216590|Adefense=144496|Ahp=12183689|Aweak=28577
+}}}}

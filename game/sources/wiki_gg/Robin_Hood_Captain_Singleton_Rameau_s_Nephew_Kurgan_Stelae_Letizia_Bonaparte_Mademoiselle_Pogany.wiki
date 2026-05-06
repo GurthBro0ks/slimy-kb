@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=653
+|relics=Robin Hood,Captain Singleton,Rameau's Nephew,Kurgan Stelae,Letizia Bonaparte,Mademoiselle Pogany
+|rank=blue
+|amount=6
+|category=self
+|description=Snail Leadership +6
+}}

@@ -1,0 +1,26 @@
+'''Please contact Klei on the {{Socials|Discord|true}} if you know what's going on with this thing'''
+
+<!--{{CargoRelic
+|name=Dunhuang Scripts
+|rank=sss
+|affct=fth
+|birthday=not this? 03-12
+|source=
+|description=
+|fame=
+|art=
+|fth=
+|civ=
+|tech=
+|ss1=
+|ss2=
+|ss3=
+|ss4=
+|ss5=
+|ss6=
+|ss7
+|skill1=
+|skill2=
+|skill3=
+|mirage=
+}}-->

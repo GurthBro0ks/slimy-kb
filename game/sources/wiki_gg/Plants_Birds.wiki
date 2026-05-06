@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Plants & Birds
+|class_id=21639
+|rank=SSS
+|affct=ART
+|source=
+|description=Plants & Birds is a work by Bian Jingshao from the Ming dynasty. The painting is made of a pine tree, a bamboo, a plum tree, and rocks, dotted with birds, a metaphor for the officials in the imperial court. The birds have different postures, looking vivid and animated, demonstrating the painter's pursuit of incorruptibility and harmony. It was collected by the imperial palace right after its completion, and was passed down to later generations as a valuable cultural relic!
+|fame=67
+|art=108
+|fth=73
+|civ=53
+|tech=61
+|ss1=Exploration Egg hatching rate +3%<br>Per 10 Exploration Eggs hatched, Snail DEF +3<br>Per 10 Exploration Eggs hatched, Snail RUSH +3<br>400/400 Exploration Eggs hatched
+|ss2=Exploration Egg hatching rate +4%<br>Per 10 Exploration Eggs hatched, Snail DEF +4<br>Per 10 Exploration Eggs hatched, Snail RUSH +4<br>400/400 Exploration Eggs hatched
+|ss3=Exploration Egg hatching rate +5%<br>Per 10 Exploration Eggs hatched, Snail DEF +5<br>Per 10 Exploration Eggs hatched, Snail RUSH +5<br>400/400 Exploration Eggs hatched
+|ss4=Exploration Egg hatching rate +7%<br>Per 10 Exploration Eggs hatched, Snail DEF +7<br>Per 10 Exploration Eggs hatched, Snail RUSH +7<br>400/400 Exploration Eggs hatched
+|ss5=Exploration Egg hatching rate +9%<br>Per 10 Exploration Eggs hatched, Snail DEF +9<br>Per 10 Exploration Eggs hatched, Snail RUSH +9<br>400/400 Exploration Eggs hatched
+|ss6=Exploration Egg hatching rate +12%<br>Per 10 Exploration Eggs hatched, Snail DEF +12<br>Per 10 Exploration Eggs hatched, Snail RUSH +12<br>400/400 Exploration Eggs hatched
+|ss7=Exploration Egg hatching rate +12%<br>Per 10 Exploration Eggs hatched, Snail DEF +12<br>Per 10 Exploration Eggs hatched, Snail RUSH +12<br>400/400 Exploration Eggs hatched<br>Exploration Egg hatching rate +10% (Awakened)
+|skill1=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: This Relic's ART +15
+|skill2=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: Blue rewards from this egg turn Purple by 6%
+|skill3=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: Exploration Egg hatching efficiency +30%
+|mirage={{Mirage|name=Birds Gathering|reward={{RewardIconWithLink|Golden Eyelashes Sample, +3|orange}}
+|3name=Bulbul|3rec=91.61M|3atk=258985|3defense=172779|3hp=16548528|3weak=32939
+|4name=Magpie|4rec=124.82M|4atk=329024|4defense=219505|4hp=24924107|4weak=38362
+|5name=Crested Myna|5rec=163.82M|5atk=411286|5defense=274385|5hp=36399295|5weak=45777
+|6name=Sparrow|6rec=209.69M|6atk=508011|6defense=338914|6hp=51548743|6weak=52969
+|Arec=277.64M|Aatk=618079|Adefense=412345|Ahp=71218158|Aweak=53430
+}}}}

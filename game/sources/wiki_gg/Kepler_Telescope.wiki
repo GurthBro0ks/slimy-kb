@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Kepler Telescope
+|class_id=21824
+|rank=SSS
+|affct=TECH
+|birthday=12-23
+|source=
+|description=On Dec 23, 2018 AD, the Kepler Space Telescope officially retired after 11 years of service.<br>The Kepler Telescope is the first space telescope that searched for terrestrial planets outside the solar system through the observation of their orbits. It could determine the number of terrestrial planets in the habitable zone of a star. It assessed the number and orbital distribution of planets in a multi-star system and determined the density, mass, volume, size, etc. of short-period giant planets.
+[Structure]
+Spectrometer: 0.95m aperture
+Main Cam: 1.4m diameter, 85% hollow
+CCD detector cam 95 million pixels
+Storage duration: more than 60 days
+Mass: 1071 kg
+Power: 771 W
+|fame=65
+|art=72
+|fth=64
+|civ=52
+|tech=109
+|ss1=When in Mecha Form:<br>> Gain +3% Mecha Cells in explorations<br>Per Domain discovered, Snail ATK +15<br>Per Domain discovered, Snail RUSH +15<br>Domains Discovered: 8/8
+|ss2=When in Mecha Form:<br>> Gain +4% Mecha Cells in explorations<br>Per Domain discovered, Snail ATK +20<br>Per Domain discovered, Snail RUSH +20<br>Domains Discovered: 8/8
+|ss3=When in Mecha Form:<br>> Gain +5% Mecha Cells in explorations<br>Per Domain discovered, Snail ATK +25<br>Per Domain discovered, Snail RUSH +25<br>Domains Discovered: 8/8
+|ss4=When in Mecha Form:<br>> Gain +7% Mecha Cells in explorations<br>Per Domain discovered, Snail ATK +35<br>Per Domain discovered, Snail RUSH +35<br>Domains Discovered: 8/8
+|ss5=When in Mecha Form:<br>> Gain +9% Mecha Cells in explorations<br>Per Domain discovered, Snail ATK +45<br>Per Domain discovered, Snail RUSH +45<br>Domains Discovered: 8/8
+|ss6=When in Mecha Form:<br>> Gain +12% Mecha Cells in explorations<br>Per Domain discovered, Snail ATK +60<br>Per Domain discovered, Snail RUSH +60<br>Domains Discovered: 8/8
+|ss7=When in Mecha Form:<br>> Gain +12% Mecha Cells in explorations<br>Per Domain discovered, Snail ATK +60<br>Per Domain discovered, Snail RUSH +60<br>Domains Discovered: 8/8<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's TECH +15
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Snail RUSH +600
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Orange Card Drops +15%
+|mirage={{Mirage|name=Stargazing|reward={{RewardIconWithLink|Travel Speedup, +28800|orange}}
+|3name=Draco-4b|3rec=8.45M|3atk=75315|3defense=49683|3hp=1659625|3weak=13113
+|4name=Cygnus-22b|4rec=15.19M|4atk=103019|4defense=67958|4hp=2899944|4weak=16926
+|5name=Lyra-20e|5rec=32.50M|5atk=135854|5defense=89618|5hp=4898097|5weak=18720
+|6name=Galaxy King's Planet|6rec=50.58M|6atk=174414|6defense=115055|6hp=7760442|6weak=20436
+|Arec=72.21M|Aatk=220561|Adefense=145497|Ahp=12216479|Aweak=24261
+}}}}

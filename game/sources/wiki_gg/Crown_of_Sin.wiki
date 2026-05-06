@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=Crown of Sin
+|type=Bionic
+|rank=red
+|id=10715
+|idx=73
+|description="The Federation's expeditionary force was erased in an instant—we didn’t even see It move! When crimson rain began to fall from the sky… it was already too late."
+— Demon King's Revelation
+|skill=Create a domain with fighting spirit, absorbing DMG equal to 36% of the enemy's ATK and reflecting the absorbed damage back to the enemy!
+|hp=3540
+|def=251
+|atk=222
+|rush=243
+|gene1=Per Xenoking Organ implanted, {race} HP +420
+Xenoking Organs implanted: 7/7
+|gene2=Snail Arena, CRIT DMG +20%
+|gene3=In Snail Arena, {race} HP +1400
+|gene4=Restore 800 HP each round
+|gene5=Water DMG +120
+|gene6=Snail Arena, All ELMT RES +2%
+|gene7=Snail Arena, CRIT DMG +20% (Awakened)
+|}}

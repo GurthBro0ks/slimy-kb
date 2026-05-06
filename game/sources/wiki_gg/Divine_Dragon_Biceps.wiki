@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Divine Dragon Biceps
+|type=Common
+|rank=purple
+|id=10857
+|idx=62
+|description=When Divine Dragon committed to self-discipline, the cosmos trembled. A being capable of granting wishes, now chasing raw muscular power—its physique reaching peaks other lifeforms can only dream of.
+|skill=
+|hp=1220
+|def=159
+|atk=191
+|rush=158
+|gene1=Per Divine Dragon Descent, {race} ATK +6
+Divine Dragon Descents: 20/20
+|gene2=Per 5 Shrine Flying Objects shot, {race} HP +60
+Shrine flying objects shot: 100/100
+|gene3=Ignore Fire RES +60
+|gene4=Per Divine Dragon descended, all ELMT DMG +4
+Divine Dragon Descents: 20/20
+|gene7=Per Divine Dragon descended, all ELMT DMG +12 (Awakened)
+|}}

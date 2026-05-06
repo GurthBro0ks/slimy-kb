@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=65
+|relics=Golden Fleece,Seismograph,Bronze Bird,Enigma Machine
+|rank=blue
+|amount=4
+|category=self
+|description=The Time Machine: +14% chance to dropTime Chests
+}}

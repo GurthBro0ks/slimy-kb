@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Woman with a Parasol
+|class_id=21139
+|rank=SSS
+|affct=ART
+|source=
+|description=Monet’s impressionist hymn to fleeting light. Wind-kissed skirts and fractured brushstrokes birthed "living palette" technique.
+|fame=47
+|art=108
+|fth=85
+|civ=67
+|tech=55
+|ss1=Snail Leadership +3<br>Per 3 Dorm Decors gained, Snail Oblivion Power +3<br>Per 3 Dorm Decors gained, Snail Murky Power +3<br>Dorm Decor Gained: 150/150
+|ss2=Snail Leadership +4<br>Per 3 Dorm Decors gained, Snail Oblivion Power +4<br>Per 3 Dorm Decors gained, Snail Murky Power +4<br>Dorm Decor Gained: 150/150
+|ss3=Snail Leadership +5<br>Per 3 Dorm Decors gained, Snail Oblivion Power +5<br>Per 3 Dorm Decors gained, Snail Murky Power +5<br>Dorm Decor Gained: 150/150
+|ss4=Snail Leadership +7<br>Per 3 Dorm Decors gained, Snail Oblivion Power +7<br>Per 3 Dorm Decors gained, Snail Murky Power +7<br>Dorm Decor Gained: 150/150
+|ss5=Snail Leadership +9<br>Per 3 Dorm Decors gained, Snail Oblivion Power +9<br>Per 3 Dorm Decors gained, Snail Murky Power +9<br>Dorm Decor Gained: 150/150
+|ss6=Snail Leadership +12<br>Per 3 Dorm Decors gained, Snail Oblivion Power +12<br>Per 3 Dorm Decors gained, Snail Murky Power +12<br>Dorm Decor Gained: 150/150
+|ss7=Snail Leadership +12<br>Per 3 Dorm Decors gained, Snail Oblivion Power +12<br>Per 3 Dorm Decors gained, Snail Murky Power +12<br>Dorm Decor Gained: 150/150<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, B-tads gained +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's ART +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+}}

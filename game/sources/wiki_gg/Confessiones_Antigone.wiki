@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=721
+|relics=Confessiones,Antigone
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Mythic Protodex Stars, Snail ATK +21;Mythic Protodex Stars: 100/100
+}}

@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The travelers used to hand out these helmets, but too many were caught speeding, so the travelers stopped issuing them.
+|affct=CIV
+|hard=RUSH
+|source=Divine Neutral Chest (0.2%)
+|color=purple
+|earth=8
+|water=7
+|fire=5
+|wind=6
+|form=Mutant
+|element=Earth
+|realm=Yamato
+|orangehard=ATK
+}}

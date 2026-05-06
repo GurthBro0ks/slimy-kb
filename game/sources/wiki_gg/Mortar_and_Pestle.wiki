@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Mortar and Pestle
+|class_id=20546
+|rank=Green
+|affct=CIV
+|source=
+|description=This small but practical mortar and pestle are said to be the tools used by the Moon Rabbit for medicine preparation. While its smooth surface shows no signs of wear and tear, its delightful aroma is the best proof of its extensive use.
+|fame=16
+|art=15
+|fth=13
+|civ=33
+|tech=13
+|ss1=Free Gene Speedup (Angel) +5m<br>Per 3 Incense used, Snail RUSH +1<br>Incense Used: 150/150
+|ss2=Free Gene Speedup (Angel) +10m<br>Per 3 Incense used, Snail RUSH +2<br>Incense Used: 150/150
+|ss3=Free Gene Speedup (Angel) +15m<br>Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150
+|ss4=Free Gene Speedup (Angel) +15m<br>Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150
+|ss7=Free Gene Speedup (Angel) +15m<br>Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150<br> (Awakened)
+}}

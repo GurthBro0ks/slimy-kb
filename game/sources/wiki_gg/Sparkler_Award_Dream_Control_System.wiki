@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=426
+|relics=Sparkler Award,Dream Control System
+|rank=purple
+|amount=2
+|category=self
+|description=Per 6 Mirage Gems gained, Snail ATK +6;Mirage Gems Gained: 420/420
+}}

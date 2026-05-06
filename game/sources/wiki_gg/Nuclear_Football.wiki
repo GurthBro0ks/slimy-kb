@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Nuclear Football
+|rank=AAA
+|affct=TECH
+|birthday=05-09
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On May 9, 1980, the American President carried this suitcase for the first time. It was to ensure the country's nuclear safety.
+
+This suitcase of the American President is 10 cm thick and weighs 10 kg. It is equipped with shockproof and anti-interference capabilities, as well as an auto-protection device and a strong password lock. It can only be opened by those who know the password. When the president travels within the country or abroad, a special bodyguard can be seen carrying this suitcase. If danger arises, the satellite transmitter will be taken out of the suitcase to establish direct communication with the Nuclear Warfare Center and the air force.
+
+[Items in the suitcase]
+
+1: A black manual, listing 4 anti-terrorism plans<br>2: List of confidential and secret bases<br>3: Emergency communication process, procedures for the president to make broadcast nationwide<br>4: Certification card with presidential certification number
+|fame=50
+|art=34
+|fth=37
+|civ=49
+|tech=73
+|ss1=Per Realm conquered, Snail DEF +30<br>Per Realm conquered, Snail RUSH +30<br>Realms Conquered: 8/8
+|ss2=Per Realm conquered, Snail DEF +40<br>Per Realm conquered, Snail RUSH +40<br>Realms Conquered: 8/8
+|ss3=Per Realm conquered, Snail DEF +50<br>Per Realm conquered, Snail RUSH +50<br>Realms Conquered: 8/8
+|ss4=Per Realm conquered, Snail DEF +70<br>Per Realm conquered, Snail RUSH +70<br>Realms Conquered: 8/8
+|ss5=Per Realm conquered, Snail DEF +90<br>Per Realm conquered, Snail RUSH +90<br>Realms Conquered: 8/8
+|ss7=Per Realm conquered, Snail DEF +90<br>Per Realm conquered, Snail RUSH +90<br>Realms Conquered: 8/8<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Compass skill II.png|50px]] Place in Exploration Compass: In explorations, 2x White Card Drops +7.5%
+|skill2=[[File:Compass skill II.png|50px]] Place in Exploration Compass: In explorations, 2x Green Card Drops +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:TECH Relics]]
+[[Category:Purple TECH Relics]]
+[[Category:DEF Boost]]
+[[Category:RUSH Boost]]
+[[Category:Realm Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Ancient Wood Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Enhanced by Realms Conquered]]

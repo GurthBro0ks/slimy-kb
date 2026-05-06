@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=874
+|relics=Charlemagne Crown,Infin. Improb. Eng.,Feather of Justice,Arnolfini Portrait,Poetics-Aristotle,History
+|rank=orange
+|amount=6
+|category=self
+|description=Per 5 CIV Relics awakened, Snail ATK +36;CIV Relics Awakened: 100/100
+}}

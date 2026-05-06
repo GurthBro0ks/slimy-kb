@@ -1,0 +1,46 @@
+{{CargoRelic
+|name=Nefertiti Bust
+|rank=A
+|affct=ART
+|birthday=08-01
+|source=* Expert Scrolls (7.6%), Fragment Crafting (31.2%), Lottery Machine (0.66%), Wishing (2.8%)
+* [[Indigent Nobleman]] (210k {{RewardIconWithText|B-Tad}})
+|description=On Aug 1, 1912, the archaeologist Ludwig Borchardt dug up an ancient Egyptian statue.
+
+Nefertiti was the queen of Pharaoh Akhenaten. The statue is so beautiful that it looks like an artifact from the future. It is said that she is the most ravishing woman in Egypt's history. She has appeared in many temples and murals, which speaks of her importance, so it is baffling that she was absent in the historical records of ancient Egypt.
+
+[Basic Info]
+
+Era: 18th Dynasty of Ancient Egypt
+
+Type: Limestone
+
+Height: 47cm tall
+
+Weight: 20kg
+
+Collected by: Egyptian Collection of Charlottenburg Museum
+|fame=41
+|art=61
+|fth=30
+|civ=40
+|tech=41
+|ss1=Per Altar God Descent, Snail ATK +2<br>Per Altar God Descent, Snail RUSH +2<br>Gods Descended: 30/30
+|ss2=Per Altar God Descent, Snail ATK +4<br>Per Altar God Descent, Snail RUSH +4<br>Gods Descended: 30/30
+|ss3=Per Altar God Descent, Snail ATK +6<br>Per Altar God Descent, Snail RUSH +6<br>Gods Descended: 30/30
+|ss4=Per Altar God Descent, Snail ATK +10<br>Per Altar God Descent, Snail RUSH +10<br>Gods Descended: 30/30
+|ss5=Per Altar God Descent, Snail ATK +14<br>Per Altar God Descent, Snail RUSH +14<br>Gods Descended: 30/30
+|ss7=Per Altar God Descent, Snail ATK +14<br>Per Altar God Descent, Snail RUSH +14<br>Gods Descended: 30/30<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: This Relic's ART +10
+|skill2=[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, this Relic's ART +10
+}}
+
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:ART Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:Divine Neutral Chest Drop Boost]]
+[[Category:Enhanced by DNA Strength]]
+[[category:Enhanced by God Descent]]
+[[Category:Indigent Nobleman Relics]]

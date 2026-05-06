@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Messier Catalog
+|class_id=22353
+|rank=SSS
+|affct=TECH
+|birthday=01-20
+|source=
+|description=On Jan 20, 1774 AD, Messier published the preliminary version of his catalog.<br>The Messier Catalog is a collection of astronomical objects cataloged by astronomer Messier. Nebulae, clusters, galaxies, and other deep sky objects visible in the northern hemisphere are included. Because Messier was only interested in comets, he cataloged these non-comet objects that thwarted his search. Nowadays, this catalog serves as a guide for amateur astronomers looking for these beautiful and recognizable deep sky objects.
+|fame=64
+|art=48
+|fth=76
+|civ=65
+|tech=109
+|ss1=Snail ATK +30<br>Per Constellation activated, Snail ATK +12<br>Per Constellation activated, Snail RUSH +12<br>Constellations Activated: 10/10
+|ss2=Snail ATK +40<br>Per Constellation activated, Snail ATK +16<br>Per Constellation activated, Snail RUSH +16<br>Constellations Activated: 10/10
+|ss3=Snail ATK +50<br>Per Constellation activated, Snail ATK +20<br>Per Constellation activated, Snail RUSH +20<br>Constellations Activated: 10/10
+|ss4=Snail ATK +70<br>Per Constellation activated, Snail ATK +28<br>Per Constellation activated, Snail RUSH +28<br>Constellations Activated: 10/10
+|ss5=Snail ATK +90<br>Per Constellation activated, Snail ATK +36<br>Per Constellation activated, Snail RUSH +36<br>Constellations Activated: 10/10
+|ss6=Snail ATK +120<br>Per Constellation activated, Snail ATK +48<br>Per Constellation activated, Snail RUSH +48<br>Constellations Activated: 10/10
+|ss7=Snail ATK +120<br>Per Constellation activated, Snail ATK +48<br>Per Constellation activated, Snail RUSH +48<br>Constellations Activated: 10/10<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +15%
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +30%
+|skill3=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Produce Nebula Chest Shards by +15%
+|mirage={{Mirage|name=Messier Objects|reward={{RewardIconWithLink|Nebula Chest, +200|orange}}
+|3name=Globular Cluster|3rec=42.52M|3atk=155468|3defense=103719|3hp=6752726|3weak=20419
+|4name=Sparse Cluster|4rec=55.24M|4atk=182291|4defense=121613|4hp=8956837|4weak=22807
+|5name=Omega Nebula|5rec=69.55M|5atk=212474|5defense=141750|5hp=11730575|5weak=27906
+|6name=Spiral Galaxy|6rec=84.96M|6atk=244967|6defense=163427|6hp=15042108|6weak=31802
+|Arec=101.93M|Aatk=280753|Adefense=187302|Ahp=19065648|Aweak=34818
+}}}}

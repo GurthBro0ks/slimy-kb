@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Magellan's Telescope,Origin of Species,Prometheus Torch,Unispark,Relativity Scripts
+|rank=orange
+|amount=5
+|category=self
+|description=Per 10k Power, Snail ATK +5<br>Power: 600,000/600,000
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Power]]

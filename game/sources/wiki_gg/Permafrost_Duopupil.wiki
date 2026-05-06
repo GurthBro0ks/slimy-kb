@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Permafrost Duopupil
+|type=Bionic
+|rank=purple
+|id=10662
+|idx=19
+|description=The left eye freezes flesh, the right petrifies souls. Victims' essence becomes eternal sculptures in the ice hell's gallery.
+|skill=Awaken the power of frost, dealing DMG equal to 163% of ATK!
+|hp=1376
+|def=206
+|atk=128
+|rush=159
+|gene1=In Mutant Form, Water DMG +120
+|gene2=In Mutant Form, {race} ATK +40
+|gene3=In Mutant Form, {race} RUSH +40
+|gene4=In Mutant Form, ignore enemy DEF +2%
+|gene7=In Mutant Form, ignore enemy DEF +2% (Awakened)
+|}}

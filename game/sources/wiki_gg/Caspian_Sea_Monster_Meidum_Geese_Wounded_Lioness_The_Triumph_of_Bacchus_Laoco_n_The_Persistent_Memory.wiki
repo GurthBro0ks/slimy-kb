@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=753
+|relics=Caspian Sea Monster,Meidum Geese,Wounded Lioness,The Triumph of Bacchus,Laocoön,The Persistent Memory
+|rank=orange
+|amount=6
+|category=self
+|description=All minion skins ATK +120%
+}}

@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Neural Synchronization Interface,Jupiter and Thetis
+|rank=orange
+|amount=2
+|category=self
+|description=Per 3 Dorm Decors gained, Snail Murky Power +7; Dorm Decors gained: 150/150
+}}
+[[Category:Self]]
+[[Category:Murky Power Boost]]

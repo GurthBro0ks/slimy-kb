@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Constellations
+|class_id=22272
+|rank=SSS
+|affct=ART
+|birthday=09-23
+|source=
+|description=On Sept 23, 1940 AD, Joan Miró began the creation of Constellations.<br>This group of paintings is the work of the surrealist master Joan Miró. He fled to Paris from his hometown because of the war and painted a series of constellations while he was there. These paintings are made up of intricate and beautiful colors, and their content is full of imaginative and free verse.
+|fame=68
+|art=109
+|fth=63
+|civ=66
+|tech=56
+|ss1=Snail HP +300<br>Per 5 Quantum Amp LVLs, Snail HP +120<br>Per 5 Quantum Amp LVLs, Snail DEF +12<br>Quantum Amp LVL: 50/50
+|ss2=Snail HP +400<br>Per 5 Quantum Amp LVLs, Snail HP +160<br>Per 5 Quantum Amp LVLs, Snail DEF +16<br>Quantum Amp LVL: 50/50
+|ss3=Snail HP +500<br>Per 5 Quantum Amp LVLs, Snail HP +200<br>Per 5 Quantum Amp LVLs, Snail DEF +20<br>Quantum Amp LVL: 50/50
+|ss4=Snail HP +700<br>Per 5 Quantum Amp LVLs, Snail HP +280<br>Per 5 Quantum Amp LVLs, Snail DEF +28<br>Quantum Amp LVL: 50/50
+|ss5=Snail HP +900<br>Per 5 Quantum Amp LVLs, Snail HP +360<br>Per 5 Quantum Amp LVLs, Snail DEF +36<br>Quantum Amp LVL: 50/50
+|ss6=Snail HP +1200<br>Per 5 Quantum Amp LVLs, Snail HP +480<br>Per 5 Quantum Amp LVLs, Snail DEF +48<br>Quantum Amp LVL: 50/50
+|ss7=Snail HP +1200<br>Per 5 Quantum Amp LVLs, Snail HP +480<br>Per 5 Quantum Amp LVLs, Snail DEF +48<br>Quantum Amp LVL: 50/50<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Quantumamp  skill III.png|50px]]Place in Quantum Amp: This Relic's ART +15
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Produce Nebula Chest Shards by +15%
+|skill3=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +30%
+|mirage={{Mirage|name=Constellation|reward={{RewardIconWithLink|Nebula Chest, +200|orange}}
+|3name=Poetess|3rec=68.90M|3atk=211102|3defense=140835|3hp=11646966|3weak=27678
+|4name=The Morning Star|4rec=88.38M|4atk=252182|4defense=168240|4hp=15870136|4weak=32427
+|5name=Woman and Bird|5rec=110.66M|5atk=299161|5defense=199582|5hp=21166183|5weak=36249
+|6name=Song of the Nightingale|6rec=135.89M|6atk=352371|6defense=235081|6hp=28141183|6weak=40236
+|Arec=164.07M|Aatk=411801|Adefense=274729|Ahp=36452676|Aweak=45820
+}}}}

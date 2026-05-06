@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Book of Enoch
+|class_id=22449
+|rank=Blue
+|affct=FAITH
+|birthday=11-20
+|source=Lottery Machine No.3 (0.06%)
+|description=On Nov 20, 1773 AD, an adventurer discovered a copy of the Book of Enoch in Ethiopia.<br>The Book of Enoch is an ancient apocryphal text that's considered pseudo-epigraph by most Christian churches. It details Enoch's experiences before the Great Flood, where angels defied their duties to mate with humans and pass on their knowledge, leading to the creation of giant offspring that caused destruction and the flood. While its content is controversial, the book helps us understand the religious beliefs between the two Testaments.
+|fame=23
+|art=33
+|fth=47
+|civ=22
+|tech=29
+|ss1=Refine +1 White Gaia Material +1%
+|ss2=Refine +1 White Gaia Material +2%
+|ss3=Refine +1 White Gaia Material +3%
+|ss4=Refine +1 White Gaia Material +5%
+|ss7=Refine +1 White Gaia Material +5%<br>Refine +1 White Gaia Material +5% (Awakened)
+|skill1=[[File:Goldfish skill I.png|50px]]Place in Goldfish Biozilla: In Species War, Troop All ELMT DMG +5
+}}

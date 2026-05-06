@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Tail of Fate
+|type=Bionic
+|rank=orange
+|id=10688
+|idx=46
+|description="When the Fatedrake sweeps its tail across the river of time, lost civilizations are stranded on its shores, their glory reduced to ruin — only the dragon stands at the end of days…"
+— Codex Draconis
+|skill=On combat start, summon a shadow dragon to attack the enemy, dealing DMG equal to 102% of ATK!
+|hp=2940
+|def=184
+|atk=156
+|rush=211
+|gene1=In Snail Arena, {race} ATK +140
+|gene2=Per Altar God Descent, {race} RUSH +7
+Gods Descended: 30/30
+|gene3=In Snail Arena, {race} DEF +140
+|gene4=Snail Arena, ELMT DMG REDUC +6%
+|gene5=Snail Arena, chance to paralyze enemy +3%
+|gene7=Snail Arena, chance to paralyze enemy +3% (Awakened)
+|}}

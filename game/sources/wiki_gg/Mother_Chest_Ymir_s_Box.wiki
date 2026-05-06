@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=720
+|relics=Mother Chest,Ymir's Box
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Epic Protodex Stars, Snail RUSH +21;Epic Protodex Stars: 100/100
+}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Prime Meridian
+|class_id=22597
+|rank=AAA
+|affct=TECH
+|birthday=02-08
+|source=Lottery Machine No.3 (0.06%)
+|description=On Feb 8, 1884 AD, the International Meridian Conference determined the location of the prime meridian.<br>Due to the nature of meridians, they do not have a natural origin like the equator of a latitude line. Therefore, in the early days, different countries used different prime meridians, which caused many inconveniences for navigation and land surveys. In order to coordinate time measurement and determine geographical longitude, the International Meridian Conference determined that the meridian of the Greenwich Observatory's transit instrument would be the zero-degree longitude line, which is the prime meridian.
+|fame=48
+|art=35
+|fth=51
+|civ=37
+|tech=72
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +6<br>Per 100 Recruit Tokens consumed, Snail ATK +3<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +8<br>Per 100 Recruit Tokens consumed, Snail ATK +4<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +10<br>Per 100 Recruit Tokens consumed, Snail ATK +5<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +14<br>Per 100 Recruit Tokens consumed, Snail ATK +7<br>Consumed Recruit Tokens: 5000/5000
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +18<br>Per 100 Recruit Tokens consumed, Snail ATK +9<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +18<br>Per 100 Recruit Tokens consumed, Snail ATK +9<br>Consumed Recruit Tokens: 5000/5000<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +14 (Awakened)
+|skill1=[[File:Surfclam skill II.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Water DMG +30
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's TECH +10
+}}

@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Divine Slug Abs
+|type=Common
+|rank=orange
+|id=10872
+|idx=79
+|description=Worshippers of the wish-granting Dragon Orbs became increasingly fanatic—some even sculpted their abs into the shape of Dragon Orbs, praying for divine blessings through sheer abdominal dedication.
+|skill=
+|hp=1872
+|def=184
+|atk=291
+|rush=183
+|gene1=For every 3 dragon descents, obtain 30 W-tadss
+|gene2=Minion Recovery SPD +6%
+|gene3=For every 3 dragon descents, obtain 30 W-tadss
+|gene4=Dragon Minion Cloning SPD +3%
+|gene5=For every 3 dragon descents, obtain 30 W-tadss
+|gene7=Minion Recovery SPD +6% (Awakened)
+|}}

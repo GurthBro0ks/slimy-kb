@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=829
+|relics=Alfred Statue,Catherine II Portrait
+|rank=orange
+|amount=2
+|category=self
+|description=Protomon Snail assist DMG + 560
+}}

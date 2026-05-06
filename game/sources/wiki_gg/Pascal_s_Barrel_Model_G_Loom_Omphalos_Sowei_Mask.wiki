@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=360
+|relics=Pascal's Barrel,Model G Loom,Omphalos,Sowei Mask
+|rank=blue
+|amount=4
+|category=self
+|description=Per 10 Dragon Minions in battle: Troop DEF +7
+}}

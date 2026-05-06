@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=448
+|relics=Euler's Scripts,Economy World Vol.1,La Peregrina,Penglai Jade Branch,Hoxne Hoard
+|rank=purple
+|amount=5
+|category=self
+|description=Dragon Minion MAX +9
+}}

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Forbidden Fruit,DOI,Notre Dame Bell
+|rank=orange
+|amount=3
+|category=self
+|description=Per Organ transplanted, snail DEF +16<br>Organs Transplanted: 40/40
+}}
+[[Category:Self]]

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=639
+|relics=Celtic Cross,12 Zodiac Runes,Teutonic Knight Emblem,Sierpinski Triangle
+|rank=blue
+|amount=4
+|category=self
+|description=Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +56;Swamp Sanctum Rating Pts: 100000/100000
+}}

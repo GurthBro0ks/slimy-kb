@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Nighthawk
+|class_id=22738
+|rank=SS
+|affct=TECH
+|birthday=05-27
+|source=Lottery Machine No.3 (0.36%)
+|description=On May 27, 1983 AD, the F-117 Nighthawk fighter began official service.<br>It is the world's first fighter designed with stealth as its design goal. It takes into account the stealth effects of radar, infrared, and optics. In order to achieve ultimate stealth, the F-117 Nighthawk sacrificed its aerodynamic layout and flight vision. Its shape and cockpit are designed in a pyramid shape, and there are no external mounting points or onboard radar. It only has internal bomb bays, which achieve a stealth effect of a radar reflection area of less than one square millimeter. However, in the Kosovo War at the end of the twentieth century, the Yugoslav army used old-fashioned radar to detect and shoot down an F-117 Nighthawk fighter.
+|fame=67
+|art=51
+|fth=66
+|civ=60
+|tech=103
+|ss1=Species War Cabin, deployable robots +2<br>Per Tribal Chief defeated, Snail HP +20<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +16<br>Tribal Chiefs Defeated: 50/50
+|ss2=Species War Cabin, deployable robots +3<br>Per Tribal Chief defeated, Snail HP +30<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +24<br>Tribal Chiefs Defeated: 50/50
+|ss3=Species War Cabin, deployable robots +4<br>Per Tribal Chief defeated, Snail HP +40<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +32<br>Tribal Chiefs Defeated: 50/50
+|ss4=Species War Cabin, deployable robots +6<br>Per Tribal Chief defeated, Snail HP +60<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +48<br>Tribal Chiefs Defeated: 50/50
+|ss5=Species War Cabin, deployable robots +8<br>Per Tribal Chief defeated, Snail HP +80<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +64<br>Tribal Chiefs Defeated: 50/50
+|ss6=Species War Cabin, deployable robots +11<br>Per Tribal Chief defeated, Snail HP +110<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +88<br>Tribal Chiefs Defeated: 50/50
+|ss7=Species War Cabin, deployable robots +11<br>Per Tribal Chief defeated, Snail HP +110<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +88<br>Tribal Chiefs Defeated: 50/50<br>Species War Cabin, deployable robots +10 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: Medal Output +30
+|skill2=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: This Relic's TECH +15
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Blue Reagent Drops +15%
+|mirage={{Mirage|name=Ghost on the Battlefield|reward={{RewardIconWithLink|Coating Bucket, +3|orange}}
+|3name=SR71|3rec=134.59M|3atk=372721|3defense=233260|3hp=21669575|3weak=37841
+|4name=B2|4rec=198.18M|4atk=524707|4defense=322724|4hp=38880085|4weak=43406
+|5name=F22|5rec=311.40M|5atk=740497|5defense=442715|5hp=80213204|5weak=52015
+|Arec=435.78M|Aatk=949386|Adefense=554618|Ahp=131468750|Aweak=57163
+}}}}

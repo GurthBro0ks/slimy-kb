@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The iconic symbol of the Day of the Dead typically features figures dressed in elaborate costumes, adorned with bright flowers or feathers, representing the unique way Mexicans celebrate death. This festival serves as an annual reunion between the living and the deceased, where people honor their departed loved ones through offerings and remembrance, but without sadness. Instead, they celebrate with singing and dancing, often into the late hours of the night.
+|affct=FTH
+|hard=HP
+|source=Memetic Catalyst File 6424 - $15 pack from [[Pumpkin Lucky Night]] Oct. 25th - Oct. 31st 2024
+|color=purple
+|earth=7
+|water=6
+|fire=7
+|wind=6
+|form=Dragon
+|element=Earth
+|realm=Rift
+|orangehard=ATK
+}}

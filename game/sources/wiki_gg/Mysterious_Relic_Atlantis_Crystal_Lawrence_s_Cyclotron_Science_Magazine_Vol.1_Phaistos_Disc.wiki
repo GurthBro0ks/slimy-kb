@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Mysterious Relic,Atlantis Crystal,Lawrence's Cyclotron,Science Magazine Vol.1,Phaistos Disc
+|rank=orange
+|amount=5
+|category=home
+|description=In the Rebel Rocket Cabin: All device base effects +10%
+}}
+[[Category:Home]]
+[[Category:Rebel Rocket Cabin Boost]]

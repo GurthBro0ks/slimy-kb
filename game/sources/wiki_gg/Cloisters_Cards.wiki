@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Cloisters Cards
+|class_id=22002
+|rank=Blue
+|affct=FAME
+|birthday=02-26
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Feb 26, 1978 AD, the Cloisters Cards became one of the Metropolitan Museum of Art's collections.<br>The Cloisters Cards are the oldest full deck of playing cards in the world. Dating back to the fourteenth century, these cards feature unique symbols such as a horn, dog collar, dog leash, and noose, unlike the diamond or heart symbols commonly seen today. Interestingly, the deck was undervalued in its earliest auction, selling for a mere $3,000 to an antique dealer. However, five years later, the dealer sold the deck to the Metropolitan Museum of Art in New York for a net profit of $140,000.
+|fame=46
+|art=27
+|fth=22
+|civ=26
+|tech=33
+|ss1=Free Gene Speedup (Zombie) +6m
+|ss2=Free Gene Speedup (Zombie) +12m
+|ss3=Free Gene Speedup (Zombie) +18m
+|ss4=Free Gene Speedup (Zombie) +30m
+|ss7=Free Gene Speedup (Zombie) +30m<br>Free Gene Speedup (Zombie) +30m (Awakened)
+|skill1=[[File:Arena skill I.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail RUSH +10 each round
+}}

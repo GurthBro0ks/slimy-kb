@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=437
+|relics=Gold Croeseid,Galton Board,Erdapfel,Kekule Structure
+|rank=purple
+|amount=4
+|category=self
+|description=Dragon Minion HP +8%
+}}

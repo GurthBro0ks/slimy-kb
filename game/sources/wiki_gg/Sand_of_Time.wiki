@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Sand of Time
+|class_id=20136
+|rank=Green
+|affct=ART
+|source=
+|description=This is a bottle of magic sand. Legend has it that it's mined from the time stream and can affect the flow of time in the real world. Skilled mages can use its power to manipulate the surrounding time and even extend their own life span!
+|fame=16
+|art=29
+|fth=14
+|civ=13
+|tech=16
+|ss1=The Time Machine: +2% chance to drop<br>Time Chests
+|ss2=The Time Machine: +4% chance to drop<br>Time Chests
+|ss3=The Time Machine: +6% chance to drop<br>Time Chests
+|ss4=The Time Machine: +6% chance to drop<br>Time Chests
+|ss7=The Time Machine: +6% chance to drop<br>Time Chests<br> (Awakened)
+}}

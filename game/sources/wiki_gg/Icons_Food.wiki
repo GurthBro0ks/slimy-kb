@@ -1,0 +1,114 @@
+= Wiki Places =
+Places on the wiki that have food info
+* [[Home_Base#The_Gene_Room]]
+* [[Consumables#Food]]
+
+= [[Bharata]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Assam Milk Tea}}||+20 Food
+{{IconExampleRowWithText|Rice and Curry}}||+30 Food
+{{IconExampleRowWithText|Tandoori Chicken}}||+15 Food
+|}
+
+= [[Britland]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Crabby Burger}}||+50k Food
+{{IconExampleRowWithText|Darjeeling Tea}}||+20 Food
+{{IconExampleRowWithText|Fish and Chips}}||+20 Food
+{{IconExampleRowWithText|Stargazy Pie}}||+20 Food
+|}
+
+= [[Cathay]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Bean}}||+15 Food
+{{IconExampleRowWithText|Du Kang Wine}}||+15 Food
+{{IconExampleRowWithText|Pear}}||+20 Food
+{{IconExampleRowWithText|Sichuan Beef}}||+50 Food
+{{IconExampleRowWithText|Yangzhou Fried Rice}}||+50 Food
+|}
+
+= [[Clown Express]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Big Plate Chicken Burger}}||+20 Food
+{{IconExampleRowWithText|Buddha's Temptation Burger}}||+20 Food
+{{IconExampleRowWithText|Lamb Paomo Burger}}||+20 Food
+{{IconExampleRowWithText|Spicy Ducks Blood Burger}}||+20 Food
+{{IconExampleRowWithText|Spicy Lung Pieces Burger}}||+20 Food
+{{IconExampleRowWithText|Stinky Tofu Burger}}||+? Food
+|}
+
+= [[Hellas]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Moussaka}}||+25 Food
+{{IconExampleRowWithText|Olive}}||+20 Food
+{{IconExampleRowWithText|Souvlaki}}||+15 Food
+|}
+
+= [[Home Base]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Crow Sashimi}}||+1000 Food
+{{IconExampleRowWithText|Elephant's Meat}}||+1200/+2000 Food
+{{IconExampleRowWithText|Escargot}}||+1000 Food
+{{IconExampleRowWithText|Fungus}}||+50 Food
+{{IconExampleRowWithText|Giraffe's Meat}}||+1200 Food
+{{IconExampleRowWithText|Pie from Heaven}}||+1000 Food
+{{IconExampleRowWithText|Red Fruit}}||+1000 Food
+{{IconExampleRowWithText|Shrimp Cracker}}||+50 Food
+{{IconExampleRowWithText|Snail Ramen}}||+60 Food
+{{IconExampleRowWithText|Soybean Paste Stew}}||+50 Food
+|}
+
+= [[Kemet]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Freaked Fish}}||+10 Food
+{{IconExampleRowWithText|Kushari}}||+15 Food
+{{IconExampleRowWithText|Roast Pigeon}}||+20 Food
+|}
+
+= [[Koryeo]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Fish Cake}}||+30 Food
+{{IconExampleRowWithText|Koryeon BBQ}}||+40 Food
+{{IconExampleRowWithText|Spicy Cabbage}}||+20 Food
+|}
+
+= [[Murika]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Hamburger}}||+20 Food
+{{IconExampleRowWithText|Peanut}}||+40 Food
+{{IconExampleRowWithText|Sweet Potato}}||+30 Food
+|}
+
+= [[Parsia]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Charcoal-Roasted Camel}}||+15 Food
+{{IconExampleRowWithText|Date Fruit}}||+10 Food
+{{IconExampleRowWithText|Hamster Pistachios}}||+15 Food
+{{IconExampleRowWithText|Parsian Tea}}||+5 Food
+{{IconExampleRowWithText|Pomegranate Braised Fowl}}||+10 Food
+{{IconExampleRowWithText|Saffron Ice Cream}}||+5 Food
+|}
+
+= [[Time Rift]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Nutrient Paste}}||+40 Food
+|}
+
+= [[Yamato]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Dorayaki}}||+25 Food
+{{IconExampleRowWithText|Oden}}||+45 Food
+{{IconExampleRowWithText|Sushi}}||+40 Food
+{{IconExampleRowWithText|Uchi Matcha}}||+35 Food
+|}
+
+= (Unknown) =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Chinese Burger}}||+50 Food
+{{IconExampleRowWithText|Donkey Burger}}||+50 Food
+{{IconExampleRowWithText|Energy Pill}}||+60 Food
+{{IconExampleRowWithText|Takoyaki}}||+50 Food
+|}
+
+
+[[Category:Icons]]

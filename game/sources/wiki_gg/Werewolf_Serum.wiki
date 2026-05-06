@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Werewolf Serum
+|class_id=20834
+|rank=Green
+|affct=TECH
+|source=
+|description=Extracted serum from a werewolf-infected patient, laden with potent lycanthropy toxin, it is said that a single drop can infect dozens of healthy adults!
+|fame=15
+|art=14
+|fth=17
+|civ=13
+|tech=31
+|ss1=Snail HP +100<br>Per 5k DNA Strength, Snail ATK +5<br>DNA Strength: 50000/50000
+|ss2=Snail HP +200<br>Per 5k DNA Strength, Snail ATK +10<br>DNA Strength: 50000/50000
+|ss3=Snail HP +300<br>Per 5k DNA Strength, Snail ATK +15<br>DNA Strength: 50000/50000
+|ss4=Snail HP +300<br>Per 5k DNA Strength, Snail ATK +15<br>DNA Strength: 50000/50000
+|ss7=Snail HP +300<br>Per 5k DNA Strength, Snail ATK +15<br>DNA Strength: 50000/50000<br> (Awakened)
+}}

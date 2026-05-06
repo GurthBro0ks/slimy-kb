@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=377
+|relics=Gold Croeseid,Economy World Vol.1
+|rank=purple
+|amount=2
+|category=self
+|description=Rebel Cabin Output +6%
+}}

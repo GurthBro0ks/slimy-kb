@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Summer Album
+|class_id=20172
+|rank=Green
+|affct=ART
+|source=
+|description=This captivating photo album, made by an unknown photographer, captures the beauty of several bikini-clad women during their vacation on an island. It features the most remarkable moments, carefully selected and compiled in this limited edition.
+|fame=15
+|art=31
+|fth=14
+|civ=13
+|tech=17
+|ss1=Per sign-in, Snail HP +10<br>Sign-Ins: 20/20
+|ss2=Per sign-in, Snail HP +20<br>Sign-Ins: 20/20
+|ss3=Per sign-in, Snail HP +30<br>Sign-Ins: 20/20
+|ss4=Per sign-in, Snail HP +30<br>Sign-Ins: 20/20
+|ss7=Per sign-in, Snail HP +30<br>Sign-Ins: 20/20<br> (Awakened)
+}}

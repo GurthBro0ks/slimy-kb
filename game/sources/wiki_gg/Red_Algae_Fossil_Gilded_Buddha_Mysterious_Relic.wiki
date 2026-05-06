@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Red Algae Fossil,Gilded Buddha,Mysterious Relic
+|rank=orange
+|amount=3
+|category=home
+|description=Sunny Plant Food gives 1 Green Pistil by +1.6%
+}}
+[[Category:Home]]
+[[Category:Maneater Plant Boost]]

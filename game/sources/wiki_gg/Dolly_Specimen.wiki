@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Dolly Specimen
+|rank=A
+|affct=TECH
+|birthday=05-17
+|source=Fragment Crafting (31.5%), Lottery Machine (0.66%), Wishing (2.9%), Expert Scrolls (7.6%)
+|description=On May 17, 1996, the cloning sheep Dolly was released to the public. 
+
+Dolly's genetic mother is a Finn Dorset sheep and both her mitochondrial and surrogate mother are Scottish Blackface. Their recombined genes made it possible for Dolly to be born. Dolly lived for only 7 years but it has provided lots of data for scientific research, including a new direction for saving endangered animals and protecting the ecosystem.
+
+[Other clones]
+
+Macaque: 2000, Tetra, female<br>Cow: 2001, Alpha and Beta, males<br>Rabbit: 2003, achieved in France<br>Mule: 2003, Idaho Gem<br>Pig: 2005, first donor cell cloned pig in China
+|fame=43
+|art=28
+|fth=39
+|civ=42
+|tech=61
+|ss1=Per 5 Minions cloned, Snail HP +20<br>Per 5 Minions cloned, Snail ATK +2<br>Minions Cloned: 100/100
+|ss2=Per 5 Minions cloned, Snail HP +40<br>Per 5 Minions cloned, Snail ATK +4<br>Minions Cloned: 100/100
+|ss3=Per 5 Minions cloned, Snail HP +60<br>Per 5 Minions cloned, Snail ATK +6<br>Minions Cloned: 100/100
+|ss4=Per 5 Minions cloned, Snail HP +100<br>Per 5 Minions cloned, Snail ATK +10<br>Minions Cloned: 100/100
+|ss5=Per 5 Minions cloned, Snail HP +140<br>Per 5 Minions cloned, Snail ATK +14<br>Minions Cloned: 100/100
+|ss7=Per 5 Minions cloned, Snail HP +140<br>Per 5 Minions cloned, Snail ATK +14<br>Minions Cloned: 100/100<br>Snail HP +700 (Awakened)
+|skill1=[[File:Britland skill II.png|50px]] Place in Britland Museum: This Relic's TECH +10
+|skill2=[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: This Relic's TECH +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:TECH Relics]]
+[[Category:Purple TECH Relics]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:Fungus Farm Boost]]
+[[Category:Mecha Cell Drop Boost]]
+[[Category:Enhanced by Minions Cloned]]

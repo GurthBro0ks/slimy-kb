@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Saturn V Model
+|class_id=22739
+|rank=SS
+|affct=TECH
+|birthday=11-09
+|source=Lottery Machine No.3 (0.24%)
+|description=On Nov 9, 1967 AD, the Saturn V successfully conducted a test flight at the Kennedy Space Center.<br>The Saturn V is a super heavy-lift rocket and the largest rocket ever built by humans. It was the rocket that launched the Apollo 13 spacecraft to the moon. In the 1980s, NASA launched 13 Saturn V rockets, all of which were successful, making it a perfect launch record. However, due to its enormous size and high resource consumption, the Saturn V has since been retired.
+|fame=61
+|art=52
+|fth=70
+|civ=59
+|tech=105
+|ss1=Snail ATK +20<br>Per 10 Protolith Chests opened, Snail RUSH +2<br>Per 10 Protolith Chests opened, Priest-Troop Assistance DMG +16<br>Opened Protolith Chests: 500/500
+|ss2=Snail ATK +30<br>Per 10 Protolith Chests opened, Snail RUSH +3<br>Per 10 Protolith Chests opened, Priest-Troop Assistance DMG +24<br>Opened Protolith Chests: 500/500
+|ss3=Snail ATK +40<br>Per 10 Protolith Chests opened, Snail RUSH +4<br>Per 10 Protolith Chests opened, Priest-Troop Assistance DMG +32<br>Opened Protolith Chests: 500/500
+|ss4=Snail ATK +60<br>Per 10 Protolith Chests opened, Snail RUSH +6<br>Per 10 Protolith Chests opened, Priest-Troop Assistance DMG +48<br>Opened Protolith Chests: 500/500
+|ss5=Snail ATK +80<br>Per 10 Protolith Chests opened, Snail RUSH +8<br>Per 10 Protolith Chests opened, Priest-Troop Assistance DMG +64<br>Opened Protolith Chests: 500/500
+|ss6=Snail ATK +110<br>Per 10 Protolith Chests opened, Snail RUSH +11<br>Per 10 Protolith Chests opened, Priest-Troop Assistance DMG +88<br>Opened Protolith Chests: 500/500
+|ss7=Snail ATK +110<br>Per 10 Protolith Chests opened, Snail RUSH +11<br>Per 10 Protolith Chests opened, Priest-Troop Assistance DMG +88<br>Opened Protolith Chests: 500/500<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: This Relic's TECH +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=The Saturn Family|reward={{RewardIconWithLink|Drone, +10|orange}}
+|3name=Saturn I|3rec=198.83M|3atk=526163|3defense=323629|3hp=39077269|3weak=43510
+|4name=Saturn II|4rec=345.99M|4atk=798251|4defense=473834|4hp=90123065|4weak=53206
+|5name=Saturn III|5rec=533.49M|5atk=1123358|5defense=642519|5hp=203356628|5weak=61932
+|Arec=746.44M|Aatk=1506990|Adefense=850066|Ahp=400683007|Aweak=74121
+}}}}

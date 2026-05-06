@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Death of Marat
+|rank=AA
+|affct=ART
+|birthday=10-31
+|source=* Expert Scrolls (0.95%), Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.36%)
+* [[Indigent Nobleman]] (210k {{RewardIconWithText|B-Tad}})
+|description=On Oct 31, 1793, David made this portrait to remember Marat, the leader of the Jacobins. The picture's backstory is about Charlotte Corday, who was against tyranny, sneaked into Marat's bathroom and assassinated the unsuspecting politician. Marat was the leader of Jacobin during the French Revolution. He was hated by many due to his cruel and brutal treatment of his political enemies. As he had a serious skin disease, he needed to soak in medicine for a long time, which gave others the chance to assassinate him.
+
+[Basic Info]
+
+Painting Type: Oil Painting<br>Size: Height: 165 cm<br>Width: 128 cm<br>Collected by: Royal Museums of Fine Arts of Belgium<br>Material: Canvas
+|fame=43
+|art=69
+|fth=45
+|civ=41
+|tech=30
+|ss1=Zombie Gene Research SPD +1.2%<br>Zombie Gene Research Cells consumed -1.2%
+|ss2=Zombie Gene Research SPD +1.8%<br>Zombie Gene Research Cells consumed -1.8%
+|ss3=Zombie Gene Research SPD +2.4%<br>Zombie Gene Research Cells consumed -2.4%
+|ss4=Zombie Gene Research SPD +3.6%<br>Zombie Gene Research Cells consumed -3.6%
+|ss5=Zombie Gene Research SPD +4.8%<br>Zombie Gene Research Cells consumed -4.8%
+|ss7=Zombie Gene Research SPD +4.8%<br>Zombie Gene Research Cells consumed -4.8%<br>Zombie Gene Research SPD +4.2% (Awakened)
+|skill1=[[File:Koryeo skill II.png|50px]] Place in Koryeon Museum: In Koryeo, 2x Blue Reagent Drops +7.5%
+|skill2=[[File:Koryeo skill II.png|50px]] Place in Koryeon Museum: In Koryeo, Zombie Cells gained +15%
+}}
+
+[[Category:Zombie Gene Speedup Boost]]
+[[Category:Zombie Gene Cost Reduction]]
+[[Category:Koryeo Museum Boost]]
+[[Category:Koryeo Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Zombie Cell Drop Boost]]
+[[Category:Demon Gene Speedup Boost]]
+[[Category:Quarry Output Boost]]
+[[Category:Indigent Nobleman Relics]]

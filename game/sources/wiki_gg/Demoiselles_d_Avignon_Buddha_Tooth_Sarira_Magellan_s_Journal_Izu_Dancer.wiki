@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Demoiselles d'Avignon,Buddha Tooth Sarira,Magellan's Journal,Izu Dancer
+|rank=blue
+|amount=4
+|category=other
+|description=In any Realm, B-tads gained +2.8%
+}}
+[[Category:Other]]

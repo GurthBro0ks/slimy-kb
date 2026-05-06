@@ -1,0 +1,42 @@
+{{CargoRelic
+|name=The Starry Night
+|rank=AA
+|affct=ART
+|birthday=06-07
+|source=Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.36%), Expert Scrolls (0.95%), Nebula Chest (1.5%)<br>[[Altar#Gods_of_the_Pantheon|God of Art]] Descent
+|description=On Jun 7, 1889, Van Gogh created this famous painting in the mental hospital in Saint-Remy-de-Provence.
+
+The Starry Night was completed in Saint-Remy when Van Gogh had another mental breakdown. He used exaggerated elements to vividly portray the stars moving in the dark sky, which formed a huge spiral from the yellow moon. It evokes emotions for the passage of time. Like the burning flames, the dark cypress trees seem to be dancing and celebrating with the stars, creating a sense of chaos in time and space.
+
+[Basic Info]
+
+Type: Oil Painting.<br>Size: 73X92 cm.<br>Collected by: The Museum of Modern Art.
+|fame=34
+|art=67
+|fth=45
+|civ=46
+|tech=36
+|ss1=Per 3 ART Relics gained, Snail ATK +8<br>Per 3 ART Relics gained, Snail DEF +8<br>ART Relics: 60/60
+|ss2=Per 3 ART Relics gained, Snail ATK +12<br>Per 3 ART Relics gained, Snail DEF +12<br>ART Relics: 60/60
+|ss3=Per 3 ART Relics gained, Snail ATK +16<br>Per 3 ART Relics gained, Snail DEF +16<br>ART Relics: 60/60
+|ss4=Per 3 ART Relics gained, Snail ATK +24<br>Per 3 ART Relics gained, Snail DEF +24<br>ART Relics: 60/60
+|ss5=Per 3 ART Relics gained, Snail ATK +32<br>Per 3 ART Relics gained, Snail DEF +32<br>ART Relics: 60/60
+|ss7=Per 3 ART Relics gained, Snail ATK +32<br>Per 3 ART Relics gained, Snail DEF +32<br>ART Relics: 60/60<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Compass skill II.png|50px]] Place in Exploration Compass: When exploring, 2x Green Reagents Drops +7.5%
+|skill2=[[File:Compass skill II.png|50px]] Place in Exploration Compass: When exploring, 2x Blue Reagents Drops +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:ART Relics]]
+[[Category:Purple ART Relics]]
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by ART Relics]]
+[[Category:Relic Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Tadpole Pond W-Tad Output Boost]]
+[[Category:Lottery Bead Color Change]]
+[[Category:Altar Descent Relics]]
+[[Category:Berserker Boost]]

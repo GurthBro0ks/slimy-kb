@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Agent Permit B-I
+|class_id=20204
+|rank=Green
+|affct=TECH
+|source=
+|description=The holder of the card is a mid-level agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)
+|fame=16
+|art=20
+|fth=14
+|civ=10
+|tech=30
+|ss1=Per Junior Agent defeated, Snail ATK +2<br>Junior Agents Defeated: 20/20
+|ss2=Per Junior Agent defeated, Snail ATK +4<br>Junior Agents Defeated: 20/20
+|ss3=Per Junior Agent defeated, Snail ATK +6<br>Junior Agents Defeated: 20/20
+|ss4=Per Junior Agent defeated, Snail ATK +6<br>Junior Agents Defeated: 20/20
+|ss7=Per Junior Agent defeated, Snail ATK +6<br>Junior Agents Defeated: 20/20<br> (Awakened)
+}}

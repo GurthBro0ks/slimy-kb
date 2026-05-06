@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Turing Award
+|class_id=22627
+|rank=SSS
+|affct=FAME
+|birthday=08-18
+|source=
+|description=On Aug 18, 1966 AD, the first Turing Award winner was officially announced.<br>To commemorate the father of computer science, Turing, the Association for Computing Machinery established this award. The Turing Award has extremely high requirements for winners and a very strict evaluation process. Usually, only one scientist who has made significant contributions to the field of computing is awarded each year. Therefore, it has also earned the nickname "the Nobel Prize of computing."
+|fame=106
+|art=71
+|fth=52
+|civ=65
+|tech=68
+|ss1=Protomon Troop assist DMG + 240<br>Per 10 TECH Pistils Used, Snail ATK +6<br>Per 10 TECH Pistils Used, Snail RUSH +6<br>TECH Pistils Used: 400/400
+|ss2=Protomon Troop assist DMG + 320<br>Per 10 TECH Pistils Used, Snail ATK +7<br>Per 10 TECH Pistils Used, Snail RUSH +7<br>TECH Pistils Used: 400/400
+|ss3=Protomon Troop assist DMG + 400<br>Per 10 TECH Pistils Used, Snail ATK +8<br>Per 10 TECH Pistils Used, Snail RUSH +8<br>TECH Pistils Used: 400/400
+|ss4=Protomon Troop assist DMG + 560<br>Per 10 TECH Pistils Used, Snail ATK +10<br>Per 10 TECH Pistils Used, Snail RUSH +10<br>TECH Pistils Used: 400/400
+|ss5=Protomon Troop assist DMG + 720<br>Per 10 TECH Pistils Used, Snail ATK +12<br>Per 10 TECH Pistils Used, Snail RUSH +12<br>TECH Pistils Used: 400/400
+|ss6=Protomon Troop assist DMG + 960<br>Per 10 TECH Pistils Used, Snail ATK +15<br>Per 10 TECH Pistils Used, Snail RUSH +15<br>TECH Pistils Used: 400/400
+|ss7=Protomon Troop assist DMG + 960<br>Per 10 TECH Pistils Used, Snail ATK +15<br>Per 10 TECH Pistils Used, Snail RUSH +15<br>TECH Pistils Used: 400/400<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: This Relic's FAME +15
+|skill2=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Wood Output +30%
+|skill3=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Find Ancient Wood by +30%
+|mirage={{Mirage|name=CS Masters|reward={{RewardIconWithLink|Turing Robot Capsule, +1|orange}}
+|3name=Dijkstra|3rec=110.61M|3atk=338151|3defense=199520|3hp=31592870|3weak=42086
+|4name=Edgar|4rec=126.42M|4atk=372279|4defense=221754|4hp=41728807|4weak=45736
+|5name=Neumann|5rec=147.22M|5atk=418733|5defense=251025|5hp=58535546|5weak=49846
+|6name=Turing|6rec=175.90M|6atk=481315|6defense=291370|6hp=88561623|6weak=54441
+|Arec=216.16M|Aatk=566476|Adefense=348011|Ahp=135235498|Aweak=59589
+}}}}

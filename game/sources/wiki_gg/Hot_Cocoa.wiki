@@ -1,0 +1,15 @@
+{{RewardIconWithText|Hot Cocoa|orange}} is an item that is given during some [[Weekly_Events_History#Other|Events]]. 
+
+{{Retext|Get Magic Potions and random resources (High chance: W-tads; Low chance: Demon God Cell, Lottery Ticket, Wish Coin)|blue}}
+
+The drop rates are:
+* 80% {{RewardIconWithText|W-Tad, +10|orange}}
+* 7% {{RewardIconWithLink|Lottery Ticket, +1|orange}}
+* 3% {{RewardIconWithLink|Wish Coin, +1|orange}}
+* 2% {{RewardIconWithText|Angel Cell, +300}}
+* 2% {{RewardIconWithText|Demon Cell, +300}}
+* 2% {{RewardIconWithText|Mutant Cell, +300}}
+* 2% {{RewardIconWithText|Mecha Cell, +300}}
+* 2% {{RewardIconWithText|Zombie Cell, +300}}
+
+[[Category:Reward Pack]]

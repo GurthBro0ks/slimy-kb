@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Effective Manager
+|class_id=20092
+|rank=Green
+|affct=CIV
+|source=
+|description=This book is written by the world-renowned management master Peter Dracker. In the book, he not only redefined the concept of a manager, but also put forward a large number of classic and practical management ideas. The publication of this book announced the birth of the discipline of management and profoundly impacted later generations.
+|fame=14
+|art=13
+|fth=17
+|civ=30
+|tech=16
+|ss1=Snail Leadership +1
+|ss2=Snail Leadership +2
+|ss3=Snail Leadership +3
+|ss4=Snail Leadership +3
+|ss7=Snail Leadership +3<br> (Awakened)
+}}

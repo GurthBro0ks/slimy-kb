@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=A Snail Shell that mimics the power of vampires. It can charm those who stare at it. Some cunning vampires have learned to keep up with the times, dressing in cute sailor uniforms to enthrall victims!
+|affct=ART
+|hard=ATK
+|source=Memetic Catalyst File 1264 - 300 pulls from [[Pumpkin Lucky Night]] Oct. 25th - Oct. 31st 2024
+|color=orange
+|earth=10
+|water=11
+|fire=10
+|wind=11
+|form=Dragon
+|element=Fire
+|realm=Rift
+|orangehard=DEF
+}}

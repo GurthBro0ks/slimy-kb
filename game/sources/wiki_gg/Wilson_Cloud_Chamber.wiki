@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Wilson Cloud Chamber
+|class_id=22207
+|rank=AAA
+|affct=TECH
+|birthday=07-25
+|source=
+|description=On Jul 25, 1895 AD, Wilson designed the first Cloud Chamber device.<br>The Wilson cloud chamber is named after its inventor, British physicist Wilson. It is said that the cloud chamber was originally invented because he wanted to reproduce the strange scene of the sun shining on the clouds in the laboratory. To this end, he designed a set of instruments that condensed water vapor to form clouds. In experiments, he found that when X-rays were used to illuminate the cloud chamber, cloud fog appeared immediately. Based on this phenomenon, he discovered the condensation of ions on water vapor molecules. He added a camera to the cloud chamber to capture the trajectory of charged particles, making it an important instrument for the study of X-rays which won him the Nobel Prize in physics.
+|fame=42
+|art=30
+|fth=52
+|civ=47
+|tech=72
+|ss1=Per 30 Mecha Minions in battle:<br>> Troop HP +120<br>Per 30 Mecha Minions in battle:<br>> Troop ATK +12
+|ss2=Per 30 Mecha Minions in battle:<br>> Troop HP +160<br>Per 30 Mecha Minions in battle:<br>> Troop ATK +16
+|ss3=Per 30 Mecha Minions in battle:<br>> Troop HP +200<br>Per 30 Mecha Minions in battle:<br>> Troop ATK +20
+|ss4=Per 30 Mecha Minions in battle:<br>> Troop HP +280<br>Per 30 Mecha Minions in battle:<br>> Troop ATK +28
+|ss5=Per 30 Mecha Minions in battle:<br>> Troop HP +360<br>Per 30 Mecha Minions in battle:<br>> Troop ATK +36
+|ss7=Per 30 Mecha Minions in battle:<br>> Troop HP +360<br>Per 30 Mecha Minions in battle:<br>> Troop ATK +36<br>Per 30 Mecha Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Britland skill II.png|50px]]Place in Britland Museum: This Relic's TECH +10
+|skill2=[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, 2x Blue Reagent Drops +7.5%
+}}

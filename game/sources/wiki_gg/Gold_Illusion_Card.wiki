@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Gold Illusion Card
+|class_id=20549
+|rank=Green
+|affct=CIV
+|source=
+|description=Made of pure gold, the magical card is of great value, even if you don't recognize the exquisite patterns on it, just feel its weight.
+|fame=13
+|art=16
+|fth=15
+|civ=31
+|tech=15
+|ss1=Per Kaleido Valley participation, Snail ATK +3<br>Participated: 40/40
+|ss2=Per Kaleido Valley participation, Snail ATK +6<br>Participated: 40/40
+|ss3=Per Kaleido Valley participation, Snail ATK +9<br>Participated: 40/40
+|ss4=Per Kaleido Valley participation, Snail ATK +9<br>Participated: 40/40
+|ss7=Per Kaleido Valley participation, Snail ATK +9<br>Participated: 40/40<br> (Awakened)
+}}

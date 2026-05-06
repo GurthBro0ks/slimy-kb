@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Bastet Bronze Statue
+|class_id=22057
+|rank=Blue
+|affct=FTH
+|birthday=12-25
+|source=* Lottery Machine No. 2 (0.03%)
+* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})
+|description=On Dec 25, 600 BC, the ancient Egyptians cast this bronze statue to pray to the goddess Bastet.<br>This bronze statue was cast out of people's worship of the goddess Bastet. Bastet is the cat god in ancient Egypt mythology, with the image of a cat-headed person, symbolizing the charm of the moon and women; The guardian in the form of a cat was believed to bring happiness and joy to the family. During the Seventeenth Dynasty, people's admiration for her peaked, and many objects and small statues produced at that time were made into her two forms.
+|fame=28
+|art=31
+|fth=44
+|civ=22
+|tech=29
+|ss1=In the Rebel Rocket Cabin:<br>> Biochemical MOD Module Base Effect +8%
+|ss2=In the Rebel Rocket Cabin:<br>> Biochemical MOD Module Base Effect +16%
+|ss3=In the Rebel Rocket Cabin:<br>> Biochemical MOD Module Base Effect +24%
+|ss4=In the Rebel Rocket Cabin:<br>> Biochemical MOD Module Base Effect +40%
+|ss7=In the Rebel Rocket Cabin:<br>> Biochemical MOD Module Base Effect +40%<br>In the Rebel Rocket Cabin:<br>> Biochemical MOD Module Base Effect +40% (Awakened)
+|skill1=[[File:Goldfish skill I.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion ATK +1.5%
+}}
+
+[[Category:Biochemical MOD Module Boost]]
+[[Category:Goldfish Biozilla Skill]]
+[[Category:Minion ATK Boost]]
+[[Category:Incense Boost]]
+[[Category:ATK Boost]]
+[[Category:Dragon Minion ATK Boost]]
+[[Category:Indigent Nobleman Relics]]

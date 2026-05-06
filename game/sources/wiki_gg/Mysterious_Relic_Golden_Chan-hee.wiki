@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Mysterious Relic,Golden Chan-hee
+|rank=orange
+|amount=2
+|category=self
+|description=Snail HARD Stats +2%
+}}
+[[Category:Self]]
+[[Category:HARD Stat Boosts]]

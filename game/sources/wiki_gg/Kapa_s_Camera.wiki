@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Kapa's Camera
+|rank=AAA
+|affct=CIV
+|birthday=12-05
+|source=Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On Dec 5, 1953, Photographer Kapa carried this camera and did interviews in Vietnam.
+
+Kapa took many photos with this camera, some of which made history in the journalism field. In the following year, he died after accidentally stepping on a landmine. Kapa reported 5 major wars of the 20th century with photos taken by this camera. His photos remain masterpieces in the journalism field today.
+
+[Kapa's Camera]
+
+Famous photos: The Normandy Landing and The Falling Soldier
+|fame=55
+|art=37
+|fth=46
+|civ=72
+|tech=33
+|ss1=Time Machine Max Cap +6%<br>Time Machine Travel Speedup Output +6%
+|ss2=Time Machine Max Cap +8%<br>Time Machine Travel Speedup Output +8%
+|ss3=Time Machine Max Cap +10%<br>Time Machine Travel Speedup Output +10%
+|ss4=Time Machine Max Cap +14%<br>Time Machine Travel Speedup Output +14%
+|ss5=Time Machine Max Cap +18%<br>Time Machine Travel Speedup Output +18%
+|ss7=Time Machine Max Cap +18%<br>Time Machine Travel Speedup Output +18%<br>Time Machine Travel Speedup Output +14% (Awakened)
+|skill1=[[File:Compass skill II.png|50px]] Place in Exploration Compass: Snail HP +300
+|skill2=[[File:Compass skill II.png|50px]] Place in Exploration Compass: Snail RUSH +30
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:CIV Relics]]
+[[Category:Purple CIV Relics]]
+[[Category:Exploration Compass Boost]]
+[[Category:Time Machine Boost]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by Relic Points]]
+[[Category:Enhanced by Lottery Draws]]

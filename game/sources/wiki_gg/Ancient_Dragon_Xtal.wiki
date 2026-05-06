@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Ancient Dragon Xtal
+|available=1
+|rank=SSS
+|affct=FTH
+|source=[[Altar#Divine_Dragon|Ultimate Divine Dragon Reward]]
+|description=On Sept 7, 17056 BC, the Ancient Dragon Xtal was created along with the birth of the Divine Dragon.<br>This crystal is a companion treasure to the Divine Dragons. Having been with the Divine Dragons all the time, it has witnessed their glories in ancient times. Those who pass the trial of the Divine Dragons and obtain the dragon crystal will be blessed by the Divine Dragons and share their weal and woe!
+|fame=57
+|art=75
+|fth=110
+|civ=65
+|tech=55
+|ss1=Dragon Gene Research SPD +1.8%<br>Per 10 Dragon Orbs used, Snail ATK +6<br>Per 10 Dragon Orbs used, Snail RUSH +6<br>Dragon Orbs Used: 500/500
+|ss2=Dragon Gene Research SPD +2.4%<br>Per 10 Dragon Orbs used, Snail ATK +8<br>Per 10 Dragon Orbs used, Snail RUSH +8<br>Dragon Orbs Used: 500/500
+|ss3=Dragon Gene Research SPD +3%<br>Per 10 Dragon Orbs used, Snail ATK +10<br>Per 10 Dragon Orbs used, Snail RUSH +10<br>Dragon Orbs Used: 500/500
+|ss4=Dragon Gene Research SPD +4.2%<br>Per 10 Dragon Orbs used, Snail ATK +14<br>Per 10 Dragon Orbs used, Snail RUSH +14<br>Dragon Orbs Used: 500/500
+|ss5=Dragon Gene Research SPD +5.4%<br>Per 10 Dragon Orbs used, Snail ATK +18<br>Per 10 Dragon Orbs used, Snail RUSH +18<br>Dragon Orbs Used: 500/500
+|ss6=Dragon Gene Research SPD +7.2%<br>Per 10 Dragon Orbs used, Snail ATK +24<br>Per 10 Dragon Orbs used, Snail RUSH +24<br>Dragon Orbs Used: 500/500
+|ss7=Dragon Gene Research SPD +7.2%<br>Per 10 Dragon Orbs used, Snail ATK +24<br>Per 10 Dragon Orbs used, Snail RUSH +24<br>Dragon Orbs Used: 500/500<br>Dragon Gene Research SPD +6% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]] Place in Rift Museum: In the Rift, Fire DMG +600
+|skill2=[[File:Rift skill III.png|50px]] Place in Rift Museum: This Relic's FTH +15
+|skill3=[[File:Rift skill III.png|50px]] Place in Rift Museum: In the Rift, DMG +30%
+|mirage={{Mirage|name=Mahjong Dragon Orb|reward={{RewardIconWithLink|Dragon Orb Capsule, +1|orange}}
+|3name=1-star Dragon Orb|3rec=76.18M|3atk=226466|3def=151071|3hp=13076334|3weak=30122
+|4name=3-star Dragon Orb|4rec=99.84M|4atk=276352|4def=184365|4hp=18438799|4weak=34461
+|5name=5-star Dragon Orb|5rec=127.96M|5atk=335656|5def=223929|5hp=25881543|5weak=38838
+|6name=7-star Dragon Orb|6rec=159.07M|6atk=401259|6def=267696|6hp=34922946|6weak=44880
+|Arec=194.92M|Aatk=476856|Adef=318129|Ahp=46283410|Aweak=51185
+}}
+}}
+
+[[Category:Rift Museum Boost]]
+[[Category:Rift Exploration Boost]]
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:DEF Boost]]
+[[Category:Dragon Gene Boost]]
+[[Category:Curvature Engine Boost]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Saturday Star
+|class_id=20175
+|rank=Green
+|affct=ART
+|source=
+|description=Fortune Law 7: Maintaining anticipation for every weekend is a good way to enhance your luck!
+|fame=14
+|art=32
+|fth=13
+|civ=15
+|tech=16
+|ss1=Snail Leadership +2<br>Per 10 Lucky Star, Snail DEF +1<br>Lucky Star Gained: 1400/1400
+|ss2=Snail Leadership +4<br>Per 10 Lucky Star, Snail DEF +2<br>Lucky Star Gained: 1400/1400
+|ss3=Snail Leadership +6<br>Per 10 Lucky Star, Snail DEF +3<br>Lucky Star Gained: 1400/1400
+|ss4=Snail Leadership +6<br>Per 10 Lucky Star, Snail DEF +3<br>Lucky Star Gained: 1400/1400
+|ss7=Snail Leadership +6<br>Per 10 Lucky Star, Snail DEF +3<br>Lucky Star Gained: 1400/1400<br> (Awakened)
+}}

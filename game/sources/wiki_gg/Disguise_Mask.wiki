@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Disguise Mask
+|class_id=20489
+|rank=Green
+|affct=FAME
+|source=
+|description=This funny-looking mask used to be a magical item that could give its holder extraordinary strength. The wearer of this mask was capable of transforming into any item and possessed near-immortal recovery power. Unfortunately, after a fierce battle between its previous owner and the snail, the mask was severely damaged and completely lost its powers.
+|fame=29
+|art=14
+|fth=18
+|civ=15
+|tech=14
+|ss1=Per 200 Avatar Score, Snail DEF +1<br>Avatar Score: 10000/10000
+|ss2=Per 200 Avatar Score, Snail DEF +2<br>Avatar Score: 10000/10000
+|ss3=Per 200 Avatar Score, Snail DEF +3<br>Avatar Score: 10000/10000
+|ss4=Per 200 Avatar Score, Snail DEF +3<br>Avatar Score: 10000/10000
+|ss7=Per 200 Avatar Score, Snail DEF +3<br>Avatar Score: 10000/10000<br> (Awakened)
+}}

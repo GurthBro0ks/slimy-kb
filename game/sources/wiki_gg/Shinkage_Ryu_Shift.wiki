@@ -1,0 +1,15 @@
+{{CargoRelic
+|name=Shinkage Ryu Shift
+|rank=Green
+|affct=FTH
+|source=[[Yamato Domain]]
+|description=In the fourth year of Henroku, Fencer Kamiizumi mastered the Shadow Swordsmanship, from which he created the New Shadow Technique. Compared with the former skill, the new skill requires bamboo swords in practice. By giving up the intention of killing can one realize the sword's spirit!
+|fame=18
+|art=12
+|fth=31
+|civ=16
+|tech=13
+|ss1=Fungus Farm Output +2%
+|ss2=Fungus Farm Output +4%
+|ss3=Fungus Farm Output +6%
+}}

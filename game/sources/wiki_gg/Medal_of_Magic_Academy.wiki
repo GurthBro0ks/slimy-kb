@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Medal of Magic Academy
+|class_id=20048
+|rank=Green
+|affct=FAME
+|source=
+|description=Hogton School of Witchcraft and Wizardry is well-regarded throughout the magic realm. The students who graduated here are skilled at both light and dark magic and have a high probability of becoming noble magic instructors. So if you spot someone wearing one of these medals, greet them with respect!
+|fame=30
+|art=14
+|fth=18
+|civ=13
+|tech=15
+|ss1=Snail ATK +20<br>Against the Dark Lord, Snail HP +50k<br>Against the Dark Lord, Snail DEF +5k<br>Against the Dark Lord, DMG +1000%
+|ss2=Snail ATK +40<br>Against the Dark Lord, Snail HP +50k<br>Against the Dark Lord, Snail DEF +5k<br>Against the Dark Lord, DMG +1000%
+|ss3=Snail ATK +60<br>Against the Dark Lord, Snail HP +50k<br>Against the Dark Lord, Snail DEF +5k<br>Against the Dark Lord, DMG +1000%
+|ss4=Snail ATK +60<br>Against the Dark Lord, Snail HP +50k<br>Against the Dark Lord, Snail DEF +5k<br>Against the Dark Lord, DMG +1000%
+|ss7=Snail ATK +60<br>Against the Dark Lord, Snail HP +50k<br>Against the Dark Lord, Snail DEF +5k<br>Against the Dark Lord, DMG +1000%<br> (Awakened)
+}}

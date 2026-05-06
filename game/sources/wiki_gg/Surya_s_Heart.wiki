@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Surya's Heart
+|type=Common
+|rank=orange
+|id=10864
+|idx=71
+|description=The heart emits a burning light. It is obvious that its former owner was a high-ranking deity, which allows such a miracle to be revealed!
+|skill=
+|hp=1370
+|def=286
+|atk=213
+|rush=208
+|gene1=Each round, {race} RUSH +60
+|gene2=Each round, {race} ATK +60
+|gene3=Healing +9%
+|gene4=Restore 600 HP each round
+|gene5=Domain Cabin, deployable robots +3
+|gene7=Domain Cabin, deployable robots +9 (Awakened)
+|}}

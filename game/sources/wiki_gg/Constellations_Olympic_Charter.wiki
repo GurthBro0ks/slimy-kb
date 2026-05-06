@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Constellations,Olympic Charter
+|rank=orange
+|amount=2
+|category=home
+|description=Quantum Amp Max Cap +7%
+}}
+[[Category:Home]]
+[[Category:Quantum Amp Boost]]

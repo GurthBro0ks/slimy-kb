@@ -1,0 +1,17 @@
+{{Shell
+|name=Lucifer's Wing
+|image=Lucifer's Wing.png
+|description=After a dark art ritual, the power of Lucifer, the lord of hell, was infused into Snail Shell. The wearer becomes the Demon Lord's kin.
+|affct=FTH
+|hard=RUSH
+|source=Divine Neutral Chest (0.1%)
+|color=orange
+|earth=9
+|water=10
+|fire=14
+|wind=9
+|form=Angel
+|element=Wind
+|realm=Yamato
+|orangehard=RUSH
+}}

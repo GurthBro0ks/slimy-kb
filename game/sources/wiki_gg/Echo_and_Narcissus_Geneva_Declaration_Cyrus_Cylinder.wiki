@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Echo and Narcissus,Geneva Declaration,Cyrus Cylinder
+|rank=orange
+|amount=3
+|category=minion
+|description=Per 60 Minions in battle: Troop ELMT RES +4
+}}
+[[Category:Minion]]
+[[Category:Minion Element RES Boost]]

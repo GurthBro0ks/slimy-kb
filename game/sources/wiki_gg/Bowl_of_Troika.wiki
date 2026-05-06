@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Bowl of Troika
+|class_id=20337
+|rank=Green
+|affct=FAITH
+|source=
+|description=On that day, the three dogs swore brotherhood to Guan Yu under the peach tree. The pact was sealed with a deep kotow. From then on, they rode in the same vehicles, lived in the same lodging, and even ate out of the same bowl. What an unbreakable bond!
+|fame=12
+|art=16
+|fth=30
+|civ=14
+|tech=18
+|ss1=Per 5 Wonder Fungi eaten, Snail HP +10<br>Wonder Fungi used: 200/200
+|ss2=Per 5 Wonder Fungi eaten, Snail HP +20<br>Wonder Fungi used: 200/200
+|ss3=Per 5 Wonder Fungi eaten, Snail HP +30<br>Wonder Fungi used: 200/200
+|ss4=Per 5 Wonder Fungi eaten, Snail HP +30<br>Wonder Fungi used: 200/200
+|ss7=Per 5 Wonder Fungi eaten, Snail HP +30<br>Wonder Fungi used: 200/200<br> (Awakened)
+}}

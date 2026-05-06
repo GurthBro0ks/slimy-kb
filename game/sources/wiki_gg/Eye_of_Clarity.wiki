@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Eye of Clarity
+|type=Bionic
+|rank=red
+|id=10697
+|idx=55
+|description=Sees through all illusions, reveals every truth. With this gaze, no deception can endure, and the laws of the world lie within your grasp.
+|skill=Before round start, perceive divine power, causing the next attack to deal DMG equal to 220% of ATK!
+|hp=2190
+|def=363
+|atk=249
+|rush=239
+|gene1=In Civilization Mirage, Water DMG +240
+|gene2=In Civilization Mirage, Earth DMG +240
+|gene3=In Civilization Mirage, Wind DMG +240
+|gene4=In Civilization Mirage, ignore enemy DEF +4%
+|gene5=In Civilization Mirage, Round 1 DMG to enemy +20%
+|gene6=In Civilization Mirages, DMG +12%
+|gene7=In Civilization Mirage, ignore enemy DEF +4% (Awakened)
+|}}

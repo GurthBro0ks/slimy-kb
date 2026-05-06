@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Flask of Life
+|class_id=22445
+|rank=Blue
+|affct=FAITH
+|birthday=09-04
+|source=Lottery Machine No.3 (0.25%)
+|description=On Sept 4, 8400 BC, Gaia used the Flask of Life to give birth to countless lives.<br>The Flask of Life is one of the treasures owned by the Earth Goddess, Gaia, which stores the seeds of all living things that can bear life and the life-giving spring water. It is thanks to this treasure that Gaia has given birth to countless creatures, bringing life to the once silent earth.
+|fame=26
+|art=30
+|fth=48
+|civ=19
+|tech=31
+|ss1=Per 10,000 Fervor, Priest-Snail Assistance DMG+8<br>Fervor: 500000/500000
+|ss2=Per 10,000 Fervor, Priest-Snail Assistance DMG+16<br>Fervor: 500000/500000
+|ss3=Per 10,000 Fervor, Priest-Snail Assistance DMG+24<br>Fervor: 500000/500000
+|ss4=Per 10,000 Fervor, Priest-Snail Assistance DMG+40<br>Fervor: 500000/500000
+|ss7=Per 10,000 Fervor, Priest-Snail Assistance DMG+40<br>Fervor: 500000/500000<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail HP +200
+}}

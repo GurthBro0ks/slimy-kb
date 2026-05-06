@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dragon God Sculpture
+|class_id=20733
+|rank=Green
+|affct=FAITH
+|source=
+|description=Upon learning of the Dragon God's demise, Earth's Will had a series of statues crafted in the likeness of its head. These were made not only to commemorate the historic moment of triumph over a formidable foe but also to be bestowed upon those exceptional Travelers, allowing them to share in the Joy of victory!
+|fame=17
+|art=15
+|fth=30
+|civ=15
+|tech=13
+|ss1=Snail Leadership +1<br>Per Demon God Sculpture owned, Snail RUSH +50<br>Demon God Sculptures Owned: 8/8
+|ss2=Snail Leadership +2<br>Per Demon God Sculpture owned, Snail RUSH +100<br>Demon God Sculptures Owned: 8/8
+|ss3=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail RUSH +150<br>Demon God Sculptures Owned: 8/8
+|ss4=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail RUSH +150<br>Demon God Sculptures Owned: 8/8
+|ss7=Snail Leadership +3<br>Per Demon God Sculpture owned, Snail RUSH +150<br>Demon God Sculptures Owned: 8/8<br> (Awakened)
+}}

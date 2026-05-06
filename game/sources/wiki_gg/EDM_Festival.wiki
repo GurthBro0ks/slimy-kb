@@ -1,0 +1,732 @@
+==Important Note!==
+To finish the World Tour, you will need to Purchase the Value Packs with Athena Skin, Starry Poem(Harp), and any Value Pack containing Rainbow Points. It is, minimum, $50 to complete the World Tour.
+
+==Main Screen==
+[[File:EDM Festival.png|left]]
+Sept. 29 - Oct. 12 2023 
+
+===EDM Fest Sign-In===
+Sign in everyday to claim rewards!<br>100 W-tads, 6,000 B-tads, 2h Gene Speedup
+
+===Tour Shop===
+Spend Tour Coins to buy event items! Unused Tour Coins will be converted into B-tads at the end of the event!
+{|class="wikitable mw-collapsible mw-collapsed
+!Item
+!Price
+!Limit
+|-
+|{{Reimg|ANS Synthesizer}} +40 Frags
+|15K
+|1
+|-
+|{{Reimg|Conductor's Baton}} +5 Frags
+|15K
+|1
+|-
+|[[Gear|Eye of Horus]]
+|15K
+|1
+|-
+|Deluxe Sheet Music +80
+|W-tad x1
+|10 (1 a day)
+|-
+|Dragon Orb
+|2K
+|3
+|-
+|Incense
+|1,800
+|3
+|-
+|Lottery Ticket +5
+|600
+|3
+|-
+|Wish Coin +2
+|600
+|3
+|-
+|Travel Speedup +8h
+|600
+|3
+|-
+|Offering Speedup +8h
+|300
+|3
+|-
+|Gene Speedup +8h
+|300
+|3
+|-
+|Clone Speedup +8
+|300
+|3
+|-
+|Tool Chest +100
+|500
+|3
+|-
+|Fungus Chest +100
+|500
+|3
+|-
+|Gear Chest +100
+|500
+|3
+|-
+|Coating Bucket +3
+|800
+|3
+|-
+|Master Alchemy Case +3
+|800
+|3
+|-
+|Research Briefcase
+|1K
+|3
+|-
+|Glue +30
+|150
+|3
+|-
+|Organ Slime +50
+|150
+|3
+|-
+|Toner +30
+|200
+|3
+|-
+|B-tads +6K
+|100
+|10
+|}
+
+===Peter===
+====EDM Gifts!====
+Purchase with W-tads to get rewards for 3 days!<br>8K W-tads
+{|class="wikitable mw-collapsible mw-collapsed
+!Day
+!Rewards
+|-
+|1
+|40 Rainbow Points, 50 Maintenance Oil, Da Beat (Instrument)
+|-
+|2
+|3 Wish Coin, 50 Maintenance Oil, 10 Lottery Tickets
+|-
+|3
+|[[ANS Synthesizer]], 50 Maintenance Oil, 3 [[Clover Vendor|Lucky Coin]]
+|}
+Purchase to get rewards for 3 days!<br>$49.99
+{|class="wikitable mw-collapsible mw-collapsed
+!Day
+!Rewards
+|-
+|1
+|50 Rainbow Points, 15 Lottery Ticket, 1,500 W-tads
+|-
+|2
+|[[ANS Synthesizer]], 15 Lottery Ticket, 1,500 W-tads
+|-
+|3
+|[[Gear|Eye of Horus]], 15 Lottery Ticket, 1,500 W-tads
+|}
+Purchase any amount during the event to claim rewards!
+{|class="wikitable mw-collapsible mw-collapsed
+!Day
+!Rewards
+|-
+|1
+|1 Lottery Ticket, 200 W-tads, 2h Offering Speedup
+|-
+|2
+|1 Lottery Ticket, 200 W-tads, 2h Offering Speedup
+|-
+|3
+|Band Agent(Avatar), 200 W-tads, 1 Lottery Ticket
+|}
+
+====Purchase Pack====
+{|class="wikitable mw-collapsible mw-collapsed
+!Price
+!Rewards
+|-
+|W-tads x2,000
+|10 Lottery Tickets, Lee Gi-na Outfit
+|-
+|W-tads x3,000
+|5 Wish Coin, 80 Deluxe Music Sheet, Idol Boy Outfit
+|-
+|$4.99
+|Athena Outfit, 300 W-tads, 5 Lottery Tickets, 10 Rainbow Points
+|-
+|$14.99
+|Starry Poem(Instrument), 7 Wish Coin, 1K W-tads, 20 Rainbow Points
+|-
+|$29.99
+|3 Incense, 2d Offering Speedup, 2K W-tads, 30 Rainbow Points
+|-
+|$69.99
+|18 Golden Pickaxes, 20 Wish Coins, 5K W-tads, 40 Rainbow Points
+|-
+|$99.99
+|40 Grandmaster Scrolls, 60 Lottery Tickets, 8K W-tads, 50 Rainbow Points
+|}
+{{clear}}
+
+==World Tour==
+[[File:World Tour.png|left]]
+
+===Instrument Modification===
+All instruments have a max of 7 stars(25 Levels).<br>Each instrument takes 240 Maintenance Oil to max.
+{|class="wikitable mw-collapsible mw-collapsed
+!Name
+!Source
+!Rewards
+|-
+|Starry Poem
+|Purchase Pack $14.99
+|W-tads, Glue, Tour Coins
+|-
+|Da Beat
+|EDM Fest Gift, 8K W-tads, Day 1
+|W-tads, Offering Speedup, Tour Coins
+|-
+|Electronic Player
+|Tour Plan 18
+|W-tads, Gene Speedup, Tour Coins
+|-
+|Celestial Tune
+|Starting Instrument
+|W-tads, Clone Speedup, Tour Coins
+|-
+|Echo MK2
+|Starting Instrument
+|W-tads, Refine Speedup, Tour Coins
+|}
+
+===Characters===
+Character max level is 30, each level takes 10 Deluxe Sheet Music.<br>Each Character takes 300 Deluxe Sheet Music to max.
+{|class="wikitable mw-collapsible mw-collapsed
+!Name
+!Source
+|-
+|Athena
+|Value Pack, $4.99
+|-
+|Lee Gi-na
+|Value Pack, W-tad x2,000
+|-
+|Dracula
+|Tour No. 27
+|-
+|Idol Boy
+|Value Pack, W-tad x3,000
+|-
+|Hitman No. 1
+|Tour No. 9
+|}
+
+===Tour Plan===
+{|class="wikitable mw-collapsible mw-collapsed
+!Tour Stop
+!Rewards
+|-
+|1
+|B-tads +3,000, Gacha Coin, Tour Coin +100
+|-
+|2
+|B-tads +3,000, Gacha Coin, Tour Coin +100
+|-
+|3
+|W-tads +100, Gacha Coin +2, Gene Speedup +2h
+|-
+|4
+|B-tads +3,000, Gacha Coin, Tour Coin +150
+|-
+|5
+|B-tads +3,000, Gacha Coin, Tour Coin +150
+|-
+|6
+|Evolution Chest +100, Gacha Coin +2, W-tads +150
+|-
+|7
+|B-tads +4,000, Gacha Coin, Tour Coin +200
+|-
+|8
+|B-tads +4,000, Gacha Coin, Tour Coin +200
+|-
+|9
+|Hitman No. 1 Outfit, Gacha Coin +2, W-tads +200
+|-
+|10
+|B-tads +4,000, Gacha Coin, Tour Coin +250
+|-
+|11
+|B-tads +4,000, Gacha Coin, Tour Coin +250
+|-
+|12
+|Tool Chest +100, Gacha Coin +2, W-tads +250
+|-
+|13
+|B-tads +5,000, Gacha Coin, Tour Coin +300
+|-
+|14
+|B-tads +5,000, Gacha Coin, Tour Coin +300
+|-
+|15
+|Gene Speedup +3h, Gacha Coin +2, W-tads +300
+|-
+|16
+|B-tads +5,000, Gacha Coin, Tour Coin +350
+|-
+|17
+|B-tads +5,000, Gacha Coin, Tour Coin +350
+|-
+|18
+|Electronic Player(Instrument), Gacha Coin +2, W-tads +350
+|-
+|19
+|B-tads +6,000, Gacha Coin, Tour Coin +400
+|-
+|20
+|B-tads +6,000, Gacha Coin, Tour Coin +400
+|-
+|21
+|Novice Scroll +10, Gacha Coin +2, W-tads +400
+|-
+|22
+|B-tads +6,000, Gacha Coin, Tour Coin +450
+|-
+|23
+|B-tads +6,000, Gacha Coin, Tour Coin +450
+|-
+|24
+|Lottery Ticket +2, Gacha Coin +2, W-tads +450
+|-
+|25
+|B-tads +7,000, Gacha Coin, Tour Coin +500
+|-
+|26
+|B-tads +7,000, Gacha Coin, Tour Coin +500
+|-
+|27
+|Dracula Outfit, Gacha Coin +2, W-tads +500
+|-
+|28
+|B-tads +7,000, Gacha Coin, Tour Coin +550
+|-
+|29
+|B-tads +7,000, Gacha Coin, Tour Coin +550
+|-
+|30
+|Travel Speedup +4h, Gacha Coin +2, W-tads +550
+|-
+|31
+|B-tads +8,000, Gacha Coin, Tour Coin +600
+|-
+|32
+|B-tads +8,000, Gacha Coin, Tour Coin +600
+|-
+|33
+|Organ Chest +100, Gacha Coin +2, W-tads +600
+|-
+|34
+|B-tads +8,000, Gacha Coin, Tour Coin +650
+|-
+|35
+|B-tads +8,000, Gacha Coin, Tour Coin +650
+|-
+|36
+|Expert Scrolls +20, Gacha Coin +3, W-tads +650
+|-
+|37
+|B-tads +9,000, Gacha Coin, Tour Coin +700
+|-
+|38
+|B-tads +9,000, Gacha Coin, Tour Coin +700
+|-
+|39
+|Wish Coin +2, Gacha Coin +3, W-tads +700
+|-
+|40
+|B-tads +9,000, Gacha Coin, Tour Coin +750
+|-
+|41
+|B-tads +9,000, Gacha Coin, Tour Coin +750
+|-
+|42
+|Incense, Gacha Coin +3, W-tads +750
+|-
+|43
+|B-tads +10K, Gacha Coin, Tour Coin +800
+|-
+|44
+|B-tads +10K, Gacha Coin, Tour Coin +80
+|-
+|45
+|Lucky Coin +5, Gacha Coin +3, W-tads +800
+|-
+|46
+|B-tads +10K, Gacha Coin, Tour Coin +900
+|-
+|47
+|B-tads +10K, Gacha Coin, Tour Coin +900
+|-
+|48
+|Dragon Orb, Gacha Coin +5. W-tads +900
+|-
+|49
+|Singularity Crystal, Gacha Coin +5, W-tads +1,000
+|}
+
+===Point Gift===
+====Tour Point====
+Per completed tour, you get 10 pts
+{|class="wikitable mw-collapsible mw-collapsed
+!Points
+!Rewards
+|-
+|20
+|Tour Coin +200, Wish Coin, Lottery Ticket +2
+|-
+|40
+|Tour Coin +200, Wish Coin, Lottery Ticket +2
+|-
+|60
+|Rainbow Points +10, Wish Coin, Lottery Ticket +2
+|-
+|80
+|Tour Coin +200, Wish Coin, Lottery Ticket +2
+|-
+|100
+|Tour Coin +200, Wish Coin, Lottery Ticket +2
+|-
+|120
+|Rainbow Points +10, Wish Coin, Lottery Ticket +2
+|-
+|140
+|Tour Coin +300, Wish Coin, Lottery Ticket +2
+|-
+|160
+|Tour Coin +300, Wish Coin, Lottery Ticket +2
+|-
+|180
+|Rainbow Points +20, Wish Coin, Lottery Ticket +2
+|-
+|200
+|Tour Coin +300, Wish Coin, Lottery Ticket +3
+|-
+|220
+|Tour Coin +300, Wish Coin, Lottery Ticket +3
+|-
+|240
+|W-tads +300, Wish Coin, Lottery Ticket +3
+|-
+|260
+|Tour Coin +400, Wish Coin +2, Lottery Ticket +3
+|-
+|280
+|Tour Coin +400, Wish Coin +2, Lottery Ticket +3
+|-
+|300
+|W-tads +400, Wish Coin +2, Lottery Ticket +3
+|-
+|320
+|Tour Coin +400, Wish Coin +2, Lottery Ticket +3
+|-
+|340
+|Tour Coin +400, Wish Coin +2, Lottery Ticket +3
+|-
+|360
+|W-tads +400, Wish Coin +2, Lottery Ticket +3
+|-
+|380
+|Tour Coin +500, Wish Coin +2, Lottery Ticket +5
+|-
+|400
+|Tour Coin +500, Wish Coin +2, Lottery Ticket +5
+|-
+|420
+|W-tads +500, Wish Coin +2, Lottery Ticket +5
+|}
+
+====Rainbow Point====
+{|class="wikitable mw-collapsible mw-collapsed
+!Points
+!Rewards
+|-
+|10
+|Clone Speedup +4h, Tour Gift Box, Lottery Ticket +3
+|-
+|20
+|Clone Speedup +4h, Tour Gift Box, Lottery Ticket +3
+|-
+|30
+|Clone Speedup +4h, Tour Gift Box, Golden Pickaxe +3
+|-
+|40
+|Clone Speedup +4h, Tour Gift Box, Lottery Ticket +3
+|-
+|50
+|Clone Speedup +4h, Tour Gift Box, Lottery Ticket +3
+|-
+|60
+|Clone Speedup +4h, Tour Gift Box, Wish Coin +2
+|-
+|70
+|Clone Speedup +6h, Tour Gift Box, Lottery Ticket +4
+|-
+|80
+|Clone Speedup +6h, Tour Gift Box, Lottery Ticket +4
+|-
+|90
+|Clone Speedup +6h, Tour Gift Box, Lucky Coin +3
+|-
+|100
+|Clone Speedup +6h, Tour Gift Box, Lottery Ticket +4
+|-
+|110
+|Clone Speedup +6h, Tour Gift Box, Lottery Ticket +4
+|-
+|120
+|Clone Speedup +6h, Tour Gift Box +2, [[Limited Edition Vinyl Record]]
+|-
+|130
+|Clone Speedup +8h, Tour Gift Box +2, Lottery Ticket +6
+|-
+|140
+|Clone Speedup +8h, Tour Gift Box +2, Lottery Ticket +6
+|-
+|150
+|Clone Speedup +8h, Tour Gift Box +2, [[Gear|Eye of Horus]]
+|-
+|160
+|Clone Speedup +8h, Tour Coin +1,000, Lottery Ticket +6
+|-
+|180
+|Clone Speedup +8h, Tour Coin +1,000, Lottery Ticket +6
+|-
+|200
+|Clone Speedup +8h, Tour Coin +1,000, [[ANS Synthesizer]] Frag +40
+|-
+|220
+|Clone Speedup +12h, Tour Coin +1,200, Lottery Ticket +8
+|-
+|240
+|Clone Speedup +12h, Tour Coin +1,200, Lottery Ticket +8
+|-
+|260
+|Clone Speedup +12h, Tour Coin +1,200, Grandmaster Scroll +40
+|-
+|280
+|Clone Speedup +12h, Tour Coin +1,200, Lottery Ticket +8
+|-
+|300
+|Clone Speedup +12h, Tour Coin +1,200, Lottery Ticket +8
+|-
+|330
+|Clone Speedup +12h, Tour Coin +1,200, [[Gear|Crystal of Will]]
+|-
+|360
+|Clone Speedup +16h, Tour Coin +1,600, Lottery Ticket +10
+|-
+|390
+|Clone Speedup +16h, Tour Coin +1,600, Lottery Ticket +10
+|-
+|420
+|Clone Speedup +16h, Tour Coin +1,600, [[ANS Synthesizer]] Frag +40
+|-
+|450
+|Clone Speedup +16h, Tour Coin +1,600, Lottery Ticket +10
+|-
+|480
+|Clone Speedup +16h, Tour Coin +1,600, Lottery Ticket +10
+|-
+|510
+|Clone Speedup +16h, Tour Coin +1,600, Singularity Crystal +3
+|-
+|540
+|Clone Speedup +20h, Tour Coin +2,000, Lottery Ticket +12
+|-
+|580
+|Clone Speedup +20h, Tour Coin +2,000, Lottery Ticket +12
+|-
+|620
+|Clone Speedup +20h, Tour Coin +2,000, [[ANS Synthesizer]] Frag +40
+|-
+|660
+|Clone Speedup +20h, Tour Coin +2,000, Lottery Ticket +12
+|-
+|700
+|Clone Speedup +20h, Tour Coin +2,000, Lottery Ticket +12
+|-
+|740
+|Clone Speedup +20h, Tour Coin +2,000, [[Gear|Crystal of Will]]
+|-
+|780
+|Clone Speedup +1d, Tour Coin +2,400, Lottery Ticket +15
+|-
+|820
+|Clone Speedup +1d, Tour Coin +2,400, Lottery Ticket +15
+|-
+|860
+|Clone Speedup +1d, Tour Coin +2,400, Frankenstein Frag (Minion Skin)
+|}
+Tour Gift Box contains: Deluxe Sheet Music +30, Tour Coin +200
+
+===Tour Supplement===
+Per 1 character level, Points +10<br>Amateur is Free, Professional is $14.99.
+{|class="wikitable mw-collapsible mw-collapsed
+!Points
+!Amateur
+!Professional
+|-
+|320
+|Rainbow Points +10
+|[[Tour VIP Ticket]], Organ Chest +100
+|-
+|340
+|Upkeep Set
+|Offering Speedup +8h
+|-
+|340
+|Upkeep Set
+|Lottery Ticket +5
+|-
+|380
+|Upkeep Set
+|Wish Coin +2
+|-
+|400
+|Rainbow Points +10
+|Lucky Coin +3, Organ Chest +100
+|-
+|420
+|Upkeep Set
+|Offering Speedup +8h
+|-
+|440
+|Upkeep Set
+|Lottery Ticket +5
+|-
+|460
+|Upkeep Set
+|Wish Coin +2
+|-
+|480
+|Rainbow Points +10
+|Orange Fungus Choice Pack, Organ Chest +100
+|-
+|510
+|Upkeep Set
+|Offering Speedup +8h
+|-
+|540
+|Upkeep Set
+|Lottery Ticket +5
+|-
+|570
+|Upkeep Set
+|Wish Coin +2
+|-
+|600
+|Expert Alchemy Case +3
+|Master Alchemy Case +5, Organ Chest +100
+|-
+|630
+|Upkeep Set
+|Offering Speedup +8h
+|-
+|660
+|Upkeep Set
+|Lottery Ticket +5
+|-
+|690
+|Upkeep Set
+|Wish Coin +2
+|-
+|720
+|Novice Scroll +10
+|Master Scroll +40, Organ Chest +100
+|-
+|750
+|Upkeep Set
+|Offering Speedup +8h
+|-
+|780
+|Upkeep Set
+|Lottery Ticket +5
+|-
+|810
+|Upkeep Set
+|Wish Coin +2
+|-
+|840
+|Offering Speedup +6h
+|Dragon Orb, Organ Chest +100
+|-
+|870
+|Upkeep Set
+|Offering Speedup +8h
+|-
+|900
+|Upkeep Set
+|Lottery Ticket +5
+|-
+|930
+|Upkeep Set
+|Wish Coin +2
+|-
+|960
+|Expert Scroll +20
+|Relic RF +15, Organ Chest +100
+|-
+|990
+|Upkeep Set
+|Offering Speedup +8h
+|-
+|1,020
+|Upkeep Set
+|Lottery Ticket +5
+|-
+|1,060
+|Upkeep Set
+|Wish Coin +2
+|-
+|1,100
+|Singularity Crystal
+|Singularity Crystal +2, Organ Chest +100
+|}
+Upkeep Set contains: Magic Potion +40, Maintenance Oil +50, Tour Coin +100
+
+===Tour Gacha Machine===
+#Each pulling consumes 1 gacha coin.
+#For every 10 pullings, you'll get a golden gacha coin in return, which is for the Super Gacha Machine.
+
+====Gacha Rewards====
+{|class="wikitable mw-collapsible mw-collapsed
+!colspan="3"|Gacha Rewards
+|-
+|style="background-color:var(--orange-bg);" |Incense<br>1%||style="background-color:var(--orange-bg);" |Wish Coin<br>2%
+|-
+|style="background-color:var(--purple-bg);" |Lottery Ticket<br>6%||style="background-color:var(--purple-bg);" |Offering Speedup<br>6%
+|-
+|style="background-color:var(--blue-bg);" |Gene Speedup +1h<br>10%||style="background-color:var(--blue-bg);" |Clone Speedup +1h<br>10%||style="background-color:var(--blue-bg);" |Refine Speedup +1h<br>10%
+|-
+|style="background-color:var(--green-bg);" |Stone +200<br>14%||style="background-color:var(--green-bg);" |Wood +200<br>14%||style="background-color:var(--green-bg);" |B-tads +2,000<br>27%
+|}
+
+====Super Gacha Machine====
+[[File:Super Gacha.png|250px]]
+
+= Relic Rewards =
+* {{RewardIconWithLink|ANS Synthesizer|orange}}
+* {{RewardIconWithLink|Conductor's Baton|green}}
+* {{RewardIconWithLink|Limited Edition Vinyl Record|green}}
+* {{RewardIconWithLink|Tour VIP Ticket|green}}
+
+[[Category:Events]]

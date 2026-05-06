@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Lion Oath Ring
+|class_id=21038
+|rank=SSS
+|affct=FAME
+|source=
+|description=Crafted from pure gold, this ring features twin lion heads facing each other with bared fangs and flame-like manes carved in relief. The circular design embodies the eternal sun and divine authority. Rulers bestowed it to confirm loyalty - those who received it swore oaths of fealty, upholding the sacred tradition of royal legitimacy.
+|fame=106
+|art=62
+|fth=48
+|civ=72
+|tech=74
+|ss1=Snail Leadership +3<br>Per 60 Minions in battle:<br>> Troop HP +90<br>Per 60 Minions in battle:<br>> Troop RUSH +9
+|ss2=Snail Leadership +4<br>Per 60 Minions in battle:<br>> Troop HP +180<br>Per 60 Minions in battle:<br>> Troop RUSH +18
+|ss3=Snail Leadership +5<br>Per 60 Minions in battle:<br>> Troop HP +270<br>Per 60 Minions in battle:<br>> Troop RUSH +27
+|ss4=Snail Leadership +7<br>Per 60 Minions in battle:<br>> Troop HP +450<br>Per 60 Minions in battle:<br>> Troop RUSH +45
+|ss5=Snail Leadership +9<br>Per 60 Minions in battle:<br>> Troop HP +630<br>Per 60 Minions in battle:<br>> Troop RUSH +63
+|ss6=Snail Leadership +12<br>Per 60 Minions in battle:<br>> Troop HP +900<br>Per 60 Minions in battle:<br>> Troop RUSH +90
+|ss7=Snail Leadership +12<br>Per 60 Minions in battle:<br>> Troop HP +900<br>Per 60 Minions in battle:<br>> Troop RUSH +90<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:skill@1125_1_1.png|50px]]prop@4085_2
+|skill2=[[File:skill@1123_1_1.png|50px]]prop@4065_2
+|skill3=[[File:skill@1124_1_1.png|50px]]prop@4070_2
+}}

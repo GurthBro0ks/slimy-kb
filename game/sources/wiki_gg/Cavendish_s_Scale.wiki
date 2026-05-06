@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Cavendish's Scale
+|rank=AAA
+|affct=TECH
+|birthday=06-20
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)
+|description=On Jun 20, 1789, Cavendish used a torsion balance to measure the gravitational constant.
+
+Cavendish placed a high-density iron ball and a low-density iron ball at both ends of the torsion scale. In the middle of the scale, a tough wire was tied to the stand and a small mirror. A laser beam was fired to the mirror and reflected to somewhere in a distance. The location of the laser point was then recorded. Two iron balls of the same density were placed near each of the balls on the scale. The scale tilted slightly due to the force of gravity. But the laser point moved by a larger distance which allowed the measurement of the gravitational constant.
+|fame=37
+|art=44
+|fth=42
+|civ=47
+|tech=73
+|ss1=Lumber Camp produces Ancient Wood by +6%<br>Per 5 Lumber Camp LVLs, Snail ATK +12<br>Lumber Camp LVL: 50/50
+|ss2=Lumber Camp produces Ancient Wood by +8%<br>Per 5 Lumber Camp LVLs, Snail ATK +16<br>Lumber Camp LVL: 50/50
+|ss3=Lumber Camp produces Ancient Wood by +10%<br>Per 5 Lumber Camp LVLs, Snail ATK +20<br>Lumber Camp LVL: 50/50
+|ss4=Lumber Camp produces Ancient Wood by +14%<br>Per 5 Lumber Camp LVLs, Snail ATK +28<br>Lumber Camp LVL: 50/50
+|ss5=Lumber Camp produces Ancient Wood by +18%<br>Per 5 Lumber Camp LVLs, Snail ATK +36<br>Lumber Camp LVL: 50/50
+|ss7=Lumber Camp produces Ancient Wood by +18%<br>Per 5 Lumber Camp LVLs, Snail ATK +36<br>Lumber Camp LVL: 50/50<br>Lumber Camp produces Ancient Wood by +14% (Awakened)
+|skill1=[[File:Britland skill II.png|50px]] Place in Britland Museum: In Britland, 2x B-tad Drops +7.5%
+|skill2=[[File:Britland skill II.png|50px]] Place in Britland Museum: In Britland, B-tads gained +7.5%
+}}
+
+[[Category:Ancient Wood Boost]]
+[[Category:ATK Boost]]
+[[Category:Lumber Camp Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:RUSH Boost]]
+[[Category:Gene Research Speedup Boost]]

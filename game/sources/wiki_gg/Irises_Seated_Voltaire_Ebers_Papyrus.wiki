@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Irises,Seated Voltaire,Ebers Papyrus
+|rank=orange
+|amount=3
+|category=minion
+|description=Per 60 Minions in battle: Troop ELMT DMG +4
+}}
+[[Category:Minion]]
+[[Category:Minion Element DMG Boost]]

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Broken Queen Statue
+|class_id=22034
+|rank=Blue
+|affct=ART
+|birthday=01-30
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Jan 30, 1352 BC, this jasper statue commemorating Queen Tiy was carved by Egyptian craftsmen.<br>This broken statue was carved out of the most famous commoner Queen Tiy in ancient Egypt. It is made of yellow jasper, and the skin part has been carefully polished to form an extraordinarily smooth and delicate mirror-like luster. After thousands of years, only fragments of it remain, but you can still catch a glimpse of the Queen's demeanor from it.
+|fame=18
+|art=47
+|fth=33
+|civ=30
+|tech=26
+|ss1=Snail ATK +10
+|ss2=Snail ATK +20
+|ss3=Snail ATK +30
+|ss4=Snail ATK +50
+|ss7=Snail ATK +50<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Biozilla skill I.png|50px]]Place in a Biozilla: This Relic's ART +5
+}}

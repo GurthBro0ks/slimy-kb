@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=626
+|relics=Dictionnaire Infernal,Stone of Destiny
+|rank=blue
+|amount=2
+|category=self
+|description=When you receive Purple Spores from Catalysis: Gain +1 Spore Voucher by +10%
+}}

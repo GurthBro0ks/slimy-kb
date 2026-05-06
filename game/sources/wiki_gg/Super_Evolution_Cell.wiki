@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Super Evolution Cell
+|class_id=20139
+|rank=Green
+|affct=ART
+|source=
+|description=This supercell came from Hitman No.51. It used to be a mob from Gene Simulation, but after being defeated by the snail over and over again, it had a change of heart and started thinking about fundamental questions about the universe. Eventually, it contacted the Demon Gods, became a Hitman, and was then made into a Relic.
+|fame=16
+|art=30
+|fth=17
+|civ=14
+|tech=13
+|ss1=In explorations, Zombie Cells gained +0.5%<br>In explorations, Demon Cells gained +0.5%<br>In explorations, Angel Cells gained +0.5%<br>In explorations, Mutant Cells gained +0.5%<br>In explorations, Mecha Cells gained +0.5%
+|ss2=In explorations, Zombie Cells gained +1%<br>In explorations, Demon Cells gained +1%<br>In explorations, Angel Cells gained +1%<br>In explorations, Mutant Cells gained +1%<br>In explorations, Mecha Cells gained +1%
+|ss3=In explorations, Zombie Cells gained +1.5%<br>In explorations, Demon Cells gained +1.5%<br>In explorations, Angel Cells gained +1.5%<br>In explorations, Mutant Cells gained +1.5%<br>In explorations, Mecha Cells gained +1.5%
+|ss4=In explorations, Zombie Cells gained +1.5%<br>In explorations, Demon Cells gained +1.5%<br>In explorations, Angel Cells gained +1.5%<br>In explorations, Mutant Cells gained +1.5%<br>In explorations, Mecha Cells gained +1.5%
+|ss7=In explorations, Zombie Cells gained +1.5%<br>In explorations, Demon Cells gained +1.5%<br>In explorations, Angel Cells gained +1.5%<br>In explorations, Mutant Cells gained +1.5%<br>In explorations, Mecha Cells gained +1.5%<br> (Awakened)
+}}

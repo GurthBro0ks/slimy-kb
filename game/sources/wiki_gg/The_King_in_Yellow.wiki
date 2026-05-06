@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The King in Yellow
+|class_id=22916
+|rank=SSS
+|affct=TECH
+|source=
+|description=The King in Yellow is a play in two acts, with the first act being milder, while the second delivers a profound shock to the reader. It is a fountain of forbidden knowledge, chronicling a series of ambiguous and dreamlike plays. Whether one is a reader, an actor, or a spectator, they will slowly be dominated by the dreams sent by Hastur. The soul cannot sing, falling into endless madness.
+|fame=68
+|art=52
+|fth=76
+|civ=58
+|tech=108
+|ss1=Poison DMG +6%<br>Dragon Minion DEF +3%<br>Per 30 Gold Daily Packs bought, Snail ATK +3<br>Gold Daily Packs Bought: 3000/3000
+|ss2=Poison DMG +8%<br>Dragon Minion DEF +4%<br>Per 30 Gold Daily Packs bought, Snail ATK +4<br>Gold Daily Packs Bought: 3000/3000
+|ss3=Poison DMG +10%<br>Dragon Minion DEF +5%<br>Per 30 Gold Daily Packs bought, Snail ATK +5<br>Gold Daily Packs Bought: 3000/3000
+|ss4=Poison DMG +14%<br>Dragon Minion DEF +7%<br>Per 30 Gold Daily Packs bought, Snail ATK +7<br>Gold Daily Packs Bought: 3000/3000
+|ss5=Poison DMG +18%<br>Dragon Minion DEF +9%<br>Per 30 Gold Daily Packs bought, Snail ATK +9<br>Gold Daily Packs Bought: 3000/3000
+|ss6=Poison DMG +24%<br>Dragon Minion DEF +12%<br>Per 30 Gold Daily Packs bought, Snail ATK +12<br>Gold Daily Packs Bought: 3000/3000
+|ss7=Poison DMG +24%<br>Dragon Minion DEF +12%<br>Per 30 Gold Daily Packs bought, Snail ATK +12<br>Gold Daily Packs Bought: 3000/3000<br>Poison DMG +20% (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop CRIT +9%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop CRIT DMG +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's TECH +15
+}}

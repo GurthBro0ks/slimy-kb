@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Voynich Manuscript,The Nutcracker
+|rank=purple
+|amount=2
+|category=other
+|description=In any Realm, Zombie Cells gained +6%
+}}
+[[Category:Other]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Investment Tips
+|class_id=20556
+|rank=Green
+|affct=CIV
+|source=
+|description=Generations of star investors from the Hamster Clan record their insights and experiences in a notebook, passing it down on and on. On one hand it helps younger generations to learn and grow, on the other hand it can be used for showing off!
+|fame=19
+|art=14
+|fth=13
+|civ=29
+|tech=15
+|ss1=prop@55055_2<br>prop@55060_2
+|ss2=prop@55055_2<br>prop@55060_2
+|ss3=prop@55055_2<br>prop@55060_2
+|ss4=prop@55055_2<br>prop@55060_2
+|ss7=prop@55055_2<br>prop@55060_2<br> (Awakened)
+}}

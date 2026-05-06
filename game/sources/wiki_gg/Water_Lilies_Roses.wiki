@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Water Lilies & Roses
+|class_id=22803
+|rank=SS
+|affct=ART
+|source=
+|description=This painting is a work by French Impressionist master Monet, one of the representative works of his mature style. It depicts the garden Monet personally created in Giverny, showcasing roses covered with arbors and blooming water lilies in the pond, with vibrant and lively colors. The contrast between the vivid roses and the soft colors of the water reflections demonstrates Monet's unique ability to capture light and color. Monet createdThis painting after the death of his second wife, and the vitality and romance of the garden depicted in the painting are seen as the artist's renewed dedication to art.
+|fame=47
+|art=105
+|fth=68
+|civ=73
+|tech=54
+|ss1=Sunny Plant Food gives 1 Green Pistil by +0.4%<br>Per 10 Maneater Pistils Used, Snail HP +20<br>Per 10 Maneater Pistils Used, Snail RUSH +2<br>Maneater Pistil(s) used: 400/400
+|ss2=Sunny Plant Food gives 1 Green Pistil by +0.6%<br>Per 10 Maneater Pistils Used, Snail HP +30<br>Per 10 Maneater Pistils Used, Snail RUSH +3<br>Maneater Pistil(s) used: 400/400
+|ss3=Sunny Plant Food gives 1 Green Pistil by +0.8%<br>Per 10 Maneater Pistils Used, Snail HP +40<br>Per 10 Maneater Pistils Used, Snail RUSH +4<br>Maneater Pistil(s) used: 400/400
+|ss4=Sunny Plant Food gives 1 Green Pistil by +1.2%<br>Per 10 Maneater Pistils Used, Snail HP +60<br>Per 10 Maneater Pistils Used, Snail RUSH +6<br>Maneater Pistil(s) used: 400/400
+|ss5=Sunny Plant Food gives 1 Green Pistil by +1.6%<br>Per 10 Maneater Pistils Used, Snail HP +80<br>Per 10 Maneater Pistils Used, Snail RUSH +8<br>Maneater Pistil(s) used: 400/400
+|ss6=Sunny Plant Food gives 1 Green Pistil by +2.2%<br>Per 10 Maneater Pistils Used, Snail HP +110<br>Per 10 Maneater Pistils Used, Snail RUSH +11<br>Maneater Pistil(s) used: 400/400
+|ss7=Sunny Plant Food gives 1 Green Pistil by +2.2%<br>Per 10 Maneater Pistils Used, Snail HP +110<br>Per 10 Maneater Pistils Used, Snail RUSH +11<br>Maneater Pistil(s) used: 400/400<br>Sunny Plant Food gives 1 Green Pistil by +2% (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Ignore Water RES +60
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Water DMG +600
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x Orange Card Drops +15%
+|mirage={{Mirage|name=Monet's Garden|reward={{RewardIconWithLink|Sunny Plant Food, +3|orange}}
+|3name=Rose|3rec=3.76M|3atk=48182|3defense=31773|3hp=682725|3weak=11250
+|4name=Water Lilies|4rec=8.50M|4atk=75582|4defense=49842|4hp=1445792|4weak=14934
+|5name=Pond|5rec=17.58M|5atk=111322|5defense=73411|5hp=2798402|5weak=19128
+|Arec=41.82M|Aatk=155795|Adefense=102738|Ahp=5174444|Aweak=25593
+}}}}

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Gilded Snail
+|class_id=21737
+|rank=SSS
+|affct=FAITH
+|source=
+|description=The alloy-crafted, gold-plated snail statue, produced alongside the Golden Snail statue, boasts a perfect 1:1 replica in terms of appearance. Although it lacks some value, it still showcases excellent craftsmanship!
+|fame=66
+|art=55
+|fth=110
+|civ=74
+|tech=57
+|ss1=Snail Leadership +6<br>Per 20k Power, Snail ATK +9<br>Per 20k Power, Snail RUSH +9<br>Power: 600000/600000
+|ss2=Snail Leadership +7<br>Per 20k Power, Snail ATK +12<br>Per 20k Power, Snail RUSH +12<br>Power: 600000/600000
+|ss3=Snail Leadership +8<br>Per 20k Power, Snail ATK +15<br>Per 20k Power, Snail RUSH +15<br>Power: 600000/600000
+|ss4=Snail Leadership +10<br>Per 20k Power, Snail ATK +21<br>Per 20k Power, Snail RUSH +21<br>Power: 600000/600000
+|ss5=Snail Leadership +12<br>Per 20k Power, Snail ATK +27<br>Per 20k Power, Snail RUSH +27<br>Power: 600000/600000
+|ss6=Snail Leadership +15<br>Per 20k Power, Snail ATK +36<br>Per 20k Power, Snail RUSH +36<br>Power: 600000/600000
+|ss7=Snail Leadership +15<br>Per 20k Power, Snail ATK +36<br>Per 20k Power, Snail RUSH +36<br>Power: 600000/600000<br>Snail Leadership +10 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, CRIT DMG +15%
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, B-tads gained +15%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, INTEL gained +15%
+|mirage={{Mirage|name=Shining Snail|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Lead-plated Snail|3rec=0.38M|3atk=9869|3defense=6598|3hp=35564|3weak=2936
+|4name=Iron-plated Snail|4rec=0.83M|4atk=18564|4defense=12411|4hp=126062|4weak=4594
+|5name=Bronze-plated Snail|5rec=1.77M|5atk=30548|5defense=20422|5hp=345083|5weak=7134
+|6name=Silver-plated Snail|6rec=3.58M|6atk=46188|6defense=30878|6hp=713665|6weak=10213
+|Arec=6.78M|Aatk=65904|Adefense=44058|Ahp=1328171|Aweak=12446
+}}}}

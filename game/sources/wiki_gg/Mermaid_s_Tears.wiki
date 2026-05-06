@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Mermaid's Tears
+|class_id=20289
+|rank=Green
+|affct=FAITH
+|source=
+|description=Legend has it that mermaids shed tears only once in their lifetime. These tears, upon meeting the sea, transform into shimmering gemstones of deep blue radiance. The gemstone before you originates from the ocean's depths, once home to the most beautiful mermaid. However, her presence has been absent for quite some time...
+|fame=18
+|art=12
+|fth=31
+|civ=16
+|tech=13
+|ss1=Per 3 Incense used, Snail HP +10<br>Incense Used: 150/150
+|ss2=Per 3 Incense used, Snail HP +20<br>Incense Used: 150/150
+|ss3=Per 3 Incense used, Snail HP +30<br>Incense Used: 150/150
+|ss4=Per 3 Incense used, Snail HP +30<br>Incense Used: 150/150
+|ss7=Per 3 Incense used, Snail HP +30<br>Incense Used: 150/150<br> (Awakened)
+}}

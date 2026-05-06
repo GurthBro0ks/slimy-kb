@@ -1,0 +1,34 @@
+{{CargoRelic
+|name=Winged Victory
+|class_id=21630
+|rank=SSS
+|affct=ART
+|birthday=06-16
+|source=
+|description=On Jun 16, 1863 AD, this statue was unearthed on Samothrace in the northern Aegean Sea.<br>This day, the goddess statue, Nike, appeared for the first time. She helped the gods defeat the Titans, so she is known as the goddess of victory. The overall structure is perfect and vivid, exhibiting superb sculpting skills. She stands atop a base in the shape of a ship's bow, leaning forward against the sea breeze while spreading her wings.
+[Basic Info]
+Date of Creation: ancient Rome
+Height: 2.44 meters
+Collected by: Louvre, France
+|fame=64
+|art=106
+|fth=62
+|civ=74
+|tech=56
+|ss1=Snail HP +300<br>Snail ATK +30<br>Per Sign-In, Snail ATK +6<br>Sign-Ins: 20/20
+|ss2=Snail HP +400<br>Snail ATK +40<br>Per Sign-In, Snail ATK +8<br>Sign-Ins: 20/20
+|ss3=Snail HP +500<br>Snail ATK +50<br>Per Sign-In, Snail ATK +10<br>Sign-Ins: 20/20
+|ss4=Snail HP +700<br>Snail ATK +70<br>Per Sign-In, Snail ATK +14<br>Sign-Ins: 20/20
+|ss5=Snail HP +900<br>Snail ATK +90<br>Per Sign-In, Snail ATK +18<br>Sign-Ins: 20/20
+|ss6=Snail HP +1200<br>Snail ATK +120<br>Per Sign-In, Snail ATK +24<br>Sign-Ins: 20/20
+|ss7=Snail HP +1200<br>Snail ATK +120<br>Per Sign-In, Snail ATK +24<br>Sign-Ins: 20/20<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail ATK +600
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x INTEL Drops +15%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x Green Reagents Drops +15%
+|mirage={{Mirage|name=Salvation of Samothrace|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Kratos Statue|3rec=0.84M|3atk=19287|3defense=12530|3hp=130963|3weak=4660
+|4name=Statue of Bia|4rec=1.79M|4atk=31565|4defense=20507|4hp=357763|4weak=7221
+|5name=Zelus Statue|5rec=3.58M|5atk=47502|5defense=30861|5hp=740678|5weak=10312
+|6name=Pallas Statue|6rec=6.73M|6atk=67592|6defense=43912|6hp=1376480|6weak=12472
+|Arec=11.93M|Aatk=92027|Adefense=59787|Ahp=2357296|Aweak=15126
+}}}}

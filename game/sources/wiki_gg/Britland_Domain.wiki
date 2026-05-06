@@ -1,0 +1,1205 @@
+==Legend==
+{|class=wikitable
+!Type
+!Color Assignment
+|-
+|Event
+|style="background-color:var(--yellow-bg)"|
+|-
+|Snail Battle
+|style="background-color:var(--red-bg)"|
+|-
+|Reward
+|style="background-color:var(--blue-bg)"|
+|-
+|Mine Pit
+|style="background-color:var(--green-bg)"|
+|}
+
+==Tiles==
+{| class="wikitable"
+!rowspan=2;|Tile
+!colspan=3; |First Encounter
+!colspan=2; |Second Encounter
+!rowspan=2;|Notes
+|-
+!Name
+!Troop RUSH required Power
+!Reward
+!Name
+!Reward
+|-
+|style="background-color:var(--?-bg)"|1
+| Domain Butler
+| 7.3M
+| T1 Thundos Medal +3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|2
+| Black Pawn
+| 7.35M
+| T1 Thundos Light +3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|3
+| Black Pawn
+| 7.47M
+| T1 Thundos Core +3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|4
+| Black Pawn
+| 7.59M
+| T1 Thundos Medal +3
+| 
+| 
+| 
+|-
+|style="background-color:var(--blue-bg)"|5
+| Black Bishop
+| 7.96M
+| T1 Thundos medal +3
+| Chess Knowledge Quiz
+| {{RewardIconWithLink|Lewis Chessmen|blue}} +10
+| Answers: B, A, B, C, A
+|-
+|style="background-color:var(--?-bg)"|6
+| Black Knight
+| 7.71M
+| T1 Thundos Light +3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|7
+| Black Knight
+| 7.83M
+| T1 Thundos Core +3
+| 
+| 
+| 
+|-
+|style="background-color:var(--blue-bg)"|8
+| Black Rook
+| 8.34M
+| T1 Thundos Medal +4
+| Locked Chess Box
+| {{RewardIconWithLink|Lottery Ticket|orange}} +5<br>{{RewardIconWithText|Lightning Rune}} +1<br>{{RewardIconWithLink|Thunder Moon}} +1
+| {{RewardIconWithText|Password Note}}: 4113
+|-
+|style="background-color:var(--blue-bg)"|9
+| Black King
+| 8.08M
+| T1 Thundos Light +3
+| King's Diary
+| {{RewardIconWithLink|CIV Master Scroll|orange}} +40
+| 
+|-
+|style="background-color:var(--red-bg)"|10
+| White Pawn
+| 8.21M
+| T1 Thundos Core +3
+| [[#Snail Fights|White Queen]]
+| {{RewardIconWithText|W-Tad}} +1,500
+| After beating the first fight, a [[#Shops|Shop]] will open up. Buying all items in the shop will trigger the second fight. 
+|-
+|style="background-color:var(--red-bg)"|11
+| Black Queen
+| 8.54M
+| T1 Thundos Light +4
+| [[#Snail Fights|Black Queen]]
+| {{RewardIconWithLink|Thunder Moon}} +1
+| 
+|-
+|style="background-color:var(--green-bg)"|12
+| Miner
+| 7.81M
+| T1 Thundos Core +4
+| [[#Mines|Lightning Mine]]
+| 
+| See linked table for mine requirements and rewards
+|-
+|style="background-color:var(--?-bg)"|13
+| White Piece
+| 7.94M
+| T1 Thundos Medal +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|14
+| White Piece
+| 8.06M
+| T1 Thundos Light +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--yellow-bg)"|15
+| Spirit of Fujiwara
+| 8.19M
+| T1 Thundos Core +4
+| Discuss Go Skills
+| {{RewardIconWithLink|Soul Chest}} +100
+| Answers: C, B, B, A, B 
+|-
+|style="background-color:var(--?-bg)"|16
+| White Piece
+| 8.58M
+| T1 Thundos Core +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|17
+| Go Elder
+| 8.80M
+| T1 Thundos Medal +4
+| [[#Snail Fights|Go Elder with Axe]]
+| {{RewardIconWithLink|Gear Chest}} +100<br>{{RewardIconWithText|8h Soul Red|red}} (Soul of Go Elder)
+| 
+|-
+|style="background-color:var(--?-bg)"|18
+| White Piece
+| 8.45M
+| T1 Thundos Light +4
+| 
+| 
+|
+|-
+|style="background-color:var(--red-bg)"|19
+| BetaGo Pro
+| 8.95M
+| T1 Thundos Medal +4
+| [[#Snail Fights|From Go to Brawl]]
+| {{RewardIconWithLink|Thunder Moon}} +1<br>{{RewardIconWithLink|BetaGo|purple}} +20 Fragments
+| 
+|-
+|style="background-color:var(--green-bg)"|20
+| Miner
+| 8.18M
+| T1 Thundos Light +4
+| [[#Mines|Lightning Mine]]
+| 
+|
+|-
+|style="background-color:var(--?-bg)"|21
+| Black Chariot
+| 8.27M
+| T1 Thundos Core +4
+| 
+| 
+|
+|-
+|style="background-color:var(--?-bg)"|22
+| Red Cannon
+| 8.63M
+| T1 Thundos Medal +5
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|23
+| Red Advisor
+| 8.72M
+| T1 Thundos Light +5
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|24
+| Black Cannon
+| 8.36M
+| T1 Thundos Medal +5
+|
+|
+|
+|-
+|style="background-color:var(--?-bg)"|25
+| Horse
+| 8.81M
+| T1 Thundos Core +5
+| 
+| 
+|
+|-
+|style="background-color:var(--red-bg)"|26
+| Red General
+| 9.53M
+| T2 Thundos Light +3
+| [[#Snail Fights|Crushed Worm]]
+| {{RewardIconWithLink|Britland Treasure Map}} +50<br>{{RewardIconWithText|Wood}} +5k
+|
+|-
+|style="background-color:var(--?-bg)"|27
+| Black Advisor
+| 8.45M
+| T1 Thundos Light +5
+|
+|
+|
+|-
+|style="background-color:var(--?-bg)"|28
+| Horse
+| 8.54M
+| T1 Thundos Core +5
+|
+|
+|
+|-
+|style="background-color:var(--yellow-bg)"|29
+| Red Elephant
+| 9.36M
+| T2 Thundos Core +3
+| Learn Chinese Chess Skills
+| {{RewardIconWonderFungusWithText|Purple|CIV|Purple}} +3
+| Answers: B, A, C, B, A
+|-
+|style="background-color:var(--?-bg)"|30
+| Red Advisor
+| 9.45M
+| T2 Thundos Medal +3
+| 
+| 
+|
+|-
+|style="background-color:var(--red-bg)"|31
+| Black General
+| 9.39M
+| T1 Thundos Medal +5
+| [[#Snail Fights|Role Model]]
+| {{RewardIconWithLink|Britland Treasure Map}} +50<br>{{RewardIconWithText|Wood}} +5k
+|
+|-
+|style="background-color:var(--red-bg)"|32
+| Black Elephant
+| 8.99M
+| T1 Thundos Light +5
+| [[#Snail Fights|The Elephant Lover]]
+| |{{RewardIconWithLink|Elephant's Meat, +10|black|Consumables}}<br>{{RewardIconWithLink|Organ Chest}} +100
+| 
+|-
+|style="background-color:var(--?-bg)"|33
+| Black Cannon
+| 9.55M
+| T2 Thundos Light +3
+|
+|
+| 
+|-
+|style="background-color:var(--?-bg)"|34
+| Black Advisor
+| 9.08M
+| T1 Thundos Core +5
+| 
+| 
+|
+|-
+|style="background-color:var(--?-bg)"|35
+| Red Cannon
+| 9.17M
+| T1 Thundos Medal +3
+| 
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|36
+| Soldier
+| 9.82M
+| T2 Thundos Core +3
+| [[#Snail Fights|Soldier across the River]]
+| {{RewardIconWithLink|Thunder Moon}} +1
+|
+|-
+|style="background-color:var(--green-bg)"|37
+| Miner
+| 8.98M
+| T2 Thundos Medal +4
+| [[#Mines|Lightning Mine]]
+| {{RewardIconWithLink|Britland Treasure Map}} +800<br>{{RewardIconWithText|Lightning Rune}} +5<br>{{RewardIconWithLink|Thunder Moon}} +1
+| 
+|-
+|style="background-color:var(--?-bg)"|38
+| Cruiser
+| 9.11M
+| T2 Thundos Light +4 
+| 
+|
+| 
+|-
+|style="background-color:var(--?-bg)"|39
+| Destroyer
+| 9.16M
+| T2 Thundos Core +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--yellow-bg)"|40
+| Nuclear Submarine 
+| 9.34M
+| T2 Thundos Light +4
+| Abandoned Submarine 
+| Display relic: {{RewardIconWithLink|AH602|orange}}
+| ???
+|-
+|style="background-color:var(--?-bg)"|41
+| Destroyer
+| 9.30M
+| T2 Thundos Medal +4
+| 
+| 
+| 
+|-
+|rowspan="3" style="background-color:var(--red-bg)"|42
+| Wave 1 
+| 9.72M
+| T2 Thundos Core +4
+|rowspan="3"| [[#Snail Fights| Assault Aircraft Carrier]]
+|rowspan="3"| {{RewardIconWithLink|Thunder Moon}} +1
+|rowspan="3"|
+|-
+| Wave 2
+| 9.86M
+| T2 Thundos Medal +4
+|-
+| Wave 3
+| 10.01M
+| T2 Thundos Light +4
+|-
+|style="background-color:var(--?-bg)"|43
+| Destroyer
+| 9.53M
+| T2 Thundos Medal +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--yellow-bg)"|44
+| Torpedo Ship
+| 9.48M
+| T2 Thundos Core +4
+| Naval Battle Knowledge Quiz
+| {{RewardIconWithLink|Tool Chest}} +100
+| Answers: C, B, B, A, C, A
+|-
+|style="background-color:var(--?-bg)"|45
+| Destroyer 
+| 10.44M
+| T2 Thundos Light +5
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|46
+| Cruiser
+| 10.15M
+| T2 Thundos Core +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|47
+| Battleship
+| 9.67M
+| T2 Thundos Medal +4
+| [[#Snail Fights|End of the Battleship]]
+| {{RewardIconWithText|Mecha Cell}} +3k
+|
+|-
+|style="background-color:var(--?-bg)"|48
+| Cruiser
+| 10.3M
+| T2 Thundos Medal +5
+| 
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|49
+| Super Ghost Ship
+| 10.59M
+| T2 Thundos Core +5
+| [[#Snail Fights|General Challenge]]
+| {{RewardIconWithLink|Thunder Moon}} +1<br>{{RewardIconWithLink|Ghost Ship Figurehead}}
+| 
+|-
+|style="background-color:var(--green-bg)"|50
+| Miner 
+| 9.67M
+| T2 Thundos Medal +5
+| [[#Mines|Lightning Mine]]
+| {{RewardIconWithLink|Britland Treasure Map}} +800<br>{{RewardIconWithLink|Gear Chest}} +600<br>{{RewardIconWithText|Lightning Rune}} +5
+| 
+|-
+|rowspan="2" style="background-color:var(--?-bg)"|51
+| Keima
+| 9.82M
+| T2 Thundos Light +5
+|rowspan="2"|
+|rowspan="2"| 
+|rowspan="2"|
+|-
+| O
+| 9.96M
+| T2 Thundos Core +5
+|-
+|rowspan="2" style="background-color:var(--?-bg)"|52
+| Hyosha
+| 10.01M
+| T3 Thundos Medal +3
+|rowspan="2"|
+|rowspan="2"| 
+|rowspan="2"| 
+|-
+| S
+| 10.16M
+| T3 Thundos Light +3
+|-
+|rowspan="2" style="background-color:var(--?-bg)"|53
+| Hyosha
+| 10.2M
+| T3 Thundos Core +3
+|rowspan="2"|
+|rowspan="2"| 
+|rowspan="2"| 
+|-
+| S
+| 10.35M
+| T3 Thundos Badge +3
+|-
+|rowspan="2" style="background-color:var(--?-bg)"|54
+| Keima
+| 10.7M
+| T3 Thundos Badge +4
+|rowspan="2"|
+|rowspan="2"| 
+|rowspan="2"| 
+|-
+| O
+| 10.85M
+| T3 Thundos Light +4
+|-
+|style="background-color:var(--?-bg)"|55
+| Ginsho
+| 10.4M
+| T3 Thundos Light +3
+| [[#Snail Fights|Confrontation]]
+| {{RewardIconWithLink|Ancient Coin}} +300
+| 
+|-
+|style="background-color:var(--yellow-bg)"|56
+| Kinsho
+| 10.55M
+| T3 Thundos Core +3
+| Shogi Knowledge Quiz
+| {{RewardIconWithLink|Wish Coin|orange}} +2
+| Answers: C, A, B, B, A
+|-
+|rowspan="2" style="background-color:var(--red-bg)"|57
+| Hisha
+| 11.1M
+| T3 Thundos Core +4
+|rowspan="2"|[[#Snail Fights|The Last Dragon King]] 
+|rowspan="2"|{{RewardIconWithLink|Thunder Moon}} +1<br>{{RewardIconWithLink|Dragon Chest|orange}} +100
+|rowspan="2"| 
+|-
+| Dragon King
+| 11.25M
+| T3 Thundos Badge +4
+|-
+|style="background-color:var(--green-bg)"|58
+| Miner
+| 10.28M
+| T3 Thundos Light +4
+| [[#Mines|Lightning Mine]]
+| {{RewardIconWithText|B-Tad}} +21.6k<br>{{RewardIconWithLink|Britland Treasure Map}} +960<br>{{RewardIconWithText|Lightning Rune}} +6
+| 
+|-
+|style="background-color:var(--yellow-bg)"|59
+| White Aircraft
+| 10.43M
+| T3 Thundos Core +4
+| Fallen Aircraft
+| {{RewardIconWithLink|Super Mutant Biceps|orange}}
+| Give {{RewardIconWithText|Anti-Gachi Jet Oil}} from Tile 71
+|-
+|style="background-color:var(--?-bg)"|60
+| Red Wingman
+| 10.58M
+| T3 Thundos Core +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|61
+| Red Leader
+| 11.71M
+| T3 Thundos Core +5
+| [[#Snail Fights|Dogfight]]
+| {{RewardIconWithLink|Golden Abs|blue}}<br>{{RewardIconWithLink|AR2-T1|green}}
+| 
+|-
+|style="background-color:var(--?-bg)"|62
+| Red Wingman
+| 10.73M
+| T3 Thundos Light +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|63
+| Blue Leader
+| 11.76M
+| T3 Thundos +5
+| [[#Snail Fights|Dogfight]]
+| {{RewardIconWithLink|Golden Abs|blue}}<br>{{RewardIconWithLink|AR2-T2|blue}}
+| 
+|-
+|style="background-color:var(--?-bg)"|64
+| Blue Wingman
+| 10.88M
+| T3 Thundos +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|65
+| Green Wingman
+| 10.56M
+| T3 Thundos Light +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|66
+| Blue Wingman
+| 11.04M
+| T3 Thundos Medal +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|67
+| Green Wingman
+| 10.71M
+| T3 Thundos Core +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|68
+| Green Leader
+| 11.81M
+| T3 Thundos Core +5
+| [[#Snail Fights|Dogfight]]
+| {{RewardIconWithLink|Golden Abs|blue}}<br>{{RewardIconWithLink|AR2-T1|green}}
+| 
+|-
+|style="background-color:var(--?-bg)"|69
+| Yellow Wingman
+| 10.86M
+| T3 Thundos badge +5
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|70
+| Yellow Wingman
+| 11.02M
+| T3 Thundos Light +5
+| 
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|71
+| Air Traffic Controller
+| 12.13M
+| T4 Thundos Medal +3
+| [[#Snail Fights|Capture Air Traffic Controller]]
+| {{RewardIconWithText|Password Note}} (Tile 8)<br>{{RewardIconWithText|Anti-Gachi Jet Oil}} (Tile 59)<br>{{RewardIconWithText|Mecha Cell}} +6k
+| 7 Floor Battle Tower
+|-
+|style="background-color:var(--yellow-bg)"|72
+| Yellow Leader
+| 11.86M
+| T3 Thundos Core +5
+| Aeronautical Knowledge Quiz 
+| {{RewardIconWithLink|Flyer I|blue}} +10<br>{{RewardIconWithLink|TECH Master Scroll, +40|orange}}
+| Answers: B, C, C, A, B, C
+|-
+|style="background-color:var(--red-bg)"|73
+| Planet Destroyer
+| 12.18M
+| T4 Thundos Light +3
+| [[#Snail Fights|Match of Muscles]]
+| {{RewardIconWithLink|Thunder Moon}} +1
+| 
+|-
+|style="background-color:var(--green-bg)"|74
+| Miner
+| 11.02M
+| T4 Thundos Core +3
+| [[#Mines|Lightning Mine]]
+| {{RewardIconWithLink|Britland Treasure Map}} +960<br>{{RewardIconWithLink|Lottery Ticket|orange}} +20<br>{{RewardIconWithText|Lightning Rune}} +6
+| 
+|-
+|style="background-color:var(--?-bg)"|75
+| Infantry
+| 11.07M
+| T4 Thundos Medal +3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|76
+| Infantry
+| 11.12M
+| T4 Thundos Light +3
+| 
+|
+| 
+|-
+|style="background-color:var(--?-bg)"|77
+| Infantry
+| 11.27M
+| T4 Thundos Core +3
+| 
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|78
+| Sniper
+| 11.43M
+| T4 Thundos Medal +4
+| [[#Snail Fights|Exposed Sniper]]
+| {{RewardIconWithText|Green Coating|green}} +100
+| 
+|-
+|style="background-color:var(--?-bg)"|79
+| Infantry
+| 11.59M
+| T4 Thundos Light +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|80
+| Infantry
+| 11.75M
+| T4 Thundos Core +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--yellow-bg)"|81
+| Military Police
+| 11.92M
+| T4 Thundos Medal +4
+| Restricted Military Area
+| ???
+| Display [[Medal of Honor#Mirage: Bald Eagle's Claw|Eisenhower]] Avatar (6 Star Medal of Honor Mirage)
+|-
+|style="background-color:var(--yellow-bg)"|82
+| Convoy
+| 12.08M
+| T4 Thundos Light +4
+| [[#Shops|Shop]]
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|83
+| Infantry
+| 12.81M
+| T4 Thundos Core +4
+| [[#Snail Fights|Energy Palms]]
+| {{RewardIconWithLink|Gear RF|orange}} +5
+| 
+|-
+|style="background-color:var(--red-bg)"|84
+| Ground Mecha
+| 12.64M
+| T4 Thundos Medal +4
+| [[#Snail Fights|Showdown]]
+| {{RewardIconWithLink|Thunder Moon}} +1
+| 
+|-
+|style="background-color:var(--green-bg)"|85
+| Miner
+| 11.53M
+| T4 Thundos Light +4
+| [[#Mines|Lightning Mine]]
+| {{RewardIconWithLink|Britland Treasure Map}} +1200<br>{{RewardIconWithText|Lightning Rune}} +8<br>{{RewardIconWithLink|Thunder Moon}} +1
+| 
+|-
+|style="background-color:var(--?-bg)"|86
+| Domain Butler
+| 11.58M
+| T4 Thundos Core +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|87
+| Koryeon Power Tower
+| 11.74M
+| T4 Thundos Medal +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|88
+| Yamato Power Tower
+| 11.91M
+| T4 Thundos Light +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|89
+| Cathay Power Tower
+| 12.07M
+| T4 Thundos Core +4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|90
+| Murika Power Tower
+| 12.24M
+| T4 Thundos Medal +5
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|91
+| Britland Power Tower
+| 12.40M
+| T4 Thundos Light +5
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|92
+| Kemet Power Tower
+| 12.57M
+| T4 Thundos Core +5
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|93
+| Hellenic Power Tower
+| 12.74M
+| T4 Thundos Medal +5
+| 
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|94
+| Bharata Power Tower
+| 12.91M
+| T4 Thundos Medal +5
+| [[#Snail Fights|End of the Butler]]
+| {{RewardIconWithLink|Incense, +1|orange}}<br>{{RewardIconWithLink|Rubber Suit|green}}
+| 
+|-
+|style="background-color:var(--red-bg)"|95
+| Thundos
+| 13.2M
+| T4 Thundos Core +5
+| [[#Snail Fights|Thundos' Broken Helmet]]
+| {{RewardIconWithLink|Thunder Moon}} +1<br>{{RewardIconWithLink|Thundos' Head|green}}
+| Make sure to activate and upgrade the {{RewardIconWithLink|Rubber Suit|green}} relic prior to fighting.<br>Speaking to MBoard after beating Thundos rewards Demon Chest +50.
+|-
+|}
+
+== Snail Fights ==
+<tabber>
+|-|General=
+{| class="wikitable"
+!Name !!Tile !!ATK !!DEF !!HP !!RUSH !!Special Stats !!Rewards
+|-
+|White Queen
+|10
+|74,235
+|49,490
+|1,785,448
+|AFFCT 92,600
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithText|W-Tad}} +1.5k
+|-
+|Black Queen
+|11
+|68,250
+|45,500
+|1,744,775
+|AFFCT 88,675
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Thunder Moon}} +1
+|-
+|Go Elder
+|17
+|69,132
+|46,088
+|1,623,783
+|AFFCT 89,260
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Gear Chest}} +100<br>{{RewardIconWithText|8h Soul Red|red}} (Soul of Go Elder)
+|-
+|BetaGo Pro
+|19
+|69,720
+|46,480
+|1,778,458
+|AFFCT 89,650
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Thunder Moon}} +1<br>{{RewardIconWithLink|BetaGo|purple}} +20 Fragments
+|-
+|Red General
+|26
+|70,602
+|50,430
+|1,608,810
+|AFFCT 90,235
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Britland Treasure Map}} +50<br>{{RewardIconWithText|Wood}} +5k
+|-
+|Black General
+|31
+|70,602
+|50,430
+|1,608,810
+|AFFCT 90,235
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Britland Treasure Map}} +50<br>{{RewardIconWithText|Wood}} +5k
+|-
+|Prodigy Chong
+|32
+|71,660
+|51,186
+|1,685,858
+|AFFCT 90,937
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Elephant's Meat|black|Consumables}} +10<br>{{RewardIconWithLink|Organ Chest}} +100
+|-
+|Solider
+|36
+|72,072
+|51,480
+|1,770,616
+|AFFCT 91,210
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Thunder Moon}} +1
+|-
+|Aircraft Carrier
+|42
+|72,072
+|48,048
+|1,745,034
+|AFFCT 91,210
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Thunder Moon}} +1
+|-
+|Battleship
+|47
+|82,368
+|49,280
+|1,806,226
+|AFFCT 92,400
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithText|Mecha Cell}} +3k
+|-
+|Battleship
+|49
+|75,180
+|46,540
+|2,071,432
+|AFFCT 93,200
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Thunder Moon}} +1<br>{{RewardIconWithLink|Ghost Ship Figurehead}}
+|-
+|Ginsho
+|55
+|75,495
+|50,330
+|1,952,889
+|AFFCT 93,400
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Ancient Coin}} +300
+|-
+|Dragon King
+|57
+|76,125
+|50,750
+|2,002,623
+|AFFCT 93,795
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Thunder Moon}} +1<br>{{RewardIconWithLink|Dragon Chest|orange}} +100
+|-
+|Red Leader
+|61
+|77,070
+|51,380
+|1,894,074
+|AFFCT 94,380
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Golden Abs|blue}}<br>{{RewardIconWithLink|AR2-T1|green}}
+|-
+|Blue Leader
+|63
+|78,015
+|52,010
+|1,913,700
+|AFFCT 94,965
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Golden Abs|blue}}<br>{{RewardIconWithLink|AR2-T2|blue}}
+|-
+|Green Leader
+|68
+|78,645
+|52,430
+|1,926,787
+|AFFCT 95,355
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Golden Abs|blue}}<br>{{RewardIconWithLink|AR2-T1|green}}
+|-
+|Planet Destroyer
+|73
+|79,611
+|53,074
+|2,087,768
+|AFFCT 95,940
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Thunder Moon}} +1
+|-
+|Sniper
+|78
+|80,588
+|53,725
+|1,951,467
+|AFFCT 96,525
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithText|Green Coating|green}} +100
+|-
+|Hyakutaro
+|83
+|99,855
+|66,570
+|2,818,940
+|AFFCT 107,400
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Gear RF|orange}} +5
+|-
+|Mecha Pilot
+|84
+|10,000
+|10,000
+|100,000
+|AFFCT 49,850
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Thunder Moon}} +1
+|-
+|Bharata Power Tower
+|94
+|81,564
+|54,376
+|2,154,583
+|AFFCT 97,110
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Incense, +1|orange}}<br>{{RewardIconWithLink|Rubber Suit|green}}
+|-
+|Thundos
+|95
+|82,500
+|55,000
+|12,000,000
+|AFFCT 97,850
+|CRIT +100%<br> Crit DMG -50%<br> HIT +80<br> Paralysis RES +80%
+|{{RewardIconWithLink|Thunder Moon}} +1<br>{{RewardIconWithLink|Thundos' Head|green}}
+|-
+|}
+|-|Air Traffic Controller=
+{|class="wikitable"
+!Name !!ATK !!DEF !!HP !!RUSH !!Special Stats !!Rewards
+|-
+|rowspan="7"| Controller Guard
+| 71,778
+| 47,852
+| 1,408,738
+| AFFCT 91,015
+| HIT +50, Paralysis RES +50%
+| {{RewardIconWithText|Mecha Manual}} +10
+|-
+| 73,290
+| 48,860
+| 1,526,231
+| AFFCT 92,000
+| HIT +50, Paralysis RES +50%
+| {{RewardIconWithText|Mecha Manual}} +13
+|-
+| 74,550
+| 49,700
+| 1,639,414
+| AFFCT 92,800
+| HIT +50, Paralysis RES +50%
+| {{RewardIconWithText|Mecha Manual}} +16
+|-
+| 76,125
+| 50,750
+| 1,762,309
+| AFFCT 93,795
+| HIT +50, Paralysis RES +50%
+| {{RewardIconWithText|Mecha Manual}} +20
+|-
+| 77,385
+| 51,590
+| 1,868,126
+| AFFCT 94,575
+| HIT +50, Paralysis RES +50%
+| {{RewardIconWithText|Mecha Manual}} +23
+|-
+| 78,645
+| 52,430
+| 1,976,192
+| AFFCT 95,355
+| HIT +50, Paralysis RES +50%
+| {{RewardIconWithText|Mecha Manual}} +26
+|-
+| 80,262
+| 53,508
+| 2,110,025
+| AFFCT 96,330
+| HIT +50, Paralysis RES +50%
+| {{RewardIconWithText|Mecha Manual}} +30
+|-
+|}
+</tabber>
+
+== Shops ==
+<tabber>
+|-|Tile 10=
+{| class="wikitable"
+!Item !!Cost in {{RewardIconWithText|W-Tad}}
+|-
+|{{RewardIconWithLink|Lottery Ticket, +2|orange}}
+|500
+|-
+|{{RewardIconWithLink|Britland Treasure Map, +50}}
+|300
+|-
+|{{RewardIconWithText|Zombie Cell, +1k}}
+|150
+|-
+|{{RewardIconWithText|Wood, +1k}}
+|150
+|-
+|{{RewardIconWithText|Stone, +1k}}
+|150
+|-
+|{{RewardIconWithLink|Stargazy Pie, +300|black|Consumables}}
+|20
+|}
+
+|-|Tile 82={| class="wikitable"
+!Item !!Cost in {{RewardIconWithText|B-Tad}}
+|-
+|{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|40k
+|-
+|{{RewardIconWithLink|Tool Chest, +100}}
+|40k
+|-
+|{{RewardIconWithLink|Matrix Motherboard}}<br>({{Retext|Can be used to upgrade [[Time Machine Mboard]]<br>enabling [[Control Panel]]|blue}})
+|100k
+|-
+|{{RewardIconWithLink|Thunder Moon}} +1
+|50k
+|-
+|{{RewardIconWonderFungusWithText|Orange, +1|HP|orange}} 
+|20k
+|-
+|{{RewardIconWithLink|Pyramid Card}}
+|10k
+|}
+</tabber>
+
+== Mines ==
+{| class="wikitable"
+! Tile !! Minions Required!! Rewards !! Time
+|-
+|12
+|T6 x60
+|Britland Treasure Map x720<br>Wormhole Refiner x600<br>Lightning Rune x4
+|1d 20m
+|-
+|20
+|T6 x60
+|Britland Treasure Map x720<br>Lottery Ticket x16<br>Lightning Rune x4
+|1d 20m
+|-
+|37
+|T6 x60
+|Britland Treasure Map x800<br>Lightning Rune x5<br>{{RewardIconWithLink|Thunder Moon}} +1
+|1d 3h 50m
+|-
+|50
+|T6 x60
+|Britland Treasure Map x800<br> Gear Chest x600<br> Lightning Rune x5
+|1d 3h 50m
+|-
+|58
+|T6 x60
+|21.6k B-Tads<br> Britland Treasure Map x960<br> Lightning Rune x6
+|1d 8h 20m
+|-
+|74
+|T6 x60
+|Britland Treasure Map x960<br> Lottery Ticket x20<br> Lightning Rune x6
+|1d 7h 20m
+|-
+|85
+|T6 x60
+|Britland Treasure Map x1200<br> Lightning Rune x8<br> {{RewardIconWithLink|Thunder Moon}} +1
+|1d 10h 45m
+|-
+|}
+
+== Moon Shop ==
+
+{| class="wikitable"
+!Item !!Cost
+|-
+|{{Retext|T3 Thundos Medal|blue}} +50
+|{{RewardIcon|Thunder Moon}}
+|-
+|{{Retext|T3 Thundos Light|blue}} +50
+|{{RewardIcon|Thunder Moon}}
+|-
+|{{Retext|T3 Thundos Core|blue}} +50
+|{{RewardIcon|Thunder Moon}}
+|-
+|{{RewardIconWithLink|Wormhole Refiner, +400}}
+|{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}
+|-
+|{{RewardIconWithLink|Dragon Orb, +1|orange}}
+|{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}
+|-
+|{{RewardIconWithText|Clone Speedup, +2d}}
+|{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}
+|-
+|{{RewardIconWithText|B-Tad, +250k}}
+|{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}
+|-
+|{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}
+|-
+|After Domain is 100%<br>{{RewardIconWithText|Britland Nebula Pack|orange}} ({{RewardIconWithLink|Quantum Gel, +1k}} and {{RewardIconWithLink|Singularity Crystal, +1|orange}})
+|{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}{{RewardIcon|Thunder Moon}}
+|}
+[[Category:Britland Domain]]

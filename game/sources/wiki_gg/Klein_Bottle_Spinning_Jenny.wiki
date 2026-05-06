@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Klein Bottle,Spinning Jenny
+|rank=blue
+|amount=2
+|category=other
+|description=Lottery White Beads turn to Green by +1%
+}}
+[[Category:Other]]
+[[Category:Lottery Bead Color Change]]

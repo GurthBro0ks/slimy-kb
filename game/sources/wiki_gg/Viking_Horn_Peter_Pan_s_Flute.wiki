@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Viking Horn,Peter Pan's Flute
+|rank=blue
+|amount=2
+|category=self
+|description=Snail RUSH +50
+}}
+[[Category:Self]]

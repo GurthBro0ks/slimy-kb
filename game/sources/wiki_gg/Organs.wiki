@@ -1,0 +1,214 @@
+{{Missing Info|specifics=Recycling costs for Purple, Orange, and Red organs}}
+
+[[File:Gene Page.png|right|frameless]]
+Organs are a set of items that can be obtained through various sources and provide permanent buffs, in the same way as [[relics]]. Once obtained and transplanted, organs will always be active. There are no restrictions to the number of organs that a player can have. All the organs that have been obtained can be viewed by tapping the Gene button in the stats page and selecting the origin form. As green organs are transplanted, the origin form will visually change.
+
+Green organs are obtained naturally as the player evolves the initial Devouring/Muscle/Brian/Vision/Neuron [[Evolution#Early_Upgrades|parts]]. It is impossible to obtain multiple copies of these. Other organs can be obtained through {{RewardIconWithLink|Organ Chest}}, the weekly [[Weekly_Events#Supreme_Feast|feast]], and many other places. The sources for each organ are listed on their individual pages.
+
+== Transplanting Organs ==
+Before taking effect, an organ must be transplanted. Once transplanted, all Organ HARD Stats and effects apply to all forms unless stated otherwise. Below are the B-tad costs for transplanting organs.
+{| class="wikitable"
+|style="background-color:var(--green-bg);" |Green Organs
+|1.0k {{RewardIconWithText|B-Tad}}
+|-
+|style="background-color:var(--blue-bg);" |Blue Organs
+|1.5k {{RewardIconWithText|B-Tad}}
+|-
+|style="background-color:var(--purple-bg);" |Purple Organs
+|6.0k {{RewardIconWithText|B-Tad}}
+|-
+|style="background-color:var(--orange-bg);" |Orange Organs
+|12k {{RewardIconWithText|B-Tad}}
+|-
+|style="background-color:var(--red-bg);" |Red Organs
+|50k {{RewardIconWithText|B-Tad}}
+|}
+
+== Evolving Organs ==
+Once an organ is transplanted, additional copies of it can be used to increase the stats and effect of the organ. The maximum grade differs based on organ rarity, and evolving to grades higher than 10 costs multiple copies of the organ per evolution. These evolutions cost both black tadpoles and organ slime.<br>''Green Organs can not be evolved.''
+{| class="wikitable"
+|-
+| colspan="4" style="text-align:center; background-color:var(--blue-bg);" |Blue Organs
+|-
+|Grades 1-10
+|1 Organ
+|10 {{RewardIconWithText|Organ Slime}}
+|1k {{RewardIconWithText|B-Tad}}
+|-
+| colspan="4" style="text-align:center; background-color:var(--purple-bg);" |Purple Organs
+|-
+|Grades 1-10
+|1 Organ
+|20 {{RewardIconWithText|Organ Slime}}
+|3k {{RewardIconWithText|B-Tad}}
+|-
+|Grades 11-20
+|2 Organ
+|50 {{RewardIconWithText|Organ Slime}}
+|5k {{RewardIconWithText|B-Tad}}
+|-
+|-
+| colspan="4" style="text-align:center; background-color:var(--orange-bg);" |Orange Organs
+|-
+|Grades 1-10
+|1 Organ
+|30 {{RewardIconWithText|Organ Slime}}
+|5k {{RewardIconWithText|B-Tad}}
+|-
+|Grades 11-20
+|2 Organ
+|80 {{RewardIconWithText|Organ Slime}}
+|20k {{RewardIconWithText|B-Tad}}
+|-
+|Grades 21-30
+|3 Organ
+|150 {{RewardIconWithText|Organ Slime}}
+|100k {{RewardIconWithText|B-Tad}}
+|-
+|-
+| colspan="4" style="text-align:center; background-color:var(--red-bg);" |Red Organs
+|-
+|Grades 1-10
+|1 Organ
+|40 {{RewardIconWithText|Organ Slime}}
+|6k {{RewardIconWithText|B-Tad}}
+|-
+|Grades 11-20
+|2 Organ
+|120 {{RewardIconWithText|Organ Slime}}
+|25k {{RewardIconWithText|B-Tad}}
+|-
+|Grades 21-30
+|3 Organ
+|250 {{RewardIconWithText|Organ Slime}}
+|150k {{RewardIconWithText|B-Tad}}
+|-
+|Grades 31-40
+|4 Organ
+|600 {{RewardIconWithText|Organ Slime}}
+|1M {{RewardIconWithText|B-Tad}}
+|}
+
+== Organ Recycling ==
+After fully evolving the Devouring, Muscle, Brian, Vision, and Neuron Parts, the ability to recycle extra organs will be unlocked. This can be done using the device on the top right of the origin form's page (the same page where transplanted organs are shown). Once an organ is raised to the maximum tier, any additional copies of that organ can be recycled into organ slime.
+{| class="wikitable"
+|style="background-color:var(--blue-bg);" |Blue Organs
+|10 {{RewardIconWithText|Organ Slime}}
+|-
+|style="background-color:var(--purple-bg);" |Purple Organs
+|20 {{RewardIconWithText|Organ Slime}}
+|-
+|style="background-color:var(--orange-bg);" |Orange Organs
+|? {{RewardIconWithText|Organ Slime}}
+|-
+|style="background-color:var(--red-bg);" |Red Organs
+|? {{RewardIconWithText|Organ Slime}}
+|}
+
+<tabber>
+|-|Green Organs=
+{| class="wikitable" style="text-align:center"
+|-
+|1||2||3||4||5
+|- style="background-color:var(--green-bg)"
+|{{ImageWithLinkAndBreak|Devourer Fang|black|75}}||{{ImageWithLinkAndBreak|Thorny Skin|black|75}}||{{ImageWithLinkAndBreak|Psychic Aura|black|75}}||{{ImageWithLinkAndBreak|Night Vision Eye|black|75}}||{{ImageWithLinkAndBreak|Quantum Neuron|black|75}}
+|-
+|6||7||8||9||10
+|- style="background-color:var(--green-bg)"
+|{{ImageWithLinkAndBreak|Zombie's Fang|black|75}}||{{ImageWithLinkAndBreak|Evil Pattern|black|75}}||{{ImageWithLinkAndBreak|Super Motor Cortex|black|75}}||{{ImageWithLinkAndBreak|Crystal Insect Eye|black|75}}||{{ImageWithLinkAndBreak|Super Nerve Fiber|black|75}}
+|-
+|11||12||13||14||15
+|- style="background-color:var(--green-bg)"
+|{{ImageWithLinkAndBreak|Active Enzyme|black|75}}||{{ImageWithLinkAndBreak|Hard Horns|black|75}}||{{ImageWithLinkAndBreak|Super Sensory Cortex|black|75}}||{{ImageWithLinkAndBreak|HS Iris|black|75}}||{{ImageWithLinkAndBreak|Super Cell|black|75}}
+|}
+
+|-|Blue Organs=
+{| class ="wikitable" style="text-align:center;"
+|-
+|16||17||18||19||20
+|- style="background-color:var(--blue-bg);" 
+|{{ImageWithLinkAndBreak|Bewitching Eye|black|75}}||{{ImageWithLinkAndBreak|Golden Abs|black|75}}||{{ImageWithLinkAndBreak|Lava Gallbladder|black|75}}||{{ImageWithLinkAndBreak|Silicone Gel Implant|black|75}}||{{ImageWithLinkAndBreak|Bio-Nuke Battery|black|75}}
+|-
+|21||22||23||24||25
+|- style="background-color:var(--blue-bg);" 
+|{{ImageWithLinkAndBreak|Licker's Tongue|black|75}}||{{ImageWithLinkAndBreak|Chameleon Scales|black|75}}||{{ImageWithLinkAndBreak|HF Pacemaker|black|75}}||{{ImageWithLinkAndBreak|Fire Slug's Eye|black|75}}||{{ImageWithLinkAndBreak|Salamander's Tail|black|75}}
+|-
+|26||27||28||29||30
+|- style="background-color:var(--blue-bg);" 
+|{{ImageWithLinkAndBreak|White's Pegleg|black|75}}||{{ImageWithLinkAndBreak|Big Guy Park's Chest Hair|black|75}}||{{ImageWithLinkAndBreak|General Xiahou D.'s Eye|black|75}}||{{ImageWithLinkAndBreak|Brainworm Neuron|black|75}}||{{ImageWithLinkAndBreak|Sored Fish Tail|black|75}}
+|}
+
+|-|Purple Organs=
+{| class="wikitable" style="text-align: center;"
+|-
+|31||32||33||34||35
+|- style="background-color:var(--purple-bg)"
+|{{ImageWithLinkAndBreak|Infrared Eye|black|75}}||{{ImageWithLinkAndBreak|Lucky Phalange|black|75}}||{{ImageWithLinkAndBreak|Mutated Tentacle|black|75}}||{{ImageWithLinkAndBreak|Unidentified Kidney|black|75}}||{{ImageWithLinkAndBreak|Mecha Gut|black|75}}
+|-
+|36||37||38||39||40
+|- style="background-color:var(--purple-bg)"
+|{{ImageWithLinkAndBreak|Demon Lord's Tailbone|black|75}}||{{ImageWithLinkAndBreak|Crimson Dragon Scale|black|75}}||{{ImageWithLinkAndBreak|Crystalized Rib|black|75}}||{{ImageWithLinkAndBreak|Siphoning Mouthparts|black|75}}||{{ImageWithLinkAndBreak|Domain Hub|black|75}}
+|-
+|41||42||43||44||45
+|- style="background-color:var(--purple-bg)"
+|{{ImageWithLinkAndBreak|Antigravity Bone|black|75}}||{{ImageWithLinkAndBreak|Dark Matter's Heart|black|75}}||{{ImageWithLinkAndBreak|Demon Spine|black|75}}||{{ImageWithLinkAndBreak|Warp Horn|black|75}}||{{ImageWithLinkAndBreak|Eden Neuron|black|75}}
+|-
+|46||47||48||49||50
+|- style="background-color:var(--purple-bg)"
+|{{ImageWithLinkAndBreak|Subatomic Carapace|black|75}}||{{ImageWithLinkAndBreak|Polymer Vibrating Claws|black|75}}||{{ImageWithLinkAndBreak|MDS Synapse|black|75}}||{{ImageWithLinkAndBreak|Pulse Fangs|black|75}}||{{ImageWithLinkAndBreak|Plasma Iris|black|75}}
+|-
+|51||52||53||54||55
+|- style="background-color:var(--purple-bg)"
+|{{ImageWithLinkAndBreak|Whiteplume Ears|black|75}}||{{ImageWithLinkAndBreak|Myofiber Wings|black|75}}||{{ImageWithLinkAndBreak|Duneclaw|black|75}}||{{ImageWithLinkAndBreak|Subsonar|black|75}}||{{ImageWithLinkAndBreak|Flexiblade|black|75}}
+|}
+
+|-|Orange Organs=
+{|class="wikitable" style="text-align:center;"
+|-
+|56||57||58||59||60
+|- style="background-color:var(--orange-bg)"
+|{{ImageWithLinkAndBreak|Death Claw|black|75}}||{{ImageWithLinkAndBreak|Strength Crystal|black|75}}||{{ImageWithLinkAndBreak|Savant Eye|black|75}}||{{ImageWithLinkAndBreak|Demon Skull|black|75}}||{{ImageWithLinkAndBreak|Surya's Heart|black|75}}
+|-
+|61||62||63||64||65
+|- style="background-color:var(--orange-bg)"
+|{{ImageWithLinkAndBreak|Universe Energy Cube|black|75}}||{{ImageWithLinkAndBreak|Super Mutant Biceps|black|75}}||{{ImageWithLinkAndBreak|Psychic Pituitary|black|75}}||{{ImageWithLinkAndBreak|Golden Eyelashes|black|75}}||{{ImageWithLinkAndBreak|Scarlet Sting|black|75}}
+|-
+|66||67||68||69||70
+|- style="background-color:var(--orange-bg)"
+|{{ImageWithLinkAndBreak|Draco Core|black|75}}||{{ImageWithLinkAndBreak|Spiketongue|black|75}}||{{ImageWithLinkAndBreak|Hellhoof|black|75}}||{{ImageWithLinkAndBreak|Xenotail|black|75}}||{{ImageWithLinkAndBreak|Rubyclaw|black|75}}
+|-
+|71||72||73||74||75
+|- style="background-color:var(--orange-bg)"
+| ? || ? || ? || ? || ?
+|}
+
+|-|Red Organs=
+{| class="wikitable" style="text-align:center;"
+|-
+|76||77||78||79||80
+|- style="background-color:var(--red-bg)"
+|{{ImageWithLinkAndBreak|Golden Wings|black|75}}||{{ImageWithLinkAndBreak|Capricorn Horn|black|75}}||{{ImageWithLinkAndBreak|Dawn Eye|black|75}}||{{ImageWithLinkAndBreak|Eternal Scale|black|75}}||{{ImageWithLinkAndBreak|Dimensional Energy Cube|black|75}}
+|-
+|81||82||83||84||85
+|- style="background-color:var(--red-bg)"
+|{{ImageWithLinkAndBreak|Ultimate Mouthparts|black|75}}||{{ImageWithLinkAndBreak|Ultimate Body|black|75}}||{{ImageWithLinkAndBreak|Ultimate Brain|black|75}}||{{ImageWithLinkAndBreak|Ultimate Vision|black|75}}||{{ImageWithLinkAndBreak|Ultimate Neuron|black|75}}
+|-
+|86||87||88||89||90
+|- style="background-color:var(--red-bg)"
+|{{ImageWithLinkAndBreak|Krost's Ommateum|black|75}}||{{ImageWithLinkAndBreak|Izanami's Fish Tail|black|75}}||{{ImageWithLinkAndBreak|Rurik's Shell|black|75}}||{{ImageWithLinkAndBreak|Douglas' Tooth|black|75}}||{{ImageWithLinkAndBreak|Scythe of Kung Fucius|black|75}}
+|-
+|91||92||93||94||95
+|- style="background-color:var(--red-bg)"
+|{{ImageWithLinkAndBreak|Traveler Liver|black|75}}||{{ImageWithLinkAndBreak|Traveler Pancreas|black|75}}||{{ImageWithLinkAndBreak|Traveler Gallbladder|black|75}}||{{ImageWithLinkAndBreak|Traveler Spleen|black|75}}||{{ImageWithLinkAndBreak|Traveler Spinal Cord|black|75}}
+|-
+|96||97||98||99||100
+|- style="background-color:var(--red-bg)"
+|{{ImageWithLinkAndBreak|Spine of Gaia|black|75}}||{{ImageWithLinkAndBreak|Alveolus of Gaia|black|75}}||{{ImageWithLinkAndBreak|Tonsil of Gaia|black|75}}||{{ImageWithLinkAndBreak|Cochlea of Gaia|black|75}}||{{ImageWithLinkAndBreak|Adrenal Glands of Gaia|black|75}}
+|}
+</tabber>
+
+== Organ Slime ==
+[[File:Organ Slime.png|right|frameless]]
+Organ slime is an item that is required to evolve organs. It can be obtained from opening {{RewardIconWithLink|Organ Chest}}, making [[Lottery Machine|lottery]] draws, or from recycling organs.
+
+[[Category:Organs]]

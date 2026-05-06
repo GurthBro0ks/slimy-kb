@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Agris Gold Helmet,Ford Model T,Cats Musical,Feng Qinshan Stele,Nicomachean Ethics,Galileo's Telescope
+|rank=orange
+|amount=6
+|category=self
+|description=Per 100 times Ultimate Weapons forged, Snail ATK +12; Ultimate Weapons forged: 6,000/6,000
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Black Book,Nuclear Bomb,Watt Steam Engine,Antimatter Bomb,Higgs Boson,Aegis System
+|rank=orange
+|amount=6
+|category=self
+|description=Per 120 Supreme Points, Snail ATK +12<br>Supreme Points: 12,000/12,000
+}}
+[[Category:Self]]

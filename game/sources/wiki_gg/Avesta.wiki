@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Avesta
+|class_id=22286
+|rank=SSS
+|affct=FTH
+|birthday=04-14
+|source=Daily Silver Pack #7
+|description=On Apr 14, 395 BC, the religious texts of Zoroastrianism, Avesta, were compiled into a book.<br>Avesta is the most important collection of religious texts of Zoroastrianism. It mainly describes the dualism of goodness and evil, showing the conflict between the gods of the two sides and the conclusion that goodness will eventually win over evil. According to its theory, believers should adhere to the three principles of good thoughts, good words, and good deeds, and keep worshiping fire that symbolizes goodness, light, and life. Only in this way can their souls ascend to heaven after death.
+|fame=64
+|art=68
+|fth=107
+|civ=54
+|tech=69
+|ss1=Mutant Minion ATK +3%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +3<br>Per 5 Mutant Gene LVLs, Snail ATK +15<br>Mutant Gene LVLs Researched: 150/150
+|ss2=Mutant Minion ATK +4%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +6<br>Per 5 Mutant Gene LVLs, Snail ATK +18<br>Mutant Gene LVLs Researched: 150/150
+|ss3=Mutant Minion ATK +5%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +9<br>Per 5 Mutant Gene LVLs, Snail ATK +21<br>Mutant Gene LVLs Researched: 150/150
+|ss4=Mutant Minion ATK +7%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +15<br>Per 5 Mutant Gene LVLs, Snail ATK +27<br>Mutant Gene LVLs Researched: 150/150
+|ss5=Mutant Minion ATK +9%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +21<br>Per 5 Mutant Gene LVLs, Snail ATK +33<br>Mutant Gene LVLs Researched: 150/150
+|ss6=Mutant Minion ATK +12%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 5 Mutant Gene LVLs, Snail ATK +42<br>Mutant Gene LVLs Researched: 150/150
+|ss7=Mutant Minion ATK +12%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 5 Mutant Gene LVLs, Snail ATK +42<br>Mutant Gene LVLs Researched: 150/150<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop DMG REDUC +6%
+|skill2=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop Fire DMG +60
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FTH +15
+|mirage={{Mirage|name=Inferno Flame|reward={{RewardIconWithLink|Incense, +3|orange}}
+|3name=Mihran|3rec=71.50M|3atk=216590|3def=144496|3hp=12183689|3weak=28577
+|4name=Mitra|4rec=92.48M|4atk=260837|4def=174014|4hp=16686525|4weak=33091
+|5name=Zoroaster|5rec=116.35M|5atk=311166|5def=207591|5hp=22760861|5weak=37070
+|6name=Mazda|6rec=143.42M|6atk=368252|6def=245675|6hp=30060379|6weak=41701
+|Arec=173.83M|Aatk=432381|Adef=288458|Ahp=39517411|Aweak=47590
+}}}}
+
+[[Category:Biozilla Skill]]
+[[Category:Mantis Biozilla Skill]]
+[[Category:ATK Boost]]
+[[Category:Mutant Minion ATK Boost]]
+[[Category:Minion HARD Boost]]
+[[Category:Minion Element RES Boost]]
+[[Category:Daily Silver Pack Relics]]

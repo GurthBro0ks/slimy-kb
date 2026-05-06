@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=428
+|relics=Runes,Diamond Peacock Brooch,Newton's Prism
+|rank=purple
+|amount=3
+|category=self
+|description=Refine +1 Green Demon God Material +7%
+}}

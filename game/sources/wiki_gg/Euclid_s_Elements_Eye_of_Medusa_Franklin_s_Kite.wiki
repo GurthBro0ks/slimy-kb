@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=57
+|relics=Euclid's Elements,Eye of Medusa,Franklin's Kite
+|rank=blue
+|amount=3
+|category=self
+|description=Per 10 Zombie Minions in battle: Troop ATK +6
+}}

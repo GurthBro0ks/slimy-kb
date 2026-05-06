@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Cross of Lorraine
+|class_id=22214
+|rank=SS
+|affct=FAME
+|birthday=11-16
+|source=Lottery Machine No.2 (0.21%), Wishing (0.79%)
+|description=On Nov 16, 1429 AD, Joan of Arc waved the cross of the Lorraine flag Land led her army to attack the enemy.<br>The cross of Lorraine flag was waved by Joan of Arc as she led the French army in resistance to the invaders during the Hundred Years' War. The cross depicted has a small horizontal pole compared to the general cross flag. In battle, she always held the flag high and charged on the front line. Wherever she and the flag appeared, the French soldiers marched. During WW2, the cross of the Lorraine flag became a symbol of freeing France again, showing the steadfast fighting spirit of the French people to the world.
+|fame=104
+|art=57
+|fth=52
+|civ=68
+|tech=66
+|ss1=Snail DEF +20<br>Zombie Minion DEF +2%<br>In the Rebel Rocket Cabin:<br>> Photonic Communicator Base Effect +16%
+|ss2=Snail DEF +30<br>Zombie Minion DEF +3%<br>In the Rebel Rocket Cabin:<br>> Photonic Communicator Base Effect +24%
+|ss3=Snail DEF +40<br>Zombie Minion DEF +4%<br>In the Rebel Rocket Cabin:<br>> Photonic Communicator Base Effect +32%
+|ss4=Snail DEF +60<br>Zombie Minion DEF +6%<br>In the Rebel Rocket Cabin:<br>> Photonic Communicator Base Effect +48%
+|ss5=Snail DEF +80<br>Zombie Minion DEF +8%<br>In the Rebel Rocket Cabin:<br>> Photonic Communicator Base Effect +64%
+|ss6=Snail DEF +110<br>Zombie Minion DEF +11%<br>In the Rebel Rocket Cabin:<br>> Photonic Communicator Base Effect +88%
+|ss7=Snail DEF +110<br>Zombie Minion DEF +11%<br>In the Rebel Rocket Cabin:<br>> Photonic Communicator Base Effect +88%<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion ATK +6%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FAME +15
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, FAME Checks -15
+|mirage={{Mirage|name=A Sure Win|reward={{RewardIconWithLink|W-tad, +1000|orange}}
+|3name=Iris Infantry|3rec=28.54M|3atk=125993|3defense=84055|3hp=4612161|3weak=18800
+|4name=Light Cavalryman|4rec=43.39M|4atk=157305|4defense=104944|4hp=6850591|4weak=20558
+|5name=Heavy Cavalryman|5rec=61.10M|5atk=194654|5defense=129861|5hp=10026778|5weak=24362
+|Arec=80.73M|Aatk=236050|Adefense=157478|Ahp=14212077|Aweak=31027
+}}}}

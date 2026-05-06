@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=UN Forest Instrument
+|class_id=22637
+|rank=SSS
+|affct=FAME
+|birthday=11-30
+|source=
+|description=On Nov 30, 2012, the United Nations General Assembly officially proclaimed International Day of Forests!<br>The United Nations Forest Instrument is a principled declaration on forest issues adopted by the United Nations Conference on Environment and Development. The document establishes four major global forest goals, including sustainable management and restoration of forests, enhancing the economic, social, and environmental benefits of forests, increasing the area of protected forest land worldwide, and seeking multi-source funding for sustainable forest management. Through national actions and cooperative fulfillment, this document makes a globally significant political commitment.
+|fame=109
+|art=60
+|fth=51
+|civ=76
+|tech=66
+|ss1=All minion skins RUSH +10%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +4<br>Per 5 Calculation LVLs, Snail ATK +3<br>Calculation: 250/250
+|ss2=All minion skins RUSH +20%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +8<br>Per 5 Calculation LVLs, Snail ATK +4<br>Calculation: 250/250
+|ss3=All minion skins RUSH +30%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +12<br>Per 5 Calculation LVLs, Snail ATK +5<br>Calculation: 250/250
+|ss4=All minion skins RUSH +50%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +20<br>Per 5 Calculation LVLs, Snail ATK +7<br>Calculation: 250/250
+|ss5=All minion skins RUSH +70%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +28<br>Per 5 Calculation LVLs, Snail ATK +9<br>Calculation: 250/250
+|ss6=All minion skins RUSH +100%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40<br>Per 5 Calculation LVLs, Snail ATK +12<br>Calculation: 250/250
+|ss7=All minion skins RUSH +100%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40<br>Per 5 Calculation LVLs, Snail ATK +12<br>Calculation: 250/250<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop Earth DMG +60
+|skill2=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion ATK +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FAME +15
+|mirage={{Mirage|name=Green Great Wall|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Palm|3rec=207.13M|3atk=546296|3defense=335307|3hp=42031927|3weak=44573
+|4name=Cactus|4rec=325.22M|4atk=763793|4defense=455153|4hp=83785217|4weak=52541
+|5name=White Poplar|5rec=455.55M|5atk=983657|5defense=572400|5hp=143036690|5weak=58260
+|6name=Cedar|6rec=651.17M|6atk=1327996|6defense=747886|6hp=315830358|6weak=66923
+|Arec=779.74M|Aatk=1567894|Adefense=885780|Ahp=448935020|Aweak=76463
+}}}}

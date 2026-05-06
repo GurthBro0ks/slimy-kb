@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Element R.,Koh-i-Noor Diamond,Epic of Gilgamesh
+|rank=orange
+|amount=3
+|category=self
+|description=Per Orange+ Gear equipped, Snail RUSH +16
+}}
+[[Category:Self]]

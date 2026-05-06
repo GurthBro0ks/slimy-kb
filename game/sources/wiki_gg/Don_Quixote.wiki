@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Don Quixote
+|class_id=22314
+|rank=SSS
+|affct=CIV
+|birthday=05-12
+|source=
+|description=On May 12, 1615 AD, Miguel de Cervantes completed the publication of Don Quixote.<br>Don Quixote is a famous knight-errant novel. The plot revolves around the adventures of a member of the lowest nobility named Alonso Quijano, who reads so many chivalric romances that he either loses or pretends to have lost his mind in order to become a knight-errant. After a series of ridiculous acts, Quijano finally wakes up from his fantasy of chivalry. This book was published in the Spanish Golden Age of Literature. It is one of the most influential works in the world.
+|fame=70
+|art=68
+|fth=62
+|civ=108
+|tech=54
+|ss1=Snail ATK +30<br>Per 10 Apostles dominated, Snail ATK +3<br>Per 10 Apostles dominated, Snail DEF +3<br>Apostles Dominated: 200/200
+|ss2=Snail ATK +40<br>Per 10 Apostles dominated, Snail ATK +6<br>Per 10 Apostles dominated, Snail DEF +6<br>Apostles Dominated: 200/200
+|ss3=Snail ATK +50<br>Per 10 Apostles dominated, Snail ATK +9<br>Per 10 Apostles dominated, Snail DEF +9<br>Apostles Dominated: 200/200
+|ss4=Snail ATK +70<br>Per 10 Apostles dominated, Snail ATK +15<br>Per 10 Apostles dominated, Snail DEF +15<br>Apostles Dominated: 200/200
+|ss5=Snail ATK +90<br>Per 10 Apostles dominated, Snail ATK +21<br>Per 10 Apostles dominated, Snail DEF +21<br>Apostles Dominated: 200/200
+|ss6=Snail ATK +120<br>Per 10 Apostles dominated, Snail ATK +30<br>Per 10 Apostles dominated, Snail DEF +30<br>Apostles Dominated: 200/200
+|ss7=Snail ATK +120<br>Per 10 Apostles dominated, Snail ATK +30<br>Per 10 Apostles dominated, Snail DEF +30<br>Apostles Dominated: 200/200<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: Medal Output +30
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's CIV +15
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x B-tad Drops +15%
+|mirage={{Mirage|name=The Last Knight|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Perrault|3rec=32.45M|3atk=134225|3defense=89547|3hp=5066741|3weak=19184
+|4name=Dulcinea|4rec=43.84M|4atk=158258|4defense=105580|4hp=6902136|4weak=20627
+|5name=Sancho|5rec=56.83M|5atk=185652|5defense=123856|5hp=9141409|5weak=23109
+|6name=Alonso|6rec=71.18M|6atk=215904|6defense=144038|6hp=11940042|6weak=28466
+|Arec=86.59M|Aatk=248397|Adefense=165716|Ahp=15317702|Aweak=32102
+}}}}

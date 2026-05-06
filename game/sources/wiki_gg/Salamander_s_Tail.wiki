@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Salamander's Tail
+|type=Common
+|rank=blue
+|id=10817
+|idx=18
+|description="It rushed towards us, the damn lizard rushed towards us! Can you believe that? It had flames coming out of its body!"
+—Solaces Expedition Notes
+|skill=
+|hp=760
+|def=101
+|atk=148
+|rush=92
+|gene1=When in Dragon Form:
+> Gain +2% Dragon Chests in explorations
+|gene2=In Dragon Form, {race} ATK +20
+|gene3=Snail Arena, Fire DMG +60
+|gene7=When in Dragon Form:
+> Gain +2% Dragon Chests in explorations (Awakened)
+|}}

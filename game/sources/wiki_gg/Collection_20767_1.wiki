@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20767_1
+|class_id=20767
+|rank=Green
+|affct=FAITH
+|source=
+|description=collection@20767_2
+|fame=12
+|art=21
+|fth=26
+|civ=13
+|tech=18
+|ss1=Snail RUSH +10<br>Per God of Faith Descent, Snail ATK +1<br>God of Faith Descended: 40/40
+|ss2=Snail RUSH +20<br>Per God of Faith Descent, Snail ATK +2<br>God of Faith Descended: 40/40
+|ss3=Snail RUSH +30<br>Per God of Faith Descent, Snail ATK +3<br>God of Faith Descended: 40/40
+|ss4=Snail RUSH +30<br>Per God of Faith Descent, Snail ATK +3<br>God of Faith Descended: 40/40
+|ss7=Snail RUSH +30<br>Per God of Faith Descent, Snail ATK +3<br>God of Faith Descended: 40/40<br> (Awakened)
+}}

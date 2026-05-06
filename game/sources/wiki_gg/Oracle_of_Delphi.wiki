@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Oracle of Delphi
+|class_id=22447
+|rank=Blue
+|affct=FAITH
+|birthday=09-10
+|source=Lottery Machine No.3 (0.06%)
+|description=On Sept 10, 1023 BC, the Oracle of Delphi was recorded by people.<br>The Delphic oracle, originating from ancient Greece, consists of around 600 sentences passed down to later generations. The three most representative oracles are inscribed at the front of the Delphi temple and convey the messages of "Know thyself," "Nothing in excess," and "False oath brings harm." While most of the oracles are neutral in nature, they can be interpreted from different perspectives and had a great influence on people at that time.
+|fame=25
+|art=36
+|fth=44
+|civ=21
+|tech=28
+|ss1=Per 100 Recruit Tokens consumed, Snail HP +10<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Per 100 Recruit Tokens consumed, Snail HP +20<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Per 100 Recruit Tokens consumed, Snail HP +30<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Per 100 Recruit Tokens consumed, Snail HP +50<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Per 100 Recruit Tokens consumed, Snail HP +50<br>Consumed Recruit Tokens: 5000/5000<br>Snail HP +500 (Awakened)
+|skill1=[[File:Mantis skill I.png|50px]]Place in Mantis Biozilla: In Species War, Troop Fire DMG +10
+}}

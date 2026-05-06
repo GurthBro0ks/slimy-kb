@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=After Santa Claus was arrested for trespassing, the logistics tasks of Christmas were taken over by a group of time travelers. Please give them a 5-star. After all, nobody would work on the Christmas Eve unless they are extremely short of B-tads...
+|affct=ART
+|hard=HP
+|source=[[Snowy Xmas]] Dec. 20 2024 - Jan. 02 2025
+|color=purple
+|earth=6
+|water=7
+|fire=6
+|wind=7
+|form=Dragon
+|element=Water
+|realm=Rift
+|orangehard=ATK
+}}

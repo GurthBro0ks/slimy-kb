@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Archimedes' Lever
+|rank=SSS
+|affct=FAME
+|birthday=05-04
+|source=Lottery Machine (0.09%), Wishing (0.09%), Grandmaster Scrolls (0.81%), Relic Forge (120 Relic RF)
+|description=On May 4, 267 BC, Archimedes calculated the length of the lever to move the Earth.
+
+Archimedes said: "Give me a firm place to stand and a lever and I can move the Earth."
+
+The 5 elements of the law of the lever include fulcrum, power, resistance, power arm, and resistance arm. To achieve lever balance, the two forces acting on the lever should be the same. To move heavy objects with a force that is less than the resistance, the distance of the power arm should be longer than the distance of the resistance arm. This means that Archimedes not only needs a lever with a length that is 40 times longer than the Milky Way, but also needed a power of more than 2000 times the age of the universe to move the earth.
+|fame=106
+|art=68
+|fth=70
+|civ=63
+|tech=55
+|ss1=Snail ATK +30<br>Per 10k Value Points, Snail ATK +5<br>Per 10k Value Points, Snail RUSH +5<br>Value Points: 180,000/180,000
+|ss2=Snail ATK +40<br>Per 10k Value Points, Snail ATK +5<br>Per 10k Value Points, Snail RUSH +5<br>Value Points: 240,000/240,000
+|ss3=Snail ATK +50<br>Per 10k Value Points, Snail ATK +5<br>Per 10k Value Points, Snail RUSH +5<br>Value Points: 300,000/300,000
+|ss4=Snail ATK +70<br>Per 10k Value Points, Snail ATK +5<br>Per 10k Value Points, Snail RUSH +5<br>Value Points: 420,000/420,000 
+|ss5=Snail ATK +90<br>Per 10k Value Points, Snail ATK +5<br>Per 10k Value Points, Snail RUSH +<br>Value Points: 540,000/540,000
+|ss6=Snail ATK +120<br>Per 10k Value Points, Snail ATK +5<br>Per 10k Value Points, Snail RUSH +5<br>Value Points: 720,000/720,000
+|ss7=Snail ATK +120<br>Per 10k Value Points, Snail ATK +5<br>Per 10k Value Points, Snail RUSH +5<br>Value Points: 720,000/720,000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, INTEL gained +15%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x B-tad Drops +15%
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Food Drops +15%
+|mirage={{#invoke:snailDB|parseMirage|Archimedes' Lever}}
+}}
+
+[[Category:Relics]]
+[[Category:Orange Relics]]
+[[Category:FAME Relics]]
+[[Category:Orange FAME Relics]]
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Hellas Museum Boost]]
+[[Category:Hellas Exploration Boost]]

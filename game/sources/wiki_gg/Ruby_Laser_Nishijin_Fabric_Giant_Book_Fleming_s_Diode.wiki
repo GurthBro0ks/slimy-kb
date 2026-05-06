@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Ruby Laser,Nishijin Fabric,Giant Book,Fleming's Diode
+|rank=purple
+|amount=4
+|category=self
+|description=Per 20 Research Manuals used, Snail ATK +16; Research Manuals Used: 400/400
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Research Manuals]]

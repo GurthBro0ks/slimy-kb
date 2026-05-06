@@ -1,0 +1,141 @@
+==The Relic Forge==
+The shop where you can exchange {{RewardIconWithLink|Relic RF|orange}} for certain [[Relics]]. The quality of the relic dictates the cost:
+* {{Retext|SSS Orange|orange}} - 120 {{RewardIcon|Relic RF}}
+* {{Retext|SS Orange|orange}} - 100 {{RewardIcon|Relic RF}}
+* {{Retext|S Orange|orange}} - 90 {{RewardIcon|Relic RF}}
+* {{Retext|AAA Purple|purple}} - 80 {{RewardIcon|Relic RF}}
+
+==Buyable Items==
+[[Relics]] that are available in the Relic Forge.
+
+===Lottery Machine===
+These are the [[Relics]] that are available at the beginning of the game and are available inside [[Lottery Machine]].
+
+<tabber>
+|-|FAME=
+{{ShopRowHeader|FAME Relic Forge|Relic RF}}
+!rowspan="6"|{{Retext|SSS Relics|orange}}
+{{ShopRow|Archimedes' Lever|orange|120|Magellan's Telescope|orange|120|Encyclopedia|orange|120}}
+{{ShopRow|Origin of Species|orange|120|Medal of Honor|orange|120|On War|orange|120}}
+{{ShopRow|Prometheus Torch|orange|120|Trojan Horse|orange|120}}
+!rowspan="2"|{{Retext|SS Relics|orange}}
+{{ShopRow|Golden Trophy|orange|100|Pandora's Box|orange|100|Travels of Marco Polo|orange|100}}
+!rowspan="4"|{{Retext|S Relics|orange}}
+{{ShopRow|Imperial Jade|orange|90|Leaf of Yggdrasil|orange|90|Tetromino|orange|90}}
+{{ShopRow|Traveler Diploma|orange|90}}
+!rowspan="8"|{{Retext|AAA Relics|purple}}
+{{ShopRow|Hawking's Wheelchair|purple|80|ARPAnet|purple|80|Wealth of Nations|purple|80}}
+{{ShopRow|Treaty of Versailles|purple|80|Speech of MLK|purple|80|Edict of Milan|purple|80}}
+{{ShopRow|Plantagenet Badge|purple|80|Ali's Belt|purple|80|DRMC|purple|80}}
+{{ShopRow|Gordian Knot|purple|80|Augustus' Medal|purple|80|Galileo's Ball|purple|80}}
+|}
+
+|-|ART=
+{{ShopRowHeader|ART Relic Forge|Relic RF}}
+!rowspan="6"|{{Retext|SSS Relics|orange}}
+{{ShopRow|Lyre of Hermes|orange|120|Ragnarok|orange|120|Sistine Madonna|orange|120}}
+{{ShopRow|Golden Wheat|orange|120|Athena Statue|orange|120|Lotus Chalice|orange|120}}
+{{ShopRow|Africa Star|orange|120}}
+!rowspan="2"|{{Retext|SS Relics|orange}}
+{{ShopRow|Sunflowers|orange|100|Swan Lake|orange|100}}
+!rowspan="4"|{{Retext|S Relics|orange}}
+{{ShopRow|Koh-i-Noor Diamond|orange|90|Mona Lisa|orange|90|Tutankhamun Mask|orange|90}}
+{{ShopRow|The Last Supper|orange|90}}
+!rowspan="10"|{{Retext|AAA Relics|purple}}
+{{ShopRow|Crystal Skull|purple|80|Manneken Pis|purple|80|Haulers on Volga|purple|80}}
+{{ShopRow|Jade Cup|purple|80|Hope Diamond|purple|80|Guernica|purple|80}}
+{{ShopRow|The Scream|purple|80|Peacock Suit|purple|80|Moonlight Sonata|purple|80}}
+{{ShopRow|Marquis Bell|purple|80|The Nutcracker|purple|80|Mermaid Statue|purple|80}}
+{{ShopRow|Figaro Marriage|purple|80|Napoleon Painting|purple|80}}
+|}
+
+|-|FTH=
+{{ShopRowHeader|FTH Relic Forge|Relic RF}}
+!rowspan="6"|{{Retext|SSS Relics|orange}}
+{{ShopRow|Hera's Peacock Fan|orange|120|Maya Slate|orange|120|Soul Stone|orange|120}}
+{{ShopRow|Somersault Cloud|orange|120|Horn of Heimdall|orange|120|Phoenix Feather|orange|120}}
+{{ShopRow|Gaea's Hand|orange|120}}
+!rowspan="2"|{{Retext|SS Relics|orange}}
+{{ShopRow|Holy Loaves|orange|100|Aladdin's Lamp|orange|100|Forbidden Fruit|orange|100}}
+!rowspan="4"|{{Retext|S Relics|orange}}
+{{ShopRow|Ark of Covenant|orange|90|Golden Finger|orange|90|Golden Scarab|orange|90}}
+{{ShopRow|King Dangun Statue|orange|90|Shroud of Turin|orange|90}}
+!rowspan="8"|{{Retext|AAA Relics|purple}}
+{{ShopRow|Tree of Life|purple|80|Leaf Manuscript|purple|80|Yamato Mirror|purple|80}}
+{{ShopRow|Magic Mirror|purple|80|Lionheart|purple|80|Skidbladnir Ship|purple|80}}
+{{ShopRow|Cornucopia|purple|80|Killing Stone|purple|80|Corinthian Pillar|purple|80}}
+{{ShopRow|Deity Quetzalcoatl|purple|80}}
+|}
+
+|-|CIV=
+{{ShopRowHeader|CIV Relic Forge|Relic RF}}
+!rowspan="6"|{{Retext|SSS Relics|orange}}
+{{ShopRow|Faust|orange|120|Divine Comedy|orange|120|The Art of War|orange|120}}
+{{ShopRow|The Analects|orange|120|Da Vinci's Notes|orange|120|1001 Nights|orange|120}}
+{{ShopRow|Houmuwu Ding|orange|120}}
+!rowspan="2"|{{Retext|SS Relics|orange}}
+{{ShopRow|Das Kapital|orange|100|Era Magazine Vol. 1|orange|100|Plato's Republic|orange|100}}
+!rowspan="4"|{{Retext|S Relics|orange}}
+{{ShopRow|The Tale of Genji|orange|90|Paradise Lost|orange|90|The Pieta|orange|90}}
+{{ShopRow|Notre Dame Bell|orange|90}}
+!rowspan="10"|{{Retext|AAA Relics|purple}}
+{{ShopRow|Dream Top|purple|80|Truth Crystal|purple|80|Crystal Piano|purple|80}}
+{{ShopRow|Behistun Inscription|purple|80|Prehistoric Fossil|purple|80|Schindler's List|purple|80}}
+{{ShopRow|Shakespeare Scripts|purple|80|Jade Burial Suit|purple|80|Maya Codices|purple|80}}
+{{ShopRow|Kapa's Camera|purple|80|Koryeon Sutra|purple|80|Andersen's Fairytales|purple|80}}
+{{ShopRow|Lennon's Guitar|purple|80}}
+|}
+
+|-|TECH=
+{{ShopRowHeader|TECH Relic Forge|Relic RF}}
+!rowspan="6"|{{Retext|SSS Relics|orange}}
+{{ShopRow|Unispark|orange|120|Particle Collider|orange|120|Relativity Scripts|orange|120}}
+{{ShopRow|Double Helix DNA|orange|120|Voyager 1|orange|120|Nuclear Bomb|orange|120}}
+{{ShopRow|Artificial Blackhole|orange|120|Dyson Sphere|orange|120}}
+!rowspan="2"|{{Retext|SS Relics|orange}}
+{{ShopRow|Watt Steam Engine|orange|100|Babbage Engine|orange|100}}
+!rowspan="4"|{{Retext|S Relics|orange}}
+{{ShopRow|Devol's Robot|orange|90|Boltzmann Brain|orange|90|Hubble Telescope|orange|90}}
+{{ShopRow|Element R.|orange|90}}
+!rowspan="10"|{{Retext|AAA Relics|purple}}
+{{ShopRow|Nuclear Football|purple|80|Mars Rover|purple|80|Tesla Coil|purple|80}}
+{{ShopRow|Keyhole Satellite|purple|80|Gene Map|purple|80|Otto Engine|purple|80}}
+{{ShopRow|Bell's Telephone|purple|80|Supersoldier Serum|purple|80|Cavendish's Scale|purple|80}}
+{{ShopRow|Edison's Phonograph|purple|80|BetaGo|purple|80}}
+|}
+</tabber>
+
+===Lottery Machine No. 2===
+These [[Relics]] get added to the Relic Forge when [[Lottery_Machine#Lottery_Machine_No._2|Lottery Machine No. 2]] is unlocked.
+
+<tabber>
+|-|FAME=
+{{ShopRowHeader|FAME Relic Forge|Relic RF}}
+!rowspan="2"|{{Retext|SSS Relics|orange}}
+{{ShopRow|Science Magazine Vol.1|orange|120|Terracotta Warrior|orange|120}}
+|}
+
+|-|ART=
+{{ShopRowHeader|ART Relic Forge|Relic RF}}
+!rowspan="2"|{{Retext|SSS Relics|orange}}
+{{ShopRow|Two-headed Serpent|orange|120|Oxus Treasure|orange|120}}
+|}
+
+|-|FTH=
+{{ShopRowHeader|FTH Relic Forge|Relic RF}}
+!rowspan="2"|{{Retext|SSS Relics|orange}}
+{{ShopRow|Orphic Egg|orange|120|Atlantis Crystal|orange|120}}
+|}
+
+|-|CIV=
+{{ShopRowHeader|CIV Relic Forge|Relic RF}}
+!rowspan="2"|{{Retext|SSS Relics|orange}}
+{{ShopRow|Phaistos Disc|orange|120|Arthur's Roundtable|orange|120}}
+|}
+
+|-|TECH=
+{{ShopRowHeader|TECH Relic Forge|Relic RF}}
+!rowspan="2"|{{Retext|SSS Relics|orange}}
+{{ShopRow|Wilford's Engine|orange|120|AH602|orange|120}}
+|}
+</tabber>

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Von Neumann Arch.
+|class_id=22348
+|rank=SSS
+|affct=TECH
+|birthday=04-29
+|source=
+|description=On Apr 29, 1945 AD, Von Neumann finished a draft plan for the new computer and began working on its production.<br>The computer was designed based on Von Neumann's architecture. During his work on the world's first computer, Von Neumann identified several flaws in its design. Through extensive and revolutionary research, he developed the theory of using binary algorithms and memory, as well as the fundamental structure of the computer, which includes five main components: the processing unit, control unit, memory unit, input devices, and output devices. This groundbreaking invention revolutionized computer technology and marked the beginning of a new era.
+|fame=74
+|art=49
+|fth=68
+|civ=64
+|tech=107
+|ss1=Snail RUSH +30<br>Mecha Minion ATK +3%<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +9
+|ss2=Snail RUSH +40<br>Mecha Minion ATK +4%<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +18
+|ss3=Snail RUSH +50<br>Mecha Minion ATK +5%<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +27
+|ss4=Snail RUSH +70<br>Mecha Minion ATK +7%<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +45
+|ss5=Snail RUSH +90<br>Mecha Minion ATK +9%<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +63
+|ss6=Snail RUSH +120<br>Mecha Minion ATK +12%<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +90
+|ss7=Snail RUSH +120<br>Mecha Minion ATK +12%<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +90<br>Per 60 Mecha Minions in battle:<br>> Troop ATK +90 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, DMG +30%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x White Card Drops +6%
+|mirage={{Mirage|name=Computer Architecture|reward={{RewardIconWithLink|AR2-T4 Capsule, +1|orange}}
+|3name=Arithmetic Unit|3rec=57.48M|3atk=187024|3defense=124771|3hp=9385308|3weak=23229
+|4name=Memory|4rec=71.02M|4atk=215561|4defense=143809|4hp=11919074|4weak=28411
+|5name=Controller|5rec=85.61M|5atk=246339|5defense=164343|5hp=15148841|5weak=31923
+|6name=I/O Devices|6rec=101.74M|6atk=280353|6defense=187035|6hp=19033115|6weak=34786
+|Arec=119.92M|Aatk=318689|Adefense=212610|Ahp=23723336|Aweak=37616
+}}}}

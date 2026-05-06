@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Golden Key Award
+|class_id=22733
+|rank=SSS
+|affct=CIV
+|birthday=06-03
+|source=
+|description=On Jun 3, 1980 AD, the first Golden Key Award was successfully held under the joint organization of several leading hotels.<br>The Golden Key Award is the oldest and most prestigious international design award in the hotel design industry. It aims to recognize the most influential and innovative works in the international hotel industry. A jury consisting of elites of related fields rigorously evaluates the works, making the best hotels of each year the benchmark for global hotel design.
+|fame=75
+|art=67
+|fth=62
+|civ=108
+|tech=48
+|ss1=Snail ATK +30<br>Per 60 Minions in battle:<br>> Troop ATK +9<br>Per Dorm Decor gained, Snail ATK +3<br>Dorm Decor Gained: 40/40
+|ss2=Snail ATK +40<br>Per 60 Minions in battle:<br>> Troop ATK +18<br>Per Dorm Decor gained, Snail ATK +4<br>Dorm Decor Gained: 40/40
+|ss3=Snail ATK +50<br>Per 60 Minions in battle:<br>> Troop ATK +27<br>Per Dorm Decor gained, Snail ATK +5<br>Dorm Decor Gained: 40/40
+|ss4=Snail ATK +70<br>Per 60 Minions in battle:<br>> Troop ATK +45<br>Per Dorm Decor gained, Snail ATK +7<br>Dorm Decor Gained: 40/40
+|ss5=Snail ATK +90<br>Per 60 Minions in battle:<br>> Troop ATK +63<br>Per Dorm Decor gained, Snail ATK +9<br>Dorm Decor Gained: 40/40
+|ss6=Snail ATK +120<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per Dorm Decor gained, Snail ATK +12<br>Dorm Decor Gained: 40/40
+|ss7=Snail ATK +120<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per Dorm Decor gained, Snail ATK +12<br>Dorm Decor Gained: 40/40<br>Per 60 Minions in battle:<br>> Troop ATK +90 (Awakened)
+|skill1=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, All Minion HARD Stats +3%
+|skill2=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: This Relic's CIV +15
+|skill3=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP +9%
+|mirage={{Mirage|name=The Art of Hotel Design|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Hotel Reception Counter|3rec=134.59M|3atk=372721|3defense=233260|3hp=21669575|3weak=37841
+|4name=Hotel Table Lamp|4rec=202.44M|4atk=534521|4defense=328708|4hp=40522913|4weak=43828
+|5name=Hotel Painting|5rec=320.36M|5atk=755605|5defense=450782|5hp=82483345|5weak=52356
+|6name=Hotel Chandelier|6rec=453.74M|6atk=980330|6defense=570773|6hp=141930622|6weak=58134
+|Arec=652.58M|Aatk=1330681|Adefense=749396|Ahp=316842809|Aweak=67058
+}}}}

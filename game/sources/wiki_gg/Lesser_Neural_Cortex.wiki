@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Lesser Neural Cortex
+|type=Common
+|rank=green
+|id=10805
+|idx=5
+|description="...The memory retention of test goldfish has significantly improved, extending to eight seconds. Some samples still record only six seconds—this will be the focus of the next research phase." 
+—Superbrain Files
+|skill=
+|hp=720
+|def=49
+|atk=41
+|rush=45
+|gene1=In explorations, {race} HP +200
+|gene2=During exploration, Water DMG +60
+|gene7=Water DMG +90 (Awakened)
+|}}

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Global Design Award
+|class_id=22757
+|rank=SSS
+|affct=TECH
+|birthday=02-17
+|source=
+|description=On Feb 17, 2022 AD, the 10th Global Design Award was held in Milan,Italy.<br>The Global Design Award is a famous award that focuses on excellent interior design works and projects. It aims to praise innovative designs that have a positive impact on the society and environment, covering various space designs. It provides a platform for interior designers and architects to show unique ideas and promote industry communication, creating more business opportunities for excellent designers.
+|fame=70
+|art=55
+|fth=76
+|civ=55
+|tech=106
+|ss1=Snail Leadership +3<br>Home Decor Inc, Series C Decor Coin Dividend +6%<br>Per Mecha Form Tier, Snail ATK +15<br>Mecha Form Tiers: 9/9
+|ss2=Snail Leadership +4<br>Home Decor Inc, Series C Decor Coin Dividend +7%<br>Per Mecha Form Tier, Snail ATK +20<br>Mecha Form Tiers: 9/9
+|ss3=Snail Leadership +5<br>Home Decor Inc, Series C Decor Coin Dividend +8%<br>Per Mecha Form Tier, Snail ATK +25<br>Mecha Form Tiers: 9/9
+|ss4=Snail Leadership +7<br>Home Decor Inc, Series C Decor Coin Dividend +10%<br>Per Mecha Form Tier, Snail ATK +35<br>Mecha Form Tiers: 9/9
+|ss5=Snail Leadership +9<br>Home Decor Inc, Series C Decor Coin Dividend +12%<br>Per Mecha Form Tier, Snail ATK +45<br>Mecha Form Tiers: 9/9
+|ss6=Snail Leadership +12<br>Home Decor Inc, Series C Decor Coin Dividend +15%<br>Per Mecha Form Tier, Snail ATK +60<br>Mecha Form Tiers: 9/9
+|ss7=Snail Leadership +12<br>Home Decor Inc, Series C Decor Coin Dividend +15%<br>Per Mecha Form Tier, Snail ATK +60<br>Mecha Form Tiers: 9/9<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail ATK +600
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x Card Drops +15%
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, DMG +30%
+|mirage={{Mirage|name=Creative Home Decor|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Paxia|3rec=185.76M|3atk=502140|3defense=305244|3hp=96917527|3weak=55834
+|4name=Cayley|4rec=231.87M|4atk=599839|4defense=370118|4hp=153109650|4weak=61277
+|5name=Marcel|5rec=335.67M|5atk=742892|5defense=464550|5hp=267129465|5weak=67306
+|6name=Stark|6rec=473.30M|6atk=932356|6defense=588371|6hp=448426840|6weak=73274
+|Arec=649.84M|Aatk=1178109|Adefense=747195|Ahp=673898477|Aweak=79234
+}}}}

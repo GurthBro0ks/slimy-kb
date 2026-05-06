@@ -1,0 +1,550 @@
+{{Missing Info|specifics=<br>'''Robots:''' Air Hawk, Bubble Dragon}}
+<!--
+{{Spoiler|note=Contains spoilers for '''ALL''' domains and their related features.<br> This includes Boss Appearances and the Wormhole Device.}}
+-->
+== Rocket Repair ==
+To reach the Domains, you must first repair the rocket.
+{| class="wikitable"
+!Name!!Requirements!!Rewards!!Time
+|-
+|{{RewardIconWithText|Cockpit I}}||Any 3 Minions||{{RewardIconWithText|B-Tad, +6k}}||2 Hours
+|-
+|{{RewardIconWithText|Cockpit II}}||Any 6 Minions||{{RewardIconWithText|B-Tad, +12k}}||6 Hours
+|-
+|{{RewardIconWithText|Cockpit III}}||Any 9 Minions||{{RewardIconWithText|B-Tad, +18k}}<br>{{RewardIconWithText|Clone Speedup, +6h}}<br>{{RewardIconWithLink|Detection Unit|black|Mecha Form}}||12 Hours
+|-
+|{{RewardIconWithText|Bunker}}||{{RewardIconWithLink|Energy Core (Rocket)|black|Yamato Cards#Tier 3 (Blue)}}|| - ||0
+|-
+|{{RewardIconWithText|Bunker I}}||Any 5 Minions||{{RewardIconWithText|Green Reagent, +20|green}}||2 Hours
+|-
+|{{RewardIconWithText|Bunker II}}||Any 10 Minions||{{RewardIconWithText|Green Reagent, +40|green}}||6 Hours
+|-
+|{{RewardIconWithText|Bunker III}}||Any 15 Minions||{{RewardIconWithText|Green Reagent, +60|green}}<br>{{RewardIconWithLink|Fuel Cell|green}}<br>{{RewardIconWithLink|Engineering Unit|black|Mecha Form}}||12 Hours
+|-
+|{{RewardIconWithText|Thruster}}||{{RewardIconWithLink|Immortal Engine|black|Cathay Cards#Tier 3 (Blue)}}|| - ||0
+|-
+|{{RewardIconWithText|Thruster I}}||Any 10 Minions||{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithLink|Demon Chest, +20}}||4 Hours
+|-
+|{{RewardIconWithText|Thruster II}}||Any 12 Minions||{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithLink|Demon Chest, +40}}||8 Hours
+|-
+|{{RewardIconWithText|Thruster III}}||Any 14 Minions||{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWithLink|Demon Chest, +60}}||12 Hours
+|-
+|{{RewardIconWithText|Thruster IV}}||Any 16 Minions||{{RewardIconWithText|W-Tad, +400}}<br>{{RewardIconWithLink|Demon Chest, +80}}||1 Day
+|-
+|{{RewardIconWithText|Thruster V}}||Any 20 Minions||{{RewardIconWithText|W-Tad, +600}}<br>{{RewardIconWithLink|Demon Chest, +100}}<br>{{RewardIconWithLink|Power Unit|black|Mecha Form}}||2 Days
+|}
+
+==Rocket Main Screen==
+[[File:Rocket Layout.png|right|thumb|Main Rocket Layout]]
+
+===1. Rocket Tech===
+Rocket Tech is increased as various Cabins are upgraded and Robots are added to the Rocket. As you increase your Rocket Tech, you can claim bonus rewards and buy [[Value_Packs#Rocket_Value_Pack|Rocket Value Packs]].
+
+{|
+|style="text-align:center;" |<span style="font-size:120%">'''Rocket Bonus'''</span>
+|-
+|
+{|class="mw-collapsible mw-collapsed wikitable"
+!Rocket Points!!Reward
+|-
+|300||{{RewardIconWithLink|Wormhole Refiner, +30}}
+|-
+|600||{{RewardIconWithLink|Wormhole Refiner, +30}}
+|-
+|900||{{RewardIconWithLink|Wormhole Refiner, +30}}
+|-
+|1200||{{RewardIconWithLink|Wormhole Refiner, +60}}
+|-
+|1800||{{RewardIconWithLink|Wormhole Refiner, +60}}
+|-
+|2400||{{RewardIconWithLink|Wormhole Refiner, +60}}
+|-
+|3300||{{RewardIconWithLink|Wormhole Refiner, +100}}
+|-
+|4200||{{RewardIconWithLink|Wormhole Refiner, +100}}
+|-
+|5100||{{RewardIconWithLink|Wormhole Refiner, +100}}
+|-
+|6000||{{RewardIconWithText|Superconducting Tube|orange}}(Mecha Form Part)
+|-
+|7800||{{RewardIconWithLink|Wormhole Refiner, +150}}
+|-
+|9600||{{RewardIconWithText|MD Data Terminal|orange}}(Mecha Form Part)
+|-
+|11.4k||{{RewardIconWithLink|Wormhole Refiner, +150}}
+|-
+|13.2k||{{RewardIconWithText|HV Capacitor|orange}}(Mecha Form Part)
+|-
+|15k||{{RewardIconWithLink|Wormhole Refiner, +200}}
+|-
+|18k||{{RewardIconWithText|Polymeric Fiber Clamp|orange}}(Mecha Form Part)
+|-
+|21k||{{RewardIconWithLink|Wormhole Refiner, +200}}
+|-
+|24k||{{RewardIconWithText|Harmonic Absorber|orange}}(Mecha Form Part)
+|-
+|27k||{{RewardIconWithLink|Wormhole Refiner, +250}}
+|-
+|30k||{{RewardIconWithLink|Wormhole Refiner, +250}}
+|-
+|36k||{{RewardIconWithLink|Wormhole Refiner, +250}}
+|-
+|42k||{{RewardIconWithLink|Wormhole Refiner, +250}}
+|-
+|48k||{{RewardIconWithLink|Wormhole Refiner, +250}}
+|-
+|54k||{{RewardIconWithLink|Wormhole Refiner, +300}}
+|-
+|60k||{{RewardIconWithLink|Wormhole Refiner, +300}}
+|-
+|66k||{{RewardIconWithLink|Wormhole Refiner, +300}}
+|-
+|72k||{{RewardIconWithLink|Wormhole Refiner, +400}}
+|-
+|78k||{{RewardIconWithLink|Wormhole Refiner, +400}}
+|-
+|84k||{{RewardIconWithLink|Wormhole Refiner, +400}}
+|-
+|90k||{{RewardIconWithLink|Wormhole Refiner, +500}}
+|-
+|96k||{{RewardIconWithLink|Wormhole Refiner, +500}}
+|-
+|102k||{{RewardIconWithLink|Wormhole Refiner, +500}}
+|-
+|110k||{{RewardIconWithLink|Wormhole Refiner, +600}}
+|-
+|120k||{{RewardIconWithLink|Wormhole Refiner, +600}}
+|-
+|130k||{{RewardIconWithLink|Wormhole Refiner, +600}}
+|-
+|140k||{{RewardIconWithLink|Wormhole Refiner, +800}}
+|-
+|170k||{{RewardIconWithLink|Wormhole Refiner, +800}}
+|-
+|200k||{{RewardIconWithLink|Wormhole Refiner, +1000}}
+|-
+|250k||{{RewardIconWithLink|Wormhole Refiner, +1000}}
+|-
+|300k||{{RewardIconWithLink|Wormhole Refiner, +1000}}
+|-
+|350k||{{RewardIconWithLink|Wormhole Refiner, +1000}}
+|-
+|400k||{{RewardIconWithLink|Wormhole Refiner, +1000}}
+|}
+|}
+
+===2. Domains===
+Your main goal in the game is to defeat all of the Demon Gods, one for each of the eight realms. After completing a realm, the corresponding Domain will be unlocked where you can travel with your Minions to defeat hordes of enemies on your way to the big boss. See each (currently available) Domains below:
+
+{|class="wikitable"
+![[File:Pawson's Head.png|75px|link=Koryeon Domain]]<br>Beast God in the [[Koryeon Domain]]
+![[File:Bladden's Head.png|75px|link=Yamato Domain]]<br>Sword God in the [[Yamato Domain]]
+![[File:Fake Jaden's Head.png|75px|link=Cathay Domain]]<br>Dragon God in the [[Cathay Domain]]
+![[File:Racky's Head.png|75px|link=Murikan Domain]]<br>War God in the [[Murikan Domain]]
+|-
+![[File:Thundos' Head.png|75px|link=Britland Domain]]<br>Thunder God in the [[Britland Domain]]
+![[File:Nethrone's Head.png|75px|link=Kemet Domain]]<br>Nether God in the [[Kemet Domain]]
+!<!--[[File:Minerva's Head.png|75px|link=Hellenic Domain]]-->Hellenic God's Head<br>currently unavailable<br>Arcane God in the [[Hellenic Domain]]
+<!--
+![[File:?? Head.png|75px|link=Bharata Domain]]<br>Brahman God in the [[Bharata Domain]]
+-->
+|}
+<!--====Species Domain====
+The first small Domain [[Cyclops Domain]] will be unlocked by defeating Pawson, shooting down with the sky building, activating the green relic {{RewardIconWithLink|Broken Star Chart|green}} you get from it, and selecting tab 2 when looking at the selection of domains in order to find it. The strength is roughly the same as [[Yamato Domain]].
+
+The second small Domain [[Bird Domain]] will be unlocked by defeating Pawson, shooting down with the sky building, activating the green relic {{RewardIconWithLink|Broken Star Chart|green}} you get from it, and selecting tab 2 when looking at the selection of domains in order to find it. The strength is roughly the same as [[Murikan Domain]].-->
+
+===3. Time Machine Mboard===
+He talks. A lot. Gives advice. Guides you on your first foray into the [[Koryeon Domain]].
+<br>At some point he offers to train you. If you fail, you will be able to try again within a few days.
+
+{|class="wikitable"
+|+Training
+!Enemy!!Unlocked with!!ATK!!DEF!!HP!!Weakness!!Reward
+|-
+|2G Training Robot||[[Koryeon Domain]]||4,131||3,553||8,374||TECH 3,310||{{RewardIconWithText|Talent Fruit, +1|blue}}
+|-
+|4G Training Robot||[[Yamato Domain]]||45,876||38,413||860,101||TECH 13,170||{{RewardIconWithText|Talent Fruit, +1|blue}}
+|-
+|8G Training Robot||[[Murikan Domain]]||72,314||60,550||1,522,372||TECH 17,060||{{RewardIconWonderFungusWithText|Orange|ATK|orange}} +1
+|}
+
+In the [[Britland Domain]] you can purchase the {{RewardIconWithLink|Matrix Motherboard}} to enable the [[Control Panel]].
+
+===4. Minions===
+Tap here to see all your minions; this information can also be accessed from the [[Nursery]]. The top bar has your Leadership, Backup Minions, and Wounded Minions. Tapping 'View now' will bring you to the Cloning Tank and Healing Tank in the [[Nursery]].
+
+===6. Nebula===
+After fully completing the [[Koryeon Domain]], the Nebula device is unlocked. Here you can unlock star systems and constellations for various buffs. See [[Nebula]] for more!
+
+{{Clear}}
+
+==5. Rocket Cabin==
+[[File:Rocket Cabin Layout.png|right|thumb|Rocket Cabin Layout]]
+
+Completing Tile 60 in the [[Cathay Domain]] rewards, among other things, the {{RewardIconWithText|Adv. Rocket Blueprint}}, which can be used to unlock the Rocket Cabins. Here you can upgrade various devices to upgrade your Rocket Tech.
+
+Exploring each Domain will give you the resources needed to unlock and upgrade the thrones devices that will aid in your exploration of their accompanying Domain.
+
+   1. [[Domain Device]] - '''Upgrade''' Thrones and Domain Weapons, '''Collect''' {{RewardIconWithText|Clone Speedup}}
+   2. [[Species Device]] - '''Collect''' {{RewardIconWithText|Refine Speedup}}
+   3. [[Rebel Device]] - '''Collect''' {{RewardIconWithText|B-Tad}} and {{RewardIconWithText|Mecha Cell}}
+   4. [[Demon God Device]] - '''Collect''' {{RewardIconWithText|Demon Cell}} and {{RewardIconWithText|Zombie Cell}}
+   5. [[Earth's Will Device]] - '''Collect''' {{RewardIconWithText|Angel Cell}} and {{RewardIconWithText|Mutant Cell}}
+
+There are a number of relics that can be obtained from the Devices. Here is a master list of those Relics:
+
+{|class="wikitable mw-collapsible mw-collapsed sortable"
+!Relic!!Device!!Cabin!!Cost
+<!-- Dung Beetle relics -->
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Dung Beetle Specimen}}||{{Retext|T2 Dung Beetle Reactor|green}}||[[Species Device#Dung Beetle Reactor|Species Device]]||200 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Golden Ball}}||{{Retext|T4 Dung Beetle Reactor|purple}}||[[Species Device#Dung Beetle Reactor|Species Device]]||600 {{RewardIconWithText|Standard Printing Supply}}
+|-
+<!-- Goldfish relics -->
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Goldfish Specimen}}||{{Retext|T2 Goldfish Altar|green}}||[[Species Device#Goldfish Altar|Species Device]]||200 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Ancient Colored Shell}}||{{Retext|T4 Goldfish Altar|purple}}||[[Species Device#Goldfish Altar|Species Device]]||600 {{RewardIconWithText|Standard Printing Supply}}
+|-
+<!-- Clam Relics -->
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Surf Clam Specimen}}||{{Retext|T2 Surf Clam Magic Circle|green}}||[[Species Device#Surf Clam Magic Circle|Species Device]]||200 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|White Crystal Ball}}||{{Retext|T4 Surf Clam Magic Circle|purple}}||[[Species Device#Surf Clam Magic Circle|Species Device]]||600 {{RewardIconWithText|Standard Printing Supply}}
+|-
+<!-- Hamster Relics -->
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Hamster Specimen}}||{{Retext|T2 Hamster Exchange|green}}||[[Species Device#Hamster Exchange|Species Device]]||200 {{RewardIconWithText|Military Printing Supply}}
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Front Running}}||{{Retext|T4 Hamster Exchange|purple}}||[[Species Device#Hamster Exchange|Species Device]]||600 {{RewardIconWithText|Military Printing Supply}}
+|-
+<!-- Earthworm Relics -->
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Earthworm Specimen}}||{{Retext|T2 Earthworm Reactor|green}}||[[Species Device#Earthworm Reactor|Species Device]]||200 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Earthworm Codex}}||{{Retext|T4 Earthworm Reactor|purple}}</span>||[[Species Device#Earthworm Reactor|Species Device]]||600 {{RewardIconWithText|Standard Printing Supply}}
+|-
+<!-- Mantis Relics -->
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Mantis Specimen}}||{{Retext|T2 Mantis Arena|green}}||[[Species Device#Mantis Arena|Species Device]]||200 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|World's Number One}}||{{Retext|T4 Mantis Arena|purple}}||[[Species Device#Mantis Arena|Species Device]]||600 {{RewardIconWithText|Standard Printing Supply}}
+|-
+<!-- Rebel Relics -->
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Silicon Life Prototype}}||{{Retext|T1 Steel Hall|black}}||[[Rebel Device#Steel Hall|Rebel Device]]||100 {{RewardIconWithText|Engineering Printing Supply}}
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Sphere of Corrosion}}||{{Retext|T1 Silence Hall|black}}||[[Rebel Device#Silence Hall|Rebel Device]]||100 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithLink|Aegis System}}||{{Retext|T4/5 Steel Hall|orange}}||[[Rebel Device#Steel Hall|Rebel Device]]||1000 {{RewardIconWithText|Engineering Printing Supply}}
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithLink|The Black Book}}||{{Retext|T4/5 Silence Hall|orange}}||[[Rebel Device#Silence Hall|Rebel Device]]||600/1000 {{RewardIconWithText|Standard Printing Supply}}
+|-
+<!-- Demon God Relics -->
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Misfortune Star}}||{{Retext|T1 Apocalypse Hall|black}}||[[Demon God Device#Apocalypse Hall|Demon God Device]]||100 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|St. George's Gold Cup}}||{{Retext|T1 Eternal Hall|black}}||[[Demon God Device#Eternal Hall|Demon God Device]]||100 {{RewardIconWithText|Engineering Printing Supply}}
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithLink|Blood of Cain}}||{{Retext|T4/5 Apocalypse Hall|orange}}||[[Demon God Device#Apocalypse Hall|Demon God Device]]||600/1000 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithLink|Arkanrock}}||{{Retext|T4/5 Eternal Hall|orange}}||[[Demon God Device#Eternal Hall|Demon God Device]]||600/1000 {{RewardIconWithText|Engineering Printing Supply}}
+|-
+<!-- Earth's Will Relics -->
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Chalcedonian Creed}}||{{Retext|T1 Oracle Hall|black}}||[[Earth's Will Device#Oracle Hall|Earth's Will Device]]||100 {{RewardIconWithText|Engineering Printing Supply}}
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|Psionic Jammer}}||{{Retext|T1 Revelation Hall|black}}||[[Earth's Will Device#Revelation Hall|Earth's Will Device]]||100 {{RewardIconWithText|Military Printing Supply}}
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithLink|True Cross}}||{{Retext|T4/5 Oracle Hall|orange}}||[[Earth's Will Device#Oracle Hall|Earth's Will Device]]||600/1000 {{RewardIconWithText|Engineering Printing Supply}}
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithLink|Periodic Table Scripts}}||{{Retext|T4/5 Revelation Hall|orange}}||[[Earth's Will Device#Eternal Hall|Earth's Will Device]]||600/1000 {{RewardIconWithText|Military Printing Supply}}
+|}
+
+{{Clear}}
+
+==Robots==
+Rocket Robots can be dispatched to one of the five [[Rocket#Rocket Cabin|Rocket Cabins]] to passively gather resources every day. There are four universal robots that can be dispatched to any cabin as well as a variety of specialized orange robots that are restricted to a single cabin.
+
+{|class="mw-collapsible wikitable" cellpadding="7" style="text-align:center;"
+!colspan="3"| Universal Robots
+|-
+!Name !!Buff !!Source
+|-
+|style="background-color:var(--green-bg); |{{RewardIconWithLink|AR2-T1}}
+|Rocket Cabin Production +1%
+|{{RewardIconWithLink|Wormhole Refiner}} (15%)
+|-
+|style="background-color:var(--blue-bg); |{{RewardIconWithLink|AR2-T2}}
+|Rocket Cabin Production +2%
+|{{RewardIconWithLink|Wormhole Refiner}} (10%)
+|-
+|style="background-color:var(--purple-bg); |{{RewardIconWithLink|AR2-T3}}
+|Rocket Cabin Production +3%
+|{{RewardIconWithLink|Wormhole Refiner}} (4.4%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithLink|AR2-T4}}
+|Rocket Cabin Production +5%
+|{{RewardIconWithLink|Wormhole Refiner}} (0.1%)
+|}
+<div style:"float:right;">
+{|class="mw-collapsible mw-collapsed wikitable sortable" cellpadding="7" style="text-align:center;"
+!colspan="4" | Specialized Robots
+|-
+!Name !!class="unsortable" |Buff !! Cabin !!Source
+
+<!-- Domain Device -->
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Air Hawk}}
+|Rocket Cabin Production +5%<br>Water DMG +10
+|Domain Device
+|Complete the [[Gene Simulation|Titanian]] Gene Sim
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|ET-2427}}
+|Rocket Cabin Production +5%<br>Resolver: W-tads extracted +30
+|Domain Device
+|Microsom Value Pack II ($30 USD)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Mahjong Trooper}}
+|Rocket Cabin Production +5%<br>Lottery White Beads Turn to Green by +5%
+|Domain Device
+|[[Cathay Domain]]
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Player No. 1}}
+|Rocket Cabin Production +5%<br>Crit DMG +5%
+|Domain Device
+|Rocket Value Pack III ($100 USD, $150 AUD)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Smart Box}}
+|Rocket Cabin Production +5%<br>Snail RUSH +100
+|Domain Device
+|[[Value_Packs#Rocket_Value_Pack|40k Domain Tech Value Pack]] (28k {{RewardIconWithText|W-Tad}})
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Tire Baby}}
+|Rocket Cabin Production +5%<br>Fire DMG +10
+|Domain Device
+|[[Clover Vendor|Lucky Box Reward]] Batch no. 5
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|War God's Guard Beta}}
+|Rocket Cabin Production +5%<br>Snail ATK +100
+|Domain Device
+|Tile 81 in [[Murikan Domain]] (6k W-Tads)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|White Demon}}
+|Rocket Cabin Production +5%<br>Snail ATK +100
+|Domain Device
+|Complete the [[Gene Simulation|White Demon]] Gene Sim
+
+<!-- Species Device -->
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Atomic Beast}}
+|Rocket Cabin Production +5%<br>Crit DMG +5%
+|Species Device
+|Defeat 13th [[Altar_Fights#Demon_Lords|Demon Lord]]
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Bubble Dragon}}
+|Rocket Cabin Production +5%<br>In Dragon Form, All ELMT DMG +3%
+|Species Device
+|?
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Demonized Mboard}}
+|Rocket Cabin Production +5%<br>For Round 1, DMG +1%
+|Species Device
+|Defeat 2nd [[Altar_Fights#Demon_Lords|Demon Lord]]
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Laputa}}
+|Rocket Cabin Production +5%<br>Travel SPD +1%
+|Species Device
+||[[Incense#Shooting_the_Sky|Incense - Shoot the Sky]] 180 Times
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Next-gen Game Console}}
+|Rocket Cabin Production +5%<br>Per Minigame installed, Snail DEF +3<br>Minigames Installed: 50/50
+|Species Device
+|Arcade Machine in Hamster [[Species War]]
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Wine Barrel}}
+|Rocket Cabin Production +5%<br>Water DMG +10
+|Species Device
+|[[Time_Beacon#Stand_Alone_Duels|Duel in Time Rift]]
+
+<!-- Rebel Device -->
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Black Iron}}
+|Rocket Cabin Production +5%<br>Travel SPD +1%
+|Rebel Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Chief}}
+|Rocket Cabin Production +5%<br>Snail DEF +100
+|Rebel Device
+|[[Value_Packs#Rocket_Value_Pack|40k Rebel Tech Value Pack]] (28k {{RewardIconWithText|W-Tad}})
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Concierge-bot}}
+|Rocket Cabin Production +5%<br>Snail Fire DMG +1.5%
+|Rebel Device
+|Snalentines Day
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Craftsman III}}
+|Rocket Cabin Production +5%<br>Lumber Camp Output +3%
+|Rebel Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Cupid}}
+|Rocket Cabin Production +5%<br>Wind DMG +1.5%
+|Rebel Device
+|[[Venture to the Stars]] Sep. 27 - Oct. 10 2024 (480 {{RewardIconWithText|Rainbow Point}})
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Nutcracker Jack}}
+|Rocket Cabin Production +5%<br>Snail Fire DMG +1.5%
+|Rebel Device
+|[[Pumpkin Lucky Night]] Oct. 25 - Oct. 31 2024 (1 {{RewardIconWithText|Candy Cane (Currency)}} after 800 Draws)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Silver Snitch}}
+|Rocket Cabin Production +5%<br>In the Rift, Snail RUSH +100
+|Rebel Device
+|Display {{RewardIconWithLink|Flying Broom|green}} to [[Time_Beacon#Riding|Green Magic Academy]] in the [[Time Rift]].
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Small-town Girl}}
+|Rocket Cabin Production +5%<br>Wind DMG +10
+|Rebel Device
+|Fissure 15,137 [[Fissure#Fissure_Digging_Log|Western Paradise]]
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Space Walker}}
+|Rocket Cabin Production +5%<br>Fire DMG +10
+|Rebel Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg);" |{{RewardIconWithText|Support Robot LMAO}}
+|Rocket Cabin Production +5%<br>Snail HP +1000
+|Rebel Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Surprise}}
+|Rocket Cabin Production +5%<br>Quarry Output +3%
+|Rebel Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Tengu Mecha}}
+|Rocket Cabin Production +5%<br>Wormhole Refinement SPD +1.5%
+|Rebel Device
+|[[Lucky Slot]] 15th-17th DEC 2023 (700 Draws)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Tin Man}}
+|Rocket Cabin Production +5%<br>DMG REDUC +1%
+|Rebel Device
+|[[Fantasy Tour]] Oct. 27 - Nov. 9 2023 (510 {{RewardIconWithText|Rainbow Point}})
+
+<!-- Demon God Device -->
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|2B}}
+|Rocket Cabin Production +5%<br>Snail ATK +100
+|Demon God Device
+|Hitman #78
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Alloy Golem}}
+|Rocket Cabin Production +5%<br>Snail ATK +100
+|Demon God Device
+|[[Value_Packs#Rocket_Value_Pack|40k Demon God Tech Value Pack]] (28k {{RewardIconWithText|W-Tad}})
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Arhat}}
+|Rocket Cabin Production +5%<br>Wind DMG +10
+|Demon God Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Crang Mecha}}
+|Rocket Cabin Production +5%<br>In the Rift, Mutant Cells gained +3%
+|Demon God Device
+|Lange event in [[Time_Beacon#Stand_Alone_Duels|Time Rift]]
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Daimyo}}
+|Rocket Cabin Production +5%<br>Snail ATK +100
+|Demon God Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Fire Fox}}
+|Rocket Cabin Production +5%<br>Wind DMG +10
+|Demon God Device
+|[[Clover Vendor|Lucky Box Reward]] Batch no. 13
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Galaxy Wanderer}}
+|Rocket Cabin Production +5%<br>When Exploring, B-Tads gained +3%
+|Demon God Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Noise}}
+|Rocket Cabin Production +5%<br>Earth DMG +10
+|Demon God Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Pixel Man}}
+|Rocket Cabin Production +5%<br>Per 60 Minions in battle:<br>>Troop DEF +90
+|Demon God Device
+|Hitman #72
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Rocketaur}}
+|Rocket Cabin Production +5%<br>Free Gene Speedup (Mutant) +15m
+|Demon God Device
+|Storyline Mototaur
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Spider Mine}}
+|Rocket Cabin Production +5%<br>In Explorations, Demon Cells Gained +3%
+|Demon God Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Xmas Elf}}
+|Rocket Cabin Production +5%<br>Per Form Unlocked, Wind DMG +10<br>Forms Unlocked: 6/6
+|Demon God Device
+|[[Snowy Xmas]] Dec. 20 2024 - Jan. 02 2025
+
+<!-- Earth's Will Device -->
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Android II}}
+|Rocket Cabin Production +5%<br>Each Round, Snail ATK +20
+|Earth's Will Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Happy Train}}
+|Rocket Cabin Production +5%<br>Snail RUSH +100
+|Earth's Will Device
+|[[Fantasy Tour]] Oct. 27 - Nov. 9 2023 (15k Joy Coins)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Hello Boxer}}
+|Rocket Cabin Production +5%<br>Time Machine Travel Speedup Output +3%
+|Earth's Will Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|King of Platinum}}
+|Rocket Cabin Production +5%<br>Snail HP +1000
+|Earth's Will Device
+|[[Value_Packs#Rocket_Value_Pack|40k Earth's Will Tech Value Pack]] (28k {{RewardIconWithText|W-Tad}})
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Red Comet}}
+|Rocket Cabin Production +5%<br>In Explorations, Angel Cells Gained +3%
+|Earth's Will Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Renault}}
+|Rocket Cabin Production +5%<br>Free Gene Speedup (Mecha) +15m
+|Earth Will's Device
+|Fissure 16,136 [[Fissure#Fissure_Digging_Log|Artifical Life]]
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Robot Guard}}
+|Rocket Cabin Production +5%<br>Snail DEF +100
+|Earth's Will Device
+|[[1st Anniversary]] Aug. 2 - Aug. 29 2024
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Panda MKII}}
+|Rocket Cabin Production +5%<br>In Explorations, Mutant Cells Gained +3%
+|Earth's Will Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|-
+|style="background-color:var(--orange-bg); |{{RewardIconWithText|Pure White Doc}}
+|Rocket Cabin Production +5%<br>Tadpole Pond B-Tad Output +3%
+|Earth's Will Device
+|{{RewardIconWithLink|Wormhole Refiner}} (0.03%)
+|}
+</div>
+
+[[Category:Rocket]]

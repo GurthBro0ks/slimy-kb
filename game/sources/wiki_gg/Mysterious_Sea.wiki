@@ -1,0 +1,655 @@
+==Mysterious Sea==
+The Mysterious Sea can be explored in Britland with the fleet. Once blueprints are obtained, various ships can be built to explore a section of the Mysterious Sea to fight enemies and gain prizes. First, Sailors must be recruited for 10 {{RewardIconWithText|NAV Bronze Coin}} per sailor. Sailors act as the fleets HP. Only one Sea may be explored per [[Britland]] exploration. Once inside a Sea, the fleet cannot be altered and more sailors cannot be recruited.
+
+Each floor follows the same layout: a 6x6 grid with one revealed starting square and filled with "mist." The mist can be cleared for bronze, silver, or gold coins, depending on the Sea, in order to reveal enemies. Once the Boss is cleared and the Whirlpool is found, the fleet can move on to the next floor. The fleet cannot go back to previous floors once it enters the Whirlpool. Once all floors are completely cleared, the Sea is resolved. 
+
+When an enemy or boss appears, the mist in the 8 squares around that enemy cannot be cleared until the enemy is defeated. As an exception, this does not apply when enemies force themselves to appear once the fleet enters a new floor. 
+
+After the fleet battles an enemy, the total sailors is reduced by HP lost. Once the Sailors reach 0, the fleet can no longer battle. However, mist can still be cleared for coins. Once a new adventure is started, new sailors can be recruited and the floor resumed.
+
+==Event Types==
+{| class="mw-collapsible mw-collapsed wikitable"
+!Icon
+!Event
+!Details
+|-
+|[[File:Flotsam.png|border|frameless|50x50px]]
+|Flotsam (various icons)
+|Gain one of: B-tads, W-tads, Wood, Stone, Reagent, Scrolls, INTEL
+|-
+|[[File:Mysterious Sea enemy.png|border|frameless|50x50px]]
+|Enemy (white frame, various icons)
+|One fleet fight. Victory rewards Sailor Legacy and Coins
+|-
+|[[File:Mysterious Sea mini-boss.png|border|frameless|50x50px]]
+|Mini-Boss (purple frame, various icons)
+|One fleet fight and one snail fight
+|-
+|[[File:Mysterious Sea boss.png|border|frameless|50x50px]][[File:Mysterious Sea Horn.jpg|frameless|50x50px]]
+|Map Boss (skull frame, various icons)
+|One fleet fight and one snail fight. When defeated, a horn will appear which opens up the Whirlpool
+|-
+|[[File:Mysterious Sea sailor.png|border|frameless|50x50px]]
+|Sailor
+|Add Sailor, or at max Sailors add Coins
+|-
+|[[File:Mysterious Sea drift bottle.jpg|frameless|50x50px]]
+| Drift bottle
+|Sealed with a message and containing rewards
+|-
+|[[File:Mysterious Sea obelisk.png|border|frameless|50x50px]]
+| Ancient Obelisk
+|Select 1 of 3 randomly appearing skills
+|-
+|[[File:Mysterious Sea lighthouse.png|border|frameless|50x50px]]
+|Lighthouse
+| At a certain TECH, obtain rewards and reveal the 8 squares around the Lighthouse
+|-
+|[[File:Mysterious Sea tavern.png|border|frameless|50x50px]]
+|Tavern
+|At a certain FAME, obtain rewards
+|-
+|[[File:Mysterious Sea Statue.jpg|frameless|50x50px]]
+|Statue
+|At a certain FTH, obtain rewards
+|-
+|[[File:Mysterious Sea ship.png|border|frameless|50x50px]]
+|Stranded Ship
+|At a certain ART, obtain rewards
+|-
+|[[File:Mysterious Sea hut.png|border|frameless|50x50px]][[File:Mysterious Sea Gold Hut.jpg|border|frameless|50x50px]]
+|Prophet Hut
+|At a certain CIV, obtain rewards
+|-
+|[[File:Mysterious Sea fish lv. 1.png|border|frameless|50x50px]][[File:Mysterious Sea Fishing 2.jpg|frameless|50x50px]][[File:Mysterious Sea Fishing 3.jpg|frameless|50x50px]]
+|School of Deep-sea Fish (icon indicates level requirement)
+|At a certain level of Fishing, obtain rewards
+|-
+|[[File:Mysterious Sea Ancient Ruins 1.jpg|frameless|50x50px]][[File:Mysterious Sea Ancient Ruins 2.jpg|frameless|50x50px]][[File:Mysterious Sea Ancient Ruins 3.jpg|border|frameless|50x50px]]
+|Recent Ruins (icon indicates level requirement)
+|At a certain level of Archaeology, gain rewards
+|-
+|[[File:Mysterious Sea Seashore Placer 1.jpg|frameless|50x50px]][[File:Mysterious Sea Seashore Placer 2.jpg|border|frameless|50x50px]][[File:Mysterious Sea Seashore Placer 3.jpg|border|frameless|50x50px]]
+|Seashore Placer (icon indicates level requirement)
+|At a certain level of Exploration, gain rewards 
+|-
+| [[File:Myserious Sea Coral Reef.jpg|frameless|50x50px]][[File:Mysterious Sea Treasure Hunting 3.jpg|frameless|50x50px]]
+|Nine-colored Coral Reef (various names and icons)
+|At a certain level of Treasure Hunting, gain rewards
+|-
+|[[File:Mysterious Sea dinghy.png|border|frameless|50x50px]]
+|Single Dinghy
+|At a certain FAME, enemies will appear and must be defeated for rewards
+|-
+|[[File:Mysterious Sea prison.png|border|frameless|50x50px]]
+|Prison
+|A dungeon with varying enemies that must be defeated for rewards
+|-
+|[[File:Mysterious Sea whirlpool.png|frameless|50x50px]]
+|Whirlpool
+|After blowing the horn revealed after a boss fight, enter the Whirlpool to move on to the next floor
+|}
+
+==Seafaring Skill==
+[[File:Seafaring Skill.jpg|frameless|200x200px]]
+<tabber>
+|-|Left Skillset= 
+{{#tag:tabber|Helm Mastery=
+Lv. 1 - Sailors lost entering the next stage -30%<br>Lv. 2 - Sailors lost entering the next stage -60%<br>Lv. 3 - Sailors lost entering the next stage -90%<br>
+{{!}}-{{!}}
+Cannon Mastery=
+Lv. 1 - In Britland, fleet cannon DMG +6%<br>Lv. 2 - In Britland, fleet cannon DMG +12%<br>Lv. 3 - In Britland, fleet cannon DMG +18%
+{{!}}-{{!}}
+Pillage=
+Lv. 1 - Victories at Seas give +200 B-tads<br>Lv. 2 - Victories at Seas give +400 B-tads<br>Lv. 3 - Victories at Seas give +600 B-tads
+}}
+|-|Middle Skillset=
+{{#tag:tabber|Measure=
+Lv. 1 - Per 20 Mists dispersed, Snail HP +20. Per 20 Mists dispersed, Snail DEF +2. Mists dispersed: 900/900<br>Lv. 2 - Per 20 Mists dispersed, Snail HP +30. Per 20 Mists dispersed, Snail DEF +3. Mists dispersed: 900/900<br>Lv. 3 - Per 20 Mists dispersed, Snail HP +40. Per 20 Mists dispersed, Snail DEF +4. Mists dispersed: 900/900
+{{!}}-{{!}}
+Accounting=
+Lv. 1 - Mint Grid drops +20% {{RewardIconWithText|NAV Gold Coin}}s<br>Lv. 2 - Mint Grid drops +35% {{RewardIconWithText|NAV Gold Coin}}s <br>Lv. 3 - Mint Grid drops +50% {{RewardIconWithText|NAV Gold Coin}}s
+{{!}}-{{!}}
+Treasure Hunting=
+Lv. 1 - Detect Lv. 1 Secret Treasures on the seas<br>Lv. 2 - Detect Lv. 2 Secret Treasures on the seas<br>Lv. 3 - Detect Lv. 3 Secret Treasures on the seas
+}}
+|-|Right Skillset=
+{{#tag:tabber|Fishing=
+Lv. 1 - Catch Lv. 1 Fish on the seas<br>Lv. 2 - Catch Lv. 2 Fish on the seas<br>Lv. 3 - Catch Lv. 3 Fish on the seas
+{{!}}-{{!}}
+Archaeology=
+Lv. 1 - Investigate Lv. 1 Ruins on the seas<br>Lv. 2 - Investigate Lv. 2 Ruins on the seas<br>Lv. 3 - Investigate Lv. 3 Ruins on the seas
+{{!}}-{{!}}
+Exploration=
+Lv. 1 - Explore Lv. 1 Veins on the seas<br>Lv. 2 - Explore Lv. 2 Veins on the seas<br>Lv. 3 - Explore Lv. 3 Veins on the seas
+}}
+|-|Lord of the Five Seas=Lv. 1 - In Britland, fleet cannon DMG +6%. Per Sea Area conquered, Snail ATK +5. Per Sea Area conquered, Snail RUSH +5. Areas of Mysterious Sea Conquered: 6/6<br>Lv. 2 - In Britland, fleet cannon DMG +12%. Per Sea Area conquered, Snail ATK +10. Per Sea Area conquered, Snail RUSH +10. Areas of Mysterious Sea Conquered: 6/6<br>Lv. 3 - In Britland, fleet cannon DMG +18%. Per Sea Area conquered, Snail ATK +15. Per Sea Area conquered, Snail RUSH +15. Areas of Mysterious Sea Conquered: 6/6
+</tabber>
+
+==Pirate Paradise==
+<tabber>
+|-|Floor 1=
+'''Clear Cost''' 1 {{RewardIconWithText|NAV Bronze Coin}} per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| (FAME 9800) || Flotsam || Whirlpool || Enemy || Flotsam || Flotsam
+|-
+|Sailor || Enemy || Flotsam || Sailor || Boss || Flotsam
+|-
+|Flotsam || Sailor || Enemy || Treasure || Sailor || (FAME 9600)
+|-
+|Enemy || (TECH 9500) || Obelisk || Flotsam || Flotsam || Flotsam
+|-
+|Flotsam || Flotsam || Flotsam || Mini-boss || Flotsam || Bottle
+|-
+|START || Flotsam || Enemy|| Flotsam || Flotsam || Flotsam 
+|}
+
+[[File:Screenshot 20230525 204533 Super Snail.jpg|frameless|200x200px]]
+|-|Floor 2=
+'''Clear Cost''' 2 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class ="wikitable" style="text-align:center; float:right;"
+|-
+| Obelisk || Fishing I || Sailor || Archaeology I || Enemy || START
+|-
+| Boss || Enemy || (TECH 10000) || Enemy || Flotsam || Flotsam ||
+|-
+| Prison || Flotsam || Flotsam || Flotsam || Flotsam || Flotsam
+|-
+| Flotsam || Flotsam || Sailor || Enemy || Sailor || Enemy
+|-
+| Whirlpool || Flotsam || Sailor || Flotsam || Sailor || Flotsam
+|}
+[[File:Pirate paradise 2.jpg|frameless|200x200px]]
+|-|Floor 3=
+'''Clear Cost''' 5 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Enemy || Flotsam || Fishing I || Enemy || Flotsam || Flotsam
+|-
+| Flotsam || Flotsam || Sailor || Drift Bottle || Mini-boss || (FAME 10450)
+|-
+| Enemy || (TECH 10300) || Boss || Sailor || Flotsam || Flotsam
+|-
+| Whirlpool || Flotsam || Enemy || Sailor || Flotsam || Flotsam
+|-
+| Sailor || Enemy || Flotsam || Archaeology I || Enemy || START
+|-
+| Obelisk || Flotsam || (FAME 10200) || Flotsam || Flotsam || Flotsam
+|}
+[[File:Pirate paradise 3.jpg|frameless|200x200px]]
+|-|Floor 4=
+'''Clear Cost''' 10 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Flotsam || Flotsam || Obelisk || Sailor || Flotsam || Enemy
+|-
+| Enemy || Boss || Flotsam || Sailor || Enemy || Flotsam
+|-
+| Sailor || (FAME 10400) || Flotsam || Whirlpool || Flotsam || Archaeology II
+|-
+| Sailor || Enemy || Mini-boss || Flotsam || Fishing I || Enemy
+|-
+| Enemy || Sailor || Flotsam || Flotsam || Enemy || Drift Bottle
+|-
+| Fishing I || Flotsam || START || Sailor || Flotsam || Flotsam
+|}
+[[File:Pirate paradise 4.jpg|frameless|200x200px]]
+|-|Floor 5=
+'''Clear Cost''' 1 {{RewardIconWithText|NAV Silver Coin}} per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| START || Enemy || Flotsam || Flotsam || Enemy || Flotsam
+|-
+| Flotsam || Flotsam || Drift Bottle || Sailor || Flotsam || Treasure II
+|-
+| Flotsam || Enemy || Flotsam || Flotsam || (CIV 10700) || Enemy
+|-
+| Mini-boss || (FAME 10600) || Flotsam || Enemy || Flotsam || Sailor
+|-
+| Flotsam || Flotsam || Enemy || Fishing I || Sailor || Boss
+|-
+| Enemy || Sailor || Obelisk || Flotsam || Flotsam || Sailor
+|}
+[[File:Pirate paradise 5.jpg|frameless|200x200px]]
+</tabber>
+
+==Bibini Bottom ==
+<tabber>
+|-|Floor 1=
+'''Clear Cost''' 20 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Drift Bottle || Enemy || Sailor || Flotsam || Flotsam || Fishing I
+|-
+| START || Sailor || Flotsam || Flotsam || Flotsam || Obelisk
+|-
+| Flotsam || Flotsam || Archaeology I || Mini-boss || Flotsam || Enemy
+|-
+| Sailor || (FTH 10900) || Flotsam || Flotsam || Boss || Sailor
+|-
+| Flotsam || Enemy || Flotsam || Whirlpool || Enemy || (ART 10400)
+|}
+[[File:Bibini bottom 1.jpg|frameless|200x200px]]
+|-|Floor 2=
+'''Clear Cost''' 20 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Flotsam || Mini-boss || Flotsam || Sailor || Flotsam || Obelisk
+|-
+| Whirlpool || Flotsam || (ART 10500) || Flotsam || Flotsam || (FTH 10600)
+|-
+| Fishing II || Sailor || Enemy || Sailor || Enemy || Flotsam
+|-
+| Flotsam || Enemy || Flotsam || Flotsam || Flotsam || Enemy
+|-
+| Enemy || Boss || Enemy || Flotsam || Sailor || Flotsam
+|-
+| Drift Bottle || Flotsam || Flotsam || START || Sailor || Exploration I
+|}
+[[File:Bibini bottom 2.jpg|frameless|200x200px]]
+|-|Floor 3=
+'''Clear Cost''' 30 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Flotsam || Enemy || Sailor || Flotsam || Fishing I || Drift Bottle
+|-
+| START || Flotsam || Flotsam || Boss || Flotsam || Enemy
+|-
+| Sailor || Exploration I || Enemy || Sailor || Flotsam || Sailor
+|-
+| Restaurant || Flotsam || Flotsam || Flotsam || Flotsam || Whirlpool
+|-
+| Flotsam || Sailor || Obelisk || Mini-boss || Treasure II || Enemy
+|-
+| (ART 10700) || Enemy || Flotsam || Flotsam || Enemy || Flotsam
+|}
+[[File:Bibini bottom 3.jpg|frameless|200x200px]]
+|-|Floor 4=
+'''Clear Cost''' 40 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Flotsam || Flotsam || Mini-boss || Flotsam || Whirlpool || Obelisk
+|-
+| Enemy || (ART 10300) || Flotsam || Sailor || Flotsam || Enemy
+|-
+| Sailor || Flotsam || Enemy || (CIV 10800) || Flotsam || Flotsam
+|-
+| Flotsam || Enemy || Flotsam || Flotsam || Sailor || START
+|-
+| Flotsam || Sailor || Fishing II || Enemy || Sailor || Flotsam
+|-
+| Flotsam || Boss || Flotsam || Archaeology II || Drift Bottle || Enemy
+|}
+[[File:Mysterious Sea Bibini Bottom 4 Full.jpg|frameless|200x200px]]
+|-|Floor 5=
+'''Clear Cost''' 50 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Obelisk || Enemy || Archaeology I || Sailor || Flotsam || START 
+|-
+| Flotsam || Fishing I || Flotsam || Enemy || Flotsam || Sailor
+|-
+| Enemy || Flotsam || Flotsam || Flotsam || Boss || Flotsam
+|-
+| Sailor || (CIV 11250) || Enemy || Flotsam || Sailor || Enemy
+|-
+| Flotsam || Sailor || Flotsam || Flotsam || Flotsam || (FTH 11000)
+|-
+| Whirlpool || Flotsam || Enemy || Flotsam || Enemy || Drift Bottle
+|}
+[[File:Bibini Bottom 5 complete.jpg|frameless|200x200px]]
+|-|Floor 6=
+'''Clear Cost''' 2 {{RewardIconWithText|NAV Silver Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Boss[¹] || Flotsam || Flotsam || Flotsam || Flotsam || Obelisk
+|-
+| Flotsam || Enemy || Flotsam || Fishing II || Mini-boss || Sailor
+|-
+| Enemy || Flotsam || Flotsam || Flotsam || Enemy || Drift Bottle
+|-
+| Flotsam || Flotsam || Archaeology II || Enemy || Flotsam || Sailor
+|-
+| Sailor || Enemy || Sailor || Flotsam || Flotsam || Enemy
+|-
+| START || Flotsam || Sailor || Flotsam || (ART 11200) || Treasure I[²]
+|}
+[[File:Bibini Bottom 6 complete.jpg|frameless|200x200px]]<br>
+
+[¹] After defeating, get {{RewardIconWithLink|SpongeRob|green}}<br>
+[²] Discover {{RewardIconWithLink|Miracle Conch|green}}
+</tabber>
+
+==Mecha Sea==
+'''Special Considerations:''' When the Boss is revealed, each time mist is cleared HP will be lowered until the Boss is defeated. From the 2nd layer onwards, the Boss appears as soon as the fleet enters the floor.
+<tabber>
+|-|Floor 1=
+'''Clear Cost''' 50 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Whirlpool || Flotsam || Exploration I || Flotsam || Enemy || (FAME 11305)
+|-
+| Flotsam || Boss || Flotsam || Enemy || Flotsam || Flotsam 
+|-
+| Flotsam || Sailor || Archaeology II || Flotsam || Enemy || Sailor
+|-
+| Enemy || Flotsam || Sailor || Enemy || (TECH 11300) || Flotsam
+|-
+| Flotsam || Mini-boss || Drift Bottle || Flotsam || Sailor || START
+|-
+| Obelisk || Flotsam || Sailor || Flotsam || Enemy || Flotsam
+|}
+[[File:Mecha Sea 1.1.jpg|frameless|200x200px]][[File:Mecha Sea 1.2.jpg|frameless|200x200px]]
+|-|Floor 2=
+'''Clear Cost''' 50 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Obelisk || (CIV 11400) || Flotsam || Flotsam || Exploration I || Enemy
+|- 
+| Exploration I || Enemy || Sailor || Enemy || Sailor || Flotsam
+|- 
+| Sailor || Flotsam || Flotsam || Mini-boss || Flotsam || Enemy
+|-
+| Flotsam || Enemy || (TECH 11400) || Flotsam || Whirlpool || Flotsam
+|-
+| Flotsam || Sailor || Flotsam || Enemy || Flotsam || Boss
+|-
+| START || Flotsam || Flotsam || Flotsam || Sailor || Drift Bottle
+|}
+[[File:Mecha Sea 2.1.jpg|frameless|200x200px]][[File:Mecha sea 2.jpg|frameless|200x200px]]
+|-|Floor 3=
+'''Clear Cost''' 50 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Flotsam || START || Flotsam || Flotsam || Enemy || Drift Bottle
+|-
+| Flotsam || Sailor || Flotsam || Sailor || Flotsam || Enemy
+|-
+| Flotsam || Archaeology II || Enemy || Flotsam || Enemy || Archaeology III
+|-
+| Mini-boss || (FAME 11500) || Flotsam || Boss || Flotsam || Obelisk
+|-
+| Sailor || Flotsam || Enemy || Flotsam || Sailor || Flotsam
+|-
+| Flotsam || Enemy || Flotsam || Sailor || (ART 11450) || Whirlpool
+|}
+[[File:Mecha Sea 3.1.jpg|frameless|200x200px]][[File:Mecha sea 3.jpg|frameless|200x200px]]<br>
+|-|Floor 4=
+'''Clear Cost''' 50 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| (FAME 11700) || Flotsam || Sailor || Flotsam || Exploration II || Enemy
+|-
+| Sailor || Flotsam || Enemy || Flotsam || Sailor || Flotsam
+|-
+| Flotsam || Enemy || Flotsam || Whirlpool || Flotsam || START
+|-
+| Drift Bottle || Flotsam || Boss || Flotsam || Sailor || Flotsam
+|-
+| Enemy || Sailor || Flotsam || (TECH 11600) || Flotsam || Enemy
+|-
+| Enemy || Flotsam || Mini-boss || Flotsam || Treasure II[¹] || Obelisk
+|}
+[[File:Mecha Sea 4.1.jpg|frameless|200x200px]][[File:Mecha Sea 4.2.jpg|frameless|200x200px]]<br>
+[¹]Reveals a sequence of 5 enemies
+|-|Floor 5=
+'''Clear Cost''' 5 {{RewardIconWithText|NAV Silver Coin}}s per mist
+{|class="wikitable" style="text-align:center; float:right"
+|-
+| (ART 11900) || Flotsam || Enemy || Archaeology II  || Sailor || Enemy
+|-
+| Flotsam || Enemy || Flotsam || Mini-boss[¹] || Flotsam || Flotsam
+|-
+| Enemy || Flotsam || Exploration II || Flotsam || Sailor || Obelisk
+|-
+| Enemy || Flotsam || Flotsam || Flotsam || Enemy || Flotsam
+|-
+| Flotsam || Sailor || Flotsam || Sailor || (CIV 12000) || Sailor
+|-
+| Flotsam || START || Flotsam || Enemy || Flotsam || Drift Bottle
+|}
+[[File:Mecha Sea 5.1.jpg|frameless|200x200px]][[File:Mecha Sea 5.2.jpg|frameless|200x200px]]<br>
+[¹] Defeat enemy to obtain the Gypsy Glory ship blueprint
+</tabber>
+
+==Poseidon Temple==
+'''Special Considerations:''' Once a single enemy has been discovered, all enemies will force-appear from the mist, except the Boss. Once Treasure Hunting 3 is unlocked, a new enemy appears on each floor.
+<tabber>
+|-|Floor 1=
+'''Clear Cost''' 50 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Flotsam || Flotsam || Archaeology II || Flotsam || Whirlpool || Treasure III 
+|-
+| (FTH 12000) || Enemy || Enemy || Enemy || Flotsam || Boss[¹]
+|-
+| Sailor || Flotsam || Enemy || Flotsam || Drift Bottle || Flotsam
+|-
+| Flotsam || Enemy || Enemy || Enemy || Flotsam || Sailor
+|-
+| Flotsam || Sailor || Flotsam || Sailor || (TECH 11950) || Flotsam
+|-
+| START || Flotsam || Flotsam || Fishing I || Sailor || Obelisk
+|}
+[[File:Poseidon Temple 1.1.jpg|frameless|202x200px]][[File:Poseidon temple 1.jpg|frameless|200x200px]]<br>
+[¹]After blowing the horn, obtain the Venetian Gunboat ship blueprint
+|-|Floor 2=
+'''Clear Cost''' 50 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Flotsam || Obelisk || Sailor || Enemy || Whirlpool || Treasure III
+|-
+| Sailor || Fishing I || Flotsam || Enemy || Enemy || Boss
+|-
+| Flotsam || Flotsam || Sailor || Enemy || Flotsam || Flotsam
+|-
+| Archaeology I || Flotsam || Flotsam || Enemy || Flotsam || (FTH 12050)
+|-
+| Flotsam || Flotsam || Sailor || Enemy || Sailor || Flotsam
+|-
+| START || Flotsam || Archaeology II || Enemy || Flotsam || Drift Bottle
+|}
+[[File:Poseidon Temple 2.1.jpg|frameless|200x200px]][[File:Poseidon temple 2.jpg|frameless|200x200px]]
+|-|Floor 3=
+'''Clear Cost''' 50 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Flotsam || Enemy || Flotsam || (ART 12100) || Whirlpool || Treasure III
+|-
+| Archaeology I || Enemy || Enemy || Flotsam || Flotsam || Boss
+|-
+| Flotsam || Sailor || Enemy || Sailor || Flotsam || Drift Bottle 
+|-
+| Flotsam || Flotsam || Flotsam || Enemy || Enemy || Sailor 
+|-
+| Flotsam || Sailor || (TECH 1250) || Flotsam || Enemy || Enemy 
+|-
+| START || Flotsam || Sailor || Fishing I || Flotsam || Obelisk
+|}
+[[File:Poseidon temple 3.jpg|frameless|200x200px]]
+|-|Floor 4=
+'''Clear Cost''' 50 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| (ART 12300) || Sailor || Enemy || Flotsam || Whirlpool || Treasure III
+|-
+| Flotsam || Flotsam || Enemy || Flotsam || Flotsam || Boss 
+|-
+| Flotsam || Sailor || Enemy || Sailor || Flotsam || Obelisk
+|-
+| Flotsam || Flotsam || Enemy || Enemy || Enemy || Enemy
+|-
+| Sailor || (TECH 12200) || Flotsam || Drift Bottle || Sailor || Fishing III
+|-
+| START || Flotsam || Flotsam || Archaeology II || Flotsam || Flotsam 
+|}
+[[File:Poseidon Temple 4.1.jpg|frameless|200x200px]][[File:Poseidon Temple 4.2.jpg|frameless|200x200px]]
+|-|Floor 5=
+'''Clear Cost''' 50 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| (ART 12350) || Flotsam || Treasure I || Flotsam || Whirlpool || Treasure III
+|-
+| Flotsam || Enemy || Enemy || Enemy || Flotsam || Boss[¹]
+|-
+| Archaeology III || Sailor || Flotsam || Enemy || Sailor || Flotsam 
+|- 
+| Flotsam || Flotsam || Sailor || Enemy || Enemy || Enemy
+|-
+| Flotsam || Flotsam || Flotsam || Sailor || Flotsam || Obelisk
+|-
+| START || Flotsam || Sailor || Drift Bottle || Archaeology I || Flotsam
+|}
+[[File:Poseidon Temple 5.1.jpg|frameless|200x200px]][[File:Poseidon Temple 5.2.jpg|frameless|200x200px]]<br>
+[¹]After blowing the horn, unlock Dragon Palace
+|-|Floor 6=
+'''Clear Cost''' 50 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Flotsam || Fishing III || Enemy || Obelisk || Whirlpool || Treasure III
+|-
+| Archaeology II || Flotsam || Enemy || Enemy || Flotsam || Boss
+|-
+| Flotsam || Sailor || Flotsam || Enemy || Enemy || Flotsam
+|-
+| Flotsam || Drift Bottle || Sailor || Flotsam || Enemy || Enemy
+|-
+| Flotsam || Sailor || Flotsam || (TECH 12500) || Sailor || Flotsam
+|-
+| START || Flotsam || Flotsam || Sailor || (ART 12400) || Flotsam
+|}
+[[File:Poseidon Temple 6.1.jpg|frameless|200x200px]][[File:Poseidon Temple 6.2.jpg|frameless|200x200px]]
+|-|Floor 7=
+'''Clear Cost''' 8 {{RewardIconWithText|NAV Silver Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Drift Bottle || Flotsam || Fishing I || Flotsam || Obelisk || Obelisk
+|-
+| Flotsam || (FTH 12600) || Flotsam || Flotsam || Boss || Obelisk
+|-
+| Flotsam || Flotsam || Flotsam || Treasure III || Flotsam || Fishing III
+|-
+| Enemy || Enemy || Enemy || Flotsam || Flotsam || Flotsam
+|-
+| Enemy || Enemy || Enemy || Flotsam || Archaeology III || Flotsam
+|-
+| START || Enemy || Enemy || Flotsam || Flotsam || Flotsam
+|}
+[[File:Poseidon Temple 7.1.jpg|frameless|200x200px]][[File:Poseidon Temple 7.2.jpg|frameless|200x200px]]
+</tabber>
+
+==Dragon Palace ==
+<tabber>
+|-|Floor 1=
+'''Clear Cost''' 60 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+| Drift Bottle || Enemy || Enemy || Flotsam || Enemy || Flotsam
+|-
+| Whirlpool || Flotsam || Sailor || Exploration III || Flotsam || Flotsam
+|-
+| Flotsam || Boss || Flotsam || Flotsam || Sailor || START
+|-
+| Sailor || Flotsam || Enemy || Sailor || Flotsam || Flotsam
+|-
+| Enemy || Exploration I || Flotsam || Enemy || Sailor || Treasure II
+|-
+| Obelisk || Flotsam || Enemy || Flotsam || (ART 12650) || Flotsam
+|}
+[[File:Dragon Palae 1.1.jpg|frameless|200x200px]][[File:Dragon palace 1.jpg|frameless|200x200px]]
+|-|Floor 2=
+'''Clear Cost''' 60 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| START || Flotsam || Enemy || (CIV 12700) || Enemy || Flotsam
+|-
+| Sailor || Flotsam || Sailor || Flotsam || Flotsam || Enemy
+|-
+| Flotsam || Sailor || Enemy || Exploration II || Enemy || Obelisk
+|-
+| Treasure II || Flotsam || Flotsam || Sailor || Flotsam || Boss
+|-
+| Flotsam || Sailor || Enemy || Flotsam || Enemy || Flotsam
+|-
+| (ART 12700) || Flotsam || Flotsam || Drift Bottle || Flotsam || Whirlpool
+|}
+[[File:Dragon Palace 2.1.jpg|frameless|200x200px]][[File:Dragon palace 2.jpg|frameless|200x200px]]
+|-|Floor 3=
+'''Clear Cost''' 60 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Flotsam || Obelisk || Enemy || Enemy || Exploration I || Drift Bottle
+|-
+| Sailor || Flotsam || Flotsam || Flotsam || Enemy || Flotsam
+|-
+| START || Flotsam || Sailor || Flotsam || Sailor || Whirlpool
+|-
+| Flotsam || Sailor || Flotsam || Enemy || Enemy || Flotsam
+|-
+| Sailor || Flotsam || Enemy || Flotsam || Exploration I || Enemy
+|-
+|Boss || Flotsam || (CIV 12800) || Treasure II || Flotsam || [¹]
+|}
+[[File:Dragon Palace 3.1.jpg|frameless|200x200px]][[File:Dragon palace 3.jpg|frameless|200x200px]]<br>
+[¹] Fight an enemy for {{RewardIconWithLink|Travel Permit|green}}
+|-|Floor 4=
+'''Clear Cost''' 60 {{RewardIconWithText|NAV Bronze Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Flotsam || Exploration II || Flotsam || START || Flotsam || Enemy
+|-
+| Whirlpool || Flotsam || Sailor || Flotsam || Drift Bottle || Flotsam
+|-
+| Flotsam || Sailor || Enemy || Obelisk || Mini Boss || Treasure II
+|-
+| Enemy || Flotsam || Boss || Flotsam || Enemy || Flotsam
+|-
+| Sailor || Flotsam || Sailor || Exploration III || Sailor || Flotsam
+|-
+| Flotsam || Enemy || (CIV 12800) || Treasure I || Flotsam || Flotsam
+|}
+[[File:Dragon Palace 4.1.jpg|frameless|200x200px]][[File:Dragon Palace 4.2.jpg|frameless|200x200px]]
+|-|Floor 5=
+'''Clear Cost''' 10 {{RewardIconWithText|NAV Silver Coin}}s per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Enemy || Exploration III || Obelisk || Enemy || Flotsam || (ART 12800)
+|-
+| Flotsam || Mini-boss || Flotsam || Flotsam || Boss || Flotsam 
+|-
+| Treasure III || Flotsam || Sailor || Enemy || Flotsam || Sailor 
+|-
+| Flotsam || Enemy || Flotsam || Exploration II || Flotsam || Enemy 
+|-
+| Flotsam || Flotsam || Sailor || Flotsam || Sailor || Flotsam 
+|-
+| Sailor || Flotsam || START || Flotsam || Drift Bottle || Enemy 
+|}
+[[File:Dragon Palace 5.1.jpg|frameless|200x200px]][[File:Dragon Palace 5.2.jpg|frameless|200x200px]]
+</tabber>
+
+==Doomsday Sea==
+The final Sea is unlocked after activating the {{RewardIconWithLink|Kraken Trumpet|green}}. This is a unique floor where the boss is the Kraken and each enemy is a Tentacle that revives at the next exploration. The Psychic Tower can be activated to assist the fleet, which must consist of the three strongest ships each at max level. 
+
+To complete this Sea, the Psychic Tower needs to first be activated. After activating, four more towers will appear throughout the map. A fleet consisting of the three strongest ships each at max level will only be able to defeat 3 tentacles per exploration. However, once the Psychic Tower is activated, Tentacles can no longer revive and are permanently defeated. Each tower affects the two tentacles surrounding it
+
+'''Clear Cost''' 1 {{RewardIconWithText|NAV Gold Coin}} per mist
+{| class="wikitable" style="text-align:center; float:right;"
+|-
+| Flotsam || Flotsam || Tentacle || Sailor || Flotsam || Ghost Ship<sup>[1]</sup> 
+|-
+| Flotsam || Psychic Tower<sup>[2]</sup> || Flotsam || Tentacle || Psychic Tower<sup>[2]</sup> || Flotsam 
+|-
+| Sailor || Tentacle || colspan="2" rowspan="2" ; | Whirlpool || Flotsam || Tentacle 
+|-
+| Tentacle || Flotsam || Tentacle || Sailor 
+|-
+| Flotsam || Psychic Tower<sup>[2]</sup> || Tentacle || Sailor || Psychic Tower<sup>[2]</sup> || Flotsam 
+|-
+| START || Flotsam || (AFFCT 65000) || Tentacle || Sailor || Flotsam 
+|}
+[[File:Doomsday Sea 1.1.jpg|frameless|200x200px]][[File:Doomsday Sea 1.2.jpg|frameless|200x200px]]<br>[[File:Doomsday Sea 1.3.jpg|frameless|200x200px]][[File:Doomsday Sea 1.4.jpg|frameless|200x200px]]
+<br>
+<sup>[1]</sup>Revealed after the Psychic Tower is activated. Once activated, a boss must be defeated before the {{RewardIconWithLink|Ghost Ship}} [[Realm Traits|Realm Trait]] is acquired
+
+<sup>[2]</sup>Once the Psychic Tower is Activated, four show up in the corners to take the original's place. The Tentacles adjacent to it are the ones it affects

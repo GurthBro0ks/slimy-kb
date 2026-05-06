@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Traveler 0527
+|rank=blue
+|cabin=2
+|id=25
+|gene1={race} HP +200
+|gene2={race} FTH +20
+|gene3=Free Gene Speedup (Mutant) +6m
+|gene4=Per 10 Mutant Minions in battle:
+> Troop HP +20
+|gene5=Free Gene Speedup (Mutant) +12m
+|}}

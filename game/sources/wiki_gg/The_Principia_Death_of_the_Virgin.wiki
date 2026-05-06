@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=808
+|relics=The Principia,Death of the Virgin
+|rank=orange
+|amount=2
+|category=self
+|description=Dismantle 1 Purple Brand: Gain 1 more fragment by 14%
+}}

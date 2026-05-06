@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Ra-Hotep Couple
+|class_id=22823
+|rank=SSS
+|affct=ART
+|source=
+|description=This statue was created during the Fourth Dynasty of ancient Egypt and is a classic example of a double seated statue. In the statue, Prince Rahotep and Princess Nofret sit side by side, with a dignified and elegant demeanor, strictly adhering to the frontal symmetry principle of Egyptian art. This principle dictates that figures are presented facing forward, with limbs close to the body, conveying the dignity and solemnity of the royal family members. Although this statue is not of a pharaoh, as royal family members, the statues of Rahotep and Nofret also carry a high standard of artistic excellence and historical value, making them important physical evidence for the study of ancient Egyptian society, court life, and artistic style.
+|fame=53
+|art=106
+|fth=68
+|civ=71
+|tech=64
+|ss1=Snail HP +300<br>All Demon Minion Skins, HARD Stats +30%<br>Per 10 Rare Protomon fused, Snail ATK +6<br>Rare Protomon Fused: 200/200
+|ss2=Snail HP +400<br>All Demon Minion Skins, HARD Stats +40%<br>Per 10 Rare Protomon fused, Snail ATK +8<br>Rare Protomon Fused: 200/200
+|ss3=Snail HP +500<br>All Demon Minion Skins, HARD Stats +50%<br>Per 10 Rare Protomon fused, Snail ATK +10<br>Rare Protomon Fused: 200/200
+|ss4=Snail HP +700<br>All Demon Minion Skins, HARD Stats +70%<br>Per 10 Rare Protomon fused, Snail ATK +14<br>Rare Protomon Fused: 200/200
+|ss5=Snail HP +900<br>All Demon Minion Skins, HARD Stats +90%<br>Per 10 Rare Protomon fused, Snail ATK +18<br>Rare Protomon Fused: 200/200
+|ss6=Snail HP +1200<br>All Demon Minion Skins, HARD Stats +120%<br>Per 10 Rare Protomon fused, Snail ATK +24<br>Rare Protomon Fused: 200/200
+|ss7=Snail HP +1200<br>All Demon Minion Skins, HARD Stats +120%<br>Per 10 Rare Protomon fused, Snail ATK +24<br>Rare Protomon Fused: 200/200<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop Wind DMG +60
+|skill2=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop CRIT DMG +9%
+|skill3=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop Water DMG +60
+}}

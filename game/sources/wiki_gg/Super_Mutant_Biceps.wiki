@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Super Mutant Biceps
+|type=Common
+|rank=orange
+|id=10866
+|idx=73
+|description=The biceps is located on the anterior side of the upper forearm. The whole muscle is pike shaped and the name comes from its long and short heads. Building strong biceps is the dream of many fitness enthusiasts.
+|skill=
+|hp=3006
+|def=176
+|atk=177
+|rush=192
+|gene1=In Snail Arena, HIT +9%
+|gene2=In Snail Arena, CRIT +15%
+|gene3=In Snail Arena, CRIT DMG REDUC +15%
+|gene4=In Snail Arena, Round 1 DMG +15%
+|gene5=Snail Arena, ELMT DMG REDUC +6%
+|gene7=In Snail Arena, DMG +9% (Awakened)
+|}}

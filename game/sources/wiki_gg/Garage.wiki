@@ -1,0 +1,7 @@
+Part of the [[Home Base]] and unlocked with [[Cathay Cards]]. Officially called the Arsenal. Before Unlocking, it is the Deserted Arsenal.
+
+Contains Dismantle Gear (Unlocked with the garage), Rebel Troops Material (Unlocked with the Rocket), and the Wormhole (Unlocked in Cathay Domain)
+
+Small box in Garage unlocks the [[Home Decoration]] {{RewardIconWithText|CyberVendor Computer}} (Cat Computer). Requirement to unlock is unknown. Yes, the people on discord say they know, but it doesn't work every time, so they're wrong. Just keep tapping it and eventually it'll open.
+
+[[Category:Home Base]]

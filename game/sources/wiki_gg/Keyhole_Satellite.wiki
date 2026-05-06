@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Keyhole Satellite
+|rank=AAA
+|affct=TECH
+|birthday=10-11
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF), Nebula Chest (1.5%)
+|description=On Oct 11, 1960, the first photographic reconnaissance satellite was launched and it orbited for dozens of days.
+
+This is a detection satellite with super night vision. It can change its trajectory, and carry out information acquisition and processing at high resolution. People found its blind spot after calculations, so if the target is hidden when the satellite goes over its head, the surveillance fails.
+|fame=40
+|art=50
+|fth=49
+|civ=33
+|tech=71
+|ss1=Time Machine Max Cap +3%<br>Per 3 Unispark activations, Snail ATK +6<br>Unispark Activations: 60/60
+|ss2=Time Machine Max Cap +5%<br>Per 3 Unispark activations, Snail ATK +8<br>Unispark Activations: 60/60
+|ss3=Time Machine Max Cap +7%<br>Per 3 Unispark activations, Snail ATK +10<br>Unispark Activations: 60/60
+|ss4=Time Machine Max Cap +11%<br>Per 3 Unispark activations, Snail ATK +14<br>Unispark Activations: 60/60
+|ss5=Time Machine Max Cap +15%<br>Per 3 Unispark activations, Snail ATK +18<br>Unispark Activations: 60/60
+|ss7=Time Machine Max Cap +15%<br>Per 3 Unispark activations, Snail ATK +18<br>Unispark Activations: 60/60<br>Time Machine Travel Speedup Output +15%
+|skill1=[[File:Timemachine skill II.png|50px]] Place in Time Machine: Travel Speedup Output +15%
+|skill2=[[File:Timemachine skill II.png|50px]] Place in Time Machine: Time Machine Max Cap +15%
+}}
+
+[[Category:Time Machine Output Boost]]
+[[Category:ATK Boost]]
+[[Category:Time Machine Skill]]
+[[Category:DEF Boost]]
+[[Category:DNA Boost]]
+[[Category:Enhanced by Unispark Activations]]
+[[Category:Enhanced by DNA Strength]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Guardian Emblem
+|class_id=20234
+|rank=Green
+|affct=FAITH
+|source=
+|description=With the superior firepower of the three pyramids, the snail finally crushed the Demon God after a tough battle. Tens of thousands of minions in Kemet were swept away. To recognize the snail's contribution, Earth's Will presented this emblem and gave the snail the title of the Guardian.
+|fame=18
+|art=12
+|fth=31
+|civ=16
+|tech=13
+|ss1=Per Ma'at Tablet LVL, Snail DEF +1<br>Ma'at Tablet Upgraded: 30/30
+|ss2=Per Ma'at Tablet LVL, Snail DEF +2<br>Ma'at Tablet Upgraded: 30/30
+|ss3=Per Ma'at Tablet LVL, Snail DEF +3<br>Ma'at Tablet Upgraded: 30/30
+|ss4=Per Ma'at Tablet LVL, Snail DEF +3<br>Ma'at Tablet Upgraded: 30/30
+|ss7=Per Ma'at Tablet LVL, Snail DEF +3<br>Ma'at Tablet Upgraded: 30/30<br> (Awakened)
+}}

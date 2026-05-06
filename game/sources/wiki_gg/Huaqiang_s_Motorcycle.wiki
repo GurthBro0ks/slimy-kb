@@ -1,0 +1,19 @@
+{{CargoRelic
+|name=Huaqiang's Motorcycle
+|class_id=20737
+|rank=Green
+|affct=FTH
+|source=Win 6 times in [[Minigames]] (Fruit Frenzy)
+|description=A man was selling melons by the roadside. Hua Qiang rode up on his motorcycle and asked, "How much per pound?" The vendor quoted a price as if it were gold, explaining that these were greenhouse melons. Hua Qiang inquired if they were guaranteed to be ripe. Realizing he was being nitpicked, the vendor hung a huge magnet on the weighing scale. Hua Qiang split a melon to show the vendor what's what. A buddy named Sa Ri Lang watched as Hua Qiang rode away coolly on his motorcycle, skr.
+|fame=13
+|art=13
+|fth=34
+|civ=15
+|tech=15
+|ss1=Per 1 Large Watermelon crafted, Snail HP +10<br>Per 1 Large Watermelon crafted, Snail ATK +1<br>Large Watermelons Crafted: 10/10
+|ss2=Per 1 Large Watermelon crafted, Snail HP +20<br>Per 1 Large Watermelon crafted, Snail ATK +2<br>Large Watermelons Crafted: 10/10
+|ss3=Per 1 Large Watermelon crafted, Snail HP +30<br>Per 1 Large Watermelon crafted, Snail ATK +3<br>Large Watermelons Crafted: 10/10
+}}
+
+[[Category:HP Boost]]
+[[Category:ATK Boost]]

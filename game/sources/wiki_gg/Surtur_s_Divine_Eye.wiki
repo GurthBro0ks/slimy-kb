@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Surtur's Divine Eye
+|type=Bionic
+|rank=red
+|id=10712
+|idx=70
+|description=A wrath that sunders worlds — rainbow hues shimmer faintly in its gaze, hiding immeasurable power. When unleashed, none can fathom its devastation.
+|skill=Before round start, awaken the soul of Chaos Fire, causing the next attack to deal DMG equal to 220% of ATK!
+|hp=2420
+|def=219
+|atk=211
+|rush=398
+|gene1=During exploration, CRIT DMG +20%
+|gene2=Each round, {race} RUSH +80
+|gene3=Crit DMG +10%
+|gene4=Water DMG +120
+|gene5=Each round, {race} ATK +80
+|gene6=Chance of Breaking Enemy +4%
+|gene7=Water DMG +6% (Awakened)
+|}}

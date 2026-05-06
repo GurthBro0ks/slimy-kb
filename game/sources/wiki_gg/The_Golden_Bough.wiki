@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The Golden Bough
+|class_id=22873
+|rank=SSS
+|affct=CIV
+|source=
+|description=The Golden Bough is a work exploring religious beliefs, rituals, and myths in primitive societies. The book provides a detailed analysis of folklore and religious practices worldwide, particularly those related to nature worship, agricultural rituals, and the succession of kingship. This book has had a profound impact on fields such as anthropology, folklore, religious studies, and literary criticism, providing important research references and serving as an inspiration for many literary works in later generations.
+|fame=72
+|art=64
+|fth=67
+|civ=107
+|tech=52
+|ss1=Snail Leadership +3<br>Per 3 Dorm Decors gained, Snail ATK +3<br>prop@53196_2<br>Dorm Decor Gained: 150/150
+|ss2=Snail Leadership +4<br>Per 3 Dorm Decors gained, Snail ATK +4<br>prop@53196_2<br>Dorm Decor Gained: 150/150
+|ss3=Snail Leadership +5<br>Per 3 Dorm Decors gained, Snail ATK +5<br>prop@53196_2<br>Dorm Decor Gained: 150/150
+|ss4=Snail Leadership +7<br>Per 3 Dorm Decors gained, Snail ATK +7<br>prop@53196_2<br>Dorm Decor Gained: 150/150
+|ss5=Snail Leadership +9<br>Per 3 Dorm Decors gained, Snail ATK +9<br>prop@53196_2<br>Dorm Decor Gained: 150/150
+|ss6=Snail Leadership +12<br>Per 3 Dorm Decors gained, Snail ATK +12<br>prop@53196_2<br>Dorm Decor Gained: 150/150
+|ss7=Snail Leadership +12<br>Per 3 Dorm Decors gained, Snail ATK +12<br>prop@53196_2<br>Dorm Decor Gained: 150/150<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: Medal Output +30
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's CIV +15
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x Purple Card Drops +15%
+}}

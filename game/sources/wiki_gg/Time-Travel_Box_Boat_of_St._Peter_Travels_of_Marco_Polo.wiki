@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Time-Travel Box,Boat of St. Peter,Travels of Marco Polo
+|rank=orange
+|amount=3
+|category=self
+|description=Per Incense used, Snail ATK +12<br>Incense Used: 20/20
+}}
+[[Category:Self]]

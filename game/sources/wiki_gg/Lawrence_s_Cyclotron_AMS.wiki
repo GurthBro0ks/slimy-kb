@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=476
+|relics=Lawrence's Cyclotron,AMS
+|rank=orange
+|amount=2
+|category=self
+|description=In the Demon God Rocket Cabin: Particle Accelerator Base Effect +56%
+}}

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Swimming Reindeer
+|class_id=22244
+|rank=SS
+|affct=ART
+|birthday=07-07
+|source=Lottery Machine No.2 (0.32%), Wishing (1.2%)
+|description=On Jul 7, 11043 BC, a primitive man carved a swimming reindeer from a mammoth tusk.<br>The Swimming Reindeer is an ivory sculpture carved in the late glacial century and it's the British Museum's oldest collection. The sculpture is about twenty centimeters long and slightly curved, depicting a reindeer, with its chin tilting up and its antlers facing back, as if it were swimming. The fact that it takes a considerable amount of time to finish this carving shows that the people at the time were conscious of incorporating their perception of the outside world into their works of art.
+|fame=47
+|art=105
+|fth=62
+|civ=79
+|tech=54
+|ss1=Snail ATK +20<br>Zombie Minion HP +2%<br>In the Rebel Rocket Cabin:<br>> Biochemical MOD Module Base Effect +16%
+|ss2=Snail ATK +30<br>Zombie Minion HP +3%<br>In the Rebel Rocket Cabin:<br>> Biochemical MOD Module Base Effect +24%
+|ss3=Snail ATK +40<br>Zombie Minion HP +4%<br>In the Rebel Rocket Cabin:<br>> Biochemical MOD Module Base Effect +32%
+|ss4=Snail ATK +60<br>Zombie Minion HP +6%<br>In the Rebel Rocket Cabin:<br>> Biochemical MOD Module Base Effect +48%
+|ss5=Snail ATK +80<br>Zombie Minion HP +8%<br>In the Rebel Rocket Cabin:<br>> Biochemical MOD Module Base Effect +64%
+|ss6=Snail ATK +110<br>Zombie Minion HP +11%<br>In the Rebel Rocket Cabin:<br>> Biochemical MOD Module Base Effect +88%
+|ss7=Snail ATK +110<br>Zombie Minion HP +11%<br>In the Rebel Rocket Cabin:<br>> Biochemical MOD Module Base Effect +88%<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion DEF +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Green Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ART +600
+|mirage={{Mirage|name=Prehistoric Art|reward={{RewardIconWithLink|ART Master Scroll, +40|orange}}
+|3name=Swimming Mammoth|3rec=12.79M|3atk=92977|3defense=62028|3hp=2535481|3weak=16173
+|4name=Swimming Sloth|4rec=25.36M|4atk=119286|4defense=79580|4hp=4091713|4weak=18503
+|5name=Swimming Smilodon|5rec=39.95M|5atk=150041|5defense=100098|5hp=6350896|5weak=19947
+|Arec=56.83M|Aatk=185652|Adefense=123856|Ahp=9141409|Aweak=23109
+}}}}

@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Stele of Naram-Sin
+|class_id=22786
+|rank=SSS
+|affct=FAME
+|source=
+|description=The Stele of Naram-Sin is one of the earliest known commemorative relief steles. The relief on the stele depicts the victory scene of King Naram-Sin. Naram-Sin, the grandson of Sargon the Great, conquered many regions during his reign, greatly expanding the territory of the Akkadian Empire. The Stele of Naram-Sin is currently housed in the Louvre Museum and has become a valuable resource for studying the history and art of the ancient Near East.
+|fame=106
+|art=55
+|fth=53
+|civ=79
+|tech=69
+|ss1=Zombie Minion RUSH +3%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +4<br>Per 10 Protomon, Priest-Snail Assistance DMG +24<br>Protomon Gained: 600/600
+|ss2=Zombie Minion RUSH +4%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +8<br>Per 10 Protomon, Priest-Snail Assistance DMG +32<br>Protomon Gained: 600/600
+|ss3=Zombie Minion RUSH +5%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +12<br>Per 10 Protomon, Priest-Snail Assistance DMG +40<br>Protomon Gained: 600/600
+|ss4=Zombie Minion RUSH +7%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +20<br>Per 10 Protomon, Priest-Snail Assistance DMG +56<br>Protomon Gained: 600/600
+|ss5=Zombie Minion RUSH +9%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +28<br>Per 10 Protomon, Priest-Snail Assistance DMG +72<br>Protomon Gained: 600/600
+|ss6=Zombie Minion RUSH +12%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40<br>Per 10 Protomon, Priest-Snail Assistance DMG +96<br>Protomon Gained: 600/600
+|ss7=Zombie Minion RUSH +12%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40<br>Per 10 Protomon, Priest-Snail Assistance DMG +96<br>Protomon Gained: 600/600<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+}}

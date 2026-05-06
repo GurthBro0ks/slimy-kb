@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Also known as the hamster shaper, this is the first time they collaborate with Snail Shell. For every Snail Shell created during the collaboration, a hamster will be sealed away.
+|affct=ART
+|hard=ATK
+|source=Divine Order Chest (0.2%)
+|color=purple
+|earth=7
+|water=7
+|fire=7
+|wind=5
+|form=Demon
+|element=Water
+|realm=Hellas
+|orangehard=DEF
+}}

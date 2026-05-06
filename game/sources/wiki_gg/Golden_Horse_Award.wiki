@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Horse Award
+|class_id=20089
+|rank=Green
+|affct=CIV
+|source=
+|description=The Golden Horse Award is the most prestigious honor bestowed by the Pan-African Film Festival of Ouagadougou. Its goal is to foster the African film industry, promote indigenous film culture, and showcase African cinema to the world.
+|fame=16
+|art=15
+|fth=13
+|civ=30
+|tech=16
+|ss1=Per Rift Apostle dominated, Snail ATK +6<br>Rift Apostles Dominated: 40/40
+|ss2=Per Rift Apostle dominated, Snail ATK +8<br>Rift Apostles Dominated: 40/40
+|ss3=Per Rift Apostle dominated, Snail ATK +10<br>Rift Apostles Dominated: 40/40
+|ss4=Per Rift Apostle dominated, Snail ATK +10<br>Rift Apostles Dominated: 40/40
+|ss7=Per Rift Apostle dominated, Snail ATK +10<br>Rift Apostles Dominated: 40/40<br> (Awakened)
+}}

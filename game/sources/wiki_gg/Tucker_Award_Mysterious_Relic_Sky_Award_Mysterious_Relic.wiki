@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Tucker Award,Mysterious Relic,Sky Award,Mysterious Relic
+|rank=orange
+|amount=4
+|category=home
+|description=Home Decor Inc, Series C Decor Coin Dividend +9%
+}}
+[[Category:Home]]
+[[Category:Decor Coin Boost]]

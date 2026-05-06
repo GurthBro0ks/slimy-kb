@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=691
+|relics=Reynard the Fox,The Tribute Money
+|rank=purple
+|amount=2
+|category=self
+|description=Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +48;Desert Sanctum Rating Pts: 100000/100000
+}}

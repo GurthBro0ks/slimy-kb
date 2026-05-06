@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=530
+|relics=Silmarils,Kojiki,Zircon of Jack Hills
+|rank=orange
+|amount=3
+|category=self
+|description=Snail Leadership +8
+}}

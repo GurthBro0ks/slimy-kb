@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Maya Award
+|class_id=22812
+|rank=SSS
+|affct=ART
+|source=
+|description=This luminous trophy, the Maya Award, symbolizes grand rebirth and is a monument to human creativity over centuries, serving as a beacon of inspiration for design, style, and avant-garde creativity, paying sincere tribute to those with the vision to elevate ideas to the essence of originality. The award is organized by the International Awards Association, known for its rigorous and impartial evaluation standards, with a jury composed of top design experts and industry leaders, selecting the winning works through multiple rounds of screening. The award helps designers enhance international recognition, providing an authoritative platform for showcasing innovative creativity.
+|fame=54
+|art=107
+|fth=78
+|civ=67
+|tech=56
+|ss1=Demon Minion ATK +3%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +9<br>Per 60 Demon Minions in battle:<br>> Troop DEF +9
+|ss2=Demon Minion ATK +4%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +18<br>Per 60 Demon Minions in battle:<br>> Troop DEF +18
+|ss3=Demon Minion ATK +5%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +27<br>Per 60 Demon Minions in battle:<br>> Troop DEF +27
+|ss4=Demon Minion ATK +7%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +45<br>Per 60 Demon Minions in battle:<br>> Troop DEF +45
+|ss5=Demon Minion ATK +9%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +63<br>Per 60 Demon Minions in battle:<br>> Troop DEF +63
+|ss6=Demon Minion ATK +12%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +90<br>Per 60 Demon Minions in battle:<br>> Troop DEF +90
+|ss7=Demon Minion ATK +12%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +90<br>Per 60 Demon Minions in battle:<br>> Troop DEF +90<br>prop@62411_2 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop Earth DMG +30
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion HP +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's ART +15
+|mirage={{Mirage|name=dungeon@22812_1|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Maia Bronze Award|3rec=398.43M|3atk=920524|3defense=521014|3hp=245718355|3weak=69113
+|4name=Maia Silver Award|4rec=502.01M|4atk=1095859|4defense=614202|4hp=409064166|4weak=75189
+|5name=Maia Gold Award|5rec=660.32M|5atk=1461677|5defense=757699|5hp=655608658|5weak=83442
+|6name=Maia Platinum Award|6rec=901.77M|6atk=2221122|6defense=1016653|6hp=1146756443|6weak=93833
+|Arec=1307.39M|Aatk=3340562|Adefense=1412211|Ahp=2081962163|Aweak=106736
+}}}}

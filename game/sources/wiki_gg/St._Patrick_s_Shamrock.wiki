@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=St. Patrick's Shamrock
+|class_id=22458
+|rank=Blue
+|affct=FAITH
+|birthday=08-21
+|source=Lottery Machine No.3 (0.03%)
+|description=On Aug 21, 432 AD, Saint Patrick picked this shamrock to explain the doctrine to the Irish people.<br>Saint Patrick came to Ireland to convert the locals to Catholicism under the Pope's instruction. However, he faced hostility from many residents who planned to harm him. In a crisis, Saint Patrick used a shamrock to explain the doctrine of the Trinity, successfully converting them. This clover became one of his symbols and was cherished by many.
+|fame=24
+|art=32
+|fth=48
+|civ=21
+|tech=29
+|ss1=Angel Minion DEF +1%
+|ss2=Angel Minion DEF +2%
+|ss3=Angel Minion DEF +3%
+|ss4=Angel Minion DEF +5%
+|ss7=Angel Minion DEF +5%<br>Angel Minion DEF +5% (Awakened)
+|skill1=[[File:Prairiesanctum skill I.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +5%
+}}

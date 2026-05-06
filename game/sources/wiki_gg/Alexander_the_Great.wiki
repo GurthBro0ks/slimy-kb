@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Alexander the Great
+|class_id=21635
+|rank=SSS
+|affct=ART
+|birthday=11-23
+|source=
+|description=On Nov 23, 324 BC, the Alexander the Great Statue was sculpted.<br>This statue was erected to document the illustrious achievements of Alexander III. Crafted in a realistic style, it faithfully captures the emperor's robust physique and determined expression, portraying his regal dignity and strength to the fullest. It conveys the emperor's significant place in world history to future generations, while etching his extraordinary courage, wisdom, and leadership abilities into the hearts of all who behold it.
+|fame=61
+|art=109
+|fth=52
+|civ=73
+|tech=67
+|ss1=Snail RUSH +30<br>Per 5 Tadpole Pond LVLs, Snail ATK +18<br>Per 5 Tadpole Pond LVLs, Snail RUSH +18<br>Tadpole Pond LVL: 50/50
+|ss2=Snail RUSH +40<br>Per 5 Tadpole Pond LVLs, Snail ATK +24<br>Per 5 Tadpole Pond LVLs, Snail RUSH +24<br>Tadpole Pond LVL: 50/50
+|ss3=Snail RUSH +50<br>Per 5 Tadpole Pond LVLs, Snail ATK +30<br>Per 5 Tadpole Pond LVLs, Snail RUSH +30<br>Tadpole Pond LVL: 50/50
+|ss4=Snail RUSH +70<br>Per 5 Tadpole Pond LVLs, Snail ATK +42<br>Per 5 Tadpole Pond LVLs, Snail RUSH +42<br>Tadpole Pond LVL: 50/50
+|ss5=Snail RUSH +90<br>Per 5 Tadpole Pond LVLs, Snail ATK +54<br>Per 5 Tadpole Pond LVLs, Snail RUSH +54<br>Tadpole Pond LVL: 50/50
+|ss6=Snail RUSH +120<br>Per 5 Tadpole Pond LVLs, Snail ATK +72<br>Per 5 Tadpole Pond LVLs, Snail RUSH +72<br>Tadpole Pond LVL: 50/50
+|ss7=Snail RUSH +120<br>Per 5 Tadpole Pond LVLs, Snail ATK +72<br>Per 5 Tadpole Pond LVLs, Snail RUSH +72<br>Tadpole Pond LVL: 50/50<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: This Relic's ART +15
+|skill2=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: B-tad Output +30%
+|skill3=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Max Cap +30%
+|mirage={{Mirage|name=The Alexanders|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Alexander IV|3rec=0.55M|3atk=13880|3defense=9153|3hp=69387|3weak=3786
+|4name=Roshanak|4rec=1.19M|4atk=24109|4defense=15898|4hp=233125|4weak=5646
+|5name=Olympias|5rec=2.47M|5atk=37745|5defense=24891|5hp=490767|5weak=8736
+|6name=Philip II|6rec=4.80M|6atk=55216|6defense=36412|6hp=964553|6weak=11701
+|Arec=8.73M|Aatk=76679|Adefense=50566|Ahp=1708666|Aweak=13298
+}}}}

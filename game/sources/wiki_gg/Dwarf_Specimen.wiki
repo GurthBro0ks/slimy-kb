@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dwarf Specimen
+|class_id=20061
+|rank=Green
+|affct=CIV
+|source=
+|description=Several dwarfs were killed trying to protect Milk White when they were on the run from bureau agents. To commemorate them, Milk White made this specimen. Having this lifelike item is the best way to remember their contributions!
+|fame=13
+|art=10
+|fth=20
+|civ=29
+|tech=18
+|ss1=Mutant Gene Research B-tad Cost -0.6%
+|ss2=Mutant Gene Research B-tad Cost -1.2%
+|ss3=Mutant Gene Research B-tad Cost -1.8%
+|ss4=Mutant Gene Research B-tad Cost -1.8%
+|ss7=Mutant Gene Research B-tad Cost -1.8%<br> (Awakened)
+}}

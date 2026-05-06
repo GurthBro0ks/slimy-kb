@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Rikugo
+|rank=orange
+|cabin=2
+|id=151
+|gene1={race} HP +500
+|gene2={race} ART +50
+|gene3=Resolver: W-tads extracted +9
+|gene4=Per 60 Angel Minions in battle,
+Troop Water DMG +6
+|gene5=Angel Minion Skin HP +30%
+|gene6=Per 60 Angel Minions in battle,
+Troop Water DMG +10
+|gene7=Angel Minion Skin HP +50%
+|}}

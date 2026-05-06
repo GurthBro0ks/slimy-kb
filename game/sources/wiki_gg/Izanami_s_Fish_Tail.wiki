@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Izanami's Fish Tail
+|type=Common
+|rank=red
+|id=10899
+|idx=110
+|description=This gorgeous fishtail is restored with biological weapon technologies. It resembles Izanami's Fish Tail and has outstanding performances.
+|skill=
+|hp=2720
+|def=226
+|atk=204
+|rush=368
+|gene1={race} FTH +200
+|gene2=All ELMT DMG +40
+|gene3=All ELMT RES +40
+|gene4=Goldfish Incident currency gains +4%
+|gene5=Restore 800 HP each round
+|gene6=Water DMG +12 per 10 Species Wars
+Species War Enlisted: 300/300
+|gene7=Goldfish Incident currency gains +4% (Awakened)
+|}}

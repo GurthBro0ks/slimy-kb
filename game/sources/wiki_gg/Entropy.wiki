@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Entropy
+|class_id=20336
+|rank=Green
+|affct=TECH
+|source=
+|description=Entropy in Greek means immanent, that is, the change in the intrinsic properties of a system. Boltzmann the scientist offered a statistical explanation, and proved in a series of treatises that the macroscopic physical properties of a system can be considered identical to the statistical probability average of all possible microstates.
+|fame=11
+|art=14
+|fth=17
+|civ=17
+|tech=31
+|ss1=Per Super Memetic Chest opened:<br>> Snail DEF +4<br>Super Memetic Chests Opened: 20/20
+|ss2=Per Super Memetic Chest opened:<br>> Snail DEF +8<br>Super Memetic Chests Opened: 20/20
+|ss3=Per Super Memetic Chest opened:<br>> Snail DEF +12<br>Super Memetic Chests Opened: 20/20
+|ss4=Per Super Memetic Chest opened:<br>> Snail DEF +12<br>Super Memetic Chests Opened: 20/20
+|ss7=Per Super Memetic Chest opened:<br>> Snail DEF +12<br>Super Memetic Chests Opened: 20/20<br> (Awakened)
+}}

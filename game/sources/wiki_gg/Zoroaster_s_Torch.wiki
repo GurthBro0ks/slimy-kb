@@ -1,0 +1,33 @@
+{{CargoRelic
+|name=Zoroaster's Torch
+|rank=AA
+|affct=FTH
+|birthday=02-15
+|source=Expert Scrolls (0.95%), Fragment Crafting (3.8%), Hellas Treasure Maps (10%), Lottery Machine (0.08%), Wishing (0.35%)
+|description=On Feb 15, 551 BC, Leader Zoroaster lit the torch.
+
+Zoroastrianism, or the fire-worshipers, had completed the teachings of worshiping fire. They believed that Mazda created the physical world and fire, and that fire was the eternal light. The discovery and use of fire was important to mankind. When humans mastered the use of fire, they were able to fight against cold climates. Fire can be used for cooking, hunting, and fighting against beasts. It can also bring light, dry wet objects, and melt ice cubes for drinking water, which have greatly increased human's survivability.
+
+|fame=46
+|art=36
+|fth=70
+|civ=40
+|tech=36
+|ss1=Snail ATK +20<br>Per 3 Purple Relics gained, Snail ATK +8<br>Purple Relics: 60/60
+|ss2=Snail ATK +30<br>Per 3 Purple Relics gained, Snail ATK +12<br>Purple Relics: 60/60
+|ss3=Snail ATK +40<br>Per 3 Purple Relics gained, Snail ATK +16<br>Purple Relics: 60/60
+|ss4=Snail ATK +60<br>Per 3 Purple Relics gained, Snail ATK +24<br>Purple Relics: 60/60
+|ss5=Snail ATK +80<br>Per 3 Purple Relics gained, Snail ATK +32<br>Purple Relics: 60/60
+|ss7=Snail ATK +80<br>Per 3 Purple Relics gained, Snail ATK +32<br>Purple Relics: 60/60<br>Snail ATK +70 (Awakened)
+|skill1={{Skills|hellas|green reagent|7.5}}
+|skill2={{Skills|hellas|fth|10}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:Relic Boost]]
+[[Category:Hellas Exploration Boost]]
+[[Category:Hellas Museum Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:FTH Boost]]
+[[Category:Angel Gene Cost Reduction]]
+[[Category:Quarry Boost]]

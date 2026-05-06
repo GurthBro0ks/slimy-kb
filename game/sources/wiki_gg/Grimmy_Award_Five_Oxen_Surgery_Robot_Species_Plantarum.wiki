@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=549
+|relics=Grimmy Award,Five Oxen,Surgery Robot,Species Plantarum
+|rank=orange
+|amount=4
+|category=self
+|description=All Minion HP +1.8%
+}}

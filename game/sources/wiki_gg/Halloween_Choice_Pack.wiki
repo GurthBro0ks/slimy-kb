@@ -1,0 +1,17 @@
+[[File:Halloween Choice Pack Details.png|300px]]
+
+The {{RewardIconWithLink|Halloween Choice Pack|orange}} is a reward from [[Pumpkin Lucky Night]] Oct. 25 - Oct. 31 2024.
+
+You may choose a reward from the Pack!
+
+* {{RewardIconWithLink|CCD, +40 Fragments|orange}}
+* {{RewardIconWithLink|Cellular Pathology, +40 Fragments|orange}}
+* {{RewardIconWithLink|Einstein's Brain, +40 Fragments|orange}}
+* {{RewardIconWithLink|Medium Rune, +40 Fragments|orange}}
+* {{RewardIconWithLink|Olympic Charter, +40 Fragments|orange}}
+* {{RewardIconWithLink|Voyager 1, +40 Fragments|orange}}
+* {{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+* {{RewardIconWithLink|Singularity Crystal Box, +2|orange}}
+* {{RewardIconWithText|W-Tad, +4k}}
+
+[[Category:Reward Pack]]

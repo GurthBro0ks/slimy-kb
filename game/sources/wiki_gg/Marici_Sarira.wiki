@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Marici Sarira
+|class_id=20281
+|rank=Green
+|affct=FAITH
+|source=
+|description=This golden sarira comes from Marici, who has gone through 10 lifetimes of cultivation, and gathers all the power that he possessed during all his past lifetime. The light around it is enough to repel all monsters and ghosts away!
+|fame=14
+|art=16
+|fth=29
+|civ=15
+|tech=16
+|ss1=Per 6 kinds of Souls offered, Snail HP +10<br>Souls offered: 300/300 types
+|ss2=Per 6 kinds of Souls offered, Snail HP +20<br>Souls offered: 300/300 types
+|ss3=Per 6 kinds of Souls offered, Snail HP +30<br>Souls offered: 300/300 types
+|ss4=Per 6 kinds of Souls offered, Snail HP +30<br>Souls offered: 300/300 types
+|ss7=Per 6 kinds of Souls offered, Snail HP +30<br>Souls offered: 300/300 types<br> (Awakened)
+}}

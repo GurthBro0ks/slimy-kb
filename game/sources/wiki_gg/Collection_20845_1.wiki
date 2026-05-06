@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20845_1
+|class_id=20845
+|rank=Green
+|affct=TECH
+|source=
+|description=collection@20845_2
+|fame=12
+|art=15
+|fth=18
+|civ=13
+|tech=32
+|ss1=Snail RUSH +20<br>Per Minigame installed, Snail ATK +2<br>Minigames Installed: 20/20
+|ss2=Snail RUSH +40<br>Per Minigame installed, Snail ATK +4<br>Minigames Installed: 20/20
+|ss3=Snail RUSH +60<br>Per Minigame installed, Snail ATK +6<br>Minigames Installed: 20/20
+|ss4=Snail RUSH +60<br>Per Minigame installed, Snail ATK +6<br>Minigames Installed: 20/20
+|ss7=Snail RUSH +60<br>Per Minigame installed, Snail ATK +6<br>Minigames Installed: 20/20<br> (Awakened)
+}}

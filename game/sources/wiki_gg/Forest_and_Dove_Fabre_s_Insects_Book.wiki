@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=590
+|relics=Forest and Dove,Fabre's Insects Book
+|rank=blue
+|amount=2
+|category=self
+|description=Snail Leadership +3
+}}

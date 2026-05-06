@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=760
+|relics=Fenian Cycle,Bencao Gangmu
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 T7+ Minions in battle: Troop HARD Stats +28
+}}

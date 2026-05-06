@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Wegener's Map,Magdeberg Hemispheres
+|rank=purple
+|amount=2
+|category=self
+|description=Snail DEF +60
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]

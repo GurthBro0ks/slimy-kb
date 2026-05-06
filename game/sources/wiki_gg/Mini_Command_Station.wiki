@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Mini Command Station
+|class_id=20832
+|rank=Green
+|affct=TECH
+|source=
+|description=A scaled model made to study the command stations established by the forces of the Demon Gods, nearly perfect in replicating both internal structure and external appearance. Its purpose ended as the clone army swept through the stations. It became a collectible item for display.
+|fame=16
+|art=15
+|fth=13
+|civ=14
+|tech=31
+|ss1=Weekly combat supplies, Legion Coins +5<br>For every level of Base Station cleared, Snail RUSH +1<br>Base Station LVLs Cleared: 30/30
+|ss2=Weekly combat supplies, Legion Coins +10<br>For every level of Base Station cleared, Snail RUSH +2<br>Base Station LVLs Cleared: 30/30
+|ss3=Weekly combat supplies, Legion Coins +15<br>For every level of Base Station cleared, Snail RUSH +3<br>Base Station LVLs Cleared: 30/30
+|ss4=Weekly combat supplies, Legion Coins +15<br>For every level of Base Station cleared, Snail RUSH +3<br>Base Station LVLs Cleared: 30/30
+|ss7=Weekly combat supplies, Legion Coins +15<br>For every level of Base Station cleared, Snail RUSH +3<br>Base Station LVLs Cleared: 30/30<br> (Awakened)
+}}

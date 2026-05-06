@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Urashima Taro's Box
+|class_id=22081
+|rank=Blue
+|affct=CIV
+|birthday=07-17
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Jul 17, 553 AD, Taro Urashima turned into an old man because he opened the jade box.<br>This treasure box made of jade was a gift from the Dragon King's daughter to Taro Urashima. The kind-hearted Taro Urashima once rescued a sea turtle by accident, so he was rewarded for his good deeds and was guided to the bottom of the sea where the Crystal Palace of the Dragon King is located. There, he received the kind hospitality of the Dragon King's daughter. A few days later, due to his homesickness, he insisted on leaving. The Dragon Goddess gave him the box and enjoined him from opening the box. But Taro still opened it at home against the Dragon Goddess' advice. The white smoke in the box devoured him and turned him into a gray-haired old man.
+|fame=33
+|art=28
+|fth=25
+|civ=48
+|tech=20
+|ss1=Per 10 Dragon Minions in battle:<br>> Troop HP +10
+|ss2=Per 10 Dragon Minions in battle:<br>> Troop HP +20
+|ss3=Per 10 Dragon Minions in battle:<br>> Troop HP +30
+|ss4=Per 10 Dragon Minions in battle:<br>> Troop HP +50
+|ss7=Per 10 Dragon Minions in battle:<br>> Troop HP +50<br>Per 10 Dragon Minions in battle:<br>> Troop HP +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail CIV +200
+}}

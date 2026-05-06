@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=After the Snail Shell broke was damaged, the Snail agent from Resin city created another Snail Shell from a hamburger. Not bad!
+|affct=CIV
+|hard=RUSH
+|source=Divine Order Chest (0.4%)
+|color=blue
+|earth=3
+|water=5
+|fire=4
+|wind=2
+|form=Mutant
+|element=Fire
+|realm=Kemet
+|orangehard=DEF
+}}

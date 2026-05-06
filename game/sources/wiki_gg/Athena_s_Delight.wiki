@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Athena's Delight
+|class_id=20153
+|rank=Green
+|affct=ART
+|source=
+|description=Athena's most important treasure contains immeasurable power. But after she was attacked and sealed, the treasure was also lost. It is said that whoever possesses it can earn Athena's affection...
+|fame=15
+|art=31
+|fth=14
+|civ=13
+|tech=17
+|ss1=Per 4 Costumes fully ascended, Snail ATK +1<br>Costumes Perfected: 160/160
+|ss2=Per 4 Costumes fully ascended, Snail ATK +2<br>Costumes Perfected: 160/160
+|ss3=Per 4 Costumes fully ascended, Snail ATK +3<br>Costumes Perfected: 160/160
+|ss4=Per 4 Costumes fully ascended, Snail ATK +3<br>Costumes Perfected: 160/160
+|ss7=Per 4 Costumes fully ascended, Snail ATK +3<br>Costumes Perfected: 160/160<br> (Awakened)
+}}

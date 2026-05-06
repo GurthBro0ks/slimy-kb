@@ -1,0 +1,482 @@
+==Deadly Ironball==
+[[File:Deadly Ironball.png|100px|left|alt=Deadly Ironball]]
+It weighs 109 tons! It can smash enemies before battle starts!
+
+1. Intercept [[Hitmen|Hitman No. 4]]
+
+2. Raise [[Big Guy Park]] friendship to level 3
+
+3. Use the {{RewardIconWithText|Deadly Ironball Tome}} he gives you to unlock Deadly Ironball
+{{clear}}
+
+{{RewardIconWithText|Deadly Ironball}} is the [[Realm Traits|Realm Trait]] for [[Koryeo]].
+
+When first obtained, {{RewardIconWithText|Deadly Ironball}} is automatically in use (unlock other [[Realm Traits]], which have to be enabled) and deals 90% DMG to enemies before the fight begins. This is at level 1, and after upgrading to maximum (level 30), the Ironball can deal 150% DMG to enemies and can then be unsealed with {{RewardIconWithLink|Magic Potion}}. Ironball not only costs a great deal of {{RewardIconWithText|B-Tad}}s, but also costs other expensive things such as {{RewardIconWithLink|Incense|orange}}. It isn't recommended to upgrade this beyond what is absolutely necessary for early-game fights since other Realm Traits are much better. 
+
+===Upgrade Materials===
+{| class="wikitable"
+!Lv.
+!Materials
+|-
+|10 > 11
+|1 {{RewardIconWonderFungusWithText|Blue|HP|blue}} 
+|-
+|15 > 16
+|1 {{RewardIconWonderFungusWithText|Blue|ATK|blue}} 
+|-
+|20 > 21
+|30 {{RewardIconWithText|Purple Reagent|purple}}
+|-
+|25 > 26
+|2 {{RewardIconWithLink|Incense|orange}}
+|-
+|29 > 30
+|[[Consumables|Unknown Magic Potion]] obtained from the [[Altar|Dragon Wish "I want girl power!"]]
+|}
+Note that using Unknown Magic Potion will also turn [[Big Guy Park]] into Big Gal Park and reward {{RewardIconWithLink|Big Guy Park's Chest Hair|blue}}, a blue organ that increases the effect of Deadly Ironball by 30% altogether when fully awakened.
+
+==Stats==
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!{{RewardIconWithText|B-Tad}} Cost
+!Effect
+|-
+|1
+|
+|Before combat, deal 90% DMG
+|-
+|2
+|3k
+|Before combat, deal 92% DMG
+|-
+|3
+|4k
+|Before combat, deal 94% DMG
+|-
+|4
+|5k
+|Before combat, deal 96% DMG
+|-
+|5
+|6k
+|Before combat, deal 98% DMG
+|-
+|6
+|7k
+|Before combat, deal 100% DMG
+|-
+|7
+|8k
+|Before combat, deal 102% DMG
+|-
+|8
+|9k
+|Before combat, deal 104% DMG
+|-
+|9
+|10k
+|Before combat, deal 106% DMG
+|-
+|10
+|11k
+|Before combat, deal 108% DMG
+|-
+|11
+|12k
+|Before combat, deal 110% DMG
+|-
+|12
+|13k
+|Before combat, deal 112% DMG
+|-
+|13
+|14k
+|Before combat, deal 114% DMG
+|-
+|14
+|15k
+|Before combat, deal 116% DMG
+|-
+|15
+|16k
+|Before combat, deal 118% DMG
+|-
+|16
+|17k
+|Before combat, deal 120% DMG
+|-
+|17
+|18k
+|Before combat, deal 122% DMG
+|-
+|18
+|19k
+|Before combat, deal 124% DMG
+|-
+|19
+|20k
+|Before combat, deal 126% DMG
+|-
+|20
+|21k
+|Before combat, deal 128% DMG
+|-
+|21
+|22k
+|Before combat, deal 130% DMG
+|-
+|22
+|23k
+|Before combat, deal 132% DMG
+|-
+|23
+|24k
+|Before combat, deal 134% DMG
+|-
+|24
+|25k
+|Before combat, deal 136% DMG
+|-
+|25
+|26k
+|Before combat, deal 138% DMG
+|-
+|26
+|27k
+|Before combat, deal 140% DMG
+|-
+|27
+|28k
+|Before combat, deal 142% DMG
+|-
+|28
+|29k
+|Before combat, deal 144% DMG
+|-
+|29
+|30k
+|Before combat, deal 146% DMG
+|-
+|30
+|40k
+|Before combat, deal 150% DMG
+|}
+
+==Unsealing==
+Once the {{RewardIconWithText|Deadly Ironball}} has been upgraded to the max level (30), you have the option to Unseal the Spirit trapped inside. 
+
+Doing this costs 300 {{RewardIconWithLink|Magic Potion}}. Unsealing releases the spirit Kwan Bear, who will gift you {{RewardIconWithLink|Koryeon Treasure Map, +50}} and {{RewardIconWithText|B-Tad, +60k}} as a thank you. 
+
+Upgrading Kwan Bear is quite expensive, but doing so gives permanent buffs to your snail. 
+{| class="mw-collapsible mw-collapsed wikitable"
+! rowspan="2" |Tier
+! rowspan="2" |{{RewardIconWithText|Magic Potion}} Cost
+! rowspan="2" |{{RewardIconWithText|B-Tad}} Cost
+! colspan="4" |Cumulative effect, or
+|-
+!HP +
+!ATK +
+!DEF +
+!RUSH
+|-
+|T1
+|
+|
+|200
+|20
+|20
+|40
+|-
+|T2
+|100
+|4k
+|400
+|40
+|40
+|80
+|-
+|T3
+|110
+|6k
+|600
+|60
+|60
+|120
+|-
+|T4
+|120
+|8k
+|800
+|80
+|80
+|160
+|-
+|T5
+|130
+|10k
+| colspan="4" style="text-align:center" |Deadly Ironball effect +5%
+|-
+|T6
+|150
+|12k
+|1100
+|110
+|110
+|220
+|-
+|T7
+|170
+|14k
+|1400
+|140
+|140
+|280
+|-
+|T8
+|190
+|16k
+|1700
+|170
+|170
+|340
+|-
+|T9
+|210
+|18k
+|2000
+|200
+|200
+|400
+|-
+|T10
+|230
+|20k
+| colspan="4" style="text-align:center" |Deadly Ironball DMG +5%
+|-
+|T11
+|260
+|22k
+|2400
+|240
+|240
+|480
+|-
+|T12
+|290
+|24k
+|2800
+|280
+|280
+|560
+|-
+|T13
+|320
+|26k
+|3200
+|320
+|320
+|640
+|-
+|T14
+|350
+|28k
+|3600
+|360
+|360
+|720
+|-
+|T15
+|380
+|30k
+| colspan="4" style="text-align:center" |Deadly Ironball effect +10%
+|-
+|T16
+|420
+|32k
+|4100
+|410
+|410
+|820
+|-
+|T17
+|460
+|34k
+|4600
+|460
+|460
+|920
+|-
+|T18
+|500
+|36k
+|5100
+|510
+|510
+|1020
+|-
+|T19
+|540
+|38k
+|5600
+|560
+|560
+|1120
+|-
+|T20
+|580
+|40k
+| colspan="4" style="text-align:center" |Deadly Ironball DMG +10%
+|-
+|T21
+|630
+|42k
+|6200
+|620
+|620
+|1240
+|-
+|T22
+|680
+|44k
+|6800
+|680
+|680
+|1360
+|-
+|T23
+|730
+|46k
+|7400
+|740
+|740
+|1480
+|-
+|T24
+|780
+|48k
+|8000
+|800
+|800
+|1600
+|-
+|T25
+|830
+|50k
+| colspan="4" style="text-align:center" |Deadly Ironball effect +15%
+|-
+|T26
+|890
+|52k
+|8800
+|880
+|880
+|1760
+|-
+|T27
+|950
+|54k
+|9600
+|960
+|960
+|1920
+|-
+|T28
+|1010
+|56k
+|10400
+|1040
+|1040
+|2080
+|-
+|T29
+|1070
+|58k
+|11200
+|1120
+|1120
+|2240
+|-
+|T30
+|1130
+|60k
+| colspan="4" style="text-align:center" |Deadly Ironball DMG +15%
+|-
+|T31
+|
+|
+|
+|
+|
+|
+|-
+|T32
+|
+|
+|
+|
+|
+|
+|-
+|T33
+|
+|
+|
+|
+|
+|
+|-
+|T34
+|
+|
+|
+|
+|
+|
+|-
+|T35
+|
+|
+| colspan="4" style="text-align:center" |Deadly Ironball Effect +20%
+|-
+|T36
+|
+|
+|
+|
+|
+|
+|-
+|T37
+|
+|
+|
+|
+|
+|
+|-
+|T38
+|
+|
+|
+|
+|
+|
+|-
+|T39
+|
+|
+|
+|
+|
+|
+|-
+|T40
+|
+|
+| colspan="4" style="text-align:center" |Deadly Ironball DMG +20%
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Koryeo]]
+[[Category:Realm Trait]]

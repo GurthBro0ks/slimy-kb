@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Tuesday Star
+|class_id=20293
+|rank=Green
+|affct=FAITH
+|source=
+|description=Fortune Law 3: If faced with setbacks, do not lose heart, for good luck will soon follow!
+|fame=16
+|art=14
+|fth=31
+|civ=16
+|tech=13
+|ss1=Per 10 Lucky Star, Snail DEF +1<br>Lucky Star Gained: 800/800
+|ss2=Per 10 Lucky Star, Snail DEF +2<br>Lucky Star Gained: 800/800
+|ss3=Per 10 Lucky Star, Snail DEF +3<br>Lucky Star Gained: 800/800
+|ss4=Per 10 Lucky Star, Snail DEF +3<br>Lucky Star Gained: 800/800
+|ss7=Per 10 Lucky Star, Snail DEF +3<br>Lucky Star Gained: 800/800<br> (Awakened)
+}}

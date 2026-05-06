@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Eunuch Feng Xu
+|rank=blue
+|cabin=2
+|id=32
+|gene1={race} DEF +20
+|gene2={race} TECH +20
+|gene3=Each round, {race} DEF +10
+|gene4=Per 10 Mutant Minions in battle:
+> Troop DEF +2
+|gene5=Each round, {race} DEF +20
+|}}

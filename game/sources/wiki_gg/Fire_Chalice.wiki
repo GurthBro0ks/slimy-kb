@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Fire Chalice
+|class_id=21912
+|rank=SSS
+|affct=FAME
+|birthday=09-07
+|source=
+|description=On Sep 7, 30,200 BC, Prometheus gave fire to humans with this Holy Grail.<br>That day, Prometheus managed to steal fire from heaven and bring it to humanity. His cylindrical torch was covered with a special metal and held the gods' fire. No matter how strong the wind and rain are, they cannot extinguish it. In a rage, Zeus took Prometheus to the Caucasus and bound him to a steep cliff with an unbreakable chain so that he could never sleep. An eagle pecked Prometheus' liver every day until Heracles rescued him.
+|fame=107
+|art=69
+|fth=57
+|civ=68
+|tech=61
+|ss1=In Dragon Form, Fire DMG +60<br>When crafting an Orange Reagent, +6% to get +1<br>Per 5 Gold Daily Packs bought, Snail ATK +8<br>Gold Daily Packs Bought: 300/300
+|ss2=In Dragon Form, Fire DMG +70<br>When crafting an Orange Reagent, +7.5% to get +1<br>Per 5 Gold Daily Packs bought, Snail ATK +10<br>Gold Daily Packs Bought: 300/300
+|ss3=In Dragon Form, Fire DMG +80<br>When crafting an Orange Reagent, +9% to get +1<br>Per 5 Gold Daily Packs bought, Snail ATK +12<br>Gold Daily Packs Bought: 300/300
+|ss4=In Dragon Form, Fire DMG +90<br>When crafting an Orange Reagent, +11% to get +1<br>Per 5 Gold Daily Packs bought, Snail ATK +14<br>Gold Daily Packs Bought: 300/300
+|ss5=In Dragon Form, Fire DMG +100<br>When crafting an Orange Reagent, +13% to get +1<br>Per 5 Gold Daily Packs bought, Snail ATK +16<br>Gold Daily Packs Bought: 300/300
+|ss6=In Dragon Form, Fire DMG +120<br>When crafting an Orange Reagent, +15% to get +1<br>Per 5 Gold Daily Packs bought, Snail ATK +20<br>Gold Daily Packs Bought: 300/300
+|ss7=In Dragon Form, Fire DMG +120<br>When crafting an Orange Reagent, +15% to get +1<br>Per 5 Gold Daily Packs bought, Snail ATK +20<br>Gold Daily Packs Bought: 300/300<br>In Dragon Form, Fire DMG +200 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Fire DMG +600
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, CRIT DMG +30%
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Wind DMG +600
+|mirage={{Mirage|name=Most Powerful Flame|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Elemental Flames|3rec=4.03M|3atk=50434|3defense=33001|3hp=803308|3weak=10878
+|4name=Abyssal Flames|4rec=7.71M|4atk=72229|4defense=47262|4hp=1550732|4weak=12810
+|5name=Hellish Flames|5rec=13.84M|5atk=98881|5defense=64701|5hp=2698951|5weak=16340
+|6name=Heavenly Flames|6rec=29.59M|6atk=130715|6defense=85532|6hp=4595732|6weak=18519
+|Arec=46.91M|Aatk=167945|Adefense=109893|Ahp=7267415|Aweak=19932
+}}}}

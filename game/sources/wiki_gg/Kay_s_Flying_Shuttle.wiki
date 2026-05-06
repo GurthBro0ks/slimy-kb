@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Kay's Flying Shuttle
+|class_id=22091
+|rank=Blue
+|affct=TECH
+|birthday=02-13
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Feb 13, 1733 AD, the English watchmaker John Kay invented the flying shuttle, which greatly improved weaving efficiency.<br>John Kay was an eighteenth-century watchmaker and the inventor of the flying shuttle. It is a shuttle with small wheels installed in the chute, which can travel back and forth at a fast speed with the help of the springs installed on both sides of the chute. The invention greatly improved the efficiency of weaving, stimulated the market's demand for cotton yarn, and somehow indirectly propelled the Industrial Revolution.
+|fame=32
+|art=22
+|fth=30
+|civ=24
+|tech=46
+|ss1=Refine +1 White Rebel Material +1%
+|ss2=Refine +1 White Rebel Material +2%
+|ss3=Refine +1 White Rebel Material +3%
+|ss4=Refine +1 White Rebel Material +5%
+|ss7=Refine +1 White Rebel Material +5%<br>Refine +1 White Rebel Material +5% (Awakened)
+|skill1=[[File:Arena skill I.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail DEF +20
+}}

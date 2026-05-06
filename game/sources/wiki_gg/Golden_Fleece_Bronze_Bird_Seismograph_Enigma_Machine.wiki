@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Golden Fleece,Bronze Bird,Seismograph,Enigma Machine
+|rank=blue
+|amount=4
+|category=home
+|description=The Time Machine has a +14% chance to generate Time Chests
+}}
+[[Category:Home]]

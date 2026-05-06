@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=453
+|relics=The Kiss,The Prince
+|rank=orange
+|amount=2
+|category=self
+|description=Per 4 FAME Relics gained, Snail HP +140;FAME Relics: 120/120
+}}

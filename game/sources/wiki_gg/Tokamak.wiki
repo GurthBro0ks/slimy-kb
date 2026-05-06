@@ -1,0 +1,41 @@
+{{CargoRelic
+|name=Tokamak
+|rank=SS
+|affct=TECH
+|birthday=12-09
+|source=Fragment Crafting (5.2%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), TECH Master Scrolls (9.2%), Wishing (1.9%)
+|description=On Dec 9, 1955 AD, Tokamak was invented in the NRC KI of the Soviet Union.
+
+Tokamak devices are used for controlled nuclear fusion experiments. The primary reactants of fusion are the isotopes of hydrogen, deuterium, and tritium. Deuterium and tritium must be fused at temperatures of over 100 million degrees Celsius. The tokamak device heats the plasma in confinement by generating a powerful circular magnetic field, creating the high temperatures required for fusion reactions while controlling the response. The research shows that the tokamak can meet the needs for future fusion power plants.
+|fame=67
+|art=77
+|fth=48
+|civ=53
+|tech=102
+|ss1=Mutant Gene Research SPD +1.2%<br>Free Gene Speedup (Mutant) +12m<br>Per 5 Mutant Gene LVLs, Snail ATK +4<br>Mutant Gene LVLs Researched: 150/150
+|ss2=Mutant Gene Research SPD +1.8%<br>Free Gene Speedup (Mutant) +18m<br>Per 5 Mutant Gene LVLs, Snail ATK +6<br>Mutant Gene LVLs Researched: 150/150
+|ss3=Mutant Gene Research SPD +2.4%<br>Free Gene Speedup (Mutant) +24m<br>Per 5 Mutant Gene LVLs, Snail ATK +8<br>Mutant Gene LVLs Researched: 150/150
+|ss4=Mutant Gene Research SPD +3.6%<br>Free Gene Speedup (Mutant) +36m<br>Per 5 Mutant Gene LVLs, Snail ATK +12<br>Mutant Gene LVLs Researched: 150/150
+|ss5=Mutant Gene Research SPD +4.8%<br>Free Gene Speedup (Mutant) +48m<br>Per 5 Mutant Gene LVLs, Snail ATK +16<br>Mutant Gene LVLs Researched: 150/150
+|ss6=Mutant Gene Research SPD +6.6%<br>Free Gene Speedup (Mutant) +1h 6m<br>Per 5 Mutant Gene LVLs, Snail ATK +22<br>Mutant Gene LVLs Researched: 150/150
+|ss7=Mutant Gene Research SPD +6.6%<br>Free Gene Speedup (Mutant) +1h 6m<br>Per 5 Mutant Gene LVLs, Snail ATK +22<br>Mutant Gene LVLs Researched: 150/150<br>Free Gene Speedup (Mutant) +1h (Awakened)
+|skill1=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Travel Speedup Output +30%
+|skill2=[[File:Timemachine skill III.png|50px]]Place in Time Machine: This Relic's TECH +15
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, 2x Blue Reagent Drops +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Mutant Gene Speedup Boost]]
+[[Category:Mutant Gene Boost]]
+[[Category:ATK Boost]]
+[[Category:Time Machine Skill]]
+[[Category:Time Machine Output Boost]]
+[[Category:TECH Boost]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Time Machine Boost]]
+[[Category:RUSH Boost]]
+[[Category:Lottery Machine Boost]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Lottery Draws]]

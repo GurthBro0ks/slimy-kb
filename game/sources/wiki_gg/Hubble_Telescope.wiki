@@ -1,0 +1,53 @@
+{{CargoRelic
+|name=Hubble Telescope
+|rank=S
+|affct=TECH
+|birthday=06-15
+|source=Fragment Crafting (17.8%), Lottery Machine (0.80%), Relic Forge (90 Relic RF), Super Treasure Maps (15%), Wishing (0.65%)
+|description=On Jun 15, 1993, the Hubble Telescope captured the first HD image of the universe. On this day, humans finally caught a glimpse of the universe for the first time. An error of about 2.2 microns, equivalent to one-fifth of a hair, caused Hubble's focus to blur. Later, astronauts launched to repair it via the space shuttle Endeavour.
+
+[Basic info]
+
+Mirror stats: 13.2 meters in total, the maximum diameter is 4.2 meters
+
+Mirrors: 2.4-meter primary mirror and 0.3-meter secondary mirror totally weigh 10 tons
+
+Image: average 20791x19201 pixels
+
+Orbit: 547km from the ground
+
+Speed: 27300 km/h, 163500 orbits
+
+Service: Since 1990
+|fame=56
+|art=53
+|fth=64
+|civ=60
+|tech=99
+|ss1=Angel Gene Research SPD +0.6%<br>Free Gene Speedup (Angel) +6m<br>Per 5 Angel Gene LVLs, Snail RUSH +2<br>Angel Gene LVLs Researched: 150/150
+|ss2=Angel Gene Research SPD +1.2%<br>Free Gene Speedup (Angel) +12m<br>Per 5 Angel Gene LVLs, Snail RUSH +4<br>Angel Gene LVLs Researched: 150/150
+|ss3=Angel Gene Research SPD +1.8%<br>Free Gene Speedup (Angel) +18m<br>Per 5 Angel Gene LVLs, Snail RUSH +6<br>Angel Gene LVLs Researched: 150/150
+|ss4=Angel Gene Research SPD +3%<br>Free Gene Speedup (Angel) +30m<br>Per 5 Angel Gene LVLs, Snail RUSH +10<br>Angel Gene LVLs Researched: 150/150
+|ss5=Angel Gene Research SPD +4.2%<br>Free Gene Speedup (Angel) +42m<br>Per 5 Angel Gene LVLs, Snail RUSH +14<br>Angel Gene LVLs Researched: 150/150
+|ss6=Angel Gene Research SPD +6%<br>Free Gene Speedup (Angel) +1h<br>Per 5 Angel Gene LVLs, Snail RUSH +20<br>Angel Gene LVLs Researched: 150/150
+|ss7=Angel Gene Research SPD +6%<br>Free Gene Speedup (Angel) +1h<br>Per 5 Angel Gene LVLs, Snail RUSH +20<br>Angel Gene LVLs Researched: 150/150<br>Free Gene Speedup (Angel) +1h (Awakened)
+|skill1=[[File:Timemachine skill III.png|50x50px]]Place in Time Machine: This Relic's TECH +15
+|skill2=[[File:Compass skill III.png|50x50px]]Place on Exploration Compass: In any Realm, 2x Green Card Drops +15%
+|skill3=[[File:Murika skill III.png|50x50px]]Place in Murikan Musuem: In Murika, Angel Cells gained +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Angel Gene Speedup Boost]]
+[[Category:Angel Gene Boost]]
+[[Category:RUSH Boost]]
+[[Category:Time Machine Skill]]
+[[Category:TECH Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Angel Cell Drop Boost]]
+[[Category:Fissure Boost]]
+[[Category:DEF Boost]]
+[[Category:Divine Dragon Descents Boost]]
+[[Category:Wood Golem Boost]]

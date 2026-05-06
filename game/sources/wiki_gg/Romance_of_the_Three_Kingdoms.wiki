@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Romance of the Three Kingdoms
+|class_id=20544
+|rank=Green
+|affct=CIV
+|source=
+|description=It is a historical fiction written by the Ming Dynasty author Luo Guanzhong. It is based on popular stories and combines them with the historical records of the Three Kingdoms period. The novel covers a hundred years of tumultuous events from the late Eastern Han dynasty to the early Western Jin dynasty. It portrays a group of renowned heroes from the Three Kingdoms era who have become widely known and beloved by readers around the world.
+|fame=18
+|art=16
+|fth=12
+|civ=32
+|tech=12
+|ss1=Per 5 Incubator Files fully restored, Snail ATK +2<br>Per 5 Incubator Files fully restored, Snail DEF +2<br>Files fully restored: 100/100
+|ss2=Per 5 Incubator Files fully restored, Snail ATK +4<br>Per 5 Incubator Files fully restored, Snail DEF +4<br>Files fully restored: 100/100
+|ss3=Per 5 Incubator Files fully restored, Snail ATK +6<br>Per 5 Incubator Files fully restored, Snail DEF +6<br>Files fully restored: 100/100
+|ss4=Per 5 Incubator Files fully restored, Snail ATK +6<br>Per 5 Incubator Files fully restored, Snail DEF +6<br>Files fully restored: 100/100
+|ss7=Per 5 Incubator Files fully restored, Snail ATK +6<br>Per 5 Incubator Files fully restored, Snail DEF +6<br>Files fully restored: 100/100<br> (Awakened)
+}}

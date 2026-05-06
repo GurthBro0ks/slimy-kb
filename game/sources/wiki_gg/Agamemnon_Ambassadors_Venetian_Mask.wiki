@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=585
+|relics=Agamemnon Ambassadors,Venetian Mask
+|rank=blue
+|amount=2
+|category=self
+|description=Per Recruitment Incident completed, Snail RUSH +5;Completed Recruitment Incidents: 50/50
+}}

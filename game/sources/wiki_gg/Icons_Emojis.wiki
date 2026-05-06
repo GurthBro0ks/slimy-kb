@@ -1,0 +1,189 @@
+= [[Emojis]] =
+Icons for [[Chat]].
+
+[[File:Emoji_icon1.png|frameless|75x75px]]Snail Emoji Picker
+[[File:Emoji_icon2.png|frameless|75x75px]]Bird Emoji Picker
+[[File:Emoji_icon3.png|frameless|75x75px]]Athena Emoji Picker
+[[File:Emoji_icon4.png|frameless|75x75px]]Toad Emoji Picker
+[[File:Emoji_icon5.png|frameless|75x75px]]Red Riding Hood Emoji Picker
+
+===Default ===
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|emoji_01}}
+{{IconExampleRowWithText|emoji_02}}
+{{IconExampleRowWithText|emoji_03}}
+{{IconExampleRowWithText|emoji_04}}
+{{IconExampleRowWithText|emoji_05}}
+{{IconExampleRowWithText|emoji_06}}
+{{IconExampleRowWithText|emoji_07}}
+{{IconExampleRowWithText|emoji_08}}
+{{IconExampleRowWithText|emoji_09}}
+{{IconExampleRowWithText|emoji_10}}
+{{IconExampleRowWithText|emoji_11}}
+{{IconExampleRowWithText|emoji_12}}
+{{IconExampleRowWithText|emoji_13}}
+{{IconExampleRowWithText|emoji_14}}
+{{IconExampleRowWithText|emoji_15}}
+{{IconExampleRowWithText|emoji_16}}
+{{IconExampleRowWithText|emoji_17}}
+{{IconExampleRowWithText|emoji_18}}
+{{IconExampleRowWithText|emoji_19}}
+{{IconExampleRowWithText|emoji_20}}
+{{IconExampleRowWithText|emoji_21}}
+|}
+
+===[[Shining Athena]] ===
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|emoji_101}}
+{{IconExampleRowWithText|emoji_102}}
+{{IconExampleRowWithText|emoji_103}}
+{{IconExampleRowWithText|emoji_104}}
+{{IconExampleRowWithText|emoji_105}}
+{{IconExampleRowWithText|emoji_106}}
+{{IconExampleRowWithText|emoji_107}}
+|}
+
+===[[Hatchery]] ===
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|emoji_201}}
+{{IconExampleRowWithText|emoji_202}}
+{{IconExampleRowWithText|emoji_203}}
+|}
+
+===QCPlay Payment Center ===
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|emoji_1301}}
+{{IconExampleRowWithText|emoji_1302}}
+{{IconExampleRowWithText|emoji_1303}}
+{{IconExampleRowWithText|emoji_1304}}
+{{IconExampleRowWithText|emoji_1305}}
+{{IconExampleRowWithText|emoji_1306}}
+|}
+
+==Unavailable Content==
+
+{{Template:Unavailable Content}}
+
+=== 301 - 310 ===
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|emoji_301}}
+{{IconExampleRowWithText|emoji_302}}
+{{IconExampleRowWithText|emoji_303}}
+{{IconExampleRowWithText|emoji_304}}
+{{IconExampleRowWithText|emoji_305}}
+{{IconExampleRowWithText|emoji_306}}
+{{IconExampleRowWithText|emoji_307}}
+{{IconExampleRowWithText|emoji_308}}
+{{IconExampleRowWithText|emoji_309}}
+{{IconExampleRowWithText|emoji_310}}
+|}
+
+=== 501 - 508 ===
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|emoji_501}}
+{{IconExampleRowWithText|emoji_502}}
+{{IconExampleRowWithText|emoji_503}}
+{{IconExampleRowWithText|emoji_504}}
+{{IconExampleRowWithText|emoji_505}}
+{{IconExampleRowWithText|emoji_506}}
+{{IconExampleRowWithText|emoji_507}}
+{{IconExampleRowWithText|emoji_508}}
+|}
+
+=== 601 - 608 ===
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|emoji_601}}
+{{IconExampleRowWithText|emoji_602}}
+{{IconExampleRowWithText|emoji_603}}
+{{IconExampleRowWithText|emoji_604}}
+{{IconExampleRowWithText|emoji_605}}
+{{IconExampleRowWithText|emoji_606}}
+{{IconExampleRowWithText|emoji_607}}
+{{IconExampleRowWithText|emoji_608}}
+|}
+
+=== 701 - 708 ===
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|emoji_701}}
+{{IconExampleRowWithText|emoji_702}}
+{{IconExampleRowWithText|emoji_703}}
+{{IconExampleRowWithText|emoji_704}}
+{{IconExampleRowWithText|emoji_705}}
+{{IconExampleRowWithText|emoji_706}}
+{{IconExampleRowWithText|emoji_707}}
+{{IconExampleRowWithText|emoji_708}}
+|}
+
+=== 801 - 808 ===
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|emoji_801}}
+{{IconExampleRowWithText|emoji_802}}
+{{IconExampleRowWithText|emoji_803}}
+{{IconExampleRowWithText|emoji_804}}
+{{IconExampleRowWithText|emoji_805}}
+{{IconExampleRowWithText|emoji_806}}
+{{IconExampleRowWithText|emoji_807}}
+{{IconExampleRowWithText|emoji_808}}
+|}
+
+=== 901 - 908 ===
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|emoji_901}}
+{{IconExampleRowWithText|emoji_902}}
+{{IconExampleRowWithText|emoji_903}}
+{{IconExampleRowWithText|emoji_904}}
+{{IconExampleRowWithText|emoji_905}}
+{{IconExampleRowWithText|emoji_906}}
+{{IconExampleRowWithText|emoji_907}}
+{{IconExampleRowWithText|emoji_908}}
+|}
+
+=== 1001 - 1008 ===
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|emoji_1001}}
+{{IconExampleRowWithText|emoji_1002}}
+{{IconExampleRowWithText|emoji_1003}}
+{{IconExampleRowWithText|emoji_1004}}
+{{IconExampleRowWithText|emoji_1005}}
+{{IconExampleRowWithText|emoji_1006}}
+{{IconExampleRowWithText|emoji_1007}}
+{{IconExampleRowWithText|emoji_1008}}
+|}
+
+=== 1101 - 1112 ===
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|emoji_1101}}
+{{IconExampleRowWithText|emoji_1102}}
+{{IconExampleRowWithText|emoji_1103}}
+{{IconExampleRowWithText|emoji_1104}}
+{{IconExampleRowWithText|emoji_1105}}
+{{IconExampleRowWithText|emoji_1106}}
+{{IconExampleRowWithText|emoji_1107}}
+{{IconExampleRowWithText|emoji_1108}}
+{{IconExampleRowWithText|emoji_1109}}
+{{IconExampleRowWithText|emoji_1110}}
+{{IconExampleRowWithText|emoji_1111}}
+{{IconExampleRowWithText|emoji_1112}}
+|}
+
+=== 1201 - 1203 ===
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|emoji_1201}}
+{{IconExampleRowWithText|emoji_1202}}
+{{IconExampleRowWithText|emoji_1203}}
+|}
+
+[[Category:Icons]]

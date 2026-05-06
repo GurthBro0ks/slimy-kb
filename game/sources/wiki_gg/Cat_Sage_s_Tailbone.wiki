@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=Cat Sage's Tailbone
+|type=Common
+|rank=purple
+|id=10858
+|idx=63
+|description=After the Cat Sage ascended, its flesh decayed into bone. The remains were madly fought over and mostly boiled into broth—only this single tailbone survived by sheer luck.
+|skill=
+|hp=1764
+|def=106
+|atk=121
+|rush=228
+|gene1=Per purple or higher organ implanted, {race} DEF +3
+Purple or higher Organs implanted: 40/40
+|gene2=Per Divine Dragon Descent, {race} HP +60
+Divine Dragon Descents: 20/20
+|gene3=Ignore Water RES +60
+|gene4=When in Dragon Form:
+> Gain +4% Dragon Chests in explorations
+|gene7=When in Dragon Form:
+> Gain +4% Dragon Chests in explorations (Awakened)
+|}}

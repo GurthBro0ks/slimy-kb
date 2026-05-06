@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=True Cross
+|class_id=21719
+|rank=SSS
+|affct=FAITH
+|birthday=10-06
+|source=
+|description=On Oct 6, 33 AD, this cross, which was used to crucify Jesus, became a holy relic.<br>Jesus Christ was crucified on this cross and resurrected 3 days later. The True Cross is regarded as a symbol of salvation that Jesus gave to humanity. It is said that when Baldwin IV fought in the Crusades and charged with the front lines, the True Cross beside him was emitting the bright rays of the sun, helping him to defeat a much stronger army. The last time the True Cross appeared in history was at the Battle of Hattin, which ended in Crusaders' defeat, and the True Cross fell into the hands of Muslims.
+|fame=64
+|art=65
+|fth=108
+|civ=69
+|tech=56
+|ss1=Per 60 Angel Minions in battle:<br>> Troop ATK +9<br>Per 60 Angel Minions in battle:<br>> Troop DEF +9<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Per 60 Angel Minions in battle:<br>> Troop ATK +18<br>Per 60 Angel Minions in battle:<br>> Troop DEF +18<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Per 60 Angel Minions in battle:<br>> Troop ATK +27<br>Per 60 Angel Minions in battle:<br>> Troop DEF +27<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Per 60 Angel Minions in battle:<br>> Troop ATK +45<br>Per 60 Angel Minions in battle:<br>> Troop DEF +45<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Per 60 Angel Minions in battle:<br>> Troop ATK +63<br>Per 60 Angel Minions in battle:<br>> Troop DEF +63<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Per 60 Angel Minions in battle:<br>> Troop ATK +90<br>Per 60 Angel Minions in battle:<br>> Troop DEF +90<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Per 60 Angel Minions in battle:<br>> Troop ATK +90<br>Per 60 Angel Minions in battle:<br>> Troop DEF +90<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Upon traveling through a new area, gain +30 INTEL
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x Food Drops +15%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail DEF +600
+|mirage={{Mirage|name=Salvation|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Apostle Petro|3rec=3.21M|3atk=43408|3defense=29020|3hp=648324|3weak=9602
+|4name=John|4rec=6.24M|4atk=63020|4defense=42131|4hp=1219622|4weak=12298
+|5name=Barth the Apostle|5rec=11.40M|5atk=87292|5defense=58357|5hp=2256834|5weak=14497
+|6name=Metthew|6rec=24.09M|6atk=116352|6defense=77784|6hp=3706356|6weak=18014
+|Arec=40.26M|Aatk=150381|Adefense=100533|Ahp=5983083|Aweak=19355
+}}}}

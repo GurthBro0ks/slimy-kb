@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Gordian Knot
+|rank=AAA
+|affct=FAME
+|birthday=03-21
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On Mar 21, 325 BC, Alexander the Great cut the Gordian Knot with a sword.
+
+When Alexander the Great saw the Gordian Knot in Phrygia, he took out his sword, cut it in half, and solved the problem. Legend has it that the deceased king of Phrygia had no heir. An oracle said that the new king would come in an ox cart, and the people declared Gordius as king as they saw him and the priestess arriving in an ox cart. Gordius won the throne and the beauty at the same time. He was very grateful to Zeus. Hence, he presented the lucky ox cart to Zeus. In order to prevent others from stealing the cart, he tied it firmly with an intricate knot. 
+|fame=71
+|art=44
+|fth=45
+|civ=49
+|tech=34
+|ss1=Per 40 wishes made, Snail ATK +12<br>Per 40 wishes made, Snail DEF +12<br>Wishes Made:400/400
+|ss2=Per 40 wishes made, Snail ATK +16<br>Per 40 wishes made, Snail DEF +16<br>Wishes Made:400/400
+|ss3=Per 40 wishes made, Snail ATK +20<br>Per 40 wishes made, Snail DEF +20<br>Wishes Made:400/400
+|ss4=Per 40 wishes made, Snail ATK +28<br>Per 40 wishes made, Snail DEF +28<br>Wishes Made:400/400
+|ss5=Per 40 wishes made, Snail ATK +36<br>Per 40 wishes made, Snail DEF +36<br>Wishes Made:400/400
+|ss7=Per 40 wishes made, Snail ATK +36<br>Per 40 wishes made, Snail DEF +36<br>Wishes Made:400/400<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Cathay skill II.png|50px]] Place in Cathay Museum: In Cathay, Snail DEF +30
+|skill2=[[File:Cathay skill II.png|50px]] Place in Cathay Museum: This Relic's FAME +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FAME Relics]]
+[[Category:Purple FAME Relics]]
+[[Category:Lottery Bead Color Change]]
+[[Category:RUSH Boost]]
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Enhanced by Wishes]]
+[[Category:Tomb Figure Boost]]

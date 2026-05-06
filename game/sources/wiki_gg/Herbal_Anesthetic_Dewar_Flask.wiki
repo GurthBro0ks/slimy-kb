@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=301
+|relics=Herbal Anesthetic,Dewar Flask
+|rank=blue
+|amount=2
+|category=self
+|description=Per 50 Minions healed, Snail HP +50;Minions healed: 2000/2000
+}}

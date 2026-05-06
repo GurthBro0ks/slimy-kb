@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Count of Monty Christi
+|class_id=22177
+|rank=AAA
+|affct=CIV
+|birthday=08-02
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Aug 2, 1845 AD, The Count of Monte Cristo was published for the first time, becoming Daumas' magnum opus.<br>The Count of Monte Cristo takes place during the 19th century. Edmane, the Pharaoh's 1st Mate, was entrusted to deliver a secret letter, but he was framed and thrown into jail. During his imprisonment, his cellmate, Father Feria, taught him many things, including the location of treasure buried on the island of Monte Cristo. 14 years later, he escaped, found the treasure, and became rich. He changed his name to Count of Monte Cristo, and after careful planning, avenged himself and repaid his benefactor.
+|fame=52
+|art=48
+|fth=36
+|civ=73
+|tech=34
+|ss1=Demon God Cabin Output +3%<br>Per Demon God slain, Snail RUSH +18<br>Demon Gods Slain: 8/8
+|ss2=Demon God Cabin Output +4%<br>Per Demon God slain, Snail RUSH +24<br>Demon Gods Slain: 8/8
+|ss3=Demon God Cabin Output +5%<br>Per Demon God slain, Snail RUSH +30<br>Demon Gods Slain: 8/8
+|ss4=Demon God Cabin Output +7%<br>Per Demon God slain, Snail RUSH +42<br>Demon Gods Slain: 8/8
+|ss5=Demon God Cabin Output +9%<br>Per Demon God slain, Snail RUSH +54<br>Demon Gods Slain: 8/8
+|ss7=Demon God Cabin Output +9%<br>Per Demon God slain, Snail RUSH +54<br>Demon Gods Slain: 8/8<br>Demon God Cabin Output +7% (Awakened)
+|skill1=[[File:Arena skill II.png|50px]]Place in Snail Arena Compass: In Snail Arena, CRIT +10%
+|skill2=[[File:Arena skill II.png|50px]]Place in Snail Arena Compass: In Snail Arena, Lifesteal Rate +10%
+}}

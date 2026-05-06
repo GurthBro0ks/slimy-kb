@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=WHC,Mysterious Relic,Mysterious Relic
+|rank=orange
+|amount=3
+|category=home
+|description=All Sanctum Divine Crystal Output +3.2%
+}}
+[[Category:Minion]]
+[[Category:Sanctum Boost]]

@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Big Fish Bone
+|rank=Blue
+|affct=CIV
+|birthday=06-19
+|source=* Lottery (0.36%), Novice Scrolls (5%), Wishing (10.3%)
+* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})
+|description=On Jun 19, 1946, a weary old man dragged a big fish skeleton ashore.
+
+The old man wandered on the sea for 3 days and 3 nights. With his strong physique and rich experience, he caught the biggest fish in his life. It was a fish with purple stripes, a smooth back, a pointed mouth, and a huge body. But as he was alone on the way back, sharks attacked him and ate all fish meat. He took the skeleton of the fish back to his shabby hut.
+
+[Famous Quotes]
+
+I'll fight them until I die.
+
+Man is not made for defeat. 
+
+A man can be destroyed but not defeated.
+|fame=33
+|art=22
+|fth=29
+|civ=44
+|tech=26
+|ss1=Per Organ transplanted, Snail ATK +2<br>Organs Transplanted: 40/40
+|ss2=Per Organ transplanted, Snail ATK +4<br>Organs Transplanted: 40/40
+|ss3=Per Organ transplanted, Snail ATK +6<br>Organs Transplanted: 40/40
+|ss4=Per Organ transplanted, Snail ATK +10<br>Organs Transplanted: 40/40
+|ss7=Per Organ transplanted, Snail ATK +10<br>Organs Transplanted: 40/40<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Fungusfarm skill I.png|50px]]Place in Fungus Farm: Max Cap +5%
+}}
+
+[[Category:Organ Boost]]
+[[Category:ATK Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:Mecha Gene Speedup Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Chika Boost]]
+[[Category:Indigent Nobleman Relics]]

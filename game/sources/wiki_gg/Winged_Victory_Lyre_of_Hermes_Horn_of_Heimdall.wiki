@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=239
+|relics=Winged Victory,Lyre of Hermes,Horn of Heimdall
+|rank=orange
+|amount=3
+|category=self
+|description=Per 1k DNA Strength, Snail RUSH +5;DNA Strength: 48000/48000
+}}

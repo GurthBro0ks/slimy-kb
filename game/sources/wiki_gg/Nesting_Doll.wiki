@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The bottom of the nesting dolls says, "Beautiful Katyusha, I shall return in summer or fall."
+|affct=CIV
+|hard=DEF
+|source=Divine Order Chest (0.4%)
+|color=blue
+|earth=3
+|water=4
+|fire=4
+|wind=3
+|form=Mutant
+|element=Water
+|realm=Hellas
+|orangehard=HP
+}}

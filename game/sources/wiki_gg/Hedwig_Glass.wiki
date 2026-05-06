@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Hedwig Glass
+|class_id=22029
+|rank=Blue
+|affct=ART
+|birthday=10-09
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Oct 9, 1150 AD, the Hedwig Glass was made.<br>The Hedwig Glass was named after its owner Lady Hedwig. Both its shape and design are unique. On the one side are inscribed with a lion and a griffon, and on the other is the tree of life. Other than its pretty look, there's a legend about this glass. It is said that Lady Hedwig strictly forbade herself from drinking alcohol, yet her husband the duke found that the water poured into his wife's glass would miraculously turn into wine when she drank it.
+|fame=20
+|art=45
+|fth=29
+|civ=37
+|tech=23
+|ss1=Per 10 Demon Minions in battle:<br>> Troop HP +10
+|ss2=Per 10 Demon Minions in battle:<br>> Troop HP +20
+|ss3=Per 10 Demon Minions in battle:<br>> Troop HP +30
+|ss4=Per 10 Demon Minions in battle:<br>> Troop HP +50
+|ss7=Per 10 Demon Minions in battle:<br>> Troop HP +50<br>Per 10 Demon Minions in battle:<br>> Troop HP +50 (Awakened)
+|skill1=[[File:Surfclam skill I.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion HP +1.5%
+}}

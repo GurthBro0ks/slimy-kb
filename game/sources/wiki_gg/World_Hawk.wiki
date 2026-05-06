@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=World Hawk
+|class_id=21835
+|rank=SSS
+|affct=TECH
+|source=
+|description=The World Hawk is one of the most renowned unmanned aircrafts, boasting a range of 25,000 kilometers and an auto-flight time of 41 hours. Equipped with an advanced recon-radar system, this aircraft can collect intelligence over an extensive area. Its commanding system facilitates real-time intelligence transmission, enhancing overall control capabilities for commanders. The practical application of the World Hawk in warfare has paved the way for further advancements and developments in the aviation technology.
+|fame=71
+|art=63
+|fth=55
+|civ=65
+|tech=108
+|ss1=Luck Egg hatching rate +3%<br>Per 10 Lucky Eggs hatched, Snail HP +30<br>Per 10 Lucky Eggs hatched, Snail DEF +3<br>400/400 Lucky Eggs hatched
+|ss2=Luck Egg hatching rate +4%<br>Per 10 Lucky Eggs hatched, Snail HP +40<br>Per 10 Lucky Eggs hatched, Snail DEF +4<br>400/400 Lucky Eggs hatched
+|ss3=Luck Egg hatching rate +5%<br>Per 10 Lucky Eggs hatched, Snail HP +50<br>Per 10 Lucky Eggs hatched, Snail DEF +5<br>400/400 Lucky Eggs hatched
+|ss4=Luck Egg hatching rate +7%<br>Per 10 Lucky Eggs hatched, Snail HP +70<br>Per 10 Lucky Eggs hatched, Snail DEF +7<br>400/400 Lucky Eggs hatched
+|ss5=Luck Egg hatching rate +9%<br>Per 10 Lucky Eggs hatched, Snail HP +90<br>Per 10 Lucky Eggs hatched, Snail DEF +9<br>400/400 Lucky Eggs hatched
+|ss6=Luck Egg hatching rate +12%<br>Per 10 Lucky Eggs hatched, Snail HP +120<br>Per 10 Lucky Eggs hatched, Snail DEF +12<br>400/400 Lucky Eggs hatched
+|ss7=Luck Egg hatching rate +12%<br>Per 10 Lucky Eggs hatched, Snail HP +120<br>Per 10 Lucky Eggs hatched, Snail DEF +12<br>400/400 Lucky Eggs hatched<br>Luck Egg hatching rate +10% (Awakened)
+|skill1=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: Lucky Egg hatching efficiency +30%
+|skill2=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: Blue rewards from this egg turn Purple by 6%
+|skill3=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: Green rewards from this egg turn Blue by 6%
+|mirage={{Mirage|name=Eagle Family|reward={{RewardIconWithLink|AR2-T4 Capsule, +1|orange}}
+|3name=City Hawk|3rec=80.08M|3atk=234678|3defense=156563|3hp=13898020|3weak=30909
+|4name=Village Hawk|4rec=106.10M|4atk=289557|4defense=193175|4hp=20069076|4weak=35573
+|5name=Provincial Hawk|5rec=136.54M|5atk=353743|5defense=235996|5hp=28262080|5weak=40349
+|6name=National Hawk|6rec=171.39M|6atk=427236|6defense=285026|6hp=38513833|6weak=47134
+|Arec=211.19M|Aatk=511178|Adefense=341027|Ahp=51944954|Aweak=52985
+}}}}

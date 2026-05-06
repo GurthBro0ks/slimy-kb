@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Niobe's St Rock
+|class_id=22448
+|rank=Blue
+|affct=FAITH
+|birthday=10-22
+|source=Lottery Machine No.3 (0.06%)
+|description=On Oct 22, 430 BC, the statue of Niobe was made in ancient Greece.<br>This statue is the work of Scopas, an ancient Greek sculptor, depicting the tragic story of Queen Niobe from Greek mythology. Niobe was the granddaughter of Zeus, had seven sons and seven daughters, and ruled a powerful kingdom. Her arrogance led her to forbid people from worshiping Leto and her children, Apollo and Artemis. As divine retribution for her great disrespect, all fourteen of her children died tragically and she herself turned into a stone statue in her grief.
+|fame=24
+|art=33
+|fth=44
+|civ=23
+|tech=30
+|ss1=Per Tribal Warfare participation, Snail ATK +1<br>Tribal Warfare Participation: 50/50
+|ss2=Per Tribal Warfare participation, Snail ATK +2<br>Tribal Warfare Participation: 50/50
+|ss3=Per Tribal Warfare participation, Snail ATK +3<br>Tribal Warfare Participation: 50/50
+|ss4=Per Tribal Warfare participation, Snail ATK +5<br>Tribal Warfare Participation: 50/50
+|ss7=Per Tribal Warfare participation, Snail ATK +5<br>Tribal Warfare Participation: 50/50<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Dungbeetle skill I.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Wind DMG +10
+}}

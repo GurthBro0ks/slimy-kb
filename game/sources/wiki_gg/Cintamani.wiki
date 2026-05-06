@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Cintamani
+|class_id=22167
+|rank=AAA
+|affct=FAITH
+|birthday=03-28
+|source=
+|description=On Mar 28, 657 AD, a Cintamani was placed atop the Buddhist altar.<br>The Cintamani is one of the sacred treasures of Buddhism. It was found amidst all kinds of strange and wonderful objects and holds the power to benefit all living beings. Because it can ameliorate the weather, heal the sick, purify water, and avert disasters, it is worshiped by people far and wide.
+|fame=40
+|art=52
+|fth=71
+|civ=35
+|tech=45
+|ss1=When you Wish, get 1 Taichi Fish by +3%<br>Per 100 Wishes made, Snail ATK +3<br>Wishes Made: 5000/5000
+|ss2=When you Wish, get 1 Taichi Fish by +4%<br>Per 100 Wishes made, Snail ATK +4<br>Wishes Made: 5000/5000
+|ss3=When you Wish, get 1 Taichi Fish by +5%<br>Per 100 Wishes made, Snail ATK +5<br>Wishes Made: 5000/5000
+|ss4=When you Wish, get 1 Taichi Fish by +7%<br>Per 100 Wishes made, Snail ATK +7<br>Wishes Made: 5000/5000
+|ss5=When you Wish, get 1 Taichi Fish by +9%<br>Per 100 Wishes made, Snail ATK +9<br>Wishes Made: 5000/5000
+|ss7=When you Wish, get 1 Taichi Fish by +9%<br>Per 100 Wishes made, Snail ATK +9<br>Wishes Made: 5000/5000<br>When you Wish, get 1 Taichi Fish by +7% (Awakened)
+|skill1=[[File:Bharata skill II.png|50px]]Place in Bharata Museum: In Bharata, Snail HP +3000
+|skill2=[[File:Bharata skill II.png|50px]]Place in Bharata Museum: This Relic's FTH +10
+}}

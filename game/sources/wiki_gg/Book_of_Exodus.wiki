@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Book of Exodus
+|class_id=22684
+|rank=SSS
+|affct=FAITH
+|birthday=07-27
+|source=
+|description=On Jul 27, 1403 BC, Moses led his followers on the journey out of Egypt.<br>To save the Hebrew people in distress, God chose Moses as the redeemer, gave him some trials, and then led him to lead his fellow countrymen across the Red Sea and out of Egypt, and brought down various miracles that made the Egyptian pharaoh who obstructed them back down. They finally arrived safely in a new land and established the law there. During this time, Moses recorded these stories, which became the classic book known to posterity as the Book of Exodus.
+|fame=58
+|art=78
+|fth=107
+|civ=55
+|tech=64
+|ss1=Gaia Cabin Output +3%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +24<br>Fervor: 500000/500000
+|ss2=Gaia Cabin Output +4%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +32<br>Fervor: 500000/500000
+|ss3=Gaia Cabin Output +5%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +40<br>Fervor: 500000/500000
+|ss4=Gaia Cabin Output +7%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +56<br>Fervor: 500000/500000
+|ss5=Gaia Cabin Output +9%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +72<br>Fervor: 500000/500000
+|ss6=Gaia Cabin Output +12%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +96<br>Fervor: 500000/500000
+|ss7=Gaia Cabin Output +12%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 10,000 Fervor, Priest-Troop Assistance DMG +96<br>Fervor: 500000/500000<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion RUSH +9%
+|skill2=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion ATK +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FTH +15
+|mirage={{Mirage|name=Journey of Redemption|reward={{RewardIconWithLink|Crystal of Will, +1|orange}}
+|3name=Refugee|3rec=106.15M|3atk=328391|3defense=193236|3hp=29181893|3weak=41029
+|4name=Pharaoh|4rec=121.12M|4atk=360907|4defense=214298|4hp=38147418|4weak=44587
+|5name=Aaron|5rec=140.55M|5atk=403672|5defense=241641|5hp=53056333|5weak=48566
+|6name=Moses|6rec=167.24M|6atk=463023|6defense=279192|6hp=79159820|6weak=53117
+|Arec=204.81M|Aatk=542543|Adefense=332046|Ahp=118286587|Aweak=58226
+}}}}

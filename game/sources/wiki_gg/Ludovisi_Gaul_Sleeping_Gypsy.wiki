@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Ludovisi Gaul,Sleeping Gypsy
+|rank=blue
+|amount=2
+|category=other
+|description=In any Realm, INTEL gained +3%
+}}
+[[Category:Other]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Papin Pot
+|class_id=20824
+|rank=Green
+|affct=TECH
+|source=
+|description=The pressure cooker, the world's first, was invented by physicist Papin. He discovered that the boiling point of water changes with air pressure – the higher the pressure, the higher the boiling point. Therefore, he designed and created a sealed container to trap steam generated from heating water, creating a high-temperature, high-pressure environment that accelerated cooking efficiency.
+|fame=18
+|art=13
+|fth=15
+|civ=12
+|tech=32
+|ss1=Per Master Chef's Legacy activated, Snail ATK +1<br>Master Chef's Legacy activated: 60/60
+|ss2=Per Master Chef's Legacy activated, Snail ATK +2<br>Master Chef's Legacy activated: 60/60
+|ss3=Per Master Chef's Legacy activated, Snail ATK +3<br>Master Chef's Legacy activated: 60/60
+|ss4=Per Master Chef's Legacy activated, Snail ATK +3<br>Master Chef's Legacy activated: 60/60
+|ss7=Per Master Chef's Legacy activated, Snail ATK +3<br>Master Chef's Legacy activated: 60/60<br> (Awakened)
+}}

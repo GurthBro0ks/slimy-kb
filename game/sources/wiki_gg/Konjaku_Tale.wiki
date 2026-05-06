@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Konjaku Tale
+|class_id=22179
+|rank=AAA
+|affct=CIV
+|birthday=09-13
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Sept 13, 1077 AD, the compilation of the Konjaku Tale was completed.<br>Konjaku Tale is a collection of stories written by a high government official in ancient times. The book consists of thirty-one volumes, which records more than a thousand legends. These are divided into two parts: Buddhist and secular stories. The latter includes anecdotes of historical figures, moral fables, and folklore that each touch on pragmatic life lessons. This book provides important insight into the life and times of Samurai and the common people. It is also the origin of many later-created "spoken stories," and has provided a wealth of material for modern writers.
+|fame=47
+|art=52
+|fth=42
+|civ=71
+|tech=31
+|ss1=Per 4 CIV Relics gained, Snail ATK +6<br>Per 4 CIV Relics gained, Snail RUSH +6<br>CIV Relics: 120/120
+|ss2=Per 4 CIV Relics gained, Snail ATK +8<br>Per 4 CIV Relics gained, Snail RUSH +8<br>CIV Relics: 120/120
+|ss3=Per 4 CIV Relics gained, Snail ATK +10<br>Per 4 CIV Relics gained, Snail RUSH +10<br>CIV Relics: 120/120
+|ss4=Per 4 CIV Relics gained, Snail ATK +14<br>Per 4 CIV Relics gained, Snail RUSH +14<br>CIV Relics: 120/120
+|ss5=Per 4 CIV Relics gained, Snail ATK +18<br>Per 4 CIV Relics gained, Snail RUSH +18<br>CIV Relics: 120/120
+|ss7=Per 4 CIV Relics gained, Snail ATK +18<br>Per 4 CIV Relics gained, Snail RUSH +18<br>CIV Relics: 120/120<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Green Card Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail CIV +400
+}}

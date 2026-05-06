@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=217
+|relics=Watt Steam Engine,Aegis System
+|rank=orange
+|amount=2
+|category=self
+|description=Per 10k Relic Points, Snail RUSH +5;Relic Points: 420000/420000
+}}

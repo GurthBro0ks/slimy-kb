@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Thus Spoke Zarathustra
+|class_id=22584
+|rank=AAA
+|affct=CIV
+|birthday=07-19
+|source=
+|description=On Jul 19, 1883 AD, Nietzsche began writing this famous philosophical work in the form of prose poetry.<br>Thus Spoke Zarathustra is one of the famous philosopher Nietzsche's representative works. In this book, the author uses the mouth of Zarathustra to deny the traditional morality propagated by Christianity in the old era, which is based on faith and obedience and proposes his advocated Superman idea: humanity should become strong, break free from the shackles of religion and life, and assert their own rights. His rebellious thoughts stimulated people at that time to break free from the thought control of the church and awaken a sense of freedom and independence.
+|fame=45
+|art=46
+|fth=42
+|civ=74
+|tech=36
+|ss1=Mutant Minion ATK +3%<br>Minion Recovery SPD +1.5%
+|ss2=Mutant Minion ATK +4%<br>Minion Recovery SPD +2%
+|ss3=Mutant Minion ATK +5%<br>Minion Recovery SPD +2.5%
+|ss4=Mutant Minion ATK +7%<br>Minion Recovery SPD +3.5%
+|ss5=Mutant Minion ATK +9%<br>Minion Recovery SPD +4.5%
+|ss7=Mutant Minion ATK +9%<br>Minion Recovery SPD +4.5%<br>Minion Recovery SPD +3.5% (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's CIV +10
+}}

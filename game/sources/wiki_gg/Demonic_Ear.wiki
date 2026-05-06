@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=Demonic Ear
+|type=Bionic
+|rank=red
+|id=10718
+|idx=76
+|description="It hears our words. It hears our movements. It hears our desperate heartbeats and the blood coursing through our veins. And It listens with a gluttonous hunger..."
+— Demon King's Revelation
+|skill=Before round start, envelop the body with fighting spirit, increasing DMG REDUC by 45% this round!
+|hp=2250
+|def=236
+|atk=351
+|rush=258
+|gene1=Snail Arena, HP Regen +1600 per round
+|gene2=In Snail Arena, HIT +12%
+|gene3=Per 30 Star Coins redeemed, {race} HP +700
+Star Coin Redeems: 90/90
+|gene4=Snail Arena, Healing +24%
+|gene5=Water RES +120
+|gene6=Snail Arena, chance to paralyze enemy +4%
+|gene7=Snail Arena, Healing +24% (Awakened)
+|}}

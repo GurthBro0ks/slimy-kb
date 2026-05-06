@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Fenian Cycle
+|class_id=22722
+|rank=SSS
+|affct=CIV
+|birthday=05-26
+|source=
+|description=On May 26, 983 AD, the stories were compiled into a book by the Irish people.<br>The Fenian Cycle is a collection of famous Gaelic stories and ballads in ancient Ireland and one of the four ancient Irish folk legends. The book tells of the great hero Fionn and his Fianna warriors' adventurous legends of bravery and sacrifice. Under the leadership of the hero Fionn, they defeated demons and giants, resisted foreign invasions, defended local order and peace, and made numerous heroic feats. The stories of the Fenian Cycle are still the most popular part of Irish folklore to this day.
+|fame=68
+|art=69
+|fth=67
+|civ=106
+|tech=52
+|ss1=Snail Leadership +3<br>Mutant Minion RUSH +3%<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +3<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss2=Snail Leadership +4<br>Mutant Minion RUSH +4%<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +4<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss3=Snail Leadership +5<br>Mutant Minion RUSH +5%<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +5<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss4=Snail Leadership +7<br>Mutant Minion RUSH +7%<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +7<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss5=Snail Leadership +9<br>Mutant Minion RUSH +9%<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +9<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss6=Snail Leadership +12<br>Mutant Minion RUSH +12%<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +12<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss7=Snail Leadership +12<br>Mutant Minion RUSH +12%<br>Per 2,000 Swamp Sanctum Rating Pts, Snail ATK +12<br>Swamp Sanctum Rating Pts: 100000/100000<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Output +30%
+|skill2=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: This Relic's CIV +15
+|skill3=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Cap +30%
+|mirage={{Mirage|name=Fiona Warrior|reward={{RewardIconWithLink|Recruit Token, +10|orange}}
+|3name=Ossian|3rec=118.15M|3atk=354522|3defense=210128|3hp=36014569|3weak=43898
+|4name=Oscar|4rec=135.48M|4atk=392220|4defense=234509|4hp=48177930|4weak=47564
+|5name=Dirumudo|5rec=158.64M|5atk=444258|5defense=267095|5hp=69111249|5weak=51751
+|6name=Finn|6rec=190.53M|6atk=512272|6defense=311957|6hp=102241645|6weak=56434
+|Arec=235.78M|Aatk=606726|Adefense=374686|Ahp=163952807|Aweak=61597
+}}}}

@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Chemical Bond Theory,Mysterious Relic,Mysterious Relic,Mysterious Relic
+|rank=orange
+|amount=4
+|category=self
+|description=Per 100 catalysis, Snail RUSH +9; Catalysis: 5000/5000
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]

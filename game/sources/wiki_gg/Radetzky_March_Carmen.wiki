@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Radetzky March,Carmen
+|rank=orange
+|amount=2
+|category=self
+|description=Per 3 FTH Relics Awakened, Snail Oblivion Power +7; FTH Relics Awakened: 180/180
+}}
+[[Category:Self]]
+[[Category:Oblivion Power Boost]]
+[[Category:Enhanced by FTH Relics Awakened]]

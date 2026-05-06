@@ -1,0 +1,16 @@
+{{CargoOrgan
+|name=Bewitching Eye
+|type=Bionic
+|rank=green
+|id=10646
+|idx=2
+|description=It is said that this eyeball was made by the Demon God. Its gaze will make people fall into madness and give everything for it, including their lives!
+|skill=Before round start, summon the Bewitching Eye, increasing the Break Chance by 65% this round
+|hp=350
+|def=89
+|atk=40
+|rush=43
+|gene1=In explorations, 2x Food Drops +2.5%
+|gene2=In explorations, {race} RUSH +20
+|gene7=In explorations, 2x Food Drops +2.5% (Awakened)
+|}}

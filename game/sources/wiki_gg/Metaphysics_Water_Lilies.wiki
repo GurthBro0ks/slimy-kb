@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Metaphysics,Water Lilies
+|rank=orange
+|amount=2
+|category=minion
+|description=Mutant Minion DEF +7%
+}}
+[[Category:Minion]]
+[[Category:Mutant Minion DEF Boost]]

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Grand Unified Theory
+|class_id=22351
+|rank=SSS
+|affct=TECH
+|birthday=09-29
+|source=
+|description=On Sept 29, 1936 AD, Einstein began his research on Grand Unified Theory.<br>These manuscripts are the result of generations of scientists delving into the Grand Unified Theory. Einstein proposed this theory in order to investigate and provide a unified account of the interactions between microscopic particles, i.e. electromagnetism and strong and weak forces. Unfortunately, he did not achieve this goal, but scientists of later generations gradually proposed theories such as spontaneous symmetry breaking, which confirmed the correctness of the idea of unification of interactions and prompted scientists to pursue further research on the Grand Unified Theory.
+|fame=63
+|art=48
+|fth=83
+|civ=61
+|tech=107
+|ss1=Snail ATK +30<br>Per Dragon Form Tier, Snail HP +300<br>Per Dragon Form Tier, Snail ATK +30<br>Dragon Form Tiers: 9/9
+|ss2=Snail ATK +40<br>Per Dragon Form Tier, Snail HP +400<br>Per Dragon Form Tier, Snail ATK +40<br>Dragon Form Tiers: 9/9
+|ss3=Snail ATK +50<br>Per Dragon Form Tier, Snail HP +500<br>Per Dragon Form Tier, Snail ATK +50<br>Dragon Form Tiers: 9/9
+|ss4=Snail ATK +70<br>Per Dragon Form Tier, Snail HP +700<br>Per Dragon Form Tier, Snail ATK +70<br>Dragon Form Tiers: 9/9
+|ss5=Snail ATK +90<br>Per Dragon Form Tier, Snail HP +900<br>Per Dragon Form Tier, Snail ATK +90<br>Dragon Form Tiers: 9/9
+|ss6=Snail ATK +120<br>Per Dragon Form Tier, Snail HP +1200<br>Per Dragon Form Tier, Snail ATK +120<br>Dragon Form Tiers: 9/9
+|ss7=Snail ATK +120<br>Per Dragon Form Tier, Snail HP +1200<br>Per Dragon Form Tier, Snail ATK +120<br>Dragon Form Tiers: 9/9<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Fire DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=Fundamental Forces|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Gravity|3rec=62.55M|3atk=197703|3defense=131895|3hp=10223731|3weak=25018
+|4name=Electromagnetism|4rec=78.53M|4atk=231419|4defense=154389|4hp=13678209|4weak=30629
+|5name=Weak Interaction|5rec=96.39M|5atk=269069|5defense=179506|5hp=17620575|5weak=33830
+|6name=Strong Interaction|6rec=116.67M|6atk=311852|6defense=208049|6hp=22815830|6weak=37115
+|Arec=138.71M|Aatk=358316|Adefense=239047|Ahp=28692570|Aweak=40779
+}}}}

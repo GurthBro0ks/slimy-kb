@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=From the New World
+|class_id=22544
+|rank=AAA
+|affct=ART
+|birthday=10-31
+|source=
+|description=On Oct 31, 1893 AD, Dvo?ák's Symphony From the New World was performed for the first time in New York, and it was a huge success.<br>From the New World, also known as Symphony No. 9, is a work by the famous nineteenth-century composer Dvo?ák. The piece is inspired by local Black and Native American music that the composer heard after coming to America, and he expressed this inspiration through his own melodies. Although the work carries the strong characteristics of Czech music, it is considered the foundation of American music and has been widely performed and appreciated by people ever since.
+|fame=37
+|art=72
+|fth=42
+|civ=48
+|tech=44
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop ATK +12<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +72<br>ART Relics Awakened: 100/100
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop ATK +16<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +96<br>ART Relics Awakened: 100/100
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop ATK +20<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +120<br>ART Relics Awakened: 100/100
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop ATK +28<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +168<br>ART Relics Awakened: 100/100
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +216<br>ART Relics Awakened: 100/100
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +216<br>ART Relics Awakened: 100/100<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +1.5%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's ART +10
+}}

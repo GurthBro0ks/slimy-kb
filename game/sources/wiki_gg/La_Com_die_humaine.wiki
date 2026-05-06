@@ -1,0 +1,24 @@
+{{CargoRelic
+|name=La Comédie humaine
+|class_id=22716
+|rank=SSS
+|affct=CIV
+|birthday=06-29
+|source=
+|description=On Jun 29, 1665 AD, Balzac compiled his life's work into a book.<br>La Comédie humaine is a masterpiece composed of more than 90 novels by Balzac, showcasing the French society of the time. The content of Balzac's works can be roughly divided into three categories: the decline of feudal aristocracy, the rise of the bourgeoisie in society, and the tragedies caused by the money view. Balzac's works insight into the overall trend of social, political and economic thought development in France, digging deep into the characteristics of the bourgeois society, reaching a depth that general writers cannot achieve, and is regarded as the encyclopedia of capitalist society.
+|fame=76
+|art=64
+|fth=60
+|civ=106
+|tech=56
+|ss1=All Minion RUSH +0.6%<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +24<br>Desert Sanctum Rating Pts: 100000/100000
+|ss2=All Minion RUSH +0.8%<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +32<br>Desert Sanctum Rating Pts: 100000/100000
+|ss3=All Minion RUSH +1%<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Desert Sanctum Rating Pts: 100000/100000
+|ss4=All Minion RUSH +1.4%<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +56<br>Desert Sanctum Rating Pts: 100000/100000
+|ss5=All Minion RUSH +1.8%<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +72<br>Desert Sanctum Rating Pts: 100000/100000
+|ss6=All Minion RUSH +2.4%<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +96<br>Desert Sanctum Rating Pts: 100000/100000
+|ss7=All Minion RUSH +2.4%<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +96<br>Desert Sanctum Rating Pts: 100000/100000<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail CIV +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+}}

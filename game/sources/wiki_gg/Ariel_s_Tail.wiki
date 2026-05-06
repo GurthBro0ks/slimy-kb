@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Ariel's Tail
+|type=Bionic
+|rank=purple
+|id=10671
+|idx=28
+|description=Ariel, the enchanting mermaid princess, traded her tail for human legs in a pact with a sea witch—all for love of a shorebound prince.
+|skill=On combat start, summon a Mermaid Tail to attack the enemy, dealing DMG equal to 63% of ATK!
+|hp=1280
+|def=160
+|atk=215
+|rush=128
+|gene1=Water DMG +60
+|gene2=Earth RES +60
+|gene3=Water RES +60
+|gene4=In Dragon Form, {race} ATK +40
+|gene7=Water DMG +180 (Awakened)
+|}}

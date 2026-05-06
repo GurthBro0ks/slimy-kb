@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Kraken Trumpet
+|class_id=20137
+|rank=Green
+|affct=ART
+|source=
+|description=This horn is said to be created by the gods and has been hidden deep in history's holes. If someone finds and blows it, it will awaken the monster Kraken sleeping at the bottom of the sea! That will be the beginning of the end of the world.
+|fame=18
+|art=31
+|fth=14
+|civ=12
+|tech=15
+|ss1=Unlock Mysterious Sea (Doomsday Sea)<br>Per Sea Area conquered, Snail ATK +5<br>Areas of Mysterious Sea Conquered: 6/6
+|ss2=Unlock Mysterious Sea (Doomsday Sea)<br>Per Sea Area conquered, Snail ATK +10<br>Areas of Mysterious Sea Conquered: 6/6
+|ss3=Unlock Mysterious Sea (Doomsday Sea)<br>Per Sea Area conquered, Snail ATK +15<br>Areas of Mysterious Sea Conquered: 6/6
+|ss4=Unlock Mysterious Sea (Doomsday Sea)<br>Per Sea Area conquered, Snail ATK +15<br>Areas of Mysterious Sea Conquered: 6/6
+|ss7=Unlock Mysterious Sea (Doomsday Sea)<br>Per Sea Area conquered, Snail ATK +15<br>Areas of Mysterious Sea Conquered: 6/6<br> (Awakened)
+}}

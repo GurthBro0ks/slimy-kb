@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Lich Heart
+|type=Common
+|rank=blue
+|id=10823
+|idx=24
+|description=A dark heart symbolizing power and plague, its thunderous beat resonates with the chaos of the abyss, constantly emanating an aura of doom.
+|skill=
+|hp=1002
+|def=91
+|atk=145
+|rush=81
+|gene1=In explorations, {race} ATK +20
+|gene2=During exploration, Water DMG +60
+|gene3=In explorations, DMG +2.5%
+|gene7=In explorations, DMG +2.5% (Awakened)
+|}}

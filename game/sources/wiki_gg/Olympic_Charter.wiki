@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Olympic Charter
+|class_id=22241
+|rank=SSS
+|affct=FAME
+|birthday=04-28
+|source=Lottery Machine No.2 (0.11%)
+|description=On Apr 28, 1894 AD, the 1st draft of the Olympic Charter was completed.<br>The Olympic Charter, developed by the International Olympic Committee, serves as the highest legal document regarding the Olympics. It clearly outlines the organization's purpose, principles, membership, structure, and terms of reference, as well as the basic procedures of Olympic events. This legal document serves to restrict the behavior of participants in the Olympic Games and acts as the basis for cooperation between the IOC and all involved parties.
+|fame=108
+|art=54
+|fth=61
+|civ=65
+|tech=74
+|ss1=Minion Sim Chests drop 2x Sim Tokens by +1.5%<br>Per 8 Museum Promos, Snail ATK +3<br>Per 8 Museum Promos, Snail DEF +3<br>Museum Promos: 400/400
+|ss2=Minion Sim Chests drop 2x Sim Tokens by +2%<br>Per 8 Museum Promos, Snail ATK +4<br>Per 8 Museum Promos, Snail DEF +4<br>Museum Promos: 400/400
+|ss3=Minion Sim Chests drop 2x Sim Tokens by +2.5%<br>Per 8 Museum Promos, Snail ATK +5<br>Per 8 Museum Promos, Snail DEF +5<br>Museum Promos: 400/400
+|ss4=Minion Sim Chests drop 2x Sim Tokens by +3.5%<br>Per 8 Museum Promos, Snail ATK +7<br>Per 8 Museum Promos, Snail DEF +7<br>Museum Promos: 400/400
+|ss5=Minion Sim Chests drop 2x Sim Tokens by +4.5%<br>Per 8 Museum Promos, Snail ATK +9<br>Per 8 Museum Promos, Snail DEF +9<br>Museum Promos: 400/400
+|ss6=Minion Sim Chests drop 2x Sim Tokens by +6%<br>Per 8 Museum Promos, Snail ATK +12<br>Per 8 Museum Promos, Snail DEF +12<br>Museum Promos: 400/400
+|ss7=Minion Sim Chests drop 2x Sim Tokens by +6%<br>Per 8 Museum Promos, Snail ATK +12<br>Per 8 Museum Promos, Snail DEF +12<br>Museum Promos: 400/400<br>Minion Sim Chests drop 2x Sim Tokens by +5% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Reagent Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail FAME +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, CRIT +15%
+|mirage={{Mirage|name=Restart of Olympic|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=ViKelas|3rec=80.73M|3atk=236050|3defense=157478|3hp=14212077|3weak=31027
+|4name=Latour|4rec=107.15M|4atk=291758|4defense=194643|4hp=20252058|4weak=35738
+|5name=Edstrom|5rec=138.06M|5atk=356944|5defense=238132|5hp=28553039|5weak=40649
+|6name=Coubertin|6rec=173.46M|6atk=431609|6defense=287943|6hp=39434430|6weak=47521
+|Arec=214.17M|Aatk=517467|Adefense=345222|Ahp=53248855|Aweak=53010
+}}}}

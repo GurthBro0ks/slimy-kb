@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Ghanta
+|class_id=22046
+|rank=Blue
+|affct=FAITH
+|birthday=09-04
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Sept 4, 756 AD, the Ghanta as a Buddhist musical instrument appeared for the first time in the Samye Monastery.<br>The Ghanta is a type of Buddhist tantric instrument, which is a representative of wisdom and is usually used in pairs with the Vajra. It is said that its rings can awaken all living beings from the dream of ignorance, get rid of the shackles of the three poisons, and induce the Buddhas and Bodhisattvas to bless the practitioners so that they can work diligently, and free themselves from the boundless sea of suffering as soon as possible!
+|fame=25
+|art=33
+|fth=48
+|civ=21
+|tech=27
+|ss1=Per 7 Angel Gene LVLs, Snail DEF +2<br>Angel Gene LVLs Researched: 210/210
+|ss2=Per 7 Angel Gene LVLs, Snail DEF +4<br>Angel Gene LVLs Researched: 210/210
+|ss3=Per 7 Angel Gene LVLs, Snail DEF +6<br>Angel Gene LVLs Researched: 210/210
+|ss4=Per 7 Angel Gene LVLs, Snail DEF +10<br>Angel Gene LVLs Researched: 210/210
+|ss7=Per 7 Angel Gene LVLs, Snail DEF +10<br>Angel Gene LVLs Researched: 210/210<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, Troop Fire DMG +10
+}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Magdeburg Hemispheres
+|class_id=22194
+|rank=AA
+|affct=TECH
+|birthday=09-19
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Sept 19, 1663 AD, Guericke, the designer of the Magdeberg hemispheres, used the same equipment to repeat his atmospheric pressure experiment for Emperor Frederick of Brendenberg.<br>The German physicist Guericke, who was also the mayor of Magdeburg at the time, commissioned the production of the Magdeburg Hemispheres. He designed this experiment to prove the existence of atmospheric pressure. After using a vacuum pump to suck all the air out from the pair of hollow copper hemispheres, it took 16 horses to pull them apart. After that, he conducted many similar experiments and gained widespread social and public approval.
+|fame=43
+|art=32
+|fth=46
+|civ=39
+|tech=68
+|ss1=Gaia Cabin Output +2%<br>Per 1.2k Gaia Tech Pts, Snail HP +20<br>Gaia Tech Pts: 60000/60000
+|ss2=Gaia Cabin Output +3%<br>Per 1.2k Gaia Tech Pts, Snail HP +30<br>Gaia Tech Pts: 60000/60000
+|ss3=Gaia Cabin Output +4%<br>Per 1.2k Gaia Tech Pts, Snail HP +40<br>Gaia Tech Pts: 60000/60000
+|ss4=Gaia Cabin Output +6%<br>Per 1.2k Gaia Tech Pts, Snail HP +60<br>Gaia Tech Pts: 60000/60000
+|ss5=Gaia Cabin Output +8%<br>Per 1.2k Gaia Tech Pts, Snail HP +80<br>Gaia Tech Pts: 60000/60000
+|ss7=Gaia Cabin Output +8%<br>Per 1.2k Gaia Tech Pts, Snail HP +80<br>Gaia Tech Pts: 60000/60000<br>Gaia Cabin Output +7% (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Green Reagent Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail TECH +400
+}}

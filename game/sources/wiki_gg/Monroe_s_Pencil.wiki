@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Monroe's Pencil
+|class_id=22019
+|rank=Blue
+|affct=FAME
+|birthday=02-05
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Feb 5, 1812 AD, William Monroe made the first pencil in the world.<br>By inlaying a piece of graphite in the groove bar of wood, an American carpenter named William Monroe made the first wood pencil in the world. Moreover, he also invented the pencil-making machine that was able to cut the wood into slats and create a groove for the lead. This pencil-making technique lasted for more than two hundred years.
+|fame=45
+|art=25
+|fth=22
+|civ=30
+|tech=32
+|ss1=Per 100k Relic Points gained, Snail ATK +1<br>Relic Points: 5000000/5000000
+|ss2=Per 100k Relic Points gained, Snail ATK +2<br>Relic Points: 5000000/5000000
+|ss3=Per 100k Relic Points gained, Snail ATK +3<br>Relic Points: 5000000/5000000
+|ss4=Per 100k Relic Points gained, Snail ATK +5<br>Relic Points: 5000000/5000000
+|ss7=Per 100k Relic Points gained, Snail ATK +5<br>Relic Points: 5000000/5000000<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +1%
+}}

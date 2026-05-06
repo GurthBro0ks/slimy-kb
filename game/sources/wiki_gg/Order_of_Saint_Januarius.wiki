@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Order of Saint Januarius
+|class_id=21041
+|rank=SSS
+|affct=FAME
+|source=
+|description=The Order of Saint Januarius, the highest chivalric honor of the Bourbon-ruled Kingdom of the Two Sicilies, was named after Naples' patron saint, a martyred bishop. His miraculous blood relic is preserved in Naples Cathedral. Established in the 18th century, it was awarded to royals, nobles, and individuals with outstanding military or political achievements.
+|fame=109
+|art=71
+|fth=64
+|civ=49
+|tech=69
+|ss1=Snail Leadership +3<br>Minion Recovery SPD +1.5%<br>All Minion Skins, HARD Stats +3%
+|ss2=Snail Leadership +4<br>Minion Recovery SPD +2%<br>All Minion Skins, HARD Stats +6%
+|ss3=Snail Leadership +5<br>Minion Recovery SPD +2.5%<br>All Minion Skins, HARD Stats +9%
+|ss4=Snail Leadership +7<br>Minion Recovery SPD +3.5%<br>All Minion Skins, HARD Stats +15%
+|ss5=Snail Leadership +9<br>Minion Recovery SPD +4.5%<br>All Minion Skins, HARD Stats +21%
+|ss6=Snail Leadership +12<br>Minion Recovery SPD +6%<br>All Minion Skins, HARD Stats +30%
+|ss7=Snail Leadership +12<br>Minion Recovery SPD +6%<br>All Minion Skins, HARD Stats +30%<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP +9%
+|skill2=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: This Relic's FAME +15
+|skill3=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop Fire DMG +60
+|mirage={{Mirage|name=Enfeoffment Ceremony|reward={{RewardIconWithLink|Research Briefcase, +2|orange}}
+|3name=Servant|3rec=3.81M|3atk=47895|3defense=31987|3hp=672417|3weak=11297
+|4name=Bishop|4rec=7.07M|4atk=67501|4defense=45081|4hp=1176777|4weak=13788
+|5name=Knight|5rec=12.50M|5atk=91759|5defense=61282|5hp=2051712|5weak=17424
+|6name=King|6rec=26.14M|6atk=120802|6defense=80678|6hp=3291061|6weak=20241
+|Arec=42.30M|Aatk=154842|Adefense=103412|Ahp=5120370|Aweak=25747
+}}}}

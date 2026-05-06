@@ -1,0 +1,33 @@
+{{CargoRelic
+|name=Skidbladnir Ship
+|rank=AAA
+|affct=FTH
+|birthday=11-28
+|source=Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On Nov 28, 56,201 BC, Freyr received a new gift, a brand new ship.
+
+It was a totally unexpected gift. Loki stole Sif's hair and she started hunting him down. Loki asked Dvalinn to make golden hair to appease Sif, and Dvalinn also made the Skidbladnir and presented the boat to Freyr so that he could settle the matter. The boat is stretchable. It can hold all gods of Asgard and their gear at its maximum size but also can become as small as the size of a handkerchief. It always finds good wind when it sets sail, allowing it to sail on both the sea and land.
+|fame=43
+|art=45
+|fth=72
+|civ=46
+|tech=37
+|ss1=Upon traveling through an area: Gain +6 INTEL<br>In explorations, +1.2% chance to gain 2x INTEL
+|ss2=Upon traveling through an area: Gain +8 INTEL<br>In explorations, +1.6% chance to gain 2x INTEL
+|ss3=Upon traveling through an area: Gain +10 INTEL<br>In explorations, +2% chance to gain 2x INTEL
+|ss4=Upon traveling through an area: Gain +14 INTEL<br>In explorations, +2.8% chance to gain 2x INTEL
+|ss5=Upon traveling through an area: Gain +18 INTEL<br>In explorations, +3.6% chance to gain 2x INTEL
+|ss7=Upon traveling through an area: Gain +18 INTEL<br>In explorations, +3.6% chance to gain 2x INTEL<br>In explorations, +2.8% chance to gain 2x INTEL (Awakened)
+|skill1=[[File:Compass skill II.png|50px]] Place in Exploration Compass: In explorations, 2x INTEL Drops +7.5%
+|skill2=[[File:Compass skill II.png|50px]] Place in Exploration Compass: In explorations, INTEL gained +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FTH Relics]]
+[[Category:Purple FTH Relics]]
+[[Category:Exploration Compass Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by Relic Points]]

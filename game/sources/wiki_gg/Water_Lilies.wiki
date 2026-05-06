@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Water Lilies
+|class_id=22654
+|rank=SSS
+|affct=ART
+|birthday=09-09
+|source=
+|description=On Sept 9, 1895 AD, Monet began working on the Water Lilies series.<br>The Water Lilies series is Monet's magnum opus, consisting of 181 paintings. As a representative figure of the Impressionist movement, Monet had already mastered light and color. The Water Lilies series can be regarded as the culmination of his efforts. By depicting the color changes of water lilies under different seasons, lighting conditions, and weather, he displays his exceptional skills and leaves these dreamlike beautiful images for future generations.
+|fame=47
+|art=109
+|fth=81
+|civ=69
+|tech=56
+|ss1=Snail Leadership +3<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +3<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Frost Sanctum Rating Pts: 100000/100000
+|ss2=Snail Leadership +4<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +4<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Frost Sanctum Rating Pts: 100000/100000
+|ss3=Snail Leadership +5<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +5<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Frost Sanctum Rating Pts: 100000/100000
+|ss4=Snail Leadership +7<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +7<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Frost Sanctum Rating Pts: 100000/100000
+|ss5=Snail Leadership +9<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +9<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Frost Sanctum Rating Pts: 100000/100000
+|ss6=Snail Leadership +12<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +12<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Frost Sanctum Rating Pts: 100000/100000
+|ss7=Snail Leadership +12<br>Per 2,000 Frost Sanctum Rating Pts, Snail RUSH +12<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Frost Sanctum Rating Pts: 100000/100000<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: This Relic's ART +15
+|skill2=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Cap +30%
+|skill3=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +30%
+|mirage={{Mirage|name=Myriad Faces of Lilies|reward={{RewardIconWithLink|Coating Bucket, +3|orange}}
+|3name=Blue Water Lilies|3rec=108.36M|3atk=333235|3defense=196349|3hp=29993047|3weak=41547
+|4name=Pink Water Lilies|4rec=123.73M|4atk=366530|4defense=217977|4hp=39528136|4weak=45162
+|5name=Purple Water Lilies|5rec=143.84M|5atk=411112|5defense=246263|5hp=55325729|5weak=49205
+|6name=White Water Lilies|6rec=171.52M|6atk=472058|6defense=285207|6hp=82680029|6weak=53776
+|Arec=210.45M|Aatk=554444|Adefense=339989|Ahp=124275483|Aweak=58905
+}}}}

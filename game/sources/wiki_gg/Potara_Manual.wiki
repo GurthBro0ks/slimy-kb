@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Potara Manual
+|class_id=20953
+|rank=Green
+|affct=FAME
+|source=
+|description=A Relic from the Second Rezero War, capable of combining several individuals into a powerful warrior. The stronger the warrior, the shorter the fusion time, and vice versa. Later, this manual was seemingly obtained by the cockroach tribe.
+|fame=32
+|art=15
+|fth=18
+|civ=13
+|tech=12
+|ss1=Hellas Union Impact DMG +1%<br>Per 1,000 Hellas Disciples advanced, Snail ATK +3<br>Hellas Disciples Advanced: 20000/20000
+|ss2=Hellas Union Impact DMG +2%<br>Per 1,000 Hellas Disciples advanced, Snail ATK +6<br>Hellas Disciples Advanced: 20000/20000
+|ss3=Hellas Union Impact DMG +3%<br>Per 1,000 Hellas Disciples advanced, Snail ATK +9<br>Hellas Disciples Advanced: 20000/20000
+|ss4=Hellas Union Impact DMG +3%<br>Per 1,000 Hellas Disciples advanced, Snail ATK +9<br>Hellas Disciples Advanced: 20000/20000
+|ss7=Hellas Union Impact DMG +3%<br>Per 1,000 Hellas Disciples advanced, Snail ATK +9<br>Hellas Disciples Advanced: 20000/20000<br> (Awakened)
+}}

@@ -1,0 +1,43 @@
+{{CargoRelic
+|name=Leaf of Yggdrasil
+|rank=S
+|affct=FAME
+|birthday=09-30
+|source=FAME Master Scrolls (31.5%), Fragment Crafting (20.7%), Lottery Machine (0.81%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), Super Treasure Map (15%), Wishing (0.75%)
+|description=On Sep 30, 5000 BC, the young leaves of Yggdrasil were picked by humans.
+
+On this day, Odin, the Lord of the Kingdom of Gods, hung himself from a branch of the World Tree, his flesh mutilated by the Gungnir. The splashes of God's blood stained the world tree's branches and leaves, revealing the runes that represent civilization. The Ice Kingdom's ferocious winds blew the leaves into the midgard, where they were collected by the sages among humans, and thus civilization began. As is recorded in Words of the High One, Odin hang himself on the world tree, pierced by a spear, the branches and leaves stained with divine blood, then the wisdom of rune will spread to the lower world.
+|fame=100
+|art=50
+|fth=62
+|civ=59
+|tech=61
+|ss1=Snail HP +100<br>Snail RUSH +10<br>Per 10 CIV-Fungi eaten, Snail ATK +1<br>CIV-Fungi Eaten: 500/500
+|ss2=Snail HP +200<br>Snail RUSH +20<br>Per 10 CIV-Fungi eaten, Snail ATK +2<br>CIV-Fungi Eaten: 500/500
+|ss3=Snail HP +300<br>Snail RUSH +30<br>Per 10 CIV-Fungi eaten, Snail ATK +3<br>CIV-Fungi Eaten: 500/500
+|ss4=Snail HP +500<br>Snail RUSH +50<br>Per 10 CIV-Fungi eaten, Snail ATK +5<br>CIV-Fungi Eaten: 500/500
+|ss5=Snail HP +700<br>Snail RUSH +70<br>Per 10 CIV-Fungi eaten, Snail ATK +7<br>CIV-Fungi Eaten: 500/500
+|ss6=Snail HP +1,000<br>Snail RUSH +100<br>Per 10 CIV-Fungi eaten, Snail ATK +10<br>CIV-Fungi Eaten: 500/500
+|ss7=Snail HP +1,000<br>Snail RUSH +100<br>Per 10 CIV-Fungi eaten, Snail ATK +10<br>CIV-Fungi Eaten: 500/500<br>Snail HP +1,000
+|skill1=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, 2x Green Reagent Drops +15%
+|skill2=[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: This Relic's FAME +15
+|skill3=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Max Cap +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:RUSH Boost]]
+[[Category:CIV-Fungi Boost]]
+[[Category:ATK Boost]]
+[[Category:Koryeo Museum Boost]]
+[[Category:Koryeo Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:FAME Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Gear Boost]]
+[[Category:Rewards Orange Fungus]]
+[[Category:Minorino Boost]]
+[[Category:Vampire Boost]]

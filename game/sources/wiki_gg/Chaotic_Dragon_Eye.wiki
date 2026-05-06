@@ -1,0 +1,23 @@
+{{CargoOrgan
+|name=Chaotic Dragon Eye
+|type=Bionic
+|rank=red
+|id=10714
+|idx=72
+|description="It watches us still — eyes that do not exist, yet gaze eternally upon all creation…"
+— Codex Draconis
+|skill=Before round start, 81.2% chance to trap the enemy in a Void Prison (skips their next turn) and apply 1 stack of Annihilation.
+|hp=2128
+|def=376
+|atk=224
+|rush=257
+|gene1=Per orange or higher organ equipped, all ELMT DMG +24
+Orange or higher organs equipped: 7/7
+|gene2=Per Altar God Descent, {race} HP +70
+Gods Descended: 30/30
+|gene3=In Snail Arena, {race} ATK +140
+|gene4=In Snail Arena, {race} RUSH +140
+|gene5=Snail Arena, All ELMT RES +80
+|gene6=In explorations, DMG +20% in Round 1
+|gene7=For Round 1, DMG +10% (Awakened)
+|}}

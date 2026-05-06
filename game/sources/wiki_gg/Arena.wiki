@@ -1,0 +1,27 @@
+==Game Controller==
+Necessary to battle opponents.<br>Obtained through Daily Mission, [[Vending Machine]], and some purchases.
+
+==Season==
+Each season lasts x days, and boosts the stats of a form.
+
+==Ranking==
+There are 4 tiers in the Arena. To ascend to a higher tier, you will need to fight and win against an opponent of the next tier. These tiers are seen as a belt in Rankings, a belt beside an opponents Ranking, and a stripe on an opponents avatar.<br>
+[[File:Arena Belts.jpg|300px]]<br>
+If an opponents Ranking is Blue you have a higher Power. If their Ranking is Red, you have a lower power. These do not guarantee a win or a loss.
+
+==Arena Shop==
+The Arena Shop is where you can spend your {{RewardIconWithText|Punch Point}}s. The shop resets every 72 hours and is on the same timer as the [[Club#Club_Shop|Club Shop]], [[Fissure#Fissure_Shop|Fissure Shop]], and [[Museum#Museum_Shop|Museum Shop]]. 
+
+Every item in the Arena Shop can only be purchased once per reset.
+
+{{ShopRowHeader|Arena Shop|Punch Point}}
+!rowspan="32"|
+{{ShopRow|Lottery Ticket, +1|orange|300|Golden Pickaxe, +3|orange|900|Super Mutant Biceps|orange|5k}}
+{{ShopRow|Glue, +50|white|800|Zombie Cell, +6k|green|1k|Demon Cell, +6k|green|1k}}
+{{ShopRow|Angel Cell, +6k|green|1k|Mutant Cell, +6k|green|1k|Mecha Cell, +6k|green|1k}}
+{{ShopRow|Gene Speedup, +12h|white|600|Organ Slime, +50|white|250}}
+|}
+
+In addition to these items that are available every reset there are {{Retext|Two Purple Relics (A or AA)|purple}} and {{Retext|One Orange Relic (S)|orange}} offered every reset. These relics are randomly selected. The {{Retext|Purple Relics|purple}} sell for 1.8k {{RewardIconWithText|Punch Point}} and the {{Retext|Orange Relic|orange}} sells for 5k {{RewardIconWithText|Punch Point}}.
+
+[[Category:Home Base]]

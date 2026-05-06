@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Infinite Can
+|class_id=20362
+|rank=Green
+|affct=TECH
+|source=
+|description=This can was produced by the Birds using advanced technology. It can continuously produce food in a mysterious way to feed young Birds. But shortly after it was put into use, the can was banned by the Bird Council and became nothing but a collectible item.
+|fame=14
+|art=17
+|fth=15
+|civ=15
+|tech=29
+|ss1=Egg hatching rate +0.4%
+|ss2=Egg hatching rate +0.8%
+|ss3=Egg hatching rate +1.2%
+|ss4=Egg hatching rate +1.2%
+|ss7=Egg hatching rate +1.2%<br> (Awakened)
+}}

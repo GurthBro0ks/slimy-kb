@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=553
+|relics=SC Energy Storage Unit,Chang'e and Laurel,Kola Drilling Rig,Narmer Palette
+|rank=orange
+|amount=4
+|category=self
+|description=All Minion RUSH +1.8%
+}}

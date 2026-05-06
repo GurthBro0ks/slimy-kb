@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=670
+|relics=The Sceptical Chymist,Parnell's Asphalt Drip
+|rank=purple
+|amount=2
+|category=self
+|description=Snail Leadership +4
+}}

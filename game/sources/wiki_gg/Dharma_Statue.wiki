@@ -1,0 +1,88 @@
+{{Missing Info|specifics=source; mirage name and final reward; mirage 1-5}}
+{{CargoRelic
+|name=Dharma Statue
+|rank=SSS
+|affct=ART
+|birthday=11-23
+|source=
+|description=On Nov 23, 532 AD, Dharma sailed from India to China to promote the Zen of Mahayana Buddhism. 
+
+The 18-cm high Dharma statue is an artwork from Dehua kiln in the early Qing dynasty to commemorate Bodhidharma. Sitting down cross-legged on the ground, this statue has a gourd-shaped bald head, with thick eyebrows and big eyes. His front teeth are exposed through an open mouth. A yellow cassock draped over the body gives the monk an eminent appearance. It is one of the most previous treasures of the Xiamen Museum!
+|fame=61
+|art=109
+|fth=52
+|civ=73
+|tech=67
+|ss1=Snail RUSH +30<br>Per 5 Tadpole Pond LVLs, Snail ATK +18<br>Per 5 Tadpole Pond LVLs, Snail RUSH +18<br>Tadpole Pond LVL: 50/50
+|ss2=Snail RUSH +40<br>Per 5 Tadpole Pond LVLs, Snail ATK +24<br>Per 5 Tadpole Pond LVLs, Snail RUSH +24<br>Tadpole Pond LVL: 50/50
+|ss3=Snail RUSH +50<br>Per 5 Tadpole Pond LVLs, Snail ATK +30<br>Per 5 Tadpole Pond LVLs, Snail RUSH +30<br>Tadpole Pond LVL: 50/50
+|ss4=Snail RUSH +70<br>Per 5 Tadpole Pond LVLs, Snail ATK +42<br>Per 5 Tadpole Pond LVLs, Snail RUSH +42<br>Tadpole Pond LVL: 50/50
+|ss5=Snail RUSH +90<br>Per 5 Tadpole Pond LVLs, Snail ATK +54<br>Per 5 Tadpole Pond LVLs, Snail RUSH +54<br>Tadpole Pond LVL: 50/50
+|ss6=Snail RUSH +120<br>Per 5 Tadpole Pond LVLs, Snail ATK +72<br>Per 5 Tadpole Pond LVLs, Snail RUSH +72<br>Tadpole Pond LVL: 50/50
+|ss7=Snail RUSH +120<br>Per 5 Tadpole Pond LVLs, Snail ATK +72<br>Per 5 Tadpole Pond LVLs, Snail RUSH +72<br>Tadpole Pond LVL: 50/50<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: This Relic's ART +15
+|skill2=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: B-tad Output +30%
+|skill3=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Max Cap +30%
+}}
+==Mirage: [Mirage Name]==
+[Final reward]
+{| class="wikitable"
+!Enemy
+!Unlocked at
+!Recommended Power
+!ATK
+!DEF
+!HP
+!Weakness
+|-
+|
+|★★★☆☆☆
+|
+|
+|
+|
+|
+|-
+|
+|★★★★☆☆
+|
+|
+|
+|
+|
+|-
+|
+|★★★★★☆
+|
+|
+|
+|
+|
+|-
+|
+|★★★★★★
+|
+|
+|
+|
+|
+|-
+|
+|Awakened
+|
+|
+|
+|
+|
+|}
+
+[[Category:Relics]]
+[[Category:Orange Relics]]
+[[Category:ART Relics]]
+[[Category:Orange ART Relics]]
+[[Category:RUSH Boost]]
+[[Category:ATK Boost]]
+[[Category:Tadpole Pond Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:ART Boost]]
+[[Category:Tadpole Pond Output Boost]]

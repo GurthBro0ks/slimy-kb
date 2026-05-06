@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Mahakala Statue
+|class_id=20208
+|rank=Green
+|affct=FAITH
+|source=
+|description=Mahakala was the incarnation of Shiva of Brahminism, later adopted by Buddhism and became one of their protectors. He favored unfortunate believers and this statue was carved by them. There are some words written on it: No amount of praying or money can get luck on your side!
+|fame=14
+|art=19
+|fth=29
+|civ=12
+|tech=16
+|ss1=Per 5 Jinx Points, Snail RUSH +5<br>Jinx Points: 50/50
+|ss2=Per 5 Jinx Points, Snail RUSH +10<br>Jinx Points: 50/50
+|ss3=Per 5 Jinx Points, Snail RUSH +15<br>Jinx Points: 50/50
+|ss4=Per 5 Jinx Points, Snail RUSH +15<br>Jinx Points: 50/50
+|ss7=Per 5 Jinx Points, Snail RUSH +15<br>Jinx Points: 50/50<br> (Awakened)
+}}

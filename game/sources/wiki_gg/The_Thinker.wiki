@@ -1,0 +1,41 @@
+{{CargoRelic
+|name=The Thinker
+|rank=SS
+|affct=ART
+|birthday=10-20
+|source=ART Master Scrolls (10.2%), Demon Chest (5%), Fragment Crafting (5.3%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), Wishing (0.2%)
+|description=On Oct 20, 1880, Rodin sculpted a statue of a muscular man, thinking intently. 
+
+The Thinker is the most magnificent statue in the bronze sculptural group "Gate of Hell" in the Florence Baptistery. The Thinker leans over and holds his chin to express a sense of weight, as well as calmness and solemness. This masterpiece integrates profound spirits, completeness, and characterization, embodies the basic characteristics of Rodin's sculptural art, and has become one of the most famous sculptures.
+
+[Basic Info]
+
+Name: The Thinker<br>Type: Freestanding sculpture<br>Material: Bronze<br>Height: 1.8 meters<br>Specifications: 180x98x145cm
+|fame=66
+|art=105
+|fth=67
+|civ=55
+|tech=54
+|ss1=Snail HP +200<br>Per 3 ART Relics gained, Snail HP +80<br>Per 3 ART Relics gained, Snail RUSH +8<br>ART Relics: 60/60
+|ss2=Snail HP +300<br>Per 3 ART Relics gained, Snail HP +120<br>Per 3 ART Relics gained, Snail RUSH +12<br>ART Relics: 60/60
+|ss3=Snail HP +400<br>Per 3 ART Relics gained, Snail HP +160<br>Per 3 ART Relics gained, Snail RUSH +16<br>ART Relics: 60/60
+|ss4=Snail HP +600<br>Per 3 ART Relics gained, Snail HP +240<br>Per 3 ART Relics gained, Snail RUSH +24<br>ART Relics: 60/60
+|ss5=Snail HP +800<br>Per 3 ART Relics gained, Snail HP +320<br>Per 3 ART Relics gained, Snail RUSH +32<br>ART Relics: 60/60
+|ss6=Snail HP +1,100<br>Per 3 ART Relics gained, Snail HP +440<br>Per 3 ART Relics gained, Snail RUSH +44<br>ART Relics: 60/60
+|ss7=Snail HP +1,100<br>Per 3 ART Relics gained, Snail HP +440<br>Per 3 ART Relics gained, Snail RUSH +44<br>ART Relics: 60/60<br>Snail HP +1,000 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x B-tad Drops +15%
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x White Card Drops +15%
+|skill3=[[File:Quarry skill III.png|50px]]Place in Quarry: This Relic's ART +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:RUSH Boost]]
+[[Category:Relic Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Quarry Boost]]
+[[Category:ART Boost]]
+[[Category:Angel Gene Speedup Boost]]
+[[Category:Realm Boost]]

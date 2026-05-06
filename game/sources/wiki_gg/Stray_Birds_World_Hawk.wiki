@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=567
+|relics=Stray Birds,World Hawk
+|rank=orange
+|amount=2
+|category=self
+|description=Per 40 Eggs hatched, Snail ATK +7;Eggs hatched: 1600/1600
+}}

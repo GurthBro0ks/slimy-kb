@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=710
+|relics=Lyot Filter,Raman Spectroscopy,Schmidt Camera,Micrographia,Plasma Stealth,DAMPE
+|rank=purple
+|amount=6
+|category=self
+|description=Merge 1 Orange Stardust: Gain 1 more by 10%
+}}

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Quantum Foam
+|class_id=22344
+|rank=SSS
+|affct=TECH
+|birthday=12-30
+|source=
+|description=On Dec 30, 1955 AD, Wheeler developed the concept of Quantum foams based on his quantum mechanics research.<br>Quantum foam, also known as spacetime foam, is a theoretical quantum mechanics concept developed by American physicist Wheeler. Spacetime will not be smooth at the Planck scale due to quantum fluctuations caused by virtual particles and will fluctuate in a foam-like manner. Wormholes connect these foams to form the universe's prototype. Its existence contributes to the formation of the multiverse and is crucial to understanding the nature of spacetime.
+|fame=66
+|art=56
+|fth=78
+|civ=55
+|tech=107
+|ss1=When the Ma'at Tablet is equipped, Sand of Time gained in explorations +0.5%<br>Per Variant Apostle dominated, Snail DEF +3<br>Per Variant Apostle dominated, Snail RUSH +3<br>Variant Apostles Dominated: 60/60
+|ss2=When the Ma'at Tablet is equipped, Sand of Time gained in explorations +1%<br>Per Variant Apostle dominated, Snail DEF +4<br>Per Variant Apostle dominated, Snail RUSH +4<br>Variant Apostles Dominated: 60/60
+|ss3=When the Ma'at Tablet is equipped, Sand of Time gained in explorations +1.5%<br>Per Variant Apostle dominated, Snail DEF +5<br>Per Variant Apostle dominated, Snail RUSH +5<br>Variant Apostles Dominated: 60/60
+|ss4=When the Ma'at Tablet is equipped, Sand of Time gained in explorations +2.5%<br>Per Variant Apostle dominated, Snail DEF +7<br>Per Variant Apostle dominated, Snail RUSH +7<br>Variant Apostles Dominated: 60/60
+|ss5=When the Ma'at Tablet is equipped, Sand of Time gained in explorations +3.5%<br>Per Variant Apostle dominated, Snail DEF +9<br>Per Variant Apostle dominated, Snail RUSH +9<br>Variant Apostles Dominated: 60/60
+|ss6=When the Ma'at Tablet is equipped, Sand of Time gained in explorations +5%<br>Per Variant Apostle dominated, Snail DEF +12<br>Per Variant Apostle dominated, Snail RUSH +12<br>Variant Apostles Dominated: 60/60
+|ss7=When the Ma'at Tablet is equipped, Sand of Time gained in explorations +5%<br>Per Variant Apostle dominated, Snail DEF +12<br>Per Variant Apostle dominated, Snail RUSH +12<br>Variant Apostles Dominated: 60/60<br>When the Ma'at Tablet is equipped, Sand of Time gained in explorations +5% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Time Chest Drops +6%
+|mirage={{Mirage|name=History of Quantum Physics|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Planck's Radiation Law|3rec=76.83M|3atk=227818|3defense=151986|3hp=13181730|3weak=30272
+|4name=Light Quantum Hypothesis|4rec=100.88M|4atk=278553|4defense=185833|4hp=18886868|4weak=34639
+|5name=Bohr's Theory|5rec=129.48M|5atk=338857|5defense=226065|5hp=26194551|5weak=39070
+|6name=Theory of Matter Waves|6rec=161.02M|6atk=405370|6defense=270438|6hp=35361935|6weak=45263
+|Arec=197.63M|Aatk=482572|Adefense=321943|Ahp=46963397|Aweak=51611
+}}}}

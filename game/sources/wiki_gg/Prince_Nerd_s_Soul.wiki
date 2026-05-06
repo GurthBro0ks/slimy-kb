@@ -1,0 +1,320 @@
+== Prince Nerd's Soul ♂ ==
+The tragic prince who was killed by his brother. Its ghost wandered around in the world...
+
+=== Begin Friendship ===
+To obtain Prince Nerd's Soul, complete [[Koryeo]] Key Clue "Cilla Treasure Map"
+
+===☆☆☆ > ★☆☆===
+After 10 letters back and forth, Prince Nerd's Soul will arrive at [[Home Base]] and gift {{Relink|Demon Container|green}}.
+
+===★☆☆ > ★★★===
+After 18 letters back and forth, Prince Nerd's Soul will move in permanently with his minion, Tomb Figure. A storyline with [[Mailbox#Billie|Billie]] will also be triggered.
+
+==Rent==
+[[File:Prince Nerd's Soul rent.png|frameless|left]]
+
+Prince Nerd's Soul rent is collected on '''Wednesday''' and appears as a blue scroll on the right-side tabletop.
+
+ '''Normal Rent''': {{RewardIconWithLink|Novice Scroll, +1|blue}}
+
+ '''Rare Rent''': {{RewardIconWithLink|Expert Scroll, +1|purple}}, {{RewardIconWithLink|Master Scroll, +1|orange}}
+
+{{clear}}
+
+==Relics==
+Upgrading these will earn Offering Speedup!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|Offering Speedup +1h
+|-
+|★★
+|Offering Speedup +1h
+|-
+|★★★
+|Offering Speedup +1h
+|-
+|★★★★
+|Offering Speedup +2h
+|-
+|★★★★★
+|Offering Speedup +3h
+|-
+|★★★★★★
+|Offering Speedup +4h
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Annals of Joseon}}{{Relink|Annals of Joseon}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Hun Min Jong Um}}{{Relink|Hun Min Jong Um}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Shakespeare Scripts}}{{Relink|Shakespeare Scripts}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Speech of MLK}}{{Relink|Speech of MLK}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Gutenberg's Press}}{{Relink|Gutenberg's Press}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Shahnameh}}{{Relink|Shahnameh}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Travels of Marco Polo}}{{Relink|Travels of Marco Polo}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Napoleonic Code}}{{Relink|Napoleonic Code}}
+|}
+
+==Prince's Curse==
+The prince is full of resentment for his tragic past and sends a chill to all the living things coming too close...
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||FTH +5||Soul Offering SPD +0.6%
+|-
+|2||180||2k||FTH +10||Soul Offering SPD +1.2%
+|-
+|3||190||4.5k||FTH +15||Soul Offering SPD +1.8%
+|-
+|4||200||8k||FTH +20||Soul Offering SPD +2.4%
+|-
+|5||210||12.5k||FTH +25||Soul Offering SPD +3%
+|-
+|6||220||18k||FTH +30||Soul Offering SPD +3.6%
+|-
+|7||230||24.5k||FTH +35||Soul Offering SPD +4.2%
+|-
+|8||240||32k||FTH +40||Soul Offering SPD +4.8%
+|-
+|9||250||40.5k||FTH +45||Soul Offering SPD +5.4%
+|-
+|10||260||50k||FTH +50||Soul Offering SPD +6%
+|-
+|11||270||60.5k||FTH +55||Soul Offering SPD +6.6%
+|-
+|12||285||72k||FTH +60||Soul Offering SPD +7.2%
+|-
+|13||300||84.5k||FTH +65||Soul Offering SPD +7.8%
+|-
+|14||315||98k||FTH +70||Soul Offering SPD +8.4%
+|-
+|15||330||112k||FTH +75||Soul Offering SPD +9%
+|-
+|16||345||123k||FTH +80||Soul Offering SPD +9.6%
+|-
+|17||360||144k||FTH +85||Soul Offering SPD +9.8%
+|-
+|18||375||162k||FTH +90||Soul Offering SPD +10.4%
+|-
+|19||390||180k||FTH +95||Soul Offering SPD +11%
+|-
+|20||400||200k||FTH +100||Soul Offering SPD +11.6%
+|-
+|21||420||220k||FTH +105||Soul Offering SPD +12.2%
+|-
+|22||440||242k||FTH +110||Soul Offering SPD +12.8%
+|-
+|23||460||264k||FTH +115||Soul Offering SPD +13.8%
+|-
+|24||480||285k||FTH +120||Soul Offering SPD +14.4%
+|-
+|25||500||309k||FTH +125||Soul Offering SPD +15%
+|-
+|26||520||333k||FTH +130||Soul Offering SPD +15.6%
+|-
+|27||540||357k||FTH +135||Soul Offering SPD +16.2%
+|-
+|28||560||381k||FTH +140||Soul Offering SPD +16.8%
+|-
+|29||580||405k||FTH +145||Soul Offering SPD +17.4%
+|-
+|30||600||429k||FTH +150||Soul Offering SPD +18%
+|}
+
+== Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Prince's Curse is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +10 
+|-
+|2||4k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +20 
+|-
+|3||6k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +30 
+|-
+|4||8k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +40
+|-
+|5||10k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +50
+|-
+|6||12k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +60
+|-
+|7||14k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +70
+|-
+|8||16k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +80
+|-
+|9||18k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +90
+|-
+|10||20k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +100 
+|-
+|11||22k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +110 
+|-
+|12||24k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +120 
+|-
+|13||26k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +130 
+|-
+|14||28k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +140 
+|-
+|15||30k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +150 
+|-
+|16||32k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +160 
+|-
+|17||34k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +170 
+|-
+|18||36k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +180 
+|-
+|19||38k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +190 
+|-
+|20||40k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +200 
+|-
+|21||42k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +210 
+|-
+|22||44k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +220 
+|-
+|23||46k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +230 
+|-
+|24||48k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +240 
+|-
+|25||50k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +250 
+|-
+|26||55k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +260 
+|-
+|27||60k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +270 
+|-
+|28||65k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +280 
+|-
+|29||70k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +290 
+|-
+|30||75k||Zombie Minion MAX +1||Per 10 Tomb Figure in battle, Troop DEF +300 
+|}
+
+==Research Ability==
+Below is a table of the research manual cost to upgrade each research gene. Prince Nerd's Soul specializes in '''Zombie Gene''' and therefore the research manual cost for the Zombie is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+==Minion - Tomb Figure==
+Figures buried with an ancient noble, capable of passing the simplest Turing test after absorbing the energy of the grave!
+
+===Special Ability - Stone Skin===
+Per 10 Tomb Figures in battle, Troop Earth RES +1 (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Tomb Figures!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Bronze Bird}}<br>{{relink|Bronze Bird}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Minie Ball}}<br>{{relink|Minie Ball}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Gordian Knot}}<br>{{relink|Gordian Knot}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3% 
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Spirit of Laws}}<br>{{relink|Spirit of Laws}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Guevara's Portrait}}<br>{{relink|Guevara's Portrait}}
+|HP +4% 
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|SDI}}<br>{{relink|SDI}}
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Proclamation 95}}<br>{{relink|Proclamation 95}}
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Medal of Honor}}<br>{{relink|Medal of Honor}}
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|}
+
+[[Category:Partners]]

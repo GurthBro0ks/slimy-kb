@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Sanger Sequencer
+|class_id=22898
+|rank=SSS
+|affct=TECH
+|source=
+|description=The Sanger Sequencer is a first-generation DNA sequencing device developed based on the Sanger method, utilizing dideoxynucleotide chain termination and gel electrophoresis to separate fragments of different lengths for sequence detection. It is characterized by high accuracy but has low throughput, slow speed, and high cost. DespiteThis, the Sanger Sequencer remains the gold standard for genetic testing, widely used in genome sequencing, genetic disease research, and forensic identification, especially in scenarios requiring high accuracy.
+|fame=66
+|art=50
+|fth=73
+|civ=66
+|tech=107
+|ss1=Minion Recovery SPD +1.5%<br>All form base stats +0.3%<br>Gene Research Free Speedup +9m
+|ss2=Minion Recovery SPD +2%<br>All form base stats +0.4%<br>Gene Research Free Speedup +12m
+|ss3=Minion Recovery SPD +2.5%<br>All form base stats +0.5%<br>Gene Research Free Speedup +15m
+|ss4=Minion Recovery SPD +3.5%<br>All form base stats +0.7%<br>Gene Research Free Speedup +21m
+|ss5=Minion Recovery SPD +4.5%<br>All form base stats +0.9%<br>Gene Research Free Speedup +27m
+|ss6=Minion Recovery SPD +6%<br>All form base stats +1.2%<br>Gene Research Free Speedup +36m
+|ss7=Minion Recovery SPD +6%<br>All form base stats +1.2%<br>Gene Research Free Speedup +36m<br>Minion Recovery SPD +5% (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: DMG REDUC +15%
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's TECH +15
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: CRIT DMG +30%
+|mirage={{Mirage|name=Paternity Test|reward={{RewardIconWithLink|Gene Speedup, +28800|orange}}
+|3name=Physician|3rec=0.74M|3atk=17316|3defense=11423|3hp=110716|3weak=4494
+|4name=Wife|4rec=1.67M|4atk=29856|4defense=19695|4hp=284916|4weak=8083
+|5name=Husband|5rec=3.28M|5atk=44522|5defense=29370|5hp=579298|5weak=10713
+|6name=Mr. Neighbor|6rec=6.04M|6atk=62686|6defense=41352|6hp=1019652|6weak=13163
+|Arec=10.60M|Aatk=85094|Adefense=56134|Ahp=1733340|Aweak=16441
+}}}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=8
+|relics=Gone with the Wind,Royal Doll
+|rank=blue
+|amount=2
+|category=self
+|description=Wood rewards from offering +2%
+}}

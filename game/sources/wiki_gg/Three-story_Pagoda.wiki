@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Three-story Pagoda
+|class_id=20253
+|rank=Green
+|affct=FAITH
+|source=
+|description=The three-story pagoda in the Luoyang Museum was a birthday gift presented by Emperor Qianlong to Empress Dowager Chongqing for her 70th birthday. The pagoda is made of Phoebe zhennan wood, dark brown all over, about six meters high, with eight sides and three layers of double eaves. The decor is extremely sophisticated. The crossbeams, pillars, and chapiters are all exquisitely crafted with distinctive layers. It has three-hundred-and-four niches, each enshrined with a gilded, solemn and kind Bodhisattva sitting on a square pedestal. The 300+ lifelike Bodhisattva are sculpted in each unique postures. What is even more amazing is that the entire pagoda is made of mortise and tenon without a single nail. It is a veritable woodwork masterpiece.
+|fame=18
+|art=12
+|fth=31
+|civ=16
+|tech=13
+|ss1=Per 3 Incense used, Snail HP +10<br>Incense Used: 150/150
+|ss2=Per 3 Incense used, Snail HP +20<br>Incense Used: 150/150
+|ss3=Per 3 Incense used, Snail HP +30<br>Incense Used: 150/150
+|ss4=Per 3 Incense used, Snail HP +30<br>Incense Used: 150/150
+|ss7=Per 3 Incense used, Snail HP +30<br>Incense Used: 150/150<br> (Awakened)
+}}

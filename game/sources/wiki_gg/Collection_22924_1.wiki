@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=collection@22924_1
+|class_id=22924
+|rank=SSS
+|affct=ART
+|source=
+|description=collection@22924_2
+|fame=64
+|art=111
+|fth=63
+|civ=67
+|tech=57
+|ss1=Snail Leadership +6<br>Per 10 Orange Orbs drawn, Snail ATK +6<br>Per 10 Orange Orbs drawn, Snail DEF +6<br>Orange Orbs Drawn: 500/500
+|ss2=Snail Leadership +7<br>Per 10 Orange Orbs drawn, Snail ATK +8<br>Per 10 Orange Orbs drawn, Snail DEF +8<br>Orange Orbs Drawn: 500/500
+|ss3=Snail Leadership +8<br>Per 10 Orange Orbs drawn, Snail ATK +10<br>Per 10 Orange Orbs drawn, Snail DEF +10<br>Orange Orbs Drawn: 500/500
+|ss4=Snail Leadership +10<br>Per 10 Orange Orbs drawn, Snail ATK +14<br>Per 10 Orange Orbs drawn, Snail DEF +14<br>Orange Orbs Drawn: 500/500
+|ss5=Snail Leadership +12<br>Per 10 Orange Orbs drawn, Snail ATK +18<br>Per 10 Orange Orbs drawn, Snail DEF +18<br>Orange Orbs Drawn: 500/500
+|ss6=Snail Leadership +15<br>Per 10 Orange Orbs drawn, Snail ATK +24<br>Per 10 Orange Orbs drawn, Snail DEF +24<br>Orange Orbs Drawn: 500/500
+|ss7=Snail Leadership +15<br>Per 10 Orange Orbs drawn, Snail ATK +24<br>Per 10 Orange Orbs drawn, Snail DEF +24<br>Orange Orbs Drawn: 500/500<br>Snail Leadership +10 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x INTEL Drops +15%
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x Card Drops +15%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, DMG +15%
+|mirage={{Mirage|name=dungeon@22924_1|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=dungeon_event@4298_1|3rec=0.38M|3atk=9869|3defense=6598|3hp=35564|3weak=5152
+|4name=dungeon_event@4299_1|4rec=0.83M|4atk=18564|4defense=12411|4hp=126062|4weak=7444
+|5name=dungeon_event@4300_1|5rec=1.77M|5atk=30548|5defense=20422|5hp=345083|5weak=9663
+|6name=dungeon_event@4301_1|6rec=3.58M|6atk=46188|6defense=30878|6hp=713665|6weak=12655
+|Arec=6.78M|Aatk=65904|Adefense=44058|Ahp=1328171|Aweak=15574
+}}}}

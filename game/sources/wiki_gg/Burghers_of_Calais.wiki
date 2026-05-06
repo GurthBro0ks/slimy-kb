@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Burghers of Calais
+|class_id=22661
+|rank=SSS
+|affct=ART
+|birthday=07-28
+|source=
+|description=On Jul 28, 1897 AD, the Burghers of Calais was unveiled in front of the City Hall in Calais, France.<br>During the Hundred Years' War between England and France, the French city of Calais was besieged by the English army for nearly two years. The citizens' lives were in danger, and after negotiations between both sides, King Edward III of England demanded that Calais choose six citizens to be executed, and these six people had to leave the city with shaved heads, barefoot, and with locked necks, holding the keys to the city gate in their hands, in order to save the city. This is a historical tragedy that the French people will never forget. Deeply moved by this story, the renowned sculptor Rodin, as a gesture of profound empathy, crafted not just one, but six statues to commemorate the extraordinary bravery and sacrifice of those individuals.
+|fame=52
+|art=108
+|fth=69
+|civ=76
+|tech=57
+|ss1=Dragon Minion DEF +3%<br>Resolver: Mutagen Serum +300<br>Per 5 Incubator Files fully restored, Snail ATK +9<br>Files fully restored: 100/100
+|ss2=Dragon Minion DEF +4%<br>Resolver: Mutagen Serum +400<br>Per 5 Incubator Files fully restored, Snail ATK +12<br>Files fully restored: 100/100
+|ss3=Dragon Minion DEF +5%<br>Resolver: Mutagen Serum +500<br>Per 5 Incubator Files fully restored, Snail ATK +15<br>Files fully restored: 100/100
+|ss4=Dragon Minion DEF +7%<br>Resolver: Mutagen Serum +700<br>Per 5 Incubator Files fully restored, Snail ATK +21<br>Files fully restored: 100/100
+|ss5=Dragon Minion DEF +9%<br>Resolver: Mutagen Serum +900<br>Per 5 Incubator Files fully restored, Snail ATK +27<br>Files fully restored: 100/100
+|ss6=Dragon Minion DEF +12%<br>Resolver: Mutagen Serum +1200<br>Per 5 Incubator Files fully restored, Snail ATK +36<br>Files fully restored: 100/100
+|ss7=Dragon Minion DEF +12%<br>Resolver: Mutagen Serum +1200<br>Per 5 Incubator Files fully restored, Snail ATK +36<br>Files fully restored: 100/100<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +30%
+|skill2=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Cap +30%
+|skill3=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: This Relic's ART +15
+|mirage={{Mirage|name=Sublime Martyr|reward={{RewardIconWithLink|Badge, +20|orange}}
+|3name=Burgher A|3rec=104.30M|3atk=324355|3defense=190642|3hp=28516407|3weak=40598
+|4name=Burgher B|4rec=118.94M|4atk=356223|4defense=211232|4hp=37023809|4weak=44090
+|5name=Burgher C|5rec=137.81M|5atk=397486|5defense=237790|5hp=51223876|5weak=48038
+|6name=Burgher D|6rec=163.68M|6atk=455498|6defense=274180|6hp=76272429|6weak=52573
+|Arec=200.10M|Aatk=532629|Adefense=325427|Ahp=113434332|Aweak=57659
+}}}}

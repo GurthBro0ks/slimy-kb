@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Sholes' Typewriter
+|rank=Blue
+|affct=CIV
+|birthday=12-11
+|source=Lottery Machine (0.03%), Wishing (0.82%)
+|description=On Dec 11, 1866, Christopher Sholes invented the QWERTY keyboard.
+
+In the past, people were often worried that fast typing would cause the typewriter to break down. Sholes deliberately jumbled up the alphabet order, so that the letters seemed to be arranged on the keyboard randomly. Based on research, such layout was likely created by Sholes randomly and has been used in keyboards every since.
+
+[Original Keyboard Layout]
+
+Row 1: NOPQRSTUVWXZY
+
+Row 2: ABCDEFGHIJKLM
+
+Current layout: Look at your own keyboard.
+|fame=31
+|art=22
+|fth=24
+|civ=45
+|tech=32
+|ss1=Per 20 Research Manuals used, Snail HP +20<br>Research Manuals Used: 300/300
+|ss2=Per 20 Research Manuals used, Snail HP +40<br>Research Manuals Used: 300/300
+|ss3=Per 20 Research Manuals used, Snail HP +60<br>Research Manuals Used: 300/300
+|ss4=Per 20 Research Manuals used, Snail HP +100<br>Research Manuals Used: 300/300
+|ss7=Per 20 Research Manuals used, Snail HP +100<br>Research Manuals Used: 300/300<br>Snail HP +500 (Awakened)
+|skill1=[[File:Murika skill I.png|50px]] Place in Murikan Museum: In Murika, Snail HP +200
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:TECH Relics]]
+[[Category:Blue TECH Relics]]
+[[Category:HP Boost]]
+[[Category:Lumber Camp Boost]]
+[[Category:Time Machine Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Murika Museum Boost]]

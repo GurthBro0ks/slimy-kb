@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Dewar Flask,Bastet Bronze Statue,Walking Man Statue,Das Rheingold
+|rank=blue
+|amount=4
+|category=minion
+|description=Per 10 Dragon Minions in battle: Troop ATK +7
+}}
+[[Category:Minion]]
+[[Category:Dragon Minion ATK Boost]]

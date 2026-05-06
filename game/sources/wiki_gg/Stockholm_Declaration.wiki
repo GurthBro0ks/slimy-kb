@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Stockholm Declaration
+|class_id=22212
+|rank=SS
+|affct=FAME
+|birthday=06-16
+|source=Lottery Machine No.2 (0.42%), Wishing (1.6%)
+|description=On Jun 16, 1972 AD, the Declaration on the Human Environment was passed in Stockholm.<br>The Stockholm Declaration, also known as the Declaration on the Human Environment, was a historic outcome of the UN Conference on the Human Environment, attended by 102 heads of state. The declaration was the result of a collective effort, where the parties agreed on 7 common views and 26 principles that emphasize human rights to a healthy environment and the need to protect it. It required countries to balance economic development and environmental protection while enhancing international cooperation. This declaration has helped shape international environmental law and guides environmental protection efforts worldwide.
+|fame=103
+|art=60
+|fth=52
+|civ=59
+|tech=73
+|ss1=Snail ATK +20<br>Per 60 Zombie Minions in battle:<br>> Troop HP +180<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +18
+|ss2=Snail ATK +30<br>Per 60 Zombie Minions in battle:<br>> Troop HP +270<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +27
+|ss3=Snail ATK +40<br>Per 60 Zombie Minions in battle:<br>> Troop HP +360<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +36
+|ss4=Snail ATK +60<br>Per 60 Zombie Minions in battle:<br>> Troop HP +540<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +54
+|ss5=Snail ATK +80<br>Per 60 Zombie Minions in battle:<br>> Troop HP +720<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +72
+|ss6=Snail ATK +110<br>Per 60 Zombie Minions in battle:<br>> Troop HP +990<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +99
+|ss7=Snail ATK +110<br>Per 60 Zombie Minions in battle:<br>> Troop HP +990<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +99<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Lumber Max Cap +30%
+|skill2=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Wood Output +30%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Zombie Cells gained +15%
+|mirage={{Mirage|name=Trash Sorting|reward={{RewardIconWithLink|Tainted B-Tadpoles, +60000|orange}}
+|3name=Leftover|3rec=12.03M|3atk=89999|3defense=60042|3hp=2430586|3weak=15617
+|4name=Recyclable Waste|4rec=23.78M|4atk=115941|4defense=77349|4hp=3853019|4weak=18348
+|5name=Harmful Waste|5rec=37.80M|5atk=145506|5defense=97073|5hp=5987979|5weak=19742
+|Arec=54.43M|Aatk=180576|Adefense=120469|Ahp=8851707|Aweak=22633
+}}}}

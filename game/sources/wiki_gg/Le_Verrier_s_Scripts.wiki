@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Le Verrier's Scripts
+|class_id=22200
+|rank=AAA
+|affct=TECH
+|birthday=04-19
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Apr 19, 1845 AD, Le Verrier began making calculations about the unknown celestial body affecting Uranus' orbit. He successfully predicted its position 4 months later.<br>When calculating Neptune's orbit, French astronomer Le Verrier penned this manuscript. When studying Uranus's orbit, he went deep into its abnormal motion, consulted a large amount of information, and finally successfully calculated Neptune's orbit and mass mathematically through complex calculations, as well as predicted its position. This discovery not only gave him an extraordinary reputation and status, but also reaffirmed the validity of the law of universal gravitation.
+|fame=49
+|art=38
+|fth=45
+|civ=39
+|tech=72
+|ss1=Demon Minion ATK +3%<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +24%
+|ss2=Demon Minion ATK +4%<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +32%
+|ss3=Demon Minion ATK +5%<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +40%
+|ss4=Demon Minion ATK +7%<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +56%
+|ss5=Demon Minion ATK +9%<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +72%
+|ss7=Demon Minion ATK +9%<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +72%<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +56% (Awakened)
+|skill1=[[File:Arena skill II.png|50px]]Place in Snail Arena Compass: This Relic's TECH +10
+|skill2=[[File:Arena skill II.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail DEF +30 each round
+}}

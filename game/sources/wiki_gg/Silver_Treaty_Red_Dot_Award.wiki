@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=385
+|relics=Silver Treaty,Red Dot Award
+|rank=purple
+|amount=2
+|category=self
+|description=Military Merits gives +120 Star Coins
+}}

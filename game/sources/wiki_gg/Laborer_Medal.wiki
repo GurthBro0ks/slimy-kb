@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Laborer Medal
+|class_id=20488
+|rank=Green
+|affct=FAME
+|source=
+|description=The glorious Laborer Medal was designed to commend builders who made outstanding contributions to a better society. It is due to their hard work that everyone could enjoy a better life, and it was right to commend their effort!
+|fame=31
+|art=14
+|fth=15
+|civ=14
+|tech=16
+|ss1=Snail ATK +20<br>Per 30 Fissure Floors, Snail ATK +1<br>Fissure Floor: 1200/1200
+|ss2=Snail ATK +40<br>Per 30 Fissure Floors, Snail ATK +2<br>Fissure Floor: 1200/1200
+|ss3=Snail ATK +60<br>Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200
+|ss4=Snail ATK +60<br>Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200
+|ss7=Snail ATK +60<br>Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200<br> (Awakened)
+}}

@@ -1,0 +1,373 @@
+==Key Clue Records==
+Complete these Key Clues in [[Koryeo]] for various rewards and to fully progress through the Realm.
+
+==Ace Agent==
+'''Rewards:''' Lottery Ticket +3, 5k B-tads
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Get all Koryeo INTEL
+|Obtain all 39 Koryeo INTEL tiles
+|-
+|Master all Agent Training
+|Obtain all 47 Agent Training tiles
+|}
+
+==Demon God's Minions==
+'''Rewards:''' Travel Speedup +4h, 5k B-tads
+{| class="wikitable"
+!Event
+!Requirements
+!Approximate Strength
+|-
+|Conquer Jejo
+|Defeat Gvent Guru within 2 rounds
+|41k power
+|-
+|Conquer N. Seaul
+|Defeat Mutant Hairsnake within 2 rounds
+|58k power
+|-
+|Conquer Kanghwa
+|Defeat Exterminator within 2 rounds
+|90k power
+|}
+
+==Koryeo Shopping Cart==
+'''Rewards:''' 600 W-tads, 5k B-tads
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Redeem all limited cards(white)
+|Exchange all 10 white card items
+|-
+|Redeem all limited cards (green)
+|Exchange all 11 green card items
+|-
+|Redeem all limited cards (blue)
+|Exchange all 11 blue card items
+|-
+|Redeem all limited cards (purple)
+|Exchange all 9 purple card items
+|-
+|Redeem all limited cards (orange)
+|Exchange all 7 orange card items
+|}
+
+==Koryeo Treasure==
+'''Rewards:''' Koryeo Treasure Map +50, Green Reagent +150
+{| class="wikitable"
+!Event
+!<nowiki>#</nowiki> of items found
+!Rewards
+|-
+|Idol Fortune Bag (Southern Seaul)
+|2
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Travel Speedup, +1h}}
+|-
+|Classic Snack Box (Souther Seaul)
+|3
+|[?] +20
+|-
+|Bell of Alojaya (Gyeonkiddo)
+|1
+|{{RewardIconWithLink|Bell of Alojaya|green}}
+|-
+|Sepsung Phone (Gyeonkiddo)
+|4
+|{{RewardIconWithLink|Sepsung Phone|green}}
+|-
+|Demon God Offering (Gyeonkiddo)
+|2
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|B-Tad, +5k}}
+|-
+|Snowman's Gift (Kangwon Do)
+|4
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Travel Speedup, +1h}}
+|-
+|Olympics Souvenir (Kangwon Do)
+|3
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Travel Speedup, +30m}}
+|-
+|Cilla Tomb Offering (Chungnam)
+|4
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithLink|Gear Chest, +60}}
+|-
+|Club Supplies (Chungnam)
+|2
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|B-Tad, +5k}}
+|-
+|Bekje Tomb Offering (Gyeongsang)
+|4
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Blue Reagent, +20|blue}}
+|-
+|Archaeology Supplies (Gyeongsan)
+|3
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithLink|Novice Scroll, +10|blue}}
+|-
+|Border Supplies (Encheon)
+|3
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Wood, +500}}
+|-
+|War Reserves (Encheon)
+|2
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Stone, +500}}
+|-
+|Biochem Petri Dish (Pusan)
+|4
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Clone Speedup, +1h}}
+|-
+|Experiment Supplies (Pusan)
+|3
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Gene Speedup, +2h}}
+|-
+|Gambler's Collection (Jejo Island)
+|4
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithLink|Lottery Ticket, +1|orange}}
+|-
+|Shipwreck Treasure (Jejo Island)
+|3
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Universal Key, +1}}
+|-
+|Koryeo Tomb Offering (Northern Seaul)
+|3
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Offering Speedup, +2h}}
+|-
+|Giant Cell (Northern Seaul)
+|4
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Gene Speedup, +2h}}
+|-
+|King Dangun Tomb Offering (Kanghwa)
+|3
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|Offering Speedup, +2h}}
+|-
+|Traveler Supplies (Kanghwa)
+|2
+|{{RewardIconWithText|W-Tad, +100}}<br>{{RewardIconWithText|B-Tad, +3k}}
+|}
+
+==Warmonger's Gun==
+'''Reward:''' Glue +150, Travel Speedup +2h
+
+See [[Gear]] for more.
+{| class="wikitable"
+!Event
+|-
+|Fuse [[Gear|<span style="color:#40da25;">Switchblade</span>]]
+|-
+|Fuse [[Gear|<span style="color:#22d3d0;">Assault Rifle Model 98</span>]]
+|-
+|Fuse [[Gear|<span style="color:#ee96d5;">Golden Assault Rifle</span>]]
+|-
+|Fuse [[Gear|<span style="color:#ffb066;">Jung-geun's Gun</span>]]
+|-
+|Fuse [[Gear|<span style="color:#f66;">Warmonger's Gun</span>]]
+|}
+
+==Perfect Kimchi==
+'''Reward:''' Green Reagent +60, Spicy Cabbage (Food +20) +50, partner [[Kim Chi-yum]] 
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Kimchi MSG (Souther Seaul)
+|30 CIV
+|Kimchi MSG, 50 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Kimchi Preservative (Kangwon Do)
+|150 ART
+|Kimchi Preservative, Travel Speedup +10m, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Kim Chi-yum (Gyeonkiddo)
+|80 TECH
+|{{RewardIconWithText|Annals of Joseon, Frag +3}}, Glue +10, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Secret Contact==
+'''Reward:''' Koryeo Treasure Map +30, 5k B-tads
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Miner's Letter (Gyeonkiddo)
+|170 TECH
+|?, Stone +200, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Gangster's Letter (Chungnam)
+|280 FAME
+|?, Soul of ?, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Murikan Soldier's Letter (Encheon)
+|350 ART
+|?, Koryeo INTEL +500, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Crime Scene==
+'''Reward:''' Travel Speedup +4h, 8k B-tads
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Pyramid Seller's Fprint (Sothern Seaul)
+|430 CIV
+|Pyramid Seller's Fingerprint, 50 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Fraudster's Fingerprint (Gyeonkiddo)
+|490 TECH
+|Fraudster's Fingerprint, Travel Speedup +10m, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Godpapa's Suitcase (Chungnam)
+|400 TECH
+|Godpapa's Fingerprint, Glue +10, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Gambler's Fingerprint (Jejo Island)
+|700 ART
+|Gambler's Fingerprint, 120 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Cilla Treasure Map==
+'''Rewards:''' [[Incense]] +1, Koryeo Treasure Map +80, [[Prince Nerd's Soul]] partner
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|King Muyeol's Token (Chungnam)
+|Unlock [[Koryeo INTEL]] "Cilla Treasure Map" Lv. 1<br>1080 CIV
+|King Muyeol's Token, Green Reagent +120, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|King Seondeok's Token (Encheon)
+|Unlock [[Koryeo INTEL]] "Cilla Treasure Map" Lv. 2<br>830 TECH
+|King Seondeok's Token, Blue Reagent +60, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Prince Nerd's Soul (Kangwha)
+|Unlock [[Koryeo INTEL]] "Cilla Treasure Map" Lv. 3<br>[[Chichikaka]] as a full partner
+|150 W-tads, Novice Scroll +10, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Demon God Offering==
+'''Rewards:''' Blue Reagent +30, Offering Speedup +4h
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Soldier's Offering (Encheon)
+|
+|
+|-
+|Lich's Offering (Pusan)
+|
+|
+|-
+|Monster's Offering (Northern Seaul)
+|
+|
+|-
+|Follower's Offering (Kanghwa)
+|
+|
+|}
+
+==Demon God's Ball==
+'''Rewards:''' Lottery Ticket +3, 20k B-tads
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Paparazzo (Southern Seaul)
+|350 FAME
+|Papparazzo's Invitation, Soul of Papparazzo, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Infected Officer's Invitation (Pusan)
+|620 FAME
+|Infected Officer's Invitation, Soul of Infected Officer, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Gambling God's Invitation (Jejo Island)
+|800 TECH
+|Gambling God's Invitation, Koryeo INTEL +2000, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Scientist's Invitation (Northern Seaul)
+|900 FAME
+|Scientist's Invitation, Soul of Scientist, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Robot's Invitation (Kanghwa)
+|1400 CIV
+|Robot's Invitation, 150 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Super Bio Weapon==
+'''Rewards:''' {{RewardIconWithText|Gene Speedup}} +4h, [[Chichikaka]] partner
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Undead Creature Sample (Gyeongsang)
+|450 FAME
+|Undead Creature Sample<br>Soul of Undead Creature<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Military Supplies (Encheon)
+|530 CIV
+|Supersoldier Sample<br>{{RewardIconWithText|B-Tad}} +500<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Stinky Storage Box (Pusan)
+|580 CIV
+|Pusan Zombie's Sample<br>{{RewardIconWithText|W-Tad}} +150<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Chichikaka (Kangwon Do)
+|[[Kim Chi-yum]] as a full partner
+|{{RewardIconWithText|W-Tad}} +50
+|}
+
+==Ancestral Blessing==
+'''Rewards:''' Hun Min Jong Um +20, Koryeo Treasure Map +100
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|King Dangun's Blessing (Kangwon Do)
+|Koryeo Museum FTH >40
+|King Dangun's Blessing, 100 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Bekje King's Blessing (Chungnam)
+|Koryeo Museum FAME >45
+|Bekje King's Blessing, 100 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Cilla King's Blessing (Gyeonsang)
+|Koryeo Museum CIV >50
+|Cilla King's Blessing, 100 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Koryeo King's Blessing (Northern Seaul)
+|Koryeo Museum ART >60
+|Koryeo King's Blessing, 100 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Koryeo Tourism Promotion==
+Rewards: Koryeo Treasure Map +50, Ad Chest +60
+{| class="wikitable"
+!Event
+!Rewards
+|-
+|Watch a fried chicken ad (Gyeongsang)
+|Ad Chest +10, Travel Speedup +30m
+|-
+|Watch a kimchi ad (Pusan)
+|Ad Chest +10, Glue +20
+|-
+|Watch a barbecue ad (Jejo Island)
+|Ad Chest +10, 2k B-tads
+|-
+|Watch a plastic surgery ad (Northern Seaul)
+|Ad Chest +10, Travel Speedup +30m
+|}
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Koryeo]]

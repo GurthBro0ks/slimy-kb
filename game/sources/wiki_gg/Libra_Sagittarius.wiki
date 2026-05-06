@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=287
+|relics=Libra,Sagittarius
+|rank=orange
+|amount=2
+|category=self
+|description=All ELMT RES +5%
+}}

@@ -1,0 +1,44 @@
+{{Missing Info|specifics=<br>Mirage: Awakened}}
+{{CargoRelic
+|name=Pt-Cont Transistor
+|rank=SSS
+|affct=TECH
+|birthday=05-12
+|source=Grandmaster Scrolls (0.79%), Wishing (0.07%)
+|description=On May 12, 1947 AD, Shockley developed a Point-Cont Transistor.
+
+An invention from Shockely, Bardeen, and Brattain. The precursor to the micro-evolution revolution. With a small, low-power electron device replacing the bulky, high-power electron tube, it laid the foundation for a generation of ICs, microprocessers, and computer memory, thanks to the emergence of transistors.
+
+[Pros]
+
+Small: Light weight helps the miniaturization of electron devices<br>Low voltage: It can use batteries<br>No warm-up: No waiting for the cathode to head up<br>Mass production: through semiconductor
+|fame=68
+|art=59
+|fth=71
+|civ=58
+|tech=106
+|ss1=Mecha Minion Cloning SPD +3%<br>Per 5 Tool Chests opened, Snail ATK +24<br>Per 5 Tool Chests opened, Snail RUSH +24<br>Tool Chests Opened: 25/25
+|ss2=Mecha Minion Cloning SPD +4%<br>Per 5 Tool Chests opened, Snail ATK +32<br>Per 5 Tool Chests opened, Snail RUSH +32<br>Tool Chests Opened: 25/25
+|ss3=Mecha Minion Cloning SPD +5%<br>Per 5 Tool Chests opened, Snail ATK +40<br>Per 5 Tool Chests opened, Snail RUSH +40<br>Tool Chests Opened: 25/25
+|ss4=Mecha Minion Cloning SPD +7%<br>Per 5 Tool Chests opened, Snail ATK +56<br>Per 5 Tool Chests opened, Snail RUSH +56<br>Tool Chests Opened: 25/25
+|ss5=Mecha Minion Cloning SPD +9%<br>Per 5 Tool Chests opened, Snail ATK +72<br>Per 5 Tool Chests opened, Snail RUSH +72<br>Tool Chests Opened: 25/25
+|ss6=Mecha Minion Cloning SPD +12%<br>Per 5 Tool Chests opened, Snail ATK +96<br>Per 5 Tool Chests opened, Snail RUSH +96<br>Tool Chests Opened: 25/25
+|ss7=Mecha Minion Cloning SPD +12%<br>Per 5 Tool Chests opened, Snail ATK +96<br>Per 5 Tool Chests opened, Snail RUSH +96<br>Tool Chests Opened: 25/25<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail HP +6,000
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail DEF +120 each round
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Wind RES +60
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Mecha Minion Cloning Speed Boost]]
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Tool Chest Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:HP Boost]]
+[[Category:DEF Boost]]
+[[Category:Wind RES Boost]]
+[[Category:Organ Boost]]
+[[Category:Incense Boost]]
+[[Category:Rewards Crystal of Will]]
+[[Category:Keyboard Warrior Boost]]

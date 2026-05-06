@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Fly-By-Wire
+|class_id=22491
+|rank=Blue
+|affct=TECH
+|birthday=11-12
+|source=Lottery Machine No.3 (0.06%)
+|description=On Nov 12, 1956 AD, the Fly-By-Wire system was first used on an aircraft.<br>As an advanced electronic flight control system, the FBW system is defined in the industry as an electronic flight control system that uses feedback control principles to control the movement of the aircraft as a controlled parameter. Compared with traditional mechanical flight control systems, the reliability of the FBW system is much higher, and the system's capabilities have made a qualitative leap.
+|fame=31
+|art=24
+|fth=30
+|civ=23
+|tech=46
+|ss1=Wormhole Refinement SPD +0.4%
+|ss2=Wormhole Refinement SPD +0.8%
+|ss3=Wormhole Refinement SPD +1.2%
+|ss4=Wormhole Refinement SPD +2%
+|ss7=Wormhole Refinement SPD +2%<br>Wormhole Refinement SPD +2% (Awakened)
+|skill1=[[File:Goldfish skill I.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Water DMG +10
+}}

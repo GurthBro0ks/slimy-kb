@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Tyr's Arm,Skidbladnir Ship
+|rank=purple
+|amount=2
+|category=self
+|description=Per 2k Relic Points, Snail DEF +4<br>Relic Points:60,000/60,000
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by Relic Points]]

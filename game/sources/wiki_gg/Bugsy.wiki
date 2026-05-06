@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Bugsy
+|rank=blue
+|cabin=2
+|id=3
+|gene1={race} ATK +20
+|gene2={race} FAME +20
+|gene3=Resolver: Mutagen Serum +100
+|gene4=Per 10 Mecha Minions in battle:
+> Troop ATK +2
+|gene5=Resolver: Mutagen Serum +200
+|}}

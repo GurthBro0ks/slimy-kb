@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Scarlet Sting
+|type=Common
+|rank=orange
+|id=10869
+|idx=76
+|description=This tail stinger belongs to the scorpion, after being hit fifteen times, the enemy will die of poison, until then they can always surrender. Perhaps this is the mercy of pay-to-win players!
+|skill=
+|hp=1770
+|def=179
+|atk=185
+|rush=303
+|gene1=Poison DMG +90
+|gene2=Lifesteal Rate +15%
+|gene3=HIT +6%
+|gene4=Lifesteal Rate +15%
+|gene5=Chance to cause Bleed +3%
+|gene7=Chance to cause Bleed +3% (Awakened)
+|}}

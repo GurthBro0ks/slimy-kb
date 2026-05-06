@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=851
+|relics=Manifesto of Surrealism,Ra's Solar Barque
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 T7+ Dragon Minions in battle:Troop HARD Stats +70
+}}

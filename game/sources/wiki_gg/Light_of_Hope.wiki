@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Light of Hope
+|class_id=20476
+|rank=Green
+|affct=FAME
+|source=
+|description=Lantern Master always carries this magical item with him. Its warm light and fragrant smoke not only dispel the danger in the dark but also attract cute monsters to join you in battles.
+|fame=30
+|art=17
+|fth=17
+|civ=13
+|tech=13
+|ss1=Snail HP +100<br>Per Fissure Incident completed, Snail ATK +3<br>Fissure Incidents Completed: 25/25
+|ss2=Snail HP +200<br>Per Fissure Incident completed, Snail ATK +4<br>Fissure Incidents Completed: 25/25
+|ss3=Snail HP +300<br>Per Fissure Incident completed, Snail ATK +5<br>Fissure Incidents Completed: 25/25
+|ss4=Snail HP +300<br>Per Fissure Incident completed, Snail ATK +5<br>Fissure Incidents Completed: 25/25
+|ss7=Snail HP +300<br>Per Fissure Incident completed, Snail ATK +5<br>Fissure Incidents Completed: 25/25<br> (Awakened)
+}}

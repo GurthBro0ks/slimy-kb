@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Tyrant Turtle Shell
+|type=Common
+|rank=blue
+|id=10952
+|idx=145
+|description=Heirloom of Yamato Apostle Spike Turtle. Allegedly its great-great-grandfather's lifebound treasure. Tempered by generations of bloodline refinement. Hard as diamond!
+|skill=
+|hp=814
+|def=158
+|atk=98
+|rush=80
+|gene1=In explorations, {race} DEF +20
+|gene2=Each round, {race} DEF +20
+|gene3=All ELMT RES +10
+|gene7=All ELMT RES +30 (Awakened)
+|}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Diesel Engine
+|class_id=22008
+|rank=Blue
+|affct=FAME
+|birthday=02-27
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Feb 27, 1892 AD, German engineer Diesel was given the letter of patent for the engine.<br>The earliest diesel engine in the world was invented by a German engineer named Diesel. The machine burns diesel oil as fuel, so people just simply call it Diesel. Compared to gasoline engines, this engine had higher power and actually was cheaper to manufacture. It also burned poor-quality fuel oil to lower the cost, so the prospect of the engine seemed promising. After hundred years of development, the original "Diesel design" still can be found in nowadays engines.
+|fame=47
+|art=28
+|fth=22
+|civ=28
+|tech=29
+|ss1=Mecha Minion HP +1%
+|ss2=Mecha Minion HP +2%
+|ss3=Mecha Minion HP +3%
+|ss4=Mecha Minion HP +5%
+|ss7=Mecha Minion HP +5%<br>Mecha Minion HP +5% (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, food consumed -1%
+}}

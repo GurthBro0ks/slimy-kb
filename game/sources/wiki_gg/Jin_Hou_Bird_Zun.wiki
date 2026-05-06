@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Jin Hou Bird Zun
+|class_id=22814
+|rank=SSS
+|affct=ART
+|source=
+|description=The Jin Hou Bird Zun is a very precious artifact among Chinese Shang and Zhou dynasty bronzes. It has a unique shape, resembling a phoenix bird, with its head held high, eyes wide open, beak slightly open, and tail feathers elegantly arched into a beautiful curve. The tail is cleverly designed into an elephant trunk-shaped spout, making the entire vessel both aesthetically pleasing and practical. It is not only a work of art but also an important historical artifact, reflecting the high achievements of ancient Chinese bronze casting technology and culture.
+|fame=62
+|art=108
+|fth=63
+|civ=72
+|tech=57
+|ss1=Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 5 Epic Protodex Stars, Snail ATK +9<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +72<br>Epic Protodex Stars: 100/100
+|ss2=Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 5 Epic Protodex Stars, Snail ATK +12<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +96<br>Epic Protodex Stars: 100/100
+|ss3=Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 5 Epic Protodex Stars, Snail ATK +15<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +120<br>Epic Protodex Stars: 100/100
+|ss4=Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 5 Epic Protodex Stars, Snail ATK +21<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +168<br>Epic Protodex Stars: 100/100
+|ss5=Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 5 Epic Protodex Stars, Snail ATK +27<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +216<br>Epic Protodex Stars: 100/100
+|ss6=Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 5 Epic Protodex Stars, Snail ATK +36<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +288<br>Epic Protodex Stars: 100/100
+|ss7=Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 5 Epic Protodex Stars, Snail ATK +36<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +288<br>Epic Protodex Stars: 100/100<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's ART +15
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: Medal Output +30
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x Orange Card Drops +15%
+}}

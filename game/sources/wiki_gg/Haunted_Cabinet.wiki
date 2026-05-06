@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Haunted Cabinet
+|class_id=20026
+|rank=Green
+|affct=FAITH
+|source=
+|description=It is said that an evil spirit is sealed in this wine cabinet. After it's out of wine, the spirit will cast a curse on the cabinet owner: They will keep having the same nightmare about an evil witch! Research shows, however, that it's just hallucinations caused by overconsumption of alcohol.
+|fame=17
+|art=15
+|fth=29
+|civ=12
+|tech=17
+|ss1=Food rewards from offering +0.4%
+|ss2=Food rewards from offering +0.8%
+|ss3=Food rewards from offering +1.2%
+|ss4=Food rewards from offering +1.2%
+|ss7=Food rewards from offering +1.2%<br> (Awakened)
+}}

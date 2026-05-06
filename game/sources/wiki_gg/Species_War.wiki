@@ -1,0 +1,111 @@
+Species War is a multiplayer pvp mode with [[Club|Clubs]] competing with each other, it starts once a week, lasts 6 days, each session lasting from Saturday 5 am PST and ending next Friday at 4:59 am PST. There is a resting period from Friday 5 am PST to Saturday 4:59 am PST. Club performance depends on the contributions of every member, rewards are also equally shared among members. In short, if you want better rewards, you should work together to optimize gains.
+
+'''''Note: If you leave your Club during a Species War session, you will not be able to participate in the Species War session of that week. If you want to switch Clubs, switch during the resting period.'''''
+
+==Choose Field Supply==
+When entering the portal for the first time each week, you must choose a tool set, which gives you different numbers of Drill Bits, Gold Tokens, Silver Tokens, and an unique bonus. Drills are needed to progress through the map, while Tokens are required to challenge enemies (Silver Tokens for regular enemies and Gold Tokens for bosses). All three of these items are individual to each player and are not shared between players.
+
+We recommend players with stronger minion power to choose the Vanguard Kit, while other players should choose the Drilling Kit (previously known as Prospection Set). The Labor Kit offers a mining speed buff, but is not recommended. Only 25 players in each club may choose a certain kit, on a first-come, first-serve basis, with later players needing to select a remaining kit.
+
+[[File:Vangaurd Set.jpg|200px]][[File:Prospection Set.jpg|200px]][[File:Labor Set.jpg|200px]]
+
+The Vanguard Kit grants a minus 30% minion casualty buff and daily rewards of 15 drills, 2 silver tokens, and 1 gold token. The Digging Kit grants a minus 10% minion casualty buff and daily rewards of 30 drills, 1 silver token, and 1 gold token. The Labor Kit grants a minus 10% resource gathering speed buff and daily rewards of 15 drills, 1 silver token, and 1 gold token.
+
+The contents of your chosen kit are rewarded immediately upon claiming it, and may be also be claimed each day during the species war. (''Including'' on the first day) Any drills, gold tokens, or silver tokens not used during the species war will be erased at the end of the species war. 
+
+==Progressing==
+Your goal in the Species War is to obtain as many points as possible to keep your club ahead in the rankings. [[Gear Forge|Gear RF]] and [[Treasure_Collection#Species_Treasure|Species Chests]] are rewarded at the end of the event based on club ranking. Rewards given to a club will be given to all members equally, but the exact numbers rewarded weekly will change based on the number of servers in the event. 
+
+Progress is made by digging through a grid of tiles, the progress of which is shared between the members of the club. The grid is divided in to areas that are separated by a horizontal line of unbreakable tiles, which cannot be passed until the area's boss is defeated. Each area contains a boss, 3 special incidents, 9 gathering sites. All the odd numbered areas also contain 3 enemies, and some areas have solo incidents. Players can tap on the left bottom corner to view everything your club has found in the current species war, and quickly travel between them. As resources are gathered, your club will be able to create a Biozilla to gain bonuses for the future. You can see what kinds of resources you need by tapping on the TV on the top right of the area or by tapping Snail Officer at the top and checking your guild's shared inventory.
+
+==Resources==
+There are three types of resources, Remains, Fossils, and Hormones, in Species War each of which is divided into tiers and into three subtypes: α (alpha), β (beta), and γ (gamma). These are shared with your entire club. When 1 point of each α, β, and γ are collected of a certain tier, they will be automatically converted into 1 resource of the respective tier. These resources are then used to incubate your Biozilla.
+
+===Remains===
+The number on each tile marks the number of Drill Bits needed to break it. These numbers increase in your club progresses to further areas. Whenever you drill through a tile, you will randomly receive a subtype of Remains Material: α, β, γ. Tiles that require more Drill Bits to break will reward higher tiers of material. You can buy Drill Bits with W-tads. The price of Drill Bits increases with each purchase and is capped at 12 purchases per species war.
+
+===Hormones===
+Every odd-numbered area will have three enemies, one corresponding to each of the three subtypes of Hormone Material: α, β, and γ. Each can be fought repeatedly. Each area that has enemies will have them at one tier higher than the previous area that had enemies.
+
+[[File:Alpha Horomone Fight.png|200px]][[File:Beta Horomone Fight.png|200px]][[File:Gamma Horomone Fight.png|200px]]
+
+Every attack consumes one Silver Token, which is returned if the attack is unsuccessful. When defeated, they will drop 80 Star Coins and some of their respective Hormone Material. When one of each subtype is gained, they will be automatically converted into hormone material. It is recommended to look up which subtype(s) of hormone your Club currently needs to optimize progress.
+
+===Fossils===
+Each area has 9 Gathering Sites that generate Fossils. There are α, β, γ subtypes of Fossils. And of course, one of each subtype converts into one full Fossil Material. That’s why members should always have minions stationed at Gathering Sites. You should know that minions of higher tiers are needed at Gathering Sites of higher tiers. While members could gather at higher tiered sites for more points, your Biozilla may need lower tiered resources. In short, Clubs should allocate resources and time to get the most points.
+
+[[File:Gathering Site Alpha.png|200px]][[File:Gathering Site Beta.png|200px]][[File:Gathering Site Gamma.png|200px]]
+
+===Bosses===
+Each area has a boss. Players need a Gold Token to challenge bosses. Similar to the initial fights to unlock the portal, bosses have extremely high amounts of health and do not recover health after fights, including health damaged by other members of your club. Regardless of casualties, challenging bosses gives you 100 Star coins and some amount of one subtype of random Fossil Material after every fight. We recommend members with higher minion power to save their Gold Tokens for bosses further down the map. In other words, players with lower minion power should ideally take care of the bosses of the first few areas.
+
+Note that at the 4th area, bosses start dropping Embryos, which allows Clubs to skip the need to collect materials altogether. For example, if you can beat the boss in the 4th area, you can get Tier 1 Biozilla without needing to collect the T1 Fossils, Hormones, and Remains! The table below displays what area bosses give what Biozilla tier reward.
+<br>
+{| class="wikitable"
+! Area Boss Defeated
+! Tier Biozilla Unlocked
+|-
+|4-5
+|1
+|-
+|6-7
+|2
+|-
+|8-9
+|3
+|-
+|10-11
+|4
+|-
+|12-13
+|5
+|-
+|14-15
+|6
+|-
+|16-17
+|7
+|-
+}
+
+==Incidents==
+In every area, there are three common incidents that can be found. They reset every time Species War begins, and these are open to all club members to participate in. Each member of a club can participate in as many incidents as they want, but can only participate in each specific incident once. Most incidents involve submitting some resource or displaying a relic. The amount of member required to participate in an incident increases by one member in each area, starting with 8 for incidents in the first area. Examples of incidents include:
+* Submitting Cells
+* Dispatching minions
+* Displaying certain Relics
+* Submitting souls bought from the Vending Machine
+* Displaying certain Bionic Parts
+* Submitting Form Manuals
+* Submitting Escargot
+* Submitting W-Tadpoles
+
+On the other hand, Solo Incidents can only be finished one time in on one account, and carry over between wars. It might take a while before a player can finish a Solo Incident! The Extraction Device, Species Shop, Species Card Redemption are notable solo incidents that appear in the first two areas during every species war.
+
+===Extraction Device===
+The Extraction Device lets Species Essence be converted into Species chests and equal amounts of all three resources. The player can choose any tier of their choice to receive the resources. One species essence can be obtained for free during each species war and one more can be bought from the species shop. Species essences are not lost after the species war ends.
+
+===Species Shop===
+Completing incidents, defeating enemies, drilling tiles, and completing mining spots will reward species coins to use in the species shop. Items for sale include scrolls, refinery and chore speedups, species treasure chests, and minion skin fragments. Species coins that are leftover at the end of the event are converted into species treasure chests.
+
+===Species Card Redemption===
+Completing incidents, defeating enemies, and completing mining spots will also reward species cards. These are similar to the cards exchanged in each realm. Species Treasure chests, Evolution chests, and Time chests can be obtained this way. Species Device parts can also be obtained this way for each rarity once the limited quantity rewards are traded for. Special Cards exist for each rarity that are obtained in the same way, these can be traded for rarer items, such as golden pickaxes, lottery tickets, and wish coins. Especially important are unique, permanent items that boost collection speed and reduce causality chance.
+
+==Battling in Species Wars==
+Much like in Domain battles, players battle with their Minions in Species War. You can see your total Minion Power and expected casualty rate before you start a battle. There’s a couple of ways to increase Minion Power.
+==== Leadership ====
+Having higher Leadership means you can deploy higher numbers of Minions in battle, which increases Minion Power and lowers casualties.
+
+==== Partner Skills ====
+Increase Partner Skills with Research Manuals. You can redeem these manuals with Star Coins in the Club Shop. Partner Skills can buff your Minion stats.
+
+====Relics and Resonances====
+Certain Relics and Resonances can boost leadership, as well as buff Minions. We recommend you to choose a certain Form of Minion to prioritize, such as Mutant Form, Demon Form, or Angel Form. Although some Minions have higher base stats than others, your Relics and Resonances play a big role in determining which Minions are stronger for you.
+
+==== Biozilla Buffs ====
+After each Species War, there will be 24 hours to set up your Biozilla. After you reach tier 2, you may embed one Relic in your Biozilla. Each increased tier gives you another slot to embed another Relic. Reach tier 6 to unlock all 5 Relic slots. The slots are permanently unlocked, meaning that once you unlock a slot, you will be able to embed Relics regardless of your Club’s latest performance. Embed the right Relics to buff your Minions in Species War!
+
+====Gene Research====
+Each tier of Gene Research has two sides of nodes: one side buffs your Snail, the other side buffs your Minions. Keep researching to buff your Minions. Some genetic nodes even buff your Leadership!
+
+== Conclusion ==
+As a multiplayer pvp feature, Species Wars invites Clubs to compete over their power levels, coordination, and strategy. Members need to work together to maximize Club performance. On the other hand, have fun, don’t feel like you’re working. Play smarter, not harder. We hope everyone has fun with Species Wars!

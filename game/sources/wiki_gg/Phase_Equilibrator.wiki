@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Phase Equilibrator
+|class_id=20831
+|rank=Green
+|affct=TECH
+|source=
+|description=To address the issue of coordinates shifting when delivering supplies to the front lines, Earth's Will instructed the creation of this terminal device to assist in spatial teleportation. This significantly reduced opportunities for interference by the forces of the Demon Gods.
+|fame=17
+|art=13
+|fth=12
+|civ=15
+|tech=32
+|ss1=Weekly combat supplies, Potions +1<br>For every level of Base Station cleared, Snail ATK +1<br>Base Station LVLs Cleared: 30/30
+|ss2=Weekly combat supplies, Potions +2<br>For every level of Base Station cleared, Snail ATK +2<br>Base Station LVLs Cleared: 30/30
+|ss3=Weekly combat supplies, Potions +3<br>For every level of Base Station cleared, Snail ATK +3<br>Base Station LVLs Cleared: 30/30
+|ss4=Weekly combat supplies, Potions +3<br>For every level of Base Station cleared, Snail ATK +3<br>Base Station LVLs Cleared: 30/30
+|ss7=Weekly combat supplies, Potions +3<br>For every level of Base Station cleared, Snail ATK +3<br>Base Station LVLs Cleared: 30/30<br> (Awakened)
+}}

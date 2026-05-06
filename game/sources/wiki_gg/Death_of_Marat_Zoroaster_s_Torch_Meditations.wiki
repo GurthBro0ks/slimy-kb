@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Death of Marat,Zoroaster's Torch,Meditations
+|rank=purple
+|amount=3
+|category=home
+|description=Quarry Output +14%
+}}
+[[Category:Home]]

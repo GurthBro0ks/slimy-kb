@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Chaos Reverse Scale
+|type=Bionic
+|rank=red
+|id=10702
+|idx=60
+|description="Deep within the heart of chaos lies a single indomitable scale. Untouchable. Unseeable…"
+— Codex Draconis
+|skill=When receiving fatal damage, become immune to death, recover 8.6% of max HP, and activate Frenzy for 3 rounds. For each stack of Annihilation on enemies, your CRIT increases by 10%!
+|hp=2348
+|def=374
+|atk=247
+|rush=213
+|gene1=In explorations, 2x B-tad Drops +8%
+|gene2=In exploration, 8% chance to obtain 2x Reagents
+|gene3=In explorations, 8% chance to gain 2x INTEL
+|gene4=In explorations, 2x Time Chest Drops +8%
+|gene5=In exploration, 8% chance to gain 2x Treasure Maps
+|gene6=In exploration, 4% chance to obtain double Dragon Orbs
+|gene7=In explorations, 2x B-tad Drops +8% (Awakened)
+|}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Jormungandr Scale
+|class_id=21215
+|rank=AA
+|affct=FAITH
+|birthday=11-29
+|source=
+|description=On Nov 29, 4780 BC, Thor pulled out a piece of scale from Jormungandr.<br>Thor went fishing with Hymir, the giant. In order to show his strength, Thor drove the boat far away and used the head of a giant bull as bait to attract Jormungandr, the giant serpent. Thor used all his strength to fight the serpent and pulled it out of the sea. The serpent was so big that when it stretched its body, the tail touched its head at the other end of the deep sea. Jormungandr couldn't break free from him and curled its body to wrap the entire world around. However, Thor still managed to pull out a piece of scale from it.
+|fame=44
+|art=44
+|fth=69
+|civ=40
+|tech=31
+|ss1=Per 30 Dragon Minions in battle:<br>> Troop ATK +4<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +4
+|ss2=Per 30 Dragon Minions in battle:<br>> Troop ATK +8<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +8
+|ss3=Per 30 Dragon Minions in battle:<br>> Troop ATK +12<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +12
+|ss4=Per 30 Dragon Minions in battle:<br>> Troop ATK +20<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +20
+|ss5=Per 30 Dragon Minions in battle:<br>> Troop ATK +28<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +28
+|ss7=Per 30 Dragon Minions in battle:<br>> Troop ATK +28<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +28<br>Per 30 Dragon Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Kemet skill II.png|50px]]Place in Kemetic Museum: In Kemet, Snail ATK +30
+|skill2=[[File:Kemet skill II.png|50px]]Place in Kemetic Museum: In Kemet, B-tads gained +7.5%
+}}

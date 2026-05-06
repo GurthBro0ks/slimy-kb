@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Three Days to See
+|class_id=22638
+|rank=SSS
+|affct=FAME
+|birthday=12-08
+|source=
+|description=On Dec 8, 1903 AD, Helen Keller wrote about her years of experience and published it as a book.<br>Three Days to See describes the experiences of Helen Keller's life. She went from being a disappointed blind and deaf person to reigniting hope under the guidance of her teacher, Anne Sullivan, and learning to read and live with the support of her family and teacher. She graduated from Harvard University with excellent grades and learned five languages, and eventually went on to become involved in charitable work. Her love for life in adversity continues to inspire people around the world!
+|fame=108
+|art=65
+|fth=47
+|civ=72
+|tech=70
+|ss1=Snail Leadership +3<br>All Minion DEF +0.6%<br>Per 3 Forest Protomon, Snail ATK +9<br>Forest Protomon: 60/60
+|ss2=Snail Leadership +4<br>All Minion DEF +0.8%<br>Per 3 Forest Protomon, Snail ATK +12<br>Forest Protomon: 60/60
+|ss3=Snail Leadership +5<br>All Minion DEF +1%<br>Per 3 Forest Protomon, Snail ATK +15<br>Forest Protomon: 60/60
+|ss4=Snail Leadership +7<br>All Minion DEF +1.4%<br>Per 3 Forest Protomon, Snail ATK +21<br>Forest Protomon: 60/60
+|ss5=Snail Leadership +9<br>All Minion DEF +1.8%<br>Per 3 Forest Protomon, Snail ATK +27<br>Forest Protomon: 60/60
+|ss6=Snail Leadership +12<br>All Minion DEF +2.4%<br>Per 3 Forest Protomon, Snail ATK +36<br>Forest Protomon: 60/60
+|ss7=Snail Leadership +12<br>All Minion DEF +2.4%<br>Per 3 Forest Protomon, Snail ATK +36<br>Forest Protomon: 60/60<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: This Relic's FAME +15
+|skill2=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Cap +30%
+|skill3=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +30%
+|mirage={{Mirage|name=Life's Warrior|reward={{RewardIconWithLink|Dragon Orb, +1|orange}}
+|3name=Sullivan|3rec=149.69M|3atk=408832|3defense=254505|3hp=25141436|3weak=39013
+|4name=Sarah Fullworth|4rec=205.56M|4atk=542369|4defense=333108|4hp=41524874|4weak=44332
+|5name=Hao Boshi|5rec=299.70M|5atk=722627|5defense=432191|5hp=76756722|5weak=51692
+|6name=Helen Keller|6rec=396.70M|6atk=882741|6defense=519459|6hp=110282112|6weak=55340
+|Arec=523.70M|Aatk=1102464|Adefense=633710|Ahp=195265315|Aweak=61146
+}}}}

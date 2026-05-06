@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=614
+|relics=12 Zodiac Runes,Sierpinski Triangle
+|rank=blue
+|amount=2
+|category=self
+|description=Desert Sanctum, Glorium Output +10%
+}}

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Red Star Design Award
+|class_id=22907
+|rank=SSS
+|affct=TECH
+|source=
+|description=The Red Star Award, jointly initiated by the China Industrial Design Association, Beijing Industrial Design Promotion Center, and New Economy Guide Magazine, has become one of the most authoritative and influential design awards in China, known as the Oscars of the Chinese design industry. The award aims to promote design innovation and enhance standards, focusing not only on the innovation and practicality of design but also on its market competitiveness and impact on improving quality of life. The award has signed a strategic cooperation agreement with the German Red Dot Award and reached a standard mutual recognition agreement with the Australian International Design Awards.
+|fame=70
+|art=55
+|fth=74
+|civ=54
+|tech=109
+|ss1=Snail Leadership +3<br>Per 3 Dorm Decors gained, Snail ATK +3<br>prop@53195_2<br>Dorm Decor Gained: 150/150
+|ss2=Snail Leadership +4<br>Per 3 Dorm Decors gained, Snail ATK +4<br>prop@53195_2<br>Dorm Decor Gained: 150/150
+|ss3=Snail Leadership +5<br>Per 3 Dorm Decors gained, Snail ATK +5<br>prop@53195_2<br>Dorm Decor Gained: 150/150
+|ss4=Snail Leadership +7<br>Per 3 Dorm Decors gained, Snail ATK +7<br>prop@53195_2<br>Dorm Decor Gained: 150/150
+|ss5=Snail Leadership +9<br>Per 3 Dorm Decors gained, Snail ATK +9<br>prop@53195_2<br>Dorm Decor Gained: 150/150
+|ss6=Snail Leadership +12<br>Per 3 Dorm Decors gained, Snail ATK +12<br>prop@53195_2<br>Dorm Decor Gained: 150/150
+|ss7=Snail Leadership +12<br>Per 3 Dorm Decors gained, Snail ATK +12<br>prop@53195_2<br>Dorm Decor Gained: 150/150<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: Medal Output +30
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's TECH +15
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x Orange Card Drops +15%
+|mirage={{Mirage|name=dungeon@22907_1|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Interactive Robot|3rec=369.50M|3atk=873201|3defense=494983|3hp=212530022|3weak=67297
+|4name=Smart Street Lamp|4rec=467.63M|4atk=1035947|4defense=583265|4hp=348041252|4weak=73213
+|5name=Unmanned Cruise Car|5rec=608.55M|5atk=1330950|5defense=710047|5hp=581239994|5weak=80820
+|6name=Manned Copter|6rec=825.17M|6atk=1953059|6defense=934507|6hp=972274054|6weak=91130
+|Arec=1177.19M|Aatk=2981091|Adefense=1286568|Ahp=1807539375|Aweak=102646
+}}}}

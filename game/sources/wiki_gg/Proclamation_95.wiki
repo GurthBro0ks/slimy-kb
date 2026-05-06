@@ -1,0 +1,43 @@
+
+{{CargoRelic
+|name=Proclamation 95
+|rank=SS
+|affct=FAME
+|birthday=10-27
+|source=Fragment Crafting (0.61), Lottery Machine (0.24%), Wishing (0.22%), Master Scrolls (0.19%), Grandmaster Scrolls (2.1%), FAME Master Scroll (9.2%)
+|description=On Oct 27, 1862, Lincoln officially issued the Emancipation Proclamation.
+
+Before the Emancipation Proclamation, many slaves were exploited by slaveholders, which was condoned by the Constitution. During the Civil War, a large number of slaves joined the Union Army, so it became a priority to give these soldiers legal freedom. But worried about internal divisions, Lincoln did not issue a declaration until after the Union Army repelled the Confederates at the Battle of Antioch.
+|fame=105
+|art=62
+|fth=62
+|civ=63
+|tech=55
+|ss1=Chore Dispatch SPD +0.8%<br>Per 3 FAME Relics gained, Snail DEF +8<br>Per 3 FAME Relics gained, Snail RUSH +8<br>FAME Relics: 60/60
+|ss2=Chore Dispatch SPD +1.2%<br>Per 3 FAME Relics gained, Snail DEF +12<br>Per 3 FAME Relics gained, Snail RUSH +12<br>FAME Relics: 60/60
+|ss3=Chore Dispatch SPD +1.6%<br>Per 3 FAME Relics gained, Snail DEF +16<br>Per 3 FAME Relics gained, Snail RUSH +16<br>FAME Relics: 60/60
+|ss4=Chore Dispatch SPD +2.4%<br>Per 3 FAME Relic's Gained, Snail DEF +24<br>Per 3 FAME Relic's Gained, Snail RUSH +24<br>Fame Relics: 60/60
+|ss5=Chore Dispatch SPD +3.2%<br>Per 3 FAME Relics gained, Snail DEF +32<br>Per 3 FAME Relics gained, Snail RUSH +32<br>FAME Relics: 60/60
+|ss6=Chore Dispatch SPD +4.4%<br>Per 3 FAME Relics gained, Snail DEF +44<br>Per 3 FAME Relics gained, Snail RUSH +44<br>FAME Relics: 60/60
+|ss7=Chore Dispatch SPD +4.4%<br>Per 3 FAME Relics gained, Snail DEF +44<br>Per 3 FAME Relics gained, Snail RUSH +44<br>FAME Relics: 60/60<br>Chore Dispatch SPD +4% (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, food consumed -15%
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Zombie Cells gained +30%
+|skill3=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: This Relic's FAME +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Chore Dispatch Speed Boost]]
+[[Category:Relic Boost]]
+[[Category:DEF Boost]]
+[[Category:RUSH Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Food Consumed Reduction]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Zombie Cell Drop Boost]]
+[[Category:Lumber Camp Skill]]
+[[Category:FAME Boost]]
+[[Category:Ad Shop Boost]]
+[[Category:HP Boost]]
+[[Category:Zombie Gene Speedup Boost]]
+[[Category:Tomb Figure Boost]]

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Wilfrid's Eyeglasses
+|class_id=22473
+|rank=Blue
+|affct=CIV
+|birthday=08-14
+|source=Lottery Machine No.3 (0.03%)
+|description=On Aug 14, 1957 AD, lawyer Wilfrid received an invitation to defend.<br>Sir Wilfrid was London's best lawyer, and due to his unique lens authentication method, he won many cases. He was confident about his current case as well. However, the defendant, Wall, was a cunning and charming actor who staged a perfect crime using his superb acting, his wife's love, and Sir Wilfrid's arrogance.
+|fame=29
+|art=35
+|fth=22
+|civ=47
+|tech=21
+|ss1=Per 5 Epic Protodex Stars, Snail RUSH +3<br>Epic Protodex Stars: 100/100
+|ss2=Per 5 Epic Protodex Stars, Snail RUSH +6<br>Epic Protodex Stars: 100/100
+|ss3=Per 5 Epic Protodex Stars, Snail RUSH +9<br>Epic Protodex Stars: 100/100
+|ss4=Per 5 Epic Protodex Stars, Snail RUSH +15<br>Epic Protodex Stars: 100/100
+|ss7=Per 5 Epic Protodex Stars, Snail RUSH +15<br>Epic Protodex Stars: 100/100<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Quantumamp  skill I.png|50px]]Place in a Quantum Amp: Quantum Amp production +2.5%
+}}

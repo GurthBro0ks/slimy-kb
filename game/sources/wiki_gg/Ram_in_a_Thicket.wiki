@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Ram in a Thicket
+|class_id=22824
+|rank=SSS
+|affct=ART
+|source=
+|description=Ram in a Thicket, unearthed from the Royal Tombs of Ur, are among the emblems of the Ur civilization. The artifact takes the form of a tree adorned with fruits made of gold and silver, beneath which stands a goat crafted from gold and gems, materials of immense value. The Golden Goat and the Sacred Tree are not only showcases of exquisite craftsmanship but also symbols of religion and myth. In Sumerian culture, trees often symbolize life and fertility, while goats represent the power of Divinity or the Priest. Their presence allows us to traverse millennia and experience the religious beliefs and aesthetic tastes of human societies from that era.
+|fame=58
+|art=106
+|fth=70
+|civ=71
+|tech=57
+|ss1=Snail RUSH +30<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 10 Rare Protomon fused, Snail DEF +6<br>Rare Protomon Fused: 200/200
+|ss2=Snail RUSH +40<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 10 Rare Protomon fused, Snail DEF +8<br>Rare Protomon Fused: 200/200
+|ss3=Snail RUSH +50<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 10 Rare Protomon fused, Snail DEF +10<br>Rare Protomon Fused: 200/200
+|ss4=Snail RUSH +70<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 10 Rare Protomon fused, Snail DEF +14<br>Rare Protomon Fused: 200/200
+|ss5=Snail RUSH +90<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 10 Rare Protomon fused, Snail DEF +18<br>Rare Protomon Fused: 200/200
+|ss6=Snail RUSH +120<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 10 Rare Protomon fused, Snail DEF +24<br>Rare Protomon Fused: 200/200
+|ss7=Snail RUSH +120<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 10 Rare Protomon fused, Snail DEF +24<br>Rare Protomon Fused: 200/200<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +15%
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in Quantum Amp: This Relic's ART +15
+|skill3=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +30%
+|mirage={{Mirage|name=dungeon@22824_1|reward={{RewardIconWithLink|Incense, +3|orange}}
+|3name=Golden Sheep|3rec=265.85M|3atk=706856|3defense=401734|3hp=105455827|3weak=60479
+|4name=Golden Cow|4rec=339.98M|4atk=825941|4defense=468425|4hp=165533502|4weak=65484
+|5name=Golden Shepherd|5rec=450.92M|5atk=1008291|5defense=568233|5hp=299362571|5weak=72242
+|6name=Manager Gold|6rec=591.31M|6atk=1281124|6defense=694541|6hp=517314453|6weak=79953
+|Arec=794.95M|Aatk=1854633|Adefense=902097|Ahp=857216182|Aweak=89967
+}}}}

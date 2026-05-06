@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=652
+|relics=Luna 1,Barrage Balloon,Flywheel Battery,Ohmmeter,Vaucanson Robot,Kugelpanzer
+|rank=blue
+|amount=6
+|category=self
+|description=All minion skins HP +90%
+}}

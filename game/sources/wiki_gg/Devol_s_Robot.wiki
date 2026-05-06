@@ -1,0 +1,46 @@
+
+{{CargoRelic
+|name=Devol's Robot
+|rank=S
+|affct=TECH
+|birthday=12-30
+|source=* Ad Chest (3%), Fragment Crafting (17.8%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), TECH Master Scrolls (31.5%), Wishing (0.65%)
+* [[Indigent Nobleman]] (570k {{RewardIconWithText|B-Tad}})
+|description=On Dec 30, 1957, DeVore invented the world's first robot.
+Devore and Engelberg first met at a cocktail party, and the two bonded over a shared interest in science fiction. From then on, R&D funding was provided by Engelberg, while DeVore focused on inventing the "programmed object transfer," which was programmed to repeat the delicate tasks of grabbing and lifting. Before long, DeVore captured the world's attention by having a robot demonstrate making a goal, conducting a band, opening and pouring a can of beer, and more.
+|fame=57
+|art=65
+|fth=67
+|civ=46
+|tech=97
+|ss1=Snail RUSH +10<br>Per 3 TECH Relics gained, Snail ATK +4<br>Per 3 TECH Relics gained, Snail RUSH +4<br>TECH Relics: 60/60
+|ss2=Snail RUSH +20<br>Per 3 TECH Relics gained, Snail ATK +8<br>Per 3 TECH Relics gained, Snail RUSH +8<br>TECH Relics: 60/60
+|ss3=Snail RUSH +30<br>Per 3 TECH Relics gained, Snail ATK +12<br>Per 3 TECH Relics gained, Snail RUSH +12<br>TECH Relics: 60/60
+|ss4=Snail RUSH +50<br>Per 3 TECH Relics gained, Snail ATK +20<br>Per 3 TECH Relics gained, Snail RUSH +20<br>TECH Relics: 60/60
+|ss5=Snail RUSH +70<br>Per 3 TECH Relics gained, Snail ATK +28<br>Per 3 TECH Relics gained, Snail RUSH +28<br>TECH Relics: 60/60
+|ss6=Snail RUSH +100<br>Per 3 TECH Relics gained, Snail ATK +40<br>Per 3 TECH Relics gained, Snail RUSH +40<br>TECH Relics: 60/60
+|ss7=Snail RUSH +100<br>Per 3 TECH Relics gained, Snail ATK +40<br>Per 3 TECH Relics gained, Snail RUSH +40<br>TECH Relics: 60/60<br>Snail RUSH +100
+|skill1=[[File:Compass skill III.png|50x50px]]Place in Exploration Compass: In any Realm, 2x Purple Card Drops +15%
+|skill2=[[File:Quarry skill III.png|50x50px]]Place in Quarry: This Relic's TECH +15
+|skill3=[[File:Koryeo skill III.png|50x50px]]Place in Koryeon Museum: This Relic's TECH +15
+|mirage={{Mirage|name=Automation|reward={{RewardIconWithLink|Orange Coating, +20|orange}}
+|3name=Sweeping Robot|3rec=332k|3atk=9356|3def=6183|3hp=33764|3weak=4980
+|6name=DogBot|6rec=1.36M|6atk=29493|6def=19492|6hp=315132|6weak=9412
+|Arec=4.49M|Aatk=63930|Adef=42251|Ahp=1238620|Aweak=15232
+}}
+}}
+
+[[Category:RUSH Boost]]
+[[Category:ATK Boost]]
+[[Category:Relic Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Quarry Skill]]
+[[Category:TECH Boost]]
+[[Category:Koryeo Museum Boost]]
+[[Category:Fissure Boost]]
+[[Category:DEF Boost]]
+[[Category:Angel Gene Cost Reduction]]
+[[Category:Enhanced by TECH Relics]]
+[[Category:Enhanced by Fissure LVL]]
+[[Category:Indigent Nobleman Relics]]

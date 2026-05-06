@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Treasure Moment
+|class_id=20171
+|rank=Green
+|affct=ART
+|source=
+|description=The snail and the Bird took this group photo together with this cute panda baby. Although they usually harbor ill intentions towards each other, they let down their guard in front of the adorable baby panda, setting aside past grudges to enjoy this warm and beautiful moment.
+|fame=13
+|art=31
+|fth=15
+|civ=16
+|tech=15
+|ss1=Snail ATK +40<br>Per 40 Eggs hatched, Snail RUSH +3<br>Eggs hatched: 1600/1600
+|ss2=Snail ATK +80<br>Per 40 Eggs hatched, Snail RUSH +4<br>Eggs hatched: 1600/1600
+|ss3=Snail ATK +120<br>Per 40 Eggs hatched, Snail RUSH +5<br>Eggs hatched: 1600/1600
+|ss4=Snail ATK +120<br>Per 40 Eggs hatched, Snail RUSH +5<br>Eggs hatched: 1600/1600
+|ss7=Snail ATK +120<br>Per 40 Eggs hatched, Snail RUSH +5<br>Eggs hatched: 1600/1600<br> (Awakened)
+}}

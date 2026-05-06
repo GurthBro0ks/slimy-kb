@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Leopard Award
+|class_id=20090
+|rank=Green
+|affct=CIV
+|source=
+|description=The Locarno International Film Festival, the world's oldest film festival, is known as the prince of film festivals. Its highest award is the Leopard Award, which is primarily presented to films that explore human nature and have outstanding artistic merit.
+|fame=16
+|art=14
+|fth=17
+|civ=29
+|tech=14
+|ss1=All Minion HARD Stats +1.2%
+|ss2=All Minion HARD Stats +1.4%
+|ss3=All Minion HARD Stats +1.6%
+|ss4=All Minion HARD Stats +1.6%
+|ss7=All Minion HARD Stats +1.6%<br> (Awakened)
+}}

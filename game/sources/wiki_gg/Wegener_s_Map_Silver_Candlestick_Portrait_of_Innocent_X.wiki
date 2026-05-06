@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=431
+|relics=Wegener's Map,Silver Candlestick,Portrait of Innocent X
+|rank=purple
+|amount=3
+|category=self
+|description=Refine +1 Green Gaia Material +7%
+}}

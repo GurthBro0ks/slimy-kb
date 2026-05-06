@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20745_1
+|class_id=20745
+|rank=Green
+|affct=FAITH
+|source=
+|description=collection@20745_2
+|fame=13
+|art=14
+|fth=33
+|civ=15
+|tech=15
+|ss1=Earth RES +4<br>Per Fissure Incident completed, Snail HP +10<br>Fissure Incidents Completed: 60/60
+|ss2=Earth RES +8<br>Per Fissure Incident completed, Snail HP +15<br>Fissure Incidents Completed: 60/60
+|ss3=Earth RES +12<br>Per Fissure Incident completed, Snail HP +20<br>Fissure Incidents Completed: 60/60
+|ss4=Earth RES +12<br>Per Fissure Incident completed, Snail HP +20<br>Fissure Incidents Completed: 60/60
+|ss7=Earth RES +12<br>Per Fissure Incident completed, Snail HP +20<br>Fissure Incidents Completed: 60/60<br> (Awakened)
+}}

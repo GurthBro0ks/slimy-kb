@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=658
+|relics=Lyot Filter,Raman Spectroscopy
+|rank=purple
+|amount=2
+|category=self
+|description=Per Tribal Chief defeated, Snail DEF +6;Tribal Chiefs Defeated: 50/50
+}}

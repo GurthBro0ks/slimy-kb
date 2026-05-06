@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Body Claw
+|type=Bionic
+|rank=purple
+|id=10665
+|idx=22
+|description=Hidden in the abdomen - a retractable third claw designed for one purpose only: delivering the perfect killing blow with surgical precision.
+|skill=Summon Skull Claw, dealing DMG equal to 150.4% of ATK, and increase next round's CRIT DMG by 26%!
+|hp=2554
+|def=126
+|atk=130
+|rush=120
+|gene1=In Mecha Form, Earth DMG +120
+|gene2=In Mecha Form, {race} HP +400
+|gene3=In Mecha Form, {race} DEF +40
+|gene4=In Mecha Form, DMG REDUC +2%
+|gene7=In Mecha Form, DMG REDUC +2% (Awakened)
+|}}

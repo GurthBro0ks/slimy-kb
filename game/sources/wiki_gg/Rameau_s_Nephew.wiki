@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Rameau's Nephew
+|class_id=22468
+|rank=Blue
+|affct=CIV
+|birthday=06-26
+|source=Lottery Machine No.3 (0.06%)
+|description=On Jun 26, 1805 AD, Goethe translated "Rameau's Nephew" into German.<br>It is a philosophical novel by French encyclopedist Denis Diderot. It was not published during Diderot's lifetime. The novel, written in dialogue form, reveals the corruption of high society through the shameless speech of Rameau's nephew and offers unique insights into moral and artistic issues. The book breaks the boundaries of traditional tragedy and comedy, creating a new genre of serious drama, which Karl Marx considered an unparalleled work.
+|fame=31
+|art=32
+|fth=26
+|civ=45
+|tech=20
+|ss1=Per 100 Recruit Tokens consumed, Snail ATK +1<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Per 100 Recruit Tokens consumed, Snail ATK +2<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Per 100 Recruit Tokens consumed, Snail ATK +3<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Per 100 Recruit Tokens consumed, Snail ATK +5<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Per 100 Recruit Tokens consumed, Snail ATK +5<br>Consumed Recruit Tokens: 5000/5000<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Mantis skill I.png|50px]]Place in Mantis Biozilla: In Species War, Troop Wind DMG +10
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Hot Pot
+|class_id=20426
+|rank=Green
+|affct=FAME
+|source=
+|description=This hot pot was Killer No.48 before its demise and was known as a Loser League. Demon God fused several previous failed assassins together to make it, but for unknown reasons, he chose hot pot as the vessel. Judging from combat records, this patchwork was obviously another abject failure!
+|fame=28
+|art=14
+|fth=16
+|civ=18
+|tech=14
+|ss1=Per type of food collected, Snail HP +10<br>Types of Food Collected: 60/60
+|ss2=Per type of food collected, Snail HP +20<br>Types of Food Collected: 60/60
+|ss3=Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60
+|ss4=Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60
+|ss7=Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60<br> (Awakened)
+}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Indus Seal
+|class_id=22188
+|rank=AAA
+|affct=CIV
+|birthday=01-31
+|source=
+|description=On Jan 31, 2367 BC, this Indus Seal was buried in Harappa on the upper Indus River.<br>The Indus Seal is a carving from the Indus Era. This carving is square in shape and the size of a postal stamp. It is carved from translucent stone. Inscriptions and animals are carved into it. Since the writing has not been deciphered, it is impossible to know what it represents. The depicted animals were the ones that people at the time saw in their daily lives. It is speculated that this seal may represent identity, or maybe an amulet, and the discovery of this seal provides a glimpse into the enigmatic civilization.
+|fame=51
+|art=43
+|fth=41
+|civ=74
+|tech=34
+|ss1=Quantum Amp Max Cap +3%<br>Quantum Amp gives Nebula Chest Shards by +1.8%
+|ss2=Quantum Amp Max Cap +4%<br>Quantum Amp gives Nebula Chest Shards by +2.4%
+|ss3=Quantum Amp Max Cap +5%<br>Quantum Amp gives Nebula Chest Shards by +3%
+|ss4=Quantum Amp Max Cap +7%<br>Quantum Amp gives Nebula Chest Shards by +4.2%
+|ss5=Quantum Amp Max Cap +9%<br>Quantum Amp gives Nebula Chest Shards by +5.4%
+|ss7=Quantum Amp Max Cap +9%<br>Quantum Amp gives Nebula Chest Shards by +5.4%<br>Quantum Amp Max Cap +7% (Awakened)
+|skill1=[[File:Bharata skill II.png|50px]]Place in Bharata Museum: In Bharata, 2x B-tad Drops +7.5%
+|skill2=[[File:Bharata skill II.png|50px]]Place in Bharata Museum: This Relic's CIV +10
+}}

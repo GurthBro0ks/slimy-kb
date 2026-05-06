@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=408
+|relics=Jane Eyre,Taketori Tale
+|rank=purple
+|amount=2
+|category=self
+|description=Zombie Minion DEF +6%
+}}

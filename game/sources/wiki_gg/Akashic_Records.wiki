@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Akashic Records
+|available=1
+|rank=SSS
+|affct=FTH
+|birthday=03-25
+|source=Lottery Machine No.3 (0.12%)
+|description=On Mar 25, 2000 BC, when the wise men of the Brahmin religion read the Vedic scriptures, they discovered the first record related to the Akashic Records.<br>The Akashic Records, also known as the Book of Life, is a database of information about life in the universe. It is a universal archive system that records all thoughts, words, and actions generated every moment. It is stored in the ether and contains all mysterious knowledge, serving as the source and endpoint of all consciousness. The Akashic Records contain the memories of all human beings for generations and all knowledge of the history of the universe, including the past, present, and future.
+|fame=63
+|art=71
+|fth=106
+|civ=52
+|tech=70
+|ss1=Novice Scrolls collected from Drill Rig +12<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +24<br>Frost Sanctum Rating Pts: 100,000/100,000
+|ss2=Novice Scrolls collected from Drill Rig +12<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +32<br>Frost Sanctum Rating Pts: 100,000/100,000
+|ss3=Novice Scrolls collected from Drill Rig +12<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Frost Sanctum Rating Pts: 100,000/100,000
+|ss4=Novice Scrolls collected from Drill Rig +12<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +56<br>Frost Sanctum Rating Pts: 100,000/100,000
+|ss5=Novice Scrolls collected from Drill Rig +12<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +72<br>Frost Sanctum Rating Pts: 100,000/100,000
+|ss6=Novice Scrolls collected from Drill Rig +12<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +96<br>Frost Sanctum Rating Pts: 100,000/100,000 
+|ss7=Novice Scrolls collected from Drill Rig +12<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +96<br>Frost Sanctum Rating Pts: 100,000/100,000<br>Novice Scrolls collected from Drill Rig +10 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]] Place in a Biozilla: This Relic's FTH +15
+|skill2=[[File:Dungbeetle skill III.png|50px]] Place in Dung Beetle Biozilla: In Species War, All Minion HP +9%
+|skill3=[[File:Dungbeetle skill III.png|50px]] Place in Dung Beetle Biozilla: In Species War, Troop DMG REDUC +6%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:Priest-Snail Boost]]
+[[Category:Priest-Troop Boost]]
+[[Category:Dung Beetle Biozilla Skill]]
+[[Category:Drill Collection Boost]]

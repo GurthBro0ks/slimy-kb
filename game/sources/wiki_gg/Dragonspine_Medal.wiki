@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Dragonspine Medal
+|class_id=22299
+|rank=SSS
+|affct=FAITH
+|birthday=08-24
+|source=
+|description=On Aug 24, 235 BC, a group of uninvited guests intruded into the lair of the Abyssal Dragon.<br>The ogres in the Abyssal Valley were originally an extremely weak race, preyed upon by various powerful magical creatures until an ogre changed this situation. He crossed the Dragon Mountain, used cunning to sow discord between the dragons and the elves, and took advantage of the unguarded dragon nest to steal the Dragonspine Medal. On his escape, he even killed a dragon! However, the plot was soon exposed, and the entire ogre race was wiped out, leaving only one surviving, according to legend.
+|fame=54
+|art=67
+|fth=108
+|civ=59
+|tech=74
+|ss1=Per 60 Dragon Minions in battle:<br>> Troop ATK +9<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +9<br>Per Dragon Form Tier, Snail ATK +18<br>Dragon Form Tiers: 9/9
+|ss2=Per 60 Dragon Minions in battle:<br>> Troop ATK +18<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +18<br>Per Dragon Form Tier, Snail ATK +24<br>Dragon Form Tiers: 9/9
+|ss3=Per 60 Dragon Minions in battle:<br>> Troop ATK +27<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +27<br>Per Dragon Form Tier, Snail ATK +30<br>Dragon Form Tiers: 9/9
+|ss4=Per 60 Dragon Minions in battle:<br>> Troop ATK +45<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +45<br>Per Dragon Form Tier, Snail ATK +42<br>Dragon Form Tiers: 9/9
+|ss5=Per 60 Dragon Minions in battle:<br>> Troop ATK +63<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +63<br>Per Dragon Form Tier, Snail ATK +54<br>Dragon Form Tiers: 9/9
+|ss6=Per 60 Dragon Minions in battle:<br>> Troop ATK +90<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +90<br>Per Dragon Form Tier, Snail ATK +72<br>Dragon Form Tiers: 9/9
+|ss7=Per 60 Dragon Minions in battle:<br>> Troop ATK +90<br>Per 60 Dragon Minions in battle:<br>> Troop RUSH +90<br>Per Dragon Form Tier, Snail ATK +72<br>Dragon Form Tiers: 9/9<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +90 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, DMG +30%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Card Drops +6%
+|mirage={{Mirage|name=Grulu's Lair|reward={{RewardIconWithLink|Crystal of Will, +1|orange}}
+|3name=Sorcerer|3rec=205.76M|3atk=499722|3defense=333385|3hp=49968311|3weak=52624
+|4name=Shaman|4rec=280.44M|4atk=621852|4defense=414862|4hp=76491449|4weak=54698
+|5name=Ogre|5rec=371.83M|5atk=745102|5defense=497087|5hp=109496418|5weak=56701
+|6name=Beast|6rec=463.23M|6atk=868352|6defense=579312|6hp=149348139|6weak=58739
+|Arec=554.63M|Aatk=991602|Adefense=661537|Ahp=196446632|Aweak=60771
+}}}}

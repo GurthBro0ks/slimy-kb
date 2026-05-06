@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Cu Chulainn's Chariot
+|class_id=22560
+|rank=AAA
+|affct=FAITH
+|birthday=11-22
+|source=Lottery Machine No.3 (0.06%)
+|description=On Nov 22, 73 AD, Cu Chulainn drove his chariot across the battlefield, becoming a nightmare for the soldiers of Connachta.<br>Cu Chulainn is a great hero of Ulster who went to the Otherworld to undergo trials, thereby acquiring formidable fighting skills. When Queen Maeve invaded Ulster, he led the charge, driving his chariot with his retinue across the battlefield, killing countless enemies, and single-handedly halting the advance of the invading army. After his death, his friends collected his chariot, and it has been passed down through the ages.
+|fame=38
+|art=54
+|fth=71
+|civ=33
+|tech=47
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop RUSH +12<br>Per Mantis Calculation LVL, Snail HP +30<br>Mantis Calculation: 50/50
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop RUSH +16<br>Per Mantis Calculation LVL, Snail HP +40<br>Mantis Calculation: 50/50
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop RUSH +20<br>Per Mantis Calculation LVL, Snail HP +50<br>Mantis Calculation: 50/50
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop RUSH +28<br>Per Mantis Calculation LVL, Snail HP +70<br>Mantis Calculation: 50/50
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop RUSH +36<br>Per Mantis Calculation LVL, Snail HP +90<br>Mantis Calculation: 50/50
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop RUSH +36<br>Per Mantis Calculation LVL, Snail HP +90<br>Mantis Calculation: 50/50<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +28 (Awakened)
+|skill1=[[File:Swampsanctum skill II.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Output +15%
+|skill2=[[File:Swampsanctum skill II.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Cap +15%
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=678
+|relics=Bayesian Network,Pythagoras Tree
+|rank=purple
+|amount=2
+|category=self
+|description=Snail DEF +60
+}}

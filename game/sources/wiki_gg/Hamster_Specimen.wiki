@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Hamster Specimen
+|class_id=20448
+|rank=Green
+|affct=FAME
+|source=
+|description=This lifelike specimen is the preserved carcass of a hamster gained from the species war. It's an incidental result of the snails' research on Hamster physiology. It's not just an accurate replica of a hamster exterior, but a graphic presentation of the internal organs of hamsters, which helps snails understand hamsters better and develop better strategies against hamsters!
+|fame=31
+|art=12
+|fth=18
+|civ=16
+|tech=12
+|ss1=Against Hamsters, Troop Casualty -1%
+|ss2=Against Hamsters, Troop Casualty -2%
+|ss3=Against Hamsters, Troop Casualty -3%
+|ss4=Against Hamsters, Troop Casualty -3%
+|ss7=Against Hamsters, Troop Casualty -3%<br> (Awakened)
+}}

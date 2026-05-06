@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Silver Stag Vessel
+|class_id=22038
+|rank=Blue
+|affct=ART
+|birthday=08-06
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Aug 6, 1400 BC, the Silver Stag Vessel was forged by Hittite Craftsmen.<br>This vessel, in the form of a stag, has thousands of years of history and gracefully displays the naturalistic features of Hittite Art. The main part of the drinking vessel is made of a dozen pieces of silver, and a circle of patterns on the edge of the cup mouth appears to depict characters in some ceremony. It is speculated that they may be celebrating a successful hunt.
+|fame=23
+|art=44
+|fth=31
+|civ=29
+|tech=27
+|ss1=Demon Minion RUSH +1%
+|ss2=Demon Minion RUSH +2%
+|ss3=Demon Minion RUSH +3%
+|ss4=Demon Minion RUSH +5%
+|ss7=Demon Minion RUSH +5%<br>Demon Minion RUSH +5% (Awakened)
+|skill1=[[File:Dungbeetle skill I.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion HP +1.5%
+}}

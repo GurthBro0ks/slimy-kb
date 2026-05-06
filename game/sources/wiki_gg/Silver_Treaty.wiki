@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Silver Treaty
+|class_id=22124
+|rank=AAA
+|affct=FAME
+|birthday=09-05
+|source=
+|description=On Sept 5, 1283 BC, the earliest documented peace treaty in history was signed.<br>The Silver Treaty was a peace treaty between the Hittite king Hattusili III and the Egyptian pharaoh Ramses II to end the war. The Hittite king sent a draft of a peace-making agreement inscribed on a silver plate to Egypt, then the pharaoh drew up his own revision. The treaty stipulates that the two sides will never be hostile toward each other again and maintain a peaceful relationship forever. The Hittites and Egyptians will help each other defend against any invaders. After the signing of the treaty, the Hittite king married his eldest daughter to Ramesses II. The political marriage further consolidated the alliance between the two nations.
+|fame=74
+|art=45
+|fth=30
+|civ=44
+|tech=50
+|ss1=Sunny Plant Food gives 1 Green Pistil by +0.6%<br>Per 10 Maneater Pistils Used, Snail DEF +3<br>Maneater Pistil(s) used: 400/400
+|ss2=Sunny Plant Food gives 1 Green Pistil by +0.8%<br>Per 10 Maneater Pistils Used, Snail DEF +4<br>Maneater Pistil(s) used: 400/400
+|ss3=Sunny Plant Food gives 1 Green Pistil by +1%<br>Per 10 Maneater Pistils Used, Snail DEF +5<br>Maneater Pistil(s) used: 400/400
+|ss4=Sunny Plant Food gives 1 Green Pistil by +1.4%<br>Per 10 Maneater Pistils Used, Snail DEF +7<br>Maneater Pistil(s) used: 400/400
+|ss5=Sunny Plant Food gives 1 Green Pistil by +1.8%<br>Per 10 Maneater Pistils Used, Snail DEF +9<br>Maneater Pistil(s) used: 400/400
+|ss7=Sunny Plant Food gives 1 Green Pistil by +1.8%<br>Per 10 Maneater Pistils Used, Snail DEF +9<br>Maneater Pistil(s) used: 400/400<br>Sunny Plant Food gives 1 Green Pistil by +1.4% (Awakened)
+|skill1=[[File:Kemet skill II.png|50px]]Place in Kemetic Museum: This Relic's FAME +10
+|skill2=[[File:Kemet skill II.png|50px]]Place in Kemetic Museum: In Kemet, 2x Orange Reagent Drops +7.5%
+}}

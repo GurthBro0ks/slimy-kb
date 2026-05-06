@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Moondance Film Award
+|class_id=20099
+|rank=Green
+|affct=CIV
+|source=
+|description=The Moondance Film Festival was founded in the 1980s and held by the Moondance Institute. As the world's leading independent film festival, it aims to encourage the production of low-cost movies. It is favored by Hollywood and has funded many famous directors!
+|fame=13
+|art=13
+|fth=15
+|civ=34
+|tech=15
+|ss1=Event Avatar rating cap raised to 4S+<br>Obtain Avatar (Event Ambassador)<br>W-tads from Daily Packs +10<br>W-tads from Daily Silver Packs +10<br>W-tads from Daily Gold Pack +10
+|ss2=Event Avatar rating cap raised to 4S+<br>Obtain Avatar (Event Ambassador)<br>W-tads from Daily Packs +20<br>W-tads from Daily Silver Packs +20<br>W-tads from Daily Gold Pack +20
+|ss3=Event Avatar rating cap raised to 4S+<br>Obtain Avatar (Event Ambassador)<br>W-tads from Daily Packs +30<br>W-tads from Daily Silver Packs +30<br>W-tads from Daily Gold Pack +30
+|ss4=Event Avatar rating cap raised to 4S+<br>Obtain Avatar (Event Ambassador)<br>W-tads from Daily Packs +30<br>W-tads from Daily Silver Packs +30<br>W-tads from Daily Gold Pack +30
+|ss7=Event Avatar rating cap raised to 4S+<br>Obtain Avatar (Event Ambassador)<br>W-tads from Daily Packs +30<br>W-tads from Daily Silver Packs +30<br>W-tads from Daily Gold Pack +30<br> (Awakened)
+}}

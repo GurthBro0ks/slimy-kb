@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Aries,Gemini
+|rank=orange
+|amount=2
+|category=DEF Boost
+|description=Per Supreme Relic gained, Snail DEF +100; Supreme Relics: 20/20
+}}
+[[Category:DEF Boost]]

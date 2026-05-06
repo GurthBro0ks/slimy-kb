@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=372
+|relics=Thermometer,Instant Noodle Recipe,Sulawesi Cloth,Rose Cross,Hina Doll,Torricelli's Barometer
+|rank=blue
+|amount=6
+|category=self
+|description=Snail ATK +90
+}}

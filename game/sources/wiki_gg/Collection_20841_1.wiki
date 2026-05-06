@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20841_1
+|class_id=20841
+|rank=Green
+|affct=TECH
+|source=
+|description=collection@20841_2
+|fame=13
+|art=15
+|fth=17
+|civ=13
+|tech=32
+|ss1=Snail DEF +10<br>Per 200 Avatar Score, Snail ATK +1<br>Avatar Score: 10000/10000
+|ss2=Snail DEF +20<br>Per 200 Avatar Score, Snail ATK +2<br>Avatar Score: 10000/10000
+|ss3=Snail DEF +30<br>Per 200 Avatar Score, Snail ATK +3<br>Avatar Score: 10000/10000
+|ss4=Snail DEF +30<br>Per 200 Avatar Score, Snail ATK +3<br>Avatar Score: 10000/10000
+|ss7=Snail DEF +30<br>Per 200 Avatar Score, Snail ATK +3<br>Avatar Score: 10000/10000<br> (Awakened)
+}}

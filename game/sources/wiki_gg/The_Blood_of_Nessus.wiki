@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=The Blood of Nessus
+|class_id=22443
+|rank=Blue
+|affct=FAITH
+|birthday=12-31
+|source=Lottery Machine No.3 (0.25%)
+|description=On Dec 31, 1821 BC, Nessus the centaur fell under Hercules' arrow.<br>Nessus the centaur worked as a ferryman, carrying people across the River Styx on his back. However, he developed a strong desire for Hercules' wife, Deianira, and attempted to abduct her. Hercules intervened and fatally shot Nessus with an arrow dipped in Hydra poison. Before dying, Nessus tricked Deianira into believing that his blood was a love potion that could make Hercules faithful to her. Deianira used Nessus' blood on Hercules, not realizing that it was actually a deadly poison that ended his life.
+|fame=22
+|art=37
+|fth=47
+|civ=18
+|tech=30
+|ss1=Gaia Rocket Cabin, deployable robots +1
+|ss2=Gaia Rocket Cabin, deployable robots +2
+|ss3=Gaia Rocket Cabin, deployable robots +3
+|ss4=Gaia Rocket Cabin, deployable robots +5
+|ss7=Gaia Rocket Cabin, deployable robots +5<br>Gaia Rocket Cabin, deployable robots +5 (Awakened)
+|skill1=[[File:Hellas skill I.png|50px]]Place in Hellenic Museum: In Hellas, 2x Blue Reagent Drops +2.5%
+}}

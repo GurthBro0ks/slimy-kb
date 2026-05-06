@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Trojan Horse,Golden Trophy
+|rank=orange
+|amount=2
+|category=self
+|description=Per Hitman Intercepted, Snail RUSH +14<br>Hitmen Intercepted: 40/40
+}}
+[[Category:Self]]

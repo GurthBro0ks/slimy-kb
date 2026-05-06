@@ -1,0 +1,35 @@
+== Demon Lord's Tailbone ==
+"The Demon Lord is a kind of economic being with many uses. Its meat is edible, its ribs are a soup ingredient, and its tailbone can be used to extract a potent medicine for strokes" --An Introduction to Abyssal Food Therapy
+
+{{Organ Tabber
+|Name=Demon Lord's Tailbone
+|Rarity=purple
+|ID Number=36
+|Initial HP=30
+|HP Increase=10
+|Initial ATK=3
+|ATK Increase=1
+|Initial DEF=7
+|DEF Increase=3
+|Initial RUSH=3
+|RUSH Increase=1
+|Effect 1=In Demon Form, Snail ATK +###
+|Initial Effect Value 1=2
+|Effect Value Increase 1=2
+|Effect 2=In Demon Form, Snail DEF +###
+|Initial Effect Value 2=2
+|Effect Value Increase 2=2
+|Effect 3=
+|Initial Effect Value 3=
+|Effect Value Increase 3=
+|Effect 4=
+|Initial Effect Value 4=
+|Effect Value Increase 4=
+|}}
+
+== Source ==
+Organ Chest (4% chance), [[Fissure]] Fl. 166 reward
+
+[[Category:Organs]]
+[[Category:Purple Organs]]
+__NOTOC__

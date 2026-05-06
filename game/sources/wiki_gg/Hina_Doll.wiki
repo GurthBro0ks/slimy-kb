@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Hina Doll
+|class_id=22077
+|rank=Blue
+|affct=CIV
+|birthday=11-27
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Nov 27, 1924 AD, the earliest Hina Doll was created in Japan.<br>The Hina Doll is a puppet made based on ancient Japanese court figures and is regarded as a magic tool. It is often displayed on a stepped wooden altar covered with red cloth along with various decorations. The doll is known for its exquisite features. People will spruce the doll up a day before the Girl's Day to ward off disasters for the girls in the family, and put it away again after the festival.
+|fame=33
+|art=26
+|fth=26
+|civ=45
+|tech=24
+|ss1=Free Gene Speedup (Mutant) +6m
+|ss2=Free Gene Speedup (Mutant) +12m
+|ss3=Free Gene Speedup (Mutant) +18m
+|ss4=Free Gene Speedup (Mutant) +30m
+|ss7=Free Gene Speedup (Mutant) +30m<br>Free Gene Speedup (Mutant) +30m (Awakened)
+|skill1=[[File:Goldfish skill I.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion DEF +1.5%
+}}

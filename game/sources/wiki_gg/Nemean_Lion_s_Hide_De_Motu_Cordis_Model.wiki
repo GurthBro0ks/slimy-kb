@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=404
+|relics=Nemean Lion's Hide,De Motu Cordis Model
+|rank=purple
+|amount=2
+|category=self
+|description=Zombie Minion RUSH +6%
+}}

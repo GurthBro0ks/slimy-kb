@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=467
+|relics=R'lyeh Text,The Silver Key
+|rank=orange
+|amount=2
+|category=self
+|description=In the Gaia Rocket Cabin: Gamma Ray Base Effect +56%
+}}

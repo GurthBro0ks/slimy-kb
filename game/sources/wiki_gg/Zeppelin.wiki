@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Zeppelin
+|class_id=22737
+|rank=SS
+|affct=TECH
+|birthday=08-19
+|source=Lottery Machine No.3 (0.47%)
+|description=On Aug 19, 1900 AD, Count Ferdinand von Zeppelin invented this rigid airship.<br>The Zeppelin airship is a rigid airship born in the early twentieth century. It has superior performance to airplanes at the time and can carry large cargo for flight. It occupies a place in both military and civilian fields. In World War I, they became the killer weapon in the hands of the German army.
+|fame=70
+|art=49
+|fth=66
+|civ=61
+|tech=101
+|ss1=Mecha Minion RUSH +2%<br>Per 10 Protolith Chests opened, Snail ATK +2<br>Per 10 Protolith Chests opened, Snail RUSH +2<br>Opened Protolith Chests: 500/500
+|ss2=Mecha Minion RUSH +3%<br>Per 10 Protolith Chests opened, Snail ATK +3<br>Per 10 Protolith Chests opened, Snail RUSH +3<br>Opened Protolith Chests: 500/500
+|ss3=Mecha Minion RUSH +4%<br>Per 10 Protolith Chests opened, Snail ATK +4<br>Per 10 Protolith Chests opened, Snail RUSH +4<br>Opened Protolith Chests: 500/500
+|ss4=Mecha Minion RUSH +6%<br>Per 10 Protolith Chests opened, Snail ATK +6<br>Per 10 Protolith Chests opened, Snail RUSH +6<br>Opened Protolith Chests: 500/500
+|ss5=Mecha Minion RUSH +8%<br>Per 10 Protolith Chests opened, Snail ATK +8<br>Per 10 Protolith Chests opened, Snail RUSH +8<br>Opened Protolith Chests: 500/500
+|ss6=Mecha Minion RUSH +11%<br>Per 10 Protolith Chests opened, Snail ATK +11<br>Per 10 Protolith Chests opened, Snail RUSH +11<br>Opened Protolith Chests: 500/500
+|ss7=Mecha Minion RUSH +11%<br>Per 10 Protolith Chests opened, Snail ATK +11<br>Per 10 Protolith Chests opened, Snail RUSH +11<br>Opened Protolith Chests: 500/500<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Max Cap +30%
+|skill2=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: B-tad Output +30%
+|skill3=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: This Relic's TECH +15
+|mirage={{Mirage|name=The Airship Family|reward={{RewardIconWithLink|Travel Speedup, +28800|orange}}
+|3name=LZ 120 Bodensee|3rec=109.51M|3atk=314524|3defense=197962|3hp=16600357|3weak=35469
+|4name=Graf Zeppelin|4rec=131.87M|4atk=366559|4defense=229433|4hp=20831945|4weak=37694
+|5name=LZ 129 Hindenburg|5rec=166.71M|5atk=448717|5defense=278443|5hp=29426807|5weak=40310
+|Arec=207.96M|Aatk=548391|Adefense=336480|Ahp=42303974|Aweak=44699
+}}}}

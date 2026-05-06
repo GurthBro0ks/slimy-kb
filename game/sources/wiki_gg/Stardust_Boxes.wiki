@@ -1,0 +1,22 @@
+__FORCETOC__
+
+= Stardust Box I =
+{{RewardIconWithText|Stardust Box I|blue}} get 30 random Stardust (up to {{Retext|blue|blue}}) and have a drop rate of:
+* 70% {{RewardIconWithText|Green Stardust|green}}
+* 30% {{RewardIconWithText|Blue Stardust|blue}}
+
+
+= Stardust Box II =
+{{RewardIconWithText|Stardust Box II|purple}} get 30 random Stardust (up to {{Retext|purple|purple}}) and have a drop rate of:
+* 53.33% {{RewardIconWithText|Green Stardust|green}}
+* 30% {{RewardIconWithText|Blue Stardust|blue}}
+* 16.67% {{RewardIconWithText|Purple Stardust|purple}}
+
+= Stardust Box III =
+{{RewardIconWithText|Stardust Box III|orange}} get 30 random Stardust (up to {{Retext|orange|orange}}) and have a drop rate of:
+* 48.33% {{RewardIconWithText|Green Stardust|green}}
+* 30% {{RewardIconWithText|Blue Stardust|blue}}
+* 15% {{RewardIconWithText|Purple Stardust|purple}}
+* 6.67% {{RewardIconWithText|Orange Stardust|orange}}
+
+[[Category:Reward Pack]]

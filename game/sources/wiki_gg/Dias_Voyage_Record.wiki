@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Dias' Voyage Record
+|class_id=21040
+|rank=SSS
+|affct=FAME
+|source=
+|description=Sponsored by King João II, Dias set sail from Lisbon with three ships, following Africa's west coast. A storm led him to accidentally round the southern tip of Africa, which he named the "Cape of Storms" (later renamed "Cape of Good Hope" by the king). After reaching Mossel Bay, he turned back due to crew exhaustion. Dias' journey proved Africa could be circumnavigated, paving the way for da Gama's route to India and boosting Eurasian-African cultural exchange.
+|fame=107
+|art=48
+|fth=71
+|civ=64
+|tech=72
+|ss1=In explorations, INTEL gained +1.8%<br>Winning exploration battles, 1.2% chance to obtain double Specimen<br>In explorations, Demon God Cells collected +1.8%
+|ss2=In explorations, INTEL gained +2.4%<br>Winning exploration battles, 1.6% chance to obtain double Specimen<br>In explorations, Demon God Cells collected +2.4%
+|ss3=In explorations, INTEL gained +3%<br>Winning exploration battles, 2% chance to obtain double Specimen<br>In explorations, Demon God Cells collected +3%
+|ss4=In explorations, INTEL gained +4.2%<br>Winning exploration battles, 2.8% chance to obtain double Specimen<br>In explorations, Demon God Cells collected +4.2%
+|ss5=In explorations, INTEL gained +5.4%<br>Winning exploration battles, 3.6% chance to obtain double Specimen<br>In explorations, Demon God Cells collected +5.4%
+|ss6=In explorations, INTEL gained +7.2%<br>Winning exploration battles, 4.8% chance to obtain double Specimen<br>In explorations, Demon God Cells collected +7.2%
+|ss7=In explorations, INTEL gained +7.2%<br>Winning exploration battles, 4.8% chance to obtain double Specimen<br>In explorations, Demon God Cells collected +7.2%<br>In explorations, Demon God Cells collected +7.2% (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: This Relic's FAME +15
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, B-tads gained +15%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x Purple Reagent Drops +15%
+|mirage={{Mirage|name=Crossing Storm Cape|reward={{RewardIconWithLink|Travel Speedup, +28800|orange}}
+|3name=Sailor|3rec=0.50M|3atk=12676|3defense=8466|3hp=60569|3weak=3685
+|4name=Second Officer|4rec=1.15M|4atk=23224|4defense=15510|4hp=199551|4weak=6249
+|5name=1st Mate|5rec=2.43M|5atk=36979|5defense=24697|5hp=418893|5weak=9606
+|6name=Dias|6rec=4.56M|6atk=53009|6defense=35402|6hp=779696|6weak=12050
+|Arec=8.20M|Aatk=73164|Adefense=48863|Ahp=1357863|Aweak=14673
+}}}}

@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Maya Codices,Phoenician Tablet
+|rank=purple
+|amount=2
+|category=self
+|description=Per 3 Purple Relics gained, Snail HP +240<br>Purple Relics: 60/60
+}}
+[[Category:Self]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Purple Relics]]

@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Theremin,Akebono,Grignard Reagent,Aeschylus Statue
+|rank=blue
+|amount=4
+|category=self
+|description=Per 4 TECH Relics gained, Snail ATK +14; TECH Relics: 120/120
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by TECH Relics]]

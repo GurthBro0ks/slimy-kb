@@ -1,0 +1,60 @@
+{{Template:WIP}}
+
+See [[Endless Dream]] for specific information on Heroes, Artifacts, and Weapons. Each weapon type has unique effects:
+
+=Guide=
+The goal is to protect the magic lamp.
+
+Every time you rub the lamp, you'll draw dream weapons. Weapons can be dragged up into the grid space to activate them. Combining duplicate weapons upgrades their effects.
+
+Completing a wave rewards Magical Lamp Oil. Magical Lamp Oil can be used to refresh lamp wishes.
+
+Energy bars are located under each hero and indicate when their special skill can be activated.
+
+===Choosing Your Heroes===
+===Picking the Right Weapons===
+Strategize your weapon combinations.
+===Gems and Buffs===
+===How to Clear Levels===
+(Auto-win if Power > 3x Enemy Power)
+
+
+=Dream Levels (Queen's Dreams)=
+
+===Forty Thieves (9/9)===
+<tabber>
+|-|1=
+[[File:Forty Thieves Grid.png|300px|left]]
+{| class="wikitable"
+|-
+! # of Waves !! Hero(s) Requirement !! Combat Power Requirement !! Rewards
+|-
+| 3 || At Least: Deploy 1 Hero(s) || 2000 || {{RewardIcon|Dream Shard}} Dream Shard, {{RewardIcon|Divine Neutral Chest}} Divine Neutral Chest +100
+|}
+
+|-|2=
+|-|3=
+|-|4=
+|-|5=
+|-|6=
+|-|7=
+|-|8=
+|-|9=
+
+</tabber>
+
+===Aladdin and the Magic Lamp (9/9)===
+
+===Voyage of the Phantom Sea (13/13)===
+
+===The Fisherman and the Jinni (6/6)===
+
+===Story of Snake Queen (4/4)===
+
+===Brass City and the Flask (7/7)===
+
+===The Story of the Three Blind Men (5/5)===
+
+===Legends of the Sages (10/10)===
+
+===Tyrant Shahryar (3/3)===

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Tucker Award
+|class_id=22670
+|rank=SSS
+|affct=ART
+|birthday=12-28
+|source=
+|description=On Dec 28, 1977 AD, after a series of tense preparations, the first Tucker Award was successfully held.<br>The Tucker Award, initiated by the Building Stone Institute, is presented every two years and is an internationally renowned stone design award. The purpose of this award is to recognize those who have used natural stone in their projects and achieved outstanding results, which is in line with the mission of the Building Stone Institute.
+|fame=49
+|art=108
+|fth=71
+|civ=72
+|tech=62
+|ss1=Snail HP +300<br>Demon Minion HP +3%<br>Per 50 Minions cloned, Snail ATK +6<br>Minions Cloned: 2000/2000
+|ss2=Snail HP +400<br>Demon Minion HP +4%<br>Per 50 Minions cloned, Snail ATK +8<br>Minions Cloned: 2000/2000
+|ss3=Snail HP +500<br>Demon Minion HP +5%<br>Per 50 Minions cloned, Snail ATK +10<br>Minions Cloned: 2000/2000
+|ss4=Snail HP +700<br>Demon Minion HP +7%<br>Per 50 Minions cloned, Snail ATK +14<br>Minions Cloned: 2000/2000
+|ss5=Snail HP +900<br>Demon Minion HP +9%<br>Per 50 Minions cloned, Snail ATK +18<br>Minions Cloned: 2000/2000
+|ss6=Snail HP +1200<br>Demon Minion HP +12%<br>Per 50 Minions cloned, Snail ATK +24<br>Minions Cloned: 2000/2000
+|ss7=Snail HP +1200<br>Demon Minion HP +12%<br>Per 50 Minions cloned, Snail ATK +24<br>Minions Cloned: 2000/2000<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Reagent Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Reagent Drops +6%
+|mirage={{Mirage|name=Rock and Art|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Stone Pillar|3rec=134.04M|3atk=371524|3defense=232486|3hp=21548763|3weak=37790
+|4name=Stone Sculpture|4rec=199.65M|4atk=528036|4defense=324792|4hp=39331884|4weak=43644
+|5name=Stone House|5rec=318.11M|5atk=751808|5defense=448756|5hp=81909329|5weak=52270
+|6name=Stone Watchtower|6rec=451.06M|6atk=975402|6defense=568361|6hp=140304489|6weak=57949
+|Arec=648.93M|Aatk=1325310|Adefense=746375|Ahp=314819719|Aweak=66792
+}}}}

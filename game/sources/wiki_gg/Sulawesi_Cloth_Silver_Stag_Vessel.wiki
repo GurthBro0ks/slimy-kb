@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=314
+|relics=Sulawesi Cloth,Silver Stag Vessel
+|rank=blue
+|amount=2
+|category=self
+|description=Per 30 Divine Neutral Chests opened: Snail DEF +5;Divine Neutral Chests Opened: 1500/1500
+}}

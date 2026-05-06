@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Ishikawa Breach
+|rank=blue
+|cabin=2
+|id=19
+|gene1={race} RUSH +20
+|gene2={race} FTH +20
+|gene3=Free Gene Speedup (Demon) +6m
+|gene4=Per 10 Demon Minions in battle:
+> Troop RUSH +2
+|gene5=Free Gene Speedup (Demon) +12m
+|}}

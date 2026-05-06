@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Statue of Gudea
+|class_id=22037
+|rank=Blue
+|affct=ART
+|birthday=07-24
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jul 24, 1887 AD, Statues were first discovered during excavations conducted by the French vice-consul called Ernest de Sarzec at Tello.<br>The Statue of Gudea is a stone statue made of volcanic rock, and its history can be traced back to the second millennium BC. Its solemn facial expression, with its hands folded in front of its chest, emanates a sense of piousness and calm as if it is praying to God. On the long robe of the stone statue engraves vertical rows of wedge-shaped inscriptions that mean: Long live Gudea, the temple builder.
+|fame=21
+|art=48
+|fth=29
+|civ=32
+|tech=24
+|ss1=Per 10 Home Facility LVLs, Snail DEF +1<br>Home Facility LVL: 400/400
+|ss2=Per 10 Home Facility LVLs, Snail DEF +2<br>Home Facility LVL: 400/400
+|ss3=Per 10 Home Facility LVLs, Snail DEF +3<br>Home Facility LVL: 400/400
+|ss4=Per 10 Home Facility LVLs, Snail DEF +5<br>Home Facility LVL: 400/400
+|ss7=Per 10 Home Facility LVLs, Snail DEF +5<br>Home Facility LVL: 400/400<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Biozilla skill I.png|50px]]Place in a Biozilla: In Species War, AFFCT Checks -50
+}}

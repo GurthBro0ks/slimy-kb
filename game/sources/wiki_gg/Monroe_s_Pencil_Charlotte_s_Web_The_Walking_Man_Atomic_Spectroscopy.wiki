@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=365
+|relics=Monroe's Pencil,Charlotte's Web,The Walking Man,Atomic Spectroscopy
+|rank=blue
+|amount=4
+|category=self
+|description=Military Merits gives +140 Star Coins
+}}

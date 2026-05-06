@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=544
+|relics=Energy Missile,MoCA,Quark Model
+|rank=orange
+|amount=3
+|category=self
+|description=Quantum Amp Max Cap +7%
+}}

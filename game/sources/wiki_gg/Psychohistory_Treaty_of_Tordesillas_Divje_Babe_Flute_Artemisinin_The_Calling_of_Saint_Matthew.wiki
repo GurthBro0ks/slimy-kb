@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Psychohistory,Treaty of Tordesillas,Divje Babe Flute,Artemisinin,The Calling of Saint Matthew
+|rank=orange
+|amount=5
+|category=self
+|description=Per 3 TECH Relics Awakened, Snail Murky Power +10; TECH Relics Awakened: 180/180
+}}
+[[Category:Self]]
+[[Category:Murky Power Boost]]
+[[Category:Enhanced by TECH Relics Awakened]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Holy Sheath
+|class_id=20201
+|rank=Green
+|affct=FAITH
+|source= Upon unlocking the Altar, a sword embedded in a stone can be found at its base. To remove the sword, you need 10,000 of each AFFCT stat. Removing it will reward the player with the Holy Sheath relic, 50k B-tads, 500 W-tads, 5k Wood, and 5 more offering slots. 
+|description=The snail pulled out the Excalibur from the altar and picked up the sheath on the ground. It was hard to imagine why the sheath was in there with the sword. Did they forget to remove the sheath? Anyway, it now belongs to the snail!
+|fame=19
+|art=16
+|fth=28
+|civ=16
+|tech=11
+|ss1=Per Gear equipped, Snail ATK +2
+|ss2=Per Gear equipped, Snail ATK +4
+|ss3=Per Gear equipped, Snail ATK +6
+|ss4=Per Gear equipped, Snail ATK +6
+|ss7=Per Gear equipped, Snail ATK +6<br> (Awakened)
+}}

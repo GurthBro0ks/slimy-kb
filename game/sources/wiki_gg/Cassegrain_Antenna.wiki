@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Cassegrain Antenna
+|class_id=22487
+|rank=Blue
+|affct=TECH
+|birthday=08-27
+|source=Lottery Machine No.3 (0.25%)
+|description=On Aug 27, 1977 AD, Voyager 1 was launched into space carrying a Cassegrain Antenna.<br>It is a commonly used antenna in microwave communication, consisting of three parts: a reflector, a sub-reflector, and a radiation source. The reflector is a rotating parabolic surface, and the sub-reflector is a rotating hyperbolic surface. One focus of the hyperbola coincides with one focus of the parabola, and the radiation source is located at the other focus of the hyperbola. After the sub-reflector reflects the electromagnetic wave emitted by the radiation source once, it reflects the electromagnetic wave onto the main reflector, which then reflects the corresponding direction of the plane wave beam to achieve directional emission.
+|fame=31
+|art=21
+|fth=30
+|civ=25
+|tech=47
+|ss1=Per 10,000 Fervor, Priest-Snail Assistance DMG+8<br>Fervor: 500000/500000
+|ss2=Per 10,000 Fervor, Priest-Snail Assistance DMG+16<br>Fervor: 500000/500000
+|ss3=Per 10,000 Fervor, Priest-Snail Assistance DMG+24<br>Fervor: 500000/500000
+|ss4=Per 10,000 Fervor, Priest-Snail Assistance DMG+40<br>Fervor: 500000/500000
+|ss7=Per 10,000 Fervor, Priest-Snail Assistance DMG+40<br>Fervor: 500000/500000<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]]Place in Gene Sim Device: CRIT DMG +5%
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Piero's Canned Goods
+|class_id=20727
+|rank=Green
+|affct=FAITH
+|source=
+|description=Piero, who used to dream of becoming a chef when he was young, was harshly commented by his father that his dishes were a mess. Now he has made the Gurgle Puff Fruit into canned goods in order to prove himself to his father...
+|fame=12
+|art=18
+|fth=30
+|civ=16
+|tech=14
+|ss1=Per 1,000 Mysterious Gloops claimed, Earth DMG +4<br>Mysterious Gloop Claimed: 10000/10000
+|ss2=Per 1,000 Mysterious Gloops claimed, Earth DMG +8<br>Mysterious Gloop Claimed: 10000/10000
+|ss3=Per 1,000 Mysterious Gloops claimed, Earth DMG +12<br>Mysterious Gloop Claimed: 10000/10000
+|ss4=Per 1,000 Mysterious Gloops claimed, Earth DMG +12<br>Mysterious Gloop Claimed: 10000/10000
+|ss7=Per 1,000 Mysterious Gloops claimed, Earth DMG +12<br>Mysterious Gloop Claimed: 10000/10000<br> (Awakened)
+}}

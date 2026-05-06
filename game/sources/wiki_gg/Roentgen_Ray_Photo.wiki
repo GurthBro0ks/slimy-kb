@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Roentgen Ray Photo
+|class_id=22087
+|rank=Blue
+|affct=TECH
+|birthday=11-13
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Nov 13, 1895 AD, the physicist Roentgen accidentally discovered X-rays during his experiment.<br>Thanks to X-ray, Roentgen obtained the world's first-hand bone angiography. This category of ray was accidentally discovered by him in an experiment. To verify its nature, he spent hours conducting experiments, even calling his wife and using her hands to conduct a development experiment. It is said that after seeing this photo, his wife had the feeling of encountering death.
+|fame=26
+|art=22
+|fth=37
+|civ=25
+|tech=44
+|ss1=Per Mutant Form Tier, Snail RUSH +5<br>Mutant Form Tiers: 9/9
+|ss2=Per Mutant Form Tier, Snail RUSH +10<br>Mutant Form Tiers: 9/9
+|ss3=Per Mutant Form Tier, Snail RUSH +15<br>Mutant Form Tiers: 9/9
+|ss4=Per Mutant Form Tier, Snail RUSH +25<br>Mutant Form Tiers: 9/9
+|ss7=Per Mutant Form Tier, Snail RUSH +25<br>Mutant Form Tiers: 9/9<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]]Place in Gene Sim Device: Snail HP +200
+}}

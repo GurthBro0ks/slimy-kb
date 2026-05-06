@@ -1,0 +1,48 @@
+{{WIP}}
+{{Spoiler|note=This page contains information about several fights that require significant progress in game.}}
+__FORCETOC__
+
+==Excalibra==
+[[File:Sword in Stone.png|150px|left]]
+Upon unlocking the [[Altar]], a sword embedded in a stone can be found at its base. Removing the sword is a prerequisite for accessing most of the Altar fights, including Excalibra. To remove the sword, you need 10,000 of each AFFCT stat. Removing it will reward the player with the {{RewardIconWithText|Holy Sheath|green}} relic, 50k B-tads {{RewardIcon|B-tad}}, 500 W-tads {{RewardIcon|W-tad}}, 5k Wood {{RewardIcon|Wood}}, and 5 more offering slots. Excalibra will then be released from the stone, tauntingly blocking your way to the Altar's seal. You will not be able to release the darkness that is beneath the Altar without defeating him first.
+
+{{clear}}
+
+{| class="wikitable"
+!Image !!Name !!ATK !!DEF !!HP !!Weakness !!Rewards !!Requirements
+|-
+| style="text-align: center;" |[[File:Excalibra.png|100px]]||Excalibra||80,000||70,000||1,200,000||AFFCT 118,020||{{RewardIconWithText|Gear Chest, +100|black}}||Pull the sword from the stone
+|-
+|}
+
+==How to Unseal the Altar==
+The Altar Demon Lords are powerful beings that were sealed beneath the Altar by Earth's Will, unreachable until the sword in the stone is removed and Excalibra is defeated. You must also shoot the [[Unknown Creature]] in front of your shrine with {{RewardIconWithLink|Incense|orange}} 10 times in order to obtain the {{RewardIconWithLink|Father's Photo|green}} relic, as well as shoot down the Whale Warrior when he appears in the sky at your home. Once these requirements are met, the Unknown Creature will be found sleeping at your Altar. Interacting with it will wake it up and cause it to soil the bandages acting as a seal, releasing the first Demon Lord.
+===Demon Lords===
+{| class="wikitable"
+!Number !!Image !!Name !!Unseal Requirements !!ATK !!DEF !!HP !!Weakness !!Special Stats !!Rewards
+|-
+| style="text-align: center;" | 1 || [[File:Demonic Dragon.png|100px]] || Demonic Dragon || {{list||Summon the [[Divine Dragon]] 50 times|Submit 20 {{RewardIconWithLink|Dragon Orb|orange}}}} || 136,764 || 98,210 || 2,365,943 || AFFCT 119,350 || {{list||HIT +80|Paralysis RES +80%}} || {{list||{{RewardIconWithGearlink|Orange|Form|Broken Dragon Horn}}|{{RewardIconWithLink|Demon Chest, +150}}|{{RewardIconWithText|B-Tad, +50k}}}}|-
+
+| style="text-align: center;" | 2 || [[File:Demonized Mboard.png|100px]] || Demonized Mboard || {{list||300 {{RewardIconWithLink|Game Controller}}}} || 159,184 || 114,310 || 2,933,624 || AFFCT 131,110 || {{list||HIT +80|Paralysis RES +80%}} || {{list||{{RewardIconWithLink|Demonized Mboard (Robot)|orange|Robots}}|{{RewardIconWithLink|Demon Chest, +150}}|{{RewardIconWithText|B-Tad, +50k}}}}|-
+
+| style="text-align: center;" | 3 || [[File:Heart of Gaia.png|100px]] || Heart of Gaia || {{list||Beat Cancer of [[Events#The Manhunt Act|Earth's Will Lvl. 2]]|Submit 3k {{RewardIconWithLink|Organ Slime}}}} || 171,298 || 132,181 || 2,966,206 || AFFCT 143,730 || {{list||CRIT +100%|Crit DMG -40%|HIT +80|Paralysis RES +80%|Each round, HP +100,000}} || {{list||{{RewardIconWithLink|Heart of Resolve|purple}}|{{RewardIconWithLink|Demon Chest, +150}}|{{RewardIconWithText|B-Tad, +50k}}}}|-
+
+| style="text-align: center;" | 4 || [[File:Peter's Old Colleague.png|80px]] || Peter's Old Colleague || {{list||100 {{RewardIconWithText|B-Tad}}}} || 204,916 || 151,984 || 3,737,001 || AFFCT 157,520 || {{list||Dodge +40%|HIT +80|Paralysis RES +80%}} || {{list||{{RewardIconWithLink|Gold Game Promoter|green}}|{{RewardIconWithLink|Demon Chest, +150}}|{{RewardIconWithText|B-Tad, +50k}}}}|-
+
+| style="text-align: center;" | 5 || [[File:Demonic Dad of Excalibra.png|100px]] || Demonic Dad of Excalibra || {{list||30 Million Power|Submit 30 {{RewardIconWithGearlink|orange|Material|Heaven Wings}}}} || 220,000 || 170,000 || 6,000,000 || AFFCT 170,000 || {{list||CRIT +100%|Crit DMG -40%|HIT +80|Paralysis RES +80%}} || {{list||{{RewardIconWithGearlink|Orange|Form|Broken Caladbolg}}|{{RewardIconWithLink|Demon Chest, +150}}|{{RewardIconWithText|B-Tad, +50k}}}}|-
+
+| style="text-align: center;" | 6 || [[File:Baal.png|100px]] || Baal || {{list||[[Fissure#Fissure_Digging_Log|Fissure]] Floor 5000|Submit 30 {{RewardIconWithGearlink|orange|Material|Abyss Wings}}}} || 239,696 || 196,420 || 6,885,074 || AFFCT 190,000 || {{list||CRIT +100%|Crit DMG -30%|HIT +80|Paralysis RES +80%|Lifesteal Rate +100%|Lifesteal Effect +1000%}} || {{list||{{RewardIconWithGearlink|Orange|Form|Fire of Rage}}|{{RewardIconWithLink|Demon Chest, +150}}|{{RewardIconWithText|B-Tad, +50k}}}}|-
+
+| style="text-align: center;" | 7 || [[File:Agares.png|100px]] || Agares || {{list||Submit 40 {{RewardIconWithLink|Dragon Orb|orange}}}} || 262,172 || 219,880 || 9,619,375 || AFFCT 207,505 || {{list||CRIT +100%|Crit DMG -30%|HIT +80|Paralysis RES +80%|Lifesteal Rate +100%|Lifesteal Effect +1500%}} || {{list||{{RewardIconWithLink|Demon Chest, +150}}|{{RewardIconWithLink|Magic Potion, +1k}}|{{RewardIconWithText|B-Tad, +50k}}|{{RewardIconWithLink|Dragon Orb, +20|orange}}}}|-
+
+| style="text-align: center;" | 8 || [[File:Paimon.png|100px]] || Paimon || {{list||Submit 600 {{RewardIconWithLink|Game Controller}}}} || 292,749 || 245,525 || 12,203,161 || AFFCT 225,015 || {{list||CRIT +100%|Crit DMG -30%|HIT +80|Paralysis RES +80%|Lifesteal Rate +100%|Lifesteal Effect +2000%}} || {{list||{{RewardIconWithGearlink|orange|Material|Blasphemy Eye}}|{{RewardIconWithLink|Dragon Chest, +150}}|{{RewardIconWithText|B-Tad, +50k}}|{{RewardIconWithLink|Ancient Coin, +12k}}}}|-
+
+| style="text-align: center;" | 9 || [[File:Asmodeus.png|100px]] || Asmodeus || {{list||Submit 6k {{RewardIconWithLink|Organ Slime}}}} || 318,107 || 272,435 || 17,097,579 || AFFCT 242,570 || {{list||CRIT +100%|Crit DMG -30%|HIT +80|Paralysis RES +80%|Lifesteal Rate +100%|Lifesteal Effect +2500%}} || {{list||{{RewardIconWithGearlink|orange|Material|Demon God Crystal}} +1|{{RewardIconWithLink|Demon Chest, +150}}|{{RewardIconWithText|B-Tad, +50k}}|{{RewardIconWithLink|Organ Slime, +3k}}}}|-
+
+| style="text-align: center;" | 10 || [[File:Astaroth.png|100px]] || Astaroth || {{list||Submit 60 {{RewardIconWithGearlink|orange|Material|Heaven Wings}}}} || 350,981|| 301,185 || 24,050,117 || AFFCT 250,080 || {{list||CRIT +100%|Crit DMG -30%|HIT +80|Paralysis RES +80%|Lifesteal Rate +100%|Lifesteal Effect +3000%}} || {{list||{{RewardIconWithLink|Ouroboros Statue|green}}|{{RewardIconWithLink|Demon Chest, +150}}|{{RewardIconWithText|B-Tad, +50k}}|{{RewardIconWithLink|Glue, +3k}}}}|-
+
+| style="text-align: center;" | 11 || [[File:Ultimate Weapon.png|100px]] || Ultimate Weapon || {{list||Shoot down 150 sky objects|Submit 60 {{RewardIconWithGearlink|orange|Material|Abyss Wings}}}} || 377,516 || 332,580 || 33,209,043 || AFFCT 262,600 || {{list||CRIT +100%|Crit DMG -20%|HIT +80|Paralysis RES +80%|Each Round, HP +300,000}} || {{list||{{RewardIconWithLink|Final Arm|orange|Minions#Minion Skins}}|{{RewardIconWithLink|Demon Chest, +150}}|{{RewardIconWithText|B-Tad, +50k}}|{{RewardIconWithLink|Glue, +3k}}}}|-
+
+| style="text-align: center;" | 12 || [[File:Ultra Giant.png|100px]] || Ultra Giant || {{list||Submit 60 {{RewardIconWithLink|Dragon Orb|orange}}}} || 416,152 || 365,930 || 39,837,753 || AFFCT 275,145 || {{list||CRIT +100%|Crit DMG -20%|HIT +80|Paralysis RES +80%|Each Round, HP +600,000}} || {{list||{{RewardIconWithLink|Transformation Device|purple}} | {{RewardIconWithLink|Demon Chest, +150}} | {{RewardIconWithText|B-Tad, +50k}} | {{RewardIconWithLink|Dragon Orb, +30|orange}}}}|-
+
+| style="text-align: center;" | 13 || [[File:Nuclear Beast.png|100px]] || Nuclear Beast || {{list||Submit 900 {{RewardIconWithLink|Game Controller}}}} || 458,489 || 402,500 || 50,779,644 || AFFCT 287,750 || {{list||CRIT +100%|Crit DMG -20%|HIT +80|Paralysis RES +80%|Each Round, HP +800,000}} || {{list||{{RewardIconWithLink|Atomic Beast|orange|Robots#Robots}} | {{RewardIconWithLink|Demon Chest, +150}} | {{RewardIconWithText|B-Tad, +50k}} | {{RewardIconWithLink|Ancient Coin, +12k}}}}|}

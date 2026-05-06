@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=566
+|relics=Stray Birds,Plants & Birds,Luan Feather,World Hawk
+|rank=orange
+|amount=4
+|category=self
+|description=Egg hatching rate +3.6%
+}}

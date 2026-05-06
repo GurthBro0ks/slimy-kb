@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Golden Eyelashes
+|type=Common
+|rank=orange
+|id=10868
+|idx=75
+|description=The resentment of countless snails unable to pass the Mirage finally brewed into a Mirage tear, then flowed into the brains of the dev team!
+|skill=
+|hp=2300
+|def=210
+|atk=254
+|rush=151
+|gene1=In Civilization Mirages, HIT +9%
+|gene2=In Civilization Mirages, Dodge +9%
+|gene3=In Civilization Mirage, HP Regen +1800 per round
+|gene4=In Civilization Mirages, DMG +9%
+|gene5=In Civilization Mirage, Lifesteal +30%
+|gene7=In Civilization Mirages, DMG +9% (Awakened)
+|}}

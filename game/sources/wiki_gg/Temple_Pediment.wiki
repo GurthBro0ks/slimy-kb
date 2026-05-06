@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Temple Pediment
+|class_id=22833
+|rank=SS
+|affct=FAITH
+|source=
+|description= The temple pediment is usually located on the gable part of a temple or important building, in a triangular shape, supported by columns or pilasters. It originated from the Lion Gate form of the Mycenaean era. The temple pediment at the Roman Baths Museum in Bath, UK, is one of the museum's famous collections. It is supported by four fifteen-meter-high Corinthian columns, with the central carving featuring the head of the snake-haired monster Gorgon, symbolizing the temple's majesty. Additionally, the ends of the pediment are carved with mermaid and dolphin heads, showcasing the marine elements of Roman mythology. The temple pediment is not only a component of architecture but also an important resource for studying ancient religion and art, with its exquisite carvings and decorations reflecting the aesthetics and beliefs of the society at the time.
+|fame=60
+|art=66
+|fth=104
+|civ=50
+|tech=67
+|ss1=All Sanctum Glorium Output +0.8%<br>Tribal Amber output +4%<br>Per Godhood Tier, Protomon Snail assist DMG +80<br>Godhood LVL: 10/10
+|ss2=All Sanctum Glorium Output +1.2%<br>Tribal Amber output +6%<br>Per Godhood Tier, Protomon Snail assist DMG +120<br>Godhood LVL: 10/10
+|ss3=All Sanctum Glorium Output +1.6%<br>Tribal Amber output +8%<br>Per Godhood Tier, Protomon Snail assist DMG +160<br>Godhood LVL: 10/10
+|ss4=All Sanctum Glorium Output +2.4%<br>Tribal Amber output +12%<br>Per Godhood Tier, Protomon Snail assist DMG +240<br>Godhood LVL: 10/10
+|ss5=All Sanctum Glorium Output +3.2%<br>Tribal Amber output +16%<br>Per Godhood Tier, Protomon Snail assist DMG +320<br>Godhood LVL: 10/10
+|ss6=All Sanctum Glorium Output +4.4%<br>Tribal Amber output +22%<br>Per Godhood Tier, Protomon Snail assist DMG +440<br>Godhood LVL: 10/10
+|ss7=All Sanctum Glorium Output +4.4%<br>Tribal Amber output +22%<br>Per Godhood Tier, Protomon Snail assist DMG +440<br>Godhood LVL: 10/10<br>All Sanctum Glorium Output +4% (Awakened)
+|skill1=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: This Relic's FTH +15
+|skill2=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Cap +30%
+|skill3=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +30%
+|mirage={{Mirage|name=Temple Guard|reward={{RewardIconWithLink|Fluorite, +5|orange}}
+|3name=Temple Maid|3rec=7.36M|3atk=70395|3defense=46095|3hp=1278397|3weak=13999
+|4name=Temple Guard|4rec=12.68M|4atk=94312|4defense=61756|4hp=2130942|4weak=17504
+|5name=Chief Priest|5rec=25.92M|5atk=122725|5defense=80361|5hp=3373495|5weak=20165
+|Arec=41.32M|Aatk=155814|Adefense=102028|Ahp=5183328|Aweak=25432
+}}}}

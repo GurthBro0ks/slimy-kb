@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Seal of Jade Emperor
+|class_id=20270
+|rank=Green
+|affct=FAITH
+|source=
+|description=Since the establishment of the Heavenly Court, Great White Golden Star is said to have drafted all heavenly regulations. The Jade Emperor then seals the regulations with his approval to provide immortals with regulations. The seal of the Jade Emperor is therefore regarded as a symbol of the great power of the Three Realms. But after the Heavenly Hall was bombed in the middle of the night, the Jade Emperor Seal has since disappeared.
+|fame=16
+|art=12
+|fth=32
+|civ=14
+|tech=16
+|ss1=Per 30 Incense used, Snail HP +20<br>Per 30 Incense used, Snail ATK +2<br>Incense Used: 900/900
+|ss2=Per 30 Incense used, Snail HP +40<br>Per 30 Incense used, Snail ATK +4<br>Incense Used: 900/900
+|ss3=Per 30 Incense used, Snail HP +60<br>Per 30 Incense used, Snail ATK +6<br>Incense Used: 900/900
+|ss4=Per 30 Incense used, Snail HP +60<br>Per 30 Incense used, Snail ATK +6<br>Incense Used: 900/900
+|ss7=Per 30 Incense used, Snail HP +60<br>Per 30 Incense used, Snail ATK +6<br>Incense Used: 900/900<br> (Awakened)
+}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Open Rotor Engine
+|class_id=22488
+|rank=Blue
+|affct=TECH
+|birthday=05-28
+|source=Lottery Machine No.3 (0.06%)
+|description=On May 28, 2009 AD, NASA first tested an Open Rotor Engine.<br>Open Rotor Engine, also known as the propfan engine, is a type of turbine engine without a fan duct. Although it looks very similar to a turboprop engine, it has a very high propeller speed because it has no gearbox. It has a speed and performance similar to that of a turbofan engine, but in terms of economy, it is closer to a turboprop engine...
+|fame=32
+|art=20
+|fth=32
+|civ=24
+|tech=46
+|ss1=Per 3 Hidden Treasures claimed, Snail ATK +1<br>Hidden Treasures Claimed: 150/150
+|ss2=Per 3 Hidden Treasures claimed, Snail ATK +2<br>Hidden Treasures Claimed: 150/150
+|ss3=Per 3 Hidden Treasures claimed, Snail ATK +3<br>Hidden Treasures Claimed: 150/150
+|ss4=Per 3 Hidden Treasures claimed, Snail ATK +5<br>Hidden Treasures Claimed: 150/150
+|ss7=Per 3 Hidden Treasures claimed, Snail ATK +5<br>Hidden Treasures Claimed: 150/150<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Murika skill I.png|50px]]Place in Murikan Museum: In Murika, Snail HP +200
+}}

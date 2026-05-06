@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Holy Thorn Reliquary
+|class_id=22547
+|rank=A
+|affct=FAITH
+|birthday=08-08
+|source=Lottery Machine No.3 (0.55%)
+|description=On Aug 8, 1397 AD, the Duke of Berry placed the sacred thorn into the box.<br>The Holy Thorn Reliquary is made of enamel, jewels, and gold, and depicts scenes of the Last Judgment. It was originally crafted by the Duke of Berry in France to hold a thorn from the crown of Christ that he had acquired as a holy relic. Over the years, it changed hands multiple times, belonging to the Byzantine emperor, the French king, and the Habsburg royal family, before being purchased by the Rothschild family and eventually donated to the British Museum.
+|fame=35
+|art=42
+|fth=65
+|civ=33
+|tech=38
+|ss1=Protomon Snail assist DMG + 80<br>Per 100 Recruit Tokens consumed, Snail DEF +1<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Protomon Snail assist DMG + 160<br>Per 100 Recruit Tokens consumed, Snail DEF +2<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Protomon Snail assist DMG + 240<br>Per 100 Recruit Tokens consumed, Snail DEF +3<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Protomon Snail assist DMG + 400<br>Per 100 Recruit Tokens consumed, Snail DEF +5<br>Consumed Recruit Tokens: 5000/5000
+|ss5=Protomon Snail assist DMG + 560<br>Per 100 Recruit Tokens consumed, Snail DEF +7<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Protomon Snail assist DMG + 560<br>Per 100 Recruit Tokens consumed, Snail DEF +7<br>Consumed Recruit Tokens: 5000/5000<br>Protomon Snail assist DMG + 560 (Awakened)
+|skill1=[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, Snail ATK +60
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FTH +10
+}}

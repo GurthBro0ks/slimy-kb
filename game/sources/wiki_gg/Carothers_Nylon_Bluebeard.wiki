@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=631
+|relics=Carothers Nylon,Bluebeard
+|rank=blue
+|amount=2
+|category=self
+|description=Per 5 Epic Protodex Stars, Snail ATK +15;Epic Protodex Stars: 100/100
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Limited Edition Vinyl Record
+|class_id=20627
+|rank=Green
+|affct=ART
+|source=
+|description=During the band's practice sessions, the manager secretly recorded those still youthful but vibrant voices and gifted them to the band members as a keepsake, a memory of these unforgettable times!
+|fame=14
+|art=31
+|fth=19
+|civ=17
+|tech=14
+|ss1=Free Gene Speedup (Demon) +6m<br>Per 50k Relic Points, Snail RUSH +3<br>Relic Points: 1500000/1500000
+|ss2=Free Gene Speedup (Demon) +12m<br>Per 50k Relic Points, Snail RUSH +4<br>Relic Points: 1500000/1500000
+|ss3=Free Gene Speedup (Demon) +18m<br>Per 50k Relic Points, Snail RUSH +5<br>Relic Points: 1500000/1500000
+|ss4=Free Gene Speedup (Demon) +18m<br>Per 50k Relic Points, Snail RUSH +5<br>Relic Points: 1500000/1500000
+|ss7=Free Gene Speedup (Demon) +18m<br>Per 50k Relic Points, Snail RUSH +5<br>Relic Points: 1500000/1500000<br> (Awakened)
+}}

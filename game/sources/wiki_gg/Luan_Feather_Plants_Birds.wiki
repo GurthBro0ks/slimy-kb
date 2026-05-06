@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Luan Feather,Plants & Birds
+|rank=orange
+|amount=2
+|category=self
+|description=Hatch 40 Eggs: Snail ATK +7, 1600/1600 Eggs hatched
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Eggs]]

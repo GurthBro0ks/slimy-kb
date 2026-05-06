@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=149
+|relics=Shakespeare Scripts,Haulers on Volga,BetaGo,Ali's Belt,Sorron's Eye
+|rank=purple
+|amount=5
+|category=self
+|description=In explorations, 2x Purple Card Drops +3.6%
+}}

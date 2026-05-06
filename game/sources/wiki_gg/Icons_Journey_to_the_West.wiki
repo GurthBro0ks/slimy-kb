@@ -1,0 +1,203 @@
+=Journey to the West=
+Icons for [[Journey to the West]]
+
+==Currency==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Herb Pill}}
+{{IconExampleRowWithText|Ingot}}
+{{IconExampleRowWithText|Mending Stone}}
+{{IconExampleRowWithText|Taoist Pill}}
+|}
+
+==Gear==
+===General Gear===
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Amber Necklace}}
+{{IconExampleRowWithText|Auspicious Cloud Gown}}
+{{IconExampleRowWithText|Beads Necklace}}
+{{IconExampleRowWithText|Buddhist Ring}}
+{{IconExampleRowWithText|Cloth Hat}}
+{{IconExampleRowWithText|Cloud Hat}}
+{{IconExampleRowWithText|Cloud Necklace}}
+{{IconExampleRowWithText|Cloud-walking Shoes}}
+{{IconExampleRowWithText|Cosmos Hat}}
+{{IconExampleRowWithText|Dharma Robe}}
+{{IconExampleRowWithText|Divine Aura Ring}}
+{{IconExampleRowWithText|Emerald Ring}}
+{{IconExampleRowWithText|Gauze Robe}}
+{{IconExampleRowWithText|Gold Flower Hat}}
+{{IconExampleRowWithText|Gold Thread Robe}}
+{{IconExampleRowWithText|Gold Thread Shoes}}
+{{IconExampleRowWithText|Golden Organdie Robe}}
+{{IconExampleRowWithText|Jade Dragon Hat}}
+{{IconExampleRowWithText|Purple Silk Boots}}
+{{IconExampleRowWithText|Ruyi Ring}}
+{{IconExampleRowWithText|Straw Sandals}}
+{{IconExampleRowWithText|Sunchaser Boots}}
+{{IconExampleRowWithText|The Muni Necklace}}
+{{IconExampleRowWithText|Thumb Ring}}
+{{IconExampleRowWithText|Yin-yang Necklace}}
+|}
+
+===Exclusive Gear===
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Alms Bowl}}
+{{IconExampleRowWithText|Blessed Cassock}}
+{{IconExampleRowWithText|Brocade Cassock}}
+{{IconExampleRowWithText|Calming Rod}}
+{{IconExampleRowWithText|Cleansing Staff}}
+{{IconExampleRowWithText|Cloud Headband}}
+{{IconExampleRowWithText|Colorful Cassock}}
+{{IconExampleRowWithText|Crescent Spade}}
+{{IconExampleRowWithText|Ebony Rosary}}
+{{IconExampleRowWithText|Evil Rosary}}
+{{IconExampleRowWithText|Glass Container}}
+{{IconExampleRowWithText|Golden Rod}}
+{{IconExampleRowWithText|Headache Curse}}
+{{IconExampleRowWithText|Linden Cane}}
+{{IconExampleRowWithText|Mercy Spade}}
+{{IconExampleRowWithText|Nine-ringed Staff}}
+{{IconExampleRowWithText|Nine-Tooth Rake}}
+{{IconExampleRowWithText|Purple Gold Container}}
+{{IconExampleRowWithText|Skull Rosary}}
+{{IconExampleRowWithText|Special Iron Rake}}
+{{IconExampleRowWithText|Spike Rake}}
+{{IconExampleRowWithText|Subduing Headband}}
+{{IconExampleRowWithText|Subduing Shovel}}
+{{IconExampleRowWithText|Traveler's Stick}}
+|}
+
+==Items==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|5-Element Veil}}
+{{IconExampleRowWithText|Acala Statue}}
+{{IconExampleRowWithText|Acala Sutra}}
+{{IconExampleRowWithText|Alcor Bead}}
+{{IconExampleRowWithText|Arhat Sculpture}}
+{{IconExampleRowWithText|Asura Sutra Frag}}
+{{IconExampleRowWithText|Aura Fire}}
+{{IconExampleRowWithText|Bagua Classic}}
+{{IconExampleRowWithText|Beast Album}}
+{{IconExampleRowWithText|Body Building Solution}}
+{{IconExampleRowWithText|Creator Steel}}
+{{IconExampleRowWithText|Crystal Copper}}
+{{IconExampleRowWithText|Crystal Fire}}
+{{IconExampleRowWithText|Deep-sea Silver}}
+{{IconExampleRowWithText|Dragon King's Remains}}
+{{IconExampleRowWithText|Essence Cultivation Pill}}
+{{IconExampleRowWithText|Essence Fire}}
+{{IconExampleRowWithText|Ginseng Fruit}}
+{{IconExampleRowWithText|Glow Stone}}
+{{IconExampleRowWithText|Golden Pill}}
+{{IconExampleRowWithText|Good Deed}}
+{{IconExampleRowWithText|Horsekeeper Seal}}
+{{IconExampleRowWithText|Immortal Oil}}
+{{IconExampleRowWithText|Immortal Peach}}
+{{IconExampleRowWithText|Innermost Heart Rubbing}}
+{{IconExampleRowWithText|Jade Spirit}}
+{{IconExampleRowWithText|Liquid Sky Fire}}
+{{IconExampleRowWithText|Monkey King Seal}}
+{{IconExampleRowWithText|Moon Nectar}}
+{{IconExampleRowWithText|Mt Vulture Adamant}}
+{{IconExampleRowWithText|Nether Fire}}
+{{IconExampleRowWithText|Night Pearl}}
+{{IconExampleRowWithText|Painting of Heaven}}
+{{IconExampleRowWithText|Peach Feast Invitation}}
+{{IconExampleRowWithText|Solar Fire}}
+{{IconExampleRowWithText|Spirit Fire}}
+{{IconExampleRowWithText|Star Silver}}
+{{IconExampleRowWithText|Three-Realm Fire}}
+{{IconExampleRowWithText|Tome - Bhaisajyaguru Mantra}}
+{{IconExampleRowWithText|Tome - Sealing Punch}}
+{{IconExampleRowWithText|Tome - Seven Buddhas Mantra}}
+{{IconExampleRowWithText|Tome - Yamantaka}}
+{{IconExampleRowWithText|Tome of Buddhism}}
+{{IconExampleRowWithText|Yamantaka Sutra}}
+|}
+
+== Mantras ==
+=== Monke ===
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Mountain Mover}}
+{{IconExampleRowWithText|Sea Breaker}}
+{{IconExampleRowWithText|Piercing Eyes}}
+{{IconExampleRowWithText|Mayhem Maker}}
+|}
+
+=== Pigsy ===
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Heavenly Tactics}}
+{{IconExampleRowWithText|Juicy Peach}}
+{{IconExampleRowWithText|Eclipse Spell}}
+{{IconExampleRowWithText|Dragon Heal}}
+|}
+
+=== Sandy ===
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Crescent Spade (Mantra)}}
+{{IconExampleRowWithText|Arhat Seal}}
+{{IconExampleRowWithText|Acala Seal}}
+{{IconExampleRowWithText|Sealing Punch}}
+|}
+
+=== Sanzang ===
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Prajna Mantra}}
+{{IconExampleRowWithText|Rebirth Mantra}}
+{{IconExampleRowWithText|Innermost Heart}}
+{{IconExampleRowWithText|Dragon From Above}}
+|}
+
+== Portraits ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Monke Portrait}}
+{{IconExampleRowWithText|Peter Portrait}}
+{{IconExampleRowWithText|Pigsy Portrait}}
+{{IconExampleRowWithText|Pond Frog Portrait}}
+{{IconExampleRowWithText|Sandy Portrait}}
+{{IconExampleRowWithText|Sanzang Portrait}}
+{{IconExampleRowWithText|Unknown Creature Portrait}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Peter}}
+{{IconExampleRowWithText|Unknown Creature}}
+|}
+
+== Sutras ==
+=== Monke ===
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Stone Monkey}}
+{{IconExampleRowWithText|Iron Bone}}
+{{IconExampleRowWithText|Free Spirit}}
+{{IconExampleRowWithText|3-head Form}}
+{{IconExampleRowWithText|72 Transformations}}
+|}
+
+=== Pigsy ===
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Alms}}
+{{IconExampleRowWithText|Peach Feast}}
+{{IconExampleRowWithText|Ginseng Fruit Feast}}
+{{IconExampleRowWithText|Moon Palace Feast}}
+{{IconExampleRowWithText|Pill Feast}}
+|}
+
+=== Sandy ===
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Crystal Bowl}}
+{{IconExampleRowWithText|Scroll of Yamantaka}}
+{{IconExampleRowWithText|Scroll of Acala}}
+{{IconExampleRowWithText|Inferno}}
+{{IconExampleRowWithText|Golden Body}}
+|}
+
+=== Sanzang ===
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Heart Sutra}}
+{{IconExampleRowWithText|Immortality Spell}}
+{{IconExampleRowWithText|Bhaisajyaguru Mantra}}
+{{IconExampleRowWithText|Seven Buddhas Mantra}}
+{{IconExampleRowWithText|Brahman}}
+|}
+
+[[Category:Bharata]]
+[[Category:Icons]]

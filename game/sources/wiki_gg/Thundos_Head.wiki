@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Thundos' Head
+|class_id=20254
+|rank=Green
+|affct=FAITH
+|source=
+|description=This broken skull once belonged to Thundos, one of the eight Demon Gods. The notorious entity used to rule a Domain on his own. Even with thorough preparation, he nevertheless followed in Racky's footsteps and lost to a snail in a climactic showdown, with his own head taken a trophy.
+|fame=17
+|art=13
+|fth=30
+|civ=16
+|tech=14
+|ss1=Snail ATK +20<br>Per Demon God slain, Snail HP +100<br>Demon Gods Slain: 8/8
+|ss2=Snail ATK +40<br>Per Demon God slain, Snail HP +200<br>Demon Gods Slain: 8/8
+|ss3=Snail ATK +60<br>Per Demon God slain, Snail HP +300<br>Demon Gods Slain: 8/8
+|ss4=Snail ATK +60<br>Per Demon God slain, Snail HP +300<br>Demon Gods Slain: 8/8
+|ss7=Snail ATK +60<br>Per Demon God slain, Snail HP +300<br>Demon Gods Slain: 8/8<br> (Awakened)
+}}

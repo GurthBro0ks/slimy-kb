@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=769
+|relics=Tucker Award,Sky Award
+|rank=orange
+|amount=2
+|category=self
+|description=Per Dorm Decor gained, Snail ATK +7;Dorm Decor Gained: 40/40
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Time Rift Postcard II
+|class_id=20111
+|rank=Green
+|affct=ART
+|source=
+|description=While scouting for info about Time Rift, the snail also recorded a lot of local customs, which were brought together in this postcard. You can read it to kill time and post it online to get many likes!
+|fame=16
+|art=35
+|fth=11
+|civ=22
+|tech=8
+|ss1=Rift Museum medal output +5
+|ss2=Rift Museum medal output +10
+|ss3=Rift Museum medal output +15
+|ss4=Rift Museum medal output +15
+|ss7=Rift Museum medal output +15<br> (Awakened)
+}}

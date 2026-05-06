@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=The Myth of Etana
+|class_id=22671
+|rank=S
+|affct=FAITH
+|birthday=02-23
+|source=Lottery Machine No.3 (1.62%)
+|description=On Feb 23, 3209 BC, the priests recorded the legendary story of King Etana.<br>The Myth of Etana is a mythological work that has been passed down from ancient Sumerian times to the present day. It tells the story of Etana, the first king of the city-state of Kish, who seeks the "Tree of Life" and, following the command of the sun god, helps an injured eagle and is able to ascend to heaven. Symbolically, the myth represents Etana's unification of the Sumerian region and holds significant historical significance for the study of Sumerian history in later eras.
+|fame=58
+|art=67
+|fth=100
+|civ=48
+|tech=59
+|ss1=Angel Minion ATK +1%<br>Per 100 Recruit Tokens consumed, Snail ATK +1<br>Per 100 Recruit Tokens consumed, Snail DEF +1<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Angel Minion ATK +2%<br>Per 100 Recruit Tokens consumed, Snail ATK +2<br>Per 100 Recruit Tokens consumed, Snail DEF +2<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Angel Minion ATK +3%<br>Per 100 Recruit Tokens consumed, Snail ATK +3<br>Per 100 Recruit Tokens consumed, Snail DEF +3<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Angel Minion ATK +5%<br>Per 100 Recruit Tokens consumed, Snail ATK +5<br>Per 100 Recruit Tokens consumed, Snail DEF +5<br>Consumed Recruit Tokens: 5000/5000
+|ss5=Angel Minion ATK +7%<br>Per 100 Recruit Tokens consumed, Snail ATK +7<br>Per 100 Recruit Tokens consumed, Snail DEF +7<br>Consumed Recruit Tokens: 5000/5000
+|ss6=Angel Minion ATK +10%<br>Per 100 Recruit Tokens consumed, Snail ATK +10<br>Per 100 Recruit Tokens consumed, Snail DEF +10<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Angel Minion ATK +10%<br>Per 100 Recruit Tokens consumed, Snail ATK +10<br>Per 100 Recruit Tokens consumed, Snail DEF +10<br>Consumed Recruit Tokens: 5000/5000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop CRIT +9%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Water DMG +300
+|skill3=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: This Relic's FTH +15
+|mirage={{Mirage|name=Sumerian History|reward={{RewardIconWithLink|Protolith Chest, +200|orange}}
+|3name=Etana|3rec=116.74M|3atk=330553|3defense=208137|3hp=17670077|3weak=36094
+|4name=Enlil|4rec=161.02M|4atk=436116|4defense=270434|4hp=28249895|4weak=39782
+|Arec=227.88M|Aatk=599876|Adefense=364506|Ahp=53206475|Aweak=47924
+}}}}

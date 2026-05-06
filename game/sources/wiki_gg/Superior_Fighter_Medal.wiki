@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Superior Fighter Medal
+|class_id=20937
+|rank=Green
+|affct=FAME
+|source=
+|description=A customized medal, specially made by the Traveler Association for new members who passed the Superior Fighter Evaluation to recognize their mighty power.
+|fame=33
+|art=19
+|fth=13
+|civ=12
+|tech=13
+|ss1=Per Sign-In, Snail ATK +3<br>Sign-Ins: 20/20
+|ss2=Per Sign-In, Snail ATK +4<br>Sign-Ins: 20/20
+|ss3=Per Sign-In, Snail ATK +5<br>Sign-Ins: 20/20
+|ss4=Per Sign-In, Snail ATK +5<br>Sign-Ins: 20/20
+|ss7=Per Sign-In, Snail ATK +5<br>Sign-Ins: 20/20<br> (Awakened)
+}}

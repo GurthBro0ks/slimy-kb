@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dragon Medal
+|class_id=20030
+|rank=Green
+|affct=FAITH
+|source=
+|description=This is a medal inherited from a noble family that has existed for thousands of years. Even though the descendants have left their homeland, their pride never wavers. They built a mighty empire by forming an alliance with dragons. Only those who wear this medal will be recognized by the dragons!
+|fame=18
+|art=18
+|fth=29
+|civ=10
+|tech=15
+|ss1=Activates the Red Dragon Egg<br>Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +2
+|ss2=Activates the Red Dragon Egg<br>Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +4
+|ss3=Activates the Red Dragon Egg<br>Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +6
+|ss4=Activates the Red Dragon Egg<br>Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +6
+|ss7=Activates the Red Dragon Egg<br>Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +6<br> (Awakened)
+}}

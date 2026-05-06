@@ -1,0 +1,19 @@
+{{Missing Info}}
+
+==T-Day Feast==
+[[File:T-Day Celebration Poster.png|200px|left|alt=T-Day Celebration]]
+Nov. 17 - Nov. 23 2023
+{{Clear}}
+
+= Relic Rewards =
+'''Choice Of'''
+* {{RewardIconWithLink|Archimedes' Lever|orange}}
+* {{RewardIconWithLink|Golden Wheat|orange}}
+* {{RewardIconWithLink|Lotus Chalice|orange}}
+* {{RewardIconWithLink|Medal of Honor|orange}}
+* {{RewardIconWithLink|Phoenix Feather|orange}}
+
+= Shell Rewards =
+* {{RewardIconWithLink|Handmade Steamed Buns|purple}} (Shell)
+
+[[Category:Events]]

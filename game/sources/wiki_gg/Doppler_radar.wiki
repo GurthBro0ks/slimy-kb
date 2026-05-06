@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Doppler radar
+|class_id=22411
+|rank=Blue
+|affct=FAME
+|birthday=03-05
+|source=Lottery Machine No.3 (0.03%)
+|description=On Mar 5, 1842 AD, Doppler first proposed the idea of radar.<br>Based on the Doppler effect he discovered, Doppler proposed the idea of radar: by emitting pulsed waves of a fixed frequency to scan an area, when encountering a moving target, the relative speed of the target can be measured by the frequency difference between the echo and the transmitted wave, and the distance of the target can be measured by the time difference. About a century later, Doppler radar was successfully developed and played an extremely important role in many areas such as airborne early warning, navigation, and weather detection.
+|fame=44
+|art=30
+|fth=18
+|civ=29
+|tech=33
+|ss1=Per 5 Mythic Protodex Stars, Snail ATK +3<br>Mythic Protodex Stars: 100/100
+|ss2=Per 5 Mythic Protodex Stars, Snail ATK +6<br>Mythic Protodex Stars: 100/100
+|ss3=Per 5 Mythic Protodex Stars, Snail ATK +9<br>Mythic Protodex Stars: 100/100
+|ss4=Per 5 Mythic Protodex Stars, Snail ATK +15<br>Mythic Protodex Stars: 100/100
+|ss7=Per 5 Mythic Protodex Stars, Snail ATK +15<br>Mythic Protodex Stars: 100/100<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Quantumamp  skill I.png|50px]]Place in a Quantum Amp: Quantum Amp production +2.5%
+}}

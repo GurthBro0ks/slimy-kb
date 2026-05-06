@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Twelve Tables
+|rank=Blue
+|affct=FAME
+|birthday=07-03
+|source=Lottery Machine (0.03%), Wishing (1.2%)
+|description=On Jul 3, 449 BC, the earliest legal documents of ancient Rome were finally revised.
+
+After a long war, the plebeians of Rome forced the nobles to form the Decemviri and establish statutory laws. These laws were then engraved on the Twelve Tables. It was written based on the old customary laws that protect the interests of patricians, but also added laws to restrict their power to interpret the law as they please.
+
+[Famous Quotes of the Twelve Tables]
+
+Sunset shall be the time limit of the proceedings. Settlement can be reached even in acts of theft. The prosecution of traitors will always be in effect. A dreadfully deformed child shall be quickly killed. If there is no heir, the inheritance shall fall to the nearest male agnate.
+|fame=45
+|art=29
+|fth=28
+|civ=23
+|tech=29
+|ss1=When exploring, 2x Blue Reagent Drops +0.4%
+|ss2=When exploring, 2x Blue Reagent Drops +0.8%
+|ss3=When exploring, 2x Blue Reagent Drops +1.2%
+|ss4=When exploring, 2x Blue Reagent Drops +2%
+|ss7=When exploring, 2x Blue Reagent Drops +2%<br>When exploring, 2x Blue Reagent Drops +2% (Awakened)
+|skill1=[[File:Arena skill I.png|50px]] Place in Snail Arena: This Relic's FAME +5
+}}
+
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:FAME Boost]]
+[[Category:Offering Reward Boost]]
+[[Category:Demon Gene Speedup Boost]]

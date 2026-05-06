@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=The Selfish Gene
+|class_id=22896
+|rank=SS
+|affct=TECH
+|source=
+|description=The Selfish Gene is a popular science book by British evolutionary biologist Richard Dawkins, which first proposed that the selfish nature of genes is the core driving force of evolution. The book points out that organisms are merely survival machines for genes, which achieve their replication and dissemination by controlling biological behavior. It also explores how the selfishness of genes influences biological behavior, competition, and reproductive strategies, extending even to explanations of human social behavior. Dawkins also introduces the concept of memes, expanding the theory of evolution from the genetic level to the cultural level, suggesting that the transmission of information follows similar mechanisms of replication, variation, and selection as genes.
+|fame=66
+|art=50
+|fth=71
+|civ=58
+|tech=102
+|ss1=For All Bionic Parts,<br>Four Element RES +2%<br>Per Bionic Part owned, Snail DEF +4<br>Per Bionic Part owned, Snail RUSH +4<br>Bionic Parts owned: 20/20
+|ss2=For All Bionic Parts,<br>Four Element RES +3%<br>Per Bionic Part owned, Snail DEF +6<br>Per Bionic Part owned, Snail RUSH +6<br>Bionic Parts owned: 20/20
+|ss3=For All Bionic Parts,<br>Four Element RES +4%<br>Per Bionic Part owned, Snail DEF +8<br>Per Bionic Part owned, Snail RUSH +8<br>Bionic Parts owned: 20/20
+|ss4=For All Bionic Parts,<br>Four Element RES +6%<br>Per Bionic Part owned, Snail DEF +12<br>Per Bionic Part owned, Snail RUSH +12<br>Bionic Parts owned: 20/20
+|ss5=For All Bionic Parts,<br>Four Element RES +8%<br>Per Bionic Part owned, Snail DEF +16<br>Per Bionic Part owned, Snail RUSH +16<br>Bionic Parts owned: 20/20
+|ss6=For All Bionic Parts,<br>Four Element RES +11%<br>Per Bionic Part owned, Snail DEF +22<br>Per Bionic Part owned, Snail RUSH +22<br>Bionic Parts owned: 20/20
+|ss7=For All Bionic Parts,<br>Four Element RES +11%<br>Per Bionic Part owned, Snail DEF +22<br>Per Bionic Part owned, Snail RUSH +22<br>Bionic Parts owned: 20/20<br>For All Bionic Parts,<br>Four Element RES +10% (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Ignore Wind RES +60
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail ATK +60 each round
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Water DMG +600
+|mirage={{Mirage|name=Meme Transmission|reward={{RewardIconWithLink|Super Memetic Chest, +100|orange}}
+|3name=Faith Meme|3rec=3.96M|3atk=49545|3defense=32683|3hp=686285|3weak=11452
+|4name=Text Meme|4rec=8.96M|4atk=77724|4defense=51272|4hp=1489512|4weak=15317
+|5name=Behavior Meme|5rec=22.51M|5atk=114549|5defense=75564|5hp=2938471|5weak=19408
+|Arec=43.98M|Aatk=160341|Adefense=105771|Ahp=5430867|Aweak=26284
+}}}}

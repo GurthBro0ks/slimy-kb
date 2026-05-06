@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Black Hole Radiation
+|class_id=22899
+|rank=SSS
+|affct=TECH
+|source=
+|description=Black Hole Radiation, also known as Hawking Radiation, is a theoretical phenomenon proposed by British physicist Stephen Hawking. According to quantum effects, black holes are not just one-way absorbers but can radiate particles outward through quantum tunneling effects. This process occurs near the event horizon of a black hole, where virtual particle pairs are produced in the strong gravitational field, with one particle being absorbed by the black hole and the other escaping into external space, forming Hawking Radiation.
+|fame=68
+|art=48
+|fth=73
+|civ=64
+|tech=109
+|ss1=Wormhole Refinement SPD +1.2%<br>When refining, there exists a +3% chance for Blue Building Materials to turn into Purple<br>Per 10 Wormhole Refines, Snail ATK +3<br>Wormhole Refines: 500/500
+|ss2=Wormhole Refinement SPD +1.6%<br>When refining, there exists a +4% chance for Blue Building Materials to turn into Purple<br>Per 10 Wormhole Refines, Snail ATK +4<br>Wormhole Refines: 500/500
+|ss3=Wormhole Refinement SPD +2%<br>When refining, there exists a +5% chance for Blue Building Materials to turn into Purple<br>Per 10 Wormhole Refines, Snail ATK +5<br>Wormhole Refines: 500/500
+|ss4=Wormhole Refinement SPD +2.8%<br>When refining, there exists a +7% chance for Blue Building Materials to turn into Purple<br>Per 10 Wormhole Refines, Snail ATK +7<br>Wormhole Refines: 500/500
+|ss5=Wormhole Refinement SPD +3.6%<br>When refining, there exists a +9% chance for Blue Building Materials to turn into Purple<br>Per 10 Wormhole Refines, Snail ATK +9<br>Wormhole Refines: 500/500
+|ss6=Wormhole Refinement SPD +4.8%<br>When refining, there exists a +12% chance for Blue Building Materials to turn into Purple<br>Per 10 Wormhole Refines, Snail ATK +12<br>Wormhole Refines: 500/500
+|ss7=Wormhole Refinement SPD +4.8%<br>When refining, there exists a +12% chance for Blue Building Materials to turn into Purple<br>Per 10 Wormhole Refines, Snail ATK +12<br>Wormhole Refines: 500/500<br>Wormhole Refinement SPD +4% (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's TECH +15
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x Orange Card Drops +15%
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x INTEL Drops +15%
+|mirage={{Mirage|name=Mysteries of the Celestial Bodies|reward={{RewardIconWithLink|Refine Speedup, +28800|orange}}
+|3name=Comet|3rec=3.83M|3atk=48660|3defense=32099|3hp=672531|3weak=11323
+|4name=Terrestrial Planet|4rec=7.11M|4atk=68585|4defense=45243|4hp=1194368|4weak=13819
+|5name=Red Giant|5rec=12.59M|5atk=93248|5defense=61512|5hp=2084068|5weak=17464
+|6name=Nebula|6rec=26.37M|6atk=122774|6defense=80990|6hp=3344857|6weak=20314
+|Arec=42.56M|Aatk=157324|Adefense=103781|Ahp=5198296|Aweak=25832
+}}}}

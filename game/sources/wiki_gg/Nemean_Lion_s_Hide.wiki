@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Nemean Lion's Hide
+|class_id=22157
+|rank=AAA
+|affct=FAITH
+|birthday=03-08
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Mar 8, 1862 BC, Hercules defeated the Nemean lion and made its skin into a cloak.<br>The lionskin cloak comes from the legendary monster of the Nemean Lion, which is the offspring of the hundred-headed giant Typhon and the monster Ekadna. Not only is the Lion aggressive, its skin was invulnerable to swords and guns. Countless warriors tried to hunt it, only to die at its claws. Only Hercules was able to defeat it, strangling it with his bare hands after a fierce battle. He took its fur as a trophy and made it into a cloak.
+|fame=41
+|art=51
+|fth=73
+|civ=35
+|tech=43
+|ss1=Per 30 Dragon Minions in battle:<br>> Troop ATK +12<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +12
+|ss2=Per 30 Dragon Minions in battle:<br>> Troop ATK +16<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +16
+|ss3=Per 30 Dragon Minions in battle:<br>> Troop ATK +20<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +20
+|ss4=Per 30 Dragon Minions in battle:<br>> Troop ATK +28<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +28
+|ss5=Per 30 Dragon Minions in battle:<br>> Troop ATK +36<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +36
+|ss7=Per 30 Dragon Minions in battle:<br>> Troop ATK +36<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +36<br>Per 30 Dragon Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Surfclam skill II.png|50px]]Place in a Surf Clam Biozilla: In Species War, Troop DMG toward heroes +3%
+|skill2=[[File:Surfclam skill II.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion ATK +4.5%
+}}

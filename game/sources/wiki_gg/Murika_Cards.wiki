@@ -1,0 +1,163 @@
+==Card Redemption==
+Throughout [[Murika]], cards can be collected and exchanged for various rewards. Cards vary from tier 1 (white) to tier 5 (orange) and there's different types of each tier. Below is a list of the rewards that can be exchanged, and how many times.
+
+==Tier 1 (White)==
+'''Recommended:''' Enhancement Injection, Gears
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#9c9c9c;" | [[File:Bullet white.png|75x75px]]
+| rowspan="7" | Bullet
+|3x3||Enhancement Injection<br>Snail ATK +10<br>Snail DEF +10
+| rowspan="7" | 11 B-tads
+|-
+|2x1||Murika INTEL +1,500
+|-
+|3x1||2k B-tads
+|-
+|4x1||Novice Scroll +5
+|-
+|5x1||[[Gear|Smoothbore]]
+|-
+|6x1||[[Gear|Tactical Boots]]
+|-
+|7x1||Lottery Ticket +1
+|-
+| style="background-color:#9c9c9c;" | [[File:Window System.png|75x75px]]
+|Window System||3x1||400 W-tads||200 B-tads
+|-
+| style="background-color:#9c9c9c;" | [[File:Huullywood.png|75x75px]]
+|Huullywood||4x1||4k B-tads||200 B-tads
+|-
+| style="background-color:#9c9c9c;" | [[File:The Five-sided.png|75x75px]]
+|The Five-sided||4x1||Travel Speedup +1h||Murika INTEL +340
+|}
+
+==Tier 2 (Green)==
+'''Recommended:'''  Enhancement Injection, Gear
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#7de87f;" | [[File:Bullet green.png|framless|75x75px]]
+| rowspan="7" | Bullet
+|3x3||Enhancement Injection<br>Snail HP +100<br>Snail RUSH +10
+| rowspan="7" | 33 B-tads
+|-
+|2x1||Murika INTEL +3,000
+|-
+|3x1||4,000 B-tads
+|-
+|4x1||Novice Scroll +5
+|-
+|5x1||[[Gear|<span style="color:#40da25;">Tactical Vest</span>]]
+|-
+|6x1||Gear Chest +40
+|-
+|7x1||Lottery Ticket +2
+|-
+| style="background-color:#7de87f;" | [[File:Empire Building.png|75x75px]]
+|Empire Building||3x1||6k B-tads||Offering Speedup +4m
+|-
+| style="background-color:#7de87f;" | [[File:Copper Gate Bridge.png|75x75px]]
+|Copper Gate Bridge||3x1||[[Gone with the Wind|<span style="color:#22d3d0;">Gone with the Wind</span>]] +10
+|Refine Speedup +4m
+|-
+| style="background-color:#7de87f;" | [[File:Area 51.png|75x75px]]
+|Area 51||4x1||Mutant Cell +2,000
+|Evolution Chest +1
+|}
+
+==Tier 3 (Blue)==
+'''Recommended:'''  Enhancement Injection, Gear
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#7de8e6;" | [[File:Bullet blue.png|75x75px]]
+| rowspan="7" |Bullet
+|3x3||Enhancement Injection<br>Snail DEF +12<br>Snail RUSH +12
+| rowspan="7" | 99 B-tads
+|-
+|2x1||Murika INTEL +4,500
+|-
+|3x1||6k B-tads
+|-
+|4x1||Novice Scroll +10
+|-
+|5x1||[[Gear|<span style="color:#22d3d0;">PASGT Helmet</span>]]
+|-
+|6x1||Gear Chest +60
+|-
+|7x1||Lottery Ticket +3
+|-
+| style="background-color:#7de8e6;" | [[File:Aircraft Carrier.png|75x75px]]
+|Aircraft Carrier||3x2||Refine Speedup +4h
+|Mecha Cell +100
+|-
+| style="background-color:#7de8e6;" | [[File:Yankee.png|75px]]
+|Yankee||4x1||400 W-tads
+|10 W-tads
+|}
+
+==Tier 4 (Purple)==
+'''Recommended:'''  Enhancement Injection, Gear
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#f3b5e1;" | [[File:Bullet purple.png|75px]]
+| rowspan="7" | Bullet
+|3x3||Enhancement Injection<br>Snail HP +140<br>Snail ATK +14
+| rowspan="7" | 297 B-tads
+|-
+|2x1||Murika INTEL +6,000
+|-
+|3x1||8k B-tads
+|-
+|4x1||Expert Scroll +10
+|-
+|5x1||[[Gear|<span style="color:#ee96d5;">Long Range Scope</span>]]
+|-
+|6x1||Gear Chest +80
+|-
+|7x2||Lottery Ticket +2
+|-
+| style="background-color:#f3b5e1;" | [[File:Internet.png|75px]]
+|Internet||3x1||Expert Scroll +20
+|Gene Speedup +5m
+|-
+| style="background-color:#f3b5e1;" |[[File:Uncle Simon.png|75px]]
+|Uncle Simon||4x1||Murikan Treasure Map +50
+|Murikan Treasure Map +2
+|-
+| style="background-color:#f3b5e1;" | [[File:West Dot Manual.png|75px]]
+|West Dot Manual||4x2||Gear Chest +100
+|Gear Chest +1
+|}
+
+==Tier 5 (Orange)==
+'''Recommended:''' 
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="6" style="background-color:#ffb066;" | [[File:Bullet orange.png|75px]]
+| rowspan="6" | Bullet
+|3x3||Enhancement Injection<br>Snail HP +160<br>Snail RUSH +16
+| rowspan="6" | 891 B-tads
+|-
+|2x1||Murika INTEL +8,000
+|-
+|3x1||10k B-tads
+|-
+|4x1||Master Scroll +10
+|-
+|5x1||Gear Chest +100
+|-
+|6x2||Lottery Ticket +2
+|-
+| style="background-color:#ffb066;" | [[File:Grey House.png|75px]]
+|Grey House||3x1||Wish Coin +1
+|15 W-tads
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Murika]]

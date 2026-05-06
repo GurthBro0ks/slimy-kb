@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Gold Toilet Paper
+|class_id=20011
+|rank=Green
+|affct=ART
+|source=
+|description=This toilet paper was found in a home without any bathrooms, making its purpose extremely suspicious! Why didn't the previous Snail take it?
+|fame=19
+|art=27
+|fth=16
+|civ=15
+|tech=13
+|ss1=Snail HP +100
+|ss2=Snail HP +200
+|ss3=Snail HP +300
+|ss4=Snail HP +300
+|ss7=Snail HP +300<br> (Awakened)
+}}

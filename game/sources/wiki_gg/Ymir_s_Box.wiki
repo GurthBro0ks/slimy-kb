@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Ymir's Box
+|class_id=22675
+|rank=SS
+|affct=FAITH
+|birthday=12-22
+|source=Lottery Machine No.3 (0.36%)
+|description=On Dec 22, 965 AD, the Ymir's Box was stolen by the god Loki.<br>Ymir's Box is from the primordial giant Ymir, who is said to have mixed the snow and ice of the land of mist with the poisonous water of the river élivágar and placed it in the casket. The Casket has been preserved by the Frost Giants, who plan to open it at the Twilight of the Gods and freeze the entire world, thus ensuring the permanent rule of the Frost Giants.
+|fame=52
+|art=70
+|fth=104
+|civ=51
+|tech=70
+|ss1=In Minion Sims, Goldfishes Data Calculation Effect +4%<br>Per 100 Recruit Tokens consumed, Snail HP +20<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +16<br>Consumed Recruit Tokens: 5000/5000
+|ss2=In Minion Sims, Goldfishes Data Calculation Effect +6%<br>Per 100 Recruit Tokens consumed, Snail HP +30<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +24<br>Consumed Recruit Tokens: 5000/5000
+|ss3=In Minion Sims, Goldfishes Data Calculation Effect +8%<br>Per 100 Recruit Tokens consumed, Snail HP +40<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +32<br>Consumed Recruit Tokens: 5000/5000
+|ss4=In Minion Sims, Goldfishes Data Calculation Effect +12%<br>Per 100 Recruit Tokens consumed, Snail HP +60<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +48<br>Consumed Recruit Tokens: 5000/5000
+|ss5=In Minion Sims, Goldfishes Data Calculation Effect +16%<br>Per 100 Recruit Tokens consumed, Snail HP +80<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +64<br>Consumed Recruit Tokens: 5000/5000
+|ss6=In Minion Sims, Goldfishes Data Calculation Effect +22%<br>Per 100 Recruit Tokens consumed, Snail HP +110<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +88<br>Consumed Recruit Tokens: 5000/5000
+|ss7=In Minion Sims, Goldfishes Data Calculation Effect +22%<br>Per 100 Recruit Tokens consumed, Snail HP +110<br>Per 100 Recruit Tokens consumed, Priest-Snail Assistance DMG +88<br>Consumed Recruit Tokens: 5000/5000<br>In Minion Sims, Goldfishes Data Calculation Effect +20% (Awakened)
+|skill1=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Fire DMG +60
+|skill2=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop CRIT DMG +9%
+|skill3=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: This Relic's FTH +15
+|mirage={{Mirage|name=Frost Giant's Fury|reward={{RewardIconWithLink|Demon Chest, +200|orange}}
+|3name=Frost Giant|3rec=136.24M|3atk=376317|3defense=235582|3hp=22035003|3weak=37994
+|4name=Storm Giant|4rec=203.56M|4atk=537339|4defense=330289|4hp=40881027|4weak=44010
+|5name=Ymir|5rec=319.22M|5atk=753673|5defense=449751|5hp=82190991|5weak=52312
+|Arec=449.31M|Aatk=972196|Adefense=566789|Ahp=139254715|Aweak=57829
+}}}}

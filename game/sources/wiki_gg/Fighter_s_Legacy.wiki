@@ -1,0 +1,18 @@
+{{RewardIconWithText|Fighter's Legacy}} was a one time compensation for the conversion from the old [[Arena]] system to the new Arena system.
+
+{{Retext|Use to gain random resources; small chance to get Green Organ Slime; higher chance to get Lottery Tickets or Mutantigen.|blue}}
+
+The drop rates are:
+* 5.43% {{RewardIconWithText|W-Tad|orange}}
+* 10.87% {{RewardIconWithText|B-Tad}}
+* 16.30% {{RewardIconWithText|Gene Speedup}}
+* 16.30% {{RewardIconWithText|Specimen}}
+* 21.74% {{RewardIconWithText|Green Organ Slime|green}}
+* 10.87% {{RewardIconWithText|Blue Organ Slime|blue}}
+* 5.43% {{RewardIconWithText|Purple Organ Slime|purple}}
+* 2.17% {{RewardIconWithText|Orange Organ Slime|orange}}
+* 2.17% {{RewardIconWithLink|Lottery Ticket|orange}}
+* 5.43% {{RewardIconWithLink|Wish Coin|orange}}
+* 3.26% {{RewardIconWithLink|Mutantigen|orange}}
+
+[[Category:Reward Pack]]

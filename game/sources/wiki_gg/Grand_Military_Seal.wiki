@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Grand Military Seal
+|class_id=20438
+|rank=Green
+|affct=FAME
+|source=
+|description=This seal of General Oda is marked with the words, "Military Dictatorship", which reflected his ambition to rule the world. But just as his army broke the opposing coalition's siege for the third time and he was reveling in it, raging flames in the Honnoji Temple swallowed him and his ambition...
+|fame=29
+|art=11
+|fth=14
+|civ=17
+|tech=19
+|ss1=Against Bladden, DMG +300%
+|ss2=Against Bladden, DMG +400%
+|ss3=Against Bladden, DMG +500%
+|ss4=Against Bladden, DMG +500%
+|ss7=Against Bladden, DMG +500%<br> (Awakened)
+}}

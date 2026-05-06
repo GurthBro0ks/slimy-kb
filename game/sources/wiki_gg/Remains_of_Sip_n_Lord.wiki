@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Remains of Sipán Lord
+|class_id=22707
+|rank=SS
+|affct=CIV
+|birthday=01-05
+|source=Lottery Machine No.3 (0.24%)
+|description=On Jan 5, 1987 AD, Dr. Alva discovered the tomb of the Lord of Sipán, near Chiclayo in northern Peru.<br>The Moche civilization is one of the civilizations in Mesoamerica, about a thousand years earlier than the Inca civilization. Because of its remote location, it has not been extensively destroyed. When Dr. Appell found the tomb, he was shocked by the rich burial objects. In order to prevent it from being looted by the villagers, he stayed in the tomb despite the death threats from the villagers until the local government arrived. During the excavation of the government, people discovered the tomb of the Lord of Sipán. His bones were intact and covered with gold and silver. His bones were just a white star among a pile of gold and silver jewelry.
+|fame=63
+|art=61
+|fth=64
+|civ=105
+|tech=54
+|ss1=Snail ATK +20<br>Per 100 Recruit Tokens consumed, Snail ATK +2<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +16<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Snail ATK +30<br>Per 100 Recruit Tokens consumed, Snail ATK +3<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +24<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Snail ATK +40<br>Per 100 Recruit Tokens consumed, Snail ATK +4<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +32<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Snail ATK +60<br>Per 100 Recruit Tokens consumed, Snail ATK +6<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +48<br>Consumed Recruit Tokens: 5000/5000
+|ss5=Snail ATK +80<br>Per 100 Recruit Tokens consumed, Snail ATK +8<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +64<br>Consumed Recruit Tokens: 5000/5000
+|ss6=Snail ATK +110<br>Per 100 Recruit Tokens consumed, Snail ATK +11<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +88<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Snail ATK +110<br>Per 100 Recruit Tokens consumed, Snail ATK +11<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +88<br>Consumed Recruit Tokens: 5000/5000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion ATK +9%
+|skill2=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop Earth DMG +60
+|skill3=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: This Relic's CIV +15
+|mirage={{Mirage|name=Lord of Moche|reward={{RewardIconWithLink|Offering Speedup, +28800|orange}}
+|3name=Maid|3rec=188.43M|3atk=501767|3defense=309008|3hp=35732873|3weak=42226
+|4name=Royal Guard|4rec=321.75M|4atk=757936|4defense=452025|4hp=82838468|4weak=52408
+|5name=Sipán Lord|5rec=488.24M|5atk=1040713|5defense=601814|5hp=166824688|5weak=59694
+|Arec=705.55M|Aatk=1429310|Adefense=806214|Ahp=361035249|Aweak=71009
+}}}}

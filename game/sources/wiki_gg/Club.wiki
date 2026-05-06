@@ -1,0 +1,145 @@
+{{Missing Info|specifics=<br>Equipped Fighting Trainer Stats<br>Wilderness Survival Trainer Stats}}
+[[File:Club Portal.png|300px|left]]
+==Clubs==
+Clubs are a core multiplayer mechanic within Super Snails. After defeating the 8th of the Koryeon Apostles, [[Koryeo Apostles#Gvent Guru|Gvent Guru]], a portal appears allowing you to choose a club to join, or the option to create a club yourself.
+
+===Club Creation===
+Creating a Club requires the Registration of a Club Name, with an 18 alphanumeric character limit, and a Short Name, with a  3-5 alphanumeric character limit. This costs 1k W-Tads to do.
+
+===Joining a Club===
+To join a club, either search for a known club name within your server, or browse a list of clubs available to join. You'll be able to see the Full and Short name of the club as well as their level, current President, and collective power and members. The clubs applicant requirements will also be shown: required power, minion power, and leadership as well as if a club review is necessary before joining. 
+
+''Things to Note: There's a 24h cooldown on participating in Species War events after joining a new club.''
+
+Joining a club is completely free. 
+
+===Switching Clubs===
+Switching clubs is very easy; simply go to Manage and Quit Club, then start the process over. 
+
+''Things to Note: There's a required 30s cooldown before joining a new club, and a 24h cooldown on Species War participation.''
+
+==Star Coins==
+Every club member can claim 200 Star Coins each day for free (as well as 10 Club Chests and 20 Club EXP). After the initial free claim, you can spend W-Tads to purchase additional Star Coins, Club Chests and B-Tads; the limit on this is 4 times per day after the free daily claim.
+
+{|class="wikitable"
+!Claim!!W-Tads Cost!!Star Coins!!Club Chest!!B-Tads
+|-
+|2/5||50||250||10||1,000
+|-
+|3/5||150||300||10||2,000
+|-
+|4/5||300||350||10||3,000
+|-
+|5/5||600||400||10||6,000
+|}
+
+Star Coins can also be obtained from other sources, such as [[Species War]] and some [[Events]]. 
+
+===Club Shop===
+Star Coins can be spend within the Club Shop, which refreshes every 72 hours and is on the same timer as the [[Arena#Arena_Shop|Arena Shop]], [[Fissure#Fissure_Shop|Fissure Shop]], and [[Museum#Museum_Shop|Museum Shop]].
+
+{{ShopRowHeader|Club Shop|Star Coin}}
+!rowspan="4"|Manuals
+{{ShopRow|Zombie Manual, +20|blue|800|Demon Manual, +20|blue|800|Angel Manual, +20|blue|800}}
+{{ShopRow|Mutant Manual, +20|blue|800|Mecha Manual, +20|blue|800|Dragon Manual, +20|blue|800}}
+!rowspan="2"|Scrolls<br>and Chests
+{{ShopRow|Novice Scroll, +10|blue|4k|Expert Scroll, +10|purple|9k|Club Chest, +10|orange|200}}
+!rowspan="2"|Organs
+{{ShopRow|Psychic Pituitary|orange|10k}}
+!rowspan="4"|One Time<br>Purchases
+{{ShopRow|Wargame Simulation, <br>(Available after joining<br>3 Species Wars.)<br>One Time Purchase<br>to unlock [[Minion Sim]]|white|1k|Research Briefcase, +5<br>One Time Purchase|blue|1k|World Bowl, +40<br>One Time Purchase|purple|3k}}
+{{ShopRow|Club Pack, <br>One Time Purchase|orange|5k}}
+|}
+
+==Club Tasks==
+Club members can collectively work towards goals for rewards.
+{|class="wikitable"
+!Task!!Rewards
+|-
+|Club reaches Lv.3||{{RewardIconWithLink|Club Chest, +20}}<br>{{RewardIconWithLink|Star Coin, +500}}
+|-
+|Club Power reaches 1M||{{RewardIconWithLink|Club Chest, +20}}<br>{{RewardIconWithLink|Star Coin, +500}}
+|-
+|Complete all 8 goals||{{RewardIconWithLink|Club Chest, +100}}<br>[[Snail Avatar|Club Mascot Avatar]]
+|-
+|Build the Portal||{{RewardIconWithLink|Club Chest, +20}}<br>{{RewardIconWithLink|Star Coin, +500}}
+|-
+|Achieve Group 1st-Class Merit||{{RewardIconWithLink|Club Chest, +50}}<br>{{RewardIconWithLink|Star Coin, +800}}
+|-
+|Defeat the boss of 4F||{{RewardIconWithLink|Club Chest, +50}}<br>{{RewardIconWithLink|Star Coin, +800}}
+|-
+|Defeat the boss of 5F||{{RewardIconWithLink|Club Chest, +50}}<br>{{RewardIconWithLink|Star Coin, +800}}
+|-
+|Defeat the bossof 6F||{{RewardIconWithLink|Club Chest, +50}}<br>{{RewardIconWithLink|Star Coin, +800}}
+|-
+|Biozilla reaches Lv.4||{{RewardIconWithLink|Club Chest, +50}}<br>{{RewardIconWithLink|Star Coin, +800}}
+|}
+
+==Personal Achievements==
+Work towards individual goals within your club for rewards.
+{|class="wikitable"
+!Task!!Rewards
+|-
+|Collect Star Coins 20 times for free||{{RewardIconWithText|Novice Alchemy Case, +5}}<br>{{RewardIconWithText|B-Tad, +5k}}
+|-
+|Spend 25k Star Coins||{{RewardIconWithLink|Research Briefcase|orange}}<br>{{RewardIconWithText|B-Tad, +5k}}
+|-
+|Participate in 1 [[Species War]]||{{RewardIconWithLink|Golden Pickaxe, +3|orange}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+|Win 5 items in Species Auction||{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+|Personal Points reach 20k in Species War||{{RewardIconWithLink|Gear Chest, +100}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+|Partcipate in 4 Species Chronicles||{{RewardIconWithLink|Master Scroll, +40|orange}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+|Buy 4 Gene Essences||{{RewardIconWithLink|Evolution Chest, +100}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+|Defeat 5F Species War Legion||{{RewardIconWithText|Master Alchemy Case, +1|orange}}<br>{{RewardIconWithText|B-Tad, +20k}}
+|-
+|Defeat 7F Species War Legion||{{RewardIconWithText|Master Alchemy Case, +2|orange}}<br>{{RewardIconWithText|B-Tad, +20k}}
+|-
+|Defeat 9F Species War Legion||{{RewardIconWithText|Master Alchemy Case, +3|orange}}<br>{{RewardIconWithText|B-Tad, +20k}}
+|-
+|Consume 10 Species Essense||{{RewardIconWithText|Refine Speedup, +9h}}<br>{{RewardIconWithText|B-Tad, +20k}}
+|-
+|Consume 800 Drills||{{RewardIconWithLink|Golden Pickaxe, +3|orange}}<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+|Participate in 100 multiplayer events||{{RewardIconWithLink|Coating Bucket|orange}}<br>{{RewardIconWithText|B-Tad, +20k}}
+|-
+|Open 20 Super Species Chests||{{RewardIcon|Club Agent}}[[Nursery#Minion Skins|Club Agent]] +20 Fragments<br>{{RewardIconWithText|B-Tad, +20k}}
+|}
+
+==Species War==
+'''Information coming soon. See [[Species War]]'''
+
+===Affairs===
+<nowiki>[[UNKNOWN WHEN UNLOCKED]]</nowiki>
+
+==Vet Training==
+When you reach a new level of Vet Training, there will be a Trainer there to test you in a duel.
+{|class="wikitable mw-collapsible"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Rewards
+|-
+|Weight-bearing Trainer||11,568||10,576||124,162||Total AFFCT 32,550|| - ||{{RewardIconWithText|Snail Honor, +40}}<br>{{RewardIconWithLink|Club Chest, +50}}
+|-
+|INTEL Analysis Trainer||26,159||23,971||529,414||Total AFFCT 51,490|| - ||{{RewardIconWithText|Snail Honor, +60}}<br>{{RewardIconWithLink|Club Chest, +50}}
+|-
+|Unarmed Trainer||37,916||34,666||928,094||Total AFFCT 65,324|| - ||{{RewardIconWithText|Snail Honor, +80}}<br>{{RewardIconWithLink|Club Chest, +50}}
+|-
+|Equipped Fighting Trainer||?||?||?||Total AFFCT ?||?||?
+|-
+|Wilderness Survival Trainer||?||?||?||Total AFFCT ?||?||?
+|-
+|Camouflage Recon Trainer||97,510||89,152||3,284,062||Total AFFCT 109,938|| - ||{{RewardIconWithText|Snail Honor, +240}}<br>{{RewardIconWithLink|Club Chest, +200}}
+|-
+|Battlefield Command Trainer||128,363||117,360||4,648,900||Total AFFCT 127,592|| - ||{{RewardIconWithText|Snail Honor, +320}}<br>{{RewardIconWithLink|Club Chest, +200}}
+|-
+|River-crossing Trainer||185,667||167,658||7,243,059||Total AFFCT 181,140|| - ||{{RewardIconWithText|Snail Honor, +400}}<br>{{RewardIconWithLink|Club Chest, +300}}
+|-
+|Suppressive Fire Trainer||246,813||216,254||10,385,256||Total AFFCT 199,820|| - ||{{RewardIconWithText|Snail Honor, +400}}<br>{{RewardIconWithLink|Club Chest, +300}}
+|}
+
+===Training Value Packs===
+[[Value_Packs#Training_Value_Pack|Training Value Packs]] can be purchased after certain milestones are met.
+
+[[Category:Club]]

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Yongle Encyclopedia
+|class_id=22622
+|rank=SSS
+|affct=FAME
+|birthday=07-21
+|source=
+|description=On Jul 21, 1407 AD, after five years of compilation, the Yongle Encyclopedia was finally completed.<br>The Yongle Encyclopedia is a monumental work compiled by Emperor Yongle of the Ming Dynasty, edited by scholars Xie Jin and Yao Guangxiao. Its content covers a wide range of subjects, including astronomy, geography, medicine, agriculture, and more. It collected the knowledge and wisdom inherited from thousands of years of Chinese civilization, with content from seven to eight thousand books. Unfortunately, most of the Yongle Encyclopedia has been lost, and only a few hundred volumes of the original more than ten thousand volumes remained.
+|fame=108
+|art=61
+|fth=47
+|civ=73
+|tech=73
+|ss1=All Minion Skins, HARD Stats +3%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 10 advanced fusions, Snail ATK +3<br>Advanced Fusions: 500/500
+|ss2=All Minion Skins, HARD Stats +6%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 10 advanced fusions, Snail ATK +4<br>Advanced Fusions: 500/500
+|ss3=All Minion Skins, HARD Stats +9%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 10 advanced fusions, Snail ATK +5<br>Advanced Fusions: 500/500
+|ss4=All Minion Skins, HARD Stats +15%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 10 advanced fusions, Snail ATK +7<br>Advanced Fusions: 500/500
+|ss5=All Minion Skins, HARD Stats +21%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 10 advanced fusions, Snail ATK +9<br>Advanced Fusions: 500/500
+|ss6=All Minion Skins, HARD Stats +30%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 10 advanced fusions, Snail ATK +12<br>Advanced Fusions: 500/500
+|ss7=All Minion Skins, HARD Stats +30%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 10 advanced fusions, Snail ATK +12<br>Advanced Fusions: 500/500<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail ATK +600
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail DEF +600
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's FAME +15
+|mirage={{Mirage|name=The Great Chronicles|reward={{RewardIconWithLink|Recruit Token, +10|orange}}
+|3name=Official Zheng|3rec=143.22M|3atk=392958|3defense=245399|3hp=23781713|3weak=38468
+|4name=Scholar Xie|4rec=195.69M|4atk=519068|4defense=319216|4hp=38122708|4weak=43003
+|5name=Monk Yao|5rec=280.20M|5atk=691221|5defense=414648|5hp=71333173|5weak=51092
+|6name=Emperor Yongle|6rec=370.11M|6atk=837872|6defense=495537|6hp=98209513|6weak=54083
+|Arec=484.01M|Aatk=1032802|Adefense=598008|Ahp=163011218|Aweak=59401
+}}}}

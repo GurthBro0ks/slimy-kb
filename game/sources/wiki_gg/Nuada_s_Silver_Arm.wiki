@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Nuada's Silver Arm
+|class_id=22673
+|rank=SS
+|affct=FAITH
+|birthday=05-20
+|source=Lottery Machine No.3 (0.47%)
+|description=On May 20, 3787 BC, the God of Medicine created the silver arm for Nuada, the god with a broken arm, to help him regain his throne.<br>Nuada, the leader of the former Danu God Clan, lost his arm in battle and was forced to give up his throne. Because His replacement, the god Bres, was cruel and unjust. Nuada, following the will of the gods, restored his arm with the help of the God of Medicine and successfully regained his throne. After his death at the hands of Balor, the gods took out the silver arm and gave it to mortals for worship.
+|fame=62
+|art=68
+|fth=102
+|civ=52
+|tech=63
+|ss1=All Sanctum Glorium Output +0.8%<br>Angel Minion RUSH +2%<br>Per 5 Epic Protodex Stars, Snail ATK +6<br>Epic Protodex Stars: 100/100
+|ss2=All Sanctum Glorium Output +1.2%<br>Angel Minion RUSH +3%<br>Per 5 Epic Protodex Stars, Snail ATK +9<br>Epic Protodex Stars: 100/100
+|ss3=All Sanctum Glorium Output +1.6%<br>Angel Minion RUSH +4%<br>Per 5 Epic Protodex Stars, Snail ATK +12<br>Epic Protodex Stars: 100/100
+|ss4=All Sanctum Glorium Output +2.4%<br>Angel Minion RUSH +6%<br>Per 5 Epic Protodex Stars, Snail ATK +18<br>Epic Protodex Stars: 100/100
+|ss5=All Sanctum Glorium Output +3.2%<br>Angel Minion RUSH +8%<br>Per 5 Epic Protodex Stars, Snail ATK +24<br>Epic Protodex Stars: 100/100
+|ss6=All Sanctum Glorium Output +4.4%<br>Angel Minion RUSH +11%<br>Per 5 Epic Protodex Stars, Snail ATK +33<br>Epic Protodex Stars: 100/100
+|ss7=All Sanctum Glorium Output +4.4%<br>Angel Minion RUSH +11%<br>Per 5 Epic Protodex Stars, Snail ATK +33<br>Epic Protodex Stars: 100/100<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Fire DMG +300
+|skill2=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: This Relic's FTH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Reagent Drops +6%
+|mirage={{Mirage|name=Tuatha Dé Danann|reward={{RewardIconWithLink|Star Stone, +3|orange}}
+|3name=Angus|3rec=96.31M|3atk=283263|3defense=179398|3hp=14383444|3weak=34254
+|4name=Lugh|4rec=135.46M|4atk=374604|4defense=234476|4hp=21860452|4weak=37921
+|5name=Nuada|5rec=204.49M|5atk=539664|5defense=331592|5hp=41178010|5weak=44158
+|Arec=324.75M|Aatk=762994|Adefense=454726|Ahp=83655718|Aweak=52522
+}}}}

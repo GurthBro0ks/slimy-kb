@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=The Thread of Fate
+|class_id=20235
+|rank=Green
+|affct=FAITH
+|source=
+|description=The thread was compiled by the Fates. The three goddesses each played their role. Clotho held a distaff, Lachesis spun, and Atropos, the eldest of the three, cut the thread. It's the circle of life!
+|fame=15
+|art=13
+|fth=29
+|civ=16
+|tech=17
+|ss1=Per 6 Moody Costume Stars, Snail ATK +1<br>Moody Stars: 192/192
+|ss2=Per 6 Moody Costume Stars, Snail ATK +2<br>Moody Stars: 192/192
+|ss3=Per 6 Moody Costume Stars, Snail ATK +3<br>Moody Stars: 192/192
+|ss4=Per 6 Moody Costume Stars, Snail ATK +3<br>Moody Stars: 192/192
+|ss7=Per 6 Moody Costume Stars, Snail ATK +3<br>Moody Stars: 192/192<br> (Awakened)
+}}

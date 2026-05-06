@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=490
+|relics=Seated Voltaire,Bronze Longhu Cup
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Minions in battle: Troop Earth DMG +7
+}}

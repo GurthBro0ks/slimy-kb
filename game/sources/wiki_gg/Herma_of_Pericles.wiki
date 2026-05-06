@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Herma of Pericles
+|class_id=22254
+|rank=SSS
+|affct=ART
+|birthday=12-29
+|source=
+|description=On Dec 29, 430 BC, the Statue of Pericles was completed by Cressile.<br>This statue was carved to commemorate the exploits of Pericles, a politician and general during the ancient Greek. The helmet on his head signifies his position as strategus, and his curly hair and beard exposed under the helmet give him a solemn appearance. His head is slightly tilted to the left, and his deep and peaceful eyes make him look calm and confident.
+|fame=51
+|art=109
+|fth=69
+|civ=75
+|tech=58
+|ss1=Snail DEF +30<br>Per 60 Minions in battle:<br>> Troop Water DMG +3<br>Per 60 Minions in battle:<br>> Troop Fire DMG +3
+|ss2=Snail DEF +40<br>Per 60 Minions in battle:<br>> Troop Water DMG +6<br>Per 60 Minions in battle:<br>> Troop Fire DMG +6
+|ss3=Snail DEF +50<br>Per 60 Minions in battle:<br>> Troop Water DMG +9<br>Per 60 Minions in battle:<br>> Troop Fire DMG +9
+|ss4=Snail DEF +70<br>Per 60 Minions in battle:<br>> Troop Water DMG +15<br>Per 60 Minions in battle:<br>> Troop Fire DMG +15
+|ss5=Snail DEF +90<br>Per 60 Minions in battle:<br>> Troop Water DMG +21<br>Per 60 Minions in battle:<br>> Troop Fire DMG +21
+|ss6=Snail DEF +120<br>Per 60 Minions in battle:<br>> Troop Water DMG +30<br>Per 60 Minions in battle:<br>> Troop Fire DMG +30
+|ss7=Snail DEF +120<br>Per 60 Minions in battle:<br>> Troop Water DMG +30<br>Per 60 Minions in battle:<br>> Troop Fire DMG +30<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Mantis skill III.png|50px]]Place in a Mantis Biozilla: In Species War, Troop DMG toward heroes +6%
+|skill2=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop Wind DMG +60
+|skill3=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop CRIT DMG +9%
+|mirage={{Mirage|name=The Ancient Great|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Brasidas|3rec=26.81M|3atk=122335|3defense=81614|3hp=4348416|3weak=18636
+|4name=Archidamus II|4rec=37.43M|4atk=144744|4defense=96564|4hp=5952737|4weak=19703
+|5name=Cleon|5rec=49.65M|5atk=170514|5defense=113757|5hp=7997303|5weak=21679
+|6name=Pericles|6rec=63.36M|6atk=199418|6defense=133039|6hp=10518048|6weak=25390
+|Arec=78.13M|Aatk=230562|Adefense=153817|Ahp=13611011|Aweak=30557
+}}}}

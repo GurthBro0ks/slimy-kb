@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Marine
+|rank=purple
+|cabin=2
+|id=83
+|gene1={race} DEF +30
+|gene2={race} CIV +30
+|gene3=Per 30 Mutant Minions in battle:
+> Troop DEF +8
+|gene4=Per 10% HP lost, {race} DEF +40
+|gene5=Per 30 Mutant Minions in battle:
+> Troop DEF +12
+|gene6=Per 10% HP lost, {race} DEF +60
+|}}

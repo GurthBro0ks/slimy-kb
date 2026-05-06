@@ -1,0 +1,45 @@
+{{Missing Info|specifics=<br>Mirage: 5s, 6s, Awakened}}
+{{CargoRelic
+|name=1st Winter Olympics Badge
+|rank=SSS
+|affct=CIV
+|birthday=01-27
+|source=* Grandmaster Scroll (0.76%), Lottery Machine (0.09%), Wishing (0.08%)
+* [[Snowy Day]] Dec. 22 2023 - Jan. 5 2024 - 8k W-Tad Winter Gift Set Day 3 and Arctic Shop 15k Snow Coin
+|description=On February 25, 1926, the International Olympic Committee decided to officially designate the Winter Sports Week held in Chamonix two years earlier as the first Winter Olympics.
+
+This badge originates from the inaugural Winter Olympics in the early 20th century. At the time, winter sports were thriving in various countries, and under the initiative of the IOC founder Pierre de Coubertin, the International Olympic Committee organized a Winter Sports Week in Chamonix, France. The success of this event led to its recognition as part of the Olympic Games, marking the inception of the Winter Olympics.
+|fame=62
+|art=68
+|fth=65
+|civ=108
+|tech=59
+|ss1=Snail ATK +30<br>Per Incense used, Snail HP +30<br>Per Incense used, Snail ATK +3<br>Incense Used: 40/40
+|ss2=Snail ATK +40<br>Per Incense used, Snail HP +40<br>Per Incense used, Snail ATK +4<br>Incense Used: 40/40
+|ss3=Snail ATK +50<br>Per Incense used, Snail HP +50<br>Per Incense used, Snail ATK +5<br>Incense Used: 40/40
+|ss4=Snail ATK +70<br>Per Incense used, Snail HP +70<br>Per Incense used, Snail ATK +7<br>Incense Used: 40/40
+|ss5=Snail ATK +90<br>Per Incense used, Snail HP +90<br>Per Incense used, Snail ATK +9<br>Incense Used: 40/40
+|ss6=Snail ATK +120<br>Per Incense used, Snail HP +120<br>Per Incense used, Snail ATK +12<br>Incense Used: 40/40
+|ss7=Snail ATK +120<br>Per Incense used, Snail HP +120<br>Per Incense used, Snail ATK +12<br>Incense Used: 40/40<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail DEF +600
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, B-tads gained +15%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x Orange Card Drops +15%
+|mirage={{Mirage|name=Snow Athlete|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Ice Prince|3rec=3.31M|3atk=52771|3def=35056|3hp=858131|3weak=13624
+|4name=Snow Walker|4rec=5.90M|4atk=74891|4def=49750|4hp=1658694|4weak=16611
+|5name=Hockey Master|5rec=|5atk=|5def=|5hp=|5weak=
+|6name=|6rec=|6atk=|6def=|6hp=|6weak=
+|Arec=|Aatk=|Adef=|Ahp=|Aweak=
+}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:HP Boost]]
+[[Category:Incense Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:DEF Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Lottery Machine Boost]]
+[[Category:Wishing Boost]]
+[[Category:Rewards Wish Coin]]

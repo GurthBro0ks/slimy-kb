@@ -1,0 +1,44 @@
+{{CargoRelic
+|name=Das Kapital
+|rank=SS
+|affct=CIV
+|birthday=07-06
+|source=Lottery Machine (0.12%), Wishing (0.1%), Britland Treasure Maps (5%), Grandmaster Scrolls (1%), Relic Forge (100 Relic RF), beat [[Mailbox#Mr. Racoon|Mr. Raccoon]] in combat
+|description=On Jul 6, 1867 AD, Marx completed this famous work on sociology. 
+
+It took Marx over 40 years to write the three volumes and two million words of Das Kapital. He quoted that capital eschews no profit, or very small profit, just as Nature was formerly said to abhor a vacuum. With adequate profit, capitalists become bold. A certain 10 percent will ensure its employment anywhere; 20 percent certain will produce eagerness; 50 percent, positive audacity; 100 percent will make it ready to trample on all human laws; 300 percent, and there is not a crime at which it will scruple, nor a risk it will not run, even to the chance of its owner being hanged.
+
+[Classic Quote]
+
+The economic basis determines the superstructure. Equal exploitation of the labor force is the primary human right of capital.
+|fame=63
+|art=61
+|fth=51
+|civ=105
+|tech=67
+|ss1=Lumber Camp Output +4%<br>Lumber Camp Max Cap +4%<br>When exploring, B-tads gained +0.8%
+|ss2=Lumber Camp Output +6%<br>Lumber Camp Max Cap +6%<br>When exploring, B-tads gained +1.2%
+|ss3=Lumber Camp Output +8%<br>Lumber Camp Max Cap +8%<br>When exploring, B-tads gained +1.6%
+|ss4=Lumber Camp Output +12%<br>Lumber Camp Max Cap +12%<br>When exploring, B-tads gained +2.4%
+|ss5=Lumber Camp Output +16%<br>Lumber Camp Max Cap +16%<br>When exploring, B-tads gained +3.2%
+|ss6=Lumber Camp Output +22%<br>Lumber Camp Max Cap +22%<br>When exploring, B-tads gained +4.4%
+|ss7=Lumber Camp Output +22%<br>Lumber Camp Max Cap +22%<br>When exploring, B-tads gained +4.4%<br>When exploring, B-tads gained +4% (Awakened)
+|skill1=[[File:Fungusfarm skill III.png|50px]]Place in the Fungus Farm: Fungus Output +30%
+|skill2=[[File:Fungusfarm skill III.png|50px]]Place in the Fungus Farm: Max Cap +30%
+|skill3=[[File:Quarry skill III.png|50px]]Place in Quarry: This Relic's CIV +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Relics]]
+[[Category:Orange Relics]]
+[[Category:CIV Relics]]
+[[Category:Orange CIV Relics]]
+[[Category:Lumber Camp Output Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:Quarry Skill]]
+[[Category:CIV Boost]]
+[[Category:Ancient Wood Boost]]
+[[Category:Divine Dragon Descents Boost]]
+[[Category:HP Boost]]

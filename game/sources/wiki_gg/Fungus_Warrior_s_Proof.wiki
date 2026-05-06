@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Fungus Warrior's Proof
+|class_id=20271
+|rank=Green
+|affct=FAITH
+|source=
+|description=A talent will be activated for the warriors who have this certificate: When you eat orange Fungi, the cap on additional Leadership Stats will be canceled! To hell with the 500-Orange-Fungi limit!
+|fame=14
+|art=15
+|fth=30
+|civ=13
+|tech=18
+|ss1=May the Fungi be with you!<br>Per 10 FTH-Fungi eaten, Snail ATK +1<br>FTH-Fungi Eaten: 500/500
+|ss2=May the Fungi be with you!<br>Per 10 FTH-Fungi eaten, Snail ATK +2<br>FTH-Fungi Eaten: 500/500
+|ss3=May the Fungi be with you!<br>Per 10 FTH-Fungi eaten, Snail ATK +3<br>FTH-Fungi Eaten: 500/500
+|ss4=May the Fungi be with you!<br>Per 10 FTH-Fungi eaten, Snail ATK +3<br>FTH-Fungi Eaten: 500/500
+|ss7=May the Fungi be with you!<br>Per 10 FTH-Fungi eaten, Snail ATK +3<br>FTH-Fungi Eaten: 500/500<br> (Awakened)
+}}

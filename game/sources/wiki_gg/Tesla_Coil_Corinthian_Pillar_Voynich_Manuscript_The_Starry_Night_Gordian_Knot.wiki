@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=151
+|relics=Tesla Coil,Corinthian Pillar,Voynich Manuscript,The Starry Night,Gordian Knot
+|rank=purple
+|amount=5
+|category=self
+|description=Lottery Blue Orbs turn to Purple by +1.8%
+}}

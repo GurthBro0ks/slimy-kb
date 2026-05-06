@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The helmet worn by Armstrong when he landed on the moon. The project encouraged humankind as well as other creatures, and when news about the fake landing broke out, Jackfield, the snail astronaut, said it was real and that he would swear on his antennae.
+|affct=TECH
+|hard=ATK
+|source=Divine Order Chest (0.8%)
+|color=green
+|earth=1
+|water=2
+|fire=0
+|wind=3
+|form=Mecha
+|element=Wind
+|realm=Cathay
+|orangehard=HP
+}}

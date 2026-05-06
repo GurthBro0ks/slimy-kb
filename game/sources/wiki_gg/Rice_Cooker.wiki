@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Rice Cooker
+|class_id=20541
+|rank=Green
+|affct=CIV
+|source=
+|description=The electric rice cooker, also known as an electric pot, was not invented by a company involved in scientific research or kitchenware development. Instead, it was created by a telecommunications company. They developed this highly convenient electric rice cooker to help their employees reduce cooking time and have more time for work.
+|fame=14
+|art=16
+|fth=14
+|civ=33
+|tech=13
+|ss1=Per 10 new Dishes created, Snail RUSH +2<br>New Dishes Created: 480/480
+|ss2=Per 10 new Dishes created, Snail RUSH +3<br>New Dishes Created: 480/480
+|ss3=Per 10 new Dishes created, Snail RUSH +4<br>New Dishes Created: 480/480
+|ss4=Per 10 new Dishes created, Snail RUSH +4<br>New Dishes Created: 480/480
+|ss7=Per 10 new Dishes created, Snail RUSH +4<br>New Dishes Created: 480/480<br> (Awakened)
+}}

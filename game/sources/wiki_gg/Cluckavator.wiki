@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Cluckavator
+|class_id=22901
+|rank=SSS
+|affct=TECH
+|source=
+|description=A fusion of Rebel engineering and Cybervendorian tech, this battle-ready robo-rooster is more than just a mining tool. Beak-Blade Drill. Nano-Coated Feathers.100% Cluck-Powered – No batteries required.
+|fame=70
+|art=50
+|fth=72
+|civ=61
+|tech=109
+|ss1=Acquire Cluckavator (Home Decor)<br>From Drill Rig, Ancient Relic Casket gained +1<br>In the Fissure, DMG +3%<br>Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200
+|ss2=Acquire Cluckavator (Home Decor)<br>From Drill Rig, Ancient Relic Casket gained +2<br>In the Fissure, DMG +4%<br>Per 30 Fissure Floors, Snail ATK +4<br>Fissure Floor: 1200/1200
+|ss3=Acquire Cluckavator (Home Decor)<br>From Drill Rig, Ancient Relic Casket gained +3<br>In the Fissure, DMG +5%<br>Per 30 Fissure Floors, Snail ATK +5<br>Fissure Floor: 1200/1200
+|ss4=Acquire Cluckavator (Home Decor)<br>From Drill Rig, Ancient Relic Casket gained +4<br>In the Fissure, DMG +7%<br>Per 30 Fissure Floors, Snail ATK +7<br>Fissure Floor: 1200/1200
+|ss5=Acquire Cluckavator (Home Decor)<br>From Drill Rig, Ancient Relic Casket gained +5<br>In the Fissure, DMG +9%<br>Per 30 Fissure Floors, Snail ATK +9<br>Fissure Floor: 1200/1200
+|ss6=Acquire Cluckavator (Home Decor)<br>From Drill Rig, Ancient Relic Casket gained +6<br>In the Fissure, DMG +12%<br>Per 30 Fissure Floors, Snail ATK +12<br>Fissure Floor: 1200/1200
+|ss7=Acquire Cluckavator (Home Decor)<br>From Drill Rig, Ancient Relic Casket gained +6<br>In the Fissure, DMG +12%<br>Per 30 Fissure Floors, Snail ATK +12<br>Fissure Floor: 1200/1200<br>From Drill Rig, Ancient Relic Casket gained +3 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Snail ATK +600
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: Medal Output +30
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Purple Reagent Drops +15%
+|mirage={{Mirage|name=Royal Guard|reward={{RewardIconWithLink|Golden Pickaxe, +5|orange}}
+|3name=Flying Chicken|3rec=2.02M|3atk=33475|3defense=22082|3hp=357305|3weak=8864
+|4name=Calculating Chicken|4rec=3.86M|4atk=48869|4defense=32237|4hp=680471|4weak=11354
+|5name=Bulldozing Chicken|5rec=7.11M|5atk=68577|5defense=45238|5hp=1194246|5weak=13818
+|6name=Combat Chicken|6rec=12.50M|6atk=92900|6defense=61283|6hp=2074615|6weak=17424
+|Arec=25.98M|Aatk=121943|Adefense=80442|Ahp=3313301|Aweak=20185
+}}}}

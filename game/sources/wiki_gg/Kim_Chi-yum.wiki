@@ -1,0 +1,331 @@
+== Kim Chi-yum ♀ ==
+She carries a jar on her head to make sure her kimchi is best. 
+
+=== Begin Friendship ===
+To obtain Kim Chi-yum, complete the [[Koryeo]] Key Clue, "Perfect Kimchi."
+
+===☆☆☆ > ★☆☆ ===
+After 3 letters back and forth, Kim Chi-yum will arrive at [[Home Base]] and gift Handmade Kimchi ({{RewardIconWithText|Meal Box Size}} +200, Kimchi +100). 
+
+===★☆☆ > ★★☆ ===
+After 3 letters back and forth, Kim Chi-yum will arrive at [[Home Base]] and gift the [[Alchemy Furnace]], unlocking the ability to use Wish Coins.
+
+===★★☆ > ★★★=== 
+After 4 letters back and forth, Kim Chi-yum will move in permanently with her minion, Koryeo Snail. This will also unlock the [[Home Base|Minion Room]] and Chore Dispatch ability.
+
+==Rent ==
+[[File:Kim Chi-yum rent.png|left]] 
+
+Kim Chi-yum's rent is collected on '''Monday''' and found on the portrait on the wall. 
+
+ '''Normal Rent''': {{RewardIconWithLink|Koryeon Treasure Map, +10}}
+
+ '''Rare Rent''': {{RewardIconWithLink|Sleeping Gypsy|blue}} +10; {{RewardIconWithLink|Guernica|purple}} +20; {{RewardIconWithLink|Mona Lisa|orange}} +40
+
+ '''1-time Rent''': {{RewardIconWithLink|King Sejong's Portrait|green}}
+
+{{clear}}
+
+==Relics==
+Upgrading these will earn B-tads!
+
+{| class="mw-collapsible wikitable" 
+!Relic Tier
+!Reward
+|-
+|★
+|5k B-tads 
+|-
+|★★
+|5k B-tads
+|-
+|★★★
+|5k B-tads
+|-
+|★★★★
+|10k B-tads
+|-
+|★★★★★
+|20k B-tads
+|-
+|★★★★★★
+|40k B-tads
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Portland Vase}}{{Relink|Portland Vase}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Klein Bottle}}{{Relink|Klein Bottle}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Jade Cup}}{{Relink|Jade Cup}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Hannibal's Cup}}{{Relink|Hannibal's Cup}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Lotus Chalice}}{{Relink|Lotus Chalice}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Fire Chalice}}{{Relink|Fire Chalice}}
+|}
+
+==Cuisine of Kim Chi-yum==
+Kim Chi-yum enjoys cooking. Only those dear to her are lucky enough to experience how delicious her dishes can be!
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||Snail TECH +5||Tadpole Pond B-tad Output +0.3%
+|-
+|2||180||2k||Snail TECH +10||Tadpole Pond B-tad Output +0.6%
+|-
+|3||190||4.5k||Snail TECH +15||Tadpole Pond B-tad Output +0.9%
+|-
+|4||200||8k||Snail TECH +20||Tadpole Pond B-tad Output +1.2%
+|-
+|5||210||12.5k||Snail TECH +25||Tadpole Pond B-tad Output +1.5%
+|-
+|6||220||18k||Snail TECH +30||Tadpole Pond B-tad Output +1.8%
+|-
+|7||230||24.5k||Snail TECH +35||Tadpole Pond B-tad Output +2.1%
+|-
+|8||240||32k||Snail TECH +40||Tadpole Pond B-tad Output +2.4%
+|-
+|9||250||40.5k||Snail TECH +45||Tadpole Pond B-tad Output +2.7%
+|-
+|10||260||50k||Snail TECH +50||Tadpole Pond B-tad Output +3%
+|-
+|11||270||60.5k||Snail TECH +55||Tadpole Pond B-tad Output +3.3%
+|-
+|12||285||72k||Snail TECH +60||Tadpole Pond B-tad Output +3.6%
+|-
+|13||300||84.5k||Snail TECH +65||Tadpole Pond B-tad Output +3.9%
+|-
+|14||315||98k||Snail TECH +70||Tadpole Pond B-tad Output +4.2%
+|-
+|15||330||112k||Snail TECH +75||Tadpole Pond B-tad Output +4.5%
+|-
+|16||345||123k||Snail TECH +80||Tadpole Pond B-tad Output +4.8%
+|-
+|17||360||144k||Snail TECH +85||Tadpole Pond B-tad Output +5.1%
+|-
+|18||375||162k||Snail TECH +90||Tadpole Pond B-tad Output +5.4%
+|-
+|19||390||180k||Snail TECH +95||Tadpole Pond B-tad Output +5.7%
+|-
+|20||400||200k||Snail TECH +100||Tadpole Pond B-tad Output +6%
+|-
+|21||420||220k||Snail TECH +105||Tadpole Pond B-tad Output +6.3%
+|-
+|22||440||242k||Snail TECH +110||Tadpole Pond B-tad Output +6.6%
+|-
+|23||460||264k||Snail TECH +115||Tadpole Pond B-tad Output +6.9%
+|-
+|24||480||285k||Snail TECH +120||Tadpole Pond B-tad Output +7.2%
+|-
+|25||500||309k||Snail TECH +125||Tadpole Pond B-tad Output +7.5%
+|-
+|26||520||333k||Snail TECH +130||Tadpole Pond B-tad Output +7.8%
+|-
+|27||540||357k||Snail TECH +135||Tadpole Pond B-tad Output +8.1%
+|-
+|28||560||381k||Snail TECH +140||Tadpole Pond B-tad Output +8.4%
+|-
+|29||580||405k||Snail TECH +145||Tadpole Pond B-tad Output +8.7%
+|-
+|30||600||429k||Snail TECH +150||Tadpole Pond B-tad Output +9%
+|}
+
+==Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Cuisine of Kim Chi-yum is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Angel Minion MAX +1||Per 10 Koryeo Snails in battle, Troop HP +10
+|-
+|2||4k||Angel Minion MAX +2||Per 10 Koryeo Snails in battle, Troop HP +20
+|-
+|3||6k||Angel Minion MAX +3||Per 10 Koryeo Snails in battle, Troop HP +30
+|-
+|4||8k||Angel Minion MAX +4||Per 10 Koryeo Snails in battle, Troop HP +40
+|-
+|5||10k||Angel Minion MAX +5||Per 10 Koryeo Snails in battle, Troop HP +50
+|-
+|6||12k||Angel Minion MAX +6||Per 10 Koryeo Snails in battle, Troop HP +60
+|-
+|7||14k||Angel Minion MAX +7||Per 10 Koryeo Snails in battle, Troop HP +70
+|-
+|8||16k||Angel Minion MAX +8||Per 10 Koryeo Snails in battle, Troop HP +80 
+|-
+|9||18k||Angel Minion MAX +9||Per 10 Koryeo Snails in battle, Troop HP +90
+|-
+|10||20k||Angel Minion MAX +10||Per 10 Koryeo Snails in battle, Troop HP +100
+|-
+|11||22k||Angel Minion MAX +11||Per 10 Koryeo Snails in battle, Troop HP +110
+|-
+|12||24k||Angel Minion MAX +12||Per 10 Koryeo Snails in battle, Troop HP +120
+|-
+|13||26k||Angel Minion MAX +13||Per 10 Koryeo Snails in battle, Troop HP +130
+|-
+|14||28k||Angel Minion MAX +14||Per 10 Koryeo Snails in battle, Troop HP +140
+|-
+|15||30k||Angel Minion MAX +15||Per 10 Koryeo Snails in battle, Troop HP +150
+|-
+|16||32k||Angel Minion MAX +16||Per 10 Koryeo Snails in battle, Troop HP +160
+|-
+|17||34k||Angel Minion MAX +17||Per 10 Koryeo Snails in battle, Troop HP +170
+|-
+|18||36k||Angel Minion MAX +18||Per 10 Koryeo Snails in battle, Troop HP +180
+|-
+|19||38k||Angel Minion MAX +19||Per 10 Koryeo Snails in battle, Troop HP +190
+|-
+|20||40k||Angel Minion MAX +20||Per 10 Koryeo Snails in battle, Troop HP +200
+|-
+|21||42k||Angel Minion MAX +21||Per 10 Koryeo Snails in battle, Troop HP +210
+|-
+|22||44k||Angel Minion MAX +22||Per 10 Koryeo Snails in battle, Troop HP +220
+|-
+|23||46k||Angel Minion MAX +23||Per 10 Koryeo Snails in battle, Troop HP +230
+|-
+|24|||48k||Angel Minion MAX +24||Per 10 Koryeo Snails in battle, Troop HP +240
+|-
+|25||50k||Angel Minion MAX +25||Per 10 Koryeo Snails in battle, Troop HP +250
+|-
+|26||52k||Angel Minion MAX +26||Per 10 Koryeo Snails in battle, Troop HP +260
+|-
+|27||54k||Angel Minion MAX +27||Per 10 Koryeo Snails in battle, Troop HP +270
+|-
+|28||56k||Angel Minion MAX +28||Per 10 Koryeo Snails in battle, Troop HP +280
+|-
+|29||58k||Angel Minion MAX +29||Per 10 Koryeo Snails in battle, Troop HP +290
+|-
+|30||60k||Angel Minion MAX +30||Per 10 Koryeo Snails in battle, Troop HP +300
+|}
+
+==Research Ability==
+Below is a table of the research manual cost to upgrade each research gene. Kim Chi-yum specializes in '''Angel Genes''' and therefore the research manual cost for the Angel Gene is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|96||100
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+==Minion - Koryeo Snail==
+Children Kim Chi-yum had with her ex. After the breakup, she worked hard to raise the children by herself. Little snails naturally grew up decently.
+
+===Special Ability - Cooking Squad:===
+Per 10 Koryeo Snails in battle, Troop HP +100 (multiplied by minion level)
+
+=== Minion Relics===
+Upgrading these relics will buff your Koryeo Snails!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Portland Vase}}<br>{{relink|Portland Vase}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Klein Bottle}}<br>{{relink|Klein Bottle}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Jade Cup}}<br>{{relink|Jade Cup}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Hannibal's Cup}}<br>{{relink|Hannibal's Cup}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|St. Louisa Goblet}}<br>{{relink|St. Louisa Goblet}}
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4% 
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Lotus Chalice}}<br>{{relink|Lotus Chalice}}
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Fire Chalice}}<br>{{relink|Fire Chalice}}
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Smug's Chalice}}<br>{{relink|Smug's Chalice}}
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|}
+
+[[Category:Partners]]
+[[Category:Koryeo]]
+[[Category:Angel Minions]]
+[[Category:Monday Rent]]
+[[Category:TECH Boost]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Minion HP Boost]]

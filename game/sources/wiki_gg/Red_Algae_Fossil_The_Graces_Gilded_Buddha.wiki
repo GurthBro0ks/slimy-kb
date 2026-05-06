@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=569
+|relics=Red Algae Fossil,The Graces,Gilded Buddha
+|rank=orange
+|amount=3
+|category=self
+|description=Sunny Plant Food gives 1 Green Pistil by +1.6%
+}}

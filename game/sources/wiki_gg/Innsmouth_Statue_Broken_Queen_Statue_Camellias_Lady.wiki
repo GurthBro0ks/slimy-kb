@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=351
+|relics=Innsmouth Statue,Broken Queen Statue,Camellias Lady
+|rank=blue
+|amount=3
+|category=self
+|description=Per 10 Minions in battle: Troop DEF +6
+}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Boy with Apple
+|class_id=22171
+|rank=AA
+|affct=CIV
+|birthday=10-18
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Oct 18, 1932 AD, Gustava and Nada stole Boy with Apple, which was rightfully theirs, and went on their way home.<br>Boy with Apple is a precious oil painting in a certain lady's collection. After she passed away, this painting was given to an old acquaintance, Mr. Gustava, manager of the Great Bodepust Inn, in her will. But Gustava had to go through a lot of trouble to get the painting. He and his doorman, Nada, finally rightfully owned the painting and obtained the right to manage the inn after many wacky experiences such as property disputes, hitman pursuits, and hotel shootouts.
+|fame=49
+|art=39
+|fth=42
+|civ=68
+|tech=30
+|ss1=Angel Minion DEF +2%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +16%
+|ss2=Angel Minion DEF +3%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +24%
+|ss3=Angel Minion DEF +4%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +32%
+|ss4=Angel Minion DEF +6%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +48%
+|ss5=Angel Minion DEF +8%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +64%
+|ss7=Angel Minion DEF +8%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +64%<br>In the Gaia Rocket Cabin:<br>> Domain Holograph Base Effect +56% (Awakened)
+|skill1=[[File:Goldfish skill II.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion RUSH +4.5%
+|skill2=[[File:Goldfish skill II.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion DEF +4.5%
+}}

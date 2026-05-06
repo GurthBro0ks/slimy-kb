@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=675
+|relics=Schmidt Camera,Micrographia
+|rank=purple
+|amount=2
+|category=self
+|description=Per 30 T7+ Angel Minions in battle:Troop HARD Stats +12
+}}

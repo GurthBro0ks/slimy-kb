@@ -1,0 +1,35 @@
+= What is Leadership? =
+
+Leadership increases the number of minions you can deploy in Species War, Minion Sim, etc.  Basically in increases the maximums size of your minion army.  Increasing the size of your minion army is one of the primary ways to become stronger in minion battles.
+
+Leadership is one of the most valuable things to gain in the game when it comes to anything minion related.
+
+== How do I increase my leadership? ==
+
+There are a lot of ways to increase leadership.  Leadership bonuses are scattered throughout the game, and most come in small amounts.  Every small leadership gain adds up so it is recommended you pick up leadership bonuses where ever you can.
+
+* [[:Category:Leadership Boost|Certain Relics and Relic Resonances]]
+* [[Consumables#Wonder_Fungi|Orange Fungi Milestones]]
+* T4, T6, T8 Middle Gene research nodes (presumably even nodes starting at T4 and beyond)
+* Certain Species Map Gene Sequences
+* Bonuses from Certain Red Clone levels in the Fridge / Incubator
+* [[Minion_Sim#PreciousLogRewards-1|Upgrading Orange Minion Sim Tactical Logs]]
+* [[Dorm_Decor#Dorm_Decor_Rating_Bonuses|Dorm Decor Rating Bonuses]] (+10 leadership at some of the milestones)
+* Blue nodes on the right side of the Talent Tree
+* [[Athena]] Partner dorm room upgrades
+* Some Training Courses (under Vet Training in the Species War Affairs)
+* [[Gear#Red-5|Minion Gear (red and beyond)]]
+* [[Minion_Sim#Anomaly_Record|Minion Sim Anomaly Record Bonuses]] (The triangle thing in Sim Core)
+* Hatchery (mainly through relics there)
+
+== What is the difference between Leadership and "Minion MAX"? ==
+
+Leadership is the number of total minions you can field in a minion fight/battle.  Minion MAX is the maximum number of minions you can clone per-minion.
+
+'''For example:'''
+
+:You might have 500 leadership, but only be able to clone 150 of your strongest minion type (for example Chikas).  If you increase your Minion MAX by 10, you would then be able to clone 160 Chikas, but still only be able to field 500 total minions in a battle.
+
+:The opposite is also true. If you had 500 leadership and were only able to clone 150 Chikas, increasing your leaderhip by 10 would mean you can field 510 total minions, but still only be able to clone 150 Chikas.
+
+[[Category:Guides]]

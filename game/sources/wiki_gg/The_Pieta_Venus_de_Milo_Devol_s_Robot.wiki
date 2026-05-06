@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=237
+|relics=The Pieta,Venus de Milo,Devol's Robot
+|rank=orange
+|amount=3
+|category=self
+|description=Angel Gene research Cell cost -4.8%
+}}

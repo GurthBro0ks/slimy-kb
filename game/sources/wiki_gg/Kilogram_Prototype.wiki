@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Kilogram Prototype
+|rank=Blue
+|affct=TECH
+|birthday=01-09
+|source=Lottery Machine (0.03%), Wishing (1.1%), Fungus Chest (2%)
+|description=On Jan 9, 1889, the first world-recognized standard weight system was created.
+
+The standard measurement system was invented on this day which is regarded as an important standardization process of mankind. Composed of platinum and iridium, it has a high density and corrosion resistance. As the technology kept improving, it had been under constant recast until it was no longer used to measure kg.
+|fame=32
+|art=29
+|fth=21
+|civ=28
+|tech=44
+|ss1=Per 200 DNA Strength, Snail DEF +3<br>DNA Strength: 800/800
+|ss2=Per 200 DNA Strength, Snail DEF +3<br>DNA Strength: 1,600/1,600
+|ss3=Per 200 DNA Strength, Snail DEF +3<br>DNA Strength: 2,400/2,400
+|ss4=Per 200 DNA Strength, Snail DEF +3<br>DNA Strength: 4,000/4,000
+|ss7=Per 200 DNA Strength, Snail DEF +3<br>DNA Strength: 4,000/4,000<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Hellas skill I.png|50px]] Place in Hellenic Museum: This Relic's TECH +5
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:TECH Relics]]
+[[Category:Blue TECH Relics]]
+[[Category:DEF Boost]]
+[[Category:DNA Boost]]
+[[Category:Hellas Museum Boost]]
+[[Category:TECH Boost]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Reagent Crafting Boost]]

@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Amarna Letters,Z1 Computer
+|rank=orange
+|amount=2
+|category=self
+|description=Per 3 FAME Relics awakened, Snail DEF +7; FAME Relics Awakened: 180/180
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]

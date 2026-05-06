@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Chemical Bond Theory
+|class_id=22915
+|rank=SSS
+|affct=TECH
+|source=
+|description=The theory of chemical bonds elaborates on the mechanisms of mutual binding between adjacent atoms or ions in molecules or crystals. Based on the electromagnetic interactions between atoms or ions, it involves various types of chemical bonds, including covalent bonds, ionic bonds, and metallic bonds. Interactions between molecules are also considered a part of chemical bonding. The establishment and development of the theory of chemical bonds have not only enriched humanity's knowledge of the composition and structure of matter but have also deepened our understanding of the laws governing matter and its motion.
+|fame=68
+|art=57
+|fth=66
+|civ=62
+|tech=109
+|ss1=Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +12<br>All Mecha Minion Skins, HARD Stats +30%<br>Per 5 TECH Relics awakened, Snail ATK +12<br>TECH Relics Awakened: 100/100
+|ss2=Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +16<br>All Mecha Minion Skins, HARD Stats +40%<br>Per 5 TECH Relics awakened, Snail ATK +16<br>TECH Relics Awakened: 100/100
+|ss3=Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +20<br>All Mecha Minion Skins, HARD Stats +50%<br>Per 5 TECH Relics awakened, Snail ATK +20<br>TECH Relics Awakened: 100/100
+|ss4=Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +28<br>All Mecha Minion Skins, HARD Stats +70%<br>Per 5 TECH Relics awakened, Snail ATK +28<br>TECH Relics Awakened: 100/100
+|ss5=Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +36<br>All Mecha Minion Skins, HARD Stats +90%<br>Per 5 TECH Relics awakened, Snail ATK +36<br>TECH Relics Awakened: 100/100
+|ss6=Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +48<br>All Mecha Minion Skins, HARD Stats +120%<br>Per 5 TECH Relics awakened, Snail ATK +48<br>TECH Relics Awakened: 100/100
+|ss7=Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +48<br>All Mecha Minion Skins, HARD Stats +120%<br>Per 5 TECH Relics awakened, Snail ATK +48<br>TECH Relics Awakened: 100/100<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: Medal Output +30
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's TECH +15
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Card Drops +15%
+|mirage={{Mirage|name=Keystroke Nirvana|reward={{RewardIconWithLink|Super Cultivation Fluid, +2|orange}}
+|3name=dungeon_event@4846_1|3rec=396.92M|3atk=918000|3defense=519651|3hp=233476000|3weak=69011
+|4name=Covalent Bond|4rec=500.13M|4atk=1092353|4defense=612506|4hp=393579288|4weak=75082
+|5name=dungeon_event@4848_1|5rec=657.74M|5atk=1454212|5defense=754934|5hp=634617072|5weak=83287
+|6name=dungeon_event@4849_1|6rec=897.33M|6atk=2205356|6defense=1011898|6hp=1111656167|6weak=93674
+|Arec=1300.05M|Aatk=3319724|Adefense=1405128|Ahp=2017421785|Aweak=106498
+}}}}

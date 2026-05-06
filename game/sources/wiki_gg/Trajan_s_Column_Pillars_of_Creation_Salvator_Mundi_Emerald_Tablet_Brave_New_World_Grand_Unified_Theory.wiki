@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=562
+|relics=Trajan's Column,Pillars of Creation,Salvator Mundi,Emerald Tablet,Brave New World,Grand Unified Theory
+|rank=orange
+|amount=6
+|category=self
+|description=Wormhole Refinement SPD +7.2%
+}}

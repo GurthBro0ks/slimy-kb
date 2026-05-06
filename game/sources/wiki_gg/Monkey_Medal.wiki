@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Monkey Medal
+|class_id=20059
+|rank=Green
+|affct=FAME
+|source=
+|description=The Yunnan Snub-nosed Monkey Conservation Medal is an honorary award established to recognize individuals and organizations that have made outstanding contributions to the conservation of the Yunnan snub-nosed monkey. The medal is instituted by the Yunnan Green Environment Development Foundation with the aim of raising public awareness about this species.
+|fame=30
+|art=15
+|fth=15
+|civ=17
+|tech=13
+|ss1=Snail RUSH +20<br>Per 5 Minions Cloned, Snail ATK +2<br>Minions Cloned: 100/100
+|ss2=Snail RUSH +40<br>Per 5 Minions Cloned, Snail ATK +4<br>Minions Cloned: 100/100
+|ss3=Snail RUSH +60<br>Per 5 Minions Cloned, Snail ATK +6<br>Minions Cloned: 100/100
+|ss4=Snail RUSH +60<br>Per 5 Minions Cloned, Snail ATK +6<br>Minions Cloned: 100/100
+|ss7=Snail RUSH +60<br>Per 5 Minions Cloned, Snail ATK +6<br>Minions Cloned: 100/100<br> (Awakened)
+}}

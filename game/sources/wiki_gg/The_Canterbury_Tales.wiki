@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=The Canterbury Tales
+|class_id=22879
+|rank=SSS
+|affct=CIV
+|source=
+|description=This collection of short stories, totaling over seventy thousand words, presents the multifaceted nature of medieval English society through twenty-four tales told by a group of pilgrims on their journey. From knights to nuns, merchants to scholars, their stories cover a variety of themes including love, adventure, religion, and satire. Chaucer skillfully uses humor and satire, giving the work both literary depth and entertainment value. The novel is not only popular in its native England but has also been translated into multiple languages, spreading worldwide and promoting cultural exchange and understanding.
+|fame=76
+|art=68
+|fth=59
+|civ=109
+|tech=50
+|ss1=Zombie Minion DEF +3%<br>Per 5 CIV Relics awakened, Snail ATK +9<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +72<br>CIV Relics Awakened: 100/100
+|ss2=Zombie Minion DEF +4%<br>Per 5 CIV Relics awakened, Snail ATK +12<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +96<br>CIV Relics Awakened: 100/100
+|ss3=Zombie Minion DEF +5%<br>Per 5 CIV Relics awakened, Snail ATK +15<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +120<br>CIV Relics Awakened: 100/100
+|ss4=Zombie Minion DEF +7%<br>Per 5 CIV Relics awakened, Snail ATK +21<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +168<br>CIV Relics Awakened: 100/100
+|ss5=Zombie Minion DEF +9%<br>Per 5 CIV Relics awakened, Snail ATK +27<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +216<br>CIV Relics Awakened: 100/100
+|ss6=Zombie Minion DEF +12%<br>Per 5 CIV Relics awakened, Snail ATK +36<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +288<br>CIV Relics Awakened: 100/100
+|ss7=Zombie Minion DEF +12%<br>Per 5 CIV Relics awakened, Snail ATK +36<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +288<br>CIV Relics Awakened: 100/100<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: This Relic's CIV +15
+|skill2=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop DEF +9%
+|skill3=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop ATK +9%
+|mirage={{Mirage|name=dungeon@22879_1|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Miller|3rec=194.92M|3atk=521605|3defense=318135|3hp=106066881|3weak=56983
+|4name=Butler|4rec=251.36M|4atk=627860|4defense=388700|4hp=175417577|4weak=62582
+|5name=Chef|5rec=363.05M|5atk=780500|5defense=489180|5hp=302942309|5weak=68619
+|6name=Knight|6rec=508.67M|6atk=981436|6defense=620187|6hp=499932953|6weak=74594
+|Arec=688.09M|Aatk=1240745|Adefense=787488|Ahp=743616254|Aweak=80490
+}}}}

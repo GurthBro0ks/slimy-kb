@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=303
+|relics=Wet Gardener Poster,Gertie the Dinosaur
+|rank=blue
+|amount=2
+|category=self
+|description=Free Gene Speedup (Dragon) +30m
+}}

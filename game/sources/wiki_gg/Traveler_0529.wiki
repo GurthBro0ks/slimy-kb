@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Traveler 0529
+|rank=blue
+|cabin=2
+|id=27
+|gene1={race} RUSH +20
+|gene2={race} CIV +20
+|gene3=Extra RUSH DMG +200
+|gene4=Per 10 Mutant Minions in battle:
+> Troop RUSH +2
+|gene5=Extra RUSH DMG +400
+|}}

@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Basic Digital Axon
+|type=Common
+|rank=blue
+|id=10828
+|idx=29
+|description=The latest product from Super Gene Company—bio-integrated digital components to aid lifeform evolution. Requires a LifeFirewall™ subscription. We are not liable for any virus-related fatalities.
+|skill=
+|hp=1110
+|def=127
+|atk=81
+|rush=99
+|gene1=Snail Arena, Wind DMG +60
+|gene2=Snail Arena, All ELMT RES +20
+|gene3=Snail Arena, DMG REDUC +2%
+|gene7=Snail Arena, DMG REDUC +2% (Awakened)
+|}}

@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Bellum Gallicum
+|rank=Blue
+|affct=FAME
+|birthday=12-10
+|source=Lottery Machine (0.03%), Wishing (1.2%)
+|description=On Dec 10, 52 BC, Caesar wrote the first battlefield report in human history. Caesar compiled 6-year battle experience into an 8-volume, 300,000-word report. He summed up the wars against the Helvetians, the Germanic people, the Britons, and his diplomatic activities in Gaul. Caesar transformed his military achievements into strong political capital by writing them down and paved his way to reach the top of Rome.
+|fame=44
+|art=33
+|fth=29
+|civ=19
+|tech=29
+|ss1=Per Realm conquered, Snail ATK +10<br>Realms Conquered: 8/8
+|ss2=Per Realm conquered, Snail ATK +20<br>Realms Conquered: 8/8
+|ss3=Per Realm conquered, Snail ATK +30<br>Realms Conquered: 8/8
+|ss4=Per Realm conquered, Snail ATK +50<br>Realms Conquered: 8/8
+|ss7=Per Realm conquered, Snail ATK +50<br>Realms Conquered: 8/8<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Hellas skill I.png|50px]] Place in Hellenic Museum: In Hellas, FAME Checks -5
+}}
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:FAME Relics]]
+[[Category:Blue FAME Relics]]
+[[Category:ATK Boost]]
+[[Category:Hellas Exploration Boost]]
+[[Category:Hellas Museum Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Enhanced by Lottery Draws]]

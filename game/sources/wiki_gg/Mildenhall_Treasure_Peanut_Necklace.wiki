@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=598
+|relics=Mildenhall Treasure,Peanut Necklace
+|rank=blue
+|amount=2
+|category=self
+|description=Snail HARD Stats +20
+}}

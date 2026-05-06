@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Narmer Palette,Mysterious Relic
+|rank=orange
+|amount=2
+|category=self
+|description=Per 10 Maneater Pistils Used, Snail ATK +7; Maneater Pistils Used: 400/400
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Maneater Plant]]

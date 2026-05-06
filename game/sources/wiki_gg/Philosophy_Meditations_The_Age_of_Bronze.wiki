@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=757
+|relics=Philosophy Meditations,The Age of Bronze
+|rank=orange
+|amount=2
+|category=self
+|description=Catalyzed Green Spores turn to Blue by +0.7%
+}}

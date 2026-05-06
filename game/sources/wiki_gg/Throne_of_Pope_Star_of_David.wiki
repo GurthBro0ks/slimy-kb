@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=24
+|relics=Throne of Pope,Star of David
+|rank=blue
+|amount=2
+|category=self
+|description=In explorations, 2x Green Reagent Drops +2%
+}}

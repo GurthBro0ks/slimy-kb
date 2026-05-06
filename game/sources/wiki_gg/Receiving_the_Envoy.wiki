@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Receiving the Envoy
+|class_id=22267
+|rank=SSS
+|affct=ART
+|birthday=06-23
+|source=
+|description=On Jun 23, 641 AD, Yan Liben presented his painting "Receiving the Envoy" to Emperor Taizong of Tang upon completing its creation.<br>Receiving the Envoy portrays Emperor Taizong of the Tang Dynasty meeting Lon Tongtsen, who was sent by Songtsan Gampo to escort Princess Wencheng to Tibet to become his queen. The painting is historically and artistically valuable, characterized by its elegant and vivid colors.
+|fame=55
+|art=109
+|fth=72
+|civ=68
+|tech=58
+|ss1=Badge Shop Lottery Ticket Purchase Cap +1<br>Snail ATK +30<br>Per 100 Badges gained, Snail ATK +3<br>Per 100 Badges gained, Snail RUSH +3<br>Badges Gained: 2000/2000
+|ss2=Badge Shop Lottery Ticket Purchase Cap +1<br>Snail ATK +40<br>Per 100 Badges gained, Snail ATK +6<br>Per 100 Badges gained, Snail RUSH +6<br>Badges Gained: 2000/2000
+|ss3=Badge Shop Lottery Ticket Purchase Cap +1<br>Snail ATK +50<br>Per 100 Badges gained, Snail ATK +9<br>Per 100 Badges gained, Snail RUSH +9<br>Badges Gained: 2000/2000
+|ss4=Badge Shop Lottery Ticket Purchase Cap +1<br>Snail ATK +70<br>Per 100 Badges gained, Snail ATK +15<br>Per 100 Badges gained, Snail RUSH +15<br>Badges Gained: 2000/2000
+|ss5=Badge Shop Lottery Ticket Purchase Cap +1<br>Snail ATK +90<br>Per 100 Badges gained, Snail ATK +21<br>Per 100 Badges gained, Snail RUSH +21<br>Badges Gained: 2000/2000
+|ss6=Badge Shop Lottery Ticket Purchase Cap +1<br>Snail ATK +120<br>Per 100 Badges gained, Snail ATK +30<br>Per 100 Badges gained, Snail RUSH +30<br>Badges Gained: 2000/2000
+|ss7=Badge Shop Lottery Ticket Purchase Cap +1<br>Snail ATK +120<br>Per 100 Badges gained, Snail ATK +30<br>Per 100 Badges gained, Snail RUSH +30<br>Badges Gained: 2000/2000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Green Reagent Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +15%
+|mirage={{Mirage|name=National Unity|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Painted Lon Tongtsen|3rec=87.89M|3atk=251141|3defense=167546|3hp=15784738|3weak=32339
+|4name=Painted Ritual Marshal|4rec=119.16M|4atk=317088|4defense=211542|4hp=23262970|4weak=37495
+|5name=Painted Court Maid|5rec=155.82M|5atk=394400|5defense=263120|5hp=33752825|5weak=44190
+|6name=Painted Tang Taizong|6rec=198.17M|6atk=483716|6defense=322706|6hp=47621784|6weak=51696
+|Arec=254.32M|Aatk=586637|Adefense=391369|Ahp=65040441|Aweak=53299
+}}}}

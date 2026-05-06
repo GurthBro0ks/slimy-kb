@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The Ninth Wave
+|class_id=22808
+|rank=SSS
+|affct=ART
+|source=
+|description=The Ninth Wave is a magnificent masterpiece by the famous Russian painter Aivazovsky, vividly depicting the ocean's wonders amidst a storm with powerful and evocative brushstrokes. The painting's intense colors and flowing lines intertwine to form a grand natural symphony, as if placing the viewer amidst the surging waves. It not only showcases exceptional artistic achievement but also embodies endless reverence and praise for nature, leaving viewers enchanted and lingering in its memory.
+|fame=55
+|art=109
+|fth=76
+|civ=66
+|tech=56
+|ss1=Mutant Minion RUSH +3%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +30<br>Per 30 Secret Pacts unlocked, Snail ATK+9<br>600/600 Secret Pact(s) unlocked
+|ss2=Mutant Minion RUSH +4%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +40<br>Per 30 Secret Pacts unlocked, Snail ATK+12<br>600/600 Secret Pact(s) unlocked
+|ss3=Mutant Minion RUSH +5%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +50<br>Per 30 Secret Pacts unlocked, Snail ATK+15<br>600/600 Secret Pact(s) unlocked
+|ss4=Mutant Minion RUSH +7%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +70<br>Per 30 Secret Pacts unlocked, Snail ATK+21<br>600/600 Secret Pact(s) unlocked
+|ss5=Mutant Minion RUSH +9%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +90<br>Per 30 Secret Pacts unlocked, Snail ATK+27<br>600/600 Secret Pact(s) unlocked
+|ss6=Mutant Minion RUSH +12%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 30 Secret Pacts unlocked, Snail ATK+36<br>600/600 Secret Pact(s) unlocked
+|ss7=Mutant Minion RUSH +12%<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +120<br>Per 30 Secret Pacts unlocked, Snail ATK+36<br>600/600 Secret Pact(s) unlocked<br>Per 60 T7+ Minions in battle:<br>> Troop RUSH +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail HP +6000
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's ART +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+}}

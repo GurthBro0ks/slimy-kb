@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Aga Khan Award
+|class_id=22662
+|rank=SSS
+|affct=ART
+|birthday=10-19
+|source=
+|description=On Oct 19, 2019 AD, the 14th Aga Khan Award for Architecture was grandly announced in Russia.<br>The Aga Khan Award for Architecture is a globally renowned accolade established by Aga Khan IV. The award recognizes projects that have made outstanding contributions in the fields of architecture, urban planning, and historic preservation within the Arab world. Emphasizing architecture's role in improving the quality of life and the environment, the Aga Khan Award for Architecture is presented every three years, offering an international platform for architects and planners to showcase and exchange ideas. This award encourages professionals to protect historic architecture, thus creating a better and more sustainable future.
+|fame=55
+|art=106
+|fth=71
+|civ=68
+|tech=62
+|ss1=Snail RUSH +30<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per Dorm Decor gained, Snail RUSH +6<br>Dorm Decor Gained: 40/40
+|ss2=Snail RUSH +40<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per Dorm Decor gained, Snail RUSH +7<br>Dorm Decor Gained: 40/40
+|ss3=Snail RUSH +50<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per Dorm Decor gained, Snail RUSH +8<br>Dorm Decor Gained: 40/40
+|ss4=Snail RUSH +70<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per Dorm Decor gained, Snail RUSH +10<br>Dorm Decor Gained: 40/40
+|ss5=Snail RUSH +90<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per Dorm Decor gained, Snail RUSH +12<br>Dorm Decor Gained: 40/40
+|ss6=Snail RUSH +120<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per Dorm Decor gained, Snail RUSH +15<br>Dorm Decor Gained: 40/40
+|ss7=Snail RUSH +120<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per Dorm Decor gained, Snail RUSH +15<br>Dorm Decor Gained: 40/40<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP Regen +1200
+|skill2=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: This Relic's ART +15
+|skill3=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop ATK +9%
+|mirage={{Mirage|name=Guarding Historical Buildings|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Hasan Fasa|3rec=194.92M|3atk=521605|3defense=318135|3hp=106066881|3weak=56983
+|4name=Buck Rishna|4rec=251.36M|4atk=627860|4defense=388700|4hp=175417577|4weak=45162
+|5name=Calliri|5rec=363.05M|5atk=780500|5defense=489180|5hp=302942309|5weak=68619
+|6name=Bayek|6rec=508.67M|6atk=981436|6defense=620187|6hp=499932953|6weak=74594
+|Arec=688.09M|Aatk=1240745|Adefense=787488|Ahp=743616254|Aweak=80490
+}}}}

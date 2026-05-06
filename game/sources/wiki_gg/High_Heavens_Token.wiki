@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=High Heavens' Token
+|class_id=20288
+|rank=Green
+|affct=FAITH
+|source=
+|description=The High Heavens are the ruler of all angels, and serving by their side is the ultimate glory. Only the purest, most flawless angels who have undergone baptism are qualified to follow them. Accept this token given by the High Heavens and become a divine messenger to serve them! Dedicate your entire being and glory to the High Heavens!
+|fame=13
+|art=17
+|fth=31
+|civ=16
+|tech=14
+|ss1=Angel Minion HARD Stats +0.4%<br>In All Forms, Snail DEF +20
+|ss2=Angel Minion HARD Stats +0.8%<br>In All Forms, Snail DEF +40
+|ss3=Angel Minion HARD Stats +1.2%<br>In All Forms, Snail DEF +60
+|ss4=Angel Minion HARD Stats +1.2%<br>In All Forms, Snail DEF +60
+|ss7=Angel Minion HARD Stats +1.2%<br>In All Forms, Snail DEF +60<br> (Awakened)
+}}

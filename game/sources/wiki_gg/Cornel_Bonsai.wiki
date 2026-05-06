@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Cornel Bonsai
+|class_id=20632
+|rank=Green
+|affct=ART
+|source=
+|description=This unique bonsai made of dogwood is only available during the Double Ninth Festival. Besides being a decorative piece, it also serves to ward off evil spirits and can be broken off to use as a personal accessory when needed!
+|fame=14
+|art=34
+|fth=16
+|civ=17
+|tech=14
+|ss1=Snail ATK +10<br>Per 3 ART Relics gained, Snail DEF +1<br>ART Relics: 60/60
+|ss2=Snail ATK +20<br>Per 3 ART Relics gained, Snail DEF +2<br>ART Relics: 60/60
+|ss3=Snail ATK +30<br>Per 3 ART Relics gained, Snail DEF +3<br>ART Relics: 60/60
+|ss4=Snail ATK +30<br>Per 3 ART Relics gained, Snail DEF +3<br>ART Relics: 60/60
+|ss7=Snail ATK +30<br>Per 3 ART Relics gained, Snail DEF +3<br>ART Relics: 60/60<br> (Awakened)
+}}

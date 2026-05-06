@@ -1,0 +1,46 @@
+{{CargoRelic
+|name=3-Faced Statue
+|rank=SS
+|affct=FTH
+|birthday=04-20
+|source=* Demon Chest (5%), FTH Master Scrolls (9.2%), Fragment Crafting (4.4%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), Wishing (0.16%)
+* [[Indigent Nobleman]] (570k {{RewardIconWithText|B-Tad}})
+|description=On Apr 20, 1663, this once enshrined prehistoric statue was unearthed.
+
+The 3-faced God, a fearless deity who had the audacity to fight against Sakra in ancient times. It was carved from non-local ocher oolitic limestone. 
+
+The statue has three different heads. Here's what the Dirghagama-sutra says about the 3-faced God: Tall, large, with the sun and the moon in two hands, lives under the sea by Mount Meru, three heads, eight arms, strides across mountains and oceans, like a skyscraping pillar that can shake the earth.
+
+|fame=56
+|art=64
+|fth=103
+|civ=55
+|tech=69
+|ss1=Snail HP +200<br>Zombie Gene Research SPD +1.2%<br>Free Gene Speedup (Zombie) +12m
+|ss2=Snail HP +300<br>Zombie Gene Research SPD +1.8%<br>Free Gene Speedup (Zombie) +18m
+|ss3=Snail HP +400<br>Zombie Gene Research SPD +2.4%<br>Free Gene Speedup (Zombie) +24m
+|ss4=Snail HP +600<br>Zombie Gene Research SPD +3.6%<br>Free Gene Speedup (Zombie) +36m
+|ss5=Snail HP +800<br>Zombie Gene Research SPD +4.8%<br>Free Gene Speedup (Zombie) +48m
+|ss6=Snail HP +1,100<br>Zombie Gene Research SPD +6.6%<br>Free Gene Speedup (Zombie) +1h 6m
+|ss7=Snail HP +1,100<br>Zombie Gene Research SPD +6.6%<br>Free Gene Speedup (Zombie) +1h 6m<br>Free Gene Speedup (Zombie) +1h
+|skill1={{Skills|bharata|btad drops|15}}
+|skill2={{Skills|bharata|intel|15}}
+|skill3={{Skills|quarry|fth|15}}
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:Zombie Gene Speedup Boost]]
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Quarry Skill]]
+[[Category:FTH Boost]]
+[[Category:Reagent Crafting Boost]]
+[[Category:Divine Dragon Descents Boost]]
+[[Category:DEF Boost]]
+[[Category:Rewards Organs]]
+[[Category:Catcolyte Boost]]
+[[Category:Roachikun Boost]]
+[[Category:Indigent Nobleman Relics]]

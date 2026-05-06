@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=533
+|relics=Stockholm Declaration,Last Self Portrait,Tao Te Ching
+|rank=orange
+|amount=3
+|category=self
+|description=In the Rebel Rocket Cabin: Dark Matter Reactor Base Effect +64%
+}}

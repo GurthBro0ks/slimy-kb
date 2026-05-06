@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Epic of Gilgamesh
+|rank=SS
+|affct=CIV
+|birthday=05-06
+|source=Dragon Chest (5%), Fragment Crafting (4.1%), Grandmaster Scrolls (1.5%), Lottery Machine (0.18%), Wishing (0.15%)
+|description=On May 6, 1850 AD, this epic poem was found in the tomb of Ashurbanipal in Nineveh, the ancient capital of Assyria.
+More than 3000 years ago, the Epic of Gilgamesh was written on 11 clay slabs with a total of 3600 lines. It tells the story of the friendship between King Gilgamesh of Uruk and his friend Enkidu. One of the famous parts of the poem tells the story of Ea, the water god, who wants to destroy mankind with a flood. This story is also known as Mesopotamian Noah's Ark.
+
+[Excerpts]
+
+As for you, Gilgamesh, let your belly be full, Make merry day and night. Of each day make a feast of rejoicing. Let your clothes be fresh, Day and night, dance and play! Bathe yourself in water, cherish the little child that holds your hand, and make your wife happy in your embrace; for this too is the lot of man.
+|fame=57
+|art=58
+|fth=66
+|civ=103
+|tech=63
+|ss1=Quarry upgrade Wood Cost -2%<br>Quarry upgrade Stone Cost -2%<br>Quarry upgrade B-tad Cost -2%
+|ss2=Quarry upgrade Wood Cost -3%<br>Quarry upgrade Stone Cost -3%<br>Quarry upgrade B-tad Cost -3%
+|ss3=Quarry upgrade Wood Cost -4%<br>Quarry upgrade Stone Cost -4%<br>Quarry upgrade B-tad Cost -4%
+|ss4=Quarry upgrade Wood Cost -6%<br>Quarry upgrade Stone Cost -6%<br>Quarry upgrade B-tad Cost -6%
+|ss5=Quarry upgrade Wood Cost -8%<br>Quarry upgrade Stone Cost -8%<br>Quarry upgrade B-tad Cost -8%
+|ss6=Quarry upgrade Wood Cost -11%<br>Quarry upgrade Stone Cost -11%<br>Quarry upgrade B-tad Cost -11%
+|ss7=Quarry upgrade Wood Cost -11%<br>Quarry upgrade Stone Cost -11%<br>Quarry upgrade B-tad Cost -11%<br>Tadpole Pond upgrade Stone Cost -10% (Awakened)
+|skill1=[[File:Arena skill III.png|frameless|50x50px]]Place in Snail Arena Compass: In Snail Arena, Snail HP +6,000
+|skill2=[[File:Arena skill III.png|frameless|50x50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +600
+|skill3=[[File:Genesim skill III.png|frameless|50x50px]]Place in Gene Sim Device: Snail HP +6,000
+
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Quarry Upgrade Cost Reduction]]
+[[Category:Tadpole Pond Upgrade Cost Reduction]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:Gear Boost]]
+[[Category:RUSH Boost]]
+[[Category:Rewards Organs]]

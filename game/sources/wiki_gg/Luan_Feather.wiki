@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Luan Feather
+|class_id=21735
+|rank=SSS
+|affct=FAITH
+|source=
+|description=Luan is a legendary phoenix known for its flamboyant cyan feathers and formidable power. It serves as the messenger for the Queen Mother of the West. However, one day it vanished, leaving behind only a feather. According to the myth, Luan followed its partner who failed in the divine tribulation and dissipated in the void.
+|fame=66
+|art=57
+|fth=108
+|civ=71
+|tech=60
+|ss1=Offering Egg hatching rate +3%<br>Per 10 Offering Eggs hatched, Snail ATK +3<br>Per 10 Offering Eggs hatched, Snail RUSH +3<br>400/400 Offering Eggs hatched
+|ss2=Offering Egg hatching rate +4%<br>Per 10 Offering Eggs hatched, Snail ATK +4<br>Per 10 Offering Eggs hatched, Snail RUSH +4<br>400/400 Offering Eggs hatched
+|ss3=Offering Egg hatching rate +5%<br>Per 10 Offering Eggs hatched, Snail ATK +5<br>Per 10 Offering Eggs hatched, Snail RUSH +5<br>400/400 Offering Eggs hatched
+|ss4=Offering Egg hatching rate +7%<br>Per 10 Offering Eggs hatched, Snail ATK +7<br>Per 10 Offering Eggs hatched, Snail RUSH +7<br>400/400 Offering Eggs hatched
+|ss5=Offering Egg hatching rate +9%<br>Per 10 Offering Eggs hatched, Snail ATK +9<br>Per 10 Offering Eggs hatched, Snail RUSH +9<br>400/400 Offering Eggs hatched
+|ss6=Offering Egg hatching rate +12%<br>Per 10 Offering Eggs hatched, Snail ATK +12<br>Per 10 Offering Eggs hatched, Snail RUSH +12<br>400/400 Offering Eggs hatched
+|ss7=Offering Egg hatching rate +12%<br>Per 10 Offering Eggs hatched, Snail ATK +12<br>Per 10 Offering Eggs hatched, Snail RUSH +12<br>400/400 Offering Eggs hatched<br>Offering Egg hatching rate +10% (Awakened)
+|skill1=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: Offering Egg hatching efficiency +30%
+|skill2=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: Blue rewards from this egg turn Purple by 6%
+|skill3=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: This Relic's FTH +15
+|mirage={{Mirage|name=Ground Covered with Chicken Feathers|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Native Chicken Feather|3rec=89.33M|3atk=254183|3defense=169575|3hp=15996148|3weak=32580
+|4name=Turkey Feather|4rec=121.25M|4atk=321490|4defense=214479|4hp=23974809|4weak=37833
+|5name=Silkie Fowl Feather|5rec=158.85M|5atk=400802|5defense=267391|5hp=34872135|5weak=44835
+|6name=Golden Fowl Feather|6rec=202.78M|6atk=493434|6defense=329189|6hp=48741366|6weak=52447
+|Arec=263.65M|Aatk=599214|Adefense=399759|Ahp=67341230|Aweak=53352
+}}}}

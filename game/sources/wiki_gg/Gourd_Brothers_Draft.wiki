@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Gourd Brothers Draft
+|class_id=20952
+|rank=Green
+|affct=FAME
+|source=
+|description=These slightly yellowed manuscripts are the original drawings created by the older generation of animators during the initial production period of the Gourd Brothers animated series. Engraved with their love for animation, these drawings are priceless treasures.
+|fame=31
+|art=17
+|fth=15
+|civ=15
+|tech=12
+|ss1=Snail DEF +20<br>Per Incense used, Snail ATK +1<br>Incense Used: 40/40
+|ss2=Snail DEF +40<br>Per Incense used, Snail ATK +2<br>Incense Used: 40/40
+|ss3=Snail DEF +60<br>Per Incense used, Snail ATK +3<br>Incense Used: 40/40
+|ss4=Snail DEF +60<br>Per Incense used, Snail ATK +3<br>Incense Used: 40/40
+|ss7=Snail DEF +60<br>Per Incense used, Snail ATK +3<br>Incense Used: 40/40<br> (Awakened)
+}}

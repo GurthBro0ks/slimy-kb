@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Birdwatching Scope
+|class_id=20360
+|rank=Green
+|affct=TECH
+|source=
+|description=This scope is designed specifically for birdwatchers, with excellent touch and high precision, making it easier to locate birds. The lens is strictly controlled and can see through bird camouflage up to 100 meters away. However, its image quality is poor at short distances.
+|fame=14
+|art=17
+|fth=15
+|civ=13
+|tech=31
+|ss1=Snail RUSH +10
+|ss2=Snail RUSH +20
+|ss3=Snail RUSH +30
+|ss4=Snail RUSH +30
+|ss7=Snail RUSH +30<br> (Awakened)
+}}

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Alexandria Model
+|class_id=21341
+|rank=SSS
+|affct=CIV
+|source=
+|description=The Alexandria Model is primarily based on the structural design of the ancient Alexandria Museum. The Alexandria Museum, built in the third century BC in Alexandria, Egypt, by Ptolemy I Soter, is the world's first museum. It was not only a center for academic research and cultural exchange but also an important venue for the dissemination of ancient Greek culture. The core building of the museum was the Temple of the Muses, which is the origin of the word "museum" in Western languages. Additionally, the museum housed a library, research institutes, and other facilities, containing a large collection of valuable cultural and scientific items, such as philosopher statues, manuscripts, astronomical instruments, and surgical tools.
+|fame=71
+|art=68
+|fth=64
+|civ=110
+|tech=49
+|ss1=All Museum B-tad output +120<br>All Museum Promo effect +3%<br>Per 5 Orange Museum Promos, Snail ATK +15<br>Orange Museum Promos: 50/50
+|ss2=All Museum B-tad output +160<br>All Museum Promo effect +4%<br>Per 5 Orange Museum Promos, Snail ATK +20<br>Orange Museum Promos: 50/50
+|ss3=All Museum B-tad output +200<br>All Museum Promo effect +5%<br>Per 5 Orange Museum Promos, Snail ATK +25<br>Orange Museum Promos: 50/50
+|ss4=All Museum B-tad output +280<br>All Museum Promo effect +7%<br>Per 5 Orange Museum Promos, Snail ATK +35<br>Orange Museum Promos: 50/50
+|ss5=All Museum B-tad output +360<br>All Museum Promo effect +9%<br>Per 5 Orange Museum Promos, Snail ATK +45<br>Orange Museum Promos: 50/50
+|ss6=All Museum B-tad output +480<br>All Museum Promo effect +12%<br>Per 5 Orange Museum Promos, Snail ATK +60<br>Orange Museum Promos: 50/50
+|ss7=All Museum B-tad output +480<br>All Museum Promo effect +12%<br>Per 5 Orange Museum Promos, Snail ATK +60<br>Orange Museum Promos: 50/50<br>All Museum Promo effect +10% (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: This Relic's CIV +15
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: Medal Output +30
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, 2x Orange Reagent Drops +15%
+|mirage={{Mirage|name=Museum Adventure|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Night Watch Guard|3rec=9.63M|3atk=80854|3defense=53319|3hp=1641414|3weak=15844
+|4name=Attila Statue|4rec=16.93M|4atk=109119|4defense=71958|4hp=2735330|4weak=18943
+|5name=Mini Cowboy|5rec=35.59M|5atk=142504|5defense=93974|5hp=4487307|5weak=23598
+|6name=T-Rex Fossil|6rec=54.22M|6atk=182234|6defense=120173|6hp=6845478|6weak=29337
+|Arec=76.15M|Aatk=229022|Adefense=151027|Ahp=10440502|Aweak=33035
+}}}}

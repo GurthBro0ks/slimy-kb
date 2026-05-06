@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Celestial Throne
+|class_id=22298
+|rank=SSS
+|affct=FAITH
+|birthday=07-06
+|source=Lottery Machine No.2 (0.11%)
+|description=On Jul 6, 118 AD, when Monkey King wrecked the Heavenly Palace, Jade Emperor had to leave this seat for safety!<br>The Hall of Miraculous Mist is the main heavenly palace where Jade Emperor receives the immortal ministers. The throne in it is a symbol of the dominion of the Supreme Heavenly Sage, but Monkey King once took the throne, leaving the saying, Kings throughout history have had to pass on their power!
+|fame=62
+|art=75
+|fth=106
+|civ=54
+|tech=65
+|ss1=Dragon Minion RUSH +3%<br>Per 5 Home Comfort, Snail ATK +18<br>Per 5 Home Comfort, Snail RUSH +18<br>Home Comfort: 50/50
+|ss2=Dragon Minion RUSH +4%<br>Per 5 Home Comfort, Snail ATK +24<br>Per 5 Home Comfort, Snail RUSH +24<br>Home Comfort: 50/50
+|ss3=Dragon Minion RUSH +5%<br>Per 5 Home Comfort, Snail ATK +30<br>Per 5 Home Comfort, Snail RUSH +30<br>Home Comfort: 50/50
+|ss4=Dragon Minion RUSH +7%<br>Per 5 Home Comfort, Snail ATK +42<br>Per 5 Home Comfort, Snail RUSH +42<br>Home Comfort: 50/50
+|ss5=Dragon Minion RUSH +9%<br>Per 5 Home Comfort, Snail ATK +54<br>Per 5 Home Comfort, Snail RUSH +54<br>Home Comfort: 50/50
+|ss6=Dragon Minion RUSH +12%<br>Per 5 Home Comfort, Snail ATK +72<br>Per 5 Home Comfort, Snail RUSH +72<br>Home Comfort: 50/50
+|ss7=Dragon Minion RUSH +12%<br>Per 5 Home Comfort, Snail ATK +72<br>Per 5 Home Comfort, Snail RUSH +72<br>Home Comfort: 50/50<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: Medal Output +30
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+|mirage={{Mirage|name=Three-Realm Prime|reward={{RewardIconWithLink|Incense, +3|orange}}
+|3name=Lord Erlang|3rec=92.97M|3atk=261866|3defense=174701|3hp=16774576|3weak=33184
+|4name=Prime of Taoism|4rec=127.20M|4atk=334055|4defense=222861|4hp=25388611|4weak=38721
+|5name=Mother Empress|5rec=167.24M|5atk=418489|5defense=279191|5hp=37588845|5weak=46389
+|6name=Jade Emperor|6rec=214.62M|6atk=518410|6defense=345852|6hp=53361144|6weak=53014
+|Arec=286.97M|Aatk=630655|Adefense=420735|Ahp=73631751|Aweak=53482
+}}}}

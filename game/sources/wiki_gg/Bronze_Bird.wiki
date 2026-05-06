@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Bronze Bird
+|class_id=20903
+|rank=Blue
+|affct=FAME
+|birthday=10-15
+|source=
+|description=On Oct 15, 212 AD, Minister Cao Cao built the Bronze Lark Terrace as a Bronze Larks was found in Chang'an.<br>After Cao Cao wiped out the Yuan brothers, he saw a golden light rising from the ground in Yecheng and found a Bronze Lark. He then ordered the construction of the Bronze Lark Terrace on Zhangshui to demonstrate his ability to rule the world. The building is 27-foot high, with a 10-foot high platform and five 15-foot high floors. The windows are decorated with copper and reflect light at sunrise. It was said that Cao Cao triggered the Battle of Red Cliffs as he wanted to keep Qiao Sisters in the Bronze Lark Terrace.
+[Poems of the Bronze Lark]
+Zhang Zhengjian, "The desolate bronze lark is late, as it flies down the Tiantong Tomb."
+Du Mu, "Had the east wind turned its back on Zhou Yu, the Bronze Lark Terrace would've had both beauties forever."
+|fame=44
+|art=24
+|fth=33
+|civ=24
+|tech=29
+|ss1=Snail RUSH +10<br>If you made an in-app purchase, Travel SPD +0.4%
+|ss2=Snail RUSH +20<br>If you made an in-app purchase, Travel SPD +0.8%
+|ss3=Snail RUSH +30<br>If you made an in-app purchase, Travel SPD +1.2%
+|ss4=Snail RUSH +50<br>If you made an in-app purchase, Travel SPD +2%
+|ss7=Snail RUSH +50<br>If you made an in-app purchase, Travel SPD +2%<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Cathay skill I.png|50px]]Place in Cathay Museum: In Cathay, FAME Checks -5
+}}

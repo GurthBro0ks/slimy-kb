@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Runes
+|class_id=22149
+|rank=A
+|affct=FAITH
+|birthday=02-01
+|source=Lottery Machine No.2 (0.55%), Wishing (0.15%)
+|description=On Feb 1, 1564 BC, the god Odin gifted the language of Runic to mankind.<br>Legend has it that the Runic language was gifted by the god Odin. In search of wisdom, he hung himself upside down on a tree for nine days. After that, he exchanged his right eye for the approval of Mimir and drank from the mythical spring of wisdom, thereby obtaining the secrets of the Runes, which he passed on for the benefit of all mankind.
+|fame=34
+|art=44
+|fth=64
+|civ=29
+|tech=42
+|ss1=Snail ATK +10<br>Per 5 FTH Relics awakened, Snail HP +20<br>FTH Relics Awakened: 100/100
+|ss2=Snail ATK +20<br>Per 5 FTH Relics awakened, Snail HP +40<br>FTH Relics Awakened: 100/100
+|ss3=Snail ATK +30<br>Per 5 FTH Relics awakened, Snail HP +60<br>FTH Relics Awakened: 100/100
+|ss4=Snail ATK +50<br>Per 5 FTH Relics awakened, Snail HP +100<br>FTH Relics Awakened: 100/100
+|ss5=Snail ATK +70<br>Per 5 FTH Relics awakened, Snail HP +140<br>FTH Relics Awakened: 100/100
+|ss7=Snail ATK +70<br>Per 5 FTH Relics awakened, Snail HP +140<br>FTH Relics Awakened: 100/100<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, FTH Checks -10
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, food consumed -2%
+}}

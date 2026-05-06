@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Codex Draconis
+|class_id=22779
+|rank=SSS
+|affct=FAME
+|source=
+|description=The living legacy of dragonkind - binding their origin myths, elemental mastery, and ancient pacts. Only a worthy heir may unlock its veiled wisdom.
+|fame=108
+|art=68
+|fth=50
+|civ=64
+|tech=72
+|ss1=Snail Leadership +3<br>Dragon Minion Recovery SPD +6%<br>Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Snail Leadership +4<br>Dragon Minion Recovery SPD +8%<br>Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Snail Leadership +5<br>Dragon Minion Recovery SPD +10%<br>Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Snail Leadership +7<br>Dragon Minion Recovery SPD +14%<br>Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Snail Leadership +9<br>Dragon Minion Recovery SPD +18%<br>Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Snail Leadership +12<br>Dragon Minion Recovery SPD +24%<br>Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Snail Leadership +12<br>Dragon Minion Recovery SPD +24%<br>Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +30<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail HP +6000
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+}}

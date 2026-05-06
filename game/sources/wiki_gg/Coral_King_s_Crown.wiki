@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Coral King's Crown
+|type=Bionic
+|rank=orange
+|id=10681
+|idx=39
+|description=This soft, gentle-looking mane conceals millions of micro-worms. Lifeforms that touch it vanish without a trace — not even the scent of blood remains…
+|skill=After being hit, receive the protection of the Coral King, restoring 8.4% of Max HP!
+|hp=3054
+|def=166
+|atk=187
+|rush=186
+|gene1=In Gene Sims, Lifesteal Rate +30%
+|gene2=Per 200 Lotteries drawn, {race} HP +50
+Lotteries Drawn: 10000/10000
+|gene3=Earth RES +90
+|gene4=Per 200 Lotteries drawn, {race} DEF +5
+Lotteries Drawn: 10000/10000
+|gene5=Lifesteal Effect +15%
+|gene7=Lifesteal Effect +15% (Awakened)
+|}}

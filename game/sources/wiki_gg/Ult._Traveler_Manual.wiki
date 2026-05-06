@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Ult. Traveler Manual
+|class_id=22731
+|rank=SSS
+|affct=CIV
+|birthday=12-15
+|source=
+|description=On Dec 15, 2021 AD, several travelers solemnly pledged to record all their research results without reservation.<br>This handbook is not written by Earth's Will but instead, jointly written by some powerful travelers. They have found that their growth has reached a bottleneck, and to continue to grow stronger, they may have to touch upon what's forbidden by Earth's Will. Because this path is too dangerous, and one might die easily, they recorded their exploration results, hoping to provide some reference for subsequent travelers.
+|fame=72
+|art=67
+|fth=64
+|civ=106
+|tech=48
+|ss1=In Domain Wars, DMG to Earth's Will +1000%<br>Per 10 Protomon gained, Snail ATK +3<br>Per 10 Protomon gained, Snail DEF +3<br>Protomon Gained: 600/600
+|ss2=In Domain Wars, DMG to Earth's Will +2000%<br>Per 10 Protomon gained, Snail ATK +4<br>Per 10 Protomon gained, Snail DEF +4<br>Protomon Gained: 600/600
+|ss3=In Domain Wars, DMG to Earth's Will +3000%<br>Per 10 Protomon gained, Snail ATK +5<br>Per 10 Protomon gained, Snail DEF +5<br>Protomon Gained: 600/600
+|ss4=In Domain Wars, DMG to Earth's Will +5000%<br>Per 10 Protomon gained, Snail ATK +7<br>Per 10 Protomon gained, Snail DEF +7<br>Protomon Gained: 600/600
+|ss5=In Domain Wars, DMG to Earth's Will +7000%<br>Per 10 Protomon gained, Snail ATK +9<br>Per 10 Protomon gained, Snail DEF +9<br>Protomon Gained: 600/600
+|ss6=In Domain Wars, DMG to Earth's Will +10000%<br>Per 10 Protomon gained, Snail ATK +12<br>Per 10 Protomon gained, Snail DEF +12<br>Protomon Gained: 600/600
+|ss7=In Domain Wars, DMG to Earth's Will +10000%<br>Per 10 Protomon gained, Snail ATK +12<br>Per 10 Protomon gained, Snail DEF +12<br>Protomon Gained: 600/600<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, DMG REDUC +15%
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, CRIT DMG +30%
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: This Relic's CIV +15
+|mirage={{Mirage|name=Strongest Traveler|reward={{RewardIconWithLink|Super Memetic Chest, +100|orange}}
+|3name=Ult. Mantis Shrimp|3rec=163.63M|3atk=441895|3defense=274109|3hp=28786050|3weak=40024
+|4name=Ult. Immortal Jellyfish|4rec=228.56M|4atk=601988|4defense=365467|4hp=53700916|4weak=48162
+|5name=Ult. Pangolin|5rec=331.27M|5atk=773984|5defense=460590|5hp=85449849|5weak=52772
+|6name=Ult. Cyclops|6rec=445.63M|6atk=965445|6defense=563479|6hp=137065137|6weak=57575
+|Arec=594.93M|Aatk=1240496|Adefense=697790|Ahp=274702625|Aweak=64621
+}}}}

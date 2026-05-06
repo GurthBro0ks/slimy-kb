@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=345
+|relics=Swan Neck Flask,Grignard Reagent
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Mecha Minions in battle: Troop HP +50
+}}

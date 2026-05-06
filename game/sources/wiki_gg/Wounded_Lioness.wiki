@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Wounded Lioness
+|class_id=22702
+|rank=S
+|affct=CIV
+|birthday=10-06
+|source=Lottery Machine No.3 (1.62%)
+|description=On Oct 6, 668 BC, the Assyrian king ordered someone to carve his own lion hunting deeds on the palace wall.<br>Wounded Lioness is part of a description of a hunting scene of the Assyrian king, in which several wounded lions are realistically carved by the sculptor, one of which is a lioness with three arrows in her body, with blood flowing, still struggling in her final moments. In the statue, the lioness's struggle and roar are vividly depicted, with images of pain and rage that give people a sense of tragic beauty. It is the most cherished realism masterpiece in ancient Assyrian art.
+|fame=68
+|art=61
+|fth=57
+|civ=97
+|tech=49
+|ss1=Mutant Minion DEF +1%<br>Per devotee appointed, Snail ATK +1<br>Per devotee appointed, Snail DEF +1<br>Devotee Appointed: 50/50
+|ss2=Mutant Minion DEF +2%<br>Per devotee appointed, Snail ATK +2<br>Per devotee appointed, Snail DEF +2<br>Devotee Appointed: 50/50
+|ss3=Mutant Minion DEF +3%<br>Per devotee appointed, Snail ATK +3<br>Per devotee appointed, Snail DEF +3<br>Devotee Appointed: 50/50
+|ss4=Mutant Minion DEF +5%<br>Per devotee appointed, Snail ATK +5<br>Per devotee appointed, Snail DEF +5<br>Devotee Appointed: 50/50
+|ss5=Mutant Minion DEF +7%<br>Per devotee appointed, Snail ATK +7<br>Per devotee appointed, Snail DEF +7<br>Devotee Appointed: 50/50
+|ss6=Mutant Minion DEF +10%<br>Per devotee appointed, Snail ATK +10<br>Per devotee appointed, Snail DEF +10<br>Devotee Appointed: 50/50
+|ss7=Mutant Minion DEF +10%<br>Per devotee appointed, Snail ATK +10<br>Per devotee appointed, Snail DEF +10<br>Devotee Appointed: 50/50<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Generate Time Chests by +30%
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's CIV +15
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP Regen +1200
+|mirage={{Mirage|name=Assyrian Memories|reward={{RewardIconWithLink|Recruit Token, +10|orange}}
+|3name=Hunter|3rec=107.21M|3atk=308751|3defense=194739|3hp=16215037|3weak=35235
+|4name=Lion|4rec=143.68M|4atk=394101|4defense=246049|4hp=23880685|4weak=38505
+|Arec=203.79M|Aatk=537920|Adefense=330615|Ahp=40955116|Aweak=44046
+}}}}

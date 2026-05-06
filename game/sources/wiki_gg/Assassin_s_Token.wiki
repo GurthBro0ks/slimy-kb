@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Assassin's Token
+|class_id=20450
+|rank=Green
+|affct=FAME
+|source=
+|description=The signature token of the most powerful assassin organization in the world with the logo engraved on it. Possessed only by a handful of elite assassins, it not only symbolizes the holder's status, but also represents its power and might. However, it can bring trouble sometimes.
+|fame=28
+|art=13
+|fth=18
+|civ=15
+|tech=15
+|ss1=Per Agent defeated, Snail ATK +2<br>Agents Defeated: 30/30
+|ss2=Per Agent defeated, Snail ATK +4<br>Agents Defeated: 30/30
+|ss3=Per Agent defeated, Snail ATK +6<br>Agents Defeated: 30/30
+|ss4=Per Agent defeated, Snail ATK +6<br>Agents Defeated: 30/30
+|ss7=Per Agent defeated, Snail ATK +6<br>Agents Defeated: 30/30<br> (Awakened)
+}}

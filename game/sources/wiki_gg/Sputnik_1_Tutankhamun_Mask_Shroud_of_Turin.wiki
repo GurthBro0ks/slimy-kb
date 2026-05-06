@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Sputnik 1,Tutankhamun Mask,Shroud of Turin
+|rank=orange
+|amount=3
+|category=other
+|description=When crafting a Purple Reagent, +8% to get +1
+}}
+[[Category:Other]]

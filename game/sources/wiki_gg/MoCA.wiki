@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=MoCA
+|class_id=22343
+|rank=SSS
+|affct=TECH
+|birthday=08-10
+|source=Lottery Machine No.2 (0.11%)
+|description=In 2004, Ziad Nasreddine developed Montreal Cognitive Assessment (MoCA) based on his clinical experience.<br>MoCA is widely used for detecting cognitive impairment and is a must-have tool for Alzheimer's treatment, which includes eight cognitive domains and eleven examinations. It is very suitable for clinical application because its high sensitivity and short testing time can help locate the patient cognition state shortly.
+|fame=65
+|art=57
+|fth=77
+|civ=56
+|tech=107
+|ss1=All Minion DEF +0.6%<br>Mecha Minion RUSH +3%<br>Per 5 Mecha Gene LVLs, Snail DEF +9<br>Mecha Gene LVLs Researched: 150/150
+|ss2=All Minion DEF +0.8%<br>Mecha Minion RUSH +4%<br>Per 5 Mecha Gene LVLs, Snail DEF +10<br>Mecha Gene LVLs Researched: 150/150
+|ss3=All Minion DEF +1%<br>Mecha Minion RUSH +5%<br>Per 5 Mecha Gene LVLs, Snail DEF +11<br>Mecha Gene LVLs Researched: 150/150
+|ss4=All Minion DEF +1.4%<br>Mecha Minion RUSH +7%<br>Per 5 Mecha Gene LVLs, Snail DEF +13<br>Mecha Gene LVLs Researched: 150/150
+|ss5=All Minion DEF +1.8%<br>Mecha Minion RUSH +9%<br>Per 5 Mecha Gene LVLs, Snail DEF +15<br>Mecha Gene LVLs Researched: 150/150
+|ss6=All Minion DEF +2.4%<br>Mecha Minion RUSH +12%<br>Per 5 Mecha Gene LVLs, Snail DEF +18<br>Mecha Gene LVLs Researched: 150/150
+|ss7=All Minion DEF +2.4%<br>Mecha Minion RUSH +12%<br>Per 5 Mecha Gene LVLs, Snail DEF +18<br>Mecha Gene LVLs Researched: 150/150<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|mirage={{Mirage|name=Trapped In Time|reward={{RewardIconWithLink|MD's Briefcase, +2|orange}}
+|3name=Reagan|3rec=51.71M|3atk=174859|3defense=116655|3hp=8374480|3weak=22062
+|4name=Thatcher|4rec=62.82M|4atk=198274|4defense=132276|4hp=10442659|4weak=25143
+|5name=Marquez|5rec=74.45M|5atk=222810|5defense=148645|5hp=12807749|5weak=29674
+|6name=Hayworth|6rec=86.91M|6atk=249083|6defense=166173|6hp=15612799|6weak=32161
+|Arec=100.41M|Aatk=277552|Adefense=185166|Ahp=18805667|Aweak=34558
+}}}}

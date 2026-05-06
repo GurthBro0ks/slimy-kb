@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Dark Matter's Heart
+|type=Common
+|rank=purple
+|id=10841
+|idx=46
+|description="Dark matter accounts for 85% of the total mass weight and 26.8% of the total mass-energy of the universe."
+—BSBN Observation Report
+|skill=
+|hp=1342
+|def=127
+|atk=139
+|rush=231
+|gene1=In explorations, Demon God Cells collected +4%
+|gene2=In explorations, Mutant Cells gained +4%
+|gene3=Gaia Cabin Output +5%
+|gene4={race} HP +80 per Cell Furnace level-up
+Cell Furnace LVL upgraded: 20/20
+|gene7=Gaia Cabin Output +10% (Awakened)
+|}}

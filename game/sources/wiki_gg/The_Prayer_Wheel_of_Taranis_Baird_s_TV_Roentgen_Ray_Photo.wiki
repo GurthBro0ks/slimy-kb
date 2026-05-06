@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Prayer,Wheel of Taranis,Baird's TV,Roentgen Ray Photo
+|rank=blue
+|amount=4
+|category=Card Conversion Boost
+|description=When converting cards in Species Wars, B-tads gained +7%
+}}
+[[Category:Card Conversion Boost]]

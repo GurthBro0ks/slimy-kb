@@ -1,0 +1,104 @@
+Collect stamps in Weekly Event for rewards!
+
+==How to Get==
+Stamps will be cleared at the end of this event!
+*Per {{RewardIconWithText|Spirit Crystal}} obtained, {{RewardIconWithLink|Weekly Special Stamp}} +1
+*Per {{RewardIconWithText|Carnival Balloon}} obtained, {{RewardIconWithLink|Weekly Special Stamp}} +1
+*Per {{RewardIconWithText|Mystery Ash}} obtained, {{RewardIconWithLink|Weekly Special Stamp}} +1
+
+==Special Reward==
+Basic is free, Ultimate is $14.99
+
+{|class="wikitable mw-collapsible"
+!{{RewardIconWithLink|Weekly Special Stamp}}s
+!Basic
+!Ultimate
+|-
+|999 
+|{{RewardIconWithLink|Quantum Gel, +100}}
+|{{RewardIconWithLink|Quantum Gel, +200}}
+|-
+|1,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|Police Chan-hee(Avatar)<br>{{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|-
+|2,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithLink|Wish Coin, +2|orange}}
+|-
+|3,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithText|Offering Speedup, +8h}}
+|-
+|3,999
+|{{RewardIconWithLink|Quantum Gel, +100}}
+|{{RewardIconWithLink|Quantum Gel, +200}}
+|-
+|4,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithLink|Relic RF, +10|orange}}<br>{{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|-
+|5,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithLink|Wish Coin, +2|orange}}
+|-
+|6,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithText|Offering Speedup, +8h}}
+|-
+|6,999
+|{{RewardIconWithLink|Quantum Gel, +100}}
+|{{RewardIconWithLink|Quantum Gel, +200}}
+|-
+|7,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithLink|Singularity Crystal, +1|orange}}<br>{{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|-
+|8,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithLink|Wish Coin, +2|orange}}
+|-
+|9,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithText|Offering Speedup, +8h}}
+|-
+|9,999
+|{{RewardIconWithLink|Quantum Gel, +100}}
+|{{RewardIconWithLink|Quantum Gel, +200}}
+|-
+|10,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithLink|Relic RF, +20|orange}}<br>{{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|-
+|11,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithLink|Wish Coin, +2|orange}}
+|-
+|12,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithText|Offering Speedup, +8h}}
+|-
+|12,999
+|{{RewardIconWithLink|Quantum Gel, +100}}
+|{{RewardIconWithLink|Quantum Gel, +200}}
+|-
+|13,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithLink|Singularity Crystal, +1|orange}}<br>{{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|-
+|14,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithLink|Wish Coin, +2|orange}}
+|-
+|15,000
+|{{RewardIconWithLink|Nebula Chest, +100}}
+|{{RewardIconWithText|Offering Speedup, +8h}}
+|-
+|15,999
+|{{RewardIconWithLink|Quantum Gel, +100}}
+|{{RewardIconWithLink|Quantum Gel, +200}}
+|-
+|16,000
+|{{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|{{RewardIconWithLink|Kepler Telescope|orange}}<br>{{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|}

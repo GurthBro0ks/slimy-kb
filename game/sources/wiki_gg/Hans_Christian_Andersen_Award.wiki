@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Hans Christian Andersen Award
+|class_id=22788
+|rank=SSS
+|affct=FAME
+|source=
+|description=The Hans Christian Andersen Award is a global award established by the International Board on Books for Young People, known as the Nobel Prize of children's literature. Named after the famous Danish fairy tale writer Andersen, the award aims to recognize writers and illustrators worldwide who have made outstanding contributions to children's literature. The award is presented every two years, honoring one writer and one illustrator for their lifetime achievements in the field of children's literature. Typically, the works of the awardees not only possess extraordinary artistic value but also transcend cultures and borders, touching the hearts of children worldwide.
+|fame=107
+|art=62
+|fth=54
+|civ=68
+|tech=71
+|ss1=Snail RUSH +30<br>All Zombie Minion Skins, HARD Stats +30%<br>Per 3 Minion Skins crafted, Snail RUSH +9<br>Minion Skins crafted: 60/60
+|ss2=Snail RUSH +40<br>All Zombie Minion Skins, HARD Stats +40%<br>Per 3 Minion Skins crafted, Snail RUSH +12<br>Minion Skins crafted: 60/60
+|ss3=Snail RUSH +50<br>All Zombie Minion Skins, HARD Stats +50%<br>Per 3 Minion Skins crafted, Snail RUSH +15<br>Minion Skins crafted: 60/60
+|ss4=Snail RUSH +70<br>All Zombie Minion Skins, HARD Stats +70%<br>Per 3 Minion Skins crafted, Snail RUSH +21<br>Minion Skins crafted: 60/60
+|ss5=Snail RUSH +90<br>All Zombie Minion Skins, HARD Stats +90%<br>Per 3 Minion Skins crafted, Snail RUSH +27<br>Minion Skins crafted: 60/60
+|ss6=Snail RUSH +120<br>All Zombie Minion Skins, HARD Stats +120%<br>Per 3 Minion Skins crafted, Snail RUSH +36<br>Minion Skins crafted: 60/60
+|ss7=Snail RUSH +120<br>All Zombie Minion Skins, HARD Stats +120%<br>Per 3 Minion Skins crafted, Snail RUSH +36<br>Minion Skins crafted: 60/60<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +30%
+|skill2=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Cap +30%
+|skill3=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: This Relic's FAME +15
+}}

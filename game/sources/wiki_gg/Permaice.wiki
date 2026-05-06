@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Permaice
+|class_id=20822
+|rank=Green
+|affct=TECH
+|source=
+|description=This ice block, made by unknown means, is said to never melt. It can be played with during boring times to recall the beautiful moments of winter, or used to cool down during hot and unbearable weather!
+|fame=13
+|art=16
+|fth=17
+|civ=14
+|tech=30
+|ss1=Snail HP +100<br>Per 5 Mecha Gene LVLs, Snail DEF +1<br>Mecha Gene LVLs Researched: 150/150
+|ss2=Snail HP +200<br>Per 5 Mecha Gene LVLs, Snail DEF +2<br>Mecha Gene LVLs Researched: 150/150
+|ss3=Snail HP +300<br>Per 5 Mecha Gene LVLs, Snail DEF +3<br>Mecha Gene LVLs Researched: 150/150
+|ss4=Snail HP +300<br>Per 5 Mecha Gene LVLs, Snail DEF +3<br>Mecha Gene LVLs Researched: 150/150
+|ss7=Snail HP +300<br>Per 5 Mecha Gene LVLs, Snail DEF +3<br>Mecha Gene LVLs Researched: 150/150<br> (Awakened)
+}}

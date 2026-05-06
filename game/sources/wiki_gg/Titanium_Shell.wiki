@@ -1,0 +1,19 @@
+{{Missing Info|specifics=realm, second HARD}}
+
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Crafted from titanium alloy, it is bullet-proof and protects the body.
+|affct=TECH
+|hard=HP
+|source=Divine Neutral Chest (0.4%)
+|color=blue
+|earth=5
+|water=3
+|fire=3
+|wind=3
+|form=Mecha
+|element=Wind
+|realm=
+|orangehard=
+}}

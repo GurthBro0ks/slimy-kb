@@ -1,0 +1,684 @@
+{{Missing Info|specifics=<br>Looped Apostle stats}}
+
+=Apostles=
+Once an apostle is beaten in combat for the first time, they are considered defeated. Once an apostle has been defeated in 3 rounds or less, they are considered "Dominated" and will no longer have to be fought on subsequent explorations. Each Area has an apostle and occasionally an apostle will have minions who must be defeated first. 
+
+Similar to the Apostles in [[Kemet]], Apostles of this Realm are broken up into different areas that can only be explored one at a time. For [[Parsia]] you can explore the main area and Sky City to encounter all the Apostles. Below are all the Apostles for each area of Parsia.
+
+ Note that '''all''' apostles and minions have the special stats of: ''CRIT %, Lifesteal Rate %, Chance to trigger Stonehide %, Chance to cause Bleed %, Chance of Weakening Enemy %, Chance of Breaking Enemy %, CRIT RES %, Bleed RES %, Stonehide RES %, Lifesteal RES %, Weaken RES %, Break RES %, HIT, and Paralysis RES %''.
+
+See [[Sky City Apostles]] for the Apostles in Sky City.
+
+==Nightmare Scheherazade==
+'''Area:'''  Susa
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Nightmare Scheherazade||83,149 ||71,806 ||231,917 ||AFFCT 71,277 || Parsian Carpet, 100 W-Tads, Travel Speedup +90m, Ad Chest +500
+|}
+
+==Sea Maiden==
+'''Area:'''  Amān Citadel
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Sea Maiden||90,876 ||76,305 ||886,339 ||AFFCT 72,424 ||Parsian Carpet, 100 W-Tads, Travel Speedup +100m
+|-
+|''Line Standers''|| || || ||AFFCT 71,802 ||1260 B-Tads, Parsia INTEL +480
+|}
+
+==Old Angler==
+'''Area:'''  Gulf of Parsis
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Old Angler||101,247 ||82,335 ||922,972 ||AFFCT 73,911 ||Parsian Carpet, 100 W-Tads, Travel Speedup +110m, Merman King's Fin Part +40
+|-
+|''Four-Colored Fish''||95,754 ||79,142 ||903,582 ||AFFCT 73,133 ||1280 B-Tads, Parsia INTEL +490
+|}
+
+==33rd Pyratism Master==
+'''Area:'''  Old Yzad
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|33rd Pyratism Master||114,071 ||89,783 ||968,137 ||AFFCT 75,669 ||Parsian Carpet, 100 W-Tads, Travel Speedup +2h, Parsia Arcana Fragment
+|-
+|''Pyratism Left Envoy''||100,099 ||81,667 ||918,915 ||AFFCT 73,749 ||1300 B-Tads, Parsia INTEL +500
+|-
+|''Pyratism Right Envoy''||108,651 ||86,637 ||949,076 ||AFFCT 74,939 ||1300 B-Tads, Parsia INTEL +500
+|}
+
+==Djinn King==
+'''Area:''' Qazvin 
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Djinn King||129,399 ||98,679 ||1,021,961 ||AFFCT 77,670 ||Parsian Carpet, 100 W-Tads, Travel Speedup +130m
+|-
+|''Red Djinn''||111,314 ||88,184 ||958,451 ||AFFCT 75,301 ||1320 B-Tads, Parsia INTEL +510
+|-
+|''Orange Djinn''||115,488 ||90,606 ||973,118 ||AFFCT 75,859 ||1320 B-Tads, Parsia INTEL +510
+|-
+|''Yellow Djinn''||116,935 ||91,447 ||978,206 ||AFFCT 76,053 ||1320 B-Tads, Parsia INTEL +510
+|-
+|''Blue Djinn''||118,404 ||92,300 ||983,371 ||AFFCT 76,248 ||1320 B-Tads, Parsia INTEL +510
+|-
+|''Cyan Djinn''||119,895 ||93,164 ||988,611 ||AFFCT 76,443 ||1320 B-Tads, Parsia INTEL +510
+|-
+|''Purple Sprite''||121,415 ||94,047 ||993,959 ||AFFCT 76,643 ||1320 B-Tads, Parsia INTEL +510
+|-
+|''Hairless Hexer''||125,321 ||96,312 ||1,007,645 ||AFFCT 77,146 ||1320 B-Tads, Parsia INTEL +510
+|}
+
+==Djinn's Vessel==
+'''Area:''' Dasht-e Kavir
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Djinn's Vessel||147,805 ||109,393 ||1,086,880 ||AFFCT 79877 ||Parsian Carpet, 100 W-Tads, Travel Speedup +140m, Parsia Arcana Fragment
+|-
+|''Lantern''||126,122 ||96,776 ||1,010,458 ||AFFCT 77,249 ||1340 B-Tads, Parsia INTEL +520
+|-
+|''Incandescent Lamp''||134,500 ||101,634 ||1,039,834 ||AFFCT 78,309 ||1340 B-Tads, Parsia INTEL +520
+|-
+|''Traffic Light''||139,914 ||104,780 ||1,058,853 ||AFFCT 78,969 ||1340 B-Tads, Parsia INTEL +520
+|}
+
+==Dance King Alibaba==
+'''Area:'''  Pasargadae
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Dance King Alibaba||169,778 ||122,216 ||1,164,668 ||AFFCT 82,273 ||Parsian Carpet, 100 W-Tads, Travel Speedup +150m, Unidentified Liver Part +40
+|-
+|''Rice.corp CEO''||143,796 ||107,050 ||1,072,640 ||AFFCT 79,418 ||1360 B-Tads, Parsia INTEL +530 
+|-
+|''Pig.corp CEO''||149,845 ||110,584 ||1,094,093 ||AFFCT 80,105 ||1360 B-Tads, Parsia INTEL +530 
+|-
+|''Penguin.corp CEO''||156,185 ||114,285 ||1,116,556 ||AFFCT 80,813 ||1360 B-Tads, Parsia INTEL +530
+|-
+|''Scarlet Shepherd''||162,818 ||118,152 ||1,140,022 ||AFFCT 81,538 ||1360 B-Tads, Parsia INTEL +530 
+|}
+
+==Voyager Sinbad==
+'''Area:'''  Ecbatana
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Voyager Sinbad||195,770 ||137,521 ||1,257,384 ||AFFCT 84,853 ||Parsian Carpet, 100 W-Tads, Travel Speedup +160m, Parsia Arcana Fragment 
+|}
+
+==Hunchback Pro==
+'''Area:'''  Babylon
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Hunchback Pro||226,335 ||155,210 ||1,366,190 ||AFFCT 87,601 ||Parsian Carpet, 100 W-Tads, Travel Speedup +170m
+|-
+|''Hunchback''||190,259 ||134,280 ||1,237,763 ||AFFCT 84,323 ||1380 B-Tads, Parsia INTEL +540 
+|-
+|''Hunchback Plus''||210,297 ||146,040 ||1,309,062 ||AFFCT 86,205 ||1380 B-Tads, Parsia INTEL +540 
+|}
+
+==King Shahryar==
+'''Area:'''  Persepolis
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|King Shahryar||265,572 ||176,368 ||1,528,610 ||AFFCT 90,500 ||Parsian Carpet, 100 W-Tads, Travel Speedup +3h, Mutantigen x5, Parsia Arcana Fragment 
+|}
+
+=Looped Apostles=
+After you dominate all initial apostles in Parsia and Sky City, ringing the Sky City bell will introduce new apostles in both areas. These apostles can be reset, or "looped" again with rising difficulty levels.
+
+==Great Thief Nine Tiles==
+'''Area:'''  Susa
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Great Thief Nine Tiles
+|
+
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+!2
+|
+|
+|
+|
+|
+|-
+!3
+|
+|
+|
+|
+|
+|-
+!4 
+|4,502,922
+|2,167,106
+|120,794,348
+|AFFCT 397,735
+|Parsian Carpet, 100 W-Tads, Travel Speedup +90m
+|-
+|}
+|-
+|}
+
+==Hoslur==
+'''Area:'''  Amān Citadel
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Hoslur
+|
+
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+!2
+|
+|
+|
+|
+|
+|-
+!3
+|
+|
+|
+|
+|
+|-
+!4 
+|4,580,572
+|2,188,522
+|123,617,630
+|AFFCT 399,785
+| Parsian Carpet, 100 W-Tads, Travel Speedup +100m, Parsia Arcana Fragment 
+|-
+|}
+|-
+|}
+
+==Fisherman==
+'''Area:'''  Gulf of Parsis
+
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Fisherman
+|
+
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+!2
+|
+|
+|
+|
+|
+|-
+!3
+|
+|
+|
+|
+|
+|-
+!4 
+|4,673,006
+|2,213,608
+|126,979,974
+|AFFCT 402185
+|Parsian Carpet, 100 W-Tads, Travel Speedup +110m
+|-
+|}
+|-
+|}
+
+==Saadi==
+'''Area:''' Old Yzad  
+
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Saadi
+|
+
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+!2
+|
+|
+|
+|
+|
+|-
+!3
+|
+|
+|
+|
+|
+|-
+!4 
+|4,771,564
+|2,241,552
+|130,534,438
+|AFFCT 404840
+| Parsian Carpet, 100 W-Tads, Travel Speedup +2h, Parsia Arcana Fragment
+|-
+|}
+|-
+|}
+
+
+==100-Engine Snail==
+'''Area:''' Qazvin
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| 100-Engine Snail
+|
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+!2
+|
+|
+|
+|
+|
+|-
+!3
+|
+|
+|
+|
+|
+|-
+!4 
+|4,867,840
+|2,272,066
+|133,926,188
+|AFFCT 407,700
+|Parsian Carpet, 100 W-Tads, Travel Speedup +130m, Gear Parts
+|-
+|}
+|-
+| ''Twin-Engine Snail''
+|
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+!2
+|
+|
+|
+|
+|
+|-
+!3
+|
+|
+|
+|
+|
+|-
+!4 
+|4,762,390
+|2,238,618
+|130,211,294
+|AFFCT 404,565
+|2160 B-Tads, Parsia Map +10
+|-
+|}
+|-
+| ''Quad-Engine Snail''
+|
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+!2
+|
+|
+|
+|
+|
+|-
+!3
+|
+|
+|
+|
+|
+|-
+!4 
+|4,790,126
+|2,247,474
+|131,188,164
+|AFFCT 405,395
+|2160 B-Tads, Parsia Map +10
+|-
+|}
+|-
+| ''Hexa-Engine Snail''
+|
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+!2
+|
+|
+|
+|
+|
+|-
+!3
+|
+|
+|
+|
+|
+|-
+!4 
+|4,818,666
+|2,256,542
+|132,193,582
+|AFFCT 406,245
+|2160 B-Tads, Parsia Map +10
+|-
+|}
+|-
+|}
+
+==Toyota Daron==
+'''Area:''' Dasht-e Kavir
+
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Toyota Daron
+|
+
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+!2
+|
+|
+|
+|
+|
+|-
+!3
+|
+|
+|
+|
+|
+|-
+!4 
+|4972076
+|2304552
+|137600162
+|AFFCT 410745
+|Parsian Carpet, 100 W-Tads, Travel Speedup +140m, Parsia Arcana Fragment
+|-
+|}
+|-
+|}
+
+==Cyber Aladdin==
+'''Area:''' Pasargadae
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Cyber Aladdin
+|
+
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+!2
+|
+|
+|
+|
+|
+|-
+!3
+|
+|
+|
+|
+|
+|-
+!4 
+|
+|
+|
+|
+|
+|-
+|}
+|-
+|}
+
+==Carter Xiangzi==
+'''Area:''' Ecbatana
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Carter Xiangzi
+|
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+!2
+|
+|
+|
+|
+|
+|-
+!3
+|
+|
+|
+|
+|
+|-
+!4 
+|
+|
+|
+|
+|
+|-
+|}
+|-
+|}
+
+==Cambyses II==
+'''Area:''' Babylon
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Cambyses II
+|
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+!2
+|
+|
+|
+|
+|
+|-
+!3
+|
+|
+|
+|
+|
+|-
+!4 
+|
+|
+|
+|
+|
+|-
+|}
+|-
+|}
+
+==Evil Ahriman==
+'''Area:''' Persepolis
+{| class="wikitable"
+!Enemy !!Stats
+|-
+| Evil Ahriman
+|
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+!Round !! ATK !! DEF !! HP !! Weakness !! Rewards
+|-
+!1
+|
+|
+|
+|
+|
+|-
+!2
+|
+|
+|
+|
+|
+|-
+!3
+|
+|
+|
+|
+|
+|-
+!4 
+|
+|
+|
+|
+|
+|-
+|}
+|-
+|}
+
+[[Category:Parsia]]
+[[Category:Missing Info]]

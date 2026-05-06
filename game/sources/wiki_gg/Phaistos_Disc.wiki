@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Phaistos Disc
+|class_id=22310
+|rank=SSS
+|affct=CIV
+|birthday=10-13
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Oct 13, 1978 BC, the Phaistos Disc was made and placed on the island of Crete.<br>The Phaistos Disc is a disk of fired clay about 15 cm in diameter, dating to the middle or late Minoan Bronze Age. It is covered on both sides with 241 tokens, comprising 45 distinct signs, which were apparently made by pressing hieroglyphic "seals" into a disc of soft clay, in a clockwise sequence spiraling toward the center of the disk. Since no similar relics have been discovered, its purpose, origin, and usage still remain a mystery.
+|fame=72
+|art=73
+|fth=62
+|civ=107
+|tech=48
+|ss1=Snail HP +300<br>Per Unknown Creature needs met, Snail HP +90<br>Per Unknown Creature needs met, Snail ATK +9<br>Needs Met: 15/15
+|ss2=Snail HP +400<br>Per Unknown Creature needs met, Snail HP +120<br>Per Unknown Creature needs met, Snail ATK +12<br>Needs Met: 15/15
+|ss3=Snail HP +500<br>Per Unknown Creature needs met, Snail HP +150<br>Per Unknown Creature needs met, Snail ATK +15<br>Needs Met: 15/15
+|ss4=Snail HP +700<br>Per Unknown Creature needs met, Snail HP +210<br>Per Unknown Creature needs met, Snail ATK +21<br>Needs Met: 15/15
+|ss5=Snail HP +900<br>Per Unknown Creature needs met, Snail HP +270<br>Per Unknown Creature needs met, Snail ATK +27<br>Needs Met: 15/15
+|ss6=Snail HP +1200<br>Per Unknown Creature needs met, Snail HP +360<br>Per Unknown Creature needs met, Snail ATK +36<br>Needs Met: 15/15
+|ss7=Snail HP +1200<br>Per Unknown Creature needs met, Snail HP +360<br>Per Unknown Creature needs met, Snail ATK +36<br>Needs Met: 15/15<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, food consumed -3%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail HP +6000
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: Medal Output +30
+|mirage={{Mirage|name=Phaistos Hieroglyph|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Hieroglyph I|3rec=15.98M|3atk=104634|3defense=69805|3hp=3234321|3weak=17674
+|4name=Hieroglyph II|4rec=28.33M|4atk=125536|4defense=83750|4hp=4593365|4weak=18779
+|5name=Hieroglyph III|5rec=39.22M|5atk=148517|5defense=99081|5hp=6270961|5weak=19865
+|6name=Hieroglyph IV|6rec=51.44M|6atk=174287|6defense=116274|6hp=8347672|6weak=22014
+|Arec=65.26M|Aatk=203419|Adefense=135709|Ahp=10970548|Aweak=26266
+}}}}

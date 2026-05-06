@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Cancer Zodiac
+|class_id=21934
+|rank=SSS
+|affct=ART
+|source=
+|description=As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:
+When luck comes, like a force untold,
+Irresistible, bold, as precious as gold.
+|fame=76
+|art=110
+|fth=71
+|civ=50
+|tech=55
+|ss1=All Minion HP +10%<br>All Minion RUSH +10%<br>B-tads collected from Drill Rig +10%<br>W-tads collected from Drill Rig +10%
+|ss2=All Minion HP +10%<br>All Minion RUSH +10%<br>B-tads collected from Drill Rig +10%<br>W-tads collected from Drill Rig +10%
+|ss3=All Minion HP +10%<br>All Minion RUSH +10%<br>B-tads collected from Drill Rig +10%<br>W-tads collected from Drill Rig +10%
+|ss4=All Minion HP +10%<br>All Minion RUSH +10%<br>B-tads collected from Drill Rig +10%<br>W-tads collected from Drill Rig +10%
+|ss5=All Minion HP +10%<br>All Minion RUSH +10%<br>B-tads collected from Drill Rig +10%<br>W-tads collected from Drill Rig +10%
+|ss6=All Minion HP +10%<br>All Minion RUSH +10%<br>B-tads collected from Drill Rig +10%<br>W-tads collected from Drill Rig +10%
+|ss7=All Minion HP +10%<br>All Minion RUSH +10%<br>B-tads collected from Drill Rig +10%<br>W-tads collected from Drill Rig +10%<br>W-tads collected from Drill Rig +10% (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Travel SPD +9%
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, B-tads gained +15%
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Cells collected +30%
+|mirage={{Mirage|name=Cancer Zodiac Star|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Rockefeller|3rec=4.49M|3atk=53439|3defense=35101|3hp=820904|3weak=?
+|4name=Hemingway|4rec=8.48M|4atk=75786|4defense=49779|4hp=1490135|4weak=?
+|5name=General Oda|5rec=15.05M|5atk=102978|5defense=67640|5hp=2507487|5weak=?
+|6name=Caesar|6rec=31.89M|6atk=135129|6defense=88758|6hp=4104275|6weak=?
+|Arec=49.45M|Aatk=172749|Adefense=113468|Ahp=6310514|Aweak=?
+}}}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=455
+|relics=Grimmy Award,Pride & Prejudice
+|rank=orange
+|amount=2
+|category=self
+|description=In the Demon God Rocket Cabin: Assist System Base Effect +56%
+}}

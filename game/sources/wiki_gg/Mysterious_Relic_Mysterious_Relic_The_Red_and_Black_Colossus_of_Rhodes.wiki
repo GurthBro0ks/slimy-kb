@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Mysterious Relic,Mysterious Relic,The Red and Black,Colossus of Rhodes
+|rank=orange
+|amount=4
+|category=minion
+|description=Per 60 T7+ Minions in battle: Troop ATK +90
+}}
+[[Category:Minion]]
+[[Category:Minion ATK Boost]]

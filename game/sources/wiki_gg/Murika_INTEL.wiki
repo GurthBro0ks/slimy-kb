@@ -1,0 +1,231 @@
+==INTEL==
+There are two INTEL trees in [[Murika]], each with 19 different skills. Each skill has between 1 and 3 levels. Initially, only one hex is available to upgrade in exchange for INTEL (gathered passively during exploration). To make any hex available, an adjacent hex must first be fully upgraded. Additionally, some hexes have a "release condition" required before it can be unlocked. Below is a list of all [[Murika]] INTEL.
+
+[[File:Murika INTEL 1.0.png|frameless|left]][[File:Murika INTEL 2.0.png|frameless]]
+
+
+* [[#Mecha INTEL|Recommended Mecha INTEL Upgrades]]
+
+* [[#Biochem INTEL|Recommended Biochem INTEL Upgrades]]
+
+
+
+==Mecha INTEL==
+[[File:Murika INTEL 1.5.png|frameless|left]]
+
+'''Recommended Upgrade:''' 
+
+
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|rowspan="2"|1||rowspan="2"|Map of the North||180||||When challenging the North, Travel SPD +5%<br>When challenging the North, DMG +10%
+|-
+|360|||||When challenging the North, Travel SPD +10%<br>When challenging the North, DMG +20%
+|-
+|rowspan="2"|2||rowspan="2"|War Machine||720||||Northern Heroes can mecha-transform<br>Northern Hero can be trained to Lv. 10
+|-
+|1440||||Northern Hero can be trained to Lv. 15
+|-
+|rowspan="3"|3||rowspan="3"|Upgrade||720||||Upgrade 1 White Factory Grid(s) to Green
+|-
+|1,440||||Upgrade 1 Green Factory Grid(s) to Blue
+|-
+|2,160||||Upgrade 1 Blue Factory Grid(s) to Purple
+|-
+|rowspan="3"|4||rowspan="3"|Flying Star Banner||720||||1 Northern Hero recruited = 10m Refine Speedup<br>Northern Heroes recruited: 10/10
+|-
+|1,440||||1 Northern Hero recruited = 20m Refine Speedup<br>Northern Heroes recruited: 10/10
+|-
+|2,160||||Available Adjutants +1
+|-
+|rowspan="3"|5||rowspan="3"|Industrial Revolution||2,880||||Wormhole Refinement SPD +1%
+|-
+|5,760||||Wormhole Refinement SPD +3%
+|-
+|8,640||||Wormhole Refinement SPD +5%
+|-
+|rowspan="3"|6||rowspan="3"|Mecha Lab||2,880||||Against the North, enable Mecha Labs<br>Upgrade 1 Uni to Green Mecha Lab
+|-
+|5,760||||Upgrade 1 Uni to Blue Mecha Lab
+|-
+|8,640||||Upgrade 1 Uni to Purple Mecha Lab
+|-
+|7||Michigen Apostle Clue||2,880||[[Murika Apostles#Thunder Smith & Night Kitty|Thunder Smith and Night Kitty]]||Unlock area (Michigen)<br>In Michigen, INTEL gained +10%
+|-
+|rowspan="3"|8||rowspan="3"|Nuclear Fusion Lab||2,880||||Against the North, enable Nuclear Fusion Labs<br>Upgrade 1 Uni to Green Nuclear Fusion Lab
+|-
+|5,760||||Upgrade 1 Uni to Blue Nuclear Fusion Lab
+|-
+|8,640||||Upgrade 1 Uni to Purple Nuclear Fusion Lab
+|-
+|9||Homestead Acts||2,880||||2x Reward Grids become 3x Reward
+|-
+|rowspan="3"|10||rowspan="3"|SkyWeb Hub||7,200||||During an exploration session in Murika, per 30 Lab rolls, receive 1 Internet Card at the end<br>Use in Card Redemption for rare resources
+|-
+|14,400||||During an exploration session in Murika, per 20 Lab rolls, receive 1 Internet Card at the end<br>Use in Card Redemption for rare resources
+|-
+|21,600||||During an exploration session in Murika, per 10 Lab rolls, receive 1 Internet Card at the end<br>Use in Card Redemption for rare resources
+|-
+|rowspan="3"|11||rowspan="3"|MIT Experiment||7,200||||Mecha Lab rolls give Tool Chests by +10%
+|-
+|14,400||||Mecha Lab rolls give Tool Chests by +20%
+|-
+|21,600||||Mecha Lab rolls give Tool Chests by +30%
+|-
+|rowspan="4"|12||rowspan="4"|Strategic Supplies||7,200||||When you defeat an Apostle, gain 1 Murikan Treasure Map by +3%
+|-
+|14,400||||When you defeat an Apostle, gain 1 Murikan Treasure Map by +6%
+|-
+|21,600||||When you defeat an Apostle, gain 1 Murikan Treasure Map by +10%
+|-
+|28,800||||Available Adjutants +1
+|-
+|rowspan="3"|13||rowspan="3"|AB Experiment||7,200||||When you enter a Nuclear Fusion Lab Grid, gain a Gear Chest by +10%
+|-
+|14,400||||When you enter a Nuclear Fusion Lab Grid, gain a Gear Chest by +20%
+|-
+|21,600||||When you enter a Nuclear Fusion Lab Grid, gain a Gear Chest by +30%
+|-
+|14||Emancipation||7,200||||Unlock Special Hitman([[Mailbox#John Tooth|John Tooth]])<br>[[Mailbox#John Tooth|John Tooth]] will visit your [[Home Base|Home]]<br>Obtain 6h Chore Speedup
+|-
+|rowspan="3"|15||rowspan="3"|Indv. Power Armor||9,000||||Obtain [[Gear|<span style="color:#ee96d5;">Holographic Tactical Glasses</span>]]
+|-
+|18,000||||Obtain [[Gear|<span style="color:#ee96d5;">Powered Glove</span>]]
+|-
+|27,000||||Obtain [[Gear|<span style="color:#ee96d5;">Mechanical Exoskeleton</span>]]
+|-
+|rowspan="3"|16||rowspan="3"|Super War Machine||9,000||||Northern Heroes All Stats +3<br>Northern Hero can be trained to Lv.20
+|-
+|18,000||||Northern Heroes All Stats +6<br>Northern Hero can be trained to Lv.25
+|-
+|27,000||||Northern Heroes All Stats +10<br>Northern Hero can be trained to Lv.30
+|-
+|17||Kalifornia Apostle Clue||9,000||Defeat [[Murika Apostles#Alpha Wolf & Master Archer|Master Wolf and Master Archer]]||Unlock area (Kalifornia)<br>In Kalifornia, INTEL gained +10%
+|-
+|rowspan="3"|18||rowspan="3"|Commander-in-Chief||9,000||||5 Heroes trained = 30 W-Tadpoles<br>Heroes trained: 580/580
+|-
+|18,000||||5 Heroes trained = 60 W-Tadpoles<br>Heroes trained: 580/580
+|-
+|27,000||||5 Heroes trained = 100 W-Tadpoles<br>Heroes trained: 580/580
+|-
+|rowspan="4"|19||rowspan="4"|Manhattan Project||9,000||||Unlock Special Incident (Explosion Experiment)
+|-
+|18,000||||Unlock Special Incident (Nuclear Strike)
+|-
+|27,000||||Unlock Special Incident (Nuclear Reactor)
+|-
+|36,000||||Unlock Special Incident (Einstein's Proposal)
+|}
+
+==Biochem INTEL==
+[[File:Murika INTEL 2.5.png|frameless|left]]
+
+'''Recommended Upgrade:''' Superhero Registration Act (South, 5) is highly recommended, even if you are opposing the North first, because it unlocks Special card drops and redeem options.
+
+
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|rowspan="2"|1||rowspan="2"|Map of the South||180||||When challenging the South, Travel SPD +5%<br>When challenging the South, DMG +10%
+|-
+|360||||When challenging the South, Travel SPD +10%<br>When challenging the South, DMG +20%
+|-
+|rowspan="2"|2||rowspan="2"|Biochem Weapon I||720||||Southern Heroes can bio-transform<br>Southern Heroes can be trained to Lv.10
+|-
+|1,440||||Southern Heroes can be trained to Lv.15
+|-
+|rowspan="3"|3||rowspan="3"|Plantation Upgrade||720||||Upgrade 1 White Plantation Grid(s) to Green
+|-
+|1,440||||Upgrade 1 Green Plantation Grid(s) to Blue
+|-
+|2,160||||Upgrade 1 Blue Plantation Grid(s) to Purple
+|-
+|rowspan="2"|4||rowspan="2"|Blessed Murika||720||||1 Southern Hero recruited = 10m Travel Speedups<br>Southern Heroes recruited: 10/10
+|-
+|1,440||||1 Southern Hero recruited = 20m Travel Speedups<br>Southern Heroes recruited: 10/10
+|-
+|rowspan="3"|5||rowspan="3"|Superhero Registration Act||2,880||||Unlock Special Cards<br>Card Conversion in Murika gives +3% rewards
+|-
+|5,760||||Unlock Special Cards<br>Card Conversion in Murika gives +6% rewards
+|-
+|8,640||||Unlock Special Cards<br>Card Conversion in Murika gives +10% rewards
+|-
+|rowspan="3"|6||rowspan="3"|Biochem Lab||2,880||||Against the South, enable Biochem Labs<br>Upgrade 1 Unis to Green Biochem Labs
+|-
+|5,760||||Against the South, enable Biochem Labs<br>Upgrade 1 Unis to Blue Biochem Labs
+|-
+|8,640||||Against the South, enable Biochem Labs<br>Upgrade 1 Unis to Purple Biochem Labs
+|-
+|7||Neo-Mexico Apostle Clue||2,880||Defeat [[Murika Apostles#General S. & Blink Stewart|General S. and Blink Stewart]]||Unlock area (Neo-Mexico)<br>In Neo-Mexico, INTEL gained +10%
+|-
+|rowspan="3"|8||rowspan="3"|Psychic Lab||2,880||||Against the South, enable Psychic Labs<br>Upgrade 1 Unis to Green Psychic Labs
+|-
+|5,760||||Upgrade 1 Unis to Blue Psychic Labs
+|-
+|8,640||||Upgrade 1 Unis to Purple Psychic Labs
+|-
+|rowspan="3"|9||rowspan="3"|Supply Chain||2,880||||Per victory, Supply Boxes +1
+|-
+|5,760||||Per vicotry, Supply Boxes +2
+|-
+|8,640||||Per victory, Supply Boxes +3
+|-
+|rowspan="3"|10||rowspan="3"|West Dot Academy||7,200||||During an exploration session in Murika, per 30 Lab rolls, receive 1 West Dot Manual at the end<br>Use in Card Redemption for rare resources
+|-
+|14,400||||During an exploration session in Murika, per 20 Lab rolls, receive 1 West Dot Manual at the end<br>Use in Card Redemption for rare resources
+|-
+|21,600||||During an exploration session in Murika, per 10 Lab rolls, receive 1 West Dot Manual at the end<br>Use in Card Redemption for rare resources
+|-
+|rowspan="3"|11||rowspan="3"|Laccon Experiment||7,200||||Biochem Lab rolls give Evo Chests by +5%
+|-
+|14,400||||Biochem Lab rolls give Evo Chests by +10%
+|-
+|21,600||||Biochem Lab rolls give Evo Chests by +15%
+|-
+|rowspan="3"|12||rowspan="3"|Gold Rush||7,200||||Upon traveling through an area, gain Murikan Treasure Maps +5%
+|-
+|14,400|||||Upon traveling through an area, gain Murikan Treasure Maps +10%
+|-
+|21,600|||||Upon traveling through an area, gain Murikan Treasure Maps +15%
+|-
+|rowspan="3"|13||rowspan="3"|Philadelfia Experiment||7,200||||When you enter a Psychic Lab Grid, gain a Time Chest by +5%
+|-
+|14,400||||When you enter a Psychic Lab Grid, gain a Time Chest by +10%
+|-
+|21,600||||When you enter a Psychic Lab Grid, gain a Time Chest by +15%
+|-
+|rowspan="2"|14||rowspan="2"|Adam Smith's Economics||7,200||||Invest 30k B-tads for 10 Lottery Tickets
+|-
+|14,400||||Invest 50k B-tads for 20 Lottery Tickets
+|-
+|rowspan="3"|15||rowspan="3"|Scorched Earth||9,000||||Unlock Special Incident (General S. Noose)
+|-
+|18,000||||Unlock Special Incident (Georgia Butcher)
+|-
+|27,000||||Unlock Special Incident (Burning of Atlanda)
+|-
+|rowspan="3"|16||rowspan="3"|Biochem Weapon II||9,000||||Southern Hero can be trained to Lv. 20<br>Southern Heroes All Stats +3
+|-
+|18,000||||Southern Hero can be trained to Lv. 25<br>Southern Heroes All Stats +6
+|-
+|27,000||||Southern Hero can be trained to Lv. 30<br>Southern Heroes All Stats +10
+|-
+|17||Flordiar Apostle Clue||9,000||Defeat [[Murika Apostles#Frost & Dominator|Frost and Dominator]]||Unlock area (Floridar)<br>In Floridar, INTEL gained +10%
+|-
+|rowspan="3"|18||rowspan="3"|Top Secret Task||9,000||||Earn 500 Honor Points
+|-
+|18,000||||Earn 500 Honor Points
+|-
+|27,000||||Earn 500 Honor Points<br>Unlock Special Incident (Sculptor Bart)
+|-
+|rowspan="3"|19||rowspan="3"|Psychic Plunder||9,000||||Per Murikan Apostle dominated, Snail AFFCT +6
+|-
+|18,000||||Per Murikan Apostle dominated, Snail AFFCT +9
+|-
+|27,000||||Per Murikan Apostle dominated, Snail AFFCT +12
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Murika]]

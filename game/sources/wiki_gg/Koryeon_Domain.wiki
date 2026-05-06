@@ -1,0 +1,658 @@
+{{Missing Info|specifics=This page is being formatted by the wiki team. Thank you for your patience as we find the best page structure. Reach out to us on Discord to help!}}
+
+__forcetoc__
+
+==Legend==
+{|class=wikitable
+!Type
+!Color Assignment
+|-
+|Event
+|style="background-color:var(--yellow-bg)"|
+|-
+|Snail Battle
+|style="background-color:var(--red-bg)"|
+|-
+|Reward
+|style="background-color:var(--blue-bg)"|
+|-
+|Mine Pit
+|style="background-color:var(--green-bg)"|
+|}
+
+==Tiles==
+{| class="wikitable"
+!Tile
+!Name (before Troop Battle)
+!Name (after Troop Battle)
+!Troop RUSH required Power
+!Notes
+!Reward
+|-
+|style="background-color:var(--blue-bg)"|1
+|Sign
+|
+|
+|
+|
+|-
+|style="background-color:var(--blue-bg)"|2
+|Watchtower
+|
+|
+|
+|
+|-
+|style="background-color:var(--blue-bg)"|3
+|Grilled Snail
+|
+|
+|
+|{{RewardIconWithText|Rocket Up Blueprint}}<br>{{RewardIconWithText|4h Soul Red|red}} (Soul of Traveler 0678)<br>{{RewardIconWithText|Escargot, +1}}
+|-
+|style="background-color:var(--yellow-bg)"|4
+|Guard
+|Snail's Remains
+|320,000
+|Add firewood, it requires {{RewardIconWithText|Wood, 1000}}
+|{{RewardIconWithText|T1 Pawson Fang, +4}}, <br>afterwards {{RewardIconWithLink|Super Memetic Chest, +5}},<br> {{RewardIcon|4h Soul Red}}<span style="color:#f66;">Soul of Traveler 1179</span>,<br> {{RewardIconWithText|Escargot, +1}}
+|-
+|5
+|Guard Captain
+|
+|330,000
+|
+|{{RewardIconWithText|T1 Pawson Core, +4}}
+|-
+|style="background-color:var(--yellow-bg)"|6
+|Guard
+|Safe Box on Airship
+|340,000
+|{{RewardIconWithText|Password Note}} is 2117
+|{{RewardIconWithText|T1 Pawson Whisker, +4}},<br> afterwards {{RewardIconWithText|Lottery Ticket, +3}},<br> {{RewardIconWithText|Beast Moon, +1}}
+|-
+|7
+|Guard Captain
+|
+|350,000
+|
+|{{RewardIconWithText|T1 Pawson Fang, +4}}
+|-
+|8
+|Supply Convoy
+|
+|260,000
+|
+|{{RewardIconWithText|T1 Pawson Whsiker, +3}}
+|-
+|9
+|Supply Convoy
+|
+|270,000
+|
+|{{RewardIconWithText|T1 Pawson Fang, +3}}
+|-
+|10
+|Guard
+|
+|280,000
+|
+|{{RewardIconWithText|T1 Pawson Core, +3}}
+|-
+|style="background-color:var(--blue-bg)"|11
+|Laborer
+|Storage Room
+|290,000
+|After the troop battle, take the supplies
+|{{RewardIconWithText|T1 Pawson Core, +3}},<br> afterwards {{RewardIconWithText|Standard Printing Supply, +50|yellow}},<br> {{RewardIconWithText|B-Tad, +30k}}
+|-
+|style="background-color:var(--red-bg)"|12
+|Wolf General
+|Hitman Cadet's Backback
+|360,000
+|ATK 12,012; DEF 7,714; HP 93,011; RUSH requires AFFCT 29,500
+|{{RewardIconWithText|T1 Pawson Core, +5}}<br>after invidual battle: {{RewardIcon|4h Soul Green}}Soul of Wolf General,<br> {{RewardIconWithLink|Gear Chest, +100}}; <br>afterwards display relic {{RewardIconWithLink|Hitman No. 8 License|green}} for a {{RewardIconWithText|Beast Moon, +1}}
+|-
+|13
+|Gun Squad I Hitman
+|
+|430,000
+|
+|{{RewardIconWithText|T1 Pawson Whisker, +5}}
+|-
+|14
+|TNT Squad I Hitman
+|
+|370,000
+|
+|{{RewardIconWithText|T1 Pawson Fang, +5}}
+|-
+|15
+|TNT Squad II Hitman
+|
+|380,000
+|
+|{{RewardIconWithText|T1 Pawson Core, +5}}
+|-
+|16
+|Gun Squad II Hitman
+|
+|390,000
+|
+|{{RewardIconWithText|T1 Pawson Whisker, +5}}
+|-
+|17
+|Gun Squad III Hitman
+|
+|400,000
+|
+|{{RewardIconWithText|T1 Pawson Fang, +5}}
+|-
+|style="background-color:var(--yellow-bg)"|18
+|TNT Squad III Hitman
+|Strange Boy
+|420,000
+|Defeating Hitman unlocks Strange Boy (Shop)
+|{{RewardIconWithText|T1 Pawson Core, +5}},<br>Shop: <br>{{RewardIconWithText|Beast Moon}} costs {{RewardIconWithText|B-Tad, 50k}}, <br>{{RewardIconWithText|Organ Slime, +100}} costs {{RewardIconWithText|B-Tad, 25k}}, <br> {{RewardIconWithLink|Organ Chest, +100}} costs {{RewardIconWithText|B-Tad, 40k}} 
+|-
+|style="background-color:var(--green-bg)"|19
+|Laborer
+|Mine Pit
+|410,000
+|Mining takes 10 hours to give rewards; requires 20 T1+ minions
+|{{RewardIconWithText|T3 Pawson Whisker, +6|blue}};<br> After mining: <br>{{RewardIconWithLink|Organ Chest, +150}},<br> {{RewardIconWithLink|Super Memetic Chest, +100}},<br> {{RewardIconWithText|Missile Box, +1}}
+|-
+|20
+|Biochem Operator
+|
+|450,000
+|
+|{{RewardIconWithText|T2 Pawson Whisker, +5|green}}
+|-
+|21
+|Biochem Operator
+|
+|460,000
+|
+|{{RewardIconWithText|T2 Pawson Fang, +5|green}}
+|-
+|22
+|Biochem Operator
+|
+|470,000
+|
+|{{RewardIconWithText|T2 Pawson Core, +5|green}}
+|-
+|23
+|Alpaca General
+|Central Lab
+|480,000
+|Submit in total of 300 {{RewardIcon|Organ Slime}}Organ Slime for three random [[Organs|Organ]]:<br> 1st submission is {{RewardIcon|Organ Slime}}50 for a {{Retext|blue organ|blue}},<br> 2nd submission is {{RewardIcon|Organ Slime}}100 for a {{Retext|purple organ|purple}},<br> 3rd submission is {{RewardIcon|Organ Slime}}150 for an {{Retext|orange organ|orange}}
+|{{RewardIconWithText|T2 Pawson Whisker, +5|green}};<br>(For example:{{RewardIconWithLink|Salamander's Tail, +1|blue}}, {{RewardIconWithLink|Mutated Tentacle, +1|purple}}, {{RewardIconWithLink|Savant Eye, +1|orange}})
+|-
+|24
+|Biochem Operator
+|
+|520,000
+|
+|{{RewardIconWithText|T2 Pawson Fang, +5|green}}
+|-
+|25
+|Biochem Operator
+|
+|530,000
+|
+|{{RewardIconWithText|T2 Pawson Core, +5|green}}
+|-
+|26
+|Biochem Operator
+|
+|490,000
+|
+|{{RewardIconWithText|T2 Pawson Whisker, +5|green}}
+|-
+|27
+|Biochem Operator
+|
+|500,000
+|
+|{{RewardIconWithText|T2 Pawson Fang, +5|green}}
+|-
+|style="background-color:var(--yellow-bg)"|28
+|Biochem Operator
+|Hungry Monster
+|510,000
+|Needs 30 [[Consumables#Food|Escargot]]
+|{{RewardIconWithText|T2 Pawson Core, +5|green}};<br>afterwards {{RewardIconWithLink|Nuclear Waste Barrel|green}}
+|-
+|style="background-color:var(--green-bg)"|29
+|Laborer
+|Mine Pit
+|440,000
+|Mining takes 2 hours to give rewards; requires 20 T1+ minions
+|{{RewardIconWithText|T3 Pawson Whisker, +6|blue}}; <br>after mining:<br> {{RewardIconWithLink|Koryeon Treasure Map, +120}},<br> {{RewardIconWithText|Lottery Ticket, +2}},<br> {{RewardIconWithText|Missile Box, +1}}
+|-
+|style="background-color:var(--green-bg)"|30
+|Laborer
+|Mine Pit
+|540,000
+|Mining takes 2h to give rewards; requires 20 T1+ minions
+|{{RewardIconWithText|T3 Pawson Fang, +6|blue}}; <br>after mining:<br> {{RewardIconWithLink|Time Chest, +120}},<br> {{RewardIconWithText|Missile Box, +1}},<br> {{RewardIconWithText|Beast Moon, +1}}
+|-
+|31
+|Marine
+|
+|550,000
+|
+|{{RewardIconWithText|T2 Pawson Whisker, +7|green}}
+|-
+|32
+|Marine
+|
+|560,000
+|
+|{{RewardIconWithText|T2 Pawson Fang, +7|green}}
+|-
+|33
+|Marine
+|
+|570,000
+|
+|{{RewardIconWithText|T2 Pawson Whisker, +7|green}}
+|-
+|style="background-color:var(--blue-bg)"|34
+|Marine
+|Sign
+|580,000
+|Split the sign to get rewards
+|{{RewardIconWithText|T2 Pawson Fang, +7|green}};<br> afterwards {{RewardIconWithText|Wood, +500}}
+|-
+|35
+|Rumbo
+|Mysterious Telephone
+|590,000
+|Make a call to get lore
+|{{RewardIconWithText|T2 Pawson Core, +5|green}}
+|-
+|style="background-color:var(--red-bg)"|36
+|Croc General
+|Wish Pond
+|600,000
+|Croc General: ATK 14,968, DEF 9,612, HP 146,323, RUSH requires AFFCT 33,300<br>After individual battle:<br> Wish Pond requires 1 {{RewardIconWithLink|Wish Coin|orange}}
+|{{RewardIconWithText|T2 Pawson Core, +5|green}};<br>after individual battle:<br> {{RewardIcon|4h Soul Red}}{{Retext|Soul of Croc General|red}},<br> {{RewardIconWithLink|Evolution Chest, +100}};<br> Wish Pond:<br> {{RewardIconWithText|B-Tad, +50k}},<br> {{RewardIconWithText|Beast Moon, +1}}
+|-
+|37
+|Guard
+|
+|610,000
+|
+|{{RewardIconWithText|T2 Pawson Fang, +6|green}}
+|-
+|38
+|Guard
+|
+|320,000
+|
+|{{RewardIconWithText|T2 Pawson Core, +5|green}}
+|-
+|style="background-color:var(--yellow-bg)"|39
+|Ironball Thrower
+|Ironball Thrower
+|640,000
+|Pay 500 {{RewardIconWithText|W-Tad}} to get rewards
+|{{RewardIconWithText|T2 Pawson Core, +5|green}};<br>{{RewardIconWithLink|Maglev Iron Ball|green}}
+|-
+|40
+|Guard
+|
+|650,000
+|
+|{{RewardIconWithText|T2 Pawson Whisker, +6|green}}
+|-
+|style="background-color:var(--green-bg)"|41
+|Laborer
+|Mine Pit
+|620,000
+|Mining takes 4h to give rewards; requires 20 T1+ minions
+|{{RewardIconWithText|T3 Pawson Core, +6|blue}};<br>After mining:<br> {{RewardIconWithLink|Tool Chest, +240}},<br> {{RewardIconWithText|Ancient Coin, +120}},<br> {{RewardIconWithText|Missile Box, +1}}
+|-
+|42
+|Engineer
+|
+|660,000
+|
+|{{RewardIconWithText|T3 Pawson Whisker, +6|blue}}
+|-
+|43
+|Engineer
+|
+|680,000
+|
+|{{RewardIconWithText|T3 Pawson Fang, +6|blue}}
+|-
+|style="background-color:var(--red-bg)"|44
+|Bear General
+|Power Hub
+|690,000
+|Bear General: ATK 16,082, DEF 10,328, HP 168,629, RUSH requires AFFCT 34,900;<br>After individual battle Power Hub requires 1 {{RewardIconWithText|Energy Core (Koryeon Domain)}} (Beat Tile 59)
+|{{RewardIconWithText|T3 Pawson Core, +6|blue}};<br>after individual battle:<br> {{RewardIcon|8h Soul Red}} {{Retext|Soul of Bear General|red}},<br> {{RewardIconWithLink|Koryeon Treasure Map, +100}};<br> Power Hub:<br> {{RewardIconWithText|Beast Moon, +1}}
+|-
+|style="background-color:var(--yellow-bg)"|45
+|Engineer
+|Robotic Arm
+|750,000
+|Need Rumbo avatar
+|{{RewardIconWithText|T3 Pawson Whisker, +6|blue}};<br> afterwards {{RewardIconWithLink|Minie Ball|blue}} Fragment +10
+|-
+|style="background-color:var(--blue-bg)"|46
+|Guard
+|Material Warehouse
+|760,000
+|Empty the warehouse!
+|{{RewardIconWithText|T3 Pawson Fang, +6|blue}};<br> afterwards {{RewardIconWithText|T3 Demon God Gear, +3|blue}},<br> {{RewardIconWithText|T3 Demon God Bearing, +3|blue}}
+|-
+|style="background-color:var(--yellow-bg)"|47
+|Engineer
+|Robotic Arm
+|700,000
+|Need Gvent Guru Avatar
+|{{RewardIconWithText|T3 Pawson Core, +6|blue}};<br> afterwards {{RewardIconWithLink|Lewis Chessmen|blue}} Fragment +10
+|-
+|48
+|Guard
+|
+|770,000
+|
+|{{RewardIconWithText|T3 Pawson Whisker, +6|blue}}
+|-
+|49
+|Guard
+|
+|720,000
+|
+|{{RewardIconWithText|T3 Pawson Fang, +6|blue}}
+|-
+|style="background-color:var(--blue-bg)"|50
+|Guard
+|Material Warehouse
+|730,000
+|Empty the warehouse!
+|{{RewardIconWithText|T3 Pawson Core, +6|blue}};<br>afterwards {{RewardIconWithText|T3 Demon God Prism, +3|blue}},<br> {{RewardIconWithText|T3 Demon God Chip, +3|blue}}
+|-
+|style="background-color:var(--yellow-bg)"|51
+|Engineer
+|Robotic Arm
+|740,000
+|Need Tombstone Carrier Avatar
+|{{RewardIconWithText|T3 Pawson Whisker, +6|blue}};<br>afterwards {{RewardIconWithLink|Chinchorro Mummy|purple}} Fragment +20
+|-
+|52
+|Engineer
+|
+|800,000
+|
+|{{RewardIconWithText|T3 Pawson Fang, +6|blue}}
+|-
+|style="background-color:var(--yellow-bg)"|53
+|Engineer
+|
+|790,000
+|Need Exterminator Avatar
+|{{RewardIconWithText|T3 Pawson Core, +6|blue}};<br>afterwards {{RewardIconWithLink|SkyWeb Hub|orange}} Fragment +40
+|-
+|54
+|Guard
+|
+|810,000
+|
+|{{RewardIconWithText|T3 Pawson Whisker, +6|blue}}
+|-
+|style="background-color:var(--green-bg)"|55
+|Laborer
+|Mine Pit
+|670,000
+|Mining takes 4 hours to give rewards; requires 20 T1+ minions
+|{{RewardIconWithText|T3 Pawson Whisker, +6|blue}};<br> After mining:<br> {{RewardIconWithLink|Fungus Chest, +240}},<br> {{RewardIconWithText|Green Reagent, +80|green}},<br> {{RewardIconWithText|Missile Box, +1}}
+|-
+|style="background-color:var(--green-bg)"|56
+|Laborer
+|Mine Pit
+|710,000
+|Mining takes 4 hours to give rewards; requires 20 T1+ minions
+|{{RewardIconWithText|T3 Pawson Fang, +6|blue}}; <br>{{RewardIconWithText|Toner, +96}},<br> {{RewardIconWithText|Glue, +80}},<br> {{RewardIconWithText|Missile Box, +1}}
+|-
+|style="background-color:var(--green-bg)"|57
+|Laborer
+|Mine Pit
+|780,000
+|Mining takes 8 hours to give rewards; requires 20 T1+ minions
+|{{RewardIconWithText|T3 Pawson Core, +6|blue}}; <br>{{RewardIconWithLink|Demon Chest, +240}},<br> {{RewardIconWithText|Missile Box, +1}},<br> {{RewardIconWithText|Beast Moon, +1}}
+|-
+|58
+|Guard
+|
+|820,000
+|
+|{{RewardIconWithText|T3 Pawson Fang, +6|blue}}
+|-
+|style="background-color:var(--red-bg)"|59
+|Baboon General
+|
+|900,000
+|Take the {{RewardIconWithText|Energy Core (Koryeon Domain)}}
+|{{RewardIconWithText|T3 Pawson Core, +6|blue}}; <br>afterwards {{RewardIconWithText|Energy Core (Koryeon Domain)}},<br> {{RewardIconWithText|Beast Moon}}
+|-
+|60
+|Guard
+|
+|910,000
+|
+|{{RewardIconWithText|T3 Pawson Whisker, +6|blue}}
+|-
+|61
+|Engineer
+|Immersive Solo Training Pod
+|920,000
+|Complete 10 Trials; per trial {{RewardIconWithLink|Evolution Chest, +40}}, <br>last trial: {{RewardIconWithLink|Evolution Chest, +80}} and Minigame: Unknown Game Cartridge
+|{{RewardIconWithText|T3 Pawson Fang, +6|blue}}; <br>Total reward: {{RewardIconWithLink|Evolution Chest, +440}},<br> Minigame: Unknown Game Cartridge
+|-
+|62
+|Engineer
+|
+|930,000
+|
+|{{RewardIconWithText|T3 Pawson Core, +6|blue}}
+|-
+|63
+|Guard
+|
+|940,000
+|
+|{{RewardIconWithText|T3 Pawson Whisker, +6|blue}}
+|-
+|style="background-color:var(--yellow-bg)"|64
+|Exterminator
+|Operation Console
+|950,000
+|Requires Mecha Frm Tier 4
+|{{RewardIconWithText|T3 Pawson Fang, +6|blue}}; <br>afterwards {{RewardIconWithText|T3 Rebel Polyster, +3|blue}},<br> {{RewardIconWithText|T3 Rebel Radio, +3|blue}},<br> {{RewardIconWithText|T3 Rebel Lens, +3|blue}},<br> {{RewardIconWithText|T3 Rebel Deck Plate, +3|blue}}
+|-
+|65
+|Guard
+|
+|960,000
+|
+|{{RewardIconWithText|T3 Pawson Core, +6|blue}}
+|-
+|style="background-color:var(--red-bg)"|66
+|Gorilla General
+|A Set of Keys
+|830,000
+|Gorilla General: ATK 18,611, DEF 11,952, HP 184,083, RUSH requires AFFCT 37,700; after individual battle: Take the keys to open the Prison Cells
+|{{RewardIconWithText|T3 Pawson Whisker, +6|blue}}; <br>after individual battle:<br> {{RewardIcon|8h Soul Red}} {{Retext|Soul of Gorilla General|red}},<br> {{RewardIconWithLink|Demon Chest, +100}};<br> {{RewardIconWithText|Prison Cell Key, +5}}
+|-
+|67
+|Prison Guard
+|Prison Cell -> King Dangun
+|840,000
+|Requires 1 {{RewardIconWithText|Prison Cell Key}}<br>King Dangun: ATK 17,189, DEF 14,193, HP 110,674, RUSH requires AFFCT 36,500
+|{{RewardIconWithText|T3 Pawson Fang, +6|blue}};<br> after individual battle:<br> {{RewardIconWithText|Beast Moon, +1}}
+|-
+|68
+|Prison Guard
+|Prison Cell -> Rotten Corpse
+|860,000
+|Requires 1 {{RewardIconWithText|Prison Cell Key}}
+|{{RewardIconWithText|T3 Pawson Core, +6|blue}};<br>Rotten Corpse: {{RewardIconWithLink|Tool Chest, +100}},<br> {{RewardIcon|4h Soul Red}}{{Retext|Soul of Rocket Laccon|red}}
+|-
+|69
+|Prison Guard
+|Prison Cell -> Traveler 1035
+|870,000
+|Requires 1 {{RewardIconWithText|Prison Cell Key}}<br>Free the traveler
+|{{RewardIconWithText|T3 Pawson Whisker, +6|blue}};<br> afterwards {{RewardIconWithText|Password Note}} (2117):<br> {{RewardIconWithText|Lottery Ticket, +3}},<br> {{RewardIconWithText|B-Tad, +20k}}
+|-
+|70
+|Prison Guard
+|Prison Cell -> Rotten Corpse
+|880,000
+|Requires 1 {{RewardIconWithText|Prison Cell Key}}
+|{{RewardIconWithText|T3 Pawson Fang, +6|blue}};<br> Rotten Corpse: {{RewardIconWithText|Organ Slime, +30}},<br> {{RewardIconWithText|Soldier Manual}},<br> {{RewardIcon|4h Soul Red}}{{Retext|Soul of Starry Baron|red}}
+|-
+|71
+|Prison Guard
+|Prison Cell -> Peter Jr.
+|890,000
+|Requires 1 {{RewardIconWithText|Prison Cell Key}}<br>Peter Jr.: ATK 21,009, DEF 9,637, HP 374,190, RUSH requires 40,100 AFFCT
+|{{RewardIconWithText|T3 Pawson Core, +6|blue}};<br>after individual battle:<br> {{RewardIconWithText|W-Tad, +600}},<br> {{RewardIconWithText|Standard Printing Supply, +50|yellow}}
+|-
+|style="background-color:var(--green-bg)"|72
+|Laborer
+|Mine Pit
+|850,000
+|Mining takes 8 hours to give rewards; requires 20 T1 minions
+|{{RewardIconWithText|T3 Pawson Whisker, +6|blue}};<br> after mining:{{RewardIconWithLink|Oversized Meatball|green}} {{RewardIconWithLink|Dragon Chest, +240}},<br> {{RewardIconWithText|Missile Box, +1}},<br> {{RewardIconWithLink|Dragon Orb, +1}}
+|-
+|style="background-color:var(--blue-bg)"|73
+|Guard
+|Sign
+|970,000
+|Split the sign
+|{{RewardIconWithText|T4 Pawson Whisker, +8|purple}};<br> afterwards {{RewardIconWithText|Wood, +500}}
+|-
+|style="background-color:var(--blue-bg)"|74
+|Guard
+|Fallen Satellite
+|980,000
+|Search the satelite for rewards
+|{{RewardIconWithText|T4 Pawson Fang, +8|purple}}, afterwards {{RewardIconWithText|Refine Speedup, +6h}},<br> {{RewardIconWithText|Beast Moon, +1}}
+|-
+|75
+|Guard
+|
+|1,060,000
+|
+|{{RewardIconWithText|T4 Pawson Core, +8|purple}}
+|-
+|76
+|Guard Chorister
+|
+|1,080,000
+|
+|{{RewardIconWithText|T4 Pawson Whisker, +8|purple}}
+|-
+|77
+|Guard
+|
+|990,000
+|
+|{{RewardIconWithText|T4 Pawson Fang, +8|purple}}
+|-
+|style="background-color:var(--yellow-bg)"|78
+|Engineer
+|Crashed Traveler Ship
+|1,100,000
+|Requires Awakened {{RewardIconWithLink|Traveler Manual|blue}}
+|{{RewardIconWithText|T4 Pawson Core, +8|purple}}
+|-
+|79
+|Guard
+|
+|1,120,000
+|
+|{{RewardIconWithText|T4 Pawson Whisker, +8|purple}}
+|-
+|80
+|Guard
+|
+|1,000,000
+|Power 11,326, Number 120
+|{{RewardIconWithText|T4 Pawson Fang, +8|purple}}
+|-
+|81
+|Guard
+|
+|1,040,000
+|
+|{{RewardIconWithText|T4 Pawson Core, +8|purple}}
+|-
+|style="background-color:var(--green-bg)"|82
+|Laborer
+|Mine Pit
+|1,020,000
+|Mining takes 10 hours to give rewards
+|{{RewardIconWithText|T3 Pawson Fang, +8|blue}},<br> after mining:<br> {{RewardIconWithText|Missile Box, +1}},<br> {{RewardIconWithLink|Master Scroll, +40|orange}},<br> {{RewardIconWithLink|Novice Scroll, +90|blue}}
+|-
+|style="background-color:var(--blue-bg)"|83
+|Pawson's R Hand
+|Broken Pawson's R Hand
+|1,140,000
+|Clean up the battlefield after fight for rewards
+|{{RewardIconWithText|Beast Moon, +1}};<br> Cleanup:<br> {{RewardIconWithLink|Evolution Chest, +100}},<br> Cat Food +50
+|-
+|style="background-color:var(--red-bg)"|84
+|Pawson's L Hand
+|Seven-jeweled Pagoda
+|1,160,000
+|Clear 7 trials to get all rewards<br>Per trial: {{RewardIconWithLink|Demon Chest, +50}},<br> Last trial: {{RewardIconWithLink|Demon Chest, +300}} and {{RewardIconWithLink|Oversized Meatball|green}}
+|{{RewardIconWithText|Beast Moon, +1}};<br> total reward:<br> {{RewardIconWithLink|Demon Chest, +600}}, <br> {{RewardIconWithLink|Oversized Meatball|green}}
+|-
+|style="background-color:var(--red-bg)"|85
+|Pawson
+|Pawson's Broken Helmet
+|1,180,000
+|Pawson: ATK 25,000, DEF 16,000, HP 2,000,000, RUSH requires AFFCT 44,000
+|{{RewardIconWithText|Beast Moon, +1}};<br> after individual fierce boss battle:<br> {{RewardIconWithLink|Pawson's Head|green}}
+|}
+
+== Moon Shop ==
+
+{| class="wikitable"
+!Item !!Cost
+|-
+|{{Retext|T3 Pawson Whisker|blue}} +50
+|{{RewardIcon|Beast Moon}}
+|-
+|{{Retext|T3 Pawson Fang|blue}} +50
+|{{RewardIcon|Beast Moon}}
+|-
+|{{Retext|T3 Pawson Core|blue}} +50
+|{{RewardIcon|Beast Moon}}
+|-
+|{{RewardIconWithText|B-Tad, +100k}}
+|{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}
+|-
+|{{RewardIconWithText|W-Tad, +1.5k}}
+|{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}
+|-
+|{{RewardIconWithLink|Demon Chest, +600}}
+|{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}
+|-
+|{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}
+|-
+|After Domain is 100%<br>{{RewardIconWithLink|Nebula Detector}}
+|{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}{{RewardIcon|Beast Moon}}
+|}
+
+[[Category:Koryeon_Domain]]

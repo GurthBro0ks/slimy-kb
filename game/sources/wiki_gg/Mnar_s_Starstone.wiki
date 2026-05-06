@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Mnar’s Starstone
+|class_id=21748
+|rank=AAA
+|affct=FAITH
+|source=
+|description=Anti-Lovecraftian compass. Spinning basalt pentagrams that repel deep ones but warp vision.
+|fame=35
+|art=50
+|fth=75
+|civ=41
+|tech=42
+|ss1=Minion Recovery SPD +1.5%<br>prop@52443_2
+|ss2=Minion Recovery SPD +2%<br>prop@52443_2
+|ss3=Minion Recovery SPD +2.5%<br>prop@52443_2
+|ss4=Minion Recovery SPD +3.5%<br>prop@52443_2
+|ss5=Minion Recovery SPD +4.5%<br>prop@52443_2
+|ss7=Minion Recovery SPD +4.5%<br>prop@52443_2<br>prop@52443_2 (Awakened)
+|skill1=[[File:Swampsanctum skill II.png|50px]]Place in Swamp Sanctum: This Relic's FTH +10
+|skill2=[[File:Swampsanctum skill II.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Cap +15%
+}}

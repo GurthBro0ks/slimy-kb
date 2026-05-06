@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Miracle Conch
+|class_id=20232
+|rank=Green
+|affct=FAITH
+|source=
+|description=This strange conch went through a simple Turing test, and the testers decided that the intelligence level of this conch was lower than a starfish.
+|fame=20
+|art=12
+|fth=30
+|civ=17
+|tech=11
+|ss1=Sailors lost entering the next stage -4%
+|ss2=Sailors lost entering the next stage -7%
+|ss3=Sailors lost entering the next stage -10%
+|ss4=Sailors lost entering the next stage -10%
+|ss7=Sailors lost entering the next stage -10%<br> (Awakened)
+}}

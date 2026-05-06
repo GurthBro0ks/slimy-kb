@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=338
+|relics=The Moon and Sixpence,Sowei Mask
+|rank=blue
+|amount=2
+|category=self
+|description=Per Orange+ Gear equipped, Snail ATK +10
+}}

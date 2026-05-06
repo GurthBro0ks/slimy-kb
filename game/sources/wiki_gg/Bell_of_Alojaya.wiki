@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Bell of Alojaya
+|class_id=20050
+|rank=Green
+|affct=CIV
+|source=Obtained from [[Koryeo_Key_Clues#Koryeo_Treasure|Koryeo Key Clue]]
+|description=This bell was made in ancient Gaya, a city-state union country in Korea. An estuary from the Nakdong River led to the sea. The region was rich in iron. The Gayans were highly civilized. They could produce beautiful metal craftworks like this!
+|fame=14
+|art=12
+|fth=18
+|civ=30
+|tech=16
+|ss1=Per Koryeon Area explored, Snail HP +20<br>Areas Explored: 10/10
+|ss2=Per Koryeon Area explored, Snail HP +22<br>Areas Explored: 10/10
+|ss3=Per Koryeon Area explored, Snail HP +24<br>Areas Explored: 10/10
+|ss4=Per Koryeon Area explored, Snail HP +24<br>Areas Explored: 10/10
+|ss7=Per Koryeon Area explored, Snail HP +24<br>Areas Explored: 10/10<br> (Awakened)
+}}

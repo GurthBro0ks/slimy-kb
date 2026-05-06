@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Model G Loom
+|class_id=22012
+|rank=Blue
+|affct=FAME
+|birthday=07-02
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jul 2, 1923 AD, Sakichi Toyoda earned the first bucket of gold via Model G Loom.<br>Model G Loom was invented by Sakichi Toyoda, the boss of the Toyoda company. Unlike previous looms, it didn't need to be operated manually, so one worker could operate 3 to 4 looms at the same time. And if the warp was broken, the loom would stop working and change the shuttle automatically. So the rate of good-quality products and efficiency were highly improved, ensuring the strong productivity of Toyoda company.
+|fame=48
+|art=25
+|fth=19
+|civ=28
+|tech=34
+|ss1=In the Rebel Rocket Cabin:<br>> Prismatic Armor Base Effect +8%
+|ss2=In the Rebel Rocket Cabin:<br>> Prismatic Armor Base Effect +16%
+|ss3=In the Rebel Rocket Cabin:<br>> Prismatic Armor Base Effect +24%
+|ss4=In the Rebel Rocket Cabin:<br>> Prismatic Armor Base Effect +40%
+|ss7=In the Rebel Rocket Cabin:<br>> Prismatic Armor Base Effect +40%<br>In the Rebel Rocket Cabin:<br>> Prismatic Armor Base Effect +40% (Awakened)
+|skill1=[[File:Biozilla skill I.png|50px]]Place in a Biozilla: In Species War, All Minion DEF +1%
+}}

@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=A royal valuable that somehow ended up in the hands of commoners. A rich family from the south won the bid for it, and used it as their chamber pot.
+|affct=FTH
+|hard=HP
+|source=Divine Chaos Chest (0.2%)
+|color=purple
+|earth=8
+|water=6
+|fire=5
+|wind=7
+|form=Angel
+|element=Water
+|realm=Kemet
+|orangehard=HP
+}}

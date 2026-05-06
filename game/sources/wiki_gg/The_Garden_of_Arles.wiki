@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=The Garden of Arles
+|class_id=21649
+|rank=AAA
+|affct=ART
+|source=
+|description= Van Gogh left Paris for Arles and quickly fell in love with the place. The nature of Arles drove him mad, and his creativity reached its peak. After entering the Saint-Paul asylum for treatment, he looked out from his ward window at the hills, clouds, and wheat fields, which inspired a series of nature-themed paintings, including The Garden of Arles. Van Gogh used vibrant colors and lively brushstrokes to capture the tranquility and vitality of the garden. Through these works, he not only presented the natural scenery of Arles but also expressed his love for life and inner peace, showcasing his mastery of color and light.
+|fame=34
+|art=75
+|fth=46
+|civ=49
+|tech=39
+|ss1=Fungus Farm: +3%chance to produce<br>Wonder Fungi<br>Per 10 DEF-Fungi eaten, Snail DEF +3<br>DEF-Fungi Eaten: 500/500
+|ss2=Fungus Farm: +4%chance to produce<br>Wonder Fungi<br>Per 10 DEF-Fungi eaten, Snail DEF +4<br>DEF-Fungi Eaten: 500/500
+|ss3=Fungus Farm: +5%chance to produce<br>Wonder Fungi<br>Per 10 DEF-Fungi eaten, Snail DEF +5<br>DEF-Fungi Eaten: 500/500
+|ss4=Fungus Farm: +7%chance to produce<br>Wonder Fungi<br>Per 10 DEF-Fungi eaten, Snail DEF +7<br>DEF-Fungi Eaten: 500/500
+|ss5=Fungus Farm: +9%chance to produce<br>Wonder Fungi<br>Per 10 DEF-Fungi eaten, Snail DEF +9<br>DEF-Fungi Eaten: 500/500
+|ss7=Fungus Farm: +9%chance to produce<br>Wonder Fungi<br>Per 10 DEF-Fungi eaten, Snail DEF +9<br>DEF-Fungi Eaten: 500/500<br>Fungus Farm: +7%chance to produce<br>Wonder Fungi (Awakened)
+|skill1=[[File:Fungusfarm skill II.png|50px]]Place in Fungus Farm: Fungus Output +15%
+|skill2=[[File:Fungusfarm skill II.png|50px]]Place in Fungus Farm: This Relic's ART +10
+}}

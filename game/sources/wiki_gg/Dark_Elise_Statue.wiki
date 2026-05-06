@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dark Elise Statue
+|class_id=20283
+|rank=Green
+|affct=FAITH
+|source=
+|description=Elise was a god who was destined to destroy the land. Although she was loved by her clan, she also had to bear the pain of witnessing her loved ones' passing. Witnessing her relatives gradually go crazy and fall into darkness, she sealed up her beautiful memories. Only her memories could remind her of the days when she was happy and carefree.
+|fame=14
+|art=14
+|fth=32
+|civ=16
+|tech=14
+|ss1=Per 10 Soul Chests opened, Snail RUSH +1<br>Soul Chests Opened: 500/500
+|ss2=Per 10 Soul Chests opened, Snail RUSH +2<br>Soul Chests Opened: 500/500
+|ss3=Per 10 Soul Chests opened, Snail RUSH +3<br>Soul Chests Opened: 500/500
+|ss4=Per 10 Soul Chests opened, Snail RUSH +3<br>Soul Chests Opened: 500/500
+|ss7=Per 10 Soul Chests opened, Snail RUSH +3<br>Soul Chests Opened: 500/500<br> (Awakened)
+}}

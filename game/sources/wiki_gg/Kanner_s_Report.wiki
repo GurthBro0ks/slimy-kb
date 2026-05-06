@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Kanner's Report
+|class_id=22228
+|rank=SSS
+|affct=FAME
+|birthday=01-14
+|source=Lottery Machine No.2 (0.11%)
+|description=On Jan 14, 1943 AD, Dr. Kenna discovered something unusual in his patient's medical records.<br>Kenna's Medical Report is the world's first medical report on autism, in which Kenna analyzed in detail the 11 patients he was responsible for, and summarized the following characteristics: severe lack of emotional contact with others, repetitive ritual behaviors, high levels of vision, and alert in some ways, which are roughly consistent with the characteristics of today's autism. Although his judgment on the cause of autism has been eliminated by existing medical theories, his contribution to promoting autism research is still indelible!
+|fame=109
+|art=54
+|fth=56
+|civ=66
+|tech=77
+|ss1=Snail HP +300<br>Angel Minion ATK +3%<br>Per 5 Minions Healed, Snail ATK +6<br>Minions healed: 100/100
+|ss2=Snail HP +400<br>Angel Minion ATK +4%<br>Per 5 Minions Healed, Snail ATK +8<br>Minions healed: 100/100
+|ss3=Snail HP +500<br>Angel Minion ATK +5%<br>Per 5 Minions Healed, Snail ATK +10<br>Minions healed: 100/100
+|ss4=Snail HP +700<br>Angel Minion ATK +7%<br>Per 5 Minions Healed, Snail ATK +14<br>Minions healed: 100/100
+|ss5=Snail HP +900<br>Angel Minion ATK +9%<br>Per 5 Minions Healed, Snail ATK +18<br>Minions healed: 100/100
+|ss6=Snail HP +1200<br>Angel Minion ATK +12%<br>Per 5 Minions Healed, Snail ATK +24<br>Minions healed: 100/100
+|ss7=Snail HP +1200<br>Angel Minion ATK +12%<br>Per 5 Minions Healed, Snail ATK +24<br>Minions healed: 100/100<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion HP +9%
+|skill2=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop All ELMT DMG +15
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FAME +15
+|mirage={{Mirage|name=Kanner's Report|reward={{RewardIconWithLink|Research Briefcase, +2|orange}}
+|3name=Dr. Brewer|3rec=94.27M|3atk=264610|3defense=176532|3hp=17265994|3weak=33431
+|4name=Dr. Hanzbill|4rec=129.59M|4atk=339086|4defense=226217|4hp=26216971|4weak=39086
+|5name=Dr. Kenna|5rec=170.66M|5atk=425692|5defense=283996|5hp=38350293|5weak=47003
+|6name=Dr. Sean|6rec=219.69M|6atk=529100|6defense=352983|6hp=54637765|6weak=53059
+|Arec=296.29M|Aatk=643232|Adefense=429126|Ahp=76087516|Aweak=53534
+}}}}

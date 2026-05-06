@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Archimedes' Lever,Somersault Cloud,Voyager 1
+|rank=orange
+|amount=3
+|category=self
+|description=Per 1k DNA Strength, Snail RUSH +5<br>DNA Strength: 48,000/48,000
+}}
+[[Category:Self]]

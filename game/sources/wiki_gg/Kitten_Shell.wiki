@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Anyone that sees this Snail Shell would think it's a Kitten. But it's actually a costume that Kitten made Puppy wear after defeating them.
+|affct=FTH
+|hard=DEF
+|source=Divine Chaos Chest (0.8%)
+|color=green
+|earth=1
+|water=1
+|fire=2
+|wind=2
+|form=Angel
+|element=Wind
+|realm=Bharata
+|orangehard=HP
+}}

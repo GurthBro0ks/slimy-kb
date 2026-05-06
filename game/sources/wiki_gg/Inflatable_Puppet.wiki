@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Inflatable Puppet
+|class_id=20634
+|rank=Green
+|affct=ART
+|source=
+|description=With the development of science and technology, Hellas garment sector has experienced industrialization. To follow the trend, they combined inflatable dolls with alchemy, creating this groundbreaking Inflatable puppet. To enhance its utility, a seasoned wizard from Hogarth Shire Magic Academy was specially hired to enchant it. Whether for personal use or combat, it outperforms traditional puppets.
+|fame=14
+|art=34
+|fth=14
+|civ=13
+|tech=15
+|ss1=Challenge Supreme Valkyrie, enemy HARD Stats -30%
+|ss2=Challenge Supreme Valkyrie, enemy HARD Stats -60%
+|ss3=Challenge Supreme Valkyrie, enemy HARD Stats -90%
+|ss4=Challenge Supreme Valkyrie, enemy HARD Stats -90%
+|ss7=Challenge Supreme Valkyrie, enemy HARD Stats -90%<br> (Awakened)
+}}

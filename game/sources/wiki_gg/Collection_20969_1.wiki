@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20969_1
+|class_id=20969
+|rank=Green
+|affct=FAME
+|source=
+|description=collection@20969_2
+|fame=29
+|art=16
+|fth=12
+|civ=19
+|tech=14
+|ss1=In explorations, 2x Green Card Drops +0.2%<br>In explorations, 2x Blue Card Drops +0.2%
+|ss2=In explorations, 2x Green Card Drops +0.4%<br>In explorations, 2x Blue Card Drops +0.4%
+|ss3=In explorations, 2x Green Card Drops +0.6%<br>In explorations, 2x Blue Card Drops +0.6%
+|ss4=In explorations, 2x Green Card Drops +0.6%<br>In explorations, 2x Blue Card Drops +0.6%
+|ss7=In explorations, 2x Green Card Drops +0.6%<br>In explorations, 2x Blue Card Drops +0.6%<br> (Awakened)
+}}

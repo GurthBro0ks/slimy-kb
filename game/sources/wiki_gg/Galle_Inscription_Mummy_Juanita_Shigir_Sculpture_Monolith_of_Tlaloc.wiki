@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=702
+|relics=Galle Inscription,Mummy Juanita,Shigir Sculpture,Monolith of Tlaloc
+|rank=purple
+|amount=4
+|category=self
+|description=Per 30 T7+ Dragon Minions in battle:Troop HARD Stats +16
+}}

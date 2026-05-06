@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=No.1 Majesty,1982 Wine
+|rank=blue
+|amount=2
+|category=self
+|description=Snail DEF +50
+}}
+[[Category:Self]]

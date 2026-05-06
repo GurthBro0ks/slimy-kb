@@ -1,0 +1,42 @@
+{{CargoRelic
+|name=Marquis Bell
+|rank=AAA
+|affct=ART
+|birthday=04-04
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (1.4%), Cathay Treasure Maps (10%), Relic Forge (80 Relic RF)
+|description=On Apr 4, 1978, the Marquis Bells were played again after 2,000 years.
+
+On this day, the Marquis Bells were played in an auditorium of Bubei, 2400 years since the ancient instrument last created music. It was a medley of modern songs arranged by many famous musicians, including The East is Red, River on a Spring Night and Jasmine Flower.
+
+[Basic Info]
+
+Produced in: the Warring States Period<br>Material: Bronze<br>Numbers: 65 bells<br>Overall size: 748x335x273 cm<br>Overall weight: 2567 kg<br>Exhibition site: Hubei Provincial Museum
+|fame=37
+|art=71
+|fth=45
+|civ=52
+|tech=38
+|ss1=Per 2 Cathay Generals joined, Snail ATK +6<br>Per 2 Cathay Generals joined, Snail DEF +6<br>Cathay Generals: 28/28
+|ss2=Per 2 Cathay Generals joined, Snail ATK +8<br>Per 2 Cathay Generals joined, Snail DEF +8<br>Cathay Generals: 28/28
+|ss3=Per 2 Cathay Generals joined, Snail ATK +10<br>Per 2 Cathay Generals joined, Snail DEF +10<br>Cathay Generals: 28/28
+|ss4=Per 2 Cathay Generals joined, Snail ATK +14<br>Per 2 Cathay Generals joined, Snail DEF +14<br>Cathay Generals: 28/28
+|ss5=Per 2 Cathay Generals joined, Snail ATK +18<br>Per 2 Cathay Generals joined, Snail DEF +18<br>Cathay Generals: 28/28
+|ss7=Per 2 Cathay Generals joined, Snail ATK +18<br>Per 2 Cathay Generals joined, Snail DEF +18<br>Cathay Generals: 28/28<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: Max Cap +15%
+|skill2=[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: Generate W-tads by +15%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:ART Relics]]
+[[Category:Purple ART Relics]]
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Tadpole Pond W-Tad Output Boost]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Enhanced by Cathay Generals]]
+[[Category:Mutant Cell Drop Boost]]
+[[Category:Stan Boost]]

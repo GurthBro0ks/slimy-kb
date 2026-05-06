@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Mom
+|rank=orange
+|cabin=2
+|id=111
+|gene1={race} DEF +50
+|gene2={race} FAME +50
+|gene3=Resolver: 4.5% chance +1 Cultivation Fluid
+|gene4=Per 60 Dragon Minions in battle,
+Troop Earth DMG +6
+|gene5=Resolver: W-tads extracted +9
+|gene6=Per 60 Dragon Minions in battle,
+Troop Earth DMG +10
+|gene7=Resolver: W-tads extracted +15
+|}}

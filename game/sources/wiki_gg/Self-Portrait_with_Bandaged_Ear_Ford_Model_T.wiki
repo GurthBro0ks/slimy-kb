@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Self-Portrait with Bandaged Ear,Ford Model T
+|rank=orange
+|amount=2
+|category=self
+|description=Per 50 Hellas Soul Nail of Revelation Reforged, Snail Primeval Power +7; Hellas Soul Nail of Revelation Reforged: 3,000/3,000
+}}
+[[Category:Self]]
+[[Category:Primeval Power Boost]]

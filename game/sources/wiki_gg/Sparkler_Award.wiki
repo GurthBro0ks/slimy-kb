@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Sparkler Award
+|class_id=22208
+|rank=AAA
+|affct=TECH
+|birthday=05-17
+|source=
+|description=On May 17, 2007 AD, the Sparkler Award was officially established in the United States!<br>Sparkler Award is the design award with the highest coverage, greatest professionalism, and most far-reaching influence in the world. It aims to create changes and make life better through better design. Because of its advanced design concepts and unique non-commercial positioning, many innovative companies and design agencies regard it as the wind dane of global design trends.
+|fame=45
+|art=34
+|fth=48
+|civ=41
+|tech=75
+|ss1=Home Decor Inc, Series C Decor Coin Dividend +4%<br>Per 50 Minions cloned, Snail ATK +3<br>Minions Cloned: 2000/2000
+|ss2=Home Decor Inc, Series C Decor Coin Dividend +5%<br>Per 50 Minions cloned, Snail ATK +4<br>Minions Cloned: 2000/2000
+|ss3=Home Decor Inc, Series C Decor Coin Dividend +6%<br>Per 50 Minions cloned, Snail ATK +5<br>Minions Cloned: 2000/2000
+|ss4=Home Decor Inc, Series C Decor Coin Dividend +8%<br>Per 50 Minions cloned, Snail ATK +7<br>Minions Cloned: 2000/2000
+|ss5=Home Decor Inc, Series C Decor Coin Dividend +10%<br>Per 50 Minions cloned, Snail ATK +9<br>Minions Cloned: 2000/2000
+|ss7=Home Decor Inc, Series C Decor Coin Dividend +10%<br>Per 50 Minions cloned, Snail ATK +9<br>Minions Cloned: 2000/2000<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Murika skill II.png|50px]]Place in Murikan Museum: This Relic's TECH +10
+|skill2=[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x Green Card Drops +7.5%
+}}

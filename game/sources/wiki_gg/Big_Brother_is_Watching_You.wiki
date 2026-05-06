@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Big Brother is Watching You
+|class_id=22875
+|rank=SSS
+|affct=CIV
+|source=
+|description=Winston has had enough of a society where even thoughts are controlled, and he attempts to resist, but all actions seem futile and dangerous. He questions everything, especially the truths held by the Party, particularly the omnipresent yet never-seen Big Brother. Ultimately, Winston's rebellion is uncovered by the Thought Police, and the tortures of the Ministry of Love follow... [Appendix] A flyer printed by the Will of the Earth, with eyes on it seemingly saying: The Will of the Earth is watching you!
+|fame=76
+|art=67
+|fth=58
+|civ=106
+|tech=55
+|ss1=Per 60 Mutant Minions in battle:<br>> Troop ATK +9<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +9<br>All Mutant Minion Skins, HARD Stats +30%
+|ss2=Per 60 Mutant Minions in battle:<br>> Troop ATK +18<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +18<br>All Mutant Minion Skins, HARD Stats +40%
+|ss3=Per 60 Mutant Minions in battle:<br>> Troop ATK +27<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +27<br>All Mutant Minion Skins, HARD Stats +50%
+|ss4=Per 60 Mutant Minions in battle:<br>> Troop ATK +45<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +45<br>All Mutant Minion Skins, HARD Stats +70%
+|ss5=Per 60 Mutant Minions in battle:<br>> Troop ATK +63<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +63<br>All Mutant Minion Skins, HARD Stats +90%
+|ss6=Per 60 Mutant Minions in battle:<br>> Troop ATK +90<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +90<br>All Mutant Minion Skins, HARD Stats +120%
+|ss7=Per 60 Mutant Minions in battle:<br>> Troop ATK +90<br>Per 60 Mutant Minions in battle:<br>> Troop RUSH +90<br>All Mutant Minion Skins, HARD Stats +120%<br>Per 60 Mutant Minions in battle:<br>> Troop ATK +90 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]prop@3948_2
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Snail DEF +600
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's CIV +15
+}}

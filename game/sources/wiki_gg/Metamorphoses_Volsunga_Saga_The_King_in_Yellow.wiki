@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=766
+|relics=Metamorphoses,Volsunga Saga,The King in Yellow
+|rank=orange
+|amount=3
+|category=self
+|description=All minion skins ATK +80%
+}}

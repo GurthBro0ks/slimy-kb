@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Goldbach Conjecture,Olympic Charter,The Works of Nature
+|rank=orange
+|amount=3
+|category=self
+|description=Per 10 Lucky Coins gained, Snail RUSH +8; Lucky Coins Gained: 400/400
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by Lucky Coins]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Otter's Treasure
+|class_id=20629
+|rank=Green
+|affct=ART
+|source=
+|description=This exquisitely designed shell is a treasure cherished for many years by a sea otter. During this time, it continuously processed the shell with materials it collected, eventually crafting it into the stunning masterpiece it is today, resembling a work of art!
+|fame=15
+|art=31
+|fth=18
+|civ=15
+|tech=16
+|ss1=Snail DEF +10<br>Per Sea Area conquered, Snail ATK +5<br>Areas of Mysterious Sea Conquered: 6/6
+|ss2=Snail DEF +20<br>Per Sea Area conquered, Snail ATK +10<br>Areas of Mysterious Sea Conquered: 6/6
+|ss3=Snail DEF +30<br>Per Sea Area conquered, Snail ATK +15<br>Areas of Mysterious Sea Conquered: 6/6
+|ss4=Snail DEF +30<br>Per Sea Area conquered, Snail ATK +15<br>Areas of Mysterious Sea Conquered: 6/6
+|ss7=Snail DEF +30<br>Per Sea Area conquered, Snail ATK +15<br>Areas of Mysterious Sea Conquered: 6/6<br> (Awakened)
+}}

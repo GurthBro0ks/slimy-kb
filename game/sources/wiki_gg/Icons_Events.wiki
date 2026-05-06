@@ -1,0 +1,110 @@
+= [[Events]] =
+Icons for [[Events]]
+
+= Event Icons =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Carnival Balloon}}
+{{IconExampleRowWithText|Mystery Ash}}
+{{IconExampleRowWithText|Spirit Crystal}}
+|}
+
+= 2024 May - [[Golden Week]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Flip Card Ticket}}
+{{IconExampleRowWithText|Happy Coin}}||Get better version that's not cut off
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Silver Hammer}}
+{{IconExampleRowWithText|Golden Hammer}}
+{{IconExampleRowWithText|Diamond Hammer}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Blooming Peony|purple}}||Shell
+{{IconExampleRowWithLink|Ink Chrysanths|orange}}
+{{IconExampleRowWithLink|Nuclear-Powered Mini Fan|green}}
+{{IconExampleRowWithLink|Space Water Bear, +280 Fragments|orange|Minion_Sim#Precious-Orange_Tactical_Logs}}||Orange Tactical Logs
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Fire Ring|orange}}||[[Red Doe]] Decoration
+{{IconExampleRowWithLink|Balloon|purple}}||[[Red Doe]] Decoration
+{{IconExampleRowWithText|Seal|blue}}||[[Red Doe]] Decoration
+{{IconExampleRowWithLink|Iron Cage|green}}||[[Red Doe]] Decoration
+|}
+
+= 2024 Aug - [[1st Anniversary]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Bird}}
+{{IconExampleRowWithText|Birthday Party Pack}}
+{{IconExampleRowWithText|Candle of Skill}}
+{{IconExampleRowWithText|Celebration Ticket}}
+{{IconExampleRowWithText|EXP Cake}}
+{{IconExampleRowWithText|Flower}}
+{{IconExampleRowWithText|Snail Coin}}
+{{IconExampleRowWithText|Thank-you Pack}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Anniversary Cake|green}}
+{{IconExampleRowWithLink|Family Photo|black|Home Decoration}}||Home Decoration
+{{IconExampleRowWithLink|Golden Snail|orange}}
+{{IconExampleRowWithLink|Robot Guard|orange|Robots}}||Robot
+{{IconExampleRowWithLink|We Are Family|green}}
+|}
+
+= 2024 Sept - [[Venture to the Stars]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Aluminum Alloy Plate}}
+{{IconExampleRowWithText|Chip}}
+{{IconExampleRowWithText|Circuit Board}}
+{{IconExampleRowWithText|Detector}}
+{{IconExampleRowWithText|Gear}}
+{{IconExampleRowWithText|Space Token}}
+{{IconExampleRowWithText|Starlight Key}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Chang'e and Laurel|orange}}
+{{IconExampleRowWithLink|Cupid|orange|Robots}}||Robot
+{{IconExampleRowWithLink|Gan Shi Star Chart|green}}
+{{IconExampleRowWithLink|Large Carrier Rocket|black|Home Decoration}}||Home Decoration
+{{IconExampleRowWithLink|Lunar Soil Specimen|green}}
+{{IconExampleRowWithLink|Planet Model|green}}||[[Advisor Zhuge]] Decoration
+|}
+
+= 2024 Oct - [[Pumpkin Lucky Night]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Candy Cane (Currency)}}
+{{IconExampleRowWithText|Pumpkin Coin}}
+{{IconExampleRowWithText|Pumpkin Key}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Halloween Choice Pack|orange}}
+{{IconExampleRowWithLink|Katrina Skeleton|purple}}||Shell
+{{IconExampleRowWithLink|Nutcracker Jack|orange|Rocket#Robots}}||Robot
+{{IconExampleRowWithLink|Turnip Lamp|green}}
+{{IconExampleRowWithLink|Vampire Bat|purple}}||Shell
+|}
+
+= 2024 Dec - [[Snowy Xmas]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Bronze Longhu Cup|orange}}
+{{IconExampleRowWithLink|Xmas Wreath|green}}
+{{IconExampleRowWithLink|Candy Cane|green}}
+{{IconExampleRowWithLink|New Year Photo|green}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Bank Logo|green}}
+{{IconExampleRowWithLink|Counter|blue}}
+{{IconExampleRowWithLink|ATM|purple}}
+{{IconExampleRowWithLink|Savings Counter|orange}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Xmas Elf|orange}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Monkey King|orange}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Christmas Hat|purple}}
+{{IconExampleRowWithLink|Christmas Ornaments|purple}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Hot Cocoa}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Artist's Palette|orange}}
+{{IconExampleRowWithText|Code Monkey's Keyboard|orange}}
+{{IconExampleRowWithText|Gym Monkey's Backpack|orange}}
+{{IconExampleRowWithText|Peetah's LU Suitcase|orange}}
+|}
+
+[[Category:Altar]]
+[[Category:Events]]
+[[Category:Icons]]
+[[Category:Lottery Machine]]

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Mordan Bullet,Imperial Lamp,Atilla Horseshoe
+|rank=blue
+|amount=3
+|category=other
+|description=Food rewards from offering +2.4%
+}}
+[[Category:Other]]

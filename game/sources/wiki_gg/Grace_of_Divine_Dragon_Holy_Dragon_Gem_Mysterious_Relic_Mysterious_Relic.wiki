@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=859
+|relics=Grace of Divine Dragon,Holy Dragon Gem,Mysterious Relic,Mysterious Relic
+|rank=orange
+|amount=4
+|category=self
+|description=Snail Leadership +9
+}}

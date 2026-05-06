@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Panther Brooch
+|class_id=22245
+|rank=SS
+|affct=ART
+|birthday=12-23
+|source=Lottery Machine No.2 (0.32%), Wishing (1.2%)
+|description=On Dec 23, 1936 AD, Duke Windsor ordered this panther brooch to express his love to Mrs. Simpson.<br>The Duke of Windsor's panther brooch is a token of promise given by the Duke of Windsor to Mrs. Simpson. It features a ball-sized sapphire, on which a panther made of platinum and diamonds squats, highlighting the elegance of this brooch. It not only accompanied Mrs. Simpson for a long time, but also became a witness of the Duke of Windsor's resolute abandonment of the throne for his lover.
+|fame=54
+|art=102
+|fth=66
+|civ=67
+|tech=58
+|ss1=Angel Minion HP +2%<br>In the Gaia Rocket Cabin:<br>> Rainbow Generator Base Effect +16%<br>Per 6 Mirage Gems gained, Snail DEF +2<br>Mirage Gems Gained: 420/420
+|ss2=Angel Minion HP +3%<br>In the Gaia Rocket Cabin:<br>> Rainbow Generator Base Effect +24%<br>Per 6 Mirage Gems gained, Snail DEF +3<br>Mirage Gems Gained: 420/420
+|ss3=Angel Minion HP +4%<br>In the Gaia Rocket Cabin:<br>> Rainbow Generator Base Effect +32%<br>Per 6 Mirage Gems gained, Snail DEF +4<br>Mirage Gems Gained: 420/420
+|ss4=Angel Minion HP +6%<br>In the Gaia Rocket Cabin:<br>> Rainbow Generator Base Effect +48%<br>Per 6 Mirage Gems gained, Snail DEF +6<br>Mirage Gems Gained: 420/420
+|ss5=Angel Minion HP +8%<br>In the Gaia Rocket Cabin:<br>> Rainbow Generator Base Effect +64%<br>Per 6 Mirage Gems gained, Snail DEF +8<br>Mirage Gems Gained: 420/420
+|ss6=Angel Minion HP +11%<br>In the Gaia Rocket Cabin:<br>> Rainbow Generator Base Effect +88%<br>Per 6 Mirage Gems gained, Snail DEF +11<br>Mirage Gems Gained: 420/420
+|ss7=Angel Minion HP +11%<br>In the Gaia Rocket Cabin:<br>> Rainbow Generator Base Effect +88%<br>Per 6 Mirage Gems gained, Snail DEF +11<br>Mirage Gems Gained: 420/420<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop Earth DMG +60
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, AFFCT Checks -150
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, DMG +30%
+|mirage={{Mirage|name=Incredible Love|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Duke Guard|3rec=17.17M|3atk=108695|3defense=72515|3hp=3477209|3weak=17942
+|4name=Lady Simpson|4rec=34.04M|4atk=137579|4defense=91784|4hp=5338813|4weak=19344
+|5name=Duke of Windsor|5rec=49.80M|5atk=170819|5defense=113960|5hp=8018257|5weak=21711
+|Arec=68.25M|Aatk=209730|Adefense=139919|Ahp=11563511|Aweak=27451
+}}}}

@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Universe Bowl
+|rank=Blue
+|affct=ART
+|birthday=06-25
+|source=Lottery Machine (0.07%), Wishing (3%), Fungus Chest (2%), Novice Scrolls (1%)
+|description=On Jun 25, AD 1230, a Japanese monk returned from Tiantai Mountain with a Universe Bowl.
+
+The creation of the Universe Bowl is mostly of occasionality. It is really hard to create one. The Yohen, Yuteki, and Nogime are the most valuable ones, with Yohen being the most expensive tenmoku. The colors of a tenmoku are always changing and so unique that is seems like a treasure from heaven. It's like there's a starry sky inside the bowl.
+
+[Item Info]
+
+Era: Southern Song Dynasty. Existing quantity: 3. Collected by: Ryuokin Temple, Seikado, Fujita Museum
+|fame=27
+|art=48
+|fth=30
+|civ=27
+|tech=22
+|ss1=Tadpole Pond Max Cap +2%
+|ss2=Tadpole Pond Max Cap +4%
+|ss3=Tadpole Pond Max Cap +6%
+|ss4=Tadpole Pond Max Cap +10%
+|ss7=Tadpole Pond Max Cap +10%<br>Tadpole Pond Max Cap +10% (Awakened)
+|skill1=[[File:Yamato skill I.png|50px]] Place in Yamato Museum: In Yamato, Snail DEF +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:ART Relics]]
+[[Category:Blue ART Relics]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:DEF Boost]]
+[[Category:ATK Boost]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:Wonder Fungus Output]]
+[[Category:Minorino Boost]]

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=542
+|relics=Outer Space Treaty,Lincoln Statue,Dragonspine Medal
+|rank=orange
+|amount=3
+|category=self
+|description=Per 5 Rocket Tech LVLs, Snail HP +160;Rocket Tech Upgraded: 50/50
+}}

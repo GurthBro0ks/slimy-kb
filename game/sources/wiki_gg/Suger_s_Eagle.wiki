@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Suger's Eagle
+|class_id=22242
+|rank=S
+|affct=ART
+|birthday=11-09
+|source=Lottery Machine No.2 (1.45%), Wishing (5.4%)
+|description=On Nov 9, 1147 AD, the vase was created by a craftsmen commissioned by Suger of the Saint Denis Abbey.<br>Suger's Eagle is an eagle-shaped bottle commissioned by Suger of the Saint Denis Abbey and created by skilled craftsmen. Its body is an ancient porphyry bottle, while its head, wings, and claws are gold-plated and embossed with silver. It was used as a mass item in the Saint-Denis Abbey during the priest's commemoration of Jesus' communion. The exaggerated neck and wings of the eagle mark the beginning of the Gothic decorative art.
+|fame=48
+|art=99
+|fth=63
+|civ=66
+|tech=56
+|ss1=Snail ATK +10<br>Per 4 ART Relics gained, Snail ATK +2<br>Per 4 ART Relics gained, Snail RUSH +2<br>ART Relics: 120/120
+|ss2=Snail ATK +20<br>Per 4 ART Relics gained, Snail ATK +4<br>Per 4 ART Relics gained, Snail RUSH +4<br>ART Relics: 120/120
+|ss3=Snail ATK +30<br>Per 4 ART Relics gained, Snail ATK +6<br>Per 4 ART Relics gained, Snail RUSH +6<br>ART Relics: 120/120
+|ss4=Snail ATK +50<br>Per 4 ART Relics gained, Snail ATK +10<br>Per 4 ART Relics gained, Snail RUSH +10<br>ART Relics: 120/120
+|ss5=Snail ATK +70<br>Per 4 ART Relics gained, Snail ATK +14<br>Per 4 ART Relics gained, Snail RUSH +14<br>ART Relics: 120/120
+|ss6=Snail ATK +100<br>Per 4 ART Relics gained, Snail ATK +20<br>Per 4 ART Relics gained, Snail RUSH +20<br>ART Relics: 120/120
+|ss7=Snail ATK +100<br>Per 4 ART Relics gained, Snail ATK +20<br>Per 4 ART Relics gained, Snail RUSH +20<br>ART Relics: 120/120<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion RUSH +9%
+|skill2=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, Zombie Cells gained +30%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x White Card Drops +6%
+|mirage={{Mirage|name=Suger's Masterpiece|reward={{RewardIconWithLink|Offering Speedup, +28800|orange}}
+|3name=Saint Denis' Friar|3rec=11.66M|3atk=88536|3defense=59066|3hp=2309521|3weak=15323
+|4name=Abbe Suger|4rec=29.85M|4atk=128737|4defense=85886|4hp=4725175|4weak=18927
+|Arec=53.34M|Aatk=178289|Adefense=118944|Ahp=8551736|Aweak=22399
+}}}}

@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Heart Tree
+|class_id=22778
+|rank=SSS
+|affct=FAME
+|source=
+|description=A heart tree is the center of a godswood. It is a weirwood tree that has a face carved into the wood of the trunk. Heart trees are sacred in the religion of the Old Gods, and the closest thing to a shrine that the religion possesses.
+|fame=109
+|art=63
+|fth=47
+|civ=68
+|tech=75
+|ss1=Snail Leadership +3<br>Zombie Minion Recovery SPD +6%<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Snail Leadership +4<br>Zombie Minion Recovery SPD +8%<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Snail Leadership +5<br>Zombie Minion Recovery SPD +10%<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Snail Leadership +7<br>Zombie Minion Recovery SPD +14%<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Snail Leadership +9<br>Zombie Minion Recovery SPD +18%<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Snail Leadership +12<br>Zombie Minion Recovery SPD +24%<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Snail Leadership +12<br>Zombie Minion Recovery SPD +24%<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +30<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail ATK +600
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's FAME +15
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x B-tad Drops +15%
+}}

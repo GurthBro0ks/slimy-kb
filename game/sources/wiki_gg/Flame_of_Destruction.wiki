@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Flame of Destruction
+|class_id=20273
+|rank=Green
+|affct=FAITH
+|source=
+|description=The flame that existed in the primordial era even before the birth of the world. Since its inception, the core of the Fire Giant Surtur was destined to destroy the entire world. At the twilight of the gods, it alone ignited the Tree of the World and destroyed Asgard.
+|fame=15
+|art=16
+|fth=30
+|civ=16
+|tech=12
+|ss1=Per Realm Conquered, Snail Fire DMG +1<br>Realms Conquered: 9/9
+|ss2=Per Realm Conquered, Snail Fire DMG +2<br>Realms Conquered: 9/9
+|ss3=Per Realm Conquered, Snail Fire DMG +3<br>Realms Conquered: 9/9
+|ss4=Per Realm Conquered, Snail Fire DMG +3<br>Realms Conquered: 9/9
+|ss7=Per Realm Conquered, Snail Fire DMG +3<br>Realms Conquered: 9/9<br> (Awakened)
+}}

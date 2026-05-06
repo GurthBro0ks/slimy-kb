@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Magellan's Journal,Tudor Rose
+|rank=blue
+|amount=2
+|category=self
+|description=Per 1k Power, Snail DEF +3<br>Power: 10,000/10,000
+}}
+[[Category:Self]]

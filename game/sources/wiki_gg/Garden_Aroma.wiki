@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Garden Aroma
+|class_id=20639
+|rank=Green
+|affct=ART
+|source=
+|description=Chan-hee, with her unique craftsmanship, refines the pure essence of nature's flowers. The name evokes visions of a lush garden, where vibrant greenery and scents transport you to a springtime oasis. Each layer of fragrance unfolds gradually, cleansing and uplifting your soul with the sweet aroma.
+|fame=14
+|art=31
+|fth=16
+|civ=13
+|tech=16
+|ss1=Snail ATK +10<br>Per 3 Incense used, Snail DEF +1<br>Incense Used: 150/150
+|ss2=Snail ATK +20<br>Per 3 Incense used, Snail DEF +2<br>Incense Used: 150/150
+|ss3=Snail ATK +30<br>Per 3 Incense used, Snail DEF +3<br>Incense Used: 150/150
+|ss4=Snail ATK +30<br>Per 3 Incense used, Snail DEF +3<br>Incense Used: 150/150
+|ss7=Snail ATK +30<br>Per 3 Incense used, Snail DEF +3<br>Incense Used: 150/150<br> (Awakened)
+}}

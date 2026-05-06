@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=284
+|relics=Cancer Zodiac,Virgo
+|rank=orange
+|amount=2
+|category=self
+|description=Snail ATK +5%
+}}

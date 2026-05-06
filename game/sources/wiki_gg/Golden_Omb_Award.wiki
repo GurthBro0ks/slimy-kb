@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Ombú Award
+|class_id=20983
+|rank=Green
+|affct=FAME
+|source=
+|description=The Golden Ombú Award is the highest honor of the Festival Internacional de Cine de Mar del Plata and a major celebration of Latin American and European cinema. Originally non-competitive, the award was established to showcase Latin American culture through film, encourage filmmakers to speak openly, and support Argentine cinema through dedicated institutional backing.
+|fame=30
+|art=14
+|fth=13
+|civ=18
+|tech=15
+|ss1=All equipped Organs, skill DMG +1%
+|ss2=All equipped Organs, skill DMG +2%
+|ss3=All equipped Organs, skill DMG +3%
+|ss4=All equipped Organs, skill DMG +3%
+|ss7=All equipped Organs, skill DMG +3%<br> (Awakened)
+}}

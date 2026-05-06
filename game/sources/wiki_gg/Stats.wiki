@@ -1,0 +1,80 @@
+
+== HARD ==
+The total amount of HP, ATK, RUSH, and DEF combined.
+
+=== HP ===
+HP, abbreviation of Hit Points, determines how much damage your snail can withstand before losing a battle. HP can be increased by a variety of ways, such as consumption of Wonder Fungi, Enhancement Injections via card redemption, equipment bonuses, effects of relics, gene research in the DNA Evolution Module, and stat bonuses from different snail forms.
+
+"Snail's Health stat represent its aerobic fitness. Higher HP means that it can last longer in battle."
+
+=== ATK ===
+ATK, abbreviation of Attack, determines how much damage your snail can deal in a turn during battle. ATK can be increased by a variety of ways, such as consumption of Wonder Fungi, Enhancement Injections via card redemption, equipment bonuses, effects of relics, gene research in the DNA Evolution Module, and stat bonuses from different snail forms.
+
+"Snail's ATK represents its muscular strength. Higher ATK stat means more damage it can deal to enemies."
+
+=== RUSH ===
+Rush determines how much bonus damage your snail can deal in a turn during battle if an opponent's weakness requirements are met, this damage stacks with your regular ATK damage. Rush can be increased by a variety of ways, such as consumption of Wonder Fungi, Enhancement Injections via card redemption, equipment bonuses, effects of relics, gene research in the DNA Evolution Module, and stat bonuses from different snail forms.
+
+"Snail's RUSH represents its cellular activity. After seeing through the enemy's weakness, it can cause extra RUSH damage in battles."
+
+=== DEF ===
+DEF, abbreviation of Defense, determines how much damage is ignored when attacked in battle. DEF can be increased by a variety of ways, such as consumption of Wonder Fungi, Enhancement Injections via card redemption, equipment bonuses, effects of relics, gene research in the DNA Evolution Module, and stat bonuses from different snail forms.
+
+"Snail's DEF represents its ability to resist attacks. Higher DEF stat means less damage it will take in battle."
+
+About DEF:
+# Generally, DMG=ATK-DEF
+# DEF also reduces RUSH DMG
+# ELMT DMG ignores DEF but not ELMT RES
+
+== AFFCT ==
+[[File:AFFCT.jpg|150px]]
+
+The total amount of ART, FTH, FAME, CIV, and TECH combined.
+
+=== ART ===
+ART is often used for "skill checks" such as events during exploration, finding an enemy's weakness, or advancing in the evolution of one's demon form, the easiest way to increase ART is ART relics, however other relics, gene research, Wonder Fungi, and specific gear can increase one's ART stat
+
+"A creature with higher Art stat is more likely to get accepted by the society. It is usually determined by a combination of factors such as appearance, speech, wealth, and social status."
+
+=== FTH ===
+FAITH is often used for "skill checks" such as events during exploration, finding an enemy's weakness, or advancing in the evolution of one's angel form, the easiest way to increase FAITH is FAITH relics, however other relics, gene research, Wonder Fungi, and specific gear can increase one's FAITH stat
+
+"Generally speaking, people attribute all uncontrollable random incidents in the world to luck, and the only way to improve luck is to rely on Faith."
+
+=== FAME ===
+Fame is often used for "skill checks" such as events during exploration, finding an enemy's weakness, or advancing in the evolution of one's zombie form, the easiest way to increase FAME is FAME relics, however other relics, gene research, Wonder Fungi, and specific gear can increase one's Fame stat
+
+"A creature with higher FAME stat has stronger influence in a group. They can increase their FAME by creating some large-scale group incidents."
+
+=== CIV ===
+CIV, short for civilization, is often used for "skill checks" such as events during exploration, finding an enemy's weakness, or advancing in the evolution of one's mutant form, the easiest way to increase CIV is CIV relics, however other relics, gene research, Wonder Fungi, and specific gear can increase one's CIV stat
+
+"A creature with higher Culture stat can see through the essence of the world more easily, and find the key points in the messy clues. Generally speaking, the Culture level of a creature determines its insight."
+
+=== TECH ===
+TECH is often used for "skill checks" such as events during exploration, finding an enemy's weakness, or advancing in the evolution of one's Mecha Form, the easiest way to increase TECH is TECH relics, however other relics, gene research, Wonder Fungi, and specific gear can increase one's TECH stat
+
+"Technology is the result of creatures trying to understand the objective world, and it is also the most fundamental factor that constitutes wisdom. In modern society, the mastery of technology determines the strength of knowledge."
+
+==Other==
+Stats outside of HARD and AFFCT
+
+===RUSH===
+Once enemy weakness is identified, proc(trigger) RUSH
+# Tap on bubble above target to check weakness
+# Once RUSH procs, deal RUSH DMG each round
+# RUSH also procs CRIT and ELMT DMG
+
+===CRIT===
+# CRIT deals 150% DMG of normal attacks
+# CRIT DMG increases DMG done by CRITs
+# CRIT DMG REDUC lowers CRIT DMG taken
+
+===Other Effects===
+# Lifesteal restores HP when dealing ATK DMG and CRIT DMG, but not ELMT DMG
+# Dodge prevents you from taking any DMG
+# ELMT DMG adds DMG to normal ATK and RUSH
+# Paralyzed enemies cannot move for a round
+
+[[Category:Guides]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Stone Skin Scroll
+|class_id=20220
+|rank=Green
+|affct=FAITH
+|source=
+|description=After activating this spell, you obtain a rock shell that can absorb up to 1,000 DMG, lasting 40 seconds and reflecting damage. Note: The effect is halved on the summoned creatures!
+|fame=11
+|art=18
+|fth=31
+|civ=12
+|tech=18
+|ss1=Per 4 Novice Scrolls opened, Snail DEF +1<br>Novice Scrolls opened: 120/120
+|ss2=Per 4 Novice Scrolls opened, Snail DEF +2<br>Novice Scrolls opened: 120/120
+|ss3=Per 4 Novice Scrolls opened, Snail DEF +3<br>Novice Scrolls opened: 120/120
+|ss4=Per 4 Novice Scrolls opened, Snail DEF +3<br>Novice Scrolls opened: 120/120
+|ss7=Per 4 Novice Scrolls opened, Snail DEF +3<br>Novice Scrolls opened: 120/120<br> (Awakened)
+}}

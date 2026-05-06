@@ -1,0 +1,17 @@
+{{CargoClone
+|name=Anubis
+|rank=orange
+|cabin=2
+|id=178
+|gene1={race} ATK +50
+|gene2={race} FTH +50
+|gene3=For Round 1, CRIT rate +1.5%
+|gene4=Per 60 Dragon Minions in battle,
+Troop Fire DMG +6
+|gene5=When in Dragon Form:
+> Gain +1.5% Dragon Chests in explorations
+|gene6=Per 60 Dragon Minions in battle,
+Troop Fire DMG +10
+|gene7=When in Dragon Form:
+> Gain +2.5% Dragon Chests in explorations
+|}}

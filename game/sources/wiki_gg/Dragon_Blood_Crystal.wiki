@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Snail Shell was owned by someone called the Dragon Ranger, who infused the object with its strength as a gift to its successor.
+|affct=CIV
+|hard=HP
+|source=
+{{Memetic Catalyst
+|number=9742
+|relic1=Dragon Medal
+|relic2=Dragon Crystal
+|relic3=Hillary's Pickaxe
+|relic4=Im's Arrow
+|relic5=Dragon Radar
+}}
+|color=green
+|earth=1
+|water=1
+|fire=2
+|wind=2
+|form=Dragon
+|element=Wind
+|realm=Yamato
+|orangehard=RUSH
+}}

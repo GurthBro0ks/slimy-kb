@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Abel Prize
+|class_id=22613
+|rank=SS
+|affct=FAME
+|birthday=03-23
+|source=Lottery Machine No.3 (0.36%)
+|description=March 23, 2003 AD, marks the first presentation of the Abel Prize in Oslo, Norway.<br>Abel was a young and talented mathematician who died in his prime, and in order to commemorate his great contributions, Norway established the Abel Prize, a mathematical award. Compared to the highest award in mathematics before, the Fields Medal, the Abel Prize has an award of eight hundred thousand US dollars, several hundred times that of the Fields Medal, playing a considerably positive role in raising the social status of mathematics.
+|fame=101
+|art=60
+|fth=52
+|civ=69
+|tech=65
+|ss1=Snail DEF +20<br>Per Targeted Fusion, Snail DEF +2<br>Per Targeted Fusion, Priest-Snail Assistance DMG +16<br>Targeted Fusions: 50/50
+|ss2=Snail DEF +30<br>Per Targeted Fusion, Snail DEF +3<br>Per Targeted Fusion, Priest-Snail Assistance DMG +24<br>Targeted Fusions: 50/50
+|ss3=Snail DEF +40<br>Per Targeted Fusion, Snail DEF +4<br>Per Targeted Fusion, Priest-Snail Assistance DMG +32<br>Targeted Fusions: 50/50
+|ss4=Snail DEF +60<br>Per Targeted Fusion, Snail DEF +6<br>Per Targeted Fusion, Priest-Snail Assistance DMG +48<br>Targeted Fusions: 50/50
+|ss5=Snail DEF +80<br>Per Targeted Fusion, Snail DEF +8<br>Per Targeted Fusion, Priest-Snail Assistance DMG +64<br>Targeted Fusions: 50/50
+|ss6=Snail DEF +110<br>Per Targeted Fusion, Snail DEF +11<br>Per Targeted Fusion, Priest-Snail Assistance DMG +88<br>Targeted Fusions: 50/50
+|ss7=Snail DEF +110<br>Per Targeted Fusion, Snail DEF +11<br>Per Targeted Fusion, Priest-Snail Assistance DMG +88<br>Targeted Fusions: 50/50<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Card Drops +6%
+|skill2=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: This Relic's FAME +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+|mirage={{Mirage|name=Math Legacy|reward={{RewardIconWithLink|Gene Speedup, +28800|orange}}
+|3name=Topology|3rec=133.49M|3atk=370326|3defense=231712|3hp=21428447|3weak=37739
+|4name=Geometry|4rec=228.84M|4atk=602841|4defense=365855|4hp=53901191|4weak=48258
+|5name=Algebra|5rec=398.18M|5atk=885408|5defense=520791|5hp=110982035|5weak=55437
+|Arec=645.57M|Aatk=1319939|Adefense=743354|Ahp=312803243|Aweak=66529
+}}}}

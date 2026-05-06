@@ -1,0 +1,24 @@
+{{CargoRelic
+|name=Pure Reason Critique
+|class_id=22623
+|rank=SSS
+|affct=FAME
+|birthday=07-08
+|source=
+|description=On Jul 8, 1781 AD, Kant's Pure Reason Critique was first published.<br>Pure Reason Critique is the first part of the famous philosopher Kant's trilogy of philosophical works. In this book, he combines conflicting philosophical thoughts of empiricism and rationalism and argues that knowledge is obtained through both reason and experience, with both playing a certain role in the human acquisition of knowledge. The publication of this work overturned the dominance of traditional metaphysics and had a significant impact on philosophers in the future.
+|fame=107
+|art=65
+|fth=55
+|civ=69
+|tech=66
+|ss1=Protomon Troop assist DMG + 240<br>Per 5 Zombie Gene LVLs, Snail HP +60<br>Per 5 Zombie Gene LVLs, Snail ATK +6<br>Zombie Gene LVLs Researched: 150/150
+|ss2=Protomon Troop assist DMG + 320<br>Per 5 Zombie Gene LVLs, Snail HP +80<br>Per 5 Zombie Gene LVLs, Snail ATK +8<br>Zombie Gene LVLs Researched: 150/150
+|ss3=Protomon Troop assist DMG + 400<br>Per 5 Zombie Gene LVLs, Snail HP +100<br>Per 5 Zombie Gene LVLs, Snail ATK +10<br>Zombie Gene LVLs Researched: 150/150
+|ss4=Protomon Troop assist DMG + 560<br>Per 5 Zombie Gene LVLs, Snail HP +140<br>Per 5 Zombie Gene LVLs, Snail ATK +14<br>Zombie Gene LVLs Researched: 150/150
+|ss5=Protomon Troop assist DMG + 720<br>Per 5 Zombie Gene LVLs, Snail HP +180<br>Per 5 Zombie Gene LVLs, Snail ATK +18<br>Zombie Gene LVLs Researched: 150/150
+|ss6=Protomon Troop assist DMG + 960<br>Per 5 Zombie Gene LVLs, Snail HP +240<br>Per 5 Zombie Gene LVLs, Snail ATK +24<br>Zombie Gene LVLs Researched: 150/150
+|ss7=Protomon Troop assist DMG + 960<br>Per 5 Zombie Gene LVLs, Snail HP +240<br>Per 5 Zombie Gene LVLs, Snail ATK +24<br>Zombie Gene LVLs Researched: 150/150<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: This Relic's FAME +15
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +15%
+|skill3=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Produce Nebula Chest Shards by +15%
+}}

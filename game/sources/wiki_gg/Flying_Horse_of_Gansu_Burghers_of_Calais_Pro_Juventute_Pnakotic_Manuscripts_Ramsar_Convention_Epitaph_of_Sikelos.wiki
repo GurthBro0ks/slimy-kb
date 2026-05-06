@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=818
+|relics=Flying Horse of Gansu,Burghers of Calais,Pro Juventute,Pnakotic Manuscripts,Ramsar Convention,Epitaph of Sikelos
+|rank=orange
+|amount=6
+|category=self
+|description=All Minion ATK +2.4%
+}}

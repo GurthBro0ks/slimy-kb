@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Wounded Lioness,Meidum Geese
+|rank=orange
+|amount=2
+|category=self
+|description=Per 2 Epic+ Devotee assigned, Snail ATK +14; Epic+ Devotee Assigned: 40/40
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]

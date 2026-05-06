@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Magic Gaiba Egg
+|class_id=20357
+|rank=Green
+|affct=TECH
+|source=
+|description=To better conceal Scissor Seven's operations, Ruster invented this versatile item. The user can picture in mind what to become and then smash the egg to complete the transformation. But the new form only contains all physical appearance without any practical function.<br>
+|fame=14
+|art=17
+|fth=15
+|civ=16
+|tech=28
+|ss1=Per 5 Avatars activated, Snail DEF +1<br>Avatars Activated: 150/150
+|ss2=Per 5 Avatars activated, Snail DEF +2<br>Avatars Activated: 150/150
+|ss3=Per 5 Avatars activated, Snail DEF +3<br>Avatars Activated: 150/150
+|ss4=Per 5 Avatars activated, Snail DEF +3<br>Avatars Activated: 150/150
+|ss7=Per 5 Avatars activated, Snail DEF +3<br>Avatars Activated: 150/150<br> (Awakened)
+}}

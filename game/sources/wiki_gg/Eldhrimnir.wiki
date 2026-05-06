@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Eldhrimnir
+|class_id=22726
+|rank=SSS
+|affct=CIV
+|birthday=09-15
+|source=
+|description=On Sep 15, 3500 BC, Odin commanded his god-chef to settle in Valhalla.<br>Valhalla is a place that receives the spirits of deceased warriors. Those who enter are brave warriors from earthly battles. To accommodate these fearless fighters, the god-chef Andhelimnir uses Eldhrimnir to cook the divine pig Saehrimnir, which is revived every day, to make delicious feasts for them to enjoy.
+|fame=79
+|art=63
+|fth=56
+|civ=109
+|tech=55
+|ss1=Snail DEF +30<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +30
+|ss2=Snail DEF +40<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +40
+|ss3=Snail DEF +50<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +50
+|ss4=Snail DEF +70<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +70
+|ss5=Snail DEF +90<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +90
+|ss6=Snail DEF +120<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120
+|ss7=Snail DEF +120<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Fire DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +3%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail RUSH +600
+|mirage={{Mirage|name=Heroic Spirits|reward={{RewardIconWithLink|Supply Deal, +10|orange}}
+|3name=Siegfried|3rec=170.91M|3atk=470784|3defense=284359|3hp=82179869|3weak=53682
+|4name=Harald|4rec=210.45M|4atk=554444|4defense=339989|4hp=124275483|4weak=58905
+|5name=Sigi|5rec=286.60M|5atk=675869|5defense=420403|5hp=213269565|5weak=64745
+|6name=Liriel|6rec=409.38M|6atk=844213|6defense=530867|6hp=363740548|6weak=70706
+|Arec=568.25M|Aatk=1064209|Adefense=673789|Ahp=577235777|Aweak=76632
+}}}}

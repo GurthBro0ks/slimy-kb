@@ -1,0 +1,34 @@
+{{CargoRelic
+|name=Ark Reactor
+|rank=AA
+|affct=TECH
+|birthday=08-02
+|source=* Expert Scrolls (0.95%), Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.36%)
+* [[Altar#Gods_of_the_Pantheon|God of Technology]] Descent
+|description=On Aug 2, 1962, a virtual device used to sustain life was produced and used for the first time.
+
+The Ark Reactor is a portable nuclear fusion reactor. By bombarding the nucleus of an atom with high-energy particles, it can reach a high temperature in an instant and release a huge amount of energy by making nuclear fusion in a vacuum. This small device uses clean energy to release ultra-high energy. It has brought great development to mankind.
+|fame=34
+|art=43
+|fth=46
+|civ=35
+|tech=70
+|ss1=Per 3 TECH Relics gained, Snail DEF +8<br>Per 3 TECH Relics gained, Snail RUSH +8<br>TECH Relics: 60/60
+|ss2=Per 3 TECH Relics gained, Snail DEF +12<br>Per 3 TECH Relics gained, Snail RUSH +12<br>TECH Relics: 60/60
+|ss3=Per 3 TECH Relics gained, Snail DEF +16<br>Per 3 TECH Relics gained, Snail RUSH +16<br>TECH Relics: 60/60
+|ss4=Per 3 TECH Relics gained, Snail DEF +24<br>Per 3 TECH Relics gained, Snail RUSH +24<br>TECH Relics: 60/60
+|ss5=Per 3 TECH Relics gained, Snail DEF +32<br>Per 3 TECH Relics gained, Snail RUSH +32<br>TECH Relics: 60/60
+|ss7=Per 3 TECH Relics gained, Snail DEF +32<br>Per 3 TECH Relics gained, Snail RUSH +32<br>TECH Relics: 60/60<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Timemachine skill II.png|50px]] Place in Time Machine: Generate Time Chests by +15%
+|skill2=[[File:Timemachine skill II.png|50px]] Place in Time Machine: Travel Speedup Output +15%
+}}
+
+[[Category:DEF Boost]]
+[[Category:RUSH Boost]]
+[[Category:Relic Boost]]
+[[Category:Time Machine Skill]]
+[[Category:Time Chest Output]]
+[[Category:Time Machine Output Boost]]
+[[Category:Power Boost]]
+[[Category:Dragon Gene Speedup Boost]]
+[[Category:Altar Descent Relics]]

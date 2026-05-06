@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=The Raft of the Medusa
+|class_id=22435
+|rank=Blue
+|affct=ART
+|birthday=10-01
+|source=Lottery Machine No.3 (0.03%)
+|description=On Oct 1, 1819 AD, Géricault completed the painting The Raft of the Medusa.<br>This oil painting is the work of the French Romantic painter Géricault. Its content is based on a real event: the ship Medusa sank due to the negligence of the captain during a cruise. The high-ranking officials, including the captain, escaped on a small boat, while the remaining 150 crew members were left on the ship. They made a raft to try to survive and drifted at sea for a long time, but only about ten people survived in the end. The painter, deeply moved by this event, visited the site and created this tragic masterpiece, laying the foundation for Romantic painting.
+|fame=23
+|art=47
+|fth=29
+|civ=30
+|tech=25
+|ss1=Demon Minion HP +1%
+|ss2=Demon Minion HP +2%
+|ss3=Demon Minion HP +3%
+|ss4=Demon Minion HP +5%
+|ss7=Demon Minion HP +5%<br>Demon Minion HP +5% (Awakened)
+|skill1=[[File:Swampsanctum skill I.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Output +5%
+}}

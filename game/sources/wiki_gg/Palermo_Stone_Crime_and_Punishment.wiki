@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=469
+|relics=Palermo Stone,Crime and Punishment
+|rank=orange
+|amount=2
+|category=self
+|description=In the Rebel Rocket Cabin: Prismatic Armor Base Effect +56%
+}}

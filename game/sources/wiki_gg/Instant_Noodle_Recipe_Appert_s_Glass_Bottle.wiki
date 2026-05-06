@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=302
+|relics=Instant Noodle Recipe,Appert's Glass Bottle
+|rank=blue
+|amount=2
+|category=self
+|description=Free Gene Speedup (Zombie) +30m
+}}

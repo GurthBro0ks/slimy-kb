@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=195
+|relics=Smug's Chalice,Imperial Jade
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Minions in battle: Troop HP +630
+}}

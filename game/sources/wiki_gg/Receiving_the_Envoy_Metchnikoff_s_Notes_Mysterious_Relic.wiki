@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Receiving the Envoy,Metchnikoff's Notes,Mysterious Relic
+|rank=orange
+|amount=3
+|category=minion
+|description=Snail Leadership +8
+}}
+[[Category:Minion]]
+[[Category:Leadership Boost]]

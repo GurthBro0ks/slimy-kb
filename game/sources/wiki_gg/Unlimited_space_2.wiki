@@ -1,0 +1,98 @@
+WIP I will clean it up as I complete the minigame.
+== Summary ==
+'''How to obtain''': Fissure 400F, obtained by defeating the enemy<br>
+'''Prerequisite''': "Unlimited Space" has been installed on the computer<br>
+'''Hidden reward''': [[Ascension's Proof]] relic <ref>https://mp.weixin.qq.com/s/b9uq50kZG-pydDVKZFSUcQ</ref>
+
+== Description ==
+# This article is a spoiler-oriented guide. If you want to try it out, just read the key points of each map.
+# When the game is in progress, remember not to press the return key in the lower right corner, otherwise you will need to reload the file and the file load point will be unknown.
+# The game has a total of 4 maps. The maps, routes and analysis of the main areas will be given below. Players can also make their own arrangements.
+# The following only lists the equipment, consumables or main props. You can experience some of them by yourself when the information is not included.
+# It is recommended to choose "Tenacity" as a skill to improve the effect of consumables.
+# Put on the equipment as soon as you get it, and use it directly after obtaining S-series items to increase your own attributes.
+
+== Maps ==
+=== Bear City – Mansion ===
+[[File:UnlimitedSpace2-BearCity-Mansion-Map.drawio.png|frameless|right|alt=Bear City Mansion Map|Bear City Mansion Map]]
+# Key points of the map
+## Get all the consumables and equipment that can be looted, especially weapons, which are required to pass the game.
+## If you need to get green coins, you must go to the bathroom to wake up Lilith, otherwise the subsequent plot will not be triggered.
+# Route planning suggestions
+#* Main Deity Space → dining room → kitchen → living room → bedroom → restroom → living room → garden → garage → outside the mansion → mansion hall
+## '''Main Deity Space''': Obtain skill points.
+##* '''Unlocking''': You can open the desk drawers on the 3rd underground floor, vending machines and office 3. The rewards are mainly consumables.
+##* '''Hacker''': Only useful on the 3rd floor underground, for vending machines.
+##* '''Tenacity''': Item's recovery effect +50%.
+##* '''Bargain''': Items can be purchased for 80% of the price.
+## '''Dining Room''': Obtain important props "fuse" and "bottle" .
+## '''Kitchen''': Search the refrigerator to get consumables, and find the weapon "Paring Knife" on the stove.
+## '''Living room''': replace the "fuse" on the power supply box .
+## '''Bedroom''': Search the closet to get "Pajamas"; investigate and find the weapon box, enter the password 1499, and get the "Standard Pistol".
+## '''Restroom''': Wake up Lilith; pick up the "Gold Ring" at the sink.
+## '''Living room''': Pick up the photo and trigger the plot related to the weapon box password. Take the photo here first and then wake it up. Returning to the living room can also trigger the plot. The cracking method is to convert hexadecimal to decimal.
+## '''Garden''': Pick “red herbs” from the flowers.
+## '''Garage''': Get "Water Pipe" and "Wrench" .
+## '''Outside the mansion''': Use the wrench to switch weapons, first the water pipe and then the bottle to get the "Molotov cocktail" . Here is the puzzle. The puzzle is on the note in the corridor of the villa.
+## '''Mansion Hall''': After many investigations on the goddess statue, a "golden ring" was embedded in it , and "S-virus original strain α × 1" and "mysterious letter" were obtained. Finally, head to the Villa Train Station to enter the next scene.
+
+=== Hive - 2nd floor underground ===
+[[File:UnlimitedSpace2-Hive-Basement2-Map.drawio.png|600px|frameless|alt=Sub-basement 2 Map]]
+# Key points of the map
+## When you enter for the first time, the plot on the third underground floor is not triggered. You can only enter the locker room, and the rest of the area is blocked.
+## When entering the hive for the first time, go to the locker room to get the equipment, and then go to the third underground floor.
+## This layer has nothing to do with the main plot or hidden easter eggs. After the third layer is over, you can explore it according to the situation.
+#Route planning suggestions
+#* First arrival: locker room, rummage in the closet to get "rubber gloves", then go straight to the 3rd underground floor!!!
+#* Second arrival: sewer → virus storage room → virus sample room (Specimen Room) → chemical laboratory → locker room #→ hive elevator
+## Virus storage room: Enter the "Manager's Work Card" and obtain "S-virus original strain β × 1" .
+## Virus sample room (Specimen Room): Obtain " virus samples" from the freezer .
+##  Laboratory Aisle 2: No battle, cutscene.
+##  Chemistry Laboratory: Use virus samples, the button sequence is green, blue , and yellow to obtain "S-virus original strain γ × 1" .
+##  Locker Room: 4 enemies, the battle is very simple.
+##  Honeycomb Elevator: Return to the basement level 1.
+
+=== Hive - Stairs ===
+[[File:UnlimitedSpace2-Hive-Stairs-Map.drawio.png|frameless|alt=Stairs Map|Stairs Map]]
+=== Hive - 3rd floor underground ===
+[[File:UnlimitedSpace2-Hive-Basement3-Map.drawio.png|800px|frameless|alt=sub-basement 3 map]]
+# Key points of the map
+## After turning off the host, enemies will appear randomly throughout the hive area.
+## You need to enter the guard room 3 times. Don’t go the third time, otherwise you will die on the spot halfway. Take a detour and search for supplies on this floor.
+## There are two offices on this floor, and they share a puzzle with the supervisor’s office. The answer is in the strange poem in the supervisor’s office! ! ! Try to follow the puzzle order as much as possible, as you need to go back and forth.
+## After the plot on the 3rd floor is over, there are two options. One is to use the honeycomb elevator to go back to the 1st floor to continue the plot; the other is to go back to the computer room, place the motherboard to communicate with the Queen, learn about the hidden passage, retrieve the motherboard and go to the 2nd floor to search
+# Route planning suggestions
+#* Plot route: Front desk → Guard room → Server Room Corridor 1 → Computer room → Server Room Corridor 1 → Guard room → Office front desk → Aisle 2 → Aisle 1 → (long way around) Guard room → (long way around) Honeycomb elevator
+#* Search route: Office aisle 7 → Office 3 → Office area aisle 1 → Office area aisle 4 → Office 2 → Supervisor’s office → Office 1 → Supervisor’s office → Guard room → Utility room
+## Computer room passage: Pick up the important prop "Circuit Breaker". In the plot, you have to lie down three times and retreat once. If you make a mistake once, you have to load the file.
+## Computer room: Place the "Circuit Breaker" to obtain the "Lava Queen Motherboard" .
+## Office Aisle 7: Search the refrigerator to get consumables, remember to take them all.
+## Office 3: rummage through corpses and obtain "S-virus original strain β×1" .
+## Aisle 1 of the office area: Vending machines, if you have the "lockpicking" or "hacking" skills you can obtain consumables without injury. Otherwise, forced open, a fight is required.
+## Aisle 4 of the office area: Microwave oven, can only heat "cod burgers" .
+## Office 2: Investigate the statue, the angel statue "rotates first to the west and then to the south" ; the camp bed can restore all health points and can be used repeatedly! ! !
+## Head Office: dart board, get "Darts × 3" ; search the desk to get the important prop " Strange Poem" ; investigate the statue, the devil statue "rotates first south and then east" .
+## Office 1: Investigate the statue, the Madonna statue "rotates to the north" ; the computer can be viewed or not, and the password puzzle is on the oil painting. The cracking method is Morse code, and the password will change every time you enter.
+## Return to the Head Office: Open the safe and obtain the "Supervisor's Work Card" and "S-Virus Original Strain β×1" .
+## Guard Room: cure or kill Chad
+## Utility room: rummage through the trash can to obtain consumables, and pick up the "mop" from the cleaning cart.
+
+=== Bear City - Train Station ===
+[[File:UnlimitedSpace2-BearCity-TrainStation-Map.drawio.png|thumb|alt=train network map ]]
+# Key points of the map
+## After the entrance battle, go all the way to the right at the Hive Train Station and defeat the Avengers to get special props.
+## If you need to get green coins, you must go to the bathroom to wake up Lilith, otherwise the subsequent plot will not be triggered.
+# Route planning suggestions
+#* Beehive exit → Biochemical modification laboratory → Laboratory train station → Outside the villa → Secret storage room
+## Hive Exit: Licker battle, the 5th round officially begins. After the battle, Spencer rummaged through the body and obtained "S-virus original strain β × 1" .
+## Virus Laboratory: Basically the same as the chemical laboratory on the second underground floor, but the operation manual here is complete.
+## Biochemical modification laboratory: In the Avengers battle, you must dodge in the 4th round , and just attack in the remaining rounds.
+## Avengers corpse: rummage to get "strange stones" ; check the bazooka and use the Molotov cocktail.
+## Laboratory Railway Station: Use the train to return to the Hive Railway Station, walk back to the outside of the villa to submit the task, and then attack Minsko!!!
+## Outside the villa: fight Minsko, use the bazooka, then throw 3 darts. Search Minsko's body to get the "Strange Stone" .
+## Secret storage room: Use two strange stones to open the door, rummage through it and get the green relic [[Ascension's Proof]]!!!
+= See Also =
+[[Unlimited Space 2]]
+
+[[Category:Guides]]
+[[Category:Minigames]]

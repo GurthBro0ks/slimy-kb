@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=517
+|relics=Dialectics of Nature,Von Neumann Arch.
+|rank=orange
+|amount=2
+|category=self
+|description=Per 1k Species War Tech Pts, Snail ATK +7;Species War Tech Pts: 30000/30000
+}}

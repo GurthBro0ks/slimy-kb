@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Charlemagne Crown
+|class_id=22792
+|rank=SSS
+|affct=FAME
+|source=
+|description=The Charlemagne Crown, crafted from gold and studded with gems, marked the beginning of the use of crowns for coronation in the Western Christian world. This crown is not only a symbol of Charlemagne but also represents the fusion of royal and religious authority in medieval Europe. Before the French Revolution, it was the exclusive crown for the coronation of French kings. Although not used directly during Napoleon's coronation, he referred to his own coronation crown as the Charlemagne Crown, reflecting his respect and emulation of Charlemagne.
+|fame=106
+|art=59
+|fth=55
+|civ=67
+|tech=75
+|ss1=Snail ATK +30<br>Zombie Minion ATK +3%<br>Per 5 Epic Protodex Stars, Snail DEF +9<br>Epic Protodex Stars: 100/100
+|ss2=Snail ATK +40<br>Zombie Minion ATK +4%<br>Per 5 Epic Protodex Stars, Snail DEF +12<br>Epic Protodex Stars: 100/100
+|ss3=Snail ATK +50<br>Zombie Minion ATK +5%<br>Per 5 Epic Protodex Stars, Snail DEF +15<br>Epic Protodex Stars: 100/100
+|ss4=Snail ATK +70<br>Zombie Minion ATK +7%<br>Per 5 Epic Protodex Stars, Snail DEF +21<br>Epic Protodex Stars: 100/100
+|ss5=Snail ATK +90<br>Zombie Minion ATK +9%<br>Per 5 Epic Protodex Stars, Snail DEF +27<br>Epic Protodex Stars: 100/100
+|ss6=Snail ATK +120<br>Zombie Minion ATK +12%<br>Per 5 Epic Protodex Stars, Snail DEF +36<br>Epic Protodex Stars: 100/100
+|ss7=Snail ATK +120<br>Zombie Minion ATK +12%<br>Per 5 Epic Protodex Stars, Snail DEF +36<br>Epic Protodex Stars: 100/100<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Fire DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +3%
+|mirage={{Mirage|name=dungeon@22792_1|reward={{RewardIconWithLink|Manaquartz Stone, +10|orange}}
+|3name=Charles Martel|3rec=353.41M|3atk=847525|3defense=480512|3hp=185316502|3weak=66313
+|4name=Pepin III|4rec=448.89M|4atk=1004952|4defense=566411|4hp=307895981|4weak=72125
+|5name=Carloman|5rec=585.90M|5atk=1265742|5defense=689667|5hp=528571004|5weak=79680
+|6name=Charlemagne|6rec=785.93M|6atk=1826463|6defense=892416|6hp=872060833|6weak=89584
+|Arec=1108.89M|Aatk=2796494|Adefense=1220649|Ahp=1630075102|Aweak=100513
+}}}}

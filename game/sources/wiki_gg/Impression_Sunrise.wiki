@@ -1,0 +1,34 @@
+{{CargoRelic
+|name=Impression, Sunrise
+|class_id=21619
+|rank=SSS
+|affct=ART
+|birthday=12-28
+|source=
+|description=On Dec 28, 1872 AD, French painter Monet created this pioneering art of impressionism.<br>Monet visited his hometown and created a series of works depicting the port of Le Havre. One of these paintings depicts a hazy scene over the water with a dazzling red sun shining light from the clouds. A swaying boat floats below factory smokestacks in the distance. Cranes and big ships are towering overhead. Monet called it "Impression, Sunrise" as a reply to those critics and inspired the Impressionist movement.
+[Basic Info]
+Type: Oil painting
+Specifications: 48x64 cm
+Collected by: National Gallery of Australia
+|fame=52
+|art=108
+|fth=59
+|civ=65
+|tech=78
+|ss1=In Dragon Form, Crit DMG +3%<br>Per 5 ART Relics awakened, Snail ATK +6<br>Per 5 ART Relics awakened, Snail RUSH +6<br>ART Relics Awakened: 100/100
+|ss2=In Dragon Form, Crit DMG +4%<br>Per 5 ART Relics awakened, Snail ATK +8<br>Per 5 ART Relics awakened, Snail RUSH +8<br>ART Relics Awakened: 100/100
+|ss3=In Dragon Form, Crit DMG +5%<br>Per 5 ART Relics awakened, Snail ATK +10<br>Per 5 ART Relics awakened, Snail RUSH +10<br>ART Relics Awakened: 100/100
+|ss4=In Dragon Form, Crit DMG +7%<br>Per 5 ART Relics awakened, Snail ATK +14<br>Per 5 ART Relics awakened, Snail RUSH +14<br>ART Relics Awakened: 100/100
+|ss5=In Dragon Form, Crit DMG +9%<br>Per 5 ART Relics awakened, Snail ATK +18<br>Per 5 ART Relics awakened, Snail RUSH +18<br>ART Relics Awakened: 100/100
+|ss6=In Dragon Form, Crit DMG +12%<br>Per 5 ART Relics awakened, Snail ATK +24<br>Per 5 ART Relics awakened, Snail RUSH +24<br>ART Relics Awakened: 100/100
+|ss7=In Dragon Form, Crit DMG +12%<br>Per 5 ART Relics awakened, Snail ATK +24<br>Per 5 ART Relics awakened, Snail RUSH +24<br>ART Relics Awakened: 100/100<br>In Dragon Form, Crit DMG +10% (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Fire DMG +600
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's ART +15
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Water DMG +600
+|mirage={{Mirage|name=Colors|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Red Pigment|3rec=6.92M|3atk=67562|3defense=44554|3hp=1427151|3weak=12512
+|4name=Yellow Pigment|4rec=12.23M|4atk=91865|4defense=60580|4hp=2410025|4weak=15310
+|5name=Blue Pigment|5rec=25.44M|5atk=120841|5defense=79688|5hp=3989839|5weak=18207
+|6name=Black Pigment|6rec=41.15M|6atk=154365|6defense=101795|6hp=6327734|6weak=19480
+|Arec=59.89M|Aatk=194349|Adefense=128163|Ahp=9725633|Aweak=21877
+}}}}

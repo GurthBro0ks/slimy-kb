@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=171
+|relics=Aesop's Fables,Divine Comedy
+|rank=orange
+|amount=2
+|category=self
+|description=In explorations, 2x Orange Card Drops +2.8%
+}}

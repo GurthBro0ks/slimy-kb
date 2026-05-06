@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=726
+|relics=Webb Space Telescope,Rods from God
+|rank=orange
+|amount=2
+|category=self
+|description=Per Tribal Chief defeated, Snail HP +70;Tribal Chiefs Defeated: 50/50
+}}

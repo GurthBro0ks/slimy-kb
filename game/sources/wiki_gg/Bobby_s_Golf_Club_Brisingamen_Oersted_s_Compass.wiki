@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=357
+|relics=Bobby's Golf Club,Brisingamen,Oersted's Compass
+|rank=blue
+|amount=3
+|category=self
+|description=Per 10 Wormhole Refines, Snail ATK +6;Wormhole Refines: 500/500
+}}

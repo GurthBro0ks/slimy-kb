@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Houmuwu Ding,The Analects
+|rank=orange
+|amount=2
+|category=other
+|description=In any realm, 2x Purple Reagent Drops +2.8%
+}}
+[[Category:Other]]

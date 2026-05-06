@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Cupid and Psyche
+|class_id=22031
+|rank=Blue
+|affct=ART
+|birthday=10-30
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Oct 30, 1796 AD, Canova made the sculpture based on Ancient Greek myths.<br>Cupid and Psyche is the masterpiece of sculptor Canova. The sculpture depicts the moment Cupid kisses his love. Legend has it, Venus was envious of Psyche's gorgeous face, and secretly sent her son Cupid against her. Unexpectedly, though, Cupid fell in love with her. They were separated because Psyche's sisters were jealous. But through numerous hardships, they were finally together as a couple. The sculpture depicts Cupid kissing Psyche after she fell asleep because of opening a box of the beauty of Persephone. It's a great example of how talented Canova was as a sculptor.
+|fame=19
+|art=46
+|fth=26
+|civ=32
+|tech=31
+|ss1=Per 900 Domain Tech Points, Snail HP +10<br>Domain Tech: 45000/45000
+|ss2=Per 900 Domain Tech Points, Snail HP +20<br>Domain Tech: 45000/45000
+|ss3=Per 900 Domain Tech Points, Snail HP +30<br>Domain Tech: 45000/45000
+|ss4=Per 900 Domain Tech Points, Snail HP +50<br>Domain Tech: 45000/45000
+|ss7=Per 900 Domain Tech Points, Snail HP +50<br>Domain Tech: 45000/45000<br>Snail HP +500 (Awakened)
+|skill1=[[File:Tadpolepond skill I.png|50px]]Place in Tadpole Pond: Max Cap +5%
+}}

@@ -1,0 +1,1067 @@
+==War Moons==
+{|class="wikitable"
+!Pedestal
+!colspan="2"|Task
+!Rewards
+|-
+|style="background-color:var(--green-bg)"|Front-Left
+|Dig Mine
+|Dig out all 9 Mines on tiles: 3.2; 6.2; 12.2; 21.2; 28.2; 38.2; 46.2; 50.2; 63.2
+|{{RewardIconWithText|War Moon}} +3
+|-
+|style="background-color:var(--green-bg)"|Front-Right
+|Clear Domain
+|Clear Steel Gate; Jaden Foundry; Minerva Foundry; Pawson Foundry; Hinga Foundry; Bladden Foundry; Racky Foundry; Nethrone Foundry; Thundos Foundry; President's Office
+|{{RewardIconWithText|War Moon}} +3
+|-
+|style="background-color:var(--blue-bg)"|Back-Left
+|Destroy Divine Weapons
+|Destroy the Pawson Claw; Bladden Sword; Jaden Spear; Racky Cannon; Thundos Hammer; Nethrone Coffin; Minerva Staff; Hinga Lotus
+|{{RewardIconWithText|War Moon}} +3
+|-
+|style="background-color:var(--blue-bg)"|Back-Right
+|Explore Domain
+|Investigate the tiles within the Steel Gate; Jaden Foundry; Minerva Foundry; Pawson Foundry; Hinga Foundry; Bladden Foundry; Racky Foundry; Nethrone Foundry; Thundos Foundry; President's Office
+|{{RewardIconWithText|War Moon}} +3
+|-
+|style="background-color:var(--purple-bg)"|Back-Middle
+|War God
+|Defeat Racky and Racky's Head
+|{{RewardIconWithText|War Moon}} +5
+|}
+
+===Moon Shop===
+{|class="wikitable"
+!Item
+!Cost in<br>{{RewardIconWithText|War Moon}}
+!Quantity Available
+|-
+|{{Retext|T3 Racky's Module|blue}} +50
+|1||1
+|-
+|{{Retext|T3 Racky's Alloy|blue}} +50
+|1||1
+|-
+|{{Retext|T3 Racky's Core|blue}} +50
+|1||1
+|-
+|{{RewardIconWithText|W-Tad, +1.5k}}
+|2||1
+|-
+|{{RewardIconWithLink|Incense, +1|orange}}
+|3||1
+|-
+|{{RewardIconWithText|Ghostfire Blueprint|orange}}
+|4||1
+|-
+|{{RewardIconWithLink|Wormhole Refiner, +1k}}
+|5||1
+|-
+|{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|6||1
+|-
+|After Domain is 100%<br>{{RewardIconWithText|Murikan Nebula Pack|orange}} ({{RewardIconWithLink|Quantum Gel, +1k}} and {{RewardIconWithLink|Singularity Crystal, +1|orange}})
+|7||1
+|}
+
+==Legend==
+{|class=wikitable
+!Type
+!Color Assignment
+|-
+|Event
+|style="background-color:var(--yellow-bg)"|
+|-
+|Snail Battle
+|style="background-color:var(--red-bg)"|
+|-
+|Reward
+|style="background-color:var(--blue-bg)"|
+|-
+|Mine Pit
+|style="background-color:var(--green-bg)"|
+|-
+|Store
+|style="background-color:var(--orange-bg)"|
+|}
+
+==Tiles==
+{| class="wikitable"
+!Tile
+!Name
+!Notes
+!Rewards
+|-
+|rowspan="2"|1
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Job Seeker]]
+|
+|T1 Racky's Alloy +3
+|-
+|style="background-color:var(--blue-bg)"|Recruitment Intro
+|
+|{{RewardIconWithLink|Chore Stamp}} +100
+|-
+|2
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Job Seeker]]
+|
+|T1 Racky's Alloy +3
+|-
+|rowspan="2"|3
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Recruiting Manager]]
+|
+|T1 Racky's Core +3
+|-
+|style="background-color:var(--green-bg)"|File Deposit Box
+|{{RewardIconWithText|Password Note}}: 9394
+|{{RewardIconWithLink|Lottery Ticket|orange}} +5<br>{{RewardIconWithText|Laser Prism Component}}<br>{{RewardIconWithText|War Moon}} +1
+|-
+|4
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Job Seeker]]
+|
+|T1 Racky's Module +3
+|-
+|5
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Job Seeker]]
+|
+|T1 Racky's Module +3
+|-
+|rowspan="2"|6
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Miner]]
+|
+|T1 Racky's Core +3
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Dispatch any 50 T4 minions for 18h 11m
+|B-tads +12k<br>{{RewardIconWithLink|Murikan Treasure Map}} +480<br>{{RewardIconWithText|Laser Prism Component}} +2
+|-
+|rowspan="2"|7
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Security Director]]
+|
+|T1 Racky's Alloy +3
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by the Snail|Security Director]]
+|
+|{{RewardIconWithText|W-Tad}} +300
+|-
+|8
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Pawson Project Staff]]
+|
+|T1 Racky's Core +3
+|-
+|9
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Pawson Project Staff]]
+|
+|T1 Racky's Module +3
+|-
+|rowspan="2"|10
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Pawson Project Staff]]
+|
+|T1 Racky's Core +3
+|-
+|style="background-color:var(--yellow-bg)"|Idle Injector
+|Requires 200 Organ Slime
+|Snail HP +100
+|-
+|11
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Pawson Project Staff]]
+|
+|T1 Racky's Module +3
+|-
+|rowspan="2"|12
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Miner]]
+|
+|T1 Racky's Alloy +3
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Dispatch any 50 T4 minions for 18h 11m
+|{{RewardIconWithLink|Murikan Treasure Map}} +480<br>{{RewardIconWithLink|Wormhole Refiner}} +400<br>{{RewardIconWithText|Laser Prism Component}} +2
+|-
+|13
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Pawson Project Staff]]
+|
+|T1 Racky's Module +4
+|-
+|14
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Pawson Project Staff]]
+|
+|T1 Racky's Alloy +3
+|-
+|rowspan="2"|15
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|The Great Jang Geum]]
+|
+|T1 Racky's Core +3
+|-
+|style="background-color:var(--yellow-bg)"|Treasures of the Embassy
+|Display Awakened {{RewardIconWithLink|King Dangun Statue|orange}}
+|Master Scroll +40
+|-
+|rowspan="3"|"16"
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Project Director]]
+|
+|T1 Racky's Alloy +3
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by the Sanil|Pawson Claw]] in Forging
+|
+|{{RewardIconWithText|War Moon}} +1
+|-
+|style="background-color:var(--blue-bg)"|Broken Pawson Claw
+|
+|{{RewardIconWithGearlink|green|War|Broken Pawson Claw}} 
+|-
+|17
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Bladden Project Staff]]
+|
+|T1 Racky's Core +3
+|-
+|18
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Bladden Project Staff]]
+|
+|T1 Racky's Module +4
+|-
+|19
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Bladden Project Manager]]
+|
+|T1 Racky's Alloy +3
+|-
+|rowspan="2"|20
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Bladden's First Apprentice]]
+|
+|T1 Racky's Core +3
+|-
+|style="background-color:var(--yellow-bg)"|Duel
+|Display {{RewardIconWithLink|Bladden's Head|green}}
+|{{RewardIconWithLink|Gear Chest}} +50
+|-
+|rowspan="2"|21? <!-- between 17 and 22 -->
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Miner]]
+|
+|T1 Racky's Module +5
+|-
+|style="background-color:var(--green-bg"|Mine
+|Dispatch any 50 T4 minions for 21h 49m
+|{{RewardIconWithLink|Murikan Treasure Map}} +640<br>{{RewardIconWithText|Laser Prism Component}} +3<br>{{RewardIconWithText|War Moon}} +1
+|-
+|22
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Bladden Project Staff]]
+|
+|T1 Racky's Alloy +4
+|-
+|rowspan="2"|23
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Bladden's Second Apprentice]]
+|
+|T1 Racky's Core +4
+|-
+|style="background-color:var(--yellow-bg)"|Talk the Talk
+|Answers: Tachi; Fencer Sasaki; Kyber crystal; A cross-shaped cut; Fast Draw
+|Gear RF +5
+|-
+|rowspan="3"|"24"
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Project Director]]
+|
+|{{Retext|T2 Racky's Module|green}} +3
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by the Snail|Bladden Sword]] in Forging
+|
+|{{RewardIconWithText|War Moon}} +1
+|-
+|style="background-color:var(--blue-bg)"|Broken Bladden Blade
+|
+|{{RewardIconWithGearlink|green|War|Broken Bladden Blade}} 
+|-
+|25
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Bid Receptionist]]
+|
+|{{Retext|T2 Racky's Alloy|green}} +3
+|-
+|rowspan="2"|26
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Design Team 1]]
+|
+|{{Retext|T2 Racky's Alloy|green}} +3
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by the Snail|Head of Design Team 1]]
+|
+|{{RewardIconWithLink|Gear Chest}} +30
+|-
+|rowspan="2"|27
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Design Team 2]]
+|
+|{{Retext|T2 Racky's Core|green}} +3
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by the Snail|Head of Design Team 2]]
+|
+|{{RewardIconWithLink|Gear Chest}} +30
+|-
+|rowspan="2"|28? <!-- just above 27 -->
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Miner]]
+|
+|{{Retext|T2 Racky's Module|green}} +3
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Dispatch any 50 T5 minions for 21h 48m
+|{{RewardIconWithLink|Murikan Treasure Map}} +640<br>{{RewardIconWithLink|Lottery Ticket|orange}} +16<br>{{RewardIconWithText|Laser Prism Component}} +3
+|-
+|rowspan="2"|29
+|style="background-color:var(--red-text)"|[[#Enemies fought by minions|Design Team 10]]
+|
+|{{Retext|T2 Racky's Core|green}} +3
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by the Snail|Head of Design Team 10]]
+|
+|{{RewardIconWithLink|Gear Chest}} +30
+|-
+|30
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Data Keeper]]
+|
+|{{Retext|T2 Racky's Module|green}} +3
+|-
+|rowspan="2"|31
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Design Team 6]]
+|
+|{{Retext|T2 Racky's Alloy|green}} +3
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by the Snail|Head of Design Team 6]]
+|
+|{{RewardIconWithLink|Gear Chest}} +30
+|-
+|rowspan="2"|32
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Design Team 7]]
+|
+|{{Retext|T2 Racky's Core|green}} +3
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by the Snail|Head of Design Team 7]]
+|
+|{{RewardIconWithLink|Gear Chest}} +30
+|-
+|33
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Data Keeper]]
+|
+|{{Retext|T2 Racky's Module|green}} +3
+|-
+|rowspan="2"|"34"
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Project Director]]
+|
+|{{Retext|T2 Racky's Alloy|green}} +3
+|-
+|style="background-color:var(--blue-bg)"|Jaden Weapon Foundry
+|
+|{{RewardIconWithText|Jaden Spear Blueprint}} (Used to craft {{RewardIconWithGearlink|green|War|Broken Jaden Spear}} when Racky's Throne is at max level)
+|-
+|35
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Project Staff]]
+|
+|{{Retext|T2 Racky's Core|green}} +3
+|-
+|rowspan="2"|36? <!-- up/right from 25 -->
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Salesclerk]]
+|
+|{{Retext|T2 Racky's Module|green}} +3
+|-
+|style="background-color:var(--orange-bg)"|
+|See [[#Store|the Store]] for details
+|
+|-
+|37
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Project Staff]]
+|
+|{{Retext|T2 Racky's Alloy|green}} +3
+|-
+|rowspan="2"|38
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Project Staff]]
+|
+|{{Retext|T2 Racky's Core|green}} +3
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Dispatch any 50 T5 minions for 1d 1h 27m
+|{{RewardIconWithLink|Murikan Treasure Map}} +720<br>{{RewardIconWithLink|Time Chest}} +600<br>{{RewardIconWithText|Laser Prism Component}} +4
+|-
+|rowspan="2"|39 
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Project Staff]]
+|
+|{{Retext|T2 Racky's Alloy|green}} +3
+|-
+|style="background-color:var(--yellow-bg)"|Strategic Defense System
+|Display Awakened {{RewardIconWithLink|SkyWeb Hub|orange}}
+|{{RewardIconWithLink|Wormhole Refiner}} +50
+|-
+|40
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Ex. Intel. Director]]
+|
+|{{Retext|T2 Racky's Core|green}} +3
+|-
+|rowspan="2"|41? <!--just left/up from 38 -->
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Miner]]
+|
+|{{Retext|T2 Racky's Module|green}} +3
+|-
+|style="background-color:var(--red-bg)"|Dejected Director
+|Defeat [[#Enemies fought by the Snail|Ex Intel. Director]]
+|{{RewardIconWithText|Password Note}} (9394)<br>{{RewardIconWithLink|Lottery Ticket|orange}} +3<br>{{RewardIconWithText|War Moon}} +1
+|-
+|rowspan="2"|42? <!-- twice left/up from 38 -->
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Project Staff]]
+|
+|Tool Chest +30
+|-
+|style="background-color:var(--yellow-bg)"|Secret Signal Station
+|Display {{RewardIconWithLink|RedShore Emitter|green}}
+|-
+|43
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Project Staff]]
+|
+|{{Retext|T2 Racky's Module|green}} +3
+|-
+|rowspan="3"|"44"
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Project Director]]
+|
+|{{Retext|T2 Racky's Alloy|green}} +3
+|-
+|style="background-color:var(--red-bg)"|Untested [[#Enemies fought by the Snail|Racky Cannon]]
+|
+|{{RewardIconWithText|War Moon}} +1
+|-
+|style="background-color:var(--blue-bg)"|Undestructed Racky Cannon/Racky Cannon Foundry
+|
+|{{RewardIconWithLink|Gear Chest}} +10
+|-
+|45
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Thundos Project Staff]]
+|
+|{{Retext|T2 Racky's Core|green}} +3
+|-
+|rowspan="2"|46
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Miner]]
+|
+|{{Retext|T2 Racky's Module|green}} +4
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Dispatch any 50 T5 minions for 1d 1h 27m
+|{{RewardIconWithLink|Murikan Treasure Map}} +720<br>{{RewardIconWithLink|Gear Chest}} +600<br>{{RewardIconWithText|Laser Prism Component}} +4
+|-
+|47
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Thundos Project Staff]]
+|
+|{{Retext|T2 Racky's Alloy|green}} +4
+|-
+|48
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Thundos Project Staff]]
+|
+|{{Retext|T2 Racky's Core|green}} +4
+|-
+|rowspan="2"|49 
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Omegatron MK2]]
+|
+|{{Retext|T3 Racky's Alloy|blue}} +3
+|-
+|style="background-color:var(--red-bg)"|Duel [[#Enemies fought by the Snail|Omegatron MK2]]
+|
+|{{RewardIconWithText|War Moon}} +1
+|-
+|rowspan="2"|50? <!-- up/left from 48 -->
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Miner]]
+|
+|{{Retext|T3 Racky's Module|blue}} +
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Dispatch any 50 T6 minions for 1d 5h 5m
+|{{RewardIconWithLink|Murikan Treasure Map}} +800<br>Fungus Chest +1,000<br>{{RewardIconWithText|Laser Prism Component}} +5
+|-
+|rowspan="2"|"51"
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Project Director]]
+|
+|{{Retext|T3 Racky's Core|blue}} +3
+|-
+|style="background-color:var(--blue-bg)"|Thundos Hammer Foundry
+|
+|{{RewardIconWithLink|Gear Chest}} +10
+|-
+|52
+|style="background-color:var(--red-bg)">|[[#Enemies fought by minions|Nethrone Project Staff]]
+|
+|{{Retext|T3 Racky's Module|blue}} +3
+|-
+|53
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Nethrone Project Staff]]
+|
+|{{Retext|T3 Racky's Alloy|blue}} +3
+|-
+|rowspan="2"|54 
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Nethrone Project Staff]]
+|
+|{{Retext|T3 Racky's Module|blue}} +3
+|-
+|style="background-color:var(--yellow-bg)"|Psionic Collector
+|Requires 17.2k FTH
+|{{RewardIconWithLink|Soul Chest}} +50<br>{{RewardIconWithText|4h Soul Red|red}} (Soul of Senior Job Seeker)<br>{{RewardIconWithText|2h Soul Red|red}} (Soul of Job Seeker) +3
+|-
+|rowspan="2"|55? <!-- up/left from 53 -->
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Nethrone Project Staff]]
+|
+|{{Retext|T3 Racky's Core|blue}} +3
+|-
+|style="background-color:var(--yellow-bg)"|Underground Freezer
+|Display 5 star {{RewardIconWithLink|Soul Stone|orange}}
+|-
+|56
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Nethrone Project Staff]]
+|
+|{{Retext|T3 Racky's Alloy|blue}} +3
+|-
+|57
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Nethrone Project Staff]]
+|
+|{{Retext|T3 Racky's Module|blue}} +4
+|-
+|rowspan="2"|58
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Doombringer Mk. II]]
+|
+|{{Retext|T3 Racky's Core|blue}} +3
+|-
+|style="background-color:var(--red-bg)"|Duel [[#Enemies fought by the Snail|Doombringer Mk. II]]
+|
+|{{RewardIconWithText|War Moon}} +1
+|-
+|rowspan="6"|"59" 
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Project Director]]
+|
+|{{Retext|T3 Racky's Alloy|blue}} +5
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Netherealm Soul]]
+|
+|{{Retext|T3 Racky's Core|blue}} +4
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Netherealm Soul]]
+|
+|{{Retext|T3 Racky's Module|blue}} +4
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Netherealm Soul]]
+|
+|{{Retext|T3 Racky's Core|blue}} +4
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by the Snail|Nethrone Coffin]] in Forging
+|
+|{{RewardIconWithText|War Moon}} +1
+|-
+|style="background-color:var(--blue-bg)"|Broken Nethrone Coffin
+|
+|{{RewardIconWithGearlink|green|War|Broken Nethrone Coffin}} 
+|-
+|60
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Minerva Project Staff]]
+|
+|{{Retext|T3 Racky's Module|blue}} +4
+|-
+|rowspan="2"|61
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Minerva Project Staff]]
+|
+|{{Retext|T3 Racky's Alloy|blue}} +5
+|-
+|style="background-color:var(--red-bg)"|Holy Tower of Water
+|Defeat the [[#Enemies fought by the Snail|Water Elementals]]
+|Trainee Scroll +10<br>Trainee Scroll +10<br>Trainee Scroll +10<br>Expert Scroll +20
+|-
+|rowspan="2"|62
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Minerva Project Staff]]
+|
+|{{Retext|T3 Racky's Module|blue}} +4
+|-
+|style="background-color:var(--red-bg)"|Holy Tower of Earth
+|Defeat the [[#Enemies fought by the Snail|Earth Elementals]]
+|Trainee Scroll +10<br>Trainee Scroll +10<br>Trainee Scroll +10<br>Expert Scroll +20
+|-
+|rowspan="2"|63?
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Miner]]
+|
+|{{Retext|T3 Racky's Core|blue}} +4
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Dispatch any 50 T6 minions for 1d 5h 5m
+|{{RewardIconWithLink|Murikan Treasure Map}} +800<br>{{RewardIconWithLink|Incense|orange}} +2<br>{{RewardIconWithText|Laser Prism Component}} +5
+|-
+|64
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Minerva Project Staff]]
+|
+|{{Retext|T3 Racky's Module|blue}} +4
+|-
+|65
+|style="background-color:var(--red-bg)"|[[#Enmies fought by minions|Minerva Project Staff]]
+|
+|{{Retext|T3 Racky's Alloy|blue}} +5
+|-
+|rowspan="2"|66
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Minerva Project Staff]]
+|
+|{{Retext|T3 Racky's Core|blue}} +4
+|-
+|style="background-color:var(--red-bg)"|Holy Tower of Wind
+|Defeat the [[#Enemies fought by the Snail|Wind Elementals]]
+|Trainee Scroll +10<br>Trainee Scroll +10<br>Trainee Scroll +10<br>Expert Scroll +20
+|-
+|67
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Minerva Project Staff]]
+|
+|{{Retext|T3 Racky's Alloy|blue}} +5
+|-
+|rowspan="2"|68
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Minerva Project Staff]]
+|
+|{{Retext|T3 Racky's Core|blue}} +4
+|-
+|style="background-color:var(--red-bg)"|Holy Tower of Fire
+|Defeat the [[#Enemies fought by the Snail|Fire Elementals]]
+|Trainee Scroll +10<br>Trainee Scroll +10<br>Trainee Scroll +10<br>Expert Scroll +20
+|-
+|rowspan="3"|"69"
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Project Director]]
+|
+|{{Retext|T4 Racky's Module|purple}} +3
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by the Snail|Minerva Staff]] in Forging
+|
+|{{RewardIconWithText|War Moon}} +1
+|-
+|style="background-color:var(--blue-bg)"|Broken Minerva Staff
+|
+|{{RewardIconWithGearlink|green|War|Broken Minerva Staff}} 
+|-
+|70
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Hinga Project Staff]]
+|
+|{{Retext|T4 Racky's Alloy|purple}} +3
+|-
+|rowspan="2"|71
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Mahoraga]]
+|
+|{{Retext|T4 Racky's Core|purple}} +3
+|-
+|style="background-color:var(--red-bg)"|Eight Subordinates
+|Defeat [[#Enemies fought by the Snail|Mahoraga]]
+|B-tads +30k
+|-
+|rowspan="2"|72? <!-- up/right from 70 -->
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Miner]]
+|
+|{{Retext|T4 Racky's Module|purple}} +3
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Dispatch any 50 T6 Minions for 1d 8h 43m
+|{{RewardIconWithLink|Murikan Treasure Map}} +960<br>{{RewardIconWithText|Laser Prism Component}} +6<br>{{RewardIconWithText|War Moon}} +1
+|-
+|73
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Hinga Project Staff]]
+|
+|{{Retext|T4 Racky's Alloy|purple}} +3
+|-
+|rowspan="2"|74
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Kinnara]]
+|
+|{{Retext|T4 Racky's Core|purple}} +3
+|-
+|style="background-color:var(--red-bg)"|Eight Subordinates
+|Defeat [[#Enemies fought by the Snail|Kinnara]]
+|B-tads +30k
+|-
+|75
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Hinga Project Staff]]
+|
+|{{Retext|T4 Racky's Module|purple}} +4
+|-
+|rowspan="2"|76
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Garuda]]
+|
+|{{Retext|T4 Racky's Alloy|purple}} +4
+|-
+|style="background-color:var(--red-bg)"|Eight Subordinates
+|Defeat [[#Enemies fought by the Snail|Garuda]]
+|{{RewardIconWithLink|Electromagno Repeller|green}}
+|-
+|77
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Hinga Project Staff]]
+|
+|{{Retext|T4 Racky's Core|purple}} +4
+|-
+|rowspan="2"|78? <!-- down/right from 77 -->
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Asura]]
+|
+|{{Retext|T4 Racky's Module|purple}} +4
+|-
+|style="background-color:var(--red-bg)"|Eight Subordinates
+|Defeat [[#Enemies fought by the Snail|Asura]]
+|Gear RF +5
+|-
+|rowspan="2"|"79"
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Project Director]]
+|
+|{{Retext|T4 Racky's Alloy|purple}} +4
+|-
+|style="background-color:var(--blue-bg)"|Hinga Dais Foundry
+|
+|{{RewardIconWithLink|Gear Chest}} +10
+|-
+|80
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Gate Guard]]
+|
+|{{Retext|T4 Racky's Core|purple}} +4
+|-
+|rowspan="2"|81
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Guards]]
+|
+|{{Retext|T4 Racky's Module|purple}} +4
+|-
+|style="background-color:var(--yellow-bg)"|Abandoned Robotic Arm
+|Requires 6,000 {{RewardIconWithText|W-Tad}}
+|{{RewardIconWithLink|War God's Guard Beta|orange|Robots}}
+|-
+|82
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Tentacle]]
+|
+|{{Retext|T4 Racky's Alloy|purple}} +4
+|-
+|83
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Tentacle]]
+|
+|{{Retext|T4 Racky's Core|purple}} +4
+|-
+|84
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Tentacle]]
+|
+|{{Retext|T4 Racky's Module|purple}} +5
+|-
+|85
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Tentacle]]
+|
+|{{Retext|T4 Racky's Alloy|purple}} +5
+|-
+|86
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Tentacle]]
+|
+|{{Retext|T4 Racky's Core|purple}} +5
+|-
+|87
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Tentacle]]
+|
+|{{Retext|T4 Racky's Module|purple}} +5
+|-
+|88
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Tentacle]]
+|
+|{{Retext|T4 Racky's Alloy|purple}} +5
+|-
+|89
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Tentacle]]
+|
+|{{Retext|T4 Racky's Core|purple}} +5
+|-
+|90
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky Guards]]
+|
+|{{Retext|T4 Racky's Module|purple}} +5
+|-
+|rowspan="3"|91
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky]]
+|
+|{{Retext|T4 Racky's Alloy|purple}} +5
+|-
+|style="background-color:var(--red-bg)"|[[#Enemies fought by minions|Racky]]
+|
+|{{RewardIconWithGearlink|green|War|Broken Racky Cannon}} <br>{{Retext|T4 Racky's Core|purple}} +5
+|-
+|style="background-color:var(--red-bg)"|Racky's Broken Helmet
+|Defeat [[#Enemies fought by the Snail|Racky]]
+|{{RewardIconWithLink|Racky's Head|green}}<br>{{RewardIconWithText|War Moon}} +1
+|}
+
+==Store==
+{{ShopRowHeader|Shop}}
+|-
+!rowspan="4"|
+{{ShopRow|AR2-T4|orange|4k {{RewardIconWithText|W-Tad}}|AR2-T3|purple|800 {{RewardIconWithText|W-Tad}}|AR2-T2, +2|blue|600 {{RewardIconWithText|W-Tad}}}}
+{{ShopRow|AR2-T1, +3|green|300 {{RewardIconWithText|W-Tad}}|War Weapon Tech, (Unlocks War Gear Slots)|white|100k {{RewardIconWithText|B-Tad}}|War Moon|white|50k {{RewardIconWithText|B-Tad}}}}
+|}
+
+==Enemies fought by Minions==
+{|class="wikitable"
+!rowspan="2"|Tile
+!rowspan="2"|Enemy
+!rowspan="2"|Troop RUSH<br>req.
+!colspan="4"|Stats
+!rowspan="2"|Power
+!rowspan="2"|Number
+|-
+!HP!!ATK!!DEF!!RUSH
+|-
+|1||Job Seeker||3,100,000||55.1k||13.7k||8,088||10.9k||38,258||160
+|-
+|2||Job Seeker||3,140,000||56k||13.9k||8,216||11k||38,862||160
+|-
+|3||Recruiting Manager||3,320,000||68.1k||15.2k||8,986||12.1k||43,186||160
+|-
+|4||Job Seeker||3,180,000||56.9k||14.1k||8,345||11.2k||39,471||160
+|-
+|5||Job Seeker||3,220,000||57.7k||14.3k||8,474||11.4k||40,082||160
+|-
+|6||Miner||3,270,000||58.6k||14.6k||8,604||11.6k||40,669||160
+|-
+|7||Security Director||3,370,000||70.3k||15.6k||9,203||12.4k||44,284||170
+|-
+|8||Pawson Project Staff||3,380,000||60.9k||14.2k||8,412||11.3k||40,143||170
+|-
+|9||Pawson Project Staff||3,560,000||67.1k||15.1k||8,942||12k||42,907||170
+|-
+|10||Pawson Project Staff||3,470,000||63.9k||14.7k||8,675||11.7k||41,512||170
+|-
+|11||Pawson Project Staff||3,420,000||62.4k||14.5k||8,544||11.5k||40,825||170
+|-
+|12||Miner||3,660,000||71k||15.6k||9,211||12.4k||44,395||170
+|-
+|13||Pawson Project Staff||3,610,000||73.2k||15.4k||9,076||12.2k||44,066||170
+|-
+|14||Pawson Project Staff||3,520,000||65.5k||14.9k||8,808||11.8k||42,206||170
+|-
+|15||The Great Jang Geum||3,720,000||73.3k||16k||9,435||12.7k||45,528||180
+|-
+|"16"||Project Director||3,770,000||79.9k||16.4k||9,661||13k||47,101||180
+|-
+|17||Bladden Project Staff||3,740,000||69.9k||14.9k||8,829||11.9k||42,730||180
+|-
+|18||Bladden Project Staff||3,790,000||71.6k||15.2k||8,964||12.1k||43,449||180
+|-
+|19||Bladden Project Staff||3,840,000||74.3k||15.4k||9,100||12.2k||44,266||180
+|-
+|20||Bladden's First Apprentice||3,980,000||81.3k||16.5k||9,735||13.1k||47,546||180
+|-
+|21?||Miner||3,890,000||76.1k||15.6k||9,237||12.4k||45,002||180
+|-
+|22||Bladden Project Staff||3,990,000||84k||16.1k||9,513||12.8k||46,915||180
+|-
+|23||Bladden's Second Apprentice||4,080,000||90.7k||16.8k||9,927||13.4k||49,252||180
+|-
+|"24"||Project Director||4,130,000||92.6k||17k||10k||13.5k||50,020||190
+|-
+|25||Bid Receptionist||4,070,000||78.1k||15.5k||9,153||12.3k||44,862||190
+|-
+|26||Design Team 1||4,120,000||79.6k||15.7k||9,257||12.4k||45,434||190
+|-
+|27||Design Team 2||4,280,000||85.3k||16.2k||9,568||12.9k||47,268||190
+|-
+|28?||Miner||4,410,000||86.5k||16.3k||9,605||12.9k||47,537||190
+|-
+|29||Design Team 10||4,500,000||98.4k||16.9k||9,987||13.4k||50,270||190
+|-
+|30||Data Keeper||4,170,000||81.2k||15.8k||9,361||12.6k||46,011||190
+|-
+|31||Design Team 6||4,340,000||88k||16.4k||9,673||13k||47,953||190
+|-
+|32||Design Team 7||4,390,000||94.4k||16.5k||9,777||12.2k||49,020||190
+|-
+|33||Data Keeper||4,320,000||82.8k||16k||9,464||12.7k||46,590||190
+|-
+|"34"||Project Director||4,580,000||101k||17.2k||10.1k||13.7k||51,382||200
+|-
+|35||Racky Project Staff||4,480,000||87.8k||15.7k||9,271||12.5k||46,312||200
+|-
+|36||Salesclerk||4,640,000||99.5k||17k||10k||13.5k||50,539||200
+|-
+|37||Racky Project Staff||4,590,000||90k||16k||9,481||12.8k||47,379||200
+|-
+|38||Racky Project Staff||4,700,000||93k||16.4k||9,691||13k||48,531||200
+|-
+|39||Racky Project Staff||4,640,000||91.5k||16.2k||9,586||12.9k||47,953||200
+|-
+|40||Ex Intel. Director||4,920,000||102k||17.3k||10.1k||13.7k||51,523||210
+|-
+|41?||Miner||4,820,000||97k||16.8k||9,903||13.3k||47,784||200
+|-
+|42?||Racky Project Staff||4,480,000||87.8k||15.7k||9,271||12.5k||46,312||230
+|-
+|43||Racky Project Staff||4,760,000||95.4k||16.6k||9,797||13.2k||49,198||200
+|-
+|"44"||Project Director||4,980,000||111k||17.4k||10.3k||13.9k||52,856||210
+|-
+|45||Thundos Project Staff||4,840,000||98.3k||15.9k||9,377||12.6k||47,793||210
+|-
+|46||Miner||5,020,000||105k||16.4k||9,695||13k||49,803||210
+|-
+|47||Thundos Project Staff||4,900,000||100k||16k||9,483||12.8k||48,454||210
+|-
+|48||Thundos Project Staff||4,960,000||103k||16.2k||9,589||12.9k||49,125||210
+|-
+|49||Omegatron MK2||5,180,000||113k||17.4k||10.2k||13.8k||52,900||210
+|-
+|50?||Miner||5,490,000||123k||16.9k||10k||13.5k||52,867||230
+|-
+|"51"||Project Director||5,560,000||116k||17.7k||10.4k||14.1k||54,023||220
+|-
+|52||Nethrone Project Staff||5,080,000||110k||16k||9,448||12.7k||49,308||220
+|-
+|53||Nethrone Project Staff||5,150,000||112k||16.2k||9,555||12.9k||49,952||220
+|-
+|54||Nethrone Project Staff||5,250,000||116k||16.4k||9,674||13k||50,811||220
+|-
+|55?||Nethrone Project Staff||5,190,000||114k||16.2k||9,567||12.9k||50,155||220
+|-
+|56||Nethrone Project Staff||5,310,000||118k||16.6k||9,780||13.2k||51,473||220
+|-
+|57||Nethrone Project Staff||5,380,000||121k||16.7k||9,887||13.3k||52,138||220
+|-
+|58||Doombringer Mk. II||5,540,000||127k||17.6k||10.3k||14k||54,774||230
+|-
+|rowspan="4"|"59"||Project Director||5,500,000||131k||16.8k||9,925||13.3k||53,317||230
+|-
+|Netherealm Soul||5,570,000||134k||17k||10k||13.5k||54,043||230
+|-
+|Netherealm Soul||5,640,000||138k||17.2k||10.1k||13.6k||54,891||230
+|-
+|Netherealm Soul||5,780,000||144k||17.5k||10.3k||13.9k||56,382||230
+|-
+|60||Minerva Project Staff||5,610,000||123k||16.3k||9,602||12.9k||51,196||230
+|-
+|61||Minerva Project Staff||5,680,000||124k||16.4k||9,710||13.1k||51,801||230
+|-
+|62||Minerva Project Staff||5,750,000||126k||16.6k||9,818||13.2k||52,411||230
+|-
+|63?||Miner||6,080,000||133k||17.2k||10.1k||13.7k||54,552||230
+|-
+|64||Minerva Project Staff||5,820,000||128k||16.8k||9,926||13.4k||53,025||230
+|-
+|65||Minerva Project Staff||5,880,000||130k||17k||10k||13.5k||53,644||230
+|-
+|66||Minerva Project Staff||5,950,000||132k||17.2k||10.1k||13.6k||54,267||230
+|-
+|67||Minerva Project Staff||6,030,000||135k||17.4k||10.2k||13.8k||55,003||230
+|-
+|68||Minerva Project Staff||6,100,000||136k||17.5k||10.3k||13.9k||55,632||230
+|-
+|"69"||Project Director||6,270,000||153k||18.1k||10.6k||14.4k||58,562||240
+|-
+|70||Hinga Project Staff||6,020,000||139k||16.4k||9,708||11.8k||51,985||240
+|-
+|71||Mahoraga||6,450,000||158k||18.8k||11.1k||14.5k||60,353||240
+|-
+|72?||Miner||6,090,000||142k||16.8k||9,945||12.3k||53,389||240
+|-
+|73||Hinga Project Staff||6,160,000||145k||17.2k||10.1k||12.7k||54,817||240
+|-
+|74||Kinnara||6,520,000||161k||19.3k||11.3k||15k||61,878||240
+|-
+|75||Hinga Project Staff||6,230,000||148k||17.7k||10.4k||13.2k||56,266||240
+|-
+|76||Garuda||6,600,000||164k||19.7k||11.6k||15.5k||63,422|||240
+|-
+|77||Hinga Project Staff||6,310,000||151k||18.1k||10.6k||13.7k||57,732||240
+|-
+|78?||Asura||6,650,000||166k||19.9k||11.6k||15.7k||63,980||250
+|-
+|"79"||Project Director||6,680,000||168k||20.2k||11.9k||16k||64,982||250
+|-
+|80||Gate Guard||6,380,000||161k||18.3k||10.8k||13.8k||59,231||250
+|-
+|81||Racky Guards||6,460,000||164k||18.6k||10.9k||14.1k||60,178||250
+|-
+|82||Racky Tentacle||6,530,000||166k||18.9k||11.1k||14.4k||61,137||250
+|-
+|83||Racky Tentacle||6,760,000||174k||19.7k||11.6k||15.2k||64,075||250
+|-
+|84||Racky Tentacle||6,920,000||179k||20.2k||11.9k||15.8k||66,077||250
+|-
+|85||Racky Tentacle||7,080,000||185k||20.8k||12.2k||16.4k||68,112||250
+|-
+|86||Racky Tentacle||6,610,000||169k||19.1k||11.2k||14.6k||62,106||250
+|-
+|87||Racky Tentacle||6,690,000||171k||19.4k||11.4k||14.9k||63,086||250
+|-
+|88||Racky Tentacle||6,840,000||177k||20k||11.7k||15.5k||65,073||250
+|-
+|89||Racky Tentacle||7,000,000||182k||20.5k||12.1k||16.1k||67,092||250
+|-
+|90||Racky Guards||7,200,000||188k||21.3k||12.5k||16.8k||69,678||250
+|-
+|rowspan="2"|91
+|rowspan="2"|Racky||7,450,000||195k||22.2k||13k||17.6k||72,495||1
+|-
+|7,500,000||205k||24.3k||14.3k||19.3k||78,700||1
+|}
+
+==Enemies fought by the Snail==
+'''All enemies have Special Stats of: HIT +50, Paralysis RES +50%'''
+
+'''Racky has the Special Stats of: CRIT +100%, HIT +80, Paralysis RES +80%'''
+{|class="wikitable"
+!rowspan="2"|Tile
+!rowspan="2"|Enemy
+!colspan="3"|Stats
+!rowspan="2"|Weakness
+|-
+!ATK!!DEF!!HP
+|-
+|7||Security Director||48,405||32,270||1,102,338||AFFCT 72,450
+|-
+|16||Pawson Claw||61,110||40,740||1,724,115||AFFCT 82,300
+|-
+|"24"||Bladden Sword||62,475||41,650||1,760,492||AFFCT 83,275
+|-
+|26||Head of Design Team 1||50,820||33,880||1,160,892||AFFCT 74,550
+|-
+|27||Head of Design Team 2||52,028||34,685||1,208,846||AFFCT 75,525
+|-
+|29||Head of Design Team 10||55,860||37,240||1,427,637||AFFCT 78,450
+|-
+|31||Head of Design Team 6||53,235||35,490||66,154||AFFCT 61,020
+|-
+|32||Head of Design Team 7||54,548||36,365||1,287,350||AFFCT 77,325
+|-
+|40||Ex Intel. Director||66,780||44,520||1,848,008||AFFCT 85,050
+|-
+|"44"||Racky Cannon||63,840||42,560||1,796,904||AFFCT 84,100
+|-
+|49||Omegatron MK2||68,250||45,500||1,884,357||AFFCT 86,025
+|-
+|58||Doombringer Mk. II||69,720||46,480||1,920,734||AFFCT 87,000
+|-
+|"59"||Nethrone Coffin||65,310||43,540||1,856,618||AFFCT 85,075
+|-
+|rowspan="4"|61||Water Element I||50,820||38,720||1,033,987||AFFCT 74,400
+|-
+|Water Element II||55,860||42,560||1,178,328||AFFCT 78,300
+|-
+|Water Element III||61,110||46,560||1,325,212||AFFCT 82,150
+|-
+|Water Mage||66,780||50,880||1,475,915||AFFCT 86,050
+|-
+|rowspan="4"|62||Earth Element I||50,820||42,560||831,492||AFFCT 74,400
+|-
+|Earth Element II||55,860||47,880||952,268||AFFCT 78,300
+|-
+|Earth Element III||61,110||52,380||1,074,894||AFFCT 82,150
+|-
+|Earth Mage||66,780||57,240||1,200,059||AFFCT 86,050
+|-
+|rowspan="4"|66||Wind Element I||50,820||33,880||1,257,633||AFFCT 74,400
+|-
+|Wind Element II||55,860||37,240||1,427,637||AFFCT 78,300
+|-
+|Wind Element III||61,110||40,740||1,600,964||AFFCT 82,150
+|-
+|Wind Mage||66,780||44,520||1,779,563||AFFCT 86,050
+|-
+|rowspan="4"|68||Fire Element I||50,820||29,040||1,502,430||AFFCT 74,400
+|-
+|Fire Element II||5,860||31,920||1,700,194||AFFCT 78,300
+|-
+|Fire Element IiI||61,110||34,920||1,902,149||AFFCT 82,150
+|-
+|Fire Mage||66,780||38,160||2,111,005||AFFCT 86,050
+|-
+|"69"||Minerva Staff||66,780||44,520||1,916,453||AFFCT 86,050
+|-
+|71||Mahoraga||66,780||44,520||1,642,674||AFFCT 85,050
+|-
+|74||Kinnara||69,720||46,480||1,849,596||AFFCT 87,000
+|-
+|76||Garuda||72,660||48,440||2,112,169||AFFCT 87,650
+|-
+|78?||Asura||92,505||61,670||3,170,758||AFFCT 101,750
+|-
+|91||Racky||70,000||46,000||10,000,000||AFFCT 87,700
+|}
+
+[[Category:Murikan Domain]]

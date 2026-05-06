@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Prince,Beowulf,Enuma Elish,Oxus Treasure,Jiuzhang
+|rank=orange
+|amount=5
+|category=minion
+|description=All Minion ATK +2%
+}}
+[[Category:Minion]]
+[[Category:Minion ATK Boost]]

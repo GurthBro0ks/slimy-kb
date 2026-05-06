@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Firefighter Award
+|class_id=20063
+|rank=Green
+|affct=CIV
+|source=
+|description=This certificate is only issued to advanced organizations in firefighting by fire inspectors from the city fire department. It serves as proof that even if the underground volcano erupts, the Home won't catch fire!
+|fame=13
+|art=14
+|fth=19
+|civ=28
+|tech=16
+|ss1=Per 400 Relic Points, Snail HP +30<br>Relic Points: 2000/2000
+|ss2=Per 400 Relic Points, Snail HP +30<br>Relic Points: 4000/4000
+|ss3=Per 400 Relic Points, Snail HP +30<br>Relic Points: 6000/6000
+|ss4=Per 400 Relic Points, Snail HP +30<br>Relic Points: 6000/6000
+|ss7=Per 400 Relic Points, Snail HP +30<br>Relic Points: 6000/6000<br> (Awakened)
+}}

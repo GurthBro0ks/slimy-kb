@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Aurelius on Horse,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic
+|rank=orange
+|amount=6
+|category=minion
+|description=Snail Leadership +12
+}}
+[[Category:Minion]]
+[[Category:Leadership Boost]]

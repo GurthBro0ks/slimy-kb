@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Agamemnon Ambassadors
+|class_id=22438
+|rank=Blue
+|affct=ART
+|birthday=03-06
+|source=Lottery Machine No.3 (0.03%)
+|description=On Mar 6, 1801 AD, Ingres completed the painting Agamemnon Ambassadors.<br>When he was 20 years old, Ingres created this historical portrait painting. The work depicts the scene of Achilles facing the envoy of Agamemnon. Through the orderly arrangement of the painting and the meticulous depiction of the characters' muscular and facial expressions, the artist ingeniously reveals each character's mindset. This masterpiece kickstarted his career after winning the Rome Grand Prize
+|fame=20
+|art=46
+|fth=30
+|civ=32
+|tech=26
+|ss1=Demon Minion RUSH +1%
+|ss2=Demon Minion RUSH +2%
+|ss3=Demon Minion RUSH +3%
+|ss4=Demon Minion RUSH +5%
+|ss7=Demon Minion RUSH +5%<br>Demon Minion RUSH +5% (Awakened)
+|skill1=[[File:Explorationegg skill I.png|50px]]Place in Exploration Egg: Green rewards from this egg turn Blue by 1%
+}}

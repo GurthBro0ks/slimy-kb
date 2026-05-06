@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Annals of Joseon
+|class_id=20912
+|rank=Blue
+|affct=FAME
+|birthday=03-06
+|source=
+|description=On Mar 6, 1934 AD, Records of Joseon were eventually finished.<br>Records of Joseon are a series of great historic works covering the 27 kings' reign during 500 years. The Records' compilation started during the reign of King Taejo and had never been interrupted, making them a massive chronicle in the world.
+|fame=45
+|art=27
+|fth=32
+|civ=19
+|tech=31
+|ss1=Upon traveling through a new area:<br>> Gain +2 INTEL
+|ss2=Upon traveling through a new area:<br>> Gain +4 INTEL
+|ss3=Upon traveling through a new area:<br>> Gain +6 INTEL
+|ss4=Upon traveling through a new area:<br>> Gain +10 INTEL
+|ss7=Upon traveling through a new area:<br>> Gain +10 INTEL<br>Upon traveling through a new area:<br>> Gain +10 INTEL (Awakened)
+|skill1=[[File:Koryeo skill I.png|50px]]Place in Koryeon Museum: In Koryeo, Snail ATK +20
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=104
+|relics=Jormungandr Scale,Lionheart
+|rank=purple
+|amount=2
+|category=self
+|description=Snail ATK +60
+}}

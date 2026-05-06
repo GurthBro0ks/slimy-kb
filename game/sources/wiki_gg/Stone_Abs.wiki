@@ -1,0 +1,16 @@
+{{CargoOrgan
+|name=Stone Abs
+|type=Bionic
+|rank=green
+|id=10647
+|idx=3
+|description=With professional training and "totally safe" experimental drugs, even couch potatoes can grow eight rock-hard abs in months!
+|skill=When attacked by the enemy, trigger the protection of the Golden Shield, reducing DMG by 21% of the enemy's ATK!
+|hp=580
+|def=55
+|atk=57
+|rush=37
+|gene1=In explorations, {race} DEF +20
+|gene2=In explorations, DMG REDUC +5%
+|gene7=In explorations, {race} DEF +60 (Awakened)
+|}}

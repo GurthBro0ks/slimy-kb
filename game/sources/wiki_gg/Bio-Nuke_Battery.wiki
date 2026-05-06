@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Bio-Nuke Battery
+|type=Common
+|rank=blue
+|id=10812
+|idx=13
+|description="The core of the battery contains large amounts of plutonium that generate electricity as it decays, damaging its bearer's body with radiation!"
+—TX Autopsy Report
+|skill=
+|hp=990
+|def=94
+|atk=59
+|rush=165
+|gene1=When in Mutant Form:
+> Gain +2% Time Chests in explorations
+|gene2=In Mecha Form, HP Regen +400 per round
+|gene3=Snail Arena, Earth DMG +60
+|gene7=When in Mutant Form:
+> Gain +2% Time Chests in explorations (Awakened)
+|}}

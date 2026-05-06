@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Blue Danube
+|class_id=22653
+|rank=SSS
+|affct=ART
+|birthday=03-09
+|source=
+|description=On Mar 9, 1866 AD, Johann Strauss Jr. created this famous waltz.<br>The Blue Danube is considered the crown jewel of the waltz genre and is a representative work of the "Waltz King" Johann Strauss Jr. It is written in the classic Viennese waltz structure, with an introduction, five small waltzes, and a final section. The composition was born during times of war, as Austria, the composer's homeland, suffered a defeat. At the request of a friend, he created this choral work symbolizing the vitality of Vienna. After many twists and turns, he brought it to the Paris World Expo, where it received great acclaim and became a beloved piece throughout the world.
+|fame=51
+|art=107
+|fth=65
+|civ=77
+|tech=62
+|ss1=All minion skins HP +10%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +24<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss2=All minion skins HP +20%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +32<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss3=All minion skins HP +30%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss4=All minion skins HP +50%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +56<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss5=All minion skins HP +70%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +72<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss6=All minion skins HP +100%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +96<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss7=All minion skins HP +100%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +96<br>Swamp Sanctum Rating Pts: 100000/100000<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: Medal Output +30
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: This Relic's ART +15
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, DMG +30%
+|mirage={{Mirage|name=dungeon@22653_1|reward={{RewardIconWithLink|Fluorite, +5|orange}}
+|3name=Rosen aus dem Süden|3rec=119.98M|3atk=358471|3defense=212703|3hp=37560172|3weak=44334
+|4name=Kaiser-Walzer|4rec=137.70M|4atk=397235|4defense=237633|4hp=49663921|4weak=48015
+|5name=Tales from the Vienna Woods|5rec=161.52M|5atk=450677|5defense=271144|5hp=72032719|5weak=52220
+|6name=Spark Polka|6rec=194.27M|6atk=520228|6defense=317224|6hp=105498439|6weak=56903
+|Arec=243.57M|Aatk=617292|Adefense=381693|Ahp=169626790|Aweak=62087
+}}}}

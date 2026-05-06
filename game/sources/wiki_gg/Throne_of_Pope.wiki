@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Throne of Pope
+|rank=Blue
+|affct=FTH
+|birthday=06-26
+|source=Lottery Machine (0.36%), Wishing (10.6%), Novice Scrolls (5%)
+|description=Jun 26, 1978, this Papal coronation throne was used for the last time until today.
+
+Paul II refused to use this throne when he was crowned. Since then, no pope ever used it again. Since the beginning of the Byzantium, this throne has been used to carry the pope during the coronation. It was a symbol of the Pope. It is an intricately decorated silk armchair, which needs to be carried by twelve porters in red uniforms. On the day of the papal coronation, it is used for various religious activities.
+|fame=28
+|art=28
+|fth=47
+|civ=30
+|tech=21
+|ss1=Per 10 Lotteries drawn, Snail DEF +2<br>Lotteries Drawn: 200/200
+|ss2=Per 10 Lotteries drawn, Snail DEF +4<br>Lotteries Drawn: 200/200
+|ss3=Per 10 Lotteries drawn, Snail DEF +6<br>Lotteries Drawn: 200/200
+|ss4=Per 10 Lotteries drawn, Snail DEF +10<br>Lotteries Drawn: 200/200
+|ss7=Per 10 Lotteries drawn, Snail DEF +10<br>Lotteries Drawn: 200/200<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Arena skill I.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail DEF +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:FTH Relics]]
+[[Category:Blue FTH Relics]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:DEF Boost]]
+[[Category:Lottery Bead Color Change]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Nightmare Steed Boost]]

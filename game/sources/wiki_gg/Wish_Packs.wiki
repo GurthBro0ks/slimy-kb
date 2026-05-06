@@ -1,0 +1,77 @@
+__FORCETOC__
+
+= Wish Pack I =
+[[File:Wish Pack I Details.png|300px]]
+
+The {{RewardIconWithLink|Wish Pack I|orange}} is a reward from [[Alchemy_Furnace#Weekly_Wishing_Event|Weekly Wishing Event]].
+
+After receiving the Wish Pack, you may choose a reward from the Pack!
+
+* {{RewardIconWithLink|1001 Nights, +40 Fragments|orange}}
+* {{RewardIconWithLink|The Analects, +40 Fragments|orange}}
+* {{RewardIconWithLink|Da Vinci's Notes, +40 Fragments|orange}}
+* {{RewardIconWithLink|Lucy the Ape, +40 Fragments|orange}}
+* {{RewardIconWithLink|Voyager 1, +40 Fragments|orange}}
+* {{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+* {{RewardIconWithLink|Wish Relic Album, +10 Fragments|orange}}
+
+= Wish Pack II =
+[[File:Wish Pack II Details.png|300px]]
+
+The {{RewardIconWithLink|Wish Pack II|orange}} is a reward from [[Alchemy_Furnace#Weekly_Wishing_Event|Weekly Wishing Event]].
+
+After receiving the Wish Pack, you may choose a reward from the Pack!
+
+* {{RewardIconWithLink|Faust, +40 Fragments|orange}}
+* {{RewardIconWithLink|Gaea's Hand, +40 Fragments|orange}}
+* {{RewardIconWithLink|Gilded Buddha, +40 Fragments|orange}}
+* {{RewardIconWithLink|Houmuwu Ding, +40 Fragments|orange}}
+* {{RewardIconWithLink|Medal of Honor, +40 Fragments|orange}}
+* {{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+* {{RewardIconWithLink|Wish Relic Album, +10 Fragments|orange}}
+
+= Wish Pack III =
+[[File:Wish Pack III Details.png|300px]]
+
+The {{RewardIconWithLink|Wish Pack III|orange}} is a reward from [[Alchemy_Furnace#Weekly_Wishing_Event|Weekly Wishing Event]].
+
+After receiving the Wish Pack, you may choose a reward from the Pack!
+
+* {{RewardIconWithLink|Africa Star, +40 Fragments|orange}}
+* {{RewardIconWithLink|The Art of War, +40 Fragments|orange}}
+* {{RewardIconWithLink|Lotus Chalice, +40 Fragments|orange}}
+* {{RewardIconWithLink|Particle Collider, +40 Fragments|orange}}
+* {{RewardIconWithLink|Somersault Cloud, +40 Fragments|orange}}
+* {{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+* {{RewardIconWithLink|Wish Relic Album, +10 Fragments|orange}}
+
+= Wish Pack IV =
+[[File:Wish Pack IV Details.png|300px]]
+
+The {{RewardIconWithLink|Wish Pack IV|orange}} is a reward from [[Alchemy_Furnace#Weekly_Wishing_Event|Weekly Wishing Event]].
+
+After receiving the Wish Pack, you may choose a reward from the Pack!
+
+* {{RewardIconWithLink|Ashoka Tower, +40 Fragments|orange}}
+* {{RewardIconWithLink|Encyclopedia, +40 Fragments|orange}}
+* {{RewardIconWithLink|Golden Wheat, +40 Fragments|orange}}
+* {{RewardIconWithLink|Hera's Peacock Fan, +40 Fragments|orange}}
+* {{RewardIconWithLink|Maya Slate, +40 Fragments|orange}}
+* {{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+* {{RewardIconWithLink|Wish Relic Album, +10 Fragments|orange}}
+
+= Wish Pack V =
+[[File:Wish Pack V Details.png|300px]]
+
+The {{RewardIconWithLink|Wish Pack V|orange}} is a reward from [[Alchemy_Furnace#Weekly_Wishing_Event|Weekly Wishing Event]].
+
+After receiving the Wish Pack, you may choose a reward from the Pack!
+
+* {{RewardIconWithLink|Ragnarok, +40 Fragments|orange}}
+* {{RewardIconWithLink|Origin of Species, +40 Fragments|orange}}
+* {{RewardIconWithLink|Somersault Cloud, +40 Fragments|orange}}
+* {{RewardIconWithLink|Relativity Scripts, +40 Fragments|orange}}
+* {{RewardIconWithLink|Artificial Blackhole, +40 Fragments|orange}}
+* {{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+* {{RewardIconWithLink|Wish Relic Album, +10 Fragments|orange}}
+[[Category:Reward Pack]]

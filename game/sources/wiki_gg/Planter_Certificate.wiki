@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Planter Certificate
+|class_id=20538
+|rank=Green
+|affct=CIV
+|source=
+|description=An honor bestowed by environmental organizations. This certificate is awarded to anyone who takes action and contributes to the greening of the Earth. Each certificate has a unique number, and having it allows you to proudly proclaim yourself as an honorable planter!
+|fame=13
+|art=15
+|fth=15
+|civ=32
+|tech=15
+|ss1=Snail HP +200<br>Per 10 times Maneater fed, Snail ATK +1<br>Maneater Fed: 400/400
+|ss2=Snail HP +400<br>Per 10 times Maneater fed, Snail ATK +2<br>Maneater Fed: 400/400
+|ss3=Snail HP +600<br>Per 10 times Maneater fed, Snail ATK +3<br>Maneater Fed: 400/400
+|ss4=Snail HP +600<br>Per 10 times Maneater fed, Snail ATK +3<br>Maneater Fed: 400/400
+|ss7=Snail HP +600<br>Per 10 times Maneater fed, Snail ATK +3<br>Maneater Fed: 400/400<br> (Awakened)
+}}

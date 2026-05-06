@@ -1,0 +1,358 @@
+[[File:Female Daemons Gallery.png|right|400px|thumb|The Four Female Daemons in the Dorms]]
+<br>
+
+== Female Daemons ==
+These 4 female daemons were once all-powerful. They go into seclusion after a a catastrophe. 
+
+=== Begin Friendship ===
+The Female Daemons will arrive in your [[Mailbox]] upon clearing the [[Journey to the West]] in [[Bharata]].
+
+=== ☆☆☆ > ★★★ ===
+The Female Daemons will come to fight you 4 times. After successfully completing a fight, you will have to wait 24 hours for the next mail to arrive from the Daemons.
+
+Upon completing all 4 fights, the Female Daemons will move in to the dorms.
+
+{| class="wikitable"
+!Enemy !!ATK !!DEF !!HP !!Special Stats !!Weakness !!Rewards
+|-
+|rowspan=4; |Female Daemons
+|109,580
+|56,235
+|1,745,303
+|HIT +80, Paralysis REST +80%
+|ART 19,820
+|Toner +30
+|-
+|127,866
+|65,619
+|2,063,549
+|HIT +80, Paralysis REST +80%
+|ART 21,410
+|Toner +30
+|-
+|147,900
+|75,900
+|2,453,624
+|HIT +80, Paralysis REST +80%
+|ART 24,710
+|Toner +30
+|-
+|169,413
+|86,940
+|3,047,397
+|HIT +80, Paralysis REST +80%
+|ART 24,710
+|Toner +100
+|-
+|}
+
+== Rent ==
+[[File:Female Daemons Rent.png|left|300px]]
+Female Daemons's rent is collected on '''Sunday''', and can be found as a small bowl sitting on a rock. 
+
+ '''Normal Rent''': {{RewardIconWithLink|Toner, +3}}
+
+ '''Rare Rent''': {{RewardIconWithLink|9-Tailed Fox|purple}} shell
+
+ '''1-time Rent''': {{RewardIconWithLink|Water of Mother River|green}}, {{RewardIconWithLink|Dark Pike Demon Gene Segment}}
+{{Clear}}
+
+== Relics ==
+Upgrading these will earn Travel Speedups!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|Travel Speedup +30m
+|-
+|★★
+|Travel Speedup +30m
+|-
+|★★★
+|Travel Speedup +30m
+|-
+|★★★★
+|Travel Speedup +1h
+|-
+|★★★★★
+|Travel Speedup +1.5h
+|-
+|★★★★★★
+|Travel Speedup +2h
+|}<br>
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Imperial Lamp}}{{Relink|Imperial Lamp}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Bronze Bird}}{{Relink|Bronze Bird}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Fuchun Mountains}}{{Relink|Fuchun Mountains}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Jade Cup}}{{Relink|Jade Cup}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|The Analects}}{{Relink|The Analects}}
+!style="background-color:var(--orange-bg);"|{{Reimg|The Art of War}}{{Relink|The Art of War}}
+!style="background-color:var(--orange-bg);"|{{Reimg|1st Winter Olympics Badge}}{{Relink|1st Winter Olympics Badge}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Time-Travel Box}}{{Relink|Time-Travel Box}}
+|}
+
+== Femm Fetale ==
+This book teaches you how to seduce male mortals. A compulsory course for every monster girl.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||ART +5||Mutant Minion Recovery SPD +0.3%
+|-
+|2||180||2k||ART +10||Mutant Minion Recovery SPD +0.6%
+|-
+|3||190||4.5k||ART +15||Mutant Minion Recovery SPD +0.9%
+|-
+|4||200||8k||ART +20||Mutant Minion Recovery SPD +1.2%
+|-
+|5||210||12.5k||ART +25||Mutant Minion Recovery SPD +1.5%
+|-
+|6||220||18k||ART +30||Mutant Minion Recovery SPD +1.8%
+|-
+|7||230||24.5k||ART +35||Mutant Minion Recovery SPD +2.1%
+|-
+|8||240||32k||ART +40||Mutant Minion Recovery SPD +2.4%
+|-
+|9||250||40.5k||ART +45||Mutant Minion Recovery SPD +2.7%
+|-
+|10||260||50k||ART +50||Mutant Minion Recovery SPD +3.0%
+|-
+|11||270||60.5k||ART +55||Mutant Minion Recovery SPD +3.3%
+|-
+|12||285||72k||ART +60||Mutant Minion Recovery SPD +3.6%
+|-
+|13||300||84.5k||ART +65||Mutant Minion Recovery SPD +3.9%
+|-
+|14||315||98k||ART +70||Mutant Minion Recovery SPD +4.2%
+|-
+|15||330||112k||ART +75||Mutant Minion Recovery SPD +4.5%
+|-
+|16||345||123k||ART +80||Mutant Minion Recovery SPD +4.8%
+|-
+|17||360||144k||ART +85||Mutant Minion Recovery SPD +5.1%
+|-
+|18||375||162k||ART +90||Mutant Minion Recovery SPD +5.4%
+|-
+|19||390||180k||ART +95||Mutant Minion Recovery SPD +5.7%
+|-
+|20||400||200k||ART +100||Mutant Minion Recovery SPD +6.0%
+|-
+|21||420||220k||ART +105||Mutant Minion Recovery SPD +6.3%
+|-
+|22||440||242k||ART +110||Mutant Minion Recovery SPD +6.6%
+|-
+|23||460||264k||ART +115||Mutant Minion Recovery SPD +6.9%
+|-
+|24||480||285k||ART +120||Mutant Minion Recovery SPD +7.2%
+|-
+|25||500||309k||ART +125||Mutant Minion Recovery SPD +7.5%
+|-
+|26||520||333k||ART +130||Mutant Minion Recovery SPD +7.8%
+|-
+|27||540||357k||ART +135||Mutant Minion Recovery SPD +8.1%
+|-
+|28||560||381k||ART +140||Mutant Minion Recovery SPD +8.4%
+|-
+|29||580||405k||ART +145||Mutant Minion Recovery SPD +8.7%
+|-
+|30||600||429k||ART +150||Mutant Minion Recovery SPD +9.0%
+|}
+
+==Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as [[#Femm Fatale|Femm Fatale]] is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|-
+|1||0||Mutant Minion MAX+1||Per 10 Little Monks in battle, Troop ATK +10
+|-
+|2||4k||Mutant Minion MAX+2||Per 10 Little Monks in battle, Troop ATK +20
+|-
+|3||6k||Mutant Minion MAX+3||Per 10 Little Monks in battle, Troop ATK +30
+|-
+|4||8k||Mutant Minion MAX+4||Per 10 Little Monks in battle, Troop ATK +40
+|-
+|5||10k||Mutant Minion MAX+5||Per 10 Little Monks in battle, Troop ATK +50
+|-
+|6||12k||Mutant Minion MAX+6||Per 10 Little Monks in battle, Troop ATK +60
+|-
+|7||14k||Mutant Minion MAX+7||Per 10 Little Monks in battle, Troop ATK +70
+|-
+|8||16k||Mutant Minion MAX+8||Per 10 Little Monks in battle, Troop ATK +80
+|-
+|9||18k||Mutant Minion MAX+9||Per 10 Little Monks in battle, Troop ATK +90
+|-
+|10||20k||Mutant Minion MAX+10||Per 10 Little Monks in battle, Troop ATK +100
+|-
+|11||22k||Mutant Minion MAX+11||Per 10 Little Monks in battle, Troop ATK +110
+|-
+|12||24k||Mutant Minion MAX+12||Per 10 Little Monks in battle, Troop ATK +120
+|-
+|13||26k||Mutant Minion MAX+13||Per 10 Little Monks in battle, Troop ATK +130
+|-
+|14||28k||Mutant Minion MAX+14||Per 10 Little Monks in battle, Troop ATK +140
+|-
+|15||30k||Mutant Minion MAX+15||Per 10 Little Monks in battle, Troop ATK +150
+|-
+|16||32k||Mutant Minion MAX+16||Per 10 Little Monks in battle, Troop ATK +160
+|-
+|17||34k||Mutant Minion MAX+17||Per 10 Little Monks in battle, Troop ATK +170
+|-
+|18||36k||Mutant Minion MAX+18||Per 10 Little Monks in battle, Troop ATK +180
+|-
+|19||38k||Mutant Minion MAX+19||Per 10 Little Monks in battle, Troop ATK +190
+|-
+|20||40k||Mutant Minion MAX+20||Per 10 Little Monks in battle, Troop ATK +200
+|-
+|21||42k||Mutant Minion MAX+21||Per 10 Little Monks in battle, Troop ATK +210
+|-
+|22||44k||Mutant Minion MAX+22||Per 10 Little Monks in battle, Troop ATK +220
+|-
+|23||46k||Mutant Minion MAX+23||Per 10 Little Monks in battle, Troop ATK +230
+|-
+|24||48k||Mutant Minion MAX+24||Per 10 Little Monks in battle, Troop ATK +240
+|-
+|25||50k||Mutant Minion MAX+25||Per 10 Little Monks in battle, Troop ATK +250
+|-
+|26||55k||Mutant Minion MAX+26||Per 10 Little Monks in battle, Troop ATK +260
+|-
+|27||60k||Mutant Minion MAX+27||Per 10 Little Monks in battle, Troop ATK +270
+|-
+|28||65k||Mutant Minion MAX+28||Per 10 Little Monks in battle, Troop ATK +280
+|-
+|29||70k||Mutant Minion MAX+29||Per 10 Little Monks in battle, Troop ATK +290
+|-
+|30||75k||Mutant Minion MAX+30||Per 10 Little Monks in battle, Troop ATK +300
+|}
+
+== Research Ability ==
+Below is a table of the research manual cost to upgrade each research gene. Female Daemons specializes in '''Mutant Gene''' and therefore the research manual cost for the Mutant is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+== Minion - Little Monk ==
+These pure-hearted monks are well versed in Buddhist classics and have excellent martial arts skills. Their future is unlimited...
+
+===Special Ability - Kung Fu Kid===
+Per 10 Little Monk in battle, Troop HP +100 (multiplied by minion level)
+
+=== Minion Relics ===
+Upgrading these relics will buff your Little Monk!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Ranjyatai Incense}}<br>{{relink|Ranjyatai Incense}}
+|Little Monk HP +1%
+|Little Monk DEF +1%
+|Little Monk ATK +1%
+|Little Monk RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Buddha Tooth Sarira}}<br>{{relink|Buddha Tooth Sarira}}
+|Little Monk HP +1%
+|Little Monk DEF +1%
+|Little Monk ATK +1%
+|Little Monk RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Leaf Manuscript}}<br>{{relink|Leaf Manuscript}}
+|Little Monk HP +2%
+|Little Monk DEF +2%
+|Little Monk ATK +2%
+|Little Monk RUSH +2%
+|Female Daemons All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Killing Stone}}<br>{{relink|Killing Stone}}
+|Little Monk HP +2%
+|Little Monk DEF +2%
+|Little Monk ATK +2%
+|Little Monk RUSH +2%
+|Female Daemons All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Buddha Finger Sarira}}<br>{{relink|Buddha Finger Sarira}}
+|Little Monk HP +4%
+|Little Monk HP +4%
+|Little Monk HP +4%
+|Little Monk HP +4%
+|Little Monk HP +4%
+|Little Monk HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Buddha's Skull Sarira}}<br>{{relink|Buddha's Skull Sarira}}
+|Little Monk DEF +4%
+|Little Monk DEF +4%
+|Little Monk DEF +4%
+|Little Monk DEF +4%
+|Little Monk DEF +4%
+|Little Monk DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Somersault Cloud}}<br>{{relink|Somersault Cloud}}
+|Little Monk ATK +4%
+|Little Monk ATK +4%
+|Little Monk ATK +4%
+|Little Monk ATK +4%
+|Little Monk ATK +4%
+|Little Monk ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Golden Vase}}<br>{{relink|Golden Vase}}
+|Little Monk RUSH +4%
+|Little Monk RUSH +4%
+|Little Monk RUSH +4%
+|Little Monk RUSH +4%
+|Little Monk RUSH +4%
+|Little Monk RUSH +4%
+|-
+|}
+
+[[Category:Partners]]

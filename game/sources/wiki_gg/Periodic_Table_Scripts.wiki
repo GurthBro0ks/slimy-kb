@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Periodic Table Scripts
+|class_id=21905
+|rank=SSS
+|affct=TECH
+|birthday=12-01
+|source=
+|description=On Dec 1, 1869 AD, the Mendeleev version of the Periodic Table was published.<br>Mendeleev documented element data. He recorded each element's atomic weight and related data on cards, making a 63-card deck. He later discovered the importance of atomic weight in element classification, and the properties of elements changed periodically with the increase of relative atomic mass. He wrote his findings on "The relationship between the properties of elements and their atomic mass." Later, he put the inert family into the periodic table in his Chemistry Principles, giving the Periodic Table its current format.
+|fame=49
+|art=67
+|fth=71
+|civ=66
+|tech=109
+|ss1=Per 60 Mutant Minions in battle:<br>> Troop HP +90<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +9<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Per 60 Mutant Minions in battle:<br>> Troop HP +180<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +18<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Per 60 Mutant Minions in battle:<br>> Troop HP +270<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +27<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Per 60 Mutant Minions in battle:<br>> Troop HP +450<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +45<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Per 60 Mutant Minions in battle:<br>> Troop HP +630<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +63<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Per 60 Mutant Minions in battle:<br>> Troop HP +900<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +90<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Per 60 Mutant Minions in battle:<br>> Troop HP +900<br>Per 60 Mutant Minions in battle:<br>> Troop DEF +90<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, B-tads gained +15%
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's TECH +15
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Cells collected +30%
+|mirage={{Mirage|name=Periodic Table|reward={{RewardIconWithLink|Golden Eyelashes Sample, +3|orange}}
+|3name=Element He|3rec=3.15M|3atk=43291|3defense=28674|3hp=657494|3weak=9573
+|4name=Element Li|4rec=6.11M|4atk=62838|4defense=41622|4hp=1223235|4weak=12288
+|5name=Element Be|5rec=11.14M|5atk=87015|5defense=57636|5hp=2236273|5weak=14440
+|6name=Element B.|6rec=23.39M|6atk=115960|6defense=76808|6hp=3712057|6weak=17993
+|Arec=39.39M|Aatk=149932|Adefense=99311|Ahp=5987758|Aweak=19339
+}}}}

@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=The Deadpan's Heart
+|type=Common
+|rank=purple
+|id=10948
+|idx=142
+|description=Emotionally retired since birth.
+|skill=
+|hp=1794
+|def=149
+|atk=169
+|rush=134
+|gene1=Restore 400 HP each round
+|gene2=During exploration, Water DMG +120
+|gene3=In explorations, Demon God Cells collected +4%
+|gene4=Water DMG +1%
+|gene7=In explorations, Demon God Cells collected +4% (Awakened)
+|}}

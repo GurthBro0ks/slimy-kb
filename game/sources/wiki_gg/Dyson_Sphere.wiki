@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Dyson Sphere
+|rank=SSS
+|affct=TECH
+|birthday=04-29
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wishing (0.07%)
+|description=On Apr 29, 1960 AD, Dyson came up with the idea of this artificial planet mining structure.
+
+A Dyson Sphere is an energy-receiving device that encircles a star and captures its energy. Stars generate huge amounts of energy every second, and the harvest of this energy is enough for humanity to use for millions of years. A civilization could rely on a Dyson Sphere. But only when civilizations develop to a stellar level can they be able to build Dyson Spheres, harness the energy of stars, and move freely between different star systems. At present, it will take humans thousands of years to progress to the point of constructing the Dyson Sphere.
+|fame=72
+|art=67
+|fth=64
+|civ=51
+|tech=108
+|ss1=Snail DEF +30<br>Per 5 Rocket Tech LVLs, Snail ATK +9<br>Per 5 Rocket Tech LVLs, Snail DEF +9<br>Rocket Tech Upgraded: 50/50
+|ss2=Snail DEF +40<br>Per 5 Rocket Tech LVLs, Snail ATK +16<br>Per 5 Rocket Tech LVLs, Snail DEF +16<br>Rocket Tech Upgraded: 50/50
+|ss3=Snail DEF +50<br>Per 5 Rocket Tech LVLs, Snail ATK +23<br>Per 5 Rocket Tech LVLs, Snail DEF +23<br>Rocket Tech Upgraded: 50/50
+|ss4=Snail DEF +70<br>Per 5 Rocket Tech LVLs, Snail ATK +37<br>Per 5 Rocket Tech LVLs, Snail DEF +37<br>Rocket Tech Upgraded: 50/50
+|ss5=Snail DEF +90<br>Per 5 Rocket Tech LVLs, Snail ATK +51<br>Per 5 Rocket Tech LVLs, Snail DEF +51<br>Rocket Tech Upgraded: 50/50
+|ss6=Snail DEF +120<br>Per 5 Rocket Tech LVLs, Snail ATK +72<br>Per 5 Rocket Tech LVLs, Snail DEF +72<br>Rocket Tech Upgraded: 50/50
+|ss7=Snail DEF +120<br>Per 5 Rocket Tech LVLs, Snail ATK +72<br>Per 5 Rocket Tech LVLs, Snail DEF +72<br>Rocket Tech Upgraded: 50/50<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Britland skill III.png|frameless|52x52px]]Place in Britland Museum:In Britland, TECH Checks -15
+|skill2=[[File:Britland skill III.png|frameless|52x52px]]Place in Britland Museum:In Britland, 2x Food Drops +15%
+|skill3=[[File:Britland skill III.png|frameless|52x52px]]Place in Britland Museum:In Britland, Mecha Cells gained +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:DEF Boost]]
+[[Category:ATK Boost]]
+[[Category:Rocket Tech Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:TECH Boost]]
+[[Category:Exploration Food Drop Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Mecha Cell Drop Boost]]
+[[Category:God Descent Boost]]
+[[Category:Lottery Bead Color Change]]
+[[Category:Rewards Eye of Horus]]

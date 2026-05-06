@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Queen Mary's Doll House
+|class_id=22773
+|rank=SSS
+|affct=FAME
+|source=
+|description=This is a magnificent miniature artwork designed by renowned architect Sir Edwin, completed by over 1,500 craftsmen and artists over three years. The piece is made to a 1:12 scale, standing about two meters tall, with four floors, faithfully recreating the rooms within Windsor Castle, including bedrooms, living rooms, libraries, and treasure rooms, with details as intricate as wallpaper, lighting fixtures, miniature books, and jewelry. It is not only the pinnacle of miniature art but also a symbol of British craftsmanship and culture, having been exhibited at the Wembley British Empire Exhibition and still on display at Windsor Castle for visitors to admire.
+|fame=106
+|art=60
+|fth=53
+|civ=68
+|tech=75
+|ss1=Legion Aura draws +1<br>Resolver: W-tads extracted +30<br>For every level of Base Station cleared, Snail ATK +6<br>Base Station LVLs Cleared: 30/30
+|ss2=Legion Aura draws +2<br>Resolver: W-tads extracted +40<br>For every level of Base Station cleared, Snail ATK +8<br>Base Station LVLs Cleared: 30/30
+|ss3=Legion Aura draws +3<br>Resolver: W-tads extracted +50<br>For every level of Base Station cleared, Snail ATK +10<br>Base Station LVLs Cleared: 30/30
+|ss4=Legion Aura draws +4<br>Resolver: W-tads extracted +70<br>For every level of Base Station cleared, Snail ATK +14<br>Base Station LVLs Cleared: 30/30
+|ss5=Legion Aura draws +5<br>Resolver: W-tads extracted +90<br>For every level of Base Station cleared, Snail ATK +18<br>Base Station LVLs Cleared: 30/30
+|ss6=Legion Aura draws +6<br>Resolver: W-tads extracted +120<br>For every level of Base Station cleared, Snail ATK +24<br>Base Station LVLs Cleared: 30/30
+|ss7=Legion Aura draws +6<br>Resolver: W-tads extracted +120<br>For every level of Base Station cleared, Snail ATK +24<br>Base Station LVLs Cleared: 30/30<br>Resolver: W-tads extracted +100 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Mutant Cells gained +15%
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's FAME +15
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x B-tad Drops +15%
+|mirage={{Mirage|name=Mini Furniture|reward={{RewardIconWithLink|Cultivation Fluid, +10|orange}}
+|3name=Mini statue|3rec=5.67M|3atk=59835|3defense=39961|3hp=981716|3weak=12915
+|4name=Mini desk|4rec=9.51M|4atk=79282|4defense=52949|4hp=1575752|4weak=15763
+|5name=Mini Sofa|5rec=15.39M|5atk=102466|5defense=68432|5hp=2416987|5weak=18503
+|6name=Mini Screen|6rec=30.27M|6atk=129503|6defense=86489|6hp=3734990|6weak=21673
+|Arec=44.93M|Aatk=160377|Adefense=107109|Ahp=5449561|Aweak=26589
+}}}}

@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Painted Pottery King,National Geographic Inaugural Issue
+|rank=orange
+|amount=2
+|category=self
+|description=Per Incubator File perfectly restored, Snail RUSH +7; Incubator File perfectly restored: 60/60
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]

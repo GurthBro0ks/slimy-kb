@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Rose Cross
+|class_id=22053
+|rank=Blue
+|affct=FAITH
+|birthday=03-13
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Mar 13, 1610 AD, the Rosicrucian Society was formally established in Germany, and they agreed to use the Rose Cross as belonging.<br>The Rose Cross belongs to the Rosicrucian Society, a secret society in Germany in the early seventeenth century. Due to the strict selection of members and their emphasis on confidentiality, the world knows very little about this religious order. According to some of their early declarations, the Rosicrucians adopted philosophical and scientific viewpoints, and to a certain degree, affirmed the existence of supernatural power. They carried out alchemy experiments, astrological divination, and other occult research.
+|fame=24
+|art=32
+|fth=48
+|civ=21
+|tech=29
+|ss1=Snail HP +100
+|ss2=Snail HP +200
+|ss3=Snail HP +300
+|ss4=Snail HP +500
+|ss7=Snail HP +500<br>Snail HP +500 (Awakened)
+|skill1=[[File:Compass skill I.png|50px]]Place in Exploration Compass: Snail DEF +20
+}}

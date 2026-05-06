@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=A Burial At Ornans,Ivan the Terrible,Mysterious Relic
+|rank=orange
+|amount=3
+|category=home
+|description=All Sanctum Glorium Output +3.2%
+}}
+[[Category:Home]]
+[[Category:Sanctum Boost]]

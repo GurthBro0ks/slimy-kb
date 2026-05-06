@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=St. Valentine Doll
+|class_id=20725
+|rank=Green
+|affct=FAITH
+|source=
+|description=A mascot doll created for Valentine's Day, modeled after the guardian saint of lovers, Saint Valentine. Its benevolent and adorable appearance has garnered praise, and some even claim that it has guided them to find love, adding value to their lives.
+|fame=15
+|art=14
+|fth=32
+|civ=16
+|tech=13
+|ss1=Snail ATK +10<br>Per 4 Costumes fully ascended, Snail DEF +2<br>Costumes Perfected: 160/160
+|ss2=Snail ATK +20<br>Per 4 Costumes fully ascended, Snail DEF +3<br>Costumes Perfected: 160/160
+|ss3=Snail ATK +30<br>Per 4 Costumes fully ascended, Snail DEF +4<br>Costumes Perfected: 160/160
+|ss4=Snail ATK +30<br>Per 4 Costumes fully ascended, Snail DEF +4<br>Costumes Perfected: 160/160
+|ss7=Snail ATK +30<br>Per 4 Costumes fully ascended, Snail DEF +4<br>Costumes Perfected: 160/160<br> (Awakened)
+}}

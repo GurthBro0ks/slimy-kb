@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Superstring Computer
+|class_id=22759
+|rank=SSS
+|affct=TECH
+|birthday=11-23
+|source=
+|description=On an unspecified date in the year 2248, Russian scientist Brekhov invented the first Superstring Computer.<br>The Superstring Computer is a theoretical type of future computer based on the principles of string theory. It attempts to utilize the vibrational modes of tiny strings to process and transmit information, enabling efficient computing capabilities similar to quantum computers. With the initial conditions of each particle provided, the entire universe would unfold like a mirror, displaying all past and future events clearly.
+|fame=66
+|art=49
+|fth=74
+|civ=64
+|tech=109
+|ss1=Snail Leadership +3<br>Per 3 Forest Protomon, Snail RUSH +9<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +48<br>Forest Protomon: 60/60
+|ss2=Snail Leadership +4<br>Per 3 Forest Protomon, Snail RUSH +12<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +64<br>Forest Protomon: 60/60
+|ss3=Snail Leadership +5<br>Per 3 Forest Protomon, Snail RUSH +15<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +80<br>Forest Protomon: 60/60
+|ss4=Snail Leadership +7<br>Per 3 Forest Protomon, Snail RUSH +21<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +112<br>Forest Protomon: 60/60
+|ss5=Snail Leadership +9<br>Per 3 Forest Protomon, Snail RUSH +27<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +144<br>Forest Protomon: 60/60
+|ss6=Snail Leadership +12<br>Per 3 Forest Protomon, Snail RUSH +36<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +192<br>Forest Protomon: 60/60
+|ss7=Snail Leadership +12<br>Per 3 Forest Protomon, Snail RUSH +36<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +192<br>Forest Protomon: 60/60<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Earth DMG +60
+|skill2=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion RUSH +9%
+|skill3=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion DEF +9%
+|mirage={{Mirage|name=Everything is within calculation.|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Superstring Mouse|3rec=148.63M|3atk=421889|3defense=253009|3hp=59554368|3weak=50104
+|4name=Superstring Graphics Card|4rec=178.91M|4atk=487673|4defense=295607|4hp=91079860|4weak=54876
+|5name=Superstring Monitor|5rec=221.96M|5atk=578800|5defense=356181|5hp=141675723|5weak=60233
+|6name=Superstring Host|6rec=312.92M|6atk=711817|6defense=444086|6hp=247046598|6weak=66143
+|Arec=443.73M|Aatk=891545|Adefense=561771|Ahp=416616177|Aweak=72097
+}}}}

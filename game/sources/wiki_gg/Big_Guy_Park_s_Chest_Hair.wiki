@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Big Guy Park's Chest Hair
+|type=Common
+|rank=blue
+|id=10819
+|idx=20
+|description=Big Guy Park was badly injured while fighting the Demon Gods, his endocrine system was severely damaged, changing him from a hairy man to hairless!
+|skill=
+|hp=660
+|def=152
+|atk=117
+|rush=82
+|gene1=Deadly Ironball effect +10%
+|gene2=In explorations, {race} DEF +20
+|gene3=Deadly Ironball effect +10%
+|gene7=Deadly Ironball effect +10% (Awakened)
+|}}

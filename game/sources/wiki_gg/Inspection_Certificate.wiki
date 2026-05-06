@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Inspection Certificate
+|class_id=20082
+|rank=Green
+|affct=CIV
+|source=
+|description=We wish to work with gamers to resist copycat games and malicious promotions. In the mini-game, Game Promoter, you stuck to your principles and said no to fraudulent promotions. We hereby issue this certificate as an appreciation!
+|fame=14
+|art=10
+|fth=18
+|civ=31
+|tech=16
+|ss1=Per Sign-In, Snail DEF +1<br>Sign-Ins: 20/20
+|ss2=Per Sign-In, Snail DEF +2<br>Sign-Ins: 20/20
+|ss3=Per Sign-In, Snail DEF +3<br>Sign-Ins: 20/20
+|ss4=Per Sign-In, Snail DEF +3<br>Sign-Ins: 20/20
+|ss7=Per Sign-In, Snail DEF +3<br>Sign-Ins: 20/20<br> (Awakened)
+}}

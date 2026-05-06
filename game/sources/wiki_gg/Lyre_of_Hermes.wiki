@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Lyre of Hermes
+|rank=SSS
+|affct=ART
+|birthday=04-07
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wishing (0.08%)
+|description=On Apr 7, 5000 BC, God made Hermes invent this instrument.
+
+Apollo pursued Hermes for stealing a herd of cattle from him. To appease Apollo's wrath, Hermes made a seven-stringed lyre out of tortoiseshell, entrails, and horns from cows. When Apollo played the lyre, the goddesses of Olympus were attracted by its beautiful sound, so Apollo forgave Hermes.
+|fame=65
+|art=108
+|fth=68
+|civ=47
+|tech=74
+|ss1=Snail ATK +30<br>Per Orange+ Gear equipped, Snail HP +60<br>Per Orange+ Gear equipped, Snail ATK +6
+|ss2=Snail ATK +40<br>Per Orange+ Gear equipped, Snail HP +80<br>Per Orange+ Gear equipped, Snail ATK +8
+|ss3=Snail ATK +50<br>Per Orange+ Gear equipped, Snail HP +100<br>Per Orange+ Gear equipped, Snail ATK +10
+|ss4=Snail ATK +70<br>Per Orange+ Gear equipped, Snail HP +140<br>Per Orange+ Gear equipped, Snail ATK +14
+|ss5=Snail ATK +90<br>Per Orange+ Gear equipped, Snail HP +180<br>Per Orange+ Gear equipped, Snail ATK +18
+|ss6=Snail ATK +120<br>Per Orange+ Gear equipped, Snail HP +240<br>Per Orange+ Gear equipped, Snail ATK +24
+|ss7=Snail ATK +120<br>Per Orange+ Gear equipped, Snail HP +240<br>Per Orange+ Gear equipped, Snail ATK +24<br>Snail ATK +100 (Awakened)
+|skill1={{Skills|hellas|green card|15%}}
+|skill2={{Skills|hellas|blue card|15%}}
+|skill3={{Skills|hellas|purple card|15%}}
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:HP Boost]]
+[[Category:Gear Boost]]
+[[Category:Hellas Museum Boost]]
+[[Category:Hellas Exploration Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:God Descent Boost]]
+[[Category:RUSH Boost]]
+[[Category:DNA Boost]]
+[[Category:Rewards Organs]]
+[[Category:Stan Boost]]
+[[Category:Sanctum Warrior Boost]]

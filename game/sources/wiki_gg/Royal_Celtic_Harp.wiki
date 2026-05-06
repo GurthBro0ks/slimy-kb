@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Royal Celtic Harp
+|available=1
+|rank=SSS
+|affct=FTH
+|birthday=12-14
+|source=Grandmaster Scrolls (0.76%), Lottery Machine (0.09%), Wishing (0.06%)
+|description=On Dec 14, 1071 AD, the Royal Celtic Harp appeared in Ireland for the first time. Royal Celtic Harp is a large polyphonic stringed instrument. It can be played solo or as a part of an ensemble. According to legend, King David once ordered a harp made out of pure gold. When played solo, it exhibits a soft lyrical cadenza.<br>[Classic Works]<br>Concerto for Flute and Harp by Mozart. Harp Concerto by Greer and Hindemith. Waltz of Flowers by Tchaikovsky.
+|fame=55
+|art=76
+|fth=109
+|civ=67
+|tech=55
+|ss1=In explorations, Cells collected +%<br>Per 5 Mirage Gems gained, Snail HP +<br>Per 5 Mirage Gems gained, Snail ATK +<br>Mirage Gems Gained: 300/300
+|ss2=In explorations, Cells collected +%<br>Per 5 Mirage Gems gained, Snail HP +<br>Per 5 Mirage Gems gained, Snail ATK +<br>Mirage Gems Gained: 300/300
+|ss3=In explorations, Cells collected +%<br>Per 5 Mirage Gems gained, Snail HP +<br>Per 5 Mirage Gems gained, Snail ATK +<br>Mirage Gems Gained: 300/300
+|ss4=In explorations, Cells collected +%<br>Per 5 Mirage Gems gained, Snail HP +<br>Per 5 Mirage Gems gained, Snail ATK +<br>Mirage Gems Gained: 300/300
+|ss5=In explorations, Cells collected +%<br>Per 5 Mirage Gems gained, Snail HP +<br>Per 5 Mirage Gems gained, Snail ATK +<br>Mirage Gems Gained: 300/300
+|ss6=In explorations, Cells collected +7.2%<br>Per 5 Mirage Gems gained, Snail HP +120<br>Per 5 Mirage Gems gained, Snail ATK +12<br>Mirage Gems Gained: 300/300
+|ss7=In explorations, Cells collected +7.2%<br>Per 5 Mirage Gems gained, Snail HP +120<br>Per 5 Mirage Gems gained, Snail ATK +12<br>Mirage Gems Gained: 300/300<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Zombie Cells gained +30%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Demon Cells gained +30%
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Angel Cells gained +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Exploration Cell Drop Boost]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Mirage Gem Boost]]
+[[Category:Hellas Museum Boost]]
+[[Category:Hellas Exploration Boost]]
+[[Category:Zombie Cell Drop Boost]]
+[[Category:Demon Cell Drop Boost]]
+[[Category:Angel Cell Drop Boost]]
+[[Category:Tadpole Pond W-Tad Output Boost]]
+[[Category:Offering Speed Boost]]
+[[Category:Stan Boost]]
+[[Category:Rewards Wish Coin]]

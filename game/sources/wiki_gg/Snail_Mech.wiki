@@ -1,0 +1,370 @@
+[[File:Snail Mech.png|Frameless|400px|right]]
+
+== Snail Mech ==
+The birth of the new silicon-based life is significant. It was reset once due to its bad temper.
+
+=== Begin Friendship ===
+To obtain Snail Mech, reach step 2 of [[Mecha Form|Mecha Ritual VII]]. This requires {{RewardIconWithLink|Silicon Life Prototype|green}} from Steel Hall of the [[Rebel Device#Steel Hall|Rebel Cabin]] of the [[Rocket]].
+
+As Snail Mech's quest is quite long, the simplified costs and rewards of it are as follows:
+{| class="wikitable"
+! Costs !! Rewards
+|-
+|
+* W-Tads 5k
+* Mecha Cells 5k
+* Refine Speedup 36h
+* [[Wormhole|Demon God Chip]] 5
+* {{RewardIconWithLink|AR2-T1|green}} +10
+* {{RewardIconWithLink|AR2-T2|blue}} +2
+|
+* W-Tads +3,040
+* Blue Coating +20
+* <span style="color:var(--yellow-text)">Soul of Bestie</span> (2h) +3
+* <span style="color:var(--red-text)">Soul of Rich Kid</span> (2h) +3
+|}
+
+<tabber>
+|-|☆ > ★=
+After 3 letters back and forth, Snail Mech will ask for 5k Mecha Cells to form a body.
+|-|★ > 2★s=
+After 3 letters, Snail Mech will ask for 12h of Refine Speedup to evolve faster. This rewards +10 W-Tads.
+|-|2★s > 3★s=
+After 3 letters, Snail Mech will ask for 5 [[Wormhole|Demon God Chips]] to upgrade their configuration. This rewards W-tads +10.
+|-|3★s > 4★s=
+After 4 letters, Snail Mech will ask for 10 {{RewardIconWithLink|AR2-T1|green}}.
+|-|4★s > 5★s=
+After 3 letters, Snail Mech will ask for 2 {{RewardIconWithLink|AR2-T2|blue}}. This rewards +10 W-Tads.
+|-|5★s > 6★s=
+After 3 letters, Snail Mech will ask for 24h of Refine Speedup.
+|-|6★s > 7★s=
+After 55 letters, Snail Mech will ask for 2k W-Tads to travel around the world. This rewards 10 [[Consumables#Food|Dorayaki]].
+|-|7★s > 8★s=
+After x letters, Snail Mech will ask for 1k more W-Tads.
+|-|8★s > 9★s=
+After x letters, Snail Mech will ask for 2k more W-Tads to sign up for membership discounts. This rewards +10 W-Tads.
+|-|9★s > ★=
+After x letters, Snail Mech will return with two fights.
+
+{|class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Rewards
+|-
+|Snail Mech and Besties||156,557||149,500||2,499,925||TECH 23,940||HIT +80<br>Paralysis RES +80%||<span style="color:var(--yellow-text)">Soul of Bestie</span> (2h) +3<br>Blue Coating +20
+|-
+|Snail Mech & Tech bros||173,417||165,600||3,010,609||TECH 25,260||HIT +80<br>Paralysis RES +80%||<span style="color:var(--red-text)">Soul of Rich Kid</span> (2h) +3<br>W-Tads +3k
+|}
+|-|★ > 72★s=
+After winning the two fights, Snail Mech will be reset and her Friendship will be set to max (72 Hearts). She will then move in with her minion, [[#Minion|Snail Mech]].
+</tabber>
+
+== Rent ==
+[[File:Snail Mech Rent.png|left|300px]]
+
+Snail Mech's rent is collected on '''Tuesday''', and can be found as a small rounded object on the left side of her room. 
+
+ '''Normal Rent''': {{RewardIconWithLink|AR2-T1|green}}
+
+ '''Rare Rent''': {{RewardIconWithLink|AR2-T2|blue}} {{RewardIconWithLink|AR2-T3|purple}}
+
+ '''1-time Rent''': ??
+
+{{Clear}}
+
+== Relics ==
+Upgrading these will earn Refine Speedup!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|Refine Speedup +1h
+|-
+|★★
+|Refine Speedup +1h
+|-
+|★★★
+|Refine Speedup +1h
+|-
+|★★★★
+|Refine Speedup +2h
+|-
+|★★★★★
+|Refine Speedup +3h
+|-
+|★★★★★★
+|Refine Speedup +4h
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Quantum Cat}}{{Relink|Quantum Cat}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Flyer I}}{{Relink|Flyer I}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Edison's Phonograph}}{{Relink|Edison's Phonograph}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Otto Engine}}{{Relink|Otto Engine}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Babbage Engine}}{{Relink|Babbage Engine}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Nuclear Bomb}}{{Relink|Nuclear Bomb}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Sputnik 1}}{{Relink|Sputnik 1}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Edison's Kinetoscope}}{{Relink|Edison's Kinetoscope}}
+|}
+
+== Snail Mech's Processor ==
+For a silicon-based life, the processor is their life. It is highly connected to the integrity of their consciousness and their intelligence level.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||TECH +5||Wormhole Device Refinement Time -1m
+|-
+|2||180||2k||TECH +10||Wormhole Device Refinement Time -2m
+|-
+|3||190||4.5k||TECH +15||Wormhole Device Refinement Time -3m
+|-
+|4||200||8k||TECH +20||Wormhole Device Refinement Time -4m
+|-
+|5||210||12.5k||TECH +25||Wormhole Device Refinement Time -5m
+|-
+|6||220||18k||TECH +30||Wormhole Device Refinement Time -6m
+|-
+|7||230||24.5k||TECH +35||Wormhole Device Refinement Time -7m
+|-
+|8||240||32k||TECH +40||Wormhole Device Refinement Time -8m
+|-
+|9||250||40.5k||TECH +45||Wormhole Device Refinement Time -9m
+|-
+|10||260||50k||TECH +50||Wormhole Device Refinement Time -10m
+|-
+|11||270||60.5k||TECH +55||Wormhole Device Refinement Time -11m
+|-
+|12||285||72k||TECH +60||Wormhole Device Refinement Time -12m
+|-
+|13||300||84.5k||TECH +65||Wormhole Device Refinement Time -13m
+|-
+|14||315||98k||TECH +70||Wormhole Device Refinement Time -14m
+|-
+|15||330||112k||TECH +75||Wormhole Device Refinement Time -15m
+|-
+|16||345||123k||TECH +80||Wormhole Device Refinement Time -16m
+|-
+|17||360||144k||TECH +85||Wormhole Device Refinement Time -17m
+|-
+|18||375||162k||TECH +90||Wormhole Device Refinement Time -18m
+|-
+|19||390||180k||TECH +95||Wormhole Device Refinement Time -19m
+|-
+|20||400||200k||TECH +100||Wormhole Device Refinement Time -20m
+|-
+|21||420||220k||TECH +105||Wormhole Device Refinement Time -21m
+|-
+|22||440||242k||TECH +110||Wormhole Device Refinement Time -22m
+|-
+|23||460||264k||TECH +115||Wormhole Device Refinement Time -23m
+|-
+|24||480||285k||TECH +120||Wormhole Device Refinement Time -24m
+|-
+|25||500||309k||TECH +125||Wormhole Device Refinement Time -25m
+|-
+|26||520||333k||TECH +130||Wormhole Device Refinement Time -26m
+|-
+|27||540||357k||TECH +135||Wormhole Device Refinement Time -27m
+|-
+|28||560||381k||TECH +140||Wormhole Device Refinement Time -28m
+|-
+|29||580||405k||TECH +145||Wormhole Device Refinement Time -29m
+|-
+|30||600||429k||TECH +150||Wormhole Device Refinement Time -30m
+|}
+
+==Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Snail Mech's Processor is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +10
+|-
+|2||4k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +20
+|-
+|3||6k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +30
+|-
+|4||8k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +40
+|-
+|5||10k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +50
+|-
+|6||12k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +60
+|-
+|7||14k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +70
+|-
+|8||16k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +80
+|-
+|9||18k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +90
+|-
+|10||20k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +100
+|-
+|11||22k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +110
+|-
+|12||24k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +120
+|-
+|13||26k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +130
+|-
+|14||28k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +140
+|-
+|15||30k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +150
+|-
+|16||32k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +160
+|-
+|17||34k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +170
+|-
+|18||36k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +180
+|-
+|19||38k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +190
+|-
+|20||40k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +200
+|-
+|21||42k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +210
+|-
+|22||44k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +220
+|-
+|23||46k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +230
+|-
+|24||48k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +240
+|-
+|25||50k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +250
+|-
+|26||55k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +260
+|-
+|27||60k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +270
+|-
+|28||65k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +280
+|-
+|29||70k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +290
+|-
+|30||75k||Mecha Minion MAX +1||Per 10 Snail Mechs in battle, Troop RUSH +300
+|}
+
+== Research Ability ==
+Below is a table of the research manual cost to upgrade each research gene. Snail Mech specializes in '''Mecha Gene''' and therefore the research manual cost for the Mecha is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+== Minion - Snail Mech ==
+This is an advanced mechanical life form, and its birth marks the end of the hegemony of carbon-based lifeforms. It appears to be more suitable for the future along the evolution process.
+
+===Special Ability - Self-Destruct===
+Per 10 Snail Mechs in battle, Troop Fire DMG +1 (multiplied by minion level)
+
+=== Minion Relics ===
+Upgrading these relics will buff your Snail Mechs!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Quantum Cat}}<br>{{relink|Quantum Cat}}
+|Snail Mech HP +1%
+|Snail Mech DEF +1%
+|Snail Mech ATK +1%
+|Snail Mech RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Flyer I}}<br>{{relink|Flyer I}}
+|Snail Mech HP +1%
+|Snail Mech DEF +1%
+|Snail Mech ATK +1%
+|Snail Mech RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Edison's Phonograph}}<br>{{relink|Edison's Phonograph}}
+|Snail Mech HP +2%
+|Snail Mech DEF +2%
+|Snail Mech ATK +2%
+|Snail Mech RUSH +2%
+|Snail Mech All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Otto Engine}}<br>{{relink|Otto Engine}}
+|Snail Mech HP +2%
+|Snail Mech DEF +2%
+|Snail Mech ATK +2%
+|Snail Mech RUSH +2%
+|Snail Mech All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Babbage Engine}}<br>{{relink|Babbage Engine}}
+|Snail Mech HP +4%
+|Snail Mech HP +4%
+|Snail Mech HP +4%
+|Snail Mech HP +4%
+|Snail Mech HP +4%
+|Snail Mech HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Nuclear Bomb}}<br>{{relink|Nuclear Bomb}}
+|Snail Mech DEF +4%
+|Snail Mech DEF +4%
+|Snail Mech DEF +4%
+|Snail Mech DEF +4%
+|Snail Mech DEF +4%
+|Snail Mech DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Sputnik 1}}<br>{{relink|Sputnik 1}}
+|Snail Mech ATK +4%
+|Snail Mech ATK +4%
+|Snail Mech ATK +4%
+|Snail Mech ATK +4%
+|Snail Mech ATK +4%
+|Snail Mech ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Edison's Kinetoscope}}<br>{{relink|Edison's Kinetoscope}}
+|Snail Mech RUSH +4%
+|Snail Mech RUSH +4%
+|Snail Mech RUSH +4%
+|Snail Mech RUSH +4%
+|Snail Mech RUSH +4%
+|Snail Mech RUSH +4%
+|-
+|}
+
+[[Category:Partners]]

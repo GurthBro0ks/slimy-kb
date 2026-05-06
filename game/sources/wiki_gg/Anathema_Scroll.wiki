@@ -1,0 +1,17 @@
+{{CargoRelic
+|name=Anathema Scroll
+|rank=Green
+|affct=FTH
+|source=Rent from [[Must-Not-Name]]
+|description=Curse you! Curse you! Curse you! Curse you... Just keep reciting the curse, with certain movements, it's the most basic curse anyone can use. Easy, isn't it?
+|fame=13
+|art=16
+|fth=29
+|civ=17
+|tech=15
+|ss1=Per 4 Novice Scrolls used, Snail RUSH +1<br>Novice Scrolls Used: 120/120
+|ss2=Per 4 Novice Scrolls used, Snail RUSH +2<br>Novice Scrolls Used: 120/120
+|ss3=Per 4 Novice Scrolls used, Snail RUSH +3<br>Novice Scrolls Used: 120/120
+}}
+
+[[Category: Partner Relics]]

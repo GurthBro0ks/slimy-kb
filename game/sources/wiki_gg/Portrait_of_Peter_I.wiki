@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Portrait of Peter I
+|class_id=21617
+|rank=SSS
+|affct=ART
+|birthday=04-06
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Apr 6, 1820 AD, Nikitin painted Peter I in armor.<br>Peter I was a Czar and the first emperor of Russia, and the most impactful one in Russian history. He was a great politician and a farseeing reformer. Under his leadership, Russia became one of the most powerful countries in Europe. Peter I is in armor in the painting, wearing the Order of St. Andrew the Apostle with a white scarf on the neck, coming across as a resolute, assertive, confident ruler.
+|fame=58
+|art=108
+|fth=72
+|civ=65
+|tech=59
+|ss1=Snail RUSH +30<br>Per 5 Silver Snail Tokens used, Snail ATK +6<br>Per 5 Silver Snail Tokens used, Snail RUSH +6<br>Silver Snail Tokens Used: 100/100
+|ss2=Snail RUSH +40<br>Per 5 Silver Snail Tokens used, Snail ATK +8<br>Per 5 Silver Snail Tokens used, Snail RUSH +8<br>Silver Snail Tokens Used: 100/100
+|ss3=Snail RUSH +50<br>Per 5 Silver Snail Tokens used, Snail ATK +10<br>Per 5 Silver Snail Tokens used, Snail RUSH +10<br>Silver Snail Tokens Used: 100/100
+|ss4=Snail RUSH +70<br>Per 5 Silver Snail Tokens used, Snail ATK +14<br>Per 5 Silver Snail Tokens used, Snail RUSH +14<br>Silver Snail Tokens Used: 100/100
+|ss5=Snail RUSH +90<br>Per 5 Silver Snail Tokens used, Snail ATK +18<br>Per 5 Silver Snail Tokens used, Snail RUSH +18<br>Silver Snail Tokens Used: 100/100
+|ss6=Snail RUSH +120<br>Per 5 Silver Snail Tokens used, Snail ATK +24<br>Per 5 Silver Snail Tokens used, Snail RUSH +24<br>Silver Snail Tokens Used: 100/100
+|ss7=Snail RUSH +120<br>Per 5 Silver Snail Tokens used, Snail ATK +24<br>Per 5 Silver Snail Tokens used, Snail RUSH +24<br>Silver Snail Tokens Used: 100/100<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, Demon Cells gained +30%
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail HP +6000
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x Orange Reagent Drops +15%
+|mirage={{Mirage|name=Glory of Czar|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Ivan IV|3rec=81.38M|3atk=237422|3defense=158393|3hp=14303547|3weak=31145
+|4name=Catherine II|4rec=108.19M|4atk=293959|4defense=196111|4hp=20725597|4weak=35889
+|5name=Alexander I of Russia|5rec=139.57M|5atk=360146|5defense=240267|5hp=28878811|5weak=40954
+|6name=Nicholas I|6rec=175.66M|6atk=436245|6defense=291036|6hp=39913236|6weak=47909
+|Arec=217.16M|Aatk=523755|Adefense=349418|Ahp=53998660|Aweak=53037
+}}}}

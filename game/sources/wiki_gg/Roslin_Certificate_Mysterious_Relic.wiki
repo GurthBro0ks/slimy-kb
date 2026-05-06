@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Roslin Certificate,Mysterious Relic
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Growth Chamber Files perfectly restored, Snail ATK +21; Files perfectly restored: 100/100
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]

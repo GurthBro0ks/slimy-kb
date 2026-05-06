@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Top Idea Award
+|class_id=22357
+|rank=SSS
+|affct=TECH
+|birthday=10-27
+|source=
+|description=On Oct 27, 2010 AD, the first Top Idea Award ceremony was held in Shenzhen, China.<br>The Top Idea Award is established to discover and recognize designers and organizations that demonstrate outstanding innovation in urban design, spatial design, artistic expression, and cultural characteristics. Its global platform for spatial design ideas and sustainable living concepts has gained widespread recognition from the international community.
+|fame=65
+|art=54
+|fth=73
+|civ=64
+|tech=106
+|ss1=Home Decor Inc, Series C Decor Coin Dividend +6%<br>Mecha Minion HP +3%<br>Master Scrolls drop +1 Orange Reagent by +1.2%
+|ss2=Home Decor Inc, Series C Decor Coin Dividend +7%<br>Mecha Minion HP +4%<br>Master Scrolls drop +1 Orange Reagent by +1.6%
+|ss3=Home Decor Inc, Series C Decor Coin Dividend +8%<br>Mecha Minion HP +5%<br>Master Scrolls drop +1 Orange Reagent by +2%
+|ss4=Home Decor Inc, Series C Decor Coin Dividend +10%<br>Mecha Minion HP +7%<br>Master Scrolls drop +1 Orange Reagent by +2.8%
+|ss5=Home Decor Inc, Series C Decor Coin Dividend +12%<br>Mecha Minion HP +9%<br>Master Scrolls drop +1 Orange Reagent by +3.6%
+|ss6=Home Decor Inc, Series C Decor Coin Dividend +15%<br>Mecha Minion HP +12%<br>Master Scrolls drop +1 Orange Reagent by +4.8%
+|ss7=Home Decor Inc, Series C Decor Coin Dividend +15%<br>Mecha Minion HP +12%<br>Master Scrolls drop +1 Orange Reagent by +4.8%<br>Master Scrolls drop +1 Orange Reagent by +4% (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Earth DMG +300
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Wind DMG +300
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's TECH +15
+|mirage={{Mirage|name=Wisdom Is a Language|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Mark Hern|3rec=86.59M|3atk=248397|3defense=165716|3hp=15317702|3weak=32102
+|4name=Michelmo|4rec=117.00M|4atk=312538|4defense=208506|4hp=22870882|4weak=37020
+|5name=Benedetta|5rec=152.40M|5atk=387197|5defense=258314|5hp=32630661|5weak=42406
+|6name=Fuksas|6rec=193.56M|6atk=473998|6defense=316223|6hp=45978046|6weak=49075
+|Arec=245.00M|Aatk=574061|Adefense=382979|Ahp=62637907|Aweak=55564
+}}}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Salamander Specimen
+|class_id=20573
+|rank=Green
+|affct=CIV
+|source=
+|description=A salamander specimen quietly curled in a transparent container, about twenty centimeters long, with treated skin still glossy, deep brown back with irregular dark green spots, the salamander's head is flat and triangular, eyes slightly protruding, the entire specimen fixed on a delicate base, surrounded by transparent resin, as if freezing its moment in water, lifelike.
+|fame=14
+|art=13
+|fth=17
+|civ=32
+|tech=14
+|ss1=prop@62552_2<br>prop@62553_2
+|ss2=prop@62552_2<br>prop@62553_2
+|ss3=prop@62552_2<br>prop@62553_2
+|ss4=prop@62552_2<br>prop@62553_2
+|ss7=prop@62552_2<br>prop@62553_2<br> (Awakened)
+}}

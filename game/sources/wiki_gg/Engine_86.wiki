@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Engine 86
+|class_id=20317
+|rank=Green
+|affct=TECH
+|source=
+|description=This is the engine installed in the fifth-generation Toyato Corolla. It features turbocharging technology with 200-horsepower output. Complemented by rear-wheel drive and excellent gas mileage, this car is very suitable for long-distance rally racing.
+|fame=14
+|art=16
+|fth=16
+|civ=13
+|tech=31
+|ss1=Per 5 Mecha Gene LVLs, Snail RUSH +1<br>Mecha Gene LVLs Researched: 150/150
+|ss2=Per 5 Mecha Gene LVLs, Snail RUSH +2<br>Mecha Gene LVLs Researched: 150/150
+|ss3=Per 5 Mecha Gene LVLs, Snail RUSH +3<br>Mecha Gene LVLs Researched: 150/150
+|ss4=Per 5 Mecha Gene LVLs, Snail RUSH +3<br>Mecha Gene LVLs Researched: 150/150
+|ss7=Per 5 Mecha Gene LVLs, Snail RUSH +3<br>Mecha Gene LVLs Researched: 150/150<br> (Awakened)
+}}

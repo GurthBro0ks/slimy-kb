@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=618
+|relics=Luna 1,Barrage Balloon
+|rank=blue
+|amount=2
+|category=self
+|description=Domain Cabin, deployable robots +5
+}}

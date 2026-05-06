@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=White Crystal Ball
+|class_id=20252
+|rank=Green
+|affct=FAITH
+|source=
+|description=White Crystal Ball is a magic weapon created with several gems and a unique ice technology of the Surf Clams. On top of the flawless appearance, the sphere is always enveloped in faint mist due to extremely low internal temperature, as if it was artwork from a fairyland. The excellent compatibility with the ice element makes it an excellent artifact and a priceless item.
+|fame=16
+|art=16
+|fth=31
+|civ=13
+|tech=14
+|ss1=Against Surf Clams, Troop Casualty -1%
+|ss2=Against Surf Clams, Troop Casualty -2%
+|ss3=Against Surf Clams, Troop Casualty -3%
+|ss4=Against Surf Clams, Troop Casualty -3%
+|ss7=Against Surf Clams, Troop Casualty -3%<br> (Awakened)
+}}

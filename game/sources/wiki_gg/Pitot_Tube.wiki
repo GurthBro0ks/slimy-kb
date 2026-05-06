@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Pitot Tube
+|class_id=22497
+|rank=Blue
+|affct=TECH
+|birthday=07-31
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jul 31, 1716 AD, French engineer Henri Pitot invented the first airspeed tube.<br>A pitot tube is a device used to measure the total pressure of airflow, also known as an airspeed tube. By measuring the pressure through the Pitot tube and using Bernoulli's principle, the speed of the airflow can be calculated. Therefore, it is an essential measuring tool on airplanes and must be installed in an area with less airflow disturbance by the aircraft, typically at the very front of the aircraft.
+|fame=30
+|art=18
+|fth=33
+|civ=27
+|tech=46
+|ss1=All Tribal Protolith output +2%
+|ss2=All Tribal Protolith output +4%
+|ss3=All Tribal Protolith output +6%
+|ss4=All Tribal Protolith output +10%
+|ss7=All Tribal Protolith output +10%<br>All Tribal Protolith output +10% (Awakened)
+|skill1=[[File:Frostsanctum skill I.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +5%
+}}

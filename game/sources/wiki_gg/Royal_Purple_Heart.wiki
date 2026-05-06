@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Royal Purple Heart
+|class_id=22514
+|rank=AAA
+|affct=FAME
+|birthday=10-24
+|source=Lottery Machine No.3 (0.06%)
+|description=On Oct 24, 1836 AD, the rough stone of the Royal Purple Heart was mined in Russia.<br>The Royal Purple Heart is currently the largest known fancy-cut purple diamond in the world. As one of the rarest diamond varieties in the world, most purple diamonds weigh less than five carats, while the Royal Purple Heart weighs over seven carats and has a perfect heart shape, making its value self-evident.
+|fame=73
+|art=38
+|fth=38
+|civ=47
+|tech=47
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop DEF +12<br>Per 5 Star+ Protomon, Snail ATK +6<br>5 Star+ Protomon: 20/20
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop DEF +16<br>Per 5 Star+ Protomon, Snail ATK +8<br>5 Star+ Protomon: 20/20
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop DEF +20<br>Per 5 Star+ Protomon, Snail ATK +10<br>5 Star+ Protomon: 20/20
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop DEF +28<br>Per 5 Star+ Protomon, Snail ATK +14<br>5 Star+ Protomon: 20/20
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop DEF +36<br>Per 5 Star+ Protomon, Snail ATK +18<br>5 Star+ Protomon: 20/20
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop DEF +36<br>Per 5 Star+ Protomon, Snail ATK +18<br>5 Star+ Protomon: 20/20<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +28 (Awakened)
+|skill1=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, All Minion RUSH +4.5%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FAME +10
+}}

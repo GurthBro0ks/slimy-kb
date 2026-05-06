@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Instant Noodle Recipe
+|class_id=22004
+|rank=Blue
+|affct=FAME
+|birthday=02-12
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Feb 12, 1958 AD, Momofuku Ando built a laboratory in his backyard during his research on instant noodles.<br>Momofuku Ando, inventor of instant noodles. Japan suffered from a food shortage after the Great War. Ando noticed that people would queue for ramen in the wind, meanwhile, the Japanese government was promoting flour from the U.S., so he came up with the idea of inventing a new kind of noodle. He didn't have any experience in the food industry, but after countless failed attempts, inspired by the making of tempura, he invented the oil-drying method and successfully made the world's first bag of instant noodles.
+|fame=44
+|art=26
+|fth=20
+|civ=29
+|tech=35
+|ss1=Snail HP +100
+|ss2=Snail HP +200
+|ss3=Snail HP +300
+|ss4=Snail HP +500
+|ss7=Snail HP +500<br>Snail HP +500 (Awakened)
+|skill1=[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, All Minion HP +1.5%
+}}

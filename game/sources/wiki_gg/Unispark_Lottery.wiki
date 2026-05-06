@@ -1,0 +1,1 @@
+Once a day, after making a purchase or claiming a batch purchase you are able to participate in the Unispark Lottery.  When activated you will recieve one of the 17 available prizes.  Once a prize has been collected it will be ineligible until all other prizes have been collected and the board is reset.

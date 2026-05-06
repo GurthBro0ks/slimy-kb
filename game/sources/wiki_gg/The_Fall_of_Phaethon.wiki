@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=The Fall of Phaethon
+|class_id=22040
+|rank=Blue
+|affct=ART
+|birthday=01-22
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jan 22, 1604 AD, Rubens was inspired by Greek mythology and created The Fall of Phaeton.<br>The Fall of Phaethon is an oil painting on canvas by Billie's painter Rubens, which depicts the scene of the fall of Phaethon, the son of the sun god. Legend has it that Phaethon cried to his father Apollo, wanting to get the proof that he was the son of the sun god. After obtaining his father's promise to realize his wish, he asked to drive the sun carriage alone to venture out. But in the end, the horses unexpectedly lost control, turning the world into a sea of flames, and he was struck by Zeus's lightning and fell and died. There are many magnificent characters drawn in this painting, and it is considered a masterpiece of Rubens.
+|fame=18
+|art=47
+|fth=36
+|civ=30
+|tech=23
+|ss1=In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +8%
+|ss2=In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +16%
+|ss3=In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +24%
+|ss4=In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +40%
+|ss7=In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +40%<br>In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +40% (Awakened)
+|skill1=[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, All Minion ATK +1.5%
+}}

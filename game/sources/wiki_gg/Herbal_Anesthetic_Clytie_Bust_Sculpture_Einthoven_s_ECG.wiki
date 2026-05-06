@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=350
+|relics=Herbal Anesthetic,Clytie Bust Sculpture,Einthoven's ECG
+|rank=blue
+|amount=3
+|category=self
+|description=Per 50 Minions cloned, Snail ATK +6;Minions Cloned: 2000/2000
+}}

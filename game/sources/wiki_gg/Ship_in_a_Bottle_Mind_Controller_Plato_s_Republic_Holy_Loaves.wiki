@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Ship in a Bottle,Mind Controller,Plato's Republic,Holy Loaves
+|rank=orange
+|amount=4
+|category=self
+|description=Per Altar God Descent, Snail HP +180<br>Gods Descended: 30/30
+}}
+[[Category:Self]]

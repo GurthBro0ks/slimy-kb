@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Photon Rocket Engine
+|class_id=22751
+|rank=SSS
+|affct=TECH
+|birthday=03-10
+|source=
+|description=On Mar 10, 1953 AD, Austrian physicist Sanger proposed the theory of photon rockets.<br>Photon rocket engines are unconventional propulsion technology used for interstellar travel. The principle of operation is to obtain a large amount of photon flow by annihilating matter and antimatter, and then direct it to generate reactive thrust, approaching or reaching the speed of light, theoretically having the highest efficiency and specific impulse. The construction of a physical photon rocket is still in the exploratory stage.
+|fame=69
+|art=49
+|fth=79
+|civ=57
+|tech=108
+|ss1=Mecha Minion RUSH +3%<br>All Minion Skins, HARD Stats +3%<br>Per 7 Mecha Gene LVLs, Snail ATK +6<br>Mecha Gene LVLs Researched: 210/210
+|ss2=Mecha Minion RUSH +4%<br>All Minion Skins, HARD Stats +6%<br>Per 7 Mecha Gene LVLs, Snail ATK +8<br>Mecha Gene LVLs Researched: 210/210
+|ss3=Mecha Minion RUSH +5%<br>All Minion Skins, HARD Stats +9%<br>Per 7 Mecha Gene LVLs, Snail ATK +10<br>Mecha Gene LVLs Researched: 210/210
+|ss4=Mecha Minion RUSH +7%<br>All Minion Skins, HARD Stats +15%<br>Per 7 Mecha Gene LVLs, Snail ATK +14<br>Mecha Gene LVLs Researched: 210/210
+|ss5=Mecha Minion RUSH +9%<br>All Minion Skins, HARD Stats +21%<br>Per 7 Mecha Gene LVLs, Snail ATK +18<br>Mecha Gene LVLs Researched: 210/210
+|ss6=Mecha Minion RUSH +12%<br>All Minion Skins, HARD Stats +30%<br>Per 7 Mecha Gene LVLs, Snail ATK +24<br>Mecha Gene LVLs Researched: 210/210
+|ss7=Mecha Minion RUSH +12%<br>All Minion Skins, HARD Stats +30%<br>Per 7 Mecha Gene LVLs, Snail ATK +24<br>Mecha Gene LVLs Researched: 210/210<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion DEF +9%
+|skill2=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop CRIT +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's TECH +15
+|mirage={{Mirage|name=Super Engine|reward={{RewardIconWithLink|Analysis Chip, +80|orange}}
+|3name=Chemical Rocket Engine|3rec=167.41M|3atk=463371|3defense=279424|3hp=79294019|3weak=53143
+|4name=Electric Rocket Engine|4rec=205.44M|4atk=543865|4defense=332929|4hp=118942934|4weak=58301
+|5name=Solar Rocket Engine|5rec=275.18M|5atk=660277|5defense=410128|5hp=204081097|5weak=64058
+|6name=Nuclear Rocket Engine|6rec=394.40M|6atk=823612|6defense=517390|6hp=348573469|6weak=70060
+|Arec=549.03M|Aatk=1037502|Adefense=656499|Ahp=558920226|Aweak=75998
+}}}}

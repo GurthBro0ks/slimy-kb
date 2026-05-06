@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Sleeping Gypsy
+|rank=Blue
+|affct=ART
+|birthday=08-21
+|source=* Lottery Machine (0.03%), Wishing (1.2%)
+* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})
+* [[Kim Chi-yum]] - [[Rare Rent]]
+|description=On Aug 21, 1997, Henri Rousseau created this exotic piece.
+
+In this painting, a dark-skinned gypsy in a colorful costume was sleeping under the moonlight. She remained sleeping even when a dangerous lion approached. The painting is tranquil and poetic. This painting features sharp contours, bright colors, and beautiful lines. the color tones and composition have been carefully designed to create a harmonious and beautiful piece. Viewers can easily get immersed into the story, like they are walking under the moonlight. [basic info] Specs: 129.5x200.7cm Collected by Museum of Modern Art
+|fame=29
+|art=45
+|fth=26
+|civ=33
+|tech=21
+|ss1=Free Gene Speedup (Mutant) +6m
+|ss2=Free Gene Speedup (Mutant) +12m
+|ss3=Free Gene Speedup (Mutant) +18m
+|ss4=Free Gene Speedup (Mutant) +30m
+|ss7=Free Gene Speedup (Mutant) +30m<br>Free Gene Speedup (Mutant) +30m (Awakened)
+|skill1=[[File:Tadpolepond skill I.png|50px]]Place in Tadpole Pond: Max Cap +5%
+}}
+
+[[Category:Mutant Gene Speedup Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Lottery Bead Color Change]]
+[[Category:Indigent Nobleman Relics]]

@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Mind Detector
+|class_id=21376
+|rank=AAA
+|affct=TECH
+|source=
+|description=This military detector has radar capabilities, able to predict the intentions and movements of enemy units, revealing the targets the enemy is about to attack. As long as the enemy's destination or attack target is within a certain range around the detector, it can sense and display the target point and unit location. Even spies or phantoms cannot hide within its range!
+|fame=46
+|art=34
+|fth=47
+|civ=41
+|tech=75
+|ss1=Snail ATK +10<br>Snail DEF +10
+|ss2=Snail ATK +20<br>Snail DEF +20
+|ss3=Snail ATK +30<br>Snail DEF +30
+|ss4=Snail ATK +50<br>Snail DEF +50
+|ss5=Snail ATK +70<br>Snail DEF +70
+|ss7=Snail ATK +70<br>Snail DEF +70<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Skill skill II.png|50px]]??? (Coming soon)
+|skill2=[[File:Skill skill II.png|50px]]??? (Coming soon)
+}}

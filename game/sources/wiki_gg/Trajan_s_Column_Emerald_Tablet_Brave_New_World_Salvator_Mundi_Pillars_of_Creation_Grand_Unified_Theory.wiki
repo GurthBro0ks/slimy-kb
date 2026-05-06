@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Trajan's Column,Emerald Tablet,Brave New World,Salvator Mundi,Pillars of Creation,Grand Unified Theory
+|rank=orange
+|amount=6
+|category=other
+|description=Wormhole Refinement SPD +7.2%
+}}
+
+[[Category:Wormhole Refinement SPD Boost]]

@@ -1,0 +1,34 @@
+==Shells==
+[[File:Snail Shell.png|80px|left]]
+
+The Snail Shell is initially an item with little value or purpose; however, as the game progressed you can unlock new shells that give elemental boosts and various buffs. Shells are primarily unlocked through the [[Treasure Collection|Memetic Catalyst]] by obtaining all of a set of [[Relics]]. Also  known as bionic parts, they are equippable and provide buffs regardless if equipped, i.e. once unlocked, all bonuses are active.
+
+'''Important notes:'''
+
+* Stats may vary slightly from what is listed if you have the [[Nebula#Sagitta|Nebula upgrade in Alpha Galaxy, Sagitta]] (lv. 0: Bionic Part Stat bonus +3%)
+
+* Which Shell is equipped is purely cosmetic, as The Snail gains all stats of all Shells they own.
+
+* Shell Upgrading is unlocked with a [[Altar#Repeatable_wishes|Dragon Wish: "I need shell service!"]].
+
+==Available Shells==
+Here is a list of all known shells. Each Shell raises the RES to Earth, Water, Fire, and Wind by a certain amount and also boosts an AFFCT, a HARD Stat, an ELMT DMG done in a certain [[Evolution|Form]], and a HARD Stat done in a certain [[Realms|Realm]].
+
+For example, Abyss Ash, when fully upgraded, boosts ART, RUSH, Earth DMG in Demon Form, and HP in Yamato. At green, only the AFFCT boost is available. At blue, only the AFFCT and HARD Stat boosts are available. At purple, everything is available other than the [[Realms|Realm]] boost, and at orange all boosts are available. Below lists the boosts each shell gives at the maximum level. See each individual page for more information.
+
+{|class="wikitable" style="text-align:center"
+!colspan="3"|Shell
+!rowspan="2"|Origin
+!colspan="4"|Boosts
+|-
+!Image!!Name!!AFFCT
+!AFFCT!!HARD!!ELMT<br>in Form!!HARD<br>in [[Realms|Realm]]
+{{#cargo_query:table=Shells
+|fields=name, color, affct, source, hard, element, orangehard, form, realm
+|order by=name
+|format=template
+|template=ShellTableRow
+|named args=yes}}
+|}
+
+[[Category:Shells]]

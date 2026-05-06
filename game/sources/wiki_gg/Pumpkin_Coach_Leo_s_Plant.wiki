@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Pumpkin Coach,Leo's Plant
+|rank=blue
+|amount=2
+|category=dna
+|description=Mutant Gene Research SPD +3%
+}}
+[[Category:DNA]]

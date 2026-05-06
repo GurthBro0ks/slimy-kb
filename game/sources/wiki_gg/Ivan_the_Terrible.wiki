@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Ivan the Terrible
+|class_id=22647
+|rank=SSS
+|affct=ART
+|birthday=03-17
+|source=Lottery Machine No.3 (0.12%)
+|description=On Mar 17, 1882 AD, Leiben drew inspiration from Kozakov's symphony and began working on the creation of "Ivan the Terrible and His Son Ivan."<br>"Ivan the Terrible and His Son Ivan" is a powerful oil painting on canvas. It depicts a somber and oppressive atmosphere, with the dying crown prince leaning weakly against his father's chest. Ivan the Terrible holds his son in terror, one hand supporting Ivan's body and the other pressing firmly against the bleeding wound. The prince's lifeless form lies on the carpet, casting desperate and forgiving eyes towards his aging father, who is consumed by remorse. The intense contrast between their gazes lends the painting a haunting artistic allure.
+|fame=46
+|art=108
+|fth=78
+|civ=70
+|tech=60
+|ss1=When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +6%<br>Per 5 Mythic Protodex Stars, Snail ATK +9<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +72<br>Mythic Protodex Stars: 100/100
+|ss2=When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +8%<br>Per 5 Mythic Protodex Stars, Snail ATK +12<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +96<br>Mythic Protodex Stars: 100/100
+|ss3=When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +10%<br>Per 5 Mythic Protodex Stars, Snail ATK +15<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +120<br>Mythic Protodex Stars: 100/100
+|ss4=When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +14%<br>Per 5 Mythic Protodex Stars, Snail ATK +21<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +168<br>Mythic Protodex Stars: 100/100
+|ss5=When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +18%<br>Per 5 Mythic Protodex Stars, Snail ATK +27<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +216<br>Mythic Protodex Stars: 100/100
+|ss6=When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +24%<br>Per 5 Mythic Protodex Stars, Snail ATK +36<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +288<br>Mythic Protodex Stars: 100/100
+|ss7=When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +24%<br>Per 5 Mythic Protodex Stars, Snail ATK +36<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +288<br>Mythic Protodex Stars: 100/100<br>When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +20% (Awakened)
+|skill1=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion DEF +9%
+|skill2=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Wind DMG +60
+|skill3=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion RUSH +9%
+|mirage={{Mirage|name=Mourning of Ivan the Terrible|reward={{RewardIconWithLink|Blasphemy Eye, +1|orange}}
+|3name=Yelena|3rec=120.19M|3atk=338336|3defense=212997|3hp=18119434|3weak=36383
+|4name=Glinskis|4rec=170.01M|4atk=456456|4defense=283087|4hp=30508057|4weak=40496
+|5name=Ivan the Grand Prince|5rec=260.31M|5atk=658454|5defense=396758|5hp=66678713|5weak=50368
+|6name=Ivan the Thunder Emperor|6rec=366.39M|6atk=831942|6defense=492190|6hp=96865956|6weak=53893
+|Arec=505.90M|Aatk=1071297|Adefense=617696|Ahp=180907866|Aweak=60392
+}}}}

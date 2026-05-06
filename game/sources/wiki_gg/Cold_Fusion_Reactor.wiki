@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Cold Fusion Reactor
+|class_id=20372
+|rank=Green
+|affct=TECH
+|source=
+|description=A device developed through reverse-engineering with data from tactical records. It gains almost unlimited energy from the cold fusion reaction within. However, given that the energy from a single output is limited, it is often used on the power armor for individuals.
+|fame=12
+|art=16
+|fth=17
+|civ=14
+|tech=31
+|ss1=Per 10 Unknown Records read, Snail HP +10<br>Per 10 Unknown Records read, Snail ATK +1<br>Unknown Records Read: 400/400
+|ss2=Per 10 Unknown Records read, Snail HP +20<br>Per 10 Unknown Records read, Snail ATK +2<br>Unknown Records Read: 400/400
+|ss3=Per 10 Unknown Records read, Snail HP +30<br>Per 10 Unknown Records read, Snail ATK +3<br>Unknown Records Read: 400/400
+|ss4=Per 10 Unknown Records read, Snail HP +30<br>Per 10 Unknown Records read, Snail ATK +3<br>Unknown Records Read: 400/400
+|ss7=Per 10 Unknown Records read, Snail HP +30<br>Per 10 Unknown Records read, Snail ATK +3<br>Unknown Records Read: 400/400<br> (Awakened)
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Love-ya Pack
+|class_id=20057
+|rank=Green
+|affct=FAME
+|source=
+|description=Love-ya Pack is a package customized by the Ai Xiaoya Foundation for disadvantaged girls, containing clothing, accessories, and educational materials on menstrual health and hygiene. It provides direct and effective help for girls in need!
+|fame=29
+|art=16
+|fth=15
+|civ=18
+|tech=12
+|ss1=Snail ATK +20<br>Per 50 Minions healed, Snail HP +5<br>Minions healed: 2000/2000
+|ss2=Snail ATK +40<br>Per 50 Minions healed, Snail HP +10<br>Minions healed: 2000/2000
+|ss3=Snail ATK +60<br>Per 50 Minions healed, Snail HP +15<br>Minions healed: 2000/2000
+|ss4=Snail ATK +60<br>Per 50 Minions healed, Snail HP +15<br>Minions healed: 2000/2000
+|ss7=Snail ATK +60<br>Per 50 Minions healed, Snail HP +15<br>Minions healed: 2000/2000<br> (Awakened)
+}}

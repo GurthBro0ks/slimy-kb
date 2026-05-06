@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=845
+|relics=Santa María,Philosophie Zoologique
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 T7+ Minions in battle: Troop DEF +70
+}}

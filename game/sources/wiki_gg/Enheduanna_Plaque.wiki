@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Enheduanna Plaque
+|class_id=22575
+|rank=AAA
+|affct=CIV
+|birthday=12-12
+|source=Lottery Machine No.3 (0.06%)
+|description=On Dec 12, 2000 BC, Akkadian craftsmen engraved Enheduanna's poems on a scroll.<br>Enheduanna was the daughter of Sargon, the first emperor of Akkad, and the first named poet and writer in human history. She composed numerous religious poems, providing inspiration for mythological narrative art and the depiction of deities in cuneiform inscriptions. The scroll depicting the stories of myths and epic tales also began to spread from this time...
+|fame=48
+|art=45
+|fth=47
+|civ=71
+|tech=32
+|ss1=Per Tribal Chief defeated, Snail HP +30<br>Per Tribal Chief defeated, Priest-Troop Assistance DMG +24<br>Tribal Chiefs Defeated: 50/50
+|ss2=Per Tribal Chief defeated, Snail HP +40<br>Per Tribal Chief defeated, Priest-Troop Assistance DMG +32<br>Tribal Chiefs Defeated: 50/50
+|ss3=Per Tribal Chief defeated, Snail HP +50<br>Per Tribal Chief defeated, Priest-Troop Assistance DMG +40<br>Tribal Chiefs Defeated: 50/50
+|ss4=Per Tribal Chief defeated, Snail HP +70<br>Per Tribal Chief defeated, Priest-Troop Assistance DMG +56<br>Tribal Chiefs Defeated: 50/50
+|ss5=Per Tribal Chief defeated, Snail HP +90<br>Per Tribal Chief defeated, Priest-Troop Assistance DMG +72<br>Tribal Chiefs Defeated: 50/50
+|ss7=Per Tribal Chief defeated, Snail HP +90<br>Per Tribal Chief defeated, Priest-Troop Assistance DMG +72<br>Tribal Chiefs Defeated: 50/50<br>Snail HP +700 (Awakened)
+|skill1=[[File:Mantis skill II.png|50px]]Place in Mantis Biozilla: In Species War, Troop Earth DMG +30
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's CIV +10
+}}

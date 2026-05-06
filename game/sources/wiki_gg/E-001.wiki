@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=E-001
+|class_id=20999
+|rank=Green
+|affct=FAME
+|source=
+|description=collection@20999_1
+|fame=55
+|art=5
+|fth=5
+|civ=5
+|tech=5
+|ss1=Per 5 Sign-Ins, Snail HP +10<br>Sign-Ins: 365/365
+|ss2=Per 5 Sign-Ins, Snail HP +15<br>Sign-Ins: 365/365
+|ss3=Per 5 Sign-Ins, Snail HP +20<br>Sign-Ins: 365/365
+|ss4=Per 5 Sign-Ins, Snail HP +20<br>Sign-Ins: 365/365
+|ss7=Per 5 Sign-Ins, Snail HP +20<br>Sign-Ins: 365/365<br> (Awakened)
+}}

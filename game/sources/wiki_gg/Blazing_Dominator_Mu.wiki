@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Blazing Dominator Mu
+|rank=red
+|cabin=1
+|id=1003
+|gene1={race} HARD +50
+|gene2={race} AFFCT +50
+|gene3=Resolver: W-tads extracted +15
+|gene4=Per 60 Minions in battle:
+> Troop Wind DMG +6
+|gene5=Lifesteal Rate +0.9%
+|gene6=Per 60 Minions in battle:
+> Troop Wind DMG +10
+|gene7=Lifesteal Rate +1.5%
+|}}

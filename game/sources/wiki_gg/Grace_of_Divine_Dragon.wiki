@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Grace of Divine Dragon
+|class_id=22825
+|rank=SSS
+|affct=ART
+|source=
+|description=In the distant past, there was an evil dragon that was banished for defying the Ultimate Divine Dragon and later sneaked into the human world to cause trouble. To subdue it, the Ultimate Divine Dragon selected a trio led by a brave hero from among the humans, and ultimately, with their help, reclaimed the traitorous dragon's head. To honor their achievements and commemorate the friendship between humans and dragons, the Ultimate Divine Dragon created this trophy as a reward and bestowed it upon them!
+|fame=49
+|art=108
+|fth=70
+|civ=73
+|tech=62
+|ss1=Snail Leadership +3<br>Per 7 Dragon Gene LVLs, Snail HP +90<br>Per 7 Dragon Gene LVLs, Snail DEF +9<br>Dragon Gene LVLs Researched: 210/210
+|ss2=Snail Leadership +4<br>Per 7 Dragon Gene LVLs, Snail HP +120<br>Per 7 Dragon Gene LVLs, Snail DEF +12<br>Dragon Gene LVLs Researched: 210/210
+|ss3=Snail Leadership +5<br>Per 7 Dragon Gene LVLs, Snail HP +150<br>Per 7 Dragon Gene LVLs, Snail DEF +15<br>Dragon Gene LVLs Researched: 210/210
+|ss4=Snail Leadership +7<br>Per 7 Dragon Gene LVLs, Snail HP +210<br>Per 7 Dragon Gene LVLs, Snail DEF +21<br>Dragon Gene LVLs Researched: 210/210
+|ss5=Snail Leadership +9<br>Per 7 Dragon Gene LVLs, Snail HP +270<br>Per 7 Dragon Gene LVLs, Snail DEF +27<br>Dragon Gene LVLs Researched: 210/210
+|ss6=Snail Leadership +12<br>Per 7 Dragon Gene LVLs, Snail HP +360<br>Per 7 Dragon Gene LVLs, Snail DEF +36<br>Dragon Gene LVLs Researched: 210/210
+|ss7=Snail Leadership +12<br>Per 7 Dragon Gene LVLs, Snail HP +360<br>Per 7 Dragon Gene LVLs, Snail DEF +36<br>Dragon Gene LVLs Researched: 210/210<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Water DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ART +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, DMG +30%
+|mirage={{Mirage|name=dungeon@22825_1|reward={{RewardIconWithLink|Eye of Horus, +1|orange}}
+|3name=Monk|3rec=702.59M|3atk=1584452|3defense=803031|3hp=736730289|3weak=85725
+|4name=Magician|4rec=814.02M|4atk=1915673|4defense=922549|4hp=963388855|4weak=90736
+|5name=Hero|5rec=980.14M|5atk=2468712|5defense=1100712|5hp=1384714724|5weak=96578
+|6name=Evil Dragon|6rec=1224.94M|6atk=3111239|6defense=1332648|6hp=1933294570|6weak=104155
+|Arec=1525.11M|Aatk=3965629|Adefense=1622313|Ahp=2579514078|Aweak=111000
+}}}}

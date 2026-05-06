@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Rods from God
+|class_id=22741
+|rank=SSS
+|affct=TECH
+|birthday=05-05
+|source=Lottery Machine No.3 (0.12%)
+|description=On May 5, 2032 AD, the Murika Space Force completed the deployment of the "Rods from God" system.<br>The "Rods from God" is a kinetic energy weapon system consisting of two satellite platforms in low orbit. One of the satellites carries a tungsten and titanium metal rod, which is launched from space under the guidance of the satellite, and uses rocket propulsion and free fall kinetic energy to strike the target with devastating impact. Although the metal rod does not contain any explosive materials, its destructive power from kinetic impact is comparable to that of a nuclear weapon.
+|fame=64
+|art=55
+|fth=75
+|civ=61
+|tech=107
+|ss1=Catalyzed Blue Spores turn to Purple by +0.3%<br>Per Tribal Chief defeated, Snail ATK +3<br>Per Tribal Chief defeated, Priest-Troop Assistance DMG +24<br>Tribal Chiefs Defeated: 50/50
+|ss2=Catalyzed Blue Spores turn to Purple by +0.4%<br>Per Tribal Chief defeated, Snail ATK +4<br>Per Tribal Chief defeated, Priest-Troop Assistance DMG +32<br>Tribal Chiefs Defeated: 50/50
+|ss3=Catalyzed Blue Spores turn to Purple by +0.5%<br>Per Tribal Chief defeated, Snail ATK +5<br>Per Tribal Chief defeated, Priest-Troop Assistance DMG +40<br>Tribal Chiefs Defeated: 50/50
+|ss4=Catalyzed Blue Spores turn to Purple by +0.7%<br>Per Tribal Chief defeated, Snail ATK +7<br>Per Tribal Chief defeated, Priest-Troop Assistance DMG +56<br>Tribal Chiefs Defeated: 50/50
+|ss5=Catalyzed Blue Spores turn to Purple by +0.9%<br>Per Tribal Chief defeated, Snail ATK +9<br>Per Tribal Chief defeated, Priest-Troop Assistance DMG +72<br>Tribal Chiefs Defeated: 50/50
+|ss6=Catalyzed Blue Spores turn to Purple by +1.2%<br>Per Tribal Chief defeated, Snail ATK +12<br>Per Tribal Chief defeated, Priest-Troop Assistance DMG +96<br>Tribal Chiefs Defeated: 50/50
+|ss7=Catalyzed Blue Spores turn to Purple by +1.2%<br>Per Tribal Chief defeated, Snail ATK +12<br>Per Tribal Chief defeated, Priest-Troop Assistance DMG +96<br>Tribal Chiefs Defeated: 50/50<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion DEF +9%
+|skill2=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop DMG REDUC +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's TECH +15
+|mirage={{Mirage|name=Heavenly Punishment|reward={{RewardIconWithLink|Gear RF, +15|orange}}
+|3name=Hammers from God|3rec=91.57M|3atk=272504|3defense=172722|3hp=13511697|3weak=33880
+|4name=Spears from God|4rec=119.71M|4atk=337096|4defense=212317|4hp=18025990|4weak=36321
+|5name=Axes from God|5rec=155.62M|5atk=423138|5defense=262847|5hp=26727281|5weak=39406
+|6name=Lances from God|6rec=207.44M|6atk=547081|6defense=335747|6hp=42133798|6weak=44619
+|Arec=297.93M|Aatk=719962|Adefense=430600|Ahp=76339170|Aweak=51627
+}}}}

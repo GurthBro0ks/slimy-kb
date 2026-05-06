@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Murders in Rue Morgue
+|class_id=22005
+|rank=Blue
+|affct=FAME
+|birthday=05-15
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On May 15, 1841 AD, the novel was published in Graham's Magazine.<br>A medium-length detective novel written by the American writer Allan Poe. It is recognized as the first modern detective story in the world. The story is about a murder case in a room on Rue Morgue street in Pairs, and how the case is resolved. Dupin, the detective in the story, is memorable for his smartness and introverted personality, inspiring the later generations when depicting the protagonists in their detective novels.
+|fame=48
+|art=28
+|fth=19
+|civ=29
+|tech=30
+|ss1=Demon Minion ATK +1%
+|ss2=Demon Minion ATK +2%
+|ss3=Demon Minion ATK +3%
+|ss4=Demon Minion ATK +5%
+|ss7=Demon Minion ATK +5%<br>Demon Minion ATK +5% (Awakened)
+|skill1=[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, All Minion ATK +1.5%
+}}

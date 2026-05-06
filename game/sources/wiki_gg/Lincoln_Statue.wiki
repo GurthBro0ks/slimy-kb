@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Lincoln Statue
+|class_id=22325
+|rank=SSS
+|affct=CIV
+|birthday=05-26
+|source=
+|description=On May 26, 1922, Warren, the 29th President of the United States announced the completion of this statue of Lincoln.<br>The seated statue of Lincoln is located in the Lincoln Memorial in Washington D.C., created by the renowned sculptor French, and stands as a significant symbol of American history and culture. The statue is approximately nineteen feet tall, with Lincoln's hands resting on the chair's armrests. Facing the entrance, his gaze seems to be fixed on the Washington Monument.
+|fame=71
+|art=73
+|fth=58
+|civ=106
+|tech=54
+|ss1=All Rocket Cabin production +0.9%<br>Complete 40 Chores: Snail ATK +3<br>Complete 40 Chores: Snail DEF +3<br>Chores Completed: 2000/2000
+|ss2=All Rocket Cabin production +1.2%<br>Complete 40 Chores: Snail ATK +4<br>Complete 40 Chores: Snail DEF +4<br>Chores Completed: 2000/2000
+|ss3=All Rocket Cabin production +1.5%<br>Complete 40 Chores: Snail ATK +5<br>Complete 40 Chores: Snail DEF +5<br>Chores Completed: 2000/2000
+|ss4=All Rocket Cabin production +2.1%<br>Complete 40 Chores: Snail ATK +7<br>Complete 40 Chores: Snail DEF +7<br>Chores Completed: 2000/2000
+|ss5=All Rocket Cabin production +2.7%<br>Complete 40 Chores: Snail ATK +9<br>Complete 40 Chores: Snail DEF +9<br>Chores Completed: 2000/2000
+|ss6=All Rocket Cabin production +3.6%<br>Complete 40 Chores: Snail ATK +12<br>Complete 40 Chores: Snail DEF +12<br>Chores Completed: 2000/2000
+|ss7=All Rocket Cabin production +3.6%<br>Complete 40 Chores: Snail ATK +12<br>Complete 40 Chores: Snail DEF +12<br>Chores Completed: 2000/2000<br>All Rocket Cabin production +3% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=The North|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Sheridan|3rec=27.24M|3atk=123250|3defense=82225|3hp=4395927|3weak=18675
+|4name=Buford|4rec=37.87M|4atk=145659|4defense=97175|4hp=5995024|4weak=19750
+|5name=Johnson|5rec=50.09M|5atk=171429|5defense=114367|5hp=8060156|5weak=21775
+|6name=Lincoln|6rec=63.90M|6atk=200561|6defense=133802|6hp=10593538|6weak=25638
+|Arec=78.78M|Aatk=231934|Adefense=154732|Ahp=13718566|Aweak=30674
+}}}}

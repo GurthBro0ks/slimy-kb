@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Rainbow Feathered Robe
+|class_id=21039
+|rank=SSS
+|affct=FAME
+|source=
+|description=Tang Emperor’s dream-inspired fusion of Brahman melodies and Chinese motifs. Surviving fragments in Dunhuang manuscripts hint at its lost grandeur.
+|fame=106
+|art=56
+|fth=49
+|civ=74
+|tech=77
+|ss1=Snail Leadership +3<br>Zombie Minion ATK +3%<br>Per Zombie Form Tier, Snail ATK +15<br>Zombie Form Tiers: 9/9
+|ss2=Snail Leadership +4<br>Zombie Minion ATK +4%<br>Per Zombie Form Tier, Snail ATK +20<br>Zombie Form Tiers: 9/9
+|ss3=Snail Leadership +5<br>Zombie Minion ATK +5%<br>Per Zombie Form Tier, Snail ATK +25<br>Zombie Form Tiers: 9/9
+|ss4=Snail Leadership +7<br>Zombie Minion ATK +7%<br>Per Zombie Form Tier, Snail ATK +35<br>Zombie Form Tiers: 9/9
+|ss5=Snail Leadership +9<br>Zombie Minion ATK +9%<br>Per Zombie Form Tier, Snail ATK +45<br>Zombie Form Tiers: 9/9
+|ss6=Snail Leadership +12<br>Zombie Minion ATK +12%<br>Per Zombie Form Tier, Snail ATK +60<br>Zombie Form Tiers: 9/9
+|ss7=Snail Leadership +12<br>Zombie Minion ATK +12%<br>Per Zombie Form Tier, Snail ATK +60<br>Zombie Form Tiers: 9/9<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: Medal Output +30
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: This Relic's FAME +15
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, 2x Orange Reagent Drops +15%
+}}

@@ -1,0 +1,318 @@
+== Advisor Zhuge ♂ ==
+Internet celebrity from the Three Kingdoms. Good at hyping, always on the decline!
+
+=== Begin Friendship ===
+To obtain Advisor Zhuge, upgrade [[Cathay]] general Adviser Zhuge to max (T9).
+
+=== ☆☆☆ > ★★★ ===
+After 7 letters back and forth, Advisor Zhuge will gift [[Maze Diagrams|<span style="color:#40da25;">Maze Diagrams</span>]] and move in permanently with his minion, Wood Golem. 
+
+== Rent ==
+[[File:Advisor Zhuge rent.png|frameless|left]]
+Advisor Zhuge rent is collected on '''Monday''' and found on the scroll on the back wall. Only one of the potential items will be found.
+
+ '''Normal Rent''': {{RewardIconWithText|B-Tad, +5k}}
+
+ '''Rare Rent''': {{RewardIconWithText|W-Tad, +100}}; {{RewardIconWithLink|Lottery Ticket|orange}}; {{RewardIconWithLink|Wish Coin|orange}}; {{RewardIconWithLink|Golden Pickaxe|orange}}; {{RewardIconWithLink|Dragon Orb|orange}}
+
+{{Clear}}
+
+== Relics ==
+Upgrading these will earn Lottery Tickets!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|Lottery Ticket +1
+|-
+|★★
+|Lottery Ticket +1
+|-
+|★★★
+|Lottery Ticket +1
+|-
+|★★★★
+|Lottery Ticket +1
+|-
+|★★★★★
+|Lottery Ticket +2
+|-
+|★★★★★★
+|Lottery Ticket +3
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Rubik's Cube}}{{Relink|Rubik's Cube}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Ancient Block}}{{Relink|Ancient Block}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Truth Crystal}}{{Relink|Truth Crystal}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Cavendish's Scale}}{{Relink|Cavendish's Scale}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Cuneiform Tablet}}{{Relink|Cuneiform Tablet}}
+!style="background-color:var(--orange-bg);"|{{Reimg|The Analects}}{{Relink|The Analects}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Causality}}{{Relink|Causality}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Hammurabi Code}}{{Relink|Hammurabi Code}}
+|}
+
+== Advisor Zhuge's Maze ==
+With his exploits, history is crowned; For his Maze, he's renowned. The river flows but stones still stand, though he'd not taken back lost land.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||CIV +5||Lumber Camp Output +1%
+|-
+|2||180||2k||CIV +10||Lumber Camp Output +2%
+|-
+|3||190||4.5k||CIV +15||Lumber Camp Output +3%
+|-
+|4||200||8k||CIV +20||Lumber Camp Output +4%
+|-
+|5||210||12.5k||CIV +25||Lumber Camp Output +5%
+|-
+|6||220||18k||CIV +30||Lumber Camp Output +6%
+|-
+|7||230||24.5k||CIV +35||Lumber Camp Output +7%
+|-
+|8||240||32k||CIV +40||Lumber Camp Output +8%
+|-
+|9||250||40.5k||CIV +45||Lumber Camp Output +9%
+|-
+|10||260||50k||CIV +50||Lumber Camp Output +10%
+|-
+|11||270||60.5k||CIV +55||Lumber Camp Output +11%
+|-
+|12||285||72k||CIV +60||Lumber Camp Output +12%
+|-
+|13||300||84.5k||CIV +65||Lumber Camp Output +13%
+|-
+|14||315||98k||CIV +70||Lumber Camp Output +14%
+|-
+|15||330||112k||CIV +75||Lumber Camp Output +15%
+|-
+|16||345||123k||CIV +80||Lumber Camp Output +16%
+|-
+|17||360||144k||CIV +85||Lumber Camp Output +17%
+|-
+|18||375||162k||CIV +90||Lumber Camp Output +18%
+|-
+|19||390||180k||CIV +95||Lumber Camp Output +19%
+|-
+|20||400||200k||CIV +100||Lumber Camp Output +20%
+|-
+|21||420||220k||CIV +105||Lumber Camp Output +21%
+|-
+|22||440||242k||CIV +110||Lumber Camp Output +22%
+|-
+|23||460||264k||CIV +115||Lumber Camp Output +23%
+|-
+|24||480||285k||CIV +120||Lumber Camp Output +24%
+|-
+|25||500||309k||CIV +125||Lumber Camp Output +25%
+|-
+|26||520||333k||CIV +130||Lumber Camp Output +26%
+|-
+|27||540||357k||CIV +135||Lumber Camp Output +27%
+|-
+|28||560||381k||CIV +140||Lumber Camp Output +28%
+|-
+|29||580||405k||CIV +145||Lumber Camp Output +29%
+|-
+|30||600||429k||CIV +150||Lumber Camp Output +30%
+|}
+
+==Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Advisor Zhuge's Maze is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +10
+|-
+|2||4k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +20
+|-
+|3||6k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +30
+|-
+|4||8k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +40
+|-
+|5||10k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +50
+|-
+|6||12k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +60
+|-
+|7||14k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +70
+|-
+|8||16k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +80
+|-
+|9||18k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +90
+|-
+|10||20k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +100
+|-
+|11||22k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +110
+|-
+|12||24k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +120
+|-
+|13||26k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +130
+|-
+|14||28k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +140
+|-
+|15||30k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +150
+|-
+|16||32k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +160
+|-
+|17||34k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +170
+|-
+|18||36k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +180
+|-
+|19||38k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +190
+|-
+|20||40k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +200
+|-
+|21||42k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +210
+|-
+|22||44k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +220
+|-
+|23||46k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +230
+|-
+|24||48k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +240
+|-
+|25||50k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +250
+|-
+|26||55k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +260
+|-
+|27||60k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +270
+|-
+|28||65k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +280
+|-
+|29||70k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +290
+|-
+|30||75k||Mecha Minion MAX +1||Per 10 Wood Golems in battle, Troop HP +300
+|}
+
+== Research Ability ==
+Below is a table of the research manual cost to upgrade each research gene. Advisor Zhuge specializes in '''Mecha Gene''' and therefore the research manual cost for the Mecha is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+== Minion - Wood Golem ==
+Advisor Zhuge studied the works of the great engineer Lu Ban for years and bought Wetubers' models for reference. This is the fruit of his study!
+
+===Special Ability - Puppet===
+Per 10 Wood Golems in battle, Take injury for other Minions by +11% (multiplied by minion level)<br>Recovery SPD -2% (multiplied by minion level)
+
+=== Minion Relics ===
+Upgrading these relics will buff your Wood Golems!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Chronometer}}<br>{{Relink|Chronometer}}
+|Wood Golem HP +1%
+|Wood Golem DEF +1%
+|Wood Golem ATK +1%
+|Wood Golem RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Janssen Microscope}}<br>{{Relink|Janssen Microscope}}
+|Wood Golem HP +1%
+|Wood Golem DEF +1%
+|Wood Golem ATK +1%
+|Wood Golem RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|ENAC Prototype}}<br>{{Relink|ENAC Prototype}}
+|Wood Golem HP +2%
+|Wood Golem DEF +2%
+|Wood Golem ATK +2%
+|Wood Golem RUSH +2%
+|Wood Golem All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Polonium}}<br>{{Relink|Polonium}}
+|Wood Golem HP +2%
+|Wood Golem DEF +2%
+|Wood Golem ATK +2%
+|Wood Golem RUSH +2%
+|Wood Golem All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Hubble Telescope}}<br>{{Relink|Hubble Telescope}}
+|Wood Golem HP +4%
+|Wood Golem HP +4%
+|Wood Golem HP +4%
+|Wood Golem HP +4%
+|Wood Golem HP +4%
+|Wood Golem HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Deep Navy Computer}}<br>{{Relink|Deep Navy Computer}}
+|Wood Golem DEF +4%
+|Wood Golem DEF +4%
+|Wood Golem DEF +4%
+|Wood Golem DEF +4%
+|Wood Golem DEF +4%
+|Wood Golem DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Double Helix DNA}}<br>{{Relink|Double Helix DNA}}
+|Wood Golem ATK +4%
+|Wood Golem ATK +4%
+|Wood Golem ATK +4%
+|Wood Golem ATK +4%
+|Wood Golem ATK +4%
+|Wood Golem ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Matrix System}}<br>{{Relink|Matrix System}}
+|Wood Golem RUSH +4%
+|Wood Golem RUSH +4%
+|Wood Golem RUSH +4%
+|Wood Golem RUSH +4%
+|Wood Golem RUSH +4%
+|Wood Golem RUSH +4%
+|}
+
+[[Category:Partners]]
+[[Category:Lumber Camp Output Boost]]
+[[Category:Minion HP Boost]]

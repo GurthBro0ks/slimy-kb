@@ -1,0 +1,37 @@
+{{WIP|note=This page will be slow-going, as all orange relics have to be re-formatted to accomodate the new Mirage template. If you'd like to help us, please contact Klei on the {{Socials|Discord|true}}}}
+
+{| class="wikitable filter-toggles"
+|-
+!View All
+| class="wds-button filter-toggle-not-selected view-all" | [[#js|View All]]
+|-
+!AFFCT
+| class="wds-button filter-toggle-not-selected cat1 fame" | [[#js|FAME]]
+| class="wds-button filter-toggle-not-selected cat1 art" | [[#js|ART]]
+| class="wds-button filter-toggle-not-selected cat1 fth" | [[#js|FTH]]
+| class="wds-button filter-toggle-not-selected cat1 civ" | [[#js|CIV]]
+| class="wds-button filter-toggle-not-selected cat1 tech" | [[#js|TECH]]
+|-
+!Grade  
+| class="wds-button filter-toggle-not-selected cat2 sss" | [[#js|SSS]]
+| class="wds-button filter-toggle-not-selected cat2 ss" | [[#js|SS]]
+| class="wds-button filter-toggle-not-selected cat2 s" | [[#js|S]]
+|}
+
+{|class="wikitable sortable"
+!rowspan="2"|Relic
+!rowspan="2"|AFFCT
+!rowspan="2"|Rank
+!rowspan="2"|Mirage
+!colspan="2"|Rec. Power
+!rowspan="2"|Reward
+|-
+!Lowest!!Highest
+|-
+{{#cargo_query:table=Mirage
+|fields=relic,affct,rank,name,3rec,Arec,reward
+|order by=relic
+|format=template
+|template=MirageTableRow
+|named args=yes}}
+|}

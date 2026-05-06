@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Tunnelling Shield
+|class_id=22607
+|rank=AAA
+|affct=TECH
+|birthday=05-17
+|source=
+|description=On May 17, 1818 AD, French engineer Marc Brunel registered a patent for the Tunnelling Shield.<br>Shield tunneling technology is a fully mechanized method for tunneling. It involves supporting the pipeline and rock wall to prevent soil collapse, excavating the soil in the desired direction using cutting equipment, and removing the excavated soil outside the tunnel using mechanical equipment. The method also utilizes hydraulic jacks to push and assemble precast concrete pipe sections, enabling efficient construction of tunnels. It is widely employed in subway excavation projects.
+|fame=46
+|art=35
+|fth=48
+|civ=39
+|tech=75
+|ss1=Per 30 Mecha Minions in battle:<br>> Troop DEF +12<br>Per 500 Fissure Floors, Snail DEF +6<br>Fissure Floor: 15000/15000
+|ss2=Per 30 Mecha Minions in battle:<br>> Troop DEF +16<br>Per 500 Fissure Floors, Snail DEF +8<br>Fissure Floor: 15000/15000
+|ss3=Per 30 Mecha Minions in battle:<br>> Troop DEF +20<br>Per 500 Fissure Floors, Snail DEF +10<br>Fissure Floor: 15000/15000
+|ss4=Per 30 Mecha Minions in battle:<br>> Troop DEF +28<br>Per 500 Fissure Floors, Snail DEF +14<br>Fissure Floor: 15000/15000
+|ss5=Per 30 Mecha Minions in battle:<br>> Troop DEF +36<br>Per 500 Fissure Floors, Snail DEF +18<br>Fissure Floor: 15000/15000
+|ss7=Per 30 Mecha Minions in battle:<br>> Troop DEF +36<br>Per 500 Fissure Floors, Snail DEF +18<br>Fissure Floor: 15000/15000<br>Per 30 Mecha Minions in battle:<br>> Troop DEF +28 (Awakened)
+|skill1=[[File:Kemet skill II.png|50px]]Place in Kemetic Museum: This Relic's TECH +10
+|skill2=[[File:Kemet skill II.png|50px]]Place in Kemetic Museum: In Kemet, 2x Orange Card Drops +7.5%
+}}

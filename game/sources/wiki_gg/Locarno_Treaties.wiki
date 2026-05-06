@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Locarno Treaties
+|class_id=22611
+|rank=SS
+|affct=FAME
+|birthday=06-16
+|source=Lottery Machine No.3 (0.47%)
+|description=On Jun 16, 1925 AD, marks the official signing of the Locarno Treaty by multiple European countries.<br>After World War I, Germany became increasingly powerful with the aid of the Dawes Plan and began to seek to restore its great power status, while other European countries hoped to maintain a stable situation. Therefore, with the support of the United States, seven European countries held the Locarno Conference and formulated the treaty, which eased Europe's security concerns, improved relations among major countries, and brought stability and peace to Europe for more than a decade.
+|fame=103
+|art=54
+|fth=49
+|civ=72
+|tech=69
+|ss1=Zombie Minion ATK +2%<br>Rebel Cabin, deployable robots +2<br>Per 3 Hidden Treasures claimed, Snail RUSH +2<br>Hidden Treasures Claimed: 150/150
+|ss2=Zombie Minion ATK +3%<br>Rebel Cabin, deployable robots +3<br>Per 3 Hidden Treasures claimed, Snail RUSH +3<br>Hidden Treasures Claimed: 150/150
+|ss3=Zombie Minion ATK +4%<br>Rebel Cabin, deployable robots +4<br>Per 3 Hidden Treasures claimed, Snail RUSH +4<br>Hidden Treasures Claimed: 150/150
+|ss4=Zombie Minion ATK +6%<br>Rebel Cabin, deployable robots +6<br>Per 3 Hidden Treasures claimed, Snail RUSH +6<br>Hidden Treasures Claimed: 150/150
+|ss5=Zombie Minion ATK +8%<br>Rebel Cabin, deployable robots +8<br>Per 3 Hidden Treasures claimed, Snail RUSH +8<br>Hidden Treasures Claimed: 150/150
+|ss6=Zombie Minion ATK +11%<br>Rebel Cabin, deployable robots +11<br>Per 3 Hidden Treasures claimed, Snail RUSH +11<br>Hidden Treasures Claimed: 150/150
+|ss7=Zombie Minion ATK +11%<br>Rebel Cabin, deployable robots +11<br>Per 3 Hidden Treasures claimed, Snail RUSH +11<br>Hidden Treasures Claimed: 150/150<br>Rebel Cabin, deployable robots +10 (Awakened)
+|skill1=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop Water DMG +60
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's FAME +15
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x Green Card Drops +15%
+|mirage={{Mirage|name=Locarno Conference|reward={{RewardIconWithLink|Travel Speedup, +28800|orange}}
+|3name=UK Representative|3rec=120.97M|3atk=340321|3defense=214086|3hp=18269532|3weak=36482
+|4name=French Representative|4rec=147.32M|4atk=403018|4defense=251159|4hp=24643697|4weak=38812
+|5name=German Representative|5rec=187.48M|5atk=499363|5defense=307660|5hp=35474605|5weak=42107
+|Arec=244.73M|Aatk=633347|Adefense=382737|Ahp=61280325|Aweak=49495
+}}}}

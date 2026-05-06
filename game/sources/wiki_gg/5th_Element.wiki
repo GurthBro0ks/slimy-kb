@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=5th Element
+|rank=SS
+|affct=TECH
+|birthday=05-11
+|source=Fragment Crafting (5.2%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), TECH Master Scrolls (9.2%), Wishing (0.19%)
+|description=On May 11, 2015 AD, scientists found the fifth fundamental force of nature.
+
+The universe's matter is pulled together and pushed apart by forces. There are currently 4 fundamental forces, including gravity and electromagnetic force. The 5th Element is a kind of matter that theoretically accounts for 80% of the total mass in the universe. The energy of this element is calculated to equal seventeen trillion electronvolts. It also interacts with hot elements, cold elements, dry elements, wet elements, etc. and makes up the world's basic composition.
+|fame=49
+|art=64
+|fth=62
+|civ=69
+|tech=103
+|ss1=Snail RUSH +30<br>Demon Gene Research SPD +1.8%<br>Free Gene Speedup (Demon) +18m
+|ss2=Snail RUSH +40<br>Demon Gene Research SPD +2.4%<br>Free Gene Speedup (Demon) +24m
+|ss3=Snail RUSH +50<br>Demon Gene Research SPD +3%<br>Free Gene Speedup (Demon) +30m
+|ss4=Snail RUSH +70<br>Demon Gene Research SPD +4.2%<br>Free Gene Speedup (Demon) +42m
+|ss5=Snail RUSH +90<br>Demon Gene Research SPD +5.4%<br>Free Gene Speedup (Demon) +54m
+|ss6=Snail RUSH +120<br>Demon Gene Research SPD +7.2%<br>Free Gene Speedup (Demon) +1h 12m
+|ss7=Snail RUSH +120<br>Demon Gene Research SPD +7.2%<br>Free Gene Speedup (Demon) +1h 12m<br>Free Gene Speedup (Demon) +1h (Awakened)
+|skill1={{Skills|yamato|rush|600}}
+|skill2={{Skills|yamato|purple reagent|15}}
+|skill3={{Skills|kemet|green card|15}}
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:RUSH Boost]]
+[[Category:Demon Gene Speedup Boost]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Ad Shop Boost]]
+[[Category:ATK Boost]]
+[[Category:Lottery Bead Color Change]]
+[[Category:Rewards Organs]]

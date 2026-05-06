@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Helmholtz Coil
+|class_id=22205
+|rank=AAA
+|affct=TECH
+|birthday=05-10
+|source=
+|description=On May 10, 1872 AD, the Helmholtz coil was designed.<br>The Helmholtz Coil is a device that produces a uniform magnetic field in a small area, named after its inventor, the German physicist Helmholtz. The device consists of a large number of identical circular conductor coils, each carrying a current in the same direction to create a magnetic field with minimal inhomogeneity. Due to its open nature, it is convenient for the insertion and removal of other instruments, and it is also beneficial for the experimenter to observe, so it is often used in physical experiments.
+|fame=48
+|art=39
+|fth=45
+|civ=38
+|tech=73
+|ss1=Refine +1 Green Demon God Material +3%<br>Refine +1 Green Rebel Material +3%
+|ss2=Refine +1 Green Demon God Material +4%<br>Refine +1 Green Rebel Material +4%
+|ss3=Refine +1 Green Demon God Material +5%<br>Refine +1 Green Rebel Material +5%
+|ss4=Refine +1 Green Demon God Material +7%<br>Refine +1 Green Rebel Material +7%
+|ss5=Refine +1 Green Demon God Material +9%<br>Refine +1 Green Rebel Material +9%
+|ss7=Refine +1 Green Demon God Material +9%<br>Refine +1 Green Rebel Material +9%<br>Snail HP +700 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +3%
+}}

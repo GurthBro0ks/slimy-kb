@@ -1,0 +1,265 @@
+==Alchemy Furnace==
+The Alchemy Furnace is [[Home Base#The Mailbox|near the Mailbox]] and is unlocked once [[Kim Chi-yum]] reaches 2 hearts. Here you will use Wish Coins to earn [[Relics]] and Scrolls. You can pick between any of the five AFFCTs to wish for that specific type, and wish with 1 or 10 coins at a time. Here you can also craft reagent, coating, fungi, and relic fragments.
+
+===Wishing Value Packs===
+[[Value_Packs#Wishing_Value_Pack|Wishing Value Packs]] can be purchased after certain milestones are met.
+
+==Crafting ==
+{{Reimg|Pond Frog Portrait}}
+
+Crafting is unlocked once [[Mailbox#Toad_Mercenary|Toad Mercenary]] has been defeated and joins the pond. At first only alchemy reagent and fragment crafting is available at the green and red toad respectively. Further crafting can be unlocked at the green frog as follows:
+* Coating crafting is unlocked once shell upgrades are unlocked with the '''I need shell service!''' Divine Dragon wish at the [[Altar#Repeatable_wishes|Altar]].
+* Fungi crafting is unlocked once the {{RewardIconWithText|Colorful Fungi}} is purchased in the '''1.5M Total Power''' [[Value_Packs#Power_Value_Pack|Power Value Pack]].
+* Species Sequence crafting is unlocked once the {{RewardIconWithText|Color Order Capsule}} is purchased in the '''Species Map Total Score 30''' [[Value_Packs#Traveler_Map_Value_Pack|Traveler Map Value Pack]].
+* Organ Slime Crafting is unlocked once the {{RewardIconWithText|Super Gene Mutagen}} is purchased in the '''Organ Score (10k)''' [[Value_Packs#Organ_Value_Pack|Organ Value Pack]].
+
+===General Crafting===
+Reagents, coatings, and species sequences can all be crafted in a similar manner. Each tier of an item (other than orange) can be crafted into a higher tier, with 10 of a lower tier equaling one of its higher tier. i.e. 10 green = 1 blue, 10 blue = 1 purple, and 10 purple = 1 orange. 
+
+===Fungi===
+Once unlocked, fungi can be crafted into a random higher tier. 5 green fungi = 1 random blue, 5 blue = 1 random purple, 5 purple = 1 random orange. 
+
+===Fragment Crafting===
+Once one of 5 AFFCTs has been selected, fragment crafting becomes available. Any spare fragments (from relics that have been fully upgraded) can be converted into a random, higher tier relic of that same AFFCT. This process takes a large amount of spare fragments and {{RewardIconWithText|Taichi Fish}}, which primarily come from wishing. The {{RewardIconWithLink|Maze Diagrams|green}} and {{RewardIconWithLink|Hope Diamond|purple}} relics can increase the number of {{RewardIconWithText|Taichi Fish}} earned from wishing. They can also be collected from [[Taoist Yu Ji#Rent|Taoist Yu Ji]]. 
+
+Replace AFFCT with the type you're crafting in to apply the below formula:
+ 10 AFFCT blue + 100 spare blue fragments + 20 Taichi Fish > 20 AFFCT purple
+ 20 AFFCT purple + 200 spare purple fragments + 200 Taichi Fish > 40 AFFCT orange
+ 40 AFFCT orange + 250 Taichi Fish > 40 AFFCT orange
+
+==Wishing==
+Wishing uses Wish Coins, which can be obtained from the [[Vending Machine]] (600 W-Tads), [[Museum]] (135 museum medals), and ocassionally from the [[Fissure]]. They're also obtained by participating in [[Weekly Events]]. The [[Taurus|<span style="color:#ffb066;">Taurus</span>]] relic increases the number of available Wish Coins in the Museum shop.
+
+===Chances===
+The rewards earned are completely RNG (random number generator) based, and can't be improved or manipulated. However, only relics, scrolls, and taichi fish are earned from wishing. 
+
+There is a 61% chance of pulling a blue pearl, and within this a 60.6% chance for it to be a relic. 
+
+There is a 27% chance of pulling a purple pearl, and within this a 9.1% chance for it to be a relic and a 18.2% chance for it to be an expert scroll. 
+
+There is a 12% chance of pulling an orange pearl, and within this a 9.1% chance for it to be a scroll for that AFFCT and different chances for a variety of specific relics within that AFFCT. 
+
+==Weekly Wishing Event==
+[[File:Wishing Week Poster.png|200px|right|alt=Wishing Week]]
+Wishing week is one of the three [[Weekly Events]]. During this week, the more you wish, the more you get! While the general structure of each Wishing Event is the same, the rewards vary from week to week. Specifically, different Orange Relics that can be purchased during the event. 
+
+[[Wish Packs]] can be received during Wishing Week that can reward [[Wish Relic Album]] fragments.
+
+'''This information is accurate for the week of:''' Sept 29 - Oct 5
+
+===Suggested Strategies===
+
+* Hoard all wish coins until Wishing Event to maximize rewards. It's recommended to have between 160 and 190 wish coins saved up for the week to reach the 3k tier rewards. 
+* The event also rewards for spending taichi fish on fragment crafting, so it's not a bad idea to save all your crafting for this event as well. 
+
+===Wish Magic===
+1 Wish = 1 Point. There are 5 rounds total. Each round requires 80 Wish Coins and gives 1,100 Mystery Ash plus other rewards. Completing all five rounds will require 400 Wish Coins and awards 5,500 Mystery Ash. 
+
+{{clear}}
+
+{| class="wikitable"
+!Tier
+!Cost
+!Reward
+
+|-
+|rowspan="2" |I
+|rowspan="2" |10 Wish Points
+|{{RewardIconWithText|Mystery Ash, +120 (120 total for the round)}}
+|-
+|{{RewardIconWithLink|Expert Scroll, +20|purple}}
+
+|-
+|rowspan="3" |II
+|rowspan="3" |20 Wish Points
+|{{RewardIconWithText|Mystery Ash, +120 (240 total for the round)}}
+|-
+|{{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|-
+|{{RewardIconWithLink|Golden Pickaxe, +3|orange}}
+
+|-
+|rowspan="3" |III
+|rowspan="3" |30 Wish Points
+|{{RewardIconWithText|Mystery Ash, +150 (390 total for the round)}}
+|-
+|{{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|-
+|{{RewardIconWithLink|Golden Pickaxe, +3|orange}}
+
+|-
+|rowspan="3" |IV
+|rowspan="3" |40 Wish Points
+|{{RewardIconWithText|Mystery Ash, +150 (540 total for the round)}}
+|-
+|{{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|-
+|{{RewardIconWithLink|Wish Coin, +2|orange}}
+
+|-
+|rowspan="3" |V
+|rowspan="3" |50 Wish Points
+|{{RewardIconWithText|Mystery Ash, +180 (720 total for the round)}}
+|-
+|{{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|-
+|{{RewardIconWithLink|Incense, +1|orange}}
+
+|-
+|rowspan="2" |VI
+|rowspan="2" |60 Wish Points
+|{{RewardIconWithText|Mystery Ash, +180 (900 total for the round)}}
+|-
+|{{RewardIconWithLink|Master Scroll, +40|orange}}
+
+|-
+|rowspan="3" |VII
+|rowspan="3" |80 Wish Points
+|{{RewardIconWithLink|Relic RF, +20|orange}}
+|-
+|{{RewardIconWithText|Mystery Ash, +200 (1.1k total for the round)}}
+|-
+|This Week: {{RewardIconWithLink|Lucy the Ape, +40|orange}}
+
+|}
+
+===Ash Battle===
+Ash Battle rewards Mystery Ash for doing certain things. Spend these for rewards!<br>
+1 Mystery Ash = 100 B-Tads 
+
+====Mystery Ash Source====
+{| class="wikitable"
+!Source
+!Reward per completion
+!Maximum completions
+!Maximum Mystery Ash
+|-
+|Daily Bonus in Vending Machine||{{RewardIconWithText|Mystery Ash, +100}}||7 purchases||700
+|-
+|Wish Magic||{{RewardIconWithText|Mystery Ash, +1.1k per round}}||5 rounds||5,500
+|-
+|Buy an Event Pack||Varies||colspan=2|6 total packs with varying amounts
+|-
+|Use 10 Blue Relic Fragments||{{RewardIconWithText|Mystery Ash, +25}}||300 Fragments||750
+|-
+|Use 10 Purple Relic Fragments||{{RewardIconWithText|Mystery Ash, +45}}||200 Fragments||900
+|-
+|Use 10 Orange Relic Fragments||{{RewardIconWithText|Mystery Ash, +90}}||100 Fragments||900
+|-
+|{{RewardIcon|Taichi Fish}} Consume 10 Taichi Fish||{{RewardIconWithText|Mystery Ash, +10}}||250 Taichi Fish||250
+|}
+
+====Mystery Ash Rewards====
+{| class="wikitable"
+!Tier
+!Cost
+!Reward
+!Extra Wish Coins gained
+
+|-
+|rowspan="3"|I
+|rowspan="3"|500 {{RewardIconWithText|Mystery Ash}}
+|{{RewardIconWithText|B-Tad, +50k}}
+|rowspan="3"|{{RewardIconWithLink|Wish Coin, +1|orange}}
+|-
+|{{RewardIconWithText|Novice Alchemy Case, +5}}
+|-
+|{{RewardIconWithLink|Novice Scroll, +20|blue}}
+
+|-
+|rowspan="3"|II
+|rowspan="3"|1,000 {{RewardIconWithText|Mystery Ash}}
+|{{RewardIconWithText|W-Tad, +1k}}
+|rowspan="3"|{{RewardIconWithLink|Wish Coin, +2|orange}}
+|-
+|{{RewardIconWithLink|Expert Scroll, +30|purple}}
+|-
+|{{RewardIconWithText|Organ Slime, +300}}
+
+|-
+|rowspan="3"|III
+|rowspan="3"|1,500 {{RewardIconWithText|Mystery Ash}}
+|{{RewardIconWithText|Offering Speedup, +15h}}
+|rowspan="3"|{{RewardIconWithLink|Wish Coin, +3|orange}}
+|-
+|{{RewardIconWithText|B-Tad, +150k}}
+|-
+|This week: {{RewardIconWithLink|The Moon Puzzle|purple}}
+
+|-
+|rowspan="3"|IV
+|rowspan="3"|3,000 {{RewardIconWithText|Mystery Ash}}
+|{{RewardIconWithText|Gene Speedup, +1d6h}}
+|rowspan="3"|{{RewardIconWithLink|Wish Coin, +6|orange}}
+|-
+|{{RewardIconWithLink|Dragon Orb|orange}}
+|-
+|{{RewardIconWithGearlink|orange|Material|Eye of Horus}}
+
+|-
+|rowspan="5"|V
+|rowspan="5"|5,000 {{RewardIconWithText|Mystery Ash}}
+|{{RewardIconWithLink|Incense, +2|orange}}
+|rowspan="5"|{{RewardIconWithLink|Wish Coin, +10|orange}}
+|-
+|{{RewardIconWithLink|Organ Chest, +800}}
+|-
+|{{RewardIconWithText|Star Coin, +10k}}
+|-
+|Set A this week: {{RewardIconWithLink|Antarctic Treaty|orange}}
+|-
+|Set B this week: {{RewardIconWithLink|Artificial Blackhole|orange}}
+|}
+
+====How Many Mystery Ashes Do I Need?====
+=====3,000 Mystery Ash Reward=====
+To get the '''3,000 Mystery Ash Reward''' you will need a total of '''6,000 Mystery Ashes''' to buy the previous rewards. The least amount of Wish Coins you will need to do this is '''180 Wish Coins'''.
+* '''Complete all of the supplemental rewards:''' 2,800 Mystery Ashes
+* '''Purchase all 7 Offering Bonuses:''' 700 Mystery Ashes
+* '''Purchase 100 W-Tad Event Pack:''' 100 Mystery Ashes
+* '''Complete Two Rounds (80 Wish Coins each):''' 2,200 Mystery Ashes
+* '''20 additional Wish Coins:''' 240 Mystery Ashes
+* '''Total:''' 6,040 Mystery Ash
+
+=====Two 3,000 Mystery Ash Rewards=====
+To get two '''3,000 Mystery Ash Rewards''' you will need a total of '''9,000 Mystery Ashes.''' This can be achieved by completing all five rounds in the Wish Magic and acquiring all other sources of Mystery Ashes. Completing five rounds of Wish Magic requires '''400 Wish Coins.'''
+* '''Complete all of the supplemental rewards:''' 2,800 Mystery Ashes
+* '''Purchase all Seven Offering Bonuses:''' 700 Mystery Ashes
+* '''Complete all Five Rounds (80 Wish Coins each):''' 5,500 Mystery Ashes
+* '''Total:''' 9,000 Mystery Ashes [Optionally you can also purchase the 100 W-Tad Event Pack for an additional 100 Mystery Ashes.]
+
+=====5,000 Mystery Ash Reward=====
+Currently it is not possible to get the '''5,000 Mystery Ash Reward''' without spending real money. The most you can earn without spending money is '''9,000 Mystery Ashes''' which will allow you to buy two '''3,000 Mystery Ash Rewards'''
+
+=== Limited Sale ===
+{|class=wikitable
+!Name
+!Cost in W-Tads
+!Rewards
+|-
+|{{RewardIconWithText|Super Pack I}}
+|1k
+|{{RewardIconWithLink|Lottery Ticket, +6|orange}}<br>{{RewardIconWithText|Novice Alchemy Case, +6}}<br>{{RewardIconWithLink|Novice Scroll, +20|blue}}
+|-
+|{{RewardIconWithText|Super Pack II}}
+|2.4k
+|{{RewardIconWithLink|Wish Coin, +5|orange}}<br>{{RewardIconWithText|Offering Speedup, +12h}}<br>{{RewardIconWithLink|Expert Scroll, +20|purple}}
+|-
+|{{RewardIconWithText|Super Pack III}}
+|4.8k
+|{{RewardIconWithLink|Organ Chest, +600}}<br>{{RewardIconWithText|Organ Slime, +300}}<br>{{RewardIconWithLink|Expert Scroll, +40|purple}}
+|-
+|{{RewardIconWithText|Super Pack IV}}
+|8k
+|{{RewardIconWithLink|Dragon Orb, +2|orange}}<br>{{RewardIconWithText|Blue Coating, +800|blue}}<br>{{RewardIconWithLink|Master Scroll, +40|orange}}
+|-
+|{{RewardIconWithText|Super Pack V}}
+|12k
+|{{RewardIconWithLink|Strength Crystal, +3|orange}}<br>{{RewardIconWithLink|Relic RF, +20|orange}}<br>{{RewardIconWithText|Star Coin, +15k}}
+|}
+
+===Accompanying Event===
+[[Clover Vendor]]
+
+[[Category:Alchemy Furnace]]
+[[Category:Events]]

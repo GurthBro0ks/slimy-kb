@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=809
+|relics=Don Juan,Space Elevator
+|rank=orange
+|amount=2
+|category=self
+|description=Per devotee appointed, Snail ATK +7;Devotee Appointed: 50/50
+}}

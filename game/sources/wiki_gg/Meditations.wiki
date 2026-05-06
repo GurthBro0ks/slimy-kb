@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Meditations
+|rank=A
+|affct=CIV
+|birthday=11-08
+|source=Fragment Crafting (29.9%), Lottery Machine (0.66%), Wishing (2.7%), Expert Scrolls (7.6%)
+|description=On Nov 8, 1820, Alphonse de Lamartine published his first collection of poems.
+
+"Meditations" is a collection of poems mourning the passing of his young lover. The poet wrote about love and death, and that life was all about loss and pain. He believed that hope came from departures and the idea of heaven, and that one could seek comfort from nature. Lamartine's poems were mainly expressions of feelings, creating a feeling of lightness and elegance with simple language. His poems paved the way for romantic French lyric poetry.
+
+[Famous Quotes]
+
+What a person loses is just the life he has at the moment. Don't live a life without thinking. What bothers us is our attitude and reaction to things. Death is part of nature and is nothing evil. Don't try to establish your own rules.
+|fame=32
+|art=35
+|fth=41
+|civ=64
+|tech=41
+|ss1=Snail HP +100<br>Per 20 Chores completed, Snail ATK +2<br>Chores Completed: 300/300
+|ss2=Snail HP +200<br>Per 20 Chores completed, Snail ATK +4<br>Chores Completed: 300/300
+|ss3=Snail HP +300<br>Per 20 Chores completed, Snail ATK +6<br>Chores Completed: 300/300
+|ss4=Snail HP +500<br>Per 20 Chores completed, Snail ATK +10<br>Chores Completed: 300/300
+|ss5=Snail HP +700<br>Per 20 Chores completed, Snail ATK +14<br>Chores Completed: 300/300
+|ss7=Snail HP +700<br>Per 20 Chores completed, Snail ATK +14<br>Chores Completed: 300/300<br>Snail HP +700 (Awakened)
+|skill1=[[File:Britland skill II.png|50px]] Place in Britland Museum: This Relic's CIV +10
+|skill2=[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, Snail RUSH +30
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:CIV Relics]]
+[[Category:Purple CIV Relics]]
+[[Category:Britland Museum Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:ATK Boost]]
+[[Category:HP Boost]]
+[[Category:Lumber Camp Boost]]
+[[Category:Quarry Boost]]

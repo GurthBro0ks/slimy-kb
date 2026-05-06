@@ -1,0 +1,458 @@
+{{Missing Info|specifics=<br>'''Sheet Music Collector:'''Sergeant's Sheet Music: missing soul name'''Searching for the Deity:''' Taoist Yu Ji Requirements}}
+
+==Key Clue Records==
+Complete these Key Clues in [[Cathay]] for various rewards and to fully progress through the Realm.<BR>
+Advisor Zhuge's Key Clue "Uphold the Empire" is Very Rare! It may take many, many runs to get it!
+
+==Longzhong Plan==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +3}}, {{RewardIconWithText|B-Tad, +5k}}
+
+See {{RewardIcon|Intel}}[[Cathay INTEL]] for more
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Master all Wei INTEL
+|Obtain all 41 [[Cathay INTEL#Wei|Wei INTEL]] tiles
+|-
+|Master all Shu INTEL
+|Obtain 36 [[Cathay INTEL#Shu|Shu INTEL]] tiles
+|-
+|Master all Wu INTEL
+|Obtain all 37 [[Cathay INTEL#Wu|Wu INTEL]] tiles
+|}
+
+==Fight in Central Plains==
+'''Rewards:''' {{RewardIconWithText|Travel Speedup, +4h}}, {{RewardIconWithText|B-Tad, +5k}}
+
+See [[Cathay Apostles]] for more
+{| class="wikitable"
+!Event
+!Requirements
+!Approximate Strength
+|-
+|Dominate Apostle of North Jingzhou
+|Defeat [[Cathay Apostles#General Xiahou D.|General Xiahou D..]] within 2 rounds
+|1m
+|-
+|Dominate Apostle of Red Cliff
+|Defeat [[Cathay Apostles#Politician Cao|Politician Cao]] within 2 rounds
+|1.1m
+|-
+|Dominate Apostle of Chang'an
+|Defeat [[Cathay Apostles#Dong Zhuo|Dong Zhuo]] within 2 rounds
+|1.2m
+|}
+
+==Cathay Life==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +600}}, {{RewardIconWithText|B-Tad, +5k}}
+
+See [[Cathay Cards]] for more
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Redeem all limited cards (white)
+|Exchange all 11 white card items
+|-
+|Redeem all limited cards (green)
+|Exchange all 11 green card items
+|-
+|Redeem all limited cards (blue)
+|Exchange all 11 blue card items
+|-
+|Redeem all limited cards (purple)
+|Exchange all 11 purple card items
+|-
+|Redeem all limited cards (orange)
+|Exchange all 8 orange card items
+|}
+
+==Call for An Ordered World==
+'''Rewards:'''  {{RewardIconWithText|W-Tad, +500}},  {{RewardIconWithText|Lottery Ticket, +3}}
+
+See [[Cathay Generals]] for more
+{| class="wikitable"
+!Event
+|-
+|Recruit all Wei Generals
+|-
+|Recruit all Shu Generals
+|-
+|Recruit all Wu Generals
+|-
+|Recruit all Warlord Generals
+|}
+
+==Cathay Treasure==
+'''Rewards:''' {{RewardIconWithLink|Cathay Treasure Map, +50}},  {{RewardIconWithText|Blue Reagent, +10|blue}}
+{| class="wikitable"
+!Event
+!<nowiki>#</nowiki> of items found
+!Rewards
+|-
+|Wuhan Treasure (Youzhou)
+|3
+|{{RewardIconWithText|W-Tad, +150}}, Suzaku Spirit +1
+|-
+|Wu Mission Gift (Youzhou)
+|4
+|{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|B-Tad, +3k}}
+|-
+|Granary (Xuchang)
+|2
+|{{RewardIconWithText|W-Tad, +150}}, {{RewardIconWithText|Stone, +2000}}
+|-
+|Plum Wine Barrel (Xuchang)
+|3
+|{{RewardIconWithText|W-Tad, +150}}, {{RewardIconWithText|Travel Speedup, +1h}}
+|-
+|Dew Temple Bride Price (Yangzhou)
+|3
+|{{RewardIconWithText|W-Tad, +100}}, {{RewardIconWithLink|Expert Scroll, +10|purple}}
+|-
+|Shanyue Treasure (Yangzhou)
+|4
+|{{RewardIconWithText|W-Tad, +300}}, Genbu Spirit +1
+|-
+|Advisor Zhuge's Tips (Chengdu)
+|3
+|{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Green Reagent, +50|green}}
+|-
+|Hot Pot Voucher (Chengdu)
+|4
+|{{RewardIconWithText|W-Tad, +300}}, Zhang Fei Beef +50
+|-
+|Lady Fan's Dowry (South Jingzhou)
+|3
+|{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|B-Tad, +3k}}
+|-
+|Sabre Infantry Luggage (South Jingzhou)
+|4
+|{{RewardIconWithText|W-Tad, +200}}, Seiryuu Spirit
+|-
+|Yellow Turban Amulet (Ji Zhou)
+|4
+|{{RewardIconWithText|W-Tad, +200}}, {{RewardIconWithText|Offering Speedup, +2h}}
+|-
+|Great Sage Gift (Ji Zhou)
+|2
+|{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Blue Reagent, +40|blue}}
+|-
+|Rattan Casket (Nanzhong)
+|4
+|{{RewardIconWithText|W-Tad, +300}}, Genbu Spirit +1
+|-
+|Barbarian Gift (Nanzhong)
+|3
+|{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Offering Speedup, +2h}}
+|-
+|Nymph of Luo Gift (Luoyang)
+|4
+|{{RewardIconWithText|W-Tad, +400}}, Byakko Spirit +1
+|-
+|Prince Chen's Offering (Luoyang)
+|4
+|{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Gene Speedup, +2h}}
+|-
+|Jingzhou Marine Supply (North Jingzhou)
+|4
+|{{RewardIconWithText|W-Tad, +400}}, Seiryuu Spirit +1
+|-
+|Scholar Sima Gift (North Jingzhou)
+|3
+|{{RewardIconWithText|W-Tad, +300}}, Byakko Spirit +1
+|-
+|Scarecrow Full of Arrows (Red Cliff)
+|3
+|{{RewardIconWithText|W-Tad, +400}}, {{RewardIconWithText|Wood, +2000}}
+|-
+|Du Kang Wine Barrel (Red Cliff)
+|3
+|{{RewardIconWithText|W-Tad, +300}}, Du Kang Wine +50
+|-
+|Qin Terracotta (Chang'an)
+|4
+|{{RewardIconWithLink|Imperial Lamp|blue}} Fragment +10
+|-
+|Horse Riding Bag (Chang'an)
+|4
+|{{RewardIconWithText|W-Tad, +400}}, Suzaku Spirit +1
+|}
+
+==Sky Piercer==
+'''Rewards:''' {{RewardIconWithText|Glue, +150}}, {{RewardIconWithText|Travel Speedup, +2h}}
+
+See [[Gear]] for more
+{| class="wikitable"
+!Event
+|-
+|Craft {{RewardIcon|Wu Scimitar}}[[Gear|<span style="color:#40da25;">Scimitar</span>]]
+|-
+|Craft {{RewardIcon|Ancient Blade}}[[Gear|<span style="color:#22d3d0;">Ancient Blade</span>]]
+|-
+|Craft {{RewardIcon|7-Star Blade}}[[Gear|<span style="color:#ee96d5;">7-Star Blade</span>]]
+|-
+|Craft {{RewardIcon|Couple Swords}}[[Gear|<span style="color:#ffb066;">Couple Swords</span>]]
+|-
+|Craft {{RewardIcon|Sky Piercer}}[[Gear|<span style="color:#f66;">Sky Piercer</span>]]
+|}
+
+==Kidnap for Power==
+'''Rewards:''' {{RewardIconWithText|Blue Reagent, +80|blue}}, Unlock [[Cathay Generals|Cathay Strategist Sima Yi]]
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Emperor Xian's Token (Luoyang)
+|4,350 TECH
+|{{RewardIcon|Intel}}Cathay INTEL +2000, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Emperor Wu's Token (Xuchang)
+|4,450 CIV
+|{{RewardIconWithText|W-Tad, +100}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Prime Minister's Token (Luoyang)
+|4,680 ART
+|{{RewardIconWithText|Offering Speedup, +2h}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Warlord Battle==
+'''Rewards:''' {{RewardIconWithText|Travel Speedup, +2h}}, {{RewardIconWithText|B-Tad, +8k}}
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Brawler Zhang Fei's Token (North Jingzhou)
+|5,100 FAME
+|{{RewardIconWithText|Travel Speedup, +1h}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Faithful Guan Yu's Token (Luoyang)
+|5,640 FAME
+|{{RewardIconWithText|W-Tad, +300}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Politician Liu Bei's Token (Chang'an)
+|6,300 FAME
+|{{RewardIconWithText|Lottery Ticket, +1}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Uphold the Empire==
+'''Rewards:''' {{RewardIconWithLink|Wish Coin, +2|orange}}, Unlock [[Cathay Generals|Cathay General Advisor Zhuge]]
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Life in the Farm (North Jingzhou)
+|5,100 TECH
+|{{RewardIcon|Bronze Bird}}[[Bronze Bird|<span style="color:#22d3d0;">Bronze Bird</span>]] Fragment +3, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Life in the Cabinet (Chengdu)
+|5,250 TECH
+| {{RewardIconWithText|W-Tad, +150}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Life in the Barrack (Luoyang)
+|5,350 CIV
+| {{RewardIcon|Intel}}Cathay INTEL +500, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Advisor Zhuge (Chang'an)
+|Meet with [[Lee Gi-na]]
+| {{RewardIconWithText|W-Tad, +200}},  {{RewardIconWithText|Offering Speedup, +1h}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Tripartite Confrontation==
+'''Rewards:''' {{RewardIconWithText|Blue Reagent, +80|blue}}, {{RewardIconWithText|B-Tad, +5k}}
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Military Map of Wei (Ji Zhou)
+|5,200 ART
+|{{RewardIcon|Bronze Bird}}[[Bronze Bird|<span style="color:#22d3d0;">Bronze Bird</span>]] Fragment +2, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Military Map of Shu (Nanzhong)
+|5,600 ART
+|{{RewardIconWithText|Offering Speedup, +20m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Military Map of Wu (Red Cliff)
+|6,500 CIV
+|{{RewardIconWithText|W-Tad, +150}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Campaign Against Dong Zhuo==
+'''Rewards:''' {{RewardIconWithLink|Cathay Treasure Map, +50}}, {{RewardIconWithText|Offering Speedup, +4h}}
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Politician Yuan Shao's Token (Ji Zhou)
+|5,500 FTH
+|{{RewardIconWithText|W-Tad, +100}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|General Hua's Token (South Jingzhou)
+|5,000 FAME
+|Soul of General Hua, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Politician Sun Ce's Token (Yangzhou)
+|4,700 TECH
+|{{RewardIconWithText|W-Tad, +120}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Politician Niu's Token (Chang'an)
+|4,900 FAME
+|Soul of ?, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==The Game of Cat & Mouse==
+'''Rewards:''' {{RewardIconWithText|Stone, +5000}}, {{RewardIconWithText|Wood, +5000}}
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Wutugu's Surrender Letter (Chengdu)
+|4,200 TECH
+|{{RewardIcon|Intel}}Cathay INTEL +500, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|King Mulu's Surrender Letter (Nanzhong)
+|4,480 CIV
+|{{RewardIconWithText|W-Tad, +150}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Meng Huo's Surrender Letter (Nanzhong)
+|4,730 CIV
+|{{RewardIcon|Bronze Bird}}[[Bronze Bird|<span style="color:#22d3d0;">Bronze Bird</span>]] Fragment+2, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Symbol of Power==
+'''Rewards:''' {{RewardIconWithText|Expert Scroll, +20|purple}}, {{RewardIconWithText|B-Tad, 8k}}
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Bronze Tripod of Wei (Xuchang)
+|4,100 FTH
+|{{RewardIconWithText|Travel Speedup, +30m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Bronze Tripod of Shu (Chengdu)
+|4,200 FTH
+|{{RewardIconWithText|Travel Speedup, +30m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Bronze Tripod of Wu (Yangzhou)
+|4,400 FTH
+|{{RewardIconWithText|Travel Speedup, +30m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Y.T. Bronze Tripod (Youzhou)
+|4,600 FTH
+|{{RewardIconWithText|Travel Speedup, +30m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Army Recruitment Notice==
+'''Rewards:''' {{RewardIcon|Intel}}Cathay Treasure Map +50, {{RewardIconWithLink|Ad Chest, +60}}
+{| class="wikitable"
+!Event
+!Rewards
+|-
+|Watch Yellow Turban ad (Youzhou)
+|{{RewardIconWithLink|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +30m}}
+|-
+|Watch Qingzhou Army ad (Xuchang)
+|{{RewardIconWithLink|Ad Chest, +10}}, {{RewardIconWithText|Glue, +20}}
+|-
+|Watch Ji Zhou Army ad (Ji Zhou)
+|{{RewardIconWithLink|Ad Chest, +10}}, {{RewardIconWithText|B-Tad, +2k}}
+|-
+|Watch Wu Marine ad (Red Cliff)
+|{{RewardIconWithLink|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +30m}}
+|}
+
+==Sheet Music Collector==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +800}}, Partner [[Lee Gi-na]]
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Ancient Sheet Music (Red Cliff)
+|4,800 TECH
+|{{RewardIconWithLink|Expert Scroll, +3|purple}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Hun Sheet Music (Youzhou)
+|4,900 ART
+|{{RewardIconWithText|Travel Speedup, +20m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Sergeant's Sheet Music (Luoyang)
+|4,550 FAME
+|Soul of ?, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Ancient Sage's Tomb==
+'''Rewards:''' {{RewardIconWithLink|Incense|orange}} +1, {{RewardIconWithLink|Cathay Treasure Map}} +50 
+{| class="wikitable"
+!Event
+!Display 1 of
+!Rewards
+|-
+|Saint Yao's Bloodline (Ji Zhou)
+|{{RewardIconWithLink|Maze Diagrams|green}}<br>{{RewardIconWithLink|Pear Basket|green}}<br>{{RewardIconWithLink|Wooden Ox|green}}
+|{{RewardIconWithText|W-Tad}, +100}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Yellow Emperor's Bloodline (South Jingzhou)
+|{{RewardIconWithLink|Bronze Bird|blue}}<br>{{RewardIconWithLink|Imperial Lamp|blue}}<br>{{RewardIconWithLink|Musician Figure|blue}}
+|{{RewardIconWithText|W-Tad, +100}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Nuwa's Bloodline (North Jingzhou)
+|{{RewardIconWithLink|Fuchun Mountains|purple}}<br>{{RewardIconWithLink|Jade Burial Suit|purple}}<br>{{RewardIconWithLink|Marquis Bell|purple}}
+|{{RewardIconWithText|W-Tad, +150}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Fuxi's Bloodline (Xuchang)
+|{{RewardIconWithLink|Buddha's Skull Sarira|orange}}<br>{{RewardIconWithLink|Imperial Jade|orange}}<br>{{RewardIconWithLink|Houmuwu Ding|orange}}
+|{{RewardIconWithText|W-Tad, +100}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Yellow Turban Rebellion==
+'''Rewards:''' {{RewardIconWithText|Gene Speedup, +8h}}, Unlock [[Cathay Generals|Cathay General Master Zuo Ci]]
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Taoist Rune (Youzhou)
+|4,400 TECH
+|{{RewardIconWithText|W-Tad, +100}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Strange Melon Vine (Red Cliff)
+|5,000 TECH
+|{{RewardIconWithLink|Novice Scroll, +5|blue}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Y.T. Soldier's Remain (Youzhou)
+|4800 ART
+|{{RewardIcon|Bronze Bird}}[[Bronze Bird|<span style="color:#22d3d0;">Bronze Bird</span>]] Fragment +2, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Searching for the Deity==
+'''Rewards:''' {{RewardIconWithText|Gene Speedup, +8h}}, Unlock [[Cathay Generals|Cathay General Taoist Yu Ji]]
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Yellow Turban's Amulet (South Jingzhou)
+|4,300 FAME
+|{{RewardIconWithText|Offering Speedup, +30m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Taoist God's Exorcism Charm (Chang'an)
+|5,250 FAME
+|{{RewardIcon|Bronze Bird}}[[Bronze Bird|<span style="color:#22d3d0;">Bronze Bird</span>]] Fragment +3, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Taoist Yu Ji (Yangzhou)
+|?
+|{{RewardIcon|Intel}}Cathay Treasure Map +10, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Cathay]]

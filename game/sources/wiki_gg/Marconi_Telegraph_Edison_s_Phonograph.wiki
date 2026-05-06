@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=113
+|relics=Marconi Telegraph,Edison's Phonograph
+|rank=purple
+|amount=2
+|category=self
+|description=When offering, 2x Order Chest Drops +6%
+}}

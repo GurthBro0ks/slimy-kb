@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Monkey on Vigil
+|class_id=20167
+|rank=Green
+|affct=ART
+|source=
+|description=Although at first glance it is just a statue of a monkey with dark circles, its seemingly simple but exquisite costumes, lifelike facial expressions, and the fineness of each hair express to its audience that it may be a masterpiece from an unknown master craftsman.
+|fame=14
+|art=34
+|fth=13
+|civ=16
+|tech=13
+|ss1=Snail HP +100<br>Per 20 Jinx Points, Snail DEF +1<br>Jinx Points: 600/600
+|ss2=Snail HP +200<br>Per 20 Jinx Points, Snail DEF +2<br>Jinx Points: 600/600
+|ss3=Snail HP +300<br>Per 20 Jinx Points, Snail DEF +3<br>Jinx Points: 600/600
+|ss4=Snail HP +300<br>Per 20 Jinx Points, Snail DEF +3<br>Jinx Points: 600/600
+|ss7=Snail HP +300<br>Per 20 Jinx Points, Snail DEF +3<br>Jinx Points: 600/600<br> (Awakened)
+}}

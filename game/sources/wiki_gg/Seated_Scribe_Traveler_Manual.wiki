@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=11
+|relics=Seated Scribe,Traveler Manual
+|rank=blue
+|amount=2
+|category=self
+|description=Snail ATK +50
+}}

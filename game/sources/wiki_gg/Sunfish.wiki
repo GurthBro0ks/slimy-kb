@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Sunfish
+|rank=purple
+|cabin=2
+|id=62
+|gene1={race} HP +300
+|gene2={race} CIV +30
+|gene3=Per 30 Mutant Minions in battle:
+> Troop HP +80
+|gene4=Gene Simulation Power Checks -0.6%
+|gene5=Per 30 Mutant Minions in battle:
+> Troop HP +120
+|gene6=Gene Simulation Power Checks -0.9%
+|}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=268
+|relics=Pandora's Box,Maya Slate,Arkanrock,True Cross,Royal Celtic Harp
+|rank=orange
+|amount=5
+|category=self
+|description=Soul Offering SPD +4%
+}}

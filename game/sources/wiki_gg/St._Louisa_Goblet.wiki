@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=St. Louisa Goblet
+|class_id=21602
+|rank=SSS
+|affct=ART
+|birthday=01-07
+|source=
+|description=On Jan 7, 1661 AD, a kind of very luxurious goblet was put into production.<br>Right after King Louis XIV of France acceded to the throne, he used royal assets to buy more than 20 glass manufacturers. And one of them was St. Louis. When Louis XV took over the reign, St. Louis was awarded the title of Royal Glassworks. Its exquisite crystal craftsmanship, clarity, and thermal conductivity are superior, but what is most impressive is the crystal luster and its mesmerizing chime. Hand-made glassworks are still their products, and aristocrats from all over the world are proud to own their crystal tableware.
+|fame=79
+|art=109
+|fth=52
+|civ=65
+|tech=57
+|ss1=When in Demon Form:<br>> Gain +3% Demon Cells in explorations<br>Per 60 Demon Minions in battle:<br>> Troop ATK +9<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +9
+|ss2=When in Demon Form:<br>> Gain +4% Demon Cells in explorations<br>Per 60 Demon Minions in battle:<br>> Troop ATK +18<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +18
+|ss3=When in Demon Form:<br>> Gain +5% Demon Cells in explorations<br>Per 60 Demon Minions in battle:<br>> Troop ATK +27<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +27
+|ss4=When in Demon Form:<br>> Gain +7% Demon Cells in explorations<br>Per 60 Demon Minions in battle:<br>> Troop ATK +45<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +45
+|ss5=When in Demon Form:<br>> Gain +9% Demon Cells in explorations<br>Per 60 Demon Minions in battle:<br>> Troop ATK +63<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +63
+|ss6=When in Demon Form:<br>> Gain +12% Demon Cells in explorations<br>Per 60 Demon Minions in battle:<br>> Troop ATK +90<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +90
+|ss7=When in Demon Form:<br>> Gain +12% Demon Cells in explorations<br>Per 60 Demon Minions in battle:<br>> Troop ATK +90<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +90<br>Per 60 Demon Minions in battle:<br>> Troop ATK +90 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Snail DEF +600
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: Medal Output +30
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Zombie Cells gained +30%
+|mirage={{Mirage|name=Set of Cups|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=St. Louisa Bowl|3rec=1.89M|3atk=32224|3defense=21250|3hp=381784|3weak=7427
+|4name=St. Louisa Plate|4rec=3.82M|4atk=48604|4defense=32052|4hp=777598|4weak=10632
+|5name=St. Louisa Pot|5rec=7.25M|5atk=69300|5defense=45700|5hp=1445896|5weak=12613
+|6name=St. Louisa Ashtray|6rec=12.88M|6atk=94424|6defense=62268|6hp=2498540|6weak=15807
+|Arec=27.18M|Aatk=124564|Adefense=82143|Ahp=4265214|Aweak=18344
+}}}}

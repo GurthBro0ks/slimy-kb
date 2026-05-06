@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Heliostat
+|class_id=22493
+|rank=Blue
+|affct=TECH
+|birthday=06-11
+|source=Lottery Machine No.3 (0.06%)
+|description=On Jun 11, 1908 AD, the world's largest Heliostat was installed on the Solar Tower on Kitt Peak in the United States.<br>It is an optical device that reflects the light of the sun or other celestial bodies in a fixed direction, also known as a star telescope. Its function is similar to that of an equatorial telescope, but it uses a flat mirror placed in an equatorial device, which can move in the declination direction. Its main advantage is that it does not require rails and has a simple and compact structure. The incident angle of light changes very little during the tracking process, which is beneficial for measuring the transverse component of the magnetic field on the surface of the sun.
+|fame=27
+|art=22
+|fth=36
+|civ=23
+|tech=46
+|ss1=Per 3 Forest Protomon, Priest-Snail Assistance DMG +16<br>Forest Protomon: 60/60
+|ss2=Per 3 Forest Protomon, Priest-Snail Assistance DMG +32<br>Forest Protomon: 60/60
+|ss3=Per 3 Forest Protomon, Priest-Snail Assistance DMG +48<br>Forest Protomon: 60/60
+|ss4=Per 3 Forest Protomon, Priest-Snail Assistance DMG +80<br>Forest Protomon: 60/60
+|ss7=Per 3 Forest Protomon, Priest-Snail Assistance DMG +80<br>Forest Protomon: 60/60<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, Troop Wind DMG +10
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Jinming Lake Art
+|class_id=20170
+|rank=Green
+|affct=ART
+|source=
+|description=This masterpiece is said to be created by Zhang Zeduan, a painter of the Northern Song Dynasty. It documented the scene of Emperor Taizong viewing the dragon boat race together with his people in Jinming Lake during the Dragon Boat Festival. While the dragon boaters were paddling left and right on the lake, the arch bridge, water hall, and star gate along the lake were bustling with people. This art reproduced the lively scene of the Dragon Boat Festival in the Song Dynasty and truly reflected the society of that time.
+|fame=12
+|art=31
+|fth=16
+|civ=15
+|tech=16
+|ss1=Snail ATK +20<br>Per 10 ART Pistils Used, Snail ATK +1<br>Art Pistils Used: 400/400
+|ss2=Snail ATK +40<br>Per 10 ART Pistils Used, Snail ATK +2<br>Art Pistils Used: 400/400
+|ss3=Snail ATK +60<br>Per 10 ART Pistils Used, Snail ATK +3<br>Art Pistils Used: 400/400
+|ss4=Snail ATK +60<br>Per 10 ART Pistils Used, Snail ATK +3<br>Art Pistils Used: 400/400
+|ss7=Snail ATK +60<br>Per 10 ART Pistils Used, Snail ATK +3<br>Art Pistils Used: 400/400<br> (Awakened)
+}}

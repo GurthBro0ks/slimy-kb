@@ -1,0 +1,56 @@
+{{WIP|this content was released on the 11th of April 2025, as such, we are still gathering information}}
+
+Protomon are mythical creatures you are able to collect as part of the Re-Zero War (colloquially known as "Tribes"). 
+
+Certain Protomon are further classified as "Priests". These Priest Protomon can be assigned to various Sanctums, much like you would embed a relic, in order to gain various buffs. Notably, Priest Protomon will also help in Snail and Minion combat if they have the Guard or Scout traits respectively. When assisting in battle, all of your assigned Priest Protomon will assist every 3 rounds of snail or minion combat. The DMG dealt by your protomon is effected by the enemy's defence.
+
+==Protomania==
+
+Protomania is a series of 3 events that can be triggered while playing Tribes. They events and their triggers are listed below:
+
+* Limited-time recruit event - Obtain 3000 Stele Energy
+* Wild Tour Event - Obtain 3000 Stele Energy
+* World Boss Event - Obtain 6000 Stele Energy
+
+These events are not available during the designated Registration or Rest periods.
+
+==Stele Rewards==
+
+Stele Rewards provide various rewards during Tribal Warfare. The feature can be unlocked for all subsequent Tribal Warfares after completing the "Recruit Guidance". This also results in the Wonder Sage being unlocked. It cannot be unlocked in your first week.
+
+After being unlocked, the Stele Rewards button will be added to the top right of the Slot Machine and will be active henceforth.
+
+While active, each Stele Energy you obtain will grant you 1 point towards your Stele Rewards. Spending money (anywhere in game) can be used to gain additional points. Each lot of rewards will be available for 35 days. After this time has passed, your points will be reset to 0 and a new batch of rewards will be made available.
+
+==Tribal Warfare==
+
+Tribal Warfare will be activated for your dimension once there are at least 20 active clubs. A club is considered "active" if at least one player has spent 6 recruit tokens to register for that week.
+
+Clubs will then compete to use the most recruit tokens in a given week. Most weeks will use a Small Ranking (20 clubs) competing. Every 4 weeks tribal warfare will use a Grand Ranking, this increases the number of competing clubs but also increases the rewards for winning. 
+
+Small Ranking Rewards
+* 1st - Protolith Chest x800
+* 2nd - Protolith Chest x700
+* 3rd - Protolith Chest x600
+* 4th > 20th - Protolith Chest x300
+
+Grand Ranking Rewards
+* 1st - Champion Monument, Orange Trophy Ball, Orange Brand Case x300
+* 2nd - Purple Trophy Ball, Orange Brand Case x300
+* 3rd - Blue Trophy Ball, Orange Brand Case x300
+* 4th > 10th - Orange Brand Case x200
+* 11th > 30th - Orange Brand Case x100
+* 31st > 50th - Purple Brand Case x300
+* 51st > 100th - Purple Brand Case x200
+* 101th+ - Purple Brand Case x100
+
+The Champion Monument will provide buffs to the winning club until the next Grand Ranking
+* Recruitment Harvest Blessing Duration +50%
+* Herd HARD +10% when challenging Neutral Tribes
+* More rewards available in the Tribute Rewards
+
+Players can pay tribute to the winning club once every 3 weeks (e.g. once between each Grand Ranking). This will provide between 40 and 60 tribute points and 30 Blue Stardust. 
+
+Tribute points provide rewards for the whole dimension (with added rewards for the Champions) so its always a good idea to pay tribute. 
+
+Points in Tribal Warfare are based on the number of Active Players in your club and how much has been spent in the past 7 days.

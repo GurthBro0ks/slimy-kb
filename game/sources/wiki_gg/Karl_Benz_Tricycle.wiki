@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Karl Benz Tricycle
+|class_id=22508
+|rank=AA
+|affct=FAME
+|birthday=07-05
+|source=Lottery Machine No.3 (0.12%)
+|description=On Jul 5, 1886 AD, Karl Benz made the world's first single-cylinder engine tricycle car.<br>After years of research and design, Karl Benz manufactured a single-cylinder gasoline engine and installed it on the frame of a tricycle, successfully inventing the first car. At that time, this car had various shortcomings, but Benz's wife bravely tested it herself and drove the car for more than 100 kilometers, verifying its practicality and ultimately contributing to the birth of this great invention.
+|fame=68
+|art=41
+|fth=31
+|civ=45
+|tech=43
+|ss1=Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +48<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +48<br>Epic Protodex Stars: 100/100
+|ss2=Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +72<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +72<br>Epic Protodex Stars: 100/100
+|ss3=Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +96<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +96<br>Epic Protodex Stars: 100/100
+|ss4=Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +144<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +144<br>Epic Protodex Stars: 100/100
+|ss5=Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +192<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +192<br>Epic Protodex Stars: 100/100
+|ss7=Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +192<br>Per 5 Epic Protodex Stars, Priest-Troop Assistance DMG +192<br>Epic Protodex Stars: 100/100<br>Protomon Snail assist DMG + 560 (Awakened)
+|skill1=[[File:Minion Sim skill II.png|50px]]Place in Minion Sims: In Minion Sims, Troop ATK +4.5%
+|skill2=[[File:Minion Sim skill II.png|50px]]Place in Minion Sims: This Relic's FAME +10
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=397
+|relics=Bowl of Hygieia,Penglai Jade Branch
+|rank=purple
+|amount=2
+|category=self
+|description=Snail ATK +60
+}}

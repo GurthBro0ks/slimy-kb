@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Tukyo Film Award
+|class_id=20134
+|rank=Green
+|affct=CIV
+|source=
+|description=Tukyo International Film Festival is the largest Film Festival in Asia. Organized by the Tukyo International Film and Culture Promotion Association, it's dedicated to promoting outstanding Asian and international films every year.
+|fame=19
+|art=12
+|fth=19
+|civ=30
+|tech=10
+|ss1=Event Avatar rating cap raised to SS+<br>W-tads gained from VIP Gem Card +10<br>W-tads gained from VIP Silver Card +10<br>W-tads gained from VIP Gold Card +10
+|ss2=Event Avatar rating cap raised to SS+<br>W-tads gained from VIP Gem Card +20<br>W-tads gained from VIP Silver Card +20<br>W-tads gained from VIP Gold Card +20
+|ss3=Event Avatar rating cap raised to SS+<br>W-tads gained from VIP Gem Card +30<br>W-tads gained from VIP Silver Card +30<br>W-tads gained from VIP Gold Card +30
+|ss4=Event Avatar rating cap raised to SS+<br>W-tads gained from VIP Gem Card +30<br>W-tads gained from VIP Silver Card +30<br>W-tads gained from VIP Gold Card +30
+|ss7=Event Avatar rating cap raised to SS+<br>W-tads gained from VIP Gem Card +30<br>W-tads gained from VIP Silver Card +30<br>W-tads gained from VIP Gold Card +30<br> (Awakened)
+}}

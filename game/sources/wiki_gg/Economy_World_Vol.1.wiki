@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Economy World Vol.1
+|class_id=22118
+|rank=AAA
+|affct=FAME
+|birthday=09-26
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Sept 26, 1843 AD, the first issue of the magazine Economy World was published.<br>The Economy World has been in circulation for 177 years, and its founder aimed to promote intelligence and progress by battling against ignorance. The magazine still adheres to this philosophy, which is printed in each issue and on the official website. Unlike other publications, authors of articles in The Economy World are not credited as the editors believe that the content is more important than the writer. The magazine provides readers with a global perspective, and it is one of the most-read and reliable news sources in the world.
+|fame=71
+|art=45
+|fth=33
+|civ=45
+|tech=49
+|ss1=Zombie Minion RUSH +3%<br>Zombie Minion HARD Stats +0.9%
+|ss2=Zombie Minion RUSH +4%<br>Zombie Minion HARD Stats +1.2%
+|ss3=Zombie Minion RUSH +5%<br>Zombie Minion HARD Stats +1.5%
+|ss4=Zombie Minion RUSH +7%<br>Zombie Minion HARD Stats +2.1%
+|ss5=Zombie Minion RUSH +9%<br>Zombie Minion HARD Stats +2.7%
+|ss7=Zombie Minion RUSH +9%<br>Zombie Minion HARD Stats +2.7%<br>Zombie Minion HARD Stats +2.1% (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x White Card Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, B-tads gained +3%
+}}

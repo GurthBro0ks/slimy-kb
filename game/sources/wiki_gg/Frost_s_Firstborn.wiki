@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Frost's Firstborn
+|rank=blue
+|cabin=2
+|id=14
+|gene1={race} ATK +20
+|gene2={race} ART +20
+|gene3=Quantum Amp Max Cap +3%
+|gene4=Per 10 Demon Minions in battle:
+> Troop ATK +2
+|gene5=Quantum Amp Max Cap +6%
+|}}

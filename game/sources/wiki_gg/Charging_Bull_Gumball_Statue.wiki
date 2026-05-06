@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Charging Bull,Gumball Statue
+|rank=purple
+|amount=2
+|category=self
+|description=Per Supreme Relic gained, Snail HP +1000; Supreme Relics: 20/20
+}}
+[[Category:Self]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Supreme Relics]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Twin Flower
+|class_id=20650
+|rank=Green
+|affct=ART
+|source=
+|description=A princess was locked away for loving the enemy prince. Years later, he conquered her kingdom but his army wanted her dead. They fled by ship, but a storm struck. The prince woke on shore—alone. The princess' body lay beside him, cold. Heartbroken, he held her and died. Where their bodies rested, twin flowers grew. Always apart, until their last breath together.
+|fame=14
+|art=33
+|fth=13
+|civ=14
+|tech=16
+|ss1=Per 100 Minions in battle:<br>> Troop ATK +30<br>Per 100 Minions in battle:<br>> Troop DEF +30
+|ss2=Per 100 Minions in battle:<br>> Troop ATK +30<br>Per 100 Minions in battle:<br>> Troop DEF +30
+|ss3=Per 100 Minions in battle:<br>> Troop ATK +30<br>Per 100 Minions in battle:<br>> Troop DEF +30
+|ss4=Per 100 Minions in battle:<br>> Troop ATK +30<br>Per 100 Minions in battle:<br>> Troop DEF +30
+|ss7=Per 100 Minions in battle:<br>> Troop ATK +30<br>Per 100 Minions in battle:<br>> Troop DEF +30<br> (Awakened)
+}}

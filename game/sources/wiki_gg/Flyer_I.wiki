@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Flyer I
+|rank=Blue
+|affct=TECH
+|birthday=09-11
+|source=Lottery Machine (0.03%), Wishing (1.1%)
+|description=On Sep 11, 1903, the world's first aircraft had a successful test flight.
+
+Wright brothers realized mankind's dream of flying. They built a rudimentary two-winged aircraft for a test flight in North Carolina. In the first test, Flyer 1 only stayed in the sky for 12 seconds, and it traveled only about 30 m. But it proved that the idea of powered aircraft can work. In the following years, people quickly made progress in this area and transformed the way of transportation.
+
+[Wright Test data]
+
+1st flight: 12 s, 36.5 m. 2nd flight: 59 s, 260 m. 3rd flight: 5 minutes, 4.4 km.
+|fame=27
+|art=30
+|fth=27
+|civ=22
+|tech=48
+|ss1=Per 5 Rocket Tech LVLs, Snail RUSH +4<br>Rocket Tech Upgraded: 50/50
+|ss2=Per 5 Rocket Tech LVLs, Snail RUSH +8<br>Rocket Tech Upgraded: 50/50
+|ss3=Per 5 Rocket Tech LVLs, Snail RUSH +12<br>Rocket Tech Upgraded: 50/50
+|ss4=Per 5 Rocket Tech LVLs, Snail RUSH +20<br>Rocket Tech Upgraded: 50/50
+|ss7=Per 5 Rocket Tech LVLs, Snail RUSH +20<br>Rocket Tech Upgraded: 50/50<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Murika skill I.png|50px]]Place in Murikan Museum: In Murika, TECH Checks -5
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:TECH Relics]]
+[[Category:Blue TECH Relics]]
+[[Category:RUSH Boost]]
+[[Category:DEF Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Snail Mech Boost]]
+[[Category:Enhanced by Lottery Draws]]

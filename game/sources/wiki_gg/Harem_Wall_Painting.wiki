@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Harem Wall Painting
+|class_id=22304
+|rank=SS
+|affct=CIV
+|birthday=03-11
+|source=Lottery Machine No.2 (0.42%), Wishing (1.6%)
+|description=On Mar 11, 913 AD, the Harem Wall Painting were completed in the ancient city of Samarra, Iraq.<br>The Harem Wall Painting was discovered in Samarra, a world-famous historical site. It depicts the story of a Turkic soldier who fought alongside the Samarran army and eventually rose to the rank of general. After untold hardships, the soldier followed his tribe from the distant Central Asia to the Tigris and joined the Samarran army. Finally, he won the King's favor for his military efforts. The painting showcases Samarra's military might and its acceptance of diverse cultures.
+|fame=72
+|art=62
+|fth=66
+|civ=102
+|tech=45
+|ss1=Snail DEF +20<br>Refining gives +1 Wormhole Refiner by +2%<br>Per 5 Orange Museum Promos, Snail ATK +2<br>Orange Museum Promos: 250/250
+|ss2=Snail DEF +30<br>Refining gives +1 Wormhole Refiner by +3%<br>Per 5 Orange Museum Promos, Snail ATK +3<br>Orange Museum Promos: 250/250
+|ss3=Snail DEF +40<br>Refining gives +1 Wormhole Refiner by +4%<br>Per 5 Orange Museum Promos, Snail ATK +4<br>Orange Museum Promos: 250/250
+|ss4=Snail DEF +60<br>Refining gives +1 Wormhole Refiner by +6%<br>Per 5 Orange Museum Promos, Snail ATK +6<br>Orange Museum Promos: 250/250
+|ss5=Snail DEF +80<br>Refining gives +1 Wormhole Refiner by +8%<br>Per 5 Orange Museum Promos, Snail ATK +8<br>Orange Museum Promos: 250/250
+|ss6=Snail DEF +110<br>Refining gives +1 Wormhole Refiner by +11%<br>Per 5 Orange Museum Promos, Snail ATK +11<br>Orange Museum Promos: 250/250
+|ss7=Snail DEF +110<br>Refining gives +1 Wormhole Refiner by +11%<br>Per 5 Orange Museum Promos, Snail ATK +11<br>Orange Museum Promos: 250/250<br>Refining gives +1 Wormhole Refiner by +10% (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail RUSH +600
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion RUSH +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+|mirage={{Mirage|name=Saga of Samarra|reward={{RewardIconWithLink|Coating Bucket, +3|orange}}
+|3name=Samarra Soldier|3rec=18.19M|3atk=112027|3defense=74737|3hp=3606061|3weak=18158
+|4name=Samarra General|4rec=35.77M|4atk=141238|4defense=94225|4hp=5668886|4weak=19526
+|5name=Samarra King|5rec=51.90M|5atk=175240|5defense=116910|5hp=8392320|5weak=22095
+|Arec=70.85M|Aatk=215218|Adefense=143581|Ahp=11898068|Aweak=28356
+}}}}

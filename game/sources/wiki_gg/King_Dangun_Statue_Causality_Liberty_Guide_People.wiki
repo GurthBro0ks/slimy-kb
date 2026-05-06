@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=King Dangun Statue,Causality,Liberty Guide People
+|rank=orange
+|amount=3
+|category=home
+|description=The Time Machine has a +16% chance to generate Time Chests
+}}
+[[Category:Home]]

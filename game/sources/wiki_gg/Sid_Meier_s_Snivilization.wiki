@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Sid Meier's Snivilization
+|class_id=20986
+|rank=Green
+|affct=FAME
+|source=
+|description=Guide your species from mud huts to cosmic tyranny! Research "Wheel 2.0", debate "To War or Not to War", and accidentally nuke your allies—all before breakfast. Banned by Earth's Will.[Beter's Note]"One...more...OH SNAIL, time to go to work"
+|fame=30
+|art=18
+|fth=14
+|civ=15
+|tech=13
+|ss1=Snail HP +100<br>Per 10k Relic Points, Snail ATK +2<br>Relic Points: 200000/200000
+|ss2=Snail HP +200<br>Per 10k Relic Points, Snail ATK +4<br>Relic Points: 200000/200000
+|ss3=Snail HP +300<br>Per 10k Relic Points, Snail ATK +6<br>Relic Points: 200000/200000
+|ss4=Snail HP +300<br>Per 10k Relic Points, Snail ATK +6<br>Relic Points: 200000/200000
+|ss7=Snail HP +300<br>Per 10k Relic Points, Snail ATK +6<br>Relic Points: 200000/200000<br> (Awakened)
+}}

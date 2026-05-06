@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Great Auk Fur
+|class_id=20158
+|rank=Green
+|affct=ART
+|source=
+|description=It comes from the long-extinct great auk. Although great auks had been hunted by humans since time immemorial, it was their beautiful feathers that brought doom upon them after they were discovered by navigators in the sixteenth century. This fur, as a proof of their existence, has become a valuable collection.
+|fame=15
+|art=30
+|fth=16
+|civ=16
+|tech=13
+|ss1=Offering Egg hatching rate +3%<br>Per 10 Offering Eggs hatched, Snail RUSH +1<br>400/400 Offering Eggs hatched
+|ss2=Offering Egg hatching rate +3%<br>Per 10 Offering Eggs hatched, Snail RUSH +2<br>400/400 Offering Eggs hatched
+|ss3=Offering Egg hatching rate +3%<br>Per 10 Offering Eggs hatched, Snail RUSH +3<br>400/400 Offering Eggs hatched
+|ss4=Offering Egg hatching rate +3%<br>Per 10 Offering Eggs hatched, Snail RUSH +3<br>400/400 Offering Eggs hatched
+|ss7=Offering Egg hatching rate +3%<br>Per 10 Offering Eggs hatched, Snail RUSH +3<br>400/400 Offering Eggs hatched<br> (Awakened)
+}}

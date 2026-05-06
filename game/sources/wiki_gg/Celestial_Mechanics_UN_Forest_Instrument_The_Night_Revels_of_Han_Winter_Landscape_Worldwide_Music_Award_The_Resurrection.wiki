@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=783
+|relics=Celestial Mechanics,UN Forest Instrument,The Night Revels of Han,Winter Landscape,Worldwide Music Award,The Resurrection
+|rank=orange
+|amount=6
+|category=self
+|description=Mutant Minion HARD Stats +3.6%
+}}

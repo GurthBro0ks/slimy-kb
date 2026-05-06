@@ -1,0 +1,43 @@
+{{CargoRelic
+|name=Africa Star
+|rank=SSS
+|affct=ART
+|birthday=11-03
+|source=* Britland Treasure Maps (0.01%), Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.08%)
+* [[Indigent Nobleman]] (810k {{RewardIconWithText|B-Tad}})
+|description=On Nov 3, 1905, South Africa presented this diamond as a gift to King Edward VII.
+
+The Africa Star is an unparalleled treasure that was presented as a gift to King Edward VII, and was later placed on the solemn and ravishing crown of the British Empire.
+
+[Rough diamond Cullinan]
+
+Cullinan I: Pear-shaped, weighing 530.2 carats, placed in the Sovereign's Sceptre<br>Cullinan II: Square, weighing 317.4 carats. Set in the Crown<br>Cullinan III: Pear-shaped, weighing 94.4 carats. Set in the Crown<br>Cullinan IV: Square, weighing 63.6 carats. Set in the Crown
+|fame=62
+|art=108
+|fth=51
+|civ=72
+|tech=69
+|ss1=Orange Bead draws give +1 Lucky Vouchers by +15%<br>Per 20 Orange Beads drawn, Snail HP +90<br>Per 20 Orange Beads drawn, Snail ATK +9<br>Orange Beads Drawn: 300/300
+|ss2=Orange Bead draws give +1 Lucky Vouchers by +20%<br>Per 20 Orange Beads drawn, Snail HP +110<br>Per 20 Orange Beads drawn, Snail ATK +11<br>Orange Beads Drawn: 300/300
+|ss3=Orange Bead draws give +1 Lucky Vouchers by +25%<br>Per 20 Orange Beads drawn, Snail HP +130<br>Per 20 Orange Beads drawn, Snail ATK +13<br>Orange Beads Drawn: 300/300
+|ss4=Orange Bead draws give +1 Lucky Vouchers by +35%<br>Per 20 Orange Beads drawn, Snail HP +170<br>Per 20 Orange Beads drawn, Snail ATK +17<br>Orange Beads Drawn: 300/300
+|ss5=Orange Bead draws give +1 Lucky Vouchers by +45%<br>Per 20 Orange Beads drawn, Snail HP +210<br>Per 20 Orange Beads drawn, Snail ATK +21<br>Orange Beads Drawn: 300/300
+|ss6=Orange Bead draws give +1 Lucky Vouchers by +60%<br>Per 20 Orange Beads drawn, Snail HP +270<br>Per 20 Orange Beads drawn, Snail ATK +27<br>Orange Beads Drawn: 300/300
+|ss7=Orange Bead draws give +1 Lucky Vouchers by +60%<br>Per 20 Orange Beads drawn, Snail HP +270<br>Per 20 Orange Beads drawn, Snail ATK +27<br>Orange Beads Drawn: 300/300<br>Orange Bead draws give +1 Lucky Vouchers by +50% (Awakened)
+|skill1={{Skills|britland|green reagent|15}}
+|skill2={{Skills|britland|blue reagent|15}}
+|skill3={{Skills|britland|purple reagent|15}}
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Lucky Voucher Boost]]
+[[Category:Lottery Machine Boost]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:RUSH Boost]]
+[[Category:God Descent Boost]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Indigent Nobleman Relics]]

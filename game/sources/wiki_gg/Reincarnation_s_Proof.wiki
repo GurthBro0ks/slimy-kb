@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Reincarnation's Proof
+|class_id=20249
+|rank=Green
+|affct=FAITH
+|source=
+|description=Some unknown entity provided this proof to help the holder reincarnate in various worlds while ensuring its original memory and abilities are retained. Through experiences gained in different worlds, you can maximize your abilities by honing every aspect of your skills. That's why this item is created.
+|fame=15
+|art=15
+|fth=30
+|civ=14
+|tech=16
+|ss1=Snail HP +100
+|ss2=Snail HP +200
+|ss3=Snail HP +300
+|ss4=Snail HP +300
+|ss7=Snail HP +300<br> (Awakened)
+}}

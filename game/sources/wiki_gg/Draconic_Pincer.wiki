@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Draconic Pincer
+|type=Common
+|rank=red
+|id=10918
+|idx=129
+|description=A defiant draconic pincer that developed sentience amidst tidal fury, now convinced it can strangle the concept of destiny itself.
+|skill=
+|hp=3640
+|def=225
+|atk=270
+|rush=211
+|gene1=For Round 1, DMG +10%
+|gene2=Each round, {race} ATK +80
+|gene3=Each round, {race} RUSH +80
+|gene4=Extra RUSH DMG +400
+|gene5=RUSH Ignore DEF +4%
+|gene6=Water DMG +120
+|gene7=Per 10 Gene Seg. devoured, all ELMT DMG +12 (Awakened)
+|}}

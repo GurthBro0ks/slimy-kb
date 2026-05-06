@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Nautilus
+|class_id=21825
+|rank=SSS
+|affct=TECH
+|birthday=10-12
+|source=
+|description=On Oct 12, 1857 AD, the world's first nuclear submarine launched its first sea trial.<br>Nautilus, which was launched for the first time, began its 20,000 mile voyage. Captain Nemo wrote about this magical journey in his autobiography in his later years. It started in the Pacific Ocean and passed through the Indian Ocean, the Mediterranean Sea, the Atlantic Ocean, and the Polar Seas. This journey is regarded as a milestone in sea exploration, and it has opened a new chapter for submarines.
+[Nautilus]
+Mileage: 60,000 nautical miles. Submarine area: 1011.45 square meters. Submarine volume: 1.5 cubic kilometer. Total displacement: 1.5 cubic kilometer.
+|fame=70
+|art=72
+|fth=59
+|civ=54
+|tech=107
+|ss1=Refining gives +1 Wormhole Refiner by +9%<br>Per 5 TECH Relics awakened, Snail HP +60<br>Per 5 TECH Relics awakened, Snail ATK +6<br>TECH Relics Awakened: 100/100
+|ss2=Refining gives +1 Wormhole Refiner by +12%<br>Per 5 TECH Relics awakened, Snail HP +80<br>Per 5 TECH Relics awakened, Snail ATK +8<br>TECH Relics Awakened: 100/100
+|ss3=Refining gives +1 Wormhole Refiner by +15%<br>Per 5 TECH Relics awakened, Snail HP +100<br>Per 5 TECH Relics awakened, Snail ATK +10<br>TECH Relics Awakened: 100/100
+|ss4=Refining gives +1 Wormhole Refiner by +21%<br>Per 5 TECH Relics awakened, Snail HP +140<br>Per 5 TECH Relics awakened, Snail ATK +14<br>TECH Relics Awakened: 100/100
+|ss5=Refining gives +1 Wormhole Refiner by +27%<br>Per 5 TECH Relics awakened, Snail HP +180<br>Per 5 TECH Relics awakened, Snail ATK +18<br>TECH Relics Awakened: 100/100
+|ss6=Refining gives +1 Wormhole Refiner by +36%<br>Per 5 TECH Relics awakened, Snail HP +240<br>Per 5 TECH Relics awakened, Snail ATK +24<br>TECH Relics Awakened: 100/100
+|ss7=Refining gives +1 Wormhole Refiner by +36%<br>Per 5 TECH Relics awakened, Snail HP +240<br>Per 5 TECH Relics awakened, Snail ATK +24<br>TECH Relics Awakened: 100/100<br>Refining gives +1 Wormhole Refiner by +30% (Awakened)
+|skill1=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: This Relic's TECH +15
+|skill2=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, 2x Orange Card Drops +15%
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, Mecha Cells gained +30%
+|mirage={{Mirage|name=Deepsea Helmet|reward={{RewardIconWithLink|Refine Speedup, +28800|orange}}
+|3name=Aronnax|3rec=5.16M|3atk=57456|3defense=37902|3hp=1019796|3weak=11874
+|4name=Conseil|4rec=9.03M|4atk=78065|4defense=51496|4hp=1774658|4weak=13360
+|5name=Ned Land|5rec=15.07M|5atk=102591|5defense=67676|5hp=2884816|5weak=16869
+|6name=Captain Nemo|6rec=30.32M|6atk=131210|6defense=86554|6hp=4600559|6weak=18547
+|Arec=45.95M|Aatk=164553|Adefense=108550|Ahp=6918731|Aweak=19808
+}}}}

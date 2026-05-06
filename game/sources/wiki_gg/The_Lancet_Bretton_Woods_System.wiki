@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Lancet,Bretton Woods System
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Element Circle LVLs, Snail DEF +14; Element Circle LVL: 150/150
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]

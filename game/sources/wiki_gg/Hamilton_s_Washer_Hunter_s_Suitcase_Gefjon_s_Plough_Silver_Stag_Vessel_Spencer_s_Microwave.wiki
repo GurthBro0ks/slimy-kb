@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Hamilton's Washer,Hunter's Suitcase,Gefjon's Plough,Silver Stag Vessel,Spencer's Microwave
+|rank=blue
+|amount=5
+|category=self
+|description=Per 5 Fungus Farm LVLs, Snail HP +240; Fungus Farm LVL: 90/90
+}}
+[[Category:Self]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Fungus Farm LVL]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Clone Genetic Blueprint
+|class_id=20829
+|rank=Green
+|affct=TECH
+|source=
+|description=A blueprint from the Microcosm world, used for creating clones. By referencing the genetic data within, an exact replica of each recorded clone can be recreated, and their shortcomings can be easily deciphered.
+|fame=15
+|art=14
+|fth=12
+|civ=13
+|tech=33
+|ss1=Against the Red Clone: Reduce enemy HARD stats +30%<br>Per 5 Incubator Files fully restored, Snail HP +40<br>Files fully restored: 100/100
+|ss2=Against the Red Clone: Reduce enemy HARD stats +60%<br>Per 5 Incubator Files fully restored, Snail HP +50<br>Files fully restored: 100/100
+|ss3=Against the Red Clone: Reduce enemy HARD stats +90%<br>Per 5 Incubator Files fully restored, Snail HP +60<br>Files fully restored: 100/100
+|ss4=Against the Red Clone: Reduce enemy HARD stats +90%<br>Per 5 Incubator Files fully restored, Snail HP +60<br>Files fully restored: 100/100
+|ss7=Against the Red Clone: Reduce enemy HARD stats +90%<br>Per 5 Incubator Files fully restored, Snail HP +60<br>Files fully restored: 100/100<br> (Awakened)
+}}

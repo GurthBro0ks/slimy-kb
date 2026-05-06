@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Caesar Statue
+|class_id=21622
+|rank=SSS
+|affct=ART
+|birthday=02-24
+|source=
+|description=On Feb 24, 2007 AD, a marble bust of Caesar was discovered in the Rhone of France.<br>Julius Caesar was an outstanding military commander and statesman in the late period of the Roman Republic and is regarded as the founder of the Roman Empire. This sculpture is a bust created on a life-sized scale. The sculpture conveys the anxiety and pressure he faced, with his brows furrowed, and a sad expression on his face, as if he was so worried about the future.
+|fame=71
+|art=108
+|fth=59
+|civ=60
+|tech=64
+|ss1=Snail ATK +30<br>Per Realm conquered, Snail HP +500<br>Per Realm conquered, Snail ATK +50<br>Realms Conquered: 8/8
+|ss2=Snail ATK +40<br>Per Realm conquered, Snail HP +600<br>Per Realm conquered, Snail ATK +60<br>Realms Conquered: 8/8
+|ss3=Snail ATK +50<br>Per Realm conquered, Snail HP +700<br>Per Realm conquered, Snail ATK +70<br>Realms Conquered: 8/8
+|ss4=Snail ATK +70<br>Per Realm conquered, Snail HP +900<br>Per Realm conquered, Snail ATK +90<br>Realms Conquered: 8/8
+|ss5=Snail ATK +90<br>Per Realm conquered, Snail HP +1100<br>Per Realm conquered, Snail ATK +110<br>Realms Conquered: 8/8
+|ss6=Snail ATK +120<br>Per Realm conquered, Snail HP +1400<br>Per Realm conquered, Snail ATK +140<br>Realms Conquered: 8/8
+|ss7=Snail ATK +120<br>Per Realm conquered, Snail HP +1400<br>Per Realm conquered, Snail ATK +140<br>Realms Conquered: 8/8<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x B-tad Drops +15%
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's ART +15
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Snail ATK +600
+|mirage={{Mirage|name=Conqueror|reward={{RewardIconWithLink|Eye of Horus, +1|orange}}
+|3name=Roman Light Infantry|3rec=4.70M|3atk=54581|3defense=35993|3hp=957668|3weak=11638
+|4name=Roman Heavey Infantry|4rec=8.84M|4atk=77187|4defense=50900|4hp=1763117|4weak=13344
+|5name=Roman Cavalry|5rec=15.65M|5atk=104697|5defense=69042|5hp=3051804|5weak=17243
+|6name=Roman Centurion|6rec=33.04M|6atk=137066|6defense=90387|6hp=4981136|6weak=18815
+|Arec=50.96M|Aatk=175281|Adefense=115588|Ahp=8042065|Aweak=20594
+}}}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Cooper's Mobile Phone
+|class_id=22505
+|rank=A
+|affct=FAME
+|birthday=09-27
+|source=Lottery Machine No.3 (0.55%)
+|description=On Sept 27, 1973 AD, the world's first mobile phone completed its first call.<br>Inspired by the TV series Star Trek, Martin Cooper, known as the father of the mobile phone, began his research. This phone was the culmination of his years of research. Although it was very bulky and had a barely tolerable battery life, its birth still had significant significance: it marked the arrival of the wireless communication era.
+|fame=63
+|art=33
+|fth=32
+|civ=43
+|tech=42
+|ss1=Protomon Snail assist DMG + 80<br>Per Hamsters Calculation LVL, Snail ATK +1<br>Hamsters Calculation: 50/50
+|ss2=Protomon Snail assist DMG + 160<br>Per Hamsters Calculation LVL, Snail ATK +2<br>Hamsters Calculation: 50/50
+|ss3=Protomon Snail assist DMG + 240<br>Per Hamsters Calculation LVL, Snail ATK +3<br>Hamsters Calculation: 50/50
+|ss4=Protomon Snail assist DMG + 400<br>Per Hamsters Calculation LVL, Snail ATK +5<br>Hamsters Calculation: 50/50
+|ss5=Protomon Snail assist DMG + 560<br>Per Hamsters Calculation LVL, Snail ATK +7<br>Hamsters Calculation: 50/50
+|ss7=Protomon Snail assist DMG + 560<br>Per Hamsters Calculation LVL, Snail ATK +7<br>Hamsters Calculation: 50/50<br>Protomon Snail assist DMG + 560 (Awakened)
+|skill1=[[File:Murika skill II.png|50px]]Place in Murikan Museum: This Relic's FAME +10
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Reagent Drops +3%
+}}

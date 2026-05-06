@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=234
+|relics=Mahakala Scroll,Phoenix Feather,Gaea's Hand
+|rank=orange
+|amount=3
+|category=self
+|description=When crafting an Orange Reagent, +8% to get +1
+}}

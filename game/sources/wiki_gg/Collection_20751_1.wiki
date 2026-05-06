@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20751_1
+|class_id=20751
+|rank=Green
+|affct=FAITH
+|source=
+|description=collection@20751_2
+|fame=16
+|art=13
+|fth=30
+|civ=20
+|tech=11
+|ss1=Relic Concerting, Orange Reagent cost -10<br>Per Civilization Stele deciphered, Snail ATK +20<br>Civilization Steles deciphered: 3/3
+|ss2=Relic Concerting, Orange Reagent cost -10<br>Per Civilization Stele deciphered, Snail ATK +40<br>Civilization Steles deciphered: 3/3
+|ss3=Relic Concerting, Orange Reagent cost -10<br>Per Civilization Stele deciphered, Snail ATK +60<br>Civilization Steles deciphered: 3/3
+|ss4=Relic Concerting, Orange Reagent cost -10<br>Per Civilization Stele deciphered, Snail ATK +60<br>Civilization Steles deciphered: 3/3
+|ss7=Relic Concerting, Orange Reagent cost -10<br>Per Civilization Stele deciphered, Snail ATK +60<br>Civilization Steles deciphered: 3/3<br> (Awakened)
+}}

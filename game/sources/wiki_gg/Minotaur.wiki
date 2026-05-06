@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Minotaur
+|rank=blue
+|cabin=2
+|id=39
+|gene1={race} DEF +20
+|gene2={race} ART +20
+|gene3=Resolver: 1.5% chance +1 Cultivation Fluid
+|gene4=Per 10 Zombie Minions in battle:
+> Troop DEF +2
+|gene5=Resolver: 3% chance +1 Cultivation Fluid
+|}}

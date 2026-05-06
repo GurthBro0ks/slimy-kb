@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Odyssey Console
+|class_id=22409
+|rank=Blue
+|affct=FAME
+|birthday=07-02
+|source=Lottery Machine No.3 (0.06%)
+|description=On Jul 2, 1972 AD, the Odyssey Console was officially released on the market.<br>21 years prior to the release of this game console, its inventor Bell had envisioned adding gaming functions to the television. However, it took 15 years for his idea to gain recognition, and for research and development to begin. Eventually, the Odyssey game console was created, revolutionizing the highly attractive video game market.
+|fame=44
+|art=22
+|fth=27
+|civ=30
+|tech=31
+|ss1=Per 3 Desert Protomon, Priest-Snail Assistance DMG +16<br>Desert Protomon: 60/60
+|ss2=Per 3 Desert Protomon, Priest-Snail Assistance DMG +32<br>Desert Protomon: 60/60
+|ss3=Per 3 Desert Protomon, Priest-Snail Assistance DMG +48<br>Desert Protomon: 60/60
+|ss4=Per 3 Desert Protomon, Priest-Snail Assistance DMG +80<br>Desert Protomon: 60/60
+|ss7=Per 3 Desert Protomon, Priest-Snail Assistance DMG +80<br>Desert Protomon: 60/60<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, Troop All ELMT DMG +5
+}}

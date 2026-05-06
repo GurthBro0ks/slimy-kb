@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=329
+|relics=Ghanta,Warren Cup
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Zombie Minions in battle: Troop RUSH +5
+}}

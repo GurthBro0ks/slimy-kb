@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Salvator Mundi
+|class_id=22262
+|rank=SSS
+|affct=ART
+|birthday=02-24
+|source=
+|description=On Feb 24, 1501 AD, Leonardo da Vinci completed this famous canvas - the Savior of the World.<br>Salvator Mundi is a painting attributed to Leonardo da Vinci. Although disputes about its authorship still persist, most researchers agree that Leonardo da Vinci, at least, took part in its creation. The painting was lost for many years, but was rediscovered later and sold for a record-breaking $450 million at an auction in 2017. The painting is a fascinating and controversial piece of art history.
+|fame=49
+|art=109
+|fth=65
+|civ=77
+|tech=62
+|ss1=Snail ATK +30<br>Per 10 Wormhole Refines, Snail ATK +3<br>Per 10 Wormhole Refines, Snail RUSH +3<br>Wormhole Refines: 500/500
+|ss2=Snail ATK +40<br>Per 10 Wormhole Refines, Snail ATK +4<br>Per 10 Wormhole Refines, Snail RUSH +4<br>Wormhole Refines: 500/500
+|ss3=Snail ATK +50<br>Per 10 Wormhole Refines, Snail ATK +5<br>Per 10 Wormhole Refines, Snail RUSH +5<br>Wormhole Refines: 500/500
+|ss4=Snail ATK +70<br>Per 10 Wormhole Refines, Snail ATK +7<br>Per 10 Wormhole Refines, Snail RUSH +7<br>Wormhole Refines: 500/500
+|ss5=Snail ATK +90<br>Per 10 Wormhole Refines, Snail ATK +9<br>Per 10 Wormhole Refines, Snail RUSH +9<br>Wormhole Refines: 500/500
+|ss6=Snail ATK +120<br>Per 10 Wormhole Refines, Snail ATK +12<br>Per 10 Wormhole Refines, Snail RUSH +12<br>Wormhole Refines: 500/500
+|ss7=Snail ATK +120<br>Per 10 Wormhole Refines, Snail ATK +12<br>Per 10 Wormhole Refines, Snail RUSH +12<br>Wormhole Refines: 500/500<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: Medal Output +30
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's ART +15
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Demon Cells gained +30%
+|mirage={{Mirage|name=Collectors of Famous Paintings|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Louis XII|3rec=43.57M|3atk=157686|3defense=105199|3hp=6871179|3weak=20586
+|4name=Charles I|4rec=56.51M|4atk=184966|4defense=123398|4hp=9104212|4weak=23048
+|5name=Countess of Dorchester|5rec=70.85M|5atk=215218|5defense=143581|5hp=11898068|5weak=28356
+|6name=Sir Robinson|6rec=86.26M|6atk=247711|6defense=165258|6hp=15261394|6weak=32042
+|Arec=103.45M|Aatk=283955|Adefense=189437|Ahp=19326341|Aweak=35092
+}}}}

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Boy with a Pipe
+|class_id=22657
+|rank=SSS
+|affct=ART
+|birthday=12-29
+|source=Lottery Machine No.3 (0.12%)
+|description=On Dec 29, 1905 AD, Picasso asked Little Louis to be his model and painted this painting.<br>Boy with a Pipe is a representative work of Picasso's Rose Period. The young man in the painting is a Parisian boy named Little Louis who often visited Picasso's studio to play. Picasso used him as a model to create this painting. Little Louis wears a blue work suit, holds a pipe in his left hand, wears a garland on his head, and is surrounded by two large bunches of flowers, giving it a poetic mood that resembles Chinese painting.
+|fame=54
+|art=107
+|fth=68
+|civ=76
+|tech=57
+|ss1=All Demon Minion Skins, HARD Stats +30%<br>Per 5 ART Relics awakened, Snail ATK +9<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +72<br>ART Relics Awakened: 100/100
+|ss2=All Demon Minion Skins, HARD Stats +40%<br>Per 5 ART Relics awakened, Snail ATK +12<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +96<br>ART Relics Awakened: 100/100
+|ss3=All Demon Minion Skins, HARD Stats +50%<br>Per 5 ART Relics awakened, Snail ATK +15<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +120<br>ART Relics Awakened: 100/100
+|ss4=All Demon Minion Skins, HARD Stats +70%<br>Per 5 ART Relics awakened, Snail ATK +21<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +168<br>ART Relics Awakened: 100/100
+|ss5=All Demon Minion Skins, HARD Stats +90%<br>Per 5 ART Relics awakened, Snail ATK +27<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +216<br>ART Relics Awakened: 100/100
+|ss6=All Demon Minion Skins, HARD Stats +120%<br>Per 5 ART Relics awakened, Snail ATK +36<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +288<br>ART Relics Awakened: 100/100
+|ss7=All Demon Minion Skins, HARD Stats +120%<br>Per 5 ART Relics awakened, Snail ATK +36<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +288<br>ART Relics Awakened: 100/100<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Cap +30%
+|skill2=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +30%
+|skill3=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: This Relic's ART +15
+|mirage={{Mirage|name=Boy and Pipe|reward={{RewardIconWithLink|Coating Bucket, +3|orange}}
+|3name=Wooden Pipe Boy|3rec=136.79M|3atk=377515|3defense=236356|3hp=22157816|3weak=38045
+|4name=Boy with An Iron Pipe|4rec=187.10M|4atk=498419|4defense=307130|4hp=35373506|4weak=42060
+|5name=Boy with A Silver Pipe|5rec=266.16M|5atk=668078|5defense=402020|5hp=68036482|5weak=50581
+|6name=Boy with A Golden Pipe|6rec=350.15M|6atk=805286|6defense=477574|6hp=91300493|6weak=53364
+|Arec=452.56M|Aatk=978152|Adefense=569707|Ahp=141210082|Aweak=58053
+}}}}

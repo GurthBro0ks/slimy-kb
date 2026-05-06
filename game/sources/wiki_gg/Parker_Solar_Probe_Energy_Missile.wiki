@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=519
+|relics=Parker Solar Probe,Energy Missile
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Minions in battle: Troop ATK +63
+}}

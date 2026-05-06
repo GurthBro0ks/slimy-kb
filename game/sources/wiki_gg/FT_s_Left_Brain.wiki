@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=FT's Left Brain
+|type=Common
+|rank=orange
+|id=10879
+|idx=86
+|description="…Upon arrival, we found only half of a living brain. The other half had been skewered and grilled by local children… we must admit, the aroma was quite… compelling." 
+—Superbrain Files
+|skill=
+|hp=2676
+|def=200
+|atk=188
+|rush=190
+|gene1=Per 10 Gene Seg. devoured, {race} DEF +5
+Specimen devoured: 400/400
+|gene2=CRIT DMG REDUC +7.5%
+|gene3=In explorations, 2x Card Drops +6%
+|gene4=Per 10 Sim Core LVL, {race} ATK +5
+Sim Core: 500/500
+|gene5=Gaia Rocket Cabin, deployable robots +3
+|gene7=Gaia Rocket Cabin, deployable robots +9 (Awakened)
+|}}

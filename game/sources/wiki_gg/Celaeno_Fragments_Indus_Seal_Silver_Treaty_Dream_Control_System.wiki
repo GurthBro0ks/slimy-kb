@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Celaeno Fragments,Indus Seal,Silver Treaty,Dream Control System
+|rank=purple
+|amount=4
+|category=minion
+|description=Dragon Minion DEF +8%
+}}
+[[Category:Minion]]
+[[Category:Dragon Minion DEF Boost]]

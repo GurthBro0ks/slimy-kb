@@ -1,0 +1,47 @@
+{{Missing Info|specifics=<br>Mirage: 5s, 6s, Awakened}}
+{{CargoRelic
+|name=Nuclear Bomb
+|rank=SSS
+|affct=TECH
+|birthday=05-25
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.07%)
+|description=On Jul 16, 1945 AD, the very first nuclear bomb exploded.
+
+A nuclear bomb derives its power from the nuclear fission of uranium. Its purpose is to cause large-sale radioactive contamination and devastation via photothermal radiation, shockwave, and induced radioactivity. Not only is the energy released massive, but the nuclear reaction only takes microseconds to release energy.
+
+[Basic info]
+
+Length: 2.5 meters
+
+Diameter: 0.61 meters
+
+Weight: 3900 kg
+
+Yield: 15000 tons
+|fame=54
+|art=71
+|fth=63
+|civ=68
+|tech=106
+|ss1=When you defeat Agents, gain +1.5% W-tads<br>Per Realm conquered, Snail ATK +30<br>Per Realm conquered, Snail DEF +30<br>Realms Conquered: 8/8
+|ss2=When you defeat Agents, gain +2% W-tads<br>Per Realm conquered, Snail ATK +40<br>Per Realm conquered, Snail DEF +40<br>Realms Conquered: 8/8
+|ss3=When you defeat Agents, gain +2.5% W-tads<br>Per Realm conquered, Snail ATK +50<br>Per Realm conquered, Snail DEF +50<br>Realms Conquered: 8/8
+|ss4=When you defeat Agents, gain +3.5% W-tads<br>Per Realm conquered, Snail ATK +70<br>Per Realm conquered, Snail DEF +70<br>Realms Conquered: 8/8
+|ss5=When you defeat Agents, gain +4.5% W-tads<br>Per Realm conquered, Snail ATK +90<br>Per Realm conquered, Snail DEF +90<br>Realms Conquered: 8/8
+|ss6=When you defeat Agents, gain +6% W-tads<br>Per Realm conquered, Snail ATK +120<br>Per Realm conquered, Snail DEF +120<br>Realms Conquered: 8/8
+|ss7=When you defeat Agents, gain +6% W-tads<br>Per Realm conquered, Snail ATK +120<br>Per Realm conquered, Snail DEF +120<br>Realms Conquered: 8/8<br>When you defeat agents, gain +5% W-tads (Awakened)
+|skill1=[[File:Murika skill III.png|50x50px]]Place in Murikan Museum: In Murika, Snail ATK +600
+|skill2=[[File:Murika skill III.png|50x50px]]Place in Murikan Museum: In Murika, Snail RUSH +600
+|skill3=[[File:Murika skill III.png|50x50px]]Place in Murikan Museum: In Murika, Mecha Cells gained +15%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Agent Boost]]
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Realm Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:RUSH Boost]]
+[[Category:Mecha Cell Drop Boost]]
+[[Category:Exploration Reagent Drop Boost]]

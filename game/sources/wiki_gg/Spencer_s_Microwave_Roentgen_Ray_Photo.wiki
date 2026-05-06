@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=342
+|relics=Spencer's Microwave,Roentgen Ray Photo
+|rank=blue
+|amount=2
+|category=self
+|description=Free Gene Speedup (Mecha) +30m
+}}

@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=Eye of Chaos
+|type=Bionic
+|rank=red
+|id=10699
+|idx=57
+|description="A pupil born of chaos, perceiving the essence and laws of all things. One day, it shall behold the end of chaos itself… and glimpse the truth of the Void!"
+— Codex Draconis
+|skill=Revive after death, restoring 8.6% of Max HP, and activate a 3-round Bloodthirsty, gaining +10% Lifesteal for each stack of Annihilation the enemy has!
+|hp=2620
+|def=230
+|atk=222
+|rush=354
+|gene1=In Gene Sims, Water DMG +240
+|gene2=In Gene Sims, Wind DMG +240
+|gene3=Per Altar God Descent, {race} ATK +7
+Gods Descended: 30/30
+|gene4=In Gene Sims, Round 1 DMG +20%
+|gene5=In Gene Sims, Ignore DEF +4%
+|gene6=In Gene Sims, DMG +12%
+|gene7=In Gene Sims, DMG +12% (Awakened)
+|}}

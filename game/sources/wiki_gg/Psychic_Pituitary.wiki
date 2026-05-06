@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Psychic Pituitary
+|type=Common
+|rank=orange
+|id=10867
+|idx=74
+|description=The pituitary gland is the most important endocrine gland in the human body, which can produce a variety of hormones. Anatomical studies of superheroes have found that their pituitaries had all undergone huge mutations!
+|skill=
+|hp=1636
+|def=300
+|atk=167
+|rush=214
+|gene1=Fire DMG +90
+|gene2=Wind DMG +90
+|gene3=Per 30 Star Coin redeems, {race} RUSH +70
+Star Coin Redeems: 90/90
+|gene4=Military Merits gives +60 Star Coins
+|gene5=Star Coins from Free Daily Star Coins +6%
+|gene7=Military Merits gives +180 Star Coins (Awakened)
+|}}

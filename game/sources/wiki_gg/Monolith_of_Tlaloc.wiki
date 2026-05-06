@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Monolith of Tlaloc
+|class_id=22557
+|rank=AAA
+|affct=FAITH
+|birthday=11-21
+|source=Lottery Machine No.3 (0.06%)
+|description=On Nov 21, 1964 AD, the Monolith of Tlaloc was moved to Mexico City.<br>Tlaloc, the Aztec rain god, is one of the most worshiped deities of that era, responsible for bringing rain to the human world. The largest monolith in the Americas depicts this deity. It is said to have a mystical power: on the day people transported it to Mexico City, there was suddenly a heavy downpour. Therefore, it is also known as a strange stone that brings rain when moved.
+|fame=40
+|art=47
+|fth=73
+|civ=35
+|tech=48
+|ss1=Per 3 Blue Brand Cases opened, Snail DEF +3<br>Per 3 Blue Brand Cases opened, Snail RUSH +3<br>Blue Brand Cases Opened: 150/150
+|ss2=Per 3 Blue Brand Cases opened, Snail DEF +4<br>Per 3 Blue Brand Cases opened, Snail RUSH +4<br>Blue Brand Cases Opened: 150/150
+|ss3=Per 3 Blue Brand Cases opened, Snail DEF +5<br>Per 3 Blue Brand Cases opened, Snail RUSH +5<br>Blue Brand Cases Opened: 150/150
+|ss4=Per 3 Blue Brand Cases opened, Snail DEF +7<br>Per 3 Blue Brand Cases opened, Snail RUSH +7<br>Blue Brand Cases Opened: 150/150
+|ss5=Per 3 Blue Brand Cases opened, Snail DEF +9<br>Per 3 Blue Brand Cases opened, Snail RUSH +9<br>Blue Brand Cases Opened: 150/150
+|ss7=Per 3 Blue Brand Cases opened, Snail DEF +9<br>Per 3 Blue Brand Cases opened, Snail RUSH +9<br>Blue Brand Cases Opened: 150/150<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Quantumamp  skill II.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +15%
+|skill2=[[File:Quantumamp  skill II.png|50px]]Place in a Quantum Amp: Quantum Amp production +7.5%
+}}

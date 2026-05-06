@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Qilin Arm
+|type=Common
+|rank=purple
+|id=10934
+|idx=65
+|description=This arm was once stained with the divine blood of a Qilin, making it impervious to heat and cold, and invulnerable to weapons! But at midnight, the arm becomes restless...
+|skill=
+|hp=1290
+|def=143
+|atk=209
+|rush=159
+|gene1=Fire DMG +60
+|gene2=Fire RES +60
+|gene3=Each round, {race} ATK +40
+|gene4=Each round, {race} RUSH +40
+|gene7=Fire DMG +3% (Awakened)
+|}}

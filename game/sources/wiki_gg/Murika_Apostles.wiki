@@ -1,0 +1,714 @@
+==Apostles==
+Once an apostle is defeated for the first time, he is considered defeated. Once an apostle is defeated in 3 rounds or less, he is considered "Dominated." Each area has an apostle and occasionally an apostle will have minions who must be defeated first. Once the apostle is Dominated, there are no more fights with that apostle.
+
+After defeating the last apostle of [[Murika]], the next Realm, [[Britland]], is unlocked. Below are the stats for every Murikan apostle and their minions. 
+
+A special feature of this Realm is that alongside being split into individual areas like all Realms, it is also split into the North and South. Therefore, every area has two apostles that must be defeated. 
+
+==Widow in White & Tridentman==
+'''Area:''' Dakata
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|style="background-color:#7de8e6;"|Widow in White
+|18,457
+|16,298
+|99,156
+|HIT +70, Paralysis RES +70%
+|ART 7,290
+|White Bullet, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +100m
+|-
+|style="background-color:#7de8e6;"|''Ethen''
+|17,680
+|15,613
+|97,429
+|HIT +50, Paralysis RES +50%
+|AFFCT 35,570
+|11,40 B-tads, Murika INTEL +420
+|-
+|style="background-color:#7de8e6;"|''Agent B.''
+|17,798
+|15,717
+|97,691
+|HIT +50, Paralysis RES +50%
+|AFFCT 35,724
+|11,40 B-tads, Murika INTEL +420
+|-
+|style="background-color:#7de8e6;"|''Agent N.''
+|17,897
+|15,804
+|97,912
+|HIT +50, Paralysis RES +50%
+|AFFCT 35,855
+|11,40 B-tads, Murika INTEL +420
+|-
+|style="background-color:#f66;"|Tridentman
+|18,635
+|16,456
+|99,550
+|HIT +70, Paralysis RES +70%
+|CIV 7,326
+|White Bullet, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +100m
+|-
+|style="background-color:#f66;"|''Salmon''
+|17,680
+|15,613
+|97,429
+|HIT +50, Paralysis RES +50%
+|AFFCT 35,570
+|11,40 B-tads, Murika INTEL +420
+|-
+|style="background-color:#f66;"|''Beltfish''
+|17,801
+|15,720
+|97,698
+|HIT +50, Paralysis RES +50%
+|AFFCT 35,729
+|11,40 B-tads, Murika INTEL +420
+|-
+|style="background-color:#f66;"|''Clownfish''
+|17,922
+|15,826
+|97,968
+|HIT +50, Paralysis RES +50%
+|AFFCT 35,887
+|11,40 B-tads, Murika INTEL +420
+|-
+|style="background-color:#f66;"|''Squid''
+|18,039
+|15,930
+|98,228
+|HIT +50, Paralysis RES +50%
+|AFFCT 36,021
+|11,40 B-tads, Murika INTEL +420
+|-
+|style="background-color:#f66;"|''Salty Fish''
+|18,209
+|16,079
+|98,605
+|HIT +50, Paralysis RES +50%
+|AFFCT 36,194
+|11,40 B-tads, Murika INTEL +420
+|}
+
+==Rockman & Greenring==
+'''Area:''' Taxas
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|style="background-color:#7de8e6;"|Rockman
+|20,765
+|18,337
+|140,273
+|HIT +70, Paralysis RES +70%
+|TECH 7,829
+|White Bullet, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +100m, Organ Chest +100
+|-
+|style="background-color:#7de8e6;"|''Savage Golem''
+|18,560
+|16,390
+|99,385
+|HIT +50, Paralysis RES +50%
+|AFFCT 36,554
+|1,160 B-tads, Murika INTEL +430
+|-
+|style="background-color:#7de8e6;"|''War Golem''
+|19,032
+|16,806
+|100,428
+|HIT +50, Paralysis RES +50%
+|AFFCT 37,036
+|1,160 B-tads, Murika INTEL +430
+|-
+|style="background-color:#7de8e6;"|''Destroyer Golem''
+|19,503
+|17,223
+|101,466
+|HIT +50, Paralysis RES +50%
+|AFFCT 37,519
+|1,160 B-tads, Murika INTEL +430
+|-
+|style="background-color:#7de8e6;"|''Demon Golem''
+|19,942
+|17,610
+|125,943
+|HIT +50, Paralysis RES +50%
+|AFFCT 38,009
+|1,160 B-tads, Murika INTEL +430
+|-
+|style="background-color:#f66;"|Green Ring
+|21,079
+|18,614
+|145,759
+|HIT +70, Paralysis RES +70%
+|FTH 7,916
+|White Bullet, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +100m
+|}
+
+==Spiderguy & The Whole Circus==
+'''Area:''' Neo-York
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|style="background-color:#7de8e6;"|Spiderguy
+|22,078
+|19,278
+|157,610
+|HIT +70, Paralysis RES +70%
+|ART 8,099
+|White Bullet, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +2h, Organ Chest +100
+|-
+|style="background-color:#7de8e6;"|''Amanda''
+|20,677
+|18,259
+|138,733
+|HIT +50, Paralysis RES +50%
+|AFFCT 39,024
+|1,180 B-tads, Murika INTEL +440
+|-
+|style="background-color:#7de8e6;"|''Anna''
+|20,861
+|18,421
+|141,942
+|HIT +50, Paralysis RES +50%
+|AFFCT 39,278
+|1,180 B-tads, Murika INTEL +440
+|-
+|style="background-color:#7de8e6;"|''Becky''
+|21,045
+|18,584
+|145,154
+|HIT +50, Paralysis RES +50%
+|AFFCT 39,532
+|1,180 B-tads, Murika INTEL +440
+|-
+|style="background-color:#7de8e6;"|''Cecelia''
+|21,155
+|18,681
+|147,083
+|HIT +50, Paralysis RES +50%
+|AFFCT 39,685
+|1,180 B-tads, Murika INTEL +440
+|-
+|style="background-color:#7de8e6;"|''Chloe''
+|21,228
+|18,746
+|148,370
+|HIT +50, Paralysis RES +50%
+|AFFCT 39,786
+|1,180 B-tads, Murika INTEL +440
+|-
+|style="background-color:#7de8e6;"|''Helen''
+|21,296
+|18,762
+|148,692
+|HIT +50, Paralysis RES +50%
+|AFFCT 39,811
+|1,180 B-tads, Murika INTEL +440
+|-
+|style="background-color:#7de8e6;"|''Jessica''
+|21,406
+|18,775
+|148,950
+|HIT +50, Paralysis RES +50%
+|AFFCT 39,832
+|1,180 B-tads, Murika INTEL +440
+|-
+|style="background-color:#f66;"|The Whole Circus
+|21,917
+|19,354
+|158,914
+|HIT +70, Paralysis RES +70%
+|ART 8,119
+|White Bullet, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +2h
+|-
+|style="background-color:#f66;"|''Tiger''
+|21,170
+|18,694
+|147,344
+|HIT +50, Paralysis RES +50%
+|AFFCT 39,705
+|1,180 B-tads, Murika INTEL x440
+|-
+|style="background-color:#f66;"|''Lion''
+|21,415
+|18,910
+|151,299
+|HIT +50, Paralysis RES +50%
+|AFFCT 40,013
+|1,180 B-tads, Murika INTEL x440
+|-
+|style="background-color:#f66;"|''Panda''
+|21,486
+|18,974
+|152,385
+|HIT +50, Paralysis RES +50%
+|AFFCT 40,096
+|1,180 B-tads, Murika INTEL x440
+|-
+|style="background-color:#f66;"|''Rooster''
+|21,585
+|19,061
+|153,880
+|HIT +50, Paralysis RES +50%
+|AFFCT 40,211
+|1,180 B-tads, Murika INTEL x440
+|}
+
+==Locust & Sleuth Doom==
+'''Area:''' Tannessee
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|style="background-color:#7de8e6;"|Locust
+|22,988
+|20,071
+|170,004
+|HIT +70, Paralysis RES +70%
+|TECH 8,285
+|<span style="color:#40da25;">Green Bullet</span>, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup x2h, {{RewardIconWithText|Mutant Nerve Cell}}
+|-
+|style="background-color:#f66;"|Sleuth Doom
+|23,430
+|20,457
+|176,649
+|HIT +70, Paralysis RES +70%
+|CIV 8,387
+|<span style="color:#40da25;">Green Bullet</span>, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup x2h
+|-
+|style="background-color:#f66;"|''Succubus''
+|22,436
+|19,766
+|166,005
+|HIT +50, Paralysis RES +50%
+|AFFCT 41,139
+|1,200 B-tads, Murika INTEL +450
+|-
+|style="background-color:#f66;"|''Belrog''
+|22,667
+|19,881
+|167,986
+|HIT +50, Paralysis RES +50%
+|AFFCT 41,290
+|1,200 B-tads, Murika INTEL +450
+|-
+|style="background-color:#f66;"|''Cerberus''
+|22,868
+|19,968
+|169,490
+|HIT +50, Paralysis RES +50%
+|AFFCT 41,405
+|1,200 B-tads, Murika INTEL +450
+|}
+
+==Thunder Smith & Night Kitty==
+'''Area:''' Washingtone DC
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|style="background-color:#7de8e6;"|Thunder Smith
+|25,888
+|22,953
+|209,472
+|HIT +70, Paralysis RES +70%
+|FTH 8,864
+|<span style="color:#40da25;">Green Bullet</span>, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +140m
+|-
+|style="background-color:#7de8e6;"|''Novice Blacksmith''
+|23,888
+|20,938
+|186,524
+|HIT +50, Paralysis RES +50%
+|AFFCT 42,359
+|1,220 B-tads, Murika INTEL +460
+|-
+|style="background-color:#7de8e6;"|''Novice Blacksmith''
+|24,414
+|21,482
+|193,476
+|HIT +50, Paralysis RES +50%
+|AFFCT 42,860
+|1,220 B-tads, Murika INTEL +460
+|-
+|style="background-color:#7de8e6;"|''Novice Blacksmith''
+|24,939
+|22,028
+|200,394
+|HIT +50, Paralysis RES +50%
+|AFFCT 43,356
+|1,220 B-tads, Murika INTEL +460
+|-
+|style="background-color:#f66;"|Night Kitty
+|26,203
+|23,319
+|210,507
+|HIT +70, Paralysis RES +70%
+|ART 8,908
+|<span style="color:#40da25;">Green Bullet</span>, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +140m, Organ Chest +100
+|-
+|style="background-color:#f66;"|''Gorfield''
+|24,134
+|21,154
+|190,306
+|HIT +50, Paralysis RES +50%
+|AFFCT 42,653
+|1,220 B-tads, Murika INTEL +460
+|-
+|style="background-color:#f66;"|''Tommy''
+|24,658
+|21,697
+|197,235
+|HIT +50, Paralysis RES +50%
+|AFFCT 43,151
+|1,220 B-tads, Murika INTEL +460
+|-
+|style="background-color:#f66;"|''Lunar''
+|25,182
+|22,243
+|304,129
+|HIT +50, Paralysis RES +50%
+|AFFCT 43,644
+|1,220 B-tads, Murika INTEL +460
+|-
+|style="background-color:#f66;"|''Talking Tommy''
+|25,547
+|22,651
+|208,561
+|HIT +50, Paralysis RES +50%
+|AFFCT 43,945
+|1,220 B-tads, Murika INTEL +460
+|}
+
+==Star Child & Amazon Queen==
+'''Area:''' Louisianna
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|style="background-color:#7de8e6;"|Star Child
+|28,111
+|25,201
+|218,931
+|HIT +70, Paralysis RES +70%
+|FAME 9,272
+|<span style="color:#22d3d0;">Blue Bullet</span>, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +150m
+|-
+|style="background-color:#7de8e6;"|''Comet Halley''
+|26,098
+|23,226
+|210,244
+|HIT +50, Paralysis RES +50%
+|AFFCT 44,428
+|1,280 B-tads, Murika INTEL +490
+|-
+|style="background-color:#7de8e6;"|''Comet West''
+|25,798
+|23,936
+|212,247
+|HIT +50, Paralysis RES +50%
+|AFFCT 45,067
+|1,280 B-tads, Murika INTEL +490
+|-
+|style="background-color:#f66;"|Amazon Queen
+|28,953
+|26,233
+|221,825
+|HIT +70, Paralysis RES +70%
+|FTH 9,372
+|<span style="color:#22d3d0;">Blue Bullet</span>, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +150m
+|-
+|style="background-color:#f66;"|''Amazon Warrior''
+|26,401
+|23,582
+|211,251
+|HIT +50, Paralysis RES +50%
+|AFFCT 44,635
+|1,280 B-tads, Murika INTEL +490
+|-
+|style="background-color:#f66;"|''Amazon Warrior''
+|26,616
+|23,861
+|215,130
+|HIT +50, Paralysis RES +50%
+|AFFCT 44,745
+|1,280 B-tads, Murika INTEL +490
+|-
+|style="background-color:#f66;"|''Amazon Warrior''
+|27,034
+|24,322
+|216,445
+|HIT +50, Paralysis RES +50%
+|AFFCT 45,073
+|1,280 B-tads, Murika INTEL +490
+|-
+|style="background-color:#f66;"|''Amaon Warrior''
+|27,556
+|24,881
+|218,026
+|HIT +50, Paralysis RES +50%
+|AFFCT 45,511
+|1,280 B-tads, Murika INTEL +490
+|}
+
+==Alpha Wolf & Master Archer==
+'''Area:''' Michigen
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|style="background-color:#7de8e6;"|Alpha Wolf
+|29,792
+|27,387
+|229,888
+|HIT +70, Paralysis RES +70%
+|FTH 9,496
+|<span style="color:#22d3d0;">Blue Bullet</span>, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +140m, Organ Chest +100
+|-
+|style="background-color:#7de8e6;"|''Shaggy Puppy''
+|28,285
+|25,448
+|219,625
+|HIT +50, Paralysis RES +50%
+|AFFCT 46,417
+|1,240 B-tads, Murika INTEL +470
+|-
+|style="background-color:#7de8e6;"|''Maiden''
+|28,459
+|25,696
+|220,321
+|HIT +50, Paralysis RES +50%
+|AFFCT 46,473
+|1,240 B-tads, Murika INTEL +470
+|-
+|style="background-color:#7de8e6;"|''Sunny''
+|28,634
+|25,944
+|221,017
+|HIT +50, Paralysis RES +50%
+|AFFCT 46,529
+|1,240 B-tads, Murika INTEL +470
+|-
+|style="background-color:#7de8e6;"|''Phantom''
+|28,984
+|26,242
+|221,850
+|HIT +50, Paralysis RES +50%
+|AFFCT 46,640
+|1,240 B-tads, Murika INTEL +470
+|-
+|style="background-color:#f66;"|Master Archer
+|30,304
+|27,857
+|231,217
+|HIT +70, Paralysis RES +70%
+|FTH 9,602
+|<span style="color:#22d3d0;">Blue Bullet</span>, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +140m
+|-
+|style="background-color:#f66;"|''LuLu''
+|29,309
+|26,536
+|222,669
+|HIT +50, Paralysis RES +50%
+|AFFCT 46,977
+|1,240 B-tads, Murika INTEL +470
+|-
+|style="background-color:#f66;"|''Nimeria''
+|29,917
+|27,294
+|224,775
+|HIT +50, Paralysis RES +50%
+|AFFCT 47,608
+|1,240 B-tads, Murika INTEL +470
+|}
+
+==General S. & Blink Stewart==
+'''Area:''' Kalifornia 
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|style="background-color:#7de8e6;"|General S.
+|31,099
+|29,020
+|264,743
+|HIT +70, Paralysis RES +70%
+|ART 9,739
+|<span style="color:#ee96d5;">Purple Bullet</span>, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +140m
+|-
+|style="background-color:#f66;"|Blink Stewart
+|32,771
+|30,580
+|287,201
+|HIT +70, Paralysis RES +70%
+|CIV 10,005
+|<span style="color:#ee96d5;">Purple Bullet</span>, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +140m, {{RewardIconWithText|Mutant Pituitary}}
+|-
+|style="background-color:#f66;"|''South Army 2LT''
+|30,415
+|28,381
+|232,690
+|HIT +50, Paralysis RES +50%
+|AFFCT 48,124
+|1,260 B-tads, Murika INTEL +480
+|-
+|style="background-color:#f66;"|''South Army LT''
+|30,997
+|28,925
+|263,385
+|HIT +50, Paralysis RES +50%
+|AFFCT 48,616
+|1,260 B-tads, Murika INTEL +480
+|-
+|style="background-color:#f66;"|''F2P Grindmaster''
+|31,825
+|29,697
+|274,482
+|HIT +50, Paralysis RES +50%
+|AFFCT 49,273
+|1,260 B-tads, Murika INTEL +480
+|}
+
+==Frost & Dominator==
+'''Area:''' Neo-Mexico
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|style="background-color:#7de8e6;"|Frost
+|33,585
+|31,340
+|304,752
+|HIT +70, Paralysis RES +70%
+|CIV 10,194
+|<span style="color:#ee96d5;">Purple Bullet</span>, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +150m
+|-
+|style="background-color:#7de8e6;"|''Frost's Firstborn''
+|32,054
+|29,911
+|277,562
+|HIT +50, Paralysis RES +50%
+|AFFCT 49,455
+|1,300 B-tads, Murika INTEL +500
+|-
+|style="background-color:#7de8e6;"|''Frost's Secondborn''
+|32,365
+|30,201
+|281,740
+|HIT +50, Paralysis RES +50%
+|AFFCT 49,702
+|1,300 B-tads, Murika INTEL +500
+|-
+|style="background-color:#7de8e6;"|''Frost's Lastborn''
+|32,676
+|30,491
+|285,923
+|HIT +50, Paralysis RES +50%
+|AFFCT 49,949
+|1,300 B-tads, Murika INTEL +500
+|-
+|style="background-color:#f66;"|Dominator
+|33,783
+|31,525
+|309,096
+|HIT +70, Paralysis RES +70%
+|TECH 10,241
+|<span style="color:#ee96d5;">Purple Bullet</span>, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +150m
+|}
+
+==Grant & General Lee==
+'''Area:''' Floridar
+{| class="wikitable"
+!Enemy !! ATK !! DEF !! HP !! Special Stats !! Weakness !! Reward
+|-
+|style="background-color:#7de8e6;"|Grant
+|35,351
+|32,988
+|353,277
+|HIT +70, Paralysis RES +70%
+|TECH 10,610
+|<span style="color:#ffb066;">Orange Bullet</span>, Meal Box Sixe +500, Travel Speedup +160m
+|-
+|style="background-color:#7de8e6;"|''Marine''
+|33,566
+|31,322
+|312,900
+|HIT +50, Paralysis RES +50%
+|AFFCT 51,481
+|1,320 B-tads, Murika INTEL +510
+|-
+|style="background-color:#7de8e6;"|''Phantom Agent''
+|33,760
+|31,503
+|317,275
+|HIT +50, Paralysis RES +50%
+|AFFCT 51,671
+|1,320 B-tads, Murika INTEL +510
+|-
+|style="background-color:#7de8e6;"|''Siege Tank''
+|33,954
+|31,684
+|321,653
+|HIT +50, Paralysis RES +50%
+|AFFCT 51,847
+|1,320 B-tads, Murika INTEL +510
+|-
+|style="background-color:#7de8e6;"|''Heavy Mecha''
+|34,148
+|31,865
+|326,035
+|HIT +50, Paralysis RES +50%
+|AFFCT 52,037
+|1,320 B-tads, Murika INTEL +510
+|-
+|style="background-color:#7de8e6;"|''Battlecruiser''
+|34,342
+|32,046
+|330,420
+|HIT +50, Paralysis RES +50%
+|AFFCT 52,570
+|1,320 B-tads, Murika INTEL +510
+|-
+|style="background-color:#f66;"|General Lee
+|35,351
+|32,988
+|353,277
+|HIT +70, Paralysis RES +70%
+|ART 10,610
+|<span style="color:#ffb066;">Orange Bullet</span>, {{RewardIconWithText|Meal Box Size}} +500, Travel Speedup +160m
+|-
+|style="background-color:#f66;"|''Vampire Bat''
+|33,763
+|31,506
+|317,353
+|HIT +50, Paralysis RES +50%
+|AFFCT 51,767
+|1,320 B-tads, Murika INTEL +510
+|-
+|style="background-color:#f66;"|''Horseshoe Bat''
+|33,963
+|31,692
+|321,850
+|HIT +50, Paralysis RES +50%
+|AFFCT 51,947
+|1,320 B-tads, Murika INTEL +510
+|-
+|style="background-color:#f66;"|''Dog Bat''
+|34,162
+|31,878
+|326,351
+|HIT +50, Paralysis RES +50%
+|AFFCT 52,143
+|1,320 B-tads, Murika INTEL +510
+|-
+|style="background-color:#f66;"|''Fox Bat''
+|34,228
+|31,940
+|327,852
+|HIT +50, Paralysis RES +50%
+|AFFCT 52,315
+|1,320 B-tads, Murika INTEL +510
+|-
+|style="background-color:#f66;"|''Pig Bat''
+|34,361
+|32,064
+|330,855
+|HIT +50, Paralysis RES +50%
+|AFFCT 52,518
+|1,320 B-tads, Murika INTEL +510
+|}

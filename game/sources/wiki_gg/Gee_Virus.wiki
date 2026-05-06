@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Gee Virus
+|class_id=21301
+|rank=AA
+|affct=TECH
+|birthday=01-04
+|source=
+|description=On Jan 4, 2104 AD, a pathogen suddenly emerged and caused a worldwide panic.<br>This pathogen is said to have been created by Demon Gods. In order to fight against Earth's Will, they created a new pathogen based on some existing pathogen. This pathogen was immune to all the antibodies at the time and was known as the perfect pathogen.
+|fame=40
+|art=41
+|fth=42
+|civ=36
+|tech=69
+|ss1=Per 30 Zombie Minions in battle:<br>> Troop HP +40<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +4
+|ss2=Per 30 Zombie Minions in battle:<br>> Troop HP +80<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +8
+|ss3=Per 30 Zombie Minions in battle:<br>> Troop HP +120<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +12
+|ss4=Per 30 Zombie Minions in battle:<br>> Troop HP +200<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +20
+|ss5=Per 30 Zombie Minions in battle:<br>> Troop HP +280<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +28
+|ss7=Per 30 Zombie Minions in battle:<br>> Troop HP +280<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +28<br>Per 30 Zombie Minions in battle:<br>> Troop HP +280 (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: Snail RUSH +30
+|skill2=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: Snail HP +300
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Merlin's Alchemy Stone
+|class_id=20931
+|rank=Green
+|affct=FAME
+|source=
+|description=The prophet Merlin was an excellent student at the Hogton Wizardry School, who hated using various magic spells and preferred to study various magical props. Except for his excellent achievements in alchemy, he failed all other courses. He barely managed to obtain the certificate of completion at the Hogton Wizardry School with the help of the Alchemy Stones he refined...
+|fame=31
+|art=15
+|fth=14
+|civ=15
+|tech=15
+|ss1=The Element Circle produces Arcanium by +1%<br>Per 5 LVLs of Circle broken, Snail +2<br>Circle LVL: 150/150
+|ss2=The Element Circle produces Arcanium by +2%<br>Per 5 LVLs of Circle broken, Snail +4<br>Circle LVL: 150/150
+|ss3=The Element Circle produces Arcanium by +3%<br>Per 5 LVLs of Circle broken, Snail +6<br>Circle LVL: 150/150
+|ss4=The Element Circle produces Arcanium by +3%<br>Per 5 LVLs of Circle broken, Snail +6<br>Circle LVL: 150/150
+|ss7=The Element Circle produces Arcanium by +3%<br>Per 5 LVLs of Circle broken, Snail +6<br>Circle LVL: 150/150<br> (Awakened)
+}}

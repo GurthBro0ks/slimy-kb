@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Atlantis Crystal
+|class_id=22284
+|rank=SSS
+|affct=FTH
+|birthday=12-14
+|source=Lottery Machine No.2 (0.11%), Relic Forge (120 Relic RF), Wishing (0.41%)
+|description=On Dec 14, 1509 BC, the Stone of Atlantis was made to become the most important energy core of this legendary city.<br>Atlantis Crystals, as the central energy system of Atlantis, was once placed in its capital, the Sun Palace. Shaped like a huge transparent hexagonal prism, it absorbs sunlight and converts it into energy. It can also rejuvenate humans and regenerate their bodies, allowing the people of Atlantis to live a carefree life. But it exploded due to an inadvertent operation, shaking the foundation of the earth and directly causing the sinking of the subcontinent of Atlantis.
+|fame=61
+|art=75
+|fth=109
+|civ=51
+|tech=66
+|ss1=Snail ATK +30<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +24%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +24%
+|ss2=Snail ATK +40<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +32%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +32%
+|ss3=Snail ATK +50<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +40%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +40%
+|ss4=Snail ATK +70<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +56%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +56%
+|ss5=Snail ATK +90<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +72%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +72%
+|ss6=Snail ATK +120<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +96%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +96%
+|ss7=Snail ATK +120<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +96%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +96%<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Reagent Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Card Drops +6%
+|mirage={{Mirage|name=Lost kingdom|reward={{RewardIconWithLink|Super Treasure Map, +200|orange}}
+|3name=Atlantean Citizen|3rec=29.41M|3atk=127823|3def=85276|3hp=4687441|3weak=18885
+|4name=Atlantean Soldier|4rec=40.57M|4atk=151352|4def=100973|4hp=6419306|4weak=20043
+|5name=Atlantean Nobleman|5rec=52.80M|5atk=177146|5def=118181|5hp=8483260|5weak=22282
+|6name=King of Atlantis|6rec=66.62M|6atk=206300|6def=137631|6hp=11164109|6weak=26882
+|Arec=82.03M|Aatk=238794|Adef=159309|Ahp=14395080|Aweak=31263
+}}}}
+
+[[Category:ATK Boost]]
+[[Category:Steel Hall Boost]]
+[[Category:Silent Hall Boost]]
+[[Category:Rift Museum Boost]]
+[[Category:Rift Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Wormhole Boost]]
+[[Category:Rebel Rocket Cabin Boost]]

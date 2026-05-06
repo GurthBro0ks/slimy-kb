@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Sowei Mask
+|class_id=22083
+|rank=Blue
+|affct=CIV
+|birthday=03-20
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Mar 20, 1886 AD, the Sowei Mask was collected by a British official.<br>The Sowei mask is a metal headband mask. It is a Sierra Leone ornament for masquerade balls. Besides showing the local people's aesthetics and desire for a good harvest, its style also reflects certain European clothing characteristics. With the arrival of more and more Europeans, the people of Sierra Leone adopted their fashion style and took it as a symbol of social status.
+|fame=30
+|art=29
+|fth=22
+|civ=47
+|tech=26
+|ss1=Per 7 Mutant Gene LVLs, Snail DEF +2<br>Mutant Gene LVLs Researched: 210/210
+|ss2=Per 7 Mutant Gene LVLs, Snail DEF +4<br>Mutant Gene LVLs Researched: 210/210
+|ss3=Per 7 Mutant Gene LVLs, Snail DEF +6<br>Mutant Gene LVLs Researched: 210/210
+|ss4=Per 7 Mutant Gene LVLs, Snail DEF +10<br>Mutant Gene LVLs Researched: 210/210
+|ss7=Per 7 Mutant Gene LVLs, Snail DEF +10<br>Mutant Gene LVLs Researched: 210/210<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, Troop DMG toward heroes +1%
+}}

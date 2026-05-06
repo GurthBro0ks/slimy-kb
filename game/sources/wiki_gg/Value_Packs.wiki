@@ -1,0 +1,522 @@
+{{Missing Info|specifics=<br>'''DNA Value Pack''' - Dragon T8 Cost<br>Normal Incubator Clone Tier (1000) Cost<br>Special Incubator Clone Tier (35) Cost<br>Special Incubator Clone Tier (70) Cost<br>Promote to T6 God Cost<br>Organ Score (150k) Cost}}
+Bonus Packs for progressing through the game. Purchasable with W-Tads.
+
+== Catalysis Value Pack ==
+Found in the [[Catalysis]] Bonus, second tab.
+
+{| class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Complete Catalysis 30 times||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithLink|Fluorite, +8|orange}}<br>{{RewardIconWithLink|Priest Choice Pack, +1|orange}}||1.5k
+|-
+|Complete Catalysis 100 times||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithLink|Fluorite, +8|orange}}<br>{{RewardIconWithLink|Priest Choice Pack, +1|orange}}||1.5k
+|-
+|Complete Catalysis 300 times||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithLink|Fluorite, +16|orange}}<br>{{RewardIconWithLink|Priest Choice Pack, +1|orange}}||3k
+|-
+|Complete Catalysis 600 times||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithLink|Fluorite, +16|orange}}<br>{{RewardIconWithLink|Priest Choice Pack, +1|orange}}||3k
+|-
+|Complete Catalysis 1000 times||{{RewardIconWithText|W-Tad, +2.4k}}<br>{{RewardIconWithLink|Fluorite, +24|orange}}<br>{{RewardIconWithLink|Priest Choice Pack, +2|orange}}||4.5k
+|-
+|Complete Catalysis 2000 times||{{RewardIconWithText|W-Tad, +3k}}<br>{{RewardIconWithLink|Fluorite, +32|orange}}<br>{{RewardIconWithLink|Priest Choice Pack, +3|orange}}||6k
+|}
+
+== Consumer Value Pack ==
+Found in the [[Vending Machine]] Spending Bonus, second tab.
+
+{| class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Consume {{RewardIconWithText|B-Tad}} (500k)||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithLink|Lottery Ticket, +8|orange}}<br>{{RewardIconWithLink|Relic RF, +10|orange}}||1.5k
+|-
+|Consume {{RewardIconWithText|B-Tad}} (1.5M)||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithLink|Lottery Ticket, +16|orange}}<br>{{RewardIconWithLink|Relic RF, +10|orange}}||3k
+|-
+|Consume {{RewardIconWithText|B-Tad}} (3.5M)||{{RewardIconWithText|W-Tad, +2.4k}}<br>{{RewardIconWithLink|Lottery Ticket, +24|orange}}<br>{{RewardIconWithLink|Relic RF, +30|orange}}||4.5k
+|-
+|Consume {{RewardIconWithText|W-Tad}} (50k)||{{RewardIconWithText|W-Tad, +9.6k}}<br>{{RewardIconWithLink|Incense, +10|orange}}<br>{{RewardIconWithText|Whale Power I}}||18k
+|-
+|Consume {{RewardIconWithText|W-Tad}} (500k)||{{RewardIconWithText|W-Tad, +32k}}<br>{{RewardIconWithLink|Incense, +20|orange}}<br>{{RewardIconWithText|Whale Power II}}||60k
+|-
+|Consume {{RewardIconWithText|W-Tad}} (5M)||{{RewardIconWithText|W-Tad, +52k}}<br>{{RewardIconWithLink|Incense, +30|orange}}<br>{{RewardIconWithText|Whale Power III}}||100k
+|-
+|Consume {{RewardIconWithText|W-Tad}} (10M)||{{RewardIconWithText|W-Tad, +52k}}<br>{{RewardIconWithLink|Incense, +30|orange}}<br>{{RewardIconWithText|Whale Power IV}}||100k
+|-
+|Consume {{RewardIconWithText|W-Tad}} (25M)||{{RewardIconWithText|W-Tad, +52k}}<br>{{RewardIconWithLink|Incense, +30|orange}}<br>{{RewardIconWithText|Whale Power V}}||100k
+|-
+|Consume {{RewardIconWithText|W-Tad}} (50M)||{{RewardIconWithText|W-Tad, +52k}}<br>{{RewardIconWithLink|Incense, +30|orange}}<br>{{RewardIconWithText|Whale Power VI}}||100k
+|}
+
+* The {{RewardIconWithText|Whale Power I}} Bubble Frame can be equipped to display a blue text bubble with a W-tad icon at the bottom left while chatting. Owning it also gives the buffs: 
+** Fungus Farm Output +2%
+** Tadpole Pond B-tad Output +2%
+** Time Machine Travel Speedup Output +2%
+
+* The {{RewardIconWithText|Whale Power II}} Bubble Frame can be equipped to display a yellow text bubble with two W-tad icons at the bottom left while chatting. Owning it also gives the buffs:
+** Fungus Farm Output +4%
+** Tadpole Pond B-tad Output +4%
+** Time Machine Travel Speedup Output +4%
+
+* The {{RewardIconWithText|Whale Power III}} Bubble Frame can be equipped to display a pink text bubble with two W-tad icons (one with a crown) at the bottom left while chatting. Owning it also gives the buffs:
+** Fungus Farm Output +6%
+** Tadpole Pond B-tad Output +6%
+** Time Machine Travel Speedup Output +6%
+
+* The {{RewardIconWithText|Whale Power IV}} Bubble Frame can be equipped to display a pink text bubble with two slightly yellow W-tad icons (one with a crown) at the bottom left while chatting. Owning it also gives the buffs:
+** Daily Tribal Output for All Fate Stone +4%
+** Daily Tribal Output for Amber +4%
+** Daily Tribal Output for Followers +4%
+
+* The {{RewardIconWithText|Whale Power V}} Bubble Frame can be equipped to display a pink text bubble with two Rainbow Tadpole icons (one with a crown) at the bottom left while chatting. Owning it also gives the buffs:
+** Daily Tribal Output for All Fate Stone +6%
+** Daily Tribal Output for Amber +6%
+** Daily Tribal Output for Followers +6%
+
+* The {{RewardIconWithText|Whale Power VI}} Bubble Frame can be equipped to display a pink text bubble with two Rainbow Tadpole icons (both with a crown) at the bottom left while chatting. Owning it also gives the buffs:
+** Daily Tribal Output for All Fate Stone +6%
+** Daily Tribal Output for Amber +6%
+** Daily Tribal Output for Followers +6%
+
+== Currency and W-Tad Shop Pack ==
+=== Power Pack ===
+The first Power Pack is revealed at the bottom of the Currency / {{RewardIconWithText|W-Tad}} Shop when you reach 10k Power and is purchasable when you reach 20k Power. Once one is purchased, the other becomes available after the requirements are met. After all four are purchased, the option is removed from the shop. 
+
+{| class="wikitable"
+!Name
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Power Pack I||Available when Power reaches 20k!<br>(Revealed at 10k Power.)||{{RewardIconWithLink|Sword Throne, +20|purple}}<br>{{RewardIconWithText|B-Tad, +60k}}<br>{{RewardIconWithText|Green Reagent, +100|green}}<br>{{RewardIconWithLink|Gear Chest, +200}}<br>{{RewardIconWithText|W-Tad, +1.4k}}||2k
+|-
+|Power Pack II||Available when Power reaches 50k!||{{RewardIconWithLink|Sword Throne, +20|purple}}<br>{{RewardIconWithText|B-Tad, +60k}}<br>{{RewardIconWithText|Green Reagent, +100|green}}<br>{{RewardIconWithLink|Gear Chest, +200}}<br>{{RewardIconWithText|W-Tad, +1.4k}}||2k
+|-
+|Power Pack III||Available when Power reaches 80k!||{{RewardIconWithLink|Sword Throne, +20|purple}}<br>{{RewardIconWithText|B-Tad, +60k}}<br>{{RewardIconWithText|Blue Reagent, +50|blue}}<br>{{RewardIconWithLink|Gear Chest, +200}}<br>{{RewardIconWithText|W-Tad, +1.4k}}||2k
+|-
+|Power Pack IV||Available when Power reaches 120k!||{{RewardIconWithLink|Sword Throne, +20|purple}}<br>{{RewardIconWithText|B-Tad, +60k}}<br>{{RewardIconWithText|Purple Reagent, +30|purple}}<br>{{RewardIconWithLink|Gear Chest, +200}}<br>{{RewardIconWithText|W-Tad, +1.4k}}||2k
+|}
+
+=== Form Evo Pack ===
+The first Form Evo Pack is revealed at the bottom of the Currency / {{RewardIconWithText|W-Tad}} Shop when you unlock 3 different forms for your snail and is available for purchase immediately. Once one is purchased, the other becomes available after the requirements are met. After all four are purchased, the option is removed from the shop. 
+
+{| class="wikitable"
+!Name
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Form Evo Pack I||Unlock 3 forms to buy!<br>(Revealed when 3 forms are unlocked.)||{{RewardIconWithLink|Voynich Manuscript, +20|purple}}<br>{{RewardIconWithText|Gene Speedup, +12h}}<br>{{RewardIconWithText|Green Reagent, +100|green}}<br>{{RewardIconWithLink|Evolution Chest, +300}}<br>{{RewardIconWithText|W-Tad, +2.2k}}||3k
+|-
+|Form Evo Pack II||Unlock 4 forms to buy!||{{RewardIconWithLink|Voynich Manuscript, +20|purple}}<br>{{RewardIconWithText|Gene Speedup, +12h}}<br>{{RewardIconWithText|Green Reagent, +100|green}}<br>{{RewardIconWithLink|Evolution Chest, +300}}<br>{{RewardIconWithText|W-Tad, +2.2k}}||3k
+|-
+|Form Evo Pack III||Unlock 5 forms to buy!||{{RewardIconWithLink|Voynich Manuscript, +20|purple}}<br>{{RewardIconWithText|Gene Speedup, +12h}}<br>{{RewardIconWithText|Blue Reagent, +50|blue}}<br>{{RewardIconWithLink|Evolution Chest, +300}}<br>{{RewardIconWithText|W-Tad, +2.2k}}||3k
+|-
+|Form Evo Pack IV||Unlock 6 forms to buy!||{{RewardIconWithLink|Voynich Manuscript, +20|purple}}<br>{{RewardIconWithText|Gene Speedup, +12h}}<br>{{RewardIconWithText|Purple Reagent, +30|purple}}<br>{{RewardIconWithLink|Evolution Chest, +300}}<br>{{RewardIconWithText|W-Tad, +2.2k}}||3k
+|}
+
+== DNA Value Pack ==
+Found in the [[Evolution|DNA Evolution Module]], Growth Track, DNA Bonus, second tab.
+
+{| class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Angel Form Level (4)||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithLink|Evolution Chest, +500}}<br>{{RewardIconWithText|Gene Speedup, +8h}}||1.6k
+|-
+|Demon Form Level (4)||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithLink|Evolution Chest, +500}}<br>{{RewardIconWithText|Gene Speedup, +8h}}||1.6k
+|-
+|Mecha Form Level (4)||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithLink|Evolution Chest, +500}}<br>{{RewardIconWithText|Gene Speedup, +8h}}||1.6k
+|-
+|Mutant Form Level (4)||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithLink|Evolution Chest, +500}}<br>{{RewardIconWithText|Gene Speedup, +8h}}||1.6k
+|-
+|Zombie Form Level (4)||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithLink|Evolution Chest, +500}}<br>{{RewardIconWithText|Gene Speedup, +8h}}||1.6k
+|-
+|Reach Lv.5 in all forms except the dragon||{{RewardIconWithText|W-Tad, +3k}}<br>{{RewardIconWithLink|Evolution Chest, +1k}}<br>{{RewardIconWithLink|Dragon Evolution Gene}}||5k
+|-
+|Reach Lv.8 in Zombie Form||{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithLink|Evolution Chest, +2.5k}}<br>{{RewardIconWithLink|Rohan's Heart|green}}||12k
+|-
+|Reach Lv.8 in Demon Form||{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithLink|Evolution Chest, +2.5k}}<br>{{RewardIconWithLink|Demonic Spar|green}}||12k
+|-
+|Reach Lv.8 in Angel Form||{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithLink|Evolution Chest, +2.5k}}<br>{{RewardIconWithLink|Wheel of Fate|green}}||12k
+|-
+|Reach Lv.8 in Mutant Form||{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithLink|Evolution Chest, +2.5k}}<br>{{RewardIconWithLink|Source of Black Water|green}}||12k
+|-
+|Reach Lv.8 in Mecha Form||{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithLink|Evolution Chest, +2.5k}}<br>{{RewardIconWithLink|Flier White Iron|green}}||12k
+|-
+|Reach Lv.8 in Dragon Form||{{RewardIconWithText|W-Tad, +30k}}<br>{{RewardIconWithLink|Evolution Chest, +5k}}<br>{{RewardIconWithGearlink|red|War|Shield of Fafnir}}||?
+|}
+
+== [[Fridge]] Value Packs ==
+=== Norm. Incubator Value Pack ===
+Found in the [[Fridge]], Normal Incubator, Clone Bonus (tube at top), second tab.
+
+{|class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Normal Incubator Clone Tier (50)||{{RewardIconWithText|W-Tad, +1.2k}}<br>{{RewardIconWithLink|Cultivation Fluid, +20}}<br>{{RewardIconWithText|Ultra Speed Max, +10 embryos|red}}||2.5k
+|-
+|Normal Incubator Clone Tier (100)||{{RewardIconWithText|W-Tad, +3k}}<br>{{RewardIconWithLink|Cultivation Fluid, +50}}<br>{{RewardIconWithText|Ultra Speed Max, +10 embryos|red}}||6k
+|-
+|Normal Incubator Clone Tier (300)||{{RewardIconWithText|W-Tad, +7k}}<br>{{RewardIconWithLink|Mutation Core, +80|orange}}<br>{{RewardIconWithText|Ultra Speed Max, +20 embryos|red}}||15k
+|-
+|Normal Incubator Clone Tier (1000)||{{RewardIconWithText|W-Tad, +14k}}<br>{{RewardIconWithLink|Super Cultivation Fluid, +10|orange}}<br>{{RewardIconWithText|Ultra Speed Max, +30 embryos|red}}||?
+|}
+
+=== Sp. Incubator Value Pack ===
+Found in the [[Fridge]], Special Incubator, Clone Bonus (tube at top), second tab.
+
+{|class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Special Incubator Clone Tier (5)||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithLink|Cultivation Fluid, +10}}<br>{{RewardIconWithLink|Clone Genetic Blueprint|green}}||1.8k
+|-
+|Special Incubator Clone Tier (15)||{{RewardIconWithText|W-Tad, +2.5k}}<br>{{RewardIconWithLink|Mutation Core, +40|orange}}<br>{{RewardIconWithText|Ultra Speed Max, +10 embryos|red}}||5k
+|-
+|Special Incubator Clone Tier (35)||{{RewardIconWithText|W-Tad, +10k}}<br>{{RewardIconWithLink|Mutation Core, +120|orange}}<br>{{RewardIconWithText|Ultra Speed Max, +20 embryos|red}}||?
+|-
+|Special Incubator Clone Tier (70)||{{RewardIconWithText|W-Tad, +18k}}<br>{{RewardIconWithLink|Super Cultivation Fluid, +15|orange}}<br>{{RewardIconWithText|Ultra Speed Max, +20 embryos|red}}||?
+|}
+
+== Gene Value Pack ==
+Found in the [[Gene Simulation]] Training Bonus, second tab.
+
+{| class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Requires: Angel Ritual IV, Training Lv. 100||{{RewardIconWithText|W-Tad, +400}}<br>{{RewardIconWithText|Angel Cell, +2k}}<br>{{RewardIconGeneSegment|Angel, +5}}||800
+|-
+|Requires: Demon Ritual IV, Training Lv. 100||{{RewardIconWithText|W-Tad, +400}}<br>{{RewardIconWithText|Demon Cell, +2k}}<br>{{RewardIconGeneSegment|Demon, +5}}||800
+|-
+|Requires: Mecha Ritual IV, Training Lv. 100||{{RewardIconWithText|W-Tad, +400}}<br>{{RewardIconWithText|Mecha Cell, +3k}}<br>{{RewardIconGeneSegment|Mecha, +5}}||800
+|-
+|Requires: Mutant Ritual IV, Training Lv. 100||{{RewardIconWithText|W-Tad, +400}}<br>{{RewardIconWithText|Mutant Cell, +2k}}<br>{{RewardIconGeneSegment|Mutant, +5}}||800
+|-
+|Requires: Zombie Ritual IV, Training Lv. 100||{{RewardIconWithText|W-Tad, +400}}<br>{{RewardIconWithText|Zombie Cell, +2k}}<br>{{RewardIconGeneSegment|Zombie, +5}}||800
+|-
+|Requires: Dragon Ritual IV, General Gene Sim Lv. 800||{{RewardIconWithText|W-Tad, +4.8k}}<br>{{RewardIconWithLink|Evolution Chest, +1.5k}}<br>{{RewardIconGeneSegment|Dragon, +5}}||8k
+|-
+|Training Lv. 2000||{{RewardIconWithText|W-Tad, +4.8k}}<br>{{RewardIconWithLink|Evolution Chest, +600}}<br>{{RewardIconWithLink|Dream Control System, +20 Fragments|purple}}||8k
+|-
+|Training Lv. 2600||{{RewardIconWithText|W-Tad, +4.8k}}<br>{{RewardIconWithLink|Evolution Chest, +600}}<br>{{RewardIconWithLink|Dream Control System, +20 Fragments|purple}}||8k
+|-
+|Training Lv. 3200||{{RewardIconWithText|W-Tad, +8k}}<br>{{RewardIconWithLink|Evolution Chest, +1.2k}}<br>{{RewardIconWithLink|Dream Control System, +40 Fragments|purple}}||16k
+|}
+
+== Glory Value Pack ==
+Found in the [[Protomon|Protomon Temple]], Snail Glory, Glory Bonus, second tab.
+
+{| class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Promote to T2 God||{{RewardIconWithText|W-Tad, +1.5k}}<br>{{RewardIconWithLink|Glory Stone|green}}||3k
+|-
+|Promote to T4 God||{{RewardIconWithText|W-Tad, +2.5k}}<br>{{RewardIconWithLink|Glorium, +1k}}<br>{{RewardIconWithLink|Protolith Chest, +500|orange}}||5k
+|-
+|Promote to T6 God||{{RewardIconWithText|W-Tad, +4k}}<br>{{RewardIconWithLink|Glorium, +2k}}<br>{{RewardIconWithLink|Protolith Chest, +1k|orange}}||?
+|}
+
+== Home Value Pack ==
+Found in the [[Home Resources|Home Facility]] in Home Bonus, second tab.
+
+{| class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Upgrade Time Machine to Lv.10||{{RewardIconWithText|W-Tad, +200}}<br>{{RewardIconWithText|B-Tad, +20k}}<br>{{RewardIconWithText|Travel Speedup, +2h}}||400
+|-
+|Upgrade Fungus Farm to Lv.20||{{RewardIconWithText|W-Tad, +500}}<br>{{RewardIconWithText|B-Tad, +50k}}<br>{{RewardIconWonderFungusWithText|Orange|ATK|orange}} +2||800
+|-
+|Upgrade Quarry and Lumber Camp to Lv.25||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithText|B-Tad, +100k}}<br>{{RewardIconWithLink|Tool Chest, +500}}||1.5k
+|-
+|Upgrade Tadpole Pond to Lv.50||{{RewardIconWithText|W-Tad, +26k}}<br>{{RewardIconWonderFungusWithText|Orange|ATK|orange}} +30<br>{{RewardIconWithGearlink|orange|Instrument|B-Tadpole Sword}}||50k
+|}
+
+== Lottery Value Pack ==
+Found in the [[Lottery Machine]] Bonus, second tab.
+
+{| class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Number of Draws (80)||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithLink|Lottery Ticket, +8|orange}}<br>{{RewardIconWithLink|Lucky Voucher, +500}}||1.5k
+|-
+|Number of Draws (150)||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithLink|Lottery Ticket, +16|orange}}<br>{{RewardIconWithLink|Lucky Voucher, +1k}}||3k
+|-
+|Number of Draws (300)||{{RewardIconWithText|W-Tad, +2.4k}}<br>{{RewardIconWithLink|Lottery Ticket, +24|orange}}<br>{{RewardIconWithLink|Lucky Voucher, +1.5k}}||4.5k
+|-
+|Number of Draws (2k)||{{RewardIconWithText|W-Tad, +3k}}<br>{{RewardIconWithLink|Lottery Ticket, +32|orange}}<br>{{RewardIconWithLink|Wish Scroll|green}} (Unlock RNG Test and Blue Wish Reward)||6k
+|-
+|Max RNG Skill > 1,100||{{RewardIconWithText|W-Tad, +777}}<br>{{RewardIconWithLink|Lottery Ticket, +7|orange}}<br>{{RewardIconWithLink|It Takes 5|black|Minigames}}||777
+|-
+|Least RNG Skill < 100||{{RewardIconWithText|W-Tad, +666}}<br>{{RewardIconWithLink|Lottery Ticket, +6|orange}}<br>{{RewardIconWithLink|Snail Flip|black|Minigames}}||666
+|}
+
+== Maneater Value Pack ==
+Found in the [[Fissure]], [[Maneater Plant]],  Feeding Bonus, second tab.
+
+{| class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Feed Sunny Plant Food (50)||{{RewardIconWithLink|Pan|green}}<br>{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithLink|Sunny Plant Food, +6|orange}}||12k
+|-
+|Feed Sunny Plant Food (100)||{{RewardIconWithLink|Sunflowers (Shell)|green}}<br>{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithLink|Sunny Plant Food, +6|orange}}||12k
+|-
+|Feed Sunny Plant Food (150)||{{RewardIconWithLink|Cherry|green}}<br>{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithLink|Sunny Plant Food, +6|orange}}||12k
+|-
+|Feed Sunny Plant Food (200)||{{RewardIconWithLink|Potatain|green}}<br>{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithLink|Sunny Plant Food, +6|orange}}||12k
+|-
+|Feed Sunny Plant Food (250)||{{RewardIconWithLink|Toxic Green Mushroom|green}}<br>{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithLink|Sunny Plant Food, +6|orange}}||12k
+|-
+|Feed Sunny Plant Food (300)||{{RewardIconWithLink|Corn|green}}<br>{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithLink|Sunny Plant Food, +6|orange}}||12k
+|}
+
+== Mutation Value Pack ==
+Found in the [[Evolution|Gene Form]], Evolve, Organ Mutation, Mutation Chance Info (top right corner), Mutation Bonus, second tab.
+
+{| class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Mutation Points (50)||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithLink|Mutantigen, +20|orange}}<br>{{RewardIconWithLink|Species Map}} (Unlocks Species Map)||3k
+|-
+|Mutation Points (150)||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithLink|Mutantigen, +10|orange}}<br>{{RewardIconWithLink|Purple Organ Choice Pack II|purple}}||1.5k
+|-
+|Mutation Points (500)||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithLink|Mutantigen, +20|orange}}<br>{{RewardIconWithLink|Orange Organ Choice Pack II|orange}}||3k
+|-
+|Mutation Points (2k)||{{RewardIconWithText|W-Tad, +2.4k}}<br>{{RewardIconWithLink|Mutantigen, +30|orange}}<br>{{RewardIconWithLink|Red Organ Choice Pack I|red}}||4.5k
+|-
+|Mutation Points (5k)||{{RewardIconWithText|W-Tad, +3.2k}}<br>{{RewardIconWithText|Mutantigen, +40|orange}}<br>{{RewardIconWithLink|Red Organ Choice Pack II|red}}||6k
+|}
+
+== Organ Value Pack ==
+Found in the [[Organs|Snail Organ]], Organ Enhancing, Organ Bonus ({{RewardIconWithLink|Organ Chest|orange}} in top right corner), second tab.
+
+{| class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Organ Score (5k)||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithText|Organ Boost Serum, +20|orange}}<br>{{RewardIconWithLink|Advanced Lab Box, +1|purple}}||1.5k
+|-
+|Organ Score (10k)||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithText|Organ Boost Serum, +10|orange}}<br>{{RewardIconWithLink|Super Gene Mutagen}} (Unlocks Organ Slime Crafting)||3k
+|-
+|Organ Score (50k)||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithText|Organ Boost Serum, +20|orange}}<br>{{RewardIconWithLink|Advanced Lab Box, +1|purple}}||3k
+|-
+|Organ Score (100k)||{{RewardIconWithText|W-Tad, +2.4k}}<br>{{RewardIconWithText|Organ Boost Serum, +30|orange}}<br>{{RewardIconWithLink|Special Lab Box, +1|orange}}||4.5k
+|-
+|Organ Score (150k)||{{RewardIconWithText|W-Tad, +3.2k}}<br>{{RewardIconWithText|Organ Boost Serum, +40|orange}}<br>{{RewardIconWithLink|Special Lab Box, +1|orange}}||?
+|}
+
+== Power Value Pack ==
+Found in the Power screen in Power Bonus, second tab.
+
+{| class="wikitable"
+!Power Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|12k||{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}<br>{{RewardIconWithLink|Fungus Lunch Box}}||600
+|-
+|40k||{{RewardIconWithText|W-Tad, +450}}<br>{{RewardIconWithLink|Lottery Ticket, +4|orange}}<br>{{RewardIconWithLink|Fungus Lunch Box}}||800
+|-
+|100k||{{RewardIconWithText|W-Tad, +1k}}<br>{{RewardIconWithLink|Lottery Ticket, +10|orange}}<br>{{RewardIconWithText|Battle Memory Card}}||2k
+|-
+|1M||{{RewardIconWithText|W-Tad, +2k}}<br>{{RewardIconWithLink|Lottery Ticket, +20|orange}}<br>{{RewardIconWithText|Battle Memory Card}}||4k
+|-
+|1.5M||{{RewardIconWithText|W-Tad, +3k}}<br>{{RewardIconWithLink|Lottery Ticket, +30|orange}}<br>{{RewardIconWithLink|Colorful Fungi}} (Unlocks Fungi Crafting)||6k
+|-
+|2.1M||{{RewardIconWithText|W-Tad, +4.6k}}<br>{{RewardIconWonderFungusWithText|Orange|HP|orange}} +10<br>{{RewardIconWithText|True Power I}}||8k
+|-
+|12M||{{RewardIconWithText|W-Tad, +15.8k}}<br>{{RewardIconWonderFungusWithText|Orange|DEF|orange}} +20<br>{{RewardIconWithText|True Power II}}||30k
+|-
+|40M||{{RewardIconWithText|W-Tad, +26k}}<br>{{RewardIconWonderFungusWithText|Orange|RUSH|orange}} +30<br>{{RewardIconWithText|True Power III}}||50k
+|-
+|70M||{{RewardIconWithText|W-Tad, +46k}}<br>{{RewardIconWonderFungusWithText|Orange|ATK|orange}} +40<br>{{RewardIconWithText|True Power IV}}||80k
+|-
+|100M||{{RewardIconWithText|W-Tad, +68k}}<br>{{RewardIconWithLink|Orange Fungus Choice Pack, +5|orange}}<br>{{RewardIconWithText|True Power V}}||120k
+|}
+
+* {{RewardIconWithText|True Power I}} is an Avatar Frame. Owning it also gives the buffs:
+** Fire DMG +1%
+** Water DMG +1%
+** Earth DMG +1%
+** Wind DMG +1%
+
+* {{RewardIconWithText|True Power II}} is an Avatar Frame. Owning it also gives the buffs:
+** Fire DMG +2%
+** Water DMG +2%
+** Earth DMG +2%
+** Wind DMG +2%
+
+* {{RewardIconWithText|True Power III}} is an Avatar Frame. Owning it also gives the buffs:
+** Fire DMG +3%
+** Water DMG +3%
+** Earth DMG +3%
+** Wind DMG +3%
+
+* {{RewardIconWithText|True Power IV}} is an Avatar Frame. Owning it also gives the buffs:
+** Fire DMG +5%
+** Water DMG +5%
+** Earth DMG +5%
+** Wind DMG +5%
+
+* {{RewardIconWithText|True Power V}} is an Avatar Frame. Owning it also gives the buffs:
+** Fire DMG +8%
+** Water DMG +8%
+** Earth DMG +8%
+** Wind DMG +8%
+
+== Refinement Value Pack ==
+Found in the [[Wormhole]] Bonus, second tab. Unlock Wormhole first.
+
+{| class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Refinements 50||{{RewardIconWithText|W-Tad, +1k}}<br>{{RewardIconWithText|Refine Speedup, +1d}}<br>{{RewardIconWithLink|Wormhole Shard, +1k}}||2k
+|-
+|Refinements 100||{{RewardIconWithText|W-Tad, +3k}}<br>{{RewardIconWithText|Refine Speedup, +3d}}<br>{{RewardIconGeneSegment|Frankenstein, +5}}||6k
+|-
+|Refinements 300||{{RewardIconWithText|W-Tad, +3k}}<br>{{RewardIconWithText|Refine Speedup, +3d}}<br>{{RewardIconGeneSegment|Tracker 2000, +5}}||6k
+|-
+|Use Offering Speedup ?||{{RewardIconWithText|W-Tad, +300}}<br>{{RewardIconWithText|Refine Speedup, +4h}}<br>{{RewardIconWithLink|Glory Extractor|green}}||800
+|-
+|Use Offering Speedup 20,000h||{{RewardIconWithText|W-Tad, +3k}}<br>{{RewardIconWithText|Refine Speedup, +3d}}<br>{{RewardIconWithLink|Power Amplifier|green}}||6k
+|}
+
+== Relic Value Pack ==
+Found in the Relics, Star Trophy, Relic Bonus, second tab.
+
+{| class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Collect Blue Relics (20)||{{RewardIconWithText|W-Tad, +400}}<br>{{RewardIconWithText|B-Tad, +50k}}<br>{{RewardIconWithLink|Novice Alchemy Case, +5|blue}}||800
+|-
+|Collect Purple Relics (20)||{{RewardIconWithText|W-Tad, +650}}<br>{{RewardIconWithText|B-Tad, +75k}}<br>{{RewardIconWithLink|Expert Alchemy Case, +5|purple}}||1.2k
+|-
+|Collect Orange Relics (20)||{{RewardIconWithText|W-Tad, +900}}<br>{{RewardIconWithText|B-Tad, +100k}}<br>{{RewardIconWithLink|Master Alchemy Case, +5|orange}}||1.6k
+|-
+|Collect Orange ART Relics (15)||{{RewardIconWithText|W-Tad, +4.8k}}<br>{{RewardIconWithText|B-Tad, +200k}}<br>{{RewardIconWithLink|ART Master Scroll, +200|orange}}||9k
+|-
+|Collect Orange CIV Relics (15)||{{RewardIconWithText|W-Tad, +4.8k}}<br>{{RewardIconWithText|B-Tad, +200k}}<br>{{RewardIconWithLink|CIV Master Scroll, +200|orange}}||9k
+|-
+|Collect Orange FAME Relics (15)||{{RewardIconWithText|W-Tad, +4.8k}}<br>{{RewardIconWithText|B-Tad, +200k}}<br>{{RewardIconWithLink|FAME Master Scroll, +200|orange}}||9k
+|-
+|Collect Orange FTH Relics (15)||{{RewardIconWithText|W-Tad, +4.8k}}<br>{{RewardIconWithText|B-Tad, +200k}}<br>{{RewardIconWithLink|FTH Master Scroll, +200|orange}}||9k
+|-
+|Collect Orange TECH Relics (15)||{{RewardIconWithText|W-Tad, +4.8k}}<br>{{RewardIconWithText|B-Tad, +200k}}<br>{{RewardIconWithLink|TECH Master Scroll, +200|orange}}||9k
+|-
+|Get Blue Talent Points (80)||{{RewardIconWithText|W-Tad, +600}}<br>{{RewardIconWithText|B-Tad, +100k}}<br>{{RewardIconWithLink|Talent Scrolls}}<br>(Unlocks Collector Talent Preset)||1k
+|-
+|Gem Resonance Reaches Lv. 20||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithText|B-Tad, +120k}}<br>{{RewardIconWithLink|Gemologist Certificate|green}}||3k
+|}
+
+== Rocket Value Pack ==
+Found in the [[Rocket]], Rocket Tech number in top left, Rocket Bonus, second tab.
+
+{|class=wikitable
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Rocket Tech 24k||{{RewardIconWithText|W-Tad, +800}}<br>{{RewardIconWithLink|Wormhole Refiner, +100}}<br>{{RewardIconWithLink|Ion Propulsor|green}}||1.5k
+|-
+|Domain Tech 30k||{{RewardIconWithText|W-Tad, +12k}}<br>{{RewardIconWithLink|Wormhole Refiner, +600}}<br>{{RewardIconWithLink|Smart Box|orange|Rocket#Robots}}||28k
+|-
+|Demon God Tech Pts 40k||{{RewardIconWithText|W-Tad, +12k}}<br>{{RewardIconWithLink|Wormhole Refiner, +600}}<br>{{RewardIconWithLink|Alloy Golem|orange|Rocket#Robots}}||28k
+|-
+|Gaia Tech Pts 40k||{{RewardIconWithText|W-Tad, +12k}}<br>{{RewardIconWithLink|Wormhole Refiner, +600}}<br>{{RewardIconWithLink|King of Platinum|orange|Rocket#Robots}}||28k
+|-
+|Rebel Tech Pts 40k||{{RewardIconWithText|W-Tad, +12k}}<br>{{RewardIconWithLink|Wormhole Refiner, +600}}<br>{{RewardIcon|Chief robot}}{{Relink|Chief|orange|Rocket#Robots}}||28k
+|}
+
+== Sim Value Pack ==
+Found in [[Minion Sim]], General, Minion Sim Ranking, Sim Bonus, second tab.
+
+{|class=wikitable
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Have 200 Sim Points||{{RewardIconWithGearlink|blue|War|Spectral Whip}}<br>{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithText|Sim Token, +1.2k}}||12k
+|-
+|Have 240 Sim Points||{{RewardIconWithGearlink|blue|War|Cowhide Boots}}<br>{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithText|Sim Token, +1.2k}}||12k
+|-
+|Have 280 Sim Points||{{RewardIconWithGearlink|purple|War|Crimson Cloak}}<br>{{RewardIconWithText|W-Tad, +12k}}<br>{{RewardIconWithText|Sim Token, +2.4k}}||24k
+|-
+|Have 320 Sim Points||{{RewardIconWithGearlink|orange|War|Fang Necklace}}<br>{{RewardIconWithText|W-Tad, +25k}}<br>{{RewardIconWithText|Sim Token, +5k}}||50k
+|-
+|Have 600 Sim Points||{{RewardIconWithLink|SWG-T7 Fuel|green}}<br>{{RewardIconWithText|W-Tad, +1k}}<br>{{RewardIconWithText|Sim Token, +200}}||2k
+|}
+
+== Training Value Pack ==
+Found in [[Club]], Species War Affairs, Vet Training, Training Courses, Training Bonus, second tab.
+
+{|class=wikitable
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Training Points 30||{{RewardIconWithGearlink|purple|War|Raider Armor}}<br>{{RewardIconWithText|W-Tad, +4k}}<br>{{RewardIconWithLink|Club Chest, +800}}||8k
+|-
+|Training Points 70||{{RewardIconWithLink|Legendary Warrior Manual|green}}<br>{{RewardIconWithText|W-Tad, +5k}}<br>{{RewardIconWithLink|Club Chest, +1k}}||10k
+|-
+|Training Points 100||{{RewardIconWithGearlink|purple|War|Commander Armor}}<br>{{RewardIconWithText|W-Tad, +6k}}<br>{{RewardIconWithLink|Club Chest, +1.2k}}||12k
+|-
+|Training Points 280||{{RewardIconWithGearlink|orange|War|HULC 01}}<br>{{RewardIconWithText|W-Tad, +15k}}<br>{{RewardIconWithLink|Club Chest, +3k}}||30k
+|}
+
+== Traveler Map Value Pack ==
+Found in [[Species Map]], [[Traveler Map]], Map Bonus, second tab.
+
+{|class=wikitable
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|Species Map Total Score 30||{{RewardIconWithText|W-Tad, +1.8k}}<br>{{RewardIconWithText|Blue Super Species Seq., +3|blue}}<br>{{RewardIconWithLink|Color Order Capsule}} (Unlocks Species Sequence Crafting)||3k
+|-
+|Species Map Total Score 60||{{RewardIconWithText|W-Tad, +3k}}<br>{{RewardIconWithText|Purple Super Species Seq., +2|purple}}<br>{{RewardIconWithLink|Super Memetic Chest, +100}}||5k
+|-
+|Species Map Total Score 80||{{RewardIconWithText|W-Tad, +4.8k}}<br>{{RewardIconWithText|Purple Super Species Seq., +3|purple}}<br>{{RewardIconWithLink|Super Memetic Chest, +200}}||8k
+|}
+
+== Wishing Value Pack ==
+Found in the [[Alchemy Furnace]] Wish Bonus, second tab.
+
+{| class="wikitable"
+!Requirement
+!Rewards
+!Cost in<br>{{RewardIconWithText|W-Tad}}
+|-
+|ART Wish (200)||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithLink|Wish Coin, +5|orange}}<br>{{RewardIconWithLink|Grandmaster Scroll, +40|orange}}||3k
+|-
+|TECH Wish (200)||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithLink|Wish Coin, +5|orange}}<br>{{RewardIconWithLink|Grandmaster Scroll, +40|orange}}||3k
+|-
+|FAME Wish (200)||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithLink|Wish Coin, +5|orange}}<br>{{RewardIconWithLink|Grandmaster Scroll, +40|orange}}||3k
+|-
+|FTH Wish (200)||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithLink|Wish Coin, +5|orange}}<br>{{RewardIconWithLink|Grandmaster Scroll, +40|orange}}||3k
+|-
+|CIV Wish (200)||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithLink|Wish Coin, +5|orange}}<br>{{RewardIconWithLink|Grandmaster Scroll, +40|orange}}||3k
+|-
+|Making Wishes at Alchemy Furnace (500)||{{RewardIconWithText|W-Tad, +1.6k}}<br>{{RewardIconWithLink|Wish Coin, +8|orange}}<br>{{RewardIconWithText|Bone Coldfire, +10}} {{Retext|(After devouring, one of Snail's HARD/AFFCT permanently +1)|blue}}||3k
+|}

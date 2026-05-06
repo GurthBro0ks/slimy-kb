@@ -1,0 +1,23 @@
+{{CargoOrgan
+|name=Lionheart King
+|type=Bionic
+|rank=red
+|id=10710
+|idx=68
+|description="High on a crag, the Lion King gazes upon the endless steppe — bloodied but unbowed. His kingdom stands vast, and his subjects watch in reverent silence." — Chronicles of the Griffon
+|skill=Possessed by the Lionheart Soul, dealing DMG equal to 196% of ATK, and increase next RUSH DMG by 50%!
+|hp=2110
+|def=284
+|atk=358
+|rush=217
+|gene1=Stonehide RES +4%
+|gene2=Healing +12%
+|gene3=Per 200 Lotteries drawn, {race} RUSH +7
+Lotteries Drawn: 10000/10000
+|gene4=Per 200 Lotteries drawn, {race} ATK +7
+Lotteries Drawn: 10000/10000
+|gene5=Per 200 Lotteries drawn, {race} DEF +7
+Lotteries Drawn: 10000/10000
+|gene6=Paralyze enemy by +4%
+|gene7=Healing +12% (Awakened)
+|}}

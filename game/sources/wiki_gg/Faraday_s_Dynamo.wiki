@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Faraday's Dynamo
+|rank=Blue
+|affct=TECH
+|birthday=12-18
+|source=* Lottery Machine (0.07%), Novice Scrolls (1%), Tool Chest (2%), Wishing (2.6%)
+* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})
+* [[Jiro Toyato]] - [[Rare Rent]]
+|description=On Dec 18, 1831, Faraday invented the world's first electric generator.
+
+Through electromagnetic induction, Faraday made a homopolar generator. Its mechanism is different from modern power generators. It does not contain a coil but a copper disc that rotates in the magnetic field. It has a handle fixed at the center of the disc. The edge and center of the disc are connected to a brush which connects it to the ammeter with a wire. The copper disc is placed in the magnetic field of the hoof-shaped magnet, which generates a current when the copper disc is rotated.
+|fame=19
+|art=33
+|fth=28
+|civ=29
+|tech=45
+|ss1=Per 30 Fissure LVLs, Snail DEF +1<br>Fissure LVL: 1,200/1,200
+|ss2=Per 30 Fissure LVLs, Snail DEF +2<br>Fissure LVL: 1,200/1,200
+|ss3=Per 30 Fissure LVLs, Snail DEF +3<br>Fissure LVL: 1,200/1,200
+|ss4=Per 30 Fissure LVLs, Snail DEF +5<br>Fissure LVL: 1,200/1,200
+|ss7=Per 30 Fissure LVLs, Snail DEF +5<br>Fissure LVL: 1,200/1,200<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Timemachine skill I.png|50px]]Place in Time Machine: This Relic's TECH +5
+}}
+
+[[Category:DEF Boost]]
+[[Category:Fissure Boost]]
+[[Category:Time Machine Skill]]
+[[Category:TECH Boost]]
+[[Category:Angel Gene Speedup Boost]]
+[[Category:Lottery Bead Color Change]]
+[[Category:Indigent Nobleman Relics]]

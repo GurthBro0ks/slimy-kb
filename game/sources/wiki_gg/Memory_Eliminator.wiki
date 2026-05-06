@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Memory Eliminator
+|class_id=21950
+|rank=AAA
+|affct=TECH
+|source=
+|description=Memory eliminator, similar in appearance to a flashlight or camera, can erase human memory. The working principle of a memory eliminator is to emit a flash of light. When this flash hits the target's eyes, it triggers a specific neural response in the brain, erasing the target's most recent memory. This process is almost instantaneous, and individuals whose memories have been erased will not realize that their memories have been tampered with. They will only feel a slight dizziness, and then everything will go as usual.
+|fame=47
+|art=38
+|fth=46
+|civ=39
+|tech=73
+|ss1=Mecha Minion HP +3%<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +72<br>Mythic Protodex Stars: 100/100
+|ss2=Mecha Minion HP +4%<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +96<br>Mythic Protodex Stars: 100/100
+|ss3=Mecha Minion HP +5%<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +120<br>Mythic Protodex Stars: 100/100
+|ss4=Mecha Minion HP +7%<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +168<br>Mythic Protodex Stars: 100/100
+|ss5=Mecha Minion HP +9%<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +216<br>Mythic Protodex Stars: 100/100
+|ss7=Mecha Minion HP +9%<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +216<br>Mythic Protodex Stars: 100/100<br>Protomon Snail assist DMG + 560 (Awakened)
+|skill1=[[File:Murika skill II.png|50px]]Place in Murikan Museum: This Relic's CIV +10
+|skill2=[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x B-tad Drops +7.5%
+}}

@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Classic of Poetry
+|class_id=21338
+|rank=SSS
+|affct=CIV
+|source=
+|description=A foundational Confucian classic with 305 poems from Zhou-era China. Divided into Feng (folk songs), Ya (court odes), and Song (ritual hymns). It pioneered poetic devices like "fu, bi, xing" and emphasized emotional nuance. Praised by Confucius, it influenced East Asian literature for over two millennia.
+|fame=73
+|art=71
+|fth=63
+|civ=109
+|tech=46
+|ss1=Snail ATK +30<br>Per Grandmaster Scroll used, Snail DEF +3<br>Per Grandmaster Scroll used, Snail RUSH +3<br>Grandmaster Scrolls Used: 50/50
+|ss2=Snail ATK +40<br>Per Grandmaster Scroll used, Snail DEF +4<br>Per Grandmaster Scroll used, Snail RUSH +4<br>Grandmaster Scrolls Used: 50/50
+|ss3=Snail ATK +50<br>Per Grandmaster Scroll used, Snail DEF +5<br>Per Grandmaster Scroll used, Snail RUSH +5<br>Grandmaster Scrolls Used: 50/50
+|ss4=Snail ATK +70<br>Per Grandmaster Scroll used, Snail DEF +7<br>Per Grandmaster Scroll used, Snail RUSH +7<br>Grandmaster Scrolls Used: 50/50
+|ss5=Snail ATK +90<br>Per Grandmaster Scroll used, Snail DEF +9<br>Per Grandmaster Scroll used, Snail RUSH +9<br>Grandmaster Scrolls Used: 50/50
+|ss6=Snail ATK +120<br>Per Grandmaster Scroll used, Snail DEF +12<br>Per Grandmaster Scroll used, Snail RUSH +12<br>Grandmaster Scrolls Used: 50/50
+|ss7=Snail ATK +120<br>Per Grandmaster Scroll used, Snail DEF +12<br>Per Grandmaster Scroll used, Snail RUSH +12<br>Grandmaster Scrolls Used: 50/50<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +120 each round
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, CRIT DMG +30%
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: This Relic's CIV +15
+|mirage={{Mirage|name=dungeon@21338_1|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Wind|3rec=0.62M|3atk=15025|3defense=10002|3hp=73001|3weak=3891
+|4name=dungeon_event@4622_1|4rec=1.35M|4atk=25882|4defense=17204|4hp=247749|4weak=5988
+|5name=dungeon_event@4623_1|5rec=2.77M|5atk=40064|5defense=26641|5hp=536586|5weak=9160
+|6name=dungeon_event@4624_1|6rec=5.34M|6atk=58207|6defense=38666|6hp=1039822|6weak=11966
+|Arec=9.73M|Aatk=80652|Adefense=53613|Ahp=1856273|Aweak=13610
+}}}}

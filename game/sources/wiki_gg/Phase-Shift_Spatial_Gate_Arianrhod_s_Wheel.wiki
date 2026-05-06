@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=868
+|relics=Phase-Shift Spatial Gate,Arianrhod's Wheel
+|rank=orange
+|amount=2
+|category=self
+|description=Protomon Snail assist DMG + 560
+}}

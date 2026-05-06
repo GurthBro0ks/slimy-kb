@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The Berlin Wall
+|class_id=21035
+|rank=SSS
+|affct=FAME
+|source=
+|description=A concrete scar of the Cold War, this divided city's spine became a global symbol of oppression and hope. Its fall marked not just reunification but humanity's defiant answer to ideological barricades. Today, graffiti-covered fragments scattered worldwide serve as stark reminders: walls rise, but they always fall.
+|fame=108
+|art=59
+|fth=54
+|civ=72
+|tech=69
+|ss1=Snail Leadership +3<br>Per 200 Maneater Pistils used, Priest-Snail Assistance DMG +24<br>Per 200 Maneater Pistils used, Snail Primeval Power +3<br>Maneater Pistil(s) used: 12000/12000
+|ss2=Snail Leadership +4<br>Per 200 Maneater Pistils used, Priest-Snail Assistance DMG +32<br>Per 200 Maneater Pistils used, Snail Primeval Power +4<br>Maneater Pistil(s) used: 12000/12000
+|ss3=Snail Leadership +5<br>Per 200 Maneater Pistils used, Priest-Snail Assistance DMG +40<br>Per 200 Maneater Pistils used, Snail Primeval Power +5<br>Maneater Pistil(s) used: 12000/12000
+|ss4=Snail Leadership +7<br>Per 200 Maneater Pistils used, Priest-Snail Assistance DMG +56<br>Per 200 Maneater Pistils used, Snail Primeval Power +7<br>Maneater Pistil(s) used: 12000/12000
+|ss5=Snail Leadership +9<br>Per 200 Maneater Pistils used, Priest-Snail Assistance DMG +72<br>Per 200 Maneater Pistils used, Snail Primeval Power +9<br>Maneater Pistil(s) used: 12000/12000
+|ss6=Snail Leadership +12<br>Per 200 Maneater Pistils used, Priest-Snail Assistance DMG +96<br>Per 200 Maneater Pistils used, Snail Primeval Power +12<br>Maneater Pistil(s) used: 12000/12000
+|ss7=Snail Leadership +12<br>Per 200 Maneater Pistils used, Priest-Snail Assistance DMG +96<br>Per 200 Maneater Pistils used, Snail Primeval Power +12<br>Maneater Pistil(s) used: 12000/12000<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Relic FAME +15
+|skill2=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Zone SUP effect reduced by 30%
+|skill3=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Amber output speed+30%
+}}

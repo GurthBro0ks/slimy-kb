@@ -1,0 +1,48 @@
+{{CargoRelic
+|name=Artificial Blackhole
+|rank=SSS
+|affct=TECH
+|birthday=07-22
+|source=Wish Box, Lottery Machine (0.09%), Wishing (0.07%), Demon Chest (0.1%), Grandmaster Scrolls (0.81%), Relic Forge (120 Relic RF), Nebula Chest (0.01%)
+|description=On Jul 22, 1980 AD, the Large Hadron Collider was made, which can produce artificial Blackholes.
+
+The artificial blackhole is a concept based on the phenomenon that blackholes can devour everything, including light. If the velocity of a fluid can be made to exceed the speed of sound, then an artificial blackhole can be built inside the liquid. Other than sound, it cannot absorb the surroundings like a real blackhole.
+
+[Basic info]
+
+Name: Artificial Black hole.
+
+Function: Devours everything, including light.
+
+Theoretical evidence: A blackhole produced by particle collision is harmless.
+|fame=54
+|art=67
+|fth=71
+|civ=64
+|tech=106
+|ss1=Time Machine Travel Speedup Output +6%<br>Per 3 TECH Relics gained, Snail HP +120<br>Per 3 TECH Relics gained, Snail ATK +12<br>TECH Relics: 60/60
+|ss2=Time Machine Travel Speedup Output +8%<br>Per 3 TECH Relics gained, Snail HP +160<br>Per 3 TECH Relics gained, Snail ATK +16<br>TECH Relics: 60/60
+|ss3=Time Machine Travel Speedup Output +10%<br>Per 3 TECH Relics gained, Snail HP +200<br>Per 3 TECH Relics gained, Snail ATK +20<br>TECH Relics: 60/60
+|ss4=Time Machine Travel Speedup Output +14%<br>Per 3 TECH Relics gained, Snail HP +280<br>Per 3 TECH Relics gained, Snail ATK +28<br>TECH Relics: 60/60
+|ss5=Time Machine Travel Speedup Output +18%<br>Per 3 TECH Relics gained, Snail HP +360<br>Per 3 TECH Relics gained, Snail ATK +36<br>TECH Relics: 60/60
+|ss6=Time Machine Travel Speedup Output +24%<br>Per 3 TECH Relics gained, Snail HP +480<br>Per 3 TECH Relics gained, Snail ATK +48<br>TECH Relics: 60/60
+|ss7=Time Machine Travel Speedup Output +24%<br>Per 3 TECH Relics gained, Snail HP +480<br>Per 3 TECH Relics gained, Snail ATK +48<br>TECH Relics: 60/60<br>Time Machine Travel Speedup Output +20% (Awakened)
+|skill1={{Skills|koryeo|intel|15}}
+|skill2={{Skills|koryeo|purple card|15}}
+|skill3={{Skills|koryeo|purple reagent|15}}
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}}}
+
+[[Category:Time Machine Output Boost]]
+[[Category:Relic Boost]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Koryeo Museum Boost]]
+[[Category:Koryeo Exploration Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Fissure Boost]]
+[[Category:RUSH Boost]]
+[[Category:Rewards Relic]]
+[[Category:Ironball Thrower Boost]]

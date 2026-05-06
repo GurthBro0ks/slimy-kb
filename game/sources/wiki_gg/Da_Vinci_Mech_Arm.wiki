@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Da Vinci Mech Arm
+|type=Common
+|rank=red
+|id=10937
+|idx=138
+|description="...Ninety percent of the test subjects experienced phantom limb pain, which stabilized after taking inhibitors. One percent of the test subjects showed symptoms of prosthetic control loss..."
+— "Cyborg Experiment Log"
+|skill=
+|hp=2530
+|def=279
+|atk=330
+|rush=208
+|gene1=Wind DMG +2%
+|gene2=Lifesteal Effect +20%
+|gene3=Lifesteal deals +20% Lifesteal DMG
+|gene4=Restore 800 HP each round
+|gene5=Healing +12%
+|gene6=CRIT DMG REDUC +10%
+|gene7=Lifesteal deals +40% Lifesteal DMG (Awakened)
+|}}

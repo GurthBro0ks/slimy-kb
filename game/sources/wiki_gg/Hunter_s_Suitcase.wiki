@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Hunter's Suitcase
+|class_id=22073
+|rank=Blue
+|affct=CIV
+|birthday=08-13
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Aug 13, 1892 AD, the hunter defeated the Vampire Dracula with the power of this suitcase.<br>The suitcase owner is a professor of medicine. Due to unknown reasons, he knows all the characteristics and weaknesses of the vampire by heart. The props in this suitcase made multiple contributions as he and his companions pursued and ultimately defeated Dracula, the garlic and the cross saved them from Dracula's attack, the wafer, and the gun gave them the ability to confront Dracula head-on, and the pointed wooden stake eventually went through Dracula's heart, putting this powerful and evil monster to rest for good.
+|fame=33
+|art=30
+|fth=25
+|civ=47
+|tech=19
+|ss1=Per 50 Gene Sim LVLs, Snail ATK +1<br>Gene Sim LVLs: 2500/2500
+|ss2=Per 50 Gene Sim LVLs, Snail ATK +2<br>Gene Sim LVLs: 2500/2500
+|ss3=Per 50 Gene Sim LVLs, Snail ATK +3<br>Gene Sim LVLs: 2500/2500
+|ss4=Per 50 Gene Sim LVLs, Snail ATK +5<br>Gene Sim LVLs: 2500/2500
+|ss7=Per 50 Gene Sim LVLs, Snail ATK +5<br>Gene Sim LVLs: 2500/2500<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Arena skill I.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +20
+}}

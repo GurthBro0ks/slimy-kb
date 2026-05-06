@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Dagda's Cauldron
+|class_id=22461
+|rank=Blue
+|affct=FAITH
+|birthday=01-02
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jan 2, 3700 BC, Daggda used the food in this pot to entertain the Danu God clan warriors.<br>The Magic Cauldron, one of the four great treasures of the Danu God clan, was owned by their father of the gods, Daggda. It could produce unlimited food and played a huge role in the battle against the evil eye demon king Balor. After Daggda's death, the cauldron became lost in obscurity during an internal conflict within the Danu God clan, until it reappeared thousands of years later.
+|fame=28
+|art=33
+|fth=47
+|civ=20
+|tech=26
+|ss1=Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +8<br>Frost Sanctum Rating Pts: 100000/100000
+|ss2=Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +16<br>Frost Sanctum Rating Pts: 100000/100000
+|ss3=Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +24<br>Frost Sanctum Rating Pts: 100000/100000
+|ss4=Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Frost Sanctum Rating Pts: 100000/100000
+|ss7=Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Frost Sanctum Rating Pts: 100000/100000<br>Protomon Troop assist DMG + 400 (Awakened)
+|skill1=[[File:Offeringegg skill I.png|50px]]Place in Offering Egg: This Relic's FTH +5
+}}

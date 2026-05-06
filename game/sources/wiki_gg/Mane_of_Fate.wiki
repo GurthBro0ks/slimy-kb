@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=Mane of Fate
+|type=Bionic
+|rank=orange
+|id=10680
+|idx=38
+|description="The mane is woven from the threads of destiny — where chaos and order, apocalypse and oblivion, entwine into one."
+— Codex Draconis
+|skill=Blessed by the Goddess of Fate, dealing DMG equal to 202% of ATK!
+|hp=2056
+|def=154
+|atk=151
+|rush=335
+|gene1=Per organ awakened, {race} HP +70
+Organs awakened: 40/40
+|gene2=Per Altar God Descent, {race} DEF +7
+Gods Descended: 30/30
+|gene3=Healing +9%
+|gene4=Chance to trigger Stonehide +3%
+|gene5=ELMT RES +3%
+|gene7=Healing +9% (Awakened)
+|}}

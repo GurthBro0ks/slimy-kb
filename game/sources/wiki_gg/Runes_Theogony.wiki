@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=398
+|relics=Runes,Theogony
+|rank=purple
+|amount=2
+|category=self
+|description=Refining gives +1 Wormhole Refiner by +6%
+}}

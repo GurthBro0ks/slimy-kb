@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Control Unit
+|class_id=22203
+|rank=AAA
+|affct=TECH
+|birthday=10-03
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Oct 3, 2069 AD, Furn and Arman successfully developed a prototype version of control unit.<br>This seemingly ordinary ball is covered by an extremely strong alloy shell. Inside, there is a miniature version of the human brain structure printed out with special organic materials. Endowing robots with amazing computing and data storage capabilities, it can also make them think independently and even gain self-awareness. In addition, there are rumors that a huge secret is kept in this control unit, and many forces have launched a desperate contest to obtain this secret.
+|fame=44
+|art=36
+|fth=54
+|civ=37
+|tech=72
+|ss1=Per 30 Zombie Minions in battle:<br>> Troop HP +120<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +12
+|ss2=Per 30 Zombie Minions in battle:<br>> Troop HP +160<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +16
+|ss3=Per 30 Zombie Minions in battle:<br>> Troop HP +200<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +20
+|ss4=Per 30 Zombie Minions in battle:<br>> Troop HP +280<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +28
+|ss5=Per 30 Zombie Minions in battle:<br>> Troop HP +360<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +36
+|ss7=Per 30 Zombie Minions in battle:<br>> Troop HP +360<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +36<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Mecha Cells gained +7.5%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +3%
+}}

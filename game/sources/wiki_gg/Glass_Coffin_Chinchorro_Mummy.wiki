@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Glass Coffin,Chinchorro Mummy
+|rank=purple
+|amount=2
+|category=dna
+|description=Mutant Gene Research SPD +3.6%
+}}
+[[Category:DNA]]
+[[Category:Mutant Gene Boost]]

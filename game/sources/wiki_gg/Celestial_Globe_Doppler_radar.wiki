@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=597
+|relics=Celestial Globe,Doppler radar
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Dragon Minions in battle: Troop HARD Stats +5
+}}

@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=To run for the president, the owner of a pharmaceutical company sprayed dangerous substances all over the city, polluting some Snail Shell. Then the owner created a cure to modify the minds of activists in jail.
+|affct=TECH
+|hard=RUSH
+|source=Divine Order Chest (0.2%)
+|color=purple
+|earth=6
+|water=6
+|fire=7
+|wind=7
+|form=Mecha
+|element=Earth
+|realm=Hellas
+|orangehard=RUSH
+}}

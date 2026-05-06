@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=EMR Mutant Neuron
+|type=Common
+|rank=purple
+|id=10854
+|idx=59
+|description=This anomalous neuron, warped by electromagnetic radiation, possesses extraordinary sensory and cognitive powers, capable of receiving and interpreting signals from ambient electromagnetic waves.
+|skill=
+|hp=1324
+|def=132
+|atk=219
+|rush=148
+|gene1=In Gene Sims, Ignore DEF +2%
+|gene2=Per 5 Shrine Flying Objects shot, {race} DEF +8
+Shrine flying objects shot: 100/100
+|gene3=In Gene Sims, RUSH DMG +10%
+|gene4=In Gene Sims, CRIT DMG +10%
+|gene7=In Gene Sims, CRIT DMG +10% (Awakened)
+|}}

@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Hawking's Wheelchair
+|rank=AAA
+|affct=FAME
+|birthday=01-18
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.35%)
+|description=On Jan 18, 2019, Hawking's third wheelchair was sold for 6 million dollars.
+
+At first, Hawking's wheelchair was only used for transportation, but as his condition deteriorated, the wheelchair was updated to meet his needs. This wheelchair became the only tool of communication for Hawking. It can read his movements when he taps with his three fingers, twitches the facial muscles, or moves the eyeballs slightly. Hawking's wheelchair has undergone many upgrades and everything is sponsored by a technology company.
+
+Brain Control 3.0 Wheelchair Parts: Wheelchair, controller, answering machine
+
+Technology: AI Prediction Technology
+
+Valuation: 6 million dollars
+|fame=74
+|art=42
+|fth=43
+|civ=36
+|tech=48
+|ss1=Mecha Gene Research SPD +1.8%<br>Mecha Gene Research Cells consumed -1.8%
+|ss2=Mecha Gene Research SPD +2.4%<br>Mecha Gene Research Cells consumed -2.4%
+|ss3=Mecha Gene Research SPD +3%<br>Mecha Gene Research Cells consumed -3%
+|ss4=Mecha Gene Research SPD +4.2%<br>Mecha Gene Research Cells consumed -4.2%
+|ss5=Mecha Gene Research SPD +5.4%<br>Mecha Gene Research Cells consumed -5.4%
+|ss7=Mecha Gene Research SPD +5.4%<br>Mecha Gene Research Cells consumed -5.4%<br>Mecha Gene Research SPD +4.2% (Awakened)
+|skill1=[[File:Lumbercamp skill II.png|50px]] Place in Lumber Camp: Find Ancient Wood by +15%
+|skill2=[[File:Lumbercamp skill II.png|50px]] Place in Lumber Camp: This Relic's FAME +10
+}}
+
+[[Category:Mecha Gene Speedup Boost]]
+[[Category:Mecha Gene Cost Reduction]]
+[[Category:Lumber Camp Skill]]
+[[Category:Ancient Wood Boost]]
+[[Category:FAME Boost]]
+[[Category:RUSH Boost]]
+[[Category:Angel Cell Drop Boost]]

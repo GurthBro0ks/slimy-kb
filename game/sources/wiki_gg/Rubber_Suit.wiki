@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Rubber Suit
+|class_id=20356
+|rank=Green
+|affct=TECH
+|source=
+|description=An outfit made of special rubber, very light and stretchy. The tight-fitting design enables the wearer to move like water during battle, and the isolated nature of rubber enables them to walk into an electric field and safely out.
+|fame=15
+|art=16
+|fth=14
+|civ=14
+|tech=31
+|ss1=Against Thundos, DMG +300%
+|ss2=Against Thundos, DMG +400%
+|ss3=Against Thundos, DMG +500%
+|ss4=Against Thundos, DMG +500%
+|ss7=Against Thundos, DMG +500%<br> (Awakened)
+}}

@@ -1,0 +1,24 @@
+{{CargoRelic
+|name=Don Juan
+|class_id=22717
+|rank=SSS
+|affct=CIV
+|birthday=02-16
+|source=
+|description=On Feb 16, 1665 AD, the play premiered in the Royal Court of Paris.<br>Don Juan, a prose play created by French comedy writer Molière, is an adaptation of a Spanish legend. The protagonist Don Juan is a man who ignores the gods, lives a debauched lifestyle, and eventually is dragged into hell by ghosts. Don Juan replaces the myth of gods with that of human, and his unrestrained way of life reflects his rebellious spirit against ghosts and gods. Through his laughter and cursing, we can see the human nature of Don Juan.
+|fame=77
+|art=65
+|fth=56
+|civ=106
+|tech=58
+|ss1=Snail ATK +30<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +30
+|ss2=Snail ATK +40<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +40
+|ss3=Snail ATK +50<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +50
+|ss4=Snail ATK +70<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +70
+|ss5=Snail ATK +90<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +90
+|ss6=Snail ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120
+|ss7=Snail ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion HP +9%
+|skill2=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion ATK +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+}}

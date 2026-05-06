@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The Grand Odalisque
+|class_id=22806
+|rank=SSS
+|affct=ART
+|source=
+|description=The Grand Odalisque depicts a nude Turkish concubine with an oriental flair, lying on her side on a soft bed, looking back at the viewer with a serene and expressionless face, possessing the beauty of an ancient Greek sculpture. The most praised aspect is her slightly exaggerated elongated back, intricately detailed and stunningly beautiful. InThis painting, Ingres did not strictly adhere to human proportions in depicting the female body but instead applied distortion and exaggeration to highlight a sense of grace, combining classical form with Romantic expression. This exaggeration and deformation of the form demonstrate the independence of Ingres' aesthetic beliefs.
+|fame=56
+|art=108
+|fth=66
+|civ=72
+|tech=60
+|ss1=Demon Minion ATK +3%<br>Per 5 ART Relics awakened, Priest-Troop Assistance DMG +72<br>Per 5 ART Relics awakened, Snail RUSH +9<br>ART Relics Awakened: 100/100
+|ss2=Demon Minion ATK +4%<br>Per 5 ART Relics awakened, Priest-Troop Assistance DMG +96<br>Per 5 ART Relics awakened, Snail RUSH +12<br>ART Relics Awakened: 100/100
+|ss3=Demon Minion ATK +5%<br>Per 5 ART Relics awakened, Priest-Troop Assistance DMG +120<br>Per 5 ART Relics awakened, Snail RUSH +15<br>ART Relics Awakened: 100/100
+|ss4=Demon Minion ATK +7%<br>Per 5 ART Relics awakened, Priest-Troop Assistance DMG +168<br>Per 5 ART Relics awakened, Snail RUSH +21<br>ART Relics Awakened: 100/100
+|ss5=Demon Minion ATK +9%<br>Per 5 ART Relics awakened, Priest-Troop Assistance DMG +216<br>Per 5 ART Relics awakened, Snail RUSH +27<br>ART Relics Awakened: 100/100
+|ss6=Demon Minion ATK +12%<br>Per 5 ART Relics awakened, Priest-Troop Assistance DMG +288<br>Per 5 ART Relics awakened, Snail RUSH +36<br>ART Relics Awakened: 100/100
+|ss7=Demon Minion ATK +12%<br>Per 5 ART Relics awakened, Priest-Troop Assistance DMG +288<br>Per 5 ART Relics awakened, Snail RUSH +36<br>ART Relics Awakened: 100/100<br>Protomon Troop assist DMG + 800 (Awakened)
+|skill1=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +30%
+|skill2=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Cap +30%
+|skill3=[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: This Relic's ART +15
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Vortex Mask
+|class_id=20094
+|rank=Green
+|affct=CIV
+|source=
+|description=This mysterious ninja mask bears a distinctive vortex sign, which seems to exude some magical power that can hallucinate those who gaze upon it.
+|fame=12
+|art=12
+|fth=20
+|civ=34
+|tech=12
+|ss1=Per 50 Avatars activated, Snail RUSH +1<br>Avatars Activated: 1000/1000
+|ss2=Per 50 Avatars activated, Snail RUSH +2<br>Avatars Activated: 1000/1000
+|ss3=Per 50 Avatars activated, Snail RUSH +3<br>Avatars Activated: 1000/1000
+|ss4=Per 50 Avatars activated, Snail RUSH +3<br>Avatars Activated: 1000/1000
+|ss7=Per 50 Avatars activated, Snail RUSH +3<br>Avatars Activated: 1000/1000<br> (Awakened)
+}}

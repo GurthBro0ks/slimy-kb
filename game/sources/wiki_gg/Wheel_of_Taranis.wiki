@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Wheel of Taranis
+|class_id=22060
+|rank=Blue
+|affct=FAITH
+|birthday=01-15
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jan 15, 236 BC, Taranis gained the power to control the alternation of day and night through this wheel.<br>This wheel is the property of Taranis. He is known as Thundos in ancient Celtic mythology and is worshiped as a patron saint by many people together with Esus and Toutatis. According to legend, it controls the alternation of day and night, and it is one of Taranis's important symbols.
+|fame=22
+|art=34
+|fth=46
+|civ=21
+|tech=31
+|ss1=Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +1
+|ss2=Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +2
+|ss3=Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +3
+|ss4=Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +5
+|ss7=Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +5<br>Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +5 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +20
+}}

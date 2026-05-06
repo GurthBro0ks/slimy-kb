@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Brainworm Neuron
+|type=Common
+|rank=blue
+|id=10821
+|idx=22
+|description=This mimetic creature can mimic the neural structure of the brain, and to some extent, it can even replace a brain to think.
+|skill=
+|hp=700
+|def=109
+|atk=148
+|rush=90
+|gene1=Gene Research Free Speedup +5m
+|gene2=Gene Simulation Power Checks -2%
+|gene3=In Gene Sims, DMG +3%
+|gene7=In Gene Sims, DMG +3% (Awakened)
+|}}

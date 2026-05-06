@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Scorpio
+|class_id=21532
+|rank=SSS
+|affct=CIV
+|source=
+|description=As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:
+Truth is a nugget not grown but found,
+When all that's false is washed and drowned.
+|fame=69
+|art=58
+|fth=65
+|civ=110
+|tech=63
+|ss1=All Minion HP +10%<br>All Minion RUSH +10%<br>Organ skill DMG REDUC +10%<br>All equipped Organs, skill DMG +10%
+|ss2=All Minion HP +10%<br>All Minion RUSH +10%<br>Organ skill DMG REDUC +10%<br>All equipped Organs, skill DMG +10%
+|ss3=All Minion HP +10%<br>All Minion RUSH +10%<br>Organ skill DMG REDUC +10%<br>All equipped Organs, skill DMG +10%
+|ss4=All Minion HP +10%<br>All Minion RUSH +10%<br>Organ skill DMG REDUC +10%<br>All equipped Organs, skill DMG +10%
+|ss5=All Minion HP +10%<br>All Minion RUSH +10%<br>Organ skill DMG REDUC +10%<br>All equipped Organs, skill DMG +10%
+|ss6=All Minion HP +10%<br>All Minion RUSH +10%<br>Organ skill DMG REDUC +10%<br>All equipped Organs, skill DMG +10%
+|ss7=All Minion HP +10%<br>All Minion RUSH +10%<br>Organ skill DMG REDUC +10%<br>All equipped Organs, skill DMG +10%<br>All equipped Organs, skill DMG +10% (Awakened)
+|skill1=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, Cells collected +30%
+|skill2=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, Travel SPD +9%
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, B-tads gained +15%
+|mirage={{Mirage|name=Scorpio Star|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=De Gaulle|3rec=8.66M|3atk=75962|3defense=50342|3hp=1515145|3weak=?
+|4name=Picasso|4rec=15.62M|4atk=104086|4defense=68982|4hp=2602005|4weak=?
+|5name=Columbus|5rec=33.48M|5atk=137306|5defense=90997|5hp=4274724|5weak=?
+|6name=General P.|6rec=52.10M|6atk=176839|6defense=117197|6hp=6637887|6weak=?
+|Arec=74.03M|Aatk=223394|Adefense=148051|Ahp=10157687|Aweak=?
+}}}}

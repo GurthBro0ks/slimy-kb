@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Pillars of Creation
+|class_id=22229
+|rank=SSS
+|affct=FAME
+|birthday=04-01
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Apr 1, 1995 AD, the Hubble Telescope took this famous picture.<br>The Pillars of Creation is one of the most stunning images captured by the Hubble Telescope. It shows pillars made of interstellar gas and dust inside the Eagle Nebula, located about 7,000 light-years from Earth. This pillar is called the Pillars of Creation because new stars are forming within it. Scientists believe that the pillars were destroyed 6,000 years ago, but we won't see its destruction for another thousand years due to the speed of light.
+|fame=111
+|art=65
+|fth=49
+|civ=67
+|tech=73
+|ss1=Species War Traitor Shop:<br>> Random Sequence purchase cap +1<br>Per Species Map entry completed, Snail ATK +3<br>Per Species Map entry completed, Snail RUSH +3<br>Species Map Entries: 60/60
+|ss2=Species War Traitor Shop:<br>> Random Sequence purchase cap +2<br>Per Species Map entry completed, Snail ATK +4<br>Per Species Map entry completed, Snail RUSH +4<br>Species Map Entries: 60/60
+|ss3=Species War Traitor Shop:<br>> Random Sequence purchase cap +3<br>Per Species Map entry completed, Snail ATK +5<br>Per Species Map entry completed, Snail RUSH +5<br>Species Map Entries: 60/60
+|ss4=Species War Traitor Shop:<br>> Random Sequence purchase cap +4<br>Per Species Map entry completed, Snail ATK +7<br>Per Species Map entry completed, Snail RUSH +7<br>Species Map Entries: 60/60
+|ss5=Species War Traitor Shop:<br>> Random Sequence purchase cap +5<br>Per Species Map entry completed, Snail ATK +9<br>Per Species Map entry completed, Snail RUSH +9<br>Species Map Entries: 60/60
+|ss6=Species War Traitor Shop:<br>> Random Sequence purchase cap +6<br>Per Species Map entry completed, Snail ATK +12<br>Per Species Map entry completed, Snail RUSH +12<br>Species Map Entries: 60/60
+|ss7=Species War Traitor Shop:<br>> Random Sequence purchase cap +6<br>Per Species Map entry completed, Snail ATK +12<br>Per Species Map entry completed, Snail RUSH +12<br>Species Map Entries: 60/60<br>Species War Traitor Shop:<br>> Random Sequence purchase cap +4 (Awakened)
+|skill1=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop Earth DMG +60
+|skill2=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion ATK +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FAME +15
+|mirage={{Mirage|name=The Start of Nebula|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Eagle Nebula|3rec=33.75M|3atk=136969|3defense=91378|3hp=5304124|3weak=19314
+|4name=Planetary Nebula|4rec=45.47M|4atk=161688|4defense=107868|4hp=7227639|4weak=20879
+|5name=Crab Nebula|5rec=58.75M|5atk=189699|5defense=126556|5hp=9536107|5weak=23471
+|6name=Snail Nebula|6rec=73.10M|6atk=219952|6defense=146738|6hp=12396139|6weak=29132
+|Arec=88.57M|Aatk=252582|Adefense=168507|Ahp=15895324|Aweak=32458
+}}}}

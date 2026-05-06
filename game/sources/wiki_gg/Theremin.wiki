@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Theremin
+|class_id=22014
+|rank=Blue
+|affct=FAME
+|birthday=03-05
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Mar 5, 1920 AD, Lev Termin invented the world's first electronic musical instrument.<br>Theremin was invented by Lev Termin. It is the world's first electronic musical instrument. Unlike the modern version that has transistors and integrated circuits, it was completely driven by a motor and its functions were far from completion. But it was light and economic, setting the regular expensive, complex, and massive organ at a disadvantage. After it was invented, the development of electronic instruments skyrocketed. Merely 30 years later, almost as many electronic instruments as pianos were manufactured.
+|fame=47
+|art=32
+|fth=18
+|civ=26
+|tech=31
+|ss1=Zombie Minion ATK +1%
+|ss2=Zombie Minion ATK +2%
+|ss3=Zombie Minion ATK +3%
+|ss4=Zombie Minion ATK +5%
+|ss7=Zombie Minion ATK +5%<br>Zombie Minion ATK +5% (Awakened)
+|skill1=[[File:Dungbeetle skill I.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion RUSH +1.5%
+}}

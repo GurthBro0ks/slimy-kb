@@ -1,0 +1,225 @@
+This [[Minigames|Minigame]] is acquired from getting RNG <100 in the [[Lottery Machine|Lottery]].
+
+Rules:
+
+* Tap on a square to change the color of the blocks around it to its color.
+* There are 50 stages in total.
+* To progress to the next stage, make all squares one color within a certain number of moves.
+* Many puzzles have multiple solutions, but only one will be listed here.
+
+Reading the solution:
+
+* Columns are referenced alphabetically: A, B, C, D, E
+* Rows are referenced numerically: 1, 2, 3, 5, 5
+* Explanatory image: [https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fqvxkexxqin1c1.jpg%3Fwidth%3D320%26format%3Dpjpg%26auto%3Dwebp%26s%3D6ad7614987ecd6674a29c23f50e4d383d17ee4d3]
+
+{| class="wikitable"
+!Stage
+!Solution
+
+|-
+|1
+|Any
+
+|-
+|2
+|B1
+
+|-
+|3
+|Any B
+
+|-
+|4
+|B2
+
+|-
+|5
+|B1, B3
+
+|-
+|6
+|A2
+
+|-
+|7
+|A2, C2
+
+|-
+|8
+|A2, C2
+
+|-
+|9
+|B1, B3
+
+|-
+|10
+|B2, A1
+
+|-
+|11
+|D2, A3
+
+|-
+|12
+|B2, D2
+
+|-
+|13
+|B2, A1
+
+|-
+|14
+|C2
+
+|-
+|15
+|D4, B3
+
+|-
+|16
+|D2, B3, A1
+
+|-
+|17
+|B2, D2
+
+|-
+|18
+|C4, D2
+
+|-
+|19
+|C3, D1, A3, B2
+
+|-
+|20
+|B3, C2, D3
+
+|-
+|21
+|B1, D2, B4
+
+|-
+|22
+|B2, C3, A1, A4
+
+|-
+|23
+|B2, B4, C1
+
+|-
+|24
+|D2, D4, A2
+
+|-
+|25
+|C3
+
+|-
+|26
+|C3
+
+|-
+|27
+|B2, D4
+
+|-
+|28
+|C3
+
+|-
+|29
+|A3, E3
+
+|-
+|30
+|B3, C5
+
+|-
+|31
+|B2, C3, D4
+
+|-
+|32
+|A5, C3, E1
+
+|-
+|33
+|C3, A3, D5, A1
+
+|-
+|34
+|B3, D4
+
+|-
+|35
+|E2, D5, A4, A1, C2
+
+|-
+|36
+|C3, E3, A3
+
+|-
+|37
+|C3, A3
+
+|-
+|38
+|C2, C4, A3
+
+|-
+|39
+|B3, D3, C1
+
+|-
+|40
+|E5, B5, C2
+
+|-
+|41
+|A3, D1, C3
+
+|-
+|42
+|C4, C1, B3
+
+|-
+|43
+|B3, D1, A1
+
+|-
+|44
+|C4, D3, A5
+
+|-
+|45
+|C3, A5, A1
+
+|-
+|46
+|E1, A5
+
+|-
+|47
+|C4, C1, B3
+
+|-
+|48
+|D3, A3
+
+|-
+|49
+|E5, E2, C2, A5
+
+|-
+|50
+|C4, C2, D1
+
+|}
+
+Solutions courtesy of [https://www.reddit.com/r/SuperSnail_US/comments/180bp9z/snail_flip_solutions/ /u/mrniceguy7766 on Reddit]
+
+[[Category:Guides]]
+[[Category:Minigames]]

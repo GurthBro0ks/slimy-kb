@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Dendera Tablet
+|rank=Blue
+|affct=FTH
+|birthday=08-07
+|source=Lottery Machine (0.03%), Wishing (0.85%), Kemetic Treasure Maps (20%)
+|description=On Aug 7, 525 BC, Dendera Tablet was created. It is the most important Egyptian masterpiece of astronomy and calendar. The Dendera Temple on the west of the Nile was illuminated. Scholars from Egypt, Greece, and Persia gathered around a huge sandstone slab and engraved the star map based on their own observation. The priest annotated it by using hieroglyphs, allowing the future people to decipher it and observe most of the constellations between Egypt and Mesopotamia.
+
+[Basic Info]
+
+Era: 11th Dynasty of Ancient Egypt. Material: Granite. Collected by: Egypt gallery of British Museum.
+|fame=27
+|art=28
+|fth=48
+|civ=31
+|tech=20
+|ss1=Stone rewards from offering +0.4%
+|ss2=Stone rewards from offering +0.8%
+|ss3=Stone rewards from offering +1.2%
+|ss4=Stone rewards from offering +2%
+|ss7=Stone rewards from offering +2%<br>Stone rewards from offering +2% (Awakened)
+|skill1=[[File:Kemet skill I.png|50px]]Place in Kemetic Museum: In Kemet, Snail HP +200
+}}
+
+[[Category:Offering Reward Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:ATK Boost]]
+[[Category:Mummy Boost]]

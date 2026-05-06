@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Moon Palace Tour Guide
+|class_id=20948
+|rank=Green
+|affct=FAME
+|source=
+|description=In planning the reconstruction of the Moon Palace, Chang'e prepared this tour guide manual, which provides detailed information on various scenic spots within the palace and optimal viewing times.
+|fame=28
+|art=15
+|fth=13
+|civ=16
+|tech=18
+|ss1=Snail HP +200<br>Per 20 CIV Wishes made, Snail ATK +1<br>Wishes Made: 1000/1000
+|ss2=Snail HP +400<br>Per 20 CIV Wishes made, Snail ATK +2<br>Wishes Made: 1000/1000
+|ss3=Snail HP +600<br>Per 20 CIV Wishes made, Snail ATK +3<br>Wishes Made: 1000/1000
+|ss4=Snail HP +600<br>Per 20 CIV Wishes made, Snail ATK +3<br>Wishes Made: 1000/1000
+|ss7=Snail HP +600<br>Per 20 CIV Wishes made, Snail ATK +3<br>Wishes Made: 1000/1000<br> (Awakened)
+}}

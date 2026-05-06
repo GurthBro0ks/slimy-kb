@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Maneater Gastric Stones
+|class_id=20947
+|rank=Green
+|affct=FAME
+|source=
+|description=Extracted from the stomach pouch of an adult Maneater flower, this stone showcases the mineral sedimentation process resulting from extended periods of absorption and adsorption of organic substances during digestion. It is a precious sample for botanists studying the habits and digestive mechanisms of Maneaters.
+|fame=27
+|art=15
+|fth=13
+|civ=16
+|tech=19
+|ss1=Snail DEF +20<br>Upon challenging Stomach Residue, DMG +1%
+|ss2=Snail DEF +40<br>Upon challenging Stomach Residue, DMG +2%
+|ss3=Snail DEF +60<br>Upon challenging Stomach Residue, DMG +3%
+|ss4=Snail DEF +60<br>Upon challenging Stomach Residue, DMG +3%
+|ss7=Snail DEF +60<br>Upon challenging Stomach Residue, DMG +3%<br> (Awakened)
+}}

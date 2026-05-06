@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Edict of Milan
+|rank=AAA
+|affct=FAME
+|birthday=07-19
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On Jul 19, AD 313, Rome issued the Edict of Milan, the most important document in Christian history.
+
+After this edict was issued, Christianity became the main religion of Rome. When Constantine the Great was in power, he discovered that there was an organization within the Christian community which even had a great influence outside the Roman Empire. The Constantine the Great decided to make use of this organization to strengthen his ruling power and issued this edict to promote the status of Christianity.
+
+[Important Content]
+
+Grants the freedom of religious faith in the Empire. Grants Christianity the same rights as other religions. Stops the persecution of the churches Exempts Christians from tax and military service.
+|fame=73
+|art=47
+|fth=48
+|civ=34
+|tech=41
+|ss1=Snail DEF +30<br>The Fungus Farm has a +6% chance to produce Wonder Fungi
+|ss2=Snail DEF +40<br>The Fungus Farm has a +8% chance to produce Wonder Fungi
+|ss3=Snail DEF +50<br>The Fungus Farm has a +10% chance to produce Wonder Fungi
+|ss4=Snail DEF +70<br>The Fungus Farm has a +14% chance to produce Wonder Fungi
+|ss5=Snail DEF +90<br>The Fungus Farm has a +18% chance to produce Wonder Fungi
+|ss7=Snail DEF +90<br>The Fungus Farm has a +18% chance to produce Wonder Fungi<br>The Fungus Farm has a +14% chance to produce Wonder Fungi (Awakened)
+|skill1=[[File:Britann skill II.png|50px]] Place in Britland Museum: In Britland, Snail ATK +60
+|skill2=[[File:Britann skill II.png|50px]] Place in Britland Museum: This Relic's FAME +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FAME Relics]]
+[[Category:Purple FAME Relics]]
+[[Category:DEF Boost]]
+[[Category:ATK Boost]]
+[[Category:Wonder Fungus Output]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:FAME Boost]]
+[[Category:Enhanced by DNA Strength]]

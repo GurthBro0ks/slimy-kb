@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Cthaat Aquadingen
+|class_id=22686
+|rank=SSS
+|affct=FAITH
+|birthday=06-22
+|source=
+|description=On Jun 22, 330 BC, someone found a strange book on the beach in Hera.<br>The Cthaat Aquadingen is the holy book of aquatic life, which includes all the relevant knowledge about the mysterious aquatic creatures lurking in the oceans, lakes, and rivers. The book also records some indescribable and powerful existences, and those ancient races can summon them by relying on this book. Even the name of this book is derived from a powerful ruler of the past. Perhaps influenced by this ruler, when the ambient temperature is too low, this book will be wet, as if sweating...
+|fame=65
+|art=69
+|fth=106
+|civ=54
+|tech=68
+|ss1=Snail ATK +30<br>Angel Minion Cloning SPD +3%<br>Per 20 FTH Wishes made, Snail RUSH +3<br>Wishes Made: 1000/1000
+|ss2=Snail ATK +40<br>Angel Minion Cloning SPD +4%<br>Per 20 FTH Wishes made, Snail RUSH +4<br>Wishes Made: 1000/1000
+|ss3=Snail ATK +50<br>Angel Minion Cloning SPD +5%<br>Per 20 FTH Wishes made, Snail RUSH +5<br>Wishes Made: 1000/1000
+|ss4=Snail ATK +70<br>Angel Minion Cloning SPD +7%<br>Per 20 FTH Wishes made, Snail RUSH +7<br>Wishes Made: 1000/1000
+|ss5=Snail ATK +90<br>Angel Minion Cloning SPD +9%<br>Per 20 FTH Wishes made, Snail RUSH +9<br>Wishes Made: 1000/1000
+|ss6=Snail ATK +120<br>Angel Minion Cloning SPD +12%<br>Per 20 FTH Wishes made, Snail RUSH +12<br>Wishes Made: 1000/1000
+|ss7=Snail ATK +120<br>Angel Minion Cloning SPD +12%<br>Per 20 FTH Wishes made, Snail RUSH +12<br>Wishes Made: 1000/1000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's FTH +15
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x INTEL Drops +15%
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Angel Cells gained +30%
+|mirage={{Mirage|name=Otherworld Dominator|reward={{RewardIconWithLink|Mythic Protomon Egg, +1|orange}}
+|3name=Dagon|3rec=112.50M|3atk=342265|3defense=202175|3hp=32561025|3weak=42536
+|4name=Tsathoggua|4rec=128.68M|4atk=377126|4defense=224946|4hp=43137917|4weak=46202
+|5name=Bugg-Shash|5rec=150.12M|5atk=425234|5defense=255109|5hp=60649132|5weak=50373
+|6name=Yibb-Tstll|6rec=179.74M|6atk=489418|6defense=296771|6hp=91776166|6weak=54995
+|Arec=221.28M|Aatk=577350|Adefense=355220|Ahp=140908103|Aweak=60162
+}}}}

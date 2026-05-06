@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Orlov Diamond
+|class_id=22769
+|rank=SS
+|affct=FAME
+|source=
+|description=The Orlov Diamond is one of the world's famous large cut diamonds, named after Count Orlov of Russia. The diamond's rough stone was initially discovered in Golconda, India, and later set in a statue in an Indian temple. A French deserter stole the diamond, and after several changes of hands, it was eventually acquired by Count Orlov, who named it after himself. Count Orlov presented the diamond to Catherine the Great in hopes of winning back her favor. However, the Empress accepted the diamond but did not restore his status, instead embedding it in the imperial scepter of the Russian Empress. After the October Revolution, the diamond became the property of the Soviet treasury and is now housed in the Kremlin Armory.
+|fame=104
+|art=56
+|fth=51
+|civ=65
+|tech=71
+|ss1=Per 10 treasure draws, Treasure Progress +2<br>Per 10 treasure draws, Snail DEF +2<br>Per 10 treasure draws, Snail RUSH +2<br>Total Treasures drawn: 500/500
+|ss2=Per 10 treasure draws, Treasure Progress +3<br>Per 10 treasure draws, Snail DEF +3<br>Per 10 treasure draws, Snail RUSH +3<br>Total Treasures drawn: 500/500
+|ss3=Per 10 treasure draws, Treasure Progress +4<br>Per 10 treasure draws, Snail DEF +4<br>Per 10 treasure draws, Snail RUSH +4<br>Total Treasures drawn: 500/500
+|ss4=Per 10 treasure draws, Treasure Progress +6<br>Per 10 treasure draws, Snail DEF +6<br>Per 10 treasure draws, Snail RUSH +6<br>Total Treasures drawn: 500/500
+|ss5=Per 10 treasure draws, Treasure Progress +8<br>Per 10 treasure draws, Snail DEF +8<br>Per 10 treasure draws, Snail RUSH +8<br>Total Treasures drawn: 500/500
+|ss6=Per 10 treasure draws, Treasure Progress +11<br>Per 10 treasure draws, Snail DEF +11<br>Per 10 treasure draws, Snail RUSH +11<br>Total Treasures drawn: 500/500
+|ss7=Per 10 treasure draws, Treasure Progress +11<br>Per 10 treasure draws, Snail DEF +11<br>Per 10 treasure draws, Snail RUSH +11<br>Total Treasures drawn: 500/500<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail DEF +600
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: CRIT DMG +30%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail HP +6000
+|mirage={{Mirage|name=dungeon@22769_1|reward={{RewardIconWithLink|Precious Record, +1|orange}}
+|3name=French Soldier|3rec=3.07M|3atk=43182|3defense=28276|3hp=554318|3weak=10469
+|4name=Count Orlov|4rec=7.06M|4atk=68794|4defense=45047|4hp=1207000|4weak=13782
+|5name=Empress Catherine|5rec=14.89M|5atk=102719|5defense=67261|5hp=2435927|5weak=18360
+|Arec=36.28M|Aatk=144996|Adefense=94944|Ahp=4575990|Aweak=23821
+}}}}

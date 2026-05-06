@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Terracotta Warrior
+|class_id=21606
+|rank=SSS
+|affct=FAME
+|birthday=12-16
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Dec 16, 210 BC, the First Emperor's mausoleum was sealed, and this terracotta was buried for over 2,000 years.<br>The Terracotta Warriors consist of soldiers and officers. One notable example is this 1.8 meter-tall soldier, whose muscular body is clad in armor and pointy combat boots. The soldier's hair is tied into a bun, and he holds a halberd with his eyes wide open and lips sealed in a serious expression. The Terracotta Warriors are a real masterpiece in the history of sculpture.
+[Basic Information]
+Grade: Key cultural relics
+Value: World cultural heritage
+Honor: Wonder of the world
+Site of Excavation: Xi'an, Shaanxi, China
+Location of Collection: Emperor Qinshihuang's Mausoleum Site Museum
+|fame=108
+|art=71
+|fth=63
+|civ=65
+|tech=55
+|ss1=Snail Leadership +3<br>Per 60 Minions in battle:<br>> Troop ATK +9<br>Per 60 Minions in battle:<br>> Troop RUSH +9
+|ss2=Snail Leadership +4<br>Per 60 Minions in battle:<br>> Troop ATK +18<br>Per 60 Minions in battle:<br>> Troop RUSH +18
+|ss3=Snail Leadership +5<br>Per 60 Minions in battle:<br>> Troop ATK +27<br>Per 60 Minions in battle:<br>> Troop RUSH +27
+|ss4=Snail Leadership +7<br>Per 60 Minions in battle:<br>> Troop ATK +45<br>Per 60 Minions in battle:<br>> Troop RUSH +45
+|ss5=Snail Leadership +9<br>Per 60 Minions in battle:<br>> Troop ATK +63<br>Per 60 Minions in battle:<br>> Troop RUSH +63
+|ss6=Snail Leadership +12<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per 60 Minions in battle:<br>> Troop RUSH +90
+|ss7=Snail Leadership +12<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per 60 Minions in battle:<br>> Troop RUSH +90<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail DEF +600
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x B-tad Drops +15%
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Zombie Cells gained +30%
+|mirage={{Mirage|name=Legacy of Emperor Qin|reward={{RewardIconWithLink|FAME Master Scroll, +40|orange}}
+|3name=Infantryman Figurine|3rec=77.48M|3atk=229190|3defense=152901|3hp=13503651|3weak=30423
+|4name=Kneeling Archer Figurine|4rec=101.93M|4atk=280753|4defense=187302|4hp=19065648|4weak=34818
+|5name=Chariot Soldier Figurine|5rec=130.85M|5atk=341738|5defense=227987|5hp=26466847|5weak=39303
+|6name=Officer Figurine|6rec=163.09M|6atk=409743|6defense=273356|6hp=36239037|6weak=45642
+|Arec=200.34M|Aatk=488289|Adefense=325757|Ahp=48178350|Aweak=52051
+}}}}

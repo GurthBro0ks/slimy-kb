@@ -1,0 +1,1735 @@
+{{WIP|Not coloured and design pending}}
+
+==Legend==
+{|class=wikitable
+!Type
+!Color Assignment
+|-
+|Event
+|style="background-color:var(--yellow-bg)"|
+|-
+|Snail Battle
+|style="background-color:var(--red-bg)"|
+|-
+|Reward
+|style="background-color:var(--blue-bg)"|
+|-
+|Mine Pit
+|style="background-color:var(--green-bg)"|
+|}
+
+== Present - until Tile 40 ==
+{| class="wikitable"
+!rowspan=2;|Tile
+!colspan=3; |First Encounter
+!colspan=2; |Second Encounter
+!rowspan=2;|Notes
+|-
+!Name
+!Troop RUSH required Power
+!Reward
+!Name
+!Reward
+|-
+|style="background-color:var(--?-bg)"|1
+| Ferryman
+| 12.00M
+| T1 Nethrone Fang x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|2
+| Miner
+| 12.12M
+| T1 Nethrone Bone x3
+| [[#Mines|Mine]]
+| 
+| See linked table for mine requirements and rewards
+|-
+|style="background-color:var(--?-bg)"|3
+| Ferryman
+| 12.446M
+| T1 Nethrone Bone x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|4
+| Ferryman
+| 12.58M
+| T1 Nethrone Core x3
+| Dry Riverbed
+| {{RewardIconWithLink|Azoth|purple}} +20 Fragments
+| Bury Ashes of Osiris from Tile 26 [[#Snail Fights|Journey of Liberation]]
+|-
+|style="background-color:var(--?-bg)"|5
+| Ferryman
+| 12.92M
+| T1 Nethrone Core x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|6
+| Ferryman
+| 13.04M
+| T1 Nethrone Fang x3
+| Abandoned Fields 
+| {{retext|ATK-Fungus|orange}}, Fungus Chest x100
+| See [[#Time Travel|Past Kemet Domain]]. Requires planting 50k Fungus in the past
+|-
+|style="background-color:var(--?-bg)"|7
+| Ferryman
+| 13.27M
+| T1 Nethrone Core x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--blue-bg)"|8
+| Ferryman
+| 13.38M
+| T1 Nethrone Fang x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--blue-bg)"|9
+| Hera
+| 13.50M
+| T1 Nethrone Bone x3
+| [[#Snail Fights|Ace Divine General]]
+| {{RewardIconWithLink|Nether Moon}} +1
+| 
+|-
+|style="background-color:var(--?-bg)"|10
+| Desert Guards
+| 13.84M
+| T1 Nethrone Bone x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|11
+| Desert Guards
+| 13.96M
+| T1 Nethrone Core x3
+| 
+|
+| 
+|-
+|style="background-color:var(--?-bg)"|12
+| Desert Guards
+| 14.07M
+| T1 Nethrone Fang x4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|13
+| Desert Guards
+| 14.30M
+| T1 Nethrone Bone x4
+| Sphinx's Puzzle
+| Neurolink x3
+| Answers: B, A, C, B, A
+|-
+|style="background-color:var(--?-bg)"|14
+| Desert Guards
+| 14.19M
+| T1 Nethrone Bone x4
+| 
+| 
+| 
+|-
+|style="background-color:var(--yellow-bg)"|15
+| Miner
+| 14.65M
+| T1 Nethrone Core x4
+| [[#Mines|Mine]]
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|16
+| Desert Guards
+| 14.99M
+| T1 Nethrone Core x4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|17
+| Desert Guards
+| 15.11M
+| T1 Nethrone Fang x5
+| 
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|18
+| Vessoul Priest
+| 15.22M
+| T1 Nethrone Bone x5
+| [[#Snail Fights|Nethrone Vessoul]]
+| {{relink|Nethrone Vessoul|green}} Frag x1, Demon Chest x50
+|
+|-
+|style="background-color:var(--?-bg)"|19
+| Desert Guards
+| 15.34M
+| T1 Nethrone Core x5
+| 
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|20
+| Thanatos
+| 15.45M
+| T1 Nethrone Fang x5
+| [[#Snail Fights|Thanatos]]
+| {{RewardIconWithLink|Nether Moon}} +1
+| 
+|-
+|style="background-color:var(--?-bg)"|21
+| Desert Guards
+| 16.14M
+| T1 Nethrone Fang x3
+| 
+| 
+|
+|-
+|style="background-color:var(--?-bg)"|22
+| Archaeologist
+| 15.80M
+| T2 Nethrone Bone x3
+| Desert Ruins
+| Kemetic Treasure Map x50
+| Must submit 2 AR2-T2s in [[#Time Travel|Past Kemet Domain]]
+|-
+|style="background-color:var(--?-bg)"|23
+| Oil Rig Manager
+| 16.26M
+| T2 Nethrone Bone x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|24
+| Oil Rig Manager
+| 16.49M
+| T2 Nethrone Core x3
+|
+|
+|
+|-
+|style="background-color:var(--?-bg)"|25
+| Oil Rig Manager
+| 16.60M
+| T2 Nethrone Fang x3
+| 
+| 
+|
+|-
+|style="background-color:var(--red-bg)"|26
+| Tomb Keeper
+| 17.06M
+| T2 Nethrone Bone x3
+| Tranquil Cemetery
+| 
+| [[#Time Travel|Past Kemet Domain]] - After defeating the [[#Snail Fights|Dam]] in the Past, can return to complete [[#Snail Fights|Journey of Liberation]] Battle Tower with 7 Floors
+|-
+|style="background-color:var(--?-bg)"|27
+| Oil Rig Manager
+| 16.37M
+| T2 Nethrone Fang x3
+|
+|
+|
+|-
+|style="background-color:var(--?-bg)"|28
+| Miner
+| 16.72M
+| T2 Nethrone Bone x3
+| [[#Mines|Mine]]
+|
+|
+|-
+|style="background-color:var(--?-bg)"|29
+| Oil Rig Manager
+| 16.95M
+| T2 Nethrone Fang x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|30
+| Shop Security
+| 17.29M
+| T2 Nethrone Bone x3
+| 
+| 
+| Can only access the shop after collecting the "Heirloom" from [[#Time Travel|Past Kemet Domain]] Tile 29. See [[#Shops|Shop]] for contents.
+|-
+|style="background-color:var(--?-bg)"|31
+| Oil Rig Manager
+| 17.64M
+| T1 Nethrone Bone x3
+| 
+|
+|
+|-
+|style="background-color:var(--?-bg)"|32
+| Coast Guard
+| 17.87M
+| T2 Nethrone Core x4
+|
+|
+| 
+|-
+|style="background-color:var(--?-bg)"|33
+| Coast Guard
+| 17.98M
+| T2 Nethrone Fang x4
+| 
+| 
+|
+|-
+|style="background-color:var(--?-bg)"|34
+| Miner
+| 18.10M
+| T2 Nethrone Fang x4
+| [[#Mines|Mine]]
+| 
+| 
+|-
+|style="background-color:var(--red-bg)"|35
+| Oil Rig Manager
+| 17.75M
+| T2 Nethrone Core x4
+| [[#Snail Fights|Super Rig]]
+| Tool Chest x100<br>{{RewardIconWithLink|Nether Moon}} +1
+| After defeating the Oil Rig in the Past, changes to "Disappeared Rig"
+|-
+|style="background-color:var(--?-bg)"|36
+| Coast Guard
+| 18.90M
+| T2 Nethrone Fang x3
+| 83rd Shop Owner
+| [[#Shops|Shop]]
+|
+|-
+|style="background-color:var(--red-bg)"|37
+| Coast Guard
+| 18.44M
+| T2 Nethrone Bone x4
+| 
+| 
+|
+|-
+|style="background-color:var(--green-bg)"|38
+| Coast Guard
+| 8.98M
+| T3 Nethrone Fang x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|39
+| Coast Guard
+| 18.79M
+| T3 Nethrone Bone x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"|40
+| Coast Guard
+| 19.25M
+| T3 Nethrone Core x3
+| 
+| 
+| '''Cannot proceed past this point without completing incidents in [[#Time Travel|Past and Future Kemet Domain]]''' 
+|-
+|}
+
+== Time Travel - Until Present 40 ==
+
+<tabber>
+|-|Past=
+{| class="wikitable"
+!rowspan=2;|Tile
+!colspan=3; |First Encounter
+!colspan=2; |Second Encounter
+!rowspan=2;|Notes
+|-
+!Name
+!Troop RUSH required Power
+!Reward
+!Name
+!Reward
+|-
+|style="background-color:var(--?-bg)"|2
+| Supervisor
+| 12.23M
+| T1 Nethrone Core x3
+| Potential Mine
+| Expert Scroll x20, Ancient coin x300
+| Submit 1x [[Fissure|Golden Pickaxe]]
+|-
+|style="background-color:var(--?-bg)"|4
+| Supervisor
+| 12.69M
+| T1 Nethrone Fang x3
+| [[#Snail Fights|Dam]]
+| 30k B-Tads
+| 
+|-
+|style="background-color:var(--?-bg)"|6
+| Landowner
+| 13.15M
+| T1 Nethrone Bone x3
+| Sowable Land
+| 
+| Requires 50k Fungus
+|-
+|style="background-color:var(--?-bg)"|9
+| Supervisor
+| 13.61M
+| T1 Nethrone Core x3
+| Recruitment Instructions
+| Superstar Ad Flyer x2
+| 
+|-
+|style="background-color:var(--?-bg)"|13
+| Horse Thief
+| 14.42M
+| T1 Nethrone Core x4
+| Sphinx's Puzzle
+| Neurolink (Manhunt Brains) x3
+| Answers: C, A, C, C, B
+|-
+|style="background-color:var(--?-bg)"|15
+| Mine Owner
+| 14.76M
+| T1 Nethrone Fang x4
+| Prospective Mine
+| Master Scroll x20, Ancient Coin x300
+| Requires 1 [[Fissure|Golden Pickaxe]]
+|-
+|style="background-color:var(--?-bg)"|20
+| Archpriest
+| 15.57M
+| T1 Nethrone Bone x5
+| Unused Altar
+| W-Tads x200, Demon Chest x50
+| Submit {{retext|Soul of Charisnake|red}}
+|-
+|style="background-color:var(--?-bg)"|22
+| Horse Thief
+| 15.91M
+| T2 Nethrone Core x3
+| Desert Ruins
+| Refine Speedup x6h
+| Requires 2 AR2-T2s
+|-
+|style="background-color:var(--?-bg)"|25
+| Osiris
+| 17.18M
+| T2 Nethrone Core x3
+| Controlled Nether King
+| Offering Speedup x6h
+| [[#Snail Fights|Osiris]]
+|-
+|style="background-color:var(--?-bg)"|29
+| Horse Thief
+| 17.41M
+| T2 Nethrone Core x3
+| Sponsor Wandering Trader
+| Heirloom (Used on tile 30 in the Present), Badge x10
+| Donate 50k B-Tadpoles
+|-
+|style="background-color:var(--?-bg)"| 31
+| Supervisor
+| 17.87M
+| T2 Nethrone Fang x3
+| Newly Built Rig
+| Star Stone x3, W-Tadpoles x500
+| [[#Snail Fights|Wooden Oil Rig]]
+|-
+|style="background-color:var(--?-bg)"| 35
+| Supervisor
+| 18.21M
+| T2 Nethrone Core x5
+| Potential Mine
+| Expert Scroll x20, Ancient Coin x300
+| Requires 1 [[Fissure|Golden Pickaxe]]
+|-
+|style="background-color:var(--?-bg)"| 33
+| Horse Bandit
+| 19.02M
+| T2 Nethrone Bone x3
+| Founding Shop Owner
+| 
+| [[#Shops|Tile 33 (PAST)]] - Clearing shop allows xxx
+|-
+|}
+|-|Future=
+{| class="wikitable"
+!rowspan=2;|Tile
+!colspan=3; |First Encounter
+!colspan=2; |Second Encounter
+!rowspan=2;|Notes
+|-
+!Name
+!Troop RUSH required Power
+!Reward
+!Name
+!Reward
+|-
+|style="background-color:var(--?-bg)"| 2
+| Security Force 
+| 12.35M
+| T1 Nethrone Fang x3
+| Depleted Mine
+| Kemetic Treasure Map x50
+| Requires the [[#Mines|Tile 2 (PRESENT)]] mine to be completed.
+|-
+|style="background-color:var(--?-bg)"| 4
+| Vessoul Priest
+| 12.81M
+| T1 Nethrone Bone x3
+| [[#Snail Fights|Vessoul of Nethrone]]
+| [[Vessoul of Nethrone]] Frag x1, Demon Chest x50
+| 
+|-
+|style="background-color:var(--?-bg)"| 9
+| Hera
+| 13.73M
+| T1 Nethrone Fang x3<br>{{RewardIconWithLink|Nether Moon}} +1
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 13
+| Security Force
+| 14.53M
+| T1 Nethrone Fang x4
+| Sphinx
+| Neurolink x3
+| Answers: B A B C B
+|-
+|style="background-color:var(--?-bg)"| 15
+| Security Force
+| 14.88M
+| T1 Nethrone Bone x4
+| Hungry Rebels
+| Quantum Gel x600, Nether Essence x3
+| Requires Escargot x50
+|-
+|style="background-color:var(--?-bg)"| 20
+| Thanatos
+| 15.68M
+| T1 Nethrone Core x5<br>{{RewardIconWithLink|Nether Moon}} +1
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 22
+| Security Force
+| 16.03M
+| T2 Nethrone Fang x3
+| [[#Snail Fights|Awakened Robot]]
+| [[Rocket#Robots|AR2-T4 Capsule]] x2
+| 
+|-
+|style="background-color:var(--?-bg)"| 27
+| Data Miner
+| 16.83M
+| Sim Token x1000, T2 Nethrone Core x3
+|
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 29
+| Security Force
+| 17.52M
+| T2 Nethrone Fang x3
+| [[#Snail Fights|Franchise Store Manager]]
+| Unknown Record x10, Soul of Merchant (2h)
+| Must have retrieved the family heirloom from the past, sold out the shop in the present, then return to fight the enemy in the future
+|-
+|style="background-color:var(--?-bg)"| 31
+| Wind Power Engineer
+| 17.98M
+| T2 Nethrone Bone x3
+| [[#Snail Fights|Giant Windmill]]
+| {{RewardIconWithLink|Nether Moon}} +1
+| 
+|-
+|style="background-color:var(--?-bg)"| 33
+| Security Force
+| 19.13M
+| T2 Nethrone Core x4
+| 100th Shop Owner
+| 
+| [[#Shops|Shop]]
+|-
+|style="background-color:var(--?-bg)"| 35
+| Vessoul Priest
+| 18.33M
+| T2 Nethrone Fang x4
+| [[#Snail Fights|Vessoul of Nethrone]]
+| {{relink|Nethrone Vessoul|green}} Frag x1, Demon Chest x50
+| 
+|-
+|style="background-color:var(--?-bg)"| 40
+| Supernatural Researcher
+| 19.48M
+| T3 Nethrone Bone x3
+| Scientific Solution
+| Blood, Research Briefcase
+| 
+|-
+|}
+</tabber>
+
+==Present - Past Tile 40==
+
+Sprinkle Blood from [[#Time Travel|Future Tile 40]] to unlock Tile 41 in the Present. This allows you to fight [[#Snail Fights|Master Zhong Kui]] on Tile 41 and gain {{RewardIconWithLink|Nether Moon}} +1
+
+{| class="wikitable"
+!rowspan=2;|Tile
+!colspan=3; |First Encounter
+!colspan=2; |Second Encounter
+!rowspan=2;|Notes
+|-
+!Name
+!Troop RUSH required Power
+!Reward
+!Name
+!Reward
+|-
+|style="background-color:var(--?-bg)"| 42
+| Magic Scorpion
+| 19.59M
+| T3 Nethrone Fang x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 43
+| Magic Scorpion
+| 19.71M
+| T3 Nethrone Bone x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 44
+| Magic Scorpion
+| 19.82M
+| T3 Nethrone Core x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 45
+| Soul Restrainer
+| 19.94M
+| T3 Nethrone Fang x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 46
+| Soul Restrainer
+| 20.28M
+| T3 Nethrone Fang x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 47
+| Miner
+| 20.40M
+| T3 Nethrone Bone x3
+| [[#Mines|Mine]]
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 48
+| Magic Scorpion
+| 20.74M
+| T3 Nethrone Bone x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 49
+| Soul Restrainer
+| 20.86M
+| T3 Nethrone Core x4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 50
+| Magic Scorpion
+| 21.20M
+| T3 Nethrone Core x4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 51
+| Magic Scorpion
+| 21.32M
+| T3 Nethrone Fang x4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 52
+| Magic Scorpion
+| 21.43M
+| T3 Nethrone Bone x4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 53
+| Yama
+| 21.55M
+| T3 Nethrone Core x4
+| [[#Snail Fights|Yama]]
+| {{RewardIconWithLink|Nether Moon}} +1
+| 
+|-
+|style="background-color:var(--?-bg)"| 54
+| Cactus
+| 21.89M
+| T3 Nethrone Core x5
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 55
+| Cactus
+| 22.01M
+| T4 Nethrone Fang x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 56
+| Cactus
+| 22.24M
+| T4 Nethrone Core x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 57
+| Cactus
+| 22.35M
+| T4 Nethrone Fang x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 58
+| Construction Team
+| 22.47M
+| T4 Nethrone Bone x3
+| [[#Snail Fights|Babel]]
+| 
+| 10 Floor Battle Tower
+|-
+|style="background-color:var(--?-bg)"| 59
+| Cactus
+| 22.81M
+| T4 Nethrone Bone x3
+| Locked Vault
+| {{RewardIconWithLink|Azoth|purple}} +20 Fragments<br>{{RewardIconWithLink|Nether Moon}} +1
+| {{RewardIconWithText|Password Note}}: 1314
+|-
+|style="background-color:var(--?-bg)"| 60
+| Miner
+| 23.50M
+| T4 Nethrone Fang x3
+| [[#Mines|Mine]]
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 61
+| Cactus
+| 23.04M
+| T4 Nethrone Fang x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 62
+| Medical Doctor
+| 23.16M
+| T4 Nethrone Bone x3
+| Medical Lab
+| Organ Chest x50
+| Must donate 50 organ slime in PAST Tile 62, then donate 50 organ slime here
+|-
+|style="background-color:var(--?-bg)"| 63
+| Death High Schooler
+| 23.85M
+| T4 Nethrone Bone x4
+| [[#Snail Fights|Death High Schooler]]
+| {{RewardIconWithLink|Nether Moon}} +1
+| 
+|-
+|style="background-color:var(--?-bg)"| 64
+| Priest of Nethrone
+| 23.96M
+| T4 Nethrone Bone x4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 65
+| Traveler 11247
+| 24.31M
+| T4 Nethrone Core x4
+| [[#Snail Fights|Traveler 11247]]
+| Super Memetic Chest x20, {{retext|Soul of Traveler 11247|yellow}} (8h)
+| 
+|-
+|style="background-color:var(--?-bg)"| 66
+| Traveler 26633
+| 24.42M
+| T4 Nethrone Fang x4
+| [[#Snail Fights|Traveler 26633]]
+| Super Memetic Chest x20, {{retext|Soul of Traveler 26633|yellow}} (8h)
+| 
+|-
+|style="background-color:var(--?-bg)"| 67
+| Traveler 0985
+| 24.54M
+| T4 Nethrone Bone x4
+| [[#Snail Fights|Traveler 0985]]
+| Super Memetic Chest x20, {{retext|Soul of Traveler 0985|red}} (8h)
+| 
+|-
+|style="background-color:var(--?-bg)"| 68
+| Traveler 51101
+| 24.65M
+| T4 Nethrone Core x4
+| [[#Snail Fights|Traveler 51101]]
+| Super Memetic Chest x20, {{retext|Soul of Traveler 51101|red}} (8h)
+| 
+|-
+|style="background-color:var(--?-bg)"| 69
+| Traveler 30297
+| 24.77M
+| T4 Nethrone Fang x5
+| [[#Snail Fights|Traveler 30297]]
+| Super Memetic Chest x20, {{retext|Soul of Traveler 30297|blue}} (8h)
+| 
+|-
+|style="background-color:var(--?-bg)"| 70
+| Traveler 64241
+| 24.88M
+| T4 Nethrone Bone x5
+| [[#Snail Fights|Traveler 64241]]
+| Super Memetic Chest x20, {{retext|Soul of Traveler 64241|blue}} (8h)
+| 
+|-
+|style="background-color:var(--?-bg)"| 71
+| Nethrone
+| 25.00M
+| T4 Nethrone Core x5
+| [[#Snail Fights|Nethrone]]
+| {{relink|Nethrone's Head|green}}
+| It is strongly recommended to backtrack at this point to get {{relink|Will's Spike|green}} from the Future
+|-
+|}
+
+== Time Travel - From Present 41 ==
+
+<tabber>
+|-|Past=
+{| class="wikitable"
+!rowspan=2;|Tile
+!colspan=3; |First Encounter
+!colspan=2; |Second Encounter
+!rowspan=2;|Notes
+|-
+!Name
+!Troop RUSH required Power
+!Reward
+!Name
+!Reward
+|-
+|style="background-color:var(--?-bg)"| 45
+| Soul Restrainer
+| 20.05M
+| T3 Nethrone Bone x3
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 47
+| Mine Owner
+| 20.51M
+| T3 Nethrone Core x3
+| Potential Mine
+| Expert Scroll x20, Ancient Coin x300
+| Submit 1 Golden Pickaxe
+|-
+|style="background-color:var(--?-bg)"| 49
+| Soul Restrainer
+| 20.97M
+| T3 Nethrone Fang x4
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 53
+| Soul Restrainer
+| 21.66M
+| T3 Nethrone Fang x5
+| 
+| 
+| 
+|-
+|style="background-color:var(--?-bg)"| 55
+| Vessoul Priest
+| 22.12M
+| T4 Nethrone Bone x3
+| [[#Snail Fights|Vessoul of Nethrone]]
+| {{relink|Nethrone Vessoul|green}} Frag x1, Demon Chest x50
+| 
+|-
+|style="background-color:var(--?-bg)"| 58
+| Supervisor
+| 22.58M
+| T4 Nethrone Core x3
+| [[#Snail Fights|Babel (Past)]]
+| 
+| 5 Floor Battle Tower
+|-
+|style="background-color:var(--?-bg)"| 60
+| Supervisor
+| 23.62M
+| T4 Nethrone Bone x3
+| Potential Mine
+| Expert Scroll x20, Ancient Coin x300
+| Submit 1 Golden Pickaxe
+|-
+|style="background-color:var(--?-bg)"| 62
+| Life Priest
+| 23.27M
+| T4 Nethrone Core x3
+| Medical Lab
+| Organ Chest x50
+| Requires 50 Organ Slime - Event continues in Present 62
+|-
+|style="background-color:var(--?-bg)"| 63
+| Vessoul Priest
+| 24.08M
+| T4 Nethrone Core x3
+| [[#Snail Fights|Vessoul of Nethrone]]
+| {{relink|Nethrone Vessoul|green}} Frag x1, Demon Chest x50
+| 
+|-
+|}
+
+|-|Future=
+{| class="wikitable"
+!rowspan=2;|Tile
+!colspan=3; |First Encounter
+!colspan=2; |Second Encounter
+!rowspan=2;|Notes
+|-
+!Name
+!Troop RUSH required Power
+!Reward
+!Name
+!Reward
+|-
+|style="background-color:var(--?-bg)"| 45
+| Security Force
+| 20.17M
+| T3 Nethrone Core x3
+| Jailed Researcher
+| {{relink|Will's Spike|green}}
+| Destroy 6 soul prisons guarded by Soul Restrainers (If you've cleared all of the previous past, present, and future tiles, the last restrainer will be on tile 49 of the Future)
+|-
+|style="background-color:var(--?-bg)"| 47
+| Security Force
+| 20.63M
+| T3 Nethrone Fang x3
+| Depleted Mine
+| Kemetic Treasure Map x50
+| 
+|-
+|style="background-color:var(--?-bg)"| 49
+| Soul Restrainer
+| 21.09M
+| T3 Nethrone Bone x4
+| Depleted Mine
+| Kemetic Treasure Map x50
+| 
+|-
+|style="background-color:var(--?-bg)"| 53
+| Yama
+| 21.78M
+| T3 Nethrone Bone x5
+| [[#Snail Fights|Yama (Future)]]
+| {{RewardIconWithLink|Nether Moon}} +1
+| 
+|-
+|style="background-color:var(--?-bg)"| 59
+| Archaeologist
+| 22.93M
+| T4 Nethrone Core x5, {{RewardIconWithText|Password Note}} (1314)
+| 
+| 
+| Gives the Password for Present Tile 59 and 3 Lotto Tickets
+|-
+|style="background-color:var(--?-bg)"| 58
+| Security Force
+| 22.70M
+| T4 Nethrone Fang x3
+| [[#Snail Fights|Babel (Future)]]
+| 
+| 15 Floor Battle Tower
+|-
+|style="background-color:var(--?-bg)"| 60
+| Security Force
+| 23.73M
+| T4 Nethrone Core x3
+| Depleted Mine
+| Kemetic Treasure Map x50
+| 
+|-
+|style="background-color:var(--?-bg)"| 62
+| Medical Authority
+| 23.39M
+| T4 Nethrone Fang x4
+| [[NPWT Technology]], Organ Chest x50
+| 
+| After donating organ slime in the past and present, can now donate 100k Healing Potion
+|-
+|style="background-color:var(--?-bg)"| 63
+| Death High Schooler
+| 24.19M
+| T4 Nethrone Fang x4
+| [[#Snail Fights|Death High Schooler (Future)]]
+| {{RewardIconWithLink|Nether Moon}} +1
+| 
+|-
+|}
+</tabber>
+
+== Snail Fights ==
+<tabber>
+|-|General=
+{| class="wikitable"
+!Name !!Tile !!ATK !!DEF !!HP !!RUSH !!Special Stats !!Rewards
+|-
+|Vessoul of Nethrone (Future)
+| 4
+|87,238
+|58,159
+|2,156,735
+|AFFCT 100,060
+|HIT +50, Paralysis RES +50%
+|[[Vessoul of Nethrone]] Frag x1, Demon Chest x50
+|-
+|Dam (PAST)
+|4
+|85,575
+|57,050
+|2,106,416
+|AFFCT 99,300
+|HIT +50, Paralysis RES +50%
+|30k B-Tads
+|-
+|Hera
+|9
+|88,936
+|59,291
+|2,208,175
+|AFFCT 101,240
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Nether Moon}} +1
+|-
+| Vessoul of Nethrone
+|19
+|92,262
+|61,508
+|2,274,245
+|AFFCT 103,114
+|HIT +50, Paralysis RES +50%
+|{{relink|Nethrone Vessoul|green}} Frag x1, Demon Chest x50
+|-
+|Thanatos
+|22
+|95,813
+|63,875
+|2,375,455
+|AFFCT 105,050
+|HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Nether Moon}} +1
+|-
+| Awakened Robot (FUTURE)
+| 22
+| 94,012
+| 62,675
+| 2,322,901
+| AFFCT 103,870
+| HIT +50, Paralysis RES +50%
+| [[Rocket#Robots|AR2-T4 Capsule]] x2
+|-
+|Osiris (PAST)
+|25
+|99,341
+|66,227
+|2,478,613
+|AFFCT 106,970
+|HIT +50, Paralysis RES +50%
+|Offering Speedup x6h
+|-
+| Franchise Store Manager (FUTURE)
+| 29
+| 162,435
+| 108,290
+| 4,344,103
+| AFFCT 137,699
+| HIT +50, Paralysis RES +50%
+| Unknown Record x10, Soul of Merchant (2h)
+|-
+|Wooden Oil Rig (PAST)
+| 31
+|106,860
+|71,240
+|2,693,519
+|AFFCT 110,752
+|HIT +50, Paralysis RES +50%
+|Star Stone x3, W-Tadpoles x500
+|-
+| Giant Windmill (FUTURE)
+| 31
+| 110,506
+| 73,671
+| 2,798,456
+| AFFCT 112,680
+| HIT +50, Paralysis RES +50%
+| {{RewardIconWithLink|Nether Moon}} +1
+|-
+|Steel Oil Rig
+|32
+|104,839
+|69,893
+|2,636,384
+|AFFCT 109,886
+|Invulnerability, Not covered by Life Insurance (Must defeat Wooden Oil Rig in [[#Time Travel|Past Kemet Domain]] to damage this opponent). 
+|Tool Chest x100<br>{{RewardIconWithLink|Nether Moon}} +1
+|-
+| Vessoul of Nethrone (FUTURE)
+| 35
+| 108,578
+| 72,386
+| 2,742,763
+| AFFCT 111,660
+| HIT +50, Paralysis RES +50%
+| {{relink|Nethrone Vessoul|green}} Frag x1, Demon Chest x50
+|-
+| Master Zhong Kui
+| 41
+| 110,393
+| 73,595
+| 2,795,178
+| AFFCT 112,620
+| HIT +50, Paralysis RES +50%
+| {{RewardIconWithLink|Nether Moon}} +1
+|-
+| Yama
+| 53
+| 112,308
+| 74,872
+| 2,857,696
+| AFFCT 113,592
+| HIT +50, Paralysis RES +50%
+| {{RewardIconWithLink|Nether Moon}} +1
+|-
+| Yama (FUTURE)
+| 53
+| 114,324
+| 76,216
+| 2,930,356
+| AFFCT 114,576
+| HIT +50, Paralysis RES +50%
+| {{RewardIconWithLink|Nether Moon}} +1
+|-
+| Vessoul of Nethrone (PAST)
+| 55
+| 116,382
+| 77,588
+| 2,996,600
+| AFFCT 115,581
+| HIT +50, Paralysis RES +50%
+| {{relink|Nethrone Vessoul|green}} Frag x1, Demon Chest x50
+|-
+| Vessoul of Nethrone (PAST)
+| 63
+| 120,414
+| 80,276
+| 3,105,562
+| AFFCT 117,557
+| HIT +50, Paralysis RES +50%
+| {{relink|Nethrone Vessoul|green}} Frag x1, Demon Chest x50
+|-
+| Death High Schooler
+| 63
+| 122,472
+| 81,648
+| 3,161,258
+| AFFCT 118,586
+| HIT +50, Paralysis RES +50%
+| {{RewardIconWithLink|Nether Moon}} +1
+|-
+| Death High Schooler (Future)
+| 63
+| 124,488
+| 82,992
+| 3,215,869
+| AFFCT 119,594
+| HIT +50, Paralysis RES +50%
+| {{RewardIconWithLink|Nether Moon}} +1
+|-
+| Traveler 11247
+| 65
+| 126,504
+| 84,336
+| 3,270,530
+| AFFCT 120,602
+| HIT +50, Paralysis RES +50%
+| Super Memetic Chest x20, {{retext|Soul of Traveler 11247|yellow}} (8h)
+|-
+| Traveler 26633
+| 66
+| 128,520
+| 85,680
+| 3,329,102
+| AFFCT 121,615
+| HIT +50, Paralysis RES +50%
+| Super Memetic Chest x20, {{retext|Soul of Traveler 26633|yellow}} (8h)
+|-
+| Traveler 0985
+| 67
+| 130,578
+| 87,052
+| 3,403,958
+| AFFCT 122,669
+| HIT +50, Paralysis RES +50%
+| Super Memetic Chest x20, {{retext|Soul of Traveler 0985|red}} (8h)
+|-
+| Traveler 51101
+| 68
+| 132,594
+| 88,396
+| 3,474,672
+| AFFCT 123,701
+| HIT +50, Paralysis RES +50%
+| Super Memetic Chest x20, {{retext|Soul of Traveler 51101|red}} (8h)
+|-
+| Traveler 30297
+| 69
+| 134,610
+| 89,740
+| 3,529,575
+| AFFCT 124,733
+| HIT +50, Paralysis RES +50%
+| Super Memetic Chest x20, {{retext|Soul of Traveler 30297|blue}} (8h)
+|-
+| Traveler 64241
+| 70
+| 136,658
+| 91,105
+| 3,585,964
+| AFFCT 125,765
+| HIT +50, Paralysis RES +50%
+| Super Memetic Chest x20, {{retext|Soul of Traveler 64241|blue}} (8h)
+|-
+| Nethrone
+| 71
+| 140,000
+| 95,000
+| 16,500,000
+| AFFCT 127,850
+| {{list|CRIT +100%|Crit DMG -40%|HIT +80|Paralysis RES +80%}}
+| {{relink|Nethrone's Head|green}}
+|-
+|}
+
+
+|-|Journey of Liberation=
+{|class="wikitable"
+!Name !!ATK !!DEF !!HP !!RUSH !!Special Stats !!Rewards
+|-
+| Sobek
+| 85,575
+| 57,050
+| 2,106,416
+| AFFCT 99,100
+| HIT +50, Paralysis RES +50%
+| Soul Chest x50
+|-
+| Bastet
+| 88,451
+| 58,967
+| 2,193,470
+| AFFCT 100,760
+| HIT +50, Paralysis RES +50%
+| Soul Chest x50
+|-
+| Set
+| 91,362
+| 60,908
+| 2,256,651
+| AFFCT 102,407
+| HIT +50, Paralysis RES +50%
+| Soul Chest x50
+|-
+| Isis
+| 94,343
+| 62,895
+| 2,332,549
+| AFFCT 104,050
+| HIT +50, Paralysis RES +50%
+| Soul Chest x50
+|-
+| Imset
+| 97,393
+| 64,929
+| 2,421,629
+| AFFCT 105,710
+| HIT +50, Paralysis RES +50%
+| Soul Chest x50
+|-
+| Geb
+| 100,498
+| 66,998
+| 2,512,134
+| AFFCT 107,390
+| HIT +50, Paralysis RES +50%
+| Soul Chest x50
+|-
+| Soul of Osiris
+| 107,520
+| 71,680
+| 2,712,213
+| AFFCT 111,100
+| HIT +50, Paralysis RES +50%
+| Ashes of Osiris, W-Tad x500
+|-
+|}
+
+
+|-|Babel=
+{|class="wikitable"
+!Name !!ATK !!DEF !!HP !!RUSH !!Special Stats !!Rewards
+|-
+| Gun Tower
+| 92,505
+| 61,670
+| 2,278,982
+| AFFCT 103,050
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| Gun Tower
+| 95,776
+| 63,851
+| 2,374,381
+| AFFCT 104,830
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| Gun Tower
+| 99,047
+| 66,031
+| 2,470,007
+| AFFCT 106,610
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| Gun Tower
+| 102,388
+| 68,258
+| 2,566,463
+| AFFCT 108,390
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| Gun Tower
+| 105,811
+| 70,540
+| 2,663,844
+| AFFCT 110,198
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| Gun Tower
+| 109,183
+| 72,789
+| 2,760,228
+| AFFCT 111,980
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| Gun Tower
+| 112,686
+| 75,124
+| 2,871,311
+| AFFCT 113,777
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| Gun Tower
+| 116,424
+| 77,616
+| 2,997,733
+| AFFCT 115,601
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| Gun Tower
+| 120,162
+| 80,108
+| 3,098,746
+| AFFCT 117,431
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| Howitzer Turret
+| 123,900
+| 82,600
+| 3,199,936
+| AFFCT 119,300
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20, W-Tad x1000
+|-
+|}
+
+|-|Babel (Past)=
+{|class="wikitable"
+!Name !!ATK !!DEF !!HP !!RUSH !!Special Stats !!Rewards
+|-
+| Soldier Statue
+| 99,855
+| 66,570
+| 2,493,678
+| AFFCT 107,050
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| Soldier Statue
+| 103,635
+| 69,090
+| 2,602,356
+| AFFCT 109,050
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| Soldier Statue
+| 107,520
+| 71,680
+| 2,712,213
+| AFFCT 111,100
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| Soldier Statue
+| 111,300
+| 74,300
+| 2,821,408
+| AFFCT 113,100
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| General Statue
+| 115,500
+| 77,000
+| 2,972,792
+| AFFCT 115,150
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20, W-Tad x500
+|}
+
+|-|Babel (Future)=
+{|class="wikitable"
+!Name !!ATK !!DEF !!HP !!RUSH !!Special Stats !!Rewards
+|-
+| T600 Defense Robot
+| 85,575
+| 57,050
+| 2,106,416
+| AFFCT 99,100
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| T600 Defense Robot
+| 88,555
+| 59,037
+| 2,196,621
+| AFFCT 100,820
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| T600 Defense Robot
+| 91,500
+| 61,000
+| 2,259,357
+| AFFCT 102,485
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| T600 Defense Robot
+| 94,600
+| 63,067
+| 2,340,054
+| AFFCT 104,190
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| T600 Defense Robot
+| 97,760
+| 65,174
+| 2,432,375
+| AFFCT 105,910
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| T600 Defense Robot
+| 100,961
+| 67,301
+| 2,525,167
+| AFFCT 107,630
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| T600 Defense Robot
+| 104,179
+| 69,453
+| 2,617,720
+| AFFCT 109,337
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| T600 Defense Robot
+| 107,520
+| 71,680
+| 2,712,213
+| AFFCT 111,100
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| T600 Defense Robot
+| 110,771
+| 73,847
+| 2,806,106
+| AFFCT 112,820
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| T600 Defense Robot
+| 114,282
+| 76,188
+| 2,928,841
+| AFFCT 114,556
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| T600 Defense Robot
+| 117,894
+| 78,596
+| 3,037,436
+| AFFCT 116,319
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| T600 Defense Robot
+| 121,506
+| 81,004
+| 3,135,109
+| AFFCT 118,103
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| T600 Defense Robot
+| 125,118
+| 83,412
+| 3,232,945
+| AFFCT 119,909
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| T600 Defense Robot
+| 128,688
+| 85,792
+| 3,335,209
+| AFFCT 121,701
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20, Kemetic Treasure Map x20
+|-
+| TX Defense Robot
+| 132,300
+| 88,200
+| 3,466,670
+| AFFCT 123,550
+| HIT +50, Paralysis RES +50%
+| Demon Chest x20<br>Kemetic Treasure Map x20<br>W-Tad x1500<br>{{RewardIconWithLink|Azoth|purple}} +20 Fragments
+|}
+
+</tabber>
+
+== Shops ==
+<tabber>
+|-|Tile 30 (PRESENT)=
+{| class="wikitable"
+!Item !!Cost in {{RewardIconWithText|W-Tad}}
+|-
+| {{RewardIconWithLink|Dragon Orb|orange}}
+| 1500
+|-
+| {{RewardIconWithLink|Wish Coin, +3|orange}}
+| 1000
+|-
+| {{RewardIconWithLink|Lottery Ticket, +3|orange}}
+| 500
+|-
+| {{RewardIconWithLink|Master Scroll, +40|orange}}
+| 1200
+|-
+| {{RewardIconWithLink|Azoth|purple}} +20 Fragments
+| 1000
+|-
+| {{RewardIconWithLink|Nether Moon}} +1
+| 200
+|}
+|-|Tile 33 (FUTURE)=
+{| class="wikitable"
+!Item !!Cost
+|-
+|{{reimg|CRISPR|30}}{{relink|CRISPR|orange}}
+|300k B-Tads
+|-
+|{{reimg|Leyden Jar|30}}{{relink|Leyden Jar|purple}}
+|120k B-Tads
+|-
+|{{reimg|Earth Magnetic Field|30}}{{relink|Earth Magnetic Field|blue}}
+|60k B-Tads
+|-
+|Drone x2
+|30k B-Tads
+|-
+|{{reimg|Glue|30}}Glue x50
+|40k B-Tads
+|-
+|Nether Essence x3
+|30k B-Tads
+|}
+|-|Tile 36 (PRESENT)=
+{| class="wikitable"
+!Item !!Cost
+|-
+|{{reimg|Wealth Magazine Vol.1|30}}{{relink|Wealth Magazine Vol.1|orange}}
+|300k B-Tads
+|-
+|{{reimg|View of Le Gras|30}}{{relink|View of Le Gras|purple}}
+|120k B-Tads
+|-
+|{{reimg|The Final Communique|30}}{{relink|The Final Communique|blue}}
+|60k B-Tads
+|-
+|Sunny Plant Food
+|120k B-Tads
+|-
+|{{reimg|Glue|30}}Glue x50
+|40k B-Tads
+|-
+|Nether Essence x3
+|30k B-Tads
+|}
+</tabber>
+
+== Mines ==
+{| class="wikitable"
+! Tile !! Minions Required!! Rewards !! Time
+|-
+|2
+|T6 760
+|Kemetic Treasure Map x900<br>Dragon Chest x600<br>Nether Essence x4
+|1d 7h 20m
+|-
+|15
+|T6 x70
+|Kemetic Treasure Map x900<br>Lottery Ticket x18<br>Nether Essence x4
+|1d 7h 20m
+|-
+|28
+|T6 x70
+|Kemetic Treasure Map x1000<br>Nether Essence x5<br>[[Incense]] x1
+|1d 10h 46m
+|-
+|34
+|T6 x70
+|Kemetic Treasure Map x1000<br> Demon Chest x600<br> Nether Essence x5
+|1d 10h 46m
+|-
+|47
+|T6 x70
+|Kemetic Treasure Map x1000<br> Lottery Ticket x22<br> Nether Essence x6
+|1d 14h 15m
+|-
+|60
+|T6 x70
+|Kemetic Treasure Map x1000<br> Nether Essence x6<br> Dragon Orb x1
+|1d 14h 15m
+|-
+|}
+
+== Moon Shop ==
+
+{| class="wikitable"
+!Item !!Cost
+|-
+|{{Retext|T3 Nethrone Fang|blue}} +50
+|{{RewardIcon|Nether Moon}}
+|-
+|{{Retext|T3 Nethrone Bone|blue}} +50
+|{{RewardIcon|Nether Moon}}
+|-
+|{{Retext|T3 Nethrone Core|blue}} +50
+|{{RewardIcon|Nether Moon}}
+|-
+|{{RewardIconWithText|Clone Speedup, +20h}}
+|{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}
+|-
+|{{RewardIconWithText|W-Tad, +3k}}
+|{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}
+|-
+|{{RewardIconWithLink|Wormhole Refiner, +500}}
+|{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}
+|-
+|{{RewardIconWithLink|Sunny Plant Food, +6|orange}}
+|{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}
+|-
+|{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}
+|-
+|After Domain is 100%<br>{{RewardIconWithText|Kemet Nebula Pack|orange}} ({{RewardIconWithLink|Quantum Gel, +2k}} and {{RewardIconWithLink|Singularity Crystal, +2|orange}})
+|{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}{{RewardIcon|Nether Moon}}
+|}
+[[Category:Kemetic Domain]]

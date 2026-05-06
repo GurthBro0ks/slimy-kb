@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=564
+|relics=Dream Stele,Kanner's Report,Untitled,Talmud,MUSE Design Awards,Maya Mural
+|rank=orange
+|amount=6
+|category=self
+|description=Travel SPD +2.4%
+}}

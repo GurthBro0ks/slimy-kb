@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Book of the Dead
+|class_id=22287
+|rank=SSS
+|affct=FAITH
+|birthday=06-22
+|source=
+|description=On Jun 22, 1370 BC, the Book of the Dead was placed in a tomb along the Nile.<br>This Book of the Dead is found in the grave of Yani, buried along with its owner. To this day, Yani's version is the most well-preserved of all the Book of the Dead discovered and has the most spectacular content, which narrates how a dead person explores the underworld and returns to the mortal world. The Book of the Dead often records its owner's life experience to help him/her prepare for God's judgment. The Book of the Dead is one of a kind more often than not.
+|fame=65
+|art=75
+|fth=107
+|civ=51
+|tech=64
+|ss1=B-tad rewards from offering +1.2%<br>Per 10 Altar God Descents, Snail ATK +6<br>Per 10 Altar God Descents, Snail RUSH +6<br>Gods Descended: 400/400
+|ss2=B-tad rewards from offering +1.6%<br>Per 10 Altar God Descents, Snail ATK +7<br>Per 10 Altar God Descents, Snail RUSH +7<br>Gods Descended: 400/400
+|ss3=B-tad rewards from offering +2%<br>Per 10 Altar God Descents, Snail ATK +8<br>Per 10 Altar God Descents, Snail RUSH +8<br>Gods Descended: 400/400
+|ss4=B-tad rewards from offering +2.8%<br>Per 10 Altar God Descents, Snail ATK +10<br>Per 10 Altar God Descents, Snail RUSH +10<br>Gods Descended: 400/400
+|ss5=B-tad rewards from offering +3.6%<br>Per 10 Altar God Descents, Snail ATK +12<br>Per 10 Altar God Descents, Snail RUSH +12<br>Gods Descended: 400/400
+|ss6=B-tad rewards from offering +4.8%<br>Per 10 Altar God Descents, Snail ATK +15<br>Per 10 Altar God Descents, Snail RUSH +15<br>Gods Descended: 400/400
+|ss7=B-tad rewards from offering +4.8%<br>Per 10 Altar God Descents, Snail ATK +15<br>Per 10 Altar God Descents, Snail RUSH +15<br>Gods Descended: 400/400<br>B-tad rewards from offering +4% (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: Medal Output +30
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Travel SPD +9%
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's FTH +15
+|mirage={{Mirage|name=Road to Resurrection|reward={{RewardIconWithLink|Abyss Wings, +1|orange}}
+|3name=Hellman|3rec=32.88M|3atk=135140|3defense=90157|3hp=5220692|3weak=19227
+|4name=Netherealm's Gate|4rec=44.39M|4atk=159401|4defense=106343|4hp=7105031|4weak=20711
+|5name=Scale of Underworld|5rec=57.48M|5atk=187024|5defense=124771|5hp=9385308|5weak=23229
+|6name=Solar Barque|6rec=71.83M|6atk=217276|6defense=144953|6hp=12226425|6weak=28687
+|Arec=87.24M|Aatk=249769|Adefense=166631|Ahp=15670057|Aweak=32220
+}}}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Lyot Filter
+|class_id=22590
+|rank=AA
+|affct=TECH
+|birthday=06-21
+|source=Lottery Machine No.3 (0.12%)
+|description=On Jun 21, 1212 AD, the French solar physicist Lyot invented the first birefringent filter.<br>When light propagates through non-uniform media, its propagation speed, and refractive index change depending on the direction of vibration. Filters utilize this principle by stacking birefringent plates to change the state of the light beam and achieve filtering of specific lengths of light waves. In modern experiments, people often use it to adjust laser sources.
+|fame=44
+|art=31
+|fth=45
+|civ=39
+|tech=69
+|ss1=Per 10 advanced fusions, Snail HP +20<br>Per 10 advanced fusions, Snail ATK +2<br>Advanced Fusions: 500/500
+|ss2=Per 10 advanced fusions, Snail HP +30<br>Per 10 advanced fusions, Snail ATK +3<br>Advanced Fusions: 500/500
+|ss3=Per 10 advanced fusions, Snail HP +40<br>Per 10 advanced fusions, Snail ATK +4<br>Advanced Fusions: 500/500
+|ss4=Per 10 advanced fusions, Snail HP +60<br>Per 10 advanced fusions, Snail ATK +6<br>Advanced Fusions: 500/500
+|ss5=Per 10 advanced fusions, Snail HP +80<br>Per 10 advanced fusions, Snail ATK +8<br>Advanced Fusions: 500/500
+|ss7=Per 10 advanced fusions, Snail HP +80<br>Per 10 advanced fusions, Snail ATK +8<br>Advanced Fusions: 500/500<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Reagent Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail RUSH +60
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Organ Resonator
+|class_id=20823
+|rank=Green
+|affct=TECH
+|source=
+|description=Also known as the organ nano-connection device, it utilizes nanotechnology to connect the organs within the body, creating a resonance effect that generates a powerful life force.
+|fame=12
+|art=17
+|fth=17
+|civ=15
+|tech=29
+|ss1=Per Organ implanted, Snail ATK +1<br>Organs Implanted: 40/40
+|ss2=Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40
+|ss3=Per Organ implanted, Snail ATK +5<br>Organs Implanted: 40/40
+|ss4=Per Organ implanted, Snail ATK +5<br>Organs Implanted: 40/40
+|ss7=Per Organ implanted, Snail ATK +5<br>Organs Implanted: 40/40<br> (Awakened)
+}}

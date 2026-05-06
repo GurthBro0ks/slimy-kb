@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Pearl Earring Girl
+|class_id=22258
+|rank=SSS
+|affct=ART
+|birthday=03-09
+|source=Lottery Machine No.2 (0.11%)
+|description=On Mar 9, 1665 AD, Dutch painter Vermeer painted Girl with a Pearl Earring.<br>Pearl Earring Girl is an oil painting that depicts an imaginary young woman in an exotic dress and a large pearl earring. It represents a young woman in a dark shallow space, an intimate setting that draws the viewer's attention exclusively on her. She wears a blue and gold turban, the titular pearl earring, and a gold jacket with a visible white collar beneath. Unlike many of Vermeer's subjects, she is not concentrating on a daily chore and unaware of her viewer. Instead, caught in a fleeting moment, she turns her head over her shoulder, meeting the viewer's gaze with her eyes wide and lips parted as if about to speak.
+|fame=53
+|art=106
+|fth=75
+|civ=68
+|tech=60
+|ss1=All Minion RUSH +0.6%<br>Per 200 Avatar Score, Snail ATK +3<br>Per 200 Avatar Score, Snail RUSH +3<br>Avatar Score: 10000/10000
+|ss2=All Minion RUSH +0.8%<br>Per 200 Avatar Score, Snail ATK +4<br>Per 200 Avatar Score, Snail RUSH +4<br>Avatar Score: 10000/10000
+|ss3=All Minion RUSH +1%<br>Per 200 Avatar Score, Snail ATK +5<br>Per 200 Avatar Score, Snail RUSH +5<br>Avatar Score: 10000/10000
+|ss4=All Minion RUSH +1.4%<br>Per 200 Avatar Score, Snail ATK +7<br>Per 200 Avatar Score, Snail RUSH +7<br>Avatar Score: 10000/10000
+|ss5=All Minion RUSH +1.8%<br>Per 200 Avatar Score, Snail ATK +9<br>Per 200 Avatar Score, Snail RUSH +9<br>Avatar Score: 10000/10000
+|ss6=All Minion RUSH +2.4%<br>Per 200 Avatar Score, Snail ATK +12<br>Per 200 Avatar Score, Snail RUSH +12<br>Avatar Score: 10000/10000
+|ss7=All Minion RUSH +2.4%<br>Per 200 Avatar Score, Snail ATK +12<br>Per 200 Avatar Score, Snail RUSH +12<br>Avatar Score: 10000/10000<br>All Minion RUSH +2% (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Mutant Cells gained +30%
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's ART +15
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: B-tads gained +3000
+|mirage={{Mirage|name=Glance Back|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Girl with a Gold Earring|3rec=34.18M|3atk=137884|3defense=91988|3hp=5356138|3weak=19360
+|4name=Girl with an Agate Earring|4rec=46.01M|4atk=162831|4defense=108631|4hp=7277424|4weak=20966
+|5name=Girl with an Earring|5rec=59.29M|5atk=190843|5defense=127319|5hp=9608143|5weak=23592
+|6name=Girl with a Diamond Earring|6rec=73.64M|6atk=221095|6defense=147501|6hp=12477268|6weak=29363
+|Arec=89.33M|Aatk=254183|Adefense=169575|Ahp=15996148|Aweak=32580
+}}}}

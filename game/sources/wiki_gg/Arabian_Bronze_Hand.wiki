@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Arabian Bronze Hand
+|class_id=22155
+|rank=AAA
+|affct=FTH
+|birthday=08-30
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Aug 30, 622 BC, the Arabian Bronze Hand was created by a group of craftsmen and offered at the altar of the god.<br>This bronze hand was cast by a craftsman from more than 2,600 years ago. From the posture of the fingers to the folds of the knuckles, every detail is extremely realistic. Ancient inscriptions engraved on the back of the hand note that the owner of the hand was named Wahabitarabu. He commissioned the craftsman to make this bronze hand based on his own right hand so that he could offer the statue to the gods for protection.
+|fame=43
+|art=46
+|fth=73
+|civ=32
+|tech=49
+|ss1=Per Organ implanted, Snail ATK +3<br>Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40
+|ss2=Per Organ implanted, Snail ATK +4<br>Per Organ implanted, Snail DEF +4<br>Organs Implanted: 40/40
+|ss3=Per Organ implanted, Snail ATK +5<br>Per Organ implanted, Snail DEF +5<br>Organs Implanted: 40/40
+|ss4=Per Organ implanted, Snail ATK +7<br>Per Organ implanted, Snail DEF +7<br>Organs Implanted: 40/40
+|ss5=Per Organ implanted, Snail ATK +9<br>Per Organ implanted, Snail DEF +9<br>Organs Implanted: 40/40
+|ss7=Per Organ implanted, Snail ATK +9<br>Per Organ implanted, Snail DEF +9<br>Organs Implanted: 40/40<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail RUSH +60
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +60
+}}
+
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Organ Boost]]
+[[Category:Rift Museum Boost]]
+[[Category:Rift Exploration Boost]]
+[[Category:RUSH Boost]]
+[[Category:Zombie Minion HP Boost]]
+[[Category:Zombie Minion MAX Cap Boost]]
+[[Category:Enhanced by Organs]]

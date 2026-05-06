@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Electromagnetism
+|class_id=22748
+|rank=SSS
+|affct=TECH
+|birthday=02-02
+|source=
+|description=On Feb 2, 1873 AD, Maxwell published Electromagnetism and put forward the Maxwell equations.<br>In his book, Maxwell provided a comprehensive and systematic description from the discovery of Coulomb's law to the establishment of Maxwell's equations. He revealed that changing magnetic fields can excite electric fields and changing electric fields can excite magnetic fields, thus showing that alternating electric fields and alternating magnetic fields are interconvertible, interconnected, and unified. His theory applies to all electromagnetic phenomena from atomic and molecular scales to macroscopic fields, from low speeds to high speeds, and it drastically changed Newton's framework of natural science. It is the most widely applied theory in human history.
+|fame=67
+|art=65
+|fth=68
+|civ=55
+|tech=107
+|ss1=Gene Research Free Speedup +1m 30s<br>Per 200 Research Manuals used, Snail ATK +3<br>Per 200 Research Manuals used, Snail DEF +3<br>Research Manuals Used: 10000/10000
+|ss2=Gene Research Free Speedup +5m 20s<br>Per 200 Research Manuals used, Snail ATK +4<br>Per 200 Research Manuals used, Snail DEF +4<br>Research Manuals Used: 10000/10000
+|ss3=Gene Research Free Speedup +9m 10s<br>Per 200 Research Manuals used, Snail ATK +5<br>Per 200 Research Manuals used, Snail DEF +5<br>Research Manuals Used: 10000/10000
+|ss4=Gene Research Free Speedup +16m 50s<br>Per 200 Research Manuals used, Snail ATK +7<br>Per 200 Research Manuals used, Snail DEF +7<br>Research Manuals Used: 10000/10000
+|ss5=Gene Research Free Speedup +24m 30s<br>Per 200 Research Manuals used, Snail ATK +9<br>Per 200 Research Manuals used, Snail DEF +9<br>Research Manuals Used: 10000/10000
+|ss6=Gene Research Free Speedup +36m<br>Per 200 Research Manuals used, Snail ATK +12<br>Per 200 Research Manuals used, Snail DEF +12<br>Research Manuals Used: 10000/10000
+|ss7=Gene Research Free Speedup +36m<br>Per 200 Research Manuals used, Snail ATK +12<br>Per 200 Research Manuals used, Snail DEF +12<br>Research Manuals Used: 10000/10000<br>Gene Research Free Speedup +30m (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=Electromagnetic Pioneer|reward={{RewardIconWithLink|Badge, +20|orange}}
+|3name=Oersted|3rec=158.95M|3atk=444945|3defense=267529|3hp=69421259|3weak=51800
+|4name=Fwanklin|4rec=193.48M|4atk=518545|4defense=316110|4hp=104805631|4weak=56804
+|5name=Faraday|5rec=248.11M|5atk=623456|5defense=385781|5hp=172990333|5weak=62376
+|6name=Maxwell|6rec=358.76M|6atk=774605|6defense=485321|6hp=298912885|6weak=68411
+|Arec=503.13M|Aatk=973744|Adefense=615203|Ahp=494895835|Aweak=74392
+}}}}

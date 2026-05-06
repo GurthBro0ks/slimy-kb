@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Potsdam Declaration
+|class_id=22232
+|rank=SSS
+|affct=FAME
+|birthday=07-29
+|source=
+|description=On Jul 29, 1945 AD, the Prime Minister of Japan issued a speech rejecting the Potsdam Declaration.<br>The Potsdam Declaration, or the Proclamation Defining Terms for Japanese Surrender, is a set of 13 terms. It includes the Allies' demand for Japan to surrender unconditionally and for its army to be completely disarmed, and for war criminals to be brought to trial. Japan's sovereignty was limited to the main islands and designated isles by the Allies. On August 14, the Emperor of Japan announced the unconditional surrender.
+|fame=108
+|art=61
+|fth=53
+|civ=66
+|tech=74
+|ss1=In Dragon Form, All ELMT DMG +1.2%<br>In Dragon Form, All ELMT RES +1.2%<br>Per 3 Master Scrolls used, Snail ATK +6<br>Master Scrolls Used: 150/150
+|ss2=In Dragon Form, All ELMT DMG +1.6%<br>In Dragon Form, All ELMT RES +1.6%<br>Per 3 Master Scrolls used, Snail ATK +8<br>Master Scrolls Used: 150/150
+|ss3=In Dragon Form, All ELMT DMG +2%<br>In Dragon Form, All ELMT RES +2%<br>Per 3 Master Scrolls used, Snail ATK +10<br>Master Scrolls Used: 150/150
+|ss4=In Dragon Form, All ELMT DMG +2.8%<br>In Dragon Form, All ELMT RES +2.8%<br>Per 3 Master Scrolls used, Snail ATK +14<br>Master Scrolls Used: 150/150
+|ss5=In Dragon Form, All ELMT DMG +3.6%<br>In Dragon Form, All ELMT RES +3.6%<br>Per 3 Master Scrolls used, Snail ATK +18<br>Master Scrolls Used: 150/150
+|ss6=In Dragon Form, All ELMT DMG +4.8%<br>In Dragon Form, All ELMT RES +4.8%<br>Per 3 Master Scrolls used, Snail ATK +24<br>Master Scrolls Used: 150/150
+|ss7=In Dragon Form, All ELMT DMG +4.8%<br>In Dragon Form, All ELMT RES +4.8%<br>Per 3 Master Scrolls used, Snail ATK +24<br>Master Scrolls Used: 150/150<br>In Dragon Form, All ELMT DMG +4% (Awakened)
+|skill1=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Earth DMG +60
+|skill2=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Fire DMG +60
+|skill3=[[File:Surfclam skill III.png|50px]]Place in the Surf Clam Biozilla: In Species War, Troop CRIT +9%
+|mirage={{Mirage|name=Victory of Freedom|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Ultranational Soldier|3rec=87.24M|3atk=249769|3defense=166631|3hp=15670057|3weak=32220
+|4name=Ultranational Officer|4rec=118.11M|4atk=314887|4defense=210074|4hp=23068608|4weak=37329
+|5name=Ultranational General|5rec=154.11M|5atk=390798|5defense=260717|5hp=33391785|5weak=43855
+|6name=Ultranational Chief|6rec=195.87M|6atk=478857|6defense=319464|6hp=46517328|6weak=51334
+|Arec=249.66M|Aatk=580349|Adefense=387174|Ahp=64167993|Aweak=53272
+}}}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Gold Fishing Rod
+|class_id=20338
+|rank=Green
+|affct=FAME
+|source=
+|description=As a well-known hitwoman, Assassin Eve's favorite hobby is fishing at the beach. She worked hard for many years to finally create this Gold Fishing Rod that could fish anything from whale to shrimp, and it became her favorite possession!
+|fame=31
+|art=11
+|fth=17
+|civ=16
+|tech=15
+|ss1=The Pond has a +2% chance to produce W-tads
+|ss2=The Pond has a +4% chance to produce W-tads
+|ss3=The Pond has a +6% chance to produce W-tads
+|ss4=The Pond has a +6% chance to produce W-tads
+|ss7=The Pond has a +6% chance to produce W-tads<br> (Awakened)
+}}

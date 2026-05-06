@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=This came from the Fool, the sculptor of Snail Shell. The Fool believed that Snail Shell could be a piece of art, and carved it late on night while looking in the mirror, thinking it was the best looking Snail Shell of the world.
+|affct=FTH
+|hard=HP
+|source=Divine Chaos Chest (0.2%)
+|color=purple
+|earth=6
+|water=7
+|fire=7
+|wind=6
+|form=Angel
+|element=Earth
+|realm=Cathay
+|orangehard=ATK
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=203
+|relics=Arkanrock,True Cross
+|rank=orange
+|amount=2
+|category=self
+|description=Per Organ implanted, Snail RUSH +14;Organs Implanted: 40/40
+}}

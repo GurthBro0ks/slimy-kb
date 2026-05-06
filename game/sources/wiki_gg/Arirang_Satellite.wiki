@@ -1,0 +1,43 @@
+{{CargoRelic
+|name=Arirang Satellite
+|rank=Blue
+|affct=TECH
+|birthday=04-02
+|source=Lottery (0.03%), Wishing (1.1%), Nebula Chest (2%)
+|description=On Apr 2, 1999, Korea launched its first artificial satellite into the Earth's orbit. 
+
+The old astronomical observatory of Gyeongju received radio waves from the Arirang Satellite. This is Korea's biggest breakthrough in space exploration ever since they received an alien signal 400 years ago. Ever since that event, Koreans can hear songs from their hometown at any time.
+
+[Basic Info]
+
+Voyage: 42,985 laps around Earth
+
+Data: 440,000 images collected
+
+Purpose: Collecting images of Earth
+
+Status: Missing
+|fame=20
+|art=30
+|fth=28
+|civ=30
+|tech=46
+|ss1=In Mecha Form, Travel SPD +0.2%
+|ss2=In Mecha Form, Travel SPD +0.4%
+|ss3=In Mecha Form, Travel SPD +0.6%
+|ss4=In Mecha Form, Travel SPD +1%
+|ss7=In Mecha Form, Travel SPD +1%<br>In Mecha Form, Travel SPD +1% (Awakened)
+|skill1=[[File:Koryeo skill I.png|50px]]Place in Koryeon Museum: In Koryeo, TECH Checks -5
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:TECH Relics]]
+[[Category:Blue TECH Relics]]
+[[Category:Travel Speed Boost]]
+[[Category:Koryeo Museum Boost]]
+[[Category:Koryeo Exploration Boost]]
+[[Category:DEF Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Keyboard Warrior Boost]]
+[[Category:Enhanced by Lottery Draws]]

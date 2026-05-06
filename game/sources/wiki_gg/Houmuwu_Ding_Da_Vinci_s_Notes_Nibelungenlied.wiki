@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=238
+|relics=Houmuwu Ding,Da Vinci's Notes,Nibelungenlied
+|rank=orange
+|amount=3
+|category=self
+|description=Per 3 Orange Relics gained, Snail ATK +32;Orange Relics: 60/60
+}}

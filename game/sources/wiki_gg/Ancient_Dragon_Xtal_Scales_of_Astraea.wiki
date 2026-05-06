@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=505
+|relics=Ancient Dragon Xtal,Scales of Astraea
+|rank=orange
+|amount=2
+|category=self
+|description=Per Divine Dragon Descent, Snail DEF +7;Divine Dragon Descents: 80/80
+}}

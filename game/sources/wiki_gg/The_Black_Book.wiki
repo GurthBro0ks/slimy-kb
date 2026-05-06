@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=The Black Book
+|class_id=21730
+|rank=SSS
+|affct=FAITH
+|birthday=06-29
+|source=
+|description=On Jun 29, 2000 BC, the Book of the Dead was completed and buried in the tomb of the Pharaoh.<br>The Black Book includes ancient transcriptions and scriptures written for the dead, such as incantations, hymns, exorcisms, ceremonial mantras, and names of the gods. The texts are inscribed on the walls of pyramids and tombs. And it's also known as the Guide to the Afterlife.
+[Scripture Passage]
+I have not diverted water in its season. I have not erected a dam against flowing water. I have not extinguished a fire at its critical moment. I have not driven away the cattle of the god's property. I have not stopped a god in his procession. I am pure, I am pure, I am pure, I am pure.
+|fame=48
+|art=75
+|fth=108
+|civ=64
+|tech=67
+|ss1=Per 60 Zombie Minions in battle:<br>> Troop DEF +9<br>Per 60 Zombie Minions in battle:<br>> Troop RUSH +9<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Per 60 Zombie Minions in battle:<br>> Troop DEF +18<br>Per 60 Zombie Minions in battle:<br>> Troop RUSH +18<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Per 60 Zombie Minions in battle:<br>> Troop DEF +27<br>Per 60 Zombie Minions in battle:<br>> Troop RUSH +27<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Per 60 Zombie Minions in battle:<br>> Troop DEF +45<br>Per 60 Zombie Minions in battle:<br>> Troop RUSH +45<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Per 60 Zombie Minions in battle:<br>> Troop DEF +63<br>Per 60 Zombie Minions in battle:<br>> Troop RUSH +63<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Per 60 Zombie Minions in battle:<br>> Troop DEF +90<br>Per 60 Zombie Minions in battle:<br>> Troop RUSH +90<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Per 60 Zombie Minions in battle:<br>> Troop DEF +90<br>Per 60 Zombie Minions in battle:<br>> Troop RUSH +90<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Zombie Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: This Relic's FTH +15
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, B-tads gained +15%
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Cells collected +30%
+|mirage={{Mirage|name=Darkness Revival|reward={{RewardIconWithLink|Divine Chaos Chest, +100|orange}}
+|3name=Hell Guard|3rec=3.20M|3atk=43314|3defense=28957|3hp=646631|3weak=9578
+|4name=Great Royal Wife|4rec=6.22M|4atk=62882|4defense=42038|4hp=1216860|4weak=12291
+|5name=Archpriest|5rec=11.35M|5atk=87089|5defense=58221|5hp=2252181|5weak=14454
+|6name=Scorpion Lord|6rec=23.95M|6atk=116072|6defense=77597|6hp=3696116|6weak=17999
+|Arec=40.11M|Aatk=150067|Adefense=100323|Ahp=5964550|Aweak=19344
+}}}}

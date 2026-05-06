@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Treaty of Versailles
+|rank=AAA
+|affct=FAME
+|birthday=06-28
+|source=Club Chest (1.5%), Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)
+|description=On Jun 28, 1919, the Allied Powers signed a treaty at the Palace of Versailles in Paris. This day marks the end of World War I. The negotiation is initiated by a ten-man committee consisting of the government leaders and foreign ministers from five victorious nations. After six months of negotiation, a treaty was signed to impose sanctions on Germany. The treaty has 15 parts and 440 items. The partitioning of Germany's overseas colonies harmed the interest of China, so the Chinese representative left in indignation.
+|fame=72
+|art=32
+|fth=49
+|civ=44
+|tech=46
+|ss1=Per purple Museum Promo, Snail HP +150<br>Per Purple Museum Promo, Snail RUSH +15<br>Purple Museum Promos: 5/5
+|ss2=Per purple Museum Promo, Snail HP +200<br>Per Purple Museum Promo, Snail RUSH +20<br>Purple Museum Promos: 5/5
+|ss3=Per purple Museum Promo, Snail HP +250<br>Per Purple Museum Promo, Snail RUSH +25<br>Purple Museum Promos: 5/5
+|ss4=Per purple Museum Promo, Snail HP +350<br>Per Purple Museum Promo, Snail RUSH +35<br>Purple Museum Promos: 5/5
+|ss5=Per Purple Museum Promo, Snail HP +450<br>Per Purple Museum Promo, Snail RUSH +45<br>Purple Museum Promos: 5/5
+|ss7=Per Purple Museum Promo, Snail HP +450<br>Per Purple Museum Promo, Snail RUSH +45<br>Purple Museum Promos: 5/5<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Water DMG +60
+|skill2=[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Power Checks in Gene Simulations -5%
+}}
+
+[[Category:HP Boost]]
+[[Category:RUSH Boost]]
+[[Category:Museum Promo Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:Water DMG Boost]]
+[[Category:AFFCT Boost]]
+[[Category:Mecha Gene Speedup Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Enhanced by Museum Promos]]

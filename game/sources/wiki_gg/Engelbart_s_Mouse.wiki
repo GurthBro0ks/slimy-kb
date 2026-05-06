@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Engelbart's Mouse
+|class_id=22003
+|rank=Blue
+|affct=FAME
+|birthday=09-25
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Sept 25, 1968 AD, at the Fall Computer Fair in San Francisco, people saw a computer mouse for the first time.<br>Invented by Engelbart, an American inventor, it is the first computer mouse in the world. It looks like a wooden box with a pair of metal wheels on the bottom and only one button on the top. It is connected to a computer through a cable. Maybe it doesn't look cool, it works the same as a modern-day mouse.
+|fame=45
+|art=24
+|fth=23
+|civ=29
+|tech=33
+|ss1=Per 30 Tool Chests opened, Snail ATK +1<br>Tool Chests Opened: 1500/1500
+|ss2=Per 30 Tool Chests opened, Snail ATK +2<br>Tool Chests Opened: 1500/1500
+|ss3=Per 30 Tool Chests opened, Snail ATK +3<br>Tool Chests Opened: 1500/1500
+|ss4=Per 30 Tool Chests opened, Snail ATK +5<br>Tool Chests Opened: 1500/1500
+|ss7=Per 30 Tool Chests opened, Snail ATK +5<br>Tool Chests Opened: 1500/1500<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail FAME +200
+}}

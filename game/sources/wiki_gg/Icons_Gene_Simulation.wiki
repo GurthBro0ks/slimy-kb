@@ -1,0 +1,204 @@
+= [[Gene Simulation]] =
+Icons for [[Gene Simulation]] displayed using [[:Template:RewardIconGeneSegment]].
+
+== DNA Gene Segments ==
+{{RewardIconWithText|DNA Gene Segment}}
+
+* {{RewardIconGeneSegment|Heimdall}}
+* {{RewardIconGeneSegment|MAFB}}
+* {{RewardIconGeneSegment|NF}}
+* {{RewardIconGeneSegment|Titanian}}
+
+=== [[Fissure Shop]] Gene Segments ===
+* {{RewardIconGeneSegment|Belrog}}
+* {{RewardIconGeneSegment|Cave Lord}}
+* {{RewardIconGeneSegment|Copperbeard}}
+* {{RewardIconGeneSegment|Earth Dragon}}
+* {{RewardIconGeneSegment|Evil Omen}}
+* {{RewardIconGeneSegment|Gulpetal Tyrant}}
+* {{RewardIconGeneSegment|Headless Rider}}
+* {{RewardIconGeneSegment|Mammoth}}
+* {{RewardIconGeneSegment|Mantis Monk}}
+* {{RewardIconGeneSegment|Seer Beetle}}
+* {{RewardIconGeneSegment|Skulllizard}}
+* {{RewardIconGeneSegment|Skullord}}
+* {{RewardIconGeneSegment|Smilodon}}
+* {{RewardIconGeneSegment|Tsarjaw}}
+* {{RewardIconGeneSegment|Underground King}}
+* {{RewardIconGeneSegment|Venustoad}}
+* {{RewardIconGeneSegment|White Demon}}
+
+== [[Organs]] Gene Segments ==
+{{RewardIconWithText|Original Gene Segment}}
+
+* {{RewardIconGeneSegment|Original}}
+* {{RewardIconGeneSegment|Fatedrake}}
+* {{RewardIconGeneSegment|Frostaurowa}}
+* {{RewardIconGeneSegment|Hell Pincereign}}
+* {{RewardIconGeneSegment|Ocean Coralith}}
+* {{RewardIconGeneSegment|Skynet-T}}
+* {{RewardIconGeneSegment|Storm Sandworm}}
+* {{RewardIconGeneSegment|Venomark Slug}}
+
+
+* {{RewardIconGeneSegment|Xenking}}
+
+== Purple DNA Gene Segments ==
+{{RewardIconWithText|Purple DNA Gene Segment}}
+
+* {{RewardIconGeneSegment|Biochem Man}}
+* {{RewardIconGeneSegment|Flying Man}}
+* {{RewardIconGeneSegment|No.0}}
+* {{RewardIconWithLink|Ultimate Virus Trial}}
+
+
+== Form DNA Gene Segments ==
+* {{RewardIconGeneSegment|Angel}}
+* {{RewardIconGeneSegment|Demon}}
+* {{RewardIconGeneSegment|Mecha}}
+* {{RewardIconGeneSegment|Mutant}}
+* {{RewardIconGeneSegment|Zombie}}
+
+
+* {{RewardIconGeneSegment|Dragon}}
+* {{RewardIconWithLink|Dragon Evolution Gene}}
+
+== Misc Gene Segments ==
+* {{RewardIconGeneSegment|Alien}}
+* {{RewardIconGeneSegment|Ancient Apostle}}
+* {{RewardIconWithLink|Bogenian Trial}}
+* {{RewardIconGeneSegment|Bone Demon}}
+* {{RewardIconGeneSegment|Book Demon}}
+* {{RewardIconGeneSegment|Dark Pike Demon}}
+* {{RewardIconGeneSegment|Flarken}}
+* {{RewardIconGeneSegment|Frankenstein}}
+* {{RewardIconGeneSegment|HE Creature}}
+* {{RewardIconGeneSegment|HIV}}
+* {{RewardIconGeneSegment|Huge Seahorse}}
+* {{RewardIconGeneSegment|Koi Dragon}}
+* {{RewardIconGeneSegment|Kun-Peng}}
+* {{RewardIconGeneSegment|Kungfu Rat}}
+* {{RewardIconGeneSegment|Meat Chef}}
+* {{RewardIconGeneSegment|Mutated Gecko}}
+* {{RewardIconGeneSegment|Pulao II}}
+* {{RewardIconGeneSegment|Rainbow Pig's}}
+* {{RewardIconGeneSegment|Rotten Merman}}
+* {{RewardIconGeneSegment|Sealed Beast}}
+* {{RewardIconGeneSegment|Space Pirate}}
+* {{RewardIconGeneSegment|Subject Draco}}
+* {{RewardIconGeneSegment|Succubus}}
+* {{RewardIconGeneSegment|Super Slug}}
+* {{RewardIconGeneSegment|Swarm Dragon}}
+* {{RewardIconGeneSegment|Tracker 2000}}
+* {{RewardIconGeneSegment|Ultimate Lifeform}}
+* {{RewardIconGeneSegment|Urvogel}}
+* {{RewardIconGeneSegment|Yazi II}}
+
+= Icon Examples =
+Icons for [[Gene Simulation]] displayed using [[:Template:IconExampleRowWithLink]].
+
+== DNA Gene Segments ==
+{{RewardIconWithText|DNA Gene Segment}}
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|DNA Gene Segment}}
+{{IconExampleRowWithLink|Heimdall Gene Segment}}
+{{IconExampleRowWithLink|MAFB Gene Segment}}
+{{IconExampleRowWithLink|NF Gene Segment}}
+{{IconExampleRowWithLink|Titanian Gene Segment}}
+|}
+
+=== [[Fissure Shop]] Gene Segments ===
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Belrog Gene Segment}}
+{{IconExampleRowWithLink|Cave Lord Gene Segment}}
+{{IconExampleRowWithLink|Copperbeard Gene Segment}}
+{{IconExampleRowWithLink|Earth Dragon Gene Segment}}
+{{IconExampleRowWithLink|Evil Omen Gene Segment}}
+{{IconExampleRowWithLink|Gulpetal Tyrant Gene Segment}}
+{{IconExampleRowWithLink|Headless Rider Gene Segment}}
+{{IconExampleRowWithLink|Mammoth Gene Segment}}
+{{IconExampleRowWithLink|Mantis Monk Gene Segment}}
+{{IconExampleRowWithLink|Seer Beetle Gene Segment}}
+{{IconExampleRowWithLink|Skulllizard Gene Segment}}
+{{IconExampleRowWithLink|Skullord Gene Segment}}
+{{IconExampleRowWithLink|Smilodon Gene Segment}}
+{{IconExampleRowWithLink|Tsarjaw Gene Segment}}
+{{IconExampleRowWithLink|Underground King Gene Segment}}
+{{IconExampleRowWithLink|Venustoad Gene Segment}}
+{{IconExampleRowWithLink|White Demon Gene Segment}}
+|}
+
+== [[Organs]] Gene Segments ==
+{{RewardIconWithText|Original Gene Segment}}
+
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Original Gene Segment}}
+{{IconExampleRowWithLink|Fatedrake Gene Segment}}
+{{IconExampleRowWithLink|Frostaurowa Gene Segment}}
+{{IconExampleRowWithLink|Hell Pincereign Gene Segment}}
+{{IconExampleRowWithLink|Ocean Coralith Gene Segment}}
+{{IconExampleRowWithLink|Skynet-T Gene Segment}}
+{{IconExampleRowWithLink|Storm Sandworm Gene Segment}}
+{{IconExampleRowWithLink|Venomark Slug Gene Segment}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Xenking Gene Segment}}
+|}
+
+== Purple DNA Gene Segments ==
+{{RewardIconWithText|Purple DNA Gene Segment}}
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Purple DNA Gene Segment}}
+{{IconExampleRowWithLink|Biochem Man Gene Segment}}
+{{IconExampleRowWithLink|Flying Man Gene Segment}}
+{{IconExampleRowWithLink|No.0 Gene Segment}}
+{{IconExampleRowWithLink|Ultimate Virus Trial}}
+|}
+
+== Form DNA Gene Segments ==
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Angel Gene Segment}}
+{{IconExampleRowWithLink|Demon Gene Segment}}
+{{IconExampleRowWithLink|Mecha Gene Segment}}
+{{IconExampleRowWithLink|Mutant Gene Segment}}
+{{IconExampleRowWithLink|Zombie Gene Segment}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Dragon Gene Segment}}
+{{IconExampleRowWithLink|Dragon Evolution Gene}}
+|}
+
+== Misc Gene Segments ==
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Alien Gene Segment}}
+{{IconExampleRowWithLink|Ancient Apostle Gene Segment}}
+{{IconExampleRowWithLink|Bogenian Trial}}
+{{IconExampleRowWithLink|Bone Demon Gene Segment}}
+{{IconExampleRowWithLink|Book Demon Gene Segment}}
+{{IconExampleRowWithLink|Dark Pike Demon Gene Segment}}
+{{IconExampleRowWithLink|Flarken Gene Segment}}
+{{IconExampleRowWithLink|Frankenstein Gene Segment}}
+{{IconExampleRowWithLink|HE Creature Gene Segment}}
+{{IconExampleRowWithLink|HIV Gene Segment}}
+{{IconExampleRowWithLink|Huge Seahorse Gene Segment}}
+{{IconExampleRowWithLink|Koi Dragon Gene Segment}}
+{{IconExampleRowWithLink|Kun-Peng Gene Segment}}
+{{IconExampleRowWithLink|Kungfu Rat Gene Segment}}
+{{IconExampleRowWithLink|Meat Chef Gene Segment}}
+{{IconExampleRowWithLink|Mutated Gecko Gene Segment}}
+{{IconExampleRowWithLink|Pulao II Gene Segment}}
+{{IconExampleRowWithLink|Rainbow Pig's Gene Segment}}
+{{IconExampleRowWithLink|Rotten Merman Gene Segment}}
+{{IconExampleRowWithLink|Sealed Beast Gene Segment}}
+{{IconExampleRowWithLink|Space Pirate Gene Segment}}
+{{IconExampleRowWithLink|Subject Draco Gene Segment}}
+{{IconExampleRowWithLink|Succubus Gene Segment}}
+{{IconExampleRowWithLink|Super Slug Gene Segment}}
+{{IconExampleRowWithLink|Swarm Dragon Gene Segment}}
+{{IconExampleRowWithLink|Tracker 2000 Gene Segment}}
+{{IconExampleRowWithLink|Ultimate Lifeform Gene Segment}}
+{{IconExampleRowWithLink|Urvogel Gene Segment}}
+{{IconExampleRowWithLink|Yazi II Gene Segment}}
+|}
+
+[[Category:Icons]]

@@ -1,0 +1,64 @@
+= [[Realms]] =
+Icons that are mainly used in Realms.
+
+== [[Koryeo]] ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|INTEL Manual}}
+{{IconExampleRowWithText|Military Bomb}}
+{{IconExampleRowWithText|Musashi's Legacy}}
+{{IconExampleRowWithText|Terminal Core}}
+{{IconExampleRowWithText|Universal Key}}
+{{IconExampleRowWithText|Unidentified Motor}}
+|}
+
+= [[Yamato]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Energy Core (Rocket)}}
+{{IconExampleRowWithText|Taichi Chest}}
+|}
+
+== [[Ninjutsu]] ==
+Icons that are part of Ninjutsu
+
+
+Tier 8 Rewards
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Aqua Precious Box}}
+{{IconExampleRowWithText|Earth Precious Box}}
+{{IconExampleRowWithText|Fire Precious Box}}
+{{IconExampleRowWithText|Thunder Precious Box}}
+|}
+
+Tier 16 Rewards
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Flame Precious Box}}
+{{IconExampleRowWithText|Ice Precious Box}}
+{{IconExampleRowWithText|Lightning Precious Box}}
+{{IconExampleRowWithText|Rock Precious Box}}
+|}
+
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Chakra}}
+|}
+
+= [[Cathay]] =
+
+= [[Murika]] =
+
+= [[Britland]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|NAV Bronze Coin}}
+{{IconExampleRowWithText|NAV Silver Coin}}
+{{IconExampleRowWithText|NAV Gold Coin}}
+|}
+
+= [[Kemet]] =
+
+= [[Hellas]] =
+
+= [[Bharata]] =
+
+= [[Time Rift]]=
+
+[[Category:Icons]]
+[[Category:Realm]]

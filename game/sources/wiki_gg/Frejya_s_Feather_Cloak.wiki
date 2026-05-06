@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Frejya's Feather Cloak
+|class_id=22558
+|rank=AAA
+|affct=FAITH
+|birthday=05-24
+|source=Lottery Machine No.3 (0.06%)
+|description=On May 24, 2045 BC, Loki borrowed the feather coat from Frejya.<br>This feather coat is the possession of the goddess Frejya. She is the wife of the god-king Odin and the only deity in the Aesir pantheon who can share his throne, hence receiving this feather coat imbued with powerful magic to protect herself. By wearing it, she can transform into any shape at will. The gods have borrowed this coat from Frejya on many occasions, and with the help of its transformative power, they have thwarted the conspiracies of the frost giants many times.
+|fame=39
+|art=53
+|fth=71
+|civ=37
+|tech=43
+|ss1=Snail ATK +30<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +24<br>Opened Protolith Chests: 500/500
+|ss2=Snail ATK +40<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +32<br>Opened Protolith Chests: 500/500
+|ss3=Snail ATK +50<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +40<br>Opened Protolith Chests: 500/500
+|ss4=Snail ATK +70<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +56<br>Opened Protolith Chests: 500/500
+|ss5=Snail ATK +90<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +72<br>Opened Protolith Chests: 500/500
+|ss7=Snail ATK +90<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +72<br>Opened Protolith Chests: 500/500<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Cap +15%
+|skill2=[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: This Relic's FTH +10
+}}

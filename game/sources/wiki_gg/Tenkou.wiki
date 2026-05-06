@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Tenkou
+|rank=orange
+|cabin=2
+|id=154
+|gene1={race} HP +500
+|gene2={race} CIV +50
+|gene3=Refine +1 White Rebel Material +3%
+|gene4=Per 60 Dragon Minions in battle,
+Troop Water DMG +6
+|gene5=Water DMG +0.9%
+|gene6=Per 60 Dragon Minions in battle,
+Troop Water DMG +10
+|gene7=Water DMG +1.5%
+|}}

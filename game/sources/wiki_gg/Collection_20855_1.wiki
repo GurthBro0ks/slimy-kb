@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20855_1
+|class_id=20855
+|rank=Green
+|affct=TECH
+|source=
+|description=collection@20855_2
+|fame=95
+|art=95
+|fth=95
+|civ=95
+|tech=100
+|ss1=Per Demon Lord defeated, Snail HP +50<br>Per Demon Lord defeated, Snail ATK +5<br>Per Demon Lord defeated, Snail DEF +5<br>Per Demon Lord defeated, Snail RUSH +5<br>Demon Lords Defeated: 20/20
+|ss2=Per Demon Lord defeated, Snail HP +100<br>Per Demon Lord defeated, Snail ATK +10<br>Per Demon Lord defeated, Snail DEF +10<br>Per Demon Lord defeated, Snail RUSH +10<br>Demon Lords Defeated: 20/20
+|ss3=Per Demon Lord defeated, Snail HP +150<br>Per Demon Lord defeated, Snail ATK +15<br>Per Demon Lord defeated, Snail DEF +15<br>Per Demon Lord defeated, Snail RUSH +15<br>Demon Lords Defeated: 20/20
+|ss4=Per Demon Lord defeated, Snail HP +150<br>Per Demon Lord defeated, Snail ATK +15<br>Per Demon Lord defeated, Snail DEF +15<br>Per Demon Lord defeated, Snail RUSH +15<br>Demon Lords Defeated: 20/20
+|ss7=Per Demon Lord defeated, Snail HP +150<br>Per Demon Lord defeated, Snail ATK +15<br>Per Demon Lord defeated, Snail DEF +15<br>Per Demon Lord defeated, Snail RUSH +15<br>Demon Lords Defeated: 20/20<br> (Awakened)
+}}

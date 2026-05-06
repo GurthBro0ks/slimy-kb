@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=498
+|relics=Ink Chrysanths,Mystic Mountain
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Minions in battle: Troop Water DMG +7
+}}

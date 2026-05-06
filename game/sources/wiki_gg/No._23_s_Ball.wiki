@@ -1,0 +1,33 @@
+{{CargoRelic
+|name=No. 23's Ball
+|rank=AA
+|affct=CIV
+|birthday=02-14
+|source=Expert Scrolls (0.95%), Fragment Crafting (3.7%), Lottery Machine (0.08%), Wishing (0.34%)
+|description=On Feb 14, 2003, Michael Jordan signed on a basketball before retirement.
+
+When Michael Jordan announced his retirement, the price of all his signed items soared. In the exhibition hall of a certain stadium, there was a basketball. He wrote "The Last Shot" under the trademark of the ball, as it was the last ball he signed before his retirement.
+|fame=40
+|art=30
+|fth=41
+|civ=69
+|tech=48
+|ss1=Star Coins from Free Daily Star Coins +16%<br>Club Chests from Free Daily Star Coins +20%
+|ss2=Star Coins from Free Daily Star Coins +20%<br>Club Chests from Free Daily Star Coins +30%
+|ss3=Star Coins from Free Daily Star Coins +24%<br>Club Chests from Free Daily Star Coins +40%
+|ss4=Star Coins from Free Daily Star Coins +30%<br>Club Chests from Free Daily Star Coins +60%
+|ss5=Star Coins from Free Daily Star Coins +40%<br>Club Chests from Free Daily Star Coins +80%
+|ss7=Star Coins from Free Daily Star Coins +40%<br>Club Chests from Free Daily Star Coins +80%<br>Club Chests from Free Daily Star Coins +70% (Awakened)
+|skill1=[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, Fire RES +15
+|skill2=[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, Fire DMG +60
+}}
+
+[[Category:Star Coin Boost]]
+[[Category:Club Chest Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:Fire RES Boost]]
+[[Category:Fire DMG Boost]]
+[[Category:Relic Boost]]
+[[Category:RUSH Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Enhanced by Relic Points]]

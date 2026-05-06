@@ -1,0 +1,331 @@
+== Jiro Toyato ♂ ==
+An ace driver, a tofu maker, and a high school student. The name Jiro means speed!
+
+=== Begin Friendship ===
+To obtain Jiro Toyato, complete [[Yamato]] Key Clue "Greatest Racer." 
+
+===☆☆☆ > ★☆☆===
+After 10 letters back and forth, Jiro Toyato will arrive at [[Home Base]] with the gift of {{RewardIconWithText|Handmade Tofu}}.
+
+{{RewardIconWithText|Handmade Tofu}} contains:
+* {{RewardIconWithText|Moldy Tofu}} (Snail RUSH +1, {{RewardIconWithText|Zombie Cell, +200}})
+* {{RewardIconWithText|Fried Tofu}} (Snail DEF +1, {{RewardIconWithText|Demon Cell, +200}})
+* {{RewardIconWithText|Hard Tofu}} (Snail ATK +1, {{RewardIconWithText|Angel Cell, +200}})
+* {{RewardIconWithText|Soft Tofu}} (Snail HP +10, {{RewardIconWithText|Mutant Cell, +200}})
+
+===★☆☆ > ★★☆===
+After 10 letters back and forth, Jiro Toyato will arrive at [[Home Base]] and gift Snepe's Urn (Master Alchemy Case, Soul of Snepe). This will also begin the [[Mailbox#Old Wizard|Old Wizard]] storyline.
+
+===★★☆ > ★★★===
+After 9 letters back and forth, Jiro Toyato will move in permanently with his minion, The Mechanic.
+
+==Rent==
+[[File:Jiro Toyato rent.png|frameless|left]]
+
+Jiro Toyato rent is collected on '''Thursday''' and found as a tool box on the floor.
+
+ '''Normal Rent''': {{RewardIconWithText|Refine Speedup, +10m}}
+
+ '''Rare Rent''': {{RewardIconWithLink|Faraday's Dynamo|blue}}
+
+ '''1-time Rent''': {{RewardIconWithLink|Engine 86|green}}
+
+{{clear}}
+
+==Relics==
+Upgrading these will earn Refinement Speedup!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|Refine Speedup +1h
+|-
+|★★
+|Refine Speedup +1h
+|-
+|★★★
+|Refine Speedup +1h
+|-
+|★★★★
+|Refine Speedup +2h
+|-
+|★★★★★
+|Refine Speedup +3h
+|-
+|★★★★★★
+|Refine Speedup +4h
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Pumpkin Coach}}{{Relink|Pumpkin Coach}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Flyer I}}{{Relink|Flyer I}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Hawking's Wheelchair}}{{Relink|Hawking's Wheelchair}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Otto Engine}}{{Relink|Otto Engine}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Boat of St. Peter}}{{Relink|Boat of St. Peter}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Ship in a Bottle}}{{Relink|Ship in a Bottle}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Golden Chariot}}{{Relink|Golden Chariot}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Aladdin Carpet}}{{Relink|Aladdin Carpet}}
+|}
+
+==Jiro's Gutter Run==
+Step on the gas when you drive past a gutter, then slam on the brake to drift out a beautiful curve...
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||FTH +5||Free Gene Speedup (Mecha) +30s
+|-
+|2||180||2k||FTH +10||Free Gene Speedup (Mecha) +1m30s 
+|-
+|3||190||4.5k||FTH +15||Free Gene Speedup (Mecha) +2m
+|-
+|4||200||8k||FTH +20||Free Gene Speedup (Mecha) +2m30s
+|-
+|5||210||12.5k||FTH +25||Free Gene Speedup (Mecha) +3m
+|-
+|6||220||18k||FTH +30||Free Gene Speedup (Mecha) +3m30s
+|-
+|7||230||24.5k||FTH +35||Free Gene Speedup (Mecha) +4m
+|-
+|8||240||32k||FTH +40||Free Gene Speedup (Mecha) +4m30s
+|-
+|9||250||40.5k||FTH +45||Free Gene Speedup (Mecha) +5m 
+|-
+|10||260||50k||FTH +50||Free Gene Speedup (Mecha) +5m30s
+|-
+|11||270||60.5k||FTH +55||Free Gene Speedup (Mecha) +6m
+|-
+|12||285||72k||FTH +60||Free Gene Speedup (Mecha) +6m30s 
+|-
+|13||300||84.5k||FTH +65||Free Gene Speedup (Mecha) +7m 
+|-
+|14||315||98k||FTH +70||Free Gene Speedup (Mecha) +7m30s
+|-
+|15||330||112k||FTH +75||Free Gene Speedup (Mecha) +8m
+|-
+|16||345||123k||FTH +80||Free Gene Speedup (Mecha) +8m30s
+|-
+|17||360||144k||FTH +85||Free Gene Speedup (Mecha) +9m
+|-
+|18||375||162k||FTH +90||Free Gene Speedup (Mecha) +9m30s 
+|-
+|19||390||180k||FTH +95||Free Gene Speedup (Mecha) +10m
+|-
+|20||400||200k||FTH +100||Free Gene Speedup (Mecha) +10m30s
+|-
+|21||420||220k||FTH +105||Free Gene Speedup (Mecha) +11m
+|-
+|22||440||242k||FTH +110||Free Gene Speedup (Mecha) +11m30s
+|-
+|23||460||264k||FTH +115||Free Gene Speedup (Mecha) +12m 
+|-
+|24||480||285k||FTH +120||Free Gene Speedup (Mecha) +12m30s 
+|-
+|25||500||309k||FTH +125||Free Gene Speedup (Mecha) +13m 
+|-
+|26||520||333k||FTH +130||Free Gene Speedup (Mecha) +13m30s
+|-
+|27||540||357k||FTH +135||Free Gene Speedup (Mecha) +14m
+|-
+|28||560||381k||FTH +140||Free Gene Speedup (Mecha) +14m30s 
+|-
+|29||580||405k||FTH +145||Free Gene Speedup (Mecha) +15m
+|-
+|30||600||429k||FTH +150||Free Gene Speedup (Mecha) +15m30s
+|}
+
+==Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Jiro's Gutter Run is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +10
+|-
+|2||4k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +20
+|-
+|3||6k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +30 
+|-
+|4||8k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +40 
+|-
+|5||10k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +50
+|-
+|6||12k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +60 
+|-
+|7||14k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +70 
+|-
+|8||16k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +80 
+|-
+|9||18k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +90 
+|-
+|10||20k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +100
+|-
+|11||22k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +110
+|-
+|12||24k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +120
+|-
+|13||26k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +130
+|-
+|14||28k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +140
+|-
+|15||30k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +150
+|-
+|16||32k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +160
+|-
+|17||34k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +170
+|-
+|18||36k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +180
+|-
+|19||38k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +190
+|-
+|20||40k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +200
+|-
+|21||42k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +210
+|-
+|22||44k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +220
+|-
+|23||46k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +230
+|-
+|24||48k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +240
+|-
+|25||50k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +250
+|-
+|26||55k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +260
+|-
+|27||60k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +270
+|-
+|28||65k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +280
+|-
+|29||70k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +290
+|-
+|30||75k||Mecha Minion MAX +1||Per 10 Mechanics in battle, Troop HP +300
+|}
+
+==Research Ability==
+Below is a table of the research manual cost to upgrade each research gene. Jiro Toyato specializes in '''Mecha Gene''' and therefore the research manual cost for the Mecha is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+==Minion - Mechanic==
+During his escape, Jiro Toyato held all the mechanics who helped him repair his car in case they gave him away! These poor guys are now in big trouble.
+
+=== Special Ability - Battle Mechanic===
+Per 10 Mechanics in battle, Troop Regen +10 (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Mechanics!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Divergence Meter}}<br>{{relink|Divergence Meter}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Tee Virus}}<br>{{relink|Tee Virus}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Edison's Phonograph}}<br>{{relink|Edison's Phonograph}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Yuan Calendar}}<br>{{relink|Yuan Calendar}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Babbage Engine}}<br>{{relink|Babbage Engine}}
+|HP +4% 
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Watt Steam Engine}}<br>{{relink|Watt Steam Engine}}
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Aegis System}}<br>{{relink|Aegis System}}
+|ATK +4%
+|ATK  +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Voyager 1}}<br>{{relink|Voyager 1}}
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|}
+
+[[Category:Partners]]

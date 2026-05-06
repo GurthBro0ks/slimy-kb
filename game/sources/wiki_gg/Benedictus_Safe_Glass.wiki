@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Benedictus Safe Glass
+|class_id=22415
+|rank=Blue
+|affct=FAME
+|birthday=06-12
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jun 12, 1910 AD, Benedictus applied for a patent for safety glass.<br>The inspiration for this invention came from Benedictus's experience cleaning a laboratory. He accidentally knocked over a boiling flask but found that it remained intact despite being covered in cracks. After studying it, he discovered that the flask had once contained nitrocellulose, leaving behind a thin film on the wall. Based on this amazing discovery, he created the world's first laminated glass, greatly improving the safety of glass.
+|fame=44
+|art=26
+|fth=22
+|civ=28
+|tech=34
+|ss1=Zombie Minion ATK +1%
+|ss2=Zombie Minion ATK +2%
+|ss3=Zombie Minion ATK +3%
+|ss4=Zombie Minion ATK +5%
+|ss7=Zombie Minion ATK +5%<br>Zombie Minion ATK +5% (Awakened)
+|skill1=[[File:Desertsanctum skill I.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +5%
+}}

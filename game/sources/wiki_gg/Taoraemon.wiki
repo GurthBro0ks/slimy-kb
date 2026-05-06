@@ -1,0 +1,329 @@
+== Taoraemon ♂ ==
+The cat robot from the future is a perfect combination of sci-fi and fantasy.
+
+=== Begin Friendship ===
+To obtain Taoraemon, complete [[Yamato]] Key Clue "Tasty Dorayaki."
+
+===☆☆☆ > ★☆☆===
+After 8 letters back and forth, Taoraemon will arrive at the [[Home Base]] and gift {{RewardIconWithLink|Bamboo Copter|green}}.
+
+===★☆☆ > ★★☆===
+After 11 letters back and forth, Taoraemon will gift Old Fraud's Legacy (Soul of Immortal Seeker, {{RewardIconWithText|Gene Speedup}} +12h)
+
+===★★☆ > ★★★ ===
+Taoraemon will require 30k {{RewardIconWithText|B-Tad}} and 5 Koryeo Snail minions. 
+
+After 12 letters back and forth, Taoraemon will permanently move in with his minion, Catcolyte.
+
+==Rent==
+[[File:Taoraemon rent.png|frameless|left]]
+
+Taoraemon rent is collected on '''Saturday''' and found as a clock on the wall. 
+
+ '''Normal Rent''': random Speedup +10m
+
+ '''Rare Rent''': {{RewardIconWithLink|Atomic Clock|blue}} +10
+
+ '''1-time Rent''': {{RewardIconWithLink|Time Adjuster|green}}
+
+{{clear}}
+
+==Relics==
+Upgrading these will earn {{RewardIconWithText|Gene Speedup}}!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|{{RewardIconWithText|Gene Speedup}} +1h
+|-
+|★★
+|{{RewardIconWithText|Gene Speedup}} +1h
+|-
+|★★★
+|{{RewardIconWithText|Gene Speedup}} +1h
+|-
+|★★★★
+|{{RewardIconWithText|Gene Speedup}} +2h
+|-
+|★★★★★
+|{{RewardIconWithText|Gene Speedup}} +3h
+|-
+|★★★★★★
+|{{RewardIconWithText|Gene Speedup}} +4h
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Linde's Fridge}}{{Relink|Linde's Fridge}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Faraday's Dynamo}}{{Relink|Faraday's Dynamo}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Turing Machine}}{{Relink|Turing Machine}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Tree of Life}}{{Relink|Tree of Life}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Tokamak}}{{Relink|Tokamak}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Sputnik 1}}{{Relink|Sputnik 1}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Element R.}}{{Relink|Element R.}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Dyson Sphere}}{{Relink|Dyson Sphere}}
+|}
+
+==Taoraemon 5D Tech==
+Taoraemon came from the 22nd century, with access to technologies far advanced than the current generation, and willing to share...
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||TECH +5||All Gene Research SPD +1%
+|-
+|2||180||2k||TECH +10||All Gene Research SPD +2%
+|-
+|3||190||4.5k||TECH +15||All Gene Research SPD +3%
+|-
+|4||200||8k||TECH +20||All Gene Research SPD +4%
+|-
+|5||210||12.5k||TECH +25||All Gene Research SPD +5%
+|-
+|6||220||18k||TECH +30||All Gene Research SPD +6%
+|-
+|7||230||24.5k||TECH +35||All Gene Research SPD +7% 
+|-
+|8||240||32k||TECH +40||All Gene Research SPD +8%
+|-
+|9||250||40.5k||TECH +45||All Gene Research SPD +9%
+|-
+|10||260||50k||TECH +50||All Gene Research SPD +10%
+|-
+|11||270||60.5k||TECH +55||All Gene Research SPD +11%
+|-
+|12||285||72k||TECH +60||All Gene Research SPD +12%
+|-
+|13||300||84.5k||TECH +65||All Gene Research SPD +13%
+|-
+|14||315||98k||TECH +70||All Gene Research SPD +14%
+|-
+|15||330||112k||TECH +75||All Gene Research SPD +15%
+|-
+|16||345||123k||TECH +80||All Gene Research SPD +16%
+|-
+|17||360||144k||TECH +85||All Gene Research SPD +17%
+|-
+|18||375||162k||TECH +90||All Gene Research SPD +18%
+|-
+|19||390||180k||TECH +95||All Gene Research SPD +19%
+|-
+|20||400||200k||TECH +100||All Gene Research SPD +20% 
+|-
+|21||420||220k||TECH +105||All Gene Research SPD +21%
+|-
+|22||440||242k||TECH +110||All Gene Research SPD +22%
+|-
+|23||460||264k||TECH +115||All Gene Research SPD +23%
+|-
+|24||480||285k||TECH +120||All Gene Research SPD +24%
+|-
+|25||500||309k||TECH +125||All Gene Research SPD +25%
+|-
+|26||520||333k||TECH +130||All Gene Research SPD +26%
+|-
+|27||540||357k||TECH +135||All Gene Research SPD +27%
+|-
+|28||560||381k||TECH +140||All Gene Research SPD +28%
+|-
+|29||580||405k||TECH +145||All Gene Research SPD +29%
+|-
+|30||600||429k||TECH +150||All Gene Research SPD +30%
+|}
+
+==Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Taoraemon 5D Tech is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +10
+|-
+|2||4k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +20
+|-
+|3||6k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +30
+|-
+|4||8k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +40
+|-
+|5||10k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +50
+|-
+|6||12k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +60
+|-
+|7||14k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +70
+|-
+|8||16k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +80
+|-
+|9||18k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +90
+|-
+|10||20k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +100
+|-
+|11||22k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +110
+|-
+|12||24k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +120
+|-
+|13||26k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +130
+|-
+|14||28k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +140
+|-
+|15||30k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +150
+|-
+|16||32k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +160
+|-
+|17||34k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +170
+|-
+|18||36k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +180
+|-
+|19||38k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +190
+|-
+|20||40k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +200
+|-
+|21||42k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +210
+|-
+|22||44k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +220
+|-
+|23||46k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +230
+|-
+|24||48k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +240
+|-
+|25||50k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +250
+|-
+|26||55k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +260
+|-
+|27||60k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +270
+|-
+|28||65k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +280
+|-
+|29||70k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +290
+|-
+|30||75k||Angel Minion MAX +1||Per 10 Catcolyte in battle, Troop RUSH +300
+|}
+
+==Research Ability ==
+Below is a table of the research manual cost to upgrade each research gene. Taoraemon specializes in '''Angel Gene''' and therefore the research manual cost for the Angel is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|96|100
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+==Minion - Catcolyte==
+Cultivators usually have young lad servants. Their main job is to take care of the cultivators, and they can practice in their spare time!
+
+===Special Ability - Flying Sword===
+Per 10 Catcolytes in battle, Troop RUSH +10 (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Catcolytes!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Golden Fleece}}<br>{{relink|Golden Fleece}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Dragon Crystal}}<br>{{relink|Dragon Crystal}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Fallen Lucifer}}<br>{{relink|Fallen Lucifer}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Avelon}}<br>{{relink|Avelon}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Buddha's Skull Sarira}}<br>{{relink|Buddha's Skull Sarira}}
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Gaea's Hand}}<br>{{relink|Gaea's Hand}}
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Phoenix Feather}}<br>{{relink|Phoenix Feather}}
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|3-Faced Statue}}<br>{{relink|3-Faced Statue}}
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|}
+
+[[Category:Partners]]

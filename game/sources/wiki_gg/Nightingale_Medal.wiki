@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Nightingale Medal
+|class_id=22220
+|rank=SSS
+|affct=FAME
+|birthday=03-24
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Mar 24, 1912 AD, the world's first Nightingall Medal was awarded.<br>In the 19th century, Nightingale and her team went to the front lines to raise the standard of nursing care in field hospitals. Within a few months, she reduced the mortality rate of the wounded from 40% to 2%. The soldiers called her "Goddess with the Lamp" because she always patrolled the ward with a lamp. She served the patients with a spirit of humanity, fraternity, and dedication. Nightingale established nursing schools worldwide and perfected nursing theory, making her the founder of modern nursing education. The Nightingale Award, named after her, is the highest honor in the international nursing world.
+|fame=106
+|art=60
+|fth=49
+|civ=74
+|tech=73
+|ss1=Snail Leadership +3<br>Angel Minion ATK +3%<br>Per 120 Drill Bits used, Snail RUSH +3<br>Drill Bits Used: 6000/6000
+|ss2=Snail Leadership +4<br>Angel Minion ATK +4%<br>Per 120 Drill Bits used, Snail RUSH +4<br>Drill Bits Used: 6000/6000
+|ss3=Snail Leadership +5<br>Angel Minion ATK +5%<br>Per 120 Drill Bits used, Snail RUSH +5<br>Drill Bits Used: 6000/6000
+|ss4=Snail Leadership +7<br>Angel Minion ATK +7%<br>Per 120 Drill Bits used, Snail RUSH +7<br>Drill Bits Used: 6000/6000
+|ss5=Snail Leadership +9<br>Angel Minion ATK +9%<br>Per 120 Drill Bits used, Snail RUSH +9<br>Drill Bits Used: 6000/6000
+|ss6=Snail Leadership +12<br>Angel Minion ATK +12%<br>Per 120 Drill Bits used, Snail RUSH +12<br>Drill Bits Used: 6000/6000
+|ss7=Snail Leadership +12<br>Angel Minion ATK +12%<br>Per 120 Drill Bits used, Snail RUSH +12<br>Drill Bits Used: 6000/6000<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Mutant Cells gained +15%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Zombie Cells gained +15%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Angel Cells gained +15%
+|mirage={{Mirage|name=Respected Doctor|reward={{RewardIconWithLink|Doctor Frag, +20|orange}}
+|3name=Medical Nurse|3rec=27.68M|3atk=124164|3defense=82835|3hp=4432536|3weak=18716
+|4name=Surgical Nurse|4rec=38.41M|4atk=146802|4defense=97937|4hp=6053528|4weak=19796
+|5name=Orthopedic Nurse|5rec=50.63M|5atk=172572|5defense=115130|5hp=8112587|5weak=21871
+|6name=OBGYN Nurse|6rec=64.44M|6atk=201704|6defense=134565|6hp=10669127|6weak=25888
+|Arec=79.43M|Aatk=233306|Adefense=155647|Ahp=13808262|Aweak=30791
+}}}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=198
+|relics=Sistine Madonna,King's Gayageum
+|rank=orange
+|amount=2
+|category=self
+|description=Per 1k DNA Strength, Snail HP +50;DNA Strength: 42000/42000
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Probiotic
+|class_id=20473
+|rank=Green
+|affct=FAME
+|source=
+|description=Probiotics refer to the live microorganisms that have health benefits after the consumer takes in enough amount to better balance the flora inside them. Fermented probiotics are considered the optimal carrier. Probiotics are supposed to help Maneaters grow more healthily.
+|fame=29
+|art=16
+|fth=14
+|civ=16
+|tech=15
+|ss1=Per 500 Fissure Floors, Maneater Digest SPD +1%<br>Fissure Floor: 10000/10000
+|ss2=Per 500 Fissure Floors, Maneater Digest SPD +1.5%<br>Fissure Floor: 10000/10000
+|ss3=Per 500 Fissure Floors, Maneater Digest SPD +2%<br>Fissure Floor: 10000/10000
+|ss4=Per 500 Fissure Floors, Maneater Digest SPD +2%<br>Fissure Floor: 10000/10000
+|ss7=Per 500 Fissure Floors, Maneater Digest SPD +2%<br>Fissure Floor: 10000/10000<br> (Awakened)
+}}

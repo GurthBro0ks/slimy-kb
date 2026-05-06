@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Bill of Rights
+|class_id=22231
+|rank=SSS
+|affct=FAME
+|birthday=10-20
+|source=
+|description=On Oct 20, 1689 AD, the Parliament of England passed the Bill of Rights.<br>Following the restoration of the House of Stuart, the king attempted to reclaim power and restore Catholicism, which contradicted parliament's interests. The parliament had planned to welcome the Protestant Princess Mary after the old king died, as he had no male heirs. However, the queen gave birth to a son. As a result, the parliament had to invite Princess Mary to England in advance, and as a condition for her ascension to the throne, the Parliament proposed the Bill of Rights, on which the two sides eventually agreed. Because of this, the constitutional monarchy of Britain was established, and capitalism was able to flourish.
+|fame=107
+|art=55
+|fth=57
+|civ=65
+|tech=78
+|ss1=Snail Leadership +6<br>Demon Minion ATK +3%<br>Per 50 Daily Silver Packs bought, Snail ATK +12<br>Daily Silver Packs Bought: 1000/1000
+|ss2=Snail Leadership +7<br>Demon Minion ATK +4%<br>Per 50 Daily Silver Packs bought, Snail ATK +16<br>Daily Silver Packs Bought: 1000/1000
+|ss3=Snail Leadership +8<br>Demon Minion ATK +5%<br>Per 50 Daily Silver Packs bought, Snail ATK +20<br>Daily Silver Packs Bought: 1000/1000
+|ss4=Snail Leadership +10<br>Demon Minion ATK +7%<br>Per 50 Daily Silver Packs bought, Snail ATK +28<br>Daily Silver Packs Bought: 1000/1000
+|ss5=Snail Leadership +12<br>Demon Minion ATK +9%<br>Per 50 Daily Silver Packs bought, Snail ATK +36<br>Daily Silver Packs Bought: 1000/1000
+|ss6=Snail Leadership +15<br>Demon Minion ATK +12%<br>Per 50 Daily Silver Packs bought, Snail ATK +48<br>Daily Silver Packs Bought: 1000/1000
+|ss7=Snail Leadership +15<br>Demon Minion ATK +12%<br>Per 50 Daily Silver Packs bought, Snail ATK +48<br>Daily Silver Packs Bought: 1000/1000<br>Snail Leadership +10 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Extra RUSH DMG +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Reagent Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|mirage={{Mirage|name=Constitutional Monarchy|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Lower House Speaker|3rec=38.14M|3atk=146230|3defense=97556|3hp=6024265|3weak=19773
+|4name=Upper House Speaker|4rec=50.36M|4atk=172001|4defense=114748|4hp=8086384|4weak=21823
+|5name=King William|5rec=64.17M|5atk=201133|5defense=134183|5hp=10631342|5weak=25763
+|6name=Queen Mary|6rec=79.10M|6atk=232620|6defense=155190|6hp=13763376|6weak=30732
+|Arec=95.57M|Aatk=267354|Adefense=178362|Ahp=17495526|Aweak=33675
+}}}}

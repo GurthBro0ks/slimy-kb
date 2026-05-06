@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Book of Shadows
+|class_id=22151
+|rank=AA
+|affct=FAITH
+|birthday=02-22
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Feb 22, 1954 AD, the Wiccan sect was created and the Book of Shadows became its foundational text.<br>This strange book, which comes from a Wiccan, records many spells, rituals, and blessings of witches and goddesses. It also spreads the idea of diversity and tolerance in Faith. It thereby serves as one of the theological pillars for the sect and has been passed down as a foundational work.
+|fame=44
+|art=45
+|fth=66
+|civ=34
+|tech=39
+|ss1=Per 2 FTH Master Scrolls used, Snail HP +20<br>Per 2 FTH Master Scrolls used, Snail ATK +2<br>FTH Master Scrolls Used: 100/100
+|ss2=Per 2 FTH Master Scrolls used, Snail HP +30<br>Per 2 FTH Master Scrolls used, Snail ATK +3<br>FTH Master Scrolls Used: 100/100
+|ss3=Per 2 FTH Master Scrolls used, Snail HP +40<br>Per 2 FTH Master Scrolls used, Snail ATK +4<br>FTH Master Scrolls Used: 100/100
+|ss4=Per 2 FTH Master Scrolls used, Snail HP +60<br>Per 2 FTH Master Scrolls used, Snail ATK +6<br>FTH Master Scrolls Used: 100/100
+|ss5=Per 2 FTH Master Scrolls used, Snail HP +80<br>Per 2 FTH Master Scrolls used, Snail ATK +8<br>FTH Master Scrolls Used: 100/100
+|ss7=Per 2 FTH Master Scrolls used, Snail HP +80<br>Per 2 FTH Master Scrolls used, Snail ATK +8<br>FTH Master Scrolls Used: 100/100<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, All Minion RUSH +4.5%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FTH +10
+}}

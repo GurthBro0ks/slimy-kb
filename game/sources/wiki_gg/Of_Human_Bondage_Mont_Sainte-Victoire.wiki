@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=1203
+|relics=Of Human Bondage,Mont Sainte-Victoire
+|rank=orange
+|amount=2
+|category=self
+|description=Snail Leadership +7
+}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Daguerreotype Camera
+|class_id=22099
+|rank=Blue
+|affct=TECH
+|birthday=03-12
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Mar 12, 1839 AD, Daguerre was granted a patent for photography by the French Academy of Sciences and Arts.<br>The maker of this camera is French inventor Daguerre. He successfully applied the method he invented to this camera. It relies on two nested wooden box structures to adjust the focus, and uses the lens cover as the shutter, with an exposure time of 30 minutes to get clear images. It is the first practical camera in the world, and its design is continued to this day.
+|fame=28
+|art=21
+|fth=33
+|civ=26
+|tech=46
+|ss1=Mecha Minion RUSH +1%
+|ss2=Mecha Minion RUSH +2%
+|ss3=Mecha Minion RUSH +3%
+|ss4=Mecha Minion RUSH +5%
+|ss7=Mecha Minion RUSH +5%<br>Mecha Minion RUSH +5% (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]]Place in Gene Sim Device: Snail RUSH +20
+}}

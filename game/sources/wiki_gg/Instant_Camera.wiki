@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=This fast-developing camera was a standard issue among travelers. After the factory went out of business, the Instant Camera could no longer be used due to the lack of film.
+|affct=CIV
+|hard=RUSH
+|source=Divine Neutral Chest (0.8%)
+|color=green
+|earth=4
+|water=1
+|fire=0
+|wind=1
+|form=Mutant
+|element=Water
+|realm=Cathay
+|orangehard=RUSH
+}}

@@ -1,0 +1,324 @@
+== Lee Gi-na ♀ ==
+An innocent lady who used to live a luxurious life with her ex. Now she only lives for love!
+
+=== Begin Friendship ===
+To obtain Lee Gi-na, complete [[Cathay]] Key Clue "Sheet Music Collector"
+
+=== ☆☆☆ > ★★☆ ===
+After 6 letters back and forth, Lee Gi-na will arrive at [[Home Base]] and gift Lee Gi-na's Photo Album (Novice Scroll +10, Expert Scroll +10)
+
+=== ★★☆ > ★★★ ===
+After 16 letters back and forth, Lee Gi-na will move in permanently with her minion, Minorino.
+
+==Rent ==
+[[File:Lee Gi-na rent.png|frameless|left]]
+
+Lee Gi-na rent is collected on '''Sunday''' and as a bunch of scrolls in the vase.
+
+ '''Normal Rent''': {{RewardIconWithLink|Bach Concerto|blue}}
+
+ '''Rare Rent''': {{RewardIconWithLink|Moonlight Sonata|purple}}, {{RewardIconWithLink|The Nutcracker|purple}}
+
+ '''1-time Rent''': {{RewardIconWithLink|Bloodhoph Letter|green}}
+
+{{clear}}
+
+==Relics ==
+Upgrading these will earn Evolution Chest!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|Evolution Chest +20
+|-
+|★★
+|Evolution Chest +20 
+|-
+|★★★
+|Evolution Chest +20
+|-
+|★★★★
+|Evolution Chest +40 
+|-
+|★★★★★
+|Evolution Chest +60
+|-
+|★★★★★★ 
+|Evolution Chest +80
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Universe Bowl}}{{Relink|Universe Bowl}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Persian Star Chart}}{{Relink|Persian Star Chart}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Prince's Rose}}{{Relink|Prince's Rose}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Kani Jade}}{{Relink|Kani Jade}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Koh-i-Noor Diamond}}{{Relink|Koh-i-Noor Diamond}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Pandora's Box}}{{Relink|Pandora's Box}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Arkanrock}}{{Relink|Arkanrock}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Leaf of Yggdrasil}}{{Relink|Leaf of Yggdrasil}}
+|}
+
+== Lee Gi-na's Love Song==
+This is me standing in the snow, saying I am sorry for that night! And I'll go back to January all the time...
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||CIV +5||Time Machine Travel Speedup Output +1%
+|-
+|2||180||2k||CIV +10||Time Machine Travel Speedup Output +2%
+|-
+|3||190||4.5k||CIV +15||Time Machine Travel Speedup Output +3%
+|-
+|4||200||8k||CIV +20||Time Machine Travel Speedup Output +4%
+|-
+|5||210||12.5k||CIV +25||Time Machine Travel Speedup Output +5%
+|-
+|6||220||18k||CIV +30||Time Machine Travel Speedup Output +6%
+|-
+|7||230||24.5k||CIV +35||Time Machine Travel Speedup Output +7%
+|-
+|8||240||32k||CIV +40||Time Machine Travel Speedup Output +8%
+|-
+|9||250||40.5k||CIV +45||Time Machine Travel Speedup Output +9%
+|-
+|10||260||50k||CIV +50||Time Machine Travel Speedup Output +10%
+|-
+|11||270||60.5k||CIV +55||Time Machine Travel Speedup Output +11%
+|-
+|12||285||72k||CIV +60||Time Machine Travel Speedup Output +12%
+|-
+|13||300||84.5k||CIV +65||Time Machine Travel Speedup Output +13%
+|-
+|14||315||98k||CIV +70||Time Machine Travel Speedup Output +14%
+|-
+|15||330||112k||CIV +75||Time Machine Travel Speedup Output +15%
+|-
+|16||345||123k||CIV +80||Time Machine Travel Speedup Output +16%
+|-
+|17||360||144k||CIV +85||Time Machine Travel Speedup Output +17%
+|-
+|18||375||162k||CIV +90||Time Machine Travel Speedup Output +18%
+|-
+|19||390||180k||CIV +95||Time Machine Travel Speedup Output +19%
+|-
+|20||400||200k||CIV +100||Time Machine Travel Speedup Output +20%
+|-
+|21||420||220k||CIV +105||Time Machine Travel Speedup Output +21%
+|-
+|22||440||242k||CIV +110||Time Machine Travel Speedup Output +22%
+|-
+|23||460||264k||CIV +115||Time Machine Travel Speedup Output +23%
+|-
+|24||480||285k||CIV +120||Time Machine Travel Speedup Output +24%
+|-
+|25||500||309k||CIV +125||Time Machine Travel Speedup Output +25%
+|-
+|26||520||333k||CIV +130||Time Machine Travel Speedup Output +26%
+|-
+|27||540||357k||CIV +135||Time Machine Travel Speedup Output +27% 
+|-
+|28||560||381k||CIV +140||Time Machine Travel Speedup Output +28%
+|-
+|29||580||405k||CIV +145||Time Machine Travel Speedup Output +29%
+|-
+|30||600||429k||CIV +150||Time Machine Travel Speedup Output +30% 
+|}
+
+==Commander ==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Lee gi-na's Love Song is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +10 
+|-
+|2||4k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +20
+|-
+|3||6k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +30
+|-
+|4||8k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +40
+|-
+|5||10k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +50
+|-
+|6||12k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +60
+|-
+|7||14k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +70 
+|-
+|8||16k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +80
+|-
+|9||18k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +90
+|-
+|10||20k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +100
+|-
+|11||22k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +110
+|-
+|12||24k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +120
+|-
+|13||26k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +130
+|-
+|14||28k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +140
+|-
+|15||30k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +150
+|-
+|16||32k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +160
+|-
+|17||34k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +170
+|-
+|18||36k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +180
+|-
+|19||38k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +190
+|-
+|20||40k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +200
+|-
+|21||42k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +210
+|-
+|22||44k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +220
+|-
+|23||46k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +230
+|-
+|24||48k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +240
+|-
+|25||50k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +250
+|-
+|26||55k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +260
+|-
+|27||60k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +270
+|-
+|28||65k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +280
+|-
+|29||70k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +290
+|-
+|30||75k||Mutant Minion MAX +1||Per 10 Minorinos in battle, Troop HP +300
+|}
+
+==Research Ability ==
+Below is a table of the research manual cost to upgrade each research gene. Lee Gi-na specializes in '''Mutant Gene''' and therefore the research manual cost for the Mutant is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+==Minion - Minorino==
+Legend has it all the minorinos come from a god who befell Thunder Cliff with a huge Palm-Leaf Fan on his shoulder. It was the first Minorino ever...
+
+===Special Ability - Rebirth===
+Per 10 Minorinos in battle, Self Recovery +2% (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Minorinos!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Universe Bowl}}<br>{{relink|Universe Bowl}}
+|HP +1%
+|DEF +1%
+|ATK +1% 
+|RUSH +1% 
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Persian Star Chart}}<br>{{relink|Persian Star Chart}}
+|HP +1%
+|DEF +1% 
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Prince's Rose}}<br>{{relink|Prince's Rose}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Kani Jade}}<br>{{relink|Kani Jade}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Koh-i-Noor Diamond}}<br>{{relink|Koh-i-Noor Diamond}}
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Pandora's Box}}<br>{{relink|Pandora's Box}}
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Arkanrock}}<br>{{relink|Arkanrock}}
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Leaf of Yggdrasil}}<br>{{relink|Leaf of Yggdrasil}}
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|}
+
+[[Category:Partners]]
+[[Category:Time Machine Output Boost]]
+[[Category:Minion HP Boost]]

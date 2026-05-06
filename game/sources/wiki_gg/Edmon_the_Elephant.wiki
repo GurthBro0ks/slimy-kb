@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Edmon the Elephant
+|rank=blue
+|cabin=2
+|id=10
+|gene1={race} DEF +20
+|gene2={race} CIV +20
+|gene3=Quantum Amp production +1%
+|gene4=Per 10 Mutant Minions in battle:
+> Troop DEF +2
+|gene5=Quantum Amp production +2%
+|}}

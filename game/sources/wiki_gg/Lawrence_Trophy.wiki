@@ -1,0 +1,17 @@
+{{CargoRelic
+|name=Lawrence Trophy
+|rank=Green
+|affct=FAME
+|source=Gene Sim Value Pack ($4.99)
+|description=Annually, Lawrence Trophy goes to the most outstanding male and female athletes in the world. It is one of the most influential prizes in sports. It is also the only global sports award ceremony, the pinnacle of glory for athletes!
+|fame=28
+|art=16
+|fth=15
+|civ=15
+|tech=16
+|ss1=Gene Simulation Power Checks -3%<br>Per 30 Gene Simulation LVLs, Snail ATK +2<br>Gene Simulation LVLs: 900/900
+|ss2=Gene Simulation Power Checks -6%<br>Per 30 Gene Simulation LVLs, Snail ATK +4<br>Gene Simulation LVLs: 900/900
+|ss3=Gene Simulation Power Checks -9%<br>Per 30 Gene Simulation LVLs, Snail ATK +6<br>Gene Simulation LVLs: 900/900
+}}
+
+[[Category:Relics]][[Category:Green Relics]][[Category:FAME Relics]][[Category:Green FAME Relics]][[Category:Value Pack Relics]][[Category:Gene Simulation Boost]][[Category:ATK Boost]]

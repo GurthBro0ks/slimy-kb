@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=CBD
+|class_id=22633
+|rank=SSS
+|affct=FAME
+|birthday=11-03
+|source=
+|description=On November 3, 1992, the United Nations Conference on Environment and Development adopted the resolution for the Convention on Biological Diversity.<br>The Convention on Biological Diversity (CBD) is an international agreement aimed at protecting global biodiversity and promoting sustainable ecological development. The convention recognizes biodiversity as the foundation of global ecosystems and human social development, with irreplaceable importance. It outlines measures that contracting parties should take, including formulating policies for the protection and management of natural resources, enacting regulations for the conservation of endangered species and ecosystems, enhancing international cooperation, and facilitating the transfer of biotechnology. As of now, the convention has nearly two hundred contracting parties, making it one of the world's largest biodiversity conservation agreements.
+|fame=106
+|art=63
+|fth=47
+|civ=76
+|tech=70
+|ss1=All Zombie Minion Skins, HARD Stats +30%<br>Per 3 Prairie Protomon, Snail ATK +9<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +48<br>Prairie Protomon: 60/60
+|ss2=All Zombie Minion Skins, HARD Stats +40%<br>Per 3 Prairie Protomon, Snail ATK +12<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +64<br>Prairie Protomon: 60/60
+|ss3=All Zombie Minion Skins, HARD Stats +50%<br>Per 3 Prairie Protomon, Snail ATK +15<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +80<br>Prairie Protomon: 60/60
+|ss4=All Zombie Minion Skins, HARD Stats +70%<br>Per 3 Prairie Protomon, Snail ATK +21<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +112<br>Prairie Protomon: 60/60
+|ss5=All Zombie Minion Skins, HARD Stats +90%<br>Per 3 Prairie Protomon, Snail ATK +27<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +144<br>Prairie Protomon: 60/60
+|ss6=All Zombie Minion Skins, HARD Stats +120%<br>Per 3 Prairie Protomon, Snail ATK +36<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +192<br>Prairie Protomon: 60/60
+|ss7=All Zombie Minion Skins, HARD Stats +120%<br>Per 3 Prairie Protomon, Snail ATK +36<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +192<br>Prairie Protomon: 60/60<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Water DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|mirage={{Mirage|name=Community of Life|reward={{RewardIconWithLink|Gene Speedup, +28800|orange}}
+|3name=Edwards' Pheasant|3rec=128.36M|3atk=357561|3defense=224487|3hp=20006008|3weak=37297
+|4name=Yangtze River Dolphin|4rec=188.33M|4atk=501509|4defense=308864|4hp=35705102|4weak=42213
+|5name=Golden Monkey|5rec=294.99M|5atk=715462|5defense=427950|5hp=75637691|5weak=51520
+|6name=Giant Panda|6rec=415.39M|6atk=915428|6defense=536270|6hp=119971103|6weak=56319
+|Arec=582.68M|Aatk=1220904|Adefense=686773|Ahp=264004782|Aweak=64317
+}}}}

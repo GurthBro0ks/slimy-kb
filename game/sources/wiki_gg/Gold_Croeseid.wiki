@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Gold Croeseid
+|class_id=22111
+|rank=AA
+|affct=FAME
+|birthday=12-05
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Dec 5, 660 BC, King Croesus of Lydia designed these gold coins.<br>This gold coin, produced under Croesus, King of Lydia in the sixth century BC, is the earliest minted gold and silver coin. The early Lydians used naturally occurring gold-silver alloy found in river beds for these coins which were called amber gold coins by later generations. Later, Croesus, carried out currency reforms, making the world's first bi-metallic coinage system using both gold and silver coins, which had a profound impact on the ancient Mediterranean region.
+|fame=66
+|art=40
+|fth=34
+|civ=43
+|tech=45
+|ss1=In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +16%<br>Per 200 Fissure Floors, Snail ATK +4<br>Fissure Floor: 5000/5000
+|ss2=In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +24%<br>Per 200 Fissure Floors, Snail ATK +6<br>Fissure Floor: 5000/5000
+|ss3=In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +32%<br>Per 200 Fissure Floors, Snail ATK +8<br>Fissure Floor: 5000/5000
+|ss4=In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +48%<br>Per 200 Fissure Floors, Snail ATK +12<br>Fissure Floor: 5000/5000
+|ss5=In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +64%<br>Per 200 Fissure Floors, Snail ATK +16<br>Fissure Floor: 5000/5000
+|ss7=In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +64%<br>Per 200 Fissure Floors, Snail ATK +16<br>Fissure Floor: 5000/5000<br>In the Gaia Rocket Cabin:<br>> Garden of Eden Base Effect +56% (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +3%
+}}

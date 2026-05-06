@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Laser Eye
+|type=Bionic
+|rank=purple
+|id=10679
+|idx=36
+|description="When those eyes open, blinding laser beams tear through matter and unleash a massive radiation field. Contamination levels: unmeasured."
+—Skynet Surveillance Log
+|skill=Before round start, activate the Radiation Field, reducing the enemy's DEF by 36% this round!
+|hp=1500
+|def=127
+|atk=116
+|rush=238
+|gene1=RUSH CRIT DMG +5%
+|gene2=In Gene Sims, Wind DMG +120
+|gene3=In Gene Sims, CRIT DMG +10%
+|gene4=Ignore Wind RES +60
+|gene7=In Gene Sims, CRIT DMG +10% (Awakened)
+|}}

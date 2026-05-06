@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=750
+|relics=Sherman Anti-Trust Act,Locarno Treaties,Celebrity Biography,Confessiones,Frankenstein
+|rank=orange
+|amount=5
+|category=self
+|description=Merge 1 Orange Stardust: Gain 1 more by 10%
+}}

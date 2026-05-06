@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=629
+|relics=Watermen Pen,Inman Fluorescent Lamp
+|rank=blue
+|amount=2
+|category=self
+|description=Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +40;Frost Sanctum Rating Pts: 100000/100000
+}}

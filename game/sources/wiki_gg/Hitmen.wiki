@@ -1,0 +1,353 @@
+===Hitmen===
+Hitmen are sent daily by the Demon Gods to assassinate the snail. Once the first exploration of the day is completed, the daily Hitman will show up, starting with Hitman No. 1. Once a hitman has been defeated, they will attempt to run away. The snail can choose to give up the fight or intercept them for more rewards. Once a hitman has been fully defeated in both fights, the next hitman will take their place. It's unknown how many total hitmen there are. Hitmen drop a base amount of W-tads and Demon Chests as well as a Lottery Ticket, although certain [[Relics]] can raise the reward amount for defeating them. 
+
+As is usual with most snail fights, in order to use RUSH against the opponent, the weakness of the enemy must be identified. For example: for Hitman No. 1 the snail must possess at least 80 CIV in order to identify his weakness and use RUSH against him. 
+
+Certain hitmen will become friends, partners, or unlock further storylines after fully defeating them:
+ Hitman No.4: [[Big Guy Park]]
+ Hitman No.8: [[Ghost Zadako]]
+ Hitman No.12: [[Red Doe]]
+ Hitman No.18: [[Demon Chan-hee]]
+
+{|class="wikitable" style="text-align:center"
+|-
+!colspan="4"|Relics and Gear obtained through Hitman Interception
+|-
+|[[File:Strength Sword.png|50px]]<br>{{Gearlink|green|Instrument|Strength Sword}}
+|[[File:Sakabato Blade.png|50px]]<br>{{Gearlink|blue|Instrument|Sakabato Blade}}
+|{{ImageWithLinkAndBreak|Hitman No.11 License|green}}
+|[[File:Ring of Stupor.png|50px]]<br>{{Gearlink|purple|Armor|Ring of Stupor}}
+|-
+|{{ImageWithLinkAndBreak|B-Tadpole XL|green}}
+|{{ImageWithLinkAndBreak|Fungus (XL)|green}}
+|{{ImageWithLinkAndBreak|Research Notes|green}}
+|{{ImageWithLinkAndBreak|Lieutenant Officer ID|green}}
+|-
+|{{ImageWithLinkAndBreak|Invisible Relic|green}}
+|{{ImageWithLinkAndBreak|Meowster Seal|green}}
+|{{ImageWithLinkAndBreak|Hitman No.36 License|green}}
+|{{ImageWithLinkAndBreak|Fortune Cat Mainspring|green}}
+|-
+|{{ImageWithLinkAndBreak|Hitman No.47 License|green}}
+|{{ImageWithLinkAndBreak|Hot Pot|green}}
+|{{ImageWithLinkAndBreak|Agent Permit S-I|green}}
+|{{ImageWithLinkAndBreak|Super Evolution Cell|green}}
+|-
+|{{ImageWithLinkAndBreak|Golden Controller|green}}
+|
+|
+|
+|}
+
+{| class="wikitable" style="width:100%; text-align:center;"
+|-
+! class="unsortable" style="width:140px;" |Hitman
+!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+| rowspan="2" |[[File:Hitman-1.png|center|thumb|120px|Hitman No. 1]]
+|30||30||300||CIV 80||Lottery Ticket, W-tads +100, Demon Chest +30
+|-
+|90||63||620||CIV 240||Demon Chest +50, {{RewardIconWithGearlink|green|Instrument|Strength Sword}}
+|-
+|colspan="6" style="height:75px"|Hitman 2 does not come to fight you, presumably because he was crushed by [[Chichikaka]] before he could try
+|-
+| rowspan="2" |[[File:Hitman-3.png|center|thumb|120px|Hitman No. 3]]
+|77||54||27||TECH 240||Lottery Ticket, W-tads +105, Demon Chests +30
+|-
+|514||197||1,326||TECH 1,140||Demon Chest +50
+|-
+| rowspan="2" |[[File:Hitman-3 EX.png|center|thumb|120px|Hitman No. 3EX]]
+|430||135||903||TECH 145||Lottery Ticket, W-tads +110, Demon Chest +30
+|-
+|613||487||4,163||TECH 836||Demon Chest +50
+|-
+| rowspan="2" |[[File:Hitman-3 EX M.png|center|thumb|120px|Hitman No. 3EXM]]
+|301||195||2,914||TECH 585||Lottery Ticket, W-tads +115, Demon Chest +30
+|-
+|1,127||912||7,797||TECH 1,587||Demon Chest +50
+|-
+| rowspan="2" |[[File:Hitman-4.png|center|thumb|120px|Hitman No. 4]]
+|564||365||5,458||FAME 1,111||Lottery Ticket, W-tads +120, Demon Chest +30
+|-
+|2,103||1,702||14,551||FAME 2,235||Demon Chest +50, Gear Chest +50, Partner [[Big Guy Park]]
+|-
+| rowspan="2" |[[File:Hitman-5.png|center|thumb|120px|Hitman No. 5]]
+|1,052||681||10,186||FTH 1,564||Lottery Ticket, W-tads +125, Demon Chest +30
+|-
+|3,319||2,783||23,796||FTH 3,048||Demon Chest +50, {{RewardIconWithGearlink|blue|Instrument|Sakabato Blade}}
+|-
+| rowspan="2" |[[File:Hitman-5 EX.png|center|thumb|120px|Hitman No. 5 EX]]
+|1,660||1,113||16,657||AFFCT 10,669||Lottery Ticket, W-tads +130, Demon Chest +30
+|-
+|5,581||4,742||40,547||AFFCT 20,350||Demon Chest +50
+|-
+|colspan="6" style="height:75px"|Hitman No.6 is defeated by [[Big Guy Park]] before he can make his way to try and defeat you
+|-
+| rowspan="2" |[[File:Hitman-7.png|center|thumb|120px|Hitman No. 7]]
+|2,790||1,897||28,383||AFFCT 14,245||Lottery Ticket, W-tads +135, Demon Chest +30
+|-
+|7,783||6,621||56,966||AFFCT 24,892||Demon Chest +50
+|-
+| rowspan="2" |[[File:Hitman-8.png|center|thumb|120px|Hitman No. 8]]
+|3,892||2,648||39,626||AFFCT 17,425||Lottery Ticket, W-tads +140, Demon Chest +30
+|-
+|9,271||7,887||68,328||AFFCT 27,308||Demon Chest +50, Partner [[Ghost Zadako]]
+|-
+| rowspan="2" |[[File:Hitman-9.png|center|thumb|120px|Hitman No. 9]]
+|4,636||3,155||47,201||FTH 3,823||Lottery Ticket, W-tads +145, Demon Chest +30
+|-
+|10,523||8,952||77,981||FTH 5,939||Demon Chest +50 and the [[Rogue Survivor]]'s storyline
+|-
+| rowspan="2" |[[File:Hitman No.10.png|center|120px|thumb|Hitman No. 10]]
+|5,261||3,581||53,575||FAME 4,157||Lottery Ticket, W-tads +150, Demon Chest +40
+|-
+|12,235||10,408||111,749||FAME 6,435||Demon Chest +60
+|-
+| rowspan="2" |[[File:Hitman No.11.png|center|thumb|120px|Hitman No. 11]]
+|8||2||40||CIV 3,969||Lottery Ticket, W-tads +155, Demon Chest +40
+|-
+|64||53||150||CIV 5,999||Legal Documents (Novice Scroll +10, Expert Scroll +10, Master Scroll +10), Demon Chest +60, {{RewardIconWithLink|Hitman No.11 License|green}}
+|-
+| rowspan="2" |[[File:Hitman No.12.png|center|thumb|120px|Hitman No. 12]]
+|6,117||4,163||76,275||AFFCT 22,522||Lottery Ticket, W-tads +160, Demon Chest +40
+|-
+|14,247||12,119||169,797||AFFCT 35,424||Animal Cart (B-tads +5,000, Travel Speedup +2h), Demon Chest +60, Partner [[Red Doe]]
+|-
+|colspan="6" style="height:75px"|Hitman No.13 does not exist because the Demon Gods are superstitious and consider it an unlucky number
+|-
+| rowspan="2" |[[File:Hitman No.14.png|center|thumb|120px|Hitman No. 14]]
+|7,123||4,848||115,150||AFFCT 24,797||Lottery Ticket, W-tads +165, Demon Chest +40
+|-
+|15,715||13,369||182,397||AFFCT 37,320||Demon Chest +60, {{RewardIconWithLink|Siphoning Mouthparts|purple}} +3
+|-
+| rowspan="2" |[[File:Hitman No.15.png|center|thumb|120px|Hitman No. 15]]
+|7,858||5,347||123,056||Tadpole Points 15,000||Lottery Ticket, W-tads +170, Demon Chest +40
+|-
+|17,749||15,099||243,995||Tadpole Points 20,000||Demon Chest +60
+|-
+| rowspan="2" |[[File:Hitman No.15 EX.png|center|thumb|120px|Hitman No. 15EX]]
+|8,875||6,039||163,573||Tadpole Points 20,000||Lottery Ticket, W-tads +175, Demon Chest +40
+|-
+|19,574||16,651||288,958||Tadpole Points 30,000||Demon Chest +60, {{RewardIconWithGearlink|purple|Armor|Ring of Stupor}}<br>Note: Check the [[Incense]] page for more details after defeating this Hitman!
+|-
+| rowspan="2" |[[File:16.png|center|thumb|120px|Hitman No. 16]]
+|9,787||6,661||193,386||AFFCT 29,056||Lottery Ticket, W-tads +180, Demon Chest +40
+|-
+|22,006||18,719||325,743||AFFCT 43,998||Demon Chest +60, {{RewardIconWithLink|B-Tadpole XL|green}}
+|-
+| rowspan="2" |[[File:17.png|center|thumb|120px|Hitman No. 17]]
+|11,003||7,488||215,904||AFFCT 30,769||Lottery Ticket, W-tads +185, Demon Chest +40
+|-
+|24,174||20565||377,187||AFFCT 46,583||Demon Chest +60, {{RewardIconWithLink|Fungus (XL)|green}}
+|-
+| rowspan="2" |[[File:18.png|center|thumb|120px|Hitman No. 18]]
+|12,087||8,226||248,720||AFFCT 32,608||Lottery Ticket, W-tads +190, Demon Chest +40
+|-
+|27,078||23,034||447,028||AFFCT 49,681||Demon Chest +60, {{RewardIconWithLink|Mecha Gut|purple}}, Partner [[Demon Chan-hee]]
+|-
+| rowspan="2" |[[File:19.png|center|thumb|120px|Hitman No. 19]]
+|13,539||9,214||292,744||AFFCT 34,776||Lottery Ticket, W-tads +195, Demon Chest +40
+|-
+|29,803||25,353||510,769||AFFCT 53,455||Demon Chest +60, Organ Chest +100
+|-
+| rowspan="2" |[[File:20.png|center|thumb|120px|Hitman No. 20]]
+|14,902||10,141||332,495||AFFCT 37,418||Demon Chest +60, Organ Chest +100
+|-
+|33,197||28,239||588,312||AFFCT 57,320||Demon Chest +70, {{RewardIconWithLink|Dragon Orb|orange}}
+|-
+|}
+
+'''After this point, Interception stats are no longer known'''
+{| class="wikitable" style="width:100%; text-align:center;"
+|-
+! class="unsortable" rowspan="2" style="width:140px;" |Hitman
+! rowspan="2"|ATK
+! rowspan="2"|DEF
+! rowspan="2"|HP
+! rowspan="2"|Weakness
+! colspan="2"|Rewards
+|-
+!1st Fight!!Interception
+|-
+|colspan="7" style="height:75px"|Hitman No.21 appears out of order, and comes much later
+|-
+|[[File:22.png|center|thumb|120px|Hitman No.22]]
+|16,598||11,296||380,341||AFFCT 40,054||Lottery Ticket, W-tads +205, Demon Chest +50
+|{{RewardIconWithLink|Demon Chest, +70}}<br>{{RewardIconWithLink|Gaia's Tainted R Hand|black|Altar#Unique_Offerings}}
+|-
+|[[File:23.png|center|thumb|120px|Hitman No. 23]]
+|21,716||14,778||532,136||AFFCT 42,916||Lottery Ticket, W-tads +210, Demon Chest +50
+|{{RewardIconWithLink|Demon Chest}}<br>{{RewardIconWithLink|Gaia's Tainted Stomach|black|Altar#Unique_Offerings}}
+|-
+||[[File:25.png|center|thumb|120px|Hitman No. 25]]
+|20,410||13,889||498,179||AFFCT 45,478||Lottery Ticket, W-tads +215, Demon Chest +50
+|{{RewardIconWithLink|Demon Chest, +70}}<br>{{RewardIconWithLink|Gaia's Tainted Hair|black|Altar#Unique_Offerings}}
+|-
+|[[File:26.png|center|thumb|120px|Hitman No. 26]]
+|22,913||15,593||573,377||AFFCT 48,660||Lottery Ticket, W-tads +220, Demon Chest +50
+|Demon Chest +70, {{RewardIconWithLink|Research Notes|green}}
+|-
+|[[File:27.png|center|thumb|120px|Hitman No. 27]]
+|24,624||16,758||624,426||AFFCT 50,743||Lottery Ticket, W-tads +225, Demon Chest +50
+|Demon Chest +70, {{RewardIconWithLink|Lieutenant Officer ID|green}}
+|-
+|[[File:29.png|center|thumb|120px|Hitman No. 29]]
+|26,915||18,317||694,679||AFFCT 53,397||Lottery Ticket, W-tads +230, Demon Chest +50
+|Demon Chest +70, Organ Slime +100
+|-
+|[[File:30.png|center|thumb|120px|Hitman No. 30]]
+|29,419||20,021||770,081||AFFCT 56,106||Lottery Ticket, W-tads +235, Demon Chest +50
+|Demon Chest +70, {{RewardIconWithLink|Invisible Relic|green}}
+|-
+||[[File:31.png|center|thumb|120px|Hitman No. 31]]
+|31,772||21,622||842,007||AFFCT 58,531||Lottery Ticket, W-tads +240, Demon Chests +50
+|Demon Chest +70, Refine Speedup +8h
+|-
+|[[File:32.png|center|thumb|120px|Hitman No. 32]]
+|34,451||23,445||928,949||AFFCT 61,208||Lottery Ticket, W-tads +245, Demon Chest +50
+|Demon Chest +70, {{RewardIconWithLink|Meowster Seal|green}}
+|-
+|[[File:33.png|center|thumb|120px|Hitman No. 33]]
+|37,263||25,359||1,017,068||AFFCT 63,854||Lottery Ticket, W-tads +250, Demon Chest +60
+|Demon Chest +80, Toner +100, and a continuation of the [[Rogue Survivor]]'s storyline
+|-
+|[[File:Hitman No.34.png|center|thumb|120px|Hitman No.34]]
+|colspan="6" style="text-align:center;"|Hitman No.34 is quickly killed by Hitman No.21 before you have a chance to fight him. Picking up the remains rewards the [[Gene Simulation|Space Pirate Gene Simulation]]
+|-
+|[[File:21.png|center|thumb|120px|Hitman No.21]]
+|39,975||27,204||1,096,078||AFFCT 66,351||Lottery Ticket, W-tads +255, Demon Chest +60
+|Demon Chest +70, {{RewardIconWithLink|Dragon Orb|orange}}
+|-
+|[[File:21EX.png|center|thumb|120px|Hitman No.21 EX]]
+|42,856||29,165||1,188,119||AFFCT 68,840||Lottery Ticket, W-tads +260, Demon Chest +60
+|Demon Chest +80, {{RewardIconWithLink|Demon Skull|orange}}
+|-
+|[[File:35.png|center|thumb|120px|Hitman No. 35]]
+|1||1||1||AFFCT 1||Lottery Ticket, W-tads +265, Demon Chests +60
+|Lottery Ticket, Demon Chest +80, {{RewardIconWithText|Crow Sashimi}} (Food +1,000) +1
+|-
+|[[File:36.png|center|thumb|120px|Hitman No. 36]]
+|45,911||31,244||1,283,930||affct 71,401||Lottery Ticket, W-tads +270, Demon Chest +60
+|Demon Chest +80, {{RewardIconWithText|Crow Sashimi}} (Food +1,000) +1, {{RewardIconWithLink|Hitman No.36 License|green}}
+|-
+|[[File:37.png|center|thumb|120px|Hitman No. 37]]
+|48,697||33,140||1,370,853||AFFCT 73,627||Lottery Ticket, W-tads +275, Demon Chest +60
+|Demon Chest +60, {{RewardIconWithLink|Super Mutant Biceps|orange}}
+|-
+|[[File:39.png|center|thumb|120px|Hitman No. 39]]
+|51,669||35,162||1,472,879||AFFCT 75,973||Lottery Ticket, W-tads +280, Demon Chest +60
+|Demon Chest +80, B-tads +666k
+|-
+|[[File:41.png|center|thumb|120px|Hitman No. 41]]
+|54,583||37,146||1,563,298||AFFCT 78,195||Lottery Ticket, W-tads +285, Demon Chest +60
+|Demon Chest +80, <span style="color:var(--green-text)">Green Coating</span> +100
+|-
+|[[File:42.png|center|thumb|120px|Hitman No. 42]]
+|57,612||39,207||1,653,938||AFFCT 80,607||Lottery Ticket, W-tads +280, Demon Chest +60
+|Demon Chest +80, {{RewardIconWithLink|Tainted L Hand of Gaia|black|Altar#Unique_Offerings}}
+|-
+|[[File:43.png|center|thumb|120px|Hitman No. 43]]
+|60,706||41,313||1,760,150||AFFCT 83,065||Lottery Ticket, W-tads +295, Demon Chest +60
+|Demon Chest +80, {{RewardIconWithLink|Tainted Lungs of Gaia|black|Altar#Unique_Offerings}}
+|-
+|[[File:44.png|center|thumb|120px|Hitman No. 44]]
+|63,781||43,406||1,864,575||AFFCT 85,090||Lottery Ticket, W-tads +300, Demon Chest +70
+|Demon Chest +90, {{RewardIconWithLink|Tainted Tooth of Gaia|black|Altar#Unique_Offerings}}
+|-
+|[[File:Hitman No.45.png|center|thumb|120px|Hitman No.45]]
+|66,975||45,579||1,955,863||AFFCT 87,570||Lottery Ticket, W-tads +305, Demon Chest +70
+|Demon Chest +90, Super Treasure Map +100
+|-
+|[[File:Hitman No.46.png|center|thumb|120px|Hitman No.46]]
+|69,724||47,450||2,045,084||AFFCT 89,407||Lottery Ticket, W-tads +310, Demon Chest +70
+|Demon Chest +90, {{RewardIconWithLink|Fortune Cat Mainspring|green}}
+|-
+|[[File:Hitman No.47.png|center|thumb|120px|Hitman No.47]]
+|73,410||49,958||2,167,707||AFFCT 92,192||Lottery Ticket, W-tads +315, Demon Chest +70
+|Demon Chest +90, {{RewardIconWithLink|Hitman No.47 License|green}}
+|-
+|[[File:Hitman No.48.png|center|thumb|120px|Hitman No.48]]
+|76,680||52,183||2,273,947||AFFCT 94,494||Lottery Ticket, W-tads +320, Demon Chest +70
+|Demon Chest +90, {{RewardIconWithLink|Hot Pot|green}}
+|-
+|[[File:Hitman No.49.png|center|thumb|120px|Hitman No.49]]
+|79,916||54,386||2,379,518||AFFCT 96,496||Lottery Ticket, W-tads +325, Demon Chest +70
+|Demon Chest +90, {{RewardIconWithLink|Agent Permit S-I|green}}
+|-
+|[[File:Hitman No.50.png|center|thumb|120px|Hitman No.50]]
+|83,039||56,511||2,486,655||AFFCT 98,776||Lottery Ticket, W-tads +330, Demon Chest +70
+|Demon Chest +90, Organ Chest +100
+|-
+|[[File:Hitman No.51.png|center|thumb|120px|Hitman No.51]]
+|86,190||58,656||2,591,160||AFFCT 101,175||Lottery Ticket, W-tads +335, Demon Chest +70
+|Demon Chest +90, {{RewardIconWithLink|Super Evolution Cell|green}}
+|-
+|[[File:Hitman No.52.png|center|thumb|120px|Hitman No.52]]
+|89,199||60,703||2,683,474||AFFCT 103,242||Lottery Ticket, W-tads +340, Demon Chest +70
+|Demon Chest +90, {{RewardIconWithLink|Golden Controller|green}}
+|-
+|[[File:Hitman No.53.png|center|thumb|120px|Hitman No.53]]
+|92,148||32,710||2,715,940||AFFCT 107,330||Lottery Ticket, W-tads +350, Demon Chest +80
+|Demon Chest +90, Toner +100
+|-
+|[[File:Hitman No.54.png|center|thumb|120px|Hitman No.54]]
+|94,730||64,467||2,977,305||AFFCT 111,667||Lottery Ticket, W-tads +355, Demon Chest +80
+|Demon Chest +100, ?
+|-
+|[[File:Hitman No.55.png|center|thumb|120px|Hitman No.55]]
+|97,843||66,586||3,463,754||AFFCT 116,004||Lottery Ticket, W-tads +360, Demon Chest +80
+|Demon Chest +100, Dragon Chest +100
+|-
+|[[File:Hitman No.56.png|center|thumb|120px|Hitman No.56]]
+|100,928||68,685||3,763,859||AFFCT 120,341||Lottery Ticket, W-tads +365, Demon Chest +80
+|Demon Chest +100, Dragon Chest +100
+|-
+|[[File:Hitman_No.57.png|center|thumb|120px|Hitman No.57]]
+|103,912||70,715||4,073,591||AFFCT 122,509||Lottery Ticket, W-tads +370, Demon Chest +80
+|Demon Chest +100, Gear Chest +100
+|-
+|colspan="7" style="height:75px"|Hitman No.58 does not appear, it was betrayed by Hitman No.59
+[[Category:Hitmen]][[Category: Home Base]]
+|-
+|[[File:Hitman_No.59.png|center|thumb|120px|Hitman No.59]]
+|106,848||72,714||4,413,181||AFFCT 125,075||Lottery Ticket, W-tads +375, Demon Chest +80
+|Demon Chest +100, {{RewardIconWithLink|Strange Device|green}}
+|-
+|[[File:Hitman_No.60.png|center|thumb|120px|Hitman No.60]]
+|110,045||74,889||4,743,980||AFFCT 127,619||Lottery Ticket, W-tads +380, Demon Chest +80
+|Demon Chest +100, {{RewardIconWithLink|Surya's Heart|orange}}
+|-
+|[[File:Hitman_No.61.png|center|thumb|120px|Hitman No.61]]
+|112,721||76,711||5,099,695||AFFCT 130,160||Lottery Ticket, W-tads +385, Demon Chest +80
+|Demon Chest +100, ??
+|-
+|[[File:Hitman_No.62.png|center|thumb|120px|Hitman No.62]]
+|115,578||78,655||5,449,176||AFFCT 132,932||Lottery Ticket, W-tads +390, Demon Chest +80
+|Demon Chest +100, {{RewardIconWithLink|Incense|orange}} +3
+|-
+|[[File:Hitman_No.63.png|center|thumb|120px|Hitman No.63]]
+|118,890||80,909||5,848,057||AFFCT 135,876||Lottery Ticket, W-tads +395, Demon Chest +80
+|Demon Chest +100, {{RewardIconWithLink|Demon Skull|orange}}
+|-
+|[[File:Hitman_No.64.png|center|thumb|120px|Hitman No.64]]
+|122,202||83,163||6,261,174||AFFCT 138,847||Lottery Ticket, W-tads +400, Demon Chest +90
+|Demon Chest +100, Goldfish Chest +100
+|-
+|[[File:Hitman_No.65.png|center|thumb|120px|Hitman No.65]]
+|125,514||85,417||6,688,551||AFFCT 141,791||Lottery Ticket, W-tads +405, Demon Chest +90
+|Demon Chest +100, ???
+|-
+|colspan="7" style="height:75px"|Hitman No.66 does not appear, it was hunted down by Hitman No.67
+[[Category:Hitmen]][[Category: Home Base]]
+|-
+|[[File:Hitman_No.67.png|center|thumb|120px|Hitman No.67]]
+|128,845||87,683||6,884,652||AFFCT 144,766||Lottery Ticket, W-tads +410, Demon Chest +90
+|Demon Chest +110, Puppet Frag +20
+|-
+|[[File:Hitman_No.68.png|center|thumb|120px|Hitman No.68]]
+|132,612||90,247||7,088,353||AFFCT 147,737||Lottery Ticket, W-tads +415, Demon Chest +90
+|Demon Chest +110, {{RewardIconWithLink|Eye of Horus|orange}}
+|-
+|[[File:Hitman_No.69.png|center|thumb|120px|Hitman No.69]]
+|135,942||92,513||7,285,055||AFFCT 150,681||Lottery Ticket, W-tads +420, Demon Chest +90
+|Demon Chest +110, {{RewardIconWithLink|Blasphemy Eye|orange}}

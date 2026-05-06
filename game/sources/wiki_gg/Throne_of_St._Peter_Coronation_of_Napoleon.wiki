@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=730
+|relics=Throne of St. Peter,Coronation of Napoleon
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 T7+ Zombie Minions in battle:Troop HARD Stats +70
+}}

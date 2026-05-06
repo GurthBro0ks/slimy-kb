@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Hopper's Luck
+|class_id=20757
+|rank=Green
+|affct=FAITH
+|source=
+|description=The legend of the lucky rabbit’s foot originates from the Celts. Rabbits, known for their rapid reproduction and swift speed, were believed to possess mystical powers—especially the left hind foot, thought to bring great luck.
+|fame=17
+|art=13
+|fth=29
+|civ=15
+|tech=16
+|ss1=Lottery White Orbs turn to Green by +0.4%<br>Per 10 Lotteries drawn, Snail HP +20<br>Lotteries Drawn: 200/200
+|ss2=Lottery White Orbs turn to Green by +0.8%<br>Per 10 Lotteries drawn, Snail HP +40<br>Lotteries Drawn: 200/200
+|ss3=Lottery White Orbs turn to Green by +1.2%<br>Per 10 Lotteries drawn, Snail HP +60<br>Lotteries Drawn: 200/200
+|ss4=Lottery White Orbs turn to Green by +1.2%<br>Per 10 Lotteries drawn, Snail HP +60<br>Lotteries Drawn: 200/200
+|ss7=Lottery White Orbs turn to Green by +1.2%<br>Per 10 Lotteries drawn, Snail HP +60<br>Lotteries Drawn: 200/200<br> (Awakened)
+}}

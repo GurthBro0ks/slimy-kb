@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Lumieres' Film
+|rank=Blue
+|affct=ART
+|birthday=01-02
+|source=Lottery Machine (0.03%), Wishing (1.2%)
+|description=On Jan 2, 1895, the world's first film was screened at the Grand Cafe in Paris.
+
+"Workers Leaving The Lumiere Factory," this movie was filmed by the Lumiere brothers and it captures workers getting off work. This was the highest-quality movie filmed at the time. It was so realistic that a female viewer even left her seat after watching a carriage running towards the screen. Some viewers even opened their umbrellas upon watching the raining scene.
+|fame=25
+|art=46
+|fth=31
+|civ=24
+|tech=28
+|ss1=Per 5 Ads watched, Snail DEF +1<br>Ads Watched: 100/100
+|ss2=Per 5 Ads watched, Snail DEF +2<br>Ads Watched: 100/100
+|ss3=Per 5 Ads watched, Snail DEF +3<br>Ads Watched: 100/100
+|ss4=Per 5 Ads watched, Snail DEF +5<br>Ads Watched: 100/100
+|ss7=Per 5 Ads watched, Snail DEF +5<br>Ads Watched: 100/100<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]]Place in Gene Sim Device: This Relic's ART +5
+}}
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:ART Relics]]
+[[Category:Blue ART Relics]]
+[[Category:DEF Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:ATK Boost]]
+[[Category:Reagent Crafting Boost]]

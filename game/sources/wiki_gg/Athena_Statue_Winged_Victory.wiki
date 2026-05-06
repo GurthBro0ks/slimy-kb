@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=191
+|relics=Athena Statue,Winged Victory
+|rank=orange
+|amount=2
+|category=self
+|description=Per 10k Power, Snail ATK +5;Power: 420000/420000
+}}

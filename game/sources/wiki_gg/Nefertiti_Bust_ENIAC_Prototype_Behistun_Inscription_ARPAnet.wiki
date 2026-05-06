@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Nefertiti Bust,ENIAC Prototype,Behistun Inscription,ARPAnet
+|rank=purple
+|amount=4
+|category=self
+|description=Per 500 DNA Strength, Snail RUSH +4<br>DNA Strength: 20,000/20,000
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by DNA Strength]]

@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Triumph of Bacchus,The Myth of Etana
+|rank=orange
+|amount=2
+|category=self
+|description=Per Godhood LVL, Snail RUSH +42; Godhood LVL: 10/10
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]

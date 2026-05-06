@@ -1,0 +1,53 @@
+Chat is a feature that lets players communicate with each other.
+
+== Formatting ==
+
+=== [[Emojis]] ===
+
+The game allows the use of 18 custom emojis built into the game. Note that the use of Unicode emojis is not supported and trying to send one will cause an error.
+
+To send an emoji, press on the emoji picker and select an emoji, or type in <code>[emoji]</code> in the chat where <code>emoji</code> is a 2-digit number between 01 and 18.
+
+=== Username formatting ===
+
+Typing <code>{nick_name}</code> in any text interface OTHER THAN CHAT replaces the text with the reading user's username. When it is sent in chat, it simply outputs a number of asterisks (*).
+
+When this was discovered, there was abuse of this in public chat since there is no disclaimer sent that the messages used this token. As such, the token was quickly changed to output asterisks in chat.
+
+In other text interfaces, such as profile text or notes, the formatting still works.
+
+=== Colors ===
+
+The color of the text can be changed by typing in <code>[color]Your text here[-]</code> where <code>color</code> is a keyword listed below or in the format of <code>rgb(R,G,B)</code> with <code>R</code>, <code>G</code>, and <code>B</code> replaced by a whole number between 0 and 255.
+
+To avoid confusion, if the color of the text is changed, the game will also send a disclaimer which is not visible to the person sending the message.
+
+{| class="wikitable"
+!Color keyword
+|-
+|red
+|-
+|orange
+|-
+|yellow
+|-
+|green
+|-
+|light_green
+|-
+|blue
+|-
+|light_blue
+|-
+|cyan
+|-
+|purple
+|-
+|light_purple
+|-
+|gray
+|-
+|light_gray
+|}
+
+[[Category:Guides]]

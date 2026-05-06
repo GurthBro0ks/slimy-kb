@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Ragnarok
+|rank=SSS
+|affct=ART
+|birthday=07-15
+|source=* Dragon Chest (0.1%), Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wishing (0.08%)
+* [[Indigent Nobleman]] (810k {{RewardIconWithText|B-Tad}})
+|description=On Jul 15, 1617 BC, the gods fell after a great war broke out.
+
+This painting captures the moment of gods' falling. The struggle of the gods will lead to a new order through the destruction of the old world. Even gods can't live forever. When a new god ascends to the throne, the predecessor must fall. The very first splending stroke comes from the ancient chaotic gods. The image is boundless, and its expansion can't be stopped. When the picture is complete, it will usher in a new era.
+|fame=69
+|art=108
+|fth=67
+|civ=63
+|tech=55
+|ss1=Snail ATK +30<br>Per Divine Dragon Descent, Snail ATK +12<br>Per Divine Dragon Descent, Snail DEF +12<br>Divine Dragon Descents: 20/20
+|ss2=Snail ATK +40<br>Per Divine Dragon Descent, Snail ATK +16<br>Per Divine Dragon Descent, Snail DEF +16<br>Divine Dragon Descents: 20/20
+|ss3=Snail ATK +50<br>Per Divine Dragon Descent, Snail ATK +20<br>Per Divine Dragon Descent, Snail DEF +20<br>Divine Dragon Descents: 20/20
+|ss4=Snail ATK +70<br>Per Divine Dragon Descent, Snail ATK +28<br>Per Divine Dragon Descent, Snail DEF +28<br>Divine Dragon Descents: 20/20
+|ss5=Snail ATK +90<br>Per Divine Dragon Descent, Snail ATK +36<br>Per Divine Dragon Descent, Snail DEF +36<br>Divine Dragon Descents: 20/20
+|ss6=Snail ATK +120<br>Per Divine Dragon Descent, Snail ATK +48<br>Per Divine Dragon Descent, Snail DEF +48<br>Divine Dragon Descents: 20/20
+|ss7=Snail ATK +120<br>Per Divine Dragon Descent, Snail ATK +48<br>Per Divine Dragon Descent, Snail DEF +48<br>Divine Dragon Descents: 20/20<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Fire DMG +600
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Fire RES +600
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Ignore Fire RES +60
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Divine Dragon Descents Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:Fire DMG Boost]]
+[[Category:Fire RES Boost]]
+[[Category:God Descent Boost]]
+[[Category:RUSH Boost]]
+[[Category:Berserker Boost]]
+[[Category:Indigent Nobleman Relics]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Head of Paramara
+|class_id=20308
+|rank=Green
+|affct=TECH
+|source=
+|description=In an operation to infiltrate a Demon God base, the previous snail from the base encountered a terrifying monster. After doing all it could, it killed the monster and brought the head back as a trophy, though it was hurt badly itself.
+|fame=18
+|art=9
+|fth=21
+|civ=16
+|tech=26
+|ss1=Per 5 Mutant Gene LVLs, Snail ATK +2<br>Mutant Gene LVLs Researched: 150/150
+|ss2=Per 5 Mutant Gene LVLs, Snail ATK +4<br>Mutant Gene LVLs Researched: 150/150
+|ss3=Per 5 Mutant Gene LVLs, Snail ATK +6<br>Mutant Gene LVLs Researched: 150/150
+|ss4=Per 5 Mutant Gene LVLs, Snail ATK +6<br>Mutant Gene LVLs Researched: 150/150
+|ss7=Per 5 Mutant Gene LVLs, Snail ATK +6<br>Mutant Gene LVLs Researched: 150/150<br> (Awakened)
+}}

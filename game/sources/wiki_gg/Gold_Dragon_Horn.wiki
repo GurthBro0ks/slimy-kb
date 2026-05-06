@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=After the powerful dragon dies, its twin horns will turn golden yellow. Any other race getting the horns will earn the dragons' recognition and rise to the top of the food chain!
+|affct=FTH
+|hard=ATK
+|source=Ultimate Divine Dragon, 110 orb reward (see [[Altar]])
+|color=green
+|earth=0
+|water=3
+|fire=3
+|wind=0
+|form=Dragon
+|element=Fire
+|realm=Rift
+|orangehard=ATK
+}}

@@ -1,0 +1,151 @@
+==Home Base==
+Welcome to Home Base! Here is where the snail starts the day and where you can find all other mechanics, and there's quite a lot to find! Be sure to tap ''everything'', you never know where you might find some hidden secrets...
+
+There's a lot of information in here that links to a lot of important pages.. Don't get overwhelmed! If you're brand new and this feels like too much, check out the [[Newbie Guide]] to get started.
+
+===The 5 Main Screens===
+In order from leftmost to rightmost, we'll call these screens "The Garage," The Pond," "The Mailbox," "The Gene Room," and "The Cave." Let's see what you can do on each screen...
+
+<!-- Do we still need this?? Leftover from when the game opened up and we got spammed by 60k people asking the same question over and over...
+
+{{FAQ|Where do I draw?|The Lottery Machine is a shell-like device in the [[Home Base#The Gene Room|Gene Room]], two to the right of your starting screen.|Lottery Machine}}
+-->
+==The Garage==
+[[File:The Garage.jpg|320px|left]]
+1) Here you'll find the [[Fissure]]. With Golden Pickaxes you can dig and dig to find rewards, events, and a new shop. Be sure to hoard all the golden pickaxes you can find until this feature is unlocked!
+
+2) The [[Garage]]. Once this feature is unlocked, you'll be able to break down your old [[gear]] to get back your glue and B-tads. Later in the Garage you can use the [[Wormhole]], breakdown [[Rocket]] materials, and purchase new [[Rocket]] materials with Shards collected from the [[Wormhole]].
+
+3) The [[Rocket]]. Once unlocked, you'll finally be able to start taking care of Demon Gods in their [[Domains]]. 
+
+4) The [[Unknown Creature]]'s house. Defeat the [[Robot Guard]] to get this mysterious pet.
+
+{{Clear}}
+
+==The Pond==
+[[File:The Pond.jpg|320px|left]]
+1) Tap the pond, fungus, mine cart, or time machine to collect your [[Home Resources|resources]]. Remember, there's a cap on how much can be produced so collect this every time you're around! The sign is where you can upgrade your [[Home Resources]] and embed [[Relics]] to improve your production. Unlock the Lumber Camp and Quarry for 2,000 B-tads each. The 2nd slot is unlocked at the 15th level and the 3rd slot is unlocked at the 35th level. 
+
+2) The [[Club]]. Be sure to join a great club that you like! Clubs compete with each other in [[Species War|Species Wars]], which require cooperation between club members to pull ahead.
+
+3) The [[Altar]]. Offer souls, meet gods, wish to the dragon, and much more...
+
+{{Clear}}
+
+==The Mailbox==
+[[File:The Mailbox.jpg|320px|left]]
+1) The Global Monitor. This contains your daily tasks and batch processing. This resets every day at 6:00am PST. Make sure you get these done, it's worth it!
+
+2) The [[Vending Machine]]. Restocks daily at 6:00am PST. Be sure to stock up on everything you need for the day.
+
+3) The [[Mailbox]]. Find lots of new encounters, enemies, friends, and prizes in the mailbox as you explore new areas. 
+
+4)The [[Nursery]]. Here's where you'll find all your minions, clone and heal them, and send them out on chores. 
+
+5) The [[Alchemy Furnace]]. Use your Wish Coins to gain new [[Relics]], and change out old fragments for new! Later on you can also convert low-tier reagent, coating, and fungi to higher tiers of the same, with a cost.
+
+6) Just before the week resets at Friday 4:00am PST (the game will be offline and un-playable until 6:00am PST), you'll find one of the dedicated monkeys praying for a good maintenance. He'll send you prizes for the trouble afterwards, so be sure to check your inbox!
+
+{{Clear}}
+
+==The Gene Room==
+[[File:The Gene Room.jpg|320px|left]]
+
+1) The [[Evolutions|Gene Research Machine]] is unlocked with the {{RewardIconWithText|DNA Evolution Kit}}. Use this to evolve each of your Forms, and find some gear along the way. 
+
+2) The [[Fridge]]. This is easy to miss, but has prizes in it for the first 15 days you play, including an organ at the end. See the table below of items you can get from the [[Fridge]]. 
+
+3) The [[Terminal]]. It can be fixed by trading [[Koryeo_Cards#Tier_2_(Green)|Koryeo Cards]] for the {{RewardIconWithText|Terminal Core}}. In here you'll find lots stuff, including [[minigames]], the [[Arena|Snail Arena]], and [[Gene Simulation]]s.
+
+4) Press this and see what happens! Switch between your [[Gear]] Forge to your [[Incense]] Altar.
+
+5) Your [[Gear]] Forge is where you can view and upgrade all of your [[Gear]]. Crucial to progression!
+
+6) The [[Lottery Machine]] is where you'll spend your Lottery Tickets and hope for a good RNG. Spend your Lottery Vouchers on an ever-changing rotation of [[Relics]].
+
+7) The [[Museum]], once unlocked, offers you the opportunity to show off your best [[Relics]]. There's a shop in it for you, of course.
+
+{{Clear}}
+
+The Fridge rewards:
+{| class="mw-collapsible mw-collapsed wikitable"
+!'''Day'''
+!'''Rewards'''
+!'''Day'''
+!'''Rewards'''
+|-
+|1
+|{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Fish Cake, +60}} (Food +30)
+|2
+|{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWonderFungusWithText|Green, +3|HP|green}} 
+|-
+|3
+|{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWonderFungusWithText|Green, +3|DEF|green}} 
+|4
+|{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWonderFungusWithText|Green, +3|RUSH|green}} 
+|-
+|5
+|{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Sushi, +45}} (Food +40)
+|6
+|{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Dorayaki, +70}} (Food +25)
+|-
+|7
+|{{RewardIconWithLink|Master Scroll, +40|orange}}<br>{{RewardIconWithText|Oden, +40}} (Food +45)
+|8
+|{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Snail Ramen, +30}} (Food +60)
+|-
+|9
+|{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Chinese Burger, +40}} (Food +50)
+|10
+|{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Yangzhou Fried Rice, +40}} (Food +50)
+|-
+|11
+|{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Escargot, +20}} (Food +1000)
+|12
+|{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Giraffe's Limb}} ({{RewardIcon|8h Soul Green}}{{Retext|Soul of Giraffe (8 hours)|green}}, {{RewardIconWithText|Giraffe's Meat}} (Food +1200))
+|-
+|13
+|{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Elephant's Limb}} ({{RewardIcon|8h Soul Green}}{{Retext|Soul of Elephant (8 hours)|green}}, {{RewardIconWithText|Elephant's Meat}} (Food +1200))
+|14
+|{{RewardIconWithLink|Lottery Ticket, +1|orange}}<br>{{RewardIconWithText|Strange Jelly}} ({{RewardIconWithText|W-tad}} +100)
+|-
+|15
+|{{RewardIconWithLink|Lottery Ticket, +10|orange}}<br>{{RewardIconWithLink|Unidentified Kidney|purple}}
+|
+|
+|}
+
+{{Clear}}
+
+==The Cave==
+[[File:The Cave.jpg|320px|left]]1) The [[Bookshelf]] is where you'll find the weekly rankings (be sure to send a thumbs up to congratulate them!), some stock investments, and all your shareable postcards and books. There's quite a few hidden things in here, so be sure to look around. To unlock the weekly rankings you'll need to pick up the {{RewardIconWithText|Super Snail Special}} on the ground in this room.
+
+2) The [[Robot Guard]] will guard the treasures of the previous traveler. 
+
+3) Once unlocked, here's where you'll find all your [[Partners]] and collect their weekly rent. You will also find the Customer service center where you can [[Reset Partners]] and access [[Dorm Decor]]
+
+{{Clear}}
+
+==Top and Bottom Bars==
+[[File:Top bar.jpg|frameless|500px]]<br>
+
+Here you'll find your Power level (tap this for more info!), your B-tads and W-tads, your inbox (different from your mailbox and includes official rewards and news), your settings, your active and inactive tasks, and Weekly and Monthly [[Events]].<br>
+
+[[File:Bottom bar.jpg|frameless|500px]]<br>
+
+Here you'll find the chat, which can be switched between the Dimension Channel (all of the servers in your group), World Channel (just your server), Club Channel (just your club) and Recruitment Channel (Club promotion). Use the chat bubble to chime in. 
+
+At the bottom is your [[Realms|Exploration]] (you'll see a compass when your snail isn't exploring, which it always should be!), snail profile, inventory, [[Relics]], [[Treasure Collection|Chests]], and the premium shop (to watch ads and spend USD/CAD/AUD).<br>
+
+{{Clear}}
+
+==Snail Profile==
+[[File:Snail Profile.png|300px]][[File:Snail Profile 2.png|300px]]
+
+There's quite a lot to do in here.. Starting at the top, you can tap on your profile picture to get to Snail Info. Here you can change your name (first time for free!), copy your ID to submit reports to the help team, edit your bio, pick a new [[Snail Avatar|avatar]], avatar frame, chat bubble frame, and select which four tags you want other people to see. Avatar frames and chat bubbles can be purchased from [[Vending Machine]] and Power bonus packs for w-tads, once you meet the requirements. Tags are a bit like achievements that you can show off. 
+
+Back to the Snail Stats... You'll see a radar chart with your total of each AFFCT Stats at the top right. This is raised through [[Relics]]. See [[Stats]] for more details. The next bar in order are your forms, shells, compass, and realm trait. Your gene form can be switched from the base form to any of the other 6, once unlocked ([[Evolution]]). You can also transplant and upgrade [[Organs]] here. Your [[shells]] are gathered from a few places, but mainly chests, and have different boosts. Your Exploration Compass is where you'll embed the best Relics for the highest boosts. See [[Exploration]] for more. Your [[Realm Traits]] are gathered from each area and provide different buffs to the snail during fights and exploration. Finally, see your current HARD [[Stats]], and equipped [[Gear]].
+
+You can also view your Exploration Stats, Home Combat Stats, and Domain Stats by tapping on your HARD Stat section!
+
+[[Category:Home Base]]

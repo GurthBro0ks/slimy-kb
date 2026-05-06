@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Psionic Jammer
+|class_id=20430
+|rank=Green
+|affct=FAME
+|source=
+|description=Research indicated a psion's heart can project an extremely strong psionic field, which is the basis for all psionic miracles! This jammer was created through thorough scientific integration of such field to block transmission of psionic energy on the basis of deep integration of nether energy radio waves! It can effectively block the transmission of nether energy waves!
+|fame=29
+|art=15
+|fth=16
+|civ=19
+|tech=11
+|ss1=Wormhole Refinement SPD +0.4%
+|ss2=Wormhole Refinement SPD +0.8%
+|ss3=Wormhole Refinement SPD +1.2%
+|ss4=Wormhole Refinement SPD +1.2%
+|ss7=Wormhole Refinement SPD +1.2%<br> (Awakened)
+}}

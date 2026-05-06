@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Ishtar Gate,The Social Contract,A Sunday Afternoon on the Island of La Grande Jatte,TCP
+|rank=orange
+|amount=4
+|category=Self
+|description=Per 50 Kemet Soul Nail of Profanity Reforge, Snail Bedrock Power +9; Kemet Soul Nail of Profanity Reforged: 3,000/3,000
+}}
+[[Category:Self]]
+[[Category:Bedrock Power Boost]]

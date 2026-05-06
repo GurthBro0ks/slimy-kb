@@ -1,0 +1,159 @@
+==Card Redemption==
+Throughout [[Hellas]], cards can be collected and exchanged for various rewards. Cards vary from tier 1 (white) to tier 5 (orange) and there's different types of each tier. Below is a list of the rewards that can be exchanged, and how many times.
+
+==Tier 1 (White)==
+'''Recommended:'''  Enhancement Injection, Gear
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:var(--white-bg)" | [[File:White Olive Branch.png|75px]]
+| rowspan="7" | Olive Branch
+|3x3||Enhancement Injection<br>Snail ATK +16<br>Snail Rush +16
+| rowspan="7" | 17 B-tads
+|-
+|2x1||Hellenic INTEL +1,500
+|-
+|3x1||2,000 B-tads
+|-
+|4x1||Novice Scroll +5
+|-
+|5x1||{{Gearlink|white|Exploration|Javelin}}
+|-
+|6x1||{{Gearlink|white|Exploration|Bronze Helmet}}
+|-
+|7x1||Lottery Ticket +2
+|-
+| style="background-color:var(--white-bg)" | [[File:Natural Sponge.png|75px]]
+|Natural Sponge||3x1||300 W-tads||200 B-tads
+|-
+| style="background-color:var(--white-bg)" | [[File:Anisette.png|75px]]
+|Anisette||4x1||4,000 B-tads||Hellenic INTEL +330
+|-
+| style="background-color:var(--white-bg)" | [[File:Sparta.png|75px]]
+|Sparta||4x1||Gear Chest +40||Souvlaki +1
+|}
+
+==Tier 2 (Green)==
+'''Recommended:'''  Enhancement Injection, Gear
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:var(--green-bg)" | [[File:Green Olive Branch.png|75px]]
+| rowspan="7" | Olive Branch
+|3x3||Enhancement Injection<br>Snail HP +160<br>Snail DEF +16
+| rowspan="7" | 51 B-tads
+|-
+|2x1||Hellenic INTEL +3,000
+|-
+|3x1||4,000 B-tads
+|-
+|4x1||Novice Scroll +5
+|-
+|5x1||{{Gearlink|green|Exploration|Heavy Infantry Helmet}}
+|-
+|6x1||Evolution Chest +40
+|-
+|7x1||Lottery Ticket +2
+|-
+| style="background-color:var(--green-bg)" | [[File:Song of Siren.png|75px]]
+|Song of Siren||3x1||6,000 B-tads
+|Offering Speedup +5m
+|-
+| style="background-color:var(--green-bg)" | [[File:Monk Seal.png|75px]]
+|Monk Seal||4x1||<span style="color:#22d3d0;">Reagent</span> +100
+|Evolution Chest +1
+|-
+| style="background-color:var(--green-bg)" | [[File:Aegean Sea.png|75px]]
+|Hellenic Desert||3x2||Demon Cells +800||350 B-tads
+|}
+
+==Tier 3 (Blue)==
+'''Recommended:'''  Enhancement Injection, Gear
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:var(--blue-bg)" | [[File:Blue Olive Branch.png|75px]]
+| rowspan="7" |Olive Branch
+|3x3||Enhancement Injection<br>Snail DEF +18<br>Snail RUSH +18
+| rowspan="7" | 153 B-tads
+|-
+|2x1||Hellenic INTEL +4,500
+|-
+|3x1||6,000 B-tads
+|-
+|4x1||Novice Scroll +10
+|-
+|5x1||{{Gearlink|blue|Exploration|Spartan Shield}}
+|-
+|6x1||Evolution Chest +60
+|-
+|7x1||Lottery Ticket +2
+|-
+| style="background-color:var(--blue-bg)" | [[File:Olympic Game.png|75px]]
+|Olympic Game||4x1||400 W-tads
+|10 W-tads
+|-
+| style="background-color:var(--blue-bg)" | [[File:Parthenon.png|75px]]
+|Parthenon||3x2||Offering Speedup +4h
+|Angel Cells +100
+|}
+
+==Tier 4 (Purple)==
+'''Recommended:'''  Enhancement Injection
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:var(--purple-bg)" | [[File:Purple Olive Branch.png|75px]]
+| rowspan="7" | Olive Branch
+|3x3||Enhancement Injection<br>Snail HP +200<br>Snail ATK +20
+| rowspan="7" | 459 B-tads
+|-
+|2x1||Hellenic INTEL +6,000
+|-
+|3x1||8,000 B-tads
+|-
+|4x1||Expert Scroll +10
+|-
+|5x1||Gear Chest +80
+|-
+|6x1||Evolution Chest +80
+|-
+|7x2||Lottery Ticket +3
+|-
+| style="background-color:var(--purple-bg)" | [[File:Santorini.png|75px]]
+|Santorini||3x1||Travel Speedup +2h
+|Clone Speedup +5m
+|-
+| style="background-color:var(--purple-bg)" |[[File:Acropolis.png|75px]]
+|Acropolis||4x1||Hellenic Treasure Map +50
+|Hellenic Treasure Map +2
+|}
+
+==Tier 5 (Orange)==
+'''Recommended:''' Enhancement Injections
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="6" style="background-color:var(--orange-bg)" | [[File:Orange Olive Branch.png|75px]]
+| rowspan="6" | Olive Branch
+|3x3||Enhancement Injection<br>Snail ATK +22<br>Snail DEF +22
+| rowspan="6" | 1,377 B-tads
+|-
+|2x1||Hellenic INTEL +8,000
+|-
+|3x1||12k B-tads
+|-
+|4x1||Master Scroll +10
+|-
+|5x1||Evolution Chest +100
+|-
+|6x2||Lottery Ticket +3
+|-
+| style="background-color:var(--orange-bg)" | [[File:Colossus of Rhodes.png|75px]]
+|Colossus of Rhodes||3x1||Divine Order Chest +100
+|15 W-tads
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Hellas]]

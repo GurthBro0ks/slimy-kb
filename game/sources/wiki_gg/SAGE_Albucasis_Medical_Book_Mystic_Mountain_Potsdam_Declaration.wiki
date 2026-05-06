@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=SAGE,Albucasis Medical Book,Mystic Mountain,Potsdam Declaration
+|rank=orange
+|amount=4
+|category=minion
+|description=Snail Leadership +9
+}}
+[[Category:Minion]]
+[[Category:Leadership Boost]]

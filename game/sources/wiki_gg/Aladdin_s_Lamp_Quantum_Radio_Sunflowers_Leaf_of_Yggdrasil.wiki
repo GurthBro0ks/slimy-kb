@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Aladdin's Lamp,Quantum Radio,Sunflowers,Leaf of Yggdrasil
+|rank=orange
+|amount=4
+|category=self
+|description=Per Orange+ Gear equipped, Snail ATK +18
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Gear]]

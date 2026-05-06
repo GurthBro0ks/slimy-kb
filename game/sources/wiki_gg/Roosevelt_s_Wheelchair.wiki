@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Roosevelt's Wheelchair
+|class_id=22520
+|rank=AAA
+|affct=FAME
+|birthday=11-08
+|source=Lottery Machine No.3 (0.06%)
+|description=On Nov 8, 1921 AD, Roosevelt sat in a wheelchair due to his illness.<br>Due to an accident, Roosevelt contracted polio and became permanently disabled, relying on a wheelchair for mobility. Despite this, he did not give up his political ideals and eventually became the President of the United States, leading the country to become a superpower during his tenure. The wheelchair that accompanied him for a long time also became a valuable artifact that witnessed countless historical events.
+|fame=74
+|art=40
+|fth=33
+|civ=47
+|tech=49
+|ss1=When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +6%<br>Zombie Minion DEF +3%
+|ss2=When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +8%<br>Zombie Minion DEF +4%
+|ss3=When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +10%<br>Zombie Minion DEF +5%
+|ss4=When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +14%<br>Zombie Minion DEF +7%
+|ss5=When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +18%<br>Zombie Minion DEF +9%
+|ss7=When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +18%<br>Zombie Minion DEF +9%<br>When you receive Purple Spores from Catalysis:<br>> Gain +1 Spore Voucher by +14% (Awakened)
+|skill1=[[File:Prairiesanctum skill II.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Cap +15%
+|skill2=[[File:Prairiesanctum skill II.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +15%
+}}

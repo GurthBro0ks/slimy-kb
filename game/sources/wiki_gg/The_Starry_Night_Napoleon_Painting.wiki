@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Starry Night,Napoleon Painting
+|rank=purple
+|amount=2
+|category=home
+|description=The Pond has a +12% chance to produce W-tads
+}}
+[[Category:Home]]

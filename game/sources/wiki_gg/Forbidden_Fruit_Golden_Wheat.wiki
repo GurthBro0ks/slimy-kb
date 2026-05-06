@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Forbidden Fruit,Golden Wheat
+|rank=orange
+|amount=2
+|category=self
+|description=Per 10 HP-Fungi eaten, Snail HP +70<br>HP-Fungi Eaten: 500/500
+}}
+[[Category:Self]]

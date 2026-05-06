@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Great Wave
+|rank=Blue
+|affct=ART
+|birthday=12-25
+|source=Lottery Machine (0.07%), Wishing (3%), Yamato Treasure Maps (20%)
+|description=On Dec 25, 1821, Katsushika Hokusai created the best ukiyo-e masterpiece.
+
+Great Wave recreated the scene of three ships moving on the surging waves of the Kanagawa waters. It expressed the bravery of the boatmen fighting against nature. His art did not only adopt a bold and direct style and technique but also conveyed a strong contrast between dynamic and static movements, showing a variety of rich expressions. It's irregular and unbalanced aesthetics was regarded by critics as a unique interpretation of beauty.
+|fame=29
+|art=48
+|fth=27
+|civ=21
+|tech=29
+|ss1=In Demon Form, Travel SPD +0.2%
+|ss2=In Demon Form, Travel SPD +0.4%
+|ss3=In Demon Form, Travel SPD +0.6%
+|ss4=In Demon Form, Travel SPD +1%
+|ss7=In Demon Form, Travel SPD +1%<br>In Demon Form, Travel SPD +1% (Awakened)
+|skill1=[[File:Yamato skill I.png|50px]] Place in Yamato Museum: In Yamato, ART Checks -5
+}}
+
+[[Category:Travel Speed Boost]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:ART Boost]]
+[[Category:ATK Boost]]
+[[Category:Gene Research Speedup Boost]]

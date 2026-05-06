@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Will's Spike
+|class_id=20383
+|rank=Green
+|affct=TECH
+|source=
+|description=Although Earth's Will was defeated by Demon Gods, still, numerous warriors respond to their call and keep resisting the enemies. They made this spike in the name of Earth's Will with the purpose of giving Nethrone a lethal strike!
+|fame=16
+|art=16
+|fth=17
+|civ=12
+|tech=29
+|ss1=Against Nethrone, DMG +300%
+|ss2=Against Nethrone, DMG +400%
+|ss3=Against Nethrone, DMG +500%
+|ss4=Against Nethrone, DMG +500%
+|ss7=Against Nethrone, DMG +500%<br> (Awakened)
+}}

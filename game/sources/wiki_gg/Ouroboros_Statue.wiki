@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Ouroboros Statue
+|class_id=20161
+|rank=Green
+|affct=ART
+|source=
+|description=This unique trinket is Astaroth's reward for her subordinates. The small coiling snake on it is her servant. The ouroboros-like shape allows the magic power to circulate within its body, enabling long-term use of it so that Astaroth can monitor its owner however she likes.
+|fame=15
+|art=30
+|fth=19
+|civ=13
+|tech=13
+|ss1=Against Demon Lords, DMG +1%<br>Per Demon Lord defeated, Snail ATK +8<br>Demon Lords Defeated: 20/20
+|ss2=Against Demon Lords, DMG +2%<br>Per Demon Lord defeated, Snail ATK +16<br>Demon Lords Defeated: 20/20
+|ss3=Against Demon Lords, DMG +3%<br>Per Demon Lord defeated, Snail ATK +24<br>Demon Lords Defeated: 20/20
+|ss4=Against Demon Lords, DMG +3%<br>Per Demon Lord defeated, Snail ATK +24<br>Demon Lords Defeated: 20/20
+|ss7=Against Demon Lords, DMG +3%<br>Per Demon Lord defeated, Snail ATK +24<br>Demon Lords Defeated: 20/20<br> (Awakened)
+}}

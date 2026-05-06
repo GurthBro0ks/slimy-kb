@@ -1,0 +1,43 @@
+{{Missing Info|specifics=Mirage 2-5}}
+{{CargoRelic
+|name=The Analects
+|rank=SSS
+|affct=CIV
+|birthday=07-21
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.08%)
+|description=On Jul 21, 475 BC, the quotes of Confucius and his disciples were compiled in a book. After the death of Confucius, Zeng compiled the records of Confucius and his disciples into "The Analects" which has 20 sections, 492 chapters, totaling more than 15,000 words. The book advocates benevolent love as its core idea, as well as the virtues of righteousness, propriety, wisdom, and trustworthiness. Confucius' persuasive and lively teachings are recorded in the book through simple conversations or debates between him and the others. As the teachings are subtle, yet profound and timeless, it has made a great impact on future generations.
+
+[Book Review]
+
+Zhu Xi: The world remains in darkness had Confucious not been born.
+
+Voltaire: Confucius is the only sensible one who never brings confusion and showed a clear path to the world.
+
+Nobel Laureate: If mankind is to survive in the 21st century, it must go back 25 centuries in time to tap the wisdom of Confucius.
+|fame=48
+|art=82
+|fth=67
+|civ=107
+|tech=58
+|ss1=All Gene Research SPD +0.6%<br>Gene Research Free Speedup +9m<br>For all Gene Research, B-tad Cost -1.2%
+|ss2=All Gene Research SPD +0.8%<br>Gene Research Free Speedup +12m<br>For all Gene Research, B-tad Cost -1.6%
+|ss3=All Gene Research SPD +1%<br>Gene Research Free Speedup +15m<br>For all Gene Research, B-tad Cost -2%
+|ss4=All Gene Research SPD +1.4%<br>Gene Research Free Speedup +21m<br>For all Gene Research, B-tad Cost -2.8%
+|ss5=All Gene Research SPD +1.8%<br>Gene Research Free Speedup +27m<br>For all Gene Research, B-tad Cost -3.6%
+|ss6=All Gene Research SPD +2.4%<br>Gene Research Free Speedup +36m<br>For all Gene Research, B-tad Cost -4.8%
+|ss7=All Gene Research SPD +2.4%<br>Gene Research Free Speedup +36m<br>For all Gene Research, B-tad Cost -4.8%<br>All Gene Research SPD +2% (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x Green Card Drops +15%
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x Green Reagent Drops +15%
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail DEF +600
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Gene Research Speedup Boost]]
+[[Category:Gene Research Cost Reduction]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:DEF Boost]]
+[[Category:Relic Boost]]
+[[Category:HP Boost]]

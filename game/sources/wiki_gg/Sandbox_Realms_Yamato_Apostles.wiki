@@ -1,0 +1,363 @@
+= Yamato Apostles =
+
+==Apostles==
+Once an apostle is defeated for the first time, he is considered defeated. Once an apostle is defeated in 2 rounds or less, he is considered "Dominated." Each area has an apostle and occasionally an apostle will have minions who must be defeated first. Once the apostle is Dominated, there are no more fights with that apostle. 
+
+After defeating the last apostle of [[Yamato]], the next area, [[Cathay]], is unlocked. Below are the stats for every Yamato apostle and their minions.
+
+==Sumo Champion==
+'''Area:''' Kokhaido 
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Sumo Champion
+|1,677
+|1,056
+|8,184
+|CIV 1,480
+|Koban, Meal Box Size +1000, Travel Speedup +90m, <span style="color:#ffb066;">Orange HP-Fungus</span>
+|-
+|''Ramen Master''
+|1,211
+|873
+|6,210
+|CIV 1,204
+|720 B-tads, Yamato INTEL +210
+|-
+|''Sushi Master''
+|1,382
+|901
+|7,015
+|CIV 1,358
+|720 B-tads, Yamato INTEL +210
+|}
+
+==Gang Leader==
+'''Area:''' Cansai
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Gang Leader
+|2,133
+|1,113
+|8,830
+|FAME 1,526
+|Koban, Meal Box Size +1000, Travel Speedup +90m
+|-
+|''Gangster''
+|1,705
+|888
+|7,904
+|FAME 1,436
+|740 B-tads, Yamato INTEL +220
+|-
+|''Gangster''
+|1,936
+|956
+|8,184
+|FAME 1.493
+|740 B-tads, Yamato INTEL +220
+|-
+|''Gangster''
+|2,043
+|1,087
+|8,444
+|FAME 1,506
+|740 B-tads, Yamato INTEL +220
+|}
+
+==Mom==
+'''Area:''' Shipuya
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Mom
+|2,697
+|1,249
+|10,630
+|CIV 1,640
+|Koban, Meal Box Size +1200, Travel Speedup +90m, Toner +10
+|-
+|''Bullied Boy''
+|1,923
+|927
+|7,956
+|CIV 1,336
+|760 B-tads, Yamato INTEL +230
+|-
+|''Shower Girl''
+|2,189
+|1,124
+|9,036
+|CIV 1,520
+|760 B-tads, Yamato INTEL +231
+|-
+|''Terrible Singer''
+|2,308
+|1,132
+|9,294
+|ART 1,566
+|B-tads x760, Yamato INTEL +232
+|-
+|''Rich Kid''
+|2,397
+|1,189
+|9,551
+|CIV 1,593
+|760 B-tads, Yamato INTEL +233
+|}
+
+==Idol Girl==
+'''Area:''' Akibahara
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Idol Girl
+|3,204
+|1,408
+|12,183
+|ART 1,738
+|<span style="color:#40da25;">Green Koban</span>, Meal Box Size +1200, Travel Speedup +100m
+|}
+
+==Basketball Squad==
+'''Area:''' Canto
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Basketball Squad
+|4,289
+|1,748
+|14,889
+|FAME 2,047
+|<span style="color:#40da25;">Green Koban</span>, Meal Box Size +2000, Travel Speedup +110m
+|-
+|''Player No. 11''
+|3,008
+|1,398
+|11,406
+|FAME 1,690
+|800 B-tads, Yamato INTEL +250
+|-
+|''Player No. 7''
+|3,278
+|1,418
+|12,138
+|FAME 1,730
+|800 B-tads, Yamato INTEL +250
+|-
+|''Player No. 3''
+|3,487
+|1,467
+|12,899
+|FAME 1,803
+|800 B-tads, Yamato INTEL +250
+|-
+|''Player No. 9''
+|3,601
+|1,516
+|13,193
+|FAME 1,892
+|800 B-tads, Yamato INTEL +250
+|-
+|''Player No. 6''
+|3,764
+|1,587
+|13,487
+|FAME 1,997
+|800 B-tads, Yamato INTEL +250
+|}
+
+==Spike Turtle==
+'''Area:''' Chupu
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Spike Turtle
+|5,925
+|2,077
+|16,592
+|ART 2,377
+|<span style="color:#22d3d0;">Blue Koban</span>, Meal Box Size +1500, Travel Speedup +100m, <span style="color:#40da25;">Green Coating</span> +10
+|}
+
+==General Shimasu==
+'''Area:''' Gyushu
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|General Shimasu
+|6,794
+|2,376
+|18,910
+|FTH 2,751
+|<span style="color:#22d3d0;">Blue Koban</span>, Meal Box Size +2000, Travel Speedup +110m
+|-
+|''Samoyed Samurai''
+|5,228
+|1,780
+|15,548
+|FTH 2,555
+|840 B-tads, Yamato INTEL +270
+|-
+|''Samoyed Samurai''
+|5,808
+|1,850
+|16,041
+|FTH 2,583
+|840 B-tads, Yamato INTEL +270
+|-
+|''Samoyed Samurai''
+|5,954
+|1,924
+|16,173
+|FTH 2,612
+|840 B-tads, Yamato INTEL +270
+|-
+|''Samoyed Samurai''
+|6,099
+|2,033
+|16,304
+|FTH 2,640
+|840 B-tads, Yamato INTEL +270
+|-
+|''Samoyed Samurai''
+|6,334
+|2,177
+|16,835
+|FTH 2,665
+|840 B-tads, Yamato INTEL +270
+|}
+
+==Radiation Monster==
+'''Area:''' Orry Villa
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Radiation Monster
+|8,591
+|2,688
+|19,927
+|TECH 3,046
+|<span style="color:#ee96d5;">Purple Koban</span>, Meal Box Size +2500, Travel Speedup +2h, Organ Slime +10
+|}
+
+==Samurai Hattori==
+'''Area:''' Nana
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Samurai Hattori
+|10,165
+|3,293
+|22,043
+|CIV 3,299
+|<span style="color:#ee96d5;">Purple Koban</span>, Meal Box Size +2500, Travel Speedup +130m
+|-
+|''Ninja Fuma''
+|10,165
+|3,132
+|20,673
+|CIV 3,299
+|880 B-tads, Yamato INTEL +290
+|}
+
+==Omyoji Abbe==
+'''Area:''' Kiyoto
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|Omyoji Abbe
+|12,789
+|4,290
+|31,859
+|FTH 3,870
+|<span style="color:#ffb066;">Orange Koban</span>, Meal Box Size +3000, Travel Speedup +140m, [[Savant Eye|<span style="color:#ffb066;">Savant Eye</span>]]
+|-
+|''Touda''
+|10,918
+|3,160
+|21,960
+|FTH 3,457
+|900 B-tads, Yamato INTEL +300
+|-
+|''Kouchin''
+|10,968
+|3,476
+|22,987
+|FTH 3,469
+|900 B-tads, Yamato INTEL +301
+|-
+|''Seiryuu''
+|11,019
+|3,498
+|23,697
+|FTH 3,482
+|900 B-tads, Yamato INTEL +302
+|-
+|''Rikugo''
+|11,068
+|3,520
+|24,481
+|FTH 3,495
+|900 B-tads, Yamato INTEL +303
+|-
+|''Suzaka''
+|11,119
+|3,541
+|24,865
+|FTH 3,500
+|900 B-tads, Yamato INTEL +304
+|-
+|''Tenitsu''
+|11,168
+|3,563
+|25,086
+|FTH 3,505
+|900 B-tads, Yamato INTEL +305
+|-
+|''Tenkou''
+|11,219
+|3,584
+|25,307
+|FTH 3,516
+|900 B-tads, Yamato INTEL +306
+|-
+|''Taiin''
+|11,270
+|3,606
+|25,528
+|FTH 3,530
+|900 B-tads, Yamato INTEL +307
+|-
+|''Genbu''
+|11,319
+|3,628
+|35,748
+|FTH 3,545
+|900 B-tads, Yamato INTEL +308
+|-
+|''Taijou''
+|11,370
+|3,649
+|25,968
+|FTH 3,561
+|900 B-tads, Yamato INTEL +309
+|-
+|''White Tiger''
+|11,420
+|3,671
+|26,190
+|FTH 3,569
+|900 B-tads, Yamato INTEL +310
+|-
+|Tenkuu
+|11,470
+|3,692
+|26,410
+|FTH 3,576
+|900 B-tads, Yamato INTEL +311
+|}
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Yamato]]

@@ -1,0 +1,7 @@
+The {{RewardIconWithLink|Singularity Crystal Box|orange}} is a reward for many events and it contains the following:
+* {{RewardIconWithLink|Singularity Crystal, +1|orange}}
+* {{RewardIconWithText|Quantum Gel, +2k}}
+
+This heavy box contains the precious Singularity Crystal. It allows the user to observe the nebula from an even closer place!
+
+[[Category:Reward Pack]]

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=601
+|relics=The 1st Electric Fan,Karrier AC
+|rank=blue
+|amount=2
+|category=self
+|description=Snail HP +500
+}}

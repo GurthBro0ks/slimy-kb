@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=St. George Award
+|class_id=20528
+|rank=Green
+|affct=CIV
+|source=
+|description=The St. George Award is the highest honor at the Moscow International Film Festival, and only one film per festival can receive this award. As the second oldest film festival globally, the Moscow International Film Festival is second only to the Venice Film Festival and is one of the most important international film festivals in the world.
+|fame=12
+|art=16
+|fth=13
+|civ=32
+|tech=17
+|ss1=All Minion HARD Stats +1.2%
+|ss2=All Minion HARD Stats +1.4%
+|ss3=All Minion HARD Stats +1.6%
+|ss4=All Minion HARD Stats +1.6%
+|ss7=All Minion HARD Stats +1.6%<br> (Awakened)
+}}

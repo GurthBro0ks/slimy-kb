@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Quantum Cat
+|class_id=20807
+|rank=Blue
+|affct=TECH
+|birthday=05-15
+|source=
+|description=On May 15, 1870 AD, the world's first Fortune Cat appeared in Japan and became popular across Asia.<br>Cat became popular in the Edo Period of Japan as people believed that the mysterious cats could protect their food from rats. Cats gradually became a symbol of wealth. Later, people started placing Fortune Cats at home as they symbolized good fortune and abundance.
+|fame=30
+|art=19
+|fth=29
+|civ=28
+|tech=48
+|ss1=In Snail Store, Fortune Cat B-tad cap +20000
+|ss2=In Snail Store, Fortune Cat B-tad cap +40000
+|ss3=In Snail Store, Fortune Cat B-tad cap +60000
+|ss4=In Snail Store, Fortune Cat B-tad cap +100000
+|ss7=In Snail Store, Fortune Cat B-tad cap +100000<br>In Snail Store, Fortune Cat B-tad cap +40000 (Awakened)
+|skill1=[[File:Timemachine skill I.png|50px]]Place in Time Machine: Travel Speedup Output +5%
+}}

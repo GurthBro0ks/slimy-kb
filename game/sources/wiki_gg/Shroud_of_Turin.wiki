@@ -1,0 +1,40 @@
+
+{{CargoRelic
+|name=Shroud of Turin
+|rank=S
+|affct=FTH
+|birthday=11-10
+|source=Fragment Crafting (15.1%), Lottery Machine (0.81%), Relic Forge (90 Relic RF), Wishing (0.53%)
+|description=On Nov 10, 34 AD, this shroud became the object of worship for the believers.
+
+After Jesus was nailed to the cross and died, his disciples left him. None but only Joseph had come to collect his body. He wrapped his body in fine linen and placed him in the stone tomb. Days later, Jesus arose from his tomb, leaving behind only the linen shroud. You can make out the face of a person with shoulder-length hair imprinted on this shroud. There are red blood stains around his head. This is known as the face of Jesus.
+|fame=53
+|art=64
+|fth=99
+|civ=65
+|tech=51
+|ss1=In Zombie Form, Snail HP +160<br>In Zombie Form, Travel SPD +0.2%<br>In explorations, Zombie Cells gained +1%
+|ss2=In Zombie Form, Snail HP +320<br>In Zombie Form, Travel SPD +0.4%<br>In explorations, Zombie Cells gained +2%
+|ss3=In Zombie Form, Snail HP +480<br>In Zombie Form, Travel SPD +0.6%<br>In explorations, Zombie Cells gained +3%
+|ss4=In Zombie Form, Snail HP +800<br>In Zombie Form, Travel SPD +1%<br>In explorations, Zombie Cells gained +5%
+|ss5=In Zombie Form, Snail HP +1120<br>In Zombie Form, Travel SPD +1.4%<br>In explorations, Zombie Cells gained +7%
+|ss6=In Zombie Form, Snail HP +1,600<br>In Zombie Form, Travel SPD +2%<br>In explorations, Zombie Cells gained +10%
+|ss7=In Zombie Form, Snail HP +1,600<br>In Zombie Form, Travel SPD +2%<br>In explorations, Zombie Cells gained +10%<br>In explorations, Zombie Cells gained +10%
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's FTH +15
+|skill2=[[File:Quarry skill III.png|50px]]Place in Quarry: Find Ancient Fossil by +30%
+|skill3=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Find Ancient Wood by +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:Travel Speed Boost]]
+[[Category:Zombie Cell Drop Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:FTH Boost]]
+[[Category:Quarry Skill]]
+[[Category:Ancient Fossil Boost]]
+[[Category:Lumber Camp Skill]]
+[[Category:Ancient Wood Boost]]
+[[Category:Offering Reward Boost]]
+[[Category:Reagent Crafting Boost]]
+[[Category:Wraith Boost]]

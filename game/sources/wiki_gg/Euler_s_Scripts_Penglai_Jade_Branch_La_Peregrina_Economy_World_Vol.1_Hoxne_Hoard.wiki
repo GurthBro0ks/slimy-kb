@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Euler's Scripts,Penglai Jade Branch,La Peregrina,Economy World Vol.1,Hoxne Hoard
+|rank=purple
+|amount=5
+|category=minion
+|description=Dragon Minion MAX +9
+}}
+[[Category:Minion]]
+[[Category:Dragon Minion MAX Cap Boost]]

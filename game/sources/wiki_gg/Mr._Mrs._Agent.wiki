@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Mr. & Mrs. Agent
+|rank=purple
+|cabin=2
+|id=72
+|gene1={race} RUSH +30
+|gene2={race} TECH +30
+|gene3=Per 30 Angel Minions in battle:
+> Troop RUSH +8
+|gene4=Wind DMG +20
+|gene5=Per 30 Angel Minions in battle:
+> Troop RUSH +12
+|gene6=Wind DMG +30
+|}}

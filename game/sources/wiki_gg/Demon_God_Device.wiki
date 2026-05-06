@@ -1,0 +1,314 @@
+{{Missing Info|specifics=Robot amounts past 90}}
+
+== Demon God Device ==
+Demon God Device Cabin within [[Rocket]] Cabins
+
+Send robots to gather: {{RewardIconWithText|Demon Cell}}, {{RewardIconWithText|Zombie Cell}}<br>
+Upgrade Demon God Cabin Tech to send more robots.
+{| class="wikitable"
+!Tech
+!Robots
+|-
+|0-399||5
+|-
+|400-1,399||10
+|-
+|1,400-3,199||20
+|-
+|3,200-5,999||30
+|-
+|6,000-10,799||40
+|-
+|10,800-17,999||50
+|-
+|18,000-24,999||60
+|-
+|25,000-35,999||70
+|-
+|36,000-53,999||80
+|-
+|54,000-79,999||90
+|-
+|80,000-?||?
+|}
+
+==Particle Accelerator==
+Each tier gives +1 to Demon Minion HP, ATK, DEF, and RUSH.<br>Each tier gives Per 100 Minions in battle, Troop Wind DMG +20.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Demon God Bearing x40<br>T1 Demon God Gear x40<br>T1 Demon God Chip x40<br>[[File:B-tad.png|frameless|20x20px]] B-tad x10K
+|[[File:Time-chest.png|frameless|50x50px]] Time Chest +100
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x30
+|-
+|2
+|T2 Demon God Bearing x40<br>T2 Demon God Gear x40<br>T2 Demon God Chip x40<br>[[File:B-tad.png|frameless|20x20px]] B-tad x20K
+|[[File:Time-chest.png|frameless|50x50px]] Time Chest +200
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x60
+|-
+|3
+|T3 Demon God Bearing x40<br>T3 Demon God Gear x40<br>T3 Demon God Chip x40<br>[[File:B-tad.png|frameless|20x20px]] B-tad x30K
+|[[File:Time-chest.png|frameless|50x50px]] Time Chest +400
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x120
+|-
+|4
+|T4 Demon God Bearing x40<br>T4 Demon God Gear x40<br>T4 Demon God Chip x40<br>[[File:B-tad.png|frameless|20x20px]] B-tad x40K
+|[[File:Time-chest.png|frameless|50x50px]] Time Chest +800
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x200
+|-
+|5
+|T5 Demon God Bearing x40<br>T5 Demon God Gear x40<br>T5 Demon God Chip x40<br>[[File:B-tad.png|frameless|20x20px]] B-tad x50K
+|[[File:Time-chest.png|frameless|50x50px]] Time Chest +1,600
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x300
+|}
+
+==Assist System==
+Each tier gives +1 to Dragon Minion HP, ATK, DEF, and RUSH.<br>Each tier gives Per 100 Minions in battle, Troop Fire DMG +20.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Demon God Bearing x40<br>T1 Demon God Gear x40<br>T1 Demon God Prism x40<br>[[File:B-tad.png|frameless|20x20px]] B-tad x10K
+|[[File:Gene-speedup.png|frameless|50x50px]] Gene Speedup +4h
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x30
+|-
+|2
+|T2 Demon God Bearing x40<br>T2 Demon God Gear x40<br>T2 Demon God Prism x40<br>[[File:B-tad.png|frameless|20x20px]] B-tad x20K
+|[[File:Gene-speedup.png|frameless|50x50px]] Gene Speedup +8h
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x60
+|-
+|3
+|T3 Demon God Bearing x40<br>T3 Demon God Gear x40<br>T3 Demon God Prism x40<br>[[File:B-tad.png|frameless|20x20px]] B-tad x30K
+|[[File:Gene-speedup.png|frameless|50x50px]] Gene Speedup +16h
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x120
+|-
+|4
+|T4 Demon God Bearing x40<br>T4 Demon God Gear x40<br>T4 Demon God Prism x40<br>[[File:B-tad.png|frameless|20x20px]] B-tad x40K
+|[[File:Gene-speedup.png|frameless|50x50px]] Gene Speedup +1d 8h
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x200
+|-
+|5
+|T5 Demon God Bearing x40<br>T5 Demon God Gear x40<br>T5 Demon God Prism x40<br>[[File:B-tad.png|frameless|20x20px]] B-tad x50K
+|[[File:Gene-speedup.png|frameless|50x50px]] Gene Speedup +2d
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x300
+|}
+
+==Orbit Assimilator==
+Each tier gives +1 to Mecha Minion HP, ATK, DEF, and RUSH.<br>Each tier gives Per 100 Minions in battle, Troop Earth DMG +20.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Demon God Bearing x40<br>T1 Demon God Chip x40<br>T1 Demon God Prism<br>[[File:B-tad.png|frameless|20x20px]] B-tad x10K
+|[[File:Refine-speedup.png|frameless|50x50px]] Refine Speedup +4h
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x30
+|-
+|2
+|T2 Demon God Bearing x40<br>T2 Demon God Chip x40<br>T2 Demon God Prism<br>[[File:B-tad.png|frameless|20x20px]] B-tad x20K
+|[[File:Refine-speedup.png|frameless|50x50px]] Refine Speedup +8h
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x60
+|-
+|3
+|T3 Demon God Bearing x40<br>T3 Demon God Chip x40<br>T3 Demon God Prism<br>[[File:B-tad.png|frameless|20x20px]] B-tad x30K
+|[[File:Refine-speedup.png|frameless|50x50px]] Refine Speedup +16h
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x120
+|-
+|4
+|T4 Demon God Bearing x40<br>T4 Demon God Chip x40<br>T4 Demon God Prism<br>[[File:B-tad.png|frameless|20x20px]] B-tad x40K
+|[[File:Refine-speedup.png|frameless|50x50px]] Refine Speedup +1d 8h
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x200
+|-
+|5
+|T5 Demon God Bearing x40<br>T5 Demon God Chip x40<br>T5 Demon God Prism<br>[[File:B-tad.png|frameless|20x20px]] B-tad x50K
+|[[File:Refine-speedup.png|frameless|50x50px]] Refine Speedup +2d
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x300
+|}
+
+==Gravity Propeller==
+Each tier gives +1 to Mutant Minion HP, ATK, DEF, and RUSH.<br>Each tier gives Per 100 Minions in battle, Troop Water DMG +20.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|40 T1 Demon God Propeller<br>40 T1 Demon God Chip<br>40 T1 Demon God Prism<br>10k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Tool Chest, +100}}
+|{{RewardIconWithText|Military Printing Supply, +30}}
+|-
+|2
+|40 T2 Demon God Propeller<br>40 T2 Demon God Chip<br>40 T2 Demon God Prism<br>20k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Tool Chest, +200}}
+|{{RewardIconWithText|Military Printing Supply, +60}}
+|-
+|3
+|40 T3 Demon God Propeller<br>40 T3 Demon God Chip<br>40 T3 Demon God Prism<br>30k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Tool Chest, +400}}
+|{{RewardIconWithText|Military Printing Supply, +120}}
+|-
+|4
+|40 T4 Demon God Propeller<br>40 T4 Demon God Chip<br>40 T4 Demon God Prism<br>40k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Tool Chest, +800}}
+|{{RewardIconWithText|Military Printing Supply, +200}}
+|-
+|5
+|40 T5 Demon God Propeller<br>40 T5 Demon God Chip<br>40 T5 Demon God Prism<br>50k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Tool Chest, +1.6k}}
+|{{RewardIconWithText|Military Printing Supply, +300}}
+|}
+
+==Demon God Matrix==
+Each tier gives +2 to Demon Minion HP, ATK, DEF, and RUSH.<br>Each tier gives Per 100 Minions in battle, Troop Fire DMG +2%.<br>Each tier gives Per 100 Minions in battle, Troop Fire RES +1%.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Demon God Bearing x40<br>T1 Demon God Gear x40<br>T1 Demon God Engine x5<br>[[File:B-tad.png|frameless|20x20px]] B-tad x20K
+|[[File:Demon-chest.png|frameless|50x50px]] Demon Chest +150
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x50
+|-
+|2
+|T2 Demon God Bearing x40<br>T2 Demon God Gear x40<br>T2 Demon God Engine x5<br>[[File:B-tad.png|frameless|20x20px]] B-tad x40K
+|[[File:Demon-chest.png|frameless|50x50px]] Demon Chest +300
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x100
+|-
+|3
+|T3 Demon God Bearing x40<br>T3 Demon God Gear x40<br>T3 Demon God Engine x5<br>[[File:B-tad.png|frameless|20x20px]] B-tad x60K
+|{{RewardIconWithLink|Matrix Beast|blue|Nursery#Minion_Skins}} (Nightmare Steed Skin)
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x200
+|-
+|4
+|T4 Demon God Bearing x40<br>T4 Demon God Gear x40<br>T4 Demon God Engine x5<br>[[File:B-tad.png|frameless|20x20px]] B-tad x80K
+|{{RewardIconWithLink|Demon Spine|purple}} +10
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x320
+|-
+|5
+|T5 Demon God Bearing x40<br>T5 Demon God Gear x40<br>T5 Demon God Engine x5<br>[[File:B-tad.png|frameless|20x20px]] B-tad x100K
+|{{RewardIconWithLink|Demon Spine|purple}} +20
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x500
+|}
+
+==Curvature Engine==
+Each tier gives +2 to {{RewardIcon|Dragon Form Icon}}Dragon Minion HP, ATK, DEF, and RUSH.<br>Each tier gives Per 100 Minions in battle, Troop Wind DMG +2%.<br>Each tier gives Per 100 Minions in battle, Troop Wind RES +1%.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|40 T1 Demon God Chip<br>40 T1 Demon God Prism<br>5 T1 Demon God Engine<br>20k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Divine Neutral Chest, +150|green}}
+|50 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|2
+|40 T2 Demon God Chip<br>40 T2 Demon God Prism<br>5 T2 Demon God Engine x5<br>40k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Divine Neutral Chest, +300|green}}
+|100 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|3
+|40 T3 Demon God Chip<br>40 T3 Demon God Prism<br>5 T3 Demon God Engine x5<br>60k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Warp Dragon|blue|Nursery#Minion_Skins}} (Drawn Dragon Skin)
+|200 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|4
+|40 T4 Demon God Chip<br>40 T4 Demon God Prism<br>5 T4 Demon God Engine x5<br>80k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Warp Horn|purple}} +10
+|320 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|5
+|40 T5 Demon God Chip<br>40 T5 Demon God Prism<br>5 T5 Demon God Engine<br>100k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Warp Horn|purple}} +20
+|500 {{RewardIconWithText|Standard Printing Supply}}
+|}
+
+==Apocalypse Hall==
+Each tier gives +1 to All Minion HP, ATK, DEF, and RUSH.<br>Each tier gives In any Realm, Demon God Cells gained +4%.<br>Each tier gives All Minion ATK +2%.<br>Each tier gives All Minion RUSH +2%.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Demon God Bearing x200<br>T1 Demon God Chip x200<br>T1 Demon God Engine x50<br>[[File:B-tad.png|frameless|20x20px]] B-tad x30K
+|{{RewardIconWithLink|Misfortune Star|green}}
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x100
+|-
+|2
+|T2 Demon God Bearing x200<br>T2 Demon God Chip x200<br>T2 Demon God Engine x50<br>[[File:B-tad.png|frameless|20x20px]] B-tad x60K
+|{{RewardIconWithLink|Mahakala's Offering|orange|Altar#Offerings and Divine Chests}}
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x200
+|-
+|3
+|T3 Demon God Bearing x200<br>T3 Demon God Chip x200<br>T3 Demon God Engine x50<br>[[File:B-tad.png|frameless|20x20px]] B-tad x90K
+|{{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x300
+|-
+|4
+|T4 Demon God Bearing x200<br>T4 Demon God Chip x200<br>T4 Demon God Engine x50<br>[[File:B-tad.png|frameless|20x20px]] B-tad x120K
+|{{RewardIconWithLink|Blood of Cain|orange}} +40
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x600
+|-
+|5
+|T5 Demon God Bearing x200<br>T5 Demon God Chip x200<br>T5 Demon God Engine x50<br>[[File:B-tad.png|frameless|20x20px]] B-tad x150K
+|{{RewardIconWithLink|Blood of Cain|orange}} +240
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x1000
+|}
+
+==Eternal Hall==
+Each tier gives +1 to All Minion HP, ATK, DEF, and RUSH.<br>Each tier gives In any Realm, Cells collected +2%.<br>Each tier gives Home Facility Resource Outputs +2%.<br>Each tier gives Home Facility Resource Max Cap +2%.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Demon God Gear x200<br>T1 Demon God Prism x200<br>T1 Demon God Engine x50<br>[[File:B-tad.png|frameless|20x20px]] B-tad x30K
+|{{RewardIconWithLink|St. George's Gold Cup|green}}
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x100
+|-
+|2
+|T2 Demon God Gear x200<br>T2 Demon God Prism x200<br>T2 Demon God Engine x50<br>[[File:B-tad.png|frameless|20x20px]] B-tad x60K
+|{{RewardIconWithLink|Dragon Orb, +1|orange}}
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x200
+|-
+|3
+|T3 Demon God Gear x200<br>T3 Demon God Prism x200<br>T3 Demon God Engine x50<br>[[File:B-tad.png|frameless|20x20px]] B-tad x90K
+|{{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x300
+|-
+|4
+|T4 Demon God Gear x200<br>T4 Demon God Prism x200<br>T4 Demon God Engine x50<br>[[File:B-tad.png|frameless|20x20px]] B-tad x120K
+|{{RewardIconWithLink|Arkanrock|orange}} +40
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x600
+|-
+|5
+|T5 Demon God Gear x200<br>T5 Demon God Prism x200<br>T5 Demon God Engine x50<br>[[File:B-tad.png|frameless|20x20px]] B-tad x150K
+|{{RewardIconWithLink|Arkanrock|orange}} +240
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x1000
+|}
+
+==Links to Other Cabins==
+
+* Cabin: [[Domain Device]]
+* Cabin: [[Species Device]]
+* Cabin: [[Rebel Device]]
+* Cabin: [[Earth's Will Device]]
+
+[[Category:Rocket]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Snow House Model
+|class_id=20633
+|rank=Green
+|affct=ART
+|source=
+|description=A snow house model crafted from organic glass, its translucent exterior and intricately carved interior perfectly showcase the architectural style of the frigid region. Highly sought after by local tourists and enthusiasts of polar culture.
+|fame=14
+|art=33
+|fth=13
+|civ=14
+|tech=16
+|ss1=Snail ATK +10<br>Per 5 Lumber Camp LVLs, Snail ATK +4<br>Lumber Camp LVL: 50/50
+|ss2=Snail ATK +20<br>Per 5 Lumber Camp LVLs, Snail ATK +8<br>Lumber Camp LVL: 50/50
+|ss3=Snail ATK +30<br>Per 5 Lumber Camp LVLs, Snail ATK +12<br>Lumber Camp LVL: 50/50
+|ss4=Snail ATK +30<br>Per 5 Lumber Camp LVLs, Snail ATK +12<br>Lumber Camp LVL: 50/50
+|ss7=Snail ATK +30<br>Per 5 Lumber Camp LVLs, Snail ATK +12<br>Lumber Camp LVL: 50/50<br> (Awakened)
+}}

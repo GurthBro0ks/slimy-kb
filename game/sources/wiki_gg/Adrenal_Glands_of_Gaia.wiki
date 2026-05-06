@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Adrenal Glands of Gaia
+|type=Common
+|rank=red
+|id=10887
+|idx=98
+|description=Earth's Will was dismembered by Demon Gods. Some organs were retrieved and given as Reconstruction Feast rewards.
+|skill=
+|hp=2270
+|def=245
+|atk=328
+|rush=270
+|gene1=Fire DMG +120
+|gene2=CRIT +10%
+|gene3=Crit DMG +10%
+|gene4=Fire RES +120
+|gene5=CRIT +10%
+|gene6=Crit DMG +10%
+|gene7=Fire DMG +6% (Awakened)
+|}}

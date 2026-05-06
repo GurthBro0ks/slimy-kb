@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Holy Grail
+|class_id=22282
+|rank=SSS
+|affct=FTH
+|birthday=04-22
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Apr 22, 563 AD, Galahad, the Knight of the Round Table, survived the test and retrieved the Holy Grail for King Arthur.<br>After the crucifixion of Jesus, Joseph of Arimathea buried him and brought the Holy Grail Jesus used at the Last Supper to Great Britain, where he had never been seen. A long time later, King Arthur and his Knights of the Round Table got some clues about the Holy Grail. All of the knights set out to find the Grail, but only Galahad brought it back. Because of that, Galahad took Siege Perilous, a seat that was kept vacant for the person who found the Holy Grail, but he made his request to die. Finally, Galahad was visited by the spirit of Joseph of Arimathea and his soul ascended to Heaven.
+|fame=58
+|art=76
+|fth=109
+|civ=54
+|tech=65
+|ss1=Snail Leadership +3<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +24%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +24%
+|ss2=Snail Leadership +4<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +32%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +32%
+|ss3=Snail Leadership +5<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +40%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +40%
+|ss4=Snail Leadership +7<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +56%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +56%
+|ss5=Snail Leadership +9<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +72%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +72%
+|ss6=Snail Leadership +12<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +96%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +96%
+|ss7=Snail Leadership +12<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +96%<br>In the Gaia Rocket Cabin:<br>> Revelation Hall Base Effect +96%<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Water DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, DMG +30%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail HP +6000
+|mirage={{Mirage|name=Communion|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Communion Knife|3rec=16.44M|3atk=106235|3defense=70873|3hp=3295762|3weak=17781
+|4name=Communion Fork|4rec=29.19M|4atk=127365|4defense=84970|4hp=4668625|4weak=18864
+|5name=Communion Spoon|5rec=40.31M|5atk=150804|5defense=100607|5hp=6390906|5weak=20002
+|6name=Communion Chopsticks|6rec=52.53M|6atk=176574|6defense=117799|6hp=8454958|6weak=22225
+|Arec=66.34M|Aatk=205706|Adefense=137234|Ahp=11125012|Aweak=26768
+}}}}

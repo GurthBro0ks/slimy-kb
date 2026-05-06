@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20748_1
+|class_id=20748
+|rank=Green
+|affct=FAITH
+|source=
+|description=collection@20748_2
+|fame=14
+|art=17
+|fth=30
+|civ=16
+|tech=13
+|ss1=Per Dragon Form Tier, Snail HP +30<br>Per Dragon Form Tier, Snail ATK +3<br>Per Dragon Form Tier, Snail DEF +3<br>Per Dragon Form Tier, Snail RUSH +3<br>Dragon Form Tiers: 9/9
+|ss2=Per Dragon Form Tier, Snail HP +60<br>Per Dragon Form Tier, Snail ATK +6<br>Per Dragon Form Tier, Snail DEF +6<br>Per Dragon Form Tier, Snail RUSH +6<br>Dragon Form Tiers: 9/9
+|ss3=Per Dragon Form Tier, Snail HP +90<br>Per Dragon Form Tier, Snail ATK +9<br>Per Dragon Form Tier, Snail DEF +9<br>Per Dragon Form Tier, Snail RUSH +9<br>Dragon Form Tiers: 9/9
+|ss4=Per Dragon Form Tier, Snail HP +90<br>Per Dragon Form Tier, Snail ATK +9<br>Per Dragon Form Tier, Snail DEF +9<br>Per Dragon Form Tier, Snail RUSH +9<br>Dragon Form Tiers: 9/9
+|ss7=Per Dragon Form Tier, Snail HP +90<br>Per Dragon Form Tier, Snail ATK +9<br>Per Dragon Form Tier, Snail DEF +9<br>Per Dragon Form Tier, Snail RUSH +9<br>Dragon Form Tiers: 9/9<br> (Awakened)
+}}

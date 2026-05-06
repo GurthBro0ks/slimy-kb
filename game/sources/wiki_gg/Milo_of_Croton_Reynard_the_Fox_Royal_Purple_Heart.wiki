@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=698
+|relics=Milo of Croton,Reynard the Fox,Royal Purple Heart
+|rank=purple
+|amount=3
+|category=self
+|description=Per 3 Blue Brand Cases opened, Snail ATK +7;Blue Brand Cases Opened: 150/150
+}}

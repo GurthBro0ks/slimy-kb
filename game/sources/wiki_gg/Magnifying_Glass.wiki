@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Magnifying Glass
+|class_id=20073
+|rank=Green
+|affct=CIV
+|source=
+|description=This magnifying glass once belonged to a legendary English detective named Holmes. In that era, there was no advanced equipment, so the magnifying glass was an essential tool for a rigorous search of the crime scene. You can find all the traces the suspect left by using it!
+|fame=16
+|art=18
+|fth=14
+|civ=29
+|tech=13
+|ss1=Snail HP +10
+|ss2=Snail HP +20
+|ss3=Snail HP +30
+|ss4=Snail HP +30
+|ss7=Snail HP +30<br> (Awakened)
+}}

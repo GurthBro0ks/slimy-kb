@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Wegener's Map
+|class_id=22189
+|rank=A
+|affct=TECH
+|birthday=07-04
+|source=Lottery Machine No.2 (0.55%), Wishing (0.15%)
+|description=On Jul 4, 1910 AD, Wegener discovered the coincidence of the contour lines of various continents from a map of the world, and thus developed the theory of continental drift.<br>The label-filled map belonged to German geologist Wegener. One early morning in his hospital bed, he found a world map hanging on the wall. Inadvertently, he realized that the contours of the two sides of the ocean had extraordinary correspondence. Based on this discovery, he researched for several years before proposing the theory of continental drift, which left a great mark on the development of world geography.
+|fame=41
+|art=28
+|fth=45
+|civ=34
+|tech=65
+|ss1=Per Variant Apostle dominated, Snail ATK +1<br>Per Variant Apostle dominated, Snail RUSH +1<br>Variant Apostles Dominated: 60/60
+|ss2=Per Variant Apostle dominated, Snail ATK +2<br>Per Variant Apostle dominated, Snail RUSH +2<br>Variant Apostles Dominated: 60/60
+|ss3=Per Variant Apostle dominated, Snail ATK +3<br>Per Variant Apostle dominated, Snail RUSH +3<br>Variant Apostles Dominated: 60/60
+|ss4=Per Variant Apostle dominated, Snail ATK +5<br>Per Variant Apostle dominated, Snail RUSH +5<br>Variant Apostles Dominated: 60/60
+|ss5=Per Variant Apostle dominated, Snail ATK +7<br>Per Variant Apostle dominated, Snail RUSH +7<br>Variant Apostles Dominated: 60/60
+|ss7=Per Variant Apostle dominated, Snail ATK +7<br>Per Variant Apostle dominated, Snail RUSH +7<br>Variant Apostles Dominated: 60/60<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, All Minion RUSH +4.5%
+|skill2=[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, B-tads gained +7.5%
+}}

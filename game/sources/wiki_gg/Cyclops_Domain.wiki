@@ -1,0 +1,251 @@
+==Cyclops Moon==
+{| class="wikitable"
+!Pedestal
+!colspan="2"|Task
+!Rewards
+|-
+|style="background-color:var(--blue-bg)"|Left
+|Explore Domain
+|Explore Farms; Mines; Capital City
+|{{RewardIconWithText|Cyclops Moon}} +1
+|-
+|style="background-color:var(--blue-bg)"|Right
+|Clear Domain
+|Clear Farms; Mines; Capital City
+|{{RewardIconWithText|Cyclops Moon}} +1
+|-
+|style="background-color:var(--purple-bg)"|Back-Middle
+|Cyclops God
+|Defeat Cyclops Priest; Cyclops Head
+|{{RewardIconWithText|Cyclops Moon}} +2
+|}
+
+===Moon Shop===
+{|class="wikitable"
+!Item
+!Cost
+!Quantity Available
+|-
+|{{RewardIconWithText|W-Tad, +300}}
+|1||1
+|-
+|{{RewardIconWithLink|Divine Order Chest, +100|yellow}}
+|2||1
+|-
+|{{RewardIconWithLink|Divine Chaos Chest, +100|red}}
+|2||1
+|-
+|{{RewardIconWithLink|Divine Neutral Chest, +100|green}}
+|2||1
+|-
+|{{RewardIconWithLink|Incense, +1|orange}}
+|3||1
+|}
+
+==Cyclops' Shop==
+{| class="wikitable"
+!Product
+!Cost
+|-
+|{{RewardIconWithLink|Incense, +1|orange}}
+|100k {{RewardIconWithText|B-Tad}}
+|-
+|{{RewardIconWithLink|Tool Chest, +200}}
+|80k {{RewardIconWithText|B-Tad}}
+|-
+|{{RewardIconWithText|Toner, +100}}
+|72k {{RewardIconWithText|B-Tad}}
+|-
+|{{RewardIconWithText|Cyclops Moon}} +1
+|50k {{RewardIconWithText|B-Tad}}
+|-
+|{{RewardIconWithText|Clone Speedup, +3h}}
+|20k {{RewardIconWithText|B-Tad}}
+|-
+|{{RewardIconWithText|Offering Speedup, +3h}}
+|20k {{RewardIconWithText|B-Tad}}
+|}
+
+
+
+==Legend==
+{|class=wikitable
+!Type
+!Color Assignment
+|-
+|Event
+|style="background-color:var(--yellow-bg)"|
+|-
+|Snail Battle
+|style="background-color:var(--red-bg)"|
+|-
+|Minion Battle
+|style="background-color:var(--purple-bg)"|
+|-
+|Reward
+|style="background-color:var(--blue-bg)"|
+|-
+|Mine Pit
+|style="background-color:var(--green-bg)"|
+|-
+|Store
+|style="background-color:var(--orange-bg)"|
+|}
+
+==Tiles==
+{| class="wikitable"
+!Tile
+!Name
+!Notes
+!Rewards
+|-
+|rowspan="2"|No number
+|style="background-color:var(--purple-bg)"|Cyclops Tiller
+|RUSH Power: 1,500,000<br>1 Tile up from Rocket
+|{{RewardIconWithText|Incomplete Species Sequence|green}} +1
+|-
+|style="background-color:var(--blue-bg)"|Entrace Sign
+|Split the Sign
+|{{RewardIconWithText|Wood, +500}}
+|-
+|No number
+|style="background-color:var(--purple-bg)"|Cyclops Tiller
+|RUSH Power: 1,530,000<br>Two Tiles up from Rocket
+|{{RewardIconWithText|Incomplete Species Sequence|green}} +1
+|-
+|No number
+|style="background-color:var(--purple-bg)"|Cyclops Tiller
+|RUSH Power: 1,550,000<br>2 Tiles up, 1 Tile left up from Rocket
+|{{RewardIconWithText|Incomplete Species Sequence|green}} +1
+|-
+|rowspan="2"|No number
+|style="background-color:var(--purple-bg)"|Oculist
+|RUSH Power: 1,5800,000<br>2 Tiles up, 1 Tile left up, 1 Tile left down from Rocket
+|{{RewardIconWithText|Incomplete Species Sequence|green}} +1
+|-
+|style="background-color:var(--yellow-bg)"|Medical Safe
+|Enter the {{RewardIconWithText|Password Note}}: 1395
+|{{RewardIconWithLink|Lottery Ticket, +3|orange}}<br>{{RewardIconWithLink|Organ Chest, +50}}<br>{{RewardIconWithText|Cyclops Moon}} +1
+|-
+|No number
+|style="background-color:var(--purple-bg)"|Cyclops Tiller
+|RUSH Power: 1,610,000<br>2 Tiles up, 1 Tile up right from Rocket
+|{{RewardIconWithText|Incomplete Species Sequence|green}} +1
+|-
+|rowspan="2"|No number
+|style="background-color:var(--purple-bg)"|Cyclops Farmer
+|RUSH Power: 1,710,000<br>2 Tile up, 1 Tile up right, 1 Tile right down from Rocket
+|{{RewardIconWithText|Incomplete Species Sequence|green}} +1
+|-
+|style="background-color:var(--blue-bg)"|Grain Warehouse
+|Empty the warehouse
+|{{RewardIcon|Wonder Fungus Blue ATK}}{{Retext|ATK-Fungus|blue}} +3<br>{{RewardIconWithLink|Fungus Chest, 100}}<br>{{RewardIconWithText|Cyclops Moon}} +1
+|-
+|rowspan="2"|No number
+|style="background-color:var(--purple-bg)"|Cyclops Miner
+|RUSH Power: 1,710,000<br>2 Tile up, 1 Tile up left, 1 Tile up
+|{{RewardIconWithText|Incomplete Species Sequence|green}} +1
+|-
+|style="background-color:var(--red-bg)"|The Last Miner
+|ATK: 21.189, DEF: 14.126, HP: 303.165, RUSH: AFFCT 47.500<br>Special stats: HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Golden Pickaxe, +2|orange}}
+|-
+| No number
+|style="background-color:var(--purple-bg)"|Cyclops Tiller
+|RUSH Power: 1,760,000<br>2 Tiles up, 1 Tile left up, 1 Tile up, 1 Tile left up from Rocket
+|{{RewardIconWithText|Cyclops Map|green}} Fragment +1
+|-
+|rowspan="2"|No number
+|style="background-color:var(--purple-bg)"|Cyclops Shopkeeper
+|RUSH Power: 1,660,000<br>2 Tiles up, 1 Tile up left, 1 Tile up, 1 Tile up left, 1 Tile up from Rocket
+|{{RewardIconWithText|Incomplete Species Sequence|green}} +1
+|-
+|style="background-color:var(--orange-bg)"|Cyclops Shopkeeper
+|Opens Cyclops Shop
+|
+|-
+|No number
+|style="background-color:var(--purple-bg)"|Cyclops Tiller
+|RUSH Power: 1,790,000<br>2 Tiles up, 1 Tile up left, 1 Tile up, 1 Tile up right from Rocket
+|{{RewardIconWithText|Incomplete Species Sequence|green}} +1
+|-
+|No number
+|style="background-color:var(--purple-bg)"|Cyclops Tiller
+|RUSH Power: 1,630,000<br>2 Tiles up, 1 Tile up left, 1 Tile up, 2 Tile up right from Rocket
+|{{RewardIconWithText|Incomplete Species Sequence|green}} +1
+|-
+|rowspan="2"|No number
+|style="background-color:var(--purple-bg)"|Cyclops Winery Owner
+|RUSH Power: 1,680,000<br>2 Tiles up, 1 Tile up left, 1 Tile up, 3 Tile up right from Rocket
+|{{RewardIconWithText|Incomplete Species Sequence|green}} +1
+|-
+|style="background-color:var(--blue-bg)"|Sealed Cellar
+|Break in the cellar
+|{{RewardIconWithText|Purple Reagent, +50|purple}}<br>{{RewardIconWithText|Refine Speedup, +3h}}<br>{{RewardIconWithText|Cyclops Moon}} +1
+|-
+|No number
+|style="background-color:var(--purple-bg)"|Cyclops Tiller
+|RUSH Power: 1,820,000<br>2 Tiles up, 1 Tile up left, 1 Tile up, 1 Tile up right, 1 Tile up from Rocket
+|{{RewardIconWithText|Incomplete Species Sequence|green}} +1
+|-
+|rowspan="2"|No number
+|style="background-color:var(--purple-bg)"|General Xiahou Y.
+|RUSH Power: 1,820,000<br>2 Tiles up, 1 Tile up left, 1 Tile up, 1 Tile up right, 2 Tiles up from Rocket
+|{{RewardIconWithText|Cyclops Map|green}} Fragment +1
+|-
+|style="background-color:var(--red-bg)"|General of Gatekeeper
+|ATK: 30.450, DEF: 20.300, HP: 540.420, RUSH: AFFCT 56.600<br>Special stats: HIT +50, Paralysis RES +50%
+|{{RewardIconWithLink|Infrared Eye|purple}}<br>{{RewardIcon|8h Soul Green}}{{Retext|Soul of General Xiahou Y.|green}}<br>{{RewardIconWithText|Password Note}} (1395)<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}<br>{{RewardIconWithText|Cyclops Moon}} +1
+|-
+|No number
+|style="background-color:var(--blue-bg)"|Tattered Temple
+|Runmage<br>2 Tiles up, 1 Tile up left, 1 Tile up, 1 Tile up right, 2 Tiles up, 1 Tile up left from Rocket
+|{{RewardIconWithText|B-Tad, +50k}}<br>{{RewardIcon|4h Soul Green}}{{Retext|Soul of Cyclops|green}}
+|-
+|No number
+|style="background-color:var(--blue-bg)"|Tattered Temple
+|Runmage<br>2 Tiles up, 1 Tile up left, 1 Tile up, 1 Tile up right, 2 Tiles up, 2 Tile up left from Rocket
+|{{RewardIconWithText|B-Tad, +50k}}<br>{{RewardIcon|4h Soul Green}}{{Retext|Soul of Cyclops|green}}
+|-
+|rowspan="2"|No number
+|style="background-color:var(--purple-bg)"|Cyclops Researcher
+|RUSH Power:1,890,000<br>2 Tiles up, 1 Tile up left, 1 Tile up, 1 Tile up right, 2 Tiles up, 2 Tile up left, 1 Tile up from Rocket<br>Unlocks Will's Subject
+|{{RewardIconWithText|Cyclops Map|green}} Fragment +1
+|-
+|style="background-color:var(--yellow-bg)"|Will's Subject
+|Clear 15 trials, per trial: {{RewardIconWithLink|Evolution Chest, +30}} 
+|Total:{{RewardIconWithLink|Evolution Chest, +620}}<br>{{RewardIconWithLink|Alveolus of Gaia, +1|red}}<br>Neurolink +2<br>{{RewardIconWithText|Cyclops Moon}} +1
+|-
+|No number
+|style="background-color:var(--blue-bg)"|Tattered Temple
+|Rummage<br>2 Tiles up, 1 Tile up left, 1 Tile up, 1 Tile up right, 2 Tiles up, 1 Tile up right from Rocket
+|{{RewardIconWithText|B-Tad, +50k}}<br>{{RewardIcon|4h Soul Green}}{{Retext|Soul of Cyclops|green}}
+|-
+|No number
+|style="background-color:var(--purple-bg)"|Cyclops Firefighter
+|RUSH Power: 1,840,000<br>2 Tiles up, 1 Tile up left, 1 Tile up, 1 Tile up right, 2 Tiles up, 2 Tiles up right from Rocket
+|{{RewardIconWithText|Incomplete Species Sequence|green}} +1
+|-
+|No number
+|style="background-color:var(--blue-bg)"|Tattered Temple
+|Rummage<br>2 Tiles up, 1 Tile up left, 1 Tile up, 1 Tile up right, 2 Tiles up, 2 Tiles up right, 1 Tile up from Rocket
+|{{RewardIconWithText|B-Tad, +50k}}<br>{{RewardIcon|4h Soul Green}}{{Retext|Soul of Cyclops|green}}
+|-
+|No number
+|style="background-color:var(--blue-bg)"|Tattered Temple
+|Rummage<br>2 Tiles up, 1 Tile up left, 1 Tile up, 1 Tile up right, 2 Tiles up, 2 Tiles up right, 1 Tile up, 1 Tile up left from Rocket
+|{{RewardIconWithText|B-Tad, +50k}}<br>{{RewardIcon|4h Soul Green}}{{Retext|Soul of Cyclops|green}}
+|-
+|rowspan="2"|No number
+|style="background-color:var(--purple-bg)"|Cyclops Priest
+|RUSH Power: 1,920,000<br>2 Tiles up, 1 Tile up left, 1 Tile up, 1 Tile up right, 2 Tiles up, 2 Tiles up right, 1 Tile up, 2 Tiles up left from Rocket
+|{{RewardIconWithText|Cyclops Map|green}} Fragment +2
+|-
+|style="background-color:var(--blue-bg)"|God's Legacy
+|Pick up the head
+|{{RewardIconWithLink|Evolution Chest, +100}}<br>{{RewardIconWithLink|Savant Eye, +1|orange}}<br>{{RewardIconWithText|Cyclops God Gene Segment, +5}}<br>{{RewardIconWithLink|Cyclops God Head|green}}
+|-
+|}
+
+[[Category:Cyclops Domain]]
+[[Category:Species Domain]]

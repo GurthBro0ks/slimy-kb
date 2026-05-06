@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Lion-dogs Statue,Azoth
+|rank=purple
+|amount=2
+|category=minion
+|description=Mecha Minion DEF +6%
+}}
+[[Category:Minion]]
+[[Category:Mecha Minion DEF Boost]]

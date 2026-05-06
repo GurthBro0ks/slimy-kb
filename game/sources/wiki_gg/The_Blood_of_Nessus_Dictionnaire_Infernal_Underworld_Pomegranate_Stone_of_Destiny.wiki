@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Blood of Nessus,Dictionnaire Infernal,Underworld Pomegranate,Stone of Destiny
+|rank=blue
+|amount=4
+|category=minion
+|description=Mutant Minion HARD Stats +2.1%
+}}
+[[Category:Minion]]
+[[Category:Mutant Minion HARD Boost]]

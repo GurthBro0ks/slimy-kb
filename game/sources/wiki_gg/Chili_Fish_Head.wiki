@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Chili Fish Head
+|class_id=20583
+|rank=Green
+|affct=CIV
+|source=
+|description=collection@20583_2
+|fame=16
+|art=12
+|fth=18
+|civ=30
+|tech=14
+|ss1=Per type of food collected, Snail HP +10<br>Types of Food Collected: 60/60
+|ss2=Per type of food collected, Snail HP +20<br>Types of Food Collected: 60/60
+|ss3=Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60
+|ss4=Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60
+|ss7=Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60<br> (Awakened)
+}}

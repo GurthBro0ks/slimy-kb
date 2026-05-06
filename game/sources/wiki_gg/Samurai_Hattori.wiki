@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Samurai Hattori
+|rank=orange
+|cabin=2
+|id=115
+|gene1={race} RUSH +50
+|gene2={race} ART +50
+|gene3=Each round, {race} RUSH +30
+|gene4=Per 60 Mecha Minions in battle,
+Troop Wind DMG +6
+|gene5=Troop Wind DMG +0.9%
+|gene6=Per 60 Mecha Minions in battle,
+Troop Wind DMG +10
+|gene7=Troop Wind DMG +1.5%
+|}}

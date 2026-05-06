@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Jack's Typewriter
+|class_id=22477
+|rank=Blue
+|affct=CIV
+|birthday=08-07
+|source=Lottery Machine No.3 (0.03%)
+|description=On Aug 7, 1980 AD, Jack suddenly starts to wildly hammer on the typewriter.<br>Jack is a writer who loves writing and dreams of writing great work. To do this, he takes a job looking after a hotel. After he and his family move into the hotel, they encounter various strange events. Eventually, under great pressure, Jack embarks on a path of madness and destruction.
+|fame=28
+|art=31
+|fth=25
+|civ=47
+|tech=23
+|ss1=Mutant Minion HP +1%
+|ss2=Mutant Minion HP +2%
+|ss3=Mutant Minion HP +3%
+|ss4=Mutant Minion HP +5%
+|ss7=Mutant Minion HP +5%<br>Mutant Minion HP +5% (Awakened)
+|skill1=[[File:Swampsanctum skill I.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Output +5%
+}}

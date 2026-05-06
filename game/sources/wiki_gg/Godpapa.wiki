@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Godpapa
+|rank=orange
+|cabin=2
+|id=104
+|gene1={race} RUSH +50
+|gene2={race} CIV +50
+|gene3=Per 10% HP lost, {race} RUSH +60
+|gene4=Per 60 Mutant Minions in battle,
+Troop Wind DMG +6
+|gene5=Gene Simulation Power Checks -0.9%
+|gene6=Per 60 Mutant Minions in battle,
+Troop Wind DMG +10
+|gene7=Gene Simulation Power Checks -1.5%
+|}}

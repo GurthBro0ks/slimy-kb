@@ -1,0 +1,533 @@
+==Key Clue Records==
+Complete these Key Clues in [[Kemet]] for various rewards and to fully progress through the Realm.
+
+==Sand Lord==
+'''Rewards:''' {{RewardIconWithText|Travel Speedup, +2h}}, {{RewardIconWithText|B-Tad, +10k}}
+{| class="wikitable"
+!Event
+!Requirements
+!Approximate Strength
+|-
+|Conquer Carot
+|Defeat [[Kemet Apostles#Eli Basha|Eli Basha]] in 3 turns or less
+|4.84m
+|-
+|Conquer New Valley
+|Defeat [[Kemet Apostles#Dromedary|Dromedary]] in 3 turns or less
+|6.5m
+|-
+|Conquer Matruh
+|Defeat [[Kemet Apostles#Desert Fox|Desert Fox]] in 3 turns or less
+|8.8m
+|-
+|Conquer Asvan
+|Defeat [[Kemet Apostles#Asvan Dam|Asvan Dam]] in 3 turns or less
+|9.5m
+|}
+
+==Lion King's Sword==
+'''Rewards:''' {{RewardIconWithText|Glue, +100}}, {{RewardIconWithText|Travel Speedup, +4h}}
+{| class="wikitable"
+!Event
+|-
+|Craft {{Gearlink|green|Exploration|Duckbill Axe}}
+|-
+|Craft {{Gearlink|blue|Exploration|Guardian Longsword}}
+|-
+|Craft {{Gearlink|purple|Exploration|Scimitar}}
+|-
+|Craft {{Gearlink|orange|Exploration|Horse Helmet}}
+|-
+|Craft {{Gearlink|red|Exploration|Lion King's Sword}}
+|}
+
+==Rich Kemetic Merchant==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +500}}, {{RewardIconWithText|B-Tad, +15k}}
+{| class="wikitable"
+!Event
+|-
+|Redeem all [[Kemet Cards#Tier 1 (white)|limited cards (white)]]
+|-
+|Redeem all [[Kemet Cards#Tier 2 (green)|limited cards (green)]]
+|-
+|Redeem all [[Kemet Cards#Tier 3 (blue)|limited cards (blue)]]
+|-
+|Redeem all [[Kemet Cards#Tier 4 (purple)|limited cards (purple)]]
+|-
+|Redeem all [[Kemet Cards#Tier 5 (orange)|limited cards (orange)]]
+|}
+
+==Time Traveler==
+'''Rewards:''' {{RewardIconWithText|Lottery Ticket, +3}}, {{RewardIconWithText|B-Tad, +10k}}
+{| class="wikitable"
+!Event
+|-
+|Master all [[Kemet INTEL#Kemetic INTEL|Kemetic INTEL]]
+|-
+|Master [[Kemet INTEL#The Black Book|The Black Book]]
+|-
+|Master [[Kemet INTEL#The Book of the Sun|The Book of the Sun]]
+|}
+
+==Eternity Tower==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +500}}, {{RewardIconWithText|Lottery Ticket, +3}}
+{| class="wikitable"
+!Event
+|-
+|Defend against 60 waves of enemies with the Pyramid
+|-
+|Defend against 90 waves of enemies with the Pyramid
+|-
+|Defend against 120 waves of enemies with the Pyramid
+|}
+
+==Kemetic Tourism Promotion==
+'''Rewards:''' {{RewardIconWithText|Kemetic Treasure Map, +50}}, {{RewardIconWithText|Ad Chest, +60}}
+{| class="wikitable"
+!Event
+!Reward
+|-
+|Antisepsis Ad (Gisa)
+|{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +30m}}
+|-
+|Fake Beard (Wig Ad (Reed Synai)
+|{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +30m}}
+|-
+|Suncreen Ad (South Synai)
+|{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +30m}}
+|-
+|Camel Farm Ad (North Synai)
+|{{RewardIconWithText|Ad Chest, +10}}, {{RewardIconWithText|Travel Speedup, +30m}}
+|}
+
+==Kemetic Treasure==
+'''Rewards:''' {{RewardIconWithText|Kemetic Treasure Map, +50}}, {{RewardIconWithText|Purple Reagent, +50}}
+{| class="wikitable"
+!Event
+!<nowiki>#</nowiki> of items found
+!Rewards
+|-
+|Desert Horse Race (Gisa)
+|3
+|W-tads +200, Travel Speedup +1h
+|-
+|Stone Ring Ruins (Gisa)
+|3
+|W-tads +200, Mutant Cell +2,000
+|-
+|Priest's Gift (Suezy)
+|2
+|W-tads +200, Angel Cells +2,000
+|-
+|Hieroglyphs (North Synai)
+|4
+|W-tads +300, Stone +2,000
+|-
+|Secret of Ramesses (North Synai)
+|4
+|Lottery Ticket +1
+|-
+|Ship Wreck (Reed Sea)
+|4
+|W-tads +300, Mecha Cell +2,000
+|-
+|Snowflake Decoration (Reed Sea)
+|2
+|W-tads +200, Stone +2,000
+|-
+|Praise of Aten (South Synai)
+|4
+|W-tads +300, Offering Speedup +2h
+|-
+|MIL Academy Box (El Beherra)
+|2
+|W-tads +200, Wood +2,000
+|-
+|Archaeology Supplies (El Beherra)
+|4
+|W-tads +300, Wood +2,000
+|-
+|Hatshepsut's Mirror (Carot)
+|4
+|W-tads +300, Clone Speedup +2h
+|-
+|Pyramid Mural (Carot)
+|3
+|W-tads +200, Novice Scroll +10
+|-
+|Secret of Temple (New Valley)
+|4
+|W-tads +300, Purple Reagent +20
+|-
+|Oasis Fruit (New Valley)
+|2
+|W-tads +200, Zombie Cell +2,000
+|-
+|Thutmose's Collection (Matruh)
+|4
+|W-tads +300, Coating (Blue) +20
+|-
+|Edwin's Thesis (Matruh)
+|3
+|W-tads +200, Gene Speedup +2h
+|-
+|Akhensten's Mark (Asvan)
+|4
+|W-tads +300, Refine Speedup +2h
+|-
+|Oracle's Collection (Asvan)
+|2
+|W-tads +200, Demon Cell +2,000
+|-
+|Scarab Accessory (Alexandrea)
+|3
+|W-tads +200, Organ Slime +30
+|-
+|Secretary's Gift (Alexandrea)
+|3
+|W-tads +200, Offering Speedup +2h
+|-
+|Traveler's Bag (Xiosy)
+|2
+|W-tads +200, B-tads +5,000
+|-
+|Dusty Treasure Box (Xiosy)
+|4
+|W-tads +300, Refine Speedup +2h
+|-
+|Lost Supply Box (Thebesy)
+|2
+|W-tads +200, Organ Slime +30
+|-
+|Ruin Chest (Thebesy)
+|4
+|W-tads +300, Demon Cell +2,000
+|-
+|Vineyard Box (Momphis)
+|2
+|W-tads +200, Angel Cell +2,000
+|-
+|Pharaoh's Mask (Momphis)
+|4
+|W-tads +300, Travel Speedup +1h
+|-
+|Hieroglyphs Stele (Suezy)
+|4
+|W-tads +300, Stone +2,000
+|-
+|Tourist's Luggage (Minra)
+|2
+|W-tads +200, B-tads +5,000
+|-
+|Sacrificial Chest (Minra)
+|4
+|W-tads +300, Zombie Cell +2,000
+|-
+|Patterned Plate (Asyut)
+|3
+|W-tads +200, Purple Reagent +20
+|-
+|Imset Collection (Asyut)
+|4
+|W-tads +300, Mutant Cells +2,000
+|-
+|Hidden Wood Box (Sohaj)
+|2
+|W-tads +200, Mecha Cell +2,000
+|-
+|Hermit's Cave (Sohaj)
+|4
+|W-tads +300, Blue Coating +20
+|-
+|Duelist Chest (Qera)
+|3
+|W-tads +3, Gene Speedup +2h
+|-
+|Saint Verse (Quera)
+|3
+|W-tads +200, Clone Speedup +2h
+|}
+
+==Nile Laborer==
+'''Rewards:''' {{RewardIconWithText|Wish Coin}}, {{RewardIconWithText|B-Tad, +10k}}
+{| class="wikitable"
+!Event
+!Requirements
+!Reward
+|-
+|Karnak Obelisk Clue (Thebesy)
+|CIV 14,950
+|{{RewardIconWithText|Divine Order Chest, +10}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Ruler Walls Clue (Momphis)
+|CIV 15,100
+|{{RewardIconWithText|Stone, +1000}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Simbel Temple Clue (Xoisy)
+|CIV 15,250
+|{{RewardIconWithText|Wood, +1000}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Wonder Project==
+'''Rewards:''' W-tads +200, Lottery Ticket +3
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Sea Dam Blueprint (Minra)
+|CIV 15,400
+|B-tads +1,500, Meal Box Size +100
+|-
+|Solar Tower Blueprit (Qera)
+|CIV 15,500
+|Gene Speedup +30m, Meal Box Size +100
+|-
+|Qattara Project Blueprint (Asyut)
+|CIV 15,850
+|
+|}
+
+==Mystery from Ancient Times==
+'''Rewards:''' Organ Slime +100, [[Bewitching Eye]]
+{| class="wikitable"
+!Event
+!Display 1 of
+!Rewards
+|-
+|Spinx Mystery (Reed Sea)
+|[[Mutant Fungus]], [[Mutant Enoki]]
+|Fungus Chest +10, Meal Box Size +100
+|-
+|Bennu Bird Mystery (Matruh)
+|[[Golden Chariot]], [[Notre Dame Bell]], [[Bronze Shiva Statue]], [[Golden Trophy]], [[Houmuwu Ding]], [[The Thinker]]
+|Novice Scroll +10, Meal Box Size +100, [[Kemet Pyramids#Modules|Spellbreak Crystal module]]
+|-
+|Mystery of Ammit (New Valley)
+|[[Boy with Goose]], [[Charging Bull]], [[Mermaid Statue]]
+|Organ Slime +20, Meal Box Size +100
+|-
+|Sobek Mystery (El Beherra)
+|[[Peacock Clock]] , [[Nesdac Bell]], [[Cuckoo Clock]], [[Atomic Clock]], [[Aztec Calendar]]
+|Time Chest +10, Meal Box Size +100
+|}
+
+==Kemet Journey==
+'''Rewards:''' {{Gearlink|purple|Material|Abyss Amulet}}, W-tads +100
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Quarry Guard (North Synai)
+|FAME 13,800
+|Stone +1,000, Meal Box Size +100
+|-
+|The Homeless (El Beherra)
+|FAME 13,700
+|Zombie Cell +500, Meal Box Size +100
+|-
+|Temple Priest (New Valley)
+|FAME 15,500
+|Kemetic INTEL +500, Meal Box Size +100
+|-
+|Strange Bruiser (Matruh)
+|FAME 16,200
+|Demon Cell +500, Meal Box Size +100
+|}
+
+==Gods Trial==
+'''Rewards:''' {{RewardIconWithText|W-Tad, +100}}, {{RewardIconWithText|Incense}}
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Khepri Trial (North Synai)
+|FAME 13,200
+|{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Serket Trial (El Beherra)
+|FAME 15,000
+|{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Seshat Trial (New Valley)
+|FAME 15,300
+|{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Satet Trial (Matruh)
+|FAME 15,500
+|{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Taweret Trial (Asvan)
+|FAME 15,700
+|{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Mythical Technology==
+'''Rewards:''' {{RewardIconWithText|Expert Scroll, +50}}, {{RewardIconWithText|B-Tad, +10k}}
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Minya's Gift (Minra)
+|CIV 15,500
+|{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Asjuta's Gift (Asyut)
+|CIV 15,650
+|{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Sohag's Gift (Sohaj)
+|CIV 15,750
+|{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Kena's Gift (Qera)
+|CIV 15,950
+|{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Papyrus Code==
+'''Rewards:''' {{RewardIconWithText|Kemetic Treasure Map, +50}}, {{RewardIconWithText|B-Tad, +10k}}
+{| class="wikitable"
+!Event
+!Requirement
+!Reward
+|-
+|Strategic Diagram (Gisa)
+|CIV 14,360
+|Kemetic INTEL +500, Meal Box Size +100
+|-
+|Treasure Map (Suzey)
+|CIV 14,000
+|Kemetic Teasure Map +5, Meal Box Size +100
+|-
+|Contact Diagram (South Synai)
+|CIV 14,450
+|Kemetic INTEL +500, Meal Box Size +100
+|-
+|Hideout Map (Carot)
+|CIV 14,750
+|Kemetic Treasure Map +5, Meal Box Size +100
+|}
+
+==Market Sourcing==
+'''Rewards:''' Expert Scroll +20, Purple Reagent +30
+{| class="wikitable"
+!Event
+!Requirement
+!Rewards
+|-
+|Luxor Market (Reed Sea)
+|TECH 14,250
+|{{RewardIconWithText|Lottery Ticket, +1}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Khalili Market (Carot)
+|TECH 14,800
+|{{Relink|Rosetta Tablet|purple}} +20, Meal Box Size +10
+|-
+|Asvan Market (Asvan)
+|TECH 16,600
+|{{RewardIconWithText|Blue Coating, +10}}, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Treasure Hunt in the Oasis==
+'''Rewards:''' {{RewardIconWithText|Golden Pickaxe, +3}}, {{RewardIconWithText|Stone, +2000}}
+{| class="wikitable"
+!Event
+!Requirement
+!Reward
+|-
+|North Merchant's Tracks (Alexandrea)
+|TECH 14,100
+|{{RewardIconWithText|Wood, +1000}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|East Merchant's Tracks (Xoisy)
+|TECH 14,250
+|{{RewardIconWithText|B-Tad, +1500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|South Merchant's Tracks (Thebesy)
+|TECH 15,200
+|{{RewardIconWithText|Travel Speedup, +30m}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|West Merchant's Tracks (Momphis)
+|TECH 15,350
+|{{RewardIcon|Wonder Fungus Blue HP}} {{Retext|Blue HP-Fungus|blue}} +1, {{RewardIconWithText|Meal Box Size, +100}}
+|}
+
+==Temple of Sand==
+'''Rewards:''' {{RewardIconWithText|Refine Speedup, +4h}}, {{RewardIconWithText|B-Tad, +10k}}
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Thief's Remains (Alexandrea)
+|ART 14,850
+|{{RewardIconWithText|W-Tad, +50}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Cleric's Remains (Xoisy)
+|ART 15,000
+|{{RewardIconWithText|Angel Cell, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Robber's Remains (Thebesy)
+|ART 15,150
+|{{RewardIconWithText|Demon Cell, +500}}, {{RewardIconWithText|Meal Box Size, +100}}Demon Cell +500, Meal Box Size +100
+|-
+|Traveler's Remains (Momphis)
+|ART 15,300
+|{{RewardIconWithText|Travel Speedup, +30m}}, {{RewardIconWithText|Meal Box Size, +100}}, [[Kemet Pyramids#Modules|Super Pesticide module]]
+|}
+
+==Behind Prosperity==
+'''Rewards:''' {{RewardIconWithText|Evolution Chest, +200}}, {{RewardIconWithText|Gene Speedup, +4h}}
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Robot's Remains (Minra)
+|ART 15,450
+|{{RewardIconWithText|Mecha Cell, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Convict's Remains (Asyut)
+|ART 15,600
+|{{RewardIconWithText|Zombie Cell, +500}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Wrinkled Remains (Sohaj)
+|ART 15,800
+|{{RewardIconWithText|Organ Slime, +20}}, {{RewardIconWithText|Meal Box Size, +100}}
+|-
+|Burnt Remains (Qera)
+|ART 15,900
+|{{RewardIconWithText|Organ Chest, +10}}, {{RewardIconWithText|Meal Box Size, +100}}, [[Kemet Pyramids#Modules|Acid Solution module]]
+|}
+
+==Protection of the Deceased==
+'''Rewards:''' {{RewardIconWithLink|Dendera Tablet|blue, +20}}, {{RewardIconWithText|Blue Reagent, +50}}
+{| class="wikitable"
+!Event
+!Requirements
+!Reward
+|-
+|Croc Statue (Gisa)
+|FTH 13,980
+|Purple Reagent +10, Meal Box Size +100
+|-
+|Ram Statue (Suezy)
+|FTH 13,950
+|Fungus Chest +10, Meal Box Size +100
+|-
+|Hippo Statue (South Synai)
+|FTH 13,600
+|Toner +10, Meal Box Size +100
+|-
+|Cheetah Statue (Carot)
+|FTH 14,700
+|Soul Chest +10, Meal Box Size +100
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Kemet]]

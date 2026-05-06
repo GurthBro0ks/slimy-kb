@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=San Plate
+|class_id=22123
+|rank=AAA
+|affct=FAME
+|birthday=03-22
+|source=
+|description=On Mar 22, 1810 AD, Alinbao was granted the title of governor of Riverlands for his service in presenting the San Plate.<br>Sanshipan, also known as San Plate, is a bronze vessel cast during the reign of Emperor Li of the Western Zhou Dynasty. It is also the earliest land contract in China. 357 inscriptions are engraved on the inside of the pan, recording Chinese earliest state boundary documents. Its style of calligraphy created the first cursive seal script.
+|fame=72
+|art=39
+|fth=35
+|civ=43
+|tech=54
+|ss1=Tadpole Pond upgrade Wood Cost -3%<br>Per 5 Tadpole Pond LVLs, Snail ATK +12<br>Tadpole Pond LVL: 50/50
+|ss2=Tadpole Pond upgrade Wood Cost -4%<br>Per 5 Tadpole Pond LVLs, Snail ATK +16<br>Tadpole Pond LVL: 50/50
+|ss3=Tadpole Pond upgrade Wood Cost -5%<br>Per 5 Tadpole Pond LVLs, Snail ATK +20<br>Tadpole Pond LVL: 50/50
+|ss4=Tadpole Pond upgrade Wood Cost -7%<br>Per 5 Tadpole Pond LVLs, Snail ATK +28<br>Tadpole Pond LVL: 50/50
+|ss5=Tadpole Pond upgrade Wood Cost -9%<br>Per 5 Tadpole Pond LVLs, Snail ATK +36<br>Tadpole Pond LVL: 50/50
+|ss7=Tadpole Pond upgrade Wood Cost -9%<br>Per 5 Tadpole Pond LVLs, Snail ATK +36<br>Tadpole Pond LVL: 50/50<br>Tadpole Pond upgrade Wood Cost -7% (Awakened)
+|skill1=[[File:Cathay skill II.png|50px]]Place in Cathay Museum: In Cathay, Snail RUSH +30
+|skill2=[[File:Cathay skill II.png|50px]]Place in Cathay Museum: In Cathay, 2x Blue Reagent Drops +7.5%
+}}

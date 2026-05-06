@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Chameleon Scales
+|type=Common
+|rank=blue
+|id=10814
+|idx=15
+|description=If you can get the disguise of a chameleon, you might be able to evade the Demon God's henchmen!
+|skill=
+|hp=912
+|def=146
+|atk=100
+|rush=80
+|gene1=When in Demon Form:
+> Gain +2% Soul Chests in explorations
+|gene2=In Dragon Form, {race} DEF +20
+|gene3=In Snail Arena, {race} HP +200
+|gene7=When in Demon Form:
+> Gain +2% Soul Chests in explorations (Awakened)
+|}}

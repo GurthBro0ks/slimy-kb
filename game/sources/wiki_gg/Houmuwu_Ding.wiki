@@ -1,0 +1,46 @@
+{{CargoRelic
+|name=Houmuwu Ding
+|rank=SSS
+|affct=CIV
+|birthday=09-16
+|source=Cathay Treasure Maps (0.01%), Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.08%)
+|description=On Sep 16, 1939 AD, Houmuwu Ding, the heaviest bronzeware in ancient China, was unearthed in Henan.
+
+On that day, the villagers reburied the newly excavated Simuwu ding in order to prevent it from being taken away. This huge, majestic, finely crafted bronzeware weighs up to 1 ton. "Houmuwu" is engraved on the inner wall. The exquisite carvings of dragon and Taotie are all around the Ding's body. The body and the legs of Houmuwu Ding were cast as a whole, the handles, however, were added to the body afterwards. It is the biggest bronzeware unearthed so far in China.
+
+[Houmuwu Ding info]
+
+Age: The late period of Shang Dynasty.
+
+Technique: Casting, Carving.
+
+Collected by: National Museum of China.
+|fame=62
+|art=55
+|fth=69
+|civ=107
+|tech=69
+|ss1=Snail ATK +30<br>Soul Offering SPD +1.2%<br>When you Wish, get 1 Taichi Fish by +3%
+|ss2=Snail ATK +40<br>Soul Offering SPD +1.6%<br>When you Wish, get 1 Taichi Fish by +4%
+|ss3=Snail ATK +50<br>Soul Offering SPD +2%<br>When you Wish, get 1 Taichi Fish by +5%
+|ss4=Snail ATK +70<br>Soul Offering SPD +2.8%<br>When you Wish, get 1 Taichi Fish by +7%
+|ss5=Snail ATK +90<br>Soul Offering SPD +3.6%<br>When you Wish, get 1 Taichi Fish by +9%
+|ss6=Snail ATK +120<br>Soul Offering SPD +4.8%<br>When you Wish, get 1 Taichi Fish by +12%
+|ss7=Snail ATK +120<br>Soul Offering SPD +4.8%<br>When you Wish, get 1 Taichi Fish by +12%<br>Soul Offering SPD +4% (Awakened)
+|skill1={{Skills|cathay|purple reagent|15}}
+|skill2={{Skills|cathay|master cost|300}}
+|skill3={{Skills|cathay|medal output|30}}
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:Offering Speed Boost]]
+[[Category:Taichi Fish Output]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Medal Boost]]
+[[Category:Relic Boost]]
+[[Category:Enhanced by Orange Relics]]
+[[Category:Ironball Thrower Boost]]
+[[Category:Jaden Embryo Boost]]

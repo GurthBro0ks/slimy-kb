@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Chalcedonian Creed
+|class_id=20231
+|rank=Green
+|affct=FAITH
+|source=
+|description=We, then, following the Holy Fathers, all with one consent, teach men to confess the one and same Son, our Lord Jesus Christ, the same perfect in Godhead and also perfect in manhood ; truly God and truly man, of a reasonable soul and body...
+|fame=17
+|art=14
+|fth=27
+|civ=14
+|tech=15
+|ss1=Per Altar God Descent, Snail DEF +1<br>Per Altar God Descent, Snail RUSH +1<br>Gods Descended: 30/30
+|ss2=Per Altar God Descent, Snail DEF +2<br>Per Altar God Descent, Snail RUSH +2<br>Gods Descended: 30/30
+|ss3=Per Altar God Descent, Snail DEF +3<br>Per Altar God Descent, Snail RUSH +3<br>Gods Descended: 30/30
+|ss4=Per Altar God Descent, Snail DEF +3<br>Per Altar God Descent, Snail RUSH +3<br>Gods Descended: 30/30
+|ss7=Per Altar God Descent, Snail DEF +3<br>Per Altar God Descent, Snail RUSH +3<br>Gods Descended: 30/30<br> (Awakened)
+}}

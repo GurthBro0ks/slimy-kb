@@ -1,0 +1,35 @@
+== Night Vision Eye ==
+The fundus of the eye is in the shape of a concave mirror, and there are more rod cells that respond sensitively to faint light, all of which allow the eye to have good night vision!
+
+{{Organ Tabber
+|Name=Night Vision Eye
+|Rarity=green
+|ID Number=4
+|Initial HP=10
+|HP Increase=0
+|Initial ATK=0
+|ATK Increase=0
+|Initial DEF=0
+|DEF Increase=0
+|Initial RUSH=2
+|RUSH Increase=0
+|Effect 1=When exploring, CRIT +5%
+|Initial Effect Value 1=
+|Effect Value Increase 1=
+|Effect 2=
+|Initial Effect Value 2=
+|Effect Value Increase 2=
+|Effect 3=
+|Initial Effect Value 3=
+|Effect Value Increase 3=
+|Effect 4=
+|Initial Effect Value 4=
+|Effect Value Increase 4=
+|}}
+
+== Source ==
+Starting Evolution
+
+[[Category:Organs]]
+[[Category:Green Organs]]
+__NOTOC__

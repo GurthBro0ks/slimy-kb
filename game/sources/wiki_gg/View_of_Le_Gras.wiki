@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=View of Le Gras
+|class_id=22107
+|rank=A
+|affct=FAME
+|birthday=07-11
+|source=Lottery Machine No.2 (0.55%), Wishing (0.15%)
+|description=On Jul 11, 1827 AD, Niepce, a retired military officer from France, took the world's first photograph after returning to his hometown.<br>This heliograph was taken of a pigeon coop outside of Niepce's countryside window. It is the first preservable photo in history. This photo was taken using photolithography, with an exposure time of up to eight hours. Since this method only produces one photo, it is a unique milestone in the history of photography.
+|fame=64
+|art=37
+|fth=33
+|civ=39
+|tech=40
+|ss1=Per 40 Novice Scrolls opened, Snail ATK +1<br>Per 40 Novice Scrolls opened, Snail DEF +1<br>Novice Scrolls opened: 2000/2000
+|ss2=Per 40 Novice Scrolls opened, Snail ATK +2<br>Per 40 Novice Scrolls opened, Snail DEF +2<br>Novice Scrolls opened: 2000/2000
+|ss3=Per 40 Novice Scrolls opened, Snail ATK +3<br>Per 40 Novice Scrolls opened, Snail DEF +3<br>Novice Scrolls opened: 2000/2000
+|ss4=Per 40 Novice Scrolls opened, Snail ATK +5<br>Per 40 Novice Scrolls opened, Snail DEF +5<br>Novice Scrolls opened: 2000/2000
+|ss5=Per 40 Novice Scrolls opened, Snail ATK +7<br>Per 40 Novice Scrolls opened, Snail DEF +7<br>Novice Scrolls opened: 2000/2000
+|ss7=Per 40 Novice Scrolls opened, Snail ATK +7<br>Per 40 Novice Scrolls opened, Snail DEF +7<br>Novice Scrolls opened: 2000/2000<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, Troop DMG toward heroes +3%
+|skill2=[[File:Koryeo skill II.png|50px]]Place in Koryeon Museum: In Koryeo, 2x B-tad Drops +7.5%
+}}

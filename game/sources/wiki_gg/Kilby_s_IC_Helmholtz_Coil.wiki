@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=425
+|relics=Kilby's IC,Helmholtz Coil
+|rank=purple
+|amount=2
+|category=self
+|description=Refine +1 White Rebel Material +6%
+}}

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Basic Chemistry
+|class_id=22744
+|rank=SSS
+|affct=TECH
+|birthday=04-29
+|source=Lottery Machine No.3 (0.12%)
+|description=On Apr 29, 1789 AD, Lavoisier published his work.<br>It is a summary of Lavoisier's academic views. In the book, he proposed the concept of elements based on the theory of oxidation and the law of mass conservation. He classified commonly known chemical substances and summarized thirty-three elements, making the scattered chemical knowledge gradually clear. He also provided a complete explanation of his experimental results and theories, and his work was listed with the mathematical principles of natural philosophy and the origin of species as the three great works of world natural science.
+|fame=67
+|art=54
+|fth=69
+|civ=63
+|tech=109
+|ss1=Snail ATK +30<br>Per 3,000 Tribe Prosperity, Priest-Snail Assistance DMG +24<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +24<br>Tribe Prosperity: 150000/150000
+|ss2=Snail ATK +40<br>Per 3,000 Tribe Prosperity, Priest-Snail Assistance DMG +32<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +32<br>Tribe Prosperity: 150000/150000
+|ss3=Snail ATK +50<br>Per 3,000 Tribe Prosperity, Priest-Snail Assistance DMG +40<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +40<br>Tribe Prosperity: 150000/150000
+|ss4=Snail ATK +70<br>Per 3,000 Tribe Prosperity, Priest-Snail Assistance DMG +56<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +56<br>Tribe Prosperity: 150000/150000
+|ss5=Snail ATK +90<br>Per 3,000 Tribe Prosperity, Priest-Snail Assistance DMG +72<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +72<br>Tribe Prosperity: 150000/150000
+|ss6=Snail ATK +120<br>Per 3,000 Tribe Prosperity, Priest-Snail Assistance DMG +96<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +96<br>Tribe Prosperity: 150000/150000
+|ss7=Snail ATK +120<br>Per 3,000 Tribe Prosperity, Priest-Snail Assistance DMG +96<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +96<br>Tribe Prosperity: 150000/150000<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: This Relic's TECH +15
+|skill2=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: Lucky Egg hatching efficiency +30%
+|skill3=[[File:Luckyegg skill III.png|50px]]Place in Lucky Egg: Green rewards from this egg turn Blue by 6%
+|mirage={{Mirage|name=Chemistry Pioneers|reward={{RewardIconWithLink|Master Alchemy Case, +3|orange}}
+|3name=Mendeleev|3rec=118.28M|3atk=333893|3defense=210302|3hp=17587937|3weak=36284
+|4name=Avogadro|4rec=136.15M|4atk=376102|4defense=235444|4hp=22013107|4weak=37984
+|5name=Boyle|5rec=163.70M|5atk=442043|5defense=274203|5hp=28799904|5weak=40030
+|6name=Lavoisier|6rec=194.72M|6atk=516887|6defense=317858|6hp=37832335|6weak=42850
+|Arec=230.75M|Aatk=608785|Adefense=368551|Ahp=55307378|Aweak=48928
+}}}}

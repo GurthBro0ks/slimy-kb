@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Cai Lun's Papermaking Technique,Venetian Patent Law
+|rank=orange
+|amount=2
+|category=self
+|description=Per 20k Fervor, Snail Primeval Power +7; Fervor: 1,200,000/1,200,000
+}}
+[[Category:Self]]
+[[Category:Primeval Power Boost]]

@@ -1,0 +1,15 @@
+{{CargoClone
+|name=God of Fortune
+|rank=orange
+|cabin=2
+|id=176
+|gene1={race} HP +500
+|gene2={race} TECH +50
+|gene3=Gaia Cabin Output +3%
+|gene4=Per 60 Mecha Minions in battle,
+Troop Water DMG +6
+|gene5=Mecha Minion Skin HP +30%
+|gene6=Per 60 Mecha Minions in battle,
+Troop Water DMG +10
+|gene7=Mecha Minion Skin HP +50%
+|}}

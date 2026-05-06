@@ -1,0 +1,41 @@
+{{CargoRelic
+|name=Da Vinci's Notes
+|rank=SSS
+|affct=CIV
+|birthday=05-05
+|source=* Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.08%)
+* [[Indigent Nobleman]] (810k {{RewardIconWithText|B-Tad}})
+* Organ Value Pack II ($49.99)
+|description=On May 5, 1519 AD, Leonardo Da Vinci's manuscript, which contained lots of writings, were completed.
+
+Da Vinci's manuscript was written in a special way, which can only be read from a mirror. The manuscript is more than 7,000 pages long, and only 5,000 pages exist now. The subjects mentioned included biology, engineering design, and mechanics. Da Vinci loved writing notes. After his death, he left a large number of disordered manuscripts that are bizarre and difficult to read. The annotation written around the precise and intricate drawings seemed like riddles and codes.
+|fame=54
+|art=67
+|fth=74
+|civ=109
+|tech=58
+|ss1=Snail ATK +30<br>Per 3 CIV Relics gained, Snail ATK +12<br>Per 3 CIV Relics gained, Snail RUSH +12<br>CIV Relics: 60/60
+|ss2=Snail ATK +40<br>Per 3 CIV Relics gained, Snail ATK +16<br>Per 3 CIV Relics gained, Snail RUSH +16<br>CIV Relics: 60/60
+|ss3=Snail ATK +50<br>Per 3 CIV Relics gained, Snail ATK +20<br>Per 3 CIV Relics gained, Snail RUSH +20<br>CIV Relics: 60/60
+|ss4=Snail ATK +70<br>Per 3 CIV Relics gained, Snail ATK +28<br>Per 3 CIV Relics gained, Snail RUSH +28<br>CIV Relics: 60/60
+|ss5=Snail ATK +90<br>Per 3 CIV Relics gained, Snail ATK +36<br>Per 3 CIV Relics gained, Snail RUSH +36<br>CIV Relics: 60/60
+|ss6=Snail ATK +120<br>Per 3 CIV Relics gained, Snail ATK +48<br>Per 3 CIV Relics gained, Snail RUSH +48<br>CIV Relics: 60/60
+|ss7=Snail ATK +120<br>Per 3 CIV Relics gained, Snail ATK +48<br>Per 3 CIV Relics gained, Snail RUSH +48<br>CIV Relics: 60/60<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail HP +6,000
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail ATK +600
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail DEF +600
+|mirage={{#invoke:snailDB|parseMirage|Da Vinci's Notes}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Relic Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:HP Boost]]
+[[Category:DEF Boost]]
+[[Category:ATK-Fungi Boost]]
+[[Category:Relic Boost]]
+[[Category:Enhanced by CIV Relics]]
+[[Category:Enhanced by Orange Relics]]
+[[Category:Enhanced by ATK Fungi]]
+[[Category:Indigent Nobleman Relics]]

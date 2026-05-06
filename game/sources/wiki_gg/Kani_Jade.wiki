@@ -1,0 +1,25 @@
+{{CargoRelic
+|name=Kani Jade
+|class_id=21210
+|rank=AA
+|affct=FAITH
+|birthday=02-07
+|source=
+|description=On Feb 7, 600 BC, the Three Treasures were bestowed on the emperor, including Kani Jade.<br>Amaterasu, the Sun Goddess, passed down the Kani Jade to Emperor Jinmu, who in turn entrusted it to his sister, Yamatohime. Years later, Crown Prince Takehiro was dispatched to subdue the eastern lands during a period of imperial crisis. Yamatohime gifted him the Kusanagi sword and the Jade for protection. At this juncture, the emperor passed away, and a power-hungry uncle seized control of the court, plotting to assassinate Takehiro. In a moment of dire peril, Takehiro used the Jade to create a blaze, ultimately eluding his pursuers in the ensuing fog.
+
+[Three Treasures]:
+Kusanagi Sword, Kani Jade, Sacred Mirror
+|fame=33
+|art=40
+|fth=69
+|civ=46
+|tech=40
+|ss1=Per 10 Ninjutsu LVLs, Snail HP +40<br>Per 10 Ninjutsu LVLs, Snail RUSH +4<br>Ninjutsu Progress: 80/80
+|ss2=Per 10 Ninjutsu LVLs, Snail HP +60<br>Per 10 Ninjutsu LVLs, Snail RUSH +6<br>Ninjutsu Progress: 80/80
+|ss3=Per 10 Ninjutsu LVLs, Snail HP +80<br>Per 10 Ninjutsu LVLs, Snail RUSH +8<br>Ninjutsu Progress: 80/80
+|ss4=Per 10 Ninjutsu LVLs, Snail HP +120<br>Per 10 Ninjutsu LVLs, Snail RUSH +12<br>Ninjutsu Progress: 80/80
+|ss5=Per 10 Ninjutsu LVLs, Snail HP +160<br>Per 10 Ninjutsu LVLs, Snail RUSH +16<br>Ninjutsu Progress: 80/80
+|ss7=Per 10 Ninjutsu LVLs, Snail HP +160<br>Per 10 Ninjutsu LVLs, Snail RUSH +16<br>Ninjutsu Progress: 80/80<br>Snail HP +700 (Awakened)
+|skill1=[[File:Yamato skill II.png|50px]]Place in Yamato Museum: This Relic's FTH +10
+|skill2=[[File:Yamato skill II.png|50px]]Place in Yamato Museum: In Yamato, DMG +15%
+}}

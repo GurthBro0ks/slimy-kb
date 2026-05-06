@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=To strike the enemy from a long distance, Cosmic Tracker created this model of Snail Shell, stocking with multiple weapons that could assault targets from afar!
+|affct=TECH
+|hard=DEF
+|source=
+{{Memetic Catalyst
+|number=1926
+|relic1=Solar Sail
+|relic2=Rutherford Model
+|relic3=AMS
+|relic4=Black Body
+|relic5=Goldbach Conjecture
+}}
+|color=purple
+|earth=6
+|water=8
+|fire=7
+|wind=5
+|form=Mecha
+|element=Water
+|realm=Rift
+|orangehard=HP
+}}

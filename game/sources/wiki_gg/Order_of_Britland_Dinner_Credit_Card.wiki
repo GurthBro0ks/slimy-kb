@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=275
+|relics=Order of Britland,Dinner Credit Card
+|rank=blue
+|amount=2
+|category=self
+|description=Per 60 Supreme Points, Snail ATK +10;Supreme Points: 3000/3000
+}}

@@ -1,0 +1,116 @@
+= Reward Packs =
+Icons for [[:Category:Reward Pack]]
+
+= Choice Packs =
+Packs in which the player gets to choose a reward
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Orange Fungus Choice Pack|orange}}
+{{IconExampleRowWithLink|Ultimate Crystal Pack|orange}}
+{{IconExampleRowWithLink|Ultimate Eye Pack|orange}}
+{{IconExampleRowWithLink|Ultimate Up Pack|orange}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Halloween Choice Pack|orange}}
+{{IconExampleRowWithLink|Maneater Choice Pack|orange}}
+{{IconExampleRowWithLink|Minion Sim Choice Pack|orange}}
+{{IconExampleRowWithLink|Nebula Choice Pack|orange}}
+{{IconExampleRowWithLink|Wish Pack I|orange}}
+{{IconExampleRowWithLink|Wish Pack II|orange}}
+{{IconExampleRowWithLink|Wish Pack III|orange}}
+{{IconExampleRowWithLink|Wish Pack IV|orange}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Lottery Choice Pack|orange}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Snailbound Pack|orange}}
+|}
+
+= Collection Packs =
+Packs in which the player receives a collection of items
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Blasphemy Eye Pack|orange}}||[[Events#Badge_Shop]]
+{{IconExampleRowWithLink|Singularity Crystal Box|orange}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Event Bonus|orange}}
+{{IconExampleRowWithLink|Lottery Bonus|orange}}
+{{IconExampleRowWithLink|Rewards Box|orange}}
+{{IconExampleRowWithLink|Supervalue Pack I|orange}}
+{{IconExampleRowWithLink|White Gear Pack I|orange}}
+{{IconExampleRowWithLink|White Gear Pack II|orange}}
+{{IconExampleRowWithLink|White Gear Pack III|orange}}
+{{IconExampleRowWithLink|White Gear Pack IV|orange}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Super Pack I|orange}}
+{{IconExampleRowWithLink|Supervalue Pack II|orange}}
+{{IconExampleRowWithLink|Thank-you Pack|orange}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Club Pack|orange}}
+{{IconExampleRowWithLink|Eye of Horus Pack|orange}}
+{{IconExampleRowWithLink|Heaven Amulet Pack|orange}}
+{{IconExampleRowWithLink|Key Client Pack|orange}}
+{{IconExampleRowWithLink|Limited Value Pack I|orange}}
+{{IconExampleRowWithLink|Super Pack II|orange}}
+{{IconExampleRowWithLink|Super Pack III|orange}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithLink|Abyss Amulet Pack|orange}}
+{{IconExampleRowWithLink|Crystal of Will Pack|orange}}
+{{IconExampleRowWithLink|Limited Value Pack II|orange}}
+{{IconExampleRowWithLink|Super Pack IV|orange}}
+{{IconExampleRowWithLink|Super Pack V|orange}}
+|}
+
+= Random Packs =
+Packs that have a random reward
+
+== Alchemy Cases ==
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Novice Alchemy Case|blue}}
+{{IconExampleRowWithLink|Expert Alchemy Case|purple}}
+{{IconExampleRowWithLink|Master Alchemy Case|orange}}
+|}
+
+== Coating ==
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Coating Bucket|orange}}
+|}
+
+== Lab Boxes ==
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Assistant Lab Box|blue}}
+{{IconExampleRowWithLink|Advanced Lab Box|purple}}
+{{IconExampleRowWithLink|Special Lab Box|orange}}
+|}
+
+== Protomon Eggs ==
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Common Protomon Egg|blue}}
+{{IconExampleRowWithLink|Rare Protomon Egg|purple}}
+{{IconExampleRowWithLink|Epic Protomon Egg|orange}}
+{{IconExampleRowWithLink|Mythic Protomon Egg|red}}
+|}
+
+== Stardust Boxes ==
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Stardust Box I|blue}}
+{{IconExampleRowWithLink|Stardust Box II|purple}}
+{{IconExampleRowWithLink|Stardust Box III|orange}}
+|}
+
+== Misc ==
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Ancient Relic Casket|orange}}
+{{IconExampleRowWithLink|Collector's Legacy|purple}}
+{{IconExampleRowWithLink|Curator's Collection|orange}}||[[Museum#Museum_Shop]]
+{{IconExampleRowWithLink|Fighter's Legacy}}
+{{IconExampleRowWithLink|Hot Cocoa|orange}}
+{{IconExampleRowWithLink|Research Briefcase|orange}}
+{{IconExampleRowWithLink|Robot Ticket|orange}}
+|}
+
+= Relic Albums =
+Packs that give a progressive set of predefined Relics.
+{{IconExampleHeader}}
+{{IconExampleRowWithLink|Lottery Relic Album|orange}}
+{{IconExampleRowWithLink|Wish Relic Album|orange}}
+|}
+
+[[Category:Icons]]
+[[Category:Reward Pack]]

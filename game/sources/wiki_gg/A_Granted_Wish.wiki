@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description= The most wonderful thing in the world that grants Snail strength, and can even make just about anything happen. The only drawback is that there are too few of them.
+|affct=FTH
+|hard=DEF
+|source=Divine Neutral Chest (0.2%)
+|color=purple
+|earth=7
+|water=5
+|fire=7
+|wind=7
+|form=Angel
+|element=Wind
+|realm=Murika
+|orangehard=DEF
+}}

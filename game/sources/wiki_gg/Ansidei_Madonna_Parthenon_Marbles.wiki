@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=499
+|relics=Ansidei Madonna,Parthenon Marbles
+|rank=orange
+|amount=2
+|category=self
+|description=When refining, there exists a +7% chance for White Building Materials to turn into Green
+}}

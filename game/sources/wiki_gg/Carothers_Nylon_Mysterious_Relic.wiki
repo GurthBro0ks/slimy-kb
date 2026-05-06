@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Carothers Nylon,Mysterious Relic
+|rank=blue
+|amount=2
+|category=self
+|description=Per 5 Epic Protodex Stars, Snail ATK +15; Epic Protodex Stars: 100/100
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Epic Protodex Stars]]

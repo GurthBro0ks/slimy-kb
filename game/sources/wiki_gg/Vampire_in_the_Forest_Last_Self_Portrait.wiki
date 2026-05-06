@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=489
+|relics=Vampire in the Forest,Last Self Portrait
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Mutant Minions in battle: Troop HARD Stats +21
+}}

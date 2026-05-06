@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Sensei's Lost Finger
+|type=Common
+|rank=red
+|id=10936
+|idx=137
+|description=This severed finger comes from a Yamato master, who was famous for his finger techniques in his youth, captivating countless young women. A poem says: "Who is the peak at the end of finger techniques, once seen, Kato's path becomes empty!"
+|skill=
+|hp=2580
+|def=258
+|atk=253
+|rush=301
+|gene1=Water DMG +2%
+|gene2=Each round, {race} ATK +80
+|gene3=Each round, {race} RUSH +80
+|gene4=RUSH Ignore DEF +4%
+|gene5=Crit DMG +10%
+|gene6=Ignore DEF +2%
+|gene7=Crit DMG +10% (Awakened)
+|}}

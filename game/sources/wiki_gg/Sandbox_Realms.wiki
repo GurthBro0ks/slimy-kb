@@ -1,0 +1,52 @@
+
+
+<div class="fp-main">
+<div class="border-menu" style="grid-area:a">
+<div class="menu-title">Realms</div>
+
+<div style ="float: right; width: 20%; height: 100%; align-content: center;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Time Rift.png|link=Sandbox/Realms/Time_Rift|75px|center]]</span>
+<div style="text-align:center;">[[/Time Rift|Time Rift]]</div>
+</div>
+
+<div style ="float: left; width: 20%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Koryeo.png|link=Sandbox/Realms/Koryeo|75px|center]]</span>
+<div style="text-align:center;">[[/Koryeo|Koryeo]]</div>
+</div>
+
+<div style ="float: left; width: 20%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Yamato.png|link=Sandbox/Realms/Yamato|75px|center]]</span>
+<div style="text-align:center;">[[/Yamato|Yamato]]</div>
+</div>
+
+<div style ="float: right; width: 20%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Cathay.png|link=Sandbox/Realms/Cathay|75px|center]]</span>
+<div style="text-align:center;">[[/Cathay|Cathay]]</div>
+</div>
+
+<div style ="float: left; width: 20%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Murika.png|link=Sandbox/Realms/Murika|75px|center]]</span>
+<div style="text-align:center;">[[/Murika|Murika]]</div>
+</div>
+
+<div style ="float: left; width: 20%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Britland.png|link=Sandbox/Realms/Britland|75px|center]]</span>
+<div style="text-align:center;">[[/Britland|Britland]]</div>
+</div>
+
+<div style ="float: left; width: 20%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Kemet.png|link=Sandbox/Realms/Kemet|75px|center]]</span>
+<div style="text-align:center;">[[/Kemet|Kemet]]</div>
+</div>
+
+<div style ="float: left; width: 20%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Hellas.png|link=Sandbox/Realms/Hellas|75px|center]]</span>
+<div style="text-align:center;">[[/Hellas|Hellas]]</div>
+</div>
+
+<div style ="float: left; width: 20%;">
+<span style ="display: inline-block; overflow: hidden; border-radius: 10px;">[[File:Bharata.png|link=Sandbox/Realms/Bharata|75px|center]]</span>
+<div style="text-align:center;">[[/Bharata|Bharata]]</div>
+</div>
+</div>
+</div>

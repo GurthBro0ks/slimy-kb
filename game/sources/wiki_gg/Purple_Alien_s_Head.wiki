@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Purple Alien's Head
+|class_id=20416
+|rank=Green
+|affct=FAME
+|source=
+|description=This head belongs to a supervillain. It used to be a normal potato before it obtained the power to kill the superheroes. It never thought it would be killed by a Snail after dominating the universe for so many years. Even its huge head has become a collection.
+|fame=29
+|art=14
+|fth=17
+|civ=16
+|tech=14
+|ss1=Per Fugitive defeated, Snail ATK +2<br>Fugitives Defeated: 20/20
+|ss2=Per Fugitive defeated, Snail ATK +4<br>Fugitives Defeated: 20/20
+|ss3=Per Fugitive defeated, Snail ATK +6<br>Fugitives Defeated: 20/20
+|ss4=Per Fugitive defeated, Snail ATK +6<br>Fugitives Defeated: 20/20
+|ss7=Per Fugitive defeated, Snail ATK +6<br>Fugitives Defeated: 20/20<br> (Awakened)
+}}

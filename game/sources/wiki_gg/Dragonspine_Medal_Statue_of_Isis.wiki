@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=507
+|relics=Dragonspine Medal,Statue of Isis
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Minions in battle: Troop Earth DMG +7
+}}

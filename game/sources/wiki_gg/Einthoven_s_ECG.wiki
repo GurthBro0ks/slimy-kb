@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Einthoven's ECG
+|class_id=22092
+|rank=Blue
+|affct=TECH
+|birthday=11-12
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Nov 12, 1901 AD, the Dutch physiologist Einthoven obtained a clear and stable electrocardiogram by improving the string-type galvanometer.<br>This electrocardiogram was personally recorded by Dr. Einthoven. Known as the father of the electrocardiogram, he not only independently designed a new type of string-type galvanometer but also used this instrument to expand the electrocardiogram that originally only included two ventricular waves to include six sets of waveforms version and is still in use today. His research and improvement of the electrocardiogram played a vital role in the subsequent large number of heart research based on the electrocardiogram.
+|fame=32
+|art=18
+|fth=32
+|civ=27
+|tech=45
+|ss1=Zombie Minion HP +1%
+|ss2=Zombie Minion HP +2%
+|ss3=Zombie Minion HP +3%
+|ss4=Zombie Minion HP +5%
+|ss7=Zombie Minion HP +5%<br>Zombie Minion HP +5% (Awakened)
+|skill1=[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, All Minion DEF +1.5%
+}}

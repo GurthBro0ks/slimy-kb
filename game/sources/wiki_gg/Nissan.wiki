@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Nissan
+|rank=blue
+|cabin=2
+|id=22
+|gene1={race} HP +200
+|gene2={race} FTH +20
+|gene3=Each round, {race} HP +100
+|gene4=Per 10 Dragon Minions in battle:
+> Troop HP +20
+|gene5=Each round, {race} HP +200
+|}}

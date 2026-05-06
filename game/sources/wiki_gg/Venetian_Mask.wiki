@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Venetian Mask
+|class_id=22439
+|rank=Blue
+|affct=ART
+|birthday=01-22
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jan 22, 1268 AD, the Venetian masks were first documented in writing.<br>Centuries ago, Venetians already had a tradition of wearing masks. Initially, the practice was mostly limited to impoverished nobles or debtors who wore masks to evade their creditors and was thus restricted by law. However, the tradition persisted for centuries until Napoleon conquered Venice, causing the masks to vanish from sight. Almost two hundred years later, they resurfaced as a symbol of the Carnival
+|fame=21
+|art=46
+|fth=31
+|civ=30
+|tech=26
+|ss1=Dragon Minion ATK +1%
+|ss2=Dragon Minion ATK +2%
+|ss3=Dragon Minion ATK +3%
+|ss4=Dragon Minion ATK +5%
+|ss7=Dragon Minion ATK +5%<br>Dragon Minion ATK +5% (Awakened)
+|skill1=[[File:Explorationegg skill I.png|50px]]Place in Exploration Egg: Exploration Egg hatching efficiency +5%
+}}

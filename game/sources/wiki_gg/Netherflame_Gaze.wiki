@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Netherflame Gaze
+|type=Bionic
+|rank=purple
+|id=10663
+|idx=20
+|description=A pupil forged from millennial firestorms, concentrated into a single devastating ocular singularity.
+|skill=Transform into a Phoenix, dealing DMG equal to 163% of ATK!
+|hp=1160
+|def=209
+|atk=174
+|rush=132
+|gene1=In Fissure combat, Fire DMG +120
+|gene2=Fire RES +60
+|gene3=Wind DMG +60
+|gene4=Ignore Fire RES +60
+|gene7=Fire DMG +180 (Awakened)
+|}}

@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Mecha Prosthesis
+|type=Common
+|rank=purple
+|id=10955
+|idx=148
+|description=Zhuge Liang's genius is now hands-on experience! Even his wooden dolls can keep a spare hand after being dismembered.
+|skill=
+|hp=1480
+|def=191
+|atk=144
+|rush=148
+|gene1=In Mecha Form, {race} ATK +80
+|gene2=Stonehide RES +2%
+|gene3=Per Mecha Form Tier, {race} ATK +20
+Mecha Form Tiers: 9/9
+|gene4=Free Gene Speedup (Mecha) +30m
+|gene7=Chance to trigger Stonehide +2% (Awakened)
+|}}

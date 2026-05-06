@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Loyal Retainers
+|rank=blue
+|cabin=2
+|id=23
+|gene1={race} ATK +20
+|gene2={race} CIV +20
+|gene3=Micro Incubator: Convert Green product to Blue by + 0.2%
+|gene4=Per 10 Dragon Minions in battle:
+> Troop ATK +2
+|gene5=Micro Incubator: Convert Green product to Blue by + 0.4%
+|}}

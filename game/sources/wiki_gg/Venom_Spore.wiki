@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Snail Shell's former owner, Cadaverine Apostle, liked to extract venom from dead rats, and once eliminated Peter's family with spores. Some Snail have suspected that the owner was near-sighted because a Snail once saw them trying to do the same thing to a computer mouse...
+|affct=FAME
+|hard=ATK
+|source=
+{{Memetic Catalyst
+|number=1880
+|relic1=Socrates' Poison
+|relic2=Scale of Anubis
+|relic3=Encyclopedia
+|relic4=Soul Stone
+|relic5=Hannibal's Cup
+}}
+|color=purple
+|earth=6
+|water=6
+|fire=7
+|wind=7
+|form=Zombie
+|element=Earth
+|realm=Britland
+|orangehard=RUSH
+}}

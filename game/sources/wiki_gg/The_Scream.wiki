@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=The Scream
+|rank=AAA
+|affct=ART
+|birthday=05-10
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)
+|description=On May 10, 1893, Edvard Munch created this pioneering expressionism artwork.
+
+"The Scream" was a painting created by Munch when he was in depression. This piece features a distorted human which depicts anxiety and fear. It expressed the idea that anxiety and loneliness can be erased by a loud scream. The colors used by Munch were nor irregular yet not the painting carries elements of exaggeration, making  it an iconic piece of expressionism.
+
+[Basic Info]
+
+Type: Oil Painting<br>Collected by: National Museum of Norway<br>Height: 91 cm<br>Width: 73.5 cm
+|fame=47
+|art=74
+|fth=44
+|civ=36
+|tech=42
+|ss1=Per 20 Jinx Points, Snail ATK +6<br>Per 20 Jinx Points, Snail DEF +6<br>Jinx Points: 600/600
+|ss2=Per 20 Jinx Points, Snail ATK +8<br>Per 20 Jinx Points, Snail DEF +8<br>Jinx Points: 600/600
+|ss3=Per 20 Jinx Points, Snail ATK +10<br>Per 20 Jinx Points, Snail DEF +10<br>Jinx Points: 600/600
+|ss4=Per 20 Jinx Points, Snail ATK +14<br>Per 20 Jinx Points, Snail DEF +14<br>Jinx Points: 600/600
+|ss5=Per 20 Jinx Points, Snail ATK +18<br>Per 20 Jinx Points, Snail DEF +18<br>Jinx Points: 600/600
+|ss7=Per 20 Jinx Points, Snail ATK +18<br>Per 20 Jinx Points, Snail DEF +18<br>Jinx Points: 600/600<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Compass skill II.png|50px]] Place in Exploration Compass: Snail ATK +30
+|skill2=[[File:Compass skill II.png|50px]] Place in Exploration Compass: This Relic's ART +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:ART Relics]]
+[[Category:Purple ART Relics]]
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Jinx Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:ART Boost]]
+[[Category:Ancient Fossil Boost]]

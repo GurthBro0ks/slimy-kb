@@ -1,0 +1,48 @@
+{{CargoRelic
+|name=Agamemnon Mask
+|rank=SS
+|affct=ART
+|birthday=12-22
+|source=Fragment Crafting (4%), Grandmaster Scrolls (1.5%), Lottery Machine (0.18%), Wishing (0.15%)
+|description=On Dec 22, 1193 BC, Agamemnon put on this mask and entered the Trojan War.
+
+Agamemnon, leader of the Greek Alliance in the Trojan War, ordered artisans to make him a golden mask. Soldiers and artisans caught a young deer with golden antlers. Artisans smelted the antlers to make Agamemnon's mask. However, this animal was sacred to the goddess of hunting, Artemis. Her wrath eventually led to the downfall of Agaememnon.
+
+[Basic Info]
+
+Era: Mycenaean civilization.
+
+Collected by: National Archaeological Museum of Athens.
+|fame=66
+|art=105
+|fth=49
+|civ=68
+|tech=59
+|ss1=Snail HP +200<br>Snail ATK +20<br>Snail RUSH +20
+|ss2=Snail HP +300<br>Snail ATK +30<br>Snail RUSH +30
+|ss3=Snail HP +400<br>Snail ATK +40<br>Snail RUSH +40
+|ss4=Snail HP +600<br>Snail ATK +60<br>Snail RUSH +60
+|ss5=Snail HP +800<br>Snail ATK +80<br>Snail RUSH +80
+|ss6=Snail HP +1,100<br>Snail ATK +110<br>Snail RUSH +110
+|ss7=Snail HP +1,100<br>Snail ATK +110<br>Snail RUSH +110<br>Snail RUSH +100 (Awakened)
+|skill1={{Skills|kemet|btads gained|15}}
+|skill2={{Skills|kemet|purple reagent|15}}
+|skill3={{Skills|britland|def|600}}
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:DEF Boost]]
+[[Category:Mecha Gene Cost Reduction]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Rewards Gear]]
+[[Category:Slug Dragonling Boost]]
+[[Category:Sanctum Warrior Boost]]

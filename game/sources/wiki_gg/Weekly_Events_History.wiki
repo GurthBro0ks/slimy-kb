@@ -1,0 +1,1016 @@
+== [[Lottery_Machine#Weekly_Lottery_Event|Lottery Week]] ==
+=== 2023 ===
+{|class= "wikitable mw-collapsible mw-collapsed"
+!Week
+!Giga Ball<br>400 Lottery Points
+!Organ Stage 2
+!Balloon Battle Relics
+!Relic Rapture<br>Lotto Machine No. 1
+!Relic Rapture<br>Lotto Machine No. 2
+!Limited Bargain Relics
+!Giga Ball / RNG Skill ???
+|-
+|Jul. 21 - Jul. 27 2023
+|{{RewardIconWithLink|Ansidei Madonna|orange}}
+|{{RewardIconWithLink|Mutated Tentacle|purple}}
+|Stage 3: {{RewardIconWithLink|Devol's Robot|orange}}<br>Stage 4: {{RewardIconWithLink|SkyWeb Hub|orange}}<br>Stage 5A: {{RewardIconWithLink|The Analects|orange}}<br>Stage 5B: {{RewardIconWithLink|Soul Stone|orange}}
+|{{RewardIconWithLink|Cuneiform Tablet|orange}}<br>{{RewardIconWithLink|Ansidei Madonna|orange}}<br>{{RewardIconWithLink|Tokamak|orange}}
+|N/A
+|{{RewardIconWithLink|Artificial Blackhole|orange}}<br>{{RewardIconWithLink|Eye of Akamoddo|orange}}<br>{{RewardIconWithLink|Figaro Marriage|purple}}
+| ?
+|-
+|Aug. 11 - Aug. 17 2023
+|{{RewardIconWithLink|Einstein's Brain|orange}}
+|{{RewardIconWithLink|Unidentified Kidney|purple}}
+|Stage 3: {{RewardIconWithLink|Element R.|orange}}<br>Stage 4: {{RewardIconWithLink|Buddha Finger Sarira|orange}}<br>Stage 5A: {{RewardIconWithLink|Horn of Heimdall|orange}}<br>Stage 5B: {{RewardIconWithLink|Relativity Scripts|orange}}
+|{{RewardIconWithLink|SDI|orange}}<br>{{RewardIconWithLink|Einstein's Brain|orange}}<br>{{RewardIconWithLink|The School of Athens|orange}}
+|N/A
+|{{RewardIconWithLink|1001 Nights|orange}}<br>{{RewardIconWithLink|Holy Loaves|orange}}<br>{{RewardIconWithLink|Mermaid Statue|purple}}
+| ?
+|-
+|Sept. 01 - Sept. 07 2023
+|{{RewardIconWithLink|Somersault Cloud|orange}}
+|{{RewardIconWithLink|Mecha Gut|purple}}
+|Stage 3: {{RewardIconWithLink|The Tale of Genji|orange}}<br>Stage 4: {{RewardIconWithLink|Sunflowers|orange}}<br>Stage 5A: {{RewardIconWithLink|Hera's Peacock Fan|orange}}<br>Stage 5B: {{RewardIconWithLink|On War|orange}}
+|{{RewardIconWithLink|DOI|orange}}<br>{{RewardIconWithLink|Somersault Cloud|orange}}<br>{{RewardIconWithLink|Golden Trophy|orange}}
+|N/A
+|{{RewardIconWithLink|Encyclopedia|orange}}<br>{{RewardIconWithLink|Time-Travel Box|orange}}<br>{{RewardIconWithLink|Galileo's Ball|purple}}
+|{{RewardIconWithText|W-Tad}}
+|-
+|Sept. 22 - Sept. 28 2023
+|{{RewardIconWithLink|Nobel's Will|orange}}
+|{{RewardIconWithLink|Demon Lord's Tailbone|purple}}
+|Stage 3: {{RewardIconWithLink|Hubble Telescope|orange}}<br>Stage 4: {{RewardIconWithLink|Julian Calendar|orange}}<br>Stage 5A: {{RewardIconWithLink|The Analects|orange}}<br>Stage 5B: {{RewardIconWithLink|Relativity Scripts|orange}}
+|{{RewardIconWithLink|The Song of Roland|orange}}<br>{{RewardIconWithLink|Nobel's Will|orange}}<br>{{RewardIconWithLink|Swan Lake|orange}}
+|N/A
+|{{RewardIconWithLink|Origin of Species|orange}}<br>{{RewardIconWithLink|Fu Hao Scripts|orange}}<br>{{RewardIconWithLink|Cornucopia|purple}}
+| ?
+|-
+|Oct. 13 - Oct. 19 2023
+|{{RewardIconWithLink|Dyson Sphere|orange}}
+|{{RewardIconWithLink|Crimson Dragon Scale|purple}}
+|Stage 3: {{RewardIconWithLink|Shroud of Turin|orange}}<br>Stage 4: {{RewardIconWithLink|Morse's Telegraph|orange}}<br>Stage 5A: {{RewardIconWithLink|Hera's Peacock Fan|orange}}<br>Stage 5B: {{RewardIconWithLink|Soul Stone|orange}}
+|{{RewardIconWithLink|Eye of Akamoddo|orange}}<br>{{RewardIconWithLink|Dyson Sphere|orange}}<br>{{RewardIconWithLink|Boat of St. Peter|orange}}
+|N/A
+|{{RewardIconWithLink|Lyre of Hermes|orange}}<br>{{RewardIconWithLink|Cuneiform Tablet|orange}}<br>{{RewardIconWithLink|Killing Stone|purple}}
+|{{RewardIconWithText|Master Alchemy Case|orange}}
+|-
+|Nov. 03 - Nov. 09 2023
+|{{RewardIconWithLink|Creation of Adam|orange}}
+|{{RewardIconWithLink|Crystalized Rib|purple}}
+|Stage 3: {{RewardIconWithLink|Tutankhamun Mask|orange}}<br>Stage 4: {{RewardIconWithLink|Era Magazine Vol.1|orange}}<br>Stage 5A: {{RewardIconWithLink|Horn of Heimdall|orange}}<br>Stage 5B: {{RewardIconWithLink|Lucy the Ape|orange}}
+|{{RewardIconWithLink|Pandora's Box|orange}}<br>{{RewardIconWithLink|Creation of Adam|orange}}<br>{{RewardIconWithLink|Ruska's Microscope|orange}}
+|N/A
+|{{RewardIconWithLink|Houmuwu Ding|orange}}<br>{{RewardIconWithLink|Epic of Gilgamesh|orange}}<br>{{RewardIconWithLink|Haulers on Volga|purple}}
+|{{RewardIconWithLink|Expert Scroll|purple}}
+|-
+|Nov. 24 - Nov. 30 2023
+|{{RewardIconWithLink|Prometheus Torch|orange}}
+|{{RewardIconWithLink|Siphoning Mouthparts|purple}}
+|Stage 3: {{RewardIconWithLink|Boltzmann Brain|orange}}<br>Stage 4: {{RewardIconWithLink|Forbidden Fruit|orange}}<br>Stage 5A: {{RewardIconWithLink|Voyager 1|orange}}<br>Stage 5B: {{RewardIconWithLink|Ragnarok|orange}}
+|{{RewardIconWithLink|Morse's Telegraph|orange}}<br>{{RewardIconWithLink|Prometheus Torch|orange}}<br>{{RewardIconWithLink|Mayflower|orange}}
+|N/A
+|{{RewardIconWithLink|Da Vinci's Notes|orange}}<br>{{RewardIconWithLink|Ship in a Bottle|orange}}<br>{{RewardIconWithLink|Andersen's Fairytales|purple}}
+|{{RewardIconWithText|B-Tad}}
+|-
+|Dec. 15 - Dec. 21 2023
+|{{RewardIconWithLink|The Art of War|orange}}
+|{{RewardIconWithLink|Infrared Eye|purple}}
+|Stage 3: {{RewardIconWithLink|Paradise Lost|orange}}<br>Stage 4: {{RewardIconWithLink|Holy Loaves|orange}}<br>Stage 5A: {{RewardIconWithLink|Divine Comedy|orange}}<br>Stage 5B: {{RewardIconWithLink|Hera's Peacock Fan|orange}}
+|{{RewardIconWithLink|Liberty Guide People|orange}}<br>{{RewardIconWithLink|The Art of War|orange}}<br>{{RewardIconWithLink|Boat of St. Peter|orange}}
+|N/A
+|{{RewardIconWithLink|Somersault Cloud|orange}}<br>{{RewardIconWithLink|Sputnik 1|orange}}<br>{{RewardIconWithLink|Napoleon Painting|purple}}
+|{{RewardIconWithText|W-Tad}}
+|}
+
+=== 2024 ===
+{|class= "wikitable mw-collapsible mw-collapsed"
+!Week
+!Giga Ball<br>400 Lottery Points
+!Organ Stage 2
+!Balloon Battle Relics
+!Relic Rapture<br>Lotto Machine No. 1
+!Relic Rapture<br>Lotto Machine No. 2
+!Limited Bargain Relics
+!Giga Ball / RNG Skill ???
+|-
+|Jan. 05 - Jan. 11 2024
+|{{RewardIconWithLink|Pt-Cont Transistor|orange}}
+|{{RewardIconWithLink|Crystalized Rib|purple}}
+|Stage 3: {{RewardIconWithLink|Devol's Robot|orange}}<br>Stage 4: {{RewardIconWithLink|Sunflowers|orange}}<br>Stage 5A: {{RewardIconWithLink|Faust|orange}}<br>Stage 5B: {{RewardIconWithLink|Houmuwu Ding|orange}}
+|{{RewardIconWithLink|The School of Athens|orange}}<br>{{RewardIconWithLink|Pt-Cont Transistor|orange}}<br>{{RewardIconWithLink|SkyWeb Hub|orange}}
+|N/A
+|{{RewardIconWithLink|Artificial Blackhole|orange}}<br>{{RewardIconWithLink|Agamemnon Mask|orange}}<br>{{RewardIconWithLink|Lionheart|purple}}
+|{{RewardIconWithLink|Gear Chest|orange}}
+|-
+|Jan. 26 - Feb. 02 2024
+|{{RewardIconWithLink|Encyclopedia|orange}}
+|{{RewardIconWithLink|Siphoning Mouthparts|purple}}
+|Stage 3: {{RewardIconWithLink|Hubble Telescope|orange}}<br>Stage 4: {{RewardIconWithLink|Tokamak|orange}}<br>Stage 5A: {{RewardIconWithLink|Gaea's Hand|orange}}<br>Stage 5B: {{RewardIconWithLink|Maya Slate|orange}}
+|{{RewardIconWithLink|Causality|orange}}<br>{{RewardIconWithLink|Encyclopedia|orange}}<br>{{RewardIconWithLink|Buddha Finger Sarira|orange}}
+|N/A
+|{{RewardIconWithLink|Horn of Heimdall|orange}}<br>{{RewardIconWithLink|David|orange}}<br>{{RewardIconWithLink|Ali's Belt|purple}}
+|{{RewardIconWithText|Master Alchemy Case|orange}}
+|-
+|Feb. 16 - Feb. 22 2024
+|{{RewardIconWithLink|Da Vinci's Notes|orange}}
+|{{RewardIconWithLink|Infrared Eye|purple}}
+|Stage 3: {{RewardIconWithLink|The Tale of Genji|orange}}<br>Stage 4: {{RewardIconWithLink|Epic of Gilgamesh|orange}}<br>Stage 5A: {{RewardIconWithLink|Lucy the Ape|orange}}<br>Stage 5B: {{RewardIconWithLink|On War|orange}}
+|{{RewardIconWithLink|DOI|orange}}<br>{{RewardIconWithLink|Da Vinci's Notes|orange}}<br>{{RewardIconWithLink|Golden Chariot|orange}}
+|N/A
+|{{RewardIconWithLink|Soul Stone|orange}}<br>{{RewardIconWithLink|Eye of Akamoddo|orange}}<br>{{RewardIconWithLink|Hope Diamond|purple}}
+|{{RewardIconWithLink|Expert Scroll|purple}}
+|-
+|Mar. 08 - Mar. 14 2024
+|Lottery 1: {{RewardIconWithLink|The Art of War|orange}}<br>Lottery 2: {{RewardIconWithLink|Tao Te Ching|orange}}
+|{{RewardIconWithLink|Lucky Phalange|purple}}
+|Stage 3: {{RewardIconWithLink|Suger's Eagle|orange}}<br>Stage 4: {{RewardIconWithLink|Cross of Lorraine|orange}}<br>Stage 5A: {{RewardIconWithLink|The Silver Key|orange}}<br>Stage 5B: {{RewardIconWithLink|Phoenix Feather|orange}}
+|{{RewardIconWithLink|Julian Calendar|orange}}<br>{{RewardIconWithLink|The Art of War|orange}}<br>{{RewardIconWithLink|The School of Athens|orange}}
+|{{RewardIconWithLink|Swimming Reindeer|orange}}<br>{{RewardIconWithLink|Tao Te Ching|orange}}<br>{{RewardIconWithLink|Eight Proposals|orange}}
+|{{RewardIconWithLink|Metchnikoff's Notes|orange}}<br>{{RewardIconWithLink|Panther Brooch|orange}}<br>{{RewardIconWithLink|Burgundian Laws|purple}}
+| ?
+|-
+|Mar. 29 - Apr. 04 2024
+|Lottery 1: {{RewardIconWithLink|Origin of Species|orange}}<br>Lottery 2: {{RewardIconWithLink|Beowulf|orange}}
+|{{RewardIconWithLink|Mutated Tentacle|purple}}
+|Stage 3: {{RewardIconWithLink|Shroud of Turin|orange}}<br>Stage 4: {{RewardIconWithLink|Golden Trophy|orange}}<br>Stage 5A: {{RewardIconWithLink|Crime and Punishment|orange}}<br>Stage 5B: {{RewardIconWithLink|Hera's Peacock Fan|orange}}
+|{{RewardIconWithLink|Cuneiform Tablet|orange}}<br>{{RewardIconWithLink|Origin of Species|orange}}<br>{{RewardIconWithLink|The Thinker|orange}}
+|{{RewardIconWithLink|SC Energy Storage Unit|orange}}<br>{{RewardIconWithLink|Beowulf|orange}}<br>{{RewardIconWithLink|Harem Wall Painting|orange}}
+|{{RewardIconWithLink|Lyre of Hermes|orange}}<br>{{RewardIconWithLink|Fu Hao Scripts|orange}}<br>{{RewardIconWithLink|The Moon Puzzle|purple}}
+|{{RewardIconWithText|W-Tad}}
+|-
+|Apr. 19 - Apr. 25 2024
+|Lottery 1: {{RewardIconWithLink|Faust|orange}}<br>Lottery 2: {{RewardIconWithLink|Ode to Joy|orange}}
+|{{RewardIconWithLink|Unidentified Kidney|purple}}
+|Stage 3: {{RewardIconWithLink|The Kiss|orange}}<br>Stage 4: {{RewardIconWithLink|Rutherford Model|orange}}<br>Stage 5A: {{RewardIconWithLink|Wilford's Engine|orange}}<br>Stage 5B: {{RewardIconWithLink|Houmuwu Ding|orange}}
+|{{RewardIconWithLink|Liberty Guide People|orange}}<br>{{RewardIconWithLink|Faust|orange}}<br>{{RewardIconWithLink|Morse's Telegraph|orange}}
+|{{RewardIconWithLink|R'lyeh Text|orange}}<br>{{RewardIconWithLink|Ode to Joy|orange}}<br>{{RewardIconWithLink|Veiled Lady|orange}}
+|{{RewardIconWithLink|Along the River|orange}}<br>{{RewardIconWithLink|Kojiki|orange}}<br>{{RewardIconWithLink|Burgundian Laws|purple}}
+| ?
+|-
+|May 10 - May 16 2024
+|Lottery 1: {{RewardIconWithLink|Somersault Cloud|orange}}<br>Lottery 2: {{RewardIconWithLink|Statue of Isis|orange}}
+|{{RewardIconWithLink|Mecha Gut|purple}}
+|Stage 3: {{RewardIconWithLink|Koh-i-Noor Diamond|orange}}<br>Stage 4: {{RewardIconWithLink|Das Kapital|orange}}<br>Stage 5A: {{RewardIconWithLink|The Prince|orange}}<br>Stage 5B: {{RewardIconWithLink|Prometheus Torch|orange}}
+|{{RewardIconWithLink|The Thinker|orange}}<br>{{RewardIconWithLink|Somersault Cloud|orange}}<br>{{RewardIconWithLink|David|orange}}
+|{{RewardIconWithLink|Hermes & Dionysus|orange}}<br>{{RewardIconWithLink|Statue of Isis|orange}}<br>{{RewardIconWithLink|AMS|orange}}
+|{{RewardIconWithLink|Divine Comedy|orange}}<br>{{RewardIconWithLink|Hammurabi Code|orange}}<br>{{RewardIconWithLink|Annunciation|purple}}
+| ?
+|-
+|May 31 - Jun. 06 2024
+|Lottery 1: {{RewardIconWithLink|Maya Slate|orange}}<br>Lottery 2: {{RewardIconWithLink|Metchnikoff's Notes|orange}}
+|{{RewardIconWithLink|Demon Lord's Tailbone|purple}}
+|Stage 3: {{RewardIconWithLink|Leaf of Yggdrasil|orange}}<br>Stage 4: {{RewardIconWithLink|Eight Proposals|orange}}<br>Stage 5A: {{RewardIconWithLink|Lawrence's Cyclotron|orange}}<br>Stage 5B: {{RewardIconWithLink|Ragnarok|orange}}
+|{{RewardIconWithLink|Boat of St. Peter|orange}}<br>{{RewardIconWithLink|Maya Slate|orange}}<br>{{RewardIconWithLink|5th Element|orange}}
+|{{RewardIconWithLink|Grimmy Award|orange}}<br>{{RewardIconWithLink|Metchnikoff's Notes|orange}}<br>{{RewardIconWithLink|Trajan's Column|orange}}
+|{{RewardIconWithLink|CCD|orange}}<br>{{RewardIconWithLink|Ruska's Microscope|orange}}<br>{{RewardIconWithLink|Foucault Pendulum|purple}}
+| ?
+|-
+|Jun. 21 - Jun. 27 2024
+|Lottery 1: {{RewardIconWithLink|Phoenix Feather|orange}}<br>Lottery 2: {{RewardIconWithLink|Cellular Pathology|orange}}
+|{{RewardIconWithLink|Crimson Dragon Scale|purple}}
+|Stage 3: {{RewardIconWithLink|Paradise Lost|orange}}<br>Stage 4: {{RewardIconWithLink|Sunflowers|orange}}<br>Stage 5A: {{RewardIconWithLink|Nightingale Medal|orange}}<br>Stage 5B: {{RewardIconWithLink|Medal of Honor|orange}}
+|{{RewardIconWithLink|Buddha's Skull Sarira|orange}}<br>{{RewardIconWithLink|Phoenix Feather|orange}}<br>{{RewardIconWithLink|Proclamation 95|orange}}
+|{{RewardIconWithLink|Silmarils|orange}}<br>{{RewardIconWithLink|Cellular Pathology|orange}}<br>{{RewardIconWithLink|Grimmy Award|orange}}
+|{{RewardIconWithLink|The Art of War|orange}}<br>{{RewardIconWithLink|Time-Travel Box|orange}}<br>{{RewardIconWithLink|The Nutcracker|purple}}
+| ?
+|-
+|Jul. 12 - Jul. 18 2024
+|Lottery 1: {{RewardIconWithLink|Africa Star|orange}}<br>Lottery 2: {{RewardIconWithLink|CCD|orange}}
+|{{RewardIconWithLink|Crystalized Rib|purple}}
+|Stage 3: {{RewardIconWithLink|Lamassu Statue|orange}}<br>Stage 4: {{RewardIconWithLink|Hermes & Dionysus|orange}}<br>Stage 5A: {{RewardIconWithLink|Deep Navy Computer|orange}}<br>Stage 5B: {{RewardIconWithLink|Faust|orange}}
+|{{RewardIconWithLink|Tokamak|orange}}<br>{{RewardIconWithLink|Africa Star|orange}}<br>{{RewardIconWithLink|The School of Athens|orange}}
+|{{RewardIconWithLink|Stockholm Declaration|orange}}<br>{{RewardIconWithLink|CCD|orange}}<br>{{RewardIconWithLink|Shahnameh|orange}}
+|{{RewardIconWithLink|Tao Te Ching|orange}}<br>{{RewardIconWithLink|SC Energy Storage Unit|orange}}<br>{{RewardIconWithLink|Portrait of Helena|purple}}
+|{{RewardIconWithText|W-Tad}}
+|-
+|Aug. 02 - Aug. 08 2024
+|Lottery 1: {{RewardIconWithLink|Soul Stone|orange}}<br>Lottery 2: {{RewardIconWithLink|Kanner's Report|orange}}
+|{{RewardIconWithLink|Siphoning Mouthparts|purple}}
+|Stage 3: {{RewardIconWithLink|Suger's Eagle|orange}}<br>Stage 4: {{RewardIconWithLink|Swan Lake|orange}}<br>Stage 5A: {{RewardIconWithLink|Vedas|orange}}<br>Stage 5B: {{RewardIconWithLink|Lyre of Hermes|orange}}
+|{{RewardIconWithLink|Eye of Akamoddo|orange}}<br>{{RewardIconWithLink|Soul Stone|orange}}<br>{{RewardIconWithLink|SkyWeb Hub|orange}}
+|{{RewardIconWithLink|Harem Wall Painting|orange}}<br>{{RewardIconWithLink|Kanner's Report|orange}}<br>{{RewardIconWithLink|Albucasis Medical Book|orange}}
+|{{RewardIconWithLink|Origin of Species|orange}}<br>{{RewardIconWithLink|Ship in a Bottle|orange}}<br>{{RewardIconWithLink|The Moon Puzzle|purple}}
+| ?
+|-
+|Aug. 23 - Aug. 29 2024
+|Lottery 1: {{RewardIconWithLink|Nuclear Bomb|orange}}<br>Lottery 2: {{RewardIconWithLink|The Birth of Venus|orange}}
+|{{RewardIconWithLink|Infrared Eye|purple}}
+|Stage 3: {{RewardIconWithLink|The Kiss|orange}}<br>Stage 4: {{RewardIconWithLink|Sputnik 1|orange}}<br>Stage 5A: {{RewardIconWithLink|Medium Rune|orange}}<br>Stage 5B: {{RewardIconWithLink|Prometheus Torch|orange}}
+|{{RewardIconWithLink|Mayflower|orange}}<br>{{RewardIconWithLink|Nuclear Bomb|orange}}<br>{{RewardIconWithLink|Morse's Telegraph|orange}}
+|{{RewardIconWithLink|Cross of Lorraine|orange}}<br>{{RewardIconWithLink|The Birth of Venus|orange}}<br>{{RewardIconWithLink|Silmarils|orange}}
+|{{RewardIconWithLink|Horn of Heimdall|orange}}<br>{{RewardIconWithLink|Forbidden Fruit|orange}}<br>{{RewardIconWithLink|Kekule Structure|purple}}
+| ?
+|-
+|Sept. 13 - Sept. 19 2024
+|Lottery 1: {{RewardIconWithLink|Ragnarok|orange}}<br>Lottery 2: {{RewardIconWithLink|Aesop's Fables|orange}}
+|{{RewardIconWithLink|Lucky Phalange|purple}}
+|Stage 3: {{RewardIconWithLink|Palermo Stone|orange}}<br>Stage 4: {{RewardIconWithLink|Cairo Declaration|orange}}<br>Stage 5A: {{RewardIconWithLink|Enuma Elish|orange}}<br>Stage 5B: {{RewardIconWithLink|Unispark|orange}}
+|{{RewardIconWithLink|Pandora's Box|orange}}<br>{{RewardIconWithLink|Ragnarok|orange}}<br>{{RewardIconWithLink|Buddha Finger Sarira|orange}}
+|{{RewardIconWithLink|Dream Stele|orange}}<br>{{RewardIconWithLink|Aesop's Fables|orange}}<br>{{RewardIconWithLink|R'lyeh Text|orange}}
+|{{RewardIconWithLink|Relativity Scripts|orange}}<br>{{RewardIconWithLink|Travels of Marco Polo|orange}}<br>{{RewardIconWithLink|Voltaic Cell|purple}}
+| ?
+|-
+|Oct. 04 - Oct. 10 2024
+|Lottery 1: {{RewardIconWithLink|Einstein's Brain|orange}}<br>Lottery 2: {{RewardIconWithLink|Lucy the Ape|orange}}
+|{{RewardIconWithLink|Mutated Tentacle|purple}}
+|Stage 3: {{RewardIconWithLink|Head of Sargon|orange}}<br>Stage 4: {{RewardIconWithLink|Aladin Lamp|orange}}<br>Stage 5A: {{RewardIconWithLink|Night Watch|orange}}<br>Stage 5B: {{RewardIconWithLink|Dyson Sphere|orange}}
+|{{RewardIconWithLink|3-Faced Statue|orange}}<br>{{RewardIconWithLink|Einstein's Brain|orange}}<br>{{RewardIconWithLink|DOI|orange}}
+|{{RewardIconWithLink|Kojiki|orange}}<br>{{RewardIconWithLink|Lucy the Ape|orange}}<br>{{RewardIconWithLink|Bhagavata Purana|orange}}
+|{{RewardIconWithLink|Ansidei Madonna|orange}}<br>{{RewardIconWithLink|Plato's Republic|orange}}<br>{{RewardIconWithLink|Adari 2600|purple}}
+| ?
+|-
+|Oct. 25 - Oct. 31 2024
+|Lottery 1: {{RewardIconWithLink|Nobel's Will|orange}}<br>Lottery 2: {{RewardIconWithLink|The Works of Nature|orange}}
+|{{RewardIconWithLink|Unidentified Kidney|purple}}
+|Stage 3: {{RewardIconWithLink|Wealth Magazine Vol.1|orange}}<br>Stage 4: {{RewardIconWithLink|Watt Steam Engine|orange}}<br>Stage 5A: {{RewardIconWithLink|Shahnameh|orange}}<br>Stage 5B: {{RewardIconWithLink|Voyager 1|orange}}
+|{{RewardIconWithLink|Golden Chariot|orange}}<br>{{RewardIconWithLink|Nobel's Will|orange}}<br>{{RewardIconWithLink|The Song of Roland|orange}}
+|{{RewardIconWithLink|Zircon of Jack Hills|orange}}<br>{{RewardIconWithLink|The Works of Nature|orange}}<br>{{RewardIconWithLink|Rutherford Model|orange}}
+|{{RewardIconWithLink|Da Vinci's Notes|orange}}<br>{{RewardIconWithLink|Era Magazine Vol.1|orange}}<br>{{RewardIconWithLink|Solar Sail|purple}}
+|{{RewardIconWithText|W-Tad}}
+|-
+|Nov. 15 - Nov. 21 2024
+|Lottery 1: {{RewardIconWithLink|Faust|orange}}<br>Lottery 2: {{RewardIconWithLink|Tao Te Ching|orange}}
+|{{RewardIconWithLink|Siphoning Mouthparts|purple}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack IV|orange}}<br>Stage 4: {{RewardIconWithLink|Lottery SS Choice Pack I|orange}}<br>Stage 5A: {{RewardIconWithLink|Vedas|orange}}<br>Stage 5B: {{RewardIconWithLink|Horn of Heimdall|orange}}
+|{{RewardIconWithLink|The School of Athens|orange}}<br>{{RewardIconWithLink|Faust|orange}}<br>{{RewardIconWithLink|Buddha's Skull Sarira|orange}}
+|{{RewardIconWithLink|Swimming Reindeer|orange}}<br>{{RewardIconWithLink|Tao Te Ching|orange}}<br>{{RewardIconWithLink|Bhagavata Purana|orange}}
+|{{RewardIconWithLink|Arthur's Roundtable|orange}}<br>{{RewardIconWithLink|Fu Hao Scripts|orange}}<br>{{RewardIconWithLink|Haulers on Volga|purple}}
+| ?
+|-
+|Dec. 6 - Dec. 12 2024
+|Lottery 1: {{RewardIconWithLink|1001 Nights|orange}}<br>Lottery 2: {{RewardIconWithLink|Beowulf|orange}}
+|{{RewardIconWithLink|Infrared Eye|purple}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack II|orange}}<br>Stage 4: {{RewardIconWithLink|Lottery SS Choice Pack II|orange}}<br>Stage 5A: {{RewardIconWithLink|Aesop's Fables|orange}}<br>Stage 5B: {{RewardIconWithLink|Quantum Radio|orange}}
+|{{RewardIconWithLink|The Thinker|orange}}<br>{{RewardIconWithLink|1001 Nights|orange}}<br>{{RewardIconWithLink|Eye of Akamoddo|orange}}
+|{{RewardIconWithLink|SC Energy Storage Unit|orange}}<br>{{RewardIconWithLink|Beowulf|orange}}<br>{{RewardIconWithLink|Stockholm Declaration|orange}}
+|{{RewardIconWithLink|Lyre of Hermes|orange}}<br>{{RewardIconWithLink|Panther Brooch|orange}}<br>{{RewardIconWithLink|Burgundian Laws|purple}}
+| ?
+|-
+|Dec. 27 2024 - Jan. 2 2025
+|Lottery 1: {{RewardIconWithLink|Phoenix Feather|orange}}<br>Lottery 2: {{RewardIconWithLink|Ode to Joy|orange}}
+|{{RewardIconWithLink|Lucky Phalange|purple}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack V|orange}}<br>Stage 4: {{RewardIconWithLink|Lottery SS Choice Pack III|orange}}<br>Stage 5A: {{RewardIconWithLink|Kola Drilling Rig|orange}}<br>Stage 5B: {{RewardIconWithLink|Encyclopedia|orange}}
+|{{RewardIconWithLink|Morse's Telegraph|orange}}<br>{{RewardIconWithLink|Phoenix Feather|orange}}<br>{{RewardIconWithLink|Golden Chariot|orange}}
+|{{RewardIconWithLink|SC Energy Storage Unit|orange}}<br>{{RewardIconWithLink|Ode to Joy|orange}}<br>{{RewardIconWithLink|R'lyeh Text|orange}}
+|{{RewardIconWithLink|The Art of War|orange}}<br>{{RewardIconWithLink|Hammurabi Code|orange}}<br>{{RewardIconWithLink|Killing Stone|purple}}
+| ?
+|}
+
+=== 2025 ===
+{|class= "wikitable mw-collapsible mw-collapsed"
+!Week
+!Giga Ball<br>400 Lottery Points
+!Organ Stage 2
+!Balloon Battle Relics
+!Relic Rapture<br>Lotto Machine No. 1
+!Relic Rapture<br>Lotto Machine No. 2
+!Limited Bargain Relics
+!Giga Ball / RNG Skill ???
+|-
+|Jan. 17 - Jan. 23 2025
+|Lottery 1: {{RewardIconWithLink|Prometheus Torch|orange}}<br>Lottery 2: {{RewardIconWithLink|Statue of Isis|orange}}
+|{{RewardIconWithLink|Mutated Tentacle|purple}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack III|orange}}<br>Stage 4: {{RewardIconWithLink|Lottery SS Choice Pack IV|orange}}<br>Stage 5A: {{RewardIconWithLink|Ode to Joy|orange}}<br>Stage 5B: {{RewardIconWithLink|Houmuwu Ding|orange}}
+|{{RewardIconWithLink|Tokamak|orange}}<br>{{RewardIconWithLink|Prometheus Torch|orange}}<br>{{RewardIconWithLink|David|orange}}
+|{{RewardIconWithLink|AMS|orange}}<br>{{RewardIconWithLink|Statue of Isis|orange}}<br>{{RewardIconWithLink|Hermes & Dionysus|orange}}
+|{{RewardIconWithLink|Encyclopedia|orange}}<br>{{RewardIconWithLink|Kojiki|orange}}<br>{{RewardIconWithLink|Foucault Pendulum|purple}}
+|{{RewardIconWithText|B-Tad}}
+|-
+|Feb. 07 - Feb. 13 2025
+|Lottery 1: {{RewardIconWithLink|Double Helix DNA|orange}}<br>Lottery 2: {{RewardIconWithLink|Metchnikoff's Notes|orange}}
+|{{RewardIconWithLink|Unidentified Kidney|purple}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack I|orange}}<br>Stage 4: {{RewardIconWithLink|Lottery SS Choice Pack V|orange}}<br>Stage 5A: {{RewardIconWithLink|Holy Grail|orange}}<br>Stage 5B: {{RewardIconWithLink|Archimedes' Lever|orange}}
+|{{RewardIconWithLink|5th Element|orange}}<br>{{RewardIconWithLink|Double Helix DNA|orange}}<br>{{RewardIconWithLink|The School of Athens|orange}}
+|{{RewardIconWithLink|Zircon of Jack Hills|orange}}<br>{{RewardIconWithLink|Metchnikoff's Notes|orange}}<br>{{RewardIconWithLink|Grimmy Award|orange}}
+|{{RewardIconWithLink|Along the River|orange}}<br>{{RewardIconWithLink|Time-Travel Box|orange}}<br>{{RewardIconWithLink|The Nutcracker|purple}}
+|{{RewardIconWithText|W-Tad}}
+|-
+|Feb. 28 - Mar. 06 2025
+|Lottery 1: {{RewardIconWithLink|Pt-Cont Transistor|orange}}<br>Lottery 2: {{RewardIconWithLink|Cellular Pathology|orange}}
+|{{RewardIconWithLink|Mecha Gut|purple}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack IV|orange}}<br>Stage 4: {{RewardIconWithLink|Lottery SS Choice Pack I|orange}}<br>Stage 5A: {{RewardIconWithLink|Pearl Earring Girl|orange}}<br>Stage 5B: {{RewardIconWithLink|Lotus Chalice|orange}}
+|{{RewardIconWithLink|Proclamation 95|orange}}<br>{{RewardIconWithLink|Pt-Cont Transistor|orange}}<br>{{RewardIconWithLink|DOI|orange}}
+|{{RewardIconWithLink|Veiled Lady|orange}}<br>{{RewardIconWithLink|Cellular Pathology|orange}}<br>{{RewardIconWithLink|Silmarils|orange}}
+|{{RewardIconWithLink|Origin of Species|orange}}<br>{{RewardIconWithLink|Ruska's Microscope|orange}}<br>{{RewardIconWithLink|Cornucopia|purple}}
+|{{RewardIconWithLink|Gear Chest}}
+|-
+|Mar. 21 - Mar. 27 2025
+|Lottery 1: {{RewardIconWithLink|Africa Star|orange}}<br>Lottery 2: {{RewardIconWithLink|Mystic Mountain|orange}}
+|{{RewardIconWithLink|Demon Lord's Tailbone|purple}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack II|orange}}<br>Stage 4: {{RewardIconWithLink|Lottery SS Choice Pack II|orange}}<br>Stage 5A: {{RewardIconWithLink|Orphic Egg|orange}}<br>Stage 5B: {{RewardIconWithLink|Trojan Horse|orange}}
+|{{RewardIconWithLink|The Song of Roland|orange}}<br>{{RewardIconWithLink|Africa Star|orange}}<br>{{RewardIconWithLink|Mayflower|orange}}
+|{{RewardIconWithLink|Swimming Reindeer|orange}}<br>{{RewardIconWithLink|Mystic Mountain|orange}}<br>{{RewardIconWithLink|Rutherford Model|orange}}
+|{{RewardIconWithLink|The Works of Nature|orange}}<br>{{RewardIconWithLink|Morse's Telegraph|orange}}<br>{{RewardIconWithLink|The Moon Puzzle|purple}}
+|{{RewardIconWithLink|Master Alchemy Case|orange}}
+|}
+
+== [[Alchemy_Furnace#Weekly_Wishing_Event|Wishing Week]] ==
+=== 2023 ===
+{|class= "wikitable mw-collapsible mw-collapsed"
+!Date
+!Wish Magic<br>80 Wish Points
+!Ash Battle
+!12K W-tad Pack Organ 
+|-
+|Jul. 28 - Aug. 03 2023
+|
+|Stage 3: {{RewardIconWithLink|The Last Supper|orange}}<br>Stage 5A: {{RewardIconWithLink|Divine Comedy|orange}}<br>Stage 5B: {{RewardIconWithLink|Medal of Honor|orange}}
+|
+|-
+|Aug. 18 - Aug. 24 2023
+|{{RewardIconWithLink|Particle Collider|orange}}
+|Stage 3: {{RewardIconWithLink|Ark of Covenant|orange}}<br>Stage 5A: {{RewardIconWithLink|Voyager 1|orange}}<br>Stage 5B: {{RewardIconWithLink|Phoenix Feather|orange}}
+|{{RewardIconWithLink|Death Claw|orange}}
+|-
+|Sept. 08 - Sept. 14 2023
+|{{RewardIconWithLink|Athena Statue|orange}}
+|Stage 3: {{RewardIconWithLink|Leaf of Yggdrasil|orange}}<br>Stage 5A: {{RewardIconWithLink|Artificial Blackhole|orange}}<br>Stage 5B: {{RewardIconWithLink|Prometheus Torch|orange}}
+|{{RewardIconWithLink|Strength Crystal|orange}}
+|-
+|Sept. 29 - Oct. 05 2023
+|{{RewardIconWithLink|Houmuwu Ding|orange}}
+|Stage 3: {{RewardIconWithLink|Paradise Lost|orange}}<br>Stage 5A: {{RewardIconWithLink|Voyager 1|orange}}<br>Stage 5B: {{RewardIconWithLink|Origin of Species|orange}}
+|{{RewardIconWithLink|Savant Eye|orange}}
+|-
+|Oct 20. - Oct. 26 2023
+|{{RewardIconWithLink|Africa Star|orange}}
+|Stage 3: {{RewardIconWithLink|Tetromino|orange}}<br>Stage 5A: {{RewardIconWithLink|Divine Comedy|orange}}<br>Stage 5B: {{RewardIconWithLink|Medal of Honor|orange}}
+|{{RewardIconWithLink|Demon Skull|orange}}
+|-
+|Nov. 10 - Nov. 16 2023
+|{{RewardIconWithLink|Maya Slate|orange}}
+|Stage 3: {{RewardIconWithLink|Koh-i-Noor Diamond|orange}}<br>Stage 5A: {{RewardIconWithLink|Phoenix Feather|orange}}<br>Stage 5B: {{RewardIconWithLink|Portrait of Peter I|orange}}
+|{{RewardIconWithLink|Surya's Heart|orange}}
+|-
+|Dec. 01 - Dec. 07 2023
+|{{RewardIconWithLink|On War|orange}}
+|Stage 3: {{RewardIconWithLink|Tutankhamun Mask|orange}}<br>Stage 5A: {{RewardIconWithLink|Soul Stone|orange}}<br>Stage 5B: {{RewardIconWithLink|Particle Collider|orange}}
+|{{RewardIconWithLink|Death Claw|orange}}
+|-
+|Dec. 22 - Dec. 28 2023
+|{{RewardIconWithLink|1001 Nights|orange}}
+|Stage 3: {{RewardIconWithLink|Golden Scarab|orange}}<br>Stage 5A: {{RewardIconWithLink|Lyre of Hermes|orange}}<br>Stage 5B: {{RewardIconWithLink|Golden Wheat|orange}}
+|{{RewardIconWithLink|Strength Crystal|orange}}
+|}
+
+=== 2024 ===
+{|class= "wikitable mw-collapsible mw-collapsed"
+!Date
+!Wish Magic<br>80 Wish Points
+!Ash Battle
+!12K W-tad Pack Organ 
+|-
+|Jan. 12 - Jan. 18 2024
+|{{RewardIconWithLink|Somersault Cloud|orange}}
+|Stage 3: {{RewardIconWithLink|Tetromino|orange}}<br>Stage 5A: {{RewardIconWithLink|The Analects|orange}}<br>Stage 5B: {{RewardIconWithLink|Athena Statue|orange}}
+|{{RewardIconWithLink|Savant Eye|orange}}
+|-
+|Feb. 02 - Feb. 08 2024
+|{{RewardIconWithLink|Nobel's Will|orange}}
+|Stage 3: {{RewardIconWithLink|The Last Supper|orange}}<br>Stage 5A: {{RewardIconWithLink|Ansidei Madonna|orange}}<br>Stage 5B: {{RewardIconWithLink|Archimedes' Lever|orange}}
+|{{RewardIconWithLink|Demon Skull|orange}}
+|-
+|Feb. 23 - Feb. 29 2024
+|{{RewardIconWithLink|Einstein's Brain|orange}}
+|Stage 3: {{RewardIconWithLink|Boltzmann Brain|orange}}<br>Stage 5A: {{RewardIconWithLink|Lotus Chalice|orange}}<br>Stage 5B: {{RewardIconWithLink|Dyson Sphere|orange}}
+|{{RewardIconWithLink|Surya's Heart|orange}}
+|-
+|Mar. 15 - Mar. 21 2024
+|{{RewardIconWithLink|Maya Slate|orange}}
+|Stage 3: {{RewardIconWithLink|Burgundian Laws|purple}}<br>Stage 5A: {{RewardIconWithLink|Jiuzhang|orange}}<br>Stage 5B: {{RewardIconWithLink|Quantum Radio|orange}}
+|{{RewardIconWithLink|Death Claw|orange}}
+|-
+|Apr. 05 - Apr. 11 2024
+|{{RewardIconWithLink|Lotus Chalice|orange}}
+|Stage 3: {{RewardIconWithLink|Notre Dame Bell|orange}}<br>Stage 5A: {{RewardIconWithLink|Black Body|orange}}<br>Stage 5B: {{RewardIconWithLink|Pt-Cont Transistor|orange}}
+|{{RewardIconWithLink|Strength Crystal|orange}}
+|-
+|Apr. 26 - May 02 2024
+|{{RewardIconWithLink|Lucy the Ape|orange}}
+|Stage 3: {{RewardIconWithLink|The Moon Puzzle|purple}}<br>Stage 5A: {{RewardIconWithLink|Antarctic Treaty|orange}}<br>Stage 5B: {{RewardIconWithLink|Artificial Blackhole|orange}}
+|{{RewardIconWithLink|Savant Eye|orange}}
+|-
+|May 17 - May 23 2024
+|{{RewardIconWithLink|Golden Wheat|orange}}
+|Stage 3: {{RewardIconWithLink|Tutankhamun Mask|orange}}<br>Stage 5A: {{RewardIconWithLink|The Birth of Venus|orange}}<br>Stage 5B: {{RewardIconWithLink|Archimedes' Lever|orange}}
+|{{RewardIconWithLink|Demon Skull|orange}}
+|-
+|Jun. 07 - Jun. 13 2024
+|{{RewardIconWithLink|Gilded Buddha|orange}}
+|Stage 3: {{RewardIconWithLink|Foucault Pendulum|purple}}<br>Stage 5A: {{RewardIconWithLink|Five Oxen|orange}}<br>Stage 5B: {{RewardIconWithLink|Horn of Heimdall|orange}}
+|{{RewardIconWithLink|Surya's Heart|orange}}
+|-
+|Jun. 28 - Jul. 04 2024
+|{{RewardIconWithLink|Da Vinci's Notes|orange}}
+|Stage 3: {{RewardIconWithLink|The Last Supper|orange}}<br>Stage 5A: {{RewardIconWithLink|Atlantis Crystal|orange}}<br>Stage 5B: {{RewardIconWithLink|Creation of Adam|orange}}
+|{{RewardIconWithLink|Death Claw|orange}}
+|-
+|Jul. 19 - Jul. 25 2024
+|{{RewardIconWithLink|Ashoka Tower|orange}}
+|Stage 3: {{RewardIconWithLink|Isabella|purple}}<br>Stage 5A: {{RewardIconWithLink|Terracotta Warrior|orange}}<br>Stage 5B: {{RewardIconWithLink|Nobel's Will|orange}}
+|{{RewardIconWithLink|Strength Crystal|orange}}
+|-
+|Aug. 09 - Aug. 15 2024
+|{{RewardIconWithLink|1001 Nights|orange}}
+|Stage 3: {{RewardIconWithLink|Imperial Jade|orange}}<br>Stage 5A: {{RewardIconWithLink|Beowulf|orange}}<br>Stage 5B: {{RewardIconWithLink|Athena Statue|orange}}
+|{{RewardIconWithLink|Savant Eye|orange}}
+|-
+|Aug. 30 - Sept. 05 2024
+|{{RewardIconWithLink|Wish Pack I|orange}}
+|Stage 3: {{RewardIconWithLink|No Longer Human|purple}}<br>Stage 5A: {{RewardIconWithLink|Orphic Egg|orange}}<br>Stage 5B: {{RewardIconWithLink|Trojan Horse|orange}}
+|{{RewardIconWithLink|Demon Skull|orange}}
+|-
+|Sept. 20 - Sept. 26 2024
+|{{RewardIconWithLink|Wish Pack II|orange}}
+|Stage 3: {{RewardIconWithLink|Element R.|orange}}<br>Stage 5A: {{RewardIconWithLink|AH602|orange}}<br>Stage 5B: {{RewardIconWithLink|Double Helix DNA|orange}}
+|{{RewardIconWithLink|Surya's Heart|orange}}
+|-
+|Oct. 11 - Oct. 17 2024
+|{{RewardIconWithLink|Wish Pack III|orange}}
+|Stage 3: {{RewardIconWithLink|Control Unit|purple}}<br>Stage 5A: {{RewardIconWithLink|Holy Grail|orange}}<br>Stage 5B: {{RewardIconWithLink|Divine Comedy|orange}}
+|{{RewardIconWithLink|Death Claw|orange}}
+|-
+|Nov. 01 - Nov. 07 2024
+|{{RewardIconWithLink|Wish Pack IV|orange}}
+|Stage 3: {{RewardIconWithLink|Tetromino|orange}}<br>Stage 5A: {{RewardIconWithLink|Portrait of Peter I|orange}}<br>Stage 5B: {{RewardIconWithLink|Soul Stone|orange}}
+|{{RewardIconWithLink|Strength Crystal|orange}}
+|-
+|Nov. 22 - Nov. 28 2024
+|{{RewardIconWithLink|Wish Pack V|orange}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack V|orange}}<br>Stage 5A: {{RewardIconWithLink|Nightingale Medal|orange}}<br>Stage 5B: {{RewardIconWithLink|Lucy the Ape|orange}}
+|{{RewardIconWithLink|Savant Eye|orange}}
+|-
+|Dec. 13 - Dec. 19 2024
+|{{RewardIconWithLink|Wish Pack I|orange}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack III|orange}}<br>Stage 5A: {{RewardIconWithLink|The Silver Key|orange}}<br>Stage 5B: {{RewardIconWithLink|Ragnarok|orange}}
+|{{RewardIconWithLink|Demon Skull|orange}}
+|}
+
+=== 2025 ===
+{|class= "wikitable mw-collapsible mw-collapsed"
+!Date
+!Wish Magic<br>80 Wish Points
+!Ash Battle
+!12K W-tad Pack Organ 
+|-
+|Jan. 03 - Jan. 09 2025
+|{{RewardIconWithLink|Wish Pack II|orange}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack I|orange}}<br>Stage 5A: {{RewardIconWithLink|Night Watch|orange}}<br>Stage 5B: {{RewardIconWithLink|Soul Stone|orange}}
+|{{RewardIconWithLink|Surya's Heart|orange}}
+|-
+|Jan. 24 - Jan. 30 2025
+|{{RewardIconWithLink|Wish Pack III|orange}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack IV|orange}}<br>Stage 5A: {{RewardIconWithLink|Deep Navy Computer|orange}}<br>Stage 5B: {{RewardIconWithLink|Dyson Sphere|orange}}
+|{{RewardIconWithLink|Death Claw|orange}}
+|-
+|Feb. 14 - Feb. 20 2025
+|{{RewardIconWithLink|Wish Pack IV|orange}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack II|orange}}<br>Stage 5A: {{RewardIconWithLink|Two-headed Serpent|orange}}<br>Stage 5B: {{RewardIconWithLink|Gaea's Hand|orange}}
+|{{RewardIconWithLink|Strength Crystal|orange}}
+|-
+|Mar. 07 - Mar. 13 2025
+|{{RewardIconWithLink|Wish Pack V|orange}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack V|orange}}<br>Stage 5A: {{RewardIconWithLink|Phaistos Disc|orange}}<br>Stage 5B: {{RewardIconWithLink|Sistine Madonna|orange}}
+|{{RewardIconWithLink|Savant Eye|orange}}
+|-
+|Mar. 28 - Apr. 03 2025
+|{{RewardIconWithLink|Wish Pack I|orange}}
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack III|orange}}<br>Stage 5A: {{RewardIconWithLink|Crime and Punishment|orange}}<br>Stage 5B: {{RewardIconWithLink|Einstein's Brain|orange}}
+|{{RewardIconWithLink|Demon Skull|orange}}
+|}
+
+== [[Altar#Weekly_Offering_Event|Offering Week]] ==
+=== 2023 ===
+{|class= "wikitable mw-collapsible mw-collapsed"
+!Date
+!Crystal Boom Relics
+!Altar Miracle Relic
+|-
+|Aug. 04 - Aug. 10 2023
+|Stage 3: {{RewardIconWithLink|Imperial Jade|orange}}<br>Stage 4: {{RewardIconWithLink|Agamemnon Mask|orange}}<br>Stage 5A: {{RewardIconWithLink|Gaea's Hand|orange}}<br>Stage 5B: {{RewardIconWithLink|Ragnarok|orange}}
+|{{RewardIconWithLink|Epic of Gilgamesh|orange}}
+|-
+|Aug. 25 - Aug. 31 2023
+|Stage 3: {{RewardIconWithLink|Golden Scarab|orange}}<br>Stage 4: {{RewardIconWithLink|Cuneiform Tablet|orange}}<br>Stage 5A: {{RewardIconWithLink|Africa Star|orange}}<br>Stage 5B: {{RewardIconWithLink|Athena Statue|orange}}
+|{{RewardIconWithLink|Agamemnon Mask|orange}}
+|-
+|Sept. 15 - Sept. 21 2023
+|Stage 3: {{RewardIconWithLink|Boltzmann Brain|orange}}<br>Stage 4: {{RewardIconWithLink|Causality|orange}}<br>Stage 5A: {{RewardIconWithLink|Maya Slate|orange}}<br>Stage 5B" {{RewardIconWithLink|Golden Wheat|orange}}
+|{{RewardIconWithLink|Epic of Gilgamesh|orange}}
+|-
+|Oct. 06 - Oct. 12 2023
+|Stage 3: {{RewardIconWithLink|Notre Dame Bell|orange}}<br>Stage 4: {{RewardIconWithLink|The School of Athens|orange}}<br>Stage 5A: {{RewardIconWithLink|Africa Star|orange}}<br>Stage 5B: {{RewardIconWithLink|Gaea's Hand|orange}}
+|{{RewardIconWithLink|Golden Chariot|orange}}
+|-
+|Oct. 27 - Nov. 02 2023
+|Stage 3: {{RewardIconWithLink|Mona Lisa|orange}}<br>Stage 4: {{RewardIconWithLink|Travels of Marco Polo|orange}}<br>Stage 5A: {{RewardIconWithLink|Ragnarok|orange}}<br>Stage 5B: {{RewardIconWithLink|Athena Statue|orange}}
+|{{RewardIconWithLink|Forbidden Fruit|orange}}
+|-
+|Nov. 17 - Nov. 23 2023
+|Stage 3: {{RewardIconWithLink|Ark of Covenant|orange}}<br>Stage 4: {{RewardIconWithLink|Das Kapital|orange}}<br>Stage 5A: {{RewardIconWithLink|Athena Statue|orange}}<br>Stage 5B: {{RewardIconWithLink|Deep Navy Computer|orange}}
+|{{RewardIconWithLink|Babbage Engine|orange}}
+|-
+|Dec. 08 - Dec. 14 2023
+|Stage 3: {{RewardIconWithLink|Leaf of Yggdrasil|orange}}<br>Stage 4: {{RewardIconWithLink|Aladdin Lamp|orange}}<br>Stage 5A: {{RewardIconWithLink|Horn of Heimdall|orange}}<br>Stage 5B: {{RewardIconWithLink|Relativity Scripts|orange}}
+|{{RewardIconWithLink|The Song of Roland|orange}}
+|-
+|Dec. 29 2023 - Jan. 04 2024
+|Stage 3: {{RewardIconWithLink|Koh-i-Noor Diamond|orange}}<br>Stage 4: {{RewardIconWithLink|Babbage Engine|orange}}<br>Stage 5A: {{RewardIconWithLink|Artificial Blackhole|orange}}<br>Stage 5B: {{RewardIconWithLink|Medal of Honor|orange}}
+|{{RewardIconWithLink|SDI|orange}}
+|}
+
+=== 2024 ===
+{|class= "wikitable mw-collapsible mw-collapsed"
+!Date
+!Crystal Boom Relics
+!Altar Miracle Relic
+|-
+|Jan. 19 - Jan. 25 2024
+|Stage 3: {{RewardIconWithLink|Mona Lisa|orange}}<br>Stage 4: {{RewardIconWithLink|Era Magazine Vol. 1|orange}}<br>Stage 5A: {{RewardIconWithLink|Africa Star|orange}}<br>Stage 5B: {{RewardIconWithLink|Origin of Species|orange}}
+|{{RewardIconWithLink|Buddha's Skull Sarira|orange}}
+|-
+|Feb. 09 - Feb. 15 2024
+|Stage 3: {{RewardIconWithLink|Imperial Jade|orange}}<br>Stage 4: {{RewardIconWithLink|Julian Calendar|orange}}<br>Stage 5A: {{RewardIconWithLink|Portrait of Peter I|orange}}<br>Stage 5B: {{RewardIconWithLink|Phoenix Feather|orange}}
+|{{RewardIconWithLink|Pandora's Box|orange}}
+|-
+|Mar. 01 - Mar. 07 2024
+|Stage 3: {{RewardIconWithLink|Element R.|orange}}<br>Stage 4: {{RewardIconWithLink|Travels of Marco Polo|orange}}<br>Stage 5A: {{RewardIconWithLink|Prometheus Torch|orange}}<br>Stage 5B: {{RewardIconWithLink|Voyager 1|orange}}
+|{{RewardIconWithLink|5th Element|orange}}
+|-
+|Mar. 22 - Mar. 28 2024
+|Stage 3: {{RewardIconWithLink|Lady with an Ermine|purple}}<br>Stage 4: {{RewardIconWithLink|Holy Loaves|orange}}<br>Stage 5A: {{RewardIconWithLink|Nightingale Medal|orange}}<br>Stage 5B: {{RewardIconWithLink|Divine Comedy|orange}}
+|{{RewardIconWithLink|Hermes & Dionysus|orange}}
+|-
+|Apr. 12 - Apr. 18 2024
+|Stage 3: {{RewardIconWithLink|Ark of Covenant|orange}}<br>Stage 4: {{RewardIconWithLink|Forbidden Fruit|orange}}<br>Stage 5A: {{RewardIconWithLink|Holy Grail|orange}}<br>Stage 5B: {{RewardIconWithLink|Ragnarok|orange}}
+|{{RewardIconWithLink|Stockholm Declaration|orange}}
+|-
+|May 03 - May 09 2024
+|Stage 3: {{RewardIconWithLink|Dragonfly-woman|purple}}<br>Stage 4: {{RewardIconWithLink|SDI|orange}}<br>Stage 5A: {{RewardIconWithLink|Night Watch|orange}}<br>Stage 5B: {{RewardIconWithLink|Soul Stone|orange}}
+|{{RewardIconWithLink|Buddha's Skull Sarira|orange}}
+|-
+|May 24 - May 30 2024
+|Stage 3: {{RewardIconWithLink|Golden Scarab|orange}}<br>Stage 4: {{RewardIconWithLink|R'lyeh Text|orange}}<br>Stage 5A: {{RewardIconWithLink|Deep Navy Computer|orange}}<br>Stage 5B: {{RewardIconWithLink|Dyson Sphere|orange}}
+|{{RewardIconWithLink|Tokamak|orange}}
+|-
+|Jun. 14 - Jun. 20 2024
+|Stage 3: {{RewardIconWithLink|A Tale of Two Cities|purple}}<br>Stage 4: {{RewardIconWithLink|Babbage Engine|orange}}<br>Stage 5A: {{RewardIconWithLink|Two-headed Serpent|orange}}<br>Stage 5B: {{RewardIconWithLink|Gaea's Hand|orange}}
+|{{RewardIconWithLink|Julian Calendar|orange}}
+|-
+|Jul. 05 - Jul. 11 2024
+|Stage 3: {{RewardIconWithLink|Golden Finger|orange}}<br>Stage 4: {{RewardIconWithLink|Sunflowers|orange}}<br>Stage 5A: {{RewardIconWithLink|Phaistos Disc|orange}}<br>Stage 5B: {{RewardIconWithLink|Sistine Madonna|orange}}
+|{{RewardIconWithLink|The Song of Roland|orange}}
+|-
+|Jul. 26 - Aug. 01 2024
+|Stage 3: {{RewardIconWithLink|Count of Monty Christi|purple}}<br>Stage 4: {{RewardIconWithLink|Das Kapital|orange}}<br>Stage 5A: {{RewardIconWithLink|The Silver Key|orange}}<br>Stage 5B: {{RewardIconWithLink|Relativity Scripts|orange}}
+|{{RewardIconWithLink|Epic of Gilgamesh|orange}}
+|-
+|Aug. 16 - Aug. 22 2024
+|Stage 3: {{RewardIconWithLink|Shroud of Turin|orange}}<br>Stage 4: {{RewardIconWithLink|Causality|orange}}<br>Stage 5A: {{RewardIconWithLink|The Prince|orange}}<br>Stage 5B: {{RewardIconWithLink|Voyager 1|orange}}
+|{{RewardIconWithLink|AMS|orange}}
+|-
+|Sept. 06 - Sept. 12 2024
+|Stage 3: {{RewardIconWithLink|Theogony|purple}}<br>Stage 4: {{RewardIconWithLink|Agamemnon Mask|orange}}<br>Stage 5A: {{RewardIconWithLink|Jiuzhang|orange}}<br>Stage 5B: {{RewardIconWithLink|Einstein's Brain|orange}}
+|{{RewardIconWithLink|Panther Brooch|orange}}
+|-
+|Sept. 27 - Oct. 03 2024
+|Stage 3: {{RewardIconWithLink|King Dangun Statue|orange}}<br>Stage 4: {{RewardIconWithLink|Fu Hao Scripts|orange}}<br>Stage 5A: {{RewardIconWithLink|Lawrence's Cyclotron|orange}}<br>Stage 5B: {{RewardIconWithLink|Pt-Cont Transistor|orange}}
+|{{RewardIconWithLink|Swimming Reindeer|orange}}
+|-
+|Oct. 18 - Oct. 24 2024
+|Stage 3: {{RewardIconWithLink|CAL 9000|purple}}<br>Stage 4: {{RewardIconWithLink|David|orange}}<br>Stage 5A: {{RewardIconWithLink|Capitoline Wolf|orange}}<br>Stage 5B: {{RewardIconWithLink|Sistine Madonna|orange}}
+|{{RewardIconWithLink|Ruska's Microscope|orange}}
+|-
+|Nov. 08 - Nov. 14 2024
+|Stage 3: {{RewardIconWithLink|The Tale of Genji|orange}}<br>Stage 4: {{RewardIconWithLink|5th Element|orange}}<br>Stage 5A: {{RewardIconWithLink|Oxus Treasure|orange}}<br>Stage 5B: {{RewardIconWithLink|Royal Celtic Harp|orange}}
+|{{RewardIconWithLink|Veiled Lady|orange}}
+|-
+|Nov. 29 - Dec. 5 2024
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack I|orange}}<br>Stage 4: {{RewardIconWithLink|Offering SS Choice Pack II|orange}}<br>Stage 5A: {{RewardIconWithLink|Wilford's Engine|orange}}<br>Stage 5B: {{RewardIconWithLink|Athena Statue|orange}}
+|{{RewardIconWithLink|Stockholm Declaration|orange}}
+|-
+|Dec. 20 - Dec. 26 2024
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack IV|orange}}<br>Stage 4: {{RewardIconWithLink|Offering SS Choice Pack III|orange}}<br>Stage 5A: {{RewardIconWithLink|Science Magazine Vol.1|orange}}<br>Stage 5B: {{RewardIconWithLink|Lyre of Hermes|orange}}
+|{{RewardIconWithLink|Fu Hao Scripts|orange}}
+|}
+
+=== 2025 ===
+{|class= "wikitable mw-collapsible mw-collapsed"
+!Date
+!Crystal Boom Relics
+!Altar Miracle Relic
+|-
+|Jan. 10 - Jan. 16 2025
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack II|orange}}<br>Stage 4: {{RewardIconWithLink|Offering SS Choice Pack IV|orange}}<br>Stage 5A: {{RewardIconWithLink|Lawrence's Cyclotron|orange}}<br>Stage 5B: {{RewardIconWithLink|Faust|orange}}
+|{{RewardIconWithLink|Hermes & Dionysus|orange}}
+|-
+|Jan. 31 - Feb. 06 2025
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack V|orange}}<br>Stage 4: {{RewardIconWithLink|Offering SS Choice Pack V|orange}}<br>Stage 5A: {{RewardIconWithLink|Beowulf|orange}}<br>Stage 5B: {{RewardIconWithLink|The Analects|orange}}
+|{{RewardIconWithLink|Aladdin's Lamp|orange}}
+|-
+|Feb. 21 - Feb. 27 2025
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack III|orange}}<br>Stage 4: {{RewardIconWithLink|Offering SS Choice Pack I|orange}}<br>Stage 5A: {{RewardIconWithLink|Cyrus Cylinder|orange}}<br>Stage 5B: {{RewardIconWithLink|Horn of Heimdall|orange}}
+|{{RewardIconWithLink|SC Energy Storage Unit|orange}}
+|-
+|Mar. 14 - Mar. 20 2025
+|Stage 3: {{RewardIconWithLink|S Relic Choice Pack I|orange}}<br>Stage 4: {{RewardIconWithLink|Offering SS Choice Pack II|orange}}<br>Stage 5A: {{RewardIconWithLink|Nightingale Medal|orange}}<br>Stage 5B: {{RewardIconWithLink|Relativity Scripts|orange}}
+|{{RewardIconWithLink|Das Kapital|orange}}
+|}
+
+== [[Minion_Sim#Sim_Shop|Minion Sim Shop Weekly Fragments]] ==
+=== 2024 ===
+{|class= "wikitable mw-collapsible mw-collapsed"
+!Date
+!6k Fragments 1
+!6k Fragments 2
+|-
+|Mar. 29 - Apr. 04 2024
+|{{RewardIconWithText|Angel Investor Musk|orange|50}}
+|{{RewardIconWithText|Dalio the Hedge Expert|orange|50}}
+|-
+|Apr. 05 - Apr. 11 2024
+|{{RewardIconWithText|Chaser|orange|50}}
+|{{RewardIconWithText|Cold Blood|orange|50}}
+|-
+|Apr. 12 - Apr. 18 2024
+|{{RewardIconWithText|Chief General Witte|orange|50}}
+|{{RewardIconWithText|Sergeant Jurgen|orange|50}}
+|-
+|Apr. 19 - Apr. 25 2024
+|{{RewardIconWithText|Politician Kenshin|orange|50}}
+|{{RewardIconWithText|Samurai Gen. Kiyomasa|orange|50}}
+|-
+|Apr. 26 - May 02 2024
+|{{RewardIconWithText|North Prophet Merlin|orange|50}}
+|{{RewardIconWithText|Spiritualist|orange|50}}
+|-
+|May 03 - May 09 2024
+|{{RewardIconWithText|Finance Expert John|orange|50}}
+|{{RewardIconWithText|Michael the Big Short|orange|50}}
+|-
+|May 10 - May 16 2024
+|{{RewardIconWithText|Heartless|orange|50}}
+|{{RewardIconWithText|Iron Fist|orange|50}}
+|-
+|May 17 - May 23 2024
+|{{RewardIconWithText|Logistics Officer Uman|orange|50}}
+|{{RewardIconWithText|Military Scientist|orange|50}}
+|-
+|May 24 - May 30 2024
+|{{RewardIconWithText|Lady Nohime|orange|50}}
+|{{RewardIconWithText|Shinpan Ujizane|orange|50}}
+|-
+|May 31 - Jun. 06 2024
+|{{RewardIconWithText|Black Magic Professor|orange|50}}
+|{{RewardIconWithText|Magic Minister|orange|50}}
+|-
+|Jun. 07 - Jun. 13 2024
+|{{RewardIconWithText|Angel Investor Musk|orange|50}}
+|{{RewardIconWithText|Dalio the Hedge Expert|orange|50}}
+|-
+|Jun. 14 - Jun. 20 2024
+|{{RewardIconWithText|Chaser|orange|50}}
+|{{RewardIconWithText|Cold Blood|orange|50}}
+|-
+|Jun. 21 - Jun. 27 2024
+|{{RewardIconWithText|Chief General Witte|orange|50}}
+|{{RewardIconWithText|Sergeant Jurgen|orange|50}}
+|-
+|Jun. 28 - Jul. 04 2024
+|{{RewardIconWithText|Fudai Keiji|orange|50}}
+|{{RewardIconWithText|Grand Elder Naomasa|orange|50}}
+|-
+|Jul. 05 - Jul. 11 2024
+|{{RewardIconWithText|Bard Dandelion|orange|50}}
+|{{RewardIconWithText|Sleeping Witch|orange|50}}
+|-
+|Jul. 12 - Jul. 18 2024
+|{{RewardIconWithText|Container Manager|orange|50}}
+|{{RewardIconWithText|Real Estate Manager|orange|50}}
+|-
+|Jul. 19 - Jul. 25 2024
+|{{RewardIconWithText|Broken World|orange|50}}
+|{{RewardIconWithText|Precise Shot|orange|50}}
+|-
+|Jul. 26 - Aug. 01 2024
+|{{RewardIconWithText|Blade SWAT Team|orange|50}}
+|{{RewardIconWithText|Chief's Guard|orange|50}}
+|-
+|Aug. 02 - Aug. 08 2024
+|{{RewardIconWithText|Iga Leader Hanzo|orange|50}}
+|{{RewardIconWithText|Kendo Master Jubei|orange|50}}
+|-
+|Aug. 09 - Aug. 15 2024
+|{{RewardIconWithText|Alchemist|orange|50}}
+|{{RewardIconWithText|Soulwalker|orange|50}}
+|-
+|Aug. 16 - Aug. 22 2024
+|{{RewardIconWithText|D P the Chem Giant|orange|50}}
+|{{RewardIconWithText|Media Giant|orange|50}}
+|-
+|Aug. 23 - Aug. 29 2024
+|{{RewardIconWithText|Cult Leader|orange|50}}
+|{{RewardIconWithText|Demonic Swordsman|orange|50}}
+|-
+|Aug. 30 - Sept. 05 2024
+|{{RewardIconWithText|Engineer CDR Reinhardt|orange|50}}
+|{{RewardIconWithText|Marshal Halder|orange|50}}
+|-
+|Sept. 06 - Sept. 12 2024
+|{{RewardIconWithText|Masamune Oshu Kanrei|orange|50}}
+|{{RewardIconWithText|Oshu Counselor Hanbei|orange|50}}
+|-
+|Sept. 13 - Sept. 19 2024
+|{{RewardIconWithText|Dolph the Ice Blade|orange|50}}
+|{{RewardIconWithText|Ritual of Sea Creature|orange|50}}
+|-
+|Sept. 20 - Sept. 26 2024
+|{{RewardIconWithText|Night King|orange|50}}
+|{{RewardIconWithText|Steel King|orange|50}}
+|-
+|Sept. 27 - Oct. 03 2024
+|{{RewardIconWithText|Greenwood Hall Leader|orange|50}}
+|{{RewardIconWithText|Head of Dharma Academy|orange|50}}
+|-
+|Oct. 04 - Oct. 10 2024
+|{{RewardIconWithText|Intel. Director Sorge|orange|50}}
+|{{RewardIconWithText|Mech Captain Schaul|orange|50}}
+|-
+|Oct. 11 - Oct. 17 2024
+|{{RewardIconWithText|Kosa the Sohei CDR|orange|50}}
+|{{RewardIconWithText|Witch-elect Osomatsu|orange|50}}
+|-
+|Oct. 18 - Oct. 24 2024
+|{{RewardIconWithText|Battle Mage|orange|50}}
+|{{RewardIconWithText|Pres of Wiz Council|orange|50}}
+|-
+|Oct. 25 - Oct. 31 2024
+|{{RewardIconWithText|Retail Giant|orange|50}}
+|{{RewardIconWithText|Tech Firm Founder|orange|50}}
+|-
+|Nov. 01 - Nov. 07 2024
+|{{RewardIconWithText|Five Sects Chief|orange|50}}
+|{{RewardIconWithText|The Great Three of KL|orange|50}}
+|-
+|Nov. 08 - Nov. 14 2024
+|{{RewardIconWithText|Intel. Director Sorge|orange|50}}
+|{{RewardIconWithText|Mech Captain Schaul|orange|50}}
+|-
+|Nov. 15 - Nov. 21 2024
+|{{RewardIconWithText|Kosa the Sohei CDR|orange|50}}
+|{{RewardIconWithText|Witch-elect Osomatsu|orange|50}}
+|-
+|Nov. 22 - Nov. 28 2024
+|{{RewardIconWithText|Battle Mage|orange|50}}
+|{{RewardIconWithText|Pres of Wiz Council|orange|50}}
+|-
+|Nov. 29 - Dec. 5 2024
+|{{RewardIconWithText|Retail Giant|orange|50}}
+|{{RewardIconWithText|Tech Firm Founder|orange|50}}
+|-
+|Dec. 06 - Dec. 12 2024
+|{{RewardIconWithText|Five Sects Chief|orange|50}}
+|{{RewardIconWithText|The Great Three of KL|orange|50}}
+|-
+|Dec. 13 - Dec. 19 2024
+|{{RewardIconWithText|Engineer CDR Reinhardt|orange|50}}
+|{{RewardIconWithText|Marshal Halder|orange|50}}
+|-
+|Dec. 20 - Dec. 26 2024
+|{{RewardIconWithText|Masamune Oshu Kanrei|orange|50}}
+|{{RewardIconWithText|Oshu Counselor Hanbei|orange|50}}
+|-
+|Dec. 27 2024 - Jan. 02 2025
+|{{RewardIconWithText|Dolph the Ice Blade|orange|50}}
+|{{RewardIconWithText|Ritual of Sea Creature|orange|50}}
+|}
+
+=== 2025 ===
+{|class= "wikitable mw-collapsible mw-collapsed"
+!Date
+!6k Fragments 1
+!6k Fragments 2
+|-
+|Jan. 03 - Jan. 09 2025
+|{{RewardIconWithText|Night King|orange|50}}
+|{{RewardIconWithText|Steel King|orange|50}}
+|-
+|Jan. 10 - Jan. 16 2025
+|{{RewardIconWithText|Greenwood Hall Leader|orange|50}}
+|{{RewardIconWithText|Head of Dharma Academy|orange|50}}
+|-
+|Jan. 17 - Jan. 23 2025
+|{{RewardIconWithText|Blade SWAT Team|orange|50}}
+|{{RewardIconWithText|Chief's Guard|orange|50}}
+|-
+|Jan. 24 - Jan. 30 2025
+|{{RewardIconWithText|Iga Leader Hanzo|orange|50}}
+|{{RewardIconWithText|Kendo Master Jubei|orange|50}}
+|-
+|Jan. 31 - Feb. 06 2025
+|{{RewardIconWithText|Alchemist|orange|50}}
+|{{RewardIconWithText|Soulwalker|orange|50}}
+|-
+|Feb. 07 - Feb. 13 2025
+|{{RewardIconWithText|D P the Chem Giant|orange|50}}
+|{{RewardIconWithText|Media Giant|orange|50}}
+|-
+|Feb. 14 - Feb. 20 2025
+|{{RewardIconWithText|Cult Leader|orange|50}}
+|{{RewardIconWithText|Demonic Swordsman|orange|50}}
+|-
+|Feb. 21 - Feb. 27 2025
+|{{RewardIconWithText|Priest School Director|orange|50}}
+|{{RewardIconWithText|Senator Marius|orange|50}}
+|-
+|Feb. 28 - Mar. 06 2025
+|{{RewardIconWithText|Fudai Keiji|orange|50}}
+|{{RewardIconWithText|Grand Elder Naomasa|orange|50}}
+|-
+|Mar. 07 - Mar. 13 2025
+|{{RewardIconWithText|Bard Dandelion|orange|50}}
+|{{RewardIconWithText|Sleeping Witch|orange|50}}
+|-
+|Mar. 14 - Mar. 20 2025
+|{{RewardIconWithText|Container Manager|orange|50}}
+|{{RewardIconWithText|Real Estate Manager|orange|50}}
+|-
+|Mar. 21 - Mar. 27 2025
+|{{RewardIconWithText|Broken World|orange|50}}
+|{{RewardIconWithText|Precise Shot|orange|50}}
+|-
+|Mar. 28 - Apr. 03 2025
+|{{RewardIconWithText|Logistics Officer Uman|orange|50}}
+|{{RewardIconWithText|Military Scientist|orange|50}}
+|-
+|Apr. 04 - Apr. 10 2025
+|{{RewardIconWithText|?|orange|50}}
+|{{RewardIconWithText|?|orange|50}}
+|-
+|Apr. 11 - Apr. 17 2025
+|{{RewardIconWithText|?|orange|50}}
+|{{RewardIconWithText|?|orange|50}}
+|}
+
+== Other ==
+=== 2023 ===
+{|class="wikitable mw-collapsible mw-collapsed"
+!Date
+!Event
+!Relics
+!Robots
+!Shells
+!Other
+|-
+|Sept. 01 - Sept. 15 2023
+|[[Summer Festival]]
+|{{RewardIconWithLink|The Argo|orange}}<br>{{RewardIconWithLink|Mermaid's Tears|green}}<br>{{RewardIconWithLink|Pirate's Coin|green}}<br>{{RewardIconWithLink|Summer Album|green}}
+| -
+| -
+| -
+|-
+|Sept. 29 - Oct. 12 2023
+|[[EDM Festival]]
+|{{RewardIconWithLink|ANS Synthesizer|orange}}<br>{{RewardIconWithLink|Conductor's Baton|green}}<br>{{RewardIconWithLink|Limited Edition Vinyl Record|green}}<br>{{RewardIconWithLink|Tour VIP Ticket|green}}
+| -
+| -
+| -
+|-
+|Oct. 27 - Nov. 09 2023
+|[[Fantasy Tour]]
+|{{RewardIconWithLink|Medium Rune|orange}}<br>{{RewardIconWithLink|Amusement Park Master|green}}<br>{{RewardIconWithLink|VIP Wristband|green}}<br>{{RewardIconWithLink|Witch's Sugar Jar|green}}
+|{{RewardIconWithLink|Happy Train|orange|Robots}}<br>{{RewardIconWithLink|Tin Man|orange|Robots}}
+|{{RewardIconWithLink|Witch's Pot|purple}}
+| -
+|-
+|Nov. 17 - Nov. 23 2023
+|[[T-Day Feast]]
+|
+'''Choice Of'''
+* {{RewardIconWithLink|Archimedes' Lever|orange}}
+* {{RewardIconWithLink|Golden Wheat|orange}}
+* {{RewardIconWithLink|Lotus Chalice|orange}}
+* {{RewardIconWithLink|Medal of Honor|orange}}
+* {{RewardIconWithLink|Phoenix Feather|orange}}
+| -
+|{{RewardIconWithLink|Handmade Steamed Buns|purple}}
+| -
+|-
+|Dec. 22 2023 - Jan. 05 2024
+|[[Snowy Day]]
+|{{RewardIconWithLink|1st Winter Olympics Badge|orange}}<br>{{RewardIconWithLink|Resort Postcard|green}}<br>{{RewardIconWithLink|Snow House Model|green}}
+| -
+| -
+|{{RewardIconWithLink|Brave Merman|black|Home Decoration}} (Home Decoration)
+|}
+
+=== 2024 ===
+{|class="wikitable mw-collapsible mw-collapsed"
+!Date
+!Event
+!Relics
+!Robots
+!Shells
+!Other
+|-
+|Jan. 26 - Feb. 08 2024
+|[[Little Red Riding Hood Event]]
+|{{RewardIconWithLink|Little Red Riding Hood|orange}}
+| -
+|{{RewardIconWithLink|Yesteryear Mirage|purple}}
+| -
+|-
+|Mar. 22 - Apr. 04 2024
+|[[Arbor Day]]
+|{{RewardIconWithLink|The Birth of Venus|orange}}
+| -
+| -
+| -
+|-
+|May 17 - May 30 2024
+|[[Golden Week]]
+|{{ImageWithLink|Ink Chrysanths|orange}}<br>{{ImageWithLink|Nuclear-Powered Mini Fan|green}}
+| -
+|{{RewardIconWithLink|Blooming Peony|purple}}
+|{{RewardIconWithText|Fire Ring|orange}} ([[Red Doe]] Decoration)<br>{{RewardIconWithLink|Balloon|purple}} ([[Red Doe]] Decoration)<br>{{RewardIconWithText|Seal|blue}} ([[Red Doe]] Decoration)<br>{{RewardIconWithLink|Iron Cage|green}} ([[Red Doe]] Decoration)<br>{{RewardIconWithLink|Space Water Bear, +280 Fragments|orange|Minion_Sim#Precious-Orange_Tactical_Logs}} ([[Minion Sim|Tactical Logs]])
+|-
+|Jun. 28 - Jul. 11 2024
+|[[Summer Fest]]
+| -
+| -
+| -
+|{{RewardIconWithLink|Ultra Shrine|black|Home Decoration}} (Home Decoration)
+|-
+|Aug. 02 - Aug. 29 2024
+|[[1st Anniversary]]
+|{{RewardIconWithLink|Golden Snail|orange}}<br>{{RewardIconWithLink|Anniversary Cake|green}}<br>{{RewardIconWithLink|We Are Family|green}}
+|{{RewardIconWithLink|Robot Guard|orange|Robots}}
+| -
+|{{RewardIconWithLink|Family Photo|black|Home Decoration}} (Home Decoration)
+|-
+|Sep. 27 - Oct. 10 2024
+|[[Venture to the Stars]]
+|{{RewardIconWithLink|Chang'e and Laurel|orange}}<br>{{RewardIconWithLink|Lunar Soil Specimen|green}}<br>{{RewardIconWithLink|Gan Shi Star Chart|green}}
+|{{RewardIconWithLink|Cupid|orange|Robots}}
+| -
+|{{RewardIconWithLink|Planet Model|green}} ([[Advisor Zhuge]] Decoration)<br>{{RewardIconWithLink|Large Carrier Rocket|black|Home Decoration}} (Home Decoration)<br>
+|-
+|Oct. 25 - Oct. 31 2024
+|[[Pumpkin Lucky Night]]
+|{{RewardIconWithLink|Halloween Choice Pack|orange}}<br>{{RewardIconWithLink|Turnip Lamp|green}}
+|{{RewardIconWithLink|Nutcracker Jack|orange|Robots}}<br>{{RewardIconWithLink|Robot Ticket|orange}}
+|{{RewardIconWithLink|Katrina Skeleton|purple}}<br>{{RewardIconWithLink|Vampire Bat|purple}}
+| -
+|-
+|Nov. 22 - Nov. 28 2024
+|[[Thanksgiving Event]]
+|{{ImageWithLink|Celestial Throne|orange}}<br>{{ImageWithLink|Horn of Abundance|green}}<br>{{ImageWithLink|Pardoned Turkey|green}}
+|{{RewardIconWithLink|Treant|orange|Robots}}
+|{{RewardIconWithLink|Festive Flower Truck|purple}}<br>{{RewardIconWithLink|Whispering Praise|purple}}
+|{{RewardIconWithText|Wine Jar|orange}} ([[Taoist Yu Ji]] Decoration)<br>{{RewardIconWithLink|Wine Stove|purple}} ([[Taoist Yu Ji]] Decoration)<br>{{RewardIconWithText|Wine Tag|blue}} ([[Taoist Yu Ji]] Decoration)<br>{{RewardIconWithLink|Wine Urn|green}} ([[Taoist Yu Ji]] Decoration)
+|-
+|Nov. 29 - Dec. 05 2024
+|[[Black Friday Lucky Week]]
+|
+|-
+|Dec. 20 2024 - Jan. 02 2025
+|[[Snowy Xmas]]
+|{{RewardIconWithLink|Bronze Longhu Cup|orange}}<br>{{RewardIconWithLink|Xmas Wreath|green}}<br>{{RewardIconWithLink|Candy Cane|green}}<br>{{RewardIconWithLink|New Year Photo|green}}
+|{{RewardIconWithLink|Xmas Elf|orange|Robots}}
+|{{RewardIconWithLink|Christmas Hat|purple}}<br>{{RewardIconWithLink|Christmas Ornaments|purple}}
+|{{RewardIconWithLink|Bank Logo|green}} ([[Ghost Zadako]] Dorm)<br>{{RewardIconWithLink|Counter|blue}} ([[Ghost Zadako]] Dorm)<br>{{RewardIconWithLink|ATM|purple}} ([[Ghost Zadako]] Dorm)<br>{{RewardIconWithLink|Savings Counter|orange}} ([[Ghost Zadako]] Dorm)<br>{{RewardIconWithLink|Monkey King, +280 Fragments|orange|Minion_Sim#Precious-Orange_Tactical_Logs}} ([[Minion Sim|Tactical Log]])
+|}
+
+=== 2025 ===
+{|class="wikitable mw-collapsible mw-collapsed"
+!Date
+!Event
+!Relics
+!Robots
+!Shells
+!Other
+|-
+|Jan. 24 - Feb. 06 2025
+|[[Super Species Bowl]]
+|{{RewardIconWithLink|SSB Trophy|orange}}<br>{{RewardIconWithLink|Kungfu Wrench|green}}<br>{{RewardIconWithLink|Snail Hero Saga|green}}<br>{{RewardIconWithLink|Supreme Member Card|green}}
+| -
+|{{RewardIconWithLink|Quaterback Helmet|purple}}
+|{{RewardIconWithText|Starfish|green}} ([[Chichikaka]] Dorm)<br>{{RewardIconWithText|Seaweed|blue}} ([[Chichikaka]] Dorm)<br>{{RewardIconWithText|Coral|purple}} ([[Chichikaka]] Dorm)<br>{{RewardIconWithText|Sea Turtle|orange}} ([[Chichikaka]] Dorm)
+|-
+|Feb. 14 - Feb. 20 2025
+|[[Snalentines Day]]
+|{{RewardIconWithLink|Love Knot|green}}<br>{{RewardIconWithLink|Text for You|green}}
+|{{RewardIconWithText|Concierge-bot|orange}}
+|{{RewardIconWithLink|107 Roses|purple}}<br>{{RewardIconWithLink|Pink Hear|purple}}
+| -
+|-
+|Mar. 14 - Mar. 27 2025 
+|[[Monkey Mirth]]
+|{{RewardIconWithLink|?|green}}
+|{{RewardIconWithText|?|orange}}
+|{{RewardIconWithLink|?|purple}}
+|{{RewardIconWithLink|?|purple}}
+|}
+
+[[Category:Events]]

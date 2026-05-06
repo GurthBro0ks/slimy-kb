@@ -1,0 +1,24 @@
+{{Missing Info|specifics=Drop rates of egg contents}}
+
+= Common Protomon Egg =
+{{RewardIconWithText|Common Protomon Egg|blue}} use to randomly get 1 Common [[Protomon]] of {{Retext|blue|blue}} quality. The drop rates are:
+* 20% {{RewardIconWithText|Clouded Leopard|blue}}
+* 20% {{RewardIconWithText|Yangzigator|blue}}
+* 20% {{RewardIconWithText|Vampire Bat|blue}}
+* 20% {{RewardIconWithText|Rattlesnake|blue}}
+* 20% {{RewardIconWithText|Reindeer|blue}}
+
+
+= Rare Protomon Egg =
+{{RewardIconWithText|Rare Protomon Egg|purple}} use to randomly get 1 Rare [[Protomon]] of {{Retext|purple|purple}} quality. The drop rates are:
+?
+
+= Epic Protomon Egg =
+{{RewardIconWithText|Epic Protomon Egg|orange}} use to randomly get 1 Epic [[Protomon]] of {{Retext|orange|orange}} quality. The drop rates are:
+?
+
+= Mythic Protomon Egg =
+{{RewardIconWithText|Mythic Protomon Egg|red}} use to randomly get 1 Epic or Mythic [[Protomon]] of {{Retext|orange|orange}} quality. The drop rates are:
+?
+
+[[Category:Reward Pack]]

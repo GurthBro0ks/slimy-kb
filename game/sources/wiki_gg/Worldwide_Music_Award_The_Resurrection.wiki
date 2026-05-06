@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=782
+|relics=Worldwide Music Award,The Resurrection
+|rank=orange
+|amount=2
+|category=self
+|description=Per 10 Protolith Chests opened, Snail ATK +7;Opened Protolith Chests: 500/500
+}}

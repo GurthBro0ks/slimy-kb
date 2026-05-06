@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Dewar Flask
+|class_id=22009
+|rank=Blue
+|affct=FAME
+|birthday=12-17
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Dec 17, 1892 AD, the world's first vacuum flask was invented by Dewar.<br>The Dewar Flask is a double-layer glass container with mercury applied to the interior wall of the two flasks. By removing the air between the two flasks, Sir Dewar was able to create a vacuum environment, which prevented heat loss through radiation, convection currents, and conduction. This allowed the temperature of the fluid in the flask to remain consistent, making it useful in laboratories, hospitals, and other settings. Later, the Dewar Flask was improved and became an early form of the vacuum cups we use today.
+|fame=44
+|art=26
+|fth=21
+|civ=29
+|tech=34
+|ss1=Per 10 Zombie Minions in battle:<br>> Troop ATK +1
+|ss2=Per 10 Zombie Minions in battle:<br>> Troop ATK +2
+|ss3=Per 10 Zombie Minions in battle:<br>> Troop ATK +3
+|ss4=Per 10 Zombie Minions in battle:<br>> Troop ATK +5
+|ss7=Per 10 Zombie Minions in battle:<br>> Troop ATK +5<br>Per 10 Zombie Minions in battle:<br>> Troop ATK +5 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Zombie Cells gained +2.5%
+}}

@@ -1,0 +1,41 @@
+{{CargoRelic
+|name=Pine Trees Screen
+|rank=AA
+|affct=ART
+|birthday=04-26
+|source=Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.36%), Yamato Treasure Maps (10%), Expert Scrolls (0.95%)
+|description=On Apr 26, 1593, Hasegawa Tohaku sorrowfully drew the Pine Trees Screen after the death of his eldest son.
+
+Hasegawa Tohaku lost his son, so he drew an ink painting to express his grief. The image is filled with mist. He presented pine leaves and the ground with heavier strokes. The pine forest on the left connects to the snow-capped mountains on the right. In the background, two pine forests are tilted towards each other. The artist cleverly used vivid strokes to create an ethereal piece that combines the essence of Chinese painting and the uniqueness of Japanese painting.
+
+[Basic Info]
+
+Material: Color on paper.<br>Era: Azuchi-Momoyama.<br>Size: 156.8X356 cm.<br>Collected by: Tokyo National Museum.
+|fame=41
+|art=67
+|fth=32
+|civ=46
+|tech=41
+|ss1=Lumber Camp upgrade Wood Cost -2%<br>Per 30 Angel Minions in battle, Troop DEF +4
+|ss2=Lumber Camp upgrade Wood Cost -3%<br>Per 30 Angel Minions in battle, Troop DEF +8
+|ss3=Lumber Camp upgrade Wood Cost -4%<br>Per 30 Angel Minions in battle, Troop DEF +12
+|ss4=Lumber Camp upgrade Wood Cost -6%<br>Per 30 Angel Minions in battle, Troop DEF +20
+|ss5=Lumber Camp upgrade wood cost -8%<br>Per 30 Angel Minions in battle, Troop DEF +28
+|ss7=Lumber Camp upgrade Wood Cost -8%<br>Per 30 Angel Minions in battle, Troop DEF +28<br>Lumber Camp upgrade Wood Cost -7% (Awakened)
+|skill1=[[File:Yamato skill II.png|50px]] Place in Yamato Museum: In Yamato Angel Cells gained +15%
+|skill2=[[File:Yamato skill II.png|50px]] Place in Yamato Museum: In Yamato, Snail RUSH +30
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:ART Relics]]
+[[Category:Purple ART Relics]]
+[[Category:Lumber Camp Upgrade Cost Reduction]]
+[[Category:Angel Minion DEF Boost]]
+[[Category:Yamato Museum Boost]]
+[[Category:Yamato Exploration Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Angel Cell Drop Boost]]
+[[Category:RUSH Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:HP Boost]]

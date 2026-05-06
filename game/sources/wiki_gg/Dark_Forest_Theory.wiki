@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dark Forest Theory
+|class_id=20389
+|rank=Green
+|affct=TECH
+|source= Defeat Restarter
+|description=This work comes from an unknown scientist, describing his understanding of the interrelationships between cosmic civilizations. The content points out that civilizations daring to expose their existence will be attacked and destroyed by other advanced civilizations; therefore, the primary goal for survival and continuation in the universe is to hide oneself well.
+|fame=95
+|art=95
+|fth=95
+|civ=95
+|tech=100
+|ss1=Per 60 Constellation LVLs, Snail HP +60<br>Per 60 Constellation LVLs, Snail ATK +6<br>Per 60 Constellation LVLs, Snail DEF +6<br>Per 60 Constellation LVLs, Snail RUSH +6<br>Constellation LVLs: 1200/1200
+|ss2=Per 60 Constellation LVLs, Snail HP +120<br>Per 60 Constellation LVLs, Snail ATK +12<br>Per 60 Constellation LVLs, Snail DEF +12<br>Per 60 Constellation LVLs, Snail RUSH +12<br>Constellation LVLs: 1200/1200
+|ss3=Per 60 Constellation LVLs, Snail HP +180<br>Per 60 Constellation LVLs, Snail ATK +18<br>Per 60 Constellation LVLs, Snail DEF +18<br>Per 60 Constellation LVLs, Snail RUSH +18<br>Constellation LVLs: 1200/1200
+|ss4=Per 60 Constellation LVLs, Snail HP +180<br>Per 60 Constellation LVLs, Snail ATK +18<br>Per 60 Constellation LVLs, Snail DEF +18<br>Per 60 Constellation LVLs, Snail RUSH +18<br>Constellation LVLs: 1200/1200
+|ss7=Per 60 Constellation LVLs, Snail HP +180<br>Per 60 Constellation LVLs, Snail ATK +18<br>Per 60 Constellation LVLs, Snail DEF +18<br>Per 60 Constellation LVLs, Snail RUSH +18<br>Constellation LVLs: 1200/1200<br> (Awakened)
+}}

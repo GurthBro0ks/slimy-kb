@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Facenote
+|class_id=20346
+|rank=Green
+|affct=TECH
+|source=
+|description=This notebook contains all of Zuckie's entrepreneurial thoughts and all the user information he has collected over the years. On the cover is a Facenote logo. As Zuckie's enterprise continues to blow up, more and more people have begun to covet this notebook. There are even rumors swirling that as long as you get this notebook, you can strike it rich and become a billionaire like Zuckie...
+|fame=13
+|art=17
+|fth=16
+|civ=18
+|tech=26
+|ss1=One less ad required for Daily Tasks<br>Per 10 Mecha Minions in battle:<br>> Troop HP +10
+|ss2=One less ad required for Daily Tasks<br>Per 10 Mecha Minions in battle:<br>> Troop HP +20
+|ss3=One less ad required for Daily Tasks<br>Per 10 Mecha Minions in battle:<br>> Troop HP +30
+|ss4=One less ad required for Daily Tasks<br>Per 10 Mecha Minions in battle:<br>> Troop HP +30
+|ss7=One less ad required for Daily Tasks<br>Per 10 Mecha Minions in battle:<br>> Troop HP +30<br> (Awakened)
+}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Butterfly Bloom
+|class_id=22530
+|rank=AA
+|affct=ART
+|birthday=11-07
+|source=Lottery Machine No.3 (0.12%)
+|description=On Nov 7, 1850 AD, the Butterfly Bloom was completed.<br>This jewel headpiece was once owned by Empress Eugénie, wife of Napoleon III. Its appearance seems ordinary, but it contains hidden meanings. The bouquet on top of it includes three different flowers: a pansy representing wisdom, roses representing love and happiness, and forget-me-nots representing true love. The butterfly perched on the bouquet is also exquisitely carved, adding a natural touch to its regal splendor. It is considered a masterpiece in the field of jewelry.
+|fame=32
+|art=66
+|fth=45
+|civ=46
+|tech=39
+|ss1=Dismantle 1 Purple Brand: Gain 1 more fragment by 4%<br>Dismantle 1 Orange Brand: Gain 1 more fragment by 4%
+|ss2=Dismantle 1 Purple Brand: Gain 1 more fragment by 6%<br>Dismantle 1 Orange Brand: Gain 1 more fragment by 6%
+|ss3=Dismantle 1 Purple Brand: Gain 1 more fragment by 8%<br>Dismantle 1 Orange Brand: Gain 1 more fragment by 8%
+|ss4=Dismantle 1 Purple Brand: Gain 1 more fragment by 12%<br>Dismantle 1 Orange Brand: Gain 1 more fragment by 12%
+|ss5=Dismantle 1 Purple Brand: Gain 1 more fragment by 16%<br>Dismantle 1 Orange Brand: Gain 1 more fragment by 16%
+|ss7=Dismantle 1 Purple Brand: Gain 1 more fragment by 16%<br>Dismantle 1 Orange Brand: Gain 1 more fragment by 16%<br>Dismantle 1 Purple Brand: Gain 1 more fragment by 14% (Awakened)
+|skill1=[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Earth DMG +30
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's ART +10
+}}

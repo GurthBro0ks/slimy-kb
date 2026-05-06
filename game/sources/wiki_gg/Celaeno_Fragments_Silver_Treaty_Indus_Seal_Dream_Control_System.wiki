@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=439
+|relics=Celaeno Fragments,Silver Treaty,Indus Seal,Dream Control System
+|rank=purple
+|amount=4
+|category=self
+|description=Dragon Minion DEF +8%
+}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Atomic Spectroscopy
+|class_id=22094
+|rank=Blue
+|affct=TECH
+|birthday=06-11
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Jun 11, 1802 AD, Wollaston observed the Atomic Spectroscopy while conducting experiments.<br>Atomic Spectroscopy is the light spectrum composed of a series of wavelengths of light emitted or absorbed by the electron in the atom when the energy changes. Each atom has different energy levels and can transition between energy levels by emitting or absorbing photons. When the energy level transitions, the frequency of emitting and absorbing photons constitutes the emission and absorption spectra in the atomic spectrum, respectively. Atomic spectroscopy provides a large amount of information on the internal structure of atoms, and it plays an important role in the research on molecular structure and solid structure, as well as science development such as chemistry and astrophysics.
+|fame=28
+|art=22
+|fth=33
+|civ=25
+|tech=46
+|ss1=Per 4 TECH Relics gained, Snail ATK +2<br>TECH Relics: 120/120
+|ss2=Per 4 TECH Relics gained, Snail ATK +4<br>TECH Relics: 120/120
+|ss3=Per 4 TECH Relics gained, Snail ATK +6<br>TECH Relics: 120/120
+|ss4=Per 4 TECH Relics gained, Snail ATK +10<br>TECH Relics: 120/120
+|ss7=Per 4 TECH Relics gained, Snail ATK +10<br>TECH Relics: 120/120<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: This Relic's TECH +5
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Earthworm Specimen
+|class_id=20154
+|rank=Green
+|affct=ART
+|source=
+|description=This specimen is a prehistoric earthworm. It looks similar to the modern earthworm, but there are obvious differences in their body structures. From the specimen, you can tell some primitive features of the prehistoric earthworm family, which is crucial for studying its ecological habits.
+|fame=13
+|art=26
+|fth=15
+|civ=17
+|tech=17
+|ss1=With Earthworm Assistance, ATK +2%
+|ss2=With Earthworm Assistance, ATK +4%
+|ss3=With Earthworm Assistance, ATK +6%
+|ss4=With Earthworm Assistance, ATK +6%
+|ss7=With Earthworm Assistance, ATK +6%<br> (Awakened)
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=473
+|relics=CRISPR,Ruska's Microscope
+|rank=orange
+|amount=2
+|category=self
+|description=In the Gaia Rocket Cabin: EMP Base Effect +56%
+}}

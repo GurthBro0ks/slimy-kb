@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Oversized Meatball
+|class_id=20432
+|rank=Green
+|affct=FAME
+|source=
+|description=Pawson's Seven-jeweled Pagoda used to be a high-tech mystery. Using the high radiation field in the tower, he's turned countless foes into a collection of bio samples. Over an immeasurable time, the flesh has been torn from the unfortunate victims to form this humongous meatball!
+|fame=31
+|art=14
+|fth=15
+|civ=19
+|tech=11
+|ss1=Against Pawson, DMG +300%
+|ss2=Against Pawson, DMG +400%
+|ss3=Against Pawson, DMG +500%
+|ss4=Against Pawson, DMG +500%
+|ss7=Against Pawson, DMG +500%<br> (Awakened)
+}}

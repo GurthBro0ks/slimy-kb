@@ -1,0 +1,113 @@
+==The Gear Forge==
+The shop to get all your [[Gear]] needs.
+Upon unlocking [[Species War]] each week you will get {{RewardIconWithLink|Gear RF|orange}} to spend.
+
+==Buyable Items==
+<tabber>
+|-|Green=
+{|class="wikitable"
+|-
+|style="background-color:#7de87f" |[[File:Rock.png|frameless|75x75px]]||Rock||120 Gear RF
+|-
+|style="background-color:#7de87f" |[[File:Leather Chest Armor.png|frameless|75x75px]]||Leather Chest Armor||120 Gear RF
+|-
+|style="background-color:#7de87f" |[[File:Dwarf Mask.png|frameless|75x75px]]||Dwarf Mask||120 Gear RF
+|-
+|style="background-color:#7de87f" |[[File:Lizard Belt.png|frameless|75x75px]]||Lizard Belt||120 Gear RF
+|-
+|style="background-color:#7de87f" |[[File:Slippers.png|frameless|75x75px]]||Slippers||120 Gear RF
+|-
+|style="background-color:#7de87f" |[[File:Elegant Gloves.png|frameless|75x75px]]||Elegant Gloves||120 Gear RF
+|-
+|style="background-color:#7de87f" |[[File:Lifebuoy.png|frameless|75x75px]]||Lifebuoy||120 Gear RF
+|-
+|style="background-color:#7de87f" |[[File:Static Belt.png|frameless|75x75px]]||Static Belt||120 Gear RF
+|-
+|style="background-color:#7de87f" |[[File:Stage Hat.png|frameless|75x75px]]||Stage Hat||120 Gear RF
+|}
+|-|Blue=
+{|class="wikitable"
+|-
+|style="background-color:#7de8e6" |[[File:Pirate.png|frameless|75x75px]]||Pirate||140 Gear RF
+|-
+|style="background-color:#7de8e6" |[[File:Iron Track.png|frameless|75x75px]]||Iron Track||140 Gear RF
+|-
+|style="background-color:#7de8e6" |[[File:Diver.png|frameless|75x75px]]||Diver||140 Gear RF
+|-
+|style="background-color:#7de8e6" |[[File:The Buried.png|frameless|75x75px]]||The Buried||140 Gear RF
+|-
+|style="background-color:#7de8e6" |[[File:Mark 2.png|frameless|75x75px]]||Mark II||140 Gear RF
+|-
+|style="background-color:#7de8e6" |[[File:Elven Cape.png|frameless|75x75px]]||Elven Cape||140 Gear RF
+|-
+|style="background-color:#7de8e6" |[[File:Strong Round Shield.png|frameless|75x75px]]||Strong Round Shield||140 Gear RF
+|-
+|style="background-color:#7de8e6" |[[File:Workout Top.png|frameless|75x75px]]||Workout Top||140 Gear RF
+|}
+|-|Purple=
+{|class="wikitable"
+|-
+|style="background-color:#f3b5e1" |[[File:Spring Longsword.png|frameless|75x75px]]||Spring Longsword||160 Gear RF
+|-
+|style="background-color:#f3b5e1" |[[File:Teslla.png|frameless|75x75px]]||Teslla||160 Gear RF
+|-
+|style="background-color:#f3b5e1" |[[File:Hammer of Frenzy.png|frameless|75x75px]]||Hammer of Frenzy||160 Gear RF
+|-
+|style="background-color:#f3b5e1" |[[File:Leviathan Gloves.png|frameless|75x75px]]||Leviathan Gloves||160 Gear RF
+|-
+|style="background-color:#f3b5e1" |[[File:Saint's Earring.png|frameless|75x75px]]||Saint's Earring||160 Gear RF
+|-
+|style="background-color:#f3b5e1" |[[File:Crown of Power.png|frameless|75x75px]]||Crown of Power||160 Gear RF
+|-
+|style="background-color:#f3b5e1" |[[File:Thorn.png|frameless|75x75px]]||Thorn||160 Gear RF
+|-
+|style="background-color:#f3b5e1" |[[File:Magician.png|frameless|75x75px]]||Magician||160 Gear RF
+|-
+|style="background-color:#f3b5e1" |[[File:Deformed Shell.png|frameless|75x75px]]||Deformed Shell||400 Gear RF
+|-
+|style="background-color:#f3b5e1" |[[File:Ritual.png|frameless|75x75px]]||Ritual||400 Gear RF
+|-
+|style="background-color:#f3b5e1" |[[File:Dragon's Blessing.png|frameless|75x75px]]||Dragon's Blessing||400 Gear RF
+|-
+|style="background-color:#f3b5e1" |[[File:Perpetual Slash.png|frameless|75x75px]]||Perpetual Slash||400 Gear RF
+|-
+|style="background-color:#f3b5e1" |[[File:Gravedigger's Seal.png|frameless|75x75px]]||Gravedigger's Seal||400 Gear RF
+|-
+|style="background-color:#f3b5e1" |[[File:Ancient Staff.png|frameless|75x75px]]||Ancient Staff||400 Gear RF
+|}
+|-|Orange=
+{|class="wikitable"
+|-
+|style="background-color:#ffb066" |[[File:Will Crystal.png|frameless|75x75px]]||Will Crystal||300 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Demon God Crystal.png|frameless|75x75px]]||Demon God Crystal||300 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Gear Ring.png|frameless|75x75px]]||Gear Ring||180 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Azazel's Curse.png|frameless|75x75px]]||Azazel's Curse||180 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Electric Hammer.png|frameless|75x75px]]||Electric Hammer||180 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Fossil.png|frameless|75x75px]]||Fossil||180 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Chief.png|frameless|75x75px]]||Chief||180 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Power Armor.png|frameless|75x75px]]||Power Armor||180 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Alloy Shield.png|frameless|75x75px]]||Alloy Shield||180 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Wisdom Cloak.png|frameless|75x75px]]||Wisdom Cloak||180 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Crimson Queen.png|frameless|75x75px]]||Crimson Queen||500 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Chimera.png|frameless|75x75px]]||Chimera||500 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Shine.png|frameless|75x75px]]||Shine||500 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Mask.png|frameless|75x75px]]||Light||500 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Immortal Glory.png|frameless|75x75px]]||Immortal Glory||500 Gear RF
+|-
+|style="background-color:#ffb066" |[[File:Soul Prison.png|frameless|75x75px]]||Soul Prison||500 Gear RF
+|}
+</tabber>

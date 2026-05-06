@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=222
+|relics=Soul Stone,Scale of Anubis
+|rank=orange
+|amount=2
+|category=self
+|description=Demon Gene research Cell cost -4.2%
+}}

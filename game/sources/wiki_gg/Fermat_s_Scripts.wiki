@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Fermat's Scripts
+|class_id=21831
+|rank=SSS
+|affct=TECH
+|birthday=07-08
+|source=
+|description=On Jul 8, 1637 AD, the French scholar Fermat wrote this formula after reading Arithmetica, a work of Diophantus.<br>Fermat wrote: It is impossible for a cube to be divided into the sum of two cubes, or a fourth power divided into the sum of two fourth powers, or any power higher than the second divided into the sum of two equal powers. I know I have discovered a wonderful proof, but I do not have room to write it. Since he never wrote it, and his other theorems contributed a lot to mathematics, many mathematicians were intrigued. Over the next few hundred years, thousands of people claimed to have proved Fermat's Last Theorem, but all of them have been wrong.
+|fame=71
+|art=63
+|fth=55
+|civ=65
+|tech=108
+|ss1=Snail ATK +30<br>Per 5 Daily Packs bought, Snail ATK +3<br>Per 5 Daily Packs bought, Snail DEF +3<br>Daily Packs Purchased: 200/200
+|ss2=Snail ATK +40<br>Per 5 Daily Packs bought, Snail ATK +4<br>Per 5 Daily Packs bought, Snail DEF +4<br>Daily Packs Purchased: 200/200
+|ss3=Snail ATK +50<br>Per 5 Daily Packs bought, Snail ATK +5<br>Per 5 Daily Packs bought, Snail DEF +5<br>Daily Packs Purchased: 200/200
+|ss4=Snail ATK +70<br>Per 5 Daily Packs bought, Snail ATK +7<br>Per 5 Daily Packs bought, Snail DEF +7<br>Daily Packs Purchased: 200/200
+|ss5=Snail ATK +90<br>Per 5 Daily Packs bought, Snail ATK +9<br>Per 5 Daily Packs bought, Snail DEF +9<br>Daily Packs Purchased: 200/200
+|ss6=Snail ATK +120<br>Per 5 Daily Packs bought, Snail ATK +12<br>Per 5 Daily Packs bought, Snail DEF +12<br>Daily Packs Purchased: 200/200
+|ss7=Snail ATK +120<br>Per 5 Daily Packs bought, Snail ATK +12<br>Per 5 Daily Packs bought, Snail DEF +12<br>Daily Packs Purchased: 200/200<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail ATK +600
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's TECH +15
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x B-tad Drops +15%
+|mirage={{Mirage|name=Exponential World|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Exponent 8|3rec=3.77M|3atk=48188|3defense=31788|3hp=758979|3weak=10469
+|4name=Exponent 88|4rec=7.27M|4atk=69401|4defense=45782|4hp=1439761|4weak=12575
+|5name=Exponent 888|5rec=13.10M|5atk=95268|5defense=62845|5hp=2506833|5weak=15807
+|6name=Exponent Infinity|6rec=28.07M|6atk=126417|6defense=83393|6hp=4309201|6weak=18371
+|Arec=45.26M|Aatk=163073|Adefense=107574|Ahp=6840071|Aweak=19756
+}}}}

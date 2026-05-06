@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=So shine bright, you and I, with the red heart in our mind!
+|affct=FAME
+|hard=ATK
+|source=Snalentines Pack, 2025
+|color=purple
+|earth=6
+|water=7
+|fire=7
+|wind=6
+|form=Dragon
+|element=Water
+|realm=Rift
+|orangehard=ATK
+}}

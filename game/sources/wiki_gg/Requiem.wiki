@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Requiem
+|class_id=20620
+|rank=Blue
+|affct=ART
+|birthday=05-22
+|source=
+|description=On May 22, 1792 AD, Mozart's Requiem was finally completed by his assistant Sussmayr.<br>Mozart's dying wish was finally fulfilled. Previously, a mysterious man had asked him to create a music piece. Mozart had an ominous feeling. He felt that the man was Grim Reaper who came from the underworld and Requiem would be his last creation. The ill-stricken Mozart felt that he would be dying soon and did not want to leave the world with his work unfinished. Unfortunately, this piece had to be completed by Sussmayr.
+|fame=29
+|art=44
+|fth=30
+|civ=20
+|tech=31
+|ss1=Per 5 Demon Gene LVLs, Snail ATK +2<br>Per 5 Demon Gene LVLs, Snail DEF +2<br>Demon Gene LVLs Researched: 150/150
+|ss2=Per 5 Demon Gene LVLs, Snail ATK +4<br>Per 5 Demon Gene LVLs, Snail DEF +4<br>Demon Gene LVLs Researched: 150/150
+|ss3=Per 5 Demon Gene LVLs, Snail ATK +6<br>Per 5 Demon Gene LVLs, Snail DEF +6<br>Demon Gene LVLs Researched: 150/150
+|ss4=Per 5 Demon Gene LVLs, Snail ATK +10<br>Per 5 Demon Gene LVLs, Snail DEF +10<br>Demon Gene LVLs Researched: 150/150
+|ss7=Per 5 Demon Gene LVLs, Snail ATK +10<br>Per 5 Demon Gene LVLs, Snail DEF +10<br>Demon Gene LVLs Researched: 150/150<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Compass skill I.png|50px]]Place in Exploration Compass: ART Checks -5
+}}

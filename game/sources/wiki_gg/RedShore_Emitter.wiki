@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=RedShore Emitter
+|class_id=20355
+|rank=Green
+|affct=TECH
+|source=
+|description=This high-powered instrument can amplify and encrypt electromagnetic signal inputs to prevent other radio waves in the universe from interfering with their transmission, ensuring the message is sent intact to dozens of light years away.
+|fame=15
+|art=17
+|fth=13
+|civ=15
+|tech=30
+|ss1=Per 10 Mecha Minions in battle:<br>> Troop RUSH +1
+|ss2=Per 10 Mecha Minions in battle:<br>> Troop RUSH +2
+|ss3=Per 10 Mecha Minions in battle:<br>> Troop RUSH +3
+|ss4=Per 10 Mecha Minions in battle:<br>> Troop RUSH +3
+|ss7=Per 10 Mecha Minions in battle:<br>> Troop RUSH +3<br> (Awakened)
+}}

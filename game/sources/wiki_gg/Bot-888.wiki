@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Bot-888
+|type=Bionic
+|rank=purple
+|id=10676
+|idx=33
+|description="Forged from nano-alloy, it stands as an impenetrable fortress, shielding the mechanical heart within from all incoming threats."
+—Skynet Surveillance Log
+|skill=Activate Robot Form, dealing DMG equal to 163% of ATK!
+|hp=1150
+|def=143
+|atk=220
+|rush=153
+|gene1=For Round 1, DMG +5%
+|gene2=RUSH CRIT DMG +5%
+|gene3=When HP is below 30%, CRIT DMG +10%
+|gene4=Break RES +2%
+|gene7=RUSH CRIT DMG +5% (Awakened)
+|}}

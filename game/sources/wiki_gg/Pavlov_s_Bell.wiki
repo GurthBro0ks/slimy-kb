@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Pavlov's Bell
+|class_id=22085
+|rank=Blue
+|affct=TECH
+|birthday=07-16
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jul 16, 1894 AD, Russian psychologist Pavlov conducted a famous reflex conditioning experiment.<br>This bell was used by a famous neurologist to discover classical conditioning through experiments with dogs. He rang the bell every time before feeding the dog. Over time, whenever he rang the bell, the dog drooled despite not being fed. This experiment proved the existence of classical conditioning, leaving a profound influence on the development of psychology.
+|fame=30
+|art=22
+|fth=32
+|civ=25
+|tech=45
+|ss1=Mutant Minion HP +1%
+|ss2=Mutant Minion HP +2%
+|ss3=Mutant Minion HP +3%
+|ss4=Mutant Minion HP +5%
+|ss7=Mutant Minion HP +5%<br>Mutant Minion HP +5% (Awakened)
+|skill1=[[File:Arena skill I.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +20
+}}

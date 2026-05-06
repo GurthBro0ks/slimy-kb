@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Lewis Chessmen
+|rank=Blue
+|affct=CIV
+|birthday=07-16
+|source=Lottery Machine(0.03%), Wishing (0.82%)
+|description=On Jul 16, 1831, Chess was on display for the first time as one of the 10 treasures of the British Museum. 
+
+An important antique in Scotland. This exquisite chess set is made from walrus ivory and whale teeth. It includes the sitting kinds and queens, bishops with a crown, knights on the horse, and standing pawns, all of which are obelisk-shaped. It is said that if you learn the essence of this chess, you possess the power to change the future.
+|fame=20
+|art=29
+|fth=31
+|civ=45
+|tech=29
+|ss1=Per Minigame installed, Snail DEF +1<br>Minigames Installed: 20/20
+|ss2=Per Minigame installed, Snail DEF +2<br>Minigames Installed: 20/20
+|ss3=Per Minigame installed, Snail DEF +3<br>Minigames Installed: 20/20
+|ss4=Per Minigame installed, Snail DEF +5<br>Minigames Installed: 20/20
+|ss7=Per Minigame installed, Snail DEF +5<br>Minigames Installed: 20/20<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Arena skill I.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:CIV Relics]]
+[[Category:Blue CIV Relics]]
+[[Category:DEF Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Reagent Crafting Boost]]

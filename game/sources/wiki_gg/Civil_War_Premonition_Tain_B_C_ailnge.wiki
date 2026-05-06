@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=717
+|relics=Civil War Premonition,Tain Bó Cúailnge
+|rank=orange
+|amount=2
+|category=self
+|description=Per Recruitment Incident completed, Snail ATK +7;Completed Recruitment Incidents: 50/50
+}}

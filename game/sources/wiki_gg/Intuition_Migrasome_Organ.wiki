@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Intuition Migrasome Organ
+|type=Common
+|rank=purple
+|id=10852
+|idx=57
+|description=The organism begins manipulating its own magnetic field, turning it into an extension of its senses—granting early warning of danger and lightning-fast reflexes.
+|skill=
+|hp=1294
+|def=141
+|atk=237
+|rush=124
+|gene1=In Gene Sims, CRIT DMG +10%
+|gene2=Gene Simulation Power Checks -4%
+|gene3=In Gene Sims, Round 1 DMG +10%
+|gene4=Water DMG +60
+|gene7=Water DMG +3% (Awakened)
+|}}

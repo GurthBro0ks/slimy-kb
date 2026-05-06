@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=468
+|relics=Holy Grail,Atlantis Crystal
+|rank=orange
+|amount=2
+|category=self
+|description=When refining, there exists a +7% chance for Purple Building Materials to turn into Orange
+}}

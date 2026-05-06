@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Racky's Head
+|class_id=20241
+|rank=Green
+|affct=FAITH
+|source=
+|description=This unrecognizable head once belonged to War God, one of the eight Demon Gods. With his extraordinary intelligence and devotion to studying technology, he had crafted a set of powerful arms. Yet he was defeated by the snail, and his head became part of the snail's collection.
+|fame=15
+|art=15
+|fth=30
+|civ=14
+|tech=16
+|ss1=Snail HP +200<br>Per Demon God slain, Snail DEF +10<br>Demon Gods Slain: 8/8
+|ss2=Snail HP +400<br>Per Demon God slain, Snail DEF +20<br>Demon Gods Slain: 8/8
+|ss3=Snail HP +600<br>Per Demon God slain, Snail DEF +30<br>Demon Gods Slain: 8/8
+|ss4=Snail HP +600<br>Per Demon God slain, Snail DEF +30<br>Demon Gods Slain: 8/8
+|ss7=Snail HP +600<br>Per Demon God slain, Snail DEF +30<br>Demon Gods Slain: 8/8<br> (Awakened)
+}}

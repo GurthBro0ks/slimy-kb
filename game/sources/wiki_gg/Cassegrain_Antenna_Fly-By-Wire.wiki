@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=592
+|relics=Cassegrain Antenna,Fly-By-Wire
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Mecha Minions in battle: Troop HARD Stats +5
+}}

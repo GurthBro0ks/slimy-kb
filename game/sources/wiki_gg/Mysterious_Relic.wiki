@@ -1,0 +1,7 @@
+{{Valuables|Name=Mysterious Relic|image1=Mysterious Relic.png|Rank=Blue/Purple/Orange|AFFCT=Any}}
+==Source==
+Source Unknown (Unreleased)
+==Stats==
+A mysterious Relic coming soon...
+==Description==
+Gah, I've ran out of ideas. I'm just gonna leave some text here to pretend there's something to read.

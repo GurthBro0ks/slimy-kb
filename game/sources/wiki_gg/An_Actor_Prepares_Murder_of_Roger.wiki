@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=731
+|relics=An Actor Prepares,Murder of Roger
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 T7+ Mutant Minions in battle:Troop HARD Stats +70
+}}

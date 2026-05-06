@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Biochem Man
+|rank=blue
+|cabin=2
+|id=50
+|gene1={race} ATK +20
+|gene2={race} ART +20
+|gene3=Ignore DEF +100
+|gene4=Per 10 Zombie Minions in battle:
+> Troop ATK +2
+|gene5=Ignore DEF +200
+|}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Glory Extractor
+|class_id=20250
+|rank=Green
+|affct=FAITH
+|source=
+|description=Gods usually leave a smattering of divine energy in the proximity to where they descended. Glory Extractor is created to collect these energies. It gathers dispersing Glory on its own, and after refinement, converts that into pure energy to power other devices that are connected to it!
+|fame=16
+|art=14
+|fth=30
+|civ=15
+|tech=15
+|ss1=Gain 50% of the Offering Speedups you use as Refine Speedups<br>Obtained: 10000 hours / 10000 hours
+|ss2=Gain 50% of the Offering Speedups you use as Refine Speedups<br>Obtained: 10000 hours / 10000 hours
+|ss3=Gain 50% of the Offering Speedups you use as Refine Speedups<br>Obtained: 10000 hours / 10000 hours
+|ss4=Gain 50% of the Offering Speedups you use as Refine Speedups<br>Obtained: 10000 hours / 10000 hours
+|ss7=Gain 50% of the Offering Speedups you use as Refine Speedups<br>Obtained: 10000 hours / 10000 hours<br> (Awakened)
+}}

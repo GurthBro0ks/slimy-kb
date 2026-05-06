@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Purge Reward Order B-1
+|class_id=20988
+|rank=Green
+|affct=FAME
+|source=
+|description=The Demon God's apostles ravage, Earth's will issues this reward order to encourage travelers to strike against the Demon God's forces and go all out to eliminate the apostles! -- Earth's Will (Seal)
+|fame=29
+|art=14
+|fth=16
+|civ=18
+|tech=13
+|ss1=Per Apostle defeated, Snail DEF +1<br>Per Apostle defeated, Snail RUSH +1<br>Apostles Dominated: 25/25
+|ss2=Per Apostle defeated, Snail DEF +2<br>Per Apostle defeated, Snail RUSH +2<br>Apostles Dominated: 25/25
+|ss3=Per Apostle defeated, Snail DEF +3<br>Per Apostle defeated, Snail RUSH +3<br>Apostles Dominated: 25/25
+|ss4=Per Apostle defeated, Snail DEF +3<br>Per Apostle defeated, Snail RUSH +3<br>Apostles Dominated: 25/25
+|ss7=Per Apostle defeated, Snail DEF +3<br>Per Apostle defeated, Snail RUSH +3<br>Apostles Dominated: 25/25<br> (Awakened)
+}}

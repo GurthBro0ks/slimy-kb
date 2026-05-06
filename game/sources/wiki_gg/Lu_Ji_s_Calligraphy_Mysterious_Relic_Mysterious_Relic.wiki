@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=865
+|relics=Lu Ji's Calligraphy,Mysterious Relic,Mysterious Relic
+|rank=orange
+|amount=3
+|category=self
+|description=All Minion Skins, HARD Stats +24%
+}}

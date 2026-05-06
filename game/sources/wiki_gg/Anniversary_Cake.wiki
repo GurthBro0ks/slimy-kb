@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Anniversary Cake
+|class_id=20462
+|rank=Green
+|affct=FAME
+|source=
+|description=The monkeys have prepared this big cake for Super Snail Anniversary. As we look back at the year we had, we had glory, and we met difficulties, but all the snails have stuck together. This cake conveys our gratitude and best wishes to every snail, meanwhile, it is to encourage the monkeys to move forward and create better content!
+|fame=31
+|art=14
+|fth=16
+|civ=16
+|tech=13
+|ss1=Per 5 Sign-Ins, Snail HP +20<br>Sign-Ins: 100/100
+|ss2=Per 5 Sign-Ins, Snail HP +40<br>Sign-Ins: 100/100
+|ss3=Per 5 Sign-Ins, Snail HP +60<br>Sign-Ins: 100/100
+|ss4=Per 5 Sign-Ins, Snail HP +60<br>Sign-Ins: 100/100
+|ss7=Per 5 Sign-Ins, Snail HP +60<br>Sign-Ins: 100/100<br> (Awakened)
+}}

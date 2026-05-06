@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The traveler uniform reminds Snail of their duty at all times.
+|affct=FAME
+|hard=ATK
+|source=Divine Neutral Chest (0.8%)
+|color=green
+|earth=1
+|water=1
+|fire=2
+|wind=2
+|form=Zombie
+|element=Earth
+|realm=Koreyo
+|orangehard=DEF
+}}

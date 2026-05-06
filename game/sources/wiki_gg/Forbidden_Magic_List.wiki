@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Forbidden Magic List
+|class_id=20280
+|rank=Green
+|affct=FAITH
+|source=
+|description=This is a magic book that contains 103,000 forbidden spells. As its content is obscure and difficult to understand, the slightest mistake in casting any spells can lead to madness. Many smart yet over-confident wizards have paid a heavy price. But if one were to gain something from it, these risks absolutely were worth taking!
+|fame=13
+|art=15
+|fth=32
+|civ=14
+|tech=16
+|ss1=Against Minerva, DMG +300%
+|ss2=Against Minerva, DMG +400%
+|ss3=Against Minerva, DMG +500%
+|ss4=Against Minerva, DMG +500%
+|ss7=Against Minerva, DMG +500%<br> (Awakened)
+}}

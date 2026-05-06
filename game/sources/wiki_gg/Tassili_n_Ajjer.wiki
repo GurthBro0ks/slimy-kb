@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Tassili n'Ajjer
+|class_id=22889
+|rank=SSS
+|affct=CIV
+|source=
+|description=The Tassili n'Ajjer is a series of ancient murals from the Neolithic period. These rock paintings depict wild animals, abstract symbols, and humans in various life situations, renowned for their exquisite craftsmanship and rich themes. The content captures the diverse aspects of ancient human society, showcasing scenes from the daily lives of ancient people, and serves as a valuable record of early civilization and artistic development.
+|fame=67
+|art=70
+|fth=67
+|civ=106
+|tech=52
+|ss1=Snail Leadership +3<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +72<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +72<br>CIV Relics Awakened: 100/100
+|ss2=Snail Leadership +4<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +96<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +96<br>CIV Relics Awakened: 100/100
+|ss3=Snail Leadership +5<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +120<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +120<br>CIV Relics Awakened: 100/100
+|ss4=Snail Leadership +7<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +168<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +168<br>CIV Relics Awakened: 100/100
+|ss5=Snail Leadership +9<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +216<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +216<br>CIV Relics Awakened: 100/100
+|ss6=Snail Leadership +12<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +288<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +288<br>CIV Relics Awakened: 100/100
+|ss7=Snail Leadership +12<br>Per 5 CIV Relics awakened, Priest-Snail Assistance DMG +288<br>Per 5 CIV Relics awakened, Priest-Troop Assistance DMG +288<br>CIV Relics Awakened: 100/100<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion DEF +9%
+|skill2=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop DMG REDUC +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+}}

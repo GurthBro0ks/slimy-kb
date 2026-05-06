@@ -1,0 +1,179 @@
+==Card Redemption==
+Throughout [[Britland]], cards can be collected and exchanged for various rewards. Cards vary from tier 1 (white) to tier 5 (orange) and there's different types of each tier. Below is a list of the rewards that can be exchanged, and how many times.
+
+==Tier 1 (White)==
+'''Recommended:'''  Enhancement Injection, Top Hat, Genleman's Staff
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:var(--white-bg);" |[[File:White Anchor.png|75px]]
+| rowspan="7" |Anchor
+|3x3||Enhancement Injection<br>Snail ATK +12<br>Snail DEF +12
+| rowspan="7" |13 B-tads
+|-
+|2x1||Britland INTEL +1,500
+|-
+|3x1||B-tads +2,000
+|-
+|4x1||Novice Scroll +5
+|-
+|5x1||[[Gear|Top Hat]]
+|-
+|6x1||[[Gear|Gentleman's Staff]]
+|-
+|7x1||Lottery Ticket +1
+|-
+| style="background-color:var(--white-bg);" |[[File:Londorn Bridge.png|75px]]
+|Londorn Bridge
+|3x1
+|Travel Speedup +1h
+|200 B-tads
+|-
+| style="background-color:var(--white-bg);" |[[File:Great Bell.png|75px]]
+|Great Bell
+|4x1
+|Lottery Ticket +2
+|Gene Speedup +2m
+|-
+| style="background-color:var(--white-bg);" |[[File:Loch Nessie.png|75px]]
+|Loch Nessie
+|4x1
+|4k B-tads
+|Britland INTEL +330
+|}
+
+==Tier 2 (Green)==
+'''Recommended:''' Enhancement Injections, Royal Guard Bearskin Hat, Hansa Sailboat Blueprint
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:var(--green-bg)" | [[File:Green Anchor.png|75px]]
+| rowspan="8" | Anchor
+|3x3||Enhancement Injection<br>Snail HP +120<br>Snail DEF +12
+| rowspan="8" | 39 B-tads
+|-
+|2x1||Britland INTEL +3000
+|-
+|3x1||4k B-tads
+|-
+|4x1||Novice Scroll +5
+|-
+|5x1||[[Gear|<span style="color:var(--green-text)">Royal Guard Bearskin Hat</span>]]
+|-
+|6x1||Gear Chest +40
+|-
+|7x1||Hansa Sailboat Blueprint
+|-
+|8x1||Lottery Ticket +2
+|-
+| style="background-color:var(--green-bg)" | [[File:River Times.png|75px]]
+|River Times||3x1||Glue +10
+|Evolution Chest +1
+|-
+| style="background-color:var(--green-bg)" | [[File:Oxfort University.png|75px]]
+|Oxfort University||3x1||Gear Chest +40
+|Zombie Cell +100
+|-
+| style="background-color:var(--green-bg)" | [[File:Cabbridge Univ..png|75px]]
+|Cabbridge Univ.||4x1||[[Templar Emblem|<span style="color:var(--blue-bg)">Templar Emblem</span>]] +10
+|Mecha Cell +100
+|}
+
+==Tier 3 (Blue)==
+'''Recommended:''' Enhancement Injections, Tuxedo, Yamato Warship Blueprint
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:var(--blue-bg)" | [[File:Blue Anchor.png|75px]]
+| rowspan="8" | Anchor
+|3x3||Enhancement Injection<br>Snail ATK +14<br>Snail RUSH +14
+| rowspan="8" | 117 B-tads
+|-
+|2x1||Britland INTEL +4500
+|-
+|3x1||6k B-tads
+|-
+|4x1||Novice Scroll +10
+|-
+|5x1||[[Gear|<span style="color:var(--blue-text)">Tuxedo</span>]]
+|-
+|6x1||Gear Chest +60
+|-
+|7x1||Yamato Warship Blueprint
+|-
+|8x1||Lottery Ticket +3
+|-
+| style="background-color:var(--blue-bg)" | [[File:Parliament House.png|75px]]
+|Parliament House||3x1|400 W-tads
+|Refine Speedup +5m
+|-
+| style="background-color:var(--blue-bg)" | [[File:Buckinham Palace.png|75px]]
+|Buckinham Palace||4x1||Mutant Cell +2000
+|Offering Speedup +5m
+|}
+
+==Tier 4 (Purple)==
+'''Recommended:''' Injections, Britland Crown, Turtle Ship Blueprint
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:var(--purple-bg)" | [[File:Purple Anchor.png|75px]]
+| rowspan="8" | Anchor
+|3x3||Enhancement Injection<br>Snail HP +160<br>Snail DEF +16
+| rowspan="8" | 351 B-tads
+|-
+|2x1||Britland INTEL +6000
+|-
+|3x1||8k B-tads
+|-
+|4x1||Expert Scroll +10
+|-
+|5x1||[[Gear|<span style="color:var(--purple-text)">Britland Crown</span>]]
+|-
+|6x1||Gear Chest +80
+|-
+|7x1||Turtle Ship Blueprint
+|-
+|8x1||Lottery Ticket +2
+|-
+| style="background-color:var(--purple-bg);" | [[File:The Londorn Eye.png|75px]]
+|The Londorn Eye||4x1||Offering Speedup +4h
+|Tool Chest +1
+|-
+| style="background-color:var(--purple-bg);" | [[File:John Bull.png|75px]]
+|John Bull||4x1||Britland Treasure Map +50
+|Britland Treasure Map +2
+|}
+
+==Tier 5 (Orange)==
+'''Recommended:''' Injections, Windsor's Cape, St. Trinidad Blueprint
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:var(--orange-bg)" | [[File:Orange Anchor.png|75px]]
+| rowspan="8" | Anchor
+|3x3||Enhancement Injection<br>Snail ATK +18<br>Snail DEF +18
+| rowspan="8" | 1,053 B-tads
+|-
+|2x1||Britland INTEL +8000
+|-
+|3x1||10k B-tads
+|-
+|4x1||Master Scroll +10
+|-
+|5x1||Gear Chest +100
+|-
+|6x1||[[Gear|<span style="color:var(--orange-text)">Windsor's Cape</span>]]
+|-
+|7x1||St. Trinidad Blueprint
+|-
+|8x1||Lottery Ticket +2
+|-
+| style="background-color:var(--orange-bg);" | [[File:Stonehenge.png|75px]]
+|Stonehenge||3x1||Wish Coin +1
+|15 W-tads
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Britland]]

@@ -1,0 +1,749 @@
+==Shining Athena==
+To obtain [[Hellas]]' unique element, first defeat the 1st Apostle of [[Hellas]], the [[Hellas Apostles#Acting Manager of Aries|Acting Manager of Aries]]. He will drop a Pot of Sealing which, when used, unseals the Goddess Athena from within. 
+
+Shining Athena is a dress-up game, where you obtain ''Leather'', ''Crystals'', ''Feathers'', and ''Thread'' to spin for individual pieces of outfits. Once Athena is dressed, she can compete in [[Dancing Gala|Dancing Galas]] for rewards. Each arena focuses on one of the four types: Posh, Moody, Cute, and Wicked.
+
+===Goddess' Bond===
+Obtaining the [[Hellas INTEL#Goddess' Guide|Mental Bond]] INTEL unlocks the ability to raise favorability with Athena, thus increasing your favorability with her. Initially, only 10 points per day are possible but as you increase the INTEL level of [[Hellas INTEL#Goddess' Guide|Oath of Heart]] you can receieve up to 50 points per day. Tap on Athena up to 10 times per real-life day to increase favorability. Achieving a certain level of Bond with Athena rewards certain items. 
+
+{|class="wikitable"
+!colspan="2"|Bond
+!rowspan="2"|Rating
+!rowspan="2"|Goddess' Grace Reward
+|-
+!Value!!Cumulative
+|-
+|0||0||First Meeting|| -
+|-
+|50||50||Acquaintance||Hellas Treasure Map +100, Divine Order Chest +100
+|-
+|100||150||Friend||Toner +50, Expert Scroll +40
+|-
+|300||450||Intimate||Wish Coin +3, Master Scroll +40
+|-
+|500||950||Oath||W-tads +2k, Stardust +60, Athena chat emotes, Goddess Stat conversion +20%
+|}
+
+Once the Mental Bond is at maximum level, a special intel clue (Gift of the Goddess) will appear in the Aries region. The relic required for this key clue is Athena's Delight, which can be bought from the Museum Shop for 200k medals once unlocked (buying the Curator's Helmet and 2x Crystal of Will required to unlock).
+
+==Outfits==
+Athena's outfit is divided into eight total parts: Headwear, Necklace, Top, Bottom, Socks, Hand, Bag, and Shoes. In addition to this, each part will be predominant in one stat (Posh, Moody, Cute, or Wicked) and be either green, blue, purple, or orange rank. In total, this is 160 possible outfit permutations.
+
+===Upgrading===
+Upgrading outfits requires individual outfit pieces, which are collected through the Costume Star Chart, which is a random lottery. You can draw 1x or 10x of Leather, Crystal, Feather, or Thread to randomly obtain a number of fragments for an associated outfit piece. A certain number of fragments are required to unlock a piece (T0 to T1), and to upgrade it further. Green items can only go to T3, blue items to T4, purple items to T5, and orange items to T6. Once an item is fully upgraded, fragments for that piece that are later obtained are converted into Costume Coins <!-- (1 fragment > 10 Coins). <!-- need to find the intel that unlocks the gacha and changes the coin conversion. I'm leaving a ton of notes because I know I don't have time to finish this page -->
+
+{|class="wikitable"
+!Tier!!Req. Fragments
+|-
+|0 > 1||30
+|-
+|1 > 2||60
+|-
+|2 > 3||100
+|-
+|3 > 4||140
+|-
+|4 > 5||180
+|-
+|5 > 6||240
+|}
+
+===Outfit Stats===
+All outfits have the same stats based on the combination of type and rank:
+
+<tabber>
+|-|Green=
+{|class="mw-collapsible wikitable"
+!rowspan="2" style="background-color:var(--green-bg)"|Type
+!rowspan="2" style="background-color:var(--green-bg)"|Tier
+!rowspan="2" style="background-color:var(--green-bg)"|Req. Fragments
+!colspan="4" style="background-color:var(--green-bg)"|Type
+|-
+! style="background-color:var(--green-bg)"|Posh
+! style="background-color:var(--green-bg)"|Moody
+! style="background-color:var(--green-bg)"|Cute
+! style="background-color:var(--green-bg)"|Wicked
+|-
+|rowspan="4"|Posh
+|0||10||30||0||0||0
+|-
+|1||30||80||0||0||0
+|-
+|2||60||130||0||0||0
+|-
+|3||100||180||0||0||0
+|-
+|rowspan="4"|Moody
+|0||10||0||0||30||0
+|-
+|1||30||0||0||80||0
+|-
+|2||60||0||0||130||0
+|-
+|3||100||0||0||180||0
+|-
+|rowspan="4"|Cute
+|0||10||0||30||0||0
+|-
+|1||30||0||80||0||0
+|-
+|2||60||0||130||0||0
+|-
+|3||100||0||180||0||0
+|-
+|rowspan="4"|Wicked
+|0||10||0||0||0||30
+|-
+|1||30||0||0||0||80
+|-
+|2||60||0||0||0||130
+|-
+|3||100||0||0||0||180
+|}
+
+|-|Blue=
+{|class="mw-collapsible wikitable"
+!rowspan="2" style="background-color:var(--blue-bg)"|Type
+!rowspan="2" style="background-color:var(--blue-bg)"|Tier
+!rowspan="2" style="background-color:var(--blue-bg)"|Req. Fragments
+!colspan="4" style="background-color:var(--blue-bg)"|Type
+|-
+! style="background-color:var(--blue-bg)"|Posh
+! style="background-color:var(--blue-bg)"|Moody
+! style="background-color:var(--blue-bg)"|Cute
+! style="background-color:var(--blue-bg)"|Wicked
+|-
+|rowspan="5"|Posh
+|0||20||30||0||0||10
+|-
+|1||30||110||0||0||20
+|-
+|2||60||190||0||0||30
+|-
+|3||100||270||0||0||40
+|-
+|4||140||350||0||0||50
+|-
+|rowspan="5"|Moody
+|0||20||0||30||10||0
+|-
+|1||30||0||110||20||0
+|-
+|2||60||0||190||30||0
+|-
+|3||100||0||270||40||0
+|-
+|4||140||0||350||50||0
+|-
+|rowspan="5"|Cute
+|0||20||0||10||30||0
+|-
+|1||30||0||20||110||0
+|-
+|2||60||0||30||190||0
+|-
+|3||100||0||40||270||0
+|-
+|4||140||0||50||350||0
+|-
+|rowspan="5"|Wicked
+|0||20||10||0||0||30
+|-
+|1||30||20||0||0||110
+|-
+|2||60||30||0||0||190
+|-
+|3||100||40||0||0||270
+|-
+|4||140||50||0||0||350
+|}
+
+|-|Purple=
+{|class="mw-collapsible wikitable"
+!rowspan="2" style="background-color:var(--purple-bg)"|Type
+!rowspan="2" style="background-color:var(--purple-bg)"|Tier
+!rowspan="2" style="background-color:var(--purple-bg)"|Req. Fragments
+!colspan="4" style="background-color:var(--purple-bg)"|Type
+|-
+! style="background-color:var(--purple-bg)"|Posh
+! style="background-color:var(--purple-bg)"|Moody
+! style="background-color:var(--purple-bg)"|Cute
+! style="background-color:var(--purple-bg)"|Wicked
+|-
+|rowspan="6"|Posh
+|0||40||50||30||20||0
+|-
+|1||30||140||50||30||0
+|-
+|2||60||230||70||40||0
+|-
+|3||100||320||90||50||0
+|-
+|4||140||410||110||60||0
+|-
+|5||180||500||130||70||0
+|-
+|rowspan="6"|Moody
+|0||40||30||50||0||20
+|-
+|1||30||50||140||0||30
+|-
+|2||60||70||230||0||40
+|-
+|3||100||90||320||0||50
+|-
+|4||140||110||410||0||60
+|-
+|5||180||130||500||0||70
+|-
+|rowspan="6"|Cute
+|0||40||0||20||50||30
+|-
+|1||30||0||30||140||50
+|-
+|2||60||0||40||230||70
+|-
+|3||100||0||50||320||90
+|-
+|4||140||0||60||410||110
+|-
+|5||180||0||70||500||130
+|-
+|rowspan="6"|Wicked
+|0||40||20||0||30||50
+|-
+|1||30||30||0||50||140
+|-
+|2||60||40||0||70||230
+|-
+|3||100||50||0||90||320
+|-
+|4||140||60||0||110||410
+|-
+|5||180||70||0||130||500
+|}
+
+|-|Orange=
+{|class="mw-collapsible wikitable"
+!rowspan="2" style="background-color:var(--orange-bg)"|Type
+!rowspan="2" style="background-color:var(--orange-bg)"|Tier
+!rowspan="2" style="background-color:var(--orange-bg)"|Req. Fragments
+!colspan="4" style="background-color:var(--orange-bg)"|Type
+!rowspan="2" style="background-color:var(--orange-bg)"|Type
+!rowspan="2" style="background-color:var(--orange-bg)"|Tier
+!rowspan="2" style="background-color:var(--orange-bg)"|Req. Fragments
+!colspan="4" style="background-color:var(--orange-bg)"|Type
+|-
+! style="background-color:var(--orange-bg)"|Posh
+! style="background-color:var(--orange-bg)"|Moody
+! style="background-color:var(--orange-bg)"|Cute
+! style="background-color:var(--orange-bg)"|Wicked
+! style="background-color:var(--orange-bg)"|Posh
+! style="background-color:var(--orange-bg)"|Moody
+! style="background-color:var(--orange-bg)"|Cute
+! style="background-color:var(--orange-bg)"|Wicked
+|-
+|rowspan="7"|Posh 1
+|0||60||60||30||40||30
+|rowspan="7"|Posh 2
+|0||60||60||30||30||40
+|-
+|1||30||160||40||60||40
+|1||30||160||40||40||60
+|-
+|2||60||260||50||80||50
+|2||60||260||50||50||80
+|-
+|3||100||360||60||100||60
+|3||100||360||60||60||100
+|-
+|4||140||460||70||120||70
+|4||140||460||70||70||120
+|-
+|5||180||560||80||140||80
+|5||180||560||80||80||140
+|-
+|6||240||660||90||160||90
+|6||240||660||90||90||160
+|-
+|rowspan="7"|Moody 1
+|0||60||40||60||30||30
+|rowspan="7"|Moody 2
+|0||60||30||60||40||30
+|-
+|1||30||60||160||40||40
+|1||30||40||160||60||40
+|-
+|2||60||80||260||50||50
+|2||60||50||260||80||50
+|-
+|3||100||100||360||60||60
+|3||100||60||360||100||60
+|-
+|4||140||120||460||70||70
+|4||140||70||460||120||70
+|-
+|5||180||140||560||80||80
+|5||180||80||560||140||80
+|-
+|6||240||160||660||90||90
+|6||240||90||660||160||90
+|-
+|rowspan="7"|Cute 1
+|0||60||30||30||60||40
+|rowspan="7"|Cute 2
+|0||60||30||40||60||30
+|-
+|1||30||40||40||160||60
+|1||30||40||60||160||40
+|-
+|2||60||50||50||260||80
+|2||60||50||80||260||50
+|-
+|3||100||60||60||360||100
+|3||100||60||100||360||60
+|-
+|4||140||70||70||460||120
+|4||140||70||120||460||70
+|-
+|5||180||80||80||560||140
+|5||180||80||140||560||80
+|-
+|6||240||90||90||660||160
+|6||240||90||160||660||90
+|-
+|rowspan="7"|Wicked 1
+|0||60||30||40||30||60
+|rowspan="7"|Wicked 2
+|0||60||30||30||40||60
+|-
+|1||30||40||60||40||160
+|1||30||40||40||60||160
+|-
+|2||60||50||80||50||260
+|2||60||50||50||80||260
+|-
+|3||100||60||100||60||360
+|3||100||60||60||100||360
+|-
+|4||140||70||120||70||460
+|4||140||70||70||120||460
+|-
+|5||180||80||140||80||560
+|5||180||80||80||140||560
+|-
+|6||240||90||160||90||660
+|6||240||90||90||160||660
+|-
+|}
+</tabber>
+{{Clear}}
+
+===Outfit Items===
+
+<tabber>
+|-|Posh=
+{|class="mw-collapsible wikitable"
+!Set Name
+!style="background-color:var(--green-bg)"|{{RewardIconWithText|Olympus}}
+!style="background-color:var(--blue-bg)"|{{RewardIconWithText|Wonderland}}
+!style="background-color:var(--purple-bg)"|{{RewardIconWithText|Beauty of Seasons}}
+!style="background-color:var(--orange-bg)"|{{RewardIconWithText|The Duchess}}
+!style="background-color:var(--orange-bg)"|{{RewardIconWithText|Ultimate Valkyrie}}
+|-
+|Headwear||{{RewardIconWithText|Crown of Victory}}||{{RewardIconWithText|Rococo}}||{{RewardIconWithText|Blooming Sakura}}||{{RewardIconWithText|Balrog}}||{{RewardIconWithText|Triumph Wings}}
+|-
+|Necklace||{{RewardIconWithText|Brilliance}}||{{RewardIconWithText|Dream of Spring Breeze}}||{{RewardIconWithText|Star}}||{{RewardIconWithText|Habsburg Dynasty}}||{{RewardIconWithText|Athena's Sigh}}
+|-
+|Top||{{RewardIconWithText|Epic Odyssey}}||{{RewardIconWithText|Young Girl's Dream}}||{{RewardIconWithText|Oriole}}||{{RewardIconWithText|Prince-elector}}||{{RewardIconWithText|The War of Divinity}}
+|-
+|Bottom||{{RewardIconWithText|Ode to Itself}}||{{RewardIconWithText|Lolita}}||{{RewardIconWithText|Moon Lady}}||{{RewardIconWithText|Victoria}}||{{RewardIconWithText|Parthenon's Oath}}
+|-
+|Socks||{{RewardIconWithText|Mercy of Discipline}}||{{RewardIconWithText|Fairy Tale}}||{{RewardIconWithText|First Snow}}||{{RewardIconWithText|Silk Silver}}||{{RewardIconWithText|Oblivion}}
+|-
+|Hand||{{RewardIconWithText|Unstained Laurel}}||{{RewardIconWithText|Lost Woods}}||{{RewardIconWithText|Apple}}||{{RewardIconWithText|Oriental Socialite}}||{{RewardIconWithText|Tree of Origin}}
+|-
+|Bag||{{RewardIconWithText|Ancient Memory}}||{{RewardIconWithText|March Hare}}||{{RewardIconWithText|The Four Seasons}}||{{RewardIconWithText|Platinum}}||{{RewardIconWithText|End Times}}
+|-
+|Shoes||{{RewardIconWithText|Stride of Honor}}||{{RewardIconWithText|Lullaby}}||{{RewardIconWithText|Mist on the Mountain}}||{{RewardIconWithText|Red Queen}}||{{RewardIconWithText|Radiance}}
+|}
+
+|-|Moody=
+{|class="mw-collapsible wikitable"
+!Set Name
+!style="background-color:var(--green-bg)"|{{RewardIconWithText|Crimson Rose}}
+!style="background-color:var(--blue-bg)"|{{RewardIconWithText|Morning Breeze}}
+!style="background-color:var(--purple-bg)"|{{RewardIconWithText|Starry Night}}
+!style="background-color:var(--orange-bg)"|{{RewardIconWithText|Moonlit Beauty}}
+!style="background-color:var(--orange-bg)"|{{RewardIconWithText|Paradise Reminiscence}}
+|-
+|Headwear||{{RewardIconWithText|Scarlet Gleam}}||{{RewardIconWithText|Blue Bird}}||{{RewardIconWithText|Secret Whisper}}||{{RewardIconWithText|Crescent}}||{{RewardIconWithText|Watcher}}
+|-
+|Necklace||{{RewardIconWithText|Poem of Arbion}}||{{RewardIconWithText|Solitary Acadia}}||{{RewardIconWithText|Pupil of Star}}||{{RewardIconWithText|Noble Moon}}||{{RewardIconWithText|Jamming Device}}
+|-
+|Top||{{RewardIconWithText|Crimson Knightness}}||{{RewardIconWithText|Glimmering Dawn}}||{{RewardIconWithText|Night of Magic}}||{{RewardIconWithText|Red Luna}}||{{RewardIconWithText|EXA-58F}}
+|-
+|Bottom||{{RewardIconWithText|Crimson Illusion}}||{{RewardIconWithText|Tale of the Wind}}||{{RewardIconWithText|Curtain of Stars}}||{{RewardIconWithText|Dance of Wonder}}||{{RewardIconWithText|AMF-330 (modified)}}
+|-
+|Socks||{{RewardIconWithText|Crimson Rain}}||{{RewardIconWithText|White Dew}}||{{RewardIconWithText|Cracked Stars}}||{{RewardIconWithText|Lingering Love}}||{{RewardIconWithText|Composite Lining Armor}}
+|-
+|Hand||{{RewardIconWithText|Reserved Etiquette}}||{{RewardIconWithText|Heavenly Sonata}}||{{RewardIconWithText|Hazy Galaxy}}||{{RewardIconWithText|Godly Blade}}||{{RewardIconWithText|Dimension Cutter}}
+|-
+|Bag||{{RewardIconWithText|No. 5 Crimson}}||{{RewardIconWithText|Fallen Star}}||{{RewardIconWithText|Man-eating Bag}}||{{RewardIconWithText|Sake Pot}}||{{RewardIconWithText|Positron Cannon}}
+|-
+|Shoes||{{RewardIconWithText|Rose Ball}}||{{RewardIconWithText|Breeze}}||{{RewardIconWithText|Starry Night Waltz}}||{{RewardIconWithText|Evening Primrose}}||{{RewardIconWithText|Transition Generator}}
+|}
+
+|-|Cute=
+{|class="mw-collapsible wikitable"
+!Set Name
+!style="background-color:var(--green-bg)"|{{RewardIconWithText|Heartbeat Memory}}
+!style="background-color:var(--blue-bg)"|{{RewardIconWithText|Meow!}}
+!style="background-color:var(--purple-bg)"|{{RewardIconWithText|Carrot Mania}}
+!style="background-color:var(--orange-bg)"|{{RewardIconWithText|Sweet Magic Apostle}}
+!style="background-color:var(--orange-bg)"|{{RewardIconWithText|Peach Blossom}}
+|-
+|Headwear||{{RewardIconWithText|Good Morning}}||{{RewardIconWithText|Two Pointed Ears}}||{{RewardIconWithText|Lucky Bunny Ear}}||{{RewardIconWithText|Macaron}}||{{RewardIconWithText|Long Hair Bun}}
+|-
+|Necklace||{{RewardIconWithText|Pure Confession}}||{{RewardIconWithText|Cat Bell}}||{{RewardIconWithText|Carrot Seed}}||{{RewardIconWithText|Star-shaped Candy}}||{{RewardIconWithText|Precious Jewelry}}
+|-
+|Top||{{RewardIconWithText|Midsummer Night Tale}}||{{RewardIconWithText|Attractive Hunter}}||{{RewardIconWithText|Field Trip}}||{{RewardIconWithText|Sweet Taste}}||{{RewardIconWithText|Drifting Snowflake}}
+|-
+|Bottom||{{RewardIconWithText|Manga Girl}}||{{RewardIconWithText|Kawaii is Everything}}||{{RewardIconWithText|Flowering Bud}}||{{RewardIconWithText|Swaying Sweetheart}}||{{RewardIconWithText|Clouded Moon}}
+|-
+|Socks||{{RewardIconWithText|Regular Day}}||{{RewardIconWithText|Kawaii Attraction}}||{{RewardIconWithText|White Night Fantasy}}||{{RewardIconWithText|Smooth Macchiato}}||{{RewardIconWithText|Faint Aroma}}
+|-
+|Hand||{{RewardIconWithText|Raining Day}}||{{RewardIconWithText|Claw & Fishing Rod}}||{{RewardIconWithText|Bite the Carrot}}||{{RewardIconWithText|Sweet Incantation}}||{{RewardIconWithText|Illusion}}
+|-
+|Bag||{{RewardIconWithText|Signal of Love}}||{{RewardIconWithText|Many Fishes}}||{{RewardIconWithText|Maiden's Heart}}||{{RewardIconWithText|Big Candy}}||{{RewardIconWithText|Blooming Peach}}
+|-
+|Shoes||{{RewardIconWithText|After School}}||{{RewardIconWithText|Sleepy Cat}}||{{RewardIconWithText|Rustic Path}}||{{RewardIconWithText|Dessert After Meal}}||{{RewardIconWithText|Subtle Steps}}
+|}
+
+|-|Wicked=
+{|class="mw-collapsible wikitable"
+!Set Name
+!style="background-color:var(--green-bg)"|{{RewardIconWithText|Your Maid}}
+!style="background-color:var(--blue-bg)"|{{RewardIconWithText|Red Mill}}
+!style="background-color:var(--purple-bg)"|{{RewardIconWithText|Bioboosted Mutant}}
+!style="background-color:var(--orange-bg)"|{{RewardIconWithText|Imperial Falcon}}
+!style="background-color:var(--orange-bg)"|{{RewardIconWithText|Abyss Princess}}
+|-
+|Headwear||{{RewardIconWithText|Shelter of Heart}}||{{RewardIconWithText|Nightless}}||{{RewardIconWithText|Parasitic Insect}}||{{RewardIconWithText|Code of Honor}}||{{RewardIconWithText|Dominator}}
+|-
+|Necklace||{{RewardIconWithText|Absolute Power}}||{{RewardIconWithText|Red Kiss}}||{{RewardIconWithText|Bony Eye}}||{{RewardIconWithText|The Undefeated}}||{{RewardIconWithText|Parade Rite}}
+|-
+|Top||{{RewardIconWithText|Carefree}}||{{RewardIconWithText|Phantom}}||{{RewardIconWithText|Polymer Bone}}||{{RewardIconWithText|Imperial General}}||{{RewardIconWithText|Violet Pact}}
+|-
+|Bottom||{{RewardIconWithText|Feather-light}}||{{RewardIconWithText|Temptation}}||{{RewardIconWithText|Polluter}}||{{RewardIconWithText|Queen of Battlefield}}||{{RewardIconWithText|Requiem (outfit)}}
+|-
+|Socks||{{RewardIconWithText|Exclusive Maid}}||{{RewardIconWithText|Night Butterfly}}||{{RewardIconWithText|Steel-coated Muscle}}||{{RewardIconWithText|Perfect Strategy}}||{{RewardIconWithText|Maiden's Prank}}
+|-
+|Hand||{{RewardIconWithText|Offensive Clearer}}||{{RewardIconWithText|Love Song}}||{{RewardIconWithText|Parasitic Mouthpart}}||{{RewardIconWithText|Gustav}}||{{RewardIconWithText|Maiden Natalia}}
+|-
+|Bag||{{RewardIconWithText|Defensive Bucket}}||{{RewardIconWithText|Purple Flash}}||{{RewardIconWithText|Dissolver Cavity}}||{{RewardIconWithText|Eagle Eye}}||{{RewardIconWithText|Ivan the Familiar}}
+|-
+|Shoes||{{RewardIconWithText|Bond}}||{{RewardIconWithText|Endless Tango}}||{{RewardIconWithText|Ripper}}||{{RewardIconWithText|Conqueror}}||{{RewardIconWithText|Abyssal Strider}}
+|} 
+</tabber>
+
+==Obtaining Outfit Items==
+The only two ways to obtain outfit items is through either the Constellation gacha mechanic or through the shop.
+
+===Costume Star Chart===
+The Costume Star Chart is the gacha mechanic used to obtain outfit items for Athena, split between the four different outfit currencies: Leather, Crystal, Feather, and Thread. Each currency has its own roll chances and items, costing 100 for 1 draw or 1,000 for 10 draws. Non-outfit items can only be obtained once before being removed from the pool.
+
+<!-- Leather Drop rates 
+<tabber>
+|-|Leather=
+{|class="wikitable style="text-align:center"
+!style="background-color:var(--green-bg)"|[[File:Rose Ball.png|50px]]<br>Rose Ball
+!style="background-color:var(--green-bg)"|[[File:After School.png|50px]]<br>After School
+!style="background-color:var(--green-bg)"|[[File:Stride of Honor.png|50px]]<br>Stride of Honor
+!style="background-color:var(--green-bg)"|[[File:Bond.png|50px]]<br>Bond
+|-
+!0.6%!!0.6%!!0.6%!!0.6%
+|-
+!style="background-color:var(--green-bg)"|[[File:No. 5 Crimson.png|50px]]<br>No. 5 Crimson
+!style="background-color:var(--green-bg)"|[[File:Signal of Love.png|50px]]<br>Signal of Love
+!style="background-color:var(--green-bg)"|[[File:Ancient Memory.png|50px]]<br>Ancient Memory
+!style="background-color:var(--green-bg)"|[[File:Defensive Bucket.png|50px]]<br>Defensive Bucket
+|-
+!0.6%!!0.6%!!0.6%!!0.6%
+|-
+!style="background-color:var(--green-bg)"|[[File:Green Coating.png|50px]]<br>Green Coating +120
+!style="background-color:var(--green-bg)"|[[File:Hellenic Treasure Map.png|50px]]<br>Hellenic Treasure Map +20
+!style="background-color:var(--green-bg)"|{{Reimg|Pan's Flute}}<br>[[Pan's Flute]]
+!style="background-color:var(--green-bg)"|[[File:Green Costume Fragment.png|50px]]<br>Green Costume Fragment<sup>[1]</sup>
+|-
+!6.4%!!8%!!1.6%!!19.2%
+|-
+!style="background-color:var(--blue-bg)"|[[File:Breeze.png|50px]]<br>Breeze
+!style="background-color:var(--blue-bg)"|[[File:Sleepy Cat.png|50px]]<br>Sleepy Cat
+!style="background-color:var(--blue-bg)"|[[File:Lullaby.png|50px]]<br>Lullaby
+!style="background-color:var(--blue-bg)"|[[File:Endless Tango.png|50px]]<br>Endless Tango
+|-
+!0.45%!!0.45%!!0.45%!!0.45%
+|-
+!style="background-color:var(--blue-bg)"|[[File:Fallen Star.png|50px]]<br>Fallen Star
+!style="background-color:var(--blue-bg)"|[[File:Many Fishes.png|50px]]<br>Many Fishes
+!style="background-color:var(--blue-bg)"|[[File:March Hare.png|50px]]<br>March Hare
+!style="background-color:var(--blue-bg)"|[[File:Purple Flash.png|50px]]<br>Purple Flash
+|-
+!0.45%!!0.45%!!0.45%!!0.45%
+|-
+!style="background-color:var(--blue-bg)"|[[File:Blue Coating.png|50px]]<br>Blue Coating +80
+!style="background-color:var(--blue-bg)"|[[File:Hellenic Treasure Map.png|50px]]<br>Hellenic Treasure Map +30
+!style="background-color:var(--blue-bg)"|[[File:Talent Fruit.png|50px]]<br>Talent Fruit
+!style="background-color:var(--blue-bg)"|[[File:Blue Costume Fragment.png|50px]]<br>Blue Costume Fragment<sup>[2]</sup>
+|-
+!4.8%!!6%!!1.2%!!14.4%
+|-
+!style="background-color:var(--purple-bg)"|[[File:Starry Night Waltz.png|50px]]<br>Starry Night Waltz
+!style="background-color:var(--purple-bg)"|[[File:Rustic Path.png|50px]]<br>Rustic Path
+!style="background-color:var(--purple-bg)"|[[File:Mist on the Mountain.png|50px]]<br>Mist on the Mountain
+!style="background-color:var(--purple-bg)"|[[File:Ripper.png|50px]]<br>Ripper
+|-
+!0.3%!!0.3%!!0.3%!!0.3%
+|-
+!style="background-color:var(--purple-bg)"|[[File:Man-eating Bag.png|50px]]<br>Man-eating Bag
+!style="background-color:var(--purple-bg)"|[[File:Maiden's Heart.png|50px]]<br>Maiden's Heart
+!style="background-color:var(--purple-bg)"|[[File:The Four Seasons.png|50px]]<br>The Four Seasons
+!style="background-color:var(--purple-bg)"|[[File:Dissolver Cavity.png|50px]]<br>Dissolver Cavity
+|-
+!0.3%!!0.3%!!0.3%!!0.3%
+|-
+!style="background-color:var(--purple-bg)"|[[File:Purple Coating.png|50px]]<br>Purple Coating +40
+!style="background-color:var(--purple-bg)"|[[File:Hellenic Treasure Map.png|50px]]<br>Hellenic Treasure Map +40
+!style="background-color:var(--purple-bg)"|[[File:Toner.png|50px]]<br>Toner +20
+!style="background-color:var(--purple-bg)"|[[File:Purple Costume Fragment.png|50px]]<br>Purple Costume Fragment<sup>[3]</sup>
+|-
+!3.2%!!4%!!0.8%!!9.6%
+|-
+!style="background-color:var(--orange-bg)"|[[File:Evening Primrose.png|50px]]<br>Evening Primrose
+!style="background-color:var(--orange-bg)"|[[File:Transition Generator.png|50px]]<br>Transition Generator
+!style="background-color:var(--orange-bg)"|[[File:Dessert After Meal.png|50px]]<br>Dessert After Meal
+!style="background-color:var(--orange-bg)"|[[File:Subtle Steps.png|50px]]<br>Subtle Steps
+|-
+!0.105%!!0.105%!!0.105%!!0.105%
+|-
+!style="background-color:var(--orange-bg)"|[[File:Red Queen.png|50px]]<br>Red Queen
+!style="background-color:var(--orange-bg)"|[[File:Radiance.png|50px]]<br>Radiance
+!style="background-color:var(--orange-bg)"|[[File:Conqueror.png|50px]]<br>Conqueror
+!style="background-color:var(--orange-bg)"|[[File:Abyssal Strider.png|50px]]<br>Abyssal Strider
+|-
+!0.105%!!0.105%!!0.105%!!0.105%
+|-
+!style="background-color:var(--orange-bg)"|[[File:Sake Pot.png|50px]]<br>Sake Pot
+!style="background-color:var(--orange-bg)"|[[File:Positron Cannon.png|50px]]<br>Positron Cannon
+!style="background-color:var(--orange-bg)"|[[File:Big Candy.png|50px]]<br>Big Candy
+!style="background-color:var(--orange-bg)"|[[File:Blooming Peach.png|50px]]<br>Blooming Peach
+|-
+!0.045%!!0.045%!!0.045%!!0.045%
+|-
+!style="background-color:var(--orange-bg)"|[[File:Platinum.png|50px]]<br>Platinum
+!style="background-color:var(--orange-bg)"|[[File:End Times.png|50px]]<br>End Times
+!style="background-color:var(--orange-bg)"|[[File:Eagle Eye.png|50px]]<br>Eagle Eye
+!style="background-color:var(--orange-bg)"|[[File:Ivan the Familiar.png|50px]]<br>Ivan the Familiar
+|-
+!0.045%!!0.045%!!0.045%!!0.045%
+|-
+!style="background-color:var(--orange-bg)"|[[File:Orange Coating.png|50px]]<br>Orange Coating +20
+!style="background-color:var(--orange-bg)"|[[File:Hellenic Treasure Map.png|50px]]<br>Hellenic Treasure Map +50
+!style="background-color:var(--orange-bg)"|{{Reimg|Golden Chariot}}<br>[[Golden Chariot]]
+!style="background-color:var(--orange-bg)"|[[File:Star-Dust.png|50px]]<br>Star-Dust +5
+|-
+!0.9%!!0.9%!!0.4%!!0.9%
+|-
+!style="background-color:var(--orange-bg)"|{{Reimg|Parthenon Marbles}}<br>[[Parthenon Marbles]]
+!style="background-color:var(--orange-bg)"|[[File:Orange Costume Fragment.png|50px]]<br>Orange Costume Fragment<sup>[4]</sup>
+!style="background-color:var(--orange-bg)"|[[File:Orange Costume Fragment.png|50px]]<br>Orange Costume Fragment<sup>[5]</sup>
+!rowspan="2" style="background-color:var(--white-bg)"|
+|-
+!0.9%!!3.36%!!1.44%
+|}
+<sup>[1]</sup>Randomly get 2 to 10 Green Costume Fragments (Shoes or Bag)<br>
+<sup>[2]</sup>Randomly get 2 to 10 Blue Costume Fragment (Shoes or Bag)<br>
+<sup>[3]</sup>Randomly get 2 to 10 Purple Costume Fragment (Shoes or Bag)<br>
+<sup>[4]</sup>Randomly get 2 to 10 Orange Costume Fragment (Shoes)<br>
+<sup>[5]</sup>Randomly get 2 to 10 Orange Costume Fragment (Bag)
+<tabber>
+-->
+===Costume Shop===
+The Costume Shop is unlocked through the [[Hellas INTEL#Godess' Guide INTEL|Olympus Market]] INTEL. The shop allows you to spend accumulated Costume Coin to buy specific outfit items rather than roll for them randomly with the Costume Star Chart.
+
+Costume Coin is accumulated anytime you roll an outfit item fro the Costume Star Chart that you have already fully upgraded/ascended. Every fragment will be converted into 10 Costume Coin. Once an item has been fully upgraded/ascended, it is no longer available to buy from the shop.
+ 10 {{Retext|Green Costume|green}} Fragments cost 200 Costume Coin
+ 20 {{Retext|Blue Costume|blue}} Fragments cost 700 Costume Coin
+ 40 {{Retext|Purple Costume Fragments|purple}} cost 2,500 Costume Coin
+ 60 {{Retext|Orange Costume Fragments|orange}} cost 6,000 Costume Coin
+
+==Skills==
+Athena's outfits unlock various skills when wearing items of the same rank and the same type on all four ranks or all eight types. When you wear all items from a single outfit, you gain an additional bonus skill. Some of these skills will boost HARD or ELMT Stats or immediately reward items. 
+
+<tabber>
+|-|Posh=
+{|class="wikitable"
+!Skill!!Score!!Effect
+|-
+|rowspan="3" style="background-color:var(--green-bg); text-align:center"|[[File:Olympus.png|50px]]<br>'''Olympus'''
+|4||Snail FTH +800
+|-
+|8||Leather from Leather Workshop +10%
+|-
+|Perfect||Earth DMG +50
+|-
+|rowspan="3" style="background-color:var(--blue-bg); text-align:center"|[[File:Wonderland.png|50px]]<br>'''Wonderland'''
+|4||Snail ART +800
+|-
+|8||When converting Cards, INTEL gained +10%
+|-
+|Perfect||When converting Cards, Cells gained +20%
+|-
+|rowspan="3" style="background-color:var(--purple-bg); text-align:center"|[[File:Beauty of Seasons.png|50px]]<br>'''Beauty of Seasons'''
+|4||Snail HP +15,000
+|-
+|8||Wind DMG +50
+|-
+|Perfect||For the Sacred Mirror, Heavenly Seal ATK +5%
+|-
+|rowspan="3" style="background-color:var(--orange-bg); text-align:center"|[[File:The Duchess.png|50px]]<br>'''The Duchess'''
+|4||Crystals from Crystal Workshop +10%
+|-
+|8||Per Orange Relic awakened, CRIT DMG +0.3%
+|-
+|Perfect||Obtain Orange Relic ({{RewardIconWithLink|Swan Lake|orange}})
+|-
+|rowspan="3" style="background-color:var(--orange-bg); text-align:center"|[[File:Ultimate Valkyrie.png|50px]]<br>'''Ultimate Valkyrie'''
+|4||In Angel Form, B-tads gained +10%
+|-
+|8||In Angel Form, Travel SPD +5%
+|-
+|Perfect||When competing in Arenas, Rating +10%
+|}
+
+|-|Moody=
+{|class="wikitable" style="text-align:center"
+!Skill!!Score!!Effect
+|-
+|rowspan="3" style="background-color:var(--green-bg)"|[[File:Crimson Rose.png|50px]]<br>'''Crimson Rose'''
+|4||CRIT +10%
+|-
+|8||CRIT DMG +10%
+|-
+|Perfect||For Round 1, DMG +10%
+|-
+|rowspan="3" style="background-color:var(--blue-bg)"|[[File:Morning Breeze.png|50px]]<br>'''Morning Breeze'''
+|4||Snail RUSH +1500
+|-
+|8||In explorations, AFFCT Checks -500
+|-
+|Perfect||Each Round, Snail ATK +500
+|-
+|rowspan="3" style="background-color:var(--purple-bg)"|[[File:Starry Night.png|50px]]<br>'''Starry Night'''
+|4||In Round 1, summon Meteor Strikes to deal DMG
+|-
+|8||Fire DMG +50
+|-
+|Perfect||Fiery Meteor Shower DMG +50%
+|-
+|rowspan="3" style="background-color:var(--orange-bg)"|[[File:Moonlit Beauty.png|50px]]<br>'''Moonlit Beauty'''
+|4||Snail ATK +1500
+|-
+|8||Snail DEF +1500
+|-
+|Perfect||When HP <50%, Snail ATK +10%
+|-
+|rowspan="3" style="background-color:var(--orange-bg)"|[[File:Paradise Reminiscence.png|50px]]<br>'''Paradise Reminiscence'''
+|4||DMG +10%
+|-
+|8||In Mecha Form, Travel SPD +5%
+|-
+|Perfect||In Mecha Form, 2x Card Drops +50%
+|}
+
+|-|Cute=
+{|class="wikitable" style="text-align:center"
+!Skill!!Score!!Effect
+|-
+|rowspan="3" style="background-color:var(--green-bg)"|[[File:Heartbeat Memory.png|50px]]<br>'''Heartbeat Memory'''
+|4||Upon traveling through an area: Gain +150 INTEL
+|-
+|8||In explorations, INTEL gained +10% 
+|-
+|Perfect||For Hellas Incidents, AFFECT Checks -1500
+|-
+|rowspan="3" style="background-color:var(--blue-bg)"|[[File:Meow!.png|50px]]<br>'''Meow!'''
+|4||Snail TECH +800
+|-
+|8||Threads from Thread Workshop +10%
+|-
+|Perfect||Upon traveling through an area: Gain +20 Threads
+|-
+|rowspan="3" style="background-color:var(--purple-bg)"|[[File:Carrot Mania.png|50px]]<br>'''Carrot Mania'''
+|4||Per dodge, Recover +5000 HP
+|-
+|8||Dodge +5%
+|-
+|Perfect||When HP >90%, Snail ATK +20%
+|-
+|rowspan="3" style="background-color:var(--orange-bg)"|[[File:Sweet Magic Apostle.png|50px]]<br>'''Sweet Magic Apostle'''
+|4||In explorations, AFFCT Checks -500
+|-
+|8||When converting Cards, B-tads gained +10%
+|-
+|Perfect||When converting Cards, Speedups gained +5%
+|-
+|rowspan="3" style="background-color:var(--orange-bg)"|[[File:Peach Blossom.png|50px]]<br>'''Peach Blossom'''
+|4||Snail CIV +800
+|-
+|8||In Dragon Form, Travel SPD +5%
+|-
+|Perfect||Enemies in explorations drop Gear Chests by +25%
+|}
+
+|-|Wicked=
+{|class="wikitable" style="text-align:center"
+!Skill!!Score!!Effect
+|-
+|rowspan="3" style="background-color:var(--green-bg)"|[[File:Your Maid.png|50px]]<br>'''Your Maid'''
+|4||Each round Snail HP +500
+|-
+|8||Feathers from Feather Workshop +10%
+|-
+|Perfect||Water DMG +50
+|-
+|rowspan="3" style="background-color:var(--blue-bg)"|[[File:Red Mill.png|50px]]<br>'''Red Mill'''
+|4||Against Male Apostles, DMG +15%
+|-
+|8||Against Male Apostles, CRIT +15%
+|-
+|Perfect||Obtain 1.5k W-tads
+|-
+|rowspan="3" style="background-color:var(--purple-bg)"|[[File:Bioboosted Mutant.png|50px]]<br>'''Bioboosted Mutant'''
+|4||In Mutant Form, Snail ATK +5%
+|-
+|8||Poison DMG +50
+|-
+|Perfect||In Mutant Form, 2x Reagent Drops +10%
+|-
+|rowspan="3" style="background-color:var(--orange-bg)"|[[File:Imperial Falcon.png|50px]]<br>'''Imperial Falcon'''
+|4||Crit DMG +10%
+|-
+|8||Per 400 FAME, Snail HARD Stats +0.1%
+|-
+|Perfect||Snail FAME +800
+|-
+|rowspan="3" style="background-color:var(--orange-bg)"|[[File:Abyss Princess.png|50px]]<br>'''Abyss Princess'''
+|4||Per victory, Ancient Manuscripts gained +1
+|-
+|8||In Demon Form, Travel SPD +5%
+|-
+|Perfect||While in Demon Form, Cells collected +10%
+|}
+</tabber>
+
+[[Category:Locations]]
+[[Category:Realms]]
+[[Category:Hellas]]
+[[Category:Unique Elements]]

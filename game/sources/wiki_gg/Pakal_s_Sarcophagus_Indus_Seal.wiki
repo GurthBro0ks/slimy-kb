@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=416
+|relics=Pakal's Sarcophagus,Indus Seal
+|rank=purple
+|amount=2
+|category=self
+|description=Domain Cabin Output +6%
+}}

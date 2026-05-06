@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Guardian Token
+|class_id=20292
+|rank=Green
+|affct=FAITH
+|source=
+|description=From the moment they received the chief's mission, the guardian regarded the task of guarding the seal as their lifelong mission. As time passes by, they have been diligent and repelled numerous individuals with ulterior motives. This guardian token bears witness to their loyalty!
+|fame=14
+|art=14
+|fth=34
+|civ=14
+|tech=14
+|ss1=Per Seal removed, Snail ATK +5<br>Seal removed: 8/8
+|ss2=Per Seal removed, Snail ATK +10<br>Seal removed: 8/8
+|ss3=Per Seal removed, Snail ATK +15<br>Seal removed: 8/8
+|ss4=Per Seal removed, Snail ATK +15<br>Seal removed: 8/8
+|ss7=Per Seal removed, Snail ATK +15<br>Seal removed: 8/8<br> (Awakened)
+}}

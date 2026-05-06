@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Chimera's Mane
+|type=Bionic
+|rank=purple
+|id=10659
+|idx=16
+|description=Liquid moonlight given tangible form, these undulating strands radiate therapeutic serenity. One touch could lull warriors into blissful oblivion.
+|skill=Summon Chimera, dealing DMG equal to 163% of ATK!
+|hp=2160
+|def=137
+|atk=132
+|rush=146
+|gene1=Per purple or higher organ equipped, {race} HP +100
+Purple or higher Organs equipped: 7/7
+|gene2=Water RES +60
+|gene3=Earth RES +60
+|gene4=In Dragon Form, {race} HP +400
+|gene7=Water RES +180 (Awakened)
+|}}

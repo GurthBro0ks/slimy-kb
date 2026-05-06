@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Rajavadiya Dragon Pattern Glazed Tile
+|class_id=22866
+|rank=SSS
+|affct=CIV
+|source=
+|description=The Raja Vaidya Dragon Pattern Glazed Tile was created during the Ilkhanate period in the 14th century. It features a blue glaze base made of lapis lazuli, using overglaze techniques to depict a unique dragon pattern, vividly showcasing the posture of a dragon turning its head. As an Iranian artifact, it carries the ancient culture of Iran, witnessing the artistic style of the Ilkhanate period. Due to the oriental cultural elements of the dragon pattern, it reflects the exchange and fusion of Eastern and Western cultures in the realm of art, possessing significant research value.
+|fame=76
+|art=64
+|fth=56
+|civ=109
+|tech=57
+|ss1=When in Dragon Form:<br>> Gain +1.5% Dragon Chests in explorations<br>Per Divine Dragon Descent, Snail HP +3<br>Per Divine Dragon Descent, Snail ATK +3<br>Divine Dragon Descents: 80/80
+|ss2=When in Dragon Form:<br>> Gain +2% Dragon Chests in explorations<br>Per Divine Dragon Descent, Snail HP +4<br>Per Divine Dragon Descent, Snail ATK +4<br>Divine Dragon Descents: 80/80
+|ss3=When in Dragon Form:<br>> Gain +2.5% Dragon Chests in explorations<br>Per Divine Dragon Descent, Snail HP +5<br>Per Divine Dragon Descent, Snail ATK +5<br>Divine Dragon Descents: 80/80
+|ss4=When in Dragon Form:<br>> Gain +3.5% Dragon Chests in explorations<br>Per Divine Dragon Descent, Snail HP +7<br>Per Divine Dragon Descent, Snail ATK +7<br>Divine Dragon Descents: 80/80
+|ss5=When in Dragon Form:<br>> Gain +4.5% Dragon Chests in explorations<br>Per Divine Dragon Descent, Snail HP +9<br>Per Divine Dragon Descent, Snail ATK +9<br>Divine Dragon Descents: 80/80
+|ss6=When in Dragon Form:<br>> Gain +6% Dragon Chests in explorations<br>Per Divine Dragon Descent, Snail HP +12<br>Per Divine Dragon Descent, Snail ATK +12<br>Divine Dragon Descents: 80/80
+|ss7=When in Dragon Form:<br>> Gain +6% Dragon Chests in explorations<br>Per Divine Dragon Descent, Snail HP +12<br>Per Divine Dragon Descent, Snail ATK +12<br>Divine Dragon Descents: 80/80<br>When in Dragon Form:<br>> Gain +5% Dragon Chests in explorations (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, AFFCT Checks -150
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, DMG +30%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15
+|mirage={{Mirage|name=Glory of the Ilkhanate|reward={{RewardIconWithLink|Dragon Orb, +1|orange}}
+|3name=Ilkhanate Infantry|3rec=44.60M|3atk=161708|3defense=106638|3hp=3282828|3weak=15844
+|4name=Ilkhanate Archer|4rec=71.09M|4atk=218238|4defense=143916|4hp=5470660|4weak=18943
+|5name=Ilkhanate Cavalry|5rec=102.39M|5atk=285008|5defense=187948|5hp=8974614|5weak=23598
+|6name=Ilkhanate Khan|6rec=139.63M|6atk=364468|6defense=240346|6hp=13690956|6weak=29337
+|Arec=183.49M|Aatk=458044|Adefense=302054|Ahp=20881004|Aweak=33035
+}}}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Book of Soyga
+|class_id=22054
+|rank=Blue
+|affct=FAITH
+|birthday=09-03
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On Sept 3, 1594 AD, John Dee discovered the Book of Soyga, but he failed to decipher the content of the book till his last breath.<br>The Book of Soyga, written in Latin, was discovered by John Dee, an English scholar in the sixteenth century. He has tried to decipher the texts and symbols in it but has not found any results after exhausting his life. He only learned that the content is related to magic and alchemy. After his death, the book of Soyga disappeared again, and it was not rediscovered until five hundred years later. To this day, people have failed to decipher its contents.
+|fame=25
+|art=31
+|fth=47
+|civ=22
+|tech=29
+|ss1=Per 10 Demon Minions in battle:<br>> Troop HARD Stats +1
+|ss2=Per 10 Demon Minions in battle:<br>> Troop HARD Stats +2
+|ss3=Per 10 Demon Minions in battle:<br>> Troop HARD Stats +3
+|ss4=Per 10 Demon Minions in battle:<br>> Troop HARD Stats +5
+|ss7=Per 10 Demon Minions in battle:<br>> Troop HARD Stats +5<br>Per 10 Demon Minions in battle:<br>> Troop HARD Stats +5 (Awakened)
+|skill1=[[File:Quary skill I.png|50px]]Place in Quarry: Quarry Max Cap +5%
+}}

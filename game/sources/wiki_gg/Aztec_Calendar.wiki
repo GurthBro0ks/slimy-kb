@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Aztec Calendar
+|rank=Blue
+|affct=TECH
+|birthday=06-04
+|source=Lottery Machine (0.03%), Time Chest (2%), Wishing (1.1%)
+|description=On Jun 4, 1760, the ancient Aztec solar calendar was dug up near Mexico's main plaza.
+
+The Aztec is a lunar calendar that consists of 18 months a year, 20 days a month, and five inauspicious days at the end of the year, which is a total of 365 days. There was also another type of calendar which consists of 260 days a year. These two calendars were used together and formed a 52-year cycle. Every 52 years, the Aztecs would hold a fire ceremony. 
+
+[About the Solar Calendar Stone]
+Era: Around 14th century. Diameter: 12 feet. Weight: 26 tons. Collected by: Mexico's National Museum of Anthropology.
+|fame=31
+|art=31
+|fth=25
+|civ=21
+|tech=46
+|ss1=Free Gene Speedup (Mecha) +6m
+|ss2=Free Gene Speedup (Mecha) +12m
+|ss3=Free Gene Speedup (Mecha) +18m
+|ss4=Free Gene Speedup (Mecha) +30m
+|ss7=Free Gene Speedup (Mecha) +30m<br>Free Gene Speedup (Mecha) +30m (Awakened)
+|skill1=[[File:Arena skill I.png|50px]] Place in Snail Arena Compass: In Snail Arena, this Relic's TECH +5
+}}
+
+[[Category:Mecha Gene Speedup Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:TECH Boost]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:DNA Boost]]
+[[Category:ATK Boost]]

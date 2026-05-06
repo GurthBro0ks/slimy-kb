@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=281
+|relics=Aries,Taurus
+|rank=orange
+|amount=2
+|category=self
+|description=Per Supreme Relic gained, Snail ATK +100;Supreme Relics: 20/20
+}}

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Erdapfel
+|class_id=22119
+|rank=AAA
+|affct=FAME
+|birthday=01-24
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Jan 24, 1492 AD, Behaim made this globe based on his understanding of the world.<br>This globe created by Martin Behaim is the oldest surviving terrestrial globe in existence. It has a diameter of fifty-one centimeters and is beautifully decorated. Since Columbus only discovered the existence of the American continents that same year, only Europe, Asia, and Africa are present on the globe, separated by the ocean. On its surface reads such a caption: "The world is round so that one can sail anywhere."
+|fame=74
+|art=40
+|fth=35
+|civ=47
+|tech=47
+|ss1=Dragon Minion ATK +3%<br>Per 200 Fissure Floors, Snail DEF +6<br>Fissure Floor: 5000/5000
+|ss2=Dragon Minion ATK +4%<br>Per 200 Fissure Floors, Snail DEF +8<br>Fissure Floor: 5000/5000
+|ss3=Dragon Minion ATK +5%<br>Per 200 Fissure Floors, Snail DEF +10<br>Fissure Floor: 5000/5000
+|ss4=Dragon Minion ATK +7%<br>Per 200 Fissure Floors, Snail DEF +14<br>Fissure Floor: 5000/5000
+|ss5=Dragon Minion ATK +9%<br>Per 200 Fissure Floors, Snail DEF +18<br>Fissure Floor: 5000/5000
+|ss7=Dragon Minion ATK +9%<br>Per 200 Fissure Floors, Snail DEF +18<br>Fissure Floor: 5000/5000<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Reagent Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail FAME +400
+}}

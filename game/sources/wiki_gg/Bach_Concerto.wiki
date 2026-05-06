@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Bach Concerto
+|rank=Blue
+|affct=ART
+|birthday=02-12
+|source=Lottery Machine (0.03%), Wishing (1.2%), Club Chest (2%)<br>[[Lee Gi-na]] - [[Partners#Rent_List|normal rent]]
+|description=On Feb 12, 1721, Bach composed the greatest concerto in the history of music. Bach was invited to compose a piece for Christian, the Margraviate of Brandenburg. Instead of following traditional composition style of putting a group of similar solo instruments together, he used different solo instruments. Using all musical instruments possible, Bach involved 7 instruments even for the shortest No. 6 prelude. Unfortunately, the sextet of Brandenburg was unable to play this concerto due to the lack of musicians.
+|fame=32
+|art=46
+|fth=30
+|civ=24
+|tech=22
+|ss1=Green Bead draws give +1 Lucky Voucher by +5%
+|ss2=Green Bead draws give +1 Lucky Voucher by +10%
+|ss3=Green Bead draws give +1 Lucky Voucher by +15%
+|ss4=Green Bead draws give +1 Lucky Voucher by +25%
+|ss7=Green Bead draws give +1 Lucky Voucher by +25%<br>Green Bead draws give +1 Lucky Voucher by +25% (Awakened)
+|skill1=[[File:Tadpolepond skill I.png|50px]] Place in Tadpole Pond: Generate W-tads by +5%
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:ART Relics]]
+[[Category:Blue ART Relics]]
+[[Category:Tadpole Pond Skill]]
+[[Category:Tadpole Pond W-Tad Output Boost]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Lucky Voucher Boost]]
+[[Category:ATK Boost]]

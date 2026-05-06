@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Painted Amazon Sarcophagus,Maastricht Treaty
+|rank=orange
+|amount=2
+|category=self
+|description=Per 6 distinct Souls offered, Snail Primeval Power +7; Distinct souls offered: 300/300
+}}
+[[Category:Self]]
+[[Category:Primeval Power Boost]]

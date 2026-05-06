@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=The Five Fortunes
+|class_id=20066
+|rank=Green
+|affct=CIV
+|source=
+|description=When the gods descended together for the first time, they gave you this Relic as a souvenir. Whenever you get close, a familiar melody seems to ring in your ears:
+A gentle waking call to the sleepy mind.
+Open your eyes, we're one of a kind!
+|fame=14
+|art=9
+|fth=19
+|civ=29
+|tech=19
+|ss1=Snail AFFCT +5<br>Per Altar God Descent, Snail ATK +1<br>Gods Descended: 30/30
+|ss2=Snail AFFCT +10<br>Per Altar God Descent, Snail ATK +2<br>Gods Descended: 30/30
+|ss3=Snail AFFCT +15<br>Per Altar God Descent, Snail ATK +3<br>Gods Descended: 30/30
+|ss4=Snail AFFCT +15<br>Per Altar God Descent, Snail ATK +3<br>Gods Descended: 30/30
+|ss7=Snail AFFCT +15<br>Per Altar God Descent, Snail ATK +3<br>Gods Descended: 30/30<br> (Awakened)
+}}

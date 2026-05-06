@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Zircon of Jack Hills
+|class_id=22215
+|rank=SS
+|affct=FAME
+|birthday=05-13
+|source=Lottery Machine No.2 (0.42%), Wishing (1.6%)
+|description=On May 13, 2001 AD, scientists discovered the oldest zircons in the world.<br>Zircon of Jack Hills is a remarkable piece of Earth's crust formed at the beginning of the planet's existence, just 120 million years younger than Earth. They hold vital information about the crust's composition during the Hadean Eon, providing insights into the Earth's cooling process, the formation of liquid water, and the evolution of life. Its discovery has advanced our knowledge of the early crust's nature, the history of natural evolution, and the research on the evolution of life.
+|fame=104
+|art=56
+|fth=53
+|civ=64
+|tech=70
+|ss1=Snail HP +200<br>In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +16%<br>Per 7 Sign-Ins, Snail HP +20<br>Sign-Ins: 364/364
+|ss2=Snail HP +300<br>In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +24%<br>Per 7 Sign-Ins, Snail HP +30<br>Sign-Ins: 364/364
+|ss3=Snail HP +400<br>In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +32%<br>Per 7 Sign-Ins, Snail HP +40<br>Sign-Ins: 364/364
+|ss4=Snail HP +600<br>In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +48%<br>Per 7 Sign-Ins, Snail HP +60<br>Sign-Ins: 364/364
+|ss5=Snail HP +800<br>In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +64%<br>Per 7 Sign-Ins, Snail HP +80<br>Sign-Ins: 364/364
+|ss6=Snail HP +1100<br>In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +88%<br>Per 7 Sign-Ins, Snail HP +110<br>Sign-Ins: 364/364
+|ss7=Snail HP +1100<br>In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +88%<br>Per 7 Sign-Ins, Snail HP +110<br>Sign-Ins: 364/364<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Find Ancient Wood by +30%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +300
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +600
+|mirage={{Mirage|name=Hadean Rock|reward={{RewardIconWithLink|Ancient Fossil, +3|orange}}
+|3name=Ancient Granulite|3rec=35.05M|3atk=139713|3defense=93208|3hp=5580662|3weak=19450
+|4name=Greenland Stromatolite|4rec=50.99M|4atk=173335|4defense=115638|4hp=8147602|4weak=21935
+|5name=Acasta Gneiss|5rec=69.77M|5atk=212932|5defense=142055|5hp=11758468|5weak=27982
+|Arec=90.85M|Aatk=257384|Adefense=171711|Ahp=16445802|Aweak=32820
+}}}}

@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description= The owner of Snail Shell was called Sad Timmy, who was able to produce corrosive slime that turns everything it sees into food. Since the process requires a large number of calories, the holder actually becomes hungrier as they eat.
+|affct=FAME
+|hard=RUSH
+|source=
+{{Memetic Catalyst
+|number=574
+|relic1=Pear Basket
+|relic2=Big Fish Bone
+|relic3=The Last Supper
+|relic4=1982 Wine
+|relic5=Mutant Fungus
+}}
+|color=blue
+|earth=2
+|water=3
+|fire=4
+|wind=5
+|form=Zombie
+|element=Fire
+|realm=Murika
+|orangehard=DEF
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=445
+|relics=Ixion's Wheel,Adari 2600,Annunciation,Solar Sail,Hurrian Songs
+|rank=purple
+|amount=5
+|category=self
+|description=Angel Minion MAX +9
+}}

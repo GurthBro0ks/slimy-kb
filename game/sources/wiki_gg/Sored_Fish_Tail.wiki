@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Sored Fish Tail
+|type=Common
+|rank=blue
+|id=10822
+|idx=23
+|description=After their habitat was polluted, the beautiful mermaid turned ugly, its once smooth fishtail is now full of fishy pustules.
+|skill=
+|hp=1194
+|def=70
+|atk=70
+|rush=158
+|gene1=Craft 1 Blue Organ Slime: 2.5% chance to get 1 more.
+|gene2=Snail Arena, Water DMG +60
+|gene3=Tadpole Pond Max Cap +1.5%
+|gene7=Craft 1 Blue Organ Slime: 2.5% chance to get 1 more. (Awakened)
+|}}

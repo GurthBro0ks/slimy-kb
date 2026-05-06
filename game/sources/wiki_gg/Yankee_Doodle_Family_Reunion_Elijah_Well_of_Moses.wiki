@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=641
+|relics=Yankee Doodle,Family Reunion,Elijah,Well of Moses
+|rank=blue
+|amount=4
+|category=self
+|description=Per 3,000 Tribe Prosperity, Snail DEF +7;Tribe Prosperity: 150000/150000
+}}

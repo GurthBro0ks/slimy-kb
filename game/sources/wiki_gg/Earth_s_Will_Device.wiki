@@ -1,0 +1,314 @@
+{{Missing Info|specifics=Robot amounts past 90}}
+
+== Earth's Will Device ==
+Demon God Device Cabin within [[Rocket]] Cabins
+
+Send robots to gather: {{RewardIconWithText|Angel Cell}}, {{RewardIconWithText|Mutant Cell}}<br>
+Upgrade Earth's Will Cabin Tech to send more robots.
+{| class="wikitable"
+!Tech
+!Robots
+|-
+|0-399||5
+|-
+|400-1,399||10
+|-
+|1,400-3,199||20
+|-
+|3,200-5,999||30
+|-
+|6,000-10,799||40
+|-
+|10,800-17,999||50
+|-
+|18,000-24,999||60
+|-
+|25,000-35,999||70
+|-
+|36,000-53,999||80
+|-
+|54,000-79,999||90
+|-
+|80,000-?||?
+|}
+
+==Rainbow Generator==
+Each tier gives +1 to Angel Minion HP, ATK, DEF, and RUSH.<br>Each tier gives Per 100 Minions in battle, Troop Water RES +10.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Earth's Will Mindwave E x40<br>T1 Earth's Will Mindwave A x40<br>T1 Earth's Will Mindwave R x40<br> B-tad x10K
+|[[File:Fungus-chest.png|frameless|50x50px]] Fungus Chest x100
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x30
+|-
+|2
+|T2 Earth's Will Mindwave E x40<br>T2 Earth's Will Mindwave A x40<br>T2 Earth's Will Mindwave R x40<br> B-tad x20K
+|[[File:Fungus-chest.png|frameless|50x50px]] Fungus Chest x200
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x60
+|-
+|3
+|T3 Earth's Will Mindwave E x40<br>T3 Earth's Will Mindwave A x40<br>T3 Earth's Will Mindwave R x40<br> B-tad x30K
+|[[File:Fungus-chest.png|frameless|50x50px]] Fungus Chest x400
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x120
+|-
+|4
+|T4 Earth's Will Mindwave E x40<br>T4 Earth's Will Mindwave A x40<br>T4 Earth's Will Mindwave R x40<br> B-tad x40K
+|[[File:Fungus-chest.png|frameless|50x50px]] Fungus Chest x800
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x200
+|-
+|5
+|T5 Earth's Will Mindwave E x40<br>T5 Earth's Will Mindwave A x40<br>T5 Earth's Will Mindwave R x40<br> B-tad x50K
+|[[File:Fungus-chest.png|frameless|50x50px]] Fungus Chest x1,600
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x300
+|}
+
+==Gamma Ray==
+Each tier gives +1 to Mutant Minion HP, ATK, DEF, and RUSH.<br>Each tier gives Per 100 Minions in battle, Troop Fire RES +10.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Earth's Will Mindwave E x40<br>T1 Earth's Will Mindwave A x40<br>T1 Earth's Will Mindwave T x40<br> B-tad x10K
+|[[File:Master-alchemy-case.png|frameless|50x50px]] Master Alchemy Case x3
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x30
+|-
+|2
+|T2 Earth's Will Mindwave E x40<br>T2 Earth's Will Mindwave A x40<br>T2 Earth's Will Mindwave T x40<br> B-tad x20K
+|[[File:Master-alchemy-case.png|frameless|50x50px]] Master Alchemy Case x6
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x60
+|-
+|3
+|T3 Earth's Will Mindwave E x40<br>T3 Earth's Will Mindwave A x40<br>T3 Earth's Will Mindwave T x40<br> B-tad x30K
+|[[File:Master-alchemy-case.png|frameless|50x50px]] Master Alchemy Case x12
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x120
+|-
+|4
+|T4 Earth's Will Mindwave E x40<br>T4 Earth's Will Mindwave A x40<br>T4 Earth's Will Mindwave T x40<br> B-tad x40K
+|[[File:Master-alchemy-case.png|frameless|50x50px]] Master Alchemy Case x18
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x200
+|-
+|5
+|T5 Earth's Will Mindwave E x40<br>T5 Earth's Will Mindwave A x40<br>T5 Earth's Will Mindwave T x40<br> B-tad x50K
+|[[File:Master-alchemy-case.png|frameless|50x50px]] Master Alchemy Case x24
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x300
+|}
+
+==Emp==
+Each tier gives +1 to Zombie Minion HP, ATK, DEF, and RUSH.<br>Each tier gives Per 100 Minions in battle, Troop Wind RES +10.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Earth's Will Mindwave E x40<br>T1 Earth's Will Mindwave R x40<br>T1 Earth's Will Mindwave T x40<br> B-tad x10K
+|[[File:Evolution-chest.png|frameless|50x50px]] Evolution Chest x100
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x30
+|-
+|2
+|T2 Earth's Will Mindwave E x40<br>T2 Earth's Will Mindwave R x40<br>T2 Earth's Will Mindwave T x40<br> B-tad x20K
+|[[File:Evolution-chest.png|frameless|50x50px]] Evolution Chest x200
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x60
+|-
+|3
+|T3 Earth's Will Mindwave E x40<br>T3 Earth's Will Mindwave R x40<br>T3 Earth's Will Mindwave T x40<br> B-tad x30K
+|[[File:Evolution-chest.png|frameless|50x50px]] Evolution Chest x400
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x120
+|-
+|4
+|T4 Earth's Will Mindwave E x40<br>T4 Earth's Will Mindwave R x40<br>T4 Earth's Will Mindwave T x40<br> B-tad x40K
+|[[File:Evolution-chest.png|frameless|50x50px]] Evolution Chest x800
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x200
+|-
+|5
+|T5 Earth's Will Mindwave E x40<br>T5 Earth's Will Mindwave R x40<br>T5 Earth's Will Mindwave T x40<br> B-tad x50K
+|[[File:Evolution-chest.png|frameless|50x50px]] Evolution Chest x1,600
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x300
+|}
+
+==Space-sensing Radar==
+Each tier gives +1 to Dragon Minion HP, ATK, DEF, and RUSH.<br>Each tier gives Per 100 Minions in battle, Troop Earth RES +10.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Earth's Will Mindwave A x40<br>T1 Earth's Will Mindwave R x40<br>T1 Earth's Will Mindwave T x40<br> B-tad x10K
+|[[File:Expert-scroll.png|frameless|50x50px]] Expert Scroll x20
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x30
+|-
+|2
+|T2 Earth's Will Mindwave A x40<br>T2 Earth's Will Mindwave R x40<br>T2 Earth's Will Mindwave T x40<br> B-tad x20K
+|[[File:Expert-scroll.png|frameless|50x50px]] Expert Scroll x40
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x60
+|-
+|3
+|T3 Earth's Will Mindwave A x40<br>T3 Earth's Will Mindwave R x40<br>T3 Earth's Will Mindwave T x40<br> B-tad x30K
+|[[File:Expert-scroll.png|frameless|50x50px]] Expert Scroll x60
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x120
+|-
+|4
+|T4 Earth's Will Mindwave A x40<br>T4 Earth's Will Mindwave R x40<br>T4 Earth's Will Mindwave T x40<br> B-tad x40K
+|[[File:Expert-scroll.png|frameless|50x50px]] Expert Scroll x80
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x200
+|-
+|5
+|T5 Earth's Will Mindwave A x40<br>T5 Earth's Will Mindwave R x40<br>T5 Earth's Will Mindwave T x40<br> B-tad x50K
+|[[File:Expert-scroll.png|frameless|50x50px]] Expert Scroll x100
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x300
+|}
+
+==Garden of Eden==
+Each tier gives +2 to {{RewardIcon|Angel Form Icon}} Angel Minion HP, ATK, DEF, and RUSH.<br>Each tier gives Per 100 Minions in battle, Troop Water DMG +2%.<br>Each tier gives Per 100 Minions in battle, Troop Water RES +1%.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|40 T1 Earth's Will Mindwave E<br>40 T1 Earth's Will Mindwave A<br>5 T1 Earth's Will Mindwave H<br>20k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Divine Order Chest, +150|yellow}}
+|50 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|2
+|40 T2 Earth's Will Mindwave E<br>40 T2 Earth's Will Mindwave A<br>5 T2 Earth's Will Mindwave H<br>40k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Divine Order Chest, +300|yellow}}
+|100 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|3
+|40 T3 Earth's Will Mindwave E<br>40 T3 Earth's Will Mindwave A<br>5 T3 Earth's Will Mindwave H<br>60k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Eva|blue|Nursery#Minion_Skins}} (Koryeon Snail Skin)
+|200 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|4
+|40 T4 Earth's Will Mindwave E<br>40 T4 Earth's Will Mindwave A<br>5 T4 Earth's Will Mindwave H<br>80k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Eden Neuron|purple}} +10
+|320 {{RewardIconWithText|Standard Printing Supply}}
+|-
+|5
+|40 T5 Earth's Will Mindwave E<br>40 T5 Earth's Will Mindwave A<br>5 T5 Earth's Will Mindwave H<br>100k {{RewardIconWithText|B-Tad}}
+|{{RewardIconWithLink|Eden Neuron|purple}} +20
+|500 {{RewardIconWithText|Standard Printing Supply}}
+|}
+
+==Domain Holograph==
+Each tier gives +2 to Mutant Minion HP, ATK, DEF, and RUSH.<br>Each tier gives In any Realm, B-tads gained +1%.<br>Each tier gives Travel SPD +1%.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Earth's Will Mindwave R x40<br>T1 Earth's Will Mindwave T x40<br>T1 Earth's Will Mindwave H x5<br> B-tad x20K
+|[[File:Super Treasure Map Small.png|frameless|50x50px]] Super Treasure Map x150
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x50
+|-
+|2
+|T2 Earth's Will Mindwave R x40<br>T2 Earth's Will Mindwave T x40<br>T2 Earth's Will Mindwave H x5<br> B-tad x40K
+|[[File:Super Treasure Map Small.png|frameless|50x50px]] Super Treasure Map x300
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x100
+|-
+|3
+|T3 Earth's Will Mindwave R x40<br>T3 Earth's Will Mindwave T x40<br>T3 Earth's Will Mindwave H x5<br> B-tad x60K
+|[[File:Hologram Tentacle.png|frameless|50x50px]] Hologram Tentacle (Demonic Tentacle Skin)
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x200
+|-
+|4
+|T4 Earth's Will Mindwave R x40<br>T4 Earth's Will Mindwave T x40<br>T4 Earth's Will Mindwave H x5<br> B-tad x80K
+|{{RewardIconWithLink|Domain Hub, +10|purple}}
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x320
+|-
+|5
+|T5 Earth's Will Mindwave R x40<br>T5 Earth's Will Mindwave T x40<br>T5 Earth's Will Mindwave H x5<br> B-tad x100K
+|{{RewardIconWithLink|Domain Hub, +20|purple}}
+|[[File:Standard-printing-supply.png|frameless|50x50px]] Standard Printing Supply x500
+|}
+
+==Oracle Hall==
+Each tier gives +1 to All Minion HP, ATK, DEF, and RUSH.<br>Each tier gives In any Realm, Angel Cells gained +2%.<br>Each tier gives Soul Offering SPD +1%.<br>Each tier gives When offering, 2x Divine Chest Drops +1%.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Earth's Will Mindwave E x200<br>T1 Earth's Will Mindwave R x200<br>T1 Earth's Will Mindwave H x50<br> B-tad x30K
+|[[File:Chalcedonian_Creed.png|frameless|50x50px|link=Chalcedonian Creed]][[Chalcedonian Creed]]
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x100
+|-
+|2
+|T2 Earth's Will Mindwave E x200<br>T2 Earth's Will Mindwave R x200<br>T2 Earth's Will Mindwave H x50<br> B-tad x60K
+|[[File:Wish Coin.png|frameless|50x50px]] Wish Coin x10
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x200
+|-
+|3
+|T3 Earth's Will Mindwave E x200<br>T3 Earth's Will Mindwave R x200<br>T3 Earth's Will Mindwave H x50<br> B-tad x90K
+|[[File:Grandmaster-scroll.png|frameless|50x50px]] Grandmaster Scroll x40
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x300
+|-
+|4
+|T4 Earth's Will Mindwave E x200<br>T4 Earth's Will Mindwave R x200<br>T4 Earth's Will Mindwave H x50<br> B-tad x120K
+|[[File:True_Cross.png|frameless|50x50px|link=True Cross]] [[True Cross]] Frag x40
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x600
+|-
+|5
+|T5 Earth's Will Mindwave E x200<br>T5 Earth's Will Mindwave R x200<br>T5 Earth's Will Mindwave H x50<br> B-tad x150K
+|[[File:True_Cross.png|frameless|50x50px|link=True Cross]] [[True Cross]] Frag x240
+|[[File:Engineering-printing-supply.png|frameless|50x50px]] Engineering Printing Supply x1000
+|}
+
+==Revelation Hall==
+Each tier gives +1 to All Minion HP, ATK, DEF, and RUSH.<br>Each tier gives In any Realm, Mutant Cells gained +2%.<br>Each tier gives Lottery Blue Beads turn to Purple by 0.5%.<br>Each tier gives Lottery Purple Beads turn to Orange by 0.5%.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Earth's Will Mindwave A x200<br>T1 Earth's Will Mindwave T x200<br>T1 Earth's Will Mindwave H x50<br> B-tad x30K
+|[[File:Psionic_Jammer.png|frameless|50x50px|link=Psionic Jammer]] [[Psionic Jammer]]
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x100
+|-
+|2
+|T2 Earth's Will Mindwave A x200<br>T2 Earth's Will Mindwave T x200<br>T2 Earth's Will Mindwave H x50<br> B-tad x60K
+|[[File:Eye_of_Horus.png|frameless|50x50px|link=Gear]] [[Eye of Horus]]
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x200
+|-
+|3
+|T3 Earth's Will Mindwave A x200<br>T3 Earth's Will Mindwave T x200<br>T3 Earth's Will Mindwave H x50<br> B-tad x90K
+|[[File:Grandmaster-scroll.png|frameless|50x50px]] Grandmaster Scroll x40
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x300
+|-
+|4
+|T4 Earth's Will Mindwave A x200<br>T4 Earth's Will Mindwave T x200<br>T4 Earth's Will Mindwave H x50<br> B-tad x120K
+|[[File:Periodic_Table_Scripts.png|frameless|50x50px|link=Periodic Table Scripts]] [[Periodic Table Scripts]] Frag x40
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x600
+|-
+|5
+|T5 Earth's Will Mindwave A x200<br>T5 Earth's Will Mindwave T x200<br>T5 Earth's Will Mindwave H x50<br> B-tad x150K
+|[[File:Periodic_Table_Scripts.png|frameless|50x50px|link=Periodic Table Scripts]] [[Periodic Table Scripts]] Frag x240
+|[[File:Military-printing-supply.png|frameless|50x50px]] Military Printing Supply x1000
+|}
+
+==Links to Other Cabins==
+
+* Cabin: [[Domain Device]]
+* Cabin: [[Species Device]]
+* Cabin: [[Rebel Device]]
+* Cabin: [[Demon God Device]]
+
+[[Category:Rocket]]

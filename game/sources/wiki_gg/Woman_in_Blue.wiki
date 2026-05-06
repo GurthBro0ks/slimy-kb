@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Woman in Blue
+|class_id=22041
+|rank=Blue
+|affct=ART
+|birthday=07-03
+|source=Lottery Machine No.2 (0.26%), Wishing (0.14%)
+|description=On Jul 3, 1900 AD, Somov created this oil painting in memory of his dead lover.<br>The Woman in Blue is a portrait painted by the Russian painter Somov. The woman in the painting is in a blue dress against the dark green background. The demure lady exudes elegance. It is said that the archetype of this woman is the painter's girlfriend Martinova, who died of lung disease. This painting was drawn by him in memory of his lover. The withered skin and restless expression of the woman in the painting foreshadow her death, indicating that this was their last meeting.
+|fame=20
+|art=48
+|fth=26
+|civ=34
+|tech=26
+|ss1=Per 2 ART Master Scrolls used, Snail RUSH +1<br>ART Master Scrolls Used: 100/100
+|ss2=Per 2 ART Master Scrolls used, Snail RUSH +2<br>ART Master Scrolls Used: 100/100
+|ss3=Per 2 ART Master Scrolls used, Snail RUSH +3<br>ART Master Scrolls Used: 100/100
+|ss4=Per 2 ART Master Scrolls used, Snail RUSH +5<br>ART Master Scrolls Used: 100/100
+|ss7=Per 2 ART Master Scrolls used, Snail RUSH +5<br>ART Master Scrolls Used: 100/100<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Dungbeetle skill I.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion ATK +1.5%
+}}

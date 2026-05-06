@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Swan Neck Flask
+|class_id=22089
+|rank=Blue
+|affct=TECH
+|birthday=05-28
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On May 28, 1864 AD, the microbiologist Pasteur conducted the famous swan neck flask experiment.<br>This uniquely shaped swan neck flask is an experimental device designed by biologist Pasteur. There is a long curved tube at the mouth of the bottle connecting to the outside. Pasteur used this flask to carry out the following experiment: He put the broth into the flask, boiled it to sterilize bacteria, and then cooled it. Due to the long curved tube opening downwards, it is difficult for dust and microorganisms in the air to contact each other. Therefore, the broth can be stored for a long time. However, if the bottleneck breaks, the broth will quickly spoil. Through this experiment, Pasteur discovered a research concept and developed the renowned pasteurization method.
+|fame=29
+|art=23
+|fth=30
+|civ=28
+|tech=44
+|ss1=Per 10 Mecha Minions in battle:<br>> Troop HP +10
+|ss2=Per 10 Mecha Minions in battle:<br>> Troop HP +20
+|ss3=Per 10 Mecha Minions in battle:<br>> Troop HP +30
+|ss4=Per 10 Mecha Minions in battle:<br>> Troop HP +50
+|ss7=Per 10 Mecha Minions in battle:<br>> Troop HP +50<br>Per 10 Mecha Minions in battle:<br>> Troop HP +50 (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]]Place in Gene Sim Device: Snail ATK +20
+}}

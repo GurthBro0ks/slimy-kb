@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Charon’s Skiff
+|class_id=21241
+|rank=SSS
+|affct=FAITH
+|source=
+|description=A decaying cypress boat said to be cursed by Charon himself. The undead must pay a silver coin to board—those who don't drift for a century. Its oar strokes echo with a hundred wails, and no soul ever sails upstream.
+|fame=60
+|art=76
+|fth=106
+|civ=50
+|tech=70
+|ss1=Snail Leadership +3<br>Dragon Minion HP +3%<br>Per 5 LVL Block built, Snail HP +30<br>Block LVL: 300/300
+|ss2=Snail Leadership +4<br>Dragon Minion HP +4%<br>Per 5 LVL Block built, Snail HP +40<br>Block LVL: 300/300
+|ss3=Snail Leadership +5<br>Dragon Minion HP +5%<br>Per 5 LVL Block built, Snail HP +50<br>Block LVL: 300/300
+|ss4=Snail Leadership +7<br>Dragon Minion HP +7%<br>Per 5 LVL Block built, Snail HP +70<br>Block LVL: 300/300
+|ss5=Snail Leadership +9<br>Dragon Minion HP +9%<br>Per 5 LVL Block built, Snail HP +90<br>Block LVL: 300/300
+|ss6=Snail Leadership +12<br>Dragon Minion HP +12%<br>Per 5 LVL Block built, Snail HP +120<br>Block LVL: 300/300
+|ss7=Snail Leadership +12<br>Dragon Minion HP +12%<br>Per 5 LVL Block built, Snail HP +120<br>Block LVL: 300/300<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Demon Cells gained +15%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+}}

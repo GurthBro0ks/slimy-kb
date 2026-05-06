@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Bencao Gangmu
+|class_id=22628
+|rank=SSS
+|affct=FAME
+|birthday=01-14
+|source=
+|description=On Jan 14, 1578 AD, Li Shizhen completed the compilation of Bencao Gangmu.<br>During decades of medical practice, Li Shizhen discovered many errors in ancient herbal books and thus began compiling Bencao Gangmu. To complete this work, he went out for field investigations many times, traveling across the country and examining hundreds of ancient books. Through his unremitting efforts, this masterpiece of herbal medicine was born, which had a profound impact on future generations.
+|fame=108
+|art=58
+|fth=56
+|civ=63
+|tech=77
+|ss1=Minion Recovery SPD +1.5%<br>Per 50 Minions healed, Snail ATK +6<br>Per 50 Minions healed in battle, Priest-Troop Assistance DMG +48<br>Minions healed: 2000/2000
+|ss2=Minion Recovery SPD +2%<br>Per 50 Minions healed, Snail ATK +7<br>Per 50 Minions healed in battle, Priest-Troop Assistance DMG +56<br>Minions healed: 2000/2000
+|ss3=Minion Recovery SPD +2.5%<br>Per 50 Minions healed, Snail ATK +8<br>Per 50 Minions healed in battle, Priest-Troop Assistance DMG +64<br>Minions healed: 2000/2000
+|ss4=Minion Recovery SPD +3.5%<br>Per 50 Minions healed, Snail ATK +10<br>Per 50 Minions healed in battle, Priest-Troop Assistance DMG +80<br>Minions healed: 2000/2000
+|ss5=Minion Recovery SPD +4.5%<br>Per 50 Minions healed, Snail ATK +12<br>Per 50 Minions healed in battle, Priest-Troop Assistance DMG +96<br>Minions healed: 2000/2000
+|ss6=Minion Recovery SPD +6%<br>Per 50 Minions healed, Snail ATK +15<br>Per 50 Minions healed in battle, Priest-Troop Assistance DMG +120<br>Minions healed: 2000/2000
+|ss7=Minion Recovery SPD +6%<br>Per 50 Minions healed, Snail ATK +15<br>Per 50 Minions healed in battle, Priest-Troop Assistance DMG +120<br>Minions healed: 2000/2000<br>Minion Recovery SPD +5% (Awakened)
+|skill1=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion RUSH +9%
+|skill2=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion HP +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FAME +15
+|mirage={{Mirage|name=Herbal Compendium|reward={{RewardIconWithLink|Magic Potion, +200|orange}}
+|3name=San Qi|3rec=119.05M|3atk=356473|3defense=211395|3hp=37083170|3weak=44116
+|4name=Chinese Lobelia|4rec=136.59M|4atk=394727|4defense=236071|4hp=48916263|4weak=47789
+|5name=Buddleia|5rec=160.08M|5atk=447466|5defense=269120|5hp=70564112|5weak=51985
+|6name=Wind Seed|6rec=192.40M|6atk=516250|6defense=314590|6hp=103864340|6weak=56668
+|Arec=239.68M|Aatk=612009|Adefense=378190|Ahp=166775235|Aweak=61840
+}}}}

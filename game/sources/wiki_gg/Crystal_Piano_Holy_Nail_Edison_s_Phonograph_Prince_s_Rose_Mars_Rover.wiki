@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Crystal Piano,Holy Nail,Edison's Phonograph,Prince's Rose,Mars Rover
+|rank=purple
+|amount=5
+|category=self
+|description=Per 2k Relic Points, Snail ATK +4<br>Relic Points:90,000/90,000
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Relic Points]]

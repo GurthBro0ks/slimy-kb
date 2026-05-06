@@ -1,0 +1,32 @@
+{{Missing Info|specifics=<br>Source<br>Relic Resonance<br>Categories}}
+
+{{CargoRelic
+|name=Blurprint Awards
+|class_id=22693
+|rank=SSS
+|affct=FTH
+|birthday=06-09
+|source=
+|description=On Jun 9, 2022 AD, the 9th Blurprint Awards were held grandly in London, UK.<br>The Blurprint Awards is an internationally acclaimed design prize initiated by the well-known architecture and design magazine Blueprint. It aims to honor outstanding works with innovative and practical value in various fields such as architecture, design, and art. The awards cover categories including architectural design, interior design, landscape design, product design, and more, aiming to promote continuous development in the design industry and provide a global stage for designers and architects to showcase innovative ideas.
+|fame=58
+|art=73
+|fth=108
+|civ=54
+|tech=69
+|ss1=Snail DEF +30<br>Dragon Minion HP +3%<br>Per Dorm Decor gained, Snail DEF +3<br>Dorm Decor Gained: 40/40
+|ss2=Snail DEF +40<br>Dragon Minion HP +4%<br>Per Dorm Decor gained, Snail DEF +4<br>Dorm Decor Gained: 40/40
+|ss3=Snail DEF +50<br>Dragon Minion HP +5%<br>Per Dorm Decor gained, Snail DEF +5<br>Dorm Decor Gained: 40/40
+|ss4=Snail DEF +70<br>Dragon Minion HP +7%<br>Per Dorm Decor gained, Snail DEF +7<br>Dorm Decor Gained: 40/40
+|ss5=Snail DEF +90<br>Dragon Minion HP +9%<br>Per Dorm Decor gained, Snail DEF +9<br>Dorm Decor Gained: 40/40
+|ss6=Snail DEF +120<br>Dragon Minion HP +12%<br>Per Dorm Decor gained, Snail DEF +12<br>Dorm Decor Gained: 40/40
+|ss7=Snail DEF +120<br>Dragon Minion HP +12%<br>Per Dorm Decor gained, Snail DEF +12<br>Dorm Decor Gained: 40/40<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +3%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Time Chest Drops +6%
+|mirage={{Mirage|name=Cornerstone of the Edifice|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Best Project Award Winner|3rec=178.20M|3atk=486177|3def=294610|3hp=90484706|3weak=54773
+|4name=Best Residential Award Winner|4rec=220.94M|4atk=576625|4def=354739|4hp=140525365|4weak=60125
+|5name=Best Design Award Winner|5rec=310.57M|5atk=708604|5def=441969|5hp=245025453|5weak=66024
+|6name=Best Interior Award Winner|6rec=440.67M|6atk=887325|6def=559019|6hp=413410005|6weak=71976
+|Arec=608.26M|Aatk=1119973|Adef=709785|Ahp=634234103|Aweak=77920
+}}}}

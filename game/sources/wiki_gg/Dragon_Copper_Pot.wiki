@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dragon Copper Pot
+|class_id=20531
+|rank=Green
+|affct=CIV
+|source=
+|description=The name is derived from the story of a fish becoming a dragon, which means the change of luck. After placing ingredients into the Morphing Dragon Pot and leaving them for a day, the taste remains unchanged, but the dish has been imbued with a blessing. Note that good luck will be bestowed upon those with good fortune, while those with bad fortune will become even more unlucky.
+|fame=13
+|art=17
+|fth=15
+|civ=32
+|tech=13
+|ss1=Per 5 new Dishes created, Snail ATK +1<br>New Dishes Created: 300/300
+|ss2=Per 5 new Dishes created, Snail ATK +2<br>New Dishes Created: 300/300
+|ss3=Per 5 new Dishes created, Snail ATK +3<br>New Dishes Created: 300/300
+|ss4=Per 5 new Dishes created, Snail ATK +3<br>New Dishes Created: 300/300
+|ss7=Per 5 new Dishes created, Snail ATK +3<br>New Dishes Created: 300/300<br> (Awakened)
+}}

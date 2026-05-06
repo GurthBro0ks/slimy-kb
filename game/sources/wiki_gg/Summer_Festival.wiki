@@ -1,0 +1,453 @@
+=Summer Festival=
+[[File:Summer Festival.jpeg|500x500px|left]]
+Found in the Events section, First Tab.<br>Sept. 01 - Sept. 15 2023<br>
+'''Official News Announcement:''' https://snail-na.qcplay.com/official/news-details.html?id=25
+{{clear}}
+
+==Pirate's Treasure==
+[[File:Pirate's Treasure.png|500x500px|left]]
+{|class= "wikitable
+!Price
+!Rewards
+|-
+|W-tads x6,000
+|Rainbow Points x30<br>Lottery Ticket x10<br>Shell x50<br>[[The Argo]] Frag. x40
+|-
+|Any Purchase (Real Money)
+|Swimsuit Pirate Avatar<br>Sell x30<br>W-tads x600
+|-
+|$49.99
+|[[The Argo]] Frag. x40<br>[[Gear|Eye of Horus]]<br>Lottery Ticket x40<br>Rainbow Points x50<br>W-tads x4,000
+|}
+{{clear}}
+
+==Summer Fireworks==
+Set off fireworks to get random rewards! For every 20 fireworks, you get a precious reward!<br>
+Regular Fireworks: 95% chance to trigger. Dazzling Fireworks: 5% to trigger.
+{|class=wikitable
+!colspan=3| Dazzling Fireworks
+|-
+|W-tads x1,000<br>50%
+|Wish Coin x2<br>30%
+|Incense<br>20%
+|-
+!colspan=3|Regular Fireworks
+|-
+|B-tads x6,000<br>20%
+|Evolution Chest x20<br>16.47%
+|Gear Chest x20<br>16.47%
+|-
+|Clone Speedup x1h<br>11.76%
+|Gene Speedup x1h<br>11.76%
+|Offering Speedup x1h<br>11.76%
+|-
+|Glue x10<br>5.88%
+|Toner x10<br>5.88%
+|}
+
+===Precious Reward===
+{| class="wikitable"
+!No.
+!Reward
+|-
+|1
+|Incense
+|-
+|2
+|[[Summer Album]]
+|-
+|3
+|Grandmaster Scroll x40
+|-
+|4
+|Relic RF x20
+|-
+|5
+|Basketball (Minion Skin)
+|}
+
+===Firework Pack===
+{|class=wikitable
+!Price
+!Rewards
+|-
+|W-tads x300
+|Fireworks<br>(Available 20 times)
+|-
+|$4.99
+|Fireworks x20<br>W-tads x300
+|-
+|$14.99
+|Fireworks<br>W-tads x1,000
+|}
+
+==Deepsea Witch==
+===Island Shop===
+Use Island Coins to buy event props! The coins left will be converted into B-tads after the event.
+
+Island Coin Source
+*Join Seabed Treasure Hunting
+*Claim Treasure Point Rewards
+*Claim Rainbow Point Rewards
+
+===Purchase Pack===
+Summer Value Pack
+{|class= "wikitable"
+!Price
+!Rewards
+|-
+|2,000 W-tads
+|Lottery Ticket x8<br>Glue x50<br>Shell x20
+|-
+|3,000
+|Wish Coin x3<br>Offering Speedup x15h<br>Shell x30
+|-
+|$4.99
+|Swimsuit Chan-hee Avatar<br>Incense x1<br>Rainbow Points x10<br>W-tads x300
+|-
+|$14.99
+|Dragon Ball x1<br>Offering Speedup x12h<br>Rainbow Points x20<br>W-tads x1,000
+|-
+|$29.99
+|Gene Speedup x1d<br>Lottery Ticket x30<br>Rainbow Points x30<br>W-tads x2,000
+|-
+|$69.99
+|Golden Pickaxe x18<br>Wish Coin x25<br>Rainbow Points x40<br>W-tads x5,000
+|-
+|$99.99
+|Grandmaster Scroll x40<br>Lottery Tickets x60<br>Rainbow Points x50<br>W-tads x8,000
+|}
+
+==Seabed Treasure Hunting==
+
+===Seabed Treasure Hunting Intro===
+# Send a sea otter to hunt for treasures!
+# Every treasure hunting costs 1 shell and earns you 1 Treasure Pt, which is for reward claiming.
+# 13% chance of getting Sea Treasure for every hunting, after getting which you will enter the next area.
+# After the event starts, you can claim 20 shells for free every day.
+
+===Seabed Treasure Rewards===
+Get B-tads for every non-Sea Treasure hunt, and all other rewards for Sea Treasure.
+{|class="wikitable mw-collapsible mw-collapsed
+!Area
+!Rewards
+|-
+|1-9
+|B-tads x1,000<br>Island Coin x200<br>W-tads x50
+|-
+|10
+|Fireworks x2<br>Island Coin x300<br>Rainbow Points x10
+|-
+|11-19
+|B-tads x1,200<br>Island Coin x200<br>W-tads x60
+|-
+|20
+|Fireworks x2<br>Island Coin x300<br>Lottery Ticket x3
+|-
+|21-29
+|B-tads x1,400<br>Island Coin x200<br>W-tads x70
+|-
+|30
+|Fireworks x2<br>Island Coin x300<br>Rainbow Points x10
+|-
+|31-39
+|B-tads x1,600<br>Island Coin x200<br>W-tads x80
+|-
+|40
+|Fireworks x2<br>Island Coin x300<br>Wish Coin x2
+|-
+|41-49
+|B-tads x1,800<br>Island Coin x200<br>W-tads x90
+|-
+|50
+|Fireworks x2<br>Island Coin x300<br>Rainbow Points x20
+|-
+|51-59
+|B-tads x2,000<br>Island Coin x200<br>W-tads x100
+|-
+|60
+|Fireworks x2<br>Island Coin x300<br>Lottery Ticket x5
+|-
+|61-69
+|B-tads x2,200<br>Island Coin x200<br>W-tads x110
+|-
+|70
+|Fireworks x2<br>Island Coin x300<br>Incense
+|-
+|71-79
+|B-tads x2,400<br>Island Coin x200<br>W-tads x120
+|-
+|80
+|Fireworks x2<br>Island Coin x300<br>Wish Coin x3
+|-
+|81-89
+|B-tads x2,600<br>Island Coin x200<br>W-tads x130
+|-
+|90
+|Fireworks x2<br>Island Coin x300<br>Lottery Ticket x8
+|-
+|91-99
+|B-tads x2,800<br>Island Coin x200<br>W-tads x140
+|-
+|100
+|Fireworks x2<br>Island Coin x300<br>Dragon Orb
+|-
+|101+
+|B-tads x3,000<br>Gene Speed up x4h<br>W-tads x150
+|}
+
+===Treasure Hunter===
+[[File:Treasure Hunter.jpeg|200x200px|left]]
+Unlock after reaching Area 30.<br>
+Obtain 10 pts for each area explored!<br>
+Hunter is free, Master Hunter is $14.99
+{|class="wikitable mw-collapsible mw-collapsed
+!colspan="3" |Rewards
+|-
+!Points
+!Hunter
+!Master Hunter
+|-
+|60
+|rowspan="3"| Summer Drink x1
+|[[Pirate's Coin]], Lottery Ticket x5
+|-
+|80
+|Wish Coin x2
+|-
+|100
+|Offering Speedup x8h
+|-
+|120
+|Expert Alchemy Case x2
+|Mater Alchemy Case x3, Organ Chest x100
+|-
+|140
+|rowspan="3"| Summer Drink x1
+|Lottery Ticket x5
+|-
+|160
+|Wish Coin x2
+|-
+|180
+|Offering Speedup x8h
+|-
+|200
+|Gene Speedup x4h
+|Gene Speedup x12h, Organ Chest x100
+|-
+|230
+|rowspan="3"| Summer Drink x1
+|Lottery Tickets x5
+|-
+|260
+|Wish Coin x2
+|-
+|290
+|Offering Speedup x8h
+|-
+|320
+|Offering Speedup x6h
+|Dragon Orb, Organ Chest
+|-
+|350
+|rowspan="3"| Summer Drink x1
+|Lottery Ticket x5
+|-
+|380
+|Wish Coin x2
+|-
+|410
+|Offering Speedup x8h
+|-
+|440
+|Purple Fungus Choice Pack
+|Orange Fungus Choice Pack, Organ Chest x100
+|-
+|470
+|rowspan="3"| Summer Drink x1
+|Lottery Ticket x5
+|-
+|500
+|Wish Coin x2
+|-
+|530
+|Offering Speedup x8h
+|-
+|560
+|Novice Scroll x10
+|Master Scroll x40, Organ Chest x100
+|-
+|590
+|rowspan="3"| Summer Drink x1
+|Lottery Ticket 5
+|-
+|620
+|Wish Coin x2
+|-
+|650
+|Offering Speedup x8h
+|-
+|680
+|Expert Scroll x20
+|Relic RF x15, Organ Chest x100
+|-
+|740
+|rowspan="2"| Summer Drink x1
+|Wish Coin x2
+|-
+|770
+|Offering Speedup x8h
+|-
+|800
+|Incense
+|Incense x2, Organ Chest x100
+|}
+{{clear}}
+
+===Point reward===
+====Treasure Point====
+Get 1 Treasure Pt for each hunting!<br>
+Get Offering Speedups and Lottery Tickets at every tier. Get Island Coins on certain tiers. Get Rainbow Points or W-tads on every third tier.
+
+====Rainbow Points====
+Purchase packs to get Rainbow Pts.
+{|class="wikitable mw-collapsible mw-collapsed
+!Points
+!Rewards
+|-
+|10
+|Offering Speedup x4h, Island Coin x600, Shell x10
+|-
+|20
+|Offering Speedup x4h, Island Coin x600, Shell x10
+|-
+|30
+|Offering Speedup x4h, Island Coin x600, Lottery Ticket x6
+|-
+|40
+|Offering Speedup x4h, Island Coin x600, Shell x10
+|-
+|50
+|Offering Speedup x4h, Island Coin x600, Shell x10
+|-
+|60
+|Offering Speedup x4h, Island Coin x600, Wish Coin x3
+|-
+|70
+|Offering Speedup x6h, Island Coin x800, Shell x12
+|-
+|80
+|Offering Speedup x6h, Island Coin x800, Shell x12
+|-
+|90
+|Offering Speedup x6h, Island Coin x800, Incense
+|-
+|100
+|Offering Speedup x6h, Island Coin x800, Shell x12
+|-
+|115
+|Offering Speedup x6h, Island Coin x800, Shell x12
+|-
+|130
+|Offering Speedup x6h, Island Coin x800, [[Mermaid's Tears]]
+|-
+|145
+|Offering Speedup x8h, Island Coin x1,200, Shell x14
+|-
+|160
+|Offering Speedup x8h, Island Coin x1,200, Shell x14
+|-
+|180
+|Offering Speedup x8h, Island Coin x1,200, [[The Argo]] Frags x40
+|-
+|200
+|Offering Speedup x8h, Island Coin x1,200, Shell x14
+|-
+|220
+|Offering Speedup x8h, Island Coin x1,200, Shell x14
+|-
+|240
+|Offering Speedup x8h, Island Coin x1,200, [[Gear|Eye of Horus]]
+|-
+|270
+|Offering Speedup x12h, Island Coin x1,600, Shell x16
+|-
+|300
+|Offering Speedup x12h, Island Coin x1,600, Shell x16
+|-
+|330
+|Offering Speedup x12h, Island Coin x1,600, [[The Argo]] Frags x40
+|-
+|360
+|Offering Speedup x12h, Island Coin x1,600, Shell x16
+|-
+|400
+|Offering Speedup x12h, Island Coin x1,600, Shell x16
+|-
+|440
+|Offering Speedup x12h, Island Coin x1,600, Relic RF x60
+|-
+|480
+|Offering Speedup x18h, Island Coin x2,200, Shell x18
+|-
+|520
+|Offering Speedup x18h, Island Coin x2,200, Shell x18
+|-
+|560
+|Offering Speedup x18h, Island Coin x2,200, [[The Argo]] Frags x40
+|-
+|600
+|Offering Speedup x18h, Island Coin x2,200, Shell x18
+|-
+|640
+|Offering Speedup x18h, Island Coin x2,200, Shell x18
+|-
+|680
+|Offering Speedup x18h, Island Coin x2,200, [[Gear|Crystal of Will]]
+|-
+|720
+|Offering Speedup x1d, Island Coin x3,000, Shell x20
+|-
+|760
+|Offering Speedup x1d, Island Coin x3,000, Shell x20
+|-
+|800
+|Offering Speedup x1d, Island Coin x3,000, [[The Argo]] Frags x40
+|-
+|850
+|Offering Speedup x1d, Island Coin x3,000, Shell x20
+|-
+|900
+|Offering Speedup x1d, Island Coin x3,000, Shell x20
+|-
+|950
+|Offering Speedup x1d, Island Coin x3,000, Summer Holiday(Decoration)
+|}
+
+=Summer Fest=
+Found by the Events Section, in the Palm Tree icon.
+
+==Shaved Ice==
+Enjoy Shaved Ice every day to get rewards!<br>
+Summer Voucher x2, Summer Drinks
+
+==Summer Gift==
+# Consume 1 Summer Voucher to open the Gift Box once.
+# Participate in the Shaved Ice event or claim Summer Fest Purchase bonus to earn Summer Vouchers.
+# Gift Boxes will be refreshed after claiming all of the rewards.
+
+[[File:Summer Gift 1.webp|500x500px]]
+[[File:Summer Gift 2.jpeg|500x500px]]
+{{clear}}
+
+==Summer Fest Purchase Bonus==
+Earn Master Alchemy Case x3, Summer Voucher x2 from every tier.
+
+= Relic Rewards =
+* {{RewardIconWithLink|The Argo|orange}}
+* {{RewardIconWithLink|Mermaid's Tears|green}}
+* {{RewardIconWithLink|Pirate's Coin|green}}
+* {{RewardIconWithLink|Summer Album|green}}
+
+[[Category:Events]]

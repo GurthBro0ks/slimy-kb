@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Linde's Fridge
+|class_id=20808
+|rank=Blue
+|affct=TECH
+|birthday=05-07
+|source=
+|description=On May 7, 1873 AD, Linde, a German, invented the first freezer with ammonia as the refrigerant.<br>Linde used a heat engine to create a cooling system by compressing and evaporating ammonia. It was first used in the Sedumar brewery in Wiesbaden for food preservation.
+[History of Refrigerator]
+Faraday made ice by using a chemical method 50 years ago. Freezer with pressure pump was invented 20 years ago. Electric refrigerators were invented in the early 20th century.
+|fame=29
+|art=30
+|fth=30
+|civ=20
+|tech=45
+|ss1=Per 5 Mecha Gene LVLs, Snail DEF +2<br>Per 5 Mecha Gene LVLs, Snail RUSH +2<br>Mecha Gene LVLs Researched: 150/150
+|ss2=Per 5 Mecha Gene LVLs, Snail DEF +4<br>Per 5 Mecha Gene LVLs, Snail RUSH +4<br>Mecha Gene LVLs Researched: 150/150
+|ss3=Per 5 Mecha Gene LVLs, Snail DEF +6<br>Per 5 Mecha Gene LVLs, Snail RUSH +6<br>Mecha Gene LVLs Researched: 150/150
+|ss4=Per 5 Mecha Gene LVLs, Snail DEF +10<br>Per 5 Mecha Gene LVLs, Snail RUSH +10<br>Mecha Gene LVLs Researched: 150/150
+|ss7=Per 5 Mecha Gene LVLs, Snail DEF +10<br>Per 5 Mecha Gene LVLs, Snail RUSH +10<br>Mecha Gene LVLs Researched: 150/150<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Arena skill I.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail RUSH +20
+}}

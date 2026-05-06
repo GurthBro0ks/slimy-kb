@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Appert's Glass Bottle
+|class_id=22018
+|rank=Blue
+|affct=FAME
+|birthday=06-12
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jun 12, 1809 AD, the French inventor Appert successfully invented the food canning technology.<br>During French emperor Napoleon's conquests, his soldiers would often get sick because they had no fresh vegetables and fruits. In pursuit of solving the problem, Napoleon offered a big reward to whoever could provide a long-term food preservation method. After the persistent research of Appert, a confectioner, a method was found: Put the food in a wide-mouth jar, cork the jar, heat it in boiling water, and eventually seal it with wax. This is how the earliest canned food was made. With this invention, Appert earned the reward and made history.
+|fame=48
+|art=24
+|fth=20
+|civ=29
+|tech=33
+|ss1=Zombie Minion DEF +1%
+|ss2=Zombie Minion DEF +2%
+|ss3=Zombie Minion DEF +3%
+|ss4=Zombie Minion DEF +5%
+|ss7=Zombie Minion DEF +5%<br>Zombie Minion DEF +5% (Awakened)
+|skill1=[[File:Goldfish skill I.png|50px]]Place in Goldfish Biozilla: In Species War, Troop DMG toward heroes +1%
+}}

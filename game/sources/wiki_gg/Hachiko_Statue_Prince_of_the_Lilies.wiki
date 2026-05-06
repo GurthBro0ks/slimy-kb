@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=409
+|relics=Hachiko Statue,Prince of the Lilies
+|rank=purple
+|amount=2
+|category=self
+|description=Species War Cabin Output +6%
+}}

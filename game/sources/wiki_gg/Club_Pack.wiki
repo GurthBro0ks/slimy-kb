@@ -1,0 +1,10 @@
+The {{RewardIconWithLink|Club Pack|orange}} can be purchased once from the [[Club Shop]] for 5k {{RewardIconWithLink|Star Coin}}.
+
+A super value pack for rookies. It contains resources that help you embark on your journey.
+
+It contains:
+* {{RewardIconWithText|Clone Speedup, +15h}}
+* {{RewardIconWithLink|Lottery Ticket, +3|orange}}
+* {{RewardIconWithText|B-Tad, +50k}}
+
+[[Category:Reward Pack]]

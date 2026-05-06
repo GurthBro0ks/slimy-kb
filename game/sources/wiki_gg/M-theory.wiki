@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=M-theory
+|class_id=22758
+|rank=SSS
+|affct=TECH
+|birthday=12-09
+|source=
+|description=On Dec 9, 1995 AD, American physicist Edward Witten introduced the M-theory.<br>The M-theory is a theoretical framework seeking to unify fundamental forces and particles in the universe, aiming to unveil the mysteries of a multi-dimensional cosmos. It builds upon string theory, proposing that all fundamental particles arise from the vibrations of tiny strings. These strings vibrate in higher-dimensional space, while our perceived four-dimensional spacetime is just one facet of this higher-dimensional realm. The theory integrates five superstring theories and eleven-dimensional supergravity, attempting to elucidate the fundamental principles of the universe. While offering a novel perspective on the structure of the cosmos, it still faces challenges in terms of experimental correspondence and integration with existing physics knowledge.
+|fame=68
+|art=50
+|fth=75
+|civ=61
+|tech=108
+|ss1=Snail ATK +30<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +30<br>Per 10 Lucky Coins gained, Snail ATK +6<br>Lucky Coins Gained: 400/400
+|ss2=Snail ATK +40<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +40<br>Per 10 Lucky Coins gained, Snail ATK +12<br>Lucky Coins Gained: 400/400
+|ss3=Snail ATK +50<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +50<br>Per 10 Lucky Coins gained, Snail ATK +18<br>Lucky Coins Gained: 400/400
+|ss4=Snail ATK +70<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +70<br>Per 10 Lucky Coins gained, Snail ATK +30<br>Lucky Coins Gained: 400/400
+|ss5=Snail ATK +90<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +90<br>Per 10 Lucky Coins gained, Snail ATK +42<br>Lucky Coins Gained: 400/400
+|ss6=Snail ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Per 10 Lucky Coins gained, Snail ATK +60<br>Lucky Coins Gained: 400/400
+|ss7=Snail ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Per 10 Lucky Coins gained, Snail ATK +60<br>Lucky Coins Gained: 400/400<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +100 (Awakened)
+|skill1=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: This Relic's TECH +15
+|skill2=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Cap +30%
+|skill3=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +30%
+|mirage={{Mirage|name=The 11D Universe|reward={{RewardIconWithLink|Drone, +10|orange}}
+|3name=fermion|3rec=124.63M|3atk=368468|3defense=219244|3hp=40647139|3weak=45360
+|4name=Boson|4rec=143.56M|4atk=410491|4defense=245878|4hp=55133607|4weak=49151
+|5name=Graviton|5rec=169.05M|5atk=466845|5defense=281737|5hp=80641697|5weak=53395
+|6name=Gravitino|6rec=203.95M|6atk=540725|6defense=330833|6hp=117387611|6weak=58122
+|Arec=263.04M|Aatk=643720|Adefense=399211|Ahp=194590073|Aweak=63337
+}}}}

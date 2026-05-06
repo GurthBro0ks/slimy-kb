@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=The Prayer
+|class_id=22036
+|rank=Blue
+|affct=ART
+|birthday=10-01
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Oct 1, 2900 BC, Sumerians buried the statue of the Prayer under the temple's ground as an offering to God.<br>This plaster figure is a work from the early Sumerian Dynasty. Its eyeballs are inlaid with shells and are painted with black limestone. The curly hair cascades down the sides of the beard, just like its clothing and posture, and is very tidy and orderly. It was found beside the altar of the square temple of Abu God with eleven other statues. According to the inscription, it represents the Eternity prayer offered by worshipers to God.
+|fame=19
+|art=44
+|fth=31
+|civ=35
+|tech=25
+|ss1=In the Demon God Rocket Cabin:<br>> Assist System Base Effect +8%
+|ss2=In the Demon God Rocket Cabin:<br>> Assist System Base Effect +16%
+|ss3=In the Demon God Rocket Cabin:<br>> Assist System Base Effect +24%
+|ss4=In the Demon God Rocket Cabin:<br>> Assist System Base Effect +40%
+|ss7=In the Demon God Rocket Cabin:<br>> Assist System Base Effect +40%<br>In the Demon God Rocket Cabin:<br>> Assist System Base Effect +40% (Awakened)
+|skill1=[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, All Minion HP +1.5%
+}}

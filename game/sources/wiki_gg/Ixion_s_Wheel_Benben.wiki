@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=400
+|relics=Ixion's Wheel,Benben
+|rank=purple
+|amount=2
+|category=self
+|description=Refine +1 White Demon God Material +6%
+}}

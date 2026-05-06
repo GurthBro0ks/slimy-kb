@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Gold Bucket
+|class_id=20480
+|rank=Green
+|affct=FAME
+|source=
+|description=It is Goddess Yunxiao's dharmic vessel. The magical object can hold up all the treasures in the world. It is also one of the Eyes of the Nine Twists Maze. The three sisters of the Three Goddesses Island once used it to capture all the Yuxu disciples, forcing the Primeval Lord of Heaven to join the battle.
+|fame=30
+|art=17
+|fth=15
+|civ=16
+|tech=12
+|ss1=Each round, Snail HP +100
+|ss2=Each round, Snail HP +150
+|ss3=Each round, Snail HP +200
+|ss4=Each round, Snail HP +200
+|ss7=Each round, Snail HP +200<br> (Awakened)
+}}

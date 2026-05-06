@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Infrared Eye
+|type=Common
+|rank=purple
+|id=10830
+|idx=35
+|description=This creature's pupils are capable of generating infrared thermography, and it can see everything around it even in the pitch black of night!
+|skill=
+|hp=1130
+|def=155
+|atk=225
+|rush=138
+|gene1=In explorations, DMG +5%
+|gene2=In explorations, INTEL gained +5%
+|gene3=In explorations, DMG +5%
+|gene4=In explorations, INTEL gained +5%
+|gene7=In explorations, DMG +5% (Awakened)
+|}}

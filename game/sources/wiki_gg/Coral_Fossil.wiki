@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Coral Fossil
+|class_id=20495
+|rank=Green
+|affct=FAME
+|source=
+|description=The coral is a marine multicellular invertebrate that could secrete calcium carbonate and form a hard skeleton in its body. With a tough body, it was often mistaken for a rock. As its body comprises many small individual corals, the surface of the stone-like outer shell was filled with holes of different sizes. Those with trypophobia, you've been warned.
+|fame=29
+|art=17
+|fth=16
+|civ=14
+|tech=14
+|ss1=Snail ATK +40<br>Quarry produces Ancient Fossil by +1%
+|ss2=Snail ATK +60<br>Quarry produces Ancient Fossil by +2%
+|ss3=Snail ATK +80<br>Quarry produces Ancient Fossil by +3%
+|ss4=Snail ATK +80<br>Quarry produces Ancient Fossil by +3%
+|ss7=Snail ATK +80<br>Quarry produces Ancient Fossil by +3%<br> (Awakened)
+}}

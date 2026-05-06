@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Holmes' Pipe
+|rank=Blue
+|affct=CIV
+|birthday=01-01
+|source=Lottery Machine (0.36%), Wishing (10.3%), Novice Scrolls (5%)
+|description=On Jan 1, 1870, Sherlock Holmes finally solved the case of the Hound of Baskerville.
+
+When Sherlock Holmes was working on a case, the fire of his pipe always flickered. A legend in Baskerville said that the family was cursed by a fearsome hound. After a few days, Holmes finally managed to catch the murderer and found the truth behind the beast that plagued the Baskervilles for years.
+
+[Famous Quotes]
+
+There is nothing new under the sun. It has all been done before. We are insignificant, and work is everything. You will overcome everything with time. A fool always finds a greater fool to admire him.
+|fame=28
+|art=30
+|fth=20
+|civ=45
+|tech=31
+|ss1=Per Apostle defeated, Snail ATK +3<br>Apostles defeated: 15/15
+|ss2=Per Apostle defeated, Snail ATK +6<br>Apostles defeated: 15/15
+|ss3=Per Apostle defeated, Snail ATK +9<br>Apostles defeated: 15/15
+|ss4=Per Apostle defeated, Snail ATK +15<br>Apostles defeated: 15/15
+|ss7=Spot Rogue Survivor once, Snail ATK +15<br>Rogue Survivor Spotted: 20/20<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Britann skill I.png|50px]] Place in Britland Museum: In Britland, Snail HP +200
+}}
+
+[[Category:ATK Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Lumber Camp Boost]]
+[[Category:Offering Speed Boost]]

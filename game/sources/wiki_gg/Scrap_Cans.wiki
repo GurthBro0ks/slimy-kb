@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Scrap Cans
+|class_id=20428
+|rank=Green
+|affct=FAME
+|source=
+|description=Following the world's destruction, what currency will dominate the economic system? One opinion we got is Nuka-Cola bottle cap, and our own answer is the aluminum can! As for why they are both part of the packaging for carbonated drinks... Well, that's a story for another day!
+|fame=29
+|art=15
+|fth=16
+|civ=19
+|tech=11
+|ss1=Per Premium Cat Food bought, Snail HP +10<br>Premium Cat Food Bought: 20/20
+|ss2=Per Premium Cat Food bought, Snail HP +20<br>Premium Cat Food Bought: 20/20
+|ss3=Per Premium Cat Food bought, Snail HP +30<br>Premium Cat Food Bought: 20/20
+|ss4=Per Premium Cat Food bought, Snail HP +30<br>Premium Cat Food Bought: 20/20
+|ss7=Per Premium Cat Food bought, Snail HP +30<br>Premium Cat Food Bought: 20/20<br> (Awakened)
+}}

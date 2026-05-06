@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20763_1
+|class_id=20763
+|rank=Green
+|affct=FAITH
+|source=
+|description=collection@20763_2
+|fame=16
+|art=16
+|fth=29
+|civ=15
+|tech=14
+|ss1=Snail Leadership +2<br>Per 20 Lucky Star gained, Snail HP +10<br>Lucky Star Gained: 4500/4500
+|ss2=Snail Leadership +4<br>Per 20 Lucky Star gained, Snail HP +20<br>Lucky Star Gained: 4500/4500
+|ss3=Snail Leadership +6<br>Per 20 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 4500/4500
+|ss4=Snail Leadership +6<br>Per 20 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 4500/4500
+|ss7=Snail Leadership +6<br>Per 20 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 4500/4500<br> (Awakened)
+}}

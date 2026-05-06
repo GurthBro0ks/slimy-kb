@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Testament of Flamel
+|class_id=22459
+|rank=Blue
+|affct=FAITH
+|birthday=01-15
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jan 15, 1417 AD, Nicolas Flamel's funeral was held as scheduled, leaving endless mysteries for the world.<br>Nicolas Flamel used to be an ordinary copyist. By chance, he obtained a strange document called "The Book of Abraham the Jew." He spent 21 years deciphering it and, with the guidance of a predecessor, succeeded in creating the legendary Philosopher's Stone. Later, he revealed this secret in the form of a will to his nephew. Although the content was obscure, he still managed to pass on his writings to future generations as one of the important classics in the history of alchemy.
+|fame=25
+|art=35
+|fth=47
+|civ=20
+|tech=27
+|ss1=Angel Minion RUSH +1%
+|ss2=Angel Minion RUSH +2%
+|ss3=Angel Minion RUSH +3%
+|ss4=Angel Minion RUSH +5%
+|ss7=Angel Minion RUSH +5%<br>Angel Minion RUSH +5% (Awakened)
+|skill1=[[File:Offeringegg skill I.png|50px]]Place in Offering Egg: Green rewards from this egg turn Blue by 1%
+}}

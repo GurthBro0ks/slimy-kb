@@ -1,0 +1,166 @@
+==Card Redemption==
+Throughout [[Yamato]], cards can be collected and exchanged for various rewards. Cards vary from tier 1 (white) to tier 5 (orange) and there's different types of each tier. Below is a list of the rewards that can be exchanged, and how many times.
+
+==Tier 1 (White)==
+'''Recommended:''' Enhancement Injections, Gear, {{RewardIconWithText|Underground Explorer}}
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:#9c9c9c;" | [[File:Koban.png|frameless|75x75px]]
+| rowspan="8" | Koban
+|3x3||Enhancement Injection:<br>Snail ATK +6<br>Snail DEF +6
+| rowspan="8" | {{RewardIconWithText|B-tad, +7}}
+|-
+|2x1||{{RewardIconWithText|Yamato INTEL, +800}}
+|-
+|3x1||{{RewardIconWithText|B-tad, +2.4k}}
+|-
+|4x1||{{RewardIconWithLink|Novice Scroll, +5|blue}}
+|-
+|5x1||{{RewardIconWithGearlink|white|Realm|Light Yamato Armor}}
+|-
+|6x1||{{RewardIconWithGearlink|white|Realm|Royal Underwear}}
+|-
+|7x1||{{RewardIconWithLink|Lottery Ticket, +1|orange}}
+|-
+|8x1||{{RewardIconWithText|Underground Explorer}}:<br>Use to unlock the Home [[Fissure]]
+|-
+| style="background-color:#9c9c9c;" | [[File:Sakura.png|frameless|75x75px]]
+|Sakura||2x1||{{RewardIconWithText|Travel Speedup, +1h}}||{{RewardIconWithText|B-tad, +140}}
+|-
+| style="background-color:#9c9c9c;" | [[File:Ukiyo-e.png|frameless|75x75px]]
+|Ukiyo-e||2x1||{{RewardIconWithText|B-Tad, +4.8}}||{{RewardIconWithText|Sushi, +5}}
+|-
+| style="background-color:#9c9c9c;" | [[File:Toyato Motor.png|frameless|75x75px]]
+|Toyato Motor||3x1||{{RewardIconWithLink|Lottery Ticket, +1|orange}}||{{RewardIconWithText|Yamato INTEL, +280}}
+|}
+
+==Tier 2 (Green)==
+'''Recommended:''' Enhancement Injections, Gear, INTEL
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#7de87f;" | [[File:Koban green.png|frameless|75x75px]]
+| rowspan="7" | Koban
+|3x3||Enhancement Injection:<br>Snail HP +60<br>Snail RUSH +6
+| rowspan="7" | 21 B-tads
+|-
+|2x1||Yamato INTEL +1,600
+|-
+|3x1||4,800 B-tads
+|-
+|4x1||Novice Scroll +5
+|-
+|5x1||[[Gear|<span style="color:#40da25;">Ninjutsu Armband</span>]]
+|-
+|6x1||Gear Chest +40
+|-
+|7x1||Lottery Ticket +2
+|-
+| style="background-color:#7de87f;" | [[File:Tea Ceremony.png|frameless|75x75px]]
+|Tea Ceremony||3x1||Glue +50||Energy Pill +3
+|-
+| rowspan="2" style="background-color:#7de87f;" | [[File:Izakaya.png|frameless|75x75px]]
+| rowspan="2"| Izakaya
+|4x2||Demon Cell +500
+| rowspan="2"|280 B-tads
+|-
+|4x1||Evolution Chest +20
+|-
+| style="background-color:#7de87f;" | [[File:Mount Huji.png|frameless|75x75px]]
+|Mount Huji||3x1||[[Art of Ninja|<span style="color:#22d3d0;">Art of Ninja</span>]] +10||Yamato INTEL +560
+|}
+
+==Tier 3 (Blue)==
+'''Recommended:''' Enhancement Injections, Gear, {{RewardIconWithText|Energy Core}}
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:#7de8e6;" | [[File:Koban blue.png|frameless|75x75px]]
+| rowspan="8" | Koban
+|3x3||Enhancement Injection:<br>Snail ATK +8<br>Snail RUSH +8
+| rowspan="8" | {{RewardIconWithText|B-Tad, +63}}
+|-
+|2x1||{{RewardIconWithText|Yamato INTEL, +2.4k}}
+|-
+|3x1||{{RewardIconWithText|B-Tad, +8k}}
+|-
+|4x1||{{RewardIconWithLink|Novice Scroll, +10|blue}}
+|-
+|5x1||{{RewardIconWithGearlink|blue|Realm|Servant Spirit Pendant}}
+|-
+|6x1||{{RewardIconWithLink|Gear Chest, +60}}
+|-
+|7x1||{{RewardIconWithLink|Lottery Ticket, +3|orange}}
+|-
+|7x1||{{RewardIconWithLink|Energy Core (Rocket)|black|Rocket}} (use to repair Rocket Bunker)
+|-
+| style="background-color:#7de8e6;" | [[File:Famicom.png|frameless|75x75px]]
+|Famicom||3x1||{{RewardIconWithLink|ByeCube|black|Minigames}} Minigame||{{RewardIconWithLink|Yamato Treasure Map, +2}}
+|-
+| style="background-color:#7de8e6;" | [[File:Geisha.png|frameless|75x75px]]
+|Geisha||3x2||{{RewardIconWithText|W-Tad, +300}}||{{RewardIconWithText|W-Tad, +10}}
+|}
+
+==Tier 4 (Purple)==
+'''Recommended:''' Enhancement Injections, Gear, INTEL
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#f3b5e1;" | [[File:Koban purple.png|frameless|75x75px]]
+| rowspan="7" | Koban
+|3x3||Enhancement Injection:<br>Snail HP +100<br>Snail ATK +10
+| rowspan="7" | 180 B-tads
+|-
+|2x1||Yamato INTEL +3,200
+|-
+|3x1||14K B-tads
+|-
+|4x1||Expert Scroll +10
+|-
+|4x1||Demon Cell +1,000
+|-
+|5x1||[[Gear|<span style="color:#ee96d5;">Blade Muramasa</span>]]
+|-
+|6x2||Lottery Ticket +2
+|-
+| style="background-color:#f3b5e1;" | [[File:The Last Samurai.png|frameless|75x75px]]
+|The Last Samurai||2x1||Offering Speedup +6h40m||Soul Chest +1
+|-
+| rowspan="2" style="background-color:#f3b5e1;" | [[File:Koka Scrolls.png|frameless|75x75px]]
+| rowspan="2" | Koka Scrolls
+|3x2||Demon Cell +1000
+| rowspan="2" | Yamato Treasure Map +1
+|-
+|3x1||Yamato Treasure Map +50
+|-
+| style="background-color:#f3b5e1;" | [[File:Ika Scrolls.png|frameless|75x75px]]
+|Ika Scrolls||3x2||Expert Scroll +20||Yamato Treasure Map +1
+|}
+
+==Tier 5 (Orange)==
+'''Recommended:''' Enhancement Injections
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="6" style="background-color:#ffb066;" | [[File:Koban orange.png|frameless|75x75px]]
+| rowspan="6" | Koban
+|3x3||Enhancement Injection:<br>Snail ATK +12<br>Snail RUSH +12
+| rowspan="6" | 567 B-tads
+|-
+|2x1||Yamato INTEL +4,000
+|-
+|3x1||Gear Chest +100
+|-
+|4x1||20k B-tads
+|-
+|5x1||Master Scroll +10
+|-
+|6x2||Lottery Ticket +2
+|-
+| style="background-color:#ffb066;" | [[File:Amaterasu.png|frameless|75x75px]]
+|Amaterasu||2x1||Wich Coin||15 W-tads
+|}
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Yamato]]

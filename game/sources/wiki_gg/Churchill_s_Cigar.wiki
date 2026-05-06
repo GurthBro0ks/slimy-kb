@@ -1,0 +1,33 @@
+{{CargoRelic
+|name=Churchill's Cigar
+|rank=Blue
+|affct=FAME
+|birthday=10-01
+|source=Lottery Machine (0.07%), Novice Scrolls (1%), Wishing (3.1%)
+|description=On Oct 1, 1944, Churchill kept smoking cigars, one after another.
+
+Churchill was thinking about the war while smoking. From the Italian front lines, he looked towards the enemy troops and soon many smoked cigars were scattered around the floor. As his servant said, "The number of cigars thrown away every day is equal to a week of my salary."
+
+[A Record of Cigars Discarded]
+
+April: 250. June: 275. July:100. August: 100. September: 100.
+|fame=46
+|art=24
+|fth=28
+|civ=31
+|tech=25
+|ss1=Per 10 HP-Fungi eaten, Snail ATK +1<br>HP-Fungi Eaten: 500/500
+|ss2=Per 10 HP-Fungi eaten, Snail ATK +2<br>HP-Fungi Eaten: 500/500
+|ss3=Per 10 HP-Fungi eaten, Snail ATK +3<br>HP-Fungi Eaten: 500/500
+|ss4=Per 10 HP-Fungi eaten, Snail ATK +5<br>HP-Fungi Eaten: 500/500
+|ss7=Per 10 HP-Fungi eaten, Snail ATK +5<br>HP-Fungi Eaten: 500/500<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Britann skill I.png|frameless|53x53px]]Place in Britland Museum: In Britland, FAME Checks -5
+}}
+
+[[Category:ATK Boost]]
+[[Category:HP-Fungi Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:FAME Boost]]
+[[Category:Demon Minion ATK Boost]]
+[[Category:Time Machine Output Boost]]

@@ -1,0 +1,768 @@
+{{Missing Info|specifics=<br>'''Swordsman Isami:''' Stats and Rewards<br>'''King Zhou:''' Rewards (and Minions?)<br>'''Doomsday Pharaoh:''' Rewards (and Minions?)<br>'''Lord Xiang Yu:''' Rewards<br>'''Dragon Jr:''' Stats, Rewards, and Minions<br>'''King Sejong:''' Stats, Rewards, and Minions<br>'''Spartan War God:''' Stats, Rewards, and Minions<br>'''Flying Man:''' Stats, Rewards, and Minions<br>'''Alexander:''' Stats, Rewards, and Minions<br>'''Confucius:''' Stats, Rewards, and Minions<br>'''Dromedary:''' Stats, Rewards, and Minions<br>'''Ultimate Weapon No. 1105:''' Stats, Rewards, and Minions}}
+
+==Queen Victoria==
+'''Area:'''  AD 1880 - Londorn
+
+'''Drifter Components:''' {{RewardIconWithText|NAV Medal}} and {{RewardIconWithText|Nautical Treasure}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Rodnie'' || 89441 || 71622 || 214592 || 85750 AFFCT || HIT +60<br>Paralysis RES +60% || || || {{RewardIconWithText|B-Tads, +1010|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +1.6k|black}}
+|-
+| ''Hoode'' || 89847 || 71947 || 215988 || 85960 AFFCT || HIT +60<br>Paralysis RES +60% || || || {{RewardIconWithText|B-Tads, +1020|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +1.7k|black}}
+|-
+| ''Hawk'' || 90253 || 72272 || 217388 || 86169 AFFCT || HIT +60<br>Paralysis RES +60% || || || {{RewardIconWithText|B-Tads, +1030|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +1.8k|black}}
+|-
+| ''Jerico'' || 91066 || 72923 || 220199 || 86590 AFFCT || HIT +60<br>Paralysis RES +60% || || || {{RewardIconWithText|B-Tads, +1040|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +1.9k|black}}
+|-
+| ''Neilson'' || 91878 || 73573 || 223027 || 87010 AFFCT || HIT +60<br>Paralysis RES +60% || || || {{RewardIconWithText|B-Tads, +1050|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +2k|black}}
+|-
+|'''Queen Victoria'''|| 93503 || 74874 || 228447 || 17170 ART || HIT+90<br>Paralysis RES +90% || || ||{{RewardIconWithText|Time Frag Card White,|black}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +2h|black}} (Domination)
+|}
+
+==No.0592's Lottery Machine==
+'''Area:'''  AD 2002 - Capricorn
+
+'''Drifter Components:''' {{RewardIconWithText|Demon Leather}} and {{RewardIconWithText|Color Thread}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|''White Orb''|| 100393 || 80392 || 303224 || 91261 AFFCT || HIT +60<br>Paralysis RES +60% || || || {{RewardIconWithText|B-Tads, +1060|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +2.1k|black}}
+|-
+|''Green Orb''|| 101605 || 81363 || 308315 || 91849 AFFCT || HIT +60<br>Paralysis RES +60% || || || {{RewardIconWithText|B-Tads, +1070|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +2.2k|black}}
+|-
+|''Blue Orb''|| 102430 || 82023 || 311743 || 92241 AFFCT || HIT +60<br>Paralysis RES +60% || || || {{RewardIconWithText|B-Tads, +1080|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +2.3k|black}}
+|-
+|''Purple Orb''|| 103255 || 82684 || 315182 || 92634 AFFCT || HIT +60<br>Paralysis RES +60% || || || {{RewardIconWithText|B-Tads, +1090|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +2.4k|black}}
+|-
+|''Orange Bead''|| 104080 || 83345 || 318634 || 93027 AFFCT || HIT +60<br>Paralysis RES +60% || || || {{RewardIconWithText|B-Tads, +1100|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +2.5k|black}}
+|-
+|'''No.0592's Lottery Machine'''|| 105318 || 84336 || 323840 || 18325 FAME || HIT +90<br>Paralysis RES +90% || || ||{{RewardIconWithText|Time Frag Card White}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +130m|black}} (Domination)<hr>{{RewardIconWithLink|Lottery Machine No. 2}}
+|}
+
+==General Su==
+'''Area:'''  AD 660 - Kangwon Do
+
+'''Drifter Components:''' {{RewardIconWithText|Hitman Cert}} and {{RewardIconWithText|Apostle Cert}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''General Gim'' || 104956 || 88211 || 784243 || 95218 AFFCT || HIT +60.4<br>Paralysis RES +60.4% || || || {{RewardIconWithText|B-Tads, +1110|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +2.6k|black}}
+|-
+| ''Prince Beopmin'' || 105229 || 88515 || 788072 || 95436 AFFCT || HIT +60.4<br>Paralysis RES +60.4% || || || {{RewardIconWithText|B-Tads, +1120|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +2.7k|black}}
+|-
+| ''King Chunchu'' || 105541 || 88853 || 799441 || 95679 AFFCT || HIT +60.5<br>Paralysis RES +60.5% || || || {{RewardIconWithText|B-Tads, +1130|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +2.8k|black}}
+|-
+| ''Duke Liu'' || 105812 || 89157 || 803392 || 95896 AFFCT || HIT +60.5<br>Paralysis RES +60.5% || || || {{RewardIconWithText|B-Tads, +1140|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +2.9k|black}}
+|-
+| '''General Su''' ||106338||89799||820637||CIV 19066||HIT +90<br>Paralysis RES +90%|| ||18.5M||{{RewardIconWithText|Time Frag Card White}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +140m|black}} (Domination)
+|-
+|}
+
+==Dawie Jones==
+'''Area:'''  AD 1556 - Berfast
+
+'''Drifter Components:''' {{RewardIconWithText|NAV Medal}} and {{RewardIconWithText|Nautical Treasure}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''St. Trinidad'' || 106084 || 89461 || 814696 || 96109 AFFCT || HIT +60.2<br>Paralysis RES +60.2% || || || {{RewardIconWithText|B-Tads, +1150|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +3k|black}}
+|-
+| ''Soleil Royal'' || 107889 || 91532 || 878765 || 97560 AFFCT || HIT +60.4<br>Paralysis RES +60.4% || || || {{RewardIconWithText|B-Tads, +1160|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +3.1k|black}}
+|-
+| '''Dawie Jones''' || 109508 || 93323 || 9047639 || 19559 TECH || HIT +90<br>Paralysis RES +90% || || || {{RewardIconWithText|Time Frag Card White}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +150m|black}} (Domination)<hr> [[Time_Beacon#Temporal_Drifters|Temporal Drifters]] [[Time_Beacon#St._Trinidad|St. Trinidad]] & [[Time_Beacon#Soleil_Royal|Soleil Royal]]
+|-
+|}
+
+==Predecessor Snail==
+'''Area:'''  AD 2021 - Munbay
+
+'''Drifter Components:''' {{RewardIconWithText|Adv Taoist Pill}} and {{RewardIconWithText|Adv Herb Pill}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Cow'' || 108183 || 91854 || 894530 || 97777 AFFCT || HIT +60.6<br>Paralysis RES +60.6% || || || {{RewardIconWithText|B-Tads, +1170|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +3.2k|black}}
+|-
+| ''Yak'' || 108854 || 92570 || 919988 || 98272 AFFCT || HIT +60.6<br>Paralysis RES +60.6% || || || {{RewardIconWithText|B-Tads, +1180|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +3.3k|black}}
+|-
+| ''Rhino'' || 109844 || 93681 || 956982 || 99035 AFFCT || HIT +60.6<br>Paralysis RES +60.6% || || || {{RewardIconWithText|B-Tads, +1190|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +3.4k|black}}
+|-
+| ''Manatee'' || 110456 || 94397 || 985193 || 99530 AFFCT || HIT +60.7<br>Paralysis RES +60.7% || || || {{RewardIconWithText|B-Tads, +1200|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +3.5k|black}}
+|-
+| ''Longicorn'' || 111168 || 95150 || 1022833 || 100044 AFFCT || HIT +60.7<br>Paralysis RES +60.7% || || || {{RewardIconWithText|B-Tads, +1210|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +3.6k|black}}
+|-
+| ''Morning-glory'' || 111821 || 95902 || 1052869 || 100564 AFFCT || HIT +60.8<br>Paralysis RES +60.8% || || || {{RewardIconWithText|B-Tads, +1220|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +3.7k|black}}
+|-
+|'''Predecessor Snail'''||112808||97012||1102461||ART 20072||HIT +90<br>Paralysis RES +90%|| ||22.1M||{{RewardIconWithText|Time Frag Card White}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +160m|black}} (Domination)
+|-
+|}
+
+==Traveler 89757==
+'''Area:'''  AD 2115 - Gujalatt
+
+'''Drifter Components:''' {{RewardIconWithText|Adv Taoist Pill}} and {{RewardIconWithText|Adv Herb Pill}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Excalibra'' || 114194 || 98588 || 1176919 || 102391 AFFCT || HIT +60.9<br>Paralysis RES +60.9% || || || {{RewardIconWithText|B-Tads, +1230|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +3.8k|black}}
+|-
+| ''Dracula'' || 113186 || 97409 || 113380 || 101599 AFFCT || HIT +60.8<br>Paralysis RES +60.8% || || || {{RewardIconWithText|B-Tads, +1240|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +3.9k|black}}
+|-
+| ''Rogue Survivor'' || 114928 || 99361 || 1208450 || 102910 AFFCT || HIT +60.9<br>Paralysis RES +60.9% || || || {{RewardIconWithText|B-Tads, +1250|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +4k|black}}
+|-
+|'''Traveler 89757'''||116364||99848||1290884||20609 FAME|| HIT +90<br>Paralysis RES +90% || ||22.3M||{{RewardIconWithText|Time Frag Card White}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +170|black}} (Domination)<hr>[[Time_Beacon#Temporal_Drifters|Temporal Drifters]] [[Time_Beacon#Excalibra|Excalibra]] & [[Time_Beacon#Dracula|Dracula]]
+|-
+|}
+
+==Onmyoji Abbe==
+'''Area:'''  AD 955 - Kiyoto
+
+'''Drifter Components:''' {{RewardIconWithText|Ninjutsu Cert}} and {{RewardIconWithText|Sword Expert Cert}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Touda'' || 115258 || 99767 || 1221838 || 103178 AFFCT || HIT+61<br>Paralysis RES +61% || || || {{RewardIconWithText|B-Tads, +1260|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +4.1k|black}}
+|-
+| ''Kouchin'' || 115646 || 100172 || 1242795 || 103450 AFFCT || HIT+61<br>Paralysis RES +61% || || || {{RewardIconWithText|B-Tads, +1270|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +4.2k|black}}
+|-
+| ''Seiryuu'' || 115976 || 99447 || 1269422 || 103722 AFFCT || HIT+61<br>Paralysis RES +61% || || || {{RewardIconWithText|B-Tads, +1280|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +4.3k|black}}
+|-
+| ''Rikugo'' || 116585 || 100072 || 1297164 || 104138 AFFCT || HIT+61<br>Paralysis RES +61% || || || {{RewardIconWithText|B-Tads, +1290|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +4.4k|black}}
+|-
+| ''Suzaku'' || 116706 || 100259 || 1304242 || 104267 AFFCT || HIT+61<br>Paralysis RES +61% || || || {{RewardIconWithText|B-Tads, +1300|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +4.5k|black}}
+|-
+| ''Tenitsu'' || 117106 || 100671 || 1326674 || 104544 AFFCT || HIT+61.1<br>Paralysis RES +61.1% || || || {{RewardIconWithText|B-Tads, +1310|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +4.6k|black}}
+|-
+| ''Tenkou'' || 117449 || 101083 || 1340240 || 104821 AFFCT || HIT+61.1<br>Paralysis RES +61.1% || || || {{RewardIconWithText|B-Tads, +1320|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +4.7k|black}}
+|-
+| ''Taiin'' || 117849 || 101494 || 1374322 || 105093 AFFCT || HIT+61.1<br>Paralysis RES +61.1% || || || {{RewardIconWithText|B-Tads, +1330|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +4.8k|black}}
+|-
+| ''Genbu'' || 118191 || 101906 || 1388189 || 105371 AFFCT || HIT+61.1<br>Paralysis RES +61.1% || || || {{RewardIconWithText|B-Tads, +1340|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +4.9k|black}}
+|-
+| ''Taijou'' || 118634 || 102356 || 1412041 || 105678 AFFCT || HIT+61.2<br>Paralysis RES +61.2% || || || {{RewardIconWithText|B-Tads, +1350|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +5k|black}}
+|-
+| ''Byakko'' || 118977 || 102768 || 1426106 || 105955 AFFCT || HIT+61.2<br>Paralysis RES +61.2% || || || {{RewardIconWithText|B-Tads, +1360|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +5.1k|black}}
+|-
+| ''Tenkuu'' || 119375 || 103179 || 1449004 || 106227 AFFCT || HIT+61.2<br>Paralysis RES +61.2% || || || {{RewardIconWithText|B-Tads, +1370|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +5.2k|black}}
+|-
+|'''Onmyoji Abbe'''||120146||104030||1487799||21177 FTH||HIT +90<br>Paralysis RES +90%|| ||22.4M||{{RewardIconWithText|Time Frag Card White}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +3h|black}} (Domination)
+|-
+|}
+
+==Koryeon Commissioner==
+'''Area:'''  AD 2001 - Kanghwa
+
+'''Drifter Components:''' {{RewardIconWithText|Hitman Cert}} and {{RewardIconWithText|Apostle Cert}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Idol Boy'' || 121617 || 105669 || 1579085 || 107910 AFFCT || HIT+61.3<br>Paralysis RES +61.3% || || || {{RewardIconWithText|B-Tads, +1380|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +5.3k|black}}
+|-
+|'''Koryeon Commissioner'''||123987||108460||1711428||21752 FAME||HIT +90<br>Paralysis RES +90%|| ||23.3M||{{RewardIconWithText|Time Frag Card White}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +190m|black}} (Domination)<hr>[[Time_Beacon#Temporal_Drifters|Temporal Drifters]] [[Time_Beacon#Koreon_Commissioner|Koreon Commissioner]] & [[Time_Beacon#Idol_Boy|Idol Boy]]
+|-
+|}
+
+==Hitman No.10465==
+'''Area:'''  AD 2091 - Gyeonkkido
+
+'''Drifter Components:''' {{RewardIconWithText|Hitman Cert}} and {{RewardIconWithText|Apostle Cert}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|''Hitman No.1''|| 122315 || 106507 || 1620528 || 108474 AFFCT || HIT +61.4<br>Paralysis RES +61.4% || || || {{RewardIconWithText|B-Tads, +1390|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +5.4k|black}}
+|-
+|''Hitman No.5''|| 123080 || 107412 || 1662462 || 109048 AFFCT || HIT +61.4<br>Paralysis RES +61.4% || || || {{RewardIconWithText|B-Tads, +1400|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +5.5k|black}}
+|-
+|''Hitman No.16''|| 124366 || 108947 || 1741454 || 109930 AFFCT || HIT +61.5<br>Paralysis RES +61.5% || || || {{RewardIconWithText|B-Tads, +1410|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +5.6k|black}}
+|-
+|''Hitman No.17''|| 124847 || 109476 || 1759530 || 110227 AFFCT || HIT +61.5<br>Paralysis RES +61.5% || || || {{RewardIconWithText|B-Tads, +1420|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +5.7k|black}}
+|-
+|''Hitman No.2677''|| 125272 || 110006 || 1806813 || 110529 AFFCT || HIT +61.5<br>Paralysis RES +61.5% || || || {{RewardIconWithText|B-Tads, +1430|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +5.8k|black}}
+|-
+|''Hitman No.4444''|| 125706 || 110497 || 1824299 || 110811 AFFCT || HIT +61.5<br>Paralysis RES +61.5% || || || {{RewardIconWithText|B-Tads, +1440|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +5.9k|black}}
+|-
+|''Hitman No.9005''|| 126130 || 111030 || 1856561 || 111108 AFFCT || HIT +61.6<br>Paralysis RES +61.6% || || || {{RewardIconWithText|B-Tads, +1450|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +6k|black}}
+|-
+| '''Hitman No.10465''' ||128315||112378||2002583||22351 TECH||HIT +90<br>Paralysis RES +90%|| ||24.5m||{{RewardIconWithText|Time Frag Card White}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +200m|black}} (Domination)<hr>[[Time_Beacon#Temporal_Drifters|Temporal Drifter]] [[Time_Beacon#Hitman_No._1|Hitman No. 1]]
+|-
+|}
+
+==Lord of Sand==
+'''Area:'''  1469 BC - Reed Sea
+
+'''Drifter Components:''' {{RewardIconWithText|Super Energy Stone}} and {{RewardIconWithText|Super Obsidian}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|''Sandworm''|| 127412 || 112595 || 1935740 || 111999 AFFCT || HIT +61.6<br>Paralysis RES +61.6% || || || {{RewardIconWithText|B-Tads, +1460|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +6.1k|black}}
+|-
+|''Sand Scorpion''||128738||112909||2020653|| 112924 AFFCT ||HIT +61.7<br>Paralysis RES +61.7%|| || || {{RewardIconWithText|B-Tads, +1470|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +6.2k|black}}
+|-
+|''Deadly Serpent''||129160||113443||2069563||113226 AFFCT||HIT +61.7<br>Paralysis RES +61.7%|| || ||{{RewardIconWithText|B-Tads, +1480|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +6.3k|black}}
+|-
+|''Giant Sandworm''||129639||113976||2086032||113533 AFFCT||HIT +61.7<br>Paralysis RES +61.7%|| || ||{{RewardIconWithText|B-Tads, +1490|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +6.4k|black}}
+|-
+|''Desert Fly''||130483||115045||2150456||114152 AFFCT||HIT +61.8<br>Paralysis RES +61.8%|| || ||{{RewardIconWithText|B-Tads, +1500|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +6.5k|black}}
+|-
+| '''Lord of Sand''' ||132749||117767||2270480||22978 ART||HIT +90<br>Paralysis RES +90%|| ||25.3M||{{RewardIconWithText|Time Frag Card White}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +210m|black}} (Domination)
+|-
+|}
+
+==Asvan Dam==
+'''Area:'''  AD 2120 - Asvan
+
+'''Drifter Components:''' {{RewardIconWithText|Super Energy Stone}} and {{RewardIconWithText|Super Obsidian}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|''Modern Pyramid''|| 131805 || 116653 || 2219680 || Total AFFCT 115073 || HIT +61.8<br>Paralysis RES +61.8% ||22.0M|| || {{RewardIconWithText|B-Tads, +1510|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +6.6k|black}}
+|-
+|''Past Pyramid''||134011||119382||2377119|| Total AFFCT 124197 || HIT +62<br>Paralysis RES +62% ||22.3M|| || {{RewardIconWithText|B-Tads, +1520|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +6.7k|black}}
+|-
+|''Future Pyramid''|| 135438 || 121041 || 2465857 || Total AFFCT 117607 || HIT +62<br>Paralysis RES +62% ||22.6M|| ||{{RewardIconWithText|B-Tads, +1530|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +6.8k|black}}
+|-
+|'''Asvan Dam'''||137285||123246||2604500||23619 CIV||HIT +90<br>Paralysis RES +90%||22.9M|| ||{{RewardIconWithText|Time Frag Card White}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>[[Time_Beacon#Temporal_Drifters|Temporal Drifter]] [[Time_Beacon#Past_Pyramid|Past Pyramid]] & [[Time_Beacon#Future_Pyramid|Future Pyramid]]
+|-
+|}
+
+==Jiro Toyato==
+'''Area:'''  AD 2056 - Canto
+
+'''Drifter Components:''' {{RewardIconWithText|Ninjutsu Cert}} and {{RewardIconWithText|Sword Expert Cert}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|''Tojima Family Leader''||135859||121582||2488213|| 117919 AFFCT||HIT +62.1<br>Paralysis RES +62.1%||22.2M|| || {{RewardIconWithText|B-Tads, +1540|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +6.9k|black}}
+|-
+|''Kasama Family Leader''||136800||122704||2581955||118572 AFFCT||HIT +62.1<br>Paralysis RES +62.1%||22.3M|| || {{RewardIconWithText|B-Tads, +1550|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +7.0k|black}}
+|-
+|''Nishigiyama Family Leader''||137749||123828||2643078||119226 AFFCT||HIT +62.1<br>Paralysis RES +62.1%||22.6M|| || {{RewardIconWithText|B-Tads, +1560|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +7.1k|black}}
+|-
+|''Gang Leader Majima''||138755||124953||2712043||119879 AFFCT||HIT +62.2<br>Paralysis RES +62.2%||22.8M|| || {{RewardIconWithText|B-Tads, +1570|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +7.2k|black}}
+|-
+|''Gang Leader Saejima''||139638||126080||2784722||120532 AFFCT||HIT +62.2<br>Paralysis RES +62.2%|||23.0M|| || {{RewardIconWithText|B-Tads, +1580|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +7.3k|black}}
+|-
+|'''Jiro Toyato'''||142056||127439||3025660||24285 FTH||HIT +90<br>Paralysis RES +90%||23.3M||25.5M||{{RewardIconWithText|Time Frag Card White}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +230m|black}} (Domination)
+|-
+|}
+
+==Steven Jobless==
+'''Area:'''  AD 2007 - Kalifornia
+
+'''Drifter Components:''' {{RewardIconWithText|Mecha Component+}} and {{RewardIconWithText|Biochem Component+}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|''OPhone''||140643||127207||2855014||121186 AFFCT||HIT +62.3<br>Paralysis RES +62.3%||23.2M|| || {{RewardIconWithText|B-Tads, +1590|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +7.4k|black}}
+|-
+|''OPhone 3GS''||141592||126860||2981632||121839 AFFCT||HIT +62.3<br>Paralysis RES +62.3%||23.3M|| || {{RewardIconWithText|B-Tads, +1600|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +7.5k|black}}
+|-
+|''OPhone 4''||142474||127978||3067397||122503 AFFCT||HIT +62.4<br>Paralysis RES +62.4%||23.4M|| || {{RewardIconWithText|B-Tads, +1610|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +7.6k|black}}
+|-
+|''OPhone 5''||143479||129096||3134684||123171 AFFCT||HIT +62.4<br>Paralysis RES +62.4%||23.5M|| || {{RewardIconWithText|B-Tads, +1620|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +7.7k|black}}
+|-
+|''OPhone 6''||143942||129676||3161174||123517 AFFCT||HIT +62.5<br>Paralysis RES +62.5%||23.6M|| || {{RewardIconWithText|B-Tads, +1630|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +7.8k|black}}
+|-
+|''OPhone X''||144472||130256||3204942||123864 AFFCT||HIT +62.5<br>Paralysis RES +62.5%||23.7M|| || {{RewardIconWithText|B-Tads, +1640|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +7.9k|black}}
+|-
+|''OPhone 12''||144935||130835||3275888||124210 AFFCT||HIT +62.5<br>Paralysis RES +62.5%||23.9M|| || {{RewardIconWithText|B-Tads, +1650|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +8k|black}}
+|-
+|'''Steven Jobless'''||147300||133503||3435823||24968 TECH||HIT +90<br>Paralysis RES +90%|| || ||{{RewardIconWithText|Time Frag Card Green}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +4h|black}} (Domination)
+|}
+
+==Divine Minister Cao Cao==
+'''Area:'''  AD 220 - Luoyang
+
+'''Drifter Components:''' {{RewardIconWithText|Tiger Tally (Yang)}} and {{RewardIconWithText|Tiger Tally (Yin)}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Demonic Guan Yu'' || 146028 || 132084 || 3354218 || Total AFFCT 124874 || HIT +62.5<br>Paralysis RES +62.5% || || || {{RewardIconWithText|B-Tads, +1660|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +8.1k|black}}
+|-
+| ''Poisoner Hua Tuo'' || 147975 || 134213 || 3470598 || Total AFFCT 125913 || HIT +62.6<br>Paralysis RES +62.6% || || || {{RewardIconWithText|B-Tads, +1670|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +8.2k|black}}
+|-
+| ''Madam Huang EX'' || 149807 || 136295 || 3609601 || Total AFFCT 126928 || HIT +62.7<br>Paralysis RES +62.7% || || || {{RewardIconWithText|B-Tads, +1680|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +8.3k|black}}
+|-
+| '''Divine Minister Cao Cao''' || 152880 || 139889 || 3896124 || CIV 25670 || HIT+90<br>Paralysis RES +90% || || || {{RewardIconWithText|Time Frag Card Green}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +250m|black}} (Domination)<hr>Unlocks [[Time_Beacon#Temporal_Drifters|Temporal Drifters]]:  [[Time_Beacon#Demonic_Guan_Yu|Demonic Guan Yu]], [[Time_Beacon#Poisoner_Hua_Tao|Poisoner Hua Tao]], and [[Time_Beacon#Madam_Huang_EX|Madam Huang EX]]
+|-
+|}
+
+==Karate Master==
+'''Area:'''  AD 1975 - Neo-York
+
+'''Drifter Components:''' {{RewardIconWithText|Mecha Component+}} and {{RewardIconWithText|Biochem Component+}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Sewer Turle No. 1'' || 151371 || 138140 || 3769172 || Total AFFCT 127982 || HIT+62.8<br>Paralysis RES +62.8% || || || {{RewardIconWithText|B-Tads, +1690|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +8.4k|black}}
+|-
+| ''Sewer Turle No. 2'' || 152363 || 139306 || 3849514 || Total AFFCT 128685 || HIT+62.8<br>Paralysis RES +62.8% || || || {{RewardIconWithText|B-Tads, +1700|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +8.5k|black}}
+|-
+| ''Sewer Turle No. 3'' || 153871 || 141056 || 3978137 || Total AFFCT 129744 || HIT+62.9<br>Paralysis RES +62.9% || || || {{RewardIconWithText|B-Tads, +1710|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +8.6k|black}}
+|-
+| ''Sewer Turle No. 4'' || 155689 || 143135 || 4159401 || Total AFFCT 130804 || HIT+63<br>Paralysis RES +63% || || || {{RewardIconWithText|B-Tads, +1720|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +8.7k|black}}
+|-
+| '''Karate Master''' || 158904 || 145046 || 4459464 || FTH 26387 || HIT+90<br>Paralysis RES +90% || || || {{RewardIconWithText|Time Frag Card Green}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +260m|black}} (Domination)
+|-
+|}
+
+==Ninja Amakusa==
+'''Area:'''  AD 1610 - Gyushu
+
+'''Drifter Components:''' {{RewardIconWithText|Ninjutsu Cert}} and {{RewardIconWithText|Sword Expert Cert}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Ninja Momochi'' || 156968 || 142881 || 4297123 || Total AFFCT 131507 || HIT+63<br>Paralysis RES +63% || || || {{RewardIconWithText|B-Tads, +1730|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +8.8k|black}}
+|-
+| ''Ninja Kaguya'' || 158301 || 144340 || 4398812 || Total AFFCT 132239 || HIT+63.1<br>Paralysis RES +63.1% || || || {{RewardIconWithText|B-Tads, +1740|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +8.9k|black}}
+|-
+| ''Ninja Sarutabi'' || 160182 || 146458 || 4585096 || Total AFFCT 133323 || HIT+63.1<br>Paralysis RES +63.1% || || || {{RewardIconWithText|B-Tads, +1750|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +9k|black}}
+|-
+| ''Ninja Kato'' || 162188 || 148625 || 4736200 || Total AFFCT 134447 || HIT+63.2<br>Paralysis RES +63.2% || || || {{RewardIconWithText|B-Tads, +1760|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +9.1k|black}}
+|-
+| '''Ninja Amakusa''' || 165102 || 151945 || 5038034 || ART 27146 || HIT +90<br>Paralysis RES +90% || || || {{RewardIconWithText|Time Frag Card Green}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +270m|black}} (Domination)
+|-
+|}
+
+==Holmes==
+'''Area:'''  AD 1899 - Cardeff
+
+'''Drifter Components:''' {{RewardIconWithText|NAV Medal}} and {{RewardIconWithText|Nautical Treasure}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Baskville Dog'' || 164,067 || 150,746 || 4,892,090 || Total AFFCT 135,576 || HIT +63.4<br>Paralysis RES +63.4% || || || {{RewardIconWithText|B-Tads, +1770}}<hr>{{RewardIconWithLink|Time Rift INTEL, +9.2k}}
+|-
+| ''Watson'' || 165,561 || 152,526 || 5,105,687 || Total AFFCT 136,719 || HIT +63.4<br>Paralysis RES +63.4% || || || {{RewardIconWithText|B-Tads, +1780}}<hr>{{RewardIconWithLink|Time Rift INTEL, +9.3k}}
+|-
+| ''Moriaty'' || 169,552 || 157,092 || 5,537,679 || Total AFFCT 139,412 || HIT +63.5<br>Paralysis RES +63.5% || || || {{RewardIconWithText|B-Tads, +1790}}<hr>{{RewardIconWithLink|Time Rift INTEL, +9.4k}}
+|-
+| '''Holmes''' || 170,882 || 158,559 || 5,667,026 || CIV 27,920 || HIT +90<br>Paralysis RES +90% || || || {{RewardIconWithText|Time Frag Card Green}}<hr>{{RewardIconWithText|Meal Box Size, +2k}}<hr>{{RewardIconWithText|Travel Speedup, +280m}} (Domination)
+|-
+|}
+
+==Magnetman==
+'''Area:'''  AD 2102 - Michigen
+
+'''Drifter Components:''' {{RewardIconWithText|Mecha Component+}} and {{RewardIconWithText|Biochem Component+}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Night Kitty'' || 170282 || 157851 || 5602713 || Total AFFCT 139808 || HIT +63.6<br>Paralysis RES +63.6% || || || {{RewardIconWithText|B-Tads, +1800|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +9.5k|black}}
+|-
+| ''Tridentman'' || 172867 || 160786 || 5820847 || Total AFFCT 141357 || HIT +63.7<br>Paralysis RES +63.7% || || || {{RewardIconWithText|B-Tads, +1810|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +9.6k|black}}
+|-
+| ''Mad Abe'' || 175528 || 161796 || 6185232 || Total AFFCT 142931 || HIT +63.8<br>Paralysis RES +63.8% || || || {{RewardIconWithText|B-Tads, +1820|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +9.7k|black}}
+|-
+| '''Magnetman''' || 177609 || 164018 || 6405991 || FTH 28717 || HIT +90<br>Paralysis RES +90% || || || {{RewardIconWithText|Time Frag Card Green}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +290m|black}} (Domination)
+|-
+|}
+
+==The Peatles==
+'''Area:'''  AD 1960 - Liverpond
+
+'''Drifter Components:''' {{RewardIconWithText|NAV Medal}} and {{RewardIconWithText|Nautical Treasure}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''The Bassist'' || 176258 || 162546 || 6275999 || Total AFFCT 143337 || HIT +63.8<br>Paralysis RES +63.8% || || || {{RewardIconWithText|B-Tads, +1830|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +9.8k|black}}
+|-
+| ''The Drummer'' || 178416 || 164905 || 6486586 || Total AFFCT 144545 || HIT +63.9<br>Paralysis RES +63.9% || || || {{RewardIconWithText|B-Tads, +1840|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +9.9k|black}}
+|-
+| ''The Guitarist'' || 179982 || 166618 || 6674668 || Total AFFCT 145357 || HIT +63.9<br>Paralysis RES +63.9% || || || {{RewardIconWithText|B-Tads, +1850|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +10k|black}}
+|-
+| ''The Keyboardist'' || 181670 || 168391 || 6814237 || Total AFFCT 146203 || HIT +64<br>Paralysis RES +64% || || || {{RewardIconWithText|B-Tads, +1860|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +10.1k|black}}
+|-
+|'''The Peatles''' || 185349 || 172381 || 7179639 || FAME 29556 || HIT +90<br>Paralysis RES +90% || || || {{RewardIconWithText|Time Frag Card Green}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +5h|black}} (Domination)<hr>[[Mailbox|Band Manager]]
+|-
+|}
+
+==Athena==
+'''Area:'''  526 BC - Virgo
+
+'''Drifter Components:''' {{RewardIconWithText|Demon Leather}} and {{RewardIconWithText|Color Thread}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|''Athena: Moody'' || 186080 || 173133 || 7318320 || AFFCT 148698 || HIT +64.1<br>Paralysis RES +64.1% ||  || || {{RewardIconWithText|B-Tads, +1880|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +10.3k|black}}
+|-
+|''Athena: Cute'' || 187409 || 174589 || 7461902 || AFFCT 149515 || HIT +64.2<br>Paralysis RES +64.2% ||  || || {{RewardIconWithText|B-Tads, +1890|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +10.4k|black}}
+|-
+|''Athena: Wicked''|| 189386 || 1768466 || 7707641 || AFFCT 150797 || HIT +64.2<br>Paralysis RES +64.2% ||  || || {{RewardIconWithText|B-Tads, +1900|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +10.5k|black}}
+|-
+|'''Athena'''|| 192154 || 177718 || 8173586 || ART 30417 || HIT +90<br>Paralysis RES +90% ||35.0M|| || {{RewardIconWithText|Time Frag Card Green}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +310m|black}} (Domination)
+|-
+|}
+
+==Robotic Amon==
+'''Area:'''  AD 2098 - Matruh
+
+'''Drifter Components:''' {{RewardIconWithText|Super Energy Stone}} and {{RewardIconWithText|Super Obsidian}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Stormtrooper'' || 191502 || 179105 || 8006934 || Total AFFCT 152104 || HIT+64.3<br>Paralysis RES +64.3% || || || {{RewardIconWithText|B-Tads, +1910|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +10.6k|black}}
+|-
+| ''Heavy Trooper'' || 192885 || 178462 || 8236738 || Total AFFCT 152975 || HIT+64.4<br>Paralysis RES +64.4% || || || {{RewardIconWithText|B-Tads, +1920|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +10.7k|black}}
+|-
+| ''Warhammer Mecha'' || 194211 || 179951 || 8435454 || Total AFFCT 153856 || HIT+64.4<br>Paralysis RES +64.4% || || || {{RewardIconWithText|B-Tads, +1930|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +10.8k|black}}
+|-
+| ''Siege Vehicle'' || 195595 || 181440 || 8591990 || Total AFFCT 154742 || HIT+64.5<br>Paralysis RES +64.5% || || || {{RewardIconWithText|B-Tads, +1940|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +10.9k|black}}
+|-
+| ''Funnel Cannon'' || 196247 || 182185 || 8755955 || Total AFFCT 155178 || HIT+64.5<br>Paralysis RES +64.5% || || || {{RewardIconWithText|B-Tads, +1950|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +11k|black}}
+|-
+|'''Robotic Amon'''|| 199161 || 185347 || 9095455 || TECH 31312 || HIT+90<br>Paralysis RES +90% || || || {{RewardIconWithText|Time Frag Card Green}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +320m|black}} (Domination)
+|-
+|}
+
+==Prince Shotoku==
+'''Area:'''  AD 592 - Nana
+
+'''Drifter Components:''' {{RewardIconWithText|Ninjutsu Cert}} and {{RewardIconWithText|Sword Expert Cert}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Suzo-Chan'' || 198359 || 184468 || 9026629 || 156514 AFFCT || HIT +64.4<br>Pralysis RES +64.4% || || || {{RewardIconWithText|B-Tads, +1960|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +11.1k|black}}
+|-
+| ''Ono-Chan'' || 203423 || 189801 || 9662234 || 159281 AFFCT || HIT +64.7<br>Pralysis RES +64.7% || || || {{RewardIconWithText|B-Tads, +1970|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +11.2k|black}}
+|-
+| '''Prince Shotoku''' || 207600 || 194258 || 10141373 || CIV 32246 || HIT +90<br>Pralysis RES +90% || || || {{RewardIconWithText|Time Frag Card Green}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +330m|black}} (Domination)
+|-
+|}
+
+==Merti Buddha Sanzang==
+'''Area:'''  AD 628 - Utar Pradesh
+
+'''Drifter Components:''' {{RewardIconWithText|Adv Taoist Pill}} and {{RewardIconWithText|Adv Herb Pill}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Sandy the Golden Arhat'' || 206858 || 193378 || 10025704 || Total AFFCT 161137 || HIT +64.9<br>Paralysis RES +64.9%  || || || {{RewardIconWithText|B-Tads, +1980|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +11.3k|black}}
+|-
+| ''Naga the Dragon Horse'' || 208485 || 195139 || 10329855 || Total AFFCT 162268 || HIT +64.9<br>Paralysis RES +64.9%  || || || {{RewardIconWithText|B-Tads, +1990|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +11.4k|black}}
+|-
+| ''Piggy the Altar Cleaner'' || 210192 || 196918 || 10514610 || Total AFFCT 162999 || HIT +65<br>Paralysis RES +65%  || || || {{RewardIconWithText|B-Tads, +2000|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +11.5k|black}}
+|-
+| ''Monke the War Buddha'' || 213610 || 198284 || 11119442 || Total AFFCT 165419 || HIT +65.1<br>Paralysis RES +65.1%  || || || {{RewardIconWithText|B-Tads, +2010|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +11.6k|black}}
+|-
+|'''Merti Buddha Sanzang'''|| 215102 || 199845 || 11452302 || FTH 33219 || HIT +90<br>Paralysis RES +90%  || || || {{RewardIconWithText|Time Frag Card Blue}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +380m|black}} (Domination)<hr>Unlocks Temporal Drifters: [[Time_Beacon#Naga_the_Dragon_Horse|Naga the Dragon Horse]] and [[Time_Beacon#Sanzang_the_Merti_Buddha|Sanzang the Merti Buddha]]
+|-
+|}
+
+==Peacekeeper==
+'''Area:'''  AD 1769 - Plymous
+
+'''Drifter Components:''' {{RewardIconWithText|NAV Medal}} and {{RewardIconWithText|Nautical Treasure}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Peacekeeper'' (1) || 214401 || 199070 || 11318286 || AFFCT 165929 || HIT +65.1<br>Paralysis RES +65.1% || || || {{RewardIconWithText|B-Tads, +2020|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +11.7k|black}}
+|-
+| ''Peacekeeper'' (2) || 216124 || 200716 || 11539386 || AFFCT 166894 || HIT +65.2<br>Paralysis RES +65.2% || || || {{RewardIconWithText|B-Tads, +2030|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +11.8k|black}}
+|-
+| ''Peacekeeper'' (3) || 218206 || 202515 || 11813780 || AFFCT 167894 || HIT +65.2<br>Paralysis RES +65.2% || || || {{RewardIconWithText|B-Tads, +2040|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +11.9k|black}}
+|-
+| '''Peacekeeper''' || 225552 || 208783 || 12724320 || TECH 34229 || HIT +90<br>Paralysis RES +90% || || || {{RewardIconWithText|Time Frag Card Blue}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +350m|black}} (Domination)<hr>Unlocks the [[Time_Beacon#Peacekeeper|Temporal Drifter: Peacekeeper]].
+|-
+|}
+
+==Santorini==
+'''Area:'''  AD 1998 - Aquarius
+
+'''Drifter Components:''' {{RewardIconWithText|Demon Leather}} and {{RewardIconWithText|Color Thread}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Groom'' || 224534 || 207912 || 12644215 || AFFCT 170919 || HIT +65.4<br>Paralysis RES +65.4% || || || {{RewardIconWithText|B-Tads, +2060|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +12.1k|black}}
+|-
+| ''Bride'' || 226725 || 209712 || 12864104 || AFFCT 171933 || HIT +65.4<br>Paralysis RES +65.4% || || || {{RewardIconWithText|B-Tads, +2070|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +12.2k|black}}
+|-
+| ''Priest'' || 228872 || 211512 || 13093362 || AFFCT 172953 || HIT +65.5<br>Paralysis RES +65.5% || || || {{RewardIconWithText|B-Tads, +2080|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +12.3k|black}}
+|-
+| ''Photographer'' || 231094 || 213312 || 13462281 || AFFCT 173997 || HIT +65.6<br>Paralysis RES +65.6% || || || {{RewardIconWithText|B-Tads, +2090|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +12.4k|black}}
+|-
+|'''Santorini'''|| 236651 || 215187 || 14209324 || FTH 35290 || HIT+90<br>Paralysis RES +90% || || || {{RewardIconWithText|Time Frag Card Blue}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +6h|black}} (Domination)
+|-
+|}
+
+==Leader Song==
+'''Area:'''  AD 1120 - Jizhou
+
+'''Drifter Components:''' {{RewardIconWithText|Tiger Tally (Yang)}} and {{RewardIconWithText|Tiger Tally (Yin)}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Li Kui'' || 235508 || 216915 || 13975800 || 176116 AFFCT || HIT +65.7<br>Paralysis RES +65.7% || || || {{RewardIconWithText|B-Tads, +2100|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +12.5k|black}}
+|-
+| ''Hua Rong'' || 236651 || 215187 || 14209324 || 176661 AFFCT || HIT +65.7<br>Paralysis RES +65.7% || || || {{RewardIconWithText|B-Tads, +2110|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +12.6k|black}}
+|-
+| ''Chai Jin'' || 237703 || 216050 || 14457328 || 177180 AFFCT || HIT +65.7<br>Paralysis RES +65.7% || || || {{RewardIconWithText|B-Tads, +2120|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +12.7k|black}}
+|-
+| ''Wu Song'' || 238910 || 216967 || 14624129 || 177740 AFFCT || HIT +65.7<br>Paralysis RES +65.7% || || || {{RewardIconWithText|B-Tads, +2130|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +12.8k|black}}
+|-
+| ''Wu Yong'' || 239968 || 217885 || 14738745 || 178294 AFFCT || HIT +65.8<br>Paralysis RES +65.8% || || || {{RewardIconWithText|B-Tads, +2140|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +12.9k|black}}
+|-
+| ''Lu Junyi'' || 242241 || 219666 || 15065170 || 179363 AFFCT || HIT +65.8<br>Paralysis RES +65.8% || || || {{RewardIconWithText|B-Tads, +2150|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +13k|black}}
+|-
+| '''Leader Song''' || 248333 || 224519 || 15893230 || 36398 FAME || HIT +90<br>Paralysis RES +90% || || || {{RewardIconWithText|Time Frag Card Blue}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +370m|black}} (Domination)
+|-
+|}
+
+==Millennium Bug==
+'''Area:'''  AD 2000 - Taxas
+
+'''Drifter Components:''' {{RewardIconWithText|Mecha Component+}} and {{RewardIconWithText|Biochem Component+}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|''Year Bug''|| 247086 || 223526 || 15722735 || AFFCT 181571 || HIT +65.9<br>Paralysis RES +65.9% ||  || || {{RewardIconWithText|B-Tads, +2160|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +13.1k|black}}
+|-
+|''Decade Bug''|| 251013 || 226636 || 16150625 || AFFCT 183249 || HIT +66<br>Paralysis RES +66% ||  || || {{RewardIconWithText|B-Tads, +2170|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +13.2k|black}}
+|-
+|''Century Bug''|| 254713 || 229617 || 1678394 || AFFCT 184942 || HIT +66.1<br>Paralysis RES +66.1% ||  || || {{RewardIconWithText|B-Tads, +2180|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +13.3k|black}}
+|-
+|'''Millennium Bug'''|| 260531 || 234158 || 17589637 || CIV 37554 || HIT +90<br>Paralysis RES +90% || || || {{RewardIconWithText|Time Frag Card Blue}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithGearlink|orange|Realm|Millennium Ring}}<hr>{{RewardIconWithText|Travel Speedup, +380m|black}} (Domination)
+|-
+|}
+
+==Swordsman Isami==
+'''Area:'''  AD 1860 - Chupu
+
+'''Drifter Components:''' {{RewardIconWithText|Ninjutsu Cert}} and {{RewardIconWithText|Sword Expert Cert}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+| ''Samuari Saito'' || 259447 || 233239 || 17397366 || 187273 AFFCT || HIT +66.2<br>Paralysis RES +66.2% || || || {{RewardIconWithText|B-Tads, +2190|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +13.4k|black}}
+|-
+| ''Samuari Okita'' || 261775 || 235077 || 17778393 || 188461 AFFCT || HIT +66.3<br>Paralysis RES +66.3% || || || {{RewardIconWithText|B-Tads, +2200|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +13.5k|black}}
+|-
+| ''Toshizo HIjikata'' || 264110 || 236917 || 18197144 || 189674 AFFCT || HIT +66.3<br>Paralysis RES +66.3% || || || {{RewardIconWithText|B-Tads, +2210|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +13.6k|black}}
+|-
+| '''Swordsman Isami''' || || || || || || || || 
+|-
+|}
+
+==Kim Chi-yum==
+'''Area:'''  AD 2018 - Chungnam
+
+'''Drifter Components:''' {{RewardIconWithText|Hitman Cert}} and {{RewardIconWithText|Apostle Cert}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|''Kim Chi-cup''|| 271375 || 239591 || 19345264 || 193337 AFFCT || HIT +66.5<br>Paralysis RES +66.5% || || || {{RewardIconWithText|B-Tads, +2230|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +13.8k|black}}
+|-
+|''Kim Chi-pot''|| 274047 || 241686 || 19901020 || 194624 AFFCT || HIT +66.5<br>Paralysis RES +66.5% || || || {{RewardIconWithText|B-Tads, +2240|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +13.9k|black}}
+|-
+|''Kim Chi-bowl''|| 275466 || 242732 || 20046298 || 195268 AFFCT || HIT +66.6<br>Paralysis RES +66.6% || || || {{RewardIconWithText|B-Tads, +2250|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +14k|black}}
+|-
+|''Kim Chi-jar''|| 276787 || 243780 || 20249104 || 195911 AFFCT || HIT +66.6<br>Paralysis RES +66.6% || || || {{RewardIconWithText|B-Tads, +2260|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +14.1k|black}}
+|-
+|''Kim Chi-safe''|| 278145 || 244828 || 20476553 || 196555 AFFCT || HIT +66.6<br>Paralysis RES +66.6% || || || {{RewardIconWithText|B-Tads, +2270|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +14.2k|black}}
+|-
+|''Kim Chi-container''|| 279467 || 245874 || 20611318 || 197208 AFFCT || HIT +66.7<br>Paralysis RES +66.7% || || || {{RewardIconWithText|B-Tads, +2280|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +14.3k|black}}
+|-
+|'''Kim Chi-yum'''|| 286270 || 251112 || 21797053 || 40100 ART || HIT +90<br>Paralysis RES +90% || || || {{RewardIconWithText|Time Frag Card Blue}}<hr>{{RewardIconWithText|Meal Box Size, +2000|black}}<hr>{{RewardIconWithText|Travel Speedup, +400m |black}} (Domination)
+|-
+|}
+
+==King Zhou==
+'''Area:'''  1130 BC - Xuchang
+
+'''Drifter Components:''' {{RewardIconWithText|Tiger Tally (Yang)}} and {{RewardIconWithText|Tiger Tally (Yin)}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|'''King Zhou'''|| 300,036 || 258,388 || 24,285,438 || 41,415 FAME || HIT +90<br>Paralysis RES +90% || || || 
+|-
+|}
+
+==Doomsday Pharaoh==
+'''Area:'''  1340 BC - Gisa
+
+'''Drifter Components:''' {{RewardIconWithText|Super Energy Stone}} and {{RewardIconWithText|Super Obsidian}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|'''Doomsday Pharaoh'''|| 314,814 || 269,691 || 26,940,667 || 42,750 FTH || HIT +90<br>Paralysis RES +90% || || || 
+|-
+|}
+
+==Lord Xiang==
+'''Area:'''  202 BC - Yangzhou
+
+'''Drifter Components:''' {{RewardIconWithText|Tiger Tally (Yang)}} and {{RewardIconWithText|Tiger Tally (Yin)}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|''Lady Yu''|| 313,380 || 268,519 || 23,673,698 || 212,934 AFFCT || HIT +67.3<br>Paralysis RES +67.3% || || || {{RewardIconWithText|B-Tads, +2380|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +15.3k|black}}
+|-
+|''Strategist Zhang''|| 316,375 || 270,819 || 27,209,476 || 214,236 AFFCT || HIT +67.4<br>Paralysis RES +67.4% || || || {{RewardIconWithText|B-Tads, +2390|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +15.4k|black}}
+|-
+|''Han Xin''|| 319,185 || 272,954 || 27,667,004 || 215,568 AFFCT || HIT +67.5<br>Paralysis RES +67.5% || || || {{RewardIconWithText|B-Tads, +2400|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +15.5k|black}}
+|-
+|''Liu Bang''|| 322,001 || 275,091 || 28,408,820 || 216,899 AFFCT || HIT +67.5<br>Paralysis RES +67.5% || || || {{RewardIconWithText|B-Tads, +2410|black}}<hr>{{RewardIconWithText|Time Rift INTEL, +15.6k|black}}
+|-
+|'''Lord Xiang Yu'''|| 329,485 || 280,729 || 29,627,535 || 44,084 FAME || HIT +90<br>Paralysis RES +90% || || || 
+|-
+|}
+
+==Dragon Jr.==
+'''Area:'''  AD 2100 - Mahya Pradesh
+
+'''Drifter Components:''' {{RewardIconWithText|Adv Taoist Pill}} and {{RewardIconWithText|Adv Herb Pill}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Dragon Jr.|| || || || || || || || 
+|-
+|}
+
+==King Sejong==
+'''Area:'''  AD 1433 - Northern Seaul
+
+'''Drifter Components:''' {{RewardIconWithText|Hitman Cert}} and {{RewardIconWithText|Apostle Cert}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|King Sejong||360,226||300,103||36,480,270||FTH 44,279||HIT +90<br>Paralysis RES +90%|| || ||{{RewardIconWithText|Time Frag Card Purple}}<br>{{RewardIconWithText|Meal Box Size, +2000}}<br>{{RewardIconWithText|Travel Speedup, +450m}} (Domination)
+|-
+|}
+
+==Spartan War God==
+'''Area:'''  657 BC - Sagittarius
+
+'''Drifter Components:''' {{RewardIconWithText|Demon Leather}} and {{RewardIconWithText|Color Thread}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Spartan War God||376,496||308,202||40,728,258||CIV 25686||HIT +90<br>Paralysis RES +90%|| || ||{{RewardIconWithText|Time Frag Card Purple}}<br>{{RewardIconWithText|Meal Box Size, +2000}}<br>{{RewardIconWithText|Travel Speedup, +460m}} (Domination)
+|-
+|}
+
+==Flying Man ==
+'''Area:'''  AD 1996 - Washingtone DC
+
+'''Drifter Components:''' {{RewardIconWithText|Mecha Component+}} and {{RewardIconWithText|Biochem Component+}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Flying Man||393,812||320,968||44,676,899||TECH 46,978||HIT +90<br>Paralysis RES +90%|| || ||{{RewardIconWithText|Time Frag Card Purple}}<br>{{RewardIconWithText|Meal Box Size, +2000}}<br>{{RewardIconWithText|Travel Speedup, +470m}} (Domination)
+|-
+|}
+
+==Alexander==
+'''Area:'''  73 BC - Leo
+
+'''Drifter Components:''' {{RewardIconWithText|Demon Leather}} and {{RewardIconWithText|Color Thread}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Alexander||411,240||329,477||49,913,230||FAME 48278||HIT +90<br>Paralysis RES +90%|| || ||{{RewardIconWithText|Time Frag Card Orange}}<br>{{RewardIconWithText|Meal Box Size, +2000}}<br>{{RewardIconWithText|Travel Speedup, +8h}} (Domination)
+|-
+|}
+
+==Confucius==
+'''Area:'''  482 BC - North Jingzhou
+
+'''Drifter Components:''' {{RewardIconWithText|Tiger Tally (Yang)}} and {{RewardIconWithText|Tiger Tally (Yin)}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Confucius||428,797||342,797||54,665,949||CIV 49575||HIT +90<br>Paralysis RES +90%|| || ||{{RewardIconWithText|Time Frag Card Orange}}<br>{{RewardIconWithText|Meal Box Size, +2000}}<br>{{RewardIconWithText|Travel Speedup, +490m}} (Domination)
+|-
+|}
+
+==Dromedary==
+'''Area:'''  AD 1462 - New Valley
+
+'''Drifter Components:''' {{RewardIconWithText|Super Energy Stone}} and {{RewardIconWithText|Super Obsidian}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Dromedary||447,200||350,799||60,878,431||ART 50,902||HIT +90<br>Paralysis RES +90%|| || ||{{RewardIconWithText|Time Frag Card Orange}}<br>{{RewardIconWithText|Meal Box Size, +2000}}<br>{{RewardIconWithText|Travel Speedup, +500m}} (Domination)
+|-
+|}
+
+==Ultimate Weapon No. 1105==
+'''Area:'''  AD 2105 - Delri
+
+'''Drifter Components:''' {{RewardIconWithText|Adv Taoist Pill}} and {{RewardIconWithText|Adv Herb Pill}}
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Ultimate Weapon No. 1105||466,821||364,913||66,512,740||TECH 52,178||HIT +90<br>Paralysis RES +90%|| || ||{{RewardIconWithText|Time Frag Card Orange}}<br>{{RewardIconWithText|Meal Box Size, +2000}}<br>{{RewardIconWithText|Travel Speedup, +510m}} (Domination) 
+|-
+|}
+
+==Tagore==
+'''Area:'''  AD 1913
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Tagore||481,527||373,323||70,439,750||CIV 52,015||HIT +70<br>Paralysis RES +70%|| || ||{{RewardIconWithText|Time Frag 4.6b BC}}<br>{{RewardIconWithText|Meal Box Size, +2000}}<br>{{RewardIconWithText|Travel Speedup, +520m}} (Domination) 
+|-
+|}
+
+==Ultimate Lu Bu==
+'''Area:'''  AD 199
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Ultimate Lu Bu||494,548||379,719||74,410,376||FAME 52,563||HIT +70<br>Paralysis RES +70%|| || ||{{RewardIconWithText|Time Frag 4.6b BC}}<br>{{RewardIconWithText|Meal Box Size, +2000}}<br>{{RewardIconWithText|Travel Speedup, +530m}} (Domination) 
+|-
+|}
+
+==Mom==
+'''Area:'''  AD 1970
+
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Mom||508,882||386,829||78,563,945||CIV 53,175||HIT +70<br>Paralysis RES +70%|| || ||{{RewardIconWithText|Time Frag 4.6b BC}}<br>{{RewardIconWithText|Meal Box Size, +2000}}<br>{{RewardIconWithText|Travel Speedup, +9h}} (Domination) 
+|-
+|}
+
+[[Category:Time Rift]]

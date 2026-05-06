@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20977_1
+|class_id=20977
+|rank=Green
+|affct=FAME
+|source=
+|description=collection@20977_2
+|fame=31
+|art=17
+|fth=16
+|civ=15
+|tech=11
+|ss1=Snail HP +100<br>Per 5 Cathay INTEL LVLs, Snail RUSH +1<br>LVL of Cathay INTEL: 100/100
+|ss2=Snail HP +200<br>Per 5 Cathay INTEL LVLs, Snail RUSH +2<br>LVL of Cathay INTEL: 100/100
+|ss3=Snail HP +300<br>Per 5 Cathay INTEL LVLs, Snail RUSH +3<br>LVL of Cathay INTEL: 100/100
+|ss4=Snail HP +300<br>Per 5 Cathay INTEL LVLs, Snail RUSH +3<br>LVL of Cathay INTEL: 100/100
+|ss7=Snail HP +300<br>Per 5 Cathay INTEL LVLs, Snail RUSH +3<br>LVL of Cathay INTEL: 100/100<br> (Awakened)
+}}

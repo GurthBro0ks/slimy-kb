@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Divergence Meter
+|rank=Blue
+|affct=TECH
+|birthday=03-27
+|source=Lottery Machine (0.36%), Wishing (13.2%), Time Chest (2%), Novice Scrolls (5%)
+|description=On Mar 27, 2035, Dr. James developed this device that can tell the world line you are in.
+
+The Divergence Meter can display the changes of the world lines. Most people lost their memories created in the previous world line whenever there is a chance. But with this detector, the location of the world lines can be recorded. Typically, world lines will change only when somebody travels through time.
+
+[Parts of the Meter]
+
+Host: Divergence Meter. Remote Control: Infrared. USB: 2A High current. Cable: LG micro USB. Charging cable: USB-DC
+|fame=23
+|art=24
+|fth=28
+|civ=33
+|tech=46
+|ss1=In explorations, B-tads gained +0.4%
+|ss2=In explorations, B-tads gained +0.8%
+|ss3=In explorations, B-tads gained +1.2%
+|ss4=In explorations, B-tads gained +2%
+|ss7=In explorations, B-tads gained +2%<br>In explorations, B-tads gained +2% (Awakened)
+|skill1=[[File:Timemachine skill I.png|50px]]Place in Time Machine: Time Machine Max Cap +5%
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:TECH Relics]]
+[[Category:Blue TECH Relics]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Time Machine Skill]]
+[[Category:Time Machine Output Boost]]
+[[Category:Relics]]
+[[Category:RUSH Boost]]
+[[Category:Offering Speed Boost]]
+[[Category:Mechanic Boost]]
+[[Category:NeuroMecha Minion Boost]]

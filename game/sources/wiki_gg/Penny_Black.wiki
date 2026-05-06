@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Penny Black
+|rank=Blue
+|affct=CIV
+|birthday=07-09
+|source=Lottery Machine (0.03%), Wishing (0.82%)
+|description=On Jul 9, 1839, Sir Rowland Hill designed the world's first stamp. 
+
+The Penny Black features a design that was submitted to the English Parliament for postage stamps, and uses the profile of Queen Victoria when she ascended the throne as the image. It was then engraved by the Heath brothers and printed by Perkins Bacon. After the stamps were printed, other varieties such as the Penny Blue were also issues. The Penny Black has greatly developed the postage services and marked the era of modern postal service in the world.
+
+[Basic Info]
+
+Material: Postal stamp paper. Specification: 19x19.75 mm. Printing sheet: 12 pieces/row, 20 rows/sheet.
+|fame=23
+|art=28
+|fth=28
+|civ=47
+|tech=28
+|ss1=In explorations, 2x Blue Card Drops +0.4%
+|ss2=In explorations, 2x Blue Card Drops +0.8%
+|ss3=In explorations, 2x Blue Card Drops +1.2%
+|ss4=In explorations, 2x Blue Card Drops +2%
+|ss7=In explorations, 2x Blue Card Drops +2%<br>In explorations, 2x Blue Card Drops +2% (Awakened)
+|skill1=[[File:Britland skill I.png|50px]] Place in Britland Museum: In Britland, Snail RUSH +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:CIV Relics]]
+[[Category:Blue CIV Relics]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by Lottery Draws]]

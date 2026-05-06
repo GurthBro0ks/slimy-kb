@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Bell's Telephone
+|rank=AAA
+|affct=TECH
+|birthday=10-03
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishes (0.14%), Relic Forge (80 Relic RF)
+|description=On Oct 3, 1875, Bell invented the first telephone.
+
+In order to make a telephone, Bell and his assistants conducted many different experiments. There was once when Bell and Watson were communicating by pressing the receiver tightly to their ears with them in two closed rooms. Suddenly, he heard a sound as weak as a mosquito buzz from the receiver, "Mr. Watson, help!" Watson was overjoyed and shouted loudly, "I heard you! Loud and clear!" He rushed out and ran to Bell's room. They hugged and celebrated the birth of the world's first telephone.
+|fame=52
+|art=35
+|fth=39
+|civ=46
+|tech=71
+|ss1=The Time Machine has a +6% chance to generate Time Chests<br>Time Machine upgraded B-tad Cost -3%
+|ss2=The Time Machine has a +8% chance to generate Time Chests<br>Time Machine upgraded B-tad Cost -4%
+|ss3=The Time Machine has a +10% chance to generate Time Chests<br>Time Machine upgraded B-tad Cost -5%
+|ss4=The Time Machine has a +14% chance to generate Time Chests<br>Time Machine upgraded B-tad Cost -7%
+|ss5=The Time Machine has a +18% chance to generate Time Chests<br>Time Machine upgraded B-tad Cost -9%
+|ss7=The Time Machine has a +18% chance to generate Time Chests<br>Time Machine upgraded B-tad Cost -9%<br>The Time Machine has a +14% chance to generate Time Chests (Awakened)
+|skill1=[[File:Timemachine skill II.png|50px]] Place in Time Machine: Generate Time Chests by +15%
+|skill2=[[File:Timemachine skill II.png|50px]] Place in Time Machine: This Relic's TECH +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:TECH Relics]]
+[[Category:Purple TECH Relics]]
+[[Category:Time Machine Boost]]
+[[Category:Time Machine Upgrade Cost Reduction]]
+[[Category:Time Machine Skill]]
+[[Category:TECH Boost]]
+[[Category:RUSH Boost]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Power]]
+[[Category:Keyboard Warrior Boost]]

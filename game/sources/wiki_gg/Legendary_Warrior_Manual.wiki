@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Legendary Warrior Manual
+|class_id=20543
+|rank=Green
+|affct=CIV
+|source=
+|description=This training manual is issued by the legendary time traveler, Eve Ironhammer. The book systematically covers various combat skills that soldiers should possess in the context of Species War, including survival, counter-surveillance, stealth, concealment, first aid, anti-armor tactics, intelligence gathering, and more. By fully mastering the 360 combat skills described in the book, one can be hailed as a legendary warrior.
+|fame=14
+|art=13
+|fth=17
+|civ=32
+|tech=14
+|ss1=Per 10 Minions in battle:<br>> Troop HP +10<br>Against heroes in Species War: Individual unit will not be seriously injured
+|ss2=Per 10 Minions in battle:<br>> Troop HP +20<br>Against heroes in Species War: Individual unit will not be seriously injured
+|ss3=Per 10 Minions in battle:<br>> Troop HP +30<br>Against heroes in Species War: Individual unit will not be seriously injured
+|ss4=Per 10 Minions in battle:<br>> Troop HP +30<br>Against heroes in Species War: Individual unit will not be seriously injured
+|ss7=Per 10 Minions in battle:<br>> Troop HP +30<br>Against heroes in Species War: Individual unit will not be seriously injured<br> (Awakened)
+}}

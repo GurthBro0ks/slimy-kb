@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Sunday Star
+|class_id=20928
+|rank=Green
+|affct=FAME
+|source=
+|description=Fortune Law 1: Sunday marks the beginning of the week. As long as you maintain a smile, the deity of fortune will favor you!
+|fame=31
+|art=16
+|fth=14
+|civ=16
+|tech=13
+|ss1=Per 10 Lucky Star, Snail HP +10<br>Lucky Star Gained: 800/800
+|ss2=Per 10 Lucky Star, Snail HP +20<br>Lucky Star Gained: 800/800
+|ss3=Per 10 Lucky Star, Snail HP +30<br>Lucky Star Gained: 800/800
+|ss4=Per 10 Lucky Star, Snail HP +30<br>Lucky Star Gained: 800/800
+|ss7=Per 10 Lucky Star, Snail HP +30<br>Lucky Star Gained: 800/800<br> (Awakened)
+}}

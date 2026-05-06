@@ -1,0 +1,16 @@
+{{CargoOrgan
+|name=Multipolar Dendrite
+|type=Common
+|rank=green
+|id=10806
+|idx=6
+|description=When the brain reaches the limits of cognition, it begins to grow multipolar dendrites to process the overload of information—this is the moment when true intelligence ascends…
+|skill=
+|hp=450
+|def=76
+|atk=35
+|rush=51
+|gene1=In explorations, {race} DEF +20
+|gene2=In explorations, Dodge +5%
+|gene7=Wind DMG +90 (Awakened)
+|}}

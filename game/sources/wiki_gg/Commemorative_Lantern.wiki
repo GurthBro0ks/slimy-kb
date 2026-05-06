@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Commemorative Lantern
+|class_id=20623
+|rank=Green
+|affct=ART
+|source=
+|description=Custom-made lanterns by the event organizer. Although their shapes might seem typical, they undergo meticulous processing, resulting in not only sturdiness but also an enhanced aesthetic quality. These lanterns hold significant collectible value.
+|fame=14
+|art=33
+|fth=13
+|civ=14
+|tech=16
+|ss1=Free Gene Speedup (Demon) +6m<br>Per 5 Tadpole Pond LVLs, Snail HP +5<br>Tadpole Pond LVL: 50/50
+|ss2=Free Gene Speedup (Demon) +12m<br>Per 5 Tadpole Pond LVLs, Snail HP +10<br>Tadpole Pond LVL: 50/50
+|ss3=Free Gene Speedup (Demon) +18m<br>Per 5 Tadpole Pond LVLs, Snail HP +15<br>Tadpole Pond LVL: 50/50
+|ss4=Free Gene Speedup (Demon) +18m<br>Per 5 Tadpole Pond LVLs, Snail HP +15<br>Tadpole Pond LVL: 50/50
+|ss7=Free Gene Speedup (Demon) +18m<br>Per 5 Tadpole Pond LVLs, Snail HP +15<br>Tadpole Pond LVL: 50/50<br> (Awakened)
+}}

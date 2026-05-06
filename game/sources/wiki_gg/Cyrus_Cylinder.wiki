@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Cyrus Cylinder
+|class_id=22311
+|rank=SSS
+|affct=CIV
+|birthday=01-05
+|source=Lottery Machine No.2 (0.11%)
+|description=On Jan 5, 539 BC, Cyrus ordered his conquest of Babylon to be engraved on this cylinder.<br>Cyrus Cylinder is a clay cylinder in the name of Persia's Achaemenid king Cyrus the Great engraved with a declaration in Akkadian cuneiform script. The text on the Cylinder is the story of Cyrus the Great conquering Babylon during the 6th century B.C.. It extols Cyrus as a benefactor of the citizens of Babylonia who improved their lives, repatriated displaced people, and restored temples, and cult sanctuaries across Mesopotamia and elsewhere in the region. His feats are also recorded in the Bible.
+|fame=70
+|art=71
+|fth=58
+|civ=107
+|tech=56
+|ss1=Snail Leadership +3<br>Per 60 Dragon Minions in battle:<br>> Troop HP +270<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +27
+|ss2=Snail Leadership +4<br>Per 60 Dragon Minions in battle:<br>> Troop HP +360<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +36
+|ss3=Snail Leadership +5<br>Per 60 Dragon Minions in battle:<br>> Troop HP +450<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +45
+|ss4=Snail Leadership +7<br>Per 60 Dragon Minions in battle:<br>> Troop HP +630<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +63
+|ss5=Snail Leadership +9<br>Per 60 Dragon Minions in battle:<br>> Troop HP +810<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +81
+|ss6=Snail Leadership +12<br>Per 60 Dragon Minions in battle:<br>> Troop HP +1080<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +108
+|ss7=Snail Leadership +12<br>Per 60 Dragon Minions in battle:<br>> Troop HP +1080<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +108<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: This Relic's CIV +15
+|skill2=[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: Fungus Output +30%
+|skill3=[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: Max Cap +30%
+|mirage={{Mirage|name=Journey of the King|reward={{RewardIconWithLink|Travel Speedup, +28800|orange}}
+|3name=Median King|3rec=28.11M|3atk=125079|3defense=83445|3hp=4469196|3weak=18757
+|4name=Lydian King|4rec=38.95M|4atk=147945|4defense=98700|4hp=6112085|4weak=19842
+|5name=Babylonian King|5rec=51.17M|5atk=173716|5defense=115893|5hp=8165080|5weak=21967
+|6name=Massagetean Queen|6rec=64.99M|6atk=202848|6defense=135328|6hp=10744816|6weak=26138
+|Arec=80.08M|Aatk=234678|Adefense=156563|Ahp=13898020|Aweak=30909
+}}}}

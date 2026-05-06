@@ -1,0 +1,340 @@
+== Taoist Yu Ji ♂ ==
+The immortality of his spirit helped him get away from Sun Ce the Demon Taoist!
+
+=== Begin Friendship ===
+To obtain Taoist Yu Ji, upgrade Taoist Yu Ji to T9 in [[Cathay Generals]].
+
+===☆☆☆ > ★☆☆===
+After 14 letters back and forth, Yu Ji will arrive at [[Home Base]] and gift Cathay Treasure Map +50.
+
+=== ★☆☆ > ★★★ ===
+After 10 letters back and forth, Yu Ji will move in permanently with his minion, Drawn Dragon.
+
+== Rent ==
+[[File:Taoist Yu Ji rent.png|frameless|left]]
+
+Taoist Yu Ji rent is collected on '''Tuesday''' and found in the Alchemy Pot in his room.
+
+ '''Normal Rent''': {{RewardIconWithLink|Taichi Fish, +10}}
+
+ '''Rare Rent''': {{RewardIconWithLink|Incense, +1|orange}}
+
+ '''1-time Rent''': {{RewardIconWithLink|Advance Elixir|green}}
+
+{{Clear}}
+
+== Relics ==
+Upgrading these will earn Alchemy Cases!
+
+{| class="mw-collapsible wikitable"  
+! rowspan="2" |Relic Tier
+! colspan="3" |Reward
+|-
+!Blue Relics
+!Purple Relics
+!Orange Relics
+|-
+|★ 
+|Novice Alchemy Case +2
+|Expert Alchemy Case +2
+|Master Alchemy Case +2
+|-
+|★★
+|Novice Alchemy Case +2
+|Expert Alchemy Case +2
+|Master Alchemy Case +2
+|-
+|★★★
+|Novice Alchemy Case +2
+|Expert Alchemy Case +2
+|Master Alchemy Case +2
+|-
+|★★★★
+|Novice Alchemy Case +4
+|Expert Alchemy Case +4
+|Master Alchemy Case +4
+|-
+|★★★★★
+|
+|Expert Alchemy Case +6
+|Master Alchemy Case +6
+|-
+|★★★★★★
+|
+|
+|Master Alchemy Case +8
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Melcades' Prophecy}}{{Relink|Melcades' Prophecy}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Haradric Cube}}{{Relink|Haradric Cube}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Deity Quetzalcoatl}}{{Relink|Deity Quetzalcoatl}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Sorron's Eye}}{{Relink|Sorron's Eye}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Time-Travel Box}}{{Relink|Time-Travel Box}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Aladdin's Lamp}}{{Relink|Aladdin's Lamp}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Ark of Covenant}}{{Relink|Ark of Covenant}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Unispark}}{{Relink|Unispark}}
+|}
+
+==Taoist Yu Ji's Amulet==
+Spirit of sky and spirit of earth, in the name of Daode Tianzun! Spirits in all directions, heed my call!
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||FTH +5||Quarry Output +1%
+|-
+|2||180||2k||FTH +10||Quarry Output +2%
+|-
+|3||190||4.5k||FTH +15||Quarry Output +3% 
+|-
+|4||200||8k||FTH +20||Quarry Output +4%
+|-
+|5||210||12.5k||FTH +25||Quarry Output +5%
+|-
+|6||220||18k||FTH +30||Quarry Output +6%
+|-
+|7||230||24.5k||FTH +35||Quarry Output +7%
+|-
+|8||240||32k||FTH +40||Quarry Output +8%
+|-
+|9||250||40.5k||FTH +45||Quarry Output +9%
+|-
+|10||260||50k||FTH +50||Quarry Output +10%
+|-
+|11||270||60.5k||FTH +55||Quarry Output +11%
+|-
+|12||285||72k||FTH +60||Quarry Output +12%
+|-
+|13||300||84.5k||FTH +65||Quarry Output +13%
+|-
+|14||315||98k||FTH +70||Quarry Output +14%
+|-
+|15||330||112k||FTH +75||Quarry Output +15%
+|-
+|16||345||123k||FTH +80||Quarry Output +16%
+|-
+|17||360||144k||FTH +85||Quarry Output +17%
+|-
+|18||375||162k||FTH +90||Quarry Output +18%
+|-
+|19||390||180k||FTH +95||Quarry Output +19%
+|-
+|20||400||200k||FTH +100||Quarry Output +20% 
+|-
+|21||420||220k||FTH +105||Quarry Output +21%
+|-
+|22||440||242k||FTH +110||Quarry Output +22%
+|-
+|23||460||264k||FTH +115||Quarry Output +23%
+|-
+|24||480||285k||FTH +120||Quarry Output +24%
+|-
+|25||500||309k||FTH +125||Quarry Output +25%
+|-
+|26||520||333k||FTH +130||Quarry Output +26%
+|-
+|27||540||357k||FTH +135||Quarry Output +27%
+|-
+|28||560||381k||FTH +140||Quarry Output +28%
+|-
+|29||580||405k||FTH +145||Quarry Output +29%
+|-
+|30||600||429k||FTH +150||Quarry Output +30%
+|}
+
+==Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Taoisit Yu Ji's Amulet is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +10
+|-
+|2||4k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +20 
+|-
+|3||6k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +30
+|-
+|4||8k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +40
+|-
+|5||10k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +50
+|-
+|6||12k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +60
+|-
+|7||14k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +70
+|-
+|8||16k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +80
+|-
+|9||18k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +90
+|-
+|10||20k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +100 
+|-
+|11||22k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +110 
+|-
+|12||24k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +120 
+|-
+|13||26k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +130 
+|-
+|14||28k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +140 
+|-
+|15||30k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +150 
+|-
+|16||32k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +160
+|-
+|17||34k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +170
+|-
+|18||36k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +180
+|-
+|19||38k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +190
+|-
+|20||40k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +200
+|-
+|21||42k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +210
+|-
+|22||44k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +220
+|-
+|23||46k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +230
+|-
+|24||48k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +240
+|-
+|25||50k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +250
+|-
+|26||55k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +260 
+|-
+|27||60k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +270
+|-
+|28||65k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +280
+|-
+|29||70k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +290
+|-
+|30||75k||Dragon Minion MAX +1||Per 10 Drawn Dragons in battle, Troop DEF +300
+|}
+
+==Research Ability==
+Below is a table of the research manual cost to upgrade each research gene. Taoist Yu Ji specializes in '''Dragon Gene''' and therefore the research manual cost for the Dragon is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+==Minion - Drawn Dragon==
+The immortality of his spirit helpd him get away from Sun Ce the Demon Taoist!
+
+===Special Ability - Rain Charm===
+Per 10 Drawn Dragons in battle, Troop Water RES +1 (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Drawn Dragons!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Gone with the Wind}}<br>{{relink|Gone with the Wind}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Storyteller}}<br>{{relink|Storyteller}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Jade Burial Suit}}<br>{{relink|Jade Burial Suit}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Rosetta Stone}}<br>{{relink|Rosetta Stone}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Dead Sea Scrolls}}<br>{{relink|Dead Sea Scrolls}}
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Caesar Statue}}<br>{{relink|Caesar Statue}}
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Holy Loaves}}<br>{{relink|Holy Loaves}}
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Kepler Telescope}}<br>{{relink|Kepler Telescope}}
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|}
+
+[[Category:Partners]]
+[[Category:Quarry Output Boost]]
+[[Category:Minion DEF Boost]]

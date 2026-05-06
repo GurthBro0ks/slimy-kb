@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Manga Manuscript,Modern Times
+|rank=orange
+|amount=2
+|category=self
+|description=Per 2 Art Master Scrolls used, Snail RUSH +7; ART Master Scrolls Used: 100/100
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by ART Master Scrolls]]

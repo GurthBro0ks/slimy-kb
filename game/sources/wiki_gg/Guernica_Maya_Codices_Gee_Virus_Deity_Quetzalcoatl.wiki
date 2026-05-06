@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Guernica,Maya Codices,Gee Virus,Deity Quetzalcoatl
+|rank=purple
+|amount=4
+|category=other
+|description=In any Realm, B-tads gained +3.2%
+}}
+[[Category:Other]]

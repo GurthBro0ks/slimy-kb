@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Toad Kung Fu
+|class_id=20995
+|rank=Green
+|affct=FAME
+|source=
+|description=A toad-inspired combat art. Uses reverse breathing to store energy, then explosive release.
+|fame=30
+|art=14
+|fth=18
+|civ=13
+|tech=15
+|ss1=prop@66642_2<br>prop@66642_3
+|ss2=prop@66642_2<br>prop@66642_3
+|ss3=prop@66642_2<br>prop@66642_3
+|ss4=prop@66642_2<br>prop@66642_3
+|ss7=prop@66642_2<br>prop@66642_3<br> (Awakened)
+}}

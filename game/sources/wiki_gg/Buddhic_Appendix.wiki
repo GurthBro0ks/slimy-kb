@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Buddhic Appendix
+|type=Common
+|rank=orange
+|id=10876
+|idx=83
+|description=On his sacred journey to the West, the Tang monk suffered a bout of appendicitis and had the organ removed. Left to bask in daily sutra chanting, the discarded appendix gradually achieved enlightenment. The monk, moved by its devotion, gave it a Dharma name: Inflammasattva.
+|skill=
+|hp=2714
+|def=223
+|atk=158
+|rush=192
+|gene1=When HP is below 30%, DMG dealt +7.5%
+|gene2=Angel Minion Recovery SPD +6%
+|gene3=Snail Arena, paralysis RES +3%
+|gene4=Angel Minion Cloning SPD +3%
+|gene5=Domain Cabin, deployable robots +3
+|gene7=Angel Minion Recovery SPD +6% (Awakened)
+|}}

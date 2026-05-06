@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Ashoka Tower
+|rank=SSS
+|affct=FTH
+|birthday=
+|source=Obtained from Wish Box<br>Lottery Machine No.1 (0.09%)<br>Alchemy Furnace (0.06%)<br>Grandmaster Scrolls (0.75%)
+|description=On Apr 13, 1011 AD, the Asoka Tower was crafted with unremitting efforts of everyone, and was used to worship Buddha's Skull Sarira.
+
+Asoka Tower is a single-story square pagoda, comprising a cover, a body, and a pedestal. It is made of sandalwood and its body is covered with a gold-gilt silver layer, decorated with crystals, agates, and other precious stones. Its body is integrally connected to the pedestal that is covered with patterns that tell the Buddha's life stories. Also, Buddha's Skull Sarira was found in its hollow inside. The 20 inscriptions on it show the building process of the tower.
+|fame=69
+|art=68
+|fth=107
+|civ=57
+|tech=61
+|ss1=Snail HP +300<br>Per 40 Gene Simulation LVLs, Snail HP +30<br>Per 40 Gene Simulation LVLs, Snail ATK +3<br>Gene Simulation LVLs: 1200/1200
+|ss2=Snail HP +400<br>Per 40 Gene Simulation LVLs, Snail HP +40<br>Per 40 Gene Simulation LVLs, Snail ATK +4<br>Gene Simulation LVLs: 1200/1200
+|ss3=Snail HP +500<br>Per 40 Gene Simulation LVLs, Snail HP +50<br>Per 40 Gene Simulation LVLs, Snail ATK +5<br>Gene Simulation LVLs: 1200/1200
+|ss4=Snail HP +700<br>Per 40 Gene Simulation LVLs, Snail HP +70<br>Per 40 Gene Simulation LVLs, Snail ATK +7<br>Gene Simulation LVLs: 1200/1200
+|ss5=Snail HP +900<br>Per 40 Gene Simulation LVLs, Snail HP +90<br>Per 40 Gene Simulation LVLs, Snail ATK +9<br>Gene Simulation LVLs: 1200/1200
+|ss6=Snail HP +1200<br>Per 40 Gene Simulation LVLs, Snail HP +120<br>Per 40 Gene Simulation LVLs, Snail ATK +12<br>Gene Simulation LVLs: 1200/1200
+|ss7=Snail HP +1200<br>Per 40 Gene Simulation LVLs, Snail HP +120<br>Per 40 Gene Simulation LVLs, Snail ATK +12<br>Gene Simulation LVLs: 1200/1200<br>Snail HP +1000 (Awakened)
+|skill1={{Skills|bharata|DMG|30}}
+|skill2={{Skills|bharata|purple reagent|15}}
+|skill3={{Skills|bharata|mutant|15}}
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Exploration Cell Drop Boost]]

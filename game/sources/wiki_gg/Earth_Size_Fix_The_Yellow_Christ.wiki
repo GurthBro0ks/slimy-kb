@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=850
+|relics=Earth Size Fix,The Yellow Christ
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Incubator Files fully restored, Snail RUSH +21;Files fully restored: 100/100
+}}

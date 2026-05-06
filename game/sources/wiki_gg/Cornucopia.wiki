@@ -1,0 +1,33 @@
+{{CargoRelic
+|name=Cornucopia
+|rank=AAA
+|affct=FTH
+|birthday=01-10
+|source=Fragment Crafting (1.5%), Fungus Chest (1.5%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)
+|description=On Jan 10, 80,000 BC, the Greek god Zeus made the first Cornucopia.
+
+When Zeus was playing with Amalthea, the goat, he accidentally broke one of her horns. Zeus injected divine power into the horn and it started producing unlimited fruits, biscuits, and other foods. To thank Nymph for saving him from his evil father and keeping him on Mount Ida, he gave her the horn. The horn has since become a symbol of abundance.
+|fame=47
+|art=38
+|fth=73
+|civ=47
+|tech=38
+|ss1=Per 5 Angel Gene LVLs, Snail ATK +6<br>Per 5 Angel Gene LVLs, Snail DEF +6<br>Angel Gene LVLs Researched: 150/150
+|ss2=Per 5 Angel Gene LVLs, Snail ATK +8<br>Per 5 Angel Gene LVLs, Snail DEF +8<br>Angel Gene LVLs Researched: 150/150
+|ss3=Per 5 Angel Gene LVLs, Snail ATK +10<br>Per 5 Angel Gene LVLs, Snail DEF +10<br>Angel Gene LVLs Researched: 150/150
+|ss4=Per 5 Angel Gene LVLs, Snail ATK +14<br>Per 5 Angel Gene LVLs, Snail DEF +14<br>Angel Gene LVLs Researched: 150/150
+|ss5=Per 5 Angel Gene LVLs, Snail ATK +18<br>Per 5 Angel Gene LVLs, Snail DEF +18<br>Angel Gene LVLs Researched: 150/150
+|ss7=Per 5 Angel Gene LVLs, Snail ATK +18<br>Per 5 Angel Gene LVLs, Snail DEF +18<br>Angel Gene LVLs Researched: 150/150<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Quarry skill II.png|50px]] Place in Quarry: Stone Output +15%
+|skill2=[[File:Quarry skill II.png|50px]] Place in Quarry: Find Ancient Fossil by +15%
+}}
+
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Angel Gene Boost]]
+[[Category:Quarry Skill]]
+[[Category:Quarry Output Boost]]
+[[Category:Ancient Fossil Boost]]
+[[Category:Angel Gene Cost Reduction]]
+[[Category:Mecha Cell Drop Boost]]
+[[Category:Enhanced by Angel Gene LVL]]

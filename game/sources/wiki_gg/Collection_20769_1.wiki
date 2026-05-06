@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20769_1
+|class_id=20769
+|rank=Green
+|affct=FAITH
+|source=
+|description=collection@20769_2
+|fame=15
+|art=13
+|fth=31
+|civ=14
+|tech=17
+|ss1=prop@69953_2<br>Snail ATK +20
+|ss2=prop@69953_2<br>Snail ATK +40
+|ss3=prop@69953_2<br>Snail ATK +60
+|ss4=prop@69953_2<br>Snail ATK +60
+|ss7=prop@69953_2<br>Snail ATK +60<br> (Awakened)
+}}

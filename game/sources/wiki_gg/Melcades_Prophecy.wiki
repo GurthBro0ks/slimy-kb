@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=Melcades' Prophecy
+|rank=Blue
+|affct=FTH
+|birthday=05-01
+|source=Lottery Machine (0.03%), Wishing (0.85%)
+|description=On May 1, 1970, this famous prophecy began to circulate in the Buendia family. 
+
+Prophet Melgades was a witness to the fate of the Buendia family and Macondo. Melgades performed his so-called Macedonian alchemy and created the 8th miracle of the world. He made a prophecy saying that the first person in the family would be trapped on a tree and the last would be eaten by ants. Eventually, the lonely and old Melgades went to take a bath in the river on a Thursday afternoon and ended his life.
+
+[Famous Prophecy]
+
+The earth is round, like an orange. People don't die when they deserve to, but when they can. It doesn't matter, the most important thing is not to lose your way.
+|fame=24
+|art=26
+|fth=47
+|civ=27
+|tech=30
+|ss1=B-tad rewards from offering +0.4%
+|ss2=B-tad rewards from offering +0.8%
+|ss3=B-tad rewards from offering +1.2%
+|ss4=B-tad rewards from offering +2%
+|ss7=B-tad rewards from offering +2%<br>B-tad rewards from offering +2% (Awakened)
+|skill1=[[File:Quarry skill I.png|50px]] Place in Quarry: Stone Output +5%
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:FTH Relics]]
+[[Category:Blue FTH Relics]]
+[[Category:Offering Reward Boost]]
+[[Category:Quarry Skill]]
+[[Category:Quarry Output Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Wonder Fungus Output]]

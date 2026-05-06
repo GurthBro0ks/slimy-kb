@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Earth Size Fix
+|class_id=22918
+|rank=SSS
+|affct=TECH
+|source=
+|description=Eratosthenes pioneered the measurement of Earth's circumference, deriving the first scientific estimate of its size. Applying coordinate principles, he mapped the world using meridians and parallels. He also coined the term geography and authored a foundational three-volume treatise, solidifying his legacy as the discipline's founding figure.
+|fame=66
+|art=58
+|fth=76
+|civ=54
+|tech=108
+|ss1=All Minion Skins, HARD Stats +3%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +300<br>Per 30 Time Chests opened, Snail RUSH +3<br>Time Chests Opened: 1500/1500
+|ss2=All Minion Skins, HARD Stats +6%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +400<br>Per 30 Time Chests opened, Snail RUSH +4<br>Time Chests Opened: 1500/1500
+|ss3=All Minion Skins, HARD Stats +9%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +500<br>Per 30 Time Chests opened, Snail RUSH +5<br>Time Chests Opened: 1500/1500
+|ss4=All Minion Skins, HARD Stats +15%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +700<br>Per 30 Time Chests opened, Snail RUSH +7<br>Time Chests Opened: 1500/1500
+|ss5=All Minion Skins, HARD Stats +21%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +900<br>Per 30 Time Chests opened, Snail RUSH +9<br>Time Chests Opened: 1500/1500
+|ss6=All Minion Skins, HARD Stats +30%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>Per 30 Time Chests opened, Snail RUSH +12<br>Time Chests Opened: 1500/1500
+|ss7=All Minion Skins, HARD Stats +30%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>Per 30 Time Chests opened, Snail RUSH +12<br>Time Chests Opened: 1500/1500<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1000 (Awakened)
+|skill1=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Cap +30%
+|skill2=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +30%
+|skill3=[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: This Relic's TECH +15
+|mirage={{Mirage|name=Earth Observation|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Mini Earth|3rec=343.79M|3atk=832152|3defense=471860|3hp=175728738|3weak=71200
+|4name=Compact Earth|4rec=437.75M|4atk=986369|4defense=556392|4hp=291749121|4weak=76997
+|5name=Standard Earth|5rec=572.09M|5atk=1228864|5defense=677247|5hp=505276633|5weak=84519
+|6name=Super Earth|6rec=763.16M|6atk=1757777|6defense=867993|6hp=827066537|6weak=92866
+|Arec=1069.83M|Aatk=2692821|Adefense=1182960|Ahp=1539508036|Aweak=101800
+}}}}

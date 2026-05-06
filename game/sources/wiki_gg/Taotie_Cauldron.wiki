@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The cauldron that Taotie used to eat with. The saliva left behind by Taotie over the years gave the cauldron a portion of its power. When Snail puts it on, power surges through their body live lava, and devours everything in their stomach.
+|affct=CIV
+|hard=RUSH
+|source=Divine Order Chest (0.1%)
+|color=orange
+|earth=10
+|water=10
+|fire=11
+|wind=11
+|form=Mutant
+|element=Fire
+|realm=Koryeo
+|orangehard=HP
+}}

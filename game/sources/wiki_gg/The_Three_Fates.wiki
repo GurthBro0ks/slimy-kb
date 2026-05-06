@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=The Three Fates
+|class_id=22819
+|rank=SSS
+|affct=ART
+|source=
+|description= The Three Fates, namely Clotho, Lachesis, and Atropos, are the daughters of Zeus and Themis, jointly presiding over the fate of all living beings in the universe. Clotho is responsible for spinning the thread of life, nurturing life; Lachesis measures its length, determining lifespan; Atropos ultimately cuts the thread of life, announcing death. No one can escape their judgment, symbolizing the inevitability of fate. In artistic works, they are often depicted as collaborating to weave the tapestry of fate, used to convey the concept of predetermined fate and the finiteness of life.
+|fame=50
+|art=108
+|fth=73
+|civ=72
+|tech=59
+|ss1=Demon Minion DEF +3%<br>Resolver: W-tads extracted +3%<br>Per 5 Incubator Files fully restored, Snail ATK +9<br>Files fully restored: 100/100
+|ss2=Demon Minion DEF +4%<br>Resolver: W-tads extracted +4%<br>Per 5 Incubator Files fully restored, Snail ATK +12<br>Files fully restored: 100/100
+|ss3=Demon Minion DEF +5%<br>Resolver: W-tads extracted +5%<br>Per 5 Incubator Files fully restored, Snail ATK +15<br>Files fully restored: 100/100
+|ss4=Demon Minion DEF +7%<br>Resolver: W-tads extracted +7%<br>Per 5 Incubator Files fully restored, Snail ATK +21<br>Files fully restored: 100/100
+|ss5=Demon Minion DEF +9%<br>Resolver: W-tads extracted +9%<br>Per 5 Incubator Files fully restored, Snail ATK +27<br>Files fully restored: 100/100
+|ss6=Demon Minion DEF +12%<br>Resolver: W-tads extracted +12%<br>Per 5 Incubator Files fully restored, Snail ATK +36<br>Files fully restored: 100/100
+|ss7=Demon Minion DEF +12%<br>Resolver: W-tads extracted +12%<br>Per 5 Incubator Files fully restored, Snail ATK +36<br>Files fully restored: 100/100<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop CRIT +9%
+|skill2=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop Water DMG +60
+|skill3=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion ATK +9%
+|mirage={{Mirage|name=dungeon@22819_1|reward={{RewardIconWithLink|Dragon Orb, +1|orange}}
+|3name=Atropos|3rec=226.23M|3atk=635127|3defense=362184|3hp=84242129|3weak=57094
+|4name=Clotho|4rec=285.42M|4atk=738366|4defense=419346|4hp=119635799|4weak=61818
+|5name=Lachesis|5rec=385.36M|5atk=898822|5defense=509257|5hp=210241048|5weak=68275
+|6name=Wheel of Fate|6rec=508.61M|6atk=1108170|6defense=620137|6hp=390119247|6weak=75556
+|Arec=668.91M|Aatk=1486745|Adefense=766913|Ahp=628945382|Aweak=83939
+}}}}

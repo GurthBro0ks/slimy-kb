@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Pan's Flute
+|class_id=20142
+|rank=Green
+|affct=ART
+|source=
+|description=Pan was once obsessed with Syrinx, goddess of Mountains and Forests, but she would rather turn into a reed than accept him. Pan made the reed into a musical instrument bearing the name of his beloved Syrinx. And then Pan abandoned this flute that accompanied him for most of his life.
+|fame=10
+|art=31
+|fth=17
+|civ=14
+|tech=18
+|ss1=Per 6 Wicked Costume Stars, Snail RUSH +1<br>Wicked Stars: 192/192
+|ss2=Per 6 Wicked Costume Stars, Snail RUSH +2<br>Wicked Stars: 192/192
+|ss3=Per 6 Wicked Costume Stars, Snail RUSH +3<br>Wicked Stars: 192/192
+|ss4=Per 6 Wicked Costume Stars, Snail RUSH +3<br>Wicked Stars: 192/192
+|ss7=Per 6 Wicked Costume Stars, Snail RUSH +3<br>Wicked Stars: 192/192<br> (Awakened)
+}}

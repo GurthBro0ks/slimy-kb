@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=National Geographic Inaugural Issue,PAS2000,Vacuum Tube,Maastricht Treaty
+|rank=orange
+|amount=4
+|category=minion
+|description=Per 60 T8+ Minions deployed, Troop RUSH +108
+}}
+[[Category:Minion]]
+[[Category:Minion RUSH Boost]]

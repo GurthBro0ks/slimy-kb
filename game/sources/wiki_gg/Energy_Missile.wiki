@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Energy Missile
+|class_id=22341
+|rank=SSS
+|affct=TECH
+|birthday=08-19
+|source=
+|description=On Aug 19, 3022 AD, the Energy Missile was completed.<br>The Energy Missile is an expensive explosive ordnance that packs a punch. It boasts a powerful shield generator and multifunctional guidance system, allowing it to automatically lock onto targets while being protected by an all-around energy shield. It can also be operated manually in special situations. When equipped with a proton-scattering warhead, it can unleash a devastatingly powerful blast that outmatches even a starfighter.
+|fame=66
+|art=55
+|fth=71
+|civ=61
+|tech=109
+|ss1=Snail Leadership +3<br>Per 5 Silver Snail Tokens used, Snail ATK +6<br>Per 5 Silver Snail Tokens used, Snail RUSH +6<br>Silver Snail Tokens Used: 100/100
+|ss2=Snail Leadership +4<br>Per 5 Silver Snail Tokens used, Snail ATK +8<br>Per 5 Silver Snail Tokens used, Snail RUSH +8<br>Silver Snail Tokens Used: 100/100
+|ss3=Snail Leadership +5<br>Per 5 Silver Snail Tokens used, Snail ATK +10<br>Per 5 Silver Snail Tokens used, Snail RUSH +10<br>Silver Snail Tokens Used: 100/100
+|ss4=Snail Leadership +7<br>Per 5 Silver Snail Tokens used, Snail ATK +14<br>Per 5 Silver Snail Tokens used, Snail RUSH +14<br>Silver Snail Tokens Used: 100/100
+|ss5=Snail Leadership +9<br>Per 5 Silver Snail Tokens used, Snail ATK +18<br>Per 5 Silver Snail Tokens used, Snail RUSH +18<br>Silver Snail Tokens Used: 100/100
+|ss6=Snail Leadership +12<br>Per 5 Silver Snail Tokens used, Snail ATK +24<br>Per 5 Silver Snail Tokens used, Snail RUSH +24<br>Silver Snail Tokens Used: 100/100
+|ss7=Snail Leadership +12<br>Per 5 Silver Snail Tokens used, Snail ATK +24<br>Per 5 Silver Snail Tokens used, Snail RUSH +24<br>Silver Snail Tokens Used: 100/100<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: This Relic's TECH +15
+|skill2=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, 2x Orange Card Drops +15%
+|skill3=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, Angel Cells gained +30%
+|mirage={{Mirage|name=Proton Arm|reward={{RewardIconWithLink|Spaceship Captain Frag, +20|orange}}
+|3name=Proton Power Furnace|3rec=29.85M|3atk=128737|3defense=85886|3hp=4725175|3weak=18927
+|4name=Proton Multi-Gun Turret|4rec=41.00M|4atk=152267|4defense=101583|4hp=6462937|4weak=20127
+|5name=Proton Fire Control Radar|5rec=53.34M|5atk=178289|5defense=118944|5hp=8551736|5weak=22399
+|6name=Proton Depth Charge|6rec=67.27M|6atk=207672|6defense=138546|6hp=11245940|6weak=27110
+|Arec=82.68M|Aatk=240166|Adefense=160224|Ahp=14486775|Aweak=31383
+}}}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Silicon Life Prototype
+|class_id=20342
+|rank=Green
+|affct=TECH
+|source=
+|description=In this metal shell hid a snail made of inorganic materials, with a simulated nervous system composed of a massive network of chips and circuits. Maybe through luck or chance, it can come into this world as a new advanced life form!
+|fame=15
+|art=11
+|fth=17
+|civ=16
+|tech=31
+|ss1=Wormhole refine time -1m
+|ss2=Wormhole refine time -2m
+|ss3=Wormhole refine time -3m
+|ss4=Wormhole refine time -3m
+|ss7=Wormhole refine time -3m<br> (Awakened)
+}}

@@ -1,0 +1,545 @@
+==Cosmos==
+[[File:Cosmos.png|100px|left|alt=Cosmos]]
+Cosmos, answer my call! Awaken the astral power at the beginning of the battle!
+
+1. Spend 30 {{RewardIconWithText|Star Dust}} on the [[Shining Athena]] screen.
+{{clear}}
+
+When first obtained in [[Hellas]], Cosmos does nothing. It requires being upgraded with {{RewardIconWithText|Star Dust}} to activate and unlock its power. After it is upgraded to it's maximum level of 180 it can then be unsealed with [[Weekly Events|Magic Potion]].
+
+===Upgrade Materials===
+Cosmos has 6 different areas that need to be awaken and maxed out in order using {{RewardIconWithText|Star Dust}}. The amount of {{RewardIconWithText|Star Dust}} differs for each area.
+
+{| class="wikitable"
+!Area Number
+!Area Name
+!Star-Dust to Maximize Area
+!Maximized Effect
+|-
+|1||Ultimate Physique||30||Before combat, Snail HP +5%
+|-
+|2||Sixth Sense||60||If you spot a weakness, Ignore DEF +500
+|-
+|3||Elementalize||90||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +120
+|-
+|4||Seventh Sense||120||If you spot a weakness, DMG +10%
+|-
+|5||Mind's Eye||150||Revive upon death and Restore 5% HP
+|-
+|6||Arayashiki||180||Before combat, Snail ATK and RUSH +5%<br>When HP < 50%, CRIT DMG +12% 
+|}
+
+==Stats==
+Cosmos has 6 different areas that need to be awakened and upgraded. Each area has 30 levels and you awaken the next level when you max the previous area. You cannot choose which area to upgrade, they are all sequential.
+
+===Ultimate Physique===
+To a real soldier, weapons and armor are not true strength. Only a body trained to be at its peak is dependable.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Star-Dust
+!Effect
+|-
+|1||1||Before combat, Snail HP +2%
+|-
+|2||1||Before combat, Snail HP +2.1%
+|-
+|3||1||Before combat, Snail HP +2.2%
+|-
+|4||1||Before combat, Snail HP +2.3%
+|-
+|5||1||Before combat, Snail HP +2.4%
+|-
+|6||1||Before combat, Snail HP +2.5%
+|-
+|7||1||Before combat, Snail HP +2.6%
+|-
+|8||1||Before combat, Snail HP +2.7%
+|-
+|9||1||Before combat, Snail HP +2.8%
+|-
+|10||1||Before combat, Snail HP +2.9%
+|-
+|11||1||Before combat, Snail HP +3%
+|-
+|12||1||Before combat, Snail HP +3.1%
+|-
+|13||1||Before combat, Snail HP +3.2%
+|-
+|14||1||Before combat, Snail HP +3.3%
+|-
+|15||1||Before combat, Snail HP +3.4%
+|-
+|16||1||Before combat, Snail HP +3.5%
+|-
+|17||1||Before combat, Snail HP +3.6%
+|-
+|18||1||Before combat, Snail HP +3.7%
+|-
+|19||1||Before combat, Snail HP +3.8%
+|-
+|20||1||Before combat, Snail HP +3.9%
+|-
+|21||1||Before combat, Snail HP +4%
+|-
+|22||1||Before combat, Snail HP +4.1%
+|-
+|23||1||Before combat, Snail HP +4.2%
+|-
+|24||1||Before combat, Snail HP +4.3%
+|-
+|25||1||Before combat, Snail HP +4.4%
+|-
+|26||1||Before combat, Snail HP +4.5%
+|-
+|27||1||Before combat, Snail HP +4.6%
+|-
+|28||1||Before combat, Snail HP +4.7%
+|-
+|29||1||Before combat, Snail HP +4.8%
+|-
+|30||1||Before combat, Snail HP +5%
+|}
+
+===Sixth Sense===
+A supernatural sense apart from the five senses can be mastered if the practitioner trains hard.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Star-Dust
+!Effect
+|-
+|1||2||If you spot a weakness, Ignore DEF +200
+|-
+|2||2||If you spot a weakness, Ignore DEF +210
+|-
+|3||2||If you spot a weakness, Ignore DEF +220
+|-
+|4||2||If you spot a weakness, Ignore DEF +230
+|-
+|5||2||If you spot a weakness, Ignore DEF +240
+|-
+|6||2||If you spot a weakness, Ignore DEF +250
+|-
+|7||2||If you spot a weakness, Ignore DEF +260
+|-
+|8||2||If you spot a weakness, Ignore DEF +270
+|-
+|9||2||If you spot a weakness, Ignore DEF +280
+|-
+|10||2||If you spot a weakness, Ignore DEF +290
+|-
+|11||2||If you spot a weakness, Ignore DEF +300
+|-
+|12||2||If you spot a weakness, Ignore DEF +310
+|-
+|13||2||If you spot a weakness, Ignore DEF +320
+|-
+|14||2||If you spot a weakness, Ignore DEF +330
+|-
+|15||2||If you spot a weakness, Ignore DEF +340
+|-
+|16||2||If you spot a weakness, Ignore DEF +350
+|-
+|17||2||If you spot a weakness, Ignore DEF +360
+|-
+|18||2||If you spot a weakness, Ignore DEF +370
+|-
+|19||2||If you spot a weakness, Ignore DEF +380
+|-
+|20||2||If you spot a weakness, Ignore DEF +390
+|-
+|21||2||If you spot a weakness, Ignore DEF +400
+|-
+|22||2||If you spot a weakness, Ignore DEF +410
+|-
+|23||2||If you spot a weakness, Ignore DEF +420
+|-
+|24||2||If you spot a weakness, Ignore DEF +430
+|-
+|25||2||If you spot a weakness, Ignore DEF +440
+|-
+|26||2||If you spot a weakness, Ignore DEF +450
+|-
+|27||2||If you spot a weakness, Ignore DEF +460
+|-
+|28||2||If you spot a weakness, Ignore DEF +470
+|-
+|29||2||If you spot a weakness, Ignore DEF +480
+|-
+|30||2||If you spot a weakness, Ignore DEF +500
+|}
+
+===Elementalize===
+The body transcends to the limit of the flesh and blood after a certain level of training, resonating freely with the elements of the world and siphoning their power.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Star-Dust
+!Effect
+|-
+|1||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +60
+|-
+|2||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +62
+|-
+|3||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +64
+|-
+|4||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +66
+|-
+|5||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +68
+|-
+|6||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +70
+|-
+|7||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +72
+|-
+|8||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +74
+|-
+|9||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +76
+|-
+|10||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +78
+|-
+|11||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +80
+|-
+|12||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +82
+|-
+|13||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +84
+|-
+|14||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +86
+|-
+|15||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +88
+|-
+|16||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +90
+|-
+|17||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +92
+|-
+|18||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +94
+|-
+|19||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +96
+|-
+|20||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +98
+|-
+|21||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +100
+|-
+|22||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +102
+|-
+|23||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +104
+|-
+|24||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +106
+|-
+|25||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +108
+|-
+|26||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +110
+|-
+|27||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +112
+|-
+|28||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +114
+|-
+|29||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +116
+|-
+|30||3||When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +120
+|}
+
+===Seventh Sense===
+This hidden sense is only triggered by those who are talented and willing to work hard. Once mastered, their powers will transcend space and time.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Star-Dust
+!Effect
+|-
+|1||4||If you spot a weakness, DMG +4%
+|-
+|2||4||If you spot a weakness, DMG +4.2%
+|-
+|3||4||If you spot a weakness, DMG +4.4%
+|-
+|4||4||If you spot a weakness, DMG +4.6%
+|-
+|5||4||If you spot a weakness, DMG +4.8%
+|-
+|6||4||If you spot a weakness, DMG +5%
+|-
+|7||4||If you spot a weakness, DMG +5.2%
+|-
+|8||4||If you spot a weakness, DMG +5.4%
+|-
+|9||4||If you spot a weakness, DMG +5.6%
+|-
+|10||4||If you spot a weakness, DMG +5.8%
+|-
+|11||4||If you spot a weakness, DMG +6%
+|-
+|12||4||If you spot a weakness, DMG +6.2%
+|-
+|13||4||If you spot a weakness, DMG +6.4%
+|-
+|14||4||If you spot a weakness, DMG +6.6%
+|-
+|15||4||If you spot a weakness, DMG +6.8%
+|-
+|16||4||If you spot a weakness, DMG +7%
+|-
+|17||4||If you spot a weakness, DMG +7.2%
+|-
+|18||4||If you spot a weakness, DMG +7.4%
+|-
+|19||4||If you spot a weakness, DMG +7.6%
+|-
+|20||4||If you spot a weakness, DMG +7.8%
+|-
+|21||4||If you spot a weakness, DMG +8%
+|-
+|22||4||If you spot a weakness, DMG +8.2%
+|-
+|23||4||If you spot a weakness, DMG +8.4%
+|-
+|24||4||If you spot a weakness, DMG +8.6%
+|-
+|25||4||If you spot a weakness, DMG +8.8%
+|-
+|26||4||If you spot a weakness, DMG +9%
+|-
+|27||4||If you spot a weakness, DMG +9.2%
+|-
+|28||4||If you spot a weakness, DMG +9.4%
+|-
+|29||4||If you spot a weakness, DMG +9.6%
+|-
+|30||4||If you spot a weakness, DMG +10%
+|}
+
+===Mind's Eye===
+Fine observation and the instinct to foresee danger are key to turning the tide of the battle and winning it. Only the most decorated war veterans are able to master this.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Star-Dust
+!Effect
+|-
+|1||5||Revive upon death and restore 2% HP
+|-
+|2||5||Revive upon death and restore 2.1% HP
+|-
+|3||5||Revive upon death and restore 2.2% HP
+|-
+|4||5||Revive upon death and restore 2.3% HP
+|-
+|5||5||Revive upon death and restore 2.4% HP
+|-
+|6||5||Revive upon death and restore 2.5% HP
+|-
+|7||5||Revive upon death and restore 2.6% HP
+|-
+|8||5||Revive upon death and restore 2.7% HP
+|-
+|9||5||Revive upon death and restore 2.8% HP
+|-
+|10||5||Revive upon death and restore 2.9% HP
+|-
+|11||5||Revive upon death and restore 3% HP
+|-
+|12||5||Revive upon death and restore 3.1% HP
+|-
+|13||5||Revive upon death and restore 3.2% HP
+|-
+|14||5||Revive upon death and restore 3.3% HP
+|-
+|15||5||Revive upon death and restore 3.4% HP
+|-
+|16||5||Revive upon death and restore 3.5% HP
+|-
+|17||5||Revive upon death and restore 3.6% HP
+|-
+|18||5||Revive upon death and restore 3.7% HP
+|-
+|19||5||Revive upon death and restore 3.8% HP
+|-
+|20||5||Revive upon death and restore 3.9% HP
+|-
+|21||5||Revive upon death and restore 4% HP
+|-
+|22||5||Revive upon death and restore 4.1% HP
+|-
+|23||5||Revive upon death and restore 4.2% HP
+|-
+|24||5||Revive upon death and restore 4.3% HP
+|-
+|25||5||Revive upon death and restore 4.4% HP
+|-
+|26||5||Revive upon death and restore 4.5% HP
+|-
+|27||5||Revive upon death and restore 4.6% HP
+|-
+|28||5||Revive upon death and restore 4.7% HP
+|-
+|29||5||Revive upon death and restore 4.8% HP
+|-
+|30||5||Revive upon death and restore 5% HP
+|}
+
+===Arayashiki===
+A sign that someone has become one with the heavens, and a symbol of absolute power. Master its secrets to cross over the barrier between life and death.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Star-Dust
+!Effect
+|-
+|1||6||Before combat, Snail ATK and RUSH +2%<br>When HP < 50%, CRIT DMG +6%
+|-
+|2||6||Before combat, Snail ATK and RUSH +2.1%<br>When HP < 50%, CRIT DMG +6.2%
+|-
+|3||6||Before combat, Snail ATK and RUSH +2.2%<br>When HP < 50%, CRIT DMG +6.4%
+|-
+|4||6||Before combat, Snail ATK and RUSH +2.3%<br>When HP < 50%, CRIT DMG +6.6%
+|-
+|5||6||Before combat, Snail ATK and RUSH +2.4%<br>When HP < 50%, CRIT DMG +6.8%
+|-
+|6||6||Before combat, Snail ATK and RUSH +2.5%<br>When HP < 50%, CRIT DMG +7%
+|-
+|7||6||Before combat, Snail ATK and RUSH +2.6%<br>When HP < 50%, CRIT DMG +7.2%
+|-
+|8||6||Before combat, Snail ATK and RUSH +2.7%<br>When HP < 50%, CRIT DMG +7.4%
+|-
+|9||6||Before combat, Snail ATK and RUSH +2.8%<br>When HP < 50%, CRIT DMG +7.6%
+|-
+|10||6||Before combat, Snail ATK and RUSH +2.9%<br>When HP < 50%, CRIT DMG +7.8%
+|-
+|11||6||Before combat, Snail ATK and RUSH +3%<br>When HP < 50%, CRIT DMG +8%
+|-
+|12||6||Before combat, Snail ATK and RUSH +3.1%<br>When HP < 50%, CRIT DMG +8.2%
+|-
+|13||6||Before combat, Snail ATK and RUSH +3.2%<br>When HP < 50%, CRIT DMG +8.4%
+|-
+|14||6||Before combat, Snail ATK and RUSH +3.3%<br>When HP < 50%, CRIT DMG +8.6%
+|-
+|15||6||Before combat, Snail ATK and RUSH +3.4%<br>When HP < 50%, CRIT DMG +8.8%
+|-
+|16||6||Before combat, Snail ATK and RUSH +3.5%<br>When HP < 50%, CRIT DMG +9%
+|-
+|17||6||Before combat, Snail ATK and RUSH +3.6%<br>When HP < 50%, CRIT DMG +9.2%
+|-
+|18||6||Before combat, Snail ATK and RUSH +3.7%<br>When HP < 50%, CRIT DMG +9.4%
+|-
+|19||6||Before combat, Snail ATK and RUSH +3.8%<br>When HP < 50%, CRIT DMG +9.6%
+|-
+|20||6||Before combat, Snail ATK and RUSH +3.9%<br>When HP < 50%, CRIT DMG +9.8%
+|-
+|21||6||Before combat, Snail ATK and RUSH +4%<br>When HP < 50%, CRIT DMG +10%
+|-
+|22||6||Before combat, Snail ATK and RUSH +4.1%<br>When HP < 50%, CRIT DMG +10.2%
+|-
+|23||6||Before combat, Snail ATK and RUSH +4.2%<br>When HP < 50%, CRIT DMG +10.4%
+|-
+|24||6||Before combat, Snail ATK and RUSH +4.3%<br>When HP < 50%, CRIT DMG +10.6%
+|-
+|25||6||Before combat, Snail ATK and RUSH +4.4%<br>When HP < 50%, CRIT DMG +10.8%
+|-
+|26||6||Before combat, Snail ATK and RUSH +4.5%<br>When HP < 50%, CRIT DMG +11%
+|-
+|27||6||Before combat, Snail ATK and RUSH +4.6%<br>When HP < 50%, CRIT DMG +11.2%
+|-
+|28||6||Before combat, Snail ATK and RUSH +4.7%<br>When HP < 50%, CRIT DMG +11.4%
+|-
+|29||6||Before combat, Snail ATK and RUSH +4.8%<br>When HP < 50%, CRIT DMG +11.6%
+|-
+|30||6||Before combat, Snail ATK and RUSH +5%<br>When HP < 50%, CRIT DMG +12%
+|}
+
+==Unsealing==
+Once the Cosmos has been upgraded to the max level (180), you have the option to Unseal the Spirit trapped inside. Doing this costs [[Weekly Events|300 Magic Potion]]. Unsealing releases the spirit Pegasus Snail, who will gift you 400 W-tads and 60k B-tads as a thank you. 
+
+Upgrading Pegasus Snail is quite expensive, but doing so gives permanent buffs to your snail. 
+{|class="mw-collapsible mw-collapsed wikitable"
+! rowspan="2"|Tier
+! rowspan="2"|Potion Cost 
+! rowspan="2"|B-tads Cost
+! colspan="4"|Cumulative effect, or
+|-
+!HP +
+!ATK + 
+!DEF +
+!RUSH
+|-
+|T1||||||200||40||20||20
+|-
+|T2||100||4k||400||80||40||40
+|-
+|T3||110||6k||600||120||60||60
+|-
+|T4||120||8k||800||160||80||80
+|-
+|T5||130||10k||colspan="4" style="text-align:center"|Before combat, Snail HP +2%
+|-
+|T6||150||12k||1100||220||110||110
+|-
+|T7||170||14k||1400||280||140||140
+|-
+|T8||190||16k||1700||340||170||170 
+|-
+|T9||210||18k||2000||400||200||200
+|-
+|T10||230||20k||colspan="4" style="text-align:center"|If you spot a weakness, Ignore DEF +500
+|-
+|T11||260||22k||2400||480||240||240
+|-
+|T12||290||24k||2800||560||280||280
+|-
+|T13||320||26k||3200||640||320||320
+|-
+|T14||350||28k||3600||720||360||360
+|-
+|T15||380||30k||colspan="4" style="text-align:center"|When HP > 50%; All ELMT DMG +50
+|-
+|T16||420||32k||4100||820||410||410
+|-
+|T17||460||34k||||||||
+|-
+|T18||500||36k||||||||
+|-
+|T19||540||38k||||||||
+|-
+|T20||580||40k||colspan="4" style="text-align:center"| If you spot a weakness, DMG +5%
+|-
+|T21||630||42k||||||||
+|-
+|T22||680||44k||||||||
+|-
+|T23||730||46k||||||||
+|-
+|T24||780||48k||||||||
+|-
+|T25||830||50k||colspan="4" style="text-align:center"| Revive upon death and Restore 5% HP
+|-
+|T26||890||52k||||||||
+|-
+|T27||950||54k||||||||
+|-
+|T28||1,010||56k||||||||
+|-
+|T29||1,070||58k||||||||
+|-
+|T30||1,130||60k||colspan="4" style="text-align:center"| Before combat, Snail ATK +2%
+|-
+|T31||1,200||62k||||||||
+|-
+|T32||1,270||64k||||||||
+|-
+|T33||1,340||66k||||||||
+|-
+|T34||1,410||68k||||||||
+|-
+|T35||1,480||70k||colspan="4" style="text-align:center"| Before combat, Snail RUSH +2%
+|-
+|T36||1,560||72k||||||||
+|-
+|T37||1,640||74k||||||||
+|-
+|T38||1,720||76k||||||||
+|-
+|T39||1,800||78k||||||||
+|-
+|T40||1,880||80k||colspan="4" style="text-align:center"| When HP < 50%; CRIT DMG +10%
+|}
+[[Category:Hellas]]
+[[Category:Realm Trait]]

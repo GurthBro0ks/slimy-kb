@@ -1,0 +1,264 @@
+{{Missing Info|specifics=Robot cut off for 80, Robot cut off for 90, Robot amounts past 90}}
+
+== Species Device ==
+Species War Device Cabin within [[Rocket]] Cabins
+
+Send robots to gather: {{RewardIconWithText|Refine Speedup}}<br>
+Upgrade Species War Cabin Tech to send more robots.
+{| class="wikitable"
+!Tech
+!Robots
+|-
+|0-399||5
+|-
+|400-1,399||10
+|-
+|1,400-3,199||20
+|-
+|3,200-5,999||30
+|-
+|6,000-10,799||40
+|-
+|10,800-17,999||50
+|-
+|18,000-24,999||60
+|-
+|25,000-35,999||70
+|-
+|36,000-?||80
+|-
+|?-79,999||90
+|-
+|80,000-?||?
+|}
+
+==Dung Beetle Reactor==
+
+Four types of materials, ''Dung Beetle Coolant'', ''Dung Beetle Graphite Rod'', ''Dung Beetle Moderators'', and ''Dung Beetle Core'' can be found within Dung Beetle Chests or by exchanging Emblem cards in the respective Species War. These are available in five different tiers and can be used to build the Dung Beetle Reactor. These materials can be converted into higher or lower tiers at a rate of 5 lower tier materials to 1 higher tier material. Building the Reactor requires ten of each of the three materials in the same tier, and will grant a bonus to the resource collection speed in species war special incidents, and a buff to all minions. After being built, the ability to produce Supply Boxes using Standard Printing Supply will be unlocked. Each instance of producing Supply Boxes for Standard Printing Supply can only be done once.
+
+Each tier gives +1 to All Minion HP, ATK, DEF, and RUSH. <br> Each tier gives Special Incidents in Species War, Resource Collect SPD +2%.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Dung Beetle Coolant x10<br>T1 Dung Beetle Graphite Rod x10<br>T1 Dung Beetle Moderator x10<br>T1 Dung Beetle Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +1
+|{{IconText|Standard Printing Supply|Standard Printing Supply x100|50}}
+|-
+|2
+|T2 Dung Beetle Coolant x10<br>T2 Dung Beetle Graphite Rod x10<br>T2 Dung Beetle Moderator x10<br>T2 Dung Beetle Core x3
+|{{RewardIconWithLink|Dung Beetle Specimen|green}}
+|{{IconText|Standard Printing Supply|Standard Printing Supply x200|50}}
+|-
+|3
+|T3 Dung Beetle Coolant x10<br>T3 Dung Beetle Graphite Rod x10<br>T3 Dung Beetle Moderator x10<br>T3 Dung Beetle Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +2
+|{{IconText|Standard Printing Supply|Standard Printing Supply x300|50}}
+|-
+|4
+|T4 Dung Beetle Coolant x10<br>T4 Dung Beetle Graphite Rod x10<br>T4 Dung Beetle Moderator x10<br>T4 Dung Beetle Core x3
+|{{RewardIconWithLink|Golden Ball|green}}
+|{{IconText|Standard Printing Supply|Standard Printing Supply x600|50}}
+|-
+|5
+|T5 Dung Beetle Coolant x10<br>T5 Dung Beetle Graphite Rod x10<br>T5 Dung Beetle Moderator x10<br>T5 Dung Beetle Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +3
+|{{IconText|Standard Printing Supply|Standard Printing Supply x1000|50}}
+|}
+
+==Goldfish Altar==
+
+Four types of materials, ''Goldfish Pearl'', ''Goldfish Shell'', ''Goldfish Conch'', and ''Goldfish Core'' can be found within Goldfish Chests or by exchanging Emblem cards in the respective Species War. These are available in five different tiers and can be used to build the Goldfish Altar. These materials can be converted into higher or lower tiers at a rate of 5 lower tier materials to 1 higher tier material. Building the Altar requires ten of each of the three materials in the same tier, and will grant a bonus to the resource collection speed in species war special incidents, and a buff to all minions. After being built, the ability to produce Supply Boxes using Printing Supply will be unlocked. Each instance of producing Supply Boxes for Printing Supply can only be done once.
+
+Each tier gives +1 to All Minion HP, ATK, DEF, and RUSH. <br> Each tier gives Per 100 Minions in battle, Troop Water DMG +20.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Goldfish Pearl x10<br>T1 Goldfish Shell x10<br>T1 Goldfish Conch x10<br>T1 Goldfish Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +1
+|{{IconText|Standard Printing Supply|Standard Printing Supply x100|50}}
+|-
+|2
+|T2 Goldfish Pearl x10<br>T2 Goldfish Shell x10<br>T2 Goldfish Conch x10<br>T2 Goldfish Core x3
+|{{RewardIconWithLink|Goldfish Specimen|green}}
+|{{IconText|Standard Printing Supply|Standard Printing Supply x200|50}}
+|-
+|3
+|T3 Goldfish Pearl x10<br>T3 Goldfish Shell x10<br>T3 Goldfish Conch x10<br>T3 Goldfish Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +2
+|{{IconText|Standard Printing Supply|Standard Printing Supply x300|50}}
+|-
+|4
+|T4 Goldfish Pearl x10<br>T4 Goldfish Shell x10<br>T4 Goldfish Conch x10<br>T4 Goldfish Core x3
+|{{RewardIconWithLink|Ancient Colored Shell|green}}
+|{{IconText|Standard Printing Supply|Standard Printing Supply x600|50}}
+|-
+|5
+|T5 Goldfish Pearl x10<br>T5 Goldfish Shell x10<br>T5 Goldfish Conch x10<br>T5 Goldfish Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +3
+|{{IconText|Standard Printing Supply|Standard Printing Supply x1000|50}}
+|}
+
+==Surf Clam Magic Circle==
+
+Four types of materials, ''Surf Clam Rune'', ''Surf Clam Crystal'', ''Surf Clam Cauldron'', and ''Surf Clam Core'' can be found within Surf Clam Chests or by exchanging Emblem cards in the respective Species War. These are available in five different tiers and can be used to build the Surf Clam Magic Circle. These materials can be converted into higher or lower tiers at a rate of 5 lower tier materials to 1 higher tier material. Building the Magic Circle requires ten of each of the three materials in the same tier, and will grant a bonus to the resource collection speed in species war special incidents, and a buff to all minions. After being built, the ability to produce Supply Boxes using Printing Supply will be unlocked. Each instance of producing Supply Boxes for Printing Supply can only be done once.
+
+Each tier gives +1 to All Minion HP, ATK, DEF, and RUSH. <br> Each tier gives Per 100 Minions in battle, Troop ELMT RES +3.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Surf Clam Rune x10<br>T1 Surf Clam Crystal x10<br>T1 Surf Clam Cauldron x10<br>T1 Surf Clam Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +1
+|{{IconText|Standard Printing Supply|Standard Printing Supply x100|50}}
+|-
+|2
+|T2 Surf Clam Rune x10<br>T2 Surf Clam Crystal x10<br>T2 Surf Clam Cauldron x10<br>T2 Surf Clam Core x3
+|{{RewardIconWithLink|Surf Clam Specimen|green}}
+|{{IconText|Standard Printing Supply|Standard Printing Supply x200|50}}
+|-
+|3
+|T3 Surf Clam Rune x10<br>T3 Surf Clam Crystal x10<br>T3 Surf Clam Cauldron x10<br>T3 Surf Clam Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +2
+|{{IconText|Standard Printing Supply|Standard Printing Supply x300|50}}
+|-
+|4
+|T4 Surf Clam Rune x10<br>T4 Surf Clam Crystal x10<br>T4 Surf Clam Cauldron x10<br>T4 Surf Clam Core x3
+|{{RewardIconWithLink|White Crystal Ball|green}}
+|{{IconText|Standard Printing Supply|Standard Printing Supply x600|50}}
+|-
+|5
+|T5 Surf Clam Rune x10<br>T5 Surf Clam Crystal x10<br>T5 Surf Clam Cauldron x10<br>T5 Surf Clam Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +3
+|{{IconText|Standard Printing Supply|Standard Printing Supply x1000|50}}
+|}
+
+==Hamster Exchange==
+
+Four types of materials, ''Hamster Futures'', ''Hamster Bond'', ''Hamster Stock'', and ''Hamster Core'' can be found within Hamster Chests or by exchanging Emblem cards in the respective Species War. These are available in five different tiers and can be used to build the Hamster Exchange. These materials can be converted into higher or lower tiers at a rate of 5 lower tier materials to 1 higher tier material. Building the Exchange requires ten of each of the three materials in the same tier, and will grant a bonus to the resource collection speed in species war special incidents, and a buff to all minions. After being built, the ability to produce Supply Boxes using Printing Supply will be unlocked. Each instance of producing Supply Boxes for Printing Supply can only be done once.
+
+Each tier gives +1 to All Minion HP, ATK, DEF, and RUSH. <br> Each tier gives All Rocket Cabin production +1%.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Hamster Futures x10<br>T1 Hamster Bond x10<br>T1 Hamster Stock x10<br>T1 Hamster Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +1
+|{{IconText|Military Printing Supply|Military Printing Supply x100|50}}
+|-
+|2
+|T2 Hamster Futures x10<br>T2 Hamster Bond x10<br>T2 Surf Hamster Stock x10<br>T2 Hamster Core x3
+|{{RewardIconWithLink|Hamster Specimen|green}}
+|{{IconText|Military Printing Supply|Military Printing Supply x200|50}}
+|-
+|3
+|T3 Hamster Futures x10<br>T3 Hamster Bond x10<br>T3 Hamster Stock x10<br>T3 Hamster Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +2
+|{{IconText|Military Printing Supply|Military Printing Supply x300|50}}
+|-
+|4
+|T4 Hamster Futures x10<br>T4 Hamster Bond x10<br>T4 Hamster Stock x10<br>T4 Hamster Core x3
+|{{RewardIconWithLink|Front Running|green}}
+|{{IconText|Military Printing Supply|Military Printing Supply x600|50}}
+|-
+|5
+|T5 Hamster Futures x10<br>T5 Hamster Bond x10<br>T5 Hamster Stock x10<br>T5 Hamster Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +3
+|{{IconText|Military Printing Supply|Military Printing Supply x1000|50}}
+|}
+
+==Earthworm Reactor==
+
+Four types of materials, ''Earthworm Fuel Rod'', ''Earthworm Control Rod'', ''Earthworm Penstock'', and ''Earthworm Core'' can be found within Earthworm Chests or by exchanging Emblem cards in the respective Species War. These are available in five different tiers and can be used to build the Earthworm Reactor. These materials can be converted into higher or lower tiers at a rate of 5 lower tier materials to 1 higher tier material. Building the Exchange requires ten of each of the three materials in the same tier, and will grant a bonus to the resource collection speed in species war special incidents, and a buff to all minions. After being built, the ability to produce Supply Boxes using Printing Supply will be unlocked. Each instance of producing Supply Boxes for Printing Supply can only be done once.
+
+Each tier gives +1 to All Minion HP, ATK, DEF, and RUSH. <br> Each tier gives Per 100 Minions in battle, Troop HP Regen +100.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Earthworm Fuel Rod x10<br>T1 Earthworm Control Rod x10<br>T1 Earthworm Penstock x10<br>T1 Earthworm Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +1
+|{{IconText|Standard Printing Supply|Standard Printing Supply x100|50}}
+|-
+|2
+|T2 Earthworm Fuel Rod x10<br>T2 Earthworm Control Rod x10<br>T2 Earthworm Penstock x10<br>T2 Earthworm Core x3
+|{{RewardIconWithLink|Earthworm Specimen|green}}
+|{{IconText|Standard Printing Supply|Standard Printing Supply x200|50}}
+|-
+|3
+|T3 Earthworm Fuel Rod x10<br>T3 Earthworm Control Rod x10<br>T3 Earthworm Penstock x10<br>T3 Earthworm Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +2
+|{{IconText|Standard Printing Supply|Standard Printing Supply x300|50}}
+|-
+|4
+|T4 Earthworm Fuel Rod x10<br>T4 Earthworm Control Rod x10<br>T4 Earthworm Penstock x10<br>T4 Earthworm Core x3
+|{{RewardIconWithLink|Earthworm Codex|green}}
+|{{IconText|Standard Printing Supply|Standard Printing Supply x600|50}}
+|-
+|5
+|T5 Earthworm Fuel Rod x10<br>T5 Earthworm Control Rod x10<br>T5 Earthworm Penstock x10<br>T5 Earthworm Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +3
+|{{IconText|Standard Printing Supply|Standard Printing Supply x1000|50}}
+|}
+
+==Mantis Arena==
+
+Four types of materials, ''Mantis Stake'', ''Mantis Stone Lock'', ''Mantis Sandbag'', and ''Mantis Core'' can be found within Mantis Chests or by exchanging Emblem cards in the respective Species War. These are available in five different tiers and can be used to build the Mantis Arena. These materials can be converted into higher or lower tiers at a rate of 5 lower tier materials to 1 higher tier material. Building the Exchange requires ten of each of the three materials in the same tier, and will grant a bonus to the resource collection speed in species war special incidents, and a buff to all minions. After being built, the ability to produce Supply Boxes using Printing Supply will be unlocked. Each instance of producing Supply Boxes for Printing Supply can only be done once.
+
+Each tier gives +1 to All Minion HP, ATK, DEF, and RUSH. <br> Each tier gives Snail ATK +200.
+{| class="wikitable"
+!Tier
+!Required Materials
+!Available Bonus
+!Printing Supply Cost
+|-
+|1
+|T1 Mantis Stake x10<br>T1 Mantis Stone Lock x10<br>T1 Earthworm Penstock x10<br>T1 Mantis Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +1
+|{{IconText|Military Printing Supply|Military Printing Supply x100|50}}
+|-
+|2
+|T2 Mantis Stake x10<br>T2 Mantis Stone Lock x10<br>T2 Mantis Sandbag x10<br>T2 Mantis Core x3
+|{{RewardIconWithLink|Mantis Specimen|green}}
+|{{IconText|Military Printing Supply|Military Printing Supply x200|50}}
+|-
+|3
+|T3 Mantis Stake x10<br>T3 Mantis Stone Lock x10<br>T3 Mantis Sandbag x10<br>T3 Mantis Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +2
+|{{IconText|Military Printing Supply|Military Printing Supply x300|50}}
+|-
+|4
+|T4 Mantis Stake x10<br>T4 Mantis Stone Lock x10<br>T4 Mantis Sandbag x10<br>T4 Mantis Core x3
+|{{RewardIconWithLink|World's Number One|green}}
+|{{IconText|Military Printing Supply|Military Printing Supply x600|50}}
+|-
+|5
+|T5 Mantis Stake x10<br>T5 Mantis Stone Lock x10<br>T5 Mantis Sandbag x10<br>T5 Mantis Core x3
+|<span style="color:var(--blue-text)">Blue Talent Fruit</span> +3
+|{{IconText|Military Printing Supply|Military Printing Supply x1000|50}}
+|}
+
+==Links to Other Cabins==
+
+* Cabin: [[Domain Device]]
+* Cabin: [[Rebel Device]]
+* Cabin: [[Demon God Device]]
+* Cabin: [[Earth's Will Device]]
+
+[[Category:Rocket]]

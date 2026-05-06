@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Tesla Coil,The Starry Night,Voynich Manuscript,Corinthian Pillar,Gordian Knot
+|rank=purple
+|amount=5
+|category=other
+|description=Lottery Blue Beads turn to Purple by +1.8%
+}}
+[[Category:Other]]
+[[Category:Lottery Bead Color Change]]

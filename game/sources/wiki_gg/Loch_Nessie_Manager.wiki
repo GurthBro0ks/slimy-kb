@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Loch Nessie Manager
+|rank=purple
+|cabin=2
+|id=66
+|gene1={race} DEF +30
+|gene2={race} TECH +30
+|gene3=Per 30 Demon Minions in battle:
+> Troop DEF +8
+|gene4=Demon God Cabin Output +2%
+|gene5=Per 30 Demon Minions in battle:
+> Troop DEF +12
+|gene6=Demon God Cabin Output +3%
+|}}

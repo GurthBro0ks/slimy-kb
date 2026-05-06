@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Saturnus Award
+|class_id=20527
+|rank=Green
+|affct=CIV
+|source=
+|description=The Saturnus Award is a film and television award presented by the Academy of Science Fiction, Fantasy & Horror Films in the United States. The award favors works with breakthroughs and innovative significance, aiming to reward outstanding science fiction and horror films of the year. The nominated films are usually those with considerable influence and big sensations of the year.
+|fame=15
+|art=17
+|fth=15
+|civ=30
+|tech=13
+|ss1=Per 10 Epic Protomon fused, Snail DEF +4<br>Epic Protomon Fused: 200/200
+|ss2=Per 10 Epic Protomon fused, Snail DEF +8<br>Epic Protomon Fused: 200/200
+|ss3=Per 10 Epic Protomon fused, Snail DEF +12<br>Epic Protomon Fused: 200/200
+|ss4=Per 10 Epic Protomon fused, Snail DEF +12<br>Epic Protomon Fused: 200/200
+|ss7=Per 10 Epic Protomon fused, Snail DEF +12<br>Epic Protomon Fused: 200/200<br> (Awakened)
+}}

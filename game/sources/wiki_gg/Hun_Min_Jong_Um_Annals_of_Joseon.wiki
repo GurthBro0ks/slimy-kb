@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=48
+|relics=Hun Min Jong Um,Annals of Joseon
+|rank=blue
+|amount=2
+|category=self
+|description=Per 20 Blue Orbs drawn, Snail RUSH +10;Blue Orbs Drawn: 300/300
+}}

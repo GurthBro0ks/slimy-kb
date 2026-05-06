@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Toumai,Nereid Monument,Adamantium
+|rank=orange
+|amount=3
+|category=self
+|description=Per 100 eggs hatched, Snail ATK +16; Eggs hatched: 3,000/3,000
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]

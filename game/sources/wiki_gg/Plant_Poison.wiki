@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Plant Poison
+|class_id=20485
+|rank=Green
+|affct=FAME
+|source=
+|description=This poison was produced by a plant lover so that she could fuse herself with her favorite plant. As the poison could break down and reorganize cellular functions, she did not only fuse with her beloved plant, but also obtain an ability that was strong enough to kill any living being!
+|fame=32
+|art=15
+|fth=15
+|civ=14
+|tech=14
+|ss1=Snail ATK +20<br>Poison DMG +2
+|ss2=Snail ATK +40<br>Poison DMG +4
+|ss3=Snail ATK +60<br>Poison DMG +6
+|ss4=Snail ATK +60<br>Poison DMG +6
+|ss7=Snail ATK +60<br>Poison DMG +6<br> (Awakened)
+}}

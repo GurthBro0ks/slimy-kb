@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Cryptonite
+|class_id=20040
+|rank=Green
+|affct=TECH
+|source=Defeat [[Mailbox#Ratman|Ratman]]
+|description=This is a unique item in this pay-to-win game. It simply deals a huge amount of damage to certain opponents with off-the-charts stats. This is to level the playing field for all kinds of players because the devs know that the game won't last if recharging can do anything!
+|fame=12
+|art=15
+|fth=16
+|civ=17
+|tech=30
+|ss1=Against Flying Man, DMG +500%<br>Per 1k Tadpole Points, Snail ATK +3<br>Tadpole Points: 20000/20000
+|ss2=Against Flying Man, DMG +500%<br>Per 1k Tadpole Points, Snail ATK +6<br>Tadpole Points: 20000/20000
+|ss3=Against Flying Man, DMG +500%<br>Per 1k Tadpole Points, Snail ATK +9<br>Tadpole Points: 20000/20000
+|ss4=Against Flying Man, DMG +500%<br>Per 1k Tadpole Points, Snail ATK +9<br>Tadpole Points: 20000/20000
+|ss7=Against Flying Man, DMG +500%<br>Per 1k Tadpole Points, Snail ATK +9<br>Tadpole Points: 20000/20000<br> (Awakened)
+}}

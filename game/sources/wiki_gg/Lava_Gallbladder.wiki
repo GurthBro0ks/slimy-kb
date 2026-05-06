@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Lava Gallbladder
+|type=Common
+|rank=blue
+|id=10810
+|idx=11
+|description=A gallbladder of purgatory demons. Their food comes from hot lava, and as time goes by, the gallbladder that assists digestion gradually turns into lava.
+|skill=
+|hp=980
+|def=84
+|atk=134
+|rush=101
+|gene1=Per 10k Cells consumed, {race} HP +100
+Cells Consumed: 300000/300000
+|gene2=Fire RES +30
+|gene3=Against Daily Hitmen, {race} HP +200
+|gene7=Fire RES +90 (Awakened)
+|}}

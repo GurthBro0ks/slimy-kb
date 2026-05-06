@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=521
+|relics=Quantum Foam,The Works of Nature
+|rank=orange
+|amount=2
+|category=self
+|description=Per Ma'at Tablet LVL, Snail ATK +7;Ma'at Tablet Upgraded: 30/30
+}}

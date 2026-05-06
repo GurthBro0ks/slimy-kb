@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=528
+|relics=Wealth Magazine Vol.1,Suger's Eagle,Panther Brooch
+|rank=orange
+|amount=3
+|category=self
+|description=Dragon Minion MAX +8
+}}

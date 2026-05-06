@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Twin Lions Lantern
+|class_id=22112
+|rank=AA
+|affct=FAME
+|birthday=06-14
+|source=
+|description=On Jun 14, 1208 AD, the Twin Lions Lantern was declared a national treasure by the King of Korea.<br>The Twin Lions Lantern is located in the Godal Temple. It's the oldest and most unique stone carving of Korean Lions. The lions stand facing each other, with their front paws supporting the octagonal lantern. Their back legs are standing on an octagonal stone slab. Both stone slabs are engraved with lotus flower totems, symbolizing the blessings of the Buddha repelling disasters.
+|fame=70
+|art=33
+|fth=35
+|civ=42
+|tech=48
+|ss1=Dragon Gene Research B-tad Cost -1.2%<br>Per 5 Dragon Gene LVLs, Snail HP +40<br>Dragon Gene LVLs Researched: 100/100
+|ss2=Dragon Gene Research B-tad Cost -1.8%<br>Per 5 Dragon Gene LVLs, Snail HP +60<br>Dragon Gene LVLs Researched: 100/100
+|ss3=Dragon Gene Research B-tad Cost -2.4%<br>Per 5 Dragon Gene LVLs, Snail HP +80<br>Dragon Gene LVLs Researched: 100/100
+|ss4=Dragon Gene Research B-tad Cost -3.6%<br>Per 5 Dragon Gene LVLs, Snail HP +120<br>Dragon Gene LVLs Researched: 100/100
+|ss5=Dragon Gene Research B-tad Cost -4.8%<br>Per 5 Dragon Gene LVLs, Snail HP +160<br>Dragon Gene LVLs Researched: 100/100
+|ss7=Dragon Gene Research B-tad Cost -4.8%<br>Per 5 Dragon Gene LVLs, Snail HP +160<br>Dragon Gene LVLs Researched: 100/100<br>Dragon Gene Research B-tad Cost -4.2% (Awakened)
+|skill1=[[File:Koryeo skill II.png|50px]]Place in Koryeon Museum: This Relic's FAME +10
+|skill2=[[File:Koryeo skill II.png|50px]]Place in Koryeon Museum: In Koryeo, Zombie Cells gained +15%
+}}

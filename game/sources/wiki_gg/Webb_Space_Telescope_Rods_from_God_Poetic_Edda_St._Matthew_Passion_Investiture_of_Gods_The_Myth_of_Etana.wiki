@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=752
+|relics=Webb Space Telescope,Rods from God,Poetic Edda,St. Matthew Passion,Investiture of Gods,The Myth of Etana
+|rank=orange
+|amount=6
+|category=self
+|description=Catalyzed Purple Spores turn to Orange by +1.2%
+}}

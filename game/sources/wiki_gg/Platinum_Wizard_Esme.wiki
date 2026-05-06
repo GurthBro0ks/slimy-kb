@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Platinum Wizard Esme
+|rank=red
+|cabin=1
+|id=1020
+|gene1={race} HARD +50
+|gene2={race} AFFCT +50
+|gene3=For Round 1, DMG +2.5%
+|gene4=Per 60 Minions in battle:
+> Troop Fire DMG +6
+|gene5=Crit DMG +0.9%
+|gene6=Per 60 Minions in battle:
+> Troop Fire DMG +10
+|gene7=Crit DMG +1.5%
+|}}

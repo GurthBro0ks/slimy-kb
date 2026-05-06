@@ -1,0 +1,718 @@
+[[File:Altar.jpg|frameless|left]]
+
+==Altar==
+
+The Divine Altar is a key mechanic in Super Snails. Here you can offer souls, wish to the Divine Dragon, meet gods, and encounter a variety of strange characters. Initially, there are 4 slots where you can offer 1 item in each slot. Each offering gives a certain percentage to a total of 100%, and once 100% is reached a god is summoned. These rewards are listed below. Once the sword is pulled from the stone (see Excalibra), 5 new slots are opened up at the altar for offerings although any 48h offerings cannot be placed here.
+
+==Offerings and Divine Chests==
+The types of offerings that can be made are souls, {{RewardIconWithText|Dragon Orb}}, {{RewardIconWithText|Mahakala's Offering}}, and Gaia's organs. Each item has a variety of effects. Most souls are offered to the Pantheon, though some unique items are offered to a specific entity. Unique events and offerings are listed farther below.  
+
+===Offering Speedup===
+Offering Speedup can be used to speedup the time of your offerings, either the soul currently being offered or everything being offered. Offering Speedup can be bought from: 
+{| class="wikitable"
+!Source
+!Price
+!Total Speedup
+|-
+|[[Vending Machine]]
+|600 W-Tads
+|10h
+|-
+|Daily Task
+|Submit 1 offering
+|1h
+|-
+|Daily Task
+|Use Wonder Fungus 1 time
+|1h
+|}
+
+===Souls and Unique Offerings===
+There are 3 types of souls: Order, Neutral, and Chaos. Yellow souls correspond to Order, blue for Neutral, and red for Chaos. 
+
+There are over 300 different souls that can be acquired, each relating to a defeated enemy. Some are simple enemies encountered during explorations (such as the Cultist in Koryeo) while others can be more complicated such as [[Fugitives|Agents]] or [[Hitmen]] or [[Mailbox|Invaders]]. Overall, each new soul type gives a bonus when offered for the first time.
+
+===Souls===
+{| class="wikitable"
+!Offering
+!Offering time
+!Percentage added to total
+!Reward
+|-
+|{{RewardIconWithLink|Dragon Orb|orange}}
+|48h
+|100% to Divine Dragon
+|A Dragon wish
+|-
+|{{RewardIconWithText|Mahakala's Offering}}
+|48h
+|100% to Mahakala
+|(see below)
+|-
+|{{RewardIcon|Soul I}}Small Soul
+|1h
+|2% to the Pantheon
+|rowspan="4"|'''Green'''{{RewardIconWithText|Divine Neutral Chest}}<br>'''Yellow'''{{RewardIconWithText|Divine Order Chest}}<br>'''Red'''{{RewardIconWithText|Divine Chaos Chest}}
+|-
+|{{RewardIcon|Soul II}}Medium Soul
+|2h
+|4% to the Pantheon
+|-
+|{{RewardIcon|Soul III}}Large Soul
+|4h
+|8% to the Pantheon
+|-
+|{{RewardIcon|Soul IV}}Extra Large Soul
+|8h
+|16% to the Pantheon
+|}
+
+===Unique Offerings===
+{| class="wikitable"
+!Offering
+!Source
+!Rewards
+|-
+|Anything in [[Angel Form]]
+|Any soul that isn't Mahakala or a Dragon Orb
+|Summons the Gate of Heaven and provides "Faith Aura" for [[Evolution|Angel Form]] T5 Ritual requirements 
+|-
+|{{RewardIconWithText|Gaia's Tainted R Hand}}
+|Defeat [[Hitmen|Hitman No.22]]
+|{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|-
+|{{RewardIconWithText|Gaia's Tainted Stomach}}
+|Defeat [[Hitmen|Hitman No.23]]
+|{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|-
+|{{RewardIconWithText|Gaia's Tainted Hair}}
+|Defeat [[Hitmen|Hitman No.25]]
+|{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|-
+|{{RewardIconWithText|Tainted L Hand of Gaia}}
+|Defeat [[Hitmen|Hitman No.42]]
+|{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|-
+|{{RewardIconWithText|Tainted Lungs of Gaia}}
+|Defeat [[Hitmen|Hitman No.43]]
+|{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|-
+|{{RewardIconWithText|Tainted Tooth of Gaia}}
+|Defeat [[Hitmen|Hitman No.44]]
+|{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|-
+|{{RewardIconWithText|Tainted Liver of Gaia}}
+|Defeat [[Fissure#3,000-6,999-0|Hitman No.24 at Fissure 3,210]]
+|{{RewardIconWithGearlink|orange|Material|Crystal of Will}}
+|-
+|{{RewardIconWithText|Broken Dragon's Horn}}
+|Clear [[Cathay Domain]] Tile 88
+|{{RewardIconWithLink|Drake Rattle|green}}
+|}
+
+===Discount Dragon===
+The Discount Dragon will show up when you offer dragon orbs and one of offer two random wishes. After 15 offerings this will increase to three random wishes. These will show up in random order/determination and cannot be affected so make sure you know what you're picking! Some wishes have a very low chance to appear and are beneficial, so be careful what you wish for. 
+
+====One time wishes====
+{| class="wikitable sortable"
+!Dragon Wish
+!Reward
+!Notes
+|-
+|"Are you really a dragon?"
+|Tadpole Box ({{RewardIconWithText|B-Tad, +20k}} and {{RewardIconWithText|W-Tad, +1k}})<br>Food Box ({{RewardIconWonderFungusWithText|Purple, +3|NoStat|purple}} of each type, Food +200)<br>Speed Box ({{RewardIconWithText|Travel Speedup, +2h}}, {{RewardIconWithText|Offering Speedup, +2h}}, and {{RewardIconWithText|Gene Speedup, +2h}})
+|
+|-
+|"Enhance Slug Dragonling!"
+|Obtain {{RewardIconWithLink|Dragon Radar|green}}, used to get [[Slug Dragon Tutor]]
+|Available after T6 Dragon is acquired
+|-
+|"Give me power"
+|{{RewardIconWithText|Fairy Dragon Power}}
+|This is necessary to ascend [[Evolution|Dragon Form]] to the next tier starting from T5.
+|-
+|"I wanna see the GM!"
+|Game Manager unique event<br>{{RewardIconWithLink|GM T-Shirt|blue}}
+|This is strongly recommended as the chances for it to appear are very low and the avatar it rewards is required in the Yamato Domain
+|-
+|"I want girl power!"
+|Gain {{RewardIconWithText|Unknown Magic Potion}} which turns [[Big Guy Park]] female
+|When female, [[Big Guy Park]] turns into Big Gal Park, who offers an organ as rent. This is recommended
+|-
+|"I'm Done Being Snail!"
+|{{RewardIconWithLink|King's New Clothes|purple}}
+|Boosts: ART, RUSH, Wind DMG in [[Dragon Form]], and ATK in [[Cathay]]
+|-
+|"I'm going to quit the game!"
+|{{RewardIconWithLink|Save Kim Chi-yum|black|Minigames}}
+|
+|-
+|"Kill Demon Gods for me!"
+|{{RewardIconWithLink|Dragon Orb|orange}}<br>{{RewardIconWithText|Offering Speedup, +2d}}
+|
+|-
+|"Strengthen my willpower!"
+|{{RewardIconGeneSegment|Succubus}}
+|Very rare chance to see this. Make sure to get it!
+|-
+|"You're not fake, are you?"
+|{{RewardIconWithText|Dragonian - Time}} ({{Retext|Use to get random speedups|blue}})<br>{{RewardIconWithText|Dragonian - Growth}} ({{Retext|Use to get all kinds of Fungi|blue}})<br>{{RewardIconWithText|Dragonian - Multiply}} ({{RewardIconWithText|B-Tad, +20k}} and {{RewardIconWithText|W-Tad, +1k}})
+|-
+|"Change My Destiny"
+|{{RewardIconWithText|Immortal Celestail Blueprint}}
+Engineering Parts +5 {{RewardIconWithText|Engineering Parts}}
+| This vehicle permanently increases your chances of getting a 5-fire descent
+|-
+|}
+
+====Relics and Gear====
+These items can only be obtained from the Dragon, and it is strongly recommended to get these items when they appear.
+{| class="wikitable"
+!Dragon Wish
+!Reward
+!Notes
+|-
+|"Beat it, I need nothing!"
+|{{RewardIconWithLink|Dragon Radar|green}}
+|
+|-
+|rowspan="3"|"Give me something to eat"
+|{{RewardIconWithLink|Mutated Potato|green}}
+|A ''chance'' to trigger a fight with [[#Unique Events|Potatain]]
+|-
+|{{RewardIconWithLink|Mutated Pea|green}}
+|A ''chance'' to trigger a fight with [[#Unique Events|Pearrior]]
+|-
+|{{RewardIconWithLink|Mutated Corn|green}}
+|A ''chance'' to trigger a fight with [[#Unique Events|Cornon]]
+|-
+| rowspan="4" |"Give me the best gear!"<br>Gives 1 of 4 [[Gear]]s needed to make<br>{{RewardIconWithGearlink|red|Instrument|Blair's Curse}}
+|{{RewardIconWithGearlink|green|Instrument|Hannibel's Scalpel}}
+|
+|-
+|{{RewardIconWithGearlink|green|Instrument|Jack's Gloves}}
+|
+|-
+|{{RewardIconWithGearlink|blue|Instrument|Jason's Mask}}
+|
+|-
+|{{RewardIconWithGearlink|purple|Instrument|Cayako's Charm}}
+|
+|-
+|"I wanna become stronger!"
+|{{RewardIconWithLink|Demon God Cell Residue|green}}
+|A ''chance'' to get the relic
+|-
+|"I wanna play basketball!"
+|{{RewardIconWithLink|Shohuko Basketball|green}}
+|
+|-
+| rowspan="6" |"I want your collection!"
+Gives 1 of 6 [[Relics]],<br>{{RewardIconWithText|Green Reagent, +50|green}}, and<br>{{RewardIconWithText|Blue Reagent, +30|blue}}
+|{{RewardIconWithLink|Annabel|green}}
+|
+|-
+|{{RewardIconWithLink|Crying Boy|green}}
+|
+|-
+|{{RewardIconWithLink|Death Vase|green}}
+|
+|-
+|{{RewardIconWithLink|Gloomy Sunday|green}}
+|
+|-
+|{{RewardIconWithLink|Haunted Cabinet|green}}
+|
+|-
+|{{RewardIconWithLink|Somersault Cloud|orange}}
+|Must complete the Somersault Cloud unique event first (see below)
+|}
+
+====Repeatable wishes====
+{| class="wikitable sortable"
+!Dragon Wish
+!Reward
+!Notes
+|-
+|"Can't I run faster?"
+|{{RewardIconWithText|Travel Speedup, +9h}}
+|
+|-
+|"Give me something to eat"
+|Repeat reward chance:
+* {{RewardIconWonderFungusWithText|Purple, +2 Random|NoStat|purple}}
+* {{RewardIconWonderFungusWithText|Orange, +1 Random|NoStat|orange}}
+Or a rare chance to have a unique fight that rewards one of the following relics:
+* {{RewardIconWithLink|Mutated Pea|green}}
+* {{RewardIconWithLink|Mutated Potato|green}}
+* {{RewardIconWithLink|Mutated Corn|green}}
+|The 3 Relics are obtained after fighting [[#Unique Events|Pearrior]], [[#Unique Events|Potatain]], or [[#Unique Events|Cornon]]
+|-
+|"I need building materials!"
+|{{RewardIconWithText|Wood, +5k}}<br>{{RewardIconWithText|Stone, +5k}}
+|
+|-
+|"I need shell service!" / "Polish my wings!" (text depending on your species)
+|{{RewardIconWithText|Green Coating, +900|green}}
+|The first time you wish this you will also receive a <br>{{RewardIconWithText|Healthcare Set}} which rewards:
+* [[Shells|Unlocks Bionic Part upgrades]]
+* {{RewardIconWithText|Green Coating|green}} +100
+* {{RewardIconWithText|Blue Coating|blue}} +50
+* {{RewardIconWithText|Purple Coating|purple}} +30
+|-
+|"I need to enhance Godhood!"
+|{{RewardIconWithText|Form Emblem, +30}}<br>{{RewardIconWithText|Glorium, +100}}<br>{{RewardIconWithText|Amber, +10k}}
+|
+|-
+|"I need to evolve faster!"
+|{{RewardIconWithText|Gene Speedup, +18h}}
+|
+|-
+|"I wanna become richer!"
+|{{RewardIconWithText|B-Tad, +90k}}
+|
+|-
+|"I wanna become stronger!"
+|There are four Spittles of Dragon:
+* {{RewardIconWithText|Spittle of Dragon (Blue)|blue}} (Snail RUSH +20)
+* {{RewardIconWithText|Spittle of Dragon (Green)|green}} (Snail DEF +20)
+* {{RewardIconWithText|Spittle of Dragon (Red)|red}} (Snail HP +200)
+* {{RewardIconWithText|Spittle of Dragon (Yellow)|yellow}} (Snail ATK +20)
+3 types of Spittle will be selected and you will be rewarded with 5 Spittles total.
+|Instead of Spittle of Dragon, you could be rewarded with one of the following one-time incidents:
+* {{RewardIconGeneSegment|Super Slug}}
+* {{RewardIconWithLink|Demon God Cell Residue|green}}
+* Spawn a Demon God mutant cell to fight (rewards 5k of that type of cell)
+|-
+|"I wanna win the jackpot!"
+|{{RewardIconWithLink|Lottery Ticket, +9|orange}}
+|
+|-
+|"I want more Glues!"
+|{{RewardIconWithLink|Glue, +90}}
+|
+|-
+|"Make me prettier!"
+|{{RewardIconWithLink|Toner, +60}}
+|
+|-
+|"More organs!"
+|{{RewardIconWithLink|Divine Dragon Biceps, +20|purple}}
+|
+|-
+|"Purchase goodies for me!"
+|{{RewardIconWithText|W-Tad, 1.8k}}
+|
+|-
+|"Upgrade my organs!"
+|{{RewardIconWithLink|Organ Chest, +120}}
+|
+|-
+|"Upgrade my relics!"
+|{{RewardIconWithText|Green Reagent, +100|green}}<br>{{RewardIconWithText|Blue Reagent, +100|blue}}<br>{{RewardIconWithText|Purple Reagent, +100|purple}}
+|
+|}
+
+===Divine Dragon===
+The Divine Dragon shows up every 5 dragon offerings and gives unique rewards and events. After 15 Dragon Orbs, there will be a change... 
+{| class="wikitable"
+!Dragon Orb Offerings
+!Rewards
+|-
+|5
+|{{RewardIconWithLink|Key Client Pack|orange}}<br>{{RewardIconWithText|Basic Dragon Crystal}} ({{RewardIconWithText|Green Reagent, +100|green}}, {{RewardIconWithText|Blue Reagent, +100|blue}})
+|-
+|10
+|{{RewardIconWithLink|Key Client Pack|orange}}<br>{{RewardIconWithLink|Red Dragon Egg|orange}}
+|-
+|15
+|[[Mailbox#Dragon Jr.|Dragon Jr.]] Storyline <br>{{RewardIconWithLink|Crimson Dragon Scale, +3|purple}}<br>{{RewardIconWithGearlink|purple|Form|Crimson Dragon Claw}}
+|-
+|16
+|{{RewardIconWithLink|Key Client Pack, +3|orange}}
+|}
+
+==Gods of the Pantheon==
+Every time 100% is reached on the altar (besides Mahakala and the Divine Dragon), a god from the Pantheon will appear. Most of the time, it'll be [[Earth's Will]] but there is a chance for it to be other gods. Mostly, this is up to chance. Once every god is unlocked, the entire Pantheon will appear.
+{| class="wikitable"
+!God
+!Requirements
+!1st time reward
+!Subsequent rewards
+|-
+|[[Earth's Will]]
+|
+|
+|Divine Chests, food
+|-
+|Mahakala
+|{{RewardIconWithText|Mahakala's Offering}} (from [[Lottery Machine|Jinx Points]] or Chat "Never Lucky" pack)
+|{{RewardIconWithLink|Mahakala Statue|green}}<br>{{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|{{RewardIconWithLink|Lottery Ticket|orange}}
+|-
+|God of Art
+| rowspan="6" |After summoning [[Earth's Will]] 3+ times, 11.7% chance
+|{{RewardIconWithLink|The Starry Night, +20|purple}}
+|{{RewardIconWithLink|ART Master Scroll|orange}}
+|-
+|God of Culture
+|{{RewardIconWithLink|Shakespeare Scripts, +20|purple}}
+|{{RewardIconWithLink|CIV Master Scroll|orange}}
+|-
+|God of Faith
+|{{RewardIconWithLink|Hermes' Coin, +20|purple}}
+|{{RewardIconWithLink|FTH Master Scroll|orange}}
+|-
+|God of Fame
+|{{RewardIconWithLink|Platinum Record, +20|purple}}
+|{{RewardIconWithLink|FAME Master Scroll|orange}}
+|-
+|God of Technology
+|{{RewardIconWithLink|Ark Reactor, +20|purple}}
+|{{RewardIconWithLink|TECH Master Scroll|orange}}
+|-
+|God of Time
+|{{RewardIconWithLink|Time Chest, +500}}
+|Speedups
+|-
+|Altar Pantheon
+|Small chance to appear once each of the AFFCT gods have been summoned at least once
+|{{RewardIconWithLink|The Five Fortunes|green}}<br>{{RewardIconWithText|W-Tad, +1k}}
+|{{RewardIconWithText|B-Tad, +50k}}<br>{{RewardIconWithLink|Lottery Ticket, +3|orange}}<br>{{RewardIconWithText|Offering Speedup, +6h}}<br>{{RewardIconWithLink|Wish Coin, +1|orange}}
+|-
+|God of Strength
+|Defeat [[Hitmen|Hitman No.1]]
+|{{RewardIconWithLink|Strength Crystal|orange}}<br>{{RewardIconWithLink|Sword Immortal|green}}
+|{{RewardIconWithLink|Organ Chest}}
+|-
+|God of Whales
+|Defeat [[Hitmen|Himan No.15 EX]]
+|{{RewardIconWithText|B-Tad, +99.9k}}<br>{{RewardIconWithLink|VVVVIP Card|green}}
+|{{RewardIconWithText|W-Tad}}
+|}
+
+==Unique Events==
+There are unique events that can occur at the altar, listed below.
+
+Note that pulling the sword from the stone to summon Excalibra requires 10k of each AFFCT (roughly 1.5m power total) and opens up 5 new offering slots at the altar. These new slots cannot take any 48h offerings like the dragon orb. 
+
+Also, there are rewards for pulling the sword: 
+* {{RewardIconWithLink|Holy Sheath|green}}
+* {{RewardIconWithText|B-Tad, +50k}}
+* {{RewardIconWithText|Stone, +5k}}
+* {{RewardIconWithText|W-Tad, 500}}
+* {{RewardIconWithText|Wood, +5k}}
+
+{| class="wikitable"
+!Event
+!Trigger
+!ATK
+!DEF
+!HP
+!Weakness
+!Rewards
+|-
+|Cayako
+|Wish "Give me your best gear!"
+|52,081
+|17,262
+|260,328
+|AFFCT 4,320
+|{{RewardIconWithGearlink|purple|Instrument|Cayako's Charm}}<br>{{RewardIconWithText|W-Tad, +500}}
+|-
+|Cornon
+|Wish "Give me something to eat!"
+|60,342
+|22,301
+|379,259
+|AFFCT 1,530
+|{{RewardIconWithLink|Mutated Corn|green}}
+|-
+|Excalibra
+|Pull the sword from the altar, requires 10k of each AFFCT
+|80,000 
+|70,000 
+|1,200,000
+|AFFCT 118,020
+|{{RewardIconWithLink|Gear Chest, +100}}
+|-
+|Game Manager
+|Wish "I want to meet the GM!"
+|24,021
+|7,839
+|104,896 
+|AFFCT 14,100
+|{{RewardIconWithLink|GM T-Shirt|blue}}<br>{{RewardIconWithText|W-Tad, +500}}
+|-
+|Pearrior
+|Wish "Give me someting to eat!"
+|59,399
+|21,960
+|375,781
+|AFFCT 1,530
+|{{RewardIconWithLink|Mutated Pea|green}}
+|-
+|Potatain
+|Wish "Give me something to eat!"
+|59,768
+|22,044
+|376,797
+|AFFCT 1,530
+|{{RewardIconWithLink|Mutated Potato|green}}
+|-
+|Somersault Cloud
+|Wish "I want your collection!"
+|62,600
+|18,771
+|305,552
+|AFFCT 3,900
+|{{RewardIconWithText|Orange Reagent|orange}} +10<br>{{RewardIconWithLink|Somersault Cloud|orange}}
+|-
+|Demon God Cells
+|rowspan="3"|Wish "I wanna become stronger!"
+|41,340
+|15,919
+|240,927
+|
+|{{RewardIconWithText|Demon Cell, +5k}}
+|-
+|Zombie Cell
+|
+|
+|
+|
+|{{RewardIconWithText|Zombie Cell, +5k}}
+|-
+|Mutant Cell
+|
+|
+|
+|
+|{{RewardIconWithText|Mutant Cell, +5k}}
+|}
+
+==Weekly Offering Event==
+[[File:Offering Week Poster.png|200px|right|alt=Offering Week]]
+Every week is one of three [[Weekly Events]], one of which is Offering Week. During this week, the more you offer, the more you get! While the general structure of each Offering Event is the same, the rewards vary from week to week. Specifically, different Event Souls and Relics can be obtained through Earth's Will and Crystal Boom. 
+
+'''This information is accurate for the week of:''' October 6 - October 12
+
+=== Suggested Strategies===
+* Save, save, save! Just like with the other weekly events, make sure you're hoarding all your {{RewardIconWithText|Offering Speedup}}, {{RewardIconWithText|Dragon Orb}}, {{RewardIconWithText|Mahakala's Offering}}, and your best souls.
+
+*The event also gives extra points for opened Dragon Chests and Divine Order, Neutral, and Chaos Chests. Only open these during Offering Week!
+
+*For your daily tasks, offer the weakest of souls. Specifically, the 2% souls. You can buy these for super cheap from the Vending Machine and hoard all the best 80% souls for the right time.
+
+*Offer all your 48h offerings starting during '''Lottery Week'''. Yep, that's right! Since they take so long, it's recommended to offer them on the Thursday during Lottery Week so as not to waste all of your hard-earned, hard-saved Offering Speedup. For those who have pulled the sword from the stone (See Excalbara), four 48h items can be offered. For those who have *not* pulled the sword, only three 48h items should be offered so the Daily Tasks can still be completed. Just be careful not to claim them  yet! 
+
+*Hours only count when you claim them! All souls can be offered in advance!
+
+===Mystic Ritual===
+1h of Offering = 1 Point. There are 5 rounds total. Each round requires 240 Offering Points and gives 1,100 Spirit Crystals plus other rewards. Completing all five rounds will require 1,200 Offering Hours and awards 5,500 Spirit Crystals.
+
+{| class="wikitable"
+!Tier
+!Cost
+!Reward
+|-
+|rowspan="3" |I
+|rowspan="3" |60 Offering Points
+|{{RewardIconWithText|Spirit Crystal, +150 (150 total for the round)}}
+|-
+|{{RewardIconWithLink|Novice Scroll, +20|blue}}
+|-
+|{{RewardIconWithLink|Wish Coin, +1|orange}}
+
+|-
+|rowspan="3" |II
+|rowspan="3" |90 Offering Points
+|{{RewardIconWithText|Spirit Crystal, +150 (300 total for the round)}}
+|-
+|{{RewardIconWithLink|Expert Scroll, +20|purple}}
+|-
+|{{RewardIconWithLink|Wish Coin, +1|orange}}
+
+|-
+|rowspan="3" |III
+|rowspan="3" |120 Offering Points
+|{{RewardIconWithText|Spirit Crystal, +160 (460 total for the round)}}
+|-
+|{{RewardIconWithLink|Expert Scroll, +20|purple}}
+|-
+|{{RewardIconWithLink|Wish Coin, +2|orange}}
+
+|-
+|rowspan="3" |IV
+|rowspan="3" |150 Offering Points
+|{{RewardIconWithText|Spirit Crystal, +180 (640 total for the round)}}
+|-
+|{{RewardIconWithLink|Expert Scroll, +40|purple}}
+|-
+|{{RewardIconWithLink|Wish Coin, +2|orange}}
+
+|-
+|rowspan="3" |V
+|rowspan="3" |180 Offering Points
+|{{RewardIconWithText|Spirit Crystal, +210 (850 total for the round)}}
+|-
+|{{RewardIconWithLink|Master Scroll, +40|orange}}
+|-
+|{{RewardIconWithLink|Wish Coin, +2|orange}}
+
+|-
+|rowspan="3" |VI
+|rowspan="3" |240 Offering Points
+|{{RewardIconWithText|Spirit Crystal, +250 (1.1k total for the round)}}
+|-
+|{{RewardIconWithLink|Relic RF, +10|orange}}
+|-
+|{{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|}
+
+===Crystal Boom===
+Crystal Boom rewards Spirit Crystal for doing certain things. Spend these for rewards!<br>1 Spirit Crystal = 100 B-Tads
+
+====Spirit Crystal Source====
+{| class="wikitable"
+!Source
+!Reward per completion 
+!Maximum completions
+!Maximum Spirit Crystals
+|-
+|Daily Offering Bonus in Vending Machine||{{RewardIconWithText|Spirit Crystal, +100}}||7 purchases||700
+|-
+|Mystic Ritual||{{RewardIconWithText|Spirit Crystal, +1.1k per round}}||5 rounds||5,500
+|-
+|Buy an Event Pack||Varies||colspan=2|6 total packs with varying amounts
+|-
+|{{RewardIcon|Divine Order Chest}} Open 1 Order Chest||{{RewardIconWithText|Spirit Crystal, +80}}||5 Chests||400
+|-
+|{{RewardIcon|Divine Neutral Chest}} Open 1 Neutral Chest||{{RewardIconWithText|Spirit Crystal, +80}}||5 Chests||400
+|-
+|{{RewardIcon|Divine Chaos Chest}} Open 1 Chaos Chest||{{RewardIconWithText|Spirit Crystal, +80}}||5 Chests||400
+|-
+|{{RewardIcon|Dragon Chest}} Open 1 Dragon Chest||{{RewardIconWithText|Spirit Crystal, +400}}||1 Chest||400
+|-
+|{{RewardIcon|Offering Speedup}} Use 1h of Offering Speedup||{{RewardIconWithText|Spirit Crystal, +6}}||200 Speedup Hours||1,200
+|}
+
+====Crystal Boom Rewards====
+{| class="wikitable"
+!Tier
+!Cost 
+!Reward
+!Extra Offering Spedup Rewarded
+
+|-
+|rowspan="3" |I
+|rowspan="3" | 500 {{RewardIconWithText|Spirit Crystal}}
+|{{RewardIconWithText|Novice Alchemy Case, +5}}
+|rowspan="3" |{{RewardIconWithText|Offering Speedup, +2h}}
+|-
+|{{RewardIconWithLink|Novice Scroll, +20|blue}}
+|-
+|{{RewardIconWithText|B-Tad, +50k}}
+
+|-
+|rowspan="3" |II 
+|rowspan="3" |1,000 {{RewardIconWithText|Spirit Crystal}} 
+|{{RewardIconWithText|W-Tad, +1k}}
+|rowspan="3" |{{RewardIconWithText|Offering Speedup, +4h}}
+|-
+|{{RewardIconWithLink|Expert Scroll, +30|purple}}
+|-
+|{{RewardIconWithLink|Divine Chaos Chest, +20|red}}
+
+|-
+|rowspan="3" | III
+|rowspan="3" |1,500 {{RewardIconWithText|Spirit Crystal}} 
+|{{RewardIconWithText|Toner, +150}}
+|rowspan="3" |{{RewardIconWithText|Offering Speedup, +6h}}
+|-
+|{{RewardIconWithLink|Incense, +1|orange}}
+|-
+|This week: {{RewardIconWithLink|Ark of Covenant|orange}}
+
+|-
+|rowspan="3" | IV
+|rowspan="3" |3,000 {{RewardIconWithText|Spirit Crystal}} 
+|{{RewardIconWithGearlink|orange|Material|Abyss Wings}}
+|rowspan="3" |{{RewardIconWithText|Offering Speedup, +12h}}
+|-
+|{{RewardIconWithLink|Golden Pickaxe, +12|orange}}
+|-
+|This week: {{RewardIconWithLink|Das Kapital|orange}}
+
+|-
+|rowspan="5" |V
+|rowspan="3" |5,000 {{RewardIconWithText|Spirit Crystal}} 
+|{{RewardIconWithText|B-Tad, +500k}}
+|rowspan="5" |{{RewardIconWithText|Offering Speedup, +20h}}
+|-
+|{{RewardIconWithText|Organ Slime, +800}}
+|-
+|{{RewardIconWithText|Blue Coating, +500|blue}}
+|-
+|Unlock all three within Set A for:
+|This week: {{RewardIconWithLink|Athena Statue|orange}}
+
+|-
+|Unlock all three within Set B for:
+|This week: {{RewardIconWithLink|Deep Navy Computer|orange}}
+|}
+
+====How Many Spirit Crystals Do I Need?====
+=====3,000 Spirit Crystal Reward=====
+To get the '''3,000 Spirit Crystal Reward''' you will need a total of '''6,000 Spirit Crystals''' to buy the previous rewards. The least amount of offering time you will need to do this is '''570 hours'''.
+* '''Complete all of the supplemental rewards:''' 2,800 Spirit Crystals
+* '''Purchase all 7 Offering Bonuses:''' 700 Spirit Crystals
+* '''Complete Two Rounds (240 Offering Hours each):''' 2,200 Spirit Crystals
+* '''90 additional Offering Points:''' 300 Spirit Crystals
+* '''Total:''' 6,000 Spirit Crystals [Optionally you can also purchase the 100 W-Tad Event Pack for an additional 100 Spirit Crystals.]
+
+=====Two 3,000 Spirit Crystal Rewards=====
+To get two '''3,000 Spirit Crystal Rewards''' you will need a total of '''9,000 Spirit Crystals.''' This can be achieved by completing all five rounds in the Mystic Ritual and acquiring all other sources of Spirit Crystals. Completing five rounds of Mystic Ritual requires '''1,200 hours''' of offering time.
+* '''Complete all of the supplemental rewards:''' 2,800 Spirit Crystals
+* '''Purchase all Seven Offering Bonuses:''' 700 Spirit Crystals
+* '''Complete all Five Rounds (240 Offering Hours each):''' 5,500 Spirit Crystals
+* '''Total:''' 9,000 Spirit Crystals [Optionally you can also purchase the 100 W-Tad Event Pack for an additional 100 Spirit Crystals.]
+
+=====5,000 Spirit Crystal Reward=====
+Currently it is not possible to get the '''5,000 Spirit Crystal Reward''' without spending real money. The most you can earn without spending money is '''9,000 Spirit Crystals''' which will allow you to buy two '''3,000 Spirit Crystal Rewards'''
+
+===Wishes and Rewards===
+Earth's Will gives some extra wish options during Offering Week, though you can only choose 3! During each event, a special orange Relic and unique soul is chosen by the developer team, so hopefully luck is on your side!
+
+Each wish is accompanied by 1 of the 3 types of Divine Chest +30, until you've gotten each type. Check "Altar Miracles" under your Weekly Event tab to keep track.
+{| class="wikitable"
+!Wish
+!Reward
+|-
+|"Can I keep making wishes?"
+|{{RewardIconWithLink|Divine Neutral Chest, +30|green}}<br>{{RewardIconWithText|W-Tad, +3k}}
+|-
+|"Finish the event!"
+|{{RewardIconWithLink|Divine Chaos Chest, +45|red}}<br>{{RewardIconWithLink|Divine Neutral Chest, +45|green}}<br>{{RewardIconWithLink|Divine Order Chest, +45|yellow}}
+|-
+|"Give me Divine Chests!"
+|{{RewardIconWithLink|Divine Order Chest, +90|yellow}}
+|-
+|"I need a powerful soul!" 
+|This week: Soul of Developer
+|-
+|"I want offering speedups!"
+|{{RewardIconWithLink|Divine Neutral Chest, +30|green}}<br>{{RewardIconWithText|Offering Speedup, +1d}}
+|-
+|"I want your Relics!"
+|{{RewardIconWithLink|Divine Neutral Chest, +30|green}}<br>This Week's SS Relic: {{RewardIconWithLink|Remains of Sipán Lord|orange}}
+|-
+|"Why do you collect souls?"
+|{{RewardIconWithLink|Divine Neutral Chest, +30|green}}<br>{{RewardIconWithLink|Wish Coin, +5|orange}}
+|}
+
+===Accompanying Event===
+[[Observatory Event]]
+
+[[Category:Altar]]
+[[Category:Events]]

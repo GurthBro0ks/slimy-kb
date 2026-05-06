@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Food Safety Certificate
+|class_id=20942
+|rank=Green
+|affct=FAME
+|source=
+|description=Issued by the Food Safety Authority, this certificate is presented in a formal format with professional typography. It contains the seal and certification marks of authoritative institutions, enhancing its credibility and authority. It's an essential item for anyone in the food industry.
+|fame=33
+|art=16
+|fth=13
+|civ=15
+|tech=13
+|ss1=Per 10 new Dishes created, Snail HP +10<br>Per 10 new Dishes created, Snail DEF +1<br>New Dishes Created: 480/480
+|ss2=Per 10 new Dishes created, Snail HP +20<br>Per 10 new Dishes created, Snail DEF +2<br>New Dishes Created: 480/480
+|ss3=Per 10 new Dishes created, Snail HP +30<br>Per 10 new Dishes created, Snail DEF +3<br>New Dishes Created: 480/480
+|ss4=Per 10 new Dishes created, Snail HP +30<br>Per 10 new Dishes created, Snail DEF +3<br>New Dishes Created: 480/480
+|ss7=Per 10 new Dishes created, Snail HP +30<br>Per 10 new Dishes created, Snail DEF +3<br>New Dishes Created: 480/480<br> (Awakened)
+}}

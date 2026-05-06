@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Ixion's Wheel
+|class_id=22150
+|rank=AA
+|affct=FAITH
+|birthday=01-25
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Jan 25, 1750 BC, Ixion was sent to hell by Zeus and tied to this eternally burning turning wheel.<br>This wheel was created by Zeus to punish the lecherous king Ike, who once ruled a powerful kingdom. In exchange for the princess of a neighboring kingdom, he promised to shower the kingdom with gifts. However, not only did he fail to fulfill his promise, he even killed the princess's father. Zeus forgave him for his sins and allowed him to dwell in heaven, but this changed when Ike set his sights on the Heaven Nymph Hera and the two sought to elope. The furious Zeus sent Ike to hell and bound him to this burning wheel to suffer eternal torture.
+|fame=38
+|art=46
+|fth=70
+|civ=30
+|tech=44
+|ss1=Domain Cabin Output +2%<br>Per 7 Demon Gene LVLs, Snail ATK +4<br>Demon Gene LVLs Researched: 210/210
+|ss2=Domain Cabin Output +3%<br>Per 7 Demon Gene LVLs, Snail ATK +6<br>Demon Gene LVLs Researched: 210/210
+|ss3=Domain Cabin Output +4%<br>Per 7 Demon Gene LVLs, Snail ATK +8<br>Demon Gene LVLs Researched: 210/210
+|ss4=Domain Cabin Output +6%<br>Per 7 Demon Gene LVLs, Snail ATK +12<br>Demon Gene LVLs Researched: 210/210
+|ss5=Domain Cabin Output +8%<br>Per 7 Demon Gene LVLs, Snail ATK +16<br>Demon Gene LVLs Researched: 210/210
+|ss7=Domain Cabin Output +8%<br>Per 7 Demon Gene LVLs, Snail ATK +16<br>Demon Gene LVLs Researched: 210/210<br>Domain Cabin Output +7% (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Card Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +3%
+}}

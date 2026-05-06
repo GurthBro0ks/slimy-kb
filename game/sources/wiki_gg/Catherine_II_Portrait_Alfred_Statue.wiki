@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Catherine II Portrait,Alfred Statue
+|rank=orange
+|amount=2
+|category=self
+|description=Protomon assist Snail in battle, extra DMG +560
+}}
+[[Category:Self]]
+[[Category:Protomon Boost]]

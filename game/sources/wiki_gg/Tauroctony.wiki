@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Tauroctony
+|class_id=22690
+|rank=SSS
+|affct=FAITH
+|birthday=04-14
+|source=
+|description=On Apr 14, 147 AD, the Tauroctony was sent to a temple in London.<br>This statue was produced during the ancient Roman period and originated from the popular Mithraism at that time. Mithras was the sun god in the Aryan pantheon, and his shadow can still be seen in many religious legends today. The statue depicts the scene of Mithras slaughtering a bull, which is said to be a ritual that symbolizes self-sacrifice and represents his redemption of the world. Due to the suppression of Christianity, Mithraism had long been forgotten, and the existence of this statue allowed people to catch a glimpse of this ancient religion.
+|fame=62
+|art=73
+|fth=109
+|civ=51
+|tech=67
+|ss1=Dragon Orb Offering SPD +1.8%<br>Per 3 kinds of souls offered, Snail ATK +3<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +24<br>Souls offered: 300/300 types
+|ss2=Dragon Orb Offering SPD +2.4%<br>Per 3 kinds of souls offered, Snail ATK +4<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +32<br>Souls offered: 300/300 types
+|ss3=Dragon Orb Offering SPD +3%<br>Per 3 kinds of souls offered, Snail ATK +5<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +40<br>Souls offered: 300/300 types
+|ss4=Dragon Orb Offering SPD +4.2%<br>Per 3 kinds of souls offered, Snail ATK +7<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +56<br>Souls offered: 300/300 types
+|ss5=Dragon Orb Offering SPD +5.4%<br>Per 3 kinds of souls offered, Snail ATK +9<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +72<br>Souls offered: 300/300 types
+|ss6=Dragon Orb Offering SPD +7.2%<br>Per 3 kinds of souls offered, Snail ATK +12<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +96<br>Souls offered: 300/300 types
+|ss7=Dragon Orb Offering SPD +7.2%<br>Per 3 kinds of souls offered, Snail ATK +12<br>Per 3 kinds of Souls offered, Priest-Snail Assistance DMG +96<br>Souls offered: 300/300 types<br>Dragon Orb Offering SPD +6% (Awakened)
+|skill1=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop DMG REDUC +6%
+|skill2=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop DMG toward heroes +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FTH +15
+|mirage={{Mirage|name=The Visage of God|reward={{RewardIconWithLink|Demon God Crystal, +1|orange}}
+|3name=Mitra's Hand|3rec=113.25M|3atk=343911|3defense=203237|3hp=32954361|3weak=42717
+|4name=Mitra's Ear|4rec=129.59M|4atk=379065|4defense=226222|4hp=43712555|4weak=46388
+|5name=Mitra's Eye|5rec=151.29M|5atk=427838|5defense=256743|5hp=61512015|5weak=50570
+|6name=Mitra's Heart|6rec=181.27M|6atk=492660|6defense=298931|6hp=93075400|6weak=55216
+|Arec=223.33M|Aatk=581701|Adefense=358103|Ahp=143218978|Aweak=60376
+}}}}

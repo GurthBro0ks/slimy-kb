@@ -1,0 +1,568 @@
+==Sacred Mirror==
+[[File:Sacred Mirror.png|100px|left|alt=Sacred Mirror]]
+Ameterasu grants you power before a fight.
+
+1. Spend 30k INTEL on [[Yamato INTEL|Ninja Training]] tile 17 "Sacred Mirror"
+{{clear}}
+
+{{RewardIconWithText|Sacred Mirror}} is the [[Realm Traits|Realm Trait]] for [[Yamato]].
+
+When first obtained in [[Yamato]], the {{RewardIconWithText|Sacred Mirror}} increases ATK and DEF by 9% before a fight and recovers 350 HP each round. This is at level 1, and after upgrading to maximum (level 30), the Sacred Mirror can increases ATK and DEF by 15% and recovers 650 HP each round and can then be unsealed with {{RewardIconWithLink|Magic Potion}}. It is highly recommended to upgrade this to maximum and unseal as soon as possible, as the Sacred Mirror is what you will use for the majority of fights. In fact, any fight that can take 5 or more rounds should be fought with the Sacred Mirror. 
+
+===Upgrade Materials===
+Upgrading the Sacred Mirror requires {{RewardIconWithText|Mirror Frag}}, which are obtained when upgrading each Ninjutsu technique to maximum (level 5). See [[Ninjutsu]] for more.
+{| class="wikitable"
+!Jutsu Type
+!Jutsu Technique
+!{{RewardIconWithText|Mirror Frag}}
+|-
+| rowspan="3" |Fire Jutsu
+|Great Fireball
+| +5
+|-
+|Great Flame Bullet
+| +10
+|-
+|Flame Dragon Bullet
+| +15
+|-
+| rowspan="3" |Aqua Jutusu
+|Palm Empower
+| +5
+|-
+|Slug Heal
+| +10
+|-
+|Thousand Seal
+| +15
+|-
+| rowspan="3" |Thunder Jutsu
+|Flicker
+| +5
+|-
+|Teleportation
+| +10
+|-
+|Art of Flying Raijin
+| +15
+|-
+| rowspan="3" |Earth Jutsu
+|Clone Jutsu
+| +5
+|-
+|Revival Jutsu
+| +10
+|-
+|Reincarnation
+| +15
+|}
+
+==Stats==
+{| class="mw-collapsible mw-collapsed wikitable"
+! rowspan="2" |Level
+! rowspan="2" |{{RewardIconWithText|Mirror Frag}} Cost
+! colspan="3" |Effect
+|-
+!Heavenly Seal
+!Mortal World Seal
+!Netherworld Seal
+|-
+|1
+|
+|Before combat, Snail ATK +9%
+|Before combat, Snail DEF +9%
+|Each round, Snail HP +350
+|-
+|2
+|1
+|Before combat, Snail ATK +9.2%
+|Before combat, Snail DEF +9.2%
+|Each round, Snail HP +360
+|-
+|3
+|1
+|Before combat, Snail ATK +9.4%
+|Before combat, Snail DEF +9.4%
+|Each round, Snail HP +370
+|-
+|4
+|1
+|Before combat, Snail ATK +9.6%
+|Before combat, Snail DEF +9.6%
+|Each round, Snail HP +380
+|-
+|5
+|1
+|Before combat, Snail ATK +9.8%
+|Before combat, Snail DEF +9.8%
+|Each round, Snail HP +390
+|-
+|6
+|1
+|Before combat, Snail ATK +10%
+|Before combat, Snail DEF +10%
+|Each round, Snail HP +400
+|-
+|7
+|1
+|Before combat, Snail ATK +10.2%
+|Before combat, Snail DEF +1.02%
+|Each round, Snail HP +410
+|-
+|8
+|1
+|Before combat, Snail ATK +10.4%
+|Before combat, Snail DEF +10.4%
+|Each round, Snail HP +420
+|-
+|9
+|1
+|Before combat, Snail ATK +10.6%
+|Before combat, Snail DEF +10.6%
+|Each round, Snail HP +430
+|-
+|10
+|1
+|Before combat, Snail ATK +10.8%
+|Before combat, Snail DEF +10.8%
+|Each round, Snail HP +440
+|-
+|11
+|1
+|Before combat, Snail ATK +11%
+|Before combat, Snail DEF +11%
+|Each round, Snail HP +450
+|-
+|12
+|1
+|Before combat, Snail ATK +11.2%
+|Before combat, Snail DEF +11.2%
+|Each round, Snail HP +460
+|-
+|13
+|1
+|Before combat, Snail ATK +11.4%
+|Before combat, Snail DEF +11.4%
+|Each round, Snail HP +470
+|-
+|14
+|1
+|Before combat, Snail ATK +11.6%
+|Before combat, Snail DEF +11.6%
+|Each round, Snail HP +480
+|-
+|15
+|1
+|Before combat, Snail ATK +11.8%
+|Before combat, Snail DEF +11.8%
+|Each round, Snail HP +490
+|-
+|16
+|1
+|Before combat, Snail ATK +12%
+|Before combat, Snail DEF +12%
+|Each round, Snail HP +500
+|-
+|17
+|1
+|Before combat, Snail ATK +12.2%
+|Before combat, Snail DEF +12.2%
+|Each round, Snail HP +510
+|-
+|18
+|1
+|Before combat, Snail ATK +12.4%
+|Before combat, Snail DEF +12.4%
+|Each round, Snail HP +520
+|-
+|19
+|1
+|Before combat, Snail ATK +12.6%
+|Before combat, Snail DEF +12.6%
+|Each round, Snail HP +530
+|-
+|20
+|2
+|Before combat, Snail ATK +12.8%
+|Before combat, Snail DEF +12.8%
+|Each round, Snail HP +540
+|-
+|21
+|2
+|Before combat, Snail ATK +13%
+|Before combat, Snail DEF +13%
+|Each round, Snail HP +550
+|-
+|22
+|2
+|Before combat, Snail ATK +13.2%
+|Before combat, Snail DEF +13.2%
+|Each round, Snail HP +560
+|-
+|23
+|2
+|Before combat, Snail ATK +13.4%
+|Before combat, Snail DEF +13.4%
+|Each round, Snail HP +570
+|-
+|24
+|2
+|Before combat, Snail ATK +13.6%
+|Before combat, Snail DEF +13.6%
+|Each round, Snail HP +580
+|-
+|25
+|2
+|Before combat, Snail ATK +13.8%
+|Before combat, Snail DEF +13.8%
+|Each round, Snail HP +590
+|-
+|26
+|2
+|Before combat, Snail ATK +14%
+|Before combat, Snail DEF +14%
+|Each round, Snail HP +600
+|-
+|27
+|2
+|Before combat, Snail ATK +14.2%
+|Before combat, Snail DEF +14.2%
+|Each round, Snail HP +610
+|-
+|28
+|2
+|Before combat, Snail ATK +14.4%
+|Before combat, Snail DEF +14.4%
+|Each round, Snail HP +620
+|-
+|29
+|2
+|Before combat, Snail ATK +14.6%
+|Before combat, Snail DEF +14.6%
+|Each round, Snail HP +630
+|-
+|30
+|2
+|Before combat, Snail ATK +15%
+|Before combat, Snail DEF +15%
+|Each round, Snail HP +650
+|}
+
+==Unsealing==
+Once the {{RewardIconWithText|Sacred Mirror}} has been upgraded to the max level (30), you have the option to Unseal the Spirit trapped inside. Doing this costs 300 {{RewardIconWithLink|Magic Potion}}. 
+
+Unsealing releases the spirit Orochi-chan, who will gift you {{RewardIconWithLink|Evolution Chest, +100}} and {{RewardIconWithText|Gene Speedup, +6h}} as a thank you. 
+
+Upgrading Orochi-chan is quite expensive, but doing so gives permanent buffs to your snail. 
+{| class="mw-collapsible mw-collapsed wikitable"
+! rowspan="2" |Tier
+! rowspan="2" |{{RewardIconWithLink|Magic Potion}} Cost
+! rowspan="2" |{{RewardIconWithText|B-Tad}} Cost
+! colspan="4" |Cumulative effect, or
+|-
+!HP +
+!ATK +
+!DEF +
+!RUSH +
+|-
+|T1
+|
+|
+|200
+|20
+|40
+|20
+|-
+|T2
+|100
+|4k
+|400
+|40
+|80
+|40
+|-
+|T3
+|110
+|6k
+|600
+|60
+|120
+|60
+|-
+|T4
+|120
+|8k
+|800
+|80
+|160
+|80
+|-
+|T5
+|130
+|10k
+| colspan="4" style="text-align:center" |Netherworld Seal HP Regen +100
+|-
+|T6
+|150
+|12k
+|1100
+|110
+|220
+|110
+|-
+|T7
+|170
+|14k
+|1400
+|140
+|280
+|140
+|-
+|T8
+|190
+|16k
+|1700
+|170
+|340
+|170
+|-
+|T9
+|210
+|18k
+|2000
+|200
+|400
+|200
+|-
+|T10
+|230
+|20k
+| colspan="4" style="text-align:center" |Mortal World Seal DEF +1%
+|-
+|T11
+|260
+|22k
+|2400
+|240
+|480
+|240
+|-
+|T12
+|290
+|24k
+|2800
+|280
+|560
+|280
+|-
+|T13
+|320
+|26k
+|3200
+|320
+|640
+|320
+|-
+|T14
+|350
+|28k
+|3600
+|360
+|720
+|360
+|-
+|T15
+|380
+|30k
+| colspan="4" style="text-align:center" |Heavenly Seal ATK +1%
+|-
+|T16
+|420
+|32k
+|4100
+|410
+|820
+|410
+|-
+|T17
+|460
+|34k
+|4600
+|460
+|920
+|460
+|-
+|T18
+|500
+|36k
+|5100
+|510
+|1020
+|510
+|-
+|T19
+|540
+|38k
+|5600
+|560
+|1120
+|560
+|-
+|T20
+|580
+|40k
+| colspan="4" style="text-align:center" |Netherworld Seal HP Regen +300
+|-
+|T21
+|630
+|42k
+|6200
+|620
+|1240
+|620
+|-
+|T22
+|680
+|44k
+|6800
+|680
+|1360
+|680
+|-
+|T23
+|730
+|46k
+|7400
+|740
+|1480
+|740
+|-
+|T24
+|780
+|48k
+|8000
+|800
+|1600
+|800
+|-
+|T25
+|830
+|50k
+| colspan="4" style="text-align:center" |Mortal World Seal DEF +3%
+|-
+|T26
+|890
+|52k
+|8800
+|880
+|1760
+|880
+|-
+|T27
+|950
+|54k
+|9600
+|960
+|1920
+|960
+|-
+|T28
+|1010
+|56k
+|10400
+|1040
+|2080
+|1040
+|-
+|T29
+|1070
+|58k
+|11200
+|1120
+|2240
+|1120
+|-
+|T30
+|1130
+|60k
+| colspan="4" style="text-align:center" |Heavenly Seal ATK +3%
+|-
+|T31
+|
+|62K
+|
+|
+|
+|
+|-
+|T32
+|
+|64K
+|
+|
+|
+|
+|-
+|T33
+|
+|66K
+|
+|
+|
+|
+|-
+|T34
+|
+|68K
+|
+|
+|
+|
+|-
+|T35
+|
+|70K
+| colspan="4" style="text-align:center" |Mortal World Seal DEF +5%
+|-
+|T36
+|
+|72K
+|
+|
+|
+|
+|-
+|T37
+|1640
+|74K
+|
+|
+|
+|
+|-
+|T38
+|
+|
+|
+|
+|
+|
+|-
+|T39
+|
+|
+|
+|
+|
+|
+|-
+|T40
+|
+|
+| colspan="4" style="text-align:center" |
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Yamato]]
+[[Category:Realm Trait]]

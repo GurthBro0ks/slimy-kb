@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Argent Reverse Scale
+|type=Common
+|rank=orange
+|id=10944
+|idx=93
+|description="Dragons shall never be tamed! Even ensnared by demon gods, even as argent flames consume their flesh - their heads shall never bow!"
+— Draconic Chronicles
+|skill=
+|hp=1796
+|def=175
+|atk=291
+|rush=199
+|gene1=Fire DMG +90
+|gene2=Fire RES +90
+|gene3=Fire DMG +1.5%
+|gene4=Fire RES +1.5%
+|gene5=1.5% chance to get Extra Inferno Ember on Wish ×10
+|gene7=1.5% chance to get Extra Inferno Ember on Wish ×10 (Awakened)
+|}}

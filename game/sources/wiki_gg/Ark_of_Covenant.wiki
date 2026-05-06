@@ -1,0 +1,45 @@
+{{CargoRelic
+|name=Ark of Covenant
+|rank=S
+|affct=FTH
+|birthday=03-04
+|source=Fragment Crafting (15.1%), Lottery Machine (0.81%), Relic Forge (90 Relic RF), Wishing (0.53%)
+|description=On Mar 4, 586 BC, this relic of ancient Hebrew appeared in history for the last time.
+
+Babylon invaded and burned King Solomon's temple imprisoning the Hebrews. Treasures from King Solomon's temple were brought to the treasure room of the king of Babylon. However, when the loot was sorted, the Ark of the Covenant was missing. Legendarily, it is a golden vessel holding the tablets of the Ten Commandments that God gave to Moses on Mount Sinai. And the temple was at first built to preserve the Ark of the Covenant.
+
+[Treasures in the Ark]
+
+Stone slabs with the engraved Ten Commandments.<br>Aaron's walking stick<br>A jar made of gold<br>Manna eaten by the Israelites
+|fame=56
+|art=60
+|fth=98
+|civ=55
+|tech=63
+|ss1=Snail ATK +10<br>When crafting a Blue Reagent, +1% to get +1<br>When crafting a Purple Reagent, +1% to get +1
+|ss2=Snail ATK +20<br>When crafting a Blue Reagent, +2% to get +1<br>When crafting a Purple Reagent, +2% to get +1
+|ss3=Snail ATK +30<br>When crafting a Blue Reagent, +3% to get +1<br>When crafting a Purple Reagent, +3% to get +1
+|ss4=Snail ATK +50<br>When crafting a Blue Reagent, +5% to get +1<br>When crafting a Purple Reagent, +5% to get +1
+|ss5=Snail ATK +70<br>When crafting a Blue Reagent, +7% to get +1<br>When crafting a Purple Reagent, +7% to get +1
+|ss6=Snail ATK +100<br>When crafting a Blue Reagent, +10% to get +1<br>When crafting a Purple Reagent, +10% to get +1
+|ss7=Snail ATK +100<br>When crafting a Blue Reagent, +10% to get +1<br>When crafting a Purple Reagent, +10% to get +1<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, 2x B-tad Drops +15%
+|skill2=[[File:Quarry skill III.png|50px]]Place in Quarry: Find Ancient Fossil by +30%
+|skill3=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: This Relic's FTH +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:Reagent Crafting Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Quarry Skill]]
+[[Category:Ancient Fossil Boost]]
+[[Category:Lumber Camp Skill]]
+[[Category:FTH Boost]]
+[[Category:Zombie Gene Cost Reduction]]
+[[Category:Lottery Machine Boost]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Rewards Divine Chests]]

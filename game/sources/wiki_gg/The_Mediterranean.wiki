@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=The Mediterranean
+|class_id=22441
+|rank=Blue
+|affct=ART
+|birthday=04-10
+|source=Lottery Machine No.3 (0.03%)
+|description=On Apr 10, 1902 AD, Maillol began to create the Mediterranean Sculpture.<br>Maillol's Mediterranean Sculpture, his first significant work, is a classic representation of his artistic style. Combining classicism with his own unique vision, Maillol created a contemplative female figure that captures the softness and beauty of the human form, reminiscent of ancient Greek sculpture, turning the whole statue's posture and style into a symbol of the Mediterranean. This sculpture established Maillol's artistic status.
+|fame=19
+|art=46
+|fth=31
+|civ=36
+|tech=22
+|ss1=Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +8<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +16<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +24<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +40<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +40<br>Consumed Recruit Tokens: 5000/5000<br>Protomon Troop assist DMG + 400 (Awakened)
+|skill1=[[File:Explorationegg skill I.png|50px]]Place in Exploration Egg: This Relic's ART +5
+}}

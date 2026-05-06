@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Innocent III Armorial
+|class_id=22058
+|rank=Blue
+|affct=FAITH
+|birthday=12-04
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Dec 4, 1203 AD, Innocent III set up the papal armorial to demonstrate his authority.<br>This is the first papal armorial in the world, representing the authority of Innocent III. As one of the most influential popes in history, he was the papal armorial founder and propelled the pope's power to its peak. He profited from the conflicts between the kings. He also took control of the church system in Western Europe and reformed the financial system so that they would pay taxes to the Pope regularly. In addition, he also launched the Fourth Crusade, and with his actions, he laid the foundation for the establishment of the Inquisition. To this day, he is still remembered as an influential ruler.
+|fame=24
+|art=37
+|fth=46
+|civ=19
+|tech=28
+|ss1=Per 5 FTH Relics awakened, Snail ATK +2<br>FTH Relics Awakened: 100/100
+|ss2=Per 5 FTH Relics awakened, Snail ATK +4<br>FTH Relics Awakened: 100/100
+|ss3=Per 5 FTH Relics awakened, Snail ATK +6<br>FTH Relics Awakened: 100/100
+|ss4=Per 5 FTH Relics awakened, Snail ATK +10<br>FTH Relics Awakened: 100/100
+|ss7=Per 5 FTH Relics awakened, Snail ATK +10<br>FTH Relics Awakened: 100/100<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail FTH +200
+}}

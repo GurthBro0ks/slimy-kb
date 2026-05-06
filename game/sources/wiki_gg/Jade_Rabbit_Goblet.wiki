@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Jade Rabbit Goblet
+|class_id=20926
+|rank=Green
+|affct=FAME
+|source=
+|description=When the laurel tree in the Moon Palace blooms, the fragrance of its flowers fills the air for miles around. At this time, Chang'e would have the Jade Rabbit collect the fallen flowers, soak and brew them into wine, which is then served in the Jade Rabbit Goblet.
+|fame=31
+|art=15
+|fth=15
+|civ=16
+|tech=13
+|ss1=Per Apostle dominated, Snail DEF +1<br>Apostles Dominated: 40/40
+|ss2=Per Apostle dominated, Snail DEF +2<br>Apostles Dominated: 40/40
+|ss3=Per Apostle dominated, Snail DEF +3<br>Apostles Dominated: 40/40
+|ss4=Per Apostle dominated, Snail DEF +3<br>Apostles Dominated: 40/40
+|ss7=Per Apostle dominated, Snail DEF +3<br>Apostles Dominated: 40/40<br> (Awakened)
+}}

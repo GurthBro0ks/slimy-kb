@@ -1,0 +1,53 @@
+== Invaders, Enemies, and Miscellaneous Encounters... ==
+Whatever is not listed here can be found in [[Mailbox]] and does not count towards the one visitor at a time.
+
+== Agents==
+Find Agent information listed in [[Fugitives]]
+
+==Archaeologist==
+[[File:Archaeologist.png|100px|left|alt=Archaeologist]]
+Offers you Treasure Map (+50) from a random area you've visited in exchange for 27k {{RewardIconWithText|B-Tad}}s. Shows up randomly.
+{{Clear}}
+
+== Clown Express ==
+[[File:Clown Express.png|100px|alt=Clown Express]]
+
+Agreeing to his offer of food will give you +50 of a random food from his preset list. The food delivered by Clown Express is exclusive to Clown Express and each one is worth +20 Food. This list includes: 
+* {{RewardIconWithText|Big Plate Chicken Burger}}
+* {{RewardIconWithText|Buddha's Temptation Burger}}
+* {{RewardIconWithText|Lamb Paomo Burger}}
+* {{RewardIconWithText|Spicy Ducks Blood Burger}}
+* {{RewardIconWithText|Spicy Lung Pieces Burger}}
+* {{RewardIconWithText|Stinky Tofu Burger}}
+
+
+Rejecting him 10 times gives the {{RewardIconWithLink|Clown Coupon|green}} relic. Accepting him may give a shell. Shows up randomly.
+{{Clear}}
+
+==Indigent Nobleman==
+[[File:Indigent Nobleman.png|100px|left|alt=Indigent Nobleman]]
+The [[Indigent Nobleman]] shows up randomly to offer relics from his estate in exchange for {{RewardIconWithText|B-Tad}}s. 
+{{Clear}}
+
+==Insurance Agent==
+[[File:Insurance Agent.png|100px|left|alt=Insurance Agent]]
+After losing 100 fights, the Insurance Agent shows up to offer {{RewardIconWithText|Life Insurance}} in exchange for 10k {{RewardIconWithText|B-Tad}}s. Losing another 100 fights rewards 1k {{RewardIconWithText|W-Tad}}s.
+
+After getting 20 Jinx points, the Insurance Agent shows up to offer {{RewardIconWithText|Property Insurance}} in exchange for 10k {{RewardIconWithText|B-Tad}}s. Getting another 20 Jinx points rewards {{RewardIconWithLink|Lottery Ticket, +10|orange}}.
+{{Clear}}
+
+==INTEL Dealer==
+[[File:INTEL Dealer.png|100px|left|alt=INTEL Dealer]]
+In exchange for 1.5k {{RewardIconWithText|B-Tad}}s, randomly offers you either {{RewardIconWithText|INTEL, +10k}} from the Rift or {{RewardIconWithText|INTEL, +3k}} from any other area, selected from realms you have visited. Shows up randomly.
+{{Clear}}
+
+== Peter Jr. ==
+[[File:Peter Jr Visitor.png|100px|left|alt=Peter Jr.]]
+Peter Jr. will occasionally show up and ask for a review of the game. Giving a 5-star review rewards {{RewardIconWithText|B-Tad}}s. If you give a 0-star review 40 times in the same correspondence (total message length 42) will give {{RewardIconWithLink|Golden Finger|orange}} +40 fragments.
+
+{{Clear}}
+
+==Salesman==
+[[File:Salesman.png|100px|left|alt=Salesman]]
+The [[Salesman]] shows up to offer a random commodity (including relics). Occasionally, if you've been purchasing items from him, he will offer a survey. Rating him 0-stars 3 times rewards one random item from his list of commodities, as well as his soul. Eventually he will show up again to offer new items.
+{{Clear}}

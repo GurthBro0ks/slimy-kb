@@ -1,0 +1,39 @@
+{{Missing Info|specifics=<br>Mirage: 6s, Awakened}}
+{{CargoRelic
+|name=ANS Synthesizer
+|rank=SSS
+|affct=FAME
+|birthday=12-16
+|source=* Grandmaster Scrolls (0.78%), Lottery Machine (0.09%), Wishing (0.08%)
+* [[EDM Festival]] Sept. 29 - Oct. 12 2023
+|description=On Dec 16, 1958 AD, the world's first optical instrument was officially unveiled. The ANS Synthesizer is an invention by Russian engineer Evgeny Murzin. Its greatest function is to transform input images into various sounds, thereby breaking the limitations of performers and traditional instrumental techniques. It greatly expands the forms and ideas if music composition, laying the foundation for the future rise of electronic music.
+|fame=108
+|art=64
+|fth=62
+|civ=63
+|tech=65
+|ss1=Snail DEF +30<br>Per FAME Master Scroll used, Snail HP +120<br>Per FAME Master Scroll used, Snail DEF +12<br>FAME Master Scrolls Used: 10/10
+|ss2=Snail DEF +40<br>Per FAME Master Scroll used, Snail HP +160<br>Per FAME Master Scroll used, Snail DEF +16<br>FAME Master Scrolls Used: 10/10
+|ss3=Snail DEF +50<br>Per FAME Master Scroll used, Snail HP +200<br>Per FAME Master Scroll used, Snail DEF +20<br>FAME Master Scrolls Used: 10/10
+|ss4=Snail DEF +70<br>Per FAME Master Scroll used, Snail HP +280<br>Per FAME Master Scroll used, Snail DEF +28<br>FAME Master Scrolls Used: 10/10
+|ss5=Snail DEF +90<br>Per FAME Master Scroll used, Snail HP +360<br>Per FAME Master Scroll used, Snail DEF +36<br>FAME Master Scrolls Used: 10/10
+|ss6=Snail DEF +120<br>Per FAME Master Scroll used, Snail HP +480<br>Per FAME Master Scroll used, Snail DEF +48<br>FAME Master Scrolls Used: 10/10
+|ss7=Snail DEF +120<br>Per FAME Master Scroll used, Snail HP +480<br>Per FAME Master Scroll used, Snail DEF +48<br>FAME Master Scrolls Used: 10/10<br>Snail DEF +100 (Awakened)
+|skill1={{Skills|arena|ignore water res|60}}
+|skill2={{Skills|arena|water res|60}}
+|skill3={{Skills|arena|water dmg|600}}
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:DEF Boost]]
+[[Category:HP Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:Water RES Boost]]
+[[Category:Water DMG Boost]]
+[[Category:Museum Promo Boost]]
+[[Category:Lottery Machine Boost]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Museum Promos]]
+[[Category:Enhanced by FAME Master Scrolls]]
+[[Category:Enhanced by Lottery Draws]]
+[[Category:Rewards Lottery Ticket]]

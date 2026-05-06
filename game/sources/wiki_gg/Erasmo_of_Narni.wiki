@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Erasmo of Narni
+|class_id=22545
+|rank=AAA
+|affct=ART
+|birthday=05-16
+|source=
+|description=On May 16, 1450 AD, the Erasmo of Narni was placed in front of a church in Padua.<br>This sculpture is the work of Donatello, the first master sculptor of the Renaissance. At that time, the Venetian Republic commissioned this master to create a sculpture to commemorate the achievements of Gatamelata. The sculptor created a life-size figure that is in complete harmony with the large and heavy horse beneath, conveying a sense of full power that not only impressed people but also became the object of imitation by future sculptors.
+|fame=31
+|art=71
+|fth=45
+|civ=52
+|tech=44
+|ss1=Snail RUSH +30<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss2=Snail RUSH +40<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss3=Snail RUSH +50<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss4=Snail RUSH +70<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss5=Snail RUSH +90<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss7=Snail RUSH +90<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Prairie Sanctum Rating Pts: 100000/100000<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Prairiesanctum skill II.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +15%
+|skill2=[[File:Prairiesanctum skill II.png|50px]]Place in Prairie Sanctum: This Relic's ART +10
+}}

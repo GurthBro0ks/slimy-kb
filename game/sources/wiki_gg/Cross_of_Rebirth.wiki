@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Cross of Rebirth
+|class_id=20227
+|rank=Green
+|affct=FAITH
+|source=
+|description=This cross can automatically make the holder come back to life within 7 seconds after its death. Once used, the cross will destroy itself, and the resurrected has half the HP and no mana. Multiple similar items can't work at the same time!
+|fame=19
+|art=13
+|fth=28
+|civ=12
+|tech=18
+|ss1=In all Domains, Troop Casualty -1%
+|ss2=In all Domains, Troop Casualty -2%
+|ss3=In all Domains, Troop Casualty -3%
+|ss4=In all Domains, Troop Casualty -3%
+|ss7=In all Domains, Troop Casualty -3%<br> (Awakened)
+}}

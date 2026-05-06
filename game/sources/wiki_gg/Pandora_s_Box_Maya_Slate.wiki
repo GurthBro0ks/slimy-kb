@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Pandora's Box,Maya Slate
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Tadpole Pond LVLs, Snail ATK +28<br>Tadpole Pond LVL: 50/50
+}}
+[[Category:Self]]

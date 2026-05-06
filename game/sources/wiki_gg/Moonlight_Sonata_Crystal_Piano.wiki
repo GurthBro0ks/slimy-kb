@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Moonlight Sonata,Crystal Piano
+|rank=purple
+|amount=2
+|category=minion
+|description=Per 30 Minions in battle: Troop DEF +24
+}}
+[[Category:Minion]]
+[[Category:Minion DEF Boost]]

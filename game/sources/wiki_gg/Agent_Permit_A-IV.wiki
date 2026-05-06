@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Agent Permit A-IV
+|class_id=20327
+|rank=Green
+|affct=TECH
+|source=
+|description=The holder of the card is a senior agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)
+|fame=14
+|art=15
+|fth=17
+|civ=14
+|tech=30
+|ss1=When you defeat Senior Agents, gain +5 W-tads
+|ss2=When you defeat Senior Agents, gain +10 W-tads
+|ss3=When you defeat Senior Agents, gain +15 W-tads
+|ss4=When you defeat Senior Agents, gain +15 W-tads
+|ss7=When you defeat Senior Agents, gain +15 W-tads<br> (Awakened)
+}}

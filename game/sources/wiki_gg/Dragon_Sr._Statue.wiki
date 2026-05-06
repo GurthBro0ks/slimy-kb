@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Dragon Sr. Statue
+|class_id=20636
+|rank=Green
+|affct=ART
+|source=
+|description=This statue of a legendary anime master is the vessel for the soul of a manga artist who created countless classic characters and legendary stories. Touching it, one can feel the inspiration bursting forth and the endless strength guiding the holder towards higher and greater goals.
+[In memory of the master who has passed away]
+1955.4.5—2024.3.1
+|fame=29
+|art=68
+|fth=23
+|civ=25
+|tech=31
+|ss1=After activation, obtain the Father of Divine Dragons<br>Per 10 Dragon Orbs used, Snail HP +10<br>Dragon Orbs Used: 500/500
+|ss2=After activation, obtain the Father of Divine Dragons<br>Per 10 Dragon Orbs used, Snail HP +20<br>Dragon Orbs Used: 500/500
+|ss3=After activation, obtain the Father of Divine Dragons<br>Per 10 Dragon Orbs used, Snail HP +30<br>Dragon Orbs Used: 500/500
+|ss4=After activation, obtain the Father of Divine Dragons<br>Per 10 Dragon Orbs used, Snail HP +30<br>Dragon Orbs Used: 500/500
+|ss7=After activation, obtain the Father of Divine Dragons<br>Per 10 Dragon Orbs used, Snail HP +30<br>Dragon Orbs Used: 500/500<br> (Awakened)
+}}

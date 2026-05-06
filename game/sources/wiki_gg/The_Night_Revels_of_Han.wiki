@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Night Revels of Han
+|class_id=22667
+|rank=SSS
+|affct=ART
+|birthday=09-30
+|source=
+|description=On Sep 30, 961 AD, Gu Hongzhong captured his observations of the Han Xizai's night banquet in a painting.<br>Based on suspicions of Han Xizai, a senior official of three dynasties, Li Yu, the last ruler of the Southern Tang Dynasty, sent the painter Gu Hongzhong to investigate him. Upon learning this, Han Xizai held a luxurious banquet, pretending to be drunk and carefree to ensure his safety. Using his exceptional observational and memory skills, the painter later recreated the scene of that night in a painting, dispelling Li Yu's doubts and leaving an unparalleled treasure in the world of art.
+|fame=58
+|art=109
+|fth=64
+|civ=71
+|tech=60
+|ss1=Snail Leadership +3<br>All Minion DEF +0.6%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30
+|ss2=Snail Leadership +4<br>All Minion DEF +0.8%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40
+|ss3=Snail Leadership +5<br>All Minion DEF +1%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50
+|ss4=Snail Leadership +7<br>All Minion DEF +1.4%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70
+|ss5=Snail Leadership +9<br>All Minion DEF +1.8%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90
+|ss6=Snail Leadership +12<br>All Minion DEF +2.4%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120
+|ss7=Snail Leadership +12<br>All Minion DEF +2.4%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's ART +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, B-tads gained +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+|mirage={{Mirage|name=Ancient Banquet|reward={{RewardIconWithLink|Relic RF, +20|orange}}
+|3name=Lang Can|3rec=98.58M|3atk=288468|3defense=182594|3hp=14704635|3weak=34476
+|4name=Gu Hongzhong|4rec=128.65M|4atk=358285|4defense=224899|4hp=20072618|4weak=37331
+|5name=Monk Deming|5rec=174.57M|5atk=467924|5defense=289501|5hp=31590004|5weak=40992
+|6name=Official Han|6rec=248.49M|6atk=639692|6defense=386116|6hp=62520668|6weak=49893
+|Arec=342.33M|Aatk=792068|Adefense=470541|Ahp=89105915|Aweak=53066
+}}}}

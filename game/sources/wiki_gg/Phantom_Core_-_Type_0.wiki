@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Phantom Core - Type 0
+|type=Common
+|rank=red
+|id=10964
+|idx=157
+|description=Bahamut's energy core. Lets this phantom dragon maintain physical form. At full power, enables nuclear megaflare attacks!
+|skill=
+|hp=2990
+|def=280
+|atk=233
+|rush=258
+|gene1=Per Dragon Form Tier, {race} HP +35
+Dragon Form Tiers: 9/9
+|gene2=Fire RES +120
+|gene3=Free Gene Speedup (Dragon) +1h
+|gene4=Fire DMG +120
+|gene5={race} Fire RES +2%
+|gene6=Fire DMG +2%
+|gene7=Free Gene Speedup (Dragon) +3h (Awakened)
+|}}

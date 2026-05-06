@@ -1,0 +1,24 @@
+{{CargoRelic
+|name=Gravitational Lensing
+|class_id=22764
+|rank=SSS
+|affct=TECH
+|birthday=12-16
+|source=
+|description=On Dec 16, 1911 AD, Einstein proposed the hypothesis about the gravitational lensing effect.<br>The gravitational lensing effect is a phenomenon predicted by Einstein's theory of general relativity. Due to the distortion of space-time near massive celestial bodies, light passing near these bodies is bent. If there is a massive body along the line of sight from the observer to the light source, the observer will see one or more images formed due to the bending of light, which is known as the gravitational lensing phenomenon.
+|fame=68
+|art=53
+|fth=75
+|civ=59
+|tech=106
+|ss1=All minion skins HP +10%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +72<br>Mythic Protodex Stars: 100/100
+|ss2=All minion skins HP +20%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +96<br>Mythic Protodex Stars: 100/100
+|ss3=All minion skins HP +30%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +120<br>Mythic Protodex Stars: 100/100
+|ss4=All minion skins HP +50%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +168<br>Mythic Protodex Stars: 100/100
+|ss5=All minion skins HP +70%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +216<br>Mythic Protodex Stars: 100/100
+|ss6=All minion skins HP +100%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +288<br>Mythic Protodex Stars: 100/100
+|ss7=All minion skins HP +100%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +288<br>Mythic Protodex Stars: 100/100<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Mecha Cells gained +15%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%
+}}

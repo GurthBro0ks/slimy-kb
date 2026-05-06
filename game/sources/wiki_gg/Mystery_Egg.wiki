@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Mystery Egg
+|class_id=20870
+|rank=Green
+|affct=TECH
+|source=
+|description=A mysterious egg with intricate shell patterns, but its contents remain unknown - maybe yolk. Will it hatch a treasure... or just an empty shell?
+|fame=19
+|art=11
+|fth=17
+|civ=16
+|tech=27
+|ss1=Snail DEF +10<br>Per 5 Dragon Gene LVLs, Snail RUSH +2<br>Dragon Gene LVLs Researched: 100/100
+|ss2=Snail DEF +20<br>Per 5 Dragon Gene LVLs, Snail RUSH +4<br>Dragon Gene LVLs Researched: 100/100
+|ss3=Snail DEF +30<br>Per 5 Dragon Gene LVLs, Snail RUSH +6<br>Dragon Gene LVLs Researched: 100/100
+|ss4=Snail DEF +30<br>Per 5 Dragon Gene LVLs, Snail RUSH +6<br>Dragon Gene LVLs Researched: 100/100
+|ss7=Snail DEF +30<br>Per 5 Dragon Gene LVLs, Snail RUSH +6<br>Dragon Gene LVLs Researched: 100/100<br> (Awakened)
+}}

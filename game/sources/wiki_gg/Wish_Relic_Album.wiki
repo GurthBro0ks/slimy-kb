@@ -1,0 +1,20 @@
+[[File:Wish Relic Album Details.png|300px]]
+
+The {{RewardIconWithLink|Wish Relic Album|orange}} is a reward from [[Wish Packs]].
+
+Fragments of the {{RewardIconWithLink|Wish Relic Album|orange}} convert into exclusive {{Retext|SSS Relic fragments|orange}}. You will need 40 {{RewardIconWithLink|Wish Relic Album|orange}} fragments to unlock the first relic. Once you have enough fragments of a relic to 6 star it (280 Fragments), you will begin unlocking fragments of the next relic in order. The relics announced so far are:
+
+* {{RewardIconWithLink|Seated Voltaire|orange}}
+* {{RewardIconWithLink|Turin Papyrus|orange}}
+* {{RewardIconWithLink|Olympic Torch|orange}}
+* {{RewardIconWithLink|Ten Commandments|orange}}
+* {{RewardIconWithLink|Zizhi Tongjian|orange}}
+* {{RewardIconWithLink|Pure Reason Critique|orange}}
+* {{RewardIconWithLink|La Comedie humaine|orange}}
+* {{RewardIconWithLink|EPR Paradox|orange}}
+* {{RewardIconWithLink|Xi Ping Stele Script|orange}}
+* {{RewardIconWithLink|Eden Scepter|orange}}
+* {{RewardIconWithLink|Hypercube|orange}}
+* {{RewardIconWithLink|Othello|orange}}
+
+[[Category:Reward Pack]]

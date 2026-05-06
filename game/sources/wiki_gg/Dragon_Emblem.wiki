@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dragon Emblem
+|class_id=20266
+|rank=Green
+|affct=FAITH
+|source=
+|description=This emblem symbolizes the ultimate Divine Dragon and can only be obtained by its trusted believers. Those who get this emblem will be favored by the Divine Dragon and bring themselves good luck!
+|fame=13
+|art=15
+|fth=31
+|civ=15
+|tech=16
+|ss1=Activate Ultimate Divine Dragon avatar<br>Per Dragon Form Tier, Snail ATK +20<br>Dragon Form Tiers: 9/9
+|ss2=Activate Ultimate Divine Dragon avatar<br>Per Dragon Form Tier, Snail ATK +40<br>Dragon Form Tiers: 9/9
+|ss3=Activate Ultimate Divine Dragon avatar<br>Per Dragon Form Tier, Snail ATK +60<br>Dragon Form Tiers: 9/9
+|ss4=Activate Ultimate Divine Dragon avatar<br>Per Dragon Form Tier, Snail ATK +60<br>Dragon Form Tiers: 9/9
+|ss7=Activate Ultimate Divine Dragon avatar<br>Per Dragon Form Tier, Snail ATK +60<br>Dragon Form Tiers: 9/9<br> (Awakened)
+}}

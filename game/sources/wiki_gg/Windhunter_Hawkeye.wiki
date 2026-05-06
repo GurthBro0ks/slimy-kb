@@ -1,0 +1,23 @@
+{{CargoOrgan
+|name=Windhunter Hawkeye
+|type=Bionic
+|rank=red
+|id=10698
+|idx=56
+|description="It rules the plains, it reigns the skies, soaring miles above like the Damocles sword hanging overhead!" — Chronicles of the Griffon
+|skill=Before round start, the eagle eye sees through the enemy's weakness, causing DMG equal to 220% on the next attack!
+|hp=2770
+|def=236
+|atk=183
+|rush=374
+|gene1=Per red organ implanted, {race} RUSH +14
+Red Organs Implanted: 20/20
+|gene2=Per red organ implanted, {race} ATK +14
+Red Organs Implanted: 20/20
+|gene3=Per red organ implanted, {race} DEF +14
+Red Organs Implanted: 20/20
+|gene4=Snail Arena, Total Power Checks -8%
+|gene5=RUSH Ignore DEF +4%
+|gene6=Snail Arena, ignore enemy DEF +4%
+|gene7=RUSH Ignore DEF +4% (Awakened)
+|}}

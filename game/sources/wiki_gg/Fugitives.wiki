@@ -1,0 +1,579 @@
+{{Missing Info|specifics=<br>Yakami's B+B B-Tad Amount<br>Almighty Agent Reward Soul Details}}
+
+==Daily Encounter==
+Agents show up daily to ask about a random Fugitive. There are three different outcomes when choosing dialogue options A or B:
+ A - None of your business! --> A - So you're trying to trick me? 
+This leads to fighting the Agent. This will rewards W-tads, a soul, and a corresponding [[Relics|Agent Permit]] for the first defeat of the Agent.
+ A - None of your business! --> B - Sorry sir, I really have no clue!
+Ends the encounter completely without giving any reward.
+ B - What do you want? Tell me more. --> A - Oh, I happen to know something...
+This leads to the Agent attempting to capture the Fugitive. If the Agent is strong enough to do so (indicated by the color of their level versus the color of the Fugitive level), the Fugitive is captured and the Agent rewards B-tads. If the Fugitive escapes, there is a chance they can come and seek revenge for a variety of rewards.<!-- If a Fugitive is captured or killed during revenge, it is no longer possible to get other encounters or rewards from them.-->
+ B - What do you want? Tell me more. --> B - Sorry, I know nothing about that
+<br>This has a rare chance to lead to the Fugitive giving a reward as a thank-you. This can be done multiple times, the reward being either B-tads or a Relic.
+
+=== What should I say?! ===
+This is going to change day-to-day, and depends on what you have, what Agent is asking, and what Fugitive they want. 
+
+First, who is the Agent? The color of the lightning around them is the fastest way to tell what rank they are: green for rookie, blue for junior, purple for senior, and orange for super.
+
+Next, who is your fugitive? Below is a table of all known fugitives, and they are color coded to their own rank. 
+
+So, what rewards does your fugitive offer? Let's look at Alice. Her rewards are simple, 50k B-tads if she's caught and nothing else. So, we see her rank is purple (If you're on mobile, you probably can't see the colors. The B+A Caught reward also tells you their rank. 1k for green, 10k for blue, 50k for purple) and therefore we only want to snitch on Alice to a purple or, even better, orange agent. It's possible for a blue or green agent to catch Alice, but not very likely.
+
+But what if you want the rewards offered during a revenge fight? Let's look at Bloody Queen. We can see her rank is blue. Since we '''don't''' want her to be caught, we can only choose B+A on an agent that won't catch her. To be safe, we'll only snitch on Bloody Queen to a green/rookie agent. Don't forget to check her stats to make sure you can beat her first!
+
+Finally, what about the rewards for not snitching on a fugitive? For instance, Arnold. He can reward the [[Turing Machine]] relic if you don't tell on him. In these cases, it's always better to select B+B no matter the rank of anyone. There's only a chance to see the "2m remaining" that ensures you'll get your reward, but if you choose B+A and they get caught, they can never offer that reward.
+
+In short, for B+B rewards, you don't need to know much. For B+A rewards, check the rank of your agent versus the rank of the fugitive, and make sure you can beat them in a fight if you want the revenge.
+
+=== Do they come back? ===
+There is a limited number of Agents and Fugitives, so yes. They do come back. It could be tomorrow, or months from now. But none are gone forever.
+
+==Agents==
+Below are the Agent types and their stats. 
+
+'''A note on the rewards:'''
+* Every victory rewards W-tads and a soul. Galactic, Space, Dimension, and Almighty Agents also give W-tads when capturing a fugitive (40, 60, 80, 100).
+* Agent Permits can only be obtained from that specific Agent design on the first victory. Agent numbers only track encounters, so will be different for every player.
+* The {{RewardIconWithLink|Temporary Agent Permit|green}} is obtained randomly after a number of Agents have been defeated and all permits of that tier have been aquired ({{RewardIconWithLink|Agent Permit C-I|green}} for Rookies, etc.).
+
+<tabber>
+|-|Rookie=
+{| class="wikitable"
+!'''Agent''' !! '''ATK''' !! '''DEF''' !! '''HP''' !! '''Weakness''' !! '''A+A Victory Rewards'''
+|-
+| [[File:Rookie Agent.png|frameless|125x125px]] || 1,160 || 872 || 1,887 || AFFCT 2,917 || {{RewardIconWithText|W-Tad, +40}}<br>{{RewardIcon|1h Soul Yellow}}{{Retext|Soul of Rookie Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit C-I|green}}<br>{{RewardIconWithLink|Temporary Agent Permit|green}}
+|}
+|-|Junior=
+{| class="wikitable"
+!'''Agent''' !! '''ATK''' !! '''DEF''' !! '''HP''' !! '''Weakness''' !! '''A+A Victory Rewards'''
+|-
+| [[File:Junior Agent I.png|frameless|125x125px]] || 6,536 || 4,904 || 55,981 || AFFCT 15,500 || {{RewardIconWithText|W-Tad, +60}}<br>{{RewardIcon|2h Soul Yellow}}{{Retext|Soul of Junior Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit B-I|green}}
+|-
+| [[File:Junior Agent II.png|frameless|125x125px]] || 6,713 || 5,037 || 57,762 || AFFCT 15,900 || {{RewardIconWithText|W-Tad, +60}}<br>{{RewardIcon|2h Soul Yellow}}{{Retext|Soul of Junior Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit B-II|green}}
+|-
+| [[File:Junior Agent III.png|frameless|125x125px]] || 6,892 || 5,172 || 59,577 || AFFCT 16,300 || {{RewardIconWithText|W-Tad, +60}}<br>{{RewardIcon|2h Soul Yellow}}{{Retext|Soul of Junior Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit B-III|green}}
+|-
+| [[File:Junior Agent IV.png|frameless|125x125px]] || 7,074 || 5,308 || 61,426 || AFFCT 16,700 || {{RewardIconWithText|W-Tad, +60}}<br>{{RewardIcon|2h Soul Yellow}}{{Retext|Soul of Junior Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit B-IV|green}}
+|-
+| [[File:Junior Agent V.png|frameless|125x125px]] || 7,258 || 5,446 || 63,310 || AFFCT 17,200 || {{RewardIconWithText|W-Tad, +60}}<br>{{RewardIcon|2h Soul Yellow}}{{Retext|Soul of Junior Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit B-V|green}}
+|}
+|-|Senior=
+{| class="wikitable"
+!'''Agent''' !! '''ATK''' !! '''DEF''' !! '''HP''' !! '''Weakness''' !! '''A+A Victory Rewards'''
+|-
+| [[File:Senior Agent I.png|frameless|125x125px]] || 14,874 || 11,158 || 149,649 || AFFCT 35,000 || {{RewardIconWithText|W-Tad, +80}}<br>{{RewardIcon|4h Soul Yellow}}{{Retext|Soul of Senior Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit A-I|green}}
+|- 
+| [[File:Senior Agent II.png|frameless|125x125px]] || 15,404 || 11,556 || 156,197 || AFFCT 36,300 ||  {{RewardIconWithText|W-Tad, +80}}<br>{{RewardIcon|4h Soul Yellow}}{{Retext|Soul of Senior Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit A-II|green}}
+|-
+| [[File:Senior Agent III.png|frameless|125x125px]] || 15,944 || 11,960 || 162,923 || AFFCT 37,500 || {{RewardIconWithText|W-Tad, +80}}<br>{{RewardIcon|4h Soul Yellow}}{{Retext|Soul of Senior Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit A-III|green}}
+|-
+| [[File:Senior Agent IV.png|frameless|125x125px]] || 16,492 || 12,372 || 169,827 || AFFCT 38,800 || {{RewardIconWithText|W-Tad, +80}}<br>{{RewardIcon|4h Soul Yellow}}{{Retext|Soul of Senior Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit A-IV|green}}
+|-
+| [[File:Senior Agent V.png|frameless|125x125px]] || 14,874 || 11,158 || 149,649 || AFFCT 35,000 || {{RewardIconWithText|W-Tad, +80}}<br>{{RewardIcon|4h Soul Yellow}}{{Retext|Soul of Senior Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit A-V|green}}
+|-
+| [[File:Senior Agent VI.png|frameless|125x125px]] || 15,404 || 11,556 || 156,197 || AFFCT 36,300 || {{RewardIconWithText|W-Tad, +80}}<br>{{RewardIcon|4h Soul Yellow}}{{Retext|Soul of Senior Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit A-VI|green}}
+|-
+| [[File:Senior Agent VII.png|frameless|125x125px]] || 15,944 || 11,960 || 162,923 || AFFCT 37,500 || {{RewardIconWithText|W-Tad, +80}}<br>{{RewardIcon|4h Soul Yellow}}{{Retext|Soul of Senior Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit A-VII|green}}
+|-
+| [[File:Senior Agent VIII.png|frameless|125x125px]] || 16,492 || 12,372 || 169,287 || AFFCT 38,800 || {{RewardIconWithText|W-Tad, +80}}<br>{{RewardIcon|4h Soul Yellow}}{{Retext|Soul of Senior Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit A-VIII|green}}
+|}
+|-|Super=
+{| class="wikitable"
+!'''Agent''' !! '''ATK''' !! '''DEF''' !! '''HP''' !! '''Weakness''' !! '''A+A Victory Rewards'''
+|-
+| [[File:Super Agent II.png|frameless|125x125px]] || 133,253 || 95,200 || 2,715,011 || AFFCT 175,152 || {{RewardIconWithText|W-Tad, +100}}<br>{{RewardIcon|8h Soul Yellow}}{{Retext|Soul of Super Agent|yellow}}<br>{{RewardIconWithLink|Agent Permit S-II|green}}
+|}
+|-|Galactic=
+{| class="wikitable"
+!'''Agent''' !! '''ATK''' !! '''DEF''' !! '''HP''' !! '''Weakness''' !! '''A+A Victory Rewards'''
+|-
+| [[File:Galactic Agent I.png|frameless|125x125px]] || 219,964 || 181,125 || 9,019,638 || AFFCT 170,000 || {{RewardIconWithText|W-Tad, +120}}<br>{{RewardIcon|8h Soul Yellow}}{{Retext|Soul of Galactic Agent|yellow}}<br>{{RewardIconWithLink|Galactic Agent License|green}}
+|}
+|-|Space=
+{| class="wikitable"
+!'''Agent''' !! '''ATK''' !! '''DEF''' !! '''HP''' !! '''Weakness''' !! '''A+A Victory Rewards'''
+|-
+| [[File:Space Agent I.png|frameless|125x125px]] || 444,095 || 334,880 || 26,292,207 || AFFCT 235,000 || {{RewardIconWithText|W-Tad, +140}}<br>{{RewardIcon|8h Soul Yellow}}{{Retext|Soul of Space Agent|yellow}}<br>{{RewardIconWithLink|Space Agent License|green}}
+|}
+|-|Dimension=
+{| class="wikitable"
+!'''Agent''' !! '''ATK''' !! '''DEF''' !! '''HP''' !! '''Weakness''' !! '''A+A Victory Rewards'''
+|-
+| [[File:Dimension Agent I.png|frameless|125x125px]] || 673,852 || 491,050 || 65,916,221 || AFFCT 280,000 || {{RewardIconWithText|W-Tad, +160}}<br>{{RewardIcon|8h Soul Yellow}}{{Retext|Soul of Dimension Agent|yellow}}<br>{{RewardIconWithLink|D-Agent License|green}}
+|}
+|-|Almighty=
+{| class="wikitable"
+!'''Agent''' !! '''ATK''' !! '''DEF''' !! '''HP''' !! '''Weakness''' !! '''A+A Victory Rewards'''
+|-
+| [[File:Almighty Agent I.png|frameless|125x125px]] || 924,439 || 668,150 || 146,714,757 || AFFCT 335,000 || {{RewardIconWithText|W-Tad, +180}}<br>{{RewardIcon|8h Soul Yellow}} {{Retext|Soul of Omnipotent Agent|yellow}}<br>{{RewardIconWithLink|Omni Agent License|green}}
+|}
+</tabber>
+
+== Fugitives ==
+'''Note that the color and ranking system used here is arbitrarily employed here for ease of use, and is not reflected one-to-one in the game itself.''' In other words, though we've assigned color rankings to Fugitives, these can not technically be found in the game itself and is based only on collected data. Alternatively, Agents do have an in-game assigned ranking, listed more clearly in the Agents section.
+
+Fugitives are colored by their presumed level, and therefore how ''likely'' they are of being caught by the corresponding agent. The stronger the agent is in regards to the level of the fugitive, the more likely it is to be caught. Keep in mind this is only a '''chance''' and there is always a chance a fugitive will get away. For example, it's possible a Rookie will fail to catch a green fugitive, etc. The relative levels, rewards, and strengths are shown below.
+{| class="wikitable"
+!Fugitive Color
+!Level
+!Reward for catching
+!Generally Caught By
+|-
+|{{Retext|Green|green}}||1||{{RewardIconWithText|B-Tad, +1k}}||{{Retext|Rookie|green}} or better
+|-
+|{{Retext|Blue|blue}}||2||{{RewardIconWithText|B-Tad, +10k}}||{{Retext|Junior|blue}} or better
+|-
+|{{Retext|Purple|purple}}||3||{{RewardIconWithText|B-Tad, +50k}}||{{Retext|Senior|purple}} or better
+|-
+|{{Retext|Orange|orange}}||4||{{RewardIconWithText|B-Tad, +100k}}||{{Retext|Super|orange}} or better
+|-
+|{{Retext|Red|red}}||5-8||{{RewardIconWithText|B-Tad, +100k}}||{{Retext|Galactic|red}} or better<br><i>Information on Red fugitives is still being collected and validated</i>
+|}
+
+The chance for a fugitive to show up for revenge or rewards is small and not always a possibility. 
+
+When the B+A option is chosen and the fugitive escapes the agent, they will always say that the fugitive knows who snitched and might show up for revenge. The agent will say this even if that fugitive cannot do so. If the fugitive is truly going to show up for revenge, the agents picture will remain in your mailbox and a 5 minute countdown will start. After 5 minutes, the fugitive will appear.
+
+When the B+B option shows "Mail exchange ends" they definitely will not show up for a reward and when it says "2 minutes" they definitely will. After the 2 minutes, the fugitive's mole will show up and either offer a relic or a set amount of {{RewardIconWithText|B-Tad}}. It is always recommended to select B+B when it says "2 minutes" because this provides a certain chance of obtaining relic fragments.
+
+<tabber>
+|-|#-B=
+{| class="wikitable sortable"
+! '''Suspect''' !! '''Level''' !! class="unsortable"| '''Charges''' !! class="unsortable"| '''B+A<br>(Caught)''' !! class="unsortable"| '''B+A<br>(Escaped)''' !! class="unsortable"| '''B+B<br>(Possible Rewards)'''
+|-
+| style="height:55px;" | {{Retext|1-Star Dragon|red}} || 6 || Spread Rumors. || {{RewardIconWithText|B-Tad, +100k}} || - || -  
+|-
+| style="height:55px;" | {{Retext|Alice|purple}} || 3 || Wounding with intent. || {{RewardIconWithText|B-Tad, +50k}} || - || -  
+|-
+| style="height:55px;" | {{Retext|Anti-Spy|red}} || 7 || Affray. || {{RewardIconWithText|B-Tad, +100k}} || {{RewardIconWithLink|Formula of Destruction|green}}<br>{{RewardIconWithText|B-Tad, +500k}}   || -  
+|-
+| style="height:55px;" | {{Retext|Ape God|red}} || 7 || Disturb Public Order. || {{RewardIconWithText|B-Tad, +100k}} || {{RewardIconWithLink|Ape God Attestation|green}}<br>{{RewardIconWithText|B-Tad, +500k}} || -  
+|-
+| style="height:55px;" | {{Retext|Arnold|purple}} || 3 || Quarreling on the Internet. || {{RewardIconWithText|B-Tad, +50k}} || - || {{RewardIconWithLink|Turing Machine|purple}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+| style="height:55px;" | {{Retext|Assassin Jing|green}} || 1 || Assassinating an Emperor. || {{RewardIconWithText|B-Tad, +1k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Artificial Human No.21|red}} || 6 || Fraud. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Azathoth|red}} || 6 || Subverting the government. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Bad Disciple|blue}} || 2 || Studying Black Magic. || {{RewardIconWithText|B-Tad, +10k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Barbatos|red}} || 6 ||  Tax Evasion. ||{{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Beeruz|red}}|| 7 ||  Sell Expired Food. ||{{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Belia|red}}|| 5 ||  Forced Trade. ||{{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Bloody Queen|blue}} || 3 || Bigamist. || {{RewardIconWithText|B-Tad, +10k}} || {{RewardIconWithLink|Silicone Gel Implant, +3|blue}}<br>{{RewardIconWithText|B-Tad, +50k}} || -
+|-
+| style="height:55px;" | {{Retext|Brainwasher|blue}} || 2 || Illegal Mind Manipulation. || {{RewardIconWithText|B-Tad, +10k}} || - || -
+|}
+
+|-|C-E=
+{| class="wikitable sortable"
+! '''Suspect''' !! '''Level''' !! class="unsortable"| '''Charges''' !! class="unsortable"| '''B+A<br>(Caught)''' !! class="unsortable"| '''B+A<br>(Escaped)''' !! class="unsortable"| '''B+B<br>(Possible Rewards)'''
+|-
+| style="height:55px;" | {{Retext|Caesar|green}} || 1 || Bypassing the Senate. || {{RewardIconWithText|B-Tad, +1k}} || - || {{RewardIconWithLink|Bellum Gallicum|blue}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100}}
+|-
+| style="height:55px;" | {{Retext|Canine Samurai|purple}} || 3 || Medicine practice without a license. || {{RewardIconWithText|B-Tad, +10k}} ||{{RewardIconWithLink|Soul Jade|green}}<br>{{RewardIconWithText|B-Tad, +50k}} || -
+|-
+| style="height:55px" | {{Retext|Captain Barbaso|blue}} || 2 || Exotic Animal Trade. || {{RewardIconWithText|B-Tad, +10k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Captain Drake|green}} || 1 || Pirate raids. || {{RewardIconWithText|B-Tad, +1k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Chaos|red}} || 8 || Unlicensed Driving. || {{RewardIconWithText|B-Tad, +100k}} || - || {{RewardIconWithLink|Orphic Egg|orange}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100k}}
+|-
+| style="height:55px;" | {{Retext|Chaos Lord|red}} || 7 || Roadside Stand. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Chief Huang|green}} || 1 || Illegal stay. || {{RewardIconWithText|B-Tad, +1k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Cinderella|green}} || 1 || Scamming Royalty. || {{RewardIconWithText|B-Tad, +1k}} || - || {{RewardIconWithLink|Pumpkin Coach|blue}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100}}
+|-
+| style="height:55px;" | {{Retext|Cloud Fairy|red}} || 5 || Badger Game. || {{RewardIconWithText|B-Tad, +100k}} || {{RewardIconWithLink|Gold Bucket|green}}<br>{{RewardIconWithText|B-Tad, +500k}} || -
+|-
+| style="height:55px;" | {{Retext|Clown|green}} || 1 || Abetting and intimidating. || {{RewardIconWithText|B-Tad, +1k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Cthulhu|red}} || 5 || Illegal Sewage Discharge. || {{RewardIconWithText|B-Tad, +100k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Dark Widow|green}} || 1 || Wounding with intent. || {{RewardIconWithText|B-Tad, +1k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Dark Phoenix|red}} || 6 || Possession of Dangerous Goods. || {{RewardIconWithText|B-Tad, +100k}} || - || {{RewardIconWithLink|Phoenix Feather|orange}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100k}} 
+|-
+| style="height:55px;" | {{Retext|Darkseit|red}} || 5 || Extortion. || {{RewardIconWithText|B-Tad, +100k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Deathwing|orange}} || 4 || Arson. || {{RewardIconWithText|B-Tad, +10k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Deity Taiyi|orange}} || 4 || Indulging disciples' ferocity. || {{RewardIconWithText|B-Tad, +100k}} || {{RewardIconWithLink|Spirit Bead|green}}<br>{{RewardIconWithText|B-Tad, +500k}} || -
+|-
+| style="height:55px;" | {{Retext|Destroyer|red}} || 5 || Damage to public property. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Dispolo|orange}} || 4 || Possessing other's body. || {{RewardIconWithText|B-Tad, +100k}}|| - || -
+|-
+| style="height:55px;" | {{Retext|Dogcepticon|purple}} || 3 || Dangerous driving. || {{RewardIconWithText|B-Tad, +10k}} || {{RewardIconWithLink|Dogbot Badge|green}}<br>{{RewardIconWithText|B-Tad, +50k}} || -
+|-
+| style="height:55px;" | {{Retext|Domammu|red}} || 6 || Disturb Time Order. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Eagle Eye|green}} || 1 || Shoving His Friend Off A Cliff. || {{RewardIconWithText|B-Tad, +1k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Elder Tugoru|blue}} || 2 || Using Steroids in a Tourney || {{RewardIconWithText|B-Tad, +10k}} || - || -
+|}
+
+|-|F-H=
+{| class="wikitable sortable"
+! '''Suspect''' !! '''Level''' !! class="unsortable"| '''Charges''' !! class="unsortable"| '''B+A<br>(Caught)''' !! class="unsortable"| '''B+A<br>(Escaped)''' !! class="unsortable"| '''B+B<br>(Possible Rewards)'''
+|-
+| style="height:55px;" | {{Retext|Fenrir|red}} || 5 || Spread Rabies. ||{{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Freezer|purple}} || 3 || Building up a gang. || {{RewardIconWithText|B-Tad, +50k}} || -
+|-
+| style="height:55px;" | {{Retext|Gemini Fighter|blue}} || 2 || Destroying sanctuary sanitation. || {{RewardIconWithText|B-Tad, +10k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Gigatron|orange}} || 4 || Smuggling Scrap Metal. || {{RewardIconWithText|B-Tad, +100k}}|| - || {{RewardIconWithLink|Dyson Sphere|orange}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100k}}
+|-
+| style="height:55px;" | {{Retext|Glaurang|red}} || 5 || Hunt Rare Animals. || {{RewardIconWithText|B-Tad, +100k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Golden Friezer|red}} || 6 || Unlicensed Business. ||  {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Gulden|blue}} || 2 || Selling Illegal Drinks. || {{RewardIconWithText|B-Tad, +10k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Gusman|green}} || 1 || Building a Drug Empire. || {{RewardIconWithText|B-Tad, +1k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Guvara|green}} || 1 || Illicit employment. || {{RewardIconWithText|B-Tad, +1k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Hannibal|green}} || 1 || Food Safety Violations. || {{RewardIconWithText|B-Tad, +1k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Hanuman|red}} || 5 || Intimidate Others. || {{RewardIconWithText|B-Tad, +100k}} || - || {{RewardIconWithLink|Bhagavata Purana|orange}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100k}}
+|-
+| style="height:55px;" | {{Retext|Hera|red}} || 5 || Illegal Organ Transplant. || {{RewardIconWithText|B-Tad, +100k}} || - || - 
+|}
+
+|-|I-L=
+{| class="wikitable sortable"
+! '''Suspect''' !! '''Level''' !! class="unsortable"| '''Charges''' !! class="unsortable"| '''B+A<br>(Caught)''' !! class="unsortable"| '''B+A<br>(Escaped)''' !! class="unsortable"| '''B+B<br>(Possible Rewards)'''
+|-
+| style="height:55px;" | {{Retext|Illiden|blue}} || 2 || Driving While Blindfolded. || {{RewardIconWithText|B-Tad, +10k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Ivey|green}} || 1 || Not Flushing in a Public Restroom. || {{RewardIconWithText|B-Tad, +1k}} || - || {{RewardIconWithLink|Musketeer Mask|blue}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100}}
+|-
+| style="height:55px;" | {{Retext|Jack the Ripper|green}} || 1 || Illegal Organ Harvesting. || {{RewardIconWithText|B-Tad, +10k}} || {{RewardIconWithLink|Unidentified Kidney|purple}}<br>{{RewardIconWithText|B-Tad, +500}} || -
+|-
+| style="height:55px;" | {{Retext|Karz|red}} || 5 || Revealing Clothing. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Ken|red}} || 5 || Quarelling. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|King of the Dark|red}} || 5 || Illegal Schooling. || {{RewardIconWithText|B-Tad, +100k}} || {{RewardIconWithLink|Kyber crystal|green}}<br>{{RewardIconWithText|B-Tad, +500k}}  || - 
+|-
+| style="height:55px;" | {{Retext|Kingbin|blue}} || 2 || Eating Too Many Cheeseburgers. || {{RewardIconWithText|B-Tad, +10k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Kronos|red}} || 6 || Child Abuse. || {{RewardIconWithText|B-Tad, +100k}} || {{RewardIconWithLink|Seal of Titans|green}}<br>{{RewardIconWithText|B-Tad, +500k}} || - 
+|-
+| style="height:55px;" | {{Retext|Kuafu|red}} || 6 || Vandalism. || {{RewardIconWithText|B-Tad, +100k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Lancelot|blue}} || 2 || Killing Endangered Species. || {{RewardIconWithText|B-Tad, +10k}} || - || {{RewardIconWithLink|Avelon|purple}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +1k}}
+|-
+| style="height:55px;" | {{Retext|Leader Song|blue}} || 2 || Colluding with Bandits. || {{RewardIconWithText|B-Tad, +10k}} || - || {{RewardIconWithLink|Fuchun Mountains|purple}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +1k}}
+|-
+| style="height:55px;" | {{Retext|Lich Emperor|blue}} || 2 || Purging Entire Cities. || {{RewardIconWithText|B-Tad, +10k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Living Court|red}} || 7 || Bend the Law. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Loofy|blue}} || 2 || Being in an illegal organization. || {{RewardIconWithText|B-Tad, +10k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Loki|purple}} || 3 || Defrauding others. || {{RewardIconWithText|B-Tad, +50k}} || - || {{RewardIconWithLink|Horn of Heimdall|orange}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+| style="height:55px;" | {{Retext|Louis XVI|green}} || 1 || Abusing Power. || {{RewardIconWithText|B-Tad, +1k}} || - || {{RewardIconWithLink|Guillotine|blue}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100}}
+|-
+| style="height:55px;" | {{Retext|Lucifer|orange}} || 4 || Playing Detective. || {{RewardIconWithText|B-Tad, +100k}} || - || {{RewardIconWithLink|Paradise Lost|orange}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100k}}
+|}
+
+|-|M-Q=
+{| class="wikitable sortable"
+! '''Suspect''' !! '''Level''' !! class="unsortable"| '''Charges''' !! class="unsortable"| '''B+A<br>(Caught)''' !! class="unsortable"| '''B+A<br>(Escaped)''' !! class="unsortable"| '''B+B<br>(Possible Rewards)'''
+|-
+| style="height:55px;"  | {{Retext|Magic Buu|orange}} || 4 || Spitting in public. || {{RewardIconWithText|B-Tad, +100k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Manson|green}} || 1 || Home invasion. || {{RewardIconWithText|B-Tad, +1k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Medusa|blue}} || 2 || Selling Snake Oil. || {{RewardIconWithText|B-Tad, +10k}} || - || {{RewardIconWithLink|Eye of Medusa|blue}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +1k}}
+|-
+| style="height:55px;" | {{Retext|Mephisto|purple}} || 3 || Fraud. || {{RewardIconWithText|B-Tad, +50k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Milk White|blue}} || 2 || Misclassifying garbage. || {{RewardIconWithText|B-Tad, +10k}} || {{RewardIconWithLink|Dwarf Specimen|green}}<br>{{RewardIconWithText|B-Tad, +5k}} || -
+|-
+| style="height:55px;" | {{Retext|Mogoth|red}} || 5 || Sell Pirated Movies. || {{RewardIconWithText|B-Tad, +100k}} || - || {{RewardIconWithLink|Silmarils|orange}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100k}}
+|-
+| style="height:55px;" | {{Retext|Mordred|green}} || 1 || Organizing a Palace Coup. || {{RewardIconWithText|B-Tad, +1k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Mother of Golden Spirit|red}} || 6 || Absenteeism. || {{RewardIconWithText|B-Tad, +100k}} || - || {{RewardIconWithLink|Little Red Riding Hood|orange}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100k}} 
+|-
+| style="height:55px;" | {{Retext|Napoleon|green}} || 1 || Prison break. || {{RewardIconWithText|B-Tad, +1k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Pandora|purple}} || 3 || Illegal Organ Harvesting. || {{RewardIconWithText|B-Tad, +50k}} || - || {{RewardIconWithLink|Pandora's Box|orange}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+| style="height:55px;" | {{Retext|Pangu|red}} || 8 || Spitting in public. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Pepper the Butcher|green}} || 1 || Selling Unfresh Meat. || {{RewardIconWithText|B-Tad, +1k}} || {{RewardIconWithLink|Blower|green}}<br>{{RewardIconWithText|B-Tad, +500}} || -
+|-
+| style="height:55px;" | {{Retext|Prometheus|red}} || 5 || Sell Contraband. || {{RewardIconWithText|B-Tad, +100k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Pythonese|blue}} || 2 || Studying taboo ninjutsu. || {{RewardIconWithText|B-Tad, +10k}} || - || -
+|}
+
+|-|R-S=
+{| class="wikitable sortable"
+! '''Suspect''' !! '''Level''' !! class="unsortable"| '''Charges''' !! class="unsortable"| '''B+A<br>(Caught)''' !! class="unsortable"| '''B+A<br>(Escaped)''' !! class="unsortable"| '''B+B<br>(Possible Rewards)'''
+|-
+| style="height:55px;" | {{Retext|Rasputin|green}} || 1 || Brainwashing with Music. || {{RewardIconWithText|B-Tad, +1k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Reptilette|blue}} || 2 || Lying About Their Resume. || {{RewardIconWithText|B-Tad, +10k}} || {{RewardIconWithLink|Chameleon Scales|blue}} +3<br>{{RewardIconWithText|B-Tad, +5k}} || -
+|-
+| style="height:55px;" | {{Retext|Robin Hood|green}} || 1 || Burglary. || {{RewardIconWithText|B-Tad, +1k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Ronin Katsura|blue}} || 2 || Pyramid Scheming. || {{RewardIconWithText|B-Tad, +10k}} || {{RewardIconWithLink|Birdie|green}}<br>{{RewardIconWithText|B-Tad, +5k}} || -
+|-
+| style="height:55px;" | {{Retext|Ryoma|green}} || 1 || Inciting Sedition. || {{RewardIconWithText|B-Tad, +1k}} || - || {{RewardIconWithLink|Great Wave|blue}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100}}
+|-
+| style="height:55px;" | {{Retext|Saluman|purple}} || 3 || Illegal logging. || {{RewardIconWithText|B-Tad, +50k}} || - || {{RewardIconWithLink|Truth Crystal|purple}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+| style="height:55px;" | {{Retext|Scarlet Skull|blue}} || 2 || Stealing the Soul Rock. || {{RewardIconWithText|B-Tad, +10k}} || - || {{RewardIconWithLink|Supersoldier Serum|purple}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +1k}}
+|-
+| style="height:55px;" | {{Retext|Sentinel|red}} || 6 || Steal Cables. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Sir Black|blue}} || 2 || Leading a Prison Riot. || {{RewardIconWithText|B-Tad, +10k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Snowdan|green}} || 1 || Disclosure of confidential information. || {{RewardIconWithText|B-Tad, +1k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Sorge|green}} || 1 || Stealing military secrets. || {{RewardIconWithText|B-Tad, +1k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Sorron|orange}} || 4 || Invading Privacy. || {{RewardIconWithText|B-Tad, +100k}} || {{RewardIconWithLink|Demon Skull|orange}}<br>{{RewardIconWithText|B-Tad, +500k}} || -
+|-
+| style="height:55px;" | {{Retext|Spartacus|green}} || 1 || Running a Fight Club. || {{RewardIconWithText|B-Tad, +1k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Star Devourer|red}} || 7 || Insider Trading. || {{RewardIconWithText|B-Tad, +100k}} || - || {{RewardIconWithLink|Black Body|orange}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100k}}
+|-
+| style="height:55px;" | {{Retext|Summer Fighter|blue}} || 2 || Downloading pirated comics. || {{RewardIconWithText|B-Tad, +10k}} || {{RewardIconWithLink|Supersoldier Serum|purple}}<br>{{RewardIconWithText|B-Tad, +5k}} || -
+|-
+| style="height:55px;" | {{Retext|Susan|green}} || 1 || Possession of Restricted Knives. || {{RewardIconWithText|B-Tad, +1k}} || {{RewardIconWithLink|Faceless One Token|green}}<br>{{RewardIconWithText|B-Tad, +500}} || -
+|-
+| style="height:55px;" | {{Retext|Surtr|red}} || 5 || Arson. || {{RewardIconWithText|B-Tad, +100k}} || {{RewardIconWithLink|Flame of Destruction|green}}<br>{{RewardIconWithText|B-Tad, +500k}} || -
+|}
+
+|-|T-Z=
+{| class="wikitable sortable"
+! '''Suspect''' !! '''Level''' !! class="unsortable"| '''Charges''' !! class="unsortable"| '''B+A<br>(Caught)''' !! class="unsortable"| '''B+A<br>(Escaped)''' !! class="unsortable"| '''B+B<br>(Possible Rewards)'''
+|-
+| style="height:55px;" | {{Retext|Terrible Singer|green}} || 1 || Noise pollution. || {{RewardIconWithText|B-Tad, +1k}} || || 
+|-
+| style="height:55px;" | {{Retext|The Great Evil Monster|red}} || 8 || Open Defecation. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Thor|purple}} || 3 || Owing huge electric bill. || {{RewardIconWithText|B-Tad, +50k}} || || {{RewardIconWithLink|Skidbladnir Ship|purple}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +10k}}
+|-
+| style="height:55px;" | {{Retext|Tiamat|red}} || 6 || Noise Disturbance. || {{RewardIconWithText|B-Tad, +100k}} || {{RewardIconWithLink|Chains of Sky|green}}<br>{{RewardIconWithText|B-Tad, +500k}} || ?
+|-
+| style="height:55px;" | {{Retext|Time Ancestor|red}} || 7 || Moral Pollution. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Titan Fighter|orange}} || 4 || Dimension invasion. || {{RewardIconWithText|B-Tad, +100k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Transcender|red}} || 8 || Littering. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Verdant Goblin|blue}} || 2 || Pretending to be a Scientist. || {{RewardIconWithText|B-Tad, +10k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Vovadoss|red}} || 6 || Pry into Privacy. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Vyse|red}} || 8 || Drunk Driving. || {{RewardIconWithText|B-Tad, +100k}} || {{RewardIconWithLink|Observation Ball|green}}<br>{{RewardIconWithText|B-Tad, +500k}} || -
+|-
+| style="height:55px;" | {{Retext|Wolfie|green}} || 1 || Befriending Sheep. || {{RewardIconWithText|B-Tad, +1k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Yakami|blue}} || 2 || Starring in a Bad Adaptation. || {{RewardIconWithText|B-Tad, +10k}} || - || {{RewardIconWithLink|Ranjyatai Incense|blue}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +?}}
+|-
+| style="height:55px;" | {{Retext|Younger Tugoru|blue}} || 2 || Being a Creep. || {{RewardIconWithText|B-Tad, +10k}} || - || - 
+|-
+| style="height:55px;" | {{Retext|Zamas|red}} || 7 || Posessing other's body. || {{RewardIconWithText|B-Tad, +100k}} || - || -
+|-
+| style="height:55px;" | {{Retext|Zorro|green}} || 1 || Marking Z Everywhere. || {{RewardIconWithText|B-Tad, +1k}} || - || {{RewardIconWithLink|Mask of Zorro|blue}}<br>'''- OR -'''<br>{{RewardIconWithText|B-Tad, +100}}
+</tabber>
+
+==Enemy Stats==
+<div style=overflow-x:auto;>
+{| class="wikitable sortable"
+!Enemy
+!ATK
+! class="unsortable"|DEF
+! class="unsortable"|HP
+! class="unsortable"|Weakness
+! class="unsortable"|Special Stats
+! class="unsortable"|Rewards
+|-
+|{{Retext|Anti-Spy|red}}
+|652,937
+|482,195
+|62,721,905
+|AFFCT 275,000
+|CRIT +100%<br>Crit DMG -10%<br>HIT +80<br>Paralysis RES +80%<br>Each round, ATK +10,000<br>Each round, DEF +10,000
+|{{RewardIconWithLink|Formula of Destruction|green}}<br>{{RewardIconWithText|B-Tad, +500k}} 
+|-
+|{{Retext|Ape God|red}}
+|465,313
+|296,195
+|49,015,140
+|AFFCT 275,000
+|?
+|{{RewardIconWithLink|Ape God Attestation|green}}<br>{{RewardIconWithText|B-Tad, +500k}} 
+|-
+|{{Retext|Bloody Queen|blue}}
+|18,193
+|13,647 
+|191,636
+|AFFCT 42,800
+|?
+|{{RewardIconWithLink|Silicone Gel Implant, +3|blue}}<br>{{RewardIconWithText|B-Tad, +50k}}
+|-
+|{{Retext|Canine Samurai|blue}}
+|18,778
+|14,086
+|199,279
+|AFFCT 44,200
+| -
+|{{RewardIconWithLink|Soul Jade|green}}<br>{{RewardIconWithText|B-Tad, +50k}}
+|-
+|{{Retext|Cloud Fairy|red}}
+|214,099
+|176,295
+|6,784,458
+|AFFCT 160,000
+|CRIT +100%<br>Crit DMG -30%<br>HIT +50<br>Paralysis RES +50%<br>Each round, HP+100k
+|{{RewardIconWithLink|Gold Bucket|green}}<br>{{RewardIconWithText|B-Tad, +500k}}
+|-
+|{{Retext|Cronus|red}}
+|427,936
+|326,830
+|24,295,751
+|AFFCT 230,000
+|CRIT +100%<br>Crit DMG -20%<br>HIT +60<br>Paralysis RES +60%
+|{{RewardIconWithLink|Seal of Titans|green}}<br>{{RewardIconWithText|B-Tad, +500k}}
+|-
+|{{Retext|Deity Taiyi|orange}}
+|84,011
+|65,350
+|1,512,013
+|AFFCT 125,137
+| -
+|{{RewardIconWithLink|Spirit Bead|green}}<br>{{RewardIconWithText|B-Tad, +500k}}
+|-
+|{{Retext|Dogcepticon|blue}}
+|17,050
+|12,790
+|176,913
+|AFFCT 40,100
+| -
+|{{RewardIconWithLink|Dogbot Badge|green}}<br>{{RewardIconWithText|B-Tad, +50k}}
+|-
+|{{Retext|Jack the Ripper|green}}
+|2,349
+|1,764
+|7,561
+|AFFCT 5,707
+| -
+|{{RewardIconWithLink|Unidentified Kidney|purple}}<br>{{RewardIconWithText|B-Tad, +500}}
+|-
+|{{Retext|King of the Dark|red}}
+|216,612
+|176,295
+|6,815,456
+|AFFCT 160,000
+|CRIT +100%<br>CRIT DMG -30%<br>HIT +50<br>Paralysis RES +50%<br>Lifesteal Rate +100%<br>Lifesteal Effect +2000%
+|{{RewardIconWithLink|Kyber Crystal|green}}<br>{{RewardIconWithText|B-Tad, +500k}} 
+|-
+|{{Retext|Kronos|red}}
+|427,936
+|326,830
+|24,295,751
+|AFFCT 230,000
+|CRIT +100%<br>CRIT DMG -20%<br>HIT +60<br>Paralysis RES +60%
+|{{RewardIconWithLink|Seal of Titans|green}}<br>{{RewardIconWithText|B-Tad, +500k}} 
+|-
+|{{Retext|Milk White|blue}}
+|3,604
+|2,706
+|17,743
+|AFFCT 8,647
+| -
+|{{RewardIconWithLink|Dwarf Specimen|green}}<br>{{RewardIconWithText|B-Tad, +5k}}
+|-
+|{{Retext|Pepper the Butcher|green}}
+|1,257
+|946
+|2,207
+|AFFCT 3,150
+| -
+|{{RewardIconWithLink|Blower|green}}<br>{{RewardIconWithText|B-Tad, +500}}
+|-
+|{{Retext|Reptilette|blue}}
+|5,107
+|3,862
+|35,594
+|AFFCT 12,100
+|?
+|{{RewardIconWithLink|Chameleon Scales|blue}} +3<br>{{RewardIconWithText|B-Tad, +5k}}
+|-
+|{{Retext|Ronin Katsura|blue}}
+| 3,711
+|2,786
+|18,808 
+|AFFCT 8,902
+|?
+|{{RewardIconWithLink|Birdie|green}}<br>{{RewardIconWithText|B-Tad, +5k}}
+|-
+|{{Retext|Sorron|orange}}
+|74,486
+|53,165
+|1,402,323
+|AFFCT 115,131
+| -
+|{{RewardIconWithLink|Demon Skull|orange}}<br>{{RewardIconWithText|B-Tad, +500k}}
+|-
+|{{Retext|Summer Fighter|blue}}
+|3,829
+|2,949
+|31,708
+|AFFCT 9,412
+|?
+|{{RewardIconWithLink|Supersoldier Serum|purple}}<br>{{RewardIconWithText|B-Tad, +5k}}
+|-
+|{{Retext|Susan|green}}
+|1,358
+|1,021
+|1,565
+|AFFCT 3,382
+| -
+|{{RewardIconWithLink|Faceless One Token|green}}<br>{{RewardIconWithText|B-Tad, +500}}
+|-
+|{{Retext|Surtr|red}}
+|196,668
+|176,295
+|8,066,446
+|AFFCT 160,000
+|CRIT +100%<br>HIT +50<br>Paralysis RES +50%
+|{{RewardIconWithLink|Flame of Destruction|green}}<br>{{RewardIconWithText|B-Tad, +500k}}
+|-
+|{{Retext|Tiamat|red}}
+|439,256
+|326,830
+|17,648,234
+|AFFCT 230,000
+|CRIT +100%<br>Crit DMG -20%<br>HIT +60<br>Each Round, HP +500,000
+|{{RewardIconWithLink|Chains of Sky|green}}<br>{{RewardIconWithText|B-Tad, +500k}}
+|-
+
+|{{Retext|Vyse|red}}
+|887,684
+|641,585
+|60,209,960
+|AFFCT 335,000
+|CRIT +100%<br>Dodge +40%<br>HIT +80<br>Paralysis RES +80%<br>Each round, HP +2,000,000<br>In the 2nd round, time stops for 3 round(s)
+|{{RewardIconWithLink|Observation Ball|green}}<br>{{RewardIconWithText|B-Tad, +500k}}
+|}
+</div>
+[[Category:{{SITENAME}}]]

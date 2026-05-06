@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dark Lord's Diary
+|class_id=20100
+|rank=Green
+|affct=CIV
+|source=
+|description=As the Dark Lord believes that he will rule the world one day, keeping a diary has become an unbreakable ritual. As he penned down all his thoughts honestly and injected his spirit into the diary, those who have a weak mind may turn into a believer upon reading it!
+|fame=13
+|art=14
+|fth=14
+|civ=33
+|tech=16
+|ss1=Against King of Light, Deal +1000% DMG<br>Snail Leadership +1
+|ss2=Against King of Light, Deal +1000% DMG<br>Snail Leadership +2
+|ss3=Against King of Light, Deal +1000% DMG<br>Snail Leadership +3
+|ss4=Against King of Light, Deal +1000% DMG<br>Snail Leadership +3
+|ss7=Against King of Light, Deal +1000% DMG<br>Snail Leadership +3<br> (Awakened)
+}}

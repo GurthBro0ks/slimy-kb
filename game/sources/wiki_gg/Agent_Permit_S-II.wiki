@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Agent Permit S-II
+|class_id=20206
+|rank=Green
+|affct=TECH
+|source=
+|description=The holder of the card is a super agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)
+|fame=10
+|art=15
+|fth=18
+|civ=17
+|tech=30
+|ss1=Per Super Agent defeated, Snail ATK +5<br>Super Agents Defeated: 20/20
+|ss2=Per Super Agent defeated, Snail ATK +10<br>Super Agents Defeated: 20/20
+|ss3=Per Super Agent defeated, Snail ATK +15<br>Super Agents Defeated: 20/20
+|ss4=Per Super Agent defeated, Snail ATK +15<br>Super Agents Defeated: 20/20
+|ss7=Per Super Agent defeated, Snail ATK +15<br>Super Agents Defeated: 20/20<br> (Awakened)
+}}

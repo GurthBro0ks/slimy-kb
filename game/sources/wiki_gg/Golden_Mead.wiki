@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Golden Mead
+|class_id=21758
+|rank=AAA
+|affct=FAITH
+|source=
+|description=In a white skull goblet, the enticing golden-yellow liquor swirls, with each drop's aroma surpassing any aged vintage wine, yet each drop exudes an ominous aura, enough to intoxicate any creature to death... Warning: DrinkingThis wine will plunge you into a state of physical and mental stagnation, leaving you with only a scant few moments of madness for the rest of your life!
+|fame=41
+|art=49
+|fth=73
+|civ=35
+|tech=45
+|ss1=Per 10 treasure draws, Snail HP +30<br>Per 10 treasure draws, Snail ATK +3<br>Total Treasures drawn: 500/500
+|ss2=Per 10 treasure draws, Snail HP +40<br>Per 10 treasure draws, Snail ATK +4<br>Total Treasures drawn: 500/500
+|ss3=Per 10 treasure draws, Snail HP +50<br>Per 10 treasure draws, Snail ATK +5<br>Total Treasures drawn: 500/500
+|ss4=Per 10 treasure draws, Snail HP +70<br>Per 10 treasure draws, Snail ATK +7<br>Total Treasures drawn: 500/500
+|ss5=Per 10 treasure draws, Snail HP +90<br>Per 10 treasure draws, Snail ATK +9<br>Total Treasures drawn: 500/500
+|ss7=Per 10 treasure draws, Snail HP +90<br>Per 10 treasure draws, Snail ATK +9<br>Total Treasures drawn: 500/500<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Fungusfarm skill II.png|50px]]Place in Fungus Farm: Grow Wonder Fungus by +15%
+|skill2=[[File:Timemachine skill II.png|50px]]Place in Time Machine: Generate Time Chests by +15%
+}}

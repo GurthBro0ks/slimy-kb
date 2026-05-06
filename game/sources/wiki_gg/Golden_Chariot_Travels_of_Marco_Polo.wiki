@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Golden Chariot,Travels of Marco Polo
+|rank=orange
+|amount=2
+|category=self
+|description=Per 10k Power, Snail DEF +5<br>Power: 420,000/420,000
+}}
+[[Category:Self]]

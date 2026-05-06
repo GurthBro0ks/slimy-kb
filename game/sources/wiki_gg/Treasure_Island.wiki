@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Treasure Island
+|class_id=22175
+|rank=AAA
+|affct=CIV
+|birthday=06-27
+|source=
+|description=On Jun 27, 1883 AD, Stevenson officially released the book Treasure Island.<br>Treasure Island is an adventure novel by British novelist Stevenson that follows the story of a boy named Jim as he embarks on a journey to find a legendary treasure. Along the way, he battles ruthless pirates and quells a rebellion. Rumors abound that six treasures still remain buried on the island, drawing treasure hunters from far and wide.
+|fame=47
+|art=42
+|fth=37
+|civ=68
+|tech=34
+|ss1=Refine +1 White Gaia Material +3%<br>Per 30 Minions in battle:<br>> Troop HP +80
+|ss2=Refine +1 White Gaia Material +4%<br>Per 30 Minions in battle:<br>> Troop HP +120
+|ss3=Refine +1 White Gaia Material +5%<br>Per 30 Minions in battle:<br>> Troop HP +160
+|ss4=Refine +1 White Gaia Material +7%<br>Per 30 Minions in battle:<br>> Troop HP +240
+|ss5=Refine +1 White Gaia Material +9%<br>Per 30 Minions in battle:<br>> Troop HP +320
+|ss7=Refine +1 White Gaia Material +9%<br>Per 30 Minions in battle:<br>> Troop HP +320<br>Per 30 Minions in battle:<br>> Troop HP +280 (Awakened)
+|skill1=[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: This Relic's CIV +10
+|skill2=[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: In Minion Sims, Troop Wind DMG +30
+}}

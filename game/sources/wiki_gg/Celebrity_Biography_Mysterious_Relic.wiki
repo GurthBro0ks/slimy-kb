@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Celebrity Biography,Mysterious Relic
+|rank=orange
+|amount=2
+|category=minion
+|description=Per 60 T7+ Demon Minions in battle: Troop HARD Stats +70
+}}
+[[Category:Minion]]
+[[Category:Demon Minion HARD Boost]]

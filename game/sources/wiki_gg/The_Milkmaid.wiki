@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=The Milkmaid
+|class_id=22131
+|rank=AA
+|affct=ART
+|birthday=11-07
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Nov 7, 1660 AD, Vermeer completed the painting of the Milkmaid.<br>The Milkmaid is a painting by the famous Dutch painter, Vermeer. The woman in the picture is wearing a coarse yellow blouse, with a dark blue apron around her waist, and a white scarf on her head. Solemn and calm she pours milk from a jug. The soft light and reflections highlight Vermeer's technique. The seventeenth-century Dutchman depicts a scene of peace and tranquility.
+|fame=37
+|art=66
+|fth=39
+|civ=51
+|tech=35
+|ss1=Per Unknown Creature needs met, Snail HP +60<br>Per Unknown Creature needs met, Snail ATK +6<br>Needs Met: 15/15
+|ss2=Per Unknown Creature needs met, Snail HP +90<br>Per Unknown Creature needs met, Snail ATK +9<br>Needs Met: 15/15
+|ss3=Per Unknown Creature needs met, Snail HP +120<br>Per Unknown Creature needs met, Snail ATK +12<br>Needs Met: 15/15
+|ss4=Per Unknown Creature needs met, Snail HP +180<br>Per Unknown Creature needs met, Snail ATK +18<br>Needs Met: 15/15
+|ss5=Per Unknown Creature needs met, Snail HP +240<br>Per Unknown Creature needs met, Snail ATK +24<br>Needs Met: 15/15
+|ss7=Per Unknown Creature needs met, Snail HP +240<br>Per Unknown Creature needs met, Snail ATK +24<br>Needs Met: 15/15<br>Snail HP +700 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +60
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x White Card Drops +3%
+}}

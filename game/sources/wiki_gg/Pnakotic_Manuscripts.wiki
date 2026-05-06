@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Pnakotic Manuscripts
+|class_id=22700
+|rank=SSS
+|affct=FAITH
+|birthday=03-11
+|source=
+|description=On March 11, 1452, a European scholar discovered this ancient manuscript in his collection.<br>The Pnakotic Fragments was copied by an anonymous scholar from a Greek papyrus scroll, and its name and content are derived from the Lomar civilization of the first humans. It is said that the great winged ones visited to help them, and the identity of the winged ones has long been debated, but the symbols used in the book are the same as those used in the sea lily creatures of the ages, and it is said that this creature brought life to the earth...
+|fame=60
+|art=75
+|fth=107
+|civ=53
+|tech=66
+|ss1=Angel Minion HP +3%<br>All Angel Minion Skins, HARD Stats +30%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss2=Angel Minion HP +4%<br>All Angel Minion Skins, HARD Stats +40%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss3=Angel Minion HP +5%<br>All Angel Minion Skins, HARD Stats +50%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss4=Angel Minion HP +7%<br>All Angel Minion Skins, HARD Stats +70%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss5=Angel Minion HP +9%<br>All Angel Minion Skins, HARD Stats +90%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss6=Angel Minion HP +12%<br>All Angel Minion Skins, HARD Stats +120%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Swamp Sanctum Rating Pts: 100000/100000
+|ss7=Angel Minion HP +12%<br>All Angel Minion Skins, HARD Stats +120%<br>Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Swamp Sanctum Rating Pts: 100000/100000<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Output +30%
+|skill2=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: This Relic's FTH +15
+|skill3=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Cap +30%
+|mirage={{Mirage|name=Lomar's Memory|reward={{RewardIconWithLink|Eye of Horus, +1|orange}}
+|3name=Scholar Hoville|3rec=146.64M|3atk=417435|3defense=250208|3hp=58120245|3weak=49738
+|4name=Hyperborea Priest|4rec=176.07M|4atk=481689|4defense=291620|4hp=88708859|4weak=54466
+|5name=The Ancient|5rec=217.86M|5atk=570100|5defense=350414|5hp=137109928|5weak=59781
+|6name=Isa|6rec=303.51M|6atk=698965|6defense=435618|6hp=239024311|6weak=65665
+|Arec=431.50M|Aatk=874666|Adefense=550764|Ahp=403884713|Aweak=71615
+}}}}

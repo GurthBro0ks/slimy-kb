@@ -1,0 +1,19 @@
+{{CargoRelic
+|name=Solar-Powered Surfboard
+|class_id=20840
+|rank=Green
+|affct=TECH
+|source=
+|description=A product that combines water sports with eco-friendly design, allowing users to collect sunlight through solar panels while surfing! Additionally, this product has a beginner mode that supports converting the collected energy into electricity to propel the surfboard forward. This innovative product received unanimous praise from the public as soon as it hit the market!
+[Product Review] As useful as the solar-powered flashlight. Great, the board leaked electricity and fully charged my phone.
+|fame=16
+|art=19
+|fth=14
+|civ=13
+|tech=28
+|ss1=Free Gene Speedup (Mecha) +6m<br>Per Sea Area conquered, Snail HP +50<br>Areas of Mysterious Sea Conquered: 6/6
+|ss2=Free Gene Speedup (Mecha) +12m<br>Per Sea Area conquered, Snail HP +100<br>Areas of Mysterious Sea Conquered: 6/6
+|ss3=Free Gene Speedup (Mecha) +18m<br>Per Sea Area conquered, Snail HP +150<br>Areas of Mysterious Sea Conquered: 6/6
+|ss4=Free Gene Speedup (Mecha) +18m<br>Per Sea Area conquered, Snail HP +150<br>Areas of Mysterious Sea Conquered: 6/6
+|ss7=Free Gene Speedup (Mecha) +18m<br>Per Sea Area conquered, Snail HP +150<br>Areas of Mysterious Sea Conquered: 6/6<br> (Awakened)
+}}

@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Ultimate Mouthparts
+|type=Common
+|rank=red
+|id=10917
+|idx=117
+|description=The organ is obtained by infusing embryonic stem cells with the ultimate bionic part essence, having a leap in performance.
+|skill=
+|hp=3520
+|def=225
+|atk=274
+|rush=219
+|gene1=Fire DMG +120
+|gene2=Fire RES +120
+|gene3=Against main species, DMG +12%
+|gene4=Against main species, Crit DMG +20%
+|gene5=Per Orange Coating crafted, gain +1 by +10%
+|gene6=All FAME Bionic Parts ELMT RES +2%
+|gene7=Fire DMG +6% (Awakened)
+|}}

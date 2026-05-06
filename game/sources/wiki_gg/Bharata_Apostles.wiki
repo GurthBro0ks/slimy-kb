@@ -1,0 +1,131 @@
+==Tagore==
+'''Area:'''  Calcutta
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Tagore|| || || || || || || || 
+|}
+
+==Emperor Akbar==
+'''Area:'''  Mahya Pradesh
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Emperor Akbar|| || || || || || || || 
+|-
+|''Mughal Infantry''|| || || || || || || || 
+|-
+|''Mughal Calvalryman''|| || || || || || || || 
+|-
+|''Mughal Mahout''|| || || || || || || || 
+|}
+
+==Bhartan Baker==
+'''Area:'''  Utar Pradesh
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Bhartan Baker|| || || || || || || || 
+|-
+|''Papad''|| || || || || || || || 
+|-
+|''Paratha''|| || || || || || || || 
+|-
+|''Pizza''|| || || || || || || || 
+|-
+|''Baati''|| || || || || || || || 
+|-
+|''Cast Iron Tawa''|| || || || || || || || 
+|}
+
+==Snake Charmer==
+'''Area:'''  Gujalatt
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Snake Charmer||111024||79261||1171108||FTH 18558?||HIT +80; Paralysis RES +80%||11M||?||{{RewardIconWithText|Rosary Green, +1}}, {{RewardIconWithText|Meal Box Size, +500}}, {{RewardIconWithText|Travel Speedup, +130m}}
+|-
+|''Rat Snake''|| || || || || || || || 
+|-
+|''Rattlesnake''|| || || || || || || || 
+|-
+|''Cobra''|| || || || || || || || 
+|-
+|''Boa''|| || || || || || || || 
+|-
+|''Verta''||104511||76736||1052822||AFFCT 88907?||HIT +50; Paralysis RES +50%||?||?||{{RewardIconWithText|B-Tad, +1320}}, {{RewardIconWithText|Intel, +510}}
+|-
+|''Blanca''||105729||77204||1075607||AFFCT 90044?||HIT +50; Paralysis RES +50%||?||?||{{RewardIconWithText|B-Tad, +1320}}, {{RewardIconWithText|Intel, +510}}
+|}
+
+==Bahubali==
+'''Area:'''  Munbay
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Bahubali||127299||85786||1433756||FAME 18878?||HIT +80; Paralysis RES +80%|| || ||{{RewardIconWithText|Rosary Green, +1}}, {{RewardIconWithText|Meal Box Size, +500}}, {{RewardIconWithText|Travel Speedup, +140m}}
+|}
+
+==Overcrowded Train==
+'''Area:'''  Goea
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Overcrowded Train||148051||94467||1730389||TECH 19221?||HIT +80; Paralysis Res +80%|| || ||{{RewardIconWithText|Rosary Blue}}, {{RewardIconWithText|Meal Box Size, +500}}, {{RewardIconWithText|Travel Speedup, +150m}}
+|-
+|''Switchman''|| || || || || || || ||{{RewardIconWithText|B-Tad, +1320}}, {{RewardIconWithText|Intel, +510}}
+|-
+|''Dispatcher''||137105||89843||1577532||AFFCT 91922?||HIT +50; Paralysis RES +50%||???||???||{{RewardIconWithText|B-Tad, +1320}}, {{RewardIconWithText|Intel, +510}}
+|}
+
+==Ultimate Motorcycle==
+'''Area:'''  Deli
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Ultimate Motorcycle||173467||105522||2065611||TECH 20088?||HIT +80; Paralysis RES +80%||???||???||{{RewardIconWithText|Rosary Blue}}, {{RewardIconWithText|Meal Box Size, +500}}, {{RewardIconWithText|Travel Speedup, +160m}}
+|-
+|''Motorcycle No.1''||141345||91623||1637604||AFFCT 92733?||HIT +50; Paralysis RES +50%||???||???||{{RewardIconWithText|B-Tad, +1320}}, {{RewardIconWithText|Intel, +510}} 
+|-
+|''Motorcycle No.2''||155175||97523||1826354||AFFCT 93690?||HIT +50; Paralysis RES +50%||???||???||{{RewardIconWithText|B-Tad, +1320}}, {{RewardIconWithText|Intel, +510}}
+|-
+|''Motorcycle No.3''||162722||100796||1925449||AFFCT 94182?||HIT +50; Paralysis RES +50%||???||???||{{RewardIconWithText|B-Tad, +1320}}, {{RewardIconWithText|Intel, +510}}
+|}
+
+==Yoga Master==
+'''Area:'''  Ranki
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Yoga Master|| || || || || || || || 
+|-
+|''Yoga Practitioner''||167997||103107||1994521||AFFCT 94514?||HIT +50; Paralysis Res +50%||?||??||{{RewardIconWithText|B-Tad, +1320}}, {{RewardIconWithText|Intel, +510}}
+|-
+|''Yoga Practitioner''||182033||109336||2174824||AFFCT 95361?||HIT +50; Paralysis Res +50%||?||??||{{RewardIconWithText|B-Tad, +1320}}, {{RewardIconWithText|Intel, +510}}
+|-
+|''Yoga Practitioner''|| || || || || || || || 
+|}
+
+==Retired Wrestler==
+'''Area:'''  Andra Pradesh
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Retired Wrestler|| || || || || || || || 
+|-
+|''Elder Wrestler Sister''|| || || || || || || || 
+|-
+|''Younger Wrestler Sister''|| || || || || || || || 
+|}
+
+==Ashoka==
+'''Area:'''  Bunjab
+{| class="wikitable"
+!Enemy!!ATK!!DEF!!HP!!Weakness!!Special Stats!!Approx. Power<br>to Defeat!!Approx. Power<br>to Dominate!!Rewards
+|-
+|Ashoka|| || || || || || || || 
+|-
+|''Ashoka the Ruthless''|| || || || || || || || 
+|-
+|''Ashoka the Righteous''|| || || || || || || || 
+|}

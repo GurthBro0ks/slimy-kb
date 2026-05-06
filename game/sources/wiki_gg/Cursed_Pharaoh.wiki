@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Cursed Pharaoh
+|rank=purple
+|cabin=2
+|id=90
+|gene1={race} HP +300
+|gene2={race} TECH +30
+|gene3=Per 30 Zombie Minions in battle:
+> Troop HP +80
+|gene4=Resolver: W-tads extracted +6
+|gene5=Per 30 Zombie Minions in battle:
+> Troop HP +120
+|gene6=Resolver: W-tads extracted +9
+|}}

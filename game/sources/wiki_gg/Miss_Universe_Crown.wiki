@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Miss Universe Crown
+|class_id=22108
+|rank=AA
+|affct=FAME
+|birthday=06-28
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Jun 28, 1952 AD, the first Miss Universe contest was held in Long Beach, United States.<br>The Miss Universe Crown can only be worn by the winner of the annual Miss Universe pageant. Since the pageant's inception, sixty-nine of the most outstanding women in the world have been crowned Miss Universe. Contestants from various countries grace the stage to show off their charm. Miss Universe is considered a global fashion icon.
+|fame=68
+|art=38
+|fth=31
+|civ=43
+|tech=48
+|ss1=Per 5 Avatars activated, Snail ATK +2<br>Per 5 Avatars activated, Snail RUSH +2<br>Avatars Activated: 250/250
+|ss2=Per 5 Avatars activated, Snail ATK +3<br>Per 5 Avatars activated, Snail RUSH +3<br>Avatars Activated: 250/250
+|ss3=Per 5 Avatars activated, Snail ATK +4<br>Per 5 Avatars activated, Snail RUSH +4<br>Avatars Activated: 250/250
+|ss4=Per 5 Avatars activated, Snail ATK +6<br>Per 5 Avatars activated, Snail RUSH +6<br>Avatars Activated: 250/250
+|ss5=Per 5 Avatars activated, Snail ATK +8<br>Per 5 Avatars activated, Snail RUSH +8<br>Avatars Activated: 250/250
+|ss7=Per 5 Avatars activated, Snail ATK +8<br>Per 5 Avatars activated, Snail RUSH +8<br>Avatars Activated: 250/250<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's FAME +10
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, DMG +15%
+}}

@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Gumball Statue
+|class_id=21222
+|rank=AAA
+|affct=FAITH
+|source=
+|description=In the battle between Earth's Will and the Demon Gods, a surge of raw power tore open a rift in the fabric of reality. Through this cosmic tear stumbled a crew of rotund adventurers, each one more unique than the last. They called themselves the Gumballs. Choosing sides in a war of cosmic proportions, some of the Gumballs pledged allegiance to Earth's Will and embarked on daring missions. As a token of eternal gratitude, Earth's Will commissioned statues to be sculpted in their honor, ensuring their legacy would be set in stone—quite literally.
+|fame=38
+|art=44
+|fth=75
+|civ=44
+|tech=45
+|ss1=Snail ATK +100<br>Chore Dispatch, chance for a Rebel task<br>Chore Dispatch Times +1<br>Chore Dispatch EXP +15%
+|ss2=Snail ATK +100<br>Chore Dispatch, chance for a Rebel task<br>Chore Dispatch Times +1<br>Chore Dispatch EXP +15%
+|ss3=Snail ATK +100<br>Chore Dispatch, chance for a Rebel task<br>Chore Dispatch Times +1<br>Chore Dispatch EXP +15%
+|ss4=Snail ATK +100<br>Chore Dispatch, chance for a Rebel task<br>Chore Dispatch Times +1<br>Chore Dispatch EXP +15%
+|ss5=Snail ATK +100<br>Chore Dispatch, chance for a Rebel task<br>Chore Dispatch Times +1<br>Chore Dispatch EXP +15%
+|ss7=Snail ATK +100<br>Chore Dispatch, chance for a Rebel task<br>Chore Dispatch Times +1<br>Chore Dispatch EXP +15%<br>Per Lottery draw, Lucky Vouchers +1 (Awakened)
+|skill1=[[File:Quary skill II.png|50px]]Place in Quarry: Stone Output +15%
+|skill2=[[File:Quary skill II.png|50px]]Place in Quarry: This Relic's FTH +10
+}}

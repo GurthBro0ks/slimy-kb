@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Throne of St. Peter
+|class_id=22678
+|rank=SSS
+|affct=FAITH
+|birthday=06-01
+|source=Lottery Machine No.3 (0.12%)
+|description=On Jun 1, 1647 AD, Bernini was once again commissioned by the Pope to begin designing the Throne of St. Peter.<br>The Throne of St. Peter, situated at the rear of St. Peter's Basilica, is a grand ensemble of bronze sculptures created by Bernini. Adorned with exquisite gemstones, it features a radiant celestial niche and an intricately decorated wooden chair. Two small angels positioned at the chair's back hold the keys to heaven and the pope's triple crown. This resplendent throne serves as the focal point within the Vatican City's St. Peter's Basilica, exuding magnificence and glory.
+|fame=59
+|art=69
+|fth=109
+|civ=51
+|tech=74
+|ss1=Wormhole Shards from Wormhole Refiner +1.8%<br>Per 2,000 Prairie Sanctum Rating Pts, Snail DEF +3<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss2=Wormhole Shards from Wormhole Refiner +2.4%<br>Per 2,000 Prairie Sanctum Rating Pts, Snail DEF +4<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss3=Wormhole Shards from Wormhole Refiner +3%<br>Per 2,000 Prairie Sanctum Rating Pts, Snail DEF +5<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss4=Wormhole Shards from Wormhole Refiner +4.2%<br>Per 2,000 Prairie Sanctum Rating Pts, Snail DEF +7<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss5=Wormhole Shards from Wormhole Refiner +5.4%<br>Per 2,000 Prairie Sanctum Rating Pts, Snail DEF +9<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss6=Wormhole Shards from Wormhole Refiner +7.2%<br>Per 2,000 Prairie Sanctum Rating Pts, Snail DEF +12<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Prairie Sanctum Rating Pts: 100000/100000
+|ss7=Wormhole Shards from Wormhole Refiner +7.2%<br>Per 2,000 Prairie Sanctum Rating Pts, Snail DEF +12<br>Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Prairie Sanctum Rating Pts: 100000/100000<br>Wormhole Shards from Wormhole Refiner +6% (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop Fire DMG +60
+|skill2=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop Wind DMG +60
+|skill3=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion DEF +9%
+|mirage={{Mirage|name=He who holds up the Holy Throne|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=St. Ambrose|3rec=104.16M|3atk=301756|3defense=190446|3hp=15756768|3weak=34923
+|4name=St. John|4rec=120.48M|4atk=339080|4defense=213406|4hp=18175574|4weak=36420
+|5name=St. Augustine|5rec=137.23M|5atk=378458|5defense=236964|5hp=22254677|5weak=38085
+|6name=St. Athanasius|6rec=165.54M|6atk=446121|6defense=276794|6hp=29181994|6weak=40201
+|Arec=196.62M|Aatk=521172|Adefense=320525|Ahp=38404237|Aweak=43153
+}}}}

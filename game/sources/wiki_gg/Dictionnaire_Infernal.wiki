@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Dictionnaire Infernal
+|class_id=22450
+|rank=Blue
+|affct=FAITH
+|birthday=11-26
+|source=Lottery Machine No.3 (0.06%)
+|description=On Nov 26, 1818 AD, the first edition of Dictionnaire Infernal was officially published.<br>The Dictionary of Infernal was created by a French journalist named Jacques Auguste Simon Collin de Plancy. Although lacking in academic value due to the author's limited knowledge of the subject matter, the book is still of great interest due to his rich imagination and the illustrations added in later editions. The depiction of hell in the book has an administrative structure similar to human society, complete with ridiculous positions such as the ambassador of demons in various countries. The illustrations have become a reference for many films and TV works in later generations.
+|fame=26
+|art=33
+|fth=44
+|civ=23
+|tech=28
+|ss1=Gaia Cabin Output +1%
+|ss2=Gaia Cabin Output +2%
+|ss3=Gaia Cabin Output +3%
+|ss4=Gaia Cabin Output +5%
+|ss7=Gaia Cabin Output +5%<br>Gaia Cabin Output +5% (Awakened)
+|skill1=[[File:Surfclam skill I.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Earth DMG +10
+}}

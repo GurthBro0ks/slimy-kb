@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=577
+|relics=Cthaat Aquadingen,Journey to Earth Core
+|rank=orange
+|amount=2
+|category=self
+|description=Snail Leadership +7
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Tour VIP Ticket
+|class_id=20936
+|rank=Green
+|affct=FAME
+|source=
+|description=VIP Tickets offering prime seating with the best views are exclusively reserved for the band members' beloved family and friends. These exquisite mementos from the tour have since become highly sought-after collectibles!
+|fame=33
+|art=16
+|fth=13
+|civ=15
+|tech=13
+|ss1=Snail DEF +10<br>Per 8 Museum Promos, Snail ATK +1<br>Museum Promos: 400/400
+|ss2=Snail DEF +20<br>Per 8 Museum Promos, Snail ATK +2<br>Museum Promos: 400/400
+|ss3=Snail DEF +30<br>Per 8 Museum Promos, Snail ATK +3<br>Museum Promos: 400/400
+|ss4=Snail DEF +30<br>Per 8 Museum Promos, Snail ATK +3<br>Museum Promos: 400/400
+|ss7=Snail DEF +30<br>Per 8 Museum Promos, Snail ATK +3<br>Museum Promos: 400/400<br> (Awakened)
+}}

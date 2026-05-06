@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20561_1
+|class_id=20561
+|rank=Green
+|affct=CIV
+|source=
+|description=collection@20561_2
+|fame=17
+|art=16
+|fth=15
+|civ=30
+|tech=12
+|ss1=Snail ATK +10<br>Per 1.5k Museum Medals gained, Snail HP +10<br>Museum Medals Gained: 60000/60000
+|ss2=Snail ATK +20<br>Per 1.5k Museum Medals gained, Snail HP +20<br>Museum Medals Gained: 60000/60000
+|ss3=Snail ATK +30<br>Per 1.5k Museum Medals gained, Snail HP +30<br>Museum Medals Gained: 60000/60000
+|ss4=Snail ATK +30<br>Per 1.5k Museum Medals gained, Snail HP +30<br>Museum Medals Gained: 60000/60000
+|ss7=Snail ATK +30<br>Per 1.5k Museum Medals gained, Snail HP +30<br>Museum Medals Gained: 60000/60000<br> (Awakened)
+}}

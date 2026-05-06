@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Haulers on Volga,Peacock Suit
+|rank=purple
+|amount=2
+|category=minion
+|description=Per 30 Minions in battle: Troop RUSH +24
+}}
+[[Category:Minion]]
+[[Category:Minion RUSH Boost]]

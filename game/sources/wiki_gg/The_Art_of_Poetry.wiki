@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The Art of Poetry
+|class_id=22881
+|rank=SSS
+|affct=CIV
+|source=
+|description=This poem, consisting of 476 lines, uses concise language and unique insights to explore poetic techniques, the relationship between art and life, and the role of poetry in society. It elaborates the state of Roman literature and is considered one of the cornerstones of Renaissance art theory, promoting cultural progress and artistic prosperity.
+|fame=70
+|art=68
+|fth=55
+|civ=109
+|tech=60
+|ss1=When obtaining a Blue Kemet Apostle, 0.9% chance of converting it to a purple one<br>Kemet Soul Nail's basic HARD Effect +3%<br>Kemetic Domain, Seal Output +6%
+|ss2=When obtaining a Blue Kemet Apostle, 1.2% chance of converting it to a purple one<br>Kemet Soul Nail's basic HARD Effect +4%<br>Kemetic Domain, Seal Output +8%
+|ss3=When obtaining a Blue Kemet Apostle, 1.5% chance of converting it to a purple one<br>Kemet Soul Nail's basic HARD Effect +5%<br>Kemetic Domain, Seal Output +10%
+|ss4=When obtaining a Blue Kemet Apostle, 2.1% chance of converting it to a purple one<br>Kemet Soul Nail's basic HARD Effect +7%<br>Kemetic Domain, Seal Output +14%
+|ss5=When obtaining a Blue Kemet Apostle, 2.7% chance of converting it to a purple one<br>Kemet Soul Nail's basic HARD Effect +9%<br>Kemetic Domain, Seal Output +18%
+|ss6=When obtaining a Blue Kemet Apostle, 3.6% chance of converting it to a purple one<br>Kemet Soul Nail's basic HARD Effect +12%<br>Kemetic Domain, Seal Output +24%
+|ss7=When obtaining a Blue Kemet Apostle, 3.6% chance of converting it to a purple one<br>Kemet Soul Nail's basic HARD Effect +12%<br>Kemetic Domain, Seal Output +24%<br>Kemetic Domain, Seal Output +20% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail HP +6000
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15
+}}

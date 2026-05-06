@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20962_1
+|class_id=20962
+|rank=Green
+|affct=FAME
+|source=
+|description=To be replenished
+|fame=30
+|art=15
+|fth=15
+|civ=17
+|tech=13
+|ss1=Per 5 {race_equip_short} gained, Snail RUSH +2<br>Bionic Parts owned: 100/100
+|ss2=Per 5 {race_equip_short} gained, Snail RUSH +4<br>Bionic Parts owned: 100/100
+|ss3=Per 5 {race_equip_short} gained, Snail RUSH +6<br>Bionic Parts owned: 100/100
+|ss4=Per 5 {race_equip_short} gained, Snail RUSH +6<br>Bionic Parts owned: 100/100
+|ss7=Per 5 {race_equip_short} gained, Snail RUSH +6<br>Bionic Parts owned: 100/100<br> (Awakened)
+}}

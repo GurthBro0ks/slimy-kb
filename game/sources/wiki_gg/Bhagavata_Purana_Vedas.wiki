@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=465
+|relics=Bhagavata Purana,Vedas
+|rank=orange
+|amount=2
+|category=self
+|description=Zombie Minion MAX +7
+}}

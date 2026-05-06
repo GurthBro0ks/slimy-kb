@@ -1,0 +1,33 @@
+{{CargoRelic
+|name=Truth Crystal
+|rank=AAA
+|affct=CIV
+|birthday=11-21
+|source=Fragment Crafting (1.5%), Lottery Machine (0.03%), Nebula Chest (1.5%), Relic Forge (80 Relic RF), Wishing (0.14%), Fugitives (Saluman, B+B)
+|description=On Nov 21, 1257 AD, basically all medieval witches used this crystal ball as a psychic medium. 
+
+The Truth Crystal can be used for watching and tracking someone. Through the Truth Crystal, the Great Witch saw that the king was out to kill witches, and she made an escape in time. The watermelon-sized ball is indestructible. As long as there is light, anyone who uses it can see things in the distance, but it can only show images and cannot transmit sounds. As it can preserve the images seen by previous users, it can show things of the present and also the past.
+|fame=47
+|art=42
+|fth=49
+|civ=71
+|tech=34
+|ss1=Lottery Blue Beads turn to Purple by +0.6%<br>Purple Bead draws give +1 Lucky Voucher by +15%
+|ss2=Lottery Blue Beads turn to Purple by +0.8%<br>Purple Bead draws give +1 Lucky Voucher by +20%
+|ss3=Lottery Blue Beads turn to Purple by +1%<br>Purple Bead draws give +1 Lucky Voucher by +25%
+|ss4=Lottery Blue Beads turn to Purple by +1.4%<br>Purple Bead draws give +1 Lucky Voucher by +35%
+|ss5=Lottery Blue Beads turn to Purple by +1.8%<br>Purple Bead draws give +1 Lucky Voucher by +45%
+|ss7=Lottery Blue Beads turn to Purple by +1.8%<br>Purple Bead draws give +1 Lucky Voucher by +45%<br>Lottery Blue Beads turn to Purple by +0.7% (Awakened)
+|skill1=[[File:Murika skill II.png|50px]] Place in Murikan Museum: In Murika, 2x Food Drops +7.5%
+|skill2=[[File:Murika skill II.png|50px]] Place in Murikan Museum:This Relic's CIV +10
+}}
+
+[[Category:Lottery Bead Color Change]]
+[[Category:Lucky Voucher Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:Exploration Food Drop Boost]]
+[[Category:CIV Boost]]
+[[Category:Zombie Gene Cost Reduction]]
+[[Category:ATK Boost]]
+[[Category:Gaiastapo Boost]]

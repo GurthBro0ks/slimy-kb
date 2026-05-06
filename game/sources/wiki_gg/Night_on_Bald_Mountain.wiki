@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Night on Bald Mountain
+|class_id=22529
+|rank=AA
+|affct=ART
+|birthday=01-11
+|source=Lottery Machine No.3 (0.12%)
+|description=On Jan 11, 1867 AD, Mussorgsky completed the composition of Night on Bald Mountain.<br>The Night on Bald Mountain is a symphonic tone poem based on Russian folklore, composed by Mussorgsky. Using notes as his brushstrokes, the composer depicts a scene of demons reveling in the midnight hours, creating a hellish atmosphere, followed by the sound of church bells as daybreak approaches, causing the devils to scatter in all directions, and the sun shining upon the earth. The work vividly showcases the tonal characteristics of various instruments and expresses the composer's thoughts on life and death, making it a classic in symphonic tone poems.
+|fame=31
+|art=69
+|fth=39
+|civ=49
+|tech=40
+|ss1=Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +48<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +48<br>Mythic Protodex Stars: 100/100
+|ss2=Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +72<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +72<br>Mythic Protodex Stars: 100/100
+|ss3=Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +96<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +96<br>Mythic Protodex Stars: 100/100
+|ss4=Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +144<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +144<br>Mythic Protodex Stars: 100/100
+|ss5=Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +192<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +192<br>Mythic Protodex Stars: 100/100
+|ss7=Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +192<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +192<br>Mythic Protodex Stars: 100/100<br>Protomon Snail assist DMG + 560 (Awakened)
+|skill1=[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: This Relic's ART +10
+|skill2=[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: In Minion Sims, Troop Water DMG +30
+}}

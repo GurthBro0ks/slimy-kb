@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Special Mouse Trap
+|class_id=20493
+|rank=Green
+|affct=FAME
+|source=
+|description=A collectible of Hitman No.95 and a period piece. It's said that this mouse trap was a witness to the grudges between No.95 and No.96 but it also documented the memory of them making peace with each other before forming a precious brotherhood.
+|fame=29
+|art=16
+|fth=13
+|civ=17
+|tech=16
+|ss1=Per 3 Shrine Rat Zaps, Snail ATK +1<br>Rats Killed: 150/150
+|ss2=Per 3 Shrine Rat Zaps, Snail ATK +2<br>Rats Killed: 150/150
+|ss3=Per 3 Shrine Rat Zaps, Snail ATK +3<br>Rats Killed: 150/150
+|ss4=Per 3 Shrine Rat Zaps, Snail ATK +3<br>Rats Killed: 150/150
+|ss7=Per 3 Shrine Rat Zaps, Snail ATK +3<br>Rats Killed: 150/150<br> (Awakened)
+}}

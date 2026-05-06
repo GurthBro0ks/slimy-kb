@@ -1,0 +1,43 @@
+= [[Minigames]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|2048}}
+{{IconExampleRowWithText|Beat the Treasure Monster}}
+{{IconExampleRowWithText|Biochem Crisis}}
+{{IconExampleRowWithText|Breach Firewall}}
+{{IconExampleRowWithText|ByeCube}}
+{{IconExampleRowWithText|Cheese or Love}}
+{{IconExampleRowWithText|Civilization Boom}}
+{{IconExampleRowWithText|Devourer (Minigame)}}
+{{IconExampleRowWithText|Explosive Cube}}
+{{IconExampleRowWithText|Floral Flight}}
+{{IconExampleRowWithText|Fruit Frenzy}}
+{{IconExampleRowWithText|Game Promoter}}
+{{IconExampleRowWithText|Hardly Poker}}
+{{IconExampleRowWithText|It Takes 5}}
+{{IconExampleRowWithText|Master Decoder}}
+{{IconExampleRowWithText|Minion Chore Game}}
+{{IconExampleRowWithText|Pet Pig Restaurant}}
+{{IconExampleRowWithText|Polar Klotski}}
+{{IconExampleRowWithText|Pyramid Card}}
+{{IconExampleRowWithText|Save Kim Chi-yum}}
+{{IconExampleRowWithText|Solitaire}}
+{{IconExampleRowWithText|Snail Arena}}
+{{IconExampleRowWithText|Snail Flip}}
+{{IconExampleRowWithText|Snail Quiz - Cathay}}
+{{IconExampleRowWithText|Snail Quiz - Yamato}}
+{{IconExampleRowWithText|Suspicious Game Cartridge}}
+{{IconExampleRowWithText|Tablet Maze}}
+{{IconExampleRowWithText|Taichi Fish Diagram}}
+{{IconExampleRowWithText|Tetromino Special}}
+{{IconExampleRowWithText|Unknown Game Cartridge}}
+{{IconExampleRowWithText|Unlimited Space}}
+{{IconExampleRowWithText|Unlimited Space 2}}
+|}
+
+= Minigame Accessories =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Golden Drazgul Fang Skin}}||{{RewardIconWithText|Fruit Frenzy}}
+|}
+
+[[Category:Icons]]
+[[Category:Minigames]]

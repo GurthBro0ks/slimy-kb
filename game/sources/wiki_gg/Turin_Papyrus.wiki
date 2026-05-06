@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Turin Papyrus
+|class_id=21511
+|rank=SSS
+|affct=CIV
+|birthday=03-24
+|source=
+|description=On Mar 24, 3000 BC, the ancient Egyptians began using papyrus for writing and painting.<br>The Turin papyrus, named after its collection in the Egyptian Museum of Turin, is a cultural relic unearthed in the tomb of Ramses IV. This papyrus clearly recorded the geographic information of more than 300 cities during the ancient Egyptian era, as well as the reign of the rulers of each city. This reflected the ancient Egyptians' understanding of geography and is an extremely precious ancient Egyptian cultural relic.
+|fame=70
+|art=67
+|fth=68
+|civ=109
+|tech=48
+|ss1=Mutant Gene Research SPD +0.9%<br>Per 5 Mutant Gene LVLs, Snail DEF +6<br>Per 5 Mutant Gene LVLs, Snail RUSH +6<br>Mutant Gene LVLs Researched: 150/150
+|ss2=Mutant Gene Research SPD +1.4%<br>Per 5 Mutant Gene LVLs, Snail DEF +8<br>Per 5 Mutant Gene LVLs, Snail RUSH +8<br>Mutant Gene LVLs Researched: 150/150
+|ss3=Mutant Gene Research SPD +1.9%<br>Per 5 Mutant Gene LVLs, Snail DEF +10<br>Per 5 Mutant Gene LVLs, Snail RUSH +10<br>Mutant Gene LVLs Researched: 150/150
+|ss4=Mutant Gene Research SPD +2.9%<br>Per 5 Mutant Gene LVLs, Snail DEF +14<br>Per 5 Mutant Gene LVLs, Snail RUSH +14<br>Mutant Gene LVLs Researched: 150/150
+|ss5=Mutant Gene Research SPD +3.9%<br>Per 5 Mutant Gene LVLs, Snail DEF +18<br>Per 5 Mutant Gene LVLs, Snail RUSH +18<br>Mutant Gene LVLs Researched: 150/150
+|ss6=Mutant Gene Research SPD +5.4%<br>Per 5 Mutant Gene LVLs, Snail DEF +24<br>Per 5 Mutant Gene LVLs, Snail RUSH +24<br>Mutant Gene LVLs Researched: 150/150
+|ss7=Mutant Gene Research SPD +5.4%<br>Per 5 Mutant Gene LVLs, Snail DEF +24<br>Per 5 Mutant Gene LVLs, Snail RUSH +24<br>Mutant Gene LVLs Researched: 150/150<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: This Relic's CIV +15
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, 2x Purple Card Drops +15%
+|skill3=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, 2x Green Reagent Drops +15%
+|mirage={{Mirage|name=Osiris Judgment|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Heart of the Dead|3rec=3.22M|3atk=43766|3defense=29074|3hp=645426|3weak=9573
+|4name=Feather of Truth|4rec=6.26M|4atk=63528|4defense=42202|4hp=1225686|4weak=12288
+|5name=Ammit|5rec=11.43M|5atk=87971|5defense=58439|5hp=2241979|5weak=14440
+|6name=Osiris|6rec=24.15M|6atk=117234|6defense=77879|6hp=3722466|6weak=17993
+|Arec=40.37M|Aatk=151580|Adefense=100694|Ahp=6006324|Aweak=19339
+}}}}

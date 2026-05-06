@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Dichterliebe
+|class_id=22528
+|rank=AA
+|affct=ART
+|birthday=11-01
+|source=Lottery Machine No.3 (0.12%)
+|description=On Nov 1, 1840 AD, Schumann completed this timeless vocal suite.<br>Dichterliebe is one of the masterpieces of the German composer Schumann, consisting of sixteen songs with lyrics by the poet Heinrich Heine. In the year he created Dichterliebe, Schumann overcame numerous obstacles and finally married his lover, which gave him infinite inspiration. He completed this masterpiece in just one week, conveying his rich emotions in a limited space and skillfully interpreting the love story in Heine's works, forging legendary masterpieces.
+|fame=32
+|art=66
+|fth=47
+|civ=48
+|tech=35
+|ss1=Per 10 advanced fusions, Snail DEF +2<br>Per 10 advanced fusions, Snail RUSH +2<br>Advanced Fusions: 500/500
+|ss2=Per 10 advanced fusions, Snail DEF +3<br>Per 10 advanced fusions, Snail RUSH +3<br>Advanced Fusions: 500/500
+|ss3=Per 10 advanced fusions, Snail DEF +4<br>Per 10 advanced fusions, Snail RUSH +4<br>Advanced Fusions: 500/500
+|ss4=Per 10 advanced fusions, Snail DEF +6<br>Per 10 advanced fusions, Snail RUSH +6<br>Advanced Fusions: 500/500
+|ss5=Per 10 advanced fusions, Snail DEF +8<br>Per 10 advanced fusions, Snail RUSH +8<br>Advanced Fusions: 500/500
+|ss7=Per 10 advanced fusions, Snail DEF +8<br>Per 10 advanced fusions, Snail RUSH +8<br>Advanced Fusions: 500/500<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +60
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail HP +600
+}}

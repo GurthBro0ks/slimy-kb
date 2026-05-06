@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Colorful Jigsaw
+|class_id=20058
+|rank=Green
+|affct=ART
+|source=
+|description=In the beginning, a puzzle only has a bare background that no one can fully see. When each piece begins to connect and combine, the blurry picture gradually becomes clear, and the puzzle reveals its true face. We hope that everyone can use the fragments of life to piece together a colorful life!
+|fame=16
+|art=30
+|fth=18
+|civ=15
+|tech=11
+|ss1=Snail DEF +20<br>Per 50 Minions healed, Snail ATK +1<br>Minions healed: 2000/2000
+|ss2=Snail DEF +40<br>Per 50 Minions healed, Snail ATK +2<br>Minions healed: 2000/2000
+|ss3=Snail DEF +60<br>Per 50 Minions healed, Snail ATK +3<br>Minions healed: 2000/2000
+|ss4=Snail DEF +60<br>Per 50 Minions healed, Snail ATK +3<br>Minions healed: 2000/2000
+|ss7=Snail DEF +60<br>Per 50 Minions healed, Snail ATK +3<br>Minions healed: 2000/2000<br> (Awakened)
+}}

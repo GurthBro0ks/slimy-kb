@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=353
+|relics=Matsushima Pot,Pompeii,The Moon and Sixpence
+|rank=blue
+|amount=3
+|category=self
+|description=Per 10 Minions in battle: Troop HP +60
+}}

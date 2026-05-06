@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=447
+|relics=DNA Microarray,Voltaic Cell,Gem Globe,The Bell of St Mura,Chidori Incense Burner
+|rank=purple
+|amount=5
+|category=self
+|description=Mecha Minion MAX +9
+}}

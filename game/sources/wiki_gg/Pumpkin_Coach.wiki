@@ -1,0 +1,27 @@
+{{CargoRelic
+|name=Pumpkin Coach
+|rank=Blue
+|affct=CIV
+|birthday=08-28
+|source=Lottery Machine (0.07%), Novice Scrolls (1%), Wishing (2.1%)
+|description=On Aug 28, AD 651, Cinderella took this carriage and attended the ball. Cinderella was invited to the prince's ball, but was hindered by her stepmother and two step-sisters. The fairy godmother cast magic on Cinderella so that no one could recognize her, and turned a pumpkin into a carriage as her transportation to the ball. This gave the helpless Cinderella a chance to attend the ball. On the next day, the dumb prince finally found her through the glass slipper. Since then, they have lived happily ever after.
+|fame=33
+|art=30
+|fth=27
+|civ=44
+|tech=20
+|ss1=Per 10 CIV-Fungi eaten, Snail RUSH +1<br>CIV-Fungi Eaten: 500/500
+|ss2=Per 10 CIV-Fungi eaten, Snail RUSH +2<br>CIV-Fungi Eaten: 500/500
+|ss3=Per 10 CIV-Fungi eaten, Snail RUSH +3<br>CIV-Fungi Eaten: 500/500
+|ss4=Per 10 CIV-Fungi eaten, Snail RUSH +5<br>CIV-Fungi Eaten: 500/500
+|ss7=Per 10 CIV-Fungi eaten, Snail RUSH +5<br>CIV-Fungi Eaten: 500/500<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]]Place in Gene Sim Device: Snail DEF +10 each round
+}}
+
+[[Category:RUSH Boost]]
+[[Category:CIV-Fungi Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:DEF Boost]]
+[[Category:Mutant Gene Speedup Boost]]
+[[Category:Lottery Bead Color Change]]
+[[Category:Nanosaur Boost]]

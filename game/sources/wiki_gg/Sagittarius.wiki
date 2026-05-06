@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Sagittarius
+|class_id=21937
+|rank=SSS
+|affct=FAME
+|source=
+|description=As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:
+Coins around, honor bound; Name and gain, both renowned.
+|fame=107
+|art=48
+|fth=70
+|civ=71
+|tech=66
+|ss1=Snail HARD Stats +1000<br>Snail All ELMT DMG +100<br>Eternity Treasure, Energy Recovery Speed +5%<br>Eternity Treasure, 5% chance to gain extra progress +1 per draw
+|ss2=Snail HARD Stats +1000<br>Snail All ELMT DMG +100<br>Eternity Treasure, Energy Recovery Speed +5%<br>Eternity Treasure, 5% chance to gain extra progress +1 per draw
+|ss3=Snail HARD Stats +1000<br>Snail All ELMT DMG +100<br>Eternity Treasure, Energy Recovery Speed +5%<br>Eternity Treasure, 5% chance to gain extra progress +1 per draw
+|ss4=Snail HARD Stats +1000<br>Snail All ELMT DMG +100<br>Eternity Treasure, Energy Recovery Speed +5%<br>Eternity Treasure, 5% chance to gain extra progress +1 per draw
+|ss5=Snail HARD Stats +1000<br>Snail All ELMT DMG +100<br>Eternity Treasure, Energy Recovery Speed +5%<br>Eternity Treasure, 5% chance to gain extra progress +1 per draw
+|ss6=Snail HARD Stats +1000<br>Snail All ELMT DMG +100<br>Eternity Treasure, Energy Recovery Speed +5%<br>Eternity Treasure, 5% chance to gain extra progress +1 per draw
+|ss7=Snail HARD Stats +1000<br>Snail All ELMT DMG +100<br>Eternity Treasure, Energy Recovery Speed +5%<br>Eternity Treasure, 5% chance to gain extra progress +1 per draw<br>Eternity Treasure, Energy Recovery Speed +5% (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, INTEL gained +15%
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, B-tads gained +15%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, Demon God Cells collected +30%
+|mirage={{Mirage|name=Sagittarius Star|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Carnegie|3rec=9.17M|3atk=78319|3defense=51905|3hp=1803482|3weak=?
+|4name=Churchill|4rec=16.52M|4atk=107212|4defense=71053|4hp=3219628|4weak=?
+|5name=Marshal Zhukov|5rec=35.24M|5atk=141055|5defense=93482|5hp=5322279|5weak=?
+|6name=Beethoven|6rec=54.81M|6atk=182584|6defense=121005|6hp=8636519|6weak=?
+|Arec=77.11M|Aatk=229928|Adefense=152381|Ahp=13219303|Aweak=?
+}}}}

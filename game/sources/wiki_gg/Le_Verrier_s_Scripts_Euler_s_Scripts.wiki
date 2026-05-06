@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=419
+|relics=Le Verrier's Scripts,Euler's Scripts
+|rank=purple
+|amount=2
+|category=self
+|description=Wormhole Shards from Wormhole Refiner +6%
+}}

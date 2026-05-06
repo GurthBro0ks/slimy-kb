@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=737
+|relics=Fabergé Egg,Basic Chemistry
+|rank=orange
+|amount=2
+|category=self
+|description=Per 2,000 Forest Sanctum Rating Pts, Priest-Troop Assistance DMG +56;Forest Sanctum Rating Pts: 100000/100000
+}}

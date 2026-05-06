@@ -1,0 +1,42 @@
+{{Missing Info|specifics=<br>Source}}
+
+{{CargoRelic
+|name=Catherine II Portrait
+|class_id=22697
+|rank=SSS
+|affct=FTH
+|birthday=11-16
+|source=
+|description=The portrait of Catherine II was created on November 16, 1780.<br>Catherine II was the twelfth Tsarina of the Romanov Dynasty and the eighth Empress of the Russian Empire. During her reign, Russia became a powerful nation in Europe. In this portrait, this outstanding monarch is depicted in magnificent royal attire, wearing a crown and holding a scepter.
+|fame=61
+|art=75
+|fth=108
+|civ=47
+|tech=70
+|ss1=Angel Minion RUSH +3%<br>All minion skins DEF +10%<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Forest Sanctum Rating Pts: 100,000/100,000
+|ss2=Angel Minion RUSH +4%<br>All minion skins DEF +20%<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +32<br>Forest Sanctum Rating Pts: 100,000/100,000
+|ss3=Angel Minion RUSH +5%<br>All minion skins DEF +30%<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Forest Sanctum Rating Pts: 100,000/100,000
+|ss4=Angel Minion RUSH +7%<br>All minion skins DEF +50%<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +56<br>Forest Sanctum Rating Pts: 100,000/100,000
+|ss5=Angel Minion RUSH +9%<br>All minion skins DEF +70%<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +72<br>Forest Sanctum Rating Pts: 100,000/100,000
+|ss6=Angel Minion RUSH +12%<br>All minion skins DEF +100%<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Forest Sanctum Rating Pts: 100,000/100,000
+|ss7=Angel Minion RUSH +12%<br>All minion skins DEF +100%<br>Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +96<br>Forest Sanctum Rating Pts: 100,000/100,000<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +3%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+|mirage={{Mirage|name=Reformation Dawn|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Imperial Guard|3rec=253.95M|3atk=631384|3def=391036|3hp=177374070|3weak=62747
+|4name=Peter III|4rec=385.04M|4atk=810740|4def=508967|4hp=339304653|4weak=69652
+|5name=Elizabeth I|5rec=562.24M|5atk=1055862|5def=668386|5hp=571485492|5weak=76434
+|6name=Catherine II|6rec=771.39M|6atk=1379974|6def=876819|6hp=903051564|6weak=83685
+|Arec=1030.74M|Aatk=1802074|Adef=1145237|Ahp=1322277560|Aweak=91845
+}}
+}}
+
+[[Category:Rift Exploration Boost]]
+[[Category:Rift Museum Boost]]
+[[Category:Angel Minion RUSH Boost]]
+[[Category:Minion DEF Boost]]
+[[Category:Priest-Snail Boost]]
+[[Category:Protomon Boost]]
+[[Category:Minion Skin Boost]]
+[[Category:Minion RUSH Boost]]

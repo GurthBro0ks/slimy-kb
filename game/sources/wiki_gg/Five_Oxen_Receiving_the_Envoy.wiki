@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=496
+|relics=Five Oxen,Receiving the Envoy
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Minions in battle: Troop DEF +63
+}}

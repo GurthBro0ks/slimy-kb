@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Cultist
+|rank=blue
+|cabin=2
+|id=36
+|gene1={race} HP +200
+|gene2={race} ART +20
+|gene3=Quantum Amp Max Cap +3%
+|gene4=Per 10 Demon Minions in battle:
+> Troop HP +20
+|gene5=Quantum Amp Max Cap +6%
+|}}

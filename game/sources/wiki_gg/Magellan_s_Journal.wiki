@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Magellan's Journal
+|rank=Blue
+|affct=FAME
+|birthday=04-30
+|source=Lottery Machine (0.03%), Wishing (1.2%)
+|description=On Apr 30, AD 1519, Ferdinand Magellan wrote his last voyage.
+
+Magellan's Journal is a detailed record of Magellan's expeditions. It documented the weather and geographic coordinates as they went south from Africa, crossed the Atlantic Ocean, reached the coast of Brazil in South America, passed through Cape Horn, and entered the Pacific Ocean. The last recorded voyage was the trip to a Philippine Island. He died in a battle with the local aborigines soon after the landing.
+|fame=47
+|art=26
+|fth=34
+|civ=19
+|tech=28
+|ss1=Per 400 Relic Point, Snail RUSH +3<br>Relic Points: 2,000/2,000
+|ss2=Per 400 Relic Points, Snail RUSH +3<br>Relic Points: 4,000/4,000
+|ss3=Per 400 Relic Points, Snail RUSH +3<br>Relic Points: 6,000/6,000
+|ss4=Per 400 Relic Points, Snail RUSH +3<br>Relic Points: 10,000/10,000
+|ss7=Per 400 Relic Points, Snail RUSH +3<br>Relic Points: 10,000/10,000<br>Snail RUSH +50 (Awakened)
+|skill1=[[File:Compass skill I.png|50px]]Place in Exploration Compass: This Relic's FAME +5
+}}
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:FAME Relics]]
+[[Category:Blue FAME Relics]]
+[[Category:RUSH Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:DEF Boost]]
+[[Category:Exploration B-tad Drop Boost]]

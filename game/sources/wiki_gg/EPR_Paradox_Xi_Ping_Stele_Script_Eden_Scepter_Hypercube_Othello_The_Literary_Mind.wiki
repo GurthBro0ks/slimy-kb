@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=878
+|relics=EPR Paradox,Xi Ping Stele Script,Eden Scepter,Hypercube,Othello,The Literary Mind
+|rank=orange
+|amount=6
+|category=self
+|description=Snail Leadership +12
+}}

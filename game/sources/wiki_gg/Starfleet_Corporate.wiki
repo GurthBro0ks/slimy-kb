@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Starfleet Corporate
+|class_id=22865
+|rank=SS
+|affct=CIV
+|source=
+|description= The Starfleet Corporate is the flagship of Starfleet, equipped with advanced sensors and detection equipment capable of comprehensive scanning and analysis of unknown galaxies, planets, and civilizations. The Enterprise is equipped with powerful weapon systems, including phasers and photon torpedoes, to address potential threats and conflicts with alien civilizations. Its advanced warp engine allows it to traverse interstellar distances in a short time, quickly responding to various needs. In summary, the Starfleet Corporate is not only the core strength of Starfleet but also an important symbol of humanity's exploration of the unknown, pursuit of peace, and technological advancement.
+|fame=67
+|art=67
+|fth=56
+|civ=105
+|tech=52
+|ss1=Quantum Amp production +1.2%<br>Quantum Amp upgrade B-tad Cost -1.2%<br>Per 10 Constellation LVLs, Snail RUSH +2<br>Constellation LVLs: 400/400
+|ss2=Quantum Amp production +1.8%<br>Quantum Amp upgrade B-tad Cost -1.8%<br>Per 10 Constellation LVLs, Snail RUSH +3<br>Constellation LVLs: 400/400
+|ss3=Quantum Amp production +2.4%<br>Quantum Amp upgrade B-tad Cost -2.4%<br>Per 10 Constellation LVLs, Snail RUSH +4<br>Constellation LVLs: 400/400
+|ss4=Quantum Amp production +3.6%<br>Quantum Amp upgrade B-tad Cost -3.6%<br>Per 10 Constellation LVLs, Snail RUSH +6<br>Constellation LVLs: 400/400
+|ss5=Quantum Amp production +4.8%<br>Quantum Amp upgrade B-tad Cost -4.8%<br>Per 10 Constellation LVLs, Snail RUSH +8<br>Constellation LVLs: 400/400
+|ss6=Quantum Amp production +6.6%<br>Quantum Amp upgrade B-tad Cost -6.6%<br>Per 10 Constellation LVLs, Snail RUSH +11<br>Constellation LVLs: 400/400
+|ss7=Quantum Amp production +6.6%<br>Quantum Amp upgrade B-tad Cost -6.6%<br>Per 10 Constellation LVLs, Snail RUSH +11<br>Constellation LVLs: 400/400<br>Quantum Amp production +6% (Awakened)
+|skill1=[[File:Quantumamp  skill III.png|50px]]Place in Quantum Amp: This Relic's CIV +15
+|skill2=[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +30%
+|skill3=[[File:Minion Sim skill III.png|50px]]Place in a Minion Sims: In Minion Sims, Troop CRIT DMG +9%
+}}

@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Leo's Plant
+|rank=Blue
+|affct=CIV
+|birthday=12-03
+|source=Lottery Machine (0.36%), Wishing (10.3%), Fungus Chest (2%), Novice Scrolls (5%)
+|description=On Dec 3, 1993, Metilda knocked on Leo's door.
+
+Lea was a top professional killer who lives alone in Neo-York. He had a pot of plants which he considers his best friend. After Metilda's family was murdered, she hid in Leo's apartment to avoid being killed. Matilda survived the crisis and began living with Leo. Leo taught Matilda how to use guns while she taught him French. They started to get alone well. 
+
+[Info on the Plant]
+
+Scientific Name: Aglaonema. Family: Araceae. Alias: China evergreen
+|fame=32
+|art=27
+|fth=23
+|civ=47
+|tech=25
+|ss1=Fungus Farm Output +2%
+|ss2=Fungus Farm Output +4%
+|ss3=Fungus Farm Output +6%
+|ss4=Fungus Farm Output +10%
+|ss7=Fungus Farm Output +10%<br>Fungus Farm Output +10% (Awakened)
+|skill1=[[File:Fungusfarm skill I.png|50px]] Place in Fungus Farm: This Relic's CIV +5
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:CIV Relics]]
+[[Category:Blue CIV Relics]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:CIV Boost]]
+[[Category:Mutant Gene Speedup Boost]]
+[[Category:ATK Boost]]
+[[Category:Roachikun Boost]]

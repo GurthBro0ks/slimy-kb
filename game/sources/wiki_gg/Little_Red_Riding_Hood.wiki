@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Little Red Riding Hood
+|class_id=22292
+|rank=SSS
+|affct=FAITH
+|birthday=02-25
+|source=Lottery Machine No.2 (0.11%)
+|description=On Feb 25, 1048 AD, Little Red Riding Hood packed her belongings and set out to visit her grandmother in the forest<br>In ancient legends, Little Red Riding Hood is a beloved little girl, named for the red velvet cap given to her by her grandmother. She was targeted by a cunning wolf while visiting her sick grandmother in the forest and was ultimately swallowed whole by it. Her fate varies depending on the source and historical context of the tale: sometimes she escapes with the help of a Hunter, other times she cuts open the wolf's belly by herself... The earliest written version was compiled by Charles Perrault of Gallia. In it, Little Red Riding Hood meets her end inside the wolf, and the story concludes tragically, serving as a fable to caution ladies to be vigilant..
+|fame=61
+|art=70
+|fth=107
+|civ=54
+|tech=70
+|ss1=Snail ATK +30<br>Per God of Faith Descent, Snail HP +30<br>Per God of Faith Descent, Snail ATK +3<br>God of Faith Descended: 40/40
+|ss2=Snail ATK +40<br>Per God of Faith Descent, Snail HP +40<br>Per God of Faith Descent, Snail ATK +4<br>God of Faith Descended: 40/40
+|ss3=Snail ATK +50<br>Per God of Faith Descent, Snail HP +50<br>Per God of Faith Descent, Snail ATK +5<br>God of Faith Descended: 40/40
+|ss4=Snail ATK +70<br>Per God of Faith Descent, Snail HP +70<br>Per God of Faith Descent, Snail ATK +7<br>God of Faith Descended: 40/40
+|ss5=Snail ATK +90<br>Per God of Faith Descent, Snail HP +90<br>Per God of Faith Descent, Snail ATK +9<br>God of Faith Descended: 40/40
+|ss6=Snail ATK +120<br>Per God of Faith Descent, Snail HP +120<br>Per God of Faith Descent, Snail ATK +12<br>God of Faith Descended: 40/40
+|ss7=Snail ATK +120<br>Per God of Faith Descent, Snail HP +120<br>Per God of Faith Descent, Snail ATK +12<br>God of Faith Descended: 40/40<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, HP Regen +1200
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail HP +6000
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Wind DMG +600
+|mirage={{Mirage|name=Pure Cost|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Wolf in Sheepskin|3rec=1.59M|3atk=28495|3defense=19049|3hp=298392|3weak=6712
+|4name=Blood-eyed Wolf|4rec=3.24M|4atk=43662|4defense=29189|4hp=652875|4weak=9664
+|5name=Moon-Roaring Wolf|5rec=6.25M|5atk=63078|5defense=42170|5hp=1235421|5weak=12301
+|6name=Greenmane Wolf|6rec=11.34M|6atk=87042|6defense=58190|6hp=2224458|6weak=14445
+|Arec=23.76M|Aatk=115657|Adefense=77319|Ahp=3680971|Aweak=17976
+}}}}

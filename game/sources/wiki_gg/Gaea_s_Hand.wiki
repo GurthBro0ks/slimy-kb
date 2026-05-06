@@ -1,0 +1,37 @@
+
+{{CargoRelic
+|name=Gaea's Hand
+|rank=SSS
+|affct=FTH
+|birthday=03-25
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.06%)
+|description=On Mar 25, 2006 BC, Gaea, goddess of Earth, formed this broken arm.
+
+Gaea's hand broke free from the ground. It is full of harmony, youth, and strength. It gives the people a spark of vitality. We could see both creation and destruction, order and chaos in her primal nature.
+|fame=64
+|art=71
+|fth=108
+|civ=50
+|tech=69
+|ss1=Snail ATK +30<br>Defeated Daily Hitmen drop +5 W-tads<br>Defeated Daily Hitmen drop +3% Demon Chests
+|ss2=Snail ATK +40<br>Defeated Daily Hitmen drop +10 W-tads<br>Defeated Daily Hitmen drop +4% Demon Chests
+|ss3=Snail ATK +50<br>Defeated Daily Hitmen drop +15 W-tads<br>Defeated Daily Hitmen drop +5% Demon Chests
+|ss4=Snail ATK +70<br>Defeated Daily Hitmen drop +25 W-tads<br>Defeated Daily Hitmen drop +7% Demon Chests
+|ss5=Snail ATK +90<br>Defeated Daily Hitmen drop +35 W-tads<br>Defeated Daily Hitmen drop +9% Demon Chests
+|ss6=Snail ATK +120<br>Defeated Daily Hitmen drop +50 W-tads<br>Defeated Daily Hitmen drop +12% Demon Chests
+|ss7=Snail ATK +120<br>Defeated Daily Hitmen drop +50 W-tads<br>Defeated Daily Hitmen drop +12% Demon Chests<br>Defeated Daily Hitmen drop +15 W-tads (Awakened)
+|skill1=[[File:Quarry skill III.png|50px]]Place in Quarry: Stone Output +30%
+|skill2=[[File:Quarry skill III.png|50px]]Place in Quarry: Quarry Max Cap +30%
+|skill3=[[File:Quarry skill III.png|50px]]Place in Quarry: Find Ancient Fossil by +30%
+|mirage={{#invoke:snailDB|parseMirage|Gaea's Hand}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:Daily Hitmen White Tadpole Drop Boost]]
+[[Category:Daily Hitmen Demon Chest Drop Boost]]
+[[Category:Quarry Skill]]
+[[Category:Quarry Output Boost]]
+[[Category:Ancient Fossil Boost]]
+[[Category:Reagent Crafting Boost]]
+[[Category:Rewards Golden Pickaxe]]
+[[Category:Catcolyte Boost]]

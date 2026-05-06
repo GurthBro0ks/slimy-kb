@@ -1,0 +1,73 @@
+= Dung Beetle Sequences =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Blue Dung Beetle Sequence|blue}}
+{{IconExampleRowWithText|Purple Dung Beetle Sequence|purple}}
+{{IconExampleRowWithText|Orange Dung Beetle Sequence|orange}}
+|}
+
+= Goldfish Sequences =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Blue Goldfish Sequence|blue}}
+{{IconExampleRowWithText|Purple Goldfish Sequence|purple}}
+{{IconExampleRowWithText|Orange Goldfish Sequence|orange}}
+|}
+
+= Hamster Sequences =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Blue Hamster Sequence|blue}}
+{{IconExampleRowWithText|Purple Hamster Sequence|purple}}
+{{IconExampleRowWithText|Orange Hamster Sequence|orange}}
+|}
+
+= Maneater Sequences =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Blue Maneater Sequence|blue}}
+{{IconExampleRowWithText|Purple Maneater Sequence|purple}}
+{{IconExampleRowWithText|Orange Maneater Sequence|orange}}
+|}
+
+= Mantis Sequences =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Blue Mantis Sequence|blue}}
+{{IconExampleRowWithText|Purple Mantis Sequence|purple}}
+{{IconExampleRowWithText|Orange Mantis Sequence|orange}}
+|}
+= Surf Clam Sequences =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Blue Surf Clam Sequence|blue}}
+{{IconExampleRowWithText|Purple Surf Clam Sequence|purple}}
+{{IconExampleRowWithText|Orange Surf Clam Sequence|orange}}
+|}
+
+= Divine Dragon Sequences =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Blue Divine Dragon Sequence|blue}}
+{{IconExampleRowWithText|Purple Divine Dragon Sequence|purple}}
+{{IconExampleRowWithText|Orange Divine Dragon Sequence|orange}}
+|}
+
+= Native Sequences =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Blue Native Sequence|blue}}
+{{IconExampleRowWithText|Purple Native Sequence|purple}}
+{{IconExampleRowWithText|Orange Native Sequence|orange}}
+|}
+
+= [[Species Map]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Species Map}}
+|}
+
+= Super Species Sequences =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Blue Super Species Seq.|blue}}
+{{IconExampleRowWithText|Purple Super Species Seq.|purple}}
+{{IconExampleRowWithText|Orange Super Species Seq.|orange}}
+|}
+
+= Other =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Incomplete Species Sequence|green}}
+|}
+
+[[Category:Icons]]

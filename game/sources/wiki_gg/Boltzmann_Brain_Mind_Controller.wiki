@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=212
+|relics=Boltzmann Brain,Mind Controller
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Minions in battle: Troop RUSH +63
+}}

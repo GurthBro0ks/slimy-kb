@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Star Child
+|rank=orange
+|cabin=2
+|id=131
+|gene1={race} ATK +50
+|gene2={race} FTH +50
+|gene3=Fire DMG +30
+|gene4=Per 60 Dragon Minions in battle,
+Troop Fire DMG +6
+|gene5=Troop Fire DMG +0.9%
+|gene6=Per 60 Dragon Minions in battle,
+Troop Fire DMG +10
+|gene7=Troop Fire DMG +1.5%
+|}}

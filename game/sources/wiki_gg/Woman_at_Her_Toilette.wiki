@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Woman at Her Toilette
+|class_id=22663
+|rank=SSS
+|affct=ART
+|birthday=11-17
+|source=
+|description=On Nov 17, 1873 AD, Morisot completed the sketch of Woman at Her Toilette.<br>This artwork depicts a woman at a dressing table with exquisite painting techniques. She sits elegantly before the vanity, displaying a dignified posture. Her carefully arranged hair, delicate patterns, and elaborate decorative details reflect her noble status. The painting exudes a serene and elegant atmosphere, brimming with details and depth. The play of light and shadow brings the scene to life, evoking a subtle emotional ambiance, making this portrait a visually and emotionally captivating piece.
+|fame=49
+|art=109
+|fth=69
+|civ=73
+|tech=62
+|ss1=Snail ATK +30<br>All Orange Minion Skin HARD Stats +5%<br>Per 5 Orange Minion Skin crafted, Snail Leadership +1<br>Orange Minion Skins Crafted: 100/100
+|ss2=Snail ATK +40<br>All Orange Minion Skin HARD Stats +10%<br>Per 5 Orange Minion Skin crafted, Snail Leadership +1<br>Orange Minion Skins Crafted: 100/100
+|ss3=Snail ATK +50<br>All Orange Minion Skin HARD Stats +15%<br>Per 5 Orange Minion Skin crafted, Snail Leadership +1<br>Orange Minion Skins Crafted: 100/100
+|ss4=Snail ATK +70<br>All Orange Minion Skin HARD Stats +25%<br>Per 5 Orange Minion Skin crafted, Snail Leadership +1<br>Orange Minion Skins Crafted: 100/100
+|ss5=Snail ATK +90<br>All Orange Minion Skin HARD Stats +35%<br>Per 5 Orange Minion Skin crafted, Snail Leadership +1<br>Orange Minion Skins Crafted: 100/100
+|ss6=Snail ATK +120<br>All Orange Minion Skin HARD Stats +50%<br>Per 5 Orange Minion Skin crafted, Snail Leadership +1<br>Orange Minion Skins Crafted: 100/100
+|ss7=Snail ATK +120<br>All Orange Minion Skin HARD Stats +50%<br>Per 5 Orange Minion Skin crafted, Snail Leadership +1<br>Orange Minion Skins Crafted: 100/100<br>Snail Leadership +20 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion RUSH +6%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion ATK +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's ART +15
+|mirage={{Mirage|name=Life of A Girl|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Dancing Woman|3rec=233.87M|3atk=604085|3defense=372935|3hp=162552216|3weak=61476
+|4name=Wine Tasting Woman|4rec=339.88M|4atk=748676|4defense=468343|4hp=281589995|4weak=67509
+|5name=Singing Woman|5rec=478.75M|5atk=939913|5defense=593276|5hp=472984767|5weak=73481
+|6name=Woman with A Folding Fan|6rec=656.32M|6atk=1187772|6defense=753413|6hp=706518853|6weak=79441
+|Arec=844.00M|Aatk=1502117|Adefense=954704|Ahp=1028597897|Aweak=86331
+}}}}

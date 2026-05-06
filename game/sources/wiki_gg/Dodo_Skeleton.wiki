@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dodo Skeleton
+|class_id=20461
+|rank=Green
+|affct=FAME
+|source=
+|description=This is the skeleton of a Dodo, an extinct bird species. The flightless bird lived its entire life on the ground. Their eggs and the young birds were extremely vulnerable, so when invaders came over, their extinction ensued at a staggering speed. This fully preserved skeleton becomes one of the most valuable collections.
+|fame=30
+|art=12
+|fth=16
+|civ=18
+|tech=14
+|ss1=Wishing Egg hatching rate +3%<br>Per 10 Wishing Eggs hatched, Snail DEF +1<br>Wishing Eggs Hatched: 400/400
+|ss2=Wishing Egg hatching rate +3%<br>Per 10 Wishing Eggs hatched, Snail DEF +2<br>Wishing Eggs Hatched: 400/400
+|ss3=Wishing Egg hatching rate +3%<br>Per 10 Wishing Eggs hatched, Snail DEF +3<br>Wishing Eggs Hatched: 400/400
+|ss4=Wishing Egg hatching rate +3%<br>Per 10 Wishing Eggs hatched, Snail DEF +3<br>Wishing Eggs Hatched: 400/400
+|ss7=Wishing Egg hatching rate +3%<br>Per 10 Wishing Eggs hatched, Snail DEF +3<br>Wishing Eggs Hatched: 400/400<br> (Awakened)
+}}

@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Thermometer,Rose Cross,Hina Doll,Sulawesi Cloth,Instant Noodle Recipe,Torricelli's Barometer
+|rank=blue
+|amount=6
+|category=self
+|description=Snail ATK +90
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]

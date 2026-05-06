@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=138
+|relics=Marconi Telegraph,Speech of MLK,Dream Top,Codex Leicester
+|rank=purple
+|amount=4
+|category=self
+|description=Per 500 DNA Strength, Snail HP +40;DNA Strength: 20000/20000
+}}

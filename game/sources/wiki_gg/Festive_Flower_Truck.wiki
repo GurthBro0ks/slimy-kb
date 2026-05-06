@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Traveler codename: Handsome. Due to his stunning appearance, Earth's Will chose him as a ceremonial guard and gave him a customized parade float. During parades, he often takes the lead.
+|affct=FAME
+|hard=ATK
+|source=Unknown
+|color=orange
+|earth=10
+|water=11
+|fire=9
+|wind=12
+|form=Dragon
+|element=Earth
+|realm=Rift
+|orangehard=DEF
+}}

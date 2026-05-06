@@ -1,0 +1,19 @@
+{{CargoRelic
+|name=Dinner Credit Card
+|class_id=20523
+|rank=Blue
+|affct=CIV
+|source=
+|description=Dinner Credit Card was the first plastic charge card, which eventually became an international credit card. As the oldest credit card in the world, it features a classic cover which makes it a possible collectible. In many regions, joining the Dinner Club was a status symbol.
+|fame=27
+|art=36
+|fth=19
+|civ=48
+|tech=28
+|ss1=W-tads gained from VIP Gem Card +50<br>Travel Speedups gained from VIP Gem Card +30m
+|ss2=W-tads gained from VIP Gem Card +50<br>Travel Speedups gained from VIP Gem Card +30m
+|ss3=W-tads gained from VIP Gem Card +50<br>Travel Speedups gained from VIP Gem Card +30m
+|ss4=W-tads gained from VIP Gem Card +50<br>Travel Speedups gained from VIP Gem Card +30m
+|ss7=W-tads gained from VIP Gem Card +50<br>Travel Speedups gained from VIP Gem Card +30m<br>W-tads gained from VIP Gem Card +50 (Awakened)
+|skill1=[[File:Compass skill I.png|50px]]Place in Exploration Compass: In explorations, INTEL gained +2.5%
+}}

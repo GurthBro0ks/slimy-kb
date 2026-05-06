@@ -1,0 +1,19 @@
+{{CargoOrgan
+|name=Eden Neuron
+|type=Common
+|rank=purple
+|id=10844
+|idx=49
+|description=As a major experimental institute of Earth's will, several superb bio-gears have been created in Eden. This neuron, with performance equivalent to a quantum computer, is one of them.
+|skill=
+|hp=1666
+|def=141
+|atk=109
+|rush=215
+|gene1=In explorations, Angel Cells gained +4%
+|gene2=In explorations, Mecha Cells gained +4%
+|gene3=Rebel Cabin Output +5%
+|gene4={race} DEF +8 per Cell Furnace level-up
+Cell Furnace LVL upgraded: 20/20
+|gene7=Rebel Cabin Output +10% (Awakened)
+|}}

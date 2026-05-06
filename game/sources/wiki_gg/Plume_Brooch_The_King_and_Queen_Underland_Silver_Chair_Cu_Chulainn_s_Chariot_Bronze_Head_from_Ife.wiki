@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=708
+|relics=Plume Brooch,The King and Queen,Underland Silver Chair,Cu Chulainn's Chariot,Bronze Head from Ife
+|rank=purple
+|amount=5
+|category=self
+|description=Per Orange Brand Cases opened, Snail HP +90;Orange Brand Cases Opened: 50/50
+}}

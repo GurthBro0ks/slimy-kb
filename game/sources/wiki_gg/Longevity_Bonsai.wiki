@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Longevity Bonsai
+|class_id=20166
+|rank=Green
+|affct=ART
+|source=
+|description=The bonsai of the craftsman's ingenuity has the appearance of a rectangular pot covered in silver gilding and filigree. Green patterns of hanging clouds cover the pot's bottom and it has sea water filigree, fairy pavilions, floating clouds, and two golden dragons as decorations. Other things that are put in the pot are malachite mountains, coral trees, and different kinds of gemstones. People are often amazed by how well it was made.
+|fame=18
+|art=30
+|fth=13
+|civ=15
+|tech=14
+|ss1=Per 10 Minions in battle:<br>> Troop HP +10
+|ss2=Per 10 Minions in battle:<br>> Troop HP +20
+|ss3=Per 10 Minions in battle:<br>> Troop HP +30
+|ss4=Per 10 Minions in battle:<br>> Troop HP +30
+|ss7=Per 10 Minions in battle:<br>> Troop HP +30<br> (Awakened)
+}}

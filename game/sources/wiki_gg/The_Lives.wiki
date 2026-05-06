@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=The Lives
+|class_id=22524
+|rank=AAA
+|affct=FAME
+|birthday=12-06
+|source=
+|description=On Dec 6, 1550 AD, Vasari completed the creation of the Lives of the Most Excellent Painters, Sculptors, and Architects.<br>The Lives, created by Italian art theorist Vasari, is the first Western art history book. Starting with the 14th-century painter Cimabue and ending with Michelangelo of the 16th century, the book lists the lives of over 260 artists from the Renaissance period and their important works, enabling future generations to conduct detailed research on the art and culture of that time.
+|fame=75
+|art=36
+|fth=29
+|civ=51
+|tech=52
+|ss1=Quantum Amp production +1.8%<br>Zombie Minion Cloning SPD +3%
+|ss2=Quantum Amp production +2.4%<br>Zombie Minion Cloning SPD +4%
+|ss3=Quantum Amp production +3%<br>Zombie Minion Cloning SPD +5%
+|ss4=Quantum Amp production +4.2%<br>Zombie Minion Cloning SPD +7%
+|ss5=Quantum Amp production +5.4%<br>Zombie Minion Cloning SPD +9%
+|ss7=Quantum Amp production +5.4%<br>Zombie Minion Cloning SPD +9%<br>Quantum Amp production +4.2% (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail FAME +400
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's FAME +10
+}}

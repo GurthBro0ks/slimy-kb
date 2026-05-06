@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Louis XIV Portrait
+|class_id=22257
+|rank=SSS
+|affct=ART
+|birthday=10-28
+|source=
+|description=On October 28, 1701, Rigaud created this portrait of Louis XIV.<br>Louis XIV was the King of France of the Bourbon Dynasty and also the King of Navarre, reigning for 72 years. During his reign, France engaged in three major wars and became the powerhouse in Western Europe, earning him the title of the Sun King. This oil painting portrays the imposing manner of Louis XIV.
+|fame=47
+|art=107
+|fth=68
+|civ=77
+|tech=63
+|ss1=All Minion HP +0.6%<br>Refining gives +1 Wormhole Refiner by +3%<br>Per Species War joined, Snail ATK +6<br>Species War Enlisted: 20/20
+|ss2=All Minion HP +0.8%<br>Refining gives +1 Wormhole Refiner by +4%<br>Per Species War joined, Snail ATK +8<br>Species War Enlisted: 20/20
+|ss3=All Minion HP +1%<br>Refining gives +1 Wormhole Refiner by +5%<br>Per Species War joined, Snail ATK +10<br>Species War Enlisted: 20/20
+|ss4=All Minion HP +1.4%<br>Refining gives +1 Wormhole Refiner by +7%<br>Per Species War joined, Snail ATK +14<br>Species War Enlisted: 20/20
+|ss5=All Minion HP +1.8%<br>Refining gives +1 Wormhole Refiner by +9%<br>Per Species War joined, Snail ATK +18<br>Species War Enlisted: 20/20
+|ss6=All Minion HP +2.4%<br>Refining gives +1 Wormhole Refiner by +12%<br>Per Species War joined, Snail ATK +24<br>Species War Enlisted: 20/20
+|ss7=All Minion HP +2.4%<br>Refining gives +1 Wormhole Refiner by +12%<br>Per Species War joined, Snail ATK +24<br>Species War Enlisted: 20/20<br>Refining gives +1 Wormhole Refiner by +10% (Awakened)
+|skill1=[[File:Surfclam skill III.png|50px]]Place in the Surf Clam Biozilla: In Species War, Troop CRIT +9%
+|skill2=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion HP +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's ART +15
+|mirage={{Mirage|name=Nine Years' War|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Duke of Luxembourg|3rec=32.01M|3atk=133311|3defense=88937|3hp=5027818|3weak=19140
+|4name=James II|4rec=43.30M|4atk=157115|4defense=104817|4hp=6840283|4weak=20544
+|5name=William III|5rec=56.18M|5atk=184280|5defense=122940|5hp=9067040|5weak=22988
+|6name=Louis XIV|6rec=70.53M|6atk=214532|6defense=143123|6hp=11856166|6weak=28246
+|Arec=85.93M|Aatk=247025|Adefense=164800|Ahp=15205124|Aweak=31983
+}}}}

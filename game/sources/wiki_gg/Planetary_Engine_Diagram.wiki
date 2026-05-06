@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Planetary Engine Diagram
+|class_id=20376
+|rank=Green
+|affct=TECH
+|source=
+|description=Engineers across the world work day and night for the great "planet-development of mankind" project, and have successfully worked out a prototypical engine that can drive the entire planet forward. Although the device is still at a primary stage, the potential in it is attractive enough to drive people into taking risks.
+|fame=17
+|art=16
+|fth=13
+|civ=14
+|tech=30
+|ss1=Snail ATK +10<br>Gene Research Free Speedup +3m
+|ss2=Snail ATK +20<br>Gene Research Free Speedup +6m
+|ss3=Snail ATK +30<br>Gene Research Free Speedup +9m
+|ss4=Snail ATK +30<br>Gene Research Free Speedup +9m
+|ss7=Snail ATK +30<br>Gene Research Free Speedup +9m<br> (Awakened)
+}}

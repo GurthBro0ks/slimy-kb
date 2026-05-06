@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Jade Burial Suit
+|rank=AAA
+|affct=CIV
+|birthday=03-28
+|source=Cathay Treasure Map (10% chance), Fragment Crafting (1.5%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)
+|description=On Mar 28, 1994, a Jade Burial Suit was unearthed from the Shizishan tomb in Jiangsu.
+
+The Jade Burial Suit is made by stitching jade stones with gold threads. It was used to protect corpses and has a shape similar to the human body. It consists of 6 parts, including the head, torso, and 4 limbs. Large pieces of jade and night pearls are also found in some of the openings. Made from dozens of catties of jade and gold silk, this garment is a sign of status and wealth and reflected the ancient idea of seeing death as life.
+
+[Info]
+
+Era: Western Han Dynasty<br>Jade: 2498 pieces<br>Gold Silk: 1100 g
+|fame=47
+|art=41
+|fth=48
+|civ=74
+|tech=33
+|ss1=Snail DEF +30<br>Per 2 Cathay Generals joined, Snail HP +60<br>Cathay Generals: 28/28
+|ss2=Snail DEF +40<br>Per 2 Cathay Generals joined, Snail HP +80<br>Cathay Generals: 28/28
+|ss3=Snail DEF +50<br>Per 2 Cathay Generals joined, Snail HP +100<br>Cathay Generals: 28/28
+|ss4=Snail DEF +70<br>Per 2 Cathay Generals joined, Snail HP +140<br>Cathay Generals: 28/28
+|ss5=Snail DEF +90<br>Per 2 Cathay Generals joined, Snail HP +180<br>Cathay Generals: 28/28
+|ss7=Snail DEF +90<br>Per 2 Cathay Generals joined, Snail HP +180<br>Cathay Generals: 28/28<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Cathay skill II.png|50px]] Place in Cathay Museum: Medal Cost for Expert Scrolls -150
+|skill2=[[File:Cathay skill II.png|50px]] Place in Cathay Museum: This Relic's CIV +10
+}}
+
+[[Category:DEF Boost]]
+[[Category:HP Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Medal Boost]]
+[[Category:CIV Boost]]
+[[Category:Zombie Gene Speedup Boost]]
+[[Category:Relic Boost]]
+[[Category:Enhanced by Cathay Generals]]
+[[Category:Enhanced by Relic Points]]
+[[Category:Drawn Dragon Boost]]
+[[Category:Undead Turtle Boost]]

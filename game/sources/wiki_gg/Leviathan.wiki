@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Leviathan
+|class_id=22587
+|rank=AAA
+|affct=CIV
+|birthday=01-31
+|source=
+|description=On Jan 31, 1651 AD, when Leviathan was first published, it was very popular with readers.<br>Leviathan is actually the name of a mythical giant sea creature, which is a metaphor for absolute monarchy. Hobbes organized the book into four sections: Of Man, Of Commonwealth, Of a Christian Commonwealth, and Of the Kingdom of Darkness. This book has been regarded as the foremost political book since its birth and has had a profound influence on the political structures of later generations.
+|fame=48
+|art=45
+|fth=39
+|civ=75
+|tech=36
+|ss1=Snail DEF +30<br>Quantum Amp Max Cap +3%
+|ss2=Snail DEF +40<br>Quantum Amp Max Cap +4%
+|ss3=Snail DEF +50<br>Quantum Amp Max Cap +5%
+|ss4=Snail DEF +70<br>Quantum Amp Max Cap +7%
+|ss5=Snail DEF +90<br>Quantum Amp Max Cap +9%
+|ss7=Snail DEF +90<br>Quantum Amp Max Cap +9%<br>Quantum Amp Max Cap +7% (Awakened)
+|skill1=[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, 2x Orange Card Drops +7.5%
+|skill2=[[File:Britland skill II.png|50px]]Place in Britland Museum: This Relic's CIV +10
+}}

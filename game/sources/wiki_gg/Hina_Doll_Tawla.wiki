@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=333
+|relics=Hina Doll,Tawla
+|rank=blue
+|amount=2
+|category=self
+|description=Free Gene Speedup (Mutant) +30m
+}}

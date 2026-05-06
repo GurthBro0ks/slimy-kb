@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Last Self Portrait
+|class_id=22259
+|rank=SSS
+|affct=ART
+|birthday=07-28
+|source=
+|description=On Jul 28, 1972 AD, Picasso painted this Self-portrait nine months before his death.<br>The painting is the last well-known self-portrait of Pablo Picasso and it was done a little less than a year before his death. Typically for his self-portraits, he is depicted with big eyes that seem to swallow up the viewer, but he insisted he is not the one who is doing the looking. The artist is here battered by time and is facing his mortality, and his gaze seems terrified but brave. His friend Pierre recalled that Picasso held the drawing beside his face to show that the expression of fear was a contrivance.
+|fame=48
+|art=107
+|fth=70
+|civ=79
+|tech=58
+|ss1=Zombie Minion ATK +3%<br>Per 60 Minions in battle:<br>> Troop HP +90<br>Per 60 Minions in battle:<br>> Troop DEF +9
+|ss2=Zombie Minion ATK +4%<br>Per 60 Minions in battle:<br>> Troop HP +180<br>Per 60 Minions in battle:<br>> Troop DEF +18
+|ss3=Zombie Minion ATK +5%<br>Per 60 Minions in battle:<br>> Troop HP +270<br>Per 60 Minions in battle:<br>> Troop DEF +27
+|ss4=Zombie Minion ATK +7%<br>Per 60 Minions in battle:<br>> Troop HP +450<br>Per 60 Minions in battle:<br>> Troop DEF +45
+|ss5=Zombie Minion ATK +9%<br>Per 60 Minions in battle:<br>> Troop HP +630<br>Per 60 Minions in battle:<br>> Troop DEF +63
+|ss6=Zombie Minion ATK +12%<br>Per 60 Minions in battle:<br>> Troop HP +900<br>Per 60 Minions in battle:<br>> Troop DEF +90
+|ss7=Zombie Minion ATK +12%<br>Per 60 Minions in battle:<br>> Troop HP +900<br>Per 60 Minions in battle:<br>> Troop DEF +90<br>Per 60 Minions in battle:<br>> Troop HP +900 (Awakened)
+|skill1=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop Earth DMG +60
+|skill2=[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion HP +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's ART +15
+|mirage={{Mirage|name=Life in Portrait|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Child Painter|3rec=36.35M|3atk=142457|3defense=95039|3hp=5723836|3weak=19588
+|4name=Young Painter|4rec=48.57M|4atk=168228|4defense=112231|4hp=7690986|4weak=21439
+|5name=Middle-aged Painter|5rec=62.00M|5atk=196559|5defense=131132|5hp=10149802|5weak=24772
+|6name=Old Painter|6rec=76.50M|6atk=227132|6defense=151528|6hp=13129038|6weak=30197
+|Arec=92.97M|Aatk=261866|Adefense=174701|Ahp=16774576|Aweak=33184
+}}}}

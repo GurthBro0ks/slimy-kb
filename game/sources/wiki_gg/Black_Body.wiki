@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Black Body
+|class_id=22335
+|rank=SSS
+|affct=TECH
+|birthday=07-13
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Jul 13, 2015 AD, black body was defined as a metrological term.<br>A black body is a theoretical physical body that absorbs incident electromagnetic radiation, at any wavelength and any temperature, to its surface. A cavity with walls and a tiny hole can simulate the features of an absolute blackbody because light rays entering the hole are continuously reflected and attenuated inside the cavity, turning the hole into an absolute black body. Due to its low radiation, the absolute black body appears dark at room temperature, but at high temperatures, it produces radiation that outshines all other matter and turns unusually bright.
+|fame=73
+|art=51
+|fth=72
+|civ=58
+|tech=108
+|ss1=Snail Leadership +3<br>Mutant Minion RUSH +3%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +24%
+|ss2=Snail Leadership +4<br>Mutant Minion RUSH +4%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +32%
+|ss3=Snail Leadership +5<br>Mutant Minion RUSH +5%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +40%
+|ss4=Snail Leadership +7<br>Mutant Minion RUSH +7%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +56%
+|ss5=Snail Leadership +9<br>Mutant Minion RUSH +9%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +72%
+|ss6=Snail Leadership +12<br>Mutant Minion RUSH +12%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +96%
+|ss7=Snail Leadership +12<br>Mutant Minion RUSH +12%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +96%<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop CRIT DMG +9%
+|skill2=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion RUSH +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's TECH +15
+|mirage={{Mirage|name=Ideal Physical Model|reward={{RewardIconWithLink|Mahakala's Offering, +1|orange}}
+|3name=Ideal Pendulum|3rec=10.80M|3atk=84967|3defense=56684|3hp=2119722|3weak=14586
+|4name=Ideal Gas|4rec=15.63M|4atk=103433|4defense=69004|4hp=3105349|4weak=17594
+|5name=Spring Oscillator|5rec=27.68M|5atk=124164|5defense=82835|5hp=4432536|5weak=18716
+|6name=Absolute Rigid Body|6rec=38.41M|6atk=146802|6defense=97937|6hp=6053528|6weak=19796
+|Arec=50.63M|Aatk=172572|Adefense=115130|Ahp=8112587|Aweak=21871
+}}}}

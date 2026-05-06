@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=The Graces
+|class_id=22644
+|rank=SS
+|affct=ART
+|birthday=07-07
+|source=Lottery Machine No.3 (0.36%)
+|description=On Jul 7, 1640 AD, Rubens completed this famous oil painting on a wood panel.<br>"The Three Graces" is a remarkable late masterpiece by renowned German painter Rubens. Departing from traditional aesthetics, he depicted the three youthful goddesses from Greek mythology with a unique interpretation. The goddesses in the painting possess a plump and slightly bloated appearance, set against a backdrop of vivid and vibrant colors. This portrayal not only reflects a strong sense of secularism but also highlights the artist's identity as a Baroque art master, contributing significantly to the secularization of Western art.
+|fame=51
+|art=104
+|fth=61
+|civ=63
+|tech=68
+|ss1=In Minion Sims, Dung Beetles Data Calculation Effect +4%<br>Per Recruitment Incident completed, Snail DEF +2<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +16<br>Completed Recruitment Incidents: 50/50
+|ss2=In Minion Sims, Dung Beetles Data Calculation Effect +6%<br>Per Recruitment Incident completed, Snail DEF +3<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +24<br>Completed Recruitment Incidents: 50/50
+|ss3=In Minion Sims, Dung Beetles Data Calculation Effect +8%<br>Per Recruitment Incident completed, Snail DEF +4<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +32<br>Completed Recruitment Incidents: 50/50
+|ss4=In Minion Sims, Dung Beetles Data Calculation Effect +12%<br>Per Recruitment Incident completed, Snail DEF +6<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +48<br>Completed Recruitment Incidents: 50/50
+|ss5=In Minion Sims, Dung Beetles Data Calculation Effect +16%<br>Per Recruitment Incident completed, Snail DEF +8<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +64<br>Completed Recruitment Incidents: 50/50
+|ss6=In Minion Sims, Dung Beetles Data Calculation Effect +22%<br>Per Recruitment Incident completed, Snail DEF +11<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +88<br>Completed Recruitment Incidents: 50/50
+|ss7=In Minion Sims, Dung Beetles Data Calculation Effect +22%<br>Per Recruitment Incident completed, Snail DEF +11<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +88<br>Completed Recruitment Incidents: 50/50<br>In Minion Sims, Dung Beetles Data Calculation Effect +20% (Awakened)
+|skill1=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: This Relic's ART +15
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Blue Reagent Drops +15%
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: Medal Output +30
+|mirage={{Mirage|name=The Dance of Goddesses|reward={{RewardIconWithLink|Glorium, +200|orange}}
+|3name=Aglaea|3rec=143.22M|3atk=392958|3defense=245399|3hp=23781713|3weak=38468
+|4name=Talia|4rec=215.74M|4atk=567797|4defense=347427|4hp=46078489|4weak=45809
+|5name=Euphrosyne|5rec=340.81M|5atk=789516|5defense=469180|5hp=88688269|5weak=53008
+|Arec=484.01M|Aatk=1032802|Adefense=598008|Ahp=163011218|Aweak=59401
+}}}}

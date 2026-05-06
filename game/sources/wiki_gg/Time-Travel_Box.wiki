@@ -1,0 +1,44 @@
+{{CargoRelic
+|name=Time-Travel Box
+|rank=SS
+|affct=FAME
+|birthday=07-27
+|source=Dragon Chest (5%), Fragment Crafting (4.6%), Grandmaster Scrolls (1.5%), Lottery Machine (0.18%), Wishing (0.17%)
+|description=On Jul 27, 2001, someone opened Time Travel Box again and traveled back to the past. 
+
+On that day, the guy chanted the mantra while opening the box under the moonlight. In a whoosh, he traveled through time, changed into a handsome general who was commanding an elite army on a chariot to pursue a fleeing adversary. It was all dark at night and not long he found he was in front of one tree with bark removed. The curious general ordered his soldier to get a torch to check the tree and find...
+
+[Time Travel Box Info]
+
+Basic Mantra: Prajna paramitan<br>To open: put under moonlight and chant mantra
+|fame=103
+|art=63
+|fth=63
+|civ=54
+|tech=64
+|ss1=Stone rewards from offering +0.8%<br>Wood rewards from offering +0.8%<br>In explorations, Angel Cells gained +2%
+|ss2=Stone rewards from offering +1.2%<br>Wood rewards from offering +1.2%<br>In explorations, Angel Cells gained +3%
+|ss3=Stone rewards from offering +1.6%<br>Wood rewards from offering +1.6%<br>In explorations, Angel Cells gained +4%
+|ss4=Stone rewards from offering +2.4%<br>Wood rewards from offering +2.4%<br>In explorations, Angel Cells gained +6%
+|ss5=Stone rewards from offering +3.2%<br>Wood rewards from offering +3.2%<br>In explorations, Angel Cells gained +8%
+|ss6=Stone rewards from offering +4.4%<br>Wood rewards from offering +4.4%<br>In explorations, Angel Cells gained +11%
+|ss7=Stone rewards from offering +4.4%<br>Wood rewards from offering +4.4%<br>In explorations, Angel Cells gained +11%<br>In explorations, Angel Cells gained +10%
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, B-tads gained +15%
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail HP +6,000
+|skill3=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: This Relic's FAME +15
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Offering Reward Boost]]
+[[Category:Angel Cell Drop Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:HP Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:FAME Boost]]
+[[Category:Lottery Machine Boost]]
+[[Category:DEF Boost]]
+[[Category:Incense Boost]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Lottery Draws]]

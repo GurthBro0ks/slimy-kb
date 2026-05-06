@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Zigarde Cube
+|class_id=22902
+|rank=SSS
+|affct=TECH
+|source=
+|description=Composed of countless tiny polyhedra,This complex geometric substance seems to constantly change position and angle, making the whole appear as if it is perpetually rotating and flowing. When light shines on the Gigalith Polyhedron, it refracts a dazzling array of genetic imprints, like stars shining in the night sky. Warning: Each time a species is consumed by it, the species' genes become a new face.
+|fame=65
+|art=52
+|fth=74
+|civ=63
+|tech=108
+|ss1=Per treasure obtained, Leadership +3<br>Per treasure obtained, Snail DEF +30<br>Per treasure obtained, Snail RUSH +30<br>Treasures obtained:5/5
+|ss2=Per treasure obtained, Leadership +3<br>Per treasure obtained, Snail DEF +40<br>Per treasure obtained, Snail RUSH +40<br>Treasures obtained:5/5
+|ss3=Per treasure obtained, Leadership +3<br>Per treasure obtained, Snail DEF +50<br>Per treasure obtained, Snail RUSH +50<br>Treasures obtained:5/5
+|ss4=Per treasure obtained, Leadership +3<br>Per treasure obtained, Snail DEF +70<br>Per treasure obtained, Snail RUSH +70<br>Treasures obtained:5/5
+|ss5=Per treasure obtained, Leadership +3<br>Per treasure obtained, Snail DEF +90<br>Per treasure obtained, Snail RUSH +90<br>Treasures obtained:5/5
+|ss6=Per treasure obtained, Leadership +3<br>Per treasure obtained, Snail DEF +120<br>Per treasure obtained, Snail RUSH +120<br>Treasures obtained:5/5
+|ss7=Per treasure obtained, Leadership +3<br>Per treasure obtained, Snail DEF +120<br>Per treasure obtained, Snail RUSH +120<br>Treasures obtained:5/5<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +600
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Lifesteal Effect +30%
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Fire DMG +600
+|mirage={{Mirage|name=dungeon@22902_1|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}
+|3name=Hero Form|3rec=8.58M|3atk=74987|3defense=50081|3hp=1437176|3weak=14999
+|4name=Knight Form|4rec=14.95M|4atk=100894|4defense=67383|4hp=2373631|4weak=18375
+|5name=Duke Form|5rec=31.41M|5atk=131894|5defense=88087|5hp=3807222|5weak=22084
+|6name=King Form|6rec=48.71M|6atk=168337|6defense=112425|6hp=5980400|6weak=27717
+|Arec=68.78M|Aatk=210618|Adefense=140662|Ahp=8915636|Aweak=31898
+}}}}

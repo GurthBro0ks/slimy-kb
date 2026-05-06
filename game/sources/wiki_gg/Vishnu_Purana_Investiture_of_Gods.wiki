@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=734
+|relics=Vishnu Purana,Investiture of Gods
+|rank=orange
+|amount=2
+|category=self
+|description=Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +56;Desert Sanctum Rating Pts: 100000/100000
+}}

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Higgs Boson
+|class_id=21803
+|rank=SSS
+|affct=TECH
+|birthday=01-19
+|source=
+|description=On Jan 19, 2012 AD, the Fermilab announced that the Higgs boson is real.<br>According to the latest experiments, the Higgs boson, also known as the God Particle, exists. With mass, particles can be combined into atoms, with atoms, molecules, and objects. Therefore, the Higgs boson is considered a particle that shapes everything in the world. Without it, there would be no world. Therefore, the physicist, Higgs, proposed the Higgs mechanism, according to which, symmetry is broken spontaneously in the Higgs field, which in turn gives mass to gauge bosons and fermions.
+|fame=75
+|art=68
+|fth=53
+|civ=60
+|tech=106
+|ss1=Snail Leadership +6<br>Dragon Minion ATK +3%<br>Dragon Minion DEF +3%
+|ss2=Snail Leadership +8<br>Dragon Minion ATK +4%<br>Dragon Minion DEF +4%
+|ss3=Snail Leadership +10<br>Dragon Minion ATK +5%<br>Dragon Minion DEF +5%
+|ss4=Snail Leadership +13<br>Dragon Minion ATK +7%<br>Dragon Minion DEF +7%
+|ss5=Snail Leadership +16<br>Dragon Minion ATK +9%<br>Dragon Minion DEF +9%
+|ss6=Snail Leadership +20<br>Dragon Minion ATK +12%<br>Dragon Minion DEF +12%
+|ss7=Snail Leadership +20<br>Dragon Minion ATK +12%<br>Dragon Minion DEF +12%<br>Snail Leadership +20 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Cells collected +6%
+|mirage={{Mirage|name=God Particle|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Rough God Particle|3rec=5.08M|3atk=56965|3defense=37578|3hp=1010275|3weak=11826
+|4name=Fine God Particle|4rec=8.86M|4atk=77245|4defense=50956|4hp=1711478|4weak=13288
+|5name=Epic God Particle|5rec=14.74M|5atk=101396|5defense=66887|5hp=2842672|5weak=16710
+|6name=Legendary God Particle|6rec=29.55M|6atk=129571|6defense=85473|6hp=4432102|6weak=18486
+|Arec=44.83M|Aatk=162162|Adefense=106973|Ahp=6791747|Aweak=19725
+}}}}

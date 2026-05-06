@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Lomekwi Stoneware
+|class_id=22216
+|rank=SS
+|affct=FAME
+|birthday=09-21
+|source=
+|description=On Sept 21, 2011 AD, Sonia accidentally discovered the oldest stone tools made by human ancestors.<br>The discovery of Lomekwi Stoneware came from an accident. Sonia arrived at the shore of Lake Tercana because she'd gotten lost, and she found some stone tools at the lake's edge. The entire batch of stone tools includes 149 spears, hammers, and anvils, all produced around 3.3 million years ago, 500,000 years before the emergence of homo sapiens. Some of the spears have clear traces of artificial processing. According to scientists, these tools would require a strong grip and good motor control, which adds another possibility to human evolution.
+|fame=101
+|art=56
+|fth=51
+|civ=62
+|tech=77
+|ss1=Snail ATK +20<br>Zombie Minion DEF +2%<br>Per 60 Zombie Minions in battle:<br>> Troop DEF +9
+|ss2=Snail ATK +30<br>Zombie Minion DEF +3%<br>Per 60 Zombie Minions in battle:<br>> Troop DEF +18
+|ss3=Snail ATK +40<br>Zombie Minion DEF +4%<br>Per 60 Zombie Minions in battle:<br>> Troop DEF +27
+|ss4=Snail ATK +60<br>Zombie Minion DEF +6%<br>Per 60 Zombie Minions in battle:<br>> Troop DEF +45
+|ss5=Snail ATK +80<br>Zombie Minion DEF +8%<br>Per 60 Zombie Minions in battle:<br>> Troop DEF +63
+|ss6=Snail ATK +110<br>Zombie Minion DEF +11%<br>Per 60 Zombie Minions in battle:<br>> Troop DEF +90
+|ss7=Snail ATK +110<br>Zombie Minion DEF +11%<br>Per 60 Zombie Minions in battle:<br>> Troop DEF +90<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: Snail DEF +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Green Reagent Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|mirage={{Mirage|name=Paleolithic Tools|reward={{RewardIconWithLink|Void Monolith, +1000|orange}}
+|3name=Chopping Tool|3rec=165.65M|3atk=459666|3defense=276956|3hp=77866434|3weak=52874
+|4name=Stone Axe|4rec=202.93M|4atk=538577|4defense=329399|4hp=116330670|4weak=57999
+|5name=Stone Spear|5rec=269.47M|5atk=652484|5defense=404991|5hp=199580155|5weak=63715
+|Arec=386.91M|Aatk=813314|Adefense=510652|Ahp=341145487|Aweak=69734
+}}}}

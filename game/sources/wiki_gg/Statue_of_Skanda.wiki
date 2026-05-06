@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Statue of Skanda
+|class_id=22462
+|rank=Blue
+|affct=FAITH
+|birthday=12-25
+|source=Lottery Machine No.3 (0.03%)
+|description=On Dec 25, 1641 AD, craftsmen cast this statue of Skanda.<br>Skanda was once one of the deities of the Brahmin religion. Later, influenced by Mahayana Buddhism, he became the guardian deity of Buddhism and was called Vai?rava?a Bodhisattva, responsible for protecting Buddhist disciples who had not yet attained enlightenment. This statue was cast in the form of Vai?rava?a Bodhisattva, with armor and a Vaishravana club in his hand, looking very majestic. It has the ability to deter all kinds of demons and monsters.
+|fame=26
+|art=36
+|fth=44
+|civ=21
+|tech=27
+|ss1=Per 10,000 Fervor, Priest-Snail Assistance DMG+8<br>Fervor: 500000/500000
+|ss2=Per 10,000 Fervor, Priest-Snail Assistance DMG+16<br>Fervor: 500000/500000
+|ss3=Per 10,000 Fervor, Priest-Snail Assistance DMG+24<br>Fervor: 500000/500000
+|ss4=Per 10,000 Fervor, Priest-Snail Assistance DMG+40<br>Fervor: 500000/500000
+|ss7=Per 10,000 Fervor, Priest-Snail Assistance DMG+40<br>Fervor: 500000/500000<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Offeringegg skill I.png|50px]]Place in Offering Egg: This Relic's FTH +5
+}}

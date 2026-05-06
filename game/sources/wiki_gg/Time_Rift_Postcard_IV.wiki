@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Time Rift Postcard IV
+|class_id=20113
+|rank=Green
+|affct=ART
+|source=
+|description=While gathering intel on Time Rift, the Snail has also recorded many local customs and traditions into the postcard. Besides looking at it from time to time, you can also show it off to your friends by sharing it!
+|fame=13
+|art=30
+|fth=16
+|civ=19
+|tech=14
+|ss1=Rift Museum medal output +5
+|ss2=Rift Museum medal output +10
+|ss3=Rift Museum medal output +15
+|ss4=Rift Museum medal output +15
+|ss7=Rift Museum medal output +15<br> (Awakened)
+}}

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Like Moonlight
+|class_id=20830
+|rank=Green
+|affct=TECH
+|source=
+|description=Natural cycle law #2: Spring is around the corner, but before that, keep yourself warm when the weather is still cold.
+|fame=15
+|art=13
+|fth=14
+|civ=17
+|tech=30
+|ss1=Snail Leadership +2<br>Per 10 Lucky Star gained, Snail HP +10<br>Lucky Star Gained: 2400/2400
+|ss2=Snail Leadership +4<br>Per 10 Lucky Star gained, Snail HP +20<br>Lucky Star Gained: 2400/2400
+|ss3=Snail Leadership +6<br>Per 10 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 2400/2400
+|ss4=Snail Leadership +6<br>Per 10 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 2400/2400
+|ss7=Snail Leadership +6<br>Per 10 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 2400/2400<br> (Awakened)
+}}

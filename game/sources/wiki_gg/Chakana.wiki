@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Chakana
+|rank=Blue
+|affct=FTH
+|birthday=02-27
+|source=Lottery Machine (0.03%), Soul Chest (2%), Wishing (0.85%)
+|description=On Feb 27, AD 1537, the Inca Empire succumbed to this cross and gradually perished.
+
+The Inca king Atahualpa was confronted by the Spanish Expeditionary Army because he disposed of the cross and the Bible of a Spanish friar. A fierce war broke out and it ended with the heavy losses of Inca warriors and the gradual decline of the Inca Empire. Since then, this significant totem often appeared in the Inca mythology, as it portrayed the sense of mystery and sorrow of the falling sunset.
+|fame=30
+|art=34
+|fth=45
+|civ=24
+|tech=21
+|ss1=Per Altar God Descent, Snail DEF +2<br>Gods Descended: 30/30
+|ss2=Per Altar God Descent, Snail DEF +4<br>Gods Descended: 30/30
+|ss3=Per Altar God Descent, Snail DEF +6<br>Gods Descended: 30/30
+|ss4=Per Altar God Descent, Snail DEF +10<br>Gods Descended: 30/30
+|ss7=Per Altar God Descent, Snail DEF +10<br>Gods Descended: 30/30<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Quarry skill I.png|50px]] Place in Quarry: Quarry Max Cap +5%
+}}
+
+[[Category:DEF Boost]]
+[[Category:God Descent Boost]]
+[[Category:Quarry Skill]]
+[[Category:Quarry Output Boost]]
+[[Category:HP Boost]]
+[[Category:Gene Research Speedup Boost]]

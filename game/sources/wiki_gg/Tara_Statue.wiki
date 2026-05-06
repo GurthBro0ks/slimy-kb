@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Tara Statue
+|class_id=22423
+|rank=Blue
+|affct=ART
+|birthday=01-09
+|source=Lottery Machine No.3 (0.25%)
+|description=On Jan 9, 784 AD, a statue of Tara was cast.<br>This gold-plated bronze statue, with South Asian features on its face, is made entirely of solid bronze, which is rare for statues of its time. Standing at three-quarters the height of a real person, the craftsmanship required to create such an elegant shape with smooth lines is extraordinary. This statue is a rare work of art.
+|fame=22
+|art=44
+|fth=27
+|civ=36
+|tech=25
+|ss1=Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +8<br>Desert Sanctum Rating Pts: 100000/100000
+|ss2=Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +16<br>Desert Sanctum Rating Pts: 100000/100000
+|ss3=Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Desert Sanctum Rating Pts: 100000/100000
+|ss4=Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Desert Sanctum Rating Pts: 100000/100000
+|ss7=Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Desert Sanctum Rating Pts: 100000/100000<br>Protomon Snail assist DMG + 400 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +1%
+}}

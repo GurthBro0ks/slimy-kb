@@ -1,0 +1,15 @@
+{{CargoClone
+|name=General Shimasu
+|rank=orange
+|cabin=2
+|id=113
+|gene1={race} DEF +50
+|gene2={race} TECH +50
+|gene3=Each round, {race} DEF +30
+|gene4=Per 60 Mutant Minions in battle,
+Troop Earth DMG +6
+|gene5=Species War Cabin, deployable robots +2
+|gene6=Per 60 Mutant Minions in battle,
+Troop Earth DMG +10
+|gene7=Species War Cabin, deployable robots +3
+|}}

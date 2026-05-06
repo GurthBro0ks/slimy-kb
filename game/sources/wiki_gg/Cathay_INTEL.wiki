@@ -1,0 +1,260 @@
+==INTEL==
+There are three INTEL trees in Cathay, each with 19 different skills. Each skill has between 1 and 3 levels. Initially, only one hex is available to upgrade in exchange for INTEL (gathered passively during exploration). To make any hex available, an adjacent hex must first be fully upgraded. Additionally, some hexes have a "release condition" required before it can be unlocked. Below is a list of all Cathay INTEL.
+
+[[File:Cathay INTEL 1.0.png|frameless|left]][[File:Cathay INTEL 2.0.png|frameless]][[File:Cathay INTEL 3.0.png|frameless]]
+
+'''Recommended Upgrade:''' Wei, Shu, and Wu tiles 2 and 4 increase SPD and Prestige earned in their respective kingdoms, so this is a great start. Tile 9 also unlocks the Key Clue necessary for Sima Yi. Besides these, tiles 6 and 8 for each area, if raised to level 3 early on, could reduce the number of necessary explorations to 100% the realm.  
+
+'''Recommended Upgrade:''' Tiles 1, 3, 7, 12, and 17 in each Kingdom unlocks their generals and getting these unlocked asap is important. Tiles 16 unlocks new areas within Cathay.
+
+'''Recommended Upgrade:''' Wei tile 9 unlocks the Key Clue necessary for Sima Yi, and Shu tile 9 unlocks the ability to pay respects to dead generals. Get these as soon as possible. Wu tile 14 triggers a special event that rewards a great gear for Cathay, so the sooner the better. Finally, Wu 5, 9, and 11 are great for more resources and 19 gives a strong orange relic as well.
+
+==Wei==
+[[File:Cathay INTEL 1.5.png|frameless|left]]
+{| class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|1||Meet Lady Zhen||150|| ||Unlock Kingdom of Wei General [[Cathay_Generals#Kingdom_of_Wei|Lady Zhen]]
+|-
+| rowspan="2" |2|| rowspan="2" |Yongzhou Inspector||600|| ||In the Kingdom of Wei, Travel SPD +10%<br>Wei: Xuchang, Ji Zhou, Chang'an
+|-
+|1200|| ||In the Kingdom of Wei, Travel SPD +20%<br>Wei: Xuchang, Ji Zhou, Chang'an
+|-
+|3||Meet Guard Dian Wei||600|| ||Unlock Kingdom of Wei General [[Cathay_Generals#Kingdom_of_Wei|Guard Dian Wei]]
+|-
+| rowspan="2" |4|| rowspan="2" |Inspiring General||600|| ||Prestige gained from exploring Wei +10%<br>Wei: Xuchang, Ji Zhou, Chang'an
+|-
+|1200|| ||Prestige gained from exploring Wei +20%<br>Wei: Xuchang, Ji Zhou, Chang'an
+|-
+| rowspan="3" |5|| rowspan="3" |Cho's Military Theory||2400||Number of generals appointed: 3||Unlock General Formation (Fengshi)
+|-
+|4800|| ||Unlock General Formation (Yanyue)
+|-
+|7200|| ||Unlock General Formation (Keyi)
+|-
+| rowspan="3" |6|| rowspan="3" |Horses Manual||2400|| ||Upgrade 1 White Stable Grid to Green
+|-
+|4800|| ||Upgrade 1 Green Stable Grid to Blue
+|-
+|7200|| ||Upgrade 1 Blue Stable Grid to Purple
+|-
+|7||Meet Cyclops Xiahou D||2400|| ||Unlock Kingdom of Wei General [[Cathay_Generals#Kingdom_of_Wei|Cyclops Xiahou D]]
+|-
+| rowspan="3" |8|| rowspan="3" |Politician Cao's Poem||2400|| ||Upgrade 1 White Tavern Grid to Green
+|-
+|4800|| ||Upgrade 1 Green Tavern Grid to Blue
+|-
+|7200|| ||Upgrade 1 Blue Tavern Grid to Purple
+|-
+| rowspan="3" |9|| rowspan="3" |Kidnap for Power||2400|| ||Unlock Special Incident (Secret Edict)
+|-
+|4800|| ||Unlock Special Incident (Greet the Emperor)
+|-
+|7200|| ||Unlock Special Incident (Imperial Trust)
+|-
+| rowspan="3" |10|| rowspan="3" |Grave Robber||6000|| ||Upon traveling through an area, rob a grave by +3%
+|-
+|12000|| ||Upon traveling through an area, rob a grave by +6%
+|-
+|18000|| ||Upon traveling through an area, rob a grave by +10%
+|-
+| rowspan="2" |11|| rowspan="2" |Know Your Horses||6000||Acquisition of Horses Manual Lv. 1||Stable Grid drops extra {{RewardIconWithText|Akhal-Teke}} by 5%<br>Stables drop Suzaku Spirit by +0.5% (7/7)
+|-
+|12000|| ||Stable Grid drops extra {{RewardIconWithText|Akhal-Teke}} by 7%<br>Stables drop Suzaku Spirit by +1% (7/7)
+|-
+|12||Meet Vanguard Zhang Liao||6000|| ||Unlock Kingdom of Wei General [[Cathay_Generals#Kingdom_of_Wei|Vanguard Liao]]
+|-
+| rowspan="3" |13|| rowspan="3" |Three Strategies||6000|| ||All General HP +10%
+|-
+|12000|| ||All General HP +15%
+|-
+|18000|| ||All General HP +20%
+|-
+| rowspan="3" |14|| rowspan="3" |Six Arts of War||6000|| ||All General DEF +10%
+|-
+|12000|| ||All General DEF +15%
+|-
+|18000|| ||All General DEF +20%
+|-
+| rowspan="3" |15|| rowspan="3" |Prime Minister of Wei||9000|| ||Lumber Camp Output +3%<br>Quarry Output +3%
+|-
+|18000|| ||Lumber Camp Output +6%<br>Quarry Output +6%
+|-
+|27000|| ||Lumber Camp Output +10%<br>Quarry Output +10%
+|-
+|16||Chang'an Apostle Clue||27000||Defeat [[Cathay Apostles#Politician Sima Yi|Politican Sima Yi]]||Unlock area (Chang'an)<br>In Chang'an, INTEL gained +20%
+|-
+|17||Meet Counselor Guo Jia||9000|| ||Unlock Kingdom of Wei General [[Cathay_Generals#Kingdom_of_Wei|Counselor Guo Jia]]
+|-
+| rowspan="3" |18|| rowspan="3" |Trust of the People||9000|| ||Per Cathay Apostle dominated, Snail AFFCT +16
+|-
+|18000|| ||Per Cathay Apostle dominated, Snail AFFCT +32
+|-
+|27000|| ||Per Cathay Apostle dominated, Snail AFFCT +48
+|-
+| rowspan="2" |19|| rowspan="2" |Bronze Lark Terrace||9000|| ||Unlock more items in Cathay Card Redemption (Tier 1 & 2)<br>At the end of explorations in Cathay, Cards convert to +5% rewards
+|-
+|18000|| ||Unlock more items in Cathay Card Redemption (Tier 3 & 4 & 5)<br>At the end of explorations in Cathay, Cards convert to +10% rewards
+|}
+
+==Shu==
+[[File:Cathay INTEL 2.5.png|frameless|left]]
+{| class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|1||Meet Madam Huang||150|| ||Unlock Kingdom of Shu General [[Cathay_Generals#Kingdom_of_Shu|Madam Huang]]
+|-
+| rowspan="2" |2|| rowspan="2" |Yizhou Inspector||600|| ||In the Kingdom of Shu, Travel SPD +10%<br>Shu: Chengdu, Nanzhong, North Jingzhou
+|-
+|1200|| ||In the Kingdom of Shu, Travel SPD +20%<br>Shu: Chengdu, Nanzhong, North Jingzhou
+|-
+|3||Meet Super Ma Chao||600|| ||Unlock Kingdom of Shu General [[Cathay_Generals#Kingdom_of_Shu|Super Ma Chao]]
+|-
+| rowspan="2" |4|| rowspan="2" |General Pacifier||600|| ||Prestige gained from exploring Shu +10%<br>Shu: Chengdu, Nanzhong, North Jingzhou
+|-
+|1200|| ||Prestige gained from exploring Shu +10%<br>Shu: Chengdu, Nanzhong, North Jingzhou
+|-
+| rowspan="3" |5|| rowspan="3" |7-Star Lamp||2400||Only effective in Angel Form in Cathay||Per victory, light up the 7-Star Lamp by +10%
+|-
+|4800||Only effective in Angel Form in Cathay||Per victory, light up the 7-Star Lamp by +20%
+|-
+|7200||Only effective in Angel Form in Cathay||Per victory, light up the 7-Star Lamp by +30%
+|-
+| rowspan="3" |6|| rowspan="3" |Records of Commerce||2400|| ||Upgrade 1 White Market Grid to Green
+|-
+|4800|| ||Upgrade 1 Green Market Grid to Blue
+|-
+|7200|| ||Upgrade 1 Blue Market Grid to Purple
+|-
+|7||Meet Stalwart Zhao Yun||2400|| ||Unlock Kingdom of Shu General [[Cathay_Generals#Kingdom_of_Shu|Stalwart Zhao Yun]]
+|-
+| rowspan="3" |8|| rowspan="3" |Art of Agriculture||2400|| ||Upgrade 1 White Farm Grid to Green
+|-
+|4800|| ||Upgrade 1 Green Farm Grid to Blue
+|-
+|7200|| ||Upgrade 1 Blue Farm Grid to Purple
+|-
+| rowspan="2" |9|| rowspan="2" |Letter to the Emperor||2400|| ||You can pay respect to dead Generals<br>In Cathay, DMG +10%
+|-
+|4800|| ||In Cathay, DMG +20%
+|-
+| rowspan="3" |10|| rowspan="3" |Book on Warcraft||6000|| ||All General ATK +10%
+|-
+|12000|| ||All General ATK +15%
+|-
+|18000|| ||All General ATK +20%
+|-
+| rowspan="2" |11|| rowspan="2" |Commerce Overseer||6000||Acquire Records of Commerce Lv. 1||Market Grid drops extra Cathay Maps by +5%<br>Market drop Genbu Spirits by +0.5% (7/7)
+|-
+|12000|| ||Market Grid drops extra Cathay Maps by +10%<br>Market drop Genbu Spirits by +1% (7/7)
+|-
+|12||Meet Brawler Zhang Fei||6000|| ||Unlock Kingdom of Shu General [[Cathay_Generals#Kingdom_of_Shu|Brawler Zhang Fei]]
+|-
+| rowspan="2" |13|| rowspan="2" |Chinese Herbal Book||6000||Acquire Art of Agriculture Lv. 1||Farm Grids drop extra {{RewardIconWithText|Reishi}} by +5%<br>Farm drop Byakko Spirits by +0.5% (7/7)
+|-
+|12000|| ||Farm Grids drop extra {{RewardIconWithText|Reishi}} by +10%<br>Farm drop Byakko Spirits by +1% (7/7)
+|-
+|14||Kindheartedness||6000|| ||1 General Recruited = 1 Expert Scroll<br>Generals Recruited: 28/28
+|-
+| rowspan="3" |15|| rowspan="3" |Prime Minister of Shu||9000|| ||Fungus Farm Output +3%<br>Tadpole Pont B-tad Output +3%
+|-
+|18000|| ||Fungus Farm Output +6%<br>Tadpole Pont B-tad Output +6%
+|-
+|27000|| ||Fungus Farm Output +10%<br>Tadpole Pont B-tad Output +10%
+|-
+|16||N. Jingzhou Apostle Clue||15000||Defeat [[Cathay Apostles#Politician Yuan Shao|Politician Yuan Shao]]||Unlock area (North Jingzhou)<br>In North Jingzhou, INTEL gained +20%
+|-
+|17||Meet Faithful Guan Yu||15000|| ||Unlock Kingdom of Shu General [[Cathay_Generals#Kingdom_of_Shu|Faithful Guan Yu]]
+|-
+| rowspan="3" |18|| rowspan="3" |Warlords Battle||9000|| ||Unlock Special Incident (Snail vs Lu Bu 1)
+|-
+|18000|| ||Unlock Special Incident (Snail vs Lu Bu 2)
+|-
+|27000|| ||Unlock Special Incident (Snail vs Lu Bu 3)
+|-
+|19||Supreme Warlord||9000||Complete [[Cathay Key Clues#Call for An Ordered World|Cathay Key Clue "Call for An Ordered World"]]||Learn to recruit a general (Lu Bu)
+|}
+
+==Wu==
+[[File:Cathay INTEL 3.5.png|frameless|left]]
+{| class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|1||Meet Qiao Sisters||150|| ||Unlock Kingdom of Wu General [[Cathay_Generals#Kingdom_of_Wu|Qiao Sisters]]
+|-
+| rowspan="2" |2|| rowspan="2" |Yangzhou Inspector||600|| ||In the Kingdom of Wu, Travel SPD +10%<br>Wu: Yangzhou, South Jingzhou, Red Cliff
+|-
+|1200|| ||In the Kingdom of Wu, Travel SPD +20%<br>Wu: Yangzhou, South Jingzhou, Red Cliff
+|-
+|3||Meet Princess Sun||600|| ||Unlock Kingdom of Wu General [[Cathay_Generals#Kingdom_of_Wu|Princess Sun]]
+|-
+| rowspan="2" |4|| rowspan="2" |Supporting General||600|| ||Prestige gained from exploring Wu +10%<br>Wu: Yangzhou, South Jingzhou, Red Cliff
+|-
+|1200|| ||Prestige gained from exploring Wu +20%<br>Wu: Yangzhou, South Jingzhou, Red Cliff
+|-
+| rowspan="2" |5|| rowspan="2" |Anc. Divination||2400|| ||Unlock special cards<br>Gain Travel Speedup +2h
+|-
+|4800|| ||Gain Travel Speedup +4h
+|-
+| rowspan="3" |6|| rowspan="3" |Military Classic||2400|| ||Upgrade 1 White Barracks Grid to Green
+|-
+|4800|| ||Upgrade 1 Green Barracks Grid to Blue
+|-
+|7200|| ||Upgrade 1 Blue Barracks Grid to Purple
+|-
+|7||Meet Warscar Zhou Tai||2400|| ||Unlock Kingdom of Wu General [[Cathay_Generals#Kingdom_of_Wu|Warscar Zhou Tai]]
+|-
+| rowspan="3" |8|| rowspan="3" |Discourse on Salt/Iron||2400|| ||Upgrade 1 White Forge Grid to Green
+|-
+|4800|| ||Upgrade 1 Green Forge Grid to Blue
+|-
+|7200|| ||Upgrade 1 Blue Forge Grid to Purple
+|-
+| rowspan="3" |9|| rowspan="3" |Flamboyant Bandit||2400|| ||Per victory, Supply Box +1
+|-
+|4800|| ||Per victory, Supply Box +2
+|-
+|7200|| ||Per victory, Supply Box +3
+|-
+| rowspan="3" |10|| rowspan="3" |The Pure Book||6000|| ||All General DMG +10%
+|-
+|12000|| ||All General DMG +15%
+|-
+|18000|| ||All General DMG +20%
+|-
+|11||Chained Strategies||6000|| ||Chain Rewards increase 1 chain by +10%
+|-
+|12||Meet Gallant Huang Gai||6000|| ||Unlock Kingdom of Wu General [[Cathay_Generals#Kingdom_of_Wu|Gallant Huang Gai]]
+|-
+| rowspan="2" |13|| rowspan="2" |Forging||6000||Acquire Discourse on Salt/Iron Lv. 1||Forge Grid drops extra {{RewardIconWithText|Bronze Tripod}} by +5%<br>Forges drop Seiryuu Spirits by +0.5%
+|-
+|12000|| ||Forge Grid drops extra {{RewardIconWithText|Bronze Tripod}} by +10%<br>Forges drop Seiryuu Spirits by +1%
+|-
+|14||Loyal Retainers||6000|| ||Unlock Special Hitman ([[Mailbox#Loyal Retainers|Loyal Retainers]])<br>[[Mailbox#Loyal Retainers|Loyal Retainers]] will visit your Home
+|-
+| rowspan="3" |15|| rowspan="3" |Prime Minister of Wu||9000|| ||Time Machine Travel Speedup Output +3%
+|-
+|18000|| ||Time Machine Travel Speedup Output +6%
+|-
+|27000|| ||Time Machine Travel Speedup Output +10%
+|-
+|16||Red Cliff Apostle Clue||27000||Defeat [[Cathay Apostles#Elephants|Elephants]]||Unlock area (Red Cliff)<br>In Red Cliff, INTEL gained +20%
+|-
+|17||Meed Admiral Zhou Yu||9000|| ||Unlock Kingdom of Wu General [[Cathay_Generals#Kingdom_of_Wu|Admiral Zhou Yu]]
+|-
+| rowspan="3" |18|| rowspan="3" |Roll Call Platform||9000||???||8 Generals trained = 24 W-Tadpoles<br>Genearls trained: 224/224
+|-
+|18000|| ||8 Generals trained = 48 W-Tadpoles<br>Genearls trained: 224/224
+|-
+|27000|| ||8 Generals trained = 80 W-Tadpoles<br>Genearls trained: 224/224
+|-
+| rowspan="3" |19|| rowspan="3" |Imperial Jade||9000|| ||Acquire [[Imperial Jade|<span style="color:#ffb066;">Imperial Jade</span>]] +40
+|-
+|18000|| ||Acquire [[Imperial Jade|<span style="color:#ffb066;">Imperial Jade</span>]] +40
+|-
+|27000|| ||Acquire [[Imperial Jade|<span style="color:#ffb066;">Imperial Jade</span>]] +40
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Cathay]]

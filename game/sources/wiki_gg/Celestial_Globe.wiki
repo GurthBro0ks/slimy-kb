@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Celestial Globe
+|class_id=22422
+|rank=Blue
+|affct=ART
+|birthday=06-05
+|source=Lottery Machine No.3 (0.25%)
+|description=On Jun 5, 1275 AD, this celestial globe was made by craftsmen.<br>This brass celestial globe is decorated with a total of 48 constellations and their Arabic names. The star pattern on the sphere, inlaid with silver wire, shows the exquisite metalworking skills of the maker. What sets it apart is the inscription engraved on it: "This is a work of respect for the gods and the heavens, demonstrating the nobility of the heavens. Made by the astrologer Hilal in Mosul."
+|fame=20
+|art=44
+|fth=30
+|civ=35
+|tech=25
+|ss1=Demon God Cabin, deployable robots +1
+|ss2=Demon God Cabin, deployable robots +2
+|ss3=Demon God Cabin, deployable robots +3
+|ss4=Demon God Cabin, deployable robots +5
+|ss7=Demon God Cabin, deployable robots +5<br>Demon God Cabin, deployable robots +5 (Awakened)
+|skill1=[[File:Cathay skill I.png|50px]]Place in Cathay Museum: In Cathay, 2x Blue Card Drops +2.5%
+}}

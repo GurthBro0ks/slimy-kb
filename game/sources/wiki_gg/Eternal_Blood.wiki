@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Eternal Blood
+|class_id=20738
+|rank=Green
+|affct=FAITH
+|source=
+|description=A concoction of blood from various immortal beings. It may look dangerous, but it's actually not safe at all. The developers claim that introducing it into the body can heal all injuries and even reverse aging, but no creature with an IQ over fifty would risk their own life for this.
+|fame=18
+|art=11
+|fth=31
+|civ=16
+|tech=14
+|ss1=Troop Healing +1%<br>Per 10 Minions in battle:<br>> Troop HARD Stats +1
+|ss2=Troop Healing +2%<br>Per 10 Minions in battle:<br>> Troop HARD Stats +2
+|ss3=Troop Healing +3%<br>Per 10 Minions in battle:<br>> Troop HARD Stats +3
+|ss4=Troop Healing +3%<br>Per 10 Minions in battle:<br>> Troop HARD Stats +3
+|ss7=Troop Healing +3%<br>Per 10 Minions in battle:<br>> Troop HARD Stats +3<br> (Awakened)
+}}

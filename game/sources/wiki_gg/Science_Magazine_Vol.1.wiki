@@ -1,0 +1,35 @@
+{{Missing Info|specifics=<br>Mirage: 5s, 6s, Awakened<br>Description}}
+{{CargoRelic
+|name=Science Magazine Vol.1
+|rank=SSS
+|affct=FAME
+|birthday=11-04
+|source=Lottery Machine No. 2 (0.12%), Relic Forge (120 Relic RF)
+|description=
+|fame=107
+|art=59
+|fth=48
+|civ=72
+|tech=76
+|ss1=Refine +1 White Printing Supply by +3%<br>When refining, there exists a +3% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +3% chance for Purple Building Materials to turn into Orange
+|ss2=Refine +1 White Printing Supply by +4%<br>When refining, there exists a +4% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +4% chance for Purple Building Materials to turn into Orange
+|ss3=Refine +1 White Printing Supply by +5%<br>When refining, there exists a +5% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +5% chance for Purple Building Materials to turn into Orange
+|ss4=Refine +1 White Printing Supply by +7%<br>When refining, there exists a +7% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +7% chance for Purple Building Materials to turn into Orange
+|ss5=Refine +1 White Printing Supply by +9%<br>When refining, there exists a +9% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +9% chance for Purple Building Materials to turn into Orange
+|ss6=Refine +1 White Printing Supply by +12%<br>When refining, there exists a +12% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +12% chance for Purple Building Materials to turn into Orange
+|ss7=Refine +1 White Printing Supply by +12%<br>When refining, there exists a +12% chance for Blue Building Materials to turn into Purple<br>When refining, there exists a +12% chance for Purple Building Materials to turn into Orange<br>Refine +1 White Printing Supply by +10% (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]] Place in a Biozilla: In Species War, AFFCT Checks -150
+|skill2=[[File:Goldfish skill III.png|50px]] Place in Goldfish Biozilla: In Species War, Troop DMG toward heroes +6%
+|skill3=[[File:Goldfish skill III.png|50px]] Place in Goldfish Biozilla: In Species War, All Minion DEF +9%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Wormhole Boost]]
+[[Category:Biozilla Skill]]
+[[Category:AFFCT Boost]]
+[[Category:Goldfish Biozilla Skill]]
+[[Category:Minion DMG Towards Heroes Boost]]
+[[Category:Minion DEF Boost]]
+[[Category:ATK Boost]]
+[[Category:Rebel Rocket Cabin Boost]]
+[[Category:Enhanced by Tadpole Points]]

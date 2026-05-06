@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Head of Bhairava,Ulysses
+|rank=orange
+|amount=2
+|category=minion
+|description=Per 60 Angel Minions in battle: Troop HARD Stats +21
+}}
+[[Category:Minion]]
+[[Category:Angel Minion HARD Boost]]

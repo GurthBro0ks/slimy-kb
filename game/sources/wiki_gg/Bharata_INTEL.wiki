@@ -1,0 +1,269 @@
+{{Missing Info|specifics=<br>-- '''Bharata Intel:''' Bharata Map Cost<br>}}
+==INTEL==
+There are two INTEL trees in [[Bharata]], each with 19 different skills. Each skill has between 1 and 4 levels. Initially, only one hex is available to upgrade in exchange for INTEL (gathered passively during exploration). To make any hex available, an adjacent hex must first be fully upgraded. Additionally, some hexes have a "release condition" required before it can be unlocked. Below is a list of all [[Bharata]] INTEL.
+
+[[File:Bharata INTEL Tab 1.png|200px|left]][[File:Bharata INTEL Tab 2.png|200px]]
+{{Clear}}
+'''Recommended Upgrades:'''
+* Bharata INTEL Tree
+** 1 - to unlock the intel tree
+** 2 - to improve the drops
+** 4 - to improve the drops
+** 8 - to enhance speed
+** 13 - to improve the drops
+** 6 - to improve the drops
+** 9 - at least the first upgrade to unlock the All-In-One tree
+* All-In-One Tree
+** 1 - to reach 2 and 4
+** 2 - to upgrade Medicine Pavilion
+** 4 - to upgrade Rock Pavilion
+* Back to Bharata INTEL Tree
+** 10 - to get more maps
+** 11 - to increase damage
+
+==Bharata INTEL==
+[[File:Bharata INTEL Tab 1 Numbered.png|300px|left]]
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|1||Bharata Map||300?||||Upon traveling through an area:<br>Gain +200 INTEL
+|-
+|rowspan="3"|2||rowspan="3"|Bharata Temple||1.8k||||Upgrade 1 Gift Pavilion Grid to Green
+|-
+|3.6k||||Upgrade 1 Gift Pavilion Grid to Blue
+|-
+|5.4k||||Upgrade 1 Gift Pavilion Grid to Purple
+|-
+|3||Deli Apostle Clue||5.4k||Defeat [[Bharata Apostles#Snake Charmer|Bharata Apostle Snake Charmer]]||Unlock area (Deli)<br>In Deli, INTEL gained +20%
+|-
+|rowspan="3"|4||rowspan="3"|Bharata Alchemy||1.8k||||Upgrade 1 Elixir Pavilion Grid to Green
+|-
+|3.6k||||Upgrade 1 Elixir Pavilion Grid to Blue
+|-
+|5.4k||||Upgrade 1 Elixir Pavilion Grid to Purple
+|-
+|5||Ganges Civilization||7.2k||||Unlock Special Cards (Bharata)
+|-
+|rowspan="3"|6||rowspan="3"|Diwali||7.2k||||Per victory, Lotus Lamps gained +1<br>(Only Effective in Bharata)
+|-
+|14.4k||||Per victory, Lotus Lamps gained +2<br>(Only Effective in Bharata)
+|-
+|21.6k||||Per victory, Lotus Lamps gained +3<br>(Only Effective in Bharata)
+|-
+|7||Ranki Apostle Clue||21.6k||Defeat [[Bharata Apostles#Bahubali|Bharata Apostle Bahubali]]||Unlock area (Ranki)<br>In Ranki, INTEL gained +20%
+|-
+|rowspan="4"|8||rowspan="4"|Pilgrimage||7.2k||||In Bharata, Travel SPD +4%
+|-
+|14.4k||||In Bharata, Travel SPD +8%
+|-
+|21.6k||||In Bharata, Travel SPD +12%
+|-
+|28.8k||||In Bharata, Travel SPD +16%
+|-
+|rowspan="3"|9||rowspan="3"|All-in-One||7.2k||||Unlock INTEL Tree ([[#All-in-One|All-in-One]])<br>For Bharata Incidents, AFFCT Checks -200
+|-
+|14.4k||||Unlock INTEL Tree ([[#All-in-One|All-in-One]])<br>For Bharata Incidents, AFFCT Checks -400
+|-
+|21.6k||||Unlock INTEL Tree ([[#All-in-One|All-in-One]])<br>For Bharata Incidents, AFFCT Checks -600
+|-
+|rowspan="4"|10||rowspan="4"|Ramayana||18k||||Upon traveling through an area:<br>Gain Bharatan Treasure Maps by +5%<br>Only effective in Bharata
+|-
+|36k||||Upon traveling through an area:<br>Gain Bharatan Treasure Maps by +10%<br>Only effective in Bharata
+|-
+|54k||||Upon traveling through an area:<br>Gain Bharatan Treasure Maps by +15%<br>Only effective in Bharata
+|-
+|72k||||Upon traveling through an area:<br>Gain Bharatan Treasure Maps by +20%<br>Only effective in Bharata
+|-
+|rowspan="4"|11||rowspan="4"|16 Kingdoms||18k||||In Bharata, DMG +5%
+|-
+|36k||||In Bharata, DMG +10%
+|-
+|54k||||In Bharata, DMG +15%
+|-
+|72k||||In Bharata, DMG +20%
+|-
+|12||Andra Apostle Clue||54k||Defeat [[Bharata Apostles#Overcrowded Train|Bharata Apostle Overcrowded Train]]||Unlock Area (Andra)<br>In Andra, INTEL gained +20%
+|-
+|rowspan="4"|13||rowspan="4"|Puja Ritual||18k||||At Gift Pavilions, Ingots gained +25%<br>At Elixir Pavilions, Tao Pills gained +25%<br>At Medicine Pavilions, Herb Pills gained +25%<br>At Rock Pavilions, Mending Stones gained +25%
+|-
+|36k||||At Gift Pavilions, Ingots gained +50%<br>At Elixir Pavilions, Tao Pills gained +50%<br>At Medicine Pavilions, Herb Pills gained +50%<br>At Rock Pavilions, Mending Stones gained +50%
+|-
+|54k||||At Gift Pavilions, Ingots gained +75%<br>At Elixir Pavilions, Tao Pills gained +75%<br>At Medicine Pavilions, Herb Pills gained +75%<br>At Rock Pavilions, Mending Stones gained +75%
+|-
+|72k||||At Gift Pavilions, Ingots gained +100%<br>At Elixir Pavilions, Tao Pills gained +100%<br>At Medicine Pavilions, Herb Pills gained +100%<br>At Rock Pavilions, Mending Stones gained +100%
+|-
+|rowspan="4"|14||rowspan="4"|Epic of Mahabharata||18k||||Per Bharata Apostle dominated, Snail AFFCT +10<br>Areas Conquered in Bharata: 10/10
+|-
+|36k||||Per Bharata Apostle dominated, Snail AFFCT +15<br>Areas Conquered in Bharata: 10/10
+|-
+|54k||||Per Bharata Apostle dominated, Snail AFFCT +20<br>Areas Conquered in Bharata: 10/10
+|-
+|72k||||Per Bharata Apostle dominated, Snail AFFCT +25<br>Areas Conquered in Bharata: 10/10
+|-
+|rowspan="3"|15||rowspan="3"|Spice Road Project||20k||||Card Conversion in Bharata gives +5% rewards<br>Unlock more items in [[Bharata Cards|Bharata Card Redemption]]
+|-
+|40k||||Card Conversion in Bharata gives +10% rewards<br>Unlock more items in [[Bharata Cards|Bharata Card Redemption]]
+|-
+|60k||||Card Conversion in Bharata gives +15% rewards<br>Unlock more items in [[Bharata Cards|Bharata Card Redemption]]
+|-
+|rowspan="4"|16||rowspan="4"|Peacock's Return||20k||||+5 Super Memetic Chest
+|-
+|40k||||+10 Super Memetic Chest
+|-
+|60k||||+15 Super Memetic Chest
+|-
+|80k||||+20 Super Memetic Chest  (Cumulative 50 Super Memetic Chests)
+|-
+|17||Bunjab Apostle Clue||60k||Defeat [[Bharata Apostles#Ultimate Motorcycle|Bharata Apostle Ultimate Motorcycle]]||Unlock Area (Bunjap)<br>In Bunjap, INTEL gained +20%
+|-
+|rowspan="4"|18||rowspan="4"|Countless Ganges Sands||20k||||If an exploration session in Bharata is sped up for +10 hrs, gain 1 Sand of Ganges at the end
+|-
+|40k||||If an exploration session in Bharata is sped up for +8 hrs, gain 1 Sand of Ganges at the end
+|-
+|60k||||If an exploration session in Bharata is sped up for +6 hrs, gain 1 Sand of Ganges at the end
+|-
+|80k||||If an exploration session in Bharata is sped up for +4 hrs, gain 1 Sand of Ganges at the end
+|-
+|rowspan="3"|19||rowspan="3"|Miracle||20k||||Unlock [[Bharata Key Clues|Special Incident]] (Bizarre Bronze Coffin)
+|-
+|40k||||Unlock [[Bharata Key Clues|Special Incident]] (Ancient Carvings)
+|-
+|60k||||Unlock [[Bharata Key Clues|Special Incident]] (Shining Lotus)
+|}
+
+==All-in-One==
+[[File:Bharata INTEL Tab 2 Numbered.png|300px|left]]
+{|class="mw-collapsible wikitable"
+!No.!!INTEL Name!!Required INTEL!!Release Condition!!Effect
+|-
+|1||Journey to the West||1,350||||Per 9 [[Journey to the West|Trials]] passed, get 400 W-tads
+|-
+|rowspan="3"|2||rowspan="3"|Immortal Healthcare||1.8k||||Upgrade 1 Medicine Pavilion Grid to Green
+|-
+|3.6k||||Upgrade 1 Medicine Pavilion Grid to Blue
+|-
+|5.4k||||Upgrade 1 Medicine Pavilion Grid to Purple
+|-
+|rowspan="4"|3||rowspan="4"|Nine Heavenly Trials||1.8k||||Per 3 [[Journey to the West|Traveler Monks Stages]], Snail ATK +2<br>Stages Passed: 81/81
+|-
+|3.6k||||Per 3 [[Journey to the West|Traveler Monks Stages]], Snail ATK +4<br>Stages Passed: 81/81
+|-
+|5.4k||||Per 3 [[Journey to the West|Traveler Monks Stages]], Snail ATK +6<br>Stages Passed: 81/81
+|-
+|7.2k||||Per 3 [[Journey to the West|Traveler Monks Stages]], Snail ATK +10<br>Stages Passed: 81/81
+|-
+|rowspan="3"|4||rowspan="3"|Mending Stone Tales||1.8k||||Upgrade 1 Rock Pavilion Grid to Green
+|-
+|3.6k||||Upgrade 1 Rock Pavilion Grid to Blue
+|-
+|5.4k||||Upgrade 1 Rock Pavilion Grid to Purple
+|-
+|rowspan="3"|5||rowspan="3"|Pig Marshal||7.2k|||||[[Pigsy]] MAX LVL +10
+|-
+|14.4k||||[[Pigsy]] MAX LVL +20
+|-
+|21.6k||||[[Pigsy]] MAX LVL +30
+|-
+|rowspan="3"|6||rowspan="3"|Golden Bug||7.2k|||||[[Sanzang]] MAX LVL +10
+|-
+|14.4k||||[[Sanzang]] MAX LVL +20
+|-
+|21.6k||||[[Sanzang]] MAX LVL +30
+|-
+|rowspan="4"|7||rowspan="4"|Tome of Continents||7.2k||||Acquire [[Journey_to_the_West#Mantra|Tome - Innermost Heart]] (Sanzang's 3rd Mantra)
+|-
+|14.4k||||Acquire [[Journey_to_the_West#Mantra_2|Tome - Piercing Eyes]] (Monke's 3rd Mantra)
+|-
+|21.6k||||Acquire [[Journey_to_the_West#Mantra_3|Tome - Eclipse Spell]] (Pigsy's 3rd Mantra)
+|-
+|28.8k||||Acquire [[Journey_to_the_West#Mantra_4|Tome - Acala Seal]] (Sandy's 3rd Mantra)
+|-
+|rowspan="3"|8||rowspan="3"|Monkey King||7.2k|||||[[Monke]] MAX LVL +10
+|-
+|14.4k||||[[Monke]] MAX LVL +20
+|-
+|21.6k||||[[Monke]] MAX LVL +30
+|-
+|rowspan="3"|9||rowspan="3"|Curtainer General||7.2k|||||[[Sandy]] MAX LVL +10
+|-
+|14.4k||||[[Sandy]] MAX LVL +20
+|-
+|21.6k||||[[Sandy]] MAX LVL +30
+|-
+|rowspan="3"|10||rowspan="3"|Heavenly Transform||18k|||||[[Pigsy]] MAX Skill LVL +5
+|-
+|36k||||[[Pigsy]] MAX Skill LVL +10
+|-
+|54k||||[[Pigsy]] MAX Skill LVL +15
+|-
+|rowspan="3"|11||rowspan="3"|Buddhist Lotus||18k|||||[[Sanzang]] MAX Skill LVL +5
+|-
+|36k||||[[Sanzang]] MAX Skill LVL +10
+|-
+|54k||||[[Sanzang]] MAX Skill LVL +15
+|-
+|rowspan="4"|12||rowspan="4"|Buddha Sutra||18k||||[[Journey to the West|Traveler Monks]] Insight Effect +5%
+|-
+|36k||||[[Journey to the West|Traveler Monks]] Insight Effect +10%
+|-
+|54k||||[[Journey to the West|Traveler Monks]] Insight Effect +15%
+|-
+|72k||||[[Journey to the West|Traveler Monks]] Insight Effect +20%
+|-
+|rowspan="3"|13||rowspan="3"|Bodhi Magic||18k|||||[[Monke]] MAX Skill LVL +5
+|-
+|36k||||[[Monke]] MAX Skill LVL +10
+|-
+|54k||||[[Monke]] MAX Skill LVL +15
+|-
+|rowspan="3"|14||rowspan="3"|Endless Quicksand||18k|||||[[Sandy]] MAX Skill LVL +5
+|-
+|36k||||[[Sandy]] MAX Skill LVL +10
+|-
+|54k||||[[Sandy]] MAX Skill LVL +15
+|-
+|rowspan="4"|15||rowspan="4"|Piggy the Altar Cleaner||20k|||||[[Pigsy]] all stats +5%
+|-
+|40k||||[[Pigsy]] all stats +10%
+|-
+|60k||||[[Pigsy]] all stats +15%
+|-
+|80k||||[[Pigsy]] all stats +20%
+|-
+|rowspan="4"|16||rowspan="4"|Sanzang the Merti Buddha||20k|||||[[Sanzang]] all stats +5%
+|-
+|40k||||[[Sanzang]] all stats +10%
+|-
+|60k||||[[Sanzang]] all stats +15%
+|-
+|80k||||[[Sanzang]] all stats +20%
+|-
+|rowspan="4"|17||rowspan="4"|Perfect Virtue||20k||||Per 1k [[Sanzang]] Insight, Snail DEF +5
+|-
+|40k||||Per 1k [[Monke]] Insight, Snail ATK +5
+|-
+|60k||||Per 1k [[Pigsy]] Insight, Snail HP +50
+|-
+|80k||||Per 1k [[Sandy]] Insight, Snail RUSH +5
+|-
+|rowspan="4"|18||rowspan="4"|Monke the War Buddha||20k|||||[[Monke]] all stats +5%
+|-
+|40k||||[[Monke]] all stats +10%
+|-
+|60k||||[[Monke]] all stats +15%
+|-
+|80k||||[[Monke]] all stats +20%
+|-
+|rowspan="4"|19||rowspan="4"|Sandy the Golden Arhat||20k|||||[[Sandy]] all stats +5%
+|-
+|40k||||[[Sandy]] all stats +10%
+|-
+|60k||||[[Sandy]] all stats +15%
+|-
+|80k||||[[Sandy]] all stats +20%
+|-
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Bharata]]

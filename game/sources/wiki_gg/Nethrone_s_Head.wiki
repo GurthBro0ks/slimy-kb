@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Nethrone's Head
+|class_id=20255
+|rank=Green
+|affct=FAITH
+|source=
+|description=This skull, adorned with the pharaoh's crown, comes from Nethrone, one of the eight Great Demon Gods. With the power of death, he ruled the Kemetic Domain. But in a duel with a snail, he brought death upon himself, and his head was taken off as a souvenir.
+|fame=18
+|art=12
+|fth=31
+|civ=16
+|tech=13
+|ss1=Snail ATK +20<br>Per Demon God slain, Snail HP +100<br>Demon Gods Slain: 8/8
+|ss2=Snail ATK +40<br>Per Demon God slain, Snail HP +200<br>Demon Gods Slain: 8/8
+|ss3=Snail ATK +60<br>Per Demon God slain, Snail HP +300<br>Demon Gods Slain: 8/8
+|ss4=Snail ATK +60<br>Per Demon God slain, Snail HP +300<br>Demon Gods Slain: 8/8
+|ss7=Snail ATK +60<br>Per Demon God slain, Snail HP +300<br>Demon Gods Slain: 8/8<br> (Awakened)
+}}

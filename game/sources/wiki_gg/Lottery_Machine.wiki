@@ -1,0 +1,319 @@
+{{Missing Info|specifics=More info about how to unlock Lottery Machine 3}}
+
+{{Relic|image1=File:Lotto location.png}}
+
+==Lottery Machine==
+{{RewardIcon|Lottery Machine No. 1|50}}
+
+The Lottery Machine is located in the [[Home Base|Gene Room]] and is a key gacha mechanic in the game. Here you use your Lottery Tickets to spin the machine, and each colored bead (White, Green, Blue, Purple, Orange, Red) provides a reward. You can use 1 Lottery Ticket for one draw, 10 Lottery Tickets for 10 draws, or 3,000 W-Tads for 10 draws.
+
+===Lottery Tickets===
+Lottery Tickets come from a variety of places. Get tickets by defeating daily [[Hitmen]], [[Minigames|Arena shop]], sign-in to the [[Relics]] Calendar on Sunday, participate in [[Weekly Events]], purchase Event Bonus from the [[Vending Machine]], collect Chat packs, and from the [[Fissure| Fissure Shop]].
+
+{{FAQ|My Lottery Machine was stolen!|After about 100 or so draws, you'll find that your lottery machine has been stolen and replaced with a note from [[Ishikawa Antitheft]]. Don't worry! It'll be returned, with a few things left behind: [[Key of Container|<span style="color:#40da25;">Key of Container</span>]] and [[Ishikawa's Shuriken|<span style="color:#40da25;">Ishikawa's Shuriken</span>]]. The next 10-roll will reward 30 Lottery Tickets and unlock Jinx Points.|Lottery Machine}}
+
+===Lottery Value Packs===
+[[Value_Packs#Lottery_Value_Pack|Lottery Value Packs]] can be purchased after certain milestones are met.
+
+===Lottery Machine No. 2 ===
+{{RewardIcon|Lottery Machine No. 2|50}}
+
+Lottery Machine No. 2  is now released.
+
+To unlock it, you must first:
+* Clear [[Bharata]]!
+* Explore the [[Time Rift]] and dominate the second Apostle, [[Time_Rift_Apostles#No.0592's_Lottery_Machine|No.0592's Lottery Machine]]!
+* Activate the second Lottery Machine at Snail's Home!
+
+===Lottery Machine No. 3 ===
+{{RewardIcon|Lottery Machine No. 3|50}}
+
+'''TODO: Add more detail'''
+
+Unlocked after getting Protomon and 6 million Relic points.
+
+==Lottery Rewards==
+The rewards earned are completely RNG (random number generator) based, and the only way to improve the outcome is with some [[Relics]]:
+
+[[File:Color Bead No.6.png|frameless|50x50px|link=Color Bead No.6]][[File:Golden Ball Award.png|frameless|50x50px|link=Golden Ball Award]][[File:Spirit Bead.png|frameless|50x50px|link=Spirit Bead]][[File:Nocturnes.png|frameless|50x50px|link=Nocturnes]][[File:Truth Crystal.png|frameless|50x50px|link=Truth Crystal]][[File:Divine Comedy.png|frameless|50x50px|link=Divine Comedy]][[File:Lotus Chalice.png|frameless|50x50px|link=Lotus Chalice]][[File:Mahakala Scroll.png|frameless|50x50px|link=Mahakala Scroll]][[File:Swan Lake.png|frameless|50x50px|link=Swan Lake]]
+
+===Chances===
+Pity: If no Purple Beads are drawn after 5 draws, you receive +10 Pts. After 100 Pts, you're guaranteed a Purple Bead on your next draw.
+
+Pity: If no Orange Beads are drawn after 10 draws, you receive +10 Pts. After 100 Pts, you're guaranteed an Orange Bead on your next draw.
+{| class="wikitable"
+!Lottery Bead
+!Chances
+!Lottery Bead
+!Chances
+|-
+|[[File:White Bead.png|75px]]<br>White Bead
+|5%
+|[[File:Green Bead.png|75px]]<br>Green Bead
+|40%
+|-
+|[[File:Blue Bead.png|75px]]<br>Blue Bead
+|35%
+|[[File:Purple Bead.png|75px]]<br>Purple Bead
+|17%
+|-
+|[[File:Orange Bead.png|75px]]<br>Orange Bead
+|3%
+|}
+
+==Lucky Voucher ==
+{{RewardIconWithText|Lucky Voucher}}s are earned during each Lottery draw. They can be spent at the Lucky Voucher Shop. The Lucky Voucher Shop has a subset of [[Relics]] in it that refreshes every 24 hours or can be manually refreshed for the cost of 10 {{RewardIconWithText|Lucky Voucher}}s. 
+
+The quality of the relic dictates the cost:
+* {{Retext|SS Orange|orange}} - 4,500 {{RewardIcon|Lucky Voucher}}
+* {{Retext|S Orange|orange}} - 3,500 {{RewardIcon|Lucky Voucher}}
+* {{Retext|AA Purple|purple}} - 1,800 {{RewardIcon|Lucky Voucher}}
+* {{Retext|A Purple|purple}} - 1,500 {{RewardIcon|Lucky Voucher}}
+
+The relics that can appear in the Voucher Shop seem to be from the same drop table as Lottery Machine's {{Retext|SS|orange}}, {{Retext|S|orange}}, {{Retext|AA|purple}}, and {{Retext|A|purple}} relics.
+
+The Lucky Voucher Shop will always consist of {{Retext|3 Purple Relics|purple}}, {{Retext|5 Orange Relics|orange}}, and the {{RewardIconWithText|Collector's Legacy|purple}}. 
+
+===Collector's Legacy===
+The {{RewardIconWithText|Collector's Legacy|purple}} costs 2,500 {{RewardIconWithText|Lucky Voucher}} and will reward rare resources or Relics. 
+
+More likely to get {{RewardIconWithText|Orange Reagent, +15|orange}} or {{RewardIconWithLink|Golden Pickaxe, +5|orange}}; Less likely to get AAA Relics.
+
+==Weekly Lottery Event==
+[[File:Lottery Week Poster.png|200px|right|alt=Lottery Week]]
+Every week is one of three [[Weekly Events]], one of which is Lottery Week. During this week, the more you draw, the more you get! While the general structure of each Lottery Event is the same, the rewards vary from week to week. Specifically, different Orange [[Relics]] award higher points when obtained, and different [[Relics]] can be purchased in Lucky Voucher and Balloon Battle.
+
+'''This information is accurate for the week of:''' Nov 3-Nov 9
+
+===Suggested Strategies===
+
+*Save, save, save! Just like with the other weekly events, make sure you're hoarding all your Lottery Tickets and Lucky Vouchers. Also consider stashing away a certain amount of W-Tads and Scrolls.
+*The event also gives extra points Novice Scrolls, Expert Scrolls, Master Scrolls, Grandmaster Scrolls, and using W-Tads.
+*Keep buying those tickets! Check out the Event Bonus in the Vending Machine and purchase Lottery Tickets from the Vending Machine, Fissure, and Arena.
+
+===Giga Ball===
+1 Lottery Draw = 1 Point. There are 5 rounds total. Each round requires 500 Lottery Tickets and gives 1,100 Carnival Balloons plus other rewards. Completing all five rounds will require 2,500 Lottery Tickets and awards 5,500 Carnival Balloons.
+
+{{clear}}
+
+{| class="wikitable"
+!Tier
+!Cost
+!Reward
+
+|-
+| rowspan="3" |I
+| rowspan="3" |30 Lottery Points
+|{{RewardIconWithText|Carnival Balloon, +120 (120 total for the round)}}
+|-
+|{{RewardIconWithLink|Lottery Ticket, +10|orange}}
+|-
+|{{RewardIconWithLink|Wish Coin, +3|orange}}
+
+|-
+| rowspan="3" |II
+| rowspan="3" |60 Lottery Points
+|{{RewardIconWithText|Carnival Balloon, +120 (240 total for the round)}}
+|-
+|{{RewardIconWithLink|Lottery Ticket, +10|orange}}
+|-
+|{{RewardIconWithLink|Wish Coin, +3|orange}}
+
+|-
+| rowspan="3" |III
+| rowspan="3" |100 Lottery Points
+|{{RewardIconWithText|Carnival Balloon, +120 (360 total for the round)}}
+|-
+|{{RewardIconWithLink|Lottery Ticket, +10|orange}}
+|-
+|{{RewardIconWithLink|Wish Coin, +3|orange}}
+
+|-
+| rowspan="3" |IV
+| rowspan="3" |150 Lottery Points
+|{{RewardIconWithText|Carnival Balloon, +120 (480 total for the round)}}
+|-
+|{{RewardIconWithLink|Lottery Ticket, +10|orange}}
+|-
+|{{RewardIconWithLink|Wish Coin, +4|orange}}
+
+|-
+| rowspan="3" |V
+| rowspan="3" |200 Lottery Points
+|{{RewardIconWithText|Carnival Balloon, +120 (600 total for the round)}}
+|-
+|{{RewardIconWithLink|Lottery Ticket, +10|orange}}
+|-
+|{{RewardIconWithLink|Wish Coin, +4|orange}}
+
+|-
+| rowspan="3" |VI
+| rowspan="3" |300 Lottery Points
+|{{RewardIconWithText|Carnival Balloon, +150 (750 total for the round)}}
+|-
+|{{RewardIconWithLink|Lottery Choice Pack|orange}}
+|-
+|{{RewardIconWithLink|Wish Coin, +5|orange}}
+
+|-
+| rowspan="2" |VII
+| rowspan="2" |400 Lottery Points
+|{{RewardIconWithText|Carnival Balloon, +150 (900 total for the round)}}
+|-
+| 40 fragments of the weekly Orange Relic
+
+|-
+| rowspan="2" |VIII
+| rowspan="2" |500 Lottery Points
+|{{RewardIconWithText|Carnival Balloon, +200 (1.1k total for the round)}}
+|-
+|{{RewardIconWithLink|Relic RF, +20|orange}}
+|}
+
+===Balloon Battle===
+Balloon Battle rewards Carnival Balloon for doing certain things. Spend these for rewards!<br>Every Carnival Balloon Converts into 100 B-Tads.
+
+====Carnival Balloon Source====
+{| class="wikitable"
+!Source
+!Reward per completion
+!Maximum completions
+!Maximum Carnival Balloon
+|-
+|Daily Bonus in Vending Machine||{{RewardIconWithText|Carnival Balloon, +100}}||7 purchases||700
+|-
+|Giga Ball||{{RewardIconWithText|Carnival Balloon, +1.1k per round}}||5 rounds||5,500
+|-
+|Buy an Event Pack||Varies||colspan=2|6 total packs with varying amounts
+|-
+|{{RewardIcon|Novice Scroll}} Open 1 Novice Scroll||{{RewardIconWithText|Carnival Balloon, +30}}||15 Scrolls||450
+|-
+|{{RewardIcon|Expert Scroll}} Open 1 Expert Scroll||{{RewardIconWithText|Carnival Balloon, +75}}||10 Scrolls||750
+|-
+|{{RewardIcon|Master Scroll}}{{RewardIcon|Grandmaster Scroll}} Open 1 Master or Grandmaster Scroll||{{RewardIconWithText|Carnival Balloon, +200}}||5 Scrolls||1,000
+|-
+|{{RewardIcon|W-Tad}} Consume 1.5k W-Tads||{{RewardIconWithText|Carnival Balloon, +150}}||6k {{RewardIconWithText|W-Tad}}s||600
+|}
+
+====Balloon Battle Rewards====
+{| class="wikitable"
+!Tier
+!Cost
+!Reward
+!Extra Lottery Tickets Rewarded
+
+|-
+|rowspan="3" | I
+|rowspan="3" |500 {{RewardIconWithText|Carnival Balloon}}
+|{{RewardIconWithText|Novice Alchemy Case, +5}}
+|rowspan="3" |{{RewardIconWithLink|Lottery Ticket, +2|orange}}
+|-
+|{{RewardIconWithLink|Novice Scroll, +20|blue}}
+|-
+|{{RewardIconWithText|B-Tad, +50k}}
+
+|-
+|rowspan="3" |II
+|rowspan="3" |1,000 {{RewardIconWithText|Carnival Balloon}}
+|{{RewardIconWithText|W-Tad, +1k}}
+|rowspan="3" |{{RewardIconWithLink|Lottery Ticket, +4|orange}}
+|-
+|{{RewardIconWithLink|Expert Scroll, +30|purple}}
+|-
+|This week: {{RewardIconWithLink|Unidentified Kidney|purple}}
+
+|-
+|rowspan="3" |III 
+|rowspan="3" |1,500 {{RewardIconWithText|Carnival Balloon}}
+|{{RewardIconWithLink|Golden Pickaxe, +6|orange}}
+|rowspan="3" |{{RewardIconWithLink|Lottery Ticket, +6|orange}}
+|-
+|{{RewardIconWithLink|Organ Chest, +300}}
+|-
+|This week: {{RewardIconWithLink|The Kiss|orange}}
+
+|-
+|rowspan="3" |IV
+|rowspan="3" |3,000 {{RewardIconWithText|Carnival Balloon}}
+|{{RewardIconWithGearlink|orange|Material|Heaven Wings}}
+|rowspan="3" |{{RewardIconWithLink|Lottery Ticket, +12|orange}}
+|-
+|{{RewardIconWithLink|Wish Coin, +6|orange}}
+|-
+|This week: {{RewardIconWithLink|Rutherford Model|orange}}
+
+|-
+|rowspan="5" |V
+|rowspan="5" |5,000 {{RewardIconWithText|Carnival Balloon}}
+|{{RewardIconWithText|Orange Reagent, +120|orange}}
+|rowspan="5" |{{RewardIconWithLink|Lottery Ticket, +20|orange}}
+|-
+|{{RewardIconWithLink|Evolution Chest, +800}}
+|-
+|{{RewardIconWithText|Toner, +200}}
+|-
+|Set A this week: {{RewardIconWithLink|Wilford's Engine|orange}}
+|-
+|Set B this week: {{RewardIconWithLink|Houmuwu Ding|orange}}
+|}
+
+====How Many Carnival Balloons Do I Need?====
+=====3,000 Carnival Balloon Reward=====
+To get the '''3,000 Carnival Balloon Reward''' you will need a total of '''6,000 Carnival Balloons''' to buy the previous rewards. The least amount of Lottery Tickets you will need to do this is '''1,060 Lottery Tickets'''.
+* '''Complete all of the supplemental rewards:''' 2,800 Carnival Balloons
+* '''Purchase all 7 Offering Bonuses:''' 700 Carnival Balloons
+* '''Purchase 100 W-Tad Event Pack:''' 100 Carnival Balloons
+* '''Complete Two Rounds (500 Lottery Tickets each):''' 2,200 Carnival Balloons
+* '''60 additional Lottery Points:''' 240 Carnival Balloons
+* '''Total:''' 6,040 Carnival Balloons
+
+=====Two 3,000 Carnival Balloon Rewards=====
+To get two '''3,000 Carnival Balloon Rewards''' you will need a total of '''9,000 Carnival Balloons.''' This can be achieved by completing all five rounds in the Giga Ball and acquiring all other sources of Carnival Balloon. Completing five rounds of Giga Ball requires '''2,500 Lottery Tickets.'''
+* '''Complete all of the supplemental rewards:''' 2,800 Carnival Balloons
+* '''Purchase all Seven Offering Bonuses:''' 700 Carnival Balloons
+* '''Complete all Five Rounds (500 Lottery Tickets each):''' 5,500 Carnival Balloons
+* '''Total:''' 9,000 Carnival Balloons [Optionally you can also purchase the 100 W-Tad Event Pack for an additional 100 Carnival Balloons.]
+
+=====5,000 Carnival Balloon Reward=====
+Currently it is not possible to get the '''5,000 Carnival Balloon Reward''' without spending real money. The most you can earn without spending money is '''9,000 Carnival Balloons''' which will allow you to buy two '''3,000 Carnival Balloon Rewards'''
+
+===Relic Rapture===
+
+During Lottery Week, obtaining the following relics via Lottery Machine is significantly increased. These relics change each event <br>
+
+Updated as of: 11/7/2025
+
+{| class="wikitable" 
+|-
+! Lottery No.1
+! Lottery No.2
+! Lottery No.3
+|-
+| {{RewardIconWithLink|Morse's Telegraph|orange}}
+| {{RewardIconWithLink|Bhagavata Purana|orange}}
+| {{RewardIconWithLink|Abel Prize|orange}}
+|-
+| {{RewardIconWithLink|Phoenix Feather|orange}}
+| {{RewardIconWithLink|Statue of Isis|orange}}
+| {{RewardIconWithLink|Burghers of Calais|orange}}
+|-
+| {{RewardIconWithLink|Ship in a Bottle|orange}}
+| {{RewardIconWithLink|Panther Brooch|orange}}
+| {{RewardIconWithLink|Murder of Roger|orange}}
+|}
+
+Drawing the relics also give extra rewards:
+* {{RewardIcon|W-Tad}} W-Tad +100
+* {{RewardIconWithText|Orange Reagent, +5|orange}}
+* {{RewardIconWithLink|Wish Coin, +1|orange}}
+
+===Limited Bargain===
+During Lottery Week, the Limited Bargain adds a select three orange relics to the Lucky Voucher shop which include a SSS relic for 5,500 vouchers, a SS relic for 4,500 vouchers, and a AAA relic for 1,500 vouchers.
+
+The current event relics are: 
+* {{RewardIconWithLink|Flying Horse of Gansu|orange}}
+* {{RewardIconWithLink|Kojiki|orange}}
+* {{RewardIconWithLink|Mead of Poem|purple}}
+
+[[Category:Events]]
+[[Category:Lottery Machine]]

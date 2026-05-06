@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Friday Star
+|class_id=20929
+|rank=Green
+|affct=FAME
+|source=
+|description=Fortune Law 6: When you have a considerable number of draw tickets or wish coins, you can overlook extremely low probabilities!
+|fame=32
+|art=14
+|fth=13
+|civ=15
+|tech=16
+|ss1=Snail Leadership +2<br>Per 10 Lucky Star, Snail ATK +1<br>Lucky Star Gained: 1400/1400
+|ss2=Snail Leadership +4<br>Per 10 Lucky Star, Snail ATK +2<br>Lucky Star Gained: 1400/1400
+|ss3=Snail Leadership +6<br>Per 10 Lucky Star, Snail ATK +3<br>Lucky Star Gained: 1400/1400
+|ss4=Snail Leadership +6<br>Per 10 Lucky Star, Snail ATK +3<br>Lucky Star Gained: 1400/1400
+|ss7=Snail Leadership +6<br>Per 10 Lucky Star, Snail ATK +3<br>Lucky Star Gained: 1400/1400<br> (Awakened)
+}}

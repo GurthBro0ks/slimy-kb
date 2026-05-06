@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Arthur's Roundtable
+|class_id=21514
+|rank=SSS
+|affct=CIV
+|birthday=01-27
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Jan 27, 500 AD, Arthur obtained the strongest shield of his life.<br>Arthur always had meetings with the knights around a long table. Whenever somebody spoke, the one on the far side of the table would feel insulted. Finally, one day, Arthur's wife, Queen Guinevere came up with the idea of using an old round table for meetings. This way, the sense of hierarchy disappeared, and the problem was resolved. Hence, later generations address them as the Knights of the Round Table. The round table became one of Arthur's most important icons.
+[Knights of the Round Table Oath]
+Never do outrage nor murder, and always flee treason; also, by no means to be cruel, but to give mercy unto him that asketh mercy, upon pain of forfeiture of their worship and lordship of King Arthur forevermore; and always to do ladies, damsels, and gentlewomen succor, upon pain of death. Also, that no man do battle in a wrongful quarrel for no law, nor for the world's goods.
+|fame=73
+|art=56
+|fth=51
+|civ=107
+|tech=75
+|ss1=Snail DEF +30<br>Per 10 Home Facility LVLs, Snail HP +30<br>Per 10 Home Facility LVLs, Snail DEF +3<br>Home Facility LVL: 400/400
+|ss2=Snail DEF +40<br>Per 10 Home Facility LVLs, Snail HP +40<br>Per 10 Home Facility LVLs, Snail DEF +4<br>Home Facility LVL: 400/400
+|ss3=Snail DEF +50<br>Per 10 Home Facility LVLs, Snail HP +50<br>Per 10 Home Facility LVLs, Snail DEF +5<br>Home Facility LVL: 400/400
+|ss4=Snail DEF +70<br>Per 10 Home Facility LVLs, Snail HP +70<br>Per 10 Home Facility LVLs, Snail DEF +7<br>Home Facility LVL: 400/400
+|ss5=Snail DEF +90<br>Per 10 Home Facility LVLs, Snail HP +90<br>Per 10 Home Facility LVLs, Snail DEF +9<br>Home Facility LVL: 400/400
+|ss6=Snail DEF +120<br>Per 10 Home Facility LVLs, Snail HP +120<br>Per 10 Home Facility LVLs, Snail DEF +12<br>Home Facility LVL: 400/400
+|ss7=Snail DEF +120<br>Per 10 Home Facility LVLs, Snail HP +120<br>Per 10 Home Facility LVLs, Snail DEF +12<br>Home Facility LVL: 400/400<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail HP +6000
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's CIV +15
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x White Card Drops +15%
+|mirage={{Mirage|name=Arthur's Tables|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Arthur's Dining Table|3rec=82.03M|3atk=238794|3defense=159309|3hp=14395080|3weak=31263
+|4name=Arthur's Folding Table|4rec=109.23M|4atk=296160|4defense=197580|4hp=20911755|4weak=36040
+|5name=Arthur's Computer Desk|5rec=141.09M|5atk=363347|5defense=242403|5hp=29577698|5weak=41259
+|6name=Arthur's Mahjong Table|6rec=177.96M|6atk=441104|6defense=294278|6hp=40867565|6weak=48293
+|Arec=220.14M|Aatk=530043|Adefense=353613|Ahp=55330576|Aweak=53063
+}}}}

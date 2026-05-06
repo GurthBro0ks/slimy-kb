@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Eden Scepter
+|class_id=22847
+|rank=SSS
+|affct=FAITH
+|source=
+|description=It is considered a relic of the ancient civilization of Eden, symbolizing absolute authority. The scepter holds immense power capable of manipulating the will and actions of mortals, with a specially designed tip to house the Apple of Eden. When combined, its power is greatly amplified, enough to sway the thoughts of mankind and even the course of history. The scepter has passed through the hands of many historical figures, from the Pharaohs of Egypt to the Popes of Rome, and to the Czars of Russia, all bearing witness to its extraordinary influence.
+|fame=57
+|art=70
+|fth=108
+|civ=50
+|tech=77
+|ss1=Angel Minion HP +3%<br>Protomon Snail assist DMG + 240<br>Per FTH Bionic Part extracted, Snail RUSH +15<br>FTH Bionic Part Extracted: 10/10
+|ss2=Angel Minion HP +4%<br>Protomon Snail assist DMG + 320<br>Per FTH Bionic Part extracted, Snail RUSH +20<br>FTH Bionic Part Extracted: 10/10
+|ss3=Angel Minion HP +5%<br>Protomon Snail assist DMG + 400<br>Per FTH Bionic Part extracted, Snail RUSH +25<br>FTH Bionic Part Extracted: 10/10
+|ss4=Angel Minion HP +7%<br>Protomon Snail assist DMG + 560<br>Per FTH Bionic Part extracted, Snail RUSH +35<br>FTH Bionic Part Extracted: 10/10
+|ss5=Angel Minion HP +9%<br>Protomon Snail assist DMG + 720<br>Per FTH Bionic Part extracted, Snail RUSH +45<br>FTH Bionic Part Extracted: 10/10
+|ss6=Angel Minion HP +12%<br>Protomon Snail assist DMG + 960<br>Per FTH Bionic Part extracted, Snail RUSH +60<br>FTH Bionic Part Extracted: 10/10
+|ss7=Angel Minion HP +12%<br>Protomon Snail assist DMG + 960<br>Per FTH Bionic Part extracted, Snail RUSH +60<br>FTH Bionic Part Extracted: 10/10<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Water DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +3%
+}}

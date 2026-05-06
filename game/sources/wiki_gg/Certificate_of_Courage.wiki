@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Certificate of Courage
+|class_id=20465
+|rank=Green
+|affct=FAME
+|source=
+|description=It is the certificate officially issued by the Traveler Association. It often comes with a big reward and a promotion permit. It is to honor the members who fought heroically in battle, which can boost the morale of the soldiers on the front line effectively.
+|fame=30
+|art=15
+|fth=17
+|civ=15
+|tech=13
+|ss1=Snail Leadership +1<br>In Species War, All Minion HARD Stats +0.6%
+|ss2=Snail Leadership +2<br>In Species War, All Minion HARD Stats +1.2%
+|ss3=Snail Leadership +3<br>In Species War, All Minion HARD Stats +1.8%
+|ss4=Snail Leadership +3<br>In Species War, All Minion HARD Stats +1.8%
+|ss7=Snail Leadership +3<br>In Species War, All Minion HARD Stats +1.8%<br> (Awakened)
+}}

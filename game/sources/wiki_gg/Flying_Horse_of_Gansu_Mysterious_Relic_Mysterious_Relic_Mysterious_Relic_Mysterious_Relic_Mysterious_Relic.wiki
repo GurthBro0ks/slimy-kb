@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Flying Horse of Gansu,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic
+|rank=orange
+|amount=6
+|category=minion
+|description=All Minion ATK +2.4%
+}}
+[[Category:Minion]]
+[[Category:Minion ATK Boost]]

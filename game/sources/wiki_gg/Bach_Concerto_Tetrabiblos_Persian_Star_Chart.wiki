@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Bach Concerto,Tetrabiblos,Persian Star Chart
+|rank=blue
+|amount=3
+|category=home
+|description=The Pond has a +12% chance to produce W-tads
+}}
+[[Category:Home]]

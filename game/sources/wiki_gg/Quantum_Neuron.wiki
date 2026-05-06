@@ -1,0 +1,17 @@
+{{CargoOrgan
+|name=Quantum Neuron
+|type=Common
+|rank=green
+|id=10804
+|idx=4
+|description="After changing the conduction method from electricity to quantum, the nerve signal speed and nerve capacity increased by ten times. What a biological miracle!"
+—Introduction to Quantum Neurology
+|skill=
+|hp=410
+|def=41
+|atk=76
+|rush=49
+|gene1=In explorations, 2x Time Chest Drops +2%
+|gene2=In explorations, 2x Time Chest Drops +2%
+|gene7=In explorations, 2x Time Chest Drops +2% (Awakened)
+|}}

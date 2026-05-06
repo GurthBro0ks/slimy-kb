@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Air Cannon
+|class_id=20034
+|rank=Green
+|affct=TECH
+|source=
+|description=It uses the most advanced compressor in the 22nd century and can instantly compress air ten times smaller. Many balloon vendors have pre-ordered this product.
+|fame=11
+|art=17
+|fth=16
+|civ=20
+|tech=26
+|ss1=Snail ATK +10
+|ss2=Snail ATK +20
+|ss3=Snail ATK +30
+|ss4=Snail ATK +30
+|ss7=Snail ATK +30<br> (Awakened)
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=440
+|relics=Miss Universe Crown,Taketori Tale,Mother and Daughter,Cintamani
+|rank=purple
+|amount=4
+|category=self
+|description=Per 30 Divine Chaos Chests opened: Snail DEF +8;Divine Chaos Chests Opened: 1500/1500
+}}

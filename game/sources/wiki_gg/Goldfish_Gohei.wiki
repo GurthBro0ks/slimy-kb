@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Goldfish Gohei
+|class_id=20742
+|rank=Green
+|affct=FAITH
+|source=
+|description=A sacred relic of the Goldfish Clan, this ancient scepter has been imbued with generations of ritualistic mana through countless ceremonies. Simply wielding it disperses evil spirits, making it a powerful tool against darkness.
+|fame=18
+|art=15
+|fth=28
+|civ=13
+|tech=16
+|ss1=prop@55053_2<br>prop@55058_2
+|ss2=prop@55053_2<br>prop@55058_2
+|ss3=prop@55053_2<br>prop@55058_2
+|ss4=prop@55053_2<br>prop@55058_2
+|ss7=prop@55053_2<br>prop@55058_2<br> (Awakened)
+}}

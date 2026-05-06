@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=The Knotted Pistol,Ghanta,George VI's Speech,Cupid and Psyche,The Final Communique,Earth Magnetic Field
+|rank=blue
+|amount=6
+|category=minion
+|description=Per 10 Dragon Minions in battle: Troop HARD Stats +9
+}}
+[[Category:Minion]]
+[[Category:Dragon Minion HARD Boost]]

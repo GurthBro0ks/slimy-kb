@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Snow at Louveciennes
+|class_id=22429
+|rank=Blue
+|affct=ART
+|birthday=10-15
+|source=Lottery Machine No.3 (0.06%)
+|description=On Oct 15, 1874 AD, Sisley completed "Snow at Rueil" in rural life.<br>Due to the family's changes, Sisley had to leave Paris and come to Rueil, in the suburbs. The simple and beautiful natural environment there became his main subject matter, and this painting was one of his works at the time. Through his meticulous observation of things and the skilled use of color, the painting shows a high degree of harmony and lyricism, expressing the warmth in the stillness and coldness and making this painting a unique work of art.
+|fame=19
+|art=48
+|fth=29
+|civ=32
+|tech=26
+|ss1=Demon God Cabin Output +1%
+|ss2=Demon God Cabin Output +2%
+|ss3=Demon God Cabin Output +3%
+|ss4=Demon God Cabin Output +5%
+|ss7=Demon God Cabin Output +5%<br>Demon God Cabin Output +5% (Awakened)
+|skill1=[[File:Surfclam skill I.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop All ELMT DMG +5
+}}

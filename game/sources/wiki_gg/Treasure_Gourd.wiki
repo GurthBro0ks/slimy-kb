@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Treasure Gourd
+|class_id=20228
+|rank=Green
+|affct=FAITH
+|source=
+|description=This gourd is a treasure carried by the God of Fortune. At the beginning of the cosmos, there was an immortal vine. After years of evolution, the vine bore seven gourds, each having the power to shape the world. This gourd is one of them, but no one knows the magic spells to activate it!
+|fame=14
+|art=16
+|fth=31
+|civ=18
+|tech=13
+|ss1=Per Incense used, Snail DEF +1<br>Incense Used: 20/20
+|ss2=Per Incense used, Snail DEF +2<br>Incense Used: 20/20
+|ss3=Per Incense used, Snail DEF +3<br>Incense Used: 20/20
+|ss4=Per Incense used, Snail DEF +3<br>Incense Used: 20/20
+|ss7=Per Incense used, Snail DEF +3<br>Incense Used: 20/20<br> (Awakened)
+}}

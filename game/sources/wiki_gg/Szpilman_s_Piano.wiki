@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Szpilman's Piano
+|class_id=22474
+|rank=Blue
+|affct=CIV
+|birthday=10-29
+|source=Lottery Machine No.3 (0.03%)
+|description=On Oct 29, 1941 AD, Szpilman played the piano amidst the ruins.<br>When Germany invaded Poland, pianist Szpilman failed to leave. Though he wasn't caught and sent to a concentration camp, he became homeless and had to hide with the help of friends. In the end, he survived the war with the help of a German officer who risked sheltering him, thanks to his piano playing. Afterward, he returned to the radio station where he had once worked, playing Chopin's piano pieces for people returning to life.
+|fame=34
+|art=28
+|fth=22
+|civ=48
+|tech=22
+|ss1=Per devotee appointed, Snail ATK +1<br>Devotee Appointed: 50/50
+|ss2=Per devotee appointed, Snail ATK +2<br>Devotee Appointed: 50/50
+|ss3=Per devotee appointed, Snail ATK +3<br>Devotee Appointed: 50/50
+|ss4=Per devotee appointed, Snail ATK +5<br>Devotee Appointed: 50/50
+|ss7=Per devotee appointed, Snail ATK +5<br>Devotee Appointed: 50/50<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +10
+}}

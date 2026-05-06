@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Noble Family Crest
+|class_id=20021
+|rank=Green
+|affct=ART
+|source=
+|description=This is the crest of a noble family that once belonged to the House of Habsburg. Its ancestor made great achievements on the battlefield and was awarded the title of Count by the emperor. The pattern on the crest is the embodiment of their warrior spirit.
+|fame=12
+|art=26
+|fth=20
+|civ=13
+|tech=19
+|ss1=Per 1k Tadpole Points, Snail RUSH +1<br>Tadpole Points: 20000/20000
+|ss2=Per 1k Tadpole Points, Snail RUSH +2<br>Tadpole Points: 20000/20000
+|ss3=Per 1k Tadpole Points, Snail RUSH +3<br>Tadpole Points: 20000/20000
+|ss4=Per 1k Tadpole Points, Snail RUSH +3<br>Tadpole Points: 20000/20000
+|ss7=Per 1k Tadpole Points, Snail RUSH +3<br>Tadpole Points: 20000/20000<br> (Awakened)
+}}

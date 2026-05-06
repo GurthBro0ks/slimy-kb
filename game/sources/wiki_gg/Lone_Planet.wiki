@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Lone Planet
+|class_id=20008
+|rank=Green
+|affct=CIV
+|source=
+|description=
+|fame=19
+|art=10
+|fth=17
+|civ=27
+|tech=17
+|ss1=Snail HP +100
+|ss2=Snail HP +200
+|ss3=Snail HP +300
+|ss4=Snail HP +300
+|ss7=Snail HP +300<br> (Awakened)
+}}

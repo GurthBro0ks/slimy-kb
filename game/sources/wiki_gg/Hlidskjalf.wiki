@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Hlidskjalf
+|class_id=22279
+|rank=SS
+|affct=FAITH
+|birthday=06-01
+|source=
+|description=On Jun 1, 56000 BC, Odin ascended the Throne of Valhalla.<br>Hlidskjalf is the high seat of Odin on which only he and his wife are allowed to sit. As a symbol of the king of the Aesir, it is placed in Valaskjalf. Anyone who sits on it can easily get insight into everything in the Nine Worlds. It is said that after Loki precipitated Baldr's death and escaped, Odin found him by sitting on the Throne of Valhalla and finally brought him to justice.
+|fame=56
+|art=66
+|fth=105
+|civ=53
+|tech=67
+|ss1=Snail ATK +20<br>Angel Minion HP +2%<br>Per 10 times Maneater fed, Snail ATK +3<br>Maneater Fed: 400/400
+|ss2=Snail ATK +30<br>Angel Minion HP +3%<br>Per 10 times Maneater fed, Snail ATK +4<br>Maneater Fed: 400/400
+|ss3=Snail ATK +40<br>Angel Minion HP +4%<br>Per 10 times Maneater fed, Snail ATK +5<br>Maneater Fed: 400/400
+|ss4=Snail ATK +60<br>Angel Minion HP +6%<br>Per 10 times Maneater fed, Snail ATK +7<br>Maneater Fed: 400/400
+|ss5=Snail ATK +80<br>Angel Minion HP +8%<br>Per 10 times Maneater fed, Snail ATK +9<br>Maneater Fed: 400/400
+|ss6=Snail ATK +110<br>Angel Minion HP +11%<br>Per 10 times Maneater fed, Snail ATK +12<br>Maneater Fed: 400/400
+|ss7=Snail ATK +110<br>Angel Minion HP +11%<br>Per 10 times Maneater fed, Snail ATK +12<br>Maneater Fed: 400/400<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Snail ATK +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Food Drops +6%
+|mirage={{Mirage|name=Allfather's Radiance|reward={{RewardIconWithLink|Arcanium, +3|orange}}
+|3name=Baldr|3rec=489.29M|3atk=1072291|3defense=602756|3hp=391611381|3weak=74481
+|4name=dungeon_event@2419_1|4rec=611.85M|4atk=1339833|4defense=713013|4hp=586307086|4weak=80989
+|5name=Odin|5rec=831.15M|5atk=1973267|5defense=940913|5hp=984667605|5weak=91343
+|Arec=1204.34M|Aatk=3054889|Adefense=1312762|Ahp=1864380348|Aweak=103498
+}}}}

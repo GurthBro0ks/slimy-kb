@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=389
+|relics=Portrait of Innocent X,Annunciation
+|rank=purple
+|amount=2
+|category=self
+|description=Angel Minion ATK +6%
+}}

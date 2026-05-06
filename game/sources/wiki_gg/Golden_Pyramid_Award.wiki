@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Pyramid Award
+|class_id=20554
+|rank=Green
+|affct=CIV
+|source=
+|description=The Cairo International Film Festival is currently the most influential international film festival in Africa. Its highest reward, Golden Pyramid Award, is given to the Best Picture to honor their contribution to the global film industry. The Cairo International Film Festival only allows non-political, artistic films to compete, aiming to foster understanding and communication between nations.
+|fame=14
+|art=13
+|fth=17
+|civ=32
+|tech=14
+|ss1=Obtain Bubble Frame (Event Ambassador)<br>W-tads from Daily Packs +10<br>W-tads from Daily Silver Packs +10<br>W-tads from Daily Gold Pack +10
+|ss2=Obtain Bubble Frame (Event Ambassador)<br>W-tads from Daily Packs +20<br>W-tads from Daily Silver Packs +20<br>W-tads from Daily Gold Pack +20
+|ss3=Obtain Bubble Frame (Event Ambassador)<br>W-tads from Daily Packs +30<br>W-tads from Daily Silver Packs +30<br>W-tads from Daily Gold Pack +30
+|ss4=Obtain Bubble Frame (Event Ambassador)<br>W-tads from Daily Packs +30<br>W-tads from Daily Silver Packs +30<br>W-tads from Daily Gold Pack +30
+|ss7=Obtain Bubble Frame (Event Ambassador)<br>W-tads from Daily Packs +30<br>W-tads from Daily Silver Packs +30<br>W-tads from Daily Gold Pack +30<br> (Awakened)
+}}

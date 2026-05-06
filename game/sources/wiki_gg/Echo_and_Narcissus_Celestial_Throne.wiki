@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=506
+|relics=Echo and Narcissus,Celestial Throne
+|rank=orange
+|amount=2
+|category=self
+|description=Per 5 Divine Chaos Chests opened: Snail HP +70;Divine Chaos Chests Opened: 100/100
+}}

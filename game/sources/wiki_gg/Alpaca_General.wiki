@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Alpaca General
+|rank=purple
+|cabin=2
+|id=96
+|gene1={race} ATK +30
+|gene2={race} ART +30
+|gene3=Per 30 Angel Minions in battle:
+> Troop ATK +8
+|gene4=Micro Incubator: Convert Blue product to Purple by + 0.2%
+|gene5=Per 30 Angel Minions in battle:
+> Troop ATK +12
+|gene6=Micro Incubator: Convert Blue product to Purple by + 0.3%
+|}}

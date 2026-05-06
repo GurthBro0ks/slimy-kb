@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=388
+|relics=Carmen Lucia Ruby,Isabella
+|rank=purple
+|amount=2
+|category=self
+|description=Angel Minion RUSH +6%
+}}

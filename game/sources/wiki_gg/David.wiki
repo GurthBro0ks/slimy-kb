@@ -1,0 +1,43 @@
+{{CargoRelic
+|name=David
+|rank=SS
+|affct=ART
+|birthday=08-11
+|source=Demon Chest (5%), Fragment Crafting (4%), Grandmaster Scrolls (1.5%), Lottery Machine (0.18%), Wishing (0.15%)
+|description=On Aug 11, 1504, Italian sculptor Michelangelo created this famous stone sculpture.
+
+This sculpture depicts a nude young man, full of muscles and vitality in an asymmetrical stance. It embodies Renaissance humanism and symbolizes that societies have freed themselves from the shackles of the Dark Ages and have come to realize their ability to transform the world.
+
+[Basic Info]
+
+Type: Relief Art<br>Collected by: Florence Academy of Fine Arts, Italy<br>Height: 3.96m<br>Base: 5.5m<br>Material: Marble
+|fame=52
+|art=103
+|fth=59
+|civ=65
+|tech=68
+|ss1=Snail ATK +20<br>Quarry Output +4%<br>Quarry Max Cap +4%
+|ss2=Snail ATK +30<br>Quarry Output +6%<br>Quarry Max Cap +6%
+|ss3=Snail ATK +40<br>Quarry Output +8%<br>Quarry Max Cap +8%
+|ss4=Snail ATK +60<br>Quarry Output +12%<br>Quarry Max Cap +12%
+|ss5=Snail ATK +80<br>Quarry Output +16%<br>Quarry Max Cap +16%
+|ss6=Snail ATK +110<br>Quarry Output +22%<br>Quarry Max Cap +20%
+|ss7=Snail ATK +110<br>Quarry Output +22%<br>Quarry Max Cap +22%<br>Quarry Output +20% (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Purple Card Drops +15%
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Purple Reagent Drops +15%
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail RUSH +600
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:ATK Boost]]
+[[Category:Quarry Output Boost]]
+[[Category:Murika Museum Boost]]
+[[Category:Quarry Output Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:RUSH Boost]]
+[[Category:Angel Gene Speedup Boost]]
+[[Category:INTEL Boost]]
+[[Category:Rewards Crystal of Will]]
+[[Category:Rewards Divine Chests]]

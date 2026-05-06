@@ -1,0 +1,38 @@
+{{Missing Info|specifics=<br>Source}}
+
+{{CargoRelic
+|name=Atenism
+|class_id=22855
+|rank=SSS
+|affct=FTH
+|source=
+|description=Atenism was a religious reform promoted by the ancient Egyptian pharaoh Akhenaten. At the center of this reform was the worship of the sun god Aten, resembling a monotheistic belief system. Akhenaten forcibly propagated the worship of Aten, suppressing traditional polytheistic beliefs. He even changed his own name to express loyalty to Aten and established a new capital dedicated to the sun god. However, after Akhenaten's death, Egypt quickly reverted to the worship of multiple gods, and Atenism faded away.
+|fame=63
+|art=76
+|fth=108
+|civ=50
+|tech=65
+|ss1=Snail Leadership +3<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +30
+|ss2=Snail Leadership +4<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +40
+|ss3=Snail Leadership +5<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +50
+|ss4=Snail Leadership +7<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +70
+|ss5=Snail Leadership +9<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +90
+|ss6=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120
+|ss7=Snail Leadership +12<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Green Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|mirage={{Mirage|name=Divine Succession War|reward={{RewardIconWithLink|Enlightenment Speedup, +28800|orange}}
+|3name=Archpriest|3rec=215.42M|3atk=606855|3def=346979|3hp=77214322|3weak=55720
+|4name=Pharaoh Akhenaten|4rec=263.58M|4atk=703176|4def=399694|4hp=103800755|4weak=60318
+|5name=dungeon_event@4458_1|5rec=357.99M|5atk=854822|5def=484635|5hp=182919914|5weak=66590
+|6name=Aten God|6rec=475.45M|6atk=1048982|6def=590308|6hp=339031756|6weak=73673
+|Arec=619.39M|Aatk=1358305|Adef=719801|Ahp=559129511|Aweak=81363
+}}}}
+
+[[Category:Leadership Boost]]
+[[Category:Minion ATK Boost]]
+[[Category:Minion DEF Boost]]
+[[Category:Domain Output Boost]]
+[[Category:Rift Museum Boost]]
+[[Category:Rift Exploration Boost]]

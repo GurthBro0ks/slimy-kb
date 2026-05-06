@@ -1,0 +1,46 @@
+{{CargoRelic
+|name=Armstrong's Footprint
+|rank=AA
+|affct=FAME
+|birthday=05-16
+|source=Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.35%), Expert Scrolls (0.95%)
+|description=On May 16, 1969, astronaut Footstrong completed the final preparations for the moon landing.
+
+Thanks to Project Apollo, Armstrong became the first person to walk on the moon. He said, "That's one small step for man, one giant leap for mankind." 15 minutes later, Aldrin also set foot on the moon, becoming the second human to walk on the moon.
+
+[Humans who walked on the moon]
+
+Apollo 11: Armstrong, Collins, etc.<br>
+Apollo 12: Conrad, Gordon, Bean.<br>
+Apollo 13: Lovell, Haise, Swigert.<br>
+Apollo 15: Scott, Worden, Irwin.<br>
+Apollo 16: John Young, Mattingly, Duke.<br>
+Apollo 17: Cernan, Evans, Schmitt.
+|fame=68
+|art=35
+|fth=41
+|civ=40
+|tech=44
+|ss1=Per 2k Relic Points, Snail HP +40<br>Per 2k Relic Points, Snail ATK +4<br>Relic Points: 20,000/60,000
+|ss2=Per 2k Relic Points, Snail HP +40<br>Per 2k Relic Points, Snail ATK +4<br>Relic Points: 30,000/60,000
+|ss3=Per 2k Relic Points, Snail HP +40<br>Per 2k Relic Points, Snail ATK +4<br>Relic Points: 40,000/60,000
+|ss4=Per 2k Relic Points, Snail HP +40<br>Per 2k Relic Points, Snail ATK +4<br>Relic Points: 60,000/60,000
+|ss5=Per 2k Relic Points, Snail HP +40<br>Per 2k Relic Points, Snail ATK +4<br>Relic Points: 80,000/80,000
+|ss7=Per 2k Relic Points, Snail HP +40<br>Per 2k Relic Points, Snail ATK +4<br>Relic Points: 80,000/80,000<br>Snail HP +700 (Awakened)
+|skill1=[[File:Compass skill II.png|frameless|51x51px]] Place in Exploration Compass: In explorations, 2x Blue Card Drops +7.5%
+|skill2=[[File:Compass skill II.png|frameless|51x51px]] Place in Exploration Compass: In explorations, 2x Purple Card Drops +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FAME Relics]]
+[[Category:Purple FAME Relics]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Time Machine Boost]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by Relic Points]]
+[[Category:Enhanced by DNA Strength]]
+[[Category:Nightmare Steed Boost]]

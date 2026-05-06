@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The Traveler known as the Demonlord of the 6th Heaven once visited various high monks in a quest for the true meaning of life. It immediately made Snail Shell after the journey was over and indicated that only the eternal fire within oneself is the sole truth!
+|affct=ART
+|hard=RUSH
+|source=
+{{Memetic Catalyst
+|number=1261
+|relic1=Mother and Daughter
+|relic2=Theogony
+|relic3=Seated Voltaire
+|relic4=Ansidei Madonna
+|relic5=Annunciation
+}}
+|color=purple
+|earth=7
+|water=6
+|fire=6
+|wind=7
+|form=Demon
+|element=Earth
+|realm=Rift
+|orangehard=RUSH
+}}

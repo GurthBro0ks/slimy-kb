@@ -1,0 +1,84 @@
+== Newbie Guide: Super Snail Panel Attributes and Battle Strategies ==
+
+=== Snail’s 5 Stats (AFFCT) ===
+[[File:Affct1.png|border|frameless|380x380px]]
+
+
+The 5 stats, or AFFCT, as the name suggests, consist of Fame, Art, Faith, Civilization, and Technology. (Check the picture below to see their corresponding icons)
+
+[[File:Affct_2.png|frameless|376x376px]]
+
+
+Benefits of Improving the 5 stats (roughly listed):
+
+1. Identify Boss’s Weakness
+
+Certain bosses such as Apostles, Fissure bosses, Daily Hitmen, Agents, and so on, have specific weakness in their 5 stats (or Power weakness); if the corresponding stat reaches the requirement, you will identify the boss's weakness, allowing for an additional follow-up attack after each turn (i.e., two attacks per turn), and that is what we called a “Rush.”
+
+Note: A brief introduction to weakness identification
+
+[[File:Affct3.png|frameless|372x372px]]
+
+2. Key Clues in maps can only be completed when you reach the stats requirements.
+
+3. Meet the requirements of rituals to unlock subsequent forms in DNA Research.
+
+4. Some gears can only be crafted when you meet the corresponding 5-stats requirement.
+
+[[File:Affct4.png|frameless|203x203px]]
+
+=== Snail Combat 4 (HARD) Stats ===
+
+
+[[File:Affct_5.png|frameless|364x364px]]
+
+
+Recommended Priority: ATK > DEF > RUSH > HP. Please note that you can always choose to enhance your stats according to your own strategy.
+
+1.In the game, each battle is limited to 20 rounds. If it exceeds 20 rounds, it is considered a defeat... So the key is to figure out how to defeat the monster within 20 rounds! In this case, improving ATK should always come first!
+
+2.DEF takes the second position, as it reduces both the damage from enemy attacks and the damage caused by Rush (e.g., in the Snail Arena). It's truly remarkable! PS: Elemental damage would not be alleviated by DEF but would be mitigated by elemental resistance!
+
+3.RUSH is placed in the third position for a specific reason - its damage (including elemental damage) only comes into effect when certain stat requirements are met. Otherwise, your effort would be futile! However, in the later stages, monsters and bosses have significantly higher HP. If your RUSH is not sufficient, they can still survive! So, RUSH is an important attribute, but it may not be an immediate priority.
+
+4.Regarding HP… Well, if you can swiftly crush your opponent, there's no need to prolong the battle, right?
+
+=== Partner Attributes: 6 Stats ===
+Upon accessing the partner page, you will notice the section highlighted in red below, labeled "Research Abilities," which includes six types of genetic abilities that correspond to the six attributes of the partner.
+
+[[File:Affct_6.png|frameless|432x432px]]
+
+By consuming different amounts of research manuals, you can upgrade the corresponding gene levels. For genes highlighted in green, the number of manuals required is reduced by half!
+
+[[File:LQLPJwfCL0shtkBezQF1sH2KwmpDY-FBBLnQNHOAwwA_373_94.png|frameless|278x278px]]
+==== What are the benefits of upgrading gene abilities? ====
+1.Upgrading gene abilities allows you to enhance exclusive partner skills. For example, Kimchi Yum's skill can increase the production of Black Tadpoles in the Tadpole Pond (although it is considered average compared to other partner skills).
+
+[[File:4_Partner_Abilities.png|frameless|419x419px]]
+
+
+2.Partners can be deployed in DNA Research to accelerate the research process according to their respective gene levels.
+==== Where can you obtain the manuals? ====
+1. Club Shop, Club Chests
+
+[[File:LQLPJx1S0VS5_QDNAQnNAV6wtffj4oVhh10EudBTVYDDAA_350_265.png|frameless|285x285px]]
+
+
+2.Chore Dispatch Tasks
+
+[[File:5_Chore-2.png|frameless|276x276px]]
+
+3.Limited Gift Pack!
+
+=== Here's a summary: ===
+1. Recommended Priority: Battle Attributes > Snail Attributes (AFFCT) > Partner Attributes (6 stats)
+
+These panel attributes are interconnected and dependent on each other, making it difficult to discuss them separately. The interpretation and strategy may vary from person to person. Feel free to explore and develop your own unique strategy!
+
+2.Battle Analysis  
+
+First, check if it's possible to activate Rush. If so, the chances of victory are greatly increased!  
+
+If Rush is not possible, attempt an aggressive approach. Although the success rate may be low, it's worth a shot. The key requirements are high ATK, Dodge, and Ring of Stupor - in essence, relying on luck!
+
+[[Category:Guides]]

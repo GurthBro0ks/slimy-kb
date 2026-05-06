@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Royal Game of Ur
+|class_id=22464
+|rank=Blue
+|affct=CIV
+|birthday=04-17
+|source=Lottery Machine No.3 (0.25%)
+|description=On Apr 17, 1916 AD, British archaeologist Sir Leonard Woolley discovered a set of chessboards in Iraq.<br>The Royal Game of Ur is the oldest game board discovered to date. Made of shells, the board is composed of twenty squares arranged in groups of five. The aim of the game is for both players to move their pieces across the board as quickly as possible. Today, there are still variations of this game played in some southern Indian communities.
+|fame=34
+|art=33
+|fth=24
+|civ=44
+|tech=19
+|ss1=Domain Cabin, deployable robots +1
+|ss2=Domain Cabin, deployable robots +2
+|ss3=Domain Cabin, deployable robots +3
+|ss4=Domain Cabin, deployable robots +5
+|ss7=Domain Cabin, deployable robots +5<br>Domain Cabin, deployable robots +5 (Awakened)
+|skill1=[[File:Compass skill I.png|50px]]Place in Exploration Compass: In explorations, 2x Blue Card Drops +2.5%
+}}

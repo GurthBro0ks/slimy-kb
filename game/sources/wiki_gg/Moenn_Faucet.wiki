@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Moenn Faucet
+|class_id=22414
+|rank=Blue
+|affct=FAME
+|birthday=09-11
+|source=Lottery Machine No.3 (0.03%)
+|description=On Sept 11, 1947 AD, the world's first single-handle mixing faucet was manufactured.<br>Early faucets used two handles to control water temperature, but they posed a scalding risk. A young man named Al Moen got the idea of using a single handle to solve this problem after being scalded himself. He invented the single-handle mixing faucet, which quickly gained popularity and received praise from users. Ten years later, Moen's invention was selected as one of the top 100 best-designed mass-produced products by Fortune magazine.
+|fame=47
+|art=22
+|fth=25
+|civ=31
+|tech=29
+|ss1=Zombie Minion HP +1%
+|ss2=Zombie Minion HP +2%
+|ss3=Zombie Minion HP +3%
+|ss4=Zombie Minion HP +5%
+|ss7=Zombie Minion HP +5%<br>Zombie Minion HP +5% (Awakened)
+|skill1=[[File:Swampsanctum skill I.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Output +5%
+}}

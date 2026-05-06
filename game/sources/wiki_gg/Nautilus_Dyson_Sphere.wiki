@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=221
+|relics=Nautilus,Dyson Sphere
+|rank=orange
+|amount=2
+|category=self
+|description=Per Altar God Descent, Snail DEF +14;Gods Descended: 30/30
+}}

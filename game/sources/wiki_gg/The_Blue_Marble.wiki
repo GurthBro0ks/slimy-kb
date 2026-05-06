@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=The Blue Marble
+|class_id=22033
+|rank=Blue
+|affct=ART
+|birthday=09-17
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Sept 17, 1987 AD, The Blue Marble was rated as the most beautiful picture of Earth.<br>The Blue Marble is the first panoramic picture of Earth shot from space. The picture was taken during the last flight of the Apollo Project. At the time, Apollo 17 was orbiting 45,000 kilometers away from the Earth. The crew had the rare opportunity to take this photo while they were viewing the Moon from the spacecraft and the Sun was behind them.
+|fame=19
+|art=44
+|fth=28
+|civ=35
+|tech=28
+|ss1=Refine +1 White Gaia Material +1%
+|ss2=Refine +1 White Gaia Material +2%
+|ss3=Refine +1 White Gaia Material +3%
+|ss4=Refine +1 White Gaia Material +5%
+|ss7=Refine +1 White Gaia Material +5%<br>Refine +1 White Gaia Material +5% (Awakened)
+|skill1=[[File:Goldfish skill I.png|50px]]Place in Goldfish Biozilla: In Species War, Troop DMG REDUC +1%
+}}

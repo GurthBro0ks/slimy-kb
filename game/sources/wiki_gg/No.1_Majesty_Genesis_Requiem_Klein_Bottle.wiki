@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=66
+|relics=No.1 Majesty,Genesis,Requiem,Klein Bottle
+|rank=blue
+|amount=4
+|category=self
+|description=Fungus Farm Output +14%
+}}

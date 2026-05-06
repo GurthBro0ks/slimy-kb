@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=VIP Wristband
+|class_id=20370
+|rank=Green
+|affct=TECH
+|source=
+|description=The wristband is a symbol of status, and it also has practical use. Only the VIPs of the amusement park can wear it. Not only does it make it easy for the VIPs to spend money on the facilities but it also has a positioning system that prevents the VIPs from all types of danger!
+|fame=15
+|art=18
+|fth=13
+|civ=13
+|tech=31
+|ss1=Per 1.5k Tadpole Points, Snail ATK +1<br>Per 1.5k Tadpole Points, Snail DEF +1<br>Tadpole Points: 45000/45000
+|ss2=Per 1.5k Tadpole Points, Snail ATK +2<br>Per 1.5k Tadpole Points, Snail DEF +2<br>Tadpole Points: 45000/45000
+|ss3=Per 1.5k Tadpole Points, Snail ATK +3<br>Per 1.5k Tadpole Points, Snail DEF +3<br>Tadpole Points: 45000/45000
+|ss4=Per 1.5k Tadpole Points, Snail ATK +3<br>Per 1.5k Tadpole Points, Snail DEF +3<br>Tadpole Points: 45000/45000
+|ss7=Per 1.5k Tadpole Points, Snail ATK +3<br>Per 1.5k Tadpole Points, Snail DEF +3<br>Tadpole Points: 45000/45000<br> (Awakened)
+}}

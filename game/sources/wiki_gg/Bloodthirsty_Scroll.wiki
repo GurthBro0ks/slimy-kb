@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Bloodthirsty Scroll
+|class_id=20217
+|rank=Green
+|affct=FTH
+|source=[[Must-Not-Name]] Rent
+|description=Bloodthirsty Spell was used by the Orc Shamans and can inflict fanaticism on an allied unit, boosting attack and movement speed for 20 seconds.
+|fame=18
+|art=13
+|fth=29
+|civ=12
+|tech=18
+|ss1=Per 4 Novice Scrolls opened, Snail ATK +1<br>Novice Scrolls opened: 120/120
+|ss2=Per 4 Novice Scrolls opened, Snail ATK +2<br>Novice Scrolls opened: 120/120
+|ss3=Per 4 Novice Scrolls opened, Snail ATK +3<br>Novice Scrolls opened: 120/120
+}}
+
+[[Category:ATK Boost]]

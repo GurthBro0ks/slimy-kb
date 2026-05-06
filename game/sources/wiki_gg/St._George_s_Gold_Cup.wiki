@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=St. George's Gold Cup
+|class_id=20079
+|rank=Green
+|affct=CIV
+|source=
+|description=Legend says that St. George used the golden cup he carried to hold the dragon's blood after slaying the dragon. The once ordinary item then gained a magical effect: After being put in the cup for a while, water will turn into an elixir!
+|fame=15
+|art=17
+|fth=10
+|civ=29
+|tech=19
+|ss1=Per Dragon Form Tier, Snail HP +40<br>Per Dragon Form Tier, Snail ATK +4<br>Dragon Form Tiers: 9/9
+|ss2=Per Dragon Form Tier, Snail HP +80<br>Per Dragon Form Tier, Snail ATK +8<br>Dragon Form Tiers: 9/9
+|ss3=Per Dragon Form Tier, Snail HP +120<br>Per Dragon Form Tier, Snail ATK +12<br>Dragon Form Tiers: 9/9
+|ss4=Per Dragon Form Tier, Snail HP +120<br>Per Dragon Form Tier, Snail ATK +12<br>Dragon Form Tiers: 9/9
+|ss7=Per Dragon Form Tier, Snail HP +120<br>Per Dragon Form Tier, Snail ATK +12<br>Dragon Form Tiers: 9/9<br> (Awakened)
+}}

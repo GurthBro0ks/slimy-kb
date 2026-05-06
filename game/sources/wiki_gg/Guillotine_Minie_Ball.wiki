@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Guillotine,Minie Ball
+|rank=blue
+|amount=2
+|category=minion
+|description=Per 10 Mecha Minions in battle: Troop ATK +5
+}}
+[[Category:Minion]]
+[[Category:Mecha Minion ATK Boost]]

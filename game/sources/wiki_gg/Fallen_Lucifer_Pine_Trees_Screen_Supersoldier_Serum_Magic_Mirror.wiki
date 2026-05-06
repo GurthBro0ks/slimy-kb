@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=139
+|relics=Fallen Lucifer,Pine Trees Screen,Supersoldier Serum,Magic Mirror
+|rank=purple
+|amount=4
+|category=self
+|description=Snail HP +800
+}}

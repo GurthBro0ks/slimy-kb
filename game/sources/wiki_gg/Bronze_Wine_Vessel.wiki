@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Bronze Wine Vessel
+|class_id=22534
+|rank=AAA
+|affct=ART
+|birthday=04-04
+|source=Lottery Machine No.3 (0.06%)
+|description=On Apr 4, 1978 AD, the Bronze Wine Vessel was excavated from the Zenghouyi Tomb in Hubei.<br>This bronze vessel dates back to the early Warring States period and is the most complex and exquisite of all the bronze artifacts excavated from that period. It consists of a vessel and a plate, both with intricate hollowed-out patterns, over a dozen intertwined dragon and chimaera decorations, and an inscription displaying its owner's identity. Due to its complex patterns and the lack of forging marks, it is believed to have been cast using the lost-wax method, and its craftsmanship is considered unparalleled. Even with modern methods, it would take months to reproduce it.
+|fame=34
+|art=73
+|fth=54
+|civ=46
+|tech=36
+|ss1=B-tads collected from Drill Rig +3%<br>Per 100 catalysis, Snail DEF +3<br>Catalysis: 5000/5000
+|ss2=B-tads collected from Drill Rig +4%<br>Per 100 catalysis, Snail DEF +4<br>Catalysis: 5000/5000
+|ss3=B-tads collected from Drill Rig +5%<br>Per 100 catalysis, Snail DEF +5<br>Catalysis: 5000/5000
+|ss4=B-tads collected from Drill Rig +7%<br>Per 100 catalysis, Snail DEF +7<br>Catalysis: 5000/5000
+|ss5=B-tads collected from Drill Rig +9%<br>Per 100 catalysis, Snail DEF +9<br>Catalysis: 5000/5000
+|ss7=B-tads collected from Drill Rig +9%<br>Per 100 catalysis, Snail DEF +9<br>Catalysis: 5000/5000<br>B-tads collected from Drill Rig +7% (Awakened)
+|skill1=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, All Minion HP +4.5%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's ART +10
+}}

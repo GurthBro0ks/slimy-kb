@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Also known as the flying mouse suit, it was once the signature outfit of Tom Soros, the Vigilante. While it protects him, it also makes it easier to hide at night, making it great for nighttime combat.
+|affct=TECH
+|hard=ATK
+|source=Divine Chaos Chest (0.1%)
+|color=orange
+|earth=10
+|water=9
+|fire=12
+|wind=11
+|form=Mecha
+|element=Fire
+|realm=Hellas
+|orangehard=HP
+}}

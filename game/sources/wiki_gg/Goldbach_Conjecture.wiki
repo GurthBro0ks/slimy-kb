@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Goldbach Conjecture
+|class_id=22338
+|rank=SSS
+|affct=TECH
+|birthday=06-30
+|source=
+|description=This famous conjecture was proposed in a series of letters between Goldbach and Euler around 1742 AD.<br>This is the original manuscript of the "Goldbach Conjecture." It states, "Every integer greater than two can be written as the sum of three primes." Later, it branched off to several versions. In Goldbach's letter to Leonhard Euler, he had hoped his brilliant mathematician friend might help him prove it. Unforeseen to him, his conjecture remained a challenge in the world of mathematics up to this day.
+|fame=70
+|art=46
+|fth=68
+|civ=70
+|tech=108
+|ss1=Wormhole Refinement SPD +1.2%<br>When refining, there exists a +1.5% chance for Green Building Materials to turn into Blue<br>Per 10 Wormhole Refines, Snail RUSH +3<br>Wormhole Refines: 500/500
+|ss2=Wormhole Refinement SPD +1.6%<br>When refining, there exists a +2% chance for Green Building Materials to turn into Blue<br>Per 10 Wormhole Refines, Snail RUSH +4<br>Wormhole Refines: 500/500
+|ss3=Wormhole Refinement SPD +2%<br>When refining, there exists a +2.5% chance for Green Building Materials to turn into Blue<br>Per 10 Wormhole Refines, Snail RUSH +5<br>Wormhole Refines: 500/500
+|ss4=Wormhole Refinement SPD +2.8%<br>When refining, there exists a +3.5% chance for Green Building Materials to turn into Blue<br>Per 10 Wormhole Refines, Snail RUSH +7<br>Wormhole Refines: 500/500
+|ss5=Wormhole Refinement SPD +3.6%<br>When refining, there exists a +4.5% chance for Green Building Materials to turn into Blue<br>Per 10 Wormhole Refines, Snail RUSH +9<br>Wormhole Refines: 500/500
+|ss6=Wormhole Refinement SPD +4.8%<br>When refining, there exists a +6% chance for Green Building Materials to turn into Blue<br>Per 10 Wormhole Refines, Snail RUSH +12<br>Wormhole Refines: 500/500
+|ss7=Wormhole Refinement SPD +4.8%<br>When refining, there exists a +6% chance for Green Building Materials to turn into Blue<br>Per 10 Wormhole Refines, Snail RUSH +12<br>Wormhole Refines: 500/500<br>When refining, there exists a +6% chance for Green Building Materials to turn into Blue (Awakened)
+|skill1=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop DMG REDUC +6%
+|skill2=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion ATK +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's TECH +15
+|mirage={{Mirage|name=Road to Proof|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Almost Prime|3rec=27.68M|3atk=124164|3defense=82835|3hp=4432536|3weak=18716
+|4name=The Exceptional Set|4rec=38.41M|4atk=146802|4defense=97937|4hp=6053528|4weak=19796
+|5name=Three Primes Theorem|5rec=50.63M|5atk=172572|5defense=115130|5hp=8112587|5weak=21871
+|6name=Linnik's theorem|6rec=64.44M|6atk=201704|6defense=134565|6hp=10669127|6weak=25888
+|Arec=79.43M|Aatk=233306|Adefense=155647|Ahp=13808262|Aweak=30791
+}}}}

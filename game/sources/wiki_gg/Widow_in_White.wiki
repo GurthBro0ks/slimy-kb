@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Widow in White
+|rank=orange
+|cabin=2
+|id=124
+|gene1={race} HP +500
+|gene2={race} TECH +50
+|gene3=Water DMG +30
+|gene4=Per 60 Demon Minions in battle,
+Troop Water DMG +6
+|gene5=Troop Water DMG +0.9%
+|gene6=Per 60 Demon Minions in battle,
+Troop Water DMG +10
+|gene7=Troop Water DMG +1.5%
+|}}

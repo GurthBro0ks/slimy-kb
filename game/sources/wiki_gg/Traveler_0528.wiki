@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Traveler 0528
+|rank=blue
+|cabin=2
+|id=26
+|gene1={race} ATK +20
+|gene2={race} ART +20
+|gene3=Extra DMG +100
+|gene4=Per 10 Mutant Minions in battle:
+> Troop ATK +2
+|gene5=Extra DMG +200
+|}}

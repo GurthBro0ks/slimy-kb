@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Solar Sail
+|class_id=22197
+|rank=AAA
+|affct=TECH
+|birthday=08-29
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Aug 29, 2004 AD, the first solar sail in human history was launched into orbit.<br>Solar Sail is a method of spacecraft propulsion that uses pressure from the sun's light. It uses a smooth plane to obtain momentum from photons. Although each photon's thrust is extremely small, when a large enough Photon Sail is deployed, the infinite energy in the sun's rays can enable the spacecraft to travel at the same speed as other current spacecrafts, as well as adjust its trajectory without the use of fuel.
+|fame=46
+|art=37
+|fth=50
+|civ=38
+|tech=72
+|ss1=Dragon Minion HP +3%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +24%
+|ss2=Dragon Minion HP +4%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +32%
+|ss3=Dragon Minion HP +5%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +40%
+|ss4=Dragon Minion HP +7%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +56%
+|ss5=Dragon Minion HP +9%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +72%
+|ss7=Dragon Minion HP +9%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +72%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +56% (Awakened)
+|skill1=[[File:Timemachine skill II.png|50px]]Place in Time Machine: Travel Speedup Output +15%
+|skill2=[[File:Timemachine skill II.png|50px]]Place in Time Machine: Generate Time Chests by +15%
+}}

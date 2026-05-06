@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Faraday Cage
+|class_id=22592
+|rank=AA
+|affct=TECH
+|birthday=03-21
+|source=Lottery Machine No.3 (0.12%)
+|description=On Mar 21, 1836 AD, the British physicist Faraday successfully verified his own conjecture.<br>The Faraday cage is a metal cage consisting of a high-voltage power supply, cage body, voltage indicator, and control part. The cage body is connected to the ground, and according to the principle of electrostatic balance, the cage body becomes an equipotential body with zero electric potential difference and zero electric field inside. This causes the charge to distribute on the outer surface of the cage. Practitioners of spiritual cultivation use this tool to safely overcome tribulations.
+|fame=40
+|art=31
+|fth=51
+|civ=37
+|tech=69
+|ss1=Novice Scrolls collected from Drill Rig +2<br>Expert Scrolls collected from Drill Rig +2
+|ss2=Novice Scrolls collected from Drill Rig +3<br>Expert Scrolls collected from Drill Rig +3
+|ss3=Novice Scrolls collected from Drill Rig +4<br>Expert Scrolls collected from Drill Rig +4
+|ss4=Novice Scrolls collected from Drill Rig +6<br>Expert Scrolls collected from Drill Rig +6
+|ss5=Novice Scrolls collected from Drill Rig +8<br>Expert Scrolls collected from Drill Rig +8
+|ss7=Novice Scrolls collected from Drill Rig +8<br>Expert Scrolls collected from Drill Rig +8<br>Novice Scrolls collected from Drill Rig +7 (Awakened)
+|skill1=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, All Minion RUSH +4.5%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's TECH +10
+}}

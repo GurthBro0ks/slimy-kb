@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Frigga's Wheel
+|rank=A
+|affct=FTH
+|birthday=12-20
+|source=Fragment Crafting (30.8%), Lottery Machine (0.66%), Wishing (2.8%), Expert Scrolls (7.6%)
+|description=On Dec 20, 3000 BC, Frigga spun the weaving wheel and began to weave the web of destiny. 
+
+Odin's wife, Frigga, was a beautiful and elegant lady who wore a heron feather on her head, a snow-white gown, and a gold belt around her waist with a key. Her weaving wheel was decorated with precious stones and shone brightly at night. It was known as the Orion. She lived in Fensalir. Whenever she had the time, she would spin the weaving wheel and make long nets using gold threads or bright clouds.
+
+[Basic Info]
+
+Residence: Fensalir<br>Gender: Female<br>Role: Goddess of the Night and Marriage
+|fame=30
+|art=44
+|fth=62
+|civ=42
+|tech=35
+|ss1=Fungus Farm Output +2%<br>Fungus Farm Max Cap +2%
+|ss2=Fungus Farm Output +4%<br>Fungus Farm Max Cap +4%
+|ss3=Fungus Farm Output +6%<br>Fungus Farm Max Cap +6%
+|ss4=Fungus Farm Output +10%<br>Fungus Farm Max Cap +10%
+|ss5=Fungus Farm Output +14%<br>Fungus Farm Max Cap +14%
+|ss7=Fungus Farm Output +14%<br>Fungus Farm Max Cap +14%<br>Fungus Farm Max Cap +14% (Awakened)
+|skill1=[[File:Cathay skill II.png|50px]]Place in Cathay Museum: In Cathay, 2x Food Drops +7.5%
+|skill2=[[File:Quarry skill II.png|50px]]Place in Quarry: This Relic's FTH +10
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FTH Relics]]
+[[Category:Purple FTH Relics]]
+[[Category:Cathay Exploration Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Fungus Farm Boost]]
+[[Category:Quarry Boost]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by DNA Strength]]

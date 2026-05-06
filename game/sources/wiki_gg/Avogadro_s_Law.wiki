@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Avogadro's Law
+|class_id=22750
+|rank=SSS
+|affct=TECH
+|birthday=04-08
+|source=
+|description=On Apr 8, 1811 AD, Avogadro published his hypothesis.<br>Avogadro's greatest contribution was the proposal of the molecular hypothesis, which states that gases of the same volume, under the same temperature and pressure, contain the same number of molecules. This hypothesis is also called Avogadro's law. In recognition of his contribution, his name is used to represent the number of molecules in one mole of a substance, which is one of the most important fundamental constants in natural science.
+|fame=66
+|art=49
+|fth=71
+|civ=69
+|tech=107
+|ss1=Snail Leadership +3<br>Per 20 Wormhole Refiners opened, Snail ATK +6<br>Per 20 Wormhole Refiners opened, Snail DEF +6<br>800/800 Wormhole Refiner opened
+|ss2=Snail Leadership +4<br>Per 20 Wormhole Refiners opened, Snail ATK +7<br>Per 20 Wormhole Refiners opened, Snail DEF +7<br>800/800 Wormhole Refiner opened
+|ss3=Snail Leadership +5<br>Per 20 Wormhole Refiners opened, Snail ATK +8<br>Per 20 Wormhole Refiners opened, Snail DEF +8<br>800/800 Wormhole Refiner opened
+|ss4=Snail Leadership +7<br>Per 20 Wormhole Refiners opened, Snail ATK +10<br>Per 20 Wormhole Refiners opened, Snail DEF +10<br>800/800 Wormhole Refiner opened
+|ss5=Snail Leadership +9<br>Per 20 Wormhole Refiners opened, Snail ATK +12<br>Per 20 Wormhole Refiners opened, Snail DEF +12<br>800/800 Wormhole Refiner opened
+|ss6=Snail Leadership +12<br>Per 20 Wormhole Refiners opened, Snail ATK +15<br>Per 20 Wormhole Refiners opened, Snail DEF +15<br>800/800 Wormhole Refiner opened
+|ss7=Snail Leadership +12<br>Per 20 Wormhole Refiners opened, Snail ATK +15<br>Per 20 Wormhole Refiners opened, Snail DEF +15<br>800/800 Wormhole Refiner opened<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Reagent Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|mirage={{Mirage|name=Analyzing the World|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=X-ray Diffraction Law|3rec=99.42M|3atk=313554|3defense=183769|3hp=25804770|3weak=39575
+|4name=Electrochemical Equivalent Law|4rec=111.67M|4atk=340465|4defense=201013|4hp=32134839|4weak=42340
+|5name=Brownian Motion Law|5rec=126.75M|5atk=372990|5defense=222222|5hp=41933076|5weak=45806
+|6name=Blackbody Radiation Law|6rec=146.27M|6atk=416600|6defense=249683|6hp=57854532|6weak=49670
+|Arec=172.67M|Aatk=474491|Adefense=286826|Ahp=83638257|Aweak=53954
+}}}}

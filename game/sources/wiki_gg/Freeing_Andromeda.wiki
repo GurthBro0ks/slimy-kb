@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Freeing Andromeda
+|class_id=22817
+|rank=SSS
+|affct=ART
+|source=
+|description=This painting was unearthed in the ancient city of Pompeii. With its exquisite artistic techniques and vivid narrative, it depicts a romantic story from Greek mythology. Andromeda is captured by a sea monster and is coincidentally rescued by the hero Perseus, who marries her. Its vibrant colors and delicate lines testify to the artistic achievements of ancient Rome and provide endless inspiration for future artists.
+|fame=47
+|art=108
+|fth=66
+|civ=81
+|tech=60
+|ss1=All minion skins HP +10%<br>Per 100 Minions in battle:<br>> Troop DEF +30<br>Per 3 Minion Skins crafted, Snail ATK +9<br>Minion Skins crafted: 60/60
+|ss2=All minion skins HP +20%<br>Per 100 Minions in battle:<br>> Troop DEF +40<br>Per 3 Minion Skins crafted, Snail ATK +12<br>Minion Skins crafted: 60/60
+|ss3=All minion skins HP +30%<br>Per 100 Minions in battle:<br>> Troop DEF +50<br>Per 3 Minion Skins crafted, Snail ATK +15<br>Minion Skins crafted: 60/60
+|ss4=All minion skins HP +50%<br>Per 100 Minions in battle:<br>> Troop DEF +70<br>Per 3 Minion Skins crafted, Snail ATK +21<br>Minion Skins crafted: 60/60
+|ss5=All minion skins HP +70%<br>Per 100 Minions in battle:<br>> Troop DEF +90<br>Per 3 Minion Skins crafted, Snail ATK +27<br>Minion Skins crafted: 60/60
+|ss6=All minion skins HP +100%<br>Per 100 Minions in battle:<br>> Troop DEF +120<br>Per 3 Minion Skins crafted, Snail ATK +36<br>Minion Skins crafted: 60/60
+|ss7=All minion skins HP +100%<br>Per 100 Minions in battle:<br>> Troop DEF +120<br>Per 3 Minion Skins crafted, Snail ATK +36<br>Minion Skins crafted: 60/60<br>Per 100 Minions in battle:<br>> Troop DEF +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +3%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's ART +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Incense Drops +3%
+|mirage={{Mirage|name=dungeon@22817_1|reward={{RewardIconWithLink|Mark of Will, +30|orange}}
+|3name=Ceto|3rec=290.47M|3atk=746426|3defense=423887|3hp=123342180|3weak=62163
+|4name=Phineus|4rec=369.50M|4atk=873201|4defense=494983|4hp=194032493|4weak=67297
+|5name=Andromeda|5rec=486.28M|5atk=1067078|5defense=600044|5hp=359830266|5weak=74309
+|6name=Perseus|6rec=640.46M|6atk=1410835|6defense=738753|6hp=587469757|6weak=82400
+|Arec=872.20M|Aatk=2115659|Adefense=984941|Ahp=1013324610|Aweak=92783
+}}}}

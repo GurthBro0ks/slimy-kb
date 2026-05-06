@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=554
+|relics=Constantine Statue,Ink Chrysanths,Messier Catalog,Victoria Portrait
+|rank=orange
+|amount=4
+|category=self
+|description=All Minion DEF +1.8%
+}}

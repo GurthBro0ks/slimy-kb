@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20768_1
+|class_id=20768
+|rank=Green
+|affct=FAITH
+|source=
+|description=collection@20768_2
+|fame=17
+|art=20
+|fth=28
+|civ=12
+|tech=13
+|ss1=prop@1065_2<br>prop@1060_2
+|ss2=prop@1065_2<br>prop@1060_2
+|ss3=prop@1065_2<br>prop@1060_2
+|ss4=prop@1065_2<br>prop@1060_2
+|ss7=prop@1065_2<br>prop@1060_2<br> (Awakened)
+}}

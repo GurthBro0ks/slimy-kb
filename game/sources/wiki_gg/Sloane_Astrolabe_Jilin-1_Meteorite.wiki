@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=596
+|relics=Sloane Astrolabe,Jilin-1 Meteorite
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Angel Minions in battle: Troop HARD Stats +5
+}}

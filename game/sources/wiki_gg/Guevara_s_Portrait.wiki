@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Guevara's Portrait
+|class_id=21906
+|rank=SSS
+|affct=FAME
+|birthday=05-20
+|source=
+|description=On May 20, 1968 AD, Che Guevara's portrait was on display for the first time.<br>After Guevara's murder, Feltre asked Gutierrez for his photo and reprinted his memorial poster. This close-up of his face has become one of the most copied portraits ever, rivaling the Mona Lisa. All over the world, he has become an icon for activists and rebels. His determined look exudes character, and his charm is timeless.
+[Che Guevara Quotes]
+One has to grow hard but without ever losing tenderness. I am not a hero, but I fight alongside heroes. Let the world change you, and then you will change the world. Listen to the voice of the people.
+|fame=107
+|art=71
+|fth=55
+|civ=56
+|tech=73
+|ss1=Snail DEF +30<br>Per 20 Chores completed, Snail ATK +9<br>Per 20 Chores completed, Snail DEF +9<br>Chores Completed: 300/300
+|ss2=Snail DEF +40<br>Per 20 Chores completed, Snail ATK +12<br>Per 20 Chores completed, Snail DEF +12<br>Chores Completed: 300/300
+|ss3=Snail DEF +50<br>Per 20 Chores completed, Snail ATK +15<br>Per 20 Chores completed, Snail DEF +15<br>Chores Completed: 300/300
+|ss4=Snail DEF +70<br>Per 20 Chores completed, Snail ATK +21<br>Per 20 Chores completed, Snail DEF +21<br>Chores Completed: 300/300
+|ss5=Snail DEF +90<br>Per 20 Chores completed, Snail ATK +27<br>Per 20 Chores completed, Snail DEF +27<br>Chores Completed: 300/300
+|ss6=Snail DEF +120<br>Per 20 Chores completed, Snail ATK +36<br>Per 20 Chores completed, Snail DEF +36<br>Chores Completed: 300/300
+|ss7=Snail DEF +120<br>Per 20 Chores completed, Snail ATK +36<br>Per 20 Chores completed, Snail DEF +36<br>Chores Completed: 300/300<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, DMG REDUC +7.5%
+|skill2=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +600
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: This Relic's FAME +15
+|mirage={{Mirage|name=Liberator|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Toussaint|3rec=4.55M|3atk=52963|3defense=35372|3hp=905784|3weak=11485
+|4name=St. Martin|4rec=8.60M|4atk=75111|4defense=50163|4hp=1667126|4weak=13191
+|5name=Bolivar|5rec=15.27M|5atk=102061|5defense=68162|5hp=2878955|5weak=16988
+|6name=Hidalgo|6rec=32.37M|6atk=133926|6defense=89444|6hp=4832567|6weak=18718
+|Arec=50.07M|Aatk=171211|Adefense=114345|Ahp=7614983|Aweak=20376
+}}}}

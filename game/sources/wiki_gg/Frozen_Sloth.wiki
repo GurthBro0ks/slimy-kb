@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Frozen Sloth
+|class_id=20164
+|rank=Green
+|affct=ART
+|source=
+|description=The unlucky sloth got frozen because he ran too slowly during the avalanche. He stayed in a running position and looked like he could jump out as soon as the ice melted, but it is still unknown if he will come back to life after the ice melts.
+|fame=14
+|art=30
+|fth=15
+|civ=16
+|tech=15
+|ss1=Per 500 Fissure Floors, Snail HP +10<br>Fissure Floor: 15000/15000
+|ss2=Per 500 Fissure Floors, Snail HP +20<br>Fissure Floor: 15000/15000
+|ss3=Per 500 Fissure Floors, Snail HP +30<br>Fissure Floor: 15000/15000
+|ss4=Per 500 Fissure Floors, Snail HP +30<br>Fissure Floor: 15000/15000
+|ss7=Per 500 Fissure Floors, Snail HP +30<br>Fissure Floor: 15000/15000<br> (Awakened)
+}}

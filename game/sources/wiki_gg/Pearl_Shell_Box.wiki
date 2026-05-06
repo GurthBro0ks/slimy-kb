@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Pearl Shell Box
+|class_id=22725
+|rank=SSS
+|affct=CIV
+|birthday=09-14
+|source=
+|description=On Sep 14, 1835 AD, royal court artisans presented the completed jewelry box to Charles X.<br>This classical jewelry box is exquisitely crafted with precious pearl shell inlays. Delicate golden relief patterns outline its framework, creating an elegant and dignified appearance. The combination of gilded reliefs and pearl shell carvings exhibits intricate craftsmanship. The golden reliefs perfectly complement the lustrous colors of the pearl shell, depicting detailed carvings of flowers, leaves, and vases, exuding a classical charm. Its intricate and refined decoration elements showcase the elegance of Neoclassical style.
+|fame=72
+|art=68
+|fth=59
+|civ=107
+|tech=56
+|ss1=Snail HP +300<br>All Orange Minion Skin HARD Stats +5%<br>Complete Chore Dispatch, gain extra __max__min Clone Speedup<br>Obtained Clone Speedup: 6000/6000h
+|ss2=Snail HP +400<br>All Orange Minion Skin HARD Stats +10%<br>Complete Chore Dispatch, gain extra __max__min Clone Speedup<br>Obtained Clone Speedup: 12000/12000h
+|ss3=Snail HP +500<br>All Orange Minion Skin HARD Stats +15%<br>Complete Chore Dispatch, gain extra __max__min Clone Speedup<br>Obtained Clone Speedup: 18000/18000h
+|ss4=Snail HP +700<br>All Orange Minion Skin HARD Stats +25%<br>Complete Chore Dispatch, gain extra __max__min Clone Speedup<br>Obtained Clone Speedup: 24000/24000h
+|ss5=Snail HP +900<br>All Orange Minion Skin HARD Stats +35%<br>Complete Chore Dispatch, gain extra __max__min Clone Speedup<br>Obtained Clone Speedup: 30000/30000h
+|ss6=Snail HP +1200<br>All Orange Minion Skin HARD Stats +50%<br>Complete Chore Dispatch, gain extra __max__h Clone Speedup<br>Obtained Clone Speedup: 36000/36000h
+|ss7=Snail HP +1200<br>All Orange Minion Skin HARD Stats +50%<br>Complete Chore Dispatch, gain extra __max__h Clone Speedup<br>Obtained Clone Speedup: 36000/36000h<br>All Orange Minion Skin HARD Stats +50% (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion HP +6%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion DEF +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15
+|mirage={{Mirage|name=A Woman's Treasure Trove|reward={{RewardIconWithLink|Badge, +20|orange}}
+|3name=La Peregrina|3rec=233.87M|3atk=604085|3defense=372935|3hp=162552216|3weak=61476
+|4name=Dragonfly Brooch|4rec=339.88M|4atk=748676|4defense=468343|4hp=281589995|4weak=67509
+|5name=Bird on a Rock|5rec=478.75M|5atk=939913|5defense=593276|5hp=472984767|5weak=73481
+|6name=Diamond Crown|6rec=656.32M|6atk=1187772|6defense=753413|6hp=706518853|6weak=79441
+|Arec=844.00M|Aatk=1502117|Adefense=954704|Ahp=1028597897|Aweak=86331
+}}}}

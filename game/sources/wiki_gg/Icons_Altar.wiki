@@ -1,0 +1,52 @@
+= [[Altar]] =
+Icons for the [[Altar]]
+
+= Dragon Wishes =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Basic Dragon Crystal}}
+{{IconExampleRowWithText|Dragonian - Growth}}||{{Retext|Use to get all kinds of Fungi|blue}}
+{{IconExampleRowWithText|Dragonian - Multiply}}||{{RewardIconWithText|B-Tad, +20k}} and {{RewardIconWithText|W-Tad, +1k}}
+{{IconExampleRowWithText|Dragonian - Time}}||{{Retext|Use to get random speedups|blue}}
+{{IconExampleRowWithText|Fairy Dragon Power}}
+{{IconExampleRowWithText|Healthcare Set}}
+{{IconExampleRowWithLink|Key Client Pack|orange}}
+{{IconExampleRowWithLink|Red Dragon Egg|orange}}
+{{IconExampleRowWithText|Spittle of Dragon (Blue)|blue}}||Snail RUSH +20
+{{IconExampleRowWithText|Spittle of Dragon (Green)|green}}||Snail DEF +20
+{{IconExampleRowWithText|Spittle of Dragon (Red)|red}}||Snail HP +200
+{{IconExampleRowWithText|Spittle of Dragon (Yellow)|yellow}}||Snail ATK +20
+{{IconExampleRowWithText|Unknown Magic Potion}}
+|}
+
+= Souls =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|1h Soul Red}}||Red/Chaos
+{{IconExampleRowWithText|2h Soul Red}}||Red/Chaos
+{{IconExampleRowWithText|4h Soul Red}}||Red/Chaos
+{{IconExampleRowWithText|8h Soul Red}}||Red/Chaos
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|1h Soul Yellow}}||Yellow/Order
+{{IconExampleRowWithText|2h Soul Yellow}}||Yellow/Order
+{{IconExampleRowWithText|4h Soul Yellow}}||Yellow/Order
+{{IconExampleRowWithText|8h Soul Yellow}}||Yellow/Order
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|1h Soul Green}}||Green/Neutral
+{{IconExampleRowWithText|2h Soul Green}}||Green/Neutral
+{{IconExampleRowWithText|4h Soul Green}}||Green/Neutral
+{{IconExampleRowWithText|8h Soul Green}}||Green/Neutral
+|}
+
+= [[Altar#Unique_Offerings|Unique Offerings]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Gaia's Tainted R Hand}}
+{{IconExampleRowWithText|Gaia's Tainted Stomach}}
+{{IconExampleRowWithText|Gaia's Tainted Hair}}
+{{IconExampleRowWithText|Tainted L Hand of Gaia}}
+{{IconExampleRowWithText|Tainted Lungs of Gaia}}
+{{IconExampleRowWithText|Tainted Tooth of Gaia}}
+{{IconExampleRowWithText|Tainted Liver of Gaia}}
+{{IconExampleRowWithText|Broken Dragon's Horn}}
+|}
+
+[[Category:Altar]]
+[[Category:Icons]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=House of Hemophilia
+|class_id=20487
+|rank=Green
+|affct=FAME
+|source=
+|description=In order to improve the quality of life of hemophiliacs and promote knowledge about hemophilia, the House of Hemophilia founded a publication of the same name to assist hospitals in the prevention and treatment of hemophilia. The articles published in the publication were all original works of hemophilia patients and their families, reflecting the real life of those suffering from the condition, allowing more people to understand their difficulties, and increasing the unity of patients.
+|fame=31
+|art=15
+|fth=14
+|civ=16
+|tech=14
+|ss1=Per 50 Minions healed, Snail HP +10<br>Minions healed: 2000/2000
+|ss2=Per 50 Minions healed, Snail HP +20<br>Minions healed: 2000/2000
+|ss3=Per 50 Minions healed, Snail HP +30<br>Minions healed: 2000/2000
+|ss4=Per 50 Minions healed, Snail HP +30<br>Minions healed: 2000/2000
+|ss7=Per 50 Minions healed, Snail HP +30<br>Minions healed: 2000/2000<br> (Awakened)
+}}

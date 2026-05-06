@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Annabel
+|class_id=20006
+|rank=Green
+|affct=CIV
+|source=
+|description=No one knows who sewed this bizarre doll, but everyone can feel its inexplicable sinister energy. Horrible things kept happening to the owners of this doll until the D. Dragon acquired it and used its divine power to suppress the viciousness inside.
+|fame=18
+|art=13
+|fth=16
+|civ=30
+|tech=13
+|ss1=In Demon Form, Travel SPD +0.2%
+|ss2=In Demon Form, Travel SPD +0.4%
+|ss3=In Demon Form, Travel SPD +0.6%
+|ss4=In Demon Form, Travel SPD +0.6%
+|ss7=In Demon Form, Travel SPD +0.6%<br> (Awakened)
+}}

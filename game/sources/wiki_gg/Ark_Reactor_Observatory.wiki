@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Ark Reactor,Observatory
+|rank=purple
+|amount=2
+|category=self
+|description=Per 2k Power, Snail DEF +4<br>Power: 30,000/30,000
+}}
+[[Category:Self]]

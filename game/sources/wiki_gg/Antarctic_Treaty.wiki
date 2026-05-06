@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Antarctic Treaty
+|class_id=22218
+|rank=SSS
+|affct=FAME
+|birthday=12-01
+|source=Lottery Machine No.2 (0.11%), Wishing (0.41%)
+|description=On Dec 1, 1959 AD, countries around the world signed the Antarctic Treaty.<br>Antarctica, the world's latest discovered continent and the only continent without permanent residents, is a land claimed by a number of countries. In order to regulate the activities of all countries, the Antarctic Treaty was signed. The treaty states that Antarctica is only for peaceful purposes, promotes scientific expeditions and international cooperation, military activity is prohibited in Antarctica, and freezes all current territory claims by all countries. The signing of the Antarctic Treaty is of great significance to the solution of Antarctic Environmental protection and scientific research issues.
+|fame=108
+|art=60
+|fth=53
+|civ=69
+|tech=72
+|ss1=Mecha Minion ATK +3%<br>Mecha Minion RUSH +3%<br>Species War Cabin Output +3%
+|ss2=Mecha Minion ATK +4%<br>Mecha Minion RUSH +4%<br>Species War Cabin Output +4%
+|ss3=Mecha Minion ATK +5%<br>Mecha Minion RUSH +5%<br>Species War Cabin Output +5%
+|ss4=Mecha Minion ATK +7%<br>Mecha Minion RUSH +7%<br>Species War Cabin Output +7%
+|ss5=Mecha Minion ATK +9%<br>Mecha Minion RUSH +9%<br>Species War Cabin Output +9%
+|ss6=Mecha Minion ATK +12%<br>Mecha Minion RUSH +12%<br>Species War Cabin Output +12%
+|ss7=Mecha Minion ATK +12%<br>Mecha Minion RUSH +12%<br>Species War Cabin Output +12%<br>Species War Cabin Output +10% (Awakened)
+|skill1=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop CRIT DMG +9%
+|skill2=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Water DMG +60
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FAME +15
+|mirage={{Mirage|name=Protect the South Pole|reward={{RewardIconWithLink|W-tad, +1000|orange}}
+|3name=Antarctic Fur Seal|3rec=12.98M|3atk=93731|3defense=62532|3hp=2636362|3weak=16314
+|4name=Humpback Whale|4rec=22.52M|4atk=113296|4defense=75584|4hp=3747546|4weak=18223
+|5name=Emperor Penguin|5rec=32.88M|5atk=135140|5defense=90157|5hp=5220692|5weak=19227
+|6name=Lost Polar Bear|6rec=44.39M|6atk=159401|6defense=106343|6hp=7105031|6weak=20711
+|Arec=57.48M|Aatk=187024|Adefense=124771|Ahp=9385308|Aweak=23229
+}}}}

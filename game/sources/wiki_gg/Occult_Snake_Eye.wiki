@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Occult Snake Eye
+|class_id=20291
+|rank=Green
+|affct=FAITH
+|source=
+|description=The eye of the Occult Snake God can banish living beings directly into the endless void, erasing all traces of their existence. To this day, no one has ever seen a life return from the void.
+|fame=17
+|art=13
+|fth=31
+|civ=15
+|tech=14
+|ss1=Per 30 Fissure Floors, Snail ATK +2<br>Fissure Floor: 1200/1200
+|ss2=Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200
+|ss3=Per 30 Fissure Floors, Snail ATK +4<br>Fissure Floor: 1200/1200
+|ss4=Per 30 Fissure Floors, Snail ATK +4<br>Fissure Floor: 1200/1200
+|ss7=Per 30 Fissure Floors, Snail ATK +4<br>Fissure Floor: 1200/1200<br> (Awakened)
+}}

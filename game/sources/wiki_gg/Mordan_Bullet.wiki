@@ -1,0 +1,26 @@
+{{CargoRelic
+|name=Mordan Bullet
+|rank=Blue
+|affct=FAME
+|birthday=04-23
+|source=Lottery Machine (0.07% chance), Novice Scrolls (1%), Wish (3.1%)
+|description=On Apr 23, 1978, Mordan's daughter was killed by a bizarre bullet outside the battlefield.
+
+This bullet was why Mordan betrayed the army. He used to be a highly-respected platoon commander, but when his daughter was brutally killed by a huge bullet, he decided to leave. Knowing that he could do nothing in the army, he resorted to betrayal to stop the war.
+|fame=44
+|art=29
+|fth=20
+|civ=34
+|tech=27
+|ss1=Per Apostle defeated, Snail +3<br>Apostles defeated: 15/15
+|ss2=Per Apostle defeated, Snail +6<br>Apostles defeated: 15/15
+|ss3=Per Apostle defeated, Snail +9<br>Apostles defeated: 15/15
+|ss4=Per Apostle defeated, Snail +15<br>Apostles defeated: 15/15
+|ss7=Per Apostle defeated, Snail +15<br>Apostles defeated: 15/15<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Bharata skill I.png|50px]]Place in Bharata Museum: In Bharata, Snail RUSH +20
+}}
+
+[[Category:ATK Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Bharata Museum Boost]]
+[[Category:Offering Reward Boost]]

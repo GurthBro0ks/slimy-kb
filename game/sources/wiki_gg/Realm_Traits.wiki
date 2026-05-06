@@ -1,0 +1,94 @@
+== Realm Traits ==
+In each Realm, there is a spirit you can unlock to aid your snail in combat through boosting your snail's stats or directly participating in combat.
+
+== [[Deadly Ironball]] ==
+[[File:Deadly Ironball.png|100px|left|alt=Deadly Ironball]]
+It weighs 109 tons! It can smash enemies before battle starts!
+
+1. Intercept Hitman No. 4
+
+2. Raise Big Guy Park friendship to level 3
+
+3. Use the item he gives you to unlock Deadly Ironball
+{{clear}}
+
+When first obtained, Deadly Ironball is automatically in use (unlock other Realm Traits, which have to be enabled) and deals 90% DMG to enemies before the fight begins. This is at level 1, and after upgrading to maximum (level 30), the Ironball can deal 150% DMG to enemies and can then be unsealed with [[Weekly Events|Magic Potion]]. Ironball not only costs a great deal of B-tads, but also costs other expensive things such as Incense. It isn't recommended to upgrade this beyond what is absolutely necessary for early-game fights since other Realm Traits are much better. 
+
+== [[Sacred Mirror]] ==
+[[File:Sacred Mirror.png|100px|left|alt=Sacred Mirror]]
+Ameterasu grants you power before a fight.
+
+1. Spend 30k INTEL on [[Yamato INTEL|Ninja Training]] tile 17 "Sacred Mirror"
+{{clear}}
+
+When first obtained in [[Yamato]], the Sacred Mirror increases ATK and DEF by 9% before a fight and recovers 350 HP each round. This is at level 1, and after upgrading to maximum (level 30), the Sacred Mirror can increases ATK and DEF by 15% and recovers 650 HP each round and can then be unsealed with [[Weekly Events|Magic Potion]]. It is highly recommended to upgrade this to maximum and unseal as soon as possible, as the Sacred Mirror is what you will use for the majority of fights. In fact, any fight that can take 5 or more rounds should be fought with the Sacred Mirror. 
+
+== [[Supreme Warlord]] ==
+[[File:Supreme Warlord.png|100px|left|alt=Supreme Warlord]]
+Summon Lu Bu when the battle begins!
+
+1. Raise [[Cathay INTEL#Shu|Shu INTEL tile 18]] to level 3
+
+2. Complete each special incident
+
+3. Raise [[Cathay INTEL#Shu|Shu INTEL tile 19]] to level 1
+{{clear}}
+
+When first obtained in [[Cathay]], the Supreme Warlord will, alongside contributing his own base stats to a fight: for every 20 Snail HP, General Lu Bu HP +4; for every 20 Snail ATK, General Lu Bu ATK +17; For every 20 Snail DEF, General Lu Bu DEF +15, and; Restores full HP after combat. This is at maximum (level 30), and after this the Supreme Warlord can  be unsealed with [[Weekly Events|Magic Potion]]. Supreme Warlord, more commonly called Lu Bu, is great for short and difficult fights. Any fights that are anticipated to be 5 rounds or less should be fought with Lu Bu. Therefore he's perfect for dominating remaining realm apostles. 
+
+== [[Lady Liberty]] ==
+[[File:Lady Liberty.png|100px|left|alt=Lady Liberty]]
+Freedom guides Snail!
+
+1. Acquire [[Murika INTEL#Biochem INTEL|Biochem INTEL tile 18]] to lv.3
+
+2. Clear the Special Incident "Sculptor Bart" with 8,600 FAME
+{{clear}}
+
+When first obtained in [[Murika]], the Lady Liberty increases gained INTEL, Maps, Loot, and Cells by 1.3%. This is at level 1, and after upgrading to maximum (level 30), the Lady Liberty increases gained INTEL, Maps, Loot, and Cells by 10% and can then be unsealed with [[Weekly Events|Magic Potion]]. This is generally best for grinding for extra resources and not good for combat. The recommended order of upgrading is INTEL > Cells > Loot > Treasure Maps.
+
+== [[Ghost Ship]] ==
+[[File:Ghost Ship.png|100px|left|alt=Ghost Ship]]
+The dead is still here!
+
+1. Acquire [[Britland INTEL#Fleet Management|Fleet Management INTEL tile 8 "Age of Exploration"]] to unlock the [[Mysterious Sea]]
+
+2. Clear 100% of the first 5 seas to obtain [[Kraken Trumpet|<span style="color:var(--green-text)">Kraken Trumpet</span>]]
+
+3. Unlock the [[Mysterious Sea#Doomsday Sea|Doomsday Sea]] and activate the Psychic Tower
+
+4. Travel to the top right corner of the floor and defeat the Ghost Ship 
+{{clear}}
+
+When first obtained in [[Britland]], the Ghost Ship reduces enemy Earth, Water, Fire, and Wind RES by 2, reduces enemy CRIT by 0.4%, and reduces enemy HIT by 0.2%. This is at level 1, and after upgrading to maximum (level 30), the Ghost Ship reduces enemy Earth, Water, Fire, and Wind RES by 100, reduces enemy CRIT by 20%, and reduces enemy HIT by 10%. and can then be unsealed with [[Weekly Events|Magic Potion]]. Note that while ELMT REDUC applies to all enemies, CRIT and HIT reductions only apply to other players. It is recommended to use this for all PvP battles, specifically the [[Minigames|Snail Arena]].
+
+== [[Ma'at Tablet]] ==
+[[File:Ma'at tablet alt.png|alt="An image of the Ma'at Tablet from the upgrade page"|100px|right|frameless]]
+
+[[File:Ma'at Tablet.png|100px|left|alt=Ma'at Tablet]]
+A magic slate that traverses time! Grants Sand of Time in explorations, the sand can be converted to Speedups!
+
+1. Obtain by defeating the [[Kemet]] Apostle [[Kemet Apostles#Eli Basha|Eli Basha]].
+{{clear}}
+
+The Ma'at Tablet is a unique Realm Trait that can be used to travel to the past or future of each [[Realms|Realm]]. The tablet can be equipped during exploration to collect Sand of Time which can be used to buy various Speedups.
+
+[[Kemet]] is the only Realm where you can travel to the past or future without the Ma'at Tablet equipped. Upgrading the tablet allows you to travel to the past and future of previous [[Realms|realms]].
+
+== [[Cosmos]] ==
+[[File:Cosmos.png|100px|left|alt=Cosmos]]
+Cosmos, answer my call! Awaken the astral power at the beginning of the battle!
+
+1. Spend 30 {{RewardIconWithText|Star Dust}} on the [[Shining Athena]] screen.
+{{clear}}
+
+When first obtained in [[Hellas]], Cosmos does nothing. It requires being upgraded with {{RewardIconWithText|Star Dust}} to activate and unlock its power. After it is upgraded to it's maximum level of 180 it can then be unsealed with [[Weekly Events|Magic Potion]].
+
+== [[Dragon Horse]] == 
+[[File:Dragon Horse.png|100px|left|alt=Dragon Horse]]
+Chant to become a Buddha!<br>Gain extra exploration rewards and sutras!
+
+1. Dragon horse can be obtained after completing the [[Journey_to_the_West#Adversities|53rd Adversity]] in [[Journey to the West]] in [[Bharata]].
+{{clear}}
+
+The Dragon Horse functions similarly to  the [[#Ma'at Tablet|Ma'at Tablet]], rewarding you with various sutras at the end of your exploration that can be redeemed for cells and novice scrolls. This trait can be acquired by completing the 53rd Adversity in the [[Journey to the West]] from [[Bharata]].

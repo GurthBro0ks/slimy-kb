@@ -1,0 +1,15 @@
+{{CargoRelic
+|name=Indestructible Body
+|rank=Green
+|affct=FTH
+|source=Defeating Frog Vajra
+|description=After years of training, the Milk Dragon forged an invincible golden form... though it still has unexpected weaknesses.
+|fame=14
+|art=15
+|fth=29
+|civ=14
+|tech=18
+|ss1=Each round, Ri-Ribbit DEF +1<br>Per 3 Shrine Frog Zaps, Ri-Ribbit DEF +1<br>Frogs Killed: 30/30
+|ss2=Each round, Ri-Ribbit DEF +2<br>Per 3 Shrine Frog Zaps, Ri-Ribbit DEF +2<br>Frogs Killed: 30/30
+|ss3=Each round, Ri-Ribbit DEF +3<br>Per 3 Shrine Frog Zaps, Ri-Ribbit DEF +3<br>Frogs Killed: 30/30
+}}

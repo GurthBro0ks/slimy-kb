@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=Janssen Microscope
+|rank=Blue
+|affct=TECH
+|birthday=04-16
+|source=* Evolution Chest (2%), Lottery Machine (0.07%), Novice Scrolls (1%), Wishing (2.6%)
+* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})
+|description=On Apr 16, 1590, Zacharias Janssen and his son invented the world's first microscope.
+
+Janssen made a microscope by putting a concave and convex lens together. Due to the low quality, it can only magnify things up to 10 times bigger more than an ordinary magnifying glass does and cannot be used to see microorganisms. After many tries, he finally made a microscope that can magnify things 300 times and finally allows people to observe microorganisms.
+
+[History of Microscopy]
+
+20 years later, Leeuwenhoek invented microscope 720x. The duplex microscope was first created in the 19th century.
+|fame=23
+|art=27
+|fth=30
+|civ=28
+|tech=46
+|ss1=Per 5 Cloning Tank LVLs, Snail HP +40<br>Cloning Tank LVL: 50/50
+|ss2=Per 5 Cloning Tank LVLs, Snail HP +80<br>Cloning Tank LVL: 50/50
+|ss3=Per 5 Cloning Tank LVLs, Snail HP +120<br>Cloning Tank LVL: 50/50
+|ss4=Per 5 Cloning Tank LVLs, Snail HP +200<br>Cloning Tank LVL: 50/50
+|ss7=Per 5 Cloning Tank LVLs, Snail HP +200<br>Cloning Tank LVL: 50/50<br>Snail HP +500 (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]] Place in Gene Sim Device: This Relic's TECH +5
+}}
+
+[[Category:Cloning Tank Boost]]
+[[Category:HP Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:TECH Boost]]
+[[Category:Offering Reward Boost]]
+[[Category:Gene Research Speedup Boost]]
+[[Category:Wood Golem Boost]]
+[[Category:Indigent Nobleman Relics]]

@@ -1,0 +1,17 @@
+{{Shell
+|name=King's New Clothes
+|image=King's New Clothes.png
+|description=If you don't see anything after putting it on, then you are a fool. This is the most beautiful outfit in the world.
+|affct=ART
+|hard=RUSH
+|source=[[Altar#One_time_wishes|Dragon Wish "I'm done being a snail!"]]
+|color=purple
+|earth=6
+|water=6
+|fire=7
+|wind=7
+|form=Dragon
+|element=Wind
+|realm=Cathay
+|orangehard=ATK 
+}}

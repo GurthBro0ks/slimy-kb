@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Athena Statue
+|rank=SSS
+|affct=ART
+|birthday=04-01
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Super Treasure Maps (0.03%), Wishing (0.08%)
+|description=On Apr 1, 438 BC, Phidias carved this Athena statue for the Parthenon. 
+
+The 13-meter-high statue of Athena is made of wood and inlaid with ivory and gold. As one of the gods of Olympus, she wears a battle helmet and a long Greek dress with serpentine trim. A human face is centered in the breastplate. The statue personifies more humanity than divinity. During the Byzantine Empire era, the original was destroyed, so only a replica remains.
+|fame=51
+|art=106
+|fth=69
+|civ=76
+|tech=60
+|ss1=When offering, 2x Divine Chest Drops +1.5%<br>Per 3 ART Relics gained, Snail ATK +12<br>Per 3 ART Relics gained, Snail RUSH +12<br>ART Relics: 60/60
+|ss2=When offering, 2x Divine Chest Drops +2%<br>Per 3 ART Relics gained, Snail ATK +16<br>Per 3 ART Relics gained, Snail RUSH +16<br>ART Relics: 60/60
+|ss3=When offering, 2x Divine Chest Drops +2.5%<br>Per 3 ART Relics gained, Snail ATK +20<br>Per 3 ART Relics gained, Snail RUSH +20<br>ART Relics: 60/60
+|ss4=When offering, 2x Divine Chest Drops +3.5%<br>Per 3 ART Relics gained, Snail ATK +28<br>Per 3 ART Relics gained, Snail RUSH +28<br>ART Relics: 60/60
+|ss5=When offering, 2x Divine Chest Drops +4.5%<br>Per 3 ART Relics gained, Snail ATK +36<br>Per 3 ART Relics gained, Snail RUSH +36<br>ART Relics: 60/60
+|ss6=When offering, 2x Divine Chest Drops +6%<br>Per 3 ART Relics gained, Snail ATK +48<br>Per 3 ART Relics gained, Snail RUSH +48<br>ART Relics: 60/60
+|ss7=When offering, 2x Divine Chest Drops +6%<br>Per 3 ART Relics gained, Snail ATK +48<br>Per 3 ART Relics gained, Snail RUSH +48<br>ART Relics: 60/60<br>When offering, 2x Divine Chest Drops +5% (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: CRIT DMG +30%
+|skill2=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: DMG REDUC +15%
+|skill3=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Ignore DEF +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Divine Chest Drop Boost]]
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Relic Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:Crit DMG Boost]]
+[[Category:DMG REDUC Boost]]
+[[Category:Ignore DEF Boost]]
+[[Category:Power Boost]]
+[[Category:HP Boost]]
+[[Category:Rewards Crystal of Will]]
+[[Category:Slug Dragonling Boost]]

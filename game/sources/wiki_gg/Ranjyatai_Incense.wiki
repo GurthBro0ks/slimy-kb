@@ -1,0 +1,37 @@
+''This page is about the relic, Ranjyatai Incense. For the game mechanic and consumable item, see [[Incense]].''
+
+{{CargoRelic
+|name=Ranjyatai Incense
+|rank=Blue
+|affct=FTH
+|birthday=04-24
+|source=Lottery Machine (0.07%), Wishing (2.1%), Novice Scrolls (1%)
+|description=On Apr 24, AD 756, Empress Komyo presented the Ranjyatai to Todai-ji. Since then, it has been kept there for 1,300 years. 
+
+This incense wood is preserved in Todai-ji. It is about 16 cm long and weighs 26 catties. It is a type of fragrant yellow-brown, containing naimuxinal and exudes a fragrance of orchids. As a precious national treasure collected by the royal family, it is known as the most fragrant wood in the world. 
+
+[Usage]
+
+Ashikaga Yoshimasa, September of the second year of Kansho, about 7.7 cm burnt.
+
+General Oda, March of the second year of Tensho, about 7 cm burnt. 
+
+Politician Tokugawa, June of the seventh year of Keicho, about 7 cm burnt.
+|fame=30
+|art=28
+|fth=45
+|civ=23
+|tech=28
+|ss1=In any Realm, Demon Cells gained +1%
+|ss2=In any Realm, Demon Cells gained +2%
+|ss3=In any Realm, Demon Cells gained +3%
+|ss4=In any Realm, Demon Cells gained +5%
+|ss7=In any Realm, Demon Cells gained +5%<br>In any Realm, Demon Cells gained +5%
+|skill1=[[File:Yamato skill I.png|50px]]Place in Yamato Museum: In Yamato, FTH Checks -5
+}}
+
+[[Category:Demon Cell Drop Boost]]
+[[Category:Zombie Gene Boost]]
+[[Category:Demon Gene Boost]]
+[[Category:Wraith Boost]]
+[[Category:Little Monk Boost]]

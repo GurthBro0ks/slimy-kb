@@ -1,0 +1,27 @@
+{{Missing Info|specifics=form, element, realm, second HARD}}
+
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=Snail Shell originally belonged to Captain Planet (alias), who was extremely intelligent. The Snail Shell is able to generate unlimited power and is one of the Captain's outstanding creations.
+|affct=TECH
+|hard=ATK
+|source=
+{{Memetic Catalyst
+|number=8119
+|relic1=Psionic Jammer
+|relic2=Runes
+|relic3=Diffraction Device
+|relic4=Susan's Horn
+|relic5=Time Crystal
+}}
+|color=green
+|earth=1
+|water=3
+|fire=0
+|wind=2
+|form=
+|element=
+|realm=
+|orangehard=
+}}

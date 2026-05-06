@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Adamantium,Gunfire in Pennsylvania
+|rank=orange
+|amount=2
+|category=self
+|description=Per 3 Dorm Decors gained, Snail DEF +7; Dorm Decor Gained: 150/150
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Galileo Thermometer
+|class_id=22608
+|rank=AAA
+|affct=TECH
+|birthday=05-09
+|source=
+|description=On May 9, 1593 AD, Italian scientist Galileo invented the world's first thermometer.<br>It is made up of a glass cylinder filled with transparent liquid and objects of different densities. As the temperature changes, the density of the liquid changes, causing the suspended objects to move up or down until they reach equilibrium with the surrounding liquid.
+|fame=49
+|art=32
+|fth=48
+|civ=43
+|tech=71
+|ss1=Per 30 Mecha Minions in battle:<br>> Troop ATK +12<br>Per Mecha Form Tier, Snail ATK +12<br>Mecha Form Tiers: 9/9
+|ss2=Per 30 Mecha Minions in battle:<br>> Troop ATK +16<br>Per Mecha Form Tier, Snail ATK +16<br>Mecha Form Tiers: 9/9
+|ss3=Per 30 Mecha Minions in battle:<br>> Troop ATK +20<br>Per Mecha Form Tier, Snail ATK +20<br>Mecha Form Tiers: 9/9
+|ss4=Per 30 Mecha Minions in battle:<br>> Troop ATK +28<br>Per Mecha Form Tier, Snail ATK +28<br>Mecha Form Tiers: 9/9
+|ss5=Per 30 Mecha Minions in battle:<br>> Troop ATK +36<br>Per Mecha Form Tier, Snail ATK +36<br>Mecha Form Tiers: 9/9
+|ss7=Per 30 Mecha Minions in battle:<br>> Troop ATK +36<br>Per Mecha Form Tier, Snail ATK +36<br>Mecha Form Tiers: 9/9<br>Per 30 Mecha Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Card Drops +3%
+}}

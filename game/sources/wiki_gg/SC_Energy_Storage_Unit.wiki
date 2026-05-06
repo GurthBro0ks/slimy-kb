@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=SC Energy Storage Unit
+|class_id=22330
+|rank=SS
+|affct=TECH
+|birthday=10-07
+|source=Lottery Machine No.2 (0.42%), Wishing (1.6%)
+|description=On Oct 7, 1971 AD, the world's first superconducting energy storage unit debuted.<br>A superconducting energy storage unit is a device that uses superconductors' ability to have zero resistance at low temperatures to store electromagnetic energy for a long time. In a typical coil, the heat produced by the conductor's resistance results in a constant loss of electrical energy. To minimize losses when storing electrical energy, the device uses a superconductor coil capable of producing zero resistance at extremely low temperatures. As a result, it has a quick response time, a large storage capacity, and a long service life.
+|fame=68
+|art=46
+|fth=69
+|civ=61
+|tech=103
+|ss1=Snail HP +200<br>Snail ATK +20<br>In the Gaia Rocket Cabin:<br>> EMP Base Effect +16%
+|ss2=Snail HP +300<br>Snail ATK +30<br>In the Gaia Rocket Cabin:<br>> EMP Base Effect +24%
+|ss3=Snail HP +400<br>Snail ATK +40<br>In the Gaia Rocket Cabin:<br>> EMP Base Effect +32%
+|ss4=Snail HP +600<br>Snail ATK +60<br>In the Gaia Rocket Cabin:<br>> EMP Base Effect +48%
+|ss5=Snail HP +800<br>Snail ATK +80<br>In the Gaia Rocket Cabin:<br>> EMP Base Effect +64%
+|ss6=Snail HP +1100<br>Snail ATK +110<br>In the Gaia Rocket Cabin:<br>> EMP Base Effect +88%
+|ss7=Snail HP +1100<br>Snail ATK +110<br>In the Gaia Rocket Cabin:<br>> EMP Base Effect +88%<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15
+|skill2=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Mutant Cells gained +30%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Reagent Drops +6%
+|mirage={{Mirage|name=Superconducting Storage|reward={{RewardIconWithLink|Refine Speedup, +28800|orange}}
+|3name=Superconducting Coil|3rec=11.31M|3atk=87093|3defense=58103|3hp=2259490|3weak=15028
+|4name=Refrigeration Device|4rec=22.19M|4atk=112591|4defense=75114|4hp=3627694|4weak=18190
+|5name=Inverter|5rec=36.06M|5atk=141848|5defense=94632|5hp=5696349|5weak=19557
+|Arec=52.26M|Aatk=176002|Adefense=117418|Ahp=8428103|Aweak=22167
+}}}}

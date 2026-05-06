@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Devourer
+|rank=purple
+|cabin=2
+|id=79
+|gene1={race} HP +300
+|gene2={race} CIV +30
+|gene3=Per 30 Mutant Minions in battle:
+> Troop HP +80
+|gene4=Each round, {race} HP +200
+|gene5=Per 30 Mutant Minions in battle:
+> Troop HP +120
+|gene6=Each round, {race} HP +300
+|}}

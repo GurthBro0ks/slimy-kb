@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Smurphette
+|class_id=20043
+|rank=Green
+|affct=FAME
+|source=
+|description=Every time they see this blue ball of play dough, the Smurphes can't help recalling the time when they were dominated by Gagamel. The friendly and kind Smurphes fought against each other because of the wizard.
+|fame=30
+|art=13
+|fth=16
+|civ=12
+|tech=19
+|ss1=Lottery White Orbs turn to Green by +0.2%
+|ss2=Lottery White Orbs turn to Green by +0.4%
+|ss3=Lottery White Orbs turn to Green by +0.6%
+|ss4=Lottery White Orbs turn to Green by +0.6%
+|ss7=Lottery White Orbs turn to Green by +0.6%<br> (Awakened)
+}}

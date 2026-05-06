@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Nugget Awards,Phial of Galadrial,Letters for Josephine,V8 Engine,San Plate,Helmholtz Coil
+|rank=purple
+|amount=6
+|category=minion
+|description=Snail Leadership +10
+}}
+[[Category:Minion]]
+[[Category:Leadership Boost]]

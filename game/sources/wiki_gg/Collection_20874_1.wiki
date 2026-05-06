@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20874_1
+|class_id=20874
+|rank=Green
+|affct=TECH
+|source=
+|description=collection@20874_2
+|fame=15
+|art=14
+|fth=13
+|civ=15
+|tech=32
+|ss1=Snail HP +100<br>Per Minigame installed, Snail DEF +2<br>Minigames Installed: 20/20
+|ss2=Snail HP +200<br>Per Minigame installed, Snail DEF +4<br>Minigames Installed: 20/20
+|ss3=Snail HP +300<br>Per Minigame installed, Snail DEF +6<br>Minigames Installed: 20/20
+|ss4=Snail HP +300<br>Per Minigame installed, Snail DEF +6<br>Minigames Installed: 20/20
+|ss7=Snail HP +300<br>Per Minigame installed, Snail DEF +6<br>Minigames Installed: 20/20<br> (Awakened)
+}}

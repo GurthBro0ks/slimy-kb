@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Almagest
+|class_id=20371
+|rank=Green
+|affct=TECH
+|source=
+|description=Almagest is the work of a Greek astronomer named Ptolemy. It contains two fields of science, astronomy and mathematics. For centuries, it has had a major impact on astronomers in the world.
+|fame=14
+|art=17
+|fth=15
+|civ=13
+|tech=31
+|ss1=Snail DEF +10<br>Quantum Amp upgrade B-tad Cost -0.6%
+|ss2=Snail DEF +20<br>Quantum Amp upgrade B-tad Cost -1.2%
+|ss3=Snail DEF +30<br>Quantum Amp upgrade B-tad Cost -1.8%
+|ss4=Snail DEF +30<br>Quantum Amp upgrade B-tad Cost -1.8%
+|ss7=Snail DEF +30<br>Quantum Amp upgrade B-tad Cost -1.8%<br> (Awakened)
+}}

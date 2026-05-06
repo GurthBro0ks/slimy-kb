@@ -1,0 +1,77 @@
+= Form Sequences =
+
+== [[Zombie Form]] ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Brain Parasite}}
+{{IconExampleRowWithText|Alien Hookworm}}
+{{IconExampleRowWithText|Despot Cells}}
+{{IconExampleRowWithText|Antiseptic Stone}}
+|}
+
+== [[Demon Form]] ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Flames of Plague}}
+{{IconExampleRowWithText|Flames of Famine}}
+{{IconExampleRowWithText|Flames of War}}
+{{IconExampleRowWithText|Flames of Death}}
+|}
+
+== [[Angel Form]] ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Gospel of Matthew}}
+{{IconExampleRowWithText|Gospel of Luke}}
+{{IconExampleRowWithText|Gospel of John}}
+{{IconExampleRowWithText|Gospel of the Hebrews}}
+|}
+
+== [[Mutant Form]] ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Alpha Ray}}
+{{IconExampleRowWithText|Beta Ray}}
+{{IconExampleRowWithText|Gamma Ray}}
+{{IconExampleRowWithText|Sigma Ray}}
+|}
+
+== [[Mecha Form]] ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Detection Unit}}
+{{IconExampleRowWithText|Engineering Unit}}
+{{IconExampleRowWithText|Power Unit}}
+{{IconExampleRowWithText|Fire Control Unit}}
+|}
+
+== [[Dragon Form]] ==
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Ice Breath}}
+{{IconExampleRowWithText|Flame Breath}}
+{{IconExampleRowWithText|Emerald Breath}}
+{{IconExampleRowWithText|Holy Breath}}
+{{IconExampleSpacer}}
+{{IconExampleRowWithText|Fairy Dragon Power}}
+|}
+
+= Ritual Items =
+
+== [[Zombie Form]] ==
+
+== [[Demon Form]] ==
+
+== [[Angel Form]] ==
+
+== [[Mutant Form]] ==
+
+== [[Mecha Form]] ==
+
+== [[Dragon Form]] ==
+
+= [[Super Gene Expert]] =
+{{IconExampleHeader}}
+{{IconExampleRowWithText|Zombie Toxin}}||Zombie
+{{IconExampleRowWithText|Flame Core}}||Demon
+{{IconExampleRowWithText|Saint's Book}}||Angel
+{{IconExampleRowWithText|Radioactive Core}}||Mutant
+{{IconExampleRowWithText|Crystal IC Board}}||Mecha
+{{IconExampleRowWithText|Dragon Serum}}||Dragon
+|}
+
+[[Category:Icons]]

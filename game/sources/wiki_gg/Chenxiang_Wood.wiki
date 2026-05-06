@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Chenxiang Wood
+|class_id=20500
+|rank=Green
+|affct=FAME
+|source=
+|description=This item was left behind by Liu Yanchang, Chenxiang's father, who died soon after Saint Mother gave birth to Chenxiang. Although this item was not a powerful treasure, it gave Chenxiang his name and was also a keepsake of his father.
+|fame=30
+|art=17
+|fth=13
+|civ=17
+|tech=13
+|ss1=Lumber Camp produces Ancient Wood by +1%<br>Per 5 Lumber Camp LVLs, Snail HP +20<br>Lumber Camp LVL: 50/50
+|ss2=Lumber Camp produces Ancient Wood by +2%<br>Per 5 Lumber Camp LVLs, Snail HP +40<br>Lumber Camp LVL: 50/50
+|ss3=Lumber Camp produces Ancient Wood by +3%<br>Per 5 Lumber Camp LVLs, Snail HP +60<br>Lumber Camp LVL: 50/50
+|ss4=Lumber Camp produces Ancient Wood by +3%<br>Per 5 Lumber Camp LVLs, Snail HP +60<br>Lumber Camp LVL: 50/50
+|ss7=Lumber Camp produces Ancient Wood by +3%<br>Per 5 Lumber Camp LVLs, Snail HP +60<br>Lumber Camp LVL: 50/50<br> (Awakened)
+}}

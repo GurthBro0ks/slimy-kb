@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Travels of Marco Polo
+|rank=SS
+|affct=FAME
+|birthday=11-02
+|source=Lottery Machine (0.12%), Wishing (0.11%), Grandmaster Scrolls (1%), Relic Forge (100 Relic RF), Club Value Pack II ($49.99)
+|description=On Nov 2, AD 1298, traveler Marco Polo wrote this famous traveloge in prison.
+
+This travelogue was dictated by Marco Polo and recorded and organized by Rustiqian. The book has a total of 220,000 words and is divided into 229 chapters. It's about many countries in Central Asia, West Asia, and Southeast Asia. The narrative center is about China. His footprints covered the North, Northwest, Southwest, and Eastern regions of China. It opened the Europeans' eyes, ignited Renaissance, and drove Europeans to explore the East.
+|fame=105
+|art=57
+|fth=52
+|civ=64
+|tech=69
+|ss1=Snail RUSH +20<br>Travel SPD +0.4%<br>Star Coins from Free Daily Star Coins +10%
+|ss2=Snail RUSH +30<br>Travel SPD +0.6%<br>Star Coins from Free Daily Star Coins +15%
+|ss3=Snail RUSH +40<br>Travel SPD +0.8%<br>Star Coins from Free Daily Star Coins +20%
+|ss4=Snail RUSH +60<br>Travel SPD +1.2%<br>Star Coins from Free Daily Star Coins +30%
+|ss5=Snail RUSH +80<br>Travel SPD +1.6%<br>Star Coins from Free Daily Star Coins +40%
+|ss6=Snail RUSH +110<br>Travel SPD +2.2%<br>Star Coins from Free Daily Star Coins +55%
+|ss7=Snail RUSH +110<br>Travel SPD +2.2%<br>Star Coins from Free Daily Star Coins +55%<br>Upon traveling through an area: Gain +20 INTEL
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x Purple Reagents Drops +15%
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x Orange Reagents Drops +15%
+|skill3=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail RUSH +600
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Relics]]
+[[Category:Orange Relics]]
+[[Category:FAME Relics]]
+[[Category:Orange FAME Relics]]
+[[Category:Travel Speed Boost]]
+[[Category:RUSH Boost]]
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:Star Coin Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Britland Museum Boost]]
+[[Category:Britland Exploration Boost]]

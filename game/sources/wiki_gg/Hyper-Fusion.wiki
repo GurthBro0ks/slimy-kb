@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=Hyper-Fusion
+|type=Common
+|rank=red
+|id=10961
+|idx=154
+|description=Best way to avoid copyright claims? Dissect source material to molecular level before reassembling. When even the creator can't recognize it, you've succeeded!
+-Copyright Evasion Guide
+|skill=
+|hp=2830
+|def=238
+|atk=246
+|rush=303
+|gene1=Per 10 Gene Seg. devoured, {race} RUSH +7
+Specimen devoured: 400/400
+|gene2=Fire DMG +2%
+|gene3=Craft 1 Blue Organ Slime: 10% chance to get 1 more.
+|gene4=Water DMG +2%
+|gene5=Craft 1 Purple Organ Slime: Gain 1 more by 10%
+|gene6=All Cathay General Stats +4%
+|gene7=All Cathay General Stats +4% (Awakened)
+|}}

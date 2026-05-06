@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Armillary Sphere
+|class_id=20394
+|rank=Green
+|affct=TECH
+|source=
+|description=The ancient Chinese believed that the sky was like an egg, the celestial bodies were round like a ball, and the earth was like a yolk. This is the famous theory of the armillary sphere, proposed by the Western Han astronomer Luo Hong. Through long-term observation and scientific calculations, he proved the theory of the armillary sphere and the laws of celestial movement by facts. The Armillary Sphere is the instrument he used to observe the celestial bodies.
+|fame=17
+|art=13
+|fth=11
+|civ=18
+|tech=31
+|ss1=Per 5 Rocket Tech LVLs, Snail DEF +3<br>Per 5 Rocket Tech LVLs, Snail RUSH +3<br>Rocket Tech Upgraded: 50/50
+|ss2=Per 5 Rocket Tech LVLs, Snail DEF +4<br>Per 5 Rocket Tech LVLs, Snail RUSH +4<br>Rocket Tech Upgraded: 50/50
+|ss3=Per 5 Rocket Tech LVLs, Snail DEF +5<br>Per 5 Rocket Tech LVLs, Snail RUSH +5<br>Rocket Tech Upgraded: 50/50
+|ss4=Per 5 Rocket Tech LVLs, Snail DEF +5<br>Per 5 Rocket Tech LVLs, Snail RUSH +5<br>Rocket Tech Upgraded: 50/50
+|ss7=Per 5 Rocket Tech LVLs, Snail DEF +5<br>Per 5 Rocket Tech LVLs, Snail RUSH +5<br>Rocket Tech Upgraded: 50/50<br> (Awakened)
+}}

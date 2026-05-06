@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Supersoldier Serum
+|rank=AAA
+|affct=TECH
+|birthday=09-13
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Evolution Chest (1.5%), Relic Forge (80 Relic RF)
+|description=On Sep 13, 1941, Dr. Erskine developed a super serum that was used to enhance the human body and mind.
+
+The Supersoldier Serum can be used to enhance all the body functions and increase the brain's usage to 100%. Such genetic modification drugs have led to great advancement in science and technology in recent years, and the emergence of enhanced individuals such as the Greek Skull and the Supersoldiers.
+|fame=36
+|art=48
+|fth=35
+|civ=50
+|tech=74
+|ss1=Mutant Minion Cloning SPD +3%<br>Per 30 Mutant Minions in battle, Troop DEF +4
+|ss2=Mutant Minion Cloning SPD +4%<br>Per 30 Mutant Minions in battle, Troop DEF +8
+|ss3=Mutant Minion Cloning SPD +5%<br>Per 30 Mutant Minions in battle, Troop DEF +12
+|ss4=Mutant Minion Cloning SPD +7%<br>Per 30 Mutant Minions in battle, Troop DEF +20
+|ss5=Mutant Minion Cloning SPD +9%<br>Per 30 Mutant Minions in battle, Troop DEF +28
+|ss7=Mutant Minion Cloning SPD +9%<br>Per 30 Mutant Minions in battle, Troop DEF +28<br>Mutant Minion Cloning SPD +7% (Awakened)
+|skill1=[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, Snail ATK +30 each round
+|skill2=[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, Snail DEF +30 each round
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:TECH Relics]]
+[[Category:Purple TECH Relics]]
+[[Category:Mutant Minion Cloning Speed Boost]]
+[[Category:Mutant Minion DEF Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:RUSH Boost]]
+[[Category:Power Boost]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Power]]
+[[Category:Demonic Tentacle Boost]]
+[[Category:Baby Bud Boost]]
+[[Category:Vampire Boost]]

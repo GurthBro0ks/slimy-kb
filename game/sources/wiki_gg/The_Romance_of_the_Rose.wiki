@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=The Romance of the Rose
+|class_id=21354
+|rank=AAA
+|affct=CIV
+|source=
+|description=This is a widely circulated allegorical long poem from medieval France, co-authored by two authors across different periods. The first part, with over four thousand lines, uses the rose to symbolize a noblewoman, telling the story of a poet's love for the rose and the obstacles encountered in pursuit. The second part, with about eighteen thousand lines, sees the poet, with the help of reason and nature, obtaining the rose while criticizing social inequality and the hypocrisy of the church, expressing the social and political views of the lower classes.
+|fame=47
+|art=49
+|fth=37
+|civ=73
+|tech=37
+|ss1=Snail ATK +10<br>Snail DEF +10
+|ss2=Snail ATK +20<br>Snail DEF +20
+|ss3=Snail ATK +30<br>Snail DEF +30
+|ss4=Snail ATK +50<br>Snail DEF +50
+|ss5=Snail ATK +70<br>Snail DEF +70
+|ss7=Snail ATK +70<br>Snail DEF +70<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Skill skill II.png|50px]]??? (Coming soon)
+|skill2=[[File:Skill skill II.png|50px]]??? (Coming soon)
+}}

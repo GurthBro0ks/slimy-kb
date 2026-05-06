@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Golden Fleece
+|rank=Blue
+|affct=FTH
+|birthday=09-24
+|source=Lottery Machine (0.03%), Wishing (0.85%)
+|description=On Sep 24, 3600 BC, Jason finally managed to steal the Golden Fleece.
+
+This Golden Fleece is the treasure of Ares. It was placed in the Holy Forest and guarded by Ladon. Although Ladon lost the Golden Fleece, he survived and breathed a sigh of relief. He once believed a certain psychic who said that his life was closely connected to the Golden Fleece, and that he would die once the Golden Fleece was gone. When Jason stole the Golden Fleece away, Ladon realized that he guarded it for nothing for ten thousand years.
+|fame=28
+|art=25
+|fth=47
+|civ=31
+|tech=23
+|ss1=Free Gene Speedup (Dragon) +6m
+|ss2=Free Gene Speedup (Dragon) +12m
+|ss3=Free Gene Speedup (Dragon) +18m
+|ss4=Free Gene Speedup (Dragon) +30m
+|ss7=Free Gene Speedup (Dragon) +30m<br>Free Gene Speedup (Dragon) +30m (Awakened)
+|skill1=[[File:Hellas skill I.png|50px]] Place in Hellenic Museum: In Hellas, Snail RUSH +20
+}}
+
+[[Category:Dragon Gene Speedup Boost]]
+[[Category:Hellas Museum Boost]]
+[[Category:Hellas Exploration Boost]]
+[[Category:RUSH Boost]]
+[[Category:Relic Boost]]
+[[Category:DEF Boost]]
+[[Category:Time Chest Output]]
+[[Category:Catcolyte Boost]]

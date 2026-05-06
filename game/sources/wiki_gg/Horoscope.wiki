@@ -1,0 +1,40 @@
+{{CargoRelic
+|name=Horoscope
+|rank=Blue
+|affct=FTH
+|birthday=02-20
+|source=Lottery Machine (0.07%), Nebula Chest (2%), Novice Scrolls (1%), Wishing (2.1%)
+|description=On Feb 20, 1459 BC, the Old Babylonian Empire drew this early astronomical map.
+
+Babylonian priest, Sarikranu, discovered a dazzling star in the west and engraved what he saw on the stone for divination and prophecy. THe prophecy said a holy king would be born in the west. A few years later, traveling merchants from Greece delivered the news that on the day when the star appeared, a new Mycenaean prince was born. His name was Agamemnon. 
+
+[Calculation System]
+
+House system: Each horoscope sits in one house.
+
+Equal division: From the ascendant, each house is 30 degrees
+
+Alcabitius House System: Divides the quadrants from the ascendant to MC in three equal parts
+
+Regiomontanus House System: Divides the celestial equator into 12 equal parts
+
+Placidus Houses System: The most common astrological system
+
+Koch House System: Am extension of the Placidus system
+|fame=27
+|art=32
+|fth=47
+|civ=29
+|tech=19
+|ss1=Wood rewards from offering +0.4%
+|ss2=Wood rewards from offering +0.8%
+|ss3=Wood rewards from offering +1.2%
+|ss4=Wood rewards from offering +2%
+|ss7=Wood rewards from offering +2%<br>Wood rewards from offering +2% (Awakened)
+|skill1=[[File:Genesim skill I.png|50px]] Place in Gene Sim Device: This Relic's FTH +5
+}}
+
+[[Category:Offering Reward Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]

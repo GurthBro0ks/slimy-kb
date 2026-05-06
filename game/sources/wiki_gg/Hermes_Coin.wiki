@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Hermes' Coin
+|rank=AA
+|affct=FTH
+|birthday=11-22
+|source=Fragment Crafting (3.8%), Lottery Machine (0.08%), Wishing (0.35%), Expert Scrolls (0.95%)<br>[[Altar#Gods_of_the_Pantheon|God of Faith]] Descent
+|description=On Nov 22, 6000 BC, Hermes tearfully bought his own statue with this gold coin. 
+
+In order to test his status among the people, Hermes brought this gold coin to the statue maker. He took out the gold coin and asked for the price of the statues of Zeus and Hera. He was happy with what he heard. He thought this price would be higher since he is the God of Trade. So, he pointed to his statue and asked for the price, but the statue maker said it was an unfinished product. Hermes was deeply hurt by what he heard.
+|fame=35
+|art=38
+|fth=67
+|civ=42
+|tech=46
+|ss1=Per 3 FTH Relics gained, Snail HP +80<br>Per 3 FTH Relics gained, Snail RUSH +8<br>FTH Relics: 60/60
+|ss2=Per 3 FTH Relics gained, Snail HP +120<br>Per 3 FTH Relics gained, Snail RUSH +12<br>FTH Relics: 60/60
+|ss3=Per 3 FTH Relics gained, Snail HP +160<br>Per 3 FTH Relics gained, Snail RUSH +16<br>FTH Relics: 60/60
+|ss4=Per 3 FTH Relics gained, Snail HP +240<br>Per 3 FTH Relics gained, Snail RUSH +24<br>FTH Relics: 60/60
+|ss5=Per 3 FTH Relics gained, Snail HP +320<br>Per 3 FTH Relics gained, Snail RUSH +32<br>FTH Relics: 60/60
+|ss7=Per 3 FTH Relics gained, Snail HP +320<br>Per 3 FTH Relics gained, Snail RUSH +32<br>FTH Relics: 60/60<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Quarry skill II.png|50px]] Place in Quarry: Stone Output +15%
+|skill2=[[File:Quarry skill II.png|50px]] Place in Quarry: Quarry Max Cap +15%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:FTH Relics]]
+[[Category:Purple FTH Relics]]
+[[Category:HP Boost]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by FTH Relics]]
+[[Category:Quarry Output Boost]]
+[[Category:DEF Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Altar Descent Relics]]
+[[Category:Sanctum Warrior Boost]]

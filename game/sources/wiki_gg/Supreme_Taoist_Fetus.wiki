@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Supreme Taoist Fetus
+|type=Common
+|rank=red
+|id=10920
+|idx=131
+|description=Super Gene's failed attempt to mass-produce cultivators by reverse-engineering a 5,000-year-old fetus found in a Taoist's basement freezer. The clones kept reciting blockchain mantras.
+|skill=
+|hp=3780
+|def=238
+|atk=244
+|rush=210
+|gene1=Fire DMG +120
+|gene2=In Gene Sims, {race} ATK +100
+|gene3=In Gene Sims, Ignore DEF +4%
+|gene4=Gene Simulation Power Checks -8%
+|gene5=In Gene Sims, Round 1 DMG +20%
+|gene6=Wind DMG +120
+|gene7=In Gene Sims, Ignore DEF +4% (Awakened)
+|}}

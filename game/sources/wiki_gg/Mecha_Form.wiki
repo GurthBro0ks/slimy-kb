@@ -1,0 +1,673 @@
+{{Form|formName=Mecha|image1=Mecha Form I.png|caption-image1=The Mecha Form is programmed to optimize exploration gains. In this form, you collect whatever building material that shows up on your radar.}}
+
+==Mecha Sequences==
+The Mecha traits are acquired by repairing segments of [[Rocket]] and all four are required to obtain the T4 Mutant Evolution.
+{| class="wikitable" style="text-align:center;" cellpadding="10"
+!Trait !!Source !!Boosts !!Rewards
+|-
+|{{RewardIconWithText|Detection Unit}}
+| Cockpit Module of the [[Rocket]]
+|In Mecha Form, Snail HP +5%<br>Explore in Mecha Form, gain +2% Tool Chests<br>Free Research Speedup (Mecha) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Mecha Cell, +1.2k}}<br>{{RewardIconWithLink|Tool Chest, +50}}
+|-
+|{{RewardIconWithText|Engineering Unit}}
+| Bunker Module of the [[Rocket]]
+|In Mecha Form, Snail ATK +5%<br>Explore in Mecha Form, gain +2% Tool Chests<br>Free Research Speedup (Mecha) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Mecha Cell, +1.2k}}<br>{{RewardIconWithLink|Tool Chest, +50}}
+|-
+|{{RewardIconWithText|Power Unit}}
+| Thruster Module of the [[Rocket]]
+|In Mecha Form, Snail DEF +5%<br>Explore in Mecha Form, gain +2% Tool Chests<br>Free Research Speedup (Mecha) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Mecha Cell, +1.2k}}<br>{{RewardIconWithLink|Tool Chest, +50}}
+|-
+|{{RewardIconWithText|Fire Control Unit}}
+| Defeat the Subway Conductor<br> Found on Floor 33 of the [[Fissure]]
+|In Mecha Form, Snail RUSH +5%<br>Explore in Mecha Form, gain +2% Tool Chests<br>Free Research Speedup (Mecha) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Mecha Cell, +1.2k}}<br>{{RewardIconWithLink|Tool Chest, +50}}
+|}
+
+==Tiers and Stats==
+
+===Base Stats===
+Below is each Tier and their base stats in Mecha Form. The stat bonus provided by obtaining form sequences is not included until Tier 4 as it requires all four sequences to be activated.
+
+{| class="wikitable" style="text-align:center;" cellpadding="10"
+!Tier !!Form !!HP !!ATK !!DEF !!RUSH !!Bonuses
+|-
+|I
+|Steel
+| +10%
+| +10%
+| +20%
+| +20%
+| When in Mecha Form, gain +10% Tool Chests in exploration
+|-
+|II
+|Assembly Line
+| +15%
+| +15%
+| +20%
+| +20%
+|
+|-
+|III
+|Industrial Revolution
+| +15%
+| +15%
+| +30%
+| +30%
+|When in Mecha Form, gain +20% Tool Chests in exploration
+|-
+|IV
+|A.I.
+| +25%
+| +25%
+| +35%
+| +35%
+| When in Mecha Form, gain +33% Tool Chests in exploration<br>Free Gene Speedup (Mecha) +20m<br>In Mecha Form Trial, +30%
+|-
+|V
+|Armored Vehicle
+| +25%
+| +25%
+| +45%
+| +45%
+| When in Mecha Form, gain +38% Tool Chests in exploration<br>Free Gene Speedup (Mecha) +20m
+|-
+|VI
+|Materialism
+| +30%
+| +30%
+| +45%
+| +45%
+| When in Mecha Form, gain +43% Tool Chests in exploration<br>Free Gene Speedup (Mecha) +20m
+|}
+
+===Extra Boosts===
+After T4, TECH [[relics]] can be awakened for extra boosts.
+{| class="wikitable" style="text-align:center;" cellpadding="8"
+!Relics Awakened
+!Boosts
+|-
+|1
+|In All Forms, Snail DEF +50
+|-
+|10
+|In All Forms, Snail DEF +550
+|-
+|20
+|
+|}
+
+==Gene Research==
+After unlocking Mecha Form during early [[Evolution]], the Super Gene Expert will arrive in the [[Mailbox]] to give you the parts necessary to unlock the Research Machine. 
+
+[[File:Mecha Gene Research.png|left]]
+
+Research is divided according to the Tier of your Form, abbreviated to T1, T2, T3, etc. This is further divided into 8 separate research segments. The numbered list on the left shows an example DNA strand where 1A-1C is on the left and 2A-2C is on the right. These will switch back and forth with each tier, however 1 is always blue and corresponds to Snail Stat boosts across all Forms and 2 is always ?? and corresponds to Troop Stat boosts according to Demon Minions in battle. The middle segment gives special bonuses and the last segment unlock the Ritual required to ascend to the next form.
+
+=== Research Order ===
+Note that items must be researched in a certain order, generally from top to bottom. Each segment has a certain number of levels and can only be researched as high as the previous segment. If 1A is only Lv.3 out of 5, 1B can only be researched to Lv.3 as well. The middle bubble can only be researched as high as the lowest of either B segment. If 1B is Lv.2 and 2B is Lv.1, the middle bubble can only be researched to Lv.1, etc. The final bubble can only be researched (always 1 level) when all other research before it is completed and will give the necessary ritual steps to ascend to the next tier.
+
+{{Clear}}
+
+==Evolution==
+Upgrading Mecha Form requires Mecha Cells and a certain amount of TECH. This Form is best used in [[Murika]] and increases the chance of finding Tool Chests. For this table 1 is the first two nodes, 2 is the middle three nodes (B is the center node), and 3 is the last two nodes.
+<tabber>
+|-|T1=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+|-
+!Time(min)!!Cells!!B-tads
+|-
+| I || 1 || 10 || 100 || 50
+|-
+| 1A&B || 1 || 20 || 100 || 50
+|-
+| 2A&C || 1 || 30 || 150 || 75
+|-
+| 2B || 1 || 30 || 150 || 75
+|-
+| 3A&B || 1 || 40 || 200 || 100
+|-
+| II || 1 || 60 || 600 || 300
+|-
+| Total:|| 9 || 680 || 3800 || 1900
+{{{t1Rows|}}}
+|}
+|-|T2=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+|-
+!Time(min)!!Cells!!B-tads
+|-
+| 1A&B || 1 || 60 || 250 || 250
+|-
+| 2A&C || 1 || 75 || 300 || 300
+|-
+| 2B || 1 || 75 || 300 || 300
+|-
+| 3A&B || 1 || 90 || 350 || 350
+|-
+| III || 1 || 180 || 1200 || 1200
+|-
+| Total:|| 8 || 1740 || 7800 || 7500
+{{{t2Rows|}}}
+|}
+|-|T3=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+|-
+!Time(min)!!Cells!!B-tads
+|-
+| 1A&B || 1 || 90 || 400 || 600
+|-
+| || 2 || 120 || 600 || 900
+|-
+| || 3 || 150 || 800 || 1200
+|-
+| || 4 || 180 || 1000 || 1500
+|-
+| || 5 || 210 || 1200 || 1800
+|-
+| 2A&C || 1 || 105 || 600 || 900
+|-
+| || 2 || 150 || 900 || 1350
+|-
+| || 3 || 195 || 1200 || 1800
+|-
+| || 4 || 240 || 1500 || 2250
+|-
+| || 5 || 285 || 1800 || 2700
+|-
+| 2B || 1 || 105 || 600 || 900 
+|-
+| 3A&B || 1 || 120 || 800 || 1200
+|-
+| || 2 || 180 || 1200 || 1800
+|-
+| || 3 || 240 || 1600 || 2400
+|-
+| || 4 || 300 || 2000 || 3000
+|-
+| || 5 || 360 || 2400 || 3600
+|-
+| IV || 1 || 360 || 21600 || 3000
+|-
+| Total:|| 32 || 6315|| 58200|| 57900
+{{{t3Rows|}}}
+|}
+|-|T4=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+|-
+!Time(hr)!!Cells!!B-tads
+|-
+| 1A&B || 1 || 2 || 1000 || 2000
+|-
+| || 2 || 3.5 || 1800 || 3600
+|-
+| || 3 || 5 || 2600 || 5200
+|-
+| || 4 || 6.5 || 3400 || 6800
+|-
+| || 5 || 8 || 4200 || 8400
+|-
+| 2A&C || 1 || 3 || 2000 || 4000
+|-
+| || 2 || 5 || 3600 || 7200
+|-
+| || 3 || 7 || 5200 || 10400
+|-
+| || 4 || 9 || 6800 || 13600
+|-
+| || 5 || 11 || 8400 || 16800
+|-
+| 2B || 1 || 3 || 2000 || 4000
+|-
+| 3A&B || 1 || 4 || 3000 || 6000
+|-
+| || 2 || 7 || 5400 || 10800
+|-
+| || 3 || 10 || 7800 || 15600
+|-
+| || 4 || 13 || 10200 || 20400
+|-
+| || 5 || 16 || 12600 || 25200
+|-
+| V || 1 || 24 || 15000 || 30000
+|-
+| Total:|| 32 || 247 || 173000 || 346000
+{{{t4Rows|}}}
+|}
+|-|T5=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+|-
+!Time(hr)!!Cells!!B-tads
+|-
+| 1A&B|| 1 || 6 || 4000 || 10000
+|-
+| || 2 || 9 || 5000 || 12500
+|-
+| || 3 || 12 || 6000 || 15000
+|-
+| || 4 || 15 || 7000 || 17500
+|-
+| || 5 || 18 || 8000 || 20000
+|-
+| || 6 || 21 || 9000 || 22500
+|-
+| || 7 || 24 || 10000 || 25000
+|-
+| || 8 || 27 || 11000 || 27500
+|-
+| || 9 || 30 || 12000 || 30000
+|-
+| || 10 || 33 || 13000 || 32500
+|-
+| 2A&C|| 1 || 8 || 6000 || 15000
+|-
+| || 2 || 12 || 7500 || 18750
+|-
+| || 3 || 16 || 9000 || 22500
+|-
+| || 4 || 20 || 10500 || 26250
+|-
+| || 5 || 24 || 12000 || 30000
+|-
+| || 6 || 28 || 13500 || 33750
+|-
+| || 7 || 32 || 15000 || 37500
+|-
+| || 8 || 36 || 16500 || 41250
+|-
+| || 9 || 40 || 18000 || 45000
+|-
+| || 10 || 44 || 19500 || 48750
+|-
+| 2B|| 1 || 20 || 20000 || 50000
+|-
+| || 2 || 40 || 40000 || 100000
+|-
+| || 3 || 60 || 60000 || 150000
+|-
+| 3A&B|| 1 || 10 || 8000 || 20000
+|-
+| || 2 || 15 || 10000 || 25000
+|-
+| || 3 || 20 || 12000 || 30000
+|-
+| || 4 || 25 || 14000 || 35000
+|-
+| || 5 || 30 || 16000 || 40000
+|-
+| || 6 || 35 || 18000 || 45000
+|-
+| || 7 || 40 || 20000 || 50000
+|-
+| || 8 || 45 || 22000 || 55000
+|-
+| || 9 || 50 || 24000 || 60000
+|-
+| || 10 || 55 || 26000 || 65000
+|-
+| VI|| 1 || 120 || 30000 || 75000
+|-
+| Total:|| 64 || 1800 || 915000 || 2287500
+{{{t5Rows|}}}
+|}
+|-|T6=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+|-
+!Time(hr)!!Cells!!B-tads
+|-
+| 1A&B|| 1 || 12 || 10000 || 50000
+|-
+| || 2 || 20 || 12500 || 62500
+|-
+| || 3 || 28 || 15000 || 75000
+|-
+| || 4 || 36 || 17500 || 87500
+|-
+| || 5 || 44 || 20000 || 100000
+|-
+| || 6 || 52 || 22500 || 112500
+|-
+| || 7 || 60 || 25000 || 125000
+|-
+| || 8 || 68 || 27500 || 137500
+|-
+| || 9 || 76 || 30000 || 150000
+|-
+| || 10 || 84 || 32500 || 162500
+|-
+| 2A&C|| 1 || 15 || 12000 || 60000
+|-
+| || 2 || 25 || 15000 || 75000
+|-
+| || 3 || 35 || 18000 || 90000
+|-
+| || 4 || 45 || 21000 || 105000
+|-
+| || 5 || 55 || 24000 || 120000
+|-
+| || 6 || 65 || 27000 || 135000
+|-
+| || 7 || 75 || 30000 || 150000
+|-
+| || 8 || 85 || 33000 || 165000
+|-
+| || 9 || 95 || 36000 || 180000
+|-
+| || 10 || 105 || 39000 || 195000
+|-
+| 2B|| 1 || 72 || 50000 || 120000
+|-
+| || 2 || 216 || 150000 || 360000
+|-
+| || 3 || 360 || 250000 || 600000
+|-
+| 3A&B|| 1 || 18 || 16000 || 80000
+|-
+| || 2 || 30 || 20000 || 100000
+|-
+| || 3 || 42 || 24000 || 120000
+|-
+| || 4 || 54 || 28000 || 140000
+|-
+| || 5 || 66 || 32000 || 160000
+|-
+| || 6 || 78 || 36000 || 180000
+|-
+| || 7 || 90 || 40000 || 200000
+|-
+| || 8 || 102 || 44000 || 220000
+|-
+| || 9 || 114 || 48000 || 240000
+|-
+| || 10 || 126 || 52000 || 260000
+|-
+| VII|| 1 || 720 || 60000 || 30000
+|-
+| Total:|| 64 || 4968 || 2125000 || 9185000
+{{{t6Rows|}}}
+|}
+|-|T7=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+|-
+!Time(d)!!Cells!!B-tads
+|-
+| 1A&B|| 1 || 2 || 20000 || 200000
+|-
+| || 2 || 3 || 25000 || 250000
+|-
+| || 3 || 4 || 30000 || 300000
+|-
+| || 4 || 5 || 35000 || 350000
+|-
+| || 5 || 6 || 40000 || 400000
+|-
+| || 6 || 7 || 45000 || 450000
+|-
+| || 7 || 8 || 50000 || 500000
+|-
+| || 8 || 9 || 55000 || 550000
+|-
+| || 9 || 10 || 60000 || 600000
+|-
+| || 10 || 11 || 65000 || 650000
+|-
+| 2A&C|| 1 || 4 || 42000 || 320000
+|-
+| || 2 || 6 || 60000 || 320000
+|-
+| || 3 || 8 || 78000 || 480000
+|-
+| || 4 || 10 || 96000 || 560000
+|-
+| || 5 || 12 || 114000 || 640000
+|-
+| || 6 || 14 || 132000 || 720000
+|-
+| || 7 || 16 || 150000 || 800000
+|-
+| || 8 || 18 || 168000 || 880000
+|-
+| || 9 || 20 || 186000 || 960000
+|-
+| || 10 || 22 || 204000 || 1040000
+|-
+| 2B|| 1 || 10 || 72000 || 720000
+|-
+| || 2 || 18 || 94000 || 1040000
+|-
+| || 3 || 26 || 116000 || 1360000
+|-
+| || 4 || 34 || 138000 || 1680000
+|-
+| || 5 || 42 || 160000 || 2000000
+|-
+| 3A&B|| 1 || 6 || 48000 || 480000
+|-
+| || 2 || 9 || 60000 || 600000
+|-
+| || 3 || 12 || 72000 || 720000
+|-
+| || 4 || 15 || 84000 || 840000
+|-
+| || 5 || 18 || 96000 || 960000
+|-
+| || 6 || 21 || 108000 || 1080000
+|-
+| || 7 || 24 || 120000 || 1200000
+|-
+| || 8 || 27 || 132000 || 13200000
+|-
+| || 9 || 30 || 144000 || 1440000
+|-
+| || 10 || 33 || 156000 || 1560000
+|-
+| VIII|| 1 || 180 || 160000 || 1600000
+|-
+| Total:|| 66 || 1090 || 6090000 || 50900000
+{{{t7Rows|}}}
+|}
+|-|T8=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+|-
+!Time(d)!!Cells!!B-tads
+|-
+| 1A&B|| 1 || 7 || 60000 || 1500000
+|-
+| || 2 || 14 || 80000 || 2000000
+|-
+| || 3 || 21 || 100000 || 2500000
+|-
+| || 4 || 28 || 120000 || 3000000
+|-
+| || 5 || 35 || 140000 || 3500000
+|-
+| || 6 || 42 || 160000 || 4000000
+|-
+| || 7 || 49 || 180000 || 4500000
+|-
+| || 8 || 56 || 200000 || 5000000
+|-
+| || 9 || 63 || 220000 || 5500000
+|-
+| || 10 || 70 || 240000 || 6000000
+|-
+| 2A&C|| 1 || 10 || 90000 || 2250000
+|-
+| || 2 || 20 || 120000 || 3000000
+|-
+| || 3 || 30 || 150000 || 3750000
+|-
+| || 4 || 40 || 180000 || 4500000
+|-
+| || 5 || 50 || 210000 || 5250000
+|-
+| || 6 || 60 || 240000 || 6000000
+|-
+| || 7 || 70 || 270000 || 6750000
+|-
+| || 8 || 80 || 300000 || 7500000
+|-
+| || 9 || 90 || 330000 || 8250000
+|-
+| || 10 || 100 || 360000 || 9000000
+|-
+| 2B|| 1 || 30 || 200000 || 5000000
+|-
+| || 2 || 70 || 400000 || 10000000
+|-
+| || 3 || 110 || 600000 || 15000000
+|-
+| || 4 || 150 || 800000 || 20000000
+|-
+| || 5 || 190 || 1000000 || 25000000
+|-
+| 3A&B|| 1 || 15 || 120000 || 3000000
+|-
+| || 2 || 30 || 160000 || 4000000
+|-
+| || 3 || 45 || 200000 || 5000000
+|-
+| || 4 || 60 || 240000 || 6000000
+|-
+| || 5 || 75 || 280000 || 7000000
+|-
+| || 6 || 90 || 320000 || 8000000
+|-
+| || 7 || 105 || 360000 || 9000000
+|-
+| || 8 || 120 || 400000 || 10000000
+|-
+| || 9 || 135 || 440000 || 11000000
+|-
+| || 10 || 150 || 480000 || 12000000
+|-
+| Total:|| 65 || 4070 || 16500000 || 412500000
+{{{t8Rows|}}}
+|-|T9=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+|-
+!Time(d)!!Cells!!B-tads
+|-
+| IX|| 1 || 720 || 500000 || 12500000
+{{{t9Rows|}}}
+|}
+</tabber>
+
+==Rank Up Rituals==
+Once research is complete, a ritual will be started. Once the conditions are cleared, Mecha Form will rise from in Tier.
+
+<tabber>
+|-|T4=
+For Mecha Form to rise from T3 to T4:
+{|class="wikitable"
+!Ritual
+!How to complete
+|-
+|Activate {{RewardIconWithLink|Detection Unit|black|Mecha Form#Mecha Sequences}}
+|Cockpit Module of the [[Rocket]]
+|-
+|Activate {{RewardIconWithLink|Engineering Unit|black|Mecha Form#Mecha Sequences}}
+|Bunker Module of the [[Rocket]]
+|-
+|Activate {{RewardIconWithLink|Power Unit|black|Mecha Form#Mecha Sequences}}
+|Thruster Module of the [[Rocket]]
+|-
+|Activate {{RewardIconWithLink|Fire Control Unit|black|Mecha Form#Mecha Sequences}}
+|Defeat the Subway Conductor<br> Found on Floor 33 of the [[Fissure]]
+|-
+|Obtain {{RewardIconWithText|Crystal IC Board}} from Super Gene Expert
+|Speak with the [[Mailbox#Super Gene Expert|Super Gene Expert]] from the [[Mailbox]]
+|-
+|Ascend after FTH reaches 4,000
+|Raise TECH by acquiring and upgrading TECH Relics and consuming TECH-Fungi
+
+|-|T5=
+For Mecha Form to rise from T4 to T5:
+{|class="wikitable"
+!Ritual
+!How to complete
+|-
+|Equip with {{RewardIconWithLink|Field Generator|blue}} shell
+|Complete Memetic 8816
+|-
+|Display 4-Star {{RewardIconWithLink|Unispark|orange}}
+|obtained through {{RewardIconWithLink|Relic RF|orange}}, Unispark, {{RewardIconWithLink|Lottery Ticket|orange}}, {{RewardIconWithLink|Wish Coin|orange}}, [[Robot Guard]].
+|-
+|Reach Mecha Form Trial Lv.100
+|-
+|Ascend after FTH reaches 6,800
+|Raise TECH by acquiring and upgrading TECH Relics and consuming TECH-Fungi
+
+|-|T6=
+For Mecha Form to rise from T5 to T6:
+{|class="wikitable"
+!Ritual
+!How to complete
+|-
+|Claim {{RewardIconWithText|Superconducting Tube|orange}} in [[Rocket]] Bonus
+|Unlocked by having enough Rocket Tech Points
+|-
+|Claim {{RewardIconWithText|MD Data Terminal|orange}} in [[Rocket]] Bonus
+|Unlocked by having enough Rocket Tech Points
+|-
+|Claim {{RewardIconWithText|HV Capacitor|orange}} in [[Rocket]] Bonus
+|Unlocked by having enough Rocket Tech Points
+|-
+|Claim {{RewardIconWithText|Polymeric Fiber Clamp|orange}} in [[Rocket]] Bonus
+|Unlocked by having enough Rocket Tech Points
+|-
+|Claim {{RewardIconWithText|Harmonic Absorber|orange}} in [[Rocket]] Bonus
+|Unlocked by having enough Rocket Tech Points
+|-
+|Reach Mecha Form Trial Lv.200
+|-
+|Ascend after FTH reaches 12,000
+|Raise TECH by acquiring and upgrading TECH Relics and consuming TECH-Fungi
+|}
+|-|T7=
+For Mecha Form to rise from T6 to T7:
+{|class="wikitable"
+!Ritual!!How to Complete
+|-
+|Obtain {{RewardIconWithLink|Silicon Life Prototype|green}} from Steel Hall of the [[Rebel Device#Steel Hall|Rebel Cabin]] of the [[Rocket]]
+|
+|-
+|Get [[Snail Mech]] into the dorms
+|
+|-
+|Reach Mecha form Trial Lv. 300
+|
+|-
+|Ascend after TECH reaches 12,600
+|Raise TECH by acquiring and upgrading TECH Relics and consuming TECH-Fungi
+|}
+</tabber>

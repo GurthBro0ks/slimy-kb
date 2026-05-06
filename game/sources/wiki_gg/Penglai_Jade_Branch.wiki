@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Penglai Jade Branch
+|class_id=22160
+|rank=AAA
+|affct=FAITH
+|birthday=01-10
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Jan 10, 660 AD, a new branch sprouted from the tree, and the prince of a faraway kingdom commenced his journey in search of the jade branch.<br>The Penglai Jade Branch comes from a sacred tree on the mountain of the East Sea, with silver roots, a golden trunk, and jade fruits. Legend has it that an aristocrat commissioned the branch to win over his love, and the craftsmen created a branch that appeared to be from Fairyland. However, when the aristocrat couldn't pay the craftsman in time, the truth was exposed, and the embarrassed aristocrat retreated, leaving the real Jade Branch in the misty Fairyland.
+|fame=42
+|art=50
+|fth=73
+|civ=30
+|tech=48
+|ss1=Per 4 FTH Relics gained, Snail HP +60<br>Per 4 FTH Relics gained, Snail ATK +6<br>FTH Relics: 120/120
+|ss2=Per 4 FTH Relics gained, Snail HP +80<br>Per 4 FTH Relics gained, Snail ATK +8<br>FTH Relics: 120/120
+|ss3=Per 4 FTH Relics gained, Snail HP +100<br>Per 4 FTH Relics gained, Snail ATK +10<br>FTH Relics: 120/120
+|ss4=Per 4 FTH Relics gained, Snail HP +140<br>Per 4 FTH Relics gained, Snail ATK +14<br>FTH Relics: 120/120
+|ss5=Per 4 FTH Relics gained, Snail HP +180<br>Per 4 FTH Relics gained, Snail ATK +18<br>FTH Relics: 120/120
+|ss7=Per 4 FTH Relics gained, Snail HP +180<br>Per 4 FTH Relics gained, Snail ATK +18<br>FTH Relics: 120/120<br>Snail HP +700 (Awakened)
+|skill1=[[File:Lumbercamp skill II.png|50px]]Place in Lumber Camp: Lumber Max Cap +15%
+|skill2=[[File:Lumbercamp skill II.png|50px]]Place in Lumber Camp: Find Ancient Wood by +15%
+}}

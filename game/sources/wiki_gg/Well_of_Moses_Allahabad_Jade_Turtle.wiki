@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=581
+|relics=Well of Moses,Allahabad Jade Turtle
+|rank=blue
+|amount=2
+|category=self
+|description=Per 100 catalysis, Snail HP +50;Catalysis: 5000/5000
+}}

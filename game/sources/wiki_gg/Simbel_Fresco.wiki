@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Simbel Fresco
+|class_id=22305
+|rank=SS
+|affct=CIV
+|birthday=03-03
+|source=
+|description=On Mar 3, 1233 BC, the sun shone into the Abu Simbel Temple and sprinkled on the statue!<br>The temple, built during the reign of the Ramesses II on the bank of the Nile, is a symbol of the power of ancient Egypt. The frescos within the temple depict the story of the Pharaoh Ramesses II leading the ancient Egyptians on an expedition to Nubia. Despite being over 3,000 years old, the frescos remain intact and spectacular, offering an impressive glimpse into ancient Egyptian history.
+|fame=74
+|art=66
+|fth=53
+|civ=103
+|tech=51
+|ss1=Snail HP +200<br>Mutant Minion RUSH +2%<br>Per 50 Minions cloned, Snail RUSH +2<br>Minions Cloned: 2000/2000
+|ss2=Snail HP +300<br>Mutant Minion RUSH +3%<br>Per 50 Minions cloned, Snail RUSH +3<br>Minions Cloned: 2000/2000
+|ss3=Snail HP +400<br>Mutant Minion RUSH +4%<br>Per 50 Minions cloned, Snail RUSH +4<br>Minions Cloned: 2000/2000
+|ss4=Snail HP +600<br>Mutant Minion RUSH +6%<br>Per 50 Minions cloned, Snail RUSH +6<br>Minions Cloned: 2000/2000
+|ss5=Snail HP +800<br>Mutant Minion RUSH +8%<br>Per 50 Minions cloned, Snail RUSH +8<br>Minions Cloned: 2000/2000
+|ss6=Snail HP +1100<br>Mutant Minion RUSH +11%<br>Per 50 Minions cloned, Snail RUSH +11<br>Minions Cloned: 2000/2000
+|ss7=Snail HP +1100<br>Mutant Minion RUSH +11%<br>Per 50 Minions cloned, Snail RUSH +11<br>Minions Cloned: 2000/2000<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: This Relic's CIV +15
+|skill2=[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Snail ATK +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=Surya's Favorite|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Geb the God of Earth|3rec=99.37M|3atk=275351|3defense=183698|3hp=18358908|3weak=34380
+|4name=Nut the Sky Goddess|4rec=138.82M|4atk=358545|4defense=239200|4hp=28715806|4weak=40107
+|5name=Shu the God of Air|5rec=185.84M|5atk=457705|5defense=305353|5hp=43161566|5weak=47919
+|Arec=246.16M|Aatk=575633|Adefense=384028|Ahp=62858798|Aweak=55658
+}}}}

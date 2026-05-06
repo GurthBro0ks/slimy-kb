@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Hillary's Pickaxe
+|rank=Blue
+|affct=CIV
+|birthday=07-30
+|source=Lottery Machine (0.07%), Wishing (2.1%), Novice Scrolls (1%)
+|description=On Jul 30, 1953, this pickaxe became a world legend.
+
+It's owner, Hillary, used it to climb Mt. Everest and became the first human to reach the top of the world! This legendary pick also became famous as it has conquered the highest mountain in the world. Since then, it has created many legends with Hillary. 
+
+[Achievements of the Pick]
+
+Climbed 11 Himalayan mountains. Went on an expedition across Antarctica and reached the source of the Yangtze River. Climbed the 8463-meter-high Mt. Makalu.
+|fame=27
+|art=28
+|fth=32
+|civ=48
+|tech=19
+|ss1=Per 400 Relic Points, Snail HP +30<br>Relic Points: 2,000/2,000
+|ss2=Per 400 Relic Points, Snail HP +30<br>Relic Points: 4,000/4,000
+|ss3=Per 400 Relic Points, Snail HP +30<br>Relic Points: 6,000/6,000
+|ss4=Per 400 Relic Points, Snail HP +30<br>Relic Points: 10,000/10,000
+|ss7=Per 400 Relic Points, Snail HP +30<br>Relic Points: 10,000/10,000<br>Snail HP +500 (Awakened)
+|skill1=[[File:Compass skill I.png|50px]] Place in Exploration Compass: This Relic's CIV +5
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:CIV Relics]]
+[[Category:Blue CIV Relics]]
+[[Category:HP Boost]]
+[[Category:Relic Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:CIV Boost]]
+[[Category:RUSH Boost]]
+[[Category:Wonder Fungus Output]]

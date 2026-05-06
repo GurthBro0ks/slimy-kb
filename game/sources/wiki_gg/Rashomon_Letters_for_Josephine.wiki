@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=413
+|relics=Rashomon,Letters for Josephine
+|rank=purple
+|amount=2
+|category=self
+|description=Demon Minion DEF +6%
+}}

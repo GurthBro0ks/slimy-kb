@@ -1,0 +1,47 @@
+{{CargoRelic
+|name=Buddha's Skull Sarira
+|rank=SS
+|affct=FTH
+|birthday=06-01
+|source=Dragon Chest (5%), FTH Master Scrolls (9.2%), Fragment Crafting (4.4%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls(1.9%), Wishing (0.16%)
+|description=On Jun 1, 661 AD, Buddha's Skull Sarira from Bharata was enshrined in the Chinese palace. 
+
+General Wang traveled back to Chang'an to see the emperor after leaving Bharata with the Buddha's Skull Sarira. The emperor ensconced the Sarira in the imperial palace and invited the Grand Monk to hold ceremonies to worship it every day. 
+
+[A brief history of the Buddha's Skull Sarira]
+
+8 Buddha's Skull Sariras were created during the Kapilvastu period and were revered through the Ashoka and Siladitya eras in Bharata. One of them later was transferred to Chang'an during the Tang dynasty, and was recently excavated from the Grand Bao'en Temple.
+
+|fame=65
+|art=69
+|fth=101
+|civ=55
+|tech=57
+|ss1=Snail HP +200<br>Snail ATK +20<br>When offering, 2x Order Chest Drops +2%
+|ss2=Snail HP +300<br>Snail ATK +30<br>When offering, 2x Order Chest Drops +3%
+|ss3=Snail HP +400<br>Snail ATK +40<br>When offering, 2x Order Chest Drops +4%
+|ss4=Snail HP +600<br>Snail ATK +60<br>When offering, 2x Order Chest Drops +6%
+|ss5=Snail HP +800<br>Snail ATK +80<br>When offering, 2x Order Chest Drops +8%
+|ss6=Snail HP +1,100<br>Snail ATK +110<br>When offering, 2x Order Chest Drops +11%
+|ss7=Snail HP +1,100<br>Snail ATK +110<br>When offering, 2x Order Chest Drops +11%<br>Snail HP +1,000 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x B-tad Drops +15%
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x Purple Card Drops +15%
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, Snail HP +6,000
+|mirage={{#invoke:snailDB|parseMirage|Buddha's Skull Sarira}}
+}}
+
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Divine Order Chest Drop Boost]]
+[[Category:Cathay Museum Boost]]
+[[Category:Cathay Exploration Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Minion RUSH Boost]]
+[[Category:Lottery Machine Boost]]
+[[Category:Rewards Incense]]
+[[Category:Catcolyte Boost]]
+[[Category:Little Monk Boost]]
+[[Category:Enhanced by Lottery Draws]]

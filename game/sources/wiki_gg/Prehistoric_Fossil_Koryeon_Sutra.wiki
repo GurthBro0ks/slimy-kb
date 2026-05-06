@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Prehistoric Fossil,Koryeon Sutra
+|rank=purple
+|amount=2
+|category=minion
+|description=Per 30 Minions in battle: Troop HP +240
+}}
+[[Category:Minion]]
+[[Category:Minion HP Boost]]

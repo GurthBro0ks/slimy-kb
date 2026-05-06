@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=391
+|relics=Ambika Statue,Portrait of Helena
+|rank=purple
+|amount=2
+|category=self
+|description=Snail HP +600
+}}

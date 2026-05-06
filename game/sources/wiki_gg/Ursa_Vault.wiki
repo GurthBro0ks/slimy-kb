@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Ursa Vault
+|class_id=20391
+|rank=Green
+|affct=TECH
+|source=
+|description=The Ursa Vault is a treasure trove created by the Master Chef, storing the ingredients collected by him over the years. However, since the Master Chef only collects ingredients but never uses them, he has forgotten the password to retrieve them from the vault. The precious ingredients inside are now only within sight but out of reach.
+|fame=16
+|art=16
+|fth=16
+|civ=12
+|tech=30
+|ss1=Per 200K Sales, Snail HP +10<br>Total Sales: 12000000/12000000
+|ss2=Per 200K Sales, Snail HP +20<br>Total Sales: 12000000/12000000
+|ss3=Per 200K Sales, Snail HP +30<br>Total Sales: 12000000/12000000
+|ss4=Per 200K Sales, Snail HP +30<br>Total Sales: 12000000/12000000
+|ss7=Per 200K Sales, Snail HP +30<br>Total Sales: 12000000/12000000<br> (Awakened)
+}}

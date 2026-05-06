@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Penelope's Loom
+|class_id=21291
+|rank=AAA
+|affct=FAITH
+|source=
+|description=In the Odyssey, Penelope, to delay marriage with numerous suitors, claims she must complete a shroud for her father-in-law Laertes as a vow, and will not marry until it is finished. She weaves during the day and unravels the cloth at night, indefinitely postponing her decision. This loom demonstrates Penelope's wisdom and loyalty, expressing her deep affection for her husband Odysseus.
+|fame=38
+|art=51
+|fth=75
+|civ=36
+|tech=43
+|ss1=Snail ATK +10<br>Snail DEF +10
+|ss2=Snail ATK +20<br>Snail DEF +20
+|ss3=Snail ATK +30<br>Snail DEF +30
+|ss4=Snail ATK +50<br>Snail DEF +50
+|ss5=Snail ATK +70<br>Snail DEF +70
+|ss7=Snail ATK +70<br>Snail DEF +70<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Skill skill II.png|50px]]??? (Coming soon)
+|skill2=[[File:Skill skill II.png|50px]]??? (Coming soon)
+}}

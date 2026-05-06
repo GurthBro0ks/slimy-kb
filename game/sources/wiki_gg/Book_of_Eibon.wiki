@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Book of Eibon
+|class_id=22852
+|rank=SSS
+|affct=FAITH
+|source=
+|description=It is also known as the abyssal scriptures of dark wisdom, authored by the legendary archmage Eibon. This forbidden grimoire is crafted with a cover as dark as the abyss, shimmering with a gloomy brilliance like the condensed light of stardust. Its pages, soaked in the ink of Ancient Wood, bear the traces of long-forgotten myths and prohibited spells. The script within twists and entwines like a nightmare, each page engraved with the Mark of Chaotic Power, awakening terrors that slumber in the rifts of time and space. Every paragraph is a voyage of the soul, carrying the wisdom of Eibon's journey across countless worlds, meandering through the labyrinth of time and space, reaching out to the ultimate secrets of the universe's inception and demise.
+|fame=56
+|art=75
+|fth=109
+|civ=52
+|tech=70
+|ss1=Snail Leadership +3<br>In all Domains, Soul Nail HARD Stats +3%<br>All Domains, Seal output+3%
+|ss2=Snail Leadership +4<br>In all Domains, Soul Nail HARD Stats +4%<br>All Domains, Seal output+4%
+|ss3=Snail Leadership +5<br>In all Domains, Soul Nail HARD Stats +5%<br>All Domains, Seal output+5%
+|ss4=Snail Leadership +7<br>In all Domains, Soul Nail HARD Stats +7%<br>All Domains, Seal output+7%
+|ss5=Snail Leadership +9<br>In all Domains, Soul Nail HARD Stats +9%<br>All Domains, Seal output+9%
+|ss6=Snail Leadership +12<br>In all Domains, Soul Nail HARD Stats +12%<br>All Domains, Seal output+12%
+|ss7=Snail Leadership +12<br>In all Domains, Soul Nail HARD Stats +12%<br>All Domains, Seal output+12%<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|mirage={{Mirage|name=dungeon@22852_1|reward={{RewardIconWithLink|Cultivation Fluid, +10|orange}}
+|3name=dungeon_event@4446_1|3rec=206.42M|3atk=583087|3defense=334308|3hp=71575665|3weak=54489
+|4name=dungeon_event@4447_1|4rec=245.61M|4atk=674045|4defense=383525|4hp=93899834|4weak=58973
+|5name=dungeon_event@4448_1|5rec=335.00M|5atk=817861|5defense=463948|5hp=160815280|5weak=65176
+|6name=dungeon_event@4449_1|6rec=447.54M|6atk=1002728|6defense=565195|6hp=294586794|6weak=72055
+|Arec=583.89M|Aatk=1260348|Adefense=687864|Ahp=505722427|Aweak=79579
+}}}}

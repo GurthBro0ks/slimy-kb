@@ -1,0 +1,331 @@
+== Big Guy Park ♂ ==
+The last apprentice of Monk John. He can wield an iron ball that weighs a ton.
+
+=== Begin Friendship ===
+To obtain Big Guy Park, Intercept [[Hitmen|Hitman No.4]].
+
+===☆☆☆ > ★☆☆===
+After 3 letters back and forth, Big Guy Park will arrive at [[Home Base]] and gift {{RewardIconWithLink|Incense|orange}} +1.
+
+=== ★☆☆ > ★★☆ ===
+After 11 letters back and forth, Big Guy Park will arrive at [[Home Base]] and give {{RewardIconWithLink|Hitman No.6 License|green}}.
+
+=== ★★☆ > ★★★ ===
+After 13 letters back and forth, Big Guy Park will move in permanently with his minion, Ironball Thrower.
+
+== Big Gal Park ♀ ==
+The last apprentice of Monk John. She can wield an iron ball that weighs a ton.
+
+To obtain Big Gal Park, use [[Altar|Dragon Wish]] "I want girl power!."
+
+== Rent ==
+[[File:Big Guy Park rent.png|frameless|200x200px|left]]
+Big Guy Park rent is collected on '''Wednesday''' and as a duffel bag on the right-hand side of the room.
+
+ '''Normal Rent''': {{RewardIconWonderFungusWithText|Green|NoStat|green}}; {{RewardIconWonderFungusWithText|Blue|NoStat|blue}}
+
+ '''Big Gal Park Rare Rent''': {{RewardIconWithLink|Big Guy Park's Chest Hair|blue}}; {{RewardIconWithLink|Toner, +300}}
+
+{{Clear}}
+
+== Relics ==
+Upgrading these will earn wood and stone!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|Wood +200, Stone +200
+|-
+|★★
+|Wood +200, Stone +200
+|-
+|★★★
+|Wood +200, Stone +200
+|-
+|★★★★
+|Wood +400, Stone +400
+|-
+|★★★★★
+|Wood +800, Stone +800
+|-
+|★★★★★★
+|Wood +1.6k, Stone +1.6k
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Moai}}{{Relink|Moai}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Costa Rica Stone}}{{Relink|Costa Rica Stone}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Prehistoric Fossil}}{{Relink|Prehistoric Fossil}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Sword Throne}}{{Relink|Sword Throne}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Houmuwu Ding}}{{Relink|Houmuwu Ding}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Notre Dame Bell}}{{Relink|Notre Dame Bell}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Venus de Milo}}{{Relink|Venus de Milo}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Artificial Blackhole}}{{Relink|Artificial Blackhole}}
+|}
+
+== Prison Conditioning ==
+No one can move the iron ball without a strong physique. For people who practice Martial Arts, good health is the basis of everything.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||FAME +5||Snail ATK +5
+|-
+|2||180||2k||FAME +10||Snail ATK +10
+|-
+|3||190||4.5k||FAME +15||Snail ATK +15
+|-
+|4||200||8k||FAME +20||Snail ATK +20
+|-
+|5||210||12.5k||FAME +25||Snail ATK +25
+|-
+|6||220||18k||FAME +30||Snail ATK +30
+|-
+|7||230||24.5k||FAME +35||Snail ATK +35
+|-
+|8||240||32k||FAME +40||Snail ATK +40
+|-
+|9||250||40.5k||FAME +45||Snail ATK +45
+|-
+|10||260||50k||FAME +50||Snail ATK +50
+|-
+|11||270||60.5k||FAME +55||Snail ATK +55
+|-
+|12||285||72k||FAME +60||Snail ATK +60
+|-
+|13||300||84.5k||FAME +65||Snail ATK +65
+|-
+|14||315||98k||FAME +70||Snail ATK +70
+|-
+|15||330||112k||FAME +75||Snail ATK +75
+|-
+|16||345||123k||FAME +80||Snail ATK +80
+|-
+|17||360||144k||FAME +85||Snail ATK +85
+|-
+|18||375||162k||FAME +90||Snail ATK +90
+|-
+|19||390||180k||FAME +95||Snail ATK +95
+|-
+|20||400||200k||FAME +100||Snail ATK +100
+|-
+|21||420||220k||FAME +105||Snail ATK +105
+|-
+|22||440||242k||FAME +110||Snail ATK +110
+|-
+|23||460||264k||FAME +115||Snail ATK +115
+|-
+|24||480||285k||FAME +120||Snail ATK +120
+|-
+|25||500||309k||FAME +125||Snail ATK +125
+|-
+|26||520||333k||FAME +130||Snail ATK +130
+|-
+|27||540||357k||FAME +135||Snail ATK +135
+|-
+|28||560||381k||FAME +140||Snail ATK +140
+|-
+|29||580||405k||FAME +145||Snail ATK +145
+|-
+|30||600||429k||FAME +150||Snail ATK +150
+|}
+
+==Commander==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Prison Conditioning is.
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +10
+|-
+|2||4k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +20
+|-
+|3||6k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +30
+|-
+|4||8k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +40
+|-
+|5||10k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +50
+|-
+|6||12k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +60
+|-
+|7||14k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +70
+|-
+|8||16k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +80
+|-
+|9||18k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +90
+|-
+|10||20k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +100
+|-
+|11||22k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +110
+|-
+|12||24k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +120
+|-
+|13||26k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +130
+|-
+|14||28k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +140
+|-
+|15||30k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +150
+|-
+|16||32k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +160
+|-
+|17||34k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +170
+|-
+|18||36k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +180
+|-
+|19||38k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +190
+|-
+|20||40k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +200
+|-
+|21||42k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +210
+|-
+|22||44k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +220
+|-
+|23||46k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +230
+|-
+|24||48k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +240
+|-
+|25||50k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +250
+|-
+|26||55k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +260
+|-
+|27||60k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +270
+|-
+|28||65k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +280
+|-
+|29||70k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +290
+|-
+|30||75k||Demon Minion MAX +1||Per 10 Ironball Throwers in battle, Troop ATK +300
+|}
+
+== Research Ability ==
+Below is a table of the research manual cost to upgrade each research gene. Big Guy Park specializes in '''Demon Genes''' and therefore the research manual cost for the Demon Gene is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|96||100
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+== Minion - Ironball Thrower ==
+Founded by Big Guy Park, Ironball Sect enrolls all kinds of prisoners, precisely speaking, all kinds of those turned down by other sects!
+
+=== Special Ability - Shackled ===
+Per 10 Ironball Throwers in battle, Troop ATK +10 (multiplied by minion level)
+
+=== Minion Relics ===
+Upgrading these relics will buff your Ironball Throwers!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Moai}}<br>{{relink|Moai}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Costa Rica Stone}}<br>{{relink|Costa Rica Stone}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Prehistoric Fossil}}<br>{{relink|Prehistoric Fossil}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Sword Throne}}<br>{{relink|Sword Throne}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Houmuwu Ding}}<br>{{relink|Houmuwu Ding}}
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Notre Dame Bell}}<br>{{relink|Notre Dame Bell}}
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Venus de Milo}}<br>{{relink|Venus de Milo}}
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Artificial Blackhole}}<br>{{relink|Artificial Blackhole}}
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|}
+
+[[Category:Partners]]
+[[Category:ATK Boost]]
+[[Category:Minion ATK Boost]]

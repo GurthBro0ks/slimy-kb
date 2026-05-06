@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Andersen's Fairytales,Hannibal's Cup,Bell's Telephone,The Nutcracker,Lionheart
+|rank=purple
+|amount=5
+|category=self
+|description=Per 2k Power, Snail ATK +4<br>Power: 60,000/60,000
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by Power]]

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=810
+|relics=The Principia,Death of the Virgin,Don Juan,Space Elevator,Draupnir,Ram in a Thicket
+|rank=orange
+|amount=6
+|category=self
+|description=Snail Leadership +12
+}}

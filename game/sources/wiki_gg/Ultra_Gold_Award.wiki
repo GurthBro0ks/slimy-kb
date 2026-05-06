@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Ultra Gold Award
+|class_id=20552
+|rank=Green
+|affct=CIV
+|source=
+|description=To commemorate the hero who upheld universal peace, people created this golden statue modeled after his righteous demeanor. After the great warrior departed, his acts of justice became urban legends, but the will of justice never fades! The award, inheriting the hero's will, is passed down from generation to generation to the stars of the future. Although it has nothing to do with movie awards, its value is not to be underestimated!
+|fame=14
+|art=16
+|fth=14
+|civ=33
+|tech=13
+|ss1=Event Avatar rating cap raised to 5S+<br>W-tads gained from VIP Gem Card +10<br>W-tads gained from VIP Silver Card +10<br>W-tads gained from VIP Gold Card +10
+|ss2=Event Avatar rating cap raised to 5S+<br>W-tads gained from VIP Gem Card +20<br>W-tads gained from VIP Silver Card +20<br>W-tads gained from VIP Gold Card +20
+|ss3=Event Avatar rating cap raised to 5S+<br>W-tads gained from VIP Gem Card +30<br>W-tads gained from VIP Silver Card +30<br>W-tads gained from VIP Gold Card +30
+|ss4=Event Avatar rating cap raised to 5S+<br>W-tads gained from VIP Gem Card +30<br>W-tads gained from VIP Silver Card +30<br>W-tads gained from VIP Gold Card +30
+|ss7=Event Avatar rating cap raised to 5S+<br>W-tads gained from VIP Gem Card +30<br>W-tads gained from VIP Silver Card +30<br>W-tads gained from VIP Gold Card +30<br> (Awakened)
+}}

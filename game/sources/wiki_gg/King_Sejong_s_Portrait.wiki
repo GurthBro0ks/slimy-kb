@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=King Sejong's Portrait
+|class_id=20074
+|rank=Green
+|affct=CIV
+|source=
+|description=As the greatest monarch in Korean history, King Sejong has always been highly respected by the people. According to records, the real portrait of King Sejong was burned during wars. What is shown now is the imaginary work of later generations.
+|fame=18
+|art=12
+|fth=13
+|civ=30
+|tech=17
+|ss1=Per 5 Avatars activated, Snail ATK +1<br>Avatars Activated: 100/100
+|ss2=Per 5 Avatars activated, Snail ATK +2<br>Avatars Activated: 100/100
+|ss3=Per 5 Avatars activated, Snail ATK +3<br>Avatars Activated: 100/100
+|ss4=Per 5 Avatars activated, Snail ATK +3<br>Avatars Activated: 100/100
+|ss7=Per 5 Avatars activated, Snail ATK +3<br>Avatars Activated: 100/100<br> (Awakened)
+}}

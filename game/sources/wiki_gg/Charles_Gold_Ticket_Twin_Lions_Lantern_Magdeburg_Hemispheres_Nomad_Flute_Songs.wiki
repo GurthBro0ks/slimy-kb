@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Charles' Gold Ticket,Twin Lions Lantern,Magdeberg Hemispheres,Nomad Flute Songs
+|rank=purple
+|amount=4
+|category=minion
+|description=Dragon Minion ATK +8%
+}}
+[[Category:Minion]]
+[[Category:Dragon Minion ATK Boost]]

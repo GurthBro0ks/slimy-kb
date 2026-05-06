@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=552
+|relics=Eight Proposals,SSB Trophy,Mendel's Manuscript,The Standard of Ur
+|rank=orange
+|amount=4
+|category=self
+|description=Per 20 Research Manuals used, Snail DEF +18;Research Manuals Used: 400/400
+}}

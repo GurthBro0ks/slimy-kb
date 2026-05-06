@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Hunting Heraldry
+|class_id=22173
+|rank=AA
+|affct=CIV
+|birthday=04-11
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On Apr 11, 2155 BC, Barui, the Akkad court cupbearer, ordered this heraldry to be crafted to commemorate a successful hunt.<br>This hunting heraldry is the size of a brick and records the grand hunts of the Akkadian Empire. It tells the tale of Barui, the court cupbearer of Akkad, who was finally rewarded by the king for his exceptional hunting performance and illustrates the prosperity of hunting in the Akkad Empire at the time.
+|fame=46
+|art=40
+|fth=37
+|civ=68
+|tech=37
+|ss1=Per 30 Mutant Minions in battle:<br>> Troop ATK +8<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +8
+|ss2=Per 30 Mutant Minions in battle:<br>> Troop ATK +12<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +12
+|ss3=Per 30 Mutant Minions in battle:<br>> Troop ATK +16<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +16
+|ss4=Per 30 Mutant Minions in battle:<br>> Troop ATK +24<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +24
+|ss5=Per 30 Mutant Minions in battle:<br>> Troop ATK +32<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +32
+|ss7=Per 30 Mutant Minions in battle:<br>> Troop ATK +32<br>Per 30 Mutant Minions in battle:<br>> Troop RUSH +32<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: Snail RUSH +30 each round
+|skill2=[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: Snail ATK +30 each round
+}}

@@ -1,0 +1,496 @@
+==Key Clue Records==
+Complete these Key Clues in [[Murika]] for various rewards and to fully progress through the Realm.
+
+==Constitution==
+'''Rewards:''' Lottery Ticket +3, 10k B-tads
+{| class="wikitable"
+!Event
+!Requirements
+|-
+|Master all northern INTEL
+|Obtain all 49 [[Murika INTEL#Mecha INTEL|Mecha INTEL]] tiles
+|-
+|Master all southern INTEL
+|Obtain all 49 [[Murika INTEL#Biochem INTEL|Biochem INTEL]] tiles
+|}
+
+==National Unity==
+'''Rewards:''' Travel Speedup +2h, 10k B-tads
+{| class="wikitable"
+!Event
+!Requirements
+!Approximate Strength
+|-
+|Conquer Michigen
+|Defeat [[Murika Apostles#Alpha Wolf & Master Archer|Alpha Wolf and Master Archer]]
+|2.2m
+|-
+|Conquer Kalifornia
+|Defeat [[Murika Apostles#General S. & Blink Stewart|General S. and Blink Stewart]]
+|2.4m
+|-
+|Conquer Neo-Mexico
+|Defeat [[Murika Apostles#Frost & Dominator|Frost and Dominator]]
+|2.86m
+|-
+|Conquer Floridar
+|Defeat [[Murika Apostles#Grant & General Lee|Grant and General Lee]]
+|3.04m
+|}
+
+==Black Friday==
+'''Rewards:''' 600 W-tads, 10k B-tads 
+{| class="wikitable"
+!Event
+|-
+|Redeem all [[Murika Cards#Tier 1 (White)|limited cards (white)]]
+|-
+|Redeem all [[Murika Cards#Tier 2 (Green)|limited cards (green)]]
+|-
+|Redeem all [[Murika Cards#Tier 3 (Blue)|limited cards (blue)]]
+|-
+|Redeem all [[Murika Cards#Tier 4 (Purple)|limited cards (purple)]]
+|-
+|Redeem all [[Murika Cards#Tier 5 (Orange)|limited cards (orange)]]
+|}
+
+==All-Star Lineup==
+'''Rewards:''' 
+{{RewardIconWithText|W-Tads, +500}}, {{RewardIconWithText|Lottery Ticket, +3}}
+{| class="wikitable"
+!Event
+|-
+|Recruit all [[Murika Heroes#North|North Heroes]]
+|-
+|Recruit all [[Murika Heroes#South|South Heroes]]
+|}
+
+==Murikan Treasures==
+'''Rewards:'''
+{{RewardIconWithLink|Murikan Treasure Map, +50}}, {{RewardIconWithText|Purple Reagent, +50|purple}}
+{| class="wikitable"
+!Event
+!<nowiki>#</nowiki> of items found
+!Rewards
+|-
+|Gold Digger's Treasure (Dakata)
+|3
+|{{RewardIconWithText|Stone, +2000}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Oscar's Gift (Dakata)
+|4
+|{{RewardIconWithText|Novice Scroll, +10}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Stowaway Supplies (Taxas)
+|2
+|{{RewardIconWithText|Travel Speedup, +2h}}
+{{RewardIconWithText|W-Tads, +200}}
+|-
+|Cowboy's Gift (Taxas)
+|4
+|{{RewardIconWithText|Wood, +2000}}
+{{RewardIconWithText|W-Tads, +400}}
+|-
+|Box of Finance (Neo-York)
+|3
+|{{RewardIconWithText|Expert Scroll, +10}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Superhero Gift (Neo-York)
+|4
+|{{RewardIconWithText|Offering Speedup, +2h}}
+{{RewardIconWithText|W-Tads, +400}}
+|-
+|Native Offering (Tannessee)
+|3
+|{{RewardIconWithText|Green Reagent, +50|green}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Launch Event Gift (Tannessee)
+|4
+|{{RewardIconWithText|Lottery Ticket, +1}}
+{{RewardIconWithText|W-Tads, +200}}
+|-
+|War Supplies (Washingtone DC)
+|4
+|{{RewardIconWithText|Refine Speedup, +2h}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Native Souvenir (Washingtone DC)
+|4
+|{{RewardIconWithText|Angel Cell, +2h}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Aircraft Carrier Supplies (Louisianna)
+|4
+|{{RewardIconWithText|Travel Speedup, +1h}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Ferry Souvenir (Louisianna)
+|3
+|{{RewardIconWithText|B-tad, +5000}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Automobile Part Box (Michigen)
+|2
+|{{RewardIconWithText|Refine Speedup, +2h}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Manor Gift (Michigen)
+|3
+|{{RewardIconWithText|Purple Reagent, +20|purple}}
+{{RewardIconWithText|W-Tads, +400}}
+|-
+|Cell Petri Dish (Kalifornia)
+|4
+|{{RewardIconWithText|Zombie Cell, +2000}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Biochem Supplies (Kalifornia)
+|4
+|{{RewardIconWithText|Demon Cell, +2000}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Godpapa's Collection (Neo-Mexico)
+|4
+|{{RewardIconWithText|Offering Speedup, +2h}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Inca Case (Neo-Mexico)
+|4
+|{{RewardIconWithText|Mutant Cell, +2000}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Flight Supplies (Floridar)
+|4
+|{{RewardIconWithText|Travel Speedup, +1h}}
+{{RewardIconWithText|W-Tads, +300}}
+|-
+|Space Supplies (Floridar)
+|4
+|{{RewardIconWithText|Purple Reagent, +20|purple}}
+{{RewardIconWithText|W-Tads, +300}}
+|}
+
+==Bullet Storm==
+'''Rewards:'''{{RewardIconWithText|Glue, +150}},{{RewardIconWithText|Travel Speedup, +2h}}
+{| class="wikitable"
+!Event
+|-
+|Craft {{RewardIconWithGearlink|green|Realm|Colt Revolver}}
+|-
+|Craft {{RewardIconWithGearlink|blue|Realm|Springfield Rifle}}
+|-
+|Craft {{RewardIconWithGearlink|purple|Realm|M4 Carbine}}
+|-
+|Craft {{RewardIconWithGearlink|orange|Realm|Indv. High-explosive Rifle}}
+|-
+|Craft {{RewardIconWithGearlink|orange|Realm|Indv. Power Armor}}
+|-
+|Craft {{RewardIconWithGearlink|red|Realm|Bullet Storm}}
+|}
+
+==The Power of Capital==
+'''Rewards:''' Murikan Treasure Map +50, 10k B-tads
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Securities Trade Cert. (Neo-York)
+|8,100 TECH 
+|100 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Futures Trade Cert. (Dakata)
+|7,900 FAME
+|Mecha Cell +500, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Oil Trade Cert. (Neo-York)
+|8,300 ART
+|Murika INTEL +800, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Gold Trade Cert. (Floridar)
+|8,600 ART
+|150 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Manhattan Project==
+'''Rewards:''' [[Nuclear Bomb|<span style="color:#ffb066;">Nuclear Bomb</span>]]
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Einstein's Letter B (Tannessee)
+|7,400 CIV
+|Expert Scroll +20, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Oppenheimer's Letter
+|8,200 CIV
+|Expert Scroll +20, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Lawrence's Letter (Kalifornia)
+|8,800 CIV
+|Travel Speedup +1h, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Truman's Letter (Floridar)
+|9,300 FTH
+|Lottery Ticket +1, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==SDI==
+'''Rewards:''' Gear Chest +200, Travel Speedup +2h
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Satellite Monitor Chip (Dakata)
+|8,300 TECH
+|Blue Reagent +10, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Satellite FireCon Chip (Taxas)
+|8,200 ART
+|Mutant Cells +500, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Satellite Radar Chip (Wahingtone DC)
+|8,600 TECH 
+|Wood +4000, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Satellite Radio Chip (Louisianna)
+|7,200 CIV
+|120 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|}
+
+==The Murikan Dream==
+'''Rewards:''' 500 W-tads, Murikan Treasure Map +50
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Gold Digger's Dream (Dakata)
+|8,700 CIV
+|Stone +4000, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Entrepreneur's Dream (Louisianna)
+|8,500 CIV
+|1,500 B-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Investor's Dream
+|8,900 CIV
+|100 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Immigrant's Dream (Neo-Mexico)
+|9,400 FAME
+|Travel Speedup +20m, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Westward Movement==
+'''Rewards:''' Travel Speedup +4h, 10k B-tads
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Native Badge (Washingtone DC)
+|8,100 FTH
+|80 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Immigrant Badge (Michigen)
+|8,500 CIV
+|Travel Speedup +20m, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Railroader Badge (Kalifornia)
+|9,000 ART
+|1,500 B-tads, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Industrial Revolution==
+'''Rewards:''' Stone +5000, Wood +5000
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Oilman's ID Card (Taxas)
+|8,400 ART
+|80 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|AssemBot ID Card (Kalifornia)
+|8,600 FAME 
+|Mecha Cell +500, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Steelworker's ID Card (Tannessee)
+|9,000 FAME
+|Stone +500, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Researcher ID Card (Neo-York)
+|9,500 TECH
+|Refine Speedup +20m, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==IT Trend==
+'''Rewards:''' 500 W-tads, Expert Scroll +20
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Pineapple Event Ticket (Washingtone DC)
+|8,600 FAME
+|Gene Speedup +20m, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|CEE Ticket (Michigen)
+|8,900 CIV
+|Mecha Cell +500, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|E3 GameExpo Ticket (Neo-York)
+|9,400 FTH
+|100 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Snail E-Car Event Ticket (Louisianna)
+|10,100 TECH
+|Refine Speedup +10m, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Social Networks==
+'''Rewards:''' Expert Scroll +20, Purple Reagent +30
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Hacker's Key (Dakata)
+|8,700 TECH
+|Murika INTEL +500, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Partner's Key
+|9,300 TECH
+|Gene Speedup +20m, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Key of Surveillance (Floridar)
+|10,000 FTH
+|100 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Murikan Image Promotion==
+'''Rewards:''' Murikan Treasure Map +50, Ad Chest +60
+{| class="wikitable"
+!Event
+!Rewards
+|-
+|Watch a fast food chain ad (Tannessee)
+|Ad Chest +10, Travel Speedup +30m
+|-
+|Watch a mobile press conference ad (Washingtone DC)
+|Ad Chest +10, Glue +20
+|-
+|Watch the securities investment ad (Louisianna)
+|Ad Chest +10, 2k B-tads
+|-
+|Watch the basketbal finals ad (Kalifornia)
+|Ad Chest +10, Travel Speedup +30m
+|}
+
+==Scorched Earth==
+'''Rewards:''' [[Gone with the Wind|<span style="color:#22d3d0;">Gone with the Wind</span>]], Blue Reagent +50
+{| class="wikitable"
+!Event
+!Requirements
+!Rewards
+|-
+|Railway Ghost (Washingtone DC)
+|8,500 FAME
+|Wood +500, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Atlanda Ghost (Louisiann)
+|9,000 FTH
+|200 W-tads, {{RewardIconWithText|Meal Box Size}} +100
+|-
+|Georgia Ghost (Michigen)
+|9,900 ART
+|Offering Speedup +2h, {{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Alien Aid==
+'''Rewards:''' {{RewardIconWithLink|Evolution Chest, +200}}, {{RewardIconWithText|Gene Speedup, +8h}}
+{| class="wikitable"
+!Event
+!Display 1 of
+!Rewards
+|-
+|Area 51 Aid (Tannessee)
+|{{RewardIconWithLink|Keyhole Satellite|purple}}<br>{{RewardIconWithLink|Skidbladnir Ship|purple}}
+|{{RewardIconWithText|Travel Speedup, +1h}}<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Dulce Base Aid (Neo-Mexico)
+|{{RewardIconWithLink|Dolly Specimen|purple}}<br>{{RewardIconWithLink|Prehistoric Fossil|purple}}
+|{{RewardIconWithText|Travel Speedup, +1h}}<br>{{RewardIconWithText|Meal Box Size}} +100
+|-
+|Roswell's Aids (Neo-Mexico)
+|{{RewardIconWithLink|Lyre of Hermes|orange}}<br>{{RewardIconWithLink|Swan Lake|orange}}<br>{{RewardIconWithLink|The Argo|orange}}
+|{{RewardIconWithText|Travel Speedup, +1h}}<br>{{RewardIconWithText|Meal Box Size}} +100
+|}
+
+==Murikan Dominator==
+'''Important Note: The notification mark for this event is currently bugged. Please manually check your map once you meet the requirements for each quest and have fully explored the map. You must also explore the North and the South'''
+
+'''Rewards:''' {{RewardIconWithText|W-Tad, +500}}, {{RewardIconWithLink|Murikan Treasure Map, +100}}
+{| class="wikitable"
+!Event
+!Requirements
+!Approximate Strength
+!ATK
+!DEF
+!HP
+!Special Stats
+!Weakness
+!Rewards
+|-
+|Defeat all [[Murika Apostles|Southern Apostles]]
+|Defeat Doombringer (Michigen)
+|2.88m
+|45,225
+|36,628
+|367,053
+|HIT +70, Paralysis RES +70%
+|CIV 10,535
+|{{RewardIconWithText|B-Tad, +10k}}<br>{{RewardIconWithText|8h Soul Yellow|yellow}} (Soul of Doombringer)<br>{{RewardIconWithLink|Gear Chest, +100}}<br>{{RewardIconWithLink|Murikan Treasure Map, +100}}
+|-
+|Defeat all [[Murika Apostles|Northern Apostles]]
+|Defeat Omegatron (Kalifornia)
+|2.88m
+|50,281
+|40,723
+|427,233
+|HIT +70, Paralysis RES +70%
+|CIV 11,470
+|{{RewardIconWithText|B-Tad, +10k}}<br>{{RewardIconWithText|8h Soul Green|green}} (Soul of Omegatron)<br>{{RewardIconWithLink|Gear Chest, +100}}<br>{{RewardIconWithLink|Murikan Treasure Map, +100}}
+|-
+|Defeat Mad Abe (Floridar)
+|Defeat Doombringer and Omegatron
+|3.04m
+|58,708
+|47,548
+|545,198
+|HIT +70, Paralysis RES +70%
+|CIV 12,475
+|{{RewardIconWithText|B-Tad, +25k}}<br>{{RewardIconWithText|8h Soul Red|red}} (Soul of Mad Abe)<br>{{RewardIconWithLink|Gear Chest, +200}}<br>{{RewardIconWithLink|Murikan Treasure Map, +100}}
+|-
+|Win the Lady Liberty (Neo-York)
+|Acquire [[Murika INTEL#Biochem INTEL|Murika Biochem INTEL tile 18 "Top Secret Task"]] to lv. 3
+|
+|
+|
+|
+|
+|
+|}
+
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Murika]]

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=The Moon Puzzle
+|class_id=22115
+|rank=AAA
+|affct=FAME
+|birthday=10-24
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Oct 24, 2018 AD, the Mysteries of the Moon was auctioned.<br>The Moon Puzzle is a meteorite classified as NWA11789, which was discovered in the Saraha desert of northwestern Africa in 2017. It is the largest lunar meteorite found on Earth so far that was named due to its unique structure. Its main composition is moonstone breccia. And It's composed of six fragments, with a total weight of nearly six kilograms. The largest fragment weighs two kilograms. No lunar meteorites discovered so far can compete with this one.
+|fame=71
+|art=41
+|fth=36
+|civ=48
+|tech=47
+|ss1=Rebel Cabin Output +3%<br>Per 1.2k Rebel Tech Pts, Snail HP +30<br>Rebel Tech Pts: 60000/60000
+|ss2=Rebel Cabin Output +4%<br>Per 1.2k Rebel Tech Pts, Snail HP +40<br>Rebel Tech Pts: 60000/60000
+|ss3=Rebel Cabin Output +5%<br>Per 1.2k Rebel Tech Pts, Snail HP +50<br>Rebel Tech Pts: 60000/60000
+|ss4=Rebel Cabin Output +7%<br>Per 1.2k Rebel Tech Pts, Snail HP +70<br>Rebel Tech Pts: 60000/60000
+|ss5=Rebel Cabin Output +9%<br>Per 1.2k Rebel Tech Pts, Snail HP +90<br>Rebel Tech Pts: 60000/60000
+|ss7=Rebel Cabin Output +9%<br>Per 1.2k Rebel Tech Pts, Snail HP +90<br>Rebel Tech Pts: 60000/60000<br>Rebel Cabin Output +7% (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Card Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +60
+}}

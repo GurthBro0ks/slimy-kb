@@ -1,0 +1,24 @@
+{{CargoOrgan
+|name=Beak of the Sky
+|type=Bionic
+|rank=red
+|id=10704
+|idx=62
+|description="It shrieked from the heavens like divine retribution, plunging from the skies above. No prey has ever escaped its hunt!" — Chronicles of the Griffon
+|skill=Awaken Eagle, dealing DMG equal to 196% of ATK, and launch an airstrike to deal DMG equal to 24% of ATK!
+|hp=2480
+|def=350
+|atk=257
+|rush=215
+|gene1=Per red organ implanted, {race} ATK +14
+Red Organs Implanted: 20/20
+|gene2=Per red organ implanted, {race} RUSH +14
+Red Organs Implanted: 20/20
+|gene3=Per red organ implanted, {race} DEF +14
+Red Organs Implanted: 20/20
+|gene4={race} ATK +14 per 5 Shrine Flying Object shot down
+Shrine flying objects shot: 100/100
+|gene5=When enemy life is above 50%, DMG dealt +10%
+|gene6=Ignore DEF +2%
+|gene7=Ignore DEF +2% (Awakened)
+|}}

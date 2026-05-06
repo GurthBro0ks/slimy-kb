@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Kay's Flying Shuttle,Gulliver's Travels,Nestor's Cup,Acta Apostolicae Sedis
+|rank=blue
+|amount=4
+|category=self
+|description=Per 100k Relic Points gained, Snail DEF +7; Relic Points: 5,000,000/5,000,000
+}}
+[[Category:Self]]
+[[Category:DEF Boost]]
+[[Category:Enhanced by Relic Points]]

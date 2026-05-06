@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=856
+|relics=Crazy Horse Memorial,Aurelius on Horse,Disquisitiones Arithmeticae,The Three Fates,A Thousand Li of Rivers and Mountains,Seven Chapters of the Mysterious Lord
+|rank=orange
+|amount=6
+|category=self
+|description=Snail Leadership +12
+}}

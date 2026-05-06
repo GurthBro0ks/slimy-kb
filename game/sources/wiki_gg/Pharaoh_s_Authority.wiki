@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Pharaoh's Authority
+|class_id=20760
+|rank=Green
+|affct=FAITH
+|source=
+|description=Kemet has a long history, the pyramids are indestructible, Earth's will specifically modifies the Pharaoh's Authority, granting travelers the ability to confront the Demon God's forces! -- Earth's Will (Seal)
+|fame=18
+|art=15
+|fth=30
+|civ=14
+|tech=13
+|ss1=Per Kemet Apostle defeated, Snail DEF +3<br>Per Kemet Apostle defeated, Snail RUSH +3<br>Kemet Apostles defeated:10/10 
+|ss2=Per Kemet Apostle defeated, Snail DEF +6<br>Per Kemet Apostle defeated, Snail RUSH +6<br>Kemet Apostles defeated:10/10 
+|ss3=Per Kemet Apostle defeated, Snail DEF +9<br>Per Kemet Apostle defeated, Snail RUSH +9<br>Kemet Apostles defeated:10/10 
+|ss4=Per Kemet Apostle defeated, Snail DEF +9<br>Per Kemet Apostle defeated, Snail RUSH +9<br>Kemet Apostles defeated:10/10 
+|ss7=Per Kemet Apostle defeated, Snail DEF +9<br>Per Kemet Apostle defeated, Snail RUSH +9<br>Kemet Apostles defeated:10/10 <br> (Awakened)
+}}

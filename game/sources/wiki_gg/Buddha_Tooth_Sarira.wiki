@@ -1,0 +1,33 @@
+
+{{CargoRelic
+|name=Buddha Tooth Sarira
+|rank=Blue
+|affct=FTH
+|birthday=10-29
+|source=Lottery Machine (0.03%), Wishing (0.85%), Bharata Treasure Maps (20%)
+|description=On Oct 29, 485 BC, this Buddhist treasure was enshrined in the pagoda by Ashoka the Great.
+
+Ashoka took out the Buddha's relics and 84,000 Sarira to enshrine them in various pagodas, including this tooth Sarira. When Buddha underwent the Nirvana, in addition to 84,000 Sarira, he also left several other Sarira made of his body parts, including the most famous Buddha Tooth. It is not only a unique treasure, but also a supreme relic of Buddhism.
+
+[Basic Info]
+
+The Vidudabha Era: Enshrined in more than 800 pagodas. Shunga Empire Era: Pagodas all destroyed. Haseva Era: Worshiped by Kirti Sri Meghavanna. Northern and Southern dynasties: Worshiped in China.
+|fame=28
+|art=29
+|fth=45
+|civ=32
+|tech=20
+|ss1=Soul Offering SPD +0.4%
+|ss2=Soul Offering SPD +0.8%
+|ss3=Soul Offering SPD +1.2%
+|ss4=Soul Offering SPD +2%
+|ss7=Soul Offering SPD +2%<br>Soul Offering SPD +2% (Awakened)
+|skill1=[[File:Bharata skill I.png|50px]]Place in Bharata Museum: In Bharata, FTH Checks -5
+}}
+
+[[Category:Offering Speed Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Bharata Museum Boost]]
+[[Category:HP Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Little Monk Boost]]

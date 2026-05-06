@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Relics of the Three Kings
+|class_id=22841
+|rank=SSS
+|affct=FAITH
+|source=
+|description=The Relics of the Three Kings are the bones of the three wise men from the East who served the infant Jesus, housed in a shrine at Cologne Cathedral, also known as the Shrine of the Three Kings. According to the Bible, the three Magi from the East saw a great star over Bethlehem and followed it to the birthplace of Jesus, offering gifts of gold, frankincense, and myrrh. This legend is also known as the Adoration of the Magi.
+|fame=60
+|art=71
+|fth=108
+|civ=60
+|tech=63
+|ss1=Snail Leadership +3<br>Angel Minion Recovery SPD +6%<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Snail Leadership +4<br>Angel Minion Recovery SPD +8%<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Snail Leadership +5<br>Angel Minion Recovery SPD +10%<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Snail Leadership +7<br>Angel Minion Recovery SPD +14%<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Snail Leadership +9<br>Angel Minion Recovery SPD +18%<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Snail Leadership +12<br>Angel Minion Recovery SPD +24%<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Snail Leadership +12<br>Angel Minion Recovery SPD +24%<br>Per 60 Angel Minions in battle:<br>> Troop HARD Stats +30<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, 2x B-tad Drops +15%
+|skill2=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, Snail RUSH +600
+|skill3=[[File:Bharata skill III.png|50px]]Place in Bharata Museum: This Relic's FTH +15
+}}

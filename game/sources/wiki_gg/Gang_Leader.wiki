@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Gang Leader
+|rank=orange
+|cabin=2
+|id=110
+|gene1={race} DEF +50
+|gene2={race} ART +50
+|gene3=Quantum Amp production +3%
+|gene4=Per 60 Demon Minions in battle,
+Troop Earth DMG +6
+|gene5=Gene Simulation Power Checks -0.9%
+|gene6=Per 60 Demon Minions in battle,
+Troop Earth DMG +10
+|gene7=Gene Simulation Power Checks -1.5%
+|}}

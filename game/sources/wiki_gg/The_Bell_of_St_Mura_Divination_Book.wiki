@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=403
+|relics=The Bell of St Mura,Divination Book
+|rank=purple
+|amount=2
+|category=self
+|description=Angel Minion HP +6%
+}}

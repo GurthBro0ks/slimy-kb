@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=The Astrology
+|class_id=20096
+|rank=Green
+|affct=CIV
+|source=
+|description=This book was written by Li Chunfeng, a Taoist priest of the Tang Dynasty. It compiled and adopted many ancient Astrological Divination classics, and retained many important astrological information. In addition, the book also describes a lot of ancient astronomical knowledge with practical significance, which is helpful for later generations to understand the astronomical theory in the past and is of great value for the research of ancient culture and technologies.
+|fame=13
+|art=12
+|fth=19
+|civ=33
+|tech=13
+|ss1=Snail Leadership +1
+|ss2=Snail Leadership +2
+|ss3=Snail Leadership +3
+|ss4=Snail Leadership +3
+|ss7=Snail Leadership +3<br> (Awakened)
+}}

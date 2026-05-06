@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Socrates' Poison,Chinchorro Mummy,Edict of Milan,Keyhole Satellite,Peacock Suit,Galileo's Ball
+|rank=purple
+|amount=6
+|category=self
+|description=Per 500 DNA Strength, Snail ATK +4<br>DNA Strength: 25,000/25,000
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]
+[[Category:Enhanced by DNA Strength]]

@@ -1,0 +1,24 @@
+{{CargoRelic
+|name=Apollo Lunar Module
+|class_id=22762
+|rank=SSS
+|affct=TECH
+|birthday=01-21
+|source=
+|description=On Jan 21, 1967 AD, the Apollo Lunar Module was officially completed in the US.<br>The Apollo Lunar Module was the spacecraft used by NASA during the Apollo moon missions. It consisted of two parts: the Command Module, responsible for navigation and life support, and the Lunar Module, used for landing on and returning from the moon. The Apollo Lunar Module played a crucial role in humanity's first successful moon landing, marking an extraordinary achievement in human space exploration.
+|fame=72
+|art=52
+|fth=67
+|civ=63
+|tech=108
+|ss1=Snail ATK +30<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +4<br>Per TECH Bionic Part extracted, Snail ATK +15<br>TECH Bionic Part Extracted: 10/10
+|ss2=Snail ATK +40<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +8<br>Per TECH Bionic Part extracted, Snail ATK +20<br>TECH Bionic Part Extracted: 10/10
+|ss3=Snail ATK +50<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +12<br>Per TECH Bionic Part extracted, Snail ATK +25<br>TECH Bionic Part Extracted: 10/10
+|ss4=Snail ATK +70<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +20<br>Per TECH Bionic Part extracted, Snail ATK +35<br>TECH Bionic Part Extracted: 10/10
+|ss5=Snail ATK +90<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +28<br>Per TECH Bionic Part extracted, Snail ATK +45<br>TECH Bionic Part Extracted: 10/10
+|ss6=Snail ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40<br>Per TECH Bionic Part extracted, Snail ATK +60<br>TECH Bionic Part Extracted: 10/10
+|ss7=Snail ATK +120<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40<br>Per TECH Bionic Part extracted, Snail ATK +60<br>TECH Bionic Part Extracted: 10/10<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: This Relic's TECH +15
+|skill2=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Cap +30%
+|skill3=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Output +30%
+}}

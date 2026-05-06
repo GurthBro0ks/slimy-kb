@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=701
+|relics=Golden Boot Award,Le Voyageur Imprudent,Ollantay,Khipu
+|rank=purple
+|amount=4
+|category=self
+|description=Snail Leadership +5
+}}

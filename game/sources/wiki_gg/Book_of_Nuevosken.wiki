@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Book of Nuevosken
+|class_id=20722
+|rank=Green
+|affct=FAITH
+|source=
+|description=The Book of Nuevosken is a book that systematically introduces magical knowledge. It provides a detailed classification of various magic and explains the principles and history of magic drawing, spells, prayers, incantations, and magic circles in an easy-to-understand manner. It is a necessary textbook for students at the Hogton Wizardry School...
+|fame=15
+|art=14
+|fth=31
+|civ=17
+|tech=13
+|ss1=Per 50 Arcanium used, Snail HP +20<br>Per 50 Arcanium used, Snail ATK +2<br>Arcanium used: 2000/2000
+|ss2=Per 50 Arcanium used, Snail HP +40<br>Per 50 Arcanium used, Snail ATK +4<br>Arcanium used: 2000/2000
+|ss3=Per 50 Arcanium used, Snail HP +60<br>Per 50 Arcanium used, Snail ATK +6<br>Arcanium used: 2000/2000
+|ss4=Per 50 Arcanium used, Snail HP +60<br>Per 50 Arcanium used, Snail ATK +6<br>Arcanium used: 2000/2000
+|ss7=Per 50 Arcanium used, Snail HP +60<br>Per 50 Arcanium used, Snail ATK +6<br>Arcanium used: 2000/2000<br> (Awakened)
+}}

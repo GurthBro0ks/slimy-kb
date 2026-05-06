@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Chang'e and Laurel
+|class_id=22268
+|rank=SSS
+|affct=ART
+|birthday=09-30
+|source=Lottery Machine No.2 (0.11%)
+|description=On Sept 30, 1509 AD, Tang Yin completed this painting — Chang'e and Laurel.<br>This painting, a masterpiece by Tang Yin, a renowned scholar of the Ming Dynasty, features Chang'e's captivating smile and her beautifully billowing skirt. The interplay of rounded and smooth lines with flowing squares greatly enhances the picture's beauty, showcasing Tang Yin's remarkable skill.
+|fame=46
+|art=109
+|fth=75
+|civ=77
+|tech=55
+|ss1=Wormhole Refinement SPD +1.2%<br>Per 200 Avatar Score, Snail HP +60<br>Per 200 Avatar Score, Snail ATK +6<br>Avatar Score: 10000/10000
+|ss2=Wormhole Refinement SPD +1.6%<br>Per 200 Avatar Score, Snail HP +70<br>Per 200 Avatar Score, Snail ATK +7<br>Avatar Score: 10000/10000
+|ss3=Wormhole Refinement SPD +2%<br>Per 200 Avatar Score, Snail HP +80<br>Per 200 Avatar Score, Snail ATK +8<br>Avatar Score: 10000/10000
+|ss4=Wormhole Refinement SPD +2.8%<br>Per 200 Avatar Score, Snail HP +100<br>Per 200 Avatar Score, Snail ATK +10<br>Avatar Score: 10000/10000
+|ss5=Wormhole Refinement SPD +3.6%<br>Per 200 Avatar Score, Snail HP +120<br>Per 200 Avatar Score, Snail ATK +12<br>Avatar Score: 10000/10000
+|ss6=Wormhole Refinement SPD +4.8%<br>Per 200 Avatar Score, Snail HP +150<br>Per 200 Avatar Score, Snail ATK +15<br>Avatar Score: 10000/10000
+|ss7=Wormhole Refinement SPD +4.8%<br>Per 200 Avatar Score, Snail HP +150<br>Per 200 Avatar Score, Snail ATK +15<br>Avatar Score: 10000/10000<br>Wormhole Refinement SPD +4% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's ART +15
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Card Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=Moonlit Beauty|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Chang'e with Plum|3rec=46.28M|3atk=163403|3defense=109012|3hp=7302357|3weak=21013
+|4name=Chang'e with Orchid|4rec=59.57M|4atk=191414|4defense=127700|4hp=9644219|4weak=23686
+|5name=Chang'e with Sunflowers|5rec=73.91M|5atk=221667|5defense=147882|5hp=12517895|5weak=29478
+|6name=Chang'e with Laurel|6rec=89.71M|6atk=254983|6defense=170109|6hp=16046605|6weak=32640
+|Arec=107.24M|Aatk=291958|Adefense=194777|Ahp=20268678|Aweak=35751
+}}}}

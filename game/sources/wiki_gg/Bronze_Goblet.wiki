@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Bronze Goblet
+|class_id=22323
+|rank=SSS
+|affct=CIV
+|birthday=05-19
+|source=
+|description=On May 19, 1705 BC, the bronze goblet was cast by an artisan of the Shang Dynasty.<br>The bronze goblet was found in the ruins of the Erlitou Ruins in Henan province. It is the earliest dated bronze goblet found in China. The goblet has four parts: the front part is for drinking, the back part is for keeping balance and putting wine in, and the middle part connects the two parts serving as the container with three feet that are considered to be the bottom part. Given the lack of brewing knowledge at the time, the goblet's rim has two short, nail-like columns that can filter wine by being covered in a filter. This makes it possible to clean the wine. The goblet's name derives from the two convex lines and five bulging dots that are engraved on one of its sides. The goblet, the first of its kind, has proportionate, curved lines throughout just like an elegant young lady.
+|fame=75
+|art=68
+|fth=66
+|civ=107
+|tech=46
+|ss1=Snail ATK +30<br>Per Fissure Incident completed, Snail ATK +6<br>Per Fissure Incident completed, Snail DEF +6<br>Fissure Incidents Completed: 25/25
+|ss2=Snail ATK +40<br>Per Fissure Incident completed, Snail ATK +8<br>Per Fissure Incident completed, Snail DEF +8<br>Fissure Incidents Completed: 25/25
+|ss3=Snail ATK +50<br>Per Fissure Incident completed, Snail ATK +10<br>Per Fissure Incident completed, Snail DEF +10<br>Fissure Incidents Completed: 25/25
+|ss4=Snail ATK +70<br>Per Fissure Incident completed, Snail ATK +14<br>Per Fissure Incident completed, Snail DEF +14<br>Fissure Incidents Completed: 25/25
+|ss5=Snail ATK +90<br>Per Fissure Incident completed, Snail ATK +18<br>Per Fissure Incident completed, Snail DEF +18<br>Fissure Incidents Completed: 25/25
+|ss6=Snail ATK +120<br>Per Fissure Incident completed, Snail ATK +24<br>Per Fissure Incident completed, Snail DEF +24<br>Fissure Incidents Completed: 25/25
+|ss7=Snail ATK +120<br>Per Fissure Incident completed, Snail ATK +24<br>Per Fissure Incident completed, Snail DEF +24<br>Fissure Incidents Completed: 25/25<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop DMG toward heroes +6%
+|skill2=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Water DMG +60
+|skill3=[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion ATK +9%
+|mirage={{Mirage|name=Luoyang Museum|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Bronze Turtledove Cart|3rec=10.63M|3atk=84258|3defense=56212|3hp=2095735|3weak=14440
+|4name=Lattice Bronze Tripod|4rec=15.41M|4atk=102633|4defense=68471|4hp=3075538|4weak=17541
+|5name=Bronze Rectangular Ding|5rec=27.24M|5atk=123250|5defense=82225|5hp=4395927|5weak=18675
+|6name=Bronze Dragon Head|6rec=37.87M|6atk=145659|6defense=97175|6hp=5995024|6weak=19750
+|Arec=50.09M|Aatk=171429|Adefense=114367|Ahp=8060156|Aweak=21775
+}}}}

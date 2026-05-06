@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=The Last Judgment
+|class_id=22291
+|rank=SSS
+|affct=FAITH
+|birthday=12-21
+|source=
+|description=On Dec 21, 1541 AD, Michelangelo completed the fresco of The Last Judgment in Sistine Chapel.<br>The fresco is a masterpiece of the Italian Renaissance painter Michelangelo. There are over 300 figures in it, covering the whole altar wall of the Sistine Chapel in Vatican City, including the dead rise and descend to their fates, as judged by Christ who is surrounded by prominent saints, contrasting an ordered, harmonious heavenly world above with the tumultuous events taking place in the earthly zone below. However, the original version was questioned as being profane after Michelangelo died, so the Pope asked painters to cover up some figures with painted draperies.
+|fame=62
+|art=73
+|fth=108
+|civ=49
+|tech=70
+|ss1=Snail ATK +30<br>When offering, 2x Chaos Chest Drops +3%<br>Per FTH Master Scroll used, Snail RUSH +12<br>FTH Master Scrolls Used: 10/10
+|ss2=Snail ATK +40<br>When offering, 2x Chaos Chest Drops +4%<br>Per FTH Master Scroll used, Snail RUSH +16<br>FTH Master Scrolls Used: 10/10
+|ss3=Snail ATK +50<br>When offering, 2x Chaos Chest Drops +5%<br>Per FTH Master Scroll used, Snail RUSH +20<br>FTH Master Scrolls Used: 10/10
+|ss4=Snail ATK +70<br>When offering, 2x Chaos Chest Drops +7%<br>Per FTH Master Scroll used, Snail RUSH +28<br>FTH Master Scrolls Used: 10/10
+|ss5=Snail ATK +90<br>When offering, 2x Chaos Chest Drops +9%<br>Per FTH Master Scroll used, Snail RUSH +36<br>FTH Master Scrolls Used: 10/10
+|ss6=Snail ATK +120<br>When offering, 2x Chaos Chest Drops +12%<br>Per FTH Master Scroll used, Snail RUSH +48<br>FTH Master Scrolls Used: 10/10
+|ss7=Snail ATK +120<br>When offering, 2x Chaos Chest Drops +12%<br>Per FTH Master Scroll used, Snail RUSH +48<br>FTH Master Scrolls Used: 10/10<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=Painted Beings|reward={{RewardIconWithLink|Coating Bucket, +3|orange}}
+|3name=Painted St. Lawrence|3rec=62.00M|3atk=196559|3defense=131132|3hp=10149802|3weak=24772
+|4name=Painted St. John|4rec=77.64M|4atk=229533|4defense=153130|4hp=13530477|4weak=30461
+|5name=Painted St. Peter|5rec=95.25M|5atk=266668|5defense=177905|5hp=17445525|5weak=33613
+|6name=Painted Mary|6rec=114.83M|6atk=307964|6defense=205455|6hp=22198021|6weak=36860
+|Arec=136.54M|Aatk=353743|Adefense=235996|Ahp=28262080|Aweak=40349
+}}}}

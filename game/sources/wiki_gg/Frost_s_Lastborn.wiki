@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Frost's Lastborn
+|rank=blue
+|cabin=2
+|id=16
+|gene1={race} HP +200
+|gene2={race} TECH +20
+|gene3=Resolver: 1.5% chance +1 Cultivation Fluid
+|gene4=Per 10 Demon Minions in battle:
+> Troop HP +20
+|gene5=Resolver: 3% chance +1 Cultivation Fluid
+|}}

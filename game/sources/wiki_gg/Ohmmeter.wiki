@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Ohmmeter
+|class_id=22496
+|rank=Blue
+|affct=TECH
+|birthday=04-02
+|source=Lottery Machine No.3 (0.03%)
+|description=On Apr 2, 1826 AD, Ohm published his first paper on Ohm's law.<br>An ohmmeter is an instrument that directly measures resistance and is made based on Ohm's law for a closed circuit. At that time, people were unclear about the concepts of current, voltage, and resistance, and Ohm himself had no opportunity to contact contemporary physicists during his research and could only explore on his own. He creatively used Coulomb's method to create a current torsion balance, introduced and defined the precise concepts of electromotive force, current intensity, and resistance and brought great convenience to the study of electricity. In order to commemorate him, the unit of resistance was named Ohm.
+|fame=31
+|art=19
+|fth=34
+|civ=23
+|tech=47
+|ss1=Snail DEF +10
+|ss2=Snail DEF +20
+|ss3=Snail DEF +30
+|ss4=Snail DEF +50
+|ss7=Snail DEF +50<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Forestsanctum skill I.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +5%
+}}

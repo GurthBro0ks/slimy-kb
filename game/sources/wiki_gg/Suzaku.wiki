@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Suzaku
+|rank=orange
+|cabin=2
+|id=152
+|gene1={race} DEF +50
+|gene2={race} ART +50
+|gene3=Gene Simulation Power Checks -0.9%
+|gene4=Per 60 Angel Minions in battle,
+Troop Earth DMG +6
+|gene5=Angel Minion Cloning SPD +1.2%
+|gene6=Per 60 Angel Minions in battle,
+Troop Earth DMG +10
+|gene7=Angel Minion Cloning SPD +2%
+|}}

@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Erinyes’ Shackles
+|class_id=21240
+|rank=SSS
+|affct=FAITH
+|source=
+|description=Forged by Atropos, these bronze shackles were used in trials under moonlit Athens. The Erinyes pursued blood crimes until Athena cast her deciding pebble. A symbol of the shift from vengeance to civic justice in ancient law.
+|fame=68
+|art=75
+|fth=107
+|civ=48
+|tech=64
+|ss1=Zombie Minion ATK +3%<br>Per 60 T8+ Minions deployed, Troop RUSH +36<br>Per 60 T8+ Minions deployed, Troop DEF +36
+|ss2=Zombie Minion ATK +4%<br>Per 60 T8+ Minions deployed, Troop RUSH +48<br>Per 60 T8+ Minions deployed, Troop DEF +48
+|ss3=Zombie Minion ATK +5%<br>Per 60 T8+ Minions deployed, Troop RUSH +60<br>Per 60 T8+ Minions deployed, Troop DEF +60
+|ss4=Zombie Minion ATK +7%<br>Per 60 T8+ Minions deployed, Troop RUSH +84<br>Per 60 T8+ Minions deployed, Troop DEF +84
+|ss5=Zombie Minion ATK +9%<br>Per 60 T8+ Minions deployed, Troop RUSH +108<br>Per 60 T8+ Minions deployed, Troop DEF +108
+|ss6=Zombie Minion ATK +12%<br>Per 60 T8+ Minions deployed, Troop RUSH +144<br>Per 60 T8+ Minions deployed, Troop DEF +144
+|ss7=Zombie Minion ATK +12%<br>Per 60 T8+ Minions deployed, Troop RUSH +144<br>Per 60 T8+ Minions deployed, Troop DEF +144<br>Per 60 T8+ Minions deployed, Troop RUSH +120 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's FTH +15
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: Medal Output +30
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Card Drops +15%
+}}

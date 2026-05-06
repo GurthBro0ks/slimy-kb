@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Lotus Chalice
+|rank=SSS
+|affct=ART
+|birthday=12-29
+|source=Grandmaster Scrolls (0.81%), Kemetic Treasure Chests (0.01%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.08%)
+|description=On Dec 29, 1922 AD, this chalice, created by Pharaoh for the gods, fulfilled one last wish. 
+
+Howard, an archaeologist from Britain, devoted his life to exploring the tombs of Egyptian pharaohs. His life goal was to find the largest tomb. When he entered the pharaoh's tomb, there was an alabaster cup at the center of the hall. Howard picked up the cup and red the text inscribed on the inner edge, "If you turn and face the northern wind, you will attain happiness for years to come." Over the years, many who had stepped into the tomb died mysteriously, but Howard died happily of old age.
+|fame=58
+|art=107
+|fth=66
+|civ=67
+|tech=64
+|ss1=Lottery Blue Beads turn to Purple by +0.6%<br>Per 20 Purple Beads drawn, Snail HP +60<br>Per 20 Purple Beads drawn, Snail ATK +6<br> Purple Beads Drawn: 300/300
+|ss2=Lottery Blue Beads turn to Purple by +0.8%<br>Per 20 Purple Beads drawn, Snail HP +80<br>Per 20 Purple Beads drawn, Snail ATK +8<br> Purple Beads Drawn: 300/300
+|ss3=Lottery Blue Beads turn to Purple by +1%<br>Per 20 Purple Beads drawn, Snail HP +100<br>Per 20 Purple Beads drawn, Snail ATK +10<br> Purple Beads Drawn: 300/300
+|ss4=Lottery Blue Beads turn to Purple by +1.4%<br>Per 20 Purple Beads drawn, Snail HP +140<br>Per 20 Purple Beads drawn, Snail ATK +14<br> Purple Beads Drawn: 300/300
+|ss5=Lottery Blue Beads turn to Purple by +1.8%<br>Per 20 Purple Beads drawn, Snail HP +180<br>Per 20 Purple Beads drawn, Snail ATK +18<br> Purple Beads Drawn: 300/300
+|ss6=Lottery Blue Beads turn to Purple by +2.4%<br>Per 20 Purple Beads drawn, Snail HP +240<br>Per 20 Purple Beads drawn, Snail ATK +24<br> Purple Beads Drawn: 300/300
+|ss7=Lottery Blue Beads turn to Purple by +2.4%<br>Per 20 Purple Beads drawn, Snail HP +240<br>Per 20 Purple Beads drawn, Snail ATK +24<br> Purple Beads Drawn: 300/300<br>Lottery Blue Beads turn to Purple by +1% (Awakened)
+|skill1=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: B-tad Output +30%
+|skill2=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Max Cap +30%
+|skill3=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Generate W-tads by +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Lottery Bead Color Change]]
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Tadpole Pond W-Tad Output Boost]]
+[[Category:Realm Boost]]
+[[Category:Time Machine Output Boost]]
+[[Category:Rewards Wish Coin]]
+[[Category:Koryeon Snail Boost]]

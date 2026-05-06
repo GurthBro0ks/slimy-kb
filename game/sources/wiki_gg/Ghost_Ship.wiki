@@ -1,0 +1,669 @@
+==Ghost Ship==
+[[File:Ghost Ship.png|100px|left|alt=Ghost Ship]]
+The dead is still here!
+
+1. Acquire [[Britland INTEL#Fleet Management|Fleet Management INTEL tile 8 "Age of Exploration"]] to unlock the [[Mysterious Sea]]
+
+2. Clear 100% of the first 5 seas to obtain {{RewardIconWithLink|Kraken Trumpet|green}}
+
+3. Unlock the [[Mysterious Sea#Doomsday Sea|Doomsday Sea]] and activate the Psychic Tower
+
+4. Travel to the top right corner of the floor and defeat the Ghost Ship 
+{{clear}}
+
+When first obtained in [[Britland]], the Ghost Ship reduces enemy Earth, Water, Fire, and Wind RES by 2, reduces enemy CRIT by 0.4%, and reduces enemy HIT by 0.2%. This is at level 1, and after upgrading to maximum (level 30), the Ghost Ship reduces enemy Earth, Water, Fire, and Wind RES by 100, reduces enemy CRIT by 20%, and reduces enemy HIT by 10%. and can then be unsealed with {{RewardIconWithLink|Magic Potion}}. Note that while ELMT REDUC applies to all enemies, CRIT and HIT reductions only apply to other players. It is recommended to use this for all PvP battles, specifically the {{RewardIconWithLink|Snail Arena}}.
+
+===Upgrade Materials===
+Upgrading the Ghost Ship requires Sailor's Wail, which is obtained anytime a Sailor dies during exploration of the [[Mysterious Sea]]. This is often not enough to fully upgrade the Ghost Ship, so [[Britland INTEL#Fleet Management|Fleet Management INTEL]] tile 15 "Sea Burial" is needed to trade NAV coins for Sailor's Wail. They are bought by attempting to upgrade part of the Ghost Ship without enough Sailor's Wails which will give a prompt to buy enough to max that part.
+
+===Upgrade Ghost Ship Features===
+The {{RewardIconWithLink|Ghost Ship Figurehead}} can be found in the [[Britland Domain]] to further upgrade the Ghost Ship.
+
+==Stats==
+The cost of upgrading each Cabin is the same, and the effect is the same as well. 50,000 total Sailor's Wail is needed to raise one part to max level, so 300,000 total Sailor's Wail is required to raise all 6 parts to maximum. 
+
+{|class=wikitable
+!Cabin
+!Effect
+|-
+|Earth Cabin
+|Before combat, reduce enemy Earth RES by __
+|-
+|Water Cabin
+|Before combat, reduce enemy Water RES by __
+|-
+|Fire Cabin
+|Before combat, reduce enemy Fire RES by __
+|-
+|Wind Cabin
+|Before combat, reduce enemy Wind RES by __
+|-
+|Bow Icon
+|Against main species, enemy CRIT -__%
+|-
+|Stern Icon
+|Against main species, enemy HIT -__%
+|}
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Sailor's Wail
+!Cabins
+! Bow Icon
+!Stern Icon
+|-
+|1
+|
+|2
+|0.4
+|0.2
+|-
+|2
+|60
+|4
+|0.8
+|0.4
+|-
+|3
+|100
+|6
+|1.2
+|0.6
+|-
+|4
+|140
+|8
+|1.6
+|0.8
+|-
+|5
+|180
+|10
+|2
+|1
+|-
+|6
+|220
+|12
+|2.4
+|1.2
+|-
+|7
+|260
+|14
+|2.8
+|1.4
+|-
+|8
+|300
+|16
+|3.2
+|1.6
+|-
+|9
+|340
+|18
+|3.6
+|1.8
+|-
+|10
+|380
+|20
+|4
+|2
+|-
+| 11
+|420
+|22
+|4.4
+|2.2
+|-
+| 12
+|460
+|24
+|4.8
+|2.4
+|-
+|13 
+|500
+|26
+|5.2
+|2.6
+|-
+|14
+|540
+|28
+|5.6
+|2.8
+|-
+|15
+|580
+|30
+|6
+|3
+|-
+| 16
+|620
+|32
+|6.4
+|3.2
+|-
+|17
+|660
+|34
+|6.8
+|3.4
+|-
+|18
+|700
+|36
+|7.2
+|3.6
+|-
+|19
+|740
+|38
+|7.6
+|3.8
+|-
+|20
+|780
+|40
+|8
+|4
+|-
+|21
+|820
+|42
+|8.4
+|4.2
+|-
+|22
+|860
+|44
+|8.8
+|4.4
+|-
+|23 
+|900
+|46
+|9.2
+|4.6
+|-
+|24
+|940
+|48
+|9.6
+|4.8
+|-
+|25
+|980
+|50
+|10
+|5
+|-
+|26
+|1020
+|52
+|10.4
+|5.2
+|-
+|27
+|1060
+|54
+|10.8
+|5.4
+|-
+|28
+|1100
+|56
+|11.2
+|5.6
+|-
+|29
+|1140
+|58
+|11.6
+|5.8
+|-
+|30
+|1180
+|60
+|12
+|6
+|-
+|31
+|1220
+|62
+|12.4
+|6.2
+|-
+|32
+|1260
+|64
+|12.8
+|6.4
+|-
+|33
+|1300
+|66
+|13.2
+|6.6
+|-
+| 34
+|1340
+|68
+|13.6
+|6.8
+|-
+|35
+|1380
+|70
+|14
+|7
+|-
+|36
+|1420
+|72
+|14.4
+|7.2
+|-
+|37
+|1460
+|74
+|14.8
+|7.4
+|-
+|38
+|1500
+|76
+|15.2
+|7.6
+|-
+|39
+|1540
+|78
+|15.6
+|7.8
+|-
+|40
+|1580
+|80
+|16
+|8
+|-
+|41
+|1620
+|82
+|16.4
+|8.2
+|-
+|42 
+|1660
+|84
+|16.8
+|8.4
+|-
+|43
+|1700
+|86
+|17.2
+|8.6
+|-
+|44
+|1740
+|88
+|17.6
+|8.8
+|-
+|45
+|1780
+|90
+|18
+|9
+|-
+|46
+|1820
+|92
+|18.4
+|9.2
+|-
+|47
+|1860
+|94
+|18.8
+|9.4
+|-
+|48
+|1900
+|96
+|19.2
+|9.6
+|-
+|49
+|1940
+|98
+|19.6
+|19.8
+|-
+|50
+|2000
+|100
+|20
+|10
+|}
+
+==Unsealing==
+Once the Ghost Ship has been upgraded to the max level (30), you have the option to Unseal the Spirit trapped inside. Doing this costs [[Weekly Events|300 Magic Potion]]. Unsealing releases the spirit Robinson, who will gift you one of each orange Fungus as a thank you. 
+
+Upgrading Robinson is quite expensive, but doing so gives permanent buffs to your snail. 
+{| class="mw-collapsible mw-collapsed wikitable"
+! rowspan="2" |Tier 
+! rowspan="2" | Potion Cost 
+! rowspan="2" |B-tads Cost
+! colspan="4" |Cumulative effect, or
+|-
+!HP +
+!ATK +
+!DEF +
+!RUSH +
+|-
+|T1
+|
+|
+|200
+|20
+|40
+|20 
+|-
+|T2
+| 100
+|4k
+| 400
+|40 
+|80
+|40
+|-
+|T3
+|110
+|6k
+| 600
+|60
+| 120
+|60 
+|-
+| T4
+|120
+|8k
+|800
+|80
+|160
+| 80
+|-
+|T5 
+|130
+|10k
+| colspan="4" style="text-align:center" |Against main species, enemy CRIT -2%
+|-
+|T6
+| 150
+|12k 
+|1100
+|110
+|220
+|110
+|-
+|T7
+|170
+|14k
+|1400
+|140
+|280
+|140
+|-
+|T8
+|190
+|16k
+|1700
+|170
+|340
+|170
+|-
+|T9
+| 210
+|18k
+| 2000
+| 200
+|400
+|200 
+|-
+|T10
+|230
+|20k
+| colspan="4" style="text-align:center" |Against main species, enemy CRIT -4%
+|-
+|T11
+|260
+|22k
+|2400
+| 240
+|480 
+|240
+|-
+|T12
+|290
+|24k
+|2800 
+|280
+|560 
+|280 
+|-
+|T13
+|320
+|26k
+|3200 
+|320
+| 640
+|320
+|-
+|T14 
+|350
+|28k
+|3600
+|360
+|720
+|360
+|-
+|T15
+|380
+|30k
+| colspan="4" style="text-align:center" |Before combat, reduce enemy Wind RES by +50
+|-
+|T16
+|420
+|32k
+|4100
+|410
+|820
+|410
+|-
+|T17
+|460
+|34k
+|4600
+|460
+|920
+|460
+|-
+|T18
+|500
+|36k
+|5100
+|510
+|1020
+|510
+|-
+|T19
+| 540
+|38k
+|5600
+|560
+|1120
+|560
+|-
+|T20
+| 580
+|40k
+| colspan="4" style="text-align:center" |Before combat, reduce enemy Fire RES by +50
+|-
+|T21
+|630
+|42k
+|6200
+|620
+|1240
+|620
+|-
+|T22
+|680
+|44k
+|6800
+|680
+|1360
+|680
+|-
+|T23
+|730
+|46k
+|7400
+|740
+|1480
+|740
+|-
+|T24
+|780
+|48k
+|8000
+|800
+|1600
+|800
+|-
+|T25
+|830
+|50k
+| colspan="4" style="text-align:center" |Before combat, reduce enemy Water RES by +50
+|-
+|T26
+|890
+|52k
+|8800
+|880
+|1760
+|880
+|-
+|T27
+|950
+|54k
+|9600
+|960
+|1920
+|960
+|-
+|T28
+|1010
+|56k
+|10400
+|1040
+|2080
+|1040
+|-
+|T29
+|1070
+|58k
+|11200
+|1120
+|2240
+|1120
+|-
+|T30
+|1130
+|60k
+| colspan="4" style="text-align:center" |Before combat, reduce enemy Earth RES by +50
+|-
+|T31
+|
+|
+|
+|
+|
+|
+|-
+|T32
+|
+|
+|
+|
+|
+|
+|-
+|T33
+|
+|
+|
+|
+|
+|
+|-
+|T34
+|
+|
+|
+|
+|
+|
+|-
+|T35
+|
+|
+| colspan="4" style="text-align:center" |Against main species, enemy HIT -5%
+|-
+|T36
+|
+|
+|
+|
+|
+|
+|-
+|T37
+|
+|
+|
+|
+|
+|
+|-
+|T38
+|
+|
+|
+|
+|
+|
+|-
+|T39
+|
+|
+|
+|
+|
+|
+|-
+|T40
+|
+|
+| colspan="4" style="text-align:center" |Against main species, enemy HIT -10%
+|}
+
+[[Category:Britland]]
+[[Category:Realm Trait]]

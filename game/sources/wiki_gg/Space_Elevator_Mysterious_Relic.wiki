@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Space Elevator,Mysterious Relic
+|rank=orange
+|amount=2
+|category=self
+|description=Per devotee appointed, Snail ATK +7
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]

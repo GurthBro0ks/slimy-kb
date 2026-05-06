@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Maglev Kimchi Jar
+|class_id=20037
+|rank=Green
+|affct=TECH
+|source=
+|description=
+|fame=19
+|art=15
+|fth=17
+|civ=9
+|tech=30
+|ss1=In explorations, 2x Food Drops +0.4%
+|ss2=In explorations, 2x Food Drops +0.8%
+|ss3=In explorations, 2x Food Drops +1.2%
+|ss4=In explorations, 2x Food Drops +1.2%
+|ss7=In explorations, 2x Food Drops +1.2%<br> (Awakened)
+}}

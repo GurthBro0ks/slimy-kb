@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=69
+|relics=Templar Emblem,Minie Ball,Marseilles Statue,Art of Ninja,Aztec Calendar
+|rank=blue
+|amount=5
+|category=self
+|description=Per 200 DNA Strength, Snail ATK +3;DNA Strength: 6400/6400
+}}

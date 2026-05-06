@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=The Yellow Sign
+|class_id=22872
+|rank=SSS
+|affct=CIV
+|source=
+|description=Originating from the relic of the god of deceit, believers stubbornly believe that those who obtain the Yellow Sign will become the chosen ones blessed by the god of deceit. Ironically, how could the god of deceit bless insignificant humans like ants? Anyone who comes into contact with the Yellow Sign will have their dreams distorted, and whenever they fall asleep, they will be tormented by indescribable nightmares until they descend into madness or death.
+|fame=72
+|art=65
+|fth=62
+|civ=106
+|tech=57
+|ss1=Snail Leadership +3<br>Mutant Minion Recovery SPD +6%<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Snail Leadership +4<br>Mutant Minion Recovery SPD +8%<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Snail Leadership +5<br>Mutant Minion Recovery SPD +10%<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Snail Leadership +7<br>Mutant Minion Recovery SPD +14%<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Snail Leadership +9<br>Mutant Minion Recovery SPD +18%<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Snail Leadership +12<br>Mutant Minion Recovery SPD +24%<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Snail Leadership +12<br>Mutant Minion Recovery SPD +24%<br>Per 60 Mutant Minions in battle:<br>> Troop HARD Stats +30<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's CIV +15
+|skill2=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail RUSH +600
+|skill3=[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x B-tad Drops +15%
+}}

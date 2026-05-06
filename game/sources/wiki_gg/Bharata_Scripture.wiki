@@ -1,0 +1,18 @@
+{{Missing Info|specifics=<br>Source<br>Categories}}
+
+{{CargoRelic
+|name=Bharata Scripture
+|class_id=20761
+|rank=Green
+|affct=FTH
+|source=
+|description=The Bharata Scripture is profound, to gain power from it, Earth's will awards travelers with a customized Sanskrit scripture to accelerate research and eliminate the Demon God's forces as soon as possible! -- Earth's Will (Seal)
+|fame=15
+|art=14
+|fth=30
+|civ=18
+|tech=13
+|ss1=Per Bharata Apostle defeated, Snail DEF +3<br>Per Bharata Apostle defeated, Snail RUSH +3<br>Bharata Apostles defeated:10/10 
+|ss2=Per Bharata Apostle defeated, Snail DEF +6<br>Per Bharata Apostle defeated, Snail RUSH +6<br>Bharata Apostles defeated:10/10 
+|ss3=Per Bharata Apostle defeated, Snail DEF +9<br>Per Bharata Apostle defeated, Snail RUSH +9<br>Bharata Apostles defeated:10/10 
+}}

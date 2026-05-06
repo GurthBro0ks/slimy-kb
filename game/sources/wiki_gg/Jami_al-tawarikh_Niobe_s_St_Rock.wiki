@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=580
+|relics=Jami' al-tawarikh,Niobe's St Rock
+|rank=blue
+|amount=2
+|category=self
+|description=Per Tribal Chief defeated, Snail RUSH +5;Tribal Chiefs Defeated: 50/50
+}}

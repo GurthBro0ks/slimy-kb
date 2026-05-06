@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Scale of Fate
+|type=Bionic
+|rank=orange
+|id=10690
+|idx=48
+|description="We crossed ancient abysses and glacial lands, waged war with giants, made peace with mankind — and through it all, the dragon scale granted us supreme protection."
+— Codex Draconis
+|skill=Before round start, summon Dragon's Breath, reducing the enemy's DEF by 52% this round!
+|hp=1772
+|def=192
+|atk=320
+|rush=156
+|gene1=Snail Arena, Total Power Checks -6%
+|gene2=In Snail Arena, HIT +9%
+|gene3=In Snail Arena, {race} RUSH +140
+|gene4=Snail Arena, paralysis RES +3%
+|gene5=Snail Arena, dodge rate +9%
+|gene7=Snail Arena, paralysis RES +3% (Awakened)
+|}}

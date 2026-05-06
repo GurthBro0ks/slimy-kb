@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Deserted Island Title
+|class_id=20427
+|rank=Green
+|affct=FAME
+|source=
+|description=The uninhabited island designated as XKG248 is hereby acquired for development by Raccoon Gang. The organization shall enjoy all benefits of the island's development and possess the right to build the island, under the rights guaranteed by the Department of Lands and Deeds! —Department of Lands & Deeds
+|fame=29
+|art=16
+|fth=15
+|civ=17
+|tech=13
+|ss1=Per 5 Fungus Farm LVLs, Snail RUSH +4<br>Fungus Farm LVL: 50/50
+|ss2=Per 5 Fungus Farm LVLs, Snail RUSH +8<br>Fungus Farm LVL: 50/50
+|ss3=Per 5 Fungus Farm LVLs, Snail RUSH +12<br>Fungus Farm LVL: 50/50
+|ss4=Per 5 Fungus Farm LVLs, Snail RUSH +12<br>Fungus Farm LVL: 50/50
+|ss7=Per 5 Fungus Farm LVLs, Snail RUSH +12<br>Fungus Farm LVL: 50/50<br> (Awakened)
+}}

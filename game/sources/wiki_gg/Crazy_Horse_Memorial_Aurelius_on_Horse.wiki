@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=853
+|relics=Crazy Horse Memorial,Aurelius on Horse
+|rank=orange
+|amount=2
+|category=self
+|description=Per 1,000 Hellas Disciples advanced, Snail ATK +21;Hellas Disciples Advanced: 20000/20000
+}}

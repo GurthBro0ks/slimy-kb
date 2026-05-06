@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Time Crystal
+|class_id=20351
+|rank=Green
+|affct=TECH
+|source=
+|description=The time crystal has more than four dimensions, always retaining a non-equilibrium state within its surroundings, and has an active space-time cycle. It can break timeline symmetry and change state according to temporal movement, but will ultimately resume its original shape, circling around just like a hand on a clock. Moreover, since it's in a state similar to perpetual motion, when the crystal is at its lowest energy point, energy is conserved within so as to not violate the law of conservation.
+|fame=14
+|art=16
+|fth=16
+|civ=15
+|tech=29
+|ss1=Wormhole Refinement SPD +2%<br>Per 5 Wormhole Refines, Snail ATK +1<br>Wormhole Refines: 200/200
+|ss2=Wormhole Refinement SPD +4%<br>Per 5 Wormhole Refines, Snail ATK +2<br>Wormhole Refines: 200/200
+|ss3=Wormhole Refinement SPD +6%<br>Per 5 Wormhole Refines, Snail ATK +3<br>Wormhole Refines: 200/200
+|ss4=Wormhole Refinement SPD +6%<br>Per 5 Wormhole Refines, Snail ATK +3<br>Wormhole Refines: 200/200
+|ss7=Wormhole Refinement SPD +6%<br>Per 5 Wormhole Refines, Snail ATK +3<br>Wormhole Refines: 200/200<br> (Awakened)
+}}

@@ -1,0 +1,22 @@
+{{CargoOrgan
+|name=True Eye of Sealing
+|type=Bionic
+|rank=red
+|id=10721
+|idx=79
+|description="Countless heroes have fallen on the path to slay the demon. They braved death without fear. But when they met that gaze... they laid down their swords in hopeless surrender."
+— Demon King's Revelation
+|skill=Before round start, intimidate the opponent with a gaze, reducing the enemy's DEF by 60% this round!
+|hp=2120
+|def=373
+|atk=242
+|rush=243
+|gene1=Per Xenoking Organ implanted, {race} DEF +42
+Xenoking Organs implanted: 7/7
+|gene2=Snail Arena, All ELMT DMG +2%
+|gene3=In Snail Arena, {race} DEF +140
+|gene4=Each round, {race} RUSH +80
+|gene5=Earth RES +120
+|gene6=Snail Arena, enemy HP Regen -24%
+|gene7=Earth RES +6% (Awakened)
+|}}

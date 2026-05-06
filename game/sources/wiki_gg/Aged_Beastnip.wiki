@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Aged Beastnip
+|class_id=20980
+|rank=Green
+|affct=FAME
+|source=
+|description=Beastnip exhibits a unique allure to animals, stimulating specialized receptors in their brains to induce euphoric responses characterized by heightened excitement and delight. When naturally air-dried and properly aged, the fragrance of matured beastmint intensifies while maintaining prolonged potency.
+|fame=29
+|art=15
+|fth=15
+|civ=17
+|tech=14
+|ss1=Per 100 catalysis, Snail ATK +3<br>Catalysis: 5000/5000
+|ss2=Per 100 catalysis, Snail ATK +4<br>Catalysis: 5000/5000
+|ss3=Per 100 catalysis, Snail ATK +5<br>Catalysis: 5000/5000
+|ss4=Per 100 catalysis, Snail ATK +5<br>Catalysis: 5000/5000
+|ss7=Per 100 catalysis, Snail ATK +5<br>Catalysis: 5000/5000<br> (Awakened)
+}}

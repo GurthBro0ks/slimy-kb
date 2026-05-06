@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Lavoisier's Bell Jar
+|class_id=22101
+|rank=Blue
+|affct=TECH
+|birthday=10-16
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Oct 16, 1774 AD, inspired by Priestley and Scheler, Lavoisier designed the bell jar experiment.<br>This bell jar was used by Lavoisier to conduct experiments on oxygen's role in combustion. He filled a furnace with mercury, which led to an air chamber in the bell jar. The mercury in the furnace was slowly heated. After twenty days, a reddish compound formed on the mercury and the volume of the air decreased in the bell jar. Through this experiment, Lavoisier successfully disproved the phlogiston theory which had been accepted amongst the scientific community for nearly a hundred years, and further verified the existence of oxygen in the air.
+|fame=27
+|art=24
+|fth=33
+|civ=25
+|tech=45
+|ss1=Mecha Minion DEF +1%
+|ss2=Mecha Minion DEF +2%
+|ss3=Mecha Minion DEF +3%
+|ss4=Mecha Minion DEF +5%
+|ss7=Mecha Minion DEF +5%<br>Mecha Minion DEF +5% (Awakened)
+|skill1=[[File:Surfclam skill I.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion RUSH +1.5%
+}}

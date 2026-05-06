@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Maple Leaf Bookmark
+|class_id=20548
+|rank=Green
+|affct=CIV
+|source=
+|description=Made from sealing a red autumn maple leaf in plastic films, its simple and elegant look epitomizes the essence of autumn. Suitable for gifting and collecting alike.
+|fame=13
+|art=17
+|fth=15
+|civ=30
+|tech=15
+|ss1=Snail ATK +20<br>Per Master Scroll used, Snail HP +10<br>Master Scrolls Used: 40/40
+|ss2=Snail ATK +40<br>Per Master Scroll used, Snail HP +20<br>Master Scrolls Used: 40/40
+|ss3=Snail ATK +60<br>Per Master Scroll used, Snail HP +30<br>Master Scrolls Used: 40/40
+|ss4=Snail ATK +60<br>Per Master Scroll used, Snail HP +30<br>Master Scrolls Used: 40/40
+|ss7=Snail ATK +60<br>Per Master Scroll used, Snail HP +30<br>Master Scrolls Used: 40/40<br> (Awakened)
+}}

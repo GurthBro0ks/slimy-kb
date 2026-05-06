@@ -1,0 +1,17 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=While 108 roses are often used for a proposal, a romance player presented 107 roses, saying, "These roses represent my affection. The missing one? It signifies my intention to keep you in my thoughts, as I cannot make any promises."
+|affct=ART
+|hard=DEF
+|source=Snalentines Pack, 2025
+|color=purple
+|earth=7
+|water=7
+|fire=6
+|wind=6
+|form=Dragon
+|element=Fire
+|realm=Rift
+|orangehard=RUSH
+}}

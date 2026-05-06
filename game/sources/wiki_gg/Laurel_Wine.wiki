@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Laurel Wine
+|class_id=20533
+|rank=Green
+|affct=CIV
+|source=
+|description=The laurel tree cut by Wu Gang for thousands of years remains vibrant and alive. Every Mid-Autumn Festival, the laurel tree will bloom fragrant flowers, which are then brewed into a delicious wine, unparalleled in both heaven and earth!
+|fame=14
+|art=17
+|fth=15
+|civ=31
+|tech=13
+|ss1=Per Incense used, Snail ATK +3<br>Incense Used: 20/20
+|ss2=Per Incense used, Snail ATK +6<br>Incense Used: 20/20
+|ss3=Per Incense used, Snail ATK +9<br>Incense Used: 20/20
+|ss4=Per Incense used, Snail ATK +9<br>Incense Used: 20/20
+|ss7=Per Incense used, Snail ATK +9<br>Incense Used: 20/20<br> (Awakened)
+}}

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Napoleonic Code
+|class_id=21923
+|rank=SSS
+|affct=FAME
+|birthday=10-14
+|source=
+|description=On Oct 14, 1800 AD, French Emperor Napoleon issued this famous code of law.<br>At the end of the Brumaire Coup, Napoleon became the leader of France. To promote reforms, he eliminated the remnants of feudalism that existed before the Great Revolution, and the traditional concept of class. Napoleon formulated a plan to promote freedom and equality. Napoleon chose four famous jurists to draft the new laws: Tronche, Marville, Preamena, and Portalis. Although Napoleon was eventually exiled to a remote island and forbidden from leaving, this code became a model for national legislation.
+|fame=107
+|art=48
+|fth=70
+|civ=71
+|tech=66
+|ss1=Snail Leadership +3<br>Per 60 Minions in battle:<br>> Troop RUSH +9<br>Per 60 Minions in battle:<br>> Troop HARD Stats +3
+|ss2=Snail Leadership +4<br>Per 60 Minions in battle:<br>> Troop RUSH +18<br>Per 60 Minions in battle:<br>> Troop HARD Stats +6
+|ss3=Snail Leadership +5<br>Per 60 Minions in battle:<br>> Troop RUSH +27<br>Per 60 Minions in battle:<br>> Troop HARD Stats +9
+|ss4=Snail Leadership +7<br>Per 60 Minions in battle:<br>> Troop RUSH +45<br>Per 60 Minions in battle:<br>> Troop HARD Stats +15
+|ss5=Snail Leadership +9<br>Per 60 Minions in battle:<br>> Troop RUSH +63<br>Per 60 Minions in battle:<br>> Troop HARD Stats +21
+|ss6=Snail Leadership +12<br>Per 60 Minions in battle:<br>> Troop RUSH +90<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Snail Leadership +12<br>Per 60 Minions in battle:<br>> Troop RUSH +90<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Green Card Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Reagent Drops +6%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail RUSH +600
+|mirage={{Mirage|name=Court Verdict|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}
+|3name=Defendant|3rec=5.76M|3atk=60325|3defense=40288|3hp=1142664|3weak=12145
+|4name=Plaintiff|4rec=10.22M|4atk=82424|4defense=55048|4hp=1972779|4weak=13838
+|5name=Jury|5rec=17.26M|5atk=108853|5defense=72698|5hp=3264322|5weak=17594
+|6name=Judge|6rec=34.89M|6atk=139237|6defense=92990|6hp=5198121|6weak=18930
+|Arec=51.94M|Aatk=175140|Adefense=116969|Ahp=8010160|Aweak=20642
+}}}}

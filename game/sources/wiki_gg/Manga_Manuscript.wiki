@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Manga Manuscript
+|class_id=22233
+|rank=SSS
+|affct=FAME
+|birthday=01-06
+|source=
+|description=On Jan 6, 1946 AD, eighteen-year-old Tazuka published his first manga.<br>Tezuka's manga incorporated film techniques that went beyond readers' expectations and laid the foundation for modern Japanese manga. His subsequent animations made significant contributions to the anime industry and were praised both domestically and internationally. The studio he founded was seen as a pioneer of the industrialization of Japanese manga and trained numerous talented individuals for the industry. Tezuka is not only an exceptional manga artist, but also a visionary animation producer and a founder of the Japanese manga industry. He truly is the god of manga!
+|fame=106
+|art=62
+|fth=49
+|civ=69
+|tech=76
+|ss1=Wormhole Refinement SPD +1.2%<br>Per 10 Wormhole Refines, Snail ATK +3<br>Per 10 Wormhole Refines, Snail RUSH +3<br>Wormhole Refines: 500/500
+|ss2=Wormhole Refinement SPD +1.6%<br>Per 10 Wormhole Refines, Snail ATK +4<br>Per 10 Wormhole Refines, Snail RUSH +4<br>Wormhole Refines: 500/500
+|ss3=Wormhole Refinement SPD +2%<br>Per 10 Wormhole Refines, Snail ATK +5<br>Per 10 Wormhole Refines, Snail RUSH +5<br>Wormhole Refines: 500/500
+|ss4=Wormhole Refinement SPD +2.8%<br>Per 10 Wormhole Refines, Snail ATK +7<br>Per 10 Wormhole Refines, Snail RUSH +7<br>Wormhole Refines: 500/500
+|ss5=Wormhole Refinement SPD +3.6%<br>Per 10 Wormhole Refines, Snail ATK +9<br>Per 10 Wormhole Refines, Snail RUSH +9<br>Wormhole Refines: 500/500
+|ss6=Wormhole Refinement SPD +4.8%<br>Per 10 Wormhole Refines, Snail ATK +12<br>Per 10 Wormhole Refines, Snail RUSH +12<br>Wormhole Refines: 500/500
+|ss7=Wormhole Refinement SPD +4.8%<br>Per 10 Wormhole Refines, Snail ATK +12<br>Per 10 Wormhole Refines, Snail RUSH +12<br>Wormhole Refines: 500/500<br>Wormhole Refinement SPD +4% (Awakened)
+|skill1=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: Medal Output +30
+|skill2=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Mecha Cells gained +30%
+|skill3=[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Snail ATK +600
+|mirage={{Mirage|name=Giant of ACG|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Master Doriyama|3rec=63.09M|3atk=198846|3defense=132658|3hp=10480319|3weak=25267
+|4name=Master Fushiko|4rec=79.43M|4atk=233306|4defense=155647|4hp=13808262|4weak=30791
+|5name=Master Iroue|5rec=97.53M|5atk=271470|5defense=181108|5hp=18059936|5weak=34048
+|6name=Master Ota|6rec=118.40M|6atk=315487|6defense=210474|6hp=23121606|6weak=37374
+|Arec=140.88M|Aatk=362890|Adefense=242098|Ahp=29530421|Aweak=41216
+}}}}

@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Bear General
+|rank=purple
+|cabin=2
+|id=95
+|gene1={race} ATK +30
+|gene2={race} ART +30
+|gene3=Per 30 Mecha Minions in battle:
+> Troop ATK +8
+|gene4=Fire DMG +20
+|gene5=Per 30 Mecha Minions in battle:
+> Troop ATK +12
+|gene6=Fire DMG +30
+|}}

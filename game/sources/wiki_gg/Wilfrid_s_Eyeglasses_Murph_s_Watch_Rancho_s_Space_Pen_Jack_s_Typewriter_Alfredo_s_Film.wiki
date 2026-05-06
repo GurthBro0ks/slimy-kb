@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=650
+|relics=Wilfrid's Eyeglasses,Murph's Watch,Rancho's Space Pen,Jack's Typewriter,Alfredo's Film
+|rank=blue
+|amount=5
+|category=self
+|description=Snail RUSH +80
+}}

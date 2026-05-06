@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Rockery Inkstone
+|class_id=20440
+|rank=Green
+|affct=FAME
+|source=
+|description=This inkstone resembles a mountain, with a surface rimmed by twelve "peaks" of different heights. On the upper edge of the main peak on the front end is an oval carved water bowl. Of the three boulder-like feet, the front two are slightly higher than the rear, and the annular grooves at the bottom of the peaks on both sides seem to be a water reservoir. On the top of the three legs and the front of the main peak is a half-squatting hulk with a high forehead and prominent muscles, particularly eye-catching.
+[Basic Info]
+Height: 12.5cm. Circumference: 61cm. Surface Diameter: 13.5cm.
+|fame=31
+|art=12
+|fth=16
+|civ=14
+|tech=17
+|ss1=Per Novice Scroll opened, Snail DEF +1<br>Novice Scrolls opened: 100/100
+|ss2=Per Novice Scroll opened, Snail DEF +2<br>Novice Scrolls opened: 100/100
+|ss3=Per Novice Scroll opened, Snail DEF +3<br>Novice Scrolls opened: 100/100
+|ss4=Per Novice Scroll opened, Snail DEF +3<br>Novice Scrolls opened: 100/100
+|ss7=Per Novice Scroll opened, Snail DEF +3<br>Novice Scrolls opened: 100/100<br> (Awakened)
+}}

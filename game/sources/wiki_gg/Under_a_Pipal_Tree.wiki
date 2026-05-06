@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Under a Pipal Tree
+|class_id=22695
+|rank=SSS
+|affct=FAITH
+|birthday=09-08
+|source=
+|description=On Sep 8, 660 BC, Siddhartha began to meditate under a pipal tree in Bodh Gaya.<br>Siddhartha, the son of the king of the Shakya clan in Nepal, was prophesied by a sage to become a great king. However, after four excursions outside his palace, Siddhartha witnessed the suffering of birth, aging, sickness, and death, and decided to renounce his throne in search of liberation. He left his homeland and practiced asceticism for a long time, but realized that extreme mortification did not lead to true liberation. Therefore, he meditated under the Bodhi tree in Bodh Gaya for seven days, attained enlightenment about the Four Noble Truths and the Noble Eightfold Path, and became the Buddha. The tree under which he attained enlightenment is known as the Bodhi Tree.
+|fame=62
+|art=74
+|fth=106
+|civ=49
+|tech=71
+|ss1=All minion skins ATK +10%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +30<br>Per 5 Sunny Plant Food Fed, Snail ATK +3<br>Sunny Plant Food Fed: 200/200
+|ss2=All minion skins ATK +20%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +40<br>Per 5 Sunny Plant Food Fed, Snail ATK +4<br>Sunny Plant Food Fed: 200/200
+|ss3=All minion skins ATK +30%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +50<br>Per 5 Sunny Plant Food Fed, Snail ATK +5<br>Sunny Plant Food Fed: 200/200
+|ss4=All minion skins ATK +50%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +70<br>Per 5 Sunny Plant Food Fed, Snail ATK +7<br>Sunny Plant Food Fed: 200/200
+|ss5=All minion skins ATK +70%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +90<br>Per 5 Sunny Plant Food Fed, Snail ATK +9<br>Sunny Plant Food Fed: 200/200
+|ss6=All minion skins ATK +100%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Per 5 Sunny Plant Food Fed, Snail ATK +12<br>Sunny Plant Food Fed: 200/200
+|ss7=All minion skins ATK +100%<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +120<br>Per 5 Sunny Plant Food Fed, Snail ATK +12<br>Sunny Plant Food Fed: 200/200<br>Per 60 T7+ Minions in battle:<br>> Troop DEF +100 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion HP +6%
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion RUSH +6%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FTH +15
+|mirage={{Mirage|name=Vast World|reward={{RewardIconWithLink|Incense, +3|orange}}
+|3name=Flower|3rec=172.67M|3atk=474491|3defense=286826|3hp=83638257|3weak=53954
+|4name=World|4rec=212.96M|4atk=559735|4defense=343520|4hp=126996461|4weak=59208
+|5name=Leaf|5rec=292.31M|5atk=683669|5defense=425541|5hp=217958432|5weak=65070
+|6name=Bodhi|6rec=416.87M|6atk=854516|6defense=537605|6hp=371482046|6weak=71022
+|Arec=577.86M|Aatk=1077566|Adefense=682434|Ahp=586486713|Aweak=76950
+}}}}

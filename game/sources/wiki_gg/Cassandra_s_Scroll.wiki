@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Cassandra’s Scroll
+|class_id=21546
+|rank=AAA
+|affct=FAME
+|source=
+|description=Apollo-cursed prophecies in blood ink. New truths emerge when Trojan horses move.
+|fame=73
+|art=37
+|fth=39
+|civ=47
+|tech=47
+|ss1=Protomon Troop assist DMG + 240<br>Per 5 FAME Relics awakened, Priest-Snail Assistance DMG +72<br>FAME Relics Awakened: 100/100
+|ss2=Protomon Troop assist DMG + 320<br>Per 5 FAME Relics awakened, Priest-Snail Assistance DMG +96<br>FAME Relics Awakened: 100/100
+|ss3=Protomon Troop assist DMG + 400<br>Per 5 FAME Relics awakened, Priest-Snail Assistance DMG +120<br>FAME Relics Awakened: 100/100
+|ss4=Protomon Troop assist DMG + 560<br>Per 5 FAME Relics awakened, Priest-Snail Assistance DMG +168<br>FAME Relics Awakened: 100/100
+|ss5=Protomon Troop assist DMG + 720<br>Per 5 FAME Relics awakened, Priest-Snail Assistance DMG +216<br>FAME Relics Awakened: 100/100
+|ss7=Protomon Troop assist DMG + 720<br>Per 5 FAME Relics awakened, Priest-Snail Assistance DMG +216<br>FAME Relics Awakened: 100/100<br>Protomon Troop assist DMG + 560 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Reagent Drops +3%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's FAME +10
+}}

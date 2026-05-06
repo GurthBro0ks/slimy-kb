@@ -1,0 +1,36 @@
+{{CargoRelic
+|name=Codex Leicester
+|rank=A
+|affct=CIV
+|birthday=08-23
+|source=* Expert Scrolls (7.6%), Fragment Crafting (29.9%), Lottery Machine(0.66%), Wishing (2.7%)
+* [[Indigent Nobleman]] (210k {{RewardIconWithText|B-Tad}})
+|description=On Aug 23, 1510 the Codex Leicester was completed and has been a family treasure since then. <br> The Codex Leicester is an 18-page book that covers a lot of contents, including insights into astronomy, water, rocks, and fossils, as well as light and celestial bodies. The discussion of water accounts for about one-third of the book. It took Prof Pedretti 7 years to translate it into English.<br> [Auction Price]<br> Price: 30,802,500 dollars. Collected by: Bill Gates.
+|fame=31
+|art=40
+|fth=38
+|civ=64
+|tech=40
+|ss1=Per 400 Relic Points, Snail DEF +3<br>Per 400 Relic Points, Snail RUSH +3<br>Relic Points:2,000/2,000
+|ss2=Per 400 Relic Points, Snail DEF +3<br>Per 400 Relic Points, Snail RUSH +3<br>Relic Points:4,000/4,000
+|ss3=Per 400 Relic Points, Snail DEF +3<br>Per 400 Relic Points, Snail RUSH +3<br>Relic Points:6,000/6,000
+|ss4=Per 400 Relic Points, Snail DEF +3<br>Per 400 Relic Points, Snail RUSH +3<br>Relic Points:10,000/10,000
+|ss5=Per 400 Relic Points, Snail DEF +3<br>Per 400 Relic Points, Snail RUSH +3<br>Relic Points:14,000/14,000
+|ss7=Per 400 Relic Points, Snail DEF +3<br>Per 400 Relic Points, Snail RUSH +3<br>Relic Points:14,000/14,000<br>Snail DEF +70 (Awakened)
+|skill1=[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: In Kemet, Snail HP +300
+|skill2=[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Regen 300 HP
+}}
+
+[[Category:DEF Boost]]
+[[Category:RUSH Boost]]
+[[Category:Relic Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:HP Boost]]
+[[Category:Gene Simulation Compass Boost]]
+[[Category:HP Regen]]
+[[Category:Mecha Gene Cost Reduction]]
+[[Category:DNA Boost]]
+[[Category:Enhanced by DNA Strength]]
+[[Category:Enhanced by Relic Points]]
+[[Category:Indigent Nobleman Relics]]

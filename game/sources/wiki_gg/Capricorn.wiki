@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Capricorn
+|class_id=21834
+|rank=SSS
+|affct=TECH
+|source=
+|description=As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:
+Heaven bestows talents in everyone's track; Lost fortunes can be reclaimed, it's a fact.
+|fame=65
+|art=72
+|fth=64
+|civ=52
+|tech=109
+|ss1=Minion MAX +20<br>Eye of Fate organ skill, chance to trigger Fate Shackles +20%<br>Tail of Fate skill DMG +20%<br>Fateful Gaze organ skill, HP+50% after revival
+|ss2=Minion MAX +20<br>Eye of Fate organ skill, chance to trigger Fate Shackles +20%<br>Tail of Fate skill DMG +20%<br>Fateful Gaze organ skill, HP+50% after revival
+|ss3=Minion MAX +20<br>Eye of Fate organ skill, chance to trigger Fate Shackles +20%<br>Tail of Fate skill DMG +20%<br>Fateful Gaze organ skill, HP+50% after revival
+|ss4=Minion MAX +20<br>Eye of Fate organ skill, chance to trigger Fate Shackles +20%<br>Tail of Fate skill DMG +20%<br>Fateful Gaze organ skill, HP+50% after revival
+|ss5=Minion MAX +20<br>Eye of Fate organ skill, chance to trigger Fate Shackles +20%<br>Tail of Fate skill DMG +20%<br>Fateful Gaze organ skill, HP+50% after revival
+|ss6=Minion MAX +20<br>Eye of Fate organ skill, chance to trigger Fate Shackles +20%<br>Tail of Fate skill DMG +20%<br>Fateful Gaze organ skill, HP+50% after revival
+|ss7=Minion MAX +20<br>Eye of Fate organ skill, chance to trigger Fate Shackles +20%<br>Tail of Fate skill DMG +20%<br>Fateful Gaze organ skill, HP+50% after revival<br>Minion MAX +20 (Awakened)
+|skill1=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Time Machine Max Cap +30%
+|skill2=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Travel Speedup Output +30%
+|skill3=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Generate Time Chests by +30%
+|mirage={{Mirage|name=Capricorn Star|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Sissi|3rec=9.69M|3atk=80702|3defense=53484|3hp=1925615|3weak=?
+|4name=General Honda|4rec=17.47M|4atk=110390|4defense=73159|4hp=3335173|4weak=?
+|5name=Stanley|5rec=37.39M|5atk=145614|5defense=96503|5hp=5625825|5weak=?
+|6name=Emperor Guangwu|6rec=57.38M|6atk=188051|6defense=124628|6hp=9141655|6weak=?
+|Arec=80.15M|Aatk=236395|Adefense=156667|Ahp=13700606|Aweak=?
+}}}}

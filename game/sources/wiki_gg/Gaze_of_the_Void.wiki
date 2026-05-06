@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Gaze of the Void
+|type=Bionic
+|rank=orange
+|id=10693
+|idx=51
+|description=A lifeless stare that induces hallucinations in all who meet it. No matter how powerful the foe, a single glance strips away identity and traps them in eternal recurrence…
+|skill=Summon 3 Void Machines, dealing DMG equal to 202% of ATK!
+|hp=1810
+|def=202
+|atk=156
+|rush=305
+|gene1=Crit DMG +7.5%
+|gene2=Per 5 Shrine Flying Objects shot, {race} RUSH +10
+Shrine flying objects shot: 100/100
+|gene3=RUSH CRIT DMG +7.5%
+|gene4=RUSH CRIT DMG +7.5%
+|gene5=When enemy life is above 50%, DMG dealt +7.5%
+|gene7=Crit DMG +7.5% (Awakened)
+|}}

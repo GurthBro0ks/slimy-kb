@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Swan-Ganz Catheter
+|class_id=22523
+|rank=AAA
+|affct=FAME
+|birthday=07-18
+|source=
+|description=On Jul 18, 1929 AD, Forssmann completed the first cardiac catheterization surgery in history on himself.<br>Inspired by the venous catheterization surgery, the 25-year-old Forssmann completed the first cardiac catheterization on himself. With the encouragement of his mentor, he completed his thesis based on the data from this experiment and won the Nobel Prize decades later. Despite facing significant resistance in the early years and making little progress, his groundbreaking invention undoubtedly advanced the progress of medical research.
+|fame=75
+|art=38
+|fth=37
+|civ=46
+|tech=47
+|ss1=Snail HP +300<br>Dragon Minion HP +3%
+|ss2=Snail HP +400<br>Dragon Minion HP +4%
+|ss3=Snail HP +500<br>Dragon Minion HP +5%
+|ss4=Snail HP +700<br>Dragon Minion HP +7%
+|ss5=Snail HP +900<br>Dragon Minion HP +9%
+|ss7=Snail HP +900<br>Dragon Minion HP +9%<br>Snail HP +700 (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +300
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's FAME +10
+}}

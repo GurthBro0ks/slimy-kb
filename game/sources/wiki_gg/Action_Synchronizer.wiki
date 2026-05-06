@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Action Synchronizer
+|class_id=20850
+|rank=Green
+|affct=TECH
+|source=Club Store
+|description=Precision-engineered for underground mining tragedies! Our patented AI ensures your limbs move in sync... mostly. Whether fighting rocks or your own muscle spasms - at least you'll look coordinated doing it!
+|fame=18
+|art=13
+|fth=14
+|civ=15
+|tech=30
+|ss1=Vanguard Kit gives Resource Gathering SPD +1%<br>Vanguard Kit gives Extra Daily Drills +3
+|ss2=Vanguard Kit gives Resource Gathering SPD +2%<br>Vanguard Kit gives Extra Daily Drills +4
+|ss3=Vanguard Kit gives Resource Gathering SPD +3%<br>Vanguard Kit gives Extra Daily Drills +5
+|ss4=prop@56031_2<br>prop@56032_2
+|ss7=prop@56031_2<br>prop@56032_2<br> (Awakened)
+}}

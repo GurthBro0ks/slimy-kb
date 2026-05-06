@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Tenitsu
+|rank=orange
+|cabin=2
+|id=153
+|gene1={race} DEF +50
+|gene2={race} FAME +50
+|gene3=Resolver: Mutagen Serum +1.5%
+|gene4=Per 60 Angel Minions in battle,
+Troop Earth DMG +6
+|gene5=Earth DMG +0.9%
+|gene6=Per 60 Angel Minions in battle,
+Troop Earth DMG +10
+|gene7=Earth DMG +1.5%
+|}}

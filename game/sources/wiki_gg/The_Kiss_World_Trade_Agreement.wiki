@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=898
+|relics=The Kiss,World Trade Agreement
+|rank=orange
+|amount=2
+|category=self
+|description=Protomon Snail assist DMG + 560
+}}

@@ -1,0 +1,159 @@
+==Card Redemption==
+Throughout [[Koryeo]], cards can be collected and exchanged for various rewards. Cards vary from tier 1 (white) to tier 5 (orange) and there's different types of each tier. Below is a list of the rewards that can be exchanged, and how many times.
+
+==Tier 1 (White)==
+'''Recommended:''' {{RewardIconWithText|Unidentified Motor}}, Gear, Organs
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="7" style="background-color:#9c9c9c;" |[[File:Kimchi Jar.png|75x75px]]
+| rowspan="7" |Kimchi Jar
+|1x1||{{RewardIconWithText|Zombie Cell, +80}}
+| rowspan="7" |{{RewardIconWithText|B-Tad, +5}}
+|-
+|2x1||{{RewardIconWithGearlink|white|Realm|Crowbar}} 
+|-
+|3x1||{{RewardIconWithText|Unidentified Motor}}
+|-
+|4x1||{{RewardIconWithText|Koryeo INTEL, +600}}
+|-
+|5x1||{{RewardIconWithGearlink|white|Realm|Ice Skates}} 
+|-
+|6x1||{{RewardIconWithLink|Fire Slug's Eye|blue}}
+|-
+|8x1||{{RewardIconWithLink|Lottery Ticket, +1|orange}}
+|-
+| style="background-color:#9c9c9c;" | [[File:Hwanghae Boxer.png|75x75px]]
+|Hwanghae Boxer||3x1||{{RewardIconWithText|B-Tad, +5k}}||{{RewardIconWithText|B-Tad, +100}}
+|-
+| style="background-color:#9c9c9c;" | [[File:Sepsung Co., Ltd..png|75x75px]]
+|Sepsung Co., Ltd.||2x1||{{RewardIconWithLink|Lottery Ticket, +1|orange}}||{{RewardIconWithText|B-Tad, +100}}
+|-
+| style="background-color:#9c9c9c;" | [[File:Dividing Line.png|75x75px]]
+|Dividing Line||2x1||{{RewardIconWithText|Travel Speedup, +1h}}||{{RewardIconWithText|Koryeo INTEL, +100}}
+|}
+
+==Tier 2 (Green)==
+'''Recommended:''' Enhancement Injections, Universal Key, Terminal Core, Gear
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="8" style="background-color:#7de87f;" | [[File:Kimchi Jar green.png|75x75px]]
+| rowspan="8" | Kimchi Jar
+|3x3||Enhancement Injection:<br>Snail ATK +4<br>Snail DEF +4
+| rowspan="8" | {{RewardIconWithText|B-Tad, +15}}
+|-
+|2x1||{{RewardIconWithText|Koryeo INTEL, +1.2k}}
+|-
+|2x1||{{RewardIconWithText|Universal Key}} (opens home base chest)
+|-
+|3x1||{{RewardIconWithText|B-Tad, +6k}}
+|-
+|4x1||{{RewardIconWithText|Terminal Core}}
+|-
+|5x1||{{RewardIconWithLink|Glue, +20}}
+|-
+|6x1||{{RewardIconWithGearlink|green|Realm|Motorbike Helmet}}
+|-
+|8x1||{{RewardIconWithLink|Lottery Ticket, +1|orange}}
+|-
+| style="background-color:#7de87f;" | [[File:Disaster in Pusan.png|75x75px]]
+|Disaster in Pusan||2x1||{{RewardIconWithText|Zombie Cell, +500}}||{{RewardIconWithText|Zombie Cell, +20}}
+|-
+| style="background-color:#7de87f;" | [[File:Sepsung Industry.png|75x75px]]
+|Sepsung Industry||3x1||{{RewardIconWithLink|Glue, +40}}||{{RewardIconWithText|Green Reagent, +1|green}}
+|-
+| style="background-color:#7de87f;" | [[File:Haeinsa.png|75x75px]]
+|Haeinsa||4x1||{{RewardIconWithLink|Annals of Joseon, +10 Fragments|blue}}||{{RewardIconWithText|Offering Speedup, +10m}}
+|}
+
+==Tier 3 (Blue)==
+'''Recommended:''' Enhancement Injections, Gear
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="9" style="background-color:#7de8e6;" | [[File:Kimchi Jar blue.png|75x75px]]
+| rowspan="9" | Kimchi Jar
+|3x3||Enhancement Injection:<br>Snail HP +60<br>Snail RUSH +6
+| rowspan="9" |{{RewardIconWithText|B-Tad, +45}}
+|-
+|2x1||{{RewardIconWithText|Koryeo INTEL, +1.8k}}
+|-
+|3x1||{{RewardIconWithText|B-Tad, +8k}}
+|-
+|3x1||{{RewardIconWithText|Zombie Cell, +500}}
+|-
+|4x1||{{RewardIconWithLink|Novice Scroll, +10|blue}}
+|-
+|5x1||{{RewardIconWithGearlink|blue|Realm|Bulletproof Vest}}
+|-
+|6x1||{{RewardIconWithLink|Gear Chest, +60}}
+|-
+|7x1||{{RewardIconWithText|Military Bomb}}
+|-
+|8x2||{{RewardIconWithLink|Lottery Ticket, +1|orange}}
+|-
+| style="background-color:#7de8e6;" | [[File:White Tigers.png|75x75px]]
+|White Tigers||3x1||{{RewardIconWithText|W-Tad, +300}}||{{RewardIconWithText|W-Tad, +10}}
+|-
+| style="background-color:#7de8e6;" | [[File:Biological Weapons.png|75x75px]]
+|Biological Weapons||3x2||{{RewardIconWithLink|Organ Chest, +50}}||{{RewardIconWithLink|Evolution Chest, +1}}
+|}
+
+==Tier 4 (Purple)==
+'''Recommended:''' Enhancement Injections, Gear
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="6" style="background-color:#f3b5e1;" | [[File:Kimchi Jar purple.png|75x75px]]
+| rowspan="6" | Kimchi Jar
+|3x3||Enhancement Injection:<br>Snail ATK +8<br>Snail DEF +8
+| rowspan="6" | 135 B-tads
+|-
+|2x1||Koryeo INTEL +2,400
+|-
+|3x1||10k B-tads
+|-
+|4x1||Expert Scroll +10
+|-
+|5x1||Gear Chest +80
+|-
+|6x1||Lottery Ticket
+|-
+| rowspan="2" style="background-color:#f3b5e1;" | [[File:Arirang.png|75x75px]]
+| rowspan="2" |Arirang
+|2x1||Demon Cell +500
+| rowspan="2" |Koryeo Treasure Map +2
+|-
+|2x1||Koryeo Treasure Map +50
+|-
+| style="background-color:#f3b5e1;" | [[File:Patriot.png|75x75px]]
+|Patriot||3x1||Expert Scroll +20||Novice Scroll +1
+|}
+
+==Tier 5 (Orange)==
+'''Recommended:''' Enhancement Injections, Wish Coin
+{| class="wikitable"
+!Image!!Name!!CostxQuantity!!Reward!!Conversion
+|-
+| rowspan="6" style="background-color:#ffb066;" | [[File:Kimchi Jar orange.png|75x75px]]
+| rowspan="6" | Kimchi Jar
+|3x3||Enhancement Injection:<br>Snail HP +100<br>Snail RUSH +10
+| rowspan="6" | 405 B-tads
+|-
+|2x1||Koryeo INTEL +3,000
+|-
+|3x1||Gear Chest +100
+|-
+|4x1||16k B-tads
+|-
+|5x1||Master Scroll +10
+|-
+|6x2||Lottery Ticket
+|-
+| style="background-color:#ffb066;" | [[File:Sejong Legacy.png|75x75px]]
+|Sejong Legacy||3x1||Wish Coin||15 W-tads
+|}
+[[Category:Locations]]
+[[Category:Realm]]
+[[Category:Koryeo]]

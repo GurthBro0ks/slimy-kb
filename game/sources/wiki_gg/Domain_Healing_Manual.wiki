@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Domain Healing Manual
+|class_id=20731
+|rank=Green
+|affct=FAITH
+|source=
+|description=After the Traveler cleared the Domains of the Seven Gods, the gaze of the Earth's Will returned, rewarding those willing to embrace change. The Earth's will promised not to let them suffer severe injuries in theDomains.
+|fame=13
+|art=13
+|fth=29
+|civ=16
+|tech=19
+|ss1=In all Domains, Troop Casualty -3%
+|ss2=In all Domains, Troop Casualty -5%
+|ss3=In all Domains, Troop Casualty -7%
+|ss4=In all Domains, Troop Casualty -7%
+|ss7=In all Domains, Troop Casualty -7%<br> (Awakened)
+}}

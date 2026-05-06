@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=Bacio di Giuda
+|class_id=22681
+|rank=SSS
+|affct=FTH
+|birthday=02-11
+|source=Lottery Machine No.3 (0.12%)
+|description=On Feb 11, 1305 AD, Giotto created Bacio di Giuda at the Scrovegni Chapel.<br>Bacio di Giuda is one of the representative works of Giotto, who is known as the father of European painting. The painting depicts the story of Judas' betrayal of Jesus, where he identifies Jesus to the authorities by kissing him. The figures in the painting are vivid and lifelike, breaking away from the rigid feeling of the Middle Ages. The achievements in the levels of the painting and perspective shown in the artwork are revolutionary and significant, making it the most magnificent masterpiece of the 14th-century Renaissance.
+|fame=61
+|art=74
+|fth=106
+|civ=53
+|tech=68
+|ss1=Snail DEF +30<br>Per 10 Protomon, Priest-Snail Assistance DMG +24<br>Per 10 Protomon, Priest-Troop Assistance DMG +24<br>Protomon Gained: 600/600
+|ss2=Snail DEF +40<br>Per 10 Protomon, Priest-Snail Assistance DMG +32<br>Per 10 Protomon, Priest-Troop Assistance DMG +32<br>Protomon Gained: 600/600
+|ss3=Snail DEF +50<br>Per 10 Protomon, Priest-Snail Assistance DMG +40<br>Per 10 Protomon, Priest-Troop Assistance DMG +40<br>Protomon Gained: 600/600
+|ss4=Snail DEF +70<br>Per 10 Protomon, Priest-Snail Assistance DMG +56<br>Per 10 Protomon, Priest-Troop Assistance DMG +56<br>Protomon Gained: 600/600
+|ss5=Snail DEF +90<br>Per 10 Protomon, Priest-Snail Assistance DMG +72<br>Per 10 Protomon, Priest-Troop Assistance DMG +72<br>Protomon Gained: 600/600
+|ss6=Snail DEF +120<br>Per 10 Protomon, Priest-Snail Assistance DMG +96<br>Per 10 Protomon, Priest-Troop Assistance DMG +96<br>Protomon Gained: 600/600
+|ss7=Snail DEF +120<br>Per 10 Protomon, Priest-Snail Assistance DMG +96<br>Per 10 Protomon, Priest-Troop Assistance DMG +96<br>Protomon Gained: 600/600<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: Offering Egg hatching efficiency +30%
+|skill2=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: Blue rewards from this egg turn Purple by 6%
+|skill3=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: Green rewards from this egg turn Blue by 6%
+|mirage={{Mirage|name=The Betrayal of Judas|reward={{RewardIconWithLink|Blasphemy Eye, +1|orange}}
+|3name=Head Priest|3rec=129.92M|3atk=361543|3def=226685|3hp=20369410|3weak=37474
+|4name=Peter|4rec=153.80M|4atk=418631|4def=260275|4hp=26322035|4weak=39246
+|5name=Judas|5rec=182.86M|5atk=488154|5def=301160|5hp=33926503|5weak=41733
+|6name=Jesus|6rec=216.43M|6atk=569651|6def=348401|6hp=46414520|6weak=45991
+|Arec=273.77M|Aatk=680606|Adef=408860|Ahp=69814122|Aweak=50858
+}}}}
+
+[[Category:DEF Boost]]
+[[Category:Priest-Snail Boost]]
+[[Category:Priest-Troop Boost]]
+[[Category:Offering Egg Boost]]
+[[Category:Follower Boost]]
+[[Category:Dragon Minion HARD Boost]]

@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Master Legalist
+|rank=orange
+|cabin=2
+|id=196
+|gene1={race} DEF +50
+|gene2={race} FTH +50
+|gene3=Each round, {race} DEF +30
+|gene4=Per 60 Zombie Minions in battle:
+> Troop Earth DMG +6
+|gene5=Zombie Minion Skin DEF +30%
+|gene6=Per 60 Zombie Minions in battle:
+> Troop Earth DMG +10
+|gene7=Zombie Minion Skin DEF +50%
+|}}

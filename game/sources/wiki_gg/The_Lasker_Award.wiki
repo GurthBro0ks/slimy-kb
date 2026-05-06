@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=The Lasker Award
+|class_id=22609
+|rank=S
+|affct=FAME
+|birthday=09-16
+|source=Lottery Machine No.3 (1.62%)
+|description=On Sept 16, 1946 AD, marks the official establishment of the Lasker Award.<br>This award, established by the Lasker Foundation, aims to recognize scientists, doctors, and public servants who have made outstanding contributions to the field of medicine. The award includes prizes for basic medical research, clinical medical research, public service, and special achievement, with winners of the first two awards often going on to win the Nobel Prize in the following years, earning the award the nickname "America's Nobels."
+|fame=100
+|art=61
+|fth=50
+|civ=60
+|tech=61
+|ss1=Zombie Minion HP +1%<br>Per 2 Gastric Pouch LVLs challenged, Snail ATK +1<br>Per 2 Gastric Pouch LVLs challenged, Snail RUSH +1<br>Gastric Pouch LVLs: 100/100
+|ss2=Zombie Minion HP +2%<br>Per 2 Gastric Pouch LVLs challenged, Snail ATK +2<br>Per 2 Gastric Pouch LVLs challenged, Snail RUSH +2<br>Gastric Pouch LVLs: 100/100
+|ss3=Zombie Minion HP +3%<br>Per 2 Gastric Pouch LVLs challenged, Snail ATK +3<br>Per 2 Gastric Pouch LVLs challenged, Snail RUSH +3<br>Gastric Pouch LVLs: 100/100
+|ss4=Zombie Minion HP +5%<br>Per 2 Gastric Pouch LVLs challenged, Snail ATK +5<br>Per 2 Gastric Pouch LVLs challenged, Snail RUSH +5<br>Gastric Pouch LVLs: 100/100
+|ss5=Zombie Minion HP +7%<br>Per 2 Gastric Pouch LVLs challenged, Snail ATK +7<br>Per 2 Gastric Pouch LVLs challenged, Snail RUSH +7<br>Gastric Pouch LVLs: 100/100
+|ss6=Zombie Minion HP +10%<br>Per 2 Gastric Pouch LVLs challenged, Snail ATK +10<br>Per 2 Gastric Pouch LVLs challenged, Snail RUSH +10<br>Gastric Pouch LVLs: 100/100
+|ss7=Zombie Minion HP +10%<br>Per 2 Gastric Pouch LVLs challenged, Snail ATK +10<br>Per 2 Gastric Pouch LVLs challenged, Snail RUSH +10<br>Gastric Pouch LVLs: 100/100<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Snail ATK +600
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Snail HP +6000
+|skill3=[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: This Relic's FAME +15
+|mirage={{Mirage|name=The Lasker Family|reward={{RewardIconWithLink|Gene Speedup, +28800|orange}}
+|3name=Mary|3rec=107.21M|3atk=308751|3defense=194739|3hp=16215037|3weak=35235
+|4name=Prince Albert|4rec=143.68M|4atk=394101|4defense=246049|4hp=23880685|4weak=38505
+|Arec=203.79M|Aatk=537920|Adefense=330615|Ahp=40955116|Aweak=44046
+}}}}

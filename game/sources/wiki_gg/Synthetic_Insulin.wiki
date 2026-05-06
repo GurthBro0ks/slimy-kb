@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Synthetic Insulin
+|class_id=20343
+|rank=Green
+|affct=TECH
+|source=Unlock the 5th [[Nursery#Cloning_Tank|Cloning Tank]]
+|description=The amino acid sequence of the protein hormone produced by genetic recombination is the closest to the insulin in the snail, which can effectively improve its metabolism of fat and has a very significant impact on the conversion of glucose in the blood!
+|fame=16
+|art=13
+|fth=16
+|civ=15
+|tech=30
+|ss1=Per 5 Cloning Tank LVLs, Snail RUSH +1<br>Cloning Tank LVL: 50/50
+|ss2=Per 5 Cloning Tank LVLs, Snail RUSH +2<br>Cloning Tank LVL: 50/50
+|ss3=Per 5 Cloning Tank LVLs, Snail RUSH +3<br>Cloning Tank LVL: 50/50
+|ss4=Per 5 Cloning Tank LVLs, Snail RUSH +3<br>Cloning Tank LVL: 50/50
+|ss7=Per 5 Cloning Tank LVLs, Snail RUSH +3<br>Cloning Tank LVL: 50/50<br> (Awakened)
+}}

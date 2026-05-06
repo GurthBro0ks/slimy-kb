@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Paris Agreement
+|class_id=22785
+|rank=SSS
+|affct=FAME
+|source=
+|description=The Paris Agreement aims to strengthen the global response to climate change, control the trend of global average temperature rise, and build a fair, reasonable, and cooperative global climate governance system, ensuring the participation of all countries in facing climate change together. This agreement represents a turning point in global environmental action, involving not only emission reduction targets but also adaptation to climate change, financial support, technology development and transfer, among other aspects. It includes an evaluation of each country's actions every five years to ensure that countries continuously increase the intensity of their emission reduction targets.
+|fame=107
+|art=59
+|fth=57
+|civ=71
+|tech=68
+|ss1=Dragon Minion ATK +3%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 5 TECH Relics awakened, Snail ATK +12<br>TECH Relics Awakened: 100/100
+|ss2=Dragon Minion ATK +4%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 5 TECH Relics awakened, Snail ATK +16<br>TECH Relics Awakened: 100/100
+|ss3=Dragon Minion ATK +5%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 5 TECH Relics awakened, Snail ATK +20<br>TECH Relics Awakened: 100/100
+|ss4=Dragon Minion ATK +7%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 5 TECH Relics awakened, Snail ATK +28<br>TECH Relics Awakened: 100/100
+|ss5=Dragon Minion ATK +9%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 5 TECH Relics awakened, Snail ATK +36<br>TECH Relics Awakened: 100/100
+|ss6=Dragon Minion ATK +12%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 5 TECH Relics awakened, Snail ATK +48<br>TECH Relics Awakened: 100/100
+|ss7=Dragon Minion ATK +12%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 5 TECH Relics awakened, Snail ATK +48<br>TECH Relics Awakened: 100/100<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +6%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%
+|mirage={{Mirage|name=dungeon@22785_1|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Lady Figress|3rec=194.92M|3atk=521605|3defense=318135|3hp=106066881|3weak=56983
+|4name=Lady Moleva|4rec=251.36M|4atk=627860|4defense=388700|4hp=175417577|4weak=62582
+|5name=Mr. Javad|5rec=363.05M|5atk=780500|5defense=489180|5hp=302942309|5weak=68619
+|6name=Mr. Fabius|6rec=508.67M|6atk=981436|6defense=620187|6hp=499932953|6weak=74594
+|Arec=688.09M|Aatk=1240745|Adefense=787488|Ahp=743616254|Aweak=80490
+}}}}

@@ -1,0 +1,41 @@
+{{CargoRelic
+|name=Hope Diamond
+|rank=AA
+|affct=ART
+|birthday=08-16
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Club Chest (1.5%), Relic Forge (80 Relic RF)
+|description=On Aug 16, 1958, the Cursed Stone finally recovered its name of being the Hope Diamond.
+The Hope Diamond has always been known as the Cursed Stone, as it used to bring bad luck to anyone who came into contact with it. Vermeer was bitten to death by a wild dog; Louis XIV suffered from smallpox and died; Louis XV's mistress was beheaded; Louis XVI and his wife were killed on a guillotine; later, family of Calan died suddenly. Hopper, the only survivor, died alone in lifelong loneliness. That's why it was called the Cursed Stone. The bad luck ended after the Smithsonian Institution took it.
+
+[Basic Info]
+
+Alias: Hope Diamond<br>Color: Dark grayish blue<br>Weight: 67.125 carats<br>Price: 550,000 francs
+|fame=44
+|art=73
+|fth=35
+|civ=44
+|tech=47
+|ss1=When you Wish, get 1 Taichi Fish by +3%<br>Claim 1 Monkey Prayer Bonus for Snail HP +60<br>Monkey Prayer Bonus Claimed: 20/20
+|ss2=When you Wish, get 1 Taichi Fish by +4%<br>Claim 1 Monkey Prayer Bonus for Snail HP +80<br>Monkey Prayer Bonus Claimed: 20/20
+|ss3=When you Wish, Get 1 Taichi Fish by +5%<br>Claim 1 Monkey Prayer Bonus for Snail HP +100<br>Monkey Prayer Bonus Claimed: 20/20
+|ss4=When you Wish, get 1 Taichi Fish by +7%<br>Claim 1 Monkey Prayer Bonus for Snail HP +140<br>Monkey Prayer Bonus Claimed: 20/20
+|ss5=When you Wish, get 1 Taichi Fish by +9%<br>Claim 1 Monkey Prayer Bonus for Snail HP +180<br>Monkey Prayer Bonus Claimed: 20/20
+|ss7=When you Wish, get 1 Taichi Fish by +9%<br>Claim 1 Monkey Prayer Bonus for Snail HP +180<br>Monkey Prayer Bonus Claimed: 20/20<br>When you Wish, get 1 Taichi Fish by +7% (Awakened)
+|skill1=[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: In Kemet, 2x B-tad Drops +7.5%
+|skill2=[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: In Kemet, 2x INTEL Drops +7.5%
+}}
+
+[[Category:Relics]]
+[[Category:Purple Relics]]
+[[Category:ART Relics]]
+[[Category:Purple ART Relics]]
+[[Category:Wishing Boost]]
+[[Category:Taichi Fish Output]]
+[[Category:HP Boost]]
+[[Category:Monkey Prayer Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:Exploration B-tad Drop Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Minion HARD Boost]]
+[[Category:Enhanced by Monkey Prayer Bonus]]

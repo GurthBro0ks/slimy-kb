@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Messier Catalog,Ink Chrysanths,Constantine Statue,Victoria Portrait
+|rank=orange
+|amount=4
+|category=minion
+|description=All Minion DEF +1.8%
+}}
+[[Category:Minion]]
+[[Category:Minion DEF Boost]]

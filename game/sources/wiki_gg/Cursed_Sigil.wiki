@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Cursed Sigil
+|type=Bionic
+|rank=purple
+|id=10675
+|idx=32
+|description=A demonic seal that breaks hell’s chains. It grants agony beyond mortal endurance—and defenses rivaling demonic armor.
+|skill=Blessed by Calsifer, dealing DMG equal to 54.3% of ATK for 3 times!
+|hp=1874
+|def=167
+|atk=134
+|rush=143
+|gene1=In Dragon Form, {race} ATK +60
+|gene2=In Dragon Form, {race} HP +600
+|gene3=In Dragon Form, {race} DEF +60
+|gene4=In Dragon Form, {race} RUSH +60
+|gene7=In Dragon Form, {race} ATK +180 (Awakened)
+|}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=672
+|relics=The King and Queen,Plume Brooch
+|rank=purple
+|amount=2
+|category=self
+|description=Per 30 T7+ Zombie Minions in battle:Troop HARD Stats +12
+}}

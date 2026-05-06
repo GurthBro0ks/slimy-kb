@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Telomere Clone Factor
+|class_id=20390
+|rank=Green
+|affct=TECH
+|source=
+|description=Telomeres limit the number of cell divisions and control the lifespan of organisms. As organisms grow and cells divide, they continue to degenerate and wear out. The clone factor is injected to obtain perfect telomeres, the growth of organisms is no longer restricted and cells can now divide infinitely—this is the secret of immortality!
+|fame=16
+|art=16
+|fth=17
+|civ=12
+|tech=29
+|ss1=Minion MAX +10<br>Per Species Map entry completed, Snail HP +10<br>Species Map Entries: 60/60
+|ss2=Minion MAX +15<br>Per Species Map entry completed, Snail HP +20<br>Species Map Entries: 60/60
+|ss3=Minion MAX +20<br>Per Species Map entry completed, Snail HP +30<br>Species Map Entries: 60/60
+|ss4=Minion MAX +20<br>Per Species Map entry completed, Snail HP +30<br>Species Map Entries: 60/60
+|ss7=Minion MAX +20<br>Per Species Map entry completed, Snail HP +30<br>Species Map Entries: 60/60<br> (Awakened)
+}}

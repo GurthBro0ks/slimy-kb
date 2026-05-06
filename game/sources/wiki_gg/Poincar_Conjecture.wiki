@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Poincaré Conjecture
+|class_id=22755
+|rank=SSS
+|affct=TECH
+|birthday=02-03
+|source=
+|description=On Feb 3, 1904 AD, French mathematician Henri Poincaré proposed this problem.<br>The Poincaré Conjecture is a topological problem that describes a closed three-dimensional space, if each closed curve can be shrunk to a point, then this space must be a three-dimensional sphere. Later, this conjecture was extended to higher-dimensional spaces. It is one of the seven Millennium Prize Problems, along with the Hodge conjecture and the Riemann hypothesis, and is considered one of the most challenging problems in mathematics. Countless mathematicians have devoted their lives to it, but it remains unproven. A hundred years after the Poincaré conjecture was proposed, Russian mathematician Grigori Perelman spent eight years to finally prove it, opening a new era for differential geometry and algebraic topology.
+|fame=70
+|art=51
+|fth=73
+|civ=62
+|tech=106
+|ss1=All minion skins RUSH +10%<br>Per 5 Mythic Protodex Stars, Snail RUSH +9<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +72<br>Mythic Protodex Stars: 100/100
+|ss2=All minion skins RUSH +20%<br>Per 5 Mythic Protodex Stars, Snail RUSH +12<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +96<br>Mythic Protodex Stars: 100/100
+|ss3=All minion skins RUSH +30%<br>Per 5 Mythic Protodex Stars, Snail RUSH +15<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +120<br>Mythic Protodex Stars: 100/100
+|ss4=All minion skins RUSH +50%<br>Per 5 Mythic Protodex Stars, Snail RUSH +21<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +168<br>Mythic Protodex Stars: 100/100
+|ss5=All minion skins RUSH +70%<br>Per 5 Mythic Protodex Stars, Snail RUSH +27<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +216<br>Mythic Protodex Stars: 100/100
+|ss6=All minion skins RUSH +100%<br>Per 5 Mythic Protodex Stars, Snail RUSH +36<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +288<br>Mythic Protodex Stars: 100/100
+|ss7=All minion skins RUSH +100%<br>Per 5 Mythic Protodex Stars, Snail RUSH +36<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +288<br>Mythic Protodex Stars: 100/100<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: This Relic's TECH +15
+|skill2=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Cap +30%
+|skill3=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +30%
+|mirage={{Mirage|name=Ancient Grand Prize Puzzle|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}
+|3name=Hodge Conjecture|3rec=116.36M|3atk=350635|3defense=207604|3hp=35085560|3weak=43463
+|4name=Riemann Hypothesis|4rec=133.26M|4atk=387214|4defense=231385|4hp=46728845|4weak=47113
+|5name=Navier-Stokes Equations|5rec=155.77M|5atk=437850|5defense=263047|5hp=66251680|5weak=51300
+|6name=NP Complete|6rec=186.79M|6atk=504321|6defense=306691|6hp=99030574|6weak=55966
+|Arec=230.50M|Aatk=596936|Adefense=368196|Ahp=151498280|Aweak=61132
+}}}}

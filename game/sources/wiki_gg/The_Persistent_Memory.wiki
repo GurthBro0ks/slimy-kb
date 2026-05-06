@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=The Persistent Memory
+|class_id=22643
+|rank=SS
+|affct=ART
+|birthday=01-13
+|source=Lottery Machine No.3 (0.47%)
+|description=On Jan 13, 1931 AD, the Persistence of Memory was created, which is seen as a classic work of surrealism.<br>This oil painting is one of the representative works of the surrealist painter Dalí. In this painting, Dalí depicts a beach of dead silence, with several soft and twisted clock faces, dead tree branches, flies and ants on the clock faces, and an abstract shape in the center of the scene. Although this scene seems very discordant, the painter vividly depicts it with a unique style, giving people a dreamlike sense of reality, and making it a classic surrealistic painting.
+|fame=45
+|art=105
+|fth=69
+|civ=71
+|tech=57
+|ss1=Demon Minion DEF +2%<br>Per 10 Rare Protomon fused, Snail HP +40<br>Per 10 Rare Protomon fused, Snail ATK +4<br>Rare Protomon Fused: 200/200
+|ss2=Demon Minion DEF +3%<br>Per 10 Rare Protomon fused, Snail HP +60<br>Per 10 Rare Protomon fused, Snail ATK +6<br>Rare Protomon Fused: 200/200
+|ss3=Demon Minion DEF +4%<br>Per 10 Rare Protomon fused, Snail HP +80<br>Per 10 Rare Protomon fused, Snail ATK +8<br>Rare Protomon Fused: 200/200
+|ss4=Demon Minion DEF +6%<br>Per 10 Rare Protomon fused, Snail HP +120<br>Per 10 Rare Protomon fused, Snail ATK +12<br>Rare Protomon Fused: 200/200
+|ss5=Demon Minion DEF +8%<br>Per 10 Rare Protomon fused, Snail HP +160<br>Per 10 Rare Protomon fused, Snail ATK +16<br>Rare Protomon Fused: 200/200
+|ss6=Demon Minion DEF +11%<br>Per 10 Rare Protomon fused, Snail HP +220<br>Per 10 Rare Protomon fused, Snail ATK +22<br>Rare Protomon Fused: 200/200
+|ss7=Demon Minion DEF +11%<br>Per 10 Rare Protomon fused, Snail HP +220<br>Per 10 Rare Protomon fused, Snail ATK +22<br>Rare Protomon Fused: 200/200<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: This Relic's ART +15
+|skill2=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop Water DMG +60
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop CRIT +9%
+|mirage={{Mirage|name=Twisted World|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Ants in the Pocket Watch|3rec=114.43M|3atk=325537|3defense=204890|3hp=17709033|3weak=35823
+|4name=Melting Watch|4rec=178.44M|4atk=477234|4defense=294946|4hp=32860679|4weak=41249
+|5name=Strange Creature|5rec=301.47M|5atk=725293|5defense=433781|5hp=77176080|5weak=51757
+|Arec=455.55M|Aatk=983657|Adefense=572400|Ahp=143036690|Aweak=58260
+}}}}

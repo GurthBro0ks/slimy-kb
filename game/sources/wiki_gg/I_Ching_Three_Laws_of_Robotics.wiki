@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=I Ching,Three Laws of Robotics
+|rank=orange
+|amount=2
+|category=self
+|description=Per 3 Minion Skins crafted, Snail Oblivion Power +14; Minion Skins crafted: 90/90
+}}
+[[Category:Self]]
+[[Category:Oblivion Power Boost]]
+[[Category:Enhanced by Minion Skins]]

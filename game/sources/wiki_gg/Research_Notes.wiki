@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Research Notes
+|class_id=20334
+|rank=Green
+|affct=TECH
+|source=
+|description=To fight the Demon Gods, Earth's Will gathered his brain trust and founded the Academy of Sciences, specializing in the study of Demon God anatomy and weaknesses. To expedite the research, they took some extraordinary measures, which were recorded in detail...
+|fame=18
+|art=15
+|fth=13
+|civ=14
+|tech=31
+|ss1=When you defeat Ex Academic:<br>> Travel Speedup gained +30m
+|ss2=When you defeat Ex Academic:<br>> Travel Speedup gained +1h
+|ss3=When you defeat Ex Academic:<br>> Travel Speedup gained +1h 30m
+|ss4=When you defeat Ex Academic:<br>> Travel Speedup gained +1h 30m
+|ss7=When you defeat Ex Academic:<br>> Travel Speedup gained +1h 30m<br> (Awakened)
+}}

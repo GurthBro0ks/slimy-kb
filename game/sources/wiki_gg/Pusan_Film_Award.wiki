@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Pusan Film Award
+|class_id=20133
+|rank=Green
+|affct=CIV
+|source=
+|description=The Pusan Film Festival was established with the purpose of boosting the growth of the Koryeo film industry. Its main focus is to identify fresh talent to create a more extensive platform for local films. Over time, it has grown in size and significance, and has become one of the most prominent global film festivals.
+|fame=15
+|art=21
+|fth=13
+|civ=28
+|tech=13
+|ss1=Individual Form Avatar rating cap raised to SS+<br>Per Zombie Form Tier, Snail ATK +10<br>Zombie Form Tiers: 9/9
+|ss2=Individual Form Avatar rating cap raised to SS+<br>Per Zombie Form Tier, Snail ATK +20<br>Zombie Form Tiers: 9/9
+|ss3=Individual Form Avatar rating cap raised to SS+<br>Per Zombie Form Tier, Snail ATK +30<br>Zombie Form Tiers: 9/9
+|ss4=Individual Form Avatar rating cap raised to SS+<br>Per Zombie Form Tier, Snail ATK +30<br>Zombie Form Tiers: 9/9
+|ss7=Individual Form Avatar rating cap raised to SS+<br>Per Zombie Form Tier, Snail ATK +30<br>Zombie Form Tiers: 9/9<br> (Awakened)
+}}

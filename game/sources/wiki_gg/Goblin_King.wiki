@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Goblin King
+|rank=orange
+|cabin=2
+|id=179
+|gene1={race} ATK +50
+|gene2={race} FAME +50
+|gene3=Refine +1 Green Demon God Material +1.5%
+|gene4=Per 60 Demon Minions in battle,
+Troop Fire DMG +6
+|gene5=Demon Minion Cloning SPD +1.2%
+|gene6=Per 60 Demon Minions in battle,
+Troop Fire DMG +10
+|gene7=Demon Minion Cloning SPD +2%
+|}}

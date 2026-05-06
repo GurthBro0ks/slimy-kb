@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=860
+|relics=Marilyn Diptych,Tyet
+|rank=orange
+|amount=2
+|category=self
+|description=All Minion DEF +1.4%
+}}

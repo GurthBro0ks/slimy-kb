@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Relativity Scripts
+|rank=SSS
+|affct=TECH
+|birthday=10-13
+|source=* Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Time Chest (0.01%), Wish Box, Wishing (0.07%)
+* [[Indigent Nobleman]] (810k {{RewardIconWithText|B-Tad}})
+|description=On Oct 13, 1916 AD, Einstein published his manuscripts on the Theory of Relativity. Previously, due to Newton's Laws, there was an issue in the theory of special relativity. So Einstein proposed the theory of general relativity. The most famous aspect of special relativity is the mass-energy equation, which states that mass increases with energy. It also explains the enormous amount of energy released by nuclear reactions, which, however, is not what lead to the birth of the atom bomb. The gravitational lens and blackholes predicted by general relativity are consistent with some astronomical observations.
+|fame=54
+|art=71
+|fth=67
+|civ=62
+|tech=108
+|ss1=Snail RUSH +30<br>In explorations, 2x Purple Reagent Drops +1.2%<br>In explorations, 2x Orange Reagent Drops +1.2%
+|ss2=Snail RUSH +40<br>In explorations, 2x Purple Reagent Drops +1.6%<br>In explorations, 2x Orange Reagent Drops +1.6%
+|ss3=Snail RUSH +50<br>In explorations, 2x Purple Reagent Drops +2%<br>In explorations, 2x Orange Reagent Drops +2%
+|ss4=Snail RUSH +70<br>In explorations, 2x Purple Reagent Drops +2.8%<br>In explorations, 2x Orange Reagent Drops +2.8%
+|ss5=Snail RUSH +90<br>In explorations, 2x Purple Reagent Drops +3.6%<br>In explorations, 2x Orange Reagent Drops +3.6%
+|ss6=Snail RUSH +120<br>In explorations, 2x Purple Reagent Drops +4.8%<br>In explorations, 2x Orange Reagent Drops +4.8%
+|ss7=Snail RUSH +120<br>In explorations, 2x Purple Reagent Drops +4.8%<br>In explorations, 2x Orange Reagent Drops +4.8%<br>In explorations, 2x Purple Reagent Drops +4% (Awakened)
+|skill1=[[File:Timemachine skill III.png|50x50px]]Place in Time Machine: Travel Speedup Output +30%
+|skill2=[[File:Timemachine skill III.png|50x50px]]Place in Time Machine: Time Machine Max Cap +30%
+|skill3=[[File:Timemachine skill III.png|50x50px]]Place in Time Machine: Generate Time Chests by +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:RUSH Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Time Machine Skill]]
+[[Category:Time Machine Output Boost]]
+[[Category:Time Chest Output]]
+[[Category:ATK Boost]]
+[[Category:ATK-Fungi Boost]]
+[[Category:Power Boost]]
+[[Category:Rewards Relic]]
+[[Category:Enhanced by ATK Fungi]]
+[[Category:Enhanced by Power]]
+[[Category:Frost Drake Boost]]
+[[Category:Indigent Nobleman Relics]]

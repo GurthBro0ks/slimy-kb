@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=41
+|relics=Enigma Machine,Quantum Cat
+|rank=blue
+|amount=2
+|category=self
+|description=White Orb draws give +1 Lucky Voucher by +25%
+}}

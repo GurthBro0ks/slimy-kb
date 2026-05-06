@@ -1,0 +1,329 @@
+== Leeku ♀ ==
+The world's most celebrated princess. She is worshipped by thousands of fans!
+
+=== Begin Friendship ===
+To obtain Leeku, Complete [[Yamato]] Key Clue "New Year Concert"
+
+===☆☆☆ > ★☆☆===
+After 9 letters back and forth, Leeku will arrive at [[Home Base]] and gift Makeup Box (Toner +50, unlocks more Avatar categories).
+
+===★☆☆ > ★★★===
+After 9 letters back and forth, Leeku will move in with her minion, Stan.
+
+==Rent==
+[[File:Leeku rent.png|frameless|left]]
+
+Leeku rent is collected on '''Friday''' and appears as a Violin to the left of her stage (Lv. 10 rent appears as a gene segment). 
+
+ '''Normal Rent''': {{RewardIconWithLink|Guanery's Violin|blue}}
+
+ '''1-time Rent''': {{RewardIconWithLink|Leeku's Guitar|green}}
+
+ '''Lv. 10 Rent''': {{RewardIconWithLink|Sealed Beast Gene Segment}} After obtaining 5 of these, it will no longer appear.
+
+{{clear}}
+
+==Relics==
+Upgrading these will earn W-tads!
+
+{| class="mw-collapsible wikitable"  
+!Relic Tier
+!Reward
+|-
+|★
+|100 W-tads
+|-
+|★★
+|100 W-tads
+|-
+|★★★
+|100 W-tads
+|-
+|★★★★
+|200 W-tads
+|-
+|★★★★★
+|200 W-tads
+|-
+|★★★★★★
+|300 W-tads
+|}
+
+{| class="wiki-table" style="width:100%; text-align:center;" 
+!style="background-color:var(--blue-bg);"|{{Reimg|Peacock Clock}}{{Relink|Peacock Clock}}
+!style="background-color:var(--blue-bg);"|{{Reimg|Guanery's Violin}}{{Relink|Guanery's Violin}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Crystal Piano}}{{Relink|Crystal Piano}}
+!style="background-color:var(--purple-bg);"|{{Reimg|Marquis Bell}}{{Relink|Marquis Bell}}
+|-
+!style="background-color:var(--orange-bg);"|{{Reimg|Lyre of Hermes}}{{Relink|Lyre of Hermes}}
+!style="background-color:var(--orange-bg);"|{{Reimg|King's Gayageum}}{{Relink|King's Gayageum}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Royal Celtic Harp}}{{Relink|Royal Celtic Harp}}
+!style="background-color:var(--orange-bg);"|{{Reimg|Horn of Heimdall}}{{Relink|Horn of Heimdall}}
+|}
+
+==Leeku's New Album==
+When your Idol releases a new album, you cannot call yourself a genuine fan if you don't buy thousands of copies at once!
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Research Skill<br>Required
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||0||ART +5||Free Gene Speedup (Angel) +30s
+|-
+|2||180||2k||ART +10||Free Gene Speedup (Angel) +1m
+|-
+|3||190||4.5k||ART +15||Free Gene Speedup (Angel) +1m30s
+|-
+|4||200||8k||ART +20||Free Gene Speedup (Angel) +2m
+|-
+|5||210||12.5k||ART +25||Free Gene Speedup (Angel) +2m30s
+|-
+|6||220||18k||ART +30||Free Gene Speedup (Angel) +3m
+|-
+|7||230||24.5k||ART +35||Free Gene Speedup (Angel) +3m30s
+|-
+|8||240||32k||ART +40||Free Gene Speedup (Angel) +4m
+|-
+|9||250||40.5k||ART +45||Free Gene Speedup (Angel) +4m30s
+|-
+|10||260||50k||ART +50||Free Gene Speedup (Angel) +5m
+|-
+|11||270||60.5k||ART +55||Free Gene Speedup (Angel) +5m30s
+|-
+|12||285||72k||ART +60||Free Gene Speedup (Angel) +6m
+|-
+|13||300||84.5k||ART +65||Free Gene Speedup (Angel) +6m30s
+|-
+|14||315||98k||ART +70||Free Gene Speedup (Angel) +7m
+|-
+|15||330||112k||ART +75||Free Gene Speedup (Angel) +7m30s
+|-
+|16||345||123k||ART +80||Free Gene Speedup (Angel) +8m
+|-
+|17||360||144k||ART +85||Free Gene Speedup (Angel) +8m30s
+|-
+|18||375||162k||ART +90||Free Gene Speedup (Angel) +9m
+|-
+|19||390||180k||ART +95||Free Gene Speedup (Angel) +9m30s
+|-
+|20||400||200k||ART +100||Free Gene Speedup (Angel) +10m
+|-
+|21||420||220k||ART +105||Free Gene Speedup (Angel) +10m30s
+|-
+|22||440||242k||ART +110||Free Gene Speedup (Angel) +11m
+|-
+|23||460||264k||ART +115||Free Gene Speedup (Angel) +11m30s
+|-
+|24||480||285k||ART +120||Free Gene Speedup (Angel) +12m
+|-
+|25||500||309k||ART +125||Free Gene Speedup (Angel) +12m30s
+|-
+|26||520||333k||ART +130||Free Gene Speedup (Angel) +13m
+|-
+|27||540||357k||ART +135||Free Gene Speedup (Angel) +13m30s
+|-
+|28||560||381k||ART +140||Free Gene Speedup (Angel) +14m
+|-
+|29||580||405k||ART +145||Free Gene Speedup (Angel) +14m30s
+|-
+|30||600||429k||ART +150||Free Gene Speedup (Angel) +15m
+|}
+
+==Commander ==
+A good commander can make the troops more effective!
+
+Commander can only be leveled up as far as Leeku's New Album is. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!B-tad Cost
+!Skill 1
+!Skill 2
+|-
+|1||0||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +10
+|-
+|2||4k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +20
+|-
+|3||6k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +30
+|-
+|4||8k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +40
+|-
+|5||10k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +50
+|-
+|6||12k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +60
+|-
+|7||14k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +70
+|-
+|8||16k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +80
+|-
+|9||18k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +90
+|-
+|10||20k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +100
+|-
+|11||22k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +110
+|-
+|12||24k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +120
+|-
+|13||26k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +130
+|-
+|14||28k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +140
+|-
+|15||30k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +150
+|-
+|16||32k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +160
+|-
+|17||34k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +170
+|-
+|18||36k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +180
+|-
+|19||38k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +190
+|-
+|20||40k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +200
+|-
+|21||42k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +210
+|-
+|22||44k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +220
+|-
+|23||46k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +230
+|-
+|24||48k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +240
+|-
+|25||50k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +250
+|-
+|26||55k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +260
+|-
+|27||60k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +270
+|-
+|28||65k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +280
+|-
+|29||70k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +290
+|-
+|30||75k||Angel Minion MAX +1||Per 10 Stan in battle, Troop HP +300
+|}
+
+==Research Ability==
+Below is a table of the research manual cost to upgrade each research gene. Leeku specializes in '''Angel Gene''' and therefore the research manual cost for the Angel is halved. 
+
+{| class="mw-collapsible mw-collapsed wikitable"
+!Level
+!Manuals Required 
+|-
+|1-10||1
+|-
+|11-20||2
+|-
+|21-30||3
+|-
+|31-40||4
+|-
+|61-70||20
+|-
+|71-80||40
+|-
+|81-90||60
+|-
+|91-95||80
+|-
+|97||200
+|-
+|98||400
+|-
+|99||600
+|-
+|100||800
+|}
+
+==Minion - Stan==
+To stans, their idol means the world. They can give everything to their idols without hesitation...
+
+===Special Ability - Idol Worship ===
+Per 10 Stans in battle, Troop HARD Stats +3 (multiplied by minion level)
+
+===Minion Relics===
+Upgrading these relics will buff your Stans!
+
+{| class="mw-collapsible wikitable"
+!Name
+!★☆☆☆☆☆
+!★★☆☆☆☆
+!★★★☆☆☆
+!★★★★☆☆
+!★★★★★☆
+!★★★★★★
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Peacock Clock}}<br>{{relink|Peacock Clock}}
+|HP +1%
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--blue-bg);" |{{reimg|Guanery's Violin}}<br>{{relink|Guanery's Violin}}
+|HP +1% 
+|DEF +1%
+|ATK +1%
+|RUSH +1%
+|
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Crystal Piano}}<br>{{relink|Crystal Piano}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--purple-bg);" |{{reimg|Marquis Bell}}<br>{{relink|Marquis Bell}}
+|HP +2%
+|DEF +2%
+|ATK +2%
+|RUSH +2%
+|All Stats +3%
+|
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Lyre of Hermes}}<br>{{relink|Lyre of Hermes}}
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|DEF +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|King's Gayageum}}<br>{{relink|King's Gayageum}}
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|ATK +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Royal Celtic Harp}}<br>{{relink|Royal Celtic Harp}}
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|HP +4%
+|-
+!style="background-color:var(--orange-bg);" |{{reimg|Horn of Heimdall}}<br>{{relink|Horn of Heimdall}}
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|RUSH +4%
+|}
+
+[[Category:Partners]]
+[[Category:Yamato]]
+[[Category:Friday Rent]]
+[[Category:Angel Minions]]
+[[Category:Angel Gene Speedup Boost]]
+[[Category:ART Boost]]
+[[Category:Minion HP Boost]]
+[[Category:Minion HARD Boost]]

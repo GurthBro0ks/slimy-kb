@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Claws of Carcinus
+|type=Bionic
+|rank=red
+|id=10703
+|idx=61
+|description=Wreathed in searing, blood-drenched fury, its blazing pincers embody both destruction and the warrior’s glory.
+|skill=Summon 3 streams of magma to attack the enemy, each dealing DMG equal to 73.3% of ATK!
+|hp=2420
+|def=225
+|atk=221
+|rush=382
+|gene1=HIT +8%
+|gene2=Each round, {race} RUSH +80
+|gene3=RUSH CRIT DMG +10%
+|gene4=Fire DMG +120
+|gene5=Each round, {race} ATK +80
+|gene6=RUSH Ignore DEF +4%
+|gene7=Fire DMG +6% (Awakened)
+|}}

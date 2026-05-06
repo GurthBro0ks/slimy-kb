@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=695
+|relics=Exquisite Guqin,Exquisite Pipa,Mendelssohn's Baton
+|rank=purple
+|amount=3
+|category=self
+|description=In Follower Recruitment, 2x Protolith Chest Drops +7%
+}}

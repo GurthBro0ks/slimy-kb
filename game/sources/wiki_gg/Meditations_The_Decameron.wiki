@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Meditations,The Decameron
+|rank=purple
+|amount=2
+|category=home
+|description=Lumber Camp Output +12%
+}}
+[[Category:Home]]

@@ -1,0 +1,24 @@
+{{CargoRelic
+|name=21,474,836,470
+|class_id=20431
+|rank=Green
+|affct=FAME
+|source=
+|description=When these cockroaches converge, enough conviction is generated to lead to the collective belief of "The enemy shall be vanquished!" This is similar to low-level creatures like termites escalating in power when they increase in number. The cockroaches are able to communicate telepathically with other intelligent beings in any language.
+50,000 Cockroaches: equivalent intelligence of an ordinary mouse
+980,000 Cockroaches: equivalent intelligence of an ordinary chimpanzee
+11.43 Million Cockroaches: equivalent intelligence of a human infant
+99.51 Million Cockroaches: equivalent intelligence of a young human
+763 Million Cockroaches: equivalent intelligence of Einstein
+21 Billion Cockroaches: possibly rivaling Earth's Will
+|fame=100
+|art=95
+|fth=95
+|civ=95
+|tech=95
+|ss1=Per 100 Minions Cloned, Snail HP +10<br>Per 100 Minions Cloned, Snail ATK +1<br>Per 100 Minions Cloned, Snail DEF +1<br>Per 100 Minions Cloned, Snail RUSH +1<br>Minions Cloned: 10000/10000
+|ss2=Per 100 Minions Cloned, Snail HP +20<br>Per 100 Minions Cloned, Snail ATK +2<br>Per 100 Minions Cloned, Snail DEF +2<br>Per 100 Minions Cloned, Snail RUSH +2<br>Minions Cloned: 10000/10000
+|ss3=Per 100 Minions Cloned, Snail HP +30<br>Per 100 Minions Cloned, Snail ATK +3<br>Per 100 Minions Cloned, Snail DEF +3<br>Per 100 Minions Cloned, Snail RUSH +3<br>Minions Cloned: 10000/10000
+|ss4=Per 100 Minions Cloned, Snail HP +30<br>Per 100 Minions Cloned, Snail ATK +3<br>Per 100 Minions Cloned, Snail DEF +3<br>Per 100 Minions Cloned, Snail RUSH +3<br>Minions Cloned: 10000/10000
+|ss7=Per 100 Minions Cloned, Snail HP +30<br>Per 100 Minions Cloned, Snail ATK +3<br>Per 100 Minions Cloned, Snail DEF +3<br>Per 100 Minions Cloned, Snail RUSH +3<br>Minions Cloned: 10000/10000<br> (Awakened)
+}}

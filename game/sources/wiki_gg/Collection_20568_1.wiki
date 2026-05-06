@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20568_1
+|class_id=20568
+|rank=Green
+|affct=CIV
+|source=
+|description=collection@20568_2
+|fame=18
+|art=16
+|fth=13
+|civ=29
+|tech=14
+|ss1=Per 8 Rift Apostles dominated, Snail ATK +2<br>Per 8 Rift Apostles dominated, Snail DEF +2<br>Rift Apostles Dominated: 160/160
+|ss2=Per 8 Rift Apostles dominated, Snail ATK +4<br>Per 8 Rift Apostles dominated, Snail DEF +4<br>Rift Apostles Dominated: 160/160
+|ss3=Per 8 Rift Apostles dominated, Snail ATK +6<br>Per 8 Rift Apostles dominated, Snail DEF +6<br>Rift Apostles Dominated: 160/160
+|ss4=Per 8 Rift Apostles dominated, Snail ATK +6<br>Per 8 Rift Apostles dominated, Snail DEF +6<br>Rift Apostles Dominated: 160/160
+|ss7=Per 8 Rift Apostles dominated, Snail ATK +6<br>Per 8 Rift Apostles dominated, Snail DEF +6<br>Rift Apostles Dominated: 160/160<br> (Awakened)
+}}

@@ -1,0 +1,17 @@
+[[File:Orange Fungus Choice Pack Details.png|300px]]
+
+The {{RewardIconWithLink|Orange Fungus Choice Pack|orange}} is a reward from the [[Clover Vendor]] and possibly other events. It allows you to pick one {{RewardIconWithText|Wonder Fungus Orange|orange}}.
+
+* {{RewardIconWonderFungusWithText|Orange|HP|Orange}} - Snail HP +50 permanently
+* {{RewardIconWonderFungusWithText|Orange|ATK|Orange}} - Snail ATK +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|DEF|Orange}} - Snail DEF +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|RUSH|Orange}} - Snail RUSH +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|FAME|Orange}} - FAME +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|ART|Orange}} - ART +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|FTH|Orange}} - FTH +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|CIV|Orange}} - CIV +5 permanently
+* {{RewardIconWonderFungusWithText|Orange|TECH|Orange}} - TECH +5 permanently
+
+After receiving the Gift Pack, you may choose one of the above rewards!
+
+[[Category:Reward Pack]]

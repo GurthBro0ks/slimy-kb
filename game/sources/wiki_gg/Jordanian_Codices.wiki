@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Jordanian Codices
+|class_id=22676
+|rank=SS
+|affct=FAITH
+|birthday=04-07
+|source=
+|description=On Apr 7, 70 AD, after the fall of Jerusalem, a fleeing Christian hid the Jordan Codices in a remote cave.<br>The Jordanian Codices are early Christian documents about the size of a credit card, with over 70 pages held together by wire. They contain symbols, drawings, and writings, even detailing the story of Jesus' crucifixion and resurrection. Scholars believe that this book is the document referred to in the Book of Revelation and can help people better understand the early development of Christianity.
+|fame=65
+|art=74
+|fth=102
+|civ=46
+|tech=60
+|ss1=Snail DEF +20<br>Per 10 Maneater Pistils Used, Snail ATK +2<br>Per 10 Maneater Pistils Used, Snail RUSH +2<br>Maneater Pistil(s) used: 400/400
+|ss2=Snail DEF +30<br>Per 10 Maneater Pistils Used, Snail ATK +3<br>Per 10 Maneater Pistils Used, Snail RUSH +3<br>Maneater Pistil(s) used: 400/400
+|ss3=Snail DEF +40<br>Per 10 Maneater Pistils Used, Snail ATK +4<br>Per 10 Maneater Pistils Used, Snail RUSH +4<br>Maneater Pistil(s) used: 400/400
+|ss4=Snail DEF +60<br>Per 10 Maneater Pistils Used, Snail ATK +6<br>Per 10 Maneater Pistils Used, Snail RUSH +6<br>Maneater Pistil(s) used: 400/400
+|ss5=Snail DEF +80<br>Per 10 Maneater Pistils Used, Snail ATK +8<br>Per 10 Maneater Pistils Used, Snail RUSH +8<br>Maneater Pistil(s) used: 400/400
+|ss6=Snail DEF +110<br>Per 10 Maneater Pistils Used, Snail ATK +11<br>Per 10 Maneater Pistils Used, Snail RUSH +11<br>Maneater Pistil(s) used: 400/400
+|ss7=Snail DEF +110<br>Per 10 Maneater Pistils Used, Snail ATK +11<br>Per 10 Maneater Pistils Used, Snail RUSH +11<br>Maneater Pistil(s) used: 400/400<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, Troop Fire DMG +30
+|skill2=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FTH +15
+|skill3=[[File:Offeringegg skill III.png|50px]]Place in Offering Egg: Offering Egg hatching efficiency +30%
+|mirage={{Mirage|name=Jordan Legacy|reward={{RewardIconWithLink|Wish Coin, +3|orange}}
+|3name=Jordanian Bronze Codices|3rec=152.90M|3atk=416419|3defense=259012|3hp=26124561|3weak=39170
+|4name=Jordanian Silver Codices|4rec=288.20M|4atk=704074|4defense=421842|4hp=73885837|4weak=51273
+|5name=Jordanian Golden Codices|5rec=474.79M|5atk=1016879|5defense=589715|5hp=156145637|5weak=59042
+|Arec=718.44M|Aatk=1453802|Adefense=820032|Ahp=372653530|Aweak=72218
+}}}}

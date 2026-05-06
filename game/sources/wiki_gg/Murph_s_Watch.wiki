@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Murph's Watch
+|class_id=22475
+|rank=Blue
+|affct=CIV
+|birthday=08-20
+|source=Lottery Machine No.3 (0.03%)
+|description=On Aug 20, 2035 AD, Murph's watch suddenly received a strange message.<br>Murph's greatest regret in life was not being able to say a proper goodbye to her father when he left. She had always been troubled by this. At the brink of Earth's desolation and human survival, she returned to her hometown, where she discovered traces left by her father and realized the message he had sent from faraway space. She successfully cracked the migration equation and led humanity to successfully colonize Saturn!
+|fame=32
+|art=30
+|fth=26
+|civ=45
+|tech=21
+|ss1=Like World's Strongest, obtained B-Tadpoles +5%
+|ss2=Like World's Strongest, obtained B-Tadpoles +10%
+|ss3=Like World's Strongest, obtained B-Tadpoles +15%
+|ss4=Like World's Strongest, obtained B-Tadpoles +25%
+|ss7=Like World's Strongest, obtained B-Tadpoles +25%<br>Like World's Strongest, obtained B-Tadpoles +25% (Awakened)
+|skill1=[[File:Forestsanctum skill I.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +5%
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=200
+|relics=Aladdin's Carpet,Royal Celtic Harp
+|rank=orange
+|amount=2
+|category=self
+|description=The Pond has a +14% chance to produce W-tads
+}}

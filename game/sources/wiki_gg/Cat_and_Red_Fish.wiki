@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Cat and Red Fish
+|class_id=21650
+|rank=AAA
+|affct=ART
+|source=
+|description=Matisse’s chromatic duel. Sunlit feline vs. vermilion swimmers in a cobalt battlefield.
+|fame=32
+|art=73
+|fth=48
+|civ=52
+|tech=38
+|ss1=Snail ATK +30<br>Per 5 ART Relics awakened, Snail DEF +9<br>ART Relics Awakened: 100/100
+|ss2=Snail ATK +40<br>Per 5 ART Relics awakened, Snail DEF +12<br>ART Relics Awakened: 100/100
+|ss3=Snail ATK +50<br>Per 5 ART Relics awakened, Snail DEF +15<br>ART Relics Awakened: 100/100
+|ss4=Snail ATK +70<br>Per 5 ART Relics awakened, Snail DEF +21<br>ART Relics Awakened: 100/100
+|ss5=Snail ATK +90<br>Per 5 ART Relics awakened, Snail DEF +27<br>ART Relics Awakened: 100/100
+|ss7=Snail ATK +90<br>Per 5 ART Relics awakened, Snail DEF +27<br>ART Relics Awakened: 100/100<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Cap +15%
+|skill2=[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: This Relic's ART +10
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=862
+|relics=Marilyn Diptych,Tyet,Yue Jue Shu,The Great Gatsby
+|rank=orange
+|amount=4
+|category=self
+|description=Catalyzed Blue Spores turn to Purple by +0.9%
+}}

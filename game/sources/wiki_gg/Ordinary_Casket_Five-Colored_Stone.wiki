@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=906
+|relics=Ordinary Casket,Five-Colored Stone
+|rank=orange
+|amount=2
+|category=self
+|description=Dragon Minion HARD Stats +2.1%
+}}

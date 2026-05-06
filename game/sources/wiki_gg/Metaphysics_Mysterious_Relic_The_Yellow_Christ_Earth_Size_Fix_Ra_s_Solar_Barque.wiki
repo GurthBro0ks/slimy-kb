@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Metaphysics,Mysterious Relic,The Yellow Christ,Earth Size Fix,Ra's Solar Barque
+|rank=orange
+|amount=5
+|category=minion
+|description=Minion Skin HARD Stats +30%
+}}
+[[Category:Minion]]
+[[Category:Minion Skin Boost]]
+[[Category:Minion HARD Boost]]

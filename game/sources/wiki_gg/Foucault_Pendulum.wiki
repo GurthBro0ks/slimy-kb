@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Foucault Pendulum
+|class_id=22116
+|rank=AAA
+|affct=FAME
+|birthday=10-25
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Oct 25, 1851 AD, French physicist, Foucault demonstrates the Earth's rotation with this experiment.<br>The Foucault Pendulum was made by the French physicist, Foucault to demonstrate the rotation of the Earth. This single pendulum possesses great inertia and can swing for a long time. The bottom plate has a marking to indicate that its direction is constantly changing as the pendulum swings. According to the law of inertia, the direction of the swing will not change, so the change of the swing is the result of the relative motion seen by the observer on Earth. This experiment successfully demonstrated the existence of Earth's rotation and helped people understand the laws of nature.
+|fame=73
+|art=37
+|fth=35
+|civ=45
+|tech=53
+|ss1=Mecha Minion ATK +3%<br>Per 30 Mecha Minions in battle:<br>> Troop HARD Stats +6
+|ss2=Mecha Minion ATK +4%<br>Per 30 Mecha Minions in battle:<br>> Troop HARD Stats +8
+|ss3=Mecha Minion ATK +5%<br>Per 30 Mecha Minions in battle:<br>> Troop HARD Stats +10
+|ss4=Mecha Minion ATK +7%<br>Per 30 Mecha Minions in battle:<br>> Troop HARD Stats +14
+|ss5=Mecha Minion ATK +9%<br>Per 30 Mecha Minions in battle:<br>> Troop HARD Stats +18
+|ss7=Mecha Minion ATK +9%<br>Per 30 Mecha Minions in battle:<br>> Troop HARD Stats +18<br>Per 30 Mecha Minions in battle:<br>> Troop HARD Stats +14 (Awakened)
+|skill1=[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, All Minion RUSH +4.5%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, All Minion RUSH +3%
+}}

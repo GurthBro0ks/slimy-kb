@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Thursday Star
+|class_id=20532
+|rank=Green
+|affct=CIV
+|source=
+|description=Fortune Law 5: Seize the last day of every event. Without giving it your all, you will never know the extent of your luck's potential!
+|fame=16
+|art=14
+|fth=13
+|civ=31
+|tech=16
+|ss1=Snail Leadership +2<br>Per 10 Lucky Star, Snail HP +10<br>Lucky Star Gained: 1400/1400
+|ss2=Snail Leadership +4<br>Per 10 Lucky Star, Snail HP +20<br>Lucky Star Gained: 1400/1400
+|ss3=Snail Leadership +6<br>Per 10 Lucky Star, Snail HP +30<br>Lucky Star Gained: 1400/1400
+|ss4=Snail Leadership +6<br>Per 10 Lucky Star, Snail HP +30<br>Lucky Star Gained: 1400/1400
+|ss7=Snail Leadership +6<br>Per 10 Lucky Star, Snail HP +30<br>Lucky Star Gained: 1400/1400<br> (Awakened)
+}}

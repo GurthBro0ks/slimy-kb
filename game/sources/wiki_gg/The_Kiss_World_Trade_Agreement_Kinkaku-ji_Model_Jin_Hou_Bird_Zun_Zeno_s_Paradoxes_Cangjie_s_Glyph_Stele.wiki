@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=901
+|relics=The Kiss,World Trade Agreement,Kinkaku-ji Model,Jin Hou Bird Zun,Zeno’s Paradoxes,Cangjie’s Glyph Stele
+|rank=orange
+|amount=6
+|category=self
+|description=Per Orange Brand Cases opened, Snail ATK +12;Orange Brand Cases Opened: 50/50
+}}

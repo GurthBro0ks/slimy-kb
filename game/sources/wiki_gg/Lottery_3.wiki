@@ -1,0 +1,54 @@
+==Understanding Relics==
+Relics each have FAME, ART, FTH, CIV, and TECH stats (abbreviated to AFFCT), one of which is higher and the dominant trait for each relic, and this is how they are predominately sorted.
+
+Activating relics requires B-tads, and upgrading them requires reagent and fragments. The buffs and stats that a relic gives are always active, regardless of where or if it's embedded in the compass, or elsewhere. At Tier 3 and higher, skills are unlocked as well as mirage fights for orange relics. Once fully upgraded, relics can be awakened to contribute to resonance buffs. Some relics can only be obtained in the Premium shop for USD or CAD and are known as Supreme Relics. 
+
+For a more detailed view of everything relics, see the [[Relic Guide]].
+
+{| style="background-color: #8dfe8f; text-align: center;" cellpadding="10"
+|'''Supreme Relics have not yet been included into this page.'''<br>Please visit the [[Supreme Relic]] page to see the complete list, prices, and resonances.
+|}
+
+{| class="wikitable filter-toggles"
+|-
+!View All
+| class="wds-button filter-toggle-not-selected view-all" | [[#js|View All]]
+<!--| class="wds-button filter-toggle-not-selected true" | [[#js|Available Only]]
+| class="wds-button filter-toggle-not-selected false" | [[#js|Unavailable Only]] !-->
+|-
+!AFFCT
+| class="wds-button filter-toggle-not-selected cat1 fame" | [[#js|FAME]]
+| class="wds-button filter-toggle-not-selected cat1 art" | [[#js|ART]]
+| class="wds-button filter-toggle-not-selected cat1 fth" | [[#js|FTH]]
+| class="wds-button filter-toggle-not-selected cat1 civ" | [[#js|CIV]]
+| class="wds-button filter-toggle-not-selected cat1 tech" | [[#js|TECH]]
+|-
+!Grade  
+| class="wds-button filter-toggle-not-selected cat2 sss" | [[#js|SSS]]
+| class="wds-button filter-toggle-not-selected cat2 ss" | [[#js|SS]]
+| class="wds-button filter-toggle-not-selected cat2 s" | [[#js|S]]
+| class="wds-button filter-toggle-not-selected cat2 aaa" | [[#js|AAA]]
+| class="wds-button filter-toggle-not-selected cat2 aa" | [[#js|AA]]
+| class="wds-button filter-toggle-not-selected cat2 a" | [[#js|A]]
+| class="wds-button filter-toggle-not-selected cat2 blue" | [[#js|Blue]]
+| class="wds-button filter-toggle-not-selected cat2 green" | [[#js|Green]]
+|}
+
+{| class="wikitable sortable"
+!Image
+!Rank
+!Effect (Maxed)
+!FAME
+!ART
+!FTH
+!CIV
+!TECH
+!Source
+{{#cargo_query:table=Relics
+|fields=name, source, affct, rank, ss3, ss7, fame, art, fth, civ, tech, source
+|where=source LIKE '%Lottery Machine No.3%'
+|order by=name
+|format=template
+|template=RelicSourceTableRow
+|named args=yes}}
+|}

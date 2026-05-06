@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Gecko Tail Specimen
+|class_id=20080
+|rank=Green
+|affct=CIV
+|source=
+|description=A gecko that frequented the mall had to break its tail trying to survive under the taps of big spenders! The fallen-off tail is soaked in formalin to keep its color and freshness. It's one of the favorite collectables of the spenders!
+|fame=18
+|art=12
+|fth=16
+|civ=31
+|tech=13
+|ss1=Zombie Gene research Cell cost -0.6%
+|ss2=Zombie Gene research Cell cost -1.2%
+|ss3=Zombie Gene research Cell cost -1.8%
+|ss4=Zombie Gene research Cell cost -1.8%
+|ss7=Zombie Gene research Cell cost -1.8%<br> (Awakened)
+}}

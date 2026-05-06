@@ -1,0 +1,1729 @@
+{{Missing Info|specifics=This page is being formatted by the wiki team. Thank you for your patience as we find the best page structure. Reach out to us on Discord to help!}}
+
+==Dragon Moon==
+{| class="wikitable"
+!Pedestal
+!colspan="2"|Task
+!Rewards
+|-
+|style="background-color:var(--green-bg)"|Front-Left
+|Dig-Mine
+|Dig out all 7 Mines on tiles: 13; 22; 31; 40; 45; 62; 75
+|{{RewardIconWithText|Dragon Moon}} +3
+|-
+|style="background-color:var(--green-bg)"|Front-Right
+|Clear Domain
+|Clear Outside Crystal Palace; Reception Area; Entertainment Area; VIP Area; Manager Office; Hidden Corridor; Confidential Lab
+|{{RewardIconWithText|Dragon Moon}} +3
+|-
+|style="background-color:var(--blue-bg)"|Back-Left
+|Eliminate Generals
+|Eliminate Baxia; Pixiu; Fuxi; Pulao; Qiuniu; Yazi
+|{{RewardIconWithText|Dragon Moon}} +3
+|-
+|style="background-color:var(--blue-bg)"|Back-Right
+|Explore Domain
+|Investigate the tiles within Outside Crystal Palace; Reception Area; Entertainment Area; VIP Area; Manager Office; Hidden Corridor; Confidential Lab
+|{{RewardIconWithText|Dragon Moon}} +3
+|-
+|style="background-color:var(--purple-bg)"|Back-Middle
+|Cathay Dragon God
+|Defeat Jaden, Fake Jaden's Head and Secret of Jaden
+|{{RewardIconWithText|Dragon Moon}} +5
+|}
+
+===Moon Shop===
+{|class="wikitable"
+!Item
+!Cost in<br>{{RewardIconWithText|Dragon Moon}}
+!Quantity Available
+|-
+|{{RewardIcon|Jaden Scale}}{{Retext|T3 Jaden Scale|blue}} +50
+|1||1
+|-
+|{{RewardIcon|Jaden Horn}}{{Retext|T3 Jaden Horn|blue}} +50
+|1||1
+|-
+|{{RewardIcon|Jaden Core}}{{Retext|T3 Jaden Core|blue}} +50
+|1||1
+|-
+|{{RewardIconWithText|Purple Coating, +120|purple}}
+|2||1
+|-
+|{{RewardIconWithText|B-Tad, +150k}}
+|3||1
+|-
+|{{RewardIconWithText|Refine Speedup, +2d}}
+|4||1
+|-
+|{{RewardIconWithLink|Wormhole Refiner, +1000|orange}}
+|5||1
+|-
+|{{RewardIcon|Crystal of Will}}{{Gearlink|orange|Material|Crystal of Will}}
+|6||1
+|-
+|After Domain is 100%<br>{{RewardIconWithText|Cathay Nebula Pack|orange}} ({{RewardIconWithLink|Quantum Gel, +1k}} and {{RewardIconWithLink|Singularity Crystal, +1|orange}})
+|7||1
+|}
+
+==Reserach Manual Shop (Tile 92)==
+{| class="wikitable"
+!Product
+!Cost
+|-
+|{{RewardIconWithText|Zombie Manual, +10}}
+|22.5k {{RewardIconWithText|B-Tad}}
+|-
+|{{RewardIconWithText|Demon Manual, +10}}
+|22.5k {{RewardIconWithText|B-Tad}}
+|-
+|{{RewardIconWithText|Angel Manual, +10}}
+|22.5k {{RewardIconWithText|B-Tad}}
+|-
+|{{RewardIconWithText|Mutant Manual, +10}}
+|22.5k {{RewardIconWithText|B-Tad}}
+|-
+|{{RewardIconWithText|Mecha Manual, +10}}
+|22.5k {{RewardIconWithText|B-Tad}}
+|-
+|{{RewardIconWithText|Dragon Manual, +10}}
+|22.5k {{RewardIconWithText|B-Tad}}
+|-
+|{{RewardIconWithText|Dragon Moon}} +1
+|50k {{RewardIconWithText|B-Tad}}
+|-}
+
+==Legend==
+{|class=wikitable
+!Type
+!Color Assignment
+|-
+|Event
+|style="background-color:var(--yellow-bg)"|
+|-
+|Snail Battle
+|style="background-color:var(--red-bg)"|
+|-
+|Minion Battle
+|style="background-color:var(--purple-bg)"|
+|-
+|Reward
+|style="background-color:var(--blue-bg)"|
+|-
+|Mine Pit
+|style="background-color:var(--green-bg)"|
+|-
+|Store
+|style="background-color:var(--orange-bg)"|
+|}
+
+==Tiles==
+{| class="wikitable"
+!Tile
+!Name
+!Notes
+!Rewards
+|-
+|1
+|style="background-color:var(--purple-bg)"|Greeter
+|RUSH weakness: 2.200.000 Power
+|{{RewardIcon|Jaden Scale}}T1 Jaden Scale +3
+|-
+|2
+|style="background-color:var(--purple-bg)"|Greeter
+|RUSH weakness: 2.200.000 Power
+|{{RewardIcon|Jaden Horn}}T1 Jaden Horn +3
+|-
+|rowspan="2"|3
+|style="background-color:var(--purple-bg)"|Greeter
+|RUSH weakness: 2.230.000 Power
+|{{RewardIcon|Jaden Core}} T1 Jaden Core +3
+|-
+|style="background-color:var(--yellow-bg)"|Guest Drum
+|Beat the Guest Drum (Need {{RewardIconWithText|W-Tad, 20k}}
+|{{RewardIconWithLink|Lottery Ticket, +3|orange}}<br>{{RewardIconWithText|Engineering Printing Supply, +50}}
+|-
+|rowspan="2"|4
+|style="background-color:var(--purple-bg)"|Casino Security
+|RUSH weakness: 2.2300.000 Power
+|{{RewardIcon|Jaden Scale}}T1 Jaden Scale +3
+|-
+|style="background-color:var(--blue-bg)"|Fortune Flag
+|Chop down the Flag!
+|{{RewardIconWithText|Wood, +500}}
+|-
+|rowspan="3"|5
+|style="background-color:var(--purple-bg)"|Baxia
+|RUSH weakness: 2.260.000 Power
+|{{RewardIcon|Jaden Horn}}T1 Jaden Horn +3
+|-
+|style="background-color:var(--red-bg)"|General Baxia
+|ATK: 39.585; DEF: 26.390; HP: 876.121; AFFCT: 66.950<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithText|Dragon Moon}} +1
+|-
+|style="background-color:var(--blue-bg)"|Stele
+|Smash the Stele!
+|{{RewardIconWithText|Stone, +500}}
+|-
+|6
+|style="background-color:var(--purple-bg)"|REceptionist
+|RUSH weakness: 2.260.000 Power
+|{{RewardIcon|Jaden Core}} T1 Jaden Core +3
+|-
+|7
+|style="background-color:var(--purple-bg)"|Receptionist
+|RUSH weakness: 2.290.000 Power
+|{{RewardIcon|Jaden Scale}}T1 Jaden Scale +4
+|-
+|rowspan="2"|8
+|style="background-color:var(--purple-bg)"|Clerk
+|RUSH weakness: 2.290.000 Power
+|{{RewardIcon|Jaden Horn}} T1 Jaden Horn +4
+|-
+|style="background-color:var(--yellow-bg)"|Stored Security Box
+|Enter password (6428)
+|{{RewardIconWithLink|Lottery Ticket, +5|orange}}<br>{{RewardIconWithText|Bead Box, +1}}
+|-
+|9
+|style="background-color:var(--purple-bg)"|Receptionist
+|RUSH weakness: 2.320.000 Power
+|{{RewardIcon|Jaden Core}} T1 Jaden Core +4
+|-
+|10
+|style="background-color:var(--purple-bg)"|Receptionist
+|RUSH weakness: 2.320.000 Power
+|{{RewardIcon|Jaden Scale}} T1 Jaden Scale +4
+|-
+|11
+|style="background-color:var(--purple-bg)"|Receptionist
+|RUSH weakness: 2.350.000 Power
+|{{RewardIcon|Jaden Horn}} T1 Jaden Horn +4
+|-
+|rowspan="3"|12
+|style="background-color:var(--purple-bg)|Pawn Shop Owner
+|RUSH weakness: 2.350.000 Power
+|{{RewardIcon|Jaden Core}}T1 Jaden Core +4
+|-
+|style="background-color:var(--yellow-bg)|Pawn Shop
+|Display Orange Relic: At least tier 6
+|{{RewardIconWithLink|Wish Coin, +1|orange}}
+|-
+|style="background-color:var(--yellow-bg)"|Pawn Shop
+|Display Awakened Relic: Orange Relic
+|{{RewardIconWithLink|Wish Coin, +1|orange}}
+|-
+|rowspan="2"|13
+|style="background-color:var(--purple-bg)"|Miner
+|RUSH weakness: 2.380.000 Power
+|{{RewardIcon|Jaden Scale}} T1 Jaden Scale +4
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Mining duration: 10h 54min 32sec; requirement: 40x T3+ minions
+|{{RewardIconWithLink|Cathay Treasure Map, +360}}<br>{{RewardIconWithLink|Expert Scroll, +48|purple}}<br>{{RewardIconWithText|Bead Box}}
+|-
+|rowspan="2"|14
+|style="background-color:var(--purple-bg)"|Money Shop Owner
+|RUSH weakness: 2.420.000 Power
+|{{RewardIcon|Jaden Horn}} T1 Jaden Horn +4
+|-
+|style="background-color:var(--yellow-bg)"|Money Shop
+|Exchange for cash: {{RewardIconWithLink|Ancient Coin, 100}}
+|{{RewardIconWithText|W-Tad, +300}}
+|-
+|15
+|style="background-color:var(--purple-bg)"|Lead Greeter
+|RUSH weakness: 2.380.000 Power
+|{{RewardIcon|Jaden Core}} T1 Jaden Core +4
+|-
+|rowspan="2"|16
+|style="background-color:var(--purple-bg)"|Receptionist
+|RUSH weakness: 2.420.000 Power
+|{{RewardIcon|Jaden Scale}} T1 Jaden Scale +4
+|-
+|style="background-color:var(--blue-bg)"|Snack Area
+|Get in line!
+|Donkey Burger +10
+|-
+|17
+|style="background-color:var(--purple-bg)"|Receptionist
+|RUSH weakness: 2.450.000 Power
+|{{RewardIcon|Jaden Horn}} T1 Jaden Horn +4
+|-
+|rowspan="2"|18
+|style="background-color:var(--purple-bg)"|Pixiu
+|RUSH weakness: 2.500.000 Power
+|{{RewardIcon|Jaden Core}} T1 Jaden Core +4
+|-
+|style="background-color:var(--red-bg)"|General Pixiu
+|ATK: 40.635; DEF: 27.090; HP: 923.613; AFFCT: 67.925<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithText|Dragon Moon}} +1
+|-
+|19
+|style="background-color:var(--purple-bg)"|Gambler
+|RUSH weakness: 2.480.000 Power
+|{{RewardIcon|Jaden Scale}} T1 Jaden Scale +4
+|-
+|rowspan="2"|20
+|style="background-color:var(--purple-bg)"|Gambler
+|RUSH weakness: 2.5100.000
+|{{RewardIcon|Jaden Horn}} T1 Jaden Horn +4
+|-
+|style="background-color:var(--blue-bg)"|Mahjong Table
+|Search the table
+|{{RewardIconWithText|B-Tad, +10k}}
+|-
+|21
+|style="background-color:var(--purple-bg)"|Security Chief
+|RUSH weakness: 2.540.000 Power
+|{{RewardIcon|Jaden Core}} T1 Jaden Core +4
+|-
+|rowspan="2"|22
+|style="background-color:var(--purple-bg)"|Miner
+|RUSH weakness: 2.540.000 Power
+|{{RewardIcon|Jaden Scale}} T1 Jaden Scale +4
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Mining duration: 10h 54min 32sec; requirement: 40x T3+ minions
+|{{RewardIconWithLink|Ancient Coin, +360}}<br>{{RewardIconWithLink|Cathay Treasure Map,+360}}<br>{{RewardIconWithText|Bead Box, +3}}
+|-
+|rowspan="3"|23
+|style="background-color:var(--purple-bg)"|Gambler
+|RUSH weakness: 2.570.000 Power
+|{{RewardIcon|Jaden Horn}} T1 Jaden Horn +4
+|-
+|style="background-color:var(--blue-bg)"|Mahjong Table
+|Search the table
+|{{RewardIconWithText|B-Tad, +10k}}
+|-
+|style="background-color:var(--red-bg)"|Gvent Guru
+|ATK: 41.685; DEF: 35.730; HP: 844.915; AFFCT: 68.950<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithLink|Tetrabiblos|blue}} Fragment +10
+|-
+|rowspan="2"|24
+|style="background-color:var(--purple-bg)"|Gambler
+|RUSH weakness: 2.600.000 Power
+|{{RewardIcon|Jaden Core}} T1 Jaden Core +4
+|-
+|style="background-color:var(--blue-bg)"|Mahjong Table
+|Search the table
+|{{RewardIconWithText|B-Tad, +10k}}
+|-
+|rowspan="2"|25
+|style="background-color:var(--purple-bg)"|Fuxi
+|RUSH weakness: 2.700.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T2 Jaden Scale, +3|green}}
+|-
+|style="background-color:var(--yellow-bg)"|Quizman
+|Correct answers in order: B, C, A, B, C
+|{{RewardIconWonderFungusWithText|Orange, +3|CIV|orange}}
+|-
+|rowspan="2"|26
+|style="background-color:var(--purple-bg)"|Gambler
+|RUSH weakness: 2.480.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T2 Jaden Horn, +3|green}}
+|-
+|style="background-color:var(--blue-bg)"|Mahjong Table
+|Search the table
+|{{RewardIconWithText|B-Tad, +10k}}
+|-
+|27
+|style="background-color:var(--purple-bg)"|Gambler
+|RUSH weakness: 2.510.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T2 Jaden Core, +3|green}}
+|-
+|rowspan="2"|28
+|style="background-color:var(--purple-bg)"|Gambler
+|RUSH weakness: 2.570.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T2 Jaden Scale, +3|green}}
+|-
+|style="background-color:var(--blue-bg)"|Mahjong Table
+|Search the table
+|{{RewardIconWithText|B-Tad, +10k}}
+|-
+|29
+|style="background-color:var(--purple-bg)"|Gambler
+|RUSH weakness: 2.600.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T2 Jaden Horn, +3|green}}
+|-
+|rowspan="2"|30
+|style="background-color:var(--purple-bg)"|Pulao
+|RUSH weakness: 2.680.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T2 Jaden Core, +3|green}}
+|-
+|style="background-color:var(--red-bg)"|General Pulao
+|ATK: 42.788; DEF: 28.525; HP: 1.000.470; AFFCT: 69.925<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithText|Dragon Moon}} +1
+|-
+|rowspan="2"|31
+|style="background-color:var(--purple-bg)"|Miner
+|RUSH weakness: 2.660.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T2 Jaden Scale, +3|green}}
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Mining duration: 14h 32min 44sec; requirement: 40x T3+ minions
+|{{RewardIconWithLink|Cathay Treasure Map, +480}}<br>{{RewardIconWithLink|Lottery Ticket, +16}}<br>{{RewardIconWithText|Bead Box, +4}}
+|-
+|32
+|style="background-color:var(--purple-bg)"|Doorkeeper
+|RUSH weakness: 2.660.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T2 Jaden Horn, +3|green}}
+|-
+|33
+|style="background-color:var(--purple-bg)"|Celestial Orchestra
+|RUSH weakness: 2.690.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T2 Jaden Core, +3|green}}
+|-
+|34
+|style="background-color:var(--purple-bg)"|Celestial Orchestra
+|RUSH weakness: 2.690.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T2 Jaden Scale, +4|green}}
+|-
+|rowspan="2"|35
+|style="background-color:var(--purple-bg)"|Warden
+|RUSH weakness: 2.720.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T2 Jaden Horn, +4|green}}
+|-
+|style="background-color:var(--yellow-bg)"|A Set of Keys
+|Pick up the keys: 3.8M Power required
+|{{RewardIconWithText|Prison Cage Key, +3}}
+|-
+|rowspan="2"|36
+|style="background-color:var(--purple-bg)"|Guard
+|RUSH weakness: 2.780.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T2 Jaden Core, +4|green}}
+|-
+|style="background-color:var(--yellow-bg)|Cage
+|Open it: Use 1 {{RewardIconWithText|Prison Cage Key}}
+|{{RewardIconWithLink|Golden Pickaxe, +2|orange}}
+|-
+|rowspan="3"|37
+|style="background-color:var(--purple-bg)"|Guard
+|RUSH weakness: 2.820.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T2 Jaden Scale, +4|green}}
+|-
+|style="background-color:var(--yellow-bg)"|Cage
+|Open it: Use 1 {{RewardIconWithText|Prison Cage Key}}
+|
+|-
+|style="background-color:var(--yellow-bg)"|Fantasy Seven
+|Complete 7 trials
+|{{RewardIconWithLink|Expert Scroll, +40|purple}}
+|-
+|rowspan="2"|38
+|style="background-color:var(--purple-bg)"|Guard
+|RUSH weakness: 2.8200.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T2 Jaden Horn, +4|green}}
+|-
+|style="background-color:var(--yellow-bg)"|Cage
+|Open it: Use 1 {{RewardIconWithText|Prison Cage Key}}
+|{{RewardIconWithLink|Lottery Ticket, +10|orange}}
+|-
+|rowspan="2"|39
+|style="background-color:var(--purple-bg)"|Waiter
+|RUSH weakness: 2.720.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T2 Jaden Core, +4|green}}
+|-
+|style="background-color:var(--blue-bg)"|Cafeteria
+|Grab Food!
+|Yangzhou Fried Rice +10
+|-
+|rowspan="2"|40
+|style="background-color:var(--purple-bg)"|Miner
+|RUSH weakness: 2.750.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T2 Jaden Scale, +4|green}}
+|-
+|style="background-color:var(--Green-bg)"|Mine
+|Mining duration: 14h 32min 44sec; requirement: 40x T3+ minions
+|{{RewardIconWithLink|Cathay Treasure Map, +480}}<br>{{RewardIconWithLink|Wish Coin, +8|orange}}<br>{{RewardIconWithText|Bead Box, +4}}
+|-
+|rowspan="2"|41
+|style="background-color:var(--purple-bg)"|Bath Technician
+|RUSH weakness: 2.750.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T2 Jaden Horn, +4|green}}
+|-
+|style="background-color:var(--red-bg)"|Special Sumo Training
+|ATK: 44.552; DEF: 25.458; HP: 1.302.798; AFFCT: 71.485<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithText|Dragon Moon}} +1
+|-
+|42
+|style="background-color:var(--purple-bg)"|Celestial Orchestra
+|RUSH weakness: 2.780.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T2 Jaden Core, +4|green}}
+|-
+|43
+|style="background-color:var(--purple-bg)"|Celestial Orchestra
+|RUSH weakness: 2.850.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T2 Jaden Scale, +4|green}}
+|-
+|rowspan="2"|44
+|style="background-color:var(--purple-bg)"|Qiuniu
+|RUSH weakness: 2.900.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T2 Jaden Horn, +4|green}}
+|-
+|style="background-color:var(--red-bg)"|Qiuniu
+|ATK: 45.434; DEF: 30.289; HP: 1.070.800; AFFCT: 72.265<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithText|Dragon Moon}} +1
+|-
+|rowspan="2"|45
+|style="background-color:var(--purple-bg)"|Miner
+|RUSH weakness: 2.880.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T2 Jaden Core, +4|green}}
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Mining duration: 18h 10min 54sec; requirement: 40x T3+ minions
+|{{RewardIconWithLink|Cathay Treasure Map, +600}}<br>{{RewardIconWithText|Bead Box, +5}}<br>{{RewardIconWithText|Dragon Moon}} +1
+|-
+|rowspan="2"|46
+|style="background-color:var(--purple-bg)"|Servant
+|RUSH weakness: 2.910.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T2 Jaden Scale, +4|green}}
+|-
+|style="background-color:var(--yellow)|God of Wealth - Guan Yu
+|Worship General Guan Yu: 4M Power required
+|Lottery Password ({{RewardIconWithLink|Lottery Ticket, +3|orange}})<br>{{RewardIconWithText|B-Tad, +90k}}
+|-
+|rowspan="2"|47
+|style="background-color:var(--purple-bg)"|Servant
+|RUSH weakness: 2.940.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T2 Jaden Horn, +4|green}}
+|-
+|style="background-color:var(--yellow-bg)"|God of Wealth - Bigan
+|Worship Prince Bigan: 1 {{RewardIconWithText|Incense|orange}} required
+|{{RewardIconWithLink|Wish Coin, +3|orange}}
+|-
+|48
+|style="background-color:var(--purple-bg)"|Justice Banner
+|RUSH weakness: 2.970.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T2 Jaden Core, +4|green}}
+|-
+|49
+|style="background-color:var(--purple-bg)"|Benevolence Banner
+|RUSH weakness: 3.000.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T3 Jaden Scale, +3|blue}}
+|-
+|rowspan="2"|50
+|style="background-color:var(--purple-bg)"|Servant
+|RUSH weakness: 2.880.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T3 Jaden Horn, +3|blue}}
+|-
+|style="background-color:var(--yellow)"|God of Wealth - Gongming
+|Worship the general: 1 {{RewardIconWithText|Incense|orange}} required
+|{{RewardIconWithLink|Ancient Coin, +900}}
+|-
+|rowspan="2"|51
+|style="background-color:var(--purple-bg)"|Servant
+|RUSH weakness: 2.910.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T3 Jaden Core, +3|blue}}
+|-
+|style="backgroundcolor:var(--yellow-bg)"|God of Wealth - Fan Li
+|Worship Minister Fan Li: 1 {{RewardIconWithText|Incense|orange}} required
+|{{RewardIconWithText|Star Coin, +8k}}
+|-
+|52
+|style="background-color:var(--purple-bg)"|Loyalty Banner
+|RUSH weakness: 2.940.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T3 Jaden Scale, +3|blue}}
+|-
+|53
+|style="background-color:var(--purple-bg)"|Filial Piety Banner
+|RUSH weakness: 2.970.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T3 Jaden Horn, +3|blue}}
+|-
+|rowspan="2"|54
+|style="background-color:var(--purple-bg)"|Dragon God
+|RUSH weakness: 3.200.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T3 Jaden Core, +3|blue}}
+|-
+|style="background-color:var(--red-bg)"|General Yazi
+|ATK: 46.788; DEF: 31.192; HP: 1.150614; AFFCT: 75.050<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithText|Dragon Moon}} +1<br>{{RewardIconWithLink|Fake Jaden's Head|green}}
+|-
+|rowspan="2"|55
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.030.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T3 Jaden Scale, +3|green}}
+|-
+|style="background-color:var(--yellow-bg)"|Identification System
+|Display the "Super Gene Expert" avatar
+|{{RewardIconWithLink|Organ Chest, +50}}
+|-
+|56
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.030.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T3 Horn Horn, +3|blue}}
+|-
+|rowspan="2"|57
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.060.000 Power
+|{{RewardIcon|Jaden Scrolls}} {{Retext|T3 Jaden Scrolls, +8|blue}}
+|-
+|style="background-color:var(--blue-bg)"|Vacant Cultivation Chamber
+|Check them! (Infoabout Baxia)
+|{{RewardIconWithText|Zombie Cell, +3k}}
+|-
+|58
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.060.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T3 Jaden Scale, +3|blue}}
+|-
+|rowspan="2"|59
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.090.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T3 Jaden Horn, +3|blue}}
+|-
+|style="background-color:var(--blue-bg)"|Vacant Cultivation Chamber
+|Check them! (Info about Pixiu)
+|{{RewardIconWithText|Demon Cell, +3k)
+|-
+|rowspan="2"|60
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.120.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T3 Jaden Core, +3|blue}}
+|-
+|style="background-color:var(--blue-bg)"|Wormhole Device
+|Take the Wormhole COre
+|{{RewardIconWithText|Adv. Rocket Blueprint}}<br>{{RewardIconWithText|Wormhole Device}}<br>{{RewardIconWithText|Refine Speedup, +4h}}
+|-
+|61
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.120.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T3 Jaden Scale, +4|blue}}
+|-
+|rowspan="2"|62
+|style="background-color:var(--purple-bg)"|Miner
+|RUSH weakness: 3.090.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T3 Jaden Horn, +4|blue}}
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Mining duration: 18h 10min 54sec; requirement: 40x T3+ minions
+|{{RewardIconWithLink|Evolution Chest, +1.200}}<br>{{RewardIconWithLink|Cathay Treasure Map, +600}}<br>{{RewardIconWithText|Bead Box, +5}}
+|-
+|63
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.150.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T3 Jaden Core, +4|blue}}
+|-
+|64
+|style="background-color:var(--purple-bg)"|Researh Facility Guard
+|RUSH weakness: 3.150.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T3 Jaden Scale, +4|blue}}
+|-
+|rowspan="3"|65
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.180.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T3 Jaden Horn, +4|blue}}
+|-
+|style="background-color:var(--red-bg)"|Suanni
+|ATK: 47.250; DEF: 31.500; HP: 1.118.325; AFFCT: 74825<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithLink|Crimson Dragon Scale, +1|purple}}
+|-
+|style="background-color:var(--blue-bg)"|Vacant Cultivation Chamber
+|Check them! (Info about Suanni)
+|{{RewardIconWithText|Demon Cell, +3k}}
+|-
+|66
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.220.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T3 Jaden Core, +4|blue}}
+|-
+|rowspan="2"|67
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.180.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T3 Jaden Scale, +4|blue}}
+|-
+|style="background-color:var(--yellow-bg)"|Vacant Cultivation Chamber
+|Check them! (Info about Fuxi)
+|{{RewardIconWithText|Angel Cell, +3k}}
+|-
+|68
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.250.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T3 Jaden Horn, +4|blue}}
+|-
+|69
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.280.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T3 Jaden Core, +4|blue}}
+|-
+|rowspan="3"|70
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.370.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T3 Jaden Scale, +4|blue}}
+|-
+|style="background-color:var(--red-bg)"|Taotie
+|ATK: 48.405; DEF: 32.270; HP: 1.148.269; AFFCT: 75.800<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithLink|Mecha Gut, +1|purple}}
+|-
+|style="background-color:var(--blue-bg)"|Vacant Cultivation Chamber
+|Check them! (Info about Taotie)
+|{{RewardIconWithText|Angel Cell, 3k}}
+|-
+|71
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.340.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T3 Jaden Horn, +4|blue}}
+|-
+|rowspan="2"|72
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.310.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T3 Jaden Core, +4|blue}}
+|-
+|style="background-color:var(--blue-bg)"|Vacant Cultivation Chamber
+|Check them! (Info about Pulao)
+|{{RewardIconGeneSegment|Pulao II, +5}}<br>{{RewardIconWithText|Mutant Cell, +3k}}
+|-
+|73
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.400.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T4 Jaden Scale, +3|purple}}
+|-
+|74
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.460.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T4 Jaden Horn, +3|purple}}
+|-
+|rowspan="2"|75
+|style="background-color:var(--purple-bg)"|Miner
+|RUSH weakness: 3.430.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T4 Jaden Core, +3|purple}}
+|-
+|style="background-color:var(--green-bg)"|Mine
+|Mining duration: 21h 49min 02sec; requirement: 40x T3+ minions
+|{{RewardIconWithLink|Wormhole Refiner, +1440}}<br>{{RewardIconWithLink|Cathay Treasure Map, +720}}<br>{{RewardIconWithText|Bead Box, +5}}
+|-
+|76
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.490.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T4 Jaden Scale, +3|purple}}
+|-
+|77
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.520.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T4 Jaden Horn, +3|purple}}
+|-
+|rowspan="3"|78
+|style="background-color:var(--green-bg)"|Research Facility Guard
+|RUSH weakness: 3.620.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T4 Jaden Core, +3|purple}}
+|-
+|style="background-color:var(--red-bg)"|Bi'an
+|ATK: 49.613; DEF: 33.075; HP: 1.178.744; AFFCT: 76775<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithLink|Crystalized Rib, +1|purple}}
+|-
+|style="background-color:var(--blue-bg)"|Vacant Cultivation Chamber
+|Check them! (Info about Bi'an)
+|{{RewardIconWithText|Mutant Cell, +3k}}
+|-
+|79
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.580.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T4 Jaden Scale, +3|purple}}
+|-
+|rowspan="2"|80
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.550.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T4 Jaden Horn, +3|purple}}
+|-
+|style="background-color:var(--blue-bg)"|Vacant Cultivation Chamber
+|Check them! (Info about Qiuniu)
+|{{RewardIconWithText|Mecha Cell, +3k}}
+|-
+|81
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.650.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T4 Jaden Core, +3|purple}}
+|-
+|82
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.680.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T4 Jaden Scale, +4|purple}}
+|-
+|rowspan="3"|83
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.770.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T4 Jaden Horn, +4|purple}}
+|-
+|style="background-color:var(--red-bg)"|Koi Dragon
+|ATK: 50.216, DEF: 43.043, HP: 1.119.305, AFFCT: 77263<br>Special stats: HIT +50, Paralysis RES +50%!
+|{{RewardIconWithLink|Organ Chest, +50}}
+|-
+|style="background-color:var(--blue-bg)"|Vacant Cultivation Chamber
+|Check them! (Info about Koi Dragon)
+|{{RewardIconGeneSegment|Koi Dragon, +5}}<br>{{RewardIconWithText|Mecha Cell, +3k}}
+|-
+|84
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.740.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T4 Jaden Core, +4|purple}}
+|-
+|rowspan="2"|85
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.710.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T4 Jaden Scale, +4|purple}}
+|-
+|style="background-color:var(--blue-bg)"|Vacant Cultivation Chamber
+|Check them! (Info about Yazi9
+|{{RewardIconGeneSegment|Yazi II, +5}}<br>{{RewardIconWithText|Zombie Cell, +3k}}
+|-
+|rowspan="3"|86
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.860.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T4 Jaden Horn, +4|purple}}
+|-
+|style="background-color:var(--red-bg)"|Bahamud
+|ATK: 57.000, DEF: 37.000, HP: 1.572.494, AFFCT: 79625<br>Special stats: HIT +50, Paralysis RES +50%
+|{{RewardIconWithText|Taichi Fish, +100}}
+|-
+|style="background-color:var(--blue-bg)"|Vacant Cultivation Chamber
+|Check them! (Info about Bahamud)
+|{{RewardIconWithText|Zombie Cell, +3k}}
+|-
+|87
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.830.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T4 Jaden Core, +4|purple}}
+|-
+|rowspan="3"|88
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.800.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T4 Jaden Scale, +4|purple}}
+|-
+|style="background-color:var(--red-bg)"|Defective Dragon
+|ATK: 54.810; DEF: 36.540; HP: 1.401.228; AFFCT: 80.870<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithLink|Broken Dragon's Horn|orange}}
+|-
+|style="background-color:var(--blue-bg)"|Vacant Cultivation Chamber
+|Check them! (Info about Modulated Divine Dragon)
+|{{RewardIconWithText|Demon Cell, +3k}}
+|-
+|rowspan="2"|89
+|style="background-color:var(--purple-bg)"|Dragon God's Guard
+|RUSH weakness: 3.890.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T4 Jaden Horn, +4|purple}}
+|-
+|style="background-color:var(--red-bg)"|Dragon God's Guard
+|ATK: 51.545; DEF: 34.363; HP: 1.487.062; AFFCT: 78.335<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithLink|Inhibition Device|green}}<br>{{RewardIconWithLink|Mahjong Trooper|orange|Robots}}
+|-
+|90
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.920.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T4 Jaden Core, +4|purple}}
+|-
+|91
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 3.950.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T4 Jaden Scale, +4|purple}}
+|-
+|rowspan="2"|92
+|style="background-color:var(--purple-bg)"|Biochem Researcher
+|RUSH weakness: 3.980.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T4 Jaden Horn, +4|purple}}
+|-
+|style="background-color:var(--orange-bg)"|Super Gene Expert
+|Opens Research Manual Shop
+|
+|-
+|93
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 4.020.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T4 Jaden Core, +4|purple}}
+|-
+|94
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 4.050.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T4 Jaden Scale, +4|purple}}
+|-
+|rowspan="2"|95
+|style="background-color:var(--purple-bg)"|Beast God's Guard
+|RUSH weakness: 4.080.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T4 Jaden Horn, +4|purple}}
+|-
+|style="background-color:var(--red-bg)"|Beast God's Guard
+|ATK: 52.028; DEF: 34.685; HP: 1.511.057; AFFCT: 78.725<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithText|Gene Speedup, +5h}}<br>{{RewardIconWithText|Dragon Moon}} +1
+|-
+|rowspan="2"|96
+|style="background-color:var(--purple-bg)"|War God's Guard
+|RUSH weakness: 4.110.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T4 Jaden Core, +4|purple}}
+|-
+|style="background-color:var(--red-bg)"|War God's Guard
+|ATK: 52.511; DEF: 35.007; HP: 1.535.075; AFFCT: 79.115<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithText|Gene Speedup, +5h}}<br>{{RewardIconWithText|Dragon Moon}} +1
+|-
+|rowspan="2"|97
+|style="background-color:var(--purple-bg)"|Arcane God's Guard
+|RUSH weakness: 4.170.000 Power
+|{{RewardIcon|Jaden Scale}} {{Retext|T4 Jaden Scale, +4|purple}}
+|-
+|style="background-color:var(--red-bg)"|Arcane God's Guard
+|ATK: 52.994; DEF: 35.329; HP: 1.559.117; AFFCT: 79505<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithText|Gene Speedup, +5h}}<br>{{RewardIconWithText|Dragon Moon}} +1
+|-
+|rowspan="2"|98
+|style="background-color:var(--purple-bg)"|Sword God's Guard
+|RUSH weakness: 4.140.000 Power
+|{{RewardIcon|Jaden Horn}} {{Retext|T4 Jaden Horn, +4|purple}}
+|-
+|style="background-color:var(--red-bg)"|Sword God's Guard
+|ATK: 53.498; DEF: 35.665; HP: 1.578.751; AFFCT: 79.895<br>Special stats: HIT +50; Paralysis RES +50%
+|{{RewardIconWithText|Gene Speedup, +5h}}<br>{{RewardIconWithText|Dragon Moon}} +1
+|-
+|rowspan="2"|99
+|style="background-color:var(--purple-bg)"|Research Facility Guard
+|RUSH weakness: 4.200.000 Power
+|{{RewardIcon|Jaden Core}} {{Retext|T4 Jaden Core, +4|purple}}
+|-
+|style="background-color:var(--yellow-bg)"|Dragon Hub
+|Unlocked after 4 "God's Guard" nodes completed
+|{{RewardIconWithText|Dragon Moon}} +1
+|-
+|100
+|style="background-color:var(--purple-bg)"|Jaden Cultivation Pod
+|RUSH weakness: 4.300.000 Power
+|{{RewardIconWithLink|Evolution Chest,+100}}
+|-
+|}
+<!--
+==Legend==
+{|class=wikitable
+!Type
+!Color Assignment
+|-
+|Event
+|style="background-color:var(--yellow-bg)"|
+|-
+|Snail Battle
+|style="background-color:var(--red-bg)"|
+|-
+|Reward
+|style="background-color:var(--blue-bg)"|
+|-
+|Mine Pit
+|style="background-color:var(--green-bg)"|
+|}
+
+==Tiles==
+{| class="wikitable"
+!Tile
+!Name (first encounter)
+!Troop RUSH required Power
+!Reward (first encounter)
+!Name (second encounter)
+!Reward (second encounter)
+!Notes
+|-
+|1
+|Greeter
+|2,200,000
+|T1 Jaden Scale +3
+|
+|
+|
+|-
+|2
+|Greeter
+|2,200,000
+|T1 Jaden Horn +3
+|
+|
+|
+|-
+|style="background-color:var(--yellow-bg)"|3
+|Greeter
+|2,230,000
+|T1 Jaden Core +3
+|Guest Drum
+|
+|Display 20k W-tads (must have that amount on hand, but they are not consumed)
+|-
+|style="background-color:var(--blue-bg)"|4
+|Casino Security
+|2,230,000
+|T1 Jaden Scale +3
+|Fortune Flag
+|Wood +500
+|
+|-
+|style="background-color:var(--red-bg)"|5
+|Baxia
+|2,260,000
+|T1 Jaden Horn +3
+|Baxia (AFFCT 66,900)
+|{{RewardIconWithText|Dragon Moon}} +1
+|style="background-color:var(--blue-bg)"|Third encounter: Stele rewards Stone +500
+|-
+|6
+|Receptionist
+|2,260,000
+|T1 Jaden Core +3
+|
+|
+|
+|-
+|7
+|Receptionist
+|2,290,000
+|T1 Jaden Scale +4
+|
+|
+|
+|-
+|style="background-color:var(--yellow-bg)"|8
+|Receptionist
+|2,290,000
+|T1 Jaden Horn +4
+|Stored Security Box
+|Lottery Ticket +5, Bead Box +1
+|Code is 6428
+|-
+|9
+|Receptionist
+|2,320,000
+|T1 Jaden Core +4
+|
+|
+|
+|-
+|10
+|Receptionist
+|2,320,000
+|T1 Jaden Scale +4
+|
+|
+|
+|-
+|11
+|Receptionist
+|2,350,000
+|T1 Jaden Horn +4
+|
+|
+|
+|-
+|style="background-color:var(--yellow-bg)"|12
+|Pawn Shop Staff
+|2,350,000
+|T1 Jaden Core +4
+|Pawn Shop (display Orange relic: at least tier 6)
+|Wish Coin +1 the first time
+|style="background-color:var(--yellow-bg)"|Third encounter: display awakened Orange relic rewards: Wish Coin +1
+|-
+|style="background-color:var(--green-bg)"|13
+|Miner
+|2,380,000
+|T1 Jaden Scale +4
+|Mine
+|Cathay Treasure Map +360, Expert Scroll +40, Bead Box +3
+|Requires any type T3 minion: 40/40
+|-
+|style="background-color:var(--yellow-bg)"|14
+|Money Shop Worker
+|2,420,000
+|T1 Jaden Horn +4
+|Money Shop
+|W-tads +300
+|Exchange for cash: 100/100 {{RewardIconWithLink|Ancient Coin}}
+|-
+|15
+|Receptionist
+|2,380,000
+|T1 Jaden Core +4
+|
+|
+|
+|-
+|style="background-color:var(--blue-bg)"|16
+|Receptionist
+|2,420,000
+|T1 Jaden Scale +4
+|Snack Area
+|Donkey Burger +10
+|
+|-
+|17
+|Receptionist
+|2,450,000
+|T1 Jaden Horn +4
+|
+|
+|
+|-
+|style="background-color:var(--red-bg)"|18???
+|Pixiu
+|2,500,000
+|T1 Jaden Core +4
+|General Pixiu
+|{{RewardIconWithText|Dragon Moon}} +1
+|AFFCT 67,875
+|-
+|19
+|Gambler
+|2,480,000
+|T1 Jaden Scale +4
+|
+|
+|
+|-
+|style="background-color:var(--blue-bg)"|20
+|Gambler
+|2,510,000
+|T1 Jaden Horn +4
+|Mahjong Table
+|B-tads +10k
+|
+|-
+|21
+|Security Chief
+|2,540,000
+|T1 Jaden Core +4
+|
+|
+|
+|-
+|style="background-color:var(--green-bg)"|22
+|Miner
+|2,540,000
+|T1 Jaden Scale +4
+|Mine
+|Fissure Coin +360, Cathay Treasure Map +360, Bead Box +3
+|
+|-
+|style="background-color:var(--blue-bg)"|23
+|Gambler
+|2,570,000
+|T1 Jaden Horn +4
+|Mahjong Table
+|B-tads +10k
+|style="background-color:var(--red-bg)"|Third encounter: Gvent Guru (AFFCT 68,850) rewards [[Tetrabiblos]] fragments +10
+|-
+|style="background-color:var(--blue-bg)"|24
+|Gambler
+|2,600,000
+|T1 Jaden Core +4
+|Mahjong Table
+|B-tads +10k
+|
+|-
+|25???
+|Gambler
+|2,510,000
+|T2 Jaden Core +3
+|
+|
+|
+|-
+|style="background-color:var(--blue-bg)"|26
+|Gambler
+|2,480,000
+|T2 Jaden Horn +3
+|Mahjong Table
+|B-tads +10k
+|
+|-
+|27
+|Gambler
+|2,510,000
+|T2 Jaden Core +3
+|
+|
+|
+|-
+|style="background-color:var(--blue-bg)"|28
+|Gambler
+|2,570,000
+|T2 Jaden Scale +3
+|Mahjong Table
+|B-tads +10k
+|
+|-
+|29
+|Gambler
+|2,600,000
+|T2 Jaden Horn +3
+|
+|
+|
+|-
+|30
+|Pulao
+|2,680,000
+|T2 Jaden Core +3
+|Pulao
+|{{RewardIconWithText|Dragon Moon}} +1
+|AFFCT 69,725
+|-
+|style="background-color:var(--yellow-bg)"|???
+|Fuxi
+|2,700,000
+|T2 Jaden Scale +3
+|Quizman
+|Orange Fungus +3
+|Answers: B, C, A, B, C
+|-
+|style="background-color:var(--green-bg)"|31
+|Miner
+|2,660,000
+|T2 Jaden Scale +3
+|Mine
+|Cathay Treasure Map +480, Lottery Ticket +16, Bead Box +4
+|
+|-
+|32
+|Doorkeeper
+|2,660,000
+|T2 Jaden Horn +3
+|
+|
+|
+|-
+|33
+|Celestial Orchestra
+|2,690,000
+|T2 Jaden Core +3
+|
+|
+|
+|-
+|34
+|Celestial Orchestra
+|2,690,000
+|T2 Jaden Scale +3
+|
+|
+|
+|-
+|style="background-color:var(--yellow-bg)"|35
+|Warden
+|2,720,000
+|T2 Jaden Horn +4
+|A Set of Keys
+|{{RewardIconWithText|Prison Cage Key, +3}}
+|Requires 3.8M Power
+|-
+|style="background-color:var(--yellow-bg)"|36
+|Guard
+|2,780,000
+|T2 Jaden Core +4
+|Cage
+|{{RewardIconWithLink|Golden Pickaxe, +2|orange}}
+|Requires 1 {{RewardIconWithText|Prison Cage Key}}
+|-
+|style="background-color:var(--yellow-bg)"|37???
+|Guard
+|2,820,000
+|T2 Jaden Scale +4
+|Cage
+|Requires 1 {{RewardIconWithText|Prison Cage Key}}
+|style="background-color:var(--red-bg)"|Third encounter: Fantasy Seven. Rewards: 5x Expert Scroll for each of 7 battles.
+|-
+|style="background-color:var(--yellow-bg)"|38
+|Guard
+|2,820,000
+|T2 Jaden Horn +4
+|Cage
+|Lottery Ticket +10
+|Requires 1 {{RewardIconWithText|Prison Cage Key}}
+|-
+|style="background-color:var(--blue-bg)"|39
+|Waiter
+|2,720,000
+|T2 Jaden Core +4
+|Cafeteria
+|Yangzhou Fried Rice +10
+|
+|-
+|style="background-color:var(--green-bg)"|40
+|Miner
+|2,750,000
+|T2 Jaden Scale +4
+|Mine
+|Cathay Treasure Map +480, Wish Coin +8, Bead Box +4
+|
+|-
+|style="background-color:var(--red-bg)"|41
+|Bath Technician
+|2,750,000
+|T2 Jaden Horn +4
+|Nissan
+|{{RewardIconWithText|Dragon Moon}} +1
+|AFFCT 71,285
+|-
+|42
+|Celestial Orchestra
+|2,780,000
+|T2 Jaden Core +4
+|
+|
+|
+|-
+|43
+|Celestial Orchestra
+|2,850,000
+|T2 Jaden Scale +4
+|
+|
+|
+|-
+|style="background-color:var(--red-bg)"|44???
+|Qiuniu
+|2,900,000
+|T2 Jaden Horn +4
+|Qiuniu
+|{{RewardIconWithText|Dragon Moon}} +1
+|AFFCT 72,065
+|-
+|style="background-color:var(--green-bg)"|45
+|Miner
+|2,880,000
+|T2 Jaden Core +4
+|Mine
+|Cathay Treasure Map +600<br>Bead Box +5<br>{{RewardIconWithText|Dragon Moon}} +1
+|
+|-
+|style="background-color:var(--yellow-bg)"|46
+|Servant
+|2,910,000
+|T2 Jaden Scale +4
+|God of Wealth - Guan Yu
+|Lottery Ticket +3, B-tads +90k
+|Requires 4M Power
+|-
+|style="background-color:var(--yellow-bg)"|47
+|Servant
+|2,940,000
+|T2 Jaden Horn +4
+|God of Wealth - Bigan
+|Wish Coin +3
+|Requires 1x [[Incense]]
+|-
+|48
+|Justice Banner
+|2,970,000
+|T2 Jaden Core +4
+|
+|
+|
+|-
+|49
+|Benevolence Banner
+|3,000,000
+|T3 Jaden Scale +3
+|
+|
+|
+|-
+|style="background-color:var(--yellow-bg)"|50
+|Servant
+|2,880,000
+|T3 Jaden Horn +3
+|God of Wealth - Gongming
+|{{RewardIconWithLink|Ancient Coin, +900}}
+|Requires 1x [[Incense]]
+|-
+|style="background-color:var(--yellow-bg)"|51
+|Servant
+|2,910,000
+|T3 Jaden Core +3
+|God of Wealth - Fan Li
+|Star Coin +8,000
+|Requires 1x [[Incense]]
+|-
+|52
+|Loyalty Banner
+|2,940,000
+|T3 Jaden Scale +3
+|
+|
+|
+|-
+|53
+|Filial Piety Banner
+|2,970,000
+|T3 Jaden Horn +3
+|
+|
+|
+|-
+|style="background-color:var(--red-bg)"|54???
+|Dragon God
+|3,200,000
+|T3 Jaden Core +3
+|General Yazi
+|{{RewardIconWithText|Dragon Moon}} +1<br>{{RewardIconWithLink|Fake Jaden's Head}}
+|AFFCT 74,850
+|-
+|style="background-color:var(--yellow-bg)"|55
+|Research Facility Guard
+|???
+|T3 Jaden Scale +3
+|Identification System
+|Evolution Chest +50
+|Requires Combat Gene Expert avatar
+|-
+|56
+|Research Facility Guard
+|3,030,000
+|T3 Jaden Horn +3
+|
+|
+|
+|-
+|style="background-color:var(--blue-bg)"|57
+|Biochem Researcher
+|3,060,000
+|T3 Jaden Core +3
+|Vacant Cultivation Chamber
+|Zombie Cell +3,000
+|
+|-
+|58
+|Biochem Researcher
+|3,060,000
+|T3 Jaden Scale +3
+|
+|
+|
+|-
+|style="background-color:var(--blue-bg)"|59
+|Research Facility Guard
+|3,090,000
+|T3 Jaden Horn +3
+|Vacant Cultivation Chamber
+|Demon Cell +3,000
+|
+
+
+
+|-
+|style="background-color:var(--blue-bg)"|60
+|Research Facility Guard
+|3,120,000
+|T3 Jaden Core +3
+|Wormhole Device
+|Adv. Rocket Blueprint, Wormhole Device, 4h Refine Speedup
+|
+|-
+|61
+|Biochem Researcher
+|3,120,000
+|T3 Jaden Scale +4
+|
+|
+|
+|-
+|style="background-color:var(--green-bg)"|62
+|Miner
+|3,090,000
+|T3 Jaden Horn +4
+|Mine
+|Evolution Chest +1,200, Cathay Treasure Map +600, Bead Box +5
+|
+|-
+|63
+|Biochem Researcher
+|3,150,000
+|T3 Jaden Core +4
+|
+|
+|
+|-
+|64
+|Research Facility Guard
+|3,150,000
+|T3 Jaden Scale +4
+|
+|
+|
+|-
+|style="background-color:var(--red-bg)"|65
+|Research Facility Guard
+|3,180,000
+|T3 Jaden Horn +4
+|Suanni (AFFCT 74,625)
+|Crimson Dragon Scale [[Organs|organ]]
+|style="background-color:var(--blue-bg)"|Third encounter "Vacant Cultivation Chamber" rewards Demon Cell +3,000
+|-
+|66
+|Biochem Researcher
+|3,220,000
+|T3 Jaden Core +4
+|
+|
+|
+|-
+|style="background-color:var(--blue-bg)"|67
+|Biochem Researcher
+|3,180,000
+|T3 Jaden Scale +4
+|Vacant Cultivation Chamber
+|Angel Cell +3,000
+|
+|-
+|68
+|Research Facility Guard
+|3,250,000
+|T3 Jaden Horn +4
+|
+|
+|
+|-
+|69
+|Research Facility Guard
+|3,280,000
+|T3 Jaden Core +4
+|
+|
+|
+|-
+|style="background-color:var(--red-bg)"|70
+|Biochem Researcher
+|3,370,000
+|T3 Jaden Scale +4
+|Taotie (AFFCT 75,600)
+|Mecha Gut [[Organs|organ]]
+|style="background-color:var(--blue-bg)"|Third encounter "Vacant Cultivation Chamber" rewards Angel Cell +3,000
+|-
+|71
+|Biochem Researcher
+|3,340,000
+|T3 Jaden Horn +4
+|
+|
+|
+|-
+|style="background-color:var(--blue-bg)"|72
+|Research Facility Guard
+|3,310,000
+|T3 Jaden Core +4
+|Vacant Cultivation Chamber
+|Mutant Cell +3,000, Pulao II [[Gene Simulation]]
+|
+|-
+|73
+|Research Facility Guard
+|3,400,000
+|T4 Jaden Scale +3
+|
+|
+|
+|-
+|74
+|Biochem Researcher
+|3,460,000
+|T4 Jaden Horn +3
+|
+|
+|
+|-
+|style="background-color:var(--green-bg)"|75
+|Miner
+|3,430,000
+|T4 Jaden Core +3
+|???
+|???
+|
+|-
+|76
+|Biochem Researcher
+|3,490,000
+|T4 Jaden Scale +3
+|
+|
+|
+|-
+|77
+|Research Facility Guard
+|3,520,000
+|T4 Jaden Horn +3
+|
+|
+|
+|-
+|style="background-color:var(--red-bg)"|78
+|Research Facility Guard
+|3,620,000
+|T4 Jaden Core +3
+|Bi'an (AFFCT 76,575)
+|[[Crystalized Rib]] (shell)
+|style="background-color:var(--blue-bg)"|Third encounter "Vacant Cultivation Chamber" rewards Mutant Cell +3,000
+|-
+|79
+|Biochem Researcher
+|3,580,000
+|T4 Jaden Scale +3
+|
+|
+|
+|-
+|style="background-color:var(--blue-bg)"|80
+|Biochem Researcher
+|3,550,000
+|T4 Jaden Horn +3
+|Vacant Cultivation Chamber
+|Mecha Cell +3,000
+|
+|-
+|81
+|Research Facility Guard
+|3,650,000
+|T4 Jaden Core +3
+|
+|
+|
+|-
+|82
+|Research Facility Guard
+|3,680,000
+|T4 Jaden Scale +4
+|
+|
+|
+|-
+|style="background-color:var(--red-bg)"|83
+|Biochem Researcher
+|3,770,000
+|T4 Jaden Horn +4
+|Koi Dragon (AFFCT 77,063)
+|
+|style="background-color:var(--blue-bg)"|Third encounter "Vacant Cultivation Chamber" rewards Demon Cell +3,000 and [[Gene_Simulation#Gene_Simulation_Trials|Koi Dragon gene sim]]
+|-
+|84
+|Biochem Researcher
+|3,740,000
+|T4 Jaden Core +4
+|
+|
+|
+|-
+|style="background-color:var(--blue-bg)"|85
+|Research Facility Guard
+|3,710,000
+|T4 Jaden Scale +4
+|Vacant Cultivation Chamber
+|Zombie Cell +3,000, Yazi II [[Gene Simulation]]
+|
+|-
+|style="background-color:var(--red-bg)"|86
+|Research Facility Guard
+|3,860,000
+|T4 Jaden Horn +4
+|Bahamud (AFFCT 79,425)
+|Taichi Fish +100
+|style="background-color:var(--blue-bg)"|Third encounter "Vacant Cultivation Chamber" rewards Zombie Cell +3,000
+|-
+|87
+|Biochem Researcher
+|3,830,000
+|T4 Jaden Core +4
+|
+|
+|
+|-
+|style="background-color:var(--red-bg)"|88
+|Biochem Researcher
+|3,800,000
+|T4 Jaden Scale +4
+|Defective Dragon (AFFCT 80,670)
+|Broken Dragon's Horn (offer it at the [[Altar]] - 2 days)
+|style="background-color:var(--blue-bg)"|Third encounter "Vacant Cultivation Chamber" rewards Demon Cell +3,000
+|-
+|style="background-color:var(--red-bg)"|89
+|Dragon God's Guard
+|3,890,000
+|T4 Jaden Horn +4
+|Dragon God's Guard
+|[[Inhibition Device]], Mahjong Trooper (robot)
+|AFFCT 78,135
+|-
+|90
+|Research Facility Guard
+|3,920,000
+|T4 Jaden Core +4
+|
+|
+|
+|-
+|91
+|Research Facility Guard
+|3,950,000
+|T4 Jaden Scale +4
+|
+|
+|
+|-
+|style="background-color:var(--yellow-bg)"|92
+|Biochem Researcher
+|3,980,000
+|T4 Jaden Horn +4
+|Super Gene Expert
+|
+|Sells 10 of each Manual and 1 {{RewardIconWithText|Dragon Moon}} for B-tads
+|-
+|93
+|Biochem Researcher
+|4,020,000
+|T4 Jaden Core +4
+|
+|
+|
+|-
+|94
+|Research Facility Guard
+|4,050,000
+|T4 Jaden Scale +4
+|
+|
+|
+|-
+|style="background-color:var(--red-bg)"|95
+|Beast God's Guard
+|4,080,000
+|T4 Jaden Horn +4
+|Beast God's Guard
+|5h Gene Speedup<br>{{RewardIconWithText|Dragon Moon}} +1
+|AFFCT 78,525
+|-
+|style="background-color:var(--red-bg)"|96
+|War God's Guard
+|4,110,000
+|T4 Jaden Core +4
+|War God's Guard
+|5h Gene Speedup<br>{{RewardIconWithText|Dragon Moon}} +1
+|AFFCT 78,915
+|-
+|style="background-color:var(--red-bg)"|97
+|Arcane God's Guard
+|4,170,000
+|T4 Jaden Scale +4
+|Arcane God's Guard
+|5h Gene Speedup<br>{{RewardIconWithText|Dragon Moon}} +1
+|AFFCT 79,305
+|-
+|style="background-color:var(--red-bg)"|98
+|Sword God's Guard
+|4,140,000
+|T4 Jaden Horn +4
+|Sword God's Guard
+|5h Gene Speedup<br>{{RewardIconWithText|Dragon Moon}} +1
+|AFFCT 79,695
+|-
+|style="background-color:var(--red-bg)"|99
+|Research Facility Guard
+|4,200,000
+|T4 Jaden Core +4
+|Dragoness Hub
+|{{RewardIconWithText|Dragon Moon}} +1
+|AFFCT 81,850; can only be fought after the four "God's Guard" nodes are complete
+|-
+|100
+|Jaden Cultivation Pod
+|4,300,000
+|Evolution Chest +100
+|
+|
+|
+|}
+-->
+[[Category:Cathay Domain]]

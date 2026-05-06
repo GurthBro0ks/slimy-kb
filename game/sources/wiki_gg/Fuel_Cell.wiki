@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Fuel Cell
+|class_id=20301
+|rank=Green
+|affct=TECH
+|source=
+|description=Also called an Electrochemical Generator, it converts chemical energy from fuel into electricity cleanly and efficiently.
+|fame=16
+|art=14
+|fth=13
+|civ=20
+|tech=27
+|ss1=Minion Cloning SPD +0.6%
+|ss2=Minion Cloning SPD +1.2%
+|ss3=Minion Cloning SPD +1.8%
+|ss4=Minion Cloning SPD +1.8%
+|ss7=Minion Cloning SPD +1.8%<br> (Awakened)
+}}

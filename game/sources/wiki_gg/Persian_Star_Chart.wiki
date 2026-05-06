@@ -1,0 +1,33 @@
+{{CargoRelic
+|name=Persian Star Chart
+|rank=Blue
+|affct=TECH
+|birthday=02-05
+|source=Lottery Machine (0.36%), Wishing (13.2%), Novice Scrolls (5%), Nebula Chest (2%)
+|description=On Feb 5, 439 BC, ancient Persia completed this sky chart based on ancient astronomy. 
+
+Persia made an astronomical chart based on the existing knowledge. This changed the Babylonian chart and astronomical almanac they had used in the past. The Persian King heeded the priest's suggestion to redraw the astronomical chart, as their knowledge of astronomy was insufficient to support the expansion of the empire's land. After the new chart was completed, the astrolabe was cast in gold and given to the governors.
+|fame=22
+|art=34
+|fth=26
+|civ=28
+|tech=44
+|ss1=Per Altar God Descent, Snail HP +20<br>Gods Descended: 30/30
+|ss2=Per Altar God Descent, Snail HP +40<br>Gods Descended: 30/30
+|ss3=Per Altar God Descent, Snail HP +60<br>Gods Descended: 30/30
+|ss4=Per Altar God Descent, Snail HP +100<br>Gods Descended: 30/30
+|ss7=Per Altar God Descent, Snail HP +100<br>Gods Descended: 30/30<br>Snail HP +500 (Awakened)
+|skill1=[[File:Kemet skill I.png|50px]] Place in Kemetic Museum: In Kemet, Snail RUSH +20
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:TECH Relics]]
+[[Category:Blue TECH Relics]]
+[[Category:HP Boost]]
+[[Category:God Descent Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:RUSH Boost]]
+[[Category:Tadpole Pond W-Tad Output Boost]]
+[[Category:Minorino Boost]]

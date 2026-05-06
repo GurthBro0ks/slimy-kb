@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Soldier Island Dolls
+|class_id=22571
+|rank=AA
+|affct=CIV
+|birthday=08-15
+|source=Lottery Machine No.3 (0.12%)
+|description=On Aug 15, 1939 AD, eight strangers received letters from the owner of a small island.<br>These small soldier dolls are an ominous symbol, often appearing where violent crimes occur, and the death of the victim is strange and coincides with the way a nursery rhyme describes it. Legend has it that these dolls were destroyed on a deserted island where no one survived, but now that they appear here, it might lead to another round of bloodshed...
+|fame=52
+|art=40
+|fth=37
+|civ=66
+|tech=33
+|ss1=Per devotee appointed, Priest-Snail Assistance DMG +16<br>Per devotee appointed, Priest-Troop Assistance DMG +16<br>Devotee Appointed: 50/50
+|ss2=Per devotee appointed, Priest-Snail Assistance DMG +24<br>Per devotee appointed, Priest-Troop Assistance DMG +24<br>Devotee Appointed: 50/50
+|ss3=Per devotee appointed, Priest-Snail Assistance DMG +32<br>Per devotee appointed, Priest-Troop Assistance DMG +32<br>Devotee Appointed: 50/50
+|ss4=Per devotee appointed, Priest-Snail Assistance DMG +48<br>Per devotee appointed, Priest-Troop Assistance DMG +48<br>Devotee Appointed: 50/50
+|ss5=Per devotee appointed, Priest-Snail Assistance DMG +64<br>Per devotee appointed, Priest-Troop Assistance DMG +64<br>Devotee Appointed: 50/50
+|ss7=Per devotee appointed, Priest-Snail Assistance DMG +64<br>Per devotee appointed, Priest-Troop Assistance DMG +64<br>Devotee Appointed: 50/50<br>Protomon Snail assist DMG + 560 (Awakened)
+|skill1=[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: This Relic's CIV +10
+|skill2=[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP Regen +600
+}}

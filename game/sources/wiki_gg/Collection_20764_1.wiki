@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20764_1
+|class_id=20764
+|rank=Green
+|affct=FAITH
+|source=
+|description=collection@20764_2
+|fame=17
+|art=13
+|fth=31
+|civ=16
+|tech=13
+|ss1=Glory Extractor:<br>> Refine Speedup Conversion Cap +200%
+|ss2=Glory Extractor:<br>> Refine Speedup Conversion Cap +500%
+|ss3=Glory Extractor:<br>> Refine Speedup Conversion Cap +800%
+|ss4=Glory Extractor:<br>> Refine Speedup Conversion Cap +800%
+|ss7=Glory Extractor:<br>> Refine Speedup Conversion Cap +800%<br> (Awakened)
+}}

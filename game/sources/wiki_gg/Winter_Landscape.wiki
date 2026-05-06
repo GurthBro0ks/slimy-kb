@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Winter Landscape
+|class_id=22668
+|rank=SSS
+|affct=ART
+|birthday=10-12
+|source=
+|description=On Oct 12, 1565 AD, Bruegel created this famous oil painting.<br>Winter Landscape with a Bird Trap is a masterpiece by the Dutch painter Pieter Bruegel. The painting captures a serene and expansive snowy landscape, featuring hunters in the foreground and figures on the distant ice, creating a harmonious interplay. It infuses vitality into the solemn and tranquil atmosphere. Bruegel's skillful portrayal of light, shadow, and nature vividly reproduces the scenery of his hometown. The profound depiction of nature in this artwork exemplifies Bruegel's exceptional talent, establishing him as a pioneer of Dutch realistic landscape painting.
+|fame=49
+|art=106
+|fth=70
+|civ=76
+|tech=61
+|ss1=All Minion Skins, HARD Stats +3%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +300<br>Per 5 Silver Snail Tokens used, Snail ATK +9<br>Silver Snail Tokens Used: 100/100
+|ss2=All Minion Skins, HARD Stats +6%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +400<br>Per 5 Silver Snail Tokens used, Snail ATK +12<br>Silver Snail Tokens Used: 100/100
+|ss3=All Minion Skins, HARD Stats +9%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +500<br>Per 5 Silver Snail Tokens used, Snail ATK +15<br>Silver Snail Tokens Used: 100/100
+|ss4=All Minion Skins, HARD Stats +15%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +700<br>Per 5 Silver Snail Tokens used, Snail ATK +21<br>Silver Snail Tokens Used: 100/100
+|ss5=All Minion Skins, HARD Stats +21%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +900<br>Per 5 Silver Snail Tokens used, Snail ATK +27<br>Silver Snail Tokens Used: 100/100
+|ss6=All Minion Skins, HARD Stats +30%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>Per 5 Silver Snail Tokens used, Snail ATK +36<br>Silver Snail Tokens Used: 100/100
+|ss7=All Minion Skins, HARD Stats +30%<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1200<br>Per 5 Silver Snail Tokens used, Snail ATK +36<br>Silver Snail Tokens Used: 100/100<br>Per 60 T7+ Minions in battle:<br>> Troop HP +1000 (Awakened)
+|skill1=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop All ELMT DMG +15
+|skill2=[[File:Surfclam skill III.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion HP +9%
+|skill3=[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's ART +15
+|mirage={{Mirage|name=Winter in the Countryside|reward={{RewardIconWithLink|Orange Brand Case, +100|orange}}
+|3name=The Birds in the Snow|3rec=150.62M|3atk=411094|3defense=255806|3hp=25336683|3weak=39092
+|4name=The Lady in the Snow|4rec=242.13M|4atk=628964|4defense=380398|4hp=60432101|4weak=49221
+|5name=The Hound in the Snow|5rec=367.89M|5atk=834332|5defense=493540|5hp=97405743|5weak=53969
+|6name=The Hunter in the Snow|6rec=531.30M|6atk=1118678|6defense=640550|6hp=201526898|6weak=61754
+|Arec=715.57M|Aatk=1448361|Adefense=816960|Ahp=370109230|Aweak=71945
+}}}}

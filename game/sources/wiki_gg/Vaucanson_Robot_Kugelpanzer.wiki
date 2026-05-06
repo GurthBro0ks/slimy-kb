@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=617
+|relics=Vaucanson Robot,Kugelpanzer
+|rank=blue
+|amount=2
+|category=self
+|description=Gaia Rocket Cabin, deployable robots +5
+}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Basse Yutz Flagons
+|class_id=22069
+|rank=Blue
+|affct=CIV
+|birthday=06-26
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jun 26, 1927 AD, a worker accidentally discovered a pair of flagons while digging the ground in France.<br>The Basse Yutz Flagons were named after the location of its discovery. Through this pair of wine flagons, people can learn about the life of the Nordic people from two thousand and five hundred years ago. In that period, the Nordic people lived in small communities and mastered some complex crafts of metal processing. The flagon's material suggests that they had traded with other regions, with the copper coming from south of the Alps, the tin from as far away as Cornwall, and the coral adorning the flagons likely from the Mediterranean.
+|fame=32
+|art=29
+|fth=25
+|civ=47
+|tech=21
+|ss1=Military Merits gives +20 Star Coins
+|ss2=Military Merits gives +40 Star Coins
+|ss3=Military Merits gives +60 Star Coins
+|ss4=Military Merits gives +100 Star Coins
+|ss7=Military Merits gives +100 Star Coins<br>Military Merits gives +100 Star Coins (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +1%
+}}

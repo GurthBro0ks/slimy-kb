@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Hamlet,Mysterious Relic
+|rank=orange
+|amount=2
+|category=self
+|description=Per 100 Recruit Tokens consumed, Snail RUSH +7; Consumed Recruit Tokens: 5000/5000
+}}
+[[Category:Self]]
+[[Category:RUSH Boost]]

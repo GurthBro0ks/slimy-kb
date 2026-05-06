@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Temple Foundation
+|class_id=20286
+|rank=Green
+|affct=FAITH
+|source=
+|description=This eternal stone is used to build the foundation of the temple due to its indestructibility. Its divine power may not be apparent, but those who approach it can feel its majestic aura. The weak-willed may kneel in awe, while the strong-willed may take a step closer to Godhood after being tempered by the divine power.
+|fame=16
+|art=14
+|fth=31
+|civ=14
+|tech=15
+|ss1=Per 200 Gloriums used, Snail ATK +3<br>Gloriums Used: 8000/8000
+|ss2=Per 200 Gloriums used, Snail ATK +4<br>Gloriums Used: 8000/8000
+|ss3=Per 200 Gloriums used, Snail ATK +5<br>Gloriums Used: 8000/8000
+|ss4=Per 200 Gloriums used, Snail ATK +5<br>Gloriums Used: 8000/8000
+|ss7=Per 200 Gloriums used, Snail ATK +5<br>Gloriums Used: 8000/8000<br> (Awakened)
+}}

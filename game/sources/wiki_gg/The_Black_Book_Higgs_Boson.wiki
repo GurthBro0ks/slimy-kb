@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=215
+|relics=The Black Book,Higgs Boson
+|rank=orange
+|amount=2
+|category=self
+|description=Dragon Gene Research SPD +4.2%
+}}

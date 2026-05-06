@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Ruby Laser
+|class_id=22125
+|rank=AAA
+|affct=FAME
+|birthday=05-16
+|source=
+|description=On May 16, 1960 AD, Maiman developed the world's first ruby laser.<br>Maiman, an American engineer invented the ruby laser marking the advent of lasers. When Maiman first began designing the laser, he requested funding from his company and threatened to resign if they did not provide it. The company gave him nine months, $50,000 in funding, and an assistant. After months of hard work, he finally succeeded in using artificial ruby to generate a laser light four times brighter than the surface of the sun. For this invention, Maiman was nominated twice for the Nobel Prize and was inducted into the American National Inventors Hall of Fame. He also became a member of the American National Academy of Sciences and the American National Academy of Engineering.
+|fame=73
+|art=36
+|fth=31
+|civ=47
+|tech=56
+|ss1=Per 5 Mirage Gems gained, Snail ATK +3<br>Per 5 Mirage Gems gained, Snail DEF +3<br>Mirage Gems Gained: 200/200
+|ss2=Per 5 Mirage Gems gained, Snail ATK +4<br>Per 5 Mirage Gems gained, Snail DEF +4<br>Mirage Gems Gained: 200/200
+|ss3=Per 5 Mirage Gems gained, Snail ATK +5<br>Per 5 Mirage Gems gained, Snail DEF +5<br>Mirage Gems Gained: 200/200
+|ss4=Per 5 Mirage Gems gained, Snail ATK +7<br>Per 5 Mirage Gems gained, Snail DEF +7<br>Mirage Gems Gained: 200/200
+|ss5=Per 5 Mirage Gems gained, Snail ATK +9<br>Per 5 Mirage Gems gained, Snail DEF +9<br>Mirage Gems Gained: 200/200
+|ss7=Per 5 Mirage Gems gained, Snail ATK +9<br>Per 5 Mirage Gems gained, Snail DEF +9<br>Mirage Gems Gained: 200/200<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Murika skill II.png|50px]]Place in Murikan Museum: This Relic's FAME +10
+|skill2=[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Reagent Drops +7.5%
+}}

@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Lamp Spirit Dylan
+|rank=red
+|cabin=1
+|id=1014
+|gene1={race} HARD +50
+|gene2={race} AFFCT +50
+|gene3=Earth DMG +50
+|gene4=Per 60 Minions in battle:
+> Troop Earth DMG +6
+|gene5=CRIT +0.9%
+|gene6=Per 60 Minions in battle:
+> Troop Earth DMG +10
+|gene7=CRIT +1.5%
+|}}

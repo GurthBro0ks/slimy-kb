@@ -1,0 +1,493 @@
+{{WIP}}
+{{Form|formName=Mutant|image1=Mutant Form I.png|caption-image1=The many extra eyes of the Mutant Form creates a field of distortion, allowing you to capture fragments of time to accelerate your speed when necessary.}}
+
+==Mutant Sequences==
+Each sequence is acquired from a unique source and all four are required to obtain the T4 Mutant Evolution.
+{| class="wikitable" style="text-align:center;" cellpadding="10"
+!Trait !!Source !!Boosts !!Rewards
+|-
+|{{RewardIconWithText|Alpha Ray}}
+|Consume 10 HP-Fungi
+|In Mutant Form, Snail HP +5%<br>Explore in Mutant Form, gain +2% Time Chests<br>Free Gene Speedup (Mutant) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Mutant Cell, +1.2k}}<br>{{RewardIconWithLink|Time Chest, +50}}
+|-
+|{{RewardIconWithText|Beta Ray}}
+|Consume 10 ATK-Fungi
+|In Mutant Form, Snail ATK +5%<br>Explore in Mutant Form, gain +2% Time Chests<br>Free Gene Speedup (Mutant) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Mutant Cell, +1.2k}}<br>{{RewardIconWithLink|Time Chest, +50}}
+|-
+|{{RewardIconWithText|Gamma Ray}}
+| Consume 10 DEF-Fungi
+|In Mutant Form, Snail DEF +5%<br>Explore in Mutant Form, gain +2% Time Chests<br>Free Gene Speedup (Mutant) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Mutant Cell, +1.2k}}<br>{{RewardIconWithLink|Time Chest, +50}}
+|-
+|{{RewardIconWithText|Sigma Ray}}
+| Consume 10 RUSH-Fungi
+|In Mutant Form, Snail RUSH +5%<br>Explore in Mutant Form, gain +2% Time Chests<br>Free Gene Speedup (Mutant) +5m
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Mutant Cell, +1.2k}}<br>{{RewardIconWithLink|Time Chest, +50}}
+|}
+
+==Tiers and Stats==
+
+===Base Stats===
+Below is each Tier and their base stats in Mutant Form. The stat bonus provided by obtaining form sequences is not included until Tier 4 as it requires all four sequences to be activated. 
+{| class="wikitable" style="text-align:center;" cellpadding="10"
+!Tier
+!Form !!HP !!ATK !!DEF !!RUSH !!Bonuses
+|-
+|I
+|Proliferator
+| +10%
+| +20%
+| +10%
+| +20%
+| When in Mutant Form, gain +10% Time Chests in exploration
+|-
+|II
+|Spore Fission
+| +15%
+| +20%
+| +15%
+| +20%
+|
+|-
+|III
+|Squirmer
+| +15%
+| +30%
+| +15%
+| +30%
+| 
+|-
+|IV
+|Radioactive Source
+| +25%
+| +35%
+| +25%
+| +35%
+| When in Mutant Form, gain +33% Time Chests in explorations<br>Free Gene Speedup (Mutant) +20m<br>In Mutant Form Trial, DMG +30%
+|-
+|V
+|Oversplitter
+| +25%
+| +45%
+| +25%
+| +45%
+| When in Mutant Form, gain +38% Time Chests<br>Free Gene Speedup (Mutant) +20m
+|-
+|VI
+|Divergence
+| +30%
+| +45%
+| +30%
+| +45%
+|When in Mutant Form, gain +43% Time Chests in explorations<br>Free Gene Speedup (Mutant) +20m
+|-
+|VII
+|Primal Eyer
+| +30%
+| +55%
+| +30%
+| +55%
+|When in Mutant Form, gain +48% Time Chests in explorations<br>Free Gene Speedup (Mutant) +20m
+|}
+
+===Extra Boosts===
+After T4, CIV [[relics]] can be awakened for extra boosts.
+{| class="wikitable" style="text-align:center;" cellpadding="8"
+!Relics Awakened !!Boosts
+|-
+|1
+|In All Forms, Snail RUSH +50
+|-
+|10
+|In All Forms, Snail RUSH +550
+|-
+|20
+|In All Forms, Snail RUSH +4550
+|}
+
+==Gene Research==
+After unlocking Mutant Form during early [[Evolution]], the Super Gene Expert will arrive in the [[Mailbox]] to give you the parts necessary to unlock the Research Machine. 
+
+[[File:Mutant Gene Research.png|left]]
+
+Research is divided according to the Tier of your Form, abbreviated to T1, T2, T3, etc. This is further divided into 8 separate research segments. The numbered list on the left shows an example DNA strand where 1A-1C is on the left and 2A-2C is on the right. These will switch back and forth with each tier, however 1 is always blue and corresponds to Snail Stat boosts across all Forms and 2 is always pink and corresponds to Troop Stat boosts according to Mutant Minions in battle. The middle segment gives special bonuses and the last segment unlock the Ritual required to ascend to the next form.
+
+=== Research Order ===
+Note that items must be researched in a certain order, generally from top to bottom. Each segment has a certain number of levels and can only be researched as high as the previous segment. If 1A is only Lv.3 out of 5, 1B can only be researched to Lv.3 as well. The middle bubble can only be researched as high as the lowest of either B segment. If 1B is Lv.2 and 2B is Lv.1, the middle bubble can only be researched to Lv.1, etc. The final bubble can only be researched (always 1 level) when all other research before it is completed and will give the necessary ritual steps to ascend to the next tier.
+
+{{Clear}}
+
+==Evolution==
+Upgrading Mutant requires a certain amount of Mutant Cells and CIV. This form increases the chance of finding Time Chests.
+<tabber>
+|-|T1=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+! rowspan="2" |Effect
+! rowspan="2" |DNA Strength<br>Increase
+|-
+!Time
+!Cells 
+!B-tads
+|-
+|style="text-align:center"|1A<br>HP Up E-I
+|1||0:20:00||100||50||Snail HP +50||10
+|-
+|style="text-align:center"|1B<br>ATK Up E-I
+|1||0:30:00||150||75||Snail ATK +10||12
+|-
+|style="text-align:center"|1C<br>CIV Up E-I
+|1||0:40:00||200||100||Snail CIV +50<br>When in Mutant Form:<br>Gain 1% Time Chests in explorations||16
+|-
+|style="text-align:center"|2A<br>HP Up Gene E-I
+|1||0:20:00||100||50||Per 10 Mutant Minions in battle, troop HP +60||10
+|-
+|style="text-align:center"|2B<br>ATK Up Gene E-I
+|1||0:30:00||150||75||Per 10 Mutant Minions in battle, troop ATK +6||12
+|-
+|style="text-align:center"|2C<br>All Genes Up E-I
+|1||0:40:00||200||100||Per 10 Mutant Minions in battle, Troop HARD Stats +2||16
+|-
+|style="text-align:center"|3<br>Genetic Resonance
+|1||0:30:00||150||75||Dispatchable Research Partners +1||30
+|-
+|style="text-align:center"|4<br>Mutant Gene Lock II
+|1||1:00:00||600||300||Advance to Mutant Form T2: Spore Fission<br>Mutant Minion Max Tier Up||30
+|}
+|-|T2=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+! rowspan="2" |Effect
+! rowspan="2" |DNA Strength<br>Increase
+|-
+!Time
+!Cells 
+!B-tads
+|-
+|style="text-align:center"|2A<br>DEF Up Gene E-I
+|1||1:00:00||250||250||Per 10 Mutant Minions in battle:<br>Troop DEF +6||20
+|-
+|style="text-align:center"|2B<br>SPD Up Gene E-I
+|1||1:15:00||300||300||Per 10 Mutant Minions in battle:<br>Troop RUSH +6||24
+|-
+|style="text-align:center"|2C<br>All Genes Up E-I
+|1||1:30:00||350||350||Per 10 Mutant Minions in battle:<br>Troop HARD Stats +2||28
+|-
+|style="text-align:center"|1A<br>DEF Up  E-I
+|1||1:00:00||250||250||Snail DEF +10||20
+|-
+|style="text-align:center"|1B<br>RUSH Up  E-I
+|1||1:15:00||300||300||Snail RUSH +10||24
+|-
+|style="text-align:center"|1C<br>CIV Up  E-I
+|1||1:30:00||350||350||Snail CIV +50<br>When in Mutant Form:<br>Gain +1% Time Chests in explorations||28
+|-
+|style="text-align:center"|3<br>Petrifying Eye
+|1||1:15:00||300||300||Eye of Medusa Frag +20 (obtained)||75
+|-
+|style="text-align:center"|4<br>Mutant Gene Lock III
+|1||3:00:00||1200||1200||Advance to Mutant Form T3: Squirmer<br>Mutant Minion Max Tier Up||50
+|}
+|-|T3=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+! rowspan="2" |Effect
+! rowspan="2" |DNA Strength<br>Increase
+|-
+!Time
+!Cells 
+!B-tads
+|-
+| rowspan="5" style="text-align:center" |1A<br>HP Up E-II
+|1||1:30:00||400||600||Snail HP +20||30
+|-
+|2||2:00:00||600||900||Snail HP +50||45
+|-
+|3||2:30:00||800||1200||Snail HP +90||60
+|-
+|4||3:00:00||1000||1500||Snail HP +140||75
+|-
+|5||3:30:00||1200||1800||Snail HP +200||90
+|-
+| rowspan="5" style="text-align:center" |1B<br>ATK Up E-II
+|1||1:45:00||600||900||Snail ATK +4||36
+|-
+|2||2:30:00||900||1350||Snail ATK +10||54
+|-
+|3||3:15:00||1200||1800||Snail ATK +18||72
+|-
+|4||4:00:00||1500||2250||Snail ATK +28||90
+|-
+|5||4:45:00||1800||2700||Snail ATK +40||108
+|-
+| rowspan="5" style="text-align:center" |1C<br>CIV Up E-II
+|1||2:00:00||800||1200||Snail CIV +4||42
+|-
+|2||3:00:00||1200||1800||Snail CIV +10||63
+|-
+|3||4:00:00||1600||2400||Snail CIV +18||84
+|-
+|4||5:00:00||2000||3000||Snail CIV +28||105
+|-
+|5||6:00:00||2400||3600||Snail CIV +40||126
+|-
+| rowspan="5" style="text-align:center" |2A<br>HP Up Gene E-II
+|1||1:30:00||400||600||Per 10 Mutant Minions in battle:<br>Troop HP +30||30
+|-
+|2||2:00:00||600||900||Per 10 Mutant Minions in battle:<br>Troop HP +60||45
+|-
+|3||2:30:00||800||1200||Per 10 Mutant Minions in battle:<br>Troop HP +90||60
+|-
+|4||3:00:00||1000||1500||Per 10 Mutant Minions in battle:<br>Troop HP +120||75
+|-
+|5||3:30:00||1200||1800||Per 10 Mutant Minions in battle:<br>Troop HP +150||90
+|-
+| rowspan="5" style="text-align:center" |2B<br>ATK Up Gene E-II
+|1||1:45:00||600||900||Per 10 Mutant Minions in battle:<br>Troop ATK +3||36
+|-
+|2||2:30:00||900||1350||Per 10 Mutant Minions in battle:<br>Troop ATK +6||54
+|-
+|3||3:15:00||1200||1800||Per 10 Mutant Minions in battle:<br>Troop ATK +9||72
+|-
+|4||4:00:00||1500||2250||Per 10 Mutant Minions in battle:<br>Troop ATK +12||90
+|-
+|5||4:45:00||1800||2700||Per 10 Mutant Minions in battle:<br>Troop ATK +15||108
+|-
+| rowspan="5" style="text-align:center" |2C<br>All Genes Up E-II
+|1||2:00:00||800||1200||Per 10 Mutant Minions in battle:<br>Troop HARD Stats +1||42
+|-
+|2||3:00:00||1200||1800||Per 10 Mutant Minions in battle:<br>Troop HARD Stats +2||63
+|-
+|3||4:00:00||1600||2400||Per 10 Mutant Minions in battle:<br>Troop HARD Stats +3||84
+|-
+|4||5:00:00||2000||3000||Per 10 Mutant Minions in battle:<br>Troop HARD Stats +4||105
+|-
+|5||6:00:00||2400||3600||Per 10 Mutant Minions in battle:<br>Troop HARD Stats +5||126
+|-
+|style="text-align:center"|3<br>Mind Control Dagger
+|1||1:45:00||600||900||Mind Control Dagger (obtained)||105
+|-
+|style="text-align:center"|4<br>Mutant Ritual IV
+|1||6:00:00||3000||4500||Advance to Mutant Form T4:||120
+|}
+|-|T4=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+! rowspan="2" |Effect
+! rowspan="2" |DNA Strength<br>Increase
+|-
+!Time
+!Cells 
+!B-tads
+|-
+| rowspan="5" style="text-align:center" |1A<br>DEF Up Gene E-II
+|1||2:00:00||1000||2000||Per 10 Mutant Minions in battle:<br>Troop DEF +3||48
+|-
+|2||3:30:00||1800||3600||Per 10 Mutant Minions in battle:<br>Troop DEF +6||72
+|-
+|3||5:00:00||2600||5200||Per 10 Mutant Minions in battle:<br>Troop DEF +9||96
+|-
+|4||6:30:00||3400||6800||Per 10 Mutant Minions in battle:<br>Troop DEF +12||120
+|-
+|5||8:00:00||4200||8400||Per 10 Mutant Minions in battle:<br>Troop DEF +15||144
+|-
+| rowspan="5" style="text-align:center" |1B<br>SPD Up Gene E-II
+|1||3:00:00||2000||4000||Per 10 Mutant Minions in battle:<br>Troop RUSH +3||54
+|-
+|2||5:00:00||3600||7200||Per 10 Mutant Minions in battle:<br>Troop RUSH +6||81
+|-
+|3||7:00:00||5200||10400||Per 10 Mutant Minions in battle:<br>Troop RUSH +9||108
+|-
+|4||9:00:00||6800||13600||Per 10 Mutant Minions in battle:<br>Troop RUSH +12||135
+|-
+|5||11:00:00||8400||16800||Per 10 Mutant Minions in battle:<br>Troop RUSH +15||162
+|-
+| rowspan="5" style="text-align:center" |1C<br>All Genes Up E-II
+|1||4:00:00||3000||6000||Per 10 Mutant Minions in battle:<br>Troop HARD Stats +1||54
+|-
+|2||7:00:00||5400||10800||Per 10 Mutant Minions in battle:<br>Troop HARD Stats +2||81
+|-
+|3||10:00:00||7800||15600||Per 10 Mutant Minions in battle:<br>Troop HARD Stats +3||108
+|-
+|4||13:00:00||10200||20400||Per 10 Mutant Minions in battle:<br>Troop HARD Stats +4||135
+|-
+|5||16:00:00||12600||25200||Per 10 Mutant Minions in battle:<br>Troop HARD Stats +5||162
+|-
+| rowspan="5" style="text-align:center" |2A<br>DEF Up E-II
+|1||2:00:00||1000||2000||Snail DEF +4<br>Effective on all forms||48
+|-
+|2||3:30:00||1800||3600||Snail DEF +10<br>Effective on all forms||72
+|-
+|3||5:00:00||2600||5200||Snail DEF +18<br>Effective on all forms||96
+|-
+|4||6:30:00||3400||6800||Snail DEF +28<br>Effective on all forms||120
+|-
+|5||8:00:00||4200||8400||Snail DEF +40<br>Effective on all forms||144
+|-
+| rowspan="5" style="text-align:center" |2B<br>RUSH Up E-II
+|1||3:00:00||2000||4000||Snail RUSH +4<br>Effective on all forms||54
+|-
+|2||5:00:00||3600||7200||Snail RUSH +10<br>Effective on all forms||81
+|-
+|3||7:00:00||5200||10400||Snail RUSH +18<br>Effective on all forms||108
+|-
+|4||9:00:00||6800||13600||Snail RUSH +28<br>Effective on all forms||135
+|-
+|5||11:00:00||8400||16800||Snail RUSH +40<br>Effective on all forms||162
+|-
+| rowspan="5" style="text-align:center" |2C<br>CIV Up E-II
+|1||4:00:00||3000||6000||Snail CIV +20<br>When in Mutant Form:<br>Gain +1% Time Chests in exploration||54
+|-
+|2||7:00:00||5400||10800||Snail CIV +50<br>When in Mutant Form:<br>Gain +1.5% Time Chests in exploration||81
+|-
+|3||10:00:00||7800||15600||Snail CIV +90<br>When in Mutant Form:<br>Gain +2% Time Chests in exploration||108
+|-
+|4||13:00:00||10200||20400||Snail CIV +140<br>When in Mutant Form:<br>Gain +2.5% Time Chests in exploration||135
+|-
+|5||16:00:00||12600||25200||Snail CIV +200<br>When in Mutant Form:<br>Gain +3% Time Chests in exploration||162
+|-
+| rowspan="1" style="text-align:center" |3<br>Mutant Gene Mutation
+|1||3:00:00||2000||4000||Snail Leadership +10<br>Mutant Minion MAX +5||180
+|-
+| rowspan="1" style="text-align:center" |4<br>Mutant Ritual V
+|1||24:00:00||15000||30000||Advance to Mutant Form T5: Oversplitter<br>In Mutant Form Trail, DMG +30%<br>Mutant Minion Max Tier Up||160
+|}
+|-|T5=
+{| class="wikitable"
+! rowspan="2" |
+! rowspan="2" |Lv.
+! colspan="3" |Cost
+! rowspan="2" |Effect
+! rowspan="2" |DNA Strength<br>Increase
+|-
+!Time
+!Cells 
+!B-tads
+|-
+|style="text-align:center"|
+|}
+</tabber>
+
+==Rituals==
+Once research is complete, a ritual will be started. Once the conditions are cleared, Mutant Form will rise in Tier.
+<tabber>
+|-|T4=
+For Mutant Form to rise from T3 to T4:
+{|class="wikitable"
+!Ritual
+!How to Complete
+|-
+|Activate Sequence: {{RewardIconWithLink|Alpha Ray|black|Mutant Form#Mutant Sequences}}
+|Consume 10 HP-Fungi
+|-
+|Activate Sequence: {{RewardIconWithLink|Beta Ray|black|Mutant Form#Mutant Sequences}}
+|Comsume 10 ATK-Fungi
+|-
+|Activate Sequence: {{RewardIconWithLink|Gamma Ray|black|Mutant Form#Mutant Sequences}}
+|Consume 10 DEF-Fungi
+|-
+|Activate Sequence: {{RewardIconWithLink|Sigma Ray|black|Mutant Form#Mutant Sequences}}
+|Consume 10 RUSH-Fungi
+|-
+|Obtain {{RewardIconWithText|Radioactive Core}} from Super Gene Expert
+|Speak with the [[Mailbox#Super Gene Expert|Super Gene Expert]] from the [[Mailbox]]
+|-
+|Ascend after CIV reaches 3,600
+|Acquire and Upgrade CIV [[Relics]] and consume CIV-Fungi
+|}
+|-|T5=
+For Mutant Form to rise from T4 to T5:
+{|class="wikitable"
+|-
+!Ritual
+|-
+|Defeat the [[Events#The Manhunt Act|Escaped Subject]] for Giant Mutant Cell
+|-
+|Reach Mutant Form Trial Lv.100
+|-
+|Ascend after CIV reaches 7,400
+|}
+|-|T6=
+For Mutant Form to rise from T5 to T6:
+{|class="wikitable"
+|-
+!Ritual
+!How to Complete
+|-
+|In [[Murika]] Exploration, obtain {{RewardIconWithText|Mutant Nerve Cell}}
+|
+|-
+|In [[Murika]] Exploration, obtain {{RewardIconWithText|Mutant Pituitary}}
+|
+|-
+|In [[Britland]] Exploration, obtain {{RewardIconWithText|Mutant Nerve Cord}}
+|
+|-
+|Bait and defeat other Mutant Travlers
+|In Mutant Form, use the acquired organs from your inventory<br>See Fights below
+|-
+|Reach Mutant Form Trial Lv.200
+|[[Gene Simulation]]
+|-
+|Ascend after CIV reaches 15,000
+|Acquire and upgrade CIV [[Relics]] and consume CIV-Fungi
+|}
+Mutant T6 Enemies
+{|class=wikitable
+!Organ Used!!Enemy!!ATK!!DEF!!HP!!Weakness!!Rewards
+|-
+|{{RewardIconWithText|Mutant Nerve Cell}}||Traveler 0527||35,557||28,234||581,564||CIV 11,500||Evolution Chest +100
+|-
+|{{RewardIconWithText|Mutant Pituitary}}||Traveler 0528||39,972||31,739||707,473||CIV 12,375||Evolution Chest +100
+|-
+|{{RewardIconWithText|Mutant Nerve Cord}}||Traveler 0529||44,741||35,526||805,396||CIV 13,250||Evolution Chest +100
+|}
+|-|T7=
+For Mutant Form to rise from T6 to T7:
+{|class=wikitable
+!Ritual !!How to Complete
+|-
+|Discover the Cretaceous Park in Murika
+|rowspan="3"|This is a set of 5 events that will appear in [[Murika]] after starting the ritual.<br>Each event involves a fight against a Cretaceous Creature providing the following reward on completion:
+* {{RewardIconWithText|W-Tad, +100}}
+* {{RewardIconWithText|Mutant Cell, +500}}
+* 1/5 of the {{RewardIconGeneSegment|Ultimate Lifeform}}
+|-
+|Beat Cretaceous Creature to get Gene Piece
+|-
+|Clear the {{RewardIconGeneSegment|Ultimate Lifeform}}
+|-
+|Reach Mutant Form Trial Lv.300
+|[[Gene Simulation]]
+|-
+|Ascend after CIV reached 20,000
+|Acquire and upgrade CIV [[Relics]] and consume CIV-Fungi
+|}
+|-|T8=
+For Mutant Form to rise from T7 to T8:
+{|class=wikitable
+!Ritual !!How to Complete
+|-
+|Equip {{RewardIconWithLink|Dark Neutron|blue}} shell
+|
+|-
+|Display awakened {{RewardIconWithLink|Boltzmann Brain|orange}}<br>Display awakened {{RewardIconWithLink|Gaea's Hand|orange}}<br>Display awakened {{RewardIconWithLink|Double Helix DNA|orange}}
+|
+|-
+|Reach Mutant Form Trial Lv.400
+|[[Gene Simulation]]
+|-
+|Ascend after CIV reached 25,000
+|Acquire and upgrade CIV [[Relics]] and consume CIV-Fungi
+|}
+</tabber>

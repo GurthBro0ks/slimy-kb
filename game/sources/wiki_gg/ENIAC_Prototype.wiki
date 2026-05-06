@@ -1,0 +1,37 @@
+{{CargoRelic
+|name=ENIAC Prototype
+|rank=AA
+|affct=TECH
+|birthday=12-12
+|source=Expert Scrolls (0.95%), Fragment Crafting (3.9%), Lottery Machine (0.08%), Murikan Treasure Map (10%), Wishing (0.36%)
+|description=On Dec 12, 1946, the world's first electronic digital computer was created.
+
+The two-year R&D of ENIAC was a hard time for engineers Goldstein, Mauchly and Eckert. Fully presenting Turin's idea, ENIAC is able to design various programs based on the engineer's requirements. It can calculate the projectile of a cannonball in just 20 seconds, even faster than the speed of the cannonball itself. With these functions, it has become a milestone in the history of computers and a new starting point for the development of computing technology.
+
+[About ENIAC]
+
+Weight: 30 tons<br>Switches: 6000<br>Parts: 11,468 pcs<br>Calculations: 5000 times/s
+|fame=46
+|art=32
+|fth=41
+|civ=39
+|tech=70
+|ss1=Time Machine upgrade Stone Cost -2%<br>Time Machine upgrade Wood Cost -2%
+|ss2=Time Machine upgrade Stone Cost -3%<br>Time Machine upgrade Wood Cost -3%
+|ss3=Time Machine upgrade Stone Cost -4%<br>Time Machine upgrade Wood Cost -4%
+|ss4=Time Machine upgrade Stone Cost -6%<br>Time Machine upgrade Wood Cost -6%
+|ss5=Time Machine upgrade Stone Cost -8%<br>Time Machine upgrade Wood Cost -8%
+|ss7=Time Machine upgrade Stone Cost -8%<br>Time Machine upgrade Wood Cost -8%<br>Time Machine upgrade Stone Cost -7% (Awakened)
+|skill1=[[File:Murika skill II.png|50px]] Place in Murikan Museum: In Murika, TECH Checks -10
+|skill2=[[File:Murika skill II.png|50px]] Place in Murikan Museum: This Relic's TECH +10
+}}
+
+[[Category:Time Machine Upgrade Cost Reduction]]
+[[Category:Murika Museum Boost]]
+[[Category:Murika Exploration Boost]]
+[[Category:TECH Boost]]
+[[Category:Angel Gene Speedup Boost]]
+[[Category:DNA Boost]]
+[[Category:RUSH Boost]]
+[[Category:Enhanced by DNA Strength]]
+[[Category:Wood Golem Boost]]

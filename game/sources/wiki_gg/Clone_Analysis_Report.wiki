@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Clone Analysis Report
+|class_id=20827
+|rank=Green
+|affct=TECH
+|source=
+|description=Stored within this uniquely designed terminal are research data recorded by the Microcosm civilization. It contains detailed information about various clones and precise experimental procedures, making it a treasury of cloning technology.
+|fame=14
+|art=13
+|fth=11
+|civ=16
+|tech=33
+|ss1=Per 5 Incubator Files fully restored, Snail HP +20<br>Per 5 Incubator Files fully restored, Snail RUSH +2<br>Files fully restored: 100/100
+|ss2=Per 5 Incubator Files fully restored, Snail HP +40<br>Per 5 Incubator Files fully restored, Snail RUSH +4<br>Files fully restored: 100/100
+|ss3=Per 5 Incubator Files fully restored, Snail HP +60<br>Per 5 Incubator Files fully restored, Snail RUSH +6<br>Files fully restored: 100/100
+|ss4=Per 5 Incubator Files fully restored, Snail HP +60<br>Per 5 Incubator Files fully restored, Snail RUSH +6<br>Files fully restored: 100/100
+|ss7=Per 5 Incubator Files fully restored, Snail HP +60<br>Per 5 Incubator Files fully restored, Snail RUSH +6<br>Files fully restored: 100/100<br> (Awakened)
+}}

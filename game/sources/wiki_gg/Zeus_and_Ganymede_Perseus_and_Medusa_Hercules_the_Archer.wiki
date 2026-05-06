@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=696
+|relics=Zeus and Ganymede,Perseus and Medusa,Hercules the Archer
+|rank=purple
+|amount=3
+|category=self
+|description=Protomon Snail assist DMG + 560
+}}

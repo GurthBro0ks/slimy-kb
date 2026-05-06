@@ -1,0 +1,45 @@
+{{Missing Info|specifics=mirage awakened}}
+{{CargoRelic
+|name=Sunflowers
+|rank=SS
+|affct=ART
+|birthday=06-09
+|source=Fungus Chest (1%), Grandmaster Scrolls (1%), Lottery Machine (0.12%), Relic Forge (100 Relic RF), Wishing (0.1%)
+|description=On Jun 9, 1888, Van Gogh painted the sunflowers in Arles of France.
+
+This is the sixth painting of the Sunflower series. Under Van Gogh's interpretation, the sunflowers are all like blazing flames, so exquisite, captivating, and harmonious all at once. Elegant and delicate, with striking and bold brushstrokes, the sunflower has a raw impulse and enthusiasm. Van Gogh originally planned to draw twelve sunflowers to represent the twelve disciples of Christ, but unfortunately, he could not complete it. 
+
+[Basic info]
+
+Creation location: Arles<br>Size: 91x72cm<br>Category: Oil on canvas<br>Collected by: Van Gogh Museum, Amsterdam
+|fame=63
+|art=105
+|fth=70
+|civ=48
+|tech=61
+|ss1=Fungus Farm Output +4%<br>Tadpole Pond B-tad output +4%<br>When crafting an Orange Reagent, +2% to get +1
+|ss2=Fungus Farm Output +6%<br>Tadpole Pond B-tad output +6%<br>When crafting an Orange Reagent, +3% to get +1 
+|ss3=Fungus Farm Output +8%<br>Tadpole Pond B-tad output +8%<br>When crafting an Orange Reagent, +4% to get +1
+|ss4=Fungus Farm Output +12%<br>Tadpole Pond B-tad output +12%<br>When crafting an Orange Reagent, +6% to get +1
+|ss5=Fungus Farm Output +16%<br>Tadpole Pond B-tad output +16%<br>When crafting an Orange Reagent, +8% to get +1
+|ss6=Fungus Farm Output +22%<br>Tadpole Pond B-tad output +22%<br>When crafting an Orange Reagent, +11% to get +1
+|ss7=Fungus Farm Output +22%<br>Tadpole Pond B-tad output +22%<br>When crafting an Orange Reagent, +11% to get +1<br>Fungus Farm Output +20% (Awakened)
+|skill1=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Generate W-tads by +30%
+|skill2=[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: This Relic's ART +15
+|skill3=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: Snail HP +6,000
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:Fungus Farm Output Boost]]
+[[Category:Tadpole Pond Output Boost]]
+[[Category:Reagent Crafting Boost]]
+[[Category:Tadpole Pond Skill]]
+[[Category:Tadpole Pond W-Tad Output Boost]]
+[[Category:ART Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:HP Boost]]
+[[Category:Relic Boost]]
+[[Category:RUSH Boost]]
+[[Category:Gear Boost]]
+[[Category:ATK Boost]]
+[[Category:Rewards Minigame]]

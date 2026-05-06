@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=661
+|relics=Archimedean Spiral,Faraday Cage
+|rank=purple
+|amount=2
+|category=self
+|description=Per 3 basic fusions, Snail DEF +6;Basic Fusions: 150/150
+}}

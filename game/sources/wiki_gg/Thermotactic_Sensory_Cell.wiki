@@ -1,0 +1,16 @@
+{{CargoOrgan
+|name=Thermotactic Sensory Cell
+|type=Common
+|rank=green
+|id=10807
+|idx=7
+|description=From the tiniest cell to entire organs and systems, all living beings are bound by bioelectric currents—and where charges move, magnetic fields are born…
+|skill=
+|hp=370
+|def=45
+|atk=84
+|rush=41
+|gene1=In explorations, {race} RUSH +20
+|gene2=During exploration, Fire DMG +60
+|gene7=Fire DMG +90 (Awakened)
+|}}

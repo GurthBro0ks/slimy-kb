@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Christmas Bell
+|class_id=20442
+|rank=Green
+|affct=FAME
+|source=
+|description=This bell once belonged to a reindeer that served Santa Claus for many years. But after its employer disappeared, it lost its job and was left homeless. In order to make a living, it pawned almost all of its possessions, except for this bell which it kept by its side...
+|fame=31
+|art=15
+|fth=13
+|civ=18
+|tech=13
+|ss1=Per Sign-In, Snail ATK +1<br>Sign-Ins: 20/20
+|ss2=Per Sign-In, Snail ATK +2<br>Sign-Ins: 20/20
+|ss3=Per Sign-In, Snail ATK +3<br>Sign-Ins: 20/20
+|ss4=Per Sign-In, Snail ATK +3<br>Sign-Ins: 20/20
+|ss7=Per Sign-In, Snail ATK +3<br>Sign-Ins: 20/20<br> (Awakened)
+}}

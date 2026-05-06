@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Augustus' Medal
+|rank=AAA
+|affct=FAME
+|birthday=06-21
+|source=Club Chest (1.5%), Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)
+|description=On Jun 21, 27 BC, the Roman Senate bestowed Octavian the title of Augustus.
+
+Augustus was a religious title meant to mark the divinity. The owner of the title has higher authority than others. In addition, no statue can define the nature of the status of the owner. After the Battle of Actium, Octavian had removed all obstacles on his way. After his election as a consul, he pressed the Senate and gained the right to rule Spain, Gaul, and Syria, making him the princeps of Rome. This is a coin that commemorates his title.
+|fame=71
+|art=42
+|fth=37
+|civ=48
+|tech=45
+|ss1=Snail ATK +30<br>Per 1k Tadpole Points, Snail ATK +3<br>Tadpole Points: 20,000/20,000
+|ss2=Snail ATK +40<br>Per 1k Tadpole Points, Snail ATK +4<br>Tadpole Points: 20,000/20,000
+|ss3=Snail ATK +50<br>Per 1k Tadpole Points, Snail ATK +5<br>Tadpole Points: 20,000/20,000
+|ss4=Snail ATK +70<br>Per 1k Tadpole Points, Snail ATK +7<br>Tadpole Points: 20,000/20,000
+|ss5=Snail ATK +90<br>Per 1k Tadpole Points, Snail ATK +9<br>Tadpole Points: 20,000/20,000
+|ss7=Snail ATK +90<br>Per 1k Tadpole Points, Snail ATK +9<br>Tadpole Points: 20,000/20,000<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Lumbercamp skill II.png|50px]] Place in Lumber Camp: Wood Output +15%
+|skill2=[[File:Lumbercamp skill II.png|50px]] Place in Lumber Camp: Lumber Max Cap +15%
+}}
+
+[[Category:ATK Boost]]
+[[Category:Lumber Camp Skill]]
+[[Category:Lumber Camp Output Boost]]
+[[Category:Demon Gene Cost Reduction]]
+[[Category:Mecha Cell Drop Boost]]
+[[Category:Enhanced by Tadpole Points]]

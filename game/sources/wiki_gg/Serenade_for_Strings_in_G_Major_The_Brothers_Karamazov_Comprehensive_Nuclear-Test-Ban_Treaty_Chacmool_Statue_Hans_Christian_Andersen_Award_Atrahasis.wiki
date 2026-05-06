@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=897
+|relics=Serenade for Strings in G Major,The Brothers Karamazov,Comprehensive Nuclear-Test-Ban Treaty,Chacmool Statue,Hans Christian Andersen Award,Atrahasis
+|rank=orange
+|amount=6
+|category=self
+|description=All Minion Skins, HARD Stats +36%
+}}

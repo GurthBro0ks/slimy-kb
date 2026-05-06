@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Lesbian Rule
+|class_id=20837
+|rank=Green
+|affct=TECH
+|source=
+|description=The lead ruler used by ancient Greek stonemasons was originally supported by a soft lead from the island of Lesbos, which could be bent into curved shapes to fit the outline, facilitating the measurement or replication of irregular curves. Aristotle also used the Lesbian ruler as a metaphor to extrapolate his views on fairness and the importance of flexible, elastic standards.
+|fame=17
+|art=13
+|fth=12
+|civ=15
+|tech=32
+|ss1=1% chance to get Fine Stone +30 when reshaping Floating Stone<br>Per 5 Carving, Snail ATK +1<br>Carving: 100/100
+|ss2=2% chance to get Fine Stone +30 when reshaping Floating Stone<br>Per 5 Carving, Snail ATK +2<br>Carving: 100/100
+|ss3=3% chance to get Fine Stone +30 when reshaping Floating Stone<br>Per 5 Carving, Snail ATK +3<br>Carving: 100/100
+|ss4=3% chance to get Fine Stone +30 when reshaping Floating Stone<br>Per 5 Carving, Snail ATK +3<br>Carving: 100/100
+|ss7=3% chance to get Fine Stone +30 when reshaping Floating Stone<br>Per 5 Carving, Snail ATK +3<br>Carving: 100/100<br> (Awakened)
+}}

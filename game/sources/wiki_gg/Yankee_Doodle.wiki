@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Yankee Doodle
+|class_id=22413
+|rank=Blue
+|affct=FAME
+|birthday=07-30
+|source=Lottery Machine No.3 (0.03%)
+|description=On Jul 30, 1777 AD, a group of British soldiers surrendered to the American army with the melody of Yankee Doodle.<br>Yankee Doodle, also called Yankee Song, is a well-known American folk tune. It's a mix of insults hurled by the British at the Americans, including "Yankee" as an insult for rural folks. But Americans liked the tune so much that they used it as a military song, and it became part of their upbeat and uncomplicated cultural heritage.
+|fame=48
+|art=26
+|fth=20
+|civ=29
+|tech=31
+|ss1=Tribal Amber output +2%
+|ss2=Tribal Amber output +4%
+|ss3=Tribal Amber output +6%
+|ss4=Tribal Amber output +10%
+|ss7=Tribal Amber output +10%<br>Tribal Amber output +10% (Awakened)
+|skill1=[[File:Frostsanctum skill I.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +5%
+}}

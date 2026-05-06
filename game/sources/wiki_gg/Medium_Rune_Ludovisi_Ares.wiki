@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=504
+|relics=Medium Rune,Ludovisi Ares
+|rank=orange
+|amount=2
+|category=self
+|description=Per 60 Minions in battle: Troop Wind DMG +7
+}}

@@ -1,0 +1,12 @@
+==Target Info==
+{| class="fandom-table" style="text-align:center;"
+! colspan="4" |Name - Canine Samurai
+|-
+|ATK - 18778
+|DEF - 14086
+|HP - 199279
+|Weakness - AFFCT
+44200
+|-
+| colspan="4" |Reward - [[Soul Jade]]
+|}

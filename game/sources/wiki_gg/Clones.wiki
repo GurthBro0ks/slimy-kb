@@ -1,0 +1,19 @@
+
+{| class="wikitable sortable"
+!Image
+!Rank
+!Cabin
+!gene1
+!gene2
+!gene3
+!gene4
+!gene5
+!gene6
+!gene7
+{{#cargo_query:table=Clones
+|fields=name,rank,cabin,id,gene1,gene2,gene3,gene4,gene5,gene6,gene7
+|order by=id
+|format=template
+|template=CloneTableRow
+|named args=yes}}
+|}

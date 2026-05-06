@@ -1,0 +1,16 @@
+{{CargoOrgan
+|name=Paul II's Tentacle
+|type=Bionic
+|rank=green
+|id=10645
+|idx=1
+|description=After accurately predicting World Cup outcomes one too many times, underground casinos finally bought out the octopus' brain - leaving only these twitching tentacles writhing in prophetic agony...
+|skill=Summon Death Tentacle, dealing DMG equal to 136% of ATK, and trigger Tentacle Lash to deal DMG equal to 9% of ATK!
+|hp=860
+|def=48
+|atk=34
+|rush=39
+|gene1=In explorations, food consumed -5%
+|gene2=The Pond has a +3% chance to produce W-tads
+|gene7=The Pond has a +3% chance to produce W-tads (Awakened)
+|}}

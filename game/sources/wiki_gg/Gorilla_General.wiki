@@ -1,0 +1,14 @@
+{{CargoClone
+|name=Gorilla General
+|rank=purple
+|cabin=2
+|id=98
+|gene1={race} RUSH +30
+|gene2={race} TECH +30
+|gene3=Per 30 Mutant Minions in battle:
+> Troop RUSH +8
+|gene4=Resolver: Mutagen Serum +1%
+|gene5=Per 30 Mutant Minions in battle:
+> Troop RUSH +12
+|gene6=Resolver: Mutagen Serum +1.5%
+|}}

@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Pressburg Treaty
+|rank=Blue
+|affct=FAME
+|birthday=09-04
+|source=Lottery Machine (0.36%), Wish Machine (15.5%), Club Chest (2%), Novice Scrolls (5%)
+|description=On Sep 4, 1805, Austria signed a peace treaty after losing the war against France. The treaty stated that the territories of the Tyrol and Vorarlberg must be ceded to the Elector of Bavaria. This included ceding Breisgau and other former Austrian regions to Baden and Wurttemberg. The signing of the treaty also marked the collapse of the Third Coalition.
+|fame=45
+|art=31
+|fth=22
+|civ=24
+|tech=32
+|ss1=If you're in a club, Snail HP +120
+|ss2=If you're in a club, Snail HP +240
+|ss3=If you're in a club, Snail HP +360
+|ss4=If you're in a club, Snail HP +600
+|ss7=If you're in a club, Snail HP +600<br>If you're in a club, Snail HP +600 (Awakened)
+|skill1=[[File:Arena skill I.png|50px]]Place in Snail Arena: Snail HP +200
+}}
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:FAME Relics]]
+[[Category:Blue FAME Relics]]
+[[Category:HP Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:ATK Boost]]
+[[Category:Exploration Card Drop Boost]]
+[[Category:Enhanced by Lottery Draws]]

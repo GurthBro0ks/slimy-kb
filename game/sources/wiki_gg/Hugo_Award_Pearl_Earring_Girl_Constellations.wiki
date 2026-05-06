@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=535
+|relics=Hugo Award,Pearl Earring Girl,Constellations
+|rank=orange
+|amount=3
+|category=self
+|description=Per 5 Quantum Amp LVLs, Snail DEF +30;Quantum Amp LVL: 80/80
+}}

@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Oedipus Rex Mask
+|class_id=22782
+|rank=SSS
+|affct=FAME
+|source=
+|description=Oedipus Rex is a representative work by Sophocles, set against the backdrop of an ancient Greek legend, telling the story of King Oedipus, who unknowingly kills his father and marries his mother, suffering immense mental anguish and physical pain as a result. In the play, the actor playing Oedipus blinds himself and ultimately chooses self-exile. The play's cultural and artistic achievements are profound, occupying an important place in literary history and deeply influencing the development of later culture and art. The play addresses issues of fate, free will, and moral responsibility, profoundly impacting the development and evolution of Western culture.
+|fame=106
+|art=56
+|fth=52
+|civ=72
+|tech=76
+|ss1=Per 60 Zombie Minions in battle:<br>> Troop HP +90<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +9<br>All Zombie Minion Skins, HARD Stats +30%
+|ss2=Per 60 Zombie Minions in battle:<br>> Troop HP +180<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +18<br>All Zombie Minion Skins, HARD Stats +40%
+|ss3=Per 60 Zombie Minions in battle:<br>> Troop HP +270<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +27<br>All Zombie Minion Skins, HARD Stats +50%
+|ss4=Per 60 Zombie Minions in battle:<br>> Troop HP +450<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +45<br>All Zombie Minion Skins, HARD Stats +70%
+|ss5=Per 60 Zombie Minions in battle:<br>> Troop HP +630<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +63<br>All Zombie Minion Skins, HARD Stats +90%
+|ss6=Per 60 Zombie Minions in battle:<br>> Troop HP +900<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +90<br>All Zombie Minion Skins, HARD Stats +120%
+|ss7=Per 60 Zombie Minions in battle:<br>> Troop HP +900<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +90<br>All Zombie Minion Skins, HARD Stats +120%<br>Per 60 Zombie Minions in battle:<br>> Troop HP +900 (Awakened)
+|skill1=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: This Relic's FAME +15
+|skill2=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: B-tad Output +3000
+|skill3=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, Snail DEF +600
+}}

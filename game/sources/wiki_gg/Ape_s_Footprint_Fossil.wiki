@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Ape's Footprint Fossil
+|class_id=21918
+|rank=SS
+|affct=FAME
+|birthday=12-21
+|source=
+|description=On Dec 21, 1976 AD, Mary Leakey discovered footprints of ancient apes in Tanzania.<br>These are the earliest human footprints. Carbon dating of these preserved human footprints shows that they are from 3.7 million years ago. Analysis of the shape and gait of the foot has determined that the footprint was from upright walking. They belonged to Australopithecus afarensis, a species that was becoming human-like. These footprints hint at the eventual evolution of the homo sapiens.
+|fame=109
+|art=67
+|fth=69
+|civ=66
+|tech=51
+|ss1=In Species War, Troop Casualty -0.8%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +9<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +3
+|ss2=In Species War, Troop Casualty -1.2%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +18<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +6
+|ss3=In Species War, Troop Casualty -1.6%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +27<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +9
+|ss4=In Species War, Troop Casualty -2.4%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +45<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +15
+|ss5=In Species War, Troop Casualty -3.2%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +63<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +21
+|ss6=In Species War, Troop Casualty -4.4%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +90<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +30
+|ss7=In Species War, Troop Casualty -4.4%<br>Per 60 Demon Minions in battle:<br>> Troop ATK +90<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +30<br>In Species War, Troop Casualty -0.8% (Awakened)
+|skill1=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Lumber Max Cap +30%
+|skill2=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Wood Output +30%
+|skill3=[[File:Timemachine skill III.png|50px]]Place in Time Machine: Time Machine Max Cap +30%
+|mirage={{Mirage|name=Insignia of Life|reward={{RewardIconWithLink|Evolution Chest, +200|orange}}
+|3name=Insect Fossil|3rec=2.21M|3atk=35582|3defense=23344|3hp=436037|3weak=8375
+|4name=Mammal Fossil|4rec=4.44M|4atk=53168|4defense=34882|4hp=875062|4weak=11356
+|5name=Amphibian Fossil|5rec=8.35M|5atk=75252|5defense=49371|5hp=1671821|5weak=13079
+|Arec=14.79M|Aatk=102145|Adefense=67014|Ahp=2868837|Aweak=16757
+}}}}

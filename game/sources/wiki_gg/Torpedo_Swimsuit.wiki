@@ -1,0 +1,34 @@
+{{CargoRelic
+|name=Torpedo Swimsuit
+|rank=Blue
+|affct=TECH
+|birthday=05-29
+|source=Lottery Machine (0.03%), Wishing (1.1%), Evolution Chest (2%)
+|description=On May 29, 2000, Australian swimmer Ian James Thorpe put on this new swimsuit and got good results.
+
+He won 3 gold medals the year he wore this swimsuit for the first time and shocked the world. This swimsuit imitated shark skin and human tendons at the seams to provide athletes with the power to swim backwards. The material was similar to human skin which greatly reduced water resistance. Due to technical interference, this swimsuit was banned from competitions.
+
+[Swimsuit Evolution]
+
+Gen 1: Increased swimming speed from 3% to 7.5%. Gen 2: 7.5% higher than Gen 1. Gen 3: 15% higher than similar products. Gen 4: Broke 14 new world records.
+|fame=31
+|art=32
+|fth=26
+|civ=20
+|tech=45
+|ss1=In Mutant Form, Travel SPD +0.2%
+|ss2=In Mutant Form, Travel SPD +0.4%
+|ss3=In Mutant Form, Travel SPD +6%
+|ss4=In Mutant Form, Travel SPD +1%
+|ss7=In Mutant Form, Travel SPD +1%<br>In Mutant Form, Travel SPD +1% (Awakened)
+|skill1=[[File:Compass skill I.png|50px]] Place in Exploration Compass: This Relic's TECH +5
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:TECH Relics]]
+[[Category:Blue TECH Relics]]
+[[Category:Travel Speed Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]

@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Le Voyageur Imprudent
+|class_id=22518
+|rank=AAA
+|affct=FAME
+|birthday=08-30
+|source=Lottery Machine No.3 (0.06%)
+|description=On Aug 30, 1943 AD, Bachsaver proposed the famous paradox in his work "Le Voyageur Imprudent."<br>In this novel, Bachsaver first proposed the grandfather paradox. This paradox describes a situation that may occur in time travel: when a time traveler goes back to a time before his father was born and kills his grandfather, a paradox arises; if the grandfather dies before having children, the time traveler's father will not be born, so the time traveler who killed his grandfather should not have been born either. Since it was proposed, no theory has been able to explain it perfectly.
+|fame=74
+|art=40
+|fth=38
+|civ=42
+|tech=49
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop RUSH +12<br>Per Bionic Part extracted, Snail DEF +3<br>Bionic Part Extracted: 50/50
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop RUSH +16<br>Per Bionic Part extracted, Snail DEF +4<br>Bionic Part Extracted: 50/50
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop RUSH +20<br>Per Bionic Part extracted, Snail DEF +5<br>Bionic Part Extracted: 50/50
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop RUSH +28<br>Per Bionic Part extracted, Snail DEF +7<br>Bionic Part Extracted: 50/50
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop RUSH +36<br>Per Bionic Part extracted, Snail DEF +9<br>Bionic Part Extracted: 50/50
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop RUSH +36<br>Per Bionic Part extracted, Snail DEF +9<br>Bionic Part Extracted: 50/50<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +28 (Awakened)
+|skill1=[[File:Swampsanctum skill II.png|50px]]Place in Swamp Sanctum: This Relic's FAME +10
+|skill2=[[File:Swampsanctum skill II.png|50px]]Place in Swamp Sanctum: Swamp Sanctum, Glorium Cap +15%
+}}

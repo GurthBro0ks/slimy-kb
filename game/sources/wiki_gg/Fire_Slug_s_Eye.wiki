@@ -1,0 +1,18 @@
+{{CargoOrgan
+|name=Fire Slug's Eye
+|type=Common
+|rank=blue
+|id=10816
+|idx=17
+|description="We found a marvelous slug with a large tail around the Harveys volcano, they can swim in hot lava!"
+—Solace Expedition Notes
+|skill=
+|hp=1000
+|def=76
+|atk=101
+|rush=141
+|gene1=Lottery White Orbs change colors by +5%
+|gene2=In explorations, {race} RUSH +20
+|gene3=Lottery White Orbs change colors by +5%
+|gene7=In explorations, {race} RUSH +60 (Awakened)
+|}}

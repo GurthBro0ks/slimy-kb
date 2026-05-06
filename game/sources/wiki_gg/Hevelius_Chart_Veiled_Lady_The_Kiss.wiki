@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Hevelius Chart,Veiled Lady,The Kiss
+|rank=orange
+|amount=3
+|category=home
+|description=In the Rebel Rocket Cabin, Anti-Gravity Device Base Effect +64%
+}}
+[[Category:Home]]
+[[Category:Anti-Gravity Device Boost]]

@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Khosrow Meets Shirin
+|class_id=21848
+|rank=AAA
+|affct=CIV
+|source=
+|description=A Persian prince rides through snow-capped mountains, rose petals falling from his silver bridle. Across a spring, an Armenian princess waits - their fateful first encounter immortalized in delicate brushstrokes.
+|fame=51
+|art=49
+|fth=36
+|civ=75
+|tech=32
+|ss1=Per 50k Relic Points, Snail DEF +6<br>Per 50k Relic Points, Snail RUSH +6<br>Relic Points: 1500000/1500000
+|ss2=Per 50k Relic Points, Snail DEF +8<br>Per 50k Relic Points, Snail RUSH +8<br>Relic Points: 1500000/1500000
+|ss3=Per 50k Relic Points, Snail DEF +10<br>Per 50k Relic Points, Snail RUSH +10<br>Relic Points: 1500000/1500000
+|ss4=Per 50k Relic Points, Snail DEF +14<br>Per 50k Relic Points, Snail RUSH +14<br>Relic Points: 1500000/1500000
+|ss5=Per 50k Relic Points, Snail DEF +18<br>Per 50k Relic Points, Snail RUSH +18<br>Relic Points: 1500000/1500000
+|ss7=Per 50k Relic Points, Snail DEF +18<br>Per 50k Relic Points, Snail RUSH +18<br>Relic Points: 1500000/1500000<br>Snail DEF +90 (Awakened)
+|skill1=[[File:skill@1123_1_1.png|50px]]prop@4068_2
+|skill2=[[File:skill@1124_1_1.png|50px]]prop@4069_2
+}}

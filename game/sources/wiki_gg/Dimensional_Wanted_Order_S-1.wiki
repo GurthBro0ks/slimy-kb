@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Dimensional Wanted Order S-1
+|class_id=20862
+|rank=Green
+|affct=TECH
+|source=
+|description=The Demon God's apostles occupy space-time gaps, Earth's will issues this wanted order to encourage travelers to go all out to eliminate the apostles! -- Earth's Will (Seal)
+|fame=15
+|art=14
+|fth=16
+|civ=17
+|tech=28
+|ss1=Per Rift Apostle defeated, Snail ATK +1<br>Per Rift Apostle defeated, Snail HP +10<br>Apostles Defeated: 40/40
+|ss2=Per Rift Apostle defeated, Snail ATK +2<br>Per Rift Apostle defeated, Snail HP +20<br>Apostles Defeated: 40/40
+|ss3=Per Rift Apostle defeated, Snail ATK +3<br>Per Rift Apostle defeated, Snail HP +30<br>Apostles Defeated: 40/40
+|ss4=Per Rift Apostle defeated, Snail ATK +3<br>Per Rift Apostle defeated, Snail HP +30<br>Apostles Defeated: 40/40
+|ss7=Per Rift Apostle defeated, Snail ATK +3<br>Per Rift Apostle defeated, Snail HP +30<br>Apostles Defeated: 40/40<br> (Awakened)
+}}

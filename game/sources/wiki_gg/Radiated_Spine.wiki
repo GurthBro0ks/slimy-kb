@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Radiated Spine
+|type=Common
+|rank=orange
+|id=10870
+|idx=77
+|description=A grotesquely altered spinal column mutated by intense radiation. Its surface is coated in glowing radioactive material, softly pulsing with an eerie light.
+|skill=
+|hp=1874
+|def=285
+|atk=206
+|rush=167
+|gene1=Per 10 Gene Seg. devoured, {race} ATK +70
+Specimen devoured: 400/400
+|gene2=Mutant Minion Recovery SPD +6%
+|gene3=Against Daily Hitmen, Round 1 DMG +15%
+|gene4=Mutant Minion Cloning SPD +3%
+|gene5=Per 2 Gastric Pouch LVLs challenged, {race} ATK +7
+Gastric Pouch LVLs: 100/100
+|gene7=Mutant Minion Recovery SPD +6% (Awakened)
+|}}

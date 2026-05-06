@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=899
+|relics=Kinkaku-ji Model,Jin Hou Bird Zun
+|rank=orange
+|amount=2
+|category=self
+|description=For every 3 levels of Base Station cleared, Snail ATK +7;Base Station LVLs Cleared: 150/150
+}}

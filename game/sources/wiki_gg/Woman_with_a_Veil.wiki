@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Woman with a Veil
+|class_id=22651
+|rank=SSS
+|affct=ART
+|birthday=01-26
+|source=Lottery Machine No.3 (0.12%)
+|description=On Jan 26, 1519 AD, Raphael completed this piece.<br>The girl with the veil is also known as Dōngnà Wēilātǎ, who is rumored to be the portrait painted by Raphael for his beloved. Compared to Raphael's other works that depict idealized women with a mystical aura, this piece reduces those elements and emphasizes a more realistic portrayal of an ordinary yet aesthetically pleasing female figure. The girl's posture is graceful, her face beautiful with a slight smile. The folds in her clothing and the texture of her skin are very delicate, in stark contrast to Raphael's previous depictions of the Virgin Mary, which further adds credibility to the rumor.
+|fame=51
+|art=109
+|fth=70
+|civ=75
+|tech=57
+|ss1=Snail Leadership +3<br>All minion skins ATK +10%<br>Per +30F in Minion Sims Record, Snail ATK +3<br>Minion Sims record: 1500/1500F
+|ss2=Snail Leadership +4<br>All minion skins ATK +20%<br>Per +30F in Minion Sims Record, Snail ATK +4<br>Minion Sims record: 1500/1500F
+|ss3=Snail Leadership +5<br>All minion skins ATK +30%<br>Per +30F in Minion Sims Record, Snail ATK +5<br>Minion Sims record: 1500/1500F
+|ss4=Snail Leadership +7<br>All minion skins ATK +50%<br>Per +30F in Minion Sims Record, Snail ATK +7<br>Minion Sims record: 1500/1500F
+|ss5=Snail Leadership +9<br>All minion skins ATK +70%<br>Per +30F in Minion Sims Record, Snail ATK +9<br>Minion Sims record: 1500/1500F
+|ss6=Snail Leadership +12<br>All minion skins ATK +100%<br>Per +30F in Minion Sims Record, Snail ATK +12<br>Minion Sims record: 1500/1500F
+|ss7=Snail Leadership +12<br>All minion skins ATK +100%<br>Per +30F in Minion Sims Record, Snail ATK +12<br>Minion Sims record: 1500/1500F<br>Snail Leadership +5 (Awakened)
+|skill1=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: Exploration Egg hatching efficiency +30%
+|skill2=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: Blue rewards from this egg turn Purple by 6%
+|skill3=[[File:Explorationegg skill III.png|50px]]Place in Exploration Egg: This Relic's ART +15
+|mirage={{Mirage|name=Veiled Ones|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Girl with a Veil|3rec=90.06M|3atk=268661|3defense=170609|3hp=13293382|3weak=33729
+|4name=Shiba with a Veil|4rec=116.64M|4atk=330345|4defense=208002|4hp=17674953|4weak=36083
+|5name=Married Woman with a Veil|5rec=150.29M|5atk=410286|5defense=255342|5hp=25266787|5weak=39064
+|6name=Middle-aged Man with a Veil|6rec=202.57M|6atk=534869|6defense=328904|6hp=40567062|6weak=43851
+|Arec=288.51M|Aatk=704601|Adefense=422124|Ahp=73966245|Aweak=51285
+}}}}

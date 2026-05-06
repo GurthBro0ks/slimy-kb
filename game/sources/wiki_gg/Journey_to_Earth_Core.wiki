@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Journey to Earth Core
+|class_id=22721
+|rank=SSS
+|affct=CIV
+|birthday=10-26
+|source=
+|description=On Oct 26, 1864 AD, the novel was first published.<br>It was an instant hit worldwide and enjoyed global fame once published. With his profound scientific knowledge, Jules Verne cleverly intertwined science with the novel's plot and character portrayal, describing the underground world vividly. The novel leads readers to explore the underground ocean, rainforest, and ferocious beasts, gripping readers' hearts. Jules Verne was hailed as the father of science fiction because of this work.
+|fame=70
+|art=71
+|fth=61
+|civ=106
+|tech=54
+|ss1=Gene Research Free Speedup +9m<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +9<br>Per 5 Zombie Gene LVLs, Snail HP +90<br>Zombie Gene LVLs Researched: 150/150
+|ss2=Gene Research Free Speedup +12m<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +18<br>Per 5 Zombie Gene LVLs, Snail HP +100<br>Zombie Gene LVLs Researched: 150/150
+|ss3=Gene Research Free Speedup +15m<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +27<br>Per 5 Zombie Gene LVLs, Snail HP +110<br>Zombie Gene LVLs Researched: 150/150
+|ss4=Gene Research Free Speedup +21m<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +45<br>Per 5 Zombie Gene LVLs, Snail HP +130<br>Zombie Gene LVLs Researched: 150/150
+|ss5=Gene Research Free Speedup +27m<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +63<br>Per 5 Zombie Gene LVLs, Snail HP +150<br>Zombie Gene LVLs Researched: 150/150
+|ss6=Gene Research Free Speedup +36m<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +90<br>Per 5 Zombie Gene LVLs, Snail HP +180<br>Zombie Gene LVLs Researched: 150/150
+|ss7=Gene Research Free Speedup +36m<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +90<br>Per 5 Zombie Gene LVLs, Snail HP +180<br>Zombie Gene LVLs Researched: 150/150<br>Per 60 Zombie Minions in battle:<br>> Troop ATK +90 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Fire DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +300
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=Earth Core Expedition Team|reward={{RewardIconWithLink|Travel Speedup, +28800|orange}}
+|3name=Lady Kara|3rec=112.88M|3atk=343088|3defense=202706|3hp=32757257|3weak=42627
+|4name=Hannes|4rec=129.14M|4atk=378095|4defense=225584|4hp=43424449|4weak=46295
+|5name=Aksel|5rec=150.70M|5atk=426535|5defense=255926|5hp=61079312|5weak=50471
+|6name=Professor Linden|6rec=180.50M|6atk=491039|6defense=297851|6hp=92424824|6weak=55106
+|Arec=222.30M|Aatk=579525|Adefense=356662|Ahp=142060459|Aweak=60269
+}}}}

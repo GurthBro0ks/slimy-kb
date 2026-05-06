@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Poetics-Aristotle
+|class_id=22883
+|rank=SSS
+|affct=CIV
+|source=
+|description=Aristotle's Poetics is the first art theory system in Western civilization and laid the foundation for Western literary theory. This work, authored by the ancient Greek philosopher Aristotle, mainly discusses tragedy, comedy, and epic, particularly the origins, historical development, and principles of creation of tragedy and epic. The existing first volume discusses tragedy and epic, while the second volume, which discussed comedy, has unfortunately been lost. In Poetics, Aristotle introduced the concept of catharsis, which suggests that through the self-reflection of tragedy, at the moment of catharsis, people as their own poets or creators share in the divine joy and temporarily become god-like beings.
+|fame=71
+|art=68
+|fth=61
+|civ=109
+|tech=53
+|ss1=Mutant Minion ATK +3%<br>Protomon Snail assist DMG + 240<br>Per 1,000 Hellas Disciples advanced, Snail RUSH +9<br>Hellas Disciples Advanced: 20000/20000
+|ss2=Mutant Minion ATK +4%<br>Protomon Snail assist DMG + 320<br>Per 1,000 Hellas Disciples advanced, Snail RUSH +12<br>Hellas Disciples Advanced: 20000/20000
+|ss3=Mutant Minion ATK +5%<br>Protomon Snail assist DMG + 400<br>Per 1,000 Hellas Disciples advanced, Snail RUSH +15<br>Hellas Disciples Advanced: 20000/20000
+|ss4=Mutant Minion ATK +7%<br>Protomon Snail assist DMG + 560<br>Per 1,000 Hellas Disciples advanced, Snail RUSH +21<br>Hellas Disciples Advanced: 20000/20000
+|ss5=Mutant Minion ATK +9%<br>Protomon Snail assist DMG + 720<br>Per 1,000 Hellas Disciples advanced, Snail RUSH +27<br>Hellas Disciples Advanced: 20000/20000
+|ss6=Mutant Minion ATK +12%<br>Protomon Snail assist DMG + 960<br>Per 1,000 Hellas Disciples advanced, Snail RUSH +36<br>Hellas Disciples Advanced: 20000/20000
+|ss7=Mutant Minion ATK +12%<br>Protomon Snail assist DMG + 960<br>Per 1,000 Hellas Disciples advanced, Snail RUSH +36<br>Hellas Disciples Advanced: 20000/20000<br>Protomon Snail assist DMG + 800 (Awakened)
+|skill1=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's CIV +15
+|skill2=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Fire DMG +300
+|skill3=[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: Medal Output +30
+|mirage={{Mirage|name=Art and Scholarship|reward={{RewardIconWithLink|Badge, +20|orange}}
+|3name=dungeon_event@4626_1|3rec=392.18M|3atk=910126|3defense=515391|3hp=227186518|3weak=68705
+|4name=dungeon_event@4627_1|4rec=494.24M|4atk=1081429|4defense=607207|4hp=385683002|4weak=74758
+|5name=dungeon_event@4628_1|5rec=649.23M|5atk=1431971|5defense=746642|5hp=622004359|5weak=82823
+|6name=dungeon_event@4629_1|6rec=883.97M|6atk=2157650|6defense=997572|6hp=1079072137|6weak=93207
+|Arec=1277.57M|Aatk=3256373|Adefense=1383433|Ahp=1971522090|Aweak=105793
+}}}}

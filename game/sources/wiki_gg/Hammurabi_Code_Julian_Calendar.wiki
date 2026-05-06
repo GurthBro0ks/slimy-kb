@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Hammurabi Code,Julian Calendar
+|rank=orange
+|amount=2
+|category=self
+|description=Per Divine Dragon Descent, Snail RUSH +28<br>Divine Dragon Descents: 20/20
+}}
+[[Category:Self]]

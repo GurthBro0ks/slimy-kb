@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Hoxne Hoard
+|class_id=22181
+|rank=AAA
+|affct=CIV
+|birthday=11-15
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Nov 15, 1992 AD, a Hox resident failed to find a hammer, with a metal detector, he discovered a hoard of coins.<br>The Hoxne Hoard is named after the town of Hox. It refers to a collection of coins inadvertently discovered by a resident when he was searching for a hammer. Afterward, archaeologists dug out over ten thousand silver coins and five hundred gold coins. Some of the gold coins were over 99% gold. According to experts, these coins originated in the third century. The coins' minting, distribution, and burial spanned a period of fewer than 50 years, therefore the coins have been well preserved. Ultimately, the British government bought the entire Hoard at the price of 1.5 million pounds.
+|fame=49
+|art=46
+|fth=41
+|civ=72
+|tech=35
+|ss1=Per 30 Dragon Minions in battle:<br>> Troop HP +120<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +12
+|ss2=Per 30 Dragon Minions in battle:<br>> Troop HP +160<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +16
+|ss3=Per 30 Dragon Minions in battle:<br>> Troop HP +200<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +20
+|ss4=Per 30 Dragon Minions in battle:<br>> Troop HP +280<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +28
+|ss5=Per 30 Dragon Minions in battle:<br>> Troop HP +360<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +36
+|ss7=Per 30 Dragon Minions in battle:<br>> Troop HP +360<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +36<br>Per 30 Dragon Minions in battle:<br>> Troop HP +280 (Awakened)
+|skill1=[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, 2x B-tad Drops +7.5%
+|skill2=[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, 2x Purple Reagent Drops +7.5%
+}}

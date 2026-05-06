@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Pythagoras Tree
+|class_id=22593
+|rank=AA
+|affct=TECH
+|birthday=10-18
+|source=Lottery Machine No.3 (0.12%)
+|description=On Oct 18, 570 BC, the famous Greek mathematician Pythagoras proposed his conjecture.<br>The Pythagoras tree is a tree that Pythagoras drew based on the Pythagorean theorem. He built two identical smaller squares above a square, repeated the above operation for the two squares, and formed a pattern that can be infinitely repeated. As the shape resembles a tree after being repeated multiple times, it is called the Pythagoras tree or the right triangle tree.
+|fame=47
+|art=30
+|fth=44
+|civ=39
+|tech=68
+|ss1=Per 30 T7+ Minions in battle:<br>> Troop ATK +8<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +8
+|ss2=Per 30 T7+ Minions in battle:<br>> Troop ATK +12<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +12
+|ss3=Per 30 T7+ Minions in battle:<br>> Troop ATK +16<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +16
+|ss4=Per 30 T7+ Minions in battle:<br>> Troop ATK +24<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +24
+|ss5=Per 30 T7+ Minions in battle:<br>> Troop ATK +32<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +32
+|ss7=Per 30 T7+ Minions in battle:<br>> Troop ATK +32<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +32<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28 (Awakened)
+|skill1=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, Troop CRIT DMG +3%
+|skill2=[[File:Mantis skill II.png|50px]]Place in Mantis Biozilla: In Species War, Troop Water RES +30
+}}

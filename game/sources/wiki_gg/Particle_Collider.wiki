@@ -1,0 +1,38 @@
+{{CargoRelic
+|name=Particle Collider
+|rank=SSS
+|affct=TECH
+|birthday=12-08
+|source=Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Tool Chest (0.01%), Wish Box, Wishing (0.07%)
+|description=On Dec 8, 1961 AD, physicists developed the Particle Collider, which laid the foundation for the related fields of physics.
+
+With the two colliders put into operation, charm quark and anti-charm quark particles were discovered. When scientists finished exploring high-energy physics, quantum mechanics needed to enter the ultra-microscopic field, which needed a large number of experiments to test the theory. Study of various particle properties, such as spin, momentum and other motion data were needed. Without a collider, most theories of quantum mechanics would only be empty words on paper. Besides, The exploration of these microscopic particles requires luck more than anything.
+|fame=56
+|art=69
+|fth=65
+|civ=64
+|tech=108
+|ss1=B-tads collected from Drill Rig +3%<br>W-tads collected from Drill Rig +3%<br>Per 5 Mecha Gene LVLs, Snail ATK +6<br>Mecha Gene LVLs Researched: 150/150
+|ss2=B-tads collected from Drill Rig +4%<br>W-tads collected from Drill Rig +4%<br>Per 5 Mecha Gene LVLs, Snail ATK +8<br>Mecha Gene LVLs Researched: 150/150
+|ss3=B-tads collected from Drill Rig +5%<br>W-tads collected from Drill Rig +5%<br>Per 5 Mecha Gene LVLs, Snail ATK +10<br>Mecha Gene LVLs Researched: 150/150
+|ss4=B-tads collected from Drill Rig +7%<br>W-tads collected from Drill Rig +7%<br>Per 5 Mecha Gene LVLs, Snail ATK +14<br>Mecha Gene LVLs Researched: 150/150
+|ss5=B-tads collected from Drill Rig +9%<br>W-tads collected from Drill Rig +9%<br>Per 5 Mecha Gene LVLs, Snail ATK +18<br>Mecha Gene LVLs Researched: 150/150
+|ss6=B-tads collected from Drill Rig +12%<br>W-tads collected from Drill Rig +12%<br>Per 5 Mecha Gene LVLs, Snail ATK +24<br>Mecha Gene LVLs Researched: 150/150
+|ss7=B-tads collected from Drill Rig +12%<br>W-tads collected from Drill Rig +12%<br>Per 5 Mecha Gene LVLs, Snail ATK +24<br>Mecha Gene LVLs Researched: 150/150<br>B-tads collected from Drill Rig +10% (Awakened)
+|skill1=[[File:Timemachine skill III.png|50x50px]]Place in Time Machine: Travel Speedup Output +30%
+|skill2=[[File:Timemachine skill III.png|50x50px]]Place in Time Machine: This Relic's TECH +15
+|skill3=[[File:Timemachine skill III.png|50x50px]]Place in Time Machine: Generate Time Chests by +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}} 
+
+[[Category:Drill Collection Boost]]
+[[Category:ATK Boost]]
+[[Category:Mecha Gene Boost]]
+[[Category:Time Machine Skill]]
+[[Category:Time Machine Output Boost]]
+[[Category:TECH Boost]]
+[[Category:Time Chest Output]]
+[[Category:Fissure Boost]]
+[[Category:RUSH Boost]]
+[[Category:Rewards RF]]
+[[Category:Nightmare Steed Boost]]

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=MUSE Design Awards
+|class_id=22315
+|rank=SSS
+|affct=CIV
+|birthday=07-22
+|source=
+|description=On Jul 22, 2015 AD, the American International Awards Association received tens of thousands of entries for the first MUSE Design Awards.<br>The MUSE Design Awards is one of the most influential international awards in the world's creative field. It aims to honor, promote and encourage creativity by providing a new standard of excellence for evaluating media design production and distribution. It is their strict review system and high judgment standards that attract many internationally renowned brands and design companies to participate in the competition!
+|fame=70
+|art=68
+|fth=65
+|civ=108
+|tech=51
+|ss1=Home Decor Inc, Series C Decor Coin Dividend +6%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +3<br>Per 5 CIV Relics awakened, Snail ATK +9<br>CIV Relics Awakened: 100/100
+|ss2=Home Decor Inc, Series C Decor Coin Dividend +7%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +6<br>Per 5 CIV Relics awakened, Snail ATK +12<br>CIV Relics Awakened: 100/100
+|ss3=Home Decor Inc, Series C Decor Coin Dividend +8%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +9<br>Per 5 CIV Relics awakened, Snail ATK +15<br>CIV Relics Awakened: 100/100
+|ss4=Home Decor Inc, Series C Decor Coin Dividend +10%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +15<br>Per 5 CIV Relics awakened, Snail ATK +21<br>CIV Relics Awakened: 100/100
+|ss5=Home Decor Inc, Series C Decor Coin Dividend +12%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +21<br>Per 5 CIV Relics awakened, Snail ATK +27<br>CIV Relics Awakened: 100/100
+|ss6=Home Decor Inc, Series C Decor Coin Dividend +15%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 5 CIV Relics awakened, Snail ATK +36<br>CIV Relics Awakened: 100/100
+|ss7=Home Decor Inc, Series C Decor Coin Dividend +15%<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 5 CIV Relics awakened, Snail ATK +36<br>CIV Relics Awakened: 100/100<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30 (Awakened)
+|skill1=[[File:Murika skill III.png|50px]]Place in Murikan Museum: Medal Output +30
+|skill2=[[File:Murika skill III.png|50px]]Place in Murikan Museum: B-tads gained +3000
+|skill3=[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's CIV +15
+|mirage={{Mirage|name=Muse's Favor|reward={{RewardIconWithLink|Decor Coin, +20|orange}}
+|3name=Muse Silver Award|3rec=88.57M|3atk=252582|3defense=168507|3hp=15895324|3weak=32458
+|4name=Muse Gold Award|4rec=120.20M|4atk=319289|4defense=213010|4hp=23777208|4weak=37453
+|5name=Muse Platinum Award|5rec=157.34M|5atk=397601|5defense=265255|5hp=34103105|5weak=43275
+|6name=Design of the Year Award|6rec=200.47M|6atk=488575|6defense=325948|6hp=48212403|6weak=50116
+|Arec=258.99M|Aatk=592926|Adefense=395564|Ahp=66516883|Aweak=56690
+}}}}

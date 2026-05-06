@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Seated Mazu Statue
+|class_id=20239
+|rank=Green
+|affct=FAITH
+|source=
+|description=The statue was produced at the Dehua Kiln in China, 33.2 cm in height, with a white glaze, smooth and bright. It depicts an image of loving Matsu in full dress that wears a beaded crown. Matsu is a fictional figure in the coastal regions in China, initially seen as the guardian of seafarers, later an almighty goddess who would rescue the suffering, respected by all China folks.
+|fame=18
+|art=14
+|fth=30
+|civ=15
+|tech=13
+|ss1=B-tad rewards from offering +0.4%
+|ss2=B-tad rewards from offering +0.8%
+|ss3=B-tad rewards from offering +1.2%
+|ss4=B-tad rewards from offering +1.2%
+|ss7=B-tad rewards from offering +1.2%<br> (Awakened)
+}}

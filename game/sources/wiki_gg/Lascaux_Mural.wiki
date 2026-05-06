@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Lascaux Mural
+|class_id=20156
+|rank=Green
+|affct=ART
+|source=
+|description=Lascaux murals, located in Dordogne state in the southwest of France, are the earliest murals in the history of human art dating back to 17,000 years ago. The entire cave is composed of a promenade, which is decorated with 1,500 rock carvings and hundreds of paintings, recording the images of about 100 kinds of animals. These detailed, colorful, and lifelike murals are known as the Prehistoric Louvre.
+|fame=13
+|art=26
+|fth=15
+|civ=17
+|tech=17
+|ss1=Snail ATK +20<br>When you share Selected Illustrations the 1st time each month, Lottery Tickets +1
+|ss2=Snail ATK +30<br>When you share Selected Illustrations the 1st time each month, Lottery Tickets +1
+|ss3=Snail ATK +40<br>When you share Selected Illustrations the 1st time each month, Lottery Tickets +1
+|ss4=Snail ATK +40<br>When you share Selected Illustrations the 1st time each month, Lottery Tickets +1
+|ss7=Snail ATK +40<br>When you share Selected Illustrations the 1st time each month, Lottery Tickets +1<br> (Awakened)
+}}

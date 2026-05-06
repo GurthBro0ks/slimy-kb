@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Throne of Pope,Sleeping Gypsy,Pumpkin Coach,Penicillin Sample,Faraday's Dynamo
+|rank=blue
+|amount=5
+|category=Other
+|description=Lottery Green Beads turn to Blue by +1.6%
+}}
+[[Category:Other]]
+[[Category:Lottery Bead Color Change]]

@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Golden Ball
+|class_id=20242
+|rank=Green
+|affct=FAITH
+|source=
+|description=This golden elastic ball smells strange and fragrant like a living thing. It's, in fact, the essence of hundreds of super dung beetles' remains. However, its composition and function remain a mystery...
+|fame=14
+|art=15
+|fth=31
+|civ=13
+|tech=17
+|ss1=Against Dung Beetles, Troop Casualty -1%
+|ss2=Against Dung Beetles, Troop Casualty -2%
+|ss3=Against Dung Beetles, Troop Casualty -3%
+|ss4=Against Dung Beetles, Troop Casualty -3%
+|ss7=Against Dung Beetles, Troop Casualty -3%<br> (Awakened)
+}}

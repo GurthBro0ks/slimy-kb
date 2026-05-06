@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Talmud
+|class_id=22289
+|rank=SSS
+|affct=FAITH
+|birthday=11-11
+|source=
+|description=On Nov 11, 308 AD, the Talmud was first compiled into a book.<br>The Talmud is an important text of Rabbinic Judaism. Written in Mishnaic Hebrew, it records various contents such as Jewish laws, customs, and ceremonies. It also contains a large number of topics on history, folklore, astronomy, geography, medicine, etc. It was foundational to all Jewish thought and aspirations and became the primary source of Jewish religious law that had been passed down from generation to generation.
+|fame=65
+|art=66
+|fth=109
+|civ=51
+|tech=71
+|ss1=Snail ATK +30<br>When offering, 2x Order Chest Drops +3%<br>Per 10 Altar God Descents, Snail ATK +6<br>Gods Descended: 400/400
+|ss2=Snail ATK +40<br>When offering, 2x Order Chest Drops +4%<br>Per 10 Altar God Descents, Snail ATK +8<br>Gods Descended: 400/400
+|ss3=Snail ATK +50<br>When offering, 2x Order Chest Drops +5%<br>Per 10 Altar God Descents, Snail ATK +10<br>Gods Descended: 400/400
+|ss4=Snail ATK +70<br>When offering, 2x Order Chest Drops +7%<br>Per 10 Altar God Descents, Snail ATK +14<br>Gods Descended: 400/400
+|ss5=Snail ATK +90<br>When offering, 2x Order Chest Drops +9%<br>Per 10 Altar God Descents, Snail ATK +18<br>Gods Descended: 400/400
+|ss6=Snail ATK +120<br>When offering, 2x Order Chest Drops +12%<br>Per 10 Altar God Descents, Snail ATK +24<br>Gods Descended: 400/400
+|ss7=Snail ATK +120<br>When offering, 2x Order Chest Drops +12%<br>Per 10 Altar God Descents, Snail ATK +24<br>Gods Descended: 400/400<br>Snail ATK +100 (Awakened)
+|skill1=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: This Relic's FTH +15
+|skill2=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop ATK +9%
+|skill3=[[File:Minion Sim skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop Fire DMG +60
+|mirage={{Mirage|name=Jewish Prophet|reward={{RewardIconWithLink|Incense, +3|orange}}
+|3name=Amos|3rec=85.93M|3atk=247025|3defense=164800|3hp=15205124|3weak=31983
+|4name=Hosea|4rec=115.81M|4atk=310022|4defense=206828|4hp=22669283|4weak=36993
+|5name=Isaiah|5rec=150.73M|5atk=383675|5defense=255965|5hp=32286684|5weak=43188
+|6name=Micah|6rec=191.26M|6atk=469138|6defense=312981|6hp=44957184|6weak=50608
+|Arec=240.34M|Aatk=567773|Adefense=378784|Ahp=61818932|Aweak=53220
+}}}}

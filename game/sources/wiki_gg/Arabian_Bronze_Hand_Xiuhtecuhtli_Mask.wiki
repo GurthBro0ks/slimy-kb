@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=401
+|relics=Arabian Bronze Hand,Xiuhtecuhtli Mask
+|rank=purple
+|amount=2
+|category=self
+|description=Zombie Minion HP +6%
+}}

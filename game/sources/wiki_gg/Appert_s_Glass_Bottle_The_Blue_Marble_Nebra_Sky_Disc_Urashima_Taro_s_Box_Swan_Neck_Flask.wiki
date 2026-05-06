@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=369
+|relics=Appert's Glass Bottle,The Blue Marble,Nebra Sky Disc,Urashima Taro's Box,Swan Neck Flask
+|rank=blue
+|amount=5
+|category=self
+|description=Novice Scrolls drop +1 Blue Reagent by +8%
+}}

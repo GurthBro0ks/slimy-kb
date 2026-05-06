@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Gefjon's Plough
+|class_id=22063
+|rank=Blue
+|affct=FAITH
+|birthday=07-23
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jul 23, 1600 BC, the King of Sweden permitted Gefjon to use this plow to reclaim the wasteland.<br>This simple ox plow is associated with the female Godhood Gefjon, who, according to legend, came to the world as a witch. She dated the King of Sweden and requested some land. After receiving a full day's right to plow, she turned her four sons into oxen to pull the plow and moved this large piece of land from Sweden to Denmark. Malaren and Zeeland islands were thus formed.
+|fame=26
+|art=33
+|fth=48
+|civ=19
+|tech=28
+|ss1=Per God of Faith Descent, Snail ATK +1<br>God of Faith Descended: 40/40
+|ss2=Per God of Faith Descent, Snail ATK +2<br>God of Faith Descended: 40/40
+|ss3=Per God of Faith Descent, Snail ATK +3<br>God of Faith Descended: 40/40
+|ss4=Per God of Faith Descent, Snail ATK +5<br>God of Faith Descended: 40/40
+|ss7=Per God of Faith Descent, Snail ATK +5<br>God of Faith Descended: 40/40<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Surfclam skill I.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion ATK +1.5%
+}}

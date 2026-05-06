@@ -1,0 +1,11 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Three Laws of Robotics,The Card Players,Ugarit Tablets,Celtic Bronze Plaque Engraving,The Peony Pavilion,The Great Learning
+|rank=orange
+|amount=6
+|category=minion
+|description=All Demon Minion Skins, HARD Stats +120%
+}}
+[[Category:Minion]]
+[[Category:Demon Minion HARD Boost]]
+[[Category:Minion Skin Boost]]

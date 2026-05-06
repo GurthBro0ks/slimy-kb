@@ -1,0 +1,26 @@
+<span style="color:#03bd00;">Green</span> <br>
+<span style="color:#00aacc;">Blue</span> <br>
+<span style="color:#bf4d9e;">Purple</span> <br>
+<span style="color:#d98000;">Orange</span> 
+
+{|class=wikitable
+|Pyramid
+|Ankh<br>Meal Box Size +3,000<br>Travel Speedup +100m
+|}
+
+{|class=wikitable
+|nito
+|ankh<br>Meal Box Size +500, Ma'at Tablet Frag[[File:DOI.png|20px]]<br>Travel Speedup +3h[[File:SDI.png|20px]]
+|}
+
+{|class="wikitable"
+!<span style="color:#03bd00;">Green</span>
+!<span style="color:#00aacc;">Blue</span>
+!<span style="color:#bf4d9e;">Purple</span>
+!<span style="color:#d98000;">Orange</span> 
+|-
+|<span style="color:#03bd00;">Green</span>
+|<span style="color:#00aacc;">Blue</span>
+|<span style="color:#bf4d9e;">Purple</span>
+|<span style="color:#d98000;">Orange</span> 
+|}

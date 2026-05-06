@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=182
+|relics=Mummy of Ramesses,Ark of Covenant
+|rank=orange
+|amount=2
+|category=self
+|description=Zombie Gene research Cell cost -4.2%
+}}

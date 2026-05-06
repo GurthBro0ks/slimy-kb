@@ -1,0 +1,35 @@
+{{CargoRelic
+|name=1982 Wine
+|rank=Blue
+|affct=CIV
+|birthday=10-16
+|source=Lottery Machine (0.03%), Wishing (0.82%)
+|description=On Oct 16, 1982, the most classic wine in French history was brewed.
+
+France harvested grapes of the best quality this year, so the Bordeaux Chateau got to produce the best wine in recent years. 1982 Lafite gradually became one of the most popular wines of the next century. Today, many brands have followed suit and launched the 1982 series, such as the 1982 Milk, 1982 Soda, 1982 Sprite, etc.
+
+[Info]
+
+Region: Chateau Lafite Rothschild, France. Grade: AOC. Harvest Year: 1982. Alcohool: 13.5% Vol. Grape type: Grenace, Carignan, and Mataro. Ingredients: Water, alcohol, acidity, glycerin, sugar, phenols, minerals, alcohol, aldehydes, and esters, etc.
+|fame=33
+|art=26
+|fth=23
+|civ=47
+|tech=25
+|ss1=Per 4 Whale Gift Packs claimed, Snail ATK +2<br>Whale Gift Packs Claimed: 40/40
+|ss2=Per 4 Whale Gift Packs claimed, Snail ATK +4<br>Whale Gift Packs Claimed: 40/40
+|ss3=Per 4 Whale Gift Packs claimed, Snail ATK +6<br>Whale Gift Packs Claimed: 40/40
+|ss4=Per 4 Whale Gift Packs claimed, Snail ATK +10<br>Whale Gift Packs Claimed: 40/40
+|ss7=Per 4 Whale Gift Packs claimed, Snail ATK +10<br>Whale Gift Packs Claimed: 40/40<br>Snail ATK +50 (Awakened)
+|skill1=[[File:Arena skill I.png|50px]] Place in Snail Arena Compass: In Snail Arena, this Relic's CIV +5
+}}
+
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:CIV Relics]]
+[[Category:Blue CIV Relics]]
+[[Category:HP Boost]]
+[[Category:DEF Boost]]
+[[Category:ATK Boost]]
+[[Category:Snail Arena Compass Boost]]
+[[Category:Baby Bud Boost]]

@@ -1,0 +1,20 @@
+{{CargoOrgan
+|name=Excised Sternum
+|type=Common
+|rank=red
+|id=10919
+|idx=130
+|description=This ribcage belonged to a genious isekai protagonist, its engraved runes enabling ludicrous evolution speed. Until a jealous little brother performed some... unauthorized surgery.
+|skill=
+|hp=1870
+|def=367
+|atk=277
+|rush=239
+|gene1=Wind DMG +120
+|gene2=In explorations, {race} ATK +100
+|gene3=In explorations, {race} RUSH +100
+|gene4=In explorations, CRIT +20%
+|gene5=Break RES +4%
+|gene6=Earth DMG +120
+|gene7=Break RES +4% (Awakened)
+|}}

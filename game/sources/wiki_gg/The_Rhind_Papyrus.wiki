@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=The Rhind Papyrus
+|class_id=22602
+|rank=AAA
+|affct=TECH
+|birthday=10-03
+|source=Lottery Machine No.3 (0.06%)
+|description=On Oct 3, 1885 AD, British archaeologist Rhind purchased a batch of papyri on the banks of the Nile in a small town.<br>The Rhind Mathematical Papyrus is a long, rectangular sheet of paper written about 1,000 years before the Common Era and is the oldest mathematical book in the world. It is about five meters long and thirty-three centimeters wide, covered with dense hieroglyphic writing, and contains the solution methods for more than eighty mathematical problems. The arithmetic section records calculation problems related to decimal and fraction operations, as well as problems related to linear equations and geometric sequences. The geometry section records the calculation methods and results for the estimation of pi, as well as calculation methods for the area of triangles and the volume of spheres.
+|fame=46
+|art=35
+|fth=51
+|civ=40
+|tech=71
+|ss1=Snail ATK +30<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +24<br>Consumed Recruit Tokens: 5000/5000
+|ss2=Snail ATK +40<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +32<br>Consumed Recruit Tokens: 5000/5000
+|ss3=Snail ATK +50<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +40<br>Consumed Recruit Tokens: 5000/5000
+|ss4=Snail ATK +70<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +56<br>Consumed Recruit Tokens: 5000/5000
+|ss5=Snail ATK +90<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +72<br>Consumed Recruit Tokens: 5000/5000
+|ss7=Snail ATK +90<br>Per 100 Recruit Tokens consumed, Priest-Troop Assistance DMG +72<br>Consumed Recruit Tokens: 5000/5000<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Desertsanctum skill II.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Cap +15%
+|skill2=[[File:Desertsanctum skill II.png|50px]]Place in Desert Sanctum: This Relic's TECH +10
+}}

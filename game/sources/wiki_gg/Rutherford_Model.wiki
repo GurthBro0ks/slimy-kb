@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Rutherford Model
+|class_id=22332
+|rank=SS
+|affct=TECH
+|birthday=03-16
+|source=Lottery Machine No.2 (0.21%), Wishing (0.79%)
+|description=On Mar 16, 1911 AD, Rutherford officially proposed his atomic model.<br>Rutherford, a physicist born in New Zealand, developed this model to describe the structure of an atom. His model proposed that the atom consists of a central charge (a positively charged nucleus) surrounded by negatively charged electrons orbiting in a cloud. The stable motion of the atom results from the interaction forces between these charges. This model provided a new perspective on atomic structure research and laid a solid foundation for future advancements in atomic science.
+|fame=61
+|art=49
+|fth=73
+|civ=62
+|tech=102
+|ss1=Snail DEF +20<br>In the Demon God Rocket Cabin:<br>> Particle Accelerator Base Effect +16%<br>In the Gaia Rocket Cabin:<br>> Gamma Ray Base Effect +16%
+|ss2=Snail DEF +30<br>In the Demon God Rocket Cabin:<br>> Particle Accelerator Base Effect +24%<br>In the Gaia Rocket Cabin:<br>> Gamma Ray Base Effect +24%
+|ss3=Snail DEF +40<br>In the Demon God Rocket Cabin:<br>> Particle Accelerator Base Effect +32%<br>In the Gaia Rocket Cabin:<br>> Gamma Ray Base Effect +32%
+|ss4=Snail DEF +60<br>In the Demon God Rocket Cabin:<br>> Particle Accelerator Base Effect +48%<br>In the Gaia Rocket Cabin:<br>> Gamma Ray Base Effect +48%
+|ss5=Snail DEF +80<br>In the Demon God Rocket Cabin:<br>> Particle Accelerator Base Effect +64%<br>In the Gaia Rocket Cabin:<br>> Gamma Ray Base Effect +64%
+|ss6=Snail DEF +110<br>In the Demon God Rocket Cabin:<br>> Particle Accelerator Base Effect +88%<br>In the Gaia Rocket Cabin:<br>> Gamma Ray Base Effect +88%
+|ss7=Snail DEF +110<br>In the Demon God Rocket Cabin:<br>> Particle Accelerator Base Effect +88%<br>In the Gaia Rocket Cabin:<br>> Gamma Ray Base Effect +88%<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +120 each round
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Mecha Cells gained +15%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail RUSH +600
+|mirage={{Mirage|name=History of Atomic Models|reward={{RewardIconWithLink|Gene Speedup, +28800|orange}}
+|3name=Dynamic Atomic Model|3rec=27.24M|3atk=123250|3defense=82225|3hp=4395927|3weak=18675
+|4name=Thomson Model|4rec=41.94M|4atk=154249|4defense=102905|4hp=6693119|4weak=20307
+|5name=Saturn Model|5rec=59.47M|5atk=191224|5defense=127573|5hp=9632191|5weak=23646
+|Arec=78.78M|Aatk=231934|Adefense=154732|Ahp=13718566|Aweak=30674
+}}}}

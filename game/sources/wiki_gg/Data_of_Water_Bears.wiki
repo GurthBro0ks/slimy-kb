@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Data of Water Bears
+|class_id=20396
+|rank=Green
+|affct=TECH
+|source=
+|description=The data of the water bear comprehensively documents the genetic coding from low-ranking to high-ranking water bears. Their appearance is smooth and lustrous like jade, with an outer layer that envelops them in nanoscale shields resembling glistening water droplets. They can sense and absorb external energy attacks, converting them into their own barriers.
+|fame=17
+|art=13
+|fth=11
+|civ=18
+|tech=31
+|ss1=Minion MAX +10<br>Per Species Map entry completed, Snail DEF +1<br>Species Map Entries: 60/60
+|ss2=Minion MAX +15<br>Per Species Map entry completed, Snail DEF +2<br>Species Map Entries: 60/60
+|ss3=Minion MAX +20<br>Per Species Map entry completed, Snail DEF +3<br>Species Map Entries: 60/60
+|ss4=Minion MAX +20<br>Per Species Map entry completed, Snail DEF +3<br>Species Map Entries: 60/60
+|ss7=Minion MAX +20<br>Per Species Map entry completed, Snail DEF +3<br>Species Map Entries: 60/60<br> (Awakened)
+}}

@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Onmyoji's Pentagram
+|class_id=22442
+|rank=Blue
+|affct=FAITH
+|birthday=01-08
+|source=Lottery Machine No.3 (0.25%)
+|description=On Jan 8, 967 AD, Abe no Seimei created a Yin-Yang Taoism seal.<br>Seimei Kikyo Seal is a kind of prayer seal in Yin-Yang Taoism created by the famous Onmyoji Abe no Seimei. It is named after its similar shape to the bellflower. Its pentagram shape symbolizes the five elements, and because it can be drawn in one stroke, it is also considered a symbol of a barrier that can seal evil spirits within.
+|fame=22
+|art=34
+|fth=44
+|civ=23
+|tech=31
+|ss1=Per 3 basic fusions, Snail DEF +1<br>Basic Fusions: 150/150
+|ss2=Per 3 basic fusions, Snail DEF +2<br>Basic Fusions: 150/150
+|ss3=Per 3 basic fusions, Snail DEF +3<br>Basic Fusions: 150/150
+|ss4=Per 3 basic fusions, Snail DEF +5<br>Basic Fusions: 150/150
+|ss7=Per 3 basic fusions, Snail DEF +5<br>Basic Fusions: 150/150<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Yamato skill I.png|50px]]Place in Yamato Museum: In Yamato, Snail ATK +20
+}}

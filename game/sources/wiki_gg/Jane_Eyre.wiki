@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Jane Eyre
+|class_id=22169
+|rank=A
+|affct=CIV
+|birthday=01-04
+|source=Lottery Machine No.2 (0.55%), Wishing (0.15%)
+|description=On Jan 4, 1847 AD, Charlotte finished writing Jane Eyre and began her final edits.<br>Jane Eyre is a semi-autobiographical novel by British author Charlotte Bronte. It tells the story of Jane, whose parents died when she was young, as she experiences the ups and downs of the orphanage and school life. She ends up marrying her lover, Rochester. Charlotte's description of Jane's life depicted the image of a woman who's restless with the status quo, dares to fight, and always follows higher spiritual pursuits.
+|fame=41
+|art=36
+|fth=40
+|civ=65
+|tech=31
+|ss1=Per 8 Museum Promos, Snail ATK +1<br>Per 8 Museum Promos, Snail DEF +1<br>Museum Promos: 400/400
+|ss2=Per 8 Museum Promos, Snail ATK +2<br>Per 8 Museum Promos, Snail DEF +2<br>Museum Promos: 400/400
+|ss3=Per 8 Museum Promos, Snail ATK +3<br>Per 8 Museum Promos, Snail DEF +3<br>Museum Promos: 400/400
+|ss4=Per 8 Museum Promos, Snail ATK +5<br>Per 8 Museum Promos, Snail DEF +5<br>Museum Promos: 400/400
+|ss5=Per 8 Museum Promos, Snail ATK +7<br>Per 8 Museum Promos, Snail DEF +7<br>Museum Promos: 400/400
+|ss7=Per 8 Museum Promos, Snail ATK +7<br>Per 8 Museum Promos, Snail DEF +7<br>Museum Promos: 400/400<br>Snail ATK +70 (Awakened)
+|skill1=[[File:Fungusfarm skill II.png|50px]]Place in Fungus Farm: Fungus Output +15%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, food consumed -2%
+}}

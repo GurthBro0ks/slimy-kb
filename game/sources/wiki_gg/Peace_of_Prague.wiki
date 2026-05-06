@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Peace of Prague
+|class_id=22401
+|rank=Blue
+|affct=FAME
+|birthday=07-03
+|source=Lottery Machine No.3 (0.25%)
+|description=On 23 August 1866, Austria AD, which suffered a devastating defeat in the war, signed the Peace of Prague with Prussia.<br>Prussia sent troops to Holstein, Austria, to unify Germany, which triggered the seven-week-long war. The Prussian army won a major victory, and Prime Minister Bismarck's decision led to a lenient peace agreement with Austria. This agreement allowed Prussia to gain a lot of land while also maintaining good relations with Austria. It provided a favorable environment for Prussia to achieve the ultimate goal of German unification.
+|fame=46
+|art=22
+|fth=23
+|civ=29
+|tech=34
+|ss1=Rebel Cabin, deployable robots +1
+|ss2=Rebel Cabin, deployable robots +2
+|ss3=Rebel Cabin, deployable robots +3
+|ss4=Rebel Cabin, deployable robots +5
+|ss7=Rebel Cabin, deployable robots +5<br>Rebel Cabin, deployable robots +5 (Awakened)
+|skill1=[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +10
+}}

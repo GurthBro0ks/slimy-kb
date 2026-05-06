@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=363
+|relics=Sampo,First World Cup Ticket,Aulos Pipe,Pavlov's Bell
+|rank=blue
+|amount=4
+|category=self
+|description=Per 10 Dragon Minions in battle: Troop HP +70
+}}

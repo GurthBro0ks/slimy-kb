@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Qin Bronze Chariot,Four-goat Square Zun,Murder of Roger,Remains of Sipán Lord,Akashic Records,Nuada's Silver Arm
+|rank=orange
+|amount=6
+|category=self
+|description=Per Orange Brand Cases opened, Snail ATK +12; Orange Brand Cases Opened: 50/50
+}}
+[[Category:Self]]
+[[Category:ATK Boost]]

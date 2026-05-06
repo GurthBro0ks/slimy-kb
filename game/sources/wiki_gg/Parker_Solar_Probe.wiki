@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Parker Solar Probe
+|class_id=22339
+|rank=SSS
+|affct=TECH
+|birthday=08-12
+|source=Lottery Machine No.2 (0.11%)
+|description=On Aug 12, 2018 AD, the Parker Solar Probe was launched with the mission of observing the sun.<br>The Parker Solar Probe is named after Professor Parker, a pioneer in solar wind research. It is the first spacecraft to enter the low solar corona. The spacecraft, which is protected by a reinforced carbon-carbon composite, can withstand temperatures of nearly 1400 degrees. The probe's numerous observational tools have collected a large amount of valuable data, which has advanced our understanding of the solar wind's origin and accelerated the development of high energy physics.
+|fame=63
+|art=52
+|fth=74
+|civ=64
+|tech=109
+|ss1=Snail DEF +30<br>In the Gaia Rocket Cabin:<br>> All device base effects +3%<br>Per 10 Wormhole Refines, Snail DEF +3<br>Wormhole Refines: 500/500
+|ss2=Snail DEF +40<br>In the Gaia Rocket Cabin:<br>> All device base effects +4%<br>Per 10 Wormhole Refines, Snail DEF +4<br>Wormhole Refines: 500/500
+|ss3=Snail DEF +50<br>In the Gaia Rocket Cabin:<br>> All device base effects +5%<br>Per 10 Wormhole Refines, Snail DEF +5<br>Wormhole Refines: 500/500
+|ss4=Snail DEF +70<br>In the Gaia Rocket Cabin:<br>> All device base effects +7%<br>Per 10 Wormhole Refines, Snail DEF +7<br>Wormhole Refines: 500/500
+|ss5=Snail DEF +90<br>In the Gaia Rocket Cabin:<br>> All device base effects +9%<br>Per 10 Wormhole Refines, Snail DEF +9<br>Wormhole Refines: 500/500
+|ss6=Snail DEF +120<br>In the Gaia Rocket Cabin:<br>> All device base effects +12%<br>Per 10 Wormhole Refines, Snail DEF +12<br>Wormhole Refines: 500/500
+|ss7=Snail DEF +120<br>In the Gaia Rocket Cabin:<br>> All device base effects +12%<br>Per 10 Wormhole Refines, Snail DEF +12<br>Wormhole Refines: 500/500<br>Snail DEF +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Mecha Cells gained +15%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail RUSH +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Reagent Drops +6%
+|mirage={{Mirage|name=Days with the Sun|reward={{RewardIconWithLink|Refine Speedup, +28800|orange}}
+|3name=Solar Sailboard|3rec=28.54M|3atk=125993|3defense=84055|3hp=4612161|3weak=18800
+|4name=Cooling System|4rec=39.50M|4atk=149089|4defense=99463|4hp=6300895|4weak=19888
+|5name=Particle Detector|5rec=51.71M|5atk=174859|5defense=116655|5hp=8374480|5weak=22062
+|6name=Solar Wind Imager|6rec=65.53M|6atk=203991|6defense=136090|6hp=11009137|6weak=26391
+|Arec=80.73M|Aatk=236050|Adefense=157478|Ahp=14212077|Aweak=31027
+}}}}

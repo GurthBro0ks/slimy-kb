@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Elijah
+|class_id=22434
+|rank=Blue
+|affct=ART
+|birthday=12-10
+|source=Lottery Machine No.3 (0.03%)
+|description=On Dec 10, 1845 AD, Mendelssohn began the creation of the oratorio Elijah.<br>This opera is one of the masterpieces of the famous composer Mendelssohn. The author imitated the composing styles of two great masters, Bach and Handel, and created this oratorio based on the story of the prophet Elijah in the Books of Kings. After its premiere, the work received widespread acclaim and was frequently performed in English-speaking countries, becoming a classic of its generation.
+|fame=22
+|art=46
+|fth=30
+|civ=30
+|tech=26
+|ss1=Tribal Follower output +2%
+|ss2=Tribal Follower output +4%
+|ss3=Tribal Follower output +6%
+|ss4=Tribal Follower output +10%
+|ss7=Tribal Follower output +10%<br>Tribal Follower output +10% (Awakened)
+|skill1=[[File:Frostsanctum skill I.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +5%
+}}

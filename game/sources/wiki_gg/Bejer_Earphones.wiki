@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Bejer Earphones
+|class_id=22405
+|rank=Blue
+|affct=FAME
+|birthday=04-23
+|source=Lottery Machine No.3 (0.06%)
+|description=On Apr 23, 1924 AD, Bejer invented his first headphone products.<br>During Bejer's lifetime, loudspeakers were mainly used in movie theaters and other venues. He tried to find a way to deliver sound directly to people's ears, which led him to study loudspeakers. Eventually, he created the first headphones by greatly reducing their size and adding a fixing set. Although they were still bulky and produced significant electrical current noise, making it impossible to play high-quality music, they had an epoch-making significance as the first invention that allowed people to enjoy music in private.
+|fame=48
+|art=24
+|fth=23
+|civ=25
+|tech=34
+|ss1=Per 3 Hidden Treasures claimed, Snail DEF +1<br>Hidden Treasures Claimed: 150/150
+|ss2=Per 3 Hidden Treasures claimed, Snail DEF +2<br>Hidden Treasures Claimed: 150/150
+|ss3=Per 3 Hidden Treasures claimed, Snail DEF +3<br>Hidden Treasures Claimed: 150/150
+|ss4=Per 3 Hidden Treasures claimed, Snail DEF +5<br>Hidden Treasures Claimed: 150/150
+|ss7=Per 3 Hidden Treasures claimed, Snail DEF +5<br>Hidden Treasures Claimed: 150/150<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Mantis skill I.png|50px]]Place in Mantis Biozilla: In Species War, Troop Earth DMG +10
+}}

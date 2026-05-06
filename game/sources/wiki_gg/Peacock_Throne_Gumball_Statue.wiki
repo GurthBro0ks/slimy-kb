@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=279
+|relics=Peacock Throne,Gumball Statue
+|rank=purple
+|amount=2
+|category=self
+|description=Master Scrolls gained from VIP Gold Card +1
+}}

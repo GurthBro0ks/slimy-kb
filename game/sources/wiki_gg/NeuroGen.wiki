@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=NeuroGen
+|class_id=20859
+|rank=Green
+|affct=TECH
+|source=
+|description=This is a groundbreaking drug developed by Super Gene Bioengineering Corporation for the treatment of Alzheimer's disease in humans. During the animal testing phase, the drug was administered to chimpanzees. The results indicated that the experimental female chimpanzees experienced a significant increase in intelligence, and this enhanced cognitive effect was inheritable by their offspring.
+|fame=17
+|art=18
+|fth=17
+|civ=12
+|tech=26
+|ss1=Snail DEF +10<br>Per 20 Research Manuals used, Snail ATK +4<br>Research Manuals Used: 300/300
+|ss2=Snail DEF +20<br>Per 20 Research Manuals used, Snail ATK +6<br>Research Manuals Used: 300/300
+|ss3=Snail DEF +30<br>Per 20 Research Manuals used, Snail ATK +8<br>Research Manuals Used: 300/300
+|ss4=Snail DEF +30<br>Per 20 Research Manuals used, Snail ATK +8<br>Research Manuals Used: 300/300
+|ss7=Snail DEF +30<br>Per 20 Research Manuals used, Snail ATK +8<br>Research Manuals Used: 300/300<br> (Awakened)
+}}

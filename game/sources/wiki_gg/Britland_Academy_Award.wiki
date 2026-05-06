@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Britland Academy Award
+|class_id=20068
+|rank=Green
+|affct=CIV
+|source=
+|description=The award was originally given by the Britland Film Academy to domestic and foreign films performed by actors and actresses from Britland. However, in recent years, any film officially released in Britland can also be nominated, and the award became available to films from all over the world.
+|fame=12
+|art=15
+|fth=18
+|civ=30
+|tech=15
+|ss1=Per 10 Minions in battle:<br>> Troop HARD Stats +1
+|ss2=Per 10 Minions in battle:<br>> Troop HARD Stats +2
+|ss3=Per 10 Minions in battle:<br>> Troop HARD Stats +3
+|ss4=Per 10 Minions in battle:<br>> Troop HARD Stats +3
+|ss7=Per 10 Minions in battle:<br>> Troop HARD Stats +3<br> (Awakened)
+}}

@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=326
+|relics=Aulos Pipe,Brisingamen
+|rank=blue
+|amount=2
+|category=self
+|description=Per 5 Blue Relics gained, Snail DEF +15;Blue Relics: 180/180
+}}

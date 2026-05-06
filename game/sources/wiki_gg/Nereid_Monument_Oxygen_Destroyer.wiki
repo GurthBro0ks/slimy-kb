@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Nereid Monument,Oxygen Destroyer
+|rank=orange
+|amount=2
+|category=self
+|description=Per 100 Hellas Soul Reforged, Snail Bedrock Power +7; Hellas Soul Nail Reforged: 6,000/6,000
+}}
+[[Category:Self]]
+[[Category:Bedrock Power Boost]]

@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Ore Refinement Station
+|class_id=20852
+|rank=Green
+|affct=TECH
+|source=
+|description=Revolutionary!
+Faster ore processing
+Doubles as a shelter (if your definition includes screaming into reinforced steel)
+FDA-approved for creating workplace grievances
+|fame=18
+|art=16
+|fth=14
+|civ=13
+|tech=29
+|ss1=prop@56033_2<br>prop@56034_2
+|ss2=prop@56033_2<br>prop@56034_2
+|ss3=prop@56033_2<br>prop@56034_2
+|ss4=prop@56033_2<br>prop@56034_2
+|ss7=prop@56033_2<br>prop@56034_2<br> (Awakened)
+}}

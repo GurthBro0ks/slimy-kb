@@ -1,0 +1,39 @@
+
+{{CargoRelic
+|name=Nobel's Will
+|rank=SSS
+|affct=FAME
+|birthday=09-08
+|source=* Grandmaster Scrolls (0.79%), Lottery Machine (0.09%), Wishing (0.08%)
+* [[Weekly_Events_History#Lottery_Week|Lottery Event]] 9/22/2023 - 9/28/2023
+|description=On Sep 8, 1895 AD, Nobel left this will which promoted the world's development.
+
+Nobel rejoiced at the news that his family's factory went bankrupt because it meant that he could fully engage in explosives research. Five years later, a massive explosion destroyed his factory and took his brother's life. In the following three years, his explosives were purchased by various countries, bringing Nobel wealth. But he found that wealth did not bring him happiness. Ultimately, Nobel used all of his wealth to create the Nobel Prize to reward those who had made outstanding contributions to humanity.
+|fame=108
+|art=70
+|fth=66
+|civ=67
+|tech=51
+|ss1=When in Zombie Form: Gain +3% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +9<br>Per 60 Zombie Minions in battle, Troop RUSH +9
+|ss2=When in Zombie Form: Gain +4% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +18<br>Per 60 Zombie Minions in battle, Troop RUSH +18
+|ss3=When in Zombie Form: Gain +5% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +27<br>Per 60 Zombie Minions in battle, Troop RUSH +27
+|ss4=When in Zombie Form: Gain +7% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +45<br>Per 60 Zombie Minions in battle, Troop RUSH +45
+|ss5=When in Zombie Form: Gain +9% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +63<br>Per 60 Zombie Minions in battle, Troop RUSH +63
+|ss6=When in Zombie Form: Gain +12% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +90<br>Per 60 Zombie Minions in battle, Troop RUSH +90
+|ss7=When in Zombie Form: Gain +12% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +90<br>Per 60 Zombie Minions in battle, Troop RUSH +90<br>Per 60 Zombie Minions in battle, Troop ATK +90 (Awakened)
+|skill1=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: This Relic's FAME +15
+|skill2=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Lumber Camp Max +30%
+|skill3=[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Wood Output +30%
+|mirage={{#invoke:snailDB|parseMirage|Nobel's Will}}
+}}
+
+[[Category:Zombie Cell Drop Boost]]
+[[Category:Exploration Cell Drop Boost]]
+[[Category:Zombie Minion ATK Boost]]
+[[Category:Zombie Minion RUSH Boost]]
+[[Category:Lumber Camp Skill]]
+[[Category:FAME Boost]]
+[[Category:Lumber Camp Output Boost]]
+[[Category:Divine Neutral Chest Drop Boost]]
+[[Category:Wishing Boost]]
+[[Category:Taichi Fish Output]]

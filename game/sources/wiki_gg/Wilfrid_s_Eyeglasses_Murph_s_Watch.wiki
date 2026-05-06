@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=613
+|relics=Wilfrid's Eyeglasses,Murph's Watch
+|rank=blue
+|amount=2
+|category=self
+|description=Forest Sanctum, Glorium Output +10%
+}}

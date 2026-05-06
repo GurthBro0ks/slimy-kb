@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=420
+|relics=Galton Board,DNA Microarray
+|rank=purple
+|amount=2
+|category=self
+|description=Mecha Minion HP +6%
+}}

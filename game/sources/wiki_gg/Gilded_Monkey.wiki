@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Gilded Monkey
+|class_id=22922
+|rank=SSS
+|affct=CIV
+|source=
+|description=An alloy-crafted, gold-plated monkey statue, produced concurrently with the Golden Monkey statue, boasts a one-to-one perfect replica in appearance. Despite lacking some commemorative value, it is still an exquisite piece of craftsmanship!
+|fame=72
+|art=68
+|fth=59
+|civ=107
+|tech=56
+|ss1=Snail Leadership +6<br>Per 1.5k Tadpole Points, Snail ATK +9<br>Per 1.5k Tadpole Points, Snail DEF +9<br>Tadpole Points: 45000/45000
+|ss2=Snail Leadership +7<br>Per 1.5k Tadpole Points, Snail ATK +12<br>Per 1.5k Tadpole Points, Snail DEF +12<br>Tadpole Points: 45000/45000
+|ss3=Snail Leadership +8<br>Per 1.5k Tadpole Points, Snail ATK +15<br>Per 1.5k Tadpole Points, Snail DEF +15<br>Tadpole Points: 45000/45000
+|ss4=Snail Leadership +10<br>Per 1.5k Tadpole Points, Snail ATK +21<br>Per 1.5k Tadpole Points, Snail DEF +21<br>Tadpole Points: 45000/45000
+|ss5=Snail Leadership +12<br>Per 1.5k Tadpole Points, Snail ATK +27<br>Per 1.5k Tadpole Points, Snail DEF +27<br>Tadpole Points: 45000/45000
+|ss6=Snail Leadership +15<br>Per 1.5k Tadpole Points, Snail ATK +36<br>Per 1.5k Tadpole Points, Snail DEF +36<br>Tadpole Points: 45000/45000
+|ss7=Snail Leadership +15<br>Per 1.5k Tadpole Points, Snail ATK +36<br>Per 1.5k Tadpole Points, Snail DEF +36<br>Tadpole Points: 45000/45000<br>Snail Leadership +10 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, CRIT DMG +15%
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, B-tads gained +15%
+|skill3=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, INTEL gained +15%
+|mirage={{Mirage|name=Shining Monkey|reward={{RewardIconWithLink|Relic RF, +15|orange}}
+|3name=Lead-plated Monkey|3rec=0.38M|3atk=9869|3defense=6598|3hp=35564|3weak=2936
+|4name=Iron-plated Monkey|4rec=0.83M|4atk=18564|4defense=12411|4hp=126062|4weak=4594
+|5name=Bronze-plated Monkey|5rec=1.77M|5atk=30548|5defense=20422|5hp=345083|5weak=7134
+|6name=Silver-plated Monkey|6rec=3.58M|6atk=46188|6defense=30878|6hp=713665|6weak=10213
+|Arec=6.78M|Aatk=65904|Adefense=44058|Ahp=1328171|Aweak=12446
+}}}}

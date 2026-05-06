@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=collection@20771_1
+|class_id=20771
+|rank=Green
+|affct=FAITH
+|source=
+|description=collection@20771_2
+|fame=15
+|art=13
+|fth=30
+|civ=16
+|tech=16
+|ss1=Snail RUSH +10<br>Per Hitman intercepted, Snail HP +10<br>Hitmen Intercepted: 40/40
+|ss2=Snail RUSH +20<br>Per Hitman intercepted, Snail HP +20<br>Hitmen Intercepted: 40/40
+|ss3=Snail RUSH +30<br>Per Hitman intercepted, Snail HP +30<br>Hitmen Intercepted: 40/40
+|ss4=Snail RUSH +30<br>Per Hitman intercepted, Snail HP +30<br>Hitmen Intercepted: 40/40
+|ss7=Snail RUSH +30<br>Per Hitman intercepted, Snail HP +30<br>Hitmen Intercepted: 40/40<br> (Awakened)
+}}

@@ -1,0 +1,11 @@
+[[File:Lottery Relic Album Details.png|300px]]
+
+The {{RewardIconWithLink|Lottery Relic Album|orange}} is a reward from the [[Lottery Choice Pack]].
+
+Fragments of the {{RewardIconWithLink|Lottery Relic Album|orange}} convert into exclusive {{Retext|AAA Relic fragments|purple}}. You will need 20 {{RewardIconWithLink|Lottery Relic Album|orange}} fragments to unlock the first relic. Once you have enough fragments of a relic to 5 star it (80 Fragments), you will begin unlocking fragments of the next relic in order. The relics announced so far are:
+
+* {{RewardIconWithLink|Silver Treaty|purple}}
+* {{RewardIconWithLink|The Goodbye Kiss|purple}}
+* {{RewardIconWithLink|Valaroma|purple}}
+
+[[Category:Reward Pack]]

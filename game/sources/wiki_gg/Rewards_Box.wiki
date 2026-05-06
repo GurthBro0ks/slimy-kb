@@ -1,0 +1,7 @@
+The {{RewardIconWithLink|Rewards Box|orange}} is available for purchase in the [[Vending Machine]] every day for 200 {{RewardIconWithText|W-Tad}}. It is unlocked after defeating the [[Events#Cancer_Cells|Cancer Cell of Earth's Will Level 1]] for the first time. 
+
+The rewards are the following:
+* {{RewardIconWithLink|Neurolink, +4}}
+* {{RewardIconWithLink|Super Memetic Chest, +2|orange}}
+
+[[Category:Reward Pack]]

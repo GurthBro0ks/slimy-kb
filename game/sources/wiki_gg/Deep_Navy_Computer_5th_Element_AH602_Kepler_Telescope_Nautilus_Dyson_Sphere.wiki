@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=271
+|relics=Deep Navy Computer,5th Element,AH602,Kepler Telescope,Nautilus,Dyson Sphere
+|rank=orange
+|amount=6
+|category=self
+|description=Lottery Purple Orbs turn to Orange by +2.4%
+}}

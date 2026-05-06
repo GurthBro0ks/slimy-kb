@@ -1,0 +1,25 @@
+{{Shell
+|name={{PAGENAME}}
+|image={{PAGENAME}}.png
+|description=The Snail Shell is one of the possessions belonging to the Celestial Messenger and, supposedly, you can hear divine revelation from it. After its owner disappeared, the Travelers examined the Snail Shell and announced they found numerous voice recorders inside!
+|affct=FTH
+|hard=ATK
+|source=
+{{Memetic Catalyst
+|number=8830
+|relic1=Ixion's Wheel
+|relic2=Capitoline Wolf
+|relic3=Statue of Isis
+|relic4=Ludovisi Ares
+|relic5=Hermes & Dionysus
+}}
+|color=purple
+|earth=8
+|water=6
+|fire=6
+|wind=6
+|form=Angel
+|element=Earth
+|realm=Rift
+|orangehard=DEF
+}}

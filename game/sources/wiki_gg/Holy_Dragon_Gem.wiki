@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Holy Dragon Gem
+|class_id=22851
+|rank=SSS
+|affct=FAITH
+|source=
+|description=When a Dragon is on the brink of death, the magic within its body condenses in its eyes, passing on its might to future generations. The power sealed within this gem is said to originate from the eyes of the divine dragon ancestor from millions of years ago. Although the gem seals the power, one can still faintly sense the ancient and profound draconic majesty from the aura it exudes.
+|fame=56
+|art=75
+|fth=109
+|civ=52
+|tech=70
+|ss1=All Dragon Minion Skins, HARD Stats +30%<br>Per 60 Dragon Minions in battle:<br>> Troop HP +90<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +9
+|ss2=All Dragon Minion Skins, HARD Stats +40%<br>Per 60 Dragon Minions in battle:<br>> Troop HP +180<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +18
+|ss3=All Dragon Minion Skins, HARD Stats +50%<br>Per 60 Dragon Minions in battle:<br>> Troop HP +270<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +27
+|ss4=All Dragon Minion Skins, HARD Stats +70%<br>Per 60 Dragon Minions in battle:<br>> Troop HP +450<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +45
+|ss5=All Dragon Minion Skins, HARD Stats +90%<br>Per 60 Dragon Minions in battle:<br>> Troop HP +630<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +63
+|ss6=All Dragon Minion Skins, HARD Stats +120%<br>Per 60 Dragon Minions in battle:<br>> Troop HP +900<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +90
+|ss7=All Dragon Minion Skins, HARD Stats +120%<br>Per 60 Dragon Minions in battle:<br>> Troop HP +900<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +90<br>Per 60 Dragon Minions in battle:<br>> Troop DEF +90 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Fire DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, DMG +30%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600
+|mirage={{Mirage|name=dungeon@22851_1|reward={{RewardIconWithLink|Blasphemy Eye, +1|orange}}
+|3name=dungeon_event@4441_1|3rec=982.00M|3atk=2473982|3defense=1102709|3hp=1390129103|3weak=96656
+|4name=dungeon_event@4442_1|4rec=1255.75M|4atk=3195969|4defense=1362376|4hp=1998092500|4weak=105109
+|5name=dungeon_event@4443_1|5rec=1652.93M|5atk=4345216|5defense=1745667|5hp=2845691542|5weak=113228
+|6name=dungeon_event@4444_1|6rec=2170.21M|6atk=5982545|6defense=2244858|6hp=3920789926|6weak=121206
+|Arec=2811.87M|Aatk=8200312|Adefense=2864073|Ahp=5311769184|Aweak=129600
+}}}}

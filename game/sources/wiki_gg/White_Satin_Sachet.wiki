@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=White Satin Sachet
+|class_id=20106
+|rank=Green
+|affct=CIV
+|source=
+|description=This is a sachet used to store herbs, with a white satin base and silk thread embroidery along the edges. The front is made of dark blue floral silk with embroidered flower and plant patterns using gold thread, giving it a lifelike appearance. The back is double-layered blue cotton fabric, tightly fixed with a technique called "inverted three-needle", where the silk thread and fabric are closely integrated. It is a testament to the wisdom and hard work of ancient Chinese laboring people.
+|fame=15
+|art=14
+|fth=17
+|civ=31
+|tech=13
+|ss1=Per God of Culture Descent, Snail DEF +1<br>God of Culture Descended: 40/40
+|ss2=Per God of Culture Descent, Snail DEF +2<br>God of Culture Descended: 40/40
+|ss3=Per God of Culture Descent, Snail DEF +3<br>God of Culture Descended: 40/40
+|ss4=Per God of Culture Descent, Snail DEF +3<br>God of Culture Descended: 40/40
+|ss7=Per God of Culture Descent, Snail DEF +3<br>God of Culture Descended: 40/40<br> (Awakened)
+}}

@@ -1,0 +1,39 @@
+{{CargoRelic
+|name=Holy Loaves
+|rank=SS
+|affct=FTH
+|birthday=11-17
+|source=Evolution Chest (1%), Grandmaster Scrolls (1%), Lottery Machine (0.12%), Relic Forge (100 Relic RF), Wishing (0.08%)
+|description=On Nov 17, 27 AD, Jesus used loave to feed 5,000 people for the first time.
+The people sure were hungry but Jesus only had two fish and five loaves of bread with him. He instructed everyone to take a seat as he took the fish and bread, looked up to the sky and blessed the food. He broke the loaves and handed them to his disciples to distribute to the crowd and their stomachs were filled. Jesus collected the leftovers and filled up twelve baskets enough to feed another five thousand people.
+|fame=65
+|art=59
+|fth=101
+|civ=75
+|tech=47
+|ss1=Snail HP +200<br>Per 10 HP-Fungi eaten, Snail ATK +2<br>Per 10 HP-Fungi eaten, Snail DEF +2<br>HP-Fungi Eaten: 500/500
+|ss2=Snail HP +300<br>Per 10 HP-Fungi eaten, Snail ATK +3<br>Per 10 HP-Fungi eaten, Snail DEF +3<br>HP-Fungi Eaten: 500/500
+|ss3=Snail HP +400<br>Per 10 HP-Fungi eaten, Snail ATK +4<br>Per 10 HP-Fungi eaten, Snail DEF +4<br>HP-Fungi Eaten: 500/500
+|ss4=Snail HP +600<br>Per 10 HP-Fungi eaten, Snail ATK +6<br>Per 10 HP-Fungi eaten, Snail DEF +6<br>HP-Fungi Eaten: 500/500
+|ss5=Snail HP +800<br>Per 10 HP-Fungi eaten, Snail ATK +8<br>Per 10 HP-Fungi eaten, Snail DEF +8<br>HP-Fungi Eaten: 500/500
+|ss6=Snail HP +1,100<br>Per 10 HP-Fungi eaten, Snail ATK +11<br>Per 10 HP-Fungi eaten, Snail DEF +11<br>HP-Fungi Eaten: 500/500
+|ss7=Snail HP +1,100<br>Per 10 HP-Fungi eaten, Snail ATK +11<br>Per 10 HP-Fungi eaten, Snail DEF +11<br>HP-Fungi Eaten: 500/500<br>Snail HP +1,000 (Awakened)
+|skill1=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, INTEL gained +15%
+|skill2=[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x Food Drops +15%
+|skill3=[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: Fungus Output +30%
+|mirage={{#invoke:snailDB|parseMirage|{{PAGENAME}}}}
+}}
+
+[[Category:HP Boost]]
+[[Category:ATK Boost]]
+[[Category:DEF Boost]]
+[[Category:HP-Fungi Boost]]
+[[Category:Exploration Compass Boost]]
+[[Category:Exploration INTEL Boost]]
+[[Category:Exploration Food Drop Boost]]
+[[Category:Fungus Farm Skill]]
+[[Category:Fungus Farm Output Boost]]
+[[Category:God Descent Boost]]
+[[Category:Rewards Orange Fungus]]
+[[Category:Drawn Dragon Boost]]
+[[Category:Baby Bud Boost]]

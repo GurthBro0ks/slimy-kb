@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Cheat Code
+|class_id=20374
+|rank=Green
+|affct=TECH
+|source=Found on the [[Terminal]] after using Cheat Codes in [[Gene Simulation]] and reaching 700F
+|description=On the memo is a string of programming code. It's most likely a backdoor left by the coder. Judging from its messy coding, the awful format, and the swearing in the annotations, the coder is probably undereducated and rude.
+|fame=15
+|art=17
+|fth=16
+|civ=13
+|tech=29
+|ss1=In Gene Sims, Snail HP +1000<br>In Gene Sims, Snail ATK +100<br>In Gene Sims, Snail DEF +100<br>In Gene Sims, Snail RUSH +100
+|ss2=In Gene Sims, Snail HP +2000<br>In Gene Sims, Snail ATK +200<br>In Gene Sims, Snail DEF +200<br>In Gene Sims, Snail RUSH +200
+|ss3=In Gene Sims, Snail HP +3000<br>In Gene Sims, Snail ATK +300<br>In Gene Sims, Snail DEF +300<br>In Gene Sims, Snail RUSH +300
+|ss4=In Gene Sims, Snail HP +3000<br>In Gene Sims, Snail ATK +300<br>In Gene Sims, Snail DEF +300<br>In Gene Sims, Snail RUSH +300
+|ss7=In Gene Sims, Snail HP +3000<br>In Gene Sims, Snail ATK +300<br>In Gene Sims, Snail DEF +300<br>In Gene Sims, Snail RUSH +300<br> (Awakened)
+}}

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=SAGE
+|class_id=22354
+|rank=SSS
+|affct=TECH
+|birthday=02-03
+|source=
+|description=On Feb 3, 1958 AD, the Semi-Automatic Ground Environment was made.<br>The SAGE system, developed by the U.S. Army, was a semi-automatic early warning and command system for air defense that included radar that captured target information, data communication equipment, and large computers. The system integrated communication and computer technology to achieve effective early warning and command, promoting military technology development and innovation, and ushering in the information age.
+|fame=72
+|art=54
+|fth=74
+|civ=54
+|tech=108
+|ss1=Snail RUSH +30<br>Per 10 Unknown Records read, Snail ATK +3<br>Per 10 Unknown Records read, Snail RUSH +3<br>Unknown Records Read: 400/400
+|ss2=Snail RUSH +40<br>Per 10 Unknown Records read, Snail ATK +4<br>Per 10 Unknown Records read, Snail RUSH +4<br>Unknown Records Read: 400/400
+|ss3=Snail RUSH +50<br>Per 10 Unknown Records read, Snail ATK +5<br>Per 10 Unknown Records read, Snail RUSH +5<br>Unknown Records Read: 400/400
+|ss4=Snail RUSH +70<br>Per 10 Unknown Records read, Snail ATK +7<br>Per 10 Unknown Records read, Snail RUSH +7<br>Unknown Records Read: 400/400
+|ss5=Snail RUSH +90<br>Per 10 Unknown Records read, Snail ATK +9<br>Per 10 Unknown Records read, Snail RUSH +9<br>Unknown Records Read: 400/400
+|ss6=Snail RUSH +120<br>Per 10 Unknown Records read, Snail ATK +12<br>Per 10 Unknown Records read, Snail RUSH +12<br>Unknown Records Read: 400/400
+|ss7=Snail RUSH +120<br>Per 10 Unknown Records read, Snail ATK +12<br>Per 10 Unknown Records read, Snail RUSH +12<br>Unknown Records Read: 400/400<br>Snail RUSH +100 (Awakened)
+|skill1=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, All Minion HARD Stats +3%
+|skill2=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop Earth DMG +60
+|skill3=[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: This Relic's TECH +15
+|mirage={{Mirage|name=War Coordination System|reward={{RewardIconWithLink|Gene Speedup, +28800|orange}}
+|3name=Radar System|3rec=45.20M|3atk=161116|3defense=107487|3hp=7200019|3weak=20836
+|4name=Navigation System|4rec=58.46M|4atk=189082|4defense=126144|4hp=9499301|4weak=23411
+|5name=Algorithmic System|5rec=72.80M|5atk=219334|5defense=146326|5hp=12354700|5weak=29018
+|6name=Communication System|6rec=88.21M|6atk=251827|6defense=168004|6hp=15842110|6weak=32398
+|Arec=105.72M|Aatk=288757|Adefense=192641|Ahp=20002625|Aweak=35505
+}}}}

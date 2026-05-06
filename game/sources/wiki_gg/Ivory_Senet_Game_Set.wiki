@@ -1,0 +1,28 @@
+{{CargoRelic
+|name=Ivory Senet Game Set
+|class_id=22864
+|rank=SS
+|affct=CIV
+|source=
+|description=The Ivory Senet Game Set is a precious artifact from the New Kingdom period of ancient Egypt, currently housed in the Metropolitan Museum of Art in New York. It is part of the popular Senet game in ancient Egypt, typically consisting of a board, pieces, and dice. The dice include elongated stick shapes and knucklebone shapes, using their different four-sided shapes to determine the movement of the pieces. The Senet game was not only a form of entertainment but also held religious and divinatory significance. It symbolized the player's journey in the afterlife and was often placed in tombs as a burial item. The craftsmanship ofThis game set is exquisite, reflecting the high level of ancient Egyptian ivory craftsmanship.
+|fame=71
+|art=62
+|fth=59
+|civ=103
+|tech=52
+|ss1=Lottery Green Orbs turn to Blue by +0.4%<br>Green Orb draws give +1 Lucky Voucher by +8%<br>Per 10 Lotteries drawn, Snail DEF +4<br>Lotteries Drawn: 200/200
+|ss2=Lottery Green Orbs turn to Blue by +0.6%<br>Green Orb draws give +1 Lucky Voucher by +12%<br>Per 10 Lotteries drawn, Snail DEF +6<br>Lotteries Drawn: 200/200
+|ss3=Lottery Green Orbs turn to Blue by +0.8%<br>Green Orb draws give +1 Lucky Voucher by +16%<br>Per 10 Lotteries drawn, Snail DEF +8<br>Lotteries Drawn: 200/200
+|ss4=Lottery Green Orbs turn to Blue by +1.2%<br>Green Orb draws give +1 Lucky Voucher by +24%<br>Per 10 Lotteries drawn, Snail DEF +12<br>Lotteries Drawn: 200/200
+|ss5=Lottery Green Orbs turn to Blue by +1.6%<br>Green Orb draws give +1 Lucky Voucher by +32%<br>Per 10 Lotteries drawn, Snail DEF +16<br>Lotteries Drawn: 200/200
+|ss6=Lottery Green Orbs turn to Blue by +2.2%<br>Green Orb draws give +1 Lucky Voucher by +44%<br>Per 10 Lotteries drawn, Snail DEF +22<br>Lotteries Drawn: 200/200
+|ss7=Lottery Green Orbs turn to Blue by +2.2%<br>Green Orb draws give +1 Lucky Voucher by +44%<br>Per 10 Lotteries drawn, Snail DEF +22<br>Lotteries Drawn: 200/200<br>Lottery Green Orbs turn to Blue by +2% (Awakened)
+|skill1=[[File:Quary skill III.png|50px]]Place in Quarry: Quarry Max Cap +30%
+|skill2=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: This Relic's CIV +15
+|skill3=[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, Snail ATK +600
+|mirage={{Mirage|name=Chess Family|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Shogi|3rec=1.07M|3atk=22214|3defense=14757|3hp=178324|3weak=5913
+|4name=Chess|4rec=2.84M|4atk=40709|4defense=27043|4hp=492999|4weak=10187
+|5name=Chinese Chess|5rec=6.44M|5atk=64509|5defense=42853|5hp=1084762|5weak=13415
+|Arec=13.45M|Aatk=95930|Adefense=63726|Ahp=2154950|Aweak=17835
+}}}}

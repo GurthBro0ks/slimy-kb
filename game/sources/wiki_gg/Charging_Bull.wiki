@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Charging Bull
+|class_id=21422
+|rank=AAA
+|affct=FAME
+|source=
+|description=The bronze bull serves as an iconic symbol of Wall Street. Originally, the designer intended to install it on the sidewalk in front of the New York Stock Exchange. However, it was ultimately relocated to Broadway, near its intersection with Wall Street. This bronze bull embodies strength and resilience, epitomizing the aspirational spirit of a "bull market."
+|fame=75
+|art=47
+|fth=50
+|civ=39
+|tech=36
+|ss1=Snail ATK +100<br>W-tads gained from VIP Gold Card +50<br>Master Scrolls gained from VIP Gold Card +1<br>Gold Daily Packs are available in Snail Store
+|ss2=Snail ATK +100<br>W-tads gained from VIP Gold Card +50<br>Master Scrolls gained from VIP Gold Card +1<br>Gold Daily Packs are available in Snail Store
+|ss3=Snail ATK +100<br>W-tads gained from VIP Gold Card +50<br>Master Scrolls gained from VIP Gold Card +1<br>Gold Daily Packs are available in Snail Store
+|ss4=Snail ATK +100<br>W-tads gained from VIP Gold Card +50<br>Master Scrolls gained from VIP Gold Card +1<br>Gold Daily Packs are available in Snail Store
+|ss5=Snail ATK +100<br>W-tads gained from VIP Gold Card +50<br>Master Scrolls gained from VIP Gold Card +1<br>Gold Daily Packs are available in Snail Store
+|ss7=Snail ATK +100<br>W-tads gained from VIP Gold Card +50<br>Master Scrolls gained from VIP Gold Card +1<br>Gold Daily Packs are available in Snail Store<br>W-tads gained from VIP Gold Card +50 (Awakened)
+|skill1=[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, B-tads gained +7.5%
+|skill2=[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, Demon God Cells collected +15%
+}}

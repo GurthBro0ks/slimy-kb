@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Pakal's Sarcophagus
+|class_id=22186
+|rank=AAA
+|affct=CIV
+|birthday=10-11
+|source=
+|description=On Oct 11, 683 AD, Maya emperor Pakal was buried in a temple.<br>Pakal the Great, considered the greatest Maya king by historians, is in this sarcophagus. His tomb was accidentally discovered in a temple when a professor found that the temple floor tiles were strange. After a year of excavation, Pakal's tomb was finally discovered, containing his coffin and various precious funeral objects. The carvings at the head of the sarcophagus caused heated discussions at the time because of their spaceship-like motifs.
+|fame=48
+|art=46
+|fth=42
+|civ=75
+|tech=32
+|ss1=Per 30 Zombie Minions in battle:<br>> Troop HP +120<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +12
+|ss2=Per 30 Zombie Minions in battle:<br>> Troop HP +160<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +16
+|ss3=Per 30 Zombie Minions in battle:<br>> Troop HP +200<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +20
+|ss4=Per 30 Zombie Minions in battle:<br>> Troop HP +280<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +28
+|ss5=Per 30 Zombie Minions in battle:<br>> Troop HP +360<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +36
+|ss7=Per 30 Zombie Minions in battle:<br>> Troop HP +360<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +36<br>Per 30 Zombie Minions in battle:<br>> Troop HP +280 (Awakened)
+|skill1=[[File:Murika skill II.png|50px]]Place in Murikan Museum: This Relic's CIV +10
+|skill2=[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Reagent Drops +7.5%
+}}

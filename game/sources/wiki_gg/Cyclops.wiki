@@ -1,0 +1,21 @@
+{{CargoRelic
+|name=Cyclops
+|class_id=21544
+|rank=AAA
+|affct=FAME
+|source=
+|description=The Cyclops is a creature that appears in ancient Greek mythology, typically depicted as a giant with a single eye located in the center of its forehead. Similar descriptions exist in Norse mythology, and in modern fantasy literature, games, and movies, the Cyclops often appears as a typical monster image, portrayed as powerful, savage, yet somewhat foolish. The enduring appeal of the Cyclops image is partly due to its embodiment of humanity's fear of the unknown and supernatural forces, as well as the theme of wisdom triumphing over brute force, a common motif in many cultures and stories.
+|fame=72
+|art=41
+|fth=33
+|civ=46
+|tech=51
+|ss1=Zombie Minion RUSH +3%<br>Protomon Troop assist DMG + 240
+|ss2=Zombie Minion RUSH +4%<br>Protomon Troop assist DMG + 320
+|ss3=Zombie Minion RUSH +5%<br>Protomon Troop assist DMG + 400
+|ss4=Zombie Minion RUSH +7%<br>Protomon Troop assist DMG + 560
+|ss5=Zombie Minion RUSH +9%<br>Protomon Troop assist DMG + 720
+|ss7=Zombie Minion RUSH +9%<br>Protomon Troop assist DMG + 720<br>Protomon Troop assist DMG + 560 (Awakened)
+|skill1=[[File:Cathay skill II.png|50px]]Place in Cathay Museum: This Relic's FAME +10
+|skill2=[[File:Cathay skill II.png|50px]]Place in Cathay Museum: In Cathay, Snail DEF +60
+}}

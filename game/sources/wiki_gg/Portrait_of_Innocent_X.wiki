@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Portrait of Innocent X
+|class_id=22134
+|rank=AAA
+|affct=ART
+|birthday=08-09
+|source=Lottery Machine No.2 (0.06%), Wishing (0.02%)
+|description=On Aug 9, 1650 AD, Velazquez was entrusted by Pope Innocent X to paint his portrait.<br>The portrait of Pope Innocent X is the work of Velazquez, a famous Spanish realist painter. In the painting, Pope Innocent X sits in a luxurious armchair, frowning, with gloomy eyes, and tight lips. Although the pope's expression is fierce, stern, and powerful, his hands on the chair look weak and frail. Velazquez accurately portrayed Pope Innocent's inner world with his technique, creating this masterpiece in the history of painting.
+|fame=29
+|art=73
+|fth=51
+|civ=45
+|tech=45
+|ss1=Angel Minion ATK +3%<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +24%
+|ss2=Angel Minion ATK +4%<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +32%
+|ss3=Angel Minion ATK +5%<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +40%
+|ss4=Angel Minion ATK +7%<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +56%
+|ss5=Angel Minion ATK +9%<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +72%
+|ss7=Angel Minion ATK +9%<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +72%<br>In the Gaia Rocket Cabin:<br>> Oracle Hall Base Effect +56% (Awakened)
+|skill1=[[File:Goldfish skill II.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion HP +4.5%
+|skill2=[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's ART +10
+}}

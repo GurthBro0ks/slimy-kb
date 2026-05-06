@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Maitreya in Meditation
+|class_id=22032
+|rank=Blue
+|affct=ART
+|birthday=01-29
+|source=Lottery Machine No.2 (0.03%), Wishing (0.01%)
+|description=On Jan 29, 600 AD, the Maitreya in Meditation Statue was crafted.<br>This statue was unearthed in Korea. It was a large-sized gilt-bronze statue made in the late stage of the Three Kingdoms era of Korea. It wears a three-hill-shaped headwear, thus, it's also known as the Three-hill Statue in Contemplation. The statue is the young Siddhartha who wears nothing on the upper half and hangs a ring on the neck. He wears a fancy kilt with the left foot on the pedestal and the right leg on the left one. His right-hand touches his jaw, eyes slightly open with a smile on his face. The lifelike statue exemplifies ancient people's incredible craftsmanship and is a national treasure.
+|fame=22
+|art=45
+|fth=30
+|civ=33
+|tech=24
+|ss1=Per 10 Zombie Minions in battle:<br>> Troop HARD Stats +1
+|ss2=Per 10 Zombie Minions in battle:<br>> Troop HARD Stats +2
+|ss3=Per 10 Zombie Minions in battle:<br>> Troop HARD Stats +3
+|ss4=Per 10 Zombie Minions in battle:<br>> Troop HARD Stats +5
+|ss7=Per 10 Zombie Minions in battle:<br>> Troop HARD Stats +5<br>Per 10 Zombie Minions in battle:<br>> Troop HARD Stats +5 (Awakened)
+|skill1=[[File:Biozilla skill I.png|50px]]Place in a Biozilla: This Relic's ART +5
+}}

@@ -1,0 +1,692 @@
+{{Missing Info|specifics=Enemies, ride lvl events, pumpkin gift box confirmation}}
+
+==Fantasy Tour==
+[[File:Fantasy Tour.png|300px|left]]
+Oct. 27 - Nov. 09 2023
+
+===Scarecrow Shop===
+Spend Joy Coins to buy event items! At the end of the event, the remaining coins will be automatically converted into B-tads!<br>Joy Coin Sources: Pass the rides, Claim Joy Point Rewards, Claim Rainbow Point Rewards.
+{|class="wikitable mw-collapsible mw-collapsed
+!Item
+!Price
+!Purchase Limit
+|-
+|Happy Train Capsule(Rocket Robot)
+|15K
+|1
+|-
+|[[Medium Rune]] Frag +40
+|15K
+|1
+|-
+|[[Gear|Eye of Horus]]
+|15K
+|1
+|-
+|[[Altar|Dragon Orb]]
+|2,500
+|3
+|-
+|Lottery Ticket +5
+|800
+|3
+|-
+|Offering Speedup +8h
+|500
+|3
+|-
+|Refine Speedup +8h
+|500
+|3
+|-
+|Gene Speedup +8h
+|500
+|3
+|-
+|Clone Speedup +8h
+|500
+|3
+|-
+|Divine Order Chest +100
+|800
+|3
+|-
+|Divine Neutral Chest +100
+|800
+|3
+|-
+|Divine Chaos Chest +100
+|800
+|3
+|-
+|Master Alchemy Case +3
+|800
+|3
+|-
+|Coating Bucket +3
+|800
+|3
+|-
+|Research Briefcase
+|1,000
+|3
+|-
+|Toner +20
+|200
+|3
+|-
+|Glue +30
+|200
+|3
+|-
+|Quantum Gel +600
+|200
+|3
+|-
+|B-tads +6,000
+|100
+|Infinite
+|}
+
+===Shopping Center===
+{|class="wikitable mw-collapsible mw-collapsed
+!Cost
+!Rewards
+!Limit
+|-
+|1,000 W-tads
+|Offering Speedup +10h, Glue +50, Joy Dice +10
+|1
+|-
+|2,000 W-tads
+|Lottery Ticket +8, Wish Coin +3, Joy Dice +20
+|1
+|-
+|US$4.99, AUD 7.99
+|Star Stone +2, Lottery Ticket +3, Rainbow Point +10, W-tad +300
+|3
+|-
+|US$14.99; AUD 22.99
+|Dragon Orb, Wish Coin +7, Rainbow Point +20, W-tad +1,000
+|3
+|-
+|US$29.99; AUD 49.99
+|Incense +3. Lottery Ticket +25, Rainbow Point +30, W-tad +2,000
+|3
+|-
+|US$69.99; AUD 99.99
+|Offering Speedup +3d, Star Stone +25, Rainbow Point +40, W-tad +5,000
+|3
+|-
+|US$99.99; AUD 149.99
+|Grandmaster Scroll +40, Lottery Ticket +60, Rainbow Point +50, W-tad +8,000
+|5
+|-
+|US$99.99; AUD 149.99
+|Badge +70, Lottery Ticket +60, Rainbow Point +50, W-tad +8,000
+|5
+|}
+
+===Witch's Treasure===
+{|class="wikitable mw-collapsible mw-collapsed
+!Item
+!Price
+|-
+|8,000 W-tads
+|Rainbow Point +40, [[Medium Rune]] Frag +40, Star Stone +10, Joy Dice +40
+|-
+|Any Purchase
+|Orochi-chan([[Snail Avatar|Avatar]]), Joy Dice +15, W-tad +600
+|-
+|$49.99; AUD 79.99
+|[[Medium Rune]] Frag +40, [[Gear|Eye of Horus]], Lottery Ticket +40, Rainbow Point +50, W-tad +4,000
+|}
+{{clear}}
+
+==Crazy Halloween==
+[[File:Crazy Halloween.png|300px|left]]
+Roll the Joy Dice and explore the park! Each time you pass a ride, it levels up and gives you rewards!<br>After Lap 3, Tile 40, Roll All is unlocked, which completes one lap around the park using as many Joy Dice as needed.<br>Lap 4 unlocks Park Admin and Management Rewards.
+
+===Amusement Park Rides===
+At certain levels, rides will have mini-events with rewards!<br>Passing each ride will give W-tads, B-tads, and Joy Coins
+{|class="wikitable mw-collapsible mw-collapsed
+!Ride
+!Level
+!Rewards
+|-
+|Sky Cinema
+|Lvl 3
+|Sadako joins the party
+|-
+|Opera House
+|Lvl 5
+|Leeku joins the party
+|-
+|Brave Slide
+|Lvl 7
+|Peacekeeper joins the party
+|-
+|Ghoulwood
+|Lvl 9
+|W-tad +200
+|-
+|Star Kingdom
+|Lvl 9
+|Unlocks Trick or Thump
+|-
+|Crazy Roller Coaster
+|Lvl 11
+|W-tads +200
+|-
+|Pendulum Ride
+|Lvl 12
+|W-tad +200
+|-
+|Pumpkin House
+|Lvl 15
+|Joy Dice +5
+|-
+|Pumpkin Coach
+|Lvl 17
+|Joy Dice +10
+|-
+|Star Kingdom
+|Lvl 19
+|Joy Dice +15
+|}
+
+===Point Gift===
+Progress in the event to get rewards!
+
+====Joy Point====
+{|class="wikitable mw-collapsible mw-collapsed
+!Rolls
+!Rewards
+|-
+|5
+|Joy Coin +200, Offering Speedup +2h, Lottery Ticket +2
+|-
+|10
+|Joy Coin +200, Offering Speedup +2h, Lottery Ticket +2
+|-
+|15
+|Rainbow Point +10, Offering Speedup +2h, Lottery Ticket +2
+|-
+|20
+|Joy Coin +200, Offering Speedup +2h, Lottery Ticket +2
+|-
+|30
+|Joy Coin +200, Offering Speedup +2h, Lottery Ticket +2
+|-
+|40
+|Rainbow Point +10, Offering Speedup +2h, Lottery Ticket +2
+|-
+|50
+|Joy Coin +200, Offering Speedup +2h, Lottery Ticket +2
+|-
+|60
+|Joy Coin +200, Offering Speedup +2h, Lottery Ticket +2
+|-
+|70
+|Rainbow Point +10, Offering Speedup +2h, Lottery Ticket +2
+|-
+|80
+|Joy Coin +300, Offering Speedup +3h, Lottery Ticket +2
+|-
+|90
+|Joy Coin +300, Offering Speedup +3h, Lottery Ticket +2
+|-
+|100
+|Rainbow Point +20, Offering Speedup +3h, Lottery Ticket +3
+|-
+|120
+|Joy Coin +300, Offering Speedup +3h, Lottery Ticket +3
+|-
+|140
+|Joy Coin +300, Offering Speedup +3h, Lottery Ticket +3
+|-
+|160
+|Rainbow Point +20, Offering Speedup +3h, Lottery Ticket +3
+|-
+|180
+|Joy Coin +300, Offering Speedup +3h, Lottery Ticket +3
+|-
+|200
+|Joy Coin +300, Offering Speedup +3h, Lottery Ticket +3
+|-
+|220
+|W-tad +300, Offering Speedup +3h, Lottery Ticket +3
+|-
+|240
+|Joy Coin +500, Offering Speedup +4h, Lottery Ticket +3
+|-
+|260
+|Joy Coin +500, Offering Speedup +4h, Lottery Ticket +3
+|-
+|280
+|W-tad +500, Offering Speedup +4h, Lottery Ticket +3
+|-
+|300
+|Joy Coin +500, Offering Speedup +4h, Lottery Ticket +3
+|-
+|320
+|Joy Coin +500, Offering Speedup +4h, Lottery Ticket +3
+|-
+|350
+|W-tad +500, Offering Speedup +4h, Lottery Ticket +3
+|}
+
+====Rainbow Point====
+Purchase packs and collect Joy Point rewards to get Rainbow Points.
+{|class="wikitable mw-collapsible mw-collapsed
+!Points
+!Rewards
+|-
+|10
+|Lottery Ticket +3, Joy Coin +300, Joy Dice +5
+|-
+|20
+|Lottery Ticket +3, Joy Coin +300, Joy Dice +5
+|-
+|30
+|Lottery Ticket +3, Joy Coin +300, Badge +10
+|-
+|40
+|Lottery Ticket +3, Joy Coin +300, Joy Dice +5
+|-
+|50
+|Lottery Ticket +3, Joy Coin +300, Joy Dice +5
+|-
+|60
+|Lottery Ticket +3, Joy Coin +300, Star Stone +3
+|-
+|70
+|Lottery Ticket +4, Joy Coin +500, Joy Dice +6
+|-
+|80
+|Lottery Ticket +4, Joy Coin +500, Joy Dice +6
+|-
+|90
+|Lottery Ticket +4, Joy Coin +500, [[Amusement Park Master]]
+|-
+|100
+|Lottery Ticket +4, Joy Coin +500, Joy Dice +6
+|-
+|110
+|Lottery Ticket +4, Joy Coin +500, Joy Dice +6
+|-
+|120
+|Lottery Ticket +4, Joy Coin +500, [[Witch's Pot]]
+|-
+|140
+|Lottery Ticket +6, Joy Coin +800, Joy Dice +8
+|-
+|160
+|Lottery Ticket +6, Joy Coin +800, Joy Dice +8
+|-
+|180
+|Lottery Ticket +6, Joy Coin +800, [[Gear|Eye of Horus]]
+|-
+|200
+|Lottery Ticket +6, Joy Coin +800, Joy Dice +8
+|-
+|220
+|Lottery Ticket +6, Joy Coin +800, Joy Dice +8
+|-
+|240
+|Lottery Ticket +6, Joy Coin +800, [[Medium Rune]] Frag +40
+|-
+|270
+|Lottery Ticket +8, Joy Coin +1,200, Joy Dice +10
+|-
+|300
+|Lottery Ticket +8, Joy Coin +1,200, Joy Dice +10
+|-
+|330
+|Lottery Ticket +8, Joy Coin +1,200, Singularity Crystal +2
+|-
+|360
+|Lottery Ticket +8, Joy Coin +1,200, Joy Dice +10
+|-
+|390
+|Lottery Ticket +8, Joy Coin +1,200, Joy Dice +10
+|-
+|420
+|Lottery Ticket +8, Joy Coin +1,200, [[Medium Rune]] Frag +40
+|-
+|450
+|Lottery Ticket +10, Joy Coin +1,600, Joy Dice +12
+|-
+|480
+|Lottery Ticket +10, Joy Coin +1,600, Joy Dice +12
+|-
+|510
+|Lottery Ticket +10, Joy Coin +1,600, The Tin Man (Rocket Robot)
+|-
+|540
+|Lottery Ticket +10, Joy Coin +1,600, Joy Dice +12
+|-
+|570
+|Lottery Ticket +10, Joy Coin +1,600, Joy Dice +12
+|-
+|600
+|Lottery Ticket +10, Joy Coin +1,600, [[Gear|Crystal of Will]]
+|-
+|640
+|Lottery Ticket +12, Joy Coin +2,000, Joy Dice +15
+|-
+|680
+|Lottery Ticket +12, Joy Coin +2,000, Joy Dice +15
+|-
+|720
+|Lottery Ticket +12, Joy Coin +2,000, [[Medium Rune]] Frag +40
+|-
+|760
+|Lottery Ticket +12, Joy Coin +2,000, Joy Dice +15
+|-
+|800
+|Lottery Ticket +12, Joy Coin +2,000, Joy Dice +15
+|-
+|840
+|Lottery Ticket +12, Joy Coin +2,000, Pumpkin Hut (Decoration)
+|-
+|880
+|Lottery Ticket +15, Joy Coin +2,500, Joy Dice +20
+|-
+|920
+|Lottery Ticket +15, Joy Coin +2,500, Joy Dice +20
+|-
+|960
+|Lottery Ticket +15, Joy Coin +2,500, [[Happy Gravitron]]
+|}
+
+===Management Rewards===
+1 level of ride = 1 management point!<br>Manager is free, Master Manager is US$14.99; AUD 22.99
+{|class="wikitable mw-collapsible mw-collapsed
+!Level
+!Manager
+!Master Manager
+|-
+|30
+|Novice Scroll +10
+|[[VIP Wristband]], Organ Chest +100
+|-
+|35
+|Joy Coin +200
+|Offering Speedup +8h
+|-
+|40
+|Joy Coin +200
+|Lottery Ticket +5
+|-
+|45
+|Joy Coin +200
+|Wish Coin +2
+|-
+|50
+|Offering Speedup +10h
+|Incense, Organ Chest +100
+|-
+|55
+|Joy Coin +200
+|Offering Speedup +8h
+|-
+|60
+|Joy Coin +200
+|Lottery Ticket +5
+|-
+|65
+|Joy Coin +200
+|Wish Coin +2
+|-
+|70
+|Lottery Ticket +2
+|Dragon Orb, Organ Chest +100
+|-
+|75
+|Joyful Pack
+|Offering Speedup +8h
+|-
+|80
+|Joyful Pack
+|Lottery Ticket +5
+|-
+|85
+|Joyful Pack
+|Wish Coin +2
+|-
+|90
+|Expert Alchemy Case
+|Master Alchemy Case +3, Organ Chest +100
+|-
+|95
+|Joyful Pack
+|Offering Speedup +8h
+|-
+|100
+|Joyful Pack
+|Lottery Ticket +5
+|-
+|105
+|Joyful Pack
+|Wish Coin +2
+|-
+|110
+|Purple Fungus Choice Pack +2
+|Orange Fungus Choice Pack +5, Organ Chest +100
+|-
+|115
+|Joyful Pack
+|Offering Speedup +8h
+|-
+|120
+|Joyful Pack
+|Lottery Ticket +5
+|-
+|125
+|Joyful Pack
+|Wish Coin +2
+|-
+|130
+|Badge +10
+|Badge +20, Organ Chest +100
+|-
+|135
+|Joyful Pack
+|Offering Speedup +8h
+|-
+|140
+|Joyful Pack
+|Lottery Ticket +5
+|-
+|145
+|Joyful Pack
+|Wish Coin +2
+|-
+|150
+|Expert Scroll +20
+|Relic RF +15, Organ Chest +100
+|-
+|155
+|Joyful Pack +2
+|Offering Speedup +8h
+|-
+|160
+|Joyful Pack +2
+|Lottery Ticket +5
+|-
+|165
+|Joyful Pack +2
+|Wish Coin +2
+|-
+|170
+|Singularity Crystal
+|Singularity Crystal +2, Organ Chest +100
+|}
+Joyful Pack contains: Pumpkin Candy +20, Magic Potion +50, Joy Coin +200
+{{clear}}
+
+==Trick or Thump==
+[[File:Trick or Thump.png|300px|left]]
+Once the Star Kingdom ride reaches level 9, you can fight with your party members to defeat enemies and earn rewards!<br>Party members can be upgraded with Pumpkin Candy from Management Rewards
+
+{|class="wikitable
+!colspan=2|Party Members
+|-
+!Name
+!Special Skill
+|-
+|Prince Nerd's Soul
+|Patrol Squad DMG +%
+|-
+|Sadako
+|Patrol Squad Fire DMG +
+|-
+|Leeku
+|Patrol Squad Wind DMG +
+|-
+|Peacekeeper
+|Patrol Squad DMG REDUC +%
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed
+!colspan=2|Enemies
+|-
+!Name
+!Rewards
+|-
+|Tricky Blank Swan
+|Pumpkin Voucher +2, W-tad +100
+|-
+|Tricky Harevalor
+|Pumpkin Voucher +2, W-tad +100
+|-
+|Tricky Kitty
+|Pumpkin Voucher +2, W-tad +100
+|-
+|Tricky Seal
+|Pumpkin Voucher +2, W-tad +100
+|-
+|Tricky Mammoth
+|Pumpkin Voucher +2, W-tad +100
+|-
+|Tricky Beta
+|Pumpkin Voucher +2, W-tad +100
+|-
+|Tricky Ninja
+|Pumpkin Voucher +2, W-tad +100
+|-
+|Tricky Warrior
+|Pumpkin Voucher +2, W-tad +100
+|-
+|Tricky Lion
+|Pumpkin Voucher +2, W-tad +100
+|-
+|Tricky Panda
+|Pumpkin Voucher +2, W-tad +100
+|-
+|Tricky Fisherman
+|Pumpkin Voucher +3, W-tad +100
+|-
+|Tricky Zombie
+|Pumpkin Voucher +3, W-tad +100
+|-
+|Tricky Ghost
+|Pumpkin Voucher +3, W-tad +100
+|-
+|Tricky Paint
+|Pumpkin Voucher +3, W-tad +100
+|-
+|Tricky Dog
+|Pumpkin Voucher +3, W-tad +100
+|-
+|Tricky Penguin
+|Pumpkin Voucher +3, W-tad +100
+|-
+|Tricky Kangaroo
+|Pumpkin Voucher +3, W-tad +100
+|-
+|Tricky Rabbit
+|Pumpkin Voucher +3, W-tad +100
+|-
+|Tricky Miner
+|Pumpkin Voucher +3, W-tad +100
+|-
+|Tricky Witch
+|Pumpkin Voucher +3, W-tad +100
+|}
+{{clear}}
+
+===Pumpkin Gift Box===
+#Consume 1 Pumpkin Voucher to open the Gift Box once.
+#Defeat Gremlin or buy Pack to get vouchers.
+#Gift Box rewards will be refreshed once all of them are claimed.
+#The gift Box can be refreshed 4 times, with 4 new rewards each time.
+{|class="wikitable mw-collapsible mw-collapsed
+!Price
+!Reward
+!Limit
+|-
+|300 W-tads
+|Pumpkin Voucher +1
+|26
+|-
+|US$4.99; AUD 7.99
+|Pumpkin Voucher +9, W-tad +300
+|4
+|}
+{|class="wikitable |text-align: center
+!'''Round 1'''
+!'''Round 2'''
+!'''Round 3'''
+!'''Round 4'''
+|-
+|[[File:Pumpkin Gift Box 1.jpeg|250px]]
+|[[File:Pumpkin Gift Box 2.jpeg|250px]]
+|[[File:Pumpkin Gift Box 3.jpeg|250px]]
+|[[File:Pumpkin Gift Box 4.jpeg|250px]]
+|-
+!colspan=4|'''Top Left'''
+|-
+|Master Alchemy Case +3
+|Lucky Coin +5
+|Dragon Orb
+|[[Witch's Sugar Jar]]
+|-
+!colspan=4|'''Top Right'''
+|-
+|Star Stone +3
+|Incense
+|Grandmaster Scroll +40
+|Singularity Crystal
+|-
+!colspan=4|'''Bottom Left'''
+|-
+|Tricky Rabbit ([[Snail Avatar|Avatar]])
+|Tricky Seal ([[Snail Avatar|Avatar]])
+|Tricky Dog ([[Snail Avatar|Avatar]])
+|Tricky Witch ([[Snail Avatar|Avatar]])
+|-
+!colspan=4|'''Bottom Right'''
+|-
+|W-tads +800
+|W-tads +800
+|W-tads +800
+|W-tads +800
+|-
+|}
+
+= Relic Rewards =
+* {{RewardIconWithLink|Medium Rune|orange}}
+* {{RewardIconWithLink|Amusement Park Master|green}}
+* {{RewardIconWithLink|VIP Wristband|green}}
+* {{RewardIconWithLink|Witch's Sugar Jar|green}}
+
+= Robot Rewards =
+* {{RewardIconWithLink|Happy Train|orange|Robot}}
+* {{RewardIconWithLink|Tin Man|orange|Robot}}
+
+= Shell Rewards =
+* {{RewardIconWithLink|Witch's Pot|purple}}
+
+[[Category:Events]]

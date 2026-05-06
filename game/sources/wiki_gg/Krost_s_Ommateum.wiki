@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Krost's Ommateum
+|type=Common
+|rank=red
+|id=10898
+|idx=109
+|description=This gigantic eye is restored with biological weapon technologies. It resembles Krost's Ommateum and has outstanding performances.
+|skill=
+|hp=3720
+|def=237
+|atk=245
+|rush=216
+|gene1={race} TECH +200
+|gene2=All ELMT DMG +40
+|gene3=All ELMT RES +40
+|gene4=Dung Beetle Incident currency gains +4%
+|gene5=Each round, {race} ATK +80
+|gene6=Earth DMG +12 per 10 Species Wars
+Species War Enlisted: 300/300
+|gene7=Dung Beetle Incident currency gains +4% (Awakened)
+|}}

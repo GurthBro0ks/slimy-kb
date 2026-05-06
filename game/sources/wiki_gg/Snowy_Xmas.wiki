@@ -1,0 +1,63 @@
+{{Missing Info}}
+
+= Snowy Xmas =
+[[File:Snowy Xmas Poster.png|200px|left|alt=Snowy Xmas]]
+Dec. 20 2024 - Jan. 02 2025
+
+'''Official News Announcement:''' https://snail-na.qcplay.com/official/news-details.html?id=110
+{{Clear}}
+
+= Relic Rewards =
+* {{ImageWithLink|Bronze Longhu Cup|orange}}
+* {{ImageWithLink|Xmas Wreath|green}}
+* {{ImageWithLink|Candy Cane|green}}
+* {{ImageWithLink|New Year Photo|green}}
+
+= Dorm Rewards =
+* {{ImageWithLink|Bank Logo|green}}
+* {{ImageWithLink|Counter|blue}}
+* {{ImageWithLink|ATM|purple}}
+* {{ImageWithLink|Savings Counter|orange}}
+
+= Robot Rewards =
+* {{RewardIconWithLink|Xmas Elf|orange|Robots}}
+
+= Tactical Log Rewards =
+* {{RewardIconWithLink|Monkey King|orange}}
+
+= Shell Rewards =
+* {{RewardIconWithLink|Christmas Hat|purple}}
+* {{RewardIconWithLink|Christmas Ornaments|purple}}
+
+= Reward Packs =
+* {{RewardIconWithLink|Hot Cocoa|orange}}
+
+= Santa Peetah =
+Santa Peeta visits your mailbox once a day for four days.
+
+{|class="wikitable mw-collapsible"
+!Day
+!Reward
+|-
+|Day 1||{{RewardIconWithText|W-Tad, +10}}<br>{{RewardIconWithText|Artist's Palette|orange}} which includes:
+* {{RewardIconWithText|Green Coating, +30|green}}
+* {{RewardIconWithText|Blue Coating, +30|blue}}
+* {{RewardIconWithText|Purple Coating, +30|purple}}
+|-
+|Day 2||{{RewardIconWithText|Code Monkey's Keyboard|orange}} which includes:
+* {{RewardIconWithLink|Basic Data Unit, +5k}}
+* {{RewardIconWithLink|Sim Token, +500}}
+* {{RewardIconWithLink|Unknown Record, +2|blue}}
+|-
+|Day 3||{{RewardIconWithText|Gym Monkey's Backpack|orange}} which includes:
+* {{RewardIconWonderFungusWithText|Purple|HP|Purple}}
+* {{RewardIconWonderFungusWithText|Blue|HP|blue}}
+* {{RewardIconWonderFungusWithText|Green|HP|green}}
+|-
+|Day 4||{{RewardIconWithText|Peetah's LU Suitcase|orange}} which includes:
+* {{RewardIconWithLink|Lottery Ticket, +10|orange}}
+* {{RewardIconWithLink|Wish Coin, +5|orange}}
+* {{RewardIconWithLink|Badge, +20|orange}}
+|}
+
+[[Category:Events]]

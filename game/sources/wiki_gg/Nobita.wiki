@@ -1,0 +1,12 @@
+{{CargoClone
+|name=Nobita
+|rank=blue
+|cabin=2
+|id=46
+|gene1={race} RUSH +20
+|gene2={race} TECH +20
+|gene3=Wind DMG +10
+|gene4=Per 10 Zombie Minions in battle:
+> Troop RUSH +2
+|gene5=Wind DMG +20
+|}}

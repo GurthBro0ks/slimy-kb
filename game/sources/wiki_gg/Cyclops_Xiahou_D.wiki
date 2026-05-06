@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Cyclops Xiahou D
+|rank=orange
+|cabin=2
+|id=120
+|gene1={race} DEF +50
+|gene2={race} FTH +50
+|gene3=Earth DMG +30
+|gene4=Per 60 Mutant Minions in battle,
+Troop Earth DMG +6
+|gene5=Mutant Minion Recovery SPD +1.5%
+|gene6=Per 60 Mutant Minions in battle,
+Troop Earth DMG +10
+|gene7=Mutant Minion Recovery SPD +2.5%
+|}}

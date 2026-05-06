@@ -1,0 +1,121 @@
+ Exploration is one of the very first thing's you'll be introduced to in Super Snails. This is an idle mechanic that should be active 100% of the time in order to make the most of it. This doesn't require much active work, but here we'll break down everything you need to know about Exploring. 
+
+==Stats==
+The first thing to understand are your stats; there are two different sets of stats that relate to your snail: HARD and AFFCT. 
+
+===HARD Stats===
+HARD stats is short for HP, ATK, RUSH, and DEF. 
+ HP, or health, represents the snail's aerobic fitness. Higher HP means that it can last longer in battle.
+ ATK, or attack, represents the snail's muscle strength. Higher ATK means more damage it can deal to enemies. 
+ RUSH represents the snail's cellular activity. After seeing through the enemy's weakness, it can cause extra RUSH damage in battle.
+ DEF represents the snail's  ability to resist attacks. Higher DEF means less damage it will take in battle
+Most enemies have a weakness, which can be seen on that enemies stats page. Weakness are typically one of the five AFFCTs or the entire AFFCT and, if you've reached that AFFCT you can deal extra RUSH DMG to that enemy during the fight. This can often be the determining factor of whether you defeat an enemy or not.
+
+===AFFCT Stats===
+AFFCT, as the name suggests, consist of Fame, Art, Faith, Civilization, and Technology. AFFCT Stats come from Relics and are used for a variety of purposes. During exploration, you'll need certain a certain AFFCT to get RUSH on enemies, and you'll also come across AFFCT Checks that require you to have a certain amount of AFFCT in order to proceed in the event. You can often lower the required AFFCT Check with INTEL, [[Relics]], or [[Snail Avatar]]s
+
+==Compass==
+The Exploration Compass is where you can embed your relics for stat boosts. There are five slots in the compass, corresponding to each of the 5 AFFCT types: FAME, ART, FTH, CIV, and TECH. Each of these slots is unlocked as each AFFCT rises and will boost your HARD stats so choosing the right relic is important. See [[Relic Guide]] for more info!
+ '''FAME '''boosts all '''HARD Stats'''
+ '''ART''' boosts '''HP'''
+ '''FTH''' boosts '''RUSH'''
+ '''CIV''' boosts '''ATK'''
+ '''TECH''' boosts '''DEF'''
+
+==[[Evolution|Forms]]==
+As you raise your AFFCT and Evolve your snail, you'll unlock different Forms, which give different exploration buffs. Once you unlock your first form, it's recommended to no longer use the base form since it doesn't give any good boosts to your exploration. 
+
+{|class="wikitable"
+![[File:Zombie Form I.png|100px|link=Zombie Form]]<br>[[Zombie Form]] has high HP and ATK<br>and gathers Evolution Chests
+![[File:Demon Form I.png|100px|link=Demon Form]]<br>[[Demon Form]] has high ATK and DEF<br>and gathers Soul Chests
+![[File:Angel Form I.png|100px|link=Angel Form]]<br>[[Angel Form]] has high HP and RUSH<br>and gathers Fungus Chests
+|-
+![[File:Mutant Form I.png|100px|link=Mutant Form]]<br>[[Mutant Form]] has high ATK and RUSH<br>and gathers Time Chests
+![[File:Mecha Form I.png|100px|link=Mecha Form]]<br>[[Mecha Form]] has high DEF and RUSH<br>and gathers Tool Chests
+![[File:Dragon Form I.png|100px|link=Dragon Form]]<br>[[Dragon Form]] has high HARD Stats<br>and gathers Dragon Chests
+|}
+Demon and Mutant forms are recommended for the majority of explorations, until your Dragon Form has been evolved to T4. After that, Dragon is recommended for all progression and realm completion, and other forms can be chosen to grind for specific materials, in [[Minigames|Snail Arena]], and [[Gene Simulation]]s. See [[Evolution]] and individual Form pages for more information. 
+
+==[[Gear]]==
+Initially, you only start with a limited number of gear slots and have to unlock the rest with B-tads after a certain AFFCT is reached. These should be very high priority. Generally, you should always equip the relevant Realm gear for the area you're exploring in (and upgrade these asap!), the form gear relevant to the form you're exploring with, and plenty of good instrument gear. Armor gear is often better for pvp fights, though some are good for exploration as well. You should avoid equipping material gear as they have no good boosts and are generally best for upgrading the other gear you have. 
+
+Once you unlock the [[Garage]], it's recommended to break down your old Realm gear for realms that you have achieved 100% in, since it's not useful anymore.
+
+==Realm Traits==
+Every Realm, except [[Time Rift]], has a [[Realm Traits|Realm Trait]] that can be used as an extra boost during your explorations. 
+
+{|class="wikitable" style="text-align:center"
+!Realm Trait!!Realm!!Lv.1<br>Effect!!Recommendation
+|-
+|{{Reimg|Deadly Ironball|100px}}<br>[[Deadly Ironball]]
+|{{Reimg|Koryeo|75px}}<br>[[Koryeo]]
+|Before combat, deal 90% DMG
+|This is good to start with, but very expensive to upgrade and not worth it in the long term. For now, try not to upgrade this unless you've very stuck on your current fights. The next couple of Realm Traits will be much better
+|-
+|{{Reimg|Sacred Mirror|100px}}<br>[[Sacred Mirror]]
+|{{Reimg|Yamato|75px}}<br>[[Yamato]]
+|Before combat, Snail ATK +9%<br>Before combat, Snail DEF +9%<br>Each round, Snail HP +350
+|This is, the best Realm Trait for long fights (more than 5 or so rounds) if you do NOT have RUSH. This should be upgraded fully as soon as possible, and unsealed
+|-
+|{{Reimg|Supreme Warlord|100px}}<br>[[Supreme Warlord]]<br>a.k.a. Lu Bu
+|{{Reimg|Cathay|75px}}<br>[[Cathay]]
+|HP +60<br>ATK +25<br>DEF +10<br>Ignore DEF 1%
+|This is an improved version of the Ironball and is strongly recommended for shorter fights (5 or fewer rounds). Ideally, Lu Bu can help you to dominate tricky apostles that you can normally get down to 5 or 4 rounds.
+|-
+|{{Reimg|Lady Liberty|100px}}<br>[[Lady Liberty]]
+|{{Reimg|Murika|75px}}<br>[[Murika]]
+|INTEL/Cells/Treasure Maps/Loot gained +1.3%
+|This is great for grinding areas that have already been completed for their resources. 
+|-
+|{{Reimg|Ghost Ship|100px}}<br>[[Ghost Ship]]
+|{{Reimg|Britland|75px}}<br>[[Britland]]
+|Reduce all enemy's ELMT RES by 2<br>Reduce enemy's HIT by 0.4<br>Reduce enemy's CRIT by 0.2
+|This is great for PvP [[Minigames|Snail Arena]].
+|-
+|{{Reimg|Ma'at Tablet|100px}}<br>[[Ma'at Tablet]]
+|{{Reimg|Kemet|75px}}<br>[[Kemet]]
+|Allows travel to the Past and Future of the Realms
+|This unlocks a lot of new content with decent rewards, but is not a high priority compared to the others.
+|-
+|{{Reimg|Cosmos|100px}}<br>[[Cosmos]]
+|{{Reimg|Hellas|75px}}<br>[[Hellas]]
+|Before combat, Snail HP +5%<br>If you spot a weakness, Ignore DEF +500<br>When HP < 50%; Fire DMG, Water DMG, Earth DMG, and Wind DMG +120<br>If you spot a weakness, DMG +10%<br>Revive upon death and Restore 5% HP<br>Before combat, Snail ATK and RUSH +5%<br>When HP < 50%, CRIT DMG +12% 
+|This is, the best Realm Trait for long fights if you DO have RUSH.
+|-
+|{{Reimg|Dragon Horse|100px}}<br>[[Dragon Horse]]
+|{{Reimg|Bharata|75px}}<br>[[Bharata]]
+|Allows the collection of Sutras that can be chanted for cells and Novice Scrolls by tapping on the Dragon Horse.
+|Good for grinding specific cells.
+|-
+|N/A
+|{{Reimg|Time Rift|75px}}<br>[[Time Rift]]
+|Time Rift does not have a Realm Trait.
+|Time Rift does not have a Realm Trait.
+|}
+
+==Realms==
+Once you're ready to go, fill up your lunch box and choose your Realm! Exploring in every Realm yields that Realms' Treasure Map and cards; green, blue, and purple reagent; B-tads and W-tads; and Time Chests. 
+
+===Food===
+In order to fully explore a Realm, your snail needs enough [[Food]] to do it! Make sure to fully stock up on your food supplies before heading out. When you first start, your Meal Box Capacity will be pretty small, but through defeating Apostles you can raise the {{RewardIconWithText|Meal Box Size}} so you can take more and more food with you. [[Food]] is found by collecting from your [[Fungus Farm]] and exploring. Check out the [[Home_Base#The_Gene_Room|Fridge]] as well! 
+
+{| class="wikitable" style="width=100%"
+!{{Reimg|Koryeo}}<br>Explore [[Koryeo]] for a chance at more Incense and Dragon Orbs
+!{{Reimg|Yamato}}<br>Explore [[Yamato]] for more Speedups and B-tads
+!{{Reimg|Cathay}}<br>Explore [[Cathay]] for more Demon God Cells 
+!{{Reimg|Murika}}<br>Explore [[Murika]] North for more Tool and Gear Chests<br>Explore[[Murika]] South for more Tool and Evolution Chests
+|-
+!{{Reimg|Britland}}<br>Explore [[Britland]] for more Time Chests
+!{{Reimg|Kemet}}<br>[[Kemet]]
+!{{Reimg|Hellas}}<br>[[Hellas]]
+!{{Reimg|Bharata}}<br>[[Bharata]]
+|}
+
+==Domains==
+Once you've finished repairing the [[Rocket]], explore in the [[Domain]]s to defeat the Demon Gods!
+
+[[Koryeon Domain]]
+
+[[Yamato Domain]]
+
+[[Cathay Domain]]

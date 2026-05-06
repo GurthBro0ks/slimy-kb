@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Great Mogul Diamond
+|class_id=22256
+|rank=SSS
+|affct=ART
+|birthday=09-01
+|source=
+|description=On Sept 1, 1710 AD, this diamond was discovered in the mines of India.<br>The Great Mogul Diamond, also known as the Sea of Light, is the world's largest and finest pink diamond. Originally belonging to Mogul emperor Shah Jahan, the diamond was taken as a trophy by Pesia after they destroyed the Mogul. It was then embedded in the king's crown and renamed the Eye of Light. The diamond is a stunning symbol of wealth and power, with a fascinating history spanning centuries.
+|fame=56
+|art=108
+|fth=63
+|civ=76
+|tech=59
+|ss1=Quantum Amp production +1.8%<br>Per 60 Constellation LVLs, Snail ATK +3<br>Per 60 Constellation LVLs, Snail RUSH +3<br>Constellation LVLs: 1200/1200
+|ss2=Quantum Amp production +2.4%<br>Per 60 Constellation LVLs, Snail ATK +6<br>Per 60 Constellation LVLs, Snail RUSH +6<br>Constellation LVLs: 1200/1200
+|ss3=Quantum Amp production +3%<br>Per 60 Constellation LVLs, Snail ATK +9<br>Per 60 Constellation LVLs, Snail RUSH +9<br>Constellation LVLs: 1200/1200
+|ss4=Quantum Amp production +4.2%<br>Per 60 Constellation LVLs, Snail ATK +15<br>Per 60 Constellation LVLs, Snail RUSH +15<br>Constellation LVLs: 1200/1200
+|ss5=Quantum Amp production +5.4%<br>Per 60 Constellation LVLs, Snail ATK +21<br>Per 60 Constellation LVLs, Snail RUSH +21<br>Constellation LVLs: 1200/1200
+|ss6=Quantum Amp production +7.2%<br>Per 60 Constellation LVLs, Snail ATK +30<br>Per 60 Constellation LVLs, Snail RUSH +30<br>Constellation LVLs: 1200/1200
+|ss7=Quantum Amp production +7.2%<br>Per 60 Constellation LVLs, Snail ATK +30<br>Per 60 Constellation LVLs, Snail RUSH +30<br>Constellation LVLs: 1200/1200<br>Quantum Amp production +6% (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +600
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ART +600
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Time Chest Drops +6%
+|mirage={{Mirage|name=Mughal's National Treasure|reward={{RewardIconWithLink|Toner, +200|orange}}
+|3name=Shah Jahan|3rec=30.28M|3atk=129652|3defense=86496|3hp=4762962|3weak=18970
+|4name=Princess Mumtaz|4rec=41.44M|4atk=153182|4defense=102193|4hp=6506624|4weak=20210
+|5name=Aurangzeb|5rec=53.88M|5atk=179432|5defense=119706|5hp=8620347|5weak=22516
+|6name=Pahlavi|6rec=67.93M|6atk=209044|6defense=139462|6hp=11327832|6weak=27338
+|Arec=83.33M|Aatk=241537|Adefense=161139|Ahp=14578581|Aweak=31502
+}}}}

@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Metamorphoses
+|class_id=22685
+|rank=SSS
+|affct=FAITH
+|birthday=04-20
+|source=
+|description=On Apr 20, 8 AD, Ovid, the poet, completed Metamorphoses.<br>A mythological epic that chronicles the history of the world from its creation to the assassination of Julius Caesar with more than 200 stories. It also contains the love and hatred between gods, the mythology behind animals and plants, as well as various heroic deeds. It is both a narrative and a mythology, full of imagination.
+|fame=55
+|art=77
+|fth=107
+|civ=53
+|tech=70
+|ss1=In Dragon Form, Poison DMG +30<br>In Dragon Form, Ignore DEF +1.2%<br>Dragon Minion ATK +3%
+|ss2=In Dragon Form, Poison DMG +40<br>In Dragon Form, Ignore DEF +1.6%<br>Dragon Minion ATK +4%
+|ss3=In Dragon Form, Poison DMG +50<br>In Dragon Form, Ignore DEF +2%<br>Dragon Minion ATK +5%
+|ss4=In Dragon Form, Poison DMG +70<br>In Dragon Form, Ignore DEF +2.8%<br>Dragon Minion ATK +7%
+|ss5=In Dragon Form, Poison DMG +90<br>In Dragon Form, Ignore DEF +3.6%<br>Dragon Minion ATK +9%
+|ss6=In Dragon Form, Poison DMG +120<br>In Dragon Form, Ignore DEF +4.8%<br>Dragon Minion ATK +12%
+|ss7=In Dragon Form, Poison DMG +120<br>In Dragon Form, Ignore DEF +4.8%<br>Dragon Minion ATK +12%<br>In Dragon Form, Poison DMG +100 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +3%
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, DMG +30%
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FTH +15
+|mirage={{Mirage|name=dungeon@22685_1|reward={{RewardIconWithLink|Temporary Contract, +5|orange}}
+|3name=Deucalion|3rec=114.12M|3atk=345779|3defense=204449|3hp=33949100|3weak=42918
+|4name=Niobe's St Rock|4rec=130.50M|4atk=381005|4defense=227499|4hp=44293428|4weak=46573
+|5name=Daedalus|5rec=152.45M|5atk=430443|5defense=258377|5hp=62385040|5weak=50767
+|6name=Atalanta|6rec=182.81M|6atk=495903|6defense=301091|6hp=94382331|6weak=55434
+|Arec=225.38M|Aatk=586053|Adefense=360987|Ahp=145553864|Aweak=60591
+}}}}

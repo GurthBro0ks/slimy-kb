@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=680
+|relics=Grimm's Fairy Tales,Essay on Manners
+|rank=purple
+|amount=2
+|category=self
+|description=Snail HP +600
+}}

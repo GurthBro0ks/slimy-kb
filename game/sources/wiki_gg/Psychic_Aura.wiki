@@ -1,0 +1,16 @@
+{{CargoOrgan
+|name=Psychic Aura
+|type=Common
+|rank=green
+|id=10802
+|idx=2
+|description=After years of praying, the faith of the devoted manifests itself in the form of bright halos over their heads.
+|skill=
+|hp=670
+|def=34
+|atk=46
+|rush=60
+|gene1=In explorations, B-tads gained +2.5%
+|gene2=In explorations, B-tads gained +2.5%
+|gene7=In explorations, B-tads gained +2.5% (Awakened)
+|}}

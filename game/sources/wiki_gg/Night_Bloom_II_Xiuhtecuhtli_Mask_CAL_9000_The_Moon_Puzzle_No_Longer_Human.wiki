@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Night Bloom II,Xiuhtecuhtli Mask,CAL 9000,The Moon Puzzle,No Longer Human
+|rank=purple
+|amount=5
+|category=minion
+|description=Demon Minion MAX +9
+}}
+[[Category:Minion]]
+[[Category:Demon Minion MAX Cap Boost]]

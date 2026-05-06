@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Murder of Roger
+|class_id=22706
+|rank=SS
+|affct=CIV
+|birthday=10-13
+|source=Lottery Machine No.3 (0.36%)
+|description=On Oct 13, 1925 AD, Agatha Christie completed the writing of The Murder of Roger.<br>The Murder of Roger is Agatha Christie's masterpiece. The structure of the case, the design of the plot, and the use of psychology in the work all reflect the author's unique style. Agatha Christie used the first-person perspective as the narrator and adopted a unique internal visual narrative method to give readers a sense of involvement. It is not until the end of the novel that readers suddenly realize that the entire book is the confession of the criminal. This dramatically increases the readability of the story, and it is the first detective novel to use narrative tricks.
+|fame=73
+|art=63
+|fth=61
+|civ=105
+|tech=45
+|ss1=Snail HP +200<br>Per 10 Protolith Chests opened, Snail HP +20<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +16<br>Opened Protolith Chests: 500/500
+|ss2=Snail HP +300<br>Per 10 Protolith Chests opened, Snail HP +30<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +24<br>Opened Protolith Chests: 500/500
+|ss3=Snail HP +400<br>Per 10 Protolith Chests opened, Snail HP +40<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +32<br>Opened Protolith Chests: 500/500
+|ss4=Snail HP +600<br>Per 10 Protolith Chests opened, Snail HP +60<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +48<br>Opened Protolith Chests: 500/500
+|ss5=Snail HP +800<br>Per 10 Protolith Chests opened, Snail HP +80<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +64<br>Opened Protolith Chests: 500/500
+|ss6=Snail HP +1100<br>Per 10 Protolith Chests opened, Snail HP +110<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +88<br>Opened Protolith Chests: 500/500
+|ss7=Snail HP +1100<br>Per 10 Protolith Chests opened, Snail HP +110<br>Per 10 Protolith Chests opened, Priest-Snail Assistance DMG +88<br>Opened Protolith Chests: 500/500<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Britland skill III.png|50px]]Place in Britland Museum: Medal Output +30
+|skill2=[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail RUSH +600
+|skill3=[[File:Swampsanctum skill III.png|50px]]Place in Swamp Sanctum: This Relic's CIV +15
+|mirage={{Mirage|name=Murder in King's Abbott|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}
+|3name=Roger|3rec=136.24M|3atk=376317|3defense=235582|3hp=22035003|3weak=37994
+|4name=Poirot|4rec=203.56M|4atk=537339|4defense=330289|4hp=40881027|4weak=44010
+|5name=Dr. James Sheppard|5rec=319.22M|5atk=753673|5defense=449751|5hp=82190991|5weak=52312
+|Arec=449.31M|Aatk=972196|Adefense=566789|Ahp=139254715|Aweak=57829
+}}}}

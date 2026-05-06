@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Strength Crystal
+|type=Common
+|rank=orange
+|id=10861
+|idx=68
+|description="The Strength is channeled from Acupoint Baihui, runs through the body, converges into Dantian, warms up for 7 years and finally forms crystals!"
+—The Strength Yijin Jing
+|skill=
+|hp=2288
+|def=164
+|atk=139
+|rush=313
+|gene1=In Angel or Mecha Forms, {race} ATK +120
+|gene2=When in Angel or Mecha Forms:
+> Gain +6% Cells in explorations
+|gene3=Water DMG +90
+|gene4=Each round, {race} DEF +60
+|gene5=Species War Cabin, deployable robots +3
+|gene7=Species War Cabin, deployable robots +9 (Awakened)
+|}}

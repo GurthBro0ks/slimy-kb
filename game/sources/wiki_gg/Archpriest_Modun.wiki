@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Archpriest Modun
+|rank=orange
+|cabin=2
+|id=182
+|gene1={race} RUSH +50
+|gene2={race} CIV +50
+|gene3=For Round 1, RUSH DMG +3%
+|gene4=Per 60 Zombie Minions in battle,
+Troop Wind DMG +6
+|gene5=Zombie Minion Skin RUSH +30%
+|gene6=Per 60 Zombie Minions in battle,
+Troop Wind DMG +10
+|gene7=Zombie Minion Skin RUSH +50%
+|}}

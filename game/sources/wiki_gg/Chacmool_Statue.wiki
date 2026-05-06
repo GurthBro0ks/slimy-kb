@@ -1,0 +1,23 @@
+{{CargoRelic
+|name=Chacmool Statue
+|class_id=22877
+|rank=SSS
+|affct=CIV
+|source=
+|description=The Chacmool statue is a type of sculpture originating from ancient Mesoamerica, primarily associated with the Toltec culture. The discovery and study of Chacmool statues provide important clues for understanding ancient Mesoamerican culture and religious practices. Chacmool statues typically depict a human figure lying down, with the upper body raised, knees bent, head turned to one side, and hands placed on the abdomen forming a container-like space. This posture is believed to be related to sacrificial activities, with the statue's abdomen possibly used as a container for offerings, especially hearts, which were an important part of sacrificial rituals in certain ancient Mesoamerican cultures. Chacmool statues have had a significant influence on modern art creation, inspiring some modern artists to create a series of sculptures with similar postures.
+|fame=67
+|art=67
+|fth=65
+|civ=107
+|tech=56
+|ss1=Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per CIV Bionic Part extracted, Snail ATK +15<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +144<br>CIV Bionic Part Extracted: 10/10
+|ss2=Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per CIV Bionic Part extracted, Snail ATK +20<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +192<br>CIV Bionic Part Extracted: 10/10
+|ss3=Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per CIV Bionic Part extracted, Snail ATK +25<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +240<br>CIV Bionic Part Extracted: 10/10
+|ss4=Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per CIV Bionic Part extracted, Snail ATK +35<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +336<br>CIV Bionic Part Extracted: 10/10
+|ss5=Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per CIV Bionic Part extracted, Snail ATK +45<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +432<br>CIV Bionic Part Extracted: 10/10
+|ss6=Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per CIV Bionic Part extracted, Snail ATK +60<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +576<br>CIV Bionic Part Extracted: 10/10
+|ss7=Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per CIV Bionic Part extracted, Snail ATK +60<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +576<br>CIV Bionic Part Extracted: 10/10<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)
+|skill1=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop DMG REDUC +6%
+|skill2=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Wind DMG +60
+|skill3=[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop Earth DMG +60
+}}

@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Fuchun Mountains,Tyr's Arm,Platinum Record,Schindler's List,Polonium,Cavendish's Scale
+|rank=purple
+|amount=6
+|category=dna
+|description=All Gene Research SPD +2%
+}}
+[[Category:DNA]]

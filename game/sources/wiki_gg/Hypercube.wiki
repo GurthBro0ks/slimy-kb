@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Hypercube
+|class_id=22911
+|rank=SSS
+|affct=TECH
+|source=
+|description=The Hypercube is a four-dimensional figure composed of eight three-dimensional cubes. This four-dimensional shape features each cube interconnected by their faces, with two cubes sharing each face. For those in the three-dimensional world, it's impossible to intuitively understand the hypercube, but it can be visualized by projecting it into three-dimensional space. Every corner of it is both a starting point and an endpoint, symbolizing the infinite cycle of the universe. With Hypercube, travelers can traverse parallel universes and experience the non-linear flow of time.
+|fame=66
+|art=47
+|fth=73
+|civ=68
+|tech=108
+|ss1=Snail Leadership +3<br>For every 3 levels of Base Station cleared, Snail HP +30<br>For every 3 levels of Base Station cleared, Snail RUSH +3<br>Base Station LVLs Cleared: 150/150
+|ss2=Snail Leadership +4<br>For every 3 levels of Base Station cleared, Snail HP +40<br>For every 3 levels of Base Station cleared, Snail RUSH +4<br>Base Station LVLs Cleared: 150/150
+|ss3=Snail Leadership +5<br>For every 3 levels of Base Station cleared, Snail HP +50<br>For every 3 levels of Base Station cleared, Snail RUSH +5<br>Base Station LVLs Cleared: 150/150
+|ss4=Snail Leadership +7<br>For every 3 levels of Base Station cleared, Snail HP +70<br>For every 3 levels of Base Station cleared, Snail RUSH +7<br>Base Station LVLs Cleared: 150/150
+|ss5=Snail Leadership +9<br>For every 3 levels of Base Station cleared, Snail HP +90<br>For every 3 levels of Base Station cleared, Snail RUSH +9<br>Base Station LVLs Cleared: 150/150
+|ss6=Snail Leadership +12<br>For every 3 levels of Base Station cleared, Snail HP +120<br>For every 3 levels of Base Station cleared, Snail RUSH +12<br>Base Station LVLs Cleared: 150/150
+|ss7=Snail Leadership +12<br>For every 3 levels of Base Station cleared, Snail HP +120<br>For every 3 levels of Base Station cleared, Snail RUSH +12<br>Base Station LVLs Cleared: 150/150<br>Snail HP +1000 (Awakened)
+|skill1=[[File:Mantis skill III.png|50px]]Place in a Mantis Biozilla: In Species War, Troop DMG toward heroes +6%
+|skill2=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion HP +9%
+|skill3=[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop Wind DMG +60
+|mirage={{Mirage|name=Hypergeometry|reward={{RewardIconWithLink|Void Monolith, +1000|orange}}
+|3name=dungeon_event@4851_1|3rec=409.79M|3atk=939394|3defense=531229|3hp=251598438|3weak=69817
+|4name=dungeon_event@4852_1|4rec=515.76M|4atk=1120867|4defense=626567|4hp=415445133|4weak=75942
+|5name=dungeon_event@4853_1|5rec=679.44M|5atk=1517122|5defense=778210|5hp=670746870|5weak=84512
+|6name=dungeon_event@4854_1|6rec=933.69M|6atk=2336612|6defense=1050889|6hp=1208728448|6weak=94953
+|Arec=1360.49M|Aatk=3491687|Adefense=1463453|Ahp=2142121815|Aweak=107950
+}}}}

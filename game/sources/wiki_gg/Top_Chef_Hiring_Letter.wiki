@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Top Chef Hiring Letter
+|class_id=20924
+|rank=Green
+|affct=FAME
+|source=
+|description=The way of cooking is endless. Chefs who have achieved a certain level of accomplishment in their culinary journey are awarded the title of Top Chef for their outstanding contributions to the industry and to encourage them to continue advancing in the culinary arts. To recruit chefs of this caliber, monetary incentives are no longer effective; opportunities for further advancement in the culinary arts are what they truly desire!
+|fame=29
+|art=15
+|fth=15
+|civ=17
+|tech=14
+|ss1=Snail HP +200<br>At the Culinary Shop, Daily Supply Deal +1
+|ss2=Snail HP +400<br>At the Culinary Shop, Daily Supply Deal +2
+|ss3=Snail HP +600<br>At the Culinary Shop, Daily Supply Deal +3
+|ss4=Snail HP +600<br>At the Culinary Shop, Daily Supply Deal +3
+|ss7=Snail HP +600<br>At the Culinary Shop, Daily Supply Deal +3<br> (Awakened)
+}}

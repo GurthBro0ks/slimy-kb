@@ -1,0 +1,29 @@
+{{CargoRelic
+|name=Guru Granth Sahib
+|class_id=21243
+|rank=SSS
+|affct=FAITH
+|source=
+|description=The holiest scripture of Sikhism, revered as a living Guru beyond the written word. It spans 1,430 pages in Gurmukhi script, compiling 5,894 hymns from 33 spiritual voices—including Sikh Gurus, Bhakti poets, and Sufi saints. Housed in temples under silk, it’s fanned day and night, read with ritual purity; desecration is cause for armed defense.
+|fame=61
+|art=78
+|fth=106
+|civ=48
+|tech=69
+|ss1=All Orange Minion Skin HARD Stats +5%<br>Per 60 T8+ Minions deployed, Troop RUSH +36<br>Per 1k Species War Tech Pts, Snail Primeval Power +3<br>Species War Tech Pts: 60000/60000
+|ss2=All Orange Minion Skin HARD Stats +10%<br>Per 60 T8+ Minions deployed, Troop RUSH +48<br>Per 1k Species War Tech Pts, Snail Primeval Power +4<br>Species War Tech Pts: 60000/60000
+|ss3=All Orange Minion Skin HARD Stats +15%<br>Per 60 T8+ Minions deployed, Troop RUSH +60<br>Per 1k Species War Tech Pts, Snail Primeval Power +5<br>Species War Tech Pts: 60000/60000
+|ss4=All Orange Minion Skin HARD Stats +25%<br>Per 60 T8+ Minions deployed, Troop RUSH +84<br>Per 1k Species War Tech Pts, Snail Primeval Power +7<br>Species War Tech Pts: 60000/60000
+|ss5=All Orange Minion Skin HARD Stats +35%<br>Per 60 T8+ Minions deployed, Troop RUSH +108<br>Per 1k Species War Tech Pts, Snail Primeval Power +9<br>Species War Tech Pts: 60000/60000
+|ss6=All Orange Minion Skin HARD Stats +50%<br>Per 60 T8+ Minions deployed, Troop RUSH +144<br>Per 1k Species War Tech Pts, Snail Primeval Power +12<br>Species War Tech Pts: 60000/60000
+|ss7=All Orange Minion Skin HARD Stats +50%<br>Per 60 T8+ Minions deployed, Troop RUSH +144<br>Per 1k Species War Tech Pts, Snail Primeval Power +12<br>Species War Tech Pts: 60000/60000<br>Per 60 T8+ Minions deployed, Troop RUSH +120 (Awakened)
+|skill1=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Relic FTH +15
+|skill2=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Zone SUP effect reduced by 30%
+|skill3=[[File:Primevalwood skill III.png|50px]]Placed in Primeval Wood:Primeval Wood, Lottery Ticket output speed+30%
+|mirage={{Mirage|name=dungeon@21243_1|reward={{RewardIconWithLink|Incense, +3|orange}}
+|3name=dungeon_event@4465_1|3rec=233.90M|3atk=604117|3defense=372979|3hp=162552259|3weak=61488
+|4name=dungeon_event@4466_1|4rec=339.92M|4atk=748750|4defense=468372|4hp=281590716|4weak=67521
+|5name=dungeon_event@4467_1|5rec=478.81M|5atk=939966|5defense=593323|5hp=472985704|5weak=73490
+|6name=dungeon_event@4468_1|6rec=656.33M|6atk=1187872|6defense=753421|6hp=706518855|6weak=79456
+|Arec=844.09M|Aatk=1502153|Adefense=954800|Ahp=1028598321|Aweak=86346
+}}}}

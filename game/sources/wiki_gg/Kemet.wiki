@@ -1,0 +1,30 @@
+{{Location|title=Kemet|imagecaption=Map of Kemet|image=File:KemetFullMap.png}}
+
+==Kemet==
+The magnificent river flows across the sand. At the end of the dusk stands the eternal tower!
+
+Kemet is the 6th of 8 [[Realms]].
+{{realm table}}
+
+==Intel==
+See [[Kemet INTEL]] for INTEL tables. 
+
+==Apostles==
+See [[Kemet Apostles]] for each Apostles' stats.
+
+See [[Past and Future Apostles]] for information on all Apostles within the Past or Future of each Realm.
+
+==Card Conversions==
+See [[Kemet Cards]] for a list of all limited cards in Kemet and what they can be redeemed for. 
+
+==Key Clue Records==
+See [[Kemet Key Clues]] for a list of all Key Clues in Kemet, how to complete them, and what they reward. 
+
+==Kemet Pyramids==
+See [[Kemet Pyramid]] for information on the Pyramids used in Kemet tower defense.
+
+==Ream Trait- Ma'at Tablet==
+See [[Ma'at Tablet]] for information on costs, stats, and unsealing.
+
+[[Category:Realm]]
+[[Category:Kemet]]

@@ -1,0 +1,21 @@
+{{CargoOrgan
+|name=Fateful Gaze
+|type=Bionic
+|rank=orange
+|id=10682
+|idx=40
+|description="Within that singular eye lies the primal pattern of the great cycle. It has seen countless eras rise and fall."
+— Codex Draconis
+|skill=Revive after death, restoring 7.2% of Max HP!
+|hp=1820
+|def=188
+|atk=183
+|rush=291
+|gene1=In Gene Sims, Water DMG +180
+|gene2=In Gene Sims, Wind DMG +180
+|gene3=Per Altar God Descent, {race} ATK +7
+Gods Descended: 30/30
+|gene4=In Gene Sims, Round 1 DMG +15%
+|gene5=In Gene Sims, Ignore DEF +3%
+|gene7=In Gene Sims, Round 1 DMG +15% (Awakened)
+|}}

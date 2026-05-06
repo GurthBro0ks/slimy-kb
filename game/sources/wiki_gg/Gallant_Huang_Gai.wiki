@@ -1,0 +1,15 @@
+{{CargoClone
+|name=Gallant Huang Gai
+|rank=orange
+|cabin=2
+|id=162
+|gene1={race} HP +500
+|gene2={race} TECH +50
+|gene3=Each round, {race} HP +300
+|gene4=Per 60 Mecha Minions in battle,
+Troop Water DMG +6
+|gene5=Lifesteal Effect +3%
+|gene6=Per 60 Mecha Minions in battle,
+Troop Water DMG +10
+|gene7=Lifesteal Effect +5%
+|}}

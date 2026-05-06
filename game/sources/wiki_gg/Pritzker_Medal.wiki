@@ -1,0 +1,18 @@
+{{CargoRelic
+|name=Pritzker Medal
+|class_id=20408
+|rank=Green
+|affct=FAME
+|source=
+|description=Pritzker Medal is known as the Nobel Prize for architecture. About 500 architects are nominated every year, but only one winner is awarded for outstanding talent, imagination, and responsibility.
+|fame=27
+|art=17
+|fth=13
+|civ=15
+|tech=18
+|ss1=Relic Stars required to upgrade Buildings -5%<br>Per 5 Fungus Farm LVLs, Snail ATK +6<br>Fungus Farm LVL: 50/50
+|ss2=Relic Stars required to upgrade Buildings -10%<br>Per 5 Fungus Farm LVLs, Snail ATK +12<br>Fungus Farm LVL: 50/50
+|ss3=Relic Stars required to upgrade Buildings -15%<br>Per 5 Fungus Farm LVLs, Snail ATK +18<br>Fungus Farm LVL: 50/50
+|ss4=Relic Stars required to upgrade Buildings -15%<br>Per 5 Fungus Farm LVLs, Snail ATK +18<br>Fungus Farm LVL: 50/50
+|ss7=Relic Stars required to upgrade Buildings -15%<br>Per 5 Fungus Farm LVLs, Snail ATK +18<br>Fungus Farm LVL: 50/50<br> (Awakened)
+}}

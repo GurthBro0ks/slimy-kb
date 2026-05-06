@@ -1,0 +1,30 @@
+{{CargoRelic
+|name=Columbus Chart
+|class_id=22230
+|rank=SSS
+|affct=FAME
+|birthday=08-03
+|source=
+|description=On Aug 3, 1492 AD, Columbus set out from Palos port to begin his first voyage.<br>A chart used by Columbus during his navigation. His first voyage, which lasted more than 220 days and traveled 8,000 nautical miles without casualties, created a miracle in the history of navigation. Despite only using a compass and known latitude, he only lost a handful of ships and people over the course of his four voyages due to his exceptional geographical knowledge, seafaring skills, and leadership. Although he was not the first to reach America, his voyage established the first continuous contact between Europe and America, ushering in an era of exploration.
+|fame=109
+|art=55
+|fth=57
+|civ=70
+|tech=71
+|ss1=Snail ATK +30<br>Per 60 Minions in battle:<br>> Troop ATK +9<br>Per 60 Minions in battle:<br>> Troop HARD Stats +12
+|ss2=Snail ATK +40<br>Per 60 Minions in battle:<br>> Troop ATK +18<br>Per 60 Minions in battle:<br>> Troop HARD Stats +14
+|ss3=Snail ATK +50<br>Per 60 Minions in battle:<br>> Troop ATK +27<br>Per 60 Minions in battle:<br>> Troop HARD Stats +16
+|ss4=Snail ATK +70<br>Per 60 Minions in battle:<br>> Troop ATK +45<br>Per 60 Minions in battle:<br>> Troop HARD Stats +20
+|ss5=Snail ATK +90<br>Per 60 Minions in battle:<br>> Troop ATK +63<br>Per 60 Minions in battle:<br>> Troop HARD Stats +24
+|ss6=Snail ATK +120<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30
+|ss7=Snail ATK +120<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per 60 Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Minions in battle:<br>> Troop ATK +90 (Awakened)
+|skill1=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Wind DMG +300
+|skill2=[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15
+|skill3=[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, B-tads gained +6%
+|mirage={{Mirage|name=Voyage to the New World|reward={{RewardIconWithLink|Super Treasure Map, +200|orange}}
+|3name=Columbus's Sailor|3rec=35.92M|3atk=141543|3defense=94429|3hp=5682597|3weak=19541
+|4name=Columbus's Lookout|4rec=48.14M|4atk=167313|4defense=111621|4hp=7629635|4weak=21343
+|5name=Columbus's Second Mate|5rec=61.46M|5atk=195416|5defense=130370|5hp=10075929|5weak=24524
+|6name=Columbus's First Mate|6rec=75.85M|6atk=225760|6defense=150613|6hp=13023714|6weak=30046
+|Arec=92.32M|Aatk=260494|Adefense=173786|Ahp=16657142|Aweak=33059
+}}}}

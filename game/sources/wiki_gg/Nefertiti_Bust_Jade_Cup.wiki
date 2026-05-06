@@ -1,0 +1,9 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Nefertiti Bust,Jade Cup
+|rank=purple
+|amount=2
+|category=other
+|description=When offering, 2x Neutral Chest Drops +6%
+}}
+[[Category:Other]]

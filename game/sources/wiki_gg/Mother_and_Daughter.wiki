@@ -1,0 +1,22 @@
+{{CargoRelic
+|name=Mother and Daughter
+|class_id=22133
+|rank=AA
+|affct=ART
+|birthday=05-03
+|source=Lottery Machine No.2 (0.12%), Wishing (0.03%)
+|description=On May 3, 630 AD, Songtsan Gampo used his own blood to paint the auspicious Mother and Daughter thangka.<br>This thangka belongs to Songtsen Gampo. According to the records, Songtsan Gampo drew the auspicious Mother and Daughter Statue with his blood in a dream. And this drawing is considered to be the earliest thangka. Later, thangkas all had religious themes. Due to the use of precious minerals and plants as pigments, painted thangkas can still maintain their bright color even after a hundred years.
+|fame=28
+|art=68
+|fth=43
+|civ=47
+|tech=42
+|ss1=Mutant Minion DEF +2%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +16%
+|ss2=Mutant Minion DEF +3%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +24%
+|ss3=Mutant Minion DEF +4%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +32%
+|ss4=Mutant Minion DEF +6%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +48%
+|ss5=Mutant Minion DEF +8%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +64%
+|ss7=Mutant Minion DEF +8%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +64%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +56% (Awakened)
+|skill1=[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Demon Cells gained +7.5%
+|skill2=[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's ART +10
+}}

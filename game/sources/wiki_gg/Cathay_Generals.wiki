@@ -1,0 +1,1469 @@
+==Cathay Generals==
+Throughout [[Cathay]], Generals can be appointed to assist you in battle. They can be acquired from [[Cathay INTEL|INTEL]], [[Cathay Cards|card conversion]], and [[Cathay Key Clues|key clue events]]. Each general has a skill that applies to the snail and a unique skill that applies to multiple generals or the snail. Upgrading Generals requires {{RewardIconWithText|Prestige}}, which is gained during normal exploration and can be improved with [[Cathay INTEL|INTEL]].
+
+Generals will die in battle, and be revived in the next exploration, or rarely with 7-Star Lamp once unlocked.
+
+If the exploration is sped up, the '''generals will not die to random encounters along the way.'''
+
+===Recommended Order of Upgrade===
+#'''1st Wu General: Qiao Sisters''' to T9 - In explorations, {{RewardIconWithText|Prestige}} gained +10%
+#'''3rd Warlord General: Charming Chan''' to T9 - All {{RewardIconWithText|Prestige}} cost -10%
+#'''1st Shu General: Madam Huang''' to T9 - In explorations, {{RewardIconWithText|INTEL}} gained +10%
+#'''1st Warlord General: Kiddo Kong Rong''' to T9 - Pears gained every 30 minutes +9 (at T9, gain {{RewardIconWithLink|Pear Basket|green}})
+#'''1st Wei General: Lady Zhen''' to T9 - In explorations, {{RewardIconWithText|B-Tad}}s gained +10%
+
+Note also that the 7th Shu general, [[Advisor Zhuge]], and the 7th Wu general [[Taoist Yu Ji]] become [[Partners]] after being raised to T9.
+
+==Origins and Final Reward==
+Here is a list of all of the generals in Cathay, how to obtain them, and what is earned once they reach max tier (T9). 
+{| class="wikitable"
+!Kingdom
+!General
+!Origin
+!Max (T9) Reward
+|-
+| rowspan="7" style="background-color:var(--blue-bg); text-align:center"|'''Wei'''
+|Lady Zhen ''Nymph of Luo''
+|[[Cathay INTEL#Wei|Wei INTEL tile 1]]
+|{{RewardIconWithLink|Cathay Treasure Map, +60}}<br>{{RewardIconWithText|Byakko Spirit, +3}}
+|-
+|Guard Dian Wei ''Bodyguard''
+|[[Cathay INTEL#Wei|Wei INTEL tile 3]]
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Genbu Spirit, +3}}
+|-
+|Cyclops Xiahou D ''Yuanrang''
+|[[Cathay INTEL#Wei|Wei INTEL tile 7]]
+|{{RewardIconWithLink|General Xiahou D.'s Eye|blue}}<br>{{RewardIconWithText|Suzaku Spirit, +3}}<br>(Ability to get Eyeball [[Nursery#Chore_Dispatch|Red Chores in Nursery]].)
+|-
+|Vanguard Zhang Liao ''Wenyuan''
+|[[Cathay INTEL#Wei|Wei INTEL tile 12]]
+|{{RewardIconWithLink|Cathay Treasure Map, +60}}<br>{{RewardIconWithText|Genbu Spirit, +3}}
+|-
+|Counselor Guo Jia ''Fengxiao''
+|[[Cathay INTEL#Wei|Wei INTEL tile 17]]
+|{{RewardIconWithLink|Cathay Treasure Map, +60}}<br>{{RewardIconWithText|Suzaku Spirit, +3}}
+|-
+|Minister Cao Cao ''Mengde''
+|Raise the first 5 Wei Generals to tier 9
+|{{RewardIconWithText|Seiryuu Spirit, +3}}<br>{{RewardIconWithLink|Imperial Jade, +10 Fragments|orange}}
+|-
+|Strategist Sima Yi ''Zhongda''
+|Complete [[Cathay Key Clues#Kidnap for Power|Cathay Key Clue "Kidnap for Power"]]
+|{{RewardIconWithLink|Lottery Ticket, +2|orange}}<br>{{RewardIconWithText|Suzaku Spirit, +3}}
+|-
+|rowspan="7" style="background-color:var(--green-bg); text-align:center"|'''Shu'''
+|Madam Huang ''Wanzhen''
+|[[Cathay INTEL#Wei|Wei INTEL tile 1]]
+|{{RewardIconWithText|Byakko Spirit, +3}}<br>{{RewardIconWithLink|Wooden Ox|green}}
+|-
+|Super Ma Chao ''Mengqi''
+|[[Cathay INTEL#Shu|Shu INTEL tile 3]]
+|{{RewardIconWithLink|Cathay Treasure Map, +60}}<br>{{RewardIconWithText|Genbu Spirit, +3}}
+|-
+|Stalwart Zhao Yun ''Zilong''
+|[[Cathay INTEL#Wei|Wei INTEL tile 7]]
+|{{RewardIconWithText|Seiryuu Spirit, +3}}<br>{{RewardIconWithLink|Cathay Treasure Map, +60}}
+|-
+|Brawler Zhang Fei ''Yide''
+|[[Cathay INTEL#Wei|Wei INTEL tile 12]]
+|{{RewardIconWithText|Seiryuu Spirit, +3}}<br>{{RewardIconWithLink|Cathay Treasure Map, +60}}
+|-
+|Faithful Guan Yu ''Yunchang''
+|[[Cathay INTEL#Wei|Wei INTEL tile 17]]
+|{{RewardIconWithText|Travel Speedup, +2h}}<br>{{RewardIconWithText|Suzaku Spirit, +3}}
+|-
+|Useless Liu Shan ''Gongsi''
+|Raise the first 5 Shu Generals to tier 9
+|{{RewardIconWithLink|Imperial Jade, +10 Fragments|orange}}<br>{{RewardIconWithText|Byakko Spirit, +3}}
+|-
+|Adviser Zhuge ''Kongming''
+|Complete [[Cathay Key Clues #Uphold the Empire|Cathay Key Clue "Uphold the Empire"]]
+|{{RewardIconWithText|Suzaku Spirit, +3}}<br>{{RewardIconWithLink|Wish Coin|orange}}<br>(Partner [[Adviser Zhuge]])
+|-
+| rowspan="7" style="background-color:var(--red-bg); text-align:center"|'''Wu'''
+|Qiao Sisters ''Beauties''
+|[[Cathay INTEL#Wu|Wu INTEL tile 1]]
+|{{RewardIconWithText|Gene Speedup, +8h}}<br>{{RewardIconWithText|Byakko Spirit, +3}}
+|-
+|Princess Sun ''Hawk''
+|[[Cathay INTEL#Wu|Wu INTEL tile 3]]
+|{{RewardIconWithText|Seiryuu Spirit, +3}}<br>{{RewardIconWithLink|Cathay Treasure Map, +60}}
+|-
+|Warscar Zhou Tai ''Youping''
+|[[Cathay INTEL#Wu|Wu INTEL tile 7]]
+|{{RewardIconWithLink|Cathay Treasure Map, +60}}<br>{{RewardIconWithText|Genbu Spirit, +3}}<br>{{RewardIconWithText|W-tad, +80}}
+|-
+|Gallant Huang Gai ''Gongfu''
+|[[Cathay INTEL#Wu|Wu INTEL tile 12]]
+|{{RewardIconWithText|B-Tad, +5k}}<br>{{RewardIconWithText|Genbu Spirit, +3}}
+|-
+|Admiral Zhou Yu ''Gongjin''
+|[[Cathay INTEL#Wu|Wu INTEL tile 17]]
+|{{RewardIconWithLink|Cathay Treasure Map, +60}}<br>{{RewardIconWithText|Suzaku Spirit, +3}}
+|-
+|Lord Sun Quan ''Zhongmou''
+|Raise first 5 Wu Generals to tier 9
+|{{RewardIconWithText|Seiryuu Spirit, +3}}<br>{{RewardIconWithLink|Imperial Jade, +10 Fragments|orange}}
+|-
+|Taoist Yu Ji ''Taoist of Peace''
+|Complete [[Cathay Key Clues#Searching for the Deity|Cathay Key Clue "Searching for the Deity"]]
+|{{RewardIconWithText|Suzaku Spirit, +3}}<br>(Partner [[Taoist Yu Ji]])
+|-
+|rowspan="7" style="background-color:var(--orange-bg); text-align:center"|'''Warlord Generals'''
+|Kiddo Kong Rong ''Wenju''
+|Exchange [[Cathay Cards#Tier 1 (White)|7 white Mahjong cards]]
+|{{RewardIconWithLink|Pear Basket|green}}<br>{{RewardIconWithText|W-Tad, +80}}<br>{{RewardIconWithText|Byakko Spirit, +3}}
+|-
+|Rebel Zhang Jiao ''Rebel''
+|Exchange [[Cathay Cards#Tier 2 (Green)|7 green Mahjong cards]]
+|{{RewardIconWithText|Seiryuu Spirit, +3}}<br>{{RewardIconWithLink|Cathay Treasure Map, +60}}
+|-
+|Charming Diao Chan ''Moon''
+|Exchange [[Cathay Cards#Tier 3 (Blue)|7 blue Mahjong cards]]
+|{{RewardIconWithLink|Cathay Treasure Map, +60}}<br>{{RewardIconWithText|Byakko Spirit, +3}}
+|-
+|Healer Hua Tuo ''Yuanhua''
+|Exchange [[Cathay Cards#Tier 4 (Purple)|7 purpleMahjong cards]]
+|{{RewardIconWithText|Glue, +50}}<br>{{RewardIconWithText|Byakko Spirit, +3}}
+|-
+|Chief Meng Huo ''Barbarian''
+|Exchange [[Cathay Cards#Tier 5 (Orange)|6 orange Mahjong cards]]
+|{{RewardIconWithLink|Cathay Treasure Map, +60}}<br>{{RewardIconWithText|Genbu Spirit, +3}}<br>{{RewardIconWithText|W-Tad, +24}}
+|-
+|Warlord Dong Zhuo ''Zhongying''
+|Raise the first 5 Warlord Generals to tier 9
+|{{RewardIconWithText|Seiryuu Spirit, +3}}<br>{{RewardIconWithLink|Imperial Jade, +10 Fragments|orange}}<br>{{RewardIconWithText|W-Tad, +80}}
+|-
+|Master Zuo Ci ''Yuanfang''
+|Complete [[Cathay Key Clues#Yellow Turban Rebellion|Cathay Key Clue "Yellow Turban Rebellion"]]
+|{{RewardIconWithText|Genbu Spirit, +3}}<br>{{RewardIconWithLink|Incense, +1|orange}}
+|}
+
+==Stats and Skills==
+Here is a list of all the generals' stats and unique skills.
+
+===Kingdom of Wei===
+{| class="wikitable mw-collapsible mw-collapsed"
+!General
+!Tier
+!Required<br>{{RewardIconWithText|Prestige}}
+!Stats
+!Skills
+|-
+|rowspan="9"|Lady Zhen ''Nymph of Luo''
+|1
+|1k
+|Regen 100
+|In explorations, B-tads gained +2%
+|-
+|2
+|500
+|Regen 200
+|In explorations, B-tads gained +3%
+|-
+|3
+|1k
+|Regen 300
+|In explorations, B-tads gained +4%
+|-
+|4
+|1.5k
+|Regen 400
+|In explorations, B-tads gained +5%
+|-
+|5
+|2.5k
+|Regen 500
+|In explorations, B-tads gained +6%
+|-
+|6
+|4k
+|Regen 600
+|In explorations, B-tads gained +7%
+|-
+|7
+|6k
+|Regen 700
+|In explorations, B-tads gained +8%
+|-
+|8
+|10k
+|Regen 800 
+|In explorations, B-tads gained +9%
+|-
+|9
+|25k
+|Regen 900 
+|In explorations, B-tads gained +10%
+|-
+|rowspan="9"|Guard Dian Wei ''Bodyguard''
+|1
+|1k
+|CRIT 10%
+|All Wei Generals ATK +4%
+|-
+|2
+|500
+|CRIT 20%
+|All Wei Generals ATK +6%
+|-
+|3
+|1k
+|CRIT 30%
+|All Wei Generals ATK +8%
+|-
+|4
+|1.5k
+|CRIT 40%
+|All Wei Generals ATK +10%
+|-
+|5
+|2.5k
+|CRIT 50%
+|All Wei Generals ATK +12%
+|-
+|6
+|4k
+|CRIT 60%
+|All Wei Generals ATK +14%
+|-
+|7
+|6k
+|CRIT 70%
+|All Wei Generals ATK +16%
+|-
+|8
+|10k
+|CRIT 80%
+|All Wei Generals ATK +18%
+|-
+|9
+|20k
+|CRIT 90%
+|All Wei Generals ATK +20%
+|-
+|rowspan="9"|Cyclops Xiahou D ''Yuanrang''
+|1
+|1.2k
+|DMG REDUC 3%
+|After death, next General ATK & DEF +6%
+|-
+|2
+|600
+|DMG REDUC 6%
+|After death, next General ATK & DEF +9%
+|-
+|3
+|1.2k
+|DMG REDUC 9%
+|After death, next General ATK & DEF +12%
+|-
+|4
+|1.8k
+|DMG REDUC 12%
+|After death, next General ATK & DEF +15%
+|-
+|5
+|3k
+|DMG REDUC 15%
+|After death, next General ATK & DEF +18%
+|-
+|6
+|4.8k
+|DMG REDUC 18%
+|After death, next General ATK & DEF +21%
+|-
+|7
+|7.2k
+|DMG REDUC 21%
+|After death, next General ATK & DEF +24%
+|-
+|8
+|12k
+|DMG REDUC 24%
+|After death, next General ATK & DEF +27%
+|-
+|9
+|30k
+|DMG REDUC 27%
+|After death, next General ATK & DEF +30%
+|-
+|rowspan="9"|Vanguard Zhang Liao ''Wenyuan''
+|1
+|1.2k
+|Dodge 3%
+|All Wei Generals DEF +4%
+|-
+|2
+|600
+|Dodge 6%
+|All Wei Generals DEF +6%
+|-
+|3
+|1.2k
+|Dodge 9%
+|All Wei Generals DEF +8%
+|-
+|4
+|1.8k
+|Dodge 12%
+|All Wei Generals DEF +10%
+|-
+|5
+|3k
+|Dodge 15%
+|All Wei Generals DEF +12%
+|-
+|6
+|4.8k
+|Dodge 18%
+|All Wei Generals DEF +14%
+|-
+|7
+|7.2k
+|Dodge 21%
+|All Wei Generals DEF +16%
+|-
+|8
+|12k
+|Dodge 24%
+|All Wei Generals DEF +18%
+|-
+|9
+|30k
+|Dodge 27%
+|All Wei Generals DEF +20%
+|-
+|rowspan="9"|Counselor Guo Jia ''Fengxiao''
+|1
+|1.4k
+|Wind Mastery 1%
+|All Wei Generals HP +4%
+|-
+|2
+|700
+|Wind Mastery 2%
+|All Wei Generals HP +6%
+|-
+|3
+|1.4k
+|Wind Mastery 3%
+|All Wei Generals HP +8%
+|-
+|4
+|2,100
+|Wind Mastery 4%
+|All Wei Generals HP +10%
+|-
+|5
+|3.5k
+|Wind Mastery 5%
+|All Wei Generals HP +12%
+|-
+|6
+|5.6k
+|Wind Mastery 6%
+|All Wei Generals HP +14%
+|-
+|7
+|8.4k
+|Wind Mastery 7%
+|All Wei Generals HP +16%
+|-
+|8
+|14k
+|Wind Mastery 8%
+|All Wei Generals HP +18%
+|-
+|9
+|35k
+|Wind Mastery 9%
+|All Wei Generals HP +20%
+|-
+|rowspan="9"|Minister Cao Cao ''Mengde''
+|1
+|1.8k
+|Ignore DEF 5%
+|All Wei Generals basic stats +2%
+|-
+|2
+|900
+|Ignore DEF 8%
+|All Wei Generals basic stats +3%
+|-
+|3
+|1.8k
+|Ignore DEF 12%
+|All Wei Generals basic stats +4%
+|-
+|4
+|2,700
+|Ignore DEF 16%
+|All Wei Generals basic stats +5%
+|-
+|5
+|4.5k
+|Ignore DEF 20%
+|All Wei Generals basic stats +6%
+|-
+|6
+|7.2k
+|Ignore DEF 25%
+|All Wei Generals basic stats +7%
+|-
+|7
+|10.8k
+|Ignore DEF 30%
+|All Wei Generals basic stats +8%
+|-
+|8
+|18k
+|Ignore DEF 35%
+|All Wei Generals basic stats  +9%
+|-
+|9
+|45k
+|Ignore DEF 40%
+|All Wei Generals basic stats +10%
+|-
+|rowspan="9"|Strategist Sima Yi ''Zhongda''
+|1
+|1.4k
+|Lifesteal Rate 10%
+|In explorations, INTEL gained +2%
+|-
+|2
+|700
+|Lifesteal Rate 20%
+|In explorations, INTEL gained +3%
+|-
+|3
+|1.4k
+|Lifesteal Rate 30%
+|In explorations, INTEL gained +4%
+|-
+|4
+|2,100
+|Lifesteal Rate 40%
+|In explorations, INTEL gained +5%
+|-
+|5
+|3.5k
+|Lifesteal Rate 50%
+|In explorations, INTEL gained +6%
+|-
+|6
+|5.6k
+|Lifesteal Rate 60%
+|In explorations, INTEL gained +7%
+|-
+|7
+|8.4k
+|Lifesteal Rate 70%
+|In explorations, INTEL gained +8%
+|-
+|8
+|14k
+|Lifesteal Rate 80%
+|In explorations, INTEL gained +9%
+|-
+|9
+|35k
+|Lifesteal Rate 90%
+|In explorations, INTEL gained +10%
+|}
+
+===Kingdom of Shu===
+{| class="wikitable mw-collapsible mw-collapsed"
+!General
+!Tier
+!Required<br>{{RewardIconWithText|Prestige}}
+!Stats
+!Skills
+|-
+|rowspan="9"|Madam Huang ''Wanzhen''
+|1
+|1k
+|DMG REDUC 3%
+|In explorations, INTEL gained +2%
+|-
+|2
+|500
+|DMG REDUC 6%
+|In explorations, INTEL gained +3%
+|-
+|3
+|1k
+|DMG REDUC 9%
+|In explorations, INTEL gained +4%
+|-
+|4
+|1.5k
+|DMG REDUC 12%
+|In explorations, INTEL gained +5%
+|-
+|5
+|2.5k
+|DMG REDUC 15%
+|In explorations, INTEL gained +6%
+|-
+|6
+|4k
+|DMG REDUC 18%
+|In explorations, INTEL gained +7%
+|-
+|7
+|6k
+|DMG REDUC 21%
+|In explorations, INTEL gained +8%
+|-
+|8
+|10k
+|DMG REDUC 24%
+|In explorations, INTEL gained +9%
+|-
+|9
+|25k
+|DMG REDUC 27%
+|In explorations, INTEL gained +10%
+|-
+|rowspan="9"|Super Ma Chao ''Mengqi''
+|1
+|1k
+|Dodge 3%
+|All Shu Generals HP +4%
+|-
+|2
+|500
+|Dodge 6%
+|All Shu Generals HP +6%
+|-
+|3
+|1k
+|Dodge 9%
+|All Shu Generals HP +8%
+|-
+|4
+|1.5k
+|Dodge 12%
+|All Shu Generals HP +10%
+|-
+|5
+|2.5k
+|Dodge 15%
+|All Shu Generals HP +12%
+|-
+|6
+|4k
+|Dodge 18%
+|All Shu Generals HP +14%
+|-
+|7
+|6k
+|Dodge 21%
+|All Shu Generals HP +16%
+|-
+|8
+|10k
+|Dodge 24%
+|All Shu Generals HP +18%
+|-
+|9
+|25k
+|Dodge 27%
+|All Shu Generals HP +20%
+|-
+|rowspan="9"|Stalwart Zhao Yun ''Zilong''
+|1
+|1.2k
+|Ignore DEF 5%
+|Self basic stats +6%
+|-
+|2
+|600
+|Ignore DEF 8%
+|Self basic stats +9%
+|-
+|3
+|1.2k
+|Ignore DEF 12%
+|Self basic stats +12%
+|-
+|4
+|1.8k
+|Ignore DEF 16%
+|Self basic stats +15%
+|-
+|5
+|3k
+|Ignore DEF 20%
+|Self basic stats +18%
+|-
+|6
+|4.8k
+|Ignore DEF 25%
+|Self basic stats +21%
+|-
+|7
+|7.2k
+|Ignore DEF 30%
+|Self basic stats +24%
+|-
+|8
+|12k
+|Ignore DEF 35%
+|Self basic stats +27%
+|-
+|9
+|30k
+|Ignore DEF 40%
+|Self basic stats +30%
+|-
+|rowspan="9"|Brawler Zhang Fei ''Yide''
+|1
+|1.2k
+|CRIT 10%
+|All Shu Generals ATK +4%
+|-
+|2
+|600
+|CRIT 20%
+|All Shu Generals ATK +6%
+|-
+|3
+|1.2k
+|CRIT 30%
+|All Shu Generals ATK +8%
+|-
+|4
+|1.8k
+|CRIT 40%
+|All Shu Generals ATK +10%
+|-
+|5
+|3k
+|CRIT 50%
+|All Shu Generals ATK +12%
+|-
+|6
+|4.8k
+|CRIT 60%
+|All Shu Generals ATK +14%
+|-
+|7
+|7.2k
+|CRIT 70%
+|All Shu Generals ATK +16%
+|-
+|8
+|12k
+|CRIT 80%
+|All Shu Generals ATK +18%
+|-
+|9
+|30k
+|CRIT 90%
+|All Shu Generals ATK +20%
+|-
+|rowspan="9"|Faithful Guan Yu ''Yunchang''
+|1
+|1.4k
+|Lifesteal Rate 10%
+|All Shu Generals DEF +4%
+|-
+|2
+|700
+|Lifesteal Rate 20%
+|All Shu Generals DEF +6%
+|-
+|3
+|1.4k
+|Lifesteal Rate 30%
+|All Shu Generals DEF +8%
+|-
+|4
+|2,100
+|Lifesteal Rate 40%
+|All Shu Generals DEF +10%
+|-
+|5
+|3.5k
+|Lifesteal Rate 50%
+|All Shu Generals DEF +12%
+|-
+|6
+|5.6k
+|Lifesteal Rate 60%
+|All Shu Generals DEF +14%
+|-
+|7
+|8.4k
+|Lifesteal Rate 70%
+|All Shu Generals DEF +16%
+|-
+|8
+|14k
+|Lifesteal Rate 80%
+|All Shu Generals DEF +18%
+|-
+|9
+|35k
+|Lifesteal Rate 90%
+|All Shu Generals DEF +20%
+|-
+|rowspan="9"|Useless Liu Shan ''Gongsi''
+|1
+|1.4k
+|Regen 100
+|In explorations, 2x Food Drops +2%
+|-
+|2
+|700
+|Regen 200
+|In explorations, 2x Food Drops +3%
+|-
+|3
+|1.4k
+|Regen 300
+|In explorations, 2x Food Drops +4%
+|-
+|4
+|2,100
+|Regen 400
+|In explorations, 2x Food Drops +5%
+|-
+|5
+|3.5k
+|Regen 500
+|In explorations, 2x Food Drops +6%
+|-
+|6
+|5.6k
+|Regen 600
+|In explorations, 2x Food Drops +7%
+|-
+|7
+|8.4k
+|Regen 700
+|In explorations, 2x Food Drops +8%
+|-
+|8
+|14k
+|Regen 800
+|In explorations, 2x Food Drops +9%
+|-
+|9
+|35k
+|Regen 900
+|In explorations, 2x Food Drops +10%
+|-
+|rowspan="9"|Adviser Zhuge ''Kongming''
+|1
+|1.8k
+|Fire Mastery 1%
+|All Shu Generals basic stats +2%
+|-
+|2
+|900
+|Fire Mastery 2%
+|All Shu Generals basic stats +3%
+|-
+|3
+|1.8k
+|Fire Mastery 3%
+|All Shu Generals basic stats +4%
+|-
+|4
+|2,700
+|Fire Mastery 4%
+|All Shu Generals basic stats +5%
+|-
+|5
+|4.5k
+|Fire Mastery 5%
+|All Shu Generals basic stats +6%
+|-
+|6
+|7.2k
+|Fire Mastery 6%
+|All Shu Generals basic stats +7%
+|-
+|7
+|10.8k
+|Fire Mastery 7%
+|All Shu Generals basic stats +8%
+|-
+|8
+|18k
+|Fire Mastery 8%
+|All Shu Generals basic stats +9%
+|-
+|9
+|45k
+|Fire Mastery 9%
+|All Shu Generals basic stats +10%
+|}
+
+===Kingdom of Wu===
+{| class="wikitable mw-collapsible mw-collapsed"
+!General
+!Tier
+!Required<br>{{RewardIconWithText|Prestige}}
+!Stats
+!Skills
+|-
+|rowspan="9"|Qiao Sisters ''Beauties''
+|1
+|1k
+|Dodge 3%
+|In explorations, Prestige gained +2%
+|-
+|2
+|500
+|Dodge 6%
+|In explorations, Prestige gained +3%
+|-
+|3
+|1k
+|Dodge 9%
+|In explorations, Prestige gained +4%
+|-
+|4
+|1.5k
+|Dodge 12%
+|In explorations, Prestige gained +5%
+|-
+|5
+|2.5k
+|Dodge 15%
+|In explorations, Prestige gained +6%
+|-
+|6
+|4k
+|Dodge 18%
+|In explorations, Prestige gained +7%
+|-
+|7
+|6k
+|Dodge 21%
+|In explorations, Prestige gained +8%
+|-
+|8
+|10k
+|Dodge 24%
+|In explorations, Prestige gained +9%
+|-
+|9
+|25k
+|Dodge 27%
+|In explorations, Prestige gained +10%
+|-
+|rowspan="9"|Princess Sun ''Hawk''
+|1
+|1k
+|CRIT 10%
+|All Wu Generals ATK +4%
+|-
+|2
+|500
+|CRIT 20%
+|All Wu Generals ATK +6%
+|-
+|3
+|1k
+|CRIT 30%
+|All Wu Generals ATK +8%
+|-
+|4
+|1.5k
+|CRIT 40%
+|All Wu Generals ATK +10%
+|-
+|5
+|2.5k
+|CRIT 50%
+|All Wu Generals ATK +12%
+|-
+|6
+|4k
+|CRIT 60%
+|All Wu Generals ATK +14%
+|-
+|7
+|6k
+|CRIT 70%
+|All Wu Generals ATK +16%
+|-
+|8
+|10k
+|CRIT 80%
+|All Wu Generals ATK +18%
+|-
+|9
+|25k
+|CRIT 90%
+|All Wu Generals ATK +20%
+|-
+|rowspan="9"|Warscar Zhou Tai ''Youping''
+|1
+|1.2k
+|Regen 100
+|Revive once with 10% HP
+|-
+|2
+|600
+|Regen 200
+|Revive once with 15% HP
+|-
+|3
+|1.2k
+|Regen 300
+|Revive once with 20% HP
+|-
+|4
+|1.8k
+|Regen 400
+|Revive once with 25% HP
+|-
+|5
+|3k
+|Regen 500
+|Revive once with 30% HP
+|-
+|6
+|4.8k
+|Regen 600
+|Revive once with 35% HP
+|-
+|7
+|7.2k
+|Regen 700
+|Revive once with 40% HP
+|-
+|8
+|12k
+|Regen 800
+|Revive once with 45% HP
+|-
+|9
+|30k
+|Regen 900
+|Revive once with 50% HP
+|-
+|rowspan="9"|Gallant Huang Gai ''Gongfu''
+|1
+|1.2k
+|DMG REDUC 3%
+|All Wu Generals DEF +4%
+|-
+|2
+|600
+|DMG REDUC 6%
+|All Wu Generals DEF +6%
+|-
+|3
+|1.2k
+|DMG REDUC 9%
+|All Wu Generals DEF +8%
+|-
+|4
+|1.8k
+|DMG REDUC 12%
+|All Wu Generals DEF +10%
+|-
+|5
+|3k
+|DMG REDUC 15%
+|All Wu Generals DEF +12%
+|-
+|6
+|4.8k
+|DMG REDUC 18%
+|All Wu Generals DEF +14%
+|-
+|7
+|7.2k
+|DMG REDUC 21%
+|All Wu Generals DEF +16%
+|-
+|8
+|12k
+|DMG REDUC 24%
+|All Wu Generals DEF +18%
+|-
+|9
+|30k
+|DMG REDUC 27%
+|All Wu Generals DEF +20%
+|-
+|rowspan="9"|Admiral Zhou Yu ''Gongjin''
+|1
+|1.4k
+|Water Mastery 1%
+|All Wu Generals HP +4%
+|-
+|1
+|700
+|Water Mastery 2%
+|All Wu Generals HP +6%
+|-
+|2
+|1.4k
+|Water Mastery 3%
+|All Wu Generals HP +8%
+|-
+|3
+|2,100
+|Water Mastery 4%
+|All Wu Generals HP +10%
+|-
+|4
+|3.5k
+|Water Mastery 5%
+|All Wu Generals HP +12%
+|-
+|5
+|5.6k
+|Water Mastery 6%
+|All Wu Generals HP +14%
+|-
+|6
+|8.4k
+|Water Mastery 7%
+|All Wu Generals HP +16%
+|-
+|7
+|14k
+|Water Mastery 8%
+|All Wu Generals HP +18%
+|-
+|8
+|35k
+|Water Mastery 9%
+|All Wu Generals HP +20%
+|-
+|rowspan="9"|Lord Sun Quan ''Zhongmou''
+|1
+|1.8k
+|Ignore DEF 5%
+|All Wu Generals basic stats +2%
+|-
+|2
+|900
+|Ignore DEF 8%
+|All Wu Generals basic stats +3%
+|-
+|3
+|1.8k
+|Ignore DEF 12%
+|All Wu Generals basic stats +4%
+|-
+|4
+|2,700
+|Ignore DEF 16%
+|All Wu Generals basic stats +5%
+|-
+|5
+|4.5k
+|Ignore DEF 20%
+|All Wu Generals basic stats +6%
+|-
+|6
+|7.2k
+|Ignore DEF 25%
+|All Wu Generals basic stats +7%
+|-
+|7
+|10.8k
+|Ignore DEF 30%
+|All Wu Generals basic stats +8%
+|-
+|8
+|18k
+|Ignore DEF 35%
+|All Wu Generals basic stats +9%
+|-
+|9
+|45k
+|Ignore DEF 40%
+|All Wu Generals basic stats +10%
+|-
+|rowspan="9"|Taoist Yu Ji ''Taoist of Peace''
+|1
+|1.4k
+|Lifesteal Rate 10%
+|In explorations, INTEL gained +2%
+|-
+|2
+|700
+|Lifesteal Rate 20%
+|In explorations, INTEL gained +3%
+|-
+|3
+|1.4k
+|Lifesteal Rate 30%
+|In explorations, INTEL gained +4%
+|-
+|4
+|2,100
+|Lifesteal Rate 40%
+|In explorations, INTEL gained +5%
+|-
+|5
+|3.5k
+|Lifesteal Rate 50%
+|In explorations, INTEL gained +6%
+|-
+|6
+|5.6k
+|Lifesteal Rate 60%
+|In explorations, INTEL gained +7%
+|-
+|7
+|8.4k
+|Lifesteal Rate 70%
+|In explorations, INTEL gained +8%
+|-
+|8
+|14k
+|Lifesteal Rate 80%
+|In explorations, INTEL gained +9%
+|-
+|9
+|35k
+|Lifesteal Rate 90%
+|In explorations, INTEL gained +10%
+|}
+
+===Warlord Generals===
+{| class="wikitable mw-collapsible mw-collapsed"
+!General
+!Tier
+!Required<br>{{RewardIconWithText|Prestige}}
+!Stats
+!Skills
+|-
+|rowspan="9"|Kiddo Kong Rong ''Wenju''
+|1
+|1k
+|DMG REDUC 3%
+|Pears gained every 30 minutes +1
+|-
+|2
+|500
+|DMG REDUC 6%
+|Pears gained every 30 minutes +2
+|-
+|3
+|1k
+|DMG REDUC 9%
+|Pears gained every 30 minutes +3
+|-
+|4
+|1.5k
+|DMG REDUC 12%
+|Pears gained every 30 minutes +4
+|-
+|5
+|2.5k
+|DMG REDUC 15%
+|Pears gained every 30 minutes +5
+|-
+|6
+|4k
+|DMG REDUC 18%
+|Pears gained every 30 minutes +6
+|-
+|7
+|6k
+|DMG REDUC 21%
+|Pears gained every 30 minutes +7
+|-
+|8
+|10k
+|DMG REDUC 24%
+|Pears gained every 30 minutes +8
+|-
+|9
+|25k
+|DMG REDUC 27%
+|Pears gained every 30 minutes +9
+|-
+|rowspan="9"|Rebel Zhang Jiao ''Rebel''
+|1
+|1k
+|Earth Mastery 1%
+|All Warlord Generals DEF +4%
+|-
+|2
+|500
+|Earth Mastery 2%
+|All Warlord Generals DEF +6%
+|-
+|3
+|1k
+|Earth Mastery 3%
+|All Warlord Generals DEF +8%
+|-
+|4
+|1.5k
+|Earth Mastery 4%
+|All Warlord Generals DEF +10%
+|-
+|5
+|2.5k
+|Earth Mastery 5%
+|All Warlord Generals DEF +12%
+|-
+|6
+|4k
+|Earth Mastery 6%
+|All Warlord Generals DEF +14%
+|-
+|7
+|6k
+|Earth Mastery 7%
+|All Warlord Generals DEF +16%
+|-
+|8
+|10k
+|Earth Mastery 8%
+|All Warlord Generals DEF +18%
+|-
+|9
+|25k
+|Earth Mastery 9%
+|All Warlord Generals DEF +20%
+|-
+|rowspan="9"|Charming Diao Chan ''Moon''
+|1
+|1.2k
+|Dodge 3%
+|All Prestige Cost -2%
+|-
+|2
+|600
+|Doge 6%
+|All Prestige Cost -3%
+|-
+|3
+|1.2k
+|Dodge 9%
+|All Prestige Cost -4%
+|-
+|4
+|1.8k
+|Dodge 12%
+|All Prestige Cost -5%
+|-
+|5
+|3k
+|Dodge 15%
+|All Prestige Cost -6%
+|-
+|6
+|4.8k
+|Dodge 18%
+|All Prestige Cost -7%
+|-
+|7
+|7.2k
+|Dodge 21%
+|All Prestige Cost -8%
+|-
+|8
+|12k
+|Dodge 24%
+|All Prestige Cost -9%
+|-
+|9
+|30k
+|Dodge 27%
+|All Prestige Cost -10%
+|-
+|rowspan="9"|Healer Hua Tuo ''Yuanhua''
+|1
+|1.2k
+|Regen 100
+|All Warlord Generals HP +4%
+|-
+|2
+|600
+|Regen 200
+|All Warlord Generals HP +6%
+|-
+|3
+|1.2k
+|Regen 300
+|All Warlord Generals HP +8%
+|-
+|4
+|1.8k
+|Regen 400
+|All Warlord Generals HP +10%
+|-
+|5
+|3k
+|Regen 500
+|All Warlord Generals HP +12%
+|-
+|6
+|4.8k
+|Regen 600
+|All Warlord Generals HP +14%
+|-
+|7
+|7.2k
+|Regen 700
+|All Warlord Generals HP +16%
+|-
+|8
+|12k
+|Regen 800
+|All Warlord Generals HP +18%
+|-
+|9
+|30k
+|Regen 900
+|All Warlord Generals HP +20%
+|-
+|rowspan="9"|Chief Meng Huo ''Barbarian''
+|1
+|1.4k
+|Ignore DEF 5%
+|Self basic stats +4%
+|-
+|2
+|700
+|Ignore DEF 8%
+|Self basic stats +6%
+|-
+|3
+|1.4k
+|Ignore DEF 12%
+|Self basic stats +8%
+|-
+|4
+|2,100
+|Ignore DEF 16%
+|Self basic stats +10%
+|-
+|5
+|3.5k
+|Ignore DEF 20%
+|Self basic stats +12%
+|-
+|6
+|5.6k
+|Ignore DEF 25%
+|Self basic stats +14%
+|-
+|7
+|8.4k
+|Ignore DEF 30%
+|Self basic stats +16%
+|-
+|8
+|14k
+|Ignore DEF 35%
+|Self basic stats +18%
+|-
+|9
+|35k
+|Ignore DEF 40%
+|Self basic stats +20%
+|-
+|rowspan="9"|Warlord Dong Zhuo ''Zhongying''
+|1
+|1.8k
+|CRIT 10%
+|All Warlord Generals ATK +4%
+|-
+|2
+|900
+|CRIT 20%
+|All Warlord Generals ATK +6%
+|-
+|3
+|1.8k
+|CRIT 30%
+|All Warlord Generals ATK +8%
+|-
+|4
+|2,700
+|CRIT 40%
+|All Warlord Generals ATK +10%
+|-
+|5
+|4.5k
+|CRIT 50%
+|All Warlord Generals ATK +12%
+|-
+|6
+|7.2k
+|CRIT 60%
+|All Warlord Generals ATK +14%
+|-
+|7
+|10.8k
+|CRIT 70%
+|All Warlord Generals ATK +16%
+|-
+|8
+|18k
+|CRIT 80%
+|All Warlord Generals ATK +18%
+|-
+|9
+|45k
+|CRIT 90%
+|All Warlord Generals ATK +20%
+|-
+|rowspan="9"|Master Zuo Ci ''Yuanfang''
+|1
+|1.4k
+|Lifesteal Rate 10%
+|All Warlord Generals basic stats +2%
+|-
+|2
+|700
+|Lifesteal Rate 20%
+|All Warlord Generals basic stats +3%
+|-
+|3
+|1.4k
+|Lifesteal Rate 30%
+|All Warlord Generals basic stats +4%
+|-
+|4
+|2,100
+|Lifesteal Rate 40%
+|All Warlord Generals basic stats +5%
+|-
+|5
+|3.5k
+|Lifesteal Rate 50%
+|All Warlord Generals basic stats +6%
+|-
+|6
+|5.6k
+|Lifesteal Rate 60%
+|All Warlord Generals basic stats +7%
+|-
+|7
+|8.4k
+|Lifesteal Rate 70%
+|All Warlord Generals basic stats +8%
+|-
+|8
+|14k
+|Lifesteal Rate 80%
+|All Warlord Generals basic stats +9%
+|-
+|9
+|35k
+|Lifesteal Rate 90%
+|All Warlord Generals basic stats +10%
+|}
+
+[[Category:Cathay]]

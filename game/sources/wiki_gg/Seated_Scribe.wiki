@@ -1,0 +1,32 @@
+{{CargoRelic
+|name=Seated Scribe
+|rank=Blue
+|affct=CIV
+|birthday=05-28
+|source=* Kemetic Treasure Map (20%), Lottery Machine (0.03%), Wishing (0.82%)
+* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})
+|description=On May 28, 1850, this seated statue of scribe was unearthed in the Saqqara Necropolis.
+
+This 4000-year scribe statue was unearthed from the necropolis and the statue represents a special and noble profession in ancient Egypt. The elegant statue was carved with smooth lines and features a vivid expression of the scribe. The scroll in hit left hand and the pen in his right hand reflected his professionalism. Although the carving technique was simple and some paint had peeled off, its exquisite craftsmanship was evident. 
+
+[Basic Info]
+
+Material: Stone. Era: 18th Dynasty of Egypt. Height: 53.7cm; Width: 44 cm. Collected by: Louvre Museum.
+|fame=28
+|art=30
+|fth=30
+|civ=44
+|tech=22
+|ss1=Per 100 Avatar Score, Snail DEF +1<br>Avatar Score: 5,000/5,000
+|ss2=Per 100 Avatar Score, Snail DEF +2<br>Avatar Score: 5,000/5,000
+|ss3=Per 100 Avatar Score, Snail DEF +3<br>Avatar Score: 5,000/5,000
+|ss4=Per 100 Avatar Score, Snail DEF +5<br>Avatar Score: 5,000/5,000
+|ss7=Per 100 Avatar Score, Snail DEF +5<br>Avatar Score: 5,000/5,000<br>Snail DEF +50 (Awakened)
+|skill1=[[File:Kemet skill I.png|50px]] Place in Kemetic Museum: In Kemet, Snail ATK +20
+}}
+
+[[Category:DEF Boost]]
+[[Category:ATK Boost]]
+[[Category:Kemet Exploration Boost]]
+[[Category:Kemet Museum Boost]]
+[[Category:Indigent Nobleman Relics]]

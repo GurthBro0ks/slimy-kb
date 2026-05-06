@@ -1,0 +1,20 @@
+{{CargoRelic
+|name=Hamilton's Washer
+|class_id=22007
+|rank=Blue
+|affct=FAME
+|birthday=05-29
+|source=Lottery Machine No.2 (0.07%), Wishing (0.03%)
+|description=On May 29, 1858 AD, Hamilton got a patent for his washer in America.<br>Hamilton's Washer, invented by American inventor Hamilton, is essentially a bucket with an oar-shaped shaft. By turning a crank connected to the shaft, one could wash clothes. Although it was not widely used due to its time and energy consumption and potential to damage clothing, it paved the way for the development of modern washing machines.
+|fame=47
+|art=22
+|fth=22
+|civ=29
+|tech=34
+|ss1=Per 10 Zombie Minions in battle:<br>> Troop HP +10
+|ss2=Per 10 Zombie Minions in battle:<br>> Troop HP +20
+|ss3=Per 10 Zombie Minions in battle:<br>> Troop HP +30
+|ss4=Per 10 Zombie Minions in battle:<br>> Troop HP +50
+|ss7=Per 10 Zombie Minions in battle:<br>> Troop HP +50<br>Per 10 Zombie Minions in battle:<br>> Troop HP +50 (Awakened)
+|skill1=[[File:Biozilla skill I.png|50px]]Place in a Biozilla: In Species War, All Minion HP +1%
+}}

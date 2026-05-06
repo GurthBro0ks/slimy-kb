@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=593
+|relics=Family Reunion,Elijah
+|rank=blue
+|amount=2
+|category=self
+|description=Per 10 Zombie Minions in battle: Troop HARD Stats +5
+}}

@@ -1,0 +1,10 @@
+__NOINDEX__
+{{CargoRelicResonance
+|relics=Pascal's Barrel,Omphalos,Model G Loom,Sowei Mask
+|rank=blue
+|amount=4
+|category=minion
+|description=Per 10 Dragon Minions in battle: Troop DEF +7
+}}
+[[Category:Minion]]
+[[Category:Dragon Minion DEF Boost]]

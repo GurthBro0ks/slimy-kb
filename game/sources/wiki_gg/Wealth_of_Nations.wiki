@@ -1,0 +1,48 @@
+{{CargoRelic
+|name=Wealth of Nations
+|rank=AAA
+|affct=FAME
+|birthday=03-07
+|source=Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)
+|description=On Mar 7, 1776, "The Wealth of Nations" by Adam Smith was officially published.
+
+Adam Smith took 10 years to complete this book which consists of 2 volumes, 5 sections, and 32 chapters. This was the first time mankind has conducted a logical and rigorous scientific demonstration of the principles of political governance and economy. Smith combined the development of capitalism in modern countries with economic theories and wrote this book that describes the economical process of a country.
+
+He proposed that a reasonable fiscal system must be adopted to ensure that the national income is higher than its expenditure to increase national wealth.
+
+[Famous Quotes]
+
+The division of labor is the main force in increasing labor productivity.
+
+Humans are selfish in nature.
+
+Wealth is the power to exchange labor.
+
+Science is the great antidote to the poison of enthusiasm and superstition.
+
+The fundamental cause of the division of labor is the human propensity to exchange goods.
+|fame=73
+|art=50
+|fth=40
+|civ=49
+|tech=31
+|ss1=Per 1k Tadpole Points, Snail ATK +3<br>Per 1k Tadpole Points, Snail RUSH +3<br>Tadpole Points: 20,000/20,000
+|ss2=Per 1k Tadpole Points, Snail ATK +4<br>Per 1k Tadpole Points, Snail RUSH +4<br>Tadpole Points: 20,000/20,000
+|ss3=Per 1k Tadpole Points, Snail ATK +5<br>Per 1k Tadpole Points, Snail RUSH +5<br>Tadpole Points: 20,000/20,000
+|ss4=Per 1k Tadpole Points, Snail ATK +7<br>Per 1k Tadpole Points, Snail RUSH +7<br>Tadpole Points: 20,000/20,000
+|ss5=Per 1k Tadpole Points, Snail ATK +9<br>Per 1k Tadpole Points, Snail RUSH +9<br>Tadpole Points: 20,000/20,000
+|ss7=Per 1k Tadpole Points, Snail ATK +9<br>Per 1k Tadpole Points, Snail RUSH +9<br>Tadpole Points: 20,000/20,000<br>Snail RUSH +70 (Awakened)
+|skill1=[[File:Lumbercamp skill II.png|50px]] Place in Lumber Camp: Wood Output +15%
+|skill2=[[File:Lumbercamp skill II.png|50px]] Place in Lumber Camp: This Relic's FAME +10
+}}
+
+[[Category:ATK Boost]]
+[[Category:RUSH Boost]]
+[[Category:Lumber Camp Skill]]
+[[Category:Lumber Camp Output Boost]]
+[[Category:FAME Boost]]
+[[Category:Mecha Gene Speedup Boost]]
+[[Category:Relic Boost]]
+[[Category:HP Boost]]
+[[Category:Enhanced by Tadpole Points]]
+[[Category:Enhanced by Relic Points]]

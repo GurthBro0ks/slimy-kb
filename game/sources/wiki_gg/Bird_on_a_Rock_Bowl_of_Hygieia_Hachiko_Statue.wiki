@@ -1,0 +1,8 @@
+{{CargoRelicResonance
+|id=427
+|relics=Bird on a Rock,Bowl of Hygieia,Hachiko Statue
+|rank=purple
+|amount=3
+|category=self
+|description=Per 20 FAME Wishes made, Snail RUSH +7;Wishes Made: 1000/1000
+}}

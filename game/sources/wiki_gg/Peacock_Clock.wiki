@@ -1,0 +1,31 @@
+{{CargoRelic
+|name=Peacock Clock
+|rank=Blue
+|affct=ART
+|birthday=11-20
+|source=Lottery Machine (0.03%), Wishing (1.2%), Bharata Treasure Maps (20%), Time Chest (2%)
+|description=On Nov 20, 1762, Grigory Potemkin of Russia made the Peacock Clock and presented it to Catherine the Great.
+
+The Peacock Clock was a favorite item of Catherine the Great. Each time the clock strikes the hour, the peacock standing on the golden stump will spread its feathers, while the rooster next to it will flap its wings. Besides, the owl will spin and nod, and the other small creatures and plants at the base of the clock will also begin to move along with the ring of the bell. Combining exquisite craftsmanship with the technology of the 18th century, this clock is a rare and sophisticated piece of work.
+|fame=22
+|art=44
+|fth=29
+|civ=31
+|tech=28
+|ss1=Time Machine Travel Speedup Output +2%
+|ss2=Time Machine Travel Speedup Output +4%
+|ss3=Time Machine Travel Speedup Output +6%
+|ss4=Time Machine Travel Speedup Output +10%
+|ss7=Time Machine Travel Speedup Output +10%<br>Time Machine Travel Speedup Output +10% (Awakened)
+|skill1=[[File:Bharata skill I.png|50px]]Place in Bharata Museum: In Bharata, Snail HP +200
+}}
+[[Category:Relics]]
+[[Category:Blue Relics]]
+[[Category:ART Relics]]
+[[Category:Blue ART Relics]]
+[[Category:Bharata Museum Boost]]
+[[Category:Bharata Exploration Boost]]
+[[Category:Time Machine Boost]]
+[[Category:Dragon Minion ATK Boost]]
+[[Category:Exploration Reagent Drop Boost]]
+[[Category:Stan Boost]]

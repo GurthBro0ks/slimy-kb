@@ -1,0 +1,8 @@
+{{RewardIconWithLink|Research Briefcase|orange}} will reward +60 Research Manuals (random types).
+
+Normally Research Manuals can be bought from the [[Club#Club_Shop|Club Shop]], earned through doing [[Nursery#Chore_Dispatch|Chores]], or given as rewards. These Manuals can then be used to train [[Partners]].
+
+[[Category:Club]]
+[[Category:Chores]]
+[[Category:Partners]]
+[[Category:Reward Pack]]
