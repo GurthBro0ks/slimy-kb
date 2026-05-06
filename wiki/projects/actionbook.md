@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-05-06 00:52 UTC (git)
-> Version: r85 / 3fe99a0
+> Last edited: 2026-05-06 12:53 UTC (git)
+> Version: r86 / 56fbe40
 KB METADATA -->
 
 Browser Action Engine for AI Agents — provides website action manuals and DOM selectors via MCP protocol so AI agents can operate websites precisely without parsing HTML each time.
