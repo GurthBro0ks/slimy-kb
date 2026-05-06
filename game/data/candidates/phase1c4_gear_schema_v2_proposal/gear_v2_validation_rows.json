@@ -1,0 +1,2819 @@
+[
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "ice_skates",
+    "name": "Ice Skates",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "crowbar",
+    "name": "Crowbar",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "royal_underwear",
+    "name": "Royal Underwear",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "light_yamato_armor",
+    "name": "Light Yamato Armor",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "iron_helmet",
+    "name": "Iron Helmet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "podao",
+    "name": "Podao",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "tactical_boots",
+    "name": "Tactical Boots",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "smoothbore",
+    "name": "Smoothbore",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "gentleman_s_staff",
+    "name": "Gentleman's Staff",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "top_hat",
+    "name": "Top Hat",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "linen_robe",
+    "name": "Linen Robe",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "khopesh",
+    "name": "Khopesh",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "bronze_helmet",
+    "name": "Bronze Helmet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "javelin",
+    "name": "Javelin",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "sikh_turban",
+    "name": "Sikh Turban",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "twin_tip_dagger",
+    "name": "Twin Tip Dagger",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "broken_second_hand",
+    "name": "Broken Second Hand",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "broken_minute_hand",
+    "name": "Broken Minute Hand",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "broken_hour_hand",
+    "name": "Broken Hour Hand",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "parsian_pike",
+    "name": "Parsian Pike",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "parsian_kite_shield",
+    "name": "Parsian Kite Shield",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "motorbike_helmet",
+    "name": "Motorbike Helmet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "switchblade",
+    "name": "Switchblade",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "ninjutsu_armband",
+    "name": "Ninjutsu Armband",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "golden_yamato_armor",
+    "name": "Golden Yamato Armor",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "heart_protection_mirror",
+    "name": "Heart-Protection Mirror",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "wu_scimitar",
+    "name": "Wu Scimitar",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "tactical_vest",
+    "name": "Tactical Vest",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "colt_revolver",
+    "name": "Colt Revolver",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "royal_guard_bearskin_hat",
+    "name": "Royal Guard Bearskin Hat",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "lee_enfield_rifle",
+    "name": "Lee Enfield Rifle",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "leather_shield",
+    "name": "Leather Shield",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "poisoned_dagger",
+    "name": "Poisoned Dagger",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "heavy_infantry_helmet",
+    "name": "Heavy Infantry Helmet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "legion_javelins",
+    "name": "Legion Javelins",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "mughal_soldier_helmet",
+    "name": "Mughal Soldier Helmet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "pata",
+    "name": "Pata",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "time_hand",
+    "name": "Time Hand",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "time_cog",
+    "name": "Time Cog",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "bichaq",
+    "name": "Bichaq",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "pesh_kabz",
+    "name": "Pesh-Kabz",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "bulletproof_vest",
+    "name": "Bulletproof Vest",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "assault_rifle_model_98",
+    "name": "Assault Rifle Model 98",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "servant_spirit_pendant",
+    "name": "Servant Spirit Pendant",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "crimson_haori_jacket",
+    "name": "Crimson Haori Jacket",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "rainbow_tassel",
+    "name": "Rainbow Tassel",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "ancient_blade",
+    "name": "Ancient Blade",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "pasgt_helmet",
+    "name": "PASGT Helmet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "springfield_rifle",
+    "name": "Springfield Rifle",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "tuxedo",
+    "name": "Tuxedo",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "sword_cane",
+    "name": "Sword Cane",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "tactical_helmet",
+    "name": "Tactical Helmet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "duckbill_axe",
+    "name": "Duckbill Axe",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "spartan_shield",
+    "name": "Spartan Shield",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "macedonian_spear",
+    "name": "Macedonian Spear",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "mahatma_s_robe",
+    "name": "Mahatma's Robe",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "kukri",
+    "name": "Kukri",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "time_wheel",
+    "name": "Time Wheel",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "time_blade",
+    "name": "Time Blade",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "war_scythes",
+    "name": "War Scythes",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "shamshir",
+    "name": "Shamshir",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "pirate",
+    "name": "Pirate",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "iron_track",
+    "name": "Iron Track",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "diver",
+    "name": "Diver",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "gas_mask",
+    "name": "Gas Mask",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "golden_assault_rifle",
+    "name": "Golden Assault Rifle",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "genji_shield",
+    "name": "Genji Shield",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "genji_helmet",
+    "name": "Genji Helmet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "genji_gloves",
+    "name": "Genji Gloves",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "blade_muramasa",
+    "name": "Blade Muramasa",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "royal_banner",
+    "name": "Royal Banner",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "silver_lion",
+    "name": "Silver Lion",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "7_star_blade",
+    "name": "7-Star Blade",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "mechanical_exoskeleton",
+    "name": "Mechanical Exoskeleton",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "powered_glove",
+    "name": "Powered Glove",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "holographic_tactical_glasses",
+    "name": "Holographic Tactical Glasses",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "long_range_scope",
+    "name": "Long Range Scope",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "m4_carbine",
+    "name": "M4 Carbine",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "britland_crown",
+    "name": "Britland Crown",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "shotgun_umbrella",
+    "name": "Shotgun Umbrella",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "priestly_robe",
+    "name": "Priestly Robe",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "golden_bronze_dagger",
+    "name": "Golden Bronze Dagger",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "pharaoh_s_scepter",
+    "name": "Pharaoh's Scepter",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "arabic_dagger",
+    "name": "Arabic Dagger",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "guardian_s_longsword",
+    "name": "Guardian's Longsword",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "caeser_s_laurel",
+    "name": "Caeser's Laurel",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "justinian_s_robe",
+    "name": "Justinian's Robe",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "heraclius_silver_staff",
+    "name": "Heraclius' Silver Staff",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "achilles_shield",
+    "name": "Achilles' Shield",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "hector_s_spear",
+    "name": "Hector's Spear",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "antelope_horn_shield",
+    "name": "Antelope Horn Shield",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "mughal_scimitar",
+    "name": "Mughal Scimitar",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "spacetime_echo",
+    "name": "Spacetime Echo",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "time_flute",
+    "name": "Time Flute",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "feline_shield",
+    "name": "Feline Shield",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "sun_mirror_armor",
+    "name": "Sun Mirror Armor",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "parsian_composite_bow",
+    "name": "Parsian Composite Bow",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "assassin_s_gauntlet",
+    "name": "Assassin's Gauntlet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "royal_wootz_blade",
+    "name": "Royal Wootz Blade",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "teslla",
+    "name": "Teslla",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "virgo_tech",
+    "name": "Virgo Tech",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "jung_geun_s_gun",
+    "name": "Jung-geun's Gun",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "genji_armor",
+    "name": "Genji Armor",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "blade_murasame",
+    "name": "Blade Murasame",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "conqueror_spear",
+    "name": "Conqueror Spear",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "couple_swords",
+    "name": "Couple Swords",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "indv_power_armor",
+    "name": "Indv. Power Armor",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "indv_high_explosive_rifle",
+    "name": "Indv. High-explosive Rifle",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "windsor_s_cape",
+    "name": "Windsor's cape",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "lion_s_crown",
+    "name": "Lion's Crown",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "horse_helmet",
+    "name": "Horse Helmet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "damascus_knife",
+    "name": "Damascus Knife",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "eternal_empire_staff",
+    "name": "Eternal Empire Staff",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "stardust_arrow",
+    "name": "Stardust Arrow",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "indra_s_crown",
+    "name": "Indra's Crown",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "ashoka_s_sword",
+    "name": "Ashoka's Sword",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "eternal_return",
+    "name": "Eternal Return",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "millennium_ring",
+    "name": "Millennium Ring",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "arrow_of_arash",
+    "name": "Arrow of Arash",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "jade_saber",
+    "name": "Jade Saber",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "curator_s_helmet",
+    "name": "Curator's Helmet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "gear_ring",
+    "name": "Gear Ring",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "warmonger_s_gun",
+    "name": "Warmonger's Gun",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "sword_futsuno",
+    "name": "Sword Futsuno",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "sky_piercer",
+    "name": "Sky Piercer",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "bullet_storm",
+    "name": "Bullet Storm",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "crown_of_eternal_daylight",
+    "name": "Crown of Eternal Daylight",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "lion_king_s_sword",
+    "name": "Lion King's Sword",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "athena_s_spear",
+    "name": "Athena's Spear",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "rama_greataxe",
+    "name": "Rama Greataxe",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "spacetime_exile",
+    "name": "Spacetime Exile",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "mithraic_bow_and_spear",
+    "name": "Mithraic Bow & Spear",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "the_great_scientist",
+    "name": "The Great Scientist",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "overlord_s_hook",
+    "name": "Overlord's Hook",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "the_great_collector",
+    "name": "The Great Collector",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "tremendous_support",
+    "name": "Tremendous Support",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "deepsea_helmet",
+    "name": "Deepsea Helmet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "the_great_engineer",
+    "name": "The Great Engineer",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "time_wanderer",
+    "name": "Time Wanderer",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "lotus_platform",
+    "name": "Lotus Platform",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "leather_chest_armor",
+    "name": "Leather Chest Armor",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "undead_staff",
+    "name": "Undead Staff",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "the_buried",
+    "name": "The Buried",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "demon_scythe",
+    "name": "Demon Scythe",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "lotus_platform_iii",
+    "name": "Lotus Platform III",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "prayer_staff",
+    "name": "Prayer Staff",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "mind_control_dagger",
+    "name": "Mind Control Dagger",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "gauss_c14",
+    "name": "Gauss C14",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "mark_ii",
+    "name": "Mark II",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "dragon_fang_dagger",
+    "name": "Dragon Fang Dagger",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "lotus_platform_vi",
+    "name": "Lotus Platform VI",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "crimson_dragon_claw",
+    "name": "Crimson Dragon Claw",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "azazel_s_curse",
+    "name": "Azazel's Curse",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "lotus_platform_ix",
+    "name": "Lotus Platform IX",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "broken_dragon_horn",
+    "name": "Broken Dragon Horn",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "broken_caladbolg",
+    "name": "Broken Caladbolg",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "fire_of_rage",
+    "name": "Fire of Rage",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "soul_walking",
+    "name": "Soul Walking",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "serket_staff",
+    "name": "Serket Staff",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "azazel_s_pact",
+    "name": "Azazel's Pact",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "soul_reaper",
+    "name": "Soul Reaper",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "lotus_platform_xii",
+    "name": "Lotus Platform XII",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "seraph_s_light",
+    "name": "Seraph's Light",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "centaur_armor",
+    "name": "Centaur Armor",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "subspace_blade",
+    "name": "Subspace Blade",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "mark_iv",
+    "name": "Mark IV",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "gauss_m72",
+    "name": "Gauss M72",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "claw_of_destruction",
+    "name": "Claw of Destruction",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "fang_of_tiamat",
+    "name": "Fang of Tiamat",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "dragon_horn",
+    "name": "Dragon Horn",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "caladbolg",
+    "name": "Caladbolg",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "exploding_rage",
+    "name": "Exploding Rage",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "excaladbolg",
+    "name": "Excaladbolg",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "strength_sword",
+    "name": "Strength Sword",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "hannibel_s_scalpel",
+    "name": "Hannibel's Scalpel",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "jack_s_gloves",
+    "name": "Jack's Gloves",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "broken_sagesinker",
+    "name": "Broken Sagesinker",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "broken_sageender",
+    "name": "Broken Sageender",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "broken_sagemurderer",
+    "name": "Broken Sagemurderer",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "broken_sagekiller",
+    "name": "Broken Sagekiller",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "shattered_windfire_wheel",
+    "name": "Shattered Windfire Wheel",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "shattered_sky_ribbon",
+    "name": "Shattered Sky Ribbon",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "shattered_fire_spear",
+    "name": "Shattered Fire Spear",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "shattered_palm_leaf_fan",
+    "name": "Shattered Palm-Leaf Fan",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "dwarf_mask",
+    "name": "Dwarf Mask",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "lizard_belt",
+    "name": "Lizard Belt",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "slippers",
+    "name": "Slippers",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "elegant_gloves",
+    "name": "Elegant Gloves",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "fresnal_lens",
+    "name": "Fresnal Lens",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "crystal_lens",
+    "name": "Crystal Lens",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "sakabato_blade",
+    "name": "Sakabato Blade",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "walnut_wand",
+    "name": "Walnut Wand",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "nun_chuck",
+    "name": "Nun-chuck",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "pulse_rifle",
+    "name": "Pulse Rifle",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "freddy_s_claw",
+    "name": "Freddy's Claw",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "jason_s_mask",
+    "name": "Jason's Mask",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "broken_godsmiter",
+    "name": "Broken Godsmiter",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "broken_palm_leaf_fan",
+    "name": "Broken Palm-Leaf Fan",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "broken_fiend_mirror",
+    "name": "Broken Fiend Mirror",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "multifunction_goggles",
+    "name": "Multifunction Goggles",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "infrared_lens",
+    "name": "Infrared Lens",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "spring_longsword",
+    "name": "Spring Longsword",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "hammer_of_frenzy",
+    "name": "Hammer of Frenzy",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "texan_chainsaw",
+    "name": "Texan Chainsaw",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "cayako_s_charm",
+    "name": "Cayako's Charm",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "dim_godsmiter",
+    "name": "Dim Godsmiter",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "dim_ironcutter",
+    "name": "Dim Ironcutter",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "dim_trident",
+    "name": "Dim Trident",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "dim_rope_of_truth",
+    "name": "Dim Rope of Truth",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "scout_goggles",
+    "name": "Scout Goggles",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "holographic_lens",
+    "name": "Holographic Lens",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "leviathan_gloves",
+    "name": "Leviathan Gloves",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "imitation_vision",
+    "name": "Imitation Vision",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "peacock_quill",
+    "name": "Peacock Quill",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "excalibur",
+    "name": "Excalibur",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "anti_strength_saber",
+    "name": "Anti-Strength Saber",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "butcher_s_hook",
+    "name": "Butcher's Hook",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "trident",
+    "name": "Trident",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "battle_detector",
+    "name": "Battle Detector",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "electric_hammer",
+    "name": "Electric Hammer",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "fossil",
+    "name": "Fossil",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "drazgul_fang",
+    "name": "Drazgul Fang",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "maze_key",
+    "name": "Maze Key",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "b_tadpole_sword",
+    "name": "B-Tadpole Sword",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "strength_master_s_sword",
+    "name": "Strength Master's Sword",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "true_sakabato",
+    "name": "True Sakabato",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "oldman_wand",
+    "name": "Oldman Wand",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "norris_chuck",
+    "name": "Norris-chuck",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "excalibur_ex",
+    "name": "Excalibur EX",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "dark_strength",
+    "name": "Dark Strength",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "district_9",
+    "name": "District 9",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "big_bounce",
+    "name": "Big Bounce",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "power_spinach",
+    "name": "Power Spinach",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "blair_s_curse",
+    "name": "Blair's Curse",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "poseidon_s_trident",
+    "name": "Poseidon's Trident",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "ancestral_legacy",
+    "name": "Ancestral Legacy",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "gilded_belt",
+    "name": "Gilded Belt",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "empress_slippers",
+    "name": "Empress' Slippers",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "empress_gloves",
+    "name": "Empress Gloves",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "know_it_all_device",
+    "name": "Know-It-All Device",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "hydra_s_gloves",
+    "name": "Hydra's Gloves",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "million_volts",
+    "name": "Million Volts",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "cretaceous_weapon",
+    "name": "Cretaceous Weapon",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "golden_drazgul_fang",
+    "name": "Golden Drazgul Fang",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "virtual_vision",
+    "name": "Virtual Vision",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "septreasure_peacock_quill",
+    "name": "Septreasure Peacock Quill",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "incredible_key",
+    "name": "Incredible Key",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "w_tadpole_sword",
+    "name": "W-Tadpole Sword",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "sailor_suit",
+    "name": "Sailor Suit",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "rock",
+    "name": "Rock",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "lifebuoy",
+    "name": "Lifebuoy",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "stage_hat",
+    "name": "Stage Hat",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "static_belt",
+    "name": "Static Belt",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "elven_cape",
+    "name": "Elven Cape",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "death_shroud",
+    "name": "Death Shroud",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "strong_round_shield",
+    "name": "Strong Round Shield",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "workout_top",
+    "name": "Workout Top",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "saint_s_earring",
+    "name": "Saint's Earring",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "crown_of_power",
+    "name": "Crown of Power",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "ring_of_stupor",
+    "name": "Ring of Stupor",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "magician",
+    "name": "Magician",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "thorn",
+    "name": "Thorn",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "wisdom_cloak",
+    "name": "Wisdom Cloak",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "power_armor",
+    "name": "Power Armor",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "alloy_shield",
+    "name": "Alloy Shield",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "chief",
+    "name": "Chief",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "gold_outfit",
+    "name": "Gold Outfit",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "time_amulet",
+    "name": "Time Amulet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "ogma_s_cloak",
+    "name": "Ogma's Cloak",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "selene_amulet",
+    "name": "Selene Amulet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "antimatter_armor",
+    "name": "Antimatter Armor",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "michael_s_earrings",
+    "name": "Michael's Earrings",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "caesar_s_crown",
+    "name": "Caesar's Crown",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "ring_of_paralysis",
+    "name": "Ring of Paralysis",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "dracula_cape",
+    "name": "Dracula Cape",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "grandpire_s_robe",
+    "name": "Grandpire's Robe",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "bedrock",
+    "name": "Bedrock",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "poseidon_s_blessing",
+    "name": "Poseidon's Blessing",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "fortress",
+    "name": "Fortress",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "traveler_outfit",
+    "name": "Traveler Outfit",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "the_great_magician",
+    "name": "The Great Magician",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "antimatter_shield",
+    "name": "Antimatter Shield",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "heart_of_nature",
+    "name": "Heart of Nature",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "super_warrior",
+    "name": "Super Warrior",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "the_great_entertainer",
+    "name": "The Great Entertainer",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "thunder_belt",
+    "name": "Thunder Belt",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "agamemnon_outfit",
+    "name": "Agamemnon Outfit",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "eye_of_akamoddo_amulet",
+    "name": "Eye of Akamoddo Amulet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "flower_crown",
+    "name": "Flower Crown",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "wooden_ring",
+    "name": "Wooden Ring",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "iron_ring",
+    "name": "Iron Ring",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "beast_fang",
+    "name": "Beast Fang",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "gray"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "sorcerer_ring",
+    "name": "Sorcerer Ring",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "warrior_ring",
+    "name": "Warrior Ring",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "white_pearl",
+    "name": "White Pearl",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "black_pearl",
+    "name": "Black Pearl",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "green"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "wizard_ring",
+    "name": "Wizard Ring",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "crusader_ring",
+    "name": "Crusader Ring",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "ruby_brooch",
+    "name": "Ruby Brooch",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "sapphire_brooch",
+    "name": "Sapphire Brooch",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "blue"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "seething_bracelet",
+    "name": "Seething Bracelet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "icy_bracelet",
+    "name": "Icy Bracelet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "heaven_amulet",
+    "name": "Heaven Amulet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "abyss_amulet",
+    "name": "Abyss Amulet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "purple"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "heaven_wings",
+    "name": "Heaven Wings",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "abyss_wings",
+    "name": "Abyss Wings",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "crystal_of_will",
+    "name": "Crystal of Will",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "demon_god_crystal",
+    "name": "Demon God Crystal",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "eye_of_horus",
+    "name": "Eye of Horus",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "blasphemy_eye",
+    "name": "Blasphemy Eye",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "orange"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "amulet_of_will",
+    "name": "Amulet of Will",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "demon_god_amulet",
+    "name": "Demon God Amulet",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  },
+  {
+    "canonical_promotion": false,
+    "errors": [],
+    "id": "amulet_of_will_1",
+    "name": "Amulet of Will +1",
+    "readiness": "v2_schema_ready_needs_manual_review",
+    "slot": null,
+    "tier_color": "red"
+  }
+]

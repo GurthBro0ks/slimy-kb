@@ -1,0 +1,176 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "additionalProperties": false,
+  "description": "Proposed Super Snail gear schema based on Gear.wiki aggregate gearrow templates. Slot is optional because Gear.wiki does not classify gear by weapon/armor/accessory.",
+  "properties": {
+    "base_stats": {
+      "additionalProperties": false,
+      "properties": {
+        "atk": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "def": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "hp": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "rush": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "hp",
+        "atk",
+        "def",
+        "rush"
+      ],
+      "type": "object"
+    },
+    "canonical_promotion": {
+      "type": "boolean"
+    },
+    "effect": {
+      "description": "Raw effect text from wiki.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "file_no": {
+      "description": "File number from wiki table when present.",
+      "type": [
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "icon_filename": {
+      "description": "Icon filename from wiki table when present.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "id": {
+      "description": "Unique slug for the gear item.",
+      "type": "string"
+    },
+    "name": {
+      "description": "Display name from Gear.wiki.",
+      "type": "string"
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "origin": {
+      "description": "Raw origin/acquisition text from wiki.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "slot": {
+      "description": "Optional equip slot if confirmed from another source. Do not infer blindly.",
+      "enum": [
+        "weapon",
+        "armor",
+        "accessory",
+        null
+      ],
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source": {
+      "additionalProperties": true,
+      "properties": {
+        "file": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "section": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "subsection": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "type": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "type",
+        "url"
+      ],
+      "type": "object"
+    },
+    "spreadsheet_links": {
+      "items": {
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "tags": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "tier_color": {
+      "description": "Actual gear tier/color from the game/wiki.",
+      "enum": [
+        "white",
+        "gray",
+        "green",
+        "blue",
+        "purple",
+        "orange",
+        "red"
+      ],
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "tier_color",
+    "base_stats",
+    "source"
+  ],
+  "title": "Gear Entity Schema v2 Proposal",
+  "type": "object",
+  "x_pm_decisions_needed": [
+    "Approve tier_color as first-class field.",
+    "Approve slot as optional nullable field until another reliable source provides slot data.",
+    "Approve raw effect/origin preservation before downstream normalization.",
+    "Decide whether old rarity enum should be removed, retained as derived, or moved to a separate display mapping."
+  ]
+}
