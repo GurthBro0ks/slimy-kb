@@ -1,0 +1,346 @@
+# Phase 1E Gear Website Package Audit
+
+Generated UTC: 2026-05-06T17:58:45.299933+00:00
+
+## Result
+
+Created a website-ready gear package for slimy-monorepo integration.
+No canonical data or schema files were modified.
+
+## Counts
+
+- Gear records packaged: 313
+- Matched icons: 312
+- Missing icons using fallback: 1
+- Copied icon files: 312
+
+## Missing Icon Fallbacks
+
+- mithraic_bow_and_spear — Mithraic Bow & Spear — fallback placeholder
+
+## Tier Counts
+
+- gray: 25
+- green: 36
+- blue: 33
+- purple: 48
+- orange: 91
+- red: 80
+
+## Package Files
+
+- game/data/exports/website/gear/README.md — 885 bytes — sha256 1d99653641932e043078d90570059c8852bf521049ed8cd450ac14e05d07e1a8
+- game/data/exports/website/gear/gear.web.compact.csv — 50541 bytes — sha256 b6ed68b38682829c771eb1c1a7e5aa5cbecfe01d83534586dd44ee8fab251703
+- game/data/exports/website/gear/gear.web.compact.json — 123529 bytes — sha256 f1853ac78d474d9b0a69135d763a8aa6fa7ca396bf1bb2c982f726c4617af6e4
+- game/data/exports/website/gear/gear.web.filters.json — 1528 bytes — sha256 9f13cb632564d6602b4e1d7166e8188f1c9059fcfcf8984104aa82afd0329d5f
+- game/data/exports/website/gear/gear.web.package.json — 272768 bytes — sha256 9a8594fe3f41e75a5efbb53db2a356500f99b478f299d54bc854e182bcbe4adb
+- game/data/exports/website/gear/gear.web.search.json — 141984 bytes — sha256 5fe2f9a19a7dbedb511e8bc772d5cc191505ec2a5e19249903d2fac12de43495
+- game/data/exports/website/gear/icons/7-Star_Blade.png — 38599 bytes — sha256 1a64f300e65369375e6eb39f3e7f2d0f887441acada142c286dcf9fc2ae35abe
+- game/data/exports/website/gear/icons/Abyss_Amulet.png — 17871 bytes — sha256 4574a658a0719205a7fa782aff865724e9630b8e987fac95e96972c472955db8
+- game/data/exports/website/gear/icons/Abyss_Wings.png — 52667 bytes — sha256 58ace652163bacbcb65778b9b66e13a019c458829681bb9a9826b553455c8c42
+- game/data/exports/website/gear/icons/Achilles__Shield.png — 26406 bytes — sha256 45db609eb961f8a029fe7d493f2ae5362068ff3afcb76c76927fad6dd6c073fb
+- game/data/exports/website/gear/icons/Agamemnon_Outfit.png — 22071 bytes — sha256 3db973e8eebe1c5f8a02193f69087b5ef5b4bde64c50c8749edc4066acf9b17a
+- game/data/exports/website/gear/icons/Alloy_Shield.png — 22190 bytes — sha256 188bd623dfc6b0f11e465b6ad1136fc4146bcf6cca2a9b5e953dcbfdfb98ae42
+- game/data/exports/website/gear/icons/Amulet_of_Will.png — 59365 bytes — sha256 2260f7864f9177a2b79cb4873a28a42eef48074366b4d844cca30e37f16f17e4
+- game/data/exports/website/gear/icons/Ancestral_Legacy.png — 79309 bytes — sha256 093ff96111256381755ffd25bc982a2dbc8efa8a47df2a3d510a187f3f7c88d6
+- game/data/exports/website/gear/icons/Ancient_Blade.png — 27916 bytes — sha256 dfa546bf769d55381f40c5c982667e8d607eafcbab206bcc8640659378edffce
+- game/data/exports/website/gear/icons/Antelope_Horn_Shield.png — 21101 bytes — sha256 653f73e4d4fac19ee1210f7b96aa288f6e16d1f7452aa60c70d0e159630c4f4b
+- game/data/exports/website/gear/icons/Anti-Strength_Saber.png — 81176 bytes — sha256 4725bd8ecb5aee72082bd6fe0e918d619390b14528a7a240f93b7f4d44dbb721
+- game/data/exports/website/gear/icons/Antimatter_Armor.png — 21377 bytes — sha256 269e3704db820f83ee390021eb026720180616a28193c8441c2325c87c5d8611
+- game/data/exports/website/gear/icons/Antimatter_Shield.png — 57819 bytes — sha256 0b4cf8f51289d6e78e7482696f6bf044d92f3b1f58ff11964c545156bdd4b9c9
+- game/data/exports/website/gear/icons/Arabic_Dagger.png — 17094 bytes — sha256 b08d25c19887a3d0d896f8f4d9ff177f8e1ab2041db42254d0e8a02bef2dfe8b
+- game/data/exports/website/gear/icons/Ashoka_s_Sword.png — 21400 bytes — sha256 9996995ccb0b5061e8b5be1764b548c39360bc927910cb122c567af40ea63d68
+- game/data/exports/website/gear/icons/Assassin_s_Token.png — 9637 bytes — sha256 5c39d3ca8c8c8c980ff187f213a961258023d05660b83d6d1515f6345f2e186c
+- game/data/exports/website/gear/icons/Assault_Rifle_Model_98.png — 35382 bytes — sha256 71f6cf7da8f775f7df76111e64c2cfae18c0e92aadf7abf6d20831380e9f9cc2
+- game/data/exports/website/gear/icons/Athena_s_Spear.png — 19540 bytes — sha256 0e9bd8d7cf24d39b2801d1a3f9dbe464db099a2b5fb8a049a20ba05a649d9987
+- game/data/exports/website/gear/icons/Azazel_s_Curse.png — 97966 bytes — sha256 eab9b25c355fc8772c51297672811eb73beec7af8f4716ef5027be3b95f1b07b
+- game/data/exports/website/gear/icons/Azazel_s_Pact.png — 19912 bytes — sha256 4efed1f75ef93e4f586c2f35c2388ea97d2ec7c87632f4cbd7ba73107fbbd9d2
+- game/data/exports/website/gear/icons/B-Tadpole_Sword.png — 14009 bytes — sha256 c80344b79099ef18999e50fcabc70b0e42081b038a6b52c177101bbc93ca0837
+- game/data/exports/website/gear/icons/Battle_Detector.png — 72588 bytes — sha256 ba0e0dc5afcd48d39bf7ae3810e5f676822c68805a13c894e6fcc8fbf93d157d
+- game/data/exports/website/gear/icons/Beast_Fang.png — 38060 bytes — sha256 8f143fbc2fb0c03b9c9ab1563aa7208c4052cea776a1cc00c8d4fd410c4b8fee
+- game/data/exports/website/gear/icons/Bedrock.png — 19563 bytes — sha256 390ba6669adc6bae7e81efaa375e8aefda98ed1fd89926c4e1a1958d6f7cf584
+- game/data/exports/website/gear/icons/Bichaq.png — 66240 bytes — sha256 164d9d0ededded9b5c31726afb0a26cb02109f77589ef9e9e10796960b5ef4f3
+- game/data/exports/website/gear/icons/Big_Bounce.png — 78496 bytes — sha256 de5b493678930ed820aefaf9d5911d8517290f5372073843dd867aa1f6b18a62
+- game/data/exports/website/gear/icons/Black_Pearl.png — 32033 bytes — sha256 337f48920a33baf93e536a4c29339a2ef808edba3e4d9de343483adc8180ac7d
+- game/data/exports/website/gear/icons/Blade_Muramasa.png — 45903 bytes — sha256 91a021413bd515fdbfac89f0cafe11cc68a1c91ca9d20e77fd8c6c47c8149c13
+- game/data/exports/website/gear/icons/Blade_Murasame.png — 44990 bytes — sha256 456c25aa3ef704c45acb2d98cb7f9dec84f3b6f87446a72a9a553a0df015b249
+- game/data/exports/website/gear/icons/Blair_s_Curse.png — 86339 bytes — sha256 d42f76b94a6db8e28f58e63efd1aa6b36c8190d94f2434c828febc27a608fd89
+- game/data/exports/website/gear/icons/Blasphemy_Eye.png — 86917 bytes — sha256 a2f5076908f5e45bf996bcab63d9a69a9b04b1514c1d8d9b8dffca66aebce140
+- game/data/exports/website/gear/icons/Britland_Crown.png — 45180 bytes — sha256 5e66f6f847d25349962d4608aba24a5754ba0e4e24c3b88737e1fff349f20e76
+- game/data/exports/website/gear/icons/Broken_Caladbolg.png — 30226 bytes — sha256 428b9534716f34409758b0ade1ba71da39c8263d270195c2d3ccd78b25427721
+- game/data/exports/website/gear/icons/Broken_Dragon_Horn.png — 11203 bytes — sha256 c1c44dc926b43a3c67dfcf614f347277a8eda7f60ce3bde5e78cac884a38ab7f
+- game/data/exports/website/gear/icons/Broken_Fiend_Mirror.png — 50095 bytes — sha256 4e32e37700cc094b2fdaa44ebba065d3cb43d8252784d5db872dc98bf87043cd
+- game/data/exports/website/gear/icons/Broken_Godsmiter.png — 27953 bytes — sha256 00db0610219520caf8db99959e840e27a91c8bf25b40228a78498333955a28c1
+- game/data/exports/website/gear/icons/Broken_Hour_Hand.png — 50925 bytes — sha256 7e41e46cdcf5b05bef0812176317119ffbd1290badb64312c1c0ddac422fd025
+- game/data/exports/website/gear/icons/Broken_Minute_Hand.png — 47452 bytes — sha256 ec7438e9cb18f4312001890412b5885c0ece4708d512404605ab5af12d2ca65d
+- game/data/exports/website/gear/icons/Broken_Palm-Leaf_Fan.png — 41861 bytes — sha256 4fa7abcbf31324e1dcbda3aad4729c4690ee8c905562daefe492fc16dadb65b6
+- game/data/exports/website/gear/icons/Broken_Sageender.png — 38669 bytes — sha256 14d653e7269a7a0f12c5a1e05a7865a35554e333bd13c8ded843d9225b32e1aa
+- game/data/exports/website/gear/icons/Broken_Sagekiller.png — 35737 bytes — sha256 ad9bd80db803f4f3d42ab883b3096f866ee4e3081e6d63f4f9d68d28c3a81f41
+- game/data/exports/website/gear/icons/Broken_Sagemurderer.png — 41555 bytes — sha256 8923c297c4fd3bbe88b2ab2e7184189f4b0ae4f5be56267806c772ebcef6fbd2
+- game/data/exports/website/gear/icons/Broken_Sagesinker.png — 34586 bytes — sha256 e5a520c6b5c099f05d8e0e9941c000d4fd1536ff67fd97213dc4a5b421b75ff7
+- game/data/exports/website/gear/icons/Broken_Second_Hand.png — 45551 bytes — sha256 b69af802b9c2df36e9871853008dc6f8c4dcdf0b9132eeaf1c565b2208ff5419
+- game/data/exports/website/gear/icons/Bronze_Helmet.png — 23052 bytes — sha256 07b30b6e4f54fe1e2ea99f9e61aac1cbc5d384bb2c687e0d0267d2538d9fd982
+- game/data/exports/website/gear/icons/Bullet_Storm.png — 48175 bytes — sha256 654cb4d6098bb3ee2665055bf9d6069072aca5605172237dcfb00bbd8b8a30a0
+- game/data/exports/website/gear/icons/Bulletproof_Vest.png — 49302 bytes — sha256 169812316b2fe95ac9a4471a2ff9dad196a96074c5662b2ef11f906fb14d1178
+- game/data/exports/website/gear/icons/Butcher_s_Hook.png — 96697 bytes — sha256 1551fdbe92cc6c9f197c56d003b4610e40e60024b5718aa19dcbcb9c4dc072b3
+- game/data/exports/website/gear/icons/Caesar_s_Crown.png — 24046 bytes — sha256 ae65f6cca264ccb79e8f4cc408f6443be4bccade222afc9591beec7240915bb8
+- game/data/exports/website/gear/icons/Caeser_s_Laurel.png — 24202 bytes — sha256 51ab918536b70dea8e41e580f6dad9c513b6356b4b28966054e8d7dac3836714
+- game/data/exports/website/gear/icons/Caladbolg.png — 36770 bytes — sha256 493c79f77823b680b8ce9556c85db599ec48934052d2a86ed52e7e70370b25fa
+- game/data/exports/website/gear/icons/Cayako_s_Charm.png — 80601 bytes — sha256 3b6de2a7ae99d83b5a320b3fed1d086f0032d7fbfc40225e20f8f508b97e937e
+- game/data/exports/website/gear/icons/Centaur_Armor.png — 71525 bytes — sha256 ac5f3b0528a022dc90f90a123b0c80e8f268219805ffc9728e87d567d8b111c9
+- game/data/exports/website/gear/icons/Chief.png — 20483 bytes — sha256 1891c812efd32c4178e63f72719053c0337961c340cfb7b5d9f3d77331e80514
+- game/data/exports/website/gear/icons/Claw_of_Destruction.png — 75649 bytes — sha256 b3ef4368bc0412a55de44ab2aa76b7467baf9291dddbdf5521d24de17159f7f2
+- game/data/exports/website/gear/icons/Colt_Revolver.png — 32185 bytes — sha256 4162b1575acbf83c6ef50b07c9a485bb8fbd249c1c5fcf3352d8860a0a17a7e8
+- game/data/exports/website/gear/icons/Conqueror_Spear.png — 39494 bytes — sha256 c7a29d9915cf2a445f3c600250864e0751cf76a52ab83ee9890f5c58088eb10a
+- game/data/exports/website/gear/icons/Couple_Swords.png — 47961 bytes — sha256 b4d97cc9cfd0073fe7b83c754e1ae2dacc9442dcc64c1f3fde539b19a4a20b7d
+- game/data/exports/website/gear/icons/Cretaceous_Weapon.png — 74211 bytes — sha256 359bfddaa3dafaa455c3125a665ad087c462d5a1af0a956c7ede71a33d970097
+- game/data/exports/website/gear/icons/Crimson_Dragon_Claw.png — 67711 bytes — sha256 bd72a3400dacf0ba980254df5f208b39e41abcca5ea6f65eb55d37f0945a812e
+- game/data/exports/website/gear/icons/Crimson_Haori_Jacket.png — 55141 bytes — sha256 610626c85546efb1778d6337f8ccdc645f78f68345deca13baa466bc790dec1d
+- game/data/exports/website/gear/icons/Crowbar.png — 26408 bytes — sha256 8d53764f1cd8a8547251435db05543cea8a4c994e568f8013277d758e0d0e0a8
+- game/data/exports/website/gear/icons/Crown_of_Eternal_Daylight.png — 63758 bytes — sha256 6744f3be05ccf4c885b7a0cdaac492c3d4169d6e1c59c2667a715ff7f65bf0e4
+- game/data/exports/website/gear/icons/Crown_of_Power.png — 18367 bytes — sha256 e6295a36b015db3865164f5386cf9334769b2296cb24a7566c05a7739446bee0
+- game/data/exports/website/gear/icons/Crusader_Ring.png — 57425 bytes — sha256 121b2f393eeecfa7320232291f16ded4c9f87ce2e6aa7a98410710e6d7669098
+- game/data/exports/website/gear/icons/Crystal_Lens.png — 14449 bytes — sha256 8cee67fae2ae82f4acd44d72568161a13021cab6c38380992c5aea9416b219da
+- game/data/exports/website/gear/icons/Crystal_of_Will.png — 50256 bytes — sha256 a1e4f3e34ebfe46872d8b008e2989e7cac254f868ecec1d0321cf9a5b92d75b5
+- game/data/exports/website/gear/icons/Curator_s_Helmet.png — 53677 bytes — sha256 492ab37f68bf9e48d572a5300f0000a4bd42fb31c55f5fa90657e517741bef14
+- game/data/exports/website/gear/icons/Damascus_Knife.png — 14899 bytes — sha256 ac2a80952356e4b459950bbabd880428c340448db3994caa2a241035a671c648
+- game/data/exports/website/gear/icons/Dark_Strength.png — 68942 bytes — sha256 78d2b44ccb60ea6ae0403250caa81f5b969a411491c6183e5d5c880c458b6d85
+- game/data/exports/website/gear/icons/Death_Shroud.png — 19579 bytes — sha256 38eccf8794c33135de3a2a48fd6f08efbf2e5adf695f276ce255db046a9c5e9e
+- game/data/exports/website/gear/icons/Deepsea_Helmet.png — 97863 bytes — sha256 620d150539d28e2fa8502629a514c1fa973b6074341ad28aa35d0cfbb2deb177
+- game/data/exports/website/gear/icons/Demon_God_Amulet.png — 26051 bytes — sha256 1f5747366cc7a9b82b78c4d777268fede723c7693a70a58e91da01581164b2ef
+- game/data/exports/website/gear/icons/Demon_God_Crystal.png — 31693 bytes — sha256 e985f6d0d354628d01bf6f421f261affd0ff15e0bfed3e42e546e7d3fb002e30
+- game/data/exports/website/gear/icons/Demon_Scythe.png — 66675 bytes — sha256 5a14be3020a9e669a88adad5396ebceb9b50ed7817050bdc0f5afac243602f13
+- game/data/exports/website/gear/icons/Dim_Godsmiter.png — 29699 bytes — sha256 1ac39b757a2db50cd8866b298a3608756deac4edead030f4e8f8b3bd7593dac9
+- game/data/exports/website/gear/icons/Dim_Ironcutter.png — 37902 bytes — sha256 c955a87bf40934c078793d0b131849db43784a0fad9238e197d2e9cf86c0c4c4
+- game/data/exports/website/gear/icons/Dim_Rope_of_Truth.png — 57313 bytes — sha256 3c49f0c4149c950080ef23515f84f68e18daa75cd8d1acf7b7fbf9ee0b0c73ce
+- game/data/exports/website/gear/icons/Dim_Trident.png — 39661 bytes — sha256 4bfae899b8fa33a0401921911d74e176c12379dfac222d156cdcf775db74aaa6
+- game/data/exports/website/gear/icons/District_9.png — 79845 bytes — sha256 a0bcb05b67929a7d779892582fed85c6cbee6766ea59cb1f534ffe57275459bc
+- game/data/exports/website/gear/icons/Diver.png — 20219 bytes — sha256 5feb058d9174d6360c13011edae61f004d95a71c0f192e2b9c29de9ffc76a451
+- game/data/exports/website/gear/icons/Dracula_Cape.png — 19614 bytes — sha256 a024f1554455379b022c68472da84ef74c9569ccc75ec3ff8fddfa0bc412e4ed
+- game/data/exports/website/gear/icons/Dragon_Fang_Dagger.png — 55466 bytes — sha256 a187ea1687e96dde2fdb179cf1a4add8e411c01f31d1fde19e0a0e666a07a0db
+- game/data/exports/website/gear/icons/Dragon_Horn.png — 14886 bytes — sha256 d88a9ebdd01ce4e2075d7f297dc0f0a04441aa836811a6bf8f806dddeee155df
+- game/data/exports/website/gear/icons/Drazgul_Fang.png — 15587 bytes — sha256 a76962582227fb84143bbece69c3cf48fdcf622b27044c42f4c38258fd29e9f0
+- game/data/exports/website/gear/icons/Duckbill_Axe.png — 15172 bytes — sha256 a75ce6ecbb1f7613dbf5b1c370c97f82ab30ac3466168ea770f9fa38732fe8a8
+- game/data/exports/website/gear/icons/Dwarf_Mask.png — 68898 bytes — sha256 7386a93d9a01c2f66929137afc865f91cae5bc83916c8f5cd94d6f2e133ddc59
+- game/data/exports/website/gear/icons/Electric_Hammer.png — 86586 bytes — sha256 18c54ccbf12d78a64ef5bdf04e2b18c74ac3f7cb642e7177b2366b2ed7d2bd72
+- game/data/exports/website/gear/icons/Elegant_Gloves.png — 76999 bytes — sha256 45dbbffabe23b4337b63a573e19f760144634f3b00a426f58a96c501ba5c13c7
+- game/data/exports/website/gear/icons/Elven_Cape.png — 19628 bytes — sha256 fffd0ad934c631764876588012970945d05882151ecc2c62b10c24fba3f985b5
+- game/data/exports/website/gear/icons/Empress_Gloves.png — 89937 bytes — sha256 89fdc8981848542356a481e2154a4e3bd5e9e4870b2f454b760584b45805841b
+- game/data/exports/website/gear/icons/Empress__Slippers.png — 77029 bytes — sha256 ba386ff9be8c2c13f0aafb2206c89f0c12108f7bc911dba2c9b2a44ec5cb2fa7
+- game/data/exports/website/gear/icons/Eternal_Empire_Staff.png — 19734 bytes — sha256 6b01a5042f09b50bf26dac587d3550bd975adc80b39b20ae1c8a38e2ee84a8bc
+- game/data/exports/website/gear/icons/Eternal_Return.png — 59175 bytes — sha256 17f510eceaa7f642ae6b06385076324dc8fe4e37d8dd98f066b3fb7d51959e88
+- game/data/exports/website/gear/icons/Excaladbolg.png — 47217 bytes — sha256 ed2144f56acc31815546968a701dca84283e69be615f7008488e850efa15d244
+- game/data/exports/website/gear/icons/Excalibur.png — 77171 bytes — sha256 a33366c460c92d31f49175433a28b31ec5adcb312abf46ab2f0ca4c2186285dc
+- game/data/exports/website/gear/icons/Excalibur_EX.png — 64792 bytes — sha256 6caef282454c81e17f0001608a11630eff04de62cd1d9f5308dc38fe7a6c94cb
+- game/data/exports/website/gear/icons/Exploding_Rage.png — 53869 bytes — sha256 0e98948a695f89947c16bc25cc9f329121f8145dccd57469b49a0ba654e29582
+- game/data/exports/website/gear/icons/Eye_of_Akamoddo_Amulet.png — 18621 bytes — sha256 38de7ffc818372724b89af663609936354a31658d369e9bb2f3c4af4d9e433e0
+- game/data/exports/website/gear/icons/Eye_of_Horus.png — 98202 bytes — sha256 c4399e49a60e0b436365c6e8beb2ec89648f7c0711d9cd559076c1043282f747
+- game/data/exports/website/gear/icons/Fang_of_Tiamat.png — 58412 bytes — sha256 fb8de53c4c497e7ec804c78bf47ae59db89da19385e9a9f92b27385eb7c2aec0
+- game/data/exports/website/gear/icons/Fire_of_Rage.png — 40248 bytes — sha256 c435dca4c218eb7354417df3310a6fac28aabf71558e2ee3c01e2a18cf99f74e
+- game/data/exports/website/gear/icons/Flower_Crown.png — 42455 bytes — sha256 1a59a13ccf18af7dfa4c6631de1c7ca4737d408a8a146dd290679a42c8447909
+- game/data/exports/website/gear/icons/Fortress.png — 15665 bytes — sha256 2ee9b1098001c09562df999a7a89fc5eef19b5c7d2900627147b91c1db5895d4
+- game/data/exports/website/gear/icons/Fossil.png — 75641 bytes — sha256 bca742408725c3131463abcd370149d205419226350903fd590ac47e9e4946e9
+- game/data/exports/website/gear/icons/Freddy_s_Claw.png — 71977 bytes — sha256 8d01d861afe3d783eefc00519bf8559bf850133e12aa8c68a59e359757772d03
+- game/data/exports/website/gear/icons/Fresnal_Lens.png — 16749 bytes — sha256 466671264f059f901f4e7098073c69bc1fa19e43528dd4fc4f6ecff8965a3111
+- game/data/exports/website/gear/icons/Gas_Mask.png — 50979 bytes — sha256 cb391e5709dcaa754d1cc01bb6616f134ee4ad5d871787196ea2a6fe293f42a3
+- game/data/exports/website/gear/icons/Gauss_C14.png — 79157 bytes — sha256 98c2f868e98cd6033ed51f392c1e12edc862881b8afeb3129cb14bdb9163a255
+- game/data/exports/website/gear/icons/Gauss_M72.png — 82320 bytes — sha256 d19323b56d043869058b2897b745449525a5706ba4da9f03bd6af35573483341
+- game/data/exports/website/gear/icons/Gear_Ring.png — 17129 bytes — sha256 67f7d2da392afc8f21b4716e7b1a788ad210b63d594aa734be8e6e65393fbb50
+- game/data/exports/website/gear/icons/Genji_Armor.png — 58182 bytes — sha256 7f9a528d2a9a21ae3b53a739262104d170cdfa8af92287d53463ab5ea1e62993
+- game/data/exports/website/gear/icons/Genji_Gloves.png — 46853 bytes — sha256 c6e76fadecbea8b46b00d18cfd38ee38221ebae45f70a38a6f88361f4bbdc466
+- game/data/exports/website/gear/icons/Genji_Helmet.png — 48527 bytes — sha256 fb2d8b1edce75210c9d7c927220e748f116ee13d98d9f37398fc717f8b2df2b3
+- game/data/exports/website/gear/icons/Genji_Shield.png — 53073 bytes — sha256 31f9f5b31a54794bab02a52b25600294222d2b14e6b993daf375783b5077558d
+- game/data/exports/website/gear/icons/Gentleman_s_Staff.png — 31956 bytes — sha256 2d19cb0043a3e14bd0744d7b56c2b5e46473218e04d91f2f83323210d8f89a16
+- game/data/exports/website/gear/icons/Gilded_Belt.png — 76288 bytes — sha256 79b63cb8e642117b15205f1539d9c3058ea0e49db6a1e3efaf0265674a2b6a3b
+- game/data/exports/website/gear/icons/Gold_Outfit.png — 17337 bytes — sha256 331a56f2fbbf9dee32aa8dc07784bb7035dae30d6934db2166e95c0e20805a15
+- game/data/exports/website/gear/icons/Golden_Assault_Rifle.png — 40672 bytes — sha256 08f8dc91abf23a11a7ae79c5a4d12d0626d5ef6ee22eb62d27e807593a9169c0
+- game/data/exports/website/gear/icons/Golden_Bronze_Dagger.png — 15070 bytes — sha256 d314afc3960da52167a1370d04c04ac5668fe5efae0e3452a3b3161bbcffffbc
+- game/data/exports/website/gear/icons/Golden_Drazgul_Fang.png — 19311 bytes — sha256 8c483a280199b8b3c987beb85fefdec1fc2156f39c106a4a29e212adba8844f1
+- game/data/exports/website/gear/icons/Golden_Yamato_Armor.png — 56304 bytes — sha256 8930a974e06a649584f4140a31a8fad98326d380f44ff3c7cc621105e576a51a
+- game/data/exports/website/gear/icons/Grandpire_s_Robe.png — 59617 bytes — sha256 7b9cfbbde70419de83db7aad5d4756223533cce19f24b094d39ec7af0819ed3a
+- game/data/exports/website/gear/icons/Guardian_s_Longsword.png — 15253 bytes — sha256 0f70e010249e7fd3dc9b6283ba2a1b454dbd696121edb16560fa4c083270370f
+- game/data/exports/website/gear/icons/Hammer_of_Frenzy.png — 87949 bytes — sha256 866d1b6f01db6d934fc9faf3c52825d1cd0f4813bed40033f7808f37a4a8dfe2
+- game/data/exports/website/gear/icons/Hannibel_s_Scalpel.png — 72530 bytes — sha256 346f55fce1506d124127a282f8fa0f8c34366141a898be250b707029b26a8ec9
+- game/data/exports/website/gear/icons/Heart-Protection_Mirror.png — 62563 bytes — sha256 3ba6285423682763059515ce73dc872de7a3f99c57e5e808bd647f63dc566d84
+- game/data/exports/website/gear/icons/Heart_of_Nature.png — 19897 bytes — sha256 e3b28d396b4a586076c18473441dfde492b02c17e38521152834e6fc79649121
+- game/data/exports/website/gear/icons/Heaven_Amulet.png — 18588 bytes — sha256 7818351ce419bd58b21c412a9b99b0f63f5faa5b65f0afb011ee65bd89c3e1d1
+- game/data/exports/website/gear/icons/Heaven_Wings.png — 54917 bytes — sha256 9f194fbb76a7ba9cc9bdb7692486649fa669707e251f0e0b40b34816d7bff566
+- game/data/exports/website/gear/icons/Heavy_Infantry_Helmet.png — 21550 bytes — sha256 c70bd69179281504ff41f222a010f197df5b22730e0bd06111e21b0c8c4e9ad2
+- game/data/exports/website/gear/icons/Hector_s_Spear.png — 16262 bytes — sha256 850874ab6e1df3771388c0a9e6e6b8d4ab44e98794960d552482d896991a75b0
+- game/data/exports/website/gear/icons/Heraclius__Silver_Staff.png — 17597 bytes — sha256 4dd1ba238aa39c3d8941467856f9bc0413db300463d0fa73bee38194aa5f5b0d
+- game/data/exports/website/gear/icons/Holographic_Lens.png — 14496 bytes — sha256 ff1ce9f6738a401bcbeef01bffce5767ef6f1c79bc8cbb872f204a781afe2885
+- game/data/exports/website/gear/icons/Holographic_Tactical_Glasses.png — 34910 bytes — sha256 ca1343e7116ad69dac321d4c63db9e3ec0bab2a90d1c613d13381885d27308cb
+- game/data/exports/website/gear/icons/Horse_Helmet.png — 20264 bytes — sha256 014d7890667bca23c1b5cf8837694f857b978f879e841165e04f80d721a34b6e
+- game/data/exports/website/gear/icons/Hydra_s_Gloves.png — 22281 bytes — sha256 93f21025546de80ce7c296646bb97c7636f098689f5a47118570813327d28e26
+- game/data/exports/website/gear/icons/Ice_Skates.png — 42787 bytes — sha256 4d834aaeda9f1ada921c5f8362245feb5af793bc536896a752671897793d3aa9
+- game/data/exports/website/gear/icons/Icy_Bracelet.png — 53294 bytes — sha256 98ab8cf558d7a79251e79be68f1a5e1c33ce35c479176a9e3ca7917ea5f9ba16
+- game/data/exports/website/gear/icons/Imitation_Vision.png — 106924 bytes — sha256 eec9f067d3427fecab7e718c3c84064f077eda8c98ef912e5a3df4e831f76ace
+- game/data/exports/website/gear/icons/Incredible_Key.png — 13560 bytes — sha256 e681842282d2b2d68a53fb41a15675391d75b4b8a8b9df640c3b5e8205624f6a
+- game/data/exports/website/gear/icons/Indra_s_Crown.png — 24123 bytes — sha256 745dfd1d1098f0d6d87922dcdd9e96c875960042c7a2426922582d65822507f4
+- game/data/exports/website/gear/icons/Indv._High-explosive_Rifle.png — 45560 bytes — sha256 1d131db8a76cb6aa8ca97351ee76f278e21e46af2aa211cfe01ba1af753c389c
+- game/data/exports/website/gear/icons/Indv._Power_Armor.png — 51781 bytes — sha256 89e327cde030069fa4c688fa3c8762c58e94967edefb9dc70a20e836f898ec11
+- game/data/exports/website/gear/icons/Infrared_Lens.png — 13845 bytes — sha256 cc09de3239d6e8f5a4bd25935f2130dd6d8e7910d86588d069a51dc371d44799
+- game/data/exports/website/gear/icons/Iron_Helmet.png — 47241 bytes — sha256 d0ec8886dffe0b3cf1883d1ba21d2a009b3f24ca0bd25fed72b47642d92036a5
+- game/data/exports/website/gear/icons/Iron_Ring.png — 44172 bytes — sha256 dfdca9dde79725924cf2db8dbd0505eb48346271991c6a214ea6c53de5ec16e6
+- game/data/exports/website/gear/icons/Iron_Track.png — 42085 bytes — sha256 1e2e566bd1b96381fa0d87d2aa76814904c7ae9dc44906dbe8a6767688bc98ff
+- game/data/exports/website/gear/icons/Jack_s_Gloves.png — 80655 bytes — sha256 5540d0b67ddf0546215f4f3ccdab22bc24e04e8ffece693892c92fe70ccb5518
+- game/data/exports/website/gear/icons/Jade_Blade.png — 16012 bytes — sha256 61ddafcc1f3332101a239b097b4928dae2c069bed1ab7c9291ea52ced0a002e4
+- game/data/exports/website/gear/icons/Jason_s_Mask.png — 82583 bytes — sha256 79ed360f240496b0707860a0b3aa191979a9ae656a991bfe176f1aa664c35398
+- game/data/exports/website/gear/icons/Javelin.png — 11161 bytes — sha256 f8956ff04e6b22e57b489460690462c26d6e9b61fe99046cedb39cf0384a1c93
+- game/data/exports/website/gear/icons/Jung-geun_s_Gun.png — 30199 bytes — sha256 e9bd6b4bb6d96f86ac81ec23b5d061cd448f7c7a35ab3e6be340f79225c5f84b
+- game/data/exports/website/gear/icons/Justinian_s_Robe.png — 22757 bytes — sha256 03b7c23f60a16fd7efbd2773642bf459141dab3cfb5fd87b43f2bb9c35b6d441
+- game/data/exports/website/gear/icons/Khopesh.png — 12820 bytes — sha256 b4e05325178092b4746a369ae09893e0588259dce4cc31caa80d0785e8471612
+- game/data/exports/website/gear/icons/Know-It-All_Device.png — 45995 bytes — sha256 6b3c8377260bf286f14891bf451ec7bd91465f89484d5d69656d2ca7e28a9d83
+- game/data/exports/website/gear/icons/Kukri.png — 14679 bytes — sha256 f5ee31e7cf8fa8ff208e04f197f5bd1fe0d51b107729f88952cff99e576895fe
+- game/data/exports/website/gear/icons/Leather_Chest_Armor.png — 68387 bytes — sha256 08a302e24a79a0c40b14323afd6c72ba98aae6e72bf7b26872a20941c0da1170
+- game/data/exports/website/gear/icons/Leather_Shield.png — 19607 bytes — sha256 d27a9b74f4ac6b203da0b187390755506625395dac14d6431129ca7abe6976fe
+- game/data/exports/website/gear/icons/Lee_Enfield_Rifle.png — 35305 bytes — sha256 4f1874e505d3b40252a45471950a015b44a60022c0fe994207ff2731c0ec9dfd
+- game/data/exports/website/gear/icons/Legion_Javelins.png — 12592 bytes — sha256 8cf61c05d79aaa1eb99a619e2ff6ba6a9999bf97b264aa37a736ff71b6bc21fb
+- game/data/exports/website/gear/icons/Leviathan_Gloves.png — 21404 bytes — sha256 85b2aca1808ea93f4c86f4751f052cace0e67cb3edbe3c92cdf0f59e94bfc1b8
+- game/data/exports/website/gear/icons/Lifebuoy.png — 20050 bytes — sha256 397c556c6ba89de7b4c1d7e0d25b8c4e70243869d77218faea25794999ba5dfb
+- game/data/exports/website/gear/icons/Light_Yamato_Armor.png — 52670 bytes — sha256 0ce5cc471ee5d4185c370b8225eae013611857b1611adb0e320520dd8c6ce58d
+- game/data/exports/website/gear/icons/Linen_Robe.png — 15138 bytes — sha256 9508fa642c8babaae5a719356075ca0321906c6ba84fbae3c04a1ce68cb08140
+- game/data/exports/website/gear/icons/Lion_King_s_Sword.png — 23251 bytes — sha256 16d3925d94b81526d4e6bacf4424ec9aa380f209b0909c78f5a5f3d86ca79694
+- game/data/exports/website/gear/icons/Lion_s_Crown.png — 55605 bytes — sha256 a60a27931b5648220be3bc3c263b38726fa92231a8f3d094ab7f7971f84c80b6
+- game/data/exports/website/gear/icons/Lizard_Belt.png — 58504 bytes — sha256 06d4e2db86776181e28576d15b15d870587afbcaba0eb2c9416bca2b9d0bc2d3
+- game/data/exports/website/gear/icons/Long_Range_Scope.png — 39964 bytes — sha256 3d159e60882ee294ae5c5ff1696fbe1e598937e70c6b5fef08db3420f0721355
+- game/data/exports/website/gear/icons/Lotus_Platform.png — 53107 bytes — sha256 b0826796edf6fc512ca1d539a18326d159368d465dbb2506dd77ec5d58ab55b8
+- game/data/exports/website/gear/icons/Lotus_Platform_XII.png — 86231 bytes — sha256 941214b67435620dfbf290e9e601e6fcbe52efc95326cf70b090ca8e38f1f310
+- game/data/exports/website/gear/icons/M4_Carbine.png — 42395 bytes — sha256 a683bf356a9c105f75080f693258522cce331fc2bd3eb18fbbef181e3a36d93a
+- game/data/exports/website/gear/icons/Macedonian_Spear.png — 12683 bytes — sha256 a41459fab96338421c7ed96c307e95a128e4888d6bce08db87c396ac02951019
+- game/data/exports/website/gear/icons/Magician.png — 19237 bytes — sha256 66dac14870df90dbffadb815eb2641ec5420377d97e935b3f847005920fb4425
+- game/data/exports/website/gear/icons/Mahatma_s_Robe.png — 23848 bytes — sha256 f09c2e4ccb31c0dd59de72456d93e614c99b7b1bdf28fb7046beefea3ae262ff
+- game/data/exports/website/gear/icons/Mark_II.png — 80512 bytes — sha256 e560ab5cd67f46de60ef9f498aff3d24b625449c6d63a45590d06ac2e3eb8c24
+- game/data/exports/website/gear/icons/Mark_IV.png — 72037 bytes — sha256 3d4c8fb2232e670f20a6df343d65c476cd1b351846aa98351993d3385fe38f0d
+- game/data/exports/website/gear/icons/Maze_Key.png — 9833 bytes — sha256 33f917d331a59879ff73f8aabcb9eacf4b1bfe4a77826e1a85886cca19899f15
+- game/data/exports/website/gear/icons/Mechanical_Exoskeleton.png — 57232 bytes — sha256 4e58e74ed8c8106efd5116dab6af9478263d88db45b1ccccd622346150e0124e
+- game/data/exports/website/gear/icons/Michael_s_Earrings.png — 19791 bytes — sha256 a344a4d7605eac3677f6452292098f81c4c6c125d06627fac4b318adce23db09
+- game/data/exports/website/gear/icons/Millennium_Ring.png — 56797 bytes — sha256 d85d6559345163f36edd8defed9c59a43bb906f774723354b8bbf892719050e8
+- game/data/exports/website/gear/icons/Million_Volts.png — 95155 bytes — sha256 478e79925a606e0d664b04d71befac09a19cb8f4e29e562d0661a9a80139fd50
+- game/data/exports/website/gear/icons/Mind_Control_Dagger.png — 62167 bytes — sha256 40714278c5819755c5cf9ad36272e269f2590f803bfaec7d40277d4de7434cd3
+- game/data/exports/website/gear/icons/Motorbike_Helmet.png — 47329 bytes — sha256 665d8b3b546f44d3b30d0edb6ff282e7bb28847862d84f9dfd19d90fcc8499ee
+- game/data/exports/website/gear/icons/Mughal_Scimitar.png — 18213 bytes — sha256 1880cb309c655bed897323807ba0b676021ab4a4395f99743670e570083b5d6f
+- game/data/exports/website/gear/icons/Mughal_Soldier_Helmet.png — 23467 bytes — sha256 8d85decfd713370230a6563fb76a30be77c9acdd7bb09c4130fa08af278f2760
+- game/data/exports/website/gear/icons/Multifunction_Goggles.png — 12438 bytes — sha256 02cb91b2f6053e349f6cbf34efd08121e4417050e1d64c02a10a63e9c3973073
+- game/data/exports/website/gear/icons/Ninjutsu_Armband.png — 49314 bytes — sha256 070426db74eba451335b860eacd991876dc84fb9692726024a0b437b5592a3ee
+- game/data/exports/website/gear/icons/Norris-chuck.png — 99010 bytes — sha256 08b9df8652d6146b53603affa39e50f57c16cffe1c2e8f8ef11e0a9dee307359
+- game/data/exports/website/gear/icons/Nun-chuck.png — 98958 bytes — sha256 af55a59e573a2bd303e1f7da069eb5cfbfb0a307a7700ea78ef7faedd8312ac1
+- game/data/exports/website/gear/icons/Ogma_s_Cloak.png — 21743 bytes — sha256 49caab2ac4ad9833bc6598ddece87a030641abcb18e12609ae97a1b019a10ec0
+- game/data/exports/website/gear/icons/Oldman_Wand.png — 84893 bytes — sha256 56cf505220577dab82c20d69ad3b96cd8a1ff9250874f281d89653f9caba1667
+- game/data/exports/website/gear/icons/Overlord_s_Hook.png — 79017 bytes — sha256 709634ad0733838f52559ddacc26d2480d204e650129fbddda0afef8fcc45c07
+- game/data/exports/website/gear/icons/PASGT_Helmet.png — 45836 bytes — sha256 9bf67dd90e23fc9949c7f6065525b5edae230a9fce3a63c8c3ab0f31ece78589
+- game/data/exports/website/gear/icons/Parsian_Kite_Shield.png — 59564 bytes — sha256 c0555eded89b1b5e6b40a7e2ecea96a5566bfdd34c5e4aad1d6236136442ca1e
+- game/data/exports/website/gear/icons/Parsian_Pike.png — 48886 bytes — sha256 d24a0ba7b8f4ed060a3ab5ebd962e10e663a91a758345d060813e32231aa4593
+- game/data/exports/website/gear/icons/Pata.png — 16370 bytes — sha256 0e7dfaab4ed5874a0c673b8aab81d2795f5694ea5d9891afd0f1181e0a157890
+- game/data/exports/website/gear/icons/Peacock_Quill.png — 16469 bytes — sha256 c3da1e0b008d7b8591a3984e342f698ff90d0c4d00db6d4ca0a263a0ae086c11
+- game/data/exports/website/gear/icons/Pesh-Kabz.png — 57951 bytes — sha256 be2d27782c6f0f0fa41d2ed9740140b7fda490b6146046129c3dfe60df012f49
+- game/data/exports/website/gear/icons/Pharaoh_s_Scepter.png — 16752 bytes — sha256 7dcd1e755e29a9e396692cd74849356d47c481abef37f14104efccdacee2c904
+- game/data/exports/website/gear/icons/Pirate.png — 43481 bytes — sha256 eee9e36ca55e24b14f2da677879f243811126c33de243c1e541101750dae8f30
+- game/data/exports/website/gear/icons/Podao.png — 26222 bytes — sha256 7d225af4c00d361a20a69f76745984decf76ef36a70e395b88e05a3d56e73c9e
+- game/data/exports/website/gear/icons/Poisoned_Dagger.png — 9670 bytes — sha256 11a4d6a6d173413af5ad1fbb232558e14753a5fea8c7cd3dc42a3524dd5a829a
+- game/data/exports/website/gear/icons/Poseidon_s_Blessing.png — 19663 bytes — sha256 9bd584cbc5b914a66d5d90866ab6a9fad49530b660717dd234ecadc592d2a8a9
+- game/data/exports/website/gear/icons/Poseidon_s_Trident.png — 57865 bytes — sha256 1d85d14ddce3dd3cfbc6d9c33a910313b076795acce7134d3ccf7e380604559b
+- game/data/exports/website/gear/icons/Power_Armor.png — 20807 bytes — sha256 14bf9f77b3d34a934a26c16ebb1c499946789a1ced96f105235082928f3e351b
+- game/data/exports/website/gear/icons/Power_Spinach.png — 81432 bytes — sha256 5613aac5e7aeb3b6341d6e0ba7ae88f284868bb95d1b74281eb5275a62aa1176
+- game/data/exports/website/gear/icons/Powered_Glove.png — 52390 bytes — sha256 7d363dd4ef22d8c1baeba61f494ad91a0e89ab7fec15ec647a91bd813aaf6a37
+- game/data/exports/website/gear/icons/Prayer_Staff.png — 64056 bytes — sha256 48d57b71b7003f680e0f664b82871bccd764a464ae649babc6d402a4f4573762
+- game/data/exports/website/gear/icons/Priestly_Robe.png — 18635 bytes — sha256 b0078ee341bcc166034e3cd4ac6fdd10786472ab3c59193cf576ccba5af0483d
+- game/data/exports/website/gear/icons/Pulse_Rifle.png — 64309 bytes — sha256 143da0f39107aee6bb8e6d22d85705b899f1c9b0f57c32ea70dcba4d71aeb885
+- game/data/exports/website/gear/icons/Rainbow_Tassel.png — 39197 bytes — sha256 38804127692f7bccd04ac6d1b40765dfa48b2b93740bfd4b8e13022dd5b850b1
+- game/data/exports/website/gear/icons/Rama_Greataxe.png — 27100 bytes — sha256 550315302705f34455eb89a1e4713609640fe902ef755bf10785ac9745ea29ed
+- game/data/exports/website/gear/icons/Ring_of_Paralysis.png — 15892 bytes — sha256 e777bb3bb0078bceeac7ea3add1fd71ecab3431f08ab6aede31c70bfa25c298d
+- game/data/exports/website/gear/icons/Ring_of_Stupor.png — 16547 bytes — sha256 cfddd414660b656f959d64a6d7ad7d85581fceb65bf15f7db18b21db78a28579
+- game/data/exports/website/gear/icons/Rock.png — 17938 bytes — sha256 7075469f0e787ac07a68df10aa32815bc366dfbf09c65bca699c55636fadc445
+- game/data/exports/website/gear/icons/Royal_Banner.png — 33117 bytes — sha256 9f921ed79bca8ebd65fca86a960a0643b0c85b5c9a7a2fa578b55d84ed839d7c
+- game/data/exports/website/gear/icons/Royal_Guard_Bearskin_Hat.png — 40779 bytes — sha256 187f00b3b8908365cd2c0fe7b13a6e3f9ad33a14f0573aacb9f0050c29bb7f81
+- game/data/exports/website/gear/icons/Royal_Underwear.png — 44308 bytes — sha256 8314453254e148b0f93261ab6a071d5aa5c580cee16b68de12d94b6cb95ea362
+- game/data/exports/website/gear/icons/Ruby_Brooch.png — 48280 bytes — sha256 5a58ec7b89040a2f9a349d6d43e9c22980ff39b40dedec933d8b52c0c35d55a3
+- game/data/exports/website/gear/icons/Sailor_Suit.png — 44656 bytes — sha256 efa44d98cdc87c1bbf50a107b6006c12f540d20dd52e53ffb9a34aa266fca774
+- game/data/exports/website/gear/icons/Saint_s_Earring.png — 18339 bytes — sha256 17605a7b39520c84f8e4c4ec21a08e9f39e82ac42e123ecb27217738a37c0337
+- game/data/exports/website/gear/icons/Sakabato_Blade.png — 97730 bytes — sha256 ba2b047513f0149d19f1fe645798547c536ff3f62e45d560e5adcb185f95d942
+- game/data/exports/website/gear/icons/Sapphire_Brooch.png — 53986 bytes — sha256 3359babf6bc6605f1393ce9544b37603762b9c8c08f41cb0da95087cfcbd8630
+- game/data/exports/website/gear/icons/Scout_Goggles.png — 13642 bytes — sha256 b9241a083c302a6f7e8dbe2e9dc53509e57899efc8b5fe14d496029780fed1e5
+- game/data/exports/website/gear/icons/Seething_Bracelet.png — 53256 bytes — sha256 9f1bb8643c9884cc2e59336bec85db936c65307f9d7f2378efcb4007fffe8307
+- game/data/exports/website/gear/icons/Selene_Amulet.png — 16025 bytes — sha256 ab6099f8184e69f6fecce70337bd8bb3296f479a1b6180b51dbbb8d3c73b45be
+- game/data/exports/website/gear/icons/Septreasure_Peacock_Quill.png — 19886 bytes — sha256 4867420201ea4bfcfa857258224e6aa12c75e0fa50535f20d8815c60a2a1fec8
+- game/data/exports/website/gear/icons/Seraph_s_Light.png — 89726 bytes — sha256 1b6b9959b5013616d0ffc28e4a7af922015040d56d392b6900e08c1ba86c993b
+- game/data/exports/website/gear/icons/Serket_Staff.png — 71036 bytes — sha256 805d6a06205b2f98167b9ba2404b1cf4c33328775e2335f74556cd889879f2dc
+- game/data/exports/website/gear/icons/Servant_Spirit_Pendant.png — 47472 bytes — sha256 6b5547103356c2c924343d7b2aa0815c797d737cb9c707fd4acd3dfaf94c89db
+- game/data/exports/website/gear/icons/Shamshir.png — 67646 bytes — sha256 4011d6df07a8ebe59035a0446ce0924397ad23d57874622173e45a1d8dc546be
+- game/data/exports/website/gear/icons/Shattered_Fire_Spear.png — 28890 bytes — sha256 f62037ff9ff6f37711d01e7130d9e2e3276449d62709d4cf6caa40e481be32bb
+- game/data/exports/website/gear/icons/Shattered_Palm-Leaf_Fan.png — 38408 bytes — sha256 115dff1d2b8d1f3a5734601e755c26512b0297f9c788acfd7c305f76e19cbadd
+- game/data/exports/website/gear/icons/Shattered_Sky_Ribbon.png — 43326 bytes — sha256 fff3800b78ef7dd31753679a93519ad36d3a47b4392a092dc46eb57ebe4d8df6
+- game/data/exports/website/gear/icons/Shattered_Windfire_Wheel.png — 55710 bytes — sha256 36914f7b7cfcc555b4dffcf8a0b764c2a46305a9f1853c7a379056df23c98ffd
+- game/data/exports/website/gear/icons/Shotgun_Umbrella.png — 46683 bytes — sha256 f320509a30fdd308b9d2344dd5783df1abce8924a411c84e6b98b757f98ec5d5
+- game/data/exports/website/gear/icons/Sikh_Turban.png — 20660 bytes — sha256 8855f940459c78f69618ce38466c804299b977feefd1e3b9518ae58d7a2e4bce
+- game/data/exports/website/gear/icons/Silver_Lion.png — 48159 bytes — sha256 7f08feb3bf9c674f531b2ee9721213402b39dced54ac8b3f1ccca6f8ac2a8c6f
+- game/data/exports/website/gear/icons/Sky_Piercer.png — 25358 bytes — sha256 1a271cb883067ab61ae039077a2e479bb4f83058e3e1995f07fe85e06796b440
+- game/data/exports/website/gear/icons/Slippers.png — 66897 bytes — sha256 eff73c3d52c82983dfb937d07a8e1d06ff44f2832a2fb5bcdd502d1b7387ce65
+- game/data/exports/website/gear/icons/Smoothbore.png — 31665 bytes — sha256 eadfd725d2c3290a90344298012272be9134761188fab225685a28303b754ea0
+- game/data/exports/website/gear/icons/Sorcerer_Ring.png — 51999 bytes — sha256 432d6cce958e689c61671e7fe6b0819fcada1849cf8cd9a3255d34aab3039f88
+- game/data/exports/website/gear/icons/Soul_Reaper.png — 74898 bytes — sha256 3cad62ca18091ca0eeebe076d684f65a3096d5f18be7e17ac123ce89e2dc675e
+- game/data/exports/website/gear/icons/Soul_Walking.png — 91699 bytes — sha256 8684ddce48cbd92749106b3fbc24c717b197a00c1d5aecd4de256a9de2c2042b
+- game/data/exports/website/gear/icons/Spacetime_Echo.png — 52336 bytes — sha256 2a17c97f25da42cf3150473ab145f653e9153da5b59253bbdba8708925c9bd10
+- game/data/exports/website/gear/icons/Spacetime_Exile.png — 62868 bytes — sha256 12571492cc3474d0dc79b8d78d1fa53e1ebd3c1ea42a6b1fc335a6b81861add8
+- game/data/exports/website/gear/icons/Spartan_Shield.png — 24527 bytes — sha256 c2c74241b01459a28bb6f5044c5c551b1dced78fd7078c31784a51f4e07026a9
+- game/data/exports/website/gear/icons/Spring_Longsword.png — 71212 bytes — sha256 8147b63efcb10248c64578eab710ed379d4069eef2307cad4afeb79dd2c82c7e
+- game/data/exports/website/gear/icons/Springfield_Rifle.png — 33459 bytes — sha256 b0bdfa33762c0f4e6db0aaaa7cfd9d5885fc1999349e827ba140052541411d57
+- game/data/exports/website/gear/icons/Stage_Hat.png — 18881 bytes — sha256 9ac83b722678b21d6d5bc047e4362878d187410389085fe89ae240c790f3ee76
+- game/data/exports/website/gear/icons/Stardust_Arrow.png — 18812 bytes — sha256 c064cf7ba5842dfa78d5991883bb84eec112bb29f4e62ede9f0952891eadd705
+- game/data/exports/website/gear/icons/Static_Belt.png — 16319 bytes — sha256 57cce4d380c3911fe1f6dffb7da6d2025f022fe31d0e976907fb69b955fc94ba
+- game/data/exports/website/gear/icons/Strength_Master_s_Sword.png — 44347 bytes — sha256 6a12afaa9e63f3a4acdebeeb6120dc5f74d96d53550b2671659539b773866d24
+- game/data/exports/website/gear/icons/Strength_Sword.png — 34578 bytes — sha256 5e63319743395b4619740731f5d605711e26c6095f70641bb2d703fd53e7042a
+- game/data/exports/website/gear/icons/Strong_Round_Shield.png — 23543 bytes — sha256 bd94fd8c309dde52ec9fb6518731f9081b28cc89253eca042d8026aa1b173687
+- game/data/exports/website/gear/icons/Subspace_Blade.png — 50382 bytes — sha256 83bb6b81354f5ede9660d32da433fd0eef341198fab5524f49a7740da20a070b
+- game/data/exports/website/gear/icons/Super_Warrior.png — 77480 bytes — sha256 cd65b4ca76ed3ba824f2f570c7b847f1999832955a8144aa41ee75ba813d3325
+- game/data/exports/website/gear/icons/Switchblade.png — 30313 bytes — sha256 02fd9ff729564812699df86fc805b055a4b75334ea2bacb6b627740b72135d62
+- game/data/exports/website/gear/icons/Sword_Cane.png — 44787 bytes — sha256 65000996967e3432fbb2c1edbbe52cdd83a790dc007d9f070930b1139aceac77
+- game/data/exports/website/gear/icons/Sword_Futsuno.png — 33190 bytes — sha256 e31cba584679c58053588a809fe67a3a0b64c41f532853e6b28dd0e9a9261e1c
+- game/data/exports/website/gear/icons/Tactical_Boots.png — 39748 bytes — sha256 505fb86197fbf7f0a3ef43688d9d1b07ab68c7fe1de073a2399a9b651dc09573
+- game/data/exports/website/gear/icons/Tactical_Helmet.png — 16889 bytes — sha256 6ed0d416567b213593f525ab4ad26afbd62adfdeac41b89418767ba2607e729b
+- game/data/exports/website/gear/icons/Tactical_Vest.png — 43261 bytes — sha256 84c86def979fa78d6dacb665f8e68e63827dec838cb4daa447243b59fd28fc15
+- game/data/exports/website/gear/icons/Teslla.png — 47031 bytes — sha256 8d8011971bed94c4a86285e808eb35796a9db2eb3210562f5c11f20cd78c1385
+- game/data/exports/website/gear/icons/Texan_Chainsaw.png — 73004 bytes — sha256 3fc7262bd6aa9388c3d813fca675ff79514db32fb7c04fec05eed5f1fa818980
+- game/data/exports/website/gear/icons/The_Buried.png — 79060 bytes — sha256 5f80925b2ef18a5a5e9cab47053e7430a9626771fdd405cf646fd02dcc7304ed
+- game/data/exports/website/gear/icons/The_Great_Collector.png — 78762 bytes — sha256 56284d661d0dc38218ab980ea7df76e5d9ba568bc1ff814475a66a4cd291a9a0
+- game/data/exports/website/gear/icons/The_Great_Engineer.png — 84110 bytes — sha256 9bdb56e6139e9b67520535063674d9ddb743e932018defe4f1dc7a6c42da2f75
+- game/data/exports/website/gear/icons/The_Great_Entertainer.png — 21630 bytes — sha256 519b455d8c5ea4cfa9b48cfa6e1856327fb5133f11cf27d98dfb959e6a2aba14
+- game/data/exports/website/gear/icons/The_Great_Magician.png — 18351 bytes — sha256 c4339d4513f42b6ba8ca0a20e958e6e8b44490cac116b8a067586ad6e2085ef9
+- game/data/exports/website/gear/icons/The_Great_Scientist.png — 79036 bytes — sha256 a79decc8637c73432d40498908bcb44881767c563bd820be84f16b113d47511d
+- game/data/exports/website/gear/icons/Thorn.png — 17850 bytes — sha256 a5bc43557000a03e1a11da125f8776c1a353ae34f6303a13c149d66d56a7815a
+- game/data/exports/website/gear/icons/Thunder_Belt.png — 16436 bytes — sha256 6e44a82016463b747a22631fe0aff23695aa3c672eefe608b1c9dcd5e94983a2
+- game/data/exports/website/gear/icons/Time_Amulet.png — 18227 bytes — sha256 74c903d6977968c494e4159ee17686c83535f11de0363be26850e2123e1ef374
+- game/data/exports/website/gear/icons/Time_Blade.png — 50994 bytes — sha256 63f578847ab74e3f313d029b95fe7b257ab33ab18b4edcc6d34d893e89f9becb
+- game/data/exports/website/gear/icons/Time_Cog.png — 59025 bytes — sha256 62b6a2b64fc7303cb30c188d40982dd3bede04c846bc90e3026ae29dbd465f4b
+- game/data/exports/website/gear/icons/Time_Flute.png — 56556 bytes — sha256 30ed3a8ff08d077becd84e1566388bb84045d54121f2f501cb8b5aece23dd999
+- game/data/exports/website/gear/icons/Time_Hand.png — 54757 bytes — sha256 44f55a2e830e7ae5d1efa89ad83bae038f1b597a513ed14f9eca62fe15b21588
+- game/data/exports/website/gear/icons/Time_Wanderer.png — 64889 bytes — sha256 5db2fd9c712249c082fca5ee9b2b6ee65dea57996d45da558e82ba5d82e43202
+- game/data/exports/website/gear/icons/Time_Wheel.png — 56190 bytes — sha256 e59b9c8aafe26e6a87f428ab1caef62f046594337d1186b7398ed34b4daa0e1d
+- game/data/exports/website/gear/icons/Top_Hat.png — 36093 bytes — sha256 a5b12dafde20ab54044ab5af1ab5f43fdf42661675477fa77fe89737a520c8f2
+- game/data/exports/website/gear/icons/Traveler_Outfit.png — 20048 bytes — sha256 afd00bfcf075d25b68cd819bad6bbaaac34e25cac0d3fed896d32af821137287
+- game/data/exports/website/gear/icons/Tremendous_Support.png — 73982 bytes — sha256 6909125ee9fccc20e9fa493c23aed9752d0403d03337489e2ca8b001c396c217
+- game/data/exports/website/gear/icons/Trident.png — 50294 bytes — sha256 28fec89b09fefa568bfc692b510d01e73e55f5d99e04eb4f814f350383175cd9
+- game/data/exports/website/gear/icons/True_Sakabato.png — 90060 bytes — sha256 b098a46516ab53ec71abd13f086e2d22ce94d8d03ba4a5cf235f694a748d42bd
+- game/data/exports/website/gear/icons/Tuxedo.png — 44439 bytes — sha256 3e9d65d828346787a3f924e2279474c5b41aede6015ad51e721be30ec8f05bb5
+- game/data/exports/website/gear/icons/Twin_Tip_Dagger.png — 13426 bytes — sha256 0b3fbd7dbf25cc486d0221c190127a566d80d6a05342ab335dd6f0c73f7f82cf
+- game/data/exports/website/gear/icons/Undead_Staff.png — 46668 bytes — sha256 1ab8a6bdf03e3f448cc1e6f3caf878aa9bff783474e1c7d1bdb7ab0e2fd4879a
+- game/data/exports/website/gear/icons/Virgo_Tech.png — 62223 bytes — sha256 9e4786c77c194f3b1a9b588c9976b92ed9b829ffe7c154dd4d919561dc73caab
+- game/data/exports/website/gear/icons/Virtual_Vision.png — 80968 bytes — sha256 7fd558e1ada45e198ea77cd8026f947d01fa8ebbcdc4683ad054883c4f114cbb
+- game/data/exports/website/gear/icons/W-Tadpole_Sword.png — 39356 bytes — sha256 7b0a362b44f693a67b89f8f54e1a1595b766095c8fd33d5f9de51644a4ec5f74
+- game/data/exports/website/gear/icons/Walnut_Wand.png — 63603 bytes — sha256 8eaa15aad1770cfc2e865511f70f3f70657e6e72484ce45f678e95917a446ebf
+- game/data/exports/website/gear/icons/War_Scythes.png — 77244 bytes — sha256 843a6c842ab3a8559a37217cdce78391925ebdbb46fea7d4540bb6868a92359a
+- game/data/exports/website/gear/icons/Warmonger_s_Gun.png — 46781 bytes — sha256 6827d47b34524396353219c1834fccda0d4d95a7b782367b4ec9da2fa0ae5390
+- game/data/exports/website/gear/icons/Warrior_Ring.png — 42952 bytes — sha256 3711a1aef771ba73081ff712f26ee36d4bea66c2053f76f26ed7bee21c370a29
+- game/data/exports/website/gear/icons/White_Pearl.png — 32738 bytes — sha256 f036e04fa20e7cdac218f442a4892721fb2776e8ef275bcc419cff51808d146b
+- game/data/exports/website/gear/icons/Windsor_s_cape.png — 49240 bytes — sha256 df2e0cb713600d452a39fd0bde4b6a072019da505e38e6a2c797b2a0cacfcb2f
+- game/data/exports/website/gear/icons/Wisdom_Cloak.png — 21100 bytes — sha256 733feb4dbeac06b01e073f37fea47ce353754e9c3f42c348d2e883e0f69cf96e
+- game/data/exports/website/gear/icons/Wizard_Ring.png — 55386 bytes — sha256 642e925263e3633dcaaf5e5347ec6d3f8e21bbc8acc082db8258792c877b6700
+- game/data/exports/website/gear/icons/Wooden_Ring.png — 36552 bytes — sha256 b56fc5b314fb1f51287d5b870d53fc56f2a7141c98cb014958cc801904842712
+- game/data/exports/website/gear/icons/Workout_Top.png — 15708 bytes — sha256 1a6f85498ce9ecb67b69e6a63391cf2520dc9927facd084fc336075e08e39dab
+- game/data/exports/website/gear/icons/Wu_Scimitar.png — 31864 bytes — sha256 744b0e5e97706a7d2eadafbcd82078b7cd57f5884682c0107667d1a40c74aa57
+- game/data/exports/website/gear/icons/__missing_gear_icon.svg — 643 bytes — sha256 8168061e84ff39d92219af8476bc26fe5ad068c4e5b82db900592346e0ed38fc
+
+## Next Step
+
+Phase 1F can copy this package into slimy-monorepo and wire it into the personal stats gear modal UI.
+

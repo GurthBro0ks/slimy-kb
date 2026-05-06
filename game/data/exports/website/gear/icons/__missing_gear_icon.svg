@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Missing gear icon">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#3b2858"/>
+      <stop offset="100%" stop-color="#100914"/>
+    </radialGradient>
+  </defs>
+  <rect width="128" height="128" rx="18" fill="url(#g)"/>
+  <rect x="8" y="8" width="112" height="112" rx="14" fill="none" stroke="#9f5cff" stroke-width="3"/>
+  <path d="M38 82 L64 28 L90 82 Z" fill="none" stroke="#bfff38" stroke-width="7" stroke-linejoin="round"/>
+  <circle cx="64" cy="92" r="7" fill="#ff4fd8"/>
+</svg>

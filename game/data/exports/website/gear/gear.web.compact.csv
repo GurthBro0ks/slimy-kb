@@ -1,0 +1,314 @@
+id,name,tierColor,hp,atk,def,rush,effect,origin,iconSrc,iconMissing
+beast_fang,Beast Fang,gray,0,10,0,10,,• [[Fissure,/kb/gear/icons/Beast_Fang.png,False
+broken_hour_hand,Broken Hour Hand,gray,0,0,0,20,,Exchange {{RewardIconWithText|Time Frag Card Gray,/kb/gear/icons/Broken_Hour_Hand.png,False
+broken_minute_hand,Broken Minute Hand,gray,0,0,20,0,,Exchange {{RewardIconWithText|Time Frag Card Gray,/kb/gear/icons/Broken_Minute_Hand.png,False
+broken_second_hand,Broken Second Hand,gray,0,20,0,0,,Exchange {{RewardIconWithText|Time Frag Card Gray,/kb/gear/icons/Broken_Second_Hand.png,False
+bronze_helmet,Bronze Helmet,gray,0,0,20,0,"in [[Hellas]], INTEL gained +1%",Exchange Feather x6 in [[Hellas]],/kb/gear/icons/Bronze_Helmet.png,False
+crowbar,Crowbar,gray,0,20,0,0,,Exchange Kimchi Jar x6 in [[Koryeo]],/kb/gear/icons/Crowbar.png,False
+flower_crown,Flower Crown,gray,100,0,10,0,,• [[Fissure,/kb/gear/icons/Flower_Crown.png,False
+gentleman_s_staff,Gentleman's Staff,gray,0,0,20,0,"In [[Britland]], INTEL gained +1%",Exchange Anchor x6 in [[Britland]],/kb/gear/icons/Gentleman_s_Staff.png,False
+ice_skates,Ice Skates,gray,0,20,0,0,"In [[Koryeo]], INTEL gained +1%",Exchange Kimchi Jar x5 in [[Koryeo]],/kb/gear/icons/Ice_Skates.png,False
+iron_helmet,Iron Helmet,gray,0,0,20,0,"In [[Cathay]], INTEL gained +1%",Exchange Mahjong x6 in [[Cathay]],/kb/gear/icons/Iron_Helmet.png,False
+iron_ring,Iron Ring,gray,0,10,0,10,,• [[Fissure,/kb/gear/icons/Iron_Ring.png,False
+javelin,Javelin,gray,0,20,0,0,,Exchange Feather x5 in [[Hellas]],/kb/gear/icons/Javelin.png,False
+khopesh,Khopesh,gray,0,20,0,0,,Exchange Ankh x5 in [[Kemet]],/kb/gear/icons/Khopesh.png,False
+light_yamato_armor,Light Yamato Armor,gray,0,0,20,0,,Exchange Koban x5 in [[Yamato]],/kb/gear/icons/Light_Yamato_Armor.png,False
+linen_robe,Linen Robe,gray,0,20,0,0,"in [[Kemet]], INTEL gained +1%",Exchange Ankh x6 in [[Kemet]],/kb/gear/icons/Linen_Robe.png,False
+parsian_kite_shield,Parsian Kite Shield,gray,0,0,20,0,"Parsian Exploration, INTEL +1%",Exchange x6 in [[Parsia]],/kb/gear/icons/Parsian_Kite_Shield.png,False
+parsian_pike,Parsian Pike,gray,0,0,0,20,,Exchange x5 in [[Parsia]],/kb/gear/icons/Parsian_Pike.png,False
+podao,Podao,gray,0,20,0,0,,Exchange Mahjong x5 in [[Cathay]],/kb/gear/icons/Podao.png,False
+royal_underwear,Royal Underwear,gray,0,0,20,0,"In [[Yamato]], INTEL gained +1%",Exchange Koban x6 in [[Yamato]],/kb/gear/icons/Royal_Underwear.png,False
+sikh_turban,Sikh Turban,gray,0,0,20,0,"in [[Bharata]], INTEL gained +1%",Exchange Rosary x6 in [[Bharata]],/kb/gear/icons/Sikh_Turban.png,False
+smoothbore,Smoothbore,gray,0,20,0,0,,Exchange Bullet x5 in [[Murika]],/kb/gear/icons/Smoothbore.png,False
+tactical_boots,Tactical Boots,gray,0,0,0,20,"In [[Murika]], INTEL gained +1%",Exchange Bullet x6 in [[Murika]],/kb/gear/icons/Tactical_Boots.png,False
+top_hat,Top Hat,gray,0,20,0,0,,Exchange Anchor x5 in [[Britland]],/kb/gear/icons/Top_Hat.png,False
+twin_tip_dagger,Twin Tip Dagger,gray,0,20,0,0,,Exchange Feather x5 in [[Hellas]],/kb/gear/icons/Twin_Tip_Dagger.png,False
+wooden_ring,Wooden Ring,gray,100,0,10,0,,• [[Fissure,/kb/gear/icons/Wooden_Ring.png,False
+bichaq,Bichaq,green,0,30,0,10,"In [[Parsia]], DMG +2%",Exchange {{Retext|Parsian Carpet|green,/kb/gear/icons/Bichaq.png,False
+black_pearl,Black Pearl,green,50,15,5,15,,• [[Fissure,/kb/gear/icons/Black_Pearl.png,False
+broken_sageender,Broken Sageender,green,50,25,5,5,Crit DMG +2%,Fully defeat [[Mailbox#Ratman,/kb/gear/icons/Broken_Sageender.png,False
+broken_sagemurderer,Broken Sagemurderer,green,50,25,5,5,Crit DMG +2%,Fully defeat [[Mailbox#Ratman,/kb/gear/icons/Broken_Sagemurderer.png,False
+broken_sagesinker,Broken Sagesinker,green,50,25,5,5,Crit DMG +2%,Fully defeat [[Mailbox#Ratman,/kb/gear/icons/Broken_Sagesinker.png,False
+colt_revolver,Colt Revolver,green,0,30,0,10,"In [[Murika]], INTEL gained +2%",Tactical Boots + Smoothbore,/kb/gear/icons/Colt_Revolver.png,False
+crystal_lens,Crystal Lens,green,100,10,10,10,RUSH DMG +60,[[Vending Machine]] Purchase,/kb/gear/icons/Crystal_Lens.png,False
+fresnal_lens,Fresnal Lens,green,100,10,10,10,RUSH DMG +60,[[Vending Machine]] Purchase,/kb/gear/icons/Fresnal_Lens.png,False
+golden_yamato_armor,Golden Yamato Armor,green,300,0,10,0,"In [[Yamato]], INTEL gained +2%",Light Yamato Armo + Royal Underwear,/kb/gear/icons/Golden_Yamato_Armor.png,False
+hannibel_s_scalpel,Hannibel's Scalpel,green,50,25,5,5,"In Snail Fight: DMG +1.5%, 1st round DMG +1%",Dragon Wish Reward<br>[[Altar#Discount_Dragon,/kb/gear/icons/Hannibel_s_Scalpel.png,False
+heart_protection_mirror,Heart-Protection Mirror,green,300,0,10,0,"In [[Cathay]], DMG +2%",Exchange {{retext|Mahjong|green,/kb/gear/icons/Heart-Protection_Mirror.png,False
+heavy_infantry_helmet,Heavy Infantry Helmet,green,300,0,10,0,"In [[Hellas]], INTEL gained +2%<br>Every Costume Stat +1%",Exchange {{retext|Feather|green,/kb/gear/icons/Heavy_Infantry_Helmet.png,False
+jack_s_gloves,Jack's Gloves,green,50,25,5,5,"In Snail Fight: DMG +1.5%, 1st round DMG +1%",Dragon Wish Reward<br>[[Altar#Discount_Dragon,/kb/gear/icons/Jack_s_Gloves.png,False
+leather_shield,Leather Shield,green,300,0,10,0,"In [[Kemet]], DMG +2%",Exchange {{retext|Ankh|green,/kb/gear/icons/Leather_Shield.png,False
+lee_enfield_rifle,Lee Enfield Rifle,green,0,30,0,10,"In [[Britland]], INTEL gained +2%",Gentleman's Staff + Top Hat,/kb/gear/icons/Lee_Enfield_Rifle.png,False
+legion_javelins,Legion Javelins,green,0,30,0,10,"In [[Hellas]], INTEL gained +2%<br>Every Costume Stat +1%",Javelin + Bronze Helmet,/kb/gear/icons/Legion_Javelins.png,False
+lotus_platform,Lotus Platform,green,150,5,5,15,"In Angel Form, Regen 160 HP each round",Defeat [[Mailbox#Ratman,/kb/gear/icons/Lotus_Platform.png,False
+motorbike_helmet,Motorbike Helmet,green,300,0,10,0,"In [[Koryeo]], DMG +2%",Exchange {{retext|Kimchi Jar|green,/kb/gear/icons/Motorbike_Helmet.png,False
+mughal_soldier_helmet,Mughal Soldier Helmet,green,300,0,10,0,"In [[Bharata]], DMG +2%",Exchange {{retext|Rosary|green,/kb/gear/icons/Mughal_Soldier_Helmet.png,False
+ninjutsu_armband,Ninjutsu Armband,green,0,30,0,10,"In [[Yamato]], DMG +2%",Exchange {{retext|Koban|green,/kb/gear/icons/Ninjutsu_Armband.png,False
+pata,Pata,green,0,30,0,10,"In [[Bharata]], INTEL gained +2%",Twin Tip Dagger + Sikh Turban,/kb/gear/icons/Pata.png,False
+pesh_kabz,Pesh-Kabz,green,300,0,10,0,"In [[Parsia]], INTEL +2%",{{RewardIconWithText|Parsian Kite Shield,/kb/gear/icons/Pesh-Kabz.png,False
+poisoned_dagger,Poisoned Dagger,green,0,30,0,10,"In [[Kemet]], INTEL Gained +2%",Khopesh + Linen Robe,/kb/gear/icons/Poisoned_Dagger.png,False
+royal_guard_bearskin_hat,Royal Guard Bearskin Hat,green,300,0,10,0,"In [[Britland]], DMG +2%",Exchange {{retext|Anchor|green,/kb/gear/icons/Royal_Guard_Bearskin_Hat.png,False
+shattered_fire_spear,Shattered Fire Spear,green,50,25,5,5,Lifesteal Effect +10%,Fully defeat [[Mailbox#Ratman,/kb/gear/icons/Shattered_Fire_Spear.png,False
+shattered_palm_leaf_fan,Shattered Palm-Leaf Fan,green,50,25,5,5,Lifesteal Effect +10%,Fully defeat [[Mailbox#Ratman,/kb/gear/icons/Shattered_Palm-Leaf_Fan.png,False
+shattered_sky_ribbon,Shattered Sky Ribbon,green,50,25,5,5,Lifesteal Effect +10%,Fully defeat [[Mailbox#Ratman,/kb/gear/icons/Shattered_Sky_Ribbon.png,False
+shattered_windfire_wheel,Shattered Windfire Wheel,green,50,25,5,5,Lifesteal Effect +10%,Fully defeat [[Mailbox#Ratman,/kb/gear/icons/Shattered_Windfire_Wheel.png,False
+sorcerer_ring,Sorcerer Ring,green,150,5,15,15,,• Flower Crown + Wooden Ring<br>• Lottery Machine (0.67% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests(0.9% chance),/kb/gear/icons/Sorcerer_Ring.png,False
+switchblade,Switchblade,green,0,30,0,10,"In [[Koryeo]], INTEL gained +2%",Ice Skates + Crowbar,/kb/gear/icons/Switchblade.png,False
+tactical_vest,Tactical Vest,green,300,0,10,0,"In [[Murika]], DMG +2%",Exchange {{retext|Bullet|green,/kb/gear/icons/Tactical_Vest.png,False
+time_cog,Time Cog,green,300,0,10,0,In the [[Time Rift,"Rift]], DMG +2%",/kb/gear/icons/Time_Cog.png,False
+time_hand,Time Hand,green,0,30,0,10,In the [[Time Rift,"Rift]], INTEL gained +2%",/kb/gear/icons/Time_Hand.png,False
+warrior_ring,Warrior Ring,green,50,15,5,15,,• Iron Ring + Beast Fang<br>• Lottery Machine (0.67% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests (0.9% chance),/kb/gear/icons/Warrior_Ring.png,False
+white_pearl,White Pearl,green,150,5,15,5,,• [[Fissure,/kb/gear/icons/White_Pearl.png,False
+wu_scimitar,Wu Scimitar,green,0,30,0,10,"In [[Cathay]], INTEL gained +2%",Iron Helmet + Podao,/kb/gear/icons/Wu_Scimitar.png,False
+ancient_blade,Ancient Blade,blue,100,300,10,30,"In [[Cathay]], DMG +2%<br>In [[Cathay]], INTEL gained +2%",{{retext|Wu Scimitar|green,/kb/gear/icons/Ancient_Blade.png,False
+assault_rifle_model_98,Assault Rifle Model 98,blue,100,30,10,30,"In [[Koryeo]], DMG +2%<br>In [[Koryeo]], INTEL gained +2%",{{retext|Motorbike Helmet|green,/kb/gear/icons/Assault_Rifle_Model_98.png,False
+broken_fiend_mirror,Broken Fiend Mirror,blue,100,50,10,10,Lifesteal Effect +20%,Defeat [[Mailbox#Ratman,/kb/gear/icons/Broken_Fiend_Mirror.png,False
+broken_godsmiter,Broken Godsmiter,blue,100,50,10,10,Crit DMG +4%,Defeat [[Mailbox#Ratman,/kb/gear/icons/Broken_Godsmiter.png,False
+broken_palm_leaf_fan,Broken Palm-Leaf Fan,blue,100,50,10,10,Lifesteal Effect +20%,{{retext|Shattered Palm-Leaf Fan|green,/kb/gear/icons/Broken_Palm-Leaf_Fan.png,False
+broken_sagekiller,Broken Sagekiller,blue,50,25,5,5,Crit DMG +2%,Fully defeat [[Mailbox#Ratman,/kb/gear/icons/Broken_Sagekiller.png,False
+bulletproof_vest,Bulletproof Vest,blue,200,20,20,20,"In [[Koryeo]], DMG +2%<br>In [[Koryeo]], INTEL gained +2%",Exchange {{retext|Kimchi Jar|blue,/kb/gear/icons/Bulletproof_Vest.png,False
+crimson_haori_jacket,Crimson Haori Jacket,blue,300,10,30,10,"In [[Yamato]], DMG +2%<br>In [[Yamato]], INTEL gained +2%",{{retext|Golden Yamato Armor|green,/kb/gear/icons/Crimson_Haori_Jacket.png,False
+crusader_ring,Crusader Ring,blue,100,30,10,30,,• {{retext|Black Pearl|green,/kb/gear/icons/Crusader_Ring.png,False
+duckbill_axe,Duckbill Axe,blue,100,30,10,30,"In [[Kemet]], DMG +2%<br>In [[Kemet]], INTEL gained +2%",{{retext|Poisoned Dagger|green,/kb/gear/icons/Duckbill_Axe.png,False
+freddy_s_claw,Freddy's Claw,blue,100,50,10,10,"In Snail Arena, DMG +3%. In Snail Arena, Round 1 DMG +2%",{{retext|Jack's glove|green,/kb/gear/icons/Freddy_s_Claw.png,False
+infrared_lens,Infrared Lens,blue,200,20,20,20,RUSH DMG +120,[[Vending Machine]],/kb/gear/icons/Infrared_Lens.png,False
+jason_s_mask,Jason's Mask,blue,100,50,10,10,"In Snail Arena, DMG +3%. In Snail Arena, Round 1 DMG +2%",Dragon Wish Reward<br>[[Altar#Discount_Dragon,/kb/gear/icons/Jason_s_Mask.png,False
+kukri,Kukri,blue,100,30,10,30,"In [[Bharata]], DMG +2%<br>In [[Bharata]], INTEL gained +2%",{{retext|Pata|green,/kb/gear/icons/Kukri.png,False
+lotus_platform_iii,Lotus Platform III,blue,300,10,10,30,"In Angel Form, Regen 320 HP each round",{{retext|Lotus Platform|green,/kb/gear/icons/Lotus_Platform.png,False
+macedonian_spear,Macedonian Spear,blue,100,30,10,30,"In [[Hellas]], INTEL gained +2%<br>","In [[Hellas]], DMG +2%<br>Every Costume Stat +2%",/kb/gear/icons/Macedonian_Spear.png,False
+mahatma_s_robe,Mahatma's Robe,blue,200,20,20,20,"In [[Bharata]], DMG +2%<br>In [[Bharata]], INTEL gained +2%",Exchange {{retext|Rosary|blue,/kb/gear/icons/Mahatma_s_Robe.png,False
+multifunction_goggles,Multifunction Goggles,blue,200,20,20,20,RUSH DMG +120,{{retext|Crystal Lens|green,/kb/gear/icons/Multifunction_Goggles.png,False
+pasgt_helmet,PASGT Helmet,blue,200,20,20,20,"In [[Murika]], DMG +2%<br>In [[Murika]], INTEL gained +2%",Exchange {{retext|Bullet|blue,/kb/gear/icons/PASGT_Helmet.png,False
+rainbow_tassel,Rainbow Tassel,blue,200,20,20,20,"In [[Cathay]], DMG +2%<br>In [[Cathay]], INTEL gained +2%",Exchange {{retext|Mahjong|blue,/kb/gear/icons/Rainbow_Tassel.png,False
+ruby_brooch,Ruby Brooch,blue,100,30,10,30,,• [[Fissure,/kb/gear/icons/Ruby_Brooch.png,False
+sapphire_brooch,Sapphire Brooch,blue,300,10,30,10,,• [[Fissure,/kb/gear/icons/Sapphire_Brooch.png,False
+servant_spirit_pendant,Servant Spirit Pendant,blue,200,20,20,20,"In [[Yamato]], DMG +2%<br>In [[Yamato]], INTEL gained +2%",Exchange {{retext|Koban|blue,/kb/gear/icons/Servant_Spirit_Pendant.png,False
+shamshir,Shamshir,blue,300,10,30,10,"In [[Parsia]], DMG +2%<br>In [[Parsia]], INTEL +2%",{{RewardIconWithText|Pesh-Kabz|green,/kb/gear/icons/Shamshir.png,False
+spartan_shield,Spartan Shield,blue,200,20,20,20,"In [[Hellas]], INTEL gained +2%<br>","In [[Hellas]], DMG +2%<br>Every Costume Stat +2%",/kb/gear/icons/Spartan_Shield.png,False
+springfield_rifle,Springfield Rifle,blue,100,30,10,30,"In [[Murika]], DMG +2%<br>In [[Murika]], INTEL gained +2%",{{retext|Colt Revolver|green,/kb/gear/icons/Springfield_Rifle.png,False
+sword_cane,Sword Cane,blue,100,30,10,30,"in [[Britland]]In [[Britland]], DMG +2%<br>In [[Britland]], INTEL gained +2%<br>In [[Britland]], fleet cannon DMG +2%",{{retext|Lee Enfield Rifle|green,/kb/gear/icons/Sword_Cane.png,False
+tactical_helmet,Tactical Helmet,blue,200,20,20,20,"In [[Kemet]], DMG +2%<br>In [[Kemet]], INTEL gained +2%",Exchange {{retext|Ankh|blue,/kb/gear/icons/Tactical_Helmet.png,False
+time_blade,Time Blade,blue,200,20,20,20,In the [[Time Rift,"Rift]], DMG +2%<br>In the [[Time Rift",/kb/gear/icons/Time_Blade.png,False
+time_wheel,Time Wheel,blue,100,30,10,30,In the [[Time Rift,"Rift]], DMG +2%<br>In the [[Time Rift",/kb/gear/icons/Time_Wheel.png,False
+tuxedo,Tuxedo,blue,200,20,20,20,"In [[Britland]], DMG +2%<br>In [[Britland]], INTEL gained +2%<br>In [[Britland]], fleet cannon DMG +2%",Exchange {{retext|Anchor|blue,/kb/gear/icons/Tuxedo.png,False
+war_scythes,War Scythes,blue,200,20,20,20,"In [[Parsia]], DMG +2%<br>In [[Parsia]], INTEL +2%",Exchange {{Retext|Parsian Carpet|blue,/kb/gear/icons/War_Scythes.png,False
+wizard_ring,Wizard Ring,blue,300,10,30,10,,• {{retext|White Pearl|green,/kb/gear/icons/Wizard_Ring.png,False
+7_star_blade,7-Star Blade,purple,200,60,20,60,"In [[Cathay]], DMG +4%<br>In [[Cathay]], INTEL gained +4%",{{retext|Ancient Blade|blue,/kb/gear/icons/7-Star_Blade.png,False
+abyss_amulet,Abyss Amulet,purple,200,60,20,60,,• [[Fissure,/kb/gear/icons/Abyss_Amulet.png,False
+achilles_shield,Achilles' Shield,purple,600,20,60,20,"In [[Hellas]], INTEL gained +4%<br>In [[Hellas]], DMG +4%<br>Every Costume Stat +4%",Exchange {{retext|Feather|purple,/kb/gear/icons/Achilles__Shield.png,False
+antelope_horn_shield,Antelope Horn Shield,purple,400,40,40,40,"In [[Bharata]], DMG +4%<br>In [[Bharata]], INTEL gained +4%",Exchange {{retext|Rosary|purple,/kb/gear/icons/Antelope_Horn_Shield.png,False
+arabic_dagger,Arabic Dagger,purple,600,20,60,20,"In [[Kemet]], Snail ATK +60",Reward of [[Kemet]] INTEL,/kb/gear/icons/Arabic_Dagger.png,False
+assassin_s_gauntlet,Assassin's Gauntlet,purple,200,60,20,60,"In [[Parsia]], DMG +4%<br>In [[Parsia]], INTEL +4%",Exchange {{retext|Parsian Carpet|purple,/kb/gear/icons/Assassin_s_Token.png,False
+blade_muramasa,Blade Muramasa,purple,200,60,20,60,"In [[Yamato]], DMG +4%<br>In [[Yamato]], INTEL gained +4%",Exchange {{retext|Koban|purple,/kb/gear/icons/Blade_Muramasa.png,False
+britland_crown,Britland Crown,purple,400,40,40,40,"In [[Britland]], DMG +4%<br>In [[Britland]], INTEL gained +4%<br>In [[Britland]], fleet cannon DMG +4%",Exchange {{retext|Anchor|purple,/kb/gear/icons/Britland_Crown.png,False
+caeser_s_laurel,Caeser's Laurel,purple,600,20,60,20,"In [[Hellas]], Snail ATK +60<br>In [[Hellas]], Snail DEF +60",Reward of [[Hellas]] INTEL,/kb/gear/icons/Caeser_s_Laurel.png,False
+cayako_s_charm,Cayako's Charm,purple,200,10,20,20,"In Snail Arena, DMG +6%<br>In Snail Arena, Round 1 DMG +4%",Divine Dragon Wish<br>[[Altar#Discount_Dragon,/kb/gear/icons/Cayako_s_Charm.png,False
+dim_godsmiter,Dim Godsmiter,purple,200,100,20,20,Crit DMG +4%<br>Lifesteal Effect +20%,{{retext|Broken Sagekiller|blue,/kb/gear/icons/Dim_Godsmiter.png,False
+dim_ironcutter,Dim Ironcutter,purple,200,100,20,20,Crit DMG +4%<br>Lifesteal Effect +20%,Fully defeat [[Mailbox#Ratman,/kb/gear/icons/Dim_Ironcutter.png,False
+dim_rope_of_truth,Dim Rope of Truth,purple,200,100,20,20,Crit DMG +4%<br>Lifesteal Effect +20%,Fully defeat [[Mailbox#Ratman,/kb/gear/icons/Dim_Rope_of_Truth.png,False
+dim_trident,Dim Trident,purple,200,100,20,20,Crit DMG +4%<br>Lifesteal Effect +20%,Fully defeat [[Mailbox#Ratman,/kb/gear/icons/Dim_Trident.png,False
+feline_shield,Feline Shield,purple,400,40,40,40,"In [[Parsia]], ATK +60<br>In [[Parsia]], DEF +60",Reward of [[Parsia]] INTEL,/kb/gear/icons/Genji_Shield.png,False
+gas_mask,Gas Mask,purple,400,40,40,40,"In [[Koryeo]], DMG +4%<br>In [[Koryeo]], INTEL gained +4%",Obtained from Home Chest,/kb/gear/icons/Gas_Mask.png,False
+genji_gloves,Genji Gloves,purple,200,60,20,60,"In [[Yamato]], Snail ATK +48","Reward of [[Yamato]] INTEL ""Genji II""",/kb/gear/icons/Genji_Gloves.png,False
+genji_helmet,Genji Helmet,purple,600,20,60,20,"In [[Yamato]], Snail DEF +48","Reward of [[Yamato]] INTEL ""Genji I""",/kb/gear/icons/Genji_Helmet.png,False
+genji_shield,Genji Shield,purple,400,40,40,40,"In [[Yamato]], Snail ATK +48<br>In [[Yamato]], Snail DEF +48","Reward of [[Yamato]] INTEL ""Genji III""",/kb/gear/icons/Genji_Shield.png,False
+golden_assault_rifle,Golden Assault Rifle,purple,200,60,20,60,"In [[Koryeo]], DMG +4%<br>In [[Koryeo]], INTEL gained +4%",{{retext|Bulletproof Vest|blue,/kb/gear/icons/Golden_Assault_Rifle.png,False
+golden_bronze_dagger,Golden Bronze Dagger,purple,600,20,60,20,"In [[Kemet]], Snail ATK +60<br>Snail DEF +60",Reward of [[Kemet]] INTEL,/kb/gear/icons/Golden_Bronze_Dagger.png,False
+guardian_s_longsword,Guardian's Longsword,purple,200,60,20,60,"In [[Kemet]], DMG +4%<br>In [[Kemet]], INTEL gained +4%",{{retext|Ax|blue,/kb/gear/icons/Guardian_s_Longsword.png,False
+heaven_amulet,Heaven Amulet,purple,600,20,60,20,,• [[Fissure,/kb/gear/icons/Heaven_Amulet.png,False
+hector_s_spear,Hector's Spear,purple,200,60,20,60,"In [[Hellas]], INTEL gained +4%<br>In [[Hellas]], DMG +4%<br>Every Costume Stat +4%",{{retext|Macedonian Spear|blue,/kb/gear/icons/Hector_s_Spear.png,False
+heraclius_silver_staff,Heraclius' Silver Staff,purple,600,20,60,20,"In [[Hellas]], Snail ATK +60",Reward of [[Hellas]] INTEL,/kb/gear/icons/Heraclius__Silver_Staff.png,False
+holographic_lens,Holographic Lens,purple,200,20,20,20,RUSH DMG +120,[[Vending Machine]] Purchase,/kb/gear/icons/Holographic_Lens.png,False
+holographic_tactical_glasses,Holographic Tactical Glasses,purple,600,20,60,20,"In [[Murika]], Snail ATK +48",Reward of [[Murika]] INTEL,/kb/gear/icons/Holographic_Tactical_Glasses.png,False
+icy_bracelet,Icy Bracelet,purple,600,20,60,20,,• {{retext|Wizard Ring|blue,/kb/gear/icons/Icy_Bracelet.png,False
+justinian_s_robe,Justinian's Robe,purple,600,20,60,20,"In [[Hellas]], Snail DEF +60",Reward of [[Hellas]] INTEL,/kb/gear/icons/Justinian_s_Robe.png,False
+long_range_scope,Long Range Scope,purple,600,20,60,20,"In [[Murika]], DMG +4%<br>In [[Murika]], INTEL gained +4%",Exchange {{retext|Bullet|purple,/kb/gear/icons/Long_Range_Scope.png,False
+lotus_platform_vi,Lotus Platform VI,purple,600,20,20,60,"In Angel Form, Regen 640 HP each round",{{retext|Lotus Platform III|blue,/kb/gear/icons/Lotus_Platform.png,False
+m4_carbine,M4 Carbine,purple,200,60,20,60,"In [[Murika]], DMG +4%<br>In [[Murika]], INTEL gained +4%",{{retext|Springfield Rifle|blue,/kb/gear/icons/M4_Carbine.png,False
+mechanical_exoskeleton,Mechanical Exoskeleton,purple,400,40,40,40,"In [[Murika]], Snail ATK +48<br>In [[Murika]], Snail DEF +48",Reward of [[Murika]] INTEL,/kb/gear/icons/Mechanical_Exoskeleton.png,False
+mughal_scimitar,Mughal Scimitar,purple,200,60,20,60,"In [[Bharata]], DMG +4%<br>In [[Bharata]], INTEL gained +4%",{{retext|Kukri|blue,/kb/gear/icons/Mughal_Scimitar.png,False
+parsian_composite_bow,Parsian Composite Bow,purple,200,60,20,60,"In [[Parsia]], ATK +60",Reward of [[Parsia]] INTEL,/kb/gear/icons/Parsian_Kite_Shield.png,False
+pharaoh_s_scepter,Pharaoh's Scepter,purple,600,20,60,20,"In [[Kemet]], Snail DEF +60",Reward of [[Kemet]] INTEL,/kb/gear/icons/Pharaoh_s_Scepter.png,False
+powered_glove,Powered Glove,purple,200,60,20,60,"In [[Murika]], Snail DEF +48",Reward of [[Murika]] INTEL,/kb/gear/icons/Powered_Glove.png,False
+priestly_robe,Priestly Robe,purple,400,40,40,40,"In [[Kemet]], DMG +4%<br>In [[Kemet]], INTEL gained +4%",Exchange {{retext|Ankh|purple,/kb/gear/icons/Priestly_Robe.png,False
+royal_banner,Royal Banner,purple,600,20,60,20,"In [[Yamato]], DMG +4%<br>In [[Yamato]], INTEL gained +4%",{{retext|Crimson Haori Jacket|blue,/kb/gear/icons/Royal_Banner.png,False
+royal_wootz_blade,Royal Wootz Blade,purple,600,20,60,20,"In [[Parsia]], DMG +4%<br>In [[Parsia]], INTEL +4%",{{RewardIconWithText|Shamshir|blue,/kb/gear/icons/Royal_Banner.png,False
+scout_goggles,Scout Goggles,purple,200,20,20,20,RUSH DMG +120,{{retext|Multifunction Goggles|blue,/kb/gear/icons/Scout_Goggles.png,False
+seething_bracelet,Seething Bracelet,purple,200,60,20,60,,• {{retext|Wizard Ring|blue,/kb/gear/icons/Seething_Bracelet.png,False
+shotgun_umbrella,Shotgun Umbrella,purple,200,60,20,60,"In [[Britland]], DMG +4%<br>In [[Britland]], INTEL gained +4%<br>In [[Britland]], fleet cannon DMG +4%",{{retext|Sword Cane|blue,/kb/gear/icons/Shotgun_Umbrella.png,False
+silver_lion,Silver Lion,purple,400,40,40,40,"In [[Cathay]], DMG +4%<br>In [[Cathay]], INTEL gained +4%",Exchange {{retext|Mahjong|purple,/kb/gear/icons/Silver_Lion.png,False
+spacetime_echo,Spacetime Echo,purple,200,60,20,60,In the [[Time Rift,"Rift]], DMG +4%<br>In the [[Time Rift",/kb/gear/icons/Spacetime_Echo.png,False
+sun_mirror_armor,Sun Mirror Armor,purple,600,20,60,20,"In [[Parsia]], DEF +60",Reward of [[Parsia]] INTEL,/kb/gear/icons/Indv._Power_Armor.png,False
+texan_chainsaw,Texan Chainsaw,purple,200,10,20,20,"In Snail Arena, DMG +6%<br>In Snail Arena, Round 1 DMG +4%",{{retext|Freddy's Claw|blue,/kb/gear/icons/Texan_Chainsaw.png,False
+time_flute,Time Flute,purple,200,20,20,20,In the [[Time Rift,"Rift]], Snail ATK +60<br>In the [[Time Rift",/kb/gear/icons/Time_Flute.png,False
+abyss_wings,Abyss Wings,orange,400,120,40,120,,• {{retext|Seething Bracelet|purple,/kb/gear/icons/Abyss_Wings.png,False
+alloy_shield,Alloy Shield,orange,400,40,20,40,Each round: DEF +64,Divine Neutral 0.2%,/kb/gear/icons/Alloy_Shield.png,False
+anti_strength_saber,Anti-Strength Saber,orange,400,200,40,40,"In Domain Duels (1v1), DMG +12%.<br>In Domain Duels (1v1), DMG +8% for Round 1",Reward of defeating Death Satellite,/kb/gear/icons/Anti-Strength_Saber.png,False
+arrow_of_arash,Arrow of Arash,orange,800,80,80,80,"In [[Parsia]], ATK +120<br>In [[Parsia]], DEF +120",{{RewardIconWithText|Parsian Composite Bow|purple,/kb/gear/icons/Ring_of_Paralysis.png,False
+ashoka_s_sword,Ashoka's Sword,orange,400,120,40,120,"In [[Bharata]], INTEL gained +8%<br>In [[Bharata]], DMG +8%",{{retext|Mughal Scimitar|purple,/kb/gear/icons/Ashoka_s_Sword.png,False
+azazel_s_curse,Azazel's Curse,orange,400,120,120,40,In Demon: Crit Rate +8%,Lottery (1.56%),/kb/gear/icons/Azazel_s_Curse.png,False
+b_tadpole_sword,B-Tadpole Sword,orange,400,200,40,40,HIT +8%<br>Ignore All RES +24,Home Value Pack lv50 pond,/kb/gear/icons/B-Tadpole_Sword.png,False
+battle_detector,Battle Detector,orange,800,80,80,80,RUSH DMG +480,{{retext|Scout Goggles|purple,/kb/gear/icons/Battle_Detector.png,False
+blade_murasame,Blade Murasame,orange,400,120,40,120,"In [[Yamato]], DMG +8%<br>In [[Yamato]], INTEL gained +8%",{{retext|Blade Muramasa|purple,/kb/gear/icons/Blade_Murasame.png,False
+blasphemy_eye,Blasphemy Eye,orange,800,80,80,80,,"Random Events, Sunday Stars 59.99$, and other misc Gear Bags",/kb/gear/icons/Blasphemy_Eye.png,False
+broken_caladbolg,Broken Caladbolg,orange,400,120,40,120,"In Dragon Form, Ignore Water RES +120<br>In Dragon Form, Ignore Wind RES +120",Defeat [[Altar Fights#Demon Lords,/kb/gear/icons/Broken_Caladbolg.png,False
+broken_dragon_horn,Broken Dragon Horn,orange,400,120,40,120,"In Dragon Form, Ignore Fire RES +120<br>In Dragon Form, Ignore Earth RES +120",Defeat [[Altar Fights#Demon Lords,/kb/gear/icons/Broken_Dragon_Horn.png,False
+butcher_s_hook,Butcher's Hook,orange,400,200,40,40,"In Snail Arena, DMG +12%<br>In Snail Arena, Round 1 DMG +8%",{{retext|Texan Chainsaw|purple,/kb/gear/icons/Butcher_s_Hook.png,False
+chief,Chief,orange,400,40,200,40,Crit DMG reduction +8%,Divine Order Chest 0.2%,/kb/gear/icons/Chief.png,False
+conqueror_spear,Conqueror Spear,orange,800,80,80,80,"In [[Cathay]], Snail ATK +96<br>In [[Cathay]], Snail RUSH +96",Reward for defeating [[Mailbox#Loyal Retainers,/kb/gear/icons/Conqueror_Spear.png,False
+couple_swords,Couple Swords,orange,400,120,40,120,"In [[Cathay]], DMG +8%<br>In [[Cathay]], INTEL gained +8%",{{retext|7-Star-Blade|purple,/kb/gear/icons/Couple_Swords.png,False
+crimson_dragon_claw,Crimson Dragon Claw,orange,200,60,20,60,In Dragon: Fire DMG +240,Reward upon [[Altar#Divine_Dragon,/kb/gear/icons/Crimson_Dragon_Claw.png,False
+crown_of_power,Crown of Power,orange,400,40,40,40,FTH +80,Divine Chaos 0.4%,/kb/gear/icons/Crown_of_Power.png,False
+crystal_of_will,Crystal of Will,orange,800,80,80,80,,• Reward of some [[Fissure]] incidents<br>• Reward of offering Gaia's Tainted Organs at the [[Altar]],/kb/gear/icons/Crystal_of_Will.png,False
+curator_s_helmet,Curator's Helmet,orange,1200,40,120,40,"Enemies in explorations drop +16 W-tads<br>(Only when you are really lucky!)<br>Tadpoles Gained: 100,000",50k Museum Medals in [[Museum,/kb/gear/icons/Curator_s_Helmet.png,False
+damascus_knife,Damascus Knife,orange,400,120,40,120,"In [[Kemet]], DMG +8%<br>In [[Kemet]], INTEL gained +8%",{{retext|Guardian's Longsword|purple,/kb/gear/icons/Damascus_Knife.png,False
+death_shroud,Death Shroud,orange,500,10,10,10,Lifesteal Rate +2%<br>Lifesteal Effect +10%,Dracula victory reward,/kb/gear/icons/Death_Shroud.png,False
+demon_god_crystal,Demon God Crystal,orange,800,80,80,80,,Currently only available from final Lucky Clover Round,/kb/gear/icons/Demon_God_Crystal.png,False
+demon_scythe,Demon Scythe,orange,100,30,30,10,In Demon Form: Demon Cells +2%<br>Soul Chests +2%,Tier 3 Demon Research,/kb/gear/icons/Demon_Scythe.png,False
+diver,Diver,orange,300,10,10,30,"In any Realm, 2x Demon God Cell Drops +2%",Divine Neutral Chest (0.8% chance),/kb/gear/icons/Diver.png,False
+dragon_fang_dagger,Dragon Fang Dagger,orange,100,30,10,30,In Dragon Form: Gain +2% Cells<br>Gain 2% Dragon Chests in explorations,Tier 3 Dragon Research Reward,/kb/gear/icons/Dragon_Fang_Dagger.png,False
+drazgul_fang,Drazgul Fang,orange,400,200,40,200,Poison DMG +240<br>Crit Rate +8%,Gear Value Pack III(100$!!!),/kb/gear/icons/Drazgul_Fang.png,False
+dwarf_mask,Dwarf Mask,orange,50,5,25,5,"If you spot a weakness, Snail DEF +30",Lottery (0.75%),/kb/gear/icons/Dwarf_Mask.png,False
+electric_hammer,Electric Hammer,orange,400,40,40,200,Wind DMG +240<br>Ignore Enemey Wind RES +120,Lottery 1.56%,/kb/gear/icons/Electric_Hammer.png,False
+elegant_gloves,Elegant Gloves,orange,50,25,5,5,"If you spot a weakness, Snail ATK +30",Divine Order (1.6%),/kb/gear/icons/Elegant_Gloves.png,False
+elven_cape,Elven Cape,orange,200,20,20,20,Snail ART +40,Divine Order 0.8%,/kb/gear/icons/Elven_Cape.png,False
+eternal_empire_staff,Eternal Empire Staff,orange,800,80,80,80,"In [[Hellas]], Snail ATK +120<br>Snail DEF +120",{{retext|Caeser's Laurel|purple,/kb/gear/icons/Eternal_Empire_Staff.png,False
+eternal_return,Eternal Return,orange,400,120,40,120,In the [[Time Rift,"Rift]], DMG +8%<br>In the [[Time Rift",/kb/gear/icons/Eternal_Return.png,False
+excalibur,Excalibur,orange,400,200,40,40,ATK +160,Reward of defeating Excalibra<br>[[Altar#Discount_Dragon,/kb/gear/icons/Excalibur.png,False
+eye_of_horus,Eye of Horus,orange,800,80,80,80,,• Lottery Machine (1.56% chance)<br>• Gear Chest (1.6% chance)<br>• Divine Chests (1.8% chance),/kb/gear/icons/Eye_of_Horus.png,False
+fire_of_rage,Fire of Rage,orange,400,120,40,120,"In Dragon Form, Ignore DEF +8%",Defeat [[Altar Fights#Demon Lords,/kb/gear/icons/Fire_of_Rage.png,False
+fossil,Fossil,orange,400,200,40,40,Earth DMG +240<br>Ignore Enemy Earth RES +120,Divine Chaos 0.2%,/kb/gear/icons/Fossil.png,False
+gauss_c14,Gauss C14,orange,100,10,30,30,In Mecha Form: Mecha Cells +2%<br>Tool Chests +2% in explorations,Tier 3 Mecha Research,/kb/gear/icons/Gauss_C14.png,False
+gear_ring,Gear Ring,orange,400,40,40,200,"When you enter a new area, gain +80 INTEL",Divine Order Chest (0.2% chance),/kb/gear/icons/Gear_Ring.png,False
+genji_armor,Genji Armor,orange,800,80,80,80,"In [[Yamato]], Snail ATK +96<br>In [[Yamato]], Snail DEF +96",{{retext|Genji Gloves|purple,/kb/gear/icons/Genji_Armor.png,False
+gold_outfit,Gold Outfit,orange,1200,40,120,40,ELMT DMG REDUC +4.8%,Defeat Agamemnon Mask Civilization Mirage,/kb/gear/icons/Gold_Outfit.png,False
+hammer_of_frenzy,Hammer of Frenzy,orange,200,20,20,10,"Each round, Snail RUSH +16<br>Snail ATK +16",Divine Neutral (0.4%),/kb/gear/icons/Hammer_of_Frenzy.png,False
+heaven_wings,Heaven Wings,orange,1200,40,120,40,,•{{retext|Seething Bracelet|purple,/kb/gear/icons/Heaven_Wings.png,False
+horse_helmet,Horse Helmet,orange,800,80,80,80,"In [[Kemet]], Snail ATK +120<br>Snail RUSH +120",{{retext|Arabic Dagger|purple,/kb/gear/icons/Horse_Helmet.png,False
+imitation_vision,Imitation Vision,orange,200,100,20,20,"In Gene Simulations, DMG +6%<br>Round 1 DMG +4%",Gene Training Value Pack II ($14.99),/kb/gear/icons/Imitation_Vision.png,False
+indra_s_crown,Indra's Crown,orange,800,80,80,80,"In [[Bharata]], Snail ATK +120<br>Snail DEF +120",Exchange {{retext|Rosary|orange,/kb/gear/icons/Indra_s_Crown.png,False
+indv_high_explosive_rifle,Indv. High-explosive Rifle,orange,400,120,40,120,"In [[Murika]], DMG +8%<br>In [[Murika]], INTEL gained +8%",{{retext|M4 Carbine|purple,/kb/gear/icons/Indv._High-explosive_Rifle.png,False
+indv_power_armor,Indv. Power Armor,orange,800,80,80,80,"In [[Murika]], Snail ATK +96<br>In [[Murika]], Snail DEF +96",{{retext|Holograhic Tactical Glasses|purple,/kb/gear/icons/Indv._Power_Armor.png,False
+iron_track,Iron Track,orange,100,10,10,50,Travel SPD +1.6%,Divine Order Chest (0.8% chance),/kb/gear/icons/Iron_Track.png,False
+jade_saber,Jade Saber,orange,400,120,40,120,"In [[Parsia]], DMG +8%<br>In [[Parsia]], INTEL +8%",{{RewardIconWithText|Royal Wootz Blade|purple,/kb/gear/icons/Jade_Blade.png,False
+jung_geun_s_gun,Jung-geun's Gun,orange,400,120,40,120,"In [[Koryeo]], DMG +8%<br>In [[Koryeo]], INTEL gained +8%",{{retext|Gas Mask|purple,/kb/gear/icons/Jung-geun_s_Gun.png,False
+leather_chest_armor,Leather Chest Armor,orange,50,15,5,15,In Mutant: Crit DMG +2%,Divine Chaos (1.6%),/kb/gear/icons/Leather_Chest_Armor.png,False
+leviathan_gloves,Leviathan Gloves,orange,200,100,20,20,Water DMG +120<br>Ignore Enemy Water RES +60,Divine Chaos (0.4%),/kb/gear/icons/Leviathan_Gloves.png,False
+lifebuoy,Lifebuoy,orange,150,5,15,5,Water RES +30,Lottery 0.75%,/kb/gear/icons/Lifebuoy.png,False
+lion_s_crown,Lion's Crown,orange,400,120,40,120,"In [[Britland]], DMG +8%<br>In [[Britland]], INTEL gained +8%<br>In [[Britland]], fleet cannon DMG +8%",{{retext|Shotgun Umbrella|purple,/kb/gear/icons/Lion_s_Crown.png,False
+lizard_belt,Lizard Belt,orange,250,5,5,5,"If you spot a weakness, Snail HP +300",Divine Chaos (1.6%),/kb/gear/icons/Lizard_Belt.png,False
+lotus_platform_ix,Lotus Platform IX,orange,1200,40,40,120,"In Angel Form, Regen 1,280 HP each round",{{retext|Lotus Platform VI|purple,/kb/gear/icons/Lotus_Platform.png,False
+magician,Magician,orange,400,40,40,40,All RES +24,Divine Neutral 0.4%,/kb/gear/icons/Magician.png,False
+mark_ii,Mark II,orange,100,10,30,30,In Mecha: DMG Reduction +2%,Lottery (0.71%),/kb/gear/icons/Mark_II.png,False
+maze_key,Maze Key,orange,400,200,200,40,All Element DMG +48<br>All RES +24,Supreme Relic #8,/kb/gear/icons/Maze_Key.png,False
+millennium_ring,Millennium Ring,orange,800,80,80,80,In the [[Time Rift,"Rift]], Snail ATK +120<br>In the [[Time Rift",/kb/gear/icons/Millennium_Ring.png,False
+mind_control_dagger,Mind Control Dagger,orange,100,30,10,30,In Mutant form: Mutant Cells +2%<br>Time Chests +2% in exploration,Tier 3 Mutant Research,/kb/gear/icons/Mind_Control_Dagger.png,False
+nun_chuck,Nun-chuck,orange,100,50,10,10,Ignore enemy DEF +2%,Defeat Sewer Turtle #4,/kb/gear/icons/Nun-chuck.png,False
+peacock_quill,Peacock Quill,orange,200,100,20,100,"For Round 1, CRIT DMG +4%<br>In any Realm DMG +6% in Round 1",Reward of unlocking Peackock Throne,/kb/gear/icons/Peacock_Quill.png,False
+pirate,Pirate,orange,300,10,30,10,"Enemies in Explorations drop +20 B-tads<br>Tadpoles Gained:2,600,000",Divine Chaos Chest (0.8% chance),/kb/gear/icons/Pirate.png,False
+power_armor,Power Armor,orange,800,80,80,80,TECH +160,Divine Chaos 0.2%,/kb/gear/icons/Power_Armor.png,False
+prayer_staff,Prayer Staff,orange,300,10,10,30,In Angel Form: Angel Cells +2%<br>Fungus Chests +2%,Tier 3 Angel Research,/kb/gear/icons/Prayer_Staff.png,False
+pulse_rifle,Pulse Rifle,orange,100,50,10,10,Fire DMG +60<br>Ignore Fire RES +30,defeating UFO(40 incense shots),/kb/gear/icons/Pulse_Rifle.png,False
+ring_of_stupor,Ring of Stupor,orange,200,20,20,100,Chance to Paralysis enemy +2.4%,Hitman 15 victory reward,/kb/gear/icons/Ring_of_Stupor.png,False
+rock,Rock,orange,50,5,25,5,Earth RES +30,Lottery 0.75%,/kb/gear/icons/Rock.png,False
+sailor_suit,Sailor Suit,orange,100,10,10,10,"Per 10% HP lost, Snail ATK +30<br>Per 10% HP lost, Snail DEF +30",Defeat [[Incense#Special Incense Events,/kb/gear/icons/Sailor_Suit.png,False
+saint_s_earring,Saint's Earring,orange,400,40,40,40,FTH +80,Divine Order 0.4%,/kb/gear/icons/Saint_s_Earring.png,False
+sakabato_blade,Sakabato Blade,orange,100,50,10,10,"In Hitman Challenge: DMG +3%, 1st round DMG +2%",Intercept [[Hitmen,/kb/gear/icons/Sakabato_Blade.png,False
+slippers,Slippers,orange,50,5,5,25,"If you spot a weakness, Snail RUSH +30",Divine Neutral (1.6%),/kb/gear/icons/Slippers.png,False
+spring_longsword,Spring Longsword,orange,200,10,20,20,Crit Rate +4%<br>Crit DMG +4%,Lottery (0.52%),/kb/gear/icons/Spring_Longsword.png,False
+stage_hat,Stage Hat,orange,100,10,10,10,"FTH +5, ART +5, CIV +5, TECH +5, FAME +5",Divine Order chest 1.6%,/kb/gear/icons/Stage_Hat.png,False
+stardust_arrow,Stardust Arrow,orange,400,120,40,120,"In [[Hellas]], INTEL gained +8%<br>In [[Hellas]], DMG +8%<br>Every Costume Stat +8%",{{retext|Hector's Spear|purple,/kb/gear/icons/Stardust_Arrow.png,False
+static_belt,Static Belt,orange,50,5,5,25,Wind RES +30,Divine Neutral 1.6%,/kb/gear/icons/Static_Belt.png,False
+strength_sword,Strength Sword,orange,50,25,5,5,"In any Realm, DMG +1.5%<br>In any Realm, DMG +1% in Round 1",Intercept [[Hitmen,/kb/gear/icons/Strength_Sword.png,False
+strong_round_shield,Strong Round Shield,orange,100,10,50,10,DMG REDUC +1.6%,Divine Neutral 0.8%,/kb/gear/icons/Strong_Round_Shield.png,False
+teslla,Teslla,orange,600,20,20,60,"In any Realm, 2x Time Chest Drops +4%",{{retext|Lottery Bead Purple|purple,/kb/gear/icons/Teslla.png,False
+the_buried,The Buried,orange,300,30,10,10,In Zombie: Ingore DEF +2%,Divine Chaos(0.8%),/kb/gear/icons/The_Buried.png,False
+thorn,Thorn,orange,1000,20,20,20,Fire RES +120,Divine Order Chest 0.4%,/kb/gear/icons/Thorn.png,False
+time_amulet,Time Amulet,orange,1200,40,120,40,HP Regen +640 each round,Defeat Eye of Akamoddo Civilization Mirage,/kb/gear/icons/Time_Amulet.png,False
+trident,Trident,orange,400,200,40,40,Crit DMG +8%<br>Lifesteal Effect +40%,{{retext|Dim Godsmiter|purple,/kb/gear/icons/Trident.png,False
+undead_staff,Undead Staff,orange,300,30,10,10,In Zombie Form: Zombie Cells +2%<br>Evolution Chests +2%,Tier 3 Zombie Research,/kb/gear/icons/Undead_Staff.png,False
+virgo_tech,Virgo Tech,orange,800,80,80,80,"In [[Koryeo]], Snail ATK +96<br>In [[Koryeo]], Snail RUSH +96",Reward for defeating [[Mailbox#Koryeon Commissioner,/kb/gear/icons/Virgo_Tech.png,False
+walnut_wand,Walnut Wand,orange,100,50,10,10,"Fire, Water, Earth, Wind DMG +30",Old Wizard victory reward,/kb/gear/icons/Walnut_Wand.png,False
+windsor_s_cape,Windsor's cape,orange,800,80,80,80,"In [[Britland]], Snail ATK +96<br>In [[Britland]], Snail RUSH +96",Exchange {{retext|Anchor|orange,/kb/gear/icons/Windsor_s_cape.png,False
+wisdom_cloak,Wisdom Cloak,orange,800,80,80,80,Snail CIV +160,Divine Neutral 0.2%,/kb/gear/icons/Wisdom_Cloak.png,False
+workout_top,Workout Top,orange,300,10,30,10,Dodge Rate +2%,Lottery 0.71%,/kb/gear/icons/Workout_Top.png,False
+agamemnon_outfit,Agamemnon Outfit,red,3000,100,300,100,ELMT DMG REDUC +7.2%,{{retext|Gold Outfit|orange,/kb/gear/icons/Agamemnon_Outfit.png,False
+amulet_of_will,Amulet of Will,red,1200,120,120,120,,{{retext|Crystal of Will|orange,/kb/gear/icons/Amulet_of_Will.png,False
+amulet_of_will_1,Amulet of Will +1,red,2000,200,200,200,,{{retext|Amulet of Will|red,/kb/gear/icons/Amulet_of_Will.png,False
+ancestral_legacy,Ancestral Legacy,red,600,60,300,60,"If you spot a weakness, Snail DEF +360",{{retext|Dwarf Mask|orange,/kb/gear/icons/Ancestral_Legacy.png,False
+antimatter_armor,Antimatter Armor,red,1200,120,120,120,Snail TECH +240,{{retext|Power Armor|orange,/kb/gear/icons/Antimatter_Armor.png,False
+antimatter_shield,Antimatter Shield,red,600,60,300,60,DEF +96 per round,{{retext|Alloy Shield|orange,/kb/gear/icons/Antimatter_Shield.png,False
+athena_s_spear,Athena's Spear,red,600,180,60,180,"In [[Hellas]], Snail ATK +120<br>In [[Hellas]], Snail DEF +120<br>In [[Hellas]], DMG +12%<br>In [[Hellas]], INTEL gained +12%<br>Every Costume Stat +12%",{{retext|Stardust Arrow|orange,/kb/gear/icons/Athena_s_Spear.png,False
+azazel_s_pact,Azazel's Pact,red,600,180,180,60,In Demon: Crit Rate +12%,{{retext|Azazel's Curse|orange,/kb/gear/icons/Azazel_s_Pact.png,False
+bedrock,Bedrock,red,600,60,300,60,Earth RES +360,{{retext|Rock|orange,/kb/gear/icons/Bedrock.png,False
+big_bounce,Big Bounce,red,600,300,60,60,Crit Rate +12%<br>Crit DMG +12%,{{retext|Spring Longsword|orange,/kb/gear/icons/Big_Bounce.png,False
+blair_s_curse,Blair's Curse,red,600,300,60,60,"In Snail Arena, DMG +18%<br>In Snail Arena, Round 1 DMG +12%",{{retext|Butcher's Hook|orange,/kb/gear/icons/Blair_s_Curse.png,False
+bullet_storm,Bullet Storm,red,600,180,60,180,"In [[Murika]], Snail ATK +120<br>In [[Murika]], Snail RUSH +120<br>In [[Murika]], DMG +12%<br>In [[Murika]], INTEL gained +12%",{{retext|Indv. Power Armor|orange,/kb/gear/icons/Bullet_Storm.png,False
+caesar_s_crown,Caesar's Crown,red,1200,120,120,120,Snail TECH +240,{{retext|Crown of Power|orange,/kb/gear/icons/Caesar_s_Crown.png,False
+caladbolg,Caladbolg,red,600,180,60,180,"In Dragon Form, Ignore Water RES +180<br>In Dragon Form, Ignore Wind RES +180",{{retext|Broken Caladbolg|orange,/kb/gear/icons/Caladbolg.png,False
+centaur_armor,Centaur Armor,red,600,180,60,180,"In Mutant Form, Crit DMG +24%",{{retext|Leather Chest Armor|orange,/kb/gear/icons/Centaur_Armor.png,False
+claw_of_destruction,Claw of Destruction,red,600,180,60,180,In Dragon: Fire DMG +720,{{retext|Crimson Dragon Claw|orange,/kb/gear/icons/Claw_of_Destruction.png,False
+cretaceous_weapon,Cretaceous Weapon,red,600,300,60,60,Earth DMG +360<br>Ignore Earth RES +180,{{retext|Fossil|orange,/kb/gear/icons/Cretaceous_Weapon.png,False
+crown_of_eternal_daylight,Crown of Eternal Daylight,red,600,180,60,180,"In [[Britland]], Snail ATK +150<br>In [[Britland]], Snail RUSH +150<br>In [[Britland]], DMG +12%<br>In [[Britland]], INTEL gained +12%<br>In [[Britland]], fleet cannon DMG +12%",{{retext|Lion's Crown|orange,/kb/gear/icons/Crown_of_Eternal_Daylight.png,False
+dark_strength,Dark Strength,red,600,300,60,60,"In Domain Duels (1v1), DMG +18%<br>In Domain Duels (1v1), DMG +12% for Round 1",{{retext|Anti-Strength Saber|orange,/kb/gear/icons/Dark_Strength.png,False
+deepsea_helmet,Deepsea Helmet,red,1800,60,60,180,"In any Realm, 2x Demon God Cell Drops +12%",{{retext|Diver|orange,/kb/gear/icons/Deepsea_Helmet.png,False
+demon_god_amulet,Demon God Amulet,red,1200,120,120,120,,{{retext|Demon God Crystal|orange,/kb/gear/icons/Demon_God_Amulet.png,False
+district_9,District 9,red,600,300,60,60,Fire DMG +360<br>Ignore Fire RES +180,{{retext|Pulse Rifle|orange,/kb/gear/icons/District_9.png,False
+dracula_cape,Dracula Cape,red,3000,60,60,60,Lifesteal Rate +12%<br>Lifesteal Effect +60%,{{retext|Death Shroud|orange,/kb/gear/icons/Dracula_Cape.png,False
+dragon_horn,Dragon Horn,red,600,180,60,180,"In Dragon Form, Ignore Fire RES +180<br>In Dragon Form, Ignore Earth RES +180",{{retext|Dragon Horn|orange,/kb/gear/icons/Dragon_Horn.png,False
+empress_gloves,Empress Gloves,red,600,300,60,60,"If you spot a weakness, Snail ATK +360",{{retext|Elegant Gloves|orange,/kb/gear/icons/Empress_Gloves.png,False
+empress_slippers,Empress' Slippers,red,600,60,60,300,"If you spot a weakness, Snail RUSH +360",{{retext|Slippers|orange,/kb/gear/icons/Empress__Slippers.png,False
+excaladbolg,Excaladbolg,red,1000,300,100,300,"In Dragon Form, Ignore DEF +12%<br>In Dragon Form, Ignore Fire RES +180<br>In Dragon Form, Ignore Water RES +180<br>In Dragon Form, Ignore Earth RES +180<br>In Dragon Form, Ignore Wind RES +180",{{retext|Exploding Rage|red,/kb/gear/icons/Excaladbolg.png,False
+excalibur_ex,Excalibur EX,red,600,300,60,60,ATK +240,{{retext|Excalibur EX|orange,/kb/gear/icons/Excalibur_EX.png,False
+exploding_rage,Exploding Rage,red,600,180,60,180,"In Dragon form, Ignore DEF +12%",{{retext|Fire of Rage|orange,/kb/gear/icons/Exploding_Rage.png,False
+eye_of_akamoddo_amulet,Eye of Akamoddo Amulet,red,1800,60,180,60,Restore 960 HP each round,{{retext|Time Amulet|orange,/kb/gear/icons/Eye_of_Akamoddo_Amulet.png,False
+fang_of_tiamat,Fang of Tiamat,red,600,180,60,180,In Dragon Form: Gain +12% Cells<br>Gain 12% Dragon Chests in explorations,{{retext|Dragon Fang Dagger|orange,/kb/gear/icons/Fang_of_Tiamat.png,False
+fortress,Fortress,red,600,60,300,60,DMG Reduction +9.6%,{{retext|Strong Round Shield|orange,/kb/gear/icons/Fortress.png,False
+gauss_m72,Gauss M72,red,600,60,180,180,In Mecha Form: Mecha Cells +12%<br>Tool Chests +12% in explorations,{{retext|Gauss C14|orange,/kb/gear/icons/Gauss_M72.png,False
+gilded_belt,Gilded Belt,red,3000,60,60,60,"If you spot a weakness, Snail HP +3600",{{retext|Lizard Belt|orange,/kb/gear/icons/Gilded_Belt.png,False
+golden_drazgul_fang,Golden Drazgul Fang,red,600,300,60,300,Poison DMG +360<br>Crit Rate +12%,{{retext|Drazgul Fang|orange,/kb/gear/icons/Golden_Drazgul_Fang.png,False
+grandpire_s_robe,Grandpire's Robe,red,1200,120,120,120,"Per 10% HP lost, Snail ATK +360<br>Per 10% HP lost, Snail DEF +360",{{retext|Sailor Suit|orange,/kb/gear/icons/Grandpire_s_Robe.png,False
+heart_of_nature,Heart of Nature,red,3000,60,60,60,Fire RES +360,{{retext|Thorn|orange,/kb/gear/icons/Heart_of_Nature.png,False
+hydra_s_gloves,Hydra's Gloves,red,600,300,60,60,Water DMG +360<br>Ignore Water RES +180,{{retext|Leviathan Gloves|orange,/kb/gear/icons/Hydra_s_Gloves.png,False
+incredible_key,Incredible Key,red,600,300,300,60,All Element DMG +72<br>All RES +36,{{retext|Maze Key|orange,/kb/gear/icons/Incredible_Key.png,False
+know_it_all_device,Know-It-All Device,red,1200,120,120,120,Extra RUSH DMG +720,{{retext|Battle Detector|orange,/kb/gear/icons/Know-It-All_Device.png,False
+lion_king_s_sword,Lion King's Sword,red,600,180,60,180,"In [[Kemet]], Snail ATK +150<br>In [[Kemet]], Snail RUSH +150<br>In [[Kemet]], Snail DMG +12%<br>In [[Kemet]], INTEL gained +12%",{{retext|Damascus Knife|orange,/kb/gear/icons/Lion_King_s_Sword.png,False
+lotus_platform_xii,Lotus Platform XII,red,1800,60,60,180,"In Angel Form, Regen 1,920 HP each round",{{retext|Lotus Platform IX|orange,/kb/gear/icons/Lotus_Platform_XII.png,False
+mark_iv,Mark IV,red,600,60,180,180,In Mecha: DMG Reduction +12%,{{retext|Mark II|orange,/kb/gear/icons/Mark_IV.png,False
+michael_s_earrings,Michael's Earrings,red,1200,120,120,120,Snail FTH +240,{{retext|Saint's Earring|orange,/kb/gear/icons/Michael_s_Earrings.png,False
+million_volts,Million Volts,red,600,60,60,300,Wind DMG +360<br>Ignore Enemy Wind RES +180,{{retext|Electric Hammer|orange,/kb/gear/icons/Million_Volts.png,False
+mithraic_bow_and_spear,Mithraic Bow & Spear,red,600,180,60,180,"In [[Parsia]], ATK +150<br>In [[Parsia]], RUSH +150<br>In [[Parsia]], DMG +12%<br>in [[Parsia]], INTEL +12%",{{retext|Jade Spear|orange,/kb/gear/icons/__missing_gear_icon.svg,True
+norris_chuck,Norris-chuck,red,600,300,60,60,Ignore enemy DEF +12%,{{retext|Nun-chuck|orange,/kb/gear/icons/Norris-chuck.png,False
+ogma_s_cloak,Ogma's Cloak,red,1200,120,120,120,Snail CIV +240,{{retext|Wisdom Cloak|orange,/kb/gear/icons/Ogma_s_Cloak.png,False
+oldman_wand,Oldman Wand,red,600,300,60,60,"Fire, Water, Earth, Wind DMG +240",{{retext|Walnut Wand|orange,/kb/gear/icons/Oldman_Wand.png,False
+overlord_s_hook,Overlord's Hook,red,1800,60,180,60,"Enemies in exploration drop +120 B-tads<br>Tadpoles Gained: 3,200,000",{{retext|Pirate|orange,/kb/gear/icons/Overlord_s_Hook.png,False
+poseidon_s_blessing,Poseidon's Blessing,red,1800,60,180,60,Water RES +360,{{retext|Lifebuoy|orange,/kb/gear/icons/Poseidon_s_Blessing.png,False
+poseidon_s_trident,Poseidon's Trident,red,600,300,60,60,Crit DMG +12%<br>Lifesteal Effect +60%,{{retext|Trident|orange,/kb/gear/icons/Poseidon_s_Trident.png,False
+power_spinach,Power Spinach,red,600,60,60,300,"Each round, Snail RUSH +48<br>Snail ATK +48",{{retext|Hammer of Frenzy|orange,/kb/gear/icons/Power_Spinach.png,False
+rama_greataxe,Rama Greataxe,red,600,180,60,180,"In [[Bharata]], Snail ATK +150<br>In [[Bharata]], Snail RUSH +150<br>In [[Bharata]], Snail DMG +12%<br>In [[Bharata]], INTEL gained +12%",{{retext|Ashoka's Sword|orange,/kb/gear/icons/Rama_Greataxe.png,False
+ring_of_paralysis,Ring of Paralysis,red,600,60,60,300,Chance to Paralysis enemy +7.2%,{{retext|Ring of Stupor|orange,/kb/gear/icons/Ring_of_Paralysis.png,False
+selene_amulet,Selene Amulet,red,1200,120,120,120,Snail ART +240,{{retext|Elven Cape|orange,/kb/gear/icons/Selene_Amulet.png,False
+septreasure_peacock_quill,Septreasure Peacock Quill,red,600,300,60,300,"For Round 1, CRIT DMG +12%<br>When exploring, DMG +18% in Round 1",{{retext|Peacock Quill|orange,/kb/gear/icons/Septreasure_Peacock_Quill.png,False
+seraph_s_light,Seraph's Light,red,1800,60,60,180,In Angel Form: Angel Cells +12%<br>Fungus Chests +12% in exploration,{{retext|Prayer Staff|orange,/kb/gear/icons/Seraph_s_Light.png,False
+serket_staff,Serket Staff,red,1800,180,60,60,In Zombie Form: Zombie Cells +12%<br>Evolution Chests +12% in exploration,{{retext|Undead Staff|orange,/kb/gear/icons/Serket_Staff.png,False
+sky_piercer,Sky Piercer,red,600,180,60,180,"In [[Cathay]], Snail ATK +120<br>In [[Cathay]], Snail RUSH +120<br>In [[Cathay]], DMG +12%<br>In [[Cathay]], INTEL gained +12%",{{retext|Conqueror Spear|orange,/kb/gear/icons/Sky_Piercer.png,False
+soul_reaper,Soul Reaper,red,600,180,180,60,In Demon: Demon Cells +12%<br>Soul Chests +12% in exploration,{{retext|Demon Scythe|orange,/kb/gear/icons/Soul_Reaper.png,False
+soul_walking,Soul Walking,red,1800,180,60,60,"In Zombie Form, Ignore DEF +12%",{{retext|The Buried|orange,/kb/gear/icons/Soul_Walking.png,False
+spacetime_exile,Spacetime Exile,red,600,180,60,180,In the [[Time Rift,"Rift]], Snail ATK +150<br>In the [[Time Rift",/kb/gear/icons/Spacetime_Exile.png,False
+strength_master_s_sword,Strength Master's Sword,red,600,300,60,60,"In any Realm, DMG +18%<br>In any Realm, DMG +12% in Round 1",{{retext|Strength Sword|orange,/kb/gear/icons/Strength_Master_s_Sword.png,False
+subspace_blade,Subspace Blade,red,600,180,60,180,In Mutant form: Mutant Cells +12%<br>Time Chests +12% in exploration,{{retext|Mind Control Dagger|orange,/kb/gear/icons/Subspace_Blade.png,False
+super_warrior,Super Warrior,red,600,60,300,60,CRIT DMG REDUC +12%,{{retext|Chief|orange,/kb/gear/icons/Super_Warrior.png,False
+sword_futsuno,Sword Futsuno,red,600,180,60,180,"In [[Yamato]], Snail ATK +120<br>In [[Yamato]], Snail RUSH +120<br>In [[Yamato]], DMG +12%<br>In [[Yamato]], INTEL gained +12%",{{retext|Blade Murasame|orange,/kb/gear/icons/Sword_Futsuno.png,False
+the_great_collector,The Great Collector,red,1800,60,180,60,"Enemies in exploration drop +24 W-tads<br>(Only when you are really lucky!)<br>Tadpoles Gained: 110,000",{{retext|Curator's Helm|orange,/kb/gear/icons/The_Great_Collector.png,False
+the_great_engineer,The Great Engineer,red,600,60,60,300,Upon traveling through an area: Gain 120 Intel,{{retext|Gear Ring|orange,/kb/gear/icons/The_Great_Engineer.png,False
+the_great_entertainer,The Great Entertainer,red,1200,120,120,120,FTH +60<br>ART +60<br>CIV +60<br>TECH +60<br>FAME +60,{{retext|Stage Hat|orange,/kb/gear/icons/The_Great_Entertainer.png,False
+the_great_magician,The Great Magician,red,1200,120,120,120,ALL RES +72,{{retext|Magician|orange,/kb/gear/icons/The_Great_Magician.png,False
+the_great_scientist,The Great Scientist,red,1800,60,60,180,"When exploring, 2x Time Chests Drops +12%",{{retext|Teslla|orange,/kb/gear/icons/The_Great_Scientist.png,False
+thunder_belt,Thunder Belt,red,600,60,60,300,Wind RES +360,{{retext|Static Belt|orange,/kb/gear/icons/Thunder_Belt.png,False
+time_wanderer,Time Wanderer,red,1000,200,200,200,"In explorations, Snail HP +2000<br>In explorations, Snail ATK +200<br>In explorations, Snail DEF +200<br>In explorations, Snail RUSH +200<br>In explorations, INTEL gained +20%<br>In explorations, DMG +20%",{{RewardIconWithText|Spacetime Exile|red,/kb/gear/icons/Time_Wanderer.png,False
+traveler_outfit,Traveler Outfit,red,1800,60,180,60,Dodge Rate +12%,{{retext|Workout Top|orange,/kb/gear/icons/Traveler_Outfit.png,False
+tremendous_support,Tremendous Support,red,600,60,60,300,Travel SPD +9.6%,{{retext|Iron Track|orange,/kb/gear/icons/Tremendous_Support.png,False
+true_sakabato,True Sakabato,red,600,300,60,60,"Againt Daily Hitmen,DMG +18%<br>1st round DMG +12%",{{retext|Sakabato Blade|orange,/kb/gear/icons/True_Sakabato.png,False
+virtual_vision,Virtual Vision,red,600,300,60,60,"In Gene Simulations, DMG +18%<br>In Gene Simulations, Round 1 DMG +12%",{{retext|Imitation Vision|orange,/kb/gear/icons/Virtual_Vision.png,False
+w_tadpole_sword,W-Tadpole Sword,red,600,300,60,60,HIT +12<br>Ignore All RES +36,{{retext|B-Tadpole Sword|orange,/kb/gear/icons/W-Tadpole_Sword.png,False
+warmonger_s_gun,Warmonger's Gun,red,600,180,60,180,"In [[Koryeo]], Snail ATK +120<br>In [[Koryeo]], Snail RUSH +120<br>In [[Koryeo]], Snail DMG +12%<br>In [[Koryeo]], INTEL gained +12%",{{retext|Virgo Tech|orange,/kb/gear/icons/Warmonger_s_Gun.png,False

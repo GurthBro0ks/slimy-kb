@@ -1,0 +1,98 @@
+{
+  "sorts": [
+    {
+      "label": "Tier",
+      "value": "tier"
+    },
+    {
+      "label": "Name",
+      "value": "name"
+    },
+    {
+      "label": "HP",
+      "value": "hp"
+    },
+    {
+      "label": "ATK",
+      "value": "atk"
+    },
+    {
+      "label": "DEF",
+      "value": "def"
+    },
+    {
+      "label": "RUSH",
+      "value": "rush"
+    },
+    {
+      "label": "Total Stats",
+      "value": "totalStats"
+    }
+  ],
+  "stats": [
+    {
+      "label": "HP",
+      "value": "hp"
+    },
+    {
+      "label": "ATK",
+      "value": "atk"
+    },
+    {
+      "label": "DEF",
+      "value": "def"
+    },
+    {
+      "label": "RUSH",
+      "value": "rush"
+    },
+    {
+      "label": "Total Stats",
+      "value": "totalStats"
+    }
+  ],
+  "tiers": [
+    {
+      "className": "tier-gray",
+      "count": 25,
+      "label": "Gray",
+      "rank": 0,
+      "value": "gray"
+    },
+    {
+      "className": "tier-green",
+      "count": 36,
+      "label": "Green",
+      "rank": 2,
+      "value": "green"
+    },
+    {
+      "className": "tier-blue",
+      "count": 33,
+      "label": "Blue",
+      "rank": 3,
+      "value": "blue"
+    },
+    {
+      "className": "tier-purple",
+      "count": 48,
+      "label": "Purple",
+      "rank": 4,
+      "value": "purple"
+    },
+    {
+      "className": "tier-orange",
+      "count": 91,
+      "label": "Orange",
+      "rank": 5,
+      "value": "orange"
+    },
+    {
+      "className": "tier-red",
+      "count": 80,
+      "label": "Red",
+      "rank": 6,
+      "value": "red"
+    }
+  ]
+}

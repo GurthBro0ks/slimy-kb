@@ -1,0 +1,6103 @@
+{
+  "generatedAt": "2026-05-06T17:58:45.299933+00:00",
+  "recordCount": 313,
+  "records": [
+    {
+      "id": "beast_fang",
+      "keywords": [
+        "[[fissure",
+        "beast",
+        "fang",
+        "gray",
+        "•"
+      ],
+      "name": "Beast Fang",
+      "searchText": "beast fang gray  • [[fissure",
+      "tierColor": "gray"
+    },
+    {
+      "id": "broken_hour_hand",
+      "keywords": [
+        "broken",
+        "card",
+        "exchange",
+        "frag",
+        "gray",
+        "hand",
+        "hour",
+        "{{rewardiconwithtext|time"
+      ],
+      "name": "Broken Hour Hand",
+      "searchText": "broken hour hand gray  exchange {{rewardiconwithtext|time frag card gray",
+      "tierColor": "gray"
+    },
+    {
+      "id": "broken_minute_hand",
+      "keywords": [
+        "broken",
+        "card",
+        "exchange",
+        "frag",
+        "gray",
+        "hand",
+        "minute",
+        "{{rewardiconwithtext|time"
+      ],
+      "name": "Broken Minute Hand",
+      "searchText": "broken minute hand gray  exchange {{rewardiconwithtext|time frag card gray",
+      "tierColor": "gray"
+    },
+    {
+      "id": "broken_second_hand",
+      "keywords": [
+        "broken",
+        "card",
+        "exchange",
+        "frag",
+        "gray",
+        "hand",
+        "second",
+        "{{rewardiconwithtext|time"
+      ],
+      "name": "Broken Second Hand",
+      "searchText": "broken second hand gray  exchange {{rewardiconwithtext|time frag card gray",
+      "tierColor": "gray"
+    },
+    {
+      "id": "bronze_helmet",
+      "keywords": [
+        "+1%",
+        "[[hellas]]",
+        "[[hellas]],",
+        "bronze",
+        "exchange",
+        "feather",
+        "gained",
+        "gray",
+        "helmet",
+        "in",
+        "intel",
+        "x6"
+      ],
+      "name": "Bronze Helmet",
+      "searchText": "bronze helmet gray in [[hellas]], intel gained +1% exchange feather x6 in [[hellas]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "crowbar",
+      "keywords": [
+        "[[koryeo]]",
+        "crowbar",
+        "exchange",
+        "gray",
+        "in",
+        "jar",
+        "kimchi",
+        "x6"
+      ],
+      "name": "Crowbar",
+      "searchText": "crowbar gray  exchange kimchi jar x6 in [[koryeo]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "flower_crown",
+      "keywords": [
+        "[[fissure",
+        "crown",
+        "flower",
+        "gray",
+        "•"
+      ],
+      "name": "Flower Crown",
+      "searchText": "flower crown gray  • [[fissure",
+      "tierColor": "gray"
+    },
+    {
+      "id": "gentleman_s_staff",
+      "keywords": [
+        "+1%",
+        "[[britland]]",
+        "[[britland]],",
+        "anchor",
+        "exchange",
+        "gained",
+        "gentleman's",
+        "gray",
+        "in",
+        "intel",
+        "staff",
+        "x6"
+      ],
+      "name": "Gentleman's Staff",
+      "searchText": "gentleman's staff gray in [[britland]], intel gained +1% exchange anchor x6 in [[britland]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "ice_skates",
+      "keywords": [
+        "+1%",
+        "[[koryeo]]",
+        "[[koryeo]],",
+        "exchange",
+        "gained",
+        "gray",
+        "ice",
+        "in",
+        "intel",
+        "jar",
+        "kimchi",
+        "skates",
+        "x5"
+      ],
+      "name": "Ice Skates",
+      "searchText": "ice skates gray in [[koryeo]], intel gained +1% exchange kimchi jar x5 in [[koryeo]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "iron_helmet",
+      "keywords": [
+        "+1%",
+        "[[cathay]]",
+        "[[cathay]],",
+        "exchange",
+        "gained",
+        "gray",
+        "helmet",
+        "in",
+        "intel",
+        "iron",
+        "mahjong",
+        "x6"
+      ],
+      "name": "Iron Helmet",
+      "searchText": "iron helmet gray in [[cathay]], intel gained +1% exchange mahjong x6 in [[cathay]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "iron_ring",
+      "keywords": [
+        "[[fissure",
+        "gray",
+        "iron",
+        "ring",
+        "•"
+      ],
+      "name": "Iron Ring",
+      "searchText": "iron ring gray  • [[fissure",
+      "tierColor": "gray"
+    },
+    {
+      "id": "javelin",
+      "keywords": [
+        "[[hellas]]",
+        "exchange",
+        "feather",
+        "gray",
+        "in",
+        "javelin",
+        "x5"
+      ],
+      "name": "Javelin",
+      "searchText": "javelin gray  exchange feather x5 in [[hellas]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "khopesh",
+      "keywords": [
+        "[[kemet]]",
+        "ankh",
+        "exchange",
+        "gray",
+        "in",
+        "khopesh",
+        "x5"
+      ],
+      "name": "Khopesh",
+      "searchText": "khopesh gray  exchange ankh x5 in [[kemet]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "light_yamato_armor",
+      "keywords": [
+        "[[yamato]]",
+        "armor",
+        "exchange",
+        "gray",
+        "in",
+        "koban",
+        "light",
+        "x5",
+        "yamato"
+      ],
+      "name": "Light Yamato Armor",
+      "searchText": "light yamato armor gray  exchange koban x5 in [[yamato]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "linen_robe",
+      "keywords": [
+        "+1%",
+        "[[kemet]]",
+        "[[kemet]],",
+        "ankh",
+        "exchange",
+        "gained",
+        "gray",
+        "in",
+        "intel",
+        "linen",
+        "robe",
+        "x6"
+      ],
+      "name": "Linen Robe",
+      "searchText": "linen robe gray in [[kemet]], intel gained +1% exchange ankh x6 in [[kemet]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "parsian_kite_shield",
+      "keywords": [
+        "+1%",
+        "[[parsia]]",
+        "exchange",
+        "exploration,",
+        "gray",
+        "in",
+        "intel",
+        "kite",
+        "parsian",
+        "shield",
+        "x6"
+      ],
+      "name": "Parsian Kite Shield",
+      "searchText": "parsian kite shield gray parsian exploration, intel +1% exchange x6 in [[parsia]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "parsian_pike",
+      "keywords": [
+        "[[parsia]]",
+        "exchange",
+        "gray",
+        "in",
+        "parsian",
+        "pike",
+        "x5"
+      ],
+      "name": "Parsian Pike",
+      "searchText": "parsian pike gray  exchange x5 in [[parsia]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "podao",
+      "keywords": [
+        "[[cathay]]",
+        "exchange",
+        "gray",
+        "in",
+        "mahjong",
+        "podao",
+        "x5"
+      ],
+      "name": "Podao",
+      "searchText": "podao gray  exchange mahjong x5 in [[cathay]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "royal_underwear",
+      "keywords": [
+        "+1%",
+        "[[yamato]]",
+        "[[yamato]],",
+        "exchange",
+        "gained",
+        "gray",
+        "in",
+        "intel",
+        "koban",
+        "royal",
+        "underwear",
+        "x6"
+      ],
+      "name": "Royal Underwear",
+      "searchText": "royal underwear gray in [[yamato]], intel gained +1% exchange koban x6 in [[yamato]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "sikh_turban",
+      "keywords": [
+        "+1%",
+        "[[bharata]]",
+        "[[bharata]],",
+        "exchange",
+        "gained",
+        "gray",
+        "in",
+        "intel",
+        "rosary",
+        "sikh",
+        "turban",
+        "x6"
+      ],
+      "name": "Sikh Turban",
+      "searchText": "sikh turban gray in [[bharata]], intel gained +1% exchange rosary x6 in [[bharata]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "smoothbore",
+      "keywords": [
+        "[[murika]]",
+        "bullet",
+        "exchange",
+        "gray",
+        "in",
+        "smoothbore",
+        "x5"
+      ],
+      "name": "Smoothbore",
+      "searchText": "smoothbore gray  exchange bullet x5 in [[murika]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "tactical_boots",
+      "keywords": [
+        "+1%",
+        "[[murika]]",
+        "[[murika]],",
+        "boots",
+        "bullet",
+        "exchange",
+        "gained",
+        "gray",
+        "in",
+        "intel",
+        "tactical",
+        "x6"
+      ],
+      "name": "Tactical Boots",
+      "searchText": "tactical boots gray in [[murika]], intel gained +1% exchange bullet x6 in [[murika]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "top_hat",
+      "keywords": [
+        "[[britland]]",
+        "anchor",
+        "exchange",
+        "gray",
+        "hat",
+        "in",
+        "top",
+        "x5"
+      ],
+      "name": "Top Hat",
+      "searchText": "top hat gray  exchange anchor x5 in [[britland]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "twin_tip_dagger",
+      "keywords": [
+        "[[hellas]]",
+        "dagger",
+        "exchange",
+        "feather",
+        "gray",
+        "in",
+        "tip",
+        "twin",
+        "x5"
+      ],
+      "name": "Twin Tip Dagger",
+      "searchText": "twin tip dagger gray  exchange feather x5 in [[hellas]]",
+      "tierColor": "gray"
+    },
+    {
+      "id": "wooden_ring",
+      "keywords": [
+        "[[fissure",
+        "gray",
+        "ring",
+        "wooden",
+        "•"
+      ],
+      "name": "Wooden Ring",
+      "searchText": "wooden ring gray  • [[fissure",
+      "tierColor": "gray"
+    },
+    {
+      "id": "bichaq",
+      "keywords": [
+        "+2%",
+        "[[parsia]],",
+        "bichaq",
+        "carpet|green",
+        "dmg",
+        "exchange",
+        "green",
+        "in",
+        "{{retext|parsian"
+      ],
+      "name": "Bichaq",
+      "searchText": "bichaq green in [[parsia]], dmg +2% exchange {{retext|parsian carpet|green",
+      "tierColor": "green"
+    },
+    {
+      "id": "black_pearl",
+      "keywords": [
+        "[[fissure",
+        "black",
+        "green",
+        "pearl",
+        "•"
+      ],
+      "name": "Black Pearl",
+      "searchText": "black pearl green  • [[fissure",
+      "tierColor": "green"
+    },
+    {
+      "id": "broken_sageender",
+      "keywords": [
+        "+2%",
+        "[[mailbox#ratman",
+        "broken",
+        "crit",
+        "defeat",
+        "dmg",
+        "fully",
+        "green",
+        "sageender"
+      ],
+      "name": "Broken Sageender",
+      "searchText": "broken sageender green crit dmg +2% fully defeat [[mailbox#ratman",
+      "tierColor": "green"
+    },
+    {
+      "id": "broken_sagemurderer",
+      "keywords": [
+        "+2%",
+        "[[mailbox#ratman",
+        "broken",
+        "crit",
+        "defeat",
+        "dmg",
+        "fully",
+        "green",
+        "sagemurderer"
+      ],
+      "name": "Broken Sagemurderer",
+      "searchText": "broken sagemurderer green crit dmg +2% fully defeat [[mailbox#ratman",
+      "tierColor": "green"
+    },
+    {
+      "id": "broken_sagesinker",
+      "keywords": [
+        "+2%",
+        "[[mailbox#ratman",
+        "broken",
+        "crit",
+        "defeat",
+        "dmg",
+        "fully",
+        "green",
+        "sagesinker"
+      ],
+      "name": "Broken Sagesinker",
+      "searchText": "broken sagesinker green crit dmg +2% fully defeat [[mailbox#ratman",
+      "tierColor": "green"
+    },
+    {
+      "id": "colt_revolver",
+      "keywords": [
+        "+",
+        "+2%",
+        "[[murika]],",
+        "boots",
+        "colt",
+        "gained",
+        "green",
+        "in",
+        "intel",
+        "revolver",
+        "smoothbore",
+        "tactical"
+      ],
+      "name": "Colt Revolver",
+      "searchText": "colt revolver green in [[murika]], intel gained +2% tactical boots + smoothbore",
+      "tierColor": "green"
+    },
+    {
+      "id": "crystal_lens",
+      "keywords": [
+        "+60",
+        "[[vending",
+        "crystal",
+        "dmg",
+        "green",
+        "lens",
+        "machine]]",
+        "purchase",
+        "rush"
+      ],
+      "name": "Crystal Lens",
+      "searchText": "crystal lens green rush dmg +60 [[vending machine]] purchase",
+      "tierColor": "green"
+    },
+    {
+      "id": "fresnal_lens",
+      "keywords": [
+        "+60",
+        "[[vending",
+        "dmg",
+        "fresnal",
+        "green",
+        "lens",
+        "machine]]",
+        "purchase",
+        "rush"
+      ],
+      "name": "Fresnal Lens",
+      "searchText": "fresnal lens green rush dmg +60 [[vending machine]] purchase",
+      "tierColor": "green"
+    },
+    {
+      "id": "golden_yamato_armor",
+      "keywords": [
+        "+",
+        "+2%",
+        "[[yamato]],",
+        "armo",
+        "armor",
+        "gained",
+        "golden",
+        "green",
+        "in",
+        "intel",
+        "light",
+        "royal",
+        "underwear",
+        "yamato"
+      ],
+      "name": "Golden Yamato Armor",
+      "searchText": "golden yamato armor green in [[yamato]], intel gained +2% light yamato armo + royal underwear",
+      "tierColor": "green"
+    },
+    {
+      "id": "hannibel_s_scalpel",
+      "keywords": [
+        "+1%",
+        "+1.5%,",
+        "1st",
+        "dmg",
+        "dragon",
+        "fight:",
+        "green",
+        "hannibel's",
+        "in",
+        "reward<br>[[altar#discount_dragon",
+        "round",
+        "scalpel",
+        "snail",
+        "wish"
+      ],
+      "name": "Hannibel's Scalpel",
+      "searchText": "hannibel's scalpel green in snail fight: dmg +1.5%, 1st round dmg +1% dragon wish reward<br>[[altar#discount_dragon",
+      "tierColor": "green"
+    },
+    {
+      "id": "heart_protection_mirror",
+      "keywords": [
+        "+2%",
+        "[[cathay]],",
+        "dmg",
+        "exchange",
+        "green",
+        "heart-protection",
+        "in",
+        "mirror",
+        "{{retext|mahjong|green"
+      ],
+      "name": "Heart-Protection Mirror",
+      "searchText": "heart-protection mirror green in [[cathay]], dmg +2% exchange {{retext|mahjong|green",
+      "tierColor": "green"
+    },
+    {
+      "id": "heavy_infantry_helmet",
+      "keywords": [
+        "+1%",
+        "+2%<br>every",
+        "[[hellas]],",
+        "costume",
+        "exchange",
+        "gained",
+        "green",
+        "heavy",
+        "helmet",
+        "in",
+        "infantry",
+        "intel",
+        "stat",
+        "{{retext|feather|green"
+      ],
+      "name": "Heavy Infantry Helmet",
+      "searchText": "heavy infantry helmet green in [[hellas]], intel gained +2%<br>every costume stat +1% exchange {{retext|feather|green",
+      "tierColor": "green"
+    },
+    {
+      "id": "jack_s_gloves",
+      "keywords": [
+        "+1%",
+        "+1.5%,",
+        "1st",
+        "dmg",
+        "dragon",
+        "fight:",
+        "gloves",
+        "green",
+        "in",
+        "jack's",
+        "reward<br>[[altar#discount_dragon",
+        "round",
+        "snail",
+        "wish"
+      ],
+      "name": "Jack's Gloves",
+      "searchText": "jack's gloves green in snail fight: dmg +1.5%, 1st round dmg +1% dragon wish reward<br>[[altar#discount_dragon",
+      "tierColor": "green"
+    },
+    {
+      "id": "leather_shield",
+      "keywords": [
+        "+2%",
+        "[[kemet]],",
+        "dmg",
+        "exchange",
+        "green",
+        "in",
+        "leather",
+        "shield",
+        "{{retext|ankh|green"
+      ],
+      "name": "Leather Shield",
+      "searchText": "leather shield green in [[kemet]], dmg +2% exchange {{retext|ankh|green",
+      "tierColor": "green"
+    },
+    {
+      "id": "lee_enfield_rifle",
+      "keywords": [
+        "+",
+        "+2%",
+        "[[britland]],",
+        "enfield",
+        "gained",
+        "gentleman's",
+        "green",
+        "hat",
+        "in",
+        "intel",
+        "lee",
+        "rifle",
+        "staff",
+        "top"
+      ],
+      "name": "Lee Enfield Rifle",
+      "searchText": "lee enfield rifle green in [[britland]], intel gained +2% gentleman's staff + top hat",
+      "tierColor": "green"
+    },
+    {
+      "id": "legion_javelins",
+      "keywords": [
+        "+",
+        "+1%",
+        "+2%<br>every",
+        "[[hellas]],",
+        "bronze",
+        "costume",
+        "gained",
+        "green",
+        "helmet",
+        "in",
+        "intel",
+        "javelin",
+        "javelins",
+        "legion",
+        "stat"
+      ],
+      "name": "Legion Javelins",
+      "searchText": "legion javelins green in [[hellas]], intel gained +2%<br>every costume stat +1% javelin + bronze helmet",
+      "tierColor": "green"
+    },
+    {
+      "id": "lotus_platform",
+      "keywords": [
+        "160",
+        "[[mailbox#ratman",
+        "angel",
+        "defeat",
+        "each",
+        "form,",
+        "green",
+        "hp",
+        "in",
+        "lotus",
+        "platform",
+        "regen",
+        "round"
+      ],
+      "name": "Lotus Platform",
+      "searchText": "lotus platform green in angel form, regen 160 hp each round defeat [[mailbox#ratman",
+      "tierColor": "green"
+    },
+    {
+      "id": "motorbike_helmet",
+      "keywords": [
+        "+2%",
+        "[[koryeo]],",
+        "dmg",
+        "exchange",
+        "green",
+        "helmet",
+        "in",
+        "jar|green",
+        "motorbike",
+        "{{retext|kimchi"
+      ],
+      "name": "Motorbike Helmet",
+      "searchText": "motorbike helmet green in [[koryeo]], dmg +2% exchange {{retext|kimchi jar|green",
+      "tierColor": "green"
+    },
+    {
+      "id": "mughal_soldier_helmet",
+      "keywords": [
+        "+2%",
+        "[[bharata]],",
+        "dmg",
+        "exchange",
+        "green",
+        "helmet",
+        "in",
+        "mughal",
+        "soldier",
+        "{{retext|rosary|green"
+      ],
+      "name": "Mughal Soldier Helmet",
+      "searchText": "mughal soldier helmet green in [[bharata]], dmg +2% exchange {{retext|rosary|green",
+      "tierColor": "green"
+    },
+    {
+      "id": "ninjutsu_armband",
+      "keywords": [
+        "+2%",
+        "[[yamato]],",
+        "armband",
+        "dmg",
+        "exchange",
+        "green",
+        "in",
+        "ninjutsu",
+        "{{retext|koban|green"
+      ],
+      "name": "Ninjutsu Armband",
+      "searchText": "ninjutsu armband green in [[yamato]], dmg +2% exchange {{retext|koban|green",
+      "tierColor": "green"
+    },
+    {
+      "id": "pata",
+      "keywords": [
+        "+",
+        "+2%",
+        "[[bharata]],",
+        "dagger",
+        "gained",
+        "green",
+        "in",
+        "intel",
+        "pata",
+        "sikh",
+        "tip",
+        "turban",
+        "twin"
+      ],
+      "name": "Pata",
+      "searchText": "pata green in [[bharata]], intel gained +2% twin tip dagger + sikh turban",
+      "tierColor": "green"
+    },
+    {
+      "id": "pesh_kabz",
+      "keywords": [
+        "+2%",
+        "[[parsia]],",
+        "green",
+        "in",
+        "intel",
+        "kite",
+        "pesh-kabz",
+        "shield",
+        "{{rewardiconwithtext|parsian"
+      ],
+      "name": "Pesh-Kabz",
+      "searchText": "pesh-kabz green in [[parsia]], intel +2% {{rewardiconwithtext|parsian kite shield",
+      "tierColor": "green"
+    },
+    {
+      "id": "poisoned_dagger",
+      "keywords": [
+        "+",
+        "+2%",
+        "[[kemet]],",
+        "dagger",
+        "gained",
+        "green",
+        "in",
+        "intel",
+        "khopesh",
+        "linen",
+        "poisoned",
+        "robe"
+      ],
+      "name": "Poisoned Dagger",
+      "searchText": "poisoned dagger green in [[kemet]], intel gained +2% khopesh + linen robe",
+      "tierColor": "green"
+    },
+    {
+      "id": "royal_guard_bearskin_hat",
+      "keywords": [
+        "+2%",
+        "[[britland]],",
+        "bearskin",
+        "dmg",
+        "exchange",
+        "green",
+        "guard",
+        "hat",
+        "in",
+        "royal",
+        "{{retext|anchor|green"
+      ],
+      "name": "Royal Guard Bearskin Hat",
+      "searchText": "royal guard bearskin hat green in [[britland]], dmg +2% exchange {{retext|anchor|green",
+      "tierColor": "green"
+    },
+    {
+      "id": "shattered_fire_spear",
+      "keywords": [
+        "+10%",
+        "[[mailbox#ratman",
+        "defeat",
+        "effect",
+        "fire",
+        "fully",
+        "green",
+        "lifesteal",
+        "shattered",
+        "spear"
+      ],
+      "name": "Shattered Fire Spear",
+      "searchText": "shattered fire spear green lifesteal effect +10% fully defeat [[mailbox#ratman",
+      "tierColor": "green"
+    },
+    {
+      "id": "shattered_palm_leaf_fan",
+      "keywords": [
+        "+10%",
+        "[[mailbox#ratman",
+        "defeat",
+        "effect",
+        "fan",
+        "fully",
+        "green",
+        "lifesteal",
+        "palm-leaf",
+        "shattered"
+      ],
+      "name": "Shattered Palm-Leaf Fan",
+      "searchText": "shattered palm-leaf fan green lifesteal effect +10% fully defeat [[mailbox#ratman",
+      "tierColor": "green"
+    },
+    {
+      "id": "shattered_sky_ribbon",
+      "keywords": [
+        "+10%",
+        "[[mailbox#ratman",
+        "defeat",
+        "effect",
+        "fully",
+        "green",
+        "lifesteal",
+        "ribbon",
+        "shattered",
+        "sky"
+      ],
+      "name": "Shattered Sky Ribbon",
+      "searchText": "shattered sky ribbon green lifesteal effect +10% fully defeat [[mailbox#ratman",
+      "tierColor": "green"
+    },
+    {
+      "id": "shattered_windfire_wheel",
+      "keywords": [
+        "+10%",
+        "[[mailbox#ratman",
+        "defeat",
+        "effect",
+        "fully",
+        "green",
+        "lifesteal",
+        "shattered",
+        "wheel",
+        "windfire"
+      ],
+      "name": "Shattered Windfire Wheel",
+      "searchText": "shattered windfire wheel green lifesteal effect +10% fully defeat [[mailbox#ratman",
+      "tierColor": "green"
+    },
+    {
+      "id": "sorcerer_ring",
+      "keywords": [
+        "(0.67%",
+        "(0.8%",
+        "+",
+        "chance)",
+        "chance)<br>•",
+        "chest",
+        "chests(0.9%",
+        "crown",
+        "divine",
+        "flower",
+        "gear",
+        "green",
+        "lottery",
+        "machine",
+        "ring",
+        "ring<br>•",
+        "sorcerer",
+        "wooden",
+        "•"
+      ],
+      "name": "Sorcerer Ring",
+      "searchText": "sorcerer ring green  • flower crown + wooden ring<br>• lottery machine (0.67% chance)<br>• gear chest (0.8% chance)<br>• divine chests(0.9% chance)",
+      "tierColor": "green"
+    },
+    {
+      "id": "switchblade",
+      "keywords": [
+        "+",
+        "+2%",
+        "[[koryeo]],",
+        "crowbar",
+        "gained",
+        "green",
+        "ice",
+        "in",
+        "intel",
+        "skates",
+        "switchblade"
+      ],
+      "name": "Switchblade",
+      "searchText": "switchblade green in [[koryeo]], intel gained +2% ice skates + crowbar",
+      "tierColor": "green"
+    },
+    {
+      "id": "tactical_vest",
+      "keywords": [
+        "+2%",
+        "[[murika]],",
+        "dmg",
+        "exchange",
+        "green",
+        "in",
+        "tactical",
+        "vest",
+        "{{retext|bullet|green"
+      ],
+      "name": "Tactical Vest",
+      "searchText": "tactical vest green in [[murika]], dmg +2% exchange {{retext|bullet|green",
+      "tierColor": "green"
+    },
+    {
+      "id": "time_cog",
+      "keywords": [
+        "+2%",
+        "[[time",
+        "cog",
+        "dmg",
+        "green",
+        "in",
+        "rift",
+        "rift]],",
+        "the",
+        "time"
+      ],
+      "name": "Time Cog",
+      "searchText": "time cog green in the [[time rift rift]], dmg +2%",
+      "tierColor": "green"
+    },
+    {
+      "id": "time_hand",
+      "keywords": [
+        "+2%",
+        "[[time",
+        "gained",
+        "green",
+        "hand",
+        "in",
+        "intel",
+        "rift",
+        "rift]],",
+        "the",
+        "time"
+      ],
+      "name": "Time Hand",
+      "searchText": "time hand green in the [[time rift rift]], intel gained +2%",
+      "tierColor": "green"
+    },
+    {
+      "id": "warrior_ring",
+      "keywords": [
+        "(0.67%",
+        "(0.8%",
+        "(0.9%",
+        "+",
+        "beast",
+        "chance)",
+        "chance)<br>•",
+        "chest",
+        "chests",
+        "divine",
+        "fang<br>•",
+        "gear",
+        "green",
+        "iron",
+        "lottery",
+        "machine",
+        "ring",
+        "warrior",
+        "•"
+      ],
+      "name": "Warrior Ring",
+      "searchText": "warrior ring green  • iron ring + beast fang<br>• lottery machine (0.67% chance)<br>• gear chest (0.8% chance)<br>• divine chests (0.9% chance)",
+      "tierColor": "green"
+    },
+    {
+      "id": "white_pearl",
+      "keywords": [
+        "[[fissure",
+        "green",
+        "pearl",
+        "white",
+        "•"
+      ],
+      "name": "White Pearl",
+      "searchText": "white pearl green  • [[fissure",
+      "tierColor": "green"
+    },
+    {
+      "id": "wu_scimitar",
+      "keywords": [
+        "+",
+        "+2%",
+        "[[cathay]],",
+        "gained",
+        "green",
+        "helmet",
+        "in",
+        "intel",
+        "iron",
+        "podao",
+        "scimitar",
+        "wu"
+      ],
+      "name": "Wu Scimitar",
+      "searchText": "wu scimitar green in [[cathay]], intel gained +2% iron helmet + podao",
+      "tierColor": "green"
+    },
+    {
+      "id": "ancient_blade",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[cathay]],",
+        "ancient",
+        "blade",
+        "blue",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "scimitar|green",
+        "{{retext|wu"
+      ],
+      "name": "Ancient Blade",
+      "searchText": "ancient blade blue in [[cathay]], dmg +2%<br>in [[cathay]], intel gained +2% {{retext|wu scimitar|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "assault_rifle_model_98",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "98",
+        "[[koryeo]],",
+        "assault",
+        "blue",
+        "dmg",
+        "gained",
+        "helmet|green",
+        "in",
+        "intel",
+        "model",
+        "rifle",
+        "{{retext|motorbike"
+      ],
+      "name": "Assault Rifle Model 98",
+      "searchText": "assault rifle model 98 blue in [[koryeo]], dmg +2%<br>in [[koryeo]], intel gained +2% {{retext|motorbike helmet|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "broken_fiend_mirror",
+      "keywords": [
+        "+20%",
+        "[[mailbox#ratman",
+        "blue",
+        "broken",
+        "defeat",
+        "effect",
+        "fiend",
+        "lifesteal",
+        "mirror"
+      ],
+      "name": "Broken Fiend Mirror",
+      "searchText": "broken fiend mirror blue lifesteal effect +20% defeat [[mailbox#ratman",
+      "tierColor": "blue"
+    },
+    {
+      "id": "broken_godsmiter",
+      "keywords": [
+        "+4%",
+        "[[mailbox#ratman",
+        "blue",
+        "broken",
+        "crit",
+        "defeat",
+        "dmg",
+        "godsmiter"
+      ],
+      "name": "Broken Godsmiter",
+      "searchText": "broken godsmiter blue crit dmg +4% defeat [[mailbox#ratman",
+      "tierColor": "blue"
+    },
+    {
+      "id": "broken_palm_leaf_fan",
+      "keywords": [
+        "+20%",
+        "blue",
+        "broken",
+        "effect",
+        "fan",
+        "fan|green",
+        "lifesteal",
+        "palm-leaf",
+        "{{retext|shattered"
+      ],
+      "name": "Broken Palm-Leaf Fan",
+      "searchText": "broken palm-leaf fan blue lifesteal effect +20% {{retext|shattered palm-leaf fan|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "broken_sagekiller",
+      "keywords": [
+        "+2%",
+        "[[mailbox#ratman",
+        "blue",
+        "broken",
+        "crit",
+        "defeat",
+        "dmg",
+        "fully",
+        "sagekiller"
+      ],
+      "name": "Broken Sagekiller",
+      "searchText": "broken sagekiller blue crit dmg +2% fully defeat [[mailbox#ratman",
+      "tierColor": "blue"
+    },
+    {
+      "id": "bulletproof_vest",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[koryeo]],",
+        "blue",
+        "bulletproof",
+        "dmg",
+        "exchange",
+        "gained",
+        "in",
+        "intel",
+        "jar|blue",
+        "vest",
+        "{{retext|kimchi"
+      ],
+      "name": "Bulletproof Vest",
+      "searchText": "bulletproof vest blue in [[koryeo]], dmg +2%<br>in [[koryeo]], intel gained +2% exchange {{retext|kimchi jar|blue",
+      "tierColor": "blue"
+    },
+    {
+      "id": "crimson_haori_jacket",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[yamato]],",
+        "armor|green",
+        "blue",
+        "crimson",
+        "dmg",
+        "gained",
+        "haori",
+        "in",
+        "intel",
+        "jacket",
+        "yamato",
+        "{{retext|golden"
+      ],
+      "name": "Crimson Haori Jacket",
+      "searchText": "crimson haori jacket blue in [[yamato]], dmg +2%<br>in [[yamato]], intel gained +2% {{retext|golden yamato armor|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "crusader_ring",
+      "keywords": [
+        "blue",
+        "crusader",
+        "pearl|green",
+        "ring",
+        "{{retext|black",
+        "•"
+      ],
+      "name": "Crusader Ring",
+      "searchText": "crusader ring blue  • {{retext|black pearl|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "duckbill_axe",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[kemet]],",
+        "axe",
+        "blue",
+        "dagger|green",
+        "dmg",
+        "duckbill",
+        "gained",
+        "in",
+        "intel",
+        "{{retext|poisoned"
+      ],
+      "name": "Duckbill Axe",
+      "searchText": "duckbill axe blue in [[kemet]], dmg +2%<br>in [[kemet]], intel gained +2% {{retext|poisoned dagger|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "freddy_s_claw",
+      "keywords": [
+        "+2%",
+        "+3%.",
+        "1",
+        "arena,",
+        "blue",
+        "claw",
+        "dmg",
+        "freddy's",
+        "glove|green",
+        "in",
+        "round",
+        "snail",
+        "{{retext|jack's"
+      ],
+      "name": "Freddy's Claw",
+      "searchText": "freddy's claw blue in snail arena, dmg +3%. in snail arena, round 1 dmg +2% {{retext|jack's glove|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "infrared_lens",
+      "keywords": [
+        "+120",
+        "[[vending",
+        "blue",
+        "dmg",
+        "infrared",
+        "lens",
+        "machine]]",
+        "rush"
+      ],
+      "name": "Infrared Lens",
+      "searchText": "infrared lens blue rush dmg +120 [[vending machine]]",
+      "tierColor": "blue"
+    },
+    {
+      "id": "jason_s_mask",
+      "keywords": [
+        "+2%",
+        "+3%.",
+        "1",
+        "arena,",
+        "blue",
+        "dmg",
+        "dragon",
+        "in",
+        "jason's",
+        "mask",
+        "reward<br>[[altar#discount_dragon",
+        "round",
+        "snail",
+        "wish"
+      ],
+      "name": "Jason's Mask",
+      "searchText": "jason's mask blue in snail arena, dmg +3%. in snail arena, round 1 dmg +2% dragon wish reward<br>[[altar#discount_dragon",
+      "tierColor": "blue"
+    },
+    {
+      "id": "kukri",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[bharata]],",
+        "blue",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "kukri",
+        "{{retext|pata|green"
+      ],
+      "name": "Kukri",
+      "searchText": "kukri blue in [[bharata]], dmg +2%<br>in [[bharata]], intel gained +2% {{retext|pata|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "lotus_platform_iii",
+      "keywords": [
+        "320",
+        "angel",
+        "blue",
+        "each",
+        "form,",
+        "hp",
+        "iii",
+        "in",
+        "lotus",
+        "platform",
+        "platform|green",
+        "regen",
+        "round",
+        "{{retext|lotus"
+      ],
+      "name": "Lotus Platform III",
+      "searchText": "lotus platform iii blue in angel form, regen 320 hp each round {{retext|lotus platform|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "macedonian_spear",
+      "keywords": [
+        "+2%",
+        "+2%<br>",
+        "+2%<br>every",
+        "[[hellas]],",
+        "blue",
+        "costume",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "macedonian",
+        "spear",
+        "stat"
+      ],
+      "name": "Macedonian Spear",
+      "searchText": "macedonian spear blue in [[hellas]], intel gained +2%<br> in [[hellas]], dmg +2%<br>every costume stat +2%",
+      "tierColor": "blue"
+    },
+    {
+      "id": "mahatma_s_robe",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[bharata]],",
+        "blue",
+        "dmg",
+        "exchange",
+        "gained",
+        "in",
+        "intel",
+        "mahatma's",
+        "robe",
+        "{{retext|rosary|blue"
+      ],
+      "name": "Mahatma's Robe",
+      "searchText": "mahatma's robe blue in [[bharata]], dmg +2%<br>in [[bharata]], intel gained +2% exchange {{retext|rosary|blue",
+      "tierColor": "blue"
+    },
+    {
+      "id": "multifunction_goggles",
+      "keywords": [
+        "+120",
+        "blue",
+        "dmg",
+        "goggles",
+        "lens|green",
+        "multifunction",
+        "rush",
+        "{{retext|crystal"
+      ],
+      "name": "Multifunction Goggles",
+      "searchText": "multifunction goggles blue rush dmg +120 {{retext|crystal lens|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "pasgt_helmet",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[murika]],",
+        "blue",
+        "dmg",
+        "exchange",
+        "gained",
+        "helmet",
+        "in",
+        "intel",
+        "pasgt",
+        "{{retext|bullet|blue"
+      ],
+      "name": "PASGT Helmet",
+      "searchText": "pasgt helmet blue in [[murika]], dmg +2%<br>in [[murika]], intel gained +2% exchange {{retext|bullet|blue",
+      "tierColor": "blue"
+    },
+    {
+      "id": "rainbow_tassel",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[cathay]],",
+        "blue",
+        "dmg",
+        "exchange",
+        "gained",
+        "in",
+        "intel",
+        "rainbow",
+        "tassel",
+        "{{retext|mahjong|blue"
+      ],
+      "name": "Rainbow Tassel",
+      "searchText": "rainbow tassel blue in [[cathay]], dmg +2%<br>in [[cathay]], intel gained +2% exchange {{retext|mahjong|blue",
+      "tierColor": "blue"
+    },
+    {
+      "id": "ruby_brooch",
+      "keywords": [
+        "[[fissure",
+        "blue",
+        "brooch",
+        "ruby",
+        "•"
+      ],
+      "name": "Ruby Brooch",
+      "searchText": "ruby brooch blue  • [[fissure",
+      "tierColor": "blue"
+    },
+    {
+      "id": "sapphire_brooch",
+      "keywords": [
+        "[[fissure",
+        "blue",
+        "brooch",
+        "sapphire",
+        "•"
+      ],
+      "name": "Sapphire Brooch",
+      "searchText": "sapphire brooch blue  • [[fissure",
+      "tierColor": "blue"
+    },
+    {
+      "id": "servant_spirit_pendant",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[yamato]],",
+        "blue",
+        "dmg",
+        "exchange",
+        "gained",
+        "in",
+        "intel",
+        "pendant",
+        "servant",
+        "spirit",
+        "{{retext|koban|blue"
+      ],
+      "name": "Servant Spirit Pendant",
+      "searchText": "servant spirit pendant blue in [[yamato]], dmg +2%<br>in [[yamato]], intel gained +2% exchange {{retext|koban|blue",
+      "tierColor": "blue"
+    },
+    {
+      "id": "shamshir",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[parsia]],",
+        "blue",
+        "dmg",
+        "in",
+        "intel",
+        "shamshir",
+        "{{rewardiconwithtext|pesh-kabz|green"
+      ],
+      "name": "Shamshir",
+      "searchText": "shamshir blue in [[parsia]], dmg +2%<br>in [[parsia]], intel +2% {{rewardiconwithtext|pesh-kabz|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "spartan_shield",
+      "keywords": [
+        "+2%",
+        "+2%<br>",
+        "+2%<br>every",
+        "[[hellas]],",
+        "blue",
+        "costume",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "shield",
+        "spartan",
+        "stat"
+      ],
+      "name": "Spartan Shield",
+      "searchText": "spartan shield blue in [[hellas]], intel gained +2%<br> in [[hellas]], dmg +2%<br>every costume stat +2%",
+      "tierColor": "blue"
+    },
+    {
+      "id": "springfield_rifle",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[murika]],",
+        "blue",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "revolver|green",
+        "rifle",
+        "springfield",
+        "{{retext|colt"
+      ],
+      "name": "Springfield Rifle",
+      "searchText": "springfield rifle blue in [[murika]], dmg +2%<br>in [[murika]], intel gained +2% {{retext|colt revolver|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "sword_cane",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[britland]],",
+        "[[britland]]in",
+        "blue",
+        "cane",
+        "cannon",
+        "dmg",
+        "enfield",
+        "fleet",
+        "gained",
+        "in",
+        "intel",
+        "rifle|green",
+        "sword",
+        "{{retext|lee"
+      ],
+      "name": "Sword Cane",
+      "searchText": "sword cane blue in [[britland]]in [[britland]], dmg +2%<br>in [[britland]], intel gained +2%<br>in [[britland]], fleet cannon dmg +2% {{retext|lee enfield rifle|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "tactical_helmet",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[kemet]],",
+        "blue",
+        "dmg",
+        "exchange",
+        "gained",
+        "helmet",
+        "in",
+        "intel",
+        "tactical",
+        "{{retext|ankh|blue"
+      ],
+      "name": "Tactical Helmet",
+      "searchText": "tactical helmet blue in [[kemet]], dmg +2%<br>in [[kemet]], intel gained +2% exchange {{retext|ankh|blue",
+      "tierColor": "blue"
+    },
+    {
+      "id": "time_blade",
+      "keywords": [
+        "+2%<br>in",
+        "[[time",
+        "blade",
+        "blue",
+        "dmg",
+        "in",
+        "rift",
+        "rift]],",
+        "the",
+        "time"
+      ],
+      "name": "Time Blade",
+      "searchText": "time blade blue in the [[time rift rift]], dmg +2%<br>in the [[time rift",
+      "tierColor": "blue"
+    },
+    {
+      "id": "time_wheel",
+      "keywords": [
+        "+2%<br>in",
+        "[[time",
+        "blue",
+        "dmg",
+        "in",
+        "rift",
+        "rift]],",
+        "the",
+        "time",
+        "wheel"
+      ],
+      "name": "Time Wheel",
+      "searchText": "time wheel blue in the [[time rift rift]], dmg +2%<br>in the [[time rift",
+      "tierColor": "blue"
+    },
+    {
+      "id": "tuxedo",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[britland]],",
+        "blue",
+        "cannon",
+        "dmg",
+        "exchange",
+        "fleet",
+        "gained",
+        "in",
+        "intel",
+        "tuxedo",
+        "{{retext|anchor|blue"
+      ],
+      "name": "Tuxedo",
+      "searchText": "tuxedo blue in [[britland]], dmg +2%<br>in [[britland]], intel gained +2%<br>in [[britland]], fleet cannon dmg +2% exchange {{retext|anchor|blue",
+      "tierColor": "blue"
+    },
+    {
+      "id": "war_scythes",
+      "keywords": [
+        "+2%",
+        "+2%<br>in",
+        "[[parsia]],",
+        "blue",
+        "carpet|blue",
+        "dmg",
+        "exchange",
+        "in",
+        "intel",
+        "scythes",
+        "war",
+        "{{retext|parsian"
+      ],
+      "name": "War Scythes",
+      "searchText": "war scythes blue in [[parsia]], dmg +2%<br>in [[parsia]], intel +2% exchange {{retext|parsian carpet|blue",
+      "tierColor": "blue"
+    },
+    {
+      "id": "wizard_ring",
+      "keywords": [
+        "blue",
+        "pearl|green",
+        "ring",
+        "wizard",
+        "{{retext|white",
+        "•"
+      ],
+      "name": "Wizard Ring",
+      "searchText": "wizard ring blue  • {{retext|white pearl|green",
+      "tierColor": "blue"
+    },
+    {
+      "id": "7_star_blade",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "7-star",
+        "[[cathay]],",
+        "blade",
+        "blade|blue",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "purple",
+        "{{retext|ancient"
+      ],
+      "name": "7-Star Blade",
+      "searchText": "7-star blade purple in [[cathay]], dmg +4%<br>in [[cathay]], intel gained +4% {{retext|ancient blade|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "abyss_amulet",
+      "keywords": [
+        "[[fissure",
+        "abyss",
+        "amulet",
+        "purple",
+        "•"
+      ],
+      "name": "Abyss Amulet",
+      "searchText": "abyss amulet purple  • [[fissure",
+      "tierColor": "purple"
+    },
+    {
+      "id": "achilles_shield",
+      "keywords": [
+        "+4%",
+        "+4%<br>every",
+        "+4%<br>in",
+        "[[hellas]],",
+        "achilles'",
+        "costume",
+        "dmg",
+        "exchange",
+        "gained",
+        "in",
+        "intel",
+        "purple",
+        "shield",
+        "stat",
+        "{{retext|feather|purple"
+      ],
+      "name": "Achilles' Shield",
+      "searchText": "achilles' shield purple in [[hellas]], intel gained +4%<br>in [[hellas]], dmg +4%<br>every costume stat +4% exchange {{retext|feather|purple",
+      "tierColor": "purple"
+    },
+    {
+      "id": "antelope_horn_shield",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[bharata]],",
+        "antelope",
+        "dmg",
+        "exchange",
+        "gained",
+        "horn",
+        "in",
+        "intel",
+        "purple",
+        "shield",
+        "{{retext|rosary|purple"
+      ],
+      "name": "Antelope Horn Shield",
+      "searchText": "antelope horn shield purple in [[bharata]], dmg +4%<br>in [[bharata]], intel gained +4% exchange {{retext|rosary|purple",
+      "tierColor": "purple"
+    },
+    {
+      "id": "arabic_dagger",
+      "keywords": [
+        "+60",
+        "[[kemet]]",
+        "[[kemet]],",
+        "arabic",
+        "atk",
+        "dagger",
+        "in",
+        "intel",
+        "of",
+        "purple",
+        "reward",
+        "snail"
+      ],
+      "name": "Arabic Dagger",
+      "searchText": "arabic dagger purple in [[kemet]], snail atk +60 reward of [[kemet]] intel",
+      "tierColor": "purple"
+    },
+    {
+      "id": "assassin_s_gauntlet",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[parsia]],",
+        "assassin's",
+        "carpet|purple",
+        "dmg",
+        "exchange",
+        "gauntlet",
+        "in",
+        "intel",
+        "purple",
+        "{{retext|parsian"
+      ],
+      "name": "Assassin's Gauntlet",
+      "searchText": "assassin's gauntlet purple in [[parsia]], dmg +4%<br>in [[parsia]], intel +4% exchange {{retext|parsian carpet|purple",
+      "tierColor": "purple"
+    },
+    {
+      "id": "blade_muramasa",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[yamato]],",
+        "blade",
+        "dmg",
+        "exchange",
+        "gained",
+        "in",
+        "intel",
+        "muramasa",
+        "purple",
+        "{{retext|koban|purple"
+      ],
+      "name": "Blade Muramasa",
+      "searchText": "blade muramasa purple in [[yamato]], dmg +4%<br>in [[yamato]], intel gained +4% exchange {{retext|koban|purple",
+      "tierColor": "purple"
+    },
+    {
+      "id": "britland_crown",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[britland]],",
+        "britland",
+        "cannon",
+        "crown",
+        "dmg",
+        "exchange",
+        "fleet",
+        "gained",
+        "in",
+        "intel",
+        "purple",
+        "{{retext|anchor|purple"
+      ],
+      "name": "Britland Crown",
+      "searchText": "britland crown purple in [[britland]], dmg +4%<br>in [[britland]], intel gained +4%<br>in [[britland]], fleet cannon dmg +4% exchange {{retext|anchor|purple",
+      "tierColor": "purple"
+    },
+    {
+      "id": "caeser_s_laurel",
+      "keywords": [
+        "+60",
+        "+60<br>in",
+        "[[hellas]]",
+        "[[hellas]],",
+        "atk",
+        "caeser's",
+        "def",
+        "in",
+        "intel",
+        "laurel",
+        "of",
+        "purple",
+        "reward",
+        "snail"
+      ],
+      "name": "Caeser's Laurel",
+      "searchText": "caeser's laurel purple in [[hellas]], snail atk +60<br>in [[hellas]], snail def +60 reward of [[hellas]] intel",
+      "tierColor": "purple"
+    },
+    {
+      "id": "cayako_s_charm",
+      "keywords": [
+        "+4%",
+        "+6%<br>in",
+        "1",
+        "arena,",
+        "cayako's",
+        "charm",
+        "divine",
+        "dmg",
+        "dragon",
+        "in",
+        "purple",
+        "round",
+        "snail",
+        "wish<br>[[altar#discount_dragon"
+      ],
+      "name": "Cayako's Charm",
+      "searchText": "cayako's charm purple in snail arena, dmg +6%<br>in snail arena, round 1 dmg +4% divine dragon wish<br>[[altar#discount_dragon",
+      "tierColor": "purple"
+    },
+    {
+      "id": "dim_godsmiter",
+      "keywords": [
+        "+20%",
+        "+4%<br>lifesteal",
+        "crit",
+        "dim",
+        "dmg",
+        "effect",
+        "godsmiter",
+        "purple",
+        "sagekiller|blue",
+        "{{retext|broken"
+      ],
+      "name": "Dim Godsmiter",
+      "searchText": "dim godsmiter purple crit dmg +4%<br>lifesteal effect +20% {{retext|broken sagekiller|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "dim_ironcutter",
+      "keywords": [
+        "+20%",
+        "+4%<br>lifesteal",
+        "[[mailbox#ratman",
+        "crit",
+        "defeat",
+        "dim",
+        "dmg",
+        "effect",
+        "fully",
+        "ironcutter",
+        "purple"
+      ],
+      "name": "Dim Ironcutter",
+      "searchText": "dim ironcutter purple crit dmg +4%<br>lifesteal effect +20% fully defeat [[mailbox#ratman",
+      "tierColor": "purple"
+    },
+    {
+      "id": "dim_rope_of_truth",
+      "keywords": [
+        "+20%",
+        "+4%<br>lifesteal",
+        "[[mailbox#ratman",
+        "crit",
+        "defeat",
+        "dim",
+        "dmg",
+        "effect",
+        "fully",
+        "of",
+        "purple",
+        "rope",
+        "truth"
+      ],
+      "name": "Dim Rope of Truth",
+      "searchText": "dim rope of truth purple crit dmg +4%<br>lifesteal effect +20% fully defeat [[mailbox#ratman",
+      "tierColor": "purple"
+    },
+    {
+      "id": "dim_trident",
+      "keywords": [
+        "+20%",
+        "+4%<br>lifesteal",
+        "[[mailbox#ratman",
+        "crit",
+        "defeat",
+        "dim",
+        "dmg",
+        "effect",
+        "fully",
+        "purple",
+        "trident"
+      ],
+      "name": "Dim Trident",
+      "searchText": "dim trident purple crit dmg +4%<br>lifesteal effect +20% fully defeat [[mailbox#ratman",
+      "tierColor": "purple"
+    },
+    {
+      "id": "feline_shield",
+      "keywords": [
+        "+60",
+        "+60<br>in",
+        "[[parsia]]",
+        "[[parsia]],",
+        "atk",
+        "def",
+        "feline",
+        "in",
+        "intel",
+        "of",
+        "purple",
+        "reward",
+        "shield"
+      ],
+      "name": "Feline Shield",
+      "searchText": "feline shield purple in [[parsia]], atk +60<br>in [[parsia]], def +60 reward of [[parsia]] intel",
+      "tierColor": "purple"
+    },
+    {
+      "id": "gas_mask",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[koryeo]],",
+        "chest",
+        "dmg",
+        "from",
+        "gained",
+        "gas",
+        "home",
+        "in",
+        "intel",
+        "mask",
+        "obtained",
+        "purple"
+      ],
+      "name": "Gas Mask",
+      "searchText": "gas mask purple in [[koryeo]], dmg +4%<br>in [[koryeo]], intel gained +4% obtained from home chest",
+      "tierColor": "purple"
+    },
+    {
+      "id": "genji_gloves",
+      "keywords": [
+        "\"genji",
+        "+48",
+        "[[yamato]]",
+        "[[yamato]],",
+        "atk",
+        "genji",
+        "gloves",
+        "ii\"",
+        "in",
+        "intel",
+        "of",
+        "purple",
+        "reward",
+        "snail"
+      ],
+      "name": "Genji Gloves",
+      "searchText": "genji gloves purple in [[yamato]], snail atk +48 reward of [[yamato]] intel \"genji ii\"",
+      "tierColor": "purple"
+    },
+    {
+      "id": "genji_helmet",
+      "keywords": [
+        "\"genji",
+        "+48",
+        "[[yamato]]",
+        "[[yamato]],",
+        "def",
+        "genji",
+        "helmet",
+        "i\"",
+        "in",
+        "intel",
+        "of",
+        "purple",
+        "reward",
+        "snail"
+      ],
+      "name": "Genji Helmet",
+      "searchText": "genji helmet purple in [[yamato]], snail def +48 reward of [[yamato]] intel \"genji i\"",
+      "tierColor": "purple"
+    },
+    {
+      "id": "genji_shield",
+      "keywords": [
+        "\"genji",
+        "+48",
+        "+48<br>in",
+        "[[yamato]]",
+        "[[yamato]],",
+        "atk",
+        "def",
+        "genji",
+        "iii\"",
+        "in",
+        "intel",
+        "of",
+        "purple",
+        "reward",
+        "shield",
+        "snail"
+      ],
+      "name": "Genji Shield",
+      "searchText": "genji shield purple in [[yamato]], snail atk +48<br>in [[yamato]], snail def +48 reward of [[yamato]] intel \"genji iii\"",
+      "tierColor": "purple"
+    },
+    {
+      "id": "golden_assault_rifle",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[koryeo]],",
+        "assault",
+        "dmg",
+        "gained",
+        "golden",
+        "in",
+        "intel",
+        "purple",
+        "rifle",
+        "vest|blue",
+        "{{retext|bulletproof"
+      ],
+      "name": "Golden Assault Rifle",
+      "searchText": "golden assault rifle purple in [[koryeo]], dmg +4%<br>in [[koryeo]], intel gained +4% {{retext|bulletproof vest|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "golden_bronze_dagger",
+      "keywords": [
+        "+60",
+        "+60<br>snail",
+        "[[kemet]]",
+        "[[kemet]],",
+        "atk",
+        "bronze",
+        "dagger",
+        "def",
+        "golden",
+        "in",
+        "intel",
+        "of",
+        "purple",
+        "reward",
+        "snail"
+      ],
+      "name": "Golden Bronze Dagger",
+      "searchText": "golden bronze dagger purple in [[kemet]], snail atk +60<br>snail def +60 reward of [[kemet]] intel",
+      "tierColor": "purple"
+    },
+    {
+      "id": "guardian_s_longsword",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[kemet]],",
+        "dmg",
+        "gained",
+        "guardian's",
+        "in",
+        "intel",
+        "longsword",
+        "purple",
+        "{{retext|ax|blue"
+      ],
+      "name": "Guardian's Longsword",
+      "searchText": "guardian's longsword purple in [[kemet]], dmg +4%<br>in [[kemet]], intel gained +4% {{retext|ax|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "heaven_amulet",
+      "keywords": [
+        "[[fissure",
+        "amulet",
+        "heaven",
+        "purple",
+        "•"
+      ],
+      "name": "Heaven Amulet",
+      "searchText": "heaven amulet purple  • [[fissure",
+      "tierColor": "purple"
+    },
+    {
+      "id": "hector_s_spear",
+      "keywords": [
+        "+4%",
+        "+4%<br>every",
+        "+4%<br>in",
+        "[[hellas]],",
+        "costume",
+        "dmg",
+        "gained",
+        "hector's",
+        "in",
+        "intel",
+        "purple",
+        "spear",
+        "spear|blue",
+        "stat",
+        "{{retext|macedonian"
+      ],
+      "name": "Hector's Spear",
+      "searchText": "hector's spear purple in [[hellas]], intel gained +4%<br>in [[hellas]], dmg +4%<br>every costume stat +4% {{retext|macedonian spear|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "heraclius_silver_staff",
+      "keywords": [
+        "+60",
+        "[[hellas]]",
+        "[[hellas]],",
+        "atk",
+        "heraclius'",
+        "in",
+        "intel",
+        "of",
+        "purple",
+        "reward",
+        "silver",
+        "snail",
+        "staff"
+      ],
+      "name": "Heraclius' Silver Staff",
+      "searchText": "heraclius' silver staff purple in [[hellas]], snail atk +60 reward of [[hellas]] intel",
+      "tierColor": "purple"
+    },
+    {
+      "id": "holographic_lens",
+      "keywords": [
+        "+120",
+        "[[vending",
+        "dmg",
+        "holographic",
+        "lens",
+        "machine]]",
+        "purchase",
+        "purple",
+        "rush"
+      ],
+      "name": "Holographic Lens",
+      "searchText": "holographic lens purple rush dmg +120 [[vending machine]] purchase",
+      "tierColor": "purple"
+    },
+    {
+      "id": "holographic_tactical_glasses",
+      "keywords": [
+        "+48",
+        "[[murika]]",
+        "[[murika]],",
+        "atk",
+        "glasses",
+        "holographic",
+        "in",
+        "intel",
+        "of",
+        "purple",
+        "reward",
+        "snail",
+        "tactical"
+      ],
+      "name": "Holographic Tactical Glasses",
+      "searchText": "holographic tactical glasses purple in [[murika]], snail atk +48 reward of [[murika]] intel",
+      "tierColor": "purple"
+    },
+    {
+      "id": "icy_bracelet",
+      "keywords": [
+        "bracelet",
+        "icy",
+        "purple",
+        "ring|blue",
+        "{{retext|wizard",
+        "•"
+      ],
+      "name": "Icy Bracelet",
+      "searchText": "icy bracelet purple  • {{retext|wizard ring|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "justinian_s_robe",
+      "keywords": [
+        "+60",
+        "[[hellas]]",
+        "[[hellas]],",
+        "def",
+        "in",
+        "intel",
+        "justinian's",
+        "of",
+        "purple",
+        "reward",
+        "robe",
+        "snail"
+      ],
+      "name": "Justinian's Robe",
+      "searchText": "justinian's robe purple in [[hellas]], snail def +60 reward of [[hellas]] intel",
+      "tierColor": "purple"
+    },
+    {
+      "id": "long_range_scope",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[murika]],",
+        "dmg",
+        "exchange",
+        "gained",
+        "in",
+        "intel",
+        "long",
+        "purple",
+        "range",
+        "scope",
+        "{{retext|bullet|purple"
+      ],
+      "name": "Long Range Scope",
+      "searchText": "long range scope purple in [[murika]], dmg +4%<br>in [[murika]], intel gained +4% exchange {{retext|bullet|purple",
+      "tierColor": "purple"
+    },
+    {
+      "id": "lotus_platform_vi",
+      "keywords": [
+        "640",
+        "angel",
+        "each",
+        "form,",
+        "hp",
+        "iii|blue",
+        "in",
+        "lotus",
+        "platform",
+        "purple",
+        "regen",
+        "round",
+        "vi",
+        "{{retext|lotus"
+      ],
+      "name": "Lotus Platform VI",
+      "searchText": "lotus platform vi purple in angel form, regen 640 hp each round {{retext|lotus platform iii|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "m4_carbine",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[murika]],",
+        "carbine",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "m4",
+        "purple",
+        "rifle|blue",
+        "{{retext|springfield"
+      ],
+      "name": "M4 Carbine",
+      "searchText": "m4 carbine purple in [[murika]], dmg +4%<br>in [[murika]], intel gained +4% {{retext|springfield rifle|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "mechanical_exoskeleton",
+      "keywords": [
+        "+48",
+        "+48<br>in",
+        "[[murika]]",
+        "[[murika]],",
+        "atk",
+        "def",
+        "exoskeleton",
+        "in",
+        "intel",
+        "mechanical",
+        "of",
+        "purple",
+        "reward",
+        "snail"
+      ],
+      "name": "Mechanical Exoskeleton",
+      "searchText": "mechanical exoskeleton purple in [[murika]], snail atk +48<br>in [[murika]], snail def +48 reward of [[murika]] intel",
+      "tierColor": "purple"
+    },
+    {
+      "id": "mughal_scimitar",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[bharata]],",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "mughal",
+        "purple",
+        "scimitar",
+        "{{retext|kukri|blue"
+      ],
+      "name": "Mughal Scimitar",
+      "searchText": "mughal scimitar purple in [[bharata]], dmg +4%<br>in [[bharata]], intel gained +4% {{retext|kukri|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "parsian_composite_bow",
+      "keywords": [
+        "+60",
+        "[[parsia]]",
+        "[[parsia]],",
+        "atk",
+        "bow",
+        "composite",
+        "in",
+        "intel",
+        "of",
+        "parsian",
+        "purple",
+        "reward"
+      ],
+      "name": "Parsian Composite Bow",
+      "searchText": "parsian composite bow purple in [[parsia]], atk +60 reward of [[parsia]] intel",
+      "tierColor": "purple"
+    },
+    {
+      "id": "pharaoh_s_scepter",
+      "keywords": [
+        "+60",
+        "[[kemet]]",
+        "[[kemet]],",
+        "def",
+        "in",
+        "intel",
+        "of",
+        "pharaoh's",
+        "purple",
+        "reward",
+        "scepter",
+        "snail"
+      ],
+      "name": "Pharaoh's Scepter",
+      "searchText": "pharaoh's scepter purple in [[kemet]], snail def +60 reward of [[kemet]] intel",
+      "tierColor": "purple"
+    },
+    {
+      "id": "powered_glove",
+      "keywords": [
+        "+48",
+        "[[murika]]",
+        "[[murika]],",
+        "def",
+        "glove",
+        "in",
+        "intel",
+        "of",
+        "powered",
+        "purple",
+        "reward",
+        "snail"
+      ],
+      "name": "Powered Glove",
+      "searchText": "powered glove purple in [[murika]], snail def +48 reward of [[murika]] intel",
+      "tierColor": "purple"
+    },
+    {
+      "id": "priestly_robe",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[kemet]],",
+        "dmg",
+        "exchange",
+        "gained",
+        "in",
+        "intel",
+        "priestly",
+        "purple",
+        "robe",
+        "{{retext|ankh|purple"
+      ],
+      "name": "Priestly Robe",
+      "searchText": "priestly robe purple in [[kemet]], dmg +4%<br>in [[kemet]], intel gained +4% exchange {{retext|ankh|purple",
+      "tierColor": "purple"
+    },
+    {
+      "id": "royal_banner",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[yamato]],",
+        "banner",
+        "dmg",
+        "gained",
+        "haori",
+        "in",
+        "intel",
+        "jacket|blue",
+        "purple",
+        "royal",
+        "{{retext|crimson"
+      ],
+      "name": "Royal Banner",
+      "searchText": "royal banner purple in [[yamato]], dmg +4%<br>in [[yamato]], intel gained +4% {{retext|crimson haori jacket|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "royal_wootz_blade",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[parsia]],",
+        "blade",
+        "dmg",
+        "in",
+        "intel",
+        "purple",
+        "royal",
+        "wootz",
+        "{{rewardiconwithtext|shamshir|blue"
+      ],
+      "name": "Royal Wootz Blade",
+      "searchText": "royal wootz blade purple in [[parsia]], dmg +4%<br>in [[parsia]], intel +4% {{rewardiconwithtext|shamshir|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "scout_goggles",
+      "keywords": [
+        "+120",
+        "dmg",
+        "goggles",
+        "goggles|blue",
+        "purple",
+        "rush",
+        "scout",
+        "{{retext|multifunction"
+      ],
+      "name": "Scout Goggles",
+      "searchText": "scout goggles purple rush dmg +120 {{retext|multifunction goggles|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "seething_bracelet",
+      "keywords": [
+        "bracelet",
+        "purple",
+        "ring|blue",
+        "seething",
+        "{{retext|wizard",
+        "•"
+      ],
+      "name": "Seething Bracelet",
+      "searchText": "seething bracelet purple  • {{retext|wizard ring|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "shotgun_umbrella",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[britland]],",
+        "cane|blue",
+        "cannon",
+        "dmg",
+        "fleet",
+        "gained",
+        "in",
+        "intel",
+        "purple",
+        "shotgun",
+        "umbrella",
+        "{{retext|sword"
+      ],
+      "name": "Shotgun Umbrella",
+      "searchText": "shotgun umbrella purple in [[britland]], dmg +4%<br>in [[britland]], intel gained +4%<br>in [[britland]], fleet cannon dmg +4% {{retext|sword cane|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "silver_lion",
+      "keywords": [
+        "+4%",
+        "+4%<br>in",
+        "[[cathay]],",
+        "dmg",
+        "exchange",
+        "gained",
+        "in",
+        "intel",
+        "lion",
+        "purple",
+        "silver",
+        "{{retext|mahjong|purple"
+      ],
+      "name": "Silver Lion",
+      "searchText": "silver lion purple in [[cathay]], dmg +4%<br>in [[cathay]], intel gained +4% exchange {{retext|mahjong|purple",
+      "tierColor": "purple"
+    },
+    {
+      "id": "spacetime_echo",
+      "keywords": [
+        "+4%<br>in",
+        "[[time",
+        "dmg",
+        "echo",
+        "in",
+        "purple",
+        "rift",
+        "rift]],",
+        "spacetime",
+        "the"
+      ],
+      "name": "Spacetime Echo",
+      "searchText": "spacetime echo purple in the [[time rift rift]], dmg +4%<br>in the [[time rift",
+      "tierColor": "purple"
+    },
+    {
+      "id": "sun_mirror_armor",
+      "keywords": [
+        "+60",
+        "[[parsia]]",
+        "[[parsia]],",
+        "armor",
+        "def",
+        "in",
+        "intel",
+        "mirror",
+        "of",
+        "purple",
+        "reward",
+        "sun"
+      ],
+      "name": "Sun Mirror Armor",
+      "searchText": "sun mirror armor purple in [[parsia]], def +60 reward of [[parsia]] intel",
+      "tierColor": "purple"
+    },
+    {
+      "id": "texan_chainsaw",
+      "keywords": [
+        "+4%",
+        "+6%<br>in",
+        "1",
+        "arena,",
+        "chainsaw",
+        "claw|blue",
+        "dmg",
+        "in",
+        "purple",
+        "round",
+        "snail",
+        "texan",
+        "{{retext|freddy's"
+      ],
+      "name": "Texan Chainsaw",
+      "searchText": "texan chainsaw purple in snail arena, dmg +6%<br>in snail arena, round 1 dmg +4% {{retext|freddy's claw|blue",
+      "tierColor": "purple"
+    },
+    {
+      "id": "time_flute",
+      "keywords": [
+        "+60<br>in",
+        "[[time",
+        "atk",
+        "flute",
+        "in",
+        "purple",
+        "rift",
+        "rift]],",
+        "snail",
+        "the",
+        "time"
+      ],
+      "name": "Time Flute",
+      "searchText": "time flute purple in the [[time rift rift]], snail atk +60<br>in the [[time rift",
+      "tierColor": "purple"
+    },
+    {
+      "id": "abyss_wings",
+      "keywords": [
+        "abyss",
+        "bracelet|purple",
+        "orange",
+        "wings",
+        "{{retext|seething",
+        "•"
+      ],
+      "name": "Abyss Wings",
+      "searchText": "abyss wings orange  • {{retext|seething bracelet|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "alloy_shield",
+      "keywords": [
+        "+64",
+        "0.2%",
+        "alloy",
+        "def",
+        "divine",
+        "each",
+        "neutral",
+        "orange",
+        "round:",
+        "shield"
+      ],
+      "name": "Alloy Shield",
+      "searchText": "alloy shield orange each round: def +64 divine neutral 0.2%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "anti_strength_saber",
+      "keywords": [
+        "(1v1),",
+        "+12%.<br>in",
+        "+8%",
+        "1",
+        "anti-strength",
+        "death",
+        "defeating",
+        "dmg",
+        "domain",
+        "duels",
+        "for",
+        "in",
+        "of",
+        "orange",
+        "reward",
+        "round",
+        "saber",
+        "satellite"
+      ],
+      "name": "Anti-Strength Saber",
+      "searchText": "anti-strength saber orange in domain duels (1v1), dmg +12%.<br>in domain duels (1v1), dmg +8% for round 1 reward of defeating death satellite",
+      "tierColor": "orange"
+    },
+    {
+      "id": "arrow_of_arash",
+      "keywords": [
+        "+120",
+        "+120<br>in",
+        "[[parsia]],",
+        "arash",
+        "arrow",
+        "atk",
+        "bow|purple",
+        "composite",
+        "def",
+        "in",
+        "of",
+        "orange",
+        "{{rewardiconwithtext|parsian"
+      ],
+      "name": "Arrow of Arash",
+      "searchText": "arrow of arash orange in [[parsia]], atk +120<br>in [[parsia]], def +120 {{rewardiconwithtext|parsian composite bow|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "ashoka_s_sword",
+      "keywords": [
+        "+8%",
+        "+8%<br>in",
+        "[[bharata]],",
+        "ashoka's",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "orange",
+        "scimitar|purple",
+        "sword",
+        "{{retext|mughal"
+      ],
+      "name": "Ashoka's Sword",
+      "searchText": "ashoka's sword orange in [[bharata]], intel gained +8%<br>in [[bharata]], dmg +8% {{retext|mughal scimitar|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "azazel_s_curse",
+      "keywords": [
+        "(1.56%)",
+        "+8%",
+        "azazel's",
+        "crit",
+        "curse",
+        "demon:",
+        "in",
+        "lottery",
+        "orange",
+        "rate"
+      ],
+      "name": "Azazel's Curse",
+      "searchText": "azazel's curse orange in demon: crit rate +8% lottery (1.56%)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "b_tadpole_sword",
+      "keywords": [
+        "+24",
+        "+8%<br>ignore",
+        "all",
+        "b-tadpole",
+        "hit",
+        "home",
+        "lv50",
+        "orange",
+        "pack",
+        "pond",
+        "res",
+        "sword",
+        "value"
+      ],
+      "name": "B-Tadpole Sword",
+      "searchText": "b-tadpole sword orange hit +8%<br>ignore all res +24 home value pack lv50 pond",
+      "tierColor": "orange"
+    },
+    {
+      "id": "battle_detector",
+      "keywords": [
+        "+480",
+        "battle",
+        "detector",
+        "dmg",
+        "goggles|purple",
+        "orange",
+        "rush",
+        "{{retext|scout"
+      ],
+      "name": "Battle Detector",
+      "searchText": "battle detector orange rush dmg +480 {{retext|scout goggles|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "blade_murasame",
+      "keywords": [
+        "+8%",
+        "+8%<br>in",
+        "[[yamato]],",
+        "blade",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "muramasa|purple",
+        "murasame",
+        "orange",
+        "{{retext|blade"
+      ],
+      "name": "Blade Murasame",
+      "searchText": "blade murasame orange in [[yamato]], dmg +8%<br>in [[yamato]], intel gained +8% {{retext|blade muramasa|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "blasphemy_eye",
+      "keywords": [
+        "59.99$,",
+        "and",
+        "bags",
+        "blasphemy",
+        "events,",
+        "eye",
+        "gear",
+        "misc",
+        "orange",
+        "other",
+        "random",
+        "stars",
+        "sunday"
+      ],
+      "name": "Blasphemy Eye",
+      "searchText": "blasphemy eye orange  random events, sunday stars 59.99$, and other misc gear bags",
+      "tierColor": "orange"
+    },
+    {
+      "id": "broken_caladbolg",
+      "keywords": [
+        "+120",
+        "+120<br>in",
+        "[[altar",
+        "broken",
+        "caladbolg",
+        "defeat",
+        "dragon",
+        "fights#demon",
+        "form,",
+        "ignore",
+        "in",
+        "lords",
+        "orange",
+        "res",
+        "water",
+        "wind"
+      ],
+      "name": "Broken Caladbolg",
+      "searchText": "broken caladbolg orange in dragon form, ignore water res +120<br>in dragon form, ignore wind res +120 defeat [[altar fights#demon lords",
+      "tierColor": "orange"
+    },
+    {
+      "id": "broken_dragon_horn",
+      "keywords": [
+        "+120",
+        "+120<br>in",
+        "[[altar",
+        "broken",
+        "defeat",
+        "dragon",
+        "earth",
+        "fights#demon",
+        "fire",
+        "form,",
+        "horn",
+        "ignore",
+        "in",
+        "lords",
+        "orange",
+        "res"
+      ],
+      "name": "Broken Dragon Horn",
+      "searchText": "broken dragon horn orange in dragon form, ignore fire res +120<br>in dragon form, ignore earth res +120 defeat [[altar fights#demon lords",
+      "tierColor": "orange"
+    },
+    {
+      "id": "butcher_s_hook",
+      "keywords": [
+        "+12%<br>in",
+        "+8%",
+        "1",
+        "arena,",
+        "butcher's",
+        "chainsaw|purple",
+        "dmg",
+        "hook",
+        "in",
+        "orange",
+        "round",
+        "snail",
+        "{{retext|texan"
+      ],
+      "name": "Butcher's Hook",
+      "searchText": "butcher's hook orange in snail arena, dmg +12%<br>in snail arena, round 1 dmg +8% {{retext|texan chainsaw|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "chief",
+      "keywords": [
+        "+8%",
+        "0.2%",
+        "chest",
+        "chief",
+        "crit",
+        "divine",
+        "dmg",
+        "orange",
+        "order",
+        "reduction"
+      ],
+      "name": "Chief",
+      "searchText": "chief orange crit dmg reduction +8% divine order chest 0.2%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "conqueror_spear",
+      "keywords": [
+        "+96",
+        "+96<br>in",
+        "[[cathay]],",
+        "[[mailbox#loyal",
+        "atk",
+        "conqueror",
+        "defeating",
+        "for",
+        "in",
+        "orange",
+        "retainers",
+        "reward",
+        "rush",
+        "snail",
+        "spear"
+      ],
+      "name": "Conqueror Spear",
+      "searchText": "conqueror spear orange in [[cathay]], snail atk +96<br>in [[cathay]], snail rush +96 reward for defeating [[mailbox#loyal retainers",
+      "tierColor": "orange"
+    },
+    {
+      "id": "couple_swords",
+      "keywords": [
+        "+8%",
+        "+8%<br>in",
+        "[[cathay]],",
+        "couple",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "orange",
+        "swords",
+        "{{retext|7-star-blade|purple"
+      ],
+      "name": "Couple Swords",
+      "searchText": "couple swords orange in [[cathay]], dmg +8%<br>in [[cathay]], intel gained +8% {{retext|7-star-blade|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "crimson_dragon_claw",
+      "keywords": [
+        "+240",
+        "[[altar#divine_dragon",
+        "claw",
+        "crimson",
+        "dmg",
+        "dragon",
+        "dragon:",
+        "fire",
+        "in",
+        "orange",
+        "reward",
+        "upon"
+      ],
+      "name": "Crimson Dragon Claw",
+      "searchText": "crimson dragon claw orange in dragon: fire dmg +240 reward upon [[altar#divine_dragon",
+      "tierColor": "orange"
+    },
+    {
+      "id": "crown_of_power",
+      "keywords": [
+        "+80",
+        "0.4%",
+        "chaos",
+        "crown",
+        "divine",
+        "fth",
+        "of",
+        "orange",
+        "power"
+      ],
+      "name": "Crown of Power",
+      "searchText": "crown of power orange fth +80 divine chaos 0.4%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "crystal_of_will",
+      "keywords": [
+        "[[altar]]",
+        "[[fissure]]",
+        "at",
+        "crystal",
+        "gaia's",
+        "incidents<br>•",
+        "of",
+        "offering",
+        "orange",
+        "organs",
+        "reward",
+        "some",
+        "tainted",
+        "the",
+        "will",
+        "•"
+      ],
+      "name": "Crystal of Will",
+      "searchText": "crystal of will orange  • reward of some [[fissure]] incidents<br>• reward of offering gaia's tainted organs at the [[altar]]",
+      "tierColor": "orange"
+    },
+    {
+      "id": "curator_s_helmet",
+      "keywords": [
+        "+16",
+        "100,000",
+        "50k",
+        "[[museum",
+        "are",
+        "curator's",
+        "drop",
+        "enemies",
+        "explorations",
+        "gained:",
+        "helmet",
+        "in",
+        "lucky!)<br>tadpoles",
+        "medals",
+        "museum",
+        "orange",
+        "really",
+        "w-tads<br>(only",
+        "when",
+        "you"
+      ],
+      "name": "Curator's Helmet",
+      "searchText": "curator's helmet orange enemies in explorations drop +16 w-tads<br>(only when you are really lucky!)<br>tadpoles gained: 100,000 50k museum medals in [[museum",
+      "tierColor": "orange"
+    },
+    {
+      "id": "damascus_knife",
+      "keywords": [
+        "+8%",
+        "+8%<br>in",
+        "[[kemet]],",
+        "damascus",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "knife",
+        "longsword|purple",
+        "orange",
+        "{{retext|guardian's"
+      ],
+      "name": "Damascus Knife",
+      "searchText": "damascus knife orange in [[kemet]], dmg +8%<br>in [[kemet]], intel gained +8% {{retext|guardian's longsword|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "death_shroud",
+      "keywords": [
+        "+10%",
+        "+2%<br>lifesteal",
+        "death",
+        "dracula",
+        "effect",
+        "lifesteal",
+        "orange",
+        "rate",
+        "reward",
+        "shroud",
+        "victory"
+      ],
+      "name": "Death Shroud",
+      "searchText": "death shroud orange lifesteal rate +2%<br>lifesteal effect +10% dracula victory reward",
+      "tierColor": "orange"
+    },
+    {
+      "id": "demon_god_crystal",
+      "keywords": [
+        "available",
+        "clover",
+        "crystal",
+        "currently",
+        "demon",
+        "final",
+        "from",
+        "god",
+        "lucky",
+        "only",
+        "orange",
+        "round"
+      ],
+      "name": "Demon God Crystal",
+      "searchText": "demon god crystal orange  currently only available from final lucky clover round",
+      "tierColor": "orange"
+    },
+    {
+      "id": "demon_scythe",
+      "keywords": [
+        "+2%",
+        "+2%<br>soul",
+        "3",
+        "cells",
+        "chests",
+        "demon",
+        "form:",
+        "in",
+        "orange",
+        "research",
+        "scythe",
+        "tier"
+      ],
+      "name": "Demon Scythe",
+      "searchText": "demon scythe orange in demon form: demon cells +2%<br>soul chests +2% tier 3 demon research",
+      "tierColor": "orange"
+    },
+    {
+      "id": "diver",
+      "keywords": [
+        "(0.8%",
+        "+2%",
+        "2x",
+        "any",
+        "cell",
+        "chance)",
+        "chest",
+        "demon",
+        "diver",
+        "divine",
+        "drops",
+        "god",
+        "in",
+        "neutral",
+        "orange",
+        "realm,"
+      ],
+      "name": "Diver",
+      "searchText": "diver orange in any realm, 2x demon god cell drops +2% divine neutral chest (0.8% chance)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "dragon_fang_dagger",
+      "keywords": [
+        "+2%",
+        "2%",
+        "3",
+        "cells<br>gain",
+        "chests",
+        "dagger",
+        "dragon",
+        "explorations",
+        "fang",
+        "form:",
+        "gain",
+        "in",
+        "orange",
+        "research",
+        "reward",
+        "tier"
+      ],
+      "name": "Dragon Fang Dagger",
+      "searchText": "dragon fang dagger orange in dragon form: gain +2% cells<br>gain 2% dragon chests in explorations tier 3 dragon research reward",
+      "tierColor": "orange"
+    },
+    {
+      "id": "drazgul_fang",
+      "keywords": [
+        "+240<br>crit",
+        "+8%",
+        "dmg",
+        "drazgul",
+        "fang",
+        "gear",
+        "iii(100$!!!)",
+        "orange",
+        "pack",
+        "poison",
+        "rate",
+        "value"
+      ],
+      "name": "Drazgul Fang",
+      "searchText": "drazgul fang orange poison dmg +240<br>crit rate +8% gear value pack iii(100$!!!)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "dwarf_mask",
+      "keywords": [
+        "(0.75%)",
+        "+30",
+        "a",
+        "def",
+        "dwarf",
+        "if",
+        "lottery",
+        "mask",
+        "orange",
+        "snail",
+        "spot",
+        "weakness,",
+        "you"
+      ],
+      "name": "Dwarf Mask",
+      "searchText": "dwarf mask orange if you spot a weakness, snail def +30 lottery (0.75%)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "electric_hammer",
+      "keywords": [
+        "+120",
+        "+240<br>ignore",
+        "1.56%",
+        "dmg",
+        "electric",
+        "enemey",
+        "hammer",
+        "lottery",
+        "orange",
+        "res",
+        "wind"
+      ],
+      "name": "Electric Hammer",
+      "searchText": "electric hammer orange wind dmg +240<br>ignore enemey wind res +120 lottery 1.56%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "elegant_gloves",
+      "keywords": [
+        "(1.6%)",
+        "+30",
+        "a",
+        "atk",
+        "divine",
+        "elegant",
+        "gloves",
+        "if",
+        "orange",
+        "order",
+        "snail",
+        "spot",
+        "weakness,",
+        "you"
+      ],
+      "name": "Elegant Gloves",
+      "searchText": "elegant gloves orange if you spot a weakness, snail atk +30 divine order (1.6%)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "elven_cape",
+      "keywords": [
+        "+40",
+        "0.8%",
+        "art",
+        "cape",
+        "divine",
+        "elven",
+        "orange",
+        "order",
+        "snail"
+      ],
+      "name": "Elven Cape",
+      "searchText": "elven cape orange snail art +40 divine order 0.8%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "eternal_empire_staff",
+      "keywords": [
+        "+120",
+        "+120<br>snail",
+        "[[hellas]],",
+        "atk",
+        "def",
+        "empire",
+        "eternal",
+        "in",
+        "laurel|purple",
+        "orange",
+        "snail",
+        "staff",
+        "{{retext|caeser's"
+      ],
+      "name": "Eternal Empire Staff",
+      "searchText": "eternal empire staff orange in [[hellas]], snail atk +120<br>snail def +120 {{retext|caeser's laurel|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "eternal_return",
+      "keywords": [
+        "+8%<br>in",
+        "[[time",
+        "dmg",
+        "eternal",
+        "in",
+        "orange",
+        "return",
+        "rift",
+        "rift]],",
+        "the"
+      ],
+      "name": "Eternal Return",
+      "searchText": "eternal return orange in the [[time rift rift]], dmg +8%<br>in the [[time rift",
+      "tierColor": "orange"
+    },
+    {
+      "id": "excalibur",
+      "keywords": [
+        "+160",
+        "atk",
+        "defeating",
+        "excalibra<br>[[altar#discount_dragon",
+        "excalibur",
+        "of",
+        "orange",
+        "reward"
+      ],
+      "name": "Excalibur",
+      "searchText": "excalibur orange atk +160 reward of defeating excalibra<br>[[altar#discount_dragon",
+      "tierColor": "orange"
+    },
+    {
+      "id": "eye_of_horus",
+      "keywords": [
+        "(1.56%",
+        "(1.6%",
+        "(1.8%",
+        "chance)",
+        "chance)<br>•",
+        "chest",
+        "chests",
+        "divine",
+        "eye",
+        "gear",
+        "horus",
+        "lottery",
+        "machine",
+        "of",
+        "orange",
+        "•"
+      ],
+      "name": "Eye of Horus",
+      "searchText": "eye of horus orange  • lottery machine (1.56% chance)<br>• gear chest (1.6% chance)<br>• divine chests (1.8% chance)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "fire_of_rage",
+      "keywords": [
+        "+8%",
+        "[[altar",
+        "def",
+        "defeat",
+        "dragon",
+        "fights#demon",
+        "fire",
+        "form,",
+        "ignore",
+        "in",
+        "lords",
+        "of",
+        "orange",
+        "rage"
+      ],
+      "name": "Fire of Rage",
+      "searchText": "fire of rage orange in dragon form, ignore def +8% defeat [[altar fights#demon lords",
+      "tierColor": "orange"
+    },
+    {
+      "id": "fossil",
+      "keywords": [
+        "+120",
+        "+240<br>ignore",
+        "0.2%",
+        "chaos",
+        "divine",
+        "dmg",
+        "earth",
+        "enemy",
+        "fossil",
+        "orange",
+        "res"
+      ],
+      "name": "Fossil",
+      "searchText": "fossil orange earth dmg +240<br>ignore enemy earth res +120 divine chaos 0.2%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "gauss_c14",
+      "keywords": [
+        "+2%",
+        "+2%<br>tool",
+        "3",
+        "c14",
+        "cells",
+        "chests",
+        "explorations",
+        "form:",
+        "gauss",
+        "in",
+        "mecha",
+        "orange",
+        "research",
+        "tier"
+      ],
+      "name": "Gauss C14",
+      "searchText": "gauss c14 orange in mecha form: mecha cells +2%<br>tool chests +2% in explorations tier 3 mecha research",
+      "tierColor": "orange"
+    },
+    {
+      "id": "gear_ring",
+      "keywords": [
+        "(0.2%",
+        "+80",
+        "a",
+        "area,",
+        "chance)",
+        "chest",
+        "divine",
+        "enter",
+        "gain",
+        "gear",
+        "intel",
+        "new",
+        "orange",
+        "order",
+        "ring",
+        "when",
+        "you"
+      ],
+      "name": "Gear Ring",
+      "searchText": "gear ring orange when you enter a new area, gain +80 intel divine order chest (0.2% chance)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "genji_armor",
+      "keywords": [
+        "+96",
+        "+96<br>in",
+        "[[yamato]],",
+        "armor",
+        "atk",
+        "def",
+        "genji",
+        "gloves|purple",
+        "in",
+        "orange",
+        "snail",
+        "{{retext|genji"
+      ],
+      "name": "Genji Armor",
+      "searchText": "genji armor orange in [[yamato]], snail atk +96<br>in [[yamato]], snail def +96 {{retext|genji gloves|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "gold_outfit",
+      "keywords": [
+        "+4.8%",
+        "agamemnon",
+        "civilization",
+        "defeat",
+        "dmg",
+        "elmt",
+        "gold",
+        "mask",
+        "mirage",
+        "orange",
+        "outfit",
+        "reduc"
+      ],
+      "name": "Gold Outfit",
+      "searchText": "gold outfit orange elmt dmg reduc +4.8% defeat agamemnon mask civilization mirage",
+      "tierColor": "orange"
+    },
+    {
+      "id": "hammer_of_frenzy",
+      "keywords": [
+        "(0.4%)",
+        "+16",
+        "+16<br>snail",
+        "atk",
+        "divine",
+        "each",
+        "frenzy",
+        "hammer",
+        "neutral",
+        "of",
+        "orange",
+        "round,",
+        "rush",
+        "snail"
+      ],
+      "name": "Hammer of Frenzy",
+      "searchText": "hammer of frenzy orange each round, snail rush +16<br>snail atk +16 divine neutral (0.4%)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "heaven_wings",
+      "keywords": [
+        "bracelet|purple",
+        "heaven",
+        "orange",
+        "wings",
+        "•{{retext|seething"
+      ],
+      "name": "Heaven Wings",
+      "searchText": "heaven wings orange  •{{retext|seething bracelet|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "horse_helmet",
+      "keywords": [
+        "+120",
+        "+120<br>snail",
+        "[[kemet]],",
+        "atk",
+        "dagger|purple",
+        "helmet",
+        "horse",
+        "in",
+        "orange",
+        "rush",
+        "snail",
+        "{{retext|arabic"
+      ],
+      "name": "Horse Helmet",
+      "searchText": "horse helmet orange in [[kemet]], snail atk +120<br>snail rush +120 {{retext|arabic dagger|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "imitation_vision",
+      "keywords": [
+        "($14.99)",
+        "+4%",
+        "+6%<br>round",
+        "1",
+        "dmg",
+        "gene",
+        "ii",
+        "imitation",
+        "in",
+        "orange",
+        "pack",
+        "simulations,",
+        "training",
+        "value",
+        "vision"
+      ],
+      "name": "Imitation Vision",
+      "searchText": "imitation vision orange in gene simulations, dmg +6%<br>round 1 dmg +4% gene training value pack ii ($14.99)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "indra_s_crown",
+      "keywords": [
+        "+120",
+        "+120<br>snail",
+        "[[bharata]],",
+        "atk",
+        "crown",
+        "def",
+        "exchange",
+        "in",
+        "indra's",
+        "orange",
+        "snail",
+        "{{retext|rosary|orange"
+      ],
+      "name": "Indra's Crown",
+      "searchText": "indra's crown orange in [[bharata]], snail atk +120<br>snail def +120 exchange {{retext|rosary|orange",
+      "tierColor": "orange"
+    },
+    {
+      "id": "indv_high_explosive_rifle",
+      "keywords": [
+        "+8%",
+        "+8%<br>in",
+        "[[murika]],",
+        "carbine|purple",
+        "dmg",
+        "gained",
+        "high-explosive",
+        "in",
+        "indv.",
+        "intel",
+        "orange",
+        "rifle",
+        "{{retext|m4"
+      ],
+      "name": "Indv. High-explosive Rifle",
+      "searchText": "indv. high-explosive rifle orange in [[murika]], dmg +8%<br>in [[murika]], intel gained +8% {{retext|m4 carbine|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "indv_power_armor",
+      "keywords": [
+        "+96",
+        "+96<br>in",
+        "[[murika]],",
+        "armor",
+        "atk",
+        "def",
+        "glasses|purple",
+        "in",
+        "indv.",
+        "orange",
+        "power",
+        "snail",
+        "tactical",
+        "{{retext|holograhic"
+      ],
+      "name": "Indv. Power Armor",
+      "searchText": "indv. power armor orange in [[murika]], snail atk +96<br>in [[murika]], snail def +96 {{retext|holograhic tactical glasses|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "iron_track",
+      "keywords": [
+        "(0.8%",
+        "+1.6%",
+        "chance)",
+        "chest",
+        "divine",
+        "iron",
+        "orange",
+        "order",
+        "spd",
+        "track",
+        "travel"
+      ],
+      "name": "Iron Track",
+      "searchText": "iron track orange travel spd +1.6% divine order chest (0.8% chance)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "jade_saber",
+      "keywords": [
+        "+8%",
+        "+8%<br>in",
+        "[[parsia]],",
+        "blade|purple",
+        "dmg",
+        "in",
+        "intel",
+        "jade",
+        "orange",
+        "saber",
+        "wootz",
+        "{{rewardiconwithtext|royal"
+      ],
+      "name": "Jade Saber",
+      "searchText": "jade saber orange in [[parsia]], dmg +8%<br>in [[parsia]], intel +8% {{rewardiconwithtext|royal wootz blade|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "jung_geun_s_gun",
+      "keywords": [
+        "+8%",
+        "+8%<br>in",
+        "[[koryeo]],",
+        "dmg",
+        "gained",
+        "gun",
+        "in",
+        "intel",
+        "jung-geun's",
+        "mask|purple",
+        "orange",
+        "{{retext|gas"
+      ],
+      "name": "Jung-geun's Gun",
+      "searchText": "jung-geun's gun orange in [[koryeo]], dmg +8%<br>in [[koryeo]], intel gained +8% {{retext|gas mask|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "leather_chest_armor",
+      "keywords": [
+        "(1.6%)",
+        "+2%",
+        "armor",
+        "chaos",
+        "chest",
+        "crit",
+        "divine",
+        "dmg",
+        "in",
+        "leather",
+        "mutant:",
+        "orange"
+      ],
+      "name": "Leather Chest Armor",
+      "searchText": "leather chest armor orange in mutant: crit dmg +2% divine chaos (1.6%)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "leviathan_gloves",
+      "keywords": [
+        "(0.4%)",
+        "+120<br>ignore",
+        "+60",
+        "chaos",
+        "divine",
+        "dmg",
+        "enemy",
+        "gloves",
+        "leviathan",
+        "orange",
+        "res",
+        "water"
+      ],
+      "name": "Leviathan Gloves",
+      "searchText": "leviathan gloves orange water dmg +120<br>ignore enemy water res +60 divine chaos (0.4%)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "lifebuoy",
+      "keywords": [
+        "+30",
+        "0.75%",
+        "lifebuoy",
+        "lottery",
+        "orange",
+        "res",
+        "water"
+      ],
+      "name": "Lifebuoy",
+      "searchText": "lifebuoy orange water res +30 lottery 0.75%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "lion_s_crown",
+      "keywords": [
+        "+8%",
+        "+8%<br>in",
+        "[[britland]],",
+        "cannon",
+        "crown",
+        "dmg",
+        "fleet",
+        "gained",
+        "in",
+        "intel",
+        "lion's",
+        "orange",
+        "umbrella|purple",
+        "{{retext|shotgun"
+      ],
+      "name": "Lion's Crown",
+      "searchText": "lion's crown orange in [[britland]], dmg +8%<br>in [[britland]], intel gained +8%<br>in [[britland]], fleet cannon dmg +8% {{retext|shotgun umbrella|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "lizard_belt",
+      "keywords": [
+        "(1.6%)",
+        "+300",
+        "a",
+        "belt",
+        "chaos",
+        "divine",
+        "hp",
+        "if",
+        "lizard",
+        "orange",
+        "snail",
+        "spot",
+        "weakness,",
+        "you"
+      ],
+      "name": "Lizard Belt",
+      "searchText": "lizard belt orange if you spot a weakness, snail hp +300 divine chaos (1.6%)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "lotus_platform_ix",
+      "keywords": [
+        "1,280",
+        "angel",
+        "each",
+        "form,",
+        "hp",
+        "in",
+        "ix",
+        "lotus",
+        "orange",
+        "platform",
+        "regen",
+        "round",
+        "vi|purple",
+        "{{retext|lotus"
+      ],
+      "name": "Lotus Platform IX",
+      "searchText": "lotus platform ix orange in angel form, regen 1,280 hp each round {{retext|lotus platform vi|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "magician",
+      "keywords": [
+        "+24",
+        "0.4%",
+        "all",
+        "divine",
+        "magician",
+        "neutral",
+        "orange",
+        "res"
+      ],
+      "name": "Magician",
+      "searchText": "magician orange all res +24 divine neutral 0.4%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "mark_ii",
+      "keywords": [
+        "(0.71%)",
+        "+2%",
+        "dmg",
+        "ii",
+        "in",
+        "lottery",
+        "mark",
+        "mecha:",
+        "orange",
+        "reduction"
+      ],
+      "name": "Mark II",
+      "searchText": "mark ii orange in mecha: dmg reduction +2% lottery (0.71%)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "maze_key",
+      "keywords": [
+        "#8",
+        "+24",
+        "+48<br>all",
+        "all",
+        "dmg",
+        "element",
+        "key",
+        "maze",
+        "orange",
+        "relic",
+        "res",
+        "supreme"
+      ],
+      "name": "Maze Key",
+      "searchText": "maze key orange all element dmg +48<br>all res +24 supreme relic #8",
+      "tierColor": "orange"
+    },
+    {
+      "id": "millennium_ring",
+      "keywords": [
+        "+120<br>in",
+        "[[time",
+        "atk",
+        "in",
+        "millennium",
+        "orange",
+        "rift",
+        "rift]],",
+        "ring",
+        "snail",
+        "the"
+      ],
+      "name": "Millennium Ring",
+      "searchText": "millennium ring orange in the [[time rift rift]], snail atk +120<br>in the [[time rift",
+      "tierColor": "orange"
+    },
+    {
+      "id": "mind_control_dagger",
+      "keywords": [
+        "+2%",
+        "+2%<br>time",
+        "3",
+        "cells",
+        "chests",
+        "control",
+        "dagger",
+        "exploration",
+        "form:",
+        "in",
+        "mind",
+        "mutant",
+        "orange",
+        "research",
+        "tier"
+      ],
+      "name": "Mind Control Dagger",
+      "searchText": "mind control dagger orange in mutant form: mutant cells +2%<br>time chests +2% in exploration tier 3 mutant research",
+      "tierColor": "orange"
+    },
+    {
+      "id": "nun_chuck",
+      "keywords": [
+        "#4",
+        "+2%",
+        "def",
+        "defeat",
+        "enemy",
+        "ignore",
+        "nun-chuck",
+        "orange",
+        "sewer",
+        "turtle"
+      ],
+      "name": "Nun-chuck",
+      "searchText": "nun-chuck orange ignore enemy def +2% defeat sewer turtle #4",
+      "tierColor": "orange"
+    },
+    {
+      "id": "peacock_quill",
+      "keywords": [
+        "+4%<br>in",
+        "+6%",
+        "1",
+        "1,",
+        "any",
+        "crit",
+        "dmg",
+        "for",
+        "in",
+        "of",
+        "orange",
+        "peackock",
+        "peacock",
+        "quill",
+        "realm",
+        "reward",
+        "round",
+        "throne",
+        "unlocking"
+      ],
+      "name": "Peacock Quill",
+      "searchText": "peacock quill orange for round 1, crit dmg +4%<br>in any realm dmg +6% in round 1 reward of unlocking peackock throne",
+      "tierColor": "orange"
+    },
+    {
+      "id": "pirate",
+      "keywords": [
+        "(0.8%",
+        "+20",
+        "b-tads<br>tadpoles",
+        "chance)",
+        "chaos",
+        "chest",
+        "divine",
+        "drop",
+        "enemies",
+        "explorations",
+        "gained:2,600,000",
+        "in",
+        "orange",
+        "pirate"
+      ],
+      "name": "Pirate",
+      "searchText": "pirate orange enemies in explorations drop +20 b-tads<br>tadpoles gained:2,600,000 divine chaos chest (0.8% chance)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "power_armor",
+      "keywords": [
+        "+160",
+        "0.2%",
+        "armor",
+        "chaos",
+        "divine",
+        "orange",
+        "power",
+        "tech"
+      ],
+      "name": "Power Armor",
+      "searchText": "power armor orange tech +160 divine chaos 0.2%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "prayer_staff",
+      "keywords": [
+        "+2%",
+        "+2%<br>fungus",
+        "3",
+        "angel",
+        "cells",
+        "chests",
+        "form:",
+        "in",
+        "orange",
+        "prayer",
+        "research",
+        "staff",
+        "tier"
+      ],
+      "name": "Prayer Staff",
+      "searchText": "prayer staff orange in angel form: angel cells +2%<br>fungus chests +2% tier 3 angel research",
+      "tierColor": "orange"
+    },
+    {
+      "id": "pulse_rifle",
+      "keywords": [
+        "+30",
+        "+60<br>ignore",
+        "defeating",
+        "dmg",
+        "fire",
+        "incense",
+        "orange",
+        "pulse",
+        "res",
+        "rifle",
+        "shots)",
+        "ufo(40"
+      ],
+      "name": "Pulse Rifle",
+      "searchText": "pulse rifle orange fire dmg +60<br>ignore fire res +30 defeating ufo(40 incense shots)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "ring_of_stupor",
+      "keywords": [
+        "+2.4%",
+        "15",
+        "chance",
+        "enemy",
+        "hitman",
+        "of",
+        "orange",
+        "paralysis",
+        "reward",
+        "ring",
+        "stupor",
+        "to",
+        "victory"
+      ],
+      "name": "Ring of Stupor",
+      "searchText": "ring of stupor orange chance to paralysis enemy +2.4% hitman 15 victory reward",
+      "tierColor": "orange"
+    },
+    {
+      "id": "rock",
+      "keywords": [
+        "+30",
+        "0.75%",
+        "earth",
+        "lottery",
+        "orange",
+        "res",
+        "rock"
+      ],
+      "name": "Rock",
+      "searchText": "rock orange earth res +30 lottery 0.75%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "sailor_suit",
+      "keywords": [
+        "+30",
+        "+30<br>per",
+        "10%",
+        "[[incense#special",
+        "atk",
+        "def",
+        "defeat",
+        "events",
+        "hp",
+        "incense",
+        "lost,",
+        "orange",
+        "per",
+        "sailor",
+        "snail",
+        "suit"
+      ],
+      "name": "Sailor Suit",
+      "searchText": "sailor suit orange per 10% hp lost, snail atk +30<br>per 10% hp lost, snail def +30 defeat [[incense#special incense events",
+      "tierColor": "orange"
+    },
+    {
+      "id": "saint_s_earring",
+      "keywords": [
+        "+80",
+        "0.4%",
+        "divine",
+        "earring",
+        "fth",
+        "orange",
+        "order",
+        "saint's"
+      ],
+      "name": "Saint's Earring",
+      "searchText": "saint's earring orange fth +80 divine order 0.4%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "sakabato_blade",
+      "keywords": [
+        "+2%",
+        "+3%,",
+        "1st",
+        "[[hitmen",
+        "blade",
+        "challenge:",
+        "dmg",
+        "hitman",
+        "in",
+        "intercept",
+        "orange",
+        "round",
+        "sakabato"
+      ],
+      "name": "Sakabato Blade",
+      "searchText": "sakabato blade orange in hitman challenge: dmg +3%, 1st round dmg +2% intercept [[hitmen",
+      "tierColor": "orange"
+    },
+    {
+      "id": "slippers",
+      "keywords": [
+        "(1.6%)",
+        "+30",
+        "a",
+        "divine",
+        "if",
+        "neutral",
+        "orange",
+        "rush",
+        "slippers",
+        "snail",
+        "spot",
+        "weakness,",
+        "you"
+      ],
+      "name": "Slippers",
+      "searchText": "slippers orange if you spot a weakness, snail rush +30 divine neutral (1.6%)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "spring_longsword",
+      "keywords": [
+        "(0.52%)",
+        "+4%",
+        "+4%<br>crit",
+        "crit",
+        "dmg",
+        "longsword",
+        "lottery",
+        "orange",
+        "rate",
+        "spring"
+      ],
+      "name": "Spring Longsword",
+      "searchText": "spring longsword orange crit rate +4%<br>crit dmg +4% lottery (0.52%)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "stage_hat",
+      "keywords": [
+        "+5",
+        "+5,",
+        "1.6%",
+        "art",
+        "chest",
+        "civ",
+        "divine",
+        "fame",
+        "fth",
+        "hat",
+        "orange",
+        "order",
+        "stage",
+        "tech"
+      ],
+      "name": "Stage Hat",
+      "searchText": "stage hat orange fth +5, art +5, civ +5, tech +5, fame +5 divine order chest 1.6%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "stardust_arrow",
+      "keywords": [
+        "+8%",
+        "+8%<br>every",
+        "+8%<br>in",
+        "[[hellas]],",
+        "arrow",
+        "costume",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "orange",
+        "spear|purple",
+        "stardust",
+        "stat",
+        "{{retext|hector's"
+      ],
+      "name": "Stardust Arrow",
+      "searchText": "stardust arrow orange in [[hellas]], intel gained +8%<br>in [[hellas]], dmg +8%<br>every costume stat +8% {{retext|hector's spear|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "static_belt",
+      "keywords": [
+        "+30",
+        "1.6%",
+        "belt",
+        "divine",
+        "neutral",
+        "orange",
+        "res",
+        "static",
+        "wind"
+      ],
+      "name": "Static Belt",
+      "searchText": "static belt orange wind res +30 divine neutral 1.6%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "strength_sword",
+      "keywords": [
+        "+1%",
+        "+1.5%<br>in",
+        "1",
+        "[[hitmen",
+        "any",
+        "dmg",
+        "in",
+        "intercept",
+        "orange",
+        "realm,",
+        "round",
+        "strength",
+        "sword"
+      ],
+      "name": "Strength Sword",
+      "searchText": "strength sword orange in any realm, dmg +1.5%<br>in any realm, dmg +1% in round 1 intercept [[hitmen",
+      "tierColor": "orange"
+    },
+    {
+      "id": "strong_round_shield",
+      "keywords": [
+        "+1.6%",
+        "0.8%",
+        "divine",
+        "dmg",
+        "neutral",
+        "orange",
+        "reduc",
+        "round",
+        "shield",
+        "strong"
+      ],
+      "name": "Strong Round Shield",
+      "searchText": "strong round shield orange dmg reduc +1.6% divine neutral 0.8%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "teslla",
+      "keywords": [
+        "+4%",
+        "2x",
+        "any",
+        "bead",
+        "chest",
+        "drops",
+        "in",
+        "orange",
+        "purple|purple",
+        "realm,",
+        "teslla",
+        "time",
+        "{{retext|lottery"
+      ],
+      "name": "Teslla",
+      "searchText": "teslla orange in any realm, 2x time chest drops +4% {{retext|lottery bead purple|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "the_buried",
+      "keywords": [
+        "+2%",
+        "buried",
+        "chaos(0.8%)",
+        "def",
+        "divine",
+        "in",
+        "ingore",
+        "orange",
+        "the",
+        "zombie:"
+      ],
+      "name": "The Buried",
+      "searchText": "the buried orange in zombie: ingore def +2% divine chaos(0.8%)",
+      "tierColor": "orange"
+    },
+    {
+      "id": "thorn",
+      "keywords": [
+        "+120",
+        "0.4%",
+        "chest",
+        "divine",
+        "fire",
+        "orange",
+        "order",
+        "res",
+        "thorn"
+      ],
+      "name": "Thorn",
+      "searchText": "thorn orange fire res +120 divine order chest 0.4%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "time_amulet",
+      "keywords": [
+        "+640",
+        "akamoddo",
+        "amulet",
+        "civilization",
+        "defeat",
+        "each",
+        "eye",
+        "hp",
+        "mirage",
+        "of",
+        "orange",
+        "regen",
+        "round",
+        "time"
+      ],
+      "name": "Time Amulet",
+      "searchText": "time amulet orange hp regen +640 each round defeat eye of akamoddo civilization mirage",
+      "tierColor": "orange"
+    },
+    {
+      "id": "trident",
+      "keywords": [
+        "+40%",
+        "+8%<br>lifesteal",
+        "crit",
+        "dmg",
+        "effect",
+        "godsmiter|purple",
+        "orange",
+        "trident",
+        "{{retext|dim"
+      ],
+      "name": "Trident",
+      "searchText": "trident orange crit dmg +8%<br>lifesteal effect +40% {{retext|dim godsmiter|purple",
+      "tierColor": "orange"
+    },
+    {
+      "id": "undead_staff",
+      "keywords": [
+        "+2%",
+        "+2%<br>evolution",
+        "3",
+        "cells",
+        "chests",
+        "form:",
+        "in",
+        "orange",
+        "research",
+        "staff",
+        "tier",
+        "undead",
+        "zombie"
+      ],
+      "name": "Undead Staff",
+      "searchText": "undead staff orange in zombie form: zombie cells +2%<br>evolution chests +2% tier 3 zombie research",
+      "tierColor": "orange"
+    },
+    {
+      "id": "virgo_tech",
+      "keywords": [
+        "+96",
+        "+96<br>in",
+        "[[koryeo]],",
+        "[[mailbox#koryeon",
+        "atk",
+        "commissioner",
+        "defeating",
+        "for",
+        "in",
+        "orange",
+        "reward",
+        "rush",
+        "snail",
+        "tech",
+        "virgo"
+      ],
+      "name": "Virgo Tech",
+      "searchText": "virgo tech orange in [[koryeo]], snail atk +96<br>in [[koryeo]], snail rush +96 reward for defeating [[mailbox#koryeon commissioner",
+      "tierColor": "orange"
+    },
+    {
+      "id": "walnut_wand",
+      "keywords": [
+        "+30",
+        "dmg",
+        "earth,",
+        "fire,",
+        "old",
+        "orange",
+        "reward",
+        "victory",
+        "walnut",
+        "wand",
+        "water,",
+        "wind",
+        "wizard"
+      ],
+      "name": "Walnut Wand",
+      "searchText": "walnut wand orange fire, water, earth, wind dmg +30 old wizard victory reward",
+      "tierColor": "orange"
+    },
+    {
+      "id": "windsor_s_cape",
+      "keywords": [
+        "+96",
+        "+96<br>in",
+        "[[britland]],",
+        "atk",
+        "cape",
+        "exchange",
+        "in",
+        "orange",
+        "rush",
+        "snail",
+        "windsor's",
+        "{{retext|anchor|orange"
+      ],
+      "name": "Windsor's cape",
+      "searchText": "windsor's cape orange in [[britland]], snail atk +96<br>in [[britland]], snail rush +96 exchange {{retext|anchor|orange",
+      "tierColor": "orange"
+    },
+    {
+      "id": "wisdom_cloak",
+      "keywords": [
+        "+160",
+        "0.2%",
+        "civ",
+        "cloak",
+        "divine",
+        "neutral",
+        "orange",
+        "snail",
+        "wisdom"
+      ],
+      "name": "Wisdom Cloak",
+      "searchText": "wisdom cloak orange snail civ +160 divine neutral 0.2%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "workout_top",
+      "keywords": [
+        "+2%",
+        "0.71%",
+        "dodge",
+        "lottery",
+        "orange",
+        "rate",
+        "top",
+        "workout"
+      ],
+      "name": "Workout Top",
+      "searchText": "workout top orange dodge rate +2% lottery 0.71%",
+      "tierColor": "orange"
+    },
+    {
+      "id": "agamemnon_outfit",
+      "keywords": [
+        "+7.2%",
+        "agamemnon",
+        "dmg",
+        "elmt",
+        "outfit",
+        "outfit|orange",
+        "red",
+        "reduc",
+        "{{retext|gold"
+      ],
+      "name": "Agamemnon Outfit",
+      "searchText": "agamemnon outfit red elmt dmg reduc +7.2% {{retext|gold outfit|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "amulet_of_will",
+      "keywords": [
+        "amulet",
+        "of",
+        "red",
+        "will",
+        "will|orange",
+        "{{retext|crystal"
+      ],
+      "name": "Amulet of Will",
+      "searchText": "amulet of will red  {{retext|crystal of will|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "amulet_of_will_1",
+      "keywords": [
+        "+1",
+        "amulet",
+        "of",
+        "red",
+        "will",
+        "will|red",
+        "{{retext|amulet"
+      ],
+      "name": "Amulet of Will +1",
+      "searchText": "amulet of will +1 red  {{retext|amulet of will|red",
+      "tierColor": "red"
+    },
+    {
+      "id": "ancestral_legacy",
+      "keywords": [
+        "+360",
+        "a",
+        "ancestral",
+        "def",
+        "if",
+        "legacy",
+        "mask|orange",
+        "red",
+        "snail",
+        "spot",
+        "weakness,",
+        "you",
+        "{{retext|dwarf"
+      ],
+      "name": "Ancestral Legacy",
+      "searchText": "ancestral legacy red if you spot a weakness, snail def +360 {{retext|dwarf mask|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "antimatter_armor",
+      "keywords": [
+        "+240",
+        "antimatter",
+        "armor",
+        "armor|orange",
+        "red",
+        "snail",
+        "tech",
+        "{{retext|power"
+      ],
+      "name": "Antimatter Armor",
+      "searchText": "antimatter armor red snail tech +240 {{retext|power armor|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "antimatter_shield",
+      "keywords": [
+        "+96",
+        "antimatter",
+        "def",
+        "per",
+        "red",
+        "round",
+        "shield",
+        "shield|orange",
+        "{{retext|alloy"
+      ],
+      "name": "Antimatter Shield",
+      "searchText": "antimatter shield red def +96 per round {{retext|alloy shield|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "athena_s_spear",
+      "keywords": [
+        "+12%",
+        "+12%<br>every",
+        "+12%<br>in",
+        "+120<br>in",
+        "[[hellas]],",
+        "arrow|orange",
+        "athena's",
+        "atk",
+        "costume",
+        "def",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "red",
+        "snail",
+        "spear",
+        "stat",
+        "{{retext|stardust"
+      ],
+      "name": "Athena's Spear",
+      "searchText": "athena's spear red in [[hellas]], snail atk +120<br>in [[hellas]], snail def +120<br>in [[hellas]], dmg +12%<br>in [[hellas]], intel gained +12%<br>every costume stat +12% {{retext|stardust arrow|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "azazel_s_pact",
+      "keywords": [
+        "+12%",
+        "azazel's",
+        "crit",
+        "curse|orange",
+        "demon:",
+        "in",
+        "pact",
+        "rate",
+        "red",
+        "{{retext|azazel's"
+      ],
+      "name": "Azazel's Pact",
+      "searchText": "azazel's pact red in demon: crit rate +12% {{retext|azazel's curse|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "bedrock",
+      "keywords": [
+        "+360",
+        "bedrock",
+        "earth",
+        "red",
+        "res",
+        "{{retext|rock|orange"
+      ],
+      "name": "Bedrock",
+      "searchText": "bedrock red earth res +360 {{retext|rock|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "big_bounce",
+      "keywords": [
+        "+12%",
+        "+12%<br>crit",
+        "big",
+        "bounce",
+        "crit",
+        "dmg",
+        "longsword|orange",
+        "rate",
+        "red",
+        "{{retext|spring"
+      ],
+      "name": "Big Bounce",
+      "searchText": "big bounce red crit rate +12%<br>crit dmg +12% {{retext|spring longsword|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "blair_s_curse",
+      "keywords": [
+        "+12%",
+        "+18%<br>in",
+        "1",
+        "arena,",
+        "blair's",
+        "curse",
+        "dmg",
+        "hook|orange",
+        "in",
+        "red",
+        "round",
+        "snail",
+        "{{retext|butcher's"
+      ],
+      "name": "Blair's Curse",
+      "searchText": "blair's curse red in snail arena, dmg +18%<br>in snail arena, round 1 dmg +12% {{retext|butcher's hook|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "bullet_storm",
+      "keywords": [
+        "+12%",
+        "+12%<br>in",
+        "+120<br>in",
+        "[[murika]],",
+        "armor|orange",
+        "atk",
+        "bullet",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "power",
+        "red",
+        "rush",
+        "snail",
+        "storm",
+        "{{retext|indv."
+      ],
+      "name": "Bullet Storm",
+      "searchText": "bullet storm red in [[murika]], snail atk +120<br>in [[murika]], snail rush +120<br>in [[murika]], dmg +12%<br>in [[murika]], intel gained +12% {{retext|indv. power armor|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "caesar_s_crown",
+      "keywords": [
+        "+240",
+        "caesar's",
+        "crown",
+        "of",
+        "power|orange",
+        "red",
+        "snail",
+        "tech",
+        "{{retext|crown"
+      ],
+      "name": "Caesar's Crown",
+      "searchText": "caesar's crown red snail tech +240 {{retext|crown of power|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "caladbolg",
+      "keywords": [
+        "+180",
+        "+180<br>in",
+        "caladbolg",
+        "caladbolg|orange",
+        "dragon",
+        "form,",
+        "ignore",
+        "in",
+        "red",
+        "res",
+        "water",
+        "wind",
+        "{{retext|broken"
+      ],
+      "name": "Caladbolg",
+      "searchText": "caladbolg red in dragon form, ignore water res +180<br>in dragon form, ignore wind res +180 {{retext|broken caladbolg|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "centaur_armor",
+      "keywords": [
+        "+24%",
+        "armor",
+        "armor|orange",
+        "centaur",
+        "chest",
+        "crit",
+        "dmg",
+        "form,",
+        "in",
+        "mutant",
+        "red",
+        "{{retext|leather"
+      ],
+      "name": "Centaur Armor",
+      "searchText": "centaur armor red in mutant form, crit dmg +24% {{retext|leather chest armor|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "claw_of_destruction",
+      "keywords": [
+        "+720",
+        "claw",
+        "claw|orange",
+        "destruction",
+        "dmg",
+        "dragon",
+        "dragon:",
+        "fire",
+        "in",
+        "of",
+        "red",
+        "{{retext|crimson"
+      ],
+      "name": "Claw of Destruction",
+      "searchText": "claw of destruction red in dragon: fire dmg +720 {{retext|crimson dragon claw|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "cretaceous_weapon",
+      "keywords": [
+        "+180",
+        "+360<br>ignore",
+        "cretaceous",
+        "dmg",
+        "earth",
+        "red",
+        "res",
+        "weapon",
+        "{{retext|fossil|orange"
+      ],
+      "name": "Cretaceous Weapon",
+      "searchText": "cretaceous weapon red earth dmg +360<br>ignore earth res +180 {{retext|fossil|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "crown_of_eternal_daylight",
+      "keywords": [
+        "+12%",
+        "+12%<br>in",
+        "+150<br>in",
+        "[[britland]],",
+        "atk",
+        "cannon",
+        "crown",
+        "crown|orange",
+        "daylight",
+        "dmg",
+        "eternal",
+        "fleet",
+        "gained",
+        "in",
+        "intel",
+        "of",
+        "red",
+        "rush",
+        "snail",
+        "{{retext|lion's"
+      ],
+      "name": "Crown of Eternal Daylight",
+      "searchText": "crown of eternal daylight red in [[britland]], snail atk +150<br>in [[britland]], snail rush +150<br>in [[britland]], dmg +12%<br>in [[britland]], intel gained +12%<br>in [[britland]], fleet cannon dmg +12% {{retext|lion's crown|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "dark_strength",
+      "keywords": [
+        "(1v1),",
+        "+12%",
+        "+18%<br>in",
+        "1",
+        "dark",
+        "dmg",
+        "domain",
+        "duels",
+        "for",
+        "in",
+        "red",
+        "round",
+        "saber|orange",
+        "strength",
+        "{{retext|anti-strength"
+      ],
+      "name": "Dark Strength",
+      "searchText": "dark strength red in domain duels (1v1), dmg +18%<br>in domain duels (1v1), dmg +12% for round 1 {{retext|anti-strength saber|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "deepsea_helmet",
+      "keywords": [
+        "+12%",
+        "2x",
+        "any",
+        "cell",
+        "deepsea",
+        "demon",
+        "drops",
+        "god",
+        "helmet",
+        "in",
+        "realm,",
+        "red",
+        "{{retext|diver|orange"
+      ],
+      "name": "Deepsea Helmet",
+      "searchText": "deepsea helmet red in any realm, 2x demon god cell drops +12% {{retext|diver|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "demon_god_amulet",
+      "keywords": [
+        "amulet",
+        "crystal|orange",
+        "demon",
+        "god",
+        "red",
+        "{{retext|demon"
+      ],
+      "name": "Demon God Amulet",
+      "searchText": "demon god amulet red  {{retext|demon god crystal|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "district_9",
+      "keywords": [
+        "+180",
+        "+360<br>ignore",
+        "9",
+        "district",
+        "dmg",
+        "fire",
+        "red",
+        "res",
+        "rifle|orange",
+        "{{retext|pulse"
+      ],
+      "name": "District 9",
+      "searchText": "district 9 red fire dmg +360<br>ignore fire res +180 {{retext|pulse rifle|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "dracula_cape",
+      "keywords": [
+        "+12%<br>lifesteal",
+        "+60%",
+        "cape",
+        "dracula",
+        "effect",
+        "lifesteal",
+        "rate",
+        "red",
+        "shroud|orange",
+        "{{retext|death"
+      ],
+      "name": "Dracula Cape",
+      "searchText": "dracula cape red lifesteal rate +12%<br>lifesteal effect +60% {{retext|death shroud|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "dragon_horn",
+      "keywords": [
+        "+180",
+        "+180<br>in",
+        "dragon",
+        "earth",
+        "fire",
+        "form,",
+        "horn",
+        "horn|orange",
+        "ignore",
+        "in",
+        "red",
+        "res",
+        "{{retext|dragon"
+      ],
+      "name": "Dragon Horn",
+      "searchText": "dragon horn red in dragon form, ignore fire res +180<br>in dragon form, ignore earth res +180 {{retext|dragon horn|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "empress_gloves",
+      "keywords": [
+        "+360",
+        "a",
+        "atk",
+        "empress",
+        "gloves",
+        "gloves|orange",
+        "if",
+        "red",
+        "snail",
+        "spot",
+        "weakness,",
+        "you",
+        "{{retext|elegant"
+      ],
+      "name": "Empress Gloves",
+      "searchText": "empress gloves red if you spot a weakness, snail atk +360 {{retext|elegant gloves|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "empress_slippers",
+      "keywords": [
+        "+360",
+        "a",
+        "empress'",
+        "if",
+        "red",
+        "rush",
+        "slippers",
+        "snail",
+        "spot",
+        "weakness,",
+        "you",
+        "{{retext|slippers|orange"
+      ],
+      "name": "Empress' Slippers",
+      "searchText": "empress' slippers red if you spot a weakness, snail rush +360 {{retext|slippers|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "excaladbolg",
+      "keywords": [
+        "+12%<br>in",
+        "+180",
+        "+180<br>in",
+        "def",
+        "dragon",
+        "earth",
+        "excaladbolg",
+        "fire",
+        "form,",
+        "ignore",
+        "in",
+        "rage|red",
+        "red",
+        "res",
+        "water",
+        "wind",
+        "{{retext|exploding"
+      ],
+      "name": "Excaladbolg",
+      "searchText": "excaladbolg red in dragon form, ignore def +12%<br>in dragon form, ignore fire res +180<br>in dragon form, ignore water res +180<br>in dragon form, ignore earth res +180<br>in dragon form, ignore wind res +180 {{retext|exploding rage|red",
+      "tierColor": "red"
+    },
+    {
+      "id": "excalibur_ex",
+      "keywords": [
+        "+240",
+        "atk",
+        "ex",
+        "excalibur",
+        "ex|orange",
+        "red",
+        "{{retext|excalibur"
+      ],
+      "name": "Excalibur EX",
+      "searchText": "excalibur ex red atk +240 {{retext|excalibur ex|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "exploding_rage",
+      "keywords": [
+        "+12%",
+        "def",
+        "dragon",
+        "exploding",
+        "form,",
+        "ignore",
+        "in",
+        "of",
+        "rage",
+        "rage|orange",
+        "red",
+        "{{retext|fire"
+      ],
+      "name": "Exploding Rage",
+      "searchText": "exploding rage red in dragon form, ignore def +12% {{retext|fire of rage|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "eye_of_akamoddo_amulet",
+      "keywords": [
+        "960",
+        "akamoddo",
+        "amulet",
+        "amulet|orange",
+        "each",
+        "eye",
+        "hp",
+        "of",
+        "red",
+        "restore",
+        "round",
+        "{{retext|time"
+      ],
+      "name": "Eye of Akamoddo Amulet",
+      "searchText": "eye of akamoddo amulet red restore 960 hp each round {{retext|time amulet|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "fang_of_tiamat",
+      "keywords": [
+        "+12%",
+        "12%",
+        "cells<br>gain",
+        "chests",
+        "dagger|orange",
+        "dragon",
+        "explorations",
+        "fang",
+        "form:",
+        "gain",
+        "in",
+        "of",
+        "red",
+        "tiamat",
+        "{{retext|dragon"
+      ],
+      "name": "Fang of Tiamat",
+      "searchText": "fang of tiamat red in dragon form: gain +12% cells<br>gain 12% dragon chests in explorations {{retext|dragon fang dagger|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "fortress",
+      "keywords": [
+        "+9.6%",
+        "dmg",
+        "fortress",
+        "red",
+        "reduction",
+        "round",
+        "shield|orange",
+        "{{retext|strong"
+      ],
+      "name": "Fortress",
+      "searchText": "fortress red dmg reduction +9.6% {{retext|strong round shield|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "gauss_m72",
+      "keywords": [
+        "+12%",
+        "+12%<br>tool",
+        "c14|orange",
+        "cells",
+        "chests",
+        "explorations",
+        "form:",
+        "gauss",
+        "in",
+        "m72",
+        "mecha",
+        "red",
+        "{{retext|gauss"
+      ],
+      "name": "Gauss M72",
+      "searchText": "gauss m72 red in mecha form: mecha cells +12%<br>tool chests +12% in explorations {{retext|gauss c14|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "gilded_belt",
+      "keywords": [
+        "+3600",
+        "a",
+        "belt",
+        "belt|orange",
+        "gilded",
+        "hp",
+        "if",
+        "red",
+        "snail",
+        "spot",
+        "weakness,",
+        "you",
+        "{{retext|lizard"
+      ],
+      "name": "Gilded Belt",
+      "searchText": "gilded belt red if you spot a weakness, snail hp +3600 {{retext|lizard belt|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "golden_drazgul_fang",
+      "keywords": [
+        "+12%",
+        "+360<br>crit",
+        "dmg",
+        "drazgul",
+        "fang",
+        "fang|orange",
+        "golden",
+        "poison",
+        "rate",
+        "red",
+        "{{retext|drazgul"
+      ],
+      "name": "Golden Drazgul Fang",
+      "searchText": "golden drazgul fang red poison dmg +360<br>crit rate +12% {{retext|drazgul fang|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "grandpire_s_robe",
+      "keywords": [
+        "+360",
+        "+360<br>per",
+        "10%",
+        "atk",
+        "def",
+        "grandpire's",
+        "hp",
+        "lost,",
+        "per",
+        "red",
+        "robe",
+        "snail",
+        "suit|orange",
+        "{{retext|sailor"
+      ],
+      "name": "Grandpire's Robe",
+      "searchText": "grandpire's robe red per 10% hp lost, snail atk +360<br>per 10% hp lost, snail def +360 {{retext|sailor suit|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "heart_of_nature",
+      "keywords": [
+        "+360",
+        "fire",
+        "heart",
+        "nature",
+        "of",
+        "red",
+        "res",
+        "{{retext|thorn|orange"
+      ],
+      "name": "Heart of Nature",
+      "searchText": "heart of nature red fire res +360 {{retext|thorn|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "hydra_s_gloves",
+      "keywords": [
+        "+180",
+        "+360<br>ignore",
+        "dmg",
+        "gloves",
+        "gloves|orange",
+        "hydra's",
+        "red",
+        "res",
+        "water",
+        "{{retext|leviathan"
+      ],
+      "name": "Hydra's Gloves",
+      "searchText": "hydra's gloves red water dmg +360<br>ignore water res +180 {{retext|leviathan gloves|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "incredible_key",
+      "keywords": [
+        "+36",
+        "+72<br>all",
+        "all",
+        "dmg",
+        "element",
+        "incredible",
+        "key",
+        "key|orange",
+        "red",
+        "res",
+        "{{retext|maze"
+      ],
+      "name": "Incredible Key",
+      "searchText": "incredible key red all element dmg +72<br>all res +36 {{retext|maze key|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "know_it_all_device",
+      "keywords": [
+        "+720",
+        "detector|orange",
+        "device",
+        "dmg",
+        "extra",
+        "know-it-all",
+        "red",
+        "rush",
+        "{{retext|battle"
+      ],
+      "name": "Know-It-All Device",
+      "searchText": "know-it-all device red extra rush dmg +720 {{retext|battle detector|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "lion_king_s_sword",
+      "keywords": [
+        "+12%",
+        "+12%<br>in",
+        "+150<br>in",
+        "[[kemet]],",
+        "atk",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "king's",
+        "knife|orange",
+        "lion",
+        "red",
+        "rush",
+        "snail",
+        "sword",
+        "{{retext|damascus"
+      ],
+      "name": "Lion King's Sword",
+      "searchText": "lion king's sword red in [[kemet]], snail atk +150<br>in [[kemet]], snail rush +150<br>in [[kemet]], snail dmg +12%<br>in [[kemet]], intel gained +12% {{retext|damascus knife|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "lotus_platform_xii",
+      "keywords": [
+        "1,920",
+        "angel",
+        "each",
+        "form,",
+        "hp",
+        "in",
+        "ix|orange",
+        "lotus",
+        "platform",
+        "red",
+        "regen",
+        "round",
+        "xii",
+        "{{retext|lotus"
+      ],
+      "name": "Lotus Platform XII",
+      "searchText": "lotus platform xii red in angel form, regen 1,920 hp each round {{retext|lotus platform ix|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "mark_iv",
+      "keywords": [
+        "+12%",
+        "dmg",
+        "ii|orange",
+        "in",
+        "iv",
+        "mark",
+        "mecha:",
+        "red",
+        "reduction",
+        "{{retext|mark"
+      ],
+      "name": "Mark IV",
+      "searchText": "mark iv red in mecha: dmg reduction +12% {{retext|mark ii|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "michael_s_earrings",
+      "keywords": [
+        "+240",
+        "earrings",
+        "earring|orange",
+        "fth",
+        "michael's",
+        "red",
+        "snail",
+        "{{retext|saint's"
+      ],
+      "name": "Michael's Earrings",
+      "searchText": "michael's earrings red snail fth +240 {{retext|saint's earring|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "million_volts",
+      "keywords": [
+        "+180",
+        "+360<br>ignore",
+        "dmg",
+        "enemy",
+        "hammer|orange",
+        "million",
+        "red",
+        "res",
+        "volts",
+        "wind",
+        "{{retext|electric"
+      ],
+      "name": "Million Volts",
+      "searchText": "million volts red wind dmg +360<br>ignore enemy wind res +180 {{retext|electric hammer|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "mithraic_bow_and_spear",
+      "keywords": [
+        "&",
+        "+12%",
+        "+12%<br>in",
+        "+150<br>in",
+        "[[parsia]],",
+        "atk",
+        "bow",
+        "dmg",
+        "in",
+        "intel",
+        "mithraic",
+        "red",
+        "rush",
+        "spear",
+        "spear|orange",
+        "{{retext|jade"
+      ],
+      "name": "Mithraic Bow & Spear",
+      "searchText": "mithraic bow & spear red in [[parsia]], atk +150<br>in [[parsia]], rush +150<br>in [[parsia]], dmg +12%<br>in [[parsia]], intel +12% {{retext|jade spear|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "norris_chuck",
+      "keywords": [
+        "+12%",
+        "def",
+        "enemy",
+        "ignore",
+        "norris-chuck",
+        "red",
+        "{{retext|nun-chuck|orange"
+      ],
+      "name": "Norris-chuck",
+      "searchText": "norris-chuck red ignore enemy def +12% {{retext|nun-chuck|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "ogma_s_cloak",
+      "keywords": [
+        "+240",
+        "civ",
+        "cloak",
+        "cloak|orange",
+        "ogma's",
+        "red",
+        "snail",
+        "{{retext|wisdom"
+      ],
+      "name": "Ogma's Cloak",
+      "searchText": "ogma's cloak red snail civ +240 {{retext|wisdom cloak|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "oldman_wand",
+      "keywords": [
+        "+240",
+        "dmg",
+        "earth,",
+        "fire,",
+        "oldman",
+        "red",
+        "wand",
+        "wand|orange",
+        "water,",
+        "wind",
+        "{{retext|walnut"
+      ],
+      "name": "Oldman Wand",
+      "searchText": "oldman wand red fire, water, earth, wind dmg +240 {{retext|walnut wand|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "overlord_s_hook",
+      "keywords": [
+        "+120",
+        "3,200,000",
+        "b-tads<br>tadpoles",
+        "drop",
+        "enemies",
+        "exploration",
+        "gained:",
+        "hook",
+        "in",
+        "overlord's",
+        "red",
+        "{{retext|pirate|orange"
+      ],
+      "name": "Overlord's Hook",
+      "searchText": "overlord's hook red enemies in exploration drop +120 b-tads<br>tadpoles gained: 3,200,000 {{retext|pirate|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "poseidon_s_blessing",
+      "keywords": [
+        "+360",
+        "blessing",
+        "poseidon's",
+        "red",
+        "res",
+        "water",
+        "{{retext|lifebuoy|orange"
+      ],
+      "name": "Poseidon's Blessing",
+      "searchText": "poseidon's blessing red water res +360 {{retext|lifebuoy|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "poseidon_s_trident",
+      "keywords": [
+        "+12%<br>lifesteal",
+        "+60%",
+        "crit",
+        "dmg",
+        "effect",
+        "poseidon's",
+        "red",
+        "trident",
+        "{{retext|trident|orange"
+      ],
+      "name": "Poseidon's Trident",
+      "searchText": "poseidon's trident red crit dmg +12%<br>lifesteal effect +60% {{retext|trident|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "power_spinach",
+      "keywords": [
+        "+48",
+        "+48<br>snail",
+        "atk",
+        "each",
+        "frenzy|orange",
+        "of",
+        "power",
+        "red",
+        "round,",
+        "rush",
+        "snail",
+        "spinach",
+        "{{retext|hammer"
+      ],
+      "name": "Power Spinach",
+      "searchText": "power spinach red each round, snail rush +48<br>snail atk +48 {{retext|hammer of frenzy|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "rama_greataxe",
+      "keywords": [
+        "+12%",
+        "+12%<br>in",
+        "+150<br>in",
+        "[[bharata]],",
+        "atk",
+        "dmg",
+        "gained",
+        "greataxe",
+        "in",
+        "intel",
+        "rama",
+        "red",
+        "rush",
+        "snail",
+        "sword|orange",
+        "{{retext|ashoka's"
+      ],
+      "name": "Rama Greataxe",
+      "searchText": "rama greataxe red in [[bharata]], snail atk +150<br>in [[bharata]], snail rush +150<br>in [[bharata]], snail dmg +12%<br>in [[bharata]], intel gained +12% {{retext|ashoka's sword|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "ring_of_paralysis",
+      "keywords": [
+        "+7.2%",
+        "chance",
+        "enemy",
+        "of",
+        "paralysis",
+        "red",
+        "ring",
+        "stupor|orange",
+        "to",
+        "{{retext|ring"
+      ],
+      "name": "Ring of Paralysis",
+      "searchText": "ring of paralysis red chance to paralysis enemy +7.2% {{retext|ring of stupor|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "selene_amulet",
+      "keywords": [
+        "+240",
+        "amulet",
+        "art",
+        "cape|orange",
+        "red",
+        "selene",
+        "snail",
+        "{{retext|elven"
+      ],
+      "name": "Selene Amulet",
+      "searchText": "selene amulet red snail art +240 {{retext|elven cape|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "septreasure_peacock_quill",
+      "keywords": [
+        "+12%<br>when",
+        "+18%",
+        "1",
+        "1,",
+        "crit",
+        "dmg",
+        "exploring,",
+        "for",
+        "in",
+        "peacock",
+        "quill",
+        "quill|orange",
+        "red",
+        "round",
+        "septreasure",
+        "{{retext|peacock"
+      ],
+      "name": "Septreasure Peacock Quill",
+      "searchText": "septreasure peacock quill red for round 1, crit dmg +12%<br>when exploring, dmg +18% in round 1 {{retext|peacock quill|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "seraph_s_light",
+      "keywords": [
+        "+12%",
+        "+12%<br>fungus",
+        "angel",
+        "cells",
+        "chests",
+        "exploration",
+        "form:",
+        "in",
+        "light",
+        "red",
+        "seraph's",
+        "staff|orange",
+        "{{retext|prayer"
+      ],
+      "name": "Seraph's Light",
+      "searchText": "seraph's light red in angel form: angel cells +12%<br>fungus chests +12% in exploration {{retext|prayer staff|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "serket_staff",
+      "keywords": [
+        "+12%",
+        "+12%<br>evolution",
+        "cells",
+        "chests",
+        "exploration",
+        "form:",
+        "in",
+        "red",
+        "serket",
+        "staff",
+        "staff|orange",
+        "zombie",
+        "{{retext|undead"
+      ],
+      "name": "Serket Staff",
+      "searchText": "serket staff red in zombie form: zombie cells +12%<br>evolution chests +12% in exploration {{retext|undead staff|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "sky_piercer",
+      "keywords": [
+        "+12%",
+        "+12%<br>in",
+        "+120<br>in",
+        "[[cathay]],",
+        "atk",
+        "dmg",
+        "gained",
+        "in",
+        "intel",
+        "piercer",
+        "red",
+        "rush",
+        "sky",
+        "snail",
+        "spear|orange",
+        "{{retext|conqueror"
+      ],
+      "name": "Sky Piercer",
+      "searchText": "sky piercer red in [[cathay]], snail atk +120<br>in [[cathay]], snail rush +120<br>in [[cathay]], dmg +12%<br>in [[cathay]], intel gained +12% {{retext|conqueror spear|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "soul_reaper",
+      "keywords": [
+        "+12%",
+        "+12%<br>soul",
+        "cells",
+        "chests",
+        "demon",
+        "demon:",
+        "exploration",
+        "in",
+        "reaper",
+        "red",
+        "scythe|orange",
+        "soul",
+        "{{retext|demon"
+      ],
+      "name": "Soul Reaper",
+      "searchText": "soul reaper red in demon: demon cells +12%<br>soul chests +12% in exploration {{retext|demon scythe|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "soul_walking",
+      "keywords": [
+        "+12%",
+        "buried|orange",
+        "def",
+        "form,",
+        "ignore",
+        "in",
+        "red",
+        "soul",
+        "walking",
+        "zombie",
+        "{{retext|the"
+      ],
+      "name": "Soul Walking",
+      "searchText": "soul walking red in zombie form, ignore def +12% {{retext|the buried|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "spacetime_exile",
+      "keywords": [
+        "+150<br>in",
+        "[[time",
+        "atk",
+        "exile",
+        "in",
+        "red",
+        "rift",
+        "rift]],",
+        "snail",
+        "spacetime",
+        "the"
+      ],
+      "name": "Spacetime Exile",
+      "searchText": "spacetime exile red in the [[time rift rift]], snail atk +150<br>in the [[time rift",
+      "tierColor": "red"
+    },
+    {
+      "id": "strength_master_s_sword",
+      "keywords": [
+        "+12%",
+        "+18%<br>in",
+        "1",
+        "any",
+        "dmg",
+        "in",
+        "master's",
+        "realm,",
+        "red",
+        "round",
+        "strength",
+        "sword",
+        "sword|orange",
+        "{{retext|strength"
+      ],
+      "name": "Strength Master's Sword",
+      "searchText": "strength master's sword red in any realm, dmg +18%<br>in any realm, dmg +12% in round 1 {{retext|strength sword|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "subspace_blade",
+      "keywords": [
+        "+12%",
+        "+12%<br>time",
+        "blade",
+        "cells",
+        "chests",
+        "control",
+        "dagger|orange",
+        "exploration",
+        "form:",
+        "in",
+        "mutant",
+        "red",
+        "subspace",
+        "{{retext|mind"
+      ],
+      "name": "Subspace Blade",
+      "searchText": "subspace blade red in mutant form: mutant cells +12%<br>time chests +12% in exploration {{retext|mind control dagger|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "super_warrior",
+      "keywords": [
+        "+12%",
+        "crit",
+        "dmg",
+        "red",
+        "reduc",
+        "super",
+        "warrior",
+        "{{retext|chief|orange"
+      ],
+      "name": "Super Warrior",
+      "searchText": "super warrior red crit dmg reduc +12% {{retext|chief|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "sword_futsuno",
+      "keywords": [
+        "+12%",
+        "+12%<br>in",
+        "+120<br>in",
+        "[[yamato]],",
+        "atk",
+        "dmg",
+        "futsuno",
+        "gained",
+        "in",
+        "intel",
+        "murasame|orange",
+        "red",
+        "rush",
+        "snail",
+        "sword",
+        "{{retext|blade"
+      ],
+      "name": "Sword Futsuno",
+      "searchText": "sword futsuno red in [[yamato]], snail atk +120<br>in [[yamato]], snail rush +120<br>in [[yamato]], dmg +12%<br>in [[yamato]], intel gained +12% {{retext|blade murasame|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "the_great_collector",
+      "keywords": [
+        "+24",
+        "110,000",
+        "are",
+        "collector",
+        "drop",
+        "enemies",
+        "exploration",
+        "gained:",
+        "great",
+        "helm|orange",
+        "in",
+        "lucky!)<br>tadpoles",
+        "really",
+        "red",
+        "the",
+        "w-tads<br>(only",
+        "when",
+        "you",
+        "{{retext|curator's"
+      ],
+      "name": "The Great Collector",
+      "searchText": "the great collector red enemies in exploration drop +24 w-tads<br>(only when you are really lucky!)<br>tadpoles gained: 110,000 {{retext|curator's helm|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "the_great_engineer",
+      "keywords": [
+        "120",
+        "an",
+        "area:",
+        "engineer",
+        "gain",
+        "great",
+        "intel",
+        "red",
+        "ring|orange",
+        "the",
+        "through",
+        "traveling",
+        "upon",
+        "{{retext|gear"
+      ],
+      "name": "The Great Engineer",
+      "searchText": "the great engineer red upon traveling through an area: gain 120 intel {{retext|gear ring|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "the_great_entertainer",
+      "keywords": [
+        "+60",
+        "+60<br>art",
+        "+60<br>civ",
+        "+60<br>fame",
+        "+60<br>tech",
+        "entertainer",
+        "fth",
+        "great",
+        "hat|orange",
+        "red",
+        "the",
+        "{{retext|stage"
+      ],
+      "name": "The Great Entertainer",
+      "searchText": "the great entertainer red fth +60<br>art +60<br>civ +60<br>tech +60<br>fame +60 {{retext|stage hat|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "the_great_magician",
+      "keywords": [
+        "+72",
+        "all",
+        "great",
+        "magician",
+        "red",
+        "res",
+        "the",
+        "{{retext|magician|orange"
+      ],
+      "name": "The Great Magician",
+      "searchText": "the great magician red all res +72 {{retext|magician|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "the_great_scientist",
+      "keywords": [
+        "+12%",
+        "2x",
+        "chests",
+        "drops",
+        "exploring,",
+        "great",
+        "red",
+        "scientist",
+        "the",
+        "time",
+        "when",
+        "{{retext|teslla|orange"
+      ],
+      "name": "The Great Scientist",
+      "searchText": "the great scientist red when exploring, 2x time chests drops +12% {{retext|teslla|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "thunder_belt",
+      "keywords": [
+        "+360",
+        "belt",
+        "belt|orange",
+        "red",
+        "res",
+        "thunder",
+        "wind",
+        "{{retext|static"
+      ],
+      "name": "Thunder Belt",
+      "searchText": "thunder belt red wind res +360 {{retext|static belt|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "time_wanderer",
+      "keywords": [
+        "+20%",
+        "+20%<br>in",
+        "+2000<br>in",
+        "+200<br>in",
+        "atk",
+        "def",
+        "dmg",
+        "exile|red",
+        "explorations,",
+        "gained",
+        "hp",
+        "in",
+        "intel",
+        "red",
+        "rush",
+        "snail",
+        "time",
+        "wanderer",
+        "{{rewardiconwithtext|spacetime"
+      ],
+      "name": "Time Wanderer",
+      "searchText": "time wanderer red in explorations, snail hp +2000<br>in explorations, snail atk +200<br>in explorations, snail def +200<br>in explorations, snail rush +200<br>in explorations, intel gained +20%<br>in explorations, dmg +20% {{rewardiconwithtext|spacetime exile|red",
+      "tierColor": "red"
+    },
+    {
+      "id": "traveler_outfit",
+      "keywords": [
+        "+12%",
+        "dodge",
+        "outfit",
+        "rate",
+        "red",
+        "top|orange",
+        "traveler",
+        "{{retext|workout"
+      ],
+      "name": "Traveler Outfit",
+      "searchText": "traveler outfit red dodge rate +12% {{retext|workout top|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "tremendous_support",
+      "keywords": [
+        "+9.6%",
+        "red",
+        "spd",
+        "support",
+        "track|orange",
+        "travel",
+        "tremendous",
+        "{{retext|iron"
+      ],
+      "name": "Tremendous Support",
+      "searchText": "tremendous support red travel spd +9.6% {{retext|iron track|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "true_sakabato",
+      "keywords": [
+        "+12%",
+        "+18%<br>1st",
+        "againt",
+        "blade|orange",
+        "daily",
+        "dmg",
+        "hitmen,dmg",
+        "red",
+        "round",
+        "sakabato",
+        "true",
+        "{{retext|sakabato"
+      ],
+      "name": "True Sakabato",
+      "searchText": "true sakabato red againt daily hitmen,dmg +18%<br>1st round dmg +12% {{retext|sakabato blade|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "virtual_vision",
+      "keywords": [
+        "+12%",
+        "+18%<br>in",
+        "1",
+        "dmg",
+        "gene",
+        "in",
+        "red",
+        "round",
+        "simulations,",
+        "virtual",
+        "vision",
+        "vision|orange",
+        "{{retext|imitation"
+      ],
+      "name": "Virtual Vision",
+      "searchText": "virtual vision red in gene simulations, dmg +18%<br>in gene simulations, round 1 dmg +12% {{retext|imitation vision|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "w_tadpole_sword",
+      "keywords": [
+        "+12<br>ignore",
+        "+36",
+        "all",
+        "hit",
+        "red",
+        "res",
+        "sword",
+        "sword|orange",
+        "w-tadpole",
+        "{{retext|b-tadpole"
+      ],
+      "name": "W-Tadpole Sword",
+      "searchText": "w-tadpole sword red hit +12<br>ignore all res +36 {{retext|b-tadpole sword|orange",
+      "tierColor": "red"
+    },
+    {
+      "id": "warmonger_s_gun",
+      "keywords": [
+        "+12%",
+        "+12%<br>in",
+        "+120<br>in",
+        "[[koryeo]],",
+        "atk",
+        "dmg",
+        "gained",
+        "gun",
+        "in",
+        "intel",
+        "red",
+        "rush",
+        "snail",
+        "tech|orange",
+        "warmonger's",
+        "{{retext|virgo"
+      ],
+      "name": "Warmonger's Gun",
+      "searchText": "warmonger's gun red in [[koryeo]], snail atk +120<br>in [[koryeo]], snail rush +120<br>in [[koryeo]], snail dmg +12%<br>in [[koryeo]], intel gained +12% {{retext|virgo tech|orange",
+      "tierColor": "red"
+    }
+  ]
+}
