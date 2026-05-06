@@ -1,0 +1,1123 @@
+{
+  "generated_at": "2026-05-06T17:39:32.664017+00:00",
+  "matched_after": 312,
+  "missing_count_before": 12,
+  "new_icon_records": [
+    {
+      "attribution_note": "Resolved during Phase 1D.1 missing icon fallback lookup.",
+      "category": "gear",
+      "description_url": "https://supersnail.wiki.gg/wiki/File:Lotus_Platform.png",
+      "entity_refs": [
+        "lotus_platform_iii"
+      ],
+      "hash_sha256": "b0826796edf6fc512ca1d539a18326d159368d465dbb2506dd77ec5d58ab55b8",
+      "height": 185,
+      "icon_filename": "Lotus Platform.png",
+      "id": "lotus_platform",
+      "license_note": "Source: Super Snail wiki.gg. Preserve attribution and verify license before public redistribution.",
+      "local_path": "game/assets/icons/gear/Lotus_Platform.png",
+      "mime_type": "image/png",
+      "original_url": "https://supersnail.wiki.gg/images/Lotus_Platform.png?247270",
+      "resolution_note": {
+        "original_icon_filename": "",
+        "similarity": 0.875
+      },
+      "retrieved_at": "2026-05-06T17:39:32.664017+00:00",
+      "size_bytes": 53107,
+      "source_title": "File:Lotus Platform.png",
+      "width": 195,
+      "wiki_sha1": "2472709d0bbf12ef025e8b33608ed513ae5e46a4",
+      "wiki_size_bytes": 58454
+    },
+    {
+      "attribution_note": "Resolved during Phase 1D.1 missing icon fallback lookup.",
+      "category": "gear",
+      "description_url": "https://supersnail.wiki.gg/wiki/File:Assassin%27s_Token.png",
+      "entity_refs": [
+        "assassin_s_gauntlet"
+      ],
+      "hash_sha256": "5c39d3ca8c8c8c980ff187f213a961258023d05660b83d6d1515f6345f2e186c",
+      "height": 152,
+      "icon_filename": "Assassin's_Token.png",
+      "id": "assassin_s_token",
+      "license_note": "Source: Super Snail wiki.gg. Preserve attribution and verify license before public redistribution.",
+      "local_path": "game/assets/icons/gear/Assassin_s_Token.png",
+      "mime_type": "image/png",
+      "original_url": "https://supersnail.wiki.gg/images/Assassin%27s_Token.png?12cf48",
+      "resolution_note": {
+        "original_icon_filename": "",
+        "similarity": 0.6857142857142857
+      },
+      "retrieved_at": "2026-05-06T17:39:32.664017+00:00",
+      "size_bytes": 9637,
+      "source_title": "File:Assassin's Token.png",
+      "width": 152,
+      "wiki_sha1": "12cf48517dc2796c9af87f393e24c0df1a3dc366",
+      "wiki_size_bytes": 15754
+    },
+    {
+      "attribution_note": "Resolved during Phase 1D.1 missing icon fallback lookup.",
+      "category": "gear",
+      "description_url": "https://supersnail.wiki.gg/wiki/File:Genji_Shield.png",
+      "entity_refs": [
+        "feline_shield"
+      ],
+      "hash_sha256": "31f9f5b31a54794bab02a52b25600294222d2b14e6b993daf375783b5077558d",
+      "height": 209,
+      "icon_filename": "Genji Shield.png",
+      "id": "genji_shield",
+      "license_note": "Source: Super Snail wiki.gg. Preserve attribution and verify license before public redistribution.",
+      "local_path": "game/assets/icons/gear/Genji_Shield.png",
+      "mime_type": "image/png",
+      "original_url": "https://supersnail.wiki.gg/images/Genji_Shield.png?2c4625",
+      "resolution_note": {
+        "original_icon_filename": "",
+        "similarity": 0.72
+      },
+      "retrieved_at": "2026-05-06T17:39:32.664017+00:00",
+      "size_bytes": 53073,
+      "source_title": "File:Genji Shield.png",
+      "width": 199,
+      "wiki_sha1": "02c462594bb33327806381c570cc90ab8b2f629d",
+      "wiki_size_bytes": 58357
+    },
+    {
+      "attribution_note": "Resolved during Phase 1D.1 missing icon fallback lookup.",
+      "category": "gear",
+      "description_url": "https://supersnail.wiki.gg/wiki/File:Lotus_Platform.png",
+      "entity_refs": [
+        "lotus_platform_vi"
+      ],
+      "hash_sha256": "b0826796edf6fc512ca1d539a18326d159368d465dbb2506dd77ec5d58ab55b8",
+      "height": 185,
+      "icon_filename": "Lotus Platform.png",
+      "id": "lotus_platform",
+      "license_note": "Source: Super Snail wiki.gg. Preserve attribution and verify license before public redistribution.",
+      "local_path": "game/assets/icons/gear/Lotus_Platform.png",
+      "mime_type": "image/png",
+      "original_url": "https://supersnail.wiki.gg/images/Lotus_Platform.png?247270",
+      "resolution_note": {
+        "original_icon_filename": "",
+        "similarity": 0.9032258064516129
+      },
+      "retrieved_at": "2026-05-06T17:39:32.664017+00:00",
+      "size_bytes": 53107,
+      "source_title": "File:Lotus Platform.png",
+      "width": 195,
+      "wiki_sha1": "2472709d0bbf12ef025e8b33608ed513ae5e46a4",
+      "wiki_size_bytes": 58454
+    },
+    {
+      "attribution_note": "Resolved during Phase 1D.1 missing icon fallback lookup.",
+      "category": "gear",
+      "description_url": "https://supersnail.wiki.gg/wiki/File:Parsian_Kite_Shield.png",
+      "entity_refs": [
+        "parsian_composite_bow"
+      ],
+      "hash_sha256": "c0555eded89b1b5e6b40a7e2ecea96a5566bfdd34c5e4aad1d6236136442ca1e",
+      "height": 248,
+      "icon_filename": "Parsian_Kite_Shield.png",
+      "id": "parsian_kite_shield",
+      "license_note": "Source: Super Snail wiki.gg. Preserve attribution and verify license before public redistribution.",
+      "local_path": "game/assets/icons/gear/Parsian_Kite_Shield.png",
+      "mime_type": "image/png",
+      "original_url": "https://supersnail.wiki.gg/images/Parsian_Kite_Shield.png?b6f3ea",
+      "resolution_note": {
+        "original_icon_filename": "",
+        "similarity": 0.6
+      },
+      "retrieved_at": "2026-05-06T17:39:32.664017+00:00",
+      "size_bytes": 59564,
+      "source_title": "File:Parsian Kite Shield.png",
+      "width": 230,
+      "wiki_sha1": "0b6f3eadccb7daea4b87f4a58ce76a2776383ff5",
+      "wiki_size_bytes": 80504
+    },
+    {
+      "attribution_note": "Resolved during Phase 1D.1 missing icon fallback lookup.",
+      "category": "gear",
+      "description_url": "https://supersnail.wiki.gg/wiki/File:Royal_Banner.png",
+      "entity_refs": [
+        "royal_wootz_blade"
+      ],
+      "hash_sha256": "9f921ed79bca8ebd65fca86a960a0643b0c85b5c9a7a2fa578b55d84ed839d7c",
+      "height": 214,
+      "icon_filename": "Royal_Banner.png",
+      "id": "royal_banner",
+      "license_note": "Source: Super Snail wiki.gg. Preserve attribution and verify license before public redistribution.",
+      "local_path": "game/assets/icons/gear/Royal_Banner.png",
+      "mime_type": "image/png",
+      "original_url": "https://supersnail.wiki.gg/images/Royal_Banner.png?3b0b74",
+      "resolution_note": {
+        "original_icon_filename": "",
+        "similarity": 0.6206896551724138
+      },
+      "retrieved_at": "2026-05-06T17:39:32.664017+00:00",
+      "size_bytes": 33117,
+      "source_title": "File:Royal Banner.png",
+      "width": 203,
+      "wiki_sha1": "3b0b74410ab336080c09bad30e582040be05535b",
+      "wiki_size_bytes": 37589
+    },
+    {
+      "attribution_note": "Resolved during Phase 1D.1 missing icon fallback lookup.",
+      "category": "gear",
+      "description_url": "https://supersnail.wiki.gg/wiki/File:Indv._Power_Armor.png",
+      "entity_refs": [
+        "sun_mirror_armor"
+      ],
+      "hash_sha256": "89e327cde030069fa4c688fa3c8762c58e94967edefb9dc70a20e836f898ec11",
+      "height": 214,
+      "icon_filename": "Indv. Power Armor.png",
+      "id": "indv._power_armor",
+      "license_note": "Source: Super Snail wiki.gg. Preserve attribution and verify license before public redistribution.",
+      "local_path": "game/assets/icons/gear/Indv._Power_Armor.png",
+      "mime_type": "image/png",
+      "original_url": "https://supersnail.wiki.gg/images/Indv._Power_Armor.png?68eafa",
+      "resolution_note": {
+        "original_icon_filename": "",
+        "similarity": 0.625
+      },
+      "retrieved_at": "2026-05-06T17:39:32.664017+00:00",
+      "size_bytes": 51781,
+      "source_title": "File:Indv. Power Armor.png",
+      "width": 203,
+      "wiki_sha1": "68eafa4fd789a97071e6b382021d1274047089c2",
+      "wiki_size_bytes": 56378
+    },
+    {
+      "attribution_note": "Resolved during Phase 1D.1 missing icon fallback lookup.",
+      "category": "gear",
+      "description_url": "https://supersnail.wiki.gg/wiki/File:Ring_of_Paralysis.png",
+      "entity_refs": [
+        "arrow_of_arash"
+      ],
+      "hash_sha256": "e777bb3bb0078bceeac7ea3add1fd71ecab3431f08ab6aede31c70bfa25c298d",
+      "height": 99,
+      "icon_filename": "Ring of Paralysis.png",
+      "id": "ring_of_paralysis",
+      "license_note": "Source: Super Snail wiki.gg. Preserve attribution and verify license before public redistribution.",
+      "local_path": "game/assets/icons/gear/Ring_of_Paralysis.png",
+      "mime_type": "image/png",
+      "original_url": "https://supersnail.wiki.gg/images/Ring_of_Paralysis.png?c55cfe",
+      "resolution_note": {
+        "original_icon_filename": "",
+        "similarity": 0.5806451612903226
+      },
+      "retrieved_at": "2026-05-06T17:39:32.664017+00:00",
+      "size_bytes": 15892,
+      "source_title": "File:Ring of Paralysis.png",
+      "width": 119,
+      "wiki_sha1": "c55cfe4fd5e8c3050f5fcb127a3c6e531c1e5921",
+      "wiki_size_bytes": 17516
+    },
+    {
+      "attribution_note": "Resolved during Phase 1D.1 missing icon fallback lookup.",
+      "category": "gear",
+      "description_url": "https://supersnail.wiki.gg/wiki/File:Jade_Blade.png",
+      "entity_refs": [
+        "jade_saber"
+      ],
+      "hash_sha256": "61ddafcc1f3332101a239b097b4928dae2c069bed1ab7c9291ea52ced0a002e4",
+      "height": 152,
+      "icon_filename": "Jade_Blade.png",
+      "id": "jade_blade",
+      "license_note": "Source: Super Snail wiki.gg. Preserve attribution and verify license before public redistribution.",
+      "local_path": "game/assets/icons/gear/Jade_Blade.png",
+      "mime_type": "image/png",
+      "original_url": "https://supersnail.wiki.gg/images/Jade_Blade.png?c7835a",
+      "resolution_note": {
+        "original_icon_filename": "",
+        "similarity": 0.7
+      },
+      "retrieved_at": "2026-05-06T17:39:32.664017+00:00",
+      "size_bytes": 16012,
+      "source_title": "File:Jade Blade.png",
+      "width": 152,
+      "wiki_sha1": "c7835a2147416462b5effe858786cf9a98bc5b9b",
+      "wiki_size_bytes": 16012
+    },
+    {
+      "attribution_note": "Resolved during Phase 1D.1 missing icon fallback lookup.",
+      "category": "gear",
+      "description_url": "https://supersnail.wiki.gg/wiki/File:Lotus_Platform.png",
+      "entity_refs": [
+        "lotus_platform_ix"
+      ],
+      "hash_sha256": "b0826796edf6fc512ca1d539a18326d159368d465dbb2506dd77ec5d58ab55b8",
+      "height": 185,
+      "icon_filename": "Lotus Platform.png",
+      "id": "lotus_platform",
+      "license_note": "Source: Super Snail wiki.gg. Preserve attribution and verify license before public redistribution.",
+      "local_path": "game/assets/icons/gear/Lotus_Platform.png",
+      "mime_type": "image/png",
+      "original_url": "https://supersnail.wiki.gg/images/Lotus_Platform.png?247270",
+      "resolution_note": {
+        "original_icon_filename": "",
+        "similarity": 0.9032258064516129
+      },
+      "retrieved_at": "2026-05-06T17:39:32.664017+00:00",
+      "size_bytes": 53107,
+      "source_title": "File:Lotus Platform.png",
+      "width": 195,
+      "wiki_sha1": "2472709d0bbf12ef025e8b33608ed513ae5e46a4",
+      "wiki_size_bytes": 58454
+    },
+    {
+      "attribution_note": "Resolved during Phase 1D.1 missing icon fallback lookup.",
+      "category": "gear",
+      "description_url": "https://supersnail.wiki.gg/wiki/File:Amulet_of_Will.png",
+      "entity_refs": [
+        "amulet_of_will_1"
+      ],
+      "hash_sha256": "2260f7864f9177a2b79cb4873a28a42eef48074366b4d844cca30e37f16f17e4",
+      "height": 214,
+      "icon_filename": "Amulet of Will.png",
+      "id": "amulet_of_will",
+      "license_note": "Source: Super Snail wiki.gg. Preserve attribution and verify license before public redistribution.",
+      "local_path": "game/assets/icons/gear/Amulet_of_Will.png",
+      "mime_type": "image/png",
+      "original_url": "https://supersnail.wiki.gg/images/Amulet_of_Will.png?b60c78",
+      "resolution_note": {
+        "original_icon_filename": "",
+        "similarity": 0.9333333333333333
+      },
+      "retrieved_at": "2026-05-06T17:39:32.664017+00:00",
+      "size_bytes": 59365,
+      "source_title": "File:Amulet of Will.png",
+      "width": 192,
+      "wiki_sha1": "b60c787381f2ea999d03e488a8401c0e35b88763",
+      "wiki_size_bytes": 65166
+    }
+  ],
+  "newly_downloaded": 11,
+  "phase": "1D.1",
+  "resolutions": [
+    {
+      "attempts": [
+        {
+          "candidate": "Lotus Platform.png",
+          "found": true
+        }
+      ],
+      "gear_id": "lotus_platform_iii",
+      "imageinfo": {
+        "descriptionshorturl": "https://supersnail.wiki.gg/index.php?curid=2419",
+        "descriptionurl": "https://supersnail.wiki.gg/wiki/File:Lotus_Platform.png",
+        "height": 185,
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          },
+          {
+            "name": "bitDepth",
+            "value": 8
+          },
+          {
+            "name": "colorType",
+            "value": "truecolour-alpha"
+          },
+          {
+            "name": "metadata",
+            "value": [
+              {
+                "name": "_MW_PNG_VERSION",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "mime": "image/png",
+        "sha1": "2472709d0bbf12ef025e8b33608ed513ae5e46a4",
+        "size": 58454,
+        "title": "File:Lotus Platform.png",
+        "url": "https://supersnail.wiki.gg/images/Lotus_Platform.png?247270",
+        "width": 195
+      },
+      "name": "Lotus Platform III",
+      "original_icon_filename": "",
+      "resolved": true,
+      "resolved_icon_filename": "Lotus Platform.png",
+      "similarity": 0.875
+    },
+    {
+      "attempts": [
+        {
+          "candidate": "Assassin's Gauntlet.png",
+          "found": false
+        },
+        {
+          "candidate": "Assassin's_Token.png",
+          "found": true
+        }
+      ],
+      "gear_id": "assassin_s_gauntlet",
+      "imageinfo": {
+        "descriptionshorturl": "https://supersnail.wiki.gg/index.php?curid=10924",
+        "descriptionurl": "https://supersnail.wiki.gg/wiki/File:Assassin%27s_Token.png",
+        "height": 152,
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          },
+          {
+            "name": "bitDepth",
+            "value": 8
+          },
+          {
+            "name": "colorType",
+            "value": "truecolour-alpha"
+          },
+          {
+            "name": "metadata",
+            "value": [
+              {
+                "name": "_MW_PNG_VERSION",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "mime": "image/png",
+        "sha1": "12cf48517dc2796c9af87f393e24c0df1a3dc366",
+        "size": 15754,
+        "title": "File:Assassin's Token.png",
+        "url": "https://supersnail.wiki.gg/images/Assassin%27s_Token.png?12cf48",
+        "width": 152
+      },
+      "name": "Assassin's Gauntlet",
+      "original_icon_filename": "",
+      "resolved": true,
+      "resolved_icon_filename": "Assassin's_Token.png",
+      "similarity": 0.6857142857142857
+    },
+    {
+      "attempts": [
+        {
+          "candidate": "Feline Shield.png",
+          "found": false
+        },
+        {
+          "candidate": "Genji Shield.png",
+          "found": true
+        }
+      ],
+      "gear_id": "feline_shield",
+      "imageinfo": {
+        "descriptionshorturl": "https://supersnail.wiki.gg/index.php?curid=353",
+        "descriptionurl": "https://supersnail.wiki.gg/wiki/File:Genji_Shield.png",
+        "height": 209,
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          },
+          {
+            "name": "bitDepth",
+            "value": 8
+          },
+          {
+            "name": "colorType",
+            "value": "truecolour-alpha"
+          },
+          {
+            "name": "metadata",
+            "value": [
+              {
+                "name": "XResolution",
+                "value": "2835/100"
+              },
+              {
+                "name": "YResolution",
+                "value": "2835/100"
+              },
+              {
+                "name": "ResolutionUnit",
+                "value": 3
+              },
+              {
+                "name": "_MW_PNG_VERSION",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "mime": "image/png",
+        "sha1": "02c462594bb33327806381c570cc90ab8b2f629d",
+        "size": 58357,
+        "title": "File:Genji Shield.png",
+        "url": "https://supersnail.wiki.gg/images/Genji_Shield.png?2c4625",
+        "width": 199
+      },
+      "name": "Feline Shield",
+      "original_icon_filename": "",
+      "resolved": true,
+      "resolved_icon_filename": "Genji Shield.png",
+      "similarity": 0.72
+    },
+    {
+      "attempts": [
+        {
+          "candidate": "Lotus Platform.png",
+          "found": true
+        }
+      ],
+      "gear_id": "lotus_platform_vi",
+      "imageinfo": {
+        "descriptionshorturl": "https://supersnail.wiki.gg/index.php?curid=2419",
+        "descriptionurl": "https://supersnail.wiki.gg/wiki/File:Lotus_Platform.png",
+        "height": 185,
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          },
+          {
+            "name": "bitDepth",
+            "value": 8
+          },
+          {
+            "name": "colorType",
+            "value": "truecolour-alpha"
+          },
+          {
+            "name": "metadata",
+            "value": [
+              {
+                "name": "_MW_PNG_VERSION",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "mime": "image/png",
+        "sha1": "2472709d0bbf12ef025e8b33608ed513ae5e46a4",
+        "size": 58454,
+        "title": "File:Lotus Platform.png",
+        "url": "https://supersnail.wiki.gg/images/Lotus_Platform.png?247270",
+        "width": 195
+      },
+      "name": "Lotus Platform VI",
+      "original_icon_filename": "",
+      "resolved": true,
+      "resolved_icon_filename": "Lotus Platform.png",
+      "similarity": 0.9032258064516129
+    },
+    {
+      "attempts": [
+        {
+          "candidate": "Parsian Composite Bow.png",
+          "found": false
+        },
+        {
+          "candidate": "Parsian_Kite_Shield.png",
+          "found": true
+        }
+      ],
+      "gear_id": "parsian_composite_bow",
+      "imageinfo": {
+        "descriptionshorturl": "https://supersnail.wiki.gg/index.php?curid=12178",
+        "descriptionurl": "https://supersnail.wiki.gg/wiki/File:Parsian_Kite_Shield.png",
+        "height": 248,
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          },
+          {
+            "name": "bitDepth",
+            "value": 8
+          },
+          {
+            "name": "colorType",
+            "value": "truecolour-alpha"
+          },
+          {
+            "name": "metadata",
+            "value": [
+              {
+                "name": "ColorSpace",
+                "value": 1
+              },
+              {
+                "name": "_MW_PNG_VERSION",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "mime": "image/png",
+        "sha1": "0b6f3eadccb7daea4b87f4a58ce76a2776383ff5",
+        "size": 80504,
+        "title": "File:Parsian Kite Shield.png",
+        "url": "https://supersnail.wiki.gg/images/Parsian_Kite_Shield.png?b6f3ea",
+        "width": 230
+      },
+      "name": "Parsian Composite Bow",
+      "original_icon_filename": "",
+      "resolved": true,
+      "resolved_icon_filename": "Parsian_Kite_Shield.png",
+      "similarity": 0.6
+    },
+    {
+      "attempts": [
+        {
+          "candidate": "Royal Wootz Blade.png",
+          "found": false
+        },
+        {
+          "candidate": "Royal_Banner.png",
+          "found": true
+        }
+      ],
+      "gear_id": "royal_wootz_blade",
+      "imageinfo": {
+        "descriptionshorturl": "https://supersnail.wiki.gg/index.php?curid=666",
+        "descriptionurl": "https://supersnail.wiki.gg/wiki/File:Royal_Banner.png",
+        "height": 214,
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          },
+          {
+            "name": "bitDepth",
+            "value": 8
+          },
+          {
+            "name": "colorType",
+            "value": "truecolour-alpha"
+          },
+          {
+            "name": "metadata",
+            "value": [
+              {
+                "name": "XResolution",
+                "value": "2835/100"
+              },
+              {
+                "name": "YResolution",
+                "value": "2835/100"
+              },
+              {
+                "name": "ResolutionUnit",
+                "value": 3
+              },
+              {
+                "name": "_MW_PNG_VERSION",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "mime": "image/png",
+        "sha1": "3b0b74410ab336080c09bad30e582040be05535b",
+        "size": 37589,
+        "title": "File:Royal Banner.png",
+        "url": "https://supersnail.wiki.gg/images/Royal_Banner.png?3b0b74",
+        "width": 203
+      },
+      "name": "Royal Wootz Blade",
+      "original_icon_filename": "",
+      "resolved": true,
+      "resolved_icon_filename": "Royal_Banner.png",
+      "similarity": 0.6206896551724138
+    },
+    {
+      "attempts": [
+        {
+          "candidate": "Sun Mirror Armor.png",
+          "found": false
+        },
+        {
+          "candidate": "Sunchaser_Boots.png",
+          "found": true
+        },
+        {
+          "candidate": "Sunday_Star.png",
+          "found": true
+        },
+        {
+          "candidate": "Sunder-Soul_Elixir.png",
+          "found": true
+        },
+        {
+          "candidate": "Sunfish.png",
+          "found": true
+        },
+        {
+          "candidate": "Sunflowers.png",
+          "found": true
+        },
+        {
+          "candidate": "Sunny_Plant_Food.png",
+          "found": true
+        },
+        {
+          "candidate": "Indv. Power Armor.png",
+          "found": true
+        }
+      ],
+      "gear_id": "sun_mirror_armor",
+      "imageinfo": {
+        "descriptionshorturl": "https://supersnail.wiki.gg/index.php?curid=2058",
+        "descriptionurl": "https://supersnail.wiki.gg/wiki/File:Indv._Power_Armor.png",
+        "height": 214,
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          },
+          {
+            "name": "bitDepth",
+            "value": 8
+          },
+          {
+            "name": "colorType",
+            "value": "truecolour-alpha"
+          },
+          {
+            "name": "metadata",
+            "value": [
+              {
+                "name": "XResolution",
+                "value": "2835/100"
+              },
+              {
+                "name": "YResolution",
+                "value": "2835/100"
+              },
+              {
+                "name": "ResolutionUnit",
+                "value": 3
+              },
+              {
+                "name": "_MW_PNG_VERSION",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "mime": "image/png",
+        "sha1": "68eafa4fd789a97071e6b382021d1274047089c2",
+        "size": 56378,
+        "title": "File:Indv. Power Armor.png",
+        "url": "https://supersnail.wiki.gg/images/Indv._Power_Armor.png?68eafa",
+        "width": 203
+      },
+      "name": "Sun Mirror Armor",
+      "original_icon_filename": "",
+      "resolved": true,
+      "resolved_icon_filename": "Indv. Power Armor.png",
+      "similarity": 0.625
+    },
+    {
+      "attempts": [
+        {
+          "candidate": "Arrow of Arash.png",
+          "found": false
+        },
+        {
+          "candidate": "Ring of Paralysis.png",
+          "found": true
+        }
+      ],
+      "gear_id": "arrow_of_arash",
+      "imageinfo": {
+        "descriptionshorturl": "https://supersnail.wiki.gg/index.php?curid=2689",
+        "descriptionurl": "https://supersnail.wiki.gg/wiki/File:Ring_of_Paralysis.png",
+        "height": 99,
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          },
+          {
+            "name": "bitDepth",
+            "value": 8
+          },
+          {
+            "name": "colorType",
+            "value": "truecolour-alpha"
+          },
+          {
+            "name": "metadata",
+            "value": [
+              {
+                "name": "XResolution",
+                "value": "3779/100"
+              },
+              {
+                "name": "YResolution",
+                "value": "3779/100"
+              },
+              {
+                "name": "ResolutionUnit",
+                "value": 3
+              },
+              {
+                "name": "_MW_PNG_VERSION",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "mime": "image/png",
+        "sha1": "c55cfe4fd5e8c3050f5fcb127a3c6e531c1e5921",
+        "size": 17516,
+        "title": "File:Ring of Paralysis.png",
+        "url": "https://supersnail.wiki.gg/images/Ring_of_Paralysis.png?c55cfe",
+        "width": 119
+      },
+      "name": "Arrow of Arash",
+      "original_icon_filename": "",
+      "resolved": true,
+      "resolved_icon_filename": "Ring of Paralysis.png",
+      "similarity": 0.5806451612903226
+    },
+    {
+      "attempts": [
+        {
+          "candidate": "Jade Saber.png",
+          "found": false
+        },
+        {
+          "candidate": "Jade_Blade.png",
+          "found": true
+        }
+      ],
+      "gear_id": "jade_saber",
+      "imageinfo": {
+        "descriptionshorturl": "https://supersnail.wiki.gg/index.php?curid=10799",
+        "descriptionurl": "https://supersnail.wiki.gg/wiki/File:Jade_Blade.png",
+        "height": 152,
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          },
+          {
+            "name": "bitDepth",
+            "value": 8
+          },
+          {
+            "name": "colorType",
+            "value": "truecolour-alpha"
+          },
+          {
+            "name": "metadata",
+            "value": [
+              {
+                "name": "_MW_PNG_VERSION",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "mime": "image/png",
+        "sha1": "c7835a2147416462b5effe858786cf9a98bc5b9b",
+        "size": 16012,
+        "title": "File:Jade Blade.png",
+        "url": "https://supersnail.wiki.gg/images/Jade_Blade.png?c7835a",
+        "width": 152
+      },
+      "name": "Jade Saber",
+      "original_icon_filename": "",
+      "resolved": true,
+      "resolved_icon_filename": "Jade_Blade.png",
+      "similarity": 0.7
+    },
+    {
+      "attempts": [
+        {
+          "candidate": "Lotus Platform.png",
+          "found": true
+        }
+      ],
+      "gear_id": "lotus_platform_ix",
+      "imageinfo": {
+        "descriptionshorturl": "https://supersnail.wiki.gg/index.php?curid=2419",
+        "descriptionurl": "https://supersnail.wiki.gg/wiki/File:Lotus_Platform.png",
+        "height": 185,
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          },
+          {
+            "name": "bitDepth",
+            "value": 8
+          },
+          {
+            "name": "colorType",
+            "value": "truecolour-alpha"
+          },
+          {
+            "name": "metadata",
+            "value": [
+              {
+                "name": "_MW_PNG_VERSION",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "mime": "image/png",
+        "sha1": "2472709d0bbf12ef025e8b33608ed513ae5e46a4",
+        "size": 58454,
+        "title": "File:Lotus Platform.png",
+        "url": "https://supersnail.wiki.gg/images/Lotus_Platform.png?247270",
+        "width": 195
+      },
+      "name": "Lotus Platform IX",
+      "original_icon_filename": "",
+      "resolved": true,
+      "resolved_icon_filename": "Lotus Platform.png",
+      "similarity": 0.9032258064516129
+    },
+    {
+      "attempts": [
+        {
+          "candidate": "Amulet of Will.png",
+          "found": true
+        }
+      ],
+      "gear_id": "amulet_of_will_1",
+      "imageinfo": {
+        "descriptionshorturl": "https://supersnail.wiki.gg/index.php?curid=2276",
+        "descriptionurl": "https://supersnail.wiki.gg/wiki/File:Amulet_of_Will.png",
+        "height": 214,
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          },
+          {
+            "name": "bitDepth",
+            "value": 8
+          },
+          {
+            "name": "colorType",
+            "value": "truecolour-alpha"
+          },
+          {
+            "name": "metadata",
+            "value": [
+              {
+                "name": "XResolution",
+                "value": "2835/100"
+              },
+              {
+                "name": "YResolution",
+                "value": "2835/100"
+              },
+              {
+                "name": "ResolutionUnit",
+                "value": 3
+              },
+              {
+                "name": "_MW_PNG_VERSION",
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "mime": "image/png",
+        "sha1": "b60c787381f2ea999d03e488a8401c0e35b88763",
+        "size": 65166,
+        "title": "File:Amulet of Will.png",
+        "url": "https://supersnail.wiki.gg/images/Amulet_of_Will.png?b60c78",
+        "width": 192
+      },
+      "name": "Amulet of Will +1",
+      "original_icon_filename": "",
+      "resolved": true,
+      "resolved_icon_filename": "Amulet of Will.png",
+      "similarity": 0.9333333333333333
+    },
+    {
+      "attempts": [
+        {
+          "candidate": "Mithraic Bow and Spear.png",
+          "found": false
+        },
+        {
+          "candidate": "Mithraic Bow & Spear.png",
+          "found": false
+        },
+        {
+          "candidate": "Mithraic Bow Spear.png",
+          "found": false
+        },
+        {
+          "candidate": "Athena's Spear.png",
+          "found": true
+        },
+        {
+          "candidate": "Rainbow Tassel.png",
+          "found": true
+        },
+        {
+          "candidate": "Macedonian Spear.png",
+          "found": true
+        },
+        {
+          "candidate": "Clean Jaden Spear.png",
+          "found": true
+        },
+        {
+          "candidate": "Hector's Spear.png",
+          "found": true
+        },
+        {
+          "candidate": "Jaden Spear.png",
+          "found": true
+        },
+        {
+          "candidate": "Royal Banner.png",
+          "found": true
+        },
+        {
+          "candidate": "Pharaoh's Scepter.png",
+          "found": true
+        },
+        {
+          "candidate": "Arabic Dagger.png",
+          "found": true
+        },
+        {
+          "candidate": "Time Wanderer.png",
+          "found": true
+        },
+        {
+          "candidate": "Michael's Earrings.png",
+          "found": true
+        },
+        {
+          "candidate": "Crown of Power.png",
+          "found": true
+        },
+        {
+          "candidate": "Tactical Boots.png",
+          "found": true
+        },
+        {
+          "candidate": "Strong Round Shield.png",
+          "found": true
+        }
+      ],
+      "gear_id": "mithraic_bow_and_spear",
+      "name": "Mithraic Bow & Spear",
+      "original_icon_filename": "",
+      "resolved": false
+    }
+  ],
+  "still_missing": 1,
+  "still_missing_cards": [
+    {
+      "atk": 180,
+      "def": 60,
+      "effect": "In [[Parsia]], ATK +150<br>In [[Parsia]], RUSH +150<br>In [[Parsia]], DMG +12%<br>in [[Parsia]], INTEL +12%",
+      "hp": 600,
+      "icon_filename": null,
+      "icon_local_path": null,
+      "icon_ref": null,
+      "id": "mithraic_bow_and_spear",
+      "name": "Mithraic Bow & Spear",
+      "origin": "{{retext|Jade Spear|orange",
+      "rush": 180,
+      "slot": null,
+      "tier_color": "red"
+    }
+  ]
+}
