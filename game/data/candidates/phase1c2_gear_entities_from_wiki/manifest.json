@@ -1,0 +1,23 @@
+{
+  "canonical_promotion": false,
+  "deduped_entity_candidates": 313,
+  "entities_with_any_stat": 313,
+  "generated_at": "2026-05-06T16:16:02.345424+00:00",
+  "live_gear_wiki_lines": 975,
+  "local_gear_wiki_lines": 975,
+  "low_confidence_entities": 0,
+  "outputs": [
+    "gear_entities_from_wiki.candidates.json",
+    "gear_stat_scaling_from_wiki.candidates.json",
+    "gear_source_facts_from_wiki.candidates.json",
+    "low_confidence_gear_entities.json",
+    "gear_entities_from_wiki.csv",
+    "manifest.json"
+  ],
+  "parsed_gearrow_templates": 422,
+  "phase": "1C.2",
+  "raw_entity_candidates": 422,
+  "source_facts": 313,
+  "source_text": "live_api",
+  "stat_scaling_rows": 1252
+}

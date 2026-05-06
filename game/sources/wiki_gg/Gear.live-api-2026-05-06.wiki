@@ -1,0 +1,975 @@
+==Disclaimer==
+{{Note|All gear can also be found in the [[Gear Forge]] unless it is obtained from:
+*Beating an Enemy
+*W-Tad Value Packs
+*In-App Purchases/Real Money
+}}
+{{clear}}
+== Realm == 
+
+<tabber>
+|-|White=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Ice Skates|109|0|20|0|0|In [[Koryeo]], INTEL gained +1%|Exchange Kimchi Jar x5 in [[Koryeo]]|gray}}
+{{gearrow|Crowbar|110|0|20|0|0||Exchange Kimchi Jar x6 in [[Koryeo]]|gray}}
+{{gearrow|Royal Underwear|212|0|0|20|0|In [[Yamato]], INTEL gained +1%|Exchange Koban x6 in [[Yamato]]|gray}}
+{{gearrow|Light Yamato Armor|213|0|0|20|0||Exchange Koban x5 in [[Yamato]]|gray}}
+{{gearrow|Iron Helmet|309|0|0|20|0|In [[Cathay]], INTEL gained +1%|Exchange Mahjong x6 in [[Cathay]]|gray}}
+{{gearrow|Podao|310|0|20|0|0||Exchange Mahjong x5 in [[Cathay]]|gray}}
+{{gearrow|Tactical Boots|412|0|0|0|20|In [[Murika]], INTEL gained +1%|Exchange Bullet x6 in [[Murika]]|gray}}
+{{gearrow|Smoothbore|413|0|20|0|0||Exchange Bullet x5 in [[Murika]]|gray}}
+{{gearrow|Gentleman's Staff|509|0|0|20|0|In [[Britland]], INTEL gained +1%|Exchange Anchor x6 in [[Britland]]|gray}}
+{{gearrow|Top Hat|510|0|20|0|0||Exchange Anchor x5 in [[Britland]]|gray}}
+{{gearrow|Linen Robe|612|0|20|0|0|in [[Kemet]], INTEL gained +1%|Exchange Ankh x6 in [[Kemet]]|gray}}
+{{gearrow|Khopesh|613|0|20|0|0||Exchange Ankh x5 in [[Kemet]]|gray}}
+{{gearrow|Bronze Helmet|712|0|0|20|0|in [[Hellas]], INTEL gained +1%|Exchange Feather x6 in [[Hellas]]|gray}}
+{{gearrow|Javelin|713|0|20|0|0||Exchange Feather x5 in [[Hellas]]|gray}}
+{{gearrow|Sikh Turban|809|0|0|20|0|in [[Bharata]], INTEL gained +1%|Exchange Rosary x6 in [[Bharata]]|gray}}
+{{gearrow|Twin Tip Dagger|810|0|20|0|0||Exchange Feather x5 in [[Hellas]]|gray}}
+{{gearrow|Broken Second Hand|1000|0|20|0|0||Exchange {{RewardIconWithText|Time Frag Card Gray}} x6 in [[Time Rift]]|gray}}
+{{gearrow|Broken Minute Hand|1001|0|0|20|0||Exchange {{RewardIconWithText|Time Frag Card Gray}} x7 in [[Time Rift]]|gray}}
+{{gearrow|Broken Hour Hand|1002|0|0|0|20||Exchange {{RewardIconWithText|Time Frag Card Gray}} x8 in [[Time Rift]]|gray}}
+{{gearrow|Parsian Pike|733|0|0|0|20||Exchange x5 in [[Parsia]]|gray}}
+{{gearrow|Parsian Kite Shield|732|0|0|20|0|Parsian Exploration, INTEL +1%|Exchange x6 in [[Parsia]]|gray}}
+|}
+|-|Green=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Motorbike Helmet|107|300|0|10|0|In [[Koryeo]], DMG +2%|Exchange {{retext|Kimchi Jar|green}} x5 in [[Koryeo]]|green}}
+{{gearrow|Switchblade|108|0|30|0|10|In [[Koryeo]], INTEL gained +2%|Ice Skates + Crowbar|green}}
+{{gearrow|Ninjutsu Armband|210|0|30|0|10|In [[Yamato]], DMG +2%|Exchange {{retext|Koban|green}} x5 in [[Yamato]]|green}}
+{{gearrow|Golden Yamato Armor|211|300|0|10|0|In [[Yamato]], INTEL gained +2%|Light Yamato Armo + Royal Underwear|green}}
+{{gearrow|Heart-Protection Mirror|307|300|0|10|0|In [[Cathay]], DMG +2%|Exchange {{retext|Mahjong|green}} x5 in [[Cathay]]|green}}
+{{gearrow|Wu Scimitar|308|0|30|0|10|In [[Cathay]], INTEL gained +2%|Iron Helmet + Podao|green}}
+{{gearrow|Tactical Vest|410|300|0|10|0|In [[Murika]], DMG +2%|Exchange {{retext|Bullet|green}} x5 in [[Murika]]|green}}
+{{gearrow|Colt Revolver|411|0|30|0|10|In [[Murika]], INTEL gained +2%|Tactical Boots + Smoothbore|green}}
+{{gearrow|Royal Guard Bearskin Hat|507|300|0|10|0|In [[Britland]], DMG +2%|Exchange {{retext|Anchor|green}} x5|green}}
+{{gearrow|Lee Enfield Rifle|508|0|30|0|10|In [[Britland]], INTEL gained +2%|Gentleman's Staff + Top Hat|green}}
+{{gearrow|Leather Shield|610|300|0|10|0|In [[Kemet]], DMG +2%|Exchange {{retext|Ankh|green}} x5 in [[Kemet]]|green}}
+{{gearrow|Poisoned Dagger|611|0|30|0|10|In [[Kemet]], INTEL Gained +2%|Khopesh + Linen Robe|green}}
+{{gearrow|Heavy Infantry Helmet|710|300|0|10|0|In [[Hellas]], INTEL gained +2%<br>Every Costume Stat +1%|Exchange {{retext|Feather|green}} x5 in [[Hellas]]|green}}
+{{gearrow|Legion Javelins|711|0|30|0|10|In [[Hellas]], INTEL gained +2%<br>Every Costume Stat +1%|Javelin + Bronze Helmet|green}}
+{{gearrow|Mughal Soldier Helmet|807|300|0|10|0|In [[Bharata]], DMG +2%|Exchange {{retext|Rosary|green}} x5 in [[Bharata]]|green}}
+{{gearrow|Pata|808|0|30|0|10|In [[Bharata]], INTEL gained +2%|Twin Tip Dagger + Sikh Turban|green}}
+{{gearrow|Time Hand|1003|0|30|0|10|In the [[Time Rift|Rift]], INTEL gained +2%| {{RewardIconWithText|Broken Second Hand}} + {{RewardIconWithText|Broken Minute Hand}} + {{RewardIconWithText|Broken Hour Hand}}|green}}
+{{gearrow|Time Cog|1004|300|0|10|0|In the [[Time Rift|Rift]], DMG +2%|Exchange {{RewardIconWithText|Time Frag Card Green|green}} x7 in [[Time Rift]]|green}}
+{{gearrow|Bichaq|730|0|30|0|10|In [[Parsia]], DMG +2%|Exchange {{Retext|Parsian Carpet|green}} 5x in [[Parsia]]|green}}
+{{gearrow|Pesh-Kabz|731|300|0|10|0|In [[Parsia]], INTEL +2%|{{RewardIconWithText|Parsian Kite Shield}} + {{RewardIconWithText|Parsian Pike}}|green}}
+|}
+|-|Blue=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Bulletproof Vest|105|200|20|20|20|In [[Koryeo]], DMG +2%<br>In [[Koryeo]], INTEL gained +2%|Exchange {{retext|Kimchi Jar|blue}} x5 in [[Koryeo]]|blue}}
+{{gearrow|Assault Rifle Model 98|106|100|30|10|30|In [[Koryeo]], DMG +2%<br>In [[Koryeo]], INTEL gained +2%|{{retext|Motorbike Helmet|green}} + {{retext|Switchblade|green}}|blue}}
+{{gearrow|Servant Spirit Pendant|208|200|20|20|20|In [[Yamato]], DMG +2%<br>In [[Yamato]], INTEL gained +2%|Exchange {{retext|Koban|blue}} x5 in [[Yamato]]|blue}}
+{{gearrow|Crimson Haori Jacket|209|300|10|30|10|In [[Yamato]], DMG +2%<br>In [[Yamato]], INTEL gained +2%|{{retext|Golden Yamato Armor|green}} + {{retext|Ninjutsu Armband|green}}|blue}}
+{{gearrow|Rainbow Tassel|305|200|20|20|20|In [[Cathay]], DMG +2%<br>In [[Cathay]], INTEL gained +2%|Exchange {{retext|Mahjong|blue}} x5 in [[Cathay]]|blue}}
+{{gearrow|Ancient Blade|306|100|300|10|30|In [[Cathay]], DMG +2%<br>In [[Cathay]], INTEL gained +2%|{{retext|Wu Scimitar|green}} + {{retext|Heart-Protection Mirror|green}}|blue}}
+{{gearrow|PASGT Helmet|408|200|20|20|20|In [[Murika]], DMG +2%<br>In [[Murika]], INTEL gained +2%|Exchange {{retext|Bullet|blue}} x5 in [[Murika]]|blue}}
+{{gearrow|Springfield Rifle|409|100|30|10|30|In [[Murika]], DMG +2%<br>In [[Murika]], INTEL gained +2%|{{retext|Colt Revolver|green}} + {{retext|Tactical Vest|green}}|blue}}
+{{gearrow|Tuxedo|505|200|20|20|20|In [[Britland]], DMG +2%<br>In [[Britland]], INTEL gained +2%<br>In [[Britland]], fleet cannon DMG +2%|Exchange {{retext|Anchor|blue}} x5|blue}}
+{{gearrow|Sword Cane|506|100|30|10|30|in [[Britland]]In [[Britland]], DMG +2%<br>In [[Britland]], INTEL gained +2%<br>In [[Britland]], fleet cannon DMG +2%|{{retext|Lee Enfield Rifle|green}} + {{retext|Royal Guard Bearskin Hat|green}}|blue}}
+{{gearrow|Tactical Helmet|608|200|20|20|20|In [[Kemet]], DMG +2%<br>In [[Kemet]], INTEL gained +2%|Exchange {{retext|Ankh|blue}} x5 in [[Kemet]]|blue}}
+{{gearrow|Duckbill Axe|609|100|30|10|30|In [[Kemet]], DMG +2%<br>In [[Kemet]], INTEL gained +2%|{{retext|Poisoned Dagger|green}} + {{retext|Leather Shield|green}}|blue}}
+{{gearrow|Spartan Shield|708|200|20|20|20|In [[Hellas]], INTEL gained +2%<br>|In [[Hellas]], DMG +2%<br>Every Costume Stat +2%|blue}}
+{{gearrow|Macedonian Spear|709|100|30|10|30|In [[Hellas]], INTEL gained +2%<br>|In [[Hellas]], DMG +2%<br>Every Costume Stat +2%|blue}}
+{{gearrow|Mahatma's Robe|608|200|20|20|20|In [[Bharata]], DMG +2%<br>In [[Bharata]], INTEL gained +2%|Exchange {{retext|Rosary|blue}} x5 in [[Bharata]]|blue}}
+{{gearrow|Kukri|806|100|30|10|30|In [[Bharata]], DMG +2%<br>In [[Bharata]], INTEL gained +2%|{{retext|Pata|green}} + {{retext|Mughal Soldier Helmet|green}}|blue}}
+{{gearrow|Time Wheel|1005|100|30|10|30|In the [[Time Rift|Rift]], DMG +2%<br>In the [[Time Rift|Rift]], INTEL gained +2%| {{RewardIconWithText|Time Hand|green}} + {{RewardIconWithText|Time Cog|green}} |blue}}
+{{gearrow|Time Blade|1006|200|20|20|20|In the [[Time Rift|Rift]], DMG +2%<br>In the [[Time Rift|Rift]], INTEL gained +2%| Exchange {{RewardIconWithText|Time Frag Card Blue|blue}} x7 in [[Time Rift]] |blue}}
+{{gearrow|War Scythes|728|200|20|20|20|In [[Parsia]], DMG +2%<br>In [[Parsia]], INTEL +2%|Exchange {{Retext|Parsian Carpet|blue}} 5x in [[Parsia]]|blue}}
+{{gearrow|Shamshir|729|300|10|30|10|In [[Parsia]], DMG +2%<br>In [[Parsia]], INTEL +2%|{{RewardIconWithText|Pesh-Kabz|green}} + {{RewardIconWithText|Bichaq|green}}|blue}}
+{{gearrow|Pirate|903|300|10|30|10|Enemies in Explorations drop +20 B-tads<br>Tadpoles Gained:2,600,000|Divine Chaos Chest (0.8% chance)|blue}}
+{{gearrow|Iron Track|907|100|10|10|50|Travel SPD +1.6%|Divine Order Chest (0.8% chance)|blue}}
+{{gearrow|Diver|909|300|10|10|30|In any Realm, 2x Demon God Cell Drops +2%|Divine Neutral Chest (0.8% chance)|blue}}
+|}
+|-|Purple=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Gas Mask|103|400|40|40|40|In [[Koryeo]], DMG +4%<br>In [[Koryeo]], INTEL gained +4%|Obtained from Home Chest|purple}}
+{{gearrow|Golden Assault Rifle|104|200|60|20|60|In [[Koryeo]], DMG +4%<br>In [[Koryeo]], INTEL gained +4%|{{retext|Bulletproof Vest|blue}} + {{retext|Assault Rifle Model 98|blue}}|purple}}
+{{gearrow|Genji Shield|203|400|40|40|40|In [[Yamato]], Snail ATK +48<br>In [[Yamato]], Snail DEF +48|Reward of [[Yamato]] INTEL "Genji III"|purple}}
+{{gearrow|Genji Helmet|204|600|20|60|20|In [[Yamato]], Snail DEF +48|Reward of [[Yamato]] INTEL "Genji I"|purple}}
+{{gearrow|Genji Gloves|205|200|60|20|60|In [[Yamato]], Snail ATK +48|Reward of [[Yamato]] INTEL "Genji II"|purple}}
+{{gearrow|Blade Muramasa|206|200|60|20|60|In [[Yamato]], DMG +4%<br>In [[Yamato]], INTEL gained +4%|Exchange {{retext|Koban|purple}} x5 in [[Yamato]]|purple}}
+{{gearrow|Royal Banner|207|600|20|60|20|In [[Yamato]], DMG +4%<br>In [[Yamato]], INTEL gained +4%|{{retext|Crimson Haori Jacket|blue}} + {{retext|Spirit Pendant|blue}}|purple}}
+{{gearrow|Silver Lion|303|400|40|40|40|In [[Cathay]], DMG +4%<br>In [[Cathay]], INTEL gained +4%|Exchange {{retext|Mahjong|purple}} x5 in [[Cathay]]|purple}}
+{{gearrow|7-Star Blade|304|200|60|20|60|In [[Cathay]], DMG +4%<br>In [[Cathay]], INTEL gained +4%|{{retext|Ancient Blade|blue}} + {{retext|Rainbow Tassel|blue}}|purple}}
+{{gearrow|Mechanical Exoskeleton|403|400|40|40|40|In [[Murika]], Snail ATK +48<br>In [[Murika]], Snail DEF +48|Reward of [[Murika]] INTEL|purple}}
+{{gearrow|Powered Glove|404|200|60|20|60|In [[Murika]], Snail DEF +48|Reward of [[Murika]] INTEL|purple}}
+{{gearrow|Holographic Tactical Glasses|405|600|20|60|20|In [[Murika]], Snail ATK +48|Reward of [[Murika]] INTEL|purple}}
+{{gearrow|Long Range Scope|406|600|20|60|20|In [[Murika]], DMG +4%<br>In [[Murika]], INTEL gained +4%|Exchange {{retext|Bullet|purple}} x5 in [[Murika]]|purple}}
+{{gearrow|M4 Carbine|407|200|60|20|60|In [[Murika]], DMG +4%<br>In [[Murika]], INTEL gained +4%|{{retext|Springfield Rifle|blue}} + {{retext|PASGT Helmet|blue}}|purple}}
+{{gearrow|Britland Crown|503|400|40|40|40|In [[Britland]], DMG +4%<br>In [[Britland]], INTEL gained +4%<br>In [[Britland]], fleet cannon DMG +4%|Exchange {{retext|Anchor|purple}} x5 in [[Britland]]|purple}}
+{{gearrow|Shotgun Umbrella|504|200|60|20|60|In [[Britland]], DMG +4%<br>In [[Britland]], INTEL gained +4%<br>In [[Britland]], fleet cannon DMG +4%|{{retext|Sword Cane|blue}} + {{retext|Tuxedo|blue}}|purple}}
+{{gearrow|Priestly Robe|603|400|40|40|40|In [[Kemet]], DMG +4%<br>In [[Kemet]], INTEL gained +4%|Exchange {{retext|Ankh|purple}} x5 in [[kemet]]|purple}}
+{{gearrow|Golden Bronze Dagger|604|600|20|60|20|In [[Kemet]], Snail ATK +60<br>Snail DEF +60|Reward of [[Kemet]] INTEL|purple}}
+{{gearrow|Pharaoh's Scepter|605|600|20|60|20|In [[Kemet]], Snail DEF +60|Reward of [[Kemet]] INTEL|purple}}
+{{gearrow|Arabic Dagger|606|600|20|60|20|In [[Kemet]], Snail ATK +60|Reward of [[Kemet]] INTEL|purple}}
+{{gearrow|Guardian's Longsword|607|200|60|20|60|In [[Kemet]], DMG +4%<br>In [[Kemet]], INTEL gained +4%|{{retext|Ax|blue}} + {{retext|Tactical Helmet|blue}}|purple}}
+{{gearrow|Caeser's Laurel|703|600|20|60|20|In [[Hellas]], Snail ATK +60<br>In [[Hellas]], Snail DEF +60|Reward of [[Hellas]] INTEL|purple}}
+{{gearrow|Justinian's Robe|704|600|20|60|20|In [[Hellas]], Snail DEF +60|Reward of [[Hellas]] INTEL|purple}}
+{{gearrow|Heraclius' Silver Staff|705|600|20|60|20|In [[Hellas]], Snail ATK +60|Reward of [[Hellas]] INTEL|purple}}
+{{gearrow|Achilles' Shield|706|600|20|60|20|In [[Hellas]], INTEL gained +4%<br>In [[Hellas]], DMG +4%<br>Every Costume Stat +4%|Exchange {{retext|Feather|purple}} x5 in [[Hellas]]|purple}}
+{{gearrow|Hector's Spear|707|200|60|20|60|In [[Hellas]], INTEL gained +4%<br>In [[Hellas]], DMG +4%<br>Every Costume Stat +4%|{{retext|Macedonian Spear|blue}} + {{retext|Spartan Shield|blue}}|purple}}
+{{gearrow|Antelope Horn Shield|803|400|40|40|40|In [[Bharata]], DMG +4%<br>In [[Bharata]], INTEL gained +4%|Exchange {{retext|Rosary|purple}} x5 in [[Bharata]]|purple}}
+{{gearrow|Mughal Scimitar|804|200|60|20|60|In [[Bharata]], DMG +4%<br>In [[Bharata]], INTEL gained +4%|{{retext|Kukri|blue}} + {{retext|Mahatma's Robe|blue}}|purple}}
+{{gearrow|Spacetime Echo|1007|200|60|20|60|In the [[Time Rift|Rift]], DMG +4%<br>In the [[Time Rift|Rift]], INTEL gained +4%| {{RewardIconWithText|Time Wheel|blue}} + {{RewardIconWithText|Time Blade|blue}} |purple}}
+{{gearrow|Time Flute|1008|200|20|20|20|In the [[Time Rift|Rift]], Snail ATK +60<br>In the [[Time Rift|Rift]], Snail RUSH +60| Exchange {{RewardIconWithText|Time Frag Card Purple|purple}} x7 in [[Time Rift]] |purple}}
+{{gearrow|Feline Shield|723|400|40|40|40|In [[Parsia]], ATK +60<br>In [[Parsia]], DEF +60|Reward of [[Parsia]] INTEL|purple}}
+{{gearrow|Sun Mirror Armor|724|600|20|60|20|In [[Parsia]], DEF +60|Reward of [[Parsia]] INTEL|purple}}
+{{gearrow|Parsian Composite Bow|725|200|60|20|60|In [[Parsia]], ATK +60|Reward of [[Parsia]] INTEL|purple}}
+{{gearrow|Assassin's Gauntlet|726|200|60|20|60|In [[Parsia]], DMG +4%<br>In [[Parsia]], INTEL +4%|Exchange {{retext|Parsian Carpet|purple}} x5 in [[Parsia]]|purple}}
+{{gearrow|Royal Wootz Blade|727|600|20|60|20|In [[Parsia]], DMG +4%<br>In [[Parsia]], INTEL +4%|{{RewardIconWithText|Shamshir|blue}} + {{RewardIconWithText|War Scythes|blue}}|purple}}
+{{gearrow|Teslla|901|600|20|20|60|In any Realm, 2x Time Chest Drops +4%|{{retext|Lottery Bead Purple|purple}}|purple}}
+{{gearrow|Pirate|903|600|200|60|20|Enemies in exploration drop +40 B-tads<br>B-tads Gained: 2,800,000|{{retext|Pirate|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Crusader Ring|blue}}|purple}}
+{{gearrow|Iron Track|907|200|20|20|10|Travel SPD +3.2%|{{retext|Ruby Brooch|blue}} + {{retext|Crusader Ring|blue}} + {{retext|Iron Tracks|blue}}|purple}}
+|}
+|-|Orange=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Virgo Tech|101|800|80|80|80|In [[Koryeo]], Snail ATK +96<br>In [[Koryeo]], Snail RUSH +96|Reward for defeating [[Mailbox#Koryeon Commissioner|Koryeon Commissioner]]|orange}}
+{{gearrow|Jung-geun's Gun|102|400|120|40|120|In [[Koryeo]], DMG +8%<br>In [[Koryeo]], INTEL gained +8%|{{retext|Gas Mask|purple}} + {{retext|Golden Assault Rife|purple}}|orange}}
+{{gearrow|Genji Armor|201|800|80|80|80|In [[Yamato]], Snail ATK +96<br>In [[Yamato]], Snail DEF +96|{{retext|Genji Gloves|purple}} + {{retext|Genji Helmet|purple}} + {{retext|Genji Shield|purple}}|orange}}
+{{gearrow|Blade Murasame|202|400|120|40|120|In [[Yamato]], DMG +8%<br>In [[Yamato]], INTEL gained +8%|{{retext|Blade Muramasa|purple}} + {{retext|Royal Banner|purple}}|orange}}
+{{gearrow|Conqueror Spear|301|800|80|80|80|In [[Cathay]], Snail ATK +96<br>In [[Cathay]], Snail RUSH +96|Reward for defeating [[Mailbox#Loyal Retainers|Loyal Retainers]]|orange}}
+{{gearrow|Couple Swords|302|400|120|40|120|In [[Cathay]], DMG +8%<br>In [[Cathay]], INTEL gained +8%|{{retext|7-Star-Blade|purple}} + {{retext|Silver Lion|purple}}|orange}}
+{{gearrow|Indv. Power Armor|401|800|80|80|80|In [[Murika]], Snail ATK +96<br>In [[Murika]], Snail DEF +96|{{retext|Holograhic Tactical Glasses|purple}} + {{retext|Powered Glove|purple}} + {{retext|Mechanical Exoskeleton|purple}}|orange}}
+{{gearrow|Indv. High-explosive Rifle|402|400|120|40|120|In [[Murika]], DMG +8%<br>In [[Murika]], INTEL gained +8%|{{retext|M4 Carbine|purple}} + {{retext|Long Range Scope|purple}}|orange}}
+{{gearrow|Windsor's cape|501|800|80|80|80|In [[Britland]], Snail ATK +96<br>In [[Britland]], Snail RUSH +96|Exchange {{retext|Anchor|orange}} x6 in [[Britland]]|orange}}
+{{gearrow|Lion's Crown|502|400|120|40|120|In [[Britland]], DMG +8%<br>In [[Britland]], INTEL gained +8%<br>In [[Britland]], fleet cannon DMG +8%|{{retext|Shotgun Umbrella|purple}} + {{retext|Britland Crown|purple}}|orange}}
+{{gearrow|Horse Helmet|601|800|80|80|80|In [[Kemet]], Snail ATK +120<br>Snail RUSH +120|{{retext|Arabic Dagger|purple}} + {{retext|Pharaoh's Sceptor|purple}} + {{retext|Golden Bronze Dagger|purple}}|orange}}
+{{gearrow|Damascus Knife|602|400|120|40|120|In [[Kemet]], DMG +8%<br>In [[Kemet]], INTEL gained +8%|{{retext|Guardian's Longsword|purple}} + {{retext|Priestly Robe|purple}}|orange}}
+{{gearrow|Eternal Empire Staff|701|800|80|80|80|In [[Hellas]], Snail ATK +120<br>Snail DEF +120|{{retext|Caeser's Laurel|purple}} + {{retext|Justinian's Robe|purple}} + {{retext|Heraclius' Silver Staff|purple}}|orange}}
+{{gearrow|Stardust Arrow|702|400|120|40|120|In [[Hellas]], INTEL gained +8%<br>In [[Hellas]], DMG +8%<br>Every Costume Stat +8%|{{retext|Hector's Spear|purple}} + {{retext|Achilles' Shield|purple}}|orange}}
+{{gearrow|Indra's Crown|701|800|80|80|80|In [[Bharata]], Snail ATK +120<br>Snail DEF +120|Exchange {{retext|Rosary|orange}} x6 in [[Bharata]]|orange}}
+{{gearrow|Ashoka's Sword|802|400|120|40|120|In [[Bharata]], INTEL gained +8%<br>In [[Bharata]], DMG +8%|{{retext|Mughal Scimitar|purple}} + {{retext|Antelope Horn Shield|purple}}|orange}}
+{{gearrow|Eternal Return|1009|400|120|40|120|In the [[Time Rift|Rift]], DMG +8%<br>In the [[Time Rift|Rift]], INTEL gained +8%| {{RewardIconWithText|Time Flute|purple}} + {{RewardIconWithText|Spacetime Echo|purple}} |orange}}
+{{gearrow|Millennium Ring|1010|800|80|80|80|In the [[Time Rift|Rift]], Snail ATK +120<br>In the [[Time Rift|Rift]], Snail RUSH +120 | Defeat Time Rift Apostle: [[Time_Rift_Apostles#Millennium_Bug|Millennium Bug]] |orange}}
+{{gearrow|Arrow of Arash|721|800|80|80|80|In [[Parsia]], ATK +120<br>In [[Parsia]], DEF +120|{{RewardIconWithText|Parsian Composite Bow|purple}} + {{RewardIconWithText|Sun Mirror Armor|purple}} + {{RewardIconWithText|Feline Shield|purple}}|orange}}
+{{gearrow|Jade Saber|722|400|120|40|120|In [[Parsia]], DMG +8%<br>In [[Parsia]], INTEL +8%|{{RewardIconWithText|Royal Wootz Blade|purple}} + {{RewardIconWithText|Assassin's Gauntlet|purple}}|orange}}
+{{gearrow|Teslla|901|1,200|40|40|120|When exploring, 2x Time Chest Drops +8%|{{retext|Teslla|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Pirate|903|1,200|40|120|40|Enemies in exploration drop +80 B-tads<br>B-tads Gained: 3,000,000|{{retext|Pirate|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Curator's Helmet|905|1,200|40|120|40|Enemies in explorations drop +16 W-tads<br>(Only when you are really lucky!)<br>Tadpoles Gained: 100,000|50k Museum Medals in [[Museum|Museum Shop]]|orange}}
+{{gearrow|Iron Track|907|400|40|40|200|Travel SPD +6.4%|{{retext|Iron Track|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Diver|909|1,200|40|40|120|In any Realm, 2x Demon God Cells +8%|{{retext|Diver|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Gear Ring|911|400|40|40|200|When you enter a new area, gain +80 INTEL|Divine Order Chest (0.2% chance)|orange}}
+|}
+|-|Red=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Warmonger's Gun|100|600|180|60|180|In [[Koryeo]], Snail ATK +120<br>In [[Koryeo]], Snail RUSH +120<br>In [[Koryeo]], Snail DMG +12%<br>In [[Koryeo]], INTEL gained +12%|{{retext|Virgo Tech|orange}} + {{retext|Jung-geun's Gun|orange}}|red}}
+{{gearrow|Sword Futsuno|200|600|180|60|180|In [[Yamato]], Snail ATK +120<br>In [[Yamato]], Snail RUSH +120<br>In [[Yamato]], DMG +12%<br>In [[Yamato]], INTEL gained +12%|{{retext|Blade Murasame|orange}} + {{retext|Genji Armor|orange}}|red}}
+{{gearrow|Sky Piercer|300|600|180|60|180|In [[Cathay]], Snail ATK +120<br>In [[Cathay]], Snail RUSH +120<br>In [[Cathay]], DMG +12%<br>In [[Cathay]], INTEL gained +12%|{{retext|Conqueror Spear|orange}} + {{retext|Couple Swords|orange}}|red}}
+{{gearrow|Bullet Storm|400|600|180|60|180|In [[Murika]], Snail ATK +120<br>In [[Murika]], Snail RUSH +120<br>In [[Murika]], DMG +12%<br>In [[Murika]], INTEL gained +12%|{{retext|Indv. Power Armor|orange}} + {{retext|Indv. High-explosive Rifle|orange}}|red}}
+{{gearrow|Crown of Eternal Daylight|500|600|180|60|180|In [[Britland]], Snail ATK +150<br>In [[Britland]], Snail RUSH +150<br>In [[Britland]], DMG +12%<br>In [[Britland]], INTEL gained +12%<br>In [[Britland]], fleet cannon DMG +12%|{{retext|Lion's Crown|orange}} + {{retext|Windsor's Cape|orange}}|red}}
+{{gearrow|Lion King's Sword|600|600|180|60|180|In [[Kemet]], Snail ATK +150<br>In [[Kemet]], Snail RUSH +150<br>In [[Kemet]], Snail DMG +12%<br>In [[Kemet]], INTEL gained +12%|{{retext|Damascus Knife|orange}} + {{retext|Horse Helmet|orange}}|red}}
+{{gearrow|Athena's Spear|700|600|180|60|180|In [[Hellas]], Snail ATK +120<br>In [[Hellas]], Snail DEF +120<br>In [[Hellas]], DMG +12%<br>In [[Hellas]], INTEL gained +12%<br>Every Costume Stat +12%|{{retext|Stardust Arrow|orange}} + {{retext|Eternal Empire Staff|orange}}|red}}
+{{gearrow|Rama Greataxe|600|600|180|60|180|In [[Bharata]], Snail ATK +150<br>In [[Bharata]], Snail RUSH +150<br>In [[Bharata]], Snail DMG +12%<br>In [[Bharata]], INTEL gained +12%|{{retext|Ashoka's Sword|orange}} + {{retext|Indra's Crown|orange}}|red}}
+{{gearrow|Spacetime Exile|1011|600|180|60|180|In the [[Time Rift|Rift]], Snail ATK +150<br>In the [[Time Rift|Rift]], Snail RUSH +150<br>In the [[Time Rift|Rift]], DMG +12%<br>In the [[Time Rift|Rift]], INTEL gained +12% |{{RewardIconWithText|Eternal Return|orange}} + {{RewardIconWithText|Millennium Ring|orange}} |red}}
+{{gearrow|Mithraic Bow & Spear|720|600|180|60|180|In [[Parsia]], ATK +150<br>In [[Parsia]], RUSH +150<br>In [[Parsia]], DMG +12%<br>in [[Parsia]], INTEL +12%|{{retext|Jade Spear|orange}} + {{retext|Arrow of Arash|orange}}|red}}
+{{gearrow|The Great Scientist|902|1800|60|60|180|When exploring, 2x Time Chests Drops +12%|{{retext|Teslla|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Overlord's Hook|904|1,800|60|180|60|Enemies in exploration drop +120 B-tads<br>Tadpoles Gained: 3,200,000|{{retext|Pirate|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|The Great Collector|906|1,800|60|180|60|Enemies in exploration drop +24 W-tads<br>(Only when you are really lucky!)<br>Tadpoles Gained: 110,000|{{retext|Curator's Helm|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Tremendous Support|908|600|60|60|300|Travel SPD +9.6%|{{retext|Iron Track|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Deepsea Helmet|910|1800|60|60|180| In any Realm, 2x Demon God Cell Drops +12%|{{retext|Diver|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|The Great Engineer|912|600|60|60|300|Upon traveling through an area: Gain 120 Intel|{{retext|Gear Ring|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+|}
+|-|Red+=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Time Wanderer|1012|1000|200|200|200|In explorations, Snail HP +2000<br>In explorations, Snail ATK +200<br>In explorations, Snail DEF +200<br>In explorations, Snail RUSH +200<br>In explorations, INTEL gained +20%<br>In explorations, DMG +20%|{{RewardIconWithText|Spacetime Exile|red}} + {{RewardIconWithText|Rama Greataxe|red}} + {{RewardIconWithText|Athena's Spear|red}}<br> + {{RewardIconWithText|Lion King's Sword|red}} + {{RewardIconWithText|Crown of Eternal Daylight|red}} + {{RewardIconWithText|Bullet Storm|red}}<br> + {{RewardIconWithText|Sky Piercer|red}} + {{RewardIconWithText|Sword Futsuno|red}} + {{RewardIconWithText|Warmonger's Gun|red}} |red}}
+{{gearrow|The Great Scientist|902|3000|100|100|300| In any Realm, 2x Demon God Cell Drops +12%<br>In any Realm, 2x Time Chests Drops +12%|{{retext|The Great Scientist|red}} + {{retext|Deepsea Helmet|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|The Great Collector|906|3000|100|300|100|Enemies in exploration drop +120 B-tads<br>Tadpoles Cap: 3,200,000<br>Enemies in exploration drop +24 W-tads<br>(Only when you are really lucky!)<br>Tadpoles Cap: 120,000|{{retext|The Great Collector|red}} + {{retext|Overlord's Hook|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|The Great Engineer|912|1000|100|100|500|Travel SPD +9.6%<br>Upon travelling through an area: Gain 120 INTEL|{{retext|The Great Engineer|red}} + {{retext|Tremendous Support|red}} + {{retext|Amulet of Will|red}}|red}}
+|}
+
+
+</tabber>
+
+==Form ==
+
+<!--zombie go brr, mutant is RNG hell, demon crit rate is dumb, angel healing and mecha def has a clear better, and dragon is wack -->
+
+<tabber>
+
+|-|Green=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Lotus Platform|306|150|5|5|15|In Angel Form, Regen 160 HP each round|Defeat [[Mailbox#Ratman|Ratman]]|green|Lotus Platform}}
+{{gearrow|Leather Chest Armor|402|50|15|5|15|In Mutant: Crit DMG +2%|Divine Chaos (1.6%)|green}}
+|}
+
+|-|Blue=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Undead Staff|103|300|30|10|10|In Zombie Form: Zombie Cells +2%<br>Evolution Chests +2%|Tier 3 Zombie Research|blue}}
+{{gearrow|The Buried|102|300|30|10|10|In Zombie: Ingore DEF +2%|Divine Chaos(0.8%)|blue}}
+{{gearrow|Demon Scythe|203|100|30|30|10|In Demon Form: Demon Cells +2%<br>Soul Chests +2%|Tier 3 Demon Research|blue}}
+{{gearrow|Lotus Platform III|305|300|10|10|30|In Angel Form, Regen 320 HP each round|{{retext|Lotus Platform|green}} + {{retext|White Pearl|green}} + {{retext|Sorcerer Ring|green}}|blue|Lotus Platform}}
+{{gearrow|Prayer Staff|301|300|10|10|30|In Angel Form: Angel Cells +2%<br>Fungus Chests +2%|Tier 3 Angel Research|blue}}
+{{gearrow|Mind Control Dagger|403|100|30|10|30|In Mutant form: Mutant Cells +2%<br>Time Chests +2% in exploration|Tier 3 Mutant Research|blue}}
+{{gearrow|Leather Chest Armor|402|100|30|10|30| In Mutant form, Crit DMG +4%| |blue}}
+{{gearrow|Gauss C14|503|100|10|30|30|In Mecha Form: Mecha Cells +2%<br>Tool Chests +2% in explorations|Tier 3 Mecha Research|blue}}
+{{gearrow|Mark II|502|100|10|30|30|In Mecha: DMG Reduction +2%|Lottery (0.71%)|blue}}
+{{gearrow|Dragon Fang Dagger|603|100|30|10|30|In Dragon Form: Gain +2% Cells<br>Gain 2% Dragon Chests in explorations|Tier 3 Dragon Research Reward|blue}}
+|}
+
+|-|Purple=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Undead Staff|103|600|60|20|20|In Zombie Form: Zombie Cells +4%<br>Evolution Chests +4% in exploration|{{retext|Undead Staff|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+{{gearrow|The Buried|102|600|60|20|20|In Zombie Form, Ignore DEF +4%|{{retext|The Buried|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+{{gearrow|Demon Scythe|203|200|60|60|20|In Demon Form: Demon Cells +4%<br>Soul Chests +4% in explorations|{{retext|Demon Scythe|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+{{gearrow|Lotus Platform VI|304|600|20|20|60|In Angel Form, Regen 640 HP each round|{{retext|Lotus Platform III|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple|Lotus Platform}}
+{{gearrow|Prayer Staff|301|600|20|20|60|In Angel Form: Angel Cells +4%<br>Fungus Chests +4% in exploration|{{retext|Prayer Staff|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Crusader Ring|blue}}|purple}}
+{{gearrow|Mind Control Dagger|403|200|60|20|60|In Mutant form: Mutant Cells +4%<br>Time Chests +4% in exploration|{{retext|Mind Control Dagger|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Crusader Ring|blue}}|purple}}
+{{gearrow|Leather Chest Armor|402|200|60|20|60|In Mutant Form, Crit DMG +8%|{{retext|Mind Control Dagger|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Crusader Ring|blue}}|purple}}
+{{gearrow|Gauss C14|503|200|20|60|60|In Mecha Form: Mecha Cells +4%<br>Tool Chests +4% in explorations|{{retext|Mind Control Dagger|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Crusader Ring|blue}}|purple}}
+{{gearrow|Mark II|502|200|20|60|60|In Mecha: DMG Reduction +4%|{{retext|Mind Control Dagger|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+{{gearrow|Dragon Fang Dagger|603|200|60|20|60|In Dragon Form: Gain +4% Cells<br>Gain 4% Dragon Chests in explorations|{{retext|Dragon Fang Dagger|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+{{gearrow|Crimson Dragon Claw|602|200|60|20|60|In Dragon: Fire DMG +240|Reward upon [[Altar#Divine_Dragon|15th Dragon Descent]].|purple}}
+|}
+
+|-|Orange=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Undead Staff|103|1200|120|40|40|In Zombie Form: Zombie Cells +8%<br>Evolution Chests +8% in exploration|{{retext|Undead Staff|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|The Buried|102|1200|120|40|40|In Zombie Form, Ignore DEF +8%|{{retext|The Buried|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Demon Scythe|203|400|120|120|40|In Demon: Demon Cells +8%<br>Soul Chests +8% in exploration|{{retext|Demon Scythe|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Azazel's Curse|202|400|120|120|40|In Demon: Crit Rate +8%|Lottery (1.56%)|orange}}
+{{gearrow|Lotus Platform IX|303|1,200|40|40|120|In Angel Form, Regen 1,280 HP each round|{{retext|Lotus Platform VI|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange|Lotus Platform}}
+{{gearrow|Prayer Staff|301|1,200|40|40|120|In Angel Form: Angel Cells +8%<br>Fungus Chests +8% in exploration|{{retext|Prayer Staff|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Mind Control Dagger|403|400|120|40|120|In Mutant form: Mutant Cells +8%<br>Time Chests +8% in exploration|{{retext|Mind Control Dagger|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Leather Chest Armor|402|400|120|40|120|In Mutant Form, Crit DMG +16%|{{retext|Leather Chest Armor|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Gauss C14|503|400|40|120|120|In Mecha Form: Mecha Cells +8%<br>Tool Chests +8% in explorations|{{retext|Gauss C14|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Mark II|502|400|40|120|120|In Mecha: DMG Reduction +8%|{{retext|Gauss C14|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Dragon Fang Dagger|603|400|120|40|120|In Dragon Form: Gain +8% Cells<br>Gain 8% Dragon Chests in explorations|{{retext|Dragon Fang Dagger|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Crimson Dragon Claw|602|400|120|40|120|In Dragon: Fire DMG +480|{{retext|Crimson Dragon Claw|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Broken Dragon Horn|603|400|120|40|120|In Dragon Form, Ignore Fire RES +120<br>In Dragon Form, Ignore Earth RES +120|Defeat [[Altar Fights#Demon Lords|Demonic Dragon]]|orange}}
+{{gearrow|Broken Caladbolg|605|400|120|40|120|In Dragon Form, Ignore Water RES +120<br>In Dragon Form, Ignore Wind RES +120|Defeat [[Altar Fights#Demon Lords|Demonic Dad of Excalibra]]|orange}}
+{{gearrow|Fire of Rage|603|400|120|40|120|In Dragon Form, Ignore DEF +8%|Defeat [[Altar Fights#Demon Lords|Ba'al]]|orange}}
+|}
+
+|-|Red=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Soul Walking|101|1,800|180|60|60|In Zombie Form, Ignore DEF +12%|{{retext|The Buried|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Serket Staff|100|1,800|180|60|60|In Zombie Form: Zombie Cells +12%<br>Evolution Chests +12% in exploration|{{retext|Undead Staff|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Azazel's Pact|201|600|180|180|60|In Demon: Crit Rate +12%|{{retext|Azazel's Curse|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Soul Reaper|200|600|180|180|60|In Demon: Demon Cells +12%<br>Soul Chests +12% in exploration|{{retext|Demon Scythe|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Lotus Platform XII|302|1,800|60|60|180|In Angel Form, Regen 1,920 HP each round|{{retext|Lotus Platform IX|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Seraph's Light|300|1,800|60|60|180|In Angel Form: Angel Cells +12%<br>Fungus Chests +12% in exploration|{{retext|Prayer Staff|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Centaur Armor|401|600|180|60|180|In Mutant Form, Crit DMG +24%|{{retext|Leather Chest Armor|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Subspace Blade|400|600|180|60|180|In Mutant form: Mutant Cells +12%<br>Time Chests +12% in exploration|{{retext|Mind Control Dagger|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Mark IV|501|600|60|180|180|In Mecha: DMG Reduction +12%|{{retext|Mark II|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Gauss M72|500|600|60|180|180|In Mecha Form: Mecha Cells +12%<br>Tool Chests +12% in explorations|{{retext|Gauss C14|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Claw of Destruction|600|600|180|60|180|In Dragon: Fire DMG +720|{{retext|Crimson Dragon Claw|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Fang of Tiamat|601|600|180|60|180|In Dragon Form: Gain +12% Cells<br>Gain 12% Dragon Chests in explorations|{{retext|Dragon Fang Dagger|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Dragon Horn|604|600|180|60|180|In Dragon Form, Ignore Fire RES +180<br>In Dragon Form, Ignore Earth RES +180|{{retext|Dragon Horn|orange}} + {{retext|Eye of Horus|orange}}|red}}
+{{gearrow|Caladbolg|606|600|180|60|180|In Dragon Form, Ignore Water RES +180<br>In Dragon Form, Ignore Wind RES +180|{{retext|Broken Caladbolg|orange}} + {{retext|Eye of Horus|orange}}|red}}
+{{gearrow|Exploding Rage|603|600|180|60|180|In Dragon form, Ignore DEF +12%|{{retext|Fire of Rage|orange}} + {{retext|Eye of Horus|orange}}|red}}
+|}
+
+|-|Red+=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Serket Staff|100|3000|300|100|100|In Zombie Form, Ignore DEF +12%<br>When in Zombie Form:<br>Gain 12% Zombie Cells in explorations<br>Gain 12% Evo Chests in explorations|{{retext|Serket Staff|red}} + {{retext|Soul Walking|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Soul Reaper|200|1000|300|300|100|In Demon Form, CRIT +12%<br>When in Demon Form:<br>Gain 12% Demon Cells in explorations<br>Gain 12% Soul Chests in Explorations|{{retext|Soul Reaper|red}} + {{retext|Azazel's Pact|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Seraph's Light|300|3000|100|100|300|In Angel Form, HP Regen +1920<br>When in Angel Form:<br>Gain 12% Angel Cells in explorations<br>Gain 12% Fungus Chests in Explorations|{{retext|Seraph's Light|red}} + {{retext|Lotus Platform XII|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Subspace Blade|400|1000|300|100|300|In Mutant Form, CRIT DMG +24%<br>When in Mutant Form:<br>Gain 12% Mutant Cells in explorations<br>Gain 12% Time Chests in Explorations|{{retext|Subspace Blade|red}} + {{retext|Centaur Armor|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Gauss M72|500|1000|100|300|300|In Mecha Form, DMG REDUC +12%<br>When in Mecha Form:<br>Gain 12% Mecha Cells in explorations<br>Gain 12% Tool Chests in Explorations|{{retext|Gauss M72|red}} + {{retext|Mark IV|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Fang of Tiamat|600|1000|300|100|300|In Dragon Form, Fire DMG +720<br>When in Dragon Form:<br>Gain 12% Cells in explorations<br>Gain 12% Dragon Chests in Explorations|{{retext|Fang of Tiamat|red}} + {{retext|Claw of Destruction|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Excaladbolg|607|1000|300|100|300|In Dragon Form, Ignore DEF +12%<br>In Dragon Form, Ignore Fire RES +180<br>In Dragon Form, Ignore Water RES +180<br>In Dragon Form, Ignore Earth RES +180<br>In Dragon Form, Ignore Wind RES +180|{{retext|Exploding Rage|red}} + {{retext|Dragon Horn|red}} + {{retext|Caladbolg|red}} + {{retext|Amulet of Will|red}}|red}}
+|}
+
+</tabber>
+
+==Instrument ==
+
+<!--hi nick -->
+
+<tabber>
+
+|-|Green=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Strength Sword|1|50|25|5|5|In any Realm, DMG +1.5%<br>In any Realm, DMG +1% in Round 1|Intercept [[Hitmen|Hitman No.1]]|green}}
+{{gearrow|Hannibel's Scalpel|19|50|25|5|5|In Snail Fight: DMG +1.5%, 1st round DMG +1%|Dragon Wish Reward<br>[[Altar#Discount_Dragon|Relics and Gear]]|green}}
+{{gearrow|Jack's Gloves|19|50|25|5|5|In Snail Fight: DMG +1.5%, 1st round DMG +1%|Dragon Wish Reward<br>[[Altar#Discount_Dragon|Relics and Gear]]|green}}
+{{gearrow|Broken Sagesinker|27|50|25|5|5|Crit DMG +2%|Fully defeat [[Mailbox#Ratman|Ratman]]|green}}
+{{gearrow|Broken Sageender|28|50|25|5|5|Crit DMG +2%|Fully defeat [[Mailbox#Ratman|Ratman]]|green}}
+{{gearrow|Broken Sagemurderer|29|50|25|5|5|Crit DMG +2%|Fully defeat [[Mailbox#Ratman|Ratman]]|green}}
+{{gearrow|Broken Sagekiller|30|50|25|5|5|Crit DMG +2%|Fully defeat [[Mailbox#Ratman|Ratman]]|green}}
+{{gearrow|Shattered Windfire Wheel|29|50|25|5|5|Lifesteal Effect +10%|Fully defeat [[Mailbox#Ratman|Ratman]]|green}}
+{{gearrow|Shattered Sky Ribbon|29|50|25|5|5|Lifesteal Effect +10%|Fully defeat [[Mailbox#Ratman|Ratman]]|green}}
+{{gearrow|Shattered Fire Spear|29|50|25|5|5|Lifesteal Effect +10%|Fully defeat [[Mailbox#Ratman|Ratman]]|green}}
+{{gearrow|Shattered Palm-Leaf Fan|29|50|25|5|5|Lifesteal Effect +10%|Fully defeat [[Mailbox#Ratman|Ratman]]|green}}
+{{gearrow|Dwarf Mask|29|50|5|25|5|If you spot a weakness, Snail DEF +30|Lottery (0.75%)|green}}
+{{gearrow|Lizard Belt|47|250|5|5|5|If you spot a weakness, Snail HP +300|Divine Chaos (1.6%)|green}}
+{{gearrow|Slippers|49|50|5|5|25|If you spot a weakness, Snail RUSH +30|Divine Neutral (1.6%)|green}}
+{{gearrow|Elegant Gloves|51|50|25|5|5|If you spot a weakness, Snail ATK +30|Divine Order (1.6%)|green}}
+{{gearrow|Fresnal Lens|53|100|10|10|10|RUSH DMG +60|[[Vending Machine]] Purchase|green}}
+{{gearrow|Crystal Lens|54|100|10|10|10|RUSH DMG +60|[[Vending Machine]] Purchase|green}}
+|}
+
+|-|Blue=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Strength Sword|1|100|50|10|10|In any Realm, DMG +3%<br>In any Realm, DMG +2% in Round 1|{{retext|Strength Sword|green}} + {{retext|White Pearl|green}} + {{retext|Warrior Ring|green}}|blue}}
+{{gearrow|Sakabato Blade|3|100|50|10|10|In Hitman Challenge: DMG +3%, 1st round DMG +2%|Intercept [[Hitmen|Hitman No.5]]|blue}}
+{{gearrow|Walnut Wand|5|100|50|10|10|Fire, Water, Earth, Wind DMG +30|Old Wizard victory reward|blue}}
+{{gearrow|Nun-chuck|7|100|50|10|10|Ignore enemy DEF +2%|Defeat Sewer Turtle #4|blue}}
+{{gearrow|Pulse Rifle|13|100|50|10|10|Fire DMG +60<br>Ignore Fire RES +30|defeating UFO(40 incense shots)|blue}}
+{{gearrow|Freddy's Claw|21|100|50|10|10|In Snail Arena, DMG +3%. In Snail Arena, Round 1 DMG +2%|{{retext|Jack's glove|green}} + {{retext|Hannibel's Scalpel|green}}|blue}}
+{{gearrow|Jason's Mask|22|100|50|10|10|In Snail Arena, DMG +3%. In Snail Arena, Round 1 DMG +2%|Dragon Wish Reward<br>[[Altar#Discount_Dragon|Relics and Gear]]|blue}}
+{{gearrow|Broken Sagekiller|35|100|50|10|10|Crit DMG +4%|{{retext|Broken Sagesinker|green}} + {{retext|Broken Sageender|green}} + {{retext|Broken Sagemurderer|green}} + {{retext|Broken Sagekiller|green}}|blue}}
+{{gearrow|Broken Godsmiter|36|100|50|10|10|Crit DMG +4%|Defeat [[Mailbox#Ratman|Ratman]]|blue}}
+{{gearrow|Broken Palm-Leaf Fan|37|100|50|10|10|Lifesteal Effect +20%|{{retext|Shattered Palm-Leaf Fan|green}} + {{retext|Shattered Fire Spear|green}} + {{retext|Shattered Sky Ribbon|green}} + {{retext|Shattered Windfire Wheel|green}}|blue}}
+{{gearrow|Broken Fiend Mirror|38|100|50|10|10|Lifesteal Effect +20%| Defeat [[Mailbox#Ratman|Ratman]]|blue}}
+{{gearrow|Dwarf Mask|29|100|10|50|10|If you spot a weakness, Snail DEF +60|{{retext|Dwarf Mask|green}} + {{retext|Black Pearl|green}} + {{retext|Warrior Ring|green}}|blue}}
+{{gearrow|Lizard Belt|47|500|10|10|10|If you spot a weakness, Snail HP +600|{{retext|Lizard Belt|green}} + {{retext|White Pearl|green}} + {{retext|Warrior Ring|green}}|blue}}
+{{gearrow|Slippers|49|100|10|10|50|If you spot a weakness, Snail RUSH +60|{{retext|Slippers|green}} + {{retext|White Pearl|green}} + {{retext|Sorcerer Ring|green}}|blue}}
+{{gearrow|Elegant Gloves|51|100|50|10|10|If you spot a weakness, Snail ATK +60|{{retext|Elegant Gloves|green}} + {{retext|White Pearl|green}} + {{retext|Sorcerer Ring|green}}|blue}}
+{{gearrow|Multifunction Goggles|55|200|20|20|20|RUSH DMG +120|{{retext|Crystal Lens|green}} + {{retext|Fresnel Lens|green}}|blue}}
+{{gearrow|Infrared Lens|56|200|20|20|20|RUSH DMG +120|[[Vending Machine]]|blue}}
+|}
+
+|-|Purple=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Strength Sword|1|200|100|20|20|In any Realm, DMG +6%<br>In any Realm, DMG +4% in Round 1|{{retext|Strength Sword|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+{{gearrow|Sakabato Blade|3|200|10|20|20|Against Hitmen, DMG +6%<br>Against Hitmen, DMG +4% for Round 1|{{retext|Sakabato Blade|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Crusader Ring|blue}}|purple}}
+{{gearrow|Walnut Wand|5|200|100|20|20|Fire, Water, Earth, Wind DMG +60|{{retext|Walnut Wand|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+{{gearrow|Nun-chuck|7|200|100|10|10|Ignore enemy DEF +4%|{{retext|Nun-chuck|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Crusader Ring|blue}}|purple}}
+{{gearrow|Pulse Rifle|13|200|100|20|20|Fire DMG +120<br>Ignore Fire RES +60|{{retext|Pulse Rifle|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+{{gearrow|Spring Longsword|15|200|10|20|20|Crit Rate +4%<br>Crit DMG +4%|Lottery (0.52%)|purple}}
+{{gearrow|Hammer of Frenzy|17|200|20|20|10|Each round, Snail RUSH +16<br>Snail ATK +16|Divine Neutral (0.4%)|purple}}
+{{gearrow|Texan Chainsaw|23|200|10|20|20|In Snail Arena, DMG +6%<br>In Snail Arena, Round 1 DMG +4%|{{retext|Freddy's Claw|blue}} + {{retext|Jason's Mask|blue}}|purple}}
+{{gearrow|Cayako's Charm|24|200|10|20|20|In Snail Arena, DMG +6%<br>In Snail Arena, Round 1 DMG +4%|Divine Dragon Wish<br>[[Altar#Discount_Dragon|Relics and Gear]]|purple}}
+{{gearrow|Dim Godsmiter|39|200|100|20|20|Crit DMG +4%<br>Lifesteal Effect +20%|{{retext|Broken Sagekiller|blue}} + {{retext|Broken Godsmiter|blue}} + {{retext|Broken Palm-Leaf Fan|blue}} + {{retext|Broken Fiend Mirror|blue}}|purple}}
+{{gearrow|Dim Ironcutter|40|200|100|20|20|Crit DMG +4%<br>Lifesteal Effect +20%|Fully defeat [[Mailbox#Ratman|Ratman]]|purple}}
+{{gearrow|Dim Trident|41|200|100|20|20|Crit DMG +4%<br>Lifesteal Effect +20%|Fully defeat [[Mailbox#Ratman|Ratman]]|purple}}
+{{gearrow|Dim Rope of Truth|42|200|100|20|20|Crit DMG +4%<br>Lifesteal Effect +20%|Fully defeat [[Mailbox#Ratman|Ratman]]|purple}}
+{{gearrow|Dwarf Mask|45|200|20|100|20|If you spot a weakness, Snail DEF +120|{{retext|Dwarf Mask|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Crusader Ring|blue}}|purple}}
+{{gearrow|Lizard Belt|47|1000|20|20|20|If you spot a weakness, Snail HP +1200|{{retext|Lizard Belt|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Crusader Ring|blue}}|purple}}
+{{gearrow|Slippers|49|200|20|20|100|If you spot a weakness, Snail RUSH +120|{{retext|Slippers|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+{{gearrow|Elegant Gloves|51|200|100|20|20|If you spot a weakness, Snail ATK +120|{{retext|Elegant Gloves|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+{{gearrow|Scout Goggles|57|200|20|20|20|RUSH DMG +120|{{retext|Multifunction Goggles|blue}} + {{retext|Infrared Lens|blue}}|purple}}
+{{gearrow|Holographic Lens|58|200|20|20|20|RUSH DMG +120|[[Vending Machine]] Purchase|purple}}
+{{gearrow|Leviathan Gloves|61|200|100|20|20|Water DMG +120<br>Ignore Enemy Water RES +60|Divine Chaos (0.4%)|purple}}
+{{gearrow|Imitation Vision|69|200|100|20|20|In Gene Simulations, DMG +6%<br>Round 1 DMG +4%|Gene Training Value Pack II ($14.99)|purple}}
+{{gearrow|Peacock Quill|71|200|100|20|100|For Round 1, CRIT DMG +4%<br>In any Realm DMG +6% in Round 1|Reward of unlocking Peackock Throne|purple}}
+|}
+
+|-|Orange=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Strength Sword|1|400|200|40|40|In any Realm, DMG +12%<br>In any Realm, DMG +8% in Round 1|{{retext|Strength Sword|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Sakabato Blade|3|400|200|40|40|In Hitman Challenge: DMG +12%<br>1st round DMG +8%|{{retext|Sakabato Blade|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Walnut Wand|5|400|200|40|40|Fire, Water, Earth, Wind DMG +120|{{retext|Walnut Wand|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Nun-chuck|7|400|200|40|40|Ignore enemy DEF +8%|{{retext|Nun-chuck|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Excalibur|9|400|200|40|40|ATK +160|Reward of defeating Excalibra<br>[[Altar#Discount_Dragon|Unique Events]]|orange}}
+{{gearrow|Anti-Strength Saber|11|400|200|40|40|In Domain Duels (1v1), DMG +12%.<br>In Domain Duels (1v1), DMG +8% for Round 1|Reward of defeating Death Satellite|orange}}
+{{gearrow|Pulse Rifle|13|400|200|40|40|Fire DMG +240<br>Ignore Fire RES +120|{{retext|Pulse Rifle|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Spring Longsword|15|400|200|40|40|Crit Rate +8%<br>Crit DMG +8%|{{retext|Spring Longsword|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Hammer of Frenzy|17|400|40|40|200|Each round, Snail RUSH +32.<br>Snail ATK +32|{{retext|Hammer of Frenzy|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Butcher's Hook|25|400|200|40|40|In Snail Arena, DMG +12%<br>In Snail Arena, Round 1 DMG +8%|{{retext|Texan Chainsaw|purple}} + {{retext|Cayako's Charm|purple}}|orange}}
+{{gearrow|Trident|43|400|200|40|40|Crit DMG +8%<br>Lifesteal Effect +40%|{{retext|Dim Godsmiter|purple}} + {{retext|Dim Ironcutter|purple}} + {{retext|Dim Trident|purple}} + {{retext|Dim Rope of Truth|purple}}|orange}}
+{{gearrow|Dwarf Mask|45|400|40|200|40|If you spot a weakness, Snail DEF +240|{{retext|Dwarf Mask|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Lizard Belt|47|2000|40|40|40|If you spot a weakness, Snail HP +2400|{{retext|Lizard Belt|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Slippers|49|400|40|40|200|If you spot a weakness, Snail RUSH +240|{{retext|Slippers|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Elegant Gloves|51|400|200|40|40|If you spot a weakness, Snail ATK +240|{{retext|Elegant Gloves|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Battle Detector|59|800|80|80|80|RUSH DMG +480|{{retext|Scout Goggles|purple}} + {{retext|Holographic Lens|purple}}|orange}}
+{{gearrow|Leviathan Gloves|61|400|200|40|40|Water DMG +240<br>Ignore Enemy Water RES +120|{{retext|Leviathan Gloves|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Electric Hammer|63|400|40|40|200|Wind DMG +240<br>Ignore Enemey Wind RES +120|Lottery 1.56%|orange}}
+{{gearrow|Fossil|65|400|200|40|40|Earth DMG +240<br>Ignore Enemy Earth RES +120|Divine Chaos 0.2%|orange}}
+{{gearrow|Drazgul Fang|67|400|200|40|200|Poison DMG +240<br>Crit Rate +8%|Gear Value Pack III(100$!!!)|orange}}
+{{gearrow|Imitation Vision|69|400|200|40|40|In Gene Simulations, DMG +12%<br>In Gene Simulations, Round 1 DMG +8%|{{retext|Imitation Vision|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Peacock Quill|71|400|200|40|200|1st round Crit DMG +8%<br>In exploration: In 1st round DMG +12%|{{retext|Peacock Quill|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Maze Key|73|400|200|200|40|All Element DMG +48<br>All RES +24|Supreme Relic #8|orange}}
+{{gearrow|B-Tadpole Sword|75|400|200|40|40|HIT +8%<br>Ignore All RES +24|Home Value Pack lv50 pond|orange}}
+|}
+
+|-|Red=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Strength Master's Sword|2|600|300|60|60|In any Realm, DMG +18%<br>In any Realm, DMG +12% in Round 1|{{retext|Strength Sword|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|True Sakabato|4|600|300|60|60|Againt Daily Hitmen,DMG +18%<br>1st round DMG +12%|{{retext|Sakabato Blade|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Oldman Wand|6|600|300|60|60|Fire, Water, Earth, Wind DMG +240|{{retext|Walnut Wand|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Norris-chuck|8|600|300|60|60|Ignore enemy DEF +12%|{{retext|Nun-chuck|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Excalibur EX|10|600|300|60|60|ATK +240|{{retext|Excalibur EX|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Dark Strength|12|600|300|60|60|In Domain Duels (1v1), DMG +18%<br>In Domain Duels (1v1), DMG +12% for Round 1|{{retext|Anti-Strength Saber|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|District 9|14|600|300|60|60|Fire DMG +360<br>Ignore Fire RES +180|{{retext|Pulse Rifle|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Big Bounce|16|600|300|60|60|Crit Rate +12%<br>Crit DMG +12%|{{retext|Spring Longsword|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Power Spinach|18|600|60|60|300|Each round, Snail RUSH +48<br>Snail ATK +48|{{retext|Hammer of Frenzy|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Blair's Curse|26|600|300|60|60|In Snail Arena, DMG +18%<br>In Snail Arena, Round 1 DMG +12%|{{retext|Butcher's Hook|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Poseidon's Trident|44|600|300|60|60|Crit DMG +12%<br>Lifesteal Effect +60%|{{retext|Trident|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Ancestral Legacy|46|600|60|300|60|If you spot a weakness, Snail DEF +360|{{retext|Dwarf Mask|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Gilded Belt|48|3000|60|60|60|If you spot a weakness, Snail HP +3600|{{retext|Lizard Belt|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Empress' Slippers|50|600|60|60|300|If you spot a weakness, Snail RUSH +360|{{retext|Slippers|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Empress Gloves|52|600|300|60|60|If you spot a weakness, Snail ATK +360|{{retext|Elegant Gloves|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Know-It-All Device|60|1,200|120|120|120|Extra RUSH DMG +720|{{retext|Battle Detector|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Hydra's Gloves|62|600|300|60|60|Water DMG +360<br>Ignore Water RES +180|{{retext|Leviathan Gloves|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Million Volts|64|600|60|60|300|Wind DMG +360<br>Ignore Enemy Wind RES +180|{{retext|Electric Hammer|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Cretaceous Weapon|66|600|300|60|60|Earth DMG +360<br>Ignore Earth RES +180|{{retext|Fossil|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Golden Drazgul Fang|68|600|300|60|300|Poison DMG +360<br>Crit Rate +12%|{{retext|Drazgul Fang|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Virtual Vision|70|600|300|60|60|In Gene Simulations, DMG +18%<br>In Gene Simulations, Round 1 DMG +12%|{{retext|Imitation Vision|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Septreasure Peacock Quill|72|600|300|60|300|For Round 1, CRIT DMG +12%<br>When exploring, DMG +18% in Round 1|{{retext|Peacock Quill|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Incredible Key|74|600|300|300|60|All Element DMG +72<br>All RES +36|{{retext|Maze Key|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|W-Tadpole Sword|76|600|300|60|60|HIT +12<br>Ignore All RES +36|{{retext|B-Tadpole Sword|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+|}
+
+|-|Red+=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Strength Master's Sword|2|1000|500|100|100|DMG +24%<br>For Round 1, DMG +36%|{{retext|Strength Master's Sword|red}} + {{retext|True Sakabato Blade|red}} + {{retext|Virtual Vision|red}} + {{retext|Dark Strength|red}} + {{retext|Blair's Curse|red}}|red}}
+{{gearrow|Norris-chuck|8|1000|500|100|100|Earth DMG +360<br>Ignore Earth RES +180<br>Ignore DEF +12%|{{retext|Norris-chuck|red}} + {{retext|Cretaceous Weapon|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Excalibur EX|10|1000|500|100|100|Snail ATK +240<br>Fire DMG +240<br>Water DMG +240<br>Earth DMG +240<br>Wind DMG +240|{{retext|Excalibur EX|red}} + {{retext|Oldman Wand|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Big Bounce|16|1000|500|100|100|Fire DMG +360<br>Ignore Fire RES +180<br>Crit +12%<br>Crit DMG +12%|{{retext|Big Bounce|red}} + {{retext|District 9|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Power Spinach|18|1000|100|100|500|Wind DMG +360<br>Ignore Wind RES +180<br>Each round, Snail RUSH +48<br>Snail ATK +48|{{retext|Power Spinach|red}} + {{retext|Million Volts|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Poseidon's Trident|44|1000|500|100|100|Water DMG +360<br>Ignore Water RES +180<br>Crit DMG +12%<br>Lifesteal Effect +60%|{{retext|Poseidon's Trident|red}} + {{retext|Hydra's Gloves|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Know-It-All Device|60|2,000|200|200|200|If you spot a weakness, Snail HP +3,600<br>If you spot a weakness, Snail ATK +360<br>If you spot a weakness, Snail DEF +360<br>If you spot a weakness, Snail RUSH +360<br>Extra RUSH DMG +720|{{retext|Know-It-All Device|red}} + {{retext|Gilded Belt|red}} + {{retext|Empress Gloves|red}} + {{retext|Ancestral Legacy|red}} + {{retext|Empress' Slippers|red}}|red}}
+{{gearrow|Golden Drazgul Fang|68|1000|500|100|500|Poison DMG +360<br>CRIT +12%<br>For Round 1, Crit DMG +12%<br>In any Realm, DMG +18% in Round 1|{{retext|Golden Drazgul Fang|red}} + {{retext|Septreasure Peacock Quill|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Incredible Key|74|1000|500|500|100|All ELMT DMG +72<br>All RES +36<br>Ignore all RES +36<br>HIT +12%|{{retext|Incredible Key|red}} + {{retext|W-Tadpole Sword|red}} + {{retext|Amulet of Will|red}}|red}}
+|}
+
+</tabber>
+
+
+
+==Armor ==
+
+<!--looking to protect yourself, or deal some damage -->
+
+<tabber>
+
+|-|Green=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Sailor Suit|15|100|10|10|10|Per 10% HP lost, Snail ATK +30<br>Per 10% HP lost, Snail DEF +30|Defeat [[Incense#Special Incense Events|Grandpire]]|green}}
+{{gearrow|Rock|17|50|5|25|5|Earth RES +30|Lottery 0.75%|green}}
+{{gearrow|Lifebuoy|19|150|5|15|5|Water RES +30|Lottery 0.75%|green}}
+{{gearrow|Stage Hat|33|100|10|10|10|FTH +5, ART +5, CIV +5, TECH +5, FAME +5|Divine Order chest 1.6%|green}}
+{{gearrow|Static Belt|35|50|5|5|25|Wind RES +30|Divine Neutral 1.6%|green}}
+|}
+
+|-|Blue=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Elven Cape|3|200|20|20|20|Snail ART +40|Divine Order 0.8%|blue}}
+{{gearrow|Death Shroud|13|500|10|10|10|Lifesteal Rate +2%<br>Lifesteal Effect +10%|Dracula victory reward|blue}}
+{{gearrow|Sailor Suit|15|200|20|20|20|Per 10% HP lost, Snail ATK +60<br>Per 10% HP lost, Snail DEF +60|{{retext|Sailor Suit|green}} + {{retext|White Pearl|green}} + {{retext|Warrior Ring|green}}|blue}}
+{{gearrow|Rock|17|100|10|50|10|Earth RES +60|{{retext|Rock|green}} + {{retext|Black Pearl|green}} + {{retext|Warrior Ring|green}}|blue}}
+{{gearrow|Lifebuoy|19|300|10|30|10|Water RES +60|{{retext|Lifebuoy|green}} + {{retext|White Pearl|green}} + {{retext|Sorceror Ring|green}}|blue}}
+{{gearrow|Strong Round Shield|21|100|10|50|10|DMG REDUC +1.6%|Divine Neutral 0.8%|blue}}
+{{gearrow|Workout Top|23|300|10|30|10|Dodge Rate +2%|Lottery 0.71%|blue}}
+{{gearrow|Stage Hat|33|200|20|20|20|Snail FTH +10; Snail ART +10; Snail CIV +10; Snail TECH +10; Snail FAME +10|{{retext|Stage Hat|green}} + {{retext|Black Pearl|green}} + {{retext|Sorceror Ring|green}}|blue}}
+{{gearrow|Static Belt|35|100|10|10|50|Wind RES +60|{{retext|Static Belt|green}} + {{retext|White Pearl|green}} + {{retext|Warrior Ring|green}}|blue}}
+|}
+
+|-|Purple=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Elven Cape|3|400|40|40|40|Snail ART +80|{{retext|Elven Cape|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Crusader Ring|blue}}|purple}}
+{{gearrow|Saint's Earring|7|400|40|40|40|FTH +80|Divine Order 0.4%|purple}}
+{{gearrow|Crown of Power|9|400|40|40|40|FTH +80|Divine Chaos 0.4%|purple}}
+{{gearrow|Ring of Stupor|11|200|20|20|100|Chance to Paralysis enemy +2.4%|Hitman 15 victory reward|purple}}
+{{gearrow|Death Shroud|13|1,000|20|20|20|Lifesteal Rate +4%<br>Lifesteal Effect +20%|{{retext|Sailor Suit|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+{{gearrow|Sailor Suit|15|400|40|40|40|Per 10% HP lost, Snail ATK +120<br>Per 10% HP lost, Snail DEF +120|{{retext|Sailor Suit|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Sorceror Ring|blue}}|purple}}
+{{gearrow|Rock|17|200|20|100|20|Earth RES +120|{{retext|Rock Suit|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Crusader Ring|blue}}|purple}}
+{{gearrow|Lifebuoy|19|600|20|60|20|Water RES +120|{{retext|Lifebuoy|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+{{gearrow|Strong Round Shield|21|200|20|100|20|DMG REDUC +2.3%|{{retext|Strong Round Shield|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Crusader Ring|blue}}|purple}}
+{{gearrow|Workout Top|23|600|20|60|20|Dodge Rate +4%|{{retext|Workout Topy|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Crusader Ring|blue}}|purple}}
+{{gearrow|Magician|25|400|40|40|40|All RES +24|Divine Neutral 0.4%|purple}}
+{{gearrow|Thorn|29|1,000|20|20|20|Fire RES +120|Divine Order Chest 0.4%|purple}}
+{{gearrow|Stage Hat|33|400|40|40|40|Snail FTH +20; Snail ART +20; Snail CIV +20; Snail TECH +20; Snail FAME +20|{{retext|Stage Hat|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+{{gearrow|Static Belt|35|200|20|20|100|Wind RES +120|{{retext|Static Belt|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Wizard Ring|blue}}|purple}}
+|}
+
+|-|Orange=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Wisdom Cloak|1|800|80|80|80|Snail CIV +160|Divine Neutral 0.2%|orange}}
+{{gearrow|Elven Cape|3|600|60|60|60|Snail ART +160|{{retext|Elven Cape|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Ring|purple}}|orange}}
+{{gearrow|Power Armor|5|800|80|80|80|TECH +160|Divine Chaos 0.2%|orange}}
+{{gearrow|Saint's Earring|7|800|80|80|80|FTH +160|{{retext|Saint's Earring|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Ring|purple}}|orange}}
+{{gearrow|Crown of Power|9|800|80|80|80|FAME +160|{{retext|Crown of Power|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Ring|purple}}|orange}}
+{{gearrow|Ring of Stupor|11|400|20|20|200|Chance to Paralysis enemy +4.8%|{{retext|Ring of Stupor|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Ring|purple}}|orange}}
+{{gearrow|Death Shroud|13|2,000|40|40|40|Lifesteal Rate +8<br>Lifesteal Effect +40%|{{retext|Death Shroud|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Icy Ring|purple}}|orange}}
+{{gearrow|Sailor Suit|15|800|80|80|80|Per 10% HP lost, Snail ATK +240<br>Per 10% HP lost, Snail DEF +240|{{retext|Sailor Suit|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Rock|17|400|40|200|40|Earth RES +240|{{retext|Rock|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Lifebuoy|19|1,200|40|120|40|Water RES +240|{{retext|Lifebuoy|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Strong Round Shield|21|400|40|200|40|DMG REDUC +6.4%|{{retext|Strong Round Shield|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Workout Top|23|1,200|40|120|40|Dodge Rate +8%|{{retext|Workout Top|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Magician|25|800|80|80|80|All RES +48|{{retext|Magician|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Icy Ring|purple}}|orange}}
+{{gearrow|Alloy Shield|27|400|40|20|40|Each round: DEF +64|Divine Neutral 0.2%|orange}}
+{{gearrow|Thorn|29|2,000|40|40|40|Fire RES +240|{{retext|Thorn|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Bracelet|purple}}|orange}}
+{{gearrow|Chief|31|400|40|200|40|Crit DMG reduction +8%|Divine Order Chest 0.2%|orange}}
+{{gearrow|Stage Hat|33|800|80|80|80|Snail FTH +40. Snail ART +40. Snail CIV +40. Snail TECH +40. Snail FAME +40|{{retext|Stage Hat|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Static Belt|35|400|40|40|200|Wind RES +240|{{retext|Static Belt|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Seething Bracelet|purple}}|orange}}
+{{gearrow|Gold Outfit|37|1,200|40|120|40|ELMT DMG REDUC +4.8%|Defeat Agamemnon Mask Civilization Mirage|orange}}
+{{gearrow|Time Amulet|39|1,200|40|120|40|HP Regen +640 each round|Defeat Eye of Akamoddo Civilization Mirage|orange}}
+|}
+
+|-|Red=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Ogma's Cloak|2|1,200|120|120|120|Snail CIV +240|{{retext|Wisdom Cloak|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Selene Amulet|4|1,200|120|120|120|Snail ART +240|{{retext|Elven Cape|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Antimatter Armor|6|1,200|120|120|120|Snail TECH +240|{{retext|Power Armor|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Michael's Earrings|8|1,200|120|120|120|Snail FTH +240|{{retext|Saint's Earring|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Caesar's Crown|10|1,200|120|120|120|Snail TECH +240|{{retext|Crown of Power|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Ring of Paralysis|12|600|60|60|300|Chance to Paralysis enemy +7.2%|{{retext|Ring of Stupor|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Dracula Cape|14|3,000|60|60|60|Lifesteal Rate +12%<br>Lifesteal Effect +60%|{{retext|Death Shroud|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Grandpire's Robe|16|1,200|120|120|120|Per 10% HP lost, Snail ATK +360<br>Per 10% HP lost, Snail DEF +360|{{retext|Sailor Suit|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Bedrock|18|600|60|300|60|Earth RES +360|{{retext|Rock|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Poseidon's Blessing|20|1,800|60|180|60|Water RES +360|{{retext|Lifebuoy|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Fortress|22|600|60|300|60|DMG Reduction +9.6%|{{retext|Strong Round Shield|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Traveler Outfit|24|1,800|60|180|60|Dodge Rate +12%|{{retext|Workout Top|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|The Great Magician|26|1,200|120|120|120|ALL RES +72|{{retext|Magician|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Antimatter Shield|28|600|60|300|60|DEF +96 per round|{{retext|Alloy Shield|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Heart of Nature|30|3,000|60|60|60|Fire RES +360|{{retext|Thorn|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Super Warrior|32|600|60|300|60|CRIT DMG REDUC +12%|{{retext|Chief|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|The Great Entertainer|34|1,200|120|120|120|FTH +60<br>ART +60<br>CIV +60<br>TECH +60<br>FAME +60|{{retext|Stage Hat|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Thunder Belt|36|600|60|60|300|Wind RES +360|{{retext|Static Belt|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Agamemnon Outfit|38|3,000|100|300|100|ELMT DMG REDUC +7.2%|{{retext|Gold Outfit|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}}|red}}
+{{gearrow|Eye of Akamoddo Amulet|40|1,800|60|180|60|Restore 960 HP each round|{{retext|Time Amulet|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Abyss Wings|orange}}|red}}
+|}
+
+|-|Red+=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Ring of Paralysis|12|1,000|100|100|500|Wind RES +360<br>Paralyze enemy by +7.2%|{{retext|Ring of Paralysis|red}} + {{retext|Thunder Belt|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Dracula Cape|14|5,000|100|100|100|Fire RES +360<br>Lifesteal Rate+12%<br>Lifesteal Effect+60%|{{retext|Dracula Cape|red}} + {{retext|Heart of Nature|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Fortress|22|1,000|100|500|100|Earth RES +360<br>DMG REDUC +9.6%|{{retext|Fortress|red}} + {{retext|Bedrock|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Traveler Outfit|24|3,000|100|300|100|Water RES +360<br>Dodge +12%|{{retext|Traveler Outfit|red}} + {{retext|Poseidon's Blessing|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|The Great Magician|26|2,000|200|200|200|All RES +72<br>Per 10% HP lost,<br>Snail ATK +360<br>Snail DEF +360|{{retext|The Great Magician|red}} + {{retext|Grandpire's Robe|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|Antimatter Shield|28|1,000|100|500|100|Crit DMG REDUC +12%<br>Each Round DEF +96|{{retext|Antimatter shield|red}} + {{retext|Super Warrior|red}} + {{retext|Amulet of Will|red}}|red}}
+{{gearrow|The Great Entertainer|34|2,000|200|200|200|Snail FTH +300<br>Snail ART +300<br>Snail CIV +300<br> Snail TECH +300<br>Snail FAME +300|{{retext|The Great Entertainer|red}} + {{retext|Ogma's Cloak|red}} + {{retext|Selene Amulet|red}} + {{retext|Antimatter Armor|red}} + {{retext|Michael's Earrings|red}}|red}}
+{{gearrow|Agamemnon Outfit|38|3,000|100|300|100|ELMT RES +7.2%<br>Restore 960 HP each round|{{retext|Agamemnon Outfit|red}} + {{retext|Eye of Akamoddo Amulet|red}} + {{retext|Amulet of Will|red}}|red}}
+|}
+
+</tabber>
+
+==Material==
+
+<!--need wings, esp for later altar events, and eyes/will for the +5 gods -->
+
+<tabber>
+
+|-|White=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Flower Crown|1|100|0|10|0||• [[Fissure|Fissure shop]]<br>• Lottery Machine (1.12% chance)<br>• Gear Chest (13% chance)|gray}}
+{{gearrow|Wooden Ring|2|100|0|10|0||• [[Fissure|Fissure shop]]<br>• Lottery Machine (1.12% chance)<br>• Gear Chest (13% chance)|gray}}
+{{gearrow|Iron Ring|3|0|10|0|10||• [[Fissure|Fissure shop]]<br>• Lottery Machine (1.12% chance)<br>• Gear Chest (13% chance)|gray}}
+{{gearrow|Beast Fang|4|0|10|0|10||• [[Fissure|Fissure shop]]<br>• Lottery Machine (1.12% chance)<br>• Gear Chest (13% chance)|gray}}
+|}
+
+|-|Green=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Sorcerer Ring|5|150|5|15|15||• Flower Crown + Wooden Ring<br>• Lottery Machine (0.67% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests(0.9% chance)|green}}
+{{gearrow|Warrior Ring|6|50|15|5|15||• Iron Ring + Beast Fang<br>• Lottery Machine (0.67% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests (0.9% chance)|green}}
+{{gearrow|White Pearl|7|150|5|15|5||• [[Fissure|Fissure shop]]<br>• Lottery Machine (0.75% chance)<br>• Gear Chest (12% chance)<br>• Divine Chests (13.5% chance)|green}}
+{{gearrow|Black Pearl|8|50|15|5|15||• [[Fissure|Fissure shop]]<br>• Lottery Machine (0.75% chance)<br>• Gear Chest (12% chance)<br>• Divine Chests (13.5% chance)|green}}
+|}
+
+|-|Blue=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Wizard Ring|9|300|10|30|10||• {{retext|White Pearl|green}} + {{retext|Sorcerer Ring|green}}<br>• Lottery Machine (0.57% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests (0.9% chance)|blue}}
+{{gearrow|Crusader Ring|10|100|30|10|30||• {{retext|Black Pearl|green}} + {{retext|Warrior Ring|green}}<br>• Lottery Machine (0.57% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests (0.9% chance)|blue}}
+{{gearrow|Ruby Brooch|11|100|30|10|30||• [[Fissure|Fissure Shop]]<br>• Lottery Machine (0.71% chance)<br>• Gear Chest (5.6% chance)<br>• Divine Chests (6.3% chance)|blue}}
+{{gearrow|Sapphire Brooch|12|300|10|30|10||• [[Fissure|Fissure Shop]]<br>• Lottery Machine (0.71% chance)<br>• Gear Chest (5.6% chance)<br>• Divine Chests (6.3% chance)|blue}}
+|}
+
+|-|Purple=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Seething Bracelet|13|200|60|20|60||• {{retext|Wizard Ring|blue}} + {{retext|Ruby Brooch|blue}} + {{retext|Crusader Ring|blue}}<br>• Lottery Machine (0.1% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests (0.9% chance)|purple}}
+{{gearrow|Icy Bracelet|14|600|20|60|20||• {{retext|Wizard Ring|blue}} + {{retext|Sapphire Brooch|blue}} + {{retext|Crusader Ring|blue}}<br>• Lottery Machine (0.1% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests (0.9% chance)|purple}}
+{{gearrow|Heaven Amulet|222|600|20|60|20||• [[Fissure|Fissure shop]]<br>• Lottery Machine (0.52% chance)<br>• Gear Chest (2.4% chance)<br>• Divine Chests (2.7% chance)|purple}}
+{{gearrow|Abyss Amulet|333|200|60|20|60||• [[Fissure|Fissure shop]]<br>• Lottery Machine (0.52% chance)<br>• Gear Chest (2.4% chance)<br>• Divine Chests (2.7% chance)|purple}}
+|}
+
+|-|Orange=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Heaven Wings|444|1,200|40|120|40||•{{retext|Seething Bracelet|purple}} + {{retext|Heaven Amulet|purple}} + {{retext|Icy Bracelet|purple}}<br>• Lottery Machine (0.62% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests (0.9% chance)|orange}}
+{{gearrow|Abyss Wings|555|400|120|40|120||• {{retext|Seething Bracelet|purple}} + {{retext|Abyss Amulet|purple}} + {{retext|Icy Bracelet|purple}}<br>• Lottery Machine (0.62% chance)<br>• Gear Chest (0.8% chance)<br>• Divine Chests (0.9% chance)|orange}}
+{{gearrow|Crystal of Will|666|800|80|80|80||• Reward of some [[Fissure]] incidents<br>• Reward of offering Gaia's Tainted Organs at the [[Altar]]|orange}}
+{{gearrow|Demon God Crystal|665|800|80|80|80||Currently only available from final Lucky Clover Round|orange}}
+{{gearrow|Eye of Horus|777|800|80|80|80||• Lottery Machine (1.56% chance)<br>• Gear Chest (1.6% chance)<br>• Divine Chests (1.8% chance)|orange}}
+{{gearrow|Blasphemy Eye|776|800|80|80|80||Random Events, Sunday Stars 59.99$, and other misc Gear Bags|orange}}
+|}
+
+|-|Red=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Amulet of Will|999|1,200|120|120|120||{{retext|Crystal of Will|orange}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}} + {{retext|Abyss Wings|orange}}|red}}
+{{gearrow|Demon God Amulet|998|1,200|120|120|120||{{retext|Demon God Crystal|orange}} + {{retext|Eye of Blasphemy|orange}} + {{retext|Heaven Wings|orange}} + {{retext|Abyss Wings|orange}}|red}}
+|}
+
+|-|Red+=
+
+{|class="wikitable"
+{{gearheader}}
+{{gearrow|Amulet of Will +1|999|2,000|200|200|200||{{retext|Amulet of Will|red}} + {{retext|Eye of Horus|orange}} + {{retext|Heaven Wings|orange}} + {{retext|Abyss Wings|orange}}|red|Amulet of Will}}
+|}
+
+</tabber>
+
+==War Gear (Minion boosters)==
+To equip War Gear you must purchase the {{RewardIconWithText|War Weapon Tech}} from the [[Murikan_Domain#Store|Murikan Domain Store]] for 100k {{RewardIconWithText|B-Tad}}.
+
+Each Gear affects a certain Minion Type, and will be denoted with the respective form symbol<!--Honorable mention thundos Hammer, and the Hinga Dais-->
+<tabber>
+|-|Green=
+
+{|class="wikitable"
+{{Miniongearheader}}
+{{Miniongearrow|Broken Pawson Claw|1|0|1|0|1|In Domain Wars, Mutant Minion ATK +0.5%<br>In Domain Wars, Mutant Minion RUSH +0.5%|Murikan Domain|green|mutant|Pawson Claw}}
+{{Miniongearrow|Broken Bladden Sword|2|0|1|1|0|In Domain Wars, Demon Minion ATK +0.5%<br>In Domain Wars, Mutant Minion DEF +0.5%|Murikan Domain|green|demon|Bladden Blade}}
+{{Miniongearrow|Broken Jaden Spear|3|0|1|0|1|In Domain Wars, Dragon Minion ATK +0.5%<br>In Domain Wars, Mutant Minion RUSH +0.5%|Murikan Domain|green|dragon|Jaden Spear}}
+{{Miniongearrow|Broken Racky Cannon|4|10|1|0|0|In Domain Wars, Mecha Minion DEF +0.5%<br>In Domain Wars, Mecha Minion RUSH +0.5%|Murikan Domain|green|mecha|Racky Cannon}}
+{{Miniongearrow|Broken Nethrone Coffin|5|0|1|1|0|In Domain Wars, Zombie Minion HP +0.5%<br>In Domain Wars, Zombie Minion ATK +0.5%|Murikan Domain|green|zombie|Nethrone Coffin}}
+{{Miniongearrow|Broken Minerva Staff|6|10|0|0|1|In Domain Wars, Mutant Minion HP +0.5%<br>In Domain Wars, Mutant Minion RUSH +0.5%|Murikan Domain|green|angel|Minerva Staff}}
+{{Miniongearrow|Carbon Fiber Strut|762|10|0|1|0|In Species War, Troop Earth DMG +0.6%<br>In Species War, Troop Water DMG +0.6%|Obtained by feeding [[Maneater]]|green|zombie}}
+{{Miniongearrow|Bucket Helm|761|10|0|1|0|In Species War, Troop Earth Earth DMG +0.6%<br>In Species War, Troop Water DMG +0.6%|Obtained by feeding [[Maneater]]|green|zombie}}
+|}
+
+|-|Blue=
+
+{|class="wikitable"
+{{Miniongearheader}}
+{{Miniongearrow|Damaged Pawson Claw|1|0|2|0|2|In Domain Wars, Mutant Minion ATK +1%<br>In Domain Wars, Mutant Minion RUSH +1%|{{Retext|Broken Pawson Claw|green}} + {{Retext|Black Pearl|green}} + {{Retext|Sorcerer Ring|green}}|blue|mutant|Pawson Claw}}
+{{Miniongearrow|Damaged Bladden Sword|2|0|2|2|0|In Domain Wars, Demon Minion ATK +1%<br>In Domain Wars, Mutant Minion DEF +1%|{{Retext|Broken Bladden Blade|green}} + {{Retext|Black Pearl|green}} + {{Retext|Sorcerer Ring|green}}|blue|demon|Bladden Blade}}
+{{Miniongearrow|Damaged Jaden Spear|3|0|2|0|2|In Domain Wars, Dragon Minion ATK +1%<br>In Domain Wars, Mutant Minion RUSH +1%|{{Retext|Broken Jaden Spear|green}} + {{Retext|White Pearl|green}} + {{Retext|Warrior Ring|green}}|blue|dragon|Jaden Spear}}
+{{Miniongearrow|Damaged Racky Cannon|4|20|2|0|0|In Domain Wars, Mecha Minion DEF +1%<br>In Domain Wars, Mecha Minion RUSH +1%|{{Retext|Broken Racky Cannon|green}} + {{Retext|White Pearl|green}} + {{Retext|Warrior Ring|green}}|blue|mecha|Racky Cannon}}
+{{Miniongearrow|Damaged Nethrone Coffin|5|0|2|2|0|In Domain Wars, Zombie Minion HP +1%<br>In Domain Wars, Zombie Minion ATK +1%|{{Retext|Broken Nethrone Coffin|green}} + {{Retext|Black Pearl|green}} + {{Retext|Sorcerer Ring|green}}|blue|zombie|Nethrone Coffin}}
+{{Miniongearrow|Damaged Minerva Staff|6|20|0|0|2|In Domain Wars, Mutant Minion HP +1%<br>In Domain Wars, Mutant Minion RUSH +1%|{{Retext|Broken Minerva Staff|green}} + {{Retext|White Pearl|green}} + {{Retext|Warrior Ring|green}}|blue|angel|Minerva Staff}}
+{{Miniongearrow|Cowhide Boots|134|20|0|2|0|In Minion Sims, all Minion RUSH +0.8%<br>In Minion Sims, Round 1 Troop CRIT +2.4% first turn|Obtained from Minion Sim Value Pack|blue|mutant}}
+{{Miniongearrow|Spectral Whip|135|20|0|2|0|In Minion Sims, all Minion RUSH +0.8%<br>In Minion Sims, Round 1 Troop CRIT +2.4% first turn|Obtained from Minion Sim Value Pack|blue|mutant}}
+{{Miniongearrow|Disk of Regeneration|185|20|0|2|0|In Minion Sims, Troop HP Regen +240<br>In Minion Sims, Troop Healing +2%|Purchase in Sim Shop|blue|angel}}
+{{Miniongearrow|White Oaken Shield|184|20|0|2|0|In Minion Sims, Troop HP Regen +240<br>In Minion Sims, Troop Healing +2%|Purchase in Sim Shop|blue|angel}}
+{{Miniongearrow|Diving Goggles|764|20|0|2|0|In Species War, Troop Earth DMG +1.2%<br>In Species War, Troop Water DMG +1.2%|{{Retext|Bucket Helm|green}} + {{Retext|Carbon Fiber Strut|green}} + {{Retext|Warrior Ring|green}}|blue|zombie}}
+{{Miniongearrow|Miner's Hat|763|20|0|2|0|In Species War, Troop Earth DMG +1.2%<br>In Species War, Troop Water DMG +1.2%|Obtained by feeding [[Maneater]]|blue|zombie}}
+|}
+
+|-|Purple=
+
+{|class="wikitable"
+{{Miniongearheader}}
+{{Miniongearrow|Dim Pawson Claw|1|0|3|0|3|In Domain Wars, Mutant Minion ATK +2%<br>In Domain Wars, Mutant Minion RUSH +2%|{{Retext|Damaged Pawson Claw|blue}} + {{Retext|Sapphire Brooch|blue}} + {{Retext|Wizard Ring|blue}}|purple|mutant|Pawson Claw}}
+{{Miniongearrow|Deformed Shell|1|30|0|3|0|In Domain Wars, Mutant Minion ATK +2%<br>In Domain Wars, Mutant Minion RUSH +2%|Lotto #2|purple|mutant}}
+{{Miniongearrow|Dim Bladden Sword|2|0|3|3|0|In Domain Wars, Demon Minion ATK +2%<br>In Domain Wars, Demon Minion DEF +2%|{{Retext|Damaged Bladden Blade|blue}} + {{Retext|Sapphire Brooch|blue}} + {{Retext|Wizard Ring|blue}}|purple|demon|Bladden Blade}}
+{{Miniongearrow|Ritual|201|30|0|0|3|In Domain Wars, Demon Minion ATK +2%<br>In Domain Wars, Demon DEF +2%|Lotto #2|purple|demon}}
+{{Miniongearrow|Dim Jaden Spear|3|0|3|0|3|In Domain Wars, Dragon Minion ATK +2%<br>In Domain Wars, Dragon Minion RUSH +2%|{{Retext|Damaged Jaden Spear|blue}} + {{Retext|Ruby Brooch|blue}} + {{Retext|Crusader Ring|blue}}|purple|dragon|Jaden Spear}}
+{{Miniongearrow|Dragon's Blessing|301|30|0|3|0|In Domain Wars, Dragon Minion ATK +2%<br>In Domain Wars, Dragon Minion RUSH +2%|Lotto #2|purple|dragon}}
+{{Miniongearrow|Dim Racky Cannon|4|30|3|0|0|In Domain Wars, Mecha Minion DEF +2%<br>In Domain Wars, Mecha Minion RUSH +2%|{{Retext|Damaged Racky Cannon|blue}} + {{Retext|Ruby Brooch|blue}} + {{Retext|Crusader Ring|blue}}|purple|mecha|Racky Cannon}}
+{{Miniongearrow|Perpetual Slash|401|0|0|3|3|In Domain Wars, Mecha Minion DEF +2%<br>In Domain Wars, Mecha Minion RUSH +2%|Lotto #2|purple|mecha}}
+{{Miniongearrow|Dim Nethrone Coffin|5|0|3|3|0|In Domain Wars, Zombie Minion HP +2%<br>In Domain Wars, Zombie Minion ATK +2%|{{Retext|Damaged Nethrone Coffin|blue}} + {{Retext|Sapphire Brooch|blue}} + {{Retext|Wizard Ring|blue}}|purple|zombie|Nethrone Coffin}}
+{{Miniongearrow|Gravedigger's Seal|501|30|0|0|3|In Domain Wars, Zombie Minion HP +2%<br>In Domain Wars, Zombie Minion ATK +2%|Lotto #2|purple|zombie}}
+{{Miniongearrow|Dim Minerva Staff|6|30|0|0|3|In Domain Wars, Angel Minion HP +2%<br>In Domain Wars, Angel Minion RUSH +2%|{{Retext|Damaged Minerva Staff|blue}} + {{Retext|Ruby Brooch|blue}} + {{Retext|Crusader Ring|blue}}|purple|angel|Minerva Staff}}
+{{Miniongearrow|Ancient Staff|601|0|3|3|0|In Domain Wars, Angel Minion HP +2%<br>In Domain Wars, Angel Minion RUSH +2%|Lotto #2|purple|angel}}
+{{Miniongearrow|Raider Armor|751|0|3|0|3|In Species War, AFFCT Checks -240<br>In Species War, Troop ELMT RES +1.6%|Training Value Pack|purple|demon}}
+{{Miniongearrow|Commander Armor|752|0|3|0|3|In Species War, Troop HP Regen +480<br>In Species War, Troop Healing +2.4%|Training Value Pack|purple|demon}}
+{{Miniongearrow|Crimson Cloak|133|30|0|3|0|In Minion Sims, Extra Troop RUSH DMG +240<br>In Minion Sims, Power Checks -2%|Training Value Pack|purple|demon}}
+{{Miniongearrow|Shadow Boots|132|0|3|0|3|In Minion Sims, all Minion Rush +1.6%<br>In Minion Sims, Round 1 Troop CRIT +4.8%|Training Value Pack|purple|demon}}
+{{Miniongearrow|Trumpet Shell|182|0|3|0|3|In Minion Sims, all Minion DEF +1.6%<br>In Minion Sims, Troop DMG REDUC +2.4%|Purchase in Sim Shop|purple|angel}}
+{{Miniongearrow|Reincarnation Shield|183|30|0|3|0|In Minion Sims, Troop HP Regen +480<br>In Minion Sims, Troop Healing +4%|{{Retext|Disk of Regeneration|blue}} + {{Retext|White Oaken Shield|blue}} + {{Retext|Crusader Ring|blue}}|purple|angel}}
+{{Miniongearrow|Quarterback Chest Protector|766|30|0|3|0|In Species War, Troop Earth DMG +2.4%<br>In Species War, Troop Water DMG +2.4%|{{Retext|Miner's Hat|blue}} + {{Retext|Diving Goggles|blue}} + {{Retext|Crusader Ring|blue}}|purple|zombie}}
+{{Miniongearrow|Bird Hunting Slingshot|765|0|3|0|3|In Species War, Troop Fire DMG +2.4%<br>In Species War, Troop Wind DMG +2.4%|Obtained by feeding [[Maneater]]|purple|zombie}}
+|}
+
+|-|Orange=
+
+{|class="wikitable"
+{{Miniongearheader}}
+|-
+{{Miniongearrow|Perfect Pawson Claw|1|30|3|3|3
+|In Domain Wars, Mutant Minion HP +2%<br>In Domain Wars, Mutant Minion ATK +2%<br>In Domain Wars, Mutant Minion DEF +2%<br>In Domain Wars, Mutant Minion RUSH +2%
+|{{Retext|Dim Pawson Claw|purple}} + {{Retext|Deformed Shell|purple}} + {{Retext|Abyss Amulet|purple}} + {{Retext|Seething Bracelet|purple}}
+|orange|mutant|Clean Pawson Claw}}
+|-
+{{Miniongearrow|Chimera|102|30|3|3|3
+|In Species Wars, Mutant Minion HP +2%<br>In Species Wars, Mutant Minion ATK +2%<br>In Species Wars, Mutant Minion DEF +2%<br>In Species Wars, Mutant Minion RUSH +2%
+|Lotto #2|orange|mutant}}
+|-
+{{Miniongearrow|Perfect Bladden Sword|2|30|3|3|3
+|In Domain Wars, Demon Minion HP +2%<br>In Domain Wars, Demon Minion ATK +2%<br>In Domain Wars, Demon Minion DEF +2%<br>In Domain Wars, Demon Minion RUSH +2%
+|{{Retext|Dim Bladden Sword|purple}} + {{Retext|Ritual|purple}} + {{Retext|Abyss Amulet|purple}} + {{Retext|Seething Bracelet|purple}}
+|orange|demon|Clean Bladden Blade}}
+|-
+{{Miniongearrow|Crimson Queen|202|30|3|3|3
+|In Species Wars, Demon Minion HP +2%<br>In Species Wars, Demon Minion ATK +2%<br>In Species Wars, Demon Minion DEF +2%<br>In Species Wars, Demon Minion RUSH +2%
+|Lotto #2|orange|demon}}
+|-
+{{Miniongearrow|Perfect Jaden Spear|3|30|3|3|3
+|In Domain Wars, Dragon Minion HP +2%<br>In Dragon Wars, dragon Minion ATK +2%<br>In Domain Wars, Dragon Minion DEF +2%<br>In Domain Wars, Dragon Minion RUSH +2%
+|{{Retext|Dim Jaden Blade|purple}} + {{Retext|Dragon's Blessing|purple}} + {{Retext|Heaven Amulet|purple}} + {{Retext|Icy Bracelet|purple}}
+|orange|dragon|Clean Jaden Spear}}
+|-
+{{Miniongearrow|Immortal Glory|302|30|3|3|3
+|In Species Wars, Dragon Minion HP +2%<br>In Species Wars, Dragon Minion ATK +2%<br>In Species Wars, Dragon Minion DEF +2%<br>In Species Wars, Dragon Minion RUSH +2%
+|Lotto #2|orange|dragon}}
+|-
+{{Miniongearrow|Perfect Racky Cannon|4|30|3|3|3
+|In Domain Wars, Mecha Minion HP +2%<br>In Domain Wars, Mecha Minion ATK +2%<br>In Domain Wars, Mecha Minion DEF +2%<br>In Domain Wars, Mecha Minion RUSH +2%
+|{{Retext|Dim Racky Cannon|purple}} + {{Retext|Perpetual Slash|purple}} + {{Retext|Heaven Amulet|purple}} + {{Retext|Icy Bracelet|purple}}
+|orange|mecha|Clean Racky Cannon}}
+|-
+{{Miniongearrow|Light|402|30|3|3|3
+|In Species Wars, Mecha Minion HP +2%<br>In Species Wars, Mecha Minion ATK +2%<br>In Species Wars, Mecha Minion DEF +2%<br>In Species Wars, Mecha Minion RUSH +2%
+|Lotto #2|orange|mecha}}
+|-
+{{Miniongearrow|Perfect Nethrone Coffin|5|30|3|3|3
+|In Domain Wars, Zombie Minion HP +2%<br>In Domain Wars, Zombie Minion ATK +2%<br>In Domain Wars, Zombie Minion DEF +2%<br>In Domain Wars, Zombie Minion RUSH +2%
+|{{Retext|Dim Nethrone Coffin|purple}} + {{Retext|Gravedigger's Seal|purple}} + {{Retext|Abyss Amulet|purple}} + {{Retext|Seething Bracelet|purple}}
+|orange|zombie|Clean Nethrone Coffin}}
+|-
+{{Miniongearrow|Soul Prison|502|30|3|3|3
+|In Species Wars, Zombie Minion HP +2%<br>In Species Wars, Zombie Minion ATK +2%<br>In Species Wars, Zombie Minion DEF +2%<br>In Species Wars, Zombie Minion RUSH +2%
+|Lotto #2|orange|zombie}}
+|-
+{{Miniongearrow|Perfect Minerva Staff|6|30|3|3|3
+|In Domain Wars, Angel Minion HP +2%<br>In Domain Wars, Angel Minion ATK +2%<br>In Domain Wars, Angel Minion DEF +2%<br>In Domain Wars, Angel Minion RUSH +2%
+|{{Retext|Dim Minerva Staff|purple}} + {{Retext|Ancient Staff|purple}} + {{Retext|Heaven Amulet|purple}} + {{Retext|Icy Bracelet|purple}}
+|orange|angel|Clean Minerva Staff}}
+|-
+{{Miniongearrow|Shine|602|30|3|3|3
+|In Species Wars, Angel Minion HP +2%<br>In Species Wars, Angel Minion ATK +2%<br>In Species Wars, Angel Minion DEF +2%<br>In Species Wars, Angel Minion RUSH +2%
+|Lotto #2|orange|angel}}
+|-
+{{Miniongearrow|HULC 01|7|30|3|3|3
+|In Species War, AFFCT Checks -240<br>In Species War, Troop ELMT RES +1.6%<br>In Species War, Troop HP REGEN + 480<br>In Species War, Troop Healing +2.4%
+|Training Value Pack|orange|demon}}
+|-
+{{Miniongearrow|Drive Core|753|30|3|3|3
+|In Species War, AFFCT Checks -240<br>In Species War, Troop ELMT RES + 1.6%<br>In Species War, Troop HP REGEN +480<br>In Species War, Troop Healing +2.4%
+|{{Retext|Icy Bracelet|purple}} + {{Retext|Heaven Amulet|purple}} + {{Retext|Raider Armor|purple}} + {{Retext|Commander Armor|purple}}
+|orange|demon}}
+|-
+{{Miniongearrow|Fang Necklace|131|30|3|3|3
+|In Minion Sims, all Minion RUSH +1.6%<br>In Minion Sims, Extra Troop RUSH DMG +240<br>In Minion Sims, Round 1 Troop CRIT +4.8%<br>In Minion Sims, Power Checks -2%
+|Minion Sim Value Pack|orange|mutant|Fang Necklace}}
+|-
+{{Miniongearrow|Bloody Dance|130|30|3|3|3
+|In Minion Sims, all Minion RUSH +1.6%<br>In Minion Sims, Extra Troop RUSH DMG +240<br>In Minion Sims, Round 1 Troop CRIT +4.8%<br>In Minion Sims, Power Checks -2%
+|Minion Sim Value Pack|orange|mutant}}
+|-
+{{Miniongearrow|Wildhammer|161|30|3|3|3
+|In Minion Sims, B-tads from victories +40<br>Tadpoles Cap: 2,400,000
+|Reward of defeating Wildhammer|orange|mecha}}
+|-
+{{Miniongearrow|Firebat Flamethrower|160|30|3|3|3
+|Minion Sim victories may drop +8 W-tads<br>Tadpoles Cap: 80,000
+|Reward of defeating Firebat|orange|mecha}}
+|-
+{{Miniongearrow|Blessing of Vishnu|181|30|3|3|3
+|In Minion Sims, all Minion DEF +1.6%<br>In Minion Sims, Troop DMG REDUC +2.4%<br>In Minion Sims, Troop HP Regen +480<br>In Minion Sims, Troop Healing +4%
+|{{Retext|Reincarnation Shield|purple}} + {{Retext|Trumpet Shell|purple}} + {{Retext|Heaven Amulet|purple}} + {{Retext|Icy Bracelet|purple}}
+|orange|angel}}
+|-
+{{Miniongearrow|Sanskrit Tablet|180|30|3|3|3
+|In Minion Sims, all Minion DEF +1.6%<br>In Minion Sims, Troop DMG REDUC +2.4%<br>In Minion Sims, Troop HP Regen +480<br>In Minion Sims, Troop Healing +4%
+|Purchase in Sim Shop|orange|angel}}
+|-
+{{Miniongearrow|Stone Base|768|30|3|3|3
+|In Species War, Troop Earth DMG +2.4%<br>In Species War, Troop Water DMG +2.4%<br>In Species War, Troop Fire DMG +2.4%<br>In Species War, Wind Earth DMG +2.4%
+|{{Retext|Bird Hunting Slingshot|purple}} + {{Retext|Quarterback Chest Protector|purple}} + {{Retext|Heaven Amulet|purple}} + {{Retext|Icy Bracelet|purple}}
+|orange|zombie}}
+|-
+{{Miniongearrow|Frightening Doll Chest|767|30|3|3|3
+|In Species War, Troop Earth DMG +2.4%<br>In Species War, Troop Water DMG +2.4%<br>In Species War, Troop Fire DMG +2.4%<br>In Species War, Troop Wind DMG +2.4%
+|Obtained by feeding [[Maneater]]|orange|zombie}}
+|-
+{{Miniongearrow|Military Helmet|851|30|3|3|3
+|In Species War, Troop CRIT +2%<br>In Species War, Troop DMG to Heroes +1.6%<br>In Species War, Troop DMG against soldiers +1.6%<br>In Species War, Round 1 Troop DMG +4%
+|Reward of defeating [[Incense#Shooting the Sky|Fortress Ship]]|orange|mecha}}
+|}
+
+|-|Red=
+
+{|class="wikitable"
+{{Miniongearheader}}
+|-
+{{Miniongearrow|Legendary Pawson Claw|1|60|6|6|6
+|Snail Leadership +5<br>Mutant Minion HP +4%<br>Mutant Minion ATK +4%<br>Mutant Minion DEF +4%<br>Mutant Minion RUSH +4%
+|{{Retext|Perfect Pawson Claw|orange}} + {{Retext|Chimera|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Abyss Wings|orange}}
+|red|mutant}}
+|-
+{{Miniongearrow|Legendary Bladden Sword|2|60|6|6|6
+|Snail Leadership +5<br>Demon Minion HP +4%<br>Demon Minion ATK +4%<br>Demon Minion DEF +4%<br>Demon Minion RUSH +4%
+|{{Retext|Perfect Bladden Sword|orange}} + {{Retext|Crimson Queen|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Abyss Wings|orange}}
+|red|demon}}
+|-
+{{Miniongearrow|Legendary Jaden Spear|3|60|6|6|6
+|Snail Leadership +5<br>Dragon Minion HP +4%<br>Dragon Minion ATK +4%<br>Dragon Minion DEF +4%<br>Dragon Minion RUSH +4%
+|{{Retext|Perfect Jaden Spear|orange}} + {{Retext|Immortal Glory|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}
+|red|dragon}}
+|-
+{{Miniongearrow|Legendary Racky Cannon|4|60|6|6|6
+|Snail Leadership +5<br>Mecha Minion HP +4%<br>Mecha Minion ATK +4%<br>Mecha Minion DEF +4%<br>Mecha Minion RUSH +4%
+|{{Retext|Perfect Racky Cannon|orange}} + {{Retext|Light|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}
+|red|mecha}}
+|-
+{{Miniongearrow|Legendary Nethrone Coffin|5|60|6|6|6
+|Snail Leadership +5<br>Zombie Minion HP +4%<br>Zombie Minion ATK +4%<br>Zombie Minion DEF +4%<br>Zombie Minion RUSH +4%
+|{{Retext|Perfect Nethrone Coffin|orange}} + {{Retext|Soul Prison|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Abyss Wings|orange}}
+|red|zombie}}
+|-
+{{Miniongearrow|Legendary Minerva Staff|6|60|6|6|6
+|Snail Leadership +5<br>Angel Minion HP +4%<br>Angel Minion ATK +4%<br>Angel Minion DEF +4%<br>Angel Minion RUSH +4%
+|{{Retext|Perfect Minerva Staff|orange}} + {{Retext|Shine|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}
+|red|angel}}
+|-
+{{Miniongearrow|HULC MKII|7|60|6|6|6
+|Leadership +5<br>In Species War, Troop HP REGEN +960<br>In Species War, Troop Healing +4.8%<br>In Species War, AFFCT checks -480<br>In Species War, Troop ELMT RES +3.2%
+|{{Retext|Drive Core|orange}} + {{Retext|HULC 01|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}
+|red|demon}}
+|-
+{{Miniongearrow|Trace of Lilith|13|60|6|6|6
+|Leadership +5<br>In Minion Sims, all Minion RUSH +3.2%<br>In Minion Sims, Extra Troop RUSH DMG +480<br>In Minion Sims, First Round CRIT +9.6%<br>In Minion Sims, Power Checks -4%
+|{{Retext|Fang Necklace|orange}} + {{Retext|Bloody Dance|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}
+|red|mutant}}
+|-
+{{Miniongearrow|Thermohammer|16|60|6|6|6
+|Snail Leadership +5<br>In Minion Sims, B-tads from victories +80<br>Tadpoles Cap: 2,800,000<br>Minion Sim victories may drop +16 W-tads<br>Tadpoles Cap: 100,000
+|{{Retext|Wildhammer|orange}} + {{Retext|Firebat Flamethrower|orange}} + {{Retext|Blasphemy Eye|orange}}
+|red|mecha}}
+|-
+{{Miniongearrow|The Six Paths|18|60|6|6|6
+|Snail Leadership +5<br>In Minion Sims, all Minion DEF +3.2%<br>In Minion Sims, Troop DMG REDUC +4.8%<br>In Minion Sims, Troop HP Regen +960<br>In Minion Sims, Troop Healing +8%
+|{{Retext|Blessing of Vishnu|orange}} + {{Retext|Sanskrit Tablet|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}
+|red|angel}}
+|-
+{{Miniongearrow|Mind Control Helmet|787|60|6|6|6
+|Snail Leadership +5<br>In Species War, Troop Earth DMG +4.8%<br>In Species War, Troop Water DMG +4.8%<br>In Species War, Troop Fire DMG +4.8%<br>In Species War, Troop Wind DMG +4.8%
+|{{Retext|Stone Base|orange}} + {{Retext|Frightening Doll Chest|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}
+|red|zombie}}
+|-
+{{Miniongearrow|Individual Combat System|888|60|6|6|6
+|Snail Leadership +5<br>In Species War, Troop CRIT +4%<br>In Species War, Troop DMG to Heroes +3.2%<br>In Species War, Troop DMG against soldiers +3.2%<br>In Species War, Round 1 Troop DMG +8%
+|{{Retext|Military Helmet|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}
+|red|mecha}}
+|}
+
+|-|Red+=
+
+{|class="wikitable"
+{{Miniongearheader}}
+{{Miniongearrow|Legendary Pawson Claw +1|1|70|7|7|7
+|Snail Leadership +10<br>Mutant Minion HP +6%<br>Mutant Minion ATK +6%<br>Mutant Minion DEF +6%<br>Mutant Minion RUSH +6%
+|{{Retext|Legendary Pawson Claw|red}} + {{Retext|Demon God Amulet|red}}
+|red|mutant|Legendary Pawson Claw}}
+|-
+{{Miniongearrow|Legendary Bladden Sword +1|2|70|7|7|7
+|Snail Leadership +10<br>Demon Minion HP +6%<br>Demon Minion ATK +6%<br>Demon Minion DEF +6%<br>Demon Minion RUSH +6%
+|{{Retext|Legendary Bladden Sword|red}} + {{Retext|Demon God Amulet|red}}
+|red|demon|Legendary Bladden Sword}}
+|-
+{{Miniongearrow|Legendary Jaden Spear +1|3|70|7|7|7
+|Snail Leadership +10<br>Dragon Minion HP +6%<br>Dragon Minion ATK +6%<br>Dragon Minion DEF +6%<br>Dragon Minion RUSH +6%
+|{{Retext|Legendary Jaden Spear|red}} + {{Retext|Demon God Amulet|red}}
+|red|dragon|Legendary Jaden Spear}}
+|-
+{{Miniongearrow|Legendary Racky Cannon +1|4|70|7|7|7
+|Snail Leadership +10<br>Mecha Minion HP +6%<br>Mecha Minion ATK +6%<br>Mecha Minion DEF +6%<br>Mecha Minion RUSH +6%
+|{{Retext|Legendary Racky Cannon|red}} + {{Retext|Demon God Amulet|red}}
+|red|mecha|Legendary Racky Cannon}}
+|-
+{{Miniongearrow|Legendary Nethrone Coffin +1|5|70|7|7|7
+|Snail Leadership +10<br>Zombie Minion HP +6%<br>Zombie Minion ATK +6%<br>Zombie Minion DEF +6%<br>Zombie Minion RUSH +6%
+|{{Retext|Legendary Nethrone Coffin|red}} + {{Retext|Demon God Amulet|red}}
+|red|zombie|Legendary Nethrone Coffin}}
+|-
+{{Miniongearrow|Legendary Minerva Staff +1|6|70|7|7|7
+|Snail Leadership +10<br>Angel Minion HP +6%<br>Angel Minion ATK +6%<br>Angel Minion DEF +6%<br>Angel Minion RUSH +6%
+|{{Retext|Legendary Minerva Staff|red}} + {{Retext|Demon God Amulet|red}}
+|red|angel|Legendary Minerva Staff}}
+|-
+{{Miniongearrow|HULC MKII +1|7|70|7|7|7
+|Snail Leadership +10<br>In Species War, Troop HP REGEN +1440<br>In Species War, Troop Healing +7.2%<br>In Species War, AFFCT Checks -720<br>In Species War, Troop ELMT RES +4.8%
+|{{Retext|HULC MKII|red}} + {{Retext|Demon God Amulet|red}}
+|red|demon|HULC MKII}}
+|-
+{{Miniongearrow|Trace of Lilith +1|13|70|7|7|7
+|Snail Leadership +10<br>In Minion Sims, all Minion RUSH +4.8%<br>In Minion Sims, Extra Troop RUSH DMG +720<br>In Minion Sims, Round 1 Troop CRIT + 14.4%<br>In Minion Sims, Power Checks -6%
+|{{Retext|Trace of Lilith|red}} + {{Retext|Demon God Amulet|red}}
+|red|mutant|Trace of Lilith}}
+|-
+{{Miniongearrow|Thermohammer +1|16|70|7|7|7
+|Snail Leadership +10<br>In Minion Sims, B-tads from victories +120<br>Tadpoles Cap: 3,200,000<br>Minion Sim victories may drop +24 W-tads<br>Tadpoles Cap: 120,000
+|{{Retext|Thermohammer|red}} + {{Retext|Demon God Amulet|red}}
+|red|mecha|Thermohammer}}
+|-
+{{Miniongearrow|The Six Paths +1|18|70|7|7|7
+|Snail Leadership +10<br>In Minion Sims, all Minion DEF +4.8%<br>In Minion Sims, Troop DMG REDUC +7.2%<br>In Minion Sims, Troop HP Regen +1440<br>In Minion Sims, Troop Healing +12%
+|{{Retext|The Six Paths|red}} + {{Retext|Demon God Amulet|red}}
+|red|angel|The Six Paths}}
+|-
+{{Miniongearrow|Mind Control Helmet +1|787|70|7|7|7
+|Snail Leadership +10<br>In Species War, Troop Earth DMG +7.2%<br>In Species War, Troop Water DMG +7.2%<br>In Species War, Troop Fire DMG +7.2%<br>In Species War, Troop Wind DMG +7.2%
+|{{Retext|Mind Control Helmet|red}} + {{Retext|Demon God Amulet|red}}
+|red|zombie|Mind Control Helmet}}
+|-
+{{Miniongearrow|Individual Combat System|888|70|7|7|7
+|Snail Leadership +10<br>In Species War, Troop CRIT +6%<br>In Species War, Troop DMG to Heroes +4.8%<br>In Species War, Troop DMG against soldiers +4.8%<br>In Species War, Round 1 Troop DMG +12%
+|{{Retext|Individual Combat System|red}} + {{Retext|Demon God Amulet|red}}
+|red|mecha}}
+|}
+</tabber>
+
+== Gear Guide ==
+Firstly some of the best gear in the game will come from fighting not all is rng. Paralysis Ring drops from hitman #15 Nun-chuck drops from the Sewer Turtle questline strength master and Sakabato also drop from the first few hitmen in short some of the best gear as seen on discord is available from just playing the game. 
+
+Gear operates on a tiered system: green, blue, purple, orange or red. Each piece of gear has the potential to be enhanced up to the red variant. This advancement not only alters its appearance and name but also provides a substantial stat increase, requiring rare materials like the Eye of Horus. Once a piece of gear has achieved this red status, it can be merged with another red gear and Amulet of Will. Once merged, the newly combined gear will possess combined HARD stats with both effects of the combining item.
+
+Now why some gear is simply better than other gear. If you have played at all and asked around anyone will tell you Norris-chuck is the best craftable early game item. but its also the best late game as it scales in the % category. using a reference whether an enemy has 1 million or 100 defense. Norris-chuck removes 12% that's 880,000 defense left for the first enemy and 88 for the 2nd. while the first isn't realistic the 2nd shows a smaller scale of why its useful in regular combat as a defense decrease is an offense increase for you. Another recommended weapon is the walnut wand/old mans staff. it gives elemental damage which similar yet different to Norris-chuck ignores the enemy's DEF stat completely and hits their HP with the only factor decreasing it Elemental RES which is why most armor isn't recommended since that's often the only upside to them. using the same example an enemy with a million or 100 def will still take 960 damage unless they have any resistance equipment like Magician which Boosts all resistance including poison which is inflicted from Drazgul's Fang the 100$ item.
+
+Now for any +1 item its not the hardest to get one or two amulets; an Eye of Horus, Heaven Wing, Abyss Wing, and Crystal of Will. this will combine two items with same stats as previously mentioned give a small HARD buff and will give you one item with the previous forms bonus but not add on to it. for example combining Bedrock and Fortress will still only give Earth RES +360 AND	DMG Reduction +9.6%	effectively freeing up a gear slot for other item use. however normal play you wouldn't waste resources fusing these 2 items as most players wont have Bedrock as a main gear. The upside to fusing to +1 is it allows reaching +2 +3 +4 etc up to +9 where the game caps out gear. we currently only have data for most items up to +4 and while there is a pattern we cannot confirm nor deny if gear will follow it or scale differently. but this gives reason to craft other gear to + versions such as the previously mentioned Fortress only having 9.6% dmg reduction it can now increase to 11.2% effectively reducing an enemy's damage by a tenth. the downside as shown in the material section is that each version needs 100 orange reagent times the level of will amulet made. For any extra information or more detailed tierlists please also check our [[Guide:Gear Progression]] page
+
+[[File:Gear Tier List.png|400px]]
+
+This 2nd Tier list has been community made by players who have completed content up to release of Kemet. And is the suggested version to use around the time you are doing Murika
+
+[[File:Gear Tier List2.png|400px]]
+
+For a more in depth guide please check [[Guide:Gear Progression]].
+
+[[Category:Gears]]

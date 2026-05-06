@@ -1,0 +1,3758 @@
+[
+  {
+    "claim": "Gear table lists Ice Skates with stats {'hp': 0, 'atk': 20, 'def': 0, 'rush': 0} and effect In [[Koryeo]], INTEL gained +1%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_ice_skates",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "ice_skates"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Crowbar with stats {'hp': 0, 'atk': 20, 'def': 0, 'rush': 0} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_crowbar",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "crowbar"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Royal Underwear with stats {'hp': 0, 'atk': 0, 'def': 20, 'rush': 0} and effect In [[Yamato]], INTEL gained +1%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_royal_underwear",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "royal_underwear"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Light Yamato Armor with stats {'hp': 0, 'atk': 0, 'def': 20, 'rush': 0} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_light_yamato_armor",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "light_yamato_armor"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Iron Helmet with stats {'hp': 0, 'atk': 0, 'def': 20, 'rush': 0} and effect In [[Cathay]], INTEL gained +1%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_iron_helmet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "iron_helmet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Podao with stats {'hp': 0, 'atk': 20, 'def': 0, 'rush': 0} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_podao",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "podao"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Tactical Boots with stats {'hp': 0, 'atk': 0, 'def': 0, 'rush': 20} and effect In [[Murika]], INTEL gained +1%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_tactical_boots",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "tactical_boots"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Smoothbore with stats {'hp': 0, 'atk': 20, 'def': 0, 'rush': 0} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_smoothbore",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "smoothbore"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Gentleman's Staff with stats {'hp': 0, 'atk': 0, 'def': 20, 'rush': 0} and effect In [[Britland]], INTEL gained +1%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_gentleman_s_staff",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "gentleman_s_staff"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Top Hat with stats {'hp': 0, 'atk': 20, 'def': 0, 'rush': 0} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_top_hat",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "top_hat"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Linen Robe with stats {'hp': 0, 'atk': 20, 'def': 0, 'rush': 0} and effect in [[Kemet]], INTEL gained +1%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_linen_robe",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "linen_robe"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Khopesh with stats {'hp': 0, 'atk': 20, 'def': 0, 'rush': 0} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_khopesh",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "khopesh"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Bronze Helmet with stats {'hp': 0, 'atk': 0, 'def': 20, 'rush': 0} and effect in [[Hellas]], INTEL gained +1%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_bronze_helmet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "bronze_helmet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Javelin with stats {'hp': 0, 'atk': 20, 'def': 0, 'rush': 0} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_javelin",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "javelin"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Sikh Turban with stats {'hp': 0, 'atk': 0, 'def': 20, 'rush': 0} and effect in [[Bharata]], INTEL gained +1%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_sikh_turban",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "sikh_turban"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Twin Tip Dagger with stats {'hp': 0, 'atk': 20, 'def': 0, 'rush': 0} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_twin_tip_dagger",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "twin_tip_dagger"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Broken Second Hand with stats {'hp': 0, 'atk': 20, 'def': 0, 'rush': 0} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_broken_second_hand",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "broken_second_hand"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Broken Minute Hand with stats {'hp': 0, 'atk': 0, 'def': 20, 'rush': 0} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_broken_minute_hand",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "broken_minute_hand"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Broken Hour Hand with stats {'hp': 0, 'atk': 0, 'def': 0, 'rush': 20} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_broken_hour_hand",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "broken_hour_hand"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Parsian Pike with stats {'hp': 0, 'atk': 0, 'def': 0, 'rush': 20} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_parsian_pike",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "parsian_pike"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Parsian Kite Shield with stats {'hp': 0, 'atk': 0, 'def': 20, 'rush': 0} and effect Parsian Exploration, INTEL +1%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_parsian_kite_shield",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "parsian_kite_shield"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Motorbike Helmet with stats {'hp': 300, 'atk': 0, 'def': 10, 'rush': 0} and effect In [[Koryeo]], DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_motorbike_helmet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "motorbike_helmet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Switchblade with stats {'hp': 0, 'atk': 30, 'def': 0, 'rush': 10} and effect In [[Koryeo]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_switchblade",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "switchblade"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Ninjutsu Armband with stats {'hp': 0, 'atk': 30, 'def': 0, 'rush': 10} and effect In [[Yamato]], DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_ninjutsu_armband",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "ninjutsu_armband"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Golden Yamato Armor with stats {'hp': 300, 'atk': 0, 'def': 10, 'rush': 0} and effect In [[Yamato]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_golden_yamato_armor",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "golden_yamato_armor"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Heart-Protection Mirror with stats {'hp': 300, 'atk': 0, 'def': 10, 'rush': 0} and effect In [[Cathay]], DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_heart_protection_mirror",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "heart_protection_mirror"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Wu Scimitar with stats {'hp': 0, 'atk': 30, 'def': 0, 'rush': 10} and effect In [[Cathay]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_wu_scimitar",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "wu_scimitar"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Tactical Vest with stats {'hp': 300, 'atk': 0, 'def': 10, 'rush': 0} and effect In [[Murika]], DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_tactical_vest",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "tactical_vest"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Colt Revolver with stats {'hp': 0, 'atk': 30, 'def': 0, 'rush': 10} and effect In [[Murika]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_colt_revolver",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "colt_revolver"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Royal Guard Bearskin Hat with stats {'hp': 300, 'atk': 0, 'def': 10, 'rush': 0} and effect In [[Britland]], DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_royal_guard_bearskin_hat",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "royal_guard_bearskin_hat"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Lee Enfield Rifle with stats {'hp': 0, 'atk': 30, 'def': 0, 'rush': 10} and effect In [[Britland]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_lee_enfield_rifle",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "lee_enfield_rifle"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Leather Shield with stats {'hp': 300, 'atk': 0, 'def': 10, 'rush': 0} and effect In [[Kemet]], DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_leather_shield",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "leather_shield"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Poisoned Dagger with stats {'hp': 0, 'atk': 30, 'def': 0, 'rush': 10} and effect In [[Kemet]], INTEL Gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_poisoned_dagger",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "poisoned_dagger"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Heavy Infantry Helmet with stats {'hp': 300, 'atk': 0, 'def': 10, 'rush': 0} and effect In [[Hellas]], INTEL gained +2%<br>Every Costume Stat +1%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_heavy_infantry_helmet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "heavy_infantry_helmet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Legion Javelins with stats {'hp': 0, 'atk': 30, 'def': 0, 'rush': 10} and effect In [[Hellas]], INTEL gained +2%<br>Every Costume Stat +1%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_legion_javelins",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "legion_javelins"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Mughal Soldier Helmet with stats {'hp': 300, 'atk': 0, 'def': 10, 'rush': 0} and effect In [[Bharata]], DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_mughal_soldier_helmet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "mughal_soldier_helmet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Pata with stats {'hp': 0, 'atk': 30, 'def': 0, 'rush': 10} and effect In [[Bharata]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_pata",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "pata"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Time Hand with stats {'hp': 0, 'atk': 30, 'def': 0, 'rush': 10} and effect In the [[Time Rift",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_time_hand",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "time_hand"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Time Cog with stats {'hp': 300, 'atk': 0, 'def': 10, 'rush': 0} and effect In the [[Time Rift",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_time_cog",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "time_cog"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Bichaq with stats {'hp': 0, 'atk': 30, 'def': 0, 'rush': 10} and effect In [[Parsia]], DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_bichaq",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "bichaq"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Pesh-Kabz with stats {'hp': 300, 'atk': 0, 'def': 10, 'rush': 0} and effect In [[Parsia]], INTEL +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_pesh_kabz",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "pesh_kabz"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Bulletproof Vest with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect In [[Koryeo]], DMG +2%<br>In [[Koryeo]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_bulletproof_vest",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "bulletproof_vest"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Assault Rifle Model 98 with stats {'hp': 100, 'atk': 30, 'def': 10, 'rush': 30} and effect In [[Koryeo]], DMG +2%<br>In [[Koryeo]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_assault_rifle_model_98",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "assault_rifle_model_98"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Servant Spirit Pendant with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect In [[Yamato]], DMG +2%<br>In [[Yamato]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_servant_spirit_pendant",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "servant_spirit_pendant"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Crimson Haori Jacket with stats {'hp': 300, 'atk': 10, 'def': 30, 'rush': 10} and effect In [[Yamato]], DMG +2%<br>In [[Yamato]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_crimson_haori_jacket",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "crimson_haori_jacket"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Rainbow Tassel with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect In [[Cathay]], DMG +2%<br>In [[Cathay]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_rainbow_tassel",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "rainbow_tassel"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Ancient Blade with stats {'hp': 100, 'atk': 300, 'def': 10, 'rush': 30} and effect In [[Cathay]], DMG +2%<br>In [[Cathay]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_ancient_blade",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "ancient_blade"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists PASGT Helmet with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect In [[Murika]], DMG +2%<br>In [[Murika]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_pasgt_helmet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "pasgt_helmet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Springfield Rifle with stats {'hp': 100, 'atk': 30, 'def': 10, 'rush': 30} and effect In [[Murika]], DMG +2%<br>In [[Murika]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_springfield_rifle",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "springfield_rifle"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Tuxedo with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect In [[Britland]], DMG +2%<br>In [[Britland]], INTEL gained +2%<br>In [[Britland]], fleet cannon DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_tuxedo",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "tuxedo"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Sword Cane with stats {'hp': 100, 'atk': 30, 'def': 10, 'rush': 30} and effect in [[Britland]]In [[Britland]], DMG +2%<br>In [[Britland]], INTEL gained +2%<br>In [[Britland]], fleet cannon DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_sword_cane",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "sword_cane"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Tactical Helmet with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect In [[Kemet]], DMG +2%<br>In [[Kemet]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_tactical_helmet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "tactical_helmet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Duckbill Axe with stats {'hp': 100, 'atk': 30, 'def': 10, 'rush': 30} and effect In [[Kemet]], DMG +2%<br>In [[Kemet]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_duckbill_axe",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "duckbill_axe"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Spartan Shield with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect In [[Hellas]], INTEL gained +2%<br>",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_spartan_shield",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "spartan_shield"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Macedonian Spear with stats {'hp': 100, 'atk': 30, 'def': 10, 'rush': 30} and effect In [[Hellas]], INTEL gained +2%<br>",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_macedonian_spear",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "macedonian_spear"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Mahatma's Robe with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect In [[Bharata]], DMG +2%<br>In [[Bharata]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_mahatma_s_robe",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "mahatma_s_robe"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Kukri with stats {'hp': 100, 'atk': 30, 'def': 10, 'rush': 30} and effect In [[Bharata]], DMG +2%<br>In [[Bharata]], INTEL gained +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_kukri",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "kukri"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Time Wheel with stats {'hp': 100, 'atk': 30, 'def': 10, 'rush': 30} and effect In the [[Time Rift",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_time_wheel",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "time_wheel"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Time Blade with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect In the [[Time Rift",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_time_blade",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "time_blade"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists War Scythes with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect In [[Parsia]], DMG +2%<br>In [[Parsia]], INTEL +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_war_scythes",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "war_scythes"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Shamshir with stats {'hp': 300, 'atk': 10, 'def': 30, 'rush': 10} and effect In [[Parsia]], DMG +2%<br>In [[Parsia]], INTEL +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_shamshir",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "shamshir"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Pirate with stats {'hp': 300, 'atk': 10, 'def': 30, 'rush': 10} and effect Enemies in Explorations drop +20 B-tads<br>Tadpoles Gained:2,600,000",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_pirate",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "pirate"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Iron Track with stats {'hp': 100, 'atk': 10, 'def': 10, 'rush': 50} and effect Travel SPD +1.6%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_iron_track",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "iron_track"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Diver with stats {'hp': 300, 'atk': 10, 'def': 10, 'rush': 30} and effect In any Realm, 2x Demon God Cell Drops +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_diver",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "diver"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Gas Mask with stats {'hp': 400, 'atk': 40, 'def': 40, 'rush': 40} and effect In [[Koryeo]], DMG +4%<br>In [[Koryeo]], INTEL gained +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_gas_mask",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "gas_mask"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Golden Assault Rifle with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In [[Koryeo]], DMG +4%<br>In [[Koryeo]], INTEL gained +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_golden_assault_rifle",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "golden_assault_rifle"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Genji Shield with stats {'hp': 400, 'atk': 40, 'def': 40, 'rush': 40} and effect In [[Yamato]], Snail ATK +48<br>In [[Yamato]], Snail DEF +48",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_genji_shield",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "genji_shield"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Genji Helmet with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect In [[Yamato]], Snail DEF +48",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_genji_helmet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "genji_helmet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Genji Gloves with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In [[Yamato]], Snail ATK +48",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_genji_gloves",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "genji_gloves"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Blade Muramasa with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In [[Yamato]], DMG +4%<br>In [[Yamato]], INTEL gained +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_blade_muramasa",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "blade_muramasa"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Royal Banner with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect In [[Yamato]], DMG +4%<br>In [[Yamato]], INTEL gained +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_royal_banner",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "royal_banner"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Silver Lion with stats {'hp': 400, 'atk': 40, 'def': 40, 'rush': 40} and effect In [[Cathay]], DMG +4%<br>In [[Cathay]], INTEL gained +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_silver_lion",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "silver_lion"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists 7-Star Blade with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In [[Cathay]], DMG +4%<br>In [[Cathay]], INTEL gained +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_7_star_blade",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "7_star_blade"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Mechanical Exoskeleton with stats {'hp': 400, 'atk': 40, 'def': 40, 'rush': 40} and effect In [[Murika]], Snail ATK +48<br>In [[Murika]], Snail DEF +48",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_mechanical_exoskeleton",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "mechanical_exoskeleton"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Powered Glove with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In [[Murika]], Snail DEF +48",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_powered_glove",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "powered_glove"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Holographic Tactical Glasses with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect In [[Murika]], Snail ATK +48",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_holographic_tactical_glasses",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "holographic_tactical_glasses"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Long Range Scope with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect In [[Murika]], DMG +4%<br>In [[Murika]], INTEL gained +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_long_range_scope",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "long_range_scope"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists M4 Carbine with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In [[Murika]], DMG +4%<br>In [[Murika]], INTEL gained +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_m4_carbine",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "m4_carbine"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Britland Crown with stats {'hp': 400, 'atk': 40, 'def': 40, 'rush': 40} and effect In [[Britland]], DMG +4%<br>In [[Britland]], INTEL gained +4%<br>In [[Britland]], fleet cannon DMG +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_britland_crown",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "britland_crown"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Shotgun Umbrella with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In [[Britland]], DMG +4%<br>In [[Britland]], INTEL gained +4%<br>In [[Britland]], fleet cannon DMG +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_shotgun_umbrella",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "shotgun_umbrella"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Priestly Robe with stats {'hp': 400, 'atk': 40, 'def': 40, 'rush': 40} and effect In [[Kemet]], DMG +4%<br>In [[Kemet]], INTEL gained +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_priestly_robe",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "priestly_robe"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Golden Bronze Dagger with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect In [[Kemet]], Snail ATK +60<br>Snail DEF +60",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_golden_bronze_dagger",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "golden_bronze_dagger"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Pharaoh's Scepter with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect In [[Kemet]], Snail DEF +60",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_pharaoh_s_scepter",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "pharaoh_s_scepter"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Arabic Dagger with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect In [[Kemet]], Snail ATK +60",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_arabic_dagger",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "arabic_dagger"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Guardian's Longsword with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In [[Kemet]], DMG +4%<br>In [[Kemet]], INTEL gained +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_guardian_s_longsword",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "guardian_s_longsword"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Caeser's Laurel with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect In [[Hellas]], Snail ATK +60<br>In [[Hellas]], Snail DEF +60",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_caeser_s_laurel",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "caeser_s_laurel"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Justinian's Robe with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect In [[Hellas]], Snail DEF +60",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_justinian_s_robe",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "justinian_s_robe"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Heraclius' Silver Staff with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect In [[Hellas]], Snail ATK +60",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_heraclius_silver_staff",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "heraclius_silver_staff"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Achilles' Shield with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect In [[Hellas]], INTEL gained +4%<br>In [[Hellas]], DMG +4%<br>Every Costume Stat +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_achilles_shield",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "achilles_shield"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Hector's Spear with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In [[Hellas]], INTEL gained +4%<br>In [[Hellas]], DMG +4%<br>Every Costume Stat +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_hector_s_spear",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "hector_s_spear"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Antelope Horn Shield with stats {'hp': 400, 'atk': 40, 'def': 40, 'rush': 40} and effect In [[Bharata]], DMG +4%<br>In [[Bharata]], INTEL gained +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_antelope_horn_shield",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "antelope_horn_shield"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Mughal Scimitar with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In [[Bharata]], DMG +4%<br>In [[Bharata]], INTEL gained +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_mughal_scimitar",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "mughal_scimitar"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Spacetime Echo with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In the [[Time Rift",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_spacetime_echo",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "spacetime_echo"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Time Flute with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect In the [[Time Rift",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_time_flute",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "time_flute"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Feline Shield with stats {'hp': 400, 'atk': 40, 'def': 40, 'rush': 40} and effect In [[Parsia]], ATK +60<br>In [[Parsia]], DEF +60",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_feline_shield",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "feline_shield"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Sun Mirror Armor with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect In [[Parsia]], DEF +60",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_sun_mirror_armor",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "sun_mirror_armor"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Parsian Composite Bow with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In [[Parsia]], ATK +60",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_parsian_composite_bow",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "parsian_composite_bow"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Assassin's Gauntlet with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In [[Parsia]], DMG +4%<br>In [[Parsia]], INTEL +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_assassin_s_gauntlet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "assassin_s_gauntlet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Royal Wootz Blade with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect In [[Parsia]], DMG +4%<br>In [[Parsia]], INTEL +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_royal_wootz_blade",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "royal_wootz_blade"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Teslla with stats {'hp': 600, 'atk': 20, 'def': 20, 'rush': 60} and effect In any Realm, 2x Time Chest Drops +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_teslla",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "teslla"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Virgo Tech with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect In [[Koryeo]], Snail ATK +96<br>In [[Koryeo]], Snail RUSH +96",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_virgo_tech",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "virgo_tech"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Jung-geun's Gun with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect In [[Koryeo]], DMG +8%<br>In [[Koryeo]], INTEL gained +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_jung_geun_s_gun",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "jung_geun_s_gun"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Genji Armor with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect In [[Yamato]], Snail ATK +96<br>In [[Yamato]], Snail DEF +96",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_genji_armor",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "genji_armor"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Blade Murasame with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect In [[Yamato]], DMG +8%<br>In [[Yamato]], INTEL gained +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_blade_murasame",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "blade_murasame"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Conqueror Spear with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect In [[Cathay]], Snail ATK +96<br>In [[Cathay]], Snail RUSH +96",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_conqueror_spear",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "conqueror_spear"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Couple Swords with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect In [[Cathay]], DMG +8%<br>In [[Cathay]], INTEL gained +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_couple_swords",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "couple_swords"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Indv. Power Armor with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect In [[Murika]], Snail ATK +96<br>In [[Murika]], Snail DEF +96",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_indv_power_armor",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "indv_power_armor"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Indv. High-explosive Rifle with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect In [[Murika]], DMG +8%<br>In [[Murika]], INTEL gained +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_indv_high_explosive_rifle",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "indv_high_explosive_rifle"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Windsor's cape with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect In [[Britland]], Snail ATK +96<br>In [[Britland]], Snail RUSH +96",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_windsor_s_cape",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "windsor_s_cape"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Lion's Crown with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect In [[Britland]], DMG +8%<br>In [[Britland]], INTEL gained +8%<br>In [[Britland]], fleet cannon DMG +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_lion_s_crown",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "lion_s_crown"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Horse Helmet with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect In [[Kemet]], Snail ATK +120<br>Snail RUSH +120",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_horse_helmet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "horse_helmet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Damascus Knife with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect In [[Kemet]], DMG +8%<br>In [[Kemet]], INTEL gained +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_damascus_knife",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "damascus_knife"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Eternal Empire Staff with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect In [[Hellas]], Snail ATK +120<br>Snail DEF +120",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_eternal_empire_staff",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "eternal_empire_staff"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Stardust Arrow with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect In [[Hellas]], INTEL gained +8%<br>In [[Hellas]], DMG +8%<br>Every Costume Stat +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_stardust_arrow",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "stardust_arrow"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Indra's Crown with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect In [[Bharata]], Snail ATK +120<br>Snail DEF +120",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_indra_s_crown",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "indra_s_crown"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Ashoka's Sword with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect In [[Bharata]], INTEL gained +8%<br>In [[Bharata]], DMG +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_ashoka_s_sword",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "ashoka_s_sword"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Eternal Return with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect In the [[Time Rift",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_eternal_return",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "eternal_return"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Millennium Ring with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect In the [[Time Rift",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_millennium_ring",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "millennium_ring"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Arrow of Arash with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect In [[Parsia]], ATK +120<br>In [[Parsia]], DEF +120",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_arrow_of_arash",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "arrow_of_arash"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Jade Saber with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect In [[Parsia]], DMG +8%<br>In [[Parsia]], INTEL +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_jade_saber",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "jade_saber"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Curator's Helmet with stats {'hp': 1200, 'atk': 40, 'def': 120, 'rush': 40} and effect Enemies in explorations drop +16 W-tads<br>(Only when you are really lucky!)<br>Tadpoles Gained: 100,000",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_curator_s_helmet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "curator_s_helmet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Gear Ring with stats {'hp': 400, 'atk': 40, 'def': 40, 'rush': 200} and effect When you enter a new area, gain +80 INTEL",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_gear_ring",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "gear_ring"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Warmonger's Gun with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In [[Koryeo]], Snail ATK +120<br>In [[Koryeo]], Snail RUSH +120<br>In [[Koryeo]], Snail DMG +12%<br>In [[Koryeo]], INTEL gained +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_warmonger_s_gun",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "warmonger_s_gun"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Sword Futsuno with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In [[Yamato]], Snail ATK +120<br>In [[Yamato]], Snail RUSH +120<br>In [[Yamato]], DMG +12%<br>In [[Yamato]], INTEL gained +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_sword_futsuno",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "sword_futsuno"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Sky Piercer with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In [[Cathay]], Snail ATK +120<br>In [[Cathay]], Snail RUSH +120<br>In [[Cathay]], DMG +12%<br>In [[Cathay]], INTEL gained +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_sky_piercer",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "sky_piercer"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Bullet Storm with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In [[Murika]], Snail ATK +120<br>In [[Murika]], Snail RUSH +120<br>In [[Murika]], DMG +12%<br>In [[Murika]], INTEL gained +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_bullet_storm",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "bullet_storm"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Crown of Eternal Daylight with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In [[Britland]], Snail ATK +150<br>In [[Britland]], Snail RUSH +150<br>In [[Britland]], DMG +12%<br>In [[Britland]], INTEL gained +12%<br>In [[Britland]], fleet cannon DMG +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_crown_of_eternal_daylight",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "crown_of_eternal_daylight"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Lion King's Sword with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In [[Kemet]], Snail ATK +150<br>In [[Kemet]], Snail RUSH +150<br>In [[Kemet]], Snail DMG +12%<br>In [[Kemet]], INTEL gained +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_lion_king_s_sword",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "lion_king_s_sword"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Athena's Spear with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In [[Hellas]], Snail ATK +120<br>In [[Hellas]], Snail DEF +120<br>In [[Hellas]], DMG +12%<br>In [[Hellas]], INTEL gained +12%<br>Every Costume Stat +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_athena_s_spear",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "athena_s_spear"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Rama Greataxe with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In [[Bharata]], Snail ATK +150<br>In [[Bharata]], Snail RUSH +150<br>In [[Bharata]], Snail DMG +12%<br>In [[Bharata]], INTEL gained +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_rama_greataxe",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "rama_greataxe"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Spacetime Exile with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In the [[Time Rift",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_spacetime_exile",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "spacetime_exile"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Mithraic Bow & Spear with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In [[Parsia]], ATK +150<br>In [[Parsia]], RUSH +150<br>In [[Parsia]], DMG +12%<br>in [[Parsia]], INTEL +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_mithraic_bow_and_spear",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "mithraic_bow_and_spear"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists The Great Scientist with stats {'hp': 1800, 'atk': 60, 'def': 60, 'rush': 180} and effect When exploring, 2x Time Chests Drops +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_the_great_scientist",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "the_great_scientist"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Overlord's Hook with stats {'hp': 1800, 'atk': 60, 'def': 180, 'rush': 60} and effect Enemies in exploration drop +120 B-tads<br>Tadpoles Gained: 3,200,000",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_overlord_s_hook",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "overlord_s_hook"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists The Great Collector with stats {'hp': 1800, 'atk': 60, 'def': 180, 'rush': 60} and effect Enemies in exploration drop +24 W-tads<br>(Only when you are really lucky!)<br>Tadpoles Gained: 110,000",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_the_great_collector",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "the_great_collector"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Tremendous Support with stats {'hp': 600, 'atk': 60, 'def': 60, 'rush': 300} and effect Travel SPD +9.6%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_tremendous_support",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "tremendous_support"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Deepsea Helmet with stats {'hp': 1800, 'atk': 60, 'def': 60, 'rush': 180} and effect In any Realm, 2x Demon God Cell Drops +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_deepsea_helmet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "deepsea_helmet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists The Great Engineer with stats {'hp': 600, 'atk': 60, 'def': 60, 'rush': 300} and effect Upon traveling through an area: Gain 120 Intel",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_the_great_engineer",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "the_great_engineer"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Time Wanderer with stats {'hp': 1000, 'atk': 200, 'def': 200, 'rush': 200} and effect In explorations, Snail HP +2000<br>In explorations, Snail ATK +200<br>In explorations, Snail DEF +200<br>In explorations, Snail RUSH +200<br>In explorations, INTEL gained +20%<br>In explorations, DMG +20%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_time_wanderer",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "time_wanderer"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Lotus Platform with stats {'hp': 150, 'atk': 5, 'def': 5, 'rush': 15} and effect In Angel Form, Regen 160 HP each round",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_lotus_platform",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "lotus_platform"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Leather Chest Armor with stats {'hp': 50, 'atk': 15, 'def': 5, 'rush': 15} and effect In Mutant: Crit DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_leather_chest_armor",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "leather_chest_armor"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Undead Staff with stats {'hp': 300, 'atk': 30, 'def': 10, 'rush': 10} and effect In Zombie Form: Zombie Cells +2%<br>Evolution Chests +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_undead_staff",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "undead_staff"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists The Buried with stats {'hp': 300, 'atk': 30, 'def': 10, 'rush': 10} and effect In Zombie: Ingore DEF +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_the_buried",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "the_buried"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Demon Scythe with stats {'hp': 100, 'atk': 30, 'def': 30, 'rush': 10} and effect In Demon Form: Demon Cells +2%<br>Soul Chests +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_demon_scythe",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "demon_scythe"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Lotus Platform III with stats {'hp': 300, 'atk': 10, 'def': 10, 'rush': 30} and effect In Angel Form, Regen 320 HP each round",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_lotus_platform_iii",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "lotus_platform_iii"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Prayer Staff with stats {'hp': 300, 'atk': 10, 'def': 10, 'rush': 30} and effect In Angel Form: Angel Cells +2%<br>Fungus Chests +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_prayer_staff",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "prayer_staff"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Mind Control Dagger with stats {'hp': 100, 'atk': 30, 'def': 10, 'rush': 30} and effect In Mutant form: Mutant Cells +2%<br>Time Chests +2% in exploration",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_mind_control_dagger",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "mind_control_dagger"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Gauss C14 with stats {'hp': 100, 'atk': 10, 'def': 30, 'rush': 30} and effect In Mecha Form: Mecha Cells +2%<br>Tool Chests +2% in explorations",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_gauss_c14",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "gauss_c14"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Mark II with stats {'hp': 100, 'atk': 10, 'def': 30, 'rush': 30} and effect In Mecha: DMG Reduction +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_mark_ii",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "mark_ii"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Dragon Fang Dagger with stats {'hp': 100, 'atk': 30, 'def': 10, 'rush': 30} and effect In Dragon Form: Gain +2% Cells<br>Gain 2% Dragon Chests in explorations",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_dragon_fang_dagger",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "dragon_fang_dagger"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Lotus Platform VI with stats {'hp': 600, 'atk': 20, 'def': 20, 'rush': 60} and effect In Angel Form, Regen 640 HP each round",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_lotus_platform_vi",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "lotus_platform_vi"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Crimson Dragon Claw with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect In Dragon: Fire DMG +240",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_crimson_dragon_claw",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "crimson_dragon_claw"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Azazel's Curse with stats {'hp': 400, 'atk': 120, 'def': 120, 'rush': 40} and effect In Demon: Crit Rate +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_azazel_s_curse",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "azazel_s_curse"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Lotus Platform IX with stats {'hp': 1200, 'atk': 40, 'def': 40, 'rush': 120} and effect In Angel Form, Regen 1,280 HP each round",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_lotus_platform_ix",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "lotus_platform_ix"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Broken Dragon Horn with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect In Dragon Form, Ignore Fire RES +120<br>In Dragon Form, Ignore Earth RES +120",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_broken_dragon_horn",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "broken_dragon_horn"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Broken Caladbolg with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect In Dragon Form, Ignore Water RES +120<br>In Dragon Form, Ignore Wind RES +120",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_broken_caladbolg",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "broken_caladbolg"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Fire of Rage with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect In Dragon Form, Ignore DEF +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_fire_of_rage",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "fire_of_rage"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Soul Walking with stats {'hp': 1800, 'atk': 180, 'def': 60, 'rush': 60} and effect In Zombie Form, Ignore DEF +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_soul_walking",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "soul_walking"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Serket Staff with stats {'hp': 1800, 'atk': 180, 'def': 60, 'rush': 60} and effect In Zombie Form: Zombie Cells +12%<br>Evolution Chests +12% in exploration",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_serket_staff",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "serket_staff"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Azazel's Pact with stats {'hp': 600, 'atk': 180, 'def': 180, 'rush': 60} and effect In Demon: Crit Rate +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_azazel_s_pact",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "azazel_s_pact"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Soul Reaper with stats {'hp': 600, 'atk': 180, 'def': 180, 'rush': 60} and effect In Demon: Demon Cells +12%<br>Soul Chests +12% in exploration",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_soul_reaper",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "soul_reaper"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Lotus Platform XII with stats {'hp': 1800, 'atk': 60, 'def': 60, 'rush': 180} and effect In Angel Form, Regen 1,920 HP each round",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_lotus_platform_xii",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "lotus_platform_xii"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Seraph's Light with stats {'hp': 1800, 'atk': 60, 'def': 60, 'rush': 180} and effect In Angel Form: Angel Cells +12%<br>Fungus Chests +12% in exploration",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_seraph_s_light",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "seraph_s_light"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Centaur Armor with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In Mutant Form, Crit DMG +24%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_centaur_armor",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "centaur_armor"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Subspace Blade with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In Mutant form: Mutant Cells +12%<br>Time Chests +12% in exploration",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_subspace_blade",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "subspace_blade"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Mark IV with stats {'hp': 600, 'atk': 60, 'def': 180, 'rush': 180} and effect In Mecha: DMG Reduction +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_mark_iv",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "mark_iv"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Gauss M72 with stats {'hp': 600, 'atk': 60, 'def': 180, 'rush': 180} and effect In Mecha Form: Mecha Cells +12%<br>Tool Chests +12% in explorations",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_gauss_m72",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "gauss_m72"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Claw of Destruction with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In Dragon: Fire DMG +720",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_claw_of_destruction",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "claw_of_destruction"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Fang of Tiamat with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In Dragon Form: Gain +12% Cells<br>Gain 12% Dragon Chests in explorations",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_fang_of_tiamat",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "fang_of_tiamat"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Dragon Horn with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In Dragon Form, Ignore Fire RES +180<br>In Dragon Form, Ignore Earth RES +180",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_dragon_horn",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "dragon_horn"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Caladbolg with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In Dragon Form, Ignore Water RES +180<br>In Dragon Form, Ignore Wind RES +180",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_caladbolg",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "caladbolg"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Exploding Rage with stats {'hp': 600, 'atk': 180, 'def': 60, 'rush': 180} and effect In Dragon form, Ignore DEF +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_exploding_rage",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "exploding_rage"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Excaladbolg with stats {'hp': 1000, 'atk': 300, 'def': 100, 'rush': 300} and effect In Dragon Form, Ignore DEF +12%<br>In Dragon Form, Ignore Fire RES +180<br>In Dragon Form, Ignore Water RES +180<br>In Dragon Form, Ignore Earth RES +180<br>In Dragon Form, Ignore Wind RES +180",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_excaladbolg",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "excaladbolg"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Strength Sword with stats {'hp': 50, 'atk': 25, 'def': 5, 'rush': 5} and effect In any Realm, DMG +1.5%<br>In any Realm, DMG +1% in Round 1",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_strength_sword",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "strength_sword"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Hannibel's Scalpel with stats {'hp': 50, 'atk': 25, 'def': 5, 'rush': 5} and effect In Snail Fight: DMG +1.5%, 1st round DMG +1%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_hannibel_s_scalpel",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "hannibel_s_scalpel"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Jack's Gloves with stats {'hp': 50, 'atk': 25, 'def': 5, 'rush': 5} and effect In Snail Fight: DMG +1.5%, 1st round DMG +1%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_jack_s_gloves",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "jack_s_gloves"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Broken Sagesinker with stats {'hp': 50, 'atk': 25, 'def': 5, 'rush': 5} and effect Crit DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_broken_sagesinker",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "broken_sagesinker"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Broken Sageender with stats {'hp': 50, 'atk': 25, 'def': 5, 'rush': 5} and effect Crit DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_broken_sageender",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "broken_sageender"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Broken Sagemurderer with stats {'hp': 50, 'atk': 25, 'def': 5, 'rush': 5} and effect Crit DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_broken_sagemurderer",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "broken_sagemurderer"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Broken Sagekiller with stats {'hp': 50, 'atk': 25, 'def': 5, 'rush': 5} and effect Crit DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_broken_sagekiller",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "broken_sagekiller"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Shattered Windfire Wheel with stats {'hp': 50, 'atk': 25, 'def': 5, 'rush': 5} and effect Lifesteal Effect +10%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_shattered_windfire_wheel",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "shattered_windfire_wheel"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Shattered Sky Ribbon with stats {'hp': 50, 'atk': 25, 'def': 5, 'rush': 5} and effect Lifesteal Effect +10%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_shattered_sky_ribbon",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "shattered_sky_ribbon"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Shattered Fire Spear with stats {'hp': 50, 'atk': 25, 'def': 5, 'rush': 5} and effect Lifesteal Effect +10%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_shattered_fire_spear",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "shattered_fire_spear"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Shattered Palm-Leaf Fan with stats {'hp': 50, 'atk': 25, 'def': 5, 'rush': 5} and effect Lifesteal Effect +10%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_shattered_palm_leaf_fan",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "shattered_palm_leaf_fan"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Dwarf Mask with stats {'hp': 50, 'atk': 5, 'def': 25, 'rush': 5} and effect If you spot a weakness, Snail DEF +30",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_dwarf_mask",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "dwarf_mask"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Lizard Belt with stats {'hp': 250, 'atk': 5, 'def': 5, 'rush': 5} and effect If you spot a weakness, Snail HP +300",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_lizard_belt",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "lizard_belt"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Slippers with stats {'hp': 50, 'atk': 5, 'def': 5, 'rush': 25} and effect If you spot a weakness, Snail RUSH +30",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_slippers",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "slippers"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Elegant Gloves with stats {'hp': 50, 'atk': 25, 'def': 5, 'rush': 5} and effect If you spot a weakness, Snail ATK +30",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_elegant_gloves",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "elegant_gloves"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Fresnal Lens with stats {'hp': 100, 'atk': 10, 'def': 10, 'rush': 10} and effect RUSH DMG +60",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_fresnal_lens",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "fresnal_lens"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Crystal Lens with stats {'hp': 100, 'atk': 10, 'def': 10, 'rush': 10} and effect RUSH DMG +60",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_crystal_lens",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "crystal_lens"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Sakabato Blade with stats {'hp': 100, 'atk': 50, 'def': 10, 'rush': 10} and effect In Hitman Challenge: DMG +3%, 1st round DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_sakabato_blade",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "sakabato_blade"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Walnut Wand with stats {'hp': 100, 'atk': 50, 'def': 10, 'rush': 10} and effect Fire, Water, Earth, Wind DMG +30",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_walnut_wand",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "walnut_wand"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Nun-chuck with stats {'hp': 100, 'atk': 50, 'def': 10, 'rush': 10} and effect Ignore enemy DEF +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_nun_chuck",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "nun_chuck"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Pulse Rifle with stats {'hp': 100, 'atk': 50, 'def': 10, 'rush': 10} and effect Fire DMG +60<br>Ignore Fire RES +30",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_pulse_rifle",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "pulse_rifle"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Freddy's Claw with stats {'hp': 100, 'atk': 50, 'def': 10, 'rush': 10} and effect In Snail Arena, DMG +3%. In Snail Arena, Round 1 DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_freddy_s_claw",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "freddy_s_claw"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Jason's Mask with stats {'hp': 100, 'atk': 50, 'def': 10, 'rush': 10} and effect In Snail Arena, DMG +3%. In Snail Arena, Round 1 DMG +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_jason_s_mask",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "jason_s_mask"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Broken Godsmiter with stats {'hp': 100, 'atk': 50, 'def': 10, 'rush': 10} and effect Crit DMG +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_broken_godsmiter",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "broken_godsmiter"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Broken Palm-Leaf Fan with stats {'hp': 100, 'atk': 50, 'def': 10, 'rush': 10} and effect Lifesteal Effect +20%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_broken_palm_leaf_fan",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "broken_palm_leaf_fan"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Broken Fiend Mirror with stats {'hp': 100, 'atk': 50, 'def': 10, 'rush': 10} and effect Lifesteal Effect +20%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_broken_fiend_mirror",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "broken_fiend_mirror"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Multifunction Goggles with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect RUSH DMG +120",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_multifunction_goggles",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "multifunction_goggles"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Infrared Lens with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect RUSH DMG +120",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_infrared_lens",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "infrared_lens"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Spring Longsword with stats {'hp': 200, 'atk': 10, 'def': 20, 'rush': 20} and effect Crit Rate +4%<br>Crit DMG +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_spring_longsword",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "spring_longsword"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Hammer of Frenzy with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 10} and effect Each round, Snail RUSH +16<br>Snail ATK +16",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_hammer_of_frenzy",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "hammer_of_frenzy"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Texan Chainsaw with stats {'hp': 200, 'atk': 10, 'def': 20, 'rush': 20} and effect In Snail Arena, DMG +6%<br>In Snail Arena, Round 1 DMG +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_texan_chainsaw",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "texan_chainsaw"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Cayako's Charm with stats {'hp': 200, 'atk': 10, 'def': 20, 'rush': 20} and effect In Snail Arena, DMG +6%<br>In Snail Arena, Round 1 DMG +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_cayako_s_charm",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "cayako_s_charm"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Dim Godsmiter with stats {'hp': 200, 'atk': 100, 'def': 20, 'rush': 20} and effect Crit DMG +4%<br>Lifesteal Effect +20%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_dim_godsmiter",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "dim_godsmiter"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Dim Ironcutter with stats {'hp': 200, 'atk': 100, 'def': 20, 'rush': 20} and effect Crit DMG +4%<br>Lifesteal Effect +20%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_dim_ironcutter",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "dim_ironcutter"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Dim Trident with stats {'hp': 200, 'atk': 100, 'def': 20, 'rush': 20} and effect Crit DMG +4%<br>Lifesteal Effect +20%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_dim_trident",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "dim_trident"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Dim Rope of Truth with stats {'hp': 200, 'atk': 100, 'def': 20, 'rush': 20} and effect Crit DMG +4%<br>Lifesteal Effect +20%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_dim_rope_of_truth",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "dim_rope_of_truth"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Scout Goggles with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect RUSH DMG +120",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_scout_goggles",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "scout_goggles"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Holographic Lens with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect RUSH DMG +120",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_holographic_lens",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "holographic_lens"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Leviathan Gloves with stats {'hp': 200, 'atk': 100, 'def': 20, 'rush': 20} and effect Water DMG +120<br>Ignore Enemy Water RES +60",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_leviathan_gloves",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "leviathan_gloves"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Imitation Vision with stats {'hp': 200, 'atk': 100, 'def': 20, 'rush': 20} and effect In Gene Simulations, DMG +6%<br>Round 1 DMG +4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_imitation_vision",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "imitation_vision"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Peacock Quill with stats {'hp': 200, 'atk': 100, 'def': 20, 'rush': 100} and effect For Round 1, CRIT DMG +4%<br>In any Realm DMG +6% in Round 1",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_peacock_quill",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "peacock_quill"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Excalibur with stats {'hp': 400, 'atk': 200, 'def': 40, 'rush': 40} and effect ATK +160",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_excalibur",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "excalibur"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Anti-Strength Saber with stats {'hp': 400, 'atk': 200, 'def': 40, 'rush': 40} and effect In Domain Duels (1v1), DMG +12%.<br>In Domain Duels (1v1), DMG +8% for Round 1",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_anti_strength_saber",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "anti_strength_saber"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Butcher's Hook with stats {'hp': 400, 'atk': 200, 'def': 40, 'rush': 40} and effect In Snail Arena, DMG +12%<br>In Snail Arena, Round 1 DMG +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_butcher_s_hook",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "butcher_s_hook"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Trident with stats {'hp': 400, 'atk': 200, 'def': 40, 'rush': 40} and effect Crit DMG +8%<br>Lifesteal Effect +40%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_trident",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "trident"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Battle Detector with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect RUSH DMG +480",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_battle_detector",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "battle_detector"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Electric Hammer with stats {'hp': 400, 'atk': 40, 'def': 40, 'rush': 200} and effect Wind DMG +240<br>Ignore Enemey Wind RES +120",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_electric_hammer",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "electric_hammer"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Fossil with stats {'hp': 400, 'atk': 200, 'def': 40, 'rush': 40} and effect Earth DMG +240<br>Ignore Enemy Earth RES +120",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_fossil",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "fossil"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Drazgul Fang with stats {'hp': 400, 'atk': 200, 'def': 40, 'rush': 200} and effect Poison DMG +240<br>Crit Rate +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_drazgul_fang",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "drazgul_fang"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Maze Key with stats {'hp': 400, 'atk': 200, 'def': 200, 'rush': 40} and effect All Element DMG +48<br>All RES +24",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_maze_key",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "maze_key"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists B-Tadpole Sword with stats {'hp': 400, 'atk': 200, 'def': 40, 'rush': 40} and effect HIT +8%<br>Ignore All RES +24",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_b_tadpole_sword",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "b_tadpole_sword"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Strength Master's Sword with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect In any Realm, DMG +18%<br>In any Realm, DMG +12% in Round 1",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_strength_master_s_sword",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "strength_master_s_sword"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists True Sakabato with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect Againt Daily Hitmen,DMG +18%<br>1st round DMG +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_true_sakabato",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "true_sakabato"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Oldman Wand with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect Fire, Water, Earth, Wind DMG +240",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_oldman_wand",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "oldman_wand"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Norris-chuck with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect Ignore enemy DEF +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_norris_chuck",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "norris_chuck"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Excalibur EX with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect ATK +240",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_excalibur_ex",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "excalibur_ex"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Dark Strength with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect In Domain Duels (1v1), DMG +18%<br>In Domain Duels (1v1), DMG +12% for Round 1",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_dark_strength",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "dark_strength"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists District 9 with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect Fire DMG +360<br>Ignore Fire RES +180",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_district_9",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "district_9"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Big Bounce with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect Crit Rate +12%<br>Crit DMG +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_big_bounce",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "big_bounce"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Power Spinach with stats {'hp': 600, 'atk': 60, 'def': 60, 'rush': 300} and effect Each round, Snail RUSH +48<br>Snail ATK +48",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_power_spinach",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "power_spinach"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Blair's Curse with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect In Snail Arena, DMG +18%<br>In Snail Arena, Round 1 DMG +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_blair_s_curse",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "blair_s_curse"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Poseidon's Trident with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect Crit DMG +12%<br>Lifesteal Effect +60%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_poseidon_s_trident",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "poseidon_s_trident"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Ancestral Legacy with stats {'hp': 600, 'atk': 60, 'def': 300, 'rush': 60} and effect If you spot a weakness, Snail DEF +360",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_ancestral_legacy",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "ancestral_legacy"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Gilded Belt with stats {'hp': 3000, 'atk': 60, 'def': 60, 'rush': 60} and effect If you spot a weakness, Snail HP +3600",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_gilded_belt",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "gilded_belt"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Empress' Slippers with stats {'hp': 600, 'atk': 60, 'def': 60, 'rush': 300} and effect If you spot a weakness, Snail RUSH +360",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_empress_slippers",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "empress_slippers"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Empress Gloves with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect If you spot a weakness, Snail ATK +360",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_empress_gloves",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "empress_gloves"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Know-It-All Device with stats {'hp': 1200, 'atk': 120, 'def': 120, 'rush': 120} and effect Extra RUSH DMG +720",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_know_it_all_device",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "know_it_all_device"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Hydra's Gloves with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect Water DMG +360<br>Ignore Water RES +180",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_hydra_s_gloves",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "hydra_s_gloves"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Million Volts with stats {'hp': 600, 'atk': 60, 'def': 60, 'rush': 300} and effect Wind DMG +360<br>Ignore Enemy Wind RES +180",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_million_volts",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "million_volts"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Cretaceous Weapon with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect Earth DMG +360<br>Ignore Earth RES +180",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_cretaceous_weapon",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "cretaceous_weapon"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Golden Drazgul Fang with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 300} and effect Poison DMG +360<br>Crit Rate +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_golden_drazgul_fang",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "golden_drazgul_fang"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Virtual Vision with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect In Gene Simulations, DMG +18%<br>In Gene Simulations, Round 1 DMG +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_virtual_vision",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "virtual_vision"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Septreasure Peacock Quill with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 300} and effect For Round 1, CRIT DMG +12%<br>When exploring, DMG +18% in Round 1",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_septreasure_peacock_quill",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "septreasure_peacock_quill"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Incredible Key with stats {'hp': 600, 'atk': 300, 'def': 300, 'rush': 60} and effect All Element DMG +72<br>All RES +36",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_incredible_key",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "incredible_key"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists W-Tadpole Sword with stats {'hp': 600, 'atk': 300, 'def': 60, 'rush': 60} and effect HIT +12<br>Ignore All RES +36",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_w_tadpole_sword",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "w_tadpole_sword"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Sailor Suit with stats {'hp': 100, 'atk': 10, 'def': 10, 'rush': 10} and effect Per 10% HP lost, Snail ATK +30<br>Per 10% HP lost, Snail DEF +30",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_sailor_suit",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "sailor_suit"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Rock with stats {'hp': 50, 'atk': 5, 'def': 25, 'rush': 5} and effect Earth RES +30",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_rock",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "rock"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Lifebuoy with stats {'hp': 150, 'atk': 5, 'def': 15, 'rush': 5} and effect Water RES +30",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_lifebuoy",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "lifebuoy"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Stage Hat with stats {'hp': 100, 'atk': 10, 'def': 10, 'rush': 10} and effect FTH +5, ART +5, CIV +5, TECH +5, FAME +5",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_stage_hat",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "stage_hat"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Static Belt with stats {'hp': 50, 'atk': 5, 'def': 5, 'rush': 25} and effect Wind RES +30",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_static_belt",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "static_belt"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Elven Cape with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 20} and effect Snail ART +40",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_elven_cape",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "elven_cape"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Death Shroud with stats {'hp': 500, 'atk': 10, 'def': 10, 'rush': 10} and effect Lifesteal Rate +2%<br>Lifesteal Effect +10%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_death_shroud",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "death_shroud"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Strong Round Shield with stats {'hp': 100, 'atk': 10, 'def': 50, 'rush': 10} and effect DMG REDUC +1.6%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_strong_round_shield",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "strong_round_shield"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Workout Top with stats {'hp': 300, 'atk': 10, 'def': 30, 'rush': 10} and effect Dodge Rate +2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_workout_top",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "workout_top"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Saint's Earring with stats {'hp': 400, 'atk': 40, 'def': 40, 'rush': 40} and effect FTH +80",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_saint_s_earring",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "saint_s_earring"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Crown of Power with stats {'hp': 400, 'atk': 40, 'def': 40, 'rush': 40} and effect FTH +80",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_crown_of_power",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "crown_of_power"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Ring of Stupor with stats {'hp': 200, 'atk': 20, 'def': 20, 'rush': 100} and effect Chance to Paralysis enemy +2.4%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_ring_of_stupor",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "ring_of_stupor"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Magician with stats {'hp': 400, 'atk': 40, 'def': 40, 'rush': 40} and effect All RES +24",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_magician",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "magician"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Thorn with stats {'hp': 1000, 'atk': 20, 'def': 20, 'rush': 20} and effect Fire RES +120",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_thorn",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "thorn"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Wisdom Cloak with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect Snail CIV +160",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_wisdom_cloak",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "wisdom_cloak"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Power Armor with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect TECH +160",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_power_armor",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "power_armor"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Alloy Shield with stats {'hp': 400, 'atk': 40, 'def': 20, 'rush': 40} and effect Each round: DEF +64",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_alloy_shield",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "alloy_shield"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Chief with stats {'hp': 400, 'atk': 40, 'def': 200, 'rush': 40} and effect Crit DMG reduction +8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_chief",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "chief"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Gold Outfit with stats {'hp': 1200, 'atk': 40, 'def': 120, 'rush': 40} and effect ELMT DMG REDUC +4.8%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_gold_outfit",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "gold_outfit"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Time Amulet with stats {'hp': 1200, 'atk': 40, 'def': 120, 'rush': 40} and effect HP Regen +640 each round",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_time_amulet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "time_amulet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Ogma's Cloak with stats {'hp': 1200, 'atk': 120, 'def': 120, 'rush': 120} and effect Snail CIV +240",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_ogma_s_cloak",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "ogma_s_cloak"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Selene Amulet with stats {'hp': 1200, 'atk': 120, 'def': 120, 'rush': 120} and effect Snail ART +240",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_selene_amulet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "selene_amulet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Antimatter Armor with stats {'hp': 1200, 'atk': 120, 'def': 120, 'rush': 120} and effect Snail TECH +240",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_antimatter_armor",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "antimatter_armor"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Michael's Earrings with stats {'hp': 1200, 'atk': 120, 'def': 120, 'rush': 120} and effect Snail FTH +240",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_michael_s_earrings",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "michael_s_earrings"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Caesar's Crown with stats {'hp': 1200, 'atk': 120, 'def': 120, 'rush': 120} and effect Snail TECH +240",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_caesar_s_crown",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "caesar_s_crown"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Ring of Paralysis with stats {'hp': 600, 'atk': 60, 'def': 60, 'rush': 300} and effect Chance to Paralysis enemy +7.2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_ring_of_paralysis",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "ring_of_paralysis"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Dracula Cape with stats {'hp': 3000, 'atk': 60, 'def': 60, 'rush': 60} and effect Lifesteal Rate +12%<br>Lifesteal Effect +60%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_dracula_cape",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "dracula_cape"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Grandpire's Robe with stats {'hp': 1200, 'atk': 120, 'def': 120, 'rush': 120} and effect Per 10% HP lost, Snail ATK +360<br>Per 10% HP lost, Snail DEF +360",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_grandpire_s_robe",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "grandpire_s_robe"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Bedrock with stats {'hp': 600, 'atk': 60, 'def': 300, 'rush': 60} and effect Earth RES +360",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_bedrock",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "bedrock"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Poseidon's Blessing with stats {'hp': 1800, 'atk': 60, 'def': 180, 'rush': 60} and effect Water RES +360",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_poseidon_s_blessing",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "poseidon_s_blessing"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Fortress with stats {'hp': 600, 'atk': 60, 'def': 300, 'rush': 60} and effect DMG Reduction +9.6%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_fortress",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "fortress"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Traveler Outfit with stats {'hp': 1800, 'atk': 60, 'def': 180, 'rush': 60} and effect Dodge Rate +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_traveler_outfit",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "traveler_outfit"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists The Great Magician with stats {'hp': 1200, 'atk': 120, 'def': 120, 'rush': 120} and effect ALL RES +72",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_the_great_magician",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "the_great_magician"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Antimatter Shield with stats {'hp': 600, 'atk': 60, 'def': 300, 'rush': 60} and effect DEF +96 per round",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_antimatter_shield",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "antimatter_shield"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Heart of Nature with stats {'hp': 3000, 'atk': 60, 'def': 60, 'rush': 60} and effect Fire RES +360",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_heart_of_nature",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "heart_of_nature"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Super Warrior with stats {'hp': 600, 'atk': 60, 'def': 300, 'rush': 60} and effect CRIT DMG REDUC +12%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_super_warrior",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "super_warrior"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists The Great Entertainer with stats {'hp': 1200, 'atk': 120, 'def': 120, 'rush': 120} and effect FTH +60<br>ART +60<br>CIV +60<br>TECH +60<br>FAME +60",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_the_great_entertainer",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "the_great_entertainer"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Thunder Belt with stats {'hp': 600, 'atk': 60, 'def': 60, 'rush': 300} and effect Wind RES +360",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_thunder_belt",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "thunder_belt"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Agamemnon Outfit with stats {'hp': 3000, 'atk': 100, 'def': 300, 'rush': 100} and effect ELMT DMG REDUC +7.2%",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_agamemnon_outfit",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "agamemnon_outfit"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Eye of Akamoddo Amulet with stats {'hp': 1800, 'atk': 60, 'def': 180, 'rush': 60} and effect Restore 960 HP each round",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_eye_of_akamoddo_amulet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "eye_of_akamoddo_amulet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Flower Crown with stats {'hp': 100, 'atk': 0, 'def': 10, 'rush': 0} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_flower_crown",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "flower_crown"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Wooden Ring with stats {'hp': 100, 'atk': 0, 'def': 10, 'rush': 0} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_wooden_ring",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "wooden_ring"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Iron Ring with stats {'hp': 0, 'atk': 10, 'def': 0, 'rush': 10} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_iron_ring",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "iron_ring"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Beast Fang with stats {'hp': 0, 'atk': 10, 'def': 0, 'rush': 10} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_beast_fang",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "beast_fang"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Sorcerer Ring with stats {'hp': 150, 'atk': 5, 'def': 15, 'rush': 15} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_sorcerer_ring",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "sorcerer_ring"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Warrior Ring with stats {'hp': 50, 'atk': 15, 'def': 5, 'rush': 15} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_warrior_ring",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "warrior_ring"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists White Pearl with stats {'hp': 150, 'atk': 5, 'def': 15, 'rush': 5} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_white_pearl",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "white_pearl"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Black Pearl with stats {'hp': 50, 'atk': 15, 'def': 5, 'rush': 15} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_black_pearl",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "black_pearl"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Wizard Ring with stats {'hp': 300, 'atk': 10, 'def': 30, 'rush': 10} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_wizard_ring",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "wizard_ring"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Crusader Ring with stats {'hp': 100, 'atk': 30, 'def': 10, 'rush': 30} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_crusader_ring",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "crusader_ring"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Ruby Brooch with stats {'hp': 100, 'atk': 30, 'def': 10, 'rush': 30} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_ruby_brooch",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "ruby_brooch"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Sapphire Brooch with stats {'hp': 300, 'atk': 10, 'def': 30, 'rush': 10} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_sapphire_brooch",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "sapphire_brooch"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Seething Bracelet with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_seething_bracelet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "seething_bracelet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Icy Bracelet with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_icy_bracelet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "icy_bracelet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Heaven Amulet with stats {'hp': 600, 'atk': 20, 'def': 60, 'rush': 20} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_heaven_amulet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "heaven_amulet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Abyss Amulet with stats {'hp': 200, 'atk': 60, 'def': 20, 'rush': 60} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_abyss_amulet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "abyss_amulet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Heaven Wings with stats {'hp': 1200, 'atk': 40, 'def': 120, 'rush': 40} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_heaven_wings",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "heaven_wings"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Abyss Wings with stats {'hp': 400, 'atk': 120, 'def': 40, 'rush': 120} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_abyss_wings",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "abyss_wings"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Crystal of Will with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_crystal_of_will",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "crystal_of_will"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Demon God Crystal with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_demon_god_crystal",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "demon_god_crystal"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Eye of Horus with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_eye_of_horus",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "eye_of_horus"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Blasphemy Eye with stats {'hp': 800, 'atk': 80, 'def': 80, 'rush': 80} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_blasphemy_eye",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "blasphemy_eye"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Amulet of Will with stats {'hp': 1200, 'atk': 120, 'def': 120, 'rush': 120} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_amulet_of_will",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "amulet_of_will"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Demon God Amulet with stats {'hp': 1200, 'atk': 120, 'def': 120, 'rush': 120} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_demon_god_amulet",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "demon_god_amulet"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  },
+  {
+    "claim": "Gear table lists Amulet of Will +1 with stats {'hp': 2000, 'atk': 200, 'def': 200, 'rush': 200} and effect None",
+    "confidence": 0.85,
+    "id": "source_fact_wiki_gear_amulet_of_will_1",
+    "notes": "Candidate source fact from Gear.wiki aggregate table. Requires manual review before canonical promotion.",
+    "related_entities": [
+      "amulet_of_will_1"
+    ],
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "source_type": "wiki",
+    "source_url": "https://supersnail.wiki.gg/wiki/Gear"
+  }
+]
