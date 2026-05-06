@@ -1,0 +1,21 @@
+{
+  "calculator_candidate_count": 29,
+  "canonical_promotion": false,
+  "classification_counts": {
+    "calculator_formula_row_needs_manual_mapping": 29
+  },
+  "gear_wiki_source": "game/sources/wiki_gg/Gear.wiki",
+  "gear_wiki_table_row_candidates": 47,
+  "generated_at": "2026-05-06T15:56:50.294311+00:00",
+  "outputs": [
+    "gear_page_rows.candidates.json",
+    "gear_calculator_to_gear_page_review_matrix.json",
+    "gear_calculator_to_gear_page_review_matrix.csv",
+    "unmatched_calculator_candidates.json",
+    "manifest.json",
+    "gear_page_table_review_summary.md"
+  ],
+  "phase": "1C.1B",
+  "probable_match_count_score_0_50_plus": 1,
+  "unmatched_count": 28
+}

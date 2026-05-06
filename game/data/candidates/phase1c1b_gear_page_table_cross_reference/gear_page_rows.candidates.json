@@ -1,0 +1,1253 @@
+[
+  {
+    "cells_clean": [
+      "In Domain Wars, Mutant Minion HP +2% In Domain Wars, Mutant Minion ATK +2% In Domain Wars, Mutant Minion DEF +2% In Domain Wars, Mutant Minion RUSH +2%",
+      "+ + +",
+      "orange|mutant|Clean Pawson Claw}}"
+    ],
+    "cells_raw": [
+      "In Domain Wars, Mutant Minion HP +2%<br>In Domain Wars, Mutant Minion ATK +2%<br>In Domain Wars, Mutant Minion DEF +2%<br>In Domain Wars, Mutant Minion RUSH +2%",
+      "{{Retext|Dim Pawson Claw|purple}} + {{Retext|Deformed Shell|purple}} + {{Retext|Abyss Amulet|purple}} + {{Retext|Seething Bracelet|purple}}",
+      "orange|mutant|Clean Pawson Claw}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0001",
+    "image_files": [],
+    "name_candidate": "In Domain Wars, Mutant Minion HP +2% In Domain Wars, Mutant Minion ATK +2% In Domain Wars, Mutant Minion DEF +2% In Domain Wars, Mutant Minion RUSH +2%",
+    "name_slug": "in_domain_wars_mutant_minion_hp_2_in_domain_wars_mutant_minion_atk_2_in_domain_wars_mutant_minion_def_2_in_domain_wars_mutant_minion_rush_2",
+    "numeric_cells": [
+      "In Domain Wars, Mutant Minion HP +2% In Domain Wars, Mutant Minion ATK +2% In Domain Wars, Mutant Minion DEF +2% In Domain Wars, Mutant Minion RUSH +2%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Species Wars, Mutant Minion HP +2% In Species Wars, Mutant Minion ATK +2% In Species Wars, Mutant Minion DEF +2% In Species Wars, Mutant Minion RUSH +2%",
+      "Lotto #2|orange|mutant}}"
+    ],
+    "cells_raw": [
+      "In Species Wars, Mutant Minion HP +2%<br>In Species Wars, Mutant Minion ATK +2%<br>In Species Wars, Mutant Minion DEF +2%<br>In Species Wars, Mutant Minion RUSH +2%",
+      "Lotto #2|orange|mutant}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0002",
+    "image_files": [],
+    "name_candidate": "In Species Wars, Mutant Minion HP +2% In Species Wars, Mutant Minion ATK +2% In Species Wars, Mutant Minion DEF +2% In Species Wars, Mutant Minion RUSH +2%",
+    "name_slug": "in_species_wars_mutant_minion_hp_2_in_species_wars_mutant_minion_atk_2_in_species_wars_mutant_minion_def_2_in_species_wars_mutant_minion_rush_2",
+    "numeric_cells": [
+      "In Species Wars, Mutant Minion HP +2% In Species Wars, Mutant Minion ATK +2% In Species Wars, Mutant Minion DEF +2% In Species Wars, Mutant Minion RUSH +2%",
+      "Lotto #2|orange|mutant}}"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Domain Wars, Demon Minion HP +2% In Domain Wars, Demon Minion ATK +2% In Domain Wars, Demon Minion DEF +2% In Domain Wars, Demon Minion RUSH +2%",
+      "+ + +",
+      "orange|demon|Clean Bladden Blade}}"
+    ],
+    "cells_raw": [
+      "In Domain Wars, Demon Minion HP +2%<br>In Domain Wars, Demon Minion ATK +2%<br>In Domain Wars, Demon Minion DEF +2%<br>In Domain Wars, Demon Minion RUSH +2%",
+      "{{Retext|Dim Bladden Sword|purple}} + {{Retext|Ritual|purple}} + {{Retext|Abyss Amulet|purple}} + {{Retext|Seething Bracelet|purple}}",
+      "orange|demon|Clean Bladden Blade}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0003",
+    "image_files": [],
+    "name_candidate": "In Domain Wars, Demon Minion HP +2% In Domain Wars, Demon Minion ATK +2% In Domain Wars, Demon Minion DEF +2% In Domain Wars, Demon Minion RUSH +2%",
+    "name_slug": "in_domain_wars_demon_minion_hp_2_in_domain_wars_demon_minion_atk_2_in_domain_wars_demon_minion_def_2_in_domain_wars_demon_minion_rush_2",
+    "numeric_cells": [
+      "In Domain Wars, Demon Minion HP +2% In Domain Wars, Demon Minion ATK +2% In Domain Wars, Demon Minion DEF +2% In Domain Wars, Demon Minion RUSH +2%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Species Wars, Demon Minion HP +2% In Species Wars, Demon Minion ATK +2% In Species Wars, Demon Minion DEF +2% In Species Wars, Demon Minion RUSH +2%",
+      "Lotto #2|orange|demon}}"
+    ],
+    "cells_raw": [
+      "In Species Wars, Demon Minion HP +2%<br>In Species Wars, Demon Minion ATK +2%<br>In Species Wars, Demon Minion DEF +2%<br>In Species Wars, Demon Minion RUSH +2%",
+      "Lotto #2|orange|demon}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0004",
+    "image_files": [],
+    "name_candidate": "In Species Wars, Demon Minion HP +2% In Species Wars, Demon Minion ATK +2% In Species Wars, Demon Minion DEF +2% In Species Wars, Demon Minion RUSH +2%",
+    "name_slug": "in_species_wars_demon_minion_hp_2_in_species_wars_demon_minion_atk_2_in_species_wars_demon_minion_def_2_in_species_wars_demon_minion_rush_2",
+    "numeric_cells": [
+      "In Species Wars, Demon Minion HP +2% In Species Wars, Demon Minion ATK +2% In Species Wars, Demon Minion DEF +2% In Species Wars, Demon Minion RUSH +2%",
+      "Lotto #2|orange|demon}}"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Domain Wars, Dragon Minion HP +2% In Dragon Wars, dragon Minion ATK +2% In Domain Wars, Dragon Minion DEF +2% In Domain Wars, Dragon Minion RUSH +2%",
+      "+ + +",
+      "orange|dragon|Clean Jaden Spear}}"
+    ],
+    "cells_raw": [
+      "In Domain Wars, Dragon Minion HP +2%<br>In Dragon Wars, dragon Minion ATK +2%<br>In Domain Wars, Dragon Minion DEF +2%<br>In Domain Wars, Dragon Minion RUSH +2%",
+      "{{Retext|Dim Jaden Blade|purple}} + {{Retext|Dragon's Blessing|purple}} + {{Retext|Heaven Amulet|purple}} + {{Retext|Icy Bracelet|purple}}",
+      "orange|dragon|Clean Jaden Spear}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0005",
+    "image_files": [],
+    "name_candidate": "In Domain Wars, Dragon Minion HP +2% In Dragon Wars, dragon Minion ATK +2% In Domain Wars, Dragon Minion DEF +2% In Domain Wars, Dragon Minion RUSH +2%",
+    "name_slug": "in_domain_wars_dragon_minion_hp_2_in_dragon_wars_dragon_minion_atk_2_in_domain_wars_dragon_minion_def_2_in_domain_wars_dragon_minion_rush_2",
+    "numeric_cells": [
+      "In Domain Wars, Dragon Minion HP +2% In Dragon Wars, dragon Minion ATK +2% In Domain Wars, Dragon Minion DEF +2% In Domain Wars, Dragon Minion RUSH +2%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Species Wars, Dragon Minion HP +2% In Species Wars, Dragon Minion ATK +2% In Species Wars, Dragon Minion DEF +2% In Species Wars, Dragon Minion RUSH +2%",
+      "Lotto #2|orange|dragon}}"
+    ],
+    "cells_raw": [
+      "In Species Wars, Dragon Minion HP +2%<br>In Species Wars, Dragon Minion ATK +2%<br>In Species Wars, Dragon Minion DEF +2%<br>In Species Wars, Dragon Minion RUSH +2%",
+      "Lotto #2|orange|dragon}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0006",
+    "image_files": [],
+    "name_candidate": "In Species Wars, Dragon Minion HP +2% In Species Wars, Dragon Minion ATK +2% In Species Wars, Dragon Minion DEF +2% In Species Wars, Dragon Minion RUSH +2%",
+    "name_slug": "in_species_wars_dragon_minion_hp_2_in_species_wars_dragon_minion_atk_2_in_species_wars_dragon_minion_def_2_in_species_wars_dragon_minion_rush_2",
+    "numeric_cells": [
+      "In Species Wars, Dragon Minion HP +2% In Species Wars, Dragon Minion ATK +2% In Species Wars, Dragon Minion DEF +2% In Species Wars, Dragon Minion RUSH +2%",
+      "Lotto #2|orange|dragon}}"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Domain Wars, Mecha Minion HP +2% In Domain Wars, Mecha Minion ATK +2% In Domain Wars, Mecha Minion DEF +2% In Domain Wars, Mecha Minion RUSH +2%",
+      "+ + +",
+      "orange|mecha|Clean Racky Cannon}}"
+    ],
+    "cells_raw": [
+      "In Domain Wars, Mecha Minion HP +2%<br>In Domain Wars, Mecha Minion ATK +2%<br>In Domain Wars, Mecha Minion DEF +2%<br>In Domain Wars, Mecha Minion RUSH +2%",
+      "{{Retext|Dim Racky Cannon|purple}} + {{Retext|Perpetual Slash|purple}} + {{Retext|Heaven Amulet|purple}} + {{Retext|Icy Bracelet|purple}}",
+      "orange|mecha|Clean Racky Cannon}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0007",
+    "image_files": [],
+    "name_candidate": "In Domain Wars, Mecha Minion HP +2% In Domain Wars, Mecha Minion ATK +2% In Domain Wars, Mecha Minion DEF +2% In Domain Wars, Mecha Minion RUSH +2%",
+    "name_slug": "in_domain_wars_mecha_minion_hp_2_in_domain_wars_mecha_minion_atk_2_in_domain_wars_mecha_minion_def_2_in_domain_wars_mecha_minion_rush_2",
+    "numeric_cells": [
+      "In Domain Wars, Mecha Minion HP +2% In Domain Wars, Mecha Minion ATK +2% In Domain Wars, Mecha Minion DEF +2% In Domain Wars, Mecha Minion RUSH +2%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Species Wars, Mecha Minion HP +2% In Species Wars, Mecha Minion ATK +2% In Species Wars, Mecha Minion DEF +2% In Species Wars, Mecha Minion RUSH +2%",
+      "Lotto #2|orange|mecha}}"
+    ],
+    "cells_raw": [
+      "In Species Wars, Mecha Minion HP +2%<br>In Species Wars, Mecha Minion ATK +2%<br>In Species Wars, Mecha Minion DEF +2%<br>In Species Wars, Mecha Minion RUSH +2%",
+      "Lotto #2|orange|mecha}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0008",
+    "image_files": [],
+    "name_candidate": "In Species Wars, Mecha Minion HP +2% In Species Wars, Mecha Minion ATK +2% In Species Wars, Mecha Minion DEF +2% In Species Wars, Mecha Minion RUSH +2%",
+    "name_slug": "in_species_wars_mecha_minion_hp_2_in_species_wars_mecha_minion_atk_2_in_species_wars_mecha_minion_def_2_in_species_wars_mecha_minion_rush_2",
+    "numeric_cells": [
+      "In Species Wars, Mecha Minion HP +2% In Species Wars, Mecha Minion ATK +2% In Species Wars, Mecha Minion DEF +2% In Species Wars, Mecha Minion RUSH +2%",
+      "Lotto #2|orange|mecha}}"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Domain Wars, Zombie Minion HP +2% In Domain Wars, Zombie Minion ATK +2% In Domain Wars, Zombie Minion DEF +2% In Domain Wars, Zombie Minion RUSH +2%",
+      "+ + +",
+      "orange|zombie|Clean Nethrone Coffin}}"
+    ],
+    "cells_raw": [
+      "In Domain Wars, Zombie Minion HP +2%<br>In Domain Wars, Zombie Minion ATK +2%<br>In Domain Wars, Zombie Minion DEF +2%<br>In Domain Wars, Zombie Minion RUSH +2%",
+      "{{Retext|Dim Nethrone Coffin|purple}} + {{Retext|Gravedigger's Seal|purple}} + {{Retext|Abyss Amulet|purple}} + {{Retext|Seething Bracelet|purple}}",
+      "orange|zombie|Clean Nethrone Coffin}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0009",
+    "image_files": [],
+    "name_candidate": "In Domain Wars, Zombie Minion HP +2% In Domain Wars, Zombie Minion ATK +2% In Domain Wars, Zombie Minion DEF +2% In Domain Wars, Zombie Minion RUSH +2%",
+    "name_slug": "in_domain_wars_zombie_minion_hp_2_in_domain_wars_zombie_minion_atk_2_in_domain_wars_zombie_minion_def_2_in_domain_wars_zombie_minion_rush_2",
+    "numeric_cells": [
+      "In Domain Wars, Zombie Minion HP +2% In Domain Wars, Zombie Minion ATK +2% In Domain Wars, Zombie Minion DEF +2% In Domain Wars, Zombie Minion RUSH +2%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Species Wars, Zombie Minion HP +2% In Species Wars, Zombie Minion ATK +2% In Species Wars, Zombie Minion DEF +2% In Species Wars, Zombie Minion RUSH +2%",
+      "Lotto #2|orange|zombie}}"
+    ],
+    "cells_raw": [
+      "In Species Wars, Zombie Minion HP +2%<br>In Species Wars, Zombie Minion ATK +2%<br>In Species Wars, Zombie Minion DEF +2%<br>In Species Wars, Zombie Minion RUSH +2%",
+      "Lotto #2|orange|zombie}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0010",
+    "image_files": [],
+    "name_candidate": "In Species Wars, Zombie Minion HP +2% In Species Wars, Zombie Minion ATK +2% In Species Wars, Zombie Minion DEF +2% In Species Wars, Zombie Minion RUSH +2%",
+    "name_slug": "in_species_wars_zombie_minion_hp_2_in_species_wars_zombie_minion_atk_2_in_species_wars_zombie_minion_def_2_in_species_wars_zombie_minion_rush_2",
+    "numeric_cells": [
+      "In Species Wars, Zombie Minion HP +2% In Species Wars, Zombie Minion ATK +2% In Species Wars, Zombie Minion DEF +2% In Species Wars, Zombie Minion RUSH +2%",
+      "Lotto #2|orange|zombie}}"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Domain Wars, Angel Minion HP +2% In Domain Wars, Angel Minion ATK +2% In Domain Wars, Angel Minion DEF +2% In Domain Wars, Angel Minion RUSH +2%",
+      "+ + +",
+      "orange|angel|Clean Minerva Staff}}"
+    ],
+    "cells_raw": [
+      "In Domain Wars, Angel Minion HP +2%<br>In Domain Wars, Angel Minion ATK +2%<br>In Domain Wars, Angel Minion DEF +2%<br>In Domain Wars, Angel Minion RUSH +2%",
+      "{{Retext|Dim Minerva Staff|purple}} + {{Retext|Ancient Staff|purple}} + {{Retext|Heaven Amulet|purple}} + {{Retext|Icy Bracelet|purple}}",
+      "orange|angel|Clean Minerva Staff}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0011",
+    "image_files": [],
+    "name_candidate": "In Domain Wars, Angel Minion HP +2% In Domain Wars, Angel Minion ATK +2% In Domain Wars, Angel Minion DEF +2% In Domain Wars, Angel Minion RUSH +2%",
+    "name_slug": "in_domain_wars_angel_minion_hp_2_in_domain_wars_angel_minion_atk_2_in_domain_wars_angel_minion_def_2_in_domain_wars_angel_minion_rush_2",
+    "numeric_cells": [
+      "In Domain Wars, Angel Minion HP +2% In Domain Wars, Angel Minion ATK +2% In Domain Wars, Angel Minion DEF +2% In Domain Wars, Angel Minion RUSH +2%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Species Wars, Angel Minion HP +2% In Species Wars, Angel Minion ATK +2% In Species Wars, Angel Minion DEF +2% In Species Wars, Angel Minion RUSH +2%",
+      "Lotto #2|orange|angel}}"
+    ],
+    "cells_raw": [
+      "In Species Wars, Angel Minion HP +2%<br>In Species Wars, Angel Minion ATK +2%<br>In Species Wars, Angel Minion DEF +2%<br>In Species Wars, Angel Minion RUSH +2%",
+      "Lotto #2|orange|angel}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0012",
+    "image_files": [],
+    "name_candidate": "In Species Wars, Angel Minion HP +2% In Species Wars, Angel Minion ATK +2% In Species Wars, Angel Minion DEF +2% In Species Wars, Angel Minion RUSH +2%",
+    "name_slug": "in_species_wars_angel_minion_hp_2_in_species_wars_angel_minion_atk_2_in_species_wars_angel_minion_def_2_in_species_wars_angel_minion_rush_2",
+    "numeric_cells": [
+      "In Species Wars, Angel Minion HP +2% In Species Wars, Angel Minion ATK +2% In Species Wars, Angel Minion DEF +2% In Species Wars, Angel Minion RUSH +2%",
+      "Lotto #2|orange|angel}}"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Species War, AFFCT Checks -240 In Species War, Troop ELMT RES +1.6% In Species War, Troop HP REGEN + 480 In Species War, Troop Healing +2.4%",
+      "Training Value Pack|orange|demon}}"
+    ],
+    "cells_raw": [
+      "In Species War, AFFCT Checks -240<br>In Species War, Troop ELMT RES +1.6%<br>In Species War, Troop HP REGEN + 480<br>In Species War, Troop Healing +2.4%",
+      "Training Value Pack|orange|demon}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0013",
+    "image_files": [],
+    "name_candidate": "In Species War, AFFCT Checks -240 In Species War, Troop ELMT RES +1.6% In Species War, Troop HP REGEN + 480 In Species War, Troop Healing +2.4%",
+    "name_slug": "in_species_war_affct_checks_240_in_species_war_troop_elmt_res_1_6_in_species_war_troop_hp_regen_480_in_species_war_troop_healing_2_4",
+    "numeric_cells": [
+      "In Species War, AFFCT Checks -240 In Species War, Troop ELMT RES +1.6% In Species War, Troop HP REGEN + 480 In Species War, Troop Healing +2.4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Species War, AFFCT Checks -240 In Species War, Troop ELMT RES + 1.6% In Species War, Troop HP REGEN +480 In Species War, Troop Healing +2.4%",
+      "+ + +",
+      "orange|demon}}"
+    ],
+    "cells_raw": [
+      "In Species War, AFFCT Checks -240<br>In Species War, Troop ELMT RES + 1.6%<br>In Species War, Troop HP REGEN +480<br>In Species War, Troop Healing +2.4%",
+      "{{Retext|Icy Bracelet|purple}} + {{Retext|Heaven Amulet|purple}} + {{Retext|Raider Armor|purple}} + {{Retext|Commander Armor|purple}}",
+      "orange|demon}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0014",
+    "image_files": [],
+    "name_candidate": "In Species War, AFFCT Checks -240 In Species War, Troop ELMT RES + 1.6% In Species War, Troop HP REGEN +480 In Species War, Troop Healing +2.4%",
+    "name_slug": "in_species_war_affct_checks_240_in_species_war_troop_elmt_res_1_6_in_species_war_troop_hp_regen_480_in_species_war_troop_healing_2_4",
+    "numeric_cells": [
+      "In Species War, AFFCT Checks -240 In Species War, Troop ELMT RES + 1.6% In Species War, Troop HP REGEN +480 In Species War, Troop Healing +2.4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Minion Sims, all Minion RUSH +1.6% In Minion Sims, Extra Troop RUSH DMG +240 In Minion Sims, Round 1 Troop CRIT +4.8% In Minion Sims, Power Checks -2%",
+      "Minion Sim Value Pack|orange|mutant|Fang Necklace}}"
+    ],
+    "cells_raw": [
+      "In Minion Sims, all Minion RUSH +1.6%<br>In Minion Sims, Extra Troop RUSH DMG +240<br>In Minion Sims, Round 1 Troop CRIT +4.8%<br>In Minion Sims, Power Checks -2%",
+      "Minion Sim Value Pack|orange|mutant|Fang Necklace}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0015",
+    "image_files": [],
+    "name_candidate": "In Minion Sims, all Minion RUSH +1.6% In Minion Sims, Extra Troop RUSH DMG +240 In Minion Sims, Round 1 Troop CRIT +4.8% In Minion Sims, Power Checks -2%",
+    "name_slug": "in_minion_sims_all_minion_rush_1_6_in_minion_sims_extra_troop_rush_dmg_240_in_minion_sims_round_1_troop_crit_4_8_in_minion_sims_power_checks_2",
+    "numeric_cells": [
+      "In Minion Sims, all Minion RUSH +1.6% In Minion Sims, Extra Troop RUSH DMG +240 In Minion Sims, Round 1 Troop CRIT +4.8% In Minion Sims, Power Checks -2%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Minion Sims, all Minion RUSH +1.6% In Minion Sims, Extra Troop RUSH DMG +240 In Minion Sims, Round 1 Troop CRIT +4.8% In Minion Sims, Power Checks -2%",
+      "Minion Sim Value Pack|orange|mutant}}"
+    ],
+    "cells_raw": [
+      "In Minion Sims, all Minion RUSH +1.6%<br>In Minion Sims, Extra Troop RUSH DMG +240<br>In Minion Sims, Round 1 Troop CRIT +4.8%<br>In Minion Sims, Power Checks -2%",
+      "Minion Sim Value Pack|orange|mutant}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0016",
+    "image_files": [],
+    "name_candidate": "In Minion Sims, all Minion RUSH +1.6% In Minion Sims, Extra Troop RUSH DMG +240 In Minion Sims, Round 1 Troop CRIT +4.8% In Minion Sims, Power Checks -2%",
+    "name_slug": "in_minion_sims_all_minion_rush_1_6_in_minion_sims_extra_troop_rush_dmg_240_in_minion_sims_round_1_troop_crit_4_8_in_minion_sims_power_checks_2",
+    "numeric_cells": [
+      "In Minion Sims, all Minion RUSH +1.6% In Minion Sims, Extra Troop RUSH DMG +240 In Minion Sims, Round 1 Troop CRIT +4.8% In Minion Sims, Power Checks -2%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Minion Sims, B-tads from victories +40 Tadpoles Cap: 2,400,000",
+      "Reward of defeating Wildhammer|orange|mecha}}"
+    ],
+    "cells_raw": [
+      "In Minion Sims, B-tads from victories +40<br>Tadpoles Cap: 2,400,000",
+      "Reward of defeating Wildhammer|orange|mecha}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0017",
+    "image_files": [],
+    "name_candidate": "In Minion Sims, B-tads from victories +40 Tadpoles Cap: 2,400,000",
+    "name_slug": "in_minion_sims_b_tads_from_victories_40_tadpoles_cap_2_400_000",
+    "numeric_cells": [
+      "In Minion Sims, B-tads from victories +40 Tadpoles Cap: 2,400,000"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Minion Sim victories may drop +8 W-tads Tadpoles Cap: 80,000",
+      "Reward of defeating Firebat|orange|mecha}}"
+    ],
+    "cells_raw": [
+      "Minion Sim victories may drop +8 W-tads<br>Tadpoles Cap: 80,000",
+      "Reward of defeating Firebat|orange|mecha}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0018",
+    "image_files": [],
+    "name_candidate": "Minion Sim victories may drop +8 W-tads Tadpoles Cap: 80,000",
+    "name_slug": "minion_sim_victories_may_drop_8_w_tads_tadpoles_cap_80_000",
+    "numeric_cells": [
+      "Minion Sim victories may drop +8 W-tads Tadpoles Cap: 80,000"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Minion Sims, all Minion DEF +1.6% In Minion Sims, Troop DMG REDUC +2.4% In Minion Sims, Troop HP Regen +480 In Minion Sims, Troop Healing +4%",
+      "+ + +",
+      "orange|angel}}"
+    ],
+    "cells_raw": [
+      "In Minion Sims, all Minion DEF +1.6%<br>In Minion Sims, Troop DMG REDUC +2.4%<br>In Minion Sims, Troop HP Regen +480<br>In Minion Sims, Troop Healing +4%",
+      "{{Retext|Reincarnation Shield|purple}} + {{Retext|Trumpet Shell|purple}} + {{Retext|Heaven Amulet|purple}} + {{Retext|Icy Bracelet|purple}}",
+      "orange|angel}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0019",
+    "image_files": [],
+    "name_candidate": "In Minion Sims, all Minion DEF +1.6% In Minion Sims, Troop DMG REDUC +2.4% In Minion Sims, Troop HP Regen +480 In Minion Sims, Troop Healing +4%",
+    "name_slug": "in_minion_sims_all_minion_def_1_6_in_minion_sims_troop_dmg_reduc_2_4_in_minion_sims_troop_hp_regen_480_in_minion_sims_troop_healing_4",
+    "numeric_cells": [
+      "In Minion Sims, all Minion DEF +1.6% In Minion Sims, Troop DMG REDUC +2.4% In Minion Sims, Troop HP Regen +480 In Minion Sims, Troop Healing +4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Minion Sims, all Minion DEF +1.6% In Minion Sims, Troop DMG REDUC +2.4% In Minion Sims, Troop HP Regen +480 In Minion Sims, Troop Healing +4%",
+      "Purchase in Sim Shop|orange|angel}}"
+    ],
+    "cells_raw": [
+      "In Minion Sims, all Minion DEF +1.6%<br>In Minion Sims, Troop DMG REDUC +2.4%<br>In Minion Sims, Troop HP Regen +480<br>In Minion Sims, Troop Healing +4%",
+      "Purchase in Sim Shop|orange|angel}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0020",
+    "image_files": [],
+    "name_candidate": "In Minion Sims, all Minion DEF +1.6% In Minion Sims, Troop DMG REDUC +2.4% In Minion Sims, Troop HP Regen +480 In Minion Sims, Troop Healing +4%",
+    "name_slug": "in_minion_sims_all_minion_def_1_6_in_minion_sims_troop_dmg_reduc_2_4_in_minion_sims_troop_hp_regen_480_in_minion_sims_troop_healing_4",
+    "numeric_cells": [
+      "In Minion Sims, all Minion DEF +1.6% In Minion Sims, Troop DMG REDUC +2.4% In Minion Sims, Troop HP Regen +480 In Minion Sims, Troop Healing +4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Species War, Troop Earth DMG +2.4% In Species War, Troop Water DMG +2.4% In Species War, Troop Fire DMG +2.4% In Species War, Wind Earth DMG +2.4%",
+      "+ + +",
+      "orange|zombie}}"
+    ],
+    "cells_raw": [
+      "In Species War, Troop Earth DMG +2.4%<br>In Species War, Troop Water DMG +2.4%<br>In Species War, Troop Fire DMG +2.4%<br>In Species War, Wind Earth DMG +2.4%",
+      "{{Retext|Bird Hunting Slingshot|purple}} + {{Retext|Quarterback Chest Protector|purple}} + {{Retext|Heaven Amulet|purple}} + {{Retext|Icy Bracelet|purple}}",
+      "orange|zombie}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0021",
+    "image_files": [],
+    "name_candidate": "In Species War, Troop Earth DMG +2.4% In Species War, Troop Water DMG +2.4% In Species War, Troop Fire DMG +2.4% In Species War, Wind Earth DMG +2.4%",
+    "name_slug": "in_species_war_troop_earth_dmg_2_4_in_species_war_troop_water_dmg_2_4_in_species_war_troop_fire_dmg_2_4_in_species_war_wind_earth_dmg_2_4",
+    "numeric_cells": [
+      "In Species War, Troop Earth DMG +2.4% In Species War, Troop Water DMG +2.4% In Species War, Troop Fire DMG +2.4% In Species War, Wind Earth DMG +2.4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "In Species War, Troop Earth DMG +2.4% In Species War, Troop Water DMG +2.4% In Species War, Troop Fire DMG +2.4% In Species War, Troop Wind DMG +2.4%",
+      "Obtained by feeding Maneater|orange|zombie}}"
+    ],
+    "cells_raw": [
+      "In Species War, Troop Earth DMG +2.4%<br>In Species War, Troop Water DMG +2.4%<br>In Species War, Troop Fire DMG +2.4%<br>In Species War, Troop Wind DMG +2.4%",
+      "Obtained by feeding [[Maneater]]|orange|zombie}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0022",
+    "image_files": [],
+    "name_candidate": "Maneater",
+    "name_slug": "maneater",
+    "numeric_cells": [
+      "In Species War, Troop Earth DMG +2.4% In Species War, Troop Water DMG +2.4% In Species War, Troop Fire DMG +2.4% In Species War, Troop Wind DMG +2.4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": [
+      "Maneater"
+    ]
+  },
+  {
+    "cells_clean": [
+      "In Species War, Troop CRIT +2% In Species War, Troop DMG to Heroes +1.6% In Species War, Troop DMG against soldiers +1.6% In Species War, Round 1 Troop DMG +4%",
+      "Reward of defeating Fortress Ship|orange|mecha}}"
+    ],
+    "cells_raw": [
+      "In Species War, Troop CRIT +2%<br>In Species War, Troop DMG to Heroes +1.6%<br>In Species War, Troop DMG against soldiers +1.6%<br>In Species War, Round 1 Troop DMG +4%",
+      "Reward of defeating [[Incense#Shooting the Sky|Fortress Ship]]|orange|mecha}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0023",
+    "image_files": [],
+    "name_candidate": "Fortress Ship",
+    "name_slug": "fortress_ship",
+    "numeric_cells": [
+      "In Species War, Troop CRIT +2% In Species War, Troop DMG to Heroes +1.6% In Species War, Troop DMG against soldiers +1.6% In Species War, Round 1 Troop DMG +4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 36,
+    "wiki_links": [
+      "Fortress Ship"
+    ]
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +5 Mutant Minion HP +4% Mutant Minion ATK +4% Mutant Minion DEF +4% Mutant Minion RUSH +4%",
+      "+ + +",
+      "red|mutant}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +5<br>Mutant Minion HP +4%<br>Mutant Minion ATK +4%<br>Mutant Minion DEF +4%<br>Mutant Minion RUSH +4%",
+      "{{Retext|Perfect Pawson Claw|orange}} + {{Retext|Chimera|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Abyss Wings|orange}}",
+      "red|mutant}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0024",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +5 Mutant Minion HP +4% Mutant Minion ATK +4% Mutant Minion DEF +4% Mutant Minion RUSH +4%",
+    "name_slug": "snail_leadership_5_mutant_minion_hp_4_mutant_minion_atk_4_mutant_minion_def_4_mutant_minion_rush_4",
+    "numeric_cells": [
+      "Snail Leadership +5 Mutant Minion HP +4% Mutant Minion ATK +4% Mutant Minion DEF +4% Mutant Minion RUSH +4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 37,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +5 Demon Minion HP +4% Demon Minion ATK +4% Demon Minion DEF +4% Demon Minion RUSH +4%",
+      "+ + +",
+      "red|demon}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +5<br>Demon Minion HP +4%<br>Demon Minion ATK +4%<br>Demon Minion DEF +4%<br>Demon Minion RUSH +4%",
+      "{{Retext|Perfect Bladden Sword|orange}} + {{Retext|Crimson Queen|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Abyss Wings|orange}}",
+      "red|demon}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0025",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +5 Demon Minion HP +4% Demon Minion ATK +4% Demon Minion DEF +4% Demon Minion RUSH +4%",
+    "name_slug": "snail_leadership_5_demon_minion_hp_4_demon_minion_atk_4_demon_minion_def_4_demon_minion_rush_4",
+    "numeric_cells": [
+      "Snail Leadership +5 Demon Minion HP +4% Demon Minion ATK +4% Demon Minion DEF +4% Demon Minion RUSH +4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 37,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +5 Dragon Minion HP +4% Dragon Minion ATK +4% Dragon Minion DEF +4% Dragon Minion RUSH +4%",
+      "+ + +",
+      "red|dragon}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +5<br>Dragon Minion HP +4%<br>Dragon Minion ATK +4%<br>Dragon Minion DEF +4%<br>Dragon Minion RUSH +4%",
+      "{{Retext|Perfect Jaden Spear|orange}} + {{Retext|Immortal Glory|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}",
+      "red|dragon}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0026",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +5 Dragon Minion HP +4% Dragon Minion ATK +4% Dragon Minion DEF +4% Dragon Minion RUSH +4%",
+    "name_slug": "snail_leadership_5_dragon_minion_hp_4_dragon_minion_atk_4_dragon_minion_def_4_dragon_minion_rush_4",
+    "numeric_cells": [
+      "Snail Leadership +5 Dragon Minion HP +4% Dragon Minion ATK +4% Dragon Minion DEF +4% Dragon Minion RUSH +4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 37,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +5 Mecha Minion HP +4% Mecha Minion ATK +4% Mecha Minion DEF +4% Mecha Minion RUSH +4%",
+      "+ + +",
+      "red|mecha}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +5<br>Mecha Minion HP +4%<br>Mecha Minion ATK +4%<br>Mecha Minion DEF +4%<br>Mecha Minion RUSH +4%",
+      "{{Retext|Perfect Racky Cannon|orange}} + {{Retext|Light|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}",
+      "red|mecha}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0027",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +5 Mecha Minion HP +4% Mecha Minion ATK +4% Mecha Minion DEF +4% Mecha Minion RUSH +4%",
+    "name_slug": "snail_leadership_5_mecha_minion_hp_4_mecha_minion_atk_4_mecha_minion_def_4_mecha_minion_rush_4",
+    "numeric_cells": [
+      "Snail Leadership +5 Mecha Minion HP +4% Mecha Minion ATK +4% Mecha Minion DEF +4% Mecha Minion RUSH +4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 37,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +5 Zombie Minion HP +4% Zombie Minion ATK +4% Zombie Minion DEF +4% Zombie Minion RUSH +4%",
+      "+ + +",
+      "red|zombie}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +5<br>Zombie Minion HP +4%<br>Zombie Minion ATK +4%<br>Zombie Minion DEF +4%<br>Zombie Minion RUSH +4%",
+      "{{Retext|Perfect Nethrone Coffin|orange}} + {{Retext|Soul Prison|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Abyss Wings|orange}}",
+      "red|zombie}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0028",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +5 Zombie Minion HP +4% Zombie Minion ATK +4% Zombie Minion DEF +4% Zombie Minion RUSH +4%",
+    "name_slug": "snail_leadership_5_zombie_minion_hp_4_zombie_minion_atk_4_zombie_minion_def_4_zombie_minion_rush_4",
+    "numeric_cells": [
+      "Snail Leadership +5 Zombie Minion HP +4% Zombie Minion ATK +4% Zombie Minion DEF +4% Zombie Minion RUSH +4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 37,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +5 Angel Minion HP +4% Angel Minion ATK +4% Angel Minion DEF +4% Angel Minion RUSH +4%",
+      "+ + +",
+      "red|angel}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +5<br>Angel Minion HP +4%<br>Angel Minion ATK +4%<br>Angel Minion DEF +4%<br>Angel Minion RUSH +4%",
+      "{{Retext|Perfect Minerva Staff|orange}} + {{Retext|Shine|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}",
+      "red|angel}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0029",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +5 Angel Minion HP +4% Angel Minion ATK +4% Angel Minion DEF +4% Angel Minion RUSH +4%",
+    "name_slug": "snail_leadership_5_angel_minion_hp_4_angel_minion_atk_4_angel_minion_def_4_angel_minion_rush_4",
+    "numeric_cells": [
+      "Snail Leadership +5 Angel Minion HP +4% Angel Minion ATK +4% Angel Minion DEF +4% Angel Minion RUSH +4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 37,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Leadership +5 In Species War, Troop HP REGEN +960 In Species War, Troop Healing +4.8% In Species War, AFFCT checks -480 In Species War, Troop ELMT RES +3.2%",
+      "+ + +",
+      "red|demon}}"
+    ],
+    "cells_raw": [
+      "Leadership +5<br>In Species War, Troop HP REGEN +960<br>In Species War, Troop Healing +4.8%<br>In Species War, AFFCT checks -480<br>In Species War, Troop ELMT RES +3.2%",
+      "{{Retext|Drive Core|orange}} + {{Retext|HULC 01|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}",
+      "red|demon}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0030",
+    "image_files": [],
+    "name_candidate": "Leadership +5 In Species War, Troop HP REGEN +960 In Species War, Troop Healing +4.8% In Species War, AFFCT checks -480 In Species War, Troop ELMT RES +3.2%",
+    "name_slug": "leadership_5_in_species_war_troop_hp_regen_960_in_species_war_troop_healing_4_8_in_species_war_affct_checks_480_in_species_war_troop_elmt_res_3_2",
+    "numeric_cells": [
+      "Leadership +5 In Species War, Troop HP REGEN +960 In Species War, Troop Healing +4.8% In Species War, AFFCT checks -480 In Species War, Troop ELMT RES +3.2%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 37,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Leadership +5 In Minion Sims, all Minion RUSH +3.2% In Minion Sims, Extra Troop RUSH DMG +480 In Minion Sims, First Round CRIT +9.6% In Minion Sims, Power Checks -4%",
+      "+ + +",
+      "red|mutant}}"
+    ],
+    "cells_raw": [
+      "Leadership +5<br>In Minion Sims, all Minion RUSH +3.2%<br>In Minion Sims, Extra Troop RUSH DMG +480<br>In Minion Sims, First Round CRIT +9.6%<br>In Minion Sims, Power Checks -4%",
+      "{{Retext|Fang Necklace|orange}} + {{Retext|Bloody Dance|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}",
+      "red|mutant}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0031",
+    "image_files": [],
+    "name_candidate": "Leadership +5 In Minion Sims, all Minion RUSH +3.2% In Minion Sims, Extra Troop RUSH DMG +480 In Minion Sims, First Round CRIT +9.6% In Minion Sims, Power Checks -4%",
+    "name_slug": "leadership_5_in_minion_sims_all_minion_rush_3_2_in_minion_sims_extra_troop_rush_dmg_480_in_minion_sims_first_round_crit_9_6_in_minion_sims_power_checks_4",
+    "numeric_cells": [
+      "Leadership +5 In Minion Sims, all Minion RUSH +3.2% In Minion Sims, Extra Troop RUSH DMG +480 In Minion Sims, First Round CRIT +9.6% In Minion Sims, Power Checks -4%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 37,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +5 In Minion Sims, B-tads from victories +80 Tadpoles Cap: 2,800,000 Minion Sim victories may drop +16 W-tads Tadpoles Cap: 100,000",
+      "+ +",
+      "red|mecha}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +5<br>In Minion Sims, B-tads from victories +80<br>Tadpoles Cap: 2,800,000<br>Minion Sim victories may drop +16 W-tads<br>Tadpoles Cap: 100,000",
+      "{{Retext|Wildhammer|orange}} + {{Retext|Firebat Flamethrower|orange}} + {{Retext|Blasphemy Eye|orange}}",
+      "red|mecha}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0032",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +5 In Minion Sims, B-tads from victories +80 Tadpoles Cap: 2,800,000 Minion Sim victories may drop +16 W-tads Tadpoles Cap: 100,000",
+    "name_slug": "snail_leadership_5_in_minion_sims_b_tads_from_victories_80_tadpoles_cap_2_800_000_minion_sim_victories_may_drop_16_w_tads_tadpoles_cap_100_000",
+    "numeric_cells": [
+      "Snail Leadership +5 In Minion Sims, B-tads from victories +80 Tadpoles Cap: 2,800,000 Minion Sim victories may drop +16 W-tads Tadpoles Cap: 100,000"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 37,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +5 In Minion Sims, all Minion DEF +3.2% In Minion Sims, Troop DMG REDUC +4.8% In Minion Sims, Troop HP Regen +960 In Minion Sims, Troop Healing +8%",
+      "+ + +",
+      "red|angel}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +5<br>In Minion Sims, all Minion DEF +3.2%<br>In Minion Sims, Troop DMG REDUC +4.8%<br>In Minion Sims, Troop HP Regen +960<br>In Minion Sims, Troop Healing +8%",
+      "{{Retext|Blessing of Vishnu|orange}} + {{Retext|Sanskrit Tablet|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}",
+      "red|angel}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0033",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +5 In Minion Sims, all Minion DEF +3.2% In Minion Sims, Troop DMG REDUC +4.8% In Minion Sims, Troop HP Regen +960 In Minion Sims, Troop Healing +8%",
+    "name_slug": "snail_leadership_5_in_minion_sims_all_minion_def_3_2_in_minion_sims_troop_dmg_reduc_4_8_in_minion_sims_troop_hp_regen_960_in_minion_sims_troop_healing_8",
+    "numeric_cells": [
+      "Snail Leadership +5 In Minion Sims, all Minion DEF +3.2% In Minion Sims, Troop DMG REDUC +4.8% In Minion Sims, Troop HP Regen +960 In Minion Sims, Troop Healing +8%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 37,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +5 In Species War, Troop Earth DMG +4.8% In Species War, Troop Water DMG +4.8% In Species War, Troop Fire DMG +4.8% In Species War, Troop Wind DMG +4.8%",
+      "+ + +",
+      "red|zombie}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +5<br>In Species War, Troop Earth DMG +4.8%<br>In Species War, Troop Water DMG +4.8%<br>In Species War, Troop Fire DMG +4.8%<br>In Species War, Troop Wind DMG +4.8%",
+      "{{Retext|Stone Base|orange}} + {{Retext|Frightening Doll Chest|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}",
+      "red|zombie}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0034",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +5 In Species War, Troop Earth DMG +4.8% In Species War, Troop Water DMG +4.8% In Species War, Troop Fire DMG +4.8% In Species War, Troop Wind DMG +4.8%",
+    "name_slug": "snail_leadership_5_in_species_war_troop_earth_dmg_4_8_in_species_war_troop_water_dmg_4_8_in_species_war_troop_fire_dmg_4_8_in_species_war_troop_wind_dmg_4_8",
+    "numeric_cells": [
+      "Snail Leadership +5 In Species War, Troop Earth DMG +4.8% In Species War, Troop Water DMG +4.8% In Species War, Troop Fire DMG +4.8% In Species War, Troop Wind DMG +4.8%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 37,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +5 In Species War, Troop CRIT +4% In Species War, Troop DMG to Heroes +3.2% In Species War, Troop DMG against soldiers +3.2% In Species War, Round 1 Troop DMG +8%",
+      "+ +",
+      "red|mecha}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +5<br>In Species War, Troop CRIT +4%<br>In Species War, Troop DMG to Heroes +3.2%<br>In Species War, Troop DMG against soldiers +3.2%<br>In Species War, Round 1 Troop DMG +8%",
+      "{{Retext|Military Helmet|orange}} + {{Retext|Blasphemy Eye|orange}} + {{Retext|Heaven Wings|orange}}",
+      "red|mecha}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0035",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +5 In Species War, Troop CRIT +4% In Species War, Troop DMG to Heroes +3.2% In Species War, Troop DMG against soldiers +3.2% In Species War, Round 1 Troop DMG +8%",
+    "name_slug": "snail_leadership_5_in_species_war_troop_crit_4_in_species_war_troop_dmg_to_heroes_3_2_in_species_war_troop_dmg_against_soldiers_3_2_in_species_war_round_1_troop_dmg_8",
+    "numeric_cells": [
+      "Snail Leadership +5 In Species War, Troop CRIT +4% In Species War, Troop DMG to Heroes +3.2% In Species War, Troop DMG against soldiers +3.2% In Species War, Round 1 Troop DMG +8%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 37,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +10 Mutant Minion HP +6% Mutant Minion ATK +6% Mutant Minion DEF +6% Mutant Minion RUSH +6%",
+      "+",
+      "red|mutant|Legendary Pawson Claw}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +10<br>Mutant Minion HP +6%<br>Mutant Minion ATK +6%<br>Mutant Minion DEF +6%<br>Mutant Minion RUSH +6%",
+      "{{Retext|Legendary Pawson Claw|red}} + {{Retext|Demon God Amulet|red}}",
+      "red|mutant|Legendary Pawson Claw}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0036",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +10 Mutant Minion HP +6% Mutant Minion ATK +6% Mutant Minion DEF +6% Mutant Minion RUSH +6%",
+    "name_slug": "snail_leadership_10_mutant_minion_hp_6_mutant_minion_atk_6_mutant_minion_def_6_mutant_minion_rush_6",
+    "numeric_cells": [
+      "Snail Leadership +10 Mutant Minion HP +6% Mutant Minion ATK +6% Mutant Minion DEF +6% Mutant Minion RUSH +6%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 38,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +10 Demon Minion HP +6% Demon Minion ATK +6% Demon Minion DEF +6% Demon Minion RUSH +6%",
+      "+",
+      "red|demon|Legendary Bladden Sword}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +10<br>Demon Minion HP +6%<br>Demon Minion ATK +6%<br>Demon Minion DEF +6%<br>Demon Minion RUSH +6%",
+      "{{Retext|Legendary Bladden Sword|red}} + {{Retext|Demon God Amulet|red}}",
+      "red|demon|Legendary Bladden Sword}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0037",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +10 Demon Minion HP +6% Demon Minion ATK +6% Demon Minion DEF +6% Demon Minion RUSH +6%",
+    "name_slug": "snail_leadership_10_demon_minion_hp_6_demon_minion_atk_6_demon_minion_def_6_demon_minion_rush_6",
+    "numeric_cells": [
+      "Snail Leadership +10 Demon Minion HP +6% Demon Minion ATK +6% Demon Minion DEF +6% Demon Minion RUSH +6%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 38,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +10 Dragon Minion HP +6% Dragon Minion ATK +6% Dragon Minion DEF +6% Dragon Minion RUSH +6%",
+      "+",
+      "red|dragon|Legendary Jaden Spear}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +10<br>Dragon Minion HP +6%<br>Dragon Minion ATK +6%<br>Dragon Minion DEF +6%<br>Dragon Minion RUSH +6%",
+      "{{Retext|Legendary Jaden Spear|red}} + {{Retext|Demon God Amulet|red}}",
+      "red|dragon|Legendary Jaden Spear}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0038",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +10 Dragon Minion HP +6% Dragon Minion ATK +6% Dragon Minion DEF +6% Dragon Minion RUSH +6%",
+    "name_slug": "snail_leadership_10_dragon_minion_hp_6_dragon_minion_atk_6_dragon_minion_def_6_dragon_minion_rush_6",
+    "numeric_cells": [
+      "Snail Leadership +10 Dragon Minion HP +6% Dragon Minion ATK +6% Dragon Minion DEF +6% Dragon Minion RUSH +6%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 38,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +10 Mecha Minion HP +6% Mecha Minion ATK +6% Mecha Minion DEF +6% Mecha Minion RUSH +6%",
+      "+",
+      "red|mecha|Legendary Racky Cannon}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +10<br>Mecha Minion HP +6%<br>Mecha Minion ATK +6%<br>Mecha Minion DEF +6%<br>Mecha Minion RUSH +6%",
+      "{{Retext|Legendary Racky Cannon|red}} + {{Retext|Demon God Amulet|red}}",
+      "red|mecha|Legendary Racky Cannon}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0039",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +10 Mecha Minion HP +6% Mecha Minion ATK +6% Mecha Minion DEF +6% Mecha Minion RUSH +6%",
+    "name_slug": "snail_leadership_10_mecha_minion_hp_6_mecha_minion_atk_6_mecha_minion_def_6_mecha_minion_rush_6",
+    "numeric_cells": [
+      "Snail Leadership +10 Mecha Minion HP +6% Mecha Minion ATK +6% Mecha Minion DEF +6% Mecha Minion RUSH +6%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 38,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +10 Zombie Minion HP +6% Zombie Minion ATK +6% Zombie Minion DEF +6% Zombie Minion RUSH +6%",
+      "+",
+      "red|zombie|Legendary Nethrone Coffin}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +10<br>Zombie Minion HP +6%<br>Zombie Minion ATK +6%<br>Zombie Minion DEF +6%<br>Zombie Minion RUSH +6%",
+      "{{Retext|Legendary Nethrone Coffin|red}} + {{Retext|Demon God Amulet|red}}",
+      "red|zombie|Legendary Nethrone Coffin}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0040",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +10 Zombie Minion HP +6% Zombie Minion ATK +6% Zombie Minion DEF +6% Zombie Minion RUSH +6%",
+    "name_slug": "snail_leadership_10_zombie_minion_hp_6_zombie_minion_atk_6_zombie_minion_def_6_zombie_minion_rush_6",
+    "numeric_cells": [
+      "Snail Leadership +10 Zombie Minion HP +6% Zombie Minion ATK +6% Zombie Minion DEF +6% Zombie Minion RUSH +6%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 38,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +10 Angel Minion HP +6% Angel Minion ATK +6% Angel Minion DEF +6% Angel Minion RUSH +6%",
+      "+",
+      "red|angel|Legendary Minerva Staff}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +10<br>Angel Minion HP +6%<br>Angel Minion ATK +6%<br>Angel Minion DEF +6%<br>Angel Minion RUSH +6%",
+      "{{Retext|Legendary Minerva Staff|red}} + {{Retext|Demon God Amulet|red}}",
+      "red|angel|Legendary Minerva Staff}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0041",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +10 Angel Minion HP +6% Angel Minion ATK +6% Angel Minion DEF +6% Angel Minion RUSH +6%",
+    "name_slug": "snail_leadership_10_angel_minion_hp_6_angel_minion_atk_6_angel_minion_def_6_angel_minion_rush_6",
+    "numeric_cells": [
+      "Snail Leadership +10 Angel Minion HP +6% Angel Minion ATK +6% Angel Minion DEF +6% Angel Minion RUSH +6%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 38,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +10 In Species War, Troop HP REGEN +1440 In Species War, Troop Healing +7.2% In Species War, AFFCT Checks -720 In Species War, Troop ELMT RES +4.8%",
+      "+",
+      "red|demon|HULC MKII}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +10<br>In Species War, Troop HP REGEN +1440<br>In Species War, Troop Healing +7.2%<br>In Species War, AFFCT Checks -720<br>In Species War, Troop ELMT RES +4.8%",
+      "{{Retext|HULC MKII|red}} + {{Retext|Demon God Amulet|red}}",
+      "red|demon|HULC MKII}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0042",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +10 In Species War, Troop HP REGEN +1440 In Species War, Troop Healing +7.2% In Species War, AFFCT Checks -720 In Species War, Troop ELMT RES +4.8%",
+    "name_slug": "snail_leadership_10_in_species_war_troop_hp_regen_1440_in_species_war_troop_healing_7_2_in_species_war_affct_checks_720_in_species_war_troop_elmt_res_4_8",
+    "numeric_cells": [
+      "Snail Leadership +10 In Species War, Troop HP REGEN +1440 In Species War, Troop Healing +7.2% In Species War, AFFCT Checks -720 In Species War, Troop ELMT RES +4.8%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 38,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +10 In Minion Sims, all Minion RUSH +4.8% In Minion Sims, Extra Troop RUSH DMG +720 In Minion Sims, Round 1 Troop CRIT + 14.4% In Minion Sims, Power Checks -6%",
+      "+",
+      "red|mutant|Trace of Lilith}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +10<br>In Minion Sims, all Minion RUSH +4.8%<br>In Minion Sims, Extra Troop RUSH DMG +720<br>In Minion Sims, Round 1 Troop CRIT + 14.4%<br>In Minion Sims, Power Checks -6%",
+      "{{Retext|Trace of Lilith|red}} + {{Retext|Demon God Amulet|red}}",
+      "red|mutant|Trace of Lilith}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0043",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +10 In Minion Sims, all Minion RUSH +4.8% In Minion Sims, Extra Troop RUSH DMG +720 In Minion Sims, Round 1 Troop CRIT + 14.4% In Minion Sims, Power Checks -6%",
+    "name_slug": "snail_leadership_10_in_minion_sims_all_minion_rush_4_8_in_minion_sims_extra_troop_rush_dmg_720_in_minion_sims_round_1_troop_crit_14_4_in_minion_sims_power_checks_6",
+    "numeric_cells": [
+      "Snail Leadership +10 In Minion Sims, all Minion RUSH +4.8% In Minion Sims, Extra Troop RUSH DMG +720 In Minion Sims, Round 1 Troop CRIT + 14.4% In Minion Sims, Power Checks -6%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 38,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +10 In Minion Sims, B-tads from victories +120 Tadpoles Cap: 3,200,000 Minion Sim victories may drop +24 W-tads Tadpoles Cap: 120,000",
+      "+",
+      "red|mecha|Thermohammer}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +10<br>In Minion Sims, B-tads from victories +120<br>Tadpoles Cap: 3,200,000<br>Minion Sim victories may drop +24 W-tads<br>Tadpoles Cap: 120,000",
+      "{{Retext|Thermohammer|red}} + {{Retext|Demon God Amulet|red}}",
+      "red|mecha|Thermohammer}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0044",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +10 In Minion Sims, B-tads from victories +120 Tadpoles Cap: 3,200,000 Minion Sim victories may drop +24 W-tads Tadpoles Cap: 120,000",
+    "name_slug": "snail_leadership_10_in_minion_sims_b_tads_from_victories_120_tadpoles_cap_3_200_000_minion_sim_victories_may_drop_24_w_tads_tadpoles_cap_120_000",
+    "numeric_cells": [
+      "Snail Leadership +10 In Minion Sims, B-tads from victories +120 Tadpoles Cap: 3,200,000 Minion Sim victories may drop +24 W-tads Tadpoles Cap: 120,000"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 38,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +10 In Minion Sims, all Minion DEF +4.8% In Minion Sims, Troop DMG REDUC +7.2% In Minion Sims, Troop HP Regen +1440 In Minion Sims, Troop Healing +12%",
+      "+",
+      "red|angel|The Six Paths}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +10<br>In Minion Sims, all Minion DEF +4.8%<br>In Minion Sims, Troop DMG REDUC +7.2%<br>In Minion Sims, Troop HP Regen +1440<br>In Minion Sims, Troop Healing +12%",
+      "{{Retext|The Six Paths|red}} + {{Retext|Demon God Amulet|red}}",
+      "red|angel|The Six Paths}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0045",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +10 In Minion Sims, all Minion DEF +4.8% In Minion Sims, Troop DMG REDUC +7.2% In Minion Sims, Troop HP Regen +1440 In Minion Sims, Troop Healing +12%",
+    "name_slug": "snail_leadership_10_in_minion_sims_all_minion_def_4_8_in_minion_sims_troop_dmg_reduc_7_2_in_minion_sims_troop_hp_regen_1440_in_minion_sims_troop_healing_12",
+    "numeric_cells": [
+      "Snail Leadership +10 In Minion Sims, all Minion DEF +4.8% In Minion Sims, Troop DMG REDUC +7.2% In Minion Sims, Troop HP Regen +1440 In Minion Sims, Troop Healing +12%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 38,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +10 In Species War, Troop Earth DMG +7.2% In Species War, Troop Water DMG +7.2% In Species War, Troop Fire DMG +7.2% In Species War, Troop Wind DMG +7.2%",
+      "+",
+      "red|zombie|Mind Control Helmet}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +10<br>In Species War, Troop Earth DMG +7.2%<br>In Species War, Troop Water DMG +7.2%<br>In Species War, Troop Fire DMG +7.2%<br>In Species War, Troop Wind DMG +7.2%",
+      "{{Retext|Mind Control Helmet|red}} + {{Retext|Demon God Amulet|red}}",
+      "red|zombie|Mind Control Helmet}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0046",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +10 In Species War, Troop Earth DMG +7.2% In Species War, Troop Water DMG +7.2% In Species War, Troop Fire DMG +7.2% In Species War, Troop Wind DMG +7.2%",
+    "name_slug": "snail_leadership_10_in_species_war_troop_earth_dmg_7_2_in_species_war_troop_water_dmg_7_2_in_species_war_troop_fire_dmg_7_2_in_species_war_troop_wind_dmg_7_2",
+    "numeric_cells": [
+      "Snail Leadership +10 In Species War, Troop Earth DMG +7.2% In Species War, Troop Water DMG +7.2% In Species War, Troop Fire DMG +7.2% In Species War, Troop Wind DMG +7.2%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 38,
+    "wiki_links": []
+  },
+  {
+    "cells_clean": [
+      "Snail Leadership +10 In Species War, Troop CRIT +6% In Species War, Troop DMG to Heroes +4.8% In Species War, Troop DMG against soldiers +4.8% In Species War, Round 1 Troop DMG +12%",
+      "+",
+      "red|mecha}}"
+    ],
+    "cells_raw": [
+      "Snail Leadership +10<br>In Species War, Troop CRIT +6%<br>In Species War, Troop DMG to Heroes +4.8%<br>In Species War, Troop DMG against soldiers +4.8%<br>In Species War, Round 1 Troop DMG +12%",
+      "{{Retext|Individual Combat System|red}} + {{Retext|Demon God Amulet|red}}",
+      "red|mecha}}"
+    ],
+    "created_at": "2026-05-06T15:56:50.294311+00:00",
+    "id": "gear_wiki_row_0047",
+    "image_files": [],
+    "name_candidate": "Snail Leadership +10 In Species War, Troop CRIT +6% In Species War, Troop DMG to Heroes +4.8% In Species War, Troop DMG against soldiers +4.8% In Species War, Round 1 Troop DMG +12%",
+    "name_slug": "snail_leadership_10_in_species_war_troop_crit_6_in_species_war_troop_dmg_to_heroes_4_8_in_species_war_troop_dmg_against_soldiers_4_8_in_species_war_round_1_troop_dmg_12",
+    "numeric_cells": [
+      "Snail Leadership +10 In Species War, Troop CRIT +6% In Species War, Troop DMG to Heroes +4.8% In Species War, Troop DMG against soldiers +4.8% In Species War, Round 1 Troop DMG +12%"
+    ],
+    "review_status": "wiki_table_row_candidate",
+    "section": "War Gear (Minion boosters)",
+    "source_file": "game/sources/wiki_gg/Gear.wiki",
+    "subsection": "War Gear (Minion boosters)",
+    "table_headers": [],
+    "table_index": 38,
+    "wiki_links": []
+  }
+]
