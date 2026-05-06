@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Redemption Code",
+  "description": "A redeemable code and its rewards",
+  "type": "object",
+  "required": ["id", "code", "rewards", "source", "discovered_at", "verified"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug"
+    },
+    "code": {
+      "type": "string",
+      "description": "The actual redemption code"
+    },
+    "rewards": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["item_id", "quantity", "description"],
+        "properties": {
+          "item_id":     { "type": "string" },
+          "quantity":    { "type": "integer" },
+          "description": { "type": "string" }
+        }
+      }
+    },
+    "source": {
+      "type": "string",
+      "description": "Where the code was found"
+    },
+    "discovered_at": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the code was discovered"
+    },
+    "expires_at": {
+      "type": ["string", "null"],
+      "format": "date",
+      "description": "Expiration date, if known"
+    },
+    "verified": {
+      "type": "boolean",
+      "description": "Whether the code has been verified to work"
+    },
+    "notes": {
+      "type": ["string", "null"]
+    }
+  }
+}

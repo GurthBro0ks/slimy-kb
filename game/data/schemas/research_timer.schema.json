@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Research Timer",
+  "description": "A research project in the research tree with duration and rewards",
+  "type": "object",
+  "required": ["id", "name", "category", "duration_hours"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name"
+    },
+    "category": {
+      "type": "string",
+      "description": "Research tree category"
+    },
+    "duration_hours": {
+      "type": "number",
+      "description": "Time required to complete the research"
+    },
+    "requirements": {
+      "type": "object",
+      "description": "Requirements to start this research",
+      "properties": {
+        "level": {
+          "type": "integer",
+          "description": "Required player level"
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["item_id", "quantity"],
+            "properties": {
+              "item_id":  { "type": "string" },
+              "quantity": { "type": "integer" }
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "type": "object",
+      "description": "Rewards granted upon completion (freeform key-value stat bonuses)"
+    },
+    "notes": {
+      "type": ["string", "null"]
+    }
+  }
+}

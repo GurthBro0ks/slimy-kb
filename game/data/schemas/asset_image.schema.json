@@ -1,0 +1,68 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Asset Image",
+  "description": "An image asset with metadata, provenance, and verification",
+  "type": "object",
+  "required": ["id", "category", "local_path", "hash_sha256", "width", "height", "mime_type", "retrieved_at"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug"
+    },
+    "category": {
+      "type": "string",
+      "enum": ["gear", "relic", "form", "item", "troop", "ui", "screenshot", "other"],
+      "description": "Asset category"
+    },
+    "entity_ref": {
+      "type": ["string", "null"],
+      "description": "ID of the entity this image represents"
+    },
+    "source_page": {
+      "type": ["string", "null"],
+      "description": "URL of the page where the image was found"
+    },
+    "original_url": {
+      "type": ["string", "null"],
+      "description": "Original remote URL"
+    },
+    "local_path": {
+      "type": "string",
+      "description": "Local file path"
+    },
+    "hash_sha256": {
+      "type": "string",
+      "description": "SHA-256 hash of the file"
+    },
+    "width": {
+      "type": "integer",
+      "description": "Image width in pixels"
+    },
+    "height": {
+      "type": "integer",
+      "description": "Image height in pixels"
+    },
+    "mime_type": {
+      "type": "string",
+      "description": "MIME type"
+    },
+    "license_note": {
+      "type": ["string", "null"],
+      "description": "Licensing information"
+    },
+    "attribution_note": {
+      "type": ["string", "null"],
+      "description": "Attribution information"
+    },
+    "retrieved_at": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the asset was retrieved"
+    },
+    "last_verified": {
+      "type": ["string", "null"],
+      "format": "date",
+      "description": "Last verification date"
+    }
+  }
+}

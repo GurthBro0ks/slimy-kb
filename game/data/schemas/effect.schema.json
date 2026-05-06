@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Effect",
+  "description": "A buff, debuff, passive, active, or set bonus effect",
+  "type": "object",
+  "required": ["id", "name", "description", "type"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name"
+    },
+    "description": {
+      "type": "string",
+      "description": "Effect description"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["buff", "debuff", "passive", "active", "set_bonus"],
+      "description": "Effect type"
+    },
+    "stat_modifiers": {
+      "type": "object",
+      "description": "Freeform key-value stat modifiers"
+    },
+    "duration": {
+      "type": ["string", "null"],
+      "description": "Effect duration"
+    },
+    "source_entities": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "IDs of gear, relics, or forms that grant this effect"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

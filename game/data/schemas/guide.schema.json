@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Guide",
+  "description": "A player guide or tutorial article",
+  "type": "object",
+  "required": ["id", "title", "category", "content_path", "created_at", "updated_at"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug"
+    },
+    "title": {
+      "type": "string",
+      "description": "Guide title"
+    },
+    "category": {
+      "type": "string",
+      "description": "Guide category, matching a guides subdirectory"
+    },
+    "author": {
+      "type": "string",
+      "description": "Author name"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date",
+      "description": "Creation date"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date",
+      "description": "Last update date"
+    },
+    "summary": {
+      "type": "string",
+      "description": "Short summary"
+    },
+    "content_path": {
+      "type": "string",
+      "description": "Relative path to the markdown content file"
+    },
+    "related_entities": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "IDs of gear, relics, forms, etc. referenced in this guide"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

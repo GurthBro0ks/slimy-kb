@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Entity Index",
+  "description": "An index entry for fast lookup of any entity across the database",
+  "type": "object",
+  "required": ["id", "entity_type", "name", "schema_ref", "data_file"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug"
+    },
+    "entity_type": {
+      "type": "string",
+      "description": "Type of entity, e.g. 'gear', 'relic', 'form'"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name"
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Alternate names and abbreviations"
+    },
+    "schema_ref": {
+      "type": "string",
+      "description": "Which schema file defines this entity type"
+    },
+    "data_file": {
+      "type": "string",
+      "description": "Path to the canonical JSON file containing this entity"
+    },
+    "icon_ref": {
+      "type": ["string", "null"],
+      "description": "Reference to asset manifest entry"
+    },
+    "search_keywords": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Keywords for search indexing"
+    }
+  }
+}

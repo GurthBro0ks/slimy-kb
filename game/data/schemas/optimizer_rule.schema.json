@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Optimizer Rule",
+  "description": "A rule used by the optimizer to recommend gear, research, forms, troops, or progression",
+  "type": "object",
+  "required": ["id", "name", "description", "rule_type", "recommendation", "priority"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug"
+    },
+    "name": {
+      "type": "string",
+      "description": "Rule name"
+    },
+    "description": {
+      "type": "string",
+      "description": "Rule description"
+    },
+    "rule_type": {
+      "type": "string",
+      "enum": ["gear_recommendation", "research_priority", "form_priority", "troop_composition", "general_progression"],
+      "description": "Type of optimizer rule"
+    },
+    "conditions": {
+      "type": "object",
+      "description": "Freeform conditions object"
+    },
+    "recommendation": {
+      "type": "string",
+      "description": "What the optimizer should recommend"
+    },
+    "priority": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10,
+      "description": "Priority from 1 (lowest) to 10 (highest)"
+    },
+    "source_facts": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "IDs of source facts backing this rule"
+    },
+    "notes": {
+      "type": ["string", "null"]
+    }
+  }
+}

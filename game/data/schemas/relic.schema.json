@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Relic",
+  "description": "A relic that provides stat bonuses to the snail",
+  "type": "object",
+  "required": ["id", "name"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name"
+    },
+    "rarity": {
+      "type": "string",
+      "enum": ["common", "uncommon", "rare", "epic", "legendary", "mythic"],
+      "description": "Relic rarity tier"
+    },
+    "stat_bonuses": {
+      "type": "object",
+      "description": "Stat bonuses provided by this relic",
+      "properties": {
+        "hp":   { "type": ["number", "null"] },
+        "atk":  { "type": ["number", "null"] },
+        "def":  { "type": ["number", "null"] },
+        "fame": { "type": ["number", "null"] },
+        "tech": { "type": ["number", "null"] },
+        "art":  { "type": ["number", "null"] },
+        "civ":  { "type": ["number", "null"] },
+        "fth":  { "type": ["number", "null"] }
+      }
+    },
+    "awakened_effect": {
+      "type": ["string", "null"],
+      "description": "Description of the awakened bonus"
+    },
+    "source": {
+      "type": "string",
+      "description": "How to obtain this relic"
+    },
+    "icon_ref": {
+      "type": ["string", "null"],
+      "description": "Reference to asset manifest entry"
+    },
+    "notes": {
+      "type": ["string", "null"]
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

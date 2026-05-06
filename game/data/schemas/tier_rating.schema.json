@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Tier Rating",
+  "description": "A tier rating for a gear, relic, form, or troop entity",
+  "type": "object",
+  "required": ["id", "entity_id", "entity_type", "tier", "context", "rated_at"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug"
+    },
+    "entity_id": {
+      "type": "string",
+      "description": "ID of the rated entity"
+    },
+    "entity_type": {
+      "type": "string",
+      "enum": ["gear", "relic", "form", "troop"],
+      "description": "Type of entity being rated"
+    },
+    "tier": {
+      "type": "string",
+      "enum": ["S", "A", "B", "C", "D", "F"],
+      "description": "Tier grade"
+    },
+    "context": {
+      "type": "string",
+      "description": "Rating context, e.g. 'early_game', 'late_game', 'pvp', 'pve'"
+    },
+    "reasoning": {
+      "type": "string",
+      "description": "Explanation for the rating"
+    },
+    "rated_by": {
+      "type": "string",
+      "description": "Who gave the rating"
+    },
+    "rated_at": {
+      "type": "string",
+      "format": "date",
+      "description": "Rating date"
+    },
+    "source_facts": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "IDs of source facts backing this rating"
+    }
+  }
+}

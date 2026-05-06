@@ -1,0 +1,61 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Form",
+  "description": "A gene form that changes the snail's appearance and stats",
+  "type": "object",
+  "required": ["id", "name"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name"
+    },
+    "category": {
+      "type": "string",
+      "enum": ["basic", "advanced", "special"],
+      "description": "Form category"
+    },
+    "stat_bonuses": {
+      "type": "object",
+      "description": "Stat bonuses provided by this form",
+      "properties": {
+        "hp":   { "type": ["number", "null"] },
+        "atk":  { "type": ["number", "null"] },
+        "def":  { "type": ["number", "null"] },
+        "rush": { "type": ["number", "null"] },
+        "fame": { "type": ["number", "null"] },
+        "tech": { "type": ["number", "null"] },
+        "art":  { "type": ["number", "null"] },
+        "civ":  { "type": ["number", "null"] },
+        "fth":  { "type": ["number", "null"] }
+      }
+    },
+    "unlock_method": {
+      "type": "string",
+      "description": "How to unlock this form"
+    },
+    "research_time_hours": {
+      "type": ["number", "null"],
+      "description": "Time required to research this form"
+    },
+    "prerequisites": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Form IDs required before this one can be unlocked"
+    },
+    "icon_ref": {
+      "type": ["string", "null"],
+      "description": "Reference to asset manifest entry"
+    },
+    "notes": {
+      "type": ["string", "null"]
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

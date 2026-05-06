@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Item",
+  "description": "A consumable, material, currency, or key item",
+  "type": "object",
+  "required": ["id", "name", "category", "description"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name"
+    },
+    "category": {
+      "type": "string",
+      "description": "Item category, e.g. 'consumable', 'material', 'currency', 'key_item'"
+    },
+    "description": {
+      "type": "string",
+      "description": "Item description"
+    },
+    "effect": {
+      "type": ["string", "null"],
+      "description": "Effect when used"
+    },
+    "source": {
+      "type": "string",
+      "description": "How to obtain this item"
+    },
+    "icon_ref": {
+      "type": ["string", "null"],
+      "description": "Reference to asset manifest entry"
+    },
+    "stackable": {
+      "type": "boolean",
+      "default": true,
+      "description": "Whether the item can stack in inventory"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

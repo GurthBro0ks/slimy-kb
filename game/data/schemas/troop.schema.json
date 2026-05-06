@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Troop",
+  "description": "A troop unit with element, stats, and skills",
+  "type": "object",
+  "required": ["id", "name", "element"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name"
+    },
+    "element": {
+      "type": "string",
+      "enum": ["fire", "water", "earth", "wind", "poison", "neutral"],
+      "description": "Elemental affinity"
+    },
+    "rarity": {
+      "type": "string",
+      "enum": ["common", "uncommon", "rare", "epic", "legendary", "mythic"],
+      "description": "Troop rarity tier"
+    },
+    "base_stats": {
+      "type": "object",
+      "description": "Base stats for this troop",
+      "properties": {
+        "power":      { "type": "number" },
+        "hp":         { "type": "number" },
+        "atk":        { "type": "number" },
+        "def":        { "type": "number" },
+        "rush":       { "type": "number" },
+        "leadership": { "type": "number" },
+        "crit":       { "type": "number" }
+      }
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "description"],
+        "properties": {
+          "name":        { "type": "string" },
+          "description": { "type": "string" }
+        }
+      }
+    },
+    "source": {
+      "type": "string",
+      "description": "How to obtain this troop"
+    },
+    "icon_ref": {
+      "type": ["string", "null"],
+      "description": "Reference to asset manifest entry"
+    },
+    "notes": {
+      "type": ["string", "null"]
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}
