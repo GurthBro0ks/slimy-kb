@@ -1,0 +1,17 @@
+{
+  "canonical_promotion": false,
+  "gear_candidate_count": 29,
+  "generated_at": "2026-05-06T15:44:58.698517+00:00",
+  "high_confidence_count": 0,
+  "matched_count_score_0_50_plus": 1,
+  "outputs": [
+    "gear_wiki_review_matrix.json",
+    "gear_wiki_review_matrix.csv",
+    "unmatched_gear_candidates.json",
+    "gear_wiki_review_summary.md"
+  ],
+  "phase": "1C.1",
+  "strong_or_better_count": 1,
+  "unmatched_count": 28,
+  "wiki_page_count": 4123
+}

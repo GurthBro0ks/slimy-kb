@@ -1,0 +1,30 @@
+gear_id,gear_name,aliases,candidate_confidence,category_raw,slot_raw,best_wiki_page,best_wiki_title,best_score,best_match_class,best_reasons,review_status
+time_wanderer,Time Wanderer,Time Wanderer,0.65,Realm,,game/sources/wiki_gg/The_Wanderer.wiki,The Wanderer,0.9,strong_candidate,high_title_similarity; moderate_token_overlap,wiki_match_review_recommended
+the_great_scientist,The Great Scientist,The Great Scientist,0.65,Realm,,game/sources/wiki_gg/Guide_Gear_Progression.wiki,Guide Gear Progression,0.35,weak_candidate,candidate_name_found_in_content_sample,no_good_wiki_match
+the_great_collector,The Great Collector,The Great Collector,0.65,Realm,,game/sources/wiki_gg/Treasure_Collection.wiki,Treasure Collection,0.35,weak_candidate,moderate_title_similarity,no_good_wiki_match
+the_great_engineer,The Great Engineer,The Great Engineer,0.65,Realm,,game/sources/wiki_gg/The_Great_Gatsby.wiki,The Great Gatsby,0.0,unlikely,,no_good_wiki_match
+serket_staff,Serket Staff,Serket Staff,0.65,Form,,game/sources/wiki_gg/Golden_Staff.wiki,Golden Staff,0.0,unlikely,,no_good_wiki_match
+soul_reaper,Soul Reaper,Soul Reaper,0.65,Form,,game/sources/wiki_gg/Loyal_Retainers.wiki,Loyal Retainers,0.0,unlikely,,no_good_wiki_match
+seraph_s_light,Seraph's Light,Seraph's Light,0.65,Form,,game/sources/wiki_gg/Yayoi_s_Light.wiki,Yayoi s Light,0.35,weak_candidate,moderate_title_similarity,no_good_wiki_match
+subspace_blade,Subspace Blade,Subspace Blade,0.65,Form,,game/sources/wiki_gg/Jade_Blade.wiki,Jade Blade,0.35,weak_candidate,moderate_title_similarity,no_good_wiki_match
+gaus_m72,Gaus M72,Gaus M72,0.65,Form,,game/sources/wiki_gg/Disguise_Mask.wiki,Disguise Mask,0.0,unlikely,,no_good_wiki_match
+fang_of_tiamat,Fang of Tiamat,Fang of Tiamat,0.65,Form,,game/sources/wiki_gg/Sand_of_Time.wiki,Sand of Time,0.35,weak_candidate,moderate_title_similarity,no_good_wiki_match
+excaladbolg,Excaladbolg,Excaladbolg,0.65,Form,,game/sources/wiki_gg/Eagle_Cauldron.wiki,Eagle Cauldron,0.0,unlikely,,no_good_wiki_match
+strength_master_s_sword,Strength Master's Sword,Strength Master's Sword,0.65,"Instrument ""Attack""",,game/sources/wiki_gg/Strength_Crystal.wiki,Strength Crystal,0.0,unlikely,,no_good_wiki_match
+norris_chuck,Norris-chuck,Norris-chuck,0.65,"Instrument ""Attack""",,game/sources/wiki_gg/Guide_Gear_Progression.wiki,Guide Gear Progression,0.35,weak_candidate,candidate_name_found_in_content_sample,no_good_wiki_match
+excalibur_ex,Excalibur EX,Excalibur EX,0.65,"Instrument ""Attack""",,game/sources/wiki_gg/Guide_Gear_Progression.wiki,Guide Gear Progression,0.35,weak_candidate,candidate_name_found_in_content_sample,no_good_wiki_match
+big_bounce,Big Bounce,Big Bounce,0.65,"Instrument ""Attack""",,game/sources/wiki_gg/Big_Fish_Bone.wiki,Big Fish Bone,0.35,weak_candidate,moderate_title_similarity,no_good_wiki_match
+power_spinach,Power Spinach,Power Spinach,0.65,"Instrument ""Attack""",,game/sources/wiki_gg/White_Satin_Sachet.wiki,White Satin Sachet,0.0,unlikely,,no_good_wiki_match
+poseidon_s_trident,Poseidon's Trident,Poseidon's Trident,0.65,"Instrument ""Attack""",,game/sources/wiki_gg/Positronic_Brain.wiki,Positronic Brain,0.0,unlikely,,no_good_wiki_match
+know_it_all_device,Know-It-All Device,Know-It-All Device,0.65,"Instrument ""Attack""",,game/sources/wiki_gg/Earth_s_Will_Device.wiki,Earth s Will Device,0.0,unlikely,,no_good_wiki_match
+golden_drazgul_fang,Golden Drazgul Fang,Golden Drazgul Fang,0.65,"Instrument ""Attack""",,game/sources/wiki_gg/CombatDamage.wiki,CombatDamage,0.35,weak_candidate,candidate_name_found_in_content_sample,no_good_wiki_match
+incredible_key,Incredible Key,Incredible Key,0.65,"Instrument ""Attack""",,game/sources/wiki_gg/Infrared_Eye.wiki,Infrared Eye,0.0,unlikely,,no_good_wiki_match
+ring_of_paralysis,Ring of Paralysis,Ring of Paralysis,0.65,Armor,,game/sources/wiki_gg/Wing_of_Dracula.wiki,Wing of Dracula,0.0,unlikely,,no_good_wiki_match
+dracula_cape,Dracula Cape,Dracula Cape,0.65,Armor,,game/sources/wiki_gg/Faraday_Cage.wiki,Faraday Cage,0.0,unlikely,,no_good_wiki_match
+fortress,Fortress,Fortress,0.65,Armor,,game/sources/wiki_gg/Guide_Gear_Progression.wiki,Guide Gear Progression,0.35,weak_candidate,candidate_name_found_in_content_sample,no_good_wiki_match
+traveler_outfit,Traveler Outfit,Traveler Outfit,0.65,Armor,,game/sources/wiki_gg/Travel_Permit.wiki,Travel Permit,0.35,weak_candidate,moderate_title_similarity,no_good_wiki_match
+the_great_magician,The Great Magician,The Great Magician,0.65,Armor,,game/sources/wiki_gg/The_Scream_Guernica.wiki,The Scream Guernica,0.0,unlikely,,no_good_wiki_match
+antimatter_shield,Antimatter Shield,Antimatter Shield,0.65,Armor,,game/sources/wiki_gg/Antimatter_Bomb.wiki,Antimatter Bomb,0.35,weak_candidate,moderate_title_similarity,no_good_wiki_match
+the_great_entertainer,The Great Entertainer,The Great Entertainer,0.65,Armor,,game/sources/wiki_gg/The_Great_Gatsby.wiki,The Great Gatsby,0.0,unlikely,,no_good_wiki_match
+agamemnon_outfit,Agamemnon Outfit,Agamemnon Outfit,0.65,Armor,,game/sources/wiki_gg/Agamemnon_Mask.wiki,Agamemnon Mask,0.35,weak_candidate,moderate_title_similarity,no_good_wiki_match
+libra_artifact,Libra Artifact,Libra Artifact,0.65,Armor,,game/sources/wiki_gg/Dragon_Artifact.wiki,Dragon Artifact,0.35,weak_candidate,moderate_title_similarity,no_good_wiki_match

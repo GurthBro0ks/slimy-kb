@@ -1,0 +1,4175 @@
+[
+  {
+    "aliases": [
+      "Time Wanderer"
+    ],
+    "best_match_class": "strong_candidate",
+    "best_reasons": [
+      "high_title_similarity",
+      "moderate_token_overlap"
+    ],
+    "best_score": 0.9,
+    "best_snippet": "{{CargoRelic |name=The Wanderer |class_id=22022 |rank=Blue |affct=ART |birthday=05-14 |source=Lottery Machine No.2 (0.26%), Wishing (0.14%) |description=On May 14, 1818 AD, the painter named Friedrich created this painting at home.<br>The Wanderer is an oil painting by an artist named Friedrich. A man stands on the mountain in the center of the painting. Maybe he's looking at the landscapes in the distance or maybe he has something on his mind. The painting gives off feelings of ethereality, sol",
+    "best_wiki_page": "game/sources/wiki_gg/The_Wanderer.wiki",
+    "best_wiki_title": "The Wanderer",
+    "candidate_confidence": 0.65,
+    "category_raw": "Realm",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "time_wanderer",
+    "gear_name": "Time Wanderer",
+    "review_status": "wiki_match_review_recommended",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Time Wanderer",
+        "content_hit": false,
+        "match_class": "strong_candidate",
+        "page_filename": "The_Wanderer.wiki",
+        "page_path": "game/sources/wiki_gg/The_Wanderer.wiki",
+        "page_title": "The Wanderer",
+        "reasons": [
+          "high_title_similarity",
+          "moderate_token_overlap"
+        ],
+        "score": 0.9,
+        "title_similarity": 0.88,
+        "token_overlap": 0.5
+      },
+      {
+        "best_alias": "Time Wanderer",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "Time_Adjuster.wiki",
+        "page_path": "game/sources/wiki_gg/Time_Adjuster.wiki",
+        "page_title": "Time Adjuster",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.6923,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Time Wanderer",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "The_Wanderer_Akebono.wiki",
+        "page_path": "game/sources/wiki_gg/The_Wanderer_Akebono.wiki",
+        "page_title": "The Wanderer Akebono",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.6667,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Time Wanderer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Time_Aggregator.wiki",
+        "page_path": "game/sources/wiki_gg/Time_Aggregator.wiki",
+        "page_title": "Time Aggregator",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6429,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Time Wanderer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Time_Beacon.wiki",
+        "page_path": "game/sources/wiki_gg/Time_Beacon.wiki",
+        "page_title": "Time Beacon",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5833,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Time Wanderer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Tiger_Award.wiki",
+        "page_path": "game/sources/wiki_gg/Tiger_Award.wiki",
+        "page_title": "Tiger Award",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5833,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Time Wanderer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Ticket_Gleaners.wiki",
+        "page_path": "game/sources/wiki_gg/Ticket_Gleaners.wiki",
+        "page_title": "Ticket Gleaners",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Time Wanderer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Ultimate_Neuron.wiki",
+        "page_path": "game/sources/wiki_gg/Ultimate_Neuron.wiki",
+        "page_title": "Ultimate Neuron",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Time Wanderer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Time_Rift.wiki",
+        "page_path": "game/sources/wiki_gg/Time_Rift.wiki",
+        "page_title": "Time Rift",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Time Wanderer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Dance.wiki",
+        "page_path": "game/sources/wiki_gg/The_Dance.wiki",
+        "page_title": "The Dance",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "The Great Scientist"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "candidate_name_found_in_content_sample"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Guide_Gear_Progression.wiki",
+    "best_wiki_title": "Guide Gear Progression",
+    "candidate_confidence": 0.65,
+    "category_raw": "Realm",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "the_great_scientist",
+    "gear_name": "The Great Scientist",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "The Great Scientist",
+        "content_hit": true,
+        "match_class": "weak_candidate",
+        "page_filename": "Guide_Gear_Progression.wiki",
+        "page_path": "game/sources/wiki_gg/Guide_Gear_Progression.wiki",
+        "page_title": "Guide Gear Progression",
+        "reasons": [
+          "candidate_name_found_in_content_sample"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.3902,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Scientist",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Great_Gatsby.wiki",
+        "page_path": "game/sources/wiki_gg/The_Great_Gatsby.wiki",
+        "page_title": "The Great Gatsby",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6286,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "The Great Scientist",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Gate.wiki",
+        "page_path": "game/sources/wiki_gg/The_Gate.wiki",
+        "page_title": "The Gate",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5926,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Scientist",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Fermat_s_Scripts.wiki",
+        "page_path": "game/sources/wiki_gg/Fermat_s_Scripts.wiki",
+        "page_title": "Fermat s Scripts",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Scientist",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Resurrection.wiki",
+        "page_path": "game/sources/wiki_gg/The_Resurrection.wiki",
+        "page_title": "The Resurrection",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Scientist",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Seal_of_the_Ancients.wiki",
+        "page_path": "game/sources/wiki_gg/Seal_of_the_Ancients.wiki",
+        "page_title": "Seal of the Ancients",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5641,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Scientist",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Last_Judgment.wiki",
+        "page_path": "game/sources/wiki_gg/The_Last_Judgment.wiki",
+        "page_title": "The Last Judgment",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5556,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Scientist",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Graces.wiki",
+        "page_path": "game/sources/wiki_gg/The_Graces.wiki",
+        "page_title": "The Graces",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5517,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Scientist",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Gold_Reaper_s_Cup.wiki",
+        "page_path": "game/sources/wiki_gg/The_Gold_Reaper_s_Cup.wiki",
+        "page_title": "The Gold Reaper s Cup",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.55,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Scientist",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Home_Resources.wiki",
+        "page_path": "game/sources/wiki_gg/Home_Resources.wiki",
+        "page_title": "Home Resources",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "The Great Collector"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "moderate_title_similarity"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Treasure_Collection.wiki",
+    "best_wiki_title": "Treasure Collection",
+    "candidate_confidence": 0.65,
+    "category_raw": "Realm",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "the_great_collector",
+    "gear_name": "The Great Collector",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "The Great Collector",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "Treasure_Collection.wiki",
+        "page_path": "game/sources/wiki_gg/Treasure_Collection.wiki",
+        "page_title": "Treasure Collection",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.6842,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Collector",
+        "content_hit": true,
+        "match_class": "weak_candidate",
+        "page_filename": "Jilin-1_Meteorite.wiki",
+        "page_path": "game/sources/wiki_gg/Jilin-1_Meteorite.wiki",
+        "page_title": "Jilin-1 Meteorite",
+        "reasons": [
+          "candidate_name_found_in_content_sample"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.2222,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Collector",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Great_Gatsby.wiki",
+        "page_path": "game/sources/wiki_gg/The_Great_Gatsby.wiki",
+        "page_title": "The Great Gatsby",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6286,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "The Great Collector",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Curator_s_Collection.wiki",
+        "page_path": "game/sources/wiki_gg/Curator_s_Collection.wiki",
+        "page_title": "Curator s Collection",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6154,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Collector",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Art_of_Poetry.wiki",
+        "page_path": "game/sources/wiki_gg/The_Art_of_Poetry.wiki",
+        "page_title": "The Art of Poetry",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6111,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Collector",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Gate.wiki",
+        "page_path": "game/sources/wiki_gg/The_Gate.wiki",
+        "page_title": "The Gate",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5926,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Collector",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Icons_Treasure_Collection.wiki",
+        "page_path": "game/sources/wiki_gg/Icons_Treasure_Collection.wiki",
+        "page_title": "Icons Treasure Collection",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5909,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Collector",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Time_Aggregator.wiki",
+        "page_path": "game/sources/wiki_gg/Time_Aggregator.wiki",
+        "page_title": "Time Aggregator",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5882,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Collector",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Analects.wiki",
+        "page_path": "game/sources/wiki_gg/The_Analects.wiki",
+        "page_title": "The Analects",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5806,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Collector",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Resurrection.wiki",
+        "page_path": "game/sources/wiki_gg/The_Resurrection.wiki",
+        "page_title": "The Resurrection",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "The Great Engineer"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/The_Great_Gatsby.wiki",
+    "best_wiki_title": "The Great Gatsby",
+    "candidate_confidence": 0.65,
+    "category_raw": "Realm",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "the_great_engineer",
+    "gear_name": "The Great Engineer",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "The Great Engineer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Great_Gatsby.wiki",
+        "page_path": "game/sources/wiki_gg/The_Great_Gatsby.wiki",
+        "page_title": "The Great Gatsby",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6471,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "The Great Engineer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Watt_Steam_Engine.wiki",
+        "page_path": "game/sources/wiki_gg/Watt_Steam_Engine.wiki",
+        "page_title": "Watt Steam Engine",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6286,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Engineer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Otto_Engine.wiki",
+        "page_path": "game/sources/wiki_gg/Otto_Engine.wiki",
+        "page_title": "Otto Engine",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6207,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Engineer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Thinker.wiki",
+        "page_path": "game/sources/wiki_gg/The_Thinker.wiki",
+        "page_title": "The Thinker",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6207,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Engineer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Gate.wiki",
+        "page_path": "game/sources/wiki_gg/The_Gate.wiki",
+        "page_title": "The Gate",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6154,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Engineer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Curvature_Drive_Engine.wiki",
+        "page_path": "game/sources/wiki_gg/Curvature_Drive_Engine.wiki",
+        "page_title": "Curvature Drive Engine",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Engineer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Scream_Guernica.wiki",
+        "page_path": "game/sources/wiki_gg/The_Scream_Guernica.wiki",
+        "page_title": "The Scream Guernica",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5946,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Engineer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Diesel_Engine.wiki",
+        "page_path": "game/sources/wiki_gg/Diesel_Engine.wiki",
+        "page_title": "Diesel Engine",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5806,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Engineer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "TVC_Engine.wiki",
+        "page_path": "game/sources/wiki_gg/TVC_Engine.wiki",
+        "page_title": "TVC Engine",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Engineer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Prayer.wiki",
+        "page_path": "game/sources/wiki_gg/The_Prayer.wiki",
+        "page_title": "The Prayer",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Serket Staff"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Golden_Staff.wiki",
+    "best_wiki_title": "Golden Staff",
+    "candidate_confidence": 0.65,
+    "category_raw": "Form",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "serket_staff",
+    "gear_name": "Serket Staff",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Serket Staff",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Golden_Staff.wiki",
+        "page_path": "game/sources/wiki_gg/Golden_Staff.wiki",
+        "page_title": "Golden Staff",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5833,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Serket Staff",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Heart_Crystal.wiki",
+        "page_path": "game/sources/wiki_gg/Heart_Crystal.wiki",
+        "page_title": "Heart Crystal",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.56,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Serket Staff",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Scarlet_Sting.wiki",
+        "page_path": "game/sources/wiki_gg/Scarlet_Sting.wiki",
+        "page_title": "Scarlet Sting",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.56,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Serket Staff",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Secret_Tea_Recipe.wiki",
+        "page_path": "game/sources/wiki_gg/Secret_Tea_Recipe.wiki",
+        "page_title": "Secret Tea Recipe",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5517,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Serket Staff",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Seven-Star_Pot.wiki",
+        "page_path": "game/sources/wiki_gg/Seven-Star_Pot.wiki",
+        "page_title": "Seven-Star Pot",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5385,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Serket Staff",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Summer_Fest.wiki",
+        "page_path": "game/sources/wiki_gg/Summer_Fest.wiki",
+        "page_title": "Summer Fest",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5217,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Serket Staff",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Resort_Postcard.wiki",
+        "page_path": "game/sources/wiki_gg/Resort_Postcard.wiki",
+        "page_title": "Resort Postcard",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Serket Staff",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Summer_Festival.wiki",
+        "page_path": "game/sources/wiki_gg/Summer_Festival.wiki",
+        "page_title": "Summer Festival",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Serket Staff",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Heavenfire_Sutra.wiki",
+        "page_path": "game/sources/wiki_gg/Heavenfire_Sutra.wiki",
+        "page_title": "Heavenfire Sutra",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Serket Staff",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Kemetic_Postcard.wiki",
+        "page_path": "game/sources/wiki_gg/Kemetic_Postcard.wiki",
+        "page_title": "Kemetic Postcard",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Soul Reaper"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Loyal_Retainers.wiki",
+    "best_wiki_title": "Loyal Retainers",
+    "candidate_confidence": 0.65,
+    "category_raw": "Form",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "soul_reaper",
+    "gear_name": "Soul Reaper",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Soul Reaper",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Loyal_Retainers.wiki",
+        "page_path": "game/sources/wiki_gg/Loyal_Retainers.wiki",
+        "page_title": "Loyal Retainers",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6154,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Soul Reaper",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Soul_Jade.wiki",
+        "page_path": "game/sources/wiki_gg/Soul_Jade.wiki",
+        "page_title": "Soul Jade",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Soul Reaper",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Soul_Pill.wiki",
+        "page_path": "game/sources/wiki_gg/Soul_Pill.wiki",
+        "page_title": "Soul Pill",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Soul Reaper",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Full_Marks_Paper.wiki",
+        "page_path": "game/sources/wiki_gg/Full_Marks_Paper.wiki",
+        "page_title": "Full Marks Paper",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5926,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Soul Reaper",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Soul_Stone.wiki",
+        "page_path": "game/sources/wiki_gg/Soul_Stone.wiki",
+        "page_title": "Soul Stone",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Soul Reaper",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Soul_Priest_Olyas.wiki",
+        "page_path": "game/sources/wiki_gg/Soul_Priest_Olyas.wiki",
+        "page_title": "Soul Priest Olyas",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.25
+      },
+      {
+        "best_alias": "Soul Reaper",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Gold_Toilet_Paper.wiki",
+        "page_path": "game/sources/wiki_gg/Gold_Toilet_Paper.wiki",
+        "page_title": "Gold Toilet Paper",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Soul Reaper",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Gold_Reaper_s_Cup.wiki",
+        "page_path": "game/sources/wiki_gg/The_Gold_Reaper_s_Cup.wiki",
+        "page_title": "The Gold Reaper s Cup",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5625,
+        "token_overlap": 0.25
+      },
+      {
+        "best_alias": "Soul Reaper",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Cuddly_Bear.wiki",
+        "page_path": "game/sources/wiki_gg/Cuddly_Bear.wiki",
+        "page_title": "Cuddly Bear",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Soul Reaper",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Owl_Brother.wiki",
+        "page_path": "game/sources/wiki_gg/Owl_Brother.wiki",
+        "page_title": "Owl Brother",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Seraph's Light"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "moderate_title_similarity"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Yayoi_s_Light.wiki",
+    "best_wiki_title": "Yayoi s Light",
+    "candidate_confidence": 0.65,
+    "category_raw": "Form",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "seraph_s_light",
+    "gear_name": "Seraph's Light",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Seraph's Light",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "Yayoi_s_Light.wiki",
+        "page_path": "game/sources/wiki_gg/Yayoi_s_Light.wiki",
+        "page_title": "Yayoi s Light",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.6667,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Seraph's Light",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "Athena_s_Delight.wiki",
+        "page_path": "game/sources/wiki_gg/Athena_s_Delight.wiki",
+        "page_title": "Athena s Delight",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.6667,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Seraph's Light",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Michael_s_Light.wiki",
+        "page_path": "game/sources/wiki_gg/Michael_s_Light.wiki",
+        "page_title": "Michael s Light",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6207,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Seraph's Light",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Schindler_s_List.wiki",
+        "page_path": "game/sources/wiki_gg/Schindler_s_List.wiki",
+        "page_title": "Schindler s List",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Seraph's Light",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Surya_s_Heart.wiki",
+        "page_path": "game/sources/wiki_gg/Surya_s_Heart.wiki",
+        "page_title": "Surya s Heart",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5926,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Seraph's Light",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Hestia_s_Flint.wiki",
+        "page_path": "game/sources/wiki_gg/Hestia_s_Flint.wiki",
+        "page_title": "Hestia s Flint",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Seraph's Light",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Secretary_s_Clingfilm.wiki",
+        "page_path": "game/sources/wiki_gg/Secretary_s_Clingfilm.wiki",
+        "page_title": "Secretary s Clingfilm",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Seraph's Light",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Joseph_s_Manuscript.wiki",
+        "page_path": "game/sources/wiki_gg/Joseph_s_Manuscript.wiki",
+        "page_title": "Joseph s Manuscript",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Seraph's Light",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Earth_s_Will.wiki",
+        "page_path": "game/sources/wiki_gg/Earth_s_Will.wiki",
+        "page_title": "Earth s Will",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5385,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Seraph's Light",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Seismograph_Musician_Figure.wiki",
+        "page_path": "game/sources/wiki_gg/Seismograph_Musician_Figure.wiki",
+        "page_title": "Seismograph Musician Figure",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5366,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Subspace Blade"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "moderate_title_similarity"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Jade_Blade.wiki",
+    "best_wiki_title": "Jade Blade",
+    "candidate_confidence": 0.65,
+    "category_raw": "Form",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "subspace_blade",
+    "gear_name": "Subspace Blade",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Subspace Blade",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "Jade_Blade.wiki",
+        "page_path": "game/sources/wiki_gg/Jade_Blade.wiki",
+        "page_title": "Jade Blade",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.6667,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Subspace Blade",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Space_Pirate.wiki",
+        "page_path": "game/sources/wiki_gg/Space_Pirate.wiki",
+        "page_title": "Space Pirate",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6154,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Subspace Blade",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Space_Elevator.wiki",
+        "page_path": "game/sources/wiki_gg/Space_Elevator.wiki",
+        "page_title": "Space Elevator",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Subspace Blade",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Top_Chef_Badge.wiki",
+        "page_path": "game/sources/wiki_gg/Top_Chef_Badge.wiki",
+        "page_title": "Top Chef Badge",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Subspace Blade",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Super_Species_Bowl.wiki",
+        "page_path": "game/sources/wiki_gg/Super_Species_Bowl.wiki",
+        "page_title": "Super Species Bowl",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5625,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Subspace Blade",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Spaceship_Model.wiki",
+        "page_path": "game/sources/wiki_gg/Spaceship_Model.wiki",
+        "page_title": "Spaceship Model",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5517,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Subspace Blade",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Super_Poodle.wiki",
+        "page_path": "game/sources/wiki_gg/Super_Poodle.wiki",
+        "page_title": "Super Poodle",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5385,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Subspace Blade",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "St._Louisa_Goblet.wiki",
+        "page_path": "game/sources/wiki_gg/St._Louisa_Goblet.wiki",
+        "page_title": "St. Louisa Goblet",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5333,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Subspace Blade",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Webb_Space_Telescope.wiki",
+        "page_path": "game/sources/wiki_gg/Webb_Space_Telescope.wiki",
+        "page_title": "Webb Space Telescope",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5294,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Subspace Blade",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Smug_s_Chalice_Imperial_Jade.wiki",
+        "page_path": "game/sources/wiki_gg/Smug_s_Chalice_Imperial_Jade.wiki",
+        "page_title": "Smug s Chalice Imperial Jade",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5238,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Gaus M72"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Disguise_Mask.wiki",
+    "best_wiki_title": "Disguise Mask",
+    "candidate_confidence": 0.65,
+    "category_raw": "Form",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "gaus_m72",
+    "gear_name": "Gaus M72",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Gaus M72",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Disguise_Mask.wiki",
+        "page_path": "game/sources/wiki_gg/Disguise_Mask.wiki",
+        "page_title": "Disguise Mask",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4762,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Gaus M72",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Taurus_Gemini.wiki",
+        "page_path": "game/sources/wiki_gg/Taurus_Gemini.wiki",
+        "page_title": "Taurus Gemini",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4762,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Gaus M72",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Fungus_XL.wiki",
+        "page_path": "game/sources/wiki_gg/Fungus_XL.wiki",
+        "page_title": "Fungus XL",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4706,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Gaus M72",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Faust.wiki",
+        "page_path": "game/sources/wiki_gg/Faust.wiki",
+        "page_title": "Faust",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4615,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Gaus M72",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Augustus_Medal.wiki",
+        "page_path": "game/sources/wiki_gg/Augustus_Medal.wiki",
+        "page_title": "Augustus Medal",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4545,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Gaus M72",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Aulos_Pipe.wiki",
+        "page_path": "game/sources/wiki_gg/Aulos_Pipe.wiki",
+        "page_title": "Aulos Pipe",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4444,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Gaus M72",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Gaea_Totem.wiki",
+        "page_path": "game/sources/wiki_gg/Gaea_Totem.wiki",
+        "page_title": "Gaea Totem",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4444,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Gaus M72",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Auspicious_Beam.wiki",
+        "page_path": "game/sources/wiki_gg/Auspicious_Beam.wiki",
+        "page_title": "Auspicious Beam",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4348,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Gaus M72",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Anubis.wiki",
+        "page_path": "game/sources/wiki_gg/Anubis.wiki",
+        "page_title": "Anubis",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4286,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Gaus M72",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Guides.wiki",
+        "page_path": "game/sources/wiki_gg/Guides.wiki",
+        "page_title": "Guides",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4286,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Fang of Tiamat"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "moderate_title_similarity"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Sand_of_Time.wiki",
+    "best_wiki_title": "Sand of Time",
+    "candidate_confidence": 0.65,
+    "category_raw": "Form",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "fang_of_tiamat",
+    "gear_name": "Fang of Tiamat",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Fang of Tiamat",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "Sand_of_Time.wiki",
+        "page_path": "game/sources/wiki_gg/Sand_of_Time.wiki",
+        "page_title": "Sand of Time",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.6923,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fang of Tiamat",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Mane_of_Fate.wiki",
+        "page_path": "game/sources/wiki_gg/Mane_of_Fate.wiki",
+        "page_title": "Mane of Fate",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6154,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fang of Tiamat",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Death_of_Marat.wiki",
+        "page_path": "game/sources/wiki_gg/Death_of_Marat.wiki",
+        "page_title": "Death of Marat",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fang of Tiamat",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Seal_of_Titans.wiki",
+        "page_path": "game/sources/wiki_gg/Seal_of_Titans.wiki",
+        "page_title": "Seal of Titans",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fang of Tiamat",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Lungs_of_the_Earth.wiki",
+        "page_path": "game/sources/wiki_gg/Lungs_of_the_Earth.wiki",
+        "page_title": "Lungs of the Earth",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5625,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fang of Tiamat",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Radiance_of_May.wiki",
+        "page_path": "game/sources/wiki_gg/Radiance_of_May.wiki",
+        "page_title": "Radiance of May",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5517,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fang of Tiamat",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Wing_of_Dracula.wiki",
+        "page_path": "game/sources/wiki_gg/Wing_of_Dracula.wiki",
+        "page_title": "Wing of Dracula",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5517,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fang of Tiamat",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Art_of_Ninja.wiki",
+        "page_path": "game/sources/wiki_gg/Art_of_Ninja.wiki",
+        "page_title": "Art of Ninja",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5385,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fang of Tiamat",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Horn_of_Fate.wiki",
+        "page_path": "game/sources/wiki_gg/Horn_of_Fate.wiki",
+        "page_title": "Horn of Fate",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5385,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fang of Tiamat",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Star_of_Adam.wiki",
+        "page_path": "game/sources/wiki_gg/Star_of_Adam.wiki",
+        "page_title": "Star of Adam",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5385,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Excaladbolg"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Eagle_Cauldron.wiki",
+    "best_wiki_title": "Eagle Cauldron",
+    "candidate_confidence": 0.65,
+    "category_raw": "Form",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "excaladbolg",
+    "gear_name": "Excaladbolg",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Excaladbolg",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Eagle_Cauldron.wiki",
+        "page_path": "game/sources/wiki_gg/Eagle_Cauldron.wiki",
+        "page_title": "Eagle Cauldron",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.48,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excaladbolg",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Emerald_Tablet.wiki",
+        "page_path": "game/sources/wiki_gg/Emerald_Tablet.wiki",
+        "page_title": "Emerald Tablet",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.48,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excaladbolg",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Weapon_Catalog.wiki",
+        "page_path": "game/sources/wiki_gg/Weapon_Catalog.wiki",
+        "page_title": "Weapon Catalog",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.48,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excaladbolg",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Alpha_Wolf.wiki",
+        "page_path": "game/sources/wiki_gg/Alpha_Wolf.wiki",
+        "page_title": "Alpha Wolf",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4762,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excaladbolg",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Royal_Doll.wiki",
+        "page_path": "game/sources/wiki_gg/Royal_Doll.wiki",
+        "page_title": "Royal Doll",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4762,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excaladbolg",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Tesla_Coil.wiki",
+        "page_path": "game/sources/wiki_gg/Tesla_Coil.wiki",
+        "page_title": "Tesla Coil",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4762,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excaladbolg",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "World_Bowl.wiki",
+        "page_path": "game/sources/wiki_gg/World_Bowl.wiki",
+        "page_title": "World Bowl",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4762,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excaladbolg",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Messier_Catalog.wiki",
+        "page_path": "game/sources/wiki_gg/Messier_Catalog.wiki",
+        "page_title": "Messier Catalog",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4615,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excaladbolg",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Taotie_Cauldron.wiki",
+        "page_path": "game/sources/wiki_gg/Taotie_Cauldron.wiki",
+        "page_title": "Taotie Cauldron",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4615,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excaladbolg",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Chainblades.wiki",
+        "page_path": "game/sources/wiki_gg/Chainblades.wiki",
+        "page_title": "Chainblades",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4545,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Strength Master's Sword"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Strength_Crystal.wiki",
+    "best_wiki_title": "Strength Crystal",
+    "candidate_confidence": 0.65,
+    "category_raw": "Instrument \"Attack\"",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "strength_master_s_sword",
+    "gear_name": "Strength Master's Sword",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Strength Master's Sword",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Strength_Crystal.wiki",
+        "page_path": "game/sources/wiki_gg/Strength_Crystal.wiki",
+        "page_title": "Strength Crystal",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5641,
+        "token_overlap": 0.25
+      },
+      {
+        "best_alias": "Strength Master's Sword",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Lasker_Award.wiki",
+        "page_path": "game/sources/wiki_gg/The_Lasker_Award.wiki",
+        "page_title": "The Lasker Award",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5641,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Strength Master's Sword",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Firefighter_Award.wiki",
+        "page_path": "game/sources/wiki_gg/Firefighter_Award.wiki",
+        "page_title": "Firefighter Award",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.55,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Strength Master's Sword",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Zoroaster_s_Torch.wiki",
+        "page_path": "game/sources/wiki_gg/Zoroaster_s_Torch.wiki",
+        "page_title": "Zoroaster s Torch",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.55,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Strength Master's Sword",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Fishing_Master.wiki",
+        "page_path": "game/sources/wiki_gg/Fishing_Master.wiki",
+        "page_title": "Fishing Master",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5405,
+        "token_overlap": 0.25
+      },
+      {
+        "best_alias": "Strength Master's Sword",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Treasure_Gourd.wiki",
+        "page_path": "game/sources/wiki_gg/Treasure_Gourd.wiki",
+        "page_title": "Treasure Gourd",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5405,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Strength Master's Sword",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Seven_Chapters_of_the_Mysterious_Lord.wiki",
+        "page_path": "game/sources/wiki_gg/Seven_Chapters_of_the_Mysterious_Lord.wiki",
+        "page_title": "Seven Chapters of the Mysterious Lord",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5333,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Strength Master's Sword",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Dark_Matter_s_Heart.wiki",
+        "page_path": "game/sources/wiki_gg/Dark_Matter_s_Heart.wiki",
+        "page_title": "Dark Matter s Heart",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5238,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Strength Master's Sword",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Standing_Bear_Award.wiki",
+        "page_path": "game/sources/wiki_gg/Standing_Bear_Award.wiki",
+        "page_title": "Standing Bear Award",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5238,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Strength Master's Sword",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Abel_Prize_The_Lasker_Award.wiki",
+        "page_path": "game/sources/wiki_gg/Abel_Prize_The_Lasker_Award.wiki",
+        "page_title": "Abel Prize The Lasker Award",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.52,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Norris-chuck"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "candidate_name_found_in_content_sample"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Guide_Gear_Progression.wiki",
+    "best_wiki_title": "Guide Gear Progression",
+    "candidate_confidence": 0.65,
+    "category_raw": "Instrument \"Attack\"",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "norris_chuck",
+    "gear_name": "Norris-chuck",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Norris-chuck",
+        "content_hit": true,
+        "match_class": "weak_candidate",
+        "page_filename": "Guide_Gear_Progression.wiki",
+        "page_path": "game/sources/wiki_gg/Guide_Gear_Progression.wiki",
+        "page_title": "Guide Gear Progression",
+        "reasons": [
+          "candidate_name_found_in_content_sample"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.0588,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Norris-chuck",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Nestor_s_Cup.wiki",
+        "page_path": "game/sources/wiki_gg/Nestor_s_Cup.wiki",
+        "page_title": "Nestor s Cup",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5833,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Norris-chuck",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Hopper_s_Luck.wiki",
+        "page_path": "game/sources/wiki_gg/Hopper_s_Luck.wiki",
+        "page_title": "Hopper s Luck",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.56,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Norris-chuck",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Orichalcum.wiki",
+        "page_path": "game/sources/wiki_gg/Orichalcum.wiki",
+        "page_title": "Orichalcum",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Norris-chuck",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Atomic_Clock.wiki",
+        "page_path": "game/sources/wiki_gg/Atomic_Clock.wiki",
+        "page_title": "Atomic Clock",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Norris-chuck",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Erinyes_Shackles.wiki",
+        "page_path": "game/sources/wiki_gg/Erinyes_Shackles.wiki",
+        "page_title": "Erinyes Shackles",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Norris-chuck",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Red_Buck.wiki",
+        "page_path": "game/sources/wiki_gg/Red_Buck.wiki",
+        "page_title": "Red Buck",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Norris-chuck",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Rich_Kid.wiki",
+        "page_path": "game/sources/wiki_gg/Rich_Kid.wiki",
+        "page_title": "Rich Kid",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Norris-chuck",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Rubik_s_Cube.wiki",
+        "page_path": "game/sources/wiki_gg/Rubik_s_Cube.wiki",
+        "page_title": "Rubik s Cube",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Norris-chuck",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Zoroaster_s_Torch.wiki",
+        "page_path": "game/sources/wiki_gg/Zoroaster_s_Torch.wiki",
+        "page_title": "Zoroaster s Torch",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4828,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Excalibur EX"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "candidate_name_found_in_content_sample"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Guide_Gear_Progression.wiki",
+    "best_wiki_title": "Guide Gear Progression",
+    "candidate_confidence": 0.65,
+    "category_raw": "Instrument \"Attack\"",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "excalibur_ex",
+    "gear_name": "Excalibur EX",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Excalibur EX",
+        "content_hit": true,
+        "match_class": "weak_candidate",
+        "page_filename": "Guide_Gear_Progression.wiki",
+        "page_path": "game/sources/wiki_gg/Guide_Gear_Progression.wiki",
+        "page_title": "Guide Gear Progression",
+        "reasons": [
+          "candidate_name_found_in_content_sample"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.2941,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excalibur EX",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Fire_Chalice.wiki",
+        "page_path": "game/sources/wiki_gg/Fire_Chalice.wiki",
+        "page_title": "Fire Chalice",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excalibur EX",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Snail_Figure.wiki",
+        "page_path": "game/sources/wiki_gg/Snail_Figure.wiki",
+        "page_title": "Snail Figure",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excalibur EX",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Canterbury_Tales.wiki",
+        "page_path": "game/sources/wiki_gg/The_Canterbury_Tales.wiki",
+        "page_title": "The Canterbury Tales",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excalibur EX",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Libra.wiki",
+        "page_path": "game/sources/wiki_gg/Libra.wiki",
+        "page_title": "Libra",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4706,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excalibur EX",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Coating_Bucket.wiki",
+        "page_path": "game/sources/wiki_gg/Coating_Bucket.wiki",
+        "page_title": "Coating Bucket",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4615,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excalibur EX",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Hellfire_Shell.wiki",
+        "page_path": "game/sources/wiki_gg/Hellfire_Shell.wiki",
+        "page_title": "Hellfire Shell",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4615,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excalibur EX",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Olmec_Figurine.wiki",
+        "page_path": "game/sources/wiki_gg/Olmec_Figurine.wiki",
+        "page_title": "Olmec Figurine",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4615,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excalibur EX",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Ali_s_Belt.wiki",
+        "page_path": "game/sources/wiki_gg/Ali_s_Belt.wiki",
+        "page_title": "Ali s Belt",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4545,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Excalibur EX",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Cancer_Leo.wiki",
+        "page_path": "game/sources/wiki_gg/Cancer_Leo.wiki",
+        "page_title": "Cancer Leo",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.4545,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Big Bounce"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "moderate_title_similarity"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Big_Fish_Bone.wiki",
+    "best_wiki_title": "Big Fish Bone",
+    "candidate_confidence": 0.65,
+    "category_raw": "Instrument \"Attack\"",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "big_bounce",
+    "gear_name": "Big Bounce",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Big Bounce",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "Big_Fish_Bone.wiki",
+        "page_path": "game/sources/wiki_gg/Big_Fish_Bone.wiki",
+        "page_title": "Big Fish Bone",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.6957,
+        "token_overlap": 0.25
+      },
+      {
+        "best_alias": "Big Bounce",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Ishango_Bone.wiki",
+        "page_path": "game/sources/wiki_gg/Ishango_Bone.wiki",
+        "page_title": "Ishango Bone",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6364,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Big Bounce",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Big_Mec.wiki",
+        "page_path": "game/sources/wiki_gg/Big_Mec.wiki",
+        "page_title": "Big Mec",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5882,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Big Bounce",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Coating_Bucket.wiki",
+        "page_path": "game/sources/wiki_gg/Coating_Bucket.wiki",
+        "page_title": "Coating Bucket",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5833,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Big Bounce",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Geiger_Counter.wiki",
+        "page_path": "game/sources/wiki_gg/Geiger_Counter.wiki",
+        "page_title": "Geiger Counter",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5833,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Big Bounce",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Gold_Bucket.wiki",
+        "page_path": "game/sources/wiki_gg/Gold_Bucket.wiki",
+        "page_title": "Gold Bucket",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Big Bounce",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Higgs_Boson.wiki",
+        "page_path": "game/sources/wiki_gg/Higgs_Boson.wiki",
+        "page_title": "Higgs Boson",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Big Bounce",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Antigone.wiki",
+        "page_path": "game/sources/wiki_gg/Antigone.wiki",
+        "page_title": "Antigone",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5556,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Big Bounce",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Antigravity_Bone.wiki",
+        "page_path": "game/sources/wiki_gg/Antigravity_Bone.wiki",
+        "page_title": "Antigravity Bone",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5385,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Big Bounce",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Lab_Boxes.wiki",
+        "page_path": "game/sources/wiki_gg/Lab_Boxes.wiki",
+        "page_title": "Lab Boxes",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5263,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Power Spinach"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/White_Satin_Sachet.wiki",
+    "best_wiki_title": "White Satin Sachet",
+    "candidate_confidence": 0.65,
+    "category_raw": "Instrument \"Attack\"",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "power_spinach",
+    "gear_name": "Power Spinach",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Power Spinach",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "White_Satin_Sachet.wiki",
+        "page_path": "game/sources/wiki_gg/White_Satin_Sachet.wiki",
+        "page_title": "White Satin Sachet",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5806,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Power Spinach",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Power_Amplifier.wiki",
+        "page_path": "game/sources/wiki_gg/Power_Amplifier.wiki",
+        "page_title": "Power Amplifier",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Power Spinach",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Hyper-Fusion.wiki",
+        "page_path": "game/sources/wiki_gg/Hyper-Fusion.wiki",
+        "page_title": "Hyper-Fusion",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.56,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Power Spinach",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Meowster_Seal.wiki",
+        "page_path": "game/sources/wiki_gg/Meowster_Seal.wiki",
+        "page_title": "Meowster Seal",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5385,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Power Spinach",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Pumpkin_Coach.wiki",
+        "page_path": "game/sources/wiki_gg/Pumpkin_Coach.wiki",
+        "page_title": "Pumpkin Coach",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5385,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Power Spinach",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Parsia.wiki",
+        "page_path": "game/sources/wiki_gg/Parsia.wiki",
+        "page_title": "Parsia",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5263,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Power Spinach",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Dwarf_Specimen.wiki",
+        "page_path": "game/sources/wiki_gg/Dwarf_Specimen.wiki",
+        "page_title": "Dwarf Specimen",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Power Spinach",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Hooke_s_Spring.wiki",
+        "page_path": "game/sources/wiki_gg/Hooke_s_Spring.wiki",
+        "page_title": "Hooke s Spring",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Power Spinach",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Weekly_Special.wiki",
+        "page_path": "game/sources/wiki_gg/Weekly_Special.wiki",
+        "page_title": "Weekly Special",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Power Spinach",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Willpower_Cell.wiki",
+        "page_path": "game/sources/wiki_gg/Willpower_Cell.wiki",
+        "page_title": "Willpower Cell",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Poseidon's Trident"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Positronic_Brain.wiki",
+    "best_wiki_title": "Positronic Brain",
+    "candidate_confidence": 0.65,
+    "category_raw": "Instrument \"Attack\"",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "poseidon_s_trident",
+    "gear_name": "Poseidon's Trident",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Poseidon's Trident",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Positronic_Brain.wiki",
+        "page_path": "game/sources/wiki_gg/Positronic_Brain.wiki",
+        "page_title": "Positronic Brain",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5882,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Poseidon's Trident",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Armstrong_s_Footprint.wiki",
+        "page_path": "game/sources/wiki_gg/Armstrong_s_Footprint.wiki",
+        "page_title": "Armstrong s Footprint",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5641,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Poseidon's Trident",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Curse_of_President.wiki",
+        "page_path": "game/sources/wiki_gg/Curse_of_President.wiki",
+        "page_title": "Curse of President",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5556,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Poseidon's Trident",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Impression_Sunrise.wiki",
+        "page_path": "game/sources/wiki_gg/Impression_Sunrise.wiki",
+        "page_title": "Impression Sunrise",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5556,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Poseidon's Trident",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Nemean_Lion_s_Hide.wiki",
+        "page_path": "game/sources/wiki_gg/Nemean_Lion_s_Hide.wiki",
+        "page_title": "Nemean Lion s Hide",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5556,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Poseidon's Trident",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "King_Sejong_s_Portrait.wiki",
+        "page_path": "game/sources/wiki_gg/King_Sejong_s_Portrait.wiki",
+        "page_title": "King Sejong s Portrait",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.55,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Poseidon's Trident",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Fleming_s_Diode.wiki",
+        "page_path": "game/sources/wiki_gg/Fleming_s_Diode.wiki",
+        "page_title": "Fleming s Diode",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Poseidon's Trident",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Icons_Fragments.wiki",
+        "page_path": "game/sources/wiki_gg/Icons_Fragments.wiki",
+        "page_title": "Icons Fragments",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Poseidon's Trident",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Pigeon_Specimen.wiki",
+        "page_path": "game/sources/wiki_gg/Pigeon_Specimen.wiki",
+        "page_title": "Pigeon Specimen",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Poseidon's Trident",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Icons_Events.wiki",
+        "page_path": "game/sources/wiki_gg/Icons_Events.wiki",
+        "page_title": "Icons Events",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5333,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Know-It-All Device"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Earth_s_Will_Device.wiki",
+    "best_wiki_title": "Earth s Will Device",
+    "candidate_confidence": 0.65,
+    "category_raw": "Instrument \"Attack\"",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "know_it_all_device",
+    "gear_name": "Know-It-All Device",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Know-It-All Device",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Earth_s_Will_Device.wiki",
+        "page_path": "game/sources/wiki_gg/Earth_s_Will_Device.wiki",
+        "page_title": "Earth s Will Device",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5946,
+        "token_overlap": 0.1667
+      },
+      {
+        "best_alias": "Know-It-All Device",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Inhibition_Device.wiki",
+        "page_path": "game/sources/wiki_gg/Inhibition_Device.wiki",
+        "page_title": "Inhibition Device",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.2
+      },
+      {
+        "best_alias": "Know-It-All Device",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Refuge_Portable_Device.wiki",
+        "page_path": "game/sources/wiki_gg/Refuge_Portable_Device.wiki",
+        "page_title": "Refuge Portable Device",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.55,
+        "token_overlap": 0.1667
+      },
+      {
+        "best_alias": "Know-It-All Device",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Learning_Device.wiki",
+        "page_path": "game/sources/wiki_gg/Learning_Device.wiki",
+        "page_title": "Learning Device",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.2
+      },
+      {
+        "best_alias": "Know-It-All Device",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Rebel_Device.wiki",
+        "page_path": "game/sources/wiki_gg/Rebel_Device.wiki",
+        "page_title": "Rebel Device",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5333,
+        "token_overlap": 0.2
+      },
+      {
+        "best_alias": "Know-It-All Device",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Demon_God_Device.wiki",
+        "page_path": "game/sources/wiki_gg/Demon_God_Device.wiki",
+        "page_title": "Demon God Device",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5294,
+        "token_overlap": 0.1667
+      },
+      {
+        "best_alias": "Know-It-All Device",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Snow_at_Louveciennes.wiki",
+        "page_path": "game/sources/wiki_gg/Snow_at_Louveciennes.wiki",
+        "page_title": "Snow at Louveciennes",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5263,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Know-It-All Device",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Domain_Device.wiki",
+        "page_path": "game/sources/wiki_gg/Domain_Device.wiki",
+        "page_title": "Domain Device",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5161,
+        "token_overlap": 0.2
+      },
+      {
+        "best_alias": "Know-It-All Device",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Agent_Permit_A-VI.wiki",
+        "page_path": "game/sources/wiki_gg/Agent_Permit_A-VI.wiki",
+        "page_title": "Agent Permit A-VI",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5143,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Know-It-All Device",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Orbital_Radar_Eye.wiki",
+        "page_path": "game/sources/wiki_gg/Orbital_Radar_Eye.wiki",
+        "page_title": "Orbital Radar Eye",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5143,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Golden Drazgul Fang"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "candidate_name_found_in_content_sample"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/CombatDamage.wiki",
+    "best_wiki_title": "CombatDamage",
+    "candidate_confidence": 0.65,
+    "category_raw": "Instrument \"Attack\"",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "golden_drazgul_fang",
+    "gear_name": "Golden Drazgul Fang",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Golden Drazgul Fang",
+        "content_hit": true,
+        "match_class": "weak_candidate",
+        "page_filename": "CombatDamage.wiki",
+        "page_path": "game/sources/wiki_gg/CombatDamage.wiki",
+        "page_title": "CombatDamage",
+        "reasons": [
+          "candidate_name_found_in_content_sample"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.129,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Golden Drazgul Fang",
+        "content_hit": true,
+        "match_class": "weak_candidate",
+        "page_filename": "Icons_Minigames.wiki",
+        "page_path": "game/sources/wiki_gg/Icons_Minigames.wiki",
+        "page_title": "Icons Minigames",
+        "reasons": [
+          "candidate_name_found_in_content_sample"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.1176,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Golden Drazgul Fang",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Golden_Radar.wiki",
+        "page_path": "game/sources/wiki_gg/Golden_Radar.wiki",
+        "page_title": "Golden Radar",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6452,
+        "token_overlap": 0.25
+      },
+      {
+        "best_alias": "Golden Drazgul Fang",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Gold_Dragon_Horn.wiki",
+        "page_path": "game/sources/wiki_gg/Gold_Dragon_Horn.wiki",
+        "page_title": "Gold Dragon Horn",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6286,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Golden Drazgul Fang",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Golden_Autumn.wiki",
+        "page_path": "game/sources/wiki_gg/Golden_Autumn.wiki",
+        "page_title": "Golden Autumn",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.625,
+        "token_overlap": 0.25
+      },
+      {
+        "best_alias": "Golden Drazgul Fang",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Golden_Finger.wiki",
+        "page_path": "game/sources/wiki_gg/Golden_Finger.wiki",
+        "page_title": "Golden Finger",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.625,
+        "token_overlap": 0.25
+      },
+      {
+        "best_alias": "Golden Drazgul Fang",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Golden_Ball_Award.wiki",
+        "page_path": "game/sources/wiki_gg/Golden_Ball_Award.wiki",
+        "page_title": "Golden Ball Award",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6111,
+        "token_overlap": 0.2
+      },
+      {
+        "best_alias": "Golden Drazgul Fang",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Golden_Ball.wiki",
+        "page_path": "game/sources/wiki_gg/Golden_Ball.wiki",
+        "page_title": "Golden Ball",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6,
+        "token_overlap": 0.25
+      },
+      {
+        "best_alias": "Golden Drazgul Fang",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Golden_Bull.wiki",
+        "page_path": "game/sources/wiki_gg/Golden_Bull.wiki",
+        "page_title": "Golden Bull",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6,
+        "token_overlap": 0.25
+      },
+      {
+        "best_alias": "Golden Drazgul Fang",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Golden_Apple.wiki",
+        "page_path": "game/sources/wiki_gg/Golden_Apple.wiki",
+        "page_title": "Golden Apple",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5806,
+        "token_overlap": 0.25
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Incredible Key"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Infrared_Eye.wiki",
+    "best_wiki_title": "Infrared Eye",
+    "candidate_confidence": 0.65,
+    "category_raw": "Instrument \"Attack\"",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "incredible_key",
+    "gear_name": "Incredible Key",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Incredible Key",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Infrared_Eye.wiki",
+        "page_path": "game/sources/wiki_gg/Infrared_Eye.wiki",
+        "page_title": "Infrared Eye",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6154,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Incredible Key",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Invisible_Relic.wiki",
+        "page_path": "game/sources/wiki_gg/Invisible_Relic.wiki",
+        "page_title": "Invisible Relic",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5517,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Incredible Key",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Indestructible_Body.wiki",
+        "page_path": "game/sources/wiki_gg/Indestructible_Body.wiki",
+        "page_title": "Indestructible Body",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Incredible Key",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Infernal_Eye.wiki",
+        "page_path": "game/sources/wiki_gg/Infernal_Eye.wiki",
+        "page_title": "Infernal Eye",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5385,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Incredible Key",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Container_Key.wiki",
+        "page_path": "game/sources/wiki_gg/Container_Key.wiki",
+        "page_title": "Container Key",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Incredible Key",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Gilded_Monkey.wiki",
+        "page_path": "game/sources/wiki_gg/Gilded_Monkey.wiki",
+        "page_title": "Gilded Monkey",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Incredible Key",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Nuremberg_Egg.wiki",
+        "page_path": "game/sources/wiki_gg/Nuremberg_Egg.wiki",
+        "page_title": "Nuremberg Egg",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Incredible Key",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Birdie.wiki",
+        "page_path": "game/sources/wiki_gg/Birdie.wiki",
+        "page_title": "Birdie",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Incredible Key",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Cracked_Bone_Shell.wiki",
+        "page_path": "game/sources/wiki_gg/Cracked_Bone_Shell.wiki",
+        "page_title": "Cracked Bone Shell",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Incredible Key",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Dinner_Credit_Card.wiki",
+        "page_path": "game/sources/wiki_gg/Dinner_Credit_Card.wiki",
+        "page_title": "Dinner Credit Card",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Ring of Paralysis"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Wing_of_Dracula.wiki",
+    "best_wiki_title": "Wing of Dracula",
+    "candidate_confidence": 0.65,
+    "category_raw": "Armor",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "ring_of_paralysis",
+    "gear_name": "Ring of Paralysis",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Ring of Paralysis",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Wing_of_Dracula.wiki",
+        "page_path": "game/sources/wiki_gg/Wing_of_Dracula.wiki",
+        "page_title": "Wing of Dracula",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.625,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Ring of Paralysis",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Rider_of_Darkness.wiki",
+        "page_path": "game/sources/wiki_gg/Rider_of_Darkness.wiki",
+        "page_title": "Rider of Darkness",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5882,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Ring of Paralysis",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Tail_of_Cataclysm.wiki",
+        "page_path": "game/sources/wiki_gg/Tail_of_Cataclysm.wiki",
+        "page_title": "Tail of Cataclysm",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5882,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Ring of Paralysis",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Burghers_of_Calais.wiki",
+        "page_path": "game/sources/wiki_gg/Burghers_of_Calais.wiki",
+        "page_title": "Burghers of Calais",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Ring of Paralysis",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Garden_of_Roses.wiki",
+        "page_path": "game/sources/wiki_gg/Garden_of_Roses.wiki",
+        "page_title": "Garden of Roses",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5625,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Ring of Paralysis",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Prince_of_Achae.wiki",
+        "page_path": "game/sources/wiki_gg/Prince_of_Achae.wiki",
+        "page_title": "Prince of Achae",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5625,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Ring of Paralysis",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Radiance_of_May.wiki",
+        "page_path": "game/sources/wiki_gg/Radiance_of_May.wiki",
+        "page_title": "Radiance of May",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5625,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Ring of Paralysis",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Garden_of_Arles.wiki",
+        "page_path": "game/sources/wiki_gg/The_Garden_of_Arles.wiki",
+        "page_title": "The Garden of Arles",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5556,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Ring of Paralysis",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Crown_of_Sin.wiki",
+        "page_path": "game/sources/wiki_gg/Crown_of_Sin.wiki",
+        "page_title": "Crown of Sin",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5517,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Ring of Paralysis",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Lord_of_Pain.wiki",
+        "page_path": "game/sources/wiki_gg/Lord_of_Pain.wiki",
+        "page_title": "Lord of Pain",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5517,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Dracula Cape"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Faraday_Cage.wiki",
+    "best_wiki_title": "Faraday Cage",
+    "candidate_confidence": 0.65,
+    "category_raw": "Armor",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "dracula_cape",
+    "gear_name": "Dracula Cape",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Dracula Cape",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Faraday_Cage.wiki",
+        "page_path": "game/sources/wiki_gg/Faraday_Cage.wiki",
+        "page_title": "Faraday Cage",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5833,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Dracula Cape",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Aladdin_s_Carpet.wiki",
+        "page_path": "game/sources/wiki_gg/Aladdin_s_Carpet.wiki",
+        "page_title": "Aladdin s Carpet",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Dracula Cape",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Astronaut_Cap.wiki",
+        "page_path": "game/sources/wiki_gg/Astronaut_Cap.wiki",
+        "page_title": "Astronaut Cap",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.56,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Dracula Cape",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Eternal_Scale.wiki",
+        "page_path": "game/sources/wiki_gg/Eternal_Scale.wiki",
+        "page_title": "Eternal Scale",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.56,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Dracula Cape",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Aulos_Pipe.wiki",
+        "page_path": "game/sources/wiki_gg/Aulos_Pipe.wiki",
+        "page_title": "Aulos Pipe",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Dracula Cape",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Wing_of_Dracula.wiki",
+        "page_path": "game/sources/wiki_gg/Wing_of_Dracula.wiki",
+        "page_title": "Wing of Dracula",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Dracula Cape",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Advanced_Camera.wiki",
+        "page_path": "game/sources/wiki_gg/Advanced_Camera.wiki",
+        "page_title": "Advanced Camera",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Dracula Cape",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Draconic_Pincer.wiki",
+        "page_path": "game/sources/wiki_gg/Draconic_Pincer.wiki",
+        "page_title": "Draconic Pincer",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Dracula Cape",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Dragon_Soul_Gem.wiki",
+        "page_path": "game/sources/wiki_gg/Dragon_Soul_Gem.wiki",
+        "page_title": "Dragon Soul Gem",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Dracula Cape",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Julian_Calendar.wiki",
+        "page_path": "game/sources/wiki_gg/Julian_Calendar.wiki",
+        "page_title": "Julian Calendar",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Fortress"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "candidate_name_found_in_content_sample"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Guide_Gear_Progression.wiki",
+    "best_wiki_title": "Guide Gear Progression",
+    "candidate_confidence": 0.65,
+    "category_raw": "Armor",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "fortress",
+    "gear_name": "Fortress",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Fortress",
+        "content_hit": true,
+        "match_class": "weak_candidate",
+        "page_filename": "Guide_Gear_Progression.wiki",
+        "page_path": "game/sources/wiki_gg/Guide_Gear_Progression.wiki",
+        "page_title": "Guide Gear Progression",
+        "reasons": [
+          "candidate_name_found_in_content_sample"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.3333,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fortress",
+        "content_hit": true,
+        "match_class": "weak_candidate",
+        "page_filename": "Bot-888.wiki",
+        "page_path": "game/sources/wiki_gg/Bot-888.wiki",
+        "page_title": "Bot-888",
+        "reasons": [
+          "candidate_name_found_in_content_sample"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.2667,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fortress",
+        "content_hit": true,
+        "match_class": "weak_candidate",
+        "page_filename": "Parsia_Key_Clues.wiki",
+        "page_path": "game/sources/wiki_gg/Parsia_Key_Clues.wiki",
+        "page_title": "Parsia Key Clues",
+        "reasons": [
+          "candidate_name_found_in_content_sample"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.25,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fortress",
+        "content_hit": true,
+        "match_class": "weak_candidate",
+        "page_filename": "Cathay_Cards.wiki",
+        "page_path": "game/sources/wiki_gg/Cathay_Cards.wiki",
+        "page_title": "Cathay Cards",
+        "reasons": [
+          "candidate_name_found_in_content_sample"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.2,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fortress",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "True_Cross.wiki",
+        "page_path": "game/sources/wiki_gg/True_Cross.wiki",
+        "page_title": "True Cross",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5556,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fortress",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Vortex_Mask.wiki",
+        "page_path": "game/sources/wiki_gg/Vortex_Mask.wiki",
+        "page_title": "Vortex Mask",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5263,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fortress",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Fayum_Portraits.wiki",
+        "page_path": "game/sources/wiki_gg/Fayum_Portraits.wiki",
+        "page_title": "Fayum Portraits",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5217,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fortress",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Socrates_Poison.wiki",
+        "page_path": "game/sources/wiki_gg/Socrates_Poison.wiki",
+        "page_title": "Socrates Poison",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5217,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fortress",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Facenote.wiki",
+        "page_path": "game/sources/wiki_gg/Facenote.wiki",
+        "page_title": "Facenote",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Fortress",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Locarno_Treaties.wiki",
+        "page_path": "game/sources/wiki_gg/Locarno_Treaties.wiki",
+        "page_title": "Locarno Treaties",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Traveler Outfit"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "moderate_title_similarity"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Travel_Permit.wiki",
+    "best_wiki_title": "Travel Permit",
+    "candidate_confidence": 0.65,
+    "category_raw": "Armor",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "traveler_outfit",
+    "gear_name": "Traveler Outfit",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Traveler Outfit",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "Travel_Permit.wiki",
+        "page_path": "game/sources/wiki_gg/Travel_Permit.wiki",
+        "page_title": "Travel Permit",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.7143,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Traveler Outfit",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "Traveler_Manual.wiki",
+        "page_path": "game/sources/wiki_gg/Traveler_Manual.wiki",
+        "page_title": "Traveler Manual",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.6667,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Traveler Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Traveler_Diploma.wiki",
+        "page_path": "game/sources/wiki_gg/Traveler_Diploma.wiki",
+        "page_title": "Traveler Diploma",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6452,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Traveler Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Traveler_Uniform.wiki",
+        "page_path": "game/sources/wiki_gg/Traveler_Uniform.wiki",
+        "page_title": "Traveler Uniform",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6452,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Traveler Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Traveler_0527.wiki",
+        "page_path": "game/sources/wiki_gg/Traveler_0527.wiki",
+        "page_title": "Traveler 0527",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6429,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Traveler Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Traveler_0528.wiki",
+        "page_path": "game/sources/wiki_gg/Traveler_0528.wiki",
+        "page_title": "Traveler 0528",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6429,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Traveler Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Traveler_0529.wiki",
+        "page_path": "game/sources/wiki_gg/Traveler_0529.wiki",
+        "page_title": "Traveler 0529",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6429,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Traveler Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Traveler_6147.wiki",
+        "page_path": "game/sources/wiki_gg/Traveler_6147.wiki",
+        "page_title": "Traveler 6147",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6429,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Traveler Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Tree_of_Life.wiki",
+        "page_path": "game/sources/wiki_gg/Tree_of_Life.wiki",
+        "page_title": "Tree of Life",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5926,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Traveler Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Ult._Traveler_Manual.wiki",
+        "page_path": "game/sources/wiki_gg/Ult._Traveler_Manual.wiki",
+        "page_title": "Ult. Traveler Manual",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5882,
+        "token_overlap": 0.25
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "The Great Magician"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/The_Scream_Guernica.wiki",
+    "best_wiki_title": "The Scream Guernica",
+    "candidate_confidence": 0.65,
+    "category_raw": "Armor",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "the_great_magician",
+    "gear_name": "The Great Magician",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "The Great Magician",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Scream_Guernica.wiki",
+        "page_path": "game/sources/wiki_gg/The_Scream_Guernica.wiki",
+        "page_title": "The Scream Guernica",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6486,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Magician",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Great_Gatsby.wiki",
+        "page_path": "game/sources/wiki_gg/The_Great_Gatsby.wiki",
+        "page_title": "The Great Gatsby",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6471,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "The Great Magician",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Theremin.wiki",
+        "page_path": "game/sources/wiki_gg/Theremin.wiki",
+        "page_title": "Theremin",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6154,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Magician",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Great_Mogul_Diamond.wiki",
+        "page_path": "game/sources/wiki_gg/Great_Mogul_Diamond.wiki",
+        "page_title": "Great Mogul Diamond",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5946,
+        "token_overlap": 0.25
+      },
+      {
+        "best_alias": "The Great Magician",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Dream.wiki",
+        "page_path": "game/sources/wiki_gg/The_Dream.wiki",
+        "page_title": "The Dream",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5926,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Magician",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Principia.wiki",
+        "page_path": "game/sources/wiki_gg/The_Principia.wiki",
+        "page_title": "The Principia",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5806,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Magician",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Great_Lich.wiki",
+        "page_path": "game/sources/wiki_gg/Great_Lich.wiki",
+        "page_title": "Great Lich",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "The Great Magician",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Literary_Mind.wiki",
+        "page_path": "game/sources/wiki_gg/The_Literary_Mind.wiki",
+        "page_title": "The Literary Mind",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Magician",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Scream.wiki",
+        "page_path": "game/sources/wiki_gg/The_Scream.wiki",
+        "page_title": "The Scream",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Magician",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Gilded_Age.wiki",
+        "page_path": "game/sources/wiki_gg/The_Gilded_Age.wiki",
+        "page_title": "The Gilded Age",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5625,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Antimatter Shield"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "moderate_title_similarity"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Antimatter_Bomb.wiki",
+    "best_wiki_title": "Antimatter Bomb",
+    "candidate_confidence": 0.65,
+    "category_raw": "Armor",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "antimatter_shield",
+    "gear_name": "Antimatter Shield",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Antimatter Shield",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "Antimatter_Bomb.wiki",
+        "page_path": "game/sources/wiki_gg/Antimatter_Bomb.wiki",
+        "page_title": "Antimatter Bomb",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.6875,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Antimatter Shield",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "Antimatter_Propulsion.wiki",
+        "page_path": "game/sources/wiki_gg/Antimatter_Propulsion.wiki",
+        "page_title": "Antimatter Propulsion",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.6842,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Antimatter Shield",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Kitten_Shell.wiki",
+        "page_path": "game/sources/wiki_gg/Kitten_Shell.wiki",
+        "page_title": "Kitten Shell",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6207,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Antimatter Shield",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Martyr_Shell.wiki",
+        "page_path": "game/sources/wiki_gg/Martyr_Shell.wiki",
+        "page_title": "Martyr Shell",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6207,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Antimatter Shield",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Dark_Matter_s_Heart.wiki",
+        "page_path": "game/sources/wiki_gg/Dark_Matter_s_Heart.wiki",
+        "page_title": "Dark Matter s Heart",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6111,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Antimatter Shield",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Tyrant_Turtle_Shell.wiki",
+        "page_path": "game/sources/wiki_gg/Tyrant_Turtle_Shell.wiki",
+        "page_title": "Tyrant Turtle Shell",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6111,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Antimatter Shield",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Phantom_Shell.wiki",
+        "page_path": "game/sources/wiki_gg/Phantom_Shell.wiki",
+        "page_title": "Phantom Shell",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.6,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Antimatter Shield",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Radiated_Spine.wiki",
+        "page_path": "game/sources/wiki_gg/Radiated_Spine.wiki",
+        "page_title": "Radiated Spine",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5806,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Antimatter Shield",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Titanium_Shell.wiki",
+        "page_path": "game/sources/wiki_gg/Titanium_Shell.wiki",
+        "page_title": "Titanium Shell",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5806,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Antimatter Shield",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Antimatter_Propulsion_TVC_Engine.wiki",
+        "page_path": "game/sources/wiki_gg/Antimatter_Propulsion_TVC_Engine.wiki",
+        "page_title": "Antimatter Propulsion TVC Engine",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5714,
+        "token_overlap": 0.2
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "The Great Entertainer"
+    ],
+    "best_match_class": "unlikely",
+    "best_reasons": [],
+    "best_score": 0.0,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/The_Great_Gatsby.wiki",
+    "best_wiki_title": "The Great Gatsby",
+    "candidate_confidence": 0.65,
+    "category_raw": "Armor",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "the_great_entertainer",
+    "gear_name": "The Great Entertainer",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "The Great Entertainer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Great_Gatsby.wiki",
+        "page_path": "game/sources/wiki_gg/The_Great_Gatsby.wiki",
+        "page_title": "The Great Gatsby",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5946,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "The Great Entertainer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Canterbury_Tales.wiki",
+        "page_path": "game/sources/wiki_gg/The_Canterbury_Tales.wiki",
+        "page_title": "The Canterbury Tales",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5854,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Entertainer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Mediterranean.wiki",
+        "page_path": "game/sources/wiki_gg/The_Mediterranean.wiki",
+        "page_title": "The Mediterranean",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5789,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Entertainer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Gate.wiki",
+        "page_path": "game/sources/wiki_gg/The_Gate.wiki",
+        "page_title": "The Gate",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5517,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Entertainer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Ape_God_Attestation.wiki",
+        "page_path": "game/sources/wiki_gg/Ape_God_Attestation.wiki",
+        "page_title": "Ape God Attestation",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.55,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Entertainer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Scream_Guernica.wiki",
+        "page_path": "game/sources/wiki_gg/The_Scream_Guernica.wiki",
+        "page_title": "The Scream Guernica",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.55,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Entertainer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Treaty_of_Versailles.wiki",
+        "page_path": "game/sources/wiki_gg/Treaty_of_Versailles.wiki",
+        "page_title": "Treaty of Versailles",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5366,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Entertainer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Decameron.wiki",
+        "page_path": "game/sources/wiki_gg/The_Decameron.wiki",
+        "page_title": "The Decameron",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5294,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Entertainer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Secret_Tea_Recipe.wiki",
+        "page_path": "game/sources/wiki_gg/Secret_Tea_Recipe.wiki",
+        "page_title": "Secret Tea Recipe",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5263,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "The Great Entertainer",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "The_Art_of_Poetry.wiki",
+        "page_path": "game/sources/wiki_gg/The_Art_of_Poetry.wiki",
+        "page_title": "The Art of Poetry",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5263,
+        "token_overlap": 0.0
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Agamemnon Outfit"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "moderate_title_similarity"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Agamemnon_Mask.wiki",
+    "best_wiki_title": "Agamemnon Mask",
+    "candidate_confidence": 0.65,
+    "category_raw": "Armor",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "agamemnon_outfit",
+    "gear_name": "Agamemnon Outfit",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Agamemnon Outfit",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "Agamemnon_Mask.wiki",
+        "page_path": "game/sources/wiki_gg/Agamemnon_Mask.wiki",
+        "page_title": "Agamemnon Mask",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.6667,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Agamemnon Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Agamemnon_Ambassadors.wiki",
+        "page_path": "game/sources/wiki_gg/Agamemnon_Ambassadors.wiki",
+        "page_title": "Agamemnon Ambassadors",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5946,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Agamemnon Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Argonautica.wiki",
+        "page_path": "game/sources/wiki_gg/Argonautica.wiki",
+        "page_title": "Argonautica",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5185,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Agamemnon Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Demon_Container.wiki",
+        "page_path": "game/sources/wiki_gg/Demon_Container.wiki",
+        "page_title": "Demon Container",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5161,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Agamemnon Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Dragon_Artifact.wiki",
+        "page_path": "game/sources/wiki_gg/Dragon_Artifact.wiki",
+        "page_title": "Dragon Artifact",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5161,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Agamemnon Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Lennon_s_Guitar.wiki",
+        "page_path": "game/sources/wiki_gg/Lennon_s_Guitar.wiki",
+        "page_title": "Lennon s Guitar",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5161,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Agamemnon Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Vaucanson_Robot.wiki",
+        "page_path": "game/sources/wiki_gg/Vaucanson_Robot.wiki",
+        "page_title": "Vaucanson Robot",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5161,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Agamemnon Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Washington_Portrait.wiki",
+        "page_path": "game/sources/wiki_gg/Washington_Portrait.wiki",
+        "page_title": "Washington Portrait",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5143,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Agamemnon Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Agamemnon_Mask_Tutankhamun_Mask.wiki",
+        "page_path": "game/sources/wiki_gg/Agamemnon_Mask_Tutankhamun_Mask.wiki",
+        "page_title": "Agamemnon Mask Tutankhamun Mask",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5106,
+        "token_overlap": 0.25
+      },
+      {
+        "best_alias": "Agamemnon Outfit",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Agamemnon_Ambassadors_Venetian_Mask.wiki",
+        "page_path": "game/sources/wiki_gg/Agamemnon_Ambassadors_Venetian_Mask.wiki",
+        "page_title": "Agamemnon Ambassadors Venetian Mask",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5098,
+        "token_overlap": 0.2
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "Libra Artifact"
+    ],
+    "best_match_class": "weak_candidate",
+    "best_reasons": [
+      "moderate_title_similarity"
+    ],
+    "best_score": 0.35,
+    "best_snippet": null,
+    "best_wiki_page": "game/sources/wiki_gg/Dragon_Artifact.wiki",
+    "best_wiki_title": "Dragon Artifact",
+    "candidate_confidence": 0.65,
+    "category_raw": "Armor",
+    "created_at": "2026-05-06T15:44:58.698517+00:00",
+    "gear_id": "libra_artifact",
+    "gear_name": "Libra Artifact",
+    "review_status": "no_good_wiki_match",
+    "slot_raw": null,
+    "source_file": "game/data/candidates/phase1c_gear_calculator/gear_items.candidates.json",
+    "top_matches": [
+      {
+        "best_alias": "Libra Artifact",
+        "content_hit": false,
+        "match_class": "weak_candidate",
+        "page_filename": "Dragon_Artifact.wiki",
+        "page_path": "game/sources/wiki_gg/Dragon_Artifact.wiki",
+        "page_title": "Dragon Artifact",
+        "reasons": [
+          "moderate_title_similarity"
+        ],
+        "score": 0.35,
+        "title_similarity": 0.7586,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Libra Artifact",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Libra.wiki",
+        "page_path": "game/sources/wiki_gg/Libra.wiki",
+        "page_title": "Libra",
+        "reasons": [
+          "moderate_token_overlap"
+        ],
+        "score": 0.25,
+        "title_similarity": 0.5263,
+        "token_overlap": 0.5
+      },
+      {
+        "best_alias": "Libra Artifact",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Libra_Scorpio.wiki",
+        "page_path": "game/sources/wiki_gg/Libra_Scorpio.wiki",
+        "page_title": "Libra Scorpio",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5926,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Libra Artifact",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Libra_Sagittarius.wiki",
+        "page_path": "game/sources/wiki_gg/Libra_Sagittarius.wiki",
+        "page_title": "Libra Sagittarius",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5806,
+        "token_overlap": 0.3333
+      },
+      {
+        "best_alias": "Libra Artifact",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Roslin_Certificate.wiki",
+        "page_path": "game/sources/wiki_gg/Roslin_Certificate.wiki",
+        "page_title": "Roslin Certificate",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5625,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Libra Artifact",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Planter_Certificate.wiki",
+        "page_path": "game/sources/wiki_gg/Planter_Certificate.wiki",
+        "page_title": "Planter Certificate",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5455,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Libra Artifact",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Ram_in_a_Thicket.wiki",
+        "page_path": "game/sources/wiki_gg/Ram_in_a_Thicket.wiki",
+        "page_title": "Ram in a Thicket",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5333,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Libra Artifact",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Ave_Maria.wiki",
+        "page_path": "game/sources/wiki_gg/Ave_Maria.wiki",
+        "page_title": "Ave Maria",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5217,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Libra Artifact",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "Lucian_Argentlily.wiki",
+        "page_path": "game/sources/wiki_gg/Lucian_Argentlily.wiki",
+        "page_title": "Lucian Argentlily",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5161,
+        "token_overlap": 0.0
+      },
+      {
+        "best_alias": "Libra Artifact",
+        "content_hit": false,
+        "match_class": "unlikely",
+        "page_filename": "British_Naval_Certificate.wiki",
+        "page_path": "game/sources/wiki_gg/British_Naval_Certificate.wiki",
+        "page_title": "British Naval Certificate",
+        "reasons": [],
+        "score": 0.0,
+        "title_similarity": 0.5128,
+        "token_overlap": 0.0
+      }
+    ]
+  }
+]
