@@ -1,0 +1,57 @@
+{
+  "canonical_qa_pass": true,
+  "canonical_record_count": 313,
+  "duplicate_ids": {},
+  "duplicate_names": {},
+  "exports": [
+    {
+      "bytes": 321263,
+      "path": "game/data/exports/gear/gear.by-tier.json",
+      "sha256": "d0d44b3f95b88b38d19e5bb6f66b02d2ae435dabd737e150b9e69cab19b2d41a"
+    },
+    {
+      "bytes": 321472,
+      "path": "game/data/exports/gear/gear.canonical.full.json",
+      "sha256": "952ec8d74041d650360f27d008c5bbca8426b95b1dad78586ec2c4612cd2c5b9"
+    },
+    {
+      "bytes": 91429,
+      "path": "game/data/exports/gear/gear.search.json",
+      "sha256": "6d630b604b557d7fa280888889b4b2197159c4a76028d4cfe2cac68e672796a9"
+    },
+    {
+      "bytes": 73897,
+      "path": "game/data/exports/gear/gear.stats-summary.json",
+      "sha256": "993b37859f478f538da89bca91ec999abc7b3f000e6148cc454f1fa691a72e1e"
+    },
+    {
+      "bytes": 38696,
+      "path": "game/data/exports/gear/gear.web.cards.csv",
+      "sha256": "abade5cb1ab51a9e12887646756868c03550dc6aba59eb9b00dedb9d4c66c59c"
+    },
+    {
+      "bytes": 103358,
+      "path": "game/data/exports/gear/gear.web.cards.json",
+      "sha256": "5adbab8ec96b6607fe7192443c711d29ee1e586dfd56e9f4d156f0ced96af76c"
+    }
+  ],
+  "generated_at": "2026-05-06T17:10:17.031217+00:00",
+  "index_record_count": 313,
+  "phase": "1C.7",
+  "schema_required": [
+    "id",
+    "name",
+    "tier_color",
+    "base_stats",
+    "source"
+  ],
+  "schema_title": "Gear Entity Schema v2 Proposal",
+  "tier_counts": {
+    "blue": 33,
+    "gray": 25,
+    "green": 36,
+    "orange": 91,
+    "purple": 48,
+    "red": 80
+  }
+}

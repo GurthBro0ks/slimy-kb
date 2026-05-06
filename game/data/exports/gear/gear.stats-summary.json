@@ -1,0 +1,3762 @@
+{
+  "generated_at": "2026-05-06T17:10:17.031217+00:00",
+  "record_count": 313,
+  "records": [
+    {
+      "id": "flower_crown",
+      "name": "Flower Crown",
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 100,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 110
+    },
+    {
+      "id": "wooden_ring",
+      "name": "Wooden Ring",
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 100,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 110
+    },
+    {
+      "id": "beast_fang",
+      "name": "Beast Fang",
+      "stats": {
+        "atk": 10,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "broken_hour_hand",
+      "name": "Broken Hour Hand",
+      "stats": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "rush": 20
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "broken_minute_hand",
+      "name": "Broken Minute Hand",
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "broken_second_hand",
+      "name": "Broken Second Hand",
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "bronze_helmet",
+      "name": "Bronze Helmet",
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "crowbar",
+      "name": "Crowbar",
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "gentleman_s_staff",
+      "name": "Gentleman's Staff",
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "ice_skates",
+      "name": "Ice Skates",
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "iron_helmet",
+      "name": "Iron Helmet",
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "iron_ring",
+      "name": "Iron Ring",
+      "stats": {
+        "atk": 10,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "javelin",
+      "name": "Javelin",
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "khopesh",
+      "name": "Khopesh",
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "light_yamato_armor",
+      "name": "Light Yamato Armor",
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "linen_robe",
+      "name": "Linen Robe",
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "parsian_kite_shield",
+      "name": "Parsian Kite Shield",
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "parsian_pike",
+      "name": "Parsian Pike",
+      "stats": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "rush": 20
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "podao",
+      "name": "Podao",
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "royal_underwear",
+      "name": "Royal Underwear",
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "sikh_turban",
+      "name": "Sikh Turban",
+      "stats": {
+        "atk": 0,
+        "def": 20,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "smoothbore",
+      "name": "Smoothbore",
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "tactical_boots",
+      "name": "Tactical Boots",
+      "stats": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "rush": 20
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "top_hat",
+      "name": "Top Hat",
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "twin_tip_dagger",
+      "name": "Twin Tip Dagger",
+      "stats": {
+        "atk": 20,
+        "def": 0,
+        "hp": 0,
+        "rush": 0
+      },
+      "tier_color": "gray",
+      "total_hard_stats": 20
+    },
+    {
+      "id": "golden_yamato_armor",
+      "name": "Golden Yamato Armor",
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green",
+      "total_hard_stats": 310
+    },
+    {
+      "id": "heart_protection_mirror",
+      "name": "Heart-Protection Mirror",
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green",
+      "total_hard_stats": 310
+    },
+    {
+      "id": "heavy_infantry_helmet",
+      "name": "Heavy Infantry Helmet",
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green",
+      "total_hard_stats": 310
+    },
+    {
+      "id": "leather_shield",
+      "name": "Leather Shield",
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green",
+      "total_hard_stats": 310
+    },
+    {
+      "id": "motorbike_helmet",
+      "name": "Motorbike Helmet",
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green",
+      "total_hard_stats": 310
+    },
+    {
+      "id": "mughal_soldier_helmet",
+      "name": "Mughal Soldier Helmet",
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green",
+      "total_hard_stats": 310
+    },
+    {
+      "id": "pesh_kabz",
+      "name": "Pesh-Kabz",
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green",
+      "total_hard_stats": 310
+    },
+    {
+      "id": "royal_guard_bearskin_hat",
+      "name": "Royal Guard Bearskin Hat",
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green",
+      "total_hard_stats": 310
+    },
+    {
+      "id": "tactical_vest",
+      "name": "Tactical Vest",
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green",
+      "total_hard_stats": 310
+    },
+    {
+      "id": "time_cog",
+      "name": "Time Cog",
+      "stats": {
+        "atk": 0,
+        "def": 10,
+        "hp": 300,
+        "rush": 0
+      },
+      "tier_color": "green",
+      "total_hard_stats": 310
+    },
+    {
+      "id": "sorcerer_ring",
+      "name": "Sorcerer Ring",
+      "stats": {
+        "atk": 5,
+        "def": 15,
+        "hp": 150,
+        "rush": 15
+      },
+      "tier_color": "green",
+      "total_hard_stats": 185
+    },
+    {
+      "id": "lotus_platform",
+      "name": "Lotus Platform",
+      "stats": {
+        "atk": 5,
+        "def": 5,
+        "hp": 150,
+        "rush": 15
+      },
+      "tier_color": "green",
+      "total_hard_stats": 175
+    },
+    {
+      "id": "white_pearl",
+      "name": "White Pearl",
+      "stats": {
+        "atk": 5,
+        "def": 15,
+        "hp": 150,
+        "rush": 5
+      },
+      "tier_color": "green",
+      "total_hard_stats": 175
+    },
+    {
+      "id": "crystal_lens",
+      "name": "Crystal Lens",
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "green",
+      "total_hard_stats": 130
+    },
+    {
+      "id": "fresnal_lens",
+      "name": "Fresnal Lens",
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "green",
+      "total_hard_stats": 130
+    },
+    {
+      "id": "black_pearl",
+      "name": "Black Pearl",
+      "stats": {
+        "atk": 15,
+        "def": 5,
+        "hp": 50,
+        "rush": 15
+      },
+      "tier_color": "green",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "broken_sageender",
+      "name": "Broken Sageender",
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "broken_sagemurderer",
+      "name": "Broken Sagemurderer",
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "broken_sagesinker",
+      "name": "Broken Sagesinker",
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "hannibel_s_scalpel",
+      "name": "Hannibel's Scalpel",
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "jack_s_gloves",
+      "name": "Jack's Gloves",
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "shattered_fire_spear",
+      "name": "Shattered Fire Spear",
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "shattered_palm_leaf_fan",
+      "name": "Shattered Palm-Leaf Fan",
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "shattered_sky_ribbon",
+      "name": "Shattered Sky Ribbon",
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "shattered_windfire_wheel",
+      "name": "Shattered Windfire Wheel",
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "green",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "warrior_ring",
+      "name": "Warrior Ring",
+      "stats": {
+        "atk": 15,
+        "def": 5,
+        "hp": 50,
+        "rush": 15
+      },
+      "tier_color": "green",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "bichaq",
+      "name": "Bichaq",
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green",
+      "total_hard_stats": 40
+    },
+    {
+      "id": "colt_revolver",
+      "name": "Colt Revolver",
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green",
+      "total_hard_stats": 40
+    },
+    {
+      "id": "lee_enfield_rifle",
+      "name": "Lee Enfield Rifle",
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green",
+      "total_hard_stats": 40
+    },
+    {
+      "id": "legion_javelins",
+      "name": "Legion Javelins",
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green",
+      "total_hard_stats": 40
+    },
+    {
+      "id": "ninjutsu_armband",
+      "name": "Ninjutsu Armband",
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green",
+      "total_hard_stats": 40
+    },
+    {
+      "id": "pata",
+      "name": "Pata",
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green",
+      "total_hard_stats": 40
+    },
+    {
+      "id": "poisoned_dagger",
+      "name": "Poisoned Dagger",
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green",
+      "total_hard_stats": 40
+    },
+    {
+      "id": "switchblade",
+      "name": "Switchblade",
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green",
+      "total_hard_stats": 40
+    },
+    {
+      "id": "time_hand",
+      "name": "Time Hand",
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green",
+      "total_hard_stats": 40
+    },
+    {
+      "id": "wu_scimitar",
+      "name": "Wu Scimitar",
+      "stats": {
+        "atk": 30,
+        "def": 0,
+        "hp": 0,
+        "rush": 10
+      },
+      "tier_color": "green",
+      "total_hard_stats": 40
+    },
+    {
+      "id": "ancient_blade",
+      "name": "Ancient Blade",
+      "stats": {
+        "atk": 300,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 440
+    },
+    {
+      "id": "crimson_haori_jacket",
+      "name": "Crimson Haori Jacket",
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 350
+    },
+    {
+      "id": "lotus_platform_iii",
+      "name": "Lotus Platform III",
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 300,
+        "rush": 30
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 350
+    },
+    {
+      "id": "sapphire_brooch",
+      "name": "Sapphire Brooch",
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 350
+    },
+    {
+      "id": "shamshir",
+      "name": "Shamshir",
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 350
+    },
+    {
+      "id": "wizard_ring",
+      "name": "Wizard Ring",
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 350
+    },
+    {
+      "id": "bulletproof_vest",
+      "name": "Bulletproof Vest",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "infrared_lens",
+      "name": "Infrared Lens",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "mahatma_s_robe",
+      "name": "Mahatma's Robe",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "multifunction_goggles",
+      "name": "Multifunction Goggles",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "pasgt_helmet",
+      "name": "PASGT Helmet",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "rainbow_tassel",
+      "name": "Rainbow Tassel",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "servant_spirit_pendant",
+      "name": "Servant Spirit Pendant",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "spartan_shield",
+      "name": "Spartan Shield",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "tactical_helmet",
+      "name": "Tactical Helmet",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "time_blade",
+      "name": "Time Blade",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "tuxedo",
+      "name": "Tuxedo",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "war_scythes",
+      "name": "War Scythes",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "assault_rifle_model_98",
+      "name": "Assault Rifle Model 98",
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "broken_fiend_mirror",
+      "name": "Broken Fiend Mirror",
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "broken_godsmiter",
+      "name": "Broken Godsmiter",
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "broken_palm_leaf_fan",
+      "name": "Broken Palm-Leaf Fan",
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "crusader_ring",
+      "name": "Crusader Ring",
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "duckbill_axe",
+      "name": "Duckbill Axe",
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "freddy_s_claw",
+      "name": "Freddy's Claw",
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "jason_s_mask",
+      "name": "Jason's Mask",
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "kukri",
+      "name": "Kukri",
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "macedonian_spear",
+      "name": "Macedonian Spear",
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "ruby_brooch",
+      "name": "Ruby Brooch",
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "springfield_rifle",
+      "name": "Springfield Rifle",
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "sword_cane",
+      "name": "Sword Cane",
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "time_wheel",
+      "name": "Time Wheel",
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "broken_sagekiller",
+      "name": "Broken Sagekiller",
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "blue",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "achilles_shield",
+      "name": "Achilles' Shield",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "arabic_dagger",
+      "name": "Arabic Dagger",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "caeser_s_laurel",
+      "name": "Caeser's Laurel",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "genji_helmet",
+      "name": "Genji Helmet",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "golden_bronze_dagger",
+      "name": "Golden Bronze Dagger",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "heaven_amulet",
+      "name": "Heaven Amulet",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "heraclius_silver_staff",
+      "name": "Heraclius' Silver Staff",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "holographic_tactical_glasses",
+      "name": "Holographic Tactical Glasses",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "icy_bracelet",
+      "name": "Icy Bracelet",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "justinian_s_robe",
+      "name": "Justinian's Robe",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "long_range_scope",
+      "name": "Long Range Scope",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "lotus_platform_vi",
+      "name": "Lotus Platform VI",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "pharaoh_s_scepter",
+      "name": "Pharaoh's Scepter",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "royal_banner",
+      "name": "Royal Banner",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "royal_wootz_blade",
+      "name": "Royal Wootz Blade",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "sun_mirror_armor",
+      "name": "Sun Mirror Armor",
+      "stats": {
+        "atk": 20,
+        "def": 60,
+        "hp": 600,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "antelope_horn_shield",
+      "name": "Antelope Horn Shield",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 520
+    },
+    {
+      "id": "britland_crown",
+      "name": "Britland Crown",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 520
+    },
+    {
+      "id": "feline_shield",
+      "name": "Feline Shield",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 520
+    },
+    {
+      "id": "gas_mask",
+      "name": "Gas Mask",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 520
+    },
+    {
+      "id": "genji_shield",
+      "name": "Genji Shield",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 520
+    },
+    {
+      "id": "mechanical_exoskeleton",
+      "name": "Mechanical Exoskeleton",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 520
+    },
+    {
+      "id": "priestly_robe",
+      "name": "Priestly Robe",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 520
+    },
+    {
+      "id": "silver_lion",
+      "name": "Silver Lion",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 520
+    },
+    {
+      "id": "7_star_blade",
+      "name": "7-Star Blade",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "abyss_amulet",
+      "name": "Abyss Amulet",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "assassin_s_gauntlet",
+      "name": "Assassin's Gauntlet",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "blade_muramasa",
+      "name": "Blade Muramasa",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "dim_godsmiter",
+      "name": "Dim Godsmiter",
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "dim_ironcutter",
+      "name": "Dim Ironcutter",
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "dim_rope_of_truth",
+      "name": "Dim Rope of Truth",
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "dim_trident",
+      "name": "Dim Trident",
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "genji_gloves",
+      "name": "Genji Gloves",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "golden_assault_rifle",
+      "name": "Golden Assault Rifle",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "guardian_s_longsword",
+      "name": "Guardian's Longsword",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "hector_s_spear",
+      "name": "Hector's Spear",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "m4_carbine",
+      "name": "M4 Carbine",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "mughal_scimitar",
+      "name": "Mughal Scimitar",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "parsian_composite_bow",
+      "name": "Parsian Composite Bow",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "powered_glove",
+      "name": "Powered Glove",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "seething_bracelet",
+      "name": "Seething Bracelet",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "shotgun_umbrella",
+      "name": "Shotgun Umbrella",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "spacetime_echo",
+      "name": "Spacetime Echo",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "holographic_lens",
+      "name": "Holographic Lens",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "scout_goggles",
+      "name": "Scout Goggles",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "time_flute",
+      "name": "Time Flute",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "cayako_s_charm",
+      "name": "Cayako's Charm",
+      "stats": {
+        "atk": 10,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 250
+    },
+    {
+      "id": "texan_chainsaw",
+      "name": "Texan Chainsaw",
+      "stats": {
+        "atk": 10,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "purple",
+      "total_hard_stats": 250
+    },
+    {
+      "id": "curator_s_helmet",
+      "name": "Curator's Helmet",
+      "stats": {
+        "atk": 40,
+        "def": 120,
+        "hp": 1200,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1400
+    },
+    {
+      "id": "gold_outfit",
+      "name": "Gold Outfit",
+      "stats": {
+        "atk": 40,
+        "def": 120,
+        "hp": 1200,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1400
+    },
+    {
+      "id": "heaven_wings",
+      "name": "Heaven Wings",
+      "stats": {
+        "atk": 40,
+        "def": 120,
+        "hp": 1200,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1400
+    },
+    {
+      "id": "lotus_platform_ix",
+      "name": "Lotus Platform IX",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1400
+    },
+    {
+      "id": "time_amulet",
+      "name": "Time Amulet",
+      "stats": {
+        "atk": 40,
+        "def": 120,
+        "hp": 1200,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1400
+    },
+    {
+      "id": "thorn",
+      "name": "Thorn",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 1000,
+        "rush": 20
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1060
+    },
+    {
+      "id": "arrow_of_arash",
+      "name": "Arrow of Arash",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "battle_detector",
+      "name": "Battle Detector",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "blasphemy_eye",
+      "name": "Blasphemy Eye",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "conqueror_spear",
+      "name": "Conqueror Spear",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "crystal_of_will",
+      "name": "Crystal of Will",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "demon_god_crystal",
+      "name": "Demon God Crystal",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "eternal_empire_staff",
+      "name": "Eternal Empire Staff",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "eye_of_horus",
+      "name": "Eye of Horus",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "genji_armor",
+      "name": "Genji Armor",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "horse_helmet",
+      "name": "Horse Helmet",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "indra_s_crown",
+      "name": "Indra's Crown",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "indv_power_armor",
+      "name": "Indv. Power Armor",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "millennium_ring",
+      "name": "Millennium Ring",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "power_armor",
+      "name": "Power Armor",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "virgo_tech",
+      "name": "Virgo Tech",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "windsor_s_cape",
+      "name": "Windsor's cape",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "wisdom_cloak",
+      "name": "Wisdom Cloak",
+      "stats": {
+        "atk": 80,
+        "def": 80,
+        "hp": 800,
+        "rush": 80
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 1040
+    },
+    {
+      "id": "drazgul_fang",
+      "name": "Drazgul Fang",
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 200
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 840
+    },
+    {
+      "id": "maze_key",
+      "name": "Maze Key",
+      "stats": {
+        "atk": 200,
+        "def": 200,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 840
+    },
+    {
+      "id": "teslla",
+      "name": "Teslla",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 700
+    },
+    {
+      "id": "abyss_wings",
+      "name": "Abyss Wings",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "anti_strength_saber",
+      "name": "Anti-Strength Saber",
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "ashoka_s_sword",
+      "name": "Ashoka's Sword",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "azazel_s_curse",
+      "name": "Azazel's Curse",
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "b_tadpole_sword",
+      "name": "B-Tadpole Sword",
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "blade_murasame",
+      "name": "Blade Murasame",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "broken_caladbolg",
+      "name": "Broken Caladbolg",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "broken_dragon_horn",
+      "name": "Broken Dragon Horn",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "butcher_s_hook",
+      "name": "Butcher's Hook",
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "chief",
+      "name": "Chief",
+      "stats": {
+        "atk": 40,
+        "def": 200,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "couple_swords",
+      "name": "Couple Swords",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "damascus_knife",
+      "name": "Damascus Knife",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "electric_hammer",
+      "name": "Electric Hammer",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 200
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "eternal_return",
+      "name": "Eternal Return",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "excalibur",
+      "name": "Excalibur",
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "fire_of_rage",
+      "name": "Fire of Rage",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "fossil",
+      "name": "Fossil",
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "gear_ring",
+      "name": "Gear Ring",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 200
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "indv_high_explosive_rifle",
+      "name": "Indv. High-explosive Rifle",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "jade_saber",
+      "name": "Jade Saber",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "jung_geun_s_gun",
+      "name": "Jung-geun's Gun",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "lion_s_crown",
+      "name": "Lion's Crown",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "stardust_arrow",
+      "name": "Stardust Arrow",
+      "stats": {
+        "atk": 120,
+        "def": 40,
+        "hp": 400,
+        "rush": 120
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "trident",
+      "name": "Trident",
+      "stats": {
+        "atk": 200,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 680
+    },
+    {
+      "id": "death_shroud",
+      "name": "Death Shroud",
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 500,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 530
+    },
+    {
+      "id": "crown_of_power",
+      "name": "Crown of Power",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 520
+    },
+    {
+      "id": "magician",
+      "name": "Magician",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 520
+    },
+    {
+      "id": "saint_s_earring",
+      "name": "Saint's Earring",
+      "stats": {
+        "atk": 40,
+        "def": 40,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 520
+    },
+    {
+      "id": "alloy_shield",
+      "name": "Alloy Shield",
+      "stats": {
+        "atk": 40,
+        "def": 20,
+        "hp": 400,
+        "rush": 40
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 500
+    },
+    {
+      "id": "peacock_quill",
+      "name": "Peacock Quill",
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 100
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 420
+    },
+    {
+      "id": "diver",
+      "name": "Diver",
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 300,
+        "rush": 30
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 350
+    },
+    {
+      "id": "pirate",
+      "name": "Pirate",
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 350
+    },
+    {
+      "id": "prayer_staff",
+      "name": "Prayer Staff",
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 300,
+        "rush": 30
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 350
+    },
+    {
+      "id": "the_buried",
+      "name": "The Buried",
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 350
+    },
+    {
+      "id": "undead_staff",
+      "name": "Undead Staff",
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 350
+    },
+    {
+      "id": "workout_top",
+      "name": "Workout Top",
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 300,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 350
+    },
+    {
+      "id": "crimson_dragon_claw",
+      "name": "Crimson Dragon Claw",
+      "stats": {
+        "atk": 60,
+        "def": 20,
+        "hp": 200,
+        "rush": 60
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "imitation_vision",
+      "name": "Imitation Vision",
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "leviathan_gloves",
+      "name": "Leviathan Gloves",
+      "stats": {
+        "atk": 100,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "ring_of_stupor",
+      "name": "Ring of Stupor",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 100
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 340
+    },
+    {
+      "id": "lizard_belt",
+      "name": "Lizard Belt",
+      "stats": {
+        "atk": 5,
+        "def": 5,
+        "hp": 250,
+        "rush": 5
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 265
+    },
+    {
+      "id": "elven_cape",
+      "name": "Elven Cape",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 260
+    },
+    {
+      "id": "hammer_of_frenzy",
+      "name": "Hammer of Frenzy",
+      "stats": {
+        "atk": 20,
+        "def": 20,
+        "hp": 200,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 250
+    },
+    {
+      "id": "spring_longsword",
+      "name": "Spring Longsword",
+      "stats": {
+        "atk": 10,
+        "def": 20,
+        "hp": 200,
+        "rush": 20
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 250
+    },
+    {
+      "id": "lifebuoy",
+      "name": "Lifebuoy",
+      "stats": {
+        "atk": 5,
+        "def": 15,
+        "hp": 150,
+        "rush": 5
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 175
+    },
+    {
+      "id": "demon_scythe",
+      "name": "Demon Scythe",
+      "stats": {
+        "atk": 30,
+        "def": 30,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "dragon_fang_dagger",
+      "name": "Dragon Fang Dagger",
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "gauss_c14",
+      "name": "Gauss C14",
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "iron_track",
+      "name": "Iron Track",
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 100,
+        "rush": 50
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "mark_ii",
+      "name": "Mark II",
+      "stats": {
+        "atk": 10,
+        "def": 30,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "mind_control_dagger",
+      "name": "Mind Control Dagger",
+      "stats": {
+        "atk": 30,
+        "def": 10,
+        "hp": 100,
+        "rush": 30
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "nun_chuck",
+      "name": "Nun-chuck",
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "pulse_rifle",
+      "name": "Pulse Rifle",
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "sakabato_blade",
+      "name": "Sakabato Blade",
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "strong_round_shield",
+      "name": "Strong Round Shield",
+      "stats": {
+        "atk": 10,
+        "def": 50,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "walnut_wand",
+      "name": "Walnut Wand",
+      "stats": {
+        "atk": 50,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 170
+    },
+    {
+      "id": "sailor_suit",
+      "name": "Sailor Suit",
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 130
+    },
+    {
+      "id": "stage_hat",
+      "name": "Stage Hat",
+      "stats": {
+        "atk": 10,
+        "def": 10,
+        "hp": 100,
+        "rush": 10
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 130
+    },
+    {
+      "id": "dwarf_mask",
+      "name": "Dwarf Mask",
+      "stats": {
+        "atk": 5,
+        "def": 25,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "elegant_gloves",
+      "name": "Elegant Gloves",
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "leather_chest_armor",
+      "name": "Leather Chest Armor",
+      "stats": {
+        "atk": 15,
+        "def": 5,
+        "hp": 50,
+        "rush": 15
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "rock",
+      "name": "Rock",
+      "stats": {
+        "atk": 5,
+        "def": 25,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "slippers",
+      "name": "Slippers",
+      "stats": {
+        "atk": 5,
+        "def": 5,
+        "hp": 50,
+        "rush": 25
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "static_belt",
+      "name": "Static Belt",
+      "stats": {
+        "atk": 5,
+        "def": 5,
+        "hp": 50,
+        "rush": 25
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "strength_sword",
+      "name": "Strength Sword",
+      "stats": {
+        "atk": 25,
+        "def": 5,
+        "hp": 50,
+        "rush": 5
+      },
+      "tier_color": "orange",
+      "total_hard_stats": 85
+    },
+    {
+      "id": "agamemnon_outfit",
+      "name": "Agamemnon Outfit",
+      "stats": {
+        "atk": 100,
+        "def": 300,
+        "hp": 3000,
+        "rush": 100
+      },
+      "tier_color": "red",
+      "total_hard_stats": 3500
+    },
+    {
+      "id": "dracula_cape",
+      "name": "Dracula Cape",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 3000,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 3180
+    },
+    {
+      "id": "gilded_belt",
+      "name": "Gilded Belt",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 3000,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 3180
+    },
+    {
+      "id": "heart_of_nature",
+      "name": "Heart of Nature",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 3000,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 3180
+    },
+    {
+      "id": "amulet_of_will_1",
+      "name": "Amulet of Will +1",
+      "stats": {
+        "atk": 200,
+        "def": 200,
+        "hp": 2000,
+        "rush": 200
+      },
+      "tier_color": "red",
+      "total_hard_stats": 2600
+    },
+    {
+      "id": "deepsea_helmet",
+      "name": "Deepsea Helmet",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 1800,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 2100
+    },
+    {
+      "id": "eye_of_akamoddo_amulet",
+      "name": "Eye of Akamoddo Amulet",
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 2100
+    },
+    {
+      "id": "lotus_platform_xii",
+      "name": "Lotus Platform XII",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 1800,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 2100
+    },
+    {
+      "id": "overlord_s_hook",
+      "name": "Overlord's Hook",
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 2100
+    },
+    {
+      "id": "poseidon_s_blessing",
+      "name": "Poseidon's Blessing",
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 2100
+    },
+    {
+      "id": "seraph_s_light",
+      "name": "Seraph's Light",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 1800,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 2100
+    },
+    {
+      "id": "serket_staff",
+      "name": "Serket Staff",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 2100
+    },
+    {
+      "id": "soul_walking",
+      "name": "Soul Walking",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 2100
+    },
+    {
+      "id": "the_great_collector",
+      "name": "The Great Collector",
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 2100
+    },
+    {
+      "id": "the_great_scientist",
+      "name": "The Great Scientist",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 1800,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 2100
+    },
+    {
+      "id": "traveler_outfit",
+      "name": "Traveler Outfit",
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 1800,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 2100
+    },
+    {
+      "id": "excaladbolg",
+      "name": "Excaladbolg",
+      "stats": {
+        "atk": 300,
+        "def": 100,
+        "hp": 1000,
+        "rush": 300
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1700
+    },
+    {
+      "id": "time_wanderer",
+      "name": "Time Wanderer",
+      "stats": {
+        "atk": 200,
+        "def": 200,
+        "hp": 1000,
+        "rush": 200
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1600
+    },
+    {
+      "id": "amulet_of_will",
+      "name": "Amulet of Will",
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1560
+    },
+    {
+      "id": "antimatter_armor",
+      "name": "Antimatter Armor",
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1560
+    },
+    {
+      "id": "caesar_s_crown",
+      "name": "Caesar's Crown",
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1560
+    },
+    {
+      "id": "demon_god_amulet",
+      "name": "Demon God Amulet",
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1560
+    },
+    {
+      "id": "grandpire_s_robe",
+      "name": "Grandpire's Robe",
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1560
+    },
+    {
+      "id": "know_it_all_device",
+      "name": "Know-It-All Device",
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1560
+    },
+    {
+      "id": "michael_s_earrings",
+      "name": "Michael's Earrings",
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1560
+    },
+    {
+      "id": "ogma_s_cloak",
+      "name": "Ogma's Cloak",
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1560
+    },
+    {
+      "id": "selene_amulet",
+      "name": "Selene Amulet",
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1560
+    },
+    {
+      "id": "the_great_entertainer",
+      "name": "The Great Entertainer",
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1560
+    },
+    {
+      "id": "the_great_magician",
+      "name": "The Great Magician",
+      "stats": {
+        "atk": 120,
+        "def": 120,
+        "hp": 1200,
+        "rush": 120
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1560
+    },
+    {
+      "id": "golden_drazgul_fang",
+      "name": "Golden Drazgul Fang",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1260
+    },
+    {
+      "id": "incredible_key",
+      "name": "Incredible Key",
+      "stats": {
+        "atk": 300,
+        "def": 300,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1260
+    },
+    {
+      "id": "septreasure_peacock_quill",
+      "name": "Septreasure Peacock Quill",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1260
+    },
+    {
+      "id": "ancestral_legacy",
+      "name": "Ancestral Legacy",
+      "stats": {
+        "atk": 60,
+        "def": 300,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "antimatter_shield",
+      "name": "Antimatter Shield",
+      "stats": {
+        "atk": 60,
+        "def": 300,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "athena_s_spear",
+      "name": "Athena's Spear",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "azazel_s_pact",
+      "name": "Azazel's Pact",
+      "stats": {
+        "atk": 180,
+        "def": 180,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "bedrock",
+      "name": "Bedrock",
+      "stats": {
+        "atk": 60,
+        "def": 300,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "big_bounce",
+      "name": "Big Bounce",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "blair_s_curse",
+      "name": "Blair's Curse",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "bullet_storm",
+      "name": "Bullet Storm",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "caladbolg",
+      "name": "Caladbolg",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "centaur_armor",
+      "name": "Centaur Armor",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "claw_of_destruction",
+      "name": "Claw of Destruction",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "cretaceous_weapon",
+      "name": "Cretaceous Weapon",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "crown_of_eternal_daylight",
+      "name": "Crown of Eternal Daylight",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "dark_strength",
+      "name": "Dark Strength",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "district_9",
+      "name": "District 9",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "dragon_horn",
+      "name": "Dragon Horn",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "empress_gloves",
+      "name": "Empress Gloves",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "empress_slippers",
+      "name": "Empress' Slippers",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "excalibur_ex",
+      "name": "Excalibur EX",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "exploding_rage",
+      "name": "Exploding Rage",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "fang_of_tiamat",
+      "name": "Fang of Tiamat",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "fortress",
+      "name": "Fortress",
+      "stats": {
+        "atk": 60,
+        "def": 300,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "gauss_m72",
+      "name": "Gauss M72",
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "hydra_s_gloves",
+      "name": "Hydra's Gloves",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "lion_king_s_sword",
+      "name": "Lion King's Sword",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "mark_iv",
+      "name": "Mark IV",
+      "stats": {
+        "atk": 60,
+        "def": 180,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "million_volts",
+      "name": "Million Volts",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "mithraic_bow_and_spear",
+      "name": "Mithraic Bow & Spear",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "norris_chuck",
+      "name": "Norris-chuck",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "oldman_wand",
+      "name": "Oldman Wand",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "poseidon_s_trident",
+      "name": "Poseidon's Trident",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "power_spinach",
+      "name": "Power Spinach",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "rama_greataxe",
+      "name": "Rama Greataxe",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "ring_of_paralysis",
+      "name": "Ring of Paralysis",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "sky_piercer",
+      "name": "Sky Piercer",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "soul_reaper",
+      "name": "Soul Reaper",
+      "stats": {
+        "atk": 180,
+        "def": 180,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "spacetime_exile",
+      "name": "Spacetime Exile",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "strength_master_s_sword",
+      "name": "Strength Master's Sword",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "subspace_blade",
+      "name": "Subspace Blade",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "super_warrior",
+      "name": "Super Warrior",
+      "stats": {
+        "atk": 60,
+        "def": 300,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "sword_futsuno",
+      "name": "Sword Futsuno",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "the_great_engineer",
+      "name": "The Great Engineer",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "thunder_belt",
+      "name": "Thunder Belt",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "tremendous_support",
+      "name": "Tremendous Support",
+      "stats": {
+        "atk": 60,
+        "def": 60,
+        "hp": 600,
+        "rush": 300
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "true_sakabato",
+      "name": "True Sakabato",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "virtual_vision",
+      "name": "Virtual Vision",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "w_tadpole_sword",
+      "name": "W-Tadpole Sword",
+      "stats": {
+        "atk": 300,
+        "def": 60,
+        "hp": 600,
+        "rush": 60
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    },
+    {
+      "id": "warmonger_s_gun",
+      "name": "Warmonger's Gun",
+      "stats": {
+        "atk": 180,
+        "def": 60,
+        "hp": 600,
+        "rush": 180
+      },
+      "tier_color": "red",
+      "total_hard_stats": 1020
+    }
+  ]
+}
