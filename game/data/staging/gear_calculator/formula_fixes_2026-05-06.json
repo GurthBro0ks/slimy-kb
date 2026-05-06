@@ -1,0 +1,75 @@
+{
+  "source_workbook": "Copy of Gear Calculator.xlsx",
+  "status": "manual_formula_fixes_reviewed",
+  "canonical_promotion": false,
+  "notes": [
+    "These fixes correct the source spreadsheet logic before any canonical promotion.",
+    "Original extracted formula_map.csv is preserved as formula_map_original_unpatched.csv.",
+    "Patched workbook creation is optional and depends on whether the original workbook exists in game/sources/spreadsheets."
+  ],
+  "fixes": [
+    {
+      "id": "gear_armor_level_formula_d142",
+      "sheet": "Gear",
+      "cell": "D142",
+      "formula": "=if(Gear!H142<2,0,Gear!H142-1)",
+      "reason": "D142 was reading the wrong row. It must read its own level cell H142."
+    },
+    {
+      "id": "gear_armor_level_formula_d149",
+      "sheet": "Gear",
+      "cell": "D149",
+      "formula": "=if(Gear!H149<2,0,Gear!H149-1)",
+      "reason": "D149 was reading the wrong row. It must read its own level cell H149."
+    },
+    {
+      "id": "combat_first_turn_attack_damage_c21",
+      "sheet": "Combat",
+      "cell": "C21",
+      "formula": "=(1+B10+I9)*(CombatMath!H8)",
+      "reason": "Round 1 damage buff in I9 was calculated but not included in first-turn attack damage."
+    },
+    {
+      "id": "combat_first_turn_attack_total_e21",
+      "sheet": "Combat",
+      "cell": "E21",
+      "formula": "=(1+B10+I9)*CombatMath!B21",
+      "reason": "Round 1 damage buff in I9 was calculated but not included in first-turn attack total."
+    },
+    {
+      "id": "combat_first_turn_rush_damage_c22",
+      "sheet": "Combat",
+      "cell": "C22",
+      "formula": "=if(E16=TRUE,(1+B10+I9)*CombatMath!H9,0)",
+      "reason": "Round 1 damage buff in I9 was calculated but not included in first-turn rush damage."
+    },
+    {
+      "id": "combat_first_turn_rush_total_e22",
+      "sheet": "Combat",
+      "cell": "E22",
+      "formula": "=if(E16=TRUE,(1+B10+I9)*CombatMath!B22,0)",
+      "reason": "Round 1 damage buff in I9 was calculated but not included in first-turn rush total."
+    },
+    {
+      "id": "combat_dead_inputs_i16_i21",
+      "sheet": "Combat",
+      "cells": ["I16", "I17", "I18", "I19", "I20", "I21"],
+      "action": "clear_values",
+      "labels": {
+        "H16": "Lifesteal Rate (unused)",
+        "H17": "Lifesteal EFF (unused)",
+        "H18": "Dodge (unused)",
+        "H19": "Hit (unused)",
+        "H20": "DMG Reduc (unused)",
+        "H21": "Crit DMG Reduc (unused)"
+      },
+      "reason": "These inputs were visible but not referenced by any formulas."
+    },
+    {
+      "id": "copy_of_combat_independence",
+      "sheets": ["Copy of Combat", "Copy of CombatMath"],
+      "action": "make_copy_of_combat_use_copy_of_combatmath",
+      "reason": "Copy of Combat was secretly feeding through CombatMath back to the original Combat sheet."
+    }
+  ]
+}

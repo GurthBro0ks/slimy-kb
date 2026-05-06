@@ -1,0 +1,6166 @@
+[
+  {
+    "name": "Time Wanderer",
+    "section": "Realm",
+    "header_row": 11,
+    "equipped_cell": "Gear!F11",
+    "equipped": false,
+    "level_cell": "Gear!H11",
+    "level": 0,
+    "effective_level_index": null,
+    "effective_level_formula": null,
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": null,
+        "base": 1000,
+        "per_effective_level": "EXP ONLY",
+        "source_row": 12
+      },
+      "atk": {
+        "computed": 200,
+        "formula": null,
+        "base": 200,
+        "per_effective_level": "HP",
+        "source_row": 13
+      },
+      "def": {
+        "computed": 200,
+        "formula": null,
+        "base": 200,
+        "per_effective_level": "ATK",
+        "source_row": 14
+      },
+      "rush": {
+        "computed": 200,
+        "formula": null,
+        "base": 200,
+        "per_effective_level": "DEF",
+        "source_row": 15
+      }
+    },
+    "effects": [],
+    "raw_rows": [
+      {
+        "row": 12,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 1000,
+          "E": "EXP ONLY",
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$11=True,D12,0)"
+        }
+      },
+      {
+        "row": 13,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 200,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 200,
+          "E": "HP",
+          "F": 2000,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$11=True,D13,0)"
+        }
+      },
+      {
+        "row": 14,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 200,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 200,
+          "E": "ATK",
+          "F": 200,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$11=True,D14,0)"
+        }
+      },
+      {
+        "row": 15,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 200,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 200,
+          "E": "DEF",
+          "F": 200,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$11=True,D15,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Great Scientist",
+    "section": "Realm",
+    "header_row": 20,
+    "equipped_cell": "Gear!F20",
+    "equipped": false,
+    "level_cell": "Gear!H20",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H20<2,0,Gear!H20-1)",
+    "stats": {
+      "hp": {
+        "computed": 3000,
+        "formula": "GearMath!D21+(GearMath!E21*GearMath!$D$20)",
+        "base": 3000,
+        "per_effective_level": 600,
+        "source_row": 21
+      },
+      "atk": {
+        "computed": 100,
+        "formula": "GearMath!D22+(GearMath!E22*GearMath!$D$20)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 22
+      },
+      "def": {
+        "computed": 100,
+        "formula": "GearMath!D23+(GearMath!E23*GearMath!$D$20)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 23
+      },
+      "rush": {
+        "computed": 300,
+        "formula": "GearMath!D24+(GearMath!E24*GearMath!$D$20)",
+        "base": 300,
+        "per_effective_level": 60,
+        "source_row": 24
+      }
+    },
+    "effects": [
+      {
+        "name": "Time Chest",
+        "base": 0.12,
+        "per_effective_level": 0.02,
+        "computed": 0.12,
+        "formula": "GearMath!G21+(GearMath!D20*GearMath!H21)",
+        "source": "GearMath F/G/H",
+        "source_row": 21
+      },
+      {
+        "name": "Time Chest",
+        "computed": 0.12,
+        "formula": "GearMath!G21+(GearMath!D20*GearMath!H21)",
+        "source": "Gear D/E",
+        "source_row": 21
+      },
+      {
+        "name": "Cells",
+        "base": 0.12,
+        "per_effective_level": 0.02,
+        "computed": 0.12,
+        "formula": "GearMath!G22+(GearMath!D20*GearMath!H22)",
+        "source": "GearMath F/G/H",
+        "source_row": 22
+      },
+      {
+        "name": "Cells",
+        "computed": 0.12,
+        "formula": "GearMath!G22+(GearMath!D20*GearMath!H22)",
+        "source": "Gear D/E",
+        "source_row": 22
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 21,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 3000,
+          "D": "Time Chest",
+          "E": 0.12,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D21+(GearMath!E21*GearMath!$D$20)",
+          "E": "GearMath!G21+(GearMath!D20*GearMath!H21)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 3000,
+          "E": 600,
+          "F": "Time Chest",
+          "G": 0.12,
+          "H": 0.02
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$20=True,Gear!C21,0)"
+        }
+      },
+      {
+        "row": 22,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 100,
+          "D": "Cells",
+          "E": 0.12,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D22+(GearMath!E22*GearMath!$D$20)",
+          "E": "GearMath!G22+(GearMath!D20*GearMath!H22)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": "Cells",
+          "G": 0.12,
+          "H": 0.02
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$20=True,Gear!C22,0)"
+        }
+      },
+      {
+        "row": 23,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D23+(GearMath!E23*GearMath!$D$20)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$20=True,Gear!C23,0)"
+        }
+      },
+      {
+        "row": 24,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 300,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D24+(GearMath!E24*GearMath!$D$20)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 300,
+          "E": 60,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$20=True,Gear!C24,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Great Collector",
+    "section": "Realm",
+    "header_row": 26,
+    "equipped_cell": "Gear!F26",
+    "equipped": false,
+    "level_cell": "Gear!H26",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H26<2,0,Gear!H26-1)",
+    "stats": {
+      "hp": {
+        "computed": 3000,
+        "formula": "GearMath!D27+(GearMath!E27*GearMath!$D$26)",
+        "base": 3000,
+        "per_effective_level": 600,
+        "source_row": 27
+      },
+      "atk": {
+        "computed": 100,
+        "formula": "GearMath!D28+(GearMath!E28*GearMath!$D$26)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 28
+      },
+      "def": {
+        "computed": 300,
+        "formula": "GearMath!D29+(GearMath!E29*GearMath!$D$26)",
+        "base": 300,
+        "per_effective_level": 60,
+        "source_row": 29
+      },
+      "rush": {
+        "computed": 100,
+        "formula": "GearMath!D30+(GearMath!E30*GearMath!$D$26)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 30
+      }
+    },
+    "effects": [
+      {
+        "name": "B-Tad",
+        "base": 120,
+        "per_effective_level": 20,
+        "computed": 120,
+        "formula": "GearMath!G27+(GearMath!D26*GearMath!H27)",
+        "source": "GearMath F/G/H",
+        "source_row": 27
+      },
+      {
+        "name": "B-Tad Gain",
+        "computed": 120,
+        "formula": "GearMath!G27+(GearMath!D26*GearMath!H27)",
+        "source": "Gear D/E",
+        "source_row": 27
+      },
+      {
+        "name": "B-Tad CAP",
+        "computed": 3200000,
+        "formula": "GearMath!G28+(GearMath!D26*GearMath!H28)",
+        "source": "Gear D/E",
+        "source_row": 28
+      },
+      {
+        "name": "W-Tad",
+        "base": 24,
+        "per_effective_level": 4,
+        "computed": 24,
+        "formula": "GearMath!G29+(GearMath!D26*GearMath!H29)",
+        "source": "GearMath F/G/H",
+        "source_row": 29
+      },
+      {
+        "name": "W-Tad Gain",
+        "computed": 24,
+        "formula": "GearMath!G29+(GearMath!D26*GearMath!H29)",
+        "source": "Gear D/E",
+        "source_row": 29
+      },
+      {
+        "name": "W-Tad CAP",
+        "computed": 120000,
+        "formula": "GearMath!G30+(GearMath!D26*GearMath!H30)",
+        "source": "Gear D/E",
+        "source_row": 30
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 27,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 3000,
+          "D": "B-Tad Gain",
+          "E": 120,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D27+(GearMath!E27*GearMath!$D$26)",
+          "E": "GearMath!G27+(GearMath!D26*GearMath!H27)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 3000,
+          "E": 600,
+          "F": "B-Tad",
+          "G": 120,
+          "H": 20
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$26=True,Gear!C27,0)"
+        }
+      },
+      {
+        "row": 28,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 100,
+          "D": "B-Tad CAP",
+          "E": 3200000,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D28+(GearMath!E28*GearMath!$D$26)",
+          "E": "GearMath!G28+(GearMath!D26*GearMath!H28)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": 3200000,
+          "H": 200000
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$26=True,Gear!C28,0)"
+        }
+      },
+      {
+        "row": 29,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 300,
+          "D": "W-Tad Gain",
+          "E": 24,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D29+(GearMath!E29*GearMath!$D$26)",
+          "E": "GearMath!G29+(GearMath!D26*GearMath!H29)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 300,
+          "E": 60,
+          "F": "W-Tad",
+          "G": 24,
+          "H": 4
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$26=True,Gear!C29,0)"
+        }
+      },
+      {
+        "row": 30,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": "W-Tad CAP",
+          "E": 120000,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D30+(GearMath!E30*GearMath!$D$26)",
+          "E": "GearMath!G30+(GearMath!D26*GearMath!H30)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": 120000,
+          "H": 10000
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$26=True,Gear!C30,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Great Engineer",
+    "section": "Realm",
+    "header_row": 32,
+    "equipped_cell": "Gear!F32",
+    "equipped": false,
+    "level_cell": "Gear!H32",
+    "level": 1,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H32<2,0,Gear!H32-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "GearMath!D33+(GearMath!E33*(GearMath!$D$32))",
+        "base": 1000,
+        "per_effective_level": 200,
+        "source_row": 33
+      },
+      "atk": {
+        "computed": 100,
+        "formula": "GearMath!D34+(GearMath!E34*(GearMath!$D$32))",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 34
+      },
+      "def": {
+        "computed": 100,
+        "formula": "GearMath!D35+(GearMath!E35*(GearMath!$D$32))",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 35
+      },
+      "rush": {
+        "computed": 500,
+        "formula": "GearMath!D36+(GearMath!E36*(GearMath!$D$32))",
+        "base": 500,
+        "per_effective_level": 100,
+        "source_row": 36
+      }
+    },
+    "effects": [
+      {
+        "name": "Trav Speed",
+        "base": 0.096,
+        "per_effective_level": 0.016,
+        "computed": 0.096,
+        "formula": "GearMath!G33+(GearMath!H33*(GearMath!$D$32))",
+        "source": "GearMath F/G/H",
+        "source_row": 33
+      },
+      {
+        "name": "Trav Speed",
+        "computed": 0.096,
+        "formula": "GearMath!G33+(GearMath!H33*(GearMath!$D$32))",
+        "source": "Gear D/E",
+        "source_row": 33
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 33,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": "Trav Speed",
+          "E": 0.096,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D33+(GearMath!E33*(GearMath!$D$32))",
+          "E": "GearMath!G33+(GearMath!H33*(GearMath!$D$32))"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "HP",
+          "C": null,
+          "D": 1000,
+          "E": 200,
+          "F": "Trav Speed",
+          "G": 0.096,
+          "H": 0.016
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$32=True,Gear!C33,0)"
+        }
+      },
+      {
+        "row": 34,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D34+(GearMath!E34*(GearMath!$D$32))"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "ATK",
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$32=True,Gear!C34,0)"
+        }
+      },
+      {
+        "row": 35,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D35+(GearMath!E35*(GearMath!$D$32))"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "DEF",
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$32=True,Gear!C35,0)"
+        }
+      },
+      {
+        "row": 36,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 500,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D36+(GearMath!E36*(GearMath!$D$32))"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "RUSH",
+          "C": null,
+          "D": 500,
+          "E": 100,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$32=True,Gear!C36,0)"
+        }
+      },
+      {
+        "row": 39,
+        "gear_values": {
+          "A": null,
+          "B": "Form",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": null,
+          "B": "Form",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {}
+      }
+    ]
+  },
+  {
+    "name": "Serket Staff",
+    "section": "Form",
+    "header_row": 40,
+    "equipped_cell": "Gear!F40",
+    "equipped": false,
+    "level_cell": "Gear!H40",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H40<2,0,Gear!H40-1)",
+    "stats": {
+      "hp": {
+        "computed": 3000,
+        "formula": "D41+(E41*$D$40)",
+        "base": 3000,
+        "per_effective_level": null,
+        "source_row": 41
+      },
+      "atk": {
+        "computed": 300,
+        "formula": null,
+        "base": 300,
+        "per_effective_level": null,
+        "source_row": 42
+      },
+      "def": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 43
+      },
+      "rush": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 44
+      }
+    },
+    "effects": [
+      {
+        "name": "Zombie Ign Def",
+        "base_or_computed": 0.12,
+        "source": "Gear I/J",
+        "source_row": 41
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 41,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 3000,
+          "D": 3000,
+          "E": null,
+          "F": null,
+          "G": 0.12,
+          "H": null,
+          "I": "Zombie Ign Def",
+          "J": 0.12,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "D41+(E41*$D$40)",
+          "G": "J41+K41*D40"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "HP",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$39=True,Gear!C40,0)"
+        }
+      },
+      {
+        "row": 42,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 300,
+          "D": 300,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": "ATK",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$39=True,Gear!C41,0)"
+        }
+      },
+      {
+        "row": 43,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": "DEF",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$39=True,Gear!C42,0)"
+        }
+      },
+      {
+        "row": 44,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": "RUSH",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$39=True,Gear!C43,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Soul Reaper",
+    "section": "Form",
+    "header_row": 46,
+    "equipped_cell": "Gear!F46",
+    "equipped": false,
+    "level_cell": "Gear!H46",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H46<2,0,Gear!H46-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "D47+(E47*$D$46)",
+        "base": 1000,
+        "per_effective_level": null,
+        "source_row": 47
+      },
+      "atk": {
+        "computed": 300,
+        "formula": null,
+        "base": 300,
+        "per_effective_level": null,
+        "source_row": 48
+      },
+      "def": {
+        "computed": 300,
+        "formula": null,
+        "base": 300,
+        "per_effective_level": null,
+        "source_row": 49
+      },
+      "rush": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 50
+      }
+    },
+    "effects": [
+      {
+        "name": "Demon Crit",
+        "base_or_computed": 0.12,
+        "source": "Gear I/J",
+        "source_row": 47
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 47,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": 1000,
+          "E": null,
+          "F": null,
+          "G": 0.12,
+          "H": null,
+          "I": "Demon Crit",
+          "J": 0.12,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "D47+(E47*$D$46)",
+          "G": "J47+K47*D46"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "HP",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$46=True,Gear!C47,0)"
+        }
+      },
+      {
+        "row": 48,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 300,
+          "D": 300,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": "ATK",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$46=True,Gear!C48,0)"
+        }
+      },
+      {
+        "row": 49,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 300,
+          "D": 300,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": "DEF",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$46=True,Gear!C49,0)"
+        }
+      },
+      {
+        "row": 50,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": "RUSH",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$46=True,Gear!C50,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Seraph's Light",
+    "section": "Form",
+    "header_row": 52,
+    "equipped_cell": "Gear!F52",
+    "equipped": false,
+    "level_cell": "Gear!H52",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H52<2,0,Gear!H52-1)",
+    "stats": {
+      "hp": {
+        "computed": 3000,
+        "formula": "D53+(E53*$D$52)",
+        "base": 3000,
+        "per_effective_level": 600,
+        "source_row": 53
+      },
+      "atk": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 54
+      },
+      "def": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 55
+      },
+      "rush": {
+        "computed": 300,
+        "formula": null,
+        "base": 300,
+        "per_effective_level": 60,
+        "source_row": 56
+      }
+    },
+    "effects": [
+      {
+        "name": "Angel HP Regen",
+        "base_or_computed": 1920,
+        "source": "Gear I/J",
+        "source_row": 53
+      },
+      {
+        "name": "Angel Cells",
+        "base_or_computed": 0.12,
+        "source": "Gear I/J",
+        "source_row": 54
+      },
+      {
+        "name": "Fungus Chests",
+        "base_or_computed": 0.12,
+        "source": "Gear I/J",
+        "source_row": 55
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 53,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 3000,
+          "D": 3000,
+          "E": 600,
+          "F": null,
+          "G": 1920,
+          "H": null,
+          "I": "Angel HP Regen",
+          "J": 1920,
+          "K": 320
+        },
+        "gear_formulas": {
+          "C": "D53+(E53*$D$52)",
+          "G": "J53+K53*D52"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "HP",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$52=True,Gear!C53,0)"
+        }
+      },
+      {
+        "row": 54,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 100,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": "Angel Cells",
+          "J": 0.12,
+          "K": 0.02
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": "ATK",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$52=True,Gear!C54,0)"
+        }
+      },
+      {
+        "row": 55,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": "Fungus Chests",
+          "J": 0.12,
+          "K": 0.02
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": "DEF",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$52=True,Gear!C55,0)"
+        }
+      },
+      {
+        "row": 56,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 300,
+          "D": 300,
+          "E": 60,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": "RUSH",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$52=True,Gear!C56,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Subspace Blade",
+    "section": "Form",
+    "header_row": 58,
+    "equipped_cell": "Gear!F58",
+    "equipped": false,
+    "level_cell": "Gear!H58",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H58<2,0,Gear!H58-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "GearMath!D59+(GearMath!E59*GearMath!$D$58)",
+        "base": 1000,
+        "per_effective_level": 200,
+        "source_row": 59
+      },
+      "atk": {
+        "computed": 300,
+        "formula": "GearMath!D60+(GearMath!E60*GearMath!$D$58)",
+        "base": 300,
+        "per_effective_level": 60,
+        "source_row": 60
+      },
+      "def": {
+        "computed": 100,
+        "formula": "GearMath!D61+(GearMath!E61*GearMath!$D$58)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 61
+      },
+      "rush": {
+        "computed": 300,
+        "formula": "GearMath!D62+(GearMath!E62*GearMath!$D$58)",
+        "base": 300,
+        "per_effective_level": 60,
+        "source_row": 62
+      }
+    },
+    "effects": [
+      {
+        "name": "Mutant Crit DMG",
+        "base": 0.24,
+        "per_effective_level": 0.04,
+        "computed": 0.24,
+        "formula": "GearMath!G59+(GearMath!H59*GearMath!D58)",
+        "source": "GearMath F/G/H",
+        "source_row": 59
+      },
+      {
+        "name": "Mutant Crit DMG",
+        "computed": 0.24,
+        "formula": "GearMath!G59+(GearMath!H59*GearMath!D58)",
+        "source": "Gear D/E",
+        "source_row": 59
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 59,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": "Mutant Crit DMG",
+          "E": 0.24,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D59+(GearMath!E59*GearMath!$D$58)",
+          "E": "GearMath!G59+(GearMath!H59*GearMath!D58)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "HP",
+          "C": null,
+          "D": 1000,
+          "E": 200,
+          "F": "Mutant Crit DMG",
+          "G": 0.24,
+          "H": 0.04
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$58=True,Gear!C59,0)"
+        }
+      },
+      {
+        "row": 60,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 300,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D60+(GearMath!E60*GearMath!$D$58)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "ATK",
+          "C": null,
+          "D": 300,
+          "E": 60,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$58=True,Gear!C60,0)"
+        }
+      },
+      {
+        "row": 61,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D61+(GearMath!E61*GearMath!$D$58)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "DEF",
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$58=True,Gear!C61,0)"
+        }
+      },
+      {
+        "row": 62,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 300,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D62+(GearMath!E62*GearMath!$D$58)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "RUSH",
+          "C": null,
+          "D": 300,
+          "E": 60,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$58=True,Gear!C62,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Gaus M72",
+    "section": "Form",
+    "header_row": 64,
+    "equipped_cell": "Gear!F64",
+    "equipped": false,
+    "level_cell": "Gear!H64",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H64<2,0,Gear!H64-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "D65+(E65*$D$64)",
+        "base": 1000,
+        "per_effective_level": null,
+        "source_row": 65
+      },
+      "atk": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 66
+      },
+      "def": {
+        "computed": 300,
+        "formula": null,
+        "base": 300,
+        "per_effective_level": null,
+        "source_row": 67
+      },
+      "rush": {
+        "computed": 300,
+        "formula": null,
+        "base": 300,
+        "per_effective_level": null,
+        "source_row": 68
+      }
+    },
+    "effects": [
+      {
+        "name": "Mecha Dmg Red",
+        "base_or_computed": 0.12,
+        "source": "Gear I/J",
+        "source_row": 65
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 65,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": 1000,
+          "E": null,
+          "F": null,
+          "G": 0.12,
+          "H": null,
+          "I": "Mecha Dmg Red",
+          "J": 0.12,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "D65+(E65*$D$64)",
+          "G": "J65+K65*D64"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "HP",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$64=True,Gear!C65,0)"
+        }
+      },
+      {
+        "row": 66,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": "ATK",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$64=True,Gear!C66,0)"
+        }
+      },
+      {
+        "row": 67,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 300,
+          "D": 300,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": "DEF",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$64=True,Gear!C67,0)"
+        }
+      },
+      {
+        "row": 68,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 300,
+          "D": 300,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": "RUSH",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$64=True,Gear!C68,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fang of Tiamat",
+    "section": "Form",
+    "header_row": 70,
+    "equipped_cell": "Gear!F70",
+    "equipped": false,
+    "level_cell": "Gear!H70",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H70<2,0,Gear!H70-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "GearMath!D71+(GearMath!E71*GearMath!$D$70)",
+        "base": 1000,
+        "per_effective_level": 200,
+        "source_row": 71
+      },
+      "atk": {
+        "computed": 300,
+        "formula": "GearMath!D72+(GearMath!E72*GearMath!$D$70)",
+        "base": 300,
+        "per_effective_level": 60,
+        "source_row": 72
+      },
+      "def": {
+        "computed": 100,
+        "formula": "GearMath!D73+(GearMath!E73*GearMath!$D$70)",
+        "base": 100,
+        "per_effective_level": 40,
+        "source_row": 73
+      },
+      "rush": {
+        "computed": 300,
+        "formula": "GearMath!D74+(GearMath!E74*GearMath!$D$70)",
+        "base": 300,
+        "per_effective_level": 60,
+        "source_row": 74
+      }
+    },
+    "effects": [
+      {
+        "name": "Dragon Fire DMG",
+        "base": 720,
+        "per_effective_level": 120,
+        "computed": 720,
+        "formula": "GearMath!G71+GearMath!H71*GearMath!D70",
+        "source": "GearMath F/G/H",
+        "source_row": 71
+      },
+      {
+        "name": "Dragon Fire DMG",
+        "computed": 720,
+        "formula": "GearMath!G71+GearMath!H71*GearMath!D70",
+        "source": "Gear D/E",
+        "source_row": 71
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 71,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": "Dragon Fire DMG",
+          "E": 720,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D71+(GearMath!E71*GearMath!$D$70)",
+          "E": "GearMath!G71+GearMath!H71*GearMath!D70"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "HP",
+          "C": null,
+          "D": 1000,
+          "E": 200,
+          "F": "Dragon Fire DMG",
+          "G": 720,
+          "H": 120
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$70=True,Gear!C71,0)"
+        }
+      },
+      {
+        "row": 72,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 300,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D72+(GearMath!E72*GearMath!$D$70)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "ATK",
+          "C": null,
+          "D": 300,
+          "E": 60,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$70=True,Gear!C72,0)"
+        }
+      },
+      {
+        "row": 73,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D73+(GearMath!E73*GearMath!$D$70)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "DEF",
+          "C": null,
+          "D": 100,
+          "E": 40,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$70=True,Gear!C73,0)"
+        }
+      },
+      {
+        "row": 74,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 300,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D74+(GearMath!E74*GearMath!$D$70)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "RUSH",
+          "C": null,
+          "D": 300,
+          "E": 60,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$70=True,Gear!C74,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Excaladbolg",
+    "section": "Form",
+    "header_row": 76,
+    "equipped_cell": "Gear!F76",
+    "equipped": false,
+    "level_cell": "Gear!H76",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H76<2,0,Gear!H76-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "GearMath!D77+(GearMath!E77*GearMath!$D$76)",
+        "base": 1000,
+        "per_effective_level": 200,
+        "source_row": 77
+      },
+      "atk": {
+        "computed": 300,
+        "formula": "GearMath!D78+(GearMath!E78*GearMath!$D$76)",
+        "base": 300,
+        "per_effective_level": 60,
+        "source_row": 78
+      },
+      "def": {
+        "computed": 100,
+        "formula": "GearMath!D79+(GearMath!E79*GearMath!$D$76)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 79
+      },
+      "rush": {
+        "computed": 300,
+        "formula": "GearMath!D80+(GearMath!E80*GearMath!$D$76)",
+        "base": 300,
+        "per_effective_level": 60,
+        "source_row": 80
+      }
+    },
+    "effects": [
+      {
+        "name": "Dragon Ign Def",
+        "base": 0.12,
+        "per_effective_level": 0.02,
+        "computed": 0.12,
+        "formula": "GearMath!G77+(GearMath!H77*GearMath!D76)",
+        "source": "GearMath F/G/H",
+        "source_row": 77
+      },
+      {
+        "name": "Dragon Ign Def",
+        "computed": 0.12,
+        "formula": "GearMath!G77+(GearMath!H77*GearMath!D76)",
+        "source": "Gear D/E",
+        "source_row": 77
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 77,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": "Dragon Ign Def",
+          "E": 0.12,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D77+(GearMath!E77*GearMath!$D$76)",
+          "E": "GearMath!G77+(GearMath!H77*GearMath!D76)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "HP",
+          "C": null,
+          "D": 1000,
+          "E": 200,
+          "F": "Dragon Ign Def",
+          "G": 0.12,
+          "H": 0.02
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$76=True,Gear!C77,0)"
+        }
+      },
+      {
+        "row": 78,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 300,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D78+(GearMath!E78*GearMath!$D$76)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "ATK",
+          "C": null,
+          "D": 300,
+          "E": 60,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$76=True,Gear!C78,0)"
+        }
+      },
+      {
+        "row": 79,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D79+(GearMath!E79*GearMath!$D$76)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "DEF",
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$76=True,Gear!C79,0)"
+        }
+      },
+      {
+        "row": 80,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 300,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D80+(GearMath!E80*GearMath!$D$76)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": "RUSH",
+          "C": null,
+          "D": 300,
+          "E": 60,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$76=True,Gear!C80,0)"
+        }
+      },
+      {
+        "row": 82,
+        "gear_values": {
+          "A": null,
+          "B": "Instrument \"Attack\"",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": null,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {}
+      }
+    ]
+  },
+  {
+    "name": "Strength Master's Sword",
+    "section": "Instrument \"Attack\"",
+    "header_row": 83,
+    "equipped_cell": "Gear!F83",
+    "equipped": false,
+    "level_cell": "Gear!H83",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H83<2,0,Gear!H83-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "GearMath!D84+(GearMath!E84*GearMath!$D$83)",
+        "base": 1000,
+        "per_effective_level": 200,
+        "source_row": 84
+      },
+      "atk": {
+        "computed": 500,
+        "formula": "GearMath!D85+(GearMath!E85*GearMath!$D$83)",
+        "base": 500,
+        "per_effective_level": 100,
+        "source_row": 85
+      },
+      "def": {
+        "computed": 100,
+        "formula": "GearMath!D86+(GearMath!E86*GearMath!$D$83)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 86
+      },
+      "rush": {
+        "computed": 100,
+        "formula": "GearMath!D87+(GearMath!E87*GearMath!$D$83)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 87
+      }
+    },
+    "effects": [
+      {
+        "name": "DMG",
+        "base": 0.24,
+        "per_effective_level": 0.04,
+        "computed": 0.24,
+        "formula": "GearMath!G84+GearMath!H84*GearMath!D83",
+        "source": "GearMath F/G/H",
+        "source_row": 84
+      },
+      {
+        "name": "DMG",
+        "computed": 0.24,
+        "formula": "GearMath!G84+GearMath!H84*GearMath!D83",
+        "source": "Gear D/E",
+        "source_row": 84
+      },
+      {
+        "name": "Round 1 DMG",
+        "base": 0.36,
+        "per_effective_level": 0.06,
+        "computed": 0.36,
+        "formula": "GearMath!G85+GearMath!H85*GearMath!D83",
+        "source": "GearMath F/G/H",
+        "source_row": 85
+      },
+      {
+        "name": "Round 1 DMG",
+        "computed": 0.36,
+        "formula": "GearMath!G85+GearMath!H85*GearMath!D83",
+        "source": "Gear D/E",
+        "source_row": 85
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 84,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": "DMG",
+          "E": 0.24,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D84+(GearMath!E84*GearMath!$D$83)",
+          "E": "GearMath!G84+GearMath!H84*GearMath!D83"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 1000,
+          "E": 200,
+          "F": "DMG",
+          "G": 0.24,
+          "H": 0.04
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$83=True,Gear!C84,0)"
+        }
+      },
+      {
+        "row": 85,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 500,
+          "D": "Round 1 DMG",
+          "E": 0.36,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D85+(GearMath!E85*GearMath!$D$83)",
+          "E": "GearMath!G85+GearMath!H85*GearMath!D83"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 500,
+          "E": 100,
+          "F": "Round 1 DMG",
+          "G": 0.36,
+          "H": 0.06
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$83=True,Gear!C85,0)"
+        }
+      },
+      {
+        "row": 86,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D86+(GearMath!E86*GearMath!$D$83)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$83=True,Gear!C86,0)"
+        }
+      },
+      {
+        "row": 87,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D87+(GearMath!E87*GearMath!$D$83)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$83=True,Gear!C87,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Norris-chuck",
+    "section": "Instrument \"Attack\"",
+    "header_row": 89,
+    "equipped_cell": "Gear!F89",
+    "equipped": false,
+    "level_cell": "Gear!H89",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H89<2,0,Gear!H89-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "GearMath!D90+(GearMath!E90*GearMath!$D$89)",
+        "base": 1000,
+        "per_effective_level": 200,
+        "source_row": 90
+      },
+      "atk": {
+        "computed": 500,
+        "formula": "GearMath!D91+(GearMath!E91*GearMath!$D$89)",
+        "base": 500,
+        "per_effective_level": 100,
+        "source_row": 91
+      },
+      "def": {
+        "computed": 100,
+        "formula": "GearMath!D92+(GearMath!E92*GearMath!$D$89)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 92
+      },
+      "rush": {
+        "computed": 100,
+        "formula": "GearMath!D93+(GearMath!E93*GearMath!$D$89)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 93
+      }
+    },
+    "effects": [
+      {
+        "name": "Earth Dmg",
+        "base": 360,
+        "per_effective_level": 60,
+        "computed": 360,
+        "formula": "GearMath!G90+GearMath!H90*GearMath!D89",
+        "source": "GearMath F/G/H",
+        "source_row": 90
+      },
+      {
+        "name": "Earth Dmg",
+        "computed": 360,
+        "formula": "GearMath!G90+GearMath!H90*GearMath!D89",
+        "source": "Gear D/E",
+        "source_row": 90
+      },
+      {
+        "name": "Ignore Def",
+        "base": 0.12,
+        "per_effective_level": 0.02,
+        "computed": 0.12,
+        "formula": "GearMath!G91+GearMath!H91*GearMath!D89",
+        "source": "GearMath F/G/H",
+        "source_row": 91
+      },
+      {
+        "name": "Ignore Def",
+        "computed": 0.12,
+        "formula": "GearMath!G91+GearMath!H91*GearMath!D89",
+        "source": "Gear D/E",
+        "source_row": 91
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 90,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": "Earth Dmg",
+          "E": 360,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D90+(GearMath!E90*GearMath!$D$89)",
+          "E": "GearMath!G90+GearMath!H90*GearMath!D89"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 1000,
+          "E": 200,
+          "F": "Earth Dmg",
+          "G": 360,
+          "H": 60
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$89=True,Gear!C90,0)"
+        }
+      },
+      {
+        "row": 91,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 500,
+          "D": "Ignore Def",
+          "E": 0.12,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D91+(GearMath!E91*GearMath!$D$89)",
+          "E": "GearMath!G91+GearMath!H91*GearMath!D89"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 500,
+          "E": 100,
+          "F": "Ignore Def",
+          "G": 0.12,
+          "H": 0.02
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$89=True,Gear!C91,0)"
+        }
+      },
+      {
+        "row": 92,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D92+(GearMath!E92*GearMath!$D$89)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$89=True,Gear!C92,0)"
+        }
+      },
+      {
+        "row": 93,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D93+(GearMath!E93*GearMath!$D$89)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$89=True,Gear!C93,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Excalibur EX",
+    "section": "Instrument \"Attack\"",
+    "header_row": 95,
+    "equipped_cell": "Gear!F95",
+    "equipped": false,
+    "level_cell": "Gear!H95",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H95<2,0,Gear!H95-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "GearMath!D96+(GearMath!E96*GearMath!$D$95)",
+        "base": 1000,
+        "per_effective_level": 200,
+        "source_row": 96
+      },
+      "atk": {
+        "computed": 500,
+        "formula": "GearMath!D97+(GearMath!E97*GearMath!$D$95)",
+        "base": 500,
+        "per_effective_level": 100,
+        "source_row": 97
+      },
+      "def": {
+        "computed": 100,
+        "formula": "GearMath!D98+(GearMath!E98*GearMath!$D$95)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 98
+      },
+      "rush": {
+        "computed": 100,
+        "formula": "GearMath!D99+(GearMath!E99*GearMath!$D$95)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 99
+      }
+    },
+    "effects": [
+      {
+        "name": "Snail ATK",
+        "base": 240,
+        "per_effective_level": 30,
+        "computed": 240,
+        "formula": "GearMath!G96+GearMath!H96*GearMath!$D$95",
+        "source": "GearMath F/G/H",
+        "source_row": 96
+      },
+      {
+        "name": "Snail ATK",
+        "computed": 240,
+        "formula": "GearMath!G96+GearMath!H96*GearMath!$D$95",
+        "source": "Gear D/E",
+        "source_row": 96
+      },
+      {
+        "name": "Fire DMG",
+        "base": 240,
+        "per_effective_level": 30,
+        "computed": 240,
+        "formula": "GearMath!G97+GearMath!H97*GearMath!$D$95",
+        "source": "GearMath F/G/H",
+        "source_row": 97
+      },
+      {
+        "name": "Fire DMG",
+        "computed": 240,
+        "formula": "GearMath!G97+GearMath!H97*GearMath!$D$95",
+        "source": "Gear D/E",
+        "source_row": 97
+      },
+      {
+        "name": "Water DMG",
+        "base": 240,
+        "per_effective_level": 30,
+        "computed": 240,
+        "formula": "GearMath!G98+GearMath!H98*GearMath!$D$95",
+        "source": "GearMath F/G/H",
+        "source_row": 98
+      },
+      {
+        "name": "Water DMG",
+        "computed": 240,
+        "formula": "GearMath!G98+GearMath!H98*GearMath!$D$95",
+        "source": "Gear D/E",
+        "source_row": 98
+      },
+      {
+        "name": "Earth DMG",
+        "base": 240,
+        "per_effective_level": 30,
+        "computed": 240,
+        "formula": "GearMath!G99+GearMath!H99*GearMath!$D$95",
+        "source": "GearMath F/G/H",
+        "source_row": 99
+      },
+      {
+        "name": "Earth DMG",
+        "computed": 240,
+        "formula": "GearMath!G99+GearMath!H99*GearMath!$D$95",
+        "source": "Gear D/E",
+        "source_row": 99
+      },
+      {
+        "name": "Wind DMG",
+        "base": 240,
+        "per_effective_level": 30,
+        "computed": 240,
+        "formula": "GearMath!G100+GearMath!H100*GearMath!$D$95",
+        "source": "GearMath F/G/H",
+        "source_row": 100
+      },
+      {
+        "name": "Wind DMG",
+        "computed": 240,
+        "formula": "GearMath!G100+GearMath!H100*GearMath!$D$95",
+        "source": "Gear D/E",
+        "source_row": 100
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 96,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": "Snail ATK",
+          "E": 240,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D96+(GearMath!E96*GearMath!$D$95)",
+          "E": "GearMath!G96+GearMath!H96*GearMath!$D$95"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 1000,
+          "E": 200,
+          "F": "Snail ATK",
+          "G": 240,
+          "H": 30
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$95=True,Gear!C96,0)"
+        }
+      },
+      {
+        "row": 97,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 500,
+          "D": "Fire DMG",
+          "E": 240,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D97+(GearMath!E97*GearMath!$D$95)",
+          "E": "GearMath!G97+GearMath!H97*GearMath!$D$95"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 500,
+          "E": 100,
+          "F": "Fire DMG",
+          "G": 240,
+          "H": 30
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$95=True,Gear!C97,0)"
+        }
+      },
+      {
+        "row": 98,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": "Water DMG",
+          "E": 240,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D98+(GearMath!E98*GearMath!$D$95)",
+          "E": "GearMath!G98+GearMath!H98*GearMath!$D$95"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": "Water DMG",
+          "G": 240,
+          "H": 30
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$95=True,Gear!C98,0)"
+        }
+      },
+      {
+        "row": 99,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": "Earth DMG",
+          "E": 240,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D99+(GearMath!E99*GearMath!$D$95)",
+          "E": "GearMath!G99+GearMath!H99*GearMath!$D$95"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": "Earth DMG",
+          "G": 240,
+          "H": 30
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$95=True,Gear!C99,0)"
+        }
+      },
+      {
+        "row": 100,
+        "gear_values": {
+          "A": null,
+          "B": null,
+          "C": null,
+          "D": "Wind DMG",
+          "E": 240,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "E": "GearMath!G100+GearMath!H100*GearMath!$D$95"
+        },
+        "gearmath_values": {
+          "A": null,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": "Wind DMG",
+          "G": 240,
+          "H": 30
+        },
+        "gearmath_formulas": {}
+      }
+    ]
+  },
+  {
+    "name": "Big Bounce",
+    "section": "Instrument \"Attack\"",
+    "header_row": 102,
+    "equipped_cell": "Gear!F102",
+    "equipped": false,
+    "level_cell": "Gear!H102",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H102<2,0,Gear!H102-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "GearMath!D103+(GearMath!E103*GearMath!$D$102)",
+        "base": 1000,
+        "per_effective_level": 200,
+        "source_row": 103
+      },
+      "atk": {
+        "computed": 500,
+        "formula": "GearMath!D104+(GearMath!E104*GearMath!$D$102)",
+        "base": 500,
+        "per_effective_level": 100,
+        "source_row": 104
+      },
+      "def": {
+        "computed": 100,
+        "formula": "GearMath!D105+(GearMath!E105*GearMath!$D$102)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 105
+      },
+      "rush": {
+        "computed": 100,
+        "formula": "GearMath!D106+(GearMath!E106*GearMath!$D$102)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 106
+      }
+    },
+    "effects": [
+      {
+        "name": "Fire DMG",
+        "base": 360,
+        "per_effective_level": 60,
+        "computed": 360,
+        "formula": "GearMath!G103+GearMath!H103*GearMath!D$102",
+        "source": "GearMath F/G/H",
+        "source_row": 103
+      },
+      {
+        "name": "Fire DMG",
+        "computed": 360,
+        "formula": "GearMath!G103+GearMath!H103*GearMath!D$102",
+        "source": "Gear D/E",
+        "source_row": 103
+      },
+      {
+        "name": "Crit",
+        "base": 0.12,
+        "per_effective_level": 0.02,
+        "computed": 0.12,
+        "formula": "GearMath!G104+GearMath!H104*GearMath!D$102",
+        "source": "GearMath F/G/H",
+        "source_row": 104
+      },
+      {
+        "name": "Crit",
+        "computed": 0.12,
+        "formula": "GearMath!G104+GearMath!H104*GearMath!D$102",
+        "source": "Gear D/E",
+        "source_row": 104
+      },
+      {
+        "name": "Crit DMG",
+        "base": 0.12,
+        "per_effective_level": 0.02,
+        "computed": 0.12,
+        "formula": "GearMath!G105+GearMath!H105*GearMath!D$102",
+        "source": "GearMath F/G/H",
+        "source_row": 105
+      },
+      {
+        "name": "Crit DMG",
+        "computed": 0.12,
+        "formula": "GearMath!G105+GearMath!H105*GearMath!D$102",
+        "source": "Gear D/E",
+        "source_row": 105
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 103,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": "Fire DMG",
+          "E": 360,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D103+(GearMath!E103*GearMath!$D$102)",
+          "E": "GearMath!G103+GearMath!H103*GearMath!D$102"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 1000,
+          "E": 200,
+          "F": "Fire DMG",
+          "G": 360,
+          "H": 60
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$102=True,Gear!C103,0)"
+        }
+      },
+      {
+        "row": 104,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 500,
+          "D": "Crit",
+          "E": 0.12,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D104+(GearMath!E104*GearMath!$D$102)",
+          "E": "GearMath!G104+GearMath!H104*GearMath!D$102"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 500,
+          "E": 100,
+          "F": "Crit",
+          "G": 0.12,
+          "H": 0.02
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$102=True,Gear!C104,0)"
+        }
+      },
+      {
+        "row": 105,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": "Crit DMG",
+          "E": 0.12,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D105+(GearMath!E105*GearMath!$D$102)",
+          "E": "GearMath!G105+GearMath!H105*GearMath!D$102"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": "Crit DMG",
+          "G": 0.12,
+          "H": 0.02
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$102=True,Gear!C105,0)"
+        }
+      },
+      {
+        "row": 106,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D106+(GearMath!E106*GearMath!$D$102)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$102=True,Gear!C106,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Power Spinach",
+    "section": "Instrument \"Attack\"",
+    "header_row": 108,
+    "equipped_cell": "Gear!F108",
+    "equipped": false,
+    "level_cell": "Gear!H108",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H108<2,0,Gear!H108-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "GearMath!D109+(GearMath!E109*GearMath!$D$108)",
+        "base": 1000,
+        "per_effective_level": 200,
+        "source_row": 109
+      },
+      "atk": {
+        "computed": 100,
+        "formula": "GearMath!D110+(GearMath!E110*GearMath!$D$108)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 110
+      },
+      "def": {
+        "computed": 100,
+        "formula": "GearMath!D111+(GearMath!E111*GearMath!$D$108)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 111
+      },
+      "rush": {
+        "computed": 500,
+        "formula": "GearMath!D112+(GearMath!E112*GearMath!$D$108)",
+        "base": 500,
+        "per_effective_level": 100,
+        "source_row": 112
+      }
+    },
+    "effects": [
+      {
+        "name": "Wind DMG",
+        "base": 360,
+        "per_effective_level": 60,
+        "computed": 360,
+        "formula": "GearMath!G109+GearMath!H109*GearMath!D$108",
+        "source": "GearMath F/G/H",
+        "source_row": 109
+      },
+      {
+        "name": "Wind DMG",
+        "computed": 360,
+        "formula": "GearMath!G109+GearMath!H109*GearMath!D$108",
+        "source": "Gear D/E",
+        "source_row": 109
+      },
+      {
+        "name": "Round RUSH",
+        "base": 48,
+        "per_effective_level": 8,
+        "computed": 48,
+        "formula": "GearMath!G110+GearMath!H110*GearMath!D$108",
+        "source": "GearMath F/G/H",
+        "source_row": 110
+      },
+      {
+        "name": "Round RUSH",
+        "computed": 48,
+        "formula": "GearMath!G110+GearMath!H110*GearMath!D$108",
+        "source": "Gear D/E",
+        "source_row": 110
+      },
+      {
+        "name": "Round ATK",
+        "base": 48,
+        "per_effective_level": 8,
+        "computed": 48,
+        "formula": "GearMath!G111+GearMath!H111*GearMath!D$108",
+        "source": "GearMath F/G/H",
+        "source_row": 111
+      },
+      {
+        "name": "Round ATK",
+        "computed": 48,
+        "formula": "GearMath!G111+GearMath!H111*GearMath!D$108",
+        "source": "Gear D/E",
+        "source_row": 111
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 109,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": "Wind DMG",
+          "E": 360,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D109+(GearMath!E109*GearMath!$D$108)",
+          "E": "GearMath!G109+GearMath!H109*GearMath!D$108"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 1000,
+          "E": 200,
+          "F": "Wind DMG",
+          "G": 360,
+          "H": 60
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$108=True,Gear!C109,0)"
+        }
+      },
+      {
+        "row": 110,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 100,
+          "D": "Round RUSH",
+          "E": 48,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D110+(GearMath!E110*GearMath!$D$108)",
+          "E": "GearMath!G110+GearMath!H110*GearMath!D$108"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": "Round RUSH",
+          "G": 48,
+          "H": 8
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$108=True,Gear!C110,0)"
+        }
+      },
+      {
+        "row": 111,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": "Round ATK",
+          "E": 48,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D111+(GearMath!E111*GearMath!$D$108)",
+          "E": "GearMath!G111+GearMath!H111*GearMath!D$108"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": "Round ATK",
+          "G": 48,
+          "H": 8
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$108=True,Gear!C111,0)"
+        }
+      },
+      {
+        "row": 112,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 500,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D112+(GearMath!E112*GearMath!$D$108)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 500,
+          "E": 100,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$108=True,Gear!C112,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Poseidon's Trident",
+    "section": "Instrument \"Attack\"",
+    "header_row": 114,
+    "equipped_cell": "Gear!F114",
+    "equipped": false,
+    "level_cell": "Gear!H114",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H114<2,0,Gear!H114-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "GearMath!D115+(GearMath!E115*GearMath!$D$114)",
+        "base": 1000,
+        "per_effective_level": 200,
+        "source_row": 115
+      },
+      "atk": {
+        "computed": 500,
+        "formula": "GearMath!D116+(GearMath!E116*GearMath!$D$114)",
+        "base": 500,
+        "per_effective_level": 100,
+        "source_row": 116
+      },
+      "def": {
+        "computed": 100,
+        "formula": "GearMath!D117+(GearMath!E117*GearMath!$D$114)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 117
+      },
+      "rush": {
+        "computed": 100,
+        "formula": "GearMath!D118+(GearMath!E118*GearMath!$D$114)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 118
+      }
+    },
+    "effects": [
+      {
+        "name": "Water DMG",
+        "base": 360,
+        "per_effective_level": 60,
+        "computed": 360,
+        "formula": "GearMath!G115+GearMath!H115*GearMath!D$114",
+        "source": "GearMath F/G/H",
+        "source_row": 115
+      },
+      {
+        "name": "Water DMG",
+        "computed": 360,
+        "formula": "GearMath!G115+GearMath!H115*GearMath!D$114",
+        "source": "Gear D/E",
+        "source_row": 115
+      },
+      {
+        "name": "Crit DMG",
+        "base": 0.12,
+        "per_effective_level": 0.02,
+        "computed": 0.12,
+        "formula": "GearMath!G116+GearMath!H116*GearMath!D$114",
+        "source": "GearMath F/G/H",
+        "source_row": 116
+      },
+      {
+        "name": "Crit DMG",
+        "computed": 0.12,
+        "formula": "GearMath!G116+GearMath!H116*GearMath!D$114",
+        "source": "Gear D/E",
+        "source_row": 116
+      },
+      {
+        "name": "Lifesteal Eff",
+        "base": 0.6,
+        "per_effective_level": 0.1,
+        "computed": 0.6,
+        "formula": "GearMath!G117+GearMath!H117*GearMath!D$114",
+        "source": "GearMath F/G/H",
+        "source_row": 117
+      },
+      {
+        "name": "Lifesteal Eff",
+        "computed": 0.6,
+        "formula": "GearMath!G117+GearMath!H117*GearMath!D$114",
+        "source": "Gear D/E",
+        "source_row": 117
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 115,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": "Water DMG",
+          "E": 360,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D115+(GearMath!E115*GearMath!$D$114)",
+          "E": "GearMath!G115+GearMath!H115*GearMath!D$114"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 1000,
+          "E": 200,
+          "F": "Water DMG",
+          "G": 360,
+          "H": 60
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$114=True,Gear!C115,0)"
+        }
+      },
+      {
+        "row": 116,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 500,
+          "D": "Crit DMG",
+          "E": 0.12,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D116+(GearMath!E116*GearMath!$D$114)",
+          "E": "GearMath!G116+GearMath!H116*GearMath!D$114"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 500,
+          "E": 100,
+          "F": "Crit DMG",
+          "G": 0.12,
+          "H": 0.02
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$114=True,Gear!C116,0)"
+        }
+      },
+      {
+        "row": 117,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": "Lifesteal Eff",
+          "E": 0.6,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D117+(GearMath!E117*GearMath!$D$114)",
+          "E": "GearMath!G117+GearMath!H117*GearMath!D$114"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": "Lifesteal Eff",
+          "G": 0.6,
+          "H": 0.1
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$114=True,Gear!C117,0)"
+        }
+      },
+      {
+        "row": 118,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D118+(GearMath!E118*GearMath!$D$114)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$114=True,Gear!C118,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Know-It-All Device",
+    "section": "Instrument \"Attack\"",
+    "header_row": 120,
+    "equipped_cell": "Gear!F120",
+    "equipped": false,
+    "level_cell": "Gear!H120",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H120<2,0,Gear!H120-1)",
+    "stats": {
+      "hp": {
+        "computed": 2000,
+        "formula": "GearMath!D121+(GearMath!E121*GearMath!$D$120)",
+        "base": 2000,
+        "per_effective_level": 400,
+        "source_row": 121
+      },
+      "atk": {
+        "computed": 200,
+        "formula": "GearMath!D122+(GearMath!E122*GearMath!$D$120)",
+        "base": 200,
+        "per_effective_level": 40,
+        "source_row": 122
+      },
+      "def": {
+        "computed": 200,
+        "formula": "GearMath!D123+(GearMath!E123*GearMath!$D$120)",
+        "base": 200,
+        "per_effective_level": 40,
+        "source_row": 123
+      },
+      "rush": {
+        "computed": 200,
+        "formula": "GearMath!D124+(GearMath!E124*GearMath!$D$120)",
+        "base": 200,
+        "per_effective_level": 40,
+        "source_row": 124
+      }
+    },
+    "effects": [
+      {
+        "name": "If Rush HP",
+        "base": 3600,
+        "per_effective_level": 150,
+        "computed": 3600,
+        "formula": "GearMath!G121+GearMath!H121*GearMath!D$120",
+        "source": "GearMath F/G/H",
+        "source_row": 121
+      },
+      {
+        "name": "If Rush HP",
+        "computed": 3600,
+        "formula": "GearMath!G121+GearMath!H121*GearMath!D$120",
+        "source": "Gear D/E",
+        "source_row": 121
+      },
+      {
+        "name": "IF Rush ATK",
+        "base": 360,
+        "per_effective_level": 15,
+        "computed": 360,
+        "formula": "GearMath!G122+GearMath!H122*GearMath!D$120",
+        "source": "GearMath F/G/H",
+        "source_row": 122
+      },
+      {
+        "name": "IF Rush ATK",
+        "computed": 360,
+        "formula": "GearMath!G122+GearMath!H122*GearMath!D$120",
+        "source": "Gear D/E",
+        "source_row": 122
+      },
+      {
+        "name": "If Rush DEF",
+        "base": 360,
+        "per_effective_level": 15,
+        "computed": 360,
+        "formula": "GearMath!G123+GearMath!H123*GearMath!D$120",
+        "source": "GearMath F/G/H",
+        "source_row": 123
+      },
+      {
+        "name": "If Rush DEF",
+        "computed": 360,
+        "formula": "GearMath!G123+GearMath!H123*GearMath!D$120",
+        "source": "Gear D/E",
+        "source_row": 123
+      },
+      {
+        "name": "If Rush RUSH",
+        "base": 360,
+        "per_effective_level": 15,
+        "computed": 360,
+        "formula": "GearMath!G124+GearMath!H124*GearMath!D$120",
+        "source": "GearMath F/G/H",
+        "source_row": 124
+      },
+      {
+        "name": "If Rush RUSH",
+        "computed": 360,
+        "formula": "GearMath!G124+GearMath!H124*GearMath!D$120",
+        "source": "Gear D/E",
+        "source_row": 124
+      },
+      {
+        "name": "Bonus RUSH",
+        "base": 720,
+        "per_effective_level": 30,
+        "computed": 720,
+        "formula": "GearMath!G125+GearMath!H125*GearMath!D$120",
+        "source": "GearMath F/G/H",
+        "source_row": 125
+      },
+      {
+        "name": "Bonus RUSH",
+        "computed": 720,
+        "formula": "GearMath!G125+GearMath!H125*GearMath!D$120",
+        "source": "Gear D/E",
+        "source_row": 125
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 121,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 2000,
+          "D": "If Rush HP",
+          "E": 3600,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D121+(GearMath!E121*GearMath!$D$120)",
+          "E": "GearMath!G121+GearMath!H121*GearMath!D$120"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 2000,
+          "E": 400,
+          "F": "If Rush HP",
+          "G": 3600,
+          "H": 150
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$120=True,Gear!C121,0)"
+        }
+      },
+      {
+        "row": 122,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 200,
+          "D": "IF Rush ATK",
+          "E": 360,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D122+(GearMath!E122*GearMath!$D$120)",
+          "E": "GearMath!G122+GearMath!H122*GearMath!D$120"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 200,
+          "E": 40,
+          "F": "IF Rush ATK",
+          "G": 360,
+          "H": 15
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$120=True,Gear!C122,0)"
+        }
+      },
+      {
+        "row": 123,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 200,
+          "D": "If Rush DEF",
+          "E": 360,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D123+(GearMath!E123*GearMath!$D$120)",
+          "E": "GearMath!G123+GearMath!H123*GearMath!D$120"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 200,
+          "E": 40,
+          "F": "If Rush DEF",
+          "G": 360,
+          "H": 15
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$120=True,Gear!C123,0)"
+        }
+      },
+      {
+        "row": 124,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 200,
+          "D": "If Rush RUSH",
+          "E": 360,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D124+(GearMath!E124*GearMath!$D$120)",
+          "E": "GearMath!G124+GearMath!H124*GearMath!D$120"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 200,
+          "E": 40,
+          "F": "If Rush RUSH",
+          "G": 360,
+          "H": 15
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$120=True,Gear!C124,0)"
+        }
+      },
+      {
+        "row": 125,
+        "gear_values": {
+          "A": null,
+          "B": null,
+          "C": null,
+          "D": "Bonus RUSH",
+          "E": 720,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "E": "GearMath!G125+GearMath!H125*GearMath!D$120"
+        },
+        "gearmath_values": {
+          "A": null,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": "Bonus RUSH",
+          "G": 720,
+          "H": 30
+        },
+        "gearmath_formulas": {}
+      }
+    ]
+  },
+  {
+    "name": "Golden Drazgul Fang",
+    "section": "Instrument \"Attack\"",
+    "header_row": 127,
+    "equipped_cell": "Gear!F127",
+    "equipped": false,
+    "level_cell": "Gear!H127",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H127<2,0,Gear!H127-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "GearMath!D128+(GearMath!E128*GearMath!$D$127)",
+        "base": 1000,
+        "per_effective_level": 400,
+        "source_row": 128
+      },
+      "atk": {
+        "computed": 500,
+        "formula": "GearMath!D129+(GearMath!E129*GearMath!$D$127)",
+        "base": 500,
+        "per_effective_level": 200,
+        "source_row": 129
+      },
+      "def": {
+        "computed": 100,
+        "formula": "GearMath!D130+(GearMath!E130*GearMath!$D$127)",
+        "base": 100,
+        "per_effective_level": 40,
+        "source_row": 130
+      },
+      "rush": {
+        "computed": 500,
+        "formula": "GearMath!D131+(GearMath!E131*GearMath!$D$127)",
+        "base": 500,
+        "per_effective_level": 200,
+        "source_row": 131
+      }
+    },
+    "effects": [
+      {
+        "name": "Poison DMG",
+        "base": 360,
+        "per_effective_level": 60,
+        "computed": 360,
+        "formula": "GearMath!G128+GearMath!H128*GearMath!D$127",
+        "source": "GearMath F/G/H",
+        "source_row": 128
+      },
+      {
+        "name": "Poison DMG",
+        "computed": 360,
+        "formula": "GearMath!G128+GearMath!H128*GearMath!D$127",
+        "source": "Gear D/E",
+        "source_row": 128
+      },
+      {
+        "name": "Crit",
+        "base": 0.12,
+        "per_effective_level": 0.02,
+        "computed": 0.12,
+        "formula": "GearMath!G129+GearMath!H129*GearMath!D$127",
+        "source": "GearMath F/G/H",
+        "source_row": 129
+      },
+      {
+        "name": "Crit",
+        "computed": 0.12,
+        "formula": "GearMath!G129+GearMath!H129*GearMath!D$127",
+        "source": "Gear D/E",
+        "source_row": 129
+      },
+      {
+        "name": "Round 1 Crit",
+        "base": 0.12,
+        "per_effective_level": 0.02,
+        "computed": 0.12,
+        "formula": "GearMath!G130+GearMath!H130*GearMath!D$127",
+        "source": "GearMath F/G/H",
+        "source_row": 130
+      },
+      {
+        "name": "Round 1 Crit",
+        "computed": 0.12,
+        "formula": "GearMath!G130+GearMath!H130*GearMath!D$127",
+        "source": "Gear D/E",
+        "source_row": 130
+      },
+      {
+        "name": "Round 1 DMG",
+        "base": 0.18,
+        "per_effective_level": 0.03,
+        "computed": 0.18,
+        "formula": "GearMath!G131+GearMath!H131*GearMath!D$127",
+        "source": "GearMath F/G/H",
+        "source_row": 131
+      },
+      {
+        "name": "Round 1 DMG",
+        "computed": 0.18,
+        "formula": "GearMath!G131+GearMath!H131*GearMath!D$127",
+        "source": "Gear D/E",
+        "source_row": 131
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 128,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": "Poison DMG",
+          "E": 360,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D128+(GearMath!E128*GearMath!$D$127)",
+          "E": "GearMath!G128+GearMath!H128*GearMath!D$127"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 1000,
+          "E": 400,
+          "F": "Poison DMG",
+          "G": 360,
+          "H": 60
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$127=True,Gear!C128,0)"
+        }
+      },
+      {
+        "row": 129,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 500,
+          "D": "Crit",
+          "E": 0.12,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D129+(GearMath!E129*GearMath!$D$127)",
+          "E": "GearMath!G129+GearMath!H129*GearMath!D$127"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 500,
+          "E": 200,
+          "F": "Crit",
+          "G": 0.12,
+          "H": 0.02
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$127=True,Gear!C129,0)"
+        }
+      },
+      {
+        "row": 130,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": "Round 1 Crit",
+          "E": 0.12,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D130+(GearMath!E130*GearMath!$D$127)",
+          "E": "GearMath!G130+GearMath!H130*GearMath!D$127"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 40,
+          "F": "Round 1 Crit",
+          "G": 0.12,
+          "H": 0.02
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$127=True,Gear!C130,0)"
+        }
+      },
+      {
+        "row": 131,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 500,
+          "D": "Round 1 DMG",
+          "E": 0.18,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D131+(GearMath!E131*GearMath!$D$127)",
+          "E": "GearMath!G131+GearMath!H131*GearMath!D$127"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 500,
+          "E": 200,
+          "F": "Round 1 DMG",
+          "G": 0.18,
+          "H": 0.03
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$127=True,Gear!C131,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Incredible Key",
+    "section": "Instrument \"Attack\"",
+    "header_row": 133,
+    "equipped_cell": "Gear!F133",
+    "equipped": false,
+    "level_cell": "Gear!H133",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H133<2,0,Gear!H133-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "GearMath!D134+(GearMath!E134*GearMath!$D$133)",
+        "base": 1000,
+        "per_effective_level": 400,
+        "source_row": 134
+      },
+      "atk": {
+        "computed": 500,
+        "formula": "GearMath!D135+(GearMath!E135*GearMath!$D$133)",
+        "base": 500,
+        "per_effective_level": 200,
+        "source_row": 135
+      },
+      "def": {
+        "computed": 500,
+        "formula": "GearMath!D136+(GearMath!E136*GearMath!$D$133)",
+        "base": 500,
+        "per_effective_level": 200,
+        "source_row": 136
+      },
+      "rush": {
+        "computed": 100,
+        "formula": "GearMath!D137+(GearMath!E137*GearMath!$D$133)",
+        "base": 100,
+        "per_effective_level": 40,
+        "source_row": 137
+      }
+    },
+    "effects": [
+      {
+        "name": "Fire",
+        "base": 72,
+        "per_effective_level": 12,
+        "computed": 72,
+        "formula": "GearMath!G134+GearMath!H134*GearMath!D$133",
+        "source": "GearMath F/G/H",
+        "source_row": 134
+      },
+      {
+        "name": "Fire",
+        "computed": 72,
+        "formula": "GearMath!G134+GearMath!H134*GearMath!D$133",
+        "source": "Gear D/E",
+        "source_row": 134
+      },
+      {
+        "name": "Water",
+        "base": 72,
+        "per_effective_level": 12,
+        "computed": 72,
+        "formula": "GearMath!G135+GearMath!H135*GearMath!D$133",
+        "source": "GearMath F/G/H",
+        "source_row": 135
+      },
+      {
+        "name": "Water",
+        "computed": 72,
+        "formula": "GearMath!G135+GearMath!H135*GearMath!D$133",
+        "source": "Gear D/E",
+        "source_row": 135
+      },
+      {
+        "name": "Earth",
+        "base": 72,
+        "per_effective_level": 12,
+        "computed": 72,
+        "formula": "GearMath!G136+GearMath!H136*GearMath!D$133",
+        "source": "GearMath F/G/H",
+        "source_row": 136
+      },
+      {
+        "name": "Earth",
+        "computed": 72,
+        "formula": "GearMath!G136+GearMath!H136*GearMath!D$133",
+        "source": "Gear D/E",
+        "source_row": 136
+      },
+      {
+        "name": "Wind",
+        "base": 72,
+        "per_effective_level": 12,
+        "computed": 72,
+        "formula": "GearMath!G137+GearMath!H137*GearMath!D$133",
+        "source": "GearMath F/G/H",
+        "source_row": 137
+      },
+      {
+        "name": "Wind",
+        "computed": 72,
+        "formula": "GearMath!G137+GearMath!H137*GearMath!D$133",
+        "source": "Gear D/E",
+        "source_row": 137
+      },
+      {
+        "name": "Poison",
+        "base": 72,
+        "per_effective_level": 12,
+        "computed": 72,
+        "formula": "GearMath!G138+GearMath!H138*GearMath!D$133",
+        "source": "GearMath F/G/H",
+        "source_row": 138
+      },
+      {
+        "name": "Poison",
+        "computed": 72,
+        "formula": "GearMath!G138+GearMath!H138*GearMath!D$133",
+        "source": "Gear D/E",
+        "source_row": 138
+      },
+      {
+        "name": "Hit",
+        "base": 0.12,
+        "per_effective_level": 0.02,
+        "computed": 0.12,
+        "formula": "GearMath!G139+GearMath!H139*GearMath!D$133",
+        "source": "GearMath F/G/H",
+        "source_row": 139
+      },
+      {
+        "name": "Hit",
+        "computed": 0.12,
+        "formula": "GearMath!G139+GearMath!H139*GearMath!D$133",
+        "source": "Gear D/E",
+        "source_row": 139
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 134,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": "Fire",
+          "E": 72,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D134+(GearMath!E134*GearMath!$D$133)",
+          "E": "GearMath!G134+GearMath!H134*GearMath!D$133"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 1000,
+          "E": 400,
+          "F": "Fire",
+          "G": 72,
+          "H": 12
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$133=True,Gear!C134,0)"
+        }
+      },
+      {
+        "row": 135,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 500,
+          "D": "Water",
+          "E": 72,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D135+(GearMath!E135*GearMath!$D$133)",
+          "E": "GearMath!G135+GearMath!H135*GearMath!D$133"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 500,
+          "E": 200,
+          "F": "Water",
+          "G": 72,
+          "H": 12
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$133=True,Gear!C135,0)"
+        }
+      },
+      {
+        "row": 136,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 500,
+          "D": "Earth",
+          "E": 72,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D136+(GearMath!E136*GearMath!$D$133)",
+          "E": "GearMath!G136+GearMath!H136*GearMath!D$133"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 500,
+          "E": 200,
+          "F": "Earth",
+          "G": 72,
+          "H": 12
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$133=True,Gear!C136,0)"
+        }
+      },
+      {
+        "row": 137,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": "Wind",
+          "E": 72,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D137+(GearMath!E137*GearMath!$D$133)",
+          "E": "GearMath!G137+GearMath!H137*GearMath!D$133"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 40,
+          "F": "Wind",
+          "G": 72,
+          "H": 12
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$133=True,Gear!C137,0)"
+        }
+      },
+      {
+        "row": 138,
+        "gear_values": {
+          "A": null,
+          "B": null,
+          "C": null,
+          "D": "Poison",
+          "E": 72,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "E": "GearMath!G138+GearMath!H138*GearMath!D$133"
+        },
+        "gearmath_values": {
+          "A": null,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": "Poison",
+          "G": 72,
+          "H": 12
+        },
+        "gearmath_formulas": {}
+      },
+      {
+        "row": 139,
+        "gear_values": {
+          "A": null,
+          "B": null,
+          "C": null,
+          "D": "Hit",
+          "E": 0.12,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "E": "GearMath!G139+GearMath!H139*GearMath!D$133"
+        },
+        "gearmath_values": {
+          "A": null,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": "Hit",
+          "G": 0.12,
+          "H": 0.02
+        },
+        "gearmath_formulas": {}
+      },
+      {
+        "row": 141,
+        "gear_values": {
+          "A": null,
+          "B": "Armor",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": null,
+          "B": "Armor",
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {}
+      }
+    ]
+  },
+  {
+    "name": "Ring of Paralysis",
+    "section": "Armor",
+    "header_row": 142,
+    "equipped_cell": "Gear!F142",
+    "equipped": false,
+    "level_cell": "Gear!H142",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H141<2,0,Gear!H141-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "D143+(E143*$D$142)",
+        "base": 1000,
+        "per_effective_level": null,
+        "source_row": 143
+      },
+      "atk": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 144
+      },
+      "def": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 145
+      },
+      "rush": {
+        "computed": 500,
+        "formula": null,
+        "base": 500,
+        "per_effective_level": null,
+        "source_row": 146
+      }
+    },
+    "effects": [
+      {
+        "name": "Paralyze",
+        "base_or_computed": 0.072,
+        "source": "Gear I/J",
+        "source_row": 143
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 143,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": 1000,
+          "E": null,
+          "F": null,
+          "G": 0.072,
+          "H": null,
+          "I": "Paralyze",
+          "J": 0.072,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "D143+(E143*$D$142)",
+          "G": "J143+K143*D$142"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$142=True,Gear!C143,0)"
+        }
+      },
+      {
+        "row": 144,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$142=True,Gear!C144,0)"
+        }
+      },
+      {
+        "row": 145,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$142=True,Gear!C145,0)"
+        }
+      },
+      {
+        "row": 146,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 500,
+          "D": 500,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$142=True,Gear!C146,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dracula Cape",
+    "section": "Armor",
+    "header_row": 149,
+    "equipped_cell": "Gear!F149",
+    "equipped": false,
+    "level_cell": "Gear!H149",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H146<2,0,Gear!H146-1)",
+    "stats": {
+      "hp": {
+        "computed": 5000,
+        "formula": "D150+(E150*$D$149)",
+        "base": 5000,
+        "per_effective_level": null,
+        "source_row": 150
+      },
+      "atk": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 151
+      },
+      "def": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 152
+      },
+      "rush": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 153
+      }
+    },
+    "effects": [
+      {
+        "name": "Lifesteal Rate",
+        "base_or_computed": 0.12,
+        "source": "Gear I/J",
+        "source_row": 150
+      },
+      {
+        "name": "Lifesteal EFF",
+        "base_or_computed": 0.6,
+        "source": "Gear I/J",
+        "source_row": 151
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 150,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 5000,
+          "D": 5000,
+          "E": null,
+          "F": null,
+          "G": 0.12,
+          "H": null,
+          "I": "Lifesteal Rate",
+          "J": 0.12,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "D150+(E150*$D$149)",
+          "G": "J150+K150*D$149"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$149=True,Gear!C150,0)"
+        }
+      },
+      {
+        "row": 151,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": 0.6,
+          "H": null,
+          "I": "Lifesteal EFF",
+          "J": 0.6,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$149=True,Gear!C151,0)"
+        }
+      },
+      {
+        "row": 152,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$149=True,Gear!C152,0)"
+        }
+      },
+      {
+        "row": 153,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$149=True,Gear!C153,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fortress",
+    "section": "Armor",
+    "header_row": 155,
+    "equipped_cell": "Gear!F155",
+    "equipped": false,
+    "level_cell": "Gear!H155",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H155<2,0,Gear!H155-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "GearMath!D156+(GearMath!E156*GearMath!$D$155)",
+        "base": 1000,
+        "per_effective_level": 200,
+        "source_row": 156
+      },
+      "atk": {
+        "computed": 100,
+        "formula": "GearMath!D157+(GearMath!E157*GearMath!$D$155)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 157
+      },
+      "def": {
+        "computed": 500,
+        "formula": "GearMath!D158+(GearMath!E158*GearMath!$D$155)",
+        "base": 500,
+        "per_effective_level": 100,
+        "source_row": 158
+      },
+      "rush": {
+        "computed": 100,
+        "formula": "GearMath!D159+(GearMath!E159*GearMath!$D$155)",
+        "base": 100,
+        "per_effective_level": 20,
+        "source_row": 159
+      }
+    },
+    "effects": [
+      {
+        "name": "DMG Reduc",
+        "base": 0.096,
+        "per_effective_level": 0.016,
+        "computed": 0.096,
+        "formula": "GearMath!G156+GearMath!H156*GearMath!D$155",
+        "source": "GearMath F/G/H",
+        "source_row": 156
+      },
+      {
+        "name": "DMG Reduc",
+        "computed": 0.096,
+        "formula": "GearMath!G156+GearMath!H156*GearMath!D$155",
+        "source": "Gear D/E",
+        "source_row": 156
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 156,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": "DMG Reduc",
+          "E": 0.096,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D156+(GearMath!E156*GearMath!$D$155)",
+          "E": "GearMath!G156+GearMath!H156*GearMath!D$155"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 1000,
+          "E": 200,
+          "F": "DMG Reduc",
+          "G": 0.096,
+          "H": 0.016
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$155=True,Gear!C156,0)"
+        }
+      },
+      {
+        "row": 157,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D157+(GearMath!E157*GearMath!$D$155)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$155=True,Gear!C157,0)"
+        }
+      },
+      {
+        "row": 158,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 500,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D158+(GearMath!E158*GearMath!$D$155)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 500,
+          "E": 100,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$155=True,Gear!C158,0)"
+        }
+      },
+      {
+        "row": 159,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D159+(GearMath!E159*GearMath!$D$155)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 100,
+          "E": 20,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$155=True,Gear!C159,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Traveler Outfit",
+    "section": "Armor",
+    "header_row": 161,
+    "equipped_cell": "Gear!F161",
+    "equipped": false,
+    "level_cell": "Gear!H161",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H161<2,0,Gear!H161-1)",
+    "stats": {
+      "hp": {
+        "computed": 3000,
+        "formula": "D162+(E162*$D$161)",
+        "base": 3000,
+        "per_effective_level": null,
+        "source_row": 162
+      },
+      "atk": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 163
+      },
+      "def": {
+        "computed": 300,
+        "formula": null,
+        "base": 300,
+        "per_effective_level": null,
+        "source_row": 164
+      },
+      "rush": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 165
+      }
+    },
+    "effects": [
+      {
+        "name": "Dodge",
+        "base_or_computed": 0.12,
+        "source": "Gear I/J",
+        "source_row": 162
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 162,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 3000,
+          "D": 3000,
+          "E": null,
+          "F": null,
+          "G": 0.12,
+          "H": null,
+          "I": "Dodge",
+          "J": 0.12,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "D162+(E162*$D$161)",
+          "G": "J162+K162*D$161"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$161=True,Gear!C162,0)"
+        }
+      },
+      {
+        "row": 163,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$161=True,Gear!C163,0)"
+        }
+      },
+      {
+        "row": 164,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 300,
+          "D": 300,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$161=True,Gear!C164,0)"
+        }
+      },
+      {
+        "row": 165,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$161=True,Gear!C165,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Great Magician",
+    "section": "Armor",
+    "header_row": 167,
+    "equipped_cell": "Gear!F167",
+    "equipped": false,
+    "level_cell": "Gear!H167",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H167<2,0,Gear!H167-1)",
+    "stats": {
+      "hp": {
+        "computed": 2000,
+        "formula": "D168+(E168*$D$167)",
+        "base": 2000,
+        "per_effective_level": null,
+        "source_row": 168
+      },
+      "atk": {
+        "computed": 200,
+        "formula": null,
+        "base": 200,
+        "per_effective_level": null,
+        "source_row": 169
+      },
+      "def": {
+        "computed": 200,
+        "formula": null,
+        "base": 200,
+        "per_effective_level": null,
+        "source_row": 170
+      },
+      "rush": {
+        "computed": 200,
+        "formula": null,
+        "base": 200,
+        "per_effective_level": null,
+        "source_row": 171
+      }
+    },
+    "effects": [
+      {
+        "name": "Snail ATK",
+        "base_or_computed": 360,
+        "source": "Gear I/J",
+        "source_row": 168
+      },
+      {
+        "name": "Snail DEF",
+        "base_or_computed": 360,
+        "source": "Gear I/J",
+        "source_row": 169
+      },
+      {
+        "name": "Per 10% HP",
+        "base_or_computed": null,
+        "source": "Gear I/J",
+        "source_row": 171
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 168,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 2000,
+          "D": 2000,
+          "E": null,
+          "F": null,
+          "G": 360,
+          "H": null,
+          "I": "Snail ATK",
+          "J": 360,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "D168+(E168*$D$167)",
+          "G": "J168+K168*D$167"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$167=True,Gear!C168,0)"
+        }
+      },
+      {
+        "row": 169,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 200,
+          "D": 200,
+          "E": null,
+          "F": null,
+          "G": 360,
+          "H": null,
+          "I": "Snail DEF",
+          "J": 360,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$167=True,Gear!C169,0)"
+        }
+      },
+      {
+        "row": 170,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 200,
+          "D": 200,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$167=True,Gear!C170,0)"
+        }
+      },
+      {
+        "row": 171,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 200,
+          "D": 200,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": "Per 10% HP",
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$167=True,Gear!C171,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Antimatter Shield",
+    "section": "Armor",
+    "header_row": 173,
+    "equipped_cell": "Gear!F173",
+    "equipped": false,
+    "level_cell": "Gear!H173",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H173<2,0,Gear!H173-1)",
+    "stats": {
+      "hp": {
+        "computed": 1000,
+        "formula": "D174+(E174*$D$173)",
+        "base": 1000,
+        "per_effective_level": null,
+        "source_row": 174
+      },
+      "atk": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 175
+      },
+      "def": {
+        "computed": 500,
+        "formula": null,
+        "base": 500,
+        "per_effective_level": null,
+        "source_row": 176
+      },
+      "rush": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 177
+      }
+    },
+    "effects": [
+      {
+        "name": "Crit DMG REDUC",
+        "base_or_computed": 0.12,
+        "source": "Gear I/J",
+        "source_row": 174
+      },
+      {
+        "name": "Each RND DEF",
+        "base_or_computed": 96,
+        "source": "Gear I/J",
+        "source_row": 175
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 174,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 1000,
+          "D": 1000,
+          "E": null,
+          "F": null,
+          "G": 0.12,
+          "H": null,
+          "I": "Crit DMG REDUC",
+          "J": 0.12,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "D174+(E174*$D$173)",
+          "G": "J174+K174*D$173"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$173=True,Gear!C174,0)"
+        }
+      },
+      {
+        "row": 175,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": 96,
+          "H": null,
+          "I": "Each RND DEF",
+          "J": 96,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$173=True,Gear!C175,0)"
+        }
+      },
+      {
+        "row": 176,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 500,
+          "D": 500,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$173=True,Gear!C176,0)"
+        }
+      },
+      {
+        "row": 177,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$173=True,Gear!C177,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Great Entertainer",
+    "section": "Armor",
+    "header_row": 179,
+    "equipped_cell": "Gear!F179",
+    "equipped": false,
+    "level_cell": "Gear!H179",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H179<2,0,Gear!H179-1)",
+    "stats": {
+      "hp": {
+        "computed": 2000,
+        "formula": "GearMath!D180+(GearMath!E180*GearMath!$D$179)",
+        "base": 2000,
+        "per_effective_level": 400,
+        "source_row": 180
+      },
+      "atk": {
+        "computed": 200,
+        "formula": "GearMath!D181+(GearMath!E181*GearMath!$D$179)",
+        "base": 200,
+        "per_effective_level": 40,
+        "source_row": 181
+      },
+      "def": {
+        "computed": 200,
+        "formula": "GearMath!D182+(GearMath!E182*GearMath!$D$179)",
+        "base": 200,
+        "per_effective_level": 40,
+        "source_row": 182
+      },
+      "rush": {
+        "computed": 200,
+        "formula": "GearMath!D183+(GearMath!E183*GearMath!$D$179)",
+        "base": 200,
+        "per_effective_level": 40,
+        "source_row": 183
+      }
+    },
+    "effects": [
+      {
+        "name": "FTH",
+        "base": 300,
+        "per_effective_level": 20,
+        "computed": 300,
+        "formula": "GearMath!G180+GearMath!H180*GearMath!D$179",
+        "source": "GearMath F/G/H",
+        "source_row": 180
+      },
+      {
+        "name": "FTH",
+        "computed": 300,
+        "formula": "GearMath!G180+GearMath!H180*GearMath!D$179",
+        "source": "Gear D/E",
+        "source_row": 180
+      },
+      {
+        "name": "ART",
+        "base": 300,
+        "per_effective_level": 20,
+        "computed": 300,
+        "formula": "GearMath!G181+GearMath!H181*GearMath!D$179",
+        "source": "GearMath F/G/H",
+        "source_row": 181
+      },
+      {
+        "name": "ART",
+        "computed": 300,
+        "formula": "GearMath!G181+GearMath!H181*GearMath!D$179",
+        "source": "Gear D/E",
+        "source_row": 181
+      },
+      {
+        "name": "CIV",
+        "base": 300,
+        "per_effective_level": 20,
+        "computed": 300,
+        "formula": "GearMath!G182+GearMath!H182*GearMath!D$179",
+        "source": "GearMath F/G/H",
+        "source_row": 182
+      },
+      {
+        "name": "CIV",
+        "computed": 300,
+        "formula": "GearMath!G182+GearMath!H182*GearMath!D$179",
+        "source": "Gear D/E",
+        "source_row": 182
+      },
+      {
+        "name": "TECH",
+        "base": 300,
+        "per_effective_level": 20,
+        "computed": 300,
+        "formula": "GearMath!G183+GearMath!H183*GearMath!D$179",
+        "source": "GearMath F/G/H",
+        "source_row": 183
+      },
+      {
+        "name": "TECH",
+        "computed": 300,
+        "formula": "GearMath!G183+GearMath!H183*GearMath!D$179",
+        "source": "Gear D/E",
+        "source_row": 183
+      },
+      {
+        "name": "FAME",
+        "base": 300,
+        "per_effective_level": 20,
+        "computed": 300,
+        "formula": "GearMath!G184+GearMath!H184*GearMath!D$179",
+        "source": "GearMath F/G/H",
+        "source_row": 184
+      },
+      {
+        "name": "FAME",
+        "computed": 300,
+        "formula": "GearMath!G184+GearMath!H184*GearMath!D$179",
+        "source": "Gear D/E",
+        "source_row": 184
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 180,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 2000,
+          "D": "FTH",
+          "E": 300,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D180+(GearMath!E180*GearMath!$D$179)",
+          "E": "GearMath!G180+GearMath!H180*GearMath!D$179"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 2000,
+          "E": 400,
+          "F": "FTH",
+          "G": 300,
+          "H": 20
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$179=True,Gear!C180,0)"
+        }
+      },
+      {
+        "row": 181,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 200,
+          "D": "ART",
+          "E": 300,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D181+(GearMath!E181*GearMath!$D$179)",
+          "E": "GearMath!G181+GearMath!H181*GearMath!D$179"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 200,
+          "E": 40,
+          "F": "ART",
+          "G": 300,
+          "H": 20
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$179=True,Gear!C181,0)"
+        }
+      },
+      {
+        "row": 182,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 200,
+          "D": "CIV",
+          "E": 300,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D182+(GearMath!E182*GearMath!$D$179)",
+          "E": "GearMath!G182+GearMath!H182*GearMath!D$179"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 200,
+          "E": 40,
+          "F": "CIV",
+          "G": 300,
+          "H": 20
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$179=True,Gear!C182,0)"
+        }
+      },
+      {
+        "row": 183,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 200,
+          "D": "TECH",
+          "E": 300,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D183+(GearMath!E183*GearMath!$D$179)",
+          "E": "GearMath!G183+GearMath!H183*GearMath!D$179"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 200,
+          "E": 40,
+          "F": "TECH",
+          "G": 300,
+          "H": 20
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$179=True,Gear!C183,0)"
+        }
+      },
+      {
+        "row": 184,
+        "gear_values": {
+          "A": null,
+          "B": null,
+          "C": null,
+          "D": "FAME",
+          "E": 300,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "E": "GearMath!G184+GearMath!H184*GearMath!D$179"
+        },
+        "gearmath_values": {
+          "A": null,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": "FAME",
+          "G": 300,
+          "H": 20
+        },
+        "gearmath_formulas": {}
+      }
+    ]
+  },
+  {
+    "name": "Agamemnon Outfit",
+    "section": "Armor",
+    "header_row": 186,
+    "equipped_cell": "Gear!F186",
+    "equipped": false,
+    "level_cell": "Gear!H186",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H186<2,0,Gear!H186-1)",
+    "stats": {
+      "hp": {
+        "computed": 3000,
+        "formula": "D187+(E187*$D$186)",
+        "base": 3000,
+        "per_effective_level": null,
+        "source_row": 187
+      },
+      "atk": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 188
+      },
+      "def": {
+        "computed": 300,
+        "formula": null,
+        "base": 300,
+        "per_effective_level": null,
+        "source_row": 189
+      },
+      "rush": {
+        "computed": 100,
+        "formula": null,
+        "base": 100,
+        "per_effective_level": null,
+        "source_row": 190
+      }
+    },
+    "effects": [
+      {
+        "name": "Restore HP",
+        "base_or_computed": 960,
+        "source": "Gear I/J",
+        "source_row": 187
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 187,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 3000,
+          "D": 3000,
+          "E": null,
+          "F": null,
+          "G": 960,
+          "H": null,
+          "I": "Restore HP",
+          "J": 960,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "D187+(E187*$D$186)",
+          "G": "J187+K187*D$186"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$187=True,Gear!C187,0)"
+        }
+      },
+      {
+        "row": 188,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$187=True,Gear!C188,0)"
+        }
+      },
+      {
+        "row": 189,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 300,
+          "D": 300,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$187=True,Gear!C189,0)"
+        }
+      },
+      {
+        "row": 190,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 100,
+          "D": 100,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {},
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": null,
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$187=True,Gear!C190,0)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Libra Artifact",
+    "section": "Armor",
+    "header_row": 192,
+    "equipped_cell": "Gear!F192",
+    "equipped": false,
+    "level_cell": "Gear!H192",
+    "level": 0,
+    "effective_level_index": 0,
+    "effective_level_formula": "if(Gear!H192<2,0,Gear!H192-1)",
+    "stats": {
+      "hp": {
+        "computed": 2000,
+        "formula": "GearMath!D193+(GearMath!E193*GearMath!$D$192)",
+        "base": 2000,
+        "per_effective_level": 400,
+        "source_row": 193
+      },
+      "atk": {
+        "computed": 200,
+        "formula": "GearMath!D194+(GearMath!E194*GearMath!$D$192)",
+        "base": 200,
+        "per_effective_level": 40,
+        "source_row": 194
+      },
+      "def": {
+        "computed": 200,
+        "formula": "GearMath!D195+(GearMath!E195*GearMath!$D$192)",
+        "base": 200,
+        "per_effective_level": 40,
+        "source_row": 195
+      },
+      "rush": {
+        "computed": 200,
+        "formula": "GearMath!D196+(GearMath!E196*GearMath!$D$192)",
+        "base": 200,
+        "per_effective_level": 40,
+        "source_row": 196
+      }
+    },
+    "effects": [
+      {
+        "name": "HP >50%",
+        "base": null,
+        "per_effective_level": null,
+        "computed": null,
+        "formula": null,
+        "source": "GearMath F/G/H",
+        "source_row": 193
+      },
+      {
+        "name": "HP >50%",
+        "computed": null,
+        "formula": null,
+        "source": "Gear D/E",
+        "source_row": 193
+      },
+      {
+        "name": "DEF",
+        "base": 1200,
+        "per_effective_level": 200,
+        "computed": 1200,
+        "formula": "GearMath!G194+GearMath!H194*GearMath!D$192",
+        "source": "GearMath F/G/H",
+        "source_row": 194
+      },
+      {
+        "name": "DEF",
+        "computed": 1200,
+        "formula": "GearMath!G194+GearMath!H194*GearMath!D$192",
+        "source": "Gear D/E",
+        "source_row": 194
+      },
+      {
+        "name": "HP >50%",
+        "base": null,
+        "per_effective_level": null,
+        "computed": null,
+        "formula": null,
+        "source": "GearMath F/G/H",
+        "source_row": 195
+      },
+      {
+        "name": "HP >50%",
+        "computed": null,
+        "formula": null,
+        "source": "Gear D/E",
+        "source_row": 195
+      },
+      {
+        "name": "ATK",
+        "base": 1200,
+        "per_effective_level": 200,
+        "computed": 1200,
+        "formula": "GearMath!G196+GearMath!H196*GearMath!D$192",
+        "source": "GearMath F/G/H",
+        "source_row": 196
+      },
+      {
+        "name": "ATK",
+        "computed": 1200,
+        "formula": "GearMath!G196+GearMath!H196*GearMath!D$192",
+        "source": "Gear D/E",
+        "source_row": 196
+      }
+    ],
+    "raw_rows": [
+      {
+        "row": 193,
+        "gear_values": {
+          "A": null,
+          "B": "HP",
+          "C": 2000,
+          "D": "HP >50%",
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D193+(GearMath!E193*GearMath!$D$192)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 2000,
+          "E": 400,
+          "F": "HP >50%",
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$192=True,Gear!C193,0)"
+        }
+      },
+      {
+        "row": 194,
+        "gear_values": {
+          "A": null,
+          "B": "ATK",
+          "C": 200,
+          "D": "DEF",
+          "E": 1200,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D194+(GearMath!E194*GearMath!$D$192)",
+          "E": "GearMath!G194+GearMath!H194*GearMath!D$192"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 200,
+          "E": 40,
+          "F": "DEF",
+          "G": 1200,
+          "H": 200
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$192=True,Gear!C194,0)"
+        }
+      },
+      {
+        "row": 195,
+        "gear_values": {
+          "A": null,
+          "B": "DEF",
+          "C": 200,
+          "D": "HP >50%",
+          "E": null,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D195+(GearMath!E195*GearMath!$D$192)"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 200,
+          "E": 40,
+          "F": "HP >50%",
+          "G": null,
+          "H": null
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$192=True,Gear!C195,0)"
+        }
+      },
+      {
+        "row": 196,
+        "gear_values": {
+          "A": null,
+          "B": "RUSH",
+          "C": 200,
+          "D": "ATK",
+          "E": 1200,
+          "F": null,
+          "G": null,
+          "H": null,
+          "I": null,
+          "J": null,
+          "K": null
+        },
+        "gear_formulas": {
+          "C": "GearMath!D196+(GearMath!E196*GearMath!$D$192)",
+          "E": "GearMath!G196+GearMath!H196*GearMath!D$192"
+        },
+        "gearmath_values": {
+          "A": 0,
+          "B": null,
+          "C": null,
+          "D": 200,
+          "E": 40,
+          "F": "ATK",
+          "G": 1200,
+          "H": 200
+        },
+        "gearmath_formulas": {
+          "A": "if(Gear!F$192=True,Gear!C196,0)"
+        }
+      }
+    ]
+  }
+]
