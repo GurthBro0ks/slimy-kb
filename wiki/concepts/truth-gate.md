@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-05-06 12:53 UTC (git)
-> Version: r86 / 56fbe40
+> Version: r87 / 6cb30b0
 KB METADATA -->
 
 A truth gate is the required verification set that proves a change is actually done.
