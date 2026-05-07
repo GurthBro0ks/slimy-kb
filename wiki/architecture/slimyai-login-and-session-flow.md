@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-05-07 00:53 UTC (git)
-> Version: r86 / 6a3d11a
+> Version: r87 / 60344be
 KB METADATA -->
 
 This article documents the active SlimyAI web login/session architecture and explicitly separates canonical behavior from legacy or unclear paths.
