@@ -2,8 +2,8 @@
 > Quick-lookup flat list of all concepts. Auto-maintained.
 
 <!-- KB METADATA
-> Last edited: 2026-05-08 00:55 UTC (git)
-> Version: r99 / 93c8d9f
+> Last edited: 2026-05-08 12:56 UTC (git)
+> Version: r100 / ba5a6a8
 KB METADATA -->
 
 - Agent session contract

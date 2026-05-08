@@ -6,8 +6,8 @@
 > Note: Re-verified 2026-04-11 (compile 20260411-230740): all sourced raw files current, no new content. Status: reviewed.
 
 <!-- KB METADATA
-> Last edited: 2026-05-08 00:55 UTC (git)
-> Version: r102 / 93c8d9f
+> Last edited: 2026-05-08 12:56 UTC (git)
+> Version: r103 / ba5a6a8
 KB METADATA -->
 
 Fix for NUC1 wrapper recursion guard interference that caused finish-hook behavior drift and child-compile protection failures.
