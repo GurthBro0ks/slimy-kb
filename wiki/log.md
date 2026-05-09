@@ -4,8 +4,8 @@
 > Host: slimy-nuc2
 
 <!-- KB METADATA
-> Last edited: 2026-05-09 00:57 UTC (git)
-> Version: r146 / 9810c9b
+> Last edited: 2026-05-09 10:52 UTC (git)
+> Version: r148 / a8ef8fa
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -7093,5 +7093,15 @@ KB METADATA -->
 - summary: slimy-nuc2
 - commit: 7761890
 - notes: 
+
+
+## [2026-05-09 12:58] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - (none)
+- summary: 12h maintenance run
+- commit: a8ef8fa
+- notes: auto-maintenance from kb-maintenance.sh 2026-05-09T12:58:03Z
 
 
