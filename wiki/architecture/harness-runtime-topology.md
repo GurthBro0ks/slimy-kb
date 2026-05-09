@@ -6,8 +6,8 @@
 > Status: reviewed
 
 <!-- KB METADATA
-> Last edited: 2026-05-08 12:56 UTC (git)
-> Version: r99 / 5fc5d6f
+> Last edited: 2026-05-09 00:57 UTC (git)
+> Version: r100 / 9810c9b
 KB METADATA -->
 
 This article maps where SlimyAI harness components live, who owns them at runtime, and how host-local vs shared controls interact.
