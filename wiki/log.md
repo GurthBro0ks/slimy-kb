@@ -7081,3 +7081,17 @@ KB METADATA -->
 - notes: stage1.86 run: todos=18 nuc1_items=84 nuc1_evidence=YES
 
 
+## [2026-05-09 10:51] compile | slimy-nuc2
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - raw/agent-learnings/2026-05-09-slimy-nuc2-codex-summary.md
+  - raw/changelogs/2026-05-09-slimy-nuc2-project-changelog.md
+  - raw/inbox-nuc1/2026-05-09-nuc1-repos.json
+  - raw/inbox-nuc1/2026-05-09-nuc1-repos.md
+  - raw/inbox-nuc1/2026-05-09-nuc1-state.md
+- summary: slimy-nuc2
+- commit: 7761890
+- notes: 
+
+
