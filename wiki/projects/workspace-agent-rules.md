@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-05-09 12:58 UTC (git)
-> Version: r96 / bed3a41
+> Version: r97 / 4636050
 KB METADATA -->
 
 OpenCLAW workspace agent operating rules, compiled from the canonical `AGENTS.md` found in the workspace root.
