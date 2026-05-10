@@ -1,13 +1,13 @@
 # KB Health Snapshot
 
-**Timestamp:** 2026-05-10T00:59:10Z
+**Timestamp:** 2026-05-10T13:00:09Z
 **Host:** slimy-nuc2
 
 ## File Counts
 
 - wiki/*.md (articles): 2
 - wiki/_*.md (meta): 9
-- raw/**/*.md: 264
+- raw/**/*.md: 266
 - output/*.md: 95
 
 ## Index Files
@@ -29,17 +29,17 @@
 
 ## Log Recent Entries (last 5)
 
-- [2026-05-09 00:57] wiki_manager | stage1.86 todo queue generation
-- [2026-05-09 10:51] compile | slimy-nuc2
 - [2026-05-09 12:58] maintenance | 12h maintenance run
 - [2026-05-09 12:58] wiki_manager | stage1.86 todo queue generation
 - [2026-05-10 00:59] maintenance | 12h maintenance run
+- [2026-05-10 00:59] wiki_manager | stage1.86 todo queue generation
+- [2026-05-10 13:00] maintenance | 12h maintenance run
 
 ## Recent Output Files (48h)
 
-- candidate_review_pack.md (2026-05-09 12:58)
-- harness_candidates.md (2026-05-09 12:58)
-- todo_queue.md (2026-05-09 12:58)
+- candidate_review_pack.md (2026-05-10 00:59)
+- harness_candidates.md (2026-05-10 00:59)
+- todo_queue.md (2026-05-10 00:59)
 
 ## Compile Candidates
 
@@ -47,8 +47,11 @@
 
 ## NUC1 Inbox
 
-- inbox-nuc1 files: 87
+- inbox-nuc1 files: 90
   - /home/slimy/kb/raw/inbox-nuc1/2026-05-09-nuc1-repos.md
+  - /home/slimy/kb/raw/inbox-nuc1/2026-05-10-nuc1-repos.md
+  - /home/slimy/kb/raw/inbox-nuc1/2026-05-10-nuc1-repos.json
+  - /home/slimy/kb/raw/inbox-nuc1/2026-05-10-nuc1-state.md
   - /home/slimy/kb/raw/inbox-nuc1/2026-05-09-nuc1-repos.json
   - /home/slimy/kb/raw/inbox-nuc1/2026-05-09-nuc1-state.md
 
