@@ -1,14 +1,14 @@
 # Wiki Manager Status
 
 > Category: concepts
-> Updated: 2026-05-10T13:00:10Z
+> Updated: 2026-05-11T01:00:10Z
 
 <!-- KB METADATA
-> Last edited: 2026-05-10 13:00 UTC (git)
-> Version: r117 / 9433503
+> Last edited: 2026-05-11 01:00 UTC (git)
+> Version: r118 / 4849e38
 KB METADATA -->
 
-**Last run:** 2026-05-10T13:00:10Z
+**Last run:** 2026-05-11T01:00:10Z
 **Stage:** 1.86
 **Backend:** stub
 **NUC1 evidence:** consumed
@@ -60,45 +60,45 @@ KB METADATA -->
 
 ## Harness Candidates
 
-- **[todo-2026-05-10-001]** NUC1 repo has uncommitted changes: Slimefun4 (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-002]** NUC1 repo has uncommitted changes: PrivateStorage (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-003]** NUC1 repo has uncommitted changes: DynaTech (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-004]** NUC1 repo has uncommitted changes: mission-control (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-005]** NUC1 repo has uncommitted changes: ned-autonomous (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-006]** NUC1 repo has uncommitted changes: stoat-source (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-007]** NUC1 repo has uncommitted changes: mailbox_outbox (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-008]** NUC1 repo has uncommitted changes: slimy-chat (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-009]** NUC1 repo has uncommitted changes: clawd (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-010]** NUC1 repo has uncommitted changes: ned-clawd (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-011]** NUC1 repo diverged from remote: Slimefun4 (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-012]** NUC1 repo diverged from remote: slimy-monorepo (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-013]** Resolve 18 orphaned wiki pages (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-014]** Review orphaned page: log.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-015]** Review orphaned page: projects/agents-backup-full.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-016]** Review orphaned page: projects/mailbox-outbox.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-017]** Review orphaned page: projects/mcp-agent-mailbox.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-10-018]** Review orphaned page: projects/nuc1-project-anomalies.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-001]** NUC1 repo has uncommitted changes: Slimefun4 (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-002]** NUC1 repo has uncommitted changes: PrivateStorage (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-003]** NUC1 repo has uncommitted changes: DynaTech (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-004]** NUC1 repo has uncommitted changes: mission-control (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-005]** NUC1 repo has uncommitted changes: ned-autonomous (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-006]** NUC1 repo has uncommitted changes: stoat-source (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-007]** NUC1 repo has uncommitted changes: mailbox_outbox (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-008]** NUC1 repo has uncommitted changes: slimy-chat (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-009]** NUC1 repo has uncommitted changes: clawd (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-010]** NUC1 repo has uncommitted changes: ned-clawd (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-011]** NUC1 repo diverged from remote: Slimefun4 (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-012]** NUC1 repo diverged from remote: slimy-monorepo (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-013]** Resolve 18 orphaned wiki pages (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-014]** Review orphaned page: log.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-015]** Review orphaned page: projects/agents-backup-full.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-016]** Review orphaned page: projects/mailbox-outbox.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-017]** Review orphaned page: projects/mcp-agent-mailbox.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-11-018]** Review orphaned page: projects/nuc1-project-anomalies.md (severity: high, promotion: candidate, fresh)
 
 ## Task List
 
-🔄 [todo-2026-05-10-001] NUC1 repo has uncommitted changes: Slimefun4 (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-10-002] NUC1 repo has uncommitted changes: PrivateStorage (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-10-003] NUC1 repo has uncommitted changes: DynaTech (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-10-004] NUC1 repo has uncommitted changes: mission-control (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-10-005] NUC1 repo has uncommitted changes: ned-autonomous (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-10-006] NUC1 repo has uncommitted changes: stoat-source (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-10-007] NUC1 repo has uncommitted changes: mailbox_outbox (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-10-008] NUC1 repo has uncommitted changes: slimy-chat (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-10-009] NUC1 repo has uncommitted changes: clawd (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-10-010] NUC1 repo has uncommitted changes: ned-clawd (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-10-011] NUC1 repo diverged from remote: Slimefun4 (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-10-012] NUC1 repo diverged from remote: slimy-monorepo (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-10-013] Resolve 18 orphaned wiki pages (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-05-10-014] Review orphaned page: log.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-05-10-015] Review orphaned page: projects/agents-backup-full.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-05-10-016] Review orphaned page: projects/mailbox-outbox.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-05-10-017] Review orphaned page: projects/mcp-agent-mailbox.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-05-10-018] Review orphaned page: projects/nuc1-project-anomalies.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-05-11-001] NUC1 repo has uncommitted changes: Slimefun4 (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-11-002] NUC1 repo has uncommitted changes: PrivateStorage (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-11-003] NUC1 repo has uncommitted changes: DynaTech (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-11-004] NUC1 repo has uncommitted changes: mission-control (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-11-005] NUC1 repo has uncommitted changes: ned-autonomous (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-11-006] NUC1 repo has uncommitted changes: stoat-source (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-11-007] NUC1 repo has uncommitted changes: mailbox_outbox (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-11-008] NUC1 repo has uncommitted changes: slimy-chat (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-11-009] NUC1 repo has uncommitted changes: clawd (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-11-010] NUC1 repo has uncommitted changes: ned-clawd (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-11-011] NUC1 repo diverged from remote: Slimefun4 (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-11-012] NUC1 repo diverged from remote: slimy-monorepo (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-11-013] Resolve 18 orphaned wiki pages (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-05-11-014] Review orphaned page: log.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-05-11-015] Review orphaned page: projects/agents-backup-full.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-05-11-016] Review orphaned page: projects/mailbox-outbox.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-05-11-017] Review orphaned page: projects/mcp-agent-mailbox.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-05-11-018] Review orphaned page: projects/nuc1-project-anomalies.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
 
 ---
 *Managed by wiki-manager-stage1.timer (every 12h). Do not edit directly.*
