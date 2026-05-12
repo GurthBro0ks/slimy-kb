@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-05-11 13:00 UTC (git)
-> Version: r108 / ab1ca10
+> Version: r109 / 54f8a5e
 KB METADATA -->
 
 Slimy KB is the SlimyAI knowledge base — a git-based, cross-NUC synced wiki with a raw-to-compiled build pipeline and CLI tooling.
