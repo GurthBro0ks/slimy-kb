@@ -8,7 +8,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-05-14 01:01 UTC (git)
-> Version: r117 / e6f39bf
+> Version: r118 / a46898b
 KB METADATA -->
 
 Normalized GitHub remotes to SSH on NUC2 so `slimy-agent-finish.sh` can push repos without triggering interactive credential prompts. All GurthBro0ks-owned and `wshobson`-owned repos use SSH; third-party and local-only repos are excluded with appropriate guards.
