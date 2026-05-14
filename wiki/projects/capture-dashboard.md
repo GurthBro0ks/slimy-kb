@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-05-14 01:01 UTC (git)
-> Version: r115 / a46898b
+> Last edited: 2026-05-14 13:02 UTC (git)
+> Version: r116 / 7821b42
 KB METADATA -->
 
 Capture Dashboard is the Obsidian operator intake surface. It maps vault folders to capture types and provides quick-action links for the full ingest-compile-sync cycle.
