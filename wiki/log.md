@@ -5,7 +5,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-05-14 13:02 UTC (git)
-> Version: r169 / 7821b42
+> Version: r170 / 77eaa26
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -8644,5 +8644,19 @@ KB METADATA -->
 - summary: stage1.86 todo queue generation
 - commit: 7821b42
 - notes: stage1.86 run: todos=18 nuc1_items=102 nuc1_evidence=YES
+
+
+## [2026-05-15 01:03] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - raw/agent-learnings/2026-05-14-slimy-nuc2-codex-summary.md
+  - raw/changelogs/2026-05-14-slimy-nuc2-project-changelog.md
+  - raw/inbox-nuc1/2026-05-14-nuc1-repos.json
+  - raw/inbox-nuc1/2026-05-14-nuc1-repos.md
+  - raw/inbox-nuc1/2026-05-14-nuc1-state.md
+- summary: 12h maintenance run
+- commit: 594e212
+- notes: auto-maintenance from kb-maintenance.sh 2026-05-15T01:03:03Z
 
 
