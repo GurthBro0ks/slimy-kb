@@ -1,7 +1,7 @@
-# Candidate Review Pack — 2026-05-16T01:16:48Z
+# Candidate Review Pack — 2026-05-16T13:17:16Z
 
 > Stage: 1.86
-> Generated: 2026-05-16T01:16:48Z
+> Generated: 2026-05-16T13:17:16Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
@@ -15,8 +15,8 @@
 - **Total in queue:** 18
 
 ## Freshness Bands
-- **fresh** (< 24h): 6
-- **aging** (24-72h): 12
+- **fresh** (< 24h): 18
+- **aging** (24-72h): 0
 - **stale** (> 72h): 0
 
 ## Candidates — Ready for Harness Dispatch Review
@@ -30,8 +30,8 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 62x lifetime |
-| Freshness | aging |
+| Persistence | 5x recent / 63x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -47,8 +47,8 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | PrivateStorage |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 62x lifetime |
-| Freshness | aging |
+| Persistence | 5x recent / 63x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -64,8 +64,8 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | DynaTech |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 62x lifetime |
-| Freshness | aging |
+| Persistence | 5x recent / 63x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -81,8 +81,8 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | mission-control |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 62x lifetime |
-| Freshness | aging |
+| Persistence | 5x recent / 63x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -99,8 +99,8 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | ned-autonomous |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 84x lifetime |
-| Freshness | aging |
+| Persistence | 5x recent / 85x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -117,8 +117,8 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | stoat-source |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 62x lifetime |
-| Freshness | aging |
+| Persistence | 5x recent / 63x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -135,8 +135,8 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | mailbox_outbox |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 62x lifetime |
-| Freshness | aging |
+| Persistence | 5x recent / 63x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -153,8 +153,8 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | slimy-chat |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 62x lifetime |
-| Freshness | aging |
+| Persistence | 5x recent / 63x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -171,8 +171,8 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | clawd |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 62x lifetime |
-| Freshness | aging |
+| Persistence | 5x recent / 63x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -189,8 +189,8 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | ned-clawd |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 62x lifetime |
-| Freshness | aging |
+| Persistence | 5x recent / 63x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -207,8 +207,8 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 84x lifetime |
-| Freshness | aging |
+| Persistence | 5x recent / 85x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -224,8 +224,8 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | slimy-monorepo |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 84x lifetime |
-| Freshness | aging |
+| Persistence | 5x recent / 85x lifetime |
+| Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -242,7 +242,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 43x lifetime |
+| Persistence | 5x recent / 44x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/_orphans.md |
 | Dispatch blocker | advisory_only |
@@ -259,7 +259,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 87x lifetime |
+| Persistence | 5x recent / 88x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/log.md |
 | Dispatch blocker | advisory_only |
@@ -276,7 +276,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 87x lifetime |
+| Persistence | 5x recent / 88x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/projects/agents-backup-full.md |
 | Dispatch blocker | advisory_only |
@@ -293,7 +293,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 59x lifetime |
+| Persistence | 5x recent / 60x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/projects/mailbox-outbox.md |
 | Dispatch blocker | advisory_only |
@@ -310,7 +310,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 59x lifetime |
+| Persistence | 5x recent / 60x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/projects/mcp-agent-mailbox.md |
 | Dispatch blocker | advisory_only |
@@ -327,7 +327,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 59x lifetime |
+| Persistence | 5x recent / 60x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/projects/nuc1-project-anomalies.md |
 | Dispatch blocker | advisory_only |

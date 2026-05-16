@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-05-16 01:16 UTC (git)
-> Version: r125 / f1360f2
+> Last edited: 2026-05-16 13:17 UTC (git)
+> Version: r126 / 76fc64e
 KB METADATA -->
 
 The active auth model is email/password via `lib/slimy-auth` and MySQL-backed sessions.

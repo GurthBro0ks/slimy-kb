@@ -1,20 +1,20 @@
 # NUC1 Current State
 
 > Category: architecture
-> Updated: 2026-05-16T01:16:48Z
+> Updated: 2026-05-16T13:17:16Z
 > Sources: raw/inbox-nuc1/
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-05-16 01:16 UTC (git)
-> Version: r137 / f1360f2
+> Last edited: 2026-05-16 13:17 UTC (git)
+> Version: r138 / 76fc64e
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc1
-- **Last seen:** 20260515T131501Z
+- **Last seen:** 20260516T012457Z
 
 ## Repository Status
 - **Total repos tracked:** 16
@@ -25,18 +25,18 @@ KB METADATA -->
 - _(none detected in this digest)_
 
 ## Open Issues (from todo queue)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: Slimefun4 — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: PrivateStorage — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: DynaTech — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mission-control — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-autonomous — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: stoat-source — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mailbox_outbox — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: slimy-chat — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: clawd — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-clawd — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo diverged from remote: Slimefun4 — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo — repo_drift (aging)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: Slimefun4 — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: PrivateStorage — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: DynaTech — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mission-control — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-autonomous — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: stoat-source — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mailbox_outbox — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: slimy-chat — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: clawd — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-clawd — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: Slimefun4 — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo — repo_drift (fresh)
 
 <!-- END MACHINE MANAGED -->
 
