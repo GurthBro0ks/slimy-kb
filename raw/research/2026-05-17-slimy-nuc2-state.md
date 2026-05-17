@@ -46,3 +46,31 @@ LISTEN 0      128                          [::1]:3307          [::]:*
 
 ## Uptime
 
+ 13:18:19 up 1 day, 12:07,  2 users,  load average: 2.96, 1.42, 0.93
+
+## KB Git Status
+
+ M output/lint-report.md
+ M raw/research/2026-05-17-slimy-nuc2-state.md
+ M wiki/_candidate-promotion-rules.md
+ M wiki/_concepts.md
+ M wiki/_index.md
+ M wiki/_manager-status.md
+ M wiki/_nuc-intake.md
+ M wiki/_orphans.md
+ M wiki/_page-types.md
+ M wiki/_stale.md
+- ahead: 0
+- behind: 0
+
+## KB Health Snapshot
+
+- orphans (total): 18
+- weak-links (total): 9
+
+## KB Raw Files (recent, 48h)
+
+- 10 raw/*.md files modified in last 48h
+
+## Vault Sync Status
+
