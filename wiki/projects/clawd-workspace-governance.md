@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-05-17 01:17 UTC (git)
-> Version: r129 / 60f07cd
+> Version: r130 / edcce17
 KB METADATA -->
 
 ## Project Metadata
