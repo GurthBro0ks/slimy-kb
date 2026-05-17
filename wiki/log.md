@@ -4,8 +4,8 @@
 > Host: slimy-nuc2
 
 <!-- KB METADATA
-> Last edited: 2026-05-17 01:17 UTC (git)
-> Version: r180 / edcce17
+> Last edited: 2026-05-17 13:18 UTC (git)
+> Version: r181 / 0629414
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -9390,5 +9390,15 @@ KB METADATA -->
 - summary: 12h maintenance run
 - commit: edcce17
 - notes: auto-maintenance from kb-maintenance.sh 2026-05-17T13:18:10Z
+
+
+## [2026-05-17 13:18] wiki_manager | stage1.86 todo queue generation
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - raw/research/2026-05-17-slimy-nuc2-state.md
+- summary: stage1.86 todo queue generation
+- commit: f4233cc
+- notes: stage1.86 run: todos=18 nuc1_items=111 nuc1_evidence=YES
 
 

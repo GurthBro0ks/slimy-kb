@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-05-17T01:17:16Z
+# NUC2 Repo Digests — 2026-05-17T13:18:19Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-05-17T01:17:16Z
+**Timestamp:** 2026-05-17T13:18:19Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -11,8 +11,8 @@
 - **Path:** `/home/slimy/clawd`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 02c21bc
-- **Subject:** chore: compound nightly review - 40+ days silence
+- **Commit:** 5b09956
+- **Subject:** chore: daily memory update - 2026-05-17 compound review
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/clawd.git
 
@@ -28,9 +28,9 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 60f07cd
-- **Subject:** kb: maintenance run 2026-05-17-0117 from slimy-nuc2
-- **Dirty:** True
+- **Commit:** f4233cc
+- **Subject:** kb: auto-sync from slimy-nuc2 2026-05-17-1318
+- **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
 ## mailbox
@@ -77,8 +77,8 @@
 - **Path:** `/home/slimy/slimy-monorepo`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 632bb49
-- **Subject:** docs: add gear UI promotion plan
+- **Commit:** 0e1115f
+- **Subject:** fix: improve gear modal responsive sizing
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-monorepo.git
 - **Name:** slimy-monorepo
