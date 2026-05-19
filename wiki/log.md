@@ -10020,3 +10020,13 @@ KB METADATA -->
 - notes: all
 
 
+## [2026-05-19 15:53] compile | slimy-nuc1
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - raw/agent-learnings/2026-05-19-slimy-nuc1-claude-summary.md
+- summary: slimy-nuc1
+- commit: d130a39
+- notes: 
+
+
