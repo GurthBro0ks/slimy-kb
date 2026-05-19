@@ -10010,3 +10010,13 @@ KB METADATA -->
 - notes: slimy-monorepo
 
 
+## [2026-05-19 15:30] compile | slimy-nuc2
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - raw/agent-learnings/2026-05-19-slimy-nuc1-claude-summary.md
+- summary: slimy-nuc2
+- commit: d6ff085
+- notes: all
+
+
