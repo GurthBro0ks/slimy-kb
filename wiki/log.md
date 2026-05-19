@@ -9842,3 +9842,14 @@ KB METADATA -->
 - notes: stage1.86 run: todos=18 nuc1_items=114 nuc1_evidence=YES
 
 
+## [2026-05-19 01:27] compile | child-compile 20260519-012632
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - raw/agent-learnings/2026-05-19-slimy-nuc1-claude-summary.md
+  - raw/changelogs/2026-05-19-slimy-nuc1-project-changelog.md
+- summary: child-compile 20260519-012632
+- commit: d715ff7
+- notes: priority batch: seed-clawd-agents.md/seed-workspace-agents.md/seed-agents-rules.md/seed-progress-history.md/seed-server-state.md already sourced into existing articles; research/agent-learning files (NUC1/NUC2 wrapper recursion, autofinish/autocompile, no-pager fix, SSH normalization) already sourced into troubleshooting articles; 2026-04-22 certbot-acme fix sourced; all remaining candidates (NUC1/2 inbox state, daily digests) deferred — consumed by wiki-manager Stage 1.86 or already covered; no new wiki content required; status: reviewed
+
+
