@@ -10030,3 +10030,13 @@ KB METADATA -->
 - notes: 
 
 
+## [2026-05-19 16:01] compile | nuc2
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: nuc2
+- commit: 3d7334c
+- notes: 15 candidates: 6 deferred (already in wiki), 9 deferred (already sourced in existing articles)
+
+
