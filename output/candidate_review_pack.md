@@ -1,7 +1,7 @@
-# Candidate Review Pack — 2026-05-18T13:19:17Z
+# Candidate Review Pack — 2026-05-19T01:19:17Z
 
 > Stage: 1.86
-> Generated: 2026-05-18T13:19:17Z
+> Generated: 2026-05-19T01:19:17Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
@@ -24,13 +24,13 @@
 These tasks meet all Stage 1.86 promotion criteria:
 recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
-### [todo-2026-05-18-001] NUC1 repo has uncommitted changes: Slimefun4
+### [todo-2026-05-19-001] NUC1 repo has uncommitted changes: Slimefun4
 
 | Field | Value |
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 67x lifetime |
+| Persistence | 5x recent / 68x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -41,13 +41,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review Slimefun4 on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-05-18-002] NUC1 repo has uncommitted changes: PrivateStorage
+### [todo-2026-05-19-002] NUC1 repo has uncommitted changes: PrivateStorage
 
 | Field | Value |
 |-------|-------|
 | Project | PrivateStorage |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 67x lifetime |
+| Persistence | 5x recent / 68x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -58,13 +58,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review PrivateStorage on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-05-18-003] NUC1 repo has uncommitted changes: DynaTech
+### [todo-2026-05-19-003] NUC1 repo has uncommitted changes: DynaTech
 
 | Field | Value |
 |-------|-------|
 | Project | DynaTech |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 67x lifetime |
+| Persistence | 5x recent / 68x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -75,13 +75,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review DynaTech on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-05-18-004] NUC1 repo has uncommitted changes: mission-control
+### [todo-2026-05-19-004] NUC1 repo has uncommitted changes: mission-control
 
 | Field | Value |
 |-------|-------|
 | Project | mission-control |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 67x lifetime |
+| Persistence | 5x recent / 68x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -93,13 +93,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review mission-control on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-05-18-005] NUC1 repo has uncommitted changes: ned-autonomous
+### [todo-2026-05-19-005] NUC1 repo has uncommitted changes: ned-autonomous
 
 | Field | Value |
 |-------|-------|
 | Project | ned-autonomous |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 89x lifetime |
+| Persistence | 5x recent / 90x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -111,13 +111,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review ned-autonomous on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-05-18-006] NUC1 repo has uncommitted changes: stoat-source
+### [todo-2026-05-19-006] NUC1 repo has uncommitted changes: stoat-source
 
 | Field | Value |
 |-------|-------|
 | Project | stoat-source |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 67x lifetime |
+| Persistence | 5x recent / 68x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -129,13 +129,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review stoat-source on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-05-18-007] NUC1 repo has uncommitted changes: mailbox_outbox
+### [todo-2026-05-19-007] NUC1 repo has uncommitted changes: mailbox_outbox
 
 | Field | Value |
 |-------|-------|
 | Project | mailbox_outbox |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 67x lifetime |
+| Persistence | 5x recent / 68x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -147,13 +147,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review mailbox_outbox on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-05-18-008] NUC1 repo has uncommitted changes: slimy-chat
+### [todo-2026-05-19-008] NUC1 repo has uncommitted changes: slimy-chat
 
 | Field | Value |
 |-------|-------|
 | Project | slimy-chat |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 67x lifetime |
+| Persistence | 5x recent / 68x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -165,13 +165,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review slimy-chat on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-05-18-009] NUC1 repo has uncommitted changes: clawd
+### [todo-2026-05-19-009] NUC1 repo has uncommitted changes: clawd
 
 | Field | Value |
 |-------|-------|
 | Project | clawd |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 67x lifetime |
+| Persistence | 5x recent / 68x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -183,13 +183,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review clawd on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-05-18-010] NUC1 repo has uncommitted changes: ned-clawd
+### [todo-2026-05-19-010] NUC1 repo has uncommitted changes: ned-clawd
 
 | Field | Value |
 |-------|-------|
 | Project | ned-clawd |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 67x lifetime |
+| Persistence | 5x recent / 68x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -201,13 +201,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review ned-clawd on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-05-18-011] NUC1 repo diverged from remote: Slimefun4
+### [todo-2026-05-19-011] NUC1 repo diverged from remote: Slimefun4
 
 | Field | Value |
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 89x lifetime |
+| Persistence | 5x recent / 90x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -218,13 +218,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review Slimefun4 on NUC1, merge or rebase remote changes, resolve any conflicts.
 
-### [todo-2026-05-18-012] NUC1 repo diverged from remote: slimy-monorepo
+### [todo-2026-05-19-012] NUC1 repo diverged from remote: slimy-monorepo
 
 | Field | Value |
 |-------|-------|
 | Project | slimy-monorepo |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 89x lifetime |
+| Persistence | 5x recent / 90x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -236,13 +236,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review slimy-monorepo on NUC1, merge or rebase remote changes, resolve any conflicts.
 
-### [todo-2026-05-18-013] Resolve 18 orphaned wiki pages
+### [todo-2026-05-19-013] Resolve 18 orphaned wiki pages
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 48x lifetime |
+| Persistence | 5x recent / 49x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/_orphans.md |
 | Dispatch blocker | advisory_only |
@@ -253,13 +253,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review each orphan: add links from related pages, merge into existing articles, or delete if redundant.
 
-### [todo-2026-05-18-014] Review orphaned page: log.md
+### [todo-2026-05-19-014] Review orphaned page: log.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 92x lifetime |
+| Persistence | 5x recent / 93x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/log.md |
 | Dispatch blocker | advisory_only |
@@ -270,13 +270,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if log.md should be linked from related articles or removed.
 
-### [todo-2026-05-18-015] Review orphaned page: projects/agents-backup-full.md
+### [todo-2026-05-19-015] Review orphaned page: projects/agents-backup-full.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 92x lifetime |
+| Persistence | 5x recent / 93x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/projects/agents-backup-full.md |
 | Dispatch blocker | advisory_only |
@@ -287,13 +287,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if projects/agents-backup-full.md should be linked from related articles or removed.
 
-### [todo-2026-05-18-016] Review orphaned page: projects/mailbox-outbox.md
+### [todo-2026-05-19-016] Review orphaned page: projects/mailbox-outbox.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 64x lifetime |
+| Persistence | 5x recent / 65x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/projects/mailbox-outbox.md |
 | Dispatch blocker | advisory_only |
@@ -304,13 +304,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if projects/mailbox-outbox.md should be linked from related articles or removed.
 
-### [todo-2026-05-18-017] Review orphaned page: projects/mcp-agent-mailbox.md
+### [todo-2026-05-19-017] Review orphaned page: projects/mcp-agent-mailbox.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 64x lifetime |
+| Persistence | 5x recent / 65x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/projects/mcp-agent-mailbox.md |
 | Dispatch blocker | advisory_only |
@@ -321,13 +321,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if projects/mcp-agent-mailbox.md should be linked from related articles or removed.
 
-### [todo-2026-05-18-018] Review orphaned page: projects/nuc1-project-anomalies.md
+### [todo-2026-05-19-018] Review orphaned page: projects/nuc1-project-anomalies.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 64x lifetime |
+| Persistence | 5x recent / 65x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/projects/nuc1-project-anomalies.md |
 | Dispatch blocker | advisory_only |
