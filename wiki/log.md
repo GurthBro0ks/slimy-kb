@@ -4,8 +4,8 @@
 > Host: slimy-nuc2
 
 <!-- KB METADATA
-> Last edited: 2026-05-19 01:19 UTC (git)
-> Version: r187 / 1c164d8
+> Last edited: 2026-05-19 01:27 UTC (git)
+> Version: r189 / 28c88e8
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -9851,5 +9851,15 @@ KB METADATA -->
 - summary: child-compile 20260519-012632
 - commit: d715ff7
 - notes: priority batch: seed-clawd-agents.md/seed-workspace-agents.md/seed-agents-rules.md/seed-progress-history.md/seed-server-state.md already sourced into existing articles; research/agent-learning files (NUC1/NUC2 wrapper recursion, autofinish/autocompile, no-pager fix, SSH normalization) already sourced into troubleshooting articles; 2026-04-22 certbot-acme fix sourced; all remaining candidates (NUC1/2 inbox state, daily digests) deferred — consumed by wiki-manager Stage 1.86 or already covered; no new wiki content required; status: reviewed
+
+
+## [2026-05-19 13:20] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - (none)
+- summary: 12h maintenance run
+- commit: 28c88e8
+- notes: auto-maintenance from kb-maintenance.sh 2026-05-19T13:20:10Z
 
 
