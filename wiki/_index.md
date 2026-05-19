@@ -3,8 +3,8 @@
 > Last compiled: 2026-05-19 (child-compile 20260519-012523 — priority batch: seed-clawd-agents.md/seed-workspace-agents.md/seed-agents-rules.md/seed-progress-history.md/seed-server-state.md already sourced into existing articles; research/agent-learning files (NUC1/NUC2 wrapper recursion, autofinish/autocompile, no-pager fix, SSH normalization) already sourced into troubleshooting articles; 2026-04-22 certbot-acme fix sourced; all remaining candidates (NUC1/2 inbox state, daily codex summaries, changelogs) deferred — consumed by wiki-manager Stage 1.86 or already covered; no new wiki content required; status: reviewed)
 
 <!-- KB METADATA
-> Last edited: 2026-05-19 01:26 UTC (git)
-> Version: r178 / aa1aa6a
+> Last edited: 2026-05-19 13:20 UTC (git)
+> Version: r179 / 48bf32d
 KB METADATA -->
 
 ---
