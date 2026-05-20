@@ -4,8 +4,8 @@
 > Host: slimy-nuc2
 
 <!-- KB METADATA
-> Last edited: 2026-05-19 13:20 UTC (git)
-> Version: r190 / 48bf32d
+> Last edited: 2026-05-19 16:01 UTC (git)
+> Version: r195 / f2deba6
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -10038,5 +10038,15 @@ KB METADATA -->
 - summary: nuc2
 - commit: 3d7334c
 - notes: 15 candidates: 6 deferred (already in wiki), 9 deferred (already sourced in existing articles)
+
+
+## [2026-05-20 01:20] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - raw/agent-learnings/2026-05-19-slimy-nuc1-claude-summary.md
+- summary: 12h maintenance run
+- commit: 8204945
+- notes: auto-maintenance from kb-maintenance.sh 2026-05-20T01:20:10Z
 
 
