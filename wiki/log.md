@@ -10155,3 +10155,10 @@ KB METADATA -->
 - notes: 
 
 
+
+## 2026-05-20 11:52 UTC — child-compile from slimy-nuc1
+> Actor: claude (child compile)
+> Host: slimy-nuc1
+> Summary: 20 compile candidates reviewed — all duplicates/already-handled, no new wiki content generated
+> Commit: 547e2c0
+> Notes: seed files (5) → bootstrap artifacts already integrated; operational fixes (7) already in troubleshooting; NUC1/NUC2 duplicates (3) handled; parity checks (2) handled; certbot duplicate in nginx-certbot-acme-fix; seed-progress-history.md deferred (no new content). Status: reviewed.
