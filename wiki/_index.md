@@ -1,6 +1,6 @@
 # SlimyAI Knowledge Base - Master Index
 > Auto-maintained by LLM agents. Do not edit manually.
-> Last compiled: 2026-05-19 (child-compile 20260519-152805 — 244 compile candidates reviewed: empty session summaries deferred (already in kb-autofinish-autocompile-fix.md), NUC1/2 inbox digests consumed by wiki-manager Stage 1.86 (nuc1/nuc2-current-state.md), discord exports/changelogs/obsidian test notes deferred — no new wiki content required; status: reviewed)
+> Last compiled: 2026-05-20 (child-compile 20260520-095743 — 20 compile candidates reviewed: seed files (5) are bootstrap artifacts already integrated into existing wiki structure (clawd-agent-rules, workspace-agent-rules, nuc topology pages); operational fixes (7) already in troubleshooting pages (nginx-certbot-acme-fix, nuc1/nuc2-repo-remote-ssh-normalization, nuc1-wrapper-recursion-fix, kb-autofinish-autocompile-fix); NUC1/NUC2 duplicates (3) already compiled; parity check docs (2) already handled; status: reviewed)
 
 <!-- KB METADATA
 > Last edited: 2026-05-20 01:20 UTC (git)
