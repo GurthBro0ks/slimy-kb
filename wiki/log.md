@@ -10135,3 +10135,13 @@ KB METADATA -->
 - notes: slimy-nuc1
 
 
+## [2026-05-20 10:43] compile | child-compile 20260520-104226 — 20 compile candidates reviewed: seed files bootstrap integrated, operational fixes already in troubleshooting, duplicates handled, certbot duplicate deferred, seed-progress-history deferred — no new wiki content
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - raw/agent-learnings/2026-05-20-slimy-nuc1-claude-summary.md
+- summary: child-compile 20260520-104226 — 20 compile candidates reviewed: seed files bootstrap integrated, operational fixes already in troubleshooting, duplicates handled, certbot duplicate deferred, seed-progress-history deferred — no new wiki content
+- commit: af92a20
+- notes: 
+
+
