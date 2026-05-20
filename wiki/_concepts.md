@@ -34,5 +34,6 @@ KB METADATA -->
 - Freshness-weighted promotion
 - Cooling down
 - Evidence window
+- KB bridge gear donation schema
 - Machine-managed wiki pages
 - Doc-sync hygiene (allowlist, conditional write, push-or-revert, session-scoped, daily dedupe)

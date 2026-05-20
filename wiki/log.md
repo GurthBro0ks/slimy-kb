@@ -10145,3 +10145,13 @@ KB METADATA -->
 - notes: 
 
 
+## [2026-05-20 11:20] compile | child-compile 20260520-111519 — 1 article created (kb-bridge-gear-donation.md); 1 concept added (KB bridge gear donation schema); _index.md updated with KB bridge gear donation entry
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - raw/agent-learnings/2026-05-20-slimy-nuc1-claude-summary.md
+- summary: child-compile 20260520-111519 — 1 article created (kb-bridge-gear-donation.md); 1 concept added (KB bridge gear donation schema); _index.md updated with KB bridge gear donation entry
+- commit: 03c7832
+- notes: 
+
+

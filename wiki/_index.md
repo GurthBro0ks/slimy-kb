@@ -129,6 +129,8 @@ These are the primary production services and active development projects:
 | [Clawd Workspace Governance](projects/clawd-workspace-governance.md) | Memory and session governance model for Clawd workspace operations. |
 | [Workspace Agent Rules](projects/workspace-agent-rules.md) | OpenCLAW workspace agent rules: session startup, SLB-required actions, heartbeat vs cron, meta-learning loops. |
 
+| [KB Bridge Gear Donation](projects/kb-bridge-gear-donation.md) | Gear scan digest bridge from NUC1 to NUC2 KB via extended kb-bridge Phase 1B schema with bidirectional specimen linking. |
+
 ### Inter-NUC Communication
 
 | Project | Summary |
