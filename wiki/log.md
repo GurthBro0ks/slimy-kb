@@ -10124,3 +10124,14 @@ KB METADATA -->
 - notes: stage1.86 run: todos=18 nuc1_items=117 nuc1_evidence=YES
 
 
+## [2026-05-20 10:42] compile | claude
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - raw/agent-learnings/2026-05-20-slimy-nuc1-claude-summary.md
+  - raw/changelogs/2026-05-20-slimy-nuc1-project-changelog.md
+- summary: claude
+- commit: e5d9051
+- notes: slimy-nuc1
+
+
