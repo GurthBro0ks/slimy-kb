@@ -10162,3 +10162,13 @@ KB METADATA -->
 > Summary: 20 compile candidates reviewed — all duplicates/already-handled, no new wiki content generated
 > Commit: 547e2c0
 > Notes: seed files (5) → bootstrap artifacts already integrated; operational fixes (7) already in troubleshooting; NUC1/NUC2 duplicates (3) handled; parity checks (2) handled; certbot duplicate in nginx-certbot-acme-fix; seed-progress-history.md deferred (no new content). Status: reviewed.
+## [2026-05-20 15:01] compile | slimy-nuc1
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - raw/agent-learnings/2026-05-20-slimy-nuc1-claude-summary.md
+- summary: slimy-nuc1
+- commit: 3526822
+- notes: 20 compile candidates reviewed
+
+
