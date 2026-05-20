@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-05-19 13:20 UTC (git)
-> Version: r138 / f4e2fd4
+> Last edited: 2026-05-20 01:20 UTC (git)
+> Version: r139 / f5cba94
 KB METADATA -->
 
 Mailbox NUC Comms is the git-based inter-NUC communication transport used to push machine reports from NUC1 to NUC2 for ingest.

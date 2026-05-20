@@ -3,8 +3,8 @@
 > Last compiled: 2026-05-19 (child-compile 20260519-152805 — 244 compile candidates reviewed: empty session summaries deferred (already in kb-autofinish-autocompile-fix.md), NUC1/2 inbox digests consumed by wiki-manager Stage 1.86 (nuc1/nuc2-current-state.md), discord exports/changelogs/obsidian test notes deferred — no new wiki content required; status: reviewed)
 
 <!-- KB METADATA
-> Last edited: 2026-05-19 15:30 UTC (git)
-> Version: r181 / 75ec794
+> Last edited: 2026-05-20 01:20 UTC (git)
+> Version: r182 / f5cba94
 KB METADATA -->
 
 ---
