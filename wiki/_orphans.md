@@ -1,19 +1,21 @@
 # Orphaned Pages
 
 > Pages with zero inbound links from other non-index wiki pages.
-> Generated: 2026-05-20T01:20:11Z by kb-lint.sh
+> Generated: 2026-05-30T06:14:23Z by kb-lint.sh
 
 <!-- KB METADATA
 > Last edited: 2026-05-20 01:20 UTC (git)
-> Version: r151 / f5cba94
+> Version: r152 / 940e360
 KB METADATA -->
 
-**Total orphans: 9**
+**Total orphans: 11**
 
 ## Likely Parent Pages
 
 - `log.md`
+- `projects/actionbook.md`
 - `projects/agents-backup-full.md`
+- `projects/kb-bridge-gear-donation.md`
 - `projects/mailbox-outbox.md`
 - `projects/mcp-agent-mailbox.md`
 - `projects/nuc1-project-anomalies.md`
@@ -24,7 +26,9 @@ KB METADATA -->
 
 ## All Orphaned Pages
 - `log.md`
+- `projects/actionbook.md`
 - `projects/agents-backup-full.md`
+- `projects/kb-bridge-gear-donation.md`
 - `projects/mailbox-outbox.md`
 - `projects/mcp-agent-mailbox.md`
 - `projects/nuc1-project-anomalies.md`

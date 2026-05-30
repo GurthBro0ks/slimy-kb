@@ -4,8 +4,8 @@
 > Host: slimy-nuc2
 
 <!-- KB METADATA
-> Last edited: 2026-05-20 01:20 UTC (git)
-> Version: r196 / f5cba94
+> Last edited: 2026-05-20 15:02 UTC (git)
+> Version: r202 / a860a47
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -10170,5 +10170,23 @@ KB METADATA -->
 - summary: slimy-nuc1
 - commit: 3526822
 - notes: 20 compile candidates reviewed
+
+
+## [2026-05-30 06:14] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/projects/clawd-agent-rules.md
+  - wiki/projects/clawd-workspace-governance.md
+  - wiki/projects/clawd.md
+  - wiki/projects/ned-clawd.md
+  - wiki/projects/openclaw-agents.md  - raw/decisions/2026-04-05-project-ned-clawd-nuc1-state.md
+  - raw/decisions/2026-04-05-project-openclaw-agents-nuc1-state.md
+  - raw/decisions/2026-04-09-project-clawd.md
+  - raw/decisions/2026-04-09-project-ned-clawd.md
+  - raw/decisions/seed-clawd-agents.md
+- summary: 12h maintenance run
+- commit: 13906bb
+- notes: auto-maintenance from kb-maintenance.sh 2026-05-30T06:14:22Z
 
 
