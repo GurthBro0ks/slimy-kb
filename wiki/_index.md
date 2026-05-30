@@ -162,6 +162,21 @@ These are the primary production services and active development projects:
 
 ---
 
+## Super Snail Game Knowledge
+
+Player-written guides and discussions from the SlimyInvertabrates Discord server, compiled into structured searchable articles. Full index: [game/_index.md](game/_index.md)
+
+| Article | Summary |
+|---------|---------|
+| [Compass Relic Guide](game/compass-guide.md) | Optimal compass relic setups for Farm, Push, Gene Sim, Arena including F2P alternatives |
+| [Glorium Maximization Guide](game/glorium-guide.md) | 30k/38k fervor biome management and periodic apostle pushing for glorium income |
+| [Organs Setup Guide](game/organs-guide.md) | Organ configurations for Arena, Pushing, Dominating, and Gene Sim |
+| [Gear Leveling Priority](game/gear-leveling-guide.md) | Full gear soul leveling order for Rift, Persia, Home Fights, Farm |
+| [Minion Gear and Army Comp](game/minion-gear-guide.md) | Minion gear, rocket cabins, Species War vs Minion Sim army composition |
+| [Biozilla Relic Guide](game/biozilla-relics.md) | P2W and F2P relic setups for all 5 Biozilla fights |
+
+---
+
 ## Troubleshooting
 
 Problems encountered and resolved — reusable fix signatures:
