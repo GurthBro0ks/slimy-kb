@@ -1,0 +1,135 @@
+[2026-05-30T14:43:28+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-05-30T14:43:28+00:00] [game-kb-compile] ERROR: No GEMINI_API_KEY or GOOGLE_API_KEY found in /home/slimy/.env
+[2026-05-30T14:43:42+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-05-30T14:43:42+00:00] [game-kb-compile] ERROR: No GEMINI_API_KEY or GOOGLE_API_KEY found in /home/slimy/.env
+[2026-05-30T14:44:19+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-05-30T14:44:19+00:00] [game-kb-compile] Found 10 uncompiled file(s)
+[2026-05-30T14:44:19+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests-20260429T170105.md
+[2026-05-30T14:44:19+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests.md
+[2026-05-30T14:44:19+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-compass-guide.md
+[2026-05-30T14:44:19+00:00] [game-kb-compile] Calling Gemini API for: Thread Compass Guide
+[2026-05-30T14:44:29+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/thread-compass-guide.md
+[2026-05-30T14:44:29+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-gear-leveling-guide-20260505T194436.md
+[2026-05-30T14:44:29+00:00] [game-kb-compile] Calling Gemini API for: Thread Gear Leveling Guide
+[2026-05-30T14:44:41+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/thread-gear-leveling-guide.md
+[2026-05-30T14:44:41+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-gear-leveling-guide.md
+[2026-05-30T14:44:42+00:00] [game-kb-compile] SKIP (already exists): /home/slimy/kb/wiki/game/thread-gear-leveling-guide.md
+[2026-05-30T14:44:42+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-glorium-guide.md
+[2026-05-30T14:44:42+00:00] [game-kb-compile] Calling Gemini API for: Thread Glorium Guide
+[2026-05-30T14:44:52+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/thread-glorium-guide.md
+[2026-05-30T14:44:52+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-minion-gear-guide.md
+[2026-05-30T14:44:52+00:00] [game-kb-compile] Calling Gemini API for: Thread Minion Gear Guide
+[2026-05-30T14:45:02+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/thread-minion-gear-guide.md
+[2026-05-30T14:45:02+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-organs.md
+[2026-05-30T14:45:02+00:00] [game-kb-compile] Calling Gemini API for: Thread Organs
+[2026-05-30T14:45:19+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/thread-organs.md
+[2026-05-30T14:45:19+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-05-20/slimyinvertabrates-5-20-command-tests.md
+[2026-05-30T14:45:19+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-30/slimyinvertabrates-biozilla-relics.md
+[2026-05-30T14:45:19+00:00] [game-kb-compile] SKIP (already exists): /home/slimy/kb/wiki/game/biozilla-relics.md
+[2026-05-30T14:45:19+00:00] [game-kb-compile] Updating _index.md with new articles
+[2026-05-30T14:45:19+00:00] [game-kb-compile] Committed: kb: auto-compile game knowledge 2026-05-30-1445
+[2026-05-30T14:45:19+00:00] [game-kb-compile] Finished.
+[2026-05-30T14:46:28+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-05-30T14:46:28+00:00] [game-kb-compile] Found 10 uncompiled file(s)
+[2026-05-30T14:46:28+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests-20260429T170105.md
+[2026-05-30T14:46:28+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests.md
+[2026-05-30T14:46:28+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-compass-guide.md
+[2026-05-30T14:46:28+00:00] [game-kb-compile] Calling Gemini API for: Thread Compass Guide
+[2026-05-30T14:46:44+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/thread-compass-guide.md
+[2026-05-30T14:46:44+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-gear-leveling-guide-20260505T194436.md
+[2026-05-30T14:46:44+00:00] [game-kb-compile] Calling Gemini API for: Thread Gear Leveling Guide
+[2026-05-30T14:46:56+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/thread-gear-leveling-guide.md
+[2026-05-30T14:46:56+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-gear-leveling-guide.md
+[2026-05-30T14:46:56+00:00] [game-kb-compile] SKIP (already exists): /home/slimy/kb/wiki/game/thread-gear-leveling-guide.md
+[2026-05-30T14:46:56+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-glorium-guide.md
+[2026-05-30T14:46:57+00:00] [game-kb-compile] Calling Gemini API for: Thread Glorium Guide
+[2026-05-30T14:47:09+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/thread-glorium-guide.md
+[2026-05-30T14:47:09+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-minion-gear-guide.md
+[2026-05-30T14:47:09+00:00] [game-kb-compile] Calling Gemini API for: Thread Minion Gear Guide
+[2026-05-30T14:47:21+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/thread-minion-gear-guide.md
+[2026-05-30T14:47:21+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-organs.md
+[2026-05-30T14:47:21+00:00] [game-kb-compile] Calling Gemini API for: Thread Organs
+[2026-05-30T14:47:36+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/thread-organs.md
+[2026-05-30T14:47:36+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-05-20/slimyinvertabrates-5-20-command-tests.md
+[2026-05-30T14:47:36+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-30/slimyinvertabrates-biozilla-relics.md
+[2026-05-30T14:47:37+00:00] [game-kb-compile] SKIP (already exists): /home/slimy/kb/wiki/game/biozilla-relics.md
+[2026-05-30T14:47:37+00:00] [game-kb-compile] Updating _index.md with new articles
+[2026-05-30T14:47:37+00:00] [game-kb-compile] Committed: kb: auto-compile game knowledge 2026-05-30-1447
+[2026-05-30T14:47:37+00:00] [game-kb-compile] Finished.
+[2026-05-30T14:48:13+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-05-30T14:48:14+00:00] [game-kb-compile] Found 4 uncompiled file(s)
+[2026-05-30T14:48:14+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests-20260429T170105.md
+[2026-05-30T14:48:14+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests.md
+[2026-05-30T14:48:14+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-gear-leveling-guide-20260505T194436.md
+[2026-05-30T14:48:14+00:00] [game-kb-compile] Calling Gemini API for: Thread Gear Leveling Guide
+[2026-05-30T14:48:32+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/thread-gear-leveling-guide.md
+[2026-05-30T14:48:32+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-05-20/slimyinvertabrates-5-20-command-tests.md
+[2026-05-30T14:48:32+00:00] [game-kb-compile] Updating _index.md with new articles
+[2026-05-30T14:48:32+00:00] [game-kb-compile] Committed: kb: auto-compile game knowledge 2026-05-30-1448
+[2026-05-30T14:48:32+00:00] [game-kb-compile] Finished.
+[2026-05-30T14:48:50+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-05-30T14:48:50+00:00] [game-kb-compile] Found 5 uncompiled file(s)
+[2026-05-30T14:48:50+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests-20260429T170105.md
+[2026-05-30T14:48:50+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests.md
+[2026-05-30T14:48:50+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-gear-leveling-guide-20260505T194436.md
+[2026-05-30T14:48:51+00:00] [game-kb-compile] Calling Gemini API for: Thread Gear Leveling Guide
+[2026-05-30T14:49:10+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/thread-gear-leveling-guide.md
+[2026-05-30T14:49:10+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-05-20/slimyinvertabrates-5-20-command-tests.md
+[2026-05-30T14:49:10+00:00] [game-kb-compile] Processing: raw/game-notes/test-obsidian-ingest.md
+[2026-05-30T14:49:10+00:00] [game-kb-compile] Calling Gemini API for: Test Obsidian Ingest
+[2026-05-30T14:49:13+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/test-obsidian-ingest.md
+[2026-05-30T14:49:13+00:00] [game-kb-compile] Updating _index.md with new articles
+[2026-05-30T14:49:13+00:00] [game-kb-compile] Committed: kb: auto-compile game knowledge 2026-05-30-1449
+[2026-05-30T14:49:13+00:00] [game-kb-compile] Finished.
+[2026-05-30T14:49:29+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-05-30T14:49:29+00:00] [game-kb-compile] Found 4 uncompiled file(s)
+[2026-05-30T14:49:29+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests-20260429T170105.md
+[2026-05-30T14:49:29+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests.md
+[2026-05-30T14:49:29+00:00] [game-kb-compile] Processing: raw/discord-exports/2026-05-05/slimyinvertabrates-thread-gear-leveling-guide-20260505T194436.md
+[2026-05-30T14:49:30+00:00] [game-kb-compile] Calling Gemini API for: Thread Gear Leveling Guide
+[2026-05-30T14:49:49+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/thread-gear-leveling-guide.md
+[2026-05-30T14:49:49+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-05-20/slimyinvertabrates-5-20-command-tests.md
+[2026-05-30T14:49:49+00:00] [game-kb-compile] Updating _index.md with new articles
+[2026-05-30T14:49:49+00:00] [game-kb-compile] Committed: kb: auto-compile game knowledge 2026-05-30-1449
+[2026-05-30T14:49:49+00:00] [game-kb-compile] Finished.
+[2026-05-30T14:50:08+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-05-30T14:50:08+00:00] [game-kb-compile] Found 3 uncompiled file(s)
+[2026-05-30T14:50:08+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests-20260429T170105.md
+[2026-05-30T14:50:08+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests.md
+[2026-05-30T14:50:08+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-05-20/slimyinvertabrates-5-20-command-tests.md
+[2026-05-30T14:50:09+00:00] [game-kb-compile] Updating _index.md with new articles
+[2026-05-30T14:50:09+00:00] [game-kb-compile] Committed: kb: auto-compile game knowledge 2026-05-30-1450
+[2026-05-30T14:50:09+00:00] [game-kb-compile] Finished.
+[2026-05-30T14:50:43+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-05-30T14:50:44+00:00] [game-kb-compile] Found 3 uncompiled file(s)
+[2026-05-30T14:50:44+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests-20260429T170105.md
+[2026-05-30T14:50:44+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests.md
+[2026-05-30T14:50:44+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-05-20/slimyinvertabrates-5-20-command-tests.md
+[2026-05-30T14:50:44+00:00] [game-kb-compile] Updating _index.md with 3 new article(s)
+[2026-05-30T14:50:44+00:00] [game-kb-compile] Committed: kb: auto-compile game knowledge 2026-05-30-1450
+[2026-05-30T14:50:44+00:00] [game-kb-compile] Finished.
+[2026-05-30T14:51:18+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-05-30T14:51:19+00:00] [game-kb-compile] Found 3 uncompiled file(s)
+[2026-05-30T14:51:19+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests-20260429T170105.md
+[2026-05-30T14:51:19+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests.md
+[2026-05-30T14:51:19+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-05-20/slimyinvertabrates-5-20-command-tests.md
+[2026-05-30T14:51:19+00:00] [game-kb-compile] No git changes to commit.
+[2026-05-30T14:51:19+00:00] [game-kb-compile] Finished.
+[2026-05-30T14:51:24+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-05-30T14:51:24+00:00] [game-kb-compile] Found 4 uncompiled file(s)
+[2026-05-30T14:51:24+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests-20260429T170105.md
+[2026-05-30T14:51:24+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests.md
+[2026-05-30T14:51:24+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-05-20/slimyinvertabrates-5-20-command-tests.md
+[2026-05-30T14:51:24+00:00] [game-kb-compile] Processing: raw/game-notes/arena-tips-test.md
+[2026-05-30T14:51:24+00:00] [game-kb-compile] Calling Gemini API for: Arena Tips Test
+[2026-05-30T14:51:26+00:00] [game-kb-compile] CREATED: /home/slimy/kb/wiki/game/arena-tips-test.md
+[2026-05-30T14:51:26+00:00] [game-kb-compile] Updating _index.md with 1 new article(s)
+[2026-05-30T14:51:26+00:00] [game-kb-compile] Committed: kb: auto-compile game knowledge 2026-05-30-1451
+[2026-05-30T14:51:26+00:00] [game-kb-compile] Finished.
+[2026-05-30T14:51:32+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-05-30T14:51:33+00:00] [game-kb-compile] Found 3 uncompiled file(s)
+[2026-05-30T14:51:33+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests-20260429T170105.md
+[2026-05-30T14:51:33+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests.md
+[2026-05-30T14:51:33+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-05-20/slimyinvertabrates-5-20-command-tests.md
+[2026-05-30T14:51:33+00:00] [game-kb-compile] No git changes to commit.
+[2026-05-30T14:51:33+00:00] [game-kb-compile] Finished.
