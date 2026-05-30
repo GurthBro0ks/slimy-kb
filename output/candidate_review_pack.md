@@ -1,7 +1,7 @@
-# Candidate Review Pack — 2026-05-30T06:14:28Z
+# Candidate Review Pack — 2026-05-30T18:14:28Z
 
 > Stage: 1.86
-> Generated: 2026-05-30T06:14:28Z
+> Generated: 2026-05-30T18:14:28Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
@@ -9,9 +9,9 @@
 ## Summary
 
 - **Candidates:** 7
-- **Emerging:** 0
+- **Emerging:** 2
 - **Cooling down:** 0
-- **Not candidate:** 2
+- **Not candidate:** 0
 - **Total in queue:** 9
 
 ## Freshness Bands
@@ -30,7 +30,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | mailbox_outbox |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 71x lifetime |
+| Persistence | 5x recent / 72x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -48,7 +48,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 93x lifetime |
+| Persistence | 5x recent / 94x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -65,7 +65,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | slimy-monorepo |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 93x lifetime |
+| Persistence | 5x recent / 94x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -83,7 +83,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 96x lifetime |
+| Persistence | 5x recent / 97x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/log.md |
 | Dispatch blocker | advisory_only |
@@ -101,7 +101,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 29x lifetime |
+| Persistence | 5x recent / 30x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/projects/actionbook.md |
 | Dispatch blocker | advisory_only |
@@ -119,7 +119,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 96x lifetime |
+| Persistence | 5x recent / 97x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/projects/agents-backup-full.md |
 | Dispatch blocker | advisory_only |
@@ -137,7 +137,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 68x lifetime |
+| Persistence | 5x recent / 69x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/projects/mailbox-outbox.md |
 | Dispatch blocker | advisory_only |
@@ -149,13 +149,21 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if projects/mailbox-outbox.md should be linked from related articles or removed.
 
-## Not Candidate (2 tasks)
+## Emerging — Close but Not Ready
 
-These tasks are tracked but lack sufficient recent evidence, have stale evidence,
-or are excluded kinds. Lifetime history is preserved for audit.
+### [todo-2026-05-30-004] Resolve 22 orphaned wiki pages
 
-- **[todo-2026-05-30-004]** Resolve 22 orphaned wiki pages — insufficient_recency (fresh)
-- **[todo-2026-05-30-008]** Review orphaned page: projects/kb-bridge-gear-donation.md — insufficient_recency (fresh)
+- **Project:** kb | **Severity:** HIGH | **Freshness:** fresh
+- **Persistence:** 2x recent / 2x lifetime
+- **What would promote:** more recent runs OR fresher evidence files
+- **Why it matters:** Orphaned pages have 0 inbound links and are effectively hidden from navigation.
+
+### [todo-2026-05-30-008] Review orphaned page: projects/kb-bridge-gear-donation.md
+
+- **Project:** kb | **Severity:** HIGH | **Freshness:** fresh
+- **Persistence:** 2x recent / 2x lifetime
+- **What would promote:** more recent runs OR fresher evidence files
+- **Why it matters:** Page 'projects/kb-bridge-gear-donation.md' has no inbound links.
 
 ---
 _Stage 1.86 — advisory only. Candidate status is advisory only, dispatch blocked by `advisory_only`._

@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-05-30T06:14:28Z
+# NUC2 Repo Digests — 2026-05-30T18:14:28Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-05-30T06:14:28Z
+**Timestamp:** 2026-05-30T18:14:28Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -19,8 +19,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 86b5c6d
-- **Subject:** kb: maintenance run 2026-05-30-0614 from slimy-nuc2
+- **Commit:** aff46a8
+- **Subject:** kb: maintenance run 2026-05-30-1814 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -68,8 +68,8 @@
 - **Path:** `/home/slimy/slimy-monorepo`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 5baf925
-- **Subject:** Merge remote-tracking branch 'origin/main'
+- **Commit:** 2ed24b3
+- **Subject:** fix: constrain chat brain to wiki-only game answers
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/slimy-monorepo.git
 - **Name:** slimy-monorepo

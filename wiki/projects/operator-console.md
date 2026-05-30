@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-05-30 06:14 UTC (git)
-> Version: r141 / cc77dff
+> Last edited: 2026-05-30 18:14 UTC (git)
+> Version: r142 / aff46a8
 KB METADATA -->
 
 Operator Console is the NUC2 KB operations decision tree. Run steps in order — each step is blocking until resolved.

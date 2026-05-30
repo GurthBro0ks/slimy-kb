@@ -1,6 +1,6 @@
 # KB Health Snapshot
 
-**Timestamp:** 2026-05-30T06:14:28Z
+**Timestamp:** 2026-05-30T18:14:28Z
 **Host:** slimy-nuc2
 
 ## File Counts
@@ -29,17 +29,17 @@
 
 ## Log Recent Entries (last 5)
 
-- [2026-05-20 10:42] compile | claude
-- [2026-05-20 10:43] compile | child-compile 20260520-104226 — 20 compile candidates reviewed: seed files bootstrap integrated, operational fixes already in troubleshooting, duplicates handled, certbot duplicate deferred, seed-progress-history deferred — no new wiki content
 - [2026-05-20 11:20] compile | child-compile 20260520-111519 — 1 article created (kb-bridge-gear-donation.md); 1 concept added (KB bridge gear donation schema); _index.md updated with KB bridge gear donation entry
 - [2026-05-20 15:01] compile | slimy-nuc1
 - [2026-05-30 06:14] maintenance | 12h maintenance run
+- [2026-05-30 06:14] wiki_manager | stage1.86 todo queue generation
+- [2026-05-30 18:14] maintenance | 12h maintenance run
 
 ## Recent Output Files (48h)
 
-- candidate_review_pack.md (2026-05-29 20:05)
-- harness_candidates.md (2026-05-29 20:05)
-- todo_queue.md (2026-05-29 20:05)
+- candidate_review_pack.md (2026-05-30 06:14)
+- harness_candidates.md (2026-05-30 06:14)
+- todo_queue.md (2026-05-30 06:14)
 
 ## Compile Candidates
 

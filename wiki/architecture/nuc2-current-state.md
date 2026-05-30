@@ -1,19 +1,19 @@
 # NUC2 Current State
 
 > Category: architecture
-> Updated: 2026-05-30T06:14:28Z
+> Updated: 2026-05-30T18:14:28Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-05-30 06:14 UTC (git)
-> Version: r154 / cc77dff
+> Last edited: 2026-05-30 18:14 UTC (git)
+> Version: r155 / aff46a8
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc2
-- **Last updated:** 2026-05-30T06:14:28Z
+- **Last updated:** 2026-05-30T18:14:28Z
 
 ## Active Services
 - - pm2: not available
@@ -30,11 +30,11 @@ KB METADATA -->
 - **Weak-linked pages:** 8
 
 ## Open Issues (from todo queue)
-- **[MEDIUM/not_candidate]** Resolve 22 orphaned wiki pages — wiki_gap (fresh)
+- **[HIGH/emerging]** Resolve 22 orphaned wiki pages — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: log.md — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: projects/actionbook.md — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: projects/agents-backup-full.md — wiki_gap (fresh)
-- **[MEDIUM/not_candidate]** Review orphaned page: projects/kb-bridge-gear-donation.md — wiki_gap (fresh)
+- **[HIGH/emerging]** Review orphaned page: projects/kb-bridge-gear-donation.md — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: projects/mailbox-outbox.md — wiki_gap (fresh)
 
 <!-- END MACHINE MANAGED -->
