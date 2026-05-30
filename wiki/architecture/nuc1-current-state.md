@@ -1,40 +1,31 @@
 # NUC1 Current State
 
 > Category: architecture
-> Updated: 2026-05-20T01:20:17Z
+> Updated: 2026-05-30T06:14:28Z
 > Sources: raw/inbox-nuc1/
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-05-20 01:20 UTC (git)
-> Version: r153 / 940e360
+> Last edited: 2026-05-30 06:14 UTC (git)
+> Version: r154 / 86b5c6d
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc1
-- **Last seen:** 20260519T132957Z
+- **Last seen:** 20260530T014557Z
 
 ## Repository Status
-- **Total repos tracked:** 16
-- **Dirty (uncommitted changes):** Slimefun4, PrivateStorage, DynaTech, mission-control, ned-autonomous, stoat-source, mailbox_outbox, slimy-chat, clawd, ned-clawd
+- **Total repos tracked:** 13
+- **Dirty (uncommitted changes):** mailbox_outbox
 - **Diverged (ahead + behind remote):** Slimefun4, slimy-monorepo
 
 ## Active Services (from digest)
 - _(none detected in this digest)_
 
 ## Open Issues (from todo queue)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: Slimefun4 — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: PrivateStorage — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: DynaTech — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mission-control — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-autonomous — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: stoat-source — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo has uncommitted changes: mailbox_outbox — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: slimy-chat — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: clawd — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: ned-clawd — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo diverged from remote: Slimefun4 — repo_drift (fresh)
 - **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo — repo_drift (fresh)
 

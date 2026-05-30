@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-20T01:20:17Z",
+  "updated_at": "2026-05-30T06:14:28Z",
   "tasks": [
     {
       "task_key": "nuc1|kb|repo_drift|nuc1 repo has uncommitted changes: kb",
@@ -26,7 +26,7 @@
       "first_seen": "2026-04-09T16:20:32Z",
       "last_seen": "2026-05-20T01:20:17Z",
       "occurrence_count": 92,
-      "state": "persisting",
+      "state": "resolved",
       "last_promotion_status_change": "2026-04-09T20:15:27Z",
       "last_known_promotion_status": "candidate",
       "promotion_first_seen": "2026-04-09T19:37:03Z",
@@ -43,20 +43,20 @@
     {
       "task_key": "nuc1|Slimefun4|repo_drift|nuc1 repo diverged from remote: slimefun4",
       "first_seen": "2026-04-09T16:20:32Z",
-      "last_seen": "2026-05-20T01:20:17Z",
-      "occurrence_count": 92,
+      "last_seen": "2026-05-30T06:14:28Z",
+      "occurrence_count": 93,
       "state": "persisting",
       "last_promotion_status_change": "2026-04-09T20:15:27Z",
       "last_known_promotion_status": "candidate",
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-05-20T01:20:17Z",
-      "promotion_occurrence_count": 74,
+      "promotion_last_seen": "2026-05-30T06:14:28Z",
+      "promotion_occurrence_count": 75,
       "run_timestamps": [
-        "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
         "2026-05-19T01:19:17Z",
         "2026-05-19T13:20:17Z",
-        "2026-05-20T01:20:17Z"
+        "2026-05-20T01:20:17Z",
+        "2026-05-30T06:14:28Z"
       ]
     },
     {
@@ -81,20 +81,20 @@
     {
       "task_key": "nuc1|slimy-monorepo|repo_drift|nuc1 repo diverged from remote: slimy-monorepo",
       "first_seen": "2026-04-09T16:20:32Z",
-      "last_seen": "2026-05-20T01:20:17Z",
-      "occurrence_count": 92,
+      "last_seen": "2026-05-30T06:14:28Z",
+      "occurrence_count": 93,
       "state": "persisting",
       "last_promotion_status_change": "2026-04-09T20:15:27Z",
       "last_known_promotion_status": "candidate",
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-05-20T01:20:17Z",
-      "promotion_occurrence_count": 74,
+      "promotion_last_seen": "2026-05-30T06:14:28Z",
+      "promotion_occurrence_count": 75,
       "run_timestamps": [
-        "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
         "2026-05-19T01:19:17Z",
         "2026-05-19T13:20:17Z",
-        "2026-05-20T01:20:17Z"
+        "2026-05-20T01:20:17Z",
+        "2026-05-30T06:14:28Z"
       ]
     },
     {
@@ -136,58 +136,58 @@
     {
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: log.md",
       "first_seen": "2026-04-09T16:20:32Z",
-      "last_seen": "2026-05-20T01:20:17Z",
-      "occurrence_count": 95,
+      "last_seen": "2026-05-30T06:14:28Z",
+      "occurrence_count": 96,
       "state": "persisting",
       "last_promotion_status_change": "2026-04-09T20:15:27Z",
       "last_known_promotion_status": "candidate",
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-05-20T01:20:17Z",
-      "promotion_occurrence_count": 77,
+      "promotion_last_seen": "2026-05-30T06:14:28Z",
+      "promotion_occurrence_count": 78,
       "run_timestamps": [
-        "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
         "2026-05-19T01:19:17Z",
         "2026-05-19T13:20:17Z",
-        "2026-05-20T01:20:17Z"
+        "2026-05-20T01:20:17Z",
+        "2026-05-30T06:14:28Z"
       ]
     },
     {
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: projects/actionbook.md",
       "first_seen": "2026-04-09T16:20:32Z",
-      "last_seen": "2026-04-16T12:23:09Z",
-      "occurrence_count": 28,
-      "state": "resolved",
-      "last_promotion_status_change": "2026-04-16T00:22:09Z",
-      "last_known_promotion_status": "not_candidate",
+      "last_seen": "2026-05-30T06:14:28Z",
+      "occurrence_count": 29,
+      "state": "persisting",
+      "last_promotion_status_change": "2026-05-30T06:14:28Z",
+      "last_known_promotion_status": "candidate",
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-04-15T17:25:51Z",
-      "promotion_occurrence_count": 8,
+      "promotion_last_seen": "2026-05-30T06:14:28Z",
+      "promotion_occurrence_count": 9,
       "run_timestamps": [
-        "2026-04-11T03:12:12Z",
         "2026-04-11T21:25:15Z",
         "2026-04-15T17:25:51Z",
         "2026-04-16T00:22:09Z",
-        "2026-04-16T12:23:09Z"
+        "2026-04-16T12:23:09Z",
+        "2026-05-30T06:14:28Z"
       ]
     },
     {
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: projects/agents-backup-full.md",
       "first_seen": "2026-04-09T16:20:32Z",
-      "last_seen": "2026-05-20T01:20:17Z",
-      "occurrence_count": 95,
+      "last_seen": "2026-05-30T06:14:28Z",
+      "occurrence_count": 96,
       "state": "persisting",
       "last_promotion_status_change": "2026-04-17T00:23:10Z",
       "last_known_promotion_status": "candidate",
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-05-20T01:20:17Z",
-      "promotion_occurrence_count": 75,
+      "promotion_last_seen": "2026-05-30T06:14:28Z",
+      "promotion_occurrence_count": 76,
       "run_timestamps": [
-        "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
         "2026-05-19T01:19:17Z",
         "2026-05-19T13:20:17Z",
-        "2026-05-20T01:20:17Z"
+        "2026-05-20T01:20:17Z",
+        "2026-05-30T06:14:28Z"
       ]
     },
     {
@@ -252,7 +252,7 @@
       "first_seen": "2026-04-15T17:25:51Z",
       "last_seen": "2026-05-20T01:20:17Z",
       "occurrence_count": 70,
-      "state": "persisting",
+      "state": "resolved",
       "run_timestamps": [
         "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
@@ -271,7 +271,7 @@
       "first_seen": "2026-04-15T17:25:51Z",
       "last_seen": "2026-05-20T01:20:17Z",
       "occurrence_count": 70,
-      "state": "persisting",
+      "state": "resolved",
       "run_timestamps": [
         "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
@@ -290,7 +290,7 @@
       "first_seen": "2026-04-15T17:25:51Z",
       "last_seen": "2026-05-20T01:20:17Z",
       "occurrence_count": 70,
-      "state": "persisting",
+      "state": "resolved",
       "run_timestamps": [
         "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
@@ -309,7 +309,7 @@
       "first_seen": "2026-04-15T17:25:51Z",
       "last_seen": "2026-05-20T01:20:17Z",
       "occurrence_count": 70,
-      "state": "persisting",
+      "state": "resolved",
       "run_timestamps": [
         "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
@@ -328,7 +328,7 @@
       "first_seen": "2026-04-15T17:25:51Z",
       "last_seen": "2026-05-20T01:20:17Z",
       "occurrence_count": 70,
-      "state": "persisting",
+      "state": "resolved",
       "run_timestamps": [
         "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
@@ -345,19 +345,19 @@
     {
       "task_key": "nuc1|mailbox_outbox|repo_drift|nuc1 repo has uncommitted changes: mailbox_outbox",
       "first_seen": "2026-04-15T17:25:51Z",
-      "last_seen": "2026-05-20T01:20:17Z",
-      "occurrence_count": 70,
+      "last_seen": "2026-05-30T06:14:28Z",
+      "occurrence_count": 71,
       "state": "persisting",
       "run_timestamps": [
-        "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
         "2026-05-19T01:19:17Z",
         "2026-05-19T13:20:17Z",
-        "2026-05-20T01:20:17Z"
+        "2026-05-20T01:20:17Z",
+        "2026-05-30T06:14:28Z"
       ],
       "promotion_first_seen": "2026-04-16T00:22:09Z",
-      "promotion_last_seen": "2026-05-20T01:20:17Z",
-      "promotion_occurrence_count": 69,
+      "promotion_last_seen": "2026-05-30T06:14:28Z",
+      "promotion_occurrence_count": 70,
       "last_promotion_status_change": "2026-04-16T12:23:09Z",
       "last_known_promotion_status": "candidate"
     },
@@ -366,7 +366,7 @@
       "first_seen": "2026-04-15T17:25:51Z",
       "last_seen": "2026-05-20T01:20:17Z",
       "occurrence_count": 70,
-      "state": "persisting",
+      "state": "resolved",
       "run_timestamps": [
         "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
@@ -385,7 +385,7 @@
       "first_seen": "2026-04-15T17:25:51Z",
       "last_seen": "2026-05-20T01:20:17Z",
       "occurrence_count": 70,
-      "state": "persisting",
+      "state": "resolved",
       "run_timestamps": [
         "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
@@ -404,7 +404,7 @@
       "first_seen": "2026-04-15T17:25:51Z",
       "last_seen": "2026-05-20T01:20:17Z",
       "occurrence_count": 70,
-      "state": "persisting",
+      "state": "resolved",
       "run_timestamps": [
         "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
@@ -440,19 +440,19 @@
     {
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: projects/mailbox-outbox.md",
       "first_seen": "2026-04-17T00:23:10Z",
-      "last_seen": "2026-05-20T01:20:17Z",
-      "occurrence_count": 67,
+      "last_seen": "2026-05-30T06:14:28Z",
+      "occurrence_count": 68,
       "state": "persisting",
       "run_timestamps": [
-        "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
         "2026-05-19T01:19:17Z",
         "2026-05-19T13:20:17Z",
-        "2026-05-20T01:20:17Z"
+        "2026-05-20T01:20:17Z",
+        "2026-05-30T06:14:28Z"
       ],
       "promotion_first_seen": "2026-04-17T12:24:09Z",
-      "promotion_last_seen": "2026-05-20T01:20:17Z",
-      "promotion_occurrence_count": 66,
+      "promotion_last_seen": "2026-05-30T06:14:28Z",
+      "promotion_occurrence_count": 67,
       "last_promotion_status_change": "2026-04-18T00:24:09Z",
       "last_known_promotion_status": "candidate"
     },
@@ -461,7 +461,7 @@
       "first_seen": "2026-04-17T00:23:10Z",
       "last_seen": "2026-05-20T01:20:17Z",
       "occurrence_count": 67,
-      "state": "persisting",
+      "state": "resolved",
       "run_timestamps": [
         "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
@@ -480,7 +480,7 @@
       "first_seen": "2026-04-17T00:23:10Z",
       "last_seen": "2026-05-20T01:20:17Z",
       "occurrence_count": 67,
-      "state": "persisting",
+      "state": "resolved",
       "run_timestamps": [
         "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
@@ -499,7 +499,7 @@
       "first_seen": "2026-04-25T00:33:10Z",
       "last_seen": "2026-05-20T01:20:17Z",
       "occurrence_count": 51,
-      "state": "persisting",
+      "state": "resolved",
       "run_timestamps": [
         "2026-05-18T01:18:17Z",
         "2026-05-18T13:19:17Z",
@@ -512,6 +512,36 @@
       "promotion_occurrence_count": 50,
       "last_promotion_status_change": "2026-04-26T00:35:10Z",
       "last_known_promotion_status": "candidate"
+    },
+    {
+      "task_key": "slimy-nuc2|kb|wiki_gap|resolve 22 orphaned wiki pages",
+      "first_seen": "2026-05-30T06:14:28Z",
+      "last_seen": "2026-05-30T06:14:28Z",
+      "occurrence_count": 1,
+      "state": "new",
+      "run_timestamps": [
+        "2026-05-30T06:14:28Z"
+      ],
+      "promotion_first_seen": null,
+      "promotion_last_seen": null,
+      "promotion_occurrence_count": 0,
+      "last_promotion_status_change": "2026-05-30T06:14:28Z",
+      "last_known_promotion_status": "not_candidate"
+    },
+    {
+      "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: projects/kb-bridge-gear-donation.md",
+      "first_seen": "2026-05-30T06:14:28Z",
+      "last_seen": "2026-05-30T06:14:28Z",
+      "occurrence_count": 1,
+      "state": "new",
+      "run_timestamps": [
+        "2026-05-30T06:14:28Z"
+      ],
+      "promotion_first_seen": null,
+      "promotion_last_seen": null,
+      "promotion_occurrence_count": 0,
+      "last_promotion_status_change": "2026-05-30T06:14:28Z",
+      "last_known_promotion_status": "not_candidate"
     }
   ]
 }

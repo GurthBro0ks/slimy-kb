@@ -1,12 +1,12 @@
 # Repo Health Overview
 
 > Category: projects
-> Updated: 2026-05-20T01:20:17Z
+> Updated: 2026-05-30T06:14:28Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-05-20 01:20 UTC (git)
-> Version: r153 / 940e360
+> Last edited: 2026-05-30 06:14 UTC (git)
+> Version: r154 / 86b5c6d
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -16,28 +16,25 @@ KB METADATA -->
 ### NUC1 Repos
 | Repo | Dirty | Diverged |
 |------|--------|----------|
-| Slimefun4 | ⚠️ YES | ⚠️ YES |
-| PrivateStorage | ⚠️ YES | — |
-| DynaTech | ⚠️ YES | — |
-| mission-control | ⚠️ YES | — |
+| Slimefun4 | — | ⚠️ YES |
+| PrivateStorage | — | — |
+| DynaTech | — | — |
+| mission-control | — | — |
 | slimy-harness | — | — |
 | kb | — | — |
-| ned-autonomous | ⚠️ YES | — |
-| stoat-source | ⚠️ YES | — |
+| ned-autonomous | — | — |
+| stoat-source | — | — |
 | mailbox_outbox | ⚠️ YES | — |
-| slimy-chat | ⚠️ YES | — |
-| clawd | ⚠️ YES | — |
-| ned-clawd | ⚠️ YES | — |
+| slimy-chat | — | — |
 | slimy-monorepo | — | ⚠️ YES |
-| workspace-executor | — | — |
-| workspace-researcher | — | — |
 | plugins | — | — |
+| memories | — | — |
 
 ### NUC2 Repos
 - _NUC2 repo state parsed from local git status_
 
 ## Action Required
-- **Dirty on NUC1:** Slimefun4, PrivateStorage, DynaTech, mission-control, ned-autonomous, stoat-source, mailbox_outbox, slimy-chat, clawd, ned-clawd — commit or stash
+- **Dirty on NUC1:** mailbox_outbox — commit or stash
 - **Diverged on NUC1:** Slimefun4, slimy-monorepo — merge or rebase
 
 <!-- END MACHINE MANAGED -->
