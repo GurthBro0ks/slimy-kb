@@ -5,8 +5,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-05-30 18:14 UTC (git)
-> Version: r143 / f723b25
+> Last edited: 2026-05-31 06:14 UTC (git)
+> Version: r144 / 8c9bc3b
 KB METADATA -->
 
 Obsidian Headless Sync is the sole PM2-managed process on NUC2, providing vault synchronization for Obsidian notes.

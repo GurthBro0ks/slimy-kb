@@ -1,14 +1,14 @@
 # Wiki Manager Status
 
 > Category: concepts
-> Updated: 2026-05-30T18:14:28Z
+> Updated: 2026-05-31T06:14:30Z
 
 <!-- KB METADATA
-> Last edited: 2026-05-30 18:14 UTC (git)
-> Version: r159 / f723b25
+> Last edited: 2026-05-31 06:14 UTC (git)
+> Version: r160 / 8c9bc3b
 KB METADATA -->
 
-**Last run:** 2026-05-30T18:14:28Z
+**Last run:** 2026-05-31T06:14:30Z
 **Stage:** 1.86
 **Backend:** stub
 **NUC1 evidence:** consumed
@@ -16,27 +16,27 @@ KB METADATA -->
 
 ## Queue Summary
 
-- Total tasks: 9
+- Total tasks: 11
 - NEW: 0
-- PERSISTING: 9
+- PERSISTING: 11
 - RESOLVED (this run): 0
 
 ## Promotion Counts
 
-- **candidate:** 7
-- **emerging:** 2
+- **candidate:** 11
+- **emerging:** 0
 - **cooling_down:** 0
 - **not_candidate:** 0
 
 ## Freshness Bands
 
-- **fresh** (< 24h): 9
+- **fresh** (< 24h): 11
 - **aging** (24-72h): 0
 - **stale** (> 72h): 0
 
 ## By Kind
 
-- **repo_drift:** 3
+- **repo_drift:** 5
 - **wiki_gap:** 6
 
 ## Stable Pages Updated
@@ -54,27 +54,31 @@ KB METADATA -->
 
 ## Harness Candidates
 
-- **[todo-2026-05-30-001]** NUC1 repo has uncommitted changes: mailbox_outbox (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-30-002]** NUC1 repo diverged from remote: Slimefun4 (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-30-003]** NUC1 repo diverged from remote: slimy-monorepo (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-30-004]** Resolve 22 orphaned wiki pages (severity: high, promotion: emerging, fresh)
-- **[todo-2026-05-30-005]** Review orphaned page: log.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-30-006]** Review orphaned page: projects/actionbook.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-30-007]** Review orphaned page: projects/agents-backup-full.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-05-30-008]** Review orphaned page: projects/kb-bridge-gear-donation.md (severity: high, promotion: emerging, fresh)
-- **[todo-2026-05-30-009]** Review orphaned page: projects/mailbox-outbox.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-31-001]** NUC1 repo has uncommitted changes: kb (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-31-002]** NUC1 repo has uncommitted changes: mailbox_outbox (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-31-003]** NUC1 repo diverged from remote: Slimefun4 (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-31-004]** NUC1 repo diverged from remote: slimy-monorepo (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-31-005]** Resolve 22 orphaned wiki pages (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-31-006]** Review orphaned page: log.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-31-007]** Review orphaned page: projects/actionbook.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-31-008]** Review orphaned page: projects/agents-backup-full.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-31-009]** Review orphaned page: projects/kb-bridge-gear-donation.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-31-010]** Review orphaned page: projects/mailbox-outbox.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-05-31-011]** NUC1 KB has uncommitted changes (severity: high, promotion: candidate, fresh)
 
 ## Task List
 
-🔄 [todo-2026-05-30-001] NUC1 repo has uncommitted changes: mailbox_outbox (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-30-002] NUC1 repo diverged from remote: Slimefun4 (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-30-003] NUC1 repo diverged from remote: slimy-monorepo (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-05-30-004] Resolve 22 orphaned wiki pages (high, wiki_gap) [emerging] (fresh) — slimy-nuc2
-🔄 [todo-2026-05-30-005] Review orphaned page: log.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-05-30-006] Review orphaned page: projects/actionbook.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-05-30-007] Review orphaned page: projects/agents-backup-full.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-05-30-008] Review orphaned page: projects/kb-bridge-gear-donation.md (high, wiki_gap) [emerging] (fresh) — slimy-nuc2
-🔄 [todo-2026-05-30-009] Review orphaned page: projects/mailbox-outbox.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-05-31-001] NUC1 repo has uncommitted changes: kb (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-31-002] NUC1 repo has uncommitted changes: mailbox_outbox (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-31-003] NUC1 repo diverged from remote: Slimefun4 (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-31-004] NUC1 repo diverged from remote: slimy-monorepo (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-05-31-005] Resolve 22 orphaned wiki pages (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-05-31-006] Review orphaned page: log.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-05-31-007] Review orphaned page: projects/actionbook.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-05-31-008] Review orphaned page: projects/agents-backup-full.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-05-31-009] Review orphaned page: projects/kb-bridge-gear-donation.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-05-31-010] Review orphaned page: projects/mailbox-outbox.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-05-31-011] NUC1 KB has uncommitted changes (high, repo_drift) [candidate] (fresh) — nuc1
 
 ---
 *Managed by wiki-manager-stage1.timer (every 12h). Do not edit directly.*

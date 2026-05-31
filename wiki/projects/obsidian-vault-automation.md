@@ -6,8 +6,8 @@
 > Status: reviewed
 
 <!-- KB METADATA
-> Last edited: 2026-05-30 18:14 UTC (git)
-> Version: r145 / f723b25
+> Last edited: 2026-05-31 06:14 UTC (git)
+> Version: r146 / 8c9bc3b
 KB METADATA -->
 
 Server-side automation scripts that maintain the Obsidian vault on NUC2. These scripts are the glue between human capture and the canonical KB — they generate daily notes, operator checklists, AI recommendations, and handle idea ingestion.
