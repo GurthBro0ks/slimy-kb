@@ -1,6 +1,6 @@
 # KB Health Snapshot
 
-**Timestamp:** 2026-06-01T06:14:32Z
+**Timestamp:** 2026-06-01T18:14:32Z
 **Host:** slimy-nuc2
 
 ## File Counts
@@ -29,11 +29,11 @@
 
 ## Log Recent Entries (last 5)
 
-- [2026-05-31 06:14] maintenance | 12h maintenance run
-- [2026-05-31 06:14] wiki_manager | stage1.86 todo queue generation
 - [2026-05-31 18:14] maintenance | 12h maintenance run
 - [2026-05-31 18:14] wiki_manager | stage1.86 todo queue generation
 - [2026-06-01 06:14] maintenance | 12h maintenance run
+- [2026-06-01 06:14] wiki_manager | stage1.86 todo queue generation
+- [2026-06-01 18:14] maintenance | 12h maintenance run
 
 ## Recent Output Files (48h)
 
