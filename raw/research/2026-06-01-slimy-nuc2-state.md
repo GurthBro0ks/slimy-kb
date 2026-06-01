@@ -38,3 +38,27 @@ LISTEN 0      128                          [::1]:3307          [::]:*
 
 22M	/home/slimy/kb
 - /home/slimy/kb: (unable to measure)
+39G	/home/slimy
+- /home/slimy: (unable to measure)
+
+## Uptime
+
+ 06:14:32 up 8 days, 6 min,  1 user,  load average: 0.51, 0.29, 0.16
+
+## KB Git Status
+
+ M raw/research/2026-06-01-slimy-nuc2-state.md
+- ahead: 0
+- behind: 0
+
+## KB Health Snapshot
+
+- orphans (total): 36
+- weak-links (total): 8
+
+## KB Raw Files (recent, 48h)
+
+- 22 raw/*.md files modified in last 48h
+
+## Vault Sync Status
+

@@ -1,19 +1,19 @@
 # NUC2 Current State
 
 > Category: architecture
-> Updated: 2026-05-31T18:14:31Z
+> Updated: 2026-06-01T06:14:32Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-05-31 18:14 UTC (git)
-> Version: r160 / c9d1cd1
+> Last edited: 2026-06-01 06:14 UTC (git)
+> Version: r161 / aea4cae
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc2
-- **Last updated:** 2026-05-31T18:14:31Z
+- **Last updated:** 2026-06-01T06:14:32Z
 
 ## Active Services
 - - pm2: not available
@@ -26,16 +26,16 @@ KB METADATA -->
 - `LISTEN 0      128                          [::1]:3307          [::]:*`
 
 ## KB Health
-- **Orphaned pages:** 22
+- **Orphaned pages:** 36
 - **Weak-linked pages:** 8
 
 ## Open Issues (from todo queue)
-- **[HIGH/candidate]** Resolve 22 orphaned wiki pages — wiki_gap (fresh)
-- **[HIGH/candidate]** Review orphaned page: log.md — wiki_gap (fresh)
-- **[HIGH/candidate]** Review orphaned page: projects/actionbook.md — wiki_gap (fresh)
-- **[HIGH/candidate]** Review orphaned page: projects/agents-backup-full.md — wiki_gap (fresh)
-- **[HIGH/candidate]** Review orphaned page: projects/kb-bridge-gear-donation.md — wiki_gap (fresh)
-- **[HIGH/candidate]** Review orphaned page: projects/mailbox-outbox.md — wiki_gap (fresh)
+- **[MEDIUM/not_candidate]** Resolve 36 orphaned wiki pages — wiki_gap (fresh)
+- **[MEDIUM/not_candidate]** Review orphaned page: game/30-stone-corrections.md — wiki_gap (fresh)
+- **[MEDIUM/not_candidate]** Review orphaned page: game/biozilla-relics.md — wiki_gap (fresh)
+- **[MEDIUM/not_candidate]** Review orphaned page: game/compass-guide.md — wiki_gap (fresh)
+- **[MEDIUM/not_candidate]** Review orphaned page: game/gear-leveling-guide.md — wiki_gap (fresh)
+- **[MEDIUM/not_candidate]** Review orphaned page: game/glorium-guide.md — wiki_gap (fresh)
 
 <!-- END MACHINE MANAGED -->
 
