@@ -15,6 +15,11 @@ Prioritization order for leveling gear and gear souls, based on Taeyeon's guide 
 
 > **Note:** SMS has more value outside rift because damage % on snail is low without rift museum damage% boosts. SMS can be pushed earlier for other fights.
 
+<!-- KB METADATA
+> Last edited: 2026-05-30 14:36 UTC (git)
+> Version: r1 / 848ab94
+KB METADATA -->
+
 ## Baseline Rift Priority (Pre-Rift 2/3 and Persia)
 
 1. **100% Crit** — Only important if you want to remove RNG. You can retry fights until you land all crits, but it costs time.

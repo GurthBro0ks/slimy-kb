@@ -3,6 +3,11 @@
 > Compiled from SlimyInvertabrates Discord player guides and discussions.
 > Last compiled: 2026-05-30
 
+<!-- KB METADATA
+> Last edited: 2026-05-30 17:49 UTC (git)
+> Version: r2 / 30aadd1
+KB METADATA -->
+
 ---
 
 ## Guides

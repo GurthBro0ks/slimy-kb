@@ -9,6 +9,11 @@ updated: "2026-05-30"
 tags: [organs, arena, push, dominating, gene-sim, apostle, purge, revive, cosmos, mirror, crit, dodge, seasonal-shop, awakening, gold-punch-points]
 ---
 
+<!-- KB METADATA
+> Last edited: 2026-05-30 14:36 UTC (git)
+> Version: r1 / 848ab94
+KB METADATA -->
+
 # Organs Setup Guide
 
 Organ configurations for Arena, Pushing, Dominating, and Gene Sim. Different game modes require different organ setups.

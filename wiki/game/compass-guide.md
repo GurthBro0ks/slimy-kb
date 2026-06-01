@@ -9,6 +9,11 @@ updated: "2026-05-30"
 tags: [compass, relics, farm, push, gene-sim, arena, civ, tech, art, faith, stamps, unispark, rush]
 ---
 
+<!-- KB METADATA
+> Last edited: 2026-05-30 14:36 UTC (git)
+> Version: r1 / 848ab94
+KB METADATA -->
+
 # Compass Relic Guide
 
 Guide for optimal compass relic setups across all game areas. Compiled from player-written guides in the SlimyInvertabrates Discord.

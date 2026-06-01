@@ -9,6 +9,11 @@ updated: "2026-05-30"
 tags: [biozilla, relics, dung-beetle, goldfish, clam, hamster, mantis, fame, civ, art, tech, faith, enuma-elish, rush, p2w, f2p]
 ---
 
+<!-- KB METADATA
+> Last edited: 2026-05-30 14:36 UTC (git)
+> Version: r1 / 848ab94
+KB METADATA -->
+
 # Biozilla Relic Guide
 
 Optimal relic setups for each Biozilla fight. Both P2W (mine) and F2P versions provided where applicable. Many recurring relics appear across fights — get these to at least 5 star.

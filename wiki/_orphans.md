@@ -1,17 +1,24 @@
 # Orphaned Pages
 
 > Pages with zero inbound links from other non-index wiki pages.
-> Generated: 2026-05-31T18:14:26Z by kb-lint.sh
+> Generated: 2026-06-01T06:14:27Z by kb-lint.sh
 
 <!-- KB METADATA
 > Last edited: 2026-05-31 18:14 UTC (git)
-> Version: r159 / afe97e7
+> Version: r160 / c9d1cd1
 KB METADATA -->
 
-**Total orphans: 11**
+**Total orphans: 18**
 
 ## Likely Parent Pages
 
+- `game/30-stone-corrections.md`
+- `game/biozilla-relics.md`
+- `game/compass-guide.md`
+- `game/gear-leveling-guide.md`
+- `game/glorium-guide.md`
+- `game/minion-gear-guide.md`
+- `game/organs-guide.md`
 - `log.md`
 - `projects/actionbook.md`
 - `projects/agents-backup-full.md`
@@ -25,6 +32,13 @@ KB METADATA -->
 - `troubleshooting/nuc1-wrapper-recursion-fix.md`
 
 ## All Orphaned Pages
+- `game/30-stone-corrections.md`
+- `game/biozilla-relics.md`
+- `game/compass-guide.md`
+- `game/gear-leveling-guide.md`
+- `game/glorium-guide.md`
+- `game/minion-gear-guide.md`
+- `game/organs-guide.md`
 - `log.md`
 - `projects/actionbook.md`
 - `projects/agents-backup-full.md`

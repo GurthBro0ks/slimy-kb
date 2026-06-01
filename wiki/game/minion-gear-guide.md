@@ -9,6 +9,11 @@ updated: "2026-05-30"
 tags: [minions, gear, rocket-cabin, species-war, minion-sim, zombie, angel, demon, mutant, dragon, skins, form-percent, hulc, relic]
 ---
 
+<!-- KB METADATA
+> Last edited: 2026-05-30 14:36 UTC (git)
+> Version: r1 / 848ab94
+KB METADATA -->
+
 # Minion Gear and Army Composition Guide
 
 Guide for minion gear selection, rocket cabin upgrades, and army composition for Species War and Minion Sim.

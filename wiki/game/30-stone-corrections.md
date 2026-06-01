@@ -9,6 +9,11 @@ updated: "2026-05-30"
 tags: [apostle,organ,brain]
 ---
 
+<!-- KB METADATA
+> Last edited: 2026-05-30 17:49 UTC (git)
+> Version: r1 / 30aadd1
+KB METADATA -->
+
 # 30 Stone Corrections
 
 ## Cosmos Revive Count
