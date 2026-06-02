@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-06-01 18:14 UTC (git)
-> Version: r153 / 054eb0c
+> Version: r154 / 6703988
 KB METADATA -->
 
 This bundle hosts trading bot strategy code, venue connectors, and operations scripts.
