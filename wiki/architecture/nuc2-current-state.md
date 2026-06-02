@@ -1,19 +1,19 @@
 # NUC2 Current State
 
 > Category: architecture
-> Updated: 2026-06-01T18:14:32Z
+> Updated: 2026-06-02T06:14:36Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-06-01 18:14 UTC (git)
-> Version: r164 / 6703988
+> Last edited: 2026-06-02 06:14 UTC (git)
+> Version: r165 / db918c0
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc2
-- **Last updated:** 2026-06-01T18:14:32Z
+- **Last updated:** 2026-06-02T06:14:36Z
 
 ## Active Services
 - - pm2: not available
@@ -30,12 +30,12 @@ KB METADATA -->
 - **Weak-linked pages:** 8
 
 ## Open Issues (from todo queue)
-- **[HIGH/emerging]** Resolve 36 orphaned wiki pages — wiki_gap (fresh)
-- **[HIGH/emerging]** Review orphaned page: game/30-stone-corrections.md — wiki_gap (fresh)
-- **[HIGH/emerging]** Review orphaned page: game/biozilla-relics.md — wiki_gap (fresh)
-- **[HIGH/emerging]** Review orphaned page: game/compass-guide.md — wiki_gap (fresh)
-- **[HIGH/emerging]** Review orphaned page: game/gear-leveling-guide.md — wiki_gap (fresh)
-- **[HIGH/emerging]** Review orphaned page: game/glorium-guide.md — wiki_gap (fresh)
+- **[HIGH/candidate]** Resolve 36 orphaned wiki pages — wiki_gap (fresh)
+- **[HIGH/candidate]** Review orphaned page: game/30-stone-corrections.md — wiki_gap (fresh)
+- **[HIGH/candidate]** Review orphaned page: game/biozilla-relics.md — wiki_gap (fresh)
+- **[HIGH/candidate]** Review orphaned page: game/compass-guide.md — wiki_gap (fresh)
+- **[HIGH/candidate]** Review orphaned page: game/gear-leveling-guide.md — wiki_gap (fresh)
+- **[HIGH/candidate]** Review orphaned page: game/glorium-guide.md — wiki_gap (fresh)
 
 <!-- END MACHINE MANAGED -->
 

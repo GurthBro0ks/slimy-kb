@@ -1,12 +1,12 @@
 # Harness Candidate Promotion Rules
 
 > Category: concepts
-> Updated: 2026-06-01T18:14:32Z
+> Updated: 2026-06-02T06:14:36Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-06-01 18:14 UTC (git)
-> Version: r163 / 6703988
+> Last edited: 2026-06-02 06:14 UTC (git)
+> Version: r164 / db918c0
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
