@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-06-04T06:14:39Z
+# NUC2 Repo Digests — 2026-06-04T18:14:40Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-06-04T06:14:39Z
+**Timestamp:** 2026-06-04T18:14:40Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -19,8 +19,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** ea3f0dd
-- **Subject:** kb: maintenance run 2026-06-04-0614 from slimy-nuc2
+- **Commit:** 5b4f39a
+- **Subject:** kb: maintenance run 2026-06-04-1814 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -48,7 +48,14 @@
 
 ## mission-control
 - **Path:** `/home/slimy/mission-control`
-- **Status:** PATH NOT FOUND
+- **Git:** True
+- **Branch:** main
+- **Commit:** 7be75b6
+- **Subject:** fix: use safe public origin from forwarded headers for login redirect
+- **Dirty:** False
+- **Origin:** git@github.com:GurthBro0ks/mission-control.git
+- **Name:** mission-control
+- **Version:** 0.1.0
 
 ## nuc-comms
 - **Path:** `/home/slimy/nuc-comms`
@@ -68,8 +75,8 @@
 - **Path:** `/home/slimy/slimy-monorepo`
 - **Git:** True
 - **Branch:** main
-- **Commit:** a5fa8b2
-- **Subject:** fix: clarify personal gear and guarded preview labels
+- **Commit:** 3d07e98
+- **Subject:** feat: add SlimyAI version metadata foundation
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/slimy-monorepo.git
 - **Name:** slimy-monorepo
@@ -86,5 +93,5 @@
 ## Summary
 
 - Tracked repos: 13
-- Present: 7
-- Missing: 6
+- Present: 8
+- Missing: 5
