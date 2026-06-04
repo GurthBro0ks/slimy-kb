@@ -1,19 +1,19 @@
 # NUC2 Current State
 
 > Category: architecture
-> Updated: 2026-06-03T18:14:38Z
+> Updated: 2026-06-04T06:14:39Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-06-03 18:14 UTC (git)
-> Version: r172 / 92714ef
+> Last edited: 2026-06-04 06:14 UTC (git)
+> Version: r173 / ea3f0dd
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc2
-- **Last updated:** 2026-06-03T18:14:38Z
+- **Last updated:** 2026-06-04T06:14:39Z
 
 ## Active Services
 - - pm2: not available
