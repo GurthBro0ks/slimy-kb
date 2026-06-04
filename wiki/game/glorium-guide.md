@@ -28,7 +28,7 @@ Step-by-step strategy to maximize glorium income using priest/devotee skill poin
 
 <!-- KB METADATA
 > Last edited: 2026-06-03 18:14 UTC (git)
-> Version: r12 / 77ad8e8
+> Version: r13 / 92714ef
 KB METADATA -->
 
 ## Step 2: Min-Max Glorium Farming (38k Fervor Strategy)
