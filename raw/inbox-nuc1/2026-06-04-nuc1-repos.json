@@ -1,5 +1,5 @@
 {
-  "ts": "20260604T015457Z",
+  "ts": "20260604T135557Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -85,9 +85,9 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "984bacb6f96a",
-      "commit_subject": "chore: update progress and feature list for sbuild toolbar spacer v3",
-      "dirty": false,
+      "commit_hash": "f7cf53319ee2",
+      "commit_subject": "feat(harness): add SkillOpt intelligence layer - failed-approach tracking, protected AGENTS.md section, consolidation tool, Karpathy rules",
+      "dirty": true,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
@@ -96,7 +96,7 @@
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
-      "dirty_count": 0
+      "dirty_count": 1
     },
     {
       "name": "kb",
@@ -201,7 +201,7 @@
       "remote": "github.com:GurthBro0ks/slimy-monorepo",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 314,
+        "ahead": 320,
         "behind": 5
       },
       "kb_bridge_present": false,
