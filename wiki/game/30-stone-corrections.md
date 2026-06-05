@@ -10,8 +10,8 @@ tags: [apostle,organ,brain]
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-06-05 06:14 UTC (git)
-> Version: r19 / 26c23e0
+> Last edited: 2026-06-05 18:14 UTC (git)
+> Version: r20 / c12523d
 KB METADATA -->
 
 # 30 Stone Corrections

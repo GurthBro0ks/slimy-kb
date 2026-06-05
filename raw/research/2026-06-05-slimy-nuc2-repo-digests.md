@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-06-05T06:14:41Z
+# NUC2 Repo Digests — 2026-06-05T18:14:42Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-06-05T06:14:41Z
+**Timestamp:** 2026-06-05T18:14:42Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -19,8 +19,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 1295039
-- **Subject:** kb: maintenance run 2026-06-05-0614 from slimy-nuc2
+- **Commit:** c12523d
+- **Subject:** kb: maintenance run 2026-06-05-1814 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -75,8 +75,8 @@
 - **Path:** `/home/slimy/slimy-monorepo`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 3d07e98
-- **Subject:** feat: add SlimyAI version metadata foundation
+- **Commit:** a96e9c6
+- **Subject:** chore: untrack runtime and generated build info
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/slimy-monorepo.git
 - **Name:** slimy-monorepo
