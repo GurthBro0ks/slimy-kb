@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-06-05 06:14 UTC (git)
-> Version: r175 / 1295039
+> Version: r176 / 26c23e0
 KB METADATA -->
 
 Fix for NUC1 wrapper recursion guard interference that caused finish-hook behavior drift and child-compile protection failures.

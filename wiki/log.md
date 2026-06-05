@@ -5,7 +5,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-06-05 06:14 UTC (git)
-> Version: r227 / 1295039
+> Version: r228 / 26c23e0
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -12088,5 +12088,82 @@ KB METADATA -->
 - summary: stage1.86 todo queue generation
 - commit: 1295039
 - notes: stage1.86 run: todos=11 nuc1_items=152 nuc1_evidence=YES
+
+
+## [2026-06-05 18:14] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_candidate-promotion-rules.md
+  - wiki/_manager-status.md
+  - wiki/_nuc-intake.md
+  - wiki/_page-types.md
+  - wiki/_stale.md
+  - wiki/architecture/auth-and-retired-services.md
+  - wiki/architecture/cross-nuc-communication-matrix.md
+  - wiki/architecture/harness-runtime-topology.md
+  - wiki/architecture/knowledge-base-build-pipeline.md
+  - wiki/architecture/nuc-topology-and-services.md
+  - wiki/architecture/nuc1-current-state.md
+  - wiki/architecture/nuc2-current-state.md
+  - wiki/architecture/nuc2-server-state.md
+  - wiki/architecture/slimyai-login-and-session-flow.md
+  - wiki/concepts/agent-session-contract.md
+  - wiki/concepts/source-of-truth-ledgers.md
+  - wiki/concepts/truth-gate.md
+  - wiki/game/30-stone-corrections.md
+  - wiki/game/_index.md
+  - wiki/game/biozilla-relics.md
+  - wiki/game/compass-guide.md
+  - wiki/game/gear-leveling-guide.md
+  - wiki/game/glorium-guide.md
+  - wiki/game/minion-gear-guide.md
+  - wiki/game/organs-guide.md
+  - wiki/patterns/memory-capture-pattern.md
+  - wiki/patterns/session-closeout-pattern.md
+  - wiki/projects/_project-health-index.md
+  - wiki/projects/actionbook.md
+  - wiki/projects/agents-backup-full.md
+  - wiki/projects/agents-plugin-ecosystem.md
+  - wiki/projects/apify-market-scanner.md
+  - wiki/projects/capture-dashboard.md
+  - wiki/projects/chat-app.md
+  - wiki/projects/chriss-agent.md
+  - wiki/projects/kalshi-ai-trading-bot.md
+  - wiki/projects/kb-bridge-gear-donation.md
+  - wiki/projects/mailbox-ingest.md
+  - wiki/projects/mailbox-nuc-comms.md
+  - wiki/projects/mailbox-outbox.md
+  - wiki/projects/mcp-agent-mailbox.md
+  - wiki/projects/mission-control.md
+  - wiki/projects/ned-autonomous.md
+  - wiki/projects/nuc1-project-anomalies.md
+  - wiki/projects/obsidian-headless-sync.md
+  - wiki/projects/obsidian-vault-automation.md
+  - wiki/projects/operator-console.md
+  - wiki/projects/pm-updown-bot-bundle.md
+  - wiki/projects/repo-health-overview.md
+  - wiki/projects/slimy-chat.md
+  - wiki/projects/slimy-discord-bot.md
+  - wiki/projects/slimy-kb.md
+  - wiki/projects/slimy-monorepo.md
+  - wiki/projects/slimy-web.md
+  - wiki/projects/slimyai-setup.md
+  - wiki/projects/stoat-source.md
+  - wiki/projects/workspace-agent-rules.md
+  - wiki/projects/workspace-executor.md
+  - wiki/projects/workspace-researcher.md
+  - wiki/troubleshooting/kb-autofinish-autocompile-fix.md
+  - wiki/troubleshooting/nginx-certbot-acme-fix.md
+  - wiki/troubleshooting/nuc1-repo-remote-ssh-normalization.md
+  - wiki/troubleshooting/nuc1-wrapper-recursion-fix.md
+  - wiki/troubleshooting/nuc2-repo-remote-ssh-normalization.md
+  - wiki/troubleshooting/q1-2026-operational-fixes.md
+  - wiki/wiki-manager-operator-runbook.md  - raw/research/2026-06-05-slimy-nuc2-kb-health.md
+  - raw/research/2026-06-05-slimy-nuc2-repo-digests.md
+  - raw/research/2026-06-05-slimy-nuc2-state.md
+- summary: 12h maintenance run
+- commit: 26c23e0
+- notes: auto-maintenance from kb-maintenance.sh 2026-06-05T18:14:36Z
 
 
