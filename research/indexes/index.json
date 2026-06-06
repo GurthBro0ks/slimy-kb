@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-06T11:29:55.306515+00:00",
+  "generated_at": "2026-06-06T11:52:09.561019+00:00",
   "source_root": "/home/slimy/kb/research",
   "ui_theme": "research_farm",
   "items": [
@@ -18,7 +18,7 @@
       "completed_at": null,
       "model_used": null,
       "runner_version": "slimy-research-plan-run@0.1.0",
-      "pdf_path": null,
+      "pdf_path": "runs/2026-06-06-sample-self-hosted-deep-research-agent/presentation.pdf",
       "report_path": "research/runs/2026-06-06-sample-self-hosted-deep-research-agent/report.md",
       "critic_path": "research/runs/2026-06-06-sample-self-hosted-deep-research-agent/critic.md",
       "proof_path": "research/runs/2026-06-06-sample-self-hosted-deep-research-agent",
@@ -32,7 +32,10 @@
       "related_harness_session": null,
       "related_guild_campaign": null,
       "assigned_critter": null,
-      "immutable_run_id": "2026-06-06-sample-self-hosted-deep-research-agent"
+      "immutable_run_id": "2026-06-06-sample-self-hosted-deep-research-agent",
+      "almanac_path": "runs/2026-06-06-sample-self-hosted-deep-research-agent/almanac.html",
+      "almanac_generated_at": "2026-06-06T11:51:43.471187+00:00",
+      "pdf_generated_at": "2026-06-06T11:52:09.560516+00:00"
     }
   ]
 }

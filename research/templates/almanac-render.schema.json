@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AlmanacRenderMetadata",
+  "description": "Schema for almanac render metadata tracked in run.json",
+  "type": "object",
+  "properties": {
+    "almanac_path": {
+      "type": ["string", "null"],
+      "description": "Relative path to almanac.html from research root"
+    },
+    "almanac_generated_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when almanac.html was generated"
+    },
+    "almanac_renderer_version": {
+      "type": ["string", "null"],
+      "description": "Version identifier of the renderer tool"
+    },
+    "pdf_path": {
+      "type": ["string", "null"],
+      "description": "Relative path to presentation.pdf from research root"
+    },
+    "pdf_generated_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when presentation.pdf was generated"
+    },
+    "pdf_renderer": {
+      "type": ["string", "null"],
+      "description": "Identifier of the PDF renderer used"
+    }
+  },
+  "additionalProperties": false
+}

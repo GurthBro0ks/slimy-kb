@@ -42,6 +42,18 @@ PHASE2_SCHEMA_PATHS = [
     os.path.join(RESEARCH_ROOT, "templates", "run-metadata.schema.json"),
 ]
 
+PHASE3_FILES = [
+    os.path.join(REPO_ROOT, "tools", "research-render-almanac.py"),
+    os.path.join(REPO_ROOT, "tools", "research-render-almanac.sh"),
+    os.path.join(RESEARCH_ROOT, "templates", "almanac.css"),
+    os.path.join(RESEARCH_ROOT, "templates", "almanac-render.schema.json"),
+    os.path.join(RESEARCH_ROOT, "planning", "phase-3-pdf-almanac-output.md"),
+]
+
+PHASE3_SCHEMA_PATHS = [
+    os.path.join(RESEARCH_ROOT, "templates", "almanac-render.schema.json"),
+]
+
 
 def read_text(path: str) -> str:
     with open(path, "r", encoding="utf-8") as handle:
@@ -66,6 +78,10 @@ def validate() -> tuple[bool, list[str]]:
     for file_path in PHASE2_FILES:
         if not os.path.isfile(file_path):
             errors.append(f"missing Phase 2 file: {file_path}")
+
+    for file_path in PHASE3_FILES:
+        if not os.path.isfile(file_path):
+            errors.append(f"missing Phase 3 file: {file_path}")
 
     if errors:
         return False, errors
@@ -129,6 +145,19 @@ def validate() -> tuple[bool, list[str]]:
                     rel = os.path.relpath(phase2_file, REPO_ROOT)
                     errors.append(f"Phase 2 file {rel}:{line_no} must not reference /home/slimy/slimy-kb")
 
+    for phase3_file in PHASE3_FILES:
+        if os.path.isfile(phase3_file):
+            content = read_text(phase3_file)
+            for line_no, line in enumerate(content.split("\n"), 1):
+                if "/home/slimy/slimy-kb" in line:
+                    stripped = line.strip()
+                    if stripped.startswith("#") or stripped.startswith(">"):
+                        continue
+                    if "must not" in line.lower() or "forbidden" in line.lower() or "do not" in line.lower():
+                        continue
+                    rel = os.path.relpath(phase3_file, REPO_ROOT)
+                    errors.append(f"Phase 3 file {rel}:{line_no} must not reference /home/slimy/slimy-kb")
+
     sample_topic = os.path.join(RESEARCH_ROOT, "topics", "sample-self-hosted-deep-research-agent.md")
     if os.path.isfile(sample_topic):
         try:
@@ -147,6 +176,16 @@ def validate() -> tuple[bool, list[str]]:
                     errors.append(f"{rel} root must be a JSON object")
             except json.JSONDecodeError as exc:
                 errors.append(f"Phase 2 schema not valid JSON: {schema_path}: {exc}")
+
+    for schema_path in PHASE3_SCHEMA_PATHS:
+        if os.path.isfile(schema_path):
+            try:
+                schema = json.loads(read_text(schema_path))
+                if not isinstance(schema, dict):
+                    rel = os.path.relpath(schema_path, REPO_ROOT)
+                    errors.append(f"{rel} root must be a JSON object")
+            except json.JSONDecodeError as exc:
+                errors.append(f"Phase 3 schema not valid JSON: {schema_path}: {exc}")
 
     return not errors, errors
 

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{TITLE}} — Research Farm Almanac</title>
+<style>
+{{CSS}}
+</style>
+</head>
+<body>
+<div class="page">
+<header>
+<div class="title-row">
+<h1>{{TITLE}}</h1>
+{{STATUS_BADGE}}
+</div>
+<div class="subtitle">Research Farm Almanac &middot; Slimy Knowledge Base</div>
+{{META_GRID}}
+</header>
+{{PLACEHOLDER_BANNER}}
+{{SECTIONS}}
+<footer class="footer">
+<span class="farm-brand">Slimy Research Farm</span> &middot; {{RENDERER_VERSION}} &middot; generated {{TIMESTAMP}}
+</footer>
+</div>
+</body>
+</html>
