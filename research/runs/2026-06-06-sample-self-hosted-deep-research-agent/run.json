@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "immutable_run_id": "2026-06-06-sample-self-hosted-deep-research-agent",
+  "slug": "sample-self-hosted-deep-research-agent",
+  "title": "Self-hosted deep research agent architecture",
+  "status": "planned",
+  "priority": "normal",
+  "depth": "deep",
+  "confidence": null,
+  "source_count": 0,
+  "citation_count": 0,
+  "created_at": "2026-06-05",
+  "started_at": null,
+  "completed_at": null,
+  "model_used": null,
+  "runner_version": "slimy-research-plan-run@0.1.0",
+  "pdf_path": null,
+  "report_path": "research/runs/2026-06-06-sample-self-hosted-deep-research-agent/report.md",
+  "critic_path": "research/runs/2026-06-06-sample-self-hosted-deep-research-agent/critic.md",
+  "proof_path": "research/runs/2026-06-06-sample-self-hosted-deep-research-agent",
+  "topic_path": "research/topics/sample-self-hosted-deep-research-agent.md",
+  "tags": [
+    "ai-agents",
+    "nuc",
+    "slimy-kb",
+    "habitat"
+  ],
+  "related_harness_session": null,
+  "related_guild_campaign": null,
+  "assigned_critter": null,
+  "source_topic_path": "research/topics/sample-self-hosted-deep-research-agent.md"
+}

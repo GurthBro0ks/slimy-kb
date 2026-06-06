@@ -1,0 +1,131 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://slimyai.local/schemas/run-metadata.schema.json",
+  "title": "Research Run Metadata",
+  "description": "Immutable metadata for a single research run (proof burrow). Written once by the seed-to-run planner and updated only during research execution.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "immutable_run_id",
+    "slug",
+    "title",
+    "status",
+    "priority",
+    "depth",
+    "confidence",
+    "source_count",
+    "citation_count",
+    "created_at",
+    "started_at",
+    "completed_at",
+    "model_used",
+    "runner_version",
+    "pdf_path",
+    "report_path",
+    "critic_path",
+    "proof_path",
+    "topic_path",
+    "tags",
+    "related_harness_session",
+    "related_guild_campaign",
+    "assigned_critter",
+    "source_topic_path"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Schema version for run metadata. Bump on breaking shape change."
+    },
+    "immutable_run_id": {
+      "type": "string",
+      "description": "Stable run identifier matching the runs/YYYY-MM-DD-slug/ directory name."
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]{1,80}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200
+    },
+    "status": {
+      "type": "string",
+      "enum": ["planned", "running", "complete", "failed", "archived"],
+      "description": "Lifecycle status. planned = skeleton created by Phase 2 planner. running = research in progress. complete = harvest written."
+    },
+    "priority": {
+      "type": "string",
+      "enum": ["low", "normal", "high", "urgent"]
+    },
+    "depth": {
+      "type": "string",
+      "enum": ["quick", "standard", "deep"]
+    },
+    "confidence": {
+      "type": ["number", "null"],
+      "minimum": 0,
+      "maximum": 1
+    },
+    "source_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "citation_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "created_at": {
+      "type": ["string", "null"],
+      "format": "date"
+    },
+    "started_at": {
+      "type": ["string", "null"],
+      "format": "date-time"
+    },
+    "completed_at": {
+      "type": ["string", "null"],
+      "format": "date-time"
+    },
+    "model_used": {
+      "type": ["string", "null"]
+    },
+    "runner_version": {
+      "type": ["string", "null"]
+    },
+    "pdf_path": {
+      "type": ["string", "null"]
+    },
+    "report_path": {
+      "type": ["string", "null"]
+    },
+    "critic_path": {
+      "type": ["string", "null"]
+    },
+    "proof_path": {
+      "type": ["string", "null"]
+    },
+    "topic_path": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "related_harness_session": {
+      "type": ["string", "null"]
+    },
+    "related_guild_campaign": {
+      "type": ["string", "null"]
+    },
+    "assigned_critter": {
+      "type": ["string", "null"]
+    },
+    "source_topic_path": {
+      "type": "string",
+      "description": "Relative path to the original topic seed this run was created from."
+    }
+  }
+}
