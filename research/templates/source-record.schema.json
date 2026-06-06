@@ -1,0 +1,82 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SourceRecord",
+  "description": "Schema for a single source record in a research run. Stored in sources.jsonl (one JSON object per line).",
+  "type": "object",
+  "required": ["source_id", "title", "source_type", "trust_level", "fetched_at", "status"],
+  "properties": {
+    "source_id": {
+      "type": "string",
+      "description": "Unique identifier for this source within the run. Format: src-NNN."
+    },
+    "url": {
+      "type": ["string", "null"],
+      "description": "Original URL of the source, or null for offline sources."
+    },
+    "title": {
+      "type": "string",
+      "description": "Title of the source."
+    },
+    "source_type": {
+      "type": "string",
+      "enum": ["official_documentation", "peer_reviewed_paper", "github_repository", "technical_blog", "stack_overflow", "official_announcement", "package_registry", "wikipedia", "community_forum", "offline", "other"],
+      "description": "Type of source, from the allowed source types in the source quality policy."
+    },
+    "trust_level": {
+      "type": "string",
+      "enum": ["high", "medium", "low"],
+      "description": "Trust level assigned to this source."
+    },
+    "fetched_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when the source was fetched, or null if not yet fetched."
+    },
+    "published_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when the source was published, or null if unknown."
+    },
+    "last_modified_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of last modification, or null if unknown."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["pending", "fetched", "failed", "skipped"],
+      "description": "Status of this source record."
+    },
+    "author": {
+      "type": ["string", "null"],
+      "description": "Author or authors of the source."
+    },
+    "summary": {
+      "type": ["string", "null"],
+      "description": "Brief summary of the source content (written after fetching)."
+    },
+    "notes_path": {
+      "type": ["string", "null"],
+      "description": "Relative path to detailed source notes file, or null."
+    },
+    "error_message": {
+      "type": ["string", "null"],
+      "description": "Error message if status is 'failed'."
+    },
+    "skip_reason": {
+      "type": ["string", "null"],
+      "description": "Reason for skipping if status is 'skipped'."
+    },
+    "paywalled": {
+      "type": "boolean",
+      "default": false,
+      "description": "Whether this source is behind a paywall."
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": true,
+      "description": "Additional metadata specific to this source type."
+    }
+  },
+  "additionalProperties": false
+}

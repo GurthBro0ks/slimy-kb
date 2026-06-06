@@ -1,0 +1,71 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ExecutionTimeline",
+  "description": "Schema for a single step in the execution timeline. Stored in timeline.jsonl (one JSON object per line).",
+  "type": "object",
+  "required": ["step", "action", "status"],
+  "properties": {
+    "step": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Step number in the execution sequence."
+    },
+    "action": {
+      "type": "string",
+      "enum": [
+        "plan_queries",
+        "search_sources",
+        "fetch_source",
+        "review_source",
+        "write_source_notes",
+        "extract_claims",
+        "synthesize_findings",
+        "draft_report_section",
+        "write_critic_notes",
+        "finalize_report",
+        "render_artifacts",
+        "validate_run"
+      ],
+      "description": "The type of action performed in this step."
+    },
+    "description": {
+      "type": ["string", "null"],
+      "description": "Human-readable description of this step."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["pending", "in_progress", "completed", "skipped", "failed"],
+      "description": "Status of this step."
+    },
+    "started_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when this step started."
+    },
+    "completed_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when this step completed."
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Source IDs involved in this step."
+    },
+    "output_files": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Files created or modified by this step."
+    },
+    "error_message": {
+      "type": ["string", "null"],
+      "description": "Error message if status is 'failed'."
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": true,
+      "description": "Additional step-specific metadata."
+    }
+  },
+  "additionalProperties": false
+}

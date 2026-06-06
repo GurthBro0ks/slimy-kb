@@ -3,7 +3,7 @@
   "immutable_run_id": "2026-06-06-sample-self-hosted-deep-research-agent",
   "slug": "sample-self-hosted-deep-research-agent",
   "title": "Self-hosted deep research agent architecture",
-  "status": "planned",
+  "status": "research_planned",
   "priority": "normal",
   "depth": "deep",
   "confidence": null,
@@ -33,5 +33,8 @@
   "almanac_generated_at": "2026-06-06T11:51:43.471187+00:00",
   "almanac_renderer_version": "slimy-research-render-almanac@0.1.0",
   "pdf_generated_at": "2026-06-06T11:52:09.560516+00:00",
-  "pdf_renderer": "chrome-headless (chrome)"
+  "pdf_renderer": "chrome-headless (chrome)",
+  "execution_plan_path": "research/runs/2026-06-06-sample-self-hosted-deep-research-agent/execution-plan.md",
+  "execution_planned_at": "2026-06-06T15:14:36.582829+00:00",
+  "executor_version": "slimy-research-execute-run@0.1.0"
 }

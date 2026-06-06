@@ -54,6 +54,32 @@ PHASE3_SCHEMA_PATHS = [
     os.path.join(RESEARCH_ROOT, "templates", "almanac-render.schema.json"),
 ]
 
+PHASE6A_DIRS = [
+    os.path.join(RESEARCH_ROOT, "policies"),
+]
+
+PHASE6A_FILES = [
+    os.path.join(RESEARCH_ROOT, "policies", "source-quality-policy.md"),
+    os.path.join(RESEARCH_ROOT, "policies", "citation-policy.md"),
+    os.path.join(RESEARCH_ROOT, "policies", "execution-safety-policy.md"),
+    os.path.join(RESEARCH_ROOT, "planning", "phase-6a-research-execution-contract.md"),
+    os.path.join(RESEARCH_ROOT, "templates", "source-record.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "citation-record.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "claim-record.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "execution-timeline.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "execution-plan.template.md"),
+    os.path.join(RESEARCH_ROOT, "templates", "source-notes.template.md"),
+    os.path.join(REPO_ROOT, "tools", "research-execute-run.py"),
+    os.path.join(REPO_ROOT, "tools", "research-execute-run.sh"),
+]
+
+PHASE6A_SCHEMA_PATHS = [
+    os.path.join(RESEARCH_ROOT, "templates", "source-record.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "citation-record.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "claim-record.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "execution-timeline.schema.json"),
+]
+
 
 def read_text(path: str) -> str:
     with open(path, "r", encoding="utf-8") as handle:
@@ -82,6 +108,14 @@ def validate() -> tuple[bool, list[str]]:
     for file_path in PHASE3_FILES:
         if not os.path.isfile(file_path):
             errors.append(f"missing Phase 3 file: {file_path}")
+
+    for directory in PHASE6A_DIRS:
+        if not os.path.isdir(directory):
+            errors.append(f"missing Phase 6A directory: {directory}")
+
+    for file_path in PHASE6A_FILES:
+        if not os.path.isfile(file_path):
+            errors.append(f"missing Phase 6A file: {file_path}")
 
     if errors:
         return False, errors
@@ -186,6 +220,29 @@ def validate() -> tuple[bool, list[str]]:
                     errors.append(f"{rel} root must be a JSON object")
             except json.JSONDecodeError as exc:
                 errors.append(f"Phase 3 schema not valid JSON: {schema_path}: {exc}")
+
+    for phase6a_file in PHASE6A_FILES:
+        if os.path.isfile(phase6a_file):
+            content = read_text(phase6a_file)
+            for line_no, line in enumerate(content.split("\n"), 1):
+                if "/home/slimy/slimy-kb" in line:
+                    stripped = line.strip()
+                    if stripped.startswith("#") or stripped.startswith(">"):
+                        continue
+                    if "must not" in line.lower() or "forbidden" in line.lower() or "do not" in line.lower():
+                        continue
+                    rel = os.path.relpath(phase6a_file, REPO_ROOT)
+                    errors.append(f"Phase 6A file {rel}:{line_no} must not reference /home/slimy/slimy-kb")
+
+    for schema_path in PHASE6A_SCHEMA_PATHS:
+        if os.path.isfile(schema_path):
+            try:
+                schema = json.loads(read_text(schema_path))
+                if not isinstance(schema, dict):
+                    rel = os.path.relpath(schema_path, REPO_ROOT)
+                    errors.append(f"{rel} root must be a JSON object")
+            except json.JSONDecodeError as exc:
+                errors.append(f"Phase 6A schema not valid JSON: {schema_path}: {exc}")
 
     return not errors, errors
 

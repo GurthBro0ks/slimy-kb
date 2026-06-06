@@ -1,0 +1,10 @@
+{"step": 1, "action": "plan_queries", "description": "Define search queries from topic scope", "status": "pending"}
+{"step": 2, "action": "search_sources", "description": "Search for candidate sources", "status": "pending"}
+{"step": 3, "action": "fetch_source", "description": "Fetch each candidate source", "status": "pending"}
+{"step": 4, "action": "review_source", "description": "Review fetched content for relevance", "status": "pending"}
+{"step": 5, "action": "write_source_notes", "description": "Write detailed notes for each source", "status": "pending"}
+{"step": 6, "action": "extract_claims", "description": "Extract verifiable claims from sources", "status": "pending"}
+{"step": 7, "action": "synthesize_findings", "description": "Combine claims into findings", "status": "pending"}
+{"step": 8, "action": "draft_report_section", "description": "Write report sections from findings", "status": "pending"}
+{"step": 9, "action": "write_critic_notes", "description": "Write critic/red-team assessment", "status": "pending"}
+{"step": 10, "action": "finalize_report", "description": "Finalize report and validate", "status": "pending"}

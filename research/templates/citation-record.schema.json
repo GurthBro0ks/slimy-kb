@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CitationRecord",
+  "description": "Schema for a citation record linking a claim to a source. Stored in claims.jsonl (one JSON object per line).",
+  "type": "object",
+  "required": ["citation_id", "source_id", "claim_text", "claim_type", "confidence"],
+  "properties": {
+    "citation_id": {
+      "type": "string",
+      "description": "Unique identifier for this citation within the run. Format: cite-NNN."
+    },
+    "source_id": {
+      "type": "string",
+      "description": "References a source_id from sources.jsonl. Must point to an existing saved source record."
+    },
+    "claim_text": {
+      "type": "string",
+      "description": "The text being cited (short quote or paraphrase). Under 200 words for direct quotes."
+    },
+    "claim_type": {
+      "type": "string",
+      "enum": ["fact", "analysis", "recommendation"],
+      "description": "Type of claim. Facts require mandatory citation. Recommendations are author opinion."
+    },
+    "confidence": {
+      "type": "string",
+      "enum": ["high", "medium", "low", "uncertain", "disputed", "unverified", "estimated"],
+      "description": "Confidence level of this claim."
+    },
+    "location_in_report": {
+      "type": ["string", "null"],
+      "description": "Section or paragraph reference where this claim appears in the report."
+    },
+    "additional_source_ids": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Additional source IDs that support this claim."
+    },
+    "quote_is_verbatim": {
+      "type": "boolean",
+      "default": false,
+      "description": "Whether claim_text is a verbatim quote from the source."
+    },
+    "notes": {
+      "type": ["string", "null"],
+      "description": "Additional notes about this citation."
+    }
+  },
+  "additionalProperties": false
+}
