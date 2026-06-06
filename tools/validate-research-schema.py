@@ -80,6 +80,30 @@ PHASE6A_SCHEMA_PATHS = [
     os.path.join(RESEARCH_ROOT, "templates", "execution-timeline.schema.json"),
 ]
 
+PHASE6B_DIRS = [
+    # No new directories introduced by Phase 6B; lives under research/policies/
+    # and research/planning/, both created in earlier phases.
+]
+
+PHASE6B_FILES = [
+    os.path.join(RESEARCH_ROOT, "policies", "fetching-policy.md"),
+    os.path.join(RESEARCH_ROOT, "planning", "phase-6b-owner-approved-source-fetching.md"),
+    os.path.join(RESEARCH_ROOT, "templates", "pending-sources.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "pending-sources.template.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "source-fetch-record.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "fetch-result.schema.json"),
+    os.path.join(REPO_ROOT, "tools", "research-fetch-sources.py"),
+    os.path.join(REPO_ROOT, "tools", "research-fetch-sources.sh"),
+]
+
+PHASE6B_SCHEMA_PATHS = [
+    os.path.join(RESEARCH_ROOT, "templates", "pending-sources.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "source-fetch-record.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "fetch-result.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "source-record.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "run-metadata.schema.json"),
+]
+
 
 def read_text(path: str) -> str:
     with open(path, "r", encoding="utf-8") as handle:
@@ -116,6 +140,10 @@ def validate() -> tuple[bool, list[str]]:
     for file_path in PHASE6A_FILES:
         if not os.path.isfile(file_path):
             errors.append(f"missing Phase 6A file: {file_path}")
+
+    for file_path in PHASE6B_FILES:
+        if not os.path.isfile(file_path):
+            errors.append(f"missing Phase 6B file: {file_path}")
 
     if errors:
         return False, errors
@@ -243,6 +271,46 @@ def validate() -> tuple[bool, list[str]]:
                     errors.append(f"{rel} root must be a JSON object")
             except json.JSONDecodeError as exc:
                 errors.append(f"Phase 6A schema not valid JSON: {schema_path}: {exc}")
+
+    for phase6b_file in PHASE6B_FILES:
+        if os.path.isfile(phase6b_file):
+            content = read_text(phase6b_file)
+            for line_no, line in enumerate(content.split("\n"), 1):
+                if "/home/slimy/slimy-kb" in line:
+                    stripped = line.strip()
+                    if stripped.startswith("#") or stripped.startswith(">"):
+                        continue
+                    if "must not" in line.lower() or "forbidden" in line.lower() or "do not" in line.lower():
+                        continue
+                    rel = os.path.relpath(phase6b_file, REPO_ROOT)
+                    errors.append(f"Phase 6B file {rel}:{line_no} must not reference /home/slimy/slimy-kb")
+
+    for schema_path in PHASE6B_SCHEMA_PATHS:
+        if os.path.isfile(schema_path):
+            try:
+                schema = json.loads(read_text(schema_path))
+                if not isinstance(schema, dict):
+                    rel = os.path.relpath(schema_path, REPO_ROOT)
+                    errors.append(f"{rel} root must be a JSON object")
+            except json.JSONDecodeError as exc:
+                errors.append(f"Phase 6B schema not valid JSON: {schema_path}: {exc}")
+
+    # Phase 6B tool self-checks.
+    fetcher = os.path.join(REPO_ROOT, "tools", "research-fetch-sources.py")
+    if os.path.isfile(fetcher):
+        try:
+            import py_compile
+            py_compile.compile(fetcher, doraise=True)
+        except py_compile.PyCompileError as exc:
+            errors.append(f"Phase 6B fetcher does not compile: {exc}")
+
+    # Validate run-metadata schema is also valid JSON.
+    rm_schema = os.path.join(RESEARCH_ROOT, "templates", "run-metadata.schema.json")
+    if os.path.isfile(rm_schema):
+        try:
+            json.loads(read_text(rm_schema))
+        except json.JSONDecodeError as exc:
+            errors.append(f"run-metadata.schema.json is not valid JSON: {exc}")
 
     return not errors, errors
 

@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://slimyai.local/schemas/fetch-result.schema.json",
+  "title": "Fetch Result",
+  "description": "Per-source fetch outcome summary written at research/runs/<run-id>/fetched/<source_id>/fetch-result.json. Mirrors the source-fetch-record with a flatter, human-readable layout intended for quick inspection.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "source_id", "run_id", "requested_url", "fetched_at", "status"],
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "const": 1
+    },
+    "source_id": { "type": "string" },
+    "run_id": { "type": "string" },
+    "requested_url": { "type": "string" },
+    "final_url": { "type": ["string", "null"] },
+    "fetched_at": { "type": "string", "format": "date-time" },
+    "duration_ms": { "type": ["integer", "null"] },
+    "http_status": { "type": ["integer", "null"] },
+    "content_type": { "type": ["string", "null"] },
+    "bytes_saved": { "type": ["integer", "null"] },
+    "sha256": { "type": ["string", "null"] },
+    "truncated": { "type": "boolean", "default": false },
+    "redirect_chain": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "artifact_path": { "type": ["string", "null"] },
+    "status": {
+      "type": "string",
+      "enum": ["fetched", "failed", "skipped"]
+    },
+    "error_message": { "type": ["string", "null"] }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://slimyai.local/schemas/pending-sources.schema.json",
+  "title": "Pending Sources",
+  "description": "Owner-approved URL list for a single research run. The fetcher reads this file and only fetches URLs that appear here. Edit by hand; no auto-population. An empty sources array is valid and produces zero network activity.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "run_id", "created_at", "sources"],
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "const": 1
+    },
+    "run_id": {
+      "type": "string",
+      "description": "The immutable_run_id of the research run this pending-sources file belongs to. Must match the run directory name."
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 UTC timestamp when this file was created or last rewritten by the owner."
+    },
+    "updated_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "ISO 8601 UTC timestamp of the last manual edit. Optional."
+    },
+    "approved_by": {
+      "type": ["string", "null"],
+      "description": "Owner handle that approved the URL list as a whole. Each source also records its own approver."
+    },
+    "notes": {
+      "type": ["string", "null"],
+      "description": "Free-form owner notes about the URL list."
+    },
+    "sources": {
+      "type": "array",
+      "description": "Approved URLs to fetch. Empty array is valid and means 'no fetches in this phase'.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["source_id", "url", "title_hint", "source_type", "reason", "approved_by", "approved_at"],
+        "properties": {
+          "source_id": {
+            "type": "string",
+            "pattern": "^[A-Za-z0-9._-]{1,64}$",
+            "description": "Run-local unique identifier. Format suggestion: source-NNN."
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "minLength": 1,
+            "maxLength": 4096,
+            "description": "URL to fetch. Must be http or https (validated separately at fetch time)."
+          },
+          "title_hint": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 240,
+            "description": "Owner's hint for the source title; recorded but not authoritative."
+          },
+          "source_type": {
+            "type": "string",
+            "enum": [
+              "official_docs",
+              "official_documentation",
+              "peer_reviewed_paper",
+              "github_repository",
+              "technical_blog",
+              "stack_overflow",
+              "official_announcement",
+              "package_registry",
+              "wikipedia",
+              "community_forum",
+              "other"
+            ],
+            "description": "Source type for downstream policy checks."
+          },
+          "reason": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 500,
+            "description": "Why the owner approved this URL for this run."
+          },
+          "approved_by": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 100,
+            "description": "Owner handle that approved this specific URL."
+          },
+          "approved_at": {
+            "type": "string",
+            "format": "date-time",
+            "description": "ISO 8601 UTC timestamp of approval for this URL."
+          }
+        }
+      }
+    }
+  }
+}

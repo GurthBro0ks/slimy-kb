@@ -53,8 +53,18 @@
     },
     "status": {
       "type": "string",
-      "enum": ["planned", "running", "complete", "failed", "archived"],
-      "description": "Lifecycle status. planned = skeleton created by Phase 2 planner. running = research in progress. complete = harvest written."
+      "enum": [
+        "planned",
+        "research_planned",
+        "researching",
+        "sources_fetched",
+        "partial_fetch_failed",
+        "running",
+        "complete",
+        "failed",
+        "archived"
+      ],
+      "description": "Lifecycle status. planned/research_planned = skeleton created by Phase 2/6A planner. researching = active execution. sources_fetched = Phase 6B fetcher completed at least one source. partial_fetch_failed = some sources failed. complete = harvest written (set by later phases only)."
     },
     "priority": {
       "type": "string",
@@ -85,6 +95,11 @@
       "type": ["string", "null"],
       "format": "date-time"
     },
+    "fetched_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "ISO 8601 UTC timestamp of the most recent successful fetch by the Phase 6B fetcher. Phase 6B."
+    },
     "completed_at": {
       "type": ["string", "null"],
       "format": "date-time"
@@ -94,6 +109,10 @@
     },
     "runner_version": {
       "type": ["string", "null"]
+    },
+    "fetcher_version": {
+      "type": ["string", "null"],
+      "description": "Version of tools/research-fetch-sources.py that last updated the run. Phase 6B."
     },
     "pdf_path": {
       "type": ["string", "null"]

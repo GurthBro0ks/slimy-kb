@@ -8,3 +8,5 @@
 {"step": 8, "action": "draft_report_section", "description": "Write report sections from findings", "status": "pending"}
 {"step": 9, "action": "write_critic_notes", "description": "Write critic/red-team assessment", "status": "pending"}
 {"step": 10, "action": "finalize_report", "description": "Finalize report and validate", "status": "pending"}
+{"action": "fetch_source", "description": "Phase 6B fetch (v0.1.0) for source-001 -> fetched", "status": "fetched", "step": 11}
+{"action": "fetch_summary", "description": "Phase 6B fetch complete: fetched=1 failed=0", "status": "fetched", "step": 12}

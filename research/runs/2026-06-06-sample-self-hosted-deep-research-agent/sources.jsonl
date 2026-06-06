@@ -1,1 +1,2 @@
-{"url": "", "title": "", "fetched_at": null, "status": "pending"}
+{"fetched_at": null, "status": "pending", "title": "", "url": ""}
+{"artifact_path": "fetched/source-001/response.html", "bytes_saved": 528, "content_type": "text/html", "error_message": null, "fetched_at": "2026-06-06T16:32:15Z", "final_url": "https://example.com/", "http_status": 200, "notes_path": "notes/source-001.notes.md", "sha256": "fb91d75a6bb430787a61b0aec5e374f580030f2878e1613eab5ca6310f7bbb9a", "source_id": "source-001", "source_type": "official_documentation", "status": "fetched", "title": "Example Domain", "trust_level": "medium", "url": "https://example.com/"}

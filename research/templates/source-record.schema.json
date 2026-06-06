@@ -1,17 +1,21 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "SourceRecord",
-  "description": "Schema for a single source record in a research run. Stored in sources.jsonl (one JSON object per line).",
+  "description": "Schema for a single source record in a research run. Stored in sources.jsonl (one JSON object per line). Phase 6B adds optional fetch fields populated by the owner-gated fetcher.",
   "type": "object",
   "required": ["source_id", "title", "source_type", "trust_level", "fetched_at", "status"],
   "properties": {
     "source_id": {
       "type": "string",
-      "description": "Unique identifier for this source within the run. Format: src-NNN."
+      "description": "Unique identifier for this source within the run. Format: src-NNN or source-NNN."
     },
     "url": {
       "type": ["string", "null"],
       "description": "Original URL of the source, or null for offline sources."
+    },
+    "final_url": {
+      "type": ["string", "null"],
+      "description": "URL after following redirects, or null when not yet fetched. Phase 6B."
     },
     "title": {
       "type": "string",
@@ -19,8 +23,8 @@
     },
     "source_type": {
       "type": "string",
-      "enum": ["official_documentation", "peer_reviewed_paper", "github_repository", "technical_blog", "stack_overflow", "official_announcement", "package_registry", "wikipedia", "community_forum", "offline", "other"],
-      "description": "Type of source, from the allowed source types in the source quality policy."
+      "enum": ["official_documentation", "peer_reviewed_paper", "github_repository", "technical_blog", "stack_overflow", "official_announcement", "package_registry", "wikipedia", "community_forum", "offline", "other", "official_docs"],
+      "description": "Type of source, from the allowed source types in the source quality policy. 'official_docs' is the short form used in pending-sources.json and is accepted as an alias for 'official_documentation'."
     },
     "trust_level": {
       "type": "string",
@@ -46,6 +50,30 @@
       "type": "string",
       "enum": ["pending", "fetched", "failed", "skipped"],
       "description": "Status of this source record."
+    },
+    "http_status": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "maximum": 599,
+      "description": "HTTP status code from the fetch exchange, or null when not yet fetched. Phase 6B."
+    },
+    "content_type": {
+      "type": ["string", "null"],
+      "description": "Response Content-Type from the fetch exchange, or null. Phase 6B."
+    },
+    "bytes_saved": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "description": "Number of bytes of the response body saved to disk, or null. Phase 6B."
+    },
+    "sha256": {
+      "type": ["string", "null"],
+      "pattern": "^[0-9a-f]{64}$",
+      "description": "Lower-case hex SHA-256 of the saved response body, or null. Phase 6B."
+    },
+    "artifact_path": {
+      "type": ["string", "null"],
+      "description": "Path relative to the run directory of the saved response artifact (e.g. fetched/source-001/response.html), or null. Phase 6B."
     },
     "author": {
       "type": ["string", "null"],

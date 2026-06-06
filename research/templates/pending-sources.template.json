@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "run_id": "REPLACE_WITH_IMMUTABLE_RUN_ID",
+  "created_at": "REPLACE_WITH_UTC_ISO8601",
+  "updated_at": null,
+  "approved_by": null,
+  "notes": "Owner-approved URL list. Empty array means no fetches in this phase.",
+  "sources": []
+}

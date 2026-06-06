@@ -1,0 +1,101 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://slimyai.local/schemas/source-fetch-record.schema.json",
+  "title": "Source Fetch Record",
+  "description": "Per-source fetch metadata written by the Phase 6B fetcher. Stored at research/runs/<run-id>/fetched/<source_id>/metadata.json. The fetcher writes this file atomically after a successful exchange; a record may be either successful or a recorded failure (status='failed').",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "source_id",
+    "run_id",
+    "requested_url",
+    "fetched_at",
+    "fetcher_version",
+    "status"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "const": 1
+    },
+    "source_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9._-]{1,64}$"
+    },
+    "run_id": {
+      "type": "string"
+    },
+    "requested_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "final_url": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "The URL after following all redirects. Equal to requested_url if no redirects were followed."
+    },
+    "fetched_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "duration_ms": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "description": "Wall-clock duration of the fetch exchange in milliseconds."
+    },
+    "fetcher_version": {
+      "type": "string",
+      "description": "Version of tools/research-fetch-sources.py that performed the exchange."
+    },
+    "user_agent": {
+      "type": "string"
+    },
+    "http_status": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "maximum": 599
+    },
+    "content_type": {
+      "type": ["string", "null"]
+    },
+    "bytes_saved": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "truncated": {
+      "type": "boolean",
+      "default": false
+    },
+    "sha256": {
+      "type": ["string", "null"],
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "artifact_path": {
+      "type": ["string", "null"],
+      "description": "Relative path under research/runs/<run-id>/ to the response artifact (response.html or response.txt)."
+    },
+    "fetch_result_path": {
+      "type": ["string", "null"],
+      "description": "Relative path to the fetch-result.json file for this source."
+    },
+    "resolved_ips": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "All IPs the hostname resolved to at fetch time. Captured for the audit trail."
+    },
+    "redirect_chain": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Sequence of 3xx Location values followed, in order."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["fetched", "failed"]
+    },
+    "error_message": {
+      "type": ["string", "null"],
+      "description": "Human-readable reason when status='failed'. Never contains credentials or page body content."
+    }
+  }
+}
