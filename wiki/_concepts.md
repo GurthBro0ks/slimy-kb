@@ -3,7 +3,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-06-06 06:14 UTC (git)
-> Version: r177 / 63bd993
+> Version: r178 / 7b80972
 KB METADATA -->
 
 - Agent session contract

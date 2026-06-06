@@ -9,6 +9,11 @@ updated: "2026-06-03"
 tags: [relic,farm,push,glorium,fervor,biome,apostle,rift]
 ---
 
+<!-- KB METADATA
+> Last edited: 2026-06-03 00:05 UTC (git)
+> Version: r1 / 3693642
+KB METADATA -->
+
 # Thread Glorium Guide
 
 This guide outlines a strategy to optimize Glorium gain in Super Snail, focusing on efficient management of Protomon Priests and Devotees. The method involves alternating between a farming setup for daily Glorium and a combat setup for pushing Apostles.

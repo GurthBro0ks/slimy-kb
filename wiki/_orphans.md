@@ -1,14 +1,14 @@
 # Orphaned Pages
 
 > Pages with zero inbound links from other non-index wiki pages.
-> Generated: 2026-06-06T06:14:40Z by kb-lint.sh
+> Generated: 2026-06-06T18:14:42Z by kb-lint.sh
 
 <!-- KB METADATA
 > Last edited: 2026-06-06 06:14 UTC (git)
-> Version: r181 / 63bd993
+> Version: r182 / 7b80972
 KB METADATA -->
 
-**Total orphans: 18**
+**Total orphans: 44**
 
 ## Likely Parent Pages
 
@@ -19,6 +19,32 @@ KB METADATA -->
 - `game/glorium-guide.md`
 - `game/minion-gear-guide.md`
 - `game/organs-guide.md`
+- `game/snupdates.md`
+- `game/thread-biozilla-relics.md`
+- `game/thread-calculating-elemental-damage.md`
+- `game/thread-compass-guide.md`
+- `game/thread-concerting-tier-list.md`
+- `game/thread-cooking.md`
+- `game/thread-edge-minions.md`
+- `game/thread-gear-leveling-guide.md`
+- `game/thread-glorium-guide.md`
+- `game/thread-goldfish.md`
+- `game/thread-gurth-needs-a-gear-update.md`
+- `game/thread-june-2025-changes.md`
+- `game/thread-kaleido-explanation-and-tips.md`
+- `game/thread-leadership.md`
+- `game/thread-mantis-swar.md`
+- `game/thread-minion-gear-guide.md`
+- `game/thread-minion-talents.md`
+- `game/thread-organs.md`
+- `game/thread-parsia.md`
+- `game/thread-protomon-help.md`
+- `game/thread-rbf-minions.md`
+- `game/thread-relic-forge.md`
+- `game/thread-rift-guide.md`
+- `game/thread-t7-rituals.md`
+- `game/thread-tips-and-tricks.md`
+- `game/thread-ultimate-divine-dragon.md`
 - `log.md`
 - `projects/actionbook.md`
 - `projects/agents-backup-full.md`
@@ -39,6 +65,32 @@ KB METADATA -->
 - `game/glorium-guide.md`
 - `game/minion-gear-guide.md`
 - `game/organs-guide.md`
+- `game/snupdates.md`
+- `game/thread-biozilla-relics.md`
+- `game/thread-calculating-elemental-damage.md`
+- `game/thread-compass-guide.md`
+- `game/thread-concerting-tier-list.md`
+- `game/thread-cooking.md`
+- `game/thread-edge-minions.md`
+- `game/thread-gear-leveling-guide.md`
+- `game/thread-glorium-guide.md`
+- `game/thread-goldfish.md`
+- `game/thread-gurth-needs-a-gear-update.md`
+- `game/thread-june-2025-changes.md`
+- `game/thread-kaleido-explanation-and-tips.md`
+- `game/thread-leadership.md`
+- `game/thread-mantis-swar.md`
+- `game/thread-minion-gear-guide.md`
+- `game/thread-minion-talents.md`
+- `game/thread-organs.md`
+- `game/thread-parsia.md`
+- `game/thread-protomon-help.md`
+- `game/thread-rbf-minions.md`
+- `game/thread-relic-forge.md`
+- `game/thread-rift-guide.md`
+- `game/thread-t7-rituals.md`
+- `game/thread-tips-and-tricks.md`
+- `game/thread-ultimate-divine-dragon.md`
 - `log.md`
 - `projects/actionbook.md`
 - `projects/agents-backup-full.md`

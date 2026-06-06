@@ -9,6 +9,11 @@ updated: "2026-06-03"
 tags: [push,arena,gear,apostle,organ,crit,orange]
 ---
 
+<!-- KB METADATA
+> Last edited: 2026-06-03 00:05 UTC (git)
+> Version: r1 / 3693642
+KB METADATA -->
+
 # Thread Organs
 
 ## Organ Acquisition Priority

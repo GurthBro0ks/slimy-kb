@@ -9,6 +9,11 @@ updated: "2026-06-03"
 tags: [relic,clam,farm,biome,skin]
 ---
 
+<!-- KB METADATA
+> Last edited: 2026-06-03 00:05 UTC (git)
+> Version: r1 / 3693642
+KB METADATA -->
+
 # Thread Kaleido Explanation And Tips
 
 ## Kaleido Valley Explained

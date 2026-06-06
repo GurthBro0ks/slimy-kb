@@ -9,6 +9,11 @@ updated: "2026-06-03"
 tags: []
 ---
 
+<!-- KB METADATA
+> Last edited: 2026-06-03 00:05 UTC (git)
+> Version: r1 / 3693642
+KB METADATA -->
+
 # Thread Calculating Elemental Damage
 
 ## Elemental Damage Formula

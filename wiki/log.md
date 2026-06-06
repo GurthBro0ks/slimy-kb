@@ -5,7 +5,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-06-06 06:14 UTC (git)
-> Version: r231 / 63bd993
+> Version: r232 / 7b80972
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -12402,5 +12402,15 @@ KB METADATA -->
 - summary: stage1.86 todo queue generation
 - commit: 63bd993
 - notes: stage1.86 run: todos=11 nuc1_items=157 nuc1_evidence=YES
+
+
+## [2026-06-06 18:14] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - (none)
+- summary: 12h maintenance run
+- commit: 4f8f2d6
+- notes: auto-maintenance from kb-maintenance.sh 2026-06-06T18:14:41Z
 
 

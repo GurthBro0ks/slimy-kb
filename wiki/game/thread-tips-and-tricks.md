@@ -9,6 +9,11 @@ updated: "2026-06-03"
 tags: [soul,glorium,minion,cabin,civ,rush,crit,orange]
 ---
 
+<!-- KB METADATA
+> Last edited: 2026-06-03 00:05 UTC (git)
+> Version: r1 / 3693642
+KB METADATA -->
+
 # Thread Tips And Tricks
 
 This article compiles various tips and tricks for Super Snail, covering aspects from talent tree optimization to partner leveling, devour strategies, and advanced research.

@@ -9,6 +9,11 @@ updated: "2026-06-03"
 tags: [relic,apostle,tech,orange]
 ---
 
+<!-- KB METADATA
+> Last edited: 2026-06-03 00:05 UTC (git)
+> Version: r1 / 3693642
+KB METADATA -->
+
 # Thread Leadership
 
 ## Leadership Breakdown

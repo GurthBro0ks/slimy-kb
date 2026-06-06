@@ -1,5 +1,5 @@
 {
-  "ts": "20260606T015857Z",
+  "ts": "20260606T135903Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -85,9 +85,9 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "66d7ced00219",
-      "commit_subject": "feat(harness): add public reports URL and version metadata",
-      "dirty": false,
+      "commit_hash": "4cea6cf3d353",
+      "commit_subject": "fix(harness): dedupe Discord completion notifications",
+      "dirty": true,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
@@ -96,7 +96,7 @@
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
-      "dirty_count": 0
+      "dirty_count": 6
     },
     {
       "name": "kb",
@@ -104,18 +104,18 @@
       "relative_path": "kb",
       "ok": true,
       "branch": "main",
-      "commit_hash": "345654d64c33",
-      "commit_subject": "kb: auto-compile game knowledge 2026-06-03-0005",
+      "commit_hash": "9f483f0a0dd8",
+      "commit_subject": "feat(kb): add Research Farm almanac renderer",
       "dirty": true,
       "remote": "github.com:GurthBro0ks/slimy-kb",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 27
+        "behind": 30
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
-      "dirty_count": 6
+      "dirty_count": 5
     },
     {
       "name": "ned-autonomous",
@@ -201,7 +201,7 @@
       "remote": "github.com:GurthBro0ks/slimy-monorepo",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 321,
+        "ahead": 333,
         "behind": 5
       },
       "kb_bridge_present": false,
