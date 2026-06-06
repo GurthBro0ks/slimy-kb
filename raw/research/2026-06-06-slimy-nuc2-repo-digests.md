@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-06-06T06:14:45Z
+# NUC2 Repo Digests — 2026-06-06T18:14:47Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-06-06T06:14:45Z
+**Timestamp:** 2026-06-06T18:14:47Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -19,8 +19,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 63bd993
-- **Subject:** kb: maintenance run 2026-06-06-0614 from slimy-nuc2
+- **Commit:** af48e01
+- **Subject:** kb: maintenance run 2026-06-06-1814 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -75,8 +75,8 @@
 - **Path:** `/home/slimy/slimy-monorepo`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 45594b8
-- **Subject:** feat(web): add safe gear rescan replace mode
+- **Commit:** 16c581a
+- **Subject:** feat(web): add manual gear resolve for loadout evidence
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/slimy-monorepo.git
 - **Name:** slimy-monorepo
