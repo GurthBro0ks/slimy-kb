@@ -1,0 +1,117 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://slimyai.local/schemas/research-topic.schema.json",
+  "title": "Research Topic",
+  "description": "Frontmatter contract for a queued or in-flight Research Farm seed stored in slimy-kb.",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "type",
+    "status",
+    "priority",
+    "depth",
+    "output",
+    "title",
+    "slug",
+    "created_by",
+    "created_at",
+    "audience",
+    "visibility",
+    "tags",
+    "seed_kind",
+    "question",
+    "scope_notes",
+    "constraints",
+    "related_projects",
+    "assigned_critter",
+    "campaign",
+    "claim_token",
+    "claimed_at"
+  ],
+  "properties": {
+    "type": {
+      "type": "string",
+      "const": "research_topic"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["queued", "running", "complete", "failed", "archived"]
+    },
+    "priority": {
+      "type": "string",
+      "enum": ["low", "normal", "high", "urgent"]
+    },
+    "depth": {
+      "type": "string",
+      "enum": ["quick", "standard", "deep"]
+    },
+    "output": {
+      "type": "string",
+      "enum": ["report_md", "presentation_pdf", "report_and_pdf"]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]{1,80}$"
+    },
+    "created_by": {
+      "type": "string",
+      "minLength": 1
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date"
+    },
+    "audience": {
+      "type": "string"
+    },
+    "visibility": {
+      "type": "string",
+      "enum": ["owner"]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]{1,40}$"
+      }
+    },
+    "seed_kind": {
+      "type": "string"
+    },
+    "question": {
+      "type": "string"
+    },
+    "scope_notes": {
+      "type": "string"
+    },
+    "constraints": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "related_projects": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "assigned_critter": {
+      "type": "string"
+    },
+    "campaign": {
+      "type": "string"
+    },
+    "claim_token": {
+      "type": "string"
+    },
+    "claimed_at": {
+      "type": "string"
+    }
+  }
+}

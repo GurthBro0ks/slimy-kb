@@ -1,0 +1,127 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://slimyai.local/schemas/index-entry.schema.json",
+  "title": "Research Index Entry",
+  "description": "One item in the Research Farm index. Describes a single research topic (seed), its current lifecycle status, and paths to the immutable proof burrow, report, and critic notes.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "slug",
+    "title",
+    "status",
+    "priority",
+    "depth",
+    "topic_path",
+    "tags"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]{1,80}$",
+      "description": "Stable, URL-safe identifier. Lowercase letters, digits, dashes. Must match the basename (without .md) of topic_path."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200,
+      "description": "Human-readable title shown in the Habitat quest board."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["queued", "running", "complete", "failed", "archived"],
+      "description": "Lifecycle status. queued = waiting on the quest board. running = active forage. complete = harvest written. failed = see proof burrow for failure notes. archived = kept for history, hidden from default Habitat view."
+    },
+    "priority": {
+      "type": "string",
+      "enum": ["low", "normal", "high", "urgent"],
+      "description": "Quest-board priority. Habitat sorts by this then by created_at."
+    },
+    "depth": {
+      "type": "string",
+      "enum": ["quick", "standard", "deep"],
+      "description": "How deep the research is expected to go. Quick = <30 min, standard = ~1 hr, deep = multi-hour with extensive source review."
+    },
+    "confidence": {
+      "type": ["number", "null"],
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Self-reported confidence in the harvest (0.0 - 1.0). null until completed."
+    },
+    "source_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Number of distinct sources captured in the proof burrow's sources.jsonl."
+    },
+    "citation_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Number of citations captured in the proof burrow's citations.json."
+    },
+    "created_at": {
+      "type": ["string", "null"],
+      "format": "date",
+      "description": "YYYY-MM-DD when the seed was filed. null if backfilled from elsewhere."
+    },
+    "started_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "ISO 8601 UTC when the forage started. null until status is running or later."
+    },
+    "completed_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "ISO 8601 UTC when the harvest was sealed. null until completed."
+    },
+    "model_used": {
+      "type": ["string", "null"],
+      "description": "Model identifier used to author the harvest (e.g., 'gpt-4.1', 'claude-opus-4-7'). null until completed."
+    },
+    "runner_version": {
+      "type": ["string", "null"],
+      "description": "Research runner version (e.g., 'slimy-research-runner@0.2.0'). null until a runner exists in a later phase."
+    },
+    "pdf_path": {
+      "type": ["string", "null"],
+      "description": "Path to the almanac PDF, relative to KB root. MUST be null in Phase 1. When set later, it MUST live under research/."
+    },
+    "report_path": {
+      "type": ["string", "null"],
+      "description": "Path to the harvest report.md, relative to KB root. null until completed. When set, MUST live under research/."
+    },
+    "critic_path": {
+      "type": ["string", "null"],
+      "description": "Path to critic.md, relative to KB root. null until completed. When set, MUST live under research/."
+    },
+    "proof_path": {
+      "type": ["string", "null"],
+      "description": "Path to the proof burrow directory, relative to KB root. null until claimed. When set, MUST live under research/runs/."
+    },
+    "topic_path": {
+      "type": "string",
+      "pattern": "^research/topics/[a-z0-9][a-z0-9-]{1,80}\\.md$",
+      "description": "Path to the seed frontmatter file, relative to KB root. Must exist on disk."
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{1,40}$" },
+      "minItems": 0,
+      "description": "Lowercase, dash-separated tags. Used by Habitat filters and by the future lore barn."
+    },
+    "related_harness_session": {
+      "type": ["string", "null"],
+      "description": "Identifier of a harness session that produced or inspired this seed. null for now."
+    },
+    "related_guild_campaign": {
+      "type": ["string", "null"],
+      "description": "Identifier of a future guild/MCP campaign this seed is part of. null until an explicit future bridge exists."
+    },
+    "assigned_critter": {
+      "type": ["string", "null"],
+      "description": "Critter, farmhand, or guild-pet handle currently responsible for the forage. null when queued."
+    },
+    "immutable_run_id": {
+      "type": ["string", "null"],
+      "description": "Stable run id (matches the runs/YYYY-MM-DD-slug/ directory name) once the seed has an actual proof burrow. null in Phase 1."
+    }
+  }
+}
