@@ -305,6 +305,18 @@ def _append_timeline(run_dir: str, action: str, description: str, status: str) -
         handle.write(json.dumps(entry, ensure_ascii=False, sort_keys=True) + "\n")
 
 
+def _has_existing_extraction_outputs(run_dir: str, fetched_sources: list[dict[str, Any]]) -> bool:
+    for rec in fetched_sources:
+        source_id = str(rec["source_id"])
+        source_dir = os.path.join(_fetched_dir(run_dir), source_id)
+        extracted_txt = os.path.join(source_dir, "extracted-text.txt")
+        extracted_json = os.path.join(source_dir, "extracted-text.json")
+        note_path = os.path.join(_notes_dir(run_dir), f"{source_id}.notes.md")
+        if not (os.path.isfile(extracted_txt) and os.path.isfile(extracted_json) and os.path.isfile(note_path)):
+            return False
+    return True
+
+
 def _format_headings_for_markdown(headings: list[dict[str, Any]]) -> str:
     if not headings:
         return "(No headings extracted)"
@@ -394,6 +406,9 @@ def cmd_extract(args: argparse.Namespace) -> int:
     fetched_sources = _real_fetched_sources(run_dir)
     if not fetched_sources:
         raise SystemExit("error: no fetched sources found to extract")
+    if run_json.get("status") == "notes_ready" and _has_existing_extraction_outputs(run_dir, fetched_sources):
+        print(f"already notes_ready; no changes written ({len(fetched_sources)} source(s))")
+        return 0
 
     planned: list[dict[str, Any]] = []
     for rec in fetched_sources:
