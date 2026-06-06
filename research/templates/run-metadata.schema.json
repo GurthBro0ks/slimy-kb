@@ -58,6 +58,7 @@
         "research_planned",
         "researching",
         "sources_fetched",
+        "notes_ready",
         "partial_fetch_failed",
         "running",
         "complete",
@@ -113,6 +114,15 @@
     "fetcher_version": {
       "type": ["string", "null"],
       "description": "Version of tools/research-fetch-sources.py that last updated the run. Phase 6B."
+    },
+    "notes_extracted_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "ISO 8601 UTC timestamp when deterministic source-note extraction last completed. Phase 6C."
+    },
+    "notes_extractor_version": {
+      "type": ["string", "null"],
+      "description": "Version of tools/research-extract-source-notes.py that last updated the run. Phase 6C."
     },
     "pdf_path": {
       "type": ["string", "null"]

@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://slimyai.local/schemas/source-note-record.schema.json",
+  "title": "Source Note Record",
+  "description": "Contract for the deterministic content that Phase 6C writes into a reviewer-facing note file.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "run_id",
+    "source_id",
+    "title",
+    "warning",
+    "text_preview",
+    "extracted_text_path",
+    "reviewer_checklist"
+  ],
+  "properties": {
+    "schema_version": { "type": "integer", "const": 1 },
+    "run_id": { "type": "string" },
+    "source_id": { "type": "string", "pattern": "^[A-Za-z0-9._-]{1,64}$" },
+    "url": { "type": ["string", "null"], "format": "uri" },
+    "final_url": { "type": ["string", "null"], "format": "uri" },
+    "http_status": { "type": ["integer", "null"], "minimum": 0, "maximum": 599 },
+    "sha256": { "type": ["string", "null"], "pattern": "^[0-9a-f]{64}$" },
+    "title": { "type": "string" },
+    "headings": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "text_preview": { "type": "string" },
+    "extracted_text_path": { "type": "string" },
+    "warning": { "type": "string" },
+    "smoke_source": { "type": "boolean", "default": false },
+    "reviewer_checklist": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "summary_reviewed",
+        "key_claims_reviewed",
+        "claim_extraction_approved",
+        "citation_eligibility_approved"
+      ],
+      "properties": {
+        "summary_reviewed": { "type": "boolean" },
+        "key_claims_reviewed": { "type": "boolean" },
+        "claim_extraction_approved": { "type": "boolean" },
+        "citation_eligibility_approved": { "type": "boolean" }
+      }
+    }
+  }
+}

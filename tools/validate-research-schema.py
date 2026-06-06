@@ -104,6 +104,22 @@ PHASE6B_SCHEMA_PATHS = [
     os.path.join(RESEARCH_ROOT, "templates", "run-metadata.schema.json"),
 ]
 
+PHASE6C_FILES = [
+    os.path.join(RESEARCH_ROOT, "policies", "source-notes-policy.md"),
+    os.path.join(RESEARCH_ROOT, "planning", "phase-6c-source-note-extraction.md"),
+    os.path.join(RESEARCH_ROOT, "templates", "extracted-text.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "source-note-record.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "source-note.template.md"),
+    os.path.join(REPO_ROOT, "tools", "research-extract-source-notes.py"),
+    os.path.join(REPO_ROOT, "tools", "research-extract-source-notes.sh"),
+]
+
+PHASE6C_SCHEMA_PATHS = [
+    os.path.join(RESEARCH_ROOT, "templates", "extracted-text.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "source-note-record.schema.json"),
+    os.path.join(RESEARCH_ROOT, "templates", "run-metadata.schema.json"),
+]
+
 
 def read_text(path: str) -> str:
     with open(path, "r", encoding="utf-8") as handle:
@@ -144,6 +160,10 @@ def validate() -> tuple[bool, list[str]]:
     for file_path in PHASE6B_FILES:
         if not os.path.isfile(file_path):
             errors.append(f"missing Phase 6B file: {file_path}")
+
+    for file_path in PHASE6C_FILES:
+        if not os.path.isfile(file_path):
+            errors.append(f"missing Phase 6C file: {file_path}")
 
     if errors:
         return False, errors
@@ -295,6 +315,29 @@ def validate() -> tuple[bool, list[str]]:
             except json.JSONDecodeError as exc:
                 errors.append(f"Phase 6B schema not valid JSON: {schema_path}: {exc}")
 
+    for phase6c_file in PHASE6C_FILES:
+        if os.path.isfile(phase6c_file):
+            content = read_text(phase6c_file)
+            for line_no, line in enumerate(content.split("\n"), 1):
+                if "/home/slimy/slimy-kb" in line:
+                    stripped = line.strip()
+                    if stripped.startswith("#") or stripped.startswith(">"):
+                        continue
+                    if "must not" in line.lower() or "forbidden" in line.lower() or "do not" in line.lower():
+                        continue
+                    rel = os.path.relpath(phase6c_file, REPO_ROOT)
+                    errors.append(f"Phase 6C file {rel}:{line_no} must not reference /home/slimy/slimy-kb")
+
+    for schema_path in PHASE6C_SCHEMA_PATHS:
+        if os.path.isfile(schema_path):
+            try:
+                schema = json.loads(read_text(schema_path))
+                if not isinstance(schema, dict):
+                    rel = os.path.relpath(schema_path, REPO_ROOT)
+                    errors.append(f"{rel} root must be a JSON object")
+            except json.JSONDecodeError as exc:
+                errors.append(f"Phase 6C schema not valid JSON: {schema_path}: {exc}")
+
     # Phase 6B tool self-checks.
     fetcher = os.path.join(REPO_ROOT, "tools", "research-fetch-sources.py")
     if os.path.isfile(fetcher):
@@ -303,6 +346,14 @@ def validate() -> tuple[bool, list[str]]:
             py_compile.compile(fetcher, doraise=True)
         except py_compile.PyCompileError as exc:
             errors.append(f"Phase 6B fetcher does not compile: {exc}")
+
+    extractor = os.path.join(REPO_ROOT, "tools", "research-extract-source-notes.py")
+    if os.path.isfile(extractor):
+        try:
+            import py_compile
+            py_compile.compile(extractor, doraise=True)
+        except py_compile.PyCompileError as exc:
+            errors.append(f"Phase 6C extractor does not compile: {exc}")
 
     # Validate run-metadata schema is also valid JSON.
     rm_schema = os.path.join(RESEARCH_ROOT, "templates", "run-metadata.schema.json")

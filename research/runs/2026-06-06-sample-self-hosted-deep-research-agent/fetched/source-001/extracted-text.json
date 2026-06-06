@@ -1,0 +1,25 @@
+{
+  "artifact_path": "fetched/source-001/extracted-text.json",
+  "content_type": "text/html",
+  "extracted_at": "2026-06-06T17:11:51Z",
+  "final_url": "https://example.com/",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Example Domain"
+    }
+  ],
+  "http_status": 200,
+  "notes_extractor_version": "0.1.0",
+  "run_id": "2026-06-06-sample-self-hosted-deep-research-agent",
+  "schema_version": 1,
+  "smoke_source": true,
+  "source_artifact_path": "fetched/source-001/response.html",
+  "source_id": "source-001",
+  "source_sha256": "fb91d75a6bb430787a61b0aec5e374f580030f2878e1613eab5ca6310f7bbb9a",
+  "source_url": "https://example.com/",
+  "text_char_count": 128,
+  "text_line_count": 3,
+  "text_preview": "Example Domain\nThis domain is for use in documentation examples without needing permission. Avoid use in operations.\nLearn more",
+  "title": "Example Domain"
+}

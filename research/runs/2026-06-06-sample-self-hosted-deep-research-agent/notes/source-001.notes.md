@@ -1,33 +1,54 @@
 # Source Notes: Example Domain
 
-> Phase 6B placeholder. Reviewer must fill in summary, key claims, and
-> extracted claims before any synthesis phase. This is not a citation.
+> This file was produced by deterministic extraction only. No model summary, citation, or final claim has been created.
 
 ## Source Metadata
 
 - **Source ID:** `source-001`
 - **URL:** `https://example.com/`
 - **Final URL:** `https://example.com/`
-- **Type:** `official_documentation`
-- **Trust Level:** medium (default; reviewer must re-assess)
-- **Fetched At:** `2026-06-06T16:32:15Z`
 - **HTTP Status:** `200`
-- **Content-Type:** `text/html`
-- **Bytes Saved:** `528`
-- **SHA-256:** `fb91d75a6bb430787a61b0aec5e374f580030f2878e1613eab5ca6310f7bbb9a`
-- **Artifact Path:** `fetched/source-001/response.html`
-- **Approved By:** `Gurth`
-- **Approved At:** `2026-06-06T16:31:33Z`
-- **Reason:** Phase 6B fetch smoke test
+- **SHA256:** `fb91d75a6bb430787a61b0aec5e374f580030f2878e1613eab5ca6310f7bbb9a`
+- **Extracted Text Path:** `fetched/source-001/extracted-text.txt`
+- **Extracted JSON Path:** `fetched/source-001/extracted-text.json`
+- **Extracted At:** `2026-06-06T17:11:51Z`
+- **Extractor Version:** `0.1.0`
+
+## Extracted Title
+
+Example Domain
+
+## Extracted Headings
+
+- H1: Example Domain
+
+## Extracted Text Preview
+
+```text
+Example Domain
+This domain is for use in documentation examples without needing permission. Avoid use in operations.
+Learn more
+```
+
+## Smoke/Test Source Note
+
+This source is the `https://example.com/` smoke/test source used to verify the deterministic extractor. Do not create final report findings from it unless a later reviewer explicitly approves that use.
+
+## Reviewer Checklist
+
+- [ ] summary reviewed
+- [ ] key claims reviewed
+- [ ] claim extraction approved
+- [ ] citation eligibility approved
 
 ## Summary
 
-(To be filled in by reviewer. Do not auto-generate.)
+(Human reviewer fills this in later. Deterministic extraction only in Phase 6C.)
 
 ## Key Claims
 
-(Reviewer must list claims here with section/page references.)
+(Human reviewer fills this in later. Keep `claims.jsonl` empty in Phase 6C.)
 
-## Extracted Claims
+## Claim Extraction Approval Notes
 
-(Reviewer must record claims that will be used in the final report.)
+(Human reviewer fills this in later.)

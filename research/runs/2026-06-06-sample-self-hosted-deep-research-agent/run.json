@@ -16,6 +16,8 @@
   "fetcher_version": "0.1.0",
   "immutable_run_id": "2026-06-06-sample-self-hosted-deep-research-agent",
   "model_used": null,
+  "notes_extracted_at": "2026-06-06T17:11:51Z",
+  "notes_extractor_version": "0.1.0",
   "pdf_generated_at": "2026-06-06T11:52:09.560516+00:00",
   "pdf_path": "runs/2026-06-06-sample-self-hosted-deep-research-agent/presentation.pdf",
   "pdf_renderer": "chrome-headless (chrome)",
@@ -30,7 +32,7 @@
   "source_count": 1,
   "source_topic_path": "research/topics/sample-self-hosted-deep-research-agent.md",
   "started_at": null,
-  "status": "sources_fetched",
+  "status": "notes_ready",
   "tags": [
     "ai-agents",
     "nuc",

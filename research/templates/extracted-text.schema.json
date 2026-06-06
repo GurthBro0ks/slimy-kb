@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://slimyai.local/schemas/extracted-text.schema.json",
+  "title": "Extracted Text Artifact",
+  "description": "Deterministic extraction record written by Phase 6C. Stored at research/runs/<run-id>/fetched/<source_id>/extracted-text.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "run_id",
+    "source_id",
+    "source_url",
+    "final_url",
+    "artifact_path",
+    "source_artifact_path",
+    "extracted_at",
+    "notes_extractor_version",
+    "title",
+    "headings",
+    "text_preview",
+    "text_char_count",
+    "text_line_count"
+  ],
+  "properties": {
+    "schema_version": { "type": "integer", "const": 1 },
+    "run_id": { "type": "string" },
+    "source_id": { "type": "string", "pattern": "^[A-Za-z0-9._-]{1,64}$" },
+    "source_url": { "type": ["string", "null"], "format": "uri" },
+    "final_url": { "type": ["string", "null"], "format": "uri" },
+    "http_status": { "type": ["integer", "null"], "minimum": 0, "maximum": 599 },
+    "content_type": { "type": ["string", "null"] },
+    "source_sha256": { "type": ["string", "null"], "pattern": "^[0-9a-f]{64}$" },
+    "source_artifact_path": { "type": "string" },
+    "artifact_path": { "type": "string" },
+    "extracted_at": { "type": "string", "format": "date-time" },
+    "notes_extractor_version": { "type": "string" },
+    "title": { "type": "string" },
+    "headings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["level", "text"],
+        "properties": {
+          "level": { "type": "integer", "minimum": 1, "maximum": 6 },
+          "text": { "type": "string" }
+        }
+      }
+    },
+    "text_preview": { "type": "string" },
+    "text_char_count": { "type": "integer", "minimum": 0 },
+    "text_line_count": { "type": "integer", "minimum": 0 },
+    "smoke_source": { "type": "boolean", "default": false }
+  }
+}
