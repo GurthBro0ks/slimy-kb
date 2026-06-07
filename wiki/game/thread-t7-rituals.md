@@ -11,7 +11,7 @@ tags: []
 
 <!-- KB METADATA
 > Last edited: 2026-06-07 06:14 UTC (git)
-> Version: r4 / 16260ab
+> Version: r5 / 909609cc
 KB METADATA -->
 
 # Thread T7 Rituals

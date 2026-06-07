@@ -1,5 +1,5 @@
 {
-  "ts": "20260607T015957Z",
+  "ts": "20260607T140057Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -85,14 +85,14 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "b9aca4149b44",
-      "commit_subject": "feat: add harness notification status cli",
+      "commit_hash": "5e166e343074",
+      "commit_subject": "docs: require harness notification closeout gate",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 1
+        "behind": 0
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -201,7 +201,7 @@
       "remote": "github.com:GurthBro0ks/slimy-monorepo",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 333,
+        "ahead": 339,
         "behind": 5
       },
       "kb_bridge_present": false,
