@@ -3,8 +3,8 @@
 > Last compiled: 2026-05-20 (child-compile 20260520-110412 — 20 compile candidates reviewed: seed files (5) bootstrap artifacts already integrated into existing wiki structure (clawd-agent-rules, workspace-agent-rules, nuc topology pages); operational fixes (7) already in troubleshooting pages (nginx-certbot-acme-fix, nuc1/nuc2-repo-remote-ssh-normalization, nuc1-wrapper-recursion-fix, kb-autofinish-autocompile-fix); NUC1/NUC2 duplicates (3) already compiled; parity check docs (2) already handled; certbot-acme-fix duplicate already in nginx-certbot-acme-fix; seed-progress-history.md deferred — no new content; status: reviewed)
 
 <!-- KB METADATA
-> Last edited: 2026-06-06 18:14 UTC (git)
-> Version: r220 / b9dcf9e
+> Last edited: 2026-06-07 06:14 UTC (git)
+> Version: r221 / 16260ab
 KB METADATA -->
 
 ---
