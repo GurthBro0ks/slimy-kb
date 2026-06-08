@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-06-08T06:14:51Z
+# NUC2 Repo Digests — 2026-06-08T18:14:51Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-06-08T06:14:51Z
+**Timestamp:** 2026-06-08T18:14:51Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -19,8 +19,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** c6a30036
-- **Subject:** kb: maintenance run 2026-06-08-0614 from slimy-nuc2
+- **Commit:** ced8feac
+- **Subject:** kb: maintenance run 2026-06-08-1814 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -75,8 +75,8 @@
 - **Path:** `/home/slimy/slimy-monorepo`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 16c581a
-- **Subject:** feat(web): add manual gear resolve for loadout evidence
+- **Commit:** 66930e4
+- **Subject:** feat(web): collapse loadout history and accept equipped_loadout apply
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/slimy-monorepo.git
 - **Name:** slimy-monorepo
