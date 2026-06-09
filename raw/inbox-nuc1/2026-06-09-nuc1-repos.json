@@ -1,5 +1,5 @@
 {
-  "ts": "20260609T020357Z",
+  "ts": "20260609T140457Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -85,18 +85,18 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "acb84c86630e",
-      "commit_subject": "docs: plan harness ops snapshot producer",
-      "dirty": false,
+      "commit_hash": "ef0d9c2213b9",
+      "commit_subject": "feat(sequencer): inner retry loop \u2014 goal-runner + qa-gate + fix-packet [dry-run only]",
+      "dirty": true,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 0
+        "behind": 1
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
-      "dirty_count": 0
+      "dirty_count": 3
     },
     {
       "name": "kb",
@@ -201,7 +201,7 @@
       "remote": "github.com:GurthBro0ks/slimy-monorepo",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 341,
+        "ahead": 346,
         "behind": 5
       },
       "kb_bridge_present": false,

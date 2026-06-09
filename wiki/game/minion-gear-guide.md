@@ -11,7 +11,7 @@ tags: [minions, gear, rocket-cabin, species-war, minion-sim, zombie, angel, demo
 
 <!-- KB METADATA
 > Last edited: 2026-06-09 06:14 UTC (git)
-> Version: r34 / 42a856d3
+> Version: r35 / a409b3e8
 KB METADATA -->
 
 # Minion Gear and Army Composition Guide
