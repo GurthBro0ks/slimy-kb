@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-06-09T06:14:52Z
+# NUC2 Repo Digests — 2026-06-09T18:14:55Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-06-09T06:14:52Z
+**Timestamp:** 2026-06-09T18:14:55Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -19,8 +19,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 42a856d3
-- **Subject:** kb: maintenance run 2026-06-09-0614 from slimy-nuc2
+- **Commit:** 2984b17e
+- **Subject:** kb: maintenance run 2026-06-09-1814 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -75,8 +75,8 @@
 - **Path:** `/home/slimy/slimy-monorepo`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 8c55a69
-- **Subject:** feat(web): add in-game icon match suggestions to loadout resolve board
+- **Commit:** 5a384b7
+- **Subject:** feat(gear): learned in-game loadout matcher (Phase F.4)
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/slimy-monorepo.git
 - **Name:** slimy-monorepo
