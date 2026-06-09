@@ -10,8 +10,8 @@ tags: [farm,push,gear,soul,minion,rift,persia,f2p]
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-06-08 18:14 UTC (git)
-> Version: r11 / ed607419
+> Last edited: 2026-06-09 06:14 UTC (git)
+> Version: r12 / 42a856d3
 KB METADATA -->
 
 # Thread Gear Leveling Guide
