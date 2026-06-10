@@ -1,5 +1,5 @@
 {
-  "ts": "20260610T020557Z",
+  "ts": "20260610T140657Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -85,14 +85,14 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "052489ccc694",
-      "commit_subject": "feat(sequencer): wire goal-runner into auto-sequence behind opt-in gate",
+      "commit_hash": "8c8028ba1e47",
+      "commit_subject": "fix(sequencer): isolate notify-blockers during smoke-root runs",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 1
+        "behind": 3
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -201,7 +201,7 @@
       "remote": "github.com:GurthBro0ks/slimy-monorepo",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 346,
+        "ahead": 349,
         "behind": 5
       },
       "kb_bridge_present": false,
