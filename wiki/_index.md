@@ -1,6 +1,6 @@
 # SlimyAI Knowledge Base - Master Index
 > Auto-maintained by LLM agents. Do not edit manually.
-> Last compiled: 2026-06-10 (child-compile 20260610-223755 — 14 unique candidates reviewed (20 input entries, deduplicated): 11 already compiled in prior sessions into workspace-agent-rules, agent-session-contract, nuc2-server-state, nginx-certbot-acme-fix, nuc2/nuc1-repo-remote-ssh-normalization, nuc1-wrapper-recursion-fix, kb-autofinish-autocompile-fix; 3 deferred: seed-clawd-agents.md (file DNE), seed-progress-history.md (no new content), seed-workspace-agents.md/2026-04-05 test artifacts (validation artifacts absorbed by existing articles); no new wiki articles created; no concept changes; status: reviewed)
+> Last compiled: 2026-06-10 (child-compile 20260610-225406 — 14 unique candidates reviewed (20 input entries, deduplicated): all 14 already compiled or deferred: seed-workspace-agents.md → workspace-agent-rules, seed-agents-rules.md → agent-session-contract + nuc1-wrapper-recursion-fix, seed-server-state.md → nuc2-server-state, certbot-acme-fix → nginx-certbot-acme-fix, nuc2/nuc1-repo-remote-ssh-normalization → respective troubleshooting articles, nuc1-wrapper-recursion-fix + autofinish/no-pager fixes → kb-autofinish-autocompile-fix; deferred: seed-clawd-agents.md (file DNE), seed-progress-history.md (historical log, no new content), 2 validation artifacts absorbed by existing articles; no new wiki articles created; no concept changes; status: reviewed)
 
 <!-- KB METADATA
 > Last edited: 2026-06-10 18:14 UTC (git)

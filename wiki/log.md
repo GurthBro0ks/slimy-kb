@@ -14295,3 +14295,13 @@ KB METADATA -->
 - notes: 14 unique candidates from priority raw inputs reviewed. 11 already compiled in prior sessions (workspace-agent-rules, agent-session-contract, nuc2-server-state, nginx-certbot-acme-fix, nuc2/nuc1-repo-remote-ssh-normalization, nuc1-wrapper-recursion-fix, kb-autofinish-autocompile-fix). Deferred: seed-clawd-agents.md (file DNE on disk), seed-progress-history.md (no new content), nuc1-wrapper-test-claude.md + slimy-nuc2-autofinish-parity-check.md (validation artifacts absorbed by existing articles). No new wiki articles created. No concept changes. _index.md updated.
 
 
+## [2026-06-10 22:56] compile | child-compile 20260610-225406
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: child-compile 20260610-225406
+- commit: af302942
+- notes: 14 unique candidates (20 input entries): all already compiled or deferred. seed-clawd-agents.md DNE; seed-progress-history.md historical log; 2 validation artifacts deferred. No new wiki articles. No concept changes.
+
+
