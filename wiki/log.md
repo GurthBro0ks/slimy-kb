@@ -14305,3 +14305,23 @@ KB METADATA -->
 - notes: 14 unique candidates (20 input entries): all already compiled or deferred. seed-clawd-agents.md DNE; seed-progress-history.md historical log; 2 validation artifacts deferred. No new wiki articles. No concept changes.
 
 
+## [2026-06-10 23:18] --actor | claude-agent
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: claude-agent
+- commit: bd553ce8
+- notes: --host
+
+
+## [2026-06-10 23:18] compile | child-compile 20260610-231253
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: child-compile 20260610-231253
+- commit: bd553ce8
+- notes: Created 5 missing wiki articles: clawd.md, ned-clawd.md, openclaw-agents.md, clawd-agent-rules.md, clawd-workspace-governance.md. Fixed git conflict in _orphans.md. Sources: seed-workspace-agents.md, 2026-04-09-slimy-nuc1-claude-summary.md, project-workspace-executor.md, project-workspace-researcher.md. All 20 priority raw inputs fully handled.
+
+
