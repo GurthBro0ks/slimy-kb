@@ -1,6 +1,6 @@
 # SlimyAI Knowledge Base - Master Index
 > Auto-maintained by LLM agents. Do not edit manually.
-> Last compiled: 2026-06-10 (child-compile 20260610-231253 — created 5 missing wiki articles to resolve dead links in index: projects/clawd.md, projects/ned-clawd.md, projects/openclaw-agents.md, projects/clawd-agent-rules.md, projects/clawd-workspace-governance.md; fixed git conflict in _orphans.md; deferred: seed-clawd-agents.md (file DNE), seed-progress-history.md (historical log, no new content); all 20 priority inputs fully handled)
+> Last compiled: 2026-06-11 (child-compile 20260611-230008 — restored raw/decisions/seed-clawd-agents.md from git (deleted by auto-sync 13906bbe on 2026-05-23, violating never-delete-raw rule); recompiled its unique content (proof gate, prediction log, active context holds, group chat conduct, heartbeat proactivity) into projects/clawd-agent-rules.md with restored source attribution; verified all other priority inputs already sourced into existing articles (seed-workspace-agents → workspace-agent-rules; seed-agents-rules/seed-server-state/seed-progress-history → architecture+concepts+patterns articles; all 2026-04-05/04-22 research+learnings → troubleshooting articles); deferred: seed-progress-history.md (historical log, already sourced, no new content); all priority inputs fully handled)
 
 <!-- KB METADATA
 > Last edited: 2026-06-11 18:15 UTC (git)
@@ -125,7 +125,7 @@ These are the primary production services and active development projects:
 | [Workspace Researcher](projects/workspace-researcher.md) | Research subagent in the OpenCLAW agent hierarchy. Registered with gateway, local-only. |
 | [Actionbook](projects/actionbook.md) | Browser Action Engine for AI Agents via MCP protocol. 12-package pnpm monorepo providing DOM selectors so agents can operate websites. |
 | [Kalshi AI Trading Bot](projects/kalshi-ai-trading-bot.md) | Five-LLM ensemble trading bot for Kalshi prediction markets. Consensus-based entry with risk guardrails. Experimental, NUC1. |
-| [Clawd Agent Rules](projects/clawd-agent-rules.md) | Workspace agent operating rules: session startup, memory tiers, safety, heartbeats, meta-learning loops. |
+| [Clawd Agent Rules](projects/clawd-agent-rules.md) | Workspace agent operating rules: session startup, memory tiers, safety, heartbeats, meta-learning loops, proof gate, prediction log, group chat conduct. |
 | [Clawd Workspace Governance](projects/clawd-workspace-governance.md) | Memory and session governance model for Clawd workspace operations. |
 | [Workspace Agent Rules](projects/workspace-agent-rules.md) | OpenCLAW workspace agent rules: session startup, SLB-required actions, heartbeat vs cron, meta-learning loops. |
 

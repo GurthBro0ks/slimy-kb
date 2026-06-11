@@ -21,6 +21,9 @@ KB METADATA -->
 - Knowledge base build pipeline
 - Mailbox pull-ingest transport
 - Memory tier system
+- Proof gate requirement
+- Prediction log
+- Active context holds
 - Supervisor ownership mapping
 - Memory capture and curation
 - Regression-proof verification
