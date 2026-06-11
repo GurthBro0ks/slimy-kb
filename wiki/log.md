@@ -4,8 +4,8 @@
 > Host: slimy-nuc2
 
 <!-- KB METADATA
-> Last edited: 2026-06-10 18:14 UTC (git)
-> Version: r249 / fb82dac8
+> Last edited: 2026-06-10 23:18 UTC (git)
+> Version: r253 / 4d3cedb8
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -14323,5 +14323,19 @@ KB METADATA -->
 - summary: child-compile 20260610-231253
 - commit: bd553ce8
 - notes: Created 5 missing wiki articles: clawd.md, ned-clawd.md, openclaw-agents.md, clawd-agent-rules.md, clawd-workspace-governance.md. Fixed git conflict in _orphans.md. Sources: seed-workspace-agents.md, 2026-04-09-slimy-nuc1-claude-summary.md, project-workspace-executor.md, project-workspace-researcher.md. All 20 priority raw inputs fully handled.
+
+
+## [2026-06-11 06:15] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/projects/clawd-agent-rules.md
+  - wiki/projects/clawd-workspace-governance.md
+  - wiki/projects/clawd.md
+  - wiki/projects/ned-clawd.md
+  - wiki/projects/openclaw-agents.md  - (none)
+- summary: 12h maintenance run
+- commit: 4d3cedb8
+- notes: auto-maintenance from kb-maintenance.sh 2026-06-11T06:14:57Z
 
 

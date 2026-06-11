@@ -3,8 +3,8 @@
 > Last compiled: 2026-06-10 (child-compile 20260610-231253 — created 5 missing wiki articles to resolve dead links in index: projects/clawd.md, projects/ned-clawd.md, projects/openclaw-agents.md, projects/clawd-agent-rules.md, projects/clawd-workspace-governance.md; fixed git conflict in _orphans.md; deferred: seed-clawd-agents.md (file DNE), seed-progress-history.md (historical log, no new content); all 20 priority inputs fully handled)
 
 <!-- KB METADATA
-> Last edited: 2026-06-10 18:14 UTC (git)
-> Version: r235 / fb82dac8
+> Last edited: 2026-06-10 23:18 UTC (git)
+> Version: r239 / 4d3cedb8
 KB METADATA -->
 
 ---

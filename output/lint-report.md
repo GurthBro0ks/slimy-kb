@@ -1,12 +1,7 @@
 # KB Lint Report
 
-<<<<<<< Updated upstream
-- **Generated:** 2026-06-10T18:14:53Z
+- **Generated:** 2026-06-11T06:14:58Z
 - **Host:** slimy-nuc2
-=======
-- **Generated:** 2026-06-06T17:57:35Z
-- **Host:** slimy-nuc1
->>>>>>> Stashed changes
 - **KB Root:** `/home/slimy/kb`
 - **Vault:** `/home/slimy/obsidian/slimyai-vault`
 

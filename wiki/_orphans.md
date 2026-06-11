@@ -1,14 +1,14 @@
 # Orphaned Pages
 
 > Pages with zero inbound links from other non-index wiki pages.
-> Generated: 2026-06-10T18:14:53Z by kb-lint.sh
+> Generated: 2026-06-11T06:14:58Z by kb-lint.sh
 
 <!-- KB METADATA
-> Last edited: 2026-06-10 18:14 UTC (git)
-> Version: r199 / fb82dac8
+> Last edited: 2026-06-10 23:18 UTC (git)
+> Version: r202 / 4d3cedb8
 KB METADATA -->
 
-**Total orphans: 44**
+**Total orphans: 43**
 
 ## Likely Parent Pages
 
@@ -46,7 +46,6 @@ KB METADATA -->
 - `game/thread-tips-and-tricks.md`
 - `game/thread-ultimate-divine-dragon.md`
 - `log.md`
-- `projects/actionbook.md`
 - `projects/agents-backup-full.md`
 - `projects/kb-bridge-gear-donation.md`
 - `projects/mailbox-outbox.md`
@@ -92,7 +91,6 @@ KB METADATA -->
 - `game/thread-tips-and-tricks.md`
 - `game/thread-ultimate-divine-dragon.md`
 - `log.md`
-- `projects/actionbook.md`
 - `projects/agents-backup-full.md`
 - `projects/kb-bridge-gear-donation.md`
 - `projects/mailbox-outbox.md`
