@@ -5,8 +5,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-06-11 06:15 UTC (git)
-> Version: r192 / 5a260349
+> Last edited: 2026-06-11 18:15 UTC (git)
+> Version: r193 / 44b3d82e
 KB METADATA -->
 
 NUC communication module — message outbox for inter-NUC communication via SSH/git-based sync. NUC1 push side of the mailbox transport.
@@ -30,13 +30,13 @@ NUC1 (mailbox_outbox) --git push over SSH--> NUC2 (mailbox.git)
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-06-11T06:15:04Z
+**Last updated:** 2026-06-11T18:15:04Z
 **NUC1 status:** DIRTY, synced
 **NUC1 commit:** `668ae78` — docs: auto-sync project docs from slimy-nuc1 2026-04-11
 **Branch:** main
 
 ### Open Issues
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mailbox_outbox (repo_drift, 93x, fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mailbox_outbox (repo_drift, 94x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`

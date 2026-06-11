@@ -1,19 +1,19 @@
 # NUC2 Current State
 
 > Category: architecture
-> Updated: 2026-06-11T06:15:04Z
+> Updated: 2026-06-11T18:15:04Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-06-11 06:15 UTC (git)
-> Version: r202 / 5a260349
+> Last edited: 2026-06-11 18:15 UTC (git)
+> Version: r203 / 44b3d82e
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc2
-- **Last updated:** 2026-06-11T06:15:04Z
+- **Last updated:** 2026-06-11T18:15:04Z
 
 ## Active Services
 - - pm2: not available
@@ -31,7 +31,7 @@ KB METADATA -->
 - **Weak-linked pages:** 8
 
 ## Open Issues (from todo queue)
-- **[MEDIUM/not_candidate]** Resolve 86 orphaned wiki pages — wiki_gap (fresh)
+- **[HIGH/emerging]** Resolve 86 orphaned wiki pages — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: game/30-stone-corrections.md — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: game/biozilla-relics.md — wiki_gap (fresh)
 - **[HIGH/candidate]** Review orphaned page: game/compass-guide.md — wiki_gap (fresh)

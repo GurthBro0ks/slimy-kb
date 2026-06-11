@@ -1,12 +1,12 @@
 # Repo Health Overview
 
 > Category: projects
-> Updated: 2026-06-11T06:15:04Z
+> Updated: 2026-06-11T18:15:04Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-06-11 06:15 UTC (git)
-> Version: r203 / 5a260349
+> Last edited: 2026-06-11 18:15 UTC (git)
+> Version: r204 / 44b3d82e
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -20,7 +20,7 @@ KB METADATA -->
 | PrivateStorage | — | — |
 | DynaTech | — | — |
 | mission-control | — | — |
-| slimy-harness | — | — |
+| slimy-harness | ⚠️ YES | — |
 | kb | ⚠️ YES | — |
 | ned-autonomous | — | — |
 | stoat-source | — | — |
@@ -34,7 +34,7 @@ KB METADATA -->
 - _NUC2 repo state parsed from local git status_
 
 ## Action Required
-- **Dirty on NUC1:** kb, mailbox_outbox — commit or stash
+- **Dirty on NUC1:** slimy-harness, kb, mailbox_outbox — commit or stash
 - **Diverged on NUC1:** Slimefun4, slimy-monorepo — merge or rebase
 
 <!-- END MACHINE MANAGED -->

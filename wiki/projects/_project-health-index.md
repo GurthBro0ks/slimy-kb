@@ -1,12 +1,12 @@
 # Project Health Index
 
 > Category: projects
-> Updated: 2026-06-11T06:15:04Z
+> Updated: 2026-06-11T18:15:04Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-06-11 06:15 UTC (git)
-> Version: r197 / 5a260349
+> Last edited: 2026-06-11 18:15 UTC (git)
+> Version: r198 / 44b3d82e
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -16,9 +16,9 @@ KB METADATA -->
 - NUC1 repos tracked: 13
 - With project page: 7
 - Without project page: 6
-- Dirty (uncommitted): 2
+- Dirty (uncommitted): 3
 - Diverged (ahead + behind): 2
-- Clean: 9
+- Clean: 8
 
 ## Pages Updated This Run
 
@@ -42,7 +42,7 @@ KB METADATA -->
 - **Slimefun4** — DIVERGED
 - **memories** — clean
 - **plugins** — clean
-- **slimy-harness** — clean
+- **slimy-harness** — DIRTY
 
 ## NUC1 Repo Health Table
 
@@ -58,7 +58,7 @@ KB METADATA -->
 | ned-autonomous | — | — |
 | plugins | — | — |
 | slimy-chat | — | — |
-| slimy-harness | — | — |
+| slimy-harness | ⚠️ DIRTY | — |
 | slimy-monorepo | — | ⚠️ DIVERGED |
 | stoat-source | — | — |
 
