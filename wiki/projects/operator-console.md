@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-06-11 06:15 UTC (git)
-> Version: r188 / 816b8d66
+> Version: r189 / 5a260349
 KB METADATA -->
 
 Operator Console is the NUC2 KB operations decision tree. Run steps in order — each step is blocking until resolved.

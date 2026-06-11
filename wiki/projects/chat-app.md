@@ -6,7 +6,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-06-11 06:15 UTC (git)
-> Version: r188 / 816b8d66
+> Version: r189 / 5a260349
 KB METADATA -->
 
 Self-hosted invite-only chat platform at chat.slimyai.xyz. Based on Stoat (Revolt fork). Not integrated with slimy-web auth — separate user management.

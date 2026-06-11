@@ -2,20 +2,31 @@
   "schema_version": "1.0",
   "date": "2026-06-11",
   "hostname": "slimy-nuc1",
-  "run_id": "20260611T020758Z-52cce068",
+  "run_id": "20260611T140828Z-ca3d2890",
   "prev_digest_date": null,
-  "total_submissions": 0,
-  "specimen_refs": [],
+  "total_submissions": 1,
+  "specimen_refs": [
+    "gear_20260611T131555Z_9fa4a823"
+  ],
   "scan_status_breakdown": {
-    "completed": 0,
+    "completed": 1,
     "failed": 0,
     "completed_with_warnings": 0,
     "queued": 0
   },
   "detected_gear_items": [],
   "detected_soul_items": [],
-  "provider_summary": {},
+  "provider_summary": {
+    "gemini": 1
+  },
   "error_summary": [],
-  "scans_processed": [],
-  "generated_at": "2026-06-11T02:07:58.092756+00:00"
+  "scans_processed": [
+    {
+      "filename": "gear_20260611T131627Z_1b4b4a.scan.json",
+      "specimen_ids": [
+        "gear_20260611T131555Z_9fa4a823"
+      ]
+    }
+  ],
+  "generated_at": "2026-06-11T14:08:28.055619+00:00"
 }

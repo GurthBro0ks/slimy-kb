@@ -1,5 +1,5 @@
 {
-  "ts": "20260611T020757Z",
+  "ts": "20260611T140827Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -85,18 +85,18 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "747a859f97e0",
+      "commit_hash": "3a5aca20ca0f",
       "commit_subject": "config: add policy-only local model routing rules",
-      "dirty": false,
+      "dirty": true,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 1
+        "behind": 0
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
-      "dirty_count": 0
+      "dirty_count": 1
     },
     {
       "name": "kb",
@@ -201,7 +201,7 @@
       "remote": "github.com:GurthBro0ks/slimy-monorepo",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 349,
+        "ahead": 350,
         "behind": 5
       },
       "kb_bridge_present": false,
