@@ -14787,3 +14787,13 @@ KB METADATA -->
 - notes: Re-run of 20260611-230008 priority batch. raw/ unchanged since 282a6e57; all 14 unique priority inputs verified still sourced into wiki articles (grep sweep of Sources). Spot-checked troubleshooting/nginx-certbot-acme-fix.md for content fidelity (symptom/cause/fix/prevention present). No article content changes. Deferred: seed-progress-history.md (historical log, already sourced, no new content); 359 non-priority compile candidates (auto-generated digests/state snapshots/session summaries/changelogs serving as provenance for wiki-manager state pages). Updated _index.md Last-compiled line only. _concepts.md unchanged (no new concepts).
 
 
+## [2026-06-12 20:25] compile | child-compile 20260612-202419
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: child-compile 20260612-202419
+- commit: 1b561d5a
+- notes: Third run of the 20260611-230008 priority batch. raw/ unchanged since 1b561d5a; all 14 unique priority inputs verified still sourced into wiki articles (grep sweep of wiki Sources, excluding log/orphans/weak-links). No article content changes. Deferred: seed-progress-history.md (historical log, already sourced, no new content); non-priority compile candidates (auto-generated digests/state snapshots/session summaries/changelogs serving as provenance for wiki-manager state pages). Updated _index.md Last-compiled line only. _concepts.md unchanged (no new concepts).
+
+
