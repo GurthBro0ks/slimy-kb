@@ -14777,3 +14777,13 @@ KB METADATA -->
 - notes: Restored raw/decisions/seed-clawd-agents.md from git (deleted by auto-sync 13906bbe 2026-05-23); recompiled unique content (proof gate, prediction log, active context holds, group chat conduct, heartbeat proactivity) into wiki/projects/clawd-agent-rules.md; verified all other priority inputs already sourced; deferred seed-progress-history.md (historical log, no new content); updated _index.md and _concepts.md
 
 
+## [2026-06-12 19:55] compile | child-compile 20260612-195352
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/projects/clawd-agent-rules.md  - raw/decisions/seed-clawd-agents.md
+- summary: child-compile 20260612-195352
+- commit: 282a6e57
+- notes: Re-run of 20260611-230008 priority batch. raw/ unchanged since 282a6e57; all 14 unique priority inputs verified still sourced into wiki articles (grep sweep of Sources). Spot-checked troubleshooting/nginx-certbot-acme-fix.md for content fidelity (symptom/cause/fix/prevention present). No article content changes. Deferred: seed-progress-history.md (historical log, already sourced, no new content); 359 non-priority compile candidates (auto-generated digests/state snapshots/session summaries/changelogs serving as provenance for wiki-manager state pages). Updated _index.md Last-compiled line only. _concepts.md unchanged (no new concepts).
+
+

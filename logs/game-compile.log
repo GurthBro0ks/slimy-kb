@@ -357,3 +357,17 @@
 [2026-06-11T12:00:03+00:00] [game-kb-compile] No git changes to commit.
 [2026-06-11T12:00:03+00:00] [game-kb-compile] Finished.
 [2026-06-11T12:00:03+00:00] [game-kb-compile] Finished.
+[2026-06-12T00:00:02+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-06-12T00:00:02+00:00] [game-kb-compile] Starting game KB compile on slimy-nuc1
+[2026-06-12T00:00:03+00:00] [game-kb-compile] Found 3 uncompiled file(s)
+[2026-06-12T00:00:03+00:00] [game-kb-compile] Found 3 uncompiled file(s)
+[2026-06-12T00:00:03+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests-20260429T170105.md
+[2026-06-12T00:00:03+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests-20260429T170105.md
+[2026-06-12T00:00:03+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests.md
+[2026-06-12T00:00:03+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-04-29/slimyinvertabrates-4-29-final-command-tests.md
+[2026-06-12T00:00:03+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-05-20/slimyinvertabrates-5-20-command-tests.md
+[2026-06-12T00:00:03+00:00] [game-kb-compile] SKIP (command-tests): raw/discord-exports/2026-05-20/slimyinvertabrates-5-20-command-tests.md
+[2026-06-12T00:00:03+00:00] [game-kb-compile] No git changes to commit.
+[2026-06-12T00:00:03+00:00] [game-kb-compile] No git changes to commit.
+[2026-06-12T00:00:03+00:00] [game-kb-compile] Finished.
+[2026-06-12T00:00:03+00:00] [game-kb-compile] Finished.
