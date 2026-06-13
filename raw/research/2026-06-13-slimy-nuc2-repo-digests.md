@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-06-13T06:15:07Z
+# NUC2 Repo Digests — 2026-06-13T18:15:09Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-06-13T06:15:07Z
+**Timestamp:** 2026-06-13T18:15:09Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -19,8 +19,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** 
-- **Commit:** 42d3b42d
-- **Subject:** kb: maintenance run 2026-06-13-0615 from slimy-nuc2
+- **Commit:** 07cd0370
+- **Subject:** kb: maintenance run 2026-06-13-1815 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -75,8 +75,8 @@
 - **Path:** `/home/slimy/slimy-monorepo`
 - **Git:** True
 - **Branch:** main
-- **Commit:** d7a9676
-- **Subject:** H.1.3C close out live loadout selector fix
+- **Commit:** f0ef315
+- **Subject:** H.1.4 close out one clean manual observation
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/slimy-monorepo.git
 - **Name:** slimy-monorepo
