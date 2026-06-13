@@ -4,8 +4,8 @@
 > Host: slimy-nuc2
 
 <!-- KB METADATA
-> Last edited: 2026-06-11 18:15 UTC (git)
-> Version: r256 / 44b3d82e
+> Last edited: 2026-06-12 20:25 UTC (git)
+> Version: r260 / 0283ef32
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -14669,9 +14669,15 @@ KB METADATA -->
 - notes: stage1.86 run: todos=12 nuc1_items=182 nuc1_evidence=YES
 
 
+<<<<<<< HEAD
 ## [2026-06-11 23:03] compile | child-compile 20260611-230008
 - actor: kb-maintenance
 - host: slimy-nuc1
+=======
+## [2026-06-12 06:15] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+>>>>>>> 75f90957 (kb: maintenance run 2026-06-12-0615 from slimy-nuc2)
 - affected_paths:
   - wiki/_candidate-promotion-rules.md
   - wiki/_manager-status.md
@@ -14772,6 +14778,7 @@ KB METADATA -->
   - wiki/wiki-manager-operator-runbook.md  - raw/research/2026-06-11-slimy-nuc2-kb-health.md
   - raw/research/2026-06-11-slimy-nuc2-repo-digests.md
   - raw/research/2026-06-11-slimy-nuc2-state.md
+<<<<<<< HEAD
 - summary: child-compile 20260611-230008
 - commit: 2f16832e
 - notes: Restored raw/decisions/seed-clawd-agents.md from git (deleted by auto-sync 13906bbe 2026-05-23); recompiled unique content (proof gate, prediction log, active context holds, group chat conduct, heartbeat proactivity) into wiki/projects/clawd-agent-rules.md; verified all other priority inputs already sourced; deferred seed-progress-history.md (historical log, no new content); updated _index.md and _concepts.md
@@ -14795,5 +14802,20 @@ KB METADATA -->
 - summary: child-compile 20260612-202419
 - commit: 1b561d5a
 - notes: Third run of the 20260611-230008 priority batch. raw/ unchanged since 1b561d5a; all 14 unique priority inputs verified still sourced into wiki articles (grep sweep of wiki Sources, excluding log/orphans/weak-links). No article content changes. Deferred: seed-progress-history.md (historical log, already sourced, no new content); non-priority compile candidates (auto-generated digests/state snapshots/session summaries/changelogs serving as provenance for wiki-manager state pages). Updated _index.md Last-compiled line only. _concepts.md unchanged (no new concepts).
+=======
+- summary: 12h maintenance run
+- commit: 2f16832e
+- notes: auto-maintenance from kb-maintenance.sh 2026-06-12T06:14:59Z
+>>>>>>> 75f90957 (kb: maintenance run 2026-06-12-0615 from slimy-nuc2)
+
+
+## [2026-06-13 06:15] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - (none)
+- summary: 12h maintenance run
+- commit: 0283ef32
+- notes: auto-maintenance from kb-maintenance.sh 2026-06-13T06:15:01Z
 
 
