@@ -14797,3 +14797,13 @@ KB METADATA -->
 - notes: Third run of the 20260611-230008 priority batch. raw/ unchanged since 1b561d5a; all 14 unique priority inputs verified still sourced into wiki articles (grep sweep of wiki Sources, excluding log/orphans/weak-links). No article content changes. Deferred: seed-progress-history.md (historical log, already sourced, no new content); non-priority compile candidates (auto-generated digests/state snapshots/session summaries/changelogs serving as provenance for wiki-manager state pages). Updated _index.md Last-compiled line only. _concepts.md unchanged (no new concepts).
 
 
+## [2026-06-13 10:58] compile | child-compile 20260613-105538 priority-batch verification
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: child-compile 20260613-105538 priority-batch verification
+- commit: 0283ef32
+- notes: Fourth verification run of priority batch 20260611-230008. Zero raw/ changes since baseline 1b561d5a; all 14 unique priority inputs already sourced into wiki articles and predate them. No article or _concepts.md content changes. Updated _index.md Last-compiled note. Deferred: seed-progress-history (historical, sourced) + non-priority machine-generated candidates. Noted out-of-scope index gap (agents-plugin-ecosystem, ned-autonomous, slimy-discord-bot) for lint/wiki-manager.
+
+
