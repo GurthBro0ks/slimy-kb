@@ -1,5 +1,5 @@
 {
-  "ts": "20260613T063428Z",
+  "ts": "20260613T183527Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -84,15 +84,15 @@
       "path": "/home/slimy/slimy-harness",
       "relative_path": "slimy-harness",
       "ok": true,
-      "branch": "nuc1-local-routing-phase5b-clean-reconcile-20260612T201011Z",
-      "commit_hash": "787a0f2cc580",
-      "commit_subject": "ops: reconcile qwen2.5 phase5b recovery tooling",
+      "branch": "harness-session-index-exporter-phase1a-20260613T092132Z",
+      "commit_hash": "58ea9e8a8d15",
+      "commit_subject": "feat: add safe harness session index exporter",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 1
+        "behind": 0
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -104,8 +104,8 @@
       "relative_path": "kb",
       "ok": true,
       "branch": "main",
-      "commit_hash": "0283ef322c0a",
-      "commit_subject": "kb: child-compile 20260612-202419",
+      "commit_hash": "4103f69c8d9c",
+      "commit_subject": "kb: child-compile 20260613-105538",
       "dirty": true,
       "remote": "github.com:GurthBro0ks/slimy-kb",
       "ahead_behind": {
@@ -115,7 +115,7 @@
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
-      "dirty_count": 1
+      "dirty_count": 5
     },
     {
       "name": "ned-autonomous",
@@ -233,7 +233,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "12cddd3ed8d0",
+      "commit_hash": "505ce8c2b5c5",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,
