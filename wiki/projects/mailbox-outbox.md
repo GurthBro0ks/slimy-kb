@@ -6,7 +6,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-06-19 09:07 UTC (git)
-> Version: r203 / d99d4034
+> Version: r204 / 017a2e01
 KB METADATA -->
 
 NUC communication module — message outbox for inter-NUC communication via SSH/git-based sync. NUC1 push side of the mailbox transport.
