@@ -1,36 +1,107 @@
-# Candidate Review Pack — 2026-06-18T21:07:14Z
+# Candidate Review Pack — 2026-06-19T09:07:45Z
 
 > Stage: 1.86
-> Generated: 2026-06-18T21:07:14Z
+> Generated: 2026-06-19T09:07:45Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
 
 ## Summary
 
-- **Candidates:** 6
+- **Candidates:** 11
 - **Emerging:** 0
-- **Cooling down:** 5
+- **Cooling down:** 0
 - **Not candidate:** 0
 - **Total in queue:** 11
 
 ## Freshness Bands
-- **fresh** (< 24h): 6
+- **fresh** (< 24h): 11
 - **aging** (24-72h): 0
-- **stale** (> 72h): 5
+- **stale** (> 72h): 0
 
 ## Candidates — Ready for Harness Dispatch Review
 
 These tasks meet all Stage 1.86 promotion criteria:
 recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
-### [todo-2026-06-18-005] Resolve 86 orphaned wiki pages
+### [todo-2026-06-19-001] NUC1 repo has uncommitted changes: kb
+
+| Field | Value |
+|-------|-------|
+| Project | kb |
+| Severity | HIGH (repo_drift) |
+| Persistence | 5x recent / 51x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+| Related wiki page | kb-bridge-gear-donation.md |
+
+**Why it matters:** Repo 'kb' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review kb on NUC1, commit or stash uncommitted work, push if appropriate.
+
+### [todo-2026-06-19-002] NUC1 repo has uncommitted changes: mailbox_outbox
+
+| Field | Value |
+|-------|-------|
+| Project | mailbox_outbox |
+| Severity | HIGH (repo_drift) |
+| Persistence | 5x recent / 99x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+| Related wiki page | mailbox-outbox.md |
+
+**Why it matters:** Repo 'mailbox_outbox' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review mailbox_outbox on NUC1, commit or stash uncommitted work, push if appropriate.
+
+### [todo-2026-06-19-003] NUC1 repo diverged from remote: Slimefun4
+
+| Field | Value |
+|-------|-------|
+| Project | Slimefun4 |
+| Severity | HIGH (repo_drift) |
+| Persistence | 5x recent / 121x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+
+**Why it matters:** Repo 'Slimefun4' on NUC1 is both ahead and behind remote — unmerged commits present.
+
+**Recommended action:** Review Slimefun4 on NUC1, merge or rebase remote changes, resolve any conflicts.
+
+### [todo-2026-06-19-004] NUC1 repo diverged from remote: slimy-monorepo
+
+| Field | Value |
+|-------|-------|
+| Project | slimy-monorepo |
+| Severity | HIGH (repo_drift) |
+| Persistence | 5x recent / 121x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+| Related wiki page | slimy-monorepo.md |
+
+**Why it matters:** Repo 'slimy-monorepo' on NUC1 is both ahead and behind remote — unmerged commits present.
+
+**Recommended action:** Review slimy-monorepo on NUC1, merge or rebase remote changes, resolve any conflicts.
+
+### [todo-2026-06-19-005] Resolve 86 orphaned wiki pages
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 6x lifetime |
+| Persistence | 5x recent / 7x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/_orphans.md |
 | Dispatch blocker | advisory_only |
@@ -42,13 +113,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review each orphan: add links from related pages, merge into existing articles, or delete if redundant.
 
-### [todo-2026-06-18-006] Review orphaned page: game/30-stone-corrections.md
+### [todo-2026-06-19-006] Review orphaned page: game/30-stone-corrections.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 26x lifetime |
+| Persistence | 5x recent / 27x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/30-stone-corrections.md |
 | Dispatch blocker | advisory_only |
@@ -60,13 +131,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/30-stone-corrections.md should be linked from related articles or removed.
 
-### [todo-2026-06-18-007] Review orphaned page: game/biozilla-relics.md
+### [todo-2026-06-19-007] Review orphaned page: game/biozilla-relics.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 26x lifetime |
+| Persistence | 5x recent / 27x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/biozilla-relics.md |
 | Dispatch blocker | advisory_only |
@@ -78,13 +149,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/biozilla-relics.md should be linked from related articles or removed.
 
-### [todo-2026-06-18-008] Review orphaned page: game/compass-guide.md
+### [todo-2026-06-19-008] Review orphaned page: game/compass-guide.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 26x lifetime |
+| Persistence | 5x recent / 27x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/compass-guide.md |
 | Dispatch blocker | advisory_only |
@@ -96,13 +167,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/compass-guide.md should be linked from related articles or removed.
 
-### [todo-2026-06-18-009] Review orphaned page: game/gear-leveling-guide.md
+### [todo-2026-06-19-009] Review orphaned page: game/gear-leveling-guide.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 26x lifetime |
+| Persistence | 5x recent / 27x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/gear-leveling-guide.md |
 | Dispatch blocker | advisory_only |
@@ -114,13 +185,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/gear-leveling-guide.md should be linked from related articles or removed.
 
-### [todo-2026-06-18-010] Review orphaned page: game/glorium-guide.md
+### [todo-2026-06-19-010] Review orphaned page: game/glorium-guide.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 26x lifetime |
+| Persistence | 5x recent / 27x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/glorium-guide.md |
 | Dispatch blocker | advisory_only |
@@ -132,16 +203,23 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/glorium-guide.md should be linked from related articles or removed.
 
-## Cooling Down (5 tasks)
+### [todo-2026-06-19-011] NUC1 KB has uncommitted changes
 
-These tasks were previously candidate/emerging but recent evidence has weakened.
-They are tracked but require fresh evidence before they can be restored to candidate.
+| Field | Value |
+|-------|-------|
+| Project | kb |
+| Severity | HIGH (repo_drift) |
+| Persistence | 5x recent / 51x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+| Related wiki page | kb-bridge-gear-donation.md |
 
-- **[todo-2026-06-18-001]** NUC1 repo has uncommitted changes: kb — HIGH (stale) — evidence_stale_cooling
-- **[todo-2026-06-18-002]** NUC1 repo has uncommitted changes: mailbox_outbox — HIGH (stale) — evidence_stale_cooling
-- **[todo-2026-06-18-003]** NUC1 repo diverged from remote: Slimefun4 — HIGH (stale) — evidence_stale_cooling
-- **[todo-2026-06-18-004]** NUC1 repo diverged from remote: slimy-monorepo — HIGH (stale) — evidence_stale_cooling
-- **[todo-2026-06-18-011]** NUC1 KB has uncommitted changes — HIGH (stale) — evidence_stale_cooling
+**Why it matters:** The kb repo on NUC1 is dirty — there are uncommitted changes that may need to be merged.
+
+**Recommended action:** Coordinate with NUC1 to push or transfer the uncommitted KB changes, then reconcile.
 
 ---
 _Stage 1.86 — advisory only. Candidate status is advisory only, dispatch blocked by `advisory_only`._
