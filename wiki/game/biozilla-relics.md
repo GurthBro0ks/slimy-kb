@@ -11,7 +11,7 @@ tags: [biozilla, relics, dung-beetle, goldfish, clam, hamster, mantis, fame, civ
 
 <!-- KB METADATA
 > Last edited: 2026-06-21 09:09 UTC (git)
-> Version: r62 / d00fce07
+> Version: r63 / 1d2ed0e7
 KB METADATA -->
 
 # Biozilla Relic Guide
