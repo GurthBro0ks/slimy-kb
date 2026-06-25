@@ -1,8 +1,9 @@
 # Workspace Agent Rules
 > Category: projects
-> Sources: raw/decisions/seed-workspace-agents.md
+> Sources: raw/decisions/seed-workspace-agents.md, raw/decisions/seed-clawd-agents.md
 > Created: 2026-04-08
-> Updated: 2026-04-08
+> Updated: 2026-06-13
+> Note: Source attribution corrected 2026-06-13 (compile 20260613-123035): the SLB-Required Actions, Meta-Learning Loops, Memory Tiers, and Three Mistakes sections originate from seed-clawd-agents.md (the workspace variant seed-workspace-agents.md ends at "Make It Yours" and does not contain them). Added seed-clawd-agents.md to Sources.
 > Status: reviewed
 
 <!-- KB METADATA

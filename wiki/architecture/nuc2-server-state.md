@@ -2,8 +2,9 @@
 > Category: architecture
 > Sources: raw/decisions/seed-server-state.md
 > Created: 2026-04-08
-> Updated: 2026-04-24
+> Updated: 2026-06-13
 > Note: Re-verified 2026-04-24 (compile 20260424-174222): seed-server-state.md last updated 2026-03-31. Content current. No structural changes since last compile. Status: reviewed.
+> Note: Corrected 2026-06-13 (compile 20260613-123035): fixed pm_updown_bot_bundle remote transcription error (was `pm_updown-bot-bundle.git`, source seed-server-state.md uses `pm_updown_bot_bundle.git`). Now matches source and rest of KB.
 > Status: reviewed
 
 <!-- KB METADATA
@@ -29,7 +30,7 @@ Canonical server state snapshot for slimy-nuc2. See also [NUC Topology and Servi
 | mailbox_ingest | /home/slimy/nuc-comms/mailbox_ingest | /home/slimy/nuc-comms/mailbox.git |
 | git-notes-ledger | /home/slimy/.openclaw/memory/git-notes-ledger | local-only |
 | workspace | /home/slimy/.openclaw/workspace | local-only |
-| pm_updown_bot_bundle | /home/slimy/pm_updown_bot_bundle | git@github.com:GurthBro0ks/pm_updown-bot-bundle.git |
+| pm_updown_bot_bundle | /home/slimy/pm_updown_bot_bundle | git@github.com:GurthBro0ks/pm_updown_bot_bundle.git |
 | slimy-monorepo | /home/slimy/slimy-monorepo → /opt/slimy/slimy-monorepo | git@github.com:GurthBro0ks/slimy-monorepo.git |
 
 > **Canonical repo path:** `/opt/slimy/slimy-monorepo`. `/home/slimy/slimy-monorepo` is a symlink to it.

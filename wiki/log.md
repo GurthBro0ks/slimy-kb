@@ -14807,3 +14807,28 @@ KB METADATA -->
 - notes: Fourth verification run of priority batch 20260611-230008. Zero raw/ changes since baseline 1b561d5a; all 14 unique priority inputs already sourced into wiki articles and predate them. No article or _concepts.md content changes. Updated _index.md Last-compiled note. Deferred: seed-progress-history (historical, sourced) + non-priority machine-generated candidates. Noted out-of-scope index gap (agents-plugin-ecosystem, ned-autonomous, slimy-discord-bot) for lint/wiki-manager.
 
 
+## [2026-06-13 12:35] compile | child-compile 20260613-123035 priority-batch verification + 2 fidelity fixes
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/architecture/nuc2-server-state.md
+  - wiki/projects/workspace-agent-rules.md
+  - wiki/_index.md
+- summary: child-compile 20260613-123035 priority-batch verification + 2 fidelity fixes (authored; left uncommitted)
+- commit: 4103f69c
+- notes: Fifth verification of priority batch 20260611-230008. raw/ unchanged since baseline 1b561d5a. Caught + fixed two defects missed by 4 prior passes: (1) nuc2-server-state.md pm_updown remote hyphens->underscores to match source seed-server-state.md; (2) workspace-agent-rules.md added seed-clawd-agents.md to Sources (SLB/meta-learning/memory-tiers/three-mistakes content originates there, not in seed-workspace-agents.md). These edits were authored in the working tree but were NEVER committed; they were re-verified against source and committed by run 20260625-194440 (see next entry). No _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced) + non-priority machine-generated candidates.
+
+
+## [2026-06-25 19:44] compile | child-compile 20260625-194440 priority-batch verification + commit pending 0613 fixes
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/_index.md
+  - wiki/log.md
+  - wiki/architecture/nuc2-server-state.md (committed prior-run fix)
+  - wiki/projects/workspace-agent-rules.md (committed prior-run fix)
+- summary: child-compile 20260625-194440 priority-batch verification + commit of 0613 pending fidelity fixes
+- commit: 4103f69c
+- notes: Sixth verification of priority batch 20260611-230008. Re-pulled KB (already up to date). Re-confirmed zero raw/ drift via git-log + mtime sweep: all 14 unique priority inputs predate their referencing wiki articles and none changed since baseline 1b561d5a (seed-* last touched 2026-04-04 init except seed-clawd-agents.md in its own compile 282a6e57; April research/learning inputs predate Jun 11/13 compiles). Found the 0613 verification pass's two fidelity fixes staged in the working tree but never committed; re-verified both against source this run — (1) nuc2-server-state.md pm_updown remote underscores matches seed-server-state.md:19 + 4 other KB occurrences; (2) workspace-agent-rules.md SLB/meta-learning/memory-tiers/three-mistakes sections confirmed (grep) to originate from seed-clawd-agents.md, absent from seed-workspace-agents.md which ends at "Make It Yours" — and committed them. Also includes routine append-only growth of logs/game-compile.log (separate game-kb-compile cron). No new articles, no one-line index summary changes, no _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced) + non-priority machine-generated candidates (digests/state-snapshots/session-summaries/changelogs/game discord-exports). Out-of-scope curated-index gap re-noted for lint/wiki-manager: projects/agents-plugin-ecosystem, projects/ned-autonomous, projects/slimy-discord-bot.
+
+
