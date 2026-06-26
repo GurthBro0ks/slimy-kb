@@ -8,7 +8,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-06-26 06:31 UTC (git)
-> Version: r230 / 700de39c
+> Version: r231 / a8e4e15a
 KB METADATA -->
 
 Fix for the KB write-through automation where `slimy-agent-finish.sh` left raw files uncommitted and `kb-compile-if-needed.sh` only wrote prompt files without triggering actual wiki compilation.

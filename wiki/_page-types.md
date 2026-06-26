@@ -5,7 +5,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-06-26 06:31 UTC (git)
-> Version: r212 / 700de39c
+> Version: r213 / a8e4e15a
 KB METADATA -->
 
 ## The 9 Page Types

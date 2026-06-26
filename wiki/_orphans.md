@@ -1,11 +1,11 @@
 # Orphaned Pages
 
 > Pages with zero inbound links from other non-index wiki pages.
-> Generated: 2026-06-26T06:31:32Z by kb-lint.sh
+> Generated: 2026-06-26T18:31:31Z by kb-lint.sh
 
 <!-- KB METADATA
 > Last edited: 2026-06-26 06:31 UTC (git)
-> Version: r227 / 700de39c
+> Version: r228 / a8e4e15a
 KB METADATA -->
 
 **Total orphans: 43**
