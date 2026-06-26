@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-06-25 18:31 UTC (git)
-> Version: r225 / f78dc843
+> Last edited: 2026-06-26 06:31 UTC (git)
+> Version: r226 / 700de39c
 KB METADATA -->
 
 The Slimy monorepo hosts web, bot, and supporting packages with shared CI and infrastructure documentation.
@@ -84,13 +84,13 @@ systemctl --user status slimy-web.service
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
-**Last updated:** 2026-06-25T18:31:12Z
+**Last updated:** 2026-06-26T06:31:38Z
 **NUC1 status:** clean, DIVERGED
 **NUC1 commit:** `a004f10` — docs: auto-sync project docs from slimy-nuc1 2026-04-11
 **Branch:** detached
 
 ### Open Issues
-- **[HIGH/cooling_down]** NUC1 repo diverged from remote: slimy-monorepo (repo_drift, 126x, stale)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo (repo_drift, 127x, fresh)
 
 ### Evidence
 - `raw/inbox-nuc1/`
