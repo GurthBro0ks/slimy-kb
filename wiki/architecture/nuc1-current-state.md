@@ -1,13 +1,13 @@
 # NUC1 Current State
 
 > Category: architecture
-> Updated: 2026-06-26T18:31:38Z
+> Updated: 2026-06-27T06:31:39Z
 > Sources: raw/inbox-nuc1/
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-06-26 18:31 UTC (git)
-> Version: r229 / cd813c14
+> Last edited: 2026-06-27 06:31 UTC (git)
+> Version: r230 / 50c44b1a
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
