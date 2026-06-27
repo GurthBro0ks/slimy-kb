@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-06-26 18:31 UTC (git)
-> Version: r76 / dbeaaf08
+> Version: r77 / cd813c14
 KB METADATA -->
 
 KB bridge extension that publishes gear scan digests from NUC1 to NUC2's KB inbox.
