@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-06-27T06:31:39Z
+# NUC2 Repo Digests — 2026-06-27T13:06:11Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-06-27T06:31:39Z
+**Timestamp:** 2026-06-27T13:06:11Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -19,8 +19,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** 
-- **Commit:** 50c44b1a
-- **Subject:** kb: maintenance run 2026-06-27-0631 from slimy-nuc2
+- **Commit:** cd794050
+- **Subject:** kb: maintenance run 2026-06-27-1305 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -50,8 +50,8 @@
 - **Path:** `/home/slimy/mission-control`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 7be75b6
-- **Subject:** fix: use safe public origin from forwarded headers for login redirect
+- **Commit:** 16c5b34
+- **Subject:** fix: unify reports logout and nav shell
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/mission-control.git
 - **Name:** mission-control
