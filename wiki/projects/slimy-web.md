@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-06-27 06:31 UTC (git)
-> Version: r218 / 50c44b1a
+> Version: r219 / 7b897358
 KB METADATA -->
 
 Slimy Web is the Next.js front-end with role-aware routing, API proxies, and docs integration.
