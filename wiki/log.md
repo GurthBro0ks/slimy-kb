@@ -14843,3 +14843,14 @@ KB METADATA -->
 - summary: child-compile 20260628-114833 twentieth verification of priority batch 20260611-230008
 - commit: pending
 - notes: Twentieth verification run of the 20260611-230008 priority batch. Re-read all 20 listed priority inputs (including duplicates). All inputs confirmed fully compiled: seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → both rules articles; seed-server-state.md → nuc2-server-state.md; seed-progress-history.md deferred (large NUC2 session log, no standalone article warranted); 2026-04-22-certbot-acme-fix → nginx-certbot-acme-fix.md; all 2026-04-05 research/agent-learnings → troubleshooting articles (kb-autofinish-autocompile-fix, nuc1-wrapper-recursion-fix, nuc1-repo-remote-ssh-normalization, nuc2-repo-remote-ssh-normalization). No new wiki content required. No _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced). Updated _index.md Last-compiled note.
+
+
+## [2026-06-28 11:56] compile | child-compile 20260628-115614 priority-batch twenty-first verification
+- actor: kb-compile
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_index.md
+  - wiki/log.md
+- summary: child-compile 20260628-115614 twenty-first verification of priority batch 20260611-230008
+- commit: pending
+- notes: Twenty-first verification run of the 20260611-230008 priority batch. Re-read all 20 listed priority inputs (including duplicates). All inputs confirmed fully compiled: seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → both rules articles; seed-server-state.md → nuc2-server-state.md; seed-progress-history.md deferred (large NUC2 session log, no standalone article warranted); 2026-04-22-certbot-acme-fix → nginx-certbot-acme-fix.md; all 2026-04-05 research/agent-learnings → troubleshooting articles (kb-autofinish-autocompile-fix, nuc1-wrapper-recursion-fix, nuc1-repo-remote-ssh-normalization, nuc2-repo-remote-ssh-normalization). No new wiki content required. No _concepts.md change. Updated _index.md Last-compiled note.
