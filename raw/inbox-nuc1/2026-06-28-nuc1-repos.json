@@ -1,5 +1,5 @@
 {
-  "ts": "20260628T064323Z",
+  "ts": "20260628T184423Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -66,8 +66,8 @@
       "relative_path": "mission-control",
       "ok": true,
       "branch": "main",
-      "commit_hash": "16c5b34b0431",
-      "commit_subject": "fix: unify reports logout and nav shell",
+      "commit_hash": "640c5c4554ab",
+      "commit_subject": "fix: repair reports sso verifier origin",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/mission-control",
       "ahead_behind": {
@@ -104,8 +104,8 @@
       "relative_path": "kb",
       "ok": true,
       "branch": "main",
-      "commit_hash": "953a2c202d1b",
-      "commit_subject": "kb: child-compile 20260627-173327",
+      "commit_hash": "95d0559090f5",
+      "commit_subject": "kb: child-compile 20260628-115614",
       "dirty": true,
       "remote": "github.com:GurthBro0ks/slimy-kb",
       "ahead_behind": {
@@ -229,7 +229,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "20f88f9e16a3",
+      "commit_hash": "5a416888b729",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,
