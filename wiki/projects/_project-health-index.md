@@ -1,12 +1,12 @@
 # Project Health Index
 
 > Category: projects
-> Updated: 2026-06-27T13:06:11Z
+> Updated: 2026-06-28T01:07:19Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-06-27 13:06 UTC (git)
-> Version: r227 / 5feb3348
+> Last edited: 2026-06-28 01:06 UTC (git)
+> Version: r228 / d0d523cc
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -16,9 +16,9 @@ KB METADATA -->
 - NUC1 repos tracked: 13
 - With project page: 7
 - Without project page: 6
-- Dirty (uncommitted): 2
+- Dirty (uncommitted): 1
 - Diverged (ahead + behind): 2
-- Clean: 9
+- Clean: 10
 
 ## Pages Updated This Run
 
@@ -27,7 +27,7 @@ KB METADATA -->
 
 ## Covered Repos (have project pages)
 
-- **kb** → `kb-bridge-gear-donation.md` — DIRTY
+- **kb** → `kb-bridge-gear-donation.md` — clean
 - **mailbox_outbox** → `mailbox-outbox.md` — DIRTY
 - **mission-control** → `mission-control.md` — clean
 - **ned-autonomous** → `ned-autonomous.md` — clean
@@ -51,7 +51,7 @@ KB METADATA -->
 | DynaTech | — | — |
 | PrivateStorage | — | — |
 | Slimefun4 | — | ⚠️ DIVERGED |
-| kb | ⚠️ DIRTY | — |
+| kb | — | — |
 | mailbox_outbox | ⚠️ DIRTY | — |
 | memories | — | — |
 | mission-control | — | — |
