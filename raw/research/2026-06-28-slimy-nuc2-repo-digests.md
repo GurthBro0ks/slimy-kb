@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-06-28T08:28:31Z
+# NUC2 Repo Digests — 2026-06-28T20:29:00Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-06-28T08:28:31Z
+**Timestamp:** 2026-06-28T20:29:00Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -19,8 +19,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** 
-- **Commit:** 13eef847
-- **Subject:** kb: maintenance run 2026-06-28-0828 from slimy-nuc2
+- **Commit:** f38b5ca5
+- **Subject:** kb: maintenance run 2026-06-28-2028 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -50,8 +50,8 @@
 - **Path:** `/home/slimy/mission-control`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 16c5b34
-- **Subject:** fix: unify reports logout and nav shell
+- **Commit:** 640c5c4
+- **Subject:** fix: repair reports sso verifier origin
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/mission-control.git
 - **Name:** mission-control
