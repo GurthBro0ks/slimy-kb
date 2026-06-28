@@ -1,5 +1,5 @@
 {
-  "ts": "20260627T064125Z",
+  "ts": "20260627T184223Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -66,8 +66,8 @@
       "relative_path": "mission-control",
       "ok": true,
       "branch": "main",
-      "commit_hash": "6e7f6d3ad27b",
-      "commit_subject": "chore: update version snapshot and lockfile",
+      "commit_hash": "16c5b34b0431",
+      "commit_subject": "fix: unify reports logout and nav shell",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/mission-control",
       "ahead_behind": {
@@ -85,8 +85,8 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "harness-session-index-exporter-phase1a-20260613T092132Z",
-      "commit_hash": "a92ef422a969",
-      "commit_subject": "Fix harness report label semantics",
+      "commit_hash": "6de4a930feae",
+      "commit_subject": "fix: update archive-only reports in place",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
@@ -104,9 +104,9 @@
       "relative_path": "kb",
       "ok": true,
       "branch": "main",
-      "commit_hash": "0828236a6ba1",
-      "commit_subject": "kb: child-compile 20260625-194440",
-      "dirty": true,
+      "commit_hash": "953a2c202d1b",
+      "commit_subject": "kb: child-compile 20260627-173327",
+      "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-kb",
       "ahead_behind": {
         "base": "origin/main",
@@ -115,7 +115,7 @@
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
-      "dirty_count": 1
+      "dirty_count": 0
     },
     {
       "name": "ned-autonomous",
@@ -229,7 +229,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "5fc529a80809",
+      "commit_hash": "20f88f9e16a3",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,
