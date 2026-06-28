@@ -14832,3 +14832,14 @@ KB METADATA -->
 - notes: Sixth verification of priority batch 20260611-230008. Re-pulled KB (already up to date). Re-confirmed zero raw/ drift via git-log + mtime sweep: all 14 unique priority inputs predate their referencing wiki articles and none changed since baseline 1b561d5a (seed-* last touched 2026-04-04 init except seed-clawd-agents.md in its own compile 282a6e57; April research/learning inputs predate Jun 11/13 compiles). Found the 0613 verification pass's two fidelity fixes staged in the working tree but never committed; re-verified both against source this run — (1) nuc2-server-state.md pm_updown remote underscores matches seed-server-state.md:19 + 4 other KB occurrences; (2) workspace-agent-rules.md SLB/meta-learning/memory-tiers/three-mistakes sections confirmed (grep) to originate from seed-clawd-agents.md, absent from seed-workspace-agents.md which ends at "Make It Yours" — and committed them. Also includes routine append-only growth of logs/game-compile.log (separate game-kb-compile cron). No new articles, no one-line index summary changes, no _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced) + non-priority machine-generated candidates (digests/state-snapshots/session-summaries/changelogs/game discord-exports). Out-of-scope curated-index gap re-noted for lint/wiki-manager: projects/agents-plugin-ecosystem, projects/ned-autonomous, projects/slimy-discord-bot.
 
 
+
+
+## [2026-06-28 11:48] compile | child-compile 20260628-114833 priority-batch twentieth verification
+- actor: kb-compile
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_index.md
+  - wiki/log.md
+- summary: child-compile 20260628-114833 twentieth verification of priority batch 20260611-230008
+- commit: pending
+- notes: Twentieth verification run of the 20260611-230008 priority batch. Re-read all 20 listed priority inputs (including duplicates). All inputs confirmed fully compiled: seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → both rules articles; seed-server-state.md → nuc2-server-state.md; seed-progress-history.md deferred (large NUC2 session log, no standalone article warranted); 2026-04-22-certbot-acme-fix → nginx-certbot-acme-fix.md; all 2026-04-05 research/agent-learnings → troubleshooting articles (kb-autofinish-autocompile-fix, nuc1-wrapper-recursion-fix, nuc1-repo-remote-ssh-normalization, nuc2-repo-remote-ssh-normalization). No new wiki content required. No _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced). Updated _index.md Last-compiled note.
