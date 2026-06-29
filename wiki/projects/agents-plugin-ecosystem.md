@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-06-28 20:28 UTC (git)
-> Version: r224 / f38b5ca5
+> Last edited: 2026-06-28 20:29 UTC (git)
+> Version: r225 / 11725c95
 KB METADATA -->
 
 This project packages focused plugins, specialized agents, skills, and workflow orchestrators for Claude Code operations.

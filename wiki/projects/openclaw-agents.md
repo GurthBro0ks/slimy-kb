@@ -16,8 +16,8 @@ aliases: ["openclaw-agents", "workspace subagents"]
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-06-28 20:28 UTC (git)
-> Version: r179 / f38b5ca5
+> Last edited: 2026-06-28 20:29 UTC (git)
+> Version: r180 / 11725c95
 KB METADATA -->
 
 The OpenCLAW agent framework on NUC1 hosts two workspace subagents — `workspace-executor` and `workspace-researcher` — managed by the OpenCLAW gateway and registered by [Ned-Clawd](ned-clawd.md) cron scripts.
