@@ -14875,3 +14875,14 @@ KB METADATA -->
 - summary: child-compile 20260629-204959 twenty-third verification of priority batch 20260611-230008
 - commit: pending
 - notes: Twenty-third verification run of the 20260611-230008 priority batch. Re-read all 20 listed priority inputs (including duplicates). All inputs confirmed fully compiled: seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → both rules articles; seed-server-state.md → nuc2-server-state.md; seed-progress-history.md deferred (large NUC2 session log, no standalone article warranted); 2026-04-22-certbot-acme-fix → nginx-certbot-acme-fix.md; all 2026-04-05 research/agent-learnings → troubleshooting articles (kb-autofinish-autocompile-fix, nuc1-wrapper-recursion-fix, nuc1-repo-remote-ssh-normalization, nuc2-repo-remote-ssh-normalization). Source citations verified in all target articles. No new wiki content required. No _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced).
+
+
+## [2026-06-29 20:53] compile | child-compile 20260629-205153 priority-batch twenty-fourth verification
+- actor: kb-compile
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_index.md
+  - wiki/log.md
+- summary: child-compile 20260629-205153 twenty-fourth verification of priority batch 20260611-230008
+- commit: pending
+- notes: Twenty-fourth verification run of the 20260611-230008 priority batch. Re-read all 20 listed priority inputs (including duplicates). All inputs confirmed fully compiled: seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → both rules articles; seed-server-state.md → nuc2-server-state.md; seed-progress-history.md deferred (large NUC2 session log, no standalone article warranted); 2026-04-22-certbot-acme-fix → nginx-certbot-acme-fix.md; all 2026-04-05 research/agent-learnings → troubleshooting articles (kb-autofinish-autocompile-fix, nuc1-wrapper-recursion-fix, nuc1-repo-remote-ssh-normalization, nuc2-repo-remote-ssh-normalization). Source citations verified in all target articles. No new wiki content required. No _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced).
