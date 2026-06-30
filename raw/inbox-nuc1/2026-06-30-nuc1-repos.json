@@ -1,5 +1,5 @@
 {
-  "ts": "20260630T064623Z",
+  "ts": "20260630T184623Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -85,8 +85,8 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "harness-session-index-exporter-phase1a-20260613T092132Z",
-      "commit_hash": "57fe18e8b744",
-      "commit_subject": "docs: add harness watchdog runbook and registry path fix",
+      "commit_hash": "46c54a61b0cd",
+      "commit_subject": "docs: add Mission-Control availability runbook",
       "dirty": true,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
@@ -104,8 +104,8 @@
       "relative_path": "kb",
       "ok": true,
       "branch": "main",
-      "commit_hash": "e761b9931be1",
-      "commit_subject": "kb: child-compile 20260630-042020",
+      "commit_hash": "94ceedfaa13e",
+      "commit_subject": "kb: child-compile 20260630-174116",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-kb",
       "ahead_behind": {
@@ -229,7 +229,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "19c0df4b4d30",
+      "commit_hash": "776616ca50c7",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,
