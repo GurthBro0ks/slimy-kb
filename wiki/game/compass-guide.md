@@ -10,8 +10,8 @@ tags: [compass, relics, farm, push, gene-sim, arena, civ, tech, art, faith, stam
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-06-30 20:31 UTC (git)
-> Version: r86 / 3b70555f
+> Last edited: 2026-06-30 20:32 UTC (git)
+> Version: r87 / 1b939d1a
 KB METADATA -->
 
 # Compass Relic Guide
