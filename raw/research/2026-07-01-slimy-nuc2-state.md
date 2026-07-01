@@ -38,3 +38,27 @@ LISTEN 0      128                          [::1]:3307          [::]:*
 ## Disk Usage (KB-relevant paths)
 
 17M	/home/slimy/kb
+42G	/home/slimy
+- /home/slimy: (unable to measure)
+
+## Uptime
+
+ 20:33:00 up 3 days, 12:10,  2 users,  load average: 0.32, 0.16, 0.06
+
+## KB Git Status
+
+ M raw/research/2026-07-01-slimy-nuc2-state.md
+- ahead: 45
+- behind: 32
+
+## KB Health Snapshot
+
+- orphans (total): 86
+- weak-links (total): 8
+
+## KB Raw Files (recent, 48h)
+
+- 12 raw/*.md files modified in last 48h
+
+## Vault Sync Status
+

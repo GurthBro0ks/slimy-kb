@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-07-01T08:33:00Z
+# NUC2 Repo Digests — 2026-07-01T20:33:00Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-07-01T08:33:00Z
+**Timestamp:** 2026-07-01T20:33:00Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -19,8 +19,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** 
-- **Commit:** 474c9708
-- **Subject:** kb: maintenance run 2026-07-01-0832 from slimy-nuc2
+- **Commit:** 7cf23d0a
+- **Subject:** kb: maintenance run 2026-07-01-2032 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -50,8 +50,8 @@
 - **Path:** `/home/slimy/mission-control`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 640c5c4
-- **Subject:** fix: repair reports sso verifier origin
+- **Commit:** e8717a4
+- **Subject:** reports: polish owner-gated report UI copy
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/mission-control.git
 - **Name:** mission-control
