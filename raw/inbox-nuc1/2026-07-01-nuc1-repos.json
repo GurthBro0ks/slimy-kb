@@ -1,5 +1,5 @@
 {
-  "ts": "20260701T064723Z",
+  "ts": "20260701T184823Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -66,14 +66,14 @@
       "relative_path": "mission-control",
       "ok": true,
       "branch": "main",
-      "commit_hash": "640c5c4554ab",
-      "commit_subject": "fix: repair reports sso verifier origin",
+      "commit_hash": "70c8afc8e34d",
+      "commit_subject": "reports: polish owner-gated report UI copy",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/mission-control",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 0
+        "behind": 1
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -85,9 +85,9 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "96d072aa08f3",
-      "commit_subject": "Merge pull request #1 from GurthBro0ks/nuc1-qwen25-phase5b-recovery-tooling-20260630",
-      "dirty": true,
+      "commit_hash": "7632a161755c",
+      "commit_subject": "sequencer: refresh proof index during notifier closeout",
+      "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
@@ -96,7 +96,7 @@
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
-      "dirty_count": 1
+      "dirty_count": 0
     },
     {
       "name": "kb",
@@ -104,8 +104,8 @@
       "relative_path": "kb",
       "ok": true,
       "branch": "main",
-      "commit_hash": "1c27a9bedf01",
-      "commit_subject": "kb: child-compile 20260630-222015 - root cause of dispatch loop found, fix deferred pending operator policy decision",
+      "commit_hash": "aa04b1d7306b",
+      "commit_subject": "kb: child-compile 20260701-094624 (35th no-op, stage operator fix proposal)",
       "dirty": true,
       "remote": "github.com:GurthBro0ks/slimy-kb",
       "ahead_behind": {
@@ -115,7 +115,7 @@
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
-      "dirty_count": 1
+      "dirty_count": 3
     },
     {
       "name": "ned-autonomous",
@@ -229,7 +229,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "776616ca50c7",
+      "commit_hash": "a980e7ea7c0c",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,
