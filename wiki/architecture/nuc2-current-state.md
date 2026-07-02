@@ -1,29 +1,29 @@
 # NUC2 Current State
 
 > Category: architecture
-> Updated: 2026-07-02T08:34:00Z
+> Updated: 2026-07-02T15:15:19Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-07-02 08:34 UTC (git)
-> Version: r252 / 1d375bff
+> Last edited: 2026-07-02 15:14 UTC (git)
+> Version: r253 / 448cbee7
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc2
-- **Last updated:** 2026-07-02T08:34:00Z
+- **Last updated:** 2026-07-02T15:15:19Z
 
 ## Active Services
 - - pm2: not available
 
 ## Network Ports
-- `LISTEN 0      128                      127.0.0.1:3307       0.0.0.0:*`
-- `LISTEN 0      200                      127.0.0.1:5432       0.0.0.0:*`
 - `LISTEN 0      511                        0.0.0.0:3000       0.0.0.0:*`
-- `LISTEN 0      511                        0.0.0.0:3838       0.0.0.0:*`
+- `LISTEN 0      128                      127.0.0.1:3307       0.0.0.0:*`
 - `LISTEN 0      128                        0.0.0.0:3850       0.0.0.0:*`
+- `LISTEN 0      511                        0.0.0.0:3838       0.0.0.0:*`
+- `LISTEN 0      200                      127.0.0.1:5432       0.0.0.0:*`
 - `LISTEN 0      128                          [::1]:3307          [::]:*`
 
 ## KB Health
