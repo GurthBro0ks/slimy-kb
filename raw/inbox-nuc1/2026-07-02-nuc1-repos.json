@@ -1,5 +1,5 @@
 {
-  "ts": "20260702T064923Z",
+  "ts": "20260702T185023Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -72,7 +72,7 @@
       "remote": "github.com:GurthBro0ks/mission-control",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 0,
+        "ahead": 2,
         "behind": 1
       },
       "kb_bridge_present": false,
@@ -85,8 +85,8 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "7632a161755c",
-      "commit_subject": "sequencer: refresh proof index during notifier closeout",
+      "commit_hash": "05ff3b04a471",
+      "commit_subject": "Allow approved closeout notifications without nonce",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
@@ -229,7 +229,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "2459e3cb129c",
+      "commit_hash": "b0438433f2f1",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,
