@@ -1,5 +1,5 @@
 {
-  "ts": "20260703T065023Z",
+  "ts": "20260703T185123Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -66,14 +66,14 @@
       "relative_path": "mission-control",
       "ok": true,
       "branch": "main",
-      "commit_hash": "70c8afc8e34d",
-      "commit_subject": "reports: polish owner-gated report UI copy",
+      "commit_hash": "6e2d5cd1ac2d",
+      "commit_subject": "reports: clarify legacy validation conflicts",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/mission-control",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 2,
-        "behind": 1
+        "ahead": 0,
+        "behind": 0
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -85,8 +85,8 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "05ff3b04a471",
-      "commit_subject": "Allow approved closeout notifications without nonce",
+      "commit_hash": "00765fe17172",
+      "commit_subject": "harness: add queue-only loop state",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
@@ -229,7 +229,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "51d41b2006ad",
+      "commit_hash": "e4db6728a66f",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,
