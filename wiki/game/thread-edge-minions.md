@@ -11,7 +11,7 @@ tags: [relic,biozilla,mantis,rush,f2p,tech,crit]
 
 <!-- KB METADATA
 > Last edited: 2026-07-04 03:16 UTC (git)
-> Version: r78 / f9b61b0e
+> Version: r79 / 04246929
 KB METADATA -->
 
 # Thread Edge Minions
