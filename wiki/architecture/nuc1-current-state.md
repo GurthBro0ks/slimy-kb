@@ -1,20 +1,20 @@
 # NUC1 Current State
 
 > Category: architecture
-> Updated: 2026-07-04T15:16:52Z
+> Updated: 2026-07-05T03:17:44Z
 > Sources: raw/inbox-nuc1/
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-07-04 15:16 UTC (git)
-> Version: r263 / 153fab93
+> Last edited: 2026-07-05 03:17 UTC (git)
+> Version: r264 / ae15950b
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc1
-- **Last seen:** 20260703T185123Z
+- **Last seen:** 20260705T015824Z
 
 ## Repository Status
 - **Total repos tracked:** 13
@@ -25,11 +25,11 @@ KB METADATA -->
 - _(none detected in this digest)_
 
 ## Open Issues (from todo queue)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: kb — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mailbox_outbox — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo diverged from remote: Slimefun4 — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 KB has uncommitted changes — repo_drift (aging)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: kb — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: mailbox_outbox — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: Slimefun4 — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 KB has uncommitted changes — repo_drift (fresh)
 
 <!-- END MACHINE MANAGED -->
 
