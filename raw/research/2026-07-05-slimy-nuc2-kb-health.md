@@ -1,6 +1,6 @@
 # KB Health Snapshot
 
-**Timestamp:** 2026-07-05T03:17:44Z
+**Timestamp:** 2026-07-05T15:18:44Z
 **Host:** slimy-nuc2
 
 ## File Counts
@@ -29,17 +29,17 @@
 
 ## Log Recent Entries (last 5)
 
-- [2026-07-04 03:16] maintenance | 12h maintenance run
-- [2026-07-04 03:16] wiki_manager | stage1.86 todo queue generation
 - [2026-07-04 15:16] maintenance | 12h maintenance run
 - [2026-07-04 15:16] wiki_manager | stage1.86 todo queue generation
 - [2026-07-05 03:17] maintenance | 12h maintenance run
+- [2026-07-05 03:17] wiki_manager | stage1.86 todo queue generation
+- [2026-07-05 15:18] maintenance | 12h maintenance run
 
 ## Recent Output Files (48h)
 
-- candidate_review_pack.md (2026-07-04 15:16)
-- harness_candidates.md (2026-07-04 15:16)
-- todo_queue.md (2026-07-04 15:16)
+- candidate_review_pack.md (2026-07-05 03:17)
+- harness_candidates.md (2026-07-05 03:17)
+- todo_queue.md (2026-07-05 03:17)
 
 ## Compile Candidates
 
