@@ -11,7 +11,7 @@ tags: [heart]
 
 <!-- KB METADATA
 > Last edited: 2026-07-04 15:16 UTC (git)
-> Version: r80 / 6a018749
+> Version: r81 / 153fab93
 KB METADATA -->
 
 # Thread Parsia
