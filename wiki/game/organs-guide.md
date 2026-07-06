@@ -11,7 +11,7 @@ tags: [organs, arena, push, dominating, gene-sim, apostle, purge, revive, cosmos
 
 <!-- KB METADATA
 > Last edited: 2026-07-06 03:18 UTC (git)
-> Version: r108 / e046d570
+> Version: r109 / 18e1a70f
 KB METADATA -->
 
 # Organs Setup Guide
