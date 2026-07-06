@@ -11,7 +11,7 @@ tags: [relic,farm,push,glorium,fervor,biome,apostle,rift]
 
 <!-- KB METADATA
 > Last edited: 2026-07-05 15:18 UTC (git)
-> Version: r84 / 23548310
+> Version: r85 / ee456978
 KB METADATA -->
 
 # Thread Glorium Guide
