@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-07-07T03:19:44Z
+# NUC2 Repo Digests — 2026-07-07T15:20:44Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-07-07T03:19:44Z
+**Timestamp:** 2026-07-07T15:20:44Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -19,8 +19,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** 
-- **Commit:** da56734a
-- **Subject:** kb: maintenance run 2026-07-07-0319 from slimy-nuc2
+- **Commit:** abf1de14
+- **Subject:** kb: maintenance run 2026-07-07-1520 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
