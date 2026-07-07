@@ -16,8 +16,8 @@ aliases: ["ned-clawd"]
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-07-06 15:19 UTC (git)
-> Version: r215 / e6068d16
+> Last edited: 2026-07-07 03:19 UTC (git)
+> Version: r216 / da56734a
 KB METADATA -->
 
 Ned-Clawd is the cron-driven scripting layer on NUC1 that handles agent registration, heartbeat scheduling, watchdog checks, and lifecycle management for the OpenCLAW agent framework. It is the companion to [Ned-Autonomous](ned-autonomous.md), which manages the persistent PM2 `agent-loop` process.
