@@ -18,7 +18,7 @@ aliases: ["clawd-agent-rules", "openclaw agent rules"]
 
 <!-- KB METADATA
 > Last edited: 2026-07-08 03:20 UTC (git)
-> Version: r225 / 0ee4216e
+> Version: r226 / 66a092dd
 KB METADATA -->
 
 Operating rules for the Clawd OpenCLAW workspace agent system on NUC1. These rules govern session startup, memory discipline, safety, heartbeats, and the meta-learning loop. See [Workspace Agent Rules](workspace-agent-rules.md) for the full compiled article — this page captures the clawd-specific framing.
