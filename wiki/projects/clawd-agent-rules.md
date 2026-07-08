@@ -17,8 +17,8 @@ aliases: ["clawd-agent-rules", "openclaw agent rules"]
 > Note: raw/decisions/seed-clawd-agents.md was deleted by an auto-sync commit (13906bbe, 2026-05-23) in violation of the never-delete-raw rule; restored from git on 2026-06-11 and recompiled here.
 
 <!-- KB METADATA
-> Last edited: 2026-07-07 15:20 UTC (git)
-> Version: r224 / 20eed8ee
+> Last edited: 2026-07-08 03:20 UTC (git)
+> Version: r225 / 0ee4216e
 KB METADATA -->
 
 Operating rules for the Clawd OpenCLAW workspace agent system on NUC1. These rules govern session startup, memory discipline, safety, heartbeats, and the meta-learning loop. See [Workspace Agent Rules](workspace-agent-rules.md) for the full compiled article — this page captures the clawd-specific framing.
