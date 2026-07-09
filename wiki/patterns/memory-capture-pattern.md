@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-07-09 03:21 UTC (git)
-> Version: r268 / d746d5b9
+> Version: r269 / 8168cf59
 KB METADATA -->
 
 This pattern separates short-term logs from durable knowledge.
