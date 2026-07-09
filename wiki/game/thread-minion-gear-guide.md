@@ -11,7 +11,7 @@ tags: [relic,gear,organ,minion,army,rocket,cabin,skin]
 
 <!-- KB METADATA
 > Last edited: 2026-07-08 15:21 UTC (git)
-> Version: r96 / 15ffebea
+> Version: r97 / 5434b527
 KB METADATA -->
 
 # Thread Minion Gear Guide
