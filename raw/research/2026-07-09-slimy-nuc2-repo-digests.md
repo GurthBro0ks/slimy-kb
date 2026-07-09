@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-07-09T03:21:44Z
+# NUC2 Repo Digests — 2026-07-09T15:22:44Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-07-09T03:21:44Z
+**Timestamp:** 2026-07-09T15:22:44Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -19,8 +19,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** 
-- **Commit:** d746d5b9
-- **Subject:** kb: maintenance run 2026-07-09-0321 from slimy-nuc2
+- **Commit:** b50521e3
+- **Subject:** kb: maintenance run 2026-07-09-1522 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -33,8 +33,8 @@
 - **Path:** `/home/slimy/nuc-comms/mailbox_ingest`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 89cc2ab
-- **Subject:** docs: resolve nuc1/nuc2 divergence and correct mailbox_ingest metadata
+- **Commit:** db291fe
+- **Subject:** chore: keep mailbox generated docs local-only
 - **Dirty:** False
 - **Origin:** /home/slimy/nuc-comms/mailbox.git
 
