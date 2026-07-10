@@ -10,8 +10,8 @@ tags: []
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-07-09 15:22 UTC (git)
-> Version: r101 / 7e03617f
+> Last edited: 2026-07-10 03:22 UTC (git)
+> Version: r102 / 2e554591
 KB METADATA -->
 
 # Thread T7 Rituals

@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-07-09 15:22 UTC (git)
-> Version: r269 / 7e03617f
+> Last edited: 2026-07-10 03:22 UTC (git)
+> Version: r270 / 2e554591
 KB METADATA -->
 
 Anomalies and discrepancies found during NUC1 project discovery (2026-04-05).
