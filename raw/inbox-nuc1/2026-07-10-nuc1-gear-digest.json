@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-07-10",
+  "hostname": "slimy-nuc1",
+  "run_id": "20260710T020624Z-9ae44ef4",
+  "prev_digest_date": null,
+  "total_submissions": 0,
+  "specimen_refs": [],
+  "scan_status_breakdown": {
+    "completed": 0,
+    "failed": 0,
+    "completed_with_warnings": 0,
+    "queued": 0
+  },
+  "detected_gear_items": [],
+  "detected_soul_items": [],
+  "provider_summary": {},
+  "error_summary": [],
+  "scans_processed": [],
+  "generated_at": "2026-07-10T02:06:24.795572+00:00"
+}
