@@ -11,7 +11,7 @@ tags: [apostle,organ,brain]
 
 <!-- KB METADATA
 > Last edited: 2026-07-10 15:23 UTC (git)
-> Version: r126 / bd573e2f
+> Version: r127 / 3d7ae66b
 KB METADATA -->
 
 # 30 Stone Corrections

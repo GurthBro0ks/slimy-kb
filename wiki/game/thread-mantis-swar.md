@@ -11,7 +11,7 @@ tags: [hamster,mantis,orange]
 
 <!-- KB METADATA
 > Last edited: 2026-07-10 15:23 UTC (git)
-> Version: r104 / bd573e2f
+> Version: r105 / 3d7ae66b
 KB METADATA -->
 
 # Thread Mantis Swar
