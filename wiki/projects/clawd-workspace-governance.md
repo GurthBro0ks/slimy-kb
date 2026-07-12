@@ -16,8 +16,8 @@ aliases: ["clawd-workspace-governance", "openclaw memory governance"]
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-07-12 03:26 UTC (git)
-> Version: r236 / bdc88c4b
+> Last edited: 2026-07-12 15:27 UTC (git)
+> Version: r237 / d547e65b
 KB METADATA -->
 
 Memory and session governance model for Clawd and the OpenCLAW workspace agents. Defines the two-tier memory architecture, session isolation rules, and continuity strategy for agents that restart fresh each session.
