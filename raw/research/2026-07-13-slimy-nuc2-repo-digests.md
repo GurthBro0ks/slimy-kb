@@ -1,7 +1,7 @@
-# NUC2 Repo Digests — 2026-07-13T03:27:45Z
+# NUC2 Repo Digests — 2026-07-13T15:27:45Z
 
 **Host:** slimy-nuc2
-**Timestamp:** 2026-07-13T03:27:45Z
+**Timestamp:** 2026-07-13T15:27:45Z
 
 ## agents-backup-full
 - **Path:** `/home/slimy/agents-backup-full`
@@ -19,8 +19,8 @@
 - **Path:** `/home/slimy/kb`
 - **Git:** True
 - **Branch:** 
-- **Commit:** 4baf65bf
-- **Subject:** kb: maintenance run 2026-07-13-0327 from slimy-nuc2
+- **Commit:** dd4f9e9d
+- **Subject:** kb: maintenance run 2026-07-13-1527 from slimy-nuc2
 - **Dirty:** True
 - **Origin:** git@github.com:GurthBro0ks/slimy-kb.git
 
@@ -50,8 +50,8 @@
 - **Path:** `/home/slimy/mission-control`
 - **Git:** True
 - **Branch:** main
-- **Commit:** 6e2d5cd
-- **Subject:** reports: clarify legacy validation conflicts
+- **Commit:** 636cf13
+- **Subject:** fix(reports): render full run validation metadata
 - **Dirty:** False
 - **Origin:** git@github.com:GurthBro0ks/mission-control.git
 - **Name:** mission-control
