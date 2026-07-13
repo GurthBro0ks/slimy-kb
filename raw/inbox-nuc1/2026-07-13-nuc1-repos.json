@@ -1,5 +1,5 @@
 {
-  "ts": "20260713T021124Z",
+  "ts": "20260713T141224Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -66,14 +66,14 @@
       "relative_path": "mission-control",
       "ok": true,
       "branch": "main",
-      "commit_hash": "6e2d5cd1ac2d",
-      "commit_subject": "reports: clarify legacy validation conflicts",
+      "commit_hash": "636cf1386b8b",
+      "commit_subject": "fix(reports): render full run validation metadata",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/mission-control",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 0
+        "behind": 1
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -85,14 +85,14 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "36091a17eaf9",
-      "commit_subject": "feat(harness): add immutable run creation records",
+      "commit_hash": "384ea2683dfb",
+      "commit_subject": "fix(harness): preserve QA evidence in session reports",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 1
+        "behind": 3
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -229,7 +229,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "cc5aa812b31b",
+      "commit_hash": "9722712b29bb",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,
