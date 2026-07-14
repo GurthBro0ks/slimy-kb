@@ -1,5 +1,5 @@
 {
-  "ts": "20260714T021324Z",
+  "ts": "20260714T141424Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -85,14 +85,14 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "25f2c14b6d40",
-      "commit_subject": "feat(harness): add acceptance ledger foundation",
+      "commit_hash": "3ad3d18353c7",
+      "commit_subject": "test(harness): add fixture report link parity",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 0
+        "behind": 1
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -229,7 +229,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "b873ca6a1274",
+      "commit_hash": "2f4259458fb4",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,

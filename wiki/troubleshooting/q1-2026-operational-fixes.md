@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-07-14 03:28 UTC (git)
-> Version: r287 / 086c251e
+> Version: r288 / 28c50dcd
 KB METADATA -->
 
 This article captures recurring failures and proven fixes from recent execution history.
