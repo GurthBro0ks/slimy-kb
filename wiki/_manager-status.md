@@ -1,14 +1,14 @@
 # Wiki Manager Status
 
 > Category: concepts
-> Updated: 2026-07-13T15:27:45Z
+> Updated: 2026-07-14T03:28:44Z
 
 <!-- KB METADATA
-> Last edited: 2026-07-13 15:27 UTC (git)
-> Version: r301 / 26d681c9
+> Last edited: 2026-07-14 03:28 UTC (git)
+> Version: r302 / 086c251e
 KB METADATA -->
 
-**Last run:** 2026-07-13T15:27:45Z
+**Last run:** 2026-07-14T03:28:44Z
 **Stage:** 1.86
 **Backend:** stub
 **NUC1 evidence:** consumed
@@ -53,29 +53,29 @@ KB METADATA -->
 
 ## Harness Candidates
 
-- **[todo-2026-07-13-001]** NUC1 repo has uncommitted changes: kb (severity: high, promotion: candidate, fresh)
-- **[todo-2026-07-13-002]** NUC1 repo diverged from remote: Slimefun4 (severity: high, promotion: candidate, fresh)
-- **[todo-2026-07-13-003]** NUC1 repo diverged from remote: slimy-monorepo (severity: high, promotion: candidate, fresh)
-- **[todo-2026-07-13-004]** Resolve 86 orphaned wiki pages (severity: high, promotion: candidate, fresh)
-- **[todo-2026-07-13-005]** Review orphaned page: game/30-stone-corrections.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-07-13-006]** Review orphaned page: game/biozilla-relics.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-07-13-007]** Review orphaned page: game/compass-guide.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-07-13-008]** Review orphaned page: game/gear-leveling-guide.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-07-13-009]** Review orphaned page: game/glorium-guide.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-07-13-010]** NUC1 KB has uncommitted changes (severity: high, promotion: candidate, fresh)
+- **[todo-2026-07-14-001]** NUC1 repo has uncommitted changes: kb (severity: high, promotion: candidate, fresh)
+- **[todo-2026-07-14-002]** NUC1 repo diverged from remote: Slimefun4 (severity: high, promotion: candidate, fresh)
+- **[todo-2026-07-14-003]** NUC1 repo diverged from remote: slimy-monorepo (severity: high, promotion: candidate, fresh)
+- **[todo-2026-07-14-004]** Resolve 86 orphaned wiki pages (severity: high, promotion: candidate, fresh)
+- **[todo-2026-07-14-005]** Review orphaned page: game/30-stone-corrections.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-07-14-006]** Review orphaned page: game/biozilla-relics.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-07-14-007]** Review orphaned page: game/compass-guide.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-07-14-008]** Review orphaned page: game/gear-leveling-guide.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-07-14-009]** Review orphaned page: game/glorium-guide.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-07-14-010]** NUC1 KB has uncommitted changes (severity: high, promotion: candidate, fresh)
 
 ## Task List
 
-🔄 [todo-2026-07-13-001] NUC1 repo has uncommitted changes: kb (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-07-13-002] NUC1 repo diverged from remote: Slimefun4 (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-07-13-003] NUC1 repo diverged from remote: slimy-monorepo (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-07-13-004] Resolve 86 orphaned wiki pages (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-07-13-005] Review orphaned page: game/30-stone-corrections.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-07-13-006] Review orphaned page: game/biozilla-relics.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-07-13-007] Review orphaned page: game/compass-guide.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-07-13-008] Review orphaned page: game/gear-leveling-guide.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-07-13-009] Review orphaned page: game/glorium-guide.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-07-13-010] NUC1 KB has uncommitted changes (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-07-14-001] NUC1 repo has uncommitted changes: kb (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-07-14-002] NUC1 repo diverged from remote: Slimefun4 (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-07-14-003] NUC1 repo diverged from remote: slimy-monorepo (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-07-14-004] Resolve 86 orphaned wiki pages (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-07-14-005] Review orphaned page: game/30-stone-corrections.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-07-14-006] Review orphaned page: game/biozilla-relics.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-07-14-007] Review orphaned page: game/compass-guide.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-07-14-008] Review orphaned page: game/gear-leveling-guide.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-07-14-009] Review orphaned page: game/glorium-guide.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-07-14-010] NUC1 KB has uncommitted changes (high, repo_drift) [candidate] (fresh) — nuc1
 
 ---
 *Managed by wiki-manager-stage1.timer (every 12h). Do not edit directly.*
