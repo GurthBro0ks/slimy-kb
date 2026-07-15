@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-07-15 03:30 UTC (git)
-> Version: r293 / 0ac052a1
+> Last edited: 2026-07-15 15:31 UTC (git)
+> Version: r294 / b0447eec
 KB METADATA -->
 
 This pattern separates short-term logs from durable knowledge.
