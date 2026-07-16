@@ -1,14 +1,14 @@
 # Wiki Manager Status
 
 > Category: concepts
-> Updated: 2026-07-16T03:32:44Z
+> Updated: 2026-07-16T15:33:44Z
 
 <!-- KB METADATA
-> Last edited: 2026-07-16 03:32 UTC (git)
-> Version: r311 / 9869bbcd
+> Last edited: 2026-07-16 15:33 UTC (git)
+> Version: r312 / 8ed38fa2
 KB METADATA -->
 
-**Last run:** 2026-07-16T03:32:44Z
+**Last run:** 2026-07-16T15:33:44Z
 **Stage:** 1.86
 **Backend:** stub
 **NUC1 evidence:** consumed
@@ -17,16 +17,16 @@ KB METADATA -->
 ## Queue Summary
 
 - Total tasks: 11
-- NEW: 1
-- PERSISTING: 10
+- NEW: 0
+- PERSISTING: 11
 - RESOLVED (this run): 0
 
 ## Promotion Counts
 
 - **candidate:** 10
-- **emerging:** 0
+- **emerging:** 1
 - **cooling_down:** 0
-- **not_candidate:** 1
+- **not_candidate:** 0
 
 ## Freshness Bands
 
@@ -55,6 +55,7 @@ KB METADATA -->
 
 - **[todo-2026-07-16-001]** NUC1 repo has uncommitted changes: kb (severity: high, promotion: candidate, fresh)
 - **[todo-2026-07-16-002]** NUC1 repo diverged from remote: Slimefun4 (severity: high, promotion: candidate, fresh)
+- **[todo-2026-07-16-003]** NUC1 repo diverged from remote: slimy-harness (severity: high, promotion: emerging, fresh)
 - **[todo-2026-07-16-004]** NUC1 repo diverged from remote: slimy-monorepo (severity: high, promotion: candidate, fresh)
 - **[todo-2026-07-16-005]** Resolve 86 orphaned wiki pages (severity: high, promotion: candidate, fresh)
 - **[todo-2026-07-16-006]** Review orphaned page: game/30-stone-corrections.md (severity: high, promotion: candidate, fresh)
@@ -68,7 +69,7 @@ KB METADATA -->
 
 🔄 [todo-2026-07-16-001] NUC1 repo has uncommitted changes: kb (high, repo_drift) [candidate] (fresh) — nuc1
 🔄 [todo-2026-07-16-002] NUC1 repo diverged from remote: Slimefun4 (high, repo_drift) [candidate] (fresh) — nuc1
-✨ [todo-2026-07-16-003] NUC1 repo diverged from remote: slimy-harness (medium, repo_drift) [not_candidate] (fresh) — nuc1
+🔄 [todo-2026-07-16-003] NUC1 repo diverged from remote: slimy-harness (high, repo_drift) [emerging] (fresh) — nuc1
 🔄 [todo-2026-07-16-004] NUC1 repo diverged from remote: slimy-monorepo (high, repo_drift) [candidate] (fresh) — nuc1
 🔄 [todo-2026-07-16-005] Resolve 86 orphaned wiki pages (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
 🔄 [todo-2026-07-16-006] Review orphaned page: game/30-stone-corrections.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2

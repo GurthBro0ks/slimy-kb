@@ -1,7 +1,7 @@
-# Candidate Review Pack — 2026-07-16T03:32:44Z
+# Candidate Review Pack — 2026-07-16T15:33:44Z
 
 > Stage: 1.86
-> Generated: 2026-07-16T03:32:44Z
+> Generated: 2026-07-16T15:33:44Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
@@ -9,9 +9,9 @@
 ## Summary
 
 - **Candidates:** 10
-- **Emerging:** 0
+- **Emerging:** 1
 - **Cooling down:** 0
-- **Not candidate:** 1
+- **Not candidate:** 0
 - **Total in queue:** 11
 
 ## Freshness Bands
@@ -30,7 +30,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 95x lifetime |
+| Persistence | 5x recent / 96x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -48,7 +48,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 168x lifetime |
+| Persistence | 5x recent / 169x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -65,7 +65,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | slimy-monorepo |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 168x lifetime |
+| Persistence | 5x recent / 169x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -83,7 +83,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 54x lifetime |
+| Persistence | 5x recent / 55x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/_orphans.md |
 | Dispatch blocker | advisory_only |
@@ -101,7 +101,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 74x lifetime |
+| Persistence | 5x recent / 75x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/30-stone-corrections.md |
 | Dispatch blocker | advisory_only |
@@ -119,7 +119,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 74x lifetime |
+| Persistence | 5x recent / 75x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/biozilla-relics.md |
 | Dispatch blocker | advisory_only |
@@ -137,7 +137,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 74x lifetime |
+| Persistence | 5x recent / 75x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/compass-guide.md |
 | Dispatch blocker | advisory_only |
@@ -155,7 +155,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 74x lifetime |
+| Persistence | 5x recent / 75x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/gear-leveling-guide.md |
 | Dispatch blocker | advisory_only |
@@ -173,7 +173,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 74x lifetime |
+| Persistence | 5x recent / 75x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/glorium-guide.md |
 | Dispatch blocker | advisory_only |
@@ -191,7 +191,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 95x lifetime |
+| Persistence | 5x recent / 96x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -203,12 +203,14 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Coordinate with NUC1 to push or transfer the uncommitted KB changes, then reconcile.
 
-## Not Candidate (1 tasks)
+## Emerging — Close but Not Ready
 
-These tasks are tracked but lack sufficient recent evidence, have stale evidence,
-or are excluded kinds. Lifetime history is preserved for audit.
+### [todo-2026-07-16-003] NUC1 repo diverged from remote: slimy-harness
 
-- **[todo-2026-07-16-003]** NUC1 repo diverged from remote: slimy-harness — insufficient_recency (fresh)
+- **Project:** slimy-harness | **Severity:** HIGH | **Freshness:** fresh
+- **Persistence:** 2x recent / 2x lifetime
+- **What would promote:** more recent runs OR fresher evidence files
+- **Why it matters:** Repo 'slimy-harness' on NUC1 is both ahead and behind remote — unmerged commits present.
 
 ---
 _Stage 1.86 — advisory only. Candidate status is advisory only, dispatch blocked by `advisory_only`._
