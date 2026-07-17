@@ -5,8 +5,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-07-17 03:34 UTC (git)
-> Version: r300 / 3133bd91
+> Last edited: 2026-07-17 15:34 UTC (git)
+> Version: r301 / a129bb1b
 KB METADATA -->
 
 MCP agent mail git mailbox repository. Used by MCP agents for inter-agent communication via git. Local-only on NUC2 with no remote push URL.
