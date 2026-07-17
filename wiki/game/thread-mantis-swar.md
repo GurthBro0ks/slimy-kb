@@ -10,8 +10,8 @@ tags: [hamster,mantis,orange]
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-07-16 15:33 UTC (git)
-> Version: r129 / 18e13a92
+> Last edited: 2026-07-17 03:34 UTC (git)
+> Version: r130 / 261232f2
 KB METADATA -->
 
 # Thread Mantis Swar
