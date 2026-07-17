@@ -11,7 +11,7 @@ tags: [relic,compass,farm,push,arena,organ,brain,civ]
 
 <!-- KB METADATA
 > Last edited: 2026-07-16 15:33 UTC (git)
-> Version: r128 / 8ed38fa2
+> Version: r129 / 18e13a92
 KB METADATA -->
 
 # Thread Compass Guide

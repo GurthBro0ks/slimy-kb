@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-07-16 15:33 UTC (git)
-> Version: r302 / 8ed38fa2
+> Version: r303 / 18e13a92
 KB METADATA -->
 
 This pattern standardizes how a SlimyAI agent session is opened and closed.
