@@ -6,7 +6,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-07-18 03:35 UTC (git)
-> Version: r303 / 2a46355d
+> Version: r304 / 9158417f
 KB METADATA -->
 
 Full mirror of wshobson/agents — the Claude Code plugin marketplace. Archived and not actively used on NUC2.

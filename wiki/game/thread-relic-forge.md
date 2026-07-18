@@ -11,7 +11,7 @@ tags: [relic,farm,soul,minion,cabin,rift,unispark,stamps]
 
 <!-- KB METADATA
 > Last edited: 2026-07-18 03:35 UTC (git)
-> Version: r134 / 2a46355d
+> Version: r135 / 9158417f
 KB METADATA -->
 
 # Thread Relic Forge
