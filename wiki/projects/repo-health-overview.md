@@ -1,12 +1,12 @@
 # Repo Health Overview
 
 > Category: projects
-> Updated: 2026-07-17T15:34:46Z
+> Updated: 2026-07-18T03:35:44Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-07-17 15:34 UTC (git)
-> Version: r315 / 446e43aa
+> Last edited: 2026-07-18 03:35 UTC (git)
+> Version: r316 / 2a46355d
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -20,7 +20,7 @@ KB METADATA -->
 | PrivateStorage | — | — |
 | DynaTech | — | — |
 | mission-control | — | — |
-| slimy-harness | — | ⚠️ YES |
+| slimy-harness | — | — |
 | kb | ⚠️ YES | — |
 | ned-autonomous | — | — |
 | stoat-source | — | — |
@@ -35,7 +35,7 @@ KB METADATA -->
 
 ## Action Required
 - **Dirty on NUC1:** kb — commit or stash
-- **Diverged on NUC1:** Slimefun4, slimy-harness, slimy-monorepo — merge or rebase
+- **Diverged on NUC1:** Slimefun4, slimy-monorepo — merge or rebase
 
 <!-- END MACHINE MANAGED -->
 
