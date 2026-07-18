@@ -6,8 +6,8 @@
 > Status: reviewed
 
 <!-- KB METADATA
-> Last edited: 2026-07-18 03:35 UTC (git)
-> Version: r267 / 9158417f
+> Last edited: 2026-07-18 15:36 UTC (git)
+> Version: r268 / f840d034
 KB METADATA -->
 
 Fix for certbot ACME challenge failures when nginx proxies `/.well-known/acme-challenge/` to Next.js, which redirects to `/login`.
