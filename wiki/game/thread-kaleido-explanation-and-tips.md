@@ -11,7 +11,7 @@ tags: [relic,clam,farm,biome,skin]
 
 <!-- KB METADATA
 > Last edited: 2026-07-17 15:34 UTC (git)
-> Version: r132 / a129bb1b
+> Version: r133 / 446e43aa
 KB METADATA -->
 
 # Thread Kaleido Explanation And Tips
