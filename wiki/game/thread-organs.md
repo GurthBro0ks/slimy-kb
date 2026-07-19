@@ -11,7 +11,7 @@ tags: [push,arena,gear,apostle,organ,crit,orange]
 
 <!-- KB METADATA
 > Last edited: 2026-07-18 15:36 UTC (git)
-> Version: r136 / f840d034
+> Version: r137 / 2a1e0af3
 KB METADATA -->
 
 # Thread Organs
