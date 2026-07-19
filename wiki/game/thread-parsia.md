@@ -10,8 +10,8 @@ tags: [heart]
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-07-18 15:36 UTC (git)
-> Version: r137 / 2a1e0af3
+> Last edited: 2026-07-19 03:37 UTC (git)
+> Version: r138 / 0954c8cc
 KB METADATA -->
 
 # Thread Parsia
