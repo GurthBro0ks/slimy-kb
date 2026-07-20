@@ -11,7 +11,7 @@ tags: [liver,rift,orange]
 
 <!-- KB METADATA
 > Last edited: 2026-07-19 15:38 UTC (git)
-> Version: r140 / 4ed95766
+> Version: r141 / 51ec92f7
 KB METADATA -->
 
 # Thread Cooking
