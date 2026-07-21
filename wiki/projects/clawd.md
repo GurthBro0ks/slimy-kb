@@ -16,8 +16,8 @@ aliases: ["clawd", "OpenCLAW daemon"]
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-07-20 15:39 UTC (git)
-> Version: r267 / c3ecc1c7
+> Last edited: 2026-07-21 03:39 UTC (git)
+> Version: r268 / 940af2c1
 KB METADATA -->
 
 Clawd is the OpenCLAW daemon on NUC1 — the workspace governance agent responsible for autonomous task execution, memory management, and lifecycle coordination of the `.openclaw` agent framework.
