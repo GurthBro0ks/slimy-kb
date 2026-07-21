@@ -1,5 +1,5 @@
 {
-  "ts": "20260721T022524Z",
+  "ts": "20260721T142624Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -85,14 +85,14 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "fd3eb618cb61",
-      "commit_subject": "merge: adopt accepted RW2-A/notifier-separation/CM-1 source onto canonical worktree",
+      "commit_hash": "ce6c42382e8a",
+      "commit_subject": "fix: defer snapshot timer first firing from activation",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 2
+        "behind": 5
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -104,9 +104,9 @@
       "relative_path": "kb",
       "ok": true,
       "branch": "main",
-      "commit_hash": "afb66d7549ff",
-      "commit_subject": "fix: repair kb-compile-if-needed.sh candidate collection + cap auto-dispatch",
-      "dirty": true,
+      "commit_hash": "86da7b5d9ae1",
+      "commit_subject": "kb: auto-sync from slimy-nuc1 2026-07-21-1410",
+      "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-kb",
       "ahead_behind": {
         "base": "origin/main",
@@ -115,7 +115,7 @@
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
-      "dirty_count": 4
+      "dirty_count": 0
     },
     {
       "name": "ned-autonomous",
@@ -229,7 +229,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "8beacfd41610",
+      "commit_hash": "5f0b95cd7f95",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,
