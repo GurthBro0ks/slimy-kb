@@ -1,12 +1,12 @@
 # Repo Health Overview
 
 > Category: projects
-> Updated: 2026-07-21T03:39:44Z
+> Updated: 2026-07-21T15:40:44Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-07-21 03:39 UTC (git)
-> Version: r329 / c6658131
+> Last edited: 2026-07-21 15:40 UTC (git)
+> Version: r330 / 83ebd06a
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -21,7 +21,7 @@ KB METADATA -->
 | DynaTech | — | — |
 | mission-control | — | — |
 | slimy-harness | — | — |
-| kb | ⚠️ YES | — |
+| kb | — | — |
 | ned-autonomous | — | — |
 | stoat-source | — | — |
 | mailbox_outbox | — | — |
@@ -34,7 +34,6 @@ KB METADATA -->
 - _NUC2 repo state parsed from local git status_
 
 ## Action Required
-- **Dirty on NUC1:** kb — commit or stash
 - **Diverged on NUC1:** Slimefun4, slimy-monorepo — merge or rebase
 
 <!-- END MACHINE MANAGED -->
