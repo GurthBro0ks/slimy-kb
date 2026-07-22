@@ -1,12 +1,12 @@
 # Project Health Index
 
 > Category: projects
-> Updated: 2026-07-21T15:40:44Z
+> Updated: 2026-07-22T03:40:44Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-07-21 15:40 UTC (git)
-> Version: r325 / 5c00c482
+> Last edited: 2026-07-22 03:40 UTC (git)
+> Version: r326 / d8f2ed2e
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -16,9 +16,9 @@ KB METADATA -->
 - NUC1 repos tracked: 13
 - With project page: 7
 - Without project page: 6
-- Dirty (uncommitted): 0
+- Dirty (uncommitted): 2
 - Diverged (ahead + behind): 2
-- Clean: 11
+- Clean: 9
 
 ## Pages Updated This Run
 
@@ -26,7 +26,7 @@ KB METADATA -->
 
 ## Covered Repos (have project pages)
 
-- **kb** → `kb-bridge-gear-donation.md` — clean
+- **kb** → `kb-bridge-gear-donation.md` — DIRTY
 - **mailbox_outbox** → `mailbox-outbox.md` — clean
 - **mission-control** → `mission-control.md` — clean
 - **ned-autonomous** → `ned-autonomous.md` — clean
@@ -41,7 +41,7 @@ KB METADATA -->
 - **Slimefun4** — DIVERGED
 - **memories** — clean
 - **plugins** — clean
-- **slimy-harness** — clean
+- **slimy-harness** — DIRTY
 
 ## NUC1 Repo Health Table
 
@@ -50,14 +50,14 @@ KB METADATA -->
 | DynaTech | — | — |
 | PrivateStorage | — | — |
 | Slimefun4 | — | ⚠️ DIVERGED |
-| kb | — | — |
+| kb | ⚠️ DIRTY | — |
 | mailbox_outbox | — | — |
 | memories | — | — |
 | mission-control | — | — |
 | ned-autonomous | — | — |
 | plugins | — | — |
 | slimy-chat | — | — |
-| slimy-harness | — | — |
+| slimy-harness | ⚠️ DIRTY | — |
 | slimy-monorepo | — | ⚠️ DIVERGED |
 | stoat-source | — | — |
 
