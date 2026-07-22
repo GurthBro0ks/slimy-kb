@@ -6,7 +6,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-07-21 15:40 UTC (git)
-> Version: r316 / 83ebd06a
+> Version: r317 / 5c00c482
 KB METADATA -->
 
 ## Purpose
