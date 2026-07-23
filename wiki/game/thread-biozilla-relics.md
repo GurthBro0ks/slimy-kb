@@ -10,8 +10,8 @@ tags: [relic,biozilla,goldfish,clam,hamster,mantis,push,civ]
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-07-23 03:42 UTC (git)
-> Version: r155 / 2ffb7a45
+> Last edited: 2026-07-23 15:43 UTC (git)
+> Version: r156 / de0b593a
 KB METADATA -->
 
 # Thread Biozilla Relics
