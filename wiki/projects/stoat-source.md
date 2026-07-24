@@ -6,7 +6,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-07-23 15:43 UTC (git)
-> Version: r328 / de0b593a
+> Version: r329 / 8a514c81
 KB METADATA -->
 
 Rust-based backend services for the Revolt/Stoat chat platform. Powers the slimy-chat Docker stack — the 16-container self-hosted chat system at chat.slimyai.xyz on NUC1.
