@@ -1,5 +1,5 @@
 {
-  "ts": "20260724T023124Z",
+  "ts": "20260724T143224Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -85,14 +85,14 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "01ddd3ac5b78",
-      "commit_subject": "fix: wire interactive SessionStart hook to startup-context sanitizer",
+      "commit_hash": "c8a1e65a25ad",
+      "commit_subject": "fix: enforce all-source startup context data boundary",
       "dirty": false,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 1
+        "behind": 2
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -201,7 +201,7 @@
       "remote": "github.com:GurthBro0ks/slimy-monorepo",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 403,
+        "ahead": 405,
         "behind": 5
       },
       "kb_bridge_present": false,
@@ -229,14 +229,14 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "3fc83860461e",
+      "commit_hash": "670c6416b7b3",
       "commit_subject": "Initialize Codex git baseline",
-      "dirty": false,
+      "dirty": true,
       "remote": null,
       "ahead_behind": null,
       "kb_bridge_present": false,
       "kb_harness_present": false,
-      "dirty_count": 0
+      "dirty_count": 1
     }
   ]
 }
