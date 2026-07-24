@@ -4,8 +4,8 @@
 > Legacy pages using `> Category:` frontmatter remain valid. New and updated pages should use YAML frontmatter with `page_type`.
 
 <!-- KB METADATA
-> Last edited: 2026-07-23 15:43 UTC (git)
-> Version: r325 / 8a514c81
+> Last edited: 2026-07-24 03:44 UTC (git)
+> Version: r326 / 1fc04d82
 KB METADATA -->
 
 ## The 9 Page Types
