@@ -1,12 +1,12 @@
 # Project Health Index
 
 > Category: projects
-> Updated: 2026-07-24T03:44:44Z
+> Updated: 2026-07-24T15:45:45Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-07-24 03:44 UTC (git)
-> Version: r335 / c5d2eedc
+> Last edited: 2026-07-24 15:45 UTC (git)
+> Version: r336 / fb74c3e1
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -16,9 +16,9 @@ KB METADATA -->
 - NUC1 repos tracked: 13
 - With project page: 7
 - Without project page: 6
-- Dirty (uncommitted): 1
+- Dirty (uncommitted): 2
 - Diverged (ahead + behind): 2
-- Clean: 10
+- Clean: 9
 
 ## Pages Updated This Run
 
@@ -39,7 +39,7 @@ KB METADATA -->
 - **DynaTech** — clean
 - **PrivateStorage** — clean
 - **Slimefun4** — DIVERGED
-- **memories** — clean
+- **memories** — DIRTY
 - **plugins** — clean
 - **slimy-harness** — clean
 
@@ -52,7 +52,7 @@ KB METADATA -->
 | Slimefun4 | — | ⚠️ DIVERGED |
 | kb | ⚠️ DIRTY | — |
 | mailbox_outbox | — | — |
-| memories | — | — |
+| memories | ⚠️ DIRTY | — |
 | mission-control | — | — |
 | ned-autonomous | — | — |
 | plugins | — | — |

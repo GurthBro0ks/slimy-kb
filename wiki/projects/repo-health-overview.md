@@ -1,12 +1,12 @@
 # Repo Health Overview
 
 > Category: projects
-> Updated: 2026-07-24T03:44:44Z
+> Updated: 2026-07-24T15:45:45Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-07-24 03:44 UTC (git)
-> Version: r341 / c5d2eedc
+> Last edited: 2026-07-24 15:45 UTC (git)
+> Version: r342 / fb74c3e1
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -28,13 +28,13 @@ KB METADATA -->
 | slimy-chat | — | — |
 | slimy-monorepo | — | ⚠️ YES |
 | plugins | — | — |
-| memories | — | — |
+| memories | ⚠️ YES | — |
 
 ### NUC2 Repos
 - _NUC2 repo state parsed from local git status_
 
 ## Action Required
-- **Dirty on NUC1:** kb — commit or stash
+- **Dirty on NUC1:** kb, memories — commit or stash
 - **Diverged on NUC1:** Slimefun4, slimy-monorepo — merge or rebase
 
 <!-- END MACHINE MANAGED -->
