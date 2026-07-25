@@ -4,8 +4,8 @@
 > Host: slimy-nuc2
 
 <!-- KB METADATA
-> Last edited: 2026-07-24 15:45 UTC (git)
-> Version: r398 / de799054
+> Last edited: 2026-07-25 03:45 UTC (git)
+> Version: r399 / 8f766a48
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -29914,5 +29914,116 @@ KB METADATA -->
 - summary: 12h maintenance run
 - commit: de799054
 - notes: auto-maintenance from kb-maintenance.sh 2026-07-25T03:45:37Z
+
+
+## [2026-07-25 03:45] wiki_manager | stage1.86 todo queue generation
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_candidate-promotion-rules.md
+  - wiki/_manager-status.md
+  - wiki/_nuc-intake.md
+  - wiki/_page-types.md
+  - wiki/_stale.md
+  - wiki/architecture/auth-and-retired-services.md
+  - wiki/architecture/cross-nuc-communication-matrix.md
+  - wiki/architecture/harness-runtime-topology.md
+  - wiki/architecture/knowledge-base-build-pipeline.md
+  - wiki/architecture/nuc-topology-and-services.md
+  - wiki/architecture/nuc1-current-state.md
+  - wiki/architecture/nuc2-current-state.md
+  - wiki/architecture/nuc2-server-state.md
+  - wiki/architecture/slimyai-login-and-session-flow.md
+  - wiki/concepts/agent-session-contract.md
+  - wiki/concepts/source-of-truth-ledgers.md
+  - wiki/concepts/truth-gate.md
+  - wiki/game/30-stone-corrections.md
+  - wiki/game/_index.md
+  - wiki/game/biozilla-relics.md
+  - wiki/game/compass-guide.md
+  - wiki/game/gear-leveling-guide.md
+  - wiki/game/glorium-guide.md
+  - wiki/game/minion-gear-guide.md
+  - wiki/game/organs-guide.md
+  - wiki/game/snupdates.md
+  - wiki/game/thread-biozilla-relics.md
+  - wiki/game/thread-calculating-elemental-damage.md
+  - wiki/game/thread-compass-guide.md
+  - wiki/game/thread-concerting-tier-list.md
+  - wiki/game/thread-cooking.md
+  - wiki/game/thread-edge-minions.md
+  - wiki/game/thread-gear-leveling-guide.md
+  - wiki/game/thread-glorium-guide.md
+  - wiki/game/thread-goldfish.md
+  - wiki/game/thread-gurth-needs-a-gear-update.md
+  - wiki/game/thread-june-2025-changes.md
+  - wiki/game/thread-kaleido-explanation-and-tips.md
+  - wiki/game/thread-leadership.md
+  - wiki/game/thread-mantis-swar.md
+  - wiki/game/thread-minion-gear-guide.md
+  - wiki/game/thread-minion-talents.md
+  - wiki/game/thread-organs.md
+  - wiki/game/thread-parsia.md
+  - wiki/game/thread-protomon-help.md
+  - wiki/game/thread-rbf-minions.md
+  - wiki/game/thread-relic-forge.md
+  - wiki/game/thread-rift-guide.md
+  - wiki/game/thread-t7-rituals.md
+  - wiki/game/thread-tips-and-tricks.md
+  - wiki/game/thread-ultimate-divine-dragon.md
+  - wiki/patterns/memory-capture-pattern.md
+  - wiki/patterns/session-closeout-pattern.md
+  - wiki/projects/_project-health-index.md
+  - wiki/projects/actionbook.md
+  - wiki/projects/agents-backup-full.md
+  - wiki/projects/agents-plugin-ecosystem.md
+  - wiki/projects/apify-market-scanner.md
+  - wiki/projects/capture-dashboard.md
+  - wiki/projects/chat-app.md
+  - wiki/projects/chriss-agent.md
+  - wiki/projects/clawd-agent-rules.md
+  - wiki/projects/clawd-workspace-governance.md
+  - wiki/projects/clawd.md
+  - wiki/projects/kalshi-ai-trading-bot.md
+  - wiki/projects/kb-bridge-gear-donation.md
+  - wiki/projects/mailbox-ingest.md
+  - wiki/projects/mailbox-nuc-comms.md
+  - wiki/projects/mailbox-outbox.md
+  - wiki/projects/mcp-agent-mailbox.md
+  - wiki/projects/mission-control.md
+  - wiki/projects/ned-autonomous.md
+  - wiki/projects/ned-clawd.md
+  - wiki/projects/nuc1-project-anomalies.md
+  - wiki/projects/obsidian-headless-sync.md
+  - wiki/projects/obsidian-vault-automation.md
+  - wiki/projects/openclaw-agents.md
+  - wiki/projects/operator-console.md
+  - wiki/projects/pm-updown-bot-bundle.md
+  - wiki/projects/repo-health-overview.md
+  - wiki/projects/slimy-chat.md
+  - wiki/projects/slimy-discord-bot.md
+  - wiki/projects/slimy-kb.md
+  - wiki/projects/slimy-monorepo.md
+  - wiki/projects/slimy-web.md
+  - wiki/projects/slimyai-setup.md
+  - wiki/projects/stoat-source.md
+  - wiki/projects/workspace-agent-rules.md
+  - wiki/projects/workspace-executor.md
+  - wiki/projects/workspace-researcher.md
+  - wiki/troubleshooting/kb-autofinish-autocompile-fix.md
+  - wiki/troubleshooting/nginx-certbot-acme-fix.md
+  - wiki/troubleshooting/nuc1-repo-remote-ssh-normalization.md
+  - wiki/troubleshooting/nuc1-wrapper-recursion-fix.md
+  - wiki/troubleshooting/nuc2-repo-remote-ssh-normalization.md
+  - wiki/troubleshooting/q1-2026-operational-fixes.md
+  - wiki/wiki-manager-operator-runbook.md  - raw/inbox-nuc1/2026-07-25-nuc1-gear-digest.json
+  - raw/inbox-nuc1/2026-07-25-nuc1-gear-digest.md
+  - raw/inbox-nuc1/2026-07-25-nuc1-repos.json
+  - raw/inbox-nuc1/2026-07-25-nuc1-repos.md
+  - raw/inbox-nuc1/2026-07-25-nuc1-state.md
+  - raw/research/2026-07-25-slimy-nuc2-state.md
+- summary: stage1.86 todo queue generation
+- commit: 8f766a48
+- notes: stage1.86 run: todos=12 nuc1_items=367 nuc1_evidence=YES
 
 
