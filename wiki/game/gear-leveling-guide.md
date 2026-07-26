@@ -16,8 +16,8 @@ Prioritization order for leveling gear and gear souls, based on Taeyeon's guide 
 > **Note:** SMS has more value outside rift because damage % on snail is low without rift museum damage% boosts. SMS can be pushed earlier for other fights.
 
 <!-- KB METADATA
-> Last edited: 2026-07-25 15:46 UTC (git)
-> Version: r187 / 4b321303
+> Last edited: 2026-07-26 03:47 UTC (git)
+> Version: r188 / 7c5d7e86
 KB METADATA -->
 
 ## Baseline Rift Priority (Pre-Rift 2/3 and Persia)

@@ -1,20 +1,20 @@
 # NUC1 Current State
 
 > Category: architecture
-> Updated: 2026-07-25T15:46:45Z
+> Updated: 2026-07-26T03:47:44Z
 > Sources: raw/inbox-nuc1/
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-07-25 15:46 UTC (git)
-> Version: r347 / 4b321303
+> Last edited: 2026-07-26 03:47 UTC (git)
+> Version: r348 / 7c5d7e86
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc1
-- **Last seen:** 20260725T143324Z
+- **Last seen:** 20260726T023424Z
 
 ## Repository Status
 - **Total repos tracked:** 13
