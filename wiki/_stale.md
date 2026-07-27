@@ -2,7 +2,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-07-26 15:48 UTC (git)
-> Version: r338 / f8b90e93
+> Version: r339 / d9ad865f
 KB METADATA -->
 
 As of 2026-04-05, no wiki articles are stale (>30 days without update).
