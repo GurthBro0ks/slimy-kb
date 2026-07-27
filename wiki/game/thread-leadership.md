@@ -10,8 +10,8 @@ tags: [relic,apostle,tech,orange]
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-07-27 03:49 UTC (git)
-> Version: r171 / c7eeb799
+> Last edited: 2026-07-27 15:50 UTC (git)
+> Version: r172 / fd5c0018
 KB METADATA -->
 
 # Thread Leadership
