@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-07-28 03:51 UTC (git)
-> Version: r205 / 78da4de3
+> Last edited: 2026-07-28 15:52 UTC (git)
+> Version: r206 / 1aef96a6
 KB METADATA -->
 
 KB bridge extension that publishes gear scan digests from NUC1 to NUC2's KB inbox.
