@@ -11,7 +11,7 @@ tags: [apostle,rush,crit]
 
 <!-- KB METADATA
 > Last edited: 2026-07-27 15:50 UTC (git)
-> Version: r172 / fd5c0018
+> Version: r173 / f534ab94
 KB METADATA -->
 
 # Thread Protomon Help
