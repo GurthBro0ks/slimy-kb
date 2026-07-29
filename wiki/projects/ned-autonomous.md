@@ -5,8 +5,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-07-29 03:53 UTC (git)
-> Version: r355 / 3df8893b
+> Last edited: 2026-07-29 15:53 UTC (git)
+> Version: r356 / fa2582f4
 KB METADATA -->
 
 Ned-Autonomous is the PM2-managed core autonomous orchestrator on NUC1, running the `agent-loop` process.
