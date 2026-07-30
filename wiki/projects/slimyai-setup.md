@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-07-30 03:54 UTC (git)
-> Version: r353 / f34e8edb
+> Version: r354 / b32b74ce
 KB METADATA -->
 
 Slimyai Setup is the **deprecated JS Discord bot** (GurthBro0ks/slimyai_setup). It has been superseded by `slimy-bot-v2` in the slimy-monorepo and is **not running on any NUC**.

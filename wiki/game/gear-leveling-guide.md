@@ -17,7 +17,7 @@ Prioritization order for leveling gear and gear souls, based on Taeyeon's guide 
 
 <!-- KB METADATA
 > Last edited: 2026-07-30 03:54 UTC (git)
-> Version: r204 / f34e8edb
+> Version: r205 / b32b74ce
 KB METADATA -->
 
 ## Baseline Rift Priority (Pre-Rift 2/3 and Persia)
