@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-07-31 03:55 UTC (git)
-> Version: r355 / d9ee3016
+> Version: r356 / e7b20466
 KB METADATA -->
 
 The Slimy Discord Bot is a TypeScript Discord bot powered by the slimy-monorepo, serving AI chat, memory workflows, club analytics, and operations tooling across 3 Discord servers.
