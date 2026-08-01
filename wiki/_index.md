@@ -3,8 +3,8 @@
 > Last compiled: 2026-06-12 (child-compile 20260612-202419 — third run of the 20260611-230008 priority batch; zero raw/ changes since commit 1b561d5a, so no recompilation needed; verified via grep sweep that all 14 unique priority inputs remain sourced into wiki articles (seed-clawd-agents → projects/clawd-agent-rules + patterns; seed-workspace-agents → projects/workspace-agent-rules + governance; seed-agents-rules/seed-server-state → architecture+concepts; certbot-acme-fix → troubleshooting/nginx-certbot-acme-fix; ssh-normalization/wrapper-recursion/autofinish/no-pager research+learnings → troubleshooting articles); spot-checked nginx-certbot-acme-fix.md content fidelity; deferred: seed-progress-history.md (historical log, already sourced, no new content) and the 359 non-priority compile candidates (machine-generated digests/state snapshots/session summaries/changelogs — provenance records consumed by wiki-manager stable state pages, not compile targets); no article content changes this run)
 
 <!-- KB METADATA
-> Last edited: 2026-08-01 03:57 UTC (git)
-> Version: r414 / e2f902e3
+> Last edited: 2026-08-01 15:58 UTC (git)
+> Version: r415 / 959feb69
 KB METADATA -->
 
 ---
