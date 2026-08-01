@@ -11,7 +11,7 @@ tags: [crit]
 
 <!-- KB METADATA
 > Last edited: 2026-07-31 15:56 UTC (git)
-> Version: r188 / c97abc4d
+> Version: r189 / 1a98a921
 KB METADATA -->
 
 # Thread Rbf Minions
