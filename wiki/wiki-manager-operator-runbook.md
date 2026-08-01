@@ -5,8 +5,8 @@
 > Updated: 2026-04-09
 
 <!-- KB METADATA
-> Last edited: 2026-07-31 15:56 UTC (git)
-> Version: r358 / 1a98a921
+> Last edited: 2026-08-01 03:57 UTC (git)
+> Version: r359 / 342173b7
 KB METADATA -->
 
 This runbook describes the wiki-manager system on NUC2 — what runs automatically, what it produces, and how to interpret the outputs.
