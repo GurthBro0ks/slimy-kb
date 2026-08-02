@@ -11,7 +11,7 @@ tags: [compass]
 
 <!-- KB METADATA
 > Last edited: 2026-08-02 03:59 UTC (git)
-> Version: r194 / 74ad74e7
+> Version: r195 / efffdd11
 KB METADATA -->
 
 # Snupdates
