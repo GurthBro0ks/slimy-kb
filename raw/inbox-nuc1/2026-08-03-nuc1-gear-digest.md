@@ -1,6 +1,6 @@
 # NUC1 Gear Scan Digest — 2026-08-03
 
-**Generated:** 20260803T024824Z | **Host:** slimy-nuc1 | **run_id:** `20260803T024824Z-50fc96ed`
+**Generated:** 20260803T144924Z | **Host:** slimy-nuc1 | **run_id:** `20260803T144924Z-50fc96ed`
 
 ## Summary
 - Total submissions today: 0
@@ -14,4 +14,4 @@
 - queued: 0
 
 _schema_version: 1.0_
-_generated_at: 2026-08-03T02:48:24.773586+00:00_
+_generated_at: 2026-08-03T14:49:24.904045+00:00_
