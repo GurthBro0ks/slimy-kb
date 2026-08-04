@@ -1,7 +1,7 @@
-# Candidate Review Pack — 2026-08-04T04:02:45Z
+# Candidate Review Pack — 2026-08-04T16:03:47Z
 
 > Stage: 1.86
-> Generated: 2026-08-04T04:02:45Z
+> Generated: 2026-08-04T16:03:47Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
@@ -30,7 +30,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | slimy-harness |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 29x lifetime |
+| Persistence | 5x recent / 30x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -47,7 +47,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 132x lifetime |
+| Persistence | 5x recent / 133x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -65,7 +65,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 206x lifetime |
+| Persistence | 5x recent / 207x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -82,7 +82,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | slimy-monorepo |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 206x lifetime |
+| Persistence | 5x recent / 207x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -100,7 +100,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 92x lifetime |
+| Persistence | 5x recent / 93x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/_orphans.md |
 | Dispatch blocker | advisory_only |
@@ -118,7 +118,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 112x lifetime |
+| Persistence | 5x recent / 113x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/30-stone-corrections.md |
 | Dispatch blocker | advisory_only |
@@ -136,7 +136,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 112x lifetime |
+| Persistence | 5x recent / 113x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/biozilla-relics.md |
 | Dispatch blocker | advisory_only |
@@ -154,7 +154,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 112x lifetime |
+| Persistence | 5x recent / 113x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/compass-guide.md |
 | Dispatch blocker | advisory_only |
@@ -172,7 +172,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 112x lifetime |
+| Persistence | 5x recent / 113x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/gear-leveling-guide.md |
 | Dispatch blocker | advisory_only |
@@ -190,7 +190,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 112x lifetime |
+| Persistence | 5x recent / 113x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/glorium-guide.md |
 | Dispatch blocker | advisory_only |
@@ -208,7 +208,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 132x lifetime |
+| Persistence | 5x recent / 133x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |

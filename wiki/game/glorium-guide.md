@@ -27,8 +27,8 @@ Step-by-step strategy to maximize glorium income using priest/devotee skill poin
 > The second relic slot alone provides roughly **20% more glorium per biome**, even without focusing on boost stats.
 
 <!-- KB METADATA
-> Last edited: 2026-08-04 04:02 UTC (git)
-> Version: r225 / d69efa98
+> Last edited: 2026-08-04 16:03 UTC (git)
+> Version: r226 / d7bdc0e8
 KB METADATA -->
 
 ## Step 2: Min-Max Glorium Farming (38k Fervor Strategy)
