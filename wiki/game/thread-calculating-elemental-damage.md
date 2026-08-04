@@ -11,7 +11,7 @@ tags: []
 
 <!-- KB METADATA
 > Last edited: 2026-08-04 04:02 UTC (git)
-> Version: r202 / ef168772
+> Version: r203 / d69efa98
 KB METADATA -->
 
 # Thread Calculating Elemental Damage
