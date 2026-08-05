@@ -7,7 +7,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-08-05 04:04 UTC (git)
-> Version: r388 / ccae8fb6
+> Version: r389 / dc75d87a
 KB METADATA -->
 
 The Slimy monorepo hosts web, bot, and supporting packages with shared CI and infrastructure documentation.

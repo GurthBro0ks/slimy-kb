@@ -1,5 +1,5 @@
 {
-  "ts": "20260805T025124Z",
+  "ts": "20260805T145224Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -85,14 +85,14 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "c8a1e65a25ad",
-      "commit_subject": "fix: enforce all-source startup context data boundary",
+      "commit_hash": "7431d8e1828f",
+      "commit_subject": "feat: isolate project authority and enforce prompt contracts",
       "dirty": true,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 0
+        "behind": 1
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -214,8 +214,8 @@
       "relative_path": ".codex/.tmp/plugins",
       "ok": true,
       "branch": "master",
-      "commit_hash": "d6169bef126b",
-      "commit_subject": "Update Picsart .app.json to use new org app ID (#375)",
+      "commit_hash": "11c74d6ba24d",
+      "commit_subject": "Add ClickUp website URL (#384)",
       "dirty": false,
       "remote": null,
       "ahead_behind": null,
@@ -229,7 +229,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "93574ec91ccf",
+      "commit_hash": "3f7bb0210798",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,
