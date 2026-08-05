@@ -10,8 +10,8 @@ tags: [relic]
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-08-05 04:04 UTC (git)
-> Version: r207 / dc75d87a
+> Last edited: 2026-08-05 16:05 UTC (git)
+> Version: r208 / bb1b320a
 KB METADATA -->
 
 # Thread Ultimate Divine Dragon
