@@ -11,7 +11,7 @@ tags: [relic,biozilla,goldfish,clam,hamster,mantis,push,civ]
 
 <!-- KB METADATA
 > Last edited: 2026-08-04 16:03 UTC (git)
-> Version: r204 / d7bdc0e8
+> Version: r205 / 9caddad9
 KB METADATA -->
 
 # Thread Biozilla Relics
