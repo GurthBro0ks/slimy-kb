@@ -1,5 +1,5 @@
 {
-  "ts": "20260806T025324Z",
+  "ts": "20260806T145324Z",
   "hostname": "unknown",
   "count": 13,
   "repos": [
@@ -85,14 +85,14 @@
       "relative_path": "slimy-harness",
       "ok": true,
       "branch": "main",
-      "commit_hash": "7431d8e1828f",
-      "commit_subject": "feat: isolate project authority and enforce prompt contracts",
+      "commit_hash": "fc9a0b371a00",
+      "commit_subject": "fix(harness): seed isolated project feature authority",
       "dirty": true,
       "remote": "github.com:GurthBro0ks/slimy-harness",
       "ahead_behind": {
         "base": "origin/main",
         "ahead": 0,
-        "behind": 1
+        "behind": 2
       },
       "kb_bridge_present": false,
       "kb_harness_present": true,
@@ -201,7 +201,7 @@
       "remote": "github.com:GurthBro0ks/slimy-monorepo",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 412,
+        "ahead": 414,
         "behind": 5
       },
       "kb_bridge_present": false,
@@ -229,7 +229,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "3904ac86837f",
+      "commit_hash": "b450fa08d4cc",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,
