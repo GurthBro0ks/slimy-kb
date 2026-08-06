@@ -7,8 +7,8 @@
 > Status: reviewed
 
 <!-- KB METADATA
-> Last edited: 2026-08-05 16:05 UTC (git)
-> Version: r379 / d117220e
+> Last edited: 2026-08-06 04:06 UTC (git)
+> Version: r380 / 0c666bee
 KB METADATA -->
 
 Canonical server state snapshot for slimy-nuc2. See also [NUC Topology and Services](nuc-topology-and-services.md) for cross-NUC service placement.
