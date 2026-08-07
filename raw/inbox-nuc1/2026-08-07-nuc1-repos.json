@@ -1,0 +1,242 @@
+{
+  "ts": "20260807T025424Z",
+  "hostname": "unknown",
+  "count": 13,
+  "repos": [
+    {
+      "name": "Slimefun4",
+      "path": "/home/slimy/src/plugins/Slimefun4",
+      "relative_path": "src/plugins/Slimefun4",
+      "ok": true,
+      "branch": "experimental",
+      "commit_hash": "5374034c8713",
+      "commit_subject": "[CI skip] Migrate config .github/renovate.json (#4314)",
+      "dirty": false,
+      "remote": "github.com/Slimefun/Slimefun4",
+      "ahead_behind": {
+        "base": "origin/master",
+        "ahead": 1,
+        "behind": 4
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    },
+    {
+      "name": "PrivateStorage",
+      "path": "/home/slimy/src/plugins/PrivateStorage",
+      "relative_path": "src/plugins/PrivateStorage",
+      "ok": true,
+      "branch": "master",
+      "commit_hash": "5832db216f29",
+      "commit_subject": "Merge pull request #19 from variananora/rc-27-update",
+      "dirty": false,
+      "remote": "github.com:Slimefun-Addon-Community/PrivateStorage",
+      "ahead_behind": {
+        "base": "origin/master",
+        "ahead": 0,
+        "behind": 0
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    },
+    {
+      "name": "DynaTech",
+      "path": "/home/slimy/src/plugins/DynaTech",
+      "relative_path": "src/plugins/DynaTech",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "c6f32ec26c13",
+      "commit_subject": ":arrow_up: chore(slimefun): Move to latest slimefun commit to appease build gods",
+      "dirty": false,
+      "remote": "github.com:ProfElements/DynaTech",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 0
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    },
+    {
+      "name": "mission-control",
+      "path": "/home/slimy/mission-control",
+      "relative_path": "mission-control",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "636cf1386b8b",
+      "commit_subject": "fix(reports): render full run validation metadata",
+      "dirty": false,
+      "remote": "github.com:GurthBro0ks/mission-control",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 0
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": true,
+      "dirty_count": 0
+    },
+    {
+      "name": "slimy-harness",
+      "path": "/home/slimy/slimy-harness",
+      "relative_path": "slimy-harness",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "fc9a0b371a00",
+      "commit_subject": "fix(harness): seed isolated project feature authority",
+      "dirty": true,
+      "remote": "github.com:GurthBro0ks/slimy-harness",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 2
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": true,
+      "dirty_count": 1
+    },
+    {
+      "name": "kb",
+      "path": "/home/slimy/kb",
+      "relative_path": "kb",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "78d8ac7cbff2",
+      "commit_subject": "kb: auto-compile game knowledge 2026-07-22-0000",
+      "dirty": true,
+      "remote": "github.com:GurthBro0ks/slimy-kb",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 1
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": true,
+      "dirty_count": 1
+    },
+    {
+      "name": "ned-autonomous",
+      "path": "/home/slimy/ned-autonomous",
+      "relative_path": "ned-autonomous",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "2741fa6d9496",
+      "commit_subject": "docs: update project bookkeeping",
+      "dirty": false,
+      "remote": "github.com:GurthBro0ks/ned-autonomous",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 0
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": true,
+      "dirty_count": 0
+    },
+    {
+      "name": "stoat-source",
+      "path": "/home/slimy/stoat-source",
+      "relative_path": "stoat-source",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "bd987bf72aed",
+      "commit_subject": "chore: update unicode emoji list (#781)",
+      "dirty": false,
+      "remote": "github.com:stoatchat/stoatchat",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 0
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    },
+    {
+      "name": "mailbox_outbox",
+      "path": "/home/slimy/nuc-comms/mailbox_outbox",
+      "relative_path": "nuc-comms/mailbox_outbox",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "db291fe1733e",
+      "commit_subject": "chore: keep mailbox generated docs local-only",
+      "dirty": false,
+      "remote": null,
+      "ahead_behind": null,
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    },
+    {
+      "name": "slimy-chat",
+      "path": "/home/slimy/slimy-chat",
+      "relative_path": "slimy-chat",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "3c1143645769",
+      "commit_subject": "docs: update project bookkeeping",
+      "dirty": false,
+      "remote": "github.com:GurthBro0ks/slime.chat",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 0,
+        "behind": 0
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": true,
+      "dirty_count": 0
+    },
+    {
+      "name": "slimy-monorepo",
+      "path": "/home/slimy/.qoder-server/slimy-monorepo",
+      "relative_path": ".qoder-server/slimy-monorepo",
+      "ok": true,
+      "branch": null,
+      "commit_hash": "a004f101a91d",
+      "commit_subject": "docs: auto-sync project docs from slimy-nuc1 2026-04-11",
+      "dirty": false,
+      "remote": "github.com:GurthBro0ks/slimy-monorepo",
+      "ahead_behind": {
+        "base": "origin/main",
+        "ahead": 414,
+        "behind": 5
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": true,
+      "dirty_count": 0
+    },
+    {
+      "name": "plugins",
+      "path": "/home/slimy/.codex/.tmp/plugins",
+      "relative_path": ".codex/.tmp/plugins",
+      "ok": true,
+      "branch": "master",
+      "commit_hash": "11c74d6ba24d",
+      "commit_subject": "Add ClickUp website URL (#384)",
+      "dirty": false,
+      "remote": null,
+      "ahead_behind": null,
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    },
+    {
+      "name": "memories",
+      "path": "/home/slimy/.codex/memories",
+      "relative_path": ".codex/memories",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "b450fa08d4cc",
+      "commit_subject": "Initialize Codex git baseline",
+      "dirty": false,
+      "remote": null,
+      "ahead_behind": null,
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    }
+  ]
+}
