@@ -27,17 +27,24 @@ if [[ -f ~/.config/slimy/webhooks.env ]]; then
 fi
 
 # Collect compile candidates (same logic as wiki CLI)
+# NOTE: matches tools/wiki:collect_compile_candidates(). Previously this had two bugs:
+# (1) the unguarded per-line grep died under `set -e` on the first Sources line with
+#     zero raw/ matches, so the function always returned the same stale ~14 paths
+#     regardless of true KB state; (2) `referenced` was never populated, so dedup was
+#     a no-op. See wiki/log.md 2026-06-30T22:25Z and tools/proposals/2026-07-01-compile-loop-fix.md.
 collect_compile_candidates() {
     local -A referenced=()
-    local wiki_file ref
+    local wiki_file ref raw_rel
     local -a source_lines=()
 
     while IFS= read -r wiki_file; do
         [[ -f "$wiki_file" ]] || continue
         mapfile -t source_lines < <(grep -hE '^> Sources:' "$wiki_file" 2>/dev/null || true)
-        for ref in "${source_lines[@]}"; do
-            grep -oE 'raw/[A-Za-z0-9._/-]+\.md' <<< "$ref" 2>/dev/null
-        done
+        [[ ${#source_lines[@]} -eq 0 ]] && continue
+        while IFS= read -r ref; do
+            [[ -n "$ref" ]] || continue
+            referenced["$ref"]=1
+        done < <(printf '%s\n' "${source_lines[@]}" | grep -hoE 'raw/[A-Za-z0-9._/-]+\.md' 2>/dev/null || true)
     done < <(find "$KB_ROOT/wiki" -type f -name '*.md' ! -name '_*.md' 2>/dev/null)
 
     find "$KB_ROOT/raw" -type f -name '*.md' -printf '%P\n' 2>/dev/null | sort | while IFS= read -r raw_rel; do
@@ -46,6 +53,15 @@ collect_compile_candidates() {
         fi
     done
 }
+
+# Safety cap: this function's output was silently wrong for weeks (see note above),
+# so the true backlog is large and mostly auto-generated daily digest snapshots never
+# intended as standalone wiki articles (see tools/proposals/2026-07-01-compile-loop-fix.md
+# for the exclusion-glob policy decision still pending operator sign-off). Auto-launching
+# a child compile for an oversized candidate set is expensive and was never validated —
+# don't do it blindly now that the count is accurate. Above this threshold, report instead
+# of dispatching; small/normal backlogs still auto-compile as before.
+MAX_AUTO_COMPILE_CANDIDATES=25
 
 echo "[kb-compile-if-needed] Checking for uncompiled raw files..."
 
@@ -67,6 +83,27 @@ done
 
 if [[ "$FORCE" != "--force" && "$DRY_RUN" == "--dry-run" ]]; then
     echo "[kb-compile-if-needed] DRY-RUN: would trigger compile for $count file(s)"
+    exit 0
+fi
+
+if [[ "$FORCE" != "--force" && "$count" -gt "$MAX_AUTO_COMPILE_CANDIDATES" ]]; then
+    echo "[kb-compile-if-needed] Candidate count ($count) exceeds MAX_AUTO_COMPILE_CANDIDATES ($MAX_AUTO_COMPILE_CANDIDATES) — skipping auto-dispatch."
+    BACKLOG_NOTE="$KB_ROOT/output/compile-backlog-$(date -u +%Y%m%d-%H%M%S).md"
+    mkdir -p "$KB_ROOT/output"
+    {
+        echo "# Compile Backlog Too Large For Auto-Dispatch — $TODAY $HOST"
+        echo ""
+        echo "> Candidate count: $count (threshold: $MAX_AUTO_COMPILE_CANDIDATES)"
+        echo ""
+        echo "Auto-dispatch was skipped to avoid launching an expensive child compile"
+        echo "session on every future agent-session finish. Most of this backlog is"
+        echo "expected to be auto-generated daily digest snapshots, not real compile"
+        echo "candidates — see tools/proposals/2026-07-01-compile-loop-fix.md for the"
+        echo "pending exclusion-glob policy decision. Run \`wiki compile-candidates\`"
+        echo "or \`bash tools/kb-compile-if-needed.sh --dry-run\` to review the full list,"
+        echo "or pass --force to dispatch anyway."
+    } > "$BACKLOG_NOTE"
+    echo "[kb-compile-if-needed] Wrote backlog note: $BACKLOG_NOTE"
     exit 0
 fi
 

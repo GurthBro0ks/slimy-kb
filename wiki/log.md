@@ -36159,3 +36159,200 @@ KB METADATA -->
 - notes: stage1.86 run: todos=11 nuc1_items=437 nuc1_evidence=YES
 
 
+## [2026-06-13 10:58] compile | child-compile 20260613-105538 priority-batch verification
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: child-compile 20260613-105538 priority-batch verification
+- commit: 0283ef32
+- notes: Fourth verification run of priority batch 20260611-230008. Zero raw/ changes since baseline 1b561d5a; all 14 unique priority inputs already sourced into wiki articles and predate them. No article or _concepts.md content changes. Updated _index.md Last-compiled note. Deferred: seed-progress-history (historical, sourced) + non-priority machine-generated candidates. Noted out-of-scope index gap (agents-plugin-ecosystem, ned-autonomous, slimy-discord-bot) for lint/wiki-manager.
+
+
+## [2026-06-13 12:35] compile | child-compile 20260613-123035 priority-batch verification + 2 fidelity fixes
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/architecture/nuc2-server-state.md
+  - wiki/projects/workspace-agent-rules.md
+  - wiki/_index.md
+- summary: child-compile 20260613-123035 priority-batch verification + 2 fidelity fixes (authored; left uncommitted)
+- commit: 4103f69c
+- notes: Fifth verification of priority batch 20260611-230008. raw/ unchanged since baseline 1b561d5a. Caught + fixed two defects missed by 4 prior passes: (1) nuc2-server-state.md pm_updown remote hyphens->underscores to match source seed-server-state.md; (2) workspace-agent-rules.md added seed-clawd-agents.md to Sources (SLB/meta-learning/memory-tiers/three-mistakes content originates there, not in seed-workspace-agents.md). These edits were authored in the working tree but were NEVER committed; they were re-verified against source and committed by run 20260625-194440 (see next entry). No _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced) + non-priority machine-generated candidates.
+
+
+## [2026-06-25 19:44] compile | child-compile 20260625-194440 priority-batch verification + commit pending 0613 fixes
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/_index.md
+  - wiki/log.md
+  - wiki/architecture/nuc2-server-state.md (committed prior-run fix)
+  - wiki/projects/workspace-agent-rules.md (committed prior-run fix)
+- summary: child-compile 20260625-194440 priority-batch verification + commit of 0613 pending fidelity fixes
+- commit: 4103f69c
+- notes: Sixth verification of priority batch 20260611-230008. Re-pulled KB (already up to date). Re-confirmed zero raw/ drift via git-log + mtime sweep: all 14 unique priority inputs predate their referencing wiki articles and none changed since baseline 1b561d5a (seed-* last touched 2026-04-04 init except seed-clawd-agents.md in its own compile 282a6e57; April research/learning inputs predate Jun 11/13 compiles). Found the 0613 verification pass's two fidelity fixes staged in the working tree but never committed; re-verified both against source this run — (1) nuc2-server-state.md pm_updown remote underscores matches seed-server-state.md:19 + 4 other KB occurrences; (2) workspace-agent-rules.md SLB/meta-learning/memory-tiers/three-mistakes sections confirmed (grep) to originate from seed-clawd-agents.md, absent from seed-workspace-agents.md which ends at "Make It Yours" — and committed them. Also includes routine append-only growth of logs/game-compile.log (separate game-kb-compile cron). No new articles, no one-line index summary changes, no _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced) + non-priority machine-generated candidates (digests/state-snapshots/session-summaries/changelogs/game discord-exports). Out-of-scope curated-index gap re-noted for lint/wiki-manager: projects/agents-plugin-ecosystem, projects/ned-autonomous, projects/slimy-discord-bot.
+
+
+
+
+## [2026-06-28 11:48] compile | child-compile 20260628-114833 priority-batch twentieth verification
+- actor: kb-compile
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_index.md
+  - wiki/log.md
+- summary: child-compile 20260628-114833 twentieth verification of priority batch 20260611-230008
+- commit: pending
+- notes: Twentieth verification run of the 20260611-230008 priority batch. Re-read all 20 listed priority inputs (including duplicates). All inputs confirmed fully compiled: seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → both rules articles; seed-server-state.md → nuc2-server-state.md; seed-progress-history.md deferred (large NUC2 session log, no standalone article warranted); 2026-04-22-certbot-acme-fix → nginx-certbot-acme-fix.md; all 2026-04-05 research/agent-learnings → troubleshooting articles (kb-autofinish-autocompile-fix, nuc1-wrapper-recursion-fix, nuc1-repo-remote-ssh-normalization, nuc2-repo-remote-ssh-normalization). No new wiki content required. No _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced). Updated _index.md Last-compiled note.
+
+
+## [2026-06-28 11:56] compile | child-compile 20260628-115614 priority-batch twenty-first verification
+- actor: kb-compile
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_index.md
+  - wiki/log.md
+- summary: child-compile 20260628-115614 twenty-first verification of priority batch 20260611-230008
+- commit: pending
+- notes: Twenty-first verification run of the 20260611-230008 priority batch. Re-read all 20 listed priority inputs (including duplicates). All inputs confirmed fully compiled: seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → both rules articles; seed-server-state.md → nuc2-server-state.md; seed-progress-history.md deferred (large NUC2 session log, no standalone article warranted); 2026-04-22-certbot-acme-fix → nginx-certbot-acme-fix.md; all 2026-04-05 research/agent-learnings → troubleshooting articles (kb-autofinish-autocompile-fix, nuc1-wrapper-recursion-fix, nuc1-repo-remote-ssh-normalization, nuc2-repo-remote-ssh-normalization). No new wiki content required. No _concepts.md change. Updated _index.md Last-compiled note.
+## [2026-06-29 20:33] --event | compile
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: compile
+- commit: 95d05590
+- notes: --actor
+
+
+
+
+## [2026-06-29 20:49] compile | child-compile 20260629-204959 priority-batch twenty-third verification
+- actor: kb-compile
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_index.md
+  - wiki/log.md
+- summary: child-compile 20260629-204959 twenty-third verification of priority batch 20260611-230008
+- commit: pending
+- notes: Twenty-third verification run of the 20260611-230008 priority batch. Re-read all 20 listed priority inputs (including duplicates). All inputs confirmed fully compiled: seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → both rules articles; seed-server-state.md → nuc2-server-state.md; seed-progress-history.md deferred (large NUC2 session log, no standalone article warranted); 2026-04-22-certbot-acme-fix → nginx-certbot-acme-fix.md; all 2026-04-05 research/agent-learnings → troubleshooting articles (kb-autofinish-autocompile-fix, nuc1-wrapper-recursion-fix, nuc1-repo-remote-ssh-normalization, nuc2-repo-remote-ssh-normalization). Source citations verified in all target articles. No new wiki content required. No _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced).
+
+
+## [2026-06-29 20:53] compile | child-compile 20260629-205153 priority-batch twenty-fourth verification
+- actor: kb-compile
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_index.md
+  - wiki/log.md
+- summary: child-compile 20260629-205153 twenty-fourth verification of priority batch 20260611-230008
+- commit: pending
+- notes: Twenty-fourth verification run of the 20260611-230008 priority batch. Re-read all 20 listed priority inputs (including duplicates). All inputs confirmed fully compiled: seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → both rules articles; seed-server-state.md → nuc2-server-state.md; seed-progress-history.md deferred (large NUC2 session log, no standalone article warranted); 2026-04-22-certbot-acme-fix → nginx-certbot-acme-fix.md; all 2026-04-05 research/agent-learnings → troubleshooting articles (kb-autofinish-autocompile-fix, nuc1-wrapper-recursion-fix, nuc1-repo-remote-ssh-normalization, nuc2-repo-remote-ssh-normalization). Source citations verified in all target articles. No new wiki content required. No _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced).
+
+
+## [2026-06-29 20:58] compile | child-compile 20260629-205825 priority-batch twenty-fifth verification
+- actor: kb-compile
+- host: slimy-nuc2
+- affected_paths:
+  - wiki/_index.md
+  - wiki/log.md
+- summary: child-compile 20260629-205825 twenty-fifth verification of priority batch 20260611-230008
+- commit: pending
+- notes: Twenty-fifth verification run of the 20260611-230008 priority batch. Re-read all 20 listed priority inputs (including duplicates). All inputs confirmed fully compiled: seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → both rules articles; seed-server-state.md → nuc2-server-state.md; seed-progress-history.md deferred (large NUC2 session log, no standalone article warranted); 2026-04-22-certbot-acme-fix → nginx-certbot-acme-fix.md; all 2026-04-05 research/agent-learnings → troubleshooting articles (kb-autofinish-autocompile-fix, nuc1-wrapper-recursion-fix, nuc1-repo-remote-ssh-normalization, nuc2-repo-remote-ssh-normalization). Source citations verified in all target articles. No new wiki content required. No _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced).
+
+
+## [2026-06-30 04:20] compile | child-compile 20260630-042020 priority-batch twenty-sixth verification
+- actor: kb-compile
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/_index.md
+  - wiki/log.md
+- summary: child-compile 20260630-042020 twenty-sixth verification of priority batch 20260611-230008
+- commit: pending
+- notes: Twenty-sixth verification run of the 20260611-230008 priority batch. Re-read all 20 listed priority inputs (including duplicates). All inputs confirmed fully compiled: seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → both rules articles; seed-server-state.md → nuc2-server-state.md; seed-progress-history.md deferred (large NUC2 session log, no standalone article warranted); 2026-04-22-certbot-acme-fix → nginx-certbot-acme-fix.md; all 2026-04-05 research/agent-learnings → troubleshooting articles (kb-autofinish-autocompile-fix, nuc1-wrapper-recursion-fix, nuc1-repo-remote-ssh-normalization, nuc2-repo-remote-ssh-normalization). Source citations verified in all target articles. No new wiki content required. No _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced).
+
+
+## [2026-06-30 17:41] compile | child-compile 20260630-174116 priority-batch twenty-seventh verification
+- actor: kb-compile
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/_index.md
+  - wiki/log.md
+- summary: child-compile 20260630-174116 twenty-seventh verification of priority batch 20260611-230008
+- commit: pending
+- notes: Twenty-seventh verification run of the 20260611-230008 priority batch. Re-read all 20 listed priority inputs (including duplicates). All inputs confirmed fully compiled: seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → both rules articles; seed-server-state.md → nuc2-server-state.md; seed-progress-history.md deferred (large NUC2 session log, no standalone article warranted); 2026-04-22-certbot-acme-fix → nginx-certbot-acme-fix.md; all 2026-04-05 research/agent-learnings → troubleshooting articles (kb-autofinish-autocompile-fix, nuc1-wrapper-recursion-fix, nuc1-repo-remote-ssh-normalization, nuc2-repo-remote-ssh-normalization). Source citations verified in all target articles. No new wiki content required. No _concepts.md change. Deferred unchanged: seed-progress-history.md (historical, sourced).
+
+## [2026-06-30 21:11] compile | child-compile 20260630-211114 priority-batch twenty-eighth no-op (LOOP FLAGGED)
+- actor: kb-compile
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/log.md
+- summary: child-compile 20260630-211114 — twenty-eighth consecutive re-verification of the same already-compiled priority batch 20260611-230008; loop escalated, no wiki rewrite performed
+- commit: pending
+- notes: Re-verified via three independent checks (not a full re-read, prior 27 runs already did that): (1) none of the 20 priority inputs appear in `wiki compile-candidates` output; (2) the two ambiguous raw files (2026-04-05-slimy-nuc1-wrapper-test-claude.md, 2026-04-05-slimy-nuc2-autofinish-parity-check.md) are both referenced from wiki/log.md and their respective troubleshooting articles; (3) `seed-clawd-agents.md` (the only priority input with a post-2026-04-04 mtime) was co-committed with wiki/projects/clawd-agent-rules.md and wiki/projects/clawd-workspace-governance.md in commit 282a6e57 (kb: child-compile 20260611-230008) — the original compile of this exact batch. All 20 inputs remain fully handled; seed-progress-history.md remains explicitly deferred (large historical NUC2 session log, no standalone article warranted). `git show --stat` on the prior commit (94ceedfa, run twenty-seven) confirms its only delta was the `_index.md` counter line plus this log file — i.e. every run since 282a6e57 has re-verified and produced no new wiki content. This indicates the upstream dispatcher is repeatedly re-firing a completed batch (10 child-compile commits to _index.md in the 4 days 2026-06-27 to 2026-06-30 alone, all against batch 20260611-230008) rather than advancing to new compile candidates. Flagged in claude-progress.md for operator attention; not auto-resolvable from inside this job. wiki/_index.md NOT rewritten this run (no new content; avoiding further header churn). No _concepts.md change.
+
+## [2026-06-30 21:51] compile | child-compile 20260630-215153 priority-batch twenty-ninth no-op (LOOP STILL FLAGGED)
+- actor: kb-compile
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/log.md
+- summary: child-compile 20260630-215153 — twenty-ninth consecutive re-dispatch of the same already-compiled priority batch 20260611-230008; no wiki rewrite, deferring to prior loop flag
+- commit: pending
+- notes: Independently re-verified all 19 listed priority inputs (one duplicate set) against current wiki state: every raw file exists on disk and is cited in a `Sources:` line of an existing, current wiki article (clawd-agent-rules.md, workspace-agent-rules.md, nuc2-server-state.md, nginx-certbot-acme-fix.md, kb-autofinish-autocompile-fix.md, nuc1-wrapper-recursion-fix.md, nuc1-repo-remote-ssh-normalization.md, nuc2-repo-remote-ssh-normalization.md). seed-progress-history.md remains explicitly deferred (large historical NUC2 session log, no standalone article warranted — consistent with all prior runs). `wiki compile-candidates` output contains none of the 19 priority inputs. No new wiki content required; _index.md and _concepts.md left unchanged to avoid further header churn (last substantive index update was run twenty-seven, 94ceedfa). This is the same dispatch-loop condition already flagged in claude-progress.md (2026-06-30T21:11Z entry, "DISCOVERY: dispatch loop flagged, no new content") and is not auto-resolvable from inside this job — re-flagging only, no new escalation content added.
+
+## [2026-06-30 22:05] compile | child-compile 20260630-220540 priority-batch thirtieth no-op (LOOP STILL FLAGGED)
+- actor: kb-compile
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/log.md
+- summary: child-compile 20260630-220540 — thirtieth consecutive re-dispatch of the same already-compiled priority batch 20260611-230008; no wiki rewrite, deferring to prior loop flag
+- commit: pending
+- notes: Independently re-verified all 14 distinct priority inputs (listed with duplicates in the dispatched task) against current wiki state: every raw file exists on disk and is cited in a `Sources:` line of an existing, current wiki article (clawd-agent-rules.md, workspace-agent-rules.md, nuc2-server-state.md, nginx-certbot-acme-fix.md, kb-autofinish-autocompile-fix.md, nuc1-wrapper-recursion-fix.md, nuc1-repo-remote-ssh-normalization.md, nuc2-repo-remote-ssh-normalization.md, auth-and-retired-services.md). seed-progress-history.md remains explicitly deferred (large historical NUC2 session log, no standalone article warranted — consistent with all prior runs). `wiki compile-candidates` output contains none of the priority inputs. No new wiki content required; _index.md and _concepts.md left unchanged to avoid further header churn (last substantive index update was run twenty-seven, 94ceedfa). This is the same dispatch-loop condition already flagged in claude-progress.md (2026-06-30T21:11Z entry) and re-flagged in runs 28/29 — re-flagging only, no new escalation content added.
+## [2026-06-30 22:14] compile | child-compile 20260630-221354 priority-batch thirty-first no-op (LOOP STILL FLAGGED)
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: child-compile 20260630-221354 priority-batch thirty-first no-op (LOOP STILL FLAGGED)
+- commit: 233a38b6
+- notes: child-compile 20260630-221354 — thirty-first consecutive re-dispatch of the same already-compiled priority batch 20260611-230008; no wiki rewrite, deferring to prior loop flag. Independently re-verified all 14 distinct priority inputs against current wiki state: every raw file exists on disk and is cited in a Sources: line of an existing, current wiki article (clawd-agent-rules.md, workspace-agent-rules.md, nuc2-server-state.md, nginx-certbot-acme-fix.md, kb-autofinish-autocompile-fix.md, nuc1-wrapper-recursion-fix.md, nuc1-repo-remote-ssh-normalization.md, nuc2-repo-remote-ssh-normalization.md, auth-and-retired-services.md). seed-progress-history.md remains explicitly deferred (large historical NUC2 session log, no standalone article warranted - consistent with all prior runs). Searched /home/slimy for the dispatch source of batch ID 20260611-230008: no crontab entry, systemd timer, or sequencer config references it; the only hits are wiki/log.md, claude-progress.md, and kb-bridge/outbox files, none of which are a scheduler. Dispatch source is outside filesystem visibility from this job (likely an external harness scheduler) and not auto-resolvable here. No new wiki content required; _index.md and _concepts.md left unchanged to avoid further header churn. Re-flagging only, no new escalation content beyond confirming the dispatch source is not in any local cron/systemd config.
+
+
+
+## [2026-06-30 22:25] compile | child-compile 20260630-222015 priority-batch thirty-second — ROOT CAUSE FOUND (loop, not yet auto-fixed)
+- actor: kb-compile
+- host: slimy-nuc1
+- affected_paths:
+  - (none — fix written then reverted; see notes)
+- summary: child-compile 20260630-222015 — root cause of the 31-run dispatch loop identified in tools/kb-compile-if-needed.sh; fix not shipped because it would convert a cheap no-op loop into an expensive 359-file loop with no convergence mechanism
+- commit: pending
+- notes: Found the actual mechanism behind all 31 prior no-op runs. `tools/kb-compile-if-needed.sh:collect_compile_candidates()` has two bugs not present in the canonical `tools/wiki collect_compile_candidates()`: (1) `set -e` is active at the top of the script, and the per-line `grep -oE 'raw/...\.md' <<< "$ref"` inside the Sources-line loop is unguarded — the first `> Sources:` line citing zero raw/ paths (found at wiki/architecture/slimyai-login-and-session-flow.md, which cites only other wiki pages and /opt/slimy/slimy-monorepo/... source files) makes that grep return exit 1, which under `set -e` kills the function immediately, before the second (dedup) loop ever runs; (2) even if reached, the second loop's `referenced` associative array is never populated (no `referenced[x]=1` assignment exists in the original code) so dedup against it is a no-op anyway. Combined effect: the function always dies at the same point in filesystem traversal order and returns the same ~14-20 stale paths every time, regardless of true KB state — this is why the same priority-batch list (20260611-230008) has been re-dispatched 31 times. Verified by extracting and running the function in isolation with both bugs fixed: candidate count jumps from 14 to 359. Cross-checked against the canonical `tools/wiki compile-candidates` (the "same logic" this function is commented as mirroring) — it independently returns the same 359, confirming this is not a fixed-function artifact but the KB's actual, real, unaddressed backlog: almost entirely auto-generated daily snapshots never intended as individual wiki articles (`raw/research/*-state.md`, `*-kb-health.md`, `*-repo-digests.md`; `raw/inbox-nuc1/*`; `raw/discord-exports/**`; `raw/agent-learnings/*-codex-summary.md` / `*-claude-summary.md`; `raw/changelogs/*`). KB_AGENTS.md documents no exclusion/deferral mechanism for these categories — `seed-progress-history.md`'s 31-run "explicitly deferred" status proves deferral does not remove a candidate from future runs, it only adds prose to a wiki article elsewhere. **Decision made this run:** did NOT ship the two-line fix to kb-compile-if-needed.sh (`git checkout --` reverted it before commit). Shipping detection-only would make `slimy-agent-finish.sh`/`slimy-session-finish.sh` (which call this script after every agent session on the host) launch an expensive ~359-item child-compile prompt on every single session end, forever, since there is still no mechanism to shrink the candidate set to 0. This is strictly worse than the current cheap 14-item no-op loop. **What is actually needed (operator/policy decision, escalated to user this run, not resolved here):** either (a) add an explicit raw/-path exclusion or deferral-ledger mechanism (e.g. a `wiki/_compile-exclusions.md` glob list, mirrored in both `tools/wiki:collect_compile_candidates()` and `tools/kb-compile-if-needed.sh:collect_compile_candidates()`) so auto-generated digest snapshots stop being treated as compile candidates, or (b) change what daily digest collectors write so their output isn't globbed by `*.md` under raw/ at all, or (c) some other policy call. This is not something to decide unilaterally given the blast radius (359 files, two-NUC automation, originally-undocumented intent). No wiki content rewritten, no script change shipped. Flagging this explicitly supersedes runs 28-31's "loop is external, not auto-resolvable" conclusion — the loop source IS local (this script, called from the session-finish hooks), it was just not previously traced past the recursion-guard env var into the actual candidate logic.
+## [2026-07-01 09:01] compile | child-compile 20260701-090133 priority-batch thirty-third no-op (loop still flagged, root cause owned by run 32)
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: child-compile 20260701-090133 priority-batch thirty-third no-op (loop still flagged, root cause owned by run 32)
+- commit: 1c27a9be
+- notes: child-compile 20260701-090133 — thirty-third re-dispatch of the same already-compiled priority batch 20260611-230008; no wiki rewrite. Independently re-verified all 14 distinct priority inputs against current wiki state: every raw file exists on disk and is cited in a Sources: line of an existing, current wiki article (clawd-agent-rules.md, workspace-agent-rules.md, nuc2-server-state.md, nginx-certbot-acme-fix.md, kb-autofinish-autocompile-fix.md, nuc1-wrapper-recursion-fix.md, nuc1-repo-remote-ssh-normalization.md, nuc2-repo-remote-ssh-normalization.md, auth-and-retired-services.md, q1-2026-operational-fixes.md, agent-session-contract.md). seed-progress-history.md remains explicitly deferred (large historical NUC2 session log, no standalone article warranted). wiki compile-candidates confirms none of the 14 priority inputs appear in the true 359-item backlog. Root cause of the dispatch loop (kb-compile-if-needed.sh collect_compile_candidates() dies early under set -e and never populates its dedup array, so it always echoes the same stale ~14 paths) was already found and documented in the 2026-06-30 22:25 thirty-second entry; not re-derived here. Did NOT ship the fix this run either: it remains an operator/policy decision (which raw/ globs are auto-generated snapshots vs. real compile candidates — e.g. some raw/discord-exports/** threads do become wiki/game articles while others don't, so a blanket exclusion would drop real candidates). No new escalation content added; deferring to the existing flag.
+
+
+
+## [2026-07-01 09:42] compile | child-compile 20260701-094256 priority-batch thirty-fourth no-op (loop still flagged, escalating for operator decision)
+- actor: kb-compile
+- host: slimy-nuc1
+- affected_paths:
+  - wiki/_index.md
+- summary: child-compile 20260701-094256 — thirty-fourth re-dispatch of the same already-compiled priority batch 20260611-230008; no wiki content rewrite
+- commit: pending
+- notes: Independently re-verified all 14 distinct priority inputs against current wiki state: every raw file exists on disk and is cited in a `Sources:` line of an existing, current wiki article (clawd-agent-rules.md, workspace-agent-rules.md, nuc2-server-state.md, nginx-certbot-acme-fix.md, kb-autofinish-autocompile-fix.md, nuc1-wrapper-recursion-fix.md, nuc1-repo-remote-ssh-normalization.md, nuc2-repo-remote-ssh-normalization.md), plus broader mentions in auth-and-retired-services.md, agent-session-contract.md, source-of-truth-ledgers.md, session-closeout-pattern.md, q1-2026-operational-fixes.md. seed-progress-history.md remains explicitly deferred (large historical NUC2 session log, no standalone article warranted). No new wiki content required; only wiki/_index.md's compile note was refreshed. Root cause of the dispatch loop was found in the 2026-06-30 22:25 thirty-second entry and re-confirmed by the 2026-07-01 09:01 thirty-third entry (`tools/kb-compile-if-needed.sh:collect_compile_candidates()` dies early under `set -e` and never populates its dedup array, so it always echoes the same stale ~14 paths regardless of true KB state — true backlog is 359 items, mostly auto-generated digest snapshots not intended as standalone articles). Not re-derived here. Did NOT ship a fix this run: two prior runs with full context already found the naive fix strictly worse (14→359 candidates, no convergence, would spawn an expensive compile on every session-end hook) and correctly deferred it as an operator/policy decision (which raw/ globs are auto-generated vs. real candidates, since some discord-exports threads do become real game/ articles). This run escalates the same finding directly to the operator in the session summary rather than only recording it in this log, since three prior log entries alone have not resolved it. Recommended concrete next step: approve an explicit exclusion/deferral glob list (e.g. `wiki/_compile-exclusions.md`) covering `raw/research/*-state.md`, `*-kb-health.md`, `*-repo-digests.md`, `raw/inbox-nuc1/*`, `raw/changelogs/*`, `raw/agent-learnings/*-codex-summary.md`, `*-claude-summary.md`, mirrored in both `tools/wiki` and `tools/kb-compile-if-needed.sh`, so the dispatcher stops re-firing this same stale batch every session.
+## [2026-07-01 09:51] compile | child-compile 20260701-094624 priority-batch thirty-fifth no-op (proposal staged for operator approval)
+- actor: kb-maintenance
+- host: slimy-nuc1
+- affected_paths:
+  - (none)
+- summary: child-compile 20260701-094624 priority-batch thirty-fifth no-op (proposal staged for operator approval)
+- commit: 212fba0e
+- notes: child-compile 20260701-094624 — thirty-fifth re-dispatch of the same already-compiled priority batch 20260611-230008; no wiki content rewrite. Independently re-verified all 14 distinct priority inputs against current wiki state: every raw file exists on disk and is cited in a Sources: line of an existing, current wiki article (clawd-agent-rules.md, workspace-agent-rules.md, nuc2-server-state.md, nginx-certbot-acme-fix.md, kb-autofinish-autocompile-fix.md, nuc1-wrapper-recursion-fix.md, nuc1-repo-remote-ssh-normalization.md, nuc2-repo-remote-ssh-normalization.md, auth-and-retired-services.md, agent-session-contract.md, source-of-truth-ledgers.md, session-closeout-pattern.md, q1-2026-operational-fixes.md). seed-progress-history.md remains explicitly deferred (large historical NUC2 session log, no standalone article warranted, consistent with all prior 34 runs). wiki compile-candidates confirms none of the 14 priority inputs appear in the true 359-item backlog. Root cause (set -e death + unpopulated dedup array in tools/kb-compile-if-needed.sh:collect_compile_candidates()) was found in run 32 and re-confirmed in runs 33-34; not re-derived here. Escalation was log-only for 3 prior runs with no operator action — this run converts the finding into an approvable artifact instead of more prose: tools/proposals/2026-07-01-compile-loop-fix.md, containing the concrete script diff plus a proposed wiki/_compile-exclusions.md glob list, explicitly staged and NOT applied. Also carries forward an unresolved contradiction from run 31 (found no local cron/systemd/sequencer entry for batch 20260611-230008, suggesting the dispatcher itself may be external) alongside run 32's claim the loop is local via session-finish hooks — flagged for the operator to reconcile, not re-investigated here. _index.md left unchanged this run (no new content, avoiding further header churn per runs 33/34 critique).
+
+
