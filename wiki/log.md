@@ -4,8 +4,8 @@
 > Host: slimy-nuc2
 
 <!-- KB METADATA
-> Last edited: 2026-08-08 04:08 UTC (git)
-> Version: r455 / 792d9f7e
+> Last edited: 2026-08-08 17:04 UTC (git)
+> Version: r475 / e69aa70f
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -36354,5 +36354,19 @@ KB METADATA -->
 - summary: child-compile 20260701-094624 priority-batch thirty-fifth no-op (proposal staged for operator approval)
 - commit: 212fba0e
 - notes: child-compile 20260701-094624 — thirty-fifth re-dispatch of the same already-compiled priority batch 20260611-230008; no wiki content rewrite. Independently re-verified all 14 distinct priority inputs against current wiki state: every raw file exists on disk and is cited in a Sources: line of an existing, current wiki article (clawd-agent-rules.md, workspace-agent-rules.md, nuc2-server-state.md, nginx-certbot-acme-fix.md, kb-autofinish-autocompile-fix.md, nuc1-wrapper-recursion-fix.md, nuc1-repo-remote-ssh-normalization.md, nuc2-repo-remote-ssh-normalization.md, auth-and-retired-services.md, agent-session-contract.md, source-of-truth-ledgers.md, session-closeout-pattern.md, q1-2026-operational-fixes.md). seed-progress-history.md remains explicitly deferred (large historical NUC2 session log, no standalone article warranted, consistent with all prior 34 runs). wiki compile-candidates confirms none of the 14 priority inputs appear in the true 359-item backlog. Root cause (set -e death + unpopulated dedup array in tools/kb-compile-if-needed.sh:collect_compile_candidates()) was found in run 32 and re-confirmed in runs 33-34; not re-derived here. Escalation was log-only for 3 prior runs with no operator action — this run converts the finding into an approvable artifact instead of more prose: tools/proposals/2026-07-01-compile-loop-fix.md, containing the concrete script diff plus a proposed wiki/_compile-exclusions.md glob list, explicitly staged and NOT applied. Also carries forward an unresolved contradiction from run 31 (found no local cron/systemd/sequencer entry for batch 20260611-230008, suggesting the dispatcher itself may be external) alongside run 32's claim the loop is local via session-finish hooks — flagged for the operator to reconcile, not re-investigated here. _index.md left unchanged this run (no new content, avoiding further header churn per runs 33/34 critique).
+
+
+## [2026-08-10 00:17] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - raw/inbox-nuc1/2026-08-08-nuc1-gear-digest.json
+  - raw/inbox-nuc1/2026-08-08-nuc1-gear-digest.md
+  - raw/inbox-nuc1/2026-08-08-nuc1-repos.json
+  - raw/inbox-nuc1/2026-08-08-nuc1-repos.md
+  - raw/inbox-nuc1/2026-08-08-nuc1-state.md
+- summary: 12h maintenance run
+- commit: 54f3b6f3
+- notes: auto-maintenance from kb-maintenance.sh 2026-08-10T00:17:16Z
 
 

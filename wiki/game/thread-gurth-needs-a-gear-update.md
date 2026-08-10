@@ -11,7 +11,7 @@ tags: [goldfish,push,arena,gear,organ,brain,minion,rift]
 
 <!-- KB METADATA
 > Last edited: 2026-08-08 04:08 UTC (git)
-> Version: r218 / 792d9f7e
+> Version: r219 / 01ccd9e9
 KB METADATA -->
 
 # Thread Gurth Needs A Gear Update
