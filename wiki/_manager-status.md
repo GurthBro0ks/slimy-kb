@@ -1,83 +1,68 @@
 # Wiki Manager Status
 
 > Category: concepts
-> Updated: 2026-08-08T04:08:52Z
+> Updated: 2026-08-10T00:18:02Z
 
 <!-- KB METADATA
-> Last edited: 2026-08-08 04:08 UTC (git)
-> Version: r403 / 01ccd9e9
+> Last edited: 2026-08-10 00:17 UTC (git)
+> Version: r404 / 0478d99d
 KB METADATA -->
 
-**Last run:** 2026-08-08T04:08:52Z
+**Last run:** 2026-08-10T00:18:02Z
 **Stage:** 1.86
 **Backend:** stub
-**NUC1 evidence:** consumed
+**NUC1 evidence:** none
 **NUC1 host:** slimy-nuc1
 
 ## Queue Summary
 
-- Total tasks: 11
+- Total tasks: 6
 - NEW: 0
-- PERSISTING: 11
+- PERSISTING: 6
 - RESOLVED (this run): 0
 
 ## Promotion Counts
 
-- **candidate:** 11
+- **candidate:** 6
 - **emerging:** 0
 - **cooling_down:** 0
 - **not_candidate:** 0
 
 ## Freshness Bands
 
-- **fresh** (< 24h): 11
+- **fresh** (< 24h): 6
 - **aging** (24-72h): 0
 - **stale** (> 72h): 0
 
 ## By Kind
 
-- **repo_drift:** 5
 - **wiki_gap:** 6
 
 ## Stable Pages Updated
 
-- [nuc1-current-state.md](architecture/nuc1-current-state.md): YES
+- [nuc1-current-state.md](architecture/nuc1-current-state.md): SKIPPED (no NUC1 evidence)
 - [nuc2-current-state.md](architecture/nuc2-current-state.md): YES
 - [repo-health-overview.md](projects/repo-health-overview.md): YES
-- [_project-health-index.md](projects/_project-health-index.md): YES
+- [_project-health-index.md](projects/_project-health-index.md): SKIPPED
 - [_candidate-promotion-rules.md](../wiki/_candidate-promotion-rules.md): YES (always updated)
-
-## Project Pages Updated This Run
-
-- slimy-monorepo.md
 
 ## Harness Candidates
 
-- **[todo-2026-08-08-001]** NUC1 repo has uncommitted changes: slimy-harness (severity: high, promotion: candidate, fresh)
-- **[todo-2026-08-08-002]** NUC1 repo has uncommitted changes: kb (severity: high, promotion: candidate, fresh)
-- **[todo-2026-08-08-003]** NUC1 repo diverged from remote: Slimefun4 (severity: high, promotion: candidate, fresh)
-- **[todo-2026-08-08-004]** NUC1 repo diverged from remote: slimy-monorepo (severity: high, promotion: candidate, fresh)
-- **[todo-2026-08-08-005]** Resolve 86 orphaned wiki pages (severity: high, promotion: candidate, fresh)
-- **[todo-2026-08-08-006]** Review orphaned page: game/30-stone-corrections.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-08-08-007]** Review orphaned page: game/biozilla-relics.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-08-08-008]** Review orphaned page: game/compass-guide.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-08-08-009]** Review orphaned page: game/gear-leveling-guide.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-08-08-010]** Review orphaned page: game/glorium-guide.md (severity: high, promotion: candidate, fresh)
-- **[todo-2026-08-08-011]** NUC1 KB has uncommitted changes (severity: high, promotion: candidate, fresh)
+- **[todo-2026-08-10-001]** Resolve 86 orphaned wiki pages (severity: high, promotion: candidate, fresh)
+- **[todo-2026-08-10-002]** Review orphaned page: game/30-stone-corrections.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-08-10-003]** Review orphaned page: game/biozilla-relics.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-08-10-004]** Review orphaned page: game/compass-guide.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-08-10-005]** Review orphaned page: game/gear-leveling-guide.md (severity: high, promotion: candidate, fresh)
+- **[todo-2026-08-10-006]** Review orphaned page: game/glorium-guide.md (severity: high, promotion: candidate, fresh)
 
 ## Task List
 
-🔄 [todo-2026-08-08-001] NUC1 repo has uncommitted changes: slimy-harness (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-08-08-002] NUC1 repo has uncommitted changes: kb (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-08-08-003] NUC1 repo diverged from remote: Slimefun4 (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-08-08-004] NUC1 repo diverged from remote: slimy-monorepo (high, repo_drift) [candidate] (fresh) — nuc1
-🔄 [todo-2026-08-08-005] Resolve 86 orphaned wiki pages (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-08-08-006] Review orphaned page: game/30-stone-corrections.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-08-08-007] Review orphaned page: game/biozilla-relics.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-08-08-008] Review orphaned page: game/compass-guide.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-08-08-009] Review orphaned page: game/gear-leveling-guide.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-08-08-010] Review orphaned page: game/glorium-guide.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
-🔄 [todo-2026-08-08-011] NUC1 KB has uncommitted changes (high, repo_drift) [candidate] (fresh) — nuc1
+🔄 [todo-2026-08-10-001] Resolve 86 orphaned wiki pages (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-08-10-002] Review orphaned page: game/30-stone-corrections.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-08-10-003] Review orphaned page: game/biozilla-relics.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-08-10-004] Review orphaned page: game/compass-guide.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-08-10-005] Review orphaned page: game/gear-leveling-guide.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
+🔄 [todo-2026-08-10-006] Review orphaned page: game/glorium-guide.md (high, wiki_gap) [candidate] (fresh) — slimy-nuc2
 
 ---
 *Managed by wiki-manager-stage1.timer (every 12h). Do not edit directly.*
