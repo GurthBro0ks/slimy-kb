@@ -1,7 +1,7 @@
-# Candidate Review Pack — 2026-08-10T00:18:02Z
+# Candidate Review Pack — 2026-08-12T19:48:18Z
 
 > Stage: 1.86
-> Generated: 2026-08-10T00:18:02Z
+> Generated: 2026-08-12T19:48:18Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
@@ -24,13 +24,13 @@
 These tasks meet all Stage 1.86 promotion criteria:
 recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
-### [todo-2026-08-10-001] Resolve 86 orphaned wiki pages
+### [todo-2026-08-12-001] Resolve 86 orphaned wiki pages
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 101x lifetime |
+| Persistence | 5x recent / 102x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/_orphans.md |
 | Dispatch blocker | advisory_only |
@@ -42,13 +42,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review each orphan: add links from related pages, merge into existing articles, or delete if redundant.
 
-### [todo-2026-08-10-002] Review orphaned page: game/30-stone-corrections.md
+### [todo-2026-08-12-002] Review orphaned page: game/30-stone-corrections.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 121x lifetime |
+| Persistence | 5x recent / 122x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/30-stone-corrections.md |
 | Dispatch blocker | advisory_only |
@@ -60,13 +60,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/30-stone-corrections.md should be linked from related articles or removed.
 
-### [todo-2026-08-10-003] Review orphaned page: game/biozilla-relics.md
+### [todo-2026-08-12-003] Review orphaned page: game/biozilla-relics.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 121x lifetime |
+| Persistence | 5x recent / 122x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/biozilla-relics.md |
 | Dispatch blocker | advisory_only |
@@ -78,13 +78,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/biozilla-relics.md should be linked from related articles or removed.
 
-### [todo-2026-08-10-004] Review orphaned page: game/compass-guide.md
+### [todo-2026-08-12-004] Review orphaned page: game/compass-guide.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 121x lifetime |
+| Persistence | 5x recent / 122x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/compass-guide.md |
 | Dispatch blocker | advisory_only |
@@ -96,13 +96,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/compass-guide.md should be linked from related articles or removed.
 
-### [todo-2026-08-10-005] Review orphaned page: game/gear-leveling-guide.md
+### [todo-2026-08-12-005] Review orphaned page: game/gear-leveling-guide.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 121x lifetime |
+| Persistence | 5x recent / 122x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/gear-leveling-guide.md |
 | Dispatch blocker | advisory_only |
@@ -114,13 +114,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/gear-leveling-guide.md should be linked from related articles or removed.
 
-### [todo-2026-08-10-006] Review orphaned page: game/glorium-guide.md
+### [todo-2026-08-12-006] Review orphaned page: game/glorium-guide.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 121x lifetime |
+| Persistence | 5x recent / 122x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/glorium-guide.md |
 | Dispatch blocker | advisory_only |
