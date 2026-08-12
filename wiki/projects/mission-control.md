@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-08-10 00:17 UTC (git)
-> Version: r395 / 0478d99d
+> Last edited: 2026-08-10 00:18 UTC (git)
+> Version: r396 / ff6265c7
 KB METADATA -->
 
 Mission Control is a coordination surface for tasks, agents, comms, calendar, memory, and webhook-triggered workflows.
