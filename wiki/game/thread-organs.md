@@ -10,8 +10,8 @@ tags: [push,arena,gear,apostle,organ,crit,orange]
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-08-12 19:47 UTC (git)
-> Version: r222 / 0a1b68cf
+> Last edited: 2026-08-12 19:48 UTC (git)
+> Version: r223 / 427473f9
 KB METADATA -->
 
 # Thread Organs
