@@ -10,8 +10,8 @@ tags: [farm,gear,apostle,minion,rift,rush,orange]
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-08-12 19:48 UTC (git)
-> Version: r223 / 427473f9
+> Last edited: 2026-08-12 22:11 UTC (git)
+> Version: r224 / a1ccf93d
 KB METADATA -->
 
 # Thread Rift Guide

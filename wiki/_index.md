@@ -3,8 +3,8 @@
 > Last compiled: 2026-07-01 (child-compile 20260701-094256 — 34th re-dispatch of the same 20260611-230008 priority batch per wiki/log.md lineage; KB already up to date. Re-verified all 14 distinct priority inputs cited in a `Sources:` line of a current wiki article (clawd-agent-rules.md, workspace-agent-rules.md, nuc2-server-state.md, nginx-certbot-acme-fix.md, kb-autofinish-autocompile-fix.md, nuc1-wrapper-recursion-fix.md, nuc1-repo-remote-ssh-normalization.md, nuc2-repo-remote-ssh-normalization.md); seed-progress-history.md remains explicitly deferred (large NUC2 session log, no standalone article warranted; content mined into agent-session-contract.md, source-of-truth-ledgers.md, and others). No new wiki content required. _concepts.md unchanged. This is a known dispatch-loop artifact — root cause documented in wiki/log.md 2026-06-30T22:25Z (kb-compile-if-needed.sh collect_compile_candidates() `set -e` bug); fix deferred pending operator policy decision on raw/ exclusion globs, not re-derived here. See wiki/log.md 2026-07-01 entry.)
 
 <!-- KB METADATA
-> Last edited: 2026-08-12 19:48 UTC (git)
-> Version: r471 / 427473f9
+> Last edited: 2026-08-12 22:11 UTC (git)
+> Version: r472 / a1ccf93d
 KB METADATA -->
 
 ---
