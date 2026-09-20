@@ -12,12 +12,6 @@ KB_ROOT="/home/slimy/kb"
 OUT_FILE="$KB_ROOT/output/recommend-$TIMESTAMP.md"
 VAULT_REC_DAILY="/home/slimy/obsidian/slimyai-vault/Recommendations/Daily"
 
-# Source webhook config if present (category: RECOMMEND)
-if [[ -f ~/.config/slimy/webhooks.env ]]; then
-    source ~/.config/slimy/webhooks.env
-fi
-DISCORD_WEBHOOK="${DISCORD_WEBHOOK_RECOMMEND:-}"
-
 mkdir -p "$KB_ROOT/output" "$VAULT_REC_DAILY"
 
 # Collect compile candidates
@@ -190,25 +184,21 @@ EOF
     echo "[kb-recommend] Wrote vault recommendation: $VAULT_OUT"
 fi
 
-# Optional Discord webhook (category: RECOMMEND)
-if [[ -n "${DISCORD_WEBHOOK:-}" ]]; then
-    if [[ "$DRY_RUN" != "--dry-run" ]]; then
-        top_rec=""
-        if [[ ${#recommendations[@]} -gt 0 ]]; then
-            IFS='|' read -r _ priority title _ <<< "${recommendations[0]}"
-            top_rec=" [$priority] $title"
-        fi
-        msg="Recommendations $TODAY on $HOST — ${candidate_count} compile candidates, ${conflict_count} conflicts, ${stale_count} stale${top_rec}"
-        curl -s -X POST "$DISCORD_WEBHOOK" \
-            -H "Content-Type: application/json" \
-            -d "{\"content\": \"$msg\"}" >/dev/null 2>&1 \
-            && echo "[kb-recommend] Posted Discord webhook" \
-            || echo "[kb-recommend] Discord webhook post failed (non-critical)"
-    else
-        echo "[kb-recommend] DRY-RUN: would post Discord webhook"
-    fi
+# Notify through the fixed Harness destination; primary work remains successful.
+if [[ "$DRY_RUN" == "--dry-run" ]]; then
+    echo "[kb-recommend] DRY-RUN: would notify recommend"
 else
-    echo "[kb-recommend] DISCORD_WEBHOOK_RECOMMEND not configured — skipping Discord post"
+    top_rec=""
+    if [[ ${#recommendations[@]} -gt 0 ]]; then
+        IFS='|' read -r _ priority title _ <<< "${recommendations[0]}"
+        top_rec=" [$priority] $title"
+    fi
+    msg="Recommendations $TODAY on $HOST — ${candidate_count} compile candidates, ${conflict_count} conflicts, ${stale_count} stale${top_rec}"
+    if bash "$KB_ROOT/tools/kb-notify.sh" --route recommend --message "$msg"; then
+        echo "[kb-recommend] Harness relay complete"
+    else
+        echo "[kb-recommend] WARN route=recommend rc=$?: notification unavailable (non-critical)" >&2
+    fi
 fi
 
 echo "[kb-recommend] Done."

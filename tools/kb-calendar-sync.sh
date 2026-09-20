@@ -11,12 +11,6 @@ KB_ROOT="/home/slimy/kb"
 VAULT_DAILY="/home/slimy/obsidian/slimyai-vault/Daily"
 OUT_FILE="$VAULT_DAILY/${TODAY}.md"
 
-# Source webhook config if present (category: DAILY)
-if [[ -f ~/.config/slimy/webhooks.env ]]; then
-    source ~/.config/slimy/webhooks.env
-fi
-DISCORD_WEBHOOK="${DISCORD_WEBHOOK_DAILY:-}"
-
 mkdir -p "$VAULT_DAILY"
 
 # Gather state
@@ -93,16 +87,14 @@ EOF
 
 echo "[kb-calendar-sync] Wrote daily note: $OUT_FILE"
 
-# Optional Discord webhook
-if [[ -n "$DISCORD_WEBHOOK" ]]; then
-    if [[ "$DRY_RUN" == "--dry-run" ]]; then
-        echo "[DRY-RUN] Would post Discord webhook"
-    else
-        msg="Daily $TODAY on $HOST — compile: ${uncompiled_count}, conflicts: ${conflict_count}, stale: ${stale_count}"
-        curl -s -X POST "$DISCORD_WEBHOOK" \
-            -H "Content-Type: application/json" \
-            -d "{\"content\": \"$msg\"}" >/dev/null 2>&1 && echo "[kb-calendar-sync] Posted Discord webhook" || echo "[kb-calendar-sync] Discord webhook post failed (non-critical)"
-    fi
+# Notify through the fixed Harness destination; primary work remains successful.
+if [[ "$DRY_RUN" == "--dry-run" ]]; then
+    echo "[kb-calendar-sync] DRY-RUN: would notify daily"
 else
-    echo "[kb-calendar-sync] DISCORD_WEBHOOK_DAILY not configured — skipping Discord post"
+    msg="Daily $TODAY on $HOST — compile: ${uncompiled_count}, conflicts: ${conflict_count}, stale: ${stale_count}"
+    if bash "$KB_ROOT/tools/kb-notify.sh" --route daily --message "$msg"; then
+        echo "[kb-calendar-sync] Harness relay complete"
+    else
+        echo "[kb-calendar-sync] WARN route=daily rc=$?: notification unavailable (non-critical)" >&2
+    fi
 fi

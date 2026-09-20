@@ -21,11 +21,6 @@ if [[ "${SLIMY_KB_CHILD_COMPILE:-0}" == "1" ]]; then
     exit 0
 fi
 
-# Source webhook config if present (category: ALERTS for failures)
-if [[ -f ~/.config/slimy/webhooks.env ]]; then
-    source ~/.config/slimy/webhooks.env
-fi
-
 # Collect compile candidates (same logic as wiki CLI)
 # NOTE: matches tools/wiki:collect_compile_candidates(). Previously this had two bugs:
 # (1) the unguarded per-line grep died under `set -e` on the first Sources line with
@@ -197,14 +192,15 @@ ${COMPILE_OUTPUT:0:500}
 EOF
         echo "[kb-compile-if-needed] Wrote failure note: $FAILURE_NOTE"
 
-        # Alert via ALERTS webhook
-        if [[ -n "${DISCORD_WEBHOOK_ALERTS:-}" ]]; then
-            msg="[ALERT $HOST] kb-compile-if-needed child compile failed (exit $COMPILE_EXIT). Candidates: ${candidates[*]:-none}. See $FAILURE_NOTE"
-            curl -s -X POST "$DISCORD_WEBHOOK_ALERTS" \
-                -H "Content-Type: application/json" \
-                -d "{\"content\": \"$msg\"}" >/dev/null 2>&1 \
-                && echo "[kb-compile-if-needed] Posted ALERTS webhook" \
-                || echo "[kb-compile-if-needed] ALERTS webhook post failed (non-critical)"
+        # Alert loss is a local failure, even though the failure note exists.
+        msg="[ALERT $HOST] kb-compile-if-needed child compile failed (exit $COMPILE_EXIT). Candidates: ${candidates[*]:-none}. See $FAILURE_NOTE"
+        if bash "$KB_TOOLS/kb-notify.sh" --route alerts --message "$msg"; then
+            echo "[kb-compile-if-needed] ALERT relay complete"
+        else
+            notify_rc=$?
+            echo "[kb-compile-if-needed] WARN route=alerts rc=$notify_rc: alert not delivered" >&2
+            rm -f "$COMPILE_PROMPT_FILE"
+            exit "$notify_rc"
         fi
     fi
 

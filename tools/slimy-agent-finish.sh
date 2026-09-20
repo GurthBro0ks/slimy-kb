@@ -58,11 +58,6 @@ is_allowlisted() {
     return 1
 }
 
-# Source webhook config if present
-if [[ -f ~/.config/slimy/webhooks.env ]]; then
-    source ~/.config/slimy/webhooks.env
-fi
-
 while [[ $# -gt 0 ]]; do
     case "$1" in
         --agent)
@@ -331,19 +326,24 @@ else
     echo "[slimy-agent-finish] SKIP_COMPILE set — skipping compile"
 fi
 
-# Post ALERTS webhook if any failures were recorded (category: ALERTS)
-# Skip posting if --quiet flag is set (SUCCESS path)
-if [[ -n "${ALERT_MSG:-}" && -n "${DISCORD_WEBHOOK_ALERTS:-}" && -z "$QUIET" ]]; then
+# Preserve quiet/dry-run notification gates; an attempted alert must fail loud.
+if [[ -n "${ALERT_MSG:-}" && -z "$QUIET" ]]; then
     if [[ "$DRY_RUN" != "--dry-run" ]]; then
         msg="[ALERT $HOST] slimy-agent-finish failures: ${ALERT_MSG}agent=${AGENT}"
-        curl -s -X POST "${DISCORD_WEBHOOK_ALERTS}" \
-            -H "Content-Type: application/json" \
-            -d "{\"content\": \"$msg\"}" >/dev/null 2>&1 \
-            && echo "[slimy-agent-finish] Posted ALERTS webhook" \
-            || echo "[slimy-agent-finish] ALERTS webhook post failed (non-critical)"
+        if bash "$KB_TOOLS/kb-notify.sh" --route alerts --message "$msg"; then
+            echo "[slimy-agent-finish] ALERT relay complete"
+        else
+            notify_rc=$?
+            echo "[slimy-agent-finish] WARN route=alerts rc=$notify_rc: alert not delivered" >&2
+            exit "$notify_rc"
+        fi
     else
-        echo "[slimy-agent-finish] DRY-RUN: would post ALERTS webhook: ${ALERT_MSG}"
+        echo "[slimy-agent-finish] DRY-RUN: would notify alerts"
     fi
 fi
 
-echo "[slimy-agent-finish] Finish automation complete."
+if [[ -n "${ALERT_MSG:-}" ]]; then
+    echo "[slimy-agent-finish] Finish automation ended with recorded failures."
+else
+    echo "[slimy-agent-finish] Finish automation complete."
+fi

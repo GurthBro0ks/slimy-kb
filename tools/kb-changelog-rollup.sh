@@ -11,12 +11,6 @@ TODAY=$(date +%Y-%m-%d)
 KB_ROOT="/home/slimy/kb"
 OUT_FILE="$KB_ROOT/output/changelog-$TIMESTAMP.md"
 
-# Source webhook config if present (category: CHANGELOG)
-if [[ -f ~/.config/slimy/webhooks.env ]]; then
-    source ~/.config/slimy/webhooks.env
-fi
-DISCORD_WEBHOOK="${DISCORD_WEBHOOK_CHANGELOG:-}"
-
 mkdir -p "$KB_ROOT/output"
 
 # Known project paths
@@ -99,18 +93,14 @@ SEVEN_DAYS_AGO=$(date -d '7 days ago' +%Y-%m-%d 2>/dev/null || date -v-7d +%Y-%m
 
 echo "[kb-changelog-rollup] Wrote $OUT_FILE"
 
-# Optional Discord webhook (category: CHANGELOG)
-if [[ -n "${DISCORD_WEBHOOK:-}" ]]; then
-    if [[ "$DRY_RUN" != "--dry-run" ]]; then
-        msg="Changelog rollup $TODAY on $HOST"
-        curl -s -X POST "$DISCORD_WEBHOOK" \
-            -H "Content-Type: application/json" \
-            -d "{\"content\": \"$msg\"}" >/dev/null 2>&1 \
-            && echo "[kb-changelog-rollup] Posted Discord webhook" \
-            || echo "[kb-changelog-rollup] Discord webhook post failed (non-critical)"
-    else
-        echo "[kb-changelog-rollup] DRY-RUN: would post Discord webhook"
-    fi
+# Notify through the fixed Harness destination; primary work remains successful.
+if [[ "$DRY_RUN" == "--dry-run" ]]; then
+    echo "[kb-changelog-rollup] DRY-RUN: would notify changelog"
 else
-    echo "[kb-changelog-rollup] DISCORD_WEBHOOK_CHANGELOG not configured — skipping Discord post"
+    msg="Changelog rollup $TODAY on $HOST"
+    if bash "$KB_ROOT/tools/kb-notify.sh" --route changelog --message "$msg"; then
+        echo "[kb-changelog-rollup] Harness relay complete"
+    else
+        echo "[kb-changelog-rollup] WARN route=changelog rc=$?: notification unavailable (non-critical)" >&2
+    fi
 fi

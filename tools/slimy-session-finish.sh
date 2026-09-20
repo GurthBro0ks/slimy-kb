@@ -104,18 +104,14 @@ run_bounded_finish() {
 
     # If finish automation itself failed, that's a real alert-worthy failure
     if [[ "$finish_rc" -ne 0 ]]; then
-        echo "[slimy-session-finish] Finish automation failed (rc=$finish_rc) — posting ALERT"
-
-        # Source webhook config
-        if [[ -f ~/.config/slimy/webhooks.env ]]; then
-            source ~/.config/slimy/webhooks.env
-        fi
-
-        if [[ -n "${DISCORD_WEBHOOK_ALERTS:-}" ]]; then
-            local msg="[ALERT $HOST] slimy-session-finish: finish-automation failed (rc=$finish_rc) agent=claude active_repo=${ACTIVE_REPO:-none}"
-            curl -s -X POST "${DISCORD_WEBHOOK_ALERTS}" \
-                -H "Content-Type: application/json" \
-                -d "{\"content\": \"$msg\"}" >/dev/null 2>&1 || true
+        echo "[slimy-session-finish] Finish automation failed (rc=$finish_rc) — attempting ALERT relay"
+        local msg="[ALERT $HOST] slimy-session-finish: finish-automation failed (rc=$finish_rc) agent=claude active_repo=${ACTIVE_REPO:-none}"
+        if bash /home/slimy/kb/tools/kb-notify.sh --route alerts --message "$msg"; then
+            echo "[slimy-session-finish] ALERT relay complete"
+        else
+            local notify_rc=$?
+            echo "[slimy-session-finish] WARN route=alerts rc=$notify_rc: alert not delivered" >&2
+            return "$notify_rc"
         fi
     else
         echo "[slimy-session-finish] Bounded finish complete (rc=0)."
