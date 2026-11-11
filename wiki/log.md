@@ -4,8 +4,8 @@
 > Host: slimy-nuc2
 
 <!-- KB METADATA
-> Last edited: 2026-08-12 22:11 UTC (git)
-> Version: r480 / a1ccf93d
+> Last edited: 2026-08-12 22:12 UTC (git)
+> Version: r481 / 9f9603f4
 KB METADATA -->
 
 ## [2026-04-09 16:00] maintenance | initial kb upgrade bootstrap
@@ -36907,5 +36907,15 @@ KB METADATA -->
 - summary: stage1.86 todo queue generation
 - commit: a1ccf93d
 - notes: stage1.86 run: todos=11 nuc1_items=442 nuc1_evidence=YES
+
+
+## [2026-11-11 15:57] maintenance | 12h maintenance run
+- actor: kb-maintenance
+- host: slimy-nuc2
+- affected_paths:
+  - (none)
+- summary: 12h maintenance run
+- commit: bb391e18
+- notes: auto-maintenance from kb-maintenance.sh 2026-11-11T15:57:44Z
 
 
