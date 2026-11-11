@@ -1,24 +1,24 @@
 # Project Health Index
 
 > Category: projects
-> Updated: 2026-08-12T22:12:24Z
+> Updated: 2026-11-11T15:58:39Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-08-12 22:12 UTC (git)
-> Version: r401 / 9f9603f4
+> Last edited: 2026-11-11 15:57 UTC (git)
+> Version: r402 / 3ef1c7a4
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Summary
 
-- NUC1 repos tracked: 13
+- NUC1 repos tracked: 17
 - With project page: 7
-- Without project page: 6
-- Dirty (uncommitted): 2
+- Without project page: 10
+- Dirty (uncommitted): 4
 - Diverged (ahead + behind): 2
-- Clean: 9
+- Clean: 11
 
 ## Pages Updated This Run
 
@@ -39,9 +39,13 @@ KB METADATA -->
 - **DynaTech** — clean
 - **PrivateStorage** — clean
 - **Slimefun4** — DIVERGED
+- **black-fish-farms-morning-brief** — DIRTY
 - **memories** — clean
 - **plugins** — clean
+- **plugins-clone-EZQNz8** — clean
 - **slimy-harness** — DIRTY
+- **source** — clean
+- **source_review** — DIRTY
 
 ## NUC1 Repo Health Table
 
@@ -50,15 +54,19 @@ KB METADATA -->
 | DynaTech | — | — |
 | PrivateStorage | — | — |
 | Slimefun4 | — | ⚠️ DIVERGED |
+| black-fish-farms-morning-brief | ⚠️ DIRTY | — |
 | kb | ⚠️ DIRTY | — |
 | mailbox_outbox | — | — |
 | memories | — | — |
 | mission-control | — | — |
 | ned-autonomous | — | — |
 | plugins | — | — |
+| plugins-clone-EZQNz8 | — | — |
 | slimy-chat | — | — |
 | slimy-harness | ⚠️ DIRTY | — |
 | slimy-monorepo | — | ⚠️ DIVERGED |
+| source | — | — |
+| source_review | ⚠️ DIRTY | — |
 | stoat-source | — | — |
 
 <!-- END MACHINE MANAGED -->
