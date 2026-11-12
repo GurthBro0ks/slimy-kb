@@ -5,8 +5,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-11-12 03:57 UTC (git)
-> Version: r397 / ff9b97fd
+> Last edited: 2026-11-12 03:58 UTC (git)
+> Version: r398 / 92aa4cbc
 KB METADATA -->
 
 Full mirror of wshobson/agents — the Claude Code plugin marketplace. Archived and not actively used on NUC2.

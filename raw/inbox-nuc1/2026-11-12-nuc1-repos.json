@@ -1,7 +1,7 @@
 {
-  "ts": "20261112T035702Z",
+  "ts": "20261112T155716Z",
   "hostname": "unknown",
-  "count": 17,
+  "count": 19,
   "repos": [
     {
       "name": "source",
@@ -220,6 +220,21 @@
       "dirty_count": 0
     },
     {
+      "name": "receipt-vault",
+      "path": "/home/slimy/projects/receipt-vault",
+      "relative_path": "projects/receipt-vault",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "312a66392e33",
+      "commit_subject": "chore: pin node image to running version",
+      "dirty": false,
+      "remote": null,
+      "ahead_behind": null,
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    },
+    {
       "name": "black-fish-farms-morning-brief",
       "path": "/home/slimy/projects/black-fish-farms-morning-brief",
       "relative_path": "projects/black-fish-farms-morning-brief",
@@ -235,6 +250,21 @@
       "dirty_count": 52
     },
     {
+      "name": "actual-budget",
+      "path": "/home/slimy/projects/actual-budget",
+      "relative_path": "projects/actual-budget",
+      "ok": true,
+      "branch": "main",
+      "commit_hash": "add859e2fc95",
+      "commit_subject": "chore: pin actual-server image to running version",
+      "dirty": false,
+      "remote": null,
+      "ahead_behind": null,
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    },
+    {
       "name": "slimy-monorepo",
       "path": "/home/slimy/.qoder-server/slimy-monorepo",
       "relative_path": ".qoder-server/slimy-monorepo",
@@ -246,7 +276,7 @@
       "remote": "github.com:GurthBro0ks/slimy-monorepo",
       "ahead_behind": {
         "base": "origin/main",
-        "ahead": 480,
+        "ahead": 484,
         "behind": 5
       },
       "kb_bridge_present": false,
@@ -289,7 +319,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "2f37a5f0ed96",
+      "commit_hash": "72a9fa25fcb9",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,
