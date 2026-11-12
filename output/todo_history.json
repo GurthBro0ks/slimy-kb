@@ -1,24 +1,24 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T03:58:29Z",
+  "updated_at": "2026-11-12T15:58:25Z",
   "tasks": [
     {
       "task_key": "nuc1|kb|repo_drift|nuc1 repo has uncommitted changes: kb",
       "first_seen": "2026-04-09T16:20:32Z",
-      "last_seen": "2026-11-12T03:58:29Z",
-      "occurrence_count": 143,
+      "last_seen": "2026-11-12T15:58:25Z",
+      "occurrence_count": 144,
       "state": "persisting",
       "last_promotion_status_change": "2026-06-26T06:31:38Z",
       "last_known_promotion_status": "candidate",
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-11-12T03:58:29Z",
-      "promotion_occurrence_count": 125,
+      "promotion_last_seen": "2026-11-12T15:58:25Z",
+      "promotion_occurrence_count": 126,
       "run_timestamps": [
-        "2026-08-07T16:08:52Z",
         "2026-08-08T04:08:52Z",
         "2026-08-12T22:12:24Z",
         "2026-11-11T15:58:39Z",
-        "2026-11-12T03:58:29Z"
+        "2026-11-12T03:58:29Z",
+        "2026-11-12T15:58:25Z"
       ]
     },
     {
@@ -43,20 +43,20 @@
     {
       "task_key": "nuc1|Slimefun4|repo_drift|nuc1 repo diverged from remote: slimefun4",
       "first_seen": "2026-04-09T16:20:32Z",
-      "last_seen": "2026-11-12T03:58:29Z",
-      "occurrence_count": 217,
+      "last_seen": "2026-11-12T15:58:25Z",
+      "occurrence_count": 218,
       "state": "persisting",
       "last_promotion_status_change": "2026-06-26T06:31:38Z",
       "last_known_promotion_status": "candidate",
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-11-12T03:58:29Z",
-      "promotion_occurrence_count": 199,
+      "promotion_last_seen": "2026-11-12T15:58:25Z",
+      "promotion_occurrence_count": 200,
       "run_timestamps": [
-        "2026-08-07T16:08:52Z",
         "2026-08-08T04:08:52Z",
         "2026-08-12T22:12:24Z",
         "2026-11-11T15:58:39Z",
-        "2026-11-12T03:58:29Z"
+        "2026-11-12T03:58:29Z",
+        "2026-11-12T15:58:25Z"
       ]
     },
     {
@@ -81,20 +81,20 @@
     {
       "task_key": "nuc1|slimy-monorepo|repo_drift|nuc1 repo diverged from remote: slimy-monorepo",
       "first_seen": "2026-04-09T16:20:32Z",
-      "last_seen": "2026-11-12T03:58:29Z",
-      "occurrence_count": 217,
+      "last_seen": "2026-11-12T15:58:25Z",
+      "occurrence_count": 218,
       "state": "persisting",
       "last_promotion_status_change": "2026-06-26T06:31:38Z",
       "last_known_promotion_status": "candidate",
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-11-12T03:58:29Z",
-      "promotion_occurrence_count": 199,
+      "promotion_last_seen": "2026-11-12T15:58:25Z",
+      "promotion_occurrence_count": 200,
       "run_timestamps": [
-        "2026-08-07T16:08:52Z",
         "2026-08-08T04:08:52Z",
         "2026-08-12T22:12:24Z",
         "2026-11-11T15:58:39Z",
-        "2026-11-12T03:58:29Z"
+        "2026-11-12T03:58:29Z",
+        "2026-11-12T15:58:25Z"
       ]
     },
     {
@@ -212,20 +212,20 @@
     {
       "task_key": "nuc1|kb|repo_drift|nuc1 kb has uncommitted changes",
       "first_seen": "2026-04-09T16:20:32Z",
-      "last_seen": "2026-11-12T03:58:29Z",
-      "occurrence_count": 143,
+      "last_seen": "2026-11-12T15:58:25Z",
+      "occurrence_count": 144,
       "state": "persisting",
       "last_promotion_status_change": "2026-06-26T06:31:38Z",
       "last_known_promotion_status": "candidate",
       "promotion_first_seen": "2026-04-09T19:37:03Z",
-      "promotion_last_seen": "2026-11-12T03:58:29Z",
-      "promotion_occurrence_count": 125,
+      "promotion_last_seen": "2026-11-12T15:58:25Z",
+      "promotion_occurrence_count": 126,
       "run_timestamps": [
-        "2026-08-07T16:08:52Z",
         "2026-08-08T04:08:52Z",
         "2026-08-12T22:12:24Z",
         "2026-11-11T15:58:39Z",
-        "2026-11-12T03:58:29Z"
+        "2026-11-12T03:58:29Z",
+        "2026-11-12T15:58:25Z"
       ]
     },
     {
@@ -535,114 +535,114 @@
     {
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: game/30-stone-corrections.md",
       "first_seen": "2026-06-01T06:14:32Z",
-      "last_seen": "2026-11-12T03:58:29Z",
-      "occurrence_count": 125,
+      "last_seen": "2026-11-12T15:58:25Z",
+      "occurrence_count": 126,
       "state": "persisting",
       "run_timestamps": [
-        "2026-08-10T00:18:02Z",
         "2026-08-12T19:48:18Z",
         "2026-08-12T22:12:24Z",
         "2026-11-11T15:58:39Z",
-        "2026-11-12T03:58:29Z"
+        "2026-11-12T03:58:29Z",
+        "2026-11-12T15:58:25Z"
       ],
       "promotion_first_seen": "2026-06-01T18:14:32Z",
-      "promotion_last_seen": "2026-11-12T03:58:29Z",
-      "promotion_occurrence_count": 124,
+      "promotion_last_seen": "2026-11-12T15:58:25Z",
+      "promotion_occurrence_count": 125,
       "last_promotion_status_change": "2026-06-02T06:14:36Z",
       "last_known_promotion_status": "candidate"
     },
     {
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: game/biozilla-relics.md",
       "first_seen": "2026-06-01T06:14:32Z",
-      "last_seen": "2026-11-12T03:58:29Z",
-      "occurrence_count": 125,
+      "last_seen": "2026-11-12T15:58:25Z",
+      "occurrence_count": 126,
       "state": "persisting",
       "run_timestamps": [
-        "2026-08-10T00:18:02Z",
         "2026-08-12T19:48:18Z",
         "2026-08-12T22:12:24Z",
         "2026-11-11T15:58:39Z",
-        "2026-11-12T03:58:29Z"
+        "2026-11-12T03:58:29Z",
+        "2026-11-12T15:58:25Z"
       ],
       "promotion_first_seen": "2026-06-01T18:14:32Z",
-      "promotion_last_seen": "2026-11-12T03:58:29Z",
-      "promotion_occurrence_count": 124,
+      "promotion_last_seen": "2026-11-12T15:58:25Z",
+      "promotion_occurrence_count": 125,
       "last_promotion_status_change": "2026-06-02T06:14:36Z",
       "last_known_promotion_status": "candidate"
     },
     {
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: game/compass-guide.md",
       "first_seen": "2026-06-01T06:14:32Z",
-      "last_seen": "2026-11-12T03:58:29Z",
-      "occurrence_count": 125,
+      "last_seen": "2026-11-12T15:58:25Z",
+      "occurrence_count": 126,
       "state": "persisting",
       "run_timestamps": [
-        "2026-08-10T00:18:02Z",
         "2026-08-12T19:48:18Z",
         "2026-08-12T22:12:24Z",
         "2026-11-11T15:58:39Z",
-        "2026-11-12T03:58:29Z"
+        "2026-11-12T03:58:29Z",
+        "2026-11-12T15:58:25Z"
       ],
       "promotion_first_seen": "2026-06-01T18:14:32Z",
-      "promotion_last_seen": "2026-11-12T03:58:29Z",
-      "promotion_occurrence_count": 124,
+      "promotion_last_seen": "2026-11-12T15:58:25Z",
+      "promotion_occurrence_count": 125,
       "last_promotion_status_change": "2026-06-02T06:14:36Z",
       "last_known_promotion_status": "candidate"
     },
     {
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: game/gear-leveling-guide.md",
       "first_seen": "2026-06-01T06:14:32Z",
-      "last_seen": "2026-11-12T03:58:29Z",
-      "occurrence_count": 125,
+      "last_seen": "2026-11-12T15:58:25Z",
+      "occurrence_count": 126,
       "state": "persisting",
       "run_timestamps": [
-        "2026-08-10T00:18:02Z",
         "2026-08-12T19:48:18Z",
         "2026-08-12T22:12:24Z",
         "2026-11-11T15:58:39Z",
-        "2026-11-12T03:58:29Z"
+        "2026-11-12T03:58:29Z",
+        "2026-11-12T15:58:25Z"
       ],
       "promotion_first_seen": "2026-06-01T18:14:32Z",
-      "promotion_last_seen": "2026-11-12T03:58:29Z",
-      "promotion_occurrence_count": 124,
+      "promotion_last_seen": "2026-11-12T15:58:25Z",
+      "promotion_occurrence_count": 125,
       "last_promotion_status_change": "2026-06-02T06:14:36Z",
       "last_known_promotion_status": "candidate"
     },
     {
       "task_key": "slimy-nuc2|kb|wiki_gap|review orphaned page: game/glorium-guide.md",
       "first_seen": "2026-06-01T06:14:32Z",
-      "last_seen": "2026-11-12T03:58:29Z",
-      "occurrence_count": 125,
+      "last_seen": "2026-11-12T15:58:25Z",
+      "occurrence_count": 126,
       "state": "persisting",
       "run_timestamps": [
-        "2026-08-10T00:18:02Z",
         "2026-08-12T19:48:18Z",
         "2026-08-12T22:12:24Z",
         "2026-11-11T15:58:39Z",
-        "2026-11-12T03:58:29Z"
+        "2026-11-12T03:58:29Z",
+        "2026-11-12T15:58:25Z"
       ],
       "promotion_first_seen": "2026-06-01T18:14:32Z",
-      "promotion_last_seen": "2026-11-12T03:58:29Z",
-      "promotion_occurrence_count": 124,
+      "promotion_last_seen": "2026-11-12T15:58:25Z",
+      "promotion_occurrence_count": 125,
       "last_promotion_status_change": "2026-06-02T06:14:36Z",
       "last_known_promotion_status": "candidate"
     },
     {
       "task_key": "nuc1|slimy-harness|repo_drift|nuc1 repo has uncommitted changes: slimy-harness",
       "first_seen": "2026-06-04T18:14:40Z",
-      "last_seen": "2026-11-12T03:58:29Z",
-      "occurrence_count": 40,
+      "last_seen": "2026-11-12T15:58:25Z",
+      "occurrence_count": 41,
       "state": "persisting",
       "run_timestamps": [
-        "2026-08-07T16:08:52Z",
         "2026-08-08T04:08:52Z",
         "2026-08-12T22:12:24Z",
         "2026-11-11T15:58:39Z",
-        "2026-11-12T03:58:29Z"
+        "2026-11-12T03:58:29Z",
+        "2026-11-12T15:58:25Z"
       ],
       "promotion_first_seen": "2026-06-09T18:14:55Z",
-      "promotion_last_seen": "2026-11-12T03:58:29Z",
-      "promotion_occurrence_count": 39,
+      "promotion_last_seen": "2026-11-12T15:58:25Z",
+      "promotion_occurrence_count": 40,
       "last_promotion_status_change": "2026-06-11T18:15:04Z",
       "last_known_promotion_status": "candidate"
     },
@@ -668,53 +668,55 @@
     {
       "task_key": "slimy-nuc2|kb|wiki_gap|resolve 86 orphaned wiki pages",
       "first_seen": "2026-06-11T06:15:04Z",
-      "last_seen": "2026-11-12T03:58:29Z",
-      "occurrence_count": 105,
+      "last_seen": "2026-11-12T15:58:25Z",
+      "occurrence_count": 106,
       "state": "persisting",
       "run_timestamps": [
-        "2026-08-10T00:18:02Z",
         "2026-08-12T19:48:18Z",
         "2026-08-12T22:12:24Z",
         "2026-11-11T15:58:39Z",
-        "2026-11-12T03:58:29Z"
+        "2026-11-12T03:58:29Z",
+        "2026-11-12T15:58:25Z"
       ],
       "promotion_first_seen": "2026-06-11T18:15:04Z",
-      "promotion_last_seen": "2026-11-12T03:58:29Z",
-      "promotion_occurrence_count": 104,
+      "promotion_last_seen": "2026-11-12T15:58:25Z",
+      "promotion_occurrence_count": 105,
       "last_promotion_status_change": "2026-06-13T06:15:08Z",
       "last_known_promotion_status": "candidate"
     },
     {
       "task_key": "nuc1|source_review|repo_drift|nuc1 repo has uncommitted changes: source_review",
       "first_seen": "2026-11-11T15:58:39Z",
-      "last_seen": "2026-11-12T03:58:29Z",
-      "occurrence_count": 2,
+      "last_seen": "2026-11-12T15:58:25Z",
+      "occurrence_count": 3,
       "state": "persisting",
       "run_timestamps": [
         "2026-11-11T15:58:39Z",
-        "2026-11-12T03:58:29Z"
+        "2026-11-12T03:58:29Z",
+        "2026-11-12T15:58:25Z"
       ],
       "promotion_first_seen": "2026-11-12T03:58:29Z",
-      "promotion_last_seen": "2026-11-12T03:58:29Z",
-      "promotion_occurrence_count": 1,
-      "last_promotion_status_change": "2026-11-12T03:58:29Z",
-      "last_known_promotion_status": "emerging"
+      "promotion_last_seen": "2026-11-12T15:58:25Z",
+      "promotion_occurrence_count": 2,
+      "last_promotion_status_change": "2026-11-12T15:58:25Z",
+      "last_known_promotion_status": "candidate"
     },
     {
       "task_key": "nuc1|black-fish-farms-morning-brief|repo_drift|nuc1 repo has uncommitted changes: black-fish-farms-morning-brief",
       "first_seen": "2026-11-11T15:58:39Z",
-      "last_seen": "2026-11-12T03:58:29Z",
-      "occurrence_count": 2,
+      "last_seen": "2026-11-12T15:58:25Z",
+      "occurrence_count": 3,
       "state": "persisting",
       "run_timestamps": [
         "2026-11-11T15:58:39Z",
-        "2026-11-12T03:58:29Z"
+        "2026-11-12T03:58:29Z",
+        "2026-11-12T15:58:25Z"
       ],
       "promotion_first_seen": "2026-11-12T03:58:29Z",
-      "promotion_last_seen": "2026-11-12T03:58:29Z",
-      "promotion_occurrence_count": 1,
-      "last_promotion_status_change": "2026-11-12T03:58:29Z",
-      "last_known_promotion_status": "emerging"
+      "promotion_last_seen": "2026-11-12T15:58:25Z",
+      "promotion_occurrence_count": 2,
+      "last_promotion_status_change": "2026-11-12T15:58:25Z",
+      "last_known_promotion_status": "candidate"
     }
   ]
 }

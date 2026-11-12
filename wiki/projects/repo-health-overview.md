@@ -1,12 +1,12 @@
 # Repo Health Overview
 
 > Category: projects
-> Updated: 2026-11-12T03:58:29Z
+> Updated: 2026-11-12T15:58:25Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-11-12 03:58 UTC (git)
-> Version: r411 / 92aa4cbc
+> Last edited: 2026-11-12 15:58 UTC (git)
+> Version: r412 / b1615e0c
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -28,7 +28,9 @@ KB METADATA -->
 | stoat-source | — | — |
 | mailbox_outbox | — | — |
 | slimy-chat | — | — |
+| receipt-vault | — | — |
 | black-fish-farms-morning-brief | ⚠️ YES | — |
+| actual-budget | — | — |
 | slimy-monorepo | — | ⚠️ YES |
 | plugins-clone-EZQNz8 | — | — |
 | plugins | — | — |

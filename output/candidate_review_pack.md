@@ -1,15 +1,15 @@
-# Candidate Review Pack — 2026-11-12T03:58:29Z
+# Candidate Review Pack — 2026-11-12T15:58:25Z
 
 > Stage: 1.86
-> Generated: 2026-11-12T03:58:29Z
+> Generated: 2026-11-12T15:58:25Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
 
 ## Summary
 
-- **Candidates:** 11
-- **Emerging:** 2
+- **Candidates:** 13
+- **Emerging:** 0
 - **Cooling down:** 0
 - **Not candidate:** 0
 - **Total in queue:** 13
@@ -24,13 +24,30 @@
 These tasks meet all Stage 1.86 promotion criteria:
 recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
+### [todo-2026-11-12-001] NUC1 repo has uncommitted changes: source_review
+
+| Field | Value |
+|-------|-------|
+| Project | source_review |
+| Severity | HIGH (repo_drift) |
+| Persistence | 3x recent / 3x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+
+**Why it matters:** Repo 'source_review' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review source_review on NUC1, commit or stash uncommitted work, push if appropriate.
+
 ### [todo-2026-11-12-002] NUC1 repo has uncommitted changes: slimy-harness
 
 | Field | Value |
 |-------|-------|
 | Project | slimy-harness |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 40x lifetime |
+| Persistence | 5x recent / 41x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -47,7 +64,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 143x lifetime |
+| Persistence | 5x recent / 144x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -59,13 +76,30 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review kb on NUC1, commit or stash uncommitted work, push if appropriate.
 
+### [todo-2026-11-12-004] NUC1 repo has uncommitted changes: black-fish-farms-morning-brief
+
+| Field | Value |
+|-------|-------|
+| Project | black-fish-farms-morning-brief |
+| Severity | HIGH (repo_drift) |
+| Persistence | 3x recent / 3x lifetime |
+| Freshness | fresh |
+| Evidence | raw/inbox-nuc1/ |
+| Dispatch blocker | advisory_only |
+| Actionability | actionable |
+| Source | nuc1 (cross_nuc) |
+
+**Why it matters:** Repo 'black-fish-farms-morning-brief' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
+
+**Recommended action:** Review black-fish-farms-morning-brief on NUC1, commit or stash uncommitted work, push if appropriate.
+
 ### [todo-2026-11-12-005] NUC1 repo diverged from remote: Slimefun4
 
 | Field | Value |
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 217x lifetime |
+| Persistence | 5x recent / 218x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -82,7 +116,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | slimy-monorepo |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 217x lifetime |
+| Persistence | 5x recent / 218x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -100,7 +134,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 105x lifetime |
+| Persistence | 5x recent / 106x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/_orphans.md |
 | Dispatch blocker | advisory_only |
@@ -118,7 +152,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 125x lifetime |
+| Persistence | 5x recent / 126x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/30-stone-corrections.md |
 | Dispatch blocker | advisory_only |
@@ -136,7 +170,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 125x lifetime |
+| Persistence | 5x recent / 126x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/biozilla-relics.md |
 | Dispatch blocker | advisory_only |
@@ -154,7 +188,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 125x lifetime |
+| Persistence | 5x recent / 126x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/compass-guide.md |
 | Dispatch blocker | advisory_only |
@@ -172,7 +206,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 125x lifetime |
+| Persistence | 5x recent / 126x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/gear-leveling-guide.md |
 | Dispatch blocker | advisory_only |
@@ -190,7 +224,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 125x lifetime |
+| Persistence | 5x recent / 126x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/glorium-guide.md |
 | Dispatch blocker | advisory_only |
@@ -208,7 +242,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 143x lifetime |
+| Persistence | 5x recent / 144x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -219,22 +253,6 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 **Why it matters:** The kb repo on NUC1 is dirty — there are uncommitted changes that may need to be merged.
 
 **Recommended action:** Coordinate with NUC1 to push or transfer the uncommitted KB changes, then reconcile.
-
-## Emerging — Close but Not Ready
-
-### [todo-2026-11-12-001] NUC1 repo has uncommitted changes: source_review
-
-- **Project:** source_review | **Severity:** HIGH | **Freshness:** fresh
-- **Persistence:** 2x recent / 2x lifetime
-- **What would promote:** more recent runs OR fresher evidence files
-- **Why it matters:** Repo 'source_review' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
-
-### [todo-2026-11-12-004] NUC1 repo has uncommitted changes: black-fish-farms-morning-brief
-
-- **Project:** black-fish-farms-morning-brief | **Severity:** HIGH | **Freshness:** fresh
-- **Persistence:** 2x recent / 2x lifetime
-- **What would promote:** more recent runs OR fresher evidence files
-- **Why it matters:** Repo 'black-fish-farms-morning-brief' on NUC1 has uncommitted changes (dirty=true). Risk of work loss or drift.
 
 ---
 _Stage 1.86 — advisory only. Candidate status is advisory only, dispatch blocked by `advisory_only`._
