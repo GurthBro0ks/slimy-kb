@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-11-11 15:58 UTC (git)
-> Version: r396 / a603afbb
+> Last edited: 2026-11-12 03:57 UTC (git)
+> Version: r397 / ff9b97fd
 KB METADATA -->
 
 This article captures recurring failures and proven fixes from recent execution history.
