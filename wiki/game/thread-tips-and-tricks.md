@@ -11,7 +11,7 @@ tags: [soul,glorium,minion,cabin,civ,rush,crit,orange]
 
 <!-- KB METADATA
 > Last edited: 2026-11-13 03:58 UTC (git)
-> Version: r232 / 6e13538f
+> Version: r233 / 9711e961
 KB METADATA -->
 
 # Thread Tips And Tricks
