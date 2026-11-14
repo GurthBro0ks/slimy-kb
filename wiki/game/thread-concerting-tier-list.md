@@ -11,7 +11,7 @@ tags: [relic,glorium,minion,civ]
 
 <!-- KB METADATA
 > Last edited: 2026-11-13 15:58 UTC (git)
-> Version: r234 / 7688fe54
+> Version: r235 / 7dfa5005
 KB METADATA -->
 
 # Thread Concerting Tier List
