@@ -11,7 +11,7 @@ tags: [relic,clam,arena,soul,organ,brain,minion]
 
 <!-- KB METADATA
 > Last edited: 2026-11-15 04:00 UTC (git)
-> Version: r240 / 3b208b4c
+> Version: r241 / 2a14d05a
 KB METADATA -->
 
 # Thread Minion Talents
