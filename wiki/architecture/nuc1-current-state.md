@@ -1,20 +1,20 @@
 # NUC1 Current State
 
 > Category: architecture
-> Updated: 2026-11-16T04:00:47Z
+> Updated: 2026-11-16T16:00:48Z
 > Sources: raw/inbox-nuc1/
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-11-16 04:00 UTC (git)
-> Version: r427 / 3342c813
+> Last edited: 2026-11-16 16:00 UTC (git)
+> Version: r428 / 17aa962c
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Host
 - **Hostname:** slimy-nuc1
-- **Last seen:** 20261115T160001Z
+- **Last seen:** 20261116T040101Z
 
 ## Repository Status
 - **Total repos tracked:** 19
@@ -25,13 +25,13 @@ KB METADATA -->
 - _(none detected in this digest)_
 
 ## Open Issues (from todo queue)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: source_review — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: slimy-harness — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: kb — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: black-fish-farms-morning-brief — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo diverged from remote: Slimefun4 — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo — repo_drift (aging)
-- **[HIGH/candidate]** NUC1 KB has uncommitted changes — repo_drift (aging)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: source_review — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: slimy-harness — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: kb — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: black-fish-farms-morning-brief — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: Slimefun4 — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 KB has uncommitted changes — repo_drift (fresh)
 
 <!-- END MACHINE MANAGED -->
 
