@@ -5,8 +5,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-11-15 16:00 UTC (git)
-> Version: r412 / 628df78c
+> Last edited: 2026-11-16 04:00 UTC (git)
+> Version: r413 / 2b3311f5
 KB METADATA -->
 
 OpenClaw workspace researcher — the research-focused subagent in the OpenCLAW agent hierarchy. Handles information gathering, analysis, session management, memory protocols, heartbeat scheduling, and group chat safety. Part of the .openclaw agent framework.

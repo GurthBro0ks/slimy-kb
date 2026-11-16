@@ -1,7 +1,7 @@
-# Candidate Review Pack — 2026-11-15T16:00:46Z
+# Candidate Review Pack — 2026-11-16T04:00:47Z
 
 > Stage: 1.86
-> Generated: 2026-11-15T16:00:46Z
+> Generated: 2026-11-16T04:00:47Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
@@ -15,8 +15,8 @@
 - **Total in queue:** 13
 
 ## Freshness Bands
-- **fresh** (< 24h): 13
-- **aging** (24-72h): 0
+- **fresh** (< 24h): 6
+- **aging** (24-72h): 7
 - **stale** (> 72h): 0
 
 ## Candidates — Ready for Harness Dispatch Review
@@ -24,14 +24,14 @@
 These tasks meet all Stage 1.86 promotion criteria:
 recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
-### [todo-2026-11-15-001] NUC1 repo has uncommitted changes: source_review
+### [todo-2026-11-16-001] NUC1 repo has uncommitted changes: source_review
 
 | Field | Value |
 |-------|-------|
 | Project | source_review |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 9x lifetime |
-| Freshness | fresh |
+| Persistence | 5x recent / 10x lifetime |
+| Freshness | aging |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -41,14 +41,14 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review source_review on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-11-15-002] NUC1 repo has uncommitted changes: slimy-harness
+### [todo-2026-11-16-002] NUC1 repo has uncommitted changes: slimy-harness
 
 | Field | Value |
 |-------|-------|
 | Project | slimy-harness |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 47x lifetime |
-| Freshness | fresh |
+| Persistence | 5x recent / 48x lifetime |
+| Freshness | aging |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -58,14 +58,14 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review slimy-harness on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-11-15-003] NUC1 repo has uncommitted changes: kb
+### [todo-2026-11-16-003] NUC1 repo has uncommitted changes: kb
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 150x lifetime |
-| Freshness | fresh |
+| Persistence | 5x recent / 151x lifetime |
+| Freshness | aging |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -76,14 +76,14 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review kb on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-11-15-004] NUC1 repo has uncommitted changes: black-fish-farms-morning-brief
+### [todo-2026-11-16-004] NUC1 repo has uncommitted changes: black-fish-farms-morning-brief
 
 | Field | Value |
 |-------|-------|
 | Project | black-fish-farms-morning-brief |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 9x lifetime |
-| Freshness | fresh |
+| Persistence | 5x recent / 10x lifetime |
+| Freshness | aging |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -93,14 +93,14 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review black-fish-farms-morning-brief on NUC1, commit or stash uncommitted work, push if appropriate.
 
-### [todo-2026-11-15-005] NUC1 repo diverged from remote: Slimefun4
+### [todo-2026-11-16-005] NUC1 repo diverged from remote: Slimefun4
 
 | Field | Value |
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 224x lifetime |
-| Freshness | fresh |
+| Persistence | 5x recent / 225x lifetime |
+| Freshness | aging |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -110,14 +110,14 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review Slimefun4 on NUC1, merge or rebase remote changes, resolve any conflicts.
 
-### [todo-2026-11-15-006] NUC1 repo diverged from remote: slimy-monorepo
+### [todo-2026-11-16-006] NUC1 repo diverged from remote: slimy-monorepo
 
 | Field | Value |
 |-------|-------|
 | Project | slimy-monorepo |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 224x lifetime |
-| Freshness | fresh |
+| Persistence | 5x recent / 225x lifetime |
+| Freshness | aging |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |
@@ -128,13 +128,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review slimy-monorepo on NUC1, merge or rebase remote changes, resolve any conflicts.
 
-### [todo-2026-11-15-007] Resolve 86 orphaned wiki pages
+### [todo-2026-11-16-007] Resolve 86 orphaned wiki pages
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 112x lifetime |
+| Persistence | 5x recent / 113x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/_orphans.md |
 | Dispatch blocker | advisory_only |
@@ -146,13 +146,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Review each orphan: add links from related pages, merge into existing articles, or delete if redundant.
 
-### [todo-2026-11-15-008] Review orphaned page: game/30-stone-corrections.md
+### [todo-2026-11-16-008] Review orphaned page: game/30-stone-corrections.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 132x lifetime |
+| Persistence | 5x recent / 133x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/30-stone-corrections.md |
 | Dispatch blocker | advisory_only |
@@ -164,13 +164,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/30-stone-corrections.md should be linked from related articles or removed.
 
-### [todo-2026-11-15-009] Review orphaned page: game/biozilla-relics.md
+### [todo-2026-11-16-009] Review orphaned page: game/biozilla-relics.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 132x lifetime |
+| Persistence | 5x recent / 133x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/biozilla-relics.md |
 | Dispatch blocker | advisory_only |
@@ -182,13 +182,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/biozilla-relics.md should be linked from related articles or removed.
 
-### [todo-2026-11-15-010] Review orphaned page: game/compass-guide.md
+### [todo-2026-11-16-010] Review orphaned page: game/compass-guide.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 132x lifetime |
+| Persistence | 5x recent / 133x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/compass-guide.md |
 | Dispatch blocker | advisory_only |
@@ -200,13 +200,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/compass-guide.md should be linked from related articles or removed.
 
-### [todo-2026-11-15-011] Review orphaned page: game/gear-leveling-guide.md
+### [todo-2026-11-16-011] Review orphaned page: game/gear-leveling-guide.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 132x lifetime |
+| Persistence | 5x recent / 133x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/gear-leveling-guide.md |
 | Dispatch blocker | advisory_only |
@@ -218,13 +218,13 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/gear-leveling-guide.md should be linked from related articles or removed.
 
-### [todo-2026-11-15-012] Review orphaned page: game/glorium-guide.md
+### [todo-2026-11-16-012] Review orphaned page: game/glorium-guide.md
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 132x lifetime |
+| Persistence | 5x recent / 133x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/glorium-guide.md |
 | Dispatch blocker | advisory_only |
@@ -236,14 +236,14 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 
 **Recommended action:** Check if game/glorium-guide.md should be linked from related articles or removed.
 
-### [todo-2026-11-15-013] NUC1 KB has uncommitted changes
+### [todo-2026-11-16-013] NUC1 KB has uncommitted changes
 
 | Field | Value |
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 150x lifetime |
-| Freshness | fresh |
+| Persistence | 5x recent / 151x lifetime |
+| Freshness | aging |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
 | Actionability | actionable |

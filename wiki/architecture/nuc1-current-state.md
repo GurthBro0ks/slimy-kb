@@ -1,13 +1,13 @@
 # NUC1 Current State
 
 > Category: architecture
-> Updated: 2026-11-15T16:00:46Z
+> Updated: 2026-11-16T04:00:47Z
 > Sources: raw/inbox-nuc1/
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-11-15 16:00 UTC (git)
-> Version: r425 / 628df78c
+> Last edited: 2026-11-16 04:00 UTC (git)
+> Version: r426 / 2b3311f5
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -25,13 +25,13 @@ KB METADATA -->
 - _(none detected in this digest)_
 
 ## Open Issues (from todo queue)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: source_review — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: slimy-harness — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: kb — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo has uncommitted changes: black-fish-farms-morning-brief — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo diverged from remote: Slimefun4 — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo — repo_drift (fresh)
-- **[HIGH/candidate]** NUC1 KB has uncommitted changes — repo_drift (fresh)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: source_review — repo_drift (aging)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: slimy-harness — repo_drift (aging)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: kb — repo_drift (aging)
+- **[HIGH/candidate]** NUC1 repo has uncommitted changes: black-fish-farms-morning-brief — repo_drift (aging)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: Slimefun4 — repo_drift (aging)
+- **[HIGH/candidate]** NUC1 repo diverged from remote: slimy-monorepo — repo_drift (aging)
+- **[HIGH/candidate]** NUC1 KB has uncommitted changes — repo_drift (aging)
 
 <!-- END MACHINE MANAGED -->
 
