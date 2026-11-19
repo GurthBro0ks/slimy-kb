@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-11-19 04:00 UTC (git)
-> Version: r425 / 5c59faa0
+> Last edited: 2026-11-19 04:01 UTC (git)
+> Version: r426 / e6d88105
 KB METADATA -->
 
 This concept defines the non-negotiable working contract used across SlimyAI repos.
