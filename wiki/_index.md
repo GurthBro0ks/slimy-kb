@@ -4,7 +4,7 @@
 
 <!-- KB METADATA
 > Last edited: 2026-11-19 16:01 UTC (git)
-> Version: r506 / 50e9e67f
+> Version: r507 / 0e7c7a8c
 KB METADATA -->
 
 ---
