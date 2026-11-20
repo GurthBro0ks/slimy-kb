@@ -5,8 +5,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-11-20 04:01 UTC (git)
-> Version: r429 / 02b2932a
+> Last edited: 2026-11-20 04:02 UTC (git)
+> Version: r430 / abd29b99
 KB METADATA -->
 
 Autonomous trading bot for Kalshi prediction markets powered by a five-model AI ensemble. Five LLMs debate every trade; system only enters when they agree. Ships with discipline systems (category scoring, portfolio enforcement, risk guardrails).

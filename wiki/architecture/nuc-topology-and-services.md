@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-11-20 04:01 UTC (git)
-> Version: r435 / 02b2932a
+> Last edited: 2026-11-20 04:02 UTC (git)
+> Version: r436 / abd29b99
 KB METADATA -->
 
 SlimyAI is split across NUC1 and NUC2 with clear service boundaries.
