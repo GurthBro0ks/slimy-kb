@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-11-21 04:02 UTC (git)
-> Version: r446 / 53a53db0
+> Last edited: 2026-11-21 04:03 UTC (git)
+> Version: r447 / 17eee6b3
 KB METADATA -->
 
 The Slimy monorepo hosts web, bot, and supporting packages with shared CI and infrastructure documentation.

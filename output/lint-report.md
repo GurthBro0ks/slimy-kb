@@ -1,6 +1,6 @@
 # KB Lint Report
 
-- **Generated:** 2026-11-21T04:02:15Z
+- **Generated:** 2026-11-21T16:02:23Z
 - **Host:** slimy-nuc2
 - **KB Root:** `/home/slimy/kb`
 - **Vault:** `/home/slimy/obsidian/slimyai-vault`

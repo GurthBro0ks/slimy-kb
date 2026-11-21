@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-11-21 04:02 UTC (git)
-> Version: r435 / 53a53db0
+> Last edited: 2026-11-21 04:03 UTC (git)
+> Version: r436 / 17eee6b3
 KB METADATA -->
 
 This bundle hosts trading bot strategy code, venue connectors, and operations scripts.
