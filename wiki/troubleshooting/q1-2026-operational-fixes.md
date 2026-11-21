@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-11-20 16:03 UTC (git)
-> Version: r432 / 3319b7cb
+> Last edited: 2026-11-21 04:02 UTC (git)
+> Version: r433 / 53a53db0
 KB METADATA -->
 
 This article captures recurring failures and proven fixes from recent execution history.
