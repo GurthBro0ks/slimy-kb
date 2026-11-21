@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "date": "2026-11-20",
   "hostname": "slimy-nuc1",
-  "run_id": "20261120T040303Z-36b9a1ec",
+  "run_id": "20261120T160304Z-36b9a1ec",
   "prev_digest_date": null,
   "total_submissions": 0,
   "specimen_refs": [],
@@ -17,5 +17,5 @@
   "provider_summary": {},
   "error_summary": [],
   "scans_processed": [],
-  "generated_at": "2026-11-20T04:03:03.790684+00:00"
+  "generated_at": "2026-11-20T16:03:04.951279+00:00"
 }
