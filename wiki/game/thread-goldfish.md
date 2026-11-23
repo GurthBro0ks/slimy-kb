@@ -10,8 +10,8 @@ tags: [goldfish,minion,rush]
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-11-22 16:04 UTC (git)
-> Version: r271 / f14ae1f9
+> Last edited: 2026-11-23 04:02 UTC (git)
+> Version: r272 / 574b4dfd
 KB METADATA -->
 
 # Thread Goldfish
