@@ -1,7 +1,7 @@
-# Candidate Review Pack — 2026-11-24T04:04:48Z
+# Candidate Review Pack — 2026-11-24T16:04:11Z
 
 > Stage: 1.86
-> Generated: 2026-11-24T04:04:48Z
+> Generated: 2026-11-24T16:04:11Z
 > Purpose: Human review digest for future harness dispatch
 
 **This file does NOT dispatch. It is a review aid.**
@@ -30,7 +30,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | source_review |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 26x lifetime |
+| Persistence | 5x recent / 27x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -47,7 +47,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | slimy-harness |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 64x lifetime |
+| Persistence | 5x recent / 65x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -64,7 +64,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 167x lifetime |
+| Persistence | 5x recent / 168x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -82,7 +82,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | black-fish-farms-morning-brief |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 26x lifetime |
+| Persistence | 5x recent / 27x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -99,7 +99,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | Slimefun4 |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 241x lifetime |
+| Persistence | 5x recent / 242x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -116,7 +116,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | slimy-monorepo |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 241x lifetime |
+| Persistence | 5x recent / 242x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
@@ -134,7 +134,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 129x lifetime |
+| Persistence | 5x recent / 130x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/_orphans.md |
 | Dispatch blocker | advisory_only |
@@ -152,7 +152,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 149x lifetime |
+| Persistence | 5x recent / 150x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/30-stone-corrections.md |
 | Dispatch blocker | advisory_only |
@@ -170,7 +170,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 149x lifetime |
+| Persistence | 5x recent / 150x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/biozilla-relics.md |
 | Dispatch blocker | advisory_only |
@@ -188,7 +188,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 149x lifetime |
+| Persistence | 5x recent / 150x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/compass-guide.md |
 | Dispatch blocker | advisory_only |
@@ -206,7 +206,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 149x lifetime |
+| Persistence | 5x recent / 150x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/gear-leveling-guide.md |
 | Dispatch blocker | advisory_only |
@@ -224,7 +224,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (wiki_gap) |
-| Persistence | 5x recent / 149x lifetime |
+| Persistence | 5x recent / 150x lifetime |
 | Freshness | fresh |
 | Evidence | wiki/game/glorium-guide.md |
 | Dispatch blocker | advisory_only |
@@ -242,7 +242,7 @@ recent evidence (3+ in last 5 runs), fresh/aging evidence, medium+ severity.
 |-------|-------|
 | Project | kb |
 | Severity | HIGH (repo_drift) |
-| Persistence | 5x recent / 167x lifetime |
+| Persistence | 5x recent / 168x lifetime |
 | Freshness | fresh |
 | Evidence | raw/inbox-nuc1/ |
 | Dispatch blocker | advisory_only |
