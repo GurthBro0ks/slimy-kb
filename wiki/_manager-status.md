@@ -1,14 +1,14 @@
 # Wiki Manager Status
 
 > Category: concepts
-> Updated: 2026-11-25T04:04:59Z
+> Updated: 2026-11-25T16:04:47Z
 
 <!-- KB METADATA
-> Last edited: 2026-11-25 04:05 UTC (git)
-> Version: r465 / 30d1ca2d
+> Last edited: 2026-11-25 16:03 UTC (git)
+> Version: r466 / 6791f18d
 KB METADATA -->
 
-**Last run:** 2026-11-25T04:04:59Z
+**Last run:** 2026-11-25T16:04:47Z
 **Stage:** 1.86
 **Backend:** stub
 **NUC1 evidence:** consumed
