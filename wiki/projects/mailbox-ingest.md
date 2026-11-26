@@ -6,8 +6,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-11-26 04:03 UTC (git)
-> Version: r452 / 563eca81
+> Last edited: 2026-11-26 04:04 UTC (git)
+> Version: r453 / 71682d5c
 KB METADATA -->
 
 Mailbox-based NUC-to-NUC communication ingest. Synchronizes reports from NUC1 to NUC2 via a shared git bare repository.
