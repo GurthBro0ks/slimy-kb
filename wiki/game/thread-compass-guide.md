@@ -10,8 +10,8 @@ tags: [relic,compass,farm,push,arena,organ,brain,civ]
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-11-25 16:03 UTC (git)
-> Version: r282 / 6791f18d
+> Last edited: 2026-11-25 16:04 UTC (git)
+> Version: r283 / ef40020b
 KB METADATA -->
 
 # Thread Compass Guide
