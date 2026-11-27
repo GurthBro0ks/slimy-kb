@@ -6,8 +6,8 @@
 > Status: reviewed
 
 <!-- KB METADATA
-> Last edited: 2026-11-26 16:03 UTC (git)
-> Version: r460 / 752be336
+> Last edited: 2026-11-26 16:05 UTC (git)
+> Version: r461 / 96ecf647
 KB METADATA -->
 
 This pattern standardizes how a SlimyAI agent session is opened and closed.
