@@ -5,8 +5,8 @@
 > Status: draft
 
 <!-- KB METADATA
-> Last edited: 2026-11-27 04:03 UTC (git)
-> Version: r456 / c4b46189
+> Last edited: 2026-11-27 04:04 UTC (git)
+> Version: r457 / 8e6160c9
 KB METADATA -->
 
 Chriss Agent is a webhook bridge service running on NUC2, providing a Python-based HTTP bridge on port 3850.
