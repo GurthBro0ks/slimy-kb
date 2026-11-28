@@ -10,8 +10,8 @@ tags: [apostle,rush,crit]
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-11-27 16:07 UTC (git)
-> Version: r291 / de0dd206
+> Last edited: 2026-11-28 04:03 UTC (git)
+> Version: r292 / 1326d839
 KB METADATA -->
 
 # Thread Protomon Help
