@@ -10,8 +10,8 @@ tags: []
 ---
 
 <!-- KB METADATA
-> Last edited: 2026-11-28 04:04 UTC (git)
-> Version: r293 / a10ae9b6
+> Last edited: 2026-11-28 16:03 UTC (git)
+> Version: r294 / 36073829
 KB METADATA -->
 
 # Thread Calculating Elemental Damage

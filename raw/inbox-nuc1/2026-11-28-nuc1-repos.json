@@ -1,7 +1,7 @@
 {
-  "ts": "20261128T040415Z",
+  "ts": "20261128T160418Z",
   "hostname": "unknown",
-  "count": 19,
+  "count": 22,
   "repos": [
     {
       "name": "source",
@@ -127,6 +127,55 @@
       "kb_bridge_present": false,
       "kb_harness_present": true,
       "dirty_count": 1
+    },
+    {
+      "name": "c2-integrated",
+      "path": "/home/slimy/proofs/antigravity-m10-c1-20261128T115301Z/c2-integrated",
+      "relative_path": "proofs/antigravity-m10-c1-20261128T115301Z/c2-integrated",
+      "ok": true,
+      "branch": "master",
+      "commit_hash": "fabe4ac0aaeb",
+      "commit_subject": "Stage integrated proc protection and fail-closed runtime acceptance overlay",
+      "dirty": false,
+      "remote": "/home/slimy/proofs/antigravity-m10-c1-20261128T115301Z/c2-development",
+      "ahead_behind": {
+        "base": "origin/master",
+        "ahead": 0,
+        "behind": 1
+      },
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    },
+    {
+      "name": "proc-diagnostic",
+      "path": "/home/slimy/proofs/antigravity-m10-c1-20261128T115301Z/proc-diagnostic",
+      "relative_path": "proofs/antigravity-m10-c1-20261128T115301Z/proc-diagnostic",
+      "ok": true,
+      "branch": "master",
+      "commit_hash": "95f0d323828b",
+      "commit_subject": "Record reviewed live proc diagnostic causality and teardown evidence",
+      "dirty": false,
+      "remote": null,
+      "ahead_behind": null,
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
+    },
+    {
+      "name": "c2-development",
+      "path": "/home/slimy/proofs/antigravity-m10-c1-20261128T115301Z/c2-development",
+      "relative_path": "proofs/antigravity-m10-c1-20261128T115301Z/c2-development",
+      "ok": true,
+      "branch": "master",
+      "commit_hash": "4689c888e37f",
+      "commit_subject": "Stage systemd NETLINK compatibility repair with payload seccomp denial",
+      "dirty": false,
+      "remote": null,
+      "ahead_behind": null,
+      "kb_bridge_present": false,
+      "kb_harness_present": false,
+      "dirty_count": 0
     },
     {
       "name": "kb",
@@ -319,7 +368,7 @@
       "relative_path": ".codex/memories",
       "ok": true,
       "branch": "main",
-      "commit_hash": "255222dbeb16",
+      "commit_hash": "dc1e3a64bfbb",
       "commit_subject": "Initialize Codex git baseline",
       "dirty": false,
       "remote": null,

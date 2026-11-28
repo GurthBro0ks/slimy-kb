@@ -1,12 +1,12 @@
 # Repo Health Overview
 
 > Category: projects
-> Updated: 2026-11-28T04:04:43Z
+> Updated: 2026-11-28T16:04:34Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-11-28 04:04 UTC (git)
-> Version: r475 / a10ae9b6
+> Last edited: 2026-11-28 16:03 UTC (git)
+> Version: r476 / 36073829
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
@@ -23,6 +23,9 @@ KB METADATA -->
 | mission-control | — | — |
 | source_review | ⚠️ YES | — |
 | slimy-harness | ⚠️ YES | — |
+| c2-integrated | — | — |
+| proc-diagnostic | — | — |
+| c2-development | — | — |
 | kb | ⚠️ YES | — |
 | ned-autonomous | — | — |
 | stoat-source | — | — |
@@ -33,8 +36,6 @@ KB METADATA -->
 | actual-budget | — | — |
 | slimy-monorepo | — | ⚠️ YES |
 | plugins-clone-EZQNz8 | — | — |
-| plugins | — | — |
-| memories | — | — |
 
 ### NUC2 Repos
 - _NUC2 repo state parsed from local git status_

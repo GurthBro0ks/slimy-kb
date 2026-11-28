@@ -1,24 +1,24 @@
 # Project Health Index
 
 > Category: projects
-> Updated: 2026-11-28T04:04:43Z
+> Updated: 2026-11-28T16:04:34Z
 > Status: active
 
 <!-- KB METADATA
-> Last edited: 2026-11-28 04:04 UTC (git)
-> Version: r469 / a10ae9b6
+> Last edited: 2026-11-28 16:03 UTC (git)
+> Version: r470 / 36073829
 KB METADATA -->
 
 <!-- BEGIN MACHINE MANAGED — Do not edit manually -->
 
 ## Summary
 
-- NUC1 repos tracked: 19
+- NUC1 repos tracked: 22
 - With project page: 7
-- Without project page: 12
+- Without project page: 15
 - Dirty (uncommitted): 4
 - Diverged (ahead + behind): 2
-- Clean: 13
+- Clean: 16
 
 ## Pages Updated This Run
 
@@ -41,9 +41,12 @@ KB METADATA -->
 - **Slimefun4** — DIVERGED
 - **actual-budget** — clean
 - **black-fish-farms-morning-brief** — DIRTY
+- **c2-development** — clean
+- **c2-integrated** — clean
 - **memories** — clean
 - **plugins** — clean
 - **plugins-clone-EZQNz8** — clean
+- **proc-diagnostic** — clean
 - **receipt-vault** — clean
 - **slimy-harness** — DIRTY
 - **source** — clean
@@ -58,6 +61,8 @@ KB METADATA -->
 | Slimefun4 | — | ⚠️ DIVERGED |
 | actual-budget | — | — |
 | black-fish-farms-morning-brief | ⚠️ DIRTY | — |
+| c2-development | — | — |
+| c2-integrated | — | — |
 | kb | ⚠️ DIRTY | — |
 | mailbox_outbox | — | — |
 | memories | — | — |
@@ -65,6 +70,7 @@ KB METADATA -->
 | ned-autonomous | — | — |
 | plugins | — | — |
 | plugins-clone-EZQNz8 | — | — |
+| proc-diagnostic | — | — |
 | receipt-vault | — | — |
 | slimy-chat | — | — |
 | slimy-harness | ⚠️ DIRTY | — |
