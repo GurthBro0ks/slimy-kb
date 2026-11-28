@@ -6,8 +6,8 @@
 > Status: reviewed
 
 <!-- KB METADATA
-> Last edited: 2026-11-28 04:03 UTC (git)
-> Version: r461 / 1326d839
+> Last edited: 2026-11-28 04:04 UTC (git)
+> Version: r462 / a10ae9b6
 KB METADATA -->
 
 Normalized GitHub remotes to SSH on NUC1 to match the autofinish non-interactive policy already in place on NUC2. All GurthBro0ks-owned repos now use SSH; third-party and local-only repos are excluded with appropriate guards.

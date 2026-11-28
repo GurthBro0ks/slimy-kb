@@ -7,8 +7,8 @@
 > Note: Re-verified 2026-04-24 (compile 20260424-174222): all priority batch files already sourced or deferred. seed-clawd-agents.md → clawd-agent-rules.md; seed-workspace-agents.md → workspace-agent-rules.md; seed-agents-rules.md → same source as clawd+workspace rules; seed-progress-history.md → deferred (no new content); seed-server-state.md → nuc2-server-state.md; all 2026-04-05 research/agent-learnings already sourced into troubleshooting articles (kb-autofinish-autocompile-fix, nuc2-repo-remote-ssh-normalization, nuc1-wrapper-recursion-fix, nginx-certbot-acme-fix); 2026-04-22 certbot-acme-fix duplicate of existing article — deferred. No new wiki content required. Status: reviewed.
 
 <!-- KB METADATA
-> Last edited: 2026-11-28 04:03 UTC (git)
-> Version: r478 / 1326d839
+> Last edited: 2026-11-28 04:04 UTC (git)
+> Version: r479 / a10ae9b6
 KB METADATA -->
 
 Fix for the KB write-through automation where `slimy-agent-finish.sh` left raw files uncommitted and `kb-compile-if-needed.sh` only wrote prompt files without triggering actual wiki compilation.
