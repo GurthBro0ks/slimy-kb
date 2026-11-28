@@ -5,8 +5,8 @@
 > Updated: 2026-04-09
 
 <!-- KB METADATA
-> Last edited: 2026-11-27 16:03 UTC (git)
-> Version: r458 / 6c02abd7
+> Last edited: 2026-11-27 16:07 UTC (git)
+> Version: r459 / de0dd206
 KB METADATA -->
 
 ## Purpose

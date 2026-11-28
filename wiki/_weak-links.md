@@ -1,11 +1,11 @@
 # Low-Connectivity Pages
 
 > Pages with only 1 inbound link (weak connectivity). These may need more cross-linking.
-> Generated: 2026-11-27T16:03:21Z by kb-lint.sh
+> Generated: 2026-11-28T04:03:33Z by kb-lint.sh
 
 <!-- KB METADATA
-> Last edited: 2026-11-27 16:03 UTC (git)
-> Version: r472 / 6c02abd7
+> Last edited: 2026-11-27 16:07 UTC (git)
+> Version: r473 / de0dd206
 KB METADATA -->
 
 **Total weak links: 8**
